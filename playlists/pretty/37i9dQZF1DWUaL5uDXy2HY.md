@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUaL5uDXy2HY.md) - [plain]
 
 > Hairdryer, vacuum\-cleaner & other homely sounds to fall asleep with
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,678 likes - 41 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,697 likes - 41 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hair Dryer](https://open.spotify.com/track/3jPk2S7JCbB6KzD3EcJPVR) | [ADEO](https://open.spotify.com/artist/6YCRjWMbTy8DJ8741wT1ip) | [Home Sounds](https://open.spotify.com/album/5TdXyGgm1BhGelRpRmT1rf) | 2:00 |
 | 2 | [ASMR The Sound of Hair Dryer](https://open.spotify.com/track/4hYCVFVzYhUPm4LXgrolGO) | [ASMR White Noise](https://open.spotify.com/artist/7AvlDuhY5Ym8GbcqPXTHkf) | [ASMR White Noise Best 1](https://open.spotify.com/album/41NIMlidxzRYiqjE0QVc4p) | 5:49 |
 | 3 | [Hairdryer Sound \(Low Level\)](https://open.spotify.com/track/0QrJwKcAykiwYPHFVYnmCb) | [Banyan Son](https://open.spotify.com/artist/6ev7PtTHvp24QGzSLtqDnf) | [Baby After Hour \- Sleep Sounds](https://open.spotify.com/album/2cpvt3md4aAGfkwuZaPKgM) | 3:27 |
-| 4 | [White Noise Hairdryer Background Sound \(Loopable no fade\)](https://open.spotify.com/track/0GfS9eLypZhSnyjAcxAFhq) | [Dream Supplier](https://open.spotify.com/artist/6Cqtx9fpxzggIMuKn0RGCp), [Baby Sleeps](https://open.spotify.com/artist/48zEowASEXWsK6lgP1xotZ), [Background White Noise](https://open.spotify.com/artist/7nixcnKd43u9a29ZMawfnh) | [Hair Dryer Sounds For Sleeping Part One \(Loopable\)](https://open.spotify.com/album/1AqBccPKK5zoJwCdWQcRpH) | 2:22 |
+| 4 | [White Noise Hairdryer Background Sound \(Loopable no fade\)](https://open.spotify.com/track/0GfS9eLypZhSnyjAcxAFhq) | [Dream Supplier](https://open.spotify.com/artist/6Cqtx9fpxzggIMuKn0RGCp) | [Hair Dryer Sounds For Sleeping Part One \(Loopable\)](https://open.spotify.com/album/1AqBccPKK5zoJwCdWQcRpH) | 2:22 |
 | 5 | [Hair Dryer Sound \- Warm Steady Soothing Swoosh \- Blowdryer](https://open.spotify.com/track/1mX0DS0oH2k4YDrpaY8rca) | [Torsten Abrolat](https://open.spotify.com/artist/4POPMvpDC7yGtZZ1agfhT0) | [Get Your Baby to Sleep: 20 Soothing Sounds Help Your Child Falling Asleep \- Often Better Than Music](https://open.spotify.com/album/4UirIYtbECH9sVstZvRjWP) | 5:58 |
 | 6 | [Slow Blowdryer Relaxing Sounds](https://open.spotify.com/track/39XNwvrgzj4UnORZP9gpje) | [Alexa Harrell](https://open.spotify.com/artist/2GsFKJ1OxKtTC2dB917ION), [Katie Anne Trigger Sounds](https://open.spotify.com/artist/32k3iA5kL7SnoIrOG9x8Iu) | [Hairdryer White Noise \- Sleep Aid](https://open.spotify.com/album/3EW1WLuiWWmeS7RiKYYQZ8) | 3:17 |
 | 7 | [Vacuum Cleaner \(Extended\)](https://open.spotify.com/track/72mm4kiD5XE4AcDX5yUE8P) | [Jolmo](https://open.spotify.com/artist/5ACz9R2Gx9bgrHGE7KwAFY) | [Sounds for Your Baby to Sleep](https://open.spotify.com/album/7uouTY7YAZkMos8W1W9UZf) | 3:14 |

@@ -579,22 +579,6 @@
     {
       "added_at": "2025-12-22 17:09:10",
       "album": {
-        "name": "Blicc",
-        "url": "https://open.spotify.com/album/6XjzZGNmJh7cAfrxI5WiKS"
-      },
-      "artists": [
-        {
-          "name": "Duckshell",
-          "url": "https://open.spotify.com/artist/0UwipkMBTtmv6dORNlafC9"
-        }
-      ],
-      "duration_ms": 228519,
-      "name": "Blicc",
-      "url": "https://open.spotify.com/track/2lXERDGIK7xnA6klLbMFy6"
-    },
-    {
-      "added_at": "2025-12-22 17:09:10",
-      "album": {
         "name": "Jerik\u00f3",
         "url": "https://open.spotify.com/album/455HvLY620gM3Ia8tO7JR7"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 162000,
       "name": "Jerik\u00f3",
       "url": "https://open.spotify.com/track/2buK5D1SetmgAPAl10tCq3"
+    },
+    {
+      "added_at": "2025-12-22 17:09:10",
+      "album": {
+        "name": "Blicc",
+        "url": "https://open.spotify.com/album/6XjzZGNmJh7cAfrxI5WiKS"
+      },
+      "artists": [
+        {
+          "name": "Duckshell",
+          "url": "https://open.spotify.com/artist/0UwipkMBTtmv6dORNlafC9"
+        }
+      ],
+      "duration_ms": 228519,
+      "name": "Blicc",
+      "url": "https://open.spotify.com/track/2lXERDGIK7xnA6klLbMFy6"
     },
     {
       "added_at": "2025-12-22 17:09:10",
@@ -671,22 +671,6 @@
     {
       "added_at": "2025-12-22 17:09:10",
       "album": {
-        "name": "\u00c9rkez\u0151s Indul\u00f3",
-        "url": "https://open.spotify.com/album/22wXi4UKNsLpG0EQX9enfZ"
-      },
-      "artists": [
-        {
-          "name": "Duckshell",
-          "url": "https://open.spotify.com/artist/0UwipkMBTtmv6dORNlafC9"
-        }
-      ],
-      "duration_ms": 247246,
-      "name": "\u00c9rkez\u0151s Indul\u00f3",
-      "url": "https://open.spotify.com/track/7n6PZ0ZFy3G7UDNWe7NcFP"
-    },
-    {
-      "added_at": "2025-12-22 17:09:10",
-      "album": {
         "name": "Tegnapr\u00f3l",
         "url": "https://open.spotify.com/album/3VzA5HgPg0K40vanfTIOCQ"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 179580,
       "name": "\u00dct\u00f6tt kopott",
       "url": "https://open.spotify.com/track/2iF0jIPxbWCe0KstpEYgt5"
+    },
+    {
+      "added_at": "2025-12-22 17:09:10",
+      "album": {
+        "name": "\u00c9rkez\u0151s Indul\u00f3",
+        "url": "https://open.spotify.com/album/22wXi4UKNsLpG0EQX9enfZ"
+      },
+      "artists": [
+        {
+          "name": "Duckshell",
+          "url": "https://open.spotify.com/artist/0UwipkMBTtmv6dORNlafC9"
+        }
+      ],
+      "duration_ms": 247246,
+      "name": "\u00c9rkez\u0151s Indul\u00f3",
+      "url": "https://open.spotify.com/track/7n6PZ0ZFy3G7UDNWe7NcFP"
     },
     {
       "added_at": "2025-12-22 17:09:10",
@@ -739,26 +739,6 @@
     {
       "added_at": "2025-12-22 17:09:10",
       "album": {
-        "name": "Sose halok meg",
-        "url": "https://open.spotify.com/album/2jjL8YIaoo22mtpWKsq1jR"
-      },
-      "artists": [
-        {
-          "name": "Sol\u00e9re",
-          "url": "https://open.spotify.com/artist/07sbUsuT49AfdnbAZukniP"
-        },
-        {
-          "name": "\u00d3tvar Pestis",
-          "url": "https://open.spotify.com/artist/1AyF8iJgMe4LMNe8bUM1Yo"
-        }
-      ],
-      "duration_ms": 128578,
-      "name": "Sose halok meg",
-      "url": "https://open.spotify.com/track/5IXSSKNUW3v7ewkQWXgcNx"
-    },
-    {
-      "added_at": "2025-12-22 17:09:10",
-      "album": {
         "name": "Nekedval\u00f3s\u00e1g",
         "url": "https://open.spotify.com/album/6LnlDFhGowcmBR0t2xaPjS"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 213333,
       "name": "Nekedval\u00f3s\u00e1g",
       "url": "https://open.spotify.com/track/7Imx5CtDuBNwGsE0Hdxuyi"
+    },
+    {
+      "added_at": "2025-12-22 17:09:10",
+      "album": {
+        "name": "Sose halok meg",
+        "url": "https://open.spotify.com/album/2jjL8YIaoo22mtpWKsq1jR"
+      },
+      "artists": [
+        {
+          "name": "Sol\u00e9re",
+          "url": "https://open.spotify.com/artist/07sbUsuT49AfdnbAZukniP"
+        },
+        {
+          "name": "\u00d3tvar Pestis",
+          "url": "https://open.spotify.com/artist/1AyF8iJgMe4LMNe8bUM1Yo"
+        }
+      ],
+      "duration_ms": 128578,
+      "name": "Sose halok meg",
+      "url": "https://open.spotify.com/track/5IXSSKNUW3v7ewkQWXgcNx"
     },
     {
       "added_at": "2025-12-22 17:09:10",
@@ -847,22 +847,6 @@
     {
       "added_at": "2025-12-22 17:09:10",
       "album": {
-        "name": "Boh\u00e9m Himnusz",
-        "url": "https://open.spotify.com/album/1XOL9ld2JEiXfuMp9oKtn6"
-      },
-      "artists": [
-        {
-          "name": "ajsa luna",
-          "url": "https://open.spotify.com/artist/0PmmEd4m9BdqzxjMpMQwJE"
-        }
-      ],
-      "duration_ms": 197052,
-      "name": "Boh\u00e9m Himnusz",
-      "url": "https://open.spotify.com/track/1efQhXRuD8NvlWjGrBl1X7"
-    },
-    {
-      "added_at": "2025-12-22 17:09:10",
-      "album": {
         "name": "SZ\u00d3LNI KELL",
         "url": "https://open.spotify.com/album/47JjFF1Xmb9vnGFSLbTV1l"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 223386,
       "name": "KICSIKE F\u00c9NY",
       "url": "https://open.spotify.com/track/0zSJD8hIVRARlAXr6zLnWb"
+    },
+    {
+      "added_at": "2025-12-22 17:09:10",
+      "album": {
+        "name": "Boh\u00e9m Himnusz",
+        "url": "https://open.spotify.com/album/1XOL9ld2JEiXfuMp9oKtn6"
+      },
+      "artists": [
+        {
+          "name": "ajsa luna",
+          "url": "https://open.spotify.com/artist/0PmmEd4m9BdqzxjMpMQwJE"
+        }
+      ],
+      "duration_ms": 197052,
+      "name": "Boh\u00e9m Himnusz",
+      "url": "https://open.spotify.com/track/1efQhXRuD8NvlWjGrBl1X7"
     },
     {
       "added_at": "2025-12-22 17:09:10",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2025-12-22 17:09:10",
       "album": {
-        "name": "ART\u016aR RAMBO",
-        "url": "https://open.spotify.com/album/0WmKgFKeU9U0gXSIvwH93F"
-      },
-      "artists": [
-        {
-          "name": "Art\u016br Rambo",
-          "url": "https://open.spotify.com/artist/6ojhS7hjck7Lztk5mHagHe"
-        }
-      ],
-      "duration_ms": 167919,
-      "name": "Berill (r\u00e9vbe t\u00e9vedt r\u00e9szeg haj\u00f3)",
-      "url": "https://open.spotify.com/track/1SFKC25KCAaqUxyvESkxiS"
-    },
-    {
-      "added_at": "2025-12-22 17:09:10",
-      "album": {
         "name": "X",
         "url": "https://open.spotify.com/album/32wzMd5KnDN0BkArhepXqH"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 166000,
       "name": "kavicsok k\u00f6vek",
       "url": "https://open.spotify.com/track/0awKUATA6B9xzGvnLQn3k7"
+    },
+    {
+      "added_at": "2025-12-22 17:09:10",
+      "album": {
+        "name": "ART\u016aR RAMBO",
+        "url": "https://open.spotify.com/album/0WmKgFKeU9U0gXSIvwH93F"
+      },
+      "artists": [
+        {
+          "name": "Art\u016br Rambo",
+          "url": "https://open.spotify.com/artist/6ojhS7hjck7Lztk5mHagHe"
+        }
+      ],
+      "duration_ms": 167919,
+      "name": "Berill (r\u00e9vbe t\u00e9vedt r\u00e9szeg haj\u00f3)",
+      "url": "https://open.spotify.com/track/1SFKC25KCAaqUxyvESkxiS"
     },
     {
       "added_at": "2025-12-22 17:09:10",
@@ -1419,22 +1419,18 @@
     {
       "added_at": "2025-12-22 17:09:10",
       "album": {
-        "name": "Goly\u00f3\u00e1ll\u00f3",
-        "url": "https://open.spotify.com/album/3fnEMhFvAE1jWzJZyGhkm9"
+        "name": "Szeressetek",
+        "url": "https://open.spotify.com/album/7ncsXh9pjUQibmO2L7tnto"
       },
       "artists": [
         {
-          "name": "Szlimmy",
-          "url": "https://open.spotify.com/artist/5rNkX3yvQhR4BBN11HVTJY"
-        },
-        {
-          "name": "DO\u00d3R",
-          "url": "https://open.spotify.com/artist/2HVId5fHUsUJhDGXhU4Q5o"
+          "name": "Blahalouisiana",
+          "url": "https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP"
         }
       ],
-      "duration_ms": 185124,
-      "name": "Goly\u00f3\u00e1ll\u00f3",
-      "url": "https://open.spotify.com/track/7vF69V0FuxVa0TLslxdc8i"
+      "duration_ms": 182000,
+      "name": "Szeressetek",
+      "url": "https://open.spotify.com/track/1BYWwi0ELFixwltwVVizoQ"
     }
   ],
   "unique_name": "Nemazapop",

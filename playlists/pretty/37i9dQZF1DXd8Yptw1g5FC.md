@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Zeynep Bastık ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,522 likes - 114 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,551 likes - 114 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 59 | [Give Me The Night](https://open.spotify.com/track/0QpP9jLIUo2sUQs550c9fY) | [Glitter Dream](https://open.spotify.com/artist/6y739LjfyfFdKW998I7PAm), [Dayana](https://open.spotify.com/artist/5Vy6RSEJf7dqYyymV9T632) | [Give Me The Night](https://open.spotify.com/album/5SgrrLuyDN2rVfBI7JuMRJ) | 3:03 |
 | 60 | [NEDEN AĞLATTIN](https://open.spotify.com/track/20TZlfYoAzGJw36Om1D8Mo) | [seco](https://open.spotify.com/artist/6G4Kuk50ivifaF4TuH0WfQ) | [NEDEN AĞLATTIN](https://open.spotify.com/album/3nTPtVlRD0UiNC2r5Rysrd) | 3:04 |
 | 61 | [Gidesim Var](https://open.spotify.com/track/18ekOOm7DDXmf2QgFCwzNN) | [Eren Karayılan](https://open.spotify.com/artist/7bGkbxs0s0V3idSkzvEtKl), [Deniz İlke](https://open.spotify.com/artist/6mxbUu3Wg6S88l7IlQyi1b) | [Gidesim Var](https://open.spotify.com/album/45DiFQDzEVbMjSO4SONEPe) | 2:09 |
-| 62 | [Baby Freestyle](https://open.spotify.com/track/0iMBXcMSPGkwKrKjxBXLNU) | [KÖK$VL](https://open.spotify.com/artist/5fO16dsHVrojWL2mPzcdpq), [Khente](https://open.spotify.com/artist/50nZlFLb7yXeiLYiGEdtLG) | [Baby Freestyle](https://open.spotify.com/album/4xSidP5ID4hae8CBC8spXH) | 2:35 |
+| 62 | [Baby Freestyle](https://open.spotify.com/track/0iMBXcMSPGkwKrKjxBXLNU) | [Khente](https://open.spotify.com/artist/50nZlFLb7yXeiLYiGEdtLG), [KÖK$VL](https://open.spotify.com/artist/5fO16dsHVrojWL2mPzcdpq) | [Baby Freestyle](https://open.spotify.com/album/4xSidP5ID4hae8CBC8spXH) | 2:35 |
 | 63 | [bitti](https://open.spotify.com/track/0xgh8c8nsy4qVkFwQ6ONHj) | [cudi](https://open.spotify.com/artist/4PDG3CE9biFcxBuugZZEZP) | [bitti](https://open.spotify.com/album/5yccQkA0VvhBjXM8jNG4iz) | 2:41 |
 | 64 | [Zaman Kötü](https://open.spotify.com/track/7ioffSgiseDnHfNtBWJigE) | [Defne Samyeli](https://open.spotify.com/artist/1BRZppvuk0dM9dG7S3cTxS) | [Zaman Kötü](https://open.spotify.com/album/7ESyaqob1uMxEXtK64nenR) | 2:16 |
 | 65 | [KAN ÇANAĞI](https://open.spotify.com/track/3yVyqLilOWztxwkJw5YMXD) | [Diplomat](https://open.spotify.com/artist/40d2ctWKoC0cITzUt8hCjJ), [LEVO](https://open.spotify.com/artist/4VkQs39IBA4Af9gaqMskcK) | [KAN ÇANAĞI](https://open.spotify.com/album/5oPFiq4ffWsyYe3UAbwXWA) | 3:35 |

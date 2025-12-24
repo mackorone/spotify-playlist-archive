@@ -4489,6 +4489,24 @@
     },
     {
       "album": {
+        "name": "My Mother",
+        "url": "https://open.spotify.com/album/3Vm9kFLzzmeqNsqgs3OV14"
+      },
+      "artists": [
+        {
+          "name": "Jonka Tribute",
+          "url": "https://open.spotify.com/artist/3RBASZuevPXGYdPtyltxT9"
+        }
+      ],
+      "date_added": "2025-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128733,
+      "name": "My Mother",
+      "url": "https://open.spotify.com/track/7DUrp9pce5qnRMtCKAIFRx"
+    },
+    {
+      "album": {
         "name": "M\u00e9rtola",
         "url": "https://open.spotify.com/album/3vx3SZudj0S0aS87AlYcRm"
       },
@@ -8138,6 +8156,24 @@
       "duration_ms": 199026,
       "name": "With Languor",
       "url": "https://open.spotify.com/track/7wcUEnW420sjGIpD5XZTvK"
+    },
+    {
+      "album": {
+        "name": "Without Words",
+        "url": "https://open.spotify.com/album/1VKQy9fWAw8XgbuUgL3zE2"
+      },
+      "artists": [
+        {
+          "name": "Camilo Branca",
+          "url": "https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc"
+        }
+      ],
+      "date_added": "2025-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156144,
+      "name": "Without Words",
+      "url": "https://open.spotify.com/track/0BY6iUCS3WH6pUJTsO8V1i"
     },
     {
       "album": {

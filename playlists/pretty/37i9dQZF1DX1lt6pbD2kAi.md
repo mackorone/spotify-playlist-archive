@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lt6pbD2kAi.md) - [plain]
 
 > Henrique & Juliano e os artistas mais ouvidos no Brasil em 2025.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,465 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,049 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lt6pbD2kAi.md) - [plain]
 | 11 | [Olha Onde Eu Tô](https://open.spotify.com/track/10MsXPpQLz5ZrOEZxTtkIm) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Let's Go Rodeo](https://open.spotify.com/album/4NqeEHz29Ime2EZV8AUHkh) | 3:01 |
 | 12 | [Saudade Proibida \- Ao Vivo](https://open.spotify.com/track/40WZQRA3T6WZFIgskIAAz7) | [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Saudade Proibida \(Ao Vivo\)](https://open.spotify.com/album/0dBMGKZldtmOrLaF2h5jSa) | 2:40 |
 | 13 | [Segundo Amor da Sua Vida](https://open.spotify.com/track/4HgSxgv95es0rsPRS98nKZ) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Segundo Amor da Sua Vida](https://open.spotify.com/album/3fsyfva4yyjZR9S5UfIC5Y) | 2:39 |
-| 14 | [SEM FRESCURA SEM PIRRACA, SEM MIMIMI](https://open.spotify.com/track/75kl8rgxgkMlqK216dxxtW) | [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC), [Mc Jhey](https://open.spotify.com/artist/34giN3qeTOdgDSJIdtIMdm), [DJ PH DE CAMPOS](https://open.spotify.com/artist/2R83mRnOb2ftzr4DUIARTr), [DJ Denilson o clínico](https://open.spotify.com/artist/3AxhmSZxKQruKNmeLqsfQs) | [SEM FRESCURA SEM PIRRACA, SEM MIMIMI](https://open.spotify.com/album/4PbkABZnLxc6LqVmd9WnQZ) | 1:52 |
+| 14 | [Sem Frescura, Sem Pirraça](https://open.spotify.com/track/75kl8rgxgkMlqK216dxxtW) | [Mc Rodrigo do CN](https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC), [Mc Jhey](https://open.spotify.com/artist/34giN3qeTOdgDSJIdtIMdm), [DJ PH DE CAMPOS](https://open.spotify.com/artist/2R83mRnOb2ftzr4DUIARTr), [DJ Denilson o clínico](https://open.spotify.com/artist/3AxhmSZxKQruKNmeLqsfQs) | [Sem Frescura, Sem Pirraça](https://open.spotify.com/album/4PbkABZnLxc6LqVmd9WnQZ) | 1:52 |
 | 15 | [Vagabundo](https://open.spotify.com/track/1mnMkTvrPi4iTblXaRvOoi) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Vagabundo](https://open.spotify.com/album/2DsQiOZyalrytAD9Xi0IO8) | 3:27 |
 | 16 | [Imagina esse Cenário](https://open.spotify.com/track/2fjqfFUq64thFsqfKN01kS) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse) | [333](https://open.spotify.com/album/5CP84pfi4AFe95UTACFWrk) | 2:35 |
 | 17 | [Talvez você precise de mim](https://open.spotify.com/track/2De1EHbIhepIVLHZ16bySE) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Eu Venci o Mundo](https://open.spotify.com/album/21FP96bn6KdYTSe5zCbhZT) | 2:06 |

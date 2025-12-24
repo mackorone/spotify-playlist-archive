@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXvitqypcRR.md) - [plain]
 
 > <a href="spotify:artist:18JlbX3l0yzlwdnQVJrLsp">Tripolism</a>'s favorite tracks\. Updated regularly\. Curated by Tripolism\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,236 likes - 55 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,253 likes - 55 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXvitqypcRR.md) - [plain]
 | 54 | [Sweet Boy](https://open.spotify.com/track/1SB3vBA3V37paKqQ4BfLVn) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [Rafael](https://open.spotify.com/artist/3DHC2ZUVADRKLSmqPcqvc6) | [Sweet Boy](https://open.spotify.com/album/6B53fE8uMvCNbRTzD86ACl) | 3:37 |
 | 55 | [Wonder](https://open.spotify.com/track/4o5BnjHVn5hK7h7K1Emuv7) | [Dennis Louvra](https://open.spotify.com/artist/1bnuItr7MYlCFolYYSi3fC) | [Wonder](https://open.spotify.com/album/6nOVzn6u3IKMHWbYDfZbyD) | 3:14 |
 
-Snapshot ID: `AAAAAExY7/jntOnEGPRruU7XpeBLXIkC`
+Snapshot ID: `AAAAAFPDx43iiDKsCKXyzmNZEZ0YYO08`

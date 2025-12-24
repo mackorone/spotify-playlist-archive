@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXybqtAlSut8.md) - [plain]
 
 > Christian instrumental worship for moments of calm, relaxation and reflection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,739 likes - 90 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,763 likes - 90 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,12 +13,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXybqtAlSut8.md) - [plain]
 | 3 | [All Creatures of Our God and King \- Piano](https://open.spotify.com/track/0OkaDCNIJOMuwL5JYp6fmh) | [Sacred Keys](https://open.spotify.com/artist/5M6nB85ptAF8gjR6ivoJv7) | [Our God and King \(Piano\)](https://open.spotify.com/album/32E8Rf6P23KTvY63PY0OpW) | 2:54 |
 | 4 | [Close To Thee](https://open.spotify.com/track/44GOEcCmzjIgOItTbZUcO0) | [Victor Kovacs](https://open.spotify.com/artist/5JF3HMNudSKqJDkgCOzULV) | [Close To Thee](https://open.spotify.com/album/4rCn7sMH02gp4YyoufBchC) | 2:48 |
 | 5 | [An Open Door](https://open.spotify.com/track/7DSUn7v238UDTXzQLouWiv) | [Dawn Geller](https://open.spotify.com/artist/0HSRJAuF3aNdrbivhOb9SC) | [An Open Door](https://open.spotify.com/album/6ilAMABb1TSkbwqX4i6LLL) | 2:32 |
-| 6 | [Crown Him with Many Crowns](https://open.spotify.com/track/6cRf0fLWpr8iuKDXynHRrh) | [Keys To The Kingdom](https://open.spotify.com/artist/19WGr3r6eAlKXoa0lKazuK) | [Crown Him with Many Crowns](https://open.spotify.com/album/3Pok9iryP0o4C6LBYS1ebi) | 2:44 |
-| 7 | [Upon arising](https://open.spotify.com/track/0mjJd9JwaIF6MPaqm04PDT) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Upon arising](https://open.spotify.com/album/1vaVict2D2c1gGhRnJxamu) | 2:07 |
+| 6 | [Upon arising](https://open.spotify.com/track/0mjJd9JwaIF6MPaqm04PDT) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Upon arising](https://open.spotify.com/album/1vaVict2D2c1gGhRnJxamu) | 2:07 |
+| 7 | [Crown Him with Many Crowns](https://open.spotify.com/track/6cRf0fLWpr8iuKDXynHRrh) | [Keys To The Kingdom](https://open.spotify.com/artist/19WGr3r6eAlKXoa0lKazuK) | [Crown Him with Many Crowns](https://open.spotify.com/album/3Pok9iryP0o4C6LBYS1ebi) | 2:44 |
 | 8 | [Gathered By the Holly](https://open.spotify.com/track/2KrIc4hWgqEFO8GnPgjiFj) | [Mijongya](https://open.spotify.com/artist/7GPrD3dPYED5wENCMHirj7) | [Gathered By the Holly](https://open.spotify.com/album/1I0NYv8m3sFCFhV5dXgt1t) | 2:00 |
-| 9 | [Holy One Where Art Though](https://open.spotify.com/track/37GBu2M1RWkoO0Y4LTOo5Q) | [J Stepan](https://open.spotify.com/artist/2uF3aGwBsOYAxyCSCQuQzz) | [Holy One Where Art Though](https://open.spotify.com/album/1PkymTV6ZLDaGIAyJExwht) | 2:03 |
-| 10 | [All Hail the Power of Jesus' Name \(Coronation\) \- Piano](https://open.spotify.com/track/4PsucT5BzsvcT98uW4fs1D) | [Wondrous Worship](https://open.spotify.com/artist/4ftWSzVbWsUMNak5sVUBMp) | [The Power of His Joy \(Piano\)](https://open.spotify.com/album/6DXOJdQGlsENNI4T7JyNuE) | 2:18 |
-| 11 | [Untitled Hymn \(Come to Jesus\)](https://open.spotify.com/track/7yXnAtAICdYFUXtDOWXUHa) | [Keys To The Kingdom](https://open.spotify.com/artist/19WGr3r6eAlKXoa0lKazuK) | [Piano, Praise, & Worship](https://open.spotify.com/album/55RN3pz6Fis6vPBHbrnlnu) | 2:25 |
+| 9 | [Untitled Hymn \(Come to Jesus\)](https://open.spotify.com/track/7yXnAtAICdYFUXtDOWXUHa) | [Keys To The Kingdom](https://open.spotify.com/artist/19WGr3r6eAlKXoa0lKazuK) | [Piano, Praise, & Worship](https://open.spotify.com/album/55RN3pz6Fis6vPBHbrnlnu) | 2:25 |
+| 10 | [Holy One Where Art Though](https://open.spotify.com/track/37GBu2M1RWkoO0Y4LTOo5Q) | [J Stepan](https://open.spotify.com/artist/2uF3aGwBsOYAxyCSCQuQzz) | [Holy One Where Art Though](https://open.spotify.com/album/1PkymTV6ZLDaGIAyJExwht) | 2:03 |
+| 11 | [All Hail the Power of Jesus' Name \(Coronation\) \- Piano](https://open.spotify.com/track/4PsucT5BzsvcT98uW4fs1D) | [Wondrous Worship](https://open.spotify.com/artist/4ftWSzVbWsUMNak5sVUBMp) | [The Power of His Joy \(Piano\)](https://open.spotify.com/album/6DXOJdQGlsENNI4T7JyNuE) | 2:18 |
 | 12 | [All People That On Earth Do Dwell \(Old 100th\) \- Piano](https://open.spotify.com/track/4FHD0MYyJg3BNNUZnUmlsF) | [Light His Way](https://open.spotify.com/artist/2fRpXEF0tpwUBty1zyXDP7) | [Season of Worship \(Piano\)](https://open.spotify.com/album/0gWl3xtKjxGjmkToyF41g0) | 2:10 |
 | 13 | [Awake! The Voice is Calling Us](https://open.spotify.com/track/1jWzAMYmK7ARcZKLvgmsAT) | [Gabriel Hart](https://open.spotify.com/artist/1PF8nm4oU1vVqzWLehmjrr) | [Awake! The Voice is Calling Us](https://open.spotify.com/album/6fWkX8xZnKydG5JichMXdn) | 2:31 |
 | 14 | [Gloria in the Evening](https://open.spotify.com/track/1guFphU5YoqqAOtm4KshF8) | [Panner Garlix](https://open.spotify.com/artist/64ixo2TVhbwcDgM7n4koOR) | [Gloria in the Evening](https://open.spotify.com/album/2J3Xe1lu4qElUEsYHYNCK4) | 2:34 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXybqtAlSut8.md) - [plain]
 | 89 | [Why Me Lord](https://open.spotify.com/track/411ZfwAK5QeHY9CZQoCmrt) | [Domino Praise](https://open.spotify.com/artist/2ndypNpmwkNBOuaFqMgt5s) | [Why Me Lord](https://open.spotify.com/album/0OjPxdEnCQusHAwbxeyUxX) | 2:33 |
 | 90 | [Great Is Thy Faithfulness \- Piano](https://open.spotify.com/track/3hEKZyuIDnGt7ms7o7jjp9) | [Tranquil Devotion](https://open.spotify.com/artist/4xzY7ryoLAbEBbKRAGTfjR) | [How Great Is He \(Piano\)](https://open.spotify.com/album/03MTLAQqwFFdfj0LeTRUkT) | 2:03 |
 
-Snapshot ID: `AAAAABqJlvSl29CkHRUKH29gD7Si5y99`
+Snapshot ID: `AAAAALUfQBA6cf09WnTM1yo+ncwvrsq2`

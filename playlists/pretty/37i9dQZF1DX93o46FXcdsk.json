@@ -1,6 +1,6 @@
 {
   "description": "Beste Nederlandstalige songs uit de 00's. Cover: Guus Meeuwis",
-  "num_followers": 49170,
+  "num_followers": 49190,
   "original_name": "00's Nederlandstalig",
   "owner": {
     "name": "Spotify",
@@ -463,6 +463,22 @@
     {
       "added_at": "2020-02-10 14:27:21",
       "album": {
+        "name": "Krak",
+        "url": "https://open.spotify.com/album/4QQfYGj7CJtp20bWCGV2E2"
+      },
+      "artists": [
+        {
+          "name": "Neet o\u00e9t Lottum",
+          "url": "https://open.spotify.com/artist/4wx8VK3kpeVYQSk9mUsmWY"
+        }
+      ],
+      "duration_ms": 250733,
+      "name": "Hald Mich 'S Vas",
+      "url": "https://open.spotify.com/track/20yjgzUpdqsYAMykkEWipE"
+    },
+    {
+      "added_at": "2020-02-10 14:27:21",
+      "album": {
         "name": "The Singles Collection",
         "url": "https://open.spotify.com/album/60z3FozwRlFsEyPkXTaZCw"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 171080,
       "name": "Hoe",
       "url": "https://open.spotify.com/track/3w3IGsMYKM4pXZIYIBW3Gk"
-    },
-    {
-      "added_at": "2020-02-10 14:27:21",
-      "album": {
-        "name": "Krak",
-        "url": "https://open.spotify.com/album/4QQfYGj7CJtp20bWCGV2E2"
-      },
-      "artists": [
-        {
-          "name": "Neet o\u00e9t Lottum",
-          "url": "https://open.spotify.com/artist/4wx8VK3kpeVYQSk9mUsmWY"
-        }
-      ],
-      "duration_ms": 250733,
-      "name": "Hald Mich 'S Vas",
-      "url": "https://open.spotify.com/track/20yjgzUpdqsYAMykkEWipE"
     },
     {
       "added_at": "2020-02-10 14:27:21",

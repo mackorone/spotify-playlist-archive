@@ -1,12 +1,12 @@
 {
   "description": "This is Bastille. The essential tracks, all in one playlist.",
-  "num_followers": 220217,
+  "num_followers": 220214,
   "original_name": "This Is Bastille",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUc4gAAAAAAvML8ctapIPtK8pJ9477H+",
+  "snapshot_id": "aUiKAAAAAAAD3FBgjPqYqnZVYU74BcMr",
   "tracks": [
     {
       "added_at": null,
@@ -619,34 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Planet Earth III (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/2yiyCryQfCMScX04EdWbDu"
-      },
-      "artists": [
-        {
-          "name": "Hans Zimmer",
-          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
-        },
-        {
-          "name": "Jacob Shea",
-          "url": "https://open.spotify.com/artist/0ZjUUrNDmi4N4Ey5UTMebc"
-        },
-        {
-          "name": "Sara Barone",
-          "url": "https://open.spotify.com/artist/1OHACW7s48L2ZIn7PUpt8y"
-        },
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 309629,
-      "name": "Planet Earth III Suite",
-      "url": "https://open.spotify.com/track/6WXdn8gwGfdjLtE4wXuCoH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Can\u2019t Fight This Feeling",
         "url": "https://open.spotify.com/album/4GA0xqV2mfFmup90U0aOlu"
       },
@@ -679,6 +651,34 @@
       "duration_ms": 137476,
       "name": "Thelma + Louise",
       "url": "https://open.spotify.com/track/2BzVkisodhQOPOPVJ9UKEI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Planet Earth III (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/2yiyCryQfCMScX04EdWbDu"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        },
+        {
+          "name": "Jacob Shea",
+          "url": "https://open.spotify.com/artist/0ZjUUrNDmi4N4Ey5UTMebc"
+        },
+        {
+          "name": "Sara Barone",
+          "url": "https://open.spotify.com/artist/1OHACW7s48L2ZIn7PUpt8y"
+        },
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 309629,
+      "name": "Planet Earth III Suite",
+      "url": "https://open.spotify.com/track/6WXdn8gwGfdjLtE4wXuCoH"
     },
     {
       "added_at": null,

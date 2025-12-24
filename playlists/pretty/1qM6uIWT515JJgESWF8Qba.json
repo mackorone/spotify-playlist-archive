@@ -1,12 +1,12 @@
 {
   "description": "It&#x27;s 5 o&#x27;clock somewhere and best believe there&#x27;s a local band there ready to rock when the sun goes down.",
-  "num_followers": 267,
+  "num_followers": 268,
   "original_name": "Local Rock Bands",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAA5frMUPQGDo88moVXcdXjzs7ffPdD",
+  "snapshot_id": "AAAA5+77sHdEJZa+nZqEczEz0hYh3uXk",
   "tracks": [
     {
       "added_at": "2025-09-16 13:19:37",
@@ -1543,6 +1543,38 @@
       "duration_ms": 288196,
       "name": "Lighthouse",
       "url": "https://open.spotify.com/track/6D66W9Yl8NEqZvs67ucryx"
+    },
+    {
+      "added_at": "2025-12-23 18:43:38",
+      "album": {
+        "name": "Captive Hearts",
+        "url": "https://open.spotify.com/album/3K73HEZUnPYch0Koa9kOvG"
+      },
+      "artists": [
+        {
+          "name": "ARMAGELION",
+          "url": "https://open.spotify.com/artist/4SbqNuXLiu8IFt1RdIDtia"
+        }
+      ],
+      "duration_ms": 276897,
+      "name": "Captive Hearts",
+      "url": "https://open.spotify.com/track/2qT1OQRMtqnudkY6YVRaVl"
+    },
+    {
+      "added_at": "2025-12-23 20:13:02",
+      "album": {
+        "name": "Why Not Take A Chance",
+        "url": "https://open.spotify.com/album/5KsoXtKHhjGc8bPgSjjQey"
+      },
+      "artists": [
+        {
+          "name": "Mary Wiles",
+          "url": "https://open.spotify.com/artist/1U4MNNHHmj3YK2weAeiUTl"
+        }
+      ],
+      "duration_ms": 231040,
+      "name": "Moonlight In Her Eyes",
+      "url": "https://open.spotify.com/track/0WacSaEiYuiKtXbtJIHTQO"
     }
   ],
   "unique_name": "Local Rock Bands",

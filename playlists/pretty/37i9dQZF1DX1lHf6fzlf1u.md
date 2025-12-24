@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lHf6fzlf1u.md) - [plain]
 
 > ‘There is magic in Scotland.’ \-Gayle Rankin
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,824 likes - 76 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,840 likes - 76 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

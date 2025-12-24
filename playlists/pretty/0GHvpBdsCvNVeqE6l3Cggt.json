@@ -6,7 +6,7 @@
     "name": "Chris",
     "url": "https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg"
   },
-  "snapshot_id": "AAAjvJvS2cPVJeLqZSPSfGcysSQ/ttEf",
+  "snapshot_id": "AAAjvoxnYJwejNRmMfRLiQ6ZrNvVSth7",
   "tracks": [
     {
       "added_at": "2021-03-29 15:46:58",
@@ -747,6 +747,42 @@
       "duration_ms": 144879,
       "name": "Blaa Blaa Blaa",
       "url": "https://open.spotify.com/track/7GzSgRpu452g0MHK4mezws"
+    },
+    {
+      "added_at": "2025-12-23 09:12:28",
+      "album": {
+        "name": "Dreamscape (\ub4dc\ub9bc\uc2a4\ucf00\uc774\ud504)",
+        "url": "https://open.spotify.com/album/7zi9YBeCkc37gauuPVzhKv"
+      },
+      "artists": [
+        {
+          "name": "ECLIPSE OF AERA",
+          "url": "https://open.spotify.com/artist/3Stckikbh1beMMDjayt2W9"
+        }
+      ],
+      "duration_ms": 244961,
+      "name": "Dreamscape (\ub4dc\ub9bc\uc2a4\ucf00\uc774\ud504)",
+      "url": "https://open.spotify.com/track/2We94z0XW0hf5ipTCQ4qjx"
+    },
+    {
+      "added_at": "2025-12-23 09:18:13",
+      "album": {
+        "name": "Fears",
+        "url": "https://open.spotify.com/album/1lCUfQ4Oadzz2xYdRsLaJE"
+      },
+      "artists": [
+        {
+          "name": "Audio Entity",
+          "url": "https://open.spotify.com/artist/2mKtj5JzkdmYJJnQKhnysU"
+        },
+        {
+          "name": "Woes & Wonder",
+          "url": "https://open.spotify.com/artist/1ROh7khHluUL5ppnlyrMxA"
+        }
+      ],
+      "duration_ms": 267418,
+      "name": "Fears",
+      "url": "https://open.spotify.com/track/566anSusXyhMzCP0sjTHmd"
     }
   ],
   "unique_name": "Alternative Pop Archive",

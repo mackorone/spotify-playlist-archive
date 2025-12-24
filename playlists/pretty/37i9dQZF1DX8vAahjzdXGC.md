@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Denny Caknan, Timethai, BamBam, Kali Uchis, Dee Lestari, Elsa Japasal dan masih banyak lagi dari dalam dan mancanegara
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,734 likes - 53 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,766 likes - 53 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 27 | [Altruis](https://open.spotify.com/track/2acgXd10gUj7lHQDRR9pyp) | [8 Ball](https://open.spotify.com/artist/4JV6JFLPTf2eDCJ7fFcdNh), [Caroline Pricilia](https://open.spotify.com/artist/11Gio8PQ5SwcKbRdFtxRRL) | [Altruis](https://open.spotify.com/album/19n2zN4PVtKRSTot3NyGAB) | 2:48 |
 | 28 | [Miss Esme](https://open.spotify.com/track/27aKQv7H9PX4Fz2ogl9rU9) | [Mew Suppasit](https://open.spotify.com/artist/78u00MLyG46IkmM8HC6H0l) | [Miss Esme](https://open.spotify.com/album/3SwKD9N93UjGQQ0eS9e18l) | 3:36 |
 | 29 | [Where Love Lives \- MK Remix](https://open.spotify.com/track/1PklFCtCsOBrsP8DYYZeW8) | [Alison Limerick](https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Where Love Lives \(MK Remix\)](https://open.spotify.com/album/40Kvzh94VVqWi8xzCFaWN7) | 2:27 |
-| 30 | [Sepi](https://open.spotify.com/track/4pED2GQ28ilhCFLmBF0RUE) | [Mal Hamka](https://open.spotify.com/artist/0o50QOOPoOXy3ifSSVQWjc), [Yoka](https://open.spotify.com/artist/2YQrIbZX0TKpMRqEVk8tOC) | [Sepi](https://open.spotify.com/album/0MxqJ2WHcrrzyzPXY5sfUB) | 2:17 |
+| 30 | [Sepi](https://open.spotify.com/track/4pED2GQ28ilhCFLmBF0RUE) | [Mal Hamka](https://open.spotify.com/artist/0o50QOOPoOXy3ifSSVQWjc), [YokaMusic](https://open.spotify.com/artist/0E1kvFwfAWmBXs2KjG40Vm) | [Sepi](https://open.spotify.com/album/0MxqJ2WHcrrzyzPXY5sfUB) | 2:17 |
 | 31 | [Latar Biru](https://open.spotify.com/track/3jzUoJnHFUoJwZPVyDjRX3) | [Bemandry](https://open.spotify.com/artist/6k4Wed6mCXviM0mZr2Dt90) | [Latar Biru](https://open.spotify.com/album/3whN5dk2aiDwgNQrjtg2mg) | 4:07 |
 | 32 | [Jatuh Cinta Di Saat Mati Rasa](https://open.spotify.com/track/5Cok7Hs7dv79eXQtvutk4g) | [Dimas M](https://open.spotify.com/artist/2Lp5Ti7LZGpcKPvD3KEthU) | [Jatuh Cinta Di Saat Mati Rasa](https://open.spotify.com/album/7G9ZxqX8QxDAgMEHxa2CWg) | 2:36 |
 | 33 | [Andai](https://open.spotify.com/track/5NhwR7Ohu0v7CSTgAKXBE4) | [Febinda Tito](https://open.spotify.com/artist/538SnQc3YoJ96cIs2mpTaZ), [Frasa](https://open.spotify.com/artist/7yZ9jH9hNvBrVhe7ZANmGh) | [Andai](https://open.spotify.com/album/4Vja8TdYuohIrz9Jjo2OCr) | 3:48 |

@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 550,
+  "num_followers": 565,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAEQLm6n1r5eXt/ai42DMYDTkE6RdqV",
+  "snapshot_id": "AAAERcQggluGMwdgFH5vnghDKiWgvlQU",
   "tracks": [
     {
       "added_at": "2025-11-20 17:10:09",
@@ -1683,6 +1683,86 @@
       "duration_ms": 187578,
       "name": "Ashes in the wind",
       "url": "https://open.spotify.com/track/7gNFVnnMn7aWYhuZP39OBY"
+    },
+    {
+      "added_at": "2025-12-23 18:22:28",
+      "album": {
+        "name": "Under The East End Sky",
+        "url": "https://open.spotify.com/album/7a3Bw6t0OBpaH6NNya0wnD"
+      },
+      "artists": [
+        {
+          "name": "Philip Morgan Lewis",
+          "url": "https://open.spotify.com/artist/6dttJ9KPpPk9qoo8mEWkR5"
+        }
+      ],
+      "duration_ms": 217375,
+      "name": "The Whistleblower",
+      "url": "https://open.spotify.com/track/3tjz79WyUdxsnt3RvGsbdh"
+    },
+    {
+      "added_at": "2025-12-23 20:17:24",
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/7JVqWLK0aI5rdAfmkikp88"
+      },
+      "artists": [
+        {
+          "name": "Marc Ocram",
+          "url": "https://open.spotify.com/artist/6nIiuaM9vwePMOtklXfagK"
+        }
+      ],
+      "duration_ms": 257950,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/7bCLybOMzLDnnSFGpzTcDT"
+    },
+    {
+      "added_at": "2025-12-23 20:18:27",
+      "album": {
+        "name": "\u0420\u044b\u0436\u0430\u044f \u0434\u0435\u0432\u043e\u0447\u043a\u0430-\u043e\u0441\u0435\u043d\u044c (acoustic version)",
+        "url": "https://open.spotify.com/album/0AKOCae4zWQSLUcVdWsI2T"
+      },
+      "artists": [
+        {
+          "name": "Kutas",
+          "url": "https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq"
+        }
+      ],
+      "duration_ms": 170640,
+      "name": "\u0420\u044b\u0436\u0430\u044f \u0434\u0435\u0432\u043e\u0447\u043a\u0430-\u043e\u0441\u0435\u043d\u044c (acoustic version)",
+      "url": "https://open.spotify.com/track/2ekAbtabAM8qao1YjQyeoz"
+    },
+    {
+      "added_at": "2025-12-23 20:59:24",
+      "album": {
+        "name": "Becoming The Angel",
+        "url": "https://open.spotify.com/album/201udL0wJkhD9Md9s18KjC"
+      },
+      "artists": [
+        {
+          "name": "Jasper Lane",
+          "url": "https://open.spotify.com/artist/7Jy6PeI8aqpMobGCpaFSEw"
+        }
+      ],
+      "duration_ms": 258484,
+      "name": "Another Broken Life",
+      "url": "https://open.spotify.com/track/2C4uQkC2n41IDhKzr4ZfzI"
+    },
+    {
+      "added_at": "2025-12-23 21:12:24",
+      "album": {
+        "name": "Collection, Vol. 1",
+        "url": "https://open.spotify.com/album/5ZgOo1hRPzctZbsf83ngpT"
+      },
+      "artists": [
+        {
+          "name": "June 101",
+          "url": "https://open.spotify.com/artist/0sBu7gZlzCSq0wsCqTojcD"
+        }
+      ],
+      "duration_ms": 209357,
+      "name": "April",
+      "url": "https://open.spotify.com/track/1A6hxO7ymM4QPip7txEt53"
     }
   ],
   "unique_name": "Unsigned Rock",

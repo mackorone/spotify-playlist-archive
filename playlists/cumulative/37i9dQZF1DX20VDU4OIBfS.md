@@ -4,7 +4,7 @@
 
 > Temas inolvidables del baúl de los recuerdos.
 
-393 songs - 1 day 0 hr 50 min
+394 songs - 1 day 0 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Completamente Enamorados](https://open.spotify.com/track/1YLZnCNHQFiTN8iMii4Itr) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Dos Clásicos](https://open.spotify.com/album/5L8VcdodPKM8cxp4GAsTys) | 4:18 | 2022-01-01 | 2022-07-29 |
 | [Completamente Enamorados](https://open.spotify.com/track/3pz19CAY4yX7FSnTWDu3La) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Tiempo De Vals](https://open.spotify.com/album/5vdBZ9BMY2tZbvxYmKsGUR) | 4:18 | 2022-06-02 | 2024-03-26 |
 | [Con los Años Que Me Quedan](https://open.spotify.com/track/5UPd6Gyj4aoaTUTlpWSak5) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Mi Tierra](https://open.spotify.com/album/2K2yvhTFeRBZdDboSQzFAJ) | 4:36 | 2022-06-02 | 2024-01-05 |
-| [Con los Años Que Me Quedan](https://open.spotify.com/track/2tD5O7XOMyF9dsnChcN4n2) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889), [G\. M\. Estefan](https://open.spotify.com/artist/3fwDX6XhB3R3VAcqWUMX6P), [Emilio Estefan, Jr.](https://open.spotify.com/artist/6j4bc1DLzLoUqGztsvG5KT), [E\. Estefan Jr.](https://open.spotify.com/artist/5b3AxUEl9NygoZlNuCPtii) | [Mi Tierra](https://open.spotify.com/album/7tpRFmImdA2lXhq86OLz25) | 4:36 | 2022-01-01 |  |
+| [Con los Años Que Me Quedan](https://open.spotify.com/track/2tD5O7XOMyF9dsnChcN4n2) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889), [G\. M\. Estefan](https://open.spotify.com/artist/3fwDX6XhB3R3VAcqWUMX6P), [Emilio Estefan, Jr.](https://open.spotify.com/artist/6j4bc1DLzLoUqGztsvG5KT), [E\. Estefan Jr.](https://open.spotify.com/artist/5b3AxUEl9NygoZlNuCPtii) | [Mi Tierra](https://open.spotify.com/album/7tpRFmImdA2lXhq86OLz25) | 4:36 | 2022-01-01 | 2025-12-24 |
 | [Contigo En La Distancia](https://open.spotify.com/track/03oCjV73Utu9KpXrgcqoTJ) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romance](https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP) | 3:23 | 2022-01-01 |  |
 | [Corazón de Piedra](https://open.spotify.com/track/4eyKVFrTZmRdGU3bNYiC6f) | [Lucía Méndez](https://open.spotify.com/artist/4MbmeIi7C8qe1LboVhdaUN) | [Solo Una Mujer](https://open.spotify.com/album/2g9dQlpIYrdpe1Q6NigI5Q) | 2:56 | 2022-01-01 |  |
 | [Corazón de Poeta](https://open.spotify.com/track/5t6GyhawtK5itjpDdvGGx0) | [Jeanette](https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2) | [Originales \- 20 Exitos](https://open.spotify.com/album/5xaZwiFGYT273Zk40sen9o) | 4:33 | 2022-06-02 | 2024-05-07 |
@@ -196,6 +196,7 @@
 | [Libre, Solterito y Sin Nadie](https://open.spotify.com/track/02olBmYmVrodR2C6xroOzO) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Libre, Solterito y Sin Nadie](https://open.spotify.com/album/0JVFs21ZIaGdDZQZ6TVFs9) | 2:20 | 2022-08-31 | 2023-02-28 |
 | [Libre, Solterito Y Sin Nadie](https://open.spotify.com/track/37HNsNdcI1wT2l9zv78p42) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Imprescindibles](https://open.spotify.com/album/6I6t5Jq7fMwcXufIGB9UcY) | 2:22 | 2022-01-01 | 2022-05-12 |
 | [Llorarás](https://open.spotify.com/track/2avnbTB2bVyKI2nz553XuH) | [Los Terricolas](https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m) | [Llorarás](https://open.spotify.com/album/5YNFzMy6Y8GBjKli0KZbV7) | 3:37 | 2022-06-02 |  |
+| [Llorarás / Te Juro Que Te Amo / Luto de Mi Alma](https://open.spotify.com/track/6pVVPaSUleq3pXrH87rDlG) | [Los Terricolas](https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m) | [Llorarás / Te Juro Que Te Amo / Luto de Mi Alma](https://open.spotify.com/album/3hDV4xnm96DEaiF5bdWs0e) | 5:53 | 2024-06-04 |  |
 | [Lluvia](https://open.spotify.com/track/2zYa7zc0g0AbMUjEzYiI2r) | [Luis Angel](https://open.spotify.com/artist/3aqaaRdFCbVBCZnexkE0sC) | [Yo Mismo](https://open.spotify.com/album/29DAJADvZkzgHfYTPpZijS) | 3:59 | 2022-01-01 |  |
 | [Lo Busqué](https://open.spotify.com/track/7ceiXwNZ2DwNIJ54tsJwRY) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Loca De Amar](https://open.spotify.com/album/2eyl66bHPrqMjjTfzLxHt3) | 4:35 | 2022-06-02 | 2024-04-19 |
 | [Lo Busqué](https://open.spotify.com/track/4sikWggA9h139NLgIxOoAk) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Mi Colección](https://open.spotify.com/album/3ZgiAkYqKFUurz1Q8x94c5) | 4:39 | 2022-01-01 | 2022-07-29 |

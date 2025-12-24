@@ -1,6 +1,6 @@
 {
   "description": "These songs rocked the '60s. Cover: The Rolling Stones",
-  "num_followers": 988023,
+  "num_followers": 988148,
   "original_name": "60s Rock Anthems",
   "owner": {
     "name": "Spotify",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2024-07-05 23:26:53",
       "album": {
+        "name": "Small Faces: The Singles Collection",
+        "url": "https://open.spotify.com/album/36kTs3PivuoQFTz102LcCa"
+      },
+      "artists": [
+        {
+          "name": "Small Faces",
+          "url": "https://open.spotify.com/artist/1YqGsKpdixxSVgpfaL2AEQ"
+        }
+      ],
+      "duration_ms": 172746,
+      "name": "Itchycoo Park",
+      "url": "https://open.spotify.com/track/0fYgtNCNCjFDeJWTIMukNU"
+    },
+    {
+      "added_at": "2024-07-05 23:26:53",
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/25irJgxRNTlyg8pUmWfDVG"
       },
@@ -1339,34 +1355,18 @@
     {
       "added_at": "2024-07-05 23:26:53",
       "album": {
-        "name": "Small Faces: The Singles Collection",
-        "url": "https://open.spotify.com/album/36kTs3PivuoQFTz102LcCa"
+        "name": "Hit Single Anthology",
+        "url": "https://open.spotify.com/album/2TG4d4Y39z7yDW7iTmVi6v"
       },
       "artists": [
         {
-          "name": "Small Faces",
-          "url": "https://open.spotify.com/artist/1YqGsKpdixxSVgpfaL2AEQ"
+          "name": "The Troggs",
+          "url": "https://open.spotify.com/artist/57xdnSVt4ahJCIXYLieQ25"
         }
       ],
-      "duration_ms": 172746,
-      "name": "Itchycoo Park",
-      "url": "https://open.spotify.com/track/0fYgtNCNCjFDeJWTIMukNU"
-    },
-    {
-      "added_at": "2024-07-05 23:26:53",
-      "album": {
-        "name": "Gold (International Version)",
-        "url": "https://open.spotify.com/album/7c0kHEfTvWuKKzhyiyuTNH"
-      },
-      "artists": [
-        {
-          "name": "Them",
-          "url": "https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA"
-        }
-      ],
-      "duration_ms": 156106,
-      "name": "Gloria - Stereo Version",
-      "url": "https://open.spotify.com/track/5wfbkDVnNgPG4asSYvtMIC"
+      "duration_ms": 158250,
+      "name": "Wild Thing",
+      "url": "https://open.spotify.com/track/2cM6hAcaR3zsh2oYYV2MWU"
     },
     {
       "added_at": "2024-07-05 23:26:53",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2024-07-05 23:26:53",
       "album": {
-        "name": "Hit Single Anthology",
-        "url": "https://open.spotify.com/album/2TG4d4Y39z7yDW7iTmVi6v"
+        "name": "Gold (International Version)",
+        "url": "https://open.spotify.com/album/7c0kHEfTvWuKKzhyiyuTNH"
       },
       "artists": [
         {
-          "name": "The Troggs",
-          "url": "https://open.spotify.com/artist/57xdnSVt4ahJCIXYLieQ25"
+          "name": "Them",
+          "url": "https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA"
         }
       ],
-      "duration_ms": 158250,
-      "name": "Wild Thing",
-      "url": "https://open.spotify.com/track/2cM6hAcaR3zsh2oYYV2MWU"
+      "duration_ms": 156106,
+      "name": "Gloria - Stereo Version",
+      "url": "https://open.spotify.com/track/5wfbkDVnNgPG4asSYvtMIC"
     },
     {
       "added_at": "2024-07-05 23:26:53",

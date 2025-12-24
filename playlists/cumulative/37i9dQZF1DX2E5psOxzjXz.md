@@ -4,7 +4,7 @@
 
 > Explore Pakistan's thriving independent scene 🔥 Cover: Hasan Raheem
 
-421 songs - 23 hr 13 min
+422 songs - 23 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Forsaken](https://open.spotify.com/track/1L35yralAqLq0nw74wpVTY) | [Hamzay](https://open.spotify.com/artist/3jZgv3hijK101spub7clyS), [Sajjal Zee](https://open.spotify.com/artist/7eHxcO6Pl6PQMXXwLSeI1E) | [Forsaken](https://open.spotify.com/album/5xXF2bLicp4kuAgJAMMhEu) | 4:06 | 2025-09-24 |  |
 | [Friday](https://open.spotify.com/track/7FLjLYJQPggPCgqcuQl2Ao) | [Shamoon Ismail](https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv) | [Friday](https://open.spotify.com/album/1CmVkSA2F3ypX2iidGsa8g) | 2:59 | 2023-07-14 | 2024-04-13 |
 | [Fursat](https://open.spotify.com/track/4ZaFMecsbjz8oaSa7pldfr) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [Nautanki](https://open.spotify.com/album/4cWRqa8lbidF3vyUdX4H9D) | 3:09 | 2023-01-10 | 2024-09-10 |
+| [Fuzool](https://open.spotify.com/track/7Bmrm4DU6AD86HnebNaAPY) | [Raamiz Rizvi](https://open.spotify.com/artist/34dLN7dVpBtsXn0yDQoZtg), [Zaphixx](https://open.spotify.com/artist/6lCX5UL3OnSnZIW0vt2j5m) | [Fuzool](https://open.spotify.com/album/4g3ppCmzoFtSfmL5cCM2iL) | 2:15 | 2025-12-23 |  |
 | [Gawara](https://open.spotify.com/track/30SraUQbTd11TDrzkgeK4z) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Shahmeer Raza Khan](https://open.spotify.com/artist/6j3aIgBaZMbcAJuTjGhhoK) | [Gawara](https://open.spotify.com/album/7cEtQI6vTHbXbrRNWDKqdd) | 3:05 | 2022-11-02 |  |
 | [Ghuroor](https://open.spotify.com/track/7jMjMcyt3qxEkbC0s8LJQf) | [Izzchughtai](https://open.spotify.com/artist/211ei6ZiUeBMIXUZGBaJ4S), [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1) | [Ghuroor](https://open.spotify.com/album/4XcK8cuV6rHuppTwoJrEiG) | 3:18 | 2021-12-06 |  |
 | [Global Zakham](https://open.spotify.com/track/7LPLckhk6ygQgcvHntw1gT) | [Bilal Ali](https://open.spotify.com/artist/1qJck1RgMGzqJyzvIJuOuX), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Natasha Noorani](https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285), [Zahid Qureshi](https://open.spotify.com/artist/54n10AF8rgWBCy8OL0Fizw) | [Global Zakham](https://open.spotify.com/album/6kFCZEKJX6MrMpfzo93Zl6) | 3:00 | 2025-05-26 | 2025-11-08 |
@@ -292,7 +293,7 @@
 | [Preacher](https://open.spotify.com/track/2H3Uj8S1v8doc5xKmzBSNQ) | [Abdullah Siddiqui](https://open.spotify.com/artist/3PbkSdpJnYRF18jau74b7R) | [Preacher](https://open.spotify.com/album/503g4DFFEgdkPgW0O9RUon) | 3:17 | 2021-12-06 | 2023-04-09 |
 | [Prelude to Murder](https://open.spotify.com/track/2waewKqweTeOpm7XBqZFhB) | [Shorbanoor](https://open.spotify.com/artist/7DXkuP7zCFpe1beSL1LjjD), [Ali Suhail](https://open.spotify.com/artist/4kLAjoQyEFKD34AWugeUnj) | [Prelude to Murder](https://open.spotify.com/album/5CDZZg7cy75Ws3dGhWxsFU) | 2:26 | 2021-12-06 | 2022-01-29 |
 | [Pretty Lies](https://open.spotify.com/track/0pvlhF2kQRKGxKqsiUMJwI) | [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Pretty Lies](https://open.spotify.com/album/76TgmgMlZzqrMOckjo5eFV) | 2:43 | 2022-01-18 | 2024-08-10 |
-| [Promises](https://open.spotify.com/track/5Y3OxkwWPuFZc5rRoJE45A) | [Shamoon Ismail](https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW) | [Scars & Screws](https://open.spotify.com/album/0dNZ3ypCu19FqmRxB1ezBc) | 3:15 | 2021-12-06 |  |
+| [Promises](https://open.spotify.com/track/5Y3OxkwWPuFZc5rRoJE45A) | [Shamoon Ismail](https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW) | [Scars & Screws](https://open.spotify.com/album/0dNZ3ypCu19FqmRxB1ezBc) | 3:15 | 2021-12-06 | 2025-12-24 |
 | [Pukaar](https://open.spotify.com/track/0R6PVr0THSFcyEqlNTJ9Bp) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [SHE](https://open.spotify.com/album/21Yinw1VwU6Ych11YSruxC) | 3:46 | 2021-12-06 | 2023-04-09 |
 | [Pukaare](https://open.spotify.com/track/4MHep7iGDd5dObs7NQYsUL) | [Turhan James](https://open.spotify.com/artist/2ox32lGyYOobDvszKTITkP), [Daniyaal Omar](https://open.spotify.com/artist/2GbKYLI5CCtuGpz1tdubYz) | [Pukaare](https://open.spotify.com/album/3wpYaFGEa4L5zQWRAR5Ff7) | 1:57 | 2024-06-21 | 2025-11-08 |
 | [pyaar hai asli](https://open.spotify.com/track/1WUUDaIcbhfpT8zOSJSUq7) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [sakuna matata](https://open.spotify.com/album/1uTqbU7ucZyccnXtqtVsOc) | 3:58 | 2022-05-06 | 2024-01-13 |

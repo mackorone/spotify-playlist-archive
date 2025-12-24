@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\ude80 when ur love language is bpm \ud83d\ude80  Cover: Novah",
-  "num_followers": 355683,
+  "num_followers": 355873,
   "original_name": "rave",
   "owner": {
     "name": "Spotify",
@@ -431,6 +431,22 @@
     {
       "added_at": "2025-12-19 19:30:07",
       "album": {
+        "name": "Blade",
+        "url": "https://open.spotify.com/album/0Knz2xzbB2dkdjxDcJvNaY"
+      },
+      "artists": [
+        {
+          "name": "D'Angello & Francis",
+          "url": "https://open.spotify.com/artist/63YpQAD9YjknZPfMVYqyIK"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Blade",
+      "url": "https://open.spotify.com/track/1wQwTyocYlAE27QEk8BQXa"
+    },
+    {
+      "added_at": "2025-12-19 19:30:07",
+      "album": {
         "name": "Good Love",
         "url": "https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48"
       },
@@ -451,42 +467,6 @@
     {
       "added_at": "2025-12-19 19:30:07",
       "album": {
-        "name": "We Are The People (southstar Remix)",
-        "url": "https://open.spotify.com/album/6NB6yrLJKj7nlP1vUWcVPA"
-      },
-      "artists": [
-        {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        },
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        }
-      ],
-      "duration_ms": 236068,
-      "name": "We Are The People - southstar Remix",
-      "url": "https://open.spotify.com/track/4atLPkcljMp14JBaigYFKC"
-    },
-    {
-      "added_at": "2025-12-19 19:30:07",
-      "album": {
-        "name": "Blade",
-        "url": "https://open.spotify.com/album/0Knz2xzbB2dkdjxDcJvNaY"
-      },
-      "artists": [
-        {
-          "name": "D'Angello & Francis",
-          "url": "https://open.spotify.com/artist/63YpQAD9YjknZPfMVYqyIK"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Blade",
-      "url": "https://open.spotify.com/track/1wQwTyocYlAE27QEk8BQXa"
-    },
-    {
-      "added_at": "2025-12-19 19:30:07",
-      "album": {
         "name": "Stay (Ely Oaks Version)",
         "url": "https://open.spotify.com/album/2BDrI3p3xu92cKY2YpTOGl"
       },
@@ -503,6 +483,26 @@
       "duration_ms": 159246,
       "name": "Stay - Ely Oaks Version",
       "url": "https://open.spotify.com/track/0nwP2efwenVG0C59bA8cOL"
+    },
+    {
+      "added_at": "2025-12-19 19:30:07",
+      "album": {
+        "name": "We Are The People (southstar Remix)",
+        "url": "https://open.spotify.com/album/6NB6yrLJKj7nlP1vUWcVPA"
+      },
+      "artists": [
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        },
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "duration_ms": 236068,
+      "name": "We Are The People - southstar Remix",
+      "url": "https://open.spotify.com/track/4atLPkcljMp14JBaigYFKC"
     },
     {
       "added_at": "2025-12-19 19:30:07",
@@ -595,22 +595,6 @@
     {
       "added_at": "2025-12-19 19:30:07",
       "album": {
-        "name": "Breakin' Dishes",
-        "url": "https://open.spotify.com/album/45DVKreI7RJd1QX49dRJOS"
-      },
-      "artists": [
-        {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
-        }
-      ],
-      "duration_ms": 133517,
-      "name": "Breakin' Dishes",
-      "url": "https://open.spotify.com/track/3rTvXpSq6fDU1PitJlmnhm"
-    },
-    {
-      "added_at": "2025-12-19 19:30:07",
-      "album": {
         "name": "What's a Girl to Do in '25",
         "url": "https://open.spotify.com/album/2K9OkH3GAXoussmUIZHAfr"
       },
@@ -647,18 +631,18 @@
     {
       "added_at": "2025-12-19 19:30:07",
       "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/03RsEVWePsLZdk7lTs9jvn"
+        "name": "Breakin' Dishes",
+        "url": "https://open.spotify.com/album/45DVKreI7RJd1QX49dRJOS"
       },
       "artists": [
         {
-          "name": "BOVSKI",
-          "url": "https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9"
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
         }
       ],
-      "duration_ms": 125207,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/2VpUEPN5OQmYvcvhM68wyS"
+      "duration_ms": 133517,
+      "name": "Breakin' Dishes",
+      "url": "https://open.spotify.com/track/3rTvXpSq6fDU1PitJlmnhm"
     },
     {
       "added_at": "2025-12-19 19:30:07",
@@ -703,6 +687,22 @@
       "duration_ms": 176516,
       "name": "Transgender",
       "url": "https://open.spotify.com/track/2pgfgEF6CWsrPFF8HB6Xra"
+    },
+    {
+      "added_at": "2025-12-19 19:30:07",
+      "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/03RsEVWePsLZdk7lTs9jvn"
+      },
+      "artists": [
+        {
+          "name": "BOVSKI",
+          "url": "https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9"
+        }
+      ],
+      "duration_ms": 125207,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/2VpUEPN5OQmYvcvhM68wyS"
     },
     {
       "added_at": "2025-12-19 19:30:07",
@@ -971,26 +971,6 @@
     {
       "added_at": "2025-12-19 19:30:07",
       "album": {
-        "name": "i like the way you kiss me (remixes)",
-        "url": "https://open.spotify.com/album/7jYsvUIbj8OktGfdnCU4LB"
-      },
-      "artists": [
-        {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
-        },
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        }
-      ],
-      "duration_ms": 137986,
-      "name": "i like the way you kiss me - southstar remix",
-      "url": "https://open.spotify.com/track/7skteOnDbwZ3ZvjSe99xv2"
-    },
-    {
-      "added_at": "2025-12-19 19:30:07",
-      "album": {
         "name": "S&M (With Chacel) [HYPERTECHNO Edit]",
         "url": "https://open.spotify.com/album/03dARt9q9tCPuavH3xT9jK"
       },
@@ -1007,6 +987,26 @@
       "duration_ms": 178614,
       "name": "S&M (With Chacel) - HYPERTECHNO Edit",
       "url": "https://open.spotify.com/track/0qtQPmrqQq09KKDqxNltgM"
+    },
+    {
+      "added_at": "2025-12-19 19:30:07",
+      "album": {
+        "name": "i like the way you kiss me (remixes)",
+        "url": "https://open.spotify.com/album/7jYsvUIbj8OktGfdnCU4LB"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        },
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "duration_ms": 137986,
+      "name": "i like the way you kiss me - southstar remix",
+      "url": "https://open.spotify.com/track/7skteOnDbwZ3ZvjSe99xv2"
     },
     {
       "added_at": "2025-12-19 19:30:07",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2025-12-19 19:30:07",
       "album": {
-        "name": "Stolen Dance (Hypertechno)",
-        "url": "https://open.spotify.com/album/3AJeTQRLl9C9UcgxGAb6Q0"
-      },
-      "artists": [
-        {
-          "name": "Macon",
-          "url": "https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ"
-        }
-      ],
-      "duration_ms": 188259,
-      "name": "Stolen Dance - Hypertechno",
-      "url": "https://open.spotify.com/track/4nOVDcu9Vv4owjeonZx5Qs"
-    },
-    {
-      "added_at": "2025-12-19 19:30:07",
-      "album": {
         "name": "Bass Down Low (feat. DEV) [Go Version]",
         "url": "https://open.spotify.com/album/1FogdMMgodRlRvaZ9WXzS8"
       },
@@ -1167,18 +1151,18 @@
     {
       "added_at": "2025-12-19 19:30:07",
       "album": {
-        "name": "Young Forever",
-        "url": "https://open.spotify.com/album/4BOWZWwm6WVWmco0HKt80s"
+        "name": "Stolen Dance (Hypertechno)",
+        "url": "https://open.spotify.com/album/3AJeTQRLl9C9UcgxGAb6Q0"
       },
       "artists": [
         {
-          "name": "Amelie Lens",
-          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+          "name": "Macon",
+          "url": "https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ"
         }
       ],
-      "duration_ms": 227091,
-      "name": "Young Forever",
-      "url": "https://open.spotify.com/track/2aAjWdZ7TsQYvyRUzAFXmB"
+      "duration_ms": 188259,
+      "name": "Stolen Dance - Hypertechno",
+      "url": "https://open.spotify.com/track/4nOVDcu9Vv4owjeonZx5Qs"
     },
     {
       "added_at": "2025-12-19 19:30:07",
@@ -1195,6 +1179,22 @@
       "duration_ms": 120033,
       "name": "Uh Na Na",
       "url": "https://open.spotify.com/track/6WUxcpdLCTlp8kHK79vRMQ"
+    },
+    {
+      "added_at": "2025-12-19 19:30:07",
+      "album": {
+        "name": "Young Forever",
+        "url": "https://open.spotify.com/album/4BOWZWwm6WVWmco0HKt80s"
+      },
+      "artists": [
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+        }
+      ],
+      "duration_ms": 227091,
+      "name": "Young Forever",
+      "url": "https://open.spotify.com/track/2aAjWdZ7TsQYvyRUzAFXmB"
     },
     {
       "added_at": "2025-12-19 19:30:07",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2025-12-19 19:30:07",
       "album": {
+        "name": "ACID",
+        "url": "https://open.spotify.com/album/4tcIJhEBpDUUuxVVyfmGtf"
+      },
+      "artists": [
+        {
+          "name": "Novah",
+          "url": "https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF"
+        }
+      ],
+      "duration_ms": 215225,
+      "name": "ACID",
+      "url": "https://open.spotify.com/track/0iI3QPTdmMzXf7dMApinMG"
+    },
+    {
+      "added_at": "2025-12-19 19:30:07",
+      "album": {
         "name": "Now We Are Free",
         "url": "https://open.spotify.com/album/6iSF6ZrrJkcxrmHtPOtiJt"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 242962,
       "name": "SISTEM ERROR",
       "url": "https://open.spotify.com/track/5fKil1HCUAk45V4ExBdMEV"
-    },
-    {
-      "added_at": "2025-12-19 19:30:07",
-      "album": {
-        "name": "ACID",
-        "url": "https://open.spotify.com/album/4tcIJhEBpDUUuxVVyfmGtf"
-      },
-      "artists": [
-        {
-          "name": "Novah",
-          "url": "https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF"
-        }
-      ],
-      "duration_ms": 215225,
-      "name": "ACID",
-      "url": "https://open.spotify.com/track/0iI3QPTdmMzXf7dMApinMG"
     },
     {
       "added_at": "2025-12-19 19:30:07",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2025-12-19 19:30:07",
       "album": {
-        "name": "Satan Was A Babyboomer",
-        "url": "https://open.spotify.com/album/42nVxnZ0BD7Vt3sMK0t8Ss"
-      },
-      "artists": [
-        {
-          "name": "Brutalismus 3000",
-          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
-        }
-      ],
-      "duration_ms": 427000,
-      "name": "Satan Was A Babyboomer",
-      "url": "https://open.spotify.com/track/3IVrlcM5gDoj3lghHY9m7I"
-    },
-    {
-      "added_at": "2025-12-19 19:30:07",
-      "album": {
         "name": "Spectral Bells",
         "url": "https://open.spotify.com/album/6FCFFeBXGGIDxeREDbDKJP"
       },
@@ -1531,18 +1515,18 @@
     {
       "added_at": "2025-12-19 19:30:07",
       "album": {
-        "name": "Wish You Were Mine",
-        "url": "https://open.spotify.com/album/5ocELmla5CTUeTTuXe5IiB"
+        "name": "Satan Was A Babyboomer",
+        "url": "https://open.spotify.com/album/42nVxnZ0BD7Vt3sMK0t8Ss"
       },
       "artists": [
         {
-          "name": "JKRS",
-          "url": "https://open.spotify.com/artist/5EXlM2WBPw4fwTnDNazXxv"
+          "name": "Brutalismus 3000",
+          "url": "https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j"
         }
       ],
-      "duration_ms": 135217,
-      "name": "Wish You Were Mine",
-      "url": "https://open.spotify.com/track/7Iv98VYt9YNFtDljHaZbx6"
+      "duration_ms": 427000,
+      "name": "Satan Was A Babyboomer",
+      "url": "https://open.spotify.com/track/3IVrlcM5gDoj3lghHY9m7I"
     },
     {
       "added_at": "2025-12-19 19:30:07",
@@ -1571,18 +1555,18 @@
     {
       "added_at": "2025-12-19 19:30:07",
       "album": {
-        "name": "Play With Me",
-        "url": "https://open.spotify.com/album/3drDrRF9zabJYjYs04DI98"
+        "name": "Wish You Were Mine",
+        "url": "https://open.spotify.com/album/5ocELmla5CTUeTTuXe5IiB"
       },
       "artists": [
         {
-          "name": "Nicolas Julian",
-          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
+          "name": "JKRS",
+          "url": "https://open.spotify.com/artist/5EXlM2WBPw4fwTnDNazXxv"
         }
       ],
-      "duration_ms": 133846,
-      "name": "Play With Me",
-      "url": "https://open.spotify.com/track/25KQKt7whpeqcj5LsttRP7"
+      "duration_ms": 135217,
+      "name": "Wish You Were Mine",
+      "url": "https://open.spotify.com/track/7Iv98VYt9YNFtDljHaZbx6"
     },
     {
       "added_at": "2025-12-19 19:30:07",
@@ -1599,6 +1583,58 @@
       "duration_ms": 112551,
       "name": "How I Fell in Love",
       "url": "https://open.spotify.com/track/2wUmENDPjBtgNvP2XmnRr7"
+    },
+    {
+      "added_at": "2025-12-19 19:30:07",
+      "album": {
+        "name": "Play With Me",
+        "url": "https://open.spotify.com/album/3drDrRF9zabJYjYs04DI98"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Julian",
+          "url": "https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb"
+        }
+      ],
+      "duration_ms": 133846,
+      "name": "Play With Me",
+      "url": "https://open.spotify.com/track/25KQKt7whpeqcj5LsttRP7"
+    },
+    {
+      "added_at": "2025-12-19 19:30:07",
+      "album": {
+        "name": "Wanna Feel",
+        "url": "https://open.spotify.com/album/3rwbNNkKvKWnlgvwI5hGP2"
+      },
+      "artists": [
+        {
+          "name": "DJ IP",
+          "url": "https://open.spotify.com/artist/7fv38XqMnjKou11W8jG4aK"
+        },
+        {
+          "name": "Pegassi",
+          "url": "https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c"
+        }
+      ],
+      "duration_ms": 198648,
+      "name": "Wanna Feel",
+      "url": "https://open.spotify.com/track/5mgLOhX1IXSCZXUFWWkf0c"
+    },
+    {
+      "added_at": "2025-12-19 19:30:07",
+      "album": {
+        "name": "Dunes",
+        "url": "https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB"
+      },
+      "artists": [
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "duration_ms": 184770,
+      "name": "Typa Girl",
+      "url": "https://open.spotify.com/track/16SKOkyJsJNeJkHUFTcDUm"
     },
     {
       "added_at": "2025-12-19 19:30:07",
@@ -1623,22 +1659,6 @@
     {
       "added_at": "2025-12-19 19:30:07",
       "album": {
-        "name": "Dunes",
-        "url": "https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB"
-      },
-      "artists": [
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        }
-      ],
-      "duration_ms": 184770,
-      "name": "Typa Girl",
-      "url": "https://open.spotify.com/track/16SKOkyJsJNeJkHUFTcDUm"
-    },
-    {
-      "added_at": "2025-12-19 19:30:07",
-      "album": {
         "name": "Toter Schmetterling",
         "url": "https://open.spotify.com/album/4DE6Bmt5GNbm4up60YkXe2"
       },
@@ -1655,26 +1675,6 @@
       "duration_ms": 233846,
       "name": "Toter Schmetterling",
       "url": "https://open.spotify.com/track/4LsYdWDeumtYjMndQVcA94"
-    },
-    {
-      "added_at": "2025-12-19 19:30:07",
-      "album": {
-        "name": "Wanna Feel",
-        "url": "https://open.spotify.com/album/3rwbNNkKvKWnlgvwI5hGP2"
-      },
-      "artists": [
-        {
-          "name": "DJ IP",
-          "url": "https://open.spotify.com/artist/7fv38XqMnjKou11W8jG4aK"
-        },
-        {
-          "name": "Pegassi",
-          "url": "https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c"
-        }
-      ],
-      "duration_ms": 198648,
-      "name": "Wanna Feel",
-      "url": "https://open.spotify.com/track/5mgLOhX1IXSCZXUFWWkf0c"
     },
     {
       "added_at": "2025-12-19 19:30:07",
@@ -1755,26 +1755,6 @@
     {
       "added_at": "2025-12-19 19:30:07",
       "album": {
-        "name": "Le Ball",
-        "url": "https://open.spotify.com/album/4HUdMNeCtEH1FxaCoXFCSb"
-      },
-      "artists": [
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        },
-        {
-          "name": "Lupage",
-          "url": "https://open.spotify.com/artist/5MazkeVWAqayflCjldHhs3"
-        }
-      ],
-      "duration_ms": 96187,
-      "name": "Le Ball",
-      "url": "https://open.spotify.com/track/6DO2vZdH5irJgNdwL65SlH"
-    },
-    {
-      "added_at": "2025-12-19 19:30:07",
-      "album": {
         "name": "Traum",
         "url": "https://open.spotify.com/album/2nbJe0AgTzQsQYvd3ZXECP"
       },
@@ -1791,6 +1771,42 @@
       "duration_ms": 214800,
       "name": "Traum",
       "url": "https://open.spotify.com/track/0zsE0og8kz0nddQFeNrgPG"
+    },
+    {
+      "added_at": "2025-12-19 19:30:07",
+      "album": {
+        "name": "Viento EP",
+        "url": "https://open.spotify.com/album/3hDDHGN0YNff3d31AkRGaV"
+      },
+      "artists": [
+        {
+          "name": "Funk Tribu",
+          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
+        }
+      ],
+      "duration_ms": 217840,
+      "name": "Viento",
+      "url": "https://open.spotify.com/track/1aLfpxEUwwrB2zItNq7wrd"
+    },
+    {
+      "added_at": "2025-12-19 19:30:07",
+      "album": {
+        "name": "Le Ball",
+        "url": "https://open.spotify.com/album/4HUdMNeCtEH1FxaCoXFCSb"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Lupage",
+          "url": "https://open.spotify.com/artist/5MazkeVWAqayflCjldHhs3"
+        }
+      ],
+      "duration_ms": 96187,
+      "name": "Le Ball",
+      "url": "https://open.spotify.com/track/6DO2vZdH5irJgNdwL65SlH"
     },
     {
       "added_at": "2025-12-19 19:30:07",
@@ -1823,22 +1839,6 @@
       "duration_ms": 244755,
       "name": "Promise",
       "url": "https://open.spotify.com/track/02iid7jLIDPuI4JyHTtyBz"
-    },
-    {
-      "added_at": "2025-12-19 19:30:07",
-      "album": {
-        "name": "Viento EP",
-        "url": "https://open.spotify.com/album/3hDDHGN0YNff3d31AkRGaV"
-      },
-      "artists": [
-        {
-          "name": "Funk Tribu",
-          "url": "https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK"
-        }
-      ],
-      "duration_ms": 217840,
-      "name": "Viento",
-      "url": "https://open.spotify.com/track/1aLfpxEUwwrB2zItNq7wrd"
     },
     {
       "added_at": "2025-12-19 19:30:07",

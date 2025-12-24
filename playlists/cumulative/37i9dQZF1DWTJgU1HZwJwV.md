@@ -4,7 +4,7 @@
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-602 songs - 1 day 1 hr 28 min
+603 songs - 1 day 1 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [Heart and Hope](https://open.spotify.com/track/4Nylyd2DTfsIl7blLQasEl) | [Aaron Flemming](https://open.spotify.com/artist/5JZXYantGqgguYFt5pw1uH) | [Heart and Hope](https://open.spotify.com/album/45A7m4PmaQLy25YbeEscno) | 2:12 | 2025-02-24 |  |
 | [Here On My Own Again](https://open.spotify.com/track/7N051dt6qiLMLbQ7GLsxKz) | [Loulou Metellus](https://open.spotify.com/artist/2A2AbvIq2SmTFLWbzqtoLX) | [Here On My Own Again](https://open.spotify.com/album/65N8jIGVxUBU88fAIiJQzn) | 2:14 | 2022-06-17 | 2023-04-29 |
 | [Heritage](https://open.spotify.com/track/5QxS9v4y4RueqedgmkBEuT) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Heritage](https://open.spotify.com/album/3ODJMXsZ6UHftFXAVPL0qn) | 2:05 | 2025-05-13 | 2025-10-02 |
+| [Hidden Emotional Currents](https://open.spotify.com/track/2iZr2LkP0wQmzZG2HLkHKR) | [Jonka Ebony](https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE) | [Hidden Emotional Currents](https://open.spotify.com/album/2kjRJoa6va3Wi9nUcdIlBq) | 2:22 | 2025-12-23 |  |
 | [Holiday](https://open.spotify.com/track/3ggMiNCvIhBfV94eHKXc9K) | [Manuel Maria Rojas](https://open.spotify.com/artist/4g0gAM7jxFZznUqV75EUxN) | [Holiday](https://open.spotify.com/album/42jWJjZTHJc3jN5XOxRbvr) | 2:54 | 2025-10-01 |  |
 | [Hommage a JT](https://open.spotify.com/track/4sPj6HtAEj7j2W302sUmgz) | [Luth](https://open.spotify.com/artist/4gLCaEykpiJdImDlT5O3am) | [Tierra del Fuego](https://open.spotify.com/album/0WV6eh9KvKbrFiNSRHgbS1) | 3:03 | 2022-06-17 | 2023-03-10 |
 | [Horizonte Tranquilo](https://open.spotify.com/track/1kPz0CM7h5yaQh7ctGV9r6) | [Emanuel Costa](https://open.spotify.com/artist/6iQweq1LCgRS4IEuTzRHQJ) | [Horizonte Tranquilo](https://open.spotify.com/album/3F8rQfhgRWroSrid5gar5M) | 1:41 | 2023-04-28 | 2023-06-23 |
@@ -405,7 +406,7 @@
 | [Prelude No\. 22](https://open.spotify.com/track/5GQMvgcBHqQmiz3ZsU2apw) | [Arnaud Dumond](https://open.spotify.com/artist/1BbOqTsLJ2L0VAnT0PVVRL) | [Prelude No\. 22](https://open.spotify.com/album/6vz3YMF0T9VYiYqCbGWjNL) | 2:16 | 2022-11-18 | 2023-08-25 |
 | [Preludio, Op\. 26](https://open.spotify.com/track/7phkF9WGZC8CoPKrQdv24D) | [Ernesto García de León](https://open.spotify.com/artist/7khoscfcFr6vJQCBWxXAEn), [Ricardo Salinas](https://open.spotify.com/artist/27z2RO8YOHjNquoZfAfHse) | [Preludio, Op\. 26](https://open.spotify.com/album/0qwyKk8uTrRO8Y4DpO4mNp) | 2:54 | 2022-06-17 | 2023-09-08 |
 | [Presence](https://open.spotify.com/track/65PwJhpGEDq3T9ifVlSM4r) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Presence](https://open.spotify.com/album/7spT1eTyS8gj0L8MHBX69x) | 2:27 | 2024-05-24 |  |
-| [Presence in the Present](https://open.spotify.com/track/1P1atoWaatAcMCw5w8E8Sf) | [Jonka Ebony](https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE) | [Presence in the Present](https://open.spotify.com/album/7eITvCHxiVyJ0N9ZeisGQE) | 2:21 | 2025-07-08 |  |
+| [Presence in the Present](https://open.spotify.com/track/1P1atoWaatAcMCw5w8E8Sf) | [Jonka Ebony](https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE) | [Presence in the Present](https://open.spotify.com/album/7eITvCHxiVyJ0N9ZeisGQE) | 2:21 | 2025-07-08 | 2025-12-24 |
 | [Promise](https://open.spotify.com/track/28WsjxgjNUnDQXNEBMop7t) | [David Sereno](https://open.spotify.com/artist/25j4WPpCFt8QQUnb7TmREb) | [Promise](https://open.spotify.com/album/2MfDNepXa2wpt2hSy0Qfv6) | 2:14 | 2025-05-19 |  |
 | [Puebla](https://open.spotify.com/track/3Y4U0GPZScSt7hbMRv2sjL) | [Luisita Peixoto](https://open.spotify.com/artist/2TrYrkiXtIfLGRb0kmgDRN) | [Puebla](https://open.spotify.com/album/469GshT2XvtLtp85DunWrE) | 3:00 | 2022-06-17 | 2024-05-10 |
 | [Puigmal](https://open.spotify.com/track/4SG34NU780HN7JrcLeEEEi) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Open Waters](https://open.spotify.com/album/2EpNqhccApxUDtlgGcg9AT) | 2:19 | 2023-01-06 | 2025-01-14 |
@@ -481,7 +482,7 @@
 | [Solitude](https://open.spotify.com/track/7j0CIdk9sYC3PAjpYXTSq5) | [Casper Hatlestad](https://open.spotify.com/artist/7D7NbqWGN2AYy4zLHxcvLU) | [Solitude](https://open.spotify.com/album/7KEgObSmwqkN9ByjXvAVhL) | 2:24 | 2024-05-10 |  |
 | [Sommersby](https://open.spotify.com/track/01n9zpPrEWCKsH6o27WwWR) | [Joseph Cline](https://open.spotify.com/artist/4I9DN3aBJSdzI26IuzVl0h) | [Sommersby](https://open.spotify.com/album/5q7aaYPfvt8uOpaLJudHjH) | 1:48 | 2023-04-28 | 2023-06-23 |
 | [Sonora Sunshine](https://open.spotify.com/track/0BT47n9p88wIwm7yNPvvLN) | [Cary Bestwood](https://open.spotify.com/artist/1qE78k5MwKFre0e74P3lQV) | [Sonora Sunshine](https://open.spotify.com/album/6Q48kfNKXooTHk6T5DLWCT) | 1:51 | 2023-08-24 | 2023-09-14 |
-| [Soothing Clare](https://open.spotify.com/track/70HknFJZ7R2Xu8jA7qnjyE) | [Jonka Ebony](https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE) | [Soothing Clare](https://open.spotify.com/album/3eJIsNmvJ3DxtRXCPLdPHI) | 2:09 | 2025-08-18 |  |
+| [Soothing Clare](https://open.spotify.com/track/70HknFJZ7R2Xu8jA7qnjyE) | [Jonka Ebony](https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE) | [Soothing Clare](https://open.spotify.com/album/3eJIsNmvJ3DxtRXCPLdPHI) | 2:09 | 2025-08-18 | 2025-12-24 |
 | [Spitalfields](https://open.spotify.com/track/2hrVoFSh9c8FpuYC6KrUlt) | [Lee Howard\-Taylor](https://open.spotify.com/artist/3fewyiCJIgYVzSHCnDjlgM) | [Spitalfields](https://open.spotify.com/album/1FAKr8DkcxIXk8NXJQAcsA) | 2:55 | 2024-02-02 |  |
 | [Spring has sprung](https://open.spotify.com/track/3wsMlLVsaUa2hlUmXAZgzg) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Sofia](https://open.spotify.com/album/6GjxHAGO2uqKYVZouQiXDa) | 2:18 | 2023-04-28 | 2023-06-23 |
 | [Spring Song](https://open.spotify.com/track/52n5yfjlyiJoFZjTOQKTN6) | [Rick Alexander](https://open.spotify.com/artist/11k1IQi1sxPpXfDnLy78Se) | [Spring Song](https://open.spotify.com/album/2L66m0ySBM5BfEjugxT0LZ) | 2:51 | 2022-06-17 | 2025-03-12 |

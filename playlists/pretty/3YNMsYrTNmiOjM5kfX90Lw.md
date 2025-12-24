@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3YNMsYrTNmiOjM5kfX90Lw.md) - [plain]
 
 > Hip\-hop favorites\. Songs distributed by DistroKid, playlist curated by the public\. To vote, head to: distrokid.com/spotlight
 
-[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 462,660 likes - 50 songs - 2 hr 48 min
+[DistroKid](https://open.spotify.com/user/bxv6myddmviz546hlcxia9t5g) - 462,863 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/3YNMsYrTNmiOjM5kfX90Lw.md) - [plain]
 | 39 | [Dolo](https://open.spotify.com/track/088x3crIoggngjzyzLivBB) | [Kash](https://open.spotify.com/artist/55n6ApQehOD2MFKIL7IvIT), [504 B\-Eazy](https://open.spotify.com/artist/6bmYNHzDCOKGlOXY7RL0yp) | [He from Down South I'm from the East Coast](https://open.spotify.com/album/7kUNH3X99lZd3JQEdq15MR) | 2:57 |
 | 40 | [Kommet Ihr Hirten](https://open.spotify.com/track/5G3m94srfK3JUlz7z8MBmz) | [BonkBrothers](https://open.spotify.com/artist/73OlJ5h84Dod3AJIcVoGA2) | [Weihnachts\-Rap](https://open.spotify.com/album/7osIBbuds16iISDMEbmg6F) | 2:58 |
 | 41 | [Daily](https://open.spotify.com/track/1ecMwAuEwHDVaqdj1Hwc2t) | [MC Trey](https://open.spotify.com/artist/5G65VOzroZMUuaY9TnzXdS) | [Daily](https://open.spotify.com/album/1Cc0fGAEoQ0RZZttNcTKxI) | 3:40 |
-| 42 | [BATIMENT \- Radio Edit](https://open.spotify.com/track/2R8Mw2odUL0asG3HsuRide) | [Samee](https://open.spotify.com/artist/0tfiJ0OrvXyPXUCqrSnjsu), [Lukee](https://open.spotify.com/artist/2xcaxEbo715AlzNTjZ5HSk) | [BATIMENT \(Radio Edit\)](https://open.spotify.com/album/0avzgV1U1KqEayZgARpceU) | 3:33 |
+| 42 | [BATIMENT](https://open.spotify.com/track/2R8Mw2odUL0asG3HsuRide) | [Samee](https://open.spotify.com/artist/0tfiJ0OrvXyPXUCqrSnjsu), [Lukee](https://open.spotify.com/artist/2xcaxEbo715AlzNTjZ5HSk), [Mellowvibes Records](https://open.spotify.com/artist/1tuq8JDLgpTfpat3DeJzCl) | [BATIMENT](https://open.spotify.com/album/0avzgV1U1KqEayZgARpceU) | 3:33 |
 | 43 | [Change](https://open.spotify.com/track/5bZtIKa5r2cbfnFQTwQzqp) | [504 B\-Eazy](https://open.spotify.com/artist/6bmYNHzDCOKGlOXY7RL0yp) | [N.O.L.A\. New Orleans Living Always](https://open.spotify.com/album/43Uw0cqfTS0FknGNSiwQez) | 3:16 |
 | 44 | [İntikam](https://open.spotify.com/track/6VvUjelmLEOu79d1KSSF5w) | [Göçebe](https://open.spotify.com/artist/53N1N0heJ0dxEtC0IfYt3m), [Kajuva](https://open.spotify.com/artist/4E0nfX2VBDnCM9CRqOR6rn) | [İntikam](https://open.spotify.com/album/7hH35GjnEu8u3uGZR8hTHF) | 2:20 |
 | 45 | [Тук и сега](https://open.spotify.com/track/5uWULbBCsCcBieJEseIRiy) | [UGLY](https://open.spotify.com/artist/5BwKgGiGED8ONdkJl76f2c), [Managua Slang](https://open.spotify.com/artist/4UaWE2haK4PSK4hOEQ9Zsn) | [Грозни мисли](https://open.spotify.com/album/4F12IQ7QfZJ8Cx0IPEf3EC) | 4:34 |

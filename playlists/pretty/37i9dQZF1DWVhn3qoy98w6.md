@@ -2,19 +2,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 ### [Fresh Finds España: Lo mejor de 2025](https://open.spotify.com/playlist/37i9dQZF1DWVhn3qoy98w6)
 
-> Lo mejor de 2025 en la escena independiente española\. Foto: Azuleja.
+> Lo mejor de 2025 en la escena independiente española\. Foto: West Srk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,655 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,660 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Azuleja](https://open.spotify.com/track/054OpOzE99BOethH5804WU) | [Azuleja](https://open.spotify.com/artist/4HUGSxQ2lu31jm5BsQjksX) | [C.R.I.N.G.E.](https://open.spotify.com/album/3wvLfPw8jvEUl9xSY8qSVA) | 2:50 |
+| 1 | [De Qué Sirve Odiar?](https://open.spotify.com/track/1AmJp2PA7gYZMTtiMB2diZ) | [West Srk](https://open.spotify.com/artist/0M0cPEB7uDiRRc22XtyRBZ) | [MI CRUZ](https://open.spotify.com/album/5oJ6PE9bO9hkppJOtvEAOw) | 3:22 |
 | 2 | [demo linda](https://open.spotify.com/track/3Ug2psiYdvDQLDdLsBzTFa) | [agosto](https://open.spotify.com/artist/0WSxxeaRyEijDqsE2TziXK) | [demo linda](https://open.spotify.com/album/3td3E7EQmVLVCIwKOSLOSO) | 3:26 |
-| 3 | [De Qué Sirve Odiar?](https://open.spotify.com/track/1AmJp2PA7gYZMTtiMB2diZ) | [West Srk](https://open.spotify.com/artist/0M0cPEB7uDiRRc22XtyRBZ) | [MI CRUZ](https://open.spotify.com/album/5oJ6PE9bO9hkppJOtvEAOw) | 3:22 |
+| 3 | [BRILLITO](https://open.spotify.com/track/16Zi7p3kVDs4z37Xmmpbio) | [Cecilia Zango](https://open.spotify.com/artist/23RDiEFiV2gMYADEUX40db), [BENGRO](https://open.spotify.com/artist/6QJVOWLF63OCXEHFbl9kAJ) | [EXÓTICA](https://open.spotify.com/album/5RGckbYF3q3tw3nYX0Y7Ej) | 2:06 |
 | 4 | [Sueño](https://open.spotify.com/track/4PuuJV3lENYKTXm8WNDC9W) | [Volavent](https://open.spotify.com/artist/6Mh7nmPPk64ydB0liVmXRb), [Varry Brava](https://open.spotify.com/artist/6kkQkBRrPcQGUN8g2grxwb) | [Sueño](https://open.spotify.com/album/2eF4m9cZodd9Ww4wQ0eISF) | 3:11 |
-| 5 | [BRILLITO](https://open.spotify.com/track/16Zi7p3kVDs4z37Xmmpbio) | [Cecilia Zango](https://open.spotify.com/artist/23RDiEFiV2gMYADEUX40db), [BENGRO](https://open.spotify.com/artist/6QJVOWLF63OCXEHFbl9kAJ) | [EXÓTICA](https://open.spotify.com/album/5RGckbYF3q3tw3nYX0Y7Ej) | 2:06 |
+| 5 | [Pa q me escribes?](https://open.spotify.com/track/59UT3zWpFwROD3DmsIIZz7) | [Vreno Yg](https://open.spotify.com/artist/6kEIWEdO0AXB40OKkgjfMj) | [Pa q me escribes?](https://open.spotify.com/album/4tvRbe0cAMnn0rm4tUoofk) | 2:00 |
 | 6 | [La Danza de la Muerte](https://open.spotify.com/track/3i2G0tLwh18Cmce3LlYsKV) | [Inoxidables](https://open.spotify.com/artist/1RFDUXVUyBz4aR2OvsXOmI) | [La Danza de la Muerte](https://open.spotify.com/album/2yuliT99lEzIBNk7aaX4r1) | 4:19 |
-| 7 | [Pa q me escribes?](https://open.spotify.com/track/59UT3zWpFwROD3DmsIIZz7) | [Vreno Yg](https://open.spotify.com/artist/6kEIWEdO0AXB40OKkgjfMj) | [Pa q me escribes?](https://open.spotify.com/album/4tvRbe0cAMnn0rm4tUoofk) | 2:00 |
+| 7 | [Azuleja](https://open.spotify.com/track/054OpOzE99BOethH5804WU) | [Azuleja](https://open.spotify.com/artist/4HUGSxQ2lu31jm5BsQjksX) | [C.R.I.N.G.E.](https://open.spotify.com/album/3wvLfPw8jvEUl9xSY8qSVA) | 2:50 |
 | 8 | [Wetransfer](https://open.spotify.com/track/25PBCqC2PTgo2mChjOccBR) | [D3ny4l](https://open.spotify.com/artist/0b4Sy4H3VYXSzkzLpPwQRv), [Denaial](https://open.spotify.com/artist/7CY8XTnArskJWvcjKfA77T) | [Wetransfer](https://open.spotify.com/album/4T6ApQTUWCTmSiSZydlSep) | 2:50 |
 | 9 | [portal](https://open.spotify.com/track/484npRS6bqoxtcN0kB4jLU) | [kindapatri](https://open.spotify.com/artist/1EvQDWh3meaem5xYnP9WPo) | [noctaria](https://open.spotify.com/album/3PzV1hg5u1Ub0uwYf9b4WF) | 2:49 |
 | 10 | [Dolores](https://open.spotify.com/track/2pWM7WwHXzyv7ysfnQooSr) | [Marina Daza](https://open.spotify.com/artist/1ycbxfYzNEBabFjFAv85u8), [BENGRO](https://open.spotify.com/artist/6QJVOWLF63OCXEHFbl9kAJ) | [Dolores](https://open.spotify.com/album/5mzUyxaLuORXeOW6k0kZsX) | 2:25 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 99 | [Espiritú](https://open.spotify.com/track/1QLvwPTBeKKfUaG46IiHsE) | [AKIRA](https://open.spotify.com/artist/0dErkhdd4nhGJhX2Hwi2vM) | [Niños Del Bosque](https://open.spotify.com/album/0cOMJwSdi2gNMIeMVtOkLZ) | 3:19 |
 | 100 | [NO](https://open.spotify.com/track/686fHKHqACsCBHWX8F9Xng) | [FEZE](https://open.spotify.com/artist/1xlVmQZG9B9MOy6TVcsekC), [Fane](https://open.spotify.com/artist/6T7oLp640iQSRrGtiwxRHh), [Tatta](https://open.spotify.com/artist/2WgfPhUyhP9qRsqRgxhZAG) | [NO](https://open.spotify.com/album/73pCrOmbcSn5iAJkINhi4a) | 3:37 |
 
-Snapshot ID: `AAAAADb0mopruEVnqA2rA6/ILlYC2ca+`
+Snapshot ID: `AAAAAJB6M0QP/xkF7v/RspDpc04Rn53L`

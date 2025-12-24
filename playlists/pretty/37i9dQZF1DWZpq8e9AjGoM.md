@@ -20,14 +20,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpq8e9AjGoM.md) - [plain]
 | 10 | [The Leaf](https://open.spotify.com/track/50w3ns6IRRfOChZbOMxC2W) | [Frederiq](https://open.spotify.com/artist/4WdIA6FvazMuJOCReHzRN1) | [The Leaf](https://open.spotify.com/album/098cZTzYQnnjgzghoLzX7R) | 2:43 |
 | 11 | [Overthinking](https://open.spotify.com/track/7iZUYJmbGmKvoQtsrEqLtG) | [Martes Fiore](https://open.spotify.com/artist/4iyGWBpdODMrJp3DRotA9W) | [Overthinking](https://open.spotify.com/album/1Vq5TtquMxnDCwdlkqG5KL) | 2:16 |
 | 12 | [Just As I Imagined](https://open.spotify.com/track/5oJJGbEDS8kWwr92m3GREr) | [Thiago Izan](https://open.spotify.com/artist/0Q0myhwEBVvGaX7xTOpAyt) | [Just As I Imagined](https://open.spotify.com/album/5HhNV0gvi5FILnL562n1Rv) | 2:17 |
-| 13 | [Freeflow](https://open.spotify.com/track/2NF8i4s59sMUb0sMcYllop) | [San Fiore](https://open.spotify.com/artist/2dVta8IapeaopXnWcmKUSm) | [Freeflow](https://open.spotify.com/album/5BN6SNSck7lwjmoMd5FlOL) | 2:05 |
+| 13 | [Solglimt](https://open.spotify.com/track/75fWxZM4OMTJxDHAKdGeaV) | [Christian Peterson\-Bergling](https://open.spotify.com/artist/0jXPRVmiApahArJiibipfH) | [Solglimt](https://open.spotify.com/album/0XhYgsUeKCHBESpTk4uFGd) | 2:33 |
 | 14 | [Falling Into You](https://open.spotify.com/track/07az0EJ4iIVajGjdAZlPIg) | [Tankeflukt](https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1) | [Falling Into You](https://open.spotify.com/album/4gPCAoHao4O8zYd25H0ERh) | 3:13 |
 | 15 | [Lavender Skies](https://open.spotify.com/track/22yEmRR2DDKKD9CLUZP3xh) | [Spring Bunny](https://open.spotify.com/artist/20rxFHW77lE0R1AlYzMIXl) | [Lavender Skies](https://open.spotify.com/album/1hseo3B4fwrN9GmKhvw7gC) | 2:34 |
-| 16 | [Ray](https://open.spotify.com/track/2DGFV4U3tPuoTq0vTRfYja) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Ray](https://open.spotify.com/album/47ce8yosa7ZuuLDpQfzGtp) | 2:10 |
-| 17 | [Solglimt](https://open.spotify.com/track/75fWxZM4OMTJxDHAKdGeaV) | [Christian Peterson\-Bergling](https://open.spotify.com/artist/0jXPRVmiApahArJiibipfH) | [Solglimt](https://open.spotify.com/album/0XhYgsUeKCHBESpTk4uFGd) | 2:33 |
+| 16 | [Freeflow](https://open.spotify.com/track/2NF8i4s59sMUb0sMcYllop) | [San Fiore](https://open.spotify.com/artist/2dVta8IapeaopXnWcmKUSm) | [Freeflow](https://open.spotify.com/album/5BN6SNSck7lwjmoMd5FlOL) | 2:05 |
+| 17 | [Ray](https://open.spotify.com/track/2DGFV4U3tPuoTq0vTRfYja) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Ray](https://open.spotify.com/album/47ce8yosa7ZuuLDpQfzGtp) | 2:10 |
 | 18 | [Conversus Caelum](https://open.spotify.com/track/1gmOOlVYyexhtuPqMvdZVH) | [Gregory Velvet](https://open.spotify.com/artist/59NyDOVfIi9ytVaEicIVrm) | [Conversus Caelum](https://open.spotify.com/album/4dg0Gjf5S33NuhGOR9xBkY) | 2:33 |
-| 19 | [Strosande](https://open.spotify.com/track/0BET2XNs9xjzW6uQ5yvqjQ) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Strosande](https://open.spotify.com/album/33zOUncyEjkebUlCAEuvtM) | 3:02 |
-| 20 | [A place of peace](https://open.spotify.com/track/1BhXzIRZGi3qdKoFUFfFfs) | [Thomas Perceval](https://open.spotify.com/artist/42lfxltT65SVNLR6kypDU5) | [A place of peace](https://open.spotify.com/album/6cgDCpcdalyujS9oZjK7f4) | 2:40 |
+| 19 | [A place of peace](https://open.spotify.com/track/1BhXzIRZGi3qdKoFUFfFfs) | [Thomas Perceval](https://open.spotify.com/artist/42lfxltT65SVNLR6kypDU5) | [A place of peace](https://open.spotify.com/album/6cgDCpcdalyujS9oZjK7f4) | 2:40 |
+| 20 | [Strosande](https://open.spotify.com/track/0BET2XNs9xjzW6uQ5yvqjQ) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Strosande](https://open.spotify.com/album/33zOUncyEjkebUlCAEuvtM) | 3:02 |
 | 21 | [soleil](https://open.spotify.com/track/5xFeWI8GG7ylFRh0Pi6sli) | [Adrien Anviér](https://open.spotify.com/artist/0nqRJVX6wgTfAlvltxr3d8) | [soleil](https://open.spotify.com/album/0twR0FMwm4qI6WiwOztwTV) | 2:35 |
 | 22 | [Hope Reborn](https://open.spotify.com/track/1m0QXCui2cddXERsmwOEjG) | [Nia Amara](https://open.spotify.com/artist/66zVxJqnaCuSkUimaB2WZS) | [Hope Reborn](https://open.spotify.com/album/3Nlkiki77PqTuE4oGi5vYD) | 2:19 |
 | 23 | [Through the Gentle Haze](https://open.spotify.com/track/1kyoGHHQAZ1HidriJFl2x0) | [Eldur Hættu](https://open.spotify.com/artist/3GsfhG02GtXyYPOoc5QRa8) | [Through the Gentle Haze](https://open.spotify.com/album/3LGOez0TX1PDOLseuLVj3t) | 2:11 |
@@ -199,4 +199,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpq8e9AjGoM.md) - [plain]
 | 189 | [Ligare Arcum](https://open.spotify.com/track/2SQnm2Hx9VCWopW6LMCD3N) | [Jean d'Yeu](https://open.spotify.com/artist/4nLWZ040J0l6wHTIKRqvZv) | [Ligare Arcum](https://open.spotify.com/album/5QuBJQRifMGPN3rf2OU7gj) | 3:04 |
 | 190 | [Early Memories](https://open.spotify.com/track/0yAgdDXxal3Em3W4X1bkGq) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw) | [Early Memories](https://open.spotify.com/album/0jFxPV4j7bMwugDCJsMt7g) | 2:33 |
 
-Snapshot ID: `AAAAAIZe27d7K97gFOZftAHnHPx6DJVV`
+Snapshot ID: `AAAAAEGO85uv8GmUs1PB/ayFJran4NGd`

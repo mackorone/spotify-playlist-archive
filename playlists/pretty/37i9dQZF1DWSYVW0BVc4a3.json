@@ -1,12 +1,12 @@
 {
   "description": "Megra with the sound of the Scandi underground",
-  "num_followers": 221141,
+  "num_followers": 221137,
   "original_name": "Open Air",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALjZkyvF0dS4V1kNPCA8ERW2VKKx",
+  "snapshot_id": "AAAAAPso0D05tgc4hVB7QAdhctlVB7Nz",
   "tracks": [
     {
       "added_at": "2025-12-18 23:00:05",
@@ -181,6 +181,34 @@
       "url": "https://open.spotify.com/track/0cZN3g7rtfNE6vsmX0k8OF"
     },
     {
+      "added_at": "2025-12-23 09:24:08",
+      "album": {
+        "name": "The Way I Are (Max Dean Remix - Extended)",
+        "url": "https://open.spotify.com/album/0UHp3EOGzGH2vxXUPaCmNA"
+      },
+      "artists": [
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        },
+        {
+          "name": "Keri Hilson",
+          "url": "https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1"
+        },
+        {
+          "name": "D.O.E.",
+          "url": "https://open.spotify.com/artist/4TLCPR1sMYoNU1jA7O4uww"
+        },
+        {
+          "name": "Max Dean",
+          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
+        }
+      ],
+      "duration_ms": 331162,
+      "name": "The Way I Are - Max Dean Remix - Extended",
+      "url": "https://open.spotify.com/track/4fWGfF4E3zNsrb6JgRB57z"
+    },
+    {
       "added_at": "2025-12-18 23:00:05",
       "album": {
         "name": "Green Nights",
@@ -215,6 +243,26 @@
       "duration_ms": 219023,
       "name": "Lost",
       "url": "https://open.spotify.com/track/1OeW24Ek3LEthuQz1UyYCj"
+    },
+    {
+      "added_at": "2025-12-23 09:24:08",
+      "album": {
+        "name": "The Queen (303 Retouch)",
+        "url": "https://open.spotify.com/album/3At4VjbTFzjnmXB09FELVW"
+      },
+      "artists": [
+        {
+          "name": "Adam Ten",
+          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
+        },
+        {
+          "name": "Mita Gami",
+          "url": "https://open.spotify.com/artist/6Y9N9gdo5jpzGsExWDymS8"
+        }
+      ],
+      "duration_ms": 222580,
+      "name": "The Queen - 303 Retouch",
+      "url": "https://open.spotify.com/track/7ga9mUzT0UoVYNZdRYaBIg"
     },
     {
       "added_at": "2025-12-18 23:00:05",

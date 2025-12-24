@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Vamos calentando motores para Navidad 🎄 Grupo Firme y Lenin Ramírez en portada 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,108,022 likes - 76 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,108,250 likes - 76 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 34 | [Rapido](https://open.spotify.com/track/4MkxPCtJaX27e29hUu19dl) | [Sleezy O](https://open.spotify.com/artist/4lKCm9X9aPxuejrckz6b4n), [VV Brujo](https://open.spotify.com/artist/3tshgsRowrEseqRaguXfZR), [ND Kobi'](https://open.spotify.com/artist/65vpTU1WPlaRYEX5UKTfrl) | [Rapido](https://open.spotify.com/album/72VsvNLWFfIMyN3NbCYnHK) | 2:24 |
 | 35 | [Pase y Pase \- En Vivo](https://open.spotify.com/track/1NVVvyIakIXkQQFeQkbL54) | [Israel Morales](https://open.spotify.com/artist/6ojwZd66jiZlplxrG6JVjW), [El Angel del Corrido y Sus Plebes](https://open.spotify.com/artist/50PeQKjlKXNr4yui6TQm49) | [Pase y Pase \(En Vivo\)](https://open.spotify.com/album/255bQQt1qMaS7x44hXw6pW) | 2:33 |
 | 36 | [lo que debo ser](https://open.spotify.com/track/34skWwkqT3GebQyspgOAtW) | [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T), [SALVAMENTO](https://open.spotify.com/artist/6abCu4AWrdT5kHm3u5RDqn) | [lo que debo ser](https://open.spotify.com/album/5WlffgWhaoYVmtrJVjDIC2) | 2:37 |
-| 37 | [TURR0LOGIA](https://open.spotify.com/track/3yP2GV6HbYViIiboNlXDlO) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [TURR0LOGIA](https://open.spotify.com/album/3VvxUKqCj6EZzk6i8FWkEF) | 2:18 |
+| 37 | [TURR0LOGIA](https://open.spotify.com/track/3yP2GV6HbYViIiboNlXDlO) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L) | [TURR0LOGIA](https://open.spotify.com/album/3VvxUKqCj6EZzk6i8FWkEF) | 2:18 |
 | 38 | [Venom's In \- demo](https://open.spotify.com/track/7oyMAViYxBswvEXboOcT6W) | [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ), [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Venom's In](https://open.spotify.com/album/0Amj5rXpkhxhZMthiiMp0W) | 4:55 |
 | 39 | [A escondidas](https://open.spotify.com/track/4D3N95CZeCnsFQoGFDId84) | [Cumbia Pedregal](https://open.spotify.com/artist/5wApHJOjQqf9w4OPesyWca) | [A escondidas](https://open.spotify.com/album/42PNF3MKzjOVfVJnep4Ce4) | 3:32 |
 | 40 | [Alma De Mi Alma](https://open.spotify.com/track/506cpFaGZH09fzWBDRBohD) | [Omar Chaparro](https://open.spotify.com/artist/4c2iIMx6xBNZkK79QTilJ6) | [Alma De Mi Alma](https://open.spotify.com/album/7Fi62vFhahgd2WiK9OpPtv) | 3:15 |

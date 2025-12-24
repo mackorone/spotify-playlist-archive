@@ -4,7 +4,7 @@
 
 > 
 
-127 songs - 6 hr 38 min
+128 songs - 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [That One Girl](https://open.spotify.com/track/77uc3YwRFqWcTJX9GquTMw) | [Pablo Santana](https://open.spotify.com/artist/40g1dctGAaTqem3oED2j8l) | [That One Girl](https://open.spotify.com/album/0p9Ckyg7TybvPbE5vgvAux) | 2:13 | 2025-03-12 |  |
 | [The Good, The Bad and The Electric](https://open.spotify.com/track/06lGeazjV3Il8dEtfRo7Jd) | [Chance the Closer](https://open.spotify.com/artist/2N8BKNbDpSuVVZNHKvQN40) | [The Good, The Bad and The Electric](https://open.spotify.com/album/7Mq3ksUhsVs1I48vh9kP9a) | 3:12 | 2025-12-21 |  |
 | [the mall closed down](https://open.spotify.com/track/1y6T0l16UIX6R4YmRNWziA) | [scrutch](https://open.spotify.com/artist/5ZgbUIDHqbDpf149oTHsaC) | [the mall closed down](https://open.spotify.com/album/4DoBmOddEZzeypxWIrUdAZ) | 5:37 | 2025-05-07 |  |
+| [The Vastness of Consciousness \- 432hz Version](https://open.spotify.com/track/5wt45JmYqJ3NdYhzj1Bf2A) | [Violare Fobia](https://open.spotify.com/artist/0oZKREVpE7cVrBeliDpnWN) | [The Vastness of Consciousness \(432hz Version\)](https://open.spotify.com/album/6sxLNMlL8Cf7ibdTfdFCK7) | 3:13 | 2025-12-23 |  |
 | [The Weekender](https://open.spotify.com/track/1OnHezJi7V03g7Kk1DuF3M) | [Neu Yuck](https://open.spotify.com/artist/6T1u8DVyqblZvGOSaF7gUd) | [The Weekender](https://open.spotify.com/album/75g24joK0xD27tcJCOMGFZ) | 2:28 | 2025-10-01 |  |
 | [Throw That Ass Back](https://open.spotify.com/track/5ldc4pQnSo3kN9iuGU28FW) | [Medikate](https://open.spotify.com/artist/5BqQcPG5Y9hHLfjePrPmNh) | [Throw That Ass Back](https://open.spotify.com/album/5tmLNvZODQPdCwj7pjnkdU) | 2:39 | 2025-07-03 |  |
 | [To Her](https://open.spotify.com/track/5Xa32y3yYAqQjuSnQ9e2nC) | [Libby Ember](https://open.spotify.com/artist/33b3osf81duwVT6hgdGxba) | [To Her](https://open.spotify.com/album/1M9XLvmAovyW7kQsxZXjc1) | 4:40 | 2025-11-18 |  |

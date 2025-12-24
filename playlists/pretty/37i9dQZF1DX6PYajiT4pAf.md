@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Rvfv & Cano, Omar Courtz,  Beéle & Elvis Crespo, Arcángel y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,475 likes - 60 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,468 likes - 60 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 22 | [Italiano](https://open.spotify.com/track/4AvygKuCUz6doZ7L7ahxWN) | [Dirty Suc](https://open.spotify.com/artist/5zziunXg44b8BEQnVx7W2e), [Selecta](https://open.spotify.com/artist/1m9WPOccw8sizsVYUhSVjZ) | [Fillo Do Mar](https://open.spotify.com/album/44J39kSruve45DeoAO2aaH) | 2:42 |
 | 23 | [Cluedo](https://open.spotify.com/track/0F4WTkR1jLdjshpalFlCVp) | [Midas Alonso](https://open.spotify.com/artist/4YbohdhSehUUc7RT3STcKW), [Delson Aravena](https://open.spotify.com/artist/7z3WDAzeazNjQckDeenDAf) | [SOLO TÚ ELIGES](https://open.spotify.com/album/4Jym13EJ51Ni1WfMvHbQ1z) | 3:30 |
 | 24 | [Otro Como Tú](https://open.spotify.com/track/6TlPpf1alVVUy7AiCWmvRE) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Otro Como Tú](https://open.spotify.com/album/2ZwmjqtQMJg05epQreiV4S) | 3:22 |
-| 25 | [TURR0LOGIA](https://open.spotify.com/track/3yP2GV6HbYViIiboNlXDlO) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [TURR0LOGIA](https://open.spotify.com/album/3VvxUKqCj6EZzk6i8FWkEF) | 2:18 |
+| 25 | [TURR0LOGIA](https://open.spotify.com/track/3yP2GV6HbYViIiboNlXDlO) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L) | [TURR0LOGIA](https://open.spotify.com/album/3VvxUKqCj6EZzk6i8FWkEF) | 2:18 |
 | 26 | [COMO DESCRIBIRLA?](https://open.spotify.com/track/0MC2mcjo3zNqiguhnZXzBy) | [3dnan](https://open.spotify.com/artist/0sYwl6DQa61XcXmqaWQldz) | [COMO DESCRIBIRLA?](https://open.spotify.com/album/1q2BuxOrCXYWS8RjClH2C3) | 3:06 |
 | 27 | [Gracias a Dios](https://open.spotify.com/track/4yJ9Vq7xxlbgrNnGYqPibl) | [El Daddy](https://open.spotify.com/artist/0ZiG3Fe4yVcYjUCZHmAzVQ), [Makiki](https://open.spotify.com/artist/6uF1ABl9hCBgL0d2e0cR14) | [Gracias a Dios](https://open.spotify.com/album/1rfVOJVAL5JXEdMK1otYwg) | 2:26 |
 | 28 | [DE TO SE SALE](https://open.spotify.com/track/7mTMdiT9aEu2ytXhHlHzhf) | [Antony Z](https://open.spotify.com/artist/5lXkaxOaoMr8fpQFgYdGTc) | [DE TO SE SALE](https://open.spotify.com/album/6ohw7auRj7ndzsd85isno2) | 3:03 |

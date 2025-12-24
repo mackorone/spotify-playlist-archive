@@ -4,7 +4,7 @@
 
 > This is Carl Carlton\. The essential tracks, all in one playlist.
 
-42 songs - 2 hr 42 min
+43 songs - 2 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Competition Ain't Nothin' \- Single Version](https://open.spotify.com/track/4RefDIOsz8d20CyS2a5W9E) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Everlasting: The Best Of Carl Carlton](https://open.spotify.com/album/10np3FVXIDYUca9O6bd5wb) | 2:32 | 2025-12-18 |  |
 | [Don't You Need a Boy Like Me](https://open.spotify.com/track/3zLEgjXLFNp9ucP5003ZNQ) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Don't You Need a Boy Like Me](https://open.spotify.com/album/3slEt5DjLk1aBN9owomaXM) | 1:56 | 2025-12-18 |  |
 | [Don’t You Wanna Make Love](https://open.spotify.com/track/07G0J1Z8SPfZeIAZWx1QXS) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Carl Carlton \(Expanded Edition\)](https://open.spotify.com/album/47PRIVK9fSdMzABbJFbQes) | 4:02 | 2025-12-18 |  |
-| [Drop By My Place](https://open.spotify.com/track/71DMqKYyDkS1otrkh0vR1x) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Everlasting: The Best Of Carl Carlton](https://open.spotify.com/album/10np3FVXIDYUca9O6bd5wb) | 2:47 | 2025-12-18 |  |
+| [Drop By My Place](https://open.spotify.com/track/71DMqKYyDkS1otrkh0vR1x) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Everlasting: The Best Of Carl Carlton](https://open.spotify.com/album/10np3FVXIDYUca9O6bd5wb) | 2:47 | 2025-12-18 | 2025-12-24 |
 | [Everlasting Love](https://open.spotify.com/track/5i7rT8lbGzjj1n7TTXR5U8) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Everlasting: The Best Of Carl Carlton](https://open.spotify.com/album/10np3FVXIDYUca9O6bd5wb) | 2:33 | 2025-12-18 |  |
 | [Free Fine and 21](https://open.spotify.com/track/2epGU96QmILHnfs3RFX7sz) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Private Property](https://open.spotify.com/album/78sYYdjYiy7XgpjXqOEJwU) | 3:57 | 2025-12-18 |  |
 | [God Is Good](https://open.spotify.com/track/7kNdtp5dx70N6doCbllzsF) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [God Is Good](https://open.spotify.com/album/2JktMstBcepNgVJX58Ig7Z) | 4:20 | 2025-12-18 |  |
@@ -25,6 +25,7 @@
 | [I’ve Got That Boogie Fever](https://open.spotify.com/track/4hwzwno5WzERkMSGlmjp5n) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Carl Carlton \(Expanded Edition\)](https://open.spotify.com/album/47PRIVK9fSdMzABbJFbQes) | 6:14 | 2025-12-18 |  |
 | [La La Song](https://open.spotify.com/track/3IC5NaEEJaAjoEAOTFy2bV) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [La La Song](https://open.spotify.com/album/7o6QHeec9l9hR3vfL7PmUZ) | 3:16 | 2025-12-18 |  |
 | [Let Me Love You 'Til Morning Comes](https://open.spotify.com/track/0u4VPsMn34E45M7Xnkaot9) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Carl Carlton \(Expanded Edition\)](https://open.spotify.com/album/47PRIVK9fSdMzABbJFbQes) | 3:53 | 2025-12-18 |  |
+| [Look At Mary Wonder \(How I Got Over\)](https://open.spotify.com/track/1MzXNdH5xGDCffxUh3rC8t) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Everlasting: The Best Of Carl Carlton](https://open.spotify.com/album/10np3FVXIDYUca9O6bd5wb) | 2:05 | 2025-12-24 |  |
 | [Love Thang](https://open.spotify.com/track/3K2FwvRcDicgE61er9rM2h) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Love Thang](https://open.spotify.com/album/2Z64FBRqcaeKjfVM4YPVOs) | 3:51 | 2025-12-18 |  |
 | [Malaga Airport \- Night Beats Mix](https://open.spotify.com/track/3Rp5DybTxMSr6seDyuNQjo) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [House Dj Set, Vol\. 3](https://open.spotify.com/album/0J1UklpBuJzV8Aj1cJHVKP) | 3:21 | 2025-12-18 |  |
 | [Mama's Boy](https://open.spotify.com/track/1dmyGytxcI7OQLAclmOJ52) | [Carl Carlton](https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P) | [Private Property](https://open.spotify.com/album/78sYYdjYiy7XgpjXqOEJwU) | 4:10 | 2025-12-18 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 
 > De beste tracks in WS❗️Cover: Hef
 
-[Spotify](https://open.spotify.com/user/spotify) - 708,912 likes - 60 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 708,892 likes - 60 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 | 8 | [Helse Weg](https://open.spotify.com/track/13J4yy3fZ0lL4hrPFuZD2f) | [Fresku](https://open.spotify.com/artist/5m1cLmgZIfEYPLejhLFR10) | [Helse Weg](https://open.spotify.com/album/3kRD21plGymtL79egsmrM9) | 8:12 |
 | 9 | [Rodney](https://open.spotify.com/track/7cgggy3ha5vFg1J96sI93o) | [Rits](https://open.spotify.com/artist/0zjY4NHr3mdGq8Mn8btl3O), [Solid Circle](https://open.spotify.com/artist/21JzXYDy45yD5pzxnsEwrf) | [VOOR DE RITSELAARS](https://open.spotify.com/album/2h4PDrB0ZQFYxlaY2LCmb1) | 3:08 |
 | 10 | [Man Down](https://open.spotify.com/track/4aBYk2fxRupiNjvvtOglRM) | [Leblanco](https://open.spotify.com/artist/3xPDzlchimtvIGqPc1lZl2), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Man Down](https://open.spotify.com/album/3E2aAebxO2g7U8svhw5JJa) | 3:10 |
-| 11 | [Loesoe](https://open.spotify.com/track/34HVqkxoAFptLZ6YHQJiiH) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN), [Oykie](https://open.spotify.com/artist/1PGVcFf76fImutKs0cuqgQ) | [De Ene Hand Wast De Ander \(Deluxe\)](https://open.spotify.com/album/4kiNumKo95FBrtwmIC6uF5) | 3:26 |
+| 11 | [Eenzaam](https://open.spotify.com/track/2dg10oKMTxkzABwSythyvK) | [Hef](https://open.spotify.com/artist/7ge3QfYPMTjDbMoVLuuIuJ), [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Grijze](https://open.spotify.com/album/4J0OXItwOZUFT4QXPu18dw) | 3:04 |
 | 12 | [Klantenbestand](https://open.spotify.com/track/3T6vh2LV8j8VpbRIkP9VB6) | [Mesy](https://open.spotify.com/artist/6bvQsgkkfaVQ5IljDVC5hk) | [Klantenbestand](https://open.spotify.com/album/0FhDaaBFWg9TZXh9gXgmb7) | 2:21 |
-| 13 | [Wie?](https://open.spotify.com/track/6ac43un03PjGkc0VuBRQJP) | [Hef](https://open.spotify.com/artist/7ge3QfYPMTjDbMoVLuuIuJ) | [Grijze](https://open.spotify.com/album/4J0OXItwOZUFT4QXPu18dw) | 2:23 |
+| 13 | [Loesoe](https://open.spotify.com/track/34HVqkxoAFptLZ6YHQJiiH) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN), [Oykie](https://open.spotify.com/artist/1PGVcFf76fImutKs0cuqgQ) | [De Ene Hand Wast De Ander \(Deluxe\)](https://open.spotify.com/album/4kiNumKo95FBrtwmIC6uF5) | 3:26 |
 | 14 | [TRANQUILLO](https://open.spotify.com/track/7yCQnZXobkhuUhou4F9kog) | [Gregossan](https://open.spotify.com/artist/0p2nWJAXVkj0IkhGiTcPdC) | [TRANQUILLO](https://open.spotify.com/album/2hIBuW8ozqyF7Uv8D6gC8G) | 2:46 |
 | 15 | [Pleintje](https://open.spotify.com/track/2RsZPNZAQPpodPFwHZAHJF) | [Jack](https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh) | [Plan C](https://open.spotify.com/album/3QpD7k6aF8teVbLxMm5QPR) | 2:09 |
 | 16 | [Tellen](https://open.spotify.com/track/6E0301CxsDRQLsPJp5aCha) | [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx), [Esko](https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj), [Hef](https://open.spotify.com/artist/7ge3QfYPMTjDbMoVLuuIuJ) | [REGELAAR](https://open.spotify.com/album/0qSvKIR2s0O2BaFcl23tL1) | 2:49 |
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 | 24 | [Plan C](https://open.spotify.com/track/1h9iSY0MustqhMDTJ20KdE) | [Jack](https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh) | [Plan C](https://open.spotify.com/album/3QpD7k6aF8teVbLxMm5QPR) | 1:53 |
 | 25 | [Koning Winter \(feat\. Chivv\)](https://open.spotify.com/track/3tX0OsoZ6u4l20LN3narOr) | [Ares](https://open.spotify.com/artist/30WLe30YBfDFoIkJS0Tml9), [Chivv](https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg) | [Andere Man](https://open.spotify.com/album/4F7HRc2bLbvOWKA2IoOisH) | 4:04 |
 | 26 | [Gepassioneerd](https://open.spotify.com/track/5i1sPpbpugQJ6XVrojc9O1) | [Lostt](https://open.spotify.com/artist/2zvq4i4GGwZ6T5CmWcjJkk) | [Gepassioneerd](https://open.spotify.com/album/5euBuWzTTM7YUSl31Q6qMR) | 2:26 |
-| 27 | [Eenzaam](https://open.spotify.com/track/2dg10oKMTxkzABwSythyvK) | [Hef](https://open.spotify.com/artist/7ge3QfYPMTjDbMoVLuuIuJ), [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Grijze](https://open.spotify.com/album/4J0OXItwOZUFT4QXPu18dw) | 3:04 |
+| 27 | [Wie?](https://open.spotify.com/track/6ac43un03PjGkc0VuBRQJP) | [Hef](https://open.spotify.com/artist/7ge3QfYPMTjDbMoVLuuIuJ) | [Grijze](https://open.spotify.com/album/4J0OXItwOZUFT4QXPu18dw) | 2:23 |
 | 28 | [Beemsterstraat](https://open.spotify.com/track/41htoqaciyMHG4NELcoI6h) | [SKEEKS](https://open.spotify.com/artist/7f9oQiICipkyl9KuNHszHa) | [Beemsterstraat](https://open.spotify.com/album/4fIC1wHhQghmmJZS5QmFJT) | 2:20 |
 | 29 | [Jongen Als Jij](https://open.spotify.com/track/5oUTqaNJHxB2S6RZ4c94fR) | [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx) | [REGELAAR](https://open.spotify.com/album/0qSvKIR2s0O2BaFcl23tL1) | 3:54 |
 | 30 | [Don Julio](https://open.spotify.com/track/50xOKdGM8g8aBZoF6eDFb1) | [Rits](https://open.spotify.com/artist/0zjY4NHr3mdGq8Mn8btl3O), [Solid Circle](https://open.spotify.com/artist/21JzXYDy45yD5pzxnsEwrf) | [Don Julio](https://open.spotify.com/album/6sdewdfn0oBTIRZewCPT8d) | 2:10 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 | 59 | [Schweinsteiger](https://open.spotify.com/track/4VGvMXucEK4TjC6GZgyjRk) | [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd), [Leblanco](https://open.spotify.com/artist/3xPDzlchimtvIGqPc1lZl2) | [Schweinsteiger](https://open.spotify.com/album/2BTwcwPD1vISGzagEKkwlE) | 4:42 |
 | 60 | [Drugsdealers & Scammers](https://open.spotify.com/track/6MUfZV19IJgXbDEEujlKo4) | [Chardy](https://open.spotify.com/artist/75TcM0uB8Oxfv6CyDzySDa), [Eves Laurent](https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS) | [Drugsdealers & Scammers](https://open.spotify.com/album/0gf1TRAXRYbKNFWug1ssuz) | 2:34 |
 
-Snapshot ID: `AAAAANzSiH/QRHqoWps8r/aqne/XqSj6`
+Snapshot ID: `AAAAAPinm4YmJuh26BWXWyE2g+ILxBva`

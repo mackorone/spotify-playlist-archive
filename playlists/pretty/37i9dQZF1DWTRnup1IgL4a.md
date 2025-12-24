@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRnup1IgL4a.md) - [plain]
 
 > Get a great night's sleep with these soft acoustic guitar tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,753 likes - 106 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,758 likes - 106 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,24 +16,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRnup1IgL4a.md) - [plain]
 | 6 | [French Town](https://open.spotify.com/track/4KVbd3DdAlN6soY6VlsyQm) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [French Town](https://open.spotify.com/album/0GtfbWiV49Sk0KPFKy4E0z) | 2:22 |
 | 7 | [Saint Placide](https://open.spotify.com/track/3pdhKb8GivqG4PVhNujVu8) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Saint Placide](https://open.spotify.com/album/3b247w7f2QfCQgTMpuppup) | 2:35 |
 | 8 | [Abilene](https://open.spotify.com/track/2zW7bKgWk9WRrTYvRys0rR) | [Luiz de Luna](https://open.spotify.com/artist/0FZzM3FVTZdoefPWS9Edhb) | [Abilene](https://open.spotify.com/album/0rv3TQYYHCDQPyW7Bc20Kv) | 2:32 |
-| 9 | [The Still Shore](https://open.spotify.com/track/2tmplG2gm71y0F5hFruGri) | [Ivan Pirman](https://open.spotify.com/artist/76BMzkMBbRiZ6WuWDOUPNg) | [The Still Shore](https://open.spotify.com/album/3hO07xFDZ9ZKjsFOd5GwTU) | 2:14 |
-| 10 | [Waiting Depths](https://open.spotify.com/track/1yLVHyuohiMwMonGN4CwmA) | [Timothy Reiger](https://open.spotify.com/artist/2gJCO2wkZJeVALM0a9PpV3) | [Waiting Depths](https://open.spotify.com/album/2egvprKnSn8OpCbDq7OUNp) | 2:36 |
-| 11 | [The Bagpiper](https://open.spotify.com/track/0IPBTVB6VHKIbibo58dx58) | [Jasper Lynx](https://open.spotify.com/artist/3aUAZMBL4zv77IVgM3rMmv) | [The Bagpiper](https://open.spotify.com/album/13E0YP2I2aEf4w6a7UqymH) | 2:56 |
-| 12 | [Less Than Before](https://open.spotify.com/track/4h90RLLAfYFYypcisZgAtG) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [Less Than Before](https://open.spotify.com/album/4LuOI3UB33pjgvOFeV0XV6) | 2:21 |
-| 13 | [The Masks](https://open.spotify.com/track/6Yc14KO3pRPusbPrXbhTXW) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [The Masks](https://open.spotify.com/album/3nelL7cD1n3JL1NZOGVMyb) | 2:37 |
-| 14 | [Sofi](https://open.spotify.com/track/1E63PT29zZUjwssWUudCIX) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Sofi](https://open.spotify.com/album/6CFdDRsZbvWZGWC42iQ9wb) | 2:53 |
-| 15 | [The Lone Wanderer](https://open.spotify.com/track/2Z7ZFMH8kzImUmJohr1NTv) | [Oceane Bardot](https://open.spotify.com/artist/4YYQ7Q0261K5rIEs0SQZIi) | [The Lone Wanderer](https://open.spotify.com/album/5cfNxyzbXNjojEUHIQIE35) | 2:11 |
-| 16 | [Aurélie](https://open.spotify.com/track/3bDABoecakGnm4d6uuZG2r) | [Phil Stent](https://open.spotify.com/artist/1E1Kt5Hh9SbIGSTb8tyU8G) | [Aurélie](https://open.spotify.com/album/4toKfcM0DGCY6ginB9tFSQ) | 2:04 |
-| 17 | [Faces](https://open.spotify.com/track/04fdftVJxtAA1oSYX20Wvf) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [Faces](https://open.spotify.com/album/4hhaujnJTy1xDKtLFAiRJl) | 2:43 |
-| 18 | [Sighs in the Night](https://open.spotify.com/track/1InvD1XYaRe9IlwnLJ0kiy) | [Caylee Luna](https://open.spotify.com/artist/6gEGHbKHwwG0aslwsdWKL8) | [Sighs in the Night](https://open.spotify.com/album/6XLbtxg1YGNcIItuco4nlc) | 2:17 |
-| 19 | [Sketches](https://open.spotify.com/track/464n8gKl9hsICURBJeHnwF) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [Sketches](https://open.spotify.com/album/77fHhNoGxCGWa59DVMYJbj) | 2:26 |
-| 20 | [Croatian Clarity](https://open.spotify.com/track/0oUiaMIUpxdZfaJoebcLB6) | [Jorge Huksos](https://open.spotify.com/artist/5DEfxYlPLz7yZMw0AJF5G7) | [Croatian Clarity](https://open.spotify.com/album/0o9OXVtcTzrUupkezwZARh) | 3:18 |
-| 21 | [Small Things](https://open.spotify.com/track/5qvMw2Hr3BuphsulOSUU5n) | [Julian Rivers](https://open.spotify.com/artist/6Kz9TTn0UKMFKI4gC9g3Hb) | [Small Things](https://open.spotify.com/album/5blNaBqiCuNqDouOkRZlzk) | 2:42 |
-| 22 | [Hotel Window](https://open.spotify.com/track/7MXLqbzSxFFnH5Tev8r1JF) | [Matthew Kaff](https://open.spotify.com/artist/45KZBIPW9K2Yslr7ccejpk) | [Hotel Window](https://open.spotify.com/album/5Ir8bu9DXkd34iLRWVUEjo) | 2:39 |
-| 23 | [From me to you](https://open.spotify.com/track/1T0Knq3JKfOdEQVQboEWWM) | [Elvin Mercher](https://open.spotify.com/artist/5GVmxZZpLOj3mPeqMmNoFv) | [From me to you](https://open.spotify.com/album/1dMuiLPoMq3CJuKgFrKc7p) | 2:42 |
-| 24 | [Floating Forward](https://open.spotify.com/track/0xKjYEWto03CgN1LxLo3Bv) | [Jonka Ebony](https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE) | [Floating Forward](https://open.spotify.com/album/1NArt4RVEbgJM83PCWFaJ1) | 2:22 |
+| 9 | [Floating Forward](https://open.spotify.com/track/0xKjYEWto03CgN1LxLo3Bv) | [Jonka Ebony](https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE) | [Floating Forward](https://open.spotify.com/album/1NArt4RVEbgJM83PCWFaJ1) | 2:22 |
+| 10 | [The Still Shore](https://open.spotify.com/track/2tmplG2gm71y0F5hFruGri) | [Ivan Pirman](https://open.spotify.com/artist/76BMzkMBbRiZ6WuWDOUPNg) | [The Still Shore](https://open.spotify.com/album/3hO07xFDZ9ZKjsFOd5GwTU) | 2:14 |
+| 11 | [Waiting Depths](https://open.spotify.com/track/1yLVHyuohiMwMonGN4CwmA) | [Timothy Reiger](https://open.spotify.com/artist/2gJCO2wkZJeVALM0a9PpV3) | [Waiting Depths](https://open.spotify.com/album/2egvprKnSn8OpCbDq7OUNp) | 2:36 |
+| 12 | [The Bagpiper](https://open.spotify.com/track/0IPBTVB6VHKIbibo58dx58) | [Jasper Lynx](https://open.spotify.com/artist/3aUAZMBL4zv77IVgM3rMmv) | [The Bagpiper](https://open.spotify.com/album/13E0YP2I2aEf4w6a7UqymH) | 2:56 |
+| 13 | [Less Than Before](https://open.spotify.com/track/4h90RLLAfYFYypcisZgAtG) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [Less Than Before](https://open.spotify.com/album/4LuOI3UB33pjgvOFeV0XV6) | 2:21 |
+| 14 | [The Masks](https://open.spotify.com/track/6Yc14KO3pRPusbPrXbhTXW) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [The Masks](https://open.spotify.com/album/3nelL7cD1n3JL1NZOGVMyb) | 2:37 |
+| 15 | [Sofi](https://open.spotify.com/track/1E63PT29zZUjwssWUudCIX) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Sofi](https://open.spotify.com/album/6CFdDRsZbvWZGWC42iQ9wb) | 2:53 |
+| 16 | [The Lone Wanderer](https://open.spotify.com/track/2Z7ZFMH8kzImUmJohr1NTv) | [Oceane Bardot](https://open.spotify.com/artist/4YYQ7Q0261K5rIEs0SQZIi) | [The Lone Wanderer](https://open.spotify.com/album/5cfNxyzbXNjojEUHIQIE35) | 2:11 |
+| 17 | [Aurélie](https://open.spotify.com/track/3bDABoecakGnm4d6uuZG2r) | [Phil Stent](https://open.spotify.com/artist/1E1Kt5Hh9SbIGSTb8tyU8G) | [Aurélie](https://open.spotify.com/album/4toKfcM0DGCY6ginB9tFSQ) | 2:04 |
+| 18 | [Faces](https://open.spotify.com/track/04fdftVJxtAA1oSYX20Wvf) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [Faces](https://open.spotify.com/album/4hhaujnJTy1xDKtLFAiRJl) | 2:43 |
+| 19 | [Sighs in the Night](https://open.spotify.com/track/1InvD1XYaRe9IlwnLJ0kiy) | [Caylee Luna](https://open.spotify.com/artist/6gEGHbKHwwG0aslwsdWKL8) | [Sighs in the Night](https://open.spotify.com/album/6XLbtxg1YGNcIItuco4nlc) | 2:17 |
+| 20 | [Hotel Window](https://open.spotify.com/track/7MXLqbzSxFFnH5Tev8r1JF) | [Matthew Kaff](https://open.spotify.com/artist/45KZBIPW9K2Yslr7ccejpk) | [Hotel Window](https://open.spotify.com/album/5Ir8bu9DXkd34iLRWVUEjo) | 2:39 |
+| 21 | [Sketches](https://open.spotify.com/track/464n8gKl9hsICURBJeHnwF) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [Sketches](https://open.spotify.com/album/77fHhNoGxCGWa59DVMYJbj) | 2:26 |
+| 22 | [Croatian Clarity](https://open.spotify.com/track/0oUiaMIUpxdZfaJoebcLB6) | [Jorge Huksos](https://open.spotify.com/artist/5DEfxYlPLz7yZMw0AJF5G7) | [Croatian Clarity](https://open.spotify.com/album/0o9OXVtcTzrUupkezwZARh) | 3:18 |
+| 23 | [Early Autumn](https://open.spotify.com/track/5ZKXp3UKGj5NSDIKR7oc7p) | [Massimo Luce](https://open.spotify.com/artist/5XCekAGt3cAL4RkxGMu7Ya) | [Early Autumn](https://open.spotify.com/album/6vwTsPhj6VHqWN7bSsRvco) | 2:13 |
+| 24 | [From me to you](https://open.spotify.com/track/1T0Knq3JKfOdEQVQboEWWM) | [Elvin Mercher](https://open.spotify.com/artist/5GVmxZZpLOj3mPeqMmNoFv) | [From me to you](https://open.spotify.com/album/1dMuiLPoMq3CJuKgFrKc7p) | 2:42 |
 | 25 | [Meadows](https://open.spotify.com/track/1808M1IEnm8OFn0FDQvJDm) | [Faelt](https://open.spotify.com/artist/6FlnhTAnvtLGV8mEZLGkBX) | [Meadows](https://open.spotify.com/album/6HVfGn8vy3W6zFcpf3Oz2b) | 3:22 |
-| 26 | [Approaching A City](https://open.spotify.com/track/4tZrD16JmwGhzN3G2U8uOi) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [Approaching A City](https://open.spotify.com/album/6XOCfS8bPU62fR5NbuOyBX) | 2:48 |
+| 26 | [Small Things](https://open.spotify.com/track/5qvMw2Hr3BuphsulOSUU5n) | [Julian Rivers](https://open.spotify.com/artist/6Kz9TTn0UKMFKI4gC9g3Hb) | [Small Things](https://open.spotify.com/album/5blNaBqiCuNqDouOkRZlzk) | 2:42 |
 | 27 | [Unread Dreams](https://open.spotify.com/track/0nqnsldXoqUzjLFuQpx08n) | [Hayden Phoenix](https://open.spotify.com/artist/50RQSrhyCEESbROELBFA3r) | [Unread Dreams](https://open.spotify.com/album/7oRtsaHjug8swcdv4GOqMo) | 2:35 |
 | 28 | [Eden](https://open.spotify.com/track/5VlARfqrV4W2yEg2T3kCrd) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [Eden](https://open.spotify.com/album/7f02shxDg8W0Ej9jElDGsG) | 3:00 |
 | 29 | [Soft Bound](https://open.spotify.com/track/1vHdne52QZxlHgS2GuDJNq) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Soft Bound](https://open.spotify.com/album/4SgWULWI4GT4S1zF28onG0) | 2:32 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRnup1IgL4a.md) - [plain]
 | 105 | [The Visitor](https://open.spotify.com/track/10pWsW6PgcElqhHBIRPoea) | [Henry Windon](https://open.spotify.com/artist/6DQOxNdaDC3E2vfbUjpTNH) | [The Visitor](https://open.spotify.com/album/5OMtHhYzhag9BwO9YZ0tRs) | 2:07 |
 | 106 | [Night Route](https://open.spotify.com/track/5v2bNil9KFJXcwsBAup9lf) | [Theodor Ros](https://open.spotify.com/artist/1Jx5dszOj8eO3NpRI0K59S) | [Night Route](https://open.spotify.com/album/5ExiMJ4mQ24kmLN1Gl9WHJ) | 2:21 |
 
-Snapshot ID: `AAAAABBNKryw6qrxkCuEk7/oyt5nvB4f`
+Snapshot ID: `AAAAAMZsrT/T0eye3h6QobdVClcT1Nau`

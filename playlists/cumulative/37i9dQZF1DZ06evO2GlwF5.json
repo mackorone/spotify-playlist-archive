@@ -1265,6 +1265,24 @@
     },
     {
       "album": {
+        "name": "\u30a2\u30eb\u30b8\u30e5\u30ca\uff12\u3000\u30aa\u30f3\u30ca\u306e\u6e2f",
+        "url": "https://open.spotify.com/album/5u2jLHWJqPstRyFynGxJy3"
+      },
+      "artists": [
+        {
+          "name": "Maaya Sakamoto",
+          "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
+        }
+      ],
+      "date_added": "2025-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195350,
+      "name": "\u3055\u3044\u3054\u306e\u30de\u30e1\u30b7\u30d0",
+      "url": "https://open.spotify.com/track/7d6xj2m4m9yPZlV6leaMCM"
+    },
+    {
+      "album": {
         "name": "\u3055\u3044\u3054\u306e\u679c\u5b9f/\u30df\u30c4\u30d0\u30c1\u3068\u79d1\u5b66\u8005",
         "url": "https://open.spotify.com/album/7FFDPVVPKMnjlduHESU0CJ"
       },
@@ -1720,7 +1738,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-24",
       "duration_ms": 312366,
       "name": "\u30d0\u30a4\u30af",
       "url": "https://open.spotify.com/track/4BL7AuRh83aAs0KiCdgYKP"

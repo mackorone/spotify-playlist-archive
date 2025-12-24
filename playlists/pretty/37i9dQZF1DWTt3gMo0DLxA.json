@@ -1,12 +1,12 @@
 {
   "description": "Trending songs from Tollywood! \nCover: Peddi",
-  "num_followers": 500481,
+  "num_followers": 501085,
   "original_name": "Trending Now Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANThxa2Da+/hRXnjp1msrTH3/y3z",
+  "snapshot_id": "AAAAAN1FR1lVqDSrqthIj4Kw9TL7pomG",
   "tracks": [
     {
       "added_at": "2025-11-11 06:12:33",
@@ -165,6 +165,46 @@
       "url": "https://open.spotify.com/track/7yFklz7NkEsgnIzsC08k4q"
     },
     {
+      "added_at": "2025-12-23 05:49:51",
+      "album": {
+        "name": "Geetha Govindam",
+        "url": "https://open.spotify.com/album/0HJz9WijjAmBKRIueDTGmm"
+      },
+      "artists": [
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        }
+      ],
+      "duration_ms": 266715,
+      "name": "Inkem Inkem Inkem Kaavaale",
+      "url": "https://open.spotify.com/track/3hglFJgXWPZUlHLfiDO35b"
+    },
+    {
+      "added_at": "2025-12-23 05:49:51",
+      "album": {
+        "name": "Oo Antava Oo Oo Antava (From \"Pushpa - The Rise\")(Telugu)",
+        "url": "https://open.spotify.com/album/4tXcR4YBqi96HgZlMCBY7v"
+      },
+      "artists": [
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Indravathi Chauhan",
+          "url": "https://open.spotify.com/artist/1cNcHeOmjm7yKUYWhrmjMM"
+        },
+        {
+          "name": "Chandra Bose",
+          "url": "https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK"
+        }
+      ],
+      "duration_ms": 223325,
+      "name": "Oo Antava Oo Oo Antava (From \"Pushpa - The Rise\")(Telugu)",
+      "url": "https://open.spotify.com/track/3szxldqiYs7nkvtmooRod8"
+    },
+    {
       "added_at": "2025-12-16 07:07:20",
       "album": {
         "name": "Nenu Local",
@@ -183,6 +223,34 @@
       "duration_ms": 236617,
       "name": "Arere Yekkada",
       "url": "https://open.spotify.com/track/0G1GYz7LESrRh3FDRFOTld"
+    },
+    {
+      "added_at": "2025-11-03 09:53:29",
+      "album": {
+        "name": "Dude (Telugu) [Original Motion Picture Soundtrack]",
+        "url": "https://open.spotify.com/album/4O6oeHbnla1SUNHYpMfrsk"
+      },
+      "artists": [
+        {
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+        },
+        {
+          "name": "Bhumi",
+          "url": "https://open.spotify.com/artist/6ze415xN4HqPmAhj1P4pRl"
+        },
+        {
+          "name": "Deepthi Suresh",
+          "url": "https://open.spotify.com/artist/4PY2xnTu90K0hvkgcljRJl"
+        },
+        {
+          "name": "Sanapati Bharadwaj Patrudu",
+          "url": "https://open.spotify.com/artist/4CNwez0hcA1zyOmhdd4YLL"
+        }
+      ],
+      "duration_ms": 240032,
+      "name": "Boom Boom",
+      "url": "https://open.spotify.com/track/1vm734I96RBUt1kTpCyw3C"
     },
     {
       "added_at": "2025-11-03 09:53:29",
@@ -253,34 +321,6 @@
       "url": "https://open.spotify.com/track/24wSWZLoKMRZvJVbxHkKMg"
     },
     {
-      "added_at": "2025-11-03 09:53:29",
-      "album": {
-        "name": "Dude (Telugu) [Original Motion Picture Soundtrack]",
-        "url": "https://open.spotify.com/album/4O6oeHbnla1SUNHYpMfrsk"
-      },
-      "artists": [
-        {
-          "name": "Sai Abhyankkar",
-          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
-        },
-        {
-          "name": "Bhumi",
-          "url": "https://open.spotify.com/artist/6ze415xN4HqPmAhj1P4pRl"
-        },
-        {
-          "name": "Deepthi Suresh",
-          "url": "https://open.spotify.com/artist/4PY2xnTu90K0hvkgcljRJl"
-        },
-        {
-          "name": "Sanapati Bharadwaj Patrudu",
-          "url": "https://open.spotify.com/artist/4CNwez0hcA1zyOmhdd4YLL"
-        }
-      ],
-      "duration_ms": 240032,
-      "name": "Boom Boom",
-      "url": "https://open.spotify.com/track/1vm734I96RBUt1kTpCyw3C"
-    },
-    {
       "added_at": "2025-12-16 07:07:20",
       "album": {
         "name": "Peddi Reddy",
@@ -295,38 +335,6 @@
       "duration_ms": 327287,
       "name": "Peddi Reddy",
       "url": "https://open.spotify.com/track/3MAiS0Uu8FU2w9nEB3PxgG"
-    },
-    {
-      "added_at": "2025-11-11 06:12:33",
-      "album": {
-        "name": "Yemaaya Chesave (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7n61GzJSBuZGrm8U1V9TLd"
-      },
-      "artists": [
-        {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
-        },
-        {
-          "name": "Vijay Prakash",
-          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
-        },
-        {
-          "name": "Suzanne D'Mello",
-          "url": "https://open.spotify.com/artist/4HQeSXwG2BVH0KvxHE5oCf"
-        },
-        {
-          "name": "Blaaze",
-          "url": "https://open.spotify.com/artist/4DqSAnlpn10M4pHUFPEt4E"
-        },
-        {
-          "name": "Anantha Sriram",
-          "url": "https://open.spotify.com/artist/5wE0KHIPasAq9oKW3PkDpq"
-        }
-      ],
-      "duration_ms": 329320,
-      "name": "Ee Hridayam",
-      "url": "https://open.spotify.com/track/7wFL4hNlhotHNU6qZi9bHR"
     },
     {
       "added_at": "2025-11-20 09:32:51",
@@ -691,30 +699,6 @@
       "duration_ms": 119052,
       "name": "Hungry Cheetah (From \"They Call Him OG\")",
       "url": "https://open.spotify.com/track/538V6gFAnhcLZrg6I8lIMI"
-    },
-    {
-      "added_at": "2025-09-08 06:06:41",
-      "album": {
-        "name": "Rajagadiki (From \"Little Hearts\")",
-        "url": "https://open.spotify.com/album/5NwUl6AbvdKV0hJ53135kD"
-      },
-      "artists": [
-        {
-          "name": "Sinjith Yerramilli",
-          "url": "https://open.spotify.com/artist/30p5WaPxeojOvFem2XwJtd"
-        },
-        {
-          "name": "Sanjith Hegde",
-          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
-        },
-        {
-          "name": "Kittu Vissapragada",
-          "url": "https://open.spotify.com/artist/5UDv7yHHkED5J7nXh3yoiy"
-        }
-      ],
-      "duration_ms": 203273,
-      "name": "Rajagadiki (From \"Little Hearts\")",
-      "url": "https://open.spotify.com/track/2ddkAoAafmEv0UocWgf2CQ"
     },
     {
       "added_at": "2025-10-08 05:36:53",

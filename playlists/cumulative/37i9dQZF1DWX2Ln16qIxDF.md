@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWX2Ln16qIxDF.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWX2Ln16qIxDF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWX2Ln16qIxDF)
 
-### [El Top 2025](https://open.spotify.com/playlist/37i9dQZF1DWX2Ln16qIxDF)
+### [Top Verano 2026](https://open.spotify.com/playlist/37i9dQZF1DWX2Ln16qIxDF)
 
-> Canciones que tenés que escuchar  📸  Luck Ra, Karina & RAMKY
+> Canciones que tenés que escuchar, edición verano  📸  Luck Ra, Karina & RAMKY
 
 1,038 songs - 2 day 5 hr 14 min
 
@@ -949,7 +949,7 @@
 | [TUER](https://open.spotify.com/track/7v8klmTCgbUUXblgOWTZBY) | [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [TUER](https://open.spotify.com/album/2pObyrcegzMolYO1FfnGXl) | 2:58 | 2023-05-12 | 2023-05-25 |
 | [TULUM](https://open.spotify.com/track/7bPp2NmpmyhLJ7zWazAXMu) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:29 | 2023-07-04 | 2024-02-02 |
 | [Tumba](https://open.spotify.com/track/5Ywg69AnG1CLLGEXne1MVy) | [Thomy DJ](https://open.spotify.com/artist/1owf6hAeplDLF3a8lwI6kY) | [Tumba](https://open.spotify.com/album/3QTNjyEdEAt9Fa6Ix39Res) | 3:00 | 2024-05-17 | 2024-11-07 |
-| [TURR0LOGIA](https://open.spotify.com/track/3yP2GV6HbYViIiboNlXDlO) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [TURR0LOGIA](https://open.spotify.com/album/3VvxUKqCj6EZzk6i8FWkEF) | 2:18 | 2025-12-19 |  |
+| [TURR0LOGIA](https://open.spotify.com/track/3yP2GV6HbYViIiboNlXDlO) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L) | [TURR0LOGIA](https://open.spotify.com/album/3VvxUKqCj6EZzk6i8FWkEF) | 2:18 | 2025-12-19 |  |
 | [TURRA & BANDIDA](https://open.spotify.com/track/68RJWlNTd1cj61yBYGJVOJ) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [TURRA & BANDIDA](https://open.spotify.com/album/7nr3Uu80UMSuJT8RAYbzWb) | 2:36 | 2024-06-21 | 2024-11-02 |
 | [Turro](https://open.spotify.com/track/4pwBmmtEisUX2gK0HqhhaR) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU) | [Turro](https://open.spotify.com/album/7gdlWroAiyBT9N70ZxnXG2) | 2:46 | 2023-11-10 | 2023-12-23 |
 | [Turro Diferente \(feat\. Omar Varela, Preciau\)](https://open.spotify.com/track/2EZdlAbCWobkRJUj248m4S) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Lolo OG](https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L), [Preciau](https://open.spotify.com/artist/7x1Qa3ZOKaQ1XwSqFkGcC3), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Turro Diferente \(feat\. Omar Varela, Preciau\)](https://open.spotify.com/album/0r2F17LMHbJ53C68PvzsiN) | 2:49 | 2023-11-14 | 2024-02-02 |

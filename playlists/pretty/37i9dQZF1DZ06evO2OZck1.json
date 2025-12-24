@@ -1,12 +1,12 @@
 {
   "description": "This is ATARASHII GAKKO!. The essential tracks, all in one playlist.",
-  "num_followers": 54773,
+  "num_followers": 54779,
   "original_name": "This Is ATARASHII GAKKO!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUc4gAAAAACJylUTUIO7NLKbw5dakeHE",
+  "snapshot_id": "aUiKAAAAAACtIOQGAWupLlok+3jNKuyV",
   "tracks": [
     {
       "added_at": null,
@@ -59,22 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "wakage ga itaru",
-        "url": "https://open.spotify.com/album/7wN4b7hcoWOabX4PKu73pi"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 253400,
-      "name": "koi geba",
-      "url": "https://open.spotify.com/track/4Vvz2vcRqx8tYyl4QdOjoA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sailor, Sail On",
         "url": "https://open.spotify.com/album/0g1wpbQB9haZyszl7tZ55P"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 248136,
       "name": "Sailor, Sail On",
       "url": "https://open.spotify.com/track/3yYUOGWkDELvc3jelvPBsC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "wakage ga itaru",
+        "url": "https://open.spotify.com/album/7wN4b7hcoWOabX4PKu73pi"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 253400,
+      "name": "koi geba",
+      "url": "https://open.spotify.com/track/4Vvz2vcRqx8tYyl4QdOjoA"
     },
     {
       "added_at": null,
@@ -279,22 +279,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "WOO! GO!",
-        "url": "https://open.spotify.com/album/7pmx3ituzMLw4RqbBouUCQ"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 199413,
-      "name": "WOO! GO!",
-      "url": "https://open.spotify.com/track/2kJ8ITd6fyRrRW6N8xvFtc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NAINAINAI",
         "url": "https://open.spotify.com/album/2oPLzwhrlQP7twoamxxlhN"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 193877,
       "name": "NAINAINAI",
       "url": "https://open.spotify.com/track/4tkhZR7YJfvpvD5D8o2MUY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WOO! GO!",
+        "url": "https://open.spotify.com/album/7pmx3ituzMLw4RqbBouUCQ"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 199413,
+      "name": "WOO! GO!",
+      "url": "https://open.spotify.com/track/2kJ8ITd6fyRrRW6N8xvFtc"
     },
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quesera sera",
-        "url": "https://open.spotify.com/album/43su6eToqJrox4wuAoaJJd"
-      },
-      "artists": [
-        {
-          "name": "ATARASHII GAKKO!",
-          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
-        }
-      ],
-      "duration_ms": 213066,
-      "name": "Quesera sera",
-      "url": "https://open.spotify.com/track/3pyU7up8u5Fnx9RF3BFhOa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pineapple Kryptonite",
         "url": "https://open.spotify.com/album/4chAdxjlW2ooOyUj9tR0DF"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 195653,
       "name": "Pineapple Kryptonite",
       "url": "https://open.spotify.com/track/7tG1O21NOvOHS18RLVifyb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quesera sera",
+        "url": "https://open.spotify.com/album/43su6eToqJrox4wuAoaJJd"
+      },
+      "artists": [
+        {
+          "name": "ATARASHII GAKKO!",
+          "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
+        }
+      ],
+      "duration_ms": 213066,
+      "name": "Quesera sera",
+      "url": "https://open.spotify.com/track/3pyU7up8u5Fnx9RF3BFhOa"
     },
     {
       "added_at": null,

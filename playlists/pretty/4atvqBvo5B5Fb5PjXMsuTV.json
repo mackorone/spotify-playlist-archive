@@ -1,13 +1,45 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 22 Dec 14:05 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 23 Dec 14:04 UTC.",
   "num_followers": 102,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAWyUArCglSr/XJQPw7P+/MIYpQIi0j",
+  "snapshot_id": "AAAWy6gvIoyRqhq5udTebuIhi5LF0QMv",
   "tracks": [
+    {
+      "added_at": "2025-12-23 14:04:40",
+      "album": {
+        "name": "What You Saying",
+        "url": "https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 131729,
+      "name": "What You Saying",
+      "url": "https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v"
+    },
+    {
+      "added_at": "2025-12-23 14:04:40",
+      "album": {
+        "name": "B\u0118D\u0118 PREZYDENTEM :)",
+        "url": "https://open.spotify.com/album/2Wydw9B4D0ZIlblUv0fXO7"
+      },
+      "artists": [
+        {
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "B\u0118D\u0118 PREZYDENTEM :)",
+      "url": "https://open.spotify.com/track/1yWCdDFV6kdML8EeUpyzhd"
+    },
     {
       "added_at": "2025-12-20 19:04:08",
       "album": {
@@ -799,38 +831,6 @@
       "duration_ms": 194631,
       "name": "Guardian",
       "url": "https://open.spotify.com/track/1nrj6SI6yvfkP8tWwaoLsb"
-    },
-    {
-      "added_at": "2025-12-08 23:05:14",
-      "album": {
-        "name": "Back Again",
-        "url": "https://open.spotify.com/album/0CQhcO81jtsnS2AWWUEJTa"
-      },
-      "artists": [
-        {
-          "name": "Miss Construction",
-          "url": "https://open.spotify.com/artist/40m16kE896yRgrr1bVeDi9"
-        }
-      ],
-      "duration_ms": 271029,
-      "name": "Back Again",
-      "url": "https://open.spotify.com/track/3Nx7XgfQt0xu8rD7Z125Ae"
-    },
-    {
-      "added_at": "2025-12-05 04:04:07",
-      "album": {
-        "name": "I Still Create",
-        "url": "https://open.spotify.com/album/0A8AvUQ22Y2ZtbjvniXSh9"
-      },
-      "artists": [
-        {
-          "name": "YonKaGor",
-          "url": "https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq"
-        }
-      ],
-      "duration_ms": 233224,
-      "name": "I Still Create",
-      "url": "https://open.spotify.com/track/0IqTgwWU2syiSYbdBEromt"
     }
   ],
   "unique_name": "New Singles Now",

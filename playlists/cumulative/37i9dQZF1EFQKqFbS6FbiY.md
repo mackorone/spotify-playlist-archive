@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-724 songs - 1 day 11 hr 15 min
+725 songs - 1 day 11 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -425,7 +425,8 @@
 | [Moralzinha](https://open.spotify.com/track/5cDarQhIkeQLe6MSTUwbZT) | [Mateus Camillo](https://open.spotify.com/artist/36SK9M4qewJfoCmbbjnpzP) | [Moralzinha](https://open.spotify.com/album/1sZAq0IjzWuL5j9GaP9jXH) | 2:05 | 2023-12-30 | 2024-01-25 |
 | [Motivo \- Ao Vivo](https://open.spotify.com/track/6B3WQUzBhn8sF894bed1LD) | [Felipe Duram](https://open.spotify.com/artist/1SbicVDBNjShlmCFsznYv7) | [Amor, Segredos e Roupas \(Ao Vivo\)](https://open.spotify.com/album/7bCdaskPVirNDwsnLcOyg7) | 2:48 | 2024-03-26 |  |
 | [Mudou o Texto](https://open.spotify.com/track/2HNGystjzE1ZhGOZ75Pa3t) | [Anderson Garotinho](https://open.spotify.com/artist/52lGRYsYPAkVkOwGGkF9y7) | [Na Pegada do Garotinho](https://open.spotify.com/album/0AYmE9SUZv5PPsWvNSAd2z) | 2:37 | 2025-08-15 | 2025-10-28 |
-| [Mudou O Texto](https://open.spotify.com/track/2yo0j2FctlAjVUP3PLl0i1) | [Danilo e Davi](https://open.spotify.com/artist/5DaqVKaxeqDbJuxaIP9m4u) | [Iniciando Os Trabalhos \- Vol\. 1](https://open.spotify.com/album/5SHPSZ3GwCQdLHd1trHxiM) | 2:43 | 2025-10-27 |  |
+| [Mudou O Texto](https://open.spotify.com/track/2yo0j2FctlAjVUP3PLl0i1) | [Danilo e Davi](https://open.spotify.com/artist/5DaqVKaxeqDbJuxaIP9m4u) | [Iniciando Os Trabalhos \- Vol\. 1](https://open.spotify.com/album/5SHPSZ3GwCQdLHd1trHxiM) | 2:43 | 2025-10-27 | 2025-12-24 |
+| [Mudou O Texto \- Ao Vivo](https://open.spotify.com/track/4qwXyVg3jkTTRdFFgDtA7V) | [Danilo e Davi](https://open.spotify.com/artist/5DaqVKaxeqDbJuxaIP9m4u) | [As Melhores Danilo e Davi \- 2026 \(Ao Vivo\)](https://open.spotify.com/album/1GRcaf4OAj1JYLjWGf1tQL) | 2:43 | 2025-12-23 |  |
 | [Muito Bebo \- Ao Vivo](https://open.spotify.com/track/5Grar5BJy87FW3d1anpqpN) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Verãozinho de Carnaval \(Ao Vivo\)](https://open.spotify.com/album/7yxj2cU4sL9MMxlfTeXtAd) | 2:35 | 2023-12-30 |  |
 | [Mulher Não É Boba](https://open.spotify.com/track/0k1qRssJ1RAqNnP0WMmyMI) | [Talis e Welinton](https://open.spotify.com/artist/1NBkKa2SgVP0uirl5vAB8t) | [Sobe o Som](https://open.spotify.com/album/0DVUNIC37rxzcK193fnH7T) | 3:01 | 2025-03-19 | 2025-05-15 |
 | [Mulher Não É Boba \- Ao Vivo](https://open.spotify.com/track/1TIu3RfnOP9z8wyMmwHZPw) | [Talis e Welinton](https://open.spotify.com/artist/1NBkKa2SgVP0uirl5vAB8t), [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [Os Mineiros Tão Chegando \(Ao Vivo\)](https://open.spotify.com/album/0lqfQYbROoPPdSVHhIrqqr) | 3:01 | 2023-12-30 | 2025-03-20 |

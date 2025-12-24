@@ -1844,7 +1844,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-24",
       "duration_ms": 337046,
       "name": "Har Kisi Ko (Female)",
       "url": "https://open.spotify.com/track/7FPbxfwWa2gzB9ePX19I5z"
@@ -2326,7 +2326,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-24",
       "duration_ms": 201692,
       "name": "Ishq Vishk Pyaar Vyaar (From \"Ishq Vishk Rebound\")",
       "url": "https://open.spotify.com/track/20xfu3vJXEDthQK34L2Eu5"
@@ -3251,6 +3251,40 @@
     },
     {
       "album": {
+        "name": "Dhurandhar",
+        "url": "https://open.spotify.com/album/2e7HNQJ0BcMoqwsVDwDhK8"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Sachdev",
+          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+        },
+        {
+          "name": "Reble",
+          "url": "https://open.spotify.com/artist/3MsxNLVtDVGxjEaxgKAoi0"
+        },
+        {
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+        },
+        {
+          "name": "Roshan",
+          "url": "https://open.spotify.com/artist/6Wg3akugFVCH4iYhEKk0GM"
+        },
+        {
+          "name": "Sahir Ludhianvi",
+          "url": "https://open.spotify.com/artist/1nLvkKjnfpnouM0Mpyd4cc"
+        }
+      ],
+      "date_added": "2025-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204358,
+      "name": "Move - Yeh Ishq Ishq",
+      "url": "https://open.spotify.com/track/3SVgtZSEqPNga5pKOJLCDZ"
+    },
+    {
+      "album": {
         "name": "Baaghi 2",
         "url": "https://open.spotify.com/album/2zVzYeNSylXPUUungjtXz4"
       },
@@ -4046,6 +4080,36 @@
       "duration_ms": 278679,
       "name": "Rabba Ishq Na Hove 2.0 (From \"ANDAAZ 2\")",
       "url": "https://open.spotify.com/track/7GO636QXhwxGtaT2SrrX0T"
+    },
+    {
+      "album": {
+        "name": "Dhurandhar",
+        "url": "https://open.spotify.com/album/2e7HNQJ0BcMoqwsVDwDhK8"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Sachdev",
+          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+        },
+        {
+          "name": "Madhubanti Bagchi",
+          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
+        },
+        {
+          "name": "Bappi Lahiri",
+          "url": "https://open.spotify.com/artist/2jqTyPt0UZGrthPF4KMpeN"
+        },
+        {
+          "name": "Indiwar",
+          "url": "https://open.spotify.com/artist/7qVxwI8H0tjjMhYY2eGvBE"
+        }
+      ],
+      "date_added": "2025-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161793,
+      "name": "Ramba Ho",
+      "url": "https://open.spotify.com/track/3Zg5ENFvbucf41iPRvPcHn"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Your essential Max Richter, all in one collection.
 
-155 songs - 9 hr 47 min
+158 songs - 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Horizon Variations](https://open.spotify.com/track/2vvuFgKz1DVcMDymMI3eBH) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [The Blue Notebooks](https://open.spotify.com/album/2Zlgv1oosng3OWHzdcTk9a) | 1:52 | 2022-04-01 |  |
 | [Horizon Variations](https://open.spotify.com/track/37xq4ONkOsboVdMMkYhdOm) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [The Blue Notebooks \(15 Years\)](https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo) | 1:52 | 2022-04-01 | 2024-04-19 |
 | [Horizon Variations](https://open.spotify.com/track/6iGX6MDMFUgpRim1aXN3r4) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [At Home Classical Edition](https://open.spotify.com/album/5sPRmNQ86xnw4G7glT4Zhz) | 1:52 | 2022-04-01 | 2022-11-13 |
+| [I was the more deceived](https://open.spotify.com/track/0MUbrZn3tPrP44wCPKCfe1) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Hamnet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0K3VFgeCSeUuQSGIftNUJn) | 5:36 | 2025-12-23 |  |
 | [I will not forget you](https://open.spotify.com/track/6zacWNZy18tMVJo9yJ69gL) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Testament Of Youth \(Original Soundtrack Album\)](https://open.spotify.com/album/2dEs5t9eHCmWYI1rkoMQSN) | 3:55 | 2022-04-01 | 2024-04-19 |
 | [I Will Not Forget You](https://open.spotify.com/track/6Mx6Xya6JZMdQDATJMhRBi) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Testament of Youth \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0JXZzgtDNWEQeBucUNDKWz) | 3:55 | 2022-04-01 |  |
 | [I Will Not Forget You \(from "Testament of Youth"\)](https://open.spotify.com/track/4WC7A6YMmE1Xn3COkj8u58) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Out of the Dark Room](https://open.spotify.com/album/0jGnjoFPTAHUKC7YQFTdJO) | 3:55 | 2022-04-01 | 2022-11-13 |
@@ -78,6 +79,8 @@
 | [Nonviolent Offender](https://open.spotify.com/track/3fc6z0RlVBu0ggtidwCpvw) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [White Boy Rick \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2oEASogrKIZSBOa6ykScxq) | 3:31 | 2022-04-01 |  |
 | [November](https://open.spotify.com/track/4NtfmGeS6yNfDG7GXZu1n2) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Memoryhouse](https://open.spotify.com/album/5CuuPArp8w5ckkJpcEcCyO) | 6:22 | 2022-04-01 |  |
 | [November](https://open.spotify.com/track/6tHPSEdxp6g2Ntur8nANYt) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [BBC Philharmonic](https://open.spotify.com/artist/1z9u3vLr7gw6IBS8CP8c2X), [Rumon Gamba](https://open.spotify.com/artist/0WXSfWdvqdhG76X1icKUVy) | [Memoryhouse](https://open.spotify.com/album/4fcZBukqygltK48rGGzylj) | 6:22 | 2022-04-01 | 2024-04-19 |
+| [Of the sky](https://open.spotify.com/track/3SZzIO37dRBJISKeHs7uM6) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Hamnet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0K3VFgeCSeUuQSGIftNUJn) | 5:00 | 2025-12-23 |  |
+| [Of the undiscovered country](https://open.spotify.com/track/0PF2ZG8nMgAAcYwWLwYqnM) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Hamnet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0K3VFgeCSeUuQSGIftNUJn) | 5:22 | 2025-12-23 |  |
 | [On Reflection](https://open.spotify.com/track/4EKMLcDmI7I5bORpsWgQg1) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Black Mirror \- Nosedive \(Music From The Original TV Series\)](https://open.spotify.com/album/6I3nSno00gBaLTJF4epBQY) | 7:14 | 2022-04-01 |  |
 | [On the Nature of Daylight](https://open.spotify.com/track/6M69nlgfVdNiNiYpPQDzV9) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Lorenz Dangel](https://open.spotify.com/artist/0NRmJjd0MVItn17pbeWY6k) | [Réviser en musique](https://open.spotify.com/album/7EfARh3xGTOPr8o45eNcxR) | 6:36 | 2022-04-01 | 2022-11-14 |
 | [On the Nature of Daylight](https://open.spotify.com/track/56oReVXIfUO9xkX7pHmEU0) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Louisa Fuller](https://open.spotify.com/artist/557AjoqV9wVpa8vO2k4wuJ), [Natalia Bonner](https://open.spotify.com/artist/4d6eKLLJbe2ZeiL07Du7vB), [John Metcalfe](https://open.spotify.com/artist/6s8AUvcmf2fp0Kh7PctPnd), [Philip Sheppard](https://open.spotify.com/artist/6qzi6mPoJU4cBlO76U1Il1), [Chris Worsey](https://open.spotify.com/artist/33TpuAICGC2gekoZZDDZhE) | [The Blue Notebooks \(15 Years\)](https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo) | 6:11 | 2022-04-01 |  |

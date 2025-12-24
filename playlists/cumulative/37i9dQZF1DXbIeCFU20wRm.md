@@ -4,7 +4,7 @@
 
 > Enter another dimension of classical music with these atmospheric Sci\-fi soundtracks.
 
-77 songs - 5 hr 4 min
+79 songs - 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Ender's War](https://open.spotify.com/track/4VMShE9Lj7GKVHQEi6w0Sg) | [Steve Jablonsky](https://open.spotify.com/artist/5Il8YjuVAWkWNH2xgjFMpF) | [Ender's Game \(Original Motion Picture Score\)](https://open.spotify.com/album/2tLmsJfbFbmEVKwTnO7ZSb) | 3:26 | 2021-12-16 |  |
 | [Ender's War](https://open.spotify.com/track/6E0JqlkJrLitJ0F1l6e1mm) | [Steve Jablonsky](https://open.spotify.com/artist/5Il8YjuVAWkWNH2xgjFMpF) | [Ender's Game \(Original Motion Picture Score\)](https://open.spotify.com/album/1Gg3Ri53uoV4dA3mJjvYFg) | 3:26 | 2022-07-20 | 2024-04-19 |
 | [Everything Comes Around](https://open.spotify.com/track/5CdOCKgKWUxNRaVS3P9o9t) | [Nathan Johnson](https://open.spotify.com/artist/0zWHBQv6knnmZSovIvl6b1) | [Looper \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5agtjIi8N9Eklm32TC8pa8) | 2:38 | 2021-12-16 |  |
+| [Exit Game](https://open.spotify.com/track/3vrFnqLRsm0Q0CIsi3Zf4a) | [Daniel Pemberton](https://open.spotify.com/artist/7LbEDjJKrmWoMcN3OpaNnR) | [USS Callister: Into Infinity \(Soundtrack from the Netflix Series 'Black Mirror'\)](https://open.spotify.com/album/3Yp0vVDFS7tds4B2wCfrwD) | 2:07 | 2025-12-23 |  |
 | [Invasion Main Title \- From "Invasion"](https://open.spotify.com/track/1jYHpFrJkXfDfOGlLDevTS) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Invasion Main Title \(From "Invasion"\)](https://open.spotify.com/album/4nTgXALKpr4TfilVVM7dNG) | 1:16 | 2021-12-16 |  |
 | [Justin’s Theme](https://open.spotify.com/track/0rUBl0Fu9Dkzv7taNrFTqa) | [Jeff Russo](https://open.spotify.com/artist/5L9DgM2FSb2Ny1vfxfyYU8) | [The Man Who Fell to Earth: Themes and Sketches \(Original Series Soundtrack\)](https://open.spotify.com/album/4beVfwojO8N54K78hNmAtS) | 2:51 | 2022-07-13 |  |
 | [Love](https://open.spotify.com/track/2RVLIVL5rcgTfReW8Wckvw) | [Mica Levi](https://open.spotify.com/artist/29LOCR81IrdEJjCAeCEOU3) | [Under The Skin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6we3dlKJ8GPvKLwe9ysyC8) | 5:10 | 2021-12-16 |  |
@@ -80,6 +81,7 @@
 | [The Turing Test](https://open.spotify.com/track/24tp9KQWD7EVkPiHcO1pPE) | [Ben Salisbury](https://open.spotify.com/artist/3WifYZsO8WO6hGlWIDM4Zq), [Geoff Barrow](https://open.spotify.com/artist/53b2a4ytPlelgBJYLLocWh) | [Ex Machina \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/73JQnkZK21PuqE4qF3TLJE) | 4:34 | 2022-07-20 | 2024-04-19 |
 | [The Visitors / Bye / End Titles: The Special Edition](https://open.spotify.com/track/2AXPdHyeJFqEh8OyR2JImr) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Close Encounters Of The Third Kind](https://open.spotify.com/album/7JZZRKGjSSmFHRLM6Beg8F) | 12:32 | 2021-12-16 | 2022-07-14 |
 | [Time](https://open.spotify.com/track/6ZFbXIJkuI1dVNWvzJzown) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Inception \(Music from the Motion Picture\)](https://open.spotify.com/album/2qvA7HmSg1iM6XMiFF76dp) | 4:35 | 2021-12-16 |  |
+| [Time \(From "Inception" Soundtrack\)](https://open.spotify.com/track/436hYPJh0X2VcSpG6FTyns) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Anna Lapwood](https://open.spotify.com/artist/0e2JUvil990IURjsq2PmqP) | [Time \(From "Inception" Soundtrack\)](https://open.spotify.com/album/5QXUPDAfOeUTcZWt1Vx1mA) | 5:09 | 2025-12-23 |  |
 | [To the Stars \- From "Ad Astra" Soundtrack](https://open.spotify.com/track/2UcUL4jytfVpW0jSXi3Ggi) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [To The Stars \(From "Ad Astra" Soundtrack\)](https://open.spotify.com/album/3SapFtmMw8WCjCRLaABmZ1) | 3:30 | 2021-12-16 |  |
 | [Together We Will Live Forever](https://open.spotify.com/track/2pr6us08iPNzIex5q6fMvI) | [Clint Mansell](https://open.spotify.com/artist/01xiB0IlXMXy3wrrotgDnU) | [The Fountain OST](https://open.spotify.com/album/7q18n1Pnq7mx6satptDoJ3) | 5:01 | 2021-12-16 |  |
 | [Truman Sleeps](https://open.spotify.com/track/4N7h4IHWRaJCOo1VFdTMHV) | [Philip Glass](https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC) | [The Truman Show \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2uMsRKnaZ0Iy9wVI4F0X8a) | 1:51 | 2022-07-20 |  |

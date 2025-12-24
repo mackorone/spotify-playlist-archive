@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0q8zp63yPuE.md) - [plain]
 
 > DINASTÍA, el nuevo álbum de Peso Pluma y Tito Double P, coming soon 🎄🎅🏽🎁
 
-[Spotify](https://open.spotify.com/user/spotify) - 449,582 likes - 79 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 449,992 likes - 79 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

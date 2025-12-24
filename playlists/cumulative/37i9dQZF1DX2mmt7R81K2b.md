@@ -4,7 +4,7 @@
 
 > Where jazz meets classical, and classical meets jazz.
 
-140 songs - 11 hr 38 min
+141 songs - 11 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Sicilyan Dream \(D’après Siciliano, BWV\. 1031 de Johann Sebastian Bach\)](https://open.spotify.com/track/22DgAcWnb50oKlv0F8eziW) | [Enrico Pieranunzi](https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP), [André Ceccarelli](https://open.spotify.com/artist/77FgwKhxIPrET0QgGTn58K), [Diego Imbert](https://open.spotify.com/artist/0jdE0ynq5zcnMeAn9XutIX) | [Ménage à trois](https://open.spotify.com/album/55UQ7AQ6F88cmU7SEoVNaE) | 4:37 | 2021-12-02 |  |
 | [Solfeggio in C Minor](https://open.spotify.com/track/1i8Q6oG6v5ogyHnmITPM9D) | [Eugen Cicero](https://open.spotify.com/artist/4EhSymJa7VCq6Wm1lZ8OVi) | [Swinging the Classics On MPS](https://open.spotify.com/album/4F2ApYDxzFRvN4XN2NNAYX) | 5:39 | 2021-12-02 | 2022-07-05 |
 | [Someone To Watch Over Me](https://open.spotify.com/track/5PGOVKDXfmD1pThMelvErR) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Niklas Walentin](https://open.spotify.com/artist/6lWotXEsU7enyhQ0BUmfdk), [Snorre Kirk Trio](https://open.spotify.com/artist/2x6GREKOITUhKYBBDXc8bx) | [Another June Night](https://open.spotify.com/album/6RcQwt7rOeR1uelV4pEbqg) | 5:33 | 2025-12-12 |  |
+| [Suite 785](https://open.spotify.com/track/3MHKb3kAEfY4m9KoxFfuNY) | [Enrico Pieranunzi](https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP), [Orchestra I Pomeriggi Musicali](https://open.spotify.com/artist/1wGjC4Xvg2EmZw4dflehZg), [Michele Corcella](https://open.spotify.com/artist/13KXjiDcalmq7zlHXllykh), [Mauro Beggio](https://open.spotify.com/artist/5I93kCeawmVQ8xxfrWf2y3), [Luca Bulgarelli](https://open.spotify.com/artist/6RByhwx03rvh0w4y0J4Hbo) | [Suite 785](https://open.spotify.com/album/7iJunXjuZCewVj5QAqpogj) | 5:13 | 2025-12-23 |  |
 | [Suite Americana: No\. 1, Sunday evening in L.A.](https://open.spotify.com/track/4myGBFItGRU922UoDp2766) | [Giancarlo Aquilanti](https://open.spotify.com/artist/5HCUPOTHYsNSreuvtjaWQy), [Marta Tacconi](https://open.spotify.com/artist/0pqt1jq59JyelItSPlSg2O) | [Giancarlo Aquilanti: Oltreoceano](https://open.spotify.com/album/4NcJ1nxhGInBulPXv6T1ng) | 3:06 | 2025-04-25 |  |
 | [Suite in Jazz Style: I\. Talk](https://open.spotify.com/track/6mu8PpZHi2gpTvhcSyl7rP) | [Dobrinka Tabakova](https://open.spotify.com/artist/1zLIRG57NYJF3ckNxrQLzp), [Maxim Rysanov](https://open.spotify.com/artist/5Hw9w9OsYqdFSbTXdCgMo6), [Dasol Kim](https://open.spotify.com/artist/7e9yp0dSRWiEy8dumOQP2o) | [Tabakova: Suite in Jazz Style: I\. Talk](https://open.spotify.com/album/17jH6WPotK3hToX92kEWR8) | 4:40 | 2025-10-17 | 2025-12-13 |
 | [Summertime \(From "Porgy and Bess"\)](https://open.spotify.com/track/2TZzD2PXSL0S9h4HoRVMkt) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Masabane Cecilia Rangwanasha](https://open.spotify.com/artist/4MzO93LE4aRVEqBllKtBhb), [Aron Goldin](https://open.spotify.com/artist/0sVlHUhjloqNpzbfW81i3R) | [Gershwin: Summertime \(from "Porgy and Bess"\)](https://open.spotify.com/album/36So4mnwk2zC2sayK2KAZx) | 2:46 | 2025-04-25 |  |

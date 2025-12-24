@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 Cover: 7co",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 Cover: Billyrrom",
   "name": "RADAR: Early Noise ",
   "tracks": [
     {
@@ -640,7 +640,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-24",
       "duration_ms": 208330,
       "name": "3\u6642\u306eHey Yo\uff01",
       "url": "https://open.spotify.com/track/4EWBCoXZjKZtxRFeOBaAwX"
@@ -3416,6 +3416,24 @@
       "duration_ms": 235346,
       "name": "Calm",
       "url": "https://open.spotify.com/track/0B4QXKyErj0nhM2WZZeUoR"
+    },
+    {
+      "album": {
+        "name": "Caminho de Kuroshio",
+        "url": "https://open.spotify.com/album/7y4Tt0anbFN6xtHflCWNrR"
+      },
+      "artists": [
+        {
+          "name": "CHO CO PA CO CHO CO QUIN QUIN",
+          "url": "https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C"
+        }
+      ],
+      "date_added": "2025-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259250,
+      "name": "Caminho de Kuroshio",
+      "url": "https://open.spotify.com/track/7aD4YLaqXDrHXSnuCW6rRp"
     },
     {
       "album": {
@@ -33246,7 +33264,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-24",
       "duration_ms": 156244,
       "name": "\u5f92\u7136 - Tsurezure",
       "url": "https://open.spotify.com/track/1guvz8iKbYbarGawVZId5g"
@@ -36450,6 +36468,24 @@
       "duration_ms": 212000,
       "name": "\u721b\u6f2b\u30b5\u30de\u30fc",
       "url": "https://open.spotify.com/track/5YNjEDVaYH6RTwD3LsuZ8v"
+    },
+    {
+      "album": {
+        "name": "\u7247\u9053\u591c\u884c",
+        "url": "https://open.spotify.com/album/0ntfW8LvkbSL8sSKNyO6dT"
+      },
+      "artists": [
+        {
+          "name": "\u5c71\u672c\u5927\u6597",
+          "url": "https://open.spotify.com/artist/1KA2TRTtiLfWAN7HQBB3su"
+        }
+      ],
+      "date_added": "2025-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222453,
+      "name": "\u7247\u9053\u591c\u884c",
+      "url": "https://open.spotify.com/track/0YD05VWp6aEUGnS9Pm2lhn"
     },
     {
       "album": {

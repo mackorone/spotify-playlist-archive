@@ -1,12 +1,12 @@
 {
   "description": "This is Ramon Ayala Y Sus Bravos Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 84165,
+  "num_followers": 84192,
   "original_name": "This Is Ramon Ayala Y Sus Bravos Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUc4gAAAAAA2tiB4d/JPjaW7/Y6/8Qjy",
+  "snapshot_id": "aUiKAAAAAADb4ppkRRhfRf7FRfqpQiAq",
   "tracks": [
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Central Camionera",
-        "url": "https://open.spotify.com/album/7HqZHKxJhg64tA9o6Dxveu"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 202373,
-      "name": "Central Camionera",
-      "url": "https://open.spotify.com/track/0N57zOUnZ9AvassdfVf3IV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Triste Recuerdo (Aferrado Por Ti)",
         "url": "https://open.spotify.com/album/6BPIQtgq7bYpXflr0Sx8eS"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 185266,
       "name": "Triste Recuerdo",
       "url": "https://open.spotify.com/track/6RFq3bDIY2HTvwSgsZC6tg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Central Camionera",
+        "url": "https://open.spotify.com/album/7HqZHKxJhg64tA9o6Dxveu"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 202373,
+      "name": "Central Camionera",
+      "url": "https://open.spotify.com/track/0N57zOUnZ9AvassdfVf3IV"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "2 Grandes Mano a Mano",
-        "url": "https://open.spotify.com/album/6JyOJ5Vc9qCxVRDIOyftm5"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 168293,
-      "name": "Mujer Paseada",
-      "url": "https://open.spotify.com/track/04ty6HwbPa50ZxzxrMdQQx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De La Pel\u00edcula: Dinast\u00eda De La Muerte",
         "url": "https://open.spotify.com/album/6dvSyr6svrpvg4PPaVT3RQ"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 213733,
       "name": "Me Llega Me Llega",
       "url": "https://open.spotify.com/track/2Zub6Pdc0Xet5oPxZS2YnP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "2 Grandes Mano a Mano",
+        "url": "https://open.spotify.com/album/6JyOJ5Vc9qCxVRDIOyftm5"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 168293,
+      "name": "Mujer Paseada",
+      "url": "https://open.spotify.com/track/04ty6HwbPa50ZxzxrMdQQx"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Casas de Madera",
-        "url": "https://open.spotify.com/album/0WqOmaMS6vSvntxrzo22EM"
+        "name": "Tragos Amargos",
+        "url": "https://open.spotify.com/album/3bY0J2yoFogW28oX2mwQyo"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
         }
       ],
-      "duration_ms": 235706,
-      "name": "M\u00e1ndame A La Tumba",
-      "url": "https://open.spotify.com/track/0b0cFie5DLwExBHq0Oo7oi"
+      "duration_ms": 163693,
+      "name": "Infiel",
+      "url": "https://open.spotify.com/track/2FFD33AvP59iPPenHKiwwU"
     },
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tragos Amargos",
-        "url": "https://open.spotify.com/album/3bY0J2yoFogW28oX2mwQyo"
+        "name": "Casas de Madera",
+        "url": "https://open.spotify.com/album/0WqOmaMS6vSvntxrzo22EM"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
         }
       ],
-      "duration_ms": 163693,
-      "name": "Infiel",
-      "url": "https://open.spotify.com/track/2FFD33AvP59iPPenHKiwwU"
+      "duration_ms": 235706,
+      "name": "M\u00e1ndame A La Tumba",
+      "url": "https://open.spotify.com/track/0b0cFie5DLwExBHq0Oo7oi"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FREDDIE RECORDS PRESENTA EL DIA DE LAS MADRES",
-        "url": "https://open.spotify.com/album/1lrpWHUZEI6Kgmqi7Aw4kp"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 167133,
-      "name": "Te Traigo Estas Flores A Dueto Con Freddie Martinez",
-      "url": "https://open.spotify.com/track/3Xt34CsfQLiNfbluq5fTWO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "40 \u00c9xitos",
         "url": "https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 198533,
       "name": "Baraja De Oro",
       "url": "https://open.spotify.com/track/4vxGRxWgmTtaVOJlVV1TjC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FREDDIE RECORDS PRESENTA EL DIA DE LAS MADRES",
+        "url": "https://open.spotify.com/album/1lrpWHUZEI6Kgmqi7Aw4kp"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 167133,
+      "name": "Te Traigo Estas Flores A Dueto Con Freddie Martinez",
+      "url": "https://open.spotify.com/track/3Xt34CsfQLiNfbluq5fTWO"
     }
   ],
   "unique_name": "This Is Ramon Ayala Y Sus Bravos Del Norte",

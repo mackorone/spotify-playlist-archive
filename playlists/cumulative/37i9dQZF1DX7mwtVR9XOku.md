@@ -4,11 +4,12 @@
 
 > Déjate arrullar por estas apacibles melodías clásicas.
 
-90 songs - 4 hr 28 min
+91 songs - 4 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2 Aquarelles: Lento, ma non troppo](https://open.spotify.com/track/5TtmI9sfXw4VXco0PE21mV) | [Frederick Delius](https://open.spotify.com/artist/65YhYi4Fz5Ibgq7ueev2Rm), [Royal Northern Sinfonia](https://open.spotify.com/artist/7BFFr4BUABKAorAN43APPd), [David Lloyd\-Jones](https://open.spotify.com/artist/3VWrnOYO3VBCE9MAleAQM4) | [ENGLISH STRING MINIATURES, Vol\. 4](https://open.spotify.com/album/3aHnqYoeNpy7hjqqSoEhcQ) | 2:12 | 2023-03-31 |  |
+| [4 Lieder, Op\. 27, TrV 170 \(Version for Voice & Orchestra\): No\. 4, Morgen!](https://open.spotify.com/track/4NxY4d2F2MkK7EsKd2fshf) | [Richard Strauss](https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D), [Louise Alder](https://open.spotify.com/artist/0MTpWI1yOc07qt1Luy44lq), [Finnish Radio Symphony Orchestra](https://open.spotify.com/artist/5Lf1SAS15AisICBsyP1L0Z), [Nicholas Collon](https://open.spotify.com/artist/23qJKSvfqtc9c3VFwdEV4a), [Yoonshin Song](https://open.spotify.com/artist/7sb2GKtzt43bmGJjYG3HPh) | [R\. Strauss: Eine Alpensinfonie, Op\. 64, TrV 233 & 4 Lieder, Op\. 27, TrV 170](https://open.spotify.com/album/66cv7jorEMmKBjr2PqmS2x) | 4:04 | 2025-12-23 |  |
 | [A Bad Dream That Will Pass Away](https://open.spotify.com/track/6XTKYGyydndSUV3OHHDwZU) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf) | [A Bad Dream That Will Pass Away](https://open.spotify.com/album/4VCzs0bZIXVoNxQq5sGAnm) | 2:56 | 2023-03-31 |  |
 | [A Simple Little Lullaby](https://open.spotify.com/track/0If3zfg7N68SAaDgPAQa9l) | [Eamonn Watt](https://open.spotify.com/artist/2T4ifP8x0qzmkB2iY1LRZ7) | [A Simple Little Lullaby](https://open.spotify.com/album/5ro6Pk3RdEAVaf3HywFSOe) | 2:40 | 2023-03-31 |  |
 | [Album for the Young, Op\. 39: No\. 3, Mamma \(Maman\)](https://open.spotify.com/track/4GjfVYoUJ0OCmDiL869kUJ) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Carol Rosenberger](https://open.spotify.com/artist/3lYDYx5OUgPVrVvFLCCRB7) | [Piano Recital: Rosenberger, Carol \- Kabalevsky, D\. / Tchaikovsky, P\. \(Perchance To Dream \- A Lullaby Album for Children and Adults\)](https://open.spotify.com/album/2wiv4F0IkUWwFkv453uEkT) | 1:33 | 2023-03-31 |  |

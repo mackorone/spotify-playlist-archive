@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 22 Dec 14:05 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 23 Dec 14:04 UTC.
 
-5,959 songs - 13 day 19 hr 20 min
+5,961 songs - 13 day 19 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -437,7 +437,7 @@
 | [BABYRINO](https://open.spotify.com/track/59ROR8sJpSxM16hqXtFUGU) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [BABYRINO](https://open.spotify.com/album/0x4lDg9zVDZth6nlP5Maar) | 2:12 | 2025-07-04 | 2025-07-13 |
 | [Bachata sin Pijama](https://open.spotify.com/track/07JIcb9YdwPMSdMCQOR5RM) | [LUNA KI](https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M) | [Bachata sin Pijama](https://open.spotify.com/album/2ZfhC7pNzBkMp4XKbW23Wo) | 3:15 | 2024-12-20 | 2024-12-30 |
 | [Back 4 More](https://open.spotify.com/track/0ymDs2NQkgt5wJGjE3RVhg) | [Tuxedo](https://open.spotify.com/artist/0CCqHvxGgfjJzwzQzmPlEr) | [Back 4 More](https://open.spotify.com/album/3bGzO7VWcrzxFDoqX3vxVe) | 3:01 | 2024-09-11 | 2024-09-13 |
-| [Back Again](https://open.spotify.com/track/3Nx7XgfQt0xu8rD7Z125Ae) | [Miss Construction](https://open.spotify.com/artist/40m16kE896yRgrr1bVeDi9) | [Back Again](https://open.spotify.com/album/0CQhcO81jtsnS2AWWUEJTa) | 4:31 | 2025-12-08 |  |
+| [Back Again](https://open.spotify.com/track/3Nx7XgfQt0xu8rD7Z125Ae) | [Miss Construction](https://open.spotify.com/artist/40m16kE896yRgrr1bVeDi9) | [Back Again](https://open.spotify.com/album/0CQhcO81jtsnS2AWWUEJTa) | 4:31 | 2025-12-08 | 2025-12-24 |
 | [Back in the Game](https://open.spotify.com/track/0tPJ289BckiSSlIanTQnVa) | [Mark Pritchard](https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK), [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [Back in the Game](https://open.spotify.com/album/2kBN9sDKSl5vfCnKMl0XtN) | 4:41 | 2025-02-13 | 2025-02-22 |
 | [Back In The Mix](https://open.spotify.com/track/1ijaIrjWWKFH5WlCcNUIvr) | [Bizzy Banks](https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv) | [Back In The Mix](https://open.spotify.com/album/76QLVPqGXHm146HMMTq3yR) | 2:28 | 2024-07-11 | 2024-07-13 |
 | [Back in the Saddle](https://open.spotify.com/track/6tlZIGGXozhQpYyKesjwWL) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Back in the Saddle](https://open.spotify.com/album/5zx6pJUEcQKKA7k8hBNkUJ) | 3:32 | 2025-07-26 | 2025-08-08 |
@@ -840,6 +840,7 @@
 | [By The Evening](https://open.spotify.com/track/7x2VKKaiXYbFztJhq0p3nN) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [By The Evening](https://open.spotify.com/album/3rRTLxAgSPxOD5i4p1a8ab) | 2:54 | 2024-05-25 | 2024-05-29 |
 | [By Yourself](https://open.spotify.com/track/771vHNqRmLUGEPzzNDo15r) | [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [By Yourself](https://open.spotify.com/album/45EhlC9ycKcgAx9gQsrMF8) | 2:44 | 2024-07-26 | 2024-08-01 |
 | [BØNESCRAPER](https://open.spotify.com/track/6MOsvwUNRWQUm1UYTwVrr1) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [BØNESCRAPER](https://open.spotify.com/album/5BdBDX5zGZP0cidRxkV9C2) | 3:33 | 2025-04-04 | 2025-04-15 |
+| [BĘDĘ PREZYDENTEM :\)](https://open.spotify.com/track/1yWCdDFV6kdML8EeUpyzhd) | [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id) | [BĘDĘ PREZYDENTEM :\)](https://open.spotify.com/album/2Wydw9B4D0ZIlblUv0fXO7) | 3:33 | 2025-12-23 |  |
 | [C WUT I B!](https://open.spotify.com/track/4IwifRBzq2o5NI2iJXX9HC) | [ISSBROKIE](https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI) | [C WUT I B!](https://open.spotify.com/album/4nuSKwsOp3UWgVpiDBG8t2) | 2:34 | 2024-05-18 | 2024-05-22 |
 | [C'est La Vie](https://open.spotify.com/track/0b9RNAzGtDRRMQS1cF9HXT) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [C'est La Vie](https://open.spotify.com/album/1FGfkxrv2RIPNjQgXCt8p0) | 2:40 | 2025-03-03 | 2025-03-07 |
 | [C\-Zone](https://open.spotify.com/track/0e8J8pmIGKSGhtySxkSzJe) | [Mnogoznaal](https://open.spotify.com/artist/16ZNqMkDZrzd8fTXeN2kUH) | [C\-Zone](https://open.spotify.com/album/5rXaaiXxddjwDVls1y4reF) | 2:04 | 2024-11-29 | 2024-12-05 |
@@ -2507,7 +2508,7 @@
 | [I saw it coming](https://open.spotify.com/track/2WInimBjTsn5LRklnACSwE) | [kuru](https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu) | [I saw it coming / zzzz](https://open.spotify.com/album/32cHQNXxSuxjnNpjMfjEM9) | 1:39 | 2025-03-28 | 2025-04-05 |
 | [I Saw The Mountains](https://open.spotify.com/track/0CEpezcWFou8sCdbcGof44) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [I Saw The Mountains](https://open.spotify.com/album/5zurVXReV3tD2wxCLQ7XXK) | 4:24 | 2025-05-17 | 2025-05-28 |
 | [I See](https://open.spotify.com/track/1fsH3mGEnWttKnz6S4Qeir) | [Illuminati Congo](https://open.spotify.com/artist/1lmNbeKCDXV9C86TwWmbdu), [RZA](https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn), [DJ Drez](https://open.spotify.com/artist/5j3iObqG7iT7utWpTTmC7F) | [I See Scrolls Around Me](https://open.spotify.com/album/1z5uI37YigZ484oX9mXS8o) | 2:42 | 2024-10-10 | 2024-10-12 |
-| [I Still Create](https://open.spotify.com/track/0IqTgwWU2syiSYbdBEromt) | [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq) | [I Still Create](https://open.spotify.com/album/0A8AvUQ22Y2ZtbjvniXSh9) | 3:53 | 2025-12-05 |  |
+| [I Still Create](https://open.spotify.com/track/0IqTgwWU2syiSYbdBEromt) | [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq) | [I Still Create](https://open.spotify.com/album/0A8AvUQ22Y2ZtbjvniXSh9) | 3:53 | 2025-12-05 | 2025-12-24 |
 | [I Swear To God](https://open.spotify.com/track/4EFja5sjO1ORjJ6tU0L1tT) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [I Swear To God](https://open.spotify.com/album/3doVdTV39FSjG27oYcUKg0) | 2:36 | 2024-09-06 | 2024-09-10 |
 | [I Swear, This Is Not an André 3000 Diss Song](https://open.spotify.com/track/2x2tmZ69uzv2D3l9zc6g1l) | [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw) | [I Swear, This Is Not an André 3000 Diss Song](https://open.spotify.com/album/6ahdZNLRk1O5M5FocAPFX6) | 3:46 | 2025-06-29 | 2025-07-10 |
 | [I Think About Heaven](https://open.spotify.com/track/44ADDcYWJISFUrx8zIASLn) | [Christopher Owens](https://open.spotify.com/artist/0ukgSx1gUt5rUihbNh46qy) | [I Think About Heaven](https://open.spotify.com/album/3hfKLdxRBRMIiyQYUV37QF) | 6:03 | 2024-07-30 | 2024-08-02 |
@@ -5646,6 +5647,7 @@
 | [What we know](https://open.spotify.com/track/5aFdZBMU2W8jw1gPuVYLtf) | [Tallah](https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf) | [What we know](https://open.spotify.com/album/6sdxlixknhEoA0qBwEoIGV) | 4:03 | 2025-04-02 | 2025-04-11 |
 | [what will they say](https://open.spotify.com/track/1pwhB1CR3CP83pwDfzM9Qd) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [what will they say](https://open.spotify.com/album/0fKRLBkEn4QwgKw5OdRZgQ) | 2:37 | 2025-12-18 |  |
 | [What You Know You Know You Know](https://open.spotify.com/track/4QnsxVV6dskJ6OaUx1snAu) | [Infected Mushroom](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI) | [What You Know You Know You Know](https://open.spotify.com/album/3A0eLPS8eCXO2NjjtmSiRQ) | 7:21 | 2025-11-26 | 2025-12-09 |
+| [What You Saying](https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [What You Saying](https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly) | 2:11 | 2025-12-23 |  |
 | [What You Want](https://open.spotify.com/track/3rAcN3CLeSrkhIZN8PHbwb) | [CORTIS](https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P) | [What You Want](https://open.spotify.com/album/6HQEHkwhLmwN0VTJSWgOgE) | 3:14 | 2025-08-19 | 2025-08-29 |
 | [What's Left Of Me](https://open.spotify.com/track/2KCHayVgv4Svp1ETPNsk7l) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [What's Left Of Me](https://open.spotify.com/album/58uReIHwOj5YOPkDjAEGPG) | 3:15 | 2024-09-18 | 2024-09-21 |
 | [What's Wrong?](https://open.spotify.com/track/5lq4X3bgERmY1ata9H3h9Y) | [Foreign Air](https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S) | [What's Wrong?](https://open.spotify.com/album/6swybrrhYJrQHXKX726Vw2) | 3:21 | 2024-12-12 | 2024-12-17 |

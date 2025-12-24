@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnrdlr0pB7Y.md) - [plain]
 
 > Piezas acústicas que te ayudarán a enfocarte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,177 likes - 96 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,182 likes - 96 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnrdlr0pB7Y.md) - [plain]
 | 6 | [Ya Te Confirmo Corazon](https://open.spotify.com/track/1VKBKydyLGhHvtwMCgbK4s) | [Playa Calentoncito](https://open.spotify.com/artist/34kFB8juxWjmp0ZlMtbYFH) | [Ya Te Confirmo Corazon](https://open.spotify.com/album/50KtoPA5CRcxogCGZHzkt6) | 2:51 |
 | 7 | [Maré Suave](https://open.spotify.com/track/6GDKt7pRMFopM771SvTKWc) | [Tania Ramone](https://open.spotify.com/artist/37txy9qJzWczhliucVJQFZ) | [Maré Suave](https://open.spotify.com/album/2vjyoykyeXdpcXmR8Cimmc) | 2:27 |
 | 8 | [Noites na Lapa](https://open.spotify.com/track/2VPARXiSDZVf3FvQzr3csd) | [Márcia e a Galera](https://open.spotify.com/artist/2LKq7PNAkYMWnDNhg23XNP) | [Noites na Lapa](https://open.spotify.com/album/4KQiYHsiJsZv4LrNq2afKq) | 2:33 |
-| 9 | [Fading Lines](https://open.spotify.com/track/75N2Huk7utLJmehDAcLJIK) | [Anisha Gale](https://open.spotify.com/artist/0R9PTFYaGHm7AgJAZjerfr) | [Fading Lines](https://open.spotify.com/album/1OZzE0cb6ysnQqY0vPfFd3) | 2:04 |
-| 10 | [Carnival](https://open.spotify.com/track/1l6hNZj7MbV2CUqDuWblY3) | [DeLand](https://open.spotify.com/artist/1Aop9zFg2iGOHdCIIbCWZ0) | [Carnival](https://open.spotify.com/album/25Kmydp2QIq58lXjCMO0xX) | 2:06 |
+| 9 | [Carnival](https://open.spotify.com/track/1l6hNZj7MbV2CUqDuWblY3) | [DeLand](https://open.spotify.com/artist/1Aop9zFg2iGOHdCIIbCWZ0) | [Carnival](https://open.spotify.com/album/25Kmydp2QIq58lXjCMO0xX) | 2:06 |
+| 10 | [Fading Lines](https://open.spotify.com/track/75N2Huk7utLJmehDAcLJIK) | [Anisha Gale](https://open.spotify.com/artist/0R9PTFYaGHm7AgJAZjerfr) | [Fading Lines](https://open.spotify.com/album/1OZzE0cb6ysnQqY0vPfFd3) | 2:04 |
 | 11 | [Aria de Primavera](https://open.spotify.com/track/4UILj7ruv4yPBJGvd3ppzX) | [Lex Quirk](https://open.spotify.com/artist/3b0Fb63xNNb8AxVLBAhl9e) | [Aria de Primavera](https://open.spotify.com/album/2mIbWTJz7rzcRt0Zrrhtd6) | 2:20 |
 | 12 | [Alpen Rose](https://open.spotify.com/track/4pSxsViyGEsfiKcj5BbpvY) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Alpen Rose](https://open.spotify.com/album/0d5G3HUH7LhGhaegh6k2YW) | 2:44 |
 | 13 | [Merula](https://open.spotify.com/track/28rRAAV0wy18FNxLgH46WQ) | [Mario Cabrera](https://open.spotify.com/artist/2jxGXKxdhbWgtylGviMHZh) | [Merula](https://open.spotify.com/album/3L05XKpAW8M2i9j7z1BbeN) | 4:09 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbnrdlr0pB7Y.md) - [plain]
 | 95 | [Viajero Nocturno](https://open.spotify.com/track/1nmKXLM6SMQv4GDyhwsMwz) | [Los Tres Mariquitas](https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf) | [Viajero Nocturno](https://open.spotify.com/album/4yRqSzWG3u4PuE2UNpauc3) | 2:47 |
 | 96 | [silver lining](https://open.spotify.com/track/6HjCf5a7Zw9VrIxTjL15Z0) | [Andrew Savignon](https://open.spotify.com/artist/64RGjNCHRYOPxY93HKm2pZ) | [Lonely Sailor](https://open.spotify.com/album/6pEABLFpolzNbmvXnrBYEL) | 3:04 |
 
-Snapshot ID: `AAAAACkqj4QWULpS4sOPk9kx7FK9hAz8`
+Snapshot ID: `AAAAAArl7deiEaHb5DHUAdERrK6DkPmV`

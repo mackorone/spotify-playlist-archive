@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 
 > Explore Pakistan's thriving independent scene 🔥 Cover: Hasan Raheem
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,536 likes - 90 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,547 likes - 90 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Adakaari](https://open.spotify.com/track/1ghcBmONc0nN8iKrCVizmg) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [Dil Kay Parday](https://open.spotify.com/album/2syS3QElH8i353yYdXNBam) | 2:50 |
-| 2 | [Shor Na Machao](https://open.spotify.com/track/2yDl7zKaiCTM7c3LvkZzXp) | [Dulhay Mian](https://open.spotify.com/artist/5r5kyp8SEFSYHJCJvbwi1c) | [Shor Na Machao](https://open.spotify.com/album/3ev08jtzueC3LKWoIAH58Z) | 4:10 |
-| 3 | [asra](https://open.spotify.com/track/69qum2btpInkYmCPXWDY4V) | [danish roomi](https://open.spotify.com/artist/719laN9dZ4QG7Q2F2vOwcP), [prod\. Azlan](https://open.spotify.com/artist/6KmPXJIN3kpZx5dPL39Nxt) | [asra](https://open.spotify.com/album/6xw8Z1GLVFtokEPnduIIva) | 4:27 |
-| 4 | [Khataa](https://open.spotify.com/track/6ysZDePWB7PJkGPclwdVeB) | [Belaal](https://open.spotify.com/artist/43yRI94YNMeWDCF0FLX8m2), [Bilal Ali](https://open.spotify.com/artist/1qJck1RgMGzqJyzvIJuOuX) | [Khataa](https://open.spotify.com/album/7ep6Huprsc2uWwMhQ35Pr5) | 2:37 |
-| 5 | [Iraaday](https://open.spotify.com/track/6qrifdo7QINdPQr80IelGi) | [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C), [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1) | [Iraaday](https://open.spotify.com/album/5rrokeOdlkdlyLaGfiixYy) | 2:13 |
-| 6 | [Teray Naal](https://open.spotify.com/track/6ZkFBPYesUv0PzI8V3PZH6) | [HYDR](https://open.spotify.com/artist/40CEytkVli5Le5CFOYnONw) | [Teray Naal](https://open.spotify.com/album/4JsZodknDILTDTnswlIYIf) | 3:28 |
-| 7 | [Promises](https://open.spotify.com/track/5Y3OxkwWPuFZc5rRoJE45A) | [Shamoon Ismail](https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW) | [Scars & Screws](https://open.spotify.com/album/0dNZ3ypCu19FqmRxB1ezBc) | 3:15 |
+| 2 | [Fuzool](https://open.spotify.com/track/7Bmrm4DU6AD86HnebNaAPY) | [Raamiz Rizvi](https://open.spotify.com/artist/34dLN7dVpBtsXn0yDQoZtg), [Zaphixx](https://open.spotify.com/artist/6lCX5UL3OnSnZIW0vt2j5m) | [Fuzool](https://open.spotify.com/album/4g3ppCmzoFtSfmL5cCM2iL) | 2:15 |
+| 3 | [Shor Na Machao](https://open.spotify.com/track/2yDl7zKaiCTM7c3LvkZzXp) | [Dulhay Mian](https://open.spotify.com/artist/5r5kyp8SEFSYHJCJvbwi1c) | [Shor Na Machao](https://open.spotify.com/album/3ev08jtzueC3LKWoIAH58Z) | 4:10 |
+| 4 | [asra](https://open.spotify.com/track/69qum2btpInkYmCPXWDY4V) | [danish roomi](https://open.spotify.com/artist/719laN9dZ4QG7Q2F2vOwcP), [prod\. Azlan](https://open.spotify.com/artist/6KmPXJIN3kpZx5dPL39Nxt) | [asra](https://open.spotify.com/album/6xw8Z1GLVFtokEPnduIIva) | 4:27 |
+| 5 | [Khataa](https://open.spotify.com/track/6ysZDePWB7PJkGPclwdVeB) | [Belaal](https://open.spotify.com/artist/43yRI94YNMeWDCF0FLX8m2), [Bilal Ali](https://open.spotify.com/artist/1qJck1RgMGzqJyzvIJuOuX) | [Khataa](https://open.spotify.com/album/7ep6Huprsc2uWwMhQ35Pr5) | 2:37 |
+| 6 | [Iraaday](https://open.spotify.com/track/6qrifdo7QINdPQr80IelGi) | [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C), [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1) | [Iraaday](https://open.spotify.com/album/5rrokeOdlkdlyLaGfiixYy) | 2:13 |
+| 7 | [Teray Naal](https://open.spotify.com/track/6ZkFBPYesUv0PzI8V3PZH6) | [HYDR](https://open.spotify.com/artist/40CEytkVli5Le5CFOYnONw) | [Teray Naal](https://open.spotify.com/album/4JsZodknDILTDTnswlIYIf) | 3:28 |
 | 8 | [Farda](https://open.spotify.com/track/6z9YgNd6u3k7eSLAR7Nsom) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP) | [4 Saal](https://open.spotify.com/album/5LiulhSHQrEXkYO63T5Z6Q) | 4:29 |
 | 9 | [Runway](https://open.spotify.com/track/2NLcqznWuHrzuifJlGI0Ca) | [Shamoon Ismail](https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv) | [Runway](https://open.spotify.com/album/2aDTEntkuIzNx5TAjiLfKb) | 2:54 |
 | 10 | [Maand](https://open.spotify.com/track/2ZzZ2qwZBWlDKs420hhloc) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Safar](https://open.spotify.com/album/3M8j6IwEcqDnf0V3y3ZI3C) | 3:05 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 | 89 | [Din Dhalay](https://open.spotify.com/track/1y30e6iFISuGTbpO68H1Ob) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP) | [4 Saal](https://open.spotify.com/album/5LiulhSHQrEXkYO63T5Z6Q) | 5:36 |
 | 90 | [Why'd You Write Me One Last Time?](https://open.spotify.com/track/5NUaygcvFIrBuolRxFACh4) | [Ishtiaq Khatri](https://open.spotify.com/artist/4R3vKFdBAWHXeTgfAOiQqa) | [Why'd You Write Me One Last Time?](https://open.spotify.com/album/4dfF4BfxHFjlC3uZUA59Ty) | 3:03 |
 
-Snapshot ID: `AAAAAFZPlKPfe9PhD6KATzpZ8Ks2YIgF`
+Snapshot ID: `AAAAAAenH2wqZ3pceo4yLhtmul/Q92q1`

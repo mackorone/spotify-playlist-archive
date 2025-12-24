@@ -4,7 +4,7 @@
 
 > Piezas acústicas para cenar a la luz de las velas con alguien especial.
 
-199 songs - 9 hr 52 min
+200 songs - 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Dos Amantes Bailan Como Uno](https://open.spotify.com/track/2AD7BOiPxQNwz4M3XagTQI) | [Aurelia](https://open.spotify.com/artist/6tnJc05Vcp2PyNBCgkcAiA) | [Dos Amantes Bailan Como Uno](https://open.spotify.com/album/41f3LlLR9JqLdb9oD6NhYc) | 3:04 | 2024-06-07 |  |
 | [Dos Guitarras](https://open.spotify.com/track/4UjQ5fG1YrscY9Q6FmQnIf) | [Minos Gold](https://open.spotify.com/artist/4kz76xioOGVZ11SWiz64WL) | [Dos Guitarras](https://open.spotify.com/album/55mPNeVnlH2BQSSCzJLXu2) | 2:16 | 2025-08-06 |  |
 | [Drei Intermezzi, Op\. 117: I\. Andante moderato](https://open.spotify.com/track/59DQVi45MItdwdyBP4A7dg) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Luis Orlandini](https://open.spotify.com/artist/5fTpeqnj9uWvbqwQiUo3PW), [Raimundo Luco](https://open.spotify.com/artist/5tF1ThzwEZEjowMN64pfbY) | [Drei Intermezzi, Op\. 117: I\. Andante moderato](https://open.spotify.com/album/31M8OK3WgX3VrNCmijGZMk) | 4:39 | 2022-08-05 |  |
+| [Dusk](https://open.spotify.com/track/5LV8r5xtze37uQltP5BD4r) | [Dorian Skye](https://open.spotify.com/artist/2PqHZufHAfKQKnL2C76Dnq) | [Dusk](https://open.spotify.com/album/2TLLM7cX3u1TRLAPiCEedj) | 3:00 | 2025-12-23 |  |
 | [Ebro](https://open.spotify.com/track/7iWSfu4622gZ0g1U2g51BT) | [Dominic Ruiz](https://open.spotify.com/artist/4x3JdU2gxNgHzMdY61pCOx) | [Ebro](https://open.spotify.com/album/4bonBhQZAj1VtE3pBxooke) | 3:22 | 2023-03-31 | 2023-10-27 |
 | [El Banco De La Plaza](https://open.spotify.com/track/4dvP23JMvMggnNx9SWSL1d) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [El Banco De La Plaza](https://open.spotify.com/album/5eczeMrsbmQ7eMcDEy7od3) | 4:37 | 2022-03-03 |  |
 | [El Camino De La Vida](https://open.spotify.com/track/0d0zDKdDkpyetQarz3wFq7) | [Elias Carrera](https://open.spotify.com/artist/7qKazhBQV8sScUWPr8xVOO) | [Wasi](https://open.spotify.com/album/0PoKRHhIITIb48H5r6M7SJ) | 2:16 | 2022-03-03 | 2022-10-29 |

@@ -1,6 +1,6 @@
 {
   "description": "Voices that are elevating nuestra cultura. Cuco en portada. ",
-  "num_followers": 2207,
+  "num_followers": 2208,
   "original_name": "Our Voice",
   "owner": {
     "name": "Spotify",
@@ -411,26 +411,6 @@
     {
       "added_at": "2025-10-10 17:36:00",
       "album": {
-        "name": "centro aLt",
-        "url": "https://open.spotify.com/album/5vAhVxOilOOTVt0lUJEo47"
-      },
-      "artists": [
-        {
-          "name": "aLex vs aLex",
-          "url": "https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM"
-        },
-        {
-          "name": "S.3.R",
-          "url": "https://open.spotify.com/artist/1ygBBLwpjIkQl1a7FQ9ljZ"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "centro aLt",
-      "url": "https://open.spotify.com/track/3AxHAdyJrz8gZ1Yr981KA5"
-    },
-    {
-      "added_at": "2025-10-10 17:36:00",
-      "album": {
         "name": "somos peligro",
         "url": "https://open.spotify.com/album/4ZwhSH8wNYNpljOBOUM1yZ"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 179569,
       "name": "somos peligro",
       "url": "https://open.spotify.com/track/4Zv0fzBEaM2lzgpVeeT9LG"
+    },
+    {
+      "added_at": "2025-10-10 17:36:00",
+      "album": {
+        "name": "centro aLt",
+        "url": "https://open.spotify.com/album/5vAhVxOilOOTVt0lUJEo47"
+      },
+      "artists": [
+        {
+          "name": "aLex vs aLex",
+          "url": "https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM"
+        },
+        {
+          "name": "S.3.R",
+          "url": "https://open.spotify.com/artist/1ygBBLwpjIkQl1a7FQ9ljZ"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "centro aLt",
+      "url": "https://open.spotify.com/track/3AxHAdyJrz8gZ1Yr981KA5"
     },
     {
       "added_at": "2025-10-10 17:36:00",

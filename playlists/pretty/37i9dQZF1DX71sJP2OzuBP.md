@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的華台語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,857 likes - 119 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,859 likes - 119 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 38 | [所有情歌都關於你](https://open.spotify.com/track/5m5So19AilO6NpcadojFNQ) | [Limi](https://open.spotify.com/artist/72sxxI0pU2GRC8CNmpqZB2), [屠衡](https://open.spotify.com/artist/3DZAbxmgnLqli2yuUdgFqw) | [所有情歌都關於你](https://open.spotify.com/album/2onBGNbk9DKfCEiljt4hHz) | 3:15 |
 | 39 | [回声](https://open.spotify.com/track/09frTzQyRLT4NQhv9Y5DpQ) | [杭异凡](https://open.spotify.com/artist/1DP8UdiXZB5OaXN8z3gKVU), [王栎鑫](https://open.spotify.com/artist/6MNJkqspVAZQWoJoUwkO91), [法老](https://open.spotify.com/artist/429wOEd8ummnOTS4gw3WcQ) | [回声](https://open.spotify.com/album/1Y9QizImeDr73ILGNztU9z) | 3:28 |
 | 40 | [真心的擁抱](https://open.spotify.com/track/5EBC1WBtwwFgF3ZKvpWpPQ) | [蜜雪 Michelle Hsu](https://open.spotify.com/artist/0t6zcbKVh9UVB7Zh11qRS8) | [真心的擁抱](https://open.spotify.com/album/2fGYH1JOX6AP0YmUzzpTmT) | 3:58 |
-| 41 | [没能幸免](https://open.spotify.com/track/4gjH9w5yJHKvngt9yz7IOa) | [en](https://open.spotify.com/artist/7z7tLLiBfmH0kZ2lNVs8LW) | [没能幸免](https://open.spotify.com/album/7AhD7M2beznz2DUiFrGUDy) | 3:53 |
+| 41 | [没能幸免](https://open.spotify.com/track/4gjH9w5yJHKvngt9yz7IOa) | [en王翊恩](https://open.spotify.com/artist/7z7tLLiBfmH0kZ2lNVs8LW) | [没能幸免](https://open.spotify.com/album/7AhD7M2beznz2DUiFrGUDy) | 3:53 |
 | 42 | [不敗 \(短劇《決戰1212》主題曲\)](https://open.spotify.com/track/0ht3fOlk3iVKlHqwcA1Fkt) | [Meeia Foo](https://open.spotify.com/artist/4jC2S13tMZQ19PBlAJTmeY) | [不敗 \(短劇《決戰1212》主題曲\)](https://open.spotify.com/album/3zKzTLYAwvd1EN6rmZbpHP) | 4:11 |
 | 43 | [刪了](https://open.spotify.com/track/1lqWsPvpHKjbhX59QBUoVc) | [Nine Chen](https://open.spotify.com/artist/4MMQmzYiUiuD8VwjrJu3v6) | [刪了](https://open.spotify.com/album/5As6k7EkH3cTa5VxmXUhZT) | 4:11 |
 | 44 | [毛線球](https://open.spotify.com/track/7Ld5sx1EKPFcRmrJ2reWk4) | [木木子](https://open.spotify.com/artist/4hLziS7Moaq74kUGX7GHGt) | [毛線球](https://open.spotify.com/album/29NK67MmPYl6WrVPj7guzP) | 3:46 |
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 79 | [5ever](https://open.spotify.com/track/0amY9RP8QsTSDzJhOmA0FM) | [Ariel Tsai](https://open.spotify.com/artist/5dS7yN8gXQcQNxuuVOABIk) | [5ever](https://open.spotify.com/album/7zEf0n6elijdDpzkTYz4QS) | 4:27 |
 | 80 | [不必說明](https://open.spotify.com/track/4yDwL65RTimQmXmcGAuVIU) | [林渝植Anoryz](https://open.spotify.com/artist/4s6F9Y1x75CNB2eY3pDdkG) | [不必說明](https://open.spotify.com/album/10mCffwtMVjEkCffglqNjz) | 3:30 |
 | 81 | [離不開你是我最錯的決定](https://open.spotify.com/track/1g2XkHVcNsIbkzi7wVonL1) | [張語噥](https://open.spotify.com/artist/3PWY4Z5OjA9aABPh5ipDk8) | [離不開你是我最錯的決定](https://open.spotify.com/album/36Zze8j2nahsXihsY4WNKO) | 3:31 |
-| 82 | [卻還是說了再見 \(feat\. Ace\)](https://open.spotify.com/track/4viNW9UkvsftFBLpf2sb9R) | [8lak 張鈞](https://open.spotify.com/artist/5XV6qqcjxpGfkWv72sOTMq), [Ace](https://open.spotify.com/artist/13jNwSdQV837VJRwD04XF6) | [卻還是說了再見 \(feat\. Ace\)](https://open.spotify.com/album/14wOSxClUPkcVPhuWbWINM) | 3:32 |
+| 82 | [卻還是說了再見 \(feat\. Ace\)](https://open.spotify.com/track/4viNW9UkvsftFBLpf2sb9R) | [8lak](https://open.spotify.com/artist/08MxYfoyNQpx314MAppI8w), [Ace](https://open.spotify.com/artist/13jNwSdQV837VJRwD04XF6) | [卻還是說了再見 \(feat\. Ace\)](https://open.spotify.com/album/14wOSxClUPkcVPhuWbWINM) | 3:32 |
 | 83 | [你是我的风景（2025）](https://open.spotify.com/track/2PzmuNpiYEV7Y1NjGK65yF) | [何潔](https://open.spotify.com/artist/4DNH6uc7RVIaceQrINfore) | [你是我的风景（2025）](https://open.spotify.com/album/2NBwkk3xv3pP3mnpHZrVg6) | 4:17 |
 | 84 | [平平淡](https://open.spotify.com/track/0TBii6V4qS9vBjHW8GKexD) | [Zeon33](https://open.spotify.com/artist/2WgpuitP2obGirFs8imklo) | [Zeon33](https://open.spotify.com/album/7askDqfqUn0Vww5PvIcaEJ) | 2:21 |
 | 85 | [I Misssssss You](https://open.spotify.com/track/5V5ttMhz0gkVPaEBu8YZsc) | [QQ陈梓淇](https://open.spotify.com/artist/0fQhZIYl4ceU2LVZyzFKfG) | [I Misssssss You](https://open.spotify.com/album/49dq4y3gQfA2OVkPt2bKQJ) | 3:28 |

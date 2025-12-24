@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 517 likes - 130 songs - 7 hr 15 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 520 likes - 143 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,5 +138,18 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 128 | [Real Life Remastered \- Radio Edit](https://open.spotify.com/track/3H4NIqgvUkoIS0xpHxzrWe) | [Dsplita](https://open.spotify.com/artist/6uTaMdfn3QDIAmiPHtVrf0), [Atum Hunter](https://open.spotify.com/artist/390wKFpOpKVEexFMFpOets) | [Real Life Remastered \(Radio Edit\)](https://open.spotify.com/album/0Z6v32MY3YV4tW3dKwSGCy) | 2:53 |
 | 129 | [Where Is My Home](https://open.spotify.com/track/0kYZ5XvU9ko9zC5z4Z9quM) | [Jenèriq](https://open.spotify.com/artist/19EuZYCQ44lQipUXiRKd2v), [Shairal](https://open.spotify.com/artist/5N7qKycwib6mXibpgQHYfC) | [Where Is My Home](https://open.spotify.com/album/7KkRcJV44SwP2W4yp46UGL) | 2:59 |
 | 130 | [Oración](https://open.spotify.com/track/4U1IuXpV9IQaLJ5tOObnpG) | [Ziara](https://open.spotify.com/artist/0obWSB8D1Q4TnshJIvXW4p) | [Oración](https://open.spotify.com/album/42PcjhcW1EaV2V2rX2CpND) | 2:39 |
+| 131 | [Caliente](https://open.spotify.com/track/40c8OaAWOOZVYyDiWgcUzt) | [Karlex Pitt](https://open.spotify.com/artist/6RZcX1OjxVzN6j1gycuevD) | [Caliente](https://open.spotify.com/album/3MhnjiaLr9JtQPv8tQRb6n) | 2:15 |
+| 132 | [Juaco](https://open.spotify.com/track/40vC0fpfRWL9Er2Iavpi7K) | [Jacohard](https://open.spotify.com/artist/45nuUPQYKnVDrW6KyCfUtq) | [La Viuda Negra](https://open.spotify.com/album/4FGDOVvHuGWm8jMqY1mtYv) | 2:59 |
+| 133 | [Toxic](https://open.spotify.com/track/6Wk2bv3r2LIY40Kqt9TvRL) | [Dawnsha](https://open.spotify.com/artist/5YWQkVkCVeRTd7K7KjQGdp) | [Dusk Till Dawn](https://open.spotify.com/album/0Jwd7BMCB4cZXRFJG3hNEB) | 3:18 |
+| 134 | [Culture Shock](https://open.spotify.com/track/5Jrc2c2Kp0EshetMSq4X3E) | [CallMeWhoElse](https://open.spotify.com/artist/3sLFnlQ8XFsPNqZ2ly2cCo) | [Culture Shock](https://open.spotify.com/album/3mPqFAPHc5MCQeqKsdwE1J) | 1:50 |
+| 135 | [Perdu dans ma toile](https://open.spotify.com/track/7MrFMCAUuaOe2qDvzAJJMH) | [Deladjaya trio](https://open.spotify.com/artist/4LDCQbS3K5R9uKaSFtcB2r) | [Album, No\. 1](https://open.spotify.com/album/1lIQtgbBGZasEbhnF7JtbD) | 3:43 |
+| 136 | [Take Me There](https://open.spotify.com/track/0T540jldrQIbUy0WuZplnX) | [J.Soul](https://open.spotify.com/artist/5jdVWEJI1micvPRupftugZ) | [Take Me There](https://open.spotify.com/album/7B9n80xlWR68UQlaKMyHrE) | 4:16 |
+| 137 | [Basic](https://open.spotify.com/track/4qdJ0mJWPcCPa1RRb60rRh) | [Slŷer](https://open.spotify.com/artist/0Uh5rHqSoGYI2ofi8Rg2Kl), [Sageyfløw](https://open.spotify.com/artist/3UxbWeCiwFa7OacJ9kBo1I) | [Basic](https://open.spotify.com/album/1GPw5LjkmlNd2ai8cXccfo) | 3:40 |
+| 138 | [LOCKIN IN](https://open.spotify.com/track/2I2Mthbr5PfrF0g0ZQ3rxq) | [Swízzy](https://open.spotify.com/artist/0UECTvB4F2xASEH91yftgO) | [LOCKIN IN](https://open.spotify.com/album/5XWtbQEVjfhNEmyUdMYe9W) | 2:40 |
+| 139 | [Jaded Son](https://open.spotify.com/track/7Bbg46bDdlb4wmbmRiKWfJ) | [Bandana Sons](https://open.spotify.com/artist/5ZtCpzKBvWl7hr0RijnrUH) | [Jaded Son](https://open.spotify.com/album/4ynwas1gNy3V0ydmgvIBEg) | 5:10 |
+| 140 | [Supporting Character](https://open.spotify.com/track/1vjwH3e6jYKecVfZhJ1c6V) | [TJ Juganas](https://open.spotify.com/artist/77DKnEff4JNbAbkDqb61re) | [Supporting Character](https://open.spotify.com/album/7mvQ18bOXnbwaeFz7bIzHg) | 3:49 |
+| 141 | [Hold On](https://open.spotify.com/track/4Wo7nXA54eJJ42tzRaED3i) | [Dono](https://open.spotify.com/artist/2X3HWlSgzq0vYKsR7kACxn) | [Hold On](https://open.spotify.com/album/1MoZcHm6ZFVNzm8R7OJeSl) | 2:33 |
+| 142 | [Lullaby](https://open.spotify.com/track/0xlQiqmo1CwSh91tdZJEcX) | [Malsi](https://open.spotify.com/artist/5OoYbo66Y6ME5Wz2kfTLQe) | [Lullaby](https://open.spotify.com/album/3OBBl1ToG3HODWBWQ6802q) | 5:25 |
+| 143 | [A Merry Jingle](https://open.spotify.com/track/31csQY8zl1aJGe8VISxq9e) | [Forge Hounds](https://open.spotify.com/artist/6528HmKaqCaf9tu3qdj70d) | [A Merry Jingle](https://open.spotify.com/album/4ZoDxu4sPUzk4QCqTwk8Qp) | 3:08 |
 
-Snapshot ID: `AAACjWtaQsnsYGKGTt3MMOpp7Y+eLxPA`
+Snapshot ID: `AAACmuMfrAyMCpfLvMCm1TFAIoaCOlhs`

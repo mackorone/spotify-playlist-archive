@@ -1,6 +1,6 @@
 {
   "description": "Nousussa olevat hitit. \ud83c\udf2a\ufe0f ",
-  "num_followers": 60158,
+  "num_followers": 60155,
   "original_name": "Nousussa",
   "owner": {
     "name": "Spotify",
@@ -575,6 +575,22 @@
     {
       "added_at": "2025-12-18 22:00:31",
       "album": {
+        "name": "Alcoholic",
+        "url": "https://open.spotify.com/album/2El1YK63AksH46UztnNsgD"
+      },
+      "artists": [
+        {
+          "name": "Averagekidluke",
+          "url": "https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk"
+        }
+      ],
+      "duration_ms": 175970,
+      "name": "Alcoholic",
+      "url": "https://open.spotify.com/track/3wGRalPt5dBMWDjn0EU7ax"
+    },
+    {
+      "added_at": "2025-12-18 22:00:31",
+      "album": {
         "name": "Totuus sattuu (with pehmoaino)",
         "url": "https://open.spotify.com/album/3KHJZYkmNJ8DjqrRGgMsJr"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 165688,
       "name": "Totuus sattuu (with pehmoaino)",
       "url": "https://open.spotify.com/track/6wTnsZgua00pdQoYkroEQL"
-    },
-    {
-      "added_at": "2025-12-18 22:00:31",
-      "album": {
-        "name": "Alcoholic",
-        "url": "https://open.spotify.com/album/2El1YK63AksH46UztnNsgD"
-      },
-      "artists": [
-        {
-          "name": "Averagekidluke",
-          "url": "https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk"
-        }
-      ],
-      "duration_ms": 175970,
-      "name": "Alcoholic",
-      "url": "https://open.spotify.com/track/3wGRalPt5dBMWDjn0EU7ax"
     },
     {
       "added_at": "2025-12-18 22:00:31",
@@ -799,22 +799,6 @@
     {
       "added_at": "2025-12-18 22:00:31",
       "album": {
-        "name": "M\u00e4 oon se tytt\u00f6",
-        "url": "https://open.spotify.com/album/1BNBt5vqJqJvMx4wNGAfgF"
-      },
-      "artists": [
-        {
-          "name": "Pihlaja",
-          "url": "https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi"
-        }
-      ],
-      "duration_ms": 173880,
-      "name": "M\u00e4 oon se tytt\u00f6",
-      "url": "https://open.spotify.com/track/1yPXRZYJcZpi3SUQcT2Yro"
-    },
-    {
-      "added_at": "2025-12-18 22:00:31",
-      "album": {
         "name": "Meid\u00e4n t\u00e4ss\u00e4 kuuluisi rakastuu",
         "url": "https://open.spotify.com/album/1PGqNvO98f5KApMX6bqsbR"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 188631,
       "name": "Meid\u00e4n t\u00e4ss\u00e4 kuuluisi rakastuu",
       "url": "https://open.spotify.com/track/6yy7IWGVnuqG6pXjDPzRxc"
+    },
+    {
+      "added_at": "2025-12-18 22:00:31",
+      "album": {
+        "name": "M\u00e4 oon se tytt\u00f6",
+        "url": "https://open.spotify.com/album/1BNBt5vqJqJvMx4wNGAfgF"
+      },
+      "artists": [
+        {
+          "name": "Pihlaja",
+          "url": "https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi"
+        }
+      ],
+      "duration_ms": 173880,
+      "name": "M\u00e4 oon se tytt\u00f6",
+      "url": "https://open.spotify.com/track/1yPXRZYJcZpi3SUQcT2Yro"
     },
     {
       "added_at": "2025-12-18 22:00:31",
@@ -943,22 +943,18 @@
     {
       "added_at": "2025-12-18 22:00:31",
       "album": {
-        "name": "Sotilas (feat. Senni)",
-        "url": "https://open.spotify.com/album/2gnYoLjr1OI483XTKCxHKq"
+        "name": "K\u00e4\u00e4nn\u00e4 Se Kovemmal",
+        "url": "https://open.spotify.com/album/1FtyRB2jbzmpPu4VNvwrfx"
       },
       "artists": [
         {
-          "name": "Mikael Gabriel",
-          "url": "https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw"
-        },
-        {
-          "name": "Senni",
-          "url": "https://open.spotify.com/artist/7pI7IBuoklCAyUgFIIwhpr"
+          "name": "MELO",
+          "url": "https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz"
         }
       ],
-      "duration_ms": 179946,
-      "name": "Sotilas (feat. Senni)",
-      "url": "https://open.spotify.com/track/6shalerzc3LLKNj6rvHhfT"
+      "duration_ms": 183305,
+      "name": "K\u00e4\u00e4nn\u00e4 Se Kovemmal",
+      "url": "https://open.spotify.com/track/518a2UYMiFtcgyvparCAPB"
     },
     {
       "added_at": "2025-12-18 22:00:31",
@@ -979,18 +975,22 @@
     {
       "added_at": "2025-12-18 22:00:31",
       "album": {
-        "name": "K\u00e4\u00e4nn\u00e4 Se Kovemmal",
-        "url": "https://open.spotify.com/album/1FtyRB2jbzmpPu4VNvwrfx"
+        "name": "Sotilas (feat. Senni)",
+        "url": "https://open.spotify.com/album/2gnYoLjr1OI483XTKCxHKq"
       },
       "artists": [
         {
-          "name": "MELO",
-          "url": "https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz"
+          "name": "Mikael Gabriel",
+          "url": "https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw"
+        },
+        {
+          "name": "Senni",
+          "url": "https://open.spotify.com/artist/7pI7IBuoklCAyUgFIIwhpr"
         }
       ],
-      "duration_ms": 183305,
-      "name": "K\u00e4\u00e4nn\u00e4 Se Kovemmal",
-      "url": "https://open.spotify.com/track/518a2UYMiFtcgyvparCAPB"
+      "duration_ms": 179946,
+      "name": "Sotilas (feat. Senni)",
+      "url": "https://open.spotify.com/track/6shalerzc3LLKNj6rvHhfT"
     },
     {
       "added_at": "2025-12-18 22:00:31",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2025-12-18 22:00:31",
       "album": {
-        "name": "M\u00f6rk\u00f6",
-        "url": "https://open.spotify.com/album/3H7wJEr771ALFDB6ubgIlG"
-      },
-      "artists": [
-        {
-          "name": "Tupe.",
-          "url": "https://open.spotify.com/artist/4yJlK8mRoESpFoPq3sOAi5"
-        }
-      ],
-      "duration_ms": 150772,
-      "name": "M\u00f6rk\u00f6",
-      "url": "https://open.spotify.com/track/4wj5L26lcaUtrEepdP6sJt"
-    },
-    {
-      "added_at": "2025-12-18 22:00:31",
-      "album": {
         "name": "NEED SUM MO",
         "url": "https://open.spotify.com/album/4VRh9XgLoD0Nku07vL1tVe"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 111593,
       "name": "MRR",
       "url": "https://open.spotify.com/track/2GC6rk5C8xlSMz9Tv8S3KQ"
+    },
+    {
+      "added_at": "2025-12-18 22:00:31",
+      "album": {
+        "name": "M\u00f6rk\u00f6",
+        "url": "https://open.spotify.com/album/3H7wJEr771ALFDB6ubgIlG"
+      },
+      "artists": [
+        {
+          "name": "Tupe.",
+          "url": "https://open.spotify.com/artist/4yJlK8mRoESpFoPq3sOAi5"
+        }
+      ],
+      "duration_ms": 150772,
+      "name": "M\u00f6rk\u00f6",
+      "url": "https://open.spotify.com/track/4wj5L26lcaUtrEepdP6sJt"
     },
     {
       "added_at": "2025-12-18 22:00:31",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2025-12-18 22:00:31",
       "album": {
-        "name": "Made it",
-        "url": "https://open.spotify.com/album/7ofaH0AtjS8BYYfyoHMuzY"
-      },
-      "artists": [
-        {
-          "name": "KERZA",
-          "url": "https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr"
-        }
-      ],
-      "duration_ms": 151345,
-      "name": "Made it",
-      "url": "https://open.spotify.com/track/3x0Z2IBTRMOHEuEQYIHnhW"
-    },
-    {
-      "added_at": "2025-12-18 22:00:31",
-      "album": {
         "name": "WEB",
         "url": "https://open.spotify.com/album/7r76AzmWQPap2MZgE9zQ3Y"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 198000,
       "name": "Tahdon",
       "url": "https://open.spotify.com/track/1cHMpCFsz4Imvq72B6IWae"
+    },
+    {
+      "added_at": "2025-12-18 22:00:31",
+      "album": {
+        "name": "Made it",
+        "url": "https://open.spotify.com/album/7ofaH0AtjS8BYYfyoHMuzY"
+      },
+      "artists": [
+        {
+          "name": "KERZA",
+          "url": "https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr"
+        }
+      ],
+      "duration_ms": 151345,
+      "name": "Made it",
+      "url": "https://open.spotify.com/track/3x0Z2IBTRMOHEuEQYIHnhW"
     },
     {
       "added_at": "2025-12-18 22:00:31",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2025-12-18 22:00:31",
       "album": {
+        "name": "Griselda Blanco",
+        "url": "https://open.spotify.com/album/7gvNSb5nIGHOP6qomTNEP5"
+      },
+      "artists": [
+        {
+          "name": "VJ",
+          "url": "https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "Griselda Blanco",
+      "url": "https://open.spotify.com/track/6FoBHmjnw32uwrdeQcpIqd"
+    },
+    {
+      "added_at": "2025-12-18 22:00:31",
+      "album": {
         "name": "Asfaltin pinta (Vain el\u00e4m\u00e4\u00e4 kausi 16)",
         "url": "https://open.spotify.com/album/6tFLCJuR7SQTQ9HPdJzoOF"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 198573,
       "name": "Asfaltin pinta - Vain el\u00e4m\u00e4\u00e4 kausi 16",
       "url": "https://open.spotify.com/track/71lekT94R4rRcRKg3K5aAA"
-    },
-    {
-      "added_at": "2025-12-18 22:00:31",
-      "album": {
-        "name": "Griselda Blanco",
-        "url": "https://open.spotify.com/album/7gvNSb5nIGHOP6qomTNEP5"
-      },
-      "artists": [
-        {
-          "name": "VJ",
-          "url": "https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "Griselda Blanco",
-      "url": "https://open.spotify.com/track/6FoBHmjnw32uwrdeQcpIqd"
     },
     {
       "added_at": "2025-12-18 22:00:31",

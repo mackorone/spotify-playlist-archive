@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Omar Courtz, Kali Uchis, Cazzu, Arcángel and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 626,014 likes - 51 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 626,050 likes - 51 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 29 | [OH OH](https://open.spotify.com/track/0sTruQAwi5gAaChKebma4d) | [Pink Pablo](https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ) | [OH OH](https://open.spotify.com/album/6FpJlxR1uvolWgukjSy2uD) | 2:28 |
 | 30 | [La Herida](https://open.spotify.com/track/1sBSjceBS1Fl7qDJYEPkKP) | [Pato Shoucair](https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC) | [La Herida](https://open.spotify.com/album/448r0IkYo8ehYROuSWwQ4p) | 2:01 |
 | 31 | [Bendito](https://open.spotify.com/track/4HacFIvI4UKxK5GxraKTfG) | [Zaider](https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz), [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP) | [Bendito](https://open.spotify.com/album/4jPMa86IR3uo5oCthTfLbu) | 2:42 |
-| 32 | [TURR0LOGIA](https://open.spotify.com/track/3yP2GV6HbYViIiboNlXDlO) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [TURR0LOGIA](https://open.spotify.com/album/3VvxUKqCj6EZzk6i8FWkEF) | 2:18 |
+| 32 | [TURR0LOGIA](https://open.spotify.com/track/3yP2GV6HbYViIiboNlXDlO) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L) | [TURR0LOGIA](https://open.spotify.com/album/3VvxUKqCj6EZzk6i8FWkEF) | 2:18 |
 | 33 | [Titi](https://open.spotify.com/track/7khljrwL1dO6sZDAClVeLF) | [LENCHO](https://open.spotify.com/artist/34pmYm95tyjrnk8Cbj6nFo) | [Titi](https://open.spotify.com/album/7KUEiAJABEXvkh0xVbU6xt) | 2:12 |
 | 34 | [ya yo sé \- Live](https://open.spotify.com/track/7iigWtzOmyTizRNmwOkKUh) | [Julio Caesar](https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K) | [desconectado \(Live\)](https://open.spotify.com/album/2QLBsx0O3j6JFdG1pVB7jk) | 2:59 |
 | 35 | [Yiguiry](https://open.spotify.com/track/1TUyjS955zPj0mYUK6J54s) | [Elintruso](https://open.spotify.com/artist/2B0kqVR4WqvgZ1MLHc0gEU), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a), [Hanzel La H](https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o) | [Yiguiry](https://open.spotify.com/album/2efs77uCyiYUNF5P7hNjMp) | 4:02 |

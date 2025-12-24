@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wO3czN5dc1.md) - [plain]
 
 > The heartbeat of Afro House from Africa and around the globe\. Cover: Musa Keys
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,322 likes - 70 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,350 likes - 70 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wO3czN5dc1.md) - [plain]
 | 7 | [Masalale](https://open.spotify.com/track/5JREUdYQwOzVjF4HVbWtWP) | [Vainer](https://open.spotify.com/artist/30dta9S7KGCF8gRRoXPerY), [CHUMA](https://open.spotify.com/artist/2cyxYStUJ7WELIWGNf7TKs) | [Masalale](https://open.spotify.com/album/658zToNBidj60rsj3UinRf) | 2:37 |
 | 8 | [Auti](https://open.spotify.com/track/28yxbHRomKe6sqYIm0dvEe) | [DJ Gibbzy](https://open.spotify.com/artist/4z7q6esJcWzVOjVZvP9ZtB), [Nes Mburu](https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd) | [Auti](https://open.spotify.com/album/10vZ81DZ023t2PjmtOA8ak) | 4:04 |
 | 9 | [Back To The Basics \- Sinego Remix](https://open.spotify.com/track/1CrxeiD4X8ZhJ6NcsgZqvx) | [Eli Fola](https://open.spotify.com/artist/5IcFG09FACrC6m7N1qa9o0), [Theodor Luv](https://open.spotify.com/artist/4i4fNQWa5GpSjR0NkWxc1C), [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Back To The Basics \(Sinego Remix\)](https://open.spotify.com/album/6e2EcCJTFwBx4UQ9cWBfxp) | 4:53 |
-| 10 | [Ungenzani](https://open.spotify.com/track/4vGofrv3muNtIaJHsq7Cj1) | [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD), [MK Productions](https://open.spotify.com/artist/6jUYsFkr46ErYnMV82HgQ8), [Blaqseed](https://open.spotify.com/artist/42UXAwhimj87O57qHgAHAv) | [MAYVIS](https://open.spotify.com/album/24hB22GCffWSxZyTmfuCAb) | 6:00 |
+| 10 | [Ungenzani](https://open.spotify.com/track/4vGofrv3muNtIaJHsq7Cj1) | [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD), [MK Productions](https://open.spotify.com/artist/6jUYsFkr46ErYnMV82HgQ8), [Blaq Seed](https://open.spotify.com/artist/1BQ05DaaqFSpBdBs6gw81v) | [MAYVIS](https://open.spotify.com/album/24hB22GCffWSxZyTmfuCAb) | 6:00 |
 | 11 | [Crush](https://open.spotify.com/track/3cDzIY1AdJZ36kTlUxpApw) | [Zane Gulston](https://open.spotify.com/artist/18rZ7Kl0Dtyla220ZktTR7), [Rebiirth](https://open.spotify.com/artist/1Tx7L6W346dIQcAwDGdF1o) | [Crush](https://open.spotify.com/album/0fIRjHKYAiceTTcRshmORw) | 5:10 |
 | 12 | [Hutia](https://open.spotify.com/track/0NzAiE3uzd1FFJ9WwFpTzu) | [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3), [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv), [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [Hutia](https://open.spotify.com/album/540Xn6IgSM5VWHXfoqAGS9) | 2:51 |
 | 13 | [Uthando Lwethu \(feat\. ChildDaDJ, Funktone & Elevators\)](https://open.spotify.com/track/3lvks5HZQw8E7CG03K7kVw) | [Noxolo Ngema](https://open.spotify.com/artist/4gR20Zh7XB48xnwxZnKGgb), [MaWhoo](https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9), [Janesh](https://open.spotify.com/artist/1oK1EnI3oWOsRKlV4e6L5L), [ChildDaDj](https://open.spotify.com/artist/70DzXxVr9BqAIfsBoa3rn5), [FunkTone](https://open.spotify.com/artist/5e20FnH1vyHXZId8SMW4H8), [Elevators](https://open.spotify.com/artist/6OvUL257eBukWBqtvcngcM) | [Uthando Lwethu \(feat\. ChildDaDJ\)](https://open.spotify.com/album/0fO4Op2hYzu05lQiHTRsQS) | 5:44 |

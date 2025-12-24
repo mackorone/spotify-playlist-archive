@@ -4,7 +4,7 @@
 
 > Megra with the sound of the Scandi underground
 
-1,372 songs - 4 day 5 hr 25 min
+1,374 songs - 4 day 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1188,6 +1188,7 @@
 | [The One](https://open.spotify.com/track/1HEAdiEtqfNwRiWLBflKgn) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [The One](https://open.spotify.com/album/2L9IJGseRrMNGLg8eqzAzv) | 5:01 | 2023-04-13 | 2023-10-03 |
 | [The One \(feat\. Jocelyn Brown\) \[Obskür Remix\]](https://open.spotify.com/track/0LbwAu16siBMH6jnRPM3Jc) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [Luke Alessi](https://open.spotify.com/artist/3Foat3c8Ui3HkvZghZAzQp), [Jocelyn Brown](https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq), [Obskür](https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx) | [The One \(feat\. Jocelyn Brown\) \[Obskür Remix\]](https://open.spotify.com/album/3DDaASK8dwKf2cvJ7pyT0B) | 3:15 | 2025-06-20 |  |
 | [The Only One \(feat\. SAÍGO\)](https://open.spotify.com/track/4mCr3lxi33KfNkGsdcX8lM) | [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3), [SAÍGO](https://open.spotify.com/artist/2Gu2iejmc6pUo0ZR7thZCO) | [The Only One \(feat\. SAÍGO\)](https://open.spotify.com/album/6N7WsWfTXGn6RyoSTMc4ci) | 3:25 | 2025-01-23 |  |
+| [The Queen \- 303 Retouch](https://open.spotify.com/track/7ga9mUzT0UoVYNZdRYaBIg) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [Mita Gami](https://open.spotify.com/artist/6Y9N9gdo5jpzGsExWDymS8) | [The Queen \(303 Retouch\)](https://open.spotify.com/album/3At4VjbTFzjnmXB09FELVW) | 3:42 | 2025-12-23 |  |
 | [The Rapture Pt.III](https://open.spotify.com/track/200DiJQhDi69nkGXOrrJgn) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [The Rapture Pt.III](https://open.spotify.com/album/2FAKT4HAf25axNWJI3DlY5) | 6:57 | 2023-06-08 | 2024-02-23 |
 | [The Return \- Edit](https://open.spotify.com/track/0RmzDQgs6xKmVA2jsmSPXF) | [Pryda](https://open.spotify.com/artist/37U9sPqTZMd7AKJCWgcvkt) | [The Return \(Edit\)](https://open.spotify.com/album/6HbZkybdKSNHk0TEEGnJB2) | 3:52 | 2023-07-14 | 2023-12-08 |
 | [The Rhythm](https://open.spotify.com/track/47pijfgcSq0ya8SLExKCxa) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC) | [The Rhythm](https://open.spotify.com/album/2vlm4Da9F9vdAaIjs9UQBv) | 3:19 | 2023-06-29 | 2023-09-15 |
@@ -1200,6 +1201,7 @@
 | [The Switch](https://open.spotify.com/track/2Uf2IFn75rflEjYN4z1YUR) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [The Switch](https://open.spotify.com/album/3x0717lwXQfyWeLFwiEe5S) | 3:26 | 2023-11-09 | 2025-08-16 |
 | [The Time Is Now](https://open.spotify.com/track/0qt0ZSiqKipDjdhBMFZDvP) | [Dark Heart](https://open.spotify.com/artist/1k7Cc2WGh6LAE1TUh6dsiy), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [The Time Is Now](https://open.spotify.com/album/1WfsbeV8Wh1osKgaIYfQcU) | 3:35 | 2023-06-29 | 2023-08-01 |
 | [The Treble](https://open.spotify.com/track/3MHJeHVYMEdXsK5e2YV9p5) | [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011), [Mike Cervello](https://open.spotify.com/artist/4zYX8Aa744hQ5O2hpAYQI3) | [The Treble](https://open.spotify.com/album/0iHPUixpramB60NDP56aar) | 3:22 | 2023-08-03 | 2023-08-31 |
+| [The Way I Are \- Max Dean Remix \- Extended](https://open.spotify.com/track/4fWGfF4E3zNsrb6JgRB57z) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Keri Hilson](https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1), [D.O.E.](https://open.spotify.com/artist/4TLCPR1sMYoNU1jA7O4uww), [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc) | [The Way I Are \(Max Dean Remix \- Extended\)](https://open.spotify.com/album/0UHp3EOGzGH2vxXUPaCmNA) | 5:31 | 2025-12-23 |  |
 | [Therapy](https://open.spotify.com/track/0bFYxqlC4hYxJ0Gnrm8IqR) | [Bigfett](https://open.spotify.com/artist/7x68cYMeDnvneRvfFyEyae) | [Therapy](https://open.spotify.com/album/4jfQMJchWnQjF3bjSGYfqM) | 6:29 | 2023-10-12 | 2023-11-17 |
 | [There Beside](https://open.spotify.com/track/3RxBSdIJoJ8hFg6IsSTfTv) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy) | [Inner Monologue](https://open.spotify.com/album/0X1jMKj2RQSil3PTSppRIT) | 6:09 | 2023-08-03 | 2023-09-08 |
 | [There's Nothing](https://open.spotify.com/track/1KeDVzWq8rGYFb2VXZbaxs) | [Thomas Newson](https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5) | [There's Nothing](https://open.spotify.com/album/5DwKCSDxs0XQ7JbklfCbLr) | 3:01 | 2024-03-07 | 2024-04-05 |

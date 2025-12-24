@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-475 songs - 1 day 3 hr 51 min
+476 songs - 1 day 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [Hälsingevind](https://open.spotify.com/track/4S8r06IA1z67uAlKoa5Ubq) | [Engmans Kapell](https://open.spotify.com/artist/44RPeghKstDd42rYnzyZ8v), [Viktor Norén](https://open.spotify.com/artist/16iB35jaW8fuKzq3iTIYQe) | [Hälsingevind](https://open.spotify.com/album/0SqezURYw039gJ7livqLby) | 4:47 | 2025-07-10 | 2025-09-12 |
 | [Hör mig!](https://open.spotify.com/track/4dyQBbtqbsbh23yWPc7Gqu) | [Sofia Karlsson](https://open.spotify.com/artist/2tKGISNf0bei0IxfLQGMEt), [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n), [Sara Parkman](https://open.spotify.com/artist/3QKspYZWuPR8sJ6WW1zAdw) | [En sång till Selma](https://open.spotify.com/album/0zEX0k3GybLRJAuzAeqZnp) | 3:58 | 2025-04-22 | 2025-08-12 |
 | [Hörde en fågel \(feat\. Frida Andersson\)](https://open.spotify.com/track/6KqsHWGjx1V7Y067RdaVgA) | [Bo Sundström](https://open.spotify.com/artist/6a1WisWTClXHwQj0WGAyIz), [Frida Andersson](https://open.spotify.com/artist/6DkxCz6NFKTUoMUKJwZ0dR) | [Hörde en fågel \(feat\. Frida Andersson\)](https://open.spotify.com/album/7BDsoX7VMNqjiSKhm6Mdb1) | 3:08 | 2024-06-27 | 2024-08-09 |
+| [I Don't Know How to Love You Anymore](https://open.spotify.com/track/0WFv4zCTaqeYO90dwb7JSq) | [Ida Sand](https://open.spotify.com/artist/2xlu6WzVa7WHwHhRptqq7c) | [I Don't Know How to Love You Anymore](https://open.spotify.com/album/37Ey2qILLzF5QiGBNLFyaA) | 3:53 | 2025-12-18 |  |
 | [I Figured We'd Go Dancin'](https://open.spotify.com/track/48eUf8bFZmq37EaPUj8S4D) | [Evan Honer](https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP) | [Fighting For](https://open.spotify.com/album/2sTJO0oeYWxnruPllxbkL1) | 4:45 | 2024-06-27 | 2024-08-23 |
 | [I Had Some Help](https://open.spotify.com/track/1exJmqcLsoq5h7RHDRzljm) | [Twenty One Two](https://open.spotify.com/artist/2A5VOguZzXMBrg27MEUZcp) | [I Had Some Help](https://open.spotify.com/album/0R3ZYHphV3n1PZTc7GKYSo) | 2:56 | 2024-06-27 | 2024-09-21 |
 | [I Keep On Falling in Love](https://open.spotify.com/track/4hSFhD9TNsgiHg0LazilZI) | [The Moniker](https://open.spotify.com/artist/3lh0txPGRzXwKDsgMAtixi) | [I Keep On Falling in Love](https://open.spotify.com/album/0ymhQryQrdMfStblEmf8bB) | 3:30 | 2024-06-27 | 2024-08-30 |
@@ -406,7 +407,7 @@
 | [The Game](https://open.spotify.com/track/4pEcoiN93VmnYF45qYoPrW) | [Takida](https://open.spotify.com/artist/3E33tPtYu9wX1t1cp8ELAW) | [The Game](https://open.spotify.com/album/0wDTzzSQn1xqZvbmpZml0t) | 3:28 | 2025-01-09 | 2025-05-16 |
 | [The Man He Sees in Me](https://open.spotify.com/track/0Zm4ZDBtiZCDp69Cxs5TaB) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [The Man He Sees in Me](https://open.spotify.com/album/5oR5JuHZV4Yz7XvvBJHOCt) | 2:45 | 2024-06-27 | 2024-08-23 |
 | [The Player](https://open.spotify.com/track/6il2AODycNJgccBNoTQaLn) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [The Player](https://open.spotify.com/album/5qPKjblUkTscBgV0Hq8XUg) | 2:48 | 2024-08-22 | 2025-04-11 |
-| [The Spectrum of Love](https://open.spotify.com/track/5cZBO0JIULIugulCbIGahr) | [Peter Jöback](https://open.spotify.com/artist/3fA5zBQWEa0uzYo43SvXaj) | [The Spectrum of Love](https://open.spotify.com/album/24y2TRQ7YlpOIWcyncqW3t) | 3:13 | 2025-07-24 |  |
+| [The Spectrum of Love](https://open.spotify.com/track/5cZBO0JIULIugulCbIGahr) | [Peter Jöback](https://open.spotify.com/artist/3fA5zBQWEa0uzYo43SvXaj) | [The Spectrum of Love](https://open.spotify.com/album/24y2TRQ7YlpOIWcyncqW3t) | 3:13 | 2025-07-24 | 2025-12-24 |
 | [The Way](https://open.spotify.com/track/1l2UjEWrKrdpqhbKMBcNVU) | [The Boppers](https://open.spotify.com/artist/1vLVhyvTemQZ6bd5oY1Fql) | [The Way](https://open.spotify.com/album/2N1OuSrkbm0uvI5dwtUCdM) | 3:58 | 2024-08-08 | 2024-09-27 |
 | [The Whole Woman](https://open.spotify.com/track/6pmFHNJmQKQEUioMUJk1h5) | [Anna von Hausswolff](https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Stardust / The Whole Woman](https://open.spotify.com/album/5xSu56pfAkclyOkKGYTob6) | 4:18 | 2025-08-21 |  |
 | [There’s a Field \(That’s Only Yours\)](https://open.spotify.com/track/4Yj2w2rPJmLRqVeeel9rZM) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Rearrange My World / There’s a Field \(That's Only Yours\)](https://open.spotify.com/album/5ktP3Kld7AkIWr6yXUaTbn) | 2:04 | 2025-02-14 |  |

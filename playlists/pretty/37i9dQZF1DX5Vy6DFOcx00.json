@@ -1,13 +1,29 @@
 {
   "description": "iykyk",
-  "num_followers": 4153189,
+  "num_followers": 4152909,
   "original_name": "big on the internet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOQm4dRGQiT4KDrJkcROY/0isckh",
+  "snapshot_id": "AAAAAPbCW5HX3lCnaL6gR4P9JOUhJAUV",
   "tracks": [
+    {
+      "added_at": "2025-12-23 07:33:27",
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 200646,
+      "name": "Lush Life",
+      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
+    },
     {
       "added_at": "2025-12-07 16:03:13",
       "album": {
@@ -161,6 +177,46 @@
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
+      "added_at": "2025-12-23 07:36:02",
+      "album": {
+        "name": "Mu\u00e9velo",
+        "url": "https://open.spotify.com/album/6tKu7fGPGQyKD1nbSMWTje"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 127366,
+      "name": "Mu\u00e9velo",
+      "url": "https://open.spotify.com/track/7N3mR4WnEuq1MUQlxb6JWH"
+    },
+    {
+      "added_at": "2025-12-23 07:36:02",
+      "album": {
+        "name": "All Back to the Mine, Vol. 2: A Collection of Remixes",
+        "url": "https://open.spotify.com/album/0yBRgl4cZYpK023fBnbcku"
+      },
+      "artists": [
+        {
+          "name": "Moloko",
+          "url": "https://open.spotify.com/artist/4aaBjq7VqqQvpSF69GglvO"
+        },
+        {
+          "name": "Boris Dlugosch",
+          "url": "https://open.spotify.com/artist/5mrwZhvK7J8K34cWeFG3ru"
+        },
+        {
+          "name": "Michael Lange",
+          "url": "https://open.spotify.com/artist/0r3oYkStfoV3sVeoQ1vmtw"
+        }
+      ],
+      "duration_ms": 558629,
+      "name": "Sing It Back - Boris Dlugosch Musical Mix",
+      "url": "https://open.spotify.com/track/2QRMVfZajG4tjC4FJPOGXw"
+    },
+    {
       "added_at": "2025-11-28 05:00:18",
       "album": {
         "name": "Rebel",
@@ -215,6 +271,22 @@
       "duration_ms": 213637,
       "name": "You (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/4qS2KPWvsQzLvRa9oCHw41"
+    },
+    {
+      "added_at": "2025-12-23 07:36:02",
+      "album": {
+        "name": "tower of memories",
+        "url": "https://open.spotify.com/album/5fZahPiBBEr15SgNs9h5s6"
+      },
+      "artists": [
+        {
+          "name": "ivri",
+          "url": "https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS"
+        }
+      ],
+      "duration_ms": 208510,
+      "name": "tower of memories",
+      "url": "https://open.spotify.com/track/0qhVpwKivK3u4OMLb7Z9Ah"
     },
     {
       "added_at": "2025-12-06 18:28:27",
@@ -299,22 +371,6 @@
       "duration_ms": 266466,
       "name": "Englishman In New York",
       "url": "https://open.spotify.com/track/5Uf0llmR4IIkyOzkgINbL5"
-    },
-    {
-      "added_at": "2025-12-06 18:28:27",
-      "album": {
-        "name": "Mind Your Business",
-        "url": "https://open.spotify.com/album/2dhlHnt3QwDwlO1L68jZIu"
-      },
-      "artists": [
-        {
-          "name": "James the Seventh",
-          "url": "https://open.spotify.com/artist/5faD9JxapMgSQjrFSZ2kSS"
-        }
-      ],
-      "duration_ms": 124878,
-      "name": "Trauma Olympics",
-      "url": "https://open.spotify.com/track/1AEuq3M34uZQflOK68Dmhl"
     },
     {
       "added_at": "2025-10-06 00:02:08",
@@ -489,22 +545,6 @@
       "url": "https://open.spotify.com/track/28sawWzfucjbahooUtyrZx"
     },
     {
-      "added_at": "2025-11-10 22:16:08",
-      "album": {
-        "name": "Love at the Bottom of the Sea",
-        "url": "https://open.spotify.com/album/0CfSd8lAcnddr939k6hle1"
-      },
-      "artists": [
-        {
-          "name": "The Magnetic Fields",
-          "url": "https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK"
-        }
-      ],
-      "duration_ms": 132573,
-      "name": "Andrew in Drag",
-      "url": "https://open.spotify.com/track/4hGc42qyzkBMoHGddyX565"
-    },
-    {
       "added_at": "2025-09-28 03:54:04",
       "album": {
         "name": "Brat and it\u2019s completely different but also still brat",
@@ -523,38 +563,6 @@
       "duration_ms": 203945,
       "name": "Everything is romantic featuring caroline polachek",
       "url": "https://open.spotify.com/track/1RGidCmtrqER8GBs8TnG9C"
-    },
-    {
-      "added_at": "2025-11-10 16:13:26",
-      "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/74HNHfB066STy568ETJsPl"
-      },
-      "artists": [
-        {
-          "name": "Hazbin Hotel",
-          "url": "https://open.spotify.com/artist/3trytB1YUZ6SSOKlMcnK1l"
-        },
-        {
-          "name": "Jessica Vosk",
-          "url": "https://open.spotify.com/artist/1OwC6rT6DbycViGMbX94yC"
-        },
-        {
-          "name": "Alex Brightman",
-          "url": "https://open.spotify.com/artist/7abCELr0U2E5K2nPjVtWkN"
-        },
-        {
-          "name": "Sam Haft",
-          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
-        },
-        {
-          "name": "Andrew Underberg",
-          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
-        }
-      ],
-      "duration_ms": 113230,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/4a4KvRWGEUaslwPzpVvJij"
     },
     {
       "added_at": "2025-09-16 15:54:08",
@@ -659,22 +667,6 @@
       "duration_ms": 226283,
       "name": "Who Knows",
       "url": "https://open.spotify.com/track/6DH13QYXK7lKkYHSU88N48"
-    },
-    {
-      "added_at": "2025-11-10 16:13:26",
-      "album": {
-        "name": "Unhinged",
-        "url": "https://open.spotify.com/album/3NQxrzLOQvUi82RbGIMgIA"
-      },
-      "artists": [
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        }
-      ],
-      "duration_ms": 184711,
-      "name": "Unhinged",
-      "url": "https://open.spotify.com/track/5hvyS23Ya468Sp4VeL48U5"
     },
     {
       "added_at": "2025-08-19 15:18:03",

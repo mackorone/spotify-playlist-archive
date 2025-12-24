@@ -4,7 +4,7 @@
 
 > Mazzariello + tutte le altre uscite indie🏌🏻‍♂️
 
-1,253 songs - 2 day 16 hr 16 min
+1,254 songs - 2 day 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [casa nostra](https://open.spotify.com/track/6RJBjN0wwVP2A30rnYMi7k) | [Henna](https://open.spotify.com/artist/2Uc6PIOg4LXnQ327GaYZIX) | [casa nostra](https://open.spotify.com/album/1bwnI5Xx4kiG1vrSchI7Rk) | 2:21 | 2025-10-16 | 2025-11-14 |
 | [casa sopra](https://open.spotify.com/track/6W0w10P6vLPZADGfAd4yDs) | [blue27](https://open.spotify.com/artist/5qkIi9RYBMZkqQUIwOtRo9) | [casa sopra](https://open.spotify.com/album/08Hr5uA43jA2880PNL0Iqd) | 2:12 | 2025-11-20 | 2025-12-12 |
 | [caselle di posta](https://open.spotify.com/track/4ML8ymtpVAxeKfMdrM0yHD) | [Leanò](https://open.spotify.com/artist/0pb0sehd5pPALyoCt8B4MV) | [caselle di posta](https://open.spotify.com/album/3Pf9shYFlwnzrXipi4s5nJ) | 3:04 | 2024-12-17 | 2025-01-31 |
+| [Casteddhru](https://open.spotify.com/track/6bvaGRdsEmCee3jCC2LeoY) | [DDUMA](https://open.spotify.com/artist/0IpuoeEIxyOxBICJVARGzG) | [Casteddhru](https://open.spotify.com/album/0CD1ctdHXANdjQVRcrw0Un) | 1:59 | 2025-12-18 |  |
 | [catramen](https://open.spotify.com/track/5qDSfaviNFKb78IwNWM98g) | [TFR](https://open.spotify.com/artist/67fpSSxFCzrocAWkKw4Kyn) | [catramen](https://open.spotify.com/album/1Uu6rPp1cKEvNU3OMFomY2) | 3:14 | 2024-10-24 | 2024-11-22 |
 | [CAVALLO BIANCO](https://open.spotify.com/track/7akzt6WBT2EyZssMCB7I3z) | [Milord](https://open.spotify.com/artist/5XOBciTUZqGxJ8AHNo80aE), [popmolly](https://open.spotify.com/artist/6JohJ96OQXdnIxpCuY9LqG) | [CAVALLO BIANCO](https://open.spotify.com/album/1qjueGm75ZGwjqFOj2cifZ) | 2:30 | 2025-12-11 |  |
 | [Ce stevo penzanno](https://open.spotify.com/track/0YflJvHgNKVnWb24ffiW3Q) | [Calmo](https://open.spotify.com/artist/4Wx3ZL6d6p1gVMtwQ2YWsz), [Anna and Vulkan](https://open.spotify.com/artist/338OK54trmorxC1704hKpD), [Damiank](https://open.spotify.com/artist/0HK1JtedHdz3a76ZpWaEsc) | [Ce stevo penzanno](https://open.spotify.com/album/0GCHZUO8pCk0SJFrFSzG2d) | 2:33 | 2025-11-20 | 2025-12-12 |

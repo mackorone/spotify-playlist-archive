@@ -1,6 +1,6 @@
 {
   "description": "Recuerda la d\u00e9cada de los acampanados, patillas y cuellos picudos. Juan Gabriel en portada.",
-  "num_followers": 334417,
+  "num_followers": 334540,
   "original_name": "Los 70 M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -795,6 +795,22 @@
     {
       "added_at": "2019-09-04 23:38:38",
       "album": {
+        "name": "e5",
+        "url": "https://open.spotify.com/album/7mddPROCwZWxiYdK1Rpmwr"
+      },
+      "artists": [
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+        }
+      ],
+      "duration_ms": 177453,
+      "name": "Falso Amor",
+      "url": "https://open.spotify.com/track/29gcpcXiLczD2NJS34YdLg"
+    },
+    {
+      "added_at": "2019-09-04 23:38:38",
+      "album": {
         "name": "Las N\u00famero 1 de Manoella Torres",
         "url": "https://open.spotify.com/album/1XtAGzvyq5As5IcnPW5VUM"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 236200,
       "name": "Una L\u00e1grima - Una Lacrima",
       "url": "https://open.spotify.com/track/6P4mD0UiVmjcuURvsbVtc5"
-    },
-    {
-      "added_at": "2019-09-04 23:38:38",
-      "album": {
-        "name": "e5",
-        "url": "https://open.spotify.com/album/7mddPROCwZWxiYdK1Rpmwr"
-      },
-      "artists": [
-        {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
-        }
-      ],
-      "duration_ms": 177453,
-      "name": "Falso Amor",
-      "url": "https://open.spotify.com/track/29gcpcXiLczD2NJS34YdLg"
     },
     {
       "added_at": "2019-09-04 23:38:38",

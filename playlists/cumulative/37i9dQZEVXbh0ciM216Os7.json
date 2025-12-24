@@ -11790,7 +11790,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-22",
+      "date_removed": null,
       "duration_ms": 162307,
       "name": "Congratulations",
       "url": "https://open.spotify.com/track/1hEBqEGc07Q6ShelO7LFHC"
@@ -11812,7 +11812,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-24",
       "duration_ms": 162307,
       "name": "Congratulations",
       "url": "https://open.spotify.com/track/5XxvmI7iuq5sxLkmddBar1"
@@ -34382,6 +34382,24 @@
       "duration_ms": 206597,
       "name": "Lights Camera Action",
       "url": "https://open.spotify.com/track/7catGSR9PjA4RbprIJEAWS"
+    },
+    {
+      "album": {
+        "name": "Lights, Camera, Action",
+        "url": "https://open.spotify.com/album/1qsrwVKZYjjcxkKq79UiqB"
+      },
+      "artists": [
+        {
+          "name": "Epic Games Music",
+          "url": "https://open.spotify.com/artist/2B9Y810QjgQAOBQtRgFDVb"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177059,
+      "name": "Lights, Camera, Action",
+      "url": "https://open.spotify.com/track/2eXnOjoQA7dTeKd2MByNUO"
     },
     {
       "album": {
@@ -60600,7 +60618,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-24",
       "duration_ms": 185004,
       "name": "Til Its Over",
       "url": "https://open.spotify.com/track/19tUFGOqACklyk4J1DvnSo"

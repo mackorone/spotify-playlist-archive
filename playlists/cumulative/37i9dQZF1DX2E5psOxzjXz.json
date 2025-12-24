@@ -2601,6 +2601,28 @@
     },
     {
       "album": {
+        "name": "Fuzool",
+        "url": "https://open.spotify.com/album/4g3ppCmzoFtSfmL5cCM2iL"
+      },
+      "artists": [
+        {
+          "name": "Raamiz Rizvi",
+          "url": "https://open.spotify.com/artist/34dLN7dVpBtsXn0yDQoZtg"
+        },
+        {
+          "name": "Zaphixx",
+          "url": "https://open.spotify.com/artist/6lCX5UL3OnSnZIW0vt2j5m"
+        }
+      ],
+      "date_added": "2025-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135791,
+      "name": "Fuzool",
+      "url": "https://open.spotify.com/track/7Bmrm4DU6AD86HnebNaAPY"
+    },
+    {
+      "album": {
         "name": "Gawara",
         "url": "https://open.spotify.com/album/7cEtQI6vTHbXbrRNWDKqdd"
       },
@@ -5952,7 +5974,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-24",
       "duration_ms": 195865,
       "name": "Promises",
       "url": "https://open.spotify.com/track/5Y3OxkwWPuFZc5rRoJE45A"

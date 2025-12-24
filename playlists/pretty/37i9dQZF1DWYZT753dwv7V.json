@@ -1,6 +1,6 @@
 {
   "description": "I pi\u00f9 grandi successi della storia del festival \ud83c\udfc6 ",
-  "num_followers": 101513,
+  "num_followers": 101515,
   "original_name": "Sanremo: La Storia",
   "owner": {
     "name": "Spotify",
@@ -399,6 +399,22 @@
     {
       "added_at": "2025-02-25 22:08:25",
       "album": {
+        "name": "Cosa rester\u00e0 degli anni 80",
+        "url": "https://open.spotify.com/album/5h1BCrp73i6cymL4ZmEEDa"
+      },
+      "artists": [
+        {
+          "name": "Raf",
+          "url": "https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3"
+        }
+      ],
+      "duration_ms": 312360,
+      "name": "Cosa Rester\u00e0 Degli Anni 80",
+      "url": "https://open.spotify.com/track/5mSnAIQ8LvszjNglBpKzAh"
+    },
+    {
+      "added_at": "2025-02-25 22:08:25",
+      "album": {
         "name": "Vorrei incontrarti fra cent'anni",
         "url": "https://open.spotify.com/album/1WOdMrMh0SxUThs0XM6WP5"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 236560,
       "name": "Vorrei incontrarti fra cent'anni (feat. Tosca)",
       "url": "https://open.spotify.com/track/6Y2tQcPJaknHKY0RLH3jaf"
-    },
-    {
-      "added_at": "2025-02-25 22:08:25",
-      "album": {
-        "name": "Cosa rester\u00e0 degli anni 80",
-        "url": "https://open.spotify.com/album/5h1BCrp73i6cymL4ZmEEDa"
-      },
-      "artists": [
-        {
-          "name": "Raf",
-          "url": "https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3"
-        }
-      ],
-      "duration_ms": 312360,
-      "name": "Cosa Rester\u00e0 Degli Anni 80",
-      "url": "https://open.spotify.com/track/5mSnAIQ8LvszjNglBpKzAh"
     },
     {
       "added_at": "2025-02-25 22:08:25",
@@ -531,22 +531,6 @@
     {
       "added_at": "2025-02-25 22:08:25",
       "album": {
-        "name": "Un giorno di sole - Straordinario",
-        "url": "https://open.spotify.com/album/1gEjYulzKgFxDkf0Ii37cx"
-      },
-      "artists": [
-        {
-          "name": "Chiara Galiazzo",
-          "url": "https://open.spotify.com/artist/5pJV7GdYrjU3zQpxc24kN7"
-        }
-      ],
-      "duration_ms": 190586,
-      "name": "Straordinario",
-      "url": "https://open.spotify.com/track/0UILeV4tZ5W11JngwEY0gD"
-    },
-    {
-      "added_at": "2025-02-25 22:08:25",
-      "album": {
         "name": "NEI SOGNI NESSUNO \u00c8 MONOGAMO",
         "url": "https://open.spotify.com/album/3lWe6FOAIDAOjJoDIzu67e"
       },
@@ -563,18 +547,34 @@
     {
       "added_at": "2025-02-25 22:08:25",
       "album": {
-        "name": "Fai rumore",
-        "url": "https://open.spotify.com/album/3aXHRHTglQaQ1KGtVZlbwQ"
+        "name": "Un giorno di sole - Straordinario",
+        "url": "https://open.spotify.com/album/1gEjYulzKgFxDkf0Ii37cx"
       },
       "artists": [
         {
-          "name": "Diodato",
-          "url": "https://open.spotify.com/artist/2QWrpLRDeBD1NwWAsytBRi"
+          "name": "Chiara Galiazzo",
+          "url": "https://open.spotify.com/artist/5pJV7GdYrjU3zQpxc24kN7"
         }
       ],
-      "duration_ms": 216140,
-      "name": "Fai rumore",
-      "url": "https://open.spotify.com/track/5OaBhC8NjdqDhHF9I6r9lS"
+      "duration_ms": 190586,
+      "name": "Straordinario",
+      "url": "https://open.spotify.com/track/0UILeV4tZ5W11JngwEY0gD"
+    },
+    {
+      "added_at": "2025-02-25 22:08:25",
+      "album": {
+        "name": "SESSO OCCASIONALE",
+        "url": "https://open.spotify.com/album/51lcCxrqnkTxRLbmbL7KX6"
+      },
+      "artists": [
+        {
+          "name": "Tananai",
+          "url": "https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s"
+        }
+      ],
+      "duration_ms": 195923,
+      "name": "SESSO OCCASIONALE",
+      "url": "https://open.spotify.com/track/0Dz9zyx2w3zYtRK6yp3VKD"
     },
     {
       "added_at": "2025-02-25 22:08:25",
@@ -599,18 +599,18 @@
     {
       "added_at": "2025-02-25 22:08:25",
       "album": {
-        "name": "SESSO OCCASIONALE",
-        "url": "https://open.spotify.com/album/51lcCxrqnkTxRLbmbL7KX6"
+        "name": "Fai rumore",
+        "url": "https://open.spotify.com/album/3aXHRHTglQaQ1KGtVZlbwQ"
       },
       "artists": [
         {
-          "name": "Tananai",
-          "url": "https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s"
+          "name": "Diodato",
+          "url": "https://open.spotify.com/artist/2QWrpLRDeBD1NwWAsytBRi"
         }
       ],
-      "duration_ms": 195923,
-      "name": "SESSO OCCASIONALE",
-      "url": "https://open.spotify.com/track/0Dz9zyx2w3zYtRK6yp3VKD"
+      "duration_ms": 216140,
+      "name": "Fai rumore",
+      "url": "https://open.spotify.com/track/5OaBhC8NjdqDhHF9I6r9lS"
     },
     {
       "added_at": "2025-02-25 22:08:25",
@@ -647,18 +647,18 @@
     {
       "added_at": "2025-02-25 22:08:25",
       "album": {
-        "name": "Eros 30 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz"
+        "name": "Fiamme negli occhi",
+        "url": "https://open.spotify.com/album/63QloB2LteDzQMKstFJ3XK"
       },
       "artists": [
         {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+          "name": "Coma_Cose",
+          "url": "https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us"
         }
       ],
-      "duration_ms": 239253,
-      "name": "Adesso tu",
-      "url": "https://open.spotify.com/track/2gq6d9KkrE4RLkjWa3TMVu"
+      "duration_ms": 206001,
+      "name": "Fiamme negli occhi",
+      "url": "https://open.spotify.com/track/5qn15Hs4s26YaNd5UWVe00"
     },
     {
       "added_at": "2025-02-25 22:08:25",
@@ -679,34 +679,18 @@
     {
       "added_at": "2025-02-25 22:08:25",
       "album": {
-        "name": "Fiamme negli occhi",
-        "url": "https://open.spotify.com/album/63QloB2LteDzQMKstFJ3XK"
+        "name": "Eros 30 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz"
       },
       "artists": [
         {
-          "name": "Coma_Cose",
-          "url": "https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us"
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
         }
       ],
-      "duration_ms": 206001,
-      "name": "Fiamme negli occhi",
-      "url": "https://open.spotify.com/track/5qn15Hs4s26YaNd5UWVe00"
-    },
-    {
-      "added_at": "2025-02-25 22:08:25",
-      "album": {
-        "name": "di20are",
-        "url": "https://open.spotify.com/album/6IFEZC3uX47663lqs4TYLy"
-      },
-      "artists": [
-        {
-          "name": "Francesca Michielin",
-          "url": "https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS"
-        }
-      ],
-      "duration_ms": 219933,
-      "name": "Nessun grado di separazione",
-      "url": "https://open.spotify.com/track/6WPDJLHlR2fFXNaRKq0jqm"
+      "duration_ms": 239253,
+      "name": "Adesso tu",
+      "url": "https://open.spotify.com/track/2gq6d9KkrE4RLkjWa3TMVu"
     },
     {
       "added_at": "2025-02-25 22:08:25",
@@ -727,18 +711,34 @@
     {
       "added_at": "2025-02-25 22:08:25",
       "album": {
-        "name": "Eros 30 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz"
+        "name": "di20are",
+        "url": "https://open.spotify.com/album/6IFEZC3uX47663lqs4TYLy"
       },
       "artists": [
         {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+          "name": "Francesca Michielin",
+          "url": "https://open.spotify.com/artist/4jFlmD92WULLlaRS8Cj6QS"
         }
       ],
-      "duration_ms": 223520,
-      "name": "Terra promessa",
-      "url": "https://open.spotify.com/track/7bcHU50mENL3al5DhEJc7J"
+      "duration_ms": 219933,
+      "name": "Nessun grado di separazione",
+      "url": "https://open.spotify.com/track/6WPDJLHlR2fFXNaRKq0jqm"
+    },
+    {
+      "added_at": "2025-02-25 22:08:25",
+      "album": {
+        "name": "Magmamemoria MMXX (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0QMZ4b8IHNqUtBuhlUToZr"
+      },
+      "artists": [
+        {
+          "name": "Levante",
+          "url": "https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G"
+        }
+      ],
+      "duration_ms": 203133,
+      "name": "Tikibombom",
+      "url": "https://open.spotify.com/track/4JNT4VElmvNmJaQUhwPzg9"
     },
     {
       "added_at": "2025-02-25 22:08:25",
@@ -759,34 +759,18 @@
     {
       "added_at": "2025-02-25 22:08:25",
       "album": {
-        "name": "Ornella Vanoni",
-        "url": "https://open.spotify.com/album/4iYQlJ7fVg5kBcJb30CCiR"
+        "name": "Eros 30 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz"
       },
       "artists": [
         {
-          "name": "Ornella Vanoni",
-          "url": "https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv"
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
         }
       ],
-      "duration_ms": 190000,
-      "name": "La musica e' finita",
-      "url": "https://open.spotify.com/track/32qXoBe0jtIaqjd97ofKTo"
-    },
-    {
-      "added_at": "2025-02-25 22:08:25",
-      "album": {
-        "name": "Magmamemoria MMXX (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0QMZ4b8IHNqUtBuhlUToZr"
-      },
-      "artists": [
-        {
-          "name": "Levante",
-          "url": "https://open.spotify.com/artist/5mTg1ztZByLRHsOEtwmT4G"
-        }
-      ],
-      "duration_ms": 203133,
-      "name": "Tikibombom",
-      "url": "https://open.spotify.com/track/4JNT4VElmvNmJaQUhwPzg9"
+      "duration_ms": 223520,
+      "name": "Terra promessa",
+      "url": "https://open.spotify.com/track/7bcHU50mENL3al5DhEJc7J"
     },
     {
       "added_at": "2025-02-25 22:08:25",
@@ -823,6 +807,22 @@
     {
       "added_at": "2025-02-25 22:08:25",
       "album": {
+        "name": "Ornella Vanoni",
+        "url": "https://open.spotify.com/album/4iYQlJ7fVg5kBcJb30CCiR"
+      },
+      "artists": [
+        {
+          "name": "Ornella Vanoni",
+          "url": "https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "La musica e' finita",
+      "url": "https://open.spotify.com/track/32qXoBe0jtIaqjd97ofKTo"
+    },
+    {
+      "added_at": "2025-02-25 22:08:25",
+      "album": {
         "name": "Fiordaliso",
         "url": "https://open.spotify.com/album/3oBdY9Ue7M2VSMrsBfdN6s"
       },
@@ -835,22 +835,6 @@
       "duration_ms": 242613,
       "name": "Non voglio mica la luna",
       "url": "https://open.spotify.com/track/0xZGPXJ0vzeWIcVlwI4jY8"
-    },
-    {
-      "added_at": "2025-02-25 22:08:25",
-      "album": {
-        "name": "Tango (1991 - Remaster)",
-        "url": "https://open.spotify.com/album/6vtR5awftB25quBXs42aA3"
-      },
-      "artists": [
-        {
-          "name": "Matia Bazar",
-          "url": "https://open.spotify.com/artist/449mAbddAC2PAgNM3TLyc5"
-        }
-      ],
-      "duration_ms": 252960,
-      "name": "Vacanze Romane - 1991 Remaster",
-      "url": "https://open.spotify.com/track/4PRdGQsEQeqvfYZTPN6pDC"
     },
     {
       "added_at": "2025-02-25 22:08:25",
@@ -871,18 +855,18 @@
     {
       "added_at": "2025-02-25 22:08:25",
       "album": {
-        "name": "Sulla Mia Pelle",
-        "url": "https://open.spotify.com/album/5iVI155wEcVAS0fa9uLkc3"
+        "name": "Tango (1991 - Remaster)",
+        "url": "https://open.spotify.com/album/6vtR5awftB25quBXs42aA3"
       },
       "artists": [
         {
-          "name": "Noemi",
-          "url": "https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA"
+          "name": "Matia Bazar",
+          "url": "https://open.spotify.com/artist/449mAbddAC2PAgNM3TLyc5"
         }
       ],
-      "duration_ms": 192053,
-      "name": "Per tutta la vita",
-      "url": "https://open.spotify.com/track/6zcEnCS2mCYsv9nL356TYY"
+      "duration_ms": 252960,
+      "name": "Vacanze Romane - 1991 Remaster",
+      "url": "https://open.spotify.com/track/4PRdGQsEQeqvfYZTPN6pDC"
     },
     {
       "added_at": "2025-02-25 22:08:25",
@@ -903,6 +887,22 @@
       "duration_ms": 222666,
       "name": "CHIAMAMI PER NOME",
       "url": "https://open.spotify.com/track/0ZqHo6eTBHUcOVjZzPvftT"
+    },
+    {
+      "added_at": "2025-02-25 22:08:25",
+      "album": {
+        "name": "Sulla Mia Pelle",
+        "url": "https://open.spotify.com/album/5iVI155wEcVAS0fa9uLkc3"
+      },
+      "artists": [
+        {
+          "name": "Noemi",
+          "url": "https://open.spotify.com/artist/62C5P1caRIK12ndTkzNJjA"
+        }
+      ],
+      "duration_ms": 192053,
+      "name": "Per tutta la vita",
+      "url": "https://open.spotify.com/track/6zcEnCS2mCYsv9nL356TYY"
     },
     {
       "added_at": "2025-02-25 22:08:25",
@@ -943,22 +943,6 @@
     {
       "added_at": "2025-02-25 22:08:25",
       "album": {
-        "name": "Canta En Italiano",
-        "url": "https://open.spotify.com/album/3PIns2QvAPHuDZ807zmHJz"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 221865,
-      "name": "Noi Ragazzi Di Oggi",
-      "url": "https://open.spotify.com/track/3nMQMdlNAlPJVwJ6frem76"
-    },
-    {
-      "added_at": "2025-02-25 22:08:25",
-      "album": {
         "name": "1995",
         "url": "https://open.spotify.com/album/0jDgMZrhUnBCPTH0W9sxRD"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 250053,
       "name": "Siamo uguali",
       "url": "https://open.spotify.com/track/1E646EbKhR5pVWZGswXta8"
+    },
+    {
+      "added_at": "2025-02-25 22:08:25",
+      "album": {
+        "name": "Canta En Italiano",
+        "url": "https://open.spotify.com/album/3PIns2QvAPHuDZ807zmHJz"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 221865,
+      "name": "Noi Ragazzi Di Oggi",
+      "url": "https://open.spotify.com/track/3nMQMdlNAlPJVwJ6frem76"
     },
     {
       "added_at": "2025-02-25 22:08:25",
@@ -991,22 +991,6 @@
     {
       "added_at": "2025-02-25 22:08:25",
       "album": {
-        "name": "Dall'altra parte del cancello",
-        "url": "https://open.spotify.com/album/2yG8H5dDpTyb9tcujlNwxw"
-      },
-      "artists": [
-        {
-          "name": "Simone Cristicchi",
-          "url": "https://open.spotify.com/artist/0sqq7uB8agn7oT15sssKRz"
-        }
-      ],
-      "duration_ms": 228240,
-      "name": "Ti regaler\u00f2 una rosa",
-      "url": "https://open.spotify.com/track/52lYqr81fi0H2yVLupzGwy"
-    },
-    {
-      "added_at": "2025-02-25 22:08:25",
-      "album": {
         "name": "My Mamma",
         "url": "https://open.spotify.com/album/6HDpIK6j126R0D5xfbuIDx"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 184311,
       "name": "Ciao Ciao",
       "url": "https://open.spotify.com/track/4nY63p14MsBDJXRRbhFpas"
+    },
+    {
+      "added_at": "2025-02-25 22:08:25",
+      "album": {
+        "name": "Dall'altra parte del cancello",
+        "url": "https://open.spotify.com/album/2yG8H5dDpTyb9tcujlNwxw"
+      },
+      "artists": [
+        {
+          "name": "Simone Cristicchi",
+          "url": "https://open.spotify.com/artist/0sqq7uB8agn7oT15sssKRz"
+        }
+      ],
+      "duration_ms": 228240,
+      "name": "Ti regaler\u00f2 una rosa",
+      "url": "https://open.spotify.com/track/52lYqr81fi0H2yVLupzGwy"
     },
     {
       "added_at": "2025-02-25 22:08:25",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2025-02-25 22:08:25",
       "album": {
-        "name": "Greatest Hits (Le Cose Non Vanno Mai come Credi)",
-        "url": "https://open.spotify.com/album/3PibNS6DdY2iM5xRorGPqm"
-      },
-      "artists": [
-        {
-          "name": "Giorgia",
-          "url": "https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr"
-        }
-      ],
-      "duration_ms": 300040,
-      "name": "Come saprei",
-      "url": "https://open.spotify.com/track/1m9xilREL0BRWpwArPvpec"
-    },
-    {
-      "added_at": "2025-02-25 22:08:25",
-      "album": {
         "name": "Portami via",
         "url": "https://open.spotify.com/album/5OhzRRXrmJVhiSfLY8rxXP"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 196532,
       "name": "Portami via",
       "url": "https://open.spotify.com/track/6nX309LzbDzBrSbimYfSKe"
+    },
+    {
+      "added_at": "2025-02-25 22:08:25",
+      "album": {
+        "name": "Greatest Hits (Le Cose Non Vanno Mai come Credi)",
+        "url": "https://open.spotify.com/album/3PibNS6DdY2iM5xRorGPqm"
+      },
+      "artists": [
+        {
+          "name": "Giorgia",
+          "url": "https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr"
+        }
+      ],
+      "duration_ms": 300040,
+      "name": "Come saprei",
+      "url": "https://open.spotify.com/track/1m9xilREL0BRWpwArPvpec"
     },
     {
       "added_at": "2025-02-25 22:08:25",

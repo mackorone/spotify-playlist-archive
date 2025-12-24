@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 
 > Tune in here for new and current hits in Contemporary Christian music! Cover: Zach Williams
 
-[Spotify](https://open.spotify.com/user/spotify) - 430,989 likes - 79 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 431,063 likes - 79 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 78 | [Something You Can Be Proud Of](https://open.spotify.com/track/678eYcNG8TIiTsXtnKyNHc) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1), [Thunderstorm Artis](https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5), [Kaelob Mecum](https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4) | [Something You Can Be Proud Of](https://open.spotify.com/album/0AAfSkX3bGKPLLRFnRkKkD) | 3:28 |
 | 79 | [Set Me Free](https://open.spotify.com/track/5uYR8Fm4aTxx3zmTy7XJnf) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [Set Me Free](https://open.spotify.com/album/74yVQv7tnnKINqKgYtwRdP) | 3:31 |
 
-Snapshot ID: `AAAAAHKgqCyIU219/J30GXf+6XeOZZHU`
+Snapshot ID: `AAAAAP5Vxmw37g2q1KMyTglkDh384Ikx`

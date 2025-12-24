@@ -497,6 +497,32 @@
     },
     {
       "album": {
+        "name": "Dowland: Lachrimae antiquae",
+        "url": "https://open.spotify.com/album/1lMZfgvg9yuvE2jeKtY7BD"
+      },
+      "artists": [
+        {
+          "name": "John Dowland",
+          "url": "https://open.spotify.com/artist/1mhwtKvBm1ncoOrUtnQUgk"
+        },
+        {
+          "name": "Jupiter",
+          "url": "https://open.spotify.com/artist/3fZW6CQtgSQhNddt8P0QaE"
+        },
+        {
+          "name": "Thomas Dunford",
+          "url": "https://open.spotify.com/artist/7ICHkzLMTkSFuLwyzXI5i1"
+        }
+      ],
+      "date_added": "2025-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266173,
+      "name": "Dowland: Lachrimae, or Seven Tears: No. 2, Lachrimae antiquae",
+      "url": "https://open.spotify.com/track/699A0rZPvtqcbcgIcWX3rU"
+    },
+    {
+      "album": {
         "name": "Ockeghem: Requiem / Missa Fors seulement",
         "url": "https://open.spotify.com/album/5H682IkmG60fK4dgpkoU7l"
       },

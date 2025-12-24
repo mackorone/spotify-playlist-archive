@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WiXBXnxjSY.md) - [plain]
 
 > Dream away with sleep sounds of nature and green noise frequencies \- water, ocean sounds and breaking waves.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,254 likes - 145 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,286 likes - 145 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,7 +131,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WiXBXnxjSY.md) - [plain]
 | 121 | [Serene Cascades \- Green Noise](https://open.spotify.com/track/27bNa1BFv7dhv8SYymo7mY) | [Noise and Nature](https://open.spotify.com/artist/2hcGTRaH2FXoKel4UTGWJ0) | [Green Noise Serenity](https://open.spotify.com/album/0TbYBU4BdPGxRIY0wjyRrt) | 3:16 |
 | 122 | [Green Noise Beside the Waterfall](https://open.spotify.com/track/4qzc7OV8QSLyVQjnL3IfxR) | [HQ\-10](https://open.spotify.com/artist/5BntICoXdAWEKAI8q4KGk5) | [Green Noise Water](https://open.spotify.com/album/52Vave8vTYf9HYcx5jhmnw) | 2:06 |
 | 123 | [Evergreen Haven \- Green Noise](https://open.spotify.com/track/0CuzZcqfCVtGODXUVp6lt1) | [Earthlite](https://open.spotify.com/artist/6Pu5E98JgFYXOEa7qPFX1p) | [Zen Reflections \(Green Noise\)](https://open.spotify.com/album/3cjiDZ5WHoluzZVPjFGXWv) | 14:58 |
-| 124 | [Green Noise Wide Audio Soundscape \(Loopable no fade\)](https://open.spotify.com/track/4zYtsqwVgnyPozgkC30vPW) | [Dream Supplier](https://open.spotify.com/artist/6Cqtx9fpxzggIMuKn0RGCp), [Baby Sleeps](https://open.spotify.com/artist/48zEowASEXWsK6lgP1xotZ), [Background White Noise](https://open.spotify.com/artist/7nixcnKd43u9a29ZMawfnh) | [Best Green Noise For Sleep Or Focus \(Loopable\)](https://open.spotify.com/album/2i25QnGf9BDID3MV2SVoz4) | 2:22 |
+| 124 | [Green Noise Wide Audio Soundscape \(Loopable no fade\)](https://open.spotify.com/track/4zYtsqwVgnyPozgkC30vPW) | [Dream Supplier](https://open.spotify.com/artist/6Cqtx9fpxzggIMuKn0RGCp) | [Best Green Noise For Sleep Or Focus \(Loopable\)](https://open.spotify.com/album/2i25QnGf9BDID3MV2SVoz4) | 2:22 |
 | 125 | [At Peace with Green Noise and Ocean Waves](https://open.spotify.com/track/3G4fm7Tc5tV9Hic85jjUq6) | [Invention of Light](https://open.spotify.com/artist/4xPJreMS73eeI1VNIk0paF) | [Just Green Noise Vol 1: 1 Hour of Seamless Green Noise with Nature Sounds to Relax at Bedtime](https://open.spotify.com/album/4t7WgwTFB4bAAF4nTQJHok) | 2:13 |
 | 126 | [Pure Green Noise](https://open.spotify.com/track/21pgyPZPRk1kGIPgdBulZ2) | [Soothing White Noise for Relaxation](https://open.spotify.com/artist/7ovU9nJ62sM3mWmsa5Wi8L), [White Noise Spa](https://open.spotify.com/artist/2v4Lbdw4AEnnNVVUHi9esf), [Green Noise For Sleep](https://open.spotify.com/artist/38SWhNBDTM7Y2pYFkkKkkz) | [Green Noise](https://open.spotify.com/album/04psKfj74O74LSigijmY49) | 2:37 |
 | 127 | [Relaxing Wide Green Noise Ambience](https://open.spotify.com/track/561ncaCUFlLzmQFOwwtK6Q) | [Green Noise Deep Sleep](https://open.spotify.com/artist/4tns5cCeDNeFVHyediVGSy) | [Green Noise Deep Sleep](https://open.spotify.com/album/56QixlGj8zSI1APM8R0PDn) | 2:00 |

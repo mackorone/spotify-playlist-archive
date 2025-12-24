@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 151527,
+  "num_followers": 151572,
   "original_name": "Fiesta Cristiana",
   "owner": {
     "name": "Spotify",
@@ -683,22 +683,6 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
-        "name": "ANTES ERA NADA",
-        "url": "https://open.spotify.com/album/4iNATMJ7N8yfMlktO9EyxR"
-      },
-      "artists": [
-        {
-          "name": "J Arias",
-          "url": "https://open.spotify.com/artist/12KoDb9Ns560M5AAm6gsym"
-        }
-      ],
-      "duration_ms": 154421,
-      "name": "ANTES ERA NADA",
-      "url": "https://open.spotify.com/track/5pd02zKnN4OU7SnBxiMdgg"
-    },
-    {
-      "added_at": "2025-12-12 22:35:42",
-      "album": {
         "name": "Una Mirada De Fe (Gozo Gozo) [El Gozo Que Tengo Yo]",
         "url": "https://open.spotify.com/album/0G3zB5MTVb6Vez5uvM6qxm"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 206367,
       "name": "Una Mirada De Fe (Gozo Gozo) [El Gozo Que Tengo Yo]",
       "url": "https://open.spotify.com/track/5gehKwEBAof8uV76LHq10s"
+    },
+    {
+      "added_at": "2025-12-12 22:35:42",
+      "album": {
+        "name": "ANTES ERA NADA",
+        "url": "https://open.spotify.com/album/4iNATMJ7N8yfMlktO9EyxR"
+      },
+      "artists": [
+        {
+          "name": "J Arias",
+          "url": "https://open.spotify.com/artist/12KoDb9Ns560M5AAm6gsym"
+        }
+      ],
+      "duration_ms": 154421,
+      "name": "ANTES ERA NADA",
+      "url": "https://open.spotify.com/track/5pd02zKnN4OU7SnBxiMdgg"
     },
     {
       "added_at": "2025-12-12 22:35:42",
@@ -855,6 +855,30 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
+        "name": "Cartelera",
+        "url": "https://open.spotify.com/album/16YrR9ckx8ouuoq7pzOqlF"
+      },
+      "artists": [
+        {
+          "name": "JIMMY ROCK",
+          "url": "https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN"
+        },
+        {
+          "name": "Tommy Royale",
+          "url": "https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs"
+        },
+        {
+          "name": "Itz waidi",
+          "url": "https://open.spotify.com/artist/3nWKHkpIooRuZDrxQt2mJt"
+        }
+      ],
+      "duration_ms": 195121,
+      "name": "Cartelera",
+      "url": "https://open.spotify.com/track/3uvhWYdSLmUjoqfhxPSwO2"
+    },
+    {
+      "added_at": "2025-12-12 22:35:42",
+      "album": {
         "name": "Segunda Vida",
         "url": "https://open.spotify.com/album/5XhOLta7Q4evQTW5Qch7gD"
       },
@@ -879,30 +903,6 @@
       "duration_ms": 157168,
       "name": "Segunda Vida",
       "url": "https://open.spotify.com/track/16Bymand7zSCjsosLFdkTv"
-    },
-    {
-      "added_at": "2025-12-12 22:35:42",
-      "album": {
-        "name": "Cartelera",
-        "url": "https://open.spotify.com/album/16YrR9ckx8ouuoq7pzOqlF"
-      },
-      "artists": [
-        {
-          "name": "JIMMY ROCK",
-          "url": "https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN"
-        },
-        {
-          "name": "Tommy Royale",
-          "url": "https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs"
-        },
-        {
-          "name": "Itz waidi",
-          "url": "https://open.spotify.com/artist/3nWKHkpIooRuZDrxQt2mJt"
-        }
-      ],
-      "duration_ms": 195121,
-      "name": "Cartelera",
-      "url": "https://open.spotify.com/track/3uvhWYdSLmUjoqfhxPSwO2"
     },
     {
       "added_at": "2025-12-12 22:35:42",
@@ -939,6 +939,22 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
+        "name": "Esencia",
+        "url": "https://open.spotify.com/album/2PiqQiq61HCKiK0LPzdptP"
+      },
+      "artists": [
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        }
+      ],
+      "duration_ms": 291112,
+      "name": "Veo Tu Gloria",
+      "url": "https://open.spotify.com/track/3pGNiO4xjjVJi2ycTqrLiB"
+    },
+    {
+      "added_at": "2025-12-12 22:35:42",
+      "album": {
         "name": "Oro",
         "url": "https://open.spotify.com/album/3Dvdnm4MB1ZvZwEtRAjpSc"
       },
@@ -959,22 +975,6 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
-        "name": "Esencia",
-        "url": "https://open.spotify.com/album/2PiqQiq61HCKiK0LPzdptP"
-      },
-      "artists": [
-        {
-          "name": "Alex Campos",
-          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
-        }
-      ],
-      "duration_ms": 291112,
-      "name": "Veo Tu Gloria",
-      "url": "https://open.spotify.com/track/3pGNiO4xjjVJi2ycTqrLiB"
-    },
-    {
-      "added_at": "2025-12-12 22:35:42",
-      "album": {
         "name": "The Comeback",
         "url": "https://open.spotify.com/album/6QHrG7LHkxHllhPJWPoler"
       },
@@ -991,22 +991,6 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/3E3UbV8CHRyD25cHZU1dtw"
-      },
-      "artists": [
-        {
-          "name": "ANMILY",
-          "url": "https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT"
-        }
-      ],
-      "duration_ms": 147672,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/0bI1DevumPPMmeTCyfoi6X"
-    },
-    {
-      "added_at": "2025-12-12 22:35:42",
-      "album": {
         "name": "No se Compara",
         "url": "https://open.spotify.com/album/5MioxF7HO3pKJhbdHfu5y4"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 162751,
       "name": "No se Compara",
       "url": "https://open.spotify.com/track/0VGrYOOefuaJSlr0OHmDOR"
+    },
+    {
+      "added_at": "2025-12-12 22:35:42",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/3E3UbV8CHRyD25cHZU1dtw"
+      },
+      "artists": [
+        {
+          "name": "ANMILY",
+          "url": "https://open.spotify.com/artist/1lrVxCIGcyqltmJ7hUdNmT"
+        }
+      ],
+      "duration_ms": 147672,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/0bI1DevumPPMmeTCyfoi6X"
     },
     {
       "added_at": "2025-12-12 22:35:42",
@@ -1147,26 +1147,6 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
-        "name": "Probar de Ti",
-        "url": "https://open.spotify.com/album/1lLEMRz0K45OG2SOGTKjfe"
-      },
-      "artists": [
-        {
-          "name": "Samuel Troc",
-          "url": "https://open.spotify.com/artist/27ulglTuwRXeQsKTNbUVe8"
-        },
-        {
-          "name": "Art Aguilera",
-          "url": "https://open.spotify.com/artist/6pQ4IIxtXkJpN1wwuYZjTn"
-        }
-      ],
-      "duration_ms": 153366,
-      "name": "Probar de Ti",
-      "url": "https://open.spotify.com/track/2p2qsi2FkSPk51Smr5w8ZQ"
-    },
-    {
-      "added_at": "2025-12-12 22:35:42",
-      "album": {
         "name": "SMC",
         "url": "https://open.spotify.com/album/64cOmXs4LduN3vgXiUnNrn"
       },
@@ -1183,6 +1163,26 @@
       "duration_ms": 163200,
       "name": "SMC",
       "url": "https://open.spotify.com/track/53Rb7O0Khyu3n0yx9kgHpk"
+    },
+    {
+      "added_at": "2025-12-12 22:35:42",
+      "album": {
+        "name": "Probar de Ti",
+        "url": "https://open.spotify.com/album/1lLEMRz0K45OG2SOGTKjfe"
+      },
+      "artists": [
+        {
+          "name": "Samuel Troc",
+          "url": "https://open.spotify.com/artist/27ulglTuwRXeQsKTNbUVe8"
+        },
+        {
+          "name": "Art Aguilera",
+          "url": "https://open.spotify.com/artist/6pQ4IIxtXkJpN1wwuYZjTn"
+        }
+      ],
+      "duration_ms": 153366,
+      "name": "Probar de Ti",
+      "url": "https://open.spotify.com/track/2p2qsi2FkSPk51Smr5w8ZQ"
     },
     {
       "added_at": "2025-12-12 22:35:42",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
+        "name": "Suficiente",
+        "url": "https://open.spotify.com/album/0xugX9c8krsVGemwo5fZCl"
+      },
+      "artists": [
+        {
+          "name": "Eiem",
+          "url": "https://open.spotify.com/artist/3skX5VEODnCsS8rlpSHS5i"
+        }
+      ],
+      "duration_ms": 158666,
+      "name": "Suficiente",
+      "url": "https://open.spotify.com/track/1su2EllVrJhZ9jOM3r2eHP"
+    },
+    {
+      "added_at": "2025-12-12 22:35:42",
+      "album": {
         "name": "Un Gran Dia",
         "url": "https://open.spotify.com/album/353SIr2Ugbnl5727ineTTW"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 202857,
       "name": "Celebra",
       "url": "https://open.spotify.com/track/6nsJltwyoWtyVAvBP1UhL6"
-    },
-    {
-      "added_at": "2025-12-12 22:35:42",
-      "album": {
-        "name": "Suficiente",
-        "url": "https://open.spotify.com/album/0xugX9c8krsVGemwo5fZCl"
-      },
-      "artists": [
-        {
-          "name": "Eiem",
-          "url": "https://open.spotify.com/artist/3skX5VEODnCsS8rlpSHS5i"
-        }
-      ],
-      "duration_ms": 158666,
-      "name": "Suficiente",
-      "url": "https://open.spotify.com/track/1su2EllVrJhZ9jOM3r2eHP"
     },
     {
       "added_at": "2025-12-12 22:35:42",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
-        "name": "Tu Luz",
-        "url": "https://open.spotify.com/album/0L3vH9q7z4R1c7LaVs9bDC"
-      },
-      "artists": [
-        {
-          "name": "Odanis BSK",
-          "url": "https://open.spotify.com/artist/2equ79Fk9Rj9vmQsuJpIJ9"
-        }
-      ],
-      "duration_ms": 169146,
-      "name": "Tu Luz",
-      "url": "https://open.spotify.com/track/4lEtb16YCHqT3NTxuZ1rzk"
-    },
-    {
-      "added_at": "2025-12-12 22:35:42",
-      "album": {
         "name": "Mes\u00edas",
         "url": "https://open.spotify.com/album/12BvE1GGcyRtn36KlstuYW"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 324017,
       "name": "Mes\u00edas",
       "url": "https://open.spotify.com/track/2i0aHf1chYGjmpZuERxji9"
+    },
+    {
+      "added_at": "2025-12-12 22:35:42",
+      "album": {
+        "name": "Tu Luz",
+        "url": "https://open.spotify.com/album/0L3vH9q7z4R1c7LaVs9bDC"
+      },
+      "artists": [
+        {
+          "name": "Odanis BSK",
+          "url": "https://open.spotify.com/artist/2equ79Fk9Rj9vmQsuJpIJ9"
+        }
+      ],
+      "duration_ms": 169146,
+      "name": "Tu Luz",
+      "url": "https://open.spotify.com/track/4lEtb16YCHqT3NTxuZ1rzk"
     },
     {
       "added_at": "2025-12-12 22:35:42",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
-        "name": "Te Amo",
-        "url": "https://open.spotify.com/album/5bRt0Q9XzFfH0q2yP4Strp"
-      },
-      "artists": [
-        {
-          "name": "LifeBanda",
-          "url": "https://open.spotify.com/artist/5ZuEEy60Q2rXIQX20efDHz"
-        }
-      ],
-      "duration_ms": 238695,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/7HDUI7VVymoTl6EHmD3jNp"
-    },
-    {
-      "added_at": "2025-12-12 22:35:42",
-      "album": {
         "name": "Lo Mejor De La Vida (Cumbia Remix)",
         "url": "https://open.spotify.com/album/0BL7USChao0tMiffVUpQYC"
       },
@@ -1699,18 +1683,18 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
-        "name": "Abba Padre",
-        "url": "https://open.spotify.com/album/3cjtaBP6IH96lCKnrqSjWQ"
+        "name": "Te Amo",
+        "url": "https://open.spotify.com/album/5bRt0Q9XzFfH0q2yP4Strp"
       },
       "artists": [
         {
-          "name": "Peter Metivier",
-          "url": "https://open.spotify.com/artist/1dRxdmjynLZ3uWalEN5wrg"
+          "name": "LifeBanda",
+          "url": "https://open.spotify.com/artist/5ZuEEy60Q2rXIQX20efDHz"
         }
       ],
-      "duration_ms": 131652,
-      "name": "Abba Padre",
-      "url": "https://open.spotify.com/track/2qonJ9GiHJUOug8pNhHPf2"
+      "duration_ms": 238695,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/7HDUI7VVymoTl6EHmD3jNp"
     },
     {
       "added_at": "2025-12-12 22:35:42",
@@ -1727,6 +1711,22 @@
       "duration_ms": 203271,
       "name": "Amor Verdadero",
       "url": "https://open.spotify.com/track/5GaTSuFjrK02ITDsNYoCNL"
+    },
+    {
+      "added_at": "2025-12-12 22:35:42",
+      "album": {
+        "name": "Abba Padre",
+        "url": "https://open.spotify.com/album/3cjtaBP6IH96lCKnrqSjWQ"
+      },
+      "artists": [
+        {
+          "name": "Peter Metivier",
+          "url": "https://open.spotify.com/artist/1dRxdmjynLZ3uWalEN5wrg"
+        }
+      ],
+      "duration_ms": 131652,
+      "name": "Abba Padre",
+      "url": "https://open.spotify.com/track/2qonJ9GiHJUOug8pNhHPf2"
     },
     {
       "added_at": "2025-12-12 22:35:42",
@@ -1851,22 +1851,26 @@
     {
       "added_at": "2025-12-12 22:35:42",
       "album": {
-        "name": "Fiesta En El Cielo",
-        "url": "https://open.spotify.com/album/6cvwD6EYJWcwoUO6bNFEU6"
+        "name": "Volver\u00e1",
+        "url": "https://open.spotify.com/album/7DRNG9t5bs1NS2DQjvPTm7"
       },
       "artists": [
         {
-          "name": "Yompy",
-          "url": "https://open.spotify.com/artist/4do7ZNZPgNng5V5zyKXcqY"
+          "name": "Maca Andres",
+          "url": "https://open.spotify.com/artist/3qsdKtayHSK4rFC0sBymj7"
         },
         {
-          "name": "David Ordo\u00f1ez",
-          "url": "https://open.spotify.com/artist/2ObAn94Bm0Q9cSyryDKVI0"
+          "name": "Belu Rodriguez Kuhn",
+          "url": "https://open.spotify.com/artist/4bl02S6pPimhORndqVx5bN"
+        },
+        {
+          "name": "Snail Lake",
+          "url": "https://open.spotify.com/artist/4ykoG2iZk0tSbojpH88lSP"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Fiesta En El Cielo",
-      "url": "https://open.spotify.com/track/7lqCftrOWY6tGbhuJfAUNI"
+      "duration_ms": 168000,
+      "name": "Volver\u00e1",
+      "url": "https://open.spotify.com/track/2qGxIyNElbwwmdgovGPXFQ"
     }
   ],
   "unique_name": "Fiesta Cristiana",

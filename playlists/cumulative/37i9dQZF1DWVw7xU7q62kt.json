@@ -2013,6 +2013,24 @@
     },
     {
       "album": {
+        "name": "Coccinelle (Jazz Flute Remix)",
+        "url": "https://open.spotify.com/album/1v5ykvnfObrl91NzfIhaN6"
+      },
+      "artists": [
+        {
+          "name": "paris91",
+          "url": "https://open.spotify.com/artist/0IF1xUEFhGXZ7zz8BW1zqv"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137647,
+      "name": "Coccinelle - Jazz Flute Remix",
+      "url": "https://open.spotify.com/track/5DAVUp6fOKck65vSmGLvEC"
+    },
+    {
+      "album": {
         "name": "Cocktail Please",
         "url": "https://open.spotify.com/album/2T4bG7choP5ph9yf7kL5pO"
       },
@@ -8118,7 +8136,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-24",
       "duration_ms": 124782,
       "name": "mooncircle",
       "url": "https://open.spotify.com/track/5r3Sg4xhb0Ww8Amyx8ztla"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover:楊子平 \(CAsPER\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,031 likes - 132 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,040 likes - 132 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

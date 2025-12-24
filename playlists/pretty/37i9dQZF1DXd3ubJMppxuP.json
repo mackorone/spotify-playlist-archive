@@ -1,6 +1,6 @@
 {
   "description": "Hardstyle in het Nederlands. Feest!",
-  "num_followers": 85242,
+  "num_followers": 85256,
   "original_name": "Nederlandse Hardstyle",
   "owner": {
     "name": "Spotify",
@@ -939,26 +939,6 @@
     {
       "added_at": "2025-10-21 11:57:23",
       "album": {
-        "name": "Pizza Met Ananas (Outsiders Remix)",
-        "url": "https://open.spotify.com/album/1i075YeOWzOZLW3vNVhP0v"
-      },
-      "artists": [
-        {
-          "name": "Snelle",
-          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
-        },
-        {
-          "name": "Outsiders",
-          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
-        }
-      ],
-      "duration_ms": 184329,
-      "name": "Pizza Met Ananas - Outsiders Remix",
-      "url": "https://open.spotify.com/track/4fFtFlbyZWo6h94v035TNu"
-    },
-    {
-      "added_at": "2025-10-21 11:57:23",
-      "album": {
         "name": "Party All Night (Facking Feestje)",
         "url": "https://open.spotify.com/album/4vHJ9idSm97AgY9FUY5bvl"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 215612,
       "name": "Allez Allez Allez - Original Mix",
       "url": "https://open.spotify.com/track/6h8Ycc0BdpEE0FkbRPygs3"
+    },
+    {
+      "added_at": "2025-10-21 11:57:23",
+      "album": {
+        "name": "Pizza Met Ananas (Outsiders Remix)",
+        "url": "https://open.spotify.com/album/1i075YeOWzOZLW3vNVhP0v"
+      },
+      "artists": [
+        {
+          "name": "Snelle",
+          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
+        },
+        {
+          "name": "Outsiders",
+          "url": "https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf"
+        }
+      ],
+      "duration_ms": 184329,
+      "name": "Pizza Met Ananas - Outsiders Remix",
+      "url": "https://open.spotify.com/track/4fFtFlbyZWo6h94v035TNu"
     },
     {
       "added_at": "2025-10-21 11:57:23",

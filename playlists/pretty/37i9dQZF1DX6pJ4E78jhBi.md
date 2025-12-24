@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pJ4E78jhBi.md) - [plain]
 
 > Relax to these chilled instrumental Christmas tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,069 likes - 85 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,109 likes - 85 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pJ4E78jhBi.md) - [plain]
 | 8 | [White Christmas \(Arr\. Simon for Piano\)](https://open.spotify.com/track/5f4GJbioPtRZlhDzZXUwS7) | [Carlos Simon](https://open.spotify.com/artist/25U2MSksQUgokSJw5snr9G) | [Christmas](https://open.spotify.com/album/2twQ4SgW9167opaH0oVI6F) | 3:50 |
 | 9 | [Christmas Time Is Here \(arr\. piano\)](https://open.spotify.com/track/4IGPENN8Ou2Q4MFbXKwt8l) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Carol of the Bells \(arr\. piano\) / Christmas Time Is Here \(arr\. piano\)](https://open.spotify.com/album/5vYP61VuwDOFaqRfUtrhf7) | 6:54 |
 | 10 | [What Child Is This?](https://open.spotify.com/track/23zCWNIS8w4Bhi9Es2E5uh) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [A Solo Piano Christmas](https://open.spotify.com/album/2bG3qQqkhWssPLeGtEwvzY) | 4:18 |
-| 11 | [Ding Dong! Merrily On High](https://open.spotify.com/track/178mJsWUVxP0mU1i267i5V) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Nigel Hess](https://open.spotify.com/artist/6Yfm54ap3yAaipvsCodUbx) | [Silent Nights](https://open.spotify.com/album/6vjr6L0QWJ75MJXsctvx0C) | 4:28 |
-| 12 | [Little Drummer Boy](https://open.spotify.com/track/71fuIOcYPgyest4A23CZE8) | [Jeroen Granneman](https://open.spotify.com/artist/1R0UpoenE1gqapaTNm9d0f) | [Little Drummer Boy](https://open.spotify.com/album/41wKlvhpepTse39S4G8cKb) | 2:22 |
+| 11 | [Little Drummer Boy](https://open.spotify.com/track/71fuIOcYPgyest4A23CZE8) | [Jeroen Granneman](https://open.spotify.com/artist/1R0UpoenE1gqapaTNm9d0f) | [Little Drummer Boy](https://open.spotify.com/album/41wKlvhpepTse39S4G8cKb) | 2:22 |
+| 12 | [Ding Dong! Merrily On High](https://open.spotify.com/track/178mJsWUVxP0mU1i267i5V) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1), [Nigel Hess](https://open.spotify.com/artist/6Yfm54ap3yAaipvsCodUbx) | [Silent Nights](https://open.spotify.com/album/6vjr6L0QWJ75MJXsctvx0C) | 4:28 |
 | 13 | [River \(It's Coming On Christmas\)](https://open.spotify.com/track/3CQRItEPfTkBTbr6QJoY8n) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [River \(It's Coming On Christmas\)](https://open.spotify.com/album/6yVzXPP3unDEJcb2OKxhuA) | 2:42 |
 | 14 | [Coventry Carol \(Arr\. Rimmer for Saxophone & Ensemble\)](https://open.spotify.com/track/2Xz8LeqEjByQxWSlOFBh8j) | [Jess Gillam](https://open.spotify.com/artist/41OHse5xHr1E6wceODGrPB), [Jess Gillam Ensemble](https://open.spotify.com/artist/6W0o59oeiRlY0XSViV604c) | [Coventry Carol \(Arr\. Rimmer for Saxophone & Ensemble\)](https://open.spotify.com/album/4m4rA7BxQxX28yOAQVg3Pq) | 2:13 |
 | 15 | [Once in Royal David's City \(Arr\. Gjeilo for Piano\)](https://open.spotify.com/track/13sKQQlXJEl5mLsxmfF4jA) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [Cozy Winter](https://open.spotify.com/album/7cTitLE9bGWbvhczWrNgF7) | 2:17 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pJ4E78jhBi.md) - [plain]
 | 84 | [Mary Did You Know](https://open.spotify.com/track/2HcxvRjvlLljVM3OeBf38i) | [Allen & Bright](https://open.spotify.com/artist/4hf2dZmXqgZML1pmYbvf4y) | [Mary Did You Know](https://open.spotify.com/album/6M3lgoMX2Bv7BbFWZD95PE) | 3:49 |
 | 85 | [White Christmas](https://open.spotify.com/track/6zrXZLbL6gPCVLeodyN0bd) | [Beegie Adair](https://open.spotify.com/artist/5gYIhpLwCYoxh3V8KANZpI), [David Davidson](https://open.spotify.com/artist/7aKDD7HslHdPuVECyvMqcI) | [Christmas Elegance: Elegant Holiday Instrumentals Featuring Piano And Violin](https://open.spotify.com/album/59iScT5hI7Gi59PE79QnHC) | 4:09 |
 
-Snapshot ID: `AAAAAABe5J1u/NY/0j+92EaoAjvxmuJt`
+Snapshot ID: `AAAAABfGTMtuhlXQkSQglHZTT1hICNAd`

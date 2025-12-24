@@ -1,12 +1,12 @@
 {
   "description": "This is Jessie Murph. The essential tracks, all in one playlist.",
-  "num_followers": 52829,
+  "num_followers": 52881,
   "original_name": "This Is Jessie Murph",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUc4gAAAAAARC2K5JRVMBK9DmIvHoMiy",
+  "snapshot_id": "aUiKAAAAAABql9M6w1WThzMngYrxRJn3",
   "tracks": [
     {
       "added_at": null,
@@ -63,26 +63,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TAKE CARE (DELUXE)",
-        "url": "https://open.spotify.com/album/1XZtc4PTKO10b6B3vjwbWs"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        }
-      ],
-      "duration_ms": 177013,
-      "name": "Holy Ground (feat. Jessie Murph)",
-      "url": "https://open.spotify.com/track/7qt0XTMXLCszM1p5jcZhej"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "That Ain't No Man That's The Devil",
         "url": "https://open.spotify.com/album/4BnCr0behKaGscMMhpiHX7"
       },
@@ -99,6 +79,26 @@
       "duration_ms": 141367,
       "name": "Wild Ones (feat. Jelly Roll)",
       "url": "https://open.spotify.com/track/0kE09o4Jdeu7vqjmkV1YJP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TAKE CARE (DELUXE)",
+        "url": "https://open.spotify.com/album/1XZtc4PTKO10b6B3vjwbWs"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 177013,
+      "name": "Holy Ground (feat. Jessie Murph)",
+      "url": "https://open.spotify.com/track/7qt0XTMXLCszM1p5jcZhej"
     },
     {
       "added_at": null,
@@ -230,11 +230,15 @@
         {
           "name": "Jessie Murph",
           "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
         }
       ],
-      "duration_ms": 177601,
-      "name": "I Stay I Leave I Love I Lose",
-      "url": "https://open.spotify.com/track/3NlJEfRVcKNXr44ql6Qn7K"
+      "duration_ms": 192416,
+      "name": "Forever (feat. 6LACK)",
+      "url": "https://open.spotify.com/track/5YgLr3Hn1JwngvChsXdJGH"
     },
     {
       "added_at": null,
@@ -298,15 +302,11 @@
         {
           "name": "Jessie Murph",
           "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        },
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
         }
       ],
-      "duration_ms": 192416,
-      "name": "Forever (feat. 6LACK)",
-      "url": "https://open.spotify.com/track/5YgLr3Hn1JwngvChsXdJGH"
+      "duration_ms": 177601,
+      "name": "I Stay I Leave I Love I Lose",
+      "url": "https://open.spotify.com/track/3NlJEfRVcKNXr44ql6Qn7K"
     },
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "When I'm Not Around",
-        "url": "https://open.spotify.com/album/7xtZSKGsF3f4QagaNjaGKz"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        }
-      ],
-      "duration_ms": 201310,
-      "name": "When I'm Not Around",
-      "url": "https://open.spotify.com/track/2NIYKZkwuDKylxcGja4fAe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hallelujah (Live from iHeartRadio Jingle Ball 2025)",
         "url": "https://open.spotify.com/album/5XfFF0K1TKYL5zPJe35o6P"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 147537,
       "name": "Hallelujah - Live from iHeartRadio Jingle Ball 2025",
       "url": "https://open.spotify.com/track/2bkvjkSYwP90FR0HDFCWcQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "When I'm Not Around",
+        "url": "https://open.spotify.com/album/7xtZSKGsF3f4QagaNjaGKz"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 201310,
+      "name": "When I'm Not Around",
+      "url": "https://open.spotify.com/track/2NIYKZkwuDKylxcGja4fAe"
     },
     {
       "added_at": null,

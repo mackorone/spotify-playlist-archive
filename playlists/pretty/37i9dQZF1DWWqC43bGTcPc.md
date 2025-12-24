@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 
 > 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: 冰球樂團 \(icyball\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 508,971 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 508,981 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 | 41 | [給我一支舞的時間](https://open.spotify.com/track/1gRipfNXBzH6NeAMvDCuUG) | [E1and](https://open.spotify.com/artist/2DV0CXWV5eMJlEmT1jYJwa) | [給我一支舞的時間](https://open.spotify.com/album/1yjQxzd6YjofGhkGWUIoi5) | 3:03 |
 | 42 | [像煙火愛過](https://open.spotify.com/track/5HvQMAn35HYVHvXgs7BNIz) | [單依純](https://open.spotify.com/artist/7rXM91kSsqGzvYANukdQJD) | [許我耀眼 影視原聲帶](https://open.spotify.com/album/0ukXCOvwWjYvfmkNE8YobU) | 4:17 |
 | 43 | [瞬間的遠方 \- 電影《那張照片裡的我們》插曲](https://open.spotify.com/track/3jdI3RxzDNAzacMm1WHWss) | [宋柏緯](https://open.spotify.com/artist/1LWJ9mrDCPd3HB2Kp1RDXK) | [瞬間的遠方 \(電影《那張照片裡的我們》插曲\)](https://open.spotify.com/album/0TSssBL1s0kq5vwDo7zwML) | 3:42 |
-| 44 | [卻還是說了再見 \(feat\. Ace\)](https://open.spotify.com/track/4viNW9UkvsftFBLpf2sb9R) | [8lak 張鈞](https://open.spotify.com/artist/5XV6qqcjxpGfkWv72sOTMq), [Ace](https://open.spotify.com/artist/13jNwSdQV837VJRwD04XF6) | [卻還是說了再見 \(feat\. Ace\)](https://open.spotify.com/album/14wOSxClUPkcVPhuWbWINM) | 3:32 |
+| 44 | [卻還是說了再見 \(feat\. Ace\)](https://open.spotify.com/track/4viNW9UkvsftFBLpf2sb9R) | [8lak](https://open.spotify.com/artist/08MxYfoyNQpx314MAppI8w), [Ace](https://open.spotify.com/artist/13jNwSdQV837VJRwD04XF6) | [卻還是說了再見 \(feat\. Ace\)](https://open.spotify.com/album/14wOSxClUPkcVPhuWbWINM) | 3:32 |
 | 45 | [願你愛自己，像我愛你一樣](https://open.spotify.com/track/0xme1uL6BTAkjQdHGW66aA) | [Crispy脆樂團](https://open.spotify.com/artist/5AO5nzx14PfLNfVgYVd0rw) | [願你愛自己，像我愛你一樣](https://open.spotify.com/album/4JLYwZPpbZandgmxR4GYYT) | 4:24 |
 | 46 | [孤單北半球 \- 滾石撞樂隊2 \(原唱:林依晨\)](https://open.spotify.com/track/3L6xFIfkPyjXdBB6CDC0ur) | [PA PUN BAND](https://open.spotify.com/artist/0jz8mea3EKbqvOxZY6skBz) | [滾石撞樂隊2 \- 孤單北半球](https://open.spotify.com/album/3axDHT082RaLYhNDIcZ9xf) | 2:54 |
 | 47 | [一点点（为什么晚上总是有星星）](https://open.spotify.com/track/6mhOFESwSNssGppl5WbfV5) | [董唧唧](https://open.spotify.com/artist/0QwmLQKOeZobacsipWWvrT), [芊芊龍](https://open.spotify.com/artist/0nx6F0kN4McqlL648nTF4V) | [一点点（为什么晚上总是有星星）](https://open.spotify.com/album/6iHX6DiVHcRSsHHxTUKVA5) | 2:57 |

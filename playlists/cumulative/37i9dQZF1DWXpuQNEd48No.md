@@ -4,7 +4,7 @@
 
 > Best of Haryanvi Hip\-Hop! Cover: The LeKhak
 
-522 songs - 1 day 2 hr 27 min
+523 songs - 1 day 2 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -310,7 +310,7 @@
 | [Lal Dabbi](https://open.spotify.com/track/5DKyVzIjrD99sb4i1gp3bh) | [Amanraj Gill](https://open.spotify.com/artist/07hzX8SH6CEg7B2yl4hoKs), [Bulbul](https://open.spotify.com/artist/1xFXeCGBk96SDtK0TmDolR) | [Lal Dabbi](https://open.spotify.com/album/5D3nsWdMjguRgVKibtbVFi) | 3:04 | 2023-11-06 | 2024-04-10 |
 | [Lal Dabbi](https://open.spotify.com/track/5QLfwWCGw6u3ZfTe0hQur8) | [Amanraj Gill](https://open.spotify.com/artist/07hzX8SH6CEg7B2yl4hoKs), [Bulbul](https://open.spotify.com/artist/6wmebcPt18hHbgbyniTBmo) | [Lal Dabbi](https://open.spotify.com/album/5ZjswUmFtP0wSs10RYmdkM) | 3:04 | 2024-04-18 |  |
 | [Lath](https://open.spotify.com/track/5qiqDTdWfqwOX4pyPxPmSy) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck), [Addy Nagar](https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5) | [Lath](https://open.spotify.com/album/1ywwM0y7s8IAhSuePlvvqf) | 3:12 | 2025-05-09 |  |
-| [Leher](https://open.spotify.com/track/1j5lgTjndlBJ0AxFFXBW2v) | [R Cruze](https://open.spotify.com/artist/3KvTpIp5PcyoMTKRmi2H4s), [AN1K8T](https://open.spotify.com/artist/5l6xz8pt97llr2djkMdPc6) | [Always On](https://open.spotify.com/album/4o33a4tRo3BC2L5g7dfuKa) | 3:19 | 2025-08-05 |  |
+| [Leher](https://open.spotify.com/track/1j5lgTjndlBJ0AxFFXBW2v) | [R Cruze](https://open.spotify.com/artist/3KvTpIp5PcyoMTKRmi2H4s), [AN1K8T](https://open.spotify.com/artist/5l6xz8pt97llr2djkMdPc6) | [Always On](https://open.spotify.com/album/4o33a4tRo3BC2L5g7dfuKa) | 3:19 | 2025-08-05 | 2025-12-24 |
 | [Lemme Know](https://open.spotify.com/track/4YU9SN7GT4cAZPjSdhjnKo) | [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [Lemme Know](https://open.spotify.com/album/1JJKTzJOd3yIBobyq2ktLJ) | 3:41 | 2024-04-24 | 2025-01-11 |
 | [LET IT BE](https://open.spotify.com/track/4WYgeBtwBOhhFHtQHvAKkW) | [FEROZI](https://open.spotify.com/artist/7MlaJqW5l4zH0FF5OyaZK8), [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [ZeroToOne](https://open.spotify.com/artist/1SzCp8v0seFsO2KFHpzLVY) | [FEROZI: THE ARRIVAL](https://open.spotify.com/album/05o5qqqHrp24cY3x6kVl0l) | 3:36 | 2025-01-31 | 2025-03-01 |
 | [LET'S GO](https://open.spotify.com/track/7npWm76hGrT7T1XbB5pHNz) | [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [CHILL MODE](https://open.spotify.com/album/2uTPI54D3ApV52k0PsxDQe) | 2:54 | 2025-11-18 | 2025-12-03 |
@@ -358,6 +358,7 @@
 | [Nakhrala Reloaded](https://open.spotify.com/track/3gmjxxXzNjtGK2NebRGZSI) | [Dishank Sharma](https://open.spotify.com/artist/3UO14Y2A84WsxyqnXLRv85), [Jaga Beats](https://open.spotify.com/artist/7BGsbHIkvuabdKgJVlUH1B) | [Nakhrala Reloaded](https://open.spotify.com/album/43XncJc4Evi1McrjAG82Op) | 2:34 | 2025-01-31 | 2025-04-09 |
 | [NANA NANA](https://open.spotify.com/track/02kpRLkAifubwinL5NGMAa) | [Krackerr](https://open.spotify.com/artist/2U0uKstdi6uiiPCjYL0Dm9), [Komal Choudhary](https://open.spotify.com/artist/42TuhqUBzIpywk1h4QlUyT) | [NANA NANA](https://open.spotify.com/album/5OQwFjDhsHg0M7CuP82jSG) | 2:48 | 2024-06-13 | 2024-09-07 |
 | [Nature](https://open.spotify.com/track/7suBMs3Cb9lMTSnJncc7cC) | [Kabira](https://open.spotify.com/artist/75BrljVmqRx34PtL0O8qxa), [NJ Nindaniya](https://open.spotify.com/artist/1YDHNg4ktw5sY6bLsZ2L4V) | [Nature](https://open.spotify.com/album/1RBHpREFfZemn6f2aXfrQh) | 3:28 | 2023-03-28 | 2024-04-19 |
+| [Nazra Ke Teer](https://open.spotify.com/track/1IQigeqI67gdhS8MSHfpNC) | [RB Gujjar](https://open.spotify.com/artist/2scdOxmJM6OYHj16gjaEl0) | [Nazra Ke Teer](https://open.spotify.com/album/0StJcGTo4hcghrv5vkWzZw) | 2:22 | 2025-12-23 |  |
 | [NCR Vicee City](https://open.spotify.com/track/53Rn9FrvsAHXGmJIHYrjyb) | [SWOR D](https://open.spotify.com/artist/5qGtd7q6qiif6qoy6xWVCk) | [NCR Vicee City](https://open.spotify.com/album/4h7XXqLdAj7KREp1waOKvO) | 2:35 | 2025-12-09 | 2025-12-20 |
 | [Near By Me](https://open.spotify.com/track/5y8ROfzveFCMOSkkrG3WmU) | [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe), [Kp Kundu](https://open.spotify.com/artist/23l9mH9i8YE46BCdI6isQn) | [Near By Me](https://open.spotify.com/album/6N66GsbNmVVOEvCUWKw68f) | 3:04 | 2024-10-18 | 2025-08-27 |
 | [Never Again](https://open.spotify.com/track/4TFuhfk6IxRCGLAY4TVl5M) | [Irshad Khan](https://open.spotify.com/artist/6fzmobEykeKCwfhH6EsZh4) | [Never Again](https://open.spotify.com/album/1nUKyZARW3tn4inBsmdU2q) | 3:12 | 2024-07-03 | 2024-08-31 |

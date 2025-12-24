@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2SDPTiDbwL.md) - [plain]
 
 > El precioso sonido de la guitarra flamenca, perfecto para evadirte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,928 likes - 75 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,953 likes - 75 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,12 +16,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2SDPTiDbwL.md) - [plain]
 | 6 | [I Found the Day](https://open.spotify.com/track/50jkiTxHbEAi2h9wOZVbgE) | [Carl Fletcher](https://open.spotify.com/artist/6MJVrtr9vMYLrCv6y0ypzK) | [I Found the Day](https://open.spotify.com/album/3oWKbBZvbTsvf5rrgOQyMs) | 2:27 |
 | 7 | [For Chamela](https://open.spotify.com/track/0FMvC8A6rUM0y3iU9dI3rH) | [Will Harrison](https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt) | [El Invernadero](https://open.spotify.com/album/1e44e9HKQvfv1Jiru5pF2y) | 3:01 |
 | 8 | [Summer Soon](https://open.spotify.com/track/4VZ2YB3Gt6EhYE7uTmMuBy) | [Oddn](https://open.spotify.com/artist/3EJCkCtqUOD8WWdMB3BqCN) | [Summer Soon](https://open.spotify.com/album/7GeHByUQuBxbAkUZuvHsxg) | 2:34 |
-| 9 | [the perfect pair](https://open.spotify.com/track/6S6GaeO6bvkTDnS1Ko12Sq) | [Luis Diseminado](https://open.spotify.com/artist/7HxrZhLg59A2fZKgDWbebz) | [the perfect pair](https://open.spotify.com/album/2HSor7tKfJt2ECLTi4PeeK) | 2:45 |
-| 10 | [Aria de Primavera](https://open.spotify.com/track/4UILj7ruv4yPBJGvd3ppzX) | [Lex Quirk](https://open.spotify.com/artist/3b0Fb63xNNb8AxVLBAhl9e) | [Aria de Primavera](https://open.spotify.com/album/2mIbWTJz7rzcRt0Zrrhtd6) | 2:20 |
-| 11 | [La Isla](https://open.spotify.com/track/4MWsvmS3Qc8xS0c92onyM8) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [La Isla](https://open.spotify.com/album/7EGZw9hPxbfU573CzYelgJ) | 2:46 |
-| 12 | [Barranquilla](https://open.spotify.com/track/1PHfOJSTE5nDbLl82HF4Vj) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Barranquilla](https://open.spotify.com/album/3oTQSSQPFnYtbPk494Y5Cx) | 2:38 |
-| 13 | [Dos Guitarras](https://open.spotify.com/track/4UjQ5fG1YrscY9Q6FmQnIf) | [Minos Gold](https://open.spotify.com/artist/4kz76xioOGVZ11SWiz64WL) | [Dos Guitarras](https://open.spotify.com/album/55mPNeVnlH2BQSSCzJLXu2) | 2:16 |
-| 14 | [The Last Matador](https://open.spotify.com/track/3mQkFymDjaD18JmPt72odo) | [DeLand](https://open.spotify.com/artist/1Aop9zFg2iGOHdCIIbCWZ0) | [The Last Matador](https://open.spotify.com/album/2uGA86CeB6Z41yqdYOV9Bz) | 2:12 |
+| 9 | [Aria de Primavera](https://open.spotify.com/track/4UILj7ruv4yPBJGvd3ppzX) | [Lex Quirk](https://open.spotify.com/artist/3b0Fb63xNNb8AxVLBAhl9e) | [Aria de Primavera](https://open.spotify.com/album/2mIbWTJz7rzcRt0Zrrhtd6) | 2:20 |
+| 10 | [Barranquilla](https://open.spotify.com/track/1PHfOJSTE5nDbLl82HF4Vj) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Barranquilla](https://open.spotify.com/album/3oTQSSQPFnYtbPk494Y5Cx) | 2:38 |
+| 11 | [The Last Matador](https://open.spotify.com/track/3mQkFymDjaD18JmPt72odo) | [DeLand](https://open.spotify.com/artist/1Aop9zFg2iGOHdCIIbCWZ0) | [The Last Matador](https://open.spotify.com/album/2uGA86CeB6Z41yqdYOV9Bz) | 2:12 |
+| 12 | [the perfect pair](https://open.spotify.com/track/6S6GaeO6bvkTDnS1Ko12Sq) | [Luis Diseminado](https://open.spotify.com/artist/7HxrZhLg59A2fZKgDWbebz) | [the perfect pair](https://open.spotify.com/album/2HSor7tKfJt2ECLTi4PeeK) | 2:45 |
+| 13 | [La Isla](https://open.spotify.com/track/4MWsvmS3Qc8xS0c92onyM8) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [La Isla](https://open.spotify.com/album/7EGZw9hPxbfU573CzYelgJ) | 2:46 |
+| 14 | [Dos Guitarras](https://open.spotify.com/track/4UjQ5fG1YrscY9Q6FmQnIf) | [Minos Gold](https://open.spotify.com/artist/4kz76xioOGVZ11SWiz64WL) | [Dos Guitarras](https://open.spotify.com/album/55mPNeVnlH2BQSSCzJLXu2) | 2:16 |
 | 15 | [Una Vela Encendida](https://open.spotify.com/track/3G5CM3B822P8kFFQOS4aRx) | [Isaac Valero](https://open.spotify.com/artist/6E6ZVCiRYmdbc6Y1Ujgxnm) | [Una Vela Encendida](https://open.spotify.com/album/36Pd3FdKzfJ6uBVf8vlbTh) | 2:43 |
 | 16 | [Una Vida Pasada](https://open.spotify.com/track/6ZLRCFiUrLVyITDoGdfZPG) | [Alex Airaldi](https://open.spotify.com/artist/4CSqxvgnTEdUlydfORC5UH) | [Una Vida Pasada](https://open.spotify.com/album/5jD1xbj9EER6LYSRLiXSUs) | 2:30 |
 | 17 | [Acuarela Mediterranea \(Solo Guitar\)](https://open.spotify.com/track/0mvgUOOFJjKjFdqPa0HlIv) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Acuarela Mediterranea](https://open.spotify.com/album/2zGoSZ5tQzovfBRioel6QH) | 4:04 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2SDPTiDbwL.md) - [plain]
 | 74 | [Una limosna por el amor de Dios](https://open.spotify.com/track/3zbnFohXXSHXve2oxxdATz) | [WarmHugs](https://open.spotify.com/artist/5aHt1vFcN24nd7PlZdzDGI) | [Una limosna por el amor de Dios](https://open.spotify.com/album/0inCL4j2ZIcg7SXi1g8FY8) | 3:18 |
 | 75 | [The Endless Dance](https://open.spotify.com/track/5PjuqD0vCX5GhDX0POF1td) | [Jason Carter](https://open.spotify.com/artist/3i8UqBUlpr6tMmD71XPjS1) | [Carter, Jason: Contemporary Spanish Guitar](https://open.spotify.com/album/0haIe7968D1EoweMZC4qrv) | 9:02 |
 
-Snapshot ID: `AAAAAPjM3qOWJcLjyqbkeAnJIxerfLZC`
+Snapshot ID: `AAAAAM9An5uhSQUuUp7Cslzwp0l9fSW2`

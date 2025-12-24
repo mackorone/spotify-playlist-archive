@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1j4l0WAmMFanamU3ltajpD.md) - [plain]
 
 > <a href="https://shop.rammstein.de/en/catalog/solo\-projects.html">More about Rammstein's solo projects</a>.
 
-[Rammstein](https://open.spotify.com/user/rammsteinofficial) - 4,871 likes - 22 songs - 1 hr 25 min
+[Rammstein](https://open.spotify.com/user/rammsteinofficial) - 4,870 likes - 22 songs - 1 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

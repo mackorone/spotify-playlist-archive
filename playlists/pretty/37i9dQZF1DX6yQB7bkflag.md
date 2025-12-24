@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Timethai, BamBam
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,042 likes - 134 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,038 likes - 134 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 24 | [Oops, My Bad](https://open.spotify.com/track/5sTNd7d05oLLJatfB4CP4N) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [Oops, My Bad \(From "Operation: True Love"\)](https://open.spotify.com/album/6H37HHyq1ytiLGWgIisBSZ) | 2:26 |
 | 25 | [Latar Biru](https://open.spotify.com/track/3jzUoJnHFUoJwZPVyDjRX3) | [Bemandry](https://open.spotify.com/artist/6k4Wed6mCXviM0mZr2Dt90) | [Latar Biru](https://open.spotify.com/album/3whN5dk2aiDwgNQrjtg2mg) | 4:07 |
 | 26 | [Gotaki](https://open.spotify.com/track/0NK4vrqgdawN9ooobNxd2i) | [Denada](https://open.spotify.com/artist/4ijPUcta3Ks5H1YWFaguJF) | [Gotaki](https://open.spotify.com/album/7tsfHOC9vDBH300oEPra1G) | 4:14 |
-| 27 | [Sepi](https://open.spotify.com/track/4pED2GQ28ilhCFLmBF0RUE) | [Mal Hamka](https://open.spotify.com/artist/0o50QOOPoOXy3ifSSVQWjc), [Yoka](https://open.spotify.com/artist/2YQrIbZX0TKpMRqEVk8tOC) | [Sepi](https://open.spotify.com/album/0MxqJ2WHcrrzyzPXY5sfUB) | 2:17 |
+| 27 | [Sepi](https://open.spotify.com/track/4pED2GQ28ilhCFLmBF0RUE) | [Mal Hamka](https://open.spotify.com/artist/0o50QOOPoOXy3ifSSVQWjc), [YokaMusic](https://open.spotify.com/artist/0E1kvFwfAWmBXs2KjG40Vm) | [Sepi](https://open.spotify.com/album/0MxqJ2WHcrrzyzPXY5sfUB) | 2:17 |
 | 28 | [Kalau Bukan Aku \- Acoustic Version](https://open.spotify.com/track/27nX4vEZzkrPvAPUfvqQec) | [Adrianna Cinta](https://open.spotify.com/artist/7aGKWIJ44Gs7eQ7cCKVskG), [Farouk Roman](https://open.spotify.com/artist/0hUfRMUVOjnhRNBzDxLwro) | [Kalau Bukan Aku \(Acoustic Version\)](https://open.spotify.com/album/26dlKo7OestETh56ox6C9W) | 4:24 |
 | 29 | [Panorama](https://open.spotify.com/track/6aj9Cf3LDG3zehyw3qJyRu) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Panorama : The Best of TAEYEON](https://open.spotify.com/album/0ALRDKNI0rnUcwQKMsEbyg) | 3:00 |
 | 30 | [Ayuh Pulang](https://open.spotify.com/track/0zt2mq9PSKnh3zEuxg4PfK) | [Aina Abdul](https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV), [Amir Jahari](https://open.spotify.com/artist/0NZxMMytnzLqPuCTb0ChGu) | [Ayuh Pulang](https://open.spotify.com/album/06fWJJNQ2EcmxhTxVilqC5) | 3:13 |

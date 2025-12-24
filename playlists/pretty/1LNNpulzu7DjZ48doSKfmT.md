@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 
 > beautiful music that you can put on repeat
 
-[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 451 likes - 542 songs - 1 day 4 hr 2 min
+[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 452 likes - 568 songs - 1 day 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -550,5 +550,31 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 | 540 | [Liar Liar](https://open.spotify.com/track/2IBdJeKUQJTaP5Ue4neDFr) | [Absorbingpersona](https://open.spotify.com/artist/19vhCix1RBZqXR9PqKZXAo) | [Classic Favoritism](https://open.spotify.com/album/3ZQfefsjENuhY1bi2CqPMd) | 2:41 |
 | 541 | [Tchéké](https://open.spotify.com/track/0kwudsrhzaxvk0OggRPwmm) | [Kento](https://open.spotify.com/artist/0vjUtQS6oymGeehfZsSaGJ) | [Tchéké](https://open.spotify.com/album/0iFlCXwIzB0JLCjrCGeJqK) | 2:28 |
 | 542 | [O Nome É Teu \(Trip Na Floresta\)](https://open.spotify.com/track/6FIbZwBVljRfIEqmr71T5h) | [The Jump Out Helicopters](https://open.spotify.com/artist/4XKjXT1OIFR3zVbEgZGmel) | [The Jump out Helicopters](https://open.spotify.com/album/6yl8yZIaRCGFQEIw0K4Y1R) | 2:30 |
+| 543 | [Santa Snail](https://open.spotify.com/track/4FjicqJIMG9KyGLAl0pwg5) | [GM Jon](https://open.spotify.com/artist/37lunlezmWmUxEd3oc5Xz3) | [Santa Snail](https://open.spotify.com/album/5SOWoRxXG2cWfFjd2eilU8) | 2:49 |
+| 544 | [Moonlight Mirage](https://open.spotify.com/track/4S7o7zpgJ0LrRkXnsLrHPQ) | [DAZiPOP](https://open.spotify.com/artist/2YH4rdoY7r0W5BirnTyk9w) | [Moonlight Mirage](https://open.spotify.com/album/5kR63WaJgLxeKQwonODgc4) | 2:55 |
+| 545 | [11:11](https://open.spotify.com/track/4DqzWgbj8ptLeARyanFaA3) | [Arlay](https://open.spotify.com/artist/7idRLmRxM1U43ZOFp1YEAL) | [11:11](https://open.spotify.com/album/7p4XlxP8KIOFUxu3BV6kqQ) | 2:32 |
+| 546 | [The Dream of the Boy](https://open.spotify.com/track/7rV2RFm5L6wt0b16vCKCgb) | [Bluehomie](https://open.spotify.com/artist/2v798PeaetvjvY9gGGYkgd), [Volcana](https://open.spotify.com/artist/4EGR2O6JKVOcgw2Ar8BKeE) | [The Dream of the Boy](https://open.spotify.com/album/3rVLnVtbiTwbbEueN8VRw2) | 2:35 |
+| 547 | [No More Lies](https://open.spotify.com/track/4AGflhfh5RPzKlVydgG6TQ) | [Elysium](https://open.spotify.com/artist/2NC1GXUAZDH9D8uu809kXg) | [No More Lies](https://open.spotify.com/album/7vQkexwSNeZJQ9X7RLwUTE) | 4:13 |
+| 548 | [Kind](https://open.spotify.com/track/3m2aWJ36S23GeBScRi4N9y) | [Gorbunoff](https://open.spotify.com/artist/7jiAYcpQkuxnn2THzxYAkR), [Sasha Raven](https://open.spotify.com/artist/1c80HYK6hsVcb8NalIs1az) | [Kind](https://open.spotify.com/album/46TZCAkT23vVIloz0iFfWq) | 2:36 |
+| 549 | [Mens Sana](https://open.spotify.com/track/2yoYJIo23ZmLVsCCgMecxB) | [OneMoreBeer](https://open.spotify.com/artist/3p1rt4qyXmRbpHrFRTcq3G) | [Mens Sana](https://open.spotify.com/album/6ZLE6mPFs3nrTh3zglwKid) | 4:05 |
+| 550 | [Alexander](https://open.spotify.com/track/25Rt37WgpebWgezVCNfo0J) | [Ivanovski The Great](https://open.spotify.com/artist/018l4d5oVLKYYTxggwEqqI) | [Alexander](https://open.spotify.com/album/09swRLctrzuoAWvNeB5M2X) | 3:03 |
+| 551 | [Mille vite](https://open.spotify.com/track/5f6U2EUqLYTCuWgBqQ8QVU) | [Coolkitz](https://open.spotify.com/artist/4ueDcIgyu3oB6r0Yak6ScK), [Strike The Head](https://open.spotify.com/artist/73z0OCKr558bQfMGcA2kIv) | [Mille vite](https://open.spotify.com/album/6uMCDUVoRTPEK7YZcGNllz) | 2:32 |
+| 552 | [The Journey Ends Inside](https://open.spotify.com/track/4NxfXqPua0qJaljpLEewOp) | [Cobalt Wave](https://open.spotify.com/artist/0q2NZhxugZY6CDgo5yD89A) | [The Journey Ends Inside](https://open.spotify.com/album/0guhzwD9akBuQ0nElc3AX2) | 8:00 |
+| 553 | [Armour Hill](https://open.spotify.com/track/0gagWc2Pj6iX1Yg5tmhn5d) | [Gran Fenwick](https://open.spotify.com/artist/0VEN5dR1HedhA1jEGYMRcz) | [Armour Hill](https://open.spotify.com/album/7yLSB2eW8PB70MC31tZKHw) | 4:19 |
+| 554 | [Lilac Oil](https://open.spotify.com/track/2SckxctBDFyfpZbgpsKwJN) | [Cameron Esther](https://open.spotify.com/artist/1xTdRNp6vqtCup5YoVSfWE) | [Lilac Oil](https://open.spotify.com/album/3zZDJbH4uW4KA0kbdPTDxF) | 4:25 |
+| 555 | [Modo Avião](https://open.spotify.com/track/6XBtf9I0Ww9TAzFwxzLaJ9) | [Gabi MFH](https://open.spotify.com/artist/0pfF07ygrBiPNvD9DNvTVB), [Baldez](https://open.spotify.com/artist/0ZlkqHsUvYT7MJd5oPGGE9) | [Modo Avião](https://open.spotify.com/album/0ZDwStBOzTUrqhf1BmtB9Y) | 2:32 |
+| 556 | [Shutdown](https://open.spotify.com/track/643KZBbba2oeAYd2trgSLx) | [Makeavelli](https://open.spotify.com/artist/6dNdNTpljoD3lw14gr4WRg) | [Shutdown](https://open.spotify.com/album/0aFinGBzDIruoM2vcbwQgF) | 3:06 |
+| 557 | [You Are Freak](https://open.spotify.com/track/0VTgOZ03OJ0fN8LKQ513I1) | [Bed Riders](https://open.spotify.com/artist/5ZD5TtaJpglHW9xPCjrdpZ) | [Brst 62](https://open.spotify.com/album/0CNmgv2VnSC3R3BisvIENj) | 3:04 |
+| 558 | [NON TORNERÒ A MANI VUOTE](https://open.spotify.com/track/3t3sUMdViFgu9raAOWaoJi) | [ELO](https://open.spotify.com/artist/1qoApE9HzNbP2RiogZkE89) | [NON TORNERÒ A MANI VUOTE](https://open.spotify.com/album/4uFIvoUXJYJ79jCeG1CD5a) | 2:16 |
+| 559 | [Crimson Prayer](https://open.spotify.com/track/1YK9WKLS21VlrtNciLic20) | [Nyoni Halo](https://open.spotify.com/artist/51DrCFPOz44oW0FThS4rMR) | [God's Love Red Wine](https://open.spotify.com/album/5G8acLyVmfvwyM0eBvARgo) | 3:03 |
+| 560 | [Southside](https://open.spotify.com/track/5bZ4CLNoJRdKFEbyAa6Uu3) | [JayHow](https://open.spotify.com/artist/3ILEdW5qaifuxPRAk8jXVG) | [Don't Listen Now](https://open.spotify.com/album/10MM0LqKTtR7YAt4o9iHL0) | 4:14 |
+| 561 | [Sell the Smoke](https://open.spotify.com/track/7uUFtZybgcf5Pz0aZOI1Ei) | [Lighten Up, Francis](https://open.spotify.com/artist/53Ff651JKd4ooOWJ51qkGU) | [Sell the Smoke](https://open.spotify.com/album/1bVfmPw16OoNbKmmFlm0qZ) | 4:24 |
+| 562 | [Summer Feelings](https://open.spotify.com/track/1Bb0wa52MYgECVLLoJeVbj) | [Momo Mac](https://open.spotify.com/artist/1RnWU9BbdyBTU8DGvQQEwT), [Brahim Barjali](https://open.spotify.com/artist/37IOEIKtsUVtTBeNh4yL0m) | [Summer Feelings](https://open.spotify.com/album/04MMBvuuBrLrhkmWXwV4TQ) | 3:06 |
+| 563 | [Sem Nada](https://open.spotify.com/track/3glO6TWZiGfgoWEm3jKL6b) | [RD'RUA](https://open.spotify.com/artist/3OXf6n1Ia1Lrx41WQBr1A4) | [Sem Nada](https://open.spotify.com/album/4711zgfJ2vdH52jgijCSgF) | 3:11 |
+| 564 | [Mais dit moi si je peux?](https://open.spotify.com/track/2E0aDOnkReNifuaaf0WbXm) | [Ragstyle](https://open.spotify.com/artist/3n2IRZuVUY7Gr7Os8Cc5SS) | [Mais dit moi si je peux?](https://open.spotify.com/album/0ve3aV4agPBhW172FTI3qu) | 2:48 |
+| 565 | [FAHRENHEIT](https://open.spotify.com/track/5UdjKOCyfXofQ1EFNCqyaA) | [Kofy](https://open.spotify.com/artist/6sOUskMzJnWoK8vyuO0Xiz) | [FAHRENHEIT](https://open.spotify.com/album/52mzMeHx6PMphVuSMeoIOO) | 3:27 |
+| 566 | [Brutalised Robotics](https://open.spotify.com/track/4SRR28cnNz63kylGIVs9KU) | [Dez Dare](https://open.spotify.com/artist/1elbB348tXNuC92QkZlHLF) | [Brutalised Robotics](https://open.spotify.com/album/3R5S4atIrB3QlziWSoDhuj) | 3:02 |
+| 567 | [Lonely Voices](https://open.spotify.com/track/4wk0VmAwC5M4YPWOytwoet) | [Qfish](https://open.spotify.com/artist/5T2jnVO9cIxAjrQWu1aEGN), [Maryn](https://open.spotify.com/artist/4H4iHbG7nopmzvkwsglVkM), [Max Landry](https://open.spotify.com/artist/0wJDbxpqtwjA2FxfU6KI0E) | [Lonely Voices](https://open.spotify.com/album/1ZpBxFWKUeHqHY2Z75yRRg) | 2:30 |
+| 568 | [Feel the night](https://open.spotify.com/track/7p5t5QpJDkczSCaZMXxLdX) | [Kryhos](https://open.spotify.com/artist/4aqG8I79UujSmRHe7yphiW) | [Feel the night](https://open.spotify.com/album/5s1ETma0NHObW9iNgddC5a) | 2:25 |
 
-Snapshot ID: `AAAXPx6TrbKtElg7WCwzlP+lq1IUQs4f`
+Snapshot ID: `AAAXWR+SfrxuLMuunlxiQWie0iQMnQof`

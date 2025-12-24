@@ -1701,6 +1701,24 @@
     },
     {
       "album": {
+        "name": "Early Autumn",
+        "url": "https://open.spotify.com/album/6vwTsPhj6VHqWN7bSsRvco"
+      },
+      "artists": [
+        {
+          "name": "Massimo Luce",
+          "url": "https://open.spotify.com/artist/5XCekAGt3cAL4RkxGMu7Ya"
+        }
+      ],
+      "date_added": "2025-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133083,
+      "name": "Early Autumn",
+      "url": "https://open.spotify.com/track/5ZKXp3UKGj5NSDIKR7oc7p"
+    },
+    {
+      "album": {
         "name": "Waitwall Mountain",
         "url": "https://open.spotify.com/album/1PSaMx8sT3d1hVK7nUz9tX"
       },

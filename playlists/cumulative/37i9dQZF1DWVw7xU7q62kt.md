@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-727 songs - 1 day 7 hr 21 min
+728 songs - 1 day 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Circle Reflections](https://open.spotify.com/track/5FIxocSQFn74wY3rJHS7HC) | [Mindscape](https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6) | [Circle Reflections](https://open.spotify.com/album/38jHxGmwuEa3Wvs2fWMj83) | 2:40 | 2024-08-23 | 2025-09-13 |
 | [Cloud Bank](https://open.spotify.com/track/6zyBymxwUn9jCiQhliYE8v) | [Strehlow](https://open.spotify.com/artist/1pUWzVmu8ACMnIAu9BsOHm), [Mauricesax](https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf), [Flanør](https://open.spotify.com/artist/6ig96HpkSAXYvt69GBHYWl) | [Cloud Bank](https://open.spotify.com/album/0Ii9WgyawvgfnoBdeRCVtf) | 1:48 | 2025-05-23 |  |
 | [Cloud Cover](https://open.spotify.com/track/6l2111YVAo9qSnKNeEA9Da) | [Leets](https://open.spotify.com/artist/1mJuzdq9SDq5hOEI1RXjb1), [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA) | [Cloud Cover](https://open.spotify.com/album/0YUIt7pWrA2JN38uO7c8wv) | 1:39 | 2025-09-12 | 2025-10-16 |
+| [Coccinelle \- Jazz Flute Remix](https://open.spotify.com/track/5DAVUp6fOKck65vSmGLvEC) | [paris91](https://open.spotify.com/artist/0IF1xUEFhGXZ7zz8BW1zqv) | [Coccinelle \(Jazz Flute Remix\)](https://open.spotify.com/album/1v5ykvnfObrl91NzfIhaN6) | 2:17 | 2025-12-19 |  |
 | [Cocktail Please](https://open.spotify.com/track/61UJbqJes5swtjJ3BeDaOU) | [The Fox](https://open.spotify.com/artist/6T8X5Dh4G7RaLINqzqlkV3) | [Cocktail Please](https://open.spotify.com/album/2T4bG7choP5ph9yf7kL5pO) | 1:37 | 2025-04-25 | 2025-11-15 |
 | [Coelum](https://open.spotify.com/track/09zb80ci56DEgN3r1e0F9T) | [Made in M](https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c) | [Coelum](https://open.spotify.com/album/0nsGYEKBZlu5lap25ZWEJf) | 2:10 | 2024-12-13 | 2025-07-19 |
 | [Coffee Break](https://open.spotify.com/track/5v7O9yQyeJti5lhlTGUn5j) | [Eu93ne](https://open.spotify.com/artist/19lhY4E6GLxH337OZLfOV4) | [Coffee Break](https://open.spotify.com/album/2GaOHefx9lVufEEwn7ftgr) | 2:23 | 2025-08-29 |  |
@@ -395,7 +396,7 @@
 | [Montrose Forest featuring Nicholas Payton](https://open.spotify.com/track/5KDVm18IS8nave70ihVFqN) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP), [Nicholas Payton](https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4) | [Montrose Forest featuring Nicholas Payton](https://open.spotify.com/album/712rPLxjRtWqRjLgKOlMp8) | 4:04 | 2024-11-08 | 2025-01-25 |
 | [Moon Over The Sea](https://open.spotify.com/track/0CW2CierRaSZ1T4zB2VuvA) | [Simber](https://open.spotify.com/artist/3x9DqcRsBAPD6oFZCnDxf0), [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [Paxkalito](https://open.spotify.com/artist/3GzNXHI7uiWVe0TnkUvP0f) | [Moon Over The Sea](https://open.spotify.com/album/1OaRUJ0SYlGfOetqTsy3vg) | 2:14 | 2025-05-23 | 2025-06-14 |
 | [Moonbath](https://open.spotify.com/track/4YJgokXX4mOOPgwMzbwpx0) | [Lvnt](https://open.spotify.com/artist/0lJBgFBswR7nf4TrKtwZQt) | [Moonbath](https://open.spotify.com/album/2w3wSYzcxUANJ3j25f8kK4) | 2:08 | 2025-04-18 | 2025-04-21 |
-| [mooncircle](https://open.spotify.com/track/5r3Sg4xhb0Ww8Amyx8ztla) | [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC), [think less.](https://open.spotify.com/artist/5ptLWFs1O1R1QDZSjwtU0c) | [mooncircle](https://open.spotify.com/album/0qVFOEsmY7q9dE4EylGspz) | 2:04 | 2025-09-12 |  |
+| [mooncircle](https://open.spotify.com/track/5r3Sg4xhb0Ww8Amyx8ztla) | [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC), [think less.](https://open.spotify.com/artist/5ptLWFs1O1R1QDZSjwtU0c) | [mooncircle](https://open.spotify.com/album/0qVFOEsmY7q9dE4EylGspz) | 2:04 | 2025-09-12 | 2025-12-24 |
 | [Moonglade](https://open.spotify.com/track/4fmzTCgOgTj8dB3Cb3YwjE) | [Pueblo Vista](https://open.spotify.com/artist/1p03eo7FG5sXEMs3lGFEwb) | [Moonglade](https://open.spotify.com/album/2xQdVIZ7DksIupufbmHnq9) | 2:03 | 2025-03-14 | 2025-03-23 |
 | [Moonlight](https://open.spotify.com/track/6ich2rsYphd2p6Bp8mRpw8) | [Hans Hu$tle](https://open.spotify.com/artist/1PwlJoSttX1ML8TPVnRpra), [Jones McJonsen](https://open.spotify.com/artist/7HOOvYURNE4ioNmIPclYhZ) | [Moonlight](https://open.spotify.com/album/521pzIYi6SV9enr8XXqzjE) | 1:51 | 2025-05-16 | 2025-06-07 |
 | [Moonlite](https://open.spotify.com/track/5uzmg0ccdavfs2rtoHI6e2) | [SGJAZZ](https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G), [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [SGJAZZ, Vol\. 2](https://open.spotify.com/album/0A7nQz0OVtaozlGtWNQYKB) | 3:53 | 2023-08-22 | 2023-08-26 |

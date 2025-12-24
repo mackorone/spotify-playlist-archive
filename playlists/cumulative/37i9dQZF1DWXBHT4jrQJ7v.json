@@ -937,6 +937,28 @@
     },
     {
       "album": {
+        "name": "Schubert: Sonata in C Minor, D. 958, 4 Impromptus, D. 935 & Rondo, D. 951",
+        "url": "https://open.spotify.com/album/4aXv606D4yGVp48EP0NYEj"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Aimi Kobayashi",
+          "url": "https://open.spotify.com/artist/41YFPXmww0HCdIBjJj0uPs"
+        }
+      ],
+      "date_added": "2025-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233480,
+      "name": "Liszt: 12 Lieder von Franz Schubert, S. 558: No. 7, Fr\u00fchlingsglaube",
+      "url": "https://open.spotify.com/track/2R72B7gT4Xd43hMg6L2OrZ"
+    },
+    {
+      "album": {
         "name": "Liszt: Liebestraum",
         "url": "https://open.spotify.com/album/4YTRRG8LEJs7jYIFK8RC3e"
       },

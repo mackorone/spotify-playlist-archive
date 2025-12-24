@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUc4gAAAAABokQCV0jfweY/TctBMD7an",
+  "snapshot_id": "aUiKAAAAAABb+paS5/k8ZaZElXs1uYXe",
   "tracks": [
     {
       "added_at": null,
@@ -462,15 +462,11 @@
         {
           "name": "Nicholas Craven",
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        },
-        {
-          "name": "Poppy Bricks",
-          "url": "https://open.spotify.com/artist/27LMCWUzDF0MRvJt4aP5py"
         }
       ],
-      "duration_ms": 193136,
-      "name": "Mr. Quaker Oats",
-      "url": "https://open.spotify.com/track/0AaQu9DCyTlT0RkTaGSytT"
+      "duration_ms": 166956,
+      "name": "No Blemishes",
+      "url": "https://open.spotify.com/track/0qOhA2UqDcgRL3GUEhneeN"
     },
     {
       "added_at": null,
@@ -800,17 +796,13 @@
           "url": "https://open.spotify.com/artist/2NOvOuKq4vuXLVKyxx8MC8"
         },
         {
-          "name": "Troy Dunnit",
-          "url": "https://open.spotify.com/artist/05dKYqnKFrjD0Fs4D7G00z"
-        },
-        {
           "name": "Nicholas Craven",
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
         }
       ],
-      "duration_ms": 151807,
-      "name": "DUHM PAYD",
-      "url": "https://open.spotify.com/track/3a5tWiIFOG4vBjKeIo6hB7"
+      "duration_ms": 183000,
+      "name": "LOOT-CRATIVE",
+      "url": "https://open.spotify.com/track/5zk1MUiLf53dJAc9iXM9NS"
     },
     {
       "added_at": null,
@@ -888,13 +880,17 @@
           "url": "https://open.spotify.com/artist/2NOvOuKq4vuXLVKyxx8MC8"
         },
         {
+          "name": "Troy Dunnit",
+          "url": "https://open.spotify.com/artist/05dKYqnKFrjD0Fs4D7G00z"
+        },
+        {
           "name": "Nicholas Craven",
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
         }
       ],
-      "duration_ms": 183000,
-      "name": "LOOT-CRATIVE",
-      "url": "https://open.spotify.com/track/5zk1MUiLf53dJAc9iXM9NS"
+      "duration_ms": 151807,
+      "name": "DUHM PAYD",
+      "url": "https://open.spotify.com/track/3a5tWiIFOG4vBjKeIo6hB7"
     },
     {
       "added_at": null,

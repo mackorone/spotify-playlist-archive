@@ -1,6 +1,6 @@
 {
   "description": "Naye Indie gaano ka khazana, featuring KhoslaRaghu, Arpit Bala, and other exciting artists.\n",
-  "num_followers": 102123,
+  "num_followers": 102147,
   "original_name": "Naya Indiestan",
   "owner": {
     "name": "Spotify",
@@ -435,26 +435,6 @@
     {
       "added_at": "2025-12-19 08:40:04",
       "album": {
-        "name": "You're The One",
-        "url": "https://open.spotify.com/album/4XKfCJ0ZnU0C9IKwgEkgE9"
-      },
-      "artists": [
-        {
-          "name": "Abhijeet Srivastava",
-          "url": "https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C"
-        },
-        {
-          "name": "Aanchal Tyagi",
-          "url": "https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "You're The One",
-      "url": "https://open.spotify.com/track/2t2Oir9ArLSwbPeeKqqvj6"
-    },
-    {
-      "added_at": "2025-12-19 08:40:04",
-      "album": {
         "name": "Jaa Tujhe Ishq Ho",
         "url": "https://open.spotify.com/album/1nf3Grd82k3UdU7Mh9BnCt"
       },
@@ -471,6 +451,26 @@
       "duration_ms": 190000,
       "name": "Jaa Tujhe Ishq Ho",
       "url": "https://open.spotify.com/track/3nsJy2UpjJyo14sqcbgJGH"
+    },
+    {
+      "added_at": "2025-12-19 08:40:04",
+      "album": {
+        "name": "You're The One",
+        "url": "https://open.spotify.com/album/4XKfCJ0ZnU0C9IKwgEkgE9"
+      },
+      "artists": [
+        {
+          "name": "Abhijeet Srivastava",
+          "url": "https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C"
+        },
+        {
+          "name": "Aanchal Tyagi",
+          "url": "https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "You're The One",
+      "url": "https://open.spotify.com/track/2t2Oir9ArLSwbPeeKqqvj6"
     },
     {
       "added_at": "2025-12-19 08:40:04",
@@ -559,6 +559,30 @@
     {
       "added_at": "2025-12-19 08:40:04",
       "album": {
+        "name": "Dear Maahiya (From \"UR Debut\")",
+        "url": "https://open.spotify.com/album/7CrvLLU19X18lSGPJIsKgv"
+      },
+      "artists": [
+        {
+          "name": "Tanishka Bahl",
+          "url": "https://open.spotify.com/artist/0RZSHotYnUAsA9mzApotQw"
+        },
+        {
+          "name": "Saaheal",
+          "url": "https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM"
+        },
+        {
+          "name": "Showkidd",
+          "url": "https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC"
+        }
+      ],
+      "duration_ms": 237300,
+      "name": "Dear Maahiya (From \"UR Debut\")",
+      "url": "https://open.spotify.com/track/090K4Rhx3tnhrSxCFmlzye"
+    },
+    {
+      "added_at": "2025-12-19 08:40:04",
+      "album": {
         "name": "Marammatein",
         "url": "https://open.spotify.com/album/3fNUyCBvpJXAINIrKEPFWb"
       },
@@ -591,30 +615,6 @@
       "duration_ms": 203392,
       "name": "Yun Hi Kahin",
       "url": "https://open.spotify.com/track/5F4hwTVNZwutsNEG8OPnoJ"
-    },
-    {
-      "added_at": "2025-12-19 08:40:04",
-      "album": {
-        "name": "Dear Maahiya (From \"UR Debut\")",
-        "url": "https://open.spotify.com/album/7CrvLLU19X18lSGPJIsKgv"
-      },
-      "artists": [
-        {
-          "name": "Tanishka Bahl",
-          "url": "https://open.spotify.com/artist/0RZSHotYnUAsA9mzApotQw"
-        },
-        {
-          "name": "Saaheal",
-          "url": "https://open.spotify.com/artist/29S4JzoFUP1MCyMgKd83zM"
-        },
-        {
-          "name": "Showkidd",
-          "url": "https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC"
-        }
-      ],
-      "duration_ms": 237300,
-      "name": "Dear Maahiya (From \"UR Debut\")",
-      "url": "https://open.spotify.com/track/090K4Rhx3tnhrSxCFmlzye"
     },
     {
       "added_at": "2025-12-19 08:40:04",
@@ -911,6 +911,22 @@
     {
       "added_at": "2025-12-19 08:40:04",
       "album": {
+        "name": "Dooba Dooba",
+        "url": "https://open.spotify.com/album/6qe5EPxPHhvivsZPH3PMBh"
+      },
+      "artists": [
+        {
+          "name": "Suryansh",
+          "url": "https://open.spotify.com/artist/3Ykf5ocgSuTXLX0QVQTdzD"
+        }
+      ],
+      "duration_ms": 202241,
+      "name": "Dooba Dooba",
+      "url": "https://open.spotify.com/track/4fmO1bhllxFwDwDCcmCtcy"
+    },
+    {
+      "added_at": "2025-12-19 08:40:04",
+      "album": {
         "name": "No Deal",
         "url": "https://open.spotify.com/album/6gya1hEzsN8ZuJmH0GiJIF"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 130000,
       "name": "Khurdura",
       "url": "https://open.spotify.com/track/5wA2waZXpKkoTkvyTdP9hm"
-    },
-    {
-      "added_at": "2025-12-19 08:40:04",
-      "album": {
-        "name": "Dooba Dooba",
-        "url": "https://open.spotify.com/album/6qe5EPxPHhvivsZPH3PMBh"
-      },
-      "artists": [
-        {
-          "name": "Suryansh",
-          "url": "https://open.spotify.com/artist/3Ykf5ocgSuTXLX0QVQTdzD"
-        }
-      ],
-      "duration_ms": 202241,
-      "name": "Dooba Dooba",
-      "url": "https://open.spotify.com/track/4fmO1bhllxFwDwDCcmCtcy"
     },
     {
       "added_at": "2025-12-19 08:40:04",
@@ -1079,6 +1079,38 @@
     {
       "added_at": "2025-12-19 08:40:04",
       "album": {
+        "name": "Pyaar Kaafi Nahi",
+        "url": "https://open.spotify.com/album/5MBflElWpnYpm6ZJOhm6Ok"
+      },
+      "artists": [
+        {
+          "name": "Dream Note",
+          "url": "https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd"
+        }
+      ],
+      "duration_ms": 175360,
+      "name": "Pyaar Kaafi Nahi",
+      "url": "https://open.spotify.com/track/0emdpRC3rftireFUN9c00x"
+    },
+    {
+      "added_at": "2025-12-19 08:40:04",
+      "album": {
+        "name": "Mere Hisse Ki 'Jayedaad'",
+        "url": "https://open.spotify.com/album/6ZbOnCubi9CdiAHRPDQqnW"
+      },
+      "artists": [
+        {
+          "name": "Fiddlecraft",
+          "url": "https://open.spotify.com/artist/0xhbB0DrR0MnaU1ynq4itU"
+        }
+      ],
+      "duration_ms": 224274,
+      "name": "Mere Hisse Ki 'Jayedaad'",
+      "url": "https://open.spotify.com/track/3DurrqBX5nKpHbciiDIsp4"
+    },
+    {
+      "added_at": "2025-12-19 08:40:04",
+      "album": {
         "name": "MARYO (feat. Mahira Sharma)",
         "url": "https://open.spotify.com/album/7nW43VAJT5sQyunJeKblre"
       },
@@ -1103,38 +1135,6 @@
       "duration_ms": 207857,
       "name": "MARYO (feat. Mahira Sharma)",
       "url": "https://open.spotify.com/track/66Ld3SCNj8BwkPpDkszkPr"
-    },
-    {
-      "added_at": "2025-12-19 08:40:04",
-      "album": {
-        "name": "Mere Hisse Ki 'Jayedaad'",
-        "url": "https://open.spotify.com/album/6ZbOnCubi9CdiAHRPDQqnW"
-      },
-      "artists": [
-        {
-          "name": "Fiddlecraft",
-          "url": "https://open.spotify.com/artist/0xhbB0DrR0MnaU1ynq4itU"
-        }
-      ],
-      "duration_ms": 224274,
-      "name": "Mere Hisse Ki 'Jayedaad'",
-      "url": "https://open.spotify.com/track/3DurrqBX5nKpHbciiDIsp4"
-    },
-    {
-      "added_at": "2025-12-19 08:40:04",
-      "album": {
-        "name": "Pyaar Kaafi Nahi",
-        "url": "https://open.spotify.com/album/5MBflElWpnYpm6ZJOhm6Ok"
-      },
-      "artists": [
-        {
-          "name": "Dream Note",
-          "url": "https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd"
-        }
-      ],
-      "duration_ms": 175360,
-      "name": "Pyaar Kaafi Nahi",
-      "url": "https://open.spotify.com/track/0emdpRC3rftireFUN9c00x"
     },
     {
       "added_at": "2025-12-19 08:40:04",
@@ -1191,42 +1191,6 @@
     {
       "added_at": "2025-12-19 08:40:04",
       "album": {
-        "name": "Ban gayi main teri piya",
-        "url": "https://open.spotify.com/album/6CJklnf3cR64FFTWfCrZA3"
-      },
-      "artists": [
-        {
-          "name": "Shrinidhi Ghatate",
-          "url": "https://open.spotify.com/artist/1Mht1hCkp1SqFC91jUGIlW"
-        },
-        {
-          "name": "Siddharth Mahadevan",
-          "url": "https://open.spotify.com/artist/7hwEGO7U6JwQ7M1teoO8GW"
-        }
-      ],
-      "duration_ms": 200490,
-      "name": "Ban gayi main teri piya",
-      "url": "https://open.spotify.com/track/5PMX0x8YZZydMRCmuuUePh"
-    },
-    {
-      "added_at": "2025-12-19 08:40:04",
-      "album": {
-        "name": "Student of Love",
-        "url": "https://open.spotify.com/album/6NU9gREQED90QHgrTUZPRx"
-      },
-      "artists": [
-        {
-          "name": "Mary Ann Alexander",
-          "url": "https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd"
-        }
-      ],
-      "duration_ms": 157377,
-      "name": "Student of Love",
-      "url": "https://open.spotify.com/track/4LEhWsijtlLqwjctr2bsxx"
-    },
-    {
-      "added_at": "2025-12-19 08:40:04",
-      "album": {
         "name": "Patang (From \"UR Debut\")",
         "url": "https://open.spotify.com/album/11FDeXQnlSkuyT1IZPTH0O"
       },
@@ -1271,6 +1235,42 @@
     {
       "added_at": "2025-12-19 08:40:04",
       "album": {
+        "name": "Ban gayi main teri piya",
+        "url": "https://open.spotify.com/album/6CJklnf3cR64FFTWfCrZA3"
+      },
+      "artists": [
+        {
+          "name": "Shrinidhi Ghatate",
+          "url": "https://open.spotify.com/artist/1Mht1hCkp1SqFC91jUGIlW"
+        },
+        {
+          "name": "Siddharth Mahadevan",
+          "url": "https://open.spotify.com/artist/7hwEGO7U6JwQ7M1teoO8GW"
+        }
+      ],
+      "duration_ms": 200490,
+      "name": "Ban gayi main teri piya",
+      "url": "https://open.spotify.com/track/5PMX0x8YZZydMRCmuuUePh"
+    },
+    {
+      "added_at": "2025-12-19 08:40:04",
+      "album": {
+        "name": "Student of Love",
+        "url": "https://open.spotify.com/album/6NU9gREQED90QHgrTUZPRx"
+      },
+      "artists": [
+        {
+          "name": "Mary Ann Alexander",
+          "url": "https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd"
+        }
+      ],
+      "duration_ms": 157377,
+      "name": "Student of Love",
+      "url": "https://open.spotify.com/track/4LEhWsijtlLqwjctr2bsxx"
+    },
+    {
+      "added_at": "2025-12-19 08:40:04",
+      "album": {
         "name": "Sabki Kahani",
         "url": "https://open.spotify.com/album/5SkGyMMb683cW0GehC4BPA"
       },
@@ -1283,22 +1283,6 @@
       "duration_ms": 227878,
       "name": "Sabki Kahani",
       "url": "https://open.spotify.com/track/5Uzx2UcwkheIqUAJy9HpBw"
-    },
-    {
-      "added_at": "2025-12-19 08:40:04",
-      "album": {
-        "name": "Main Na Raha",
-        "url": "https://open.spotify.com/album/4G1nVsik96niFdvh7WiXmA"
-      },
-      "artists": [
-        {
-          "name": "Parth Srivastava",
-          "url": "https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI"
-        }
-      ],
-      "duration_ms": 272141,
-      "name": "Main Na Raha",
-      "url": "https://open.spotify.com/track/2ruXIFfx8OI7uXnzC8Mkc5"
     },
     {
       "added_at": "2025-12-19 08:40:04",
@@ -1327,6 +1311,22 @@
     {
       "added_at": "2025-12-19 08:40:04",
       "album": {
+        "name": "Main Na Raha",
+        "url": "https://open.spotify.com/album/4G1nVsik96niFdvh7WiXmA"
+      },
+      "artists": [
+        {
+          "name": "Parth Srivastava",
+          "url": "https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI"
+        }
+      ],
+      "duration_ms": 272141,
+      "name": "Main Na Raha",
+      "url": "https://open.spotify.com/track/2ruXIFfx8OI7uXnzC8Mkc5"
+    },
+    {
+      "added_at": "2025-12-19 08:40:04",
+      "album": {
         "name": "Leher",
         "url": "https://open.spotify.com/album/4MBOf5Jqvbfz9eFKCE9I1r"
       },
@@ -1343,6 +1343,22 @@
       "duration_ms": 184450,
       "name": "Leher",
       "url": "https://open.spotify.com/track/1pip69c3zep9RvjTBZCbLn"
+    },
+    {
+      "added_at": "2025-12-19 08:40:04",
+      "album": {
+        "name": "Madno",
+        "url": "https://open.spotify.com/album/5L0dMmVvTMJyOEh4dZerKU"
+      },
+      "artists": [
+        {
+          "name": "Yawar Abdal",
+          "url": "https://open.spotify.com/artist/0diT32N2N04X4L7NK3AK5P"
+        }
+      ],
+      "duration_ms": 333000,
+      "name": "Madno",
+      "url": "https://open.spotify.com/track/6JQGsT4utFMNXUanXvrAEd"
     },
     {
       "added_at": "2025-12-19 08:40:04",
@@ -1383,22 +1399,22 @@
     {
       "added_at": "2025-12-19 08:40:04",
       "album": {
-        "name": "pocket friendly: volume i",
-        "url": "https://open.spotify.com/album/6X1Y8C2xvh0yWYj1MrQZOh"
+        "name": "soot ke dhaage",
+        "url": "https://open.spotify.com/album/2JZBLunuXTO4PAYf2urEkp"
       },
       "artists": [
         {
-          "name": "sudan",
-          "url": "https://open.spotify.com/artist/7xLQxBMXlCJT50jWVZfSME"
+          "name": "Harpreet",
+          "url": "https://open.spotify.com/artist/53qrm6TRrT0N0UqnnUlSGb"
         },
         {
-          "name": "Tejas",
-          "url": "https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl"
+          "name": "Shellee",
+          "url": "https://open.spotify.com/artist/5DJ2ZMr3PC7eTtYAZLOP4n"
         }
       ],
-      "duration_ms": 167250,
-      "name": "a hiatus",
-      "url": "https://open.spotify.com/track/1pqqrwwQrb3HW9ctIN3K2E"
+      "duration_ms": 240519,
+      "name": "soot ke dhaage",
+      "url": "https://open.spotify.com/track/4Q1tiUCQePIzACoQP3FwsI"
     },
     {
       "added_at": "2025-12-19 08:40:04",
@@ -1419,38 +1435,22 @@
     {
       "added_at": "2025-12-19 08:40:04",
       "album": {
-        "name": "Madno",
-        "url": "https://open.spotify.com/album/5L0dMmVvTMJyOEh4dZerKU"
+        "name": "pocket friendly: volume i",
+        "url": "https://open.spotify.com/album/6X1Y8C2xvh0yWYj1MrQZOh"
       },
       "artists": [
         {
-          "name": "Yawar Abdal",
-          "url": "https://open.spotify.com/artist/0diT32N2N04X4L7NK3AK5P"
-        }
-      ],
-      "duration_ms": 333000,
-      "name": "Madno",
-      "url": "https://open.spotify.com/track/6JQGsT4utFMNXUanXvrAEd"
-    },
-    {
-      "added_at": "2025-12-19 08:40:04",
-      "album": {
-        "name": "soot ke dhaage",
-        "url": "https://open.spotify.com/album/2JZBLunuXTO4PAYf2urEkp"
-      },
-      "artists": [
-        {
-          "name": "Harpreet",
-          "url": "https://open.spotify.com/artist/53qrm6TRrT0N0UqnnUlSGb"
+          "name": "sudan",
+          "url": "https://open.spotify.com/artist/7xLQxBMXlCJT50jWVZfSME"
         },
         {
-          "name": "Shellee",
-          "url": "https://open.spotify.com/artist/5DJ2ZMr3PC7eTtYAZLOP4n"
+          "name": "Tejas",
+          "url": "https://open.spotify.com/artist/4CK1oDthUad8mQBb8GAcfl"
         }
       ],
-      "duration_ms": 240519,
-      "name": "soot ke dhaage",
-      "url": "https://open.spotify.com/track/4Q1tiUCQePIzACoQP3FwsI"
+      "duration_ms": 167250,
+      "name": "a hiatus",
+      "url": "https://open.spotify.com/track/1pqqrwwQrb3HW9ctIN3K2E"
     }
   ],
   "unique_name": "Naya Indiestan",

@@ -4,7 +4,7 @@
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-64 songs - 3 hr 54 min
+66 songs - 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,9 +25,11 @@
 | [Don't Speak](https://open.spotify.com/track/6JGQ98So2ik5GVI9ydQ2Yh) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [The Singles Collection](https://open.spotify.com/album/5fSlrmZPalwAAQDwu6shK2) | 4:22 | 2021-03-29 |  |
 | [DREAMPRINT](https://open.spotify.com/track/2zTYEsdtL8NBfuSFRXEX3h) | [NAMUT](https://open.spotify.com/artist/1kTGu1IKWqHRaCxx3RpzyH), [JULYX](https://open.spotify.com/artist/1uXd5rYQ8uoTxNEfwuvZX0) | [DREAMPRINT](https://open.spotify.com/album/0ishP3v2Lf1U7q7TFpD8jb) | 2:09 | 2025-12-08 |  |
 | [Dreams](https://open.spotify.com/track/2A94cKnGgmODcH9cQzoDoX) | [souhl](https://open.spotify.com/artist/4Ee5YS1tbDJz20cJocxN6y) | [Dreams](https://open.spotify.com/album/3h8Jt6ybUgccyBY0rSTC8J) | 3:28 | 2025-11-10 | 2025-11-27 |
+| [Dreamscape \(드림스케이프\)](https://open.spotify.com/track/2We94z0XW0hf5ipTCQ4qjx) | [ECLIPSE OF AERA](https://open.spotify.com/artist/3Stckikbh1beMMDjayt2W9) | [Dreamscape \(드림스케이프\)](https://open.spotify.com/album/7zi9YBeCkc37gauuPVzhKv) | 4:04 | 2025-12-23 |  |
 | [Endless Time](https://open.spotify.com/track/7iboyR2F62rpNt6hX4Z8Dq) | [Reminiscence](https://open.spotify.com/artist/2Mcl7mXh5xTr0cD3vmI0l0) | [Endless and Free](https://open.spotify.com/album/1pXbNpKvgqUtX924js0vhx) | 2:43 | 2025-11-13 | 2025-12-03 |
 | [Enjoy the Silence \- 2006 Remaster](https://open.spotify.com/track/1EjQRTG53jsinzk2xlVVJP) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Violator \(2006 Remaster\)](https://open.spotify.com/album/5g3Yi15plTSMaq6tYiuw8p) | 6:12 | 2021-03-29 |  |
 | [F.E.A.R.](https://open.spotify.com/track/5YeYIVwxXC2NHyBHSz8zOy) | [Ian Brown](https://open.spotify.com/artist/3s398TKZNahAURRacx7oIT) | [Music Of The Spheres](https://open.spotify.com/album/2EB1HKXeOOB4CqMGoSon1L) | 4:28 | 2021-03-29 |  |
+| [Fears](https://open.spotify.com/track/566anSusXyhMzCP0sjTHmd) | [Audio Entity](https://open.spotify.com/artist/2mKtj5JzkdmYJJnQKhnysU), [Woes & Wonder](https://open.spotify.com/artist/1ROh7khHluUL5ppnlyrMxA) | [Fears](https://open.spotify.com/album/1lCUfQ4Oadzz2xYdRsLaJE) | 4:27 | 2025-12-23 |  |
 | [Friends](https://open.spotify.com/track/1ngp4VERvcgXeBrzd0oGyh) | [Rení](https://open.spotify.com/artist/1vignVBMw8ZuYkG7QOIbOd) | [Friends](https://open.spotify.com/album/71DCqpJrZdisp5gYcJeo5H) | 2:32 | 2025-11-07 | 2025-11-22 |
 | [Gravity](https://open.spotify.com/track/4QIFS5XokMBJjfAdZjABPV) | [Embrace](https://open.spotify.com/artist/74K7bX12L8GBAWvPuyIgJ7) | [Out Of Nothing](https://open.spotify.com/album/5oJiqbHX8PnUc1uEEAcII7) | 4:40 | 2021-03-29 |  |
 | [Heading Home](https://open.spotify.com/track/0f8GYw2QMENtiJcGKnqsbq) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Washed Away](https://open.spotify.com/album/7FVNnbmjeSSrcKGSoErBre) | 2:10 | 2021-10-30 |  |

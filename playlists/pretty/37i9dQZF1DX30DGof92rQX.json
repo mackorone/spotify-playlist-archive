@@ -1,12 +1,12 @@
 {
   "description": "Latest Pakistani pop releases. Like this? Listen to the Pop hits in <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b\"> Pakistani Pop</a>. Cover - Ali Zafar",
-  "num_followers": 15931,
+  "num_followers": 15957,
   "original_name": "New Pakistani Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHhDer2od/61mYflmPmzIG4XBvM4",
+  "snapshot_id": "AAAAAD5P8ONVheee8m+4whBDnBtsuZt0",
   "tracks": [
     {
       "added_at": "2025-12-20 03:00:14",
@@ -23,6 +23,94 @@
       "duration_ms": 175000,
       "name": "Ruxaana",
       "url": "https://open.spotify.com/track/7IiueoPtKbX2eFrvbi75WG"
+    },
+    {
+      "added_at": "2025-12-23 07:27:26",
+      "album": {
+        "name": "Pighal Ja",
+        "url": "https://open.spotify.com/album/2tutm2q4q6AqJLW8ax27y8"
+      },
+      "artists": [
+        {
+          "name": "Abdul Hannan",
+          "url": "https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1"
+        },
+        {
+          "name": "Shahmeer Raza Khan",
+          "url": "https://open.spotify.com/artist/6j3aIgBaZMbcAJuTjGhhoK"
+        }
+      ],
+      "duration_ms": 134422,
+      "name": "Pighal Ja",
+      "url": "https://open.spotify.com/track/4KHJo29mW1oC5G45XjU8ge"
+    },
+    {
+      "added_at": "2025-12-23 07:27:26",
+      "album": {
+        "name": "Sachay Loki",
+        "url": "https://open.spotify.com/album/4CxKqfR8iepaAZGD0OsEeg"
+      },
+      "artists": [
+        {
+          "name": "Meesha Shafi",
+          "url": "https://open.spotify.com/artist/6gWwKC0laX7pTPjNgrwvQR"
+        },
+        {
+          "name": "Talwiinder",
+          "url": "https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN"
+        },
+        {
+          "name": "Abdullah Siddiqui",
+          "url": "https://open.spotify.com/artist/3PbkSdpJnYRF18jau74b7R"
+        }
+      ],
+      "duration_ms": 227999,
+      "name": "Sachay Loki",
+      "url": "https://open.spotify.com/track/0t2KHf7muYnObqP0vha1iX"
+    },
+    {
+      "added_at": "2025-12-19 04:00:28",
+      "album": {
+        "name": "Wo Noor",
+        "url": "https://open.spotify.com/album/5bJ4KT2nA3oE2YNwvcArzI"
+      },
+      "artists": [
+        {
+          "name": "Hamzay",
+          "url": "https://open.spotify.com/artist/3jZgv3hijK101spub7clyS"
+        },
+        {
+          "name": "Sajjal Zee",
+          "url": "https://open.spotify.com/artist/7eHxcO6Pl6PQMXXwLSeI1E"
+        },
+        {
+          "name": "Mehmood J",
+          "url": "https://open.spotify.com/artist/4dDplWRph6eniqpE1VIwYF"
+        }
+      ],
+      "duration_ms": 207457,
+      "name": "Wo Noor",
+      "url": "https://open.spotify.com/track/3Dl1JUk69O39rSaIllYzzA"
+    },
+    {
+      "added_at": "2025-12-23 07:39:16",
+      "album": {
+        "name": "asra",
+        "url": "https://open.spotify.com/album/6xw8Z1GLVFtokEPnduIIva"
+      },
+      "artists": [
+        {
+          "name": "danish roomi",
+          "url": "https://open.spotify.com/artist/719laN9dZ4QG7Q2F2vOwcP"
+        },
+        {
+          "name": "prod. Azlan",
+          "url": "https://open.spotify.com/artist/6KmPXJIN3kpZx5dPL39Nxt"
+        }
+      ],
+      "duration_ms": 267650,
+      "name": "asra",
+      "url": "https://open.spotify.com/track/69qum2btpInkYmCPXWDY4V"
     },
     {
       "added_at": "2025-12-12 05:08:46",
@@ -151,30 +239,6 @@
       "duration_ms": 135791,
       "name": "Fuzool",
       "url": "https://open.spotify.com/track/7Bmrm4DU6AD86HnebNaAPY"
-    },
-    {
-      "added_at": "2025-12-19 04:00:28",
-      "album": {
-        "name": "Wo Noor",
-        "url": "https://open.spotify.com/album/5bJ4KT2nA3oE2YNwvcArzI"
-      },
-      "artists": [
-        {
-          "name": "Hamzay",
-          "url": "https://open.spotify.com/artist/3jZgv3hijK101spub7clyS"
-        },
-        {
-          "name": "Sajjal Zee",
-          "url": "https://open.spotify.com/artist/7eHxcO6Pl6PQMXXwLSeI1E"
-        },
-        {
-          "name": "Mehmood J",
-          "url": "https://open.spotify.com/artist/4dDplWRph6eniqpE1VIwYF"
-        }
-      ],
-      "duration_ms": 207457,
-      "name": "Wo Noor",
-      "url": "https://open.spotify.com/track/3Dl1JUk69O39rSaIllYzzA"
     },
     {
       "added_at": "2025-12-12 05:08:46",
@@ -431,26 +495,6 @@
       "duration_ms": 188000,
       "name": "Khabbay Sajjay",
       "url": "https://open.spotify.com/track/49HAw9PJZVV2j4N8kMhr5S"
-    },
-    {
-      "added_at": "2025-12-12 05:08:46",
-      "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/7EKqdWm060nkTukLl4on3s"
-      },
-      "artists": [
-        {
-          "name": "Prem Lata",
-          "url": "https://open.spotify.com/artist/3ufBSdoViRPzJXqGPVy8rH"
-        },
-        {
-          "name": "Buzz Records",
-          "url": "https://open.spotify.com/artist/5ORJ4Z5Yp2Wo5fkkgw7LwF"
-        }
-      ],
-      "duration_ms": 255306,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/488FxnoZuTf71TicGQA2US"
     },
     {
       "added_at": "2025-12-12 05:08:46",
@@ -719,30 +763,6 @@
     {
       "added_at": "2025-12-12 05:08:46",
       "album": {
-        "name": "Luv Summer",
-        "url": "https://open.spotify.com/album/4Rj4pFxfcihI6WlC8efI1v"
-      },
-      "artists": [
-        {
-          "name": "Umair",
-          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
-        },
-        {
-          "name": "Jevin Gill",
-          "url": "https://open.spotify.com/artist/4wOKfu3A61gCA7lWEynNoe"
-        },
-        {
-          "name": "Afusic",
-          "url": "https://open.spotify.com/artist/1pS0qiLG23HMMLFwsQALKx"
-        }
-      ],
-      "duration_ms": 170376,
-      "name": "Luv Summer",
-      "url": "https://open.spotify.com/track/72fnjwohXwVLqudRXiRmbc"
-    },
-    {
-      "added_at": "2025-12-12 05:08:46",
-      "album": {
         "name": "Dil Kay Parday",
         "url": "https://open.spotify.com/album/2syS3QElH8i353yYdXNBam"
       },
@@ -899,22 +919,6 @@
       "duration_ms": 228235,
       "name": "Kajal",
       "url": "https://open.spotify.com/track/6Es6XOl6t9Q7pGAnhMRBD8"
-    },
-    {
-      "added_at": "2025-12-12 05:08:46",
-      "album": {
-        "name": "Spectacle",
-        "url": "https://open.spotify.com/album/3LLhUDBetTk00qqcHo7ukH"
-      },
-      "artists": [
-        {
-          "name": "Ali Sheikh",
-          "url": "https://open.spotify.com/artist/0bqSsjDw6CNJDpERpp9vIU"
-        }
-      ],
-      "duration_ms": 192413,
-      "name": "Spectacle",
-      "url": "https://open.spotify.com/track/3lzx6IeLfPAWYX0k2Cb3ry"
     },
     {
       "added_at": "2025-12-12 05:08:46",

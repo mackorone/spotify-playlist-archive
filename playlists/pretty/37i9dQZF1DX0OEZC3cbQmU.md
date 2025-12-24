@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0OEZC3cbQmU.md) - [plain]
 
 > A palavra do Senhor na voz de grandes adoradores do Brasil\. Foto: Nair Nany
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,326,677 likes - 75 songs - 8 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,326,742 likes - 75 songs - 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0OEZC3cbQmU.md) - [plain]
 | 74 | [Deus Na Minha História \- Ao Vivo](https://open.spotify.com/track/2nlHtfRwbpVcpxOoF2k6c0) | [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [Deus Na Minha História \(Ao Vivo\)](https://open.spotify.com/album/2ln5PbRPWYVc3Cq43uVCIQ) | 3:27 |
 | 75 | [Eu Só Quero Adorar](https://open.spotify.com/track/0NUF4588gE3fH3GJdNtQFr) | [Giselli Cristina](https://open.spotify.com/artist/3UZ4OGYI3ycaPT42PUS25B), [Maximus Records](https://open.spotify.com/artist/1bFepcvSYELb5Oz656krWR), [Nícolas Henrique](https://open.spotify.com/artist/5xvISfiKpFFkYr6MUfEbnU) | [Eu Só Quero Adorar](https://open.spotify.com/album/0J0CZ6pQkckFYkOfWxBfBs) | 4:15 |
 
-Snapshot ID: `AAAAAFHxK6ZTeL+S1+MfHCDoKADdqXzS`
+Snapshot ID: `AAAAACkLXyGwt2iQ41N89lV2QxwYaito`

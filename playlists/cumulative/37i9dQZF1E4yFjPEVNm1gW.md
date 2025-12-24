@@ -4,7 +4,7 @@
 
 > With Yeat, Ken Carson, Autumn! and more
 
-90 songs - 3 hr 35 min
+92 songs - 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [CURRY SLIDE](https://open.spotify.com/track/1SnlLIIiqtnP6o9hEQ8jqE) | [rexv2](https://open.spotify.com/artist/1zYtGI84oTXVPEuT39M1IC) | [Winners Circle](https://open.spotify.com/album/0yxlQ39ZbUAqRpjGSC6BJL) | 2:08 | 2025-11-29 |  |
 | [DAMN HOMIE \(feat\. Lil Yachty\)](https://open.spotify.com/track/3YJP7MFR6D4R1zFDXmv35p) | [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [VIRALITY](https://open.spotify.com/album/4cZQDPI9rDzPpqMMLyvj7B) | 2:20 | 2025-12-05 | 2025-12-10 |
 | [DELETING…](https://open.spotify.com/track/0sgVWPo45mm5sbR3Av6kPv) | [$huTtA](https://open.spotify.com/artist/3irY3PtwMCukbx9BluhIJB) | [DELETING…](https://open.spotify.com/album/3BUKRW3jJKZksSwmVdRGLc) | 2:18 | 2025-12-14 | 2025-12-22 |
-| [Disagree](https://open.spotify.com/track/0j1oCSyf33qqdmQ49Iro7r) | [Duwap Kaine](https://open.spotify.com/artist/5fBcVfTWenqUDOYR5SjzEQ) | [Disagree](https://open.spotify.com/album/670icObNVMYesRcjmyXdT2) | 2:16 | 2025-12-01 |  |
+| [Disagree](https://open.spotify.com/track/0j1oCSyf33qqdmQ49Iro7r) | [Duwap Kaine](https://open.spotify.com/artist/5fBcVfTWenqUDOYR5SjzEQ) | [Disagree](https://open.spotify.com/album/670icObNVMYesRcjmyXdT2) | 2:16 | 2025-12-01 | 2025-12-24 |
 | [Everytime](https://open.spotify.com/track/7zxJ1u8enmhpPNEExmKSbZ) | [sixsick](https://open.spotify.com/artist/0BqEJxpM3FdO3zOQxfQIDG) | [Leftovr Drugz](https://open.spotify.com/album/3kEZUJgiCDTfEMHJBSyxzu) | 2:45 | 2025-12-05 | 2025-12-10 |
 | [FACES](https://open.spotify.com/track/6dlCIAXIOj2wqPQbthlLin) | [Epho](https://open.spotify.com/artist/6E1k9FStKYBjQfzrANVUpe), [Canaan Hill](https://open.spotify.com/artist/2ofQoqwj9pNZWKA9gnSJSl) | [Gethsemane](https://open.spotify.com/album/61xZCgjnuFL6ZAzzL7wE5a) | 2:06 | 2025-11-29 | 2025-12-05 |
 | [Fake Lean](https://open.spotify.com/track/2WFIP6q6kHq5Rb2jyRHPMt) | [Liltae2](https://open.spotify.com/artist/39Uy66VmUsYNXUMGSPamA2), [10TA Lil A](https://open.spotify.com/artist/3E7zyjnY6AthfEeOAT1x3e), [Jay Juice](https://open.spotify.com/artist/64Hl5LjrETEjFk8WW1wkte), [Tse e2](https://open.spotify.com/artist/19BlmxaBy9f5dziurbhQLK) | [Higher Then Most Mixtape](https://open.spotify.com/album/5iL5cwFTfyC9XBfAqZjWF8) | 2:02 | 2025-11-29 | 2025-12-05 |
@@ -39,6 +39,7 @@
 | [Gotham](https://open.spotify.com/track/6UlMJm6W9ejt7WaSZgwN9N) | [Wavy](https://open.spotify.com/artist/2Cd5g6dhahk4tkc76TkiPm) | [Gotham](https://open.spotify.com/album/73HinW2N7BXiYzNfGy7yIm) | 2:33 | 2025-11-29 | 2025-12-01 |
 | [Hatër](https://open.spotify.com/track/7u48RjanhFy30zE8N5dOiw) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2 Alivë \(Geëk Pack\)](https://open.spotify.com/album/0345WPzPBSeISh2IpIQWxT) | 2:32 | 2025-11-30 |  |
 | [Higher Than Yall \- feat\. KARRAHBOOO](https://open.spotify.com/track/5NpzNMgZJYcgDf7ay92fsw) | [Lil Gnar](https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB), [KARRAHBOOO](https://open.spotify.com/artist/3vXXs7JjWfPO0YHhDnj4SP) | [IN MY GLORY](https://open.spotify.com/album/4RZllnrxIvTP1BKSa9SnOI) | 2:17 | 2025-11-29 | 2025-12-09 |
+| [IDK](https://open.spotify.com/track/1tdofYaObJtffeWsCFrg04) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [IDK](https://open.spotify.com/album/1s3Fi0Esr37lOvmigDbMkv) | 3:06 | 2025-12-24 |  |
 | [imposter](https://open.spotify.com/track/14DqYafHROsQH834bFBVbt) | [boolymon](https://open.spotify.com/artist/0T4s3xc50BkYsAvK2tV9cd) | [imposter](https://open.spotify.com/album/4ZSVleSwpCk6pzhBBiXP5m) | 1:48 | 2025-11-29 |  |
 | [INDUSTRY PLANT](https://open.spotify.com/track/2Aao3bufeuxEa38YbFv4lU) | [K!no](https://open.spotify.com/artist/1dHcJc1Gq7dbyOm9cIiy81) | [INDUSTRY PLANT](https://open.spotify.com/album/5BNrO66yui2L7StgLrz4To) | 1:53 | 2025-11-29 | 2025-12-01 |
 | [Jersey](https://open.spotify.com/track/4fFG5J3kEBFQ0tL6YVKrdn) | [Cl4pers](https://open.spotify.com/artist/7J2iS8AJGjC7om2vgBXdDJ) | [Jersey](https://open.spotify.com/album/22VaD5pmMG9ZEmbEIfbXIH) | 2:43 | 2025-11-29 |  |
@@ -54,6 +55,7 @@
 | [Monëy so big](https://open.spotify.com/track/4Se3fXoHJkcraQzJXo2IYn) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Up 2 Më](https://open.spotify.com/album/3ZKEPJwhLcpUfYPMIsC4PF) | 2:40 | 2025-11-29 |  |
 | [Muay Thai](https://open.spotify.com/track/0omR5DOPM9BYS6LDoEh5g6) | [Luh keithan!](https://open.spotify.com/artist/29jQwDErYhTnGAuJx58ogV), [hzzikyah](https://open.spotify.com/artist/4wk1MJDiqsB3oIQ3DIOI9z) | [Clinched Teeth](https://open.spotify.com/album/4TTioZWmaRrLsjjU3fjTbF) | 2:45 | 2025-12-10 | 2025-12-16 |
 | [MY TIME](https://open.spotify.com/track/5DyxMRXh5kKwDPzbOSA1No) | [Kj2wavyy](https://open.spotify.com/artist/4ydOHPN2YSiPkCpbnSPIWT) | [2WO FOREVER](https://open.spotify.com/album/5vnLVwhfZcb6TLs5AMrV0E) | 3:13 | 2025-12-14 | 2025-12-17 |
+| [NBA BALLERZ \- Bonus](https://open.spotify.com/track/4ilBeqxoiy22rcDCxLJ2or) | [bl4cko](https://open.spotify.com/artist/0MH4zoDSBlXyGqnQQIRcaV), [xtsy\*](https://open.spotify.com/artist/5spNfNcEgssXmB1893yRLN) | [XSZN\*](https://open.spotify.com/album/1BTUDAHy9OylorO3jSXCWW) | 1:57 | 2025-12-24 |  |
 | [Neck](https://open.spotify.com/track/7cf1ajZuGKZA0tj7RxB8xs) | [surelynotsibi42](https://open.spotify.com/artist/6kQZyWgAMsM7U7vRlWLYd2) | [64 / Neck](https://open.spotify.com/album/63XdNvh7XaNTdHSZtBSob1) | 2:05 | 2025-12-15 |  |
 | [Never See You Again](https://open.spotify.com/track/3XNEQGUuYegrf0C4SPUjBH) | [Stacks BW](https://open.spotify.com/artist/2a6VeYZhPLlUovs8VFfvOS), [BTF IV](https://open.spotify.com/artist/75Rjjm94dIK1UtymN4WaQC) | [Never See You Again](https://open.spotify.com/album/67Uxm51er9o2nOtdrnsm6I) | 1:46 | 2025-12-05 | 2025-12-12 |
 | [Never that](https://open.spotify.com/track/0D50kcPvpyuGG6aIWi48WA) | [kappaa!](https://open.spotify.com/artist/59qj4dTLo3tVzjVGNTvgPu) | [Never that](https://open.spotify.com/album/4o9ltariIy117ZZ15zd9pq) | 2:43 | 2025-12-08 |  |
@@ -64,7 +66,7 @@
 | [Notre dame](https://open.spotify.com/track/2Hm4fWgnp34KfiCuIibtTt) | [Jbeezy.Lfg](https://open.spotify.com/artist/3ag9Q03DMBdEd0IExnBmE4) | [Live for Greatness](https://open.spotify.com/album/11b1KNaook67WdX6GpbGCM) | 2:42 | 2025-12-12 | 2025-12-20 |
 | [Opp's Hood](https://open.spotify.com/track/2oe0X2oRea7TG5B77sDGO4) | [Backayarl](https://open.spotify.com/artist/77MreVLzNRDkMwkF8MBB21) | [Never Lose](https://open.spotify.com/album/6UePZA2W3KscieTmTiJyax) | 2:02 | 2025-12-06 | 2025-12-12 |
 | [Outta Time](https://open.spotify.com/track/14X6eTpHy7KBldsJwP1P4U) | [Desire](https://open.spotify.com/artist/3KPcAghCkTbiBpuAsZnWv3) | [From The Heart](https://open.spotify.com/album/3lghW9KrrpM6RoW3a1asdz) | 2:02 | 2025-12-09 |  |
-| [P!NK GUN](https://open.spotify.com/track/08BRHjbgydIasySvi2lTpg) | [Nb Bankz](https://open.spotify.com/artist/0HOwMQocoFYdahNLRUtPKb) | [The Bank Is Open](https://open.spotify.com/album/2bcxjvR1K2TP7Gyz7Jbdim) | 2:18 | 2025-12-22 |  |
+| [P!NK GUN](https://open.spotify.com/track/08BRHjbgydIasySvi2lTpg) | [Nb Bankz](https://open.spotify.com/artist/0HOwMQocoFYdahNLRUtPKb) | [The Bank Is Open](https://open.spotify.com/album/2bcxjvR1K2TP7Gyz7Jbdim) | 2:18 | 2025-12-22 | 2025-12-24 |
 | [PDL](https://open.spotify.com/track/3k2xRF5wGlAZnRsSPOOAXn) | [Pasto Flocco](https://open.spotify.com/artist/4dQKBmnccqxpFiAk5qmvy7) | [GLE Presents: BLUEBILLZ EP](https://open.spotify.com/album/2yLq95mpSfaL9959tkbyL8) | 2:07 | 2025-11-29 | 2025-12-01 |
 | [petrol](https://open.spotify.com/track/3JBtFRUOBOSTUTMNu9s3MM) | [1oneam](https://open.spotify.com/artist/089ASSwOW4Cih3frNuDtUv) | [Sin +](https://open.spotify.com/album/0SGShXyFMMIf64gSEI4Whz) | 1:52 | 2025-12-09 |  |
 | [POETRY](https://open.spotify.com/track/7ynWM21CmrgpzyllPO4Rw3) | [Lord Simmy](https://open.spotify.com/artist/1x56BjunhKrTqDZSXvOgFt) | [POETRY](https://open.spotify.com/album/15vdbHHoAC9ouX5LzCr5Tz) | 2:12 | 2025-11-29 |  |

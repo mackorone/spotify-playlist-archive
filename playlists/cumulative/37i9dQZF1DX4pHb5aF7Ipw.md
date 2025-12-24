@@ -4,7 +4,7 @@
 
 > Fresh Punjabi Hip\-Hop Tracks by BAGI MUNDA & More
 
-865 songs - 1 day 16 hr 6 min
+866 songs - 1 day 16 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -616,7 +616,7 @@
 | [P\-POP CULTURE](https://open.spotify.com/track/5uXge1cK24monr2woxAZ7F) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [P\-POP CULTURE](https://open.spotify.com/album/56ojNOZ9rz0PnhSaHHTL7y) | 3:31 | 2025-08-22 | 2025-10-25 |
 | [P.O.V \(Point of View\)](https://open.spotify.com/track/6h5cT4n75VWK95VDW07EFw) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Yeah Proof](https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2) | [P.O.V \(Point of View\)](https://open.spotify.com/album/65vqiJwNrkv0it9fclatIK) | 3:05 | 2023-05-26 | 2024-09-10 |
 | [Paagal](https://open.spotify.com/track/5zzjRxWVspz0DdpKcbDtWK) | [Vaibhav Kundra](https://open.spotify.com/artist/3XAdZyZkmNsijRsRF6hjRe), [Taimour Baig](https://open.spotify.com/artist/1yMP2gzEFgUkib4khXN6hi) | [Paagal](https://open.spotify.com/album/7ly3aOw2u28Jg8EKl6rRFf) | 3:04 | 2024-09-09 | 2024-10-04 |
-| [Panga Paigeya](https://open.spotify.com/track/581ZnL4eHPqiMh78BpFRao) | [Fateh](https://open.spotify.com/artist/1t44XSPiW7z8PebleCo7uP) | [Don't Forget To Call](https://open.spotify.com/album/4NDQwpAA6rB7Y6X3e8LMxm) | 2:33 | 2025-11-28 |  |
+| [Panga Paigeya](https://open.spotify.com/track/581ZnL4eHPqiMh78BpFRao) | [Fateh](https://open.spotify.com/artist/1t44XSPiW7z8PebleCo7uP) | [Don't Forget To Call](https://open.spotify.com/album/4NDQwpAA6rB7Y6X3e8LMxm) | 2:33 | 2025-11-28 | 2025-12-24 |
 | [PANJAAB](https://open.spotify.com/track/6eOgs8wD2bpVIe0z9mU5mF) | [Nxvie](https://open.spotify.com/artist/5zizLY93WjndfjUEAdPFMC), [Sxndhu](https://open.spotify.com/artist/7Mi8RpF66gGb90bb3B1kbb), [Andy Grewal](https://open.spotify.com/artist/5PCB0eH1q1vRmI70ibdTeh), [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN) | [NXTAPE Vol\. 1](https://open.spotify.com/album/1zBTPKl3FJ8UTEAnBOwomQ) | 3:28 | 2025-05-13 | 2025-07-16 |
 | [PANJAB](https://open.spotify.com/track/7whjXmPLiNJJkzblCU9d4B) | [Sardar Khehra](https://open.spotify.com/artist/3YhEUyspZuU7pfEzmpFCsP), [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm), [4TheWorld](https://open.spotify.com/artist/1NmxtNejR6ZXZUFcEyrBm1) | [PANJAB](https://open.spotify.com/album/584j4Wpkz7gxuwsXpchI79) | 2:50 | 2025-09-26 | 2025-11-22 |
 | [Parameters](https://open.spotify.com/track/70mtJtGHK7dVCboKkhIFCv) | [Mahlan Wala 59](https://open.spotify.com/artist/6AONermxpKHYKrOPPAI5gS), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Parameters](https://open.spotify.com/album/36owvSVQ9X2k1CEE2aSiTX) | 3:09 | 2025-01-10 | 2025-03-05 |
@@ -780,6 +780,7 @@
 | [The Flow](https://open.spotify.com/track/1Pk7D9aRHKhfu9A5BN18Jf) | [Gurjas Sidhu](https://open.spotify.com/artist/5PG1p5BLA6PsBFu2V2nC6y), [Syphr](https://open.spotify.com/artist/1p0cpaSetvDyBCogumWAXM) | [The Flow](https://open.spotify.com/album/21ZSpe7ee0L2wQz9PRoJXg) | 2:10 | 2024-12-12 | 2025-02-22 |
 | [The Singh Anthem](https://open.spotify.com/track/3jf41pbEadrfqfbf58LdDo) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4) | [Warriors Honour](https://open.spotify.com/album/5iNzw2rmrjRPgoB4p9CbgN) | 3:44 | 2024-12-24 | 2025-03-15 |
 | [They Don't Know](https://open.spotify.com/track/3rQmvM91VG7Yq3gqQXq6nu) | [Jxggi](https://open.spotify.com/artist/3fD8S8sslhiMSVOdXv8yuG), [Sickboi](https://open.spotify.com/artist/2RSjOH1tYnTgkpkz81WICb) | [Breakin Boundaries](https://open.spotify.com/album/4P8OqjU0giUlyoPgCLnR2e) | 2:42 | 2024-09-05 | 2024-10-01 |
+| [Thinking](https://open.spotify.com/track/33R3qS9Gsq6ig289ZxiHFx) | [NIJJAR](https://open.spotify.com/artist/4tnu4MuDLf51KcBOYvaB5W) | [Thinking](https://open.spotify.com/album/2i5azk8pvUowCWqhRN1t4X) | 2:40 | 2025-12-23 |  |
 | [Thoughts](https://open.spotify.com/track/2VU1NsFvKsrwKKkesYI62Q) | [Real Boss](https://open.spotify.com/artist/7mAbpafXc2MIAZn4ldxEuP), [Arvin Beatz](https://open.spotify.com/artist/2GaqYSHNeH0PKPCl0Vcn84) | [666](https://open.spotify.com/album/64IT4k9eVNt1gup1DMbA5e) | 2:22 | 2025-03-14 | 2025-06-07 |
 | [Threat Call](https://open.spotify.com/track/1iLwI5W2dGRnnTf9g6qlsj) | [Sardar Khehra](https://open.spotify.com/artist/3YhEUyspZuU7pfEzmpFCsP), [4TheWorld](https://open.spotify.com/artist/1NmxtNejR6ZXZUFcEyrBm1) | [LOCKED IN](https://open.spotify.com/album/5OcVtSXrIo6XSew4OUdWfa) | 2:20 | 2024-09-16 | 2024-11-08 |
 | [Three Years](https://open.spotify.com/track/0P74yTGkghBVaeXEdyUnFv) | [JAI DHIR](https://open.spotify.com/artist/6T9VTdP8GxXoedKTls26pP), [Ysoblue](https://open.spotify.com/artist/2ASakRf4a8CynyqnuCMEww) | [Three Years](https://open.spotify.com/album/75gemJLC1uOy1R0TRxC4vL) | 2:56 | 2024-09-20 | 2024-11-12 |

@@ -4,7 +4,7 @@
 
 > The ultimate classical playlist for soothing stretching, practicing pliés and point at the barre.
 
-121 songs - 7 hr 43 min
+122 songs - 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [The Nutcracker, Op\. 71, TH 14, Act II Tableau 3: No\. 13, Valse des fleurs \(Arr\. for Piano by Peter Breiner\)](https://open.spotify.com/track/4ecVRTnGsRXYkhVpv62MMc) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Peter Breiner](https://open.spotify.com/artist/50MREZ0LJcSvrtKuyTV8Su) | [Tchaikovsky: Greatest Melodies](https://open.spotify.com/album/0Zd9QG4qqJEVcxG6Tbo6nw) | 2:15 | 2025-08-08 |  |
 | [The Nutcracker, Op\. 71, TH 14, Act II Tableau 3: No\. 14, Pas de deux\. Var\. 2, Andante ma non troppo "Dance of the Sugarplum Fairy" \(Arr\. for Piano by Peter Breiner\)](https://open.spotify.com/track/4GisdzBA1bzChJfUOzatxc) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Peter Breiner](https://open.spotify.com/artist/50MREZ0LJcSvrtKuyTV8Su) | [Tchaikovsky: Greatest Melodies](https://open.spotify.com/album/0Zd9QG4qqJEVcxG6Tbo6nw) | 2:11 | 2025-08-08 |  |
 | [The Seasons, Op\. 37a: VI\. June\. Barcarolle](https://open.spotify.com/track/5PJv9lOarcROmaA9hDmdnJ) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Bruce Liu](https://open.spotify.com/artist/3GMPZX0AZo90KkPjFpgPT9) | [Tchaikovsky: The Seasons, Op\. 37a: VI\. June\. Barcarolle](https://open.spotify.com/album/1n1EFvyLZ1j5H7D2qMTXDA) | 5:29 | 2025-01-10 | 2025-08-09 |
+| [To Autumn](https://open.spotify.com/track/47UV2tMnEjFaJiVAyUiPPY) | [Luke Faulkner](https://open.spotify.com/artist/2KTBCTcRbjSO03qPsUeqq3) | [To Autumn](https://open.spotify.com/album/7kIqesdci5yIDjvb5p8tcg) | 1:38 | 2025-12-23 |  |
 | [Too Soon](https://open.spotify.com/track/1hlehqO6Po7esrHu0vi9Di) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Too Soon](https://open.spotify.com/album/300dan74UOvzoVEVeS6iNW) | 4:03 | 2022-09-09 | 2024-04-19 |
 | [Too Soon](https://open.spotify.com/track/4tHgc1wzy1DovlUbgyb0kt) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Too Soon](https://open.spotify.com/album/0AxbzEy4aIzEiY7zaUbMhb) | 4:03 | 2021-03-18 | 2023-03-09 |
 | [Too Soon](https://open.spotify.com/track/1nqFHztC0sDmMVqxksjNVL) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Too Soon](https://open.spotify.com/album/5kkUYXyrANeClclVI4nQow) | 4:03 | 2021-03-18 | 2025-08-09 |

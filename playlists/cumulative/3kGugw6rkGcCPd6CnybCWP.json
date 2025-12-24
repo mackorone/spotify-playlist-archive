@@ -629,6 +629,24 @@
     },
     {
       "album": {
+        "name": "Hold On Til You Let Go",
+        "url": "https://open.spotify.com/album/1BXaEV0oVzH4Uch6fuClSf"
+      },
+      "artists": [
+        {
+          "name": "Michael Barrow & the Tourists",
+          "url": "https://open.spotify.com/artist/1mhe70fSiQDyc16JVlhBUE"
+        }
+      ],
+      "date_added": "2025-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Hold On Til You Let Go (Tourist Version)",
+      "url": "https://open.spotify.com/track/7nkBhPsOjWRjvTGZI1DPyz"
+    },
+    {
+      "album": {
         "name": "holdingontosafety",
         "url": "https://open.spotify.com/album/122NulHFFZ34lnasM1rBnR"
       },

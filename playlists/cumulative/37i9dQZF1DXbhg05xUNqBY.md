@@ -4,13 +4,13 @@
 
 > As you lay yourself to sleep, or take some time to rest, may you have peace relaxing to these calming songs of faith.
 
-358 songs - 23 hr 38 min
+359 songs - 23 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [06:00 Sunrise](https://open.spotify.com/track/3mCfc1Sf16fonjtBdxZOXC) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [Twenty Four](https://open.spotify.com/album/0tyhsvvuD7LAkKv2Z9FfU2) | 2:18 | 2021-10-31 | 2024-06-23 |
 | [444](https://open.spotify.com/track/13guW1X33I82iJyez9u2OS) | [eightFour](https://open.spotify.com/artist/73JRUWCiA2RChSaOq9fkKs), [Calah Mikal](https://open.spotify.com/artist/2c2Y05pVIabK1AT1zfsH0h) | [444](https://open.spotify.com/album/4J1fNs6tW4c8pAulsasoAK) | 2:56 | 2025-08-08 |  |
-| [46 \(Be Still\)](https://open.spotify.com/track/5Fst175rlfuQQxYvpyfyrv) | [Union Creative](https://open.spotify.com/artist/5yU2qZj0bSVbYPXREUulnX) | [46 \(Be Still\)](https://open.spotify.com/album/5fBefottJHctZtuKDQzyH6) | 4:14 | 2024-07-26 |  |
+| [46 \(Be Still\)](https://open.spotify.com/track/5Fst175rlfuQQxYvpyfyrv) | [Union Creative](https://open.spotify.com/artist/5yU2qZj0bSVbYPXREUulnX) | [46 \(Be Still\)](https://open.spotify.com/album/5fBefottJHctZtuKDQzyH6) | 4:14 | 2024-07-26 | 2025-12-24 |
 | [Agnus Dei](https://open.spotify.com/track/3UTgRmOlROxB1Ly99MAMzv) | [Megan Tibbits](https://open.spotify.com/artist/3J84729yu2ddpUVNcbqeWQ) | [Agnus Dei](https://open.spotify.com/album/0FI9YzwKRttLTCbYj4kHor) | 5:16 | 2025-04-05 |  |
 | [All Blessing](https://open.spotify.com/track/77akNBdUgVyOW1ECLt94BX) | [Anna Childs](https://open.spotify.com/artist/3uLkyG01b7EWl1e1RM3Jck) | [All Blessing](https://open.spotify.com/album/0gmV0YaQmCDasG9wmMgqpG) | 4:16 | 2025-10-10 |  |
 | [All I Truly Know](https://open.spotify.com/track/6h0AC9XW1XI89240ONvx7D) | [Seth Carpenter](https://open.spotify.com/artist/2jveyjr93fq4ZFgIjG4vFt) | [All I Truly Know](https://open.spotify.com/album/3uG7sSj5QiHYKTnv6oUhV3) | 3:30 | 2025-04-05 |  |
@@ -242,6 +242,7 @@
 | [Prayers Filled With Praises \- ambient](https://open.spotify.com/track/6RbFD1qIQ4a08mozuzVEqd) | [Austin Ludwig](https://open.spotify.com/artist/6DKCKaDzsoRmeqiQq5QHgL), [Christian Singleton](https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE) | [Prayers Filled With Praises \(ambient\)](https://open.spotify.com/album/3BSgd7ZNA7MwVlJS8VUd5F) | 4:06 | 2025-04-05 | 2025-10-11 |
 | [Precious](https://open.spotify.com/track/2jTjDrh3tF5YEDBTrp29hI) | [Mark Barlow](https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl) | [Hymns & Soul](https://open.spotify.com/album/4hDfflz1fKAQt3ZRGVZ8cB) | 6:07 | 2023-02-07 | 2023-09-09 |
 | [Precious Gold](https://open.spotify.com/track/3PlBhFVssO6n9qfEBnQDT9) | [Mission House](https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Precious Gold](https://open.spotify.com/album/7suFMd6EWH8KZuCHdKa02J) | 3:36 | 2025-04-05 |  |
+| [Precious Wine](https://open.spotify.com/track/0nkjRQ02czr5R11E0EeWCb) | [Kieran De La Harpe](https://open.spotify.com/artist/0ga5nCOIYGuTbCaY6yHIOl), [Eliza King](https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa), [Rothbury](https://open.spotify.com/artist/5e4UQky2DVDYIDLwxzZsye) | [Precious Wine](https://open.spotify.com/album/5aZ4Gy4rkDIdmcpVmwNRAn) | 6:18 | 2025-12-13 |  |
 | [prove it](https://open.spotify.com/track/2lQzzCFOMzM1nrKPMH8eoG) | [Marie Love](https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h), [Faith Lofi](https://open.spotify.com/artist/3Mu22Y9BefRhJRYhyfP463) | [prove it](https://open.spotify.com/album/5iN9wvIKMNLlOw6es5Kc03) | 2:42 | 2021-10-31 | 2025-08-09 |
 | [Providence](https://open.spotify.com/track/7G8ZEE8HmuPPfy5JE5PE8b) | [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo) | [Providence](https://open.spotify.com/album/16PEcahwDYpgyENSSIBPfN) | 6:18 | 2021-10-31 | 2025-08-09 |
 | [Psalm 16](https://open.spotify.com/track/1rgIhsWQQ6JUWHQDiVlHPG) | [Megan Brown](https://open.spotify.com/artist/6HSBnvtPkxHCPcHFmsmnCb) | [Psalm 16](https://open.spotify.com/album/3d9KcEGWRjeffR65JxSB6t) | 4:29 | 2024-06-23 | 2024-07-27 |

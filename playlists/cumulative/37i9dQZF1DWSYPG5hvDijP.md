@@ -4,7 +4,7 @@
 
 > Naya Hip\-Hop Hindi! Cover: Dino James
 
-1,268 songs - 2 day 14 hr 0 min
+1,269 songs - 2 day 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1047,6 +1047,7 @@
 | [Shameless](https://open.spotify.com/track/0CPOHAuGxrX5WczgA4viLN) | [Bali](https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8), [Enzo](https://open.spotify.com/artist/0QX0UY2UJtnhfEbqUbTz6h) | [Shameless](https://open.spotify.com/album/6qqPdYZa01uw1KeNRch2Mn) | 2:21 | 2025-03-07 | 2025-04-26 |
 | [Shanti](https://open.spotify.com/track/6aE3hmBSMwAmsMfNkgCsl2) | [Muhfaad](https://open.spotify.com/artist/5pqZ05b1zkz3er6iz4d4qr), [GAUSH](https://open.spotify.com/artist/5UPhqOBfNq83B0vOaLocFM), [Kartikey Jaiswal](https://open.spotify.com/artist/4FSpqDVbe1A3VyQYn9RVw2) | [Mahadasha](https://open.spotify.com/album/4t5Qeg9YdtsucQxAeaolSE) | 4:42 | 2025-02-21 | 2025-04-16 |
 | [SHARMEELI](https://open.spotify.com/track/1zaDxoxv6CjrS9sLarRs8a) | [Frappe Ash](https://open.spotify.com/artist/2dWPVvGGO8qRREfIwdXHZH), [toorjo dey](https://open.spotify.com/artist/2K7LWCOiWME8Na9QWEbUwL) | [Ice Cream Frappe](https://open.spotify.com/album/2IZGdcRwNgJVj3JRX5e0iL) | 2:10 | 2025-09-26 | 2025-11-08 |
+| [SHATRANJ](https://open.spotify.com/track/0bSc3tIXsQm31ViqpP8waL) | [VEERMUSIC](https://open.spotify.com/artist/6unhoQGZIYfBnrjuXX6O97), [Yashwant Bolishetty](https://open.spotify.com/artist/4RTFykJrQqW8z0vpB8nzpX) | [SHATRANJ](https://open.spotify.com/album/525cNEU0zYaDmG0WYiMWbd) | 2:59 | 2025-12-23 |  |
 | [Shayar Naraz Hain](https://open.spotify.com/track/0Uf8HBJpxFxHogAQc7QMy8) | [Akhil Redhu](https://open.spotify.com/artist/3pDDWiZSl1TZoJjBKTn3SE) | [Shayar Naraz Hain](https://open.spotify.com/album/5M8Z8pdIerS3MoHpRyBWDC) | 2:46 | 2025-04-25 | 2025-06-07 |
 | [Sheeshe](https://open.spotify.com/track/5WOT6tmtzSiJfSgMTl9P2Q) | [Vankim](https://open.spotify.com/artist/4m0qvaGG9JM0I8Q4FsQAXo) | [Abbu](https://open.spotify.com/album/1S4tZ0mWLIBnPKAY5fji6r) | 3:05 | 2025-04-01 | 2025-05-17 |
 | [SHEHER](https://open.spotify.com/track/2XcVNcLkUuv9YG7ywuRH7G) | [Mirak](https://open.spotify.com/artist/0sWjFQRenBeAbkctoC2fOy) | [SHEHER](https://open.spotify.com/album/7znzQyJGEnY2dXQeUo55OA) | 2:56 | 2025-04-04 | 2025-06-06 |
@@ -1205,7 +1206,7 @@
 | [Urvashi](https://open.spotify.com/track/1EJLrOy25fZ3l55p4rgPdS) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo) | [Urvashi](https://open.spotify.com/album/19i4HGI1PeV9N0PI25YzjH) | 3:36 | 2023-11-17 | 2024-07-13 |
 | [Ustaadi \(feat\. Faris Shafi\)](https://open.spotify.com/track/0chpoH9CmYkczejkJihaxj) | [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC), [Faris Shafi](https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD) | [DSP](https://open.spotify.com/album/1K7j7CMe82qIGH1OfxuGel) | 2:50 | 2024-09-12 | 2024-10-19 |
 | [Uttar Pradesh](https://open.spotify.com/track/0O206o2zDhiHS7YtxsKkiF) | [Panther](https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0) | [Uttar Pradesh](https://open.spotify.com/album/6q63eDYWsAtdYR471AwCPY) | 2:40 | 2025-02-14 | 2025-04-26 |
-| [Vaare Vaare](https://open.spotify.com/track/0AGq0KOpWSGkkxAnbjHi7J) | [Nihaarika](https://open.spotify.com/artist/0Bz8tfHA4pjg4FKYk4ARmR), [Arjit Srivastava](https://open.spotify.com/artist/1F3D5Gc6MToIAQoFOtYKkz) | [Vaare Vaare](https://open.spotify.com/album/0DVDVvUFTPU5ENc8HnG5vM) | 2:08 | 2025-12-05 |  |
+| [Vaare Vaare](https://open.spotify.com/track/0AGq0KOpWSGkkxAnbjHi7J) | [Nihaarika](https://open.spotify.com/artist/0Bz8tfHA4pjg4FKYk4ARmR), [Arjit Srivastava](https://open.spotify.com/artist/1F3D5Gc6MToIAQoFOtYKkz) | [Vaare Vaare](https://open.spotify.com/album/0DVDVvUFTPU5ENc8HnG5vM) | 2:08 | 2025-12-05 | 2025-12-24 |
 | [Vair](https://open.spotify.com/track/2O0JPaSa1g9yKuid511Pb4) | [AKKASH AD](https://open.spotify.com/artist/59xsDgxFDAtdkOwMODQvgi), [Prince Saggu](https://open.spotify.com/artist/0Y0MpZ3QOgITrLikOqB1q4) | [Vair](https://open.spotify.com/album/4xrWgrHyUleB3xQxFOrLif) | 2:44 | 2024-10-01 | 2024-11-14 |
 | [Vaisa Ni Hu](https://open.spotify.com/track/3ig5bnosRJREI2I3wz4JTb) | [Rap ID](https://open.spotify.com/artist/48mehZF6vUnj7r0CONLiU8) | [Deleted Text](https://open.spotify.com/album/6IVe1w4JtyOVxDMErHfoiX) | 2:50 | 2024-06-22 | 2024-07-30 |
 | [Velvet Flow](https://open.spotify.com/track/5aOpHbmH5MxzLr8uCvgFMG) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Velvet Flow](https://open.spotify.com/album/46RG2jIspjJswVSub7mo8Q) | 2:41 | 2025-04-11 | 2025-06-07 |

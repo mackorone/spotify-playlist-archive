@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover:  Frank Edwards
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,312 likes - 109 songs - 8 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,325 likes - 109 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 19 | [Fire](https://open.spotify.com/track/74TNMED0pnJNOOou7ESmyC) | [Cee Sharp](https://open.spotify.com/artist/7tMTp2fNbzt8HANDTADOiM), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu) | [Fire](https://open.spotify.com/album/4HJVwFLB9Yi5WWz4OXX07c) | 2:38 |
 | 20 | [Wimbo Wa Sifa](https://open.spotify.com/track/2Y5aUvP2asWvWHKll6oZPw) | [Essence Of Worship](https://open.spotify.com/artist/08DEnWbiZl4cLFGUjNzR39) | [Wimbo Wa Sifa](https://open.spotify.com/album/56WotTirI3QttnBzgYSgcf) | 6:58 |
 | 21 | [Yeshua\(3 Step\)](https://open.spotify.com/track/28gX8S71BBeFTpsnmg7iD1) | [Muzzy D Pilot](https://open.spotify.com/artist/5v2vY1aUV6yFfUMo6x0z8C) | [Yeshua\(3 Step\)](https://open.spotify.com/album/2QzosQcSopnRjoGgpf2aWB) | 4:50 |
-| 22 | [Christmas Special](https://open.spotify.com/track/4W7opHBwauWXWVp3UYWsXO) | [Abisola](https://open.spotify.com/artist/1lXDGqhQOVnofGj2XyQoA3), [SINGNATURE](https://open.spotify.com/artist/7wR6jgnXngAmkIFecw9cI6), [Tkeyz](https://open.spotify.com/artist/6MRNiMCUDv9mDmMcaXhjgI), [Yinka Davies](https://open.spotify.com/artist/2LUAq4AGJXh5LmIDWWdg49), [Nicholas Emeka](https://open.spotify.com/artist/1lfUm2btmDeH74X7lC0Yam) | [Christmas Special](https://open.spotify.com/album/35zu7OFWZB1bgWB5TsVSNS) | 3:11 |
+| 22 | [Christmas Special](https://open.spotify.com/track/4W7opHBwauWXWVp3UYWsXO) | [Abisola](https://open.spotify.com/artist/0XPBdxrSOuxbBkgrqCsvIs), [SINGNATURE](https://open.spotify.com/artist/7wR6jgnXngAmkIFecw9cI6), [Tkeyz](https://open.spotify.com/artist/6MRNiMCUDv9mDmMcaXhjgI), [Yinka Davies](https://open.spotify.com/artist/2LUAq4AGJXh5LmIDWWdg49), [Nicholas Emeka](https://open.spotify.com/artist/1lfUm2btmDeH74X7lC0Yam) | [Christmas Special](https://open.spotify.com/album/35zu7OFWZB1bgWB5TsVSNS) | 3:11 |
 | 23 | [I Love To Sing](https://open.spotify.com/track/2UpaUGsq9iYxao0NS6sx0Z) | [Enyll](https://open.spotify.com/artist/1RLIMh2QK8UDo18dg2FiqE) | [I Love To Sing](https://open.spotify.com/album/0UAGwm0HS9Qw7U6wT70vQe) | 3:04 |
 | 24 | [Testimony](https://open.spotify.com/track/2CWebtXIfAf5YVIKrYn3gJ) | [Donndagreat](https://open.spotify.com/artist/0Ug5Xy3Ce7GB95HjK2Ohwi) | [Testimony](https://open.spotify.com/album/2fiLBHC8AMpUGqygc0hYwC) | 2:52 |
 | 25 | [M'aseda](https://open.spotify.com/track/62lkVLB2bnmY7U7vrKxWE7) | [KOFI OWUSU PEPRAH](https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1), [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [M'aseda](https://open.spotify.com/album/4HG3GxYJx88N5Ca1FomHLn) | 5:18 |

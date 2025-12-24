@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-395 songs - 21 hr 59 min
+396 songs - 22 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,6 +244,7 @@
 | [Nest](https://open.spotify.com/track/2lrHZUfgnVMPmFLEwXR8CD) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [Ulysees](https://open.spotify.com/album/4K1bUcDd62JYkD2AJ7zQ2H) | 1:35 | 2020-12-08\* | 2022-07-29 |
 | [Neume](https://open.spotify.com/track/2S0irMcT7nWLMn0DZpxcZX) | [Near The Parenthesis](https://open.spotify.com/artist/0w0n5GVOQZlszSi4WN1Got) | [Cloud.Not Mountain](https://open.spotify.com/album/6OFgF0S3CCyfTgZw4U0vrd) | 5:17 | 2022-07-22 | 2023-01-17 |
 | [Neume](https://open.spotify.com/track/6fOfjh3At26n5ouoYP6z8X) | [Near The Parenthesis](https://open.spotify.com/artist/0w0n5GVOQZlszSi4WN1Got) | [Cloud.Not Mountain](https://open.spotify.com/album/3zClJLuzmzdBzc2XhaJJE5) | 5:17 | 2020-12-08\* | 2022-07-29 |
+| [Neverend](https://open.spotify.com/track/0GTRVzDV9fZyZfjLNghBWh) | [Primer Dia](https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ) | [Neverend](https://open.spotify.com/album/48pSMrVrza85Y28P6yBXhm) | 3:13 | 2025-12-10 |  |
 | [Nevergreen](https://open.spotify.com/track/6DsGpDGIDRv8EFGgW10T1p) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Safe In the Steep Cliffs](https://open.spotify.com/album/1KHKPYKo4h8btHa8u3wjEB) | 3:35 | 2020-12-08\* | 2021-03-06 |
 | [Nightshade](https://open.spotify.com/track/3kkzW8DJLHsUndIu2cYhq6) | [Ruud Vanderwege](https://open.spotify.com/artist/4NuHYRjb3dq4fdAel5W46H) | [Nightshade](https://open.spotify.com/album/3O0XR6clzXksizQC0M0lC0) | 2:31 | 2024-09-19 | 2024-11-15 |
 | [Not Going Back to the Harbour \(Dauwd Remix\)](https://open.spotify.com/track/5fd2HLarNa3tqHEZK4uyCB) | [Lanterns on the Lake](https://open.spotify.com/artist/7sx3r4lMo079vO7lIi0fng) | [Low Tide](https://open.spotify.com/album/5gowhGeWFaDsMxfWiT9O8e) | 4:13 | 2022-07-22 | 2022-09-16 |
@@ -308,7 +309,7 @@
 | [Shine A Light](https://open.spotify.com/track/7edxt3DeYATXzq593rV2uf) | [Ólafur Apollo](https://open.spotify.com/artist/1uBzypkt8OzAyPkGifMjHI) | [Shine A Light](https://open.spotify.com/album/7Cf5ZlFU5bOXJYzvUuGkOk) | 2:27 | 2025-05-14 |  |
 | [Shorelines](https://open.spotify.com/track/0cVi3D1VYxux7GlRH8nqKf) | [Lucy Vincent](https://open.spotify.com/artist/3aZqkX0ePw0fBoERFYCD6Z) | [Shorelines](https://open.spotify.com/album/5vx5kFb4rwXMzWrCW2Cra0) | 3:16 | 2020-12-08\* | 2025-02-27 |
 | [Sidetracks](https://open.spotify.com/track/1GPr85QnsaNmTswc9yZDdv) | [DEX 1200](https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d) | [Sidetracks](https://open.spotify.com/album/7Ay05HbI8ewJ0adwCkdUNd) | 2:21 | 2025-01-14 |  |
-| [Silent Motion](https://open.spotify.com/track/111mQkL4f8vfUzteOkrzWF) | [JOMALU](https://open.spotify.com/artist/1xa2WEiNM8U3bIwpDPWMLC) | [Weightless](https://open.spotify.com/album/0LvnWCo47EpGMGXwhE1zmd) | 2:59 | 2020-12-08\* |  |
+| [Silent Motion](https://open.spotify.com/track/111mQkL4f8vfUzteOkrzWF) | [JOMALU](https://open.spotify.com/artist/1xa2WEiNM8U3bIwpDPWMLC) | [Weightless](https://open.spotify.com/album/0LvnWCo47EpGMGXwhE1zmd) | 2:59 | 2020-12-08\* | 2025-12-24 |
 | [Silent River](https://open.spotify.com/track/2Bh0liES3CmP6pCH7xENfL) | [bluescape](https://open.spotify.com/artist/1yu77LzkFIhpDDnHQ330aN) | [Silent River](https://open.spotify.com/album/3P5cnuuW72iMBngg84vufZ) | 2:05 | 2025-07-15 |  |
 | [Silkolene](https://open.spotify.com/track/4Lb9sFO4Tlh0y4GwZ4A6GQ) | [Ageena](https://open.spotify.com/artist/183DOqgVm3LpcUQFICEpH2) | [Silkolene](https://open.spotify.com/album/6h0HhaKMez1udbdxZQ3MdU) | 2:25 | 2023-04-21 |  |
 | [Sleep Cycle](https://open.spotify.com/track/7zVh8lKCgsvvVBFDbg1wRp) | [Linus Fortej](https://open.spotify.com/artist/3WEndEezg0MuMxJNWygc32) | [Sleep Cycle](https://open.spotify.com/album/776QHToBuuMyAEHCO4TG4u) | 3:08 | 2024-01-30 | 2024-12-05 |

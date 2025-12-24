@@ -130,7 +130,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-24",
       "duration_ms": 280666,
       "name": "4 Impromptus, Op.90, D.899: No.2 in E Flat Major: Allegro",
       "url": "https://open.spotify.com/track/2oLGuxIp5I8jj9MDllAP9d"
@@ -152,7 +152,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-24",
       "duration_ms": 497773,
       "name": "4 Impromptus, Op.90, D.899: No.4 in A Flat Major: Allegretto",
       "url": "https://open.spotify.com/track/1M2RkUUJ9wXRsW3jN1MCHS"
@@ -1511,6 +1511,28 @@
     },
     {
       "album": {
+        "name": "Schubert: Piano Sonata & Moments musicaux",
+        "url": "https://open.spotify.com/album/246CG5BUD3VqXd0SBpQ2Cw"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Steven Osborne",
+          "url": "https://open.spotify.com/artist/23G1DjI5kQBbjOaLbUONgK"
+        }
+      ],
+      "date_added": "2025-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357333,
+      "name": "Moments musicaux, D. 780: No. 2 in A-Flat Major. Andantino",
+      "url": "https://open.spotify.com/track/5PXKOYdpd3fz1wI1waOctD"
+    },
+    {
+      "album": {
         "name": "Schubert: Lied Edition 15 - Friends, Vol. 2",
         "url": "https://open.spotify.com/album/4L4ELWeSu5vPOxnuihZfpK"
       },
@@ -2096,6 +2118,28 @@
       "duration_ms": 358573,
       "name": "Schubert / Transcr. Tharaud: Rosamunde, Op. 26, D. 797: No. 6, Entr'acte No. 3",
       "url": "https://open.spotify.com/track/59JyhffzxORbdTQMJSYdlz"
+    },
+    {
+      "album": {
+        "name": "Schubert: Sonata in C Minor, D. 958, 4 Impromptus, D. 935 & Rondo, D. 951",
+        "url": "https://open.spotify.com/album/718UoE4gEcpxkPeuKoEav0"
+      },
+      "artists": [
+        {
+          "name": "Franz Schubert",
+          "url": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP"
+        },
+        {
+          "name": "Aimi Kobayashi",
+          "url": "https://open.spotify.com/artist/41YFPXmww0HCdIBjJj0uPs"
+        }
+      ],
+      "date_added": "2025-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 539573,
+      "name": "Schubert: 4 Impromptus, Op. 142, D. 935: No. 2 in A-Flat Major",
+      "url": "https://open.spotify.com/track/5RhLy62olXlNaRzskVyvTu"
     },
     {
       "album": {

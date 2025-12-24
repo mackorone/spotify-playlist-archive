@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\udcaf Suomi. ",
-  "num_followers": 91319,
+  "num_followers": 91307,
   "original_name": "100 Suomi",
   "owner": {
     "name": "Spotify",
@@ -131,6 +131,22 @@
     {
       "added_at": "2025-12-18 22:00:31",
       "album": {
+        "name": "Alcoholic",
+        "url": "https://open.spotify.com/album/2El1YK63AksH46UztnNsgD"
+      },
+      "artists": [
+        {
+          "name": "Averagekidluke",
+          "url": "https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk"
+        }
+      ],
+      "duration_ms": 175970,
+      "name": "Alcoholic",
+      "url": "https://open.spotify.com/track/3wGRalPt5dBMWDjn0EU7ax"
+    },
+    {
+      "added_at": "2025-12-18 22:00:31",
+      "album": {
         "name": "Totuus sattuu (with pehmoaino)",
         "url": "https://open.spotify.com/album/3KHJZYkmNJ8DjqrRGgMsJr"
       },
@@ -147,22 +163,6 @@
       "duration_ms": 165688,
       "name": "Totuus sattuu (with pehmoaino)",
       "url": "https://open.spotify.com/track/6wTnsZgua00pdQoYkroEQL"
-    },
-    {
-      "added_at": "2025-12-18 22:00:31",
-      "album": {
-        "name": "Alcoholic",
-        "url": "https://open.spotify.com/album/2El1YK63AksH46UztnNsgD"
-      },
-      "artists": [
-        {
-          "name": "Averagekidluke",
-          "url": "https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk"
-        }
-      ],
-      "duration_ms": 175970,
-      "name": "Alcoholic",
-      "url": "https://open.spotify.com/track/3wGRalPt5dBMWDjn0EU7ax"
     },
     {
       "added_at": "2025-12-18 22:00:31",
@@ -223,26 +223,6 @@
     {
       "added_at": "2025-12-18 22:00:31",
       "album": {
-        "name": "Unitas Sigma",
-        "url": "https://open.spotify.com/album/6E3Xyb8bfE4mwDM3tSi2Bt"
-      },
-      "artists": [
-        {
-          "name": "Ares",
-          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
-        },
-        {
-          "name": "Cheek",
-          "url": "https://open.spotify.com/artist/5ZZqIQ25HQmufjjf2trwFO"
-        }
-      ],
-      "duration_ms": 166114,
-      "name": "Niille joil on paha olla - Unitas Sigma",
-      "url": "https://open.spotify.com/track/2W1xOqSzZ5cbMdB3nV6Zjd"
-    },
-    {
-      "added_at": "2025-12-18 22:00:31",
-      "album": {
         "name": "DENIM",
         "url": "https://open.spotify.com/album/59K4XTz4XemdL5XqDr2ZEa"
       },
@@ -271,6 +251,26 @@
       "duration_ms": 201037,
       "name": "MEININKI",
       "url": "https://open.spotify.com/track/4zH8TU2iPWc6cu4gwGoEZ7"
+    },
+    {
+      "added_at": "2025-12-18 22:00:31",
+      "album": {
+        "name": "Unitas Sigma",
+        "url": "https://open.spotify.com/album/6E3Xyb8bfE4mwDM3tSi2Bt"
+      },
+      "artists": [
+        {
+          "name": "Ares",
+          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
+        },
+        {
+          "name": "Cheek",
+          "url": "https://open.spotify.com/artist/5ZZqIQ25HQmufjjf2trwFO"
+        }
+      ],
+      "duration_ms": 166114,
+      "name": "Niille joil on paha olla - Unitas Sigma",
+      "url": "https://open.spotify.com/track/2W1xOqSzZ5cbMdB3nV6Zjd"
     },
     {
       "added_at": "2025-12-18 22:00:31",
@@ -375,6 +375,30 @@
     {
       "added_at": "2025-12-18 22:00:31",
       "album": {
+        "name": "Tello Tape",
+        "url": "https://open.spotify.com/album/5b69Boqtt3RD37IieDSoBB"
+      },
+      "artists": [
+        {
+          "name": "Danitello",
+          "url": "https://open.spotify.com/artist/2pDOEMG8cZjRjsf8sQWLeE"
+        },
+        {
+          "name": "Alina Burnet",
+          "url": "https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J"
+        },
+        {
+          "name": "JVG",
+          "url": "https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj"
+        }
+      ],
+      "duration_ms": 196915,
+      "name": "Onks se v\u00e4\u00e4rin (feat. Alina Burnet & JVG)",
+      "url": "https://open.spotify.com/track/4KLDps1W298pw97KmTL17p"
+    },
+    {
+      "added_at": "2025-12-18 22:00:31",
+      "album": {
         "name": "K\u00e4\u00e4nn\u00e4 Se Kovemmal",
         "url": "https://open.spotify.com/album/1FtyRB2jbzmpPu4VNvwrfx"
       },
@@ -403,30 +427,6 @@
       "duration_ms": 193437,
       "name": "Teht\u00e4v\u00e4 t\u00e4\u00e4",
       "url": "https://open.spotify.com/track/2vaFrvauevJtiY6HXk84YH"
-    },
-    {
-      "added_at": "2025-12-18 22:00:31",
-      "album": {
-        "name": "Tello Tape",
-        "url": "https://open.spotify.com/album/5b69Boqtt3RD37IieDSoBB"
-      },
-      "artists": [
-        {
-          "name": "Danitello",
-          "url": "https://open.spotify.com/artist/2pDOEMG8cZjRjsf8sQWLeE"
-        },
-        {
-          "name": "Alina Burnet",
-          "url": "https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J"
-        },
-        {
-          "name": "JVG",
-          "url": "https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj"
-        }
-      ],
-      "duration_ms": 196915,
-      "name": "Onks se v\u00e4\u00e4rin (feat. Alina Burnet & JVG)",
-      "url": "https://open.spotify.com/track/4KLDps1W298pw97KmTL17p"
     },
     {
       "added_at": "2025-12-18 22:00:31",
@@ -527,22 +527,6 @@
     {
       "added_at": "2025-12-18 22:00:31",
       "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/3PBRdSIYduGIYfpG5FOXys"
-      },
-      "artists": [
-        {
-          "name": "ibe",
-          "url": "https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA"
-        }
-      ],
-      "duration_ms": 218159,
-      "name": "Lohik\u00e4\u00e4rme",
-      "url": "https://open.spotify.com/track/1aYzlHJla01Kam316YVADh"
-    },
-    {
-      "added_at": "2025-12-18 22:00:31",
-      "album": {
         "name": "Pit\u00e4isk\u00f6 mun soittaa sille",
         "url": "https://open.spotify.com/album/4OTutrhz68vKEcsK9uW640"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 154443,
       "name": "Ik\u00e4v\u00e4 mua",
       "url": "https://open.spotify.com/track/0DbUrs6t9JLcFx3EsMcPY3"
+    },
+    {
+      "added_at": "2025-12-18 22:00:31",
+      "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/3PBRdSIYduGIYfpG5FOXys"
+      },
+      "artists": [
+        {
+          "name": "ibe",
+          "url": "https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA"
+        }
+      ],
+      "duration_ms": 218159,
+      "name": "Lohik\u00e4\u00e4rme",
+      "url": "https://open.spotify.com/track/1aYzlHJla01Kam316YVADh"
     },
     {
       "added_at": "2025-12-18 22:00:31",
@@ -643,22 +643,6 @@
     {
       "added_at": "2025-12-18 22:00:31",
       "album": {
-        "name": "Made it",
-        "url": "https://open.spotify.com/album/7ofaH0AtjS8BYYfyoHMuzY"
-      },
-      "artists": [
-        {
-          "name": "KERZA",
-          "url": "https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr"
-        }
-      ],
-      "duration_ms": 151345,
-      "name": "Made it",
-      "url": "https://open.spotify.com/track/3x0Z2IBTRMOHEuEQYIHnhW"
-    },
-    {
-      "added_at": "2025-12-18 22:00:31",
-      "album": {
         "name": "Makea (feat. Jami Faltin)",
         "url": "https://open.spotify.com/album/23qKEBMz0GXr2LESeH1gYO"
       },
@@ -679,18 +663,18 @@
     {
       "added_at": "2025-12-18 22:00:31",
       "album": {
-        "name": "Hauki",
-        "url": "https://open.spotify.com/album/6SCLpy8SJ8czojoUcSi9SJ"
+        "name": "Made it",
+        "url": "https://open.spotify.com/album/7ofaH0AtjS8BYYfyoHMuzY"
       },
       "artists": [
         {
-          "name": "jambo",
-          "url": "https://open.spotify.com/artist/1fy2OEMI7TX9ayBKxErHK0"
+          "name": "KERZA",
+          "url": "https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr"
         }
       ],
-      "duration_ms": 174186,
-      "name": "Hauki",
-      "url": "https://open.spotify.com/track/2dai7toOP0V2JJ8nvH0IYQ"
+      "duration_ms": 151345,
+      "name": "Made it",
+      "url": "https://open.spotify.com/track/3x0Z2IBTRMOHEuEQYIHnhW"
     },
     {
       "added_at": "2025-12-18 22:00:31",
@@ -707,6 +691,22 @@
       "duration_ms": 154522,
       "name": "TUHKIMO",
       "url": "https://open.spotify.com/track/3iFCjP4KdnPiwT19dXIsC9"
+    },
+    {
+      "added_at": "2025-12-18 22:00:31",
+      "album": {
+        "name": "Hauki",
+        "url": "https://open.spotify.com/album/6SCLpy8SJ8czojoUcSi9SJ"
+      },
+      "artists": [
+        {
+          "name": "jambo",
+          "url": "https://open.spotify.com/artist/1fy2OEMI7TX9ayBKxErHK0"
+        }
+      ],
+      "duration_ms": 174186,
+      "name": "Hauki",
+      "url": "https://open.spotify.com/track/2dai7toOP0V2JJ8nvH0IYQ"
     },
     {
       "added_at": "2025-12-18 22:00:31",
@@ -775,6 +775,22 @@
     {
       "added_at": "2025-12-18 22:00:31",
       "album": {
+        "name": "Kukkahattuset\u00e4 Freestyle",
+        "url": "https://open.spotify.com/album/1J6K7QIZ4mc8CZgJEtu35k"
+      },
+      "artists": [
+        {
+          "name": "Jokrates",
+          "url": "https://open.spotify.com/artist/388BgNWjRWFHgJnsmBdJzE"
+        }
+      ],
+      "duration_ms": 116413,
+      "name": "Kukkahattuset\u00e4 Freestyle",
+      "url": "https://open.spotify.com/track/7Dc0Mf1GxczoZQJGUYWkpj"
+    },
+    {
+      "added_at": "2025-12-18 22:00:31",
+      "album": {
         "name": "Neighbourhood Kid",
         "url": "https://open.spotify.com/album/7u932Lm9aZ3xHwMGRvjZTm"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 151511,
       "name": "Naapuruston Sankari",
       "url": "https://open.spotify.com/track/2EcZmlpGYRRh6cZlTmW2H7"
-    },
-    {
-      "added_at": "2025-12-18 22:00:31",
-      "album": {
-        "name": "Kukkahattuset\u00e4 Freestyle",
-        "url": "https://open.spotify.com/album/1J6K7QIZ4mc8CZgJEtu35k"
-      },
-      "artists": [
-        {
-          "name": "Jokrates",
-          "url": "https://open.spotify.com/artist/388BgNWjRWFHgJnsmBdJzE"
-        }
-      ],
-      "duration_ms": 116413,
-      "name": "Kukkahattuset\u00e4 Freestyle",
-      "url": "https://open.spotify.com/track/7Dc0Mf1GxczoZQJGUYWkpj"
     },
     {
       "added_at": "2025-12-18 22:00:31",

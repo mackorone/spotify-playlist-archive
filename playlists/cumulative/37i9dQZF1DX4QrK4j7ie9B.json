@@ -2415,6 +2415,24 @@
     },
     {
       "album": {
+        "name": "To Autumn",
+        "url": "https://open.spotify.com/album/7kIqesdci5yIDjvb5p8tcg"
+      },
+      "artists": [
+        {
+          "name": "Luke Faulkner",
+          "url": "https://open.spotify.com/artist/2KTBCTcRbjSO03qPsUeqq3"
+        }
+      ],
+      "date_added": "2025-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98551,
+      "name": "To Autumn",
+      "url": "https://open.spotify.com/track/47UV2tMnEjFaJiVAyUiPPY"
+    },
+    {
+      "album": {
         "name": "Too Soon",
         "url": "https://open.spotify.com/album/300dan74UOvzoVEVeS6iNW"
       },

@@ -1833,6 +1833,24 @@
     },
     {
       "album": {
+        "name": "Season 2",
+        "url": "https://open.spotify.com/album/3PRuwaXPbL17pqH1OnpNke"
+      },
+      "artists": [
+        {
+          "name": "Tenkila",
+          "url": "https://open.spotify.com/artist/5SnRmKiQScFAV0ScEVdRM0"
+        }
+      ],
+      "date_added": "2025-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224500,
+      "name": "Season 2",
+      "url": "https://open.spotify.com/track/3E3HFi5uwVHOv7R37gzHuu"
+    },
+    {
+      "album": {
         "name": "Shame",
         "url": "https://open.spotify.com/album/4iKDad2F2gQyFU49uZ9not"
       },

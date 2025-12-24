@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUc4gAAAAAB477fJMWff9G91RB9f7leA",
+  "snapshot_id": "aUiKAAAAAACir3yEEFIfxMdFOxZAmbCj",
   "tracks": [
     {
       "added_at": null,
@@ -727,6 +727,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Estar Contigo",
+        "url": "https://open.spotify.com/album/0INkvjucGFvMmbYrNU3qGu"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 228832,
+      "name": "Estar Contigo",
+      "url": "https://open.spotify.com/track/07ij59WCKQFlWRV8ACFJEp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dif\u00edcile",
         "url": "https://open.spotify.com/album/6t85fg00KndK1zWBdyj8ZY"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 152173,
       "name": "Dif\u00edcile",
       "url": "https://open.spotify.com/track/12R30HT6UksiNj4ry0hiuy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Estar Contigo",
-        "url": "https://open.spotify.com/album/0INkvjucGFvMmbYrNU3qGu"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 228832,
-      "name": "Estar Contigo",
-      "url": "https://open.spotify.com/track/07ij59WCKQFlWRV8ACFJEp"
     },
     {
       "added_at": null,

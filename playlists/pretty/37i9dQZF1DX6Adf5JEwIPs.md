@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Cornelio Vega y Su Dinastía
 
-[Spotify](https://open.spotify.com/user/spotify) - 717,689 likes - 90 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 717,737 likes - 90 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 70 | [Mi Gran Noche](https://open.spotify.com/track/5Xkysb1Mmro6GdrrjlvIHa) | [Valdespino](https://open.spotify.com/artist/4gmPWmVobcU0zK2ErrSvJw) | [Mi Gran Noche](https://open.spotify.com/album/4bMYWJMAuU97MOtmYGdS13) | 2:54 |
 | 71 | [Laurita Garza](https://open.spotify.com/track/0HQW0MsMal0xv37O7rrc9O) | [Michael Salgado](https://open.spotify.com/artist/3KIX7sAMvFDFFPYubKRZ5w) | [Homenaje A Mis Idolos Vol.2](https://open.spotify.com/album/3LWIyFQeuD8qjdqDaeCqoO) | 4:28 |
 | 72 | [Te Va Llevar El Tren](https://open.spotify.com/track/0d0qt37z5zVg1vLRybyn5x) | [Jesús Ojeda y Sus Parientes](https://open.spotify.com/artist/3DVNivnmWy2nzzIneVr4Yk) | [Te Va Llevar El Tren](https://open.spotify.com/album/4Gh58JHOlNPjtXfUw7lSgu) | 3:15 |
-| 73 | [100/10](https://open.spotify.com/track/6UdmwjsufsakKJF70vYZQe) | [El Del Corrido](https://open.spotify.com/artist/5gkfMfscUkxMvP5D6bbWfz), [Corridos Viejitos](https://open.spotify.com/artist/1osnU6b50SOR52ai4orTi5), [Los Del Barranco](https://open.spotify.com/artist/2JGkRU2EcobXUrBTPpecBv), [Los Ases De Los Corridos](https://open.spotify.com/artist/2SugUjYIyVzjcwn7a1hWat) | [100/10](https://open.spotify.com/album/3owezghBiQRQwhrsdOGeAu) | 2:52 |
+| 73 | [100/10](https://open.spotify.com/track/6UdmwjsufsakKJF70vYZQe) | [El Del Corrido](https://open.spotify.com/artist/5gkfMfscUkxMvP5D6bbWfz), [Corridos Viejitos](https://open.spotify.com/artist/1osnU6b50SOR52ai4orTi5), [Los Del Barranco](https://open.spotify.com/artist/7EgTvM8zobfmnW56pboBXm), [Los Ases De Los Corridos](https://open.spotify.com/artist/2SugUjYIyVzjcwn7a1hWat) | [100/10](https://open.spotify.com/album/3owezghBiQRQwhrsdOGeAu) | 2:52 |
 | 74 | [Por Debajo del Agua](https://open.spotify.com/track/0A1PJPNx8tZXHuew1cT0Ym) | [Punto Final](https://open.spotify.com/artist/4S8SyDPk41f7rfBU9IAdkA) | [Por Debajo del Agua](https://open.spotify.com/album/12hMfDfs7nnq0ML9SNjRno) | 4:07 |
 | 75 | [Inmigrante](https://open.spotify.com/track/5ZTDo1HG6GsSr4Zo0LlERb) | [El Esparza](https://open.spotify.com/artist/4RT0MnB1whwGBJ3N8oEntX) | [Puro Motivacional Vol.1](https://open.spotify.com/album/5IuwD2RsPCDHukVfCDq75g) | 3:16 |
 | 76 | [GPS \#4 \- Letoka](https://open.spotify.com/track/1Yah85yZA40vJfCCNVNso7) | [Georgy Parra Salvaje](https://open.spotify.com/artist/2TSFKNn3DSAG05oMMkLeJs), [Alan Ramirez](https://open.spotify.com/artist/1yHjFDDYePdq3KcGBEJkRw) | [GPS \#4 \- Letoka](https://open.spotify.com/album/6SKidGQwltX4Dhfk8yACoZ) | 2:36 |

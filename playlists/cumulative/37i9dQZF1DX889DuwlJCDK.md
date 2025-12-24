@@ -4,7 +4,7 @@
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: Blue Mash
 
-1,511 songs - 3 day 19 hr 19 min
+1,513 songs - 3 day 19 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -325,7 +325,7 @@
 | [LAST SONG](https://open.spotify.com/track/2mz12sgU9m1eZZvhS3VNIM) | [アンと私](https://open.spotify.com/artist/77KkjvrS1UpnQX2KldfB1J) | [LAST SONG](https://open.spotify.com/album/4eVPM5qAnBeVgQiXbjHa3h) | 2:30 | 2025-10-14 | 2025-11-05 |
 | [Last Supper](https://open.spotify.com/track/4sqPcQyiHESSahprYt5LMx) | [GLASGOW](https://open.spotify.com/artist/3FUuWzheFLPGP7tm5lpjxM) | [Last Supper](https://open.spotify.com/album/5c2Aeu1g0pwsQnpqXgvzlu) | 3:20 | 2023-11-21 | 2023-11-29 |
 | [laughlove](https://open.spotify.com/track/2XWxzRRExtaHkTbgcNUPjk) | [pontsuku piya](https://open.spotify.com/artist/1r2OGIm9ztkdrTkjo1fn6P) | [laughlove](https://open.spotify.com/album/6pa27lVoU5UIpneBWF2qH0) | 2:41 | 2025-11-04 | 2025-11-12 |
-| [Law of Luv](https://open.spotify.com/track/53lpqhUS0T6J1N3TmIRt1r) | [LET ME KNOW](https://open.spotify.com/artist/1B4fAs5bODEsdgj2MGmJu3) | [Law of Luv](https://open.spotify.com/album/0NBzsGGKXGhz8KmKqT3TBP) | 3:22 | 2025-12-16 |  |
+| [Law of Luv](https://open.spotify.com/track/53lpqhUS0T6J1N3TmIRt1r) | [LET ME KNOW](https://open.spotify.com/artist/1B4fAs5bODEsdgj2MGmJu3) | [Law of Luv](https://open.spotify.com/album/0NBzsGGKXGhz8KmKqT3TBP) | 3:22 | 2025-12-16 | 2025-12-24 |
 | [Let's eat food](https://open.spotify.com/track/5gjQz3TrfWTD0M1jYRHhli) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [Let's eat food](https://open.spotify.com/album/0s0ed6peiGYTHvg5Pjx6E9) | 3:07 | 2025-10-21 |  |
 | [Letters, Lights, Travels On The Streets](https://open.spotify.com/track/4zMi0q2myV2N3OU0xuqR0p) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Letters, Lights, Travels On The Streets](https://open.spotify.com/album/4rSbKbY15PsCF4GtDgrRqR) | 3:05 | 2023-12-19 | 2024-01-10 |
 | [Lies for you](https://open.spotify.com/track/3g7pMGtAkXcwOglNJcd9dS) | [Umnoise](https://open.spotify.com/artist/6mfqMKlmKZSjVBITWTT4Y7) | [Lies for you](https://open.spotify.com/album/5UHQEsqXzbOPQPrS7qoUpr) | 4:00 | 2023-11-14 | 2023-11-22 |
@@ -565,6 +565,7 @@
 | [SONGS](https://open.spotify.com/track/0l93cYkJLTiSgHSBGful5p) | [Age Factory](https://open.spotify.com/artist/7pgRyTH4nTH4KoruoGuAQo) | [Songs](https://open.spotify.com/album/5KCNofx4mr0Blk7WXGiPXU) | 2:47 | 2024-02-22 | 2024-04-24 |
 | [sorry my bad :\(](https://open.spotify.com/track/5ECqAiqpaxYG3PANfOhPzt) | [Re:name](https://open.spotify.com/artist/2AX1Mxvl5RSF13svt7n4wa) | [GENIUS FOOL](https://open.spotify.com/album/4BkqgusPfH36B53Trxj1V8) | 2:27 | 2025-02-25 | 2025-03-26 |
 | [Soundproof Handle](https://open.spotify.com/track/0Hlv2qhpcpDC5bI8FXKel5) | [171](https://open.spotify.com/artist/4dbq5qNOe51qdgnhmlIJ3v) | [Soundproof Handle](https://open.spotify.com/album/15pXZRlX6QwkRajyRmuHs4) | 4:10 | 2025-11-11 | 2025-12-17 |
+| [sour](https://open.spotify.com/track/75hQ6LBRV06p6DL6pnov9L) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [](https://open.spotify.com/album/null) | 5:02 | 2025-12-23 |  |
 | [spark](https://open.spotify.com/track/6jBvC1sM3MdSn3DuLU8azT) | [toketadenkyu](https://open.spotify.com/artist/2GgcdKh8581r5VoVT7guML) | [spark](https://open.spotify.com/album/1RFksTHvZN5lL2z66nzHu1) | 4:15 | 2025-02-18 | 2025-03-05 |
 | [Spring Chance](https://open.spotify.com/track/2L08HGsbSgTWkIWDEm8h12) | [Bye\-Bye\-Handの方程式](https://open.spotify.com/artist/6IIf2Pbh4lI8Jz7MvknzIf) | [Spring Chance](https://open.spotify.com/album/3Je448Q8acg4ROISszu7il) | 2:37 | 2024-02-06 | 2024-04-19 |
 | [Stand By Me](https://open.spotify.com/track/2bnkkq3tZcKU4bXYv14XbD) | [ヤユヨ](https://open.spotify.com/artist/0JUlkKazTRFzIGvtMe1d1c) | [Stand By Me](https://open.spotify.com/album/2qSLnRIdmKpbyzdiFgempf) | 4:43 | 2023-08-08 | 2023-08-23 |
@@ -613,6 +614,7 @@
 | [Tell me, God.](https://open.spotify.com/track/2RIbnlbt5BQ32sp7Y5tyqk) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [a beautiful days](https://open.spotify.com/album/0dgS0lF26RnAEPjaJcs9tF) | 2:44 | 2025-05-21 | 2025-05-28 |
 | [tender](https://open.spotify.com/track/4pbR9ZNfjzvxpKwA25WeP8) | [明くる夜の羊](https://open.spotify.com/artist/0a6W3KiBwHJQwCbh5blGwi) | [deep into\_](https://open.spotify.com/album/2M6K4LGjkcwHI4ve7BrTIk) | 3:14 | 2025-06-03 | 2025-06-12 |
 | [TENGOKUKAIDO](https://open.spotify.com/track/2gY1SkSuWOGMKrbOZyHJdt) | [Ryukku to Soine Gohan](https://open.spotify.com/artist/5LRYFq7w1jFGA4TGd0bB9D) | [TENGOKUKAIDO](https://open.spotify.com/album/5I5qUPmsIqYhpU0TZQkCI3) | 3:42 | 2024-01-10 | 2024-01-24 |
+| [Tenshi Ni Naretara](https://open.spotify.com/track/11cb9GcPjTMBiSQd2idtfe) | [bokula.](https://open.spotify.com/artist/03d8apfHOy2uV3oLL9lsFG) | [Tenshi Ni Naretara](https://open.spotify.com/album/3ml64wx9L5nYjZaXsafcJN) | 3:06 | 2025-12-23 |  |
 | [The End of the F\*\*\*ing World](https://open.spotify.com/track/3QjiZvyA3BEVKOldWbwgvS) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [The End of the F\*\*\*ing World](https://open.spotify.com/album/0QE8Ni8QuDwINxg4bjPZIS) | 4:04 | 2025-03-18 |  |
 | [The Gleaming City](https://open.spotify.com/track/1kpl2ElUdYkT3O43cNI9SB) | [KALMA](https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc) | [The Gleaming City](https://open.spotify.com/album/6xEAn4lDLWytQNnpVu3O8F) | 4:53 | 2024-12-03 | 2024-12-11 |
 | [THE OVER](https://open.spotify.com/track/0nrDopi0dvGmx0EdyWoDsv) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [THE ONE](https://open.spotify.com/album/5TOpz67nIEIMwm5XM3Uskf) | 5:22 | 2024-04-23 | 2024-05-08 |
@@ -1056,7 +1058,7 @@
 | [ライブハウス](https://open.spotify.com/track/2TllIeufj3YpsDVETticsu) | [桃色ドロシー](https://open.spotify.com/artist/5nrw2BHopVukes0JJ960VA) | [ライブハウス](https://open.spotify.com/album/2imgacgcWtxIiz5DID2aYf) | 3:30 | 2024-04-30 | 2024-06-01 |
 | [ライムライト](https://open.spotify.com/track/7seQjvjrQzh8OueltGeDgw) | [DeNeel](https://open.spotify.com/artist/4Z4FrPA5tZFztkxVw4XfdX) | [ライムライト](https://open.spotify.com/album/3piJmNSSwqdmr6hZnqJwTg) | 2:47 | 2025-03-18 | 2025-06-04 |
 | [ラクトアイス](https://open.spotify.com/track/27a1P32LnDyHeGti6CbcNY) | [Crab 蟹 Club](https://open.spotify.com/artist/2Po8LYeurfstvqMOLCTTs6) | [ラクトアイス](https://open.spotify.com/album/4gYVgGhjb2RwHleLTSgZCV) | 4:28 | 2025-02-04 | 2025-02-12 |
-| [ラストパレード](https://open.spotify.com/track/2v1xHWFZETW3dfgI3VnYvD) | [Dannie May](https://open.spotify.com/artist/1ZUDSRNUUa69sTk4pMiyp7) | [ラストパレード](https://open.spotify.com/album/68xzcGcJmy4Hs4pGxQQxyx) | 2:49 | 2025-10-21 |  |
+| [ラストパレード](https://open.spotify.com/track/2v1xHWFZETW3dfgI3VnYvD) | [Dannie May](https://open.spotify.com/artist/1ZUDSRNUUa69sTk4pMiyp7) | [ラストパレード](https://open.spotify.com/album/68xzcGcJmy4Hs4pGxQQxyx) | 2:49 | 2025-10-21 | 2025-12-24 |
 | [ラストライブ](https://open.spotify.com/track/7Jy3tDChEXMDXvO223c0VR) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [ラストライブ](https://open.spotify.com/album/1RBl7BPBmZYRiwD5fcuf4Q) | 2:49 | 2025-02-11 | 2025-06-04 |
 | [ラズベリー](https://open.spotify.com/track/3JLpngLNxVRL6JLaBqqMpo) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [ラズベリー](https://open.spotify.com/album/0hszj3ElKlD0MYdcZg4vrR) | 3:35 | 2023-07-27 | 2024-06-01 |
 | [ラブソング](https://open.spotify.com/track/2bxVVFluBkIu65DEoy92IU) | [BILLY BOO](https://open.spotify.com/artist/22RzKvEl3GXukiDDKub9Ey) | [ラブソング](https://open.spotify.com/album/0TmrVaVmfbq84zsCl3lIrj) | 4:19 | 2025-11-04 |  |

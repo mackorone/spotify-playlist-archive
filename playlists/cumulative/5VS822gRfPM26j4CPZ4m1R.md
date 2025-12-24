@@ -4,7 +4,7 @@
 
 > Playlist
 
-623 songs - 1 day 12 hr 55 min
+625 songs - 1 day 13 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Closing That Door](https://open.spotify.com/track/3r49MxVuY9quFdxCacGT4f) | [Beach for Tiger](https://open.spotify.com/artist/1QVfnmiJuStWWhpLM0mt7F) | [Closing That Door](https://open.spotify.com/album/40lASj5nZNjxVdD1PTo2Jd) | 3:11 | 2024-07-16 |  |
 | [Clouds](https://open.spotify.com/track/1S0daLd7anlC2gKrxhu6dq) | [Kosta G](https://open.spotify.com/artist/64ucpxkeLwoyiLViMhBR3v) | [Play What's Not There](https://open.spotify.com/album/3IYUez6K996YNQruiyV5zI) | 3:53 | 2024-11-14 |  |
 | [Clueless](https://open.spotify.com/track/7eLfK2vzVezTYqaqG02Nmc) | [One Car Garage](https://open.spotify.com/artist/1oFWVrcnu5N9ouCjWY2c1L) | [Clueless](https://open.spotify.com/album/7l2o9YCiBPydWboGqTmi75) | 3:32 | 2024-11-27 |  |
+| [Cola](https://open.spotify.com/track/4pOQY948tHlJs7xbJbk0YF) | [Boy Deco](https://open.spotify.com/artist/2ToFHcW8xlcnx73z5Jzzu7) | [Cola](https://open.spotify.com/album/1Rxrqf7QOqnOICKF3qJWTB) | 2:10 | 2025-12-23 |  |
 | [Colleen](https://open.spotify.com/track/0fiCElDIjW9tZQ2z6RCMot) | [HORSEBATH](https://open.spotify.com/artist/1ENPaKF21eJ1tPyOyS3NaD) | [Colleen](https://open.spotify.com/album/7E2W8E6zrSEmtKJcMWEyvX) | 4:03 | 2023-10-25 |  |
 | [Colors](https://open.spotify.com/track/4Pf9JdRifeW5hrLhDCX6Hw) | [The Quincey](https://open.spotify.com/artist/5NJG2qOVlhuXWTH9nQgGd3) | [Colors](https://open.spotify.com/album/0SwYHMQmKxMR1FGaIVuauY) | 3:23 | 2023-10-25 |  |
 | [Coltrane](https://open.spotify.com/track/4t8HVPnyAxim3i0jUk8FdU) | [Tutankhamun](https://open.spotify.com/artist/6iqqrYdwxJzmxSz9ZJ72CH) | [Tutankhamun](https://open.spotify.com/album/5lk9ArPBJH4jDUdm0DaiTC) | 4:12 | 2023-10-25 |  |
@@ -300,6 +301,7 @@
 | [Knots](https://open.spotify.com/track/24EriU0QVIzTkHAicsfljD) | [T\. Evann](https://open.spotify.com/artist/2BcGW2sfH7w1xKhKGye5YG), [Nice Guys](https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN) | [Headblush](https://open.spotify.com/album/7xOanWDtwaXhM2bH03DDyQ) | 3:26 | 2023-10-25 |  |
 | [L'amour](https://open.spotify.com/track/00JRUvdwqCvf2sWeKbYdS9) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Miel de Montagne](https://open.spotify.com/album/0IOiwcIywlRenbyorrUzJO) | 3:26 | 2023-10-25 |  |
 | [L'amour](https://open.spotify.com/track/4mHpCT7O7c6zCQOiKKRPKB) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [L'amour](https://open.spotify.com/album/5Lssu6Cfb9mAjCN2W6OseG) | 3:26 | 2023-10-25 |  |
+| [L'Ultima Corsa](https://open.spotify.com/track/6wzdLuCN90WycoNBMCrPEE) | [Melting Resonance](https://open.spotify.com/artist/2rMriHWxxmwJG7C3xd9Sod), [Tati Falco](https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6) | [L'Ultima Corsa](https://open.spotify.com/album/39XHiau3fGqnz8GHDF7Yag) | 3:39 | 2025-12-23 |  |
 | [La Luna](https://open.spotify.com/track/0cUMkwTX3WwAwDfQUTaiOX) | [Yellow The Sun](https://open.spotify.com/artist/2SMU4gn77Tx3f2b5Lodrag) | [La Luna](https://open.spotify.com/album/06TAgt1W7JwMagyzlp5t8U) | 3:59 | 2023-10-25 |  |
 | [Laced Up](https://open.spotify.com/track/5k6mwsbR61D4ru3Q5V9l17) | [Kip Nelson](https://open.spotify.com/artist/5k62M5NJX9w9TbHpUKiRTs) | [Laced Up](https://open.spotify.com/album/6az1CCt62V1JJWnVxMPrQS) | 2:42 | 2023-10-25 |  |
 | [Laissez\-Moi Rêver](https://open.spotify.com/track/0v1W40nJew2JlgTOSkjVEF) | [Miel De Montagne](https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf) | [Tout Autour De Nous](https://open.spotify.com/album/32JXrOWx2ebrYtB1isz11n) | 2:55 | 2023-10-25 |  |

@@ -4,7 +4,7 @@
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-110 songs - 6 hr 13 min
+111 songs - 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Keep Doin' What You're Doin'](https://open.spotify.com/track/59TXNX5hE3HXnGMmOhGvLu) | [Bruce Sudano](https://open.spotify.com/artist/603Q8uOwTjPYqTTBfwF8pZ) | [Spirals, Vol\. 2: Time & the Space in Between](https://open.spotify.com/album/09HpVKjfQZjSAlLYQiETFI) | 3:58 | 2025-10-30 | 2025-12-09 |
 | [Les avenues](https://open.spotify.com/track/3FiLH9SLEXzQNsP7Z7l6mu) | [Arthur Mess](https://open.spotify.com/artist/6FxhLja9zhLwB65YcUnkwQ) | [Les avenues](https://open.spotify.com/album/0LPRGtdyC641NKCd6EVjuQ) | 3:34 | 2025-11-07 | 2025-12-09 |
 | [Light](https://open.spotify.com/track/2wDu6ZakZVNsgUzQoesm7O) | [SOMEMISTAKES](https://open.spotify.com/artist/36UniZ3ECMH2GwkF7WQxpK) | [Light](https://open.spotify.com/album/7t7c9ePxVas9Y9cZGjuXA1) | 3:57 | 2025-11-09 |  |
+| [LOS BIOLOGOS](https://open.spotify.com/track/5nMIzJ0vCnt1efHf5k0IpU) | [Elisa Cano Elgarresta](https://open.spotify.com/artist/5GTjjKh3r1rV78HsZ2wFB6) | [LOS BIOLOGOS](https://open.spotify.com/album/4prHVEmsCxLHDTsV6zSsuM) | 4:11 | 2025-12-23 |  |
 | [Lovekomotive](https://open.spotify.com/track/5ca7KsClrlVTDjnximVi7Z) | [ANNAPURNA](https://open.spotify.com/artist/024P13nvZpteU80GYonzzQ) | [Lovekomotive](https://open.spotify.com/album/7oi4Z60udYyTT4UnREzG9L) | 3:33 | 2025-11-10 |  |
 | [Mainline](https://open.spotify.com/track/0CAkW9JOscGbMBpbPshIuc) | [The Steel](https://open.spotify.com/artist/0o8mtfGFaxEYBF5TtoVOGY) | [The Evolution of Love](https://open.spotify.com/album/3lal0yLRsw3QQ1PiuqN3aL) | 3:18 | 2025-11-01 | 2025-12-09 |
 | [Maldito](https://open.spotify.com/track/18CjsJXuIs1w0UDOtfjqf8) | [La Caída de Girona](https://open.spotify.com/artist/51IqZcdRlw7EPxqavIYoMB) | [Fracasos](https://open.spotify.com/album/2o6E8Qg3KGW0Dw9HS1dGDX) | 3:20 | 2025-11-10 |  |

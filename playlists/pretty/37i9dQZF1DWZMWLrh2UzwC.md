@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from TimeThai, BamBam, DIOR 大穎, Jess 佳仙,  Alan Walker, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,525 likes - 59 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,516 likes - 59 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 21 | [Miss Esme](https://open.spotify.com/track/27aKQv7H9PX4Fz2ogl9rU9) | [Mew Suppasit](https://open.spotify.com/artist/78u00MLyG46IkmM8HC6H0l) | [Miss Esme](https://open.spotify.com/album/3SwKD9N93UjGQQ0eS9e18l) | 3:36 |
 | 22 | [再笑一個](https://open.spotify.com/track/0Um4OTRSQLpL2bisIh7FXe) | [黃長俊](https://open.spotify.com/artist/7aPCuTZPyKhq4BevJfFHye) | [再笑一個](https://open.spotify.com/album/5k2zaiHHsQKJq8zfzxAMmE) | 4:00 |
 | 23 | [Terbaik Untukku](https://open.spotify.com/track/55Unp5ka0mO0G1EVRam1dD) | [Elica Paujin](https://open.spotify.com/artist/5hQlUaI7ag0EWUCxhHeUik) | [Terbaik Untukku](https://open.spotify.com/album/1W61MuGGrynpIzjAvtIp0k) | 4:18 |
-| 24 | [Sepi](https://open.spotify.com/track/4pED2GQ28ilhCFLmBF0RUE) | [Mal Hamka](https://open.spotify.com/artist/0o50QOOPoOXy3ifSSVQWjc), [Yoka](https://open.spotify.com/artist/2YQrIbZX0TKpMRqEVk8tOC) | [Sepi](https://open.spotify.com/album/0MxqJ2WHcrrzyzPXY5sfUB) | 2:17 |
+| 24 | [Sepi](https://open.spotify.com/track/4pED2GQ28ilhCFLmBF0RUE) | [Mal Hamka](https://open.spotify.com/artist/0o50QOOPoOXy3ifSSVQWjc), [YokaMusic](https://open.spotify.com/artist/0E1kvFwfAWmBXs2KjG40Vm) | [Sepi](https://open.spotify.com/album/0MxqJ2WHcrrzyzPXY5sfUB) | 2:17 |
 | 25 | [Rindu Menyayat Kalbu](https://open.spotify.com/track/4AwgQxjjs9eAHG1UwUlhpn) | [Febian](https://open.spotify.com/artist/6w893tTXhSNmLgZcnzWaLo) | [Febian \- Rindu Menyayat Kalbu](https://open.spotify.com/album/4glGOMQv1UGF7MALvGedXH) | 4:57 |
 | 26 | [Rahsia Abhasa \(OST Pemuja\)](https://open.spotify.com/track/1deQ3f5geh2im09URAocXX) | [Tyka Zatyka](https://open.spotify.com/artist/5zh8FjmrQEyp0CDuwiY0IL) | [Rahsia Abhasa \(OST Pemuja\)](https://open.spotify.com/album/1UzcKpMEHUjLreWMBwDIi1) | 4:05 |
 | 27 | [Mengejar Kasih](https://open.spotify.com/track/7Cm14CVY4oBBBZXOUfz8PA) | [Atta Rumnan](https://open.spotify.com/artist/6pIpAU7IZkSlCGQAgT3zzW) | [Mengejar Kasih](https://open.spotify.com/album/7twyO1xtyz4FBh8tAd4Nhk) | 3:34 |

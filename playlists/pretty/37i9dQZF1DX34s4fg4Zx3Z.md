@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Những 🎶 từ những cái tên có thể bạn chưa biết\. Ảnh bìa: RENA
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,370 likes - 75 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,368 likes - 75 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 72 | [Vài Giọt Sương Mai](https://open.spotify.com/track/6V8ee0cRBK3rA6H4gCU2S9) | [Quinf](https://open.spotify.com/artist/4eya6t5uH1ROZCBM9vIxjz), [Catchellers](https://open.spotify.com/artist/1K3Oc9Q3wYgZANTcpsRq3C), [Billis](https://open.spotify.com/artist/07vl3No6oFpi7pBu6OZv4v) | [Vài Giọt Sương Mai](https://open.spotify.com/album/5Xi9K9SZTke3XJHKduBFS8) | 3:26 |
 | 73 | [GETSOMEMORE](https://open.spotify.com/track/0Z5WwmesO7nIvcHHAIrkNG) | [Niz](https://open.spotify.com/artist/5iLsTjgsYTcbjkRJXrNMeS) | [GETSOMEMORE](https://open.spotify.com/album/3Bn0xpML4NW1Thi4aNT9T6) | 3:04 |
 | 74 | [Sang Nhà Gặp Mẹ Em Đi](https://open.spotify.com/track/3jFUNZcbNajRwvW3S05408) | [Xhelebi](https://open.spotify.com/artist/3lGAYb0hwX4iJw3rhZEToR) | [Sang Nhà Gặp Mẹ Em Đi](https://open.spotify.com/album/7rL6te6jTjS2nh1Stn77vC) | 3:01 |
-| 75 | [Như mọi khi](https://open.spotify.com/track/43jd7k795zAjXAnYzyVIRp) | [Arthur](https://open.spotify.com/artist/0cC3MEfn9fyHa7lJ2jM9jO), [Trần Huyền Diệp](https://open.spotify.com/artist/3zvzgWoHqBx9qz3n4Bvi9F) | [Như mọi khi](https://open.spotify.com/album/1Y5Lh673BxfxOmoKTYeuWv) | 3:47 |
+| 75 | [Như mọi khi](https://open.spotify.com/track/43jd7k795zAjXAnYzyVIRp) | [Arthur](https://open.spotify.com/artist/17MOWJx5OMbLhw6HGgGtLa), [Trần Huyền Diệp](https://open.spotify.com/artist/3zvzgWoHqBx9qz3n4Bvi9F) | [Như mọi khi](https://open.spotify.com/album/1Y5Lh673BxfxOmoKTYeuWv) | 3:47 |
 
 Snapshot ID: `AAAAAMPY3aKhLhsm+IbvdCVJggcQwAvW`

@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-1,675 songs - 4 day 5 hr 30 min
+1,676 songs - 4 day 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1284,7 +1284,7 @@
 | [Sejauh ini \(ini yang paling jauh\)](https://open.spotify.com/track/19NNUI9h5C1q52amUFi1hC) | [WORSHIPER](https://open.spotify.com/artist/6MyopTP1JJDKkwooQaE1Dk) | [Sejauh ini \(ini yang paling jauh\)](https://open.spotify.com/album/4aS4AsiRb6I30B7MphtFbM) | 2:31 | 2025-07-18 |  |
 | [Selassie Is the Chapel](https://open.spotify.com/track/4Ot7EKpeZKPVoXoCrzvdJI) | [Ras Tamano](https://open.spotify.com/artist/6AzPKf5UTTpMnbgtKyWya8), [Goja Bongos](https://open.spotify.com/artist/7FU0l5HaLimkfIQZAjI8EB) | [Nyahbinghi I\-lodica](https://open.spotify.com/album/3KoPRZazTGn88Ee9nIZFYC) | 6:15 | 2024-03-25 |  |
 | [Selfish](https://open.spotify.com/track/79ZWF562VkgLPEhmREniXe) | [The Life of Flobo](https://open.spotify.com/artist/2OR3YWSOWqa3GKYEOY3mRO) | [Selfish](https://open.spotify.com/album/2JhxLFx5WRzprNbY5udBGy) | 2:50 | 2025-05-19 |  |
-| [Semblant \- Radio Edit](https://open.spotify.com/track/1dZ9rvr6Xo8oGklLUDNkF6) | [ToloV](https://open.spotify.com/artist/4t3awapuIDzb4fGOMWR35Q) | [Semblant \(Radio Edit\)](https://open.spotify.com/album/2FQnn24gpCcrbvK4JwNdh7) | 3:07 | 2025-05-14 |  |
+| [Semblant](https://open.spotify.com/track/1dZ9rvr6Xo8oGklLUDNkF6) | [ToloV](https://open.spotify.com/artist/4t3awapuIDzb4fGOMWR35Q) | [Semblant](https://open.spotify.com/album/2FQnn24gpCcrbvK4JwNdh7) | 3:07 | 2025-05-14 |  |
 | [Semente \(Cê Mente\)](https://open.spotify.com/track/4GZhUYBuGmrfE9tUQ3weFN) | [Wolf Fechus](https://open.spotify.com/artist/75utKhzIijUveDLv1iSAhF), [Iza Molinari](https://open.spotify.com/artist/32oYjzL7UXoGkr75PWDST2) | [Semente \(Cê Mente\)](https://open.spotify.com/album/7vbzb6nkW7SUUOkaLgRiuy) | 3:10 | 2025-05-12 |  |
 | [Semesta Menggila](https://open.spotify.com/track/6lnIySh1RqakQgC713tPsG) | [Insiden Ruang Legar](https://open.spotify.com/artist/2K8UAczIizDsAy6isQ4r9w) | [Semesta Menggila](https://open.spotify.com/album/6lyP8gp9QM9YFKK4TlGaRI) | 3:52 | 2025-08-02 |  |
 | [Seres de Luz](https://open.spotify.com/track/0eweIlwAkfm1L2FgW81cX3) | [Os Bardos da Pangeia](https://open.spotify.com/artist/3KMlVXkS8GLgNqU0ao8Hst) | [Seres de Luz](https://open.spotify.com/album/4eLYexORsIpytRvsunx716) | 7:22 | 2025-06-17 |  |
@@ -1357,6 +1357,7 @@
 | [Spiritual Slavery \- Discomix](https://open.spotify.com/track/6duBGNgvWmdDGt6w21JwIs) | [Messian Dread](https://open.spotify.com/artist/04yVvk0AJ4uHQwNoQbXROj) | [Tunes For Thoughts](https://open.spotify.com/album/1N9A7fipWS65oAObMYN37U) | 9:24 | 2024-05-01 |  |
 | [Spitting Image](https://open.spotify.com/track/5zc822kc1XnKLTxrmYyxQU) | [Release the Captive](https://open.spotify.com/artist/1v6EAnmC8SD44ntg7OT7uj) | [Spitting Image](https://open.spotify.com/album/37zO3PXRdt5VBbGFs16oUQ) | 4:52 | 2024-04-10 |  |
 | [Splash](https://open.spotify.com/track/7EZcLhi3EhKMb408cHOQOU) | [Colapesce](https://open.spotify.com/artist/2KX2VLr3Eu6sn6EtxzCtvf), [Dimartino](https://open.spotify.com/artist/1k3zqz5SgrYCE0wpcfJX3g) | [Splash](https://open.spotify.com/album/7963LrIHyvVfjRCIQWc55t) | 3:29 | 2023-03-15 |  |
+| [Split](https://open.spotify.com/track/3D4U2FQsMZ0jJpwnts4BYT) | [Monzarc](https://open.spotify.com/artist/4lmG1YXfns7Fi9VR0DBNeG) | [Split](https://open.spotify.com/album/6utV4kr5ZpWo2iK1Hw9Dqf) | 5:21 | 2025-12-23 |  |
 | [SPRING!](https://open.spotify.com/track/7lyg0eGzqwhk1TZmPrIyxu) | [Dark of Mind Project](https://open.spotify.com/artist/1xxm7LliI0DIiaMGSv5qjd) | [SPRING!](https://open.spotify.com/album/4eh1a2NYKXGSjtUMLjh6Yx) | 2:56 | 2025-07-08 |  |
 | [Starborn](https://open.spotify.com/track/1bz4mwUQvk2TOyGMZHr9SR) | [Julia Vasiliev](https://open.spotify.com/artist/4gPg2YgLb608Yn02rXzDKT) | [Starborn](https://open.spotify.com/album/3Gvz4w6oEdg3SUgDOpWKrc) | 4:20 | 2025-08-02 |  |
 | [Stare Bene Stare Male](https://open.spotify.com/track/2SnGH57n6b37LsA1VmJCGk) | [Ivan And The Eclipse](https://open.spotify.com/artist/6XXwWzefUQwgQVgyWmU9Wj) | [Stare Bene Stare Male](https://open.spotify.com/album/5csfTcNe0ZT7KID0960gYB) | 4:50 | 2024-04-20 |  |

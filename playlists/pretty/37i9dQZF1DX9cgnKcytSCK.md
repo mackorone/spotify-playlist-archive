@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cgnKcytSCK.md) - [plain]
 
 > Music from the world of Sinners, now in theaters\. Curated by Ryan Coogler and Ludwig Göransson.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,036 likes - 71 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,045 likes - 71 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

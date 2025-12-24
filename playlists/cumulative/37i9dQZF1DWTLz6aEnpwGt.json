@@ -1255,6 +1255,28 @@
     },
     {
       "album": {
+        "name": "J.S. Bach: Goldberg Variations, BWV 988: Var. 3. Canone all'Unisono a 1 Clav. (Live at Carnegie Hall, New York, 2025)",
+        "url": "https://open.spotify.com/album/5ayRczrZ1VaAgNDxp9k97Z"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Yunchan Lim",
+          "url": "https://open.spotify.com/artist/2bISdi2DpR6ApPu2Tkxlyz"
+        }
+      ],
+      "date_added": "2025-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122386,
+      "name": "Goldberg Variations, BWV 988: Var. 3. Canone all'Unisono a 1 Clav. - Live at Carnegie Hall, New York, 2025",
+      "url": "https://open.spotify.com/track/70zKq7pbp9teMVVkzwXUfW"
+    },
+    {
+      "album": {
         "name": "Johann Sebastian Bach",
         "url": "https://open.spotify.com/album/3TOMQGaZieoPQQCJ3ft9bc"
       },
@@ -1462,7 +1484,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-24",
       "duration_ms": 93866,
       "name": "Notenb\u00fcchlein vor Anna Magdalena Bach, Book 2: Minuet in G Major, BWV Anh.114",
       "url": "https://open.spotify.com/track/5xYRxXZXNiGRxPkD7lfGcn"
@@ -1484,7 +1506,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-24",
       "duration_ms": 326520,
       "name": "Organ Sonata No. 4, BWV 528: II. Andante [Adagio] (Transcr. by August Stradal)",
       "url": "https://open.spotify.com/track/5Pl2CXDkaP6WEnJ0bpKGOm"
@@ -1686,7 +1708,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-24",
       "duration_ms": 84453,
       "name": "Prelude & Fugue in C Minor (Well-Tempered Clavier, Book I, No. 2), BWV 847: I. Prelude",
       "url": "https://open.spotify.com/track/3tRT6unYEvgBTbAdAWPSVp"
@@ -1712,6 +1734,28 @@
       "duration_ms": 105853,
       "name": "Prelude & Fugue in D Major (Well-Tempered Clavier, Book I, No. 5), BWV 850: II. Fugue",
       "url": "https://open.spotify.com/track/3v1gviJrAtaIoLK41JSy8s"
+    },
+    {
+      "album": {
+        "name": "Bach, J.S.: Das Wohltemperierte Klavier I (2 CDs)",
+        "url": "https://open.spotify.com/album/66Y5acsaLYywTR6i9CirnT"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Andr\u00e1s Schiff",
+          "url": "https://open.spotify.com/artist/24K6LTZFqBAvKsorwK0iXd"
+        }
+      ],
+      "date_added": "2025-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240400,
+      "name": "Prelude and Fugue in C sharp (WTK, Book, No.3), BWV 848",
+      "url": "https://open.spotify.com/track/4elEMt96zxJre462tcnep2"
     },
     {
       "album": {
@@ -1778,6 +1822,28 @@
       "duration_ms": 139306,
       "name": "The Well-Tempered Clavier I, Prelude & Fugue No. 1 in C Major, BWV 846: I. Prelude",
       "url": "https://open.spotify.com/track/4SFBV7SRNG2e2kyL1F6kjU"
+    },
+    {
+      "album": {
+        "name": "Bach: The Well-Tempered Clavier I",
+        "url": "https://open.spotify.com/album/2wl3k3TsSyUxwTxzaYJMCf"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Mahan Esfahani",
+          "url": "https://open.spotify.com/artist/3IGLp0T2tKCevHZ2znDhtT"
+        }
+      ],
+      "date_added": "2025-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "The Well-Tempered Clavier I: Prelude & Fugue No. 1 in C Major, BWV 846: I. Prelude",
+      "url": "https://open.spotify.com/track/2W3rT18YGlUPudC5zLxxVw"
     },
     {
       "album": {

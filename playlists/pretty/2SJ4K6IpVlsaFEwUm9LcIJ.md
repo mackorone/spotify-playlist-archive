@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to nov\-dec 2025
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,699 likes - 40 songs - 2 hr 47 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,699 likes - 42 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,5 +48,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 38 | [Touched By Rodin In A Paris Museum](https://open.spotify.com/track/7IIY6X0BkfnPD8h3dz1t8G) | [Patty Waters](https://open.spotify.com/artist/51Oyt5Jb1UvVmT9n90T8cY) | [You Thrill Me: A Musical Odyssey 1960 \- 1979](https://open.spotify.com/album/7tuWv7aOp4XP9J9M7zFTHy) | 14:36 |
 | 39 | [Sparrowsong](https://open.spotify.com/track/52MWdbfrFoFm7Yd4ai894U) | [Fergus McCreadie](https://open.spotify.com/artist/5Yb1aFMX9xNtjFVDSdt2ZL) | [The Shieling](https://open.spotify.com/album/6TR2hNF3iX8z7NuY0WqPac) | 3:46 |
 | 40 | [The Failure Of The Leading Sign Industry](https://open.spotify.com/track/5rkLS6rRzCx5Y5ExiFgih4) | [Lali Puna](https://open.spotify.com/artist/2GkJdEJneopHc10XQV76rN) | [I Thought I Was Over That](https://open.spotify.com/album/1sMD93TOAOcqfPtfaGil5K) | 1:27 |
+| 41 | [Alligator Man](https://open.spotify.com/track/6niBxbmgWaDlTBBtXXDb3M) | [Charlie Megira](https://open.spotify.com/artist/45OTuDcvTBxpqMEJZiK4FI), [The Bet She' an Valley Hillbillies](https://open.spotify.com/artist/7GG6yOLAq2ngbdYhCPw0Fk) | [Tomorrow's Gone](https://open.spotify.com/album/4bx5EYBQ62CDkBd3NcszeH) | 3:17 |
+| 42 | [Pianoflage](https://open.spotify.com/track/7A6UqQiwFNqdq1Lb7EsRYl) | [Fate Marable's Society Syncopators](https://open.spotify.com/artist/5GhkhuFjGA8XTplgVd07dr) | [New Orleans Jazz Of The 1920s](https://open.spotify.com/album/1HKiHdoWuwObf7QFSZzf4q) | 3:12 |
 
-Snapshot ID: `AAANitKpuAyEzin0V60HcB6/b0rwHDzT`
+Snapshot ID: `AAANjCzwShU/sh2Mn7QYmIx8zui8/oa0`

@@ -4,7 +4,7 @@
 
 > Explore the surreal world of Satie, from serene Gymnopédies, to gothic dances and poetic songs.
 
-100 songs - 8 hr 4 min
+101 songs - 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Fantaisie\-Valse](https://open.spotify.com/track/1EzM1MMDPicAGDCucTgwgt) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Roland Pöntinen](https://open.spotify.com/artist/3oob8cWQ5FMlfVZRwSSVES) | [Satie: Piano Music](https://open.spotify.com/album/2Qfs0zjdWYg5MIxmQZUtyH) | 3:23 | 2019-11-20 |  |
 | [Fete Donnee Par Des Chevaliers Normandes En L'honneur D'une Jeune Demoiselle \(Xie Siecle\): Fete Donnee Par Des Chevaliers Normands ..\. \- Prelude D'eginhard \- Deux Preludes Du Nazareen](https://open.spotify.com/track/2l02d2x1TYfxbVpG9zDNWc) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Klara Kormendi](https://open.spotify.com/artist/5V2ay7vEghiqgb7NFFiPEZ) | [Satie: Piano Works, Vol\. 3](https://open.spotify.com/album/5aEuMjq9dlIyba38brYa4x) | 12:38 | 2019-11-20 | 2024-04-19 |
 | [Gnossienne No\. 1](https://open.spotify.com/track/5fdp9rXfEixCGLM1Og4EN1) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Alena Cherny](https://open.spotify.com/artist/5kgAnLGI2biBHvY7hDsF7P) | [Gnossienne No\. 1](https://open.spotify.com/album/4ZWDD7tNRRMB2eO4B5LsJh) | 4:56 | 2019-11-20 | 2025-07-02 |
+| [Gnossienne No\. 1 \(Arr\. Dyens for Guitar\)](https://open.spotify.com/track/0DKHLVXCeX7vI4HoelvrFD) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Alexandra Whittingham](https://open.spotify.com/artist/54UqAWfr4SIdCc5xBapeMM) | [Satie: Gnossienne No\. 1 \(Arr\. Dyens for Guitar\)](https://open.spotify.com/album/6A31DVhBwEM8e7W7q2aNL4) | 3:15 | 2025-12-23 |  |
 | [Gnossienne No\. 3\. Lent \- Musical Moments](https://open.spotify.com/track/61SKZkbo5BMRlz6grxGRIK) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Arsenii Moon](https://open.spotify.com/artist/5EREizNNMn2Sp9xMki4tic) | [Satie: Gnossienne No\. 3\. Lent \(Musical Moments\)](https://open.spotify.com/album/5ZDTiaUvV5sfXYioXECZjA) | 2:58 | 2025-07-01 |  |
 | [Gnossienne No\. 6](https://open.spotify.com/track/48uQVaVJbUnvKNE0dPQtIB) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Satie: The Complete solo piano music](https://open.spotify.com/album/5HwlyJmJZgGjTaM1a8YENX) | 1:45 | 2019-11-20 |  |
 | [Gnossiennes: Gnossienne No.3](https://open.spotify.com/track/5QKjojuLLPncfpvUvqrWKF) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK), [Roland Pöntinen](https://open.spotify.com/artist/3oob8cWQ5FMlfVZRwSSVES) | [Satie: Piano Music](https://open.spotify.com/album/2Qfs0zjdWYg5MIxmQZUtyH) | 3:07 | 2019-11-20 |  |

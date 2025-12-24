@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,473 songs - 7 day 2 hr 4 min
+4,474 songs - 7 day 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,7 +189,7 @@
 | [animus](https://open.spotify.com/track/4zCeyJN2sw21aIeVc5GeBG) | [Happy Tobi](https://open.spotify.com/artist/1GyfVIZcP7PfEgpNnars9N), [Meister Eder](https://open.spotify.com/artist/3i3hJVjioa0cHsB2XzuDcT) | [animus](https://open.spotify.com/album/5guVLfQcPQPGZNllknbiLB) | 1:52 | 2020-03-13 | 2020-05-25 |
 | [ano sono \- Refeeld Remix](https://open.spotify.com/track/28q3epj0qi0bdAk8LKdaWV) | [bebe akari](https://open.spotify.com/artist/48DGtA3cy6aM33BGVt426b), [Refeeld](https://open.spotify.com/artist/04VwrPirvx6CXRzbEjofQP) | [ano sono \(Refeeld Remix\)](https://open.spotify.com/album/2dTLQXiIJE9J6HJRfcVouy) | 2:11 | 2023-11-23 | 2023-12-22 |
 | [Another Day](https://open.spotify.com/track/70l8pSeTTrp2MKJylCzMLw) | [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC), [blndspot](https://open.spotify.com/artist/4YYlHGxwQoGgtikHADECAn) | [Another Day](https://open.spotify.com/album/5XY4SnLWrChaJqLP99yFJS) | 2:20 | 2022-06-16 | 2022-07-15 |
-| [Another One](https://open.spotify.com/track/0sYDpoiZCWQv0iTRITUz7w) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Another One](https://open.spotify.com/album/1EE19WjhpCrf7VZFriw4xF) | 2:00 | 2025-07-18 | 2025-11-30 |
+| [Another One](https://open.spotify.com/track/0sYDpoiZCWQv0iTRITUz7w) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Another One](https://open.spotify.com/album/1EE19WjhpCrf7VZFriw4xF) | 2:00 | 2025-07-18 |  |
 | [Anthracite](https://open.spotify.com/track/60E0ch0HXD1EEyGunEh1Rm) | [eun](https://open.spotify.com/artist/0L8slSjSjkpmY2vCCuXZ2r), [hyanne](https://open.spotify.com/artist/1f9nCqsgyst3hgupWnAfpn), [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl) | [Anthracite](https://open.spotify.com/album/1FiKHHRVwzf5ghwHFQ3wtZ) | 2:44 | 2024-04-25 | 2024-05-10 |
 | [Antigua](https://open.spotify.com/track/2kiFU7iZzc87FOtUgybQ57) | [Flynn](https://open.spotify.com/artist/0kJ2SIy2AnpPecBkJBzbMs), [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6) | [Antigua](https://open.spotify.com/album/2NgYjtiGBLWNpt39S4QPbx) | 1:55 | 2020-07-31 | 2021-03-24 |
 | [Antoine](https://open.spotify.com/track/0apk4pgE3s2CK0pRXPrbEV) | [JAY VANILLA](https://open.spotify.com/artist/4Vk1NkBCNhg2qaR5RlCpZV) | [Antoine](https://open.spotify.com/album/2iNigLXhGUEzuz75zs1Qk4) | 1:56 | 2020-11-06 | 2021-05-07 |
@@ -451,6 +451,7 @@
 | [Blue Domicile](https://open.spotify.com/track/24AeoThUUKBPtq9QUD9oKb) | [Titus Martinu](https://open.spotify.com/artist/5xgzUVEK9ndCxbJQIoZjlA) | [Bitonality](https://open.spotify.com/album/6Xycrb5HuLet9sYoBZpK7f) | 2:35 | 2020-05-12 | 2020-07-18 |
 | [Blue Dot](https://open.spotify.com/track/7akKC6WVjmH5ulrW39NcrT) | [Mølto](https://open.spotify.com/artist/3TdZze66L3TYfwEcsnsOkn) | [Blue Dot](https://open.spotify.com/album/1llTX7zF12jNtv7oLi8G5J) | 1:57 | 2020-04-29 | 2020-07-11 |
 | [Blue Forest](https://open.spotify.com/track/4wsHN1FsBuMFbwUSuuCaZZ) | [popadiclo](https://open.spotify.com/artist/0AV4dakwcbV6LhxlImHp7v) | [Blue Talk](https://open.spotify.com/album/6vZ9Dh91kpigVHzJBatggg) | 2:27 | 2020-03-20 | 2020-05-01 |
+| [Blue Glass Pools](https://open.spotify.com/track/4ffhvVZ3w5KlZK4ZXyn7LC) | [Hizashi](https://open.spotify.com/artist/2rFUcncQelfj2NuqQZKssx), [Nathan Kersey\-Wilson](https://open.spotify.com/artist/7i6wUpJElvNxwCs3lP0bAJ) | [Blue Glass Pools](https://open.spotify.com/album/4pwMTfaVaUHYYlNqwkqidQ) | 2:24 | 2025-12-19 |  |
 | [blue haze](https://open.spotify.com/track/2knGGKUe0T66kZvtH8mY9c) | [Jinsang](https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt) | [still thinkin' / blue haze](https://open.spotify.com/album/4YzXUhK9fhGgZJtwNbJVcH) | 2:37 | 2020-02-14 | 2020-05-22 |
 | [Blue Lagoon](https://open.spotify.com/track/3mtaRfivMCPYmqh9BpLTLW) | [Duan Wasi](https://open.spotify.com/artist/71aXcrNzVQBs4e3FLIlDVI) | [Blue Lagoon](https://open.spotify.com/album/4KcvYwsqUQF2OgvrNL4Wvk) | 1:55 | 2021-01-29 | 2021-03-19 |
 | [Blue Mood](https://open.spotify.com/track/3EtZnZm5vSUoyANv1y4Euq) | [sleepsleepsleep](https://open.spotify.com/artist/014LowNhgN2d8KreuoFRFd) | [Blue Mood](https://open.spotify.com/album/0Y7qlxushLfHt6A7YDztUf) | 1:34 | 2022-09-08 | 2025-10-17 |
@@ -608,7 +609,7 @@
 | [Camberwell](https://open.spotify.com/track/0rhsSLzNfB91innrvTBdx3) | [Khutko](https://open.spotify.com/artist/26e6xlrurIqVfo2GzwuSMQ) | [Camberwell](https://open.spotify.com/album/7ALBhgIL3vvB2c5PVUSJ4Y) | 2:13 | 2020-09-04 | 2021-04-30 |
 | [Cambrai](https://open.spotify.com/track/22nmtSEfoLluVVHDmAaH98) | [lorleaf](https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y) | [Cambrai](https://open.spotify.com/album/2ZcK96UqUPEiJDXrgDwZ4q) | 1:52 | 2021-12-06 | 2024-04-26 |
 | [Camel Ride](https://open.spotify.com/track/7lRDkaeIXwgm78lCFR3zvt) | [Lvnt](https://open.spotify.com/artist/0lJBgFBswR7nf4TrKtwZQt) | [Camel Ride](https://open.spotify.com/album/2WkIMFzrUv3VtDscB9lf7k) | 2:18 | 2023-06-01 | 2023-08-25 |
-| [Camelot](https://open.spotify.com/track/6bIGbpZ4EOfkhDcTP526Va) | [L E F](https://open.spotify.com/artist/6OtbmwnrAgCOlEN9ZTugNV) | [Smooth Transition](https://open.spotify.com/album/0vUMaBuPhr9EYc8I6NnmCX) | 2:12 | 2023-10-12 |  |
+| [Camelot](https://open.spotify.com/track/6bIGbpZ4EOfkhDcTP526Va) | [L E F](https://open.spotify.com/artist/6OtbmwnrAgCOlEN9ZTugNV) | [Smooth Transition](https://open.spotify.com/album/0vUMaBuPhr9EYc8I6NnmCX) | 2:12 | 2023-10-12 | 2025-12-24 |
 | [Camping With Claude](https://open.spotify.com/track/4lXRsUAcf5wPthpzKVYDxi) | [Lyrik Greens](https://open.spotify.com/artist/5R7QjVJlJuNYs5EKt6xvpv) | [Camping With Claude](https://open.spotify.com/album/5XBTUk5M6BmuQwThH2vcx6) | 1:36 | 2024-04-25 | 2024-05-10 |
 | [Can Do](https://open.spotify.com/track/17cUrQgR2mErga1fo4fxP7) | [Malia Løu](https://open.spotify.com/artist/7L101JhKGlktbrpW8DQ3GL) | [Can Do](https://open.spotify.com/album/0pUwnqkCbHQoVdc7TrlsCt) | 1:44 | 2023-03-30 | 2023-05-12 |
 | [can't sleep](https://open.spotify.com/track/2LdQlq1FVnDtfNkg6zumUE) | [pettersson](https://open.spotify.com/artist/72Q5cOChL72xjupeqzKlWd) | [can't sleep](https://open.spotify.com/album/0UzU5o70AJ8OYZJNeQKagE) | 2:25 | 2019-05-26\* | 2019-08-13 |
@@ -3442,7 +3443,7 @@
 | [Smile Again](https://open.spotify.com/track/2VZ2N0hfF1XQIPEhot4BXq) | [Green Assassin Dollar](https://open.spotify.com/artist/64FwB76hSP9VtYtPSBbEY7) | [Smile Again](https://open.spotify.com/album/3swcHpJ2eJSAkljZDVnEh7) | 0:57 | 2019-11-29 | 2020-03-20 |
 | [Smoke One](https://open.spotify.com/track/2lR4W7VFKuLeeFwhIqzDk7) | [Marcos Caixa](https://open.spotify.com/artist/2MnrAvsTKE41QWJzhqNmq5) | [Smoke One](https://open.spotify.com/album/3r9WbGKS1hwq1mhIvryv1M) | 2:19 | 2019-12-13 | 2020-04-18 |
 | [Smoke Rings](https://open.spotify.com/track/5XquEMLviSzVmnt8fzZqVu) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i) | [smwhere, smtime](https://open.spotify.com/album/2kw2r9j47LTz8dFt7KBJh8) | 1:56 | 2020-03-27 | 2020-06-12 |
-| [Smoked](https://open.spotify.com/track/0wND5DO78fUn6bavabLy43) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [Viktor Minsky](https://open.spotify.com/artist/5mS3l0prvJ5cpqzx8zz4GH) | [Frameworks](https://open.spotify.com/album/5yoMLqQhCNenP58Jj47JIp) | 2:35 | 2024-08-01 |  |
+| [Smoked](https://open.spotify.com/track/0wND5DO78fUn6bavabLy43) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [Viktor Minsky](https://open.spotify.com/artist/5mS3l0prvJ5cpqzx8zz4GH) | [Frameworks](https://open.spotify.com/album/5yoMLqQhCNenP58Jj47JIp) | 2:35 | 2024-08-01 | 2025-12-24 |
 | [Smokery](https://open.spotify.com/track/2ZDcKJ9JK41xP1vZJA5uAz) | [Tipati](https://open.spotify.com/artist/6Y9bWYYnauLBdMITz0ZL3L) | [Smokery](https://open.spotify.com/album/4MSJ6UjbU4LpSP5slgFrLZ) | 2:33 | 2023-12-14 | 2023-12-31 |
 | [Smooth Operation](https://open.spotify.com/track/36lI2yTDwtlzgMq42zbbM0) | [Soulmade](https://open.spotify.com/artist/3Az7oMw6ipky9h1LJOxYMD) | [Smooth Operation](https://open.spotify.com/album/2BfOz9Hus0lwU6Pb5KjT9e) | 2:30 | 2023-12-01 | 2023-12-22 |
 | [Smooth Summer Cruise](https://open.spotify.com/track/44PIYaLC457K04fOytQn6T) | [Kid Tarô](https://open.spotify.com/artist/5XD1vyL8naPVq2dvjetpiT), [Gabiga](https://open.spotify.com/artist/7KmiBNHemPsEwpLvRXHvQg) | [Smooth Summer Cruise](https://open.spotify.com/album/4lowLW0qFaoC12Nat7qOs2) | 2:24 | 2023-09-21 | 2023-10-20 |

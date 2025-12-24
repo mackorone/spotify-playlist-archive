@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-93 songs - 5 hr 13 min
+94 songs - 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Hanging Out In My Head](https://open.spotify.com/track/09Kdd69AOxLmALBRbGxiqV) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Burning Bridges Into Dust](https://open.spotify.com/album/0oaZ08v4YoczsjVyRF1llG) | 2:49 | 2025-11-02 |  |
 | [Heading Out](https://open.spotify.com/track/37JTgHjdSzi6RDZAjz6Blg) | [Velvet Static](https://open.spotify.com/artist/6F0VPim2a3o1M64nwGGRv2) | [Heading Out](https://open.spotify.com/album/3MHolAh5hdccEvWypHo6qy) | 4:47 | 2025-11-17 |  |
 | [High and Low](https://open.spotify.com/track/7aJokZHlQxlEbNXYZiOA0p) | [Slim Loris](https://open.spotify.com/artist/4i1M26n7NN5vINKv3VfuHu) | [High and Low](https://open.spotify.com/album/5tGCGKKNwOF4w2vj17Cut9) | 3:20 | 2025-11-09 |  |
+| [Hold On Til You Let Go \(Tourist Version\)](https://open.spotify.com/track/7nkBhPsOjWRjvTGZI1DPyz) | [Michael Barrow & the Tourists](https://open.spotify.com/artist/1mhe70fSiQDyc16JVlhBUE) | [Hold On Til You Let Go](https://open.spotify.com/album/1BXaEV0oVzH4Uch6fuClSf) | 3:03 | 2025-12-23 |  |
 | [holdingontosafety](https://open.spotify.com/track/4OJBealebm7hhRuyj2xGyt) | [vixxen](https://open.spotify.com/artist/3qkdIvVd0yfwaW8VxHHxdE) | [holdingontosafety](https://open.spotify.com/album/122NulHFFZ34lnasM1rBnR) | 2:42 | 2025-10-28 | 2025-12-12 |
 | [I'm so Scared of You](https://open.spotify.com/track/29myHNF0WVbPbwZmc3Al7x) | [Everything Velvet](https://open.spotify.com/artist/0J3Bsaj91QTSMVpxpAY8NE) | [I'm so Scared of You](https://open.spotify.com/album/6FNFV9J1mhqFVz53nzXIOb) | 4:53 | 2025-11-01 |  |
 | [i've](https://open.spotify.com/track/46CHFOn4ayNjzKQ31B7sbM) | [North Shy](https://open.spotify.com/artist/2A3nZ5WhiMaBI2NgsXa4aV) | [aftermath](https://open.spotify.com/album/3YF6DBphL3fpTWSVrIj2Og) | 3:25 | 2025-10-24 | 2025-12-02 |

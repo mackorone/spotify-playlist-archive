@@ -1509,6 +1509,24 @@
     },
     {
       "album": {
+        "name": "Continua",
+        "url": "https://open.spotify.com/album/4bEppTERRCIuPJB4ouryzt"
+      },
+      "artists": [
+        {
+          "name": "Eliezer de Tarsis",
+          "url": "https://open.spotify.com/artist/7swIpYfKi5yjFe1J2LQCnL"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251250,
+      "name": "Continua",
+      "url": "https://open.spotify.com/track/2UAngFBfVyrTkXSBhqzyRS"
+    },
+    {
+      "album": {
         "name": "Rahamim (Ao Vivo)",
         "url": "https://open.spotify.com/album/7thffmU6YnyXOowuno3vhN"
       },
@@ -1938,7 +1956,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-24",
       "duration_ms": 333706,
       "name": "Desej\u00e1vel",
       "url": "https://open.spotify.com/track/2u2NL48dpclQeLPh3rbA9I"
@@ -2156,7 +2174,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-07",
+      "date_removed": null,
       "duration_ms": 270373,
       "name": "Deus Forte (Ao Vivo)",
       "url": "https://open.spotify.com/track/3i7GanYhWqwGpC1fRJQquk"
@@ -2492,7 +2510,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-24",
       "duration_ms": 638561,
       "name": "D\u00e1-Me Tua Gra\u00e7a",
       "url": "https://open.spotify.com/track/5wD1ENJDK5tDWsjqKZwpYk"

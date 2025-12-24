@@ -1,12 +1,12 @@
 {
   "description": "This is Westlife. The essential tracks, all in one playlist.",
-  "num_followers": 493292,
+  "num_followers": 493312,
   "original_name": "This Is Westlife",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUc4gAAAAADWMIRGqE0k3ovtKH4idNOj",
+  "snapshot_id": "aUiKAAAAAABpnCFEJfXo0jY9TbUOn8B6",
   "tracks": [
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "World of Our Own (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5FECTGZ9UdITzeo7o0AhUZ"
-      },
-      "artists": [
-        {
-          "name": "Westlife",
-          "url": "https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY"
-        }
-      ],
-      "duration_ms": 261893,
-      "name": "Bop Bop Baby",
-      "url": "https://open.spotify.com/track/7dHldWPBFycgIl14iuItAi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "B-Sides, Rarities and Remixes",
         "url": "https://open.spotify.com/album/3Ln53Tw9oXf3PKhYBusTAD"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 239985,
       "name": "Hard to Say I'm Sorry",
       "url": "https://open.spotify.com/track/4QTIkK8161b0A8wvXWZo8D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "World of Our Own (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5FECTGZ9UdITzeo7o0AhUZ"
+      },
+      "artists": [
+        {
+          "name": "Westlife",
+          "url": "https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY"
+        }
+      ],
+      "duration_ms": 261893,
+      "name": "Bop Bop Baby",
+      "url": "https://open.spotify.com/track/7dHldWPBFycgIl14iuItAi"
     },
     {
       "added_at": null,

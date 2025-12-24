@@ -5531,6 +5531,24 @@
     },
     {
       "album": {
+        "name": "PROGETTO X DELUXE",
+        "url": "https://open.spotify.com/album/3zbpX7pil18FtBaPKsCne1"
+      },
+      "artists": [
+        {
+          "name": "LILCR",
+          "url": "https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S"
+        }
+      ],
+      "date_added": "2025-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166340,
+      "name": "BIG CEO",
+      "url": "https://open.spotify.com/track/6h2XLZqXWJGn1a0e7VUR4x"
+    },
+    {
+      "album": {
         "name": "Big Don Dada",
         "url": "https://open.spotify.com/album/00Q0BOTspDIZXFgZ4qHAHG"
       },
@@ -22464,7 +22482,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-24",
       "duration_ms": 131538,
       "name": "LIPGLOSS",
       "url": "https://open.spotify.com/track/3s9XbAdYehEKUvt8uAmJlM"
@@ -24532,7 +24550,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-24",
       "duration_ms": 144032,
       "name": "Maschio",
       "url": "https://open.spotify.com/track/5oEyFVow0cL7hOXseDTcPn"
@@ -26738,7 +26756,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-24",
       "duration_ms": 119531,
       "name": "MONONOKE",
       "url": "https://open.spotify.com/track/14Rr0zfyfN3aMQymiYffwC"

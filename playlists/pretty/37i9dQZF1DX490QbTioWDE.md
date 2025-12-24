@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Banda Mix & Eugenia Quevedo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 793,447 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 793,689 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 94 | [Princesa \- En Vivo](https://open.spotify.com/track/2FRmkWHwyENNhzCbjXFIat) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6) | [Princesa \(En Vivo\)](https://open.spotify.com/album/32dDv3ZdYFfVTfeSbcqoPm) | 2:50 |
 | 95 | [Sofia](https://open.spotify.com/track/6gkkXS8MmLcjRjC3laEcCp) | [Ale Ceberio](https://open.spotify.com/artist/7fxj9VjDxGpHfOPEkgxm6e) | [Un Nuevo Tiempo](https://open.spotify.com/album/6zh56MX8nIUfdtyydwjaoJ) | 2:16 |
 | 96 | [Confesión](https://open.spotify.com/track/0OGoyUj8cRX6hP0iItmNmN) | [El Loco Amato](https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p) | [Confesión](https://open.spotify.com/album/0nSpGWF4jK7RXdHcNZiCjr) | 3:21 |
-| 97 | [No Se Vivir Si No Es Contigo](https://open.spotify.com/track/52OkqHPokUjEpqRrYF0Gjn) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H), [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [No Se Vivir Si No Es Contigo](https://open.spotify.com/album/6LN0Uptc8N4aFljACWxkDx) | 3:22 |
-| 98 | [El No Va a Venir](https://open.spotify.com/track/4OtSrkolF9M9W31RZuIi8u) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [El No Va a Venir](https://open.spotify.com/album/48HiiidVYDzICtnx1qbV8r) | 2:15 |
-| 99 | [Hasta Que Me Olvides](https://open.spotify.com/track/4MtuoIRFMZeKOeVGxDUR8O) | [El Vecino](https://open.spotify.com/artist/5BAshsAHEexc7z1Zso0LZt) | [Hasta Que Me Olvides](https://open.spotify.com/album/42Krexxg6tMxOepX9Dnoej) | 3:38 |
+| 97 | [Hasta Que Me Olvides](https://open.spotify.com/track/4MtuoIRFMZeKOeVGxDUR8O) | [El Vecino](https://open.spotify.com/artist/5BAshsAHEexc7z1Zso0LZt) | [Hasta Que Me Olvides](https://open.spotify.com/album/42Krexxg6tMxOepX9Dnoej) | 3:38 |
+| 98 | [No Se Vivir Si No Es Contigo](https://open.spotify.com/track/52OkqHPokUjEpqRrYF0Gjn) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H), [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [No Se Vivir Si No Es Contigo](https://open.spotify.com/album/6LN0Uptc8N4aFljACWxkDx) | 3:22 |
+| 99 | [El No Va a Venir](https://open.spotify.com/track/4OtSrkolF9M9W31RZuIi8u) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [El No Va a Venir](https://open.spotify.com/album/48HiiidVYDzICtnx1qbV8r) | 2:15 |
 | 100 | [JULIETA & ROMEO \(En Vivo\)](https://open.spotify.com/track/6e37baiPTAaS5J5UZexFzG) | [Ian Lucas](https://open.spotify.com/artist/4Y5ngKq3InS4UveL0Sp7Ik), [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [JULIETA & ROMEO \(En Vivo\)](https://open.spotify.com/album/4j657q1CkL6b2KudaL5qS4) | 2:43 |
 
 Snapshot ID: `AAAAAM6EAwupMjQwH5zO6hejUMX9UUlX`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > 🇳🇴🤝🇸🇪
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,040 likes - 178 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,098 likes - 178 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 17 | [SPELMANSLAG](https://open.spotify.com/track/6Tk1xbCBSG0i6gW9L4NaPk) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [SPELMANSLAG](https://open.spotify.com/album/5cAO2cDXZhGxOo3W9AL02J) | 2:01 |
 | 18 | [Snälla tomten \(hoe hoe hoe\)](https://open.spotify.com/track/34Np8ybfOGCeOL4vFxewx1) | [Crille](https://open.spotify.com/artist/40HMc5TsB4jkjnSlDK0V9Z), [KLIKK](https://open.spotify.com/artist/5KzAtk6MPVaEFBvrvfFh69), [Örnen](https://open.spotify.com/artist/5qr9oJEKhqbjVAFxyYIKKy) | [Snälla tomten \(hoe hoe hoe\)](https://open.spotify.com/album/1q3fnc3wLJhCeRQCBKNh1d) | 2:35 |
 | 19 | [Belvedere](https://open.spotify.com/track/0XK4XQtngtiy1IBnZVs2Wm) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Belvedere](https://open.spotify.com/album/4PPfRHM26lrYtVEhEgsI8J) | 2:10 |
-| 20 | [JUL PÅ REGEMENTET](https://open.spotify.com/track/3HlGih0cBvIRZnSPO9jlsR) | [Översten](https://open.spotify.com/artist/3B7WpyQspBGGjfif7rKFmM), [DJ Hellan](https://open.spotify.com/artist/65uIRTMznTeapqZ6SBy52z), [GRABBARNA GRUS](https://open.spotify.com/artist/3vqZpcHSUlnIEczeBUdBvx) | [JUL PÅ REGEMENTET](https://open.spotify.com/album/7xKOdyEmHIl4odVLHUTT26) | 2:28 |
+| 20 | [JUL PÅ REGEMENTET](https://open.spotify.com/track/3HlGih0cBvIRZnSPO9jlsR) | [Översten](https://open.spotify.com/artist/3B7WpyQspBGGjfif7rKFmM), [GRABBARNA GRUS](https://open.spotify.com/artist/3vqZpcHSUlnIEczeBUdBvx) | [JUL PÅ REGEMENTET](https://open.spotify.com/album/7xKOdyEmHIl4odVLHUTT26) | 2:28 |
 | 21 | [EGO 2.0](https://open.spotify.com/track/5PyGZDA59WofAzF4bwgAIi) | [Emil Assergård](https://open.spotify.com/artist/3fpHdW8mp95bOCzRLcauZm), [Mange Schmidt](https://open.spotify.com/artist/3XNYAscVt30VsW8dJiWQsl) | [EGO 2.0](https://open.spotify.com/album/3UcrAM36vJ9fQT7Cy14toB) | 3:27 |
 | 22 | [JAG ÄR EN UTEBAJSARE](https://open.spotify.com/track/3Spjj4LM4n7LSVn9smaR3E) | [Mejeristerna](https://open.spotify.com/artist/27P0zwyOk3CLx4sTBwj1ha) | [JAG ÄR EN UTEBAJSARE](https://open.spotify.com/album/1pWOHVSqdqqKNaAawlHbPZ) | 1:54 |
 | 23 | [PÅ LOKAL](https://open.spotify.com/track/5pF1DygehF10LeCIpV936H) | [Rivstart](https://open.spotify.com/artist/0NNJLiIAqTaLE1MMMgrBNj), [Fredrik Lundman](https://open.spotify.com/artist/6wAyoT7d2NrEWUcG2IbN23) | [PÅ LOKAL](https://open.spotify.com/album/6PzvVlavNNqMMWzSKusoX5) | 2:28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ACGg8vzTNZ.md) - [plain]
 
 > Chilled instrumentals to get you focused and ready for the day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,028 likes - 45 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,058 likes - 45 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ACGg8vzTNZ.md) - [plain]
 | 5 | [Nocturne II \- After Dawn](https://open.spotify.com/track/2qGcO4bhCvyEwTFRqls1cd) | [Hayato Sumino](https://open.spotify.com/artist/1jVpYW7JYxh4mWzrFVjipz) | [Human Universe](https://open.spotify.com/album/1lQFEZutkw8GBJACT06LM3) | 3:22 |
 | 6 | [Finding My Feet](https://open.spotify.com/track/6tkf9ntcrh48r2eVgL6PjW) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Finding My Feet](https://open.spotify.com/album/3jTwncTEAPBWTIE0NbvWDu) | 3:04 |
 | 7 | [aura](https://open.spotify.com/track/5GPmHwAHEhsHNYJonzl9lp) | [Lara Somogyi](https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo), [Jean\-Michel Blais](https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr) | [désert](https://open.spotify.com/album/0rdKdgO7a9a8u33CrOYEEI) | 3:32 |
-| 8 | [A Sense Of Place](https://open.spotify.com/track/1NOHpPlvaq8IFTNJrUM5pM) | [Sophie Hutchings](https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0) | [A Sense of Place](https://open.spotify.com/album/030MFeAMtyiGEMJMpKQQuv) | 3:15 |
-| 9 | [Richter: Written on the Sky](https://open.spotify.com/track/0n3CjysTL1Kcuu9BS0lN38) | [Dalal](https://open.spotify.com/artist/1ZNA8vzdCn3mKSUSPkCkRJ) | [Max Richter: Written on the Sky](https://open.spotify.com/album/3NTBDwC0a5CtotRCylwCFm) | 1:49 |
+| 8 | [Richter: Written on the Sky](https://open.spotify.com/track/0n3CjysTL1Kcuu9BS0lN38) | [Dalal](https://open.spotify.com/artist/1ZNA8vzdCn3mKSUSPkCkRJ) | [Max Richter: Written on the Sky](https://open.spotify.com/album/3NTBDwC0a5CtotRCylwCFm) | 1:49 |
+| 9 | [A Sense Of Place](https://open.spotify.com/track/1NOHpPlvaq8IFTNJrUM5pM) | [Sophie Hutchings](https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0) | [A Sense of Place](https://open.spotify.com/album/030MFeAMtyiGEMJMpKQQuv) | 3:15 |
 | 10 | [Music For Growing Flowers \- Pt\. 8](https://open.spotify.com/track/0fqveSCZR2TqGAtEid72Ua) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Music For Growing Flowers](https://open.spotify.com/album/7nlNFxFHuJxLHtfGM2mAkD) | 1:13 |
 | 11 | [Fragrant Olive](https://open.spotify.com/track/4dlvj037LmL4KXUTh1ODgJ) | [Shiori Sugaya](https://open.spotify.com/artist/2j9Dpexujg1dkE2q25iPPq) | [Fragrant Olive](https://open.spotify.com/album/4hqG4tT6fTZhiXOWwc0VIL) | 3:50 |
 | 12 | [Jay](https://open.spotify.com/track/24FZP1U7646LkL8F0i2Dvv) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [The Summer Portraits](https://open.spotify.com/album/1WHbPQWHCi2LD1EBqq5AMs) | 3:12 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ACGg8vzTNZ.md) - [plain]
 | 44 | [Wandering II](https://open.spotify.com/track/1XPUfZx0Nhl7Tl1AT2LKos) | [Eydís Evensen](https://open.spotify.com/artist/2SMBaAG61s9mtyJ0eeXSWx) | [Bylur](https://open.spotify.com/album/1qNi4PwUQTGAJxDFABvGw7) | 2:39 |
 | 45 | [the color of the sky \- sleep rework](https://open.spotify.com/track/2YfZhXTjnsNOXfSeVZdmqy) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [the color of the sky \(sleep rework\)](https://open.spotify.com/album/1Lv022YCTEYHI7B3lqLJ60) | 2:56 |
 
-Snapshot ID: `AAAAAHbWbATDRXV3iWJ+rZB+BgvrT0ig`
+Snapshot ID: `AAAAAHjsXUk9h9jf8OfajWgnjzreeQIK`

@@ -1,6 +1,6 @@
 {
   "description": "All your favourite holiday jazz classics for your christmas dinner party.",
-  "num_followers": 144453,
+  "num_followers": 144811,
   "original_name": "Jazzy Christmas Dinner",
   "owner": {
     "name": "Spotify",
@@ -359,18 +359,18 @@
     {
       "added_at": "2025-12-19 14:00:54",
       "album": {
-        "name": "Christmas Is Coming",
-        "url": "https://open.spotify.com/album/6wilsjE6jfGO0ggnBV5QUU"
+        "name": "Christmas Classics",
+        "url": "https://open.spotify.com/album/3f22Ap0VSZYWsqrGcphUnY"
       },
       "artists": [
         {
-          "name": "Isac Solo Trio",
-          "url": "https://open.spotify.com/artist/0PQJ8CW64ZpCQTXIWvpkUN"
+          "name": "Nat King Cole Trio",
+          "url": "https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ"
         }
       ],
-      "duration_ms": 184167,
-      "name": "Christmas Is Coming",
-      "url": "https://open.spotify.com/track/149nYuNSxKF3rPGpReOjtv"
+      "duration_ms": 151333,
+      "name": "All I Want For Christmas (Is My Two Front Teeth)",
+      "url": "https://open.spotify.com/track/4xXMJbzVQSCyprr4PG5sBj"
     },
     {
       "added_at": "2025-12-19 14:00:54",
@@ -391,22 +391,6 @@
     {
       "added_at": "2025-12-19 14:00:54",
       "album": {
-        "name": "Christmas Classics",
-        "url": "https://open.spotify.com/album/3f22Ap0VSZYWsqrGcphUnY"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole Trio",
-          "url": "https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ"
-        }
-      ],
-      "duration_ms": 151333,
-      "name": "All I Want For Christmas (Is My Two Front Teeth)",
-      "url": "https://open.spotify.com/track/4xXMJbzVQSCyprr4PG5sBj"
-    },
-    {
-      "added_at": "2025-12-19 14:00:54",
-      "album": {
         "name": "When Christmas Comes To Town",
         "url": "https://open.spotify.com/album/3qGQQNK6A22LBRUmiO74fO"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 209259,
       "name": "When Christmas Comes To Town",
       "url": "https://open.spotify.com/track/5Z3ieIAxQzR7pMx8p9QLfV"
+    },
+    {
+      "added_at": "2025-12-19 14:00:54",
+      "album": {
+        "name": "Christmas Is Coming",
+        "url": "https://open.spotify.com/album/6wilsjE6jfGO0ggnBV5QUU"
+      },
+      "artists": [
+        {
+          "name": "Isac Solo Trio",
+          "url": "https://open.spotify.com/artist/0PQJ8CW64ZpCQTXIWvpkUN"
+        }
+      ],
+      "duration_ms": 184167,
+      "name": "Christmas Is Coming",
+      "url": "https://open.spotify.com/track/149nYuNSxKF3rPGpReOjtv"
     },
     {
       "added_at": "2025-12-19 14:00:54",
@@ -759,22 +759,6 @@
     {
       "added_at": "2025-12-19 14:00:54",
       "album": {
-        "name": "O Holy Night",
-        "url": "https://open.spotify.com/album/47cnEsOj15N4yVqUg8xq2B"
-      },
-      "artists": [
-        {
-          "name": "Whitby Snell",
-          "url": "https://open.spotify.com/artist/3OTOWvIOtIuWDCLStPVCKi"
-        }
-      ],
-      "duration_ms": 257900,
-      "name": "O Holy Night",
-      "url": "https://open.spotify.com/track/7HuuaSBXERQWt396J4fxuC"
-    },
-    {
-      "added_at": "2025-12-19 14:00:54",
-      "album": {
         "name": "A Christmas Feeling",
         "url": "https://open.spotify.com/album/65h1sbXFjZCaVuTQMfkZeF"
       },
@@ -791,18 +775,18 @@
     {
       "added_at": "2025-12-19 14:00:54",
       "album": {
-        "name": "The First Noel",
-        "url": "https://open.spotify.com/album/0UykYUfd6JfL0WXXqbKGiX"
+        "name": "O Holy Night",
+        "url": "https://open.spotify.com/album/47cnEsOj15N4yVqUg8xq2B"
       },
       "artists": [
         {
-          "name": "Flatland Park",
-          "url": "https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd"
+          "name": "Whitby Snell",
+          "url": "https://open.spotify.com/artist/3OTOWvIOtIuWDCLStPVCKi"
         }
       ],
-      "duration_ms": 90964,
-      "name": "The Holly and the Ivy",
-      "url": "https://open.spotify.com/track/6kp3aicXY4wM8GtKjhT7jk"
+      "duration_ms": 257900,
+      "name": "O Holy Night",
+      "url": "https://open.spotify.com/track/7HuuaSBXERQWt396J4fxuC"
     },
     {
       "added_at": "2025-12-19 14:00:54",
@@ -827,6 +811,22 @@
     {
       "added_at": "2025-12-19 14:00:54",
       "album": {
+        "name": "The First Noel",
+        "url": "https://open.spotify.com/album/0UykYUfd6JfL0WXXqbKGiX"
+      },
+      "artists": [
+        {
+          "name": "Flatland Park",
+          "url": "https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd"
+        }
+      ],
+      "duration_ms": 90964,
+      "name": "The Holly and the Ivy",
+      "url": "https://open.spotify.com/track/6kp3aicXY4wM8GtKjhT7jk"
+    },
+    {
+      "added_at": "2025-12-19 14:00:54",
+      "album": {
         "name": "Warm In December (Edit)",
         "url": "https://open.spotify.com/album/5RYN71suwnCCydI7oVfVYM"
       },
@@ -839,22 +839,6 @@
       "duration_ms": 161210,
       "name": "Warm In December - Edit",
       "url": "https://open.spotify.com/track/4iZUPqpbdr4cI8OOzlKKqR"
-    },
-    {
-      "added_at": "2025-12-19 14:00:54",
-      "album": {
-        "name": "This Night",
-        "url": "https://open.spotify.com/album/4nSqqilp2xNmXQzmanAqpH"
-      },
-      "artists": [
-        {
-          "name": "Bruce Willmington & Co",
-          "url": "https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y"
-        }
-      ],
-      "duration_ms": 179813,
-      "name": "This Night",
-      "url": "https://open.spotify.com/track/3Afjdam5d5Fm0aPON2jZ6g"
     },
     {
       "added_at": "2025-12-19 14:00:54",
@@ -887,6 +871,22 @@
       "duration_ms": 234486,
       "name": "Merry Christmas, Darling",
       "url": "https://open.spotify.com/track/2vKFpLFbcnOXNpWGvQibqE"
+    },
+    {
+      "added_at": "2025-12-19 14:00:54",
+      "album": {
+        "name": "This Night",
+        "url": "https://open.spotify.com/album/4nSqqilp2xNmXQzmanAqpH"
+      },
+      "artists": [
+        {
+          "name": "Bruce Willmington & Co",
+          "url": "https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y"
+        }
+      ],
+      "duration_ms": 179813,
+      "name": "This Night",
+      "url": "https://open.spotify.com/track/3Afjdam5d5Fm0aPON2jZ6g"
     },
     {
       "added_at": "2025-12-19 14:00:54",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2025-12-19 14:00:54",
       "album": {
-        "name": "Suzy Snowflake",
-        "url": "https://open.spotify.com/album/7xvbVPATdE2HbNWaSKmwki"
-      },
-      "artists": [
-        {
-          "name": "Prism Trio",
-          "url": "https://open.spotify.com/artist/6oDehRFhqt0eSSSIKD4XgE"
-        }
-      ],
-      "duration_ms": 168640,
-      "name": "Suzy Snowflake",
-      "url": "https://open.spotify.com/track/6pu1VBzYfldEBx09o5wEZt"
-    },
-    {
-      "added_at": "2025-12-19 14:00:54",
-      "album": {
         "name": "Silver Bells",
         "url": "https://open.spotify.com/album/5hTWeCX4XFKNB34Ch6W6oq"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 201431,
       "name": "Give love on christmas day",
       "url": "https://open.spotify.com/track/0dSzcKjA1PWamU3iokaKBc"
+    },
+    {
+      "added_at": "2025-12-19 14:00:54",
+      "album": {
+        "name": "Suzy Snowflake",
+        "url": "https://open.spotify.com/album/7xvbVPATdE2HbNWaSKmwki"
+      },
+      "artists": [
+        {
+          "name": "Prism Trio",
+          "url": "https://open.spotify.com/artist/6oDehRFhqt0eSSSIKD4XgE"
+        }
+      ],
+      "duration_ms": 168640,
+      "name": "Suzy Snowflake",
+      "url": "https://open.spotify.com/track/6pu1VBzYfldEBx09o5wEZt"
     },
     {
       "added_at": "2025-12-19 14:00:54",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2025-12-19 14:00:54",
       "album": {
-        "name": "The Man With The Bag",
-        "url": "https://open.spotify.com/album/21Xq5vgILkNpVZiGKjBgdd"
+        "name": "I Wish It Would Snow",
+        "url": "https://open.spotify.com/album/6l7uq39brjSI3uEacWRkDP"
       },
       "artists": [
         {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+          "name": "Dave Barnes",
+          "url": "https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq"
         }
       ],
-      "duration_ms": 123241,
-      "name": "The Man With The Bag",
-      "url": "https://open.spotify.com/track/2R60AwEI6yNX8iJ0EEfKPD"
+      "duration_ms": 165596,
+      "name": "I Wish It Would Snow",
+      "url": "https://open.spotify.com/track/78pwKtHN83mApILvMcp2ZL"
     },
     {
       "added_at": "2025-12-19 14:00:54",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2025-12-19 14:00:54",
       "album": {
-        "name": "I Wish It Would Snow",
-        "url": "https://open.spotify.com/album/6l7uq39brjSI3uEacWRkDP"
+        "name": "The Man With The Bag",
+        "url": "https://open.spotify.com/album/21Xq5vgILkNpVZiGKjBgdd"
       },
       "artists": [
         {
-          "name": "Dave Barnes",
-          "url": "https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq"
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
         }
       ],
-      "duration_ms": 165596,
-      "name": "I Wish It Would Snow",
-      "url": "https://open.spotify.com/track/78pwKtHN83mApILvMcp2ZL"
+      "duration_ms": 123241,
+      "name": "The Man With The Bag",
+      "url": "https://open.spotify.com/track/2R60AwEI6yNX8iJ0EEfKPD"
     },
     {
       "added_at": "2025-12-19 14:00:54",
@@ -1355,6 +1355,26 @@
     {
       "added_at": "2025-12-19 14:00:54",
       "album": {
+        "name": "All That Glitters",
+        "url": "https://open.spotify.com/album/5WEhtvqTyHk5GGTToRQYzm"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        },
+        {
+          "name": "Mark Limacher",
+          "url": "https://open.spotify.com/artist/2FyolspKay4voViiywFNFs"
+        }
+      ],
+      "duration_ms": 199006,
+      "name": "All That Glitters",
+      "url": "https://open.spotify.com/track/7K9H3ZyzAxl7cffJjyt4da"
+    },
+    {
+      "added_at": "2025-12-19 14:00:54",
+      "album": {
         "name": "Selections From Irving Berlin's White Christmas",
         "url": "https://open.spotify.com/album/5rG6Ih8hHqJ6MX6ml5QiOl"
       },
@@ -1383,26 +1403,6 @@
     {
       "added_at": "2025-12-19 14:00:54",
       "album": {
-        "name": "All That Glitters",
-        "url": "https://open.spotify.com/album/5WEhtvqTyHk5GGTToRQYzm"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        },
-        {
-          "name": "Mark Limacher",
-          "url": "https://open.spotify.com/artist/2FyolspKay4voViiywFNFs"
-        }
-      ],
-      "duration_ms": 199006,
-      "name": "All That Glitters",
-      "url": "https://open.spotify.com/track/7K9H3ZyzAxl7cffJjyt4da"
-    },
-    {
-      "added_at": "2025-12-19 14:00:54",
-      "album": {
         "name": "Rudolph, the Red-Nosed Reindeer",
         "url": "https://open.spotify.com/album/6lal9JhZK4ctetNcVb4OJK"
       },
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2025-12-19 14:00:54",
       "album": {
-        "name": "Sound Of Christmas",
-        "url": "https://open.spotify.com/album/0YjxIUhLMpx8AitREvQxKl"
-      },
-      "artists": [
-        {
-          "name": "Ramsey Lewis Trio",
-          "url": "https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu"
-        }
-      ],
-      "duration_ms": 167506,
-      "name": "Christmas Blues",
-      "url": "https://open.spotify.com/track/0KyArXxWFOxjKQOxl0P97i"
-    },
-    {
-      "added_at": "2025-12-19 14:00:54",
-      "album": {
         "name": "Jingle Bells",
         "url": "https://open.spotify.com/album/5QiRNuqANTMFeKdznWLy7o"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 88172,
       "name": "Joy to the World",
       "url": "https://open.spotify.com/track/5xKtM3Y9NrT5VeoVxrAerk"
+    },
+    {
+      "added_at": "2025-12-19 14:00:54",
+      "album": {
+        "name": "Sound Of Christmas",
+        "url": "https://open.spotify.com/album/0YjxIUhLMpx8AitREvQxKl"
+      },
+      "artists": [
+        {
+          "name": "Ramsey Lewis Trio",
+          "url": "https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu"
+        }
+      ],
+      "duration_ms": 167506,
+      "name": "Christmas Blues",
+      "url": "https://open.spotify.com/track/0KyArXxWFOxjKQOxl0P97i"
     },
     {
       "added_at": "2025-12-19 14:00:54",

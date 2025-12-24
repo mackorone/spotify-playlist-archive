@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Gwi28HhdBP.md) - [plain]
 
 > أفضل الأغاني الشعبية من قلب مصر! غلاف: <a href="https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6?si=gD4aiSLdQxONDTYraTL03A">  محمود الليثي </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,634 likes - 49 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,665 likes - 49 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Gwi28HhdBP.md) - [plain]
 | 23 | [هنخربها](https://open.spotify.com/track/46b56o9gUwcgJRXBhIDNTK) | [Amina](https://open.spotify.com/artist/5oqJdJiiqwYKUk1U4kFB2w), [Abdelbaset Hamouda](https://open.spotify.com/artist/214and19aAubWpZFKo7bnv) | [هنخربها](https://open.spotify.com/album/4FrsIKy8Zo8uXTc91brfIb) | 5:16 |
 | 24 | [عادي كدا](https://open.spotify.com/track/3XjDRQCANRntDksdx3XrBC) | [محمود الليثي](https://open.spotify.com/artist/1CyoJn6TksGDWpjjfxD4rs) | [عادي كدا](https://open.spotify.com/album/7mXRoWNIzfEUEsXagdUQsb) | 2:26 |
 | 25 | [Bengeeb El Ersh](https://open.spotify.com/track/62D5s9IRc8VfL0ETMcU8HY) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52), [Hatim Ammor](https://open.spotify.com/artist/32CwjdHMHSpEkC3UAyIwPp) | [Bengeeb El Ersh](https://open.spotify.com/album/3oZJnznFcqpbuwHqsAyKri) | 3:18 |
-| 26 | [روقان](https://open.spotify.com/track/6bltDO0jvqd9OQqhtR4Hjf) | [Houda](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [روقان](https://open.spotify.com/album/4A2j98zoNqWWBTUp9sygjs) | 2:42 |
+| 26 | [روقان](https://open.spotify.com/track/6bltDO0jvqd9OQqhtR4Hjf) | [Houda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [روقان](https://open.spotify.com/album/4A2j98zoNqWWBTUp9sygjs) | 2:42 |
 | 27 | [دوارة](https://open.spotify.com/track/5OXhTWBpG2CKbPjORQXmCf) | [Abd El Basset Hamouda](https://open.spotify.com/artist/6uxT2qSLGzGkm3frsoMPuw) | [دوارة](https://open.spotify.com/album/0Gnt7VNxg6SGCpeGlbPSvP) | 3:17 |
 | 28 | [Aal Doghrey](https://open.spotify.com/track/0rGCXktltsDt5jmcFwjFm4) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [Aal Doghrey](https://open.spotify.com/album/7zhW3zAi1lfGgNmSk9GiCY) | 4:43 |
 | 29 | [Rozma](https://open.spotify.com/track/6Xwcz7MnRx2ULy94FEaPXK) | [Kozbara](https://open.spotify.com/artist/0EKrH3Q5caLq96nRdcYBkG), [Nourine](https://open.spotify.com/artist/4iArKSuVFF3i9FfnDBPM3K) | [Rozma](https://open.spotify.com/album/5zbqTtpHlYIahxnvZFqJAf) | 2:48 |

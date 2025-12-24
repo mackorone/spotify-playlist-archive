@@ -4,7 +4,7 @@
 
 > Classical music to help children and young minds focus.
 
-103 songs - 7 hr 11 min
+104 songs - 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Le nozze di Figaro, K\. 492: Overture](https://open.spotify.com/track/4LOYVBlRSjda6mxoLiqAoG) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Glyndebourne Festival Orchestra](https://open.spotify.com/artist/3CjBTAy0bJixmHuuK7QxHw), [Vittorio Gui](https://open.spotify.com/artist/2BYljht61tijA9gCf1Bour) | [The Marriage of Figaro](https://open.spotify.com/album/6QXWz39QkbXAwLV0ybJ0lL) | 4:04 | 2024-09-12 |  |
 | [Limu, limu, lima \(Arr\. Schindler for Piano\)](https://open.spotify.com/track/1I2SqiCMYzNpf3iz2cGbgm) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Piano Book \(Encore Edition\)](https://open.spotify.com/album/2lAoaPfFfBkOQPTcLBZ6pI) | 5:35 | 2024-09-12 |  |
 | [Lisa Lân \(Arr\. Huws for Harp\)](https://open.spotify.com/track/53DrPPynaJwQyz4EZiI4aM) | [Alis Huws](https://open.spotify.com/artist/2j7K232K5qH6xEr8OsmK1S) | [Lisa Lân \(Arr\. Huws for Harp\)](https://open.spotify.com/album/1k8SsRwgXOxrH4W45eDpv9) | 2:02 | 2025-08-06 |  |
+| [Liszt: 12 Lieder von Franz Schubert, S\. 558: No\. 7, Frühlingsglaube](https://open.spotify.com/track/2R72B7gT4Xd43hMg6L2OrZ) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Aimi Kobayashi](https://open.spotify.com/artist/41YFPXmww0HCdIBjJj0uPs) | [Schubert: Sonata in C Minor, D\. 958, 4 Impromptus, D\. 935 & Rondo, D\. 951](https://open.spotify.com/album/4aXv606D4yGVp48EP0NYEj) | 3:53 | 2025-12-23 |  |
 | [Liszt: Liebesträume, S\. 541: No\. 3 in A\-Flat Major, Oh Lieb, so lang du lieben kannst](https://open.spotify.com/track/1lsoLwWEBShib552HKgr2y) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Mariam Batsashvili](https://open.spotify.com/artist/5EfRmAMpdmiA8NDoBxGYci) | [Liszt: Liebestraum](https://open.spotify.com/album/4YTRRG8LEJs7jYIFK8RC3e) | 4:32 | 2025-08-06 |  |
 | [Luminous](https://open.spotify.com/track/0UOMGdqvwCRGoEhXEJp78U) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Underwater](https://open.spotify.com/album/3DT821mYJb7Ore88vA8IOO) | 4:43 | 2024-09-12 |  |
 | [Lyric Pieces Book V, Op.54: 3\. March Of The Trolls](https://open.spotify.com/track/2saTi2z9q1cxRx1HgUnUje) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Alice Sara Ott](https://open.spotify.com/artist/0d6alfZHUx3xoRnPjkTL7Q) | [Wonderland \- Edvard Grieg: Piano Concerto, Lyric Pieces](https://open.spotify.com/album/2HmIxrr7jXKF9cQf2OE84u) | 2:56 | 2024-09-12 |  |

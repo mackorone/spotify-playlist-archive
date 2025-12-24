@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 252 likes - 3,794 songs - 8 day 9 hr 2 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 254 likes - 3,803 songs - 8 day 9 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -541,7 +541,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 531 | [Party Freaky and Going Down](https://open.spotify.com/track/6vUFaNR1e1vdFapvgwSQoO) | [Stranger X](https://open.spotify.com/artist/234NoLDVRk3ZHzuerwiU8B) | [Party Freaky and Going Down](https://open.spotify.com/album/0GVDvtdz5iFmAVKcu4gsgd) | 2:44 |
 | 532 | [Somehow i manage](https://open.spotify.com/track/5XQLf0iWXFXpmR4N3ULyOJ) | [Parkii](https://open.spotify.com/artist/04hMX1QdxT1JAJ5La6BF0i) | [Somehow i manage](https://open.spotify.com/album/4REBIog42thZXKfZPSLZ7n) | 4:04 |
 | 533 | [Nada](https://open.spotify.com/track/4lNqyhOCGxRjj9JsAGOkxg) | [Daño Colateral](https://open.spotify.com/artist/2kS7t6PZhLX5JzG0RhuKuU) | [Cada Parte De Mí Gritó](https://open.spotify.com/album/4DNObayxK7Z5mVLqfdv9oM) | 4:26 |
-| 534 | [No Finjas Mas!](https://open.spotify.com/track/24q006lb6OxEseJYUVnkUG) | [DESVASTARDOS](https://open.spotify.com/artist/42yvmSe4biIZio90cwI2EN) | [No Finjas Mas!](https://open.spotify.com/album/2UZeOnxW16XcOFVF9pAZLh) | 2:52 |
+| 534 | [No Finjas Mas!](https://open.spotify.com/track/24q006lb6OxEseJYUVnkUG) | [DEVASTARDOS](https://open.spotify.com/artist/5xrbuyyFl1OQe40gtLqWpw) | [No Finjas Mas!](https://open.spotify.com/album/2UZeOnxW16XcOFVF9pAZLh) | 2:52 |
 | 535 | [Nikey](https://open.spotify.com/track/3HY4PJXfqVUuazDMdUfmGc) | [Ash](https://open.spotify.com/artist/1oNJRkVDb7UEvRpPp4rNff) | [Nikey](https://open.spotify.com/album/17REJyp3KXhgb4RQ1m1UCd) | 1:48 |
 | 536 | [mosquito's wing](https://open.spotify.com/track/3V5DsjUPjon53mu0iF4GaH) | [noha ichou](https://open.spotify.com/artist/3o4qmobDaKgjEEBUI8VkLc) | [AREA 52](https://open.spotify.com/album/4V7eSqNpIdrZV0FZTL4fht) | 5:26 |
 | 537 | [Pliz non la skippare](https://open.spotify.com/track/1Oj3hSFsRVMVSPrMqWKrGa) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [Pliz non la skippare](https://open.spotify.com/album/35Hx1zfxo8WY4t5LiBjXPl) | 3:45 |
@@ -631,7 +631,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 621 | [Life is not Fair](https://open.spotify.com/track/5tLbWK2BOXL6LWASpOTjqB) | [J3mob](https://open.spotify.com/artist/0P2ZL7GBqnec5yxbZDBULK) | [Throwing Paint at the Wall](https://open.spotify.com/album/229Dep2dkn7qmhde1naalV) | 3:02 |
 | 622 | [Вдыхая](https://open.spotify.com/track/5wCJdxThWor3Zt8JP7jEOf) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Вдыхая](https://open.spotify.com/album/135EW2AzzOC1uUHc7AXasA) | 3:03 |
 | 623 | [Ginger Red \(Oh, So Bad\)](https://open.spotify.com/track/19t6cnKhQsDLuZzyeRKcaU) | [Blackened Rose](https://open.spotify.com/artist/0LGlGxDSHcyyLK0xOWfSVL) | [Ginger Red \(Oh, So Bad\)](https://open.spotify.com/album/0GBfTTT1ml0FrVMaAi1AzF) | 3:39 |
-| 624 | [Semblant \- Radio Edit](https://open.spotify.com/track/1dZ9rvr6Xo8oGklLUDNkF6) | [ToloV](https://open.spotify.com/artist/4t3awapuIDzb4fGOMWR35Q) | [Semblant \(Radio Edit\)](https://open.spotify.com/album/2FQnn24gpCcrbvK4JwNdh7) | 3:07 |
+| 624 | [Semblant](https://open.spotify.com/track/1dZ9rvr6Xo8oGklLUDNkF6) | [ToloV](https://open.spotify.com/artist/4t3awapuIDzb4fGOMWR35Q) | [Semblant](https://open.spotify.com/album/2FQnn24gpCcrbvK4JwNdh7) | 3:07 |
 | 625 | [Erlkoenig](https://open.spotify.com/track/5o6D0lVsCnvAULsm4T4SnL) | [Gilgulim](https://open.spotify.com/artist/3qknrzxuZcqDS2TZksVWLj) | [Soulslike](https://open.spotify.com/album/1hU2zINgJZfvnSTo65Yb9T) | 2:28 |
 | 626 | [nostalgia](https://open.spotify.com/track/5T2nMWyQbEuN7EhyDiT01N) | [bryblawg](https://open.spotify.com/artist/0d3u7gFWM08yvGYfU1jFqC) | [nostalgia](https://open.spotify.com/album/48U7OAPJIY8OdKT6S3qUG2) | 2:22 |
 | 627 | [El dueño del Party](https://open.spotify.com/track/7s61ul8DcvoIdBfuVT2iUB) | [The Samu](https://open.spotify.com/artist/1hyzQSk08cK1aPlEKx5dOP), [DIMEALED](https://open.spotify.com/artist/2jOM8zblBweYrQA5gzL8fO) | [El dueño del Party](https://open.spotify.com/album/0ERbiyRGE581F7mTZVwb2D) | 1:58 |
@@ -3802,5 +3802,14 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 3792 | [Shadows of the night](https://open.spotify.com/track/30dDQL8uqJ9qPMvSdpNPUG) | [ilhan akkaya](https://open.spotify.com/artist/3lDziN7Y01piAmOPaFAyaV) | [I am not the one](https://open.spotify.com/album/1efRhOWb4EEXb5EW5qy6sk) | 4:00 |
 | 3793 | [Jesus Was A Victim Too](https://open.spotify.com/track/7hNZp4yRPRXWAyuIansvT3) | [FILIBUSTER](https://open.spotify.com/artist/67XEaD84geoRWd6v4kno3L) | [Jesus Was A Victim Too](https://open.spotify.com/album/4CrBkejU1zb8AjuXSA8b0q) | 3:44 |
 | 3794 | [cosmos&ginyus](https://open.spotify.com/episode/4YFQmGZVT9J3vGFl0f0Nwd) | [the land of sound](https://open.spotify.com/show/6i8Hun1WdTQO8PXQXkBusT) | [the land of sound](https://open.spotify.com/album/6i8Hun1WdTQO8PXQXkBusT) | 4:03 |
+| 3795 | [Czerwiec](https://open.spotify.com/track/371Bud7vCUKSWfKnOo3c25) | [E.SENS](https://open.spotify.com/artist/1BUQj1EELFrrdvYU0anLdQ) | [Czerwiec](https://open.spotify.com/album/6d01sG2vbnyE04774uzKY1) | 6:02 |
+| 3796 | [Keep Trying](https://open.spotify.com/track/4BfznS05suAGg6UwGqIcb6) | [Amortem](https://open.spotify.com/artist/2DnesP0vlm2v43MGARajda) | [Keep Trying](https://open.spotify.com/album/2rN4oEf6ZE7mKrIQKN8xZn) | 3:11 |
+| 3797 | [Adrenalina](https://open.spotify.com/track/7hv5ailZtPpueev6NDhWpu) | [Lenoise](https://open.spotify.com/artist/1zbtdItCDLhQLlyL3ASTZG) | [Claroscuro](https://open.spotify.com/album/3w4KZQa7mGwhjPhuFAWR8P) | 3:40 |
+| 3798 | [Señal](https://open.spotify.com/track/0YHztkvQIx2OJWRtuX6i9d) | [Lenoise](https://open.spotify.com/artist/1zbtdItCDLhQLlyL3ASTZG) | [Claroscuro](https://open.spotify.com/album/3w4KZQa7mGwhjPhuFAWR8P) | 4:42 |
+| 3799 | [El Horizonte](https://open.spotify.com/track/2hTe3pHEc049pp3nxGZEFC) | [Lenoise](https://open.spotify.com/artist/1zbtdItCDLhQLlyL3ASTZG) | [Claroscuro](https://open.spotify.com/album/3w4KZQa7mGwhjPhuFAWR8P) | 3:58 |
+| 3800 | [Divagar](https://open.spotify.com/track/2JFjeakLGQSZZ1OdOY4WqI) | [Lenoise](https://open.spotify.com/artist/1zbtdItCDLhQLlyL3ASTZG) | [Claroscuro](https://open.spotify.com/album/3w4KZQa7mGwhjPhuFAWR8P) | 3:33 |
+| 3801 | [Desvelo](https://open.spotify.com/track/6rNtTePkYs4dwUmQSLpLFG) | [Lenoise](https://open.spotify.com/artist/1zbtdItCDLhQLlyL3ASTZG) | [Claroscuro](https://open.spotify.com/album/3w4KZQa7mGwhjPhuFAWR8P) | 3:54 |
+| 3802 | [Llegar a Vos](https://open.spotify.com/track/5ccNIobrt6giwhj7wL7emP) | [Lenoise](https://open.spotify.com/artist/1zbtdItCDLhQLlyL3ASTZG) | [Claroscuro](https://open.spotify.com/album/3w4KZQa7mGwhjPhuFAWR8P) | 4:33 |
+| 3803 | [Adentro](https://open.spotify.com/track/1DKjmq35d4zhgunXi5ZJLk) | [Lenoise](https://open.spotify.com/artist/1zbtdItCDLhQLlyL3ASTZG) | [Supernova](https://open.spotify.com/album/1cEtLyqdkRlTsxn3ldfGot) | 4:23 |
 
-Snapshot ID: `AAAGXkpFGRz5oFjofw6GjUXQUh0U620u`
+Snapshot ID: `AAAGZzgUYxf9ZyV/jG93gAKDby9R9bW3`

@@ -2,7 +2,7 @@
 
 ### [Hits Français 90](https://open.spotify.com/playlist/37i9dQZF1DWXLbJb1PtkXq)
 
-> Les plus grands hits français des années 90\. Photo: Tryo
+> Les plus grands hits français des années 90\. Photo: Céline Dion
 
 68 songs - 4 hr 50 min
 

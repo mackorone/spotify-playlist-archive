@@ -5949,6 +5949,24 @@
     },
     {
       "album": {
+        "name": "From Silence",
+        "url": "https://open.spotify.com/album/2CDYX4tiLfjRyOyWr9kDf9"
+      },
+      "artists": [
+        {
+          "name": "Eternalistic",
+          "url": "https://open.spotify.com/artist/77efGNIP8xtX0iCb5RCHCG"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196515,
+      "name": "From Silence",
+      "url": "https://open.spotify.com/track/070f8tFA2bAPMDI4KBr6yO"
+    },
+    {
+      "album": {
         "name": "From Within",
         "url": "https://open.spotify.com/album/0BK1COg9s24yNZTYqFKGtN"
       },
@@ -7418,7 +7436,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-24",
       "duration_ms": 159314,
       "name": "Introspection",
       "url": "https://open.spotify.com/track/4wtpJ0oLbPI5WAwXd7eZxD"
@@ -7742,7 +7760,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-24",
       "duration_ms": 148301,
       "name": "Latitude",
       "url": "https://open.spotify.com/track/7IJdncR0sFTfunKdmQqTlt"
@@ -8376,6 +8394,24 @@
       "duration_ms": 165374,
       "name": "Luminescence",
       "url": "https://open.spotify.com/track/0Ofhh3ygRt5Zxj6OOYXiGx"
+    },
+    {
+      "album": {
+        "name": "Luminous Fade",
+        "url": "https://open.spotify.com/album/2tjzy1zRLqplUrG6kSdLZ6"
+      },
+      "artists": [
+        {
+          "name": "Nicolaj Stavrenko",
+          "url": "https://open.spotify.com/artist/30C9fRGfoh7b2dg9g7coHv"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159843,
+      "name": "Luminous Fade",
+      "url": "https://open.spotify.com/track/2vBitzz07lHuwMqECshe7n"
     },
     {
       "album": {

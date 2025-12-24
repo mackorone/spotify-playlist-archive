@@ -2505,6 +2505,40 @@
     },
     {
       "album": {
+        "name": "Suite 785",
+        "url": "https://open.spotify.com/album/7iJunXjuZCewVj5QAqpogj"
+      },
+      "artists": [
+        {
+          "name": "Enrico Pieranunzi",
+          "url": "https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP"
+        },
+        {
+          "name": "Orchestra I Pomeriggi Musicali",
+          "url": "https://open.spotify.com/artist/1wGjC4Xvg2EmZw4dflehZg"
+        },
+        {
+          "name": "Michele Corcella",
+          "url": "https://open.spotify.com/artist/13KXjiDcalmq7zlHXllykh"
+        },
+        {
+          "name": "Mauro Beggio",
+          "url": "https://open.spotify.com/artist/5I93kCeawmVQ8xxfrWf2y3"
+        },
+        {
+          "name": "Luca Bulgarelli",
+          "url": "https://open.spotify.com/artist/6RByhwx03rvh0w4y0J4Hbo"
+        }
+      ],
+      "date_added": "2025-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313520,
+      "name": "Suite 785",
+      "url": "https://open.spotify.com/track/3MHKb3kAEfY4m9KoxFfuNY"
+    },
+    {
+      "album": {
         "name": "Giancarlo Aquilanti: Oltreoceano",
         "url": "https://open.spotify.com/album/4NcJ1nxhGInBulPXv6T1ng"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Naira Marley, Ruger, Nektunez, Skales and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,742 likes - 46 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,827 likes - 47 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,14 +45,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 35 | [Amsterdam](https://open.spotify.com/track/4CDY1Lx0Pn4rEyG0srJ8a5) | [Nsikak David](https://open.spotify.com/artist/68rNpsuXK5ie82VFFuJZJy) | [Amsterdam](https://open.spotify.com/album/57vji5ZAPiH5nYzBFnXBZw) | 2:48 |
 | 36 | [Loe](https://open.spotify.com/track/1MAj41iZtnMRrKI17xWcpR) | [Mutul](https://open.spotify.com/artist/6cxCP62KLOXo16w4drNYcr), [Stevo Atambire](https://open.spotify.com/artist/6gbEfMzGr0anNu4sKlXZye) | [Loe](https://open.spotify.com/album/099P8xrnXbXZJb8BjD96fX) | 5:51 |
 | 37 | [Chilling Cooling](https://open.spotify.com/track/4vxi8HloFeoI6NXLrHO7X4) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [King Jerry](https://open.spotify.com/artist/3tlf7tzNgQEDeIyYYnB1Ft) | [Chilling Cooling](https://open.spotify.com/album/16Iv5G914fEFP0q3mFNQPs) | 2:37 |
-| 38 | [New Beginnings](https://open.spotify.com/track/5Dr9jDP04xqkgHLXBxBuea) | [Ayisi](https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU) | [Evergreen 2.0.](https://open.spotify.com/album/6uCdKxzbxiu1kqq8T7JLAn) | 3:16 |
-| 39 | [Body](https://open.spotify.com/track/0Rn6OW4g19RugGRXRVXuR5) | [Juma Mufasa](https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs), [Yartti](https://open.spotify.com/artist/0LIv7IHdHv0BDOmwSJvHa1) | [The Sandwich Tape, Vol\. 2](https://open.spotify.com/album/4I8UlZovSsjOrWRgZrJl7X) | 2:07 |
-| 40 | [Bra Jojo](https://open.spotify.com/track/49dx0oS91DoLz9T5OdN5Tn) | [Tinny](https://open.spotify.com/artist/0NYLVN4PyUYvQkADsUEpx7) | [Bra Jojo](https://open.spotify.com/album/7pnMwpeSqqYoOm6eo3rmHx) | 3:26 |
-| 41 | [Piment](https://open.spotify.com/track/0uJ0v5aeLYpgBrYIClyHVV) | [døpelym](https://open.spotify.com/artist/6CIALFc80ExDhcy2xI6eJs), [Waïv](https://open.spotify.com/artist/7tauqq4m9yTjOSAed9kHux) | [FREELYM](https://open.spotify.com/album/7hcmFVB5Pclui5v2kXDePS) | 2:08 |
-| 42 | [Gobe](https://open.spotify.com/track/3FOkzNjrTsMePdCdqoxytk) | [Nyarko](https://open.spotify.com/artist/72s7X3AeRHBhWdziRzAZFM), [Toluwa](https://open.spotify.com/artist/4xtmLIFUpUopqHWjhECWUM) | [Gobe](https://open.spotify.com/album/0cjsk6TPjHPGeoJTWxAywU) | 2:54 |
-| 43 | [Normal Life](https://open.spotify.com/track/4o0D4FI3YLBzXJPmoQ3IKp) | [BADYOUTH](https://open.spotify.com/artist/3mvEuWMi3i5tjJbwQ94dzf) | [4am In The Lungu](https://open.spotify.com/album/4VKZpyQuQhSy6Uo6YETpFU) | 2:45 |
-| 44 | [Kismet](https://open.spotify.com/track/595inVQfTootBrvfmuSVYB) | [Malkia Ukweli & the Panopticon](https://open.spotify.com/artist/5ZgBJTjuyrAvwyybBt1Eww), [CCQ](https://open.spotify.com/artist/0w7umppOpG2wrudSoPPdAw) | [The Book of Daniel 2:47](https://open.spotify.com/album/6WInT4ZL1NGJWaM7UxM0uC) | 4:33 |
-| 45 | [la patadita](https://open.spotify.com/track/2B4kxkpv5OuB5b23XlZYTt) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [la patadita](https://open.spotify.com/album/1slq3KdsBvsqhea1hH1m5u) | 2:28 |
-| 46 | [Ngoma](https://open.spotify.com/track/4lGwt0hWscySo3piK973OI) | [Lebza TheVillain](https://open.spotify.com/artist/0IBbki2AxG9X2cjaqrSGP3) | [Ngoma](https://open.spotify.com/album/7kYAq9N7FIVTyS3b61r18b) | 5:40 |
+| 38 | [Ewor Me](https://open.spotify.com/track/5p75fB1FGdKh5sGNK3mizP) | [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT), [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr) | [Ewor Me](https://open.spotify.com/album/0cs9qu2xK9kNeEHICV29Ey) | 3:40 |
+| 39 | [New Beginnings](https://open.spotify.com/track/5Dr9jDP04xqkgHLXBxBuea) | [Ayisi](https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU) | [Evergreen 2.0.](https://open.spotify.com/album/6uCdKxzbxiu1kqq8T7JLAn) | 3:16 |
+| 40 | [Body](https://open.spotify.com/track/0Rn6OW4g19RugGRXRVXuR5) | [Juma Mufasa](https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs), [Yartti](https://open.spotify.com/artist/0LIv7IHdHv0BDOmwSJvHa1) | [The Sandwich Tape, Vol\. 2](https://open.spotify.com/album/4I8UlZovSsjOrWRgZrJl7X) | 2:07 |
+| 41 | [Bra Jojo](https://open.spotify.com/track/49dx0oS91DoLz9T5OdN5Tn) | [Tinny](https://open.spotify.com/artist/0NYLVN4PyUYvQkADsUEpx7) | [Bra Jojo](https://open.spotify.com/album/7pnMwpeSqqYoOm6eo3rmHx) | 3:26 |
+| 42 | [Piment](https://open.spotify.com/track/0uJ0v5aeLYpgBrYIClyHVV) | [døpelym](https://open.spotify.com/artist/6CIALFc80ExDhcy2xI6eJs), [Waïv](https://open.spotify.com/artist/7tauqq4m9yTjOSAed9kHux) | [FREELYM](https://open.spotify.com/album/7hcmFVB5Pclui5v2kXDePS) | 2:08 |
+| 43 | [Gobe](https://open.spotify.com/track/3FOkzNjrTsMePdCdqoxytk) | [Nyarko](https://open.spotify.com/artist/72s7X3AeRHBhWdziRzAZFM), [Toluwa](https://open.spotify.com/artist/4xtmLIFUpUopqHWjhECWUM) | [Gobe](https://open.spotify.com/album/0cjsk6TPjHPGeoJTWxAywU) | 2:54 |
+| 44 | [Normal Life](https://open.spotify.com/track/4o0D4FI3YLBzXJPmoQ3IKp) | [BADYOUTH](https://open.spotify.com/artist/3mvEuWMi3i5tjJbwQ94dzf) | [4am In The Lungu](https://open.spotify.com/album/4VKZpyQuQhSy6Uo6YETpFU) | 2:45 |
+| 45 | [Kismet](https://open.spotify.com/track/595inVQfTootBrvfmuSVYB) | [Malkia Ukweli & the Panopticon](https://open.spotify.com/artist/5ZgBJTjuyrAvwyybBt1Eww), [CCQ](https://open.spotify.com/artist/0w7umppOpG2wrudSoPPdAw) | [The Book of Daniel 2:47](https://open.spotify.com/album/6WInT4ZL1NGJWaM7UxM0uC) | 4:33 |
+| 46 | [la patadita](https://open.spotify.com/track/2B4kxkpv5OuB5b23XlZYTt) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [la patadita](https://open.spotify.com/album/1slq3KdsBvsqhea1hH1m5u) | 2:28 |
+| 47 | [Ngoma](https://open.spotify.com/track/4lGwt0hWscySo3piK973OI) | [Lebza TheVillain](https://open.spotify.com/artist/0IBbki2AxG9X2cjaqrSGP3) | [Ngoma](https://open.spotify.com/album/7kYAq9N7FIVTyS3b61r18b) | 5:40 |
 
 Snapshot ID: `AAAAACfIPY7//f2msb797GooMh8Ta3ZL`

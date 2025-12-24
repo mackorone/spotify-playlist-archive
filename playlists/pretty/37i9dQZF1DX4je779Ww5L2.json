@@ -1,6 +1,6 @@
 {
   "description": "de sfeer van 6 uur in de ochtend in de buitenlucht",
-  "num_followers": 191590,
+  "num_followers": 191588,
   "original_name": "rustig aan",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2025-12-18 23:00:10",
       "album": {
-        "name": "Trigger",
-        "url": "https://open.spotify.com/album/5PdcLSkMkoAU7GRGwyRflK"
-      },
-      "artists": [
-        {
-          "name": "n\u00e9om\u00ed",
-          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
-        }
-      ],
-      "duration_ms": 203615,
-      "name": "Trigger",
-      "url": "https://open.spotify.com/track/72q4Hksp0Q6nhRGbDqDt3E"
-    },
-    {
-      "added_at": "2025-12-18 23:00:10",
-      "album": {
         "name": "Rush Hour Traffic",
         "url": "https://open.spotify.com/album/5ADcIb3FaxCChD4dhjbg1y"
       },
@@ -251,18 +235,18 @@
     {
       "added_at": "2025-12-18 23:00:10",
       "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/6080Ueecr7AVcjohNEO8su"
+        "name": "Trigger",
+        "url": "https://open.spotify.com/album/5PdcLSkMkoAU7GRGwyRflK"
       },
       "artists": [
         {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+          "name": "n\u00e9om\u00ed",
+          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
         }
       ],
-      "duration_ms": 275686,
-      "name": "Into My Arms",
-      "url": "https://open.spotify.com/track/4sA3EIk4BlutdVGJ7hY4Uk"
+      "duration_ms": 203615,
+      "name": "Trigger",
+      "url": "https://open.spotify.com/track/72q4Hksp0Q6nhRGbDqDt3E"
     },
     {
       "added_at": "2025-12-18 23:00:10",
@@ -279,6 +263,22 @@
       "duration_ms": 345040,
       "name": "Leap Year",
       "url": "https://open.spotify.com/track/5G6sgBzBCmZKeCg0R2x67t"
+    },
+    {
+      "added_at": "2025-12-18 23:00:10",
+      "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/6080Ueecr7AVcjohNEO8su"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 275686,
+      "name": "Into My Arms",
+      "url": "https://open.spotify.com/track/4sA3EIk4BlutdVGJ7hY4Uk"
     },
     {
       "added_at": "2025-12-18 23:00:10",
@@ -543,26 +543,6 @@
     {
       "added_at": "2025-12-18 23:00:10",
       "album": {
-        "name": "Waving",
-        "url": "https://open.spotify.com/album/7619CH9KMaa94tUXGHiibs"
-      },
-      "artists": [
-        {
-          "name": "Sam De Nef",
-          "url": "https://open.spotify.com/artist/2rAloVqbj3g1s6Pvs7gRno"
-        },
-        {
-          "name": "Camille Camille",
-          "url": "https://open.spotify.com/artist/7mGSaMaJKk9GMxATlKBYQH"
-        }
-      ],
-      "duration_ms": 253919,
-      "name": "Waving",
-      "url": "https://open.spotify.com/track/1TiYTnuokSCxFDc7KRNauZ"
-    },
-    {
-      "added_at": "2025-12-18 23:00:10",
-      "album": {
         "name": "Richardson (feat. Cassandra Jenkins)",
         "url": "https://open.spotify.com/album/72T10FajAmf5Wu0M9scOpp"
       },
@@ -579,6 +559,26 @@
       "duration_ms": 224093,
       "name": "Richardson - feat. Cassandra Jenkins",
       "url": "https://open.spotify.com/track/4Jrstw4tzEoFCE5hZMug96"
+    },
+    {
+      "added_at": "2025-12-18 23:00:10",
+      "album": {
+        "name": "Waving",
+        "url": "https://open.spotify.com/album/7619CH9KMaa94tUXGHiibs"
+      },
+      "artists": [
+        {
+          "name": "Sam De Nef",
+          "url": "https://open.spotify.com/artist/2rAloVqbj3g1s6Pvs7gRno"
+        },
+        {
+          "name": "Camille Camille",
+          "url": "https://open.spotify.com/artist/7mGSaMaJKk9GMxATlKBYQH"
+        }
+      ],
+      "duration_ms": 253919,
+      "name": "Waving",
+      "url": "https://open.spotify.com/track/1TiYTnuokSCxFDc7KRNauZ"
     },
     {
       "added_at": "2025-12-18 23:00:10",
@@ -851,22 +851,6 @@
     {
       "added_at": "2025-12-18 23:00:10",
       "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/3XMCVhIHXHKrKaI2YL88Qy"
-      },
-      "artists": [
-        {
-          "name": "Sam De Nef",
-          "url": "https://open.spotify.com/artist/2rAloVqbj3g1s6Pvs7gRno"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Mother",
-      "url": "https://open.spotify.com/track/5DRhpU3EnIGQFqyUCNBHZP"
-    },
-    {
-      "added_at": "2025-12-18 23:00:10",
-      "album": {
         "name": "The Farm",
         "url": "https://open.spotify.com/album/40J82quNYkW4TBE5ebbHPs"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 302533,
       "name": "The End",
       "url": "https://open.spotify.com/track/408Y9eM7N3ZRodHyvxxHyM"
+    },
+    {
+      "added_at": "2025-12-18 23:00:10",
+      "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/3XMCVhIHXHKrKaI2YL88Qy"
+      },
+      "artists": [
+        {
+          "name": "Sam De Nef",
+          "url": "https://open.spotify.com/artist/2rAloVqbj3g1s6Pvs7gRno"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Mother",
+      "url": "https://open.spotify.com/track/5DRhpU3EnIGQFqyUCNBHZP"
     },
     {
       "added_at": "2025-12-18 23:00:10",
@@ -955,18 +955,18 @@
     {
       "added_at": "2025-12-18 23:00:10",
       "album": {
-        "name": "Sunflower Sunset",
-        "url": "https://open.spotify.com/album/2ViF7zmhrLihawIK3rJ9u2"
+        "name": "Leaving - Reminisce",
+        "url": "https://open.spotify.com/album/2R1cDeLDQthyEMIlSZnPiZ"
       },
       "artists": [
         {
-          "name": "Future Husband",
-          "url": "https://open.spotify.com/artist/7IkZTuasXLNz2HCezR6KuI"
+          "name": "Annelie",
+          "url": "https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC"
         }
       ],
-      "duration_ms": 308963,
-      "name": "Sunflower Sunset",
-      "url": "https://open.spotify.com/track/6PIsXGxWSZj7p2VqmrUbbq"
+      "duration_ms": 324453,
+      "name": "Leaving",
+      "url": "https://open.spotify.com/track/2BlK3gDtP5pgK11lVk3MsE"
     },
     {
       "added_at": "2025-12-18 23:00:10",
@@ -987,22 +987,6 @@
     {
       "added_at": "2025-12-18 23:00:10",
       "album": {
-        "name": "Leaving - Reminisce",
-        "url": "https://open.spotify.com/album/2R1cDeLDQthyEMIlSZnPiZ"
-      },
-      "artists": [
-        {
-          "name": "Annelie",
-          "url": "https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC"
-        }
-      ],
-      "duration_ms": 324453,
-      "name": "Leaving",
-      "url": "https://open.spotify.com/track/2BlK3gDtP5pgK11lVk3MsE"
-    },
-    {
-      "added_at": "2025-12-18 23:00:10",
-      "album": {
         "name": "Time Drifts",
         "url": "https://open.spotify.com/album/4rySmePDloJBmc1nEYDk61"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 237635,
       "name": "Embers",
       "url": "https://open.spotify.com/track/3QDvbfhuz5KyCbpEava0vw"
+    },
+    {
+      "added_at": "2025-12-18 23:00:10",
+      "album": {
+        "name": "Sunflower Sunset",
+        "url": "https://open.spotify.com/album/2ViF7zmhrLihawIK3rJ9u2"
+      },
+      "artists": [
+        {
+          "name": "Future Husband",
+          "url": "https://open.spotify.com/artist/7IkZTuasXLNz2HCezR6KuI"
+        }
+      ],
+      "duration_ms": 308963,
+      "name": "Sunflower Sunset",
+      "url": "https://open.spotify.com/track/6PIsXGxWSZj7p2VqmrUbbq"
     },
     {
       "added_at": "2025-12-18 23:00:10",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2025-12-18 23:00:10",
       "album": {
-        "name": "Where's The Fun In That?",
-        "url": "https://open.spotify.com/album/4b4p6k9ibGvXrIaVk7BDgg"
-      },
-      "artists": [
-        {
-          "name": "Ola",
-          "url": "https://open.spotify.com/artist/31IxxyimG9CPpDkpFiYatC"
-        }
-      ],
-      "duration_ms": 148125,
-      "name": "Where's The Fun In That?",
-      "url": "https://open.spotify.com/track/0sZtc0hnEZL9OJ1PfyaCWS"
-    },
-    {
-      "added_at": "2025-12-18 23:00:10",
-      "album": {
         "name": "Swimming",
         "url": "https://open.spotify.com/album/2AmsdFE6K0JljNeAB2EqrD"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 209237,
       "name": "Swimming",
       "url": "https://open.spotify.com/track/0LuRbtuakg2uS1z5qoDzba"
+    },
+    {
+      "added_at": "2025-12-18 23:00:10",
+      "album": {
+        "name": "Where's The Fun In That?",
+        "url": "https://open.spotify.com/album/4b4p6k9ibGvXrIaVk7BDgg"
+      },
+      "artists": [
+        {
+          "name": "Ola",
+          "url": "https://open.spotify.com/artist/31IxxyimG9CPpDkpFiYatC"
+        }
+      ],
+      "duration_ms": 148125,
+      "name": "Where's The Fun In That?",
+      "url": "https://open.spotify.com/track/0sZtc0hnEZL9OJ1PfyaCWS"
     },
     {
       "added_at": "2025-12-18 23:00:10",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2025-12-18 23:00:10",
       "album": {
-        "name": "The Distance",
-        "url": "https://open.spotify.com/album/2Wc0fRSE7K6ZI4xX3DGqud"
-      },
-      "artists": [
-        {
-          "name": "Prize Collect",
-          "url": "https://open.spotify.com/artist/1QL9FUDTuHnhRI2qp1rogr"
-        }
-      ],
-      "duration_ms": 184715,
-      "name": "The Distance",
-      "url": "https://open.spotify.com/track/0DQgWaerMRpgyB0VEZsFO2"
-    },
-    {
-      "added_at": "2025-12-18 23:00:10",
-      "album": {
         "name": "Don't Worry About The Rain",
         "url": "https://open.spotify.com/album/2SC76QjYJ4oIoAiypWlj93"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 227840,
       "name": "Don't Worry About The Rain",
       "url": "https://open.spotify.com/track/08Vk3LcVrkbEphzkLvvBSq"
+    },
+    {
+      "added_at": "2025-12-18 23:00:10",
+      "album": {
+        "name": "The Distance",
+        "url": "https://open.spotify.com/album/2Wc0fRSE7K6ZI4xX3DGqud"
+      },
+      "artists": [
+        {
+          "name": "Prize Collect",
+          "url": "https://open.spotify.com/artist/1QL9FUDTuHnhRI2qp1rogr"
+        }
+      ],
+      "duration_ms": 184715,
+      "name": "The Distance",
+      "url": "https://open.spotify.com/track/0DQgWaerMRpgyB0VEZsFO2"
     },
     {
       "added_at": "2025-12-18 23:00:10",

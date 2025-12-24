@@ -2761,6 +2761,28 @@
     },
     {
       "album": {
+        "name": "En Espa\u00f1a",
+        "url": "https://open.spotify.com/album/7L1kk0NoH0rJR7ucNhhet8"
+      },
+      "artists": [
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2025-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217478,
+      "name": "Sabor Gitano",
+      "url": "https://open.spotify.com/track/6Pf8k23JUFjnLk6oBiv14o"
+    },
+    {
+      "album": {
         "name": "A Lady And Her Music: \u00a1Azucar!",
         "url": "https://open.spotify.com/album/1F3qHr71rMRdqZbME3Esh3"
       },
@@ -3286,7 +3308,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-24",
       "duration_ms": 159266,
       "name": "Y Mi Negro Esta Cansao",
       "url": "https://open.spotify.com/track/2lQL2ZIO7m4dE3bMAymTIj"

@@ -4,7 +4,7 @@
 
 > Lush continuous pink noise that will make you sleep all night.
 
-281 songs - 14 hr 42 min
+282 songs - 14 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Pink Noise for my Soul](https://open.spotify.com/track/3v4kFsrw1MvMINt5EX052q) | [The Sleep Phasers](https://open.spotify.com/artist/0Hsi1ogeO5MpghqgXtuh9L) | [Pink Noise for my Soul](https://open.spotify.com/album/5RLvHX31HwU7rAoUVwulYW) | 3:09 | 2025-12-19 |  |
 | [Pink Noise For Relaxation](https://open.spotify.com/track/5EMGZzJMcAhq4D7NT6K0Az) | [Casper White](https://open.spotify.com/artist/4weaxjLzThghACmvjNt9JT) | [Pink Atmosphere](https://open.spotify.com/album/5qgEcp6C7PPTayUCDjL6wb) | 2:33 | 2023-05-25 |  |
 | [Pink Noise For Sweet Dreams](https://open.spotify.com/track/4PSkW1HuaEKXXvb9ltniaJ) | [Institute of Noise](https://open.spotify.com/artist/7dUgAAemIDlQjATtoc1sPT) | [Pink Noise Above The Clouds](https://open.spotify.com/album/0AHoFhEHrhVMtAgSusiDA2) | 3:44 | 2023-10-27 |  |
+| [Pink Noise for the Dreamers](https://open.spotify.com/track/3V5mSraWwUfruXr2rpE6N4) | [Dream Fuzz](https://open.spotify.com/artist/5g15r7gI0JATorLiQduRkF) | [Pink Noise for the Dreamers](https://open.spotify.com/album/70qsOzBd8f86FmuqZn34CD) | 3:36 | 2025-12-19 |  |
 | [Pink Noise for the Library](https://open.spotify.com/track/26fkLJCAeC1RAZe5aM1pZN) | [Dream Storms](https://open.spotify.com/artist/40AelaWxy8f4FdEVHEzK1T) | [Pink Noise for the Library](https://open.spotify.com/album/0aBPaD8lU8GpXhRRd1vWOD) | 3:15 | 2023-10-27 |  |
 | [Pink Noise for the Soul](https://open.spotify.com/track/55ixTrk7bNGa879tA2ftbz) | [Hum Humming](https://open.spotify.com/artist/4Pv75nATrtWwA5uYCDvxYF) | [Pink Noise for the Soul](https://open.spotify.com/album/5kyRuD1PAKVecHr9HYVzvZ) | 4:17 | 2025-05-22 | 2025-12-20 |
 | [Pink Noise for Tranquility](https://open.spotify.com/track/6Ibp1yXeTZY5au5i3AgXR8) | [Dancing Waves](https://open.spotify.com/artist/6I734cgGnMNAYXbDKI6pxm) | [Nature's Pink Noise](https://open.spotify.com/album/24AmrnX6tCSQjb5qjDaNi5) | 4:06 | 2023-10-27 |  |
@@ -234,7 +235,7 @@
 | [Relaxing Cascade Pink Noise](https://open.spotify.com/track/7FZaJmuMcTGxNCFAAY78gH) | [Dreaming Of Solfeggio](https://open.spotify.com/artist/5J5iQ1cL74ilo4F6TmuOto) | [Relaxing Cascade Pink Noise](https://open.spotify.com/album/4zXHk15cjfSIzbGd585bOt) | 3:23 | 2023-05-25 | 2023-10-28 |
 | [Relaxing Pink Noise](https://open.spotify.com/track/7fkBR719ApUpjWJ4xGY85T) | [Desi Eskil](https://open.spotify.com/artist/4vDXxjHGMDyOaPyUdRXfQj) | [Relaxing Pink Noise](https://open.spotify.com/album/3AyftmvDjBFj2mhNM4X2eV) | 3:09 | 2023-05-25 |  |
 | [Remember Pink Noise](https://open.spotify.com/track/3N5sgm7NQA0R2eMUtt2HW1) | [Pink Orbit](https://open.spotify.com/artist/1OcOohHo7T54wkzZhIs6KA) | [Pink Noise Moment](https://open.spotify.com/album/5oHMW5JreJe8wRvZxkuBcL) | 3:23 | 2023-05-25 |  |
-| [Restful Waterfall Pink Noise](https://open.spotify.com/track/7pj329XxEjvahgcowTi3Xw) | [Ambientes Globales](https://open.spotify.com/artist/7GPnokvVJokeij4Ke3uA9d) | [Restful Waterfall Pink Noise](https://open.spotify.com/album/6PMAh2vvVE3faBdbcnUdVK) | 3:11 | 2023-05-25 |  |
+| [Restful Waterfall Pink Noise](https://open.spotify.com/track/7pj329XxEjvahgcowTi3Xw) | [Ambientes Globales](https://open.spotify.com/artist/7GPnokvVJokeij4Ke3uA9d) | [Restful Waterfall Pink Noise](https://open.spotify.com/album/6PMAh2vvVE3faBdbcnUdVK) | 3:11 | 2023-05-25 | 2025-12-24 |
 | [Retrograde Pink Noise](https://open.spotify.com/track/4KDNVbgOQBTW58VaayYMMR) | [Fortuna](https://open.spotify.com/artist/2gbFrZ06uCjIZsE1LS46uV) | [Retrograde Pink Noise](https://open.spotify.com/album/0Hdpx60YY26FqcfAqKHe4O) | 2:44 | 2023-05-25 |  |
 | [River Of Dreams Pink Noise](https://open.spotify.com/track/0K5Qv83SvBXkOgRoF3blmG) | [Cosmic Nirvana](https://open.spotify.com/artist/5qJPwmFhAXtQZfxmvmZJmO) | [River Of Dreams Pink Noise](https://open.spotify.com/album/7uJF7Mem1isuT62FyGYSiz) | 3:23 | 2023-05-25 |  |
 | [Rose Haze Relaxation](https://open.spotify.com/track/1Az1mgbkMSrmRfJWvz4ZmS) | [FX Soundtrap](https://open.spotify.com/artist/0bTrplg3JcYsNhCSmSfEAo) | [Rose Haze Relaxation](https://open.spotify.com/album/5BkLK7DLpNPeU3U3RHAriN) | 2:01 | 2025-12-19 |  |

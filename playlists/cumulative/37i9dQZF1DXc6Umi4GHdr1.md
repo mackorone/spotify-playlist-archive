@@ -4,7 +4,7 @@
 
 > Acoustic instrumental guitar to help focus the mind and concentrate on the task at hand.
 
-459 songs - 20 hr 18 min
+461 songs - 20 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -256,6 +256,7 @@
 | [Mother](https://open.spotify.com/track/5gaAuySZEHflS9lLLIEXkG) | [Sergio Sorrentino](https://open.spotify.com/artist/2hV0tEHHlVNNr8qxpBr1qN) | [Mother](https://open.spotify.com/album/4SEJYvpvBcKwRGS83ihp2f) | 2:22 | 2022-10-28 | 2024-05-10 |
 | [Moving Forward](https://open.spotify.com/track/4jNLfi6sP5MJ1bU17icsrd) | [Fabian Lombardi](https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY) | [Moving Forward](https://open.spotify.com/album/1NBGAA15nSVrYwGuYFKcUd) | 3:15 | 2025-04-29 |  |
 | [My Lily](https://open.spotify.com/track/6CK7lYN56EyRiNbBCJd5MH) | [Astrid Everdahl](https://open.spotify.com/artist/3Qj9pNM2oNE8oSVjw6KBOz) | [My Lily](https://open.spotify.com/album/4hOTsk6CmC7ND7WLccFf7N) | 2:23 | 2022-10-14 | 2023-03-10 |
+| [My Mother](https://open.spotify.com/track/7DUrp9pce5qnRMtCKAIFRx) | [Jonka Tribute](https://open.spotify.com/artist/3RBASZuevPXGYdPtyltxT9) | [My Mother](https://open.spotify.com/album/3Vm9kFLzzmeqNsqgs3OV14) | 2:08 | 2025-12-23 |  |
 | [Mértola](https://open.spotify.com/track/6ht9QNV3O5IZGXzX8QXHI0) | [Kim Rodgers](https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ) | [Mértola](https://open.spotify.com/album/3vx3SZudj0S0aS87AlYcRm) | 3:01 | 2023-11-24 | 2024-06-28 |
 | [Naufragados](https://open.spotify.com/track/7DrDuLNcpOX4Y5NKiFavUD) | [Azur](https://open.spotify.com/artist/1Ok8A2HZgoIRz3fmZGpa8K) | [Naufragados](https://open.spotify.com/album/5aq6xtIGXkL8Y13VhHNx4G) | 2:42 | 2024-02-23 |  |
 | [Neon Waltz](https://open.spotify.com/track/6UhsI5uBwLdIAzMKHJ0etV) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Neon Waltz](https://open.spotify.com/album/1xNPIbnJdtlvBTmatV3Oy4) | 2:31 | 2025-09-12 |  |
@@ -458,6 +459,7 @@
 | [Winter Solstice](https://open.spotify.com/track/2qg21mlordJwzXKPjHWFyA) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Abenddämmerung](https://open.spotify.com/album/05yJ8D8WooKWGfItq1NLOA) | 3:29 | 2023-05-26 | 2023-06-16 |
 | [Winterland](https://open.spotify.com/track/1gW3VKqi9qjRHLyBhg4IZO) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Winterland](https://open.spotify.com/album/3Yvb1Wl1aDWwgEUM0vuM9L) | 2:11 | 2023-01-20 | 2024-09-04 |
 | [With Languor](https://open.spotify.com/track/7wcUEnW420sjGIpD5XZTvK) | [Michelle Qureshi](https://open.spotify.com/artist/2tnTYLzDkug2iNhsBpWmuG) | [Within](https://open.spotify.com/album/65eOKdl0MxptxgnpDiM8ax) | 3:19 | 2024-02-02 |  |
+| [Without Words](https://open.spotify.com/track/0BY6iUCS3WH6pUJTsO8V1i) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Without Words](https://open.spotify.com/album/1VKQy9fWAw8XgbuUgL3zE2) | 2:36 | 2025-12-23 |  |
 | [Wonder's Pyre](https://open.spotify.com/track/6POun1Z6NKg9JpWdb3pRFF) | [Iris Dauphin](https://open.spotify.com/artist/0XlymLAYuZ9DubWIEUmFR0) | [Wonder's Pyre](https://open.spotify.com/album/18Kyuf3AqYSQHuj0Uuat5V) | 2:49 | 2023-03-10 | 2023-08-26 |
 | [Yellow](https://open.spotify.com/track/27DodeB1seENJxnWojPa6G) | [Walter Penn](https://open.spotify.com/artist/2CWnlvisVPTCncNKI0k3U9) | [Yellow](https://open.spotify.com/album/6ogaGgYB25jgZmCo405fq6) | 2:31 | 2023-03-31 | 2023-08-26 |
 | [Yesterday’s Horizon](https://open.spotify.com/track/6aRIyvjb1r0ckDtWTAnawQ) | [Andie Wiess](https://open.spotify.com/artist/2ftzvO6OIPDrv4Fh7jMNFX) | [Yesterday’s Horizon](https://open.spotify.com/album/19Qh83lPIJvJmZwmin92d7) | 2:48 | 2025-06-04 |  |

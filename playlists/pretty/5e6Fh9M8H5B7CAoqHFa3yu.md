@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 243 likes - 1,740 songs - 4 day 9 hr 30 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 243 likes - 1,741 songs - 4 day 9 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1057,7 +1057,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 1047 | [Aquila](https://open.spotify.com/track/3PxcCMRlyHlZ6PdA647rru) | [Open Strum](https://open.spotify.com/artist/1Xh9igcpw9BvisCWyVQ932), [One Guild](https://open.spotify.com/artist/65tJuTsrG52OELMrkeoZET) | [Open Strum 2](https://open.spotify.com/album/1jIdsJW3n2lfxaP7IQnwko) | 2:38 |
 | 1048 | [BOTTOMED OUT BOTTLE](https://open.spotify.com/track/4LEQHVO8FP5GYXx5zaImor) | [KING TUT PROJECT](https://open.spotify.com/artist/49ZU77EBsUGTKXM7dLt9S6), [LIL GHETTI](https://open.spotify.com/artist/69n8TMKQqkLJo6JdppWe5r) | [DRANKIN & DRIVIN \(HIGH OCTANE DELUXE\)](https://open.spotify.com/album/7DkEgEcghlBTLth7HPKO80) | 2:40 |
 | 1049 | [Patiently Wait](https://open.spotify.com/track/0Cl6mNDfzyNdpWb8m4eOA0) | [Arthur Kirk](https://open.spotify.com/artist/50YhuL2TblOjKzgQQhCgZV) | [Patiently Wait](https://open.spotify.com/album/6OOjw99iCyvRCoqKh9Afnd) | 3:54 |
-| 1050 | [Semblant \- Radio Edit](https://open.spotify.com/track/1dZ9rvr6Xo8oGklLUDNkF6) | [ToloV](https://open.spotify.com/artist/4t3awapuIDzb4fGOMWR35Q) | [Semblant \(Radio Edit\)](https://open.spotify.com/album/2FQnn24gpCcrbvK4JwNdh7) | 3:07 |
+| 1050 | [Semblant](https://open.spotify.com/track/1dZ9rvr6Xo8oGklLUDNkF6) | [ToloV](https://open.spotify.com/artist/4t3awapuIDzb4fGOMWR35Q) | [Semblant](https://open.spotify.com/album/2FQnn24gpCcrbvK4JwNdh7) | 3:07 |
 | 1051 | [Home](https://open.spotify.com/track/0ap4XO7DU649RSu3dfl8Eq) | [Arthur Kirk](https://open.spotify.com/artist/50YhuL2TblOjKzgQQhCgZV) | [Home](https://open.spotify.com/album/4nIS23Putnp085soNN5m1f) | 6:31 |
 | 1052 | [Люблю](https://open.spotify.com/track/5OFLs1NK4P9CTwwH2P0rKY) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Люблю](https://open.spotify.com/album/3YJO7rlQMviBQRxqMCUtx9) | 3:41 |
 | 1053 | [Люблю](https://open.spotify.com/track/5OFLs1NK4P9CTwwH2P0rKY) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Люблю](https://open.spotify.com/album/3YJO7rlQMviBQRxqMCUtx9) | 3:41 |
@@ -1748,5 +1748,6 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 1738 | [It's Around Us](https://open.spotify.com/track/17LZMhN8rYL6QWZbSS4SeH) | [Matteo Castelluccia](https://open.spotify.com/artist/1PjHSJjuRXjJwBrQyAoz53) | [It's Around Us](https://open.spotify.com/album/0TL8jDhLFhTEp8PMghFsiv) | 4:02 |
 | 1739 | [Toxic](https://open.spotify.com/track/6ID6CXqtis41TK3kt8ogSA) | [BleuShxll](https://open.spotify.com/artist/3uZrhLXR3UZkvDcF3abMz2), [Tenshii](https://open.spotify.com/artist/5regEO6nnwSdWZbNXLk6GB) | [Toxic](https://open.spotify.com/album/0x6NE4BI70zECU0wY4vYTP) | 2:25 |
 | 1740 | [Daughter of Ukraine \(A plea to Heaven\)](https://open.spotify.com/track/5YbPc0RcKGElmURNIJitGi) | [Ana Danch](https://open.spotify.com/artist/32ey5EpTVPAVTRcKVeZ1jf) | [Daughter of Ukraine \(A plea to Heaven\)](https://open.spotify.com/album/0NbjicAcU5t5lkwYvx7jA9) | 3:02 |
+| 1741 | [Split](https://open.spotify.com/track/3D4U2FQsMZ0jJpwnts4BYT) | [Monzarc](https://open.spotify.com/artist/4lmG1YXfns7Fi9VR0DBNeG) | [Split](https://open.spotify.com/album/6utV4kr5ZpWo2iK1Hw9Dqf) | 5:21 |
 
-Snapshot ID: `AAAHnQ3j+UWh2YjxgyYYM7NEKJm7oCBH`
+Snapshot ID: `AAAHnoZMW6Qmylqcd+1EDR9yv+KDr9Se`

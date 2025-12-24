@@ -3889,6 +3889,24 @@
     },
     {
       "album": {
+        "name": "Hidden Emotional Currents",
+        "url": "https://open.spotify.com/album/2kjRJoa6va3Wi9nUcdIlBq"
+      },
+      "artists": [
+        {
+          "name": "Jonka Ebony",
+          "url": "https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE"
+        }
+      ],
+      "date_added": "2025-12-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "Hidden Emotional Currents",
+      "url": "https://open.spotify.com/track/2iZr2LkP0wQmzZG2HLkHKR"
+    },
+    {
+      "album": {
         "name": "Holiday",
         "url": "https://open.spotify.com/album/42jWJjZTHJc3jN5XOxRbvr"
       },
@@ -7206,7 +7224,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-24",
       "duration_ms": 141600,
       "name": "Presence in the Present",
       "url": "https://open.spotify.com/track/1P1atoWaatAcMCw5w8E8Sf"
@@ -8574,7 +8592,7 @@
       ],
       "date_added": "2025-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-24",
       "duration_ms": 129134,
       "name": "Soothing Clare",
       "url": "https://open.spotify.com/track/70HknFJZ7R2Xu8jA7qnjyE"

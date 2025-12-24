@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > Obama&\#x27;s favorite music of 2025\. Includes Summer 2024 and bonus tracks.
 
-[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 132,307 likes - 173 songs - 10 hr 22 min
+[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 132,327 likes - 163 songs - 9 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -171,15 +171,5 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 161 | [Trouble \(Budapest Pt\. 1\)](https://open.spotify.com/track/0rBNCSm4e6rfvnEsTmEKQb) | [Andrea Carax](https://open.spotify.com/artist/09KsWxNuWlya6rRvipzD5d), [kaub](https://open.spotify.com/artist/722lHx0H0HLOp44ov6Zr5t) | [Trouble \(Budapest Pt\. 1\)](https://open.spotify.com/album/38UN6exzCmJXSpZzaqnqZg) | 2:24 |
 | 162 | [YO PAMI TE QUIERO](https://open.spotify.com/track/42PTkqNb9VBHBKMr76KCAr) | [ADIEL](https://open.spotify.com/artist/7kIY0YemfqOMRAmcn0zRvr) | [YO PAMI TE QUIERO](https://open.spotify.com/album/5wjpIh1KEF5bp9BZtfxLdO) | 1:46 |
 | 163 | [\_never let u go](https://open.spotify.com/track/5E7r9oHBFabyYbcPZGRoCJ) | [local strays](https://open.spotify.com/artist/6mDq3Y35f6V4GzcVJHZuV5), [little hannah](https://open.spotify.com/artist/7kE6s1OZtHIuqIMlgs7n60) | [\_never let u go](https://open.spotify.com/album/13EXEe9kRoLTw4ApLkiJUY) | 3:35 |
-| 164 | [I Luv U](https://open.spotify.com/track/2RrXwvBSOH0OuncGU0JQVx) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Wallfacer](https://open.spotify.com/artist/7whpXJXNCFQ1iJeL4f3Fam) | [USB](https://open.spotify.com/album/78nW71ZkQKcrARIkTbLJp9) | 3:17 |
-| 165 | [Let It All Out](https://open.spotify.com/track/34h31lc2V4xXgOITPZyZ5F) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Let It All Out](https://open.spotify.com/album/0uGBqR4LqfpnuuybjZ5MNb) | 4:13 |
-| 166 | [2](https://open.spotify.com/track/2jsNFSDNHxvmwoKxn1KI9a) | [Labit](https://open.spotify.com/artist/7E1XXjHJx1GY0MXZpcgKea), [Patrick Hizon](https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X) | [2](https://open.spotify.com/album/3RpcT3e4Z3sG6YLCyAzf8A) | 2:41 |
-| 167 | [Gonna Go To Japan \- kikomori Remix](https://open.spotify.com/track/6Umv6VL2OdrRCZV9wF2dWN) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn), [kikomori](https://open.spotify.com/artist/3K3X8ywnXx0tVgnWkgGEKD) | [Gonna Go To Japan \(kikomori Remix\)](https://open.spotify.com/album/7HByCXUGoBEdPWsCMeWSln) | 3:22 |
-| 168 | [No One](https://open.spotify.com/track/5J72L91na30WRBYaCokV8i) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Tim Engelhardt](https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE) | [No One](https://open.spotify.com/album/7K9zu3YIC7kQORSSclbGBD) | 4:04 |
-| 169 | [Sullen Passage](https://open.spotify.com/track/1uhRtTpMX37u195FCRjDaZ) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Resurrection \(Original Soundtrack\)](https://open.spotify.com/album/2Gvlc723AMrliLB7bgNQ30) | 3:26 |
-| 170 | [Continuum](https://open.spotify.com/track/6n6ilYXJUatBjzFkH4dd3s) | [SENTO](https://open.spotify.com/artist/2rRKwSbT80Ss7cfcz8FeAG) | [Continuum](https://open.spotify.com/album/49unHeDs9f0GA3540giato) | 3:30 |
-| 171 | [Dopamine \- Jamie xx Remix](https://open.spotify.com/track/6BRSGk5zVklP8FRLTRm8Ar) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Dopamine \(Jamie xx Remix\)](https://open.spotify.com/album/0Puqp5TzMtMN1ljd8Ecae9) | 5:02 |
-| 172 | [Hold On](https://open.spotify.com/track/5reWe6VIloY1CNYhzdApCl) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Hold On](https://open.spotify.com/album/40Ksd3AVHtWcZbExDuuxVL) | 3:41 |
-| 173 | [Can You Swim?](https://open.spotify.com/track/2dWjtV6SUgVT1oPpA45wQH) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Can You Swim?](https://open.spotify.com/album/3xiBXsB2pmzFwLh8WiWXEc) | 4:55 |
 
-Snapshot ID: `AAA2Xy1fWSzQ8fH8Vc3Woi5Kw19I5Yie`
+Snapshot ID: `AAA2YI95xdDAVR+KtQFAeSirUgXQwPyp`

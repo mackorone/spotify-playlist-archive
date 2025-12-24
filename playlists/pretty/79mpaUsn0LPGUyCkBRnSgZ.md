@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 631 songs - 1 day 17 hr 13 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 630 songs - 1 day 17 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -629,15 +629,14 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 619 | [Lonesome Is A State of Mind](https://open.spotify.com/track/5DcV7k8MIdYJAAIR0O3Iks) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [The Crux](https://open.spotify.com/album/1xQGeKOIMZrPBUlDJuqZGQ) | 4:19 |
 | 620 | [Entrance](https://open.spotify.com/track/6jhgHlVsKiGDNsZnFDv0Ia) | [Kikagaku Moyo](https://open.spotify.com/artist/0hrb5WRiNlj8vh3WnCgXFq) | [Masana Temples](https://open.spotify.com/album/5g5l9entA4bTztfpLJd1kS) | 2:26 |
 | 621 | [Prelude](https://open.spotify.com/track/7jWUnmVEcqR3KggTiSNWAW) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Something Beautiful](https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ) | 2:35 |
-| 622 | [London Song](https://open.spotify.com/track/42a9PusvgFnyH0WgdCn6PV) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [I Love My Computer](https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ) | 3:15 |
-| 623 | [Angel Of My Dreams](https://open.spotify.com/track/3Zu0AWO9PN2lP2kCls5mkq) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY!](https://open.spotify.com/album/4Q1Rf1xZ5OiQcCFnSAHdeE) | 3:17 |
-| 624 | [Salsa Verde](https://open.spotify.com/track/1oG4pF6HQpCdEh90q5SNxw) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Pogo Rodeo](https://open.spotify.com/album/3S7VkLHtCTQPcoi2ZaY4TL) | 3:24 |
-| 625 | [time \(a dream deferred\)](https://open.spotify.com/track/7pQmOaawg2DMtlnIWc9SNY) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [sankofa](https://open.spotify.com/album/2jDIRykwSLgdYETP0IQES3) | 1:58 |
-| 626 | [Next To Me](https://open.spotify.com/track/16MKLKWVZPt84xOwCU56hg) | [DJ Sabrina The Teenage DJ](https://open.spotify.com/artist/7mhv3pjuY4JRkMKuUK9mPh) | [Charmed](https://open.spotify.com/album/3hufhPvd2yMXONUeQjyrT3) | 7:37 |
-| 627 | [Hello, There](https://open.spotify.com/track/6Hm0mU868o8cPVkQ7tOmFa) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Vintage Violence](https://open.spotify.com/album/2o7YjekcSP7yiLXfuSy0ly) | 2:44 |
-| 628 | [White Light/White Heat](https://open.spotify.com/track/0Evhu0dKCkIuEn88Pmb9mj) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC) | [White Light / White Heat](https://open.spotify.com/album/0HHmJpwOXXRJu9HI9iQiEO) | 2:47 |
-| 629 | [Fear Is A Man's Best Friend](https://open.spotify.com/track/3v19aK0OgDXN1M1KAliHV3) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Fear](https://open.spotify.com/album/2oYx947UgPPrsPfVLWUorC) | 3:52 |
-| 630 | [Trigger Warning](https://open.spotify.com/track/1XCnR3mePuti0H3MUk08gO) | [thanks for coming](https://open.spotify.com/artist/3dbSL43i8580GLWJRknu9w) | [Deleted Albums, Sorry](https://open.spotify.com/album/6xDeK0YsTrMvOwIj2x3GrH) | 3:53 |
-| 631 | [context](https://open.spotify.com/track/2eZzMLQiSFY9e3hYKCqkqe) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [black british music \(2025\)](https://open.spotify.com/album/0uqw8DmJjWCODFySYWx47f) | 1:59 |
+| 622 | [Angel Of My Dreams](https://open.spotify.com/track/3Zu0AWO9PN2lP2kCls5mkq) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY!](https://open.spotify.com/album/4Q1Rf1xZ5OiQcCFnSAHdeE) | 3:17 |
+| 623 | [Salsa Verde](https://open.spotify.com/track/1oG4pF6HQpCdEh90q5SNxw) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [Pogo Rodeo](https://open.spotify.com/album/3S7VkLHtCTQPcoi2ZaY4TL) | 3:24 |
+| 624 | [time \(a dream deferred\)](https://open.spotify.com/track/7pQmOaawg2DMtlnIWc9SNY) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM) | [sankofa](https://open.spotify.com/album/2jDIRykwSLgdYETP0IQES3) | 1:58 |
+| 625 | [Next To Me](https://open.spotify.com/track/16MKLKWVZPt84xOwCU56hg) | [DJ Sabrina The Teenage DJ](https://open.spotify.com/artist/7mhv3pjuY4JRkMKuUK9mPh) | [Charmed](https://open.spotify.com/album/3hufhPvd2yMXONUeQjyrT3) | 7:37 |
+| 626 | [Hello, There](https://open.spotify.com/track/6Hm0mU868o8cPVkQ7tOmFa) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Vintage Violence](https://open.spotify.com/album/2o7YjekcSP7yiLXfuSy0ly) | 2:44 |
+| 627 | [White Light/White Heat](https://open.spotify.com/track/0Evhu0dKCkIuEn88Pmb9mj) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC) | [White Light / White Heat](https://open.spotify.com/album/0HHmJpwOXXRJu9HI9iQiEO) | 2:47 |
+| 628 | [Fear Is A Man's Best Friend](https://open.spotify.com/track/3v19aK0OgDXN1M1KAliHV3) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Fear](https://open.spotify.com/album/2oYx947UgPPrsPfVLWUorC) | 3:52 |
+| 629 | [Trigger Warning](https://open.spotify.com/track/1XCnR3mePuti0H3MUk08gO) | [thanks for coming](https://open.spotify.com/artist/3dbSL43i8580GLWJRknu9w) | [Deleted Albums, Sorry](https://open.spotify.com/album/6xDeK0YsTrMvOwIj2x3GrH) | 3:53 |
+| 630 | [context](https://open.spotify.com/track/2eZzMLQiSFY9e3hYKCqkqe) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [black british music \(2025\)](https://open.spotify.com/album/0uqw8DmJjWCODFySYWx47f) | 1:59 |
 
-Snapshot ID: `AAAILJF9DWoO5xQlosELJoIst7epJjLS`
+Snapshot ID: `AAAILTgD7Rk6jLWZltr/n37KQb3aHXJj`
