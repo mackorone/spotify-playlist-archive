@@ -1,6 +1,6 @@
 {
   "description": "let the dj set u free \u2764\ufe0f\u200d\ud83e\ude79",
-  "num_followers": 850153,
+  "num_followers": 850185,
   "original_name": "crying on the dance floor",
   "owner": {
     "name": "Spotify",
@@ -675,18 +675,22 @@
     {
       "added_at": "2025-12-19 05:00:30",
       "album": {
-        "name": "Only Friends",
-        "url": "https://open.spotify.com/album/02Ood2KFnCMgpQY6SCL9YC"
+        "name": "Comfort In Chaos",
+        "url": "https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2"
       },
       "artists": [
         {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Paige Cavell",
+          "url": "https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24"
         }
       ],
-      "duration_ms": 158769,
-      "name": "Only Friends",
-      "url": "https://open.spotify.com/track/15a30YqNPApO8OS0RpqNND"
+      "duration_ms": 236270,
+      "name": "Tears (with Paige Cavell)",
+      "url": "https://open.spotify.com/track/2NKwz3gyK8da44pR2ZbiM1"
     },
     {
       "added_at": "2025-12-19 05:00:30",
@@ -711,22 +715,18 @@
     {
       "added_at": "2025-12-19 05:00:30",
       "album": {
-        "name": "Comfort In Chaos",
-        "url": "https://open.spotify.com/album/2pHm3ZP2R3phzCYi7ilGN2"
+        "name": "Only Friends",
+        "url": "https://open.spotify.com/album/02Ood2KFnCMgpQY6SCL9YC"
       },
       "artists": [
         {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "Paige Cavell",
-          "url": "https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24"
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
         }
       ],
-      "duration_ms": 236270,
-      "name": "Tears (with Paige Cavell)",
-      "url": "https://open.spotify.com/track/2NKwz3gyK8da44pR2ZbiM1"
+      "duration_ms": 158769,
+      "name": "Only Friends",
+      "url": "https://open.spotify.com/track/15a30YqNPApO8OS0RpqNND"
     },
     {
       "added_at": "2025-12-19 05:00:30",
@@ -1259,26 +1259,6 @@
     {
       "added_at": "2025-12-19 05:00:30",
       "album": {
-        "name": "Driving Fast",
-        "url": "https://open.spotify.com/album/1LM3dBanBig1Fqy4IwF0E8"
-      },
-      "artists": [
-        {
-          "name": "Swimming Paul",
-          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
-        },
-        {
-          "name": "Beaux Neptune",
-          "url": "https://open.spotify.com/artist/78yjqwSo3AshRgJwAfeFZj"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "Driving Fast",
-      "url": "https://open.spotify.com/track/6bVY1XClQ5LNXZsF9J7uOz"
-    },
-    {
-      "added_at": "2025-12-19 05:00:30",
-      "album": {
         "name": "UNCONDITIONAL",
         "url": "https://open.spotify.com/album/0aOuVsBkVR8F2l9loZb07R"
       },
@@ -1295,6 +1275,26 @@
       "duration_ms": 181294,
       "name": "UNCONDITIONAL",
       "url": "https://open.spotify.com/track/36cpvfoFRtt54qelBQ0Qkl"
+    },
+    {
+      "added_at": "2025-12-19 05:00:30",
+      "album": {
+        "name": "Driving Fast",
+        "url": "https://open.spotify.com/album/1LM3dBanBig1Fqy4IwF0E8"
+      },
+      "artists": [
+        {
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+        },
+        {
+          "name": "Beaux Neptune",
+          "url": "https://open.spotify.com/artist/78yjqwSo3AshRgJwAfeFZj"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "Driving Fast",
+      "url": "https://open.spotify.com/track/6bVY1XClQ5LNXZsF9J7uOz"
     },
     {
       "added_at": "2025-12-19 05:00:30",
@@ -1667,6 +1667,22 @@
     {
       "added_at": "2025-12-19 05:00:30",
       "album": {
+        "name": "haunted",
+        "url": "https://open.spotify.com/album/6TozBKGt0kW2MILIDwEVj7"
+      },
+      "artists": [
+        {
+          "name": "puulse",
+          "url": "https://open.spotify.com/artist/3Kt1r7PvkTaP4sKUWburTp"
+        }
+      ],
+      "duration_ms": 132396,
+      "name": "haunted",
+      "url": "https://open.spotify.com/track/5G1DsGxeQDFwTz0GzcOBtj"
+    },
+    {
+      "added_at": "2025-12-19 05:00:30",
+      "album": {
         "name": "It's Okay",
         "url": "https://open.spotify.com/album/1l8LhEYHqO23fBaHyMJU8u"
       },
@@ -1703,22 +1719,6 @@
       "duration_ms": 226791,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/6I3vPqMmEv0pjRBxKBnrk7"
-    },
-    {
-      "added_at": "2025-12-19 05:00:30",
-      "album": {
-        "name": "haunted",
-        "url": "https://open.spotify.com/album/6TozBKGt0kW2MILIDwEVj7"
-      },
-      "artists": [
-        {
-          "name": "puulse",
-          "url": "https://open.spotify.com/artist/3Kt1r7PvkTaP4sKUWburTp"
-        }
-      ],
-      "duration_ms": 132396,
-      "name": "haunted",
-      "url": "https://open.spotify.com/track/5G1DsGxeQDFwTz0GzcOBtj"
     },
     {
       "added_at": "2025-12-19 05:00:30",
@@ -1983,26 +1983,18 @@
     {
       "added_at": "2025-12-19 05:00:30",
       "album": {
-        "name": "i don't know what to say",
-        "url": "https://open.spotify.com/album/3OlfLLEPknBT26Imkjzcy5"
+        "name": "In Circles",
+        "url": "https://open.spotify.com/album/27P7tEDJJfKCZXqrLrw4yr"
       },
       "artists": [
         {
-          "name": "Le Youth",
-          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
-        },
-        {
-          "name": "Lipless",
-          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
-        },
-        {
-          "name": "Hana Fatur",
-          "url": "https://open.spotify.com/artist/1KrrllH0xZ2LBhgcxNMidX"
+          "name": "SWIM",
+          "url": "https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V"
         }
       ],
-      "duration_ms": 209839,
-      "name": "i don't know what to say",
-      "url": "https://open.spotify.com/track/71XhzO3pCZ96N1VgZeG1IX"
+      "duration_ms": 216336,
+      "name": "Condition",
+      "url": "https://open.spotify.com/track/1DDLcSW4CJOAo2IcoyH3Ol"
     },
     {
       "added_at": "2025-12-19 05:00:30",
@@ -2027,22 +2019,6 @@
     {
       "added_at": "2025-12-19 05:00:30",
       "album": {
-        "name": "In Circles",
-        "url": "https://open.spotify.com/album/27P7tEDJJfKCZXqrLrw4yr"
-      },
-      "artists": [
-        {
-          "name": "SWIM",
-          "url": "https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V"
-        }
-      ],
-      "duration_ms": 216336,
-      "name": "Condition",
-      "url": "https://open.spotify.com/track/1DDLcSW4CJOAo2IcoyH3Ol"
-    },
-    {
-      "added_at": "2025-12-19 05:00:30",
-      "album": {
         "name": "Healing (with Emily Roberts)",
         "url": "https://open.spotify.com/album/2C803zoa1mdiDwI49b0yw5"
       },
@@ -2063,18 +2039,26 @@
     {
       "added_at": "2025-12-19 05:00:30",
       "album": {
-        "name": "That Boy's Not Nice",
-        "url": "https://open.spotify.com/album/37DkXNloWZnZsp0j25sg1F"
+        "name": "i don't know what to say",
+        "url": "https://open.spotify.com/album/3OlfLLEPknBT26Imkjzcy5"
       },
       "artists": [
         {
-          "name": "Memphis LK",
-          "url": "https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe"
+          "name": "Le Youth",
+          "url": "https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx"
+        },
+        {
+          "name": "Lipless",
+          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
+        },
+        {
+          "name": "Hana Fatur",
+          "url": "https://open.spotify.com/artist/1KrrllH0xZ2LBhgcxNMidX"
         }
       ],
-      "duration_ms": 198695,
-      "name": "That Boy's Not Nice",
-      "url": "https://open.spotify.com/track/6wshH1jwUSaFQQWtaTDPkd"
+      "duration_ms": 209839,
+      "name": "i don't know what to say",
+      "url": "https://open.spotify.com/track/71XhzO3pCZ96N1VgZeG1IX"
     },
     {
       "added_at": "2025-12-19 05:00:30",
@@ -2111,6 +2095,22 @@
       "duration_ms": 259701,
       "name": "Lose Yourself Again",
       "url": "https://open.spotify.com/track/3OVP3FARH2ruqcTeSXFESk"
+    },
+    {
+      "added_at": "2025-12-19 05:00:30",
+      "album": {
+        "name": "That Boy's Not Nice",
+        "url": "https://open.spotify.com/album/37DkXNloWZnZsp0j25sg1F"
+      },
+      "artists": [
+        {
+          "name": "Memphis LK",
+          "url": "https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe"
+        }
+      ],
+      "duration_ms": 198695,
+      "name": "That Boy's Not Nice",
+      "url": "https://open.spotify.com/track/6wshH1jwUSaFQQWtaTDPkd"
     },
     {
       "added_at": "2025-12-19 05:00:30",

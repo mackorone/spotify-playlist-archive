@@ -146,14 +146,6 @@
         {
           "name": "Dream Supplier",
           "url": "https://open.spotify.com/artist/6Cqtx9fpxzggIMuKn0RGCp"
-        },
-        {
-          "name": "Baby Sleeps",
-          "url": "https://open.spotify.com/artist/48zEowASEXWsK6lgP1xotZ"
-        },
-        {
-          "name": "Background White Noise",
-          "url": "https://open.spotify.com/artist/7nixcnKd43u9a29ZMawfnh"
         }
       ],
       "date_added": "2025-02-26",
@@ -866,6 +858,24 @@
       "duration_ms": 151250,
       "name": "Black Noise Mind Mull",
       "url": "https://open.spotify.com/track/3ijpEiWNuUmARUHefxSOvd"
+    },
+    {
+      "album": {
+        "name": "Black Noise Nightfall",
+        "url": "https://open.spotify.com/album/4ZeRAnxm6CSKK6rnleleFo"
+      },
+      "artists": [
+        {
+          "name": "Lavia 6",
+          "url": "https://open.spotify.com/artist/1TaKbrkFRAq5YJoMieIMPR"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204950,
+      "name": "Black Noise Nightfall",
+      "url": "https://open.spotify.com/track/1Kuryixy6VkZZKgeMBIFlj"
     },
     {
       "album": {
@@ -2480,7 +2490,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-25",
       "duration_ms": 144805,
       "name": "MKG Black Noise",
       "url": "https://open.spotify.com/track/4OMvHV3bHcuiWVs7QY2JdB"

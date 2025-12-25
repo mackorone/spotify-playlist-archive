@@ -1,12 +1,12 @@
 {
   "description": "This is KURT. The essential tracks, all in one playlist.",
-  "num_followers": 31741,
+  "num_followers": 31743,
   "original_name": "This Is KURT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUiKAAAAAABvsLdtsWjvMS7ySUGoinhI",
+  "snapshot_id": "aUnbgAAAAACKzhWrui+mhoVVq8rRBQkc",
   "tracks": [
     {
       "added_at": null,
@@ -907,6 +907,22 @@
       "duration_ms": 158280,
       "name": "911",
       "url": "https://open.spotify.com/track/4DDqijaAJHApGIc2s9hxQW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Medio De Este Ruido En Vivo",
+        "url": "https://open.spotify.com/album/3Gx2vWuJTFw3u2sz4GC44K"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 307866,
+      "name": "Sin Ti - En Vivo",
+      "url": "https://open.spotify.com/track/3iau72rt7xItihgiYZfwrv"
     }
   ],
   "unique_name": "This Is KURT",

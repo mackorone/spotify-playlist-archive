@@ -1,6 +1,6 @@
 {
   "description": "Songs from \u201cENSEMBLE STARS!!\u201d \u00a9 2014-2019 Happy Elements K.K\n",
-  "num_followers": 62064,
+  "num_followers": 62062,
   "original_name": "ENSEMBLE STARS!!",
   "owner": {
     "name": "Spotify",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2025-10-28 15:00:03",
       "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba \u300eTRIP\u300f \u6d41\u661f\u968a",
+        "url": "https://open.spotify.com/album/6e3obtGSFhup7yHHHYksid"
+      },
+      "artists": [
+        {
+          "name": "\u6d41\u661f\u968a/\u5357\u96f2 \u9244\u864e(CV.\u4e2d\u5cf6 \u30e8\u30b7\u30ad)\u3001\u9ad8\u5cef \u7fe0(CV.\u6e21\u8fba \u62d3\u6d77)\u3001\u4ed9\u77f3 \u5fcd(CV.\u65b0\u7530 \u674f\u6a39)\u3001\u5b88\u6ca2 \u5343\u79cb(CV.\u5e06\u4e16 \u96c4\u4e00)\u3001\u6df1\u6d77 \u594f\u6c70(CV.\u897f\u5c71 \u5b8f\u592a\u6717)",
+          "url": "https://open.spotify.com/artist/0cvDPbtYkcYQsdy9MONamK"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "NEW DAYBREAK",
+      "url": "https://open.spotify.com/track/2iom8kZCmuUny8MfbH94VK"
+    },
+    {
+      "added_at": "2025-10-28 15:00:03",
+      "album": {
         "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01 \u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba UNDEAD",
         "url": "https://open.spotify.com/album/43lqUwR27wqSsy84ZFoySR"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 247000,
       "name": "My Sunshine, You\u2019re Moonlight",
       "url": "https://open.spotify.com/track/5qfvCRrYR5tXbas6BmgPsH"
-    },
-    {
-      "added_at": "2025-10-28 15:00:03",
-      "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01\u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba \u300eTRIP\u300f \u6d41\u661f\u968a",
-        "url": "https://open.spotify.com/album/6e3obtGSFhup7yHHHYksid"
-      },
-      "artists": [
-        {
-          "name": "\u6d41\u661f\u968a/\u5357\u96f2 \u9244\u864e(CV.\u4e2d\u5cf6 \u30e8\u30b7\u30ad)\u3001\u9ad8\u5cef \u7fe0(CV.\u6e21\u8fba \u62d3\u6d77)\u3001\u4ed9\u77f3 \u5fcd(CV.\u65b0\u7530 \u674f\u6a39)\u3001\u5b88\u6ca2 \u5343\u79cb(CV.\u5e06\u4e16 \u96c4\u4e00)\u3001\u6df1\u6d77 \u594f\u6c70(CV.\u897f\u5c71 \u5b8f\u592a\u6717)",
-          "url": "https://open.spotify.com/artist/0cvDPbtYkcYQsdy9MONamK"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "NEW DAYBREAK",
-      "url": "https://open.spotify.com/track/2iom8kZCmuUny8MfbH94VK"
     },
     {
       "added_at": "2025-10-28 15:00:03",

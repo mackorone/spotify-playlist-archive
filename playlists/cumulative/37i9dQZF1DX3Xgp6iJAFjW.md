@@ -4,7 +4,7 @@
 
 > Celebra con sazón\. A holiday playlist with tropical flavor.
 
-196 songs - 13 hr 19 min
+197 songs - 13 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Abreme La Puerta](https://open.spotify.com/track/1ZkZDxTpCQVy4dZCq4oTG8) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Lo Mejor De...Toño Rosario](https://open.spotify.com/album/475agtJk3uN4dSg38QKx5t) | 4:11 | 2023-08-16 |  |
 | [Adornemos los Salones](https://open.spotify.com/track/2nvVj2x4cwZBY8c6b2KYP1) | [Milly Quezada](https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ), [Manny Cruz](https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA), [Caribe Wonderland](https://open.spotify.com/artist/4CBkIh7uqfe3wKKywz1H0j) | [Adornemos los Salones](https://open.spotify.com/album/2mKwTr6J2IKyioMh2vNlfE) | 3:10 | 2022-12-18 | 2025-12-21 |
 | [Aguacero de Alegria](https://open.spotify.com/track/2ppNeOAANWOgQ4y5nu2dBH) | [Juan Jose](https://open.spotify.com/artist/4kYrybgGUDOoUaH7IVbj0p), [San Juan Habana](https://open.spotify.com/artist/7x7m0YAw5C1qyKFW9433e6), [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v) | [Navidad Boricua 2018](https://open.spotify.com/album/00rBrIYK1DRqji3doAcHms) | 4:44 | 2023-12-19 | 2024-10-19 |
-| [Aguinaldo Antillano](https://open.spotify.com/track/4cSb2YhIADVMTrJPjxIPBp) | [Sonora Ponceña](https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa) | [Rumbón Navideño](https://open.spotify.com/album/1uhQN6sBgd4dB7CiPofhNp) | 3:56 | 2025-12-05 |  |
+| [Aguinaldo Antillano](https://open.spotify.com/track/4cSb2YhIADVMTrJPjxIPBp) | [Sonora Ponceña](https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa) | [Rumbón Navideño](https://open.spotify.com/album/1uhQN6sBgd4dB7CiPofhNp) | 3:56 | 2025-12-05 | 2025-12-25 |
 | [Aguinaldo Navideño](https://open.spotify.com/track/3rFwtBGwM0kxJKGfh5TmXt) | [Bobby Cruz](https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4), [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc) | [Diciembre Colombiano](https://open.spotify.com/album/1k4QeqeqrihPty4qrv9Kqa) | 4:13 | 2023-10-13 |  |
 | [Aguinaldo Navideño](https://open.spotify.com/track/7v1iZfK6g60yDZQZFo4aDG) | [Kinito Mendez](https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT), [Frank Cruz](https://open.spotify.com/artist/43lbq6HwbuHXd1FB8BWzmR) | [Feliz Navidad](https://open.spotify.com/album/76WNnJhSCahBqknf9tT08w) | 4:44 | 2023-12-19 | 2025-11-15 |
 | [Aguinaldo Pa' To' el Año](https://open.spotify.com/track/6bjUIVJHbel6yl2zX5ozjt) | [Luisito Ayala Y La Puerto Rican Power](https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7) | [Fiesta en Navidad, Vol\. 3](https://open.spotify.com/album/1NqdX1biNNCwVdBDH0Jwil) | 4:39 | 2025-10-31 | 2025-11-23 |
@@ -106,6 +106,7 @@
 | [Gózate La Navidad](https://open.spotify.com/track/42RVNjHSOKCzWzGJygIO7s) | [Sin Fronteras](https://open.spotify.com/artist/4dAnxrHLMYZbfHKyyTr5nV), [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Gózate La Navidad](https://open.spotify.com/album/5DYT72bROztD8TEnneE5PC) | 4:20 | 2023-12-19 | 2024-04-19 |
 | [Hay Mucha Alegria](https://open.spotify.com/track/3sWxMI7ptGU5eq5ptxqrh1) | [Caña Brava](https://open.spotify.com/artist/14C1tQKnUFJiWwKAp2Umga) | [Navidad en Merengue \(Versión Editada\)](https://open.spotify.com/album/6iJ0AdHHXnP1L0gLhi4e1M) | 6:02 | 2023-11-17 |  |
 | [Jingle Bells](https://open.spotify.com/track/596IbfViVl4ZBgC9DeWLCu) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Alegría Alegría](https://open.spotify.com/album/5I0cycBD0AJlQkx5fcJHET) | 2:24 | 2022-11-25 | 2023-08-17 |
+| [Joy to the World](https://open.spotify.com/track/31NXIjQatVVF4J94tj6PAS) | [Tropical Fantasia](https://open.spotify.com/artist/0O0yOSJ6q8u6k3L15EmsEf) | [Salsa Christmas](https://open.spotify.com/album/3UCpUhi8mg7mXSyaLtMbSG) | 5:16 | 2025-12-05 |  |
 | [La Banda](https://open.spotify.com/track/0nzgxLkf876dcJIJWLDkUD) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Yomo Toro](https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E) | [Asalto Navideño: Vol\. 1 & 2](https://open.spotify.com/album/2m2jXwkrxiFkmfjYArZRQw) | 3:03 | 2022-12-18 |  |
 | [La Clave](https://open.spotify.com/track/5Ux94g63fF8uxUHaqDOi8t) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [La Clave](https://open.spotify.com/album/2X4174eeWM2B3aMPKUyk5S) | 2:17 | 2022-12-13 |  |
 | [La Dueña del Swing](https://open.spotify.com/track/3vCeDhrInX8te6SoaqZbvu) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Latino! Greatest Hits \- 56 Latin Top Hits \(Original Versions!\)](https://open.spotify.com/album/5YUPCo3qXbGL51X3XJ3TA5) | 4:19 | 2022-11-25 | 2022-12-19 |

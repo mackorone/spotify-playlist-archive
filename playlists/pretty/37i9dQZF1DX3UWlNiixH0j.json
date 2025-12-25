@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: Dos Monos",
-  "num_followers": 66127,
+  "num_followers": 66123,
   "original_name": "Edge!",
   "owner": {
     "name": "Spotify",
@@ -799,22 +799,6 @@
     {
       "added_at": "2025-12-23 15:39:11",
       "album": {
-        "name": "\u661f\u306e\u4e0b",
-        "url": "https://open.spotify.com/album/3PqW5RaycVsciS9BQhUSV6"
-      },
-      "artists": [
-        {
-          "name": "Enfants",
-          "url": "https://open.spotify.com/artist/03ZFwTgzAUndCMkWtb2PCn"
-        }
-      ],
-      "duration_ms": 206166,
-      "name": "\u661f\u306e\u4e0b",
-      "url": "https://open.spotify.com/track/5CJha8pwdV4XJhWGa7b2EA"
-    },
-    {
-      "added_at": "2025-12-23 15:39:11",
-      "album": {
         "name": "The Seeds",
         "url": "https://open.spotify.com/album/6Or1f5FYFrDsl02rlFLPsz"
       },
@@ -831,50 +815,18 @@
     {
       "added_at": "2025-12-23 15:39:11",
       "album": {
-        "name": "CYM",
-        "url": "https://open.spotify.com/album/3RVRFWPfplow0WTWgp0MLA"
+        "name": "\u661f\u306e\u4e0b",
+        "url": "https://open.spotify.com/album/3PqW5RaycVsciS9BQhUSV6"
       },
       "artists": [
         {
-          "name": "Billyrrom",
-          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+          "name": "Enfants",
+          "url": "https://open.spotify.com/artist/03ZFwTgzAUndCMkWtb2PCn"
         }
       ],
-      "duration_ms": 249090,
-      "name": "CYM",
-      "url": "https://open.spotify.com/track/5YxI2oZNEH9Axf77bdjOzE"
-    },
-    {
-      "added_at": "2025-12-23 15:39:11",
-      "album": {
-        "name": "HOLD ME",
-        "url": "https://open.spotify.com/album/68Wp95hv2qIBTSnRoavZ8Y"
-      },
-      "artists": [
-        {
-          "name": "Lavt",
-          "url": "https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn"
-        }
-      ],
-      "duration_ms": 192300,
-      "name": "HOLD ME",
-      "url": "https://open.spotify.com/track/3MopLcp26NisMAwZVl1CcE"
-    },
-    {
-      "added_at": "2025-12-23 15:39:11",
-      "album": {
-        "name": "Inc",
-        "url": "https://open.spotify.com/album/05DGT91gvVgf8lUdkUzAPV"
-      },
-      "artists": [
-        {
-          "name": "FCO.",
-          "url": "https://open.spotify.com/artist/4J9kLpFakm3b9gYfdFfkAq"
-        }
-      ],
-      "duration_ms": 201490,
-      "name": "BAND A",
-      "url": "https://open.spotify.com/track/6h9kCwUpd3hKWZ5Huioi3M"
+      "duration_ms": 206166,
+      "name": "\u661f\u306e\u4e0b",
+      "url": "https://open.spotify.com/track/5CJha8pwdV4XJhWGa7b2EA"
     },
     {
       "added_at": "2025-12-23 15:39:11",
@@ -895,6 +847,70 @@
     {
       "added_at": "2025-12-23 15:39:11",
       "album": {
+        "name": "HOLD ME",
+        "url": "https://open.spotify.com/album/68Wp95hv2qIBTSnRoavZ8Y"
+      },
+      "artists": [
+        {
+          "name": "Lavt",
+          "url": "https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn"
+        }
+      ],
+      "duration_ms": 192300,
+      "name": "HOLD ME",
+      "url": "https://open.spotify.com/track/3MopLcp26NisMAwZVl1CcE"
+    },
+    {
+      "added_at": "2025-12-23 15:39:11",
+      "album": {
+        "name": "CYM",
+        "url": "https://open.spotify.com/album/3RVRFWPfplow0WTWgp0MLA"
+      },
+      "artists": [
+        {
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+        }
+      ],
+      "duration_ms": 249090,
+      "name": "CYM",
+      "url": "https://open.spotify.com/track/5YxI2oZNEH9Axf77bdjOzE"
+    },
+    {
+      "added_at": "2025-12-23 15:39:11",
+      "album": {
+        "name": "Inc",
+        "url": "https://open.spotify.com/album/05DGT91gvVgf8lUdkUzAPV"
+      },
+      "artists": [
+        {
+          "name": "FCO.",
+          "url": "https://open.spotify.com/artist/4J9kLpFakm3b9gYfdFfkAq"
+        }
+      ],
+      "duration_ms": 201490,
+      "name": "BAND A",
+      "url": "https://open.spotify.com/track/6h9kCwUpd3hKWZ5Huioi3M"
+    },
+    {
+      "added_at": "2025-12-23 15:39:11",
+      "album": {
+        "name": "All About McGuffin",
+        "url": "https://open.spotify.com/album/2G5FsWdPfY3zQKRUncRIa4"
+      },
+      "artists": [
+        {
+          "name": "mei ehara",
+          "url": "https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF"
+        }
+      ],
+      "duration_ms": 209521,
+      "name": "After that...",
+      "url": "https://open.spotify.com/track/3h4VFjkuKs70dIXBCb5CcS"
+    },
+    {
+      "added_at": "2025-12-23 15:39:11",
+      "album": {
         "name": "SWEATER",
         "url": "https://open.spotify.com/album/4SbWJf19adLMN4MWDESLpq"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 254498,
       "name": "SWEATER",
       "url": "https://open.spotify.com/track/6VsWWYfyFcShvH9l59TICg"
-    },
-    {
-      "added_at": "2025-12-23 15:39:11",
-      "album": {
-        "name": "Torie",
-        "url": "https://open.spotify.com/album/0I4UKbyjmRRmoyYyUVO7yG"
-      },
-      "artists": [
-        {
-          "name": "Billyrrom",
-          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
-        }
-      ],
-      "duration_ms": 234380,
-      "name": "Torie",
-      "url": "https://open.spotify.com/track/1DFpix0qpCbbfetL42f5zj"
     },
     {
       "added_at": "2025-12-23 15:39:11",
@@ -943,18 +943,18 @@
     {
       "added_at": "2025-12-23 15:39:11",
       "album": {
-        "name": "All About McGuffin",
-        "url": "https://open.spotify.com/album/2G5FsWdPfY3zQKRUncRIa4"
+        "name": "Torie",
+        "url": "https://open.spotify.com/album/0I4UKbyjmRRmoyYyUVO7yG"
       },
       "artists": [
         {
-          "name": "mei ehara",
-          "url": "https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF"
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
         }
       ],
-      "duration_ms": 209521,
-      "name": "After that...",
-      "url": "https://open.spotify.com/track/3h4VFjkuKs70dIXBCb5CcS"
+      "duration_ms": 234380,
+      "name": "Torie",
+      "url": "https://open.spotify.com/track/1DFpix0qpCbbfetL42f5zj"
     },
     {
       "added_at": "2025-12-23 15:39:11",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2025-12-23 15:39:11",
       "album": {
-        "name": "Hold Me Tight",
-        "url": "https://open.spotify.com/album/0SoA6rouuRtGQ2nTtggs9X"
-      },
-      "artists": [
-        {
-          "name": "Billyrrom",
-          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
-        }
-      ],
-      "duration_ms": 188659,
-      "name": "Hold Me Tight",
-      "url": "https://open.spotify.com/track/0Se4LorkOV3w3LslTd286t"
-    },
-    {
-      "added_at": "2025-12-23 15:39:11",
-      "album": {
         "name": "LOST AND FOUND",
         "url": "https://open.spotify.com/album/26ZgfJUzodn8bwZNmY6xhu"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 245223,
       "name": "\u201cYou're the Best Person in This World\u201d",
       "url": "https://open.spotify.com/track/0vb4RHCjcytUzXJF2Vwykh"
+    },
+    {
+      "added_at": "2025-12-23 15:39:11",
+      "album": {
+        "name": "Hold Me Tight",
+        "url": "https://open.spotify.com/album/0SoA6rouuRtGQ2nTtggs9X"
+      },
+      "artists": [
+        {
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+        }
+      ],
+      "duration_ms": 188659,
+      "name": "Hold Me Tight",
+      "url": "https://open.spotify.com/track/0Se4LorkOV3w3LslTd286t"
     },
     {
       "added_at": "2025-12-23 15:39:11",

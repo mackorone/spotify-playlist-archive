@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZWvDTe.md) - [plain]
 
 > This is Sarkodie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,693 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,699 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZWvDTe.md) - [plain]
 | 47 | [Oluwa Ni \(Wemi You\)](https://open.spotify.com/track/4mZkl4BhKlzkYnqgYweg1W) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Oluwa Ni \(Wemi You\)](https://open.spotify.com/album/2gjBzVBVGgBun17xS9PJqz) | 3:17 |
 | 48 | [Saa Okodie No](https://open.spotify.com/track/5Pq1K7dG9syG0sVrn2iZwT) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Obrafour](https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG) | [Rapperholic](https://open.spotify.com/album/2LBG3MIAzKOQY17zmkC7w8) | 4:08 |
 | 49 | [Rollies and Cigars](https://open.spotify.com/track/2FgCEvRPl5Fsw3DxQXc9jE) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [No Pressure](https://open.spotify.com/album/6DZCzwNsgp4cFKdPnqnL0j) | 3:27 |
-| 50 | [Homicide](https://open.spotify.com/track/7apx56XH17e6lBtG2bJ7Mt) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [La Même Gang](https://open.spotify.com/artist/6VmgrXYlQLQ13VxiksWSp6) | [Homicide](https://open.spotify.com/album/48AoFYGD47IgoGp0EA3x81) | 3:03 |
+| 50 | [Sweetio \- Club Mix](https://open.spotify.com/track/7e7IvyoTZzgTc0jUniZqGe) | [Raquel](https://open.spotify.com/artist/4tNisoCnGaG5zDiimBtqPZ), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Best of Both Worlds](https://open.spotify.com/album/6t7kXOwYuZUKRnwB6mMFyC) | 3:56 |
 
-Snapshot ID: `aUiKAAAAAACJzbS0a0XFNqHviHxk/mX2`
+Snapshot ID: `aUnbgAAAAABjG1A8A8K38WdQm5dDt5pG`

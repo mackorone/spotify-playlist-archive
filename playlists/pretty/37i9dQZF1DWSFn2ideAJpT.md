@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFn2ideAJpT.md) - [plain]
 
 > Crystal Clear Solfeggio Frequencies 963 Hertz
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,307 likes - 67 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,385 likes - 67 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFn2ideAJpT.md) - [plain]
 | 66 | [Sahasrara](https://open.spotify.com/track/3LQ5r6MRxZExt0yPNlrE1X) | [Fred Westra](https://open.spotify.com/artist/3xoBnkqEXHqY8Kl6s2oWHG) | [Your Inner Truth](https://open.spotify.com/album/03t6k8klrxcAPZeRcZl9hK) | 4:23 |
 | 67 | [Higher Self 963 Hz](https://open.spotify.com/track/36c9hZ9vpMyKbHbg8geYvL) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Solfeggio Frequencies: Aligning for Change](https://open.spotify.com/album/2F3sPtIXbBmr6cknoZAWLE) | 3:16 |
 
-Snapshot ID: `AAAAABJWsixFHUfvN7cbMN/oOTbckBqp`
+Snapshot ID: `AAAAAHWXqDtOdbdRUWLzVegycULqDbyD`

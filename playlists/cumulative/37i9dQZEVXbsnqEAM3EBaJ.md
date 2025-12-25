@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-3,004 songs - 8 day 10 hr 7 min
+3,005 songs - 8 day 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2236,7 +2236,8 @@
 | [Sleep Now In the Fire \- Live at 2000 Democratic National Convention](https://open.spotify.com/track/2d99olpB7A6w0Z0iAPy5eG) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Democratic National Convention 2000 \(Live\)](https://open.spotify.com/album/6iIDS6pR8YMyhZi1UrGb2e) | 3:56 | 2024-11-08 | 2024-11-17 |
 | [Sleep Now In The Fire \- Spotify Singles](https://open.spotify.com/track/5mMjqL7JI1BQQWBVFevFsN) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Spotify Singles](https://open.spotify.com/album/37mPOJFmLSgqIE90CdAsT6) | 3:20 | 2025-03-28 | 2025-04-28 |
 | [Sleepers \- Live](https://open.spotify.com/track/3qX7X05cW0SUaFGQ3842Lp) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Sleepers / Translating The Name \(Live\)](https://open.spotify.com/album/1YZ7UDGuD8tJdkkhXpChdU) | 3:15 | 2024-04-12 | 2024-04-17 |
-| [Sleepless Nights \(Mixed\)](https://open.spotify.com/track/5xF71XQ0N7PdVbIKqu7grb) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Libby Whitehouse](https://open.spotify.com/artist/0myPBTBG3ODlKVBEf5OSBe) | [Armada Music Year Mix 2025](https://open.spotify.com/album/3mjLyc6crufVyoieu98fO8) | 1:09 | 2025-12-19 |  |
+| [Sleepless Nights \(ASOT 1256\)](https://open.spotify.com/track/3va4BCUT9TqzuWm8JnaoDv) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Libby Whitehouse](https://open.spotify.com/artist/0myPBTBG3ODlKVBEf5OSBe) | [ASOT 1256 \- A State of Trance Episode 1256 \(Top 50 of 2025\)](https://open.spotify.com/album/6raJDWik4x9iH23IdGsqhW) | 3:15 | 2025-12-19 |  |
+| [Sleepless Nights \(Mixed\)](https://open.spotify.com/track/5xF71XQ0N7PdVbIKqu7grb) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Libby Whitehouse](https://open.spotify.com/artist/0myPBTBG3ODlKVBEf5OSBe) | [Armada Music Year Mix 2025](https://open.spotify.com/album/3mjLyc6crufVyoieu98fO8) | 1:09 | 2025-12-19 | 2025-12-25 |
 | [Sleepless Nights \(Mixed\)](https://open.spotify.com/track/7njA7Y8dF4abRZhGTWFwsq) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Libby Whitehouse](https://open.spotify.com/artist/0myPBTBG3ODlKVBEf5OSBe) | [A State of Trance Year Mix 2025 \(Mixed by Armin van Buuren\)](https://open.spotify.com/album/11hKL1GmHT30riBDSoNLoE) | 1:21 | 2025-12-12 | 2025-12-20 |
 | [Sleepwalkers Dream \- 2024 Version](https://open.spotify.com/track/3vocMkAyzNsan5lkNxMTqY) | [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI) | [Dance with the Devil](https://open.spotify.com/album/7oGGeeRKCmnuqWYld8KShX) | 4:25 | 2024-11-29 | 2024-12-06 |
 | [Slippin’ And Slidin’](https://open.spotify.com/track/3QDwApREg41d9lytBtW9iT) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Power To The People \(Home Jam\)](https://open.spotify.com/album/4nB3cheT8SHTLRjCdHbiMS) | 0:56 | 2025-11-21 | 2025-12-01 |

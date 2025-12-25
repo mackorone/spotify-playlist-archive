@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-309 songs - 14 hr 51 min
+311 songs - 14 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Espira Naturesque](https://open.spotify.com/track/4rpZd4h0WnZqDr67kLE3KR) | [Miriam van Steeg](https://open.spotify.com/artist/5w21WblmOUdUPdA4YgBAnu) | [Espira](https://open.spotify.com/album/2lnksrCViusZPlkyVbxDJJ) | 3:20 | 2023-04-28 | 2025-05-22 |
 | [Essence \(Soundbath\)](https://open.spotify.com/track/2eGtkq4fnMt2kw1lfvm8ZN) | [Devon Fall](https://open.spotify.com/artist/7dUjQYaR5Qa3fS8w5CN3pN) | [Essence](https://open.spotify.com/album/6Y5IvTe3fK2LufN9cssA5D) | 2:50 | 2023-05-26 | 2025-11-03 |
 | [Essence of the Forest](https://open.spotify.com/track/6HZBfIcSbWg80V7JOPSsA5) | [Adelina Somerset](https://open.spotify.com/artist/3dsMw7dDZ3c6CsdLsYBbLX) | [Essence of the Forest](https://open.spotify.com/album/1TOKTINDh4DrvQttXSrQKN) | 2:40 | 2024-07-19 | 2025-05-22 |
+| [Eternally](https://open.spotify.com/track/6ee3Zz8m66BxfnB4ARUWSA) | [Norröga](https://open.spotify.com/artist/6k2rfOW9DnWyV4cKXkfjMw) | [Eternally](https://open.spotify.com/album/4ZXUEUdcDJEqKwdtXFxojg) | 3:04 | 2025-12-17 |  |
 | [Eternals](https://open.spotify.com/track/1LZrsDo4MJaDPlOUvqp61c) | [Sweep Bliss](https://open.spotify.com/artist/55CnRvpF9JA5WhyNPemvY9) | [Eternals](https://open.spotify.com/album/6fmoSPgmDhT0vfblMgUT4z) | 2:14 | 2023-04-28 | 2025-11-03 |
 | [Eutony](https://open.spotify.com/track/5HAdowEFhhgJw4q82GFDjt) | [Montbretia](https://open.spotify.com/artist/7A9r37hE6RLqltWm7fgZOA) | [Eutony](https://open.spotify.com/album/07AlM5Zxu1B4WYKLUtoZlP) | 2:38 | 2024-05-01 |  |
 | [Everest](https://open.spotify.com/track/0zEsXbDQbh8dFoJ07XAy5Y) | [Hans Heeler](https://open.spotify.com/artist/6zzRaTxXyx1wRJH5AAXkTV) | [Everest](https://open.spotify.com/album/0JfmGuV9OldmMVK1EYYoL9) | 2:27 | 2023-08-25 |  |
@@ -110,6 +111,7 @@
 | [Fluere Ranae](https://open.spotify.com/track/6ZxbHu5i0VEAy4Mied3gBL) | [Drishti](https://open.spotify.com/artist/5veQV3vFfmMaOm0gTkc1N1) | [Fluere Ranae](https://open.spotify.com/album/1nKaP1aHcqJgETJeQ2mV4c) | 2:57 | 2023-06-30 | 2025-10-16 |
 | [Follow the Creek](https://open.spotify.com/track/1MicbuqBTieG0Z2bXhjJZq) | [Credenza](https://open.spotify.com/artist/4ke0i6kG8o2rTxZzoRaoZ5) | [Follow the Creek](https://open.spotify.com/album/651sLcIRdIJLBUuC96Iy4l) | 2:58 | 2023-04-28 | 2024-10-02 |
 | [Forest Breath](https://open.spotify.com/track/725gBK4qfI7RizSxTeXduz) | [Lorien Sky](https://open.spotify.com/artist/5CDWDRWvOD7LppgccIL5mC) | [Forest Breath](https://open.spotify.com/album/6mD6RVEoDX5YGzoaCbawzt) | 3:12 | 2025-03-19 |  |
+| [Forest Exhale](https://open.spotify.com/track/1RXuTujPDeyzsbVwDYcXBx) | [Nature Yami](https://open.spotify.com/artist/2KPdst7c4yYgtB1aLZ4c0P) | [Forest Exhale](https://open.spotify.com/album/25p5MmFvybpFouz4u788I3) | 2:23 | 2025-12-17 |  |
 | [Forest Lake](https://open.spotify.com/track/5ohf0BGMaCW8SszLDPJL0j) | [Adam By Nature](https://open.spotify.com/artist/24FFkUJXOJMxw4WRVlLng1) | [Forest Lake](https://open.spotify.com/album/6hiog6wDIUkTTFGo6rbe9p) | 3:49 | 2023-04-28 | 2025-05-22 |
 | [Forest Meditation](https://open.spotify.com/track/7rbdKNARg0eWP3H1bvkZbi) | [Naturalists](https://open.spotify.com/artist/1sp0zRK6eY8NaAYAjBJoAf) | [Forest Meditation](https://open.spotify.com/album/3xkbtsbWXCVPsuJCORRtTO) | 2:34 | 2023-04-28 | 2024-10-02 |
 | [Forest Of The Mind](https://open.spotify.com/track/36o3ElEod9MG2laE3avJnu) | [Dylan Charbeneau](https://open.spotify.com/artist/2VRrzTvF7rhgjNGUXLxFSk) | [Forest Of The Mind](https://open.spotify.com/album/0jBlrZ2KNQ4MwJvEw46Tqy) | 3:54 | 2024-12-04 |  |
@@ -235,7 +237,7 @@
 | [Sanctuary](https://open.spotify.com/track/5iBqs5HtVBQZCR7qJHQAwC) | [Himalayan Meditation](https://open.spotify.com/artist/2XMxTDifaHaXbbKHC1AmvH) | [Sanctuary](https://open.spotify.com/album/6k4tNv9oH6xPVcKwt3foN2) | 3:03 | 2023-04-28 | 2024-04-02 |
 | [Sandesh](https://open.spotify.com/track/3kpkB2326UhsSncNxiVsUC) | [Ajay Samra](https://open.spotify.com/artist/4FxL7eKB7Uz1rWIpMOC6rW) | [Sandesh](https://open.spotify.com/album/5rsPOyuIJrmFBxESU4FN55) | 3:09 | 2023-04-28 | 2024-06-04 |
 | [Sapphire Tide](https://open.spotify.com/track/2jh0KjuwnfuVF5VoJDcU6p) | [Elaifas](https://open.spotify.com/artist/4y8E0sPmztHzvNUnVIQVot) | [Sapphire Tide](https://open.spotify.com/album/2Ecs1Bo7o3l2ilNlsGcgs9) | 2:23 | 2025-10-15 |  |
-| [Sauna](https://open.spotify.com/track/7Gk9LBXbdcM5jlUy4X3EEg) | [Xeuphoria](https://open.spotify.com/artist/6Sbjh6vCJQE5eQTQvYoksJ) | [Sauna](https://open.spotify.com/album/3cHPJVrhngu3Ptlm3GYHWB) | 3:31 | 2025-10-15 |  |
+| [Sauna](https://open.spotify.com/track/7Gk9LBXbdcM5jlUy4X3EEg) | [Xeuphoria](https://open.spotify.com/artist/6Sbjh6vCJQE5eQTQvYoksJ) | [Sauna](https://open.spotify.com/album/3cHPJVrhngu3Ptlm3GYHWB) | 3:31 | 2025-10-15 | 2025-12-25 |
 | [Seeker](https://open.spotify.com/track/5j6bLwlE7uTCbjtQedZrle) | [Wanyes](https://open.spotify.com/artist/7FiGGXixwRFNO4UHQ5GTlC) | [Seeker](https://open.spotify.com/album/1rqGqD4r5VYrX2VWacttTp) | 2:32 | 2025-07-09 |  |
 | [Sense](https://open.spotify.com/track/6NCysERXVV7R2ot0MXsEOV) | [Waves of Life](https://open.spotify.com/artist/26zGB9qZrnUkREvqTaddnd) | [Sense](https://open.spotify.com/album/42kJPHsjCUyjlDvkGKvR8B) | 3:08 | 2024-06-03 | 2025-09-11 |
 | [Sequoia Peace \(Forest\)](https://open.spotify.com/track/733XPsgLvmxXbBvGmtHbc0) | [Cypress West](https://open.spotify.com/artist/1hDe9iKiHylj0C0wdXz3ZL) | [Sequoia Peace \(Forest\)](https://open.spotify.com/album/02rCoQAI3AFIJIsG4Cx8u7) | 2:54 | 2024-04-01 | 2025-10-16 |
@@ -276,7 +278,7 @@
 | [The Enchanted Forest](https://open.spotify.com/track/20AEQnFt9dyIwCa8Cpqhkv) | [Light Channel](https://open.spotify.com/artist/1QsSs3Pr4rV3E5ypP9Arda) | [The Enchanted Forest](https://open.spotify.com/album/4TSyvNaMQSh2DDn1kaSMcU) | 3:12 | 2023-04-28 |  |
 | [The Nature of Night](https://open.spotify.com/track/3aBPxsGyqG7GesgQwSmCPP) | [Oliver Hoffman](https://open.spotify.com/artist/317F1iW6iH9zh8WaLoI1d7) | [The Nature of Night](https://open.spotify.com/album/7hg2a7EBaV6LABrr4ZfXTM) | 3:13 | 2023-04-28 | 2025-03-06 |
 | [The Stream And It's Rippling Beauty](https://open.spotify.com/track/4Em82D0AnHc37y5m714r94) | [State Of Tranquility](https://open.spotify.com/artist/3MF7nYOg59ZVk4hYtJuIwU) | [The Stream And Its Rippling Beauty](https://open.spotify.com/album/71QnkxSIsoSUJhhN06hB6U) | 2:46 | 2025-10-24 |  |
-| [The Tone Of Willingness Nature](https://open.spotify.com/track/2GgRVa0s3OhSZ49dOlfM21) | [unvrsl frqncy](https://open.spotify.com/artist/57MWtuK2Td08YgvBJg2EQm) | [The Tone Of Willingness](https://open.spotify.com/album/5TMPEcTcOqawK7lYsLsSh3) | 2:44 | 2023-04-28 |  |
+| [The Tone Of Willingness Nature](https://open.spotify.com/track/2GgRVa0s3OhSZ49dOlfM21) | [unvrsl frqncy](https://open.spotify.com/artist/57MWtuK2Td08YgvBJg2EQm) | [The Tone Of Willingness](https://open.spotify.com/album/5TMPEcTcOqawK7lYsLsSh3) | 2:44 | 2023-04-28 | 2025-12-25 |
 | [The Tranquil Waterfall](https://open.spotify.com/track/4lAylrArN2GyYLm8hTILhK) | [Nature Pulse](https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0) | [The Tranquil Waterfall](https://open.spotify.com/album/5iabwBF618d1vCXeYThoLv) | 2:24 | 2023-04-28 | 2025-05-22 |
 | [The Universe Whitin \(Nature Sounds\)](https://open.spotify.com/track/3LK95mRAhmD7mSDKj1qDQq) | [Prophétique](https://open.spotify.com/artist/4uhsb1EuCyjawRUy9RXt6v) | [The Universe Within](https://open.spotify.com/album/0XVYHXKxNHRGjUGfUN8ukA) | 2:13 | 2023-04-28 |  |
 | [The Unknown](https://open.spotify.com/track/2Ty0lPGjFDvIKKwRuZqGg4) | [Circle Soda](https://open.spotify.com/artist/3g9nH3mgwpI5wuHkeio1vK) | [The Unknown](https://open.spotify.com/album/4x3f30IIvpiiTN5sXEPWV1) | 2:48 | 2023-04-28 | 2025-05-22 |

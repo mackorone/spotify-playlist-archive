@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Uv7i7ODBAM.md) - [plain]
 
 > Enjoy music from "My Hero Academia"! ©堀越耕平／集英社・僕のヒーローアカデミア製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,774 likes - 94 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,959 likes - 94 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Uv7i7ODBAM.md) - [plain]
 | 93 | [ワン･フォー･オールVSオール･フォー･ワン](https://open.spotify.com/track/2Q6ulRLnYu0BHzTltcs3zV) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [『僕のヒーローアカデミア』2018 オリジナルサウンドトラック](https://open.spotify.com/album/09rMYCfyxxknNP9NmrqmNw) | 3:07 |
 | 94 | [My Hero Academia \-JAPAN MIX\-](https://open.spotify.com/track/15SZeoN1jUZu3tubrLvQhK) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [有精卵<You Say Run>/My Hero Academia](https://open.spotify.com/album/4dXuRMQeqTdVG5X2CLpOYU) | 3:26 |
 
-Snapshot ID: `AAAAADISHcF3l2RBSk9VbnXGngBzWf2r`
+Snapshot ID: `AAAAANOIQ0xtJCUzEOspHzAez83p1Euv`

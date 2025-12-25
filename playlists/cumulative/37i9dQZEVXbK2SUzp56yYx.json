@@ -10369,6 +10369,24 @@
     },
     {
       "album": {
+        "name": "Volume One",
+        "url": "https://open.spotify.com/album/4eeQtydrFe5HEIgzNkX4S7"
+      },
+      "artists": [
+        {
+          "name": "She & Him",
+          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+        }
+      ],
+      "date_added": "2025-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170333,
+      "name": "I Thought I Saw Your Face Today",
+      "url": "https://open.spotify.com/track/0myRViRgmQ3J8izICXEAVO"
+    },
+    {
+      "album": {
         "name": "I Want Things to Be Beautiful",
         "url": "https://open.spotify.com/album/6BUncqeU2tGNTouj7DZCWH"
       },
@@ -11012,7 +11030,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-25",
       "duration_ms": 279426,
       "name": "It Can't Come Quickly Enough",
       "url": "https://open.spotify.com/track/0J2KQqE35fDMlc0nawRhbK"
@@ -11030,7 +11048,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-21",
+      "date_removed": null,
       "duration_ms": 279426,
       "name": "It Can't Come Quickly Enough",
       "url": "https://open.spotify.com/track/533TLnqopf6VwOlWqEuAdL"
@@ -15544,6 +15562,24 @@
     {
       "album": {
         "name": "The Reminder",
+        "url": "https://open.spotify.com/album/27Y2wm3WcFThQocgjLI5wF"
+      },
+      "artists": [
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "date_added": "2025-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228360,
+      "name": "My Moon My Man",
+      "url": "https://open.spotify.com/track/4fQVQKIiidREPI0MhFEuDn"
+    },
+    {
+      "album": {
+        "name": "The Reminder",
         "url": "https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z"
       },
       "artists": [
@@ -15554,7 +15590,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-25",
       "duration_ms": 228360,
       "name": "My Moon My Man",
       "url": "https://open.spotify.com/track/5FFQbvn7055P1DvgJDdCBP"
@@ -18296,7 +18332,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-25",
       "duration_ms": 201853,
       "name": "Radio",
       "url": "https://open.spotify.com/track/6jppHdy8EW9ghHlOCpGBEr"
@@ -28160,7 +28196,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-25",
       "duration_ms": 201857,
       "name": "\u0412\u0441\u0451 \u043f\u0440\u043e\u0441\u0442\u043e",
       "url": "https://open.spotify.com/track/1gsxHL7m87GLcdn0QpkH3p"
@@ -28302,7 +28338,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-25",
       "duration_ms": 141971,
       "name": "\u0413\u0434\u0435 \u0431\u044b \u044f \u043d\u0438 \u0431\u044b\u043b",
       "url": "https://open.spotify.com/track/6KJ63CHxX3U4E9cpgd4gh5"
@@ -29958,7 +29994,7 @@
       ],
       "date_added": "2025-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-25",
       "duration_ms": 185637,
       "name": "\u0416\u0438\u0432\u0430\u044f \u0432\u043e\u0434\u0430",
       "url": "https://open.spotify.com/track/3UESXHR0xmFsHH5TpgXlzO"
@@ -36026,7 +36062,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-24",
+      "date_removed": null,
       "duration_ms": 142322,
       "name": "\u041f\u0435\u0441\u043a\u0438 \u0432\u0440\u0435\u043c\u0435\u043d\u0438",
       "url": "https://open.spotify.com/track/1hACcMlgZ1V9hvcgEzSMxK"
@@ -36730,7 +36766,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-24",
+      "date_removed": null,
       "duration_ms": 115098,
       "name": "\u041f\u041e\u0421\u0422\u0420\u041e\u042e \u0413\u041e\u0420\u041e\u0414 \u041c\u0415\u0427\u0422\u042b",
       "url": "https://open.spotify.com/track/2KgMlIgZdZwuupmBcLuMgA"
@@ -37550,6 +37586,24 @@
       "duration_ms": 209999,
       "name": "\u0420\u0430\u0441\u0441\u043a\u0430\u0436\u0438 \u043c\u043d\u0435 \u043e \u043b\u044e\u0431\u0432\u0438",
       "url": "https://open.spotify.com/track/79RxMnOk4a26M8jXqsQdtG"
+    },
+    {
+      "album": {
+        "name": "\u0420\u0430\u0441\u0441\u043a\u0430\u0436\u0438, \u0421\u043d\u0435\u0433\u0443\u0440\u043e\u0447\u043a\u0430",
+        "url": "https://open.spotify.com/album/2O6oQMAzFcv1Wl9EdGWQ7t"
+      },
+      "artists": [
+        {
+          "name": "Sasha Komovich",
+          "url": "https://open.spotify.com/artist/3mMvT7DeT6lG41ZiVPpNVV"
+        }
+      ],
+      "date_added": "2025-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119960,
+      "name": "\u0420\u0430\u0441\u0441\u043a\u0430\u0436\u0438, \u0421\u043d\u0435\u0433\u0443\u0440\u043e\u0447\u043a\u0430",
+      "url": "https://open.spotify.com/track/5q13Rvam9MekIeJitERIid"
     },
     {
       "album": {
@@ -39905,6 +39959,24 @@
     },
     {
       "album": {
+        "name": "\u0422\u0435\u043b\u043e - \u0443\u0431\u0438\u0439\u0446\u0430",
+        "url": "https://open.spotify.com/album/5fxrnffsWQVoQeg1PvtBzQ"
+      },
+      "artists": [
+        {
+          "name": "\u0418\u0433\u043d\u0430\u0442\u0438\u0439 \u0412\u0438\u043d\u0442\u0443\u0440\u043e\u0432",
+          "url": "https://open.spotify.com/artist/57YgeohDkbDOIrH9hOjDkS"
+        }
+      ],
+      "date_added": "2025-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173040,
+      "name": "\u0422\u0435\u043b\u043e - \u0443\u0431\u0438\u0439\u0446\u0430",
+      "url": "https://open.spotify.com/track/3mwHmCxMATylKp2ELRGrv0"
+    },
+    {
+      "album": {
         "name": "\u041e\u0442\u0432\u0440\u0430\u0442\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0435 \u0445\u0438\u0442\u044b",
         "url": "https://open.spotify.com/album/1ahZTequ4P15LZrvEp2aCz"
       },
@@ -41212,7 +41284,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-25",
       "duration_ms": 147745,
       "name": "\u0425\u041e\u0422\u0415\u041b\u0410 \u0426\u0415\u041b\u041e\u0412\u0410\u0422\u042c",
       "url": "https://open.spotify.com/track/1lW50Wd6RYQvuvRDbRWTKp"

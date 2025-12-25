@@ -1387,6 +1387,28 @@
     },
     {
       "album": {
+        "name": "FUTURE (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7viVuWdAD1wGgu0f6jn7GH"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        },
+        {
+          "name": "James Newman",
+          "url": "https://open.spotify.com/artist/4iaTgZRy5aVnImDyRJn61n"
+        }
+      ],
+      "date_added": "2025-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191219,
+      "name": "Head Up",
+      "url": "https://open.spotify.com/track/6jXZEFnDkBiY4fZSkgKTe4"
+    },
+    {
+      "album": {
         "name": "FUTURE",
         "url": "https://open.spotify.com/album/0zysDjrxBtO6sb2pOJyxNt"
       },
@@ -1402,7 +1424,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-25",
       "duration_ms": 191219,
       "name": "Head Up (feat. James Newman)",
       "url": "https://open.spotify.com/track/4t3mg02RDihx96FOBuwL9H"

@@ -1,12 +1,12 @@
 {
   "description": "This is Rod Wave. The essential tracks, all in one playlist.",
-  "num_followers": 246171,
+  "num_followers": 246232,
   "original_name": "This Is Rod Wave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUiKAAAAAADr7k6AA81q5dUr1lQF9ju/",
+  "snapshot_id": "aUnbgAAAAAAkstp3jx6V6liDXk1s5mnD",
   "tracks": [
     {
       "added_at": null,
@@ -735,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SoulFly",
+        "url": "https://open.spotify.com/album/7q5xGp0tEnJ8s1ZumqiRSk"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 185073,
+      "name": "OMDB",
+      "url": "https://open.spotify.com/track/7Aece36KsB5z5EskkAoFp4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Voicemail (feat. Rod Wave)",
         "url": "https://open.spotify.com/album/1lxBTSaU3PS7NqFuN5cIA6"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 272785,
       "name": "Voicemail (feat. Rod Wave)",
       "url": "https://open.spotify.com/track/4ROfJ7JAeConXVWe6S3Iyv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SoulFly",
-        "url": "https://open.spotify.com/album/7q5xGp0tEnJ8s1ZumqiRSk"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 185073,
-      "name": "OMDB",
-      "url": "https://open.spotify.com/track/7Aece36KsB5z5EskkAoFp4"
     },
     {
       "added_at": null,

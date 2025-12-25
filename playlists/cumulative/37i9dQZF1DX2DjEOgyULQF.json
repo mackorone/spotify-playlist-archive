@@ -1463,6 +1463,24 @@
     },
     {
       "album": {
+        "name": "Eternally",
+        "url": "https://open.spotify.com/album/4ZXUEUdcDJEqKwdtXFxojg"
+      },
+      "artists": [
+        {
+          "name": "Norr\u00f6ga",
+          "url": "https://open.spotify.com/artist/6k2rfOW9DnWyV4cKXkfjMw"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184468,
+      "name": "Eternally",
+      "url": "https://open.spotify.com/track/6ee3Zz8m66BxfnB4ARUWSA"
+    },
+    {
+      "album": {
         "name": "Eternals",
         "url": "https://open.spotify.com/album/6fmoSPgmDhT0vfblMgUT4z"
       },
@@ -1838,6 +1856,24 @@
       "duration_ms": 192480,
       "name": "Forest Breath",
       "url": "https://open.spotify.com/track/725gBK4qfI7RizSxTeXduz"
+    },
+    {
+      "album": {
+        "name": "Forest Exhale",
+        "url": "https://open.spotify.com/album/25p5MmFvybpFouz4u788I3"
+      },
+      "artists": [
+        {
+          "name": "Nature Yami",
+          "url": "https://open.spotify.com/artist/2KPdst7c4yYgtB1aLZ4c0P"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143844,
+      "name": "Forest Exhale",
+      "url": "https://open.spotify.com/track/1RXuTujPDeyzsbVwDYcXBx"
     },
     {
       "album": {
@@ -4110,7 +4146,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-25",
       "duration_ms": 211200,
       "name": "Sauna",
       "url": "https://open.spotify.com/track/7Gk9LBXbdcM5jlUy4X3EEg"
@@ -4848,7 +4884,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-25",
       "duration_ms": 164202,
       "name": "The Tone Of Willingness Nature",
       "url": "https://open.spotify.com/track/2GgRVa0s3OhSZ49dOlfM21"

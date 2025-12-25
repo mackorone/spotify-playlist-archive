@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from Anuv Jain, Sonu Nigam,  Arijit Singh and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,824 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,840 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Inaam](https://open.spotify.com/track/52Zf1kNdojgRkkw39O6vwl) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Inaam](https://open.spotify.com/album/2c6wzrX9E7bdrY8UU4ISbL) | 4:17 |
 | 2 | [Fitratein](https://open.spotify.com/track/7gjFn9wqcdSFxJAHYQbbMk) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Fitratein](https://open.spotify.com/album/76x9TiVITMmsA5KjSDSPUl) | 3:49 |
 | 3 | [Sajni](https://open.spotify.com/track/7l2AFH3dzug6CYT8bvhOs8) | [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh) | [Sajni](https://open.spotify.com/album/3tLnUU7KEdOlZWDOJ2dCU2) | 3:02 |
-| 4 | [Theher Ja](https://open.spotify.com/track/62G4WNFaG4HlsD5it4kgsw) | [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH), [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU) | [Theher Ja](https://open.spotify.com/album/16Eh0m4GVjxBItglAbTkI9) | 4:09 |
+| 4 | [Theher Ja](https://open.spotify.com/track/62G4WNFaG4HlsD5it4kgsw) | [Garvit \- Priyansh](https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH), [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Aniket Shukla](https://open.spotify.com/artist/4FDtRL3oDJNggf5ABZcVEe) | [Theher Ja](https://open.spotify.com/album/16Eh0m4GVjxBItglAbTkI9) | 4:09 |
 | 5 | [Juda Hue Ho](https://open.spotify.com/track/2MliEZJd04YKWMBQcpu9MA) | [Akhil Sachdeva](https://open.spotify.com/artist/3TOhzLRYnkkul71yRBxIoM), [Ishaan Arora](https://open.spotify.com/artist/58VXRRTZbBkLuUWjSX6FNb) | [Juda Hue Ho](https://open.spotify.com/album/13kZ51FHhqtH45fqEBs2O5) | 4:00 |
 | 6 | [Chalo Kahin Door](https://open.spotify.com/track/3Y84FkQyqE1Y1rKHnNYI6W) | [TUSHAR JOSHI](https://open.spotify.com/artist/324yz9K4ufBcGkcgUhTiHH) | [Chalo Kahin Door](https://open.spotify.com/album/1AlSnWJkH1ZmOpJSvW46KL) | 2:25 |
 | 7 | [Sajna](https://open.spotify.com/track/4kxGISZtqkQ0ajCN4vRy0h) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Paushali Sahu](https://open.spotify.com/artist/0Ju1DBpiRAxvhZ3XWlbLk1), [Ravi Singhal](https://open.spotify.com/artist/04jC0vqWW2xa1HLQzXTyPY) | [Sajna](https://open.spotify.com/album/72KlnTPx08p7Q8WvF4wVP9) | 3:37 |

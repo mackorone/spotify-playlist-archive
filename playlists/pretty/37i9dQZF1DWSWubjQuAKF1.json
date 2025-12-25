@@ -1,6 +1,6 @@
 {
   "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Paula Biskup",
-  "num_followers": 24555,
+  "num_followers": 24553,
   "original_name": "up next",
   "owner": {
     "name": "Spotify",
@@ -339,6 +339,22 @@
     {
       "added_at": "2025-12-18 23:00:23",
       "album": {
+        "name": "Seasons",
+        "url": "https://open.spotify.com/album/4pCwB9EfmPkql5jbrWkyT0"
+      },
+      "artists": [
+        {
+          "name": "Jea Mira",
+          "url": "https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3"
+        }
+      ],
+      "duration_ms": 165479,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/3Q1mdCdHFW90vVlYW9a4v0"
+    },
+    {
+      "added_at": "2025-12-18 23:00:23",
+      "album": {
         "name": "Nie p\u0142acz za mn\u0105 zbyt cz\u0119sto!",
         "url": "https://open.spotify.com/album/2Xb1h8uZBqXjUescM4L4Me"
       },
@@ -359,18 +375,22 @@
     {
       "added_at": "2025-12-18 23:00:23",
       "album": {
-        "name": "Seasons",
-        "url": "https://open.spotify.com/album/4pCwB9EfmPkql5jbrWkyT0"
+        "name": "M\u00f3w do Mnie",
+        "url": "https://open.spotify.com/album/6OayOjwX7kDU1ZhDAEJEIJ"
       },
       "artists": [
         {
-          "name": "Jea Mira",
-          "url": "https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3"
+          "name": "OG KAMKA",
+          "url": "https://open.spotify.com/artist/4PWPZvjcjwtAh07gTsNPTb"
+        },
+        {
+          "name": "Viki Gabor",
+          "url": "https://open.spotify.com/artist/3yCRvilOBzRkyxOsOi4tsR"
         }
       ],
-      "duration_ms": 165479,
-      "name": "Seasons",
-      "url": "https://open.spotify.com/track/3Q1mdCdHFW90vVlYW9a4v0"
+      "duration_ms": 158550,
+      "name": "M\u00f3w do Mnie",
+      "url": "https://open.spotify.com/track/2SSzVxGRaNdP86juW7aEJ3"
     },
     {
       "added_at": "2025-12-18 23:00:23",
@@ -391,26 +411,6 @@
       "duration_ms": 220840,
       "name": "Na dno",
       "url": "https://open.spotify.com/track/7dnUcwrc4eZkAAHfU4DxRS"
-    },
-    {
-      "added_at": "2025-12-18 23:00:23",
-      "album": {
-        "name": "M\u00f3w do Mnie",
-        "url": "https://open.spotify.com/album/6OayOjwX7kDU1ZhDAEJEIJ"
-      },
-      "artists": [
-        {
-          "name": "OG KAMKA",
-          "url": "https://open.spotify.com/artist/4PWPZvjcjwtAh07gTsNPTb"
-        },
-        {
-          "name": "Viki Gabor",
-          "url": "https://open.spotify.com/artist/3yCRvilOBzRkyxOsOi4tsR"
-        }
-      ],
-      "duration_ms": 158550,
-      "name": "M\u00f3w do Mnie",
-      "url": "https://open.spotify.com/track/2SSzVxGRaNdP86juW7aEJ3"
     },
     {
       "added_at": "2025-12-18 23:00:23",
@@ -551,6 +551,22 @@
     {
       "added_at": "2025-12-18 23:00:23",
       "album": {
+        "name": "Biegn\u0119",
+        "url": "https://open.spotify.com/album/2rmVfVOvDGqJJKz0MKtuKv"
+      },
+      "artists": [
+        {
+          "name": "Sandra Reizer",
+          "url": "https://open.spotify.com/artist/0yTmOzQtdJ0sRxikIoMpug"
+        }
+      ],
+      "duration_ms": 198461,
+      "name": "Biegn\u0119",
+      "url": "https://open.spotify.com/track/6kSOQUdPsMyl01zodZ3vFh"
+    },
+    {
+      "added_at": "2025-12-18 23:00:23",
+      "album": {
         "name": "Mieszany Mieszany",
         "url": "https://open.spotify.com/album/6Cic49CJali2zQeye8L3Lp"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 129687,
       "name": "Mieszany Mieszany",
       "url": "https://open.spotify.com/track/1pcQvECPomjRFKe2dzqRSa"
-    },
-    {
-      "added_at": "2025-12-18 23:00:23",
-      "album": {
-        "name": "Biegn\u0119",
-        "url": "https://open.spotify.com/album/2rmVfVOvDGqJJKz0MKtuKv"
-      },
-      "artists": [
-        {
-          "name": "Sandra Reizer",
-          "url": "https://open.spotify.com/artist/0yTmOzQtdJ0sRxikIoMpug"
-        }
-      ],
-      "duration_ms": 198461,
-      "name": "Biegn\u0119",
-      "url": "https://open.spotify.com/track/6kSOQUdPsMyl01zodZ3vFh"
     },
     {
       "added_at": "2025-12-18 23:00:23",
@@ -607,8 +607,8 @@
     {
       "added_at": "2025-12-18 23:00:23",
       "album": {
-        "name": "NA KONIEC LATA",
-        "url": "https://open.spotify.com/album/3hxzY5TxqTx83i2KHQrVOZ"
+        "name": "Pojutrze",
+        "url": "https://open.spotify.com/album/2wg5VZWYA848fPyVuhLAI0"
       },
       "artists": [
         {
@@ -616,17 +616,17 @@
           "url": "https://open.spotify.com/artist/0JIgW2OFhm0hH8UdCMU5SU"
         },
         {
-          "name": "Micha\u0142 Smajdor",
-          "url": "https://open.spotify.com/artist/3sdRA1BQYDShj19NPYUJ5k"
+          "name": "Kosma Kr\u00f3l",
+          "url": "https://open.spotify.com/artist/4F3X9OYQhZkUfaniE6u3NI"
         },
         {
           "name": "wojtman.fm",
           "url": "https://open.spotify.com/artist/6dlkUCXpazKynwOHpixkgo"
         }
       ],
-      "duration_ms": 180290,
-      "name": "Spadaj\u0105ce gwiazdy",
-      "url": "https://open.spotify.com/track/4ggf5e1R9ksMB2m58ouAQa"
+      "duration_ms": 183846,
+      "name": "Pojutrze",
+      "url": "https://open.spotify.com/track/3lHIx9LQzdH9ujcP5ijKEm"
     },
     {
       "added_at": "2025-12-18 23:00:23",
@@ -667,22 +667,6 @@
     {
       "added_at": "2025-12-18 23:00:23",
       "album": {
-        "name": "xoxo",
-        "url": "https://open.spotify.com/album/1fNZT5ZnzRafSraPgJlsDf"
-      },
-      "artists": [
-        {
-          "name": "stickxr",
-          "url": "https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT"
-        }
-      ],
-      "duration_ms": 80089,
-      "name": "jest ok",
-      "url": "https://open.spotify.com/track/5DigAqqBPxlYVJ2bYJzPWk"
-    },
-    {
-      "added_at": "2025-12-18 23:00:23",
-      "album": {
         "name": "To nie by\u0142o ciep\u0142e lato :(",
         "url": "https://open.spotify.com/album/6gOXOvZJlD7AzXne8Rbb7y"
       },
@@ -699,8 +683,24 @@
     {
       "added_at": "2025-12-18 23:00:23",
       "album": {
-        "name": "Pojutrze",
-        "url": "https://open.spotify.com/album/2wg5VZWYA848fPyVuhLAI0"
+        "name": "xoxo",
+        "url": "https://open.spotify.com/album/1fNZT5ZnzRafSraPgJlsDf"
+      },
+      "artists": [
+        {
+          "name": "stickxr",
+          "url": "https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT"
+        }
+      ],
+      "duration_ms": 80089,
+      "name": "jest ok",
+      "url": "https://open.spotify.com/track/5DigAqqBPxlYVJ2bYJzPWk"
+    },
+    {
+      "added_at": "2025-12-18 23:00:23",
+      "album": {
+        "name": "NA KONIEC LATA",
+        "url": "https://open.spotify.com/album/3hxzY5TxqTx83i2KHQrVOZ"
       },
       "artists": [
         {
@@ -708,17 +708,17 @@
           "url": "https://open.spotify.com/artist/0JIgW2OFhm0hH8UdCMU5SU"
         },
         {
-          "name": "Kosma Kr\u00f3l",
-          "url": "https://open.spotify.com/artist/4F3X9OYQhZkUfaniE6u3NI"
+          "name": "Micha\u0142 Smajdor",
+          "url": "https://open.spotify.com/artist/3sdRA1BQYDShj19NPYUJ5k"
         },
         {
           "name": "wojtman.fm",
           "url": "https://open.spotify.com/artist/6dlkUCXpazKynwOHpixkgo"
         }
       ],
-      "duration_ms": 183846,
-      "name": "Pojutrze",
-      "url": "https://open.spotify.com/track/3lHIx9LQzdH9ujcP5ijKEm"
+      "duration_ms": 180290,
+      "name": "Spadaj\u0105ce gwiazdy",
+      "url": "https://open.spotify.com/track/4ggf5e1R9ksMB2m58ouAQa"
     },
     {
       "added_at": "2025-12-18 23:00:23",
@@ -831,22 +831,6 @@
     {
       "added_at": "2025-12-18 23:00:23",
       "album": {
-        "name": "zosta\u0144",
-        "url": "https://open.spotify.com/album/1aVf5Yed3eNAGJ0kRgao2J"
-      },
-      "artists": [
-        {
-          "name": "Treehouse",
-          "url": "https://open.spotify.com/artist/0f3IZDduhfx6wAGRgO6JBi"
-        }
-      ],
-      "duration_ms": 138094,
-      "name": "zosta\u0144",
-      "url": "https://open.spotify.com/track/2jQlVcDnyiMjmrQ7XrK70X"
-    },
-    {
-      "added_at": "2025-12-18 23:00:23",
-      "album": {
         "name": "NAD RANEM",
         "url": "https://open.spotify.com/album/5QXG3wphlrSN8iF97n7Mkv"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 273000,
       "name": "NAD RANEM",
       "url": "https://open.spotify.com/track/3WOdMYBgZJBKKqMVzU3ndj"
+    },
+    {
+      "added_at": "2025-12-18 23:00:23",
+      "album": {
+        "name": "zosta\u0144",
+        "url": "https://open.spotify.com/album/1aVf5Yed3eNAGJ0kRgao2J"
+      },
+      "artists": [
+        {
+          "name": "Treehouse",
+          "url": "https://open.spotify.com/artist/0f3IZDduhfx6wAGRgO6JBi"
+        }
+      ],
+      "duration_ms": 138094,
+      "name": "zosta\u0144",
+      "url": "https://open.spotify.com/track/2jQlVcDnyiMjmrQ7XrK70X"
     },
     {
       "added_at": "2025-12-18 23:00:23",
@@ -879,18 +879,18 @@
     {
       "added_at": "2025-12-18 23:00:23",
       "album": {
-        "name": "PASSPORT",
-        "url": "https://open.spotify.com/album/3EFv9uC4C4kSP3osSDiJ1K"
+        "name": "dooko\u0142a mnie",
+        "url": "https://open.spotify.com/album/7AF2nxYKHzJM1C7PpI94og"
       },
       "artists": [
         {
-          "name": "Sara James",
-          "url": "https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV"
+          "name": "emi",
+          "url": "https://open.spotify.com/artist/1cIGr563sge3dInoMsn0Cu"
         }
       ],
-      "duration_ms": 131152,
-      "name": "PASSPORT",
-      "url": "https://open.spotify.com/track/6PWfx76OvEAGRcomQSdJnt"
+      "duration_ms": 124259,
+      "name": "dooko\u0142a mnie",
+      "url": "https://open.spotify.com/track/34QjFSfFR6oi9nUKb0jLWA"
     },
     {
       "added_at": "2025-12-18 23:00:23",
@@ -911,18 +911,18 @@
     {
       "added_at": "2025-12-18 23:00:23",
       "album": {
-        "name": "dooko\u0142a mnie",
-        "url": "https://open.spotify.com/album/7AF2nxYKHzJM1C7PpI94og"
+        "name": "PASSPORT",
+        "url": "https://open.spotify.com/album/3EFv9uC4C4kSP3osSDiJ1K"
       },
       "artists": [
         {
-          "name": "emi",
-          "url": "https://open.spotify.com/artist/1cIGr563sge3dInoMsn0Cu"
+          "name": "Sara James",
+          "url": "https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV"
         }
       ],
-      "duration_ms": 124259,
-      "name": "dooko\u0142a mnie",
-      "url": "https://open.spotify.com/track/34QjFSfFR6oi9nUKb0jLWA"
+      "duration_ms": 131152,
+      "name": "PASSPORT",
+      "url": "https://open.spotify.com/track/6PWfx76OvEAGRcomQSdJnt"
     },
     {
       "added_at": "2025-12-18 23:00:23",

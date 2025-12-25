@@ -4,7 +4,7 @@
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-469 songs - 1 day 2 hr 59 min
+474 songs - 1 day 3 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,9 @@
 | [Adrenalina](https://open.spotify.com/track/1rryUr444hBHluh0ztXPQT) | [Laura Dsk](https://open.spotify.com/artist/1nsSJtfNANGtgfpp5IX0kB), [Calero LDN](https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR) | [No Se Vende Este Álbum](https://open.spotify.com/album/08uvEMO9vsy0AU3DyPPis6) | 2:55 | 2025-12-04 | 2025-12-24 |
 | [Adrenaline](https://open.spotify.com/track/1qE3TZ2HuQS7JdxiK9ADv8) | [Banner Of The Sun](https://open.spotify.com/artist/2mXehPu27jCUu7PuQgYoZq) | [Adrenaline](https://open.spotify.com/album/47rhqCKcQVozQ7fcJWosVr) | 4:30 | 2025-10-27 |  |
 | [Age of Aquarius](https://open.spotify.com/track/240S4AH0AvoM75oZ7PDk2Y) | [Regina](https://open.spotify.com/artist/4ed2jHmlm4FWzcKrYyzRKL) | [Age of Aquarius](https://open.spotify.com/album/6ej2r12pNYvAmXOTKcD52k) | 3:27 | 2025-12-23 |  |
+| [Agota](https://open.spotify.com/track/5nk9QFl5sBAwP8tVyexfHV) | [PIFFA](https://open.spotify.com/artist/6UO5LlE4BLbYDXvodjJ1hi) | [AGOTA](https://open.spotify.com/album/27VFK6Q9YW7BkvJ4CsjmId) | 3:00 | 2025-12-24 |  |
 | [Aim For The Bushes](https://open.spotify.com/track/3vpSn9URfdY44csaFkGJBp) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [Planet Unknown](https://open.spotify.com/album/4EKeHDDESNGCLpdaT4fWSd) | 2:13 | 2025-08-03 |  |
+| [ALL MY FRIENDS](https://open.spotify.com/track/4LOqG8S1DIMwxJZvdx98cE) | [Tygers of Wrath](https://open.spotify.com/artist/6vGbDm4f3JsCq7ftXq5Xba) | [Get Ready!](https://open.spotify.com/album/1lDzx28rHjWtLB6oI3RpCI) | 1:37 | 2025-12-24 |  |
 | [Alright](https://open.spotify.com/track/56plBR3SfhuF0BwD9QN66H) | [t3rrible humans](https://open.spotify.com/artist/4iC1Bpe1kMhU5jpL7smqud) | [Alright](https://open.spotify.com/album/7sa3zIYb5Q6NHv7R1oJIfu) | 2:18 | 2025-12-13 |  |
 | [Altercations](https://open.spotify.com/track/2aM4hkQFepJgw2ficSl0wR) | [Dead Gaze NL](https://open.spotify.com/artist/4kPDKixHbo3tXZXzQZhJ2A) | [Altercations](https://open.spotify.com/album/00Mly2yRdIZ40v7BTtrMiA) | 5:10 | 2025-11-24 | 2025-12-24 |
 | [Alyssa](https://open.spotify.com/track/0HGOkwJzqaO6ilOTMNHk7C) | [Monolicht](https://open.spotify.com/artist/2RCneawcOEWUfUueJolrJN) | [Alyssa](https://open.spotify.com/album/5dM9t3adi7NlhXYtoVqozd) | 5:20 | 2025-12-16 |  |
@@ -47,6 +49,7 @@
 | [Beater](https://open.spotify.com/track/4JRbph5ENF0fPkrMd9jioO) | [Audio Pulleys](https://open.spotify.com/artist/6R1MH58VI4crgVPxnlxK7t) | [Basic Beater Beast](https://open.spotify.com/album/69EEhh1xWPvqJQ0QRYoGkr) | 1:14 | 2025-08-03 |  |
 | [Better Days](https://open.spotify.com/track/7yfoUwkMB1PZjV74xvUCpQ) | [Missing Since Monday](https://open.spotify.com/artist/4oPbfmyQAkcukOgEUt3ZAb) | [Missing Since Monday](https://open.spotify.com/album/6rfNqD4BYVSDlko64nP080) | 2:25 | 2025-10-24 | 2025-12-10 |
 | [Better Off Alone](https://open.spotify.com/track/3ASkJ5pFksyXQqT9z8KmvH) | [Julie Elody](https://open.spotify.com/artist/4FREcPhEBSBlNVHAQXqanN), [Pickap.art](https://open.spotify.com/artist/4TMb7hw4kEDZdxMK9IYLUc) | [Better Off Alone](https://open.spotify.com/album/0UkrxQZJRAXK8SHLo2TCSA) | 1:56 | 2025-08-03 |  |
+| [BIRDBRAIN](https://open.spotify.com/track/6krF3cc86VrHTojqLJsNZX) | [BAIKAL](https://open.spotify.com/artist/1Ic18THJhrkih00C2LyczI) | [Baikal](https://open.spotify.com/album/1ZUAbfumLk9K2KfL1ESZ5s) | 4:22 | 2025-12-24 |  |
 | [Biting Nails](https://open.spotify.com/track/4xzrSXj0pAhRoqRFQNLFHT) | [5EX](https://open.spotify.com/artist/3V4tS2RGFGFRyAPoXk11Q2) | [Biting Nails](https://open.spotify.com/album/3SheatGGao2NNE7l5L4Jvi) | 1:56 | 2025-12-16 |  |
 | [Bla Buzz](https://open.spotify.com/track/1i9KWSfyRSOxta4m0WoJDJ) | [Bila](https://open.spotify.com/artist/31FYxGnmvt2EHv72cUIxHn) | [Beżżalart](https://open.spotify.com/album/5OxyTjodJeEWF6c74VJcVe) | 1:47 | 2025-12-17 |  |
 | [Black](https://open.spotify.com/track/0ul44PajiEmkNrTe8iOCMH) | [Adam Alford](https://open.spotify.com/artist/5NOQhV94Dia7LiieRRWWuV) | [Desert nights](https://open.spotify.com/album/2457jyGvDUxCAlRihGaxFQ) | 2:52 | 2025-12-04 | 2025-12-24 |
@@ -152,6 +155,7 @@
 | [Fur Sure](https://open.spotify.com/track/1zCFzCQucF0rOHH7PK1DAr) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [Astro Life](https://open.spotify.com/album/3n8oFyAMOOqIxsneTKj89I) | 1:28 | 2025-08-03 |  |
 | [Future Isn't Sealed](https://open.spotify.com/track/6R98wJtYfS1KaEfxpKo8lR) | [CAN'T STOP TALKING](https://open.spotify.com/artist/3rotuHQvOx7kpA7arxEPTe) | [Nothing To Say](https://open.spotify.com/album/5NeEmefGoLWrjXzzKrU7dF) | 2:48 | 2025-08-03 |  |
 | [Galactic](https://open.spotify.com/track/6FCNVqlFCyK5hKDB96zC12) | [Shayan Regan](https://open.spotify.com/artist/4MqBmgnfLeYmizJVpJz65k) | [Galactic](https://open.spotify.com/album/7vLWnFqDwn00XpwjIg27L7) | 3:59 | 2025-11-06 | 2025-12-10 |
+| [Ghost In The Tide](https://open.spotify.com/track/50SPgAAHSZshpCHZ30AJow) | [Cryptronik](https://open.spotify.com/artist/0vbG9klL79IuVQ8RJGDI2n) | [Dawn Of The Forsaken](https://open.spotify.com/album/5njzvnU561N8bqimIG9oaU) | 3:50 | 2025-12-24 |  |
 | [Ghost is Worn](https://open.spotify.com/track/4W10VgYJxuZHDNMkAFxGG7) | [If by Whiskey](https://open.spotify.com/artist/2BN3IyVjJZIgTjYeK2FEu5) | [Ghost is Worn](https://open.spotify.com/album/2GXth5jI8gVaHj9usItgyF) | 2:51 | 2025-12-16 |  |
 | [Ghosts aren't scary](https://open.spotify.com/track/1TGxl2VuaKpJeGBmaxuo80) | [Pickap.art](https://open.spotify.com/artist/4TMb7hw4kEDZdxMK9IYLUc) | [Machine Yearning EP](https://open.spotify.com/album/7HBzPwXdizTOmjuEGCF9Bx) | 0:45 | 2025-08-03 |  |
 | [Give It Up?](https://open.spotify.com/track/5wZhqmmPBaICHfxit3mKq2) | [American Thought Criminals](https://open.spotify.com/artist/0ASVg1JnnEPszuOe6CSNKk) | [Over the Target](https://open.spotify.com/album/2Lf8xmMCpCFEZgg45lbt7l) | 1:39 | 2025-12-04 | 2025-12-24 |
@@ -161,7 +165,7 @@
 | [goblins \(nosebleed edit\)](https://open.spotify.com/track/2uQFUzUxYVXveO2FF9cpRX) | [dredge](https://open.spotify.com/artist/2a5NdT9HMrYzElE44JJ59W) | [goblins](https://open.spotify.com/album/2y5FWPfNexTfC3vRjFLwC9) | 2:00 | 2025-09-03 |  |
 | [Golden Bloom](https://open.spotify.com/track/6Ejw0TslqjsDLClAL3skkJ) | [Reverends](https://open.spotify.com/artist/7fHhc2SKnOHwFMjkr0TlCt) | [Golden Bloom](https://open.spotify.com/album/39PBq7PV4fgMRqBwMJdK7I) | 4:51 | 2025-12-16 |  |
 | [goodbye \- 2025 remastered](https://open.spotify.com/track/10arqRDmhZcdhWZvpC3Ko0) | [Władek Sheen](https://open.spotify.com/artist/5elwcM1iBIib16jSGK1SQe) | [hypnotize](https://open.spotify.com/album/1H2wW7fI1Y6GUijZxPo2gJ) | 2:55 | 2025-12-17 |  |
-| [Graveyard Sweetheart \(Sophie's Revenge\)](https://open.spotify.com/track/4X9aqdTz0L02xF2POPHZFV) | [Triiiplesixxx](https://open.spotify.com/artist/55rQFsoNEHp3uIpF8mrhDI) | [Graveyard Sweetheart \(Sophie's Revenge\)](https://open.spotify.com/album/21E6vOZbzVqeWIIYFGUUxN) | 2:21 | 2025-12-23 |  |
+| [Graveyard Sweetheart \(Sophie's Revenge\)](https://open.spotify.com/track/4X9aqdTz0L02xF2POPHZFV) | [Triiiplesixxx](https://open.spotify.com/artist/55rQFsoNEHp3uIpF8mrhDI) | [Graveyard Sweetheart \(Sophie's Revenge\)](https://open.spotify.com/album/21E6vOZbzVqeWIIYFGUUxN) | 2:21 | 2025-12-23 | 2025-12-25 |
 | [Greaseproof Paper](https://open.spotify.com/track/2PxE6OXL7NiTiFVNfB5ugl) | [Davenola](https://open.spotify.com/artist/1bZPqoTxPcCaTMVZOe3kvT) | [Greaseproof Paper](https://open.spotify.com/album/6ZocKDUZTGq93eCj1Cde1X) | 2:33 | 2025-08-03 |  |
 | [Greatness Abandoned](https://open.spotify.com/track/5kRxQQyqbe9VyFMgO3Iw4i) | [The Burying Game](https://open.spotify.com/artist/6XHIzQUMkkyXIsXn3XPnnK) | [Greatness Abandoned](https://open.spotify.com/album/3w98QK5DiwTtQtfwnGHxNo) | 3:50 | 2025-11-21 | 2025-12-10 |
 | [GUARDIAN](https://open.spotify.com/track/08F0GASkCAgiQiSCezLqAA) | [ethical artifacts](https://open.spotify.com/artist/7IHO8Z5AdfjxUv1KkIE6fV) | [GUARDIAN](https://open.spotify.com/album/5ihPLwitCr5awlUmBzpK5g) | 4:18 | 2025-12-19 |  |
@@ -188,6 +192,7 @@
 | [I Hate My Boss](https://open.spotify.com/track/0ZJV1djLMg5sSPzRAEjyPB) | [Jonathan Panetta](https://open.spotify.com/artist/5NpV97gIHBk2FvIyTEkKa2), [javy kane](https://open.spotify.com/artist/37kqFI7nNKymyF7y8i6xff) | [I Hate My Boss](https://open.spotify.com/album/1PNI9QATW58PVTv8S0wFg7) | 3:00 | 2025-12-11 |  |
 | [I Might Be A Sinner](https://open.spotify.com/track/6XFQMdpWA6CrKQCnjUARsl) | [Gamilla](https://open.spotify.com/artist/1mpl2GqJ1Qz1RpHkYY4PyO) | [Catholic School Girl](https://open.spotify.com/album/5T1A6Aonxe5kpDoyR12WkF) | 3:30 | 2025-11-27 |  |
 | [I See You](https://open.spotify.com/track/5ELuNlN9ug1xAzk5ei3rp8) | [JeezJesus](https://open.spotify.com/artist/6nJMtDSZZ41lwEf3XG1Sit) | [I See You](https://open.spotify.com/album/5CzqsMvOiw7kI45rOxN4MH) | 3:18 | 2025-10-31 | 2025-12-10 |
+| [I Spy](https://open.spotify.com/track/13WUCGEcRl0lnn66wJaAne) | [Citylightz](https://open.spotify.com/artist/3Bz1JVhGEwBK6iIHHx7M7o) | [I Spy](https://open.spotify.com/album/47AzLJfduyzsDgndlE63OI) | 3:14 | 2025-12-24 |  |
 | [I Wanna Know](https://open.spotify.com/track/0kyfqSQ5T3gp3WZbP9RVX2) | [Noiz Ritual](https://open.spotify.com/artist/2RQ8ipqWpztVcqcT5iz0e6) | [Embrace The Noiz](https://open.spotify.com/album/0pCuyOegRhg7KiPIZwwcbV) | 3:22 | 2025-12-23 |  |
 | [I Wanna Leave](https://open.spotify.com/track/7bME0upKK5b32DwGNE7kP7) | [Hana Piranha](https://open.spotify.com/artist/0duS5yd1MThbpAipiGOpcC) | [I Wanna Leave](https://open.spotify.com/album/6AUYweQsxrLaQ9KUJNWOMw) | 4:06 | 2025-12-04 | 2025-12-24 |
 | [I Will Take You To Hell](https://open.spotify.com/track/6jcFAG4Tqw2klTj8KPFEZF) | [Highway Queen](https://open.spotify.com/artist/6HV2ATap9CHsc4EcZnzc4u) | [Extendead Play](https://open.spotify.com/album/5kf27yA2pk86epIZc20WlB) | 4:00 | 2025-12-10 |  |

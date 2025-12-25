@@ -2,9 +2,9 @@
 
 ### [Grimes Radio](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
 
-> With Cocteau Twins, Labyrinth Ear, Pearly Drops and more
+> With Mareux, Labyrinth Ear, Phantogram and more
 
-1,835 songs - 4 day 17 hr 4 min
+1,836 songs - 4 day 17 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -482,7 +482,8 @@
 | [Door](https://open.spotify.com/track/5YIVVzQcJG7pFhyNo0Ytlh) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 5:22 | 2020-10-19 | 2022-10-16 |
 | [Door \- Oklou Remix](https://open.spotify.com/track/2sijD9pZmS9D9s8hmQkQk5) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Door \(Oklou Remix\)](https://open.spotify.com/album/3Y9BnTXk9ObPGkpvbARW7S) | 3:21 | 2022-06-07 | 2022-10-11 |
 | [Dose](https://open.spotify.com/track/2PFnwCd0wdJnLQodbvrDeg) | [Crim3s](https://open.spotify.com/artist/1ARDx2oCR7sJEjbnHsbbRU) | [Stay Ugly EP](https://open.spotify.com/album/4SdrdBBRHRo1CL6u3vJrR7) | 2:45 | 2022-07-26 | 2025-11-12 |
-| [Dove \- Doll Ver](https://open.spotify.com/track/2NHHKv9F4mYLSMfMl0jayB) | [antihoney](https://open.spotify.com/artist/5JAa9e6UwxxYbZfyUBZcU3) | [Dove \(Doll Ver\)](https://open.spotify.com/album/3iNri5JDR2qHc5XqXdu6T7) | 2:15 | 2025-04-01 |  |
+| [Dove \- Doll Ver](https://open.spotify.com/track/2NHHKv9F4mYLSMfMl0jayB) | [antihoney](https://open.spotify.com/artist/5JAa9e6UwxxYbZfyUBZcU3) | [Dove \(Doll Ver\)](https://open.spotify.com/album/3iNri5JDR2qHc5XqXdu6T7) | 2:15 | 2025-04-01 | 2025-12-25 |
+| [Dove \- Doll Ver](https://open.spotify.com/track/3ePgukqsYq5cpw4X88sHtC) | [antihoney](https://open.spotify.com/artist/5JAa9e6UwxxYbZfyUBZcU3) | [Dove \(Doll Ver\)](https://open.spotify.com/album/1yGRWiUNNSC9vgmwniKFrK) | 2:15 | 2025-12-25 |  |
 | [Downhill Lullaby](https://open.spotify.com/track/5pTpFp9wr8X7uddedE7uJS) | [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Downhill Lullaby](https://open.spotify.com/album/1nlktAYkFoRQrAEq65mtsk) | 5:32 | 2022-03-26 | 2023-05-02 |
 | [Downtown](https://open.spotify.com/track/5ckUvSqW1Oaucm19P6VmIK) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [CollXtion II](https://open.spotify.com/album/3JL1FetkKuCnHzDLkVPcCg) | 3:57 | 2020-10-25 | 2022-03-07 |
 | [Dragons](https://open.spotify.com/track/5HXcT5LOENFrqshJC2yX28) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [Metallic Butterfly](https://open.spotify.com/album/2eNt8IJkvzDqX205e08bgZ) | 3:46 | 2022-03-17 | 2022-10-16 |
@@ -810,7 +811,7 @@
 | [I'd Rather Sleep](https://open.spotify.com/track/56JcHvg7W4cCs6fQEOz2gW) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [Intro Bonito](https://open.spotify.com/album/3s3PEd50fVx2qXMNgPy0uD) | 1:55 | 2020-12-11 | 2021-12-18 |
 | [I'd Rather Sleep](https://open.spotify.com/track/614cx8ZtQJX7jRIBnUhPA7) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [Intro Bonito](https://open.spotify.com/album/3RNP9iHMJpFkGbMB2OAnJn) | 1:55 | 2024-02-12 | 2024-02-15 |
 | [I'll Haunt You](https://open.spotify.com/track/4ZXIWSHrJT3yL6IrLPWPM5) | [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [Swimmer](https://open.spotify.com/album/3vghyeIx26jtU7DdAW2bEb) | 2:32 | 2022-03-31 | 2022-07-03 |
-| [I'm God](https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Instrumental Relics](https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq) | 4:37 | 2022-03-09 | 2025-12-20 |
+| [I'm God](https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Instrumental Relics](https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq) | 4:37 | 2022-03-09 |  |
 | [I'm Not Done \- Still Not Done Mix](https://open.spotify.com/track/5bhgC6aNOJIt5PVTrmuwu1) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Plunge Remix](https://open.spotify.com/album/2wV1CNHfzOxg2dD7UvTfGF) | 4:28 | 2022-06-09 | 2022-06-10 |
 | [I'm On Fire](https://open.spotify.com/track/04sx4DemzEp9Dzopqge2QX) | [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE) | [In The City](https://open.spotify.com/album/0IPR1Bmg15FsnBtZ0BNFA5) | 4:05 | 2020-10-16\* | 2022-03-05 |
 | [I'm on Top](https://open.spotify.com/track/42xl5HtTPAiHNGzUAYC6of) | [Otha](https://open.spotify.com/artist/6UMUvqiDBEJLyx2uYplGCV) | [I'm on Top](https://open.spotify.com/album/3L1JG5XGlYjZp0IN7y8pMu) | 3:22 | 2023-05-08 | 2023-11-11 |
@@ -1435,7 +1436,7 @@
 | [Silver Soul](https://open.spotify.com/track/56eSclzdXaWU5jOJ7DX7Vp) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Teen Dream](https://open.spotify.com/album/7ejB3MHdDNcY3GzRsQRAHs) | 4:58 | 2024-09-13 | 2024-09-14 |
 | [Simmer \- Caroline Polachek Remix](https://open.spotify.com/track/6PfRYKXnJAM0Wpvmh4mHId) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Simmer \(Caroline Polachek Remix\)](https://open.spotify.com/album/55Secy93O4UthfEut2kYGc) | 3:16 | 2022-05-14 | 2022-10-09 |
 | [Sims 2](https://open.spotify.com/track/5Fr21qSH0jTyXH6B9RMVpG) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ) | [Posh](https://open.spotify.com/album/6YychOqBBwZeoCLDvH2N7k) | 3:14 | 2022-04-17 | 2022-06-22 |
-| [Sims 2](https://open.spotify.com/track/6tmDStLldmvokhIyjdj7LI) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ), [Graham](https://open.spotify.com/artist/2zobEO3AxWFrLey7NoPJET) | [Posh](https://open.spotify.com/album/4SuevIKss49yjYyhMAkeOb) | 3:14 | 2022-07-07 |  |
+| [Sims 2](https://open.spotify.com/track/6tmDStLldmvokhIyjdj7LI) | [Coco & Clair Clair](https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ), [Graham](https://open.spotify.com/artist/2zobEO3AxWFrLey7NoPJET) | [Posh](https://open.spotify.com/album/4SuevIKss49yjYyhMAkeOb) | 3:14 | 2022-07-07 | 2025-12-25 |
 | [sinew](https://open.spotify.com/track/7K0tzjli9Ksqy4R2YuJriV) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [WOMB](https://open.spotify.com/album/7mm8NRdr4E5gNGYAL0RoaZ) | 3:11 | 2022-06-17 | 2023-06-05 |
 | [SIREN](https://open.spotify.com/track/0TNVHzBcohllSBliWc9HVk) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [SIREN](https://open.spotify.com/album/1HNqEuXidi8p6Bx1tc4xs8) | 3:56 | 2022-03-19 | 2022-10-10 |
 | [Sit / Stay](https://open.spotify.com/track/63UZ7V1aOCm902l8SVv1rI) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [I Disagree](https://open.spotify.com/album/4LgpVx8efQT7SRXGRq5Tze) | 3:54 | 2022-03-13 | 2022-10-08 |

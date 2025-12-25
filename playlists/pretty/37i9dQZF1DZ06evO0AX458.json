@@ -1,12 +1,12 @@
 {
   "description": "This is Touch\u00e9 Amor\u00e9. The essential tracks, all in one playlist.",
-  "num_followers": 4567,
+  "num_followers": 4569,
   "original_name": "This Is Touch\u00e9 Amor\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUiKAAAAAAD73s7AssOELRIrBwrSl3En",
+  "snapshot_id": "aUnbgAAAAAAAM5dYQ3u+vt2sTBq2xUSJ",
   "tracks": [
     {
       "added_at": null,
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 159360,
-      "name": "Anyone / Anything",
-      "url": "https://open.spotify.com/track/6Pr9rKp3Y63aXROEH1dfDZ"
+      "duration_ms": 137520,
+      "name": "Just Exist",
+      "url": "https://open.spotify.com/track/0zjQzW0OR8yYZu7QMr6FxB"
     },
     {
       "added_at": null,
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 137520,
-      "name": "Just Exist",
-      "url": "https://open.spotify.com/track/0zjQzW0OR8yYZu7QMr6FxB"
+      "duration_ms": 159360,
+      "name": "Anyone / Anything",
+      "url": "https://open.spotify.com/track/6Pr9rKp3Y63aXROEH1dfDZ"
     },
     {
       "added_at": null,
@@ -572,38 +572,6 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 44418,
-      "name": "Nine",
-      "url": "https://open.spotify.com/track/5GRro6xGJrZEwQykaaKXEk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Is Survived By",
-        "url": "https://open.spotify.com/album/2Qs1H2KjF6Bk2lSgFjQpOj"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        }
-      ],
-      "duration_ms": 185653,
-      "name": "Non Fiction",
-      "url": "https://open.spotify.com/track/4iGn2PuMw7G2T6DrmSvZP8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "...To the Beat of a Dead Horse",
-        "url": "https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        }
-      ],
       "duration_ms": 63000,
       "name": "Swimming with Sharks",
       "url": "https://open.spotify.com/track/4BjDJV6gg3dCVwoXyQkf8q"
@@ -623,6 +591,38 @@
       "duration_ms": 61346,
       "name": "Praise / Love",
       "url": "https://open.spotify.com/track/1A8DwHJSNibbVTqPLN0zlc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "...To the Beat of a Dead Horse",
+        "url": "https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "duration_ms": 44418,
+      "name": "Nine",
+      "url": "https://open.spotify.com/track/5GRro6xGJrZEwQykaaKXEk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Is Survived By",
+        "url": "https://open.spotify.com/album/2Qs1H2KjF6Bk2lSgFjQpOj"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "duration_ms": 185653,
+      "name": "Non Fiction",
+      "url": "https://open.spotify.com/track/4iGn2PuMw7G2T6DrmSvZP8"
     },
     {
       "added_at": null,

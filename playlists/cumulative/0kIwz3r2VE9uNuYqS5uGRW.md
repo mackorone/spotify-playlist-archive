@@ -4,7 +4,7 @@
 
 > 
 
-128 songs - 6 hr 41 min
+129 songs - 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [whiplash](https://open.spotify.com/track/5s6HZ7RY7kEH0HSzLC9jNe) | [Jonas Feurle](https://open.spotify.com/artist/0wu3fN6dTlMop83dDnMwke), [scrutch](https://open.spotify.com/artist/5ZgbUIDHqbDpf149oTHsaC) | [whiplash](https://open.spotify.com/album/6DsQlUk29PL4fO3RRyoq9k) | 3:37 | 2025-07-07 |  |
 | [Whiskey](https://open.spotify.com/track/0hnWQ00Z7cVWtcZDXLYq6x) | [Second Story Duo](https://open.spotify.com/artist/41awsJ9Gs9Ah8d5uX37r3h) | [Reflections](https://open.spotify.com/album/4PJ1P80qf9hVpFGchfhy13) | 3:02 | 2025-12-14 |  |
 | [You at First Sight](https://open.spotify.com/track/5Jb8z94wh7eUBUIhaqoKFm) | [Inorganic Era](https://open.spotify.com/artist/0Y1Z3cpF7xQrAyQKHNadxY) | [You at First Sight](https://open.spotify.com/album/7zGHcgMh4hf5jUm0EgA1z6) | 3:04 | 2025-09-15 |  |
+| [Yourself](https://open.spotify.com/track/3A1vzDBL3IHjzphf83E3mZ) | [Nissu](https://open.spotify.com/artist/0jFlIuRMZuBZrowaOZXEe0), [Paigey Cakey](https://open.spotify.com/artist/1Lfz8ISr2g1d33hirTmajR) | [Memories](https://open.spotify.com/album/6Kbr8PFQrTu0J2GmK8o5uz) | 3:18 | 2025-12-24 |  |
 | [Вдыхая](https://open.spotify.com/track/7h0NWQtE9GpPGOwPaocdPF) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Космос](https://open.spotify.com/album/2jcE7I4Mqs4iGeY9PL3yRZ) | 3:03 | 2025-03-12 |  |
 
 \*This playlist was first scraped on 2025-11-19. Prior content cannot be recovered.

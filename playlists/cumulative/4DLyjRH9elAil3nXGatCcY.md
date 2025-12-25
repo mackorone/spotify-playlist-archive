@@ -4,7 +4,7 @@
 
 > 
 
-521 songs - 1 day 10 hr 34 min
+522 songs - 1 day 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [High Beams](https://open.spotify.com/track/5JivFvyCCaznVexlRLpZqK) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [HWLS](https://open.spotify.com/artist/4ODo634wVqDxqgVSlXE2LO), [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [Hi This Is Flume \(Mixtape\)](https://open.spotify.com/album/2Vx9FC6Um8i6kEtY7HNswB) | 3:23 | 2022-05-09 |  |
 | [High Beams](https://open.spotify.com/track/1OEZxOmex1OmCUwSX4bB4k) | [Miami Nights 1984](https://open.spotify.com/artist/18iQQOuyGlHunPVzmoLY20) | [Turbulence](https://open.spotify.com/album/1sjg3emGXcOFStmqIUvFeU) | 2:58 | 2020-09-09 |  |
 | [Highwind](https://open.spotify.com/track/0CjQskZDcghc8yNUhIDVzu) | [toconoma](https://open.spotify.com/artist/3XKBSRkQeskeHIpRvA5XaS) | [VISTA](https://open.spotify.com/album/1OYR2IdjQLe4lggwqPORMP) | 4:05 | 2025-10-15 |  |
+| [HONEY](https://open.spotify.com/track/7JDiC68AKimlvMCmZQuA9n) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [容 : FACE](https://open.spotify.com/album/6eSFX12WIqUtmGsD8UO3FT) | 2:47 | 2025-12-25 |  |
 | [Hong Kong](https://open.spotify.com/track/2UhmkV1lXMlRzmevvG8TRw) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [D\-Sides](https://open.spotify.com/album/0pdYY0CHFRVFLBZEPEKTMZ) | 7:13 | 2025-10-15 |  |
 | [Horsey \(feat\. Sarah Bonito\)](https://open.spotify.com/track/2YP9BF2Y9NUMJqgmx50FLH) | [Macross 82\-99](https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow), [Sarah Bonito](https://open.spotify.com/artist/1TStEV1B00Cg63pZAcuKne) | [Idols, Sakura](https://open.spotify.com/album/0puDyb8T7FDuUwz7kw96Xs) | 2:31 | 2025-10-15 |  |
 | [House With Legs \- Original Mix](https://open.spotify.com/track/0CNfKAVDmGAJ4yuGDuGKCd) | [cYsmix](https://open.spotify.com/artist/01D5XnAKpuAbd9PrYSRCuR) | [Escapism](https://open.spotify.com/album/50zuTV6dJOElR3mcYOKR5l) | 3:57 | 2020-03-11 |  |

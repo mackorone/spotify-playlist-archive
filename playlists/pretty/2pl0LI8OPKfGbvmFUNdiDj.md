@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 520 likes - 143 songs - 8 hr 0 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 519 likes - 152 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -151,5 +151,14 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 141 | [Hold On](https://open.spotify.com/track/4Wo7nXA54eJJ42tzRaED3i) | [Dono](https://open.spotify.com/artist/2X3HWlSgzq0vYKsR7kACxn) | [Hold On](https://open.spotify.com/album/1MoZcHm6ZFVNzm8R7OJeSl) | 2:33 |
 | 142 | [Lullaby](https://open.spotify.com/track/0xlQiqmo1CwSh91tdZJEcX) | [Malsi](https://open.spotify.com/artist/5OoYbo66Y6ME5Wz2kfTLQe) | [Lullaby](https://open.spotify.com/album/3OBBl1ToG3HODWBWQ6802q) | 5:25 |
 | 143 | [A Merry Jingle](https://open.spotify.com/track/31csQY8zl1aJGe8VISxq9e) | [Forge Hounds](https://open.spotify.com/artist/6528HmKaqCaf9tu3qdj70d) | [A Merry Jingle](https://open.spotify.com/album/4ZoDxu4sPUzk4QCqTwk8Qp) | 3:08 |
+| 144 | [1.5](https://open.spotify.com/track/70K8CBH1RBfFLAGNt1xZB5) | [Court Lee](https://open.spotify.com/artist/4EUdpZKUAlErxveFMeqZVD) | [1.5](https://open.spotify.com/album/26yjewkMIBbSlh59MojuSJ) | 2:56 |
+| 145 | [goodbye \- 2025 remastered](https://open.spotify.com/track/10arqRDmhZcdhWZvpC3Ko0) | [Władek Sheen](https://open.spotify.com/artist/5elwcM1iBIib16jSGK1SQe) | [hypnotize](https://open.spotify.com/album/1H2wW7fI1Y6GUijZxPo2gJ) | 2:55 |
+| 146 | [MERKAVÁ](https://open.spotify.com/track/6lv3CY0BItKVXV42uhGbSG) | [Kibbutz Paradiso](https://open.spotify.com/artist/21vbXHIW0qY3qchdDPmAmB) | [MERKAVÁ](https://open.spotify.com/album/5TvvDO3PiMc1kfoRblhIy9) | 3:09 |
+| 147 | [Alive](https://open.spotify.com/track/7bCLybOMzLDnnSFGpzTcDT) | [Marc Ocram](https://open.spotify.com/artist/6nIiuaM9vwePMOtklXfagK) | [Alive](https://open.spotify.com/album/7JVqWLK0aI5rdAfmkikp88) | 4:17 |
+| 148 | [On The Loose](https://open.spotify.com/track/4z8PnK63CWW1WL879iGpbH) | [Miquelangelo](https://open.spotify.com/artist/4h9QOAPn546KMLAgaxUEwQ) | [Verdwaald In De Stad](https://open.spotify.com/album/6iopEbHYcwJIY6fibuhFf4) | 2:41 |
+| 149 | [Hymn](https://open.spotify.com/track/0F7851FGHF79bzgJ65HpyC) | [Of House](https://open.spotify.com/artist/00ZfMOYl0RhH41iOFfbl3u) | [Hymn](https://open.spotify.com/album/3sYDwzhZKYeqrz1sejuBN6) | 8:14 |
+| 150 | [Agony](https://open.spotify.com/track/0DEQ43RK58T3EkmKP9q2KF) | [N£GRA](https://open.spotify.com/artist/3mL5x6RnF0pJ8dBSU1beSW) | [Voices/Agony](https://open.spotify.com/album/2aqLQJUqJTafF3BVEjXpke) | 2:01 |
+| 151 | [De todo a nada](https://open.spotify.com/track/6KumsJUvJKqlbkQBP7WgOM) | [Samm](https://open.spotify.com/artist/3KNTZ7fJISc0Dk26rtDmyE) | [De todo a nada](https://open.spotify.com/album/0b5UPzw07NmrZoqpEvNm6G) | 3:07 |
+| 152 | [Sotto la Pioggia](https://open.spotify.com/track/1E5cfhHQzQEGFrkCLCoJYK) | [Vacant Age](https://open.spotify.com/artist/4oRYX3WgCNT4BzcKXxLXPq) | [Sotto la Pioggia](https://open.spotify.com/album/2P2iK8WQH5ziCz9z91QcaC) | 3:16 |
 
-Snapshot ID: `AAACmuMfrAyMCpfLvMCm1TFAIoaCOlhs`
+Snapshot ID: `AAACo0/ceiJ2ljWriAbyIJYF8gNn/kJf`

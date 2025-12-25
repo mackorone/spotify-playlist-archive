@@ -4,7 +4,7 @@
 
 > This is Danny Felix\. The essential tracks, all in one playlist.
 
-157 songs - 8 hr 42 min
+158 songs - 8 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Falsas Amistades](https://open.spotify.com/track/4181MRYP7YRi0xeTLSqmnl) | [Nuevo Regimen](https://open.spotify.com/artist/0NRbYp6mEQuw932YdtrdU8), [Grupo Xclusivo](https://open.spotify.com/artist/3ow1pOzmEWbtGbqtMUXHdq), [El Buffalo](https://open.spotify.com/artist/2TeBC9zX5PmG0YzvtGIbWe), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Los De Finix](https://open.spotify.com/artist/5PQoAsNyQgPfDgncYxm8jz) | [Falsas Amistades](https://open.spotify.com/album/3lKRwrXHui6cdacGQ4kbFT) | 3:44 | 2024-01-29 | 2025-12-22 |
 | [Fiesta En La Sierra \- En Vivo](https://open.spotify.com/track/0c3DUDq57IkEAx39hxbzul) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [CON LA COCHI \[VOL II \(EN VIVO\)\]](https://open.spotify.com/album/3WmaC3AjtOKrypdTmgOYqx) | 5:04 | 2025-01-12 |  |
 | [Fin De Semana \- En Vivo](https://open.spotify.com/track/1OVkTf8DQn3007lhgUVuTB) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Con La Cochi \(En Vivo\)](https://open.spotify.com/album/2WRv6YVcIFXrhVxCLLkpDi) | 4:12 | 2025-02-04 | 2025-02-18 |
+| [Godfather \- En Vivo](https://open.spotify.com/track/4B8Z4TwXkssIuLPMTlNIcD) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Fiesta Privada Desde El 602 \(En Vivo\)](https://open.spotify.com/album/2BMdhDB0AwzTxRoo8EQ2Te) | 3:20 | 2025-12-25 |  |
 | [GRUPO TÁCTICO](https://open.spotify.com/track/1BZSu3nKKyjnSJHaaUgeFb) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Grupo Táctico](https://open.spotify.com/album/6lbNqeDhky0kDKym5eFaQ0) | 3:00 | 2024-01-29 | 2025-10-07 |
 | [HARLEY DAVIDSON](https://open.spotify.com/track/2gpWbtFRftigx6WSXF7eLP) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [LUCES ROJAS](https://open.spotify.com/album/3CI0ljFulRHYlDHBv4vV7O) | 3:12 | 2025-11-03 |  |
 | [HEY THERE DELILAH](https://open.spotify.com/track/7vIuBxFomeUSpcy39s23ws) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [HEY THERE DELILAH](https://open.spotify.com/album/7yb61lKZLOXeOIFbyXHrmk) | 4:04 | 2024-05-26 | 2024-07-31 |
@@ -105,7 +106,7 @@
 | [LOS JORDAN’S](https://open.spotify.com/track/35Ygam0DPXjsWs9kvFXOVO) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [LUCES ROJAS](https://open.spotify.com/album/3CI0ljFulRHYlDHBv4vV7O) | 2:56 | 2025-11-03 | 2025-12-23 |
 | [LOS PLEBES ATREVIDOS \- En Vivo](https://open.spotify.com/track/4bwHmvfQC2Vs6uhze1h1yM) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Gente Del Rancho](https://open.spotify.com/artist/6BbZzab6fVZzep3FvLjLUt) | [EN VIVO DESDE EL VALLE](https://open.spotify.com/album/3aAkifKjqkWLM7Tw4Ndq4b) | 3:23 | 2025-04-18 | 2025-12-10 |
 | [LUCES ROJAS](https://open.spotify.com/track/32VUH1c2xPjccfAEM8VwtP) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [LUCES ROJAS](https://open.spotify.com/album/3CI0ljFulRHYlDHBv4vV7O) | 2:54 | 2025-11-02 |  |
-| [LVR](https://open.spotify.com/track/5KNvCKJdtfXI3Ldagd2g6c) | [Tyan G](https://open.spotify.com/artist/4j1Usj1sKyLB9CDpSZSZ2C), [Chris Hermosillo](https://open.spotify.com/artist/49s6IQppCi57xqZqwLIT7B), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [LVR](https://open.spotify.com/album/0cnGReKwKVPC3eC2cZ0dBd) | 2:52 | 2024-01-29 |  |
+| [LVR](https://open.spotify.com/track/5KNvCKJdtfXI3Ldagd2g6c) | [Tyan G](https://open.spotify.com/artist/4j1Usj1sKyLB9CDpSZSZ2C), [Chris Hermosillo](https://open.spotify.com/artist/49s6IQppCi57xqZqwLIT7B), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [LVR](https://open.spotify.com/album/0cnGReKwKVPC3eC2cZ0dBd) | 2:52 | 2024-01-29 | 2025-12-25 |
 | [Malas Decisiones](https://open.spotify.com/track/7uNwhb9YKbT8poWlUN1L46) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Matt Hunter](https://open.spotify.com/artist/20pVLDSueWpSOPCWnCWzIU) | [Vuelve](https://open.spotify.com/album/4cZukU1kJ55MUGKTRkgge2) | 2:59 | 2024-01-29 | 2025-05-25 |
 | [Mami \- En Vivo](https://open.spotify.com/track/59Ck1Q48tcUw0yCeDbZio8) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [CON LA COCHI \[VOL II \(EN VIVO\)\]](https://open.spotify.com/album/3WmaC3AjtOKrypdTmgOYqx) | 3:05 | 2025-01-12 |  |
 | [Mariachi Tumbado](https://open.spotify.com/track/4rTmwZuswNYGDK3M2Ia7Zc) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Mariachi Tumbado](https://open.spotify.com/album/335zeL9J8OJmo2tlroxaI7) | 2:48 | 2024-01-29 | 2025-12-11 |

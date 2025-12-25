@@ -4,7 +4,7 @@
 
 > Die Playlist zur Wasserpfeife\. Cover: Amo, Aymen
 
-412 songs - 17 hr 28 min
+413 songs - 17 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Dschungelbuch](https://open.spotify.com/track/31hngzxYLPCNJEUaYvHVQb) | [SHABAB](https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO) | [Dschungelbuch](https://open.spotify.com/album/2btc4wUHco7gn7bTIMyfCN) | 3:04 | 2025-04-10 | 2025-10-24 |
 | [DU FEHLST](https://open.spotify.com/track/4Vna11o1Sw268jgcsXLace) | [Kurdo](https://open.spotify.com/artist/1yIifIA91WgmfzBcjbQB8i), [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN) | [DU FEHLST](https://open.spotify.com/album/2YqbtzJH5XlaYVkDv9r4Yi) | 2:43 | 2025-11-14 |  |
 | [Dunya](https://open.spotify.com/track/4eIdT2bW2gaTDdJnMgt7Ue) | [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh) | [Dunya](https://open.spotify.com/album/2w6QNteaT1zNP0BgCNZ7ji) | 2:47 | 2025-03-24 | 2025-05-28 |
+| [DUNYA](https://open.spotify.com/track/0LSqInjWSNjDXfimXbiMHF) | [Ataypapi](https://open.spotify.com/artist/6vRKWcwC6OphUNy3Ds5O0U) | [DUNYA](https://open.spotify.com/album/0VD2v3aYOU0HdhvViSkduc) | 2:05 | 2025-12-19 |  |
 | [Durch die Nacht](https://open.spotify.com/track/2SOJytsIuNLOG49osyWLRd) | [Olexesh](https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl), [MB](https://open.spotify.com/artist/2TDTS5K5hN0lAyfOOKIkoe) | [Durch die Nacht](https://open.spotify.com/album/1p8BJWQQDUAwSkUA38lwuU) | 2:39 | 2024-09-09 | 2024-11-19 |
 | [Désiré Doué](https://open.spotify.com/track/0uPckhHiNfc6BXrpnFbUqR) | [Haaland936](https://open.spotify.com/artist/6OBEI1JlLksVqrVOJXWdRe) | [Désiré Doué](https://open.spotify.com/album/13FSGypMPQ4BtYty51CsfD) | 2:29 | 2025-07-24 | 2025-09-19 |
 | [Edamame](https://open.spotify.com/track/0tbGorDhDHZYrNCpbH4u2j) | [Rap La Rue](https://open.spotify.com/artist/3oaGNYMn968LbpA1sthjos), [Elly](https://open.spotify.com/artist/5ESkKkvLe33xT9Jsr8GBDt), [Erda](https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7) | [Edamame](https://open.spotify.com/album/6z3Mi8dg1ffRpomYxQSHv2) | 1:55 | 2025-06-26 | 2025-08-12 |
@@ -220,7 +221,7 @@
 | [Like That](https://open.spotify.com/track/2rEJhTfHaRsUWwoIvRWA2m) | [Afshin Momadi](https://open.spotify.com/artist/3MhC8h0ocHe2fbl66I1pho), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [Like That](https://open.spotify.com/album/22RP1h38s3HzXr9T8c7nJ8) | 3:00 | 2025-10-02 |  |
 | [Limousine](https://open.spotify.com/track/7rgueODA0VdgShneWKwPGp) | [Makar](https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN), [ilo 7araga](https://open.spotify.com/artist/6yljBnmcExcQrkUMJOhgga), [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO) | [Limousine](https://open.spotify.com/album/4eHMYdfTl6Mkr3m0Yd2S12) | 2:50 | 2024-10-10 | 2025-11-04 |
 | [Loro Piana](https://open.spotify.com/track/6XR0CCEIctAL3v6sj7XnRr) | [Rap La Rue](https://open.spotify.com/artist/3oaGNYMn968LbpA1sthjos), [Finessim](https://open.spotify.com/artist/48MK5SlYzMfHwMaBbEoSLs) | [Loro Piana](https://open.spotify.com/album/6oA9EjtMwjat0Y2bCW75ZU) | 2:31 | 2025-02-24 | 2025-02-28 |
-| [LOVE & DRAMA](https://open.spotify.com/track/2OUGGTZD98jnWBNQBupEeO) | [Loredana](https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80), [Jugglerz](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY) | [LOVE & DRAMA](https://open.spotify.com/album/3aY5JIZH3bG1I4GWsd24FR) | 2:30 | 2025-06-19 |  |
+| [LOVE & DRAMA](https://open.spotify.com/track/2OUGGTZD98jnWBNQBupEeO) | [Loredana](https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80), [Jugglerz](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY) | [LOVE & DRAMA](https://open.spotify.com/album/3aY5JIZH3bG1I4GWsd24FR) | 2:30 | 2025-06-19 | 2025-12-25 |
 | [Love all night](https://open.spotify.com/track/5VCMfmkWKmROl2xnDA5wus) | [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh), [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N) | [Love all night](https://open.spotify.com/album/2U8inedtU0YX3Von3qAsiU) | 2:49 | 2025-07-03 |  |
 | [Love Stoned](https://open.spotify.com/track/0qB7TGcEufVXFByQ2WllGD) | [Jamin](https://open.spotify.com/artist/742hF8NzfLAfwg7pwSh1x9), [Ataypapi](https://open.spotify.com/artist/6vRKWcwC6OphUNy3Ds5O0U) | [Love Stoned](https://open.spotify.com/album/3WNM1a0lCstxLLJgEP6PFz) | 2:44 | 2025-10-02 | 2025-10-10 |
 | [Love Ya \(feat\. Mario\)](https://open.spotify.com/track/2mnkgopUgJq09Na8JXgMIh) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Seductive](https://open.spotify.com/album/75bi4SlFkQJ2zogYEjlHK5) | 3:37 | 2024-06-28 | 2024-07-27 |

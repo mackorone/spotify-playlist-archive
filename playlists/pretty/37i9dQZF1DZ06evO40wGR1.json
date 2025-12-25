@@ -1,12 +1,12 @@
 {
   "description": "This is Liran' Roll. The essential tracks, all in one playlist.",
-  "num_followers": 40154,
+  "num_followers": 40177,
   "original_name": "This Is Liran' Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUiKAAAAAACDNPrIeu8fgZ2Z9mBfjVE+",
+  "snapshot_id": "aUnbgAAAAABn032pUhyxhy6EoCb4chiJ",
   "tracks": [
     {
       "added_at": null,
@@ -459,22 +459,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Tengo Tiempo (De Cambiar Mi Vida)",
-        "url": "https://open.spotify.com/album/2U3tJnajShO4HccXpReW5M"
+        "name": "Momentos",
+        "url": "https://open.spotify.com/album/0Mot1VW7pPX7lBl02XjoCN"
       },
       "artists": [
-        {
-          "name": "Foco De Atelier",
-          "url": "https://open.spotify.com/artist/5GZzO9MK60ZEQ5iiErfs2A"
-        },
         {
           "name": "Liran' Roll",
           "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
         }
       ],
-      "duration_ms": 272146,
-      "name": "No Tengo Tiempo (De Cambiar Mi Vida)",
-      "url": "https://open.spotify.com/track/1UTpT97Dn2exMo7tk8GJZg"
+      "duration_ms": 242800,
+      "name": "Josefina",
+      "url": "https://open.spotify.com/track/3hI44ZnraKYADDH5tKo71q"
     },
     {
       "added_at": null,
@@ -495,18 +491,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Momentos",
-        "url": "https://open.spotify.com/album/0Mot1VW7pPX7lBl02XjoCN"
+        "name": "No Tengo Tiempo (De Cambiar Mi Vida)",
+        "url": "https://open.spotify.com/album/2U3tJnajShO4HccXpReW5M"
       },
       "artists": [
+        {
+          "name": "Foco De Atelier",
+          "url": "https://open.spotify.com/artist/5GZzO9MK60ZEQ5iiErfs2A"
+        },
         {
           "name": "Liran' Roll",
           "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
         }
       ],
-      "duration_ms": 242800,
-      "name": "Josefina",
-      "url": "https://open.spotify.com/track/3hI44ZnraKYADDH5tKo71q"
+      "duration_ms": 272146,
+      "name": "No Tengo Tiempo (De Cambiar Mi Vida)",
+      "url": "https://open.spotify.com/track/1UTpT97Dn2exMo7tk8GJZg"
     },
     {
       "added_at": null,
@@ -523,6 +523,22 @@
       "duration_ms": 258438,
       "name": "No Puedo So\u00f1ar",
       "url": "https://open.spotify.com/track/4WSYpYixYW8e5jW9OUliLc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Momentos",
+        "url": "https://open.spotify.com/album/0Mot1VW7pPX7lBl02XjoCN"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "duration_ms": 132506,
+      "name": "Abr\u00e1zame",
+      "url": "https://open.spotify.com/track/2Npx6hoMEEBiJDPXrZ3KOm"
     },
     {
       "added_at": null,
@@ -555,22 +571,6 @@
       "duration_ms": 265404,
       "name": "Porque Te Amo",
       "url": "https://open.spotify.com/track/6Knh4ir11etn5Agk73HkOH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Momentos",
-        "url": "https://open.spotify.com/album/0Mot1VW7pPX7lBl02XjoCN"
-      },
-      "artists": [
-        {
-          "name": "Liran' Roll",
-          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
-        }
-      ],
-      "duration_ms": 132506,
-      "name": "Abr\u00e1zame",
-      "url": "https://open.spotify.com/track/2Npx6hoMEEBiJDPXrZ3KOm"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cambios",
-        "url": "https://open.spotify.com/album/1XjPdYX6t4bE8fDE3Hqj4B"
-      },
-      "artists": [
-        {
-          "name": "Liran' Roll",
-          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
-        }
-      ],
-      "duration_ms": 310682,
-      "name": "Adi\u00f3s Amigo",
-      "url": "https://open.spotify.com/track/7FLQNTHpt9v3BLKBpNNKg5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Luna Y El Sol",
         "url": "https://open.spotify.com/album/2rgyAK0xQkYzhn8Rg4mjXQ"
       },
@@ -759,8 +743,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Juntos por el Rock, Vol. 2",
-        "url": "https://open.spotify.com/album/3QkDfFUpzoOUYlIo9feu9a"
+        "name": "Cambios",
+        "url": "https://open.spotify.com/album/1XjPdYX6t4bE8fDE3Hqj4B"
       },
       "artists": [
         {
@@ -768,9 +752,9 @@
           "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
         }
       ],
-      "duration_ms": 260186,
-      "name": "El Pasado",
-      "url": "https://open.spotify.com/track/4NjpCEcK6ja9lysf1mNqky"
+      "duration_ms": 310682,
+      "name": "Adi\u00f3s Amigo",
+      "url": "https://open.spotify.com/track/7FLQNTHpt9v3BLKBpNNKg5"
     },
     {
       "added_at": null,
@@ -787,6 +771,22 @@
       "duration_ms": 344677,
       "name": "Tiempo Atr\u00e1s",
       "url": "https://open.spotify.com/track/50rKIJTytRZaR1Ndyc9qj3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Juntos por el Rock, Vol. 2",
+        "url": "https://open.spotify.com/album/3QkDfFUpzoOUYlIo9feu9a"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "duration_ms": 260186,
+      "name": "El Pasado",
+      "url": "https://open.spotify.com/track/4NjpCEcK6ja9lysf1mNqky"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcJb0bNFBm0.md) - [plain]
 
 > Noise distortion amongst the hazy clouds ☁️  Cover: srwks\. \(Thailand\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,549 likes - 101 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,555 likes - 101 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

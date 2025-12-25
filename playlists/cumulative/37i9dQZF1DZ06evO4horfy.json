@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "26 - Kinderen voor Kinderen",
+        "url": "https://open.spotify.com/album/0xY0nHxNiC5103Jlavdv5q"
+      },
+      "artists": [
+        {
+          "name": "Kinderen voor Kinderen",
+          "url": "https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN"
+        }
+      ],
+      "date_added": "2025-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188800,
+      "name": "Ben Zo Benieuwd",
+      "url": "https://open.spotify.com/track/5lVP8Z9izLG1uXPpeGluT2"
+    },
+    {
+      "album": {
         "name": "Klaar Voor De Start (Deel 34)",
         "url": "https://open.spotify.com/album/2JN272oH25vLaaK57Grk6p"
       },
@@ -866,7 +884,7 @@
       ],
       "date_added": "2025-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-25",
       "duration_ms": 193989,
       "name": "Twee minuten stilte",
       "url": "https://open.spotify.com/track/7etqkP8tZod4ffgxA0Jv6k"

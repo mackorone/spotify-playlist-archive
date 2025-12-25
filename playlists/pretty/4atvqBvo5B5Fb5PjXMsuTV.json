@@ -1,13 +1,29 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 23 Dec 14:04 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 24 Dec 19:04 UTC.",
   "num_followers": 102,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAWy6gvIoyRqhq5udTebuIhi5LF0QMv",
+  "snapshot_id": "AAAWzZynGQYtuwAXVy1+ss/y3lrtnbw1",
   "tracks": [
+    {
+      "added_at": "2025-12-24 19:04:32",
+      "album": {
+        "name": "4 SEASONS",
+        "url": "https://open.spotify.com/album/49AfR54iF8NMJyJzx9OLyg"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "duration_ms": 275432,
+      "name": "4 SEASONS",
+      "url": "https://open.spotify.com/track/7pLqzAGMlHWItf1qDHWPPq"
+    },
     {
       "added_at": "2025-12-23 14:04:40",
       "album": {
@@ -815,22 +831,6 @@
       "duration_ms": 191803,
       "name": "Glitter",
       "url": "https://open.spotify.com/track/0y9S3dw1MBzHqmTpMTTd0M"
-    },
-    {
-      "added_at": "2025-12-04 19:04:15",
-      "album": {
-        "name": "Guardian",
-        "url": "https://open.spotify.com/album/0Wm5jDuL2Ph5ce9WqjXNM8"
-      },
-      "artists": [
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        }
-      ],
-      "duration_ms": 194631,
-      "name": "Guardian",
-      "url": "https://open.spotify.com/track/1nrj6SI6yvfkP8tWwaoLsb"
     }
   ],
   "unique_name": "New Singles Now",

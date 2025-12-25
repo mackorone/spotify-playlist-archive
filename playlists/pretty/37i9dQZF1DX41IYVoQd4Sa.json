@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05d0\u05d9\u05d6\u05d9 \u05d5\u05d2\u05f3\u05f3\u05d9\u05df \u05d1\u05d5\u05e8\u05d3\u05d5",
-  "num_followers": 33028,
+  "num_followers": 33036,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -379,18 +379,22 @@
     {
       "added_at": "2025-12-18 22:00:32",
       "album": {
-        "name": "\u05d0\u05d5\u05dc\u05d9 \u05d9\u05db\u05d5\u05dc\u05ea\u05d9 \u05d9\u05d5\u05ea\u05e8",
-        "url": "https://open.spotify.com/album/3o2QYnNyEY2u8u0h4uNNqh"
+        "name": "\u05de\u05d6\u05dc \u05e9\u05d9\u05e9 \u05dc\u05d9 \u05de\u05d5\u05d6\u05d9\u05e7\u05d4",
+        "url": "https://open.spotify.com/album/24yew2vDaykmrWYYaz92jM"
       },
       "artists": [
         {
-          "name": "Ninet Tayeb",
-          "url": "https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4"
+          "name": "Girafot",
+          "url": "https://open.spotify.com/artist/5EgEUxXi9uTYYN4cQwmLPy"
+        },
+        {
+          "name": "Daniel sun Krief",
+          "url": "https://open.spotify.com/artist/1SLLGXX3xcLqUuYpBDvJQm"
         }
       ],
-      "duration_ms": 241046,
-      "name": "\u05d0\u05d5\u05dc\u05d9 \u05d9\u05db\u05d5\u05dc\u05ea\u05d9 \u05d9\u05d5\u05ea\u05e8",
-      "url": "https://open.spotify.com/track/4XfuFnOvQv7FsKdSlmrCUy"
+      "duration_ms": 174452,
+      "name": "\u05d4\u05db\u05d9 \u05d9\u05e4\u05d4 \u05d1\u05d3\u05d9\u05e1\u05e7\u05d5",
+      "url": "https://open.spotify.com/track/5P2Jj9F8jXWvbflKao1Fjg"
     },
     {
       "added_at": "2025-12-18 22:00:32",
@@ -411,22 +415,18 @@
     {
       "added_at": "2025-12-18 22:00:32",
       "album": {
-        "name": "\u05de\u05d6\u05dc \u05e9\u05d9\u05e9 \u05dc\u05d9 \u05de\u05d5\u05d6\u05d9\u05e7\u05d4",
-        "url": "https://open.spotify.com/album/24yew2vDaykmrWYYaz92jM"
+        "name": "\u05d0\u05d5\u05dc\u05d9 \u05d9\u05db\u05d5\u05dc\u05ea\u05d9 \u05d9\u05d5\u05ea\u05e8",
+        "url": "https://open.spotify.com/album/3o2QYnNyEY2u8u0h4uNNqh"
       },
       "artists": [
         {
-          "name": "Girafot",
-          "url": "https://open.spotify.com/artist/5EgEUxXi9uTYYN4cQwmLPy"
-        },
-        {
-          "name": "Daniel sun Krief",
-          "url": "https://open.spotify.com/artist/1SLLGXX3xcLqUuYpBDvJQm"
+          "name": "Ninet Tayeb",
+          "url": "https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4"
         }
       ],
-      "duration_ms": 174452,
-      "name": "\u05d4\u05db\u05d9 \u05d9\u05e4\u05d4 \u05d1\u05d3\u05d9\u05e1\u05e7\u05d5",
-      "url": "https://open.spotify.com/track/5P2Jj9F8jXWvbflKao1Fjg"
+      "duration_ms": 241046,
+      "name": "\u05d0\u05d5\u05dc\u05d9 \u05d9\u05db\u05d5\u05dc\u05ea\u05d9 \u05d9\u05d5\u05ea\u05e8",
+      "url": "https://open.spotify.com/track/4XfuFnOvQv7FsKdSlmrCUy"
     },
     {
       "added_at": "2025-12-18 22:00:32",
@@ -815,22 +815,6 @@
     {
       "added_at": "2025-12-18 22:00:32",
       "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/2kP2nJGaB2PXiAd5g2Yf8N"
-      },
-      "artists": [
-        {
-          "name": "Ester Rada",
-          "url": "https://open.spotify.com/artist/7JTo5JZjCoBQ7CLUqnkw3g"
-        }
-      ],
-      "duration_ms": 239061,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/7rVZ3metyjOfUAAecxlVVI"
-    },
-    {
-      "added_at": "2025-12-18 22:00:32",
-      "album": {
         "name": "\u05dc\u05e4\u05e0\u05d9 \u05e9\u05d4\u05db\u05dc \u05e0\u05e8\u05d3\u05dd",
         "url": "https://open.spotify.com/album/1ivPvapAsPBNroZlcfRn9P"
       },
@@ -851,6 +835,22 @@
     {
       "added_at": "2025-12-18 22:00:32",
       "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/2kP2nJGaB2PXiAd5g2Yf8N"
+      },
+      "artists": [
+        {
+          "name": "Ester Rada",
+          "url": "https://open.spotify.com/artist/7JTo5JZjCoBQ7CLUqnkw3g"
+        }
+      ],
+      "duration_ms": 239061,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/7rVZ3metyjOfUAAecxlVVI"
+    },
+    {
+      "added_at": "2025-12-18 22:00:32",
+      "album": {
         "name": "\u05de\u05ea \u05de\u05d0\u05d4\u05d1\u05d4",
         "url": "https://open.spotify.com/album/6ZhHgJ9Nwfr3tUsBMF5TxJ"
       },
@@ -863,6 +863,22 @@
       "duration_ms": 297013,
       "name": "\u05de\u05ea \u05de\u05d0\u05d4\u05d1\u05d4",
       "url": "https://open.spotify.com/track/1kRSvhKqClw18juX10vhYb"
+    },
+    {
+      "added_at": "2025-12-18 22:00:32",
+      "album": {
+        "name": "\u05d6\u05d4 \u05dc\u05d0 \u05d7\u05d9\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/6IZ7G2mxcQbLyQ6BLF8kVB"
+      },
+      "artists": [
+        {
+          "name": "\u05d9\u05d5\u05e9\u05d9",
+          "url": "https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ"
+        }
+      ],
+      "duration_ms": 176812,
+      "name": "\u05d6\u05d4 \u05dc\u05d0 \u05d7\u05d9\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/5TYvxPIqdVbIUk066PaRNe"
     },
     {
       "added_at": "2025-12-18 22:00:32",
@@ -887,22 +903,6 @@
       "duration_ms": 182857,
       "name": "\u05e4\u05d9\u05e0\u05d2\u05d5\u05d5\u05d9\u05e0\u05d9\u05dd",
       "url": "https://open.spotify.com/track/0NRXvbCUeHcxB2UBsTQH9O"
-    },
-    {
-      "added_at": "2025-12-18 22:00:32",
-      "album": {
-        "name": "\u05d6\u05d4 \u05dc\u05d0 \u05d7\u05d9\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/6IZ7G2mxcQbLyQ6BLF8kVB"
-      },
-      "artists": [
-        {
-          "name": "\u05d9\u05d5\u05e9\u05d9",
-          "url": "https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ"
-        }
-      ],
-      "duration_ms": 176812,
-      "name": "\u05d6\u05d4 \u05dc\u05d0 \u05d7\u05d9\u05d9\u05dd",
-      "url": "https://open.spotify.com/track/5TYvxPIqdVbIUk066PaRNe"
     }
   ],
   "unique_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",

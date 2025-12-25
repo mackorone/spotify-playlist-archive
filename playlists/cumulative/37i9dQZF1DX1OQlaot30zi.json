@@ -52803,6 +52803,32 @@
     },
     {
       "album": {
+        "name": "Grinch",
+        "url": "https://open.spotify.com/album/4llMaMhPA386PJw21WXEKA"
+      },
+      "artists": [
+        {
+          "name": "Melons",
+          "url": "https://open.spotify.com/artist/1LGeIi5WWtxGRavjH50STe"
+        },
+        {
+          "name": "Sick Luke",
+          "url": "https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb"
+        },
+        {
+          "name": "Ddusi",
+          "url": "https://open.spotify.com/artist/5VTNrKBvvSe0NdWMW8qTwa"
+        }
+      ],
+      "date_added": "2025-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118571,
+      "name": "Grinch",
+      "url": "https://open.spotify.com/track/4LmXZbRxBHbu9xUcWF8ZBa"
+    },
+    {
+      "album": {
         "name": "Grindin' & Ballin'",
         "url": "https://open.spotify.com/album/7wCeDL5Msds1BkHei6EMEZ"
       },

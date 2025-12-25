@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-344 songs - 17 hr 36 min
+345 songs - 17 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,7 +204,8 @@
 | [Nobody's Perfect \- Remastered](https://open.spotify.com/track/2xM7zSjKT06SCSe98acN51) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Anthology: Her Early Hits \(Remastered\)](https://open.spotify.com/album/3IAVorUAVQ6bTMgwcLEYY3) | 2:16 | 2025-09-10 |  |
 | [On This Side Of Goodbye \- Single Version](https://open.spotify.com/track/1tx5zJ6WPOhsrtqCF36CY5) | [The Righteous Brothers](https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX) | [All Time Greats](https://open.spotify.com/album/24CbH0PK4BnVUWP59klvom) | 3:04 | 2023-12-30 |  |
 | [One \(2018\)](https://open.spotify.com/track/2sHGdyw2CbhTdRfcw9vz2I) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [One \(2018\)](https://open.spotify.com/album/1Ofd1TE3WvCUZ3BOG4M3aw) | 2:43 | 2023-12-30 |  |
-| [One Fine Day](https://open.spotify.com/track/6vcG9EgeqJUSmmF65lxUm6) | [The Chiffons](https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj) | [The Chiffons Absolutely The Best!](https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq) | 2:08 | 2023-12-30 |  |
+| [One fine day](https://open.spotify.com/track/0zrUKGvar2pKgeKr0uCjR4) | [The Chiffons](https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj) | [One Fine Day](https://open.spotify.com/album/5ZuaOmG9FuJb2bhXndLTEx) | 2:07 | 2025-12-24 |  |
+| [One Fine Day](https://open.spotify.com/track/6vcG9EgeqJUSmmF65lxUm6) | [The Chiffons](https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj) | [The Chiffons Absolutely The Best!](https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq) | 2:08 | 2023-12-30 | 2025-12-25 |
 | [One Was Johnny](https://open.spotify.com/track/1O7KO0zxO7WuLRfeQtGpQV) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Really Rosie](https://open.spotify.com/album/7oJAFBGUEddEbeAJFlA90Y) | 2:08 | 2023-12-30 | 2025-06-01 |
 | [One Was Johnny](https://open.spotify.com/track/0c8SIKptqeB9qNC4g9c0jj) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Really Rosie](https://open.spotify.com/album/2fknQru3D4hvsU7BDfgbSd) | 2:08 | 2025-05-31 |  |
 | [One Wonderful Night](https://open.spotify.com/track/1FZjBGVuG9lE71ai4HzCyw) | [Dum Doobie Doobie Band](https://open.spotify.com/artist/4DDNzHva9SgZpOvol4ka09) | [One Wonderful Night](https://open.spotify.com/album/4uIhihVXEUEUdSIddTPN1C) | 2:31 | 2025-09-10 |  |

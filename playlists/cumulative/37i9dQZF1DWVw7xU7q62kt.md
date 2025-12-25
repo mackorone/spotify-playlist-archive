@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-728 songs - 1 day 7 hr 24 min
+729 songs - 1 day 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,11 +237,12 @@
 | [Goin' Places](https://open.spotify.com/track/5hPSNpGlMkiTtlqsnikJvz) | [BƱBBLE](https://open.spotify.com/artist/2wWyy4LUiILXOvvCF0RSQk) | [Goin' Places](https://open.spotify.com/album/66XkfG45HOeDtK9z7m6dzU) | 1:39 | 2025-10-03 |  |
 | [Going Along With It](https://open.spotify.com/track/4KgJmpIxPEnwagCpEgAuYc) | [Sem0r](https://open.spotify.com/artist/5kKtBm0XgwJnI8oudcaupR), [Loyae](https://open.spotify.com/artist/4Euj21Xnjoe3pGCcXPAo4I) | [Going Along With It](https://open.spotify.com/album/3S63qle6fwfLmeKjWLNTwl) | 1:32 | 2025-02-03 |  |
 | [Golden](https://open.spotify.com/track/0puARhK6jKkusREeVYGchX) | [dennisivnvc](https://open.spotify.com/artist/03sYI7Ckj5JOq6cYowPUmo), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [Golden](https://open.spotify.com/album/0xPEVbpkS6FMtA2JNboDWZ) | 2:10 | 2025-10-03 |  |
-| [Golden Hour](https://open.spotify.com/track/6ILPmEtmJuUobfdmDo2nuP) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX) | [Golden Hour](https://open.spotify.com/album/7aOpza1Q9jYXeot4AMbEvh) | 1:36 | 2025-12-12 |  |
+| [Golden Hour](https://open.spotify.com/track/6ILPmEtmJuUobfdmDo2nuP) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX) | [Golden Hour](https://open.spotify.com/album/7aOpza1Q9jYXeot4AMbEvh) | 1:36 | 2025-12-12 | 2025-12-25 |
 | [Golden Hour](https://open.spotify.com/track/5pYa3nB6k9VZpBynPrWLIo) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS) | [Golden Hour](https://open.spotify.com/album/12cathoKU0frumffV7uCTA) | 1:44 | 2025-10-24 | 2025-12-06 |
 | [Golden Hour](https://open.spotify.com/track/56gzYeY3J2VVUqF5Fyx0fa) | [XXIII](https://open.spotify.com/artist/1iMewV5kCtODzBgKmPnIq7) | [Golden Hour](https://open.spotify.com/album/4rFwznUvKfecxIUc5TugBL) | 1:26 | 2025-04-18 | 2025-09-13 |
 | [Goldfoil](https://open.spotify.com/track/0SVgLGkpkGz8PI6fdQbMeO) | [lophiile](https://open.spotify.com/artist/5g5eVr2vAQnd12Q1XCJD7R) | [Goldfoil](https://open.spotify.com/album/7zOVyVUPJZXiE9vYAwoiuC) | 2:34 | 2023-08-25 | 2024-09-29 |
 | [Good Things Happen](https://open.spotify.com/track/2GwRZI8nIoVFCAIsf3qaUu) | [Matt Wilde](https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek), [Aaron Wood](https://open.spotify.com/artist/1ezDfTAgyNgHfoZNRaEEls) | [Good Things Happen](https://open.spotify.com/album/58xqkw3fRhOKsO9f7lDXtY) | 2:49 | 2024-09-06 | 2025-06-21 |
+| [Got Flava](https://open.spotify.com/track/2nUsvJZWIOko1JCWWHwfdp) | [Emapea](https://open.spotify.com/artist/3BiFZY6zbND5L3MEM6niE6), [Beat Catz](https://open.spotify.com/artist/6ziSJZVoacUhfAnzD7SX1v) | [Patera](https://open.spotify.com/album/0jW2NqYk2nWjS1CwsEBqjA) | 3:04 | 2025-12-19 |  |
 | [Grandma's Stove](https://open.spotify.com/track/7bcOJpMCtzmLDq5IaSqFn6) | [Thelonious Coltrane](https://open.spotify.com/artist/6iXZPP5qLB2dtIQ4WuNk9M) | [Grandma's Stove](https://open.spotify.com/album/3wvW2X3Tc5zMQ3QkQwYuhk) | 3:19 | 2025-05-02 | 2025-06-12 |
 | [Great Void](https://open.spotify.com/track/0JDeLjaHDaXT3SR9SjrNCt) | [ChildNoah](https://open.spotify.com/artist/5H3mowogBSr0PYGW0JrtAg) | [Great Void](https://open.spotify.com/album/2oKyOFhX6bkJsKy7xW6rX9) | 2:40 | 2025-01-10 | 2025-12-06 |
 | [Grey Sky](https://open.spotify.com/track/2AEhxIKFfvjxk1NTMP1bR0) | [Mjølnir](https://open.spotify.com/artist/0oXIq7U8lZeSOpBXt2EFfQ), [lightheart](https://open.spotify.com/artist/63BjHqfGQ2GtEdYdUVbOSR), [Howden](https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi) | [Grey Sky](https://open.spotify.com/album/5tnq2hprFcEZn5oOEvqW9P) | 2:04 | 2025-02-14 | 2025-12-07 |

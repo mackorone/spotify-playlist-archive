@@ -1,12 +1,12 @@
 {
   "description": "This is Victor Thompson. The essential tracks, all in one playlist.",
-  "num_followers": 5797,
+  "num_followers": 5799,
   "original_name": "This Is Victor Thompson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUiKAAAAAAACSCiixpuS8qf5n1x4vXe0",
+  "snapshot_id": "aUnbgAAAAADVRrAe0YMQojv253l4s7RO",
   "tracks": [
     {
       "added_at": null,
@@ -395,26 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "According To Brother Nwachukwu",
-        "url": "https://open.spotify.com/album/2xNm26BLuCBRHycIgLZxuY"
-      },
-      "artists": [
-        {
-          "name": "Prinx Emmanuel",
-          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
-        },
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 193207,
-      "name": "Onyeoma",
-      "url": "https://open.spotify.com/track/56bI295LwjNMrrMfCKUf8h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GOOD and MORE",
         "url": "https://open.spotify.com/album/3BBPaV1dRK6AbrZ9tf9amu"
       },
@@ -431,6 +411,26 @@
       "duration_ms": 371457,
       "name": "MERCY",
       "url": "https://open.spotify.com/track/5F1ceJaNlwFysU0olsXAwb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "According To Brother Nwachukwu",
+        "url": "https://open.spotify.com/album/2xNm26BLuCBRHycIgLZxuY"
+      },
+      "artists": [
+        {
+          "name": "Prinx Emmanuel",
+          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
+        },
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 193207,
+      "name": "Onyeoma",
+      "url": "https://open.spotify.com/track/56bI295LwjNMrrMfCKUf8h"
     },
     {
       "added_at": null,
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 302438,
-      "name": "Your Presence Is Heaven",
-      "url": "https://open.spotify.com/track/4akZHox7kIpU29YeJG2L76"
+      "duration_ms": 234586,
+      "name": "Absolutely Nothing",
+      "url": "https://open.spotify.com/track/4yuCAyPTdA7zVVEeLy7x6Y"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-376 songs - 17 hr 48 min
+377 songs - 17 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Calm Mind](https://open.spotify.com/track/6Gt0dkoMbaXGkHegYj9mXC) | [Orbit Of Zen](https://open.spotify.com/artist/75twMG8C6XM6AK3Q13MAFs) | [Calm Mind](https://open.spotify.com/album/4hQSRlCnpDXUoeqguI05tc) | 2:29 | 2025-10-24 |  |
 | [Calm ripples](https://open.spotify.com/track/11J8sTGpRU5KCKGhJhEN2c) | [Korey Banks](https://open.spotify.com/artist/300oLKNAaJNFP04XeswaAG) | [Calm ripples](https://open.spotify.com/album/6vT4XJuA1Nho9EM1NltcrO) | 2:02 | 2023-08-21 | 2025-07-02 |
 | [Calmest lake](https://open.spotify.com/track/191AWPJySNUFVPZtd82eN8) | [Zoran Tudor](https://open.spotify.com/artist/0wuwIPLU0OZWWO97izTsZO) | [Calmest lake](https://open.spotify.com/album/3zhhOZnLZBFNOGIbFC7zSH) | 3:12 | 2023-01-24 | 2024-04-02 |
-| [Calming Encounter \(nature\)](https://open.spotify.com/track/6onX1sotvWxqZYLRCk1yOE) | [Eli Dylan](https://open.spotify.com/artist/4FnhRuj3eKz4JXL27neoCC) | [Calming Encounter](https://open.spotify.com/album/4q0GhwwD9fRe2ghssfQMkK) | 3:17 | 2023-05-19 |  |
+| [Calming Encounter \(nature\)](https://open.spotify.com/track/6onX1sotvWxqZYLRCk1yOE) | [Eli Dylan](https://open.spotify.com/artist/4FnhRuj3eKz4JXL27neoCC) | [Calming Encounter](https://open.spotify.com/album/4q0GhwwD9fRe2ghssfQMkK) | 3:17 | 2023-05-19 | 2025-12-25 |
 | [Calming Retreat](https://open.spotify.com/track/3M0fqqYDCYA26xG1gXJK80) | [Miyklo](https://open.spotify.com/artist/2X3Invt8lYGm7czZvFUPCj) | [Calming Retreat](https://open.spotify.com/album/1bezCktHbFJdi3ytiuOmo7) | 2:40 | 2025-07-01 |  |
 | [Canola Morning](https://open.spotify.com/track/3NlKaBvnrdwMuYdsYgKAet) | [Volker Anderson](https://open.spotify.com/artist/77UwtMovkeXsignTuy1dB1) | [Canola Morning](https://open.spotify.com/album/5WfEKVlJo9uNtBTeBsFnFb) | 2:44 | 2023-01-24 | 2024-11-29 |
 | [Casuarina Calm](https://open.spotify.com/track/5syn43yn7MgCy4XMLgiAUl) | [Bliss Phenomena](https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr) | [Casuarina Calm](https://open.spotify.com/album/067IKmHN7ANBq6tum4tST9) | 2:55 | 2023-07-28 |  |
@@ -99,6 +99,7 @@
 | [Early Morning Drizzle](https://open.spotify.com/track/5GZMPF7n2SrrOce6Ug7QWj) | [Sonic Waterfall](https://open.spotify.com/artist/3dYazD43M85TR46lQcHzyO) | [Drizzle Meditation](https://open.spotify.com/album/5mx1V4QPaVfevxhDPiL3eI) | 3:19 | 2023-04-24 | 2025-04-02 |
 | [Early Morning Walk](https://open.spotify.com/track/0Noa9gO5dDrWqzcnFPezhG) | [Whispering Streams](https://open.spotify.com/artist/6YgVDA4WlsMISJq4BDzUeO) | [Early Morning Walk](https://open.spotify.com/album/53A5UVK34dMKM7aDogkkuz) | 3:13 | 2023-01-24 | 2023-12-14 |
 | [Echoes of the Cosmos 432Hz](https://open.spotify.com/track/5aiYzJRBGhVLK7p8LOdj7v) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Echoes of the Cosmos 432Hz](https://open.spotify.com/album/2ini0RSh7ifKoruvboT8E2) | 2:24 | 2024-08-22 |  |
+| [Eden](https://open.spotify.com/track/3toFO4M47WbUGQjW0S2ni2) | [Fourth Eye](https://open.spotify.com/artist/6rRi2CL7CAJPlreLloPwxY) | [Eden](https://open.spotify.com/album/1sVvu2se2ZeqdFAlabKTVH) | 2:42 | 2025-12-18 |  |
 | [Eileanan](https://open.spotify.com/track/0RF2PYLqYLIHhUXRBhj3rY) | [Hevios](https://open.spotify.com/artist/2UeG11XTCrSKxGnAK4peeL) | [Eileanan](https://open.spotify.com/album/61OZWMQSih7G253a5ediFD) | 2:34 | 2024-03-05 |  |
 | [Ekatā / Unity](https://open.spotify.com/track/15VLZBdYtCBfzUStJDVAzm) | [RE:LX](https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u) | [Unity](https://open.spotify.com/album/4ugwhuEqJTGi11swTislS2) | 2:57 | 2023-10-26 |  |
 | [Emerald](https://open.spotify.com/track/4Zu4GsdQ99Ji9nrTOLFLWy) | [Lux Alba](https://open.spotify.com/artist/18NVPzP15IyNqKnkShIdVz) | [Emerald](https://open.spotify.com/album/0Qj3NmEMG2Q2KIshcah0eL) | 3:35 | 2025-10-01 |  |

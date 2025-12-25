@@ -1,6 +1,6 @@
 {
   "description": "Genre-defying artists pushing boundaries in electronic ambient music. Photo by David Wolff via Getty Images",
-  "num_followers": 118743,
+  "num_followers": 118788,
   "original_name": "Electronic X",
   "owner": {
     "name": "Spotify",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2025-12-05 03:41:04",
       "album": {
+        "name": "Eagle 12'",
+        "url": "https://open.spotify.com/album/24YgJOL0WvIgNb4LgpEe9i"
+      },
+      "artists": [
+        {
+          "name": "Jeune Oji",
+          "url": "https://open.spotify.com/artist/1VNBimzFQgGsGyuqyKS3CQ"
+        }
+      ],
+      "duration_ms": 140689,
+      "name": "Eagle 12'",
+      "url": "https://open.spotify.com/track/5tVIqhVK0fJjdUANt2Rfrj"
+    },
+    {
+      "added_at": "2025-12-05 03:41:04",
+      "album": {
         "name": "BLCK SUN",
         "url": "https://open.spotify.com/album/3xTbtTM3BSRIGxzWSMaEpc"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 72296,
       "name": "Outer Currents",
       "url": "https://open.spotify.com/track/1ey3a7YdSqk6jMPKoqaWSB"
-    },
-    {
-      "added_at": "2025-12-05 03:41:04",
-      "album": {
-        "name": "Eagle 12'",
-        "url": "https://open.spotify.com/album/24YgJOL0WvIgNb4LgpEe9i"
-      },
-      "artists": [
-        {
-          "name": "Jeune Oji",
-          "url": "https://open.spotify.com/artist/1VNBimzFQgGsGyuqyKS3CQ"
-        }
-      ],
-      "duration_ms": 140689,
-      "name": "Eagle 12'",
-      "url": "https://open.spotify.com/track/5tVIqhVK0fJjdUANt2Rfrj"
     },
     {
       "added_at": "2025-12-05 03:41:04",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2025-12-05 03:41:04",
       "album": {
-        "name": "The Greater Wings",
-        "url": "https://open.spotify.com/album/1KeJzjoh4vHrJif6BsYKRg"
-      },
-      "artists": [
-        {
-          "name": "Julie Byrne",
-          "url": "https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV"
-        }
-      ],
-      "duration_ms": 175664,
-      "name": "Summer's End",
-      "url": "https://open.spotify.com/track/1fZwS0OsBZyJMFnjzuLqxm"
-    },
-    {
-      "added_at": "2025-12-05 03:41:04",
-      "album": {
         "name": "Apertura",
         "url": "https://open.spotify.com/album/2U5BcONxBbrBG6V8ro4AjM"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 102000,
       "name": "Flaco 92'",
       "url": "https://open.spotify.com/track/42ZxKPCQg0oxBoZxj44p2m"
+    },
+    {
+      "added_at": "2025-12-05 03:41:04",
+      "album": {
+        "name": "The Greater Wings",
+        "url": "https://open.spotify.com/album/1KeJzjoh4vHrJif6BsYKRg"
+      },
+      "artists": [
+        {
+          "name": "Julie Byrne",
+          "url": "https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV"
+        }
+      ],
+      "duration_ms": 175664,
+      "name": "Summer's End",
+      "url": "https://open.spotify.com/track/1fZwS0OsBZyJMFnjzuLqxm"
     },
     {
       "added_at": "2025-12-05 03:41:04",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2025-12-05 03:41:04",
       "album": {
-        "name": "Psychic Geography",
-        "url": "https://open.spotify.com/album/5M2wfJvURaKTP1CA6CUMGt"
-      },
-      "artists": [
-        {
-          "name": "DOVS",
-          "url": "https://open.spotify.com/artist/4dTrYioJXOgFCIglYGbXQm"
-        }
-      ],
-      "duration_ms": 267236,
-      "name": "Frames",
-      "url": "https://open.spotify.com/track/78Njj9j4LsV2aMvJnka8FG"
-    },
-    {
-      "added_at": "2025-12-05 03:41:04",
-      "album": {
         "name": "Mosaic",
         "url": "https://open.spotify.com/album/3BW7CgpmNbGYaxJncNrv9a"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 354306,
       "name": "Love and the Framed Insects",
       "url": "https://open.spotify.com/track/58y66qr6jc5eMTFbrXacL7"
+    },
+    {
+      "added_at": "2025-12-05 03:41:04",
+      "album": {
+        "name": "Psychic Geography",
+        "url": "https://open.spotify.com/album/5M2wfJvURaKTP1CA6CUMGt"
+      },
+      "artists": [
+        {
+          "name": "DOVS",
+          "url": "https://open.spotify.com/artist/4dTrYioJXOgFCIglYGbXQm"
+        }
+      ],
+      "duration_ms": 267236,
+      "name": "Frames",
+      "url": "https://open.spotify.com/track/78Njj9j4LsV2aMvJnka8FG"
     },
     {
       "added_at": "2025-12-05 03:41:04",
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2025-12-05 03:41:04",
       "album": {
-        "name": "New Moon",
-        "url": "https://open.spotify.com/album/4iJMewsgF0ynzFefgvvvfI"
+        "name": "Songs of Silence",
+        "url": "https://open.spotify.com/album/3WNHfcR03NSfUg4ZcZJG7t"
       },
       "artists": [
         {
-          "name": "Christopher Willits",
-          "url": "https://open.spotify.com/artist/0XHtezS69NYZ51SEFh8WEA"
+          "name": "Vince Clarke",
+          "url": "https://open.spotify.com/artist/7zkGCcaPSB7nLCtaxEWWE1"
         }
       ],
-      "duration_ms": 210002,
-      "name": "Rest",
-      "url": "https://open.spotify.com/track/66DjOnSQm4K3698zbfTuIz"
+      "duration_ms": 227033,
+      "name": "Scarper",
+      "url": "https://open.spotify.com/track/2qOAJNW4ExNsbLvvcMRZbe"
     },
     {
       "added_at": "2025-12-05 03:41:04",
@@ -1447,34 +1447,38 @@
     {
       "added_at": "2025-12-05 03:41:04",
       "album": {
-        "name": "Songs of Silence",
-        "url": "https://open.spotify.com/album/3WNHfcR03NSfUg4ZcZJG7t"
+        "name": "New Moon",
+        "url": "https://open.spotify.com/album/4iJMewsgF0ynzFefgvvvfI"
       },
       "artists": [
         {
-          "name": "Vince Clarke",
-          "url": "https://open.spotify.com/artist/7zkGCcaPSB7nLCtaxEWWE1"
+          "name": "Christopher Willits",
+          "url": "https://open.spotify.com/artist/0XHtezS69NYZ51SEFh8WEA"
         }
       ],
-      "duration_ms": 227033,
-      "name": "Scarper",
-      "url": "https://open.spotify.com/track/2qOAJNW4ExNsbLvvcMRZbe"
+      "duration_ms": 210002,
+      "name": "Rest",
+      "url": "https://open.spotify.com/track/66DjOnSQm4K3698zbfTuIz"
     },
     {
       "added_at": "2025-12-05 03:41:04",
       "album": {
-        "name": "Psychic Geography",
-        "url": "https://open.spotify.com/album/5M2wfJvURaKTP1CA6CUMGt"
+        "name": "BLCK SUN",
+        "url": "https://open.spotify.com/album/3xTbtTM3BSRIGxzWSMaEpc"
       },
       "artists": [
         {
-          "name": "DOVS",
-          "url": "https://open.spotify.com/artist/4dTrYioJXOgFCIglYGbXQm"
+          "name": "1100",
+          "url": "https://open.spotify.com/artist/0udbah3aryBR7bduL0pIr6"
+        },
+        {
+          "name": "AMIANGELIKA",
+          "url": "https://open.spotify.com/artist/2slfgfuDpiNgvjhy0EImUu"
         }
       ],
-      "duration_ms": 424170,
-      "name": "Psychic Geography",
-      "url": "https://open.spotify.com/track/5C4xqcoBLB0chGUUs4Ia3E"
+      "duration_ms": 236444,
+      "name": "Old Age",
+      "url": "https://open.spotify.com/track/2Jn8POFzOrOsjanBKkSnns"
     },
     {
       "added_at": "2025-12-05 03:41:04",
@@ -1491,6 +1495,22 @@
       "duration_ms": 333542,
       "name": "Ried-Brig",
       "url": "https://open.spotify.com/track/0uvgTUYXQlyppvYnJ4sn87"
+    },
+    {
+      "added_at": "2025-12-05 03:41:04",
+      "album": {
+        "name": "Psychic Geography",
+        "url": "https://open.spotify.com/album/5M2wfJvURaKTP1CA6CUMGt"
+      },
+      "artists": [
+        {
+          "name": "DOVS",
+          "url": "https://open.spotify.com/artist/4dTrYioJXOgFCIglYGbXQm"
+        }
+      ],
+      "duration_ms": 424170,
+      "name": "Psychic Geography",
+      "url": "https://open.spotify.com/track/5C4xqcoBLB0chGUUs4Ia3E"
     },
     {
       "added_at": "2025-12-05 03:41:04",
@@ -1515,26 +1535,6 @@
       "duration_ms": 337442,
       "name": "Outpost",
       "url": "https://open.spotify.com/track/6pkVbLNQkMHijQFhRwlScm"
-    },
-    {
-      "added_at": "2025-12-05 03:41:04",
-      "album": {
-        "name": "BLCK SUN",
-        "url": "https://open.spotify.com/album/3xTbtTM3BSRIGxzWSMaEpc"
-      },
-      "artists": [
-        {
-          "name": "1100",
-          "url": "https://open.spotify.com/artist/0udbah3aryBR7bduL0pIr6"
-        },
-        {
-          "name": "AMIANGELIKA",
-          "url": "https://open.spotify.com/artist/2slfgfuDpiNgvjhy0EImUu"
-        }
-      ],
-      "duration_ms": 236444,
-      "name": "Old Age",
-      "url": "https://open.spotify.com/track/2Jn8POFzOrOsjanBKkSnns"
     },
     {
       "added_at": "2025-12-05 03:41:04",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2025-12-05 03:41:04",
       "album": {
-        "name": "Reflections 06",
-        "url": "https://open.spotify.com/album/6PWyrdq1w6eZjQDrvCxBKX"
-      },
-      "artists": [
-        {
-          "name": "Otto Taimela",
-          "url": "https://open.spotify.com/artist/2bfnN87vIJ9DhQ02kXgh44"
-        }
-      ],
-      "duration_ms": 233853,
-      "name": "The Prettiest Pearl",
-      "url": "https://open.spotify.com/track/6JYiDDcfTwNH9lWfXK0LV7"
-    },
-    {
-      "added_at": "2025-12-05 03:41:04",
-      "album": {
         "name": "My Heart, My Beloved",
         "url": "https://open.spotify.com/album/5P0MRVUbfhR3HhzMRy0tFa"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 262367,
       "name": "Valleys and Peaks",
       "url": "https://open.spotify.com/track/4C7OdKOOVSGEn2DXfa8N9r"
+    },
+    {
+      "added_at": "2025-12-05 03:41:04",
+      "album": {
+        "name": "Reflections 06",
+        "url": "https://open.spotify.com/album/6PWyrdq1w6eZjQDrvCxBKX"
+      },
+      "artists": [
+        {
+          "name": "Otto Taimela",
+          "url": "https://open.spotify.com/artist/2bfnN87vIJ9DhQ02kXgh44"
+        }
+      ],
+      "duration_ms": 233853,
+      "name": "The Prettiest Pearl",
+      "url": "https://open.spotify.com/track/6JYiDDcfTwNH9lWfXK0LV7"
     },
     {
       "added_at": "2025-12-05 03:41:04",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2025-12-05 03:41:04",
       "album": {
-        "name": "Waterfall Horizon",
-        "url": "https://open.spotify.com/album/78qlomYI4uQHUSVOJETLud"
-      },
-      "artists": [
-        {
-          "name": "7038634357",
-          "url": "https://open.spotify.com/artist/2k55GlZ4XckJwuYEQ4HJAO"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Open Shadow",
-      "url": "https://open.spotify.com/track/4g0HhFBcBhPU4bkuhhGVEg"
-    },
-    {
-      "added_at": "2025-12-05 03:41:04",
-      "album": {
         "name": "O, Dark Mother",
         "url": "https://open.spotify.com/album/3wblniFFD2WjhkVzQVYoS6"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 331774,
       "name": "O, Dark Mother",
       "url": "https://open.spotify.com/track/15JnGovP4ZAh3CWFRhRAYz"
+    },
+    {
+      "added_at": "2025-12-05 03:41:04",
+      "album": {
+        "name": "Waterfall Horizon",
+        "url": "https://open.spotify.com/album/78qlomYI4uQHUSVOJETLud"
+      },
+      "artists": [
+        {
+          "name": "7038634357",
+          "url": "https://open.spotify.com/artist/2k55GlZ4XckJwuYEQ4HJAO"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Open Shadow",
+      "url": "https://open.spotify.com/track/4g0HhFBcBhPU4bkuhhGVEg"
     },
     {
       "added_at": "2025-12-05 03:41:04",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2025-12-05 03:41:04",
       "album": {
-        "name": "Lake",
-        "url": "https://open.spotify.com/album/5thgnsnY8BYC27Esdvnr6H"
-      },
-      "artists": [
-        {
-          "name": "Juha M\u00e4ki-Patola",
-          "url": "https://open.spotify.com/artist/6UMvXeBrLr04seUgcTvlxK"
-        }
-      ],
-      "duration_ms": 211053,
-      "name": "Lake",
-      "url": "https://open.spotify.com/track/1YtOsElSkFdSDMbtDiSkJD"
-    },
-    {
-      "added_at": "2025-12-05 03:41:04",
-      "album": {
         "name": "Apofanie",
         "url": "https://open.spotify.com/album/6mDeROE5QTMtx2tmmBSDfX"
       },
@@ -1931,18 +1915,18 @@
     {
       "added_at": "2025-12-05 03:41:04",
       "album": {
-        "name": "Under the Sun",
-        "url": "https://open.spotify.com/album/3OHAImHp6jIoxy5sJjk02R"
+        "name": "Lake",
+        "url": "https://open.spotify.com/album/5thgnsnY8BYC27Esdvnr6H"
       },
       "artists": [
         {
-          "name": "Maya Shenfeld",
-          "url": "https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ"
+          "name": "Juha M\u00e4ki-Patola",
+          "url": "https://open.spotify.com/artist/6UMvXeBrLr04seUgcTvlxK"
         }
       ],
-      "duration_ms": 477048,
-      "name": "Analemma",
-      "url": "https://open.spotify.com/track/7zbFaFcUpQvwPxMuGZTFch"
+      "duration_ms": 211053,
+      "name": "Lake",
+      "url": "https://open.spotify.com/track/1YtOsElSkFdSDMbtDiSkJD"
     },
     {
       "added_at": "2025-12-05 03:41:04",
@@ -1963,6 +1947,22 @@
       "duration_ms": 118309,
       "name": "You",
       "url": "https://open.spotify.com/track/6gp76uTmBFc2aJ5eXft916"
+    },
+    {
+      "added_at": "2025-12-05 03:41:04",
+      "album": {
+        "name": "Under the Sun",
+        "url": "https://open.spotify.com/album/3OHAImHp6jIoxy5sJjk02R"
+      },
+      "artists": [
+        {
+          "name": "Maya Shenfeld",
+          "url": "https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ"
+        }
+      ],
+      "duration_ms": 477048,
+      "name": "Analemma",
+      "url": "https://open.spotify.com/track/7zbFaFcUpQvwPxMuGZTFch"
     },
     {
       "added_at": "2025-12-05 03:41:04",
@@ -2199,18 +2199,18 @@
     {
       "added_at": "2025-12-05 03:41:04",
       "album": {
-        "name": "The Night",
-        "url": "https://open.spotify.com/album/5npaJ4fzxKFgdz7IiLoT6Q"
+        "name": "Sigh In My Ear",
+        "url": "https://open.spotify.com/album/3SrHRw7oJL9lD7w7FHOcwV"
       },
       "artists": [
         {
-          "name": "Saint Etienne",
-          "url": "https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f"
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
         }
       ],
-      "duration_ms": 162360,
-      "name": "Through The Glass",
-      "url": "https://open.spotify.com/track/6562LBNo2tkGbGrUAErv2P"
+      "duration_ms": 264000,
+      "name": "Your First Armadillo",
+      "url": "https://open.spotify.com/track/6QdL6dNUv5v6HkpW7nnKVM"
     },
     {
       "added_at": "2025-12-05 03:41:04",
@@ -2235,38 +2235,18 @@
     {
       "added_at": "2025-12-05 03:41:04",
       "album": {
-        "name": "Sigh In My Ear",
-        "url": "https://open.spotify.com/album/3SrHRw7oJL9lD7w7FHOcwV"
+        "name": "The Night",
+        "url": "https://open.spotify.com/album/5npaJ4fzxKFgdz7IiLoT6Q"
       },
       "artists": [
         {
-          "name": "claire rousay",
-          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+          "name": "Saint Etienne",
+          "url": "https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f"
         }
       ],
-      "duration_ms": 264000,
-      "name": "Your First Armadillo",
-      "url": "https://open.spotify.com/track/6QdL6dNUv5v6HkpW7nnKVM"
-    },
-    {
-      "added_at": "2025-12-05 03:41:04",
-      "album": {
-        "name": "Calma",
-        "url": "https://open.spotify.com/album/5d6P1j9WQSrkcT9DpwMk8x"
-      },
-      "artists": [
-        {
-          "name": "Pablo Bolivar",
-          "url": "https://open.spotify.com/artist/13NhdveBzN2Yh2elbf1rLs"
-        },
-        {
-          "name": "Nacho Sanchez",
-          "url": "https://open.spotify.com/artist/4YEgaKhOIrhCE9QYrSpzjf"
-        }
-      ],
-      "duration_ms": 293331,
-      "name": "Calma",
-      "url": "https://open.spotify.com/track/22Td0L84DAT9G819RIfIQz"
+      "duration_ms": 162360,
+      "name": "Through The Glass",
+      "url": "https://open.spotify.com/track/6562LBNo2tkGbGrUAErv2P"
     },
     {
       "added_at": "2025-12-05 03:41:04",
@@ -2287,6 +2267,26 @@
       "duration_ms": 210243,
       "name": "By the Air - Six Missing Rework",
       "url": "https://open.spotify.com/track/2OGLsbkQN7nv4iDFvN183f"
+    },
+    {
+      "added_at": "2025-12-05 03:41:04",
+      "album": {
+        "name": "Calma",
+        "url": "https://open.spotify.com/album/5d6P1j9WQSrkcT9DpwMk8x"
+      },
+      "artists": [
+        {
+          "name": "Pablo Bolivar",
+          "url": "https://open.spotify.com/artist/13NhdveBzN2Yh2elbf1rLs"
+        },
+        {
+          "name": "Nacho Sanchez",
+          "url": "https://open.spotify.com/artist/4YEgaKhOIrhCE9QYrSpzjf"
+        }
+      ],
+      "duration_ms": 293331,
+      "name": "Calma",
+      "url": "https://open.spotify.com/track/22Td0L84DAT9G819RIfIQz"
     },
     {
       "added_at": "2025-12-05 03:41:04",
@@ -2359,18 +2359,18 @@
     {
       "added_at": "2025-12-05 03:41:04",
       "album": {
-        "name": "1804 / 1 Million Haitians and Africans",
-        "url": "https://open.spotify.com/album/3vorYdCg7cGsAniBYQfxoY"
+        "name": "Out of the Blur",
+        "url": "https://open.spotify.com/album/4oquIG02DIGmU9JbBm9sDL"
       },
       "artists": [
         {
-          "name": "Kelman Duran",
-          "url": "https://open.spotify.com/artist/6PIl48ctj6HDmqVM2uIikd"
+          "name": "Eric Hilton",
+          "url": "https://open.spotify.com/artist/4tgBpjW0GVvKqP7uY2OHYB"
         }
       ],
-      "duration_ms": 145085,
-      "name": "1804",
-      "url": "https://open.spotify.com/track/3cfbK7ZTCDYHezlPwqlh8d"
+      "duration_ms": 391750,
+      "name": "Vessel",
+      "url": "https://open.spotify.com/track/315MpPgQhp6FEXDcLhJXSZ"
     },
     {
       "added_at": "2025-12-05 03:41:04",
@@ -2391,18 +2391,18 @@
     {
       "added_at": "2025-12-05 03:41:04",
       "album": {
-        "name": "Out of the Blur",
-        "url": "https://open.spotify.com/album/4oquIG02DIGmU9JbBm9sDL"
+        "name": "1804 / 1 Million Haitians and Africans",
+        "url": "https://open.spotify.com/album/3vorYdCg7cGsAniBYQfxoY"
       },
       "artists": [
         {
-          "name": "Eric Hilton",
-          "url": "https://open.spotify.com/artist/4tgBpjW0GVvKqP7uY2OHYB"
+          "name": "Kelman Duran",
+          "url": "https://open.spotify.com/artist/6PIl48ctj6HDmqVM2uIikd"
         }
       ],
-      "duration_ms": 391750,
-      "name": "Vessel",
-      "url": "https://open.spotify.com/track/315MpPgQhp6FEXDcLhJXSZ"
+      "duration_ms": 145085,
+      "name": "1804",
+      "url": "https://open.spotify.com/track/3cfbK7ZTCDYHezlPwqlh8d"
     },
     {
       "added_at": "2025-12-05 03:41:04",

@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-226 songs - 13 hr 47 min
+230 songs - 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Breathe In](https://open.spotify.com/track/5lmqUdPqVs8zrcrRIgAw8d) | [Eight Feet Fine](https://open.spotify.com/artist/6NCVf4mDJv1vB8FbTPMzrV) | [Breathe In](https://open.spotify.com/album/4MOZuggfZkPg5TkQ5WQk81) | 5:06 | 2025-09-24 | 2025-12-17 |
 | [Bringin' It Back](https://open.spotify.com/track/7h9I6NCzj20ggQWRqo26eJ) | [David Starr](https://open.spotify.com/artist/6PJuDsfOF3dpzVpdrUIRw1) | [MUST BE BLUE](https://open.spotify.com/album/2UQxmEQ0JM0aqKQr30zKjH) | 4:11 | 2025-09-03 |  |
 | [Broken and free](https://open.spotify.com/track/7fxqxtQFoAmOFPNW0JQP8M) | [GrooO](https://open.spotify.com/artist/5HgOlcue2r9Z5jBv3YzNmW) | [Broken and free](https://open.spotify.com/album/0TreN2tdVacgPX3c0XBwWO) | 2:52 | 2025-09-29 | 2025-12-17 |
+| [Broken Soul Blues](https://open.spotify.com/track/2YpUdPdUpXTC7fyAFeWECs) | [pedromiguelriera](https://open.spotify.com/artist/0w3VcWdD2XOrO39PoLqoaY) | [Broken Soul Blues](https://open.spotify.com/album/6qlVUGUewVaaFwmjyu3UzS) | 3:57 | 2025-12-24 |  |
 | [Búsqueda](https://open.spotify.com/track/3omNsXHqJL3sg5Rj3Swwgw) | [Galaxia Ventura](https://open.spotify.com/artist/7CLTzydEhFbCSNaNPzGgu5) | [Un cambio](https://open.spotify.com/album/2JFhyiCmKYdr7R3vdQcr9e) | 3:05 | 2025-11-28 | 2025-12-17 |
 | [Call My Name](https://open.spotify.com/track/33xuhHhDgCVaEMHXHB9bd8) | [L'Orely & The Scarlett Band](https://open.spotify.com/artist/12aIeiS0nbNCcfRIJss29n) | [Ne doute pas](https://open.spotify.com/album/4rlD5iOOSof6wuxrihIsuW) | 3:40 | 2025-11-02 | 2025-12-17 |
 | [Can't Get Enough \- Live](https://open.spotify.com/track/55KAZ5rHlaRtWfY83vva54) | [Rockers On Broadway](https://open.spotify.com/artist/4tBjymJzFjkdHwNPk0aKZP), [Donnie Kehr](https://open.spotify.com/artist/5iMECNzLtUZYMgkGoxRTRG), [Simon Kirke](https://open.spotify.com/artist/0vKffNhiMY9sJ6lyOJL6NF) | [Rockers On Broadway, Vol\. 2 \(Live\)](https://open.spotify.com/album/1WHUj6k8JuNzn5yjGC7IFQ) | 3:10 | 2025-10-17 | 2025-11-28 |
@@ -88,6 +89,7 @@
 | [Fine](https://open.spotify.com/track/1acTG3McucI4PvWXxjGwoV) | [Brian Wolff](https://open.spotify.com/artist/5tW2IMfCtMzMHLij0PlQht) | [Fine](https://open.spotify.com/album/0wxCT2YorPsh4VKkei1jfP) | 4:10 | 2025-10-02 | 2025-12-17 |
 | [Free Way Out](https://open.spotify.com/track/7gSjuNcfiqLaUDYS5jEBPD) | [Voodoo Queen](https://open.spotify.com/artist/4TCJrwz91dvytiaX8RZhi6) | [Free Way Out](https://open.spotify.com/album/0KppBhyakdpAXmc9HAi6hM) | 4:11 | 2025-09-22 | 2025-12-17 |
 | [Für Immer \- Remix](https://open.spotify.com/track/2hpl1n59KTXajtBcP0ZTxI) | [Christaris](https://open.spotify.com/artist/65bycLZE7csn1qM95wLuCa) | [Blick nach vorn](https://open.spotify.com/album/3xIXeh22qBPOJZJL1lXXA0) | 3:12 | 2025-10-06 | 2025-11-28 |
+| [Ganho Ou Perco?](https://open.spotify.com/track/7A5YUDJZjBHV7pU71cEFW4) | [J.V\. Ferreira](https://open.spotify.com/artist/71IyZPuWgamI0vGHr0YKj7) | [Ganho Ou Perco?](https://open.spotify.com/album/0KFl9FoQhS7YNvok86360L) | 5:41 | 2025-12-24 |  |
 | [Get Lost Blues](https://open.spotify.com/track/68TaMRM7uQyrVZz6oW1lrW) | [DELREI](https://open.spotify.com/artist/77Xku7f5rq7hfoooTiv5jW) | [Desolation and Radiation](https://open.spotify.com/album/1P6cd5pDxmFNFZedAMWwh1) | 3:47 | 2025-10-17 | 2025-11-28 |
 | [Girl Gone Bad](https://open.spotify.com/track/0CfgCWKXlUNGNO2IGpT6WF) | [Marc Miner](https://open.spotify.com/artist/1805X4Dsc005LhyxsQgu5A) | [Last Heroes](https://open.spotify.com/album/1fsRse0jMTidK4lzVSdgMF) | 4:56 | 2025-09-01 | 2025-11-28 |
 | [Goes like this](https://open.spotify.com/track/75u3OSWmlthee7G1k149hA) | [FH Baloo](https://open.spotify.com/artist/7rkZjZIX74Z5uG5ayplthd) | [Goes like this](https://open.spotify.com/album/2fRbbTLonnCV19IAYyjqmX) | 5:14 | 2025-09-02 |  |
@@ -132,6 +134,7 @@
 | [Me Haces Sentir](https://open.spotify.com/track/0LIEw9QydN9YhmbhyqLBDj) | [José Vásquez ND7](https://open.spotify.com/artist/2JFcFnRC2de1I5X8bNrllE) | [Me Haces Sentir](https://open.spotify.com/album/4QxZM410XXjV2fHAeTSehN) | 3:49 | 2025-10-08 | 2025-11-28 |
 | [Mercy's Song \(Psalm 6\)](https://open.spotify.com/track/580tHG3i04jZw2O1fwnJXy) | [RedemptionRising](https://open.spotify.com/artist/40yxohQeJ1MJhlJhzAj5Ty) | [Mercy's Song \(Psalm 6\)](https://open.spotify.com/album/5H78VfPQjOt1RG7EmiPo57) | 3:48 | 2025-09-07 |  |
 | [Message Through Time](https://open.spotify.com/track/4BPrHDgqGxnWANdMphAbNQ) | [Groove Vultures](https://open.spotify.com/artist/4mxU5Dnd342CsqAS6viJuj) | [Message Through Time](https://open.spotify.com/album/45LoKgIdcZiDUrx7V5HbuC) | 5:21 | 2025-11-02 | 2025-12-17 |
+| [Mi Porción Del Cielo](https://open.spotify.com/track/0j2FJ9VZRxyveO8nm28o1p) | [Jimmy Molina](https://open.spotify.com/artist/3mVMWQayvasA1ugv6dy35e) | [Mi Porción Del Cielo](https://open.spotify.com/album/2IcSq6ZZPiJGoaIFBFuAl5) | 2:40 | 2025-12-24 |  |
 | [Might](https://open.spotify.com/track/29tEoaOohhs9T5KzL5nwSp) | [CousinRay](https://open.spotify.com/artist/1a6zRnXwYNfgmQwGCe7aZZ), [Drew Nold](https://open.spotify.com/artist/33aaruu0jaWNP2jmw03YL9), [Steam Slicer](https://open.spotify.com/artist/1BrdiIVdlnhJZRJkLCb5TI) | [Might](https://open.spotify.com/album/3kzrk1s5s52bPX4RJlXBme) | 4:00 | 2025-09-30 | 2025-12-17 |
 | [Mojo On](https://open.spotify.com/track/3TdRMlfp6LGeAtOASCN8nx) | [Luback](https://open.spotify.com/artist/7A4hy5k2AzVjPu8yjXnZr9), [The Clics](https://open.spotify.com/artist/0haX6u2d6rCkAXWJB4d9sO) | [Mojo On](https://open.spotify.com/album/22flR5Lny2T7GFrDKLxxUD) | 4:21 | 2025-11-02 | 2025-12-17 |
 | [MORE IS MORE](https://open.spotify.com/track/6tLEgrRHqFuCaNJoGkqEvQ) | [One Last Story](https://open.spotify.com/artist/1gQmrxjvjFTy1yDRpwvewq) | [MORE IS MORE](https://open.spotify.com/album/1Yc5IDAu1TE61J1m4zLaPG) | 3:22 | 2025-10-30 | 2025-12-17 |
@@ -219,6 +222,7 @@
 | [Walk Through Quicksand](https://open.spotify.com/track/5Pr5NTcu6bgkcQgNabBM3b) | [Tyler Davis](https://open.spotify.com/artist/6pwJdVo23zP5HTxzVdUQQC) | [Walk Through Quicksand](https://open.spotify.com/album/2oxRmthCj3nUYYmx7xliaE) | 3:31 | 2025-10-19 |  |
 | [Warrior Chords"](https://open.spotify.com/track/4QfErx2XCCmGaONPiBxTLF) | [Armen Matevosyan](https://open.spotify.com/artist/65TwqYuEHIn9qyoI4DvSve) | [Warrior Chords"](https://open.spotify.com/album/6QZYjJl43YHX3sQjI0kxaO) | 5:12 | 2025-11-03 | 2025-12-17 |
 | [Wasting My Time](https://open.spotify.com/track/09b5kXOEsKtC42qD5AJNcA) | [Guest](https://open.spotify.com/artist/5F8rALP4C5MXmNeLgOtJ0t) | [Wasting My Time](https://open.spotify.com/album/0V4qWW8XqxvGrEFttE3Bus) | 2:52 | 2025-11-27 |  |
+| [We Always Lie](https://open.spotify.com/track/79fDWHvwxHnX64TWVuWqej) | [Tony Mecca](https://open.spotify.com/artist/3FEarLAYejR4vLifQcpiRb) | [Everyday Revolt](https://open.spotify.com/album/0rrZYzBjRlMdbTErbrkqdq) | 3:28 | 2025-12-24 |  |
 | [Werewolves of London](https://open.spotify.com/track/0zYtpXjgqkKKQOpsl3y9qE) | [Highway Wolf](https://open.spotify.com/artist/6WKdYl11XpIoIGJCV6AeXE) | [Werewolves of London](https://open.spotify.com/album/3hKZcu4BOd9ZP8knghvahJ) | 4:24 | 2025-11-06 | 2025-12-17 |
 | [What I Need](https://open.spotify.com/track/4Pyo1AIDTHsEXJnyDc5Ew1) | [The Fading Wish](https://open.spotify.com/artist/5sy66wBuZP3PpDgArbuItr) | [What I Need](https://open.spotify.com/album/6D24DlYbh2JJUPrxbKPaMo) | 2:42 | 2025-11-26 | 2025-12-17 |
 | [What I Need from You](https://open.spotify.com/track/0AWDRo8aeuR6JBfc15g0wj) | [Byron Walker](https://open.spotify.com/artist/48aPWjDPQcizEOJHQ8ghcJ) | [What I Need from You](https://open.spotify.com/album/3DgJSlbyGOLwkfF6DFr4SE) | 5:19 | 2025-10-04 | 2025-12-17 |

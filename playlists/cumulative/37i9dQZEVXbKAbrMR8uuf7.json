@@ -2776,12 +2776,12 @@
           "url": "https://open.spotify.com/artist/1mjgxCCu7fUaLC8WlOnOu0"
         },
         {
-          "name": "Maiky Pailon",
-          "url": "https://open.spotify.com/artist/2sRNZXIG2iwA17lHJjBP9P"
-        },
-        {
           "name": "Herido no muerto",
           "url": "https://open.spotify.com/artist/72d2wiRTQCxoIENVvdb7xc"
+        },
+        {
+          "name": "Maiky Pailon",
+          "url": "https://open.spotify.com/artist/2sRNZXIG2iwA17lHJjBP9P"
         }
       ],
       "date_added": "2025-10-23",
@@ -10206,7 +10206,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-25",
       "duration_ms": 229360,
       "name": "Dile al Amor",
       "url": "https://open.spotify.com/track/2Bhmj4XK33InfhqKPxcJ1v"
@@ -34156,6 +34156,28 @@
       "duration_ms": 179124,
       "name": "Se Comenta",
       "url": "https://open.spotify.com/track/4k869Bb2tOOH1l4HpIQK5D"
+    },
+    {
+      "album": {
+        "name": "Se Dejo Del Novio",
+        "url": "https://open.spotify.com/album/4A379mjlFDtZgMQKkYHXGB"
+      },
+      "artists": [
+        {
+          "name": "Ezzy R",
+          "url": "https://open.spotify.com/artist/0DiYoKuXAI3xAA5JiU5UFX"
+        },
+        {
+          "name": "Leo RD",
+          "url": "https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk"
+        }
+      ],
+      "date_added": "2025-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130677,
+      "name": "Se Dejo Del Novio",
+      "url": "https://open.spotify.com/track/1Xr3x1zElsBYlFzTvS60c8"
     },
     {
       "album": {

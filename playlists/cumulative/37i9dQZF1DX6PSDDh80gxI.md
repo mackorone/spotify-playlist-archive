@@ -2,7 +2,7 @@
 
 ### [Indie Italia](https://open.spotify.com/playlist/37i9dQZF1DX6PSDDh80gxI)
 
-> giorgio poi remixato da faccianuvola??!? what is this, a crossover episode??? \(scusate la gag lo sappiamo che è un po' passata\)
+> ciao auguri dagli editor di Spotify 🎁 ricominciamo ad aggiornare la playlist il 2/1, intanto: coez in cover
 
 440 songs - 23 hr 32 min
 
@@ -89,7 +89,7 @@
 | [Copricolori](https://open.spotify.com/track/57oyHJP3okJUJHXB1eDcH3) | [Marco Castello](https://open.spotify.com/artist/0ErDKYNv448COBCNdnqYIm) | [Pezzi Della Sera](https://open.spotify.com/album/4zRAT9VgY87szB4Gufc2t9) | 3:47 | 2025-02-03 | 2025-04-23 |
 | [Corriamo senza futuro](https://open.spotify.com/track/2Fku8rTogu9G0xd6r1J5kh) | [Assurditè](https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC) | [Corriamo senza futuro](https://open.spotify.com/album/3EnPF5Rdj1rd5dDPMi0lHY) | 2:50 | 2024-06-27 | 2024-10-04 |
 | [Cosa Faremo Da Grandi?](https://open.spotify.com/track/1fi6WJYdiFQ7gEtAtJ8NH6) | [Lucio Corsi](https://open.spotify.com/artist/1rGpYQGiwKelukgqpI6xKx) | [Cosa Faremo Da Grandi?](https://open.spotify.com/album/0lVUjh0JQVfpUlengR8PwQ) | 3:00 | 2025-02-20 | 2025-03-21 |
-| [Cosa mi manchi a fare](https://open.spotify.com/track/7L8cIUKXToCr6PV9hFoX3Q) | [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [Mainstream \(Deluxe Edition\)](https://open.spotify.com/album/11dh7pT3FRrGkI3TXl0e4k) | 2:49 | 2025-11-27 |  |
+| [Cosa mi manchi a fare](https://open.spotify.com/track/7L8cIUKXToCr6PV9hFoX3Q) | [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [Mainstream \(Deluxe Edition\)](https://open.spotify.com/album/11dh7pT3FRrGkI3TXl0e4k) | 2:49 | 2025-11-27 | 2025-12-25 |
 | [Cu'mme](https://open.spotify.com/track/7o4YxPFeOBZHTncM1HgvPx) | [Ganzo](https://open.spotify.com/artist/4N4LelQ5TM7dEhi5TASLLw), [Damiank](https://open.spotify.com/artist/0HK1JtedHdz3a76ZpWaEsc) | [Cu'mme](https://open.spotify.com/album/25FWNzlqZOdjS78c1ewthP) | 2:42 | 2024-07-25 | 2024-08-16 |
 | [Cuori infranti](https://open.spotify.com/track/0D0ZSyiqzZcuvbXqMi76fg) | [Giorgieness](https://open.spotify.com/artist/4QYFjNac8XiU828KjV1oWA) | [Cuori infranti](https://open.spotify.com/album/03CBDXT35cavl0TY2evqBl) | 2:47 | 2024-09-13 | 2024-10-02 |
 | [CUORICINI](https://open.spotify.com/track/0A9FAzeaUEMHB68FPk3GYc) | [Coma\_Cose](https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us) | [CUORICINI](https://open.spotify.com/album/5iab7EULiYrp2rgp5PsdzK) | 3:14 | 2025-02-12 | 2025-04-09 |
@@ -129,7 +129,7 @@
 | [Flavio](https://open.spotify.com/track/4fsvWE5P0MC7KgwlSpCK1R) | [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN) | [DENTRO](https://open.spotify.com/album/2z1yhHOmoGKbf6QG8HTjmV) | 3:02 | 2024-06-27 | 2024-11-29 |
 | [Forse](https://open.spotify.com/track/0Wq6bYSdGvhZWHKUhsxzvI) | [Tommaso Paradiso](https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc) | [Forse](https://open.spotify.com/album/3hIRufsYu9Zz40cXfjNgmg) | 3:29 | 2025-11-13 |  |
 | [Fratello](https://open.spotify.com/track/7HGdifYN6emWwGIC5QtHSr) | [IRBIS](https://open.spotify.com/artist/2u9Wpl7T6gCu1t3ymd6aXL) | [LACRIME E CEMENTO](https://open.spotify.com/album/3Xf19WNtWHIGITHydF506S) | 2:47 | 2024-06-27 | 2024-09-14 |
-| [Frosinone](https://open.spotify.com/track/18NBoQ9SyURVcsPW6sP8tv) | [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [Mainstream \(Deluxe Edition\)](https://open.spotify.com/album/11dh7pT3FRrGkI3TXl0e4k) | 3:09 | 2025-11-27 |  |
+| [Frosinone](https://open.spotify.com/track/18NBoQ9SyURVcsPW6sP8tv) | [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [Mainstream \(Deluxe Edition\)](https://open.spotify.com/album/11dh7pT3FRrGkI3TXl0e4k) | 3:09 | 2025-11-27 | 2025-12-25 |
 | [Fucina](https://open.spotify.com/track/67vJdMwzC9uf45SCAdWYKB) | [Francamente](https://open.spotify.com/artist/6bqtHMM52XRivHoewxC5Ts) | [Fucina](https://open.spotify.com/album/0sMlOuCm7ACc9M03XkLaNA) | 2:59 | 2024-11-21 | 2025-03-28 |
 | [fulmine a ciel sereno](https://open.spotify.com/track/36gtJ3amXxagqcW61gB3HO) | [faccianuvola](https://open.spotify.com/artist/5KVUHVqS6B5MZKXf5PXDg1) | [fulmine a ciel sereno](https://open.spotify.com/album/23oVdnPw7NLTh9bl0WEJgA) | 2:54 | 2025-01-16 | 2025-03-18 |
 | [Fumantina](https://open.spotify.com/track/7pPBHzshVTaaWejG7mlb4r) | [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [Fumantina](https://open.spotify.com/album/6FgC7laRXop6DMm9KhjWgb) | 3:17 | 2025-05-28 | 2025-07-04 |

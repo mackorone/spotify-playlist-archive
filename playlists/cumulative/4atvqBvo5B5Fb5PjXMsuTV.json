@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 23 Dec 14:04 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 24 Dec 19:04 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -1146,6 +1146,24 @@
       "duration_ms": 146546,
       "name": "3AM in ToKEYo",
       "url": "https://open.spotify.com/track/1EpSEIbldNM7SQ6koEQqWT"
+    },
+    {
+      "album": {
+        "name": "4 SEASONS",
+        "url": "https://open.spotify.com/album/49AfR54iF8NMJyJzx9OLyg"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "date_added": "2025-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275432,
+      "name": "4 SEASONS",
+      "url": "https://open.spotify.com/track/7pLqzAGMlHWItf1qDHWPPq"
     },
     {
       "album": {
@@ -40980,7 +40998,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-25",
       "duration_ms": 194631,
       "name": "Guardian",
       "url": "https://open.spotify.com/track/1nrj6SI6yvfkP8tWwaoLsb"

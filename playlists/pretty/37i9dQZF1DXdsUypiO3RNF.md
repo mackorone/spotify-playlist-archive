@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsUypiO3RNF.md) - [plain]
 
 > Meditate with this solfeggio frequency to embrace love, positivity and the chakra of the heart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,805 likes - 76 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,848 likes - 76 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsUypiO3RNF.md) - [plain]
 | 75 | [Borobudur](https://open.spotify.com/track/01tPWVf2QA5lchGfVtHvFI) | [Prophétique](https://open.spotify.com/artist/4uhsb1EuCyjawRUy9RXt6v) | [Borobudur](https://open.spotify.com/album/4TSZkThalBsuGfabncOxtY) | 2:21 |
 | 76 | [639 Hz \- Solfeggio For Clarity](https://open.spotify.com/track/1fE8Q51rvOGoZe4HNCrgMK) | [Theta Aum](https://open.spotify.com/artist/7JqEtz50hLij7xaWbuWV42) | [Solfeggio For Clarity](https://open.spotify.com/album/2w7B92xiafwo6yJN15d7UM) | 2:05 |
 
-Snapshot ID: `AAAAAKd2KMc5jImgrXFo1O8lXQTo4RS8`
+Snapshot ID: `AAAAAGg8yEK49D71UHz0sJD+BWn21ZdE`

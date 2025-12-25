@@ -4,12 +4,12 @@
 
 > 12 Hours of brown noise to sleep longer.
 
-293 songs - 14 hr 38 min
+295 songs - 14 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10.000 Feet Sound](https://open.spotify.com/track/5axvufFHb4Fa1UgXAqZTbZ) | [Shipool](https://open.spotify.com/artist/3f80bpOxnBWyooKCGKLhd3) | [Dry White Noise](https://open.spotify.com/album/5QcwHXaahDM15SCCg26W7h) | 1:25 | 2023-05-25 | 2023-06-29 |
-| [126 hz LPF Brown Noise](https://open.spotify.com/track/0CR2sYL6dGeIpgpZigcR0t) | [Fortuna](https://open.spotify.com/artist/2gbFrZ06uCjIZsE1LS46uV) | [Brown Noise Relaxation](https://open.spotify.com/album/6Ebja7i0qo75APOZKqSxbu) | 2:29 | 2023-05-25 |  |
+| [126 hz LPF Brown Noise](https://open.spotify.com/track/0CR2sYL6dGeIpgpZigcR0t) | [Fortuna](https://open.spotify.com/artist/2gbFrZ06uCjIZsE1LS46uV) | [Brown Noise Relaxation](https://open.spotify.com/album/6Ebja7i0qo75APOZKqSxbu) | 2:29 | 2023-05-25 | 2025-12-25 |
 | [250 hz](https://open.spotify.com/track/6hSTTsafTBFi7jkqfF2edo) | [Daily Calm](https://open.spotify.com/artist/1RFbFQgjNdi8M4qM5gzgfj) | [Calm Brown Noise](https://open.spotify.com/album/18I59FrYZxXwKZyg9IfQRr) | 3:50 | 2023-05-25 |  |
 | [300 Hz Brown Noise](https://open.spotify.com/track/1vd0lL7y6ALu8bWPNfXhMQ) | [Zen Minds](https://open.spotify.com/artist/60Fm4GFdvEYvMM0uueCYtt) | [Brown Zen Noise](https://open.spotify.com/album/2tgF6LmkwmMcX7TfkE4kFl) | 2:46 | 2023-05-25 |  |
 | [500 hz](https://open.spotify.com/track/2hqX5Ex3zuwo9Rv9LuB1jk) | [Daily Calm](https://open.spotify.com/artist/1RFbFQgjNdi8M4qM5gzgfj) | [Calm Brown Noise](https://open.spotify.com/album/18I59FrYZxXwKZyg9IfQRr) | 3:16 | 2023-05-25 | 2025-11-20 |
@@ -44,7 +44,7 @@
 | [Brown Noise \- 600 Hz \- Cutoff](https://open.spotify.com/track/41aNMlRFcPu2E2i7Omn0QY) | [Ambient Sample Library](https://open.spotify.com/artist/6PNnYUWwNZssn13ObbsqrC) | [Ambient Brown Noise](https://open.spotify.com/album/2eX4QLxSoYBh4ODULeluhE) | 1:49 | 2023-05-25 | 2023-06-29 |
 | [Brown Noise 110 Hz Soft Q](https://open.spotify.com/track/43AHVJK6VNxeRpTEq7Ms8Q) | [The Tone\-Gens](https://open.spotify.com/artist/3lda2alb3vN921wjgmWhsq) | [Soft Sleeping Sounds](https://open.spotify.com/album/3PNjd6znRvBAS6eSskjwLT) | 4:06 | 2023-05-25 |  |
 | [Brown Noise 250 Hz Smooth Q \- Seamless](https://open.spotify.com/track/1RauFf2NZTjZgPzsjl9W8q) | [Waves Of Time](https://open.spotify.com/artist/5doCIxxFrIe9mTSjcGKmQd) | [Tranquil Brown](https://open.spotify.com/album/2p2VzgpoN035uU2XzvVzEZ) | 2:56 | 2023-05-25 |  |
-| [Brown Noise 320 Hz](https://open.spotify.com/track/3eOeRly00MkRZdXE87wd4j) | [Sleep Dimension](https://open.spotify.com/artist/2ZV8Daj4IYuvunYiUTQIFN) | [Rumore Marrone](https://open.spotify.com/album/1b72n5oTBZdwlfVr4gDKL1) | 3:34 | 2023-10-26 |  |
+| [Brown Noise 320 Hz](https://open.spotify.com/track/3eOeRly00MkRZdXE87wd4j) | [Sleep Dimension](https://open.spotify.com/artist/2ZV8Daj4IYuvunYiUTQIFN) | [Rumore Marrone](https://open.spotify.com/album/1b72n5oTBZdwlfVr4gDKL1) | 3:34 | 2023-10-26 | 2025-12-25 |
 | [Brown Noise 465Hz](https://open.spotify.com/track/23YAJGXhT9AHp4Kx2xWbuU) | [Klangspiel](https://open.spotify.com/artist/2IM5tvnq8r2d8yYY2FTXNX) | [Pensive Brown Noise](https://open.spotify.com/album/1ZR9DdArrK5Pt6FJ0m8uw4) | 3:21 | 2023-05-25 | 2025-07-01 |
 | [Brown Noise 743Hz](https://open.spotify.com/track/4hbUmOmvkhmmGahzjEBdGT) | [Wavelab](https://open.spotify.com/artist/7AbQo3tDp5SYr5ctDcNC21) | [Brown Noise in Space](https://open.spotify.com/album/7o2G37Oepd4GWHnRT58QgR) | 3:36 | 2023-05-25 |  |
 | [Brown Noise Airplane Mode](https://open.spotify.com/track/4vei5lYKqbu2xN9AuDWA88) | [Enhanced Audio](https://open.spotify.com/artist/25y0vgD4fPJCkjynE2K02m) | [Brown Dreams](https://open.spotify.com/album/7E6ns1hJsMqE2Az6hSEncI) | 1:48 | 2023-05-25 | 2023-06-29 |
@@ -111,6 +111,7 @@
 | [Brown Noise Relaxation](https://open.spotify.com/track/7B2NN0WqqfO2qypdg1ygss) | [Noi Ses](https://open.spotify.com/artist/5t2BU9eY0SVexUnLcOZGXH) | [Steady Brown Noise](https://open.spotify.com/album/5ovoVmC46xmJ7mjb4PN0a1) | 3:17 | 2023-10-26 |  |
 | [Brown Noise Relaxation](https://open.spotify.com/track/6LGqTES8rFuDHbn0y40iGX) | [The Sleep Phasers](https://open.spotify.com/artist/0Hsi1ogeO5MpghqgXtuh9L) | [Brown Noise Relaxation](https://open.spotify.com/album/03sa3kRpeh8gyYEmThUstR) | 3:43 | 2023-05-25 | 2025-07-08 |
 | [Brown Noise REM](https://open.spotify.com/track/6i0UjMkl7g9TcP7cLGyMND) | [Granular](https://open.spotify.com/artist/1jfnMuDBl5OaAoU0VwLD8m) | [Brown Noise Deep Sleep](https://open.spotify.com/album/1TVk7P9fQqEmHbUlDkyvWj) | 3:00 | 2023-05-25 |  |
+| [Brown Noise Revival](https://open.spotify.com/track/0Etkr9kznyFaWC14jKMm61) | [William R\. Walker](https://open.spotify.com/artist/08naVjWqOcpcZInrTpQ8bu) | [Brown Noise Revival](https://open.spotify.com/album/0Y0v3kvcNJN2uP0V2wVeZ3) | 3:07 | 2025-12-19 |  |
 | [Brown Noise Revolution](https://open.spotify.com/track/3R0FpW9Cdoiesu5ExGknEW) | [Holuka](https://open.spotify.com/artist/2vhp6YYXzpAZKMTJ7Gor9u) | [Brown Noise in Paradise](https://open.spotify.com/album/1YYm48Jbl1AHGhz0prnD4i) | 3:53 | 2023-05-25 |  |
 | [Brown Noise River](https://open.spotify.com/track/3vQOmQzXu7NTj989yxonZt) | [The Sleep Phasers](https://open.spotify.com/artist/0Hsi1ogeO5MpghqgXtuh9L) | [Brown Noise Chill](https://open.spotify.com/album/3ci5cgq0RIVpMB7ZTWubIh) | 3:34 | 2023-05-25 |  |
 | [Brown Noise River Stream](https://open.spotify.com/track/0HtiH9oeEf82hjYsUUC2Gw) | [The Brownian Sleepers](https://open.spotify.com/artist/0knYqGnaAzMnPYgvzubyNN) | [Brown Noise River Stream](https://open.spotify.com/album/3dZao3539rwchDaUjrnDtX) | 2:56 | 2023-10-26 |  |
@@ -213,6 +214,7 @@
 | [Good Night Brown Noise](https://open.spotify.com/track/2PyV5iL5LG3tKGTL03PeZ6) | [Electricality](https://open.spotify.com/artist/3WiLG8IMyo00LP5Yqb8yUG) | [Sleep Fast Brown Noise](https://open.spotify.com/album/01BsRQXpRYSb9hmw2zZvQh) | 2:04 | 2023-05-25 |  |
 | [Heavenly Brrown Noise](https://open.spotify.com/track/20GpL0Svq98inYQf6vbApr) | [Sleep Waves](https://open.spotify.com/artist/5YwgJh6Sx2jIZ0NTqzYCDW) | [Brown Noise Slumber](https://open.spotify.com/album/7MfF4606e53wyaYA3gRDuv) | 2:13 | 2023-05-25 |  |
 | [Hora De Acostarse](https://open.spotify.com/track/3LuLux6nTGTAfv19YraF0I) | [Hz Catchers](https://open.spotify.com/artist/6Bea98kSgFYBJdaRDgAnG5) | [Sonido Precioso](https://open.spotify.com/album/0MVwuJugR6K5XnD1x5PEPJ) | 2:02 | 2023-05-25 |  |
+| [Humming Brown Noise](https://open.spotify.com/track/1NCoyaBjVYHuvP4rv8KEfX) | [Symphony of Noises](https://open.spotify.com/artist/0gju4pLAHiP2XhvPXy5Irj) | [Humming Brown Noise](https://open.spotify.com/album/58dbO45TAMhze7Gm31koOs) | 2:58 | 2025-12-19 |  |
 | [Hypnotic Brown Noise](https://open.spotify.com/track/5Trwo3UnaX0v8k20YZQRxZ) | [Hypnotronica](https://open.spotify.com/artist/4V6Upc3fY4gIqOH6AogDCW) | [Hypnotic Brown](https://open.spotify.com/album/0gUZ0E2U52x1rX81dJEGwT) | 3:21 | 2023-05-25 |  |
 | [I can only sleep with Brown Noise](https://open.spotify.com/track/6TamoYwBwe2lCUtSB06znG) | [Sacred Ambience](https://open.spotify.com/artist/53jXkqVPz2iz5g9vJclJlJ) | [Brown Noise in the Air](https://open.spotify.com/album/6f3Ua6cXKYg1S8ohptHtH0) | 4:19 | 2023-05-25 | 2025-02-28 |
 | [If there were Brown Noise](https://open.spotify.com/track/6OUFOk4dOOkd4iz0gSzEaR) | [Sweet Sol](https://open.spotify.com/artist/0nJCGnCYFNKjjgHnEaDyUu) | [Something like brown noise](https://open.spotify.com/album/18d26SDZsZ5msSuA7vbnbC) | 3:49 | 2023-05-25 | 2025-03-01 |

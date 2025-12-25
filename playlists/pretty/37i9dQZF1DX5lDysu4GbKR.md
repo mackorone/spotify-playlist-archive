@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lDysu4GbKR.md) - [plain]
 
 > Stripped back vibes\. Cover:  TAVE & Tia Gordon
 
-[Spotify](https://open.spotify.com/user/spotify) - 612,476 likes - 160 songs - 8 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 612,480 likes - 160 songs - 8 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

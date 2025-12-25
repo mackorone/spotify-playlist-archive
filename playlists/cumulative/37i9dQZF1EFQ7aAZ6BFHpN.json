@@ -4653,6 +4653,24 @@
     },
     {
       "album": {
+        "name": "Ella Fitzgerald Sings The George And Ira Gershwin Song Book",
+        "url": "https://open.spotify.com/album/0R4cTfOy202dHa2x1bMnsw"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "date_added": "2025-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184960,
+      "name": "That Certain Feeling",
+      "url": "https://open.spotify.com/track/2jUM0vl8uTgbpc1mmOixd7"
+    },
+    {
+      "album": {
         "name": "Gershwin Plays Gershwin: The Piano Rolls",
         "url": "https://open.spotify.com/album/4sX0syeh1dyi8s7Gx0m7H0"
       },
@@ -4664,7 +4682,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-25",
       "duration_ms": 167040,
       "name": "That Certain Feeling",
       "url": "https://open.spotify.com/track/0LErVxjTqak8uoHS33WPZQ"

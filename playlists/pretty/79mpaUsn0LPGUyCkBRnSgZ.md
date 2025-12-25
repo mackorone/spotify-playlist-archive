@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 630 songs - 1 day 17 hr 9 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 631 songs - 1 day 17 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -638,5 +638,6 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 628 | [Fear Is A Man's Best Friend](https://open.spotify.com/track/3v19aK0OgDXN1M1KAliHV3) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Fear](https://open.spotify.com/album/2oYx947UgPPrsPfVLWUorC) | 3:52 |
 | 629 | [Trigger Warning](https://open.spotify.com/track/1XCnR3mePuti0H3MUk08gO) | [thanks for coming](https://open.spotify.com/artist/3dbSL43i8580GLWJRknu9w) | [Deleted Albums, Sorry](https://open.spotify.com/album/6xDeK0YsTrMvOwIj2x3GrH) | 3:53 |
 | 630 | [context](https://open.spotify.com/track/2eZzMLQiSFY9e3hYKCqkqe) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [black british music \(2025\)](https://open.spotify.com/album/0uqw8DmJjWCODFySYWx47f) | 1:59 |
+| 631 | [Krystal Ball](https://open.spotify.com/track/38StYzWw7u4seuWvjwgCas) | [Guerilla Toss](https://open.spotify.com/artist/2PlLrStX2yK6CzyRi3TKnO) | [You're Weird Now](https://open.spotify.com/album/5dbWXyt3JIxxAQVC8PrV0o) | 2:46 |
 
-Snapshot ID: `AAAILTgD7Rk6jLWZltr/n37KQb3aHXJj`
+Snapshot ID: `AAAILhhW/G1DP6Oe4GvEfFiJ3f+JpxZU`

@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Kid Yugi, Nko, Le Scimmie, Néza e molti altri.
 
-6,599 songs - 12 day 4 hr 4 min
+6,600 songs - 12 day 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2483,6 +2483,7 @@
 | [Grazie la zone](https://open.spotify.com/track/5DQQfgrqgRpkUO6HXtx1jK) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Cœur blanc](https://open.spotify.com/album/5IGzOCeKvbUR4q31ZkNz8k) | 3:38 | 2022-12-09 | 2023-01-27 |
 | [Gridare in terrazza](https://open.spotify.com/track/1NYNLzNwRqCLAtHq13ubAu) | [Ormai](https://open.spotify.com/artist/0bimr2cwNTw2EIz4OX224Q) | [Gridare in terrazza](https://open.spotify.com/album/6GMR1wa7Lnt1e2CXkpJzv6) | 1:59 | 2022-12-15 | 2023-01-13 |
 | [Grimaldello Musica](https://open.spotify.com/track/6jlyehxCNOe5zblrCPdjCR) | [Tony 2Milli](https://open.spotify.com/artist/4L9l063lRlIevWZ7UMpqlf) | [Grimaldello Musica](https://open.spotify.com/album/6yrGW2sftU9E7Ka4VPgcQj) | 2:38 | 2024-07-02 | 2024-07-19 |
+| [Grinch](https://open.spotify.com/track/4LmXZbRxBHbu9xUcWF8ZBa) | [Melons](https://open.spotify.com/artist/1LGeIi5WWtxGRavjH50STe), [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb), [Ddusi](https://open.spotify.com/artist/5VTNrKBvvSe0NdWMW8qTwa) | [Grinch](https://open.spotify.com/album/4llMaMhPA386PJw21WXEKA) | 1:58 | 2025-12-24 |  |
 | [Grindin' & Ballin'](https://open.spotify.com/track/5OAAzJmTtLsjgLavWIWU8G) | [Rico Pmf](https://open.spotify.com/artist/1V3hNQCQ9ZrVmRbiSm1d1A), [Prisoner](https://open.spotify.com/artist/3Q7xzwhs8hMbxxZzgufR6U) | [Grindin' & Ballin'](https://open.spotify.com/album/7wCeDL5Msds1BkHei6EMEZ) | 3:06 | 2022-07-07 | 2022-07-22 |
 | [Griselda](https://open.spotify.com/track/6YlPPQtyOIYrOUU8c7MHrQ) | [Chadia](https://open.spotify.com/artist/4nXNT34X5GQ8yTBttXtbY6) | [Griselda](https://open.spotify.com/album/5xJ59S2tORE3ZKR13sJVok) | 1:57 | 2025-04-03 | 2025-04-18 |
 | [Grondaie \(feat\. Rioda Forego\)](https://open.spotify.com/track/4o8UzBjMmIwRyWozMzHzWr) | [Lamia](https://open.spotify.com/artist/5wkscBCRsDw7WNh3NFWgp3), [Volta](https://open.spotify.com/artist/42lHANs4mX9viD3VW6G7LK), [Rioda Forego](https://open.spotify.com/artist/1rYsyz2yjhrU0UfI9ldGiV) | [Grondaie \(feat\. Rioda Forego\)](https://open.spotify.com/album/5yQ3PQeY66JpXJaO3XIcWB) | 2:28 | 2025-10-16 | 2025-10-24 |

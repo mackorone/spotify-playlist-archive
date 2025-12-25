@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,101 likes - 199 songs - 11 hr 59 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,107 likes - 204 songs - 12 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -207,5 +207,10 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 197 | [Baiãozinho Leve](https://open.spotify.com/track/6C93ISbYKLBVWmv6SuPJSH) | [Prila Simões](https://open.spotify.com/artist/0W6y6PU7ad4BP9o7Y9491O), [Paulla Zeferino](https://open.spotify.com/artist/0W9jtJO445Xtbj7kAb51cX) | [Baiãozinho Leve](https://open.spotify.com/album/3AT4b3lGPK8MqVGeacBylO) | 4:01 |
 | 198 | [Cronos](https://open.spotify.com/track/1dXKlhFoqOmcAHxoMxM3Lf) | [Dafne Usorach](https://open.spotify.com/artist/2mUE0CMwA9P56QO5lIaRUE), [Juan Mariño](https://open.spotify.com/artist/71VT7j6oDHDALy7IWObUVF) | [Cronos](https://open.spotify.com/album/5RyVTzvFgH68KcNLhmUMLm) | 3:37 |
 | 199 | [Old Roads, New Lights](https://open.spotify.com/track/17Sd8h5ieN2WBmHmuD3XIp) | [Veronika Vail](https://open.spotify.com/artist/68F9KH4EmTnuvZDQul8V0C), [Vector Sneak](https://open.spotify.com/artist/3lqPnVqQ12I42zHSFbM4D5) | [Old Roads, New Lights](https://open.spotify.com/album/4w80XAkEEKxEAXRdZrJTRp) | 3:08 |
+| 200 | [Freedom from no tomorrow](https://open.spotify.com/track/4fWkcMaxDkRfqhLGV6WhBf) | [Cosmic Tikis](https://open.spotify.com/artist/3FgOxm7zjtZfsgLhSrCmDR), [Tatiana](https://open.spotify.com/artist/4DwDwWkbgmARkYrx6P2uFj) | [Freedom from no tomorrow](https://open.spotify.com/album/4BPdqSTglo6yeL7HGY5TG3) | 4:12 |
+| 201 | [DOPAMINE \- Original Mix](https://open.spotify.com/track/1qIHh1E9VlIQjlx63VdXMj) | [neyoooo](https://open.spotify.com/artist/3OtyVxfz6lLJL5745K6u8I), [FIM Collective](https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK), [ohey](https://open.spotify.com/artist/2BgpHKGiSYNrDpFy0bOK34), [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x) | [DOPAMINE \(Original Mix\)](https://open.spotify.com/album/2iohXmZrN34oyh0Yjmk08V) | 2:17 |
+| 202 | [Scars \- Sped Up + Reverbed](https://open.spotify.com/track/2QJSqbrFYi8nudBdilHKuh) | [t\-WIN](https://open.spotify.com/artist/5iD7Mz3QWvVuXXXpHXlk2s) | [Scars \(Sped Up + Reverbed\)](https://open.spotify.com/album/3YWtW9p52JhQSSrD20hKzR) | 2:44 |
+| 203 | [Halfway Home](https://open.spotify.com/track/1nUxd4nc2Z1QX8ZBCgfdYW) | [Madison Graye](https://open.spotify.com/artist/4XfxIBVikREynI933gcBvK) | [Halfway Home](https://open.spotify.com/album/2tj9llZsZU8syhHCRRqO1q) | 3:13 |
+| 204 | [Dear Daddy](https://open.spotify.com/track/3LTumOY6zNgvKuNGaRsE1I) | [A Beautiful Tomorrow](https://open.spotify.com/artist/0Fd3aWON7L3qh9raMXIETm) | [11 songs](https://open.spotify.com/album/1uka3AOh5UDbFWQiUvYpum) | 3:00 |
 
-Snapshot ID: `AAAORPiCKmrQVvlqZE3cQ+P7Uv3tXE2F`
+Snapshot ID: `AAAOSf9ntnxOxCWmSVHzGW/FwG5lqS0V`

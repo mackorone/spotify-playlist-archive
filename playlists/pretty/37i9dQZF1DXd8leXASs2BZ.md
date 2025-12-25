@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Worldwide Skippa
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,603 likes - 100 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,615 likes - 100 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Go Taxi \(feat\. Sad Kid Yaz\)](https://open.spotify.com/track/4sNVvVBzcDViCGMgUO7wqA) | [Worldwide Skippa](https://open.spotify.com/artist/4jZVxu1P8ZnhEBdAAIyL2z), [Sad Kid Yaz](https://open.spotify.com/artist/7Am297zPt54tqwtsLQWRXs) | [Skipping Tape Vol.4](https://open.spotify.com/album/15yovXTDI9ZXzZa2Py6236) | 3:18 |
-| 2 | [Track 4](https://open.spotify.com/track/1VGP3dj7Iz7LIoYyfWoXdD) | [Siero](https://open.spotify.com/artist/6mKmlCpX0G439EH9lvFD6r) | [](https://open.spotify.com/album/null) | 0:00 |
+| 2 | [SASUGA](https://open.spotify.com/track/1VGP3dj7Iz7LIoYyfWoXdD) | [Siero](https://open.spotify.com/artist/6mKmlCpX0G439EH9lvFD6r) | [THE GOAT TAPE 4](https://open.spotify.com/album/2Ll6OmB5JHXLsKfxXtPVA2) | 2:19 |
 | 3 | [0000](https://open.spotify.com/track/6RjybEGkjLTRmhuWUlupUe) | [Masato Hayashi](https://open.spotify.com/artist/5j7m1n3HAdmbJoYMizwzk2) | [0000](https://open.spotify.com/album/5tjfxtDazA8voJOe1n5ibn) | 3:22 |
 | 4 | [Limited](https://open.spotify.com/track/6dIAf5gs0Mhwe5QoXEXOiz) | [Harka](https://open.spotify.com/artist/0NLHo8KJfXFnDFeynigUze) | [22MIX](https://open.spotify.com/album/667iN9Jjhroj0aI8LZolPi) | 2:27 |
 | 5 | [Sawajiri Erika](https://open.spotify.com/track/2QQ5xExQQAgxx7Z9sFqLCJ) | [3Li¥en](https://open.spotify.com/artist/4E078HKlkmO1npcrZoZ7ez) | [High Energy](https://open.spotify.com/album/3z0nAiOlUmLkiHEGOmVSOv) | 2:07 |

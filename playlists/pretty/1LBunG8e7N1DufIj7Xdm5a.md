@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 254 likes - 3,803 songs - 8 day 9 hr 40 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 254 likes - 3,808 songs - 8 day 9 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -3811,5 +3811,10 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 3801 | [Desvelo](https://open.spotify.com/track/6rNtTePkYs4dwUmQSLpLFG) | [Lenoise](https://open.spotify.com/artist/1zbtdItCDLhQLlyL3ASTZG) | [Claroscuro](https://open.spotify.com/album/3w4KZQa7mGwhjPhuFAWR8P) | 3:54 |
 | 3802 | [Llegar a Vos](https://open.spotify.com/track/5ccNIobrt6giwhj7wL7emP) | [Lenoise](https://open.spotify.com/artist/1zbtdItCDLhQLlyL3ASTZG) | [Claroscuro](https://open.spotify.com/album/3w4KZQa7mGwhjPhuFAWR8P) | 4:33 |
 | 3803 | [Adentro](https://open.spotify.com/track/1DKjmq35d4zhgunXi5ZJLk) | [Lenoise](https://open.spotify.com/artist/1zbtdItCDLhQLlyL3ASTZG) | [Supernova](https://open.spotify.com/album/1cEtLyqdkRlTsxn3ldfGot) | 4:23 |
+| 3804 | [Toxic Eyes](https://open.spotify.com/track/6baNKpr9Yn4yIzaDxbRvWT) | [Ksv Sirius](https://open.spotify.com/artist/3mGKLjUOJC93N1lQB0RRJF) | [Toxic Eyes](https://open.spotify.com/album/2BmA4tAKkNgfpC1psKOpQD) | 3:15 |
+| 3805 | [Mindshrooms](https://open.spotify.com/track/5Iuk6uVkN0jmvu2jD330Kf) | [Ksv Sirius](https://open.spotify.com/artist/3mGKLjUOJC93N1lQB0RRJF) | [Mindshrooms](https://open.spotify.com/album/0kWEGE2InIV8B5FeWUHy06) | 2:57 |
+| 3806 | [Karpa Koi](https://open.spotify.com/track/5wNaTEXJt42mrir0krH5Z6) | [Ksv Sirius](https://open.spotify.com/artist/3mGKLjUOJC93N1lQB0RRJF) | [Karpa Koi](https://open.spotify.com/album/4G1JLl7b1jjnjAlNyu9Tzb) | 1:57 |
+| 3807 | [Solo oro](https://open.spotify.com/track/43rxBqECyQkwj8KlKYpBvO) | [Ksv Sirius](https://open.spotify.com/artist/3mGKLjUOJC93N1lQB0RRJF) | [Solo oro](https://open.spotify.com/album/7nxex20IBUGH5I0LKofPYF) | 1:21 |
+| 3808 | [Brunch Shit](https://open.spotify.com/track/4ppjAukBLZEOwGs13k7GeE) | [Ksv Sirius](https://open.spotify.com/artist/3mGKLjUOJC93N1lQB0RRJF) | [Brunch Shit](https://open.spotify.com/album/6FMUH43329kwvlQxzH551C) | 1:55 |
 
-Snapshot ID: `AAAGZzgUYxf9ZyV/jG93gAKDby9R9bW3`
+Snapshot ID: `AAAGbETRxI5UzI+sosh3KIXHx+2BQgFX`

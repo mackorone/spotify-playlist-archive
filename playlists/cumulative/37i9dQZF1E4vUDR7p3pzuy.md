@@ -2,7 +2,7 @@
 
 ### [DePitcha Radio](https://open.spotify.com/playlist/37i9dQZF1E4vUDR7p3pzuy)
 
-> With Rob Harrowven, Golem Dance Cult, Splitter Conspiracy and more
+> With Rob Harrowven, Golem Dance Cult, JUST LIZZY and more
 
 231 songs - 14 hr 44 min
 
@@ -67,7 +67,7 @@
 | [Doppelganger](https://open.spotify.com/track/0oXmJgdT7jPYTjOmN2GUWY) | [Nick Luddite](https://open.spotify.com/artist/5JW6XHyFvz9WOZidRZwYq5) | [Doppelganger](https://open.spotify.com/album/1iakMwV4N327xJaXDYuTEq) | 4:36 | 2025-11-22 |  |
 | [Dunkelziffer](https://open.spotify.com/track/4aVNpU3Dgii5jlq0G4TBVR) | [A Shrine to Failure](https://open.spotify.com/artist/0nXYxiS5VC7eoz5YR986oS) | [Dunkelziffer & Ransom](https://open.spotify.com/album/0reOLmlXtj2g8c8hn7cHkT) | 4:06 | 2025-12-02 | 2025-12-15 |
 | [Electric Love](https://open.spotify.com/track/53JRwecCM69WPvzvokpKHy) | [Aynex](https://open.spotify.com/artist/0XKqBh66yNot6Om52W63rF), [Bella](https://open.spotify.com/artist/0OOnqKoht5Gj3cXtVAMYtN) | [Electric Love](https://open.spotify.com/album/177BhxFET5l4YG89GwFMIq) | 3:07 | 2025-11-25 | 2025-11-29 |
-| [Embers Are My Crown](https://open.spotify.com/track/21NMXyzPTTR5SQAMLzGqgL) | [Synthetik Blonde](https://open.spotify.com/artist/21RqrCPQcyKkjQfX9UsgFD) | [Embers Are My Crown](https://open.spotify.com/album/7pRniM5SuqfWgqFTpzpyWC) | 4:12 | 2025-11-19 | 2025-12-24 |
+| [Embers Are My Crown](https://open.spotify.com/track/21NMXyzPTTR5SQAMLzGqgL) | [Synthetik Blonde](https://open.spotify.com/artist/21RqrCPQcyKkjQfX9UsgFD) | [Embers Are My Crown](https://open.spotify.com/album/7pRniM5SuqfWgqFTpzpyWC) | 4:12 | 2025-11-19 |  |
 | [Erase Me](https://open.spotify.com/track/4XTMK3LWgc1fzNshTg1B4Z) | [Megan McDuffee](https://open.spotify.com/artist/4n34M10wtYMrhh5tNsKwnn) | [Erase Me](https://open.spotify.com/album/4uuEz3YPZhQv6A4MxcKhzZ) | 3:32 | 2025-12-11 | 2025-12-12 |
 | [Escher Drawings](https://open.spotify.com/track/4xcqAo1IrQHFj3EDCQH0Z7) | [Golem Dance Cult](https://open.spotify.com/artist/58l6TPKh7HRsJJhLbSF7pd) | [Shamanic Faultlines](https://open.spotify.com/album/1It4EfnVFbiNnngWvnNYvG) | 2:50 | 2025-12-23 | 2025-12-24 |
 | [Faces \- Georgi Remix](https://open.spotify.com/track/3yd8aKaSpYOngEVat7favw) | [Ladytron](https://open.spotify.com/artist/0ucLPotcQNI7AViFytdhBz), [Georgi](https://open.spotify.com/artist/2c4RNY0rzMiJsdMio2FdS8) | [Time's Arrow Remixed](https://open.spotify.com/album/4qzbywOlrAzr5HKeHipS6u) | 4:54 | 2025-12-08 | 2025-12-09 |
@@ -127,7 +127,7 @@
 | [Least](https://open.spotify.com/track/4jcdmZz76vJkLEEu8IsKkw) | [Raymonirwineen](https://open.spotify.com/artist/2aRZUAeCeWygtJc7mvkeap) | [Least](https://open.spotify.com/album/2d7dIcTDJZep5Ebu3m2dPr) | 2:00 | 2025-11-19 |  |
 | [Lena](https://open.spotify.com/track/1GP8hd4auBi1Uvg5q0Ng9h) | [Metrophobia](https://open.spotify.com/artist/586XweAtk9bPSSvhzLdrfV) | [Lena](https://open.spotify.com/album/2KX0zB4WWEV2fE9VQqoUuu) | 4:00 | 2025-12-15 |  |
 | [Let The Flowers Grow \(Juno Reactor Remix\)](https://open.spotify.com/track/5tcGXxXX1amKFMUiuIgd0e) | [Peter Murphy](https://open.spotify.com/artist/7zeHJIIfNStVfxlbT72UwY), [Boy George](https://open.spotify.com/artist/2BWfZGPtsjRlRp7JTDqI45), [Juno Reactor](https://open.spotify.com/artist/1Pe3z1UqRzKsQtHsl25dm6) | [Let The Flowers Grow \(Juno Reactor Remix\)](https://open.spotify.com/album/2rnDlUmYxg3jstWqwf9Unz) | 6:37 | 2025-12-10 | 2025-12-11 |
-| [Leviathan](https://open.spotify.com/track/4NFtHnHeOqlfMRNOp2kAGj) | [12 Below](https://open.spotify.com/artist/08hddDDu61mOXpZ3obywv2) | [Leviathan](https://open.spotify.com/album/0p5TA4Ykw9nxL4vWeBzH07) | 3:57 | 2025-11-19 |  |
+| [Leviathan](https://open.spotify.com/track/4NFtHnHeOqlfMRNOp2kAGj) | [12 Below](https://open.spotify.com/artist/08hddDDu61mOXpZ3obywv2) | [Leviathan](https://open.spotify.com/album/0p5TA4Ykw9nxL4vWeBzH07) | 3:57 | 2025-11-19 | 2025-12-25 |
 | [Lies](https://open.spotify.com/track/1EQbt7iZzp3ZTxRTFDLqnz) | [Synthetik Blonde](https://open.spotify.com/artist/21RqrCPQcyKkjQfX9UsgFD) | [Dark Side of Your Love](https://open.spotify.com/album/7GD4vgjflLlFQD7krTF6lR) | 4:26 | 2025-11-21 | 2025-11-22 |
 | [Long Distance to Go](https://open.spotify.com/track/5CpzD2bjv4G7R7xZsg7jCL) | [SCHANZ](https://open.spotify.com/artist/65PEcXFkSyxz0r9p5c6xT8) | [AD/2](https://open.spotify.com/album/5YBWxvQe74eyaWCTJUf6wB) | 3:56 | 2025-12-22 | 2025-12-23 |
 | [Lover](https://open.spotify.com/track/74aKgevp2qFK2TxdeSq2DA) | [Cozmicsoulfire](https://open.spotify.com/artist/4j8dYpGIgGJYWmstb2Ek0M) | [Lover](https://open.spotify.com/album/1jKe4oSbVCPGklGzhtZLS3) | 3:59 | 2025-11-19 | 2025-12-14 |
@@ -230,8 +230,8 @@
 | [We Found Passion](https://open.spotify.com/track/50QJ1bZOhhGmpc1citS3ab) | [William Lovitt](https://open.spotify.com/artist/3pRnaBrTzlzx4y4jQMNmmM), [Synthetik Blonde](https://open.spotify.com/artist/21RqrCPQcyKkjQfX9UsgFD) | [Some of It All](https://open.spotify.com/album/37jwnvMWiGTz4LkySSY4oN) | 3:48 | 2025-12-07 | 2025-12-08 |
 | [We're Not Normal](https://open.spotify.com/track/4kcFLWYRCRcKgefkr4vQYO) | [Nite](https://open.spotify.com/artist/2tXXoTykabsZNETr1Sr1zC) | [NITE](https://open.spotify.com/album/17JLn0AZ13uzp8t8W3UZs5) | 3:40 | 2025-11-19 | 2025-12-05 |
 | [Welcome To Salem \(intro\)](https://open.spotify.com/track/3VSU3WGhiR524TtvonIU3c) | [The Proper Spirits](https://open.spotify.com/artist/5lApFVJHng8bLP1ZNVe5Bp) | [WHORE](https://open.spotify.com/album/65rlGSMKmjvWU3Tyl6J5BM) | 3:20 | 2025-11-19 | 2025-12-10 |
-| [When You're Down](https://open.spotify.com/track/35eCarWbCxKpJD3im0JO65) | [DePitcha](https://open.spotify.com/artist/3hpbeTr7Si1QSiuedag8Hz), [Jay Barney](https://open.spotify.com/artist/2V4t8ORrYmAPsMRYkdlnDd) | [When You're Down](https://open.spotify.com/album/5GrLogkgnExbmGfUs9cGA2) | 2:51 | 2025-11-19 |  |
-| [Where The Bubbles Rise](https://open.spotify.com/track/1f51VHAE7BIiWy2oUlErCU) | [DePitcha](https://open.spotify.com/artist/3hpbeTr7Si1QSiuedag8Hz), [JUST LIZZY](https://open.spotify.com/artist/6tYGjj89ayCTVopRtNF9ST) | [Where The Bubbles Rise](https://open.spotify.com/album/3BRwzCH1qETmg49Eoz8xbq) | 3:39 | 2025-11-19 | 2025-12-21 |
+| [When You're Down](https://open.spotify.com/track/35eCarWbCxKpJD3im0JO65) | [DePitcha](https://open.spotify.com/artist/3hpbeTr7Si1QSiuedag8Hz), [Jay Barney](https://open.spotify.com/artist/2V4t8ORrYmAPsMRYkdlnDd) | [When You're Down](https://open.spotify.com/album/5GrLogkgnExbmGfUs9cGA2) | 2:51 | 2025-11-19 | 2025-12-25 |
+| [Where The Bubbles Rise](https://open.spotify.com/track/1f51VHAE7BIiWy2oUlErCU) | [DePitcha](https://open.spotify.com/artist/3hpbeTr7Si1QSiuedag8Hz), [JUST LIZZY](https://open.spotify.com/artist/6tYGjj89ayCTVopRtNF9ST) | [Where The Bubbles Rise](https://open.spotify.com/album/3BRwzCH1qETmg49Eoz8xbq) | 3:39 | 2025-11-19 |  |
 | [Whispers](https://open.spotify.com/track/42Nfq6w92eSBp9CGJa75k6) | [Shallow Waves](https://open.spotify.com/artist/4a6vSDvqwtDkpvuEFMDyvg) | [Whispers](https://open.spotify.com/album/0JHzzqes3sawQWOp9deqCM) | 3:43 | 2025-12-08 | 2025-12-15 |
 | [Wicked Witch](https://open.spotify.com/track/45paF6Il4lRFxJcf6935gN) | [AGNIS](https://open.spotify.com/artist/6uqMyyNvVciF3OYQgCWlRR) | [Wicked Witch](https://open.spotify.com/album/4LEZ7jCwMopfC4fvwYj1cj) | 2:58 | 2025-11-23 | 2025-11-25 |
 | [World Full Of Echoes](https://open.spotify.com/track/0lG69UDGyLApKGSfyAKI02) | [Reduction in Force](https://open.spotify.com/artist/4VkEMkvYM9XWqwMPA9R955) | [World Full Of Echoes](https://open.spotify.com/album/0CNnOZafvQCnh1KS46tF5n) | 3:51 | 2025-11-20 | 2025-12-07 |

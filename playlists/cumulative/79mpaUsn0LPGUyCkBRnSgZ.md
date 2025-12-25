@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-990 songs - 2 day 17 hr 13 min
+991 songs - 2 day 17 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -474,6 +474,7 @@
 | [Kodachrome](https://open.spotify.com/track/3f0U5NaD1bCk8nmKpn2ZJY) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [There Goes Rhymin' Simon](https://open.spotify.com/album/50pzpI17hwQj7LKcOiLMFD) | 3:35 | 2023-05-21 | 2023-06-11 |
 | [Kono Speed no Saki e](https://open.spotify.com/track/0A48zuuXPfoJzczmdLhmyR) | [MASS OF THE FERMENTING DREGS](https://open.spotify.com/artist/14d5KCX9nprUcxnKIShrr1) | [World Is Yours](https://open.spotify.com/album/0nwLNp8Qef1KpnUdXJgEJn) | 3:24 | 2024-02-23 |  |
 | [Kookaburra](https://open.spotify.com/track/1kcl4JslEp3ygDU3JpjhQi) | [John Vanderslice](https://open.spotify.com/artist/2GOfAZEwmCpwPhX7kjMJYN) | [Emerald City](https://open.spotify.com/album/3UdOmY1STQuqz3zHCkT2JK) | 5:30 | 2025-09-19 |  |
+| [Krystal Ball](https://open.spotify.com/track/38StYzWw7u4seuWvjwgCas) | [Guerilla Toss](https://open.spotify.com/artist/2PlLrStX2yK6CzyRi3TKnO) | [You're Weird Now](https://open.spotify.com/album/5dbWXyt3JIxxAQVC8PrV0o) | 2:46 | 2025-12-24 |  |
 | [Kuwakaribisha \(Welcome\)](https://open.spotify.com/track/6VbNofC5FUPe5Zl62bx1wX) | [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT), [Nottz](https://open.spotify.com/artist/1iGcDQbhw4Slu7bygkuV2T), [G\-Kidd](https://open.spotify.com/artist/0hvs2YeWkucQWVFbnqW0t9) | [Afrika](https://open.spotify.com/album/6e2Xynkebu3TzBTxtEzvlM) | 3:59 | 2024-01-19 |  |
 | [La rue](https://open.spotify.com/track/6lzDycd60SJ7H8y6wuESGl) | [Cortex](https://open.spotify.com/artist/7EhUXju6pssa8o3CvFJTew) | [Troupeau bleu](https://open.spotify.com/album/74DOWHisu2jlFvPid9YTGB) | 4:27 | 2024-03-25 |  |
 | [Laamb](https://open.spotify.com/track/4SVk1NlNgd7yziIoJyG7k9) | [Steve Lehman](https://open.spotify.com/artist/5Al3ktlrPkN2fhMRQzSYXP), [Sélébéyone](https://open.spotify.com/artist/1n6k1bY33QxFzgffetVZpK) | [Sélébéyone](https://open.spotify.com/album/21rWcVbmvaRyLl7faw0sVm) | 6:07 | 2024-01-18 |  |

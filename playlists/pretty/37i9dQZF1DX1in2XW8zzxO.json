@@ -1,6 +1,6 @@
 {
   "description": "Amapiano tracks to fuel your beast mode!",
-  "num_followers": 94951,
+  "num_followers": 95007,
   "original_name": "Beast Mode Amapiano",
   "owner": {
     "name": "Spotify",
@@ -711,6 +711,26 @@
     {
       "added_at": "2025-12-05 02:54:31",
       "album": {
+        "name": "Uyavala",
+        "url": "https://open.spotify.com/album/3ABIwMyYq1eFuHq9gIw5TZ"
+      },
+      "artists": [
+        {
+          "name": "Busta 929",
+          "url": "https://open.spotify.com/artist/2TcrjcSngRPpgZxmIlPdym"
+        },
+        {
+          "name": "Pcee",
+          "url": "https://open.spotify.com/artist/22Bl1QCNEZvpqVwRPYscE4"
+        }
+      ],
+      "duration_ms": 348357,
+      "name": "Uyavala",
+      "url": "https://open.spotify.com/track/5lEMZWIj18lCtGKdvngbab"
+    },
+    {
+      "added_at": "2025-12-05 02:54:31",
+      "album": {
         "name": "Umona",
         "url": "https://open.spotify.com/album/2h86FnfcyRYsYWFkoUDq8q"
       },
@@ -739,26 +759,6 @@
       "duration_ms": 368588,
       "name": "Umona",
       "url": "https://open.spotify.com/track/26YYPFHWxEnft8x64CsTxW"
-    },
-    {
-      "added_at": "2025-12-05 02:54:31",
-      "album": {
-        "name": "Uyavala",
-        "url": "https://open.spotify.com/album/3ABIwMyYq1eFuHq9gIw5TZ"
-      },
-      "artists": [
-        {
-          "name": "Busta 929",
-          "url": "https://open.spotify.com/artist/2TcrjcSngRPpgZxmIlPdym"
-        },
-        {
-          "name": "Pcee",
-          "url": "https://open.spotify.com/artist/22Bl1QCNEZvpqVwRPYscE4"
-        }
-      ],
-      "duration_ms": 348357,
-      "name": "Uyavala",
-      "url": "https://open.spotify.com/track/5lEMZWIj18lCtGKdvngbab"
     },
     {
       "added_at": "2025-12-05 02:54:31",
@@ -1195,30 +1195,6 @@
     {
       "added_at": "2025-12-05 02:54:31",
       "album": {
-        "name": "The EEQualizer",
-        "url": "https://open.spotify.com/album/59OalmK2yPw6B6PLgQdW3U"
-      },
-      "artists": [
-        {
-          "name": "EeQue",
-          "url": "https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft"
-        },
-        {
-          "name": "Focalistic",
-          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
-        },
-        {
-          "name": "Certified Dyan",
-          "url": "https://open.spotify.com/artist/5lD4Tgz3swAAOiKq5F5f9Q"
-        }
-      ],
-      "duration_ms": 361116,
-      "name": "Rekisa Kapela (feat. Certified Dyan)",
-      "url": "https://open.spotify.com/track/2R9umN6jc2EoVlIEegbWOT"
-    },
-    {
-      "added_at": "2025-12-05 02:54:31",
-      "album": {
         "name": "DALI DALI",
         "url": "https://open.spotify.com/album/7nXYx6bxFcyqnJENfgdEkc"
       },
@@ -1243,30 +1219,26 @@
     {
       "added_at": "2025-12-05 02:54:31",
       "album": {
-        "name": "IV PARK : The Dawn",
-        "url": "https://open.spotify.com/album/3On8ksd851l6tL28JNr49t"
+        "name": "The EEQualizer",
+        "url": "https://open.spotify.com/album/59OalmK2yPw6B6PLgQdW3U"
       },
       "artists": [
         {
-          "name": "Azraq IV",
-          "url": "https://open.spotify.com/artist/5HLGheiugGtnztbfDhlqFp"
+          "name": "EeQue",
+          "url": "https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft"
         },
         {
-          "name": "Jauza814",
-          "url": "https://open.spotify.com/artist/2kfr2RQhet71X5DXL3bH2C"
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
         },
         {
-          "name": "Owami de dj",
-          "url": "https://open.spotify.com/artist/1SV8dhUayxUzTXNahw5GkU"
-        },
-        {
-          "name": "Tyfam",
-          "url": "https://open.spotify.com/artist/1XCetFbPLtLxsDWWC9bSk2"
+          "name": "Certified Dyan",
+          "url": "https://open.spotify.com/artist/5lD4Tgz3swAAOiKq5F5f9Q"
         }
       ],
-      "duration_ms": 385758,
-      "name": "Dubai (feat. Owami de dj & Tyfam)",
-      "url": "https://open.spotify.com/track/63T2k5Wht1B6MqtLk8tV5j"
+      "duration_ms": 361116,
+      "name": "Rekisa Kapela (feat. Certified Dyan)",
+      "url": "https://open.spotify.com/track/2R9umN6jc2EoVlIEegbWOT"
     },
     {
       "added_at": "2025-12-05 02:54:31",
@@ -1299,6 +1271,34 @@
       "duration_ms": 416653,
       "name": "Sihamba Sonke",
       "url": "https://open.spotify.com/track/79lSg4HBwmulMQmKieeCU6"
+    },
+    {
+      "added_at": "2025-12-05 02:54:31",
+      "album": {
+        "name": "IV PARK : The Dawn",
+        "url": "https://open.spotify.com/album/3On8ksd851l6tL28JNr49t"
+      },
+      "artists": [
+        {
+          "name": "Azraq IV",
+          "url": "https://open.spotify.com/artist/5HLGheiugGtnztbfDhlqFp"
+        },
+        {
+          "name": "Jauza814",
+          "url": "https://open.spotify.com/artist/2kfr2RQhet71X5DXL3bH2C"
+        },
+        {
+          "name": "Owami de dj",
+          "url": "https://open.spotify.com/artist/1SV8dhUayxUzTXNahw5GkU"
+        },
+        {
+          "name": "Tyfam",
+          "url": "https://open.spotify.com/artist/1XCetFbPLtLxsDWWC9bSk2"
+        }
+      ],
+      "duration_ms": 385758,
+      "name": "Dubai (feat. Owami de dj & Tyfam)",
+      "url": "https://open.spotify.com/track/63T2k5Wht1B6MqtLk8tV5j"
     },
     {
       "added_at": "2025-12-05 02:54:31",

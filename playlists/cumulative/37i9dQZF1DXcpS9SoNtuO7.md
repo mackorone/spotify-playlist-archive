@@ -4,7 +4,7 @@
 
 > The hottest Japanese anime song playlist curated by  <a href="https://www.lisani.jp/">LisAni！</a> アニメ音楽メディア「<a href="https://www.lisani.jp/">リスアニ！</a>」が贈る最強のアニソンプレイリストです。新旧の名曲を随時更新！
 
-836 songs - 3 day 16 hr 56 min
+838 songs - 3 day 18 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,8 @@
 | [\#90 鈴木このみ、Guilty Kiss,Saint Snowが初登場！“リスアニ！LIVE 2026”徹底解説Part2／来たる100回目にやりたいこと](https://open.spotify.com/episode/4rnGwCt6rRdU8PRV7BbsHC) | [リスアニ！RADIO](https://open.spotify.com/show/2xznUv9uxbJ3OK1YWsdoch) | [リスアニ！RADIO](https://open.spotify.com/album/2xznUv9uxbJ3OK1YWsdoch) | 44:22 | 2025-10-28 |  |
 | [\#91 バンプもスピッツも松崎しげるも歌う“アニソン”と“アニメ主題歌”の現在地／流行語大賞＆紅白歌合戦 勝手に大予想！](https://open.spotify.com/episode/4gbUwu9Aq2upMXqnnnf5TD) | [リスアニ！RADIO](https://open.spotify.com/show/2xznUv9uxbJ3OK1YWsdoch) | [リスアニ！RADIO](https://open.spotify.com/album/2xznUv9uxbJ3OK1YWsdoch) | 46:39 | 2025-11-18 |  |
 | [\#92 「ガンダム」「スーパー戦隊」と50年級の長寿シリーズについて本気出して考えてみた](https://open.spotify.com/episode/6oZgZplD1Wa9GeDSYTD234) | [リスアニ！RADIO](https://open.spotify.com/show/2xznUv9uxbJ3OK1YWsdoch) | [リスアニ！RADIO](https://open.spotify.com/album/2xznUv9uxbJ3OK1YWsdoch) | 43:55 | 2025-11-25 |  |
+| [\#93 ありがとう！“リスアニ！LIVE TAIPEI 2025”／メタリックなヒーロー復活、雑貨屋のぷっくりシールブームが示すもの](https://open.spotify.com/episode/5jV3achECGcULmzUyBlopq) | [リスアニ！RADIO](https://open.spotify.com/show/2xznUv9uxbJ3OK1YWsdoch) | [リスアニ！RADIO](https://open.spotify.com/album/2xznUv9uxbJ3OK1YWsdoch) | 38:52 | 2025-12-24 |  |
+| [\#94 “2025年最強プレイリスト”決定戦、開幕!!／「渡辺翔縛り」ライブがやってくる／誰にも止められないセガ語り](https://open.spotify.com/episode/4IEThmCWtr3WtirSeBT3Kc) | [リスアニ！RADIO](https://open.spotify.com/show/2xznUv9uxbJ3OK1YWsdoch) | [リスアニ！RADIO](https://open.spotify.com/album/2xznUv9uxbJ3OK1YWsdoch) | 53:27 | 2025-12-24 |  |
 | [10% roll, 10% romance](https://open.spotify.com/track/55gmxJ59Y44Ev4WX4ztDQR) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [SUB MACHINE, BEST MACHINE \(Best Selected Edition\)](https://open.spotify.com/album/2PoQCr9jVBcDbrTojnmX6J) | 4:36 | 2024-08-14 | 2025-01-27 |
 | [13 no Fuyu](https://open.spotify.com/track/1orJXN3dA151HANn4gPZx2) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shinjitsu eno Shingeki](https://open.spotify.com/album/36zFIAYiDzwr8ML2F6lEjH) | 5:29 | 2023-11-28 | 2024-01-24 |
 | [50cm](https://open.spotify.com/track/5pUYhYtfoGsRUHXMADllsw) | [Urushi Yaotome\(CV:Kanna Nakamura\)](https://open.spotify.com/artist/0COSKadhSJgaptXjnspEjL) | [50cm](https://open.spotify.com/album/1xK1KOiGzo7raQvcp1jmUy) | 4:06 | 2022-08-16 | 2023-01-12 |

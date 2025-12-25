@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to nov\-dec 2025
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,699 likes - 42 songs - 2 hr 53 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,711 likes - 65 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,30 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 38 | [Touched By Rodin In A Paris Museum](https://open.spotify.com/track/7IIY6X0BkfnPD8h3dz1t8G) | [Patty Waters](https://open.spotify.com/artist/51Oyt5Jb1UvVmT9n90T8cY) | [You Thrill Me: A Musical Odyssey 1960 \- 1979](https://open.spotify.com/album/7tuWv7aOp4XP9J9M7zFTHy) | 14:36 |
 | 39 | [Sparrowsong](https://open.spotify.com/track/52MWdbfrFoFm7Yd4ai894U) | [Fergus McCreadie](https://open.spotify.com/artist/5Yb1aFMX9xNtjFVDSdt2ZL) | [The Shieling](https://open.spotify.com/album/6TR2hNF3iX8z7NuY0WqPac) | 3:46 |
 | 40 | [The Failure Of The Leading Sign Industry](https://open.spotify.com/track/5rkLS6rRzCx5Y5ExiFgih4) | [Lali Puna](https://open.spotify.com/artist/2GkJdEJneopHc10XQV76rN) | [I Thought I Was Over That](https://open.spotify.com/album/1sMD93TOAOcqfPtfaGil5K) | 1:27 |
-| 41 | [Alligator Man](https://open.spotify.com/track/6niBxbmgWaDlTBBtXXDb3M) | [Charlie Megira](https://open.spotify.com/artist/45OTuDcvTBxpqMEJZiK4FI), [The Bet She' an Valley Hillbillies](https://open.spotify.com/artist/7GG6yOLAq2ngbdYhCPw0Fk) | [Tomorrow's Gone](https://open.spotify.com/album/4bx5EYBQ62CDkBd3NcszeH) | 3:17 |
-| 42 | [Pianoflage](https://open.spotify.com/track/7A6UqQiwFNqdq1Lb7EsRYl) | [Fate Marable's Society Syncopators](https://open.spotify.com/artist/5GhkhuFjGA8XTplgVd07dr) | [New Orleans Jazz Of The 1920s](https://open.spotify.com/album/1HKiHdoWuwObf7QFSZzf4q) | 3:12 |
+| 41 | [Rock Steady](https://open.spotify.com/track/6azx6iv2R1DhwovSp4xd5v) | [Alton Ellis](https://open.spotify.com/artist/5pryfFgCrWJ41UHaENJPyi), [The Flames](https://open.spotify.com/artist/3Wna8akienYmog7hzXtYzb) | [Mr Soul of Jamaica](https://open.spotify.com/album/4EpjLfEAWQ4aVhlTMk69Fh) | 2:40 |
+| 42 | [Alligator Man](https://open.spotify.com/track/6niBxbmgWaDlTBBtXXDb3M) | [Charlie Megira](https://open.spotify.com/artist/45OTuDcvTBxpqMEJZiK4FI), [The Bet She' an Valley Hillbillies](https://open.spotify.com/artist/7GG6yOLAq2ngbdYhCPw0Fk) | [Tomorrow's Gone](https://open.spotify.com/album/4bx5EYBQ62CDkBd3NcszeH) | 3:17 |
+| 43 | [Pianoflage](https://open.spotify.com/track/7A6UqQiwFNqdq1Lb7EsRYl) | [Fate Marable's Society Syncopators](https://open.spotify.com/artist/5GhkhuFjGA8XTplgVd07dr) | [New Orleans Jazz Of The 1920s](https://open.spotify.com/album/1HKiHdoWuwObf7QFSZzf4q) | 3:12 |
+| 44 | [東京幻想曲](https://open.spotify.com/track/2bWBTC67ELpbnwMHTN8lhg) | [Hajime Mizoguchi](https://open.spotify.com/artist/37MI19rLgummvAp3PFu945) | [A PRETTY DANCE](https://open.spotify.com/album/2AMTMvJufxxKc6xJoRht9t) | 4:27 |
+| 45 | [Mild, Lattermild og Gavmild](https://open.spotify.com/track/0xkkBd6BZvV6jIQbjanGYV) | [Anne Linnet](https://open.spotify.com/artist/6AWEo7TFXeaDNDMMFuE2YY) | [Min Sang](https://open.spotify.com/album/4mOZ7MczqhpvIIwx7WewRE) | 3:41 |
+| 46 | [Bacara](https://open.spotify.com/track/0Nzb9xXoZ4YKmoi2TLvO9S) | [Grand Kallé](https://open.spotify.com/artist/72y2BmOygi88StwtMuQfEQ), [L'African Jazz](https://open.spotify.com/artist/0mHnv5jdaehGzv9zujVlXW) | [Merveilles du passé, Vol\. 1 \(1958 / 1959 / 1960\)](https://open.spotify.com/album/6LGIjTarpggj13sgOa0G1h) | 2:48 |
+| 47 | [Just A Blip](https://open.spotify.com/track/5WvaPQ4SbbmbkRMt0pzpg9) | [Arthur Russell](https://open.spotify.com/artist/3iJJD5v7oIFUevW4N5w5cj) | [Another Thought](https://open.spotify.com/album/3pYFqjWzClbyDKvACv5bVQ) | 3:41 |
+| 48 | [China Cat Sunflower \- 2013 Remaster](https://open.spotify.com/track/63soSLcwqpJFJaI5OgnnC2) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Aoxomoxoa \(2013 Remaster\)](https://open.spotify.com/album/2IZe9ttqeMqwkv3dRXJRkd) | 3:42 |
+| 49 | [Cowboy Fora Da Lei](https://open.spotify.com/track/3Ob98mJElVwt9PwhuFqtIP) | [Raul Seixas](https://open.spotify.com/artist/7jrRQZg4FZq6dwpi3baKcu) | [Bis \- Raul Seixas](https://open.spotify.com/album/23Tuvaq7L43VGmXZCJVIp7) | 3:35 |
+| 50 | [Fullgás](https://open.spotify.com/track/0YoMPuDCAusO2a5eipQsPa) | [Marina Lima](https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol) | [Marina Todas Ao Vivo](https://open.spotify.com/album/3g7J1aC0RKkCYVybsCXYC8) | 3:54 |
+| 51 | [Os Alquimistas Estão Chegando Os Alquimistas](https://open.spotify.com/track/6WohVJvZ6RYmYN8Nxl9VHa) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [A Tabua De Esmeralda](https://open.spotify.com/album/5rcMJNWebtl2r2S18Je1A0) | 3:15 |
+| 52 | [Recado a minha amada](https://open.spotify.com/track/6oDfRqEbg2gOf64XSwgfCF) | [Katinguelê](https://open.spotify.com/artist/3gdaj3L0OqxdaVoxnI7ZGu) | [No compasso do criador](https://open.spotify.com/album/1MDkaQKuIuel15iZvcrFRu) | 4:03 |
+| 53 | [Mean Old World](https://open.spotify.com/track/1v4BpOiU0WuSwiNbdYvdWd) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Night Beat](https://open.spotify.com/album/4FsWNGbkeZtMD1BWXhIvRk) | 3:48 |
+| 54 | [COOL FOOL](https://open.spotify.com/track/4fHKrCOtdPlOaMlNWjNMdb) | [Friction](https://open.spotify.com/artist/2YAZ2WzvP6ejDQo0uXA0Sc) | [軋轢](https://open.spotify.com/album/7dS5JHy3uKPc415YuD2H5J) | 4:09 |
+| 55 | [Little Green](https://open.spotify.com/track/11ZNWD9Xzq9p3n07NbWSZw) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Blue](https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa) | 3:27 |
+| 56 | [Carey](https://open.spotify.com/track/11dUk8E2z8Oj1JURwl7GJd) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Blue](https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa) | 3:02 |
+| 57 | [Holocaust](https://open.spotify.com/track/1i17Ub8xAMDMvIAJNvBmjJ) | [Big Star](https://open.spotify.com/artist/3UvcmAOZt64oKpP95f6MMM) | [Third](https://open.spotify.com/album/0NJYYhhvOATAkUipSJEBDb) | 3:48 |
+| 58 | [Circles](https://open.spotify.com/track/6RSHwLFKr5rYYriOF7Fqpr) | [Erik Griswold](https://open.spotify.com/artist/0P4UdF79vXk4SlpdFPpbJX) | [Yokohama Flowers](https://open.spotify.com/album/2ouR6h99X9j9DtMC9LELb3) | 2:12 |
+| 59 | [Always a Relief](https://open.spotify.com/track/3Gdb4inHtK8UT1MyswIXla) | [The Radio Dept.](https://open.spotify.com/artist/0utS63XytOEVN1EtzWhJpG) | [Pet Grief](https://open.spotify.com/album/1BKKCq9GMdMahEHhPkde5p) | 3:21 |
+| 60 | [New Power](https://open.spotify.com/track/4jss2X2iCZjOU7zAUjc3zW) | [Cindy](https://open.spotify.com/artist/3vUqg3VWCLmEA1es1T4nGn) | [I'm Cindy](https://open.spotify.com/album/3obhwQ6jhn7Yy3ZGL6jwYt) | 3:16 |
+| 61 | [Dark Shirt](https://open.spotify.com/track/17TsEp9AloYl6GzMsc11el) | [Joshua Chuquimia Crampton](https://open.spotify.com/artist/4vV7A3OS088S8Ps2NtTcRO) | [Profundo Amor](https://open.spotify.com/album/08CsyRBplwnCGEHy6vy26Y) | 4:39 |
+| 62 | [The Working Hour](https://open.spotify.com/track/23DKn3AP0fpx1aAYth2Pax) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair](https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5) | 6:31 |
+| 63 | [Swimming](https://open.spotify.com/track/0sTjyzgd2K5htQpU8ienNe) | [Flawed Mangoes](https://open.spotify.com/artist/4MrQDA45Gd0llLrwFUzimG) | [Swimming](https://open.spotify.com/album/7dGLag4xmWGKjyokzYJP8q) | 3:08 |
+| 64 | [Trip](https://open.spotify.com/track/38B1TVdt8Xu3i0bWtBvZ8Y) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Stardust](https://open.spotify.com/album/7v6htsHRSZ34XJCki1uZxB) | 2:58 |
+| 65 | [Some Small Hope](https://open.spotify.com/track/6x6NI8zyUjvJLUg1DEEQQL) | [Virginia Astley](https://open.spotify.com/artist/0Cc6v6tsUT1FktqPQYXME3) | [Mellow 80's](https://open.spotify.com/album/3DPsH0iJNKax1bTDXUoDb5) | 4:10 |
 
-Snapshot ID: `AAANjCzwShU/sh2Mn7QYmIx8zui8/oa0`
+Snapshot ID: `AAANpDF/uo1RbNGe26Nvvhtl557Lqz18`

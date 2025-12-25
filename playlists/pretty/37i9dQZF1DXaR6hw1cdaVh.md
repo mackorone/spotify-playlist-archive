@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR6hw1cdaVh.md) - [plain]
 
 > I brani eseguiti durante la serata dei duetti e le interpretazioni uscite su Spotify 🎤
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,056 likes - 36 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,059 likes - 36 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR6hw1cdaVh.md) - [plain]
 | 20 | [A mano a mano](https://open.spotify.com/track/0x4HvQuUbXAa4bYForAK7S) | [Rino Gaetano](https://open.spotify.com/artist/5RRPSRJpISAWEPOeSfYuhV) | [Ahi Maria 40th](https://open.spotify.com/album/1ig6PdGZl6gPbCd7N10Jcr) | 3:38 |
 | 21 | [Rossetto e caffè](https://open.spotify.com/track/1nLGeFQuY7PFxrou3ezEvP) | [Sal Da Vinci](https://open.spotify.com/artist/7cdIY4mDfM1dbjgl7s2fGR) | [Rossetto e caffè](https://open.spotify.com/album/0emUWUzKXXzwcJdStSQdIM) | 3:12 |
 | 22 | [L'Estate Sta Finendo](https://open.spotify.com/track/2ZgIpoW01dJhpHwkOCgV2d) | [Righeira](https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI) | [The Singles 83/87](https://open.spotify.com/album/41jWthqGJOAFexx6xC65Y4) | 3:47 |
-| 23 | [Crêuza de mä \- New Mix 2014](https://open.spotify.com/track/4Y3WfBJo7kwWkvzU8jzbno) | [Fabrizio De André](https://open.spotify.com/artist/19HiWVd2g0XyJstBsbW2Qm) | [Creuza de ma](https://open.spotify.com/album/6UGZ5FUUu2W0MWtEUvEcIJ) | 6:15 |
+| 23 | [Folle città](https://open.spotify.com/track/4o2cAoMoEdglmMI6Acx5IY) | [Loredana Bertè](https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx) | [BANDABERTÈ](https://open.spotify.com/album/1M8gb4GMq9cQCVExvtWx0o) | 3:37 |
 | 24 | [Un Tempo piccolo](https://open.spotify.com/track/7cd6rqy01GXaUBJkzJvGzO) | [Franco Califano](https://open.spotify.com/artist/1Bkzb6WJ348VTlTrnJuqIz) | [Non Escludo Il Ritorno](https://open.spotify.com/album/2y7bASqXNGSuou0uYGHUMk) | 4:11 |
-| 25 | [Folle città](https://open.spotify.com/track/4o2cAoMoEdglmMI6Acx5IY) | [Loredana Bertè](https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx) | [BANDABERTÈ](https://open.spotify.com/album/1M8gb4GMq9cQCVExvtWx0o) | 3:37 |
+| 25 | [Crêuza de mä \- New Mix 2014](https://open.spotify.com/track/4Y3WfBJo7kwWkvzU8jzbno) | [Fabrizio De André](https://open.spotify.com/artist/19HiWVd2g0XyJstBsbW2Qm) | [Creuza de ma](https://open.spotify.com/album/6UGZ5FUUu2W0MWtEUvEcIJ) | 6:15 |
 | 26 | [Rossetto e caffè \(con The Kolors\)](https://open.spotify.com/track/0S5T2u9kPFvq9TyqJbXmcl) | [Sal Da Vinci](https://open.spotify.com/artist/7cdIY4mDfM1dbjgl7s2fGR), [The Kolors](https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR) | [Rossetto e caffè \(con The Kolors\)](https://open.spotify.com/album/6ai2ol4B5RhqzTBaM2Dgws) | 3:09 |
 | 27 | [Io Sono Francesco](https://open.spotify.com/track/2iFGo3WcU80Jmv6Kb24bga) | [Tricarico](https://open.spotify.com/artist/7EPKocezwQQ2Ni9CKakEq2) | [Tricarico](https://open.spotify.com/album/0uWOUQZs4mZeDabU2xpRgG) | 4:07 |
 | 28 | [Amor de mi vida](https://open.spotify.com/track/1V88gWT2lkujA6094zxA39) | [Sottotono](https://open.spotify.com/artist/7y9fjudnPW7IIhom2ZES3N) | [Sotto lo stesso effetto](https://open.spotify.com/album/5xF2MjvYaUjhL2WAy01QZ0) | 4:55 |

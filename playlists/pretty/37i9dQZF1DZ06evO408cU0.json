@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Carnaval. The essential tracks, all in one playlist.",
-  "num_followers": 63047,
+  "num_followers": 63062,
   "original_name": "This Is Banda Carnaval",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUiKAAAAAAChAePqB04M22VAYfZG+Syx",
+  "snapshot_id": "aUnbgAAAAABKfyZPEAq9gI95dSY9b2un",
   "tracks": [
     {
       "added_at": null,
@@ -79,22 +79,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Vueltas De La Vida",
-        "url": "https://open.spotify.com/album/4EsRdUztvnblHNgu53aqZr"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 223920,
-      "name": "Y Te Vas",
-      "url": "https://open.spotify.com/track/1kOA9u9k9l2LzCn8jmbkhg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Como No Queriendo",
         "url": "https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 237626,
       "name": "Vas A Estar Bien",
       "url": "https://open.spotify.com/track/5aXTBjjE3HO5pzkBHnGy16"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Vueltas De La Vida",
+        "url": "https://open.spotify.com/album/4EsRdUztvnblHNgu53aqZr"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 223920,
+      "name": "Y Te Vas",
+      "url": "https://open.spotify.com/track/1kOA9u9k9l2LzCn8jmbkhg"
     },
     {
       "added_at": null,
@@ -191,22 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Vueltas De La Vida",
-        "url": "https://open.spotify.com/album/4EsRdUztvnblHNgu53aqZr"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 214706,
-      "name": "La Doble Cara",
-      "url": "https://open.spotify.com/track/0PX1p94jkveuUOZ31rjHak"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El N\u00famero 1",
         "url": "https://open.spotify.com/album/6DNKBX6yM88feUvaifEWfX"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 207200,
       "name": "El Mentiroso",
       "url": "https://open.spotify.com/track/5OQGBfftOwNNCurN60x8SC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Vueltas De La Vida",
+        "url": "https://open.spotify.com/album/4EsRdUztvnblHNgu53aqZr"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 214706,
+      "name": "La Doble Cara",
+      "url": "https://open.spotify.com/track/0PX1p94jkveuUOZ31rjHak"
     },
     {
       "added_at": null,
@@ -291,26 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te So\u00f1\u00e9 (En Vivo)",
-        "url": "https://open.spotify.com/album/7DIYjfFkFIAfMBQF66NqKX"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 223566,
-      "name": "Te So\u00f1\u00e9 (En Vivo)",
-      "url": "https://open.spotify.com/track/2RGQaFUjKxEVBEFzma54YN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Como No Queriendo",
         "url": "https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ"
       },
@@ -351,6 +331,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Desde Mazatl\u00e1n, Sinaloa (En Vivo)",
+        "url": "https://open.spotify.com/album/6VE5VAjHrptT2rWYr8xeIW"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 223566,
+      "name": "Te So\u00f1\u00e9 (En Vivo)",
+      "url": "https://open.spotify.com/track/6tfuAm5TeylFYDn2oZ6wuX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Historia De Mis Manos",
         "url": "https://open.spotify.com/album/5xSNjB8PaOWJ4nSW3WF50z"
       },
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00e1ximo Nivel",
-        "url": "https://open.spotify.com/album/2o3N95qE0jyJm4huXhK0WE"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 180200,
-      "name": "As\u00ed Te Necesito",
-      "url": "https://open.spotify.com/track/0VjQnUClspAvDIejRi8vRl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Como No Queriendo",
         "url": "https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 198306,
       "name": "Segunda Opci\u00f3n",
       "url": "https://open.spotify.com/track/3bvQCGDb6D66J7b0lzXsKG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "M\u00e1ximo Nivel",
+        "url": "https://open.spotify.com/album/2o3N95qE0jyJm4huXhK0WE"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 180200,
+      "name": "As\u00ed Te Necesito",
+      "url": "https://open.spotify.com/track/0VjQnUClspAvDIejRi8vRl"
     },
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hombre De Trabajo",
-        "url": "https://open.spotify.com/album/7uIF84opYzXLtE0fX7EVxp"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 173600,
-      "name": "En Qu\u00e9 Cabeza Cabe",
-      "url": "https://open.spotify.com/track/6HUMffUSppjuuO8v193wWM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Como No Queriendo",
         "url": "https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 163253,
       "name": "Ella Es Mi Mujer",
       "url": "https://open.spotify.com/track/5WdjiXWPnfjgwFssJGFU4K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hombre De Trabajo",
+        "url": "https://open.spotify.com/album/7uIF84opYzXLtE0fX7EVxp"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 173600,
+      "name": "En Qu\u00e9 Cabeza Cabe",
+      "url": "https://open.spotify.com/track/6HUMffUSppjuuO8v193wWM"
     },
     {
       "added_at": null,
@@ -619,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sabes Que Lo Hago",
+        "url": "https://open.spotify.com/album/7MX6kDsXTKY7lNSf26ACzz"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 193080,
+      "name": "Sabes Que Lo Hago",
+      "url": "https://open.spotify.com/track/1nXX0DQjdLxaTTyvHLM6WL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Volver A Volar",
         "url": "https://open.spotify.com/album/5AcdviRjHFjsErdiU3RtWg"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 157906,
       "name": "Me Perd\u00ed De Un Amor",
       "url": "https://open.spotify.com/track/5dIbOZ1cf4UmEPTUoT5h5G"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sabes Que Lo Hago",
-        "url": "https://open.spotify.com/album/7MX6kDsXTKY7lNSf26ACzz"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 193080,
-      "name": "Sabes Que Lo Hago",
-      "url": "https://open.spotify.com/track/1nXX0DQjdLxaTTyvHLM6WL"
     },
     {
       "added_at": null,

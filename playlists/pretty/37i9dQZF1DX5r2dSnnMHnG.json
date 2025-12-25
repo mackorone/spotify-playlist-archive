@@ -1,6 +1,6 @@
 {
   "description": "\ubc9a\uaf43\uc774 \ud769\ub0a0\ub9ac\uace0 \uc0c8\uc2f9\uc774 \ud53c\uc5b4\uc624\ub974\ub294 \ubd04\uc758 \uc124\ub808\uc784\uc744 \ub9cc\ub07d\ud558\uc138\uc694.",
-  "num_followers": 10989,
+  "num_followers": 10991,
   "original_name": "*\ubd04 \uc124\ub808\uc784",
   "owner": {
     "name": "Spotify",
@@ -259,6 +259,22 @@
     {
       "added_at": "2025-05-13 05:06:27",
       "album": {
+        "name": "\uc6b0\ub9ac \uc606\uc9d1\uc5d0 EXO\uac00 \uc0b0\ub2e4 (EXO NEXT DOOR) OST",
+        "url": "https://open.spotify.com/album/5r1LKUMNugaBQcHow1pNuc"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "duration_ms": 224240,
+      "name": "\ub450\uadfc\uac70\ub824 (Beautiful)",
+      "url": "https://open.spotify.com/track/7rxnGhTlqU3FRUzd8F4R3d"
+    },
+    {
+      "added_at": "2025-05-13 05:06:27",
+      "album": {
         "name": "Beyond Love",
         "url": "https://open.spotify.com/album/5Gp70tE4qrzx93UkoqP5QA"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 188706,
       "name": "Beyond Love (Feat. 10CM)",
       "url": "https://open.spotify.com/track/0HsRZwZzHoZ5AM5W2ZYI5c"
-    },
-    {
-      "added_at": "2025-05-13 05:06:27",
-      "album": {
-        "name": "\uc6b0\ub9ac \uc606\uc9d1\uc5d0 EXO\uac00 \uc0b0\ub2e4 (EXO NEXT DOOR) OST",
-        "url": "https://open.spotify.com/album/5r1LKUMNugaBQcHow1pNuc"
-      },
-      "artists": [
-        {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
-        }
-      ],
-      "duration_ms": 224240,
-      "name": "\ub450\uadfc\uac70\ub824 (Beautiful)",
-      "url": "https://open.spotify.com/track/7rxnGhTlqU3FRUzd8F4R3d"
     },
     {
       "added_at": "2025-05-13 05:06:27",
@@ -867,22 +867,6 @@
     {
       "added_at": "2025-05-13 05:06:27",
       "album": {
-        "name": "Full Bloom",
-        "url": "https://open.spotify.com/album/7p24Sh0HP8nIDdrJbJHB3y"
-      },
-      "artists": [
-        {
-          "name": "Kassy",
-          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
-        }
-      ],
-      "duration_ms": 163733,
-      "name": "Spring Bloom",
-      "url": "https://open.spotify.com/track/3ZGKRl24T92ouc13ttGer4"
-    },
-    {
-      "added_at": "2025-05-13 05:06:27",
-      "album": {
         "name": "Love Catcher in Bali, Pt. 3 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/439TfzqRqaIX84wfVmSrg4"
       },
@@ -895,6 +879,38 @@
       "duration_ms": 194786,
       "name": "My Destiny",
       "url": "https://open.spotify.com/track/2AttvRNr7CW8KEYOaK2ElA"
+    },
+    {
+      "added_at": "2025-05-13 05:06:27",
+      "album": {
+        "name": "Racket Boys (Original Television Soundtrack) Pt. 5",
+        "url": "https://open.spotify.com/album/3LZCD80VWyUCWwJW9wuxLX"
+      },
+      "artists": [
+        {
+          "name": "\ubc15\uc9c0\uc6d0",
+          "url": "https://open.spotify.com/artist/6twRzRI2pKTWXJn19doT41"
+        }
+      ],
+      "duration_ms": 203386,
+      "name": "Cloud",
+      "url": "https://open.spotify.com/track/10WR5K1KXPTw0fkHoc7Iah"
+    },
+    {
+      "added_at": "2025-05-13 05:06:27",
+      "album": {
+        "name": "Full Bloom",
+        "url": "https://open.spotify.com/album/7p24Sh0HP8nIDdrJbJHB3y"
+      },
+      "artists": [
+        {
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+        }
+      ],
+      "duration_ms": 163733,
+      "name": "Spring Bloom",
+      "url": "https://open.spotify.com/track/3ZGKRl24T92ouc13ttGer4"
     },
     {
       "added_at": "2025-05-13 05:06:27",
@@ -931,22 +947,6 @@
       "duration_ms": 291902,
       "name": "\uc0ac\ub791\ud55c\ub300",
       "url": "https://open.spotify.com/track/1y5Ksa62m6wDfkdQGIwvpq"
-    },
-    {
-      "added_at": "2025-05-13 05:06:27",
-      "album": {
-        "name": "Racket Boys (Original Television Soundtrack) Pt. 5",
-        "url": "https://open.spotify.com/album/3LZCD80VWyUCWwJW9wuxLX"
-      },
-      "artists": [
-        {
-          "name": "\ubc15\uc9c0\uc6d0",
-          "url": "https://open.spotify.com/artist/6twRzRI2pKTWXJn19doT41"
-        }
-      ],
-      "duration_ms": 203386,
-      "name": "Cloud",
-      "url": "https://open.spotify.com/track/10WR5K1KXPTw0fkHoc7Iah"
     },
     {
       "added_at": "2025-05-13 05:06:27",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2025-05-13 05:06:27",
       "album": {
-        "name": "Whenever",
-        "url": "https://open.spotify.com/album/4eROUE77uAdbbmGQIHxe9V"
-      },
-      "artists": [
-        {
-          "name": "Izykite",
-          "url": "https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx"
-        }
-      ],
-      "duration_ms": 200880,
-      "name": "Whenever",
-      "url": "https://open.spotify.com/track/2kWXuRojPl7wWoo7DqBEPe"
-    },
-    {
-      "added_at": "2025-05-13 05:06:27",
-      "album": {
         "name": "AFTER THE LIGHT",
         "url": "https://open.spotify.com/album/0o5EHrWY8OhObL2HwHNGpv"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 194453,
       "name": "AFTER THE LIGHT",
       "url": "https://open.spotify.com/track/7CAlzZZI89CpcNgw0rTIHh"
+    },
+    {
+      "added_at": "2025-05-13 05:06:27",
+      "album": {
+        "name": "Whenever",
+        "url": "https://open.spotify.com/album/4eROUE77uAdbbmGQIHxe9V"
+      },
+      "artists": [
+        {
+          "name": "Izykite",
+          "url": "https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx"
+        }
+      ],
+      "duration_ms": 200880,
+      "name": "Whenever",
+      "url": "https://open.spotify.com/track/2kWXuRojPl7wWoo7DqBEPe"
     },
     {
       "added_at": "2025-05-13 05:06:27",

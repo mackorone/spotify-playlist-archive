@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdU6D36RN4M1.md) - [plain]
 
 > Se va acercando la navidad, el año nuevo me traerá nuevas tristezas y por tu ausencia lloraré mi soledad.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,061 likes - 102 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,179 likes - 102 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

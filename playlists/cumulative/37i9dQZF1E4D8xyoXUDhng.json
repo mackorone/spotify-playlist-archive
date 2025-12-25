@@ -948,7 +948,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-24",
+      "date_removed": null,
       "duration_ms": 279440,
       "name": "All Night",
       "url": "https://open.spotify.com/track/3Qk5BqpDX9RAIBjgExG5Yc"
@@ -3900,7 +3900,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-23",
+      "date_removed": null,
       "duration_ms": 451133,
       "name": "Changed - Tramaine Treasury Album",
       "url": "https://open.spotify.com/track/69np0vEH8DIRlKZqSfnCBi"
@@ -5214,7 +5214,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-25",
       "duration_ms": 395400,
       "name": "Don't Take Your Joy Away",
       "url": "https://open.spotify.com/track/0dzX3egS90PmVBhjDSWRPE"
@@ -7878,7 +7878,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-25",
       "duration_ms": 301533,
       "name": "God Blocked It",
       "url": "https://open.spotify.com/track/2NFqytYqfUblGvXucjvG6F"
@@ -8844,7 +8844,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-23",
+      "date_removed": null,
       "duration_ms": 582200,
       "name": "Goin' Up Yonder",
       "url": "https://open.spotify.com/track/5Q8kGGeUqVJMO6fm00qB57"
@@ -10382,7 +10382,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-11",
+      "date_removed": null,
       "duration_ms": 521200,
       "name": "He'll Take The Pain Away - Live",
       "url": "https://open.spotify.com/track/1QBu0WE5BNuKNNAjRC0YPh"
@@ -11381,6 +11381,24 @@
     },
     {
       "album": {
+        "name": "A New Creation",
+        "url": "https://open.spotify.com/album/6AxnizDad7hkvYoUlCHxsH"
+      },
+      "artists": [
+        {
+          "name": "Mississippi Children's Choir",
+          "url": "https://open.spotify.com/artist/6jWosXUd9GUshdTV9iC1Rn"
+        }
+      ],
+      "date_added": "2025-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 507200,
+      "name": "His Eye Is On the Sparrow",
+      "url": "https://open.spotify.com/track/3ck2ISREqVEXN4NnmZ3i2j"
+    },
+    {
+      "album": {
         "name": "I Go To The Rock: The Gospel Music Of Whitney Houston",
         "url": "https://open.spotify.com/album/7lKMNq3VtZKyDsLMlJP3qn"
       },
@@ -11688,7 +11706,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-23",
+      "date_removed": null,
       "duration_ms": 343480,
       "name": "Hold to God's Unchanging Hand",
       "url": "https://open.spotify.com/track/2FXjqWJzTRbnxahixKy89h"
@@ -13396,7 +13414,7 @@
       ],
       "date_added": "2024-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-25",
       "duration_ms": 471379,
       "name": "I Know It Was Jesus",
       "url": "https://open.spotify.com/track/4ucMu9qhdgTjOez2Rji4OT"
@@ -14722,7 +14740,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-24",
+      "date_removed": null,
       "duration_ms": 293545,
       "name": "I Win",
       "url": "https://open.spotify.com/track/30w9M5Ve4pi2944Szk15rQ"
@@ -15052,7 +15070,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-18",
+      "date_removed": null,
       "duration_ms": 379734,
       "name": "I'm Available to You",
       "url": "https://open.spotify.com/track/2lWFN5HviKVkFtybv85FaU"
@@ -15204,7 +15222,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-23",
+      "date_removed": null,
       "duration_ms": 225813,
       "name": "I'm Healing",
       "url": "https://open.spotify.com/track/08yIgsKh2vJomzIHoVqHpN"
@@ -15370,7 +15388,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-24",
+      "date_removed": null,
       "duration_ms": 291730,
       "name": "I'm Not God",
       "url": "https://open.spotify.com/track/5kkUWXxfOiLVGEFqLN95pA"
@@ -22330,7 +22348,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-23",
+      "date_removed": null,
       "duration_ms": 335000,
       "name": "My Life Is In Your Hands",
       "url": "https://open.spotify.com/track/58b4jrSFpBMXdNFZFGPbrj"
@@ -23042,7 +23060,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-25",
       "duration_ms": 224365,
       "name": "NO",
       "url": "https://open.spotify.com/track/3XNfER4M7Zk6Zbjte0Q1mY"
@@ -25582,7 +25600,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-25",
       "duration_ms": 552760,
       "name": "Praise Is What I Do",
       "url": "https://open.spotify.com/track/3prZxvQe9PF1PKBZJM3L3u"
@@ -25998,7 +26016,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-25",
       "duration_ms": 450389,
       "name": "Promises",
       "url": "https://open.spotify.com/track/5LCsuq3aotpTSfy0Y9X6X5"
@@ -27228,7 +27246,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-18",
+      "date_removed": null,
       "duration_ms": 295160,
       "name": "Safe In His Arms",
       "url": "https://open.spotify.com/track/6LfQnWVGxmKbha6XclRrLD"
@@ -30480,7 +30498,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-25",
       "duration_ms": 250666,
       "name": "Thank You Lord",
       "url": "https://open.spotify.com/track/1v6xbvbZjqkpUzj5XtQ782"
@@ -31372,7 +31390,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-25",
       "duration_ms": 288413,
       "name": "The Lord Is Blessing Me",
       "url": "https://open.spotify.com/track/3PWzBVskGNV5YRThi0Sxh8"
@@ -31772,7 +31790,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-25",
       "duration_ms": 280386,
       "name": "The Question Is",
       "url": "https://open.spotify.com/track/7pwhXy1QP3JM6w7nZyoKrw"
@@ -31826,7 +31844,7 @@
       ],
       "date_added": "2023-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-25",
       "duration_ms": 303400,
       "name": "The Shepherd Song",
       "url": "https://open.spotify.com/track/6wtauQXvf4MfIuxH5wmTso"
@@ -32096,7 +32114,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-23",
+      "date_removed": null,
       "duration_ms": 367893,
       "name": "There Is No Way",
       "url": "https://open.spotify.com/track/3vOjNcU69o8kkLCu09JNtO"
@@ -33712,7 +33730,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-25",
       "duration_ms": 235066,
       "name": "Victory",
       "url": "https://open.spotify.com/track/4otC7bmVwKBztnEPcO2uQY"
@@ -34502,7 +34520,7 @@
       ],
       "date_added": "2023-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-25",
       "duration_ms": 197080,
       "name": "We've Come This Far By Faith",
       "url": "https://open.spotify.com/track/0eOuv62u5tavJlZUxM5knT"
@@ -34720,7 +34738,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-23",
+      "date_removed": null,
       "duration_ms": 361066,
       "name": "What Shall I Do?",
       "url": "https://open.spotify.com/track/7o3KvIdRbTLr7DvxMlz7TJ"
@@ -35442,7 +35460,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-25",
       "duration_ms": 365946,
       "name": "Work It Out",
       "url": "https://open.spotify.com/track/4hBzaEsph2yHh8IuRNPYaS"
@@ -35706,7 +35724,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-25",
       "duration_ms": 589333,
       "name": "Yes",
       "url": "https://open.spotify.com/track/51lmYqMkkftoTHyxgQlchW"

@@ -1,6 +1,6 @@
 {
   "description": "Enjoy these songs while you eat.",
-  "num_followers": 9246,
+  "num_followers": 9245,
   "original_name": "Iftar",
   "owner": {
     "name": "Spotify",
@@ -487,6 +487,22 @@
     {
       "added_at": "2025-01-28 09:40:02",
       "album": {
+        "name": "Sevda Yolunda",
+        "url": "https://open.spotify.com/album/13lB4t3zb83qlAPIA9qxDf"
+      },
+      "artists": [
+        {
+          "name": "M\u00fcnip Utand\u0131",
+          "url": "https://open.spotify.com/artist/3RGtIiEh0836q5AXjPAuzR"
+        }
+      ],
+      "duration_ms": 99120,
+      "name": "H\u00fcseyni Pe\u015frev",
+      "url": "https://open.spotify.com/track/3w1vzEi5ubLr54RbfhMMDI"
+    },
+    {
+      "added_at": "2025-01-28 09:40:02",
+      "album": {
         "name": "Itri & Bach",
         "url": "https://open.spotify.com/album/6r17TPLNFTrPtKOUCDpo9w"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 103164,
       "name": "Segah Salat-\u0131 \u00dcmmiye",
       "url": "https://open.spotify.com/track/0Tbe6GqO843vSMeiHu0yU9"
-    },
-    {
-      "added_at": "2025-01-28 09:40:02",
-      "album": {
-        "name": "Sevda Yolunda",
-        "url": "https://open.spotify.com/album/13lB4t3zb83qlAPIA9qxDf"
-      },
-      "artists": [
-        {
-          "name": "M\u00fcnip Utand\u0131",
-          "url": "https://open.spotify.com/artist/3RGtIiEh0836q5AXjPAuzR"
-        }
-      ],
-      "duration_ms": 99120,
-      "name": "H\u00fcseyni Pe\u015frev",
-      "url": "https://open.spotify.com/track/3w1vzEi5ubLr54RbfhMMDI"
     },
     {
       "added_at": "2025-01-28 09:40:02",
@@ -831,22 +831,6 @@
     {
       "added_at": "2025-01-28 09:40:02",
       "album": {
-        "name": "Makamlarla T\u00fcrk Din M\u00fbs\u00eekisi E\u011fitim Seti, Vol. 3 / Seg\u00e2h Nihavend Acema\u015f\u00eeran",
-        "url": "https://open.spotify.com/album/4LjCB3MA5i8yKUkVji2ZN0"
-      },
-      "artists": [
-        {
-          "name": "Various Artists",
-          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
-        }
-      ],
-      "duration_ms": 105560,
-      "name": "Seg\u00e2h Pe\u015frev - Seg\u00e2h",
-      "url": "https://open.spotify.com/track/50lyXPqNvboCr2Xi8v2grj"
-    },
-    {
-      "added_at": "2025-01-28 09:40:02",
-      "album": {
         "name": "Duygu Pinari",
         "url": "https://open.spotify.com/album/7HEzAaqs5mlGQzMYGHljID"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 277199,
       "name": "Esinti (K\u00fcrdi Saz Eseri)",
       "url": "https://open.spotify.com/track/7AzYy0fhkJKkiGE5IUU2hH"
+    },
+    {
+      "added_at": "2025-01-28 09:40:02",
+      "album": {
+        "name": "Makamlarla T\u00fcrk Din M\u00fbs\u00eekisi E\u011fitim Seti, Vol. 3 / Seg\u00e2h Nihavend Acema\u015f\u00eeran",
+        "url": "https://open.spotify.com/album/4LjCB3MA5i8yKUkVji2ZN0"
+      },
+      "artists": [
+        {
+          "name": "Various Artists",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "duration_ms": 105560,
+      "name": "Seg\u00e2h Pe\u015frev - Seg\u00e2h",
+      "url": "https://open.spotify.com/track/50lyXPqNvboCr2Xi8v2grj"
     },
     {
       "added_at": "2025-01-28 09:40:02",
@@ -919,18 +919,26 @@
     {
       "added_at": "2025-01-28 09:40:02",
       "album": {
-        "name": "Kaftan (Instrumental Palace of Songs)",
-        "url": "https://open.spotify.com/album/4JoB1ufXjKA9ZtdK0C51JW"
+        "name": "Duygu Pinari",
+        "url": "https://open.spotify.com/album/7HEzAaqs5mlGQzMYGHljID"
       },
       "artists": [
         {
-          "name": "Ahmet Cenneto\u011flu",
-          "url": "https://open.spotify.com/artist/6jGc5YUnqnjxiFPBeTUjv8"
+          "name": "P\u0131nar K\u00f6ksal",
+          "url": "https://open.spotify.com/artist/5n2N4vhX5SfjiTtLJBM7jZ"
+        },
+        {
+          "name": "G\u00f6ksel Baktagir",
+          "url": "https://open.spotify.com/artist/5AjOM8Kxmb2hNi9Gq2p9Zp"
+        },
+        {
+          "name": "Hakan Aysev",
+          "url": "https://open.spotify.com/artist/48cI3r9zpRorKUKiepDyHk"
         }
       ],
-      "duration_ms": 80146,
-      "name": "\u00c7argah Sirto",
-      "url": "https://open.spotify.com/track/2q4aOzOjhGbBsRAgm3y1Kd"
+      "duration_ms": 171223,
+      "name": "Anadolu (H\u00fcseyni Saz Eseri)",
+      "url": "https://open.spotify.com/track/6iWmhXEPOXSHewuzUkBivJ"
     }
   ],
   "unique_name": "Iftar",

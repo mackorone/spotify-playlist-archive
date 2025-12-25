@@ -1,6 +1,6 @@
 {
   "description": "Musica da ascoltare con un drink in mano \ud83e\udd43",
-  "num_followers": 252703,
+  "num_followers": 252686,
   "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
@@ -1619,26 +1619,6 @@
     {
       "added_at": "2025-12-02 11:48:38",
       "album": {
-        "name": "Feel",
-        "url": "https://open.spotify.com/album/1xr54fLjHQSPjOF3MF6pEm"
-      },
-      "artists": [
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        },
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 219208,
-      "name": "Feel",
-      "url": "https://open.spotify.com/track/5mMCnnycAkho18eZmZIDwi"
-    },
-    {
-      "added_at": "2025-12-02 11:48:38",
-      "album": {
         "name": "Da Fonk (feat. Joni)",
         "url": "https://open.spotify.com/album/5t3QAcFlAa6hB08H976naz"
       },
@@ -1655,6 +1635,26 @@
       "duration_ms": 351496,
       "name": "Da Fonk (feat. Joni) - [Dub]",
       "url": "https://open.spotify.com/track/16HsivNFzvZZNwK12a0fOp"
+    },
+    {
+      "added_at": "2025-12-02 11:48:38",
+      "album": {
+        "name": "Feel",
+        "url": "https://open.spotify.com/album/1xr54fLjHQSPjOF3MF6pEm"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 219208,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/5mMCnnycAkho18eZmZIDwi"
     },
     {
       "added_at": "2025-12-02 11:48:38",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2025-12-02 11:48:38",
       "album": {
-        "name": "Happiness Therapy 06: All\u00e9gresse",
-        "url": "https://open.spotify.com/album/4HeN8rpI28qPE06m2ZOi2q"
-      },
-      "artists": [
-        {
-          "name": "Tour-Maubourg",
-          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
-        }
-      ],
-      "duration_ms": 330000,
-      "name": "Amicalement V\u00f4tre",
-      "url": "https://open.spotify.com/track/0pl6IKhaBj7hheHHOmEIp6"
-    },
-    {
-      "added_at": "2025-12-02 11:48:38",
-      "album": {
         "name": "Chica",
         "url": "https://open.spotify.com/album/3gAmDlq88VR7wOramBaeZi"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 130393,
       "name": "Chica",
       "url": "https://open.spotify.com/track/2ZgaR05AXBq8UvE7yx6nDi"
+    },
+    {
+      "added_at": "2025-12-02 11:48:38",
+      "album": {
+        "name": "Happiness Therapy 06: All\u00e9gresse",
+        "url": "https://open.spotify.com/album/4HeN8rpI28qPE06m2ZOi2q"
+      },
+      "artists": [
+        {
+          "name": "Tour-Maubourg",
+          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
+        }
+      ],
+      "duration_ms": 330000,
+      "name": "Amicalement V\u00f4tre",
+      "url": "https://open.spotify.com/track/0pl6IKhaBj7hheHHOmEIp6"
     },
     {
       "added_at": "2025-12-02 11:48:38",

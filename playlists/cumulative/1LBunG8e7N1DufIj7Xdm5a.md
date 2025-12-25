@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-3,764 songs - 8 day 7 hr 46 min
+3,769 songs - 8 day 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -410,6 +410,7 @@
 | [Brucia il Cielo](https://open.spotify.com/track/3V3c9hR9IOfGZdsdhVzTAB) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Italia Dance](https://open.spotify.com/album/1G91ZjYkSiRadJ1jMQJaS3) | 3:00 | 2025-09-15 |  |
 | [Brucia il Cielo \(another\)](https://open.spotify.com/track/5l9MbF9nNblZ8IZPPGb2xV) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Italia Dance](https://open.spotify.com/album/1G91ZjYkSiRadJ1jMQJaS3) | 2:45 | 2025-09-15 |  |
 | [BRUISER](https://open.spotify.com/track/1dAVF1RxI4cIhZmzcevjgX) | [Igwe Aka](https://open.spotify.com/artist/00dT0myy0kbq152QWIzRPI) | [EAGLE OR THE EGG](https://open.spotify.com/album/3rw9U6xu0qvr2PDua4wEUa) | 2:22 | 2025-05-16 |  |
+| [Brunch Shit](https://open.spotify.com/track/4ppjAukBLZEOwGs13k7GeE) | [Ksv Sirius](https://open.spotify.com/artist/3mGKLjUOJC93N1lQB0RRJF) | [Brunch Shit](https://open.spotify.com/album/6FMUH43329kwvlQxzH551C) | 1:55 | 2025-12-25 |  |
 | [Brutal Machines](https://open.spotify.com/track/5u2JG2ZZ6pa0BY8WNeAIC0) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Electronic Techno Metal](https://open.spotify.com/album/3QGQOQiU2ULfdIXSSp3w2y) | 4:00 | 2025-09-17 |  |
 | [Brutal Machines \(another\)](https://open.spotify.com/track/1vFGM1OK8mUBfKKwGQaAH8) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Electronic Techno Metal](https://open.spotify.com/album/3QGQOQiU2ULfdIXSSp3w2y) | 4:00 | 2025-09-17 |  |
 | [Bubblegum Blade](https://open.spotify.com/track/74VRkhBBRuqggNzgJuLiDe) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Hyperpop](https://open.spotify.com/album/6rWV9L1qvMm1cvEJ5LJO9E) | 2:07 | 2025-09-16 |  |
@@ -1730,6 +1731,7 @@
 | [Just the Thing](https://open.spotify.com/track/0TnbWHg68Z0fLDl4HYV31r) | [Meredith O'Connor](https://open.spotify.com/artist/0uA6tV1ERg5cIWTEIp2gfF) | [I Am](https://open.spotify.com/album/0k77QzqX1NJf5B8anY0Uif) | 2:43 | 2025-03-30 |  |
 | [Kaibigang Demonyo](https://open.spotify.com/track/7o8fbvliCukqkMYn8amRWq) | [Labao St.](https://open.spotify.com/artist/03dSlROdmj0TUop0BOQI3H) | [Kaibigang Demonyo](https://open.spotify.com/album/4JEhkJHekEhNrVsOBHgfuE) | 5:52 | 2025-05-30 |  |
 | [Kaos](https://open.spotify.com/track/5Gv6JRKCGzdhBXDyMRMXv0) | [Againstide](https://open.spotify.com/artist/7qEOhbkxfx5d24fF5vEjpI) | [Kaos](https://open.spotify.com/album/3Kk9Jiio0xLE4FOuvY0kvx) | 4:37 | 2025-07-26 |  |
+| [Karpa Koi](https://open.spotify.com/track/5wNaTEXJt42mrir0krH5Z6) | [Ksv Sirius](https://open.spotify.com/artist/3mGKLjUOJC93N1lQB0RRJF) | [Karpa Koi](https://open.spotify.com/album/4G1JLl7b1jjnjAlNyu9Tzb) | 1:57 | 2025-12-25 |  |
 | [Karst](https://open.spotify.com/track/2kRsYGQkSzB6xRu6W8DJvb) | [OSSIFER](https://open.spotify.com/artist/7hpGCrRqtmaoDuQ98GKWdx) | [Karst](https://open.spotify.com/album/7doOzUTBMSiODNOZ4sF9wm) | 4:41 | 2025-04-26 |  |
 | [Kashmir \- Cover](https://open.spotify.com/track/6fcdXw2LyBCyump8JRCGfo) | [JaNNus](https://open.spotify.com/artist/6UzFYM28tp9IjqbjVdnmTb), [Cristian Argonz](https://open.spotify.com/artist/1tvPKCfCxBoYEpbd0VjCVR) | [Nueva Era](https://open.spotify.com/album/6aBPq0mvfWPYuSv1OzPhL5) | 8:39 | 2025-08-27 |  |
 | [Keep It Up](https://open.spotify.com/track/0X8HKkjRUdBqIuSkP3hy1J) | [Prince MSK](https://open.spotify.com/artist/2uBjCmm2Y4L5UeYwe4JvL8), [Yungcrxss](https://open.spotify.com/artist/3fdZ6VcAI1XkiPnOUXeMdC), [Asaboy DaSupreme](https://open.spotify.com/artist/422fRoBCOIIxMMPW7rPy57) | [For Us By Us](https://open.spotify.com/album/4dV17FfYyYFFm9raWRvtR6) | 3:03 | 2025-06-04 |  |
@@ -2064,6 +2066,7 @@
 | [Milioni di farfalle](https://open.spotify.com/track/1yxIPWhbubDNdW8HuusRh6) | [LEONE PRIMO](https://open.spotify.com/artist/0IlaTQDcOlHYtNdnSoUYfe) | [1825](https://open.spotify.com/album/6VISv9AIaSbaaVpGafOaGx) | 3:42 | 2025-06-08 |  |
 | [Milkyway's Walk](https://open.spotify.com/track/1cDbKbdMtx8wdRLEMXSKxE) | [Giuliano Perticara](https://open.spotify.com/artist/2emKGzmpHRtJjN93aTdSad) | [M87](https://open.spotify.com/album/3ZV7GcHC1abUq35JpkcAhg) | 3:39 | 2022-11-02 |  |
 | [Mille Direzioni](https://open.spotify.com/track/4JEalJCPIbHQGawEMx4dWH) | [Guida Galattica](https://open.spotify.com/artist/6dALgmDuM8lbsYjTRh7xlv) | [Mille Direzioni](https://open.spotify.com/album/1aqpgksoY1aNGuo1X6WWXR) | 3:03 | 2025-06-01 |  |
+| [Mindshrooms](https://open.spotify.com/track/5Iuk6uVkN0jmvu2jD330Kf) | [Ksv Sirius](https://open.spotify.com/artist/3mGKLjUOJC93N1lQB0RRJF) | [Mindshrooms](https://open.spotify.com/album/0kWEGE2InIV8B5FeWUHy06) | 2:57 | 2025-12-25 |  |
 | [Mine \- Remix](https://open.spotify.com/track/5lHd35yEPJJ9txb2o5op0T) | [DayEyez](https://open.spotify.com/artist/1aQedVQXAyjHdMzJbCUeAG), [Shaun Dayman](https://open.spotify.com/artist/33U4wuMpmtGxKKsSfXJIpU) | [Mine \(Remix\)](https://open.spotify.com/album/3m3kr2jwqEEcgt9k5W68Pl) | 4:08 | 2025-07-26 |  |
 | [Minha Canção Vai Te Tocar](https://open.spotify.com/track/2DNdccmDGY4UUtXSeOhbBN) | [Thiago Barba](https://open.spotify.com/artist/08IHljRCkTZ3v2X65B1U5I) | [Dueto](https://open.spotify.com/album/6od0qOZJPuGeXp1Bi5y3vX) | 4:29 | 2025-05-04 |  |
 | [Misonzi Mbwee](https://open.spotify.com/track/6ag6oI8gvsRRLnjts6U43R) | [Kay Krush](https://open.spotify.com/artist/1NTEEE22b4tOhZQvMctIlT) | [Misonzi Mbwee](https://open.spotify.com/album/5bZtNoEOO7q73ellDvr6VG) | 2:20 | 2025-06-05 |  |
@@ -2953,6 +2956,7 @@
 | [Sole di Carta \(another\)](https://open.spotify.com/track/7CMs69Y8bIrgLOAlaqwIVp) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Italia Dance](https://open.spotify.com/album/1G91ZjYkSiRadJ1jMQJaS3) | 3:03 | 2025-09-15 |  |
 | [Sole d’Italia](https://open.spotify.com/track/1ciuQW6zfhaC5YnhJPt22p) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Italian Music](https://open.spotify.com/album/0P7EboV1NMbmK6iX5ALFyS) | 2:55 | 2025-09-18 |  |
 | [Sole d’Italia \(another\)](https://open.spotify.com/track/79po6HezkEmHXnKW31tzBr) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Italian Music](https://open.spotify.com/album/0P7EboV1NMbmK6iX5ALFyS) | 1:54 | 2025-09-18 |  |
+| [Solo oro](https://open.spotify.com/track/43rxBqECyQkwj8KlKYpBvO) | [Ksv Sirius](https://open.spotify.com/artist/3mGKLjUOJC93N1lQB0RRJF) | [Solo oro](https://open.spotify.com/album/7nxex20IBUGH5I0LKofPYF) | 1:21 | 2025-12-25 |  |
 | [Solo Por Tu Forma De Bailar](https://open.spotify.com/track/0AY6G0yMYrg3cAP2zFEAno) | [Gary Tapiego](https://open.spotify.com/artist/73rYkLqdQlbp7BM6tDuo5v) | [Solo Por Tu Forma De Bailar](https://open.spotify.com/album/309I4AbV1BHtPd4xgUiqdT) | 3:04 | 2025-03-18 |  |
 | [Someday](https://open.spotify.com/track/1tQPfLbmMd6GSeKhsoyC4M) | [Angus Court](https://open.spotify.com/artist/1umNSu2Mp8j1yiBKzLp8Ia) | [Angus Court](https://open.spotify.com/album/40raKChU36fgkK6iCP4vYs) | 3:39 | 2025-06-05 |  |
 | [Somehow i manage](https://open.spotify.com/track/5XQLf0iWXFXpmR4N3ULyOJ) | [Parkii](https://open.spotify.com/artist/04hMX1QdxT1JAJ5La6BF0i) | [Somehow i manage](https://open.spotify.com/album/4REBIog42thZXKfZPSLZ7n) | 4:04 | 2025-05-07 |  |
@@ -3341,6 +3345,7 @@
 | [Towards Infinity](https://open.spotify.com/track/6L8qqTwyUUim4eIi7AzDUO) | [CrisVola](https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo) | [Towards Infinity](https://open.spotify.com/album/3oQDxpzKuvmGa7CUW0q36u) | 3:07 | 2024-10-24 |  |
 | [Towards The Moon](https://open.spotify.com/track/4Lfty9TYTZpmDIoqrWw8ez) | [Loris](https://open.spotify.com/artist/0NNVqu4vFNvDhWFfaHmXGB) | [Towards The Moon](https://open.spotify.com/album/3C8ztacPKK7RK9UmZKNGwv) | 2:26 | 2025-05-27 |  |
 | [Toxic Desire](https://open.spotify.com/track/28LLsAxtkY4bd9DpaTAN1E) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Absinthe Nights](https://open.spotify.com/album/4OEm70Vv5QIeDRUKSrKx1m) | 2:50 | 2025-09-15 |  |
+| [Toxic Eyes](https://open.spotify.com/track/6baNKpr9Yn4yIzaDxbRvWT) | [Ksv Sirius](https://open.spotify.com/artist/3mGKLjUOJC93N1lQB0RRJF) | [Toxic Eyes](https://open.spotify.com/album/2BmA4tAKkNgfpC1psKOpQD) | 3:15 | 2025-12-25 |  |
 | [Toxic Love](https://open.spotify.com/track/3S4PxE2Wr5AGw8Mx4LLuDP) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [R&B music album](https://open.spotify.com/album/0cTefedcGjVOy0QYnpq33N) | 2:41 | 2025-09-20 |  |
 | [Toxic Paradise](https://open.spotify.com/track/2XuUKawuQncMPkijFNbF6m) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Burn th Night, Vol\. 2](https://open.spotify.com/album/732QXoYcUYkM9K7nICidlq) | 1:47 | 2025-09-12 |  |
 | [Toxic Salvation](https://open.spotify.com/track/2ssDc8AuMtrVQLzXQKpyMx) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Neon Apocalypse](https://open.spotify.com/album/0CjDkfwPy9Iw8wYV8GKLRG) | 2:37 | 2025-09-16 |  |

@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdDDmz3bMBA.md) - [plain]
 | 19 | [The Subtle Power Moves You Need Today to Get Ahead](https://open.spotify.com/episode/2UNWlMo8gfgyfHkeLohJzR) | [Tiger Sisters](https://open.spotify.com/show/05r0jVSXGGAs8niZ1VsdzF) | [Tiger Sisters](https://open.spotify.com/album/05r0jVSXGGAs8niZ1VsdzF) | 29:05 |
 | 20 | [ Episode 235: Interstellar Object 3I/ATLAS Feat\. Dr\. Avi Loeb](https://open.spotify.com/episode/0FyWOm2G93idosRqdJlZmz) | [Let's Get Haunted](https://open.spotify.com/show/0Aw3LuTZqL6i4tRptbZPJv) | [Let's Get Haunted](https://open.spotify.com/album/0Aw3LuTZqL6i4tRptbZPJv) | 2:15:08 |
 
-Snapshot ID: `AAAAANStrOI+5sxQGk8+r+xwSupKg/EZ`
+Snapshot ID: `AAAAABsIeopsASM8emsWlBRZx3AMlJcd`

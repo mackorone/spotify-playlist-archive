@@ -4,7 +4,7 @@
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-66 songs - 4 hr 3 min
+67 songs - 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Friends](https://open.spotify.com/track/1ngp4VERvcgXeBrzd0oGyh) | [Rení](https://open.spotify.com/artist/1vignVBMw8ZuYkG7QOIbOd) | [Friends](https://open.spotify.com/album/71DCqpJrZdisp5gYcJeo5H) | 2:32 | 2025-11-07 | 2025-11-22 |
 | [Gravity](https://open.spotify.com/track/4QIFS5XokMBJjfAdZjABPV) | [Embrace](https://open.spotify.com/artist/74K7bX12L8GBAWvPuyIgJ7) | [Out Of Nothing](https://open.spotify.com/album/5oJiqbHX8PnUc1uEEAcII7) | 4:40 | 2021-03-29 |  |
 | [Heading Home](https://open.spotify.com/track/0f8GYw2QMENtiJcGKnqsbq) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Washed Away](https://open.spotify.com/album/7FVNnbmjeSSrcKGSoErBre) | 2:10 | 2021-10-30 |  |
+| [Heat Waves](https://open.spotify.com/track/14gtvVSuPdEMjMEPzoZ3mo) | [Mizumi Hanako](https://open.spotify.com/artist/0YIaBn2xawhZU41y6Qw8Ni) | [Heat Waves](https://open.spotify.com/album/15VpR4eExdUCyULMe0WZum) | 2:59 | 2025-12-24 |  |
 | [I Told You She's Mental](https://open.spotify.com/track/5gTEjXDkpMHIZwPatbmzx9) | [Glorification](https://open.spotify.com/artist/5VAtjGCSSccAG7AoeyxM5I) | [Two](https://open.spotify.com/album/5fVZjOtZae0991fzloTglF) | 2:51 | 2025-10-13 |  |
 | [I WON'T BE HERE FOREVER](https://open.spotify.com/track/2d4on1kn0sHj94lAF3IKlY) | [Mainframe Bird](https://open.spotify.com/artist/7zrn1RRWZSyZM6SgNmcrWt) | [BLURRY](https://open.spotify.com/album/58mFWI4ZlgDeQLleTCZ3do) | 3:47 | 2025-11-17 | 2025-12-07 |
 | [Initium Concentus](https://open.spotify.com/track/4VNYxI40qpkawwl9acl7ni) | [De Santtis](https://open.spotify.com/artist/2HnzHLy6N3v8egi2chpYmN) | [Initium Concentus](https://open.spotify.com/album/4cPut66O77JkNsoYPi1I3E) | 2:42 | 2025-12-02 |  |

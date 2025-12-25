@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfa6SgmlMMn.md) - [plain]
 
 > Australian songs our editors want to put on your radar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,844 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,843 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

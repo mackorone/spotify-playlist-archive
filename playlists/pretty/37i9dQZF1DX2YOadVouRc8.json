@@ -1,6 +1,6 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 43077,
+  "num_followers": 43098,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
@@ -1123,6 +1123,26 @@
     {
       "added_at": "2025-12-19 00:01:13",
       "album": {
+        "name": "Day n Nite",
+        "url": "https://open.spotify.com/album/7GEMtBbc8egUdp071tDK0J"
+      },
+      "artists": [
+        {
+          "name": "Ronis Goliath",
+          "url": "https://open.spotify.com/artist/7ab3brrz3yehEwzYJf7F8t"
+        },
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        }
+      ],
+      "duration_ms": 142204,
+      "name": "Day n Nite",
+      "url": "https://open.spotify.com/track/3oaXyruQamiow70ZPkLzx1"
+    },
+    {
+      "added_at": "2025-12-19 00:01:13",
+      "album": {
         "name": "So Much Sense",
         "url": "https://open.spotify.com/album/6f3POMzo8K8SZfy0mVGl0V"
       },
@@ -1159,26 +1179,6 @@
       "duration_ms": 150783,
       "name": "On The Low",
       "url": "https://open.spotify.com/track/4Y7VhlTbbiugnmw1UNX4ox"
-    },
-    {
-      "added_at": "2025-12-19 00:01:13",
-      "album": {
-        "name": "Day n Nite",
-        "url": "https://open.spotify.com/album/7GEMtBbc8egUdp071tDK0J"
-      },
-      "artists": [
-        {
-          "name": "Ronis Goliath",
-          "url": "https://open.spotify.com/artist/7ab3brrz3yehEwzYJf7F8t"
-        },
-        {
-          "name": "Minz",
-          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
-        }
-      ],
-      "duration_ms": 142204,
-      "name": "Day n Nite",
-      "url": "https://open.spotify.com/track/3oaXyruQamiow70ZPkLzx1"
     },
     {
       "added_at": "2025-12-19 00:01:13",

@@ -4,7 +4,7 @@
 
 > FurryRadio.com, made for furs, by furs.
 
-448 songs - 23 hr 43 min
+450 songs - 23 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,6 +281,7 @@
 | [no amounts](https://open.spotify.com/track/2yLGNPPrlmZgqLzazjVbm2) | [Allen Inuyama](https://open.spotify.com/artist/56wRZVNHA9eqrWPwvPBOl9) | [no amounts](https://open.spotify.com/album/74KiR5yuxuFeBWUekfMTHG) | 2:35 | 2024-11-18 |  |
 | [No Eternity](https://open.spotify.com/track/4QuiLRd0pznAAdBBxVh5Gq) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [RET TRO](https://open.spotify.com/artist/0a2CSknxVwcDWdXR3QfO4x) | [No Eternity](https://open.spotify.com/album/7fLZtXo4I8mDBQZCmf9GaN) | 3:17 | 2024-03-26 |  |
 | [No Matter What \- 2024](https://open.spotify.com/track/2XJlp7wla0EJI8CNlzICpG) | [Vylet Pony](https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j), [NekoSnicker](https://open.spotify.com/artist/0u5lrFG404zDUFTmcBmijo), [Sylver Stripe](https://open.spotify.com/artist/0aohwwtpLSJi4RAXQkjKkb), [Namii](https://open.spotify.com/artist/1tC9tzzTRbx0gDMaNmxUZ6), [GalaxySquid](https://open.spotify.com/artist/5Bf0U4uWT0KwE3047UWYja) | [No Matter What 2024 EP](https://open.spotify.com/album/6akqia0sGSOuQ4MbWafPJY) | 4:35 | 2025-01-07 |  |
+| [No Matter What \- 2025](https://open.spotify.com/track/2nttEafE6enCe92fHAzB4l) | [Vylet Pony](https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j), [Feather](https://open.spotify.com/artist/4oBxAkNjmwRxBLNV3pU7OD), [Namii](https://open.spotify.com/artist/1tC9tzzTRbx0gDMaNmxUZ6), [NekoSnicker](https://open.spotify.com/artist/0u5lrFG404zDUFTmcBmijo) | [No Matter What \(2025\)](https://open.spotify.com/album/5kuokGFStYashK9T9eFzAZ) | 3:33 | 2025-12-25 |  |
 | [NO PARACHUTE](https://open.spotify.com/track/4qJfMx6rVlGvXioDPqEQ6w) | [lizzy's personal army](https://open.spotify.com/artist/6cakL54DPLwi90i79FrKal) | [NO PARACHUTE](https://open.spotify.com/album/5iZlQDAdbtNOiSjVRrm710) | 2:18 | 2024-11-18 |  |
 | [NOBODYKNOWS](https://open.spotify.com/track/5CDrXgKT7XQGxAQwyBsMeP) | [Can of Bliss](https://open.spotify.com/artist/7aU24qpooQbJgquWphpTdT) | [ALLORNOTHING](https://open.spotify.com/album/3cx10yx8jmSZfKo2PZefBO) | 3:30 | 2025-10-22 |  |
 | [NOBODYKNOWS](https://open.spotify.com/track/6txEJ9briNsrdfjQfdPfNy) | [Can of Bliss](https://open.spotify.com/artist/7aU24qpooQbJgquWphpTdT) | [CHAMPION](https://open.spotify.com/album/5lufjyPgNitwHis7Ch5n38) | 3:30 | 2025-11-11 | 2025-11-18 |
@@ -343,6 +344,7 @@
 | [Royalty](https://open.spotify.com/track/3luIPCWax6JFzBN0BIGRHH) | [Hi I'm Case](https://open.spotify.com/artist/5KpXcJfw137FINbN6Ukcvt) | [Another](https://open.spotify.com/album/4ku6hiP8aiueGRUtaDzwT0) | 3:05 | 2025-10-20 |  |
 | [ROYALTY](https://open.spotify.com/track/7km3vpKM3z7Febi2p69ij3) | [Hi I'm Case](https://open.spotify.com/artist/5KpXcJfw137FINbN6Ukcvt) | [ROYALTY](https://open.spotify.com/album/7x8QpxqMPfoN2rOYP50QGx) | 3:05 | 2025-03-01 |  |
 | [rubicon](https://open.spotify.com/track/4la9cJckhhANFdSIMlycTw) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Stephanafro](https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf) | [Raised by Aliens](https://open.spotify.com/album/1mTM51rvOXPen3pVzekCf3) | 3:46 | 2024-12-06 |  |
+| [RUDOLPH REINDEER BOY](https://open.spotify.com/track/77UiDteFZF5JDw5ZdSMiMZ) | [alottadogs](https://open.spotify.com/artist/1vuMbz8SdGeSE8UaOQiXuN), [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2) | [RUDOLPH REINDEER BOY](https://open.spotify.com/album/17U7c7NQ4sQNYYCevBywkI) | 2:20 | 2025-12-25 |  |
 | [run amok!](https://open.spotify.com/track/2j1Wv50igdxKp2JTsqzkdd) | [sharkbarksss](https://open.spotify.com/artist/7wrGMUFl9bK7T4st7GG1wS) | [run amok!](https://open.spotify.com/album/1GuaHRa0owkz2jxmqh3Q4J) | 3:03 | 2025-06-05 |  |
 | [RUSH!](https://open.spotify.com/track/5qXCO06nIc5y70qxieIL7X) | [GABUISLOST](https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH), [2bagBreezoo](https://open.spotify.com/artist/2E2XL9Qlb1osAU441gxBYf) | [all these faces](https://open.spotify.com/album/4mbDXws5cJGdqkVDLcOM66) | 3:08 | 2025-02-03 |  |
 | [RUSH!](https://open.spotify.com/track/6fbkYgGPkflSxMPOXSqrKW) | [GABUISLOST](https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH), [2bagBreezoo](https://open.spotify.com/artist/2E2XL9Qlb1osAU441gxBYf) | [RUSH!](https://open.spotify.com/album/2LeHZqC5P8Ma1V26G6oA8d) | 3:08 | 2024-08-15 |  |

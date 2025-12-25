@@ -4,7 +4,7 @@
 
 > Obama&\#x27;s favorite music of 2025\. Includes Summer 2024 and bonus tracks.
 
-5,558 songs - 12 day 22 hr 44 min
+5,560 songs - 12 day 22 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4464,6 +4464,7 @@
 | [Stillcare](https://open.spotify.com/track/2qCzjsd2i20Al3IpUi6zYB) | [Sanja Ost](https://open.spotify.com/artist/2sY91sdrpjwRCl4omRqVXq) | [Stillcare](https://open.spotify.com/album/0dScsoPZveK86G5yujbFnV) | 4:11 | 2024-07-09 | 2024-07-21 |
 | [Stolen Love](https://open.spotify.com/track/6WEljiBGH3k6ywCqhtEb08) | [Bradley Denniston](https://open.spotify.com/artist/53kQBsEHAWWgAJtXLC37fh) | [Stolen Love](https://open.spotify.com/album/6DkbpFdoKedFhVy3oi9W61) | 2:48 | 2022-01-21 | 2022-04-24 |
 | [Stomp & Holler](https://open.spotify.com/track/0J9H8KVWlfKNqVGjzkrWXZ) | [Kenny Sharp](https://open.spotify.com/artist/7HL0NItywvJ7qgDfBiIo0E), [Mikki Brayboy](https://open.spotify.com/artist/1AoKjo4miXPc57akxzT6nY) | [Stomp & Holler](https://open.spotify.com/album/08oZDAb0tsAvZIZ5xUDLj2) | 3:00 | 2024-06-18 | 2024-08-04 |
+| [Stone Cold](https://open.spotify.com/track/5nhMFNMxM9xqsrpSUseVMo) | [Journee](https://open.spotify.com/artist/3tr38dT5o6Kk5WO5OtmPoa) | [Stone Cold](https://open.spotify.com/album/0T5HJxaYyU7bYD7fV4Jd3q) | 2:56 | 2025-12-24 |  |
 | [Stone Cold](https://open.spotify.com/track/1n8AgcDeQ4DFm4slew9WTr) | [Sydney Jo Jackson](https://open.spotify.com/artist/3TV2LSYttSMFFHYIzbCvjn) | [Stone Cold](https://open.spotify.com/album/4Oym81qnGJV8VPO7SxknWU) | 3:31 | 2025-05-30 | 2025-06-22 |
 | [Stop](https://open.spotify.com/track/1h7SY4Lk2LEBswb9RIDZed) | [Goldtooth](https://open.spotify.com/artist/5PZoEi7wXcmnAuiWnWj4zg) | [Goldtooth](https://open.spotify.com/album/6m0YFlb0Q7OIBT0Qgb4rJt) | 2:30 | 2024-07-16 | 2024-07-27 |
 | [Stop \(you can let it go\)](https://open.spotify.com/track/4W4ecDBEwpKKNFvHPhUExQ) | [Jennarie](https://open.spotify.com/artist/3vvIH5V5MjAhLrQgfQvlhX) | [Stop \(you can let it go\)](https://open.spotify.com/album/241CvdL5vl09jsuayDHxnc) | 3:15 | 2024-04-19 | 2024-05-03 |
@@ -5082,6 +5083,7 @@
 | [unrequited love](https://open.spotify.com/track/7saZGol648iJi3wvKev41R) | [Jalen Porchá](https://open.spotify.com/artist/50YeLCyzFEgy0DsqXzIssn) | [unrequited love](https://open.spotify.com/album/1o0hPm1R3zr0HoS1IuF2jM) | 1:51 | 2024-09-07 | 2024-09-17 |
 | [Unsuffer Me](https://open.spotify.com/track/3tJvIep0xivOdA6xCjGVQS) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [West](https://open.spotify.com/album/3bA55G1u1MJfdWDKW2hf8K) | 5:40 | 2024-08-12 |  |
 | [Untamed](https://open.spotify.com/track/41binbQGuTMcIMwdsXrpNs) | [Kayana](https://open.spotify.com/artist/37wgqSZpFAAJ2hB4tsY6yY), [JaMichael](https://open.spotify.com/artist/6mtuKa84eQ2jdOsYkp3et4) | [Untamed](https://open.spotify.com/album/4bQsPc4kkryXOIxVYgxPCw) | 3:15 | 2022-02-25 | 2022-03-14 |
+| [Untitled \(Body and Soul\)](https://open.spotify.com/track/0JsyJnT08uumD5tELi548v) | [Jeffery Scott](https://open.spotify.com/artist/1k5PhQXrMbJEa1eKO7PLFD) | [19](https://open.spotify.com/album/2wb4e968J4gb9O4Ng4sFL6) | 3:54 | 2025-12-24 |  |
 | [Up 4 Chilling](https://open.spotify.com/track/1H21eWXHVWq84sX5TFOSZy) | [Kurvyn](https://open.spotify.com/artist/1afhckAEGADXLNnwLwjwqx) | [Up 4 Chilling](https://open.spotify.com/album/1wv2niuiSJxGUxyHx9g0h7) | 2:48 | 2025-04-21 | 2025-05-03 |
 | [Up All Night](https://open.spotify.com/track/2s2FQY87CytJ96v1hZOLLV) | [Nothing Like Robots](https://open.spotify.com/artist/2fAsz7fjaibEtQd8i4OfrG) | [Up All Night](https://open.spotify.com/album/3DZCRcty9tG0ss5smsboGN) | 2:59 | 2024-12-05 | 2024-12-16 |
 | [Up on Me](https://open.spotify.com/track/4W5P0XK73J0DRbrgbRr2Pg) | [Davis Chris](https://open.spotify.com/artist/22pJFdsUssxfZ6RB6NPztj) | [Up on Me](https://open.spotify.com/album/0dsSkj1WGvlRslAEHzQJPD) | 2:31 | 2020-01-20 | 2020-02-08 |

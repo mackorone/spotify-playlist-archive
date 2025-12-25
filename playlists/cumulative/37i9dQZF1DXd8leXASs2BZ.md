@@ -4,7 +4,7 @@
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Worldwide Skippa
 
-1,230 songs - 2 day 8 hr 50 min
+1,230 songs - 2 day 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -877,6 +877,7 @@
 | [SAIKO NICE GUY](https://open.spotify.com/track/16tXqNkbIaPXPIbLeU90jt) | [Flowerboi Take](https://open.spotify.com/artist/1jwvfExsuq8uYh4QkMPYYB) | [SAIKO NICE GUY](https://open.spotify.com/album/13CnYIvdRvYqKcFCMQgWOu) | 3:06 | 2025-01-08 | 2025-02-19 |
 | [SALVIA](https://open.spotify.com/track/6cWIYRwFu021B44nmu4KJZ) | [Yella Flat Boys](https://open.spotify.com/artist/01V3Qm1TK0j2uXYZJOEAgP) | [SALVIA](https://open.spotify.com/album/2hwOnbxNyj3aZ1nCqjUW3R) | 3:17 | 2025-01-28 | 2025-04-23 |
 | [SANKA](https://open.spotify.com/track/103hb4hU8MZzqgAck2wiQl) | [Daz](https://open.spotify.com/artist/7fG0HLe8Wy1jUNIqI6FDgE), [Sakepnk](https://open.spotify.com/artist/0OlQIUZYkQQ7nTTX3epLpf) | [SANKA](https://open.spotify.com/album/5SselVeYYrFK1NTp9HpW7q) | 3:03 | 2025-07-29 | 2025-10-08 |
+| [SASUGA](https://open.spotify.com/track/1VGP3dj7Iz7LIoYyfWoXdD) | [Siero](https://open.spotify.com/artist/6mKmlCpX0G439EH9lvFD6r) | [THE GOAT TAPE 4](https://open.spotify.com/album/2Ll6OmB5JHXLsKfxXtPVA2) | 2:19 | 2025-12-23 |  |
 | [Sawajiri Erika](https://open.spotify.com/track/2QQ5xExQQAgxx7Z9sFqLCJ) | [3Li¥en](https://open.spotify.com/artist/4E078HKlkmO1npcrZoZ7ez) | [High Energy](https://open.spotify.com/album/3z0nAiOlUmLkiHEGOmVSOv) | 2:07 | 2025-12-16 |  |
 | [SCAR](https://open.spotify.com/track/6X4yjQUedTysOxv0R18eTH) | [Pxrge Trxxxper](https://open.spotify.com/artist/4IxdeBhAksJLxEMRzvdWie) | [SCAR](https://open.spotify.com/album/6Vls2N2jVxxPigSKT9ecZb) | 2:52 | 2025-09-02 | 2025-11-12 |
 | [Scarlet](https://open.spotify.com/track/7tb84qAWR15yAfVAyvCZRJ) | [AssToro](https://open.spotify.com/artist/1XVnuN1WPe1VMw78MuYeic), [Cheshire Yums](https://open.spotify.com/artist/5s0GruaCwZPkYWVQQH2DrD) | [DuskAlwaysWithU](https://open.spotify.com/album/6ViwVwDlteRNlk7tnkz3QV) | 2:24 | 2023-12-07 | 2024-03-06 |
@@ -1030,7 +1031,6 @@
 | [Tour Life \-Ai\-](https://open.spotify.com/track/0Wj5gV2RWHrH9EdUVH34vF) | [T\-STONE](https://open.spotify.com/artist/0xINjQE0NF8VH20g1CKg9D) | [Ai Final](https://open.spotify.com/album/2LdUuUQ5GixYkkeQ1zj8i2) | 2:37 | 2025-04-15 | 2025-07-02 |
 | [town/city \(feat\. M.O.C, RH JayDee & Tete\)](https://open.spotify.com/track/3bzNyRYOpJ6Zd4YjNUbKD6) | [RIVER SIDE HOLLYWOOD](https://open.spotify.com/artist/1SIyL5jUFSjG89zIy3GxHL), [M.O.C](https://open.spotify.com/artist/2fDwWqmgXuPoOrCx7DDV6d), [RH JayDee](https://open.spotify.com/artist/5T6nHHIltgoQ9RrepnnAq6), [Tete](https://open.spotify.com/artist/1rkLrKyeAMCNibaEd768uw) | [RSH MIXTAPE 2](https://open.spotify.com/album/3jHu4B1ZRpP6nJk8L9UINy) | 2:37 | 2025-09-23 |  |
 | [TOYOTA CAROLLA](https://open.spotify.com/track/1BZ7SR2PchuoUPfP4pP3px) | [hyunis1000](https://open.spotify.com/artist/5kg1VfX43k7uJ1mLHXmkRF) | [TOYOTA CAROLLA](https://open.spotify.com/album/69hNAvQ8asBkrJMjGDggDD) | 2:19 | 2023-12-14 | 2024-01-26 |
-| [Track 4](https://open.spotify.com/track/1VGP3dj7Iz7LIoYyfWoXdD) | [Siero](https://open.spotify.com/artist/6mKmlCpX0G439EH9lvFD6r) | [](https://open.spotify.com/album/null) | 0:00 | 2025-12-23 |  |
 | [TRAP](https://open.spotify.com/track/0OSdfFtxNEfgWMCaNVaslq) | [PLUM TOWN](https://open.spotify.com/artist/1m9qTDH4NtiorSMxJPxObz), [RAFU](https://open.spotify.com/artist/4zEJwMidggGTCiuS2j7Sqk), [wattz](https://open.spotify.com/artist/19hus0jQU0nKG1Xu1PS4qG), [ebunii](https://open.spotify.com/artist/4kauShupniHRddWcBgMaYF) | [PLM](https://open.spotify.com/album/5fiGgPSGCrcbwsexHzdZs5) | 2:45 | 2025-11-05 |  |
 | [Trash box](https://open.spotify.com/track/4Yo002a3P6dihTxC33kzj6) | [XENO](https://open.spotify.com/artist/7BTcTywq9yvwNUWzNOLasA), [Zefar](https://open.spotify.com/artist/2n3WpDgynO7voSmN1WpoKr), [Zzz音](https://open.spotify.com/artist/2g02iSKUPzS5aKII3bJDXY) | [Trash box](https://open.spotify.com/album/1UoPp3MYqrQPQ0fPtAOVoO) | 2:50 | 2024-05-08 | 2024-06-19 |
 | [Travel case](https://open.spotify.com/track/7zxFJ61jULg6IDOlfc2tPl) | [sou](https://open.spotify.com/artist/1Wx4kInxSku2hoO33t9c57) | [Travel case](https://open.spotify.com/album/3uRbCc8PXPc4QgjYuw8POq) | 2:20 | 2024-02-06 | 2024-04-19 |

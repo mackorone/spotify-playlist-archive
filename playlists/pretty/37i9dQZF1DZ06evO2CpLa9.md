@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CpLa9.md) - [plain]
 
 > This is Santa Fe Klan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,436 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 566,446 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CpLa9.md) - [plain]
 | 49 | [No Seré Quién Canta](https://open.spotify.com/track/2jw4qfV4ub019PiCre7ZvS) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [No Seré Quién Canta](https://open.spotify.com/album/4JANnrrOzgDNKfpQeTjQ2v) | 4:10 |
 | 50 | [Lowrider](https://open.spotify.com/track/4xI4rxSzH6pwBnoVZAIv9b) | [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Lowrider](https://open.spotify.com/album/3u0JejXafw4ag9IF3gVBHf) | 3:15 |
 
-Snapshot ID: `aUiKAAAAAABZASuqQyjOPy/UUhpJX0O0`
+Snapshot ID: `aUnbgAAAAAC2kmrs0Px9r786iyB2Qb/9`

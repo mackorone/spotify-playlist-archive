@@ -4,11 +4,13 @@
 
 > While waiting for the open recruitment of global veiled musicians, enjoy the music of the best vocalists in Korea! \(글로벌 베일드 뮤지션의 공개 모집을 기다리며 국내 최정상 보컬들의 음악을 즐겨보세요!\)
 
-51 songs - 3 hr 37 min
+55 songs - 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [And July](https://open.spotify.com/track/0Yz3F0UGDibDe8uU69zmjn) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [dj friz](https://open.spotify.com/artist/0js3wKXyi7RL11sfOykRt1) | [And July](https://open.spotify.com/album/3xUWeFeLn6m3NXKr0FlT3E) | 3:46 | 2025-12-24 |  |
 | [As Is](https://open.spotify.com/track/5cr5ffcY53WvwLnsnlgcvY) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [As Is](https://open.spotify.com/album/0aSUdhZA53QNrR3uERvnFU) | 4:06 | 2025-07-02 |  |
+| [Bad Liar \(Veiled Musician X KIHYUN \(MONSTA X\) with Jeongdong\-myeon Gangcheol Seongdae\)](https://open.spotify.com/track/3BkmFNFRtArv4tXPcPvyNB) | [KIHYUN](https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS) | [Bad Liar \(Veiled Musician X KIHYUN \(MONSTA X\) with Jeongdong\-myeon Gangcheol Seongdae\)](https://open.spotify.com/album/0HXfGVkAK8VXYylhCQO1Rg) | 3:33 | 2025-12-24 |  |
 | [BLOOM](https://open.spotify.com/track/3qiCQxvtt4ipy4J9SOXwb6) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [CEREMONIA \(Complete Edition\)](https://open.spotify.com/album/2itIZTzeIXjJn7sqReMvQE) | 3:52 | 2025-07-02 |  |
 | [Complications \(ft\. SOLE\)](https://open.spotify.com/track/1XGtdNHscboubm98Ajuh7R) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [dopamine](https://open.spotify.com/album/7FOdOoz6j0vcY8UlIbft76) | 2:52 | 2025-07-02 |  |
 | [Dedicated 2 U](https://open.spotify.com/track/6FYbpoLyoevhwws05OLSBZ) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Jay Park Season 3: Dedicated 2 U](https://open.spotify.com/album/4fSS3OAnjyYSuFwZHkH2nP) | 3:14 | 2025-07-02 |  |
@@ -24,6 +26,7 @@
 | [It's Love](https://open.spotify.com/track/2uayxzJinXzBUEqDczbAwN) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [It's Love](https://open.spotify.com/album/0aIHXsPQNfjajIwveOyDkk) | 4:17 | 2025-07-02 |  |
 | [It's love](https://open.spotify.com/track/4VZw0oTcsBxgdcbe1Pmntg) | [Mose](https://open.spotify.com/artist/33E9Bj65ASz6dOPF4uZYc0) | [Love, deep longing](https://open.spotify.com/album/1hZ1wLaogDtyLFXAjZg2kX) | 4:16 | 2025-07-02 |  |
 | [Last Love](https://open.spotify.com/track/1Uich3MOYxcBw14WavzZpi) | [KIM BUMSOO](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [SOLISTA Part.2](https://open.spotify.com/album/62vXnTYMIepnmIBEmnbwUA) | 4:11 | 2025-07-02 |  |
+| [Like an Indian Doll](https://open.spotify.com/track/6dYBbyqyZiNssyoEs2xtiy) | [NAMI](https://open.spotify.com/artist/50h2tBXWxIdL1ol9zowwyp) | [아무말 않으리 / 미움인지 그리움인지](https://open.spotify.com/album/2xnUssKFd5wlsdtozG2B0z) | 3:56 | 2025-12-24 |  |
 | [Living in the same time](https://open.spotify.com/track/1IUqkIRRxO0CQSoEr6CLW2) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [BROWN EYED SOUL Single Project 1st\. Living in the same time by Naul](https://open.spotify.com/album/7cFmhAzCqsNyfsuS4B2TlC) | 4:10 | 2025-07-02 |  |
 | [Love Fool](https://open.spotify.com/track/78ArztlRnP0iatNE9GJNJB) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Full Bloom](https://open.spotify.com/album/7p24Sh0HP8nIDdrJbJHB3y) | 3:11 | 2025-07-02 |  |
 | [Love in the Milky Way Cafe](https://open.spotify.com/track/6cxbaStUOFS9Ssz3bHVVDJ) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [1.0](https://open.spotify.com/album/6txh5BwvszxNWi54efJThn) | 2:52 | 2025-07-02 |  |
@@ -44,6 +47,7 @@
 | [Such a thing](https://open.spotify.com/track/4RJHDWdfgBwc1WXdL2aWaj) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Such a thing](https://open.spotify.com/album/6Il2iRzPVqDWuZNkNfPFka) | 4:26 | 2025-07-02 |  |
 | [Sunﬁsh](https://open.spotify.com/track/1VQwQsaa6aUHg9gQP0llyU) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [YOUNHA 7th Album 'GROWTH THEORY'](https://open.spotify.com/album/7B2dOs6eNhgmIWsP3zHKpm) | 3:38 | 2025-07-02 |  |
 | [The First Day \(With Naul\)](https://open.spotify.com/track/2yeSdFbRkfw8CMJDtF6Oyf) | [Ecobridge](https://open.spotify.com/artist/4ozyMZxydr2BsVslZEjkOB), [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Fall\-Ache](https://open.spotify.com/album/3tvcHEmXK0SZfjxTqtFWVo) | 4:57 | 2025-07-02 |  |
+| [To You My Light \(Veiled Musician X Ailee with Oryu\-dong Hamster\)](https://open.spotify.com/track/2AdS87CC9erkHMXQHK8Eww) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [To You My Light \(Veiled Musician X Ailee with Oryu\-dong Hamster\)](https://open.spotify.com/album/1M8dqwS44SI3vNniHl65Ct) | 4:38 | 2025-12-24 |  |
 | [When it snows\(Feat.Heize\)](https://open.spotify.com/track/2vA5M8uXee4amGQajyUMFR) | [LEE MU JIN](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC), [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [When it snows\(Feat.Heize\)](https://open.spotify.com/album/1d2YKQ02RQA97EyrB55ZcK) | 3:52 | 2025-07-02 |  |
 | [You Were Beautiful](https://open.spotify.com/track/3FR2yqZsG07NhXz7uPyUyC) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [SUNRISE](https://open.spotify.com/album/70ryb5nR8iCsY8OlIq2J8c) | 4:43 | 2025-07-02 |  |
 | [거리에서](https://open.spotify.com/track/1J0NAemu98Bg5y39sqqfMI) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [The Ballads](https://open.spotify.com/album/0qkUj6ue5MHiAFO52gi2ac) | 4:39 | 2025-07-02 |  |

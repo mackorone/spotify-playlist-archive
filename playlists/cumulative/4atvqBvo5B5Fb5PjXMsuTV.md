@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 23 Dec 14:04 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 24 Dec 19:04 UTC.
 
-5,961 songs - 13 day 19 hr 25 min
+5,962 songs - 13 day 19 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [3333](https://open.spotify.com/track/51wZRATIHtYIfb0tMpp3e2) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [3333](https://open.spotify.com/album/7GNUGyxAQb3SnalLasqx8D) | 2:33 | 2024-08-30 | 2024-09-05 |
 | [3AM GANG](https://open.spotify.com/track/5sWueZO7Ak6exDTttfyGT5) | [Sematary](https://open.spotify.com/artist/1GLnyPuL45vOsZPs5iANcC), [Ghost Mountain](https://open.spotify.com/artist/5Hxx7FpVvps2OZLl6LUfJi), [Hackle](https://open.spotify.com/artist/0ZB40g9U7OgAs96pn72IqO) | [3AM GANG](https://open.spotify.com/album/69pF5a1p109HUeYBUFcWnU) | 3:43 | 2025-07-10 | 2025-07-19 |
 | [3AM in ToKEYo](https://open.spotify.com/track/1EpSEIbldNM7SQ6koEQqWT) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [3AM in ToKEYo](https://open.spotify.com/album/5dx9ylPTCSU1SHR2b3uqXh) | 2:26 | 2025-02-07 | 2025-02-15 |
+| [4 SEASONS](https://open.spotify.com/track/7pLqzAGMlHWItf1qDHWPPq) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [4 SEASONS](https://open.spotify.com/album/49AfR54iF8NMJyJzx9OLyg) | 4:35 | 2025-12-24 |  |
 | [40 GRADI](https://open.spotify.com/track/0eDdGDkyAl3XTE8bv4nRR1) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [40 GRADI](https://open.spotify.com/album/7JoGm6i50TeHIoME3AX0St) | 2:42 | 2024-09-06 | 2024-09-11 |
 | [40 Tage](https://open.spotify.com/track/1Bds1PSumHSeVQFqIWc77p) | [Shindy](https://open.spotify.com/artist/5j21TGkrNEAJe3gG9VlS34) | [40 Tage](https://open.spotify.com/album/5Ql4MLA6MSB56ZwJ01lPul) | 1:57 | 2024-10-21 | 2024-10-25 |
 | [404\_soulnotfound](https://open.spotify.com/track/2nQvTvNv4tWiDxqGtlx72I) | [Darknet](https://open.spotify.com/artist/4q0wfu3kKAydX7PSA4H502), [Calle Thomer](https://open.spotify.com/artist/1ZY3kUct2r4k3TgKRsgCLw) | [404\_soulnotfound](https://open.spotify.com/album/3OQveQ2Yg0rDUmn8vvoMJs) | 2:58 | 2024-11-29 | 2024-12-04 |
@@ -2156,7 +2157,7 @@
 | [Grădina Interioară](https://open.spotify.com/track/7d6WcTjwxTC1R1kL7BrIvx) | [Dragonu AKA 47](https://open.spotify.com/artist/1RFTu9DxRmO2inIuvm7JMG), [Connect\-R](https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr) | [Grădina Interioară](https://open.spotify.com/album/4bPrnYxez5wn8Rn6uUGJEz) | 4:26 | 2024-09-26 | 2024-09-28 |
 | [GuabanSexxx](https://open.spotify.com/track/7pEwEHqjqx3kmXjXCOihff) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [GuabanSexxx](https://open.spotify.com/album/0kKZV7SgHvDgvpV4iLNBjq) | 2:41 | 2025-09-13 | 2025-09-20 |
 | [guardian](https://open.spotify.com/track/4lm8Yub4q6Tc1U8nBHnp87) | [BRUHMANEGOD](https://open.spotify.com/artist/4jKJcl7HTKV6FXKizgJiaY), [Cxrpse](https://open.spotify.com/artist/69B0S7YBt4xKC2HCJMISyv) | [guardian](https://open.spotify.com/album/7EPcsutcoS80QtOzM2fI4L) | 4:25 | 2024-05-11 | 2024-05-15 |
-| [Guardian](https://open.spotify.com/track/1nrj6SI6yvfkP8tWwaoLsb) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Guardian](https://open.spotify.com/album/0Wm5jDuL2Ph5ce9WqjXNM8) | 3:14 | 2025-12-04 |  |
+| [Guardian](https://open.spotify.com/track/1nrj6SI6yvfkP8tWwaoLsb) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Guardian](https://open.spotify.com/album/0Wm5jDuL2Ph5ce9WqjXNM8) | 3:14 | 2025-12-04 | 2025-12-25 |
 | [guardian angel](https://open.spotify.com/track/4SwPBzO8HQyoriNmEfgGfh) | [Skyr0](https://open.spotify.com/artist/32jEBhDRBuS4l4achhHyVM) | [guardian angel](https://open.spotify.com/album/1LYlLw05uQeuAd8Bs63ENZ) | 4:01 | 2025-09-17 | 2025-09-18 |
 | [GUESS](https://open.spotify.com/track/0eNyt9NmppskKVo0fw0XmT) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [GUESS](https://open.spotify.com/album/0q0G9omHqvzRGMjIsvHOGD) | 2:20 | 2024-09-18 | 2024-09-21 |
 | [Guess featuring Billie Eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring Billie Eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 | 2024-08-01 | 2024-08-03 |

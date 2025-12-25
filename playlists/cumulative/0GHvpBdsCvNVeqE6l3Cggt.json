@@ -463,6 +463,24 @@
     },
     {
       "album": {
+        "name": "Heat Waves",
+        "url": "https://open.spotify.com/album/15VpR4eExdUCyULMe0WZum"
+      },
+      "artists": [
+        {
+          "name": "Mizumi Hanako",
+          "url": "https://open.spotify.com/artist/0YIaBn2xawhZU41y6Qw8Ni"
+        }
+      ],
+      "date_added": "2025-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179606,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/14gtvVSuPdEMjMEPzoZ3mo"
+    },
+    {
+      "album": {
         "name": "Two",
         "url": "https://open.spotify.com/album/5fVZjOtZae0991fzloTglF"
       },

@@ -886,7 +886,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-25",
       "duration_ms": 146666,
       "name": "4 Raws",
       "url": "https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT"
@@ -6490,7 +6490,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-25",
       "duration_ms": 180594,
       "name": "BLEIB",
       "url": "https://open.spotify.com/track/5vFZg9MRZdrVKaJrDy1gjE"
@@ -15506,7 +15506,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-25",
       "duration_ms": 90526,
       "name": "Fendi 2",
       "url": "https://open.spotify.com/track/4CdFhK8D7bn5Qe6wvmuEwH"
@@ -19478,7 +19478,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-25",
       "duration_ms": 153600,
       "name": "Harte Drinks",
       "url": "https://open.spotify.com/track/26oC7C14ptDr8JpbpcZtDP"
@@ -25681,6 +25681,46 @@
     },
     {
       "album": {
+        "name": "Kokoloko",
+        "url": "https://open.spotify.com/album/3QE1E5Yav5UffxJl1IfZte"
+      },
+      "artists": [
+        {
+          "name": "MCS",
+          "url": "https://open.spotify.com/artist/63OSMD6BS2229SFJTbqLdf"
+        }
+      ],
+      "date_added": "2025-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146796,
+      "name": "Kokoloko",
+      "url": "https://open.spotify.com/track/4vGIGGnc1ESiwI65DME99I"
+    },
+    {
+      "album": {
+        "name": "Komm gib mir mehr",
+        "url": "https://open.spotify.com/album/7gS4kZ2U9AsI9RYwWk9h2V"
+      },
+      "artists": [
+        {
+          "name": "Befehlston",
+          "url": "https://open.spotify.com/artist/3MWFBYZ3ehPbBj1TrVCgGQ"
+        },
+        {
+          "name": "Neons\u00fcnde",
+          "url": "https://open.spotify.com/artist/3b3YwKaSP9wc8zBnnkNc3L"
+        }
+      ],
+      "date_added": "2025-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188731,
+      "name": "Komm gib mir mehr",
+      "url": "https://open.spotify.com/track/7u9M9HhlIcPZbbw7O5Q59x"
+    },
+    {
+      "album": {
         "name": "Komm Her",
         "url": "https://open.spotify.com/album/52EMu07xIW2PVEGcyLTxEF"
       },
@@ -26264,7 +26304,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-25",
       "duration_ms": 120026,
       "name": "Labubu Freestyle",
       "url": "https://open.spotify.com/track/2elHospBvCPWCLCJ21ZseI"
@@ -34937,6 +34977,36 @@
     },
     {
       "album": {
+        "name": "Ombre Nomade",
+        "url": "https://open.spotify.com/album/7bIIQz6kJxS87SWe6LjFE1"
+      },
+      "artists": [
+        {
+          "name": "SadiQ",
+          "url": "https://open.spotify.com/artist/2cbnuG01tV93pqdfr4OBqL"
+        },
+        {
+          "name": "D\u00fa Maroc",
+          "url": "https://open.spotify.com/artist/2s0YBNTlWf61tFJwKderGS"
+        },
+        {
+          "name": "KC Rebell",
+          "url": "https://open.spotify.com/artist/5p7mWeX4RlvqBCxylfiXdE"
+        },
+        {
+          "name": "Kolja Goldstein",
+          "url": "https://open.spotify.com/artist/3rZxAl7fnH4NDynhJm3MUm"
+        }
+      ],
+      "date_added": "2025-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182600,
+      "name": "Ombre Nomade",
+      "url": "https://open.spotify.com/track/4DLdkx6mWN8CK7H1CzsTaC"
+    },
+    {
+      "album": {
         "name": "Albino",
         "url": "https://open.spotify.com/album/2X87EHKVeyoKrjMfaGpJfR"
       },
@@ -43410,7 +43480,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-24",
+      "date_removed": null,
       "duration_ms": 176360,
       "name": "Stop The Cavalry",
       "url": "https://open.spotify.com/track/2bPQuniBB9x0fRtxDly0kr"
@@ -53150,6 +53220,24 @@
       "duration_ms": 170675,
       "name": "\u0415\u0441\u0435\u043d\u0438\u043d",
       "url": "https://open.spotify.com/track/0mM9pAcHb228EyEgDtdJZb"
+    },
+    {
+      "album": {
+        "name": "\u041d\u0430 \u043c\u0443\u0440\u043c\u0443\u043b\u044f\u0445",
+        "url": "https://open.spotify.com/album/6lJ6soZJ32CzhmXtRDeRv9"
+      },
+      "artists": [
+        {
+          "name": "\u042d\u0442\u043e \u0420\u0430\u0434\u0438\u043e",
+          "url": "https://open.spotify.com/artist/03wlqxdyyr33Aq4vivxy2C"
+        }
+      ],
+      "date_added": "2025-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "\u041d\u0430 \u043c\u0443\u0440\u043c\u0443\u043b\u044f\u0445",
+      "url": "https://open.spotify.com/track/5mMY6AShezyO7zBsGwvvGt"
     },
     {
       "album": {

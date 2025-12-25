@@ -1,12 +1,12 @@
 {
   "description": "This is Tems. The essential tracks, all in one playlist.",
-  "num_followers": 131687,
+  "num_followers": 131751,
   "original_name": "This Is Tems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUiKAAAAAADer27YVSHFg/QPpGaeY5Fm",
+  "snapshot_id": "aUnbgAAAAAADJZhaLHnBed80akhYVL6K",
   "tracks": [
     {
       "added_at": null,
@@ -571,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Not An Angel",
+        "url": "https://open.spotify.com/album/0rWWei7R5XHkr9X4mui55k"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 185639,
+      "name": "Not An Angel",
+      "url": "https://open.spotify.com/track/4hbadZZrbM08KZIQZomWaI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "AFRIKA MAGIK",
         "url": "https://open.spotify.com/album/2OVNEGVOszDgrYYPVZN4DB"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 207955,
       "name": "You Get Me",
       "url": "https://open.spotify.com/track/7AeyaupKxGgxfpXH6lVVdE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Not An Angel",
-        "url": "https://open.spotify.com/album/0rWWei7R5XHkr9X4mui55k"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 185639,
-      "name": "Not An Angel",
-      "url": "https://open.spotify.com/track/4hbadZZrbM08KZIQZomWaI"
     },
     {
       "added_at": null,
@@ -671,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "If Orange Was A Place",
+        "url": "https://open.spotify.com/album/0x2ntwkM3GoLVAPjAOPrWv"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 297794,
+      "name": "Vibe Out",
+      "url": "https://open.spotify.com/track/6kJBDQLD0YOAyqmo9HWBrR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Palmwine Express",
         "url": "https://open.spotify.com/album/46m9079uCxKSFAwMFfadwf"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 235101,
       "name": "Too Bad",
       "url": "https://open.spotify.com/track/1YVBEEDyXlWHOrZCgbSsot"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "If Orange Was A Place",
-        "url": "https://open.spotify.com/album/0x2ntwkM3GoLVAPjAOPrWv"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 297794,
-      "name": "Vibe Out",
-      "url": "https://open.spotify.com/track/6kJBDQLD0YOAyqmo9HWBrR"
     },
     {
       "added_at": null,
@@ -747,26 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Palmwine Express",
-        "url": "https://open.spotify.com/album/46m9079uCxKSFAwMFfadwf"
-      },
-      "artists": [
-        {
-          "name": "Show Dem Camp",
-          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
-        },
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 168247,
-      "name": "Tales By Moonlight",
-      "url": "https://open.spotify.com/track/41dadXGDnC0DZfBmOHC1l1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blackmagic Version 3.0 (Starving Artist)",
         "url": "https://open.spotify.com/album/0uoZGAda5pPCSU2yfoZNx5"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 184799,
       "name": "Soon",
       "url": "https://open.spotify.com/track/1kfQmWnwajgFHQhJMvk6LF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Palmwine Express",
+        "url": "https://open.spotify.com/album/46m9079uCxKSFAwMFfadwf"
+      },
+      "artists": [
+        {
+          "name": "Show Dem Camp",
+          "url": "https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 168247,
+      "name": "Tales By Moonlight",
+      "url": "https://open.spotify.com/track/41dadXGDnC0DZfBmOHC1l1"
     },
     {
       "added_at": null,
@@ -839,6 +839,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
+        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 213266,
+      "name": "No Woman No Cry",
+      "url": "https://open.spotify.com/track/2yrtWT6W4KUMbfNtBcH8iN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Decided",
         "url": "https://open.spotify.com/album/3Ws47GZEN8ZZbfrVSSZev4"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 180000,
       "name": "Decided",
       "url": "https://open.spotify.com/track/0imwtLGiD7fCyWq7SpslPl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
-        "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 213266,
-      "name": "No Woman No Cry",
-      "url": "https://open.spotify.com/track/2yrtWT6W4KUMbfNtBcH8iN"
     },
     {
       "added_at": null,

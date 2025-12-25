@@ -1,13 +1,65 @@
 {
   "description": "\u062a\u062f\u0648\u0651\u0631 \u0623\u062c\u062f\u062f \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u062e\u0644\u064a\u062c\u064a\u0629\u061f \u0648\u0635\u0644\u062a \u062e\u064a\u0631",
-  "num_followers": 43831,
+  "num_followers": 43845,
   "original_name": "\u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL1QStdKEFaQSMJji2ptV0OxKK4J",
+  "snapshot_id": "AAAAALMJyrmeLoXiq8NFuVpH+T8YylWZ",
   "tracks": [
+    {
+      "added_at": "2025-12-24 10:06:55",
+      "album": {
+        "name": "Allah Aala Al Ayam",
+        "url": "https://open.spotify.com/album/2Lijs5P5XeKn9VRxuIvZIt"
+      },
+      "artists": [
+        {
+          "name": "Omar Al Omar",
+          "url": "https://open.spotify.com/artist/0rJm7A4jWeXjQPscP1OKzs"
+        },
+        {
+          "name": "Riyanh",
+          "url": "https://open.spotify.com/artist/0hbrQwF5ME5FsPdwcptb36"
+        }
+      ],
+      "duration_ms": 280615,
+      "name": "Allah Aala Al Ayam",
+      "url": "https://open.spotify.com/track/5NTCfjidKDTVzgcp7F4eZl"
+    },
+    {
+      "added_at": "2025-12-24 10:06:13",
+      "album": {
+        "name": "\u0627\u0644\u0645\u0632\u0627\u062c \u0627\u0644\u0631\u0627\u064a\u0642",
+        "url": "https://open.spotify.com/album/4Xv7BDYkyNvzRfhQB6nxik"
+      },
+      "artists": [
+        {
+          "name": "\u0641\u0647\u062f \u0628\u0646 \u062c\u0627\u0632\u0639",
+          "url": "https://open.spotify.com/artist/7zomIMNBDA13luA3e2VZZH"
+        }
+      ],
+      "duration_ms": 188076,
+      "name": "\u0627\u0644\u0645\u0632\u0627\u062c \u0627\u0644\u0631\u0627\u064a\u0642",
+      "url": "https://open.spotify.com/track/6jKDv5nJc6WNKyy2RtDjP2"
+    },
+    {
+      "added_at": "2025-12-24 10:06:13",
+      "album": {
+        "name": "\u062a\u0641\u0636\u0644",
+        "url": "https://open.spotify.com/album/2X957nw5fzyR9DA9ny9OCY"
+      },
+      "artists": [
+        {
+          "name": "\u0639\u0645\u0631 \u0628\u0646 \u0639\u0636\u064a\u0628",
+          "url": "https://open.spotify.com/artist/6iOYl5la4To9M54shaGsTe"
+        }
+      ],
+      "duration_ms": 298608,
+      "name": "\u062a\u0641\u0636\u0644",
+      "url": "https://open.spotify.com/track/2EiRLUvll4IW6ISXvoO6zC"
+    },
     {
       "added_at": "2025-12-01 07:27:43",
       "album": {

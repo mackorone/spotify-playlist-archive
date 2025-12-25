@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kvBlhyEkb6.md) - [plain]
 
 > A thorough introduction to the world of Tchaikovsky, including: dancing swans, brave nutcrackers, enchanted snow maidens and several exploding cannons.
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,838 likes - 68 songs - 9 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,880 likes - 68 songs - 9 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

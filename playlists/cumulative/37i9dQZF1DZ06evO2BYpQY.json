@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Faith and Courage",
+        "url": "https://open.spotify.com/album/0ITyzBRmAMnwt8FwtkSu0d"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "date_added": "2025-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367973,
+      "name": "'Til I Whisper U Something",
+      "url": "https://open.spotify.com/track/3fythc7lktmU8X0mHNC61K"
+    },
+    {
+      "album": {
         "name": "Enemy of the Enemy (Remastered)",
         "url": "https://open.spotify.com/album/6GF2qqHOvnLxBLRmTq5JTQ"
       },
@@ -818,7 +836,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-25",
       "duration_ms": 279600,
       "name": "Sweet Soul Dream",
       "url": "https://open.spotify.com/track/1IQYwIAj7XMrL5ilfyprkd"

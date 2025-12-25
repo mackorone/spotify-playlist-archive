@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres a todo volumen, con Rosario Alfonso en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,863 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,864 likes - 60 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 26 | [Puedo Imaginar](https://open.spotify.com/track/2unJSS010j51d6dIaTsSrw) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ), [San Pedro Bonfim](https://open.spotify.com/artist/2zgWIWNakYzjY1IJaj6QFp) | [Puedo Imaginar](https://open.spotify.com/album/0oq5McpgKrsCtqtTXqkhsZ) | 4:48 |
 | 27 | [excusa barata](https://open.spotify.com/track/3mHi7UafB5tQrPkVHUe5pf) | [cata teuber](https://open.spotify.com/artist/1mdZc8QkR0STDJdjBN3fE4), [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [no te lo tomes personal](https://open.spotify.com/album/4777oKdCZIBGYYDPGvO4WL) | 3:40 |
 | 28 | [10 DÍAS](https://open.spotify.com/track/4jQIka89UCTFBueFA0kK0U) | [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo) | [10 DÍAS](https://open.spotify.com/album/4ZZhbCgb0uC3Ro5m4t9Zrt) | 3:21 |
-| 29 | [Lo Que Soñamos Vivir](https://open.spotify.com/track/2Q7qDmYdMxGqWWfJON4XlF) | [Alejandra Paniagua](https://open.spotify.com/artist/428BJ6UrRiqssMjAWEujtR), [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [Lo Que Soñamos Vivir](https://open.spotify.com/album/4zJuDHVRGKhdympQfTqBK9) | 3:30 |
-| 30 | [Ya no llueve en mi cumpleaños](https://open.spotify.com/track/4w7BwpA6plrRgzuXdem5Hs) | [Inundaremos](https://open.spotify.com/artist/7ttDbtyzbPTrvAfdfd4aSS) | [Esto lo hice sin querer](https://open.spotify.com/album/79FMNMRaLeMIwuWgaTvokU) | 3:25 |
-| 31 | [Indeleble](https://open.spotify.com/track/5aAzw4nkpfLbPYOfuyisTB) | [Alfilera](https://open.spotify.com/artist/5dmpPz4WTOw7MHA52BUCyW) | [Detrás de las Palabras](https://open.spotify.com/album/17NRUslS9nOR0EF99DLaQW) | 3:34 |
+| 29 | [Ya no llueve en mi cumpleaños](https://open.spotify.com/track/4w7BwpA6plrRgzuXdem5Hs) | [Inundaremos](https://open.spotify.com/artist/7ttDbtyzbPTrvAfdfd4aSS) | [Esto lo hice sin querer](https://open.spotify.com/album/79FMNMRaLeMIwuWgaTvokU) | 3:25 |
+| 30 | [Indeleble](https://open.spotify.com/track/5aAzw4nkpfLbPYOfuyisTB) | [Alfilera](https://open.spotify.com/artist/5dmpPz4WTOw7MHA52BUCyW) | [Detrás de las Palabras](https://open.spotify.com/album/17NRUslS9nOR0EF99DLaQW) | 3:34 |
+| 31 | [Lo Que Soñamos Vivir](https://open.spotify.com/track/2Q7qDmYdMxGqWWfJON4XlF) | [Alejandra Paniagua](https://open.spotify.com/artist/428BJ6UrRiqssMjAWEujtR), [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [Lo Que Soñamos Vivir](https://open.spotify.com/album/4zJuDHVRGKhdympQfTqBK9) | 3:30 |
 | 32 | [Un año más \- Bolero](https://open.spotify.com/track/6HsYqeuGn0l8BMxxIKdMQw) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn), [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ), [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Kumbita](https://open.spotify.com/album/1ZE3Gm8Xr0FDOVRhWcqz5d) | 4:38 |
 | 33 | [Me Fuí a Caminar](https://open.spotify.com/track/1y4rKHGVBQ13OVFkjkH5Zp) | [Daniela Millaleo](https://open.spotify.com/artist/5t6HRqxLXUFgNXV4598nxz) | [Trafun](https://open.spotify.com/album/5pUXmmtKYOb0kPNXqB9HE0) | 3:59 |
 | 34 | [Cuándo y Dónde](https://open.spotify.com/track/0Uwd8OYQ22JboX3phAychX) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ), [Luz Elena Mendoza](https://open.spotify.com/artist/1ZHeh74UvOHtp0h6ZNyZtv) | [Cuándo y Dónde](https://open.spotify.com/album/3ABUQjkrlpiczuZwbmO4Qf) | 3:14 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 44 | [La Historia](https://open.spotify.com/track/74xLAFi1oGs9XA6XwZT1Bl) | [Natisú](https://open.spotify.com/artist/7BzSI3dTllADHzoJ2crQov) | [La historia](https://open.spotify.com/album/34wh1HcP270JvkRnK2ZVeS) | 3:13 |
 | 45 | [Cuando Respiro En Tu Boca](https://open.spotify.com/track/2loTFFg99twE6KFekbvNlr) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Cuando Respiro En Tu Boca](https://open.spotify.com/album/5l7jehPGfl7bJUkkqV7YhQ) | 3:23 |
 | 46 | [Jardín Psíquico](https://open.spotify.com/track/65Egxnzf4PkvUdAdr541bn) | [PASKURANA](https://open.spotify.com/artist/6KPH59ozerG7RActaNjZIJ) | [Parajes Oníricos](https://open.spotify.com/album/4BDxBaFeURDdwnvyCbrxbd) | 3:05 |
-| 47 | [Sábanas Azules](https://open.spotify.com/track/6JCOJrfEqOjojTpiOejhA3) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA) | [Poética Bailable Vol\. 1](https://open.spotify.com/album/0WX90YTp6QsEVOHG5Qij3e) | 2:57 |
-| 48 | [516 las Parcelas](https://open.spotify.com/track/09Dn2V7UuNOslbr87uEfeX) | [Clara Löffel](https://open.spotify.com/artist/6u60r6JDzj7XEDTppO27j3) | [Lo Que Voy Siendo](https://open.spotify.com/album/30jgJojkYB3nINXfNMSScS) | 2:44 |
+| 47 | [516 las Parcelas](https://open.spotify.com/track/09Dn2V7UuNOslbr87uEfeX) | [Clara Löffel](https://open.spotify.com/artist/6u60r6JDzj7XEDTppO27j3) | [Lo Que Voy Siendo](https://open.spotify.com/album/30jgJojkYB3nINXfNMSScS) | 2:44 |
+| 48 | [Sábanas Azules](https://open.spotify.com/track/6JCOJrfEqOjojTpiOejhA3) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA) | [Poética Bailable Vol\. 1](https://open.spotify.com/album/0WX90YTp6QsEVOHG5Qij3e) | 2:57 |
 | 49 | [Pequeñas esperanzas](https://open.spotify.com/track/4COpnbZlDeDeSo9gEiql6U) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Las Cosas Lento](https://open.spotify.com/album/6FmvVxbiZ0LuYe4qwFVngj) | 3:21 |
 | 50 | [Encuentro Fortuna](https://open.spotify.com/track/22QHmYbAsDk1JxfsKA1PYd) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [CASA](https://open.spotify.com/album/4oAtJazNpohAbJDRTZAmyp) | 2:58 |
 | 51 | [Suave Brisa](https://open.spotify.com/track/4hq7jmr2TYLx8lvhek9Snb) | [Martina Montaldo](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo) | [Ermitar](https://open.spotify.com/album/1teK0pQdTvLCHBM4J2zLYy) | 5:15 |

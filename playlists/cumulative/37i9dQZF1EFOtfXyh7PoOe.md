@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4VL4QRgUHPpilJ4CRhCW1I">Pablo Bowman Navarro</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-157 songs - 7 hr 42 min
+158 songs - 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,8 @@
 | [Goodbye](https://open.spotify.com/track/5b6enCVP67LsqqrfTs6rxr) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Goodbye](https://open.spotify.com/album/58Xvw6spiAwJygmEi6iQC7) | 3:04 | 2024-06-13 |  |
 | [Happy](https://open.spotify.com/track/4o0gKIu444E0FvzORvAyDL) | [kid ryan](https://open.spotify.com/artist/1ncjiTAfWX4ipmk1WMHeHL) | [Happy](https://open.spotify.com/album/6h1ja8BFO1R6qn6Sn8JE6B) | 2:11 | 2024-06-13 |  |
 | [Hate Me](https://open.spotify.com/track/2deriq19UAVaOKlXxNbQtL) | [Jalle](https://open.spotify.com/artist/3NiL0OfaA5v0eK59rJgAvB) | [Hate Me](https://open.spotify.com/album/6yl7utPZCEZ59FmvkI8e8r) | 2:41 | 2024-06-13 |  |
-| [Head Up \(feat\. James Newman\)](https://open.spotify.com/track/4t3mg02RDihx96FOBuwL9H) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [James Newman](https://open.spotify.com/artist/4iaTgZRy5aVnImDyRJn61n) | [FUTURE](https://open.spotify.com/album/0zysDjrxBtO6sb2pOJyxNt) | 3:11 | 2024-06-13 |  |
+| [Head Up](https://open.spotify.com/track/6jXZEFnDkBiY4fZSkgKTe4) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [James Newman](https://open.spotify.com/artist/4iaTgZRy5aVnImDyRJn61n) | [FUTURE \(Deluxe Edition\)](https://open.spotify.com/album/7viVuWdAD1wGgu0f6jn7GH) | 3:11 | 2025-12-24 |  |
+| [Head Up \(feat\. James Newman\)](https://open.spotify.com/track/4t3mg02RDihx96FOBuwL9H) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [James Newman](https://open.spotify.com/artist/4iaTgZRy5aVnImDyRJn61n) | [FUTURE](https://open.spotify.com/album/0zysDjrxBtO6sb2pOJyxNt) | 3:11 | 2024-06-13 | 2025-12-25 |
 | [Headache](https://open.spotify.com/track/6LYFeW0kFfq673sEbVtGLm) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY!](https://open.spotify.com/album/68xnlxNDFcNGjDxxOv7gxH) | 2:44 | 2025-10-15 |  |
 | [Hectic](https://open.spotify.com/track/5Ia7bTwJ1gTCFlztPvSHRC) | [Jodie Harsh](https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i) | [Hectic](https://open.spotify.com/album/2UKVkOF6pHGKleJXFL32dB) | 2:37 | 2024-06-13 |  |
 | [Hey DJ](https://open.spotify.com/track/35TuvgQOcLcZmGlZZ3cAGq) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Hey DJ](https://open.spotify.com/album/0HNme2CFQWHNAR1IIiwuZi) | 2:37 | 2025-01-07 |  |

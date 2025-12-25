@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-16",
-  "description": "With Cocteau Twins, Labyrinth Ear, Pearly Drops and more",
+  "description": "With Mareux, Labyrinth Ear, Phantogram and more",
   "name": "Grimes Radio",
   "tracks": [
     {
@@ -8884,10 +8884,28 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-25",
       "duration_ms": 135976,
       "name": "Dove - Doll Ver",
       "url": "https://open.spotify.com/track/2NHHKv9F4mYLSMfMl0jayB"
+    },
+    {
+      "album": {
+        "name": "Dove (Doll Ver)",
+        "url": "https://open.spotify.com/album/1yGRWiUNNSC9vgmwniKFrK"
+      },
+      "artists": [
+        {
+          "name": "antihoney",
+          "url": "https://open.spotify.com/artist/5JAa9e6UwxxYbZfyUBZcU3"
+        }
+      ],
+      "date_added": "2025-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135976,
+      "name": "Dove - Doll Ver",
+      "url": "https://open.spotify.com/track/3ePgukqsYq5cpw4X88sHtC"
     },
     {
       "album": {
@@ -14944,7 +14962,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-20",
+      "date_removed": null,
       "duration_ms": 277710,
       "name": "I'm God",
       "url": "https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ"
@@ -26634,7 +26652,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-25",
       "duration_ms": 194622,
       "name": "Sims 2",
       "url": "https://open.spotify.com/track/6tmDStLldmvokhIyjdj7LI"

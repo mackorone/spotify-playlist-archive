@@ -1,12 +1,12 @@
 {
   "description": "This is Gigi Perez. The essential tracks, all in one playlist.",
-  "num_followers": 7693,
+  "num_followers": 7701,
   "original_name": "This Is Gigi Perez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUiKAAAAAADfeaZIUUgsF5co99+l+46e",
+  "snapshot_id": "aUnbgAAAAABWFvZMX/zcVnY9TKmSwqYf",
   "tracks": [
     {
       "added_at": null,
@@ -79,6 +79,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "How To Catch A Falling Knife",
+        "url": "https://open.spotify.com/album/4y09e5XNcSik8Vfnam7Tj4"
+      },
+      "artists": [
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "duration_ms": 233451,
+      "name": "When She Smiles",
+      "url": "https://open.spotify.com/track/46sYl0o21xmXFK1a3y94Ha"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hope We Have Fun",
         "url": "https://open.spotify.com/album/3r5ik8QohUa56zacmEyAdb"
       },
@@ -95,22 +111,6 @@
       "duration_ms": 179900,
       "name": "In The Middle",
       "url": "https://open.spotify.com/track/3nmvNpobyMN4Ggw7tYcqSF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "How To Catch A Falling Knife",
-        "url": "https://open.spotify.com/album/4y09e5XNcSik8Vfnam7Tj4"
-      },
-      "artists": [
-        {
-          "name": "Gigi Perez",
-          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
-        }
-      ],
-      "duration_ms": 233451,
-      "name": "When She Smiles",
-      "url": "https://open.spotify.com/track/46sYl0o21xmXFK1a3y94Ha"
     },
     {
       "added_at": null,

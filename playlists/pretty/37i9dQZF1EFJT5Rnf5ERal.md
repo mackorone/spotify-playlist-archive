@@ -215,8 +215,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 205 | [GOTCHO BITCH](https://open.spotify.com/track/44RlSCumu7t2Hj5CcIASVE) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [MY FACE HURTS FROM SMILING](https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk) | 2:52 |
 | 206 | [Rap Check](https://open.spotify.com/track/6yvr47cP8j81sfMkEymL6b) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [CM10: Free Game](https://open.spotify.com/album/5IX0jXUhnaOyc7uqJi5DCT) | 2:54 |
 | 207 | [Devin Booker \(with Co Cash\)](https://open.spotify.com/track/2mxIYQU8IYfGT0XTUbQEps) | [BlocBoy JB](https://open.spotify.com/artist/4TEJudQY2pXxVHPE3gD2EU), [Co Cash](https://open.spotify.com/artist/0d0wL41ZqFutUwco4uO1dH) | [Bacc 2 Da Bloc](https://open.spotify.com/album/2ItyhC5YTQMXGLb6OmZljr) | 2:35 |
-| 208 | [Fuck Everybody Else](https://open.spotify.com/track/3S4p3bekXdLUpno8QK74WD) | [Blac Youngsta](https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe) | [223](https://open.spotify.com/album/3wXTjWYl5lWpPBC3QAxhIO) | 2:59 |
-| 209 | [fashion week](https://open.spotify.com/track/4F6Mn52PLrx2YnB6ISx9OU) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR) | [DRY CRY](https://open.spotify.com/album/5pwj3YHIe3Yr008miPS5O6) | 1:54 |
+| 208 | [fashion week](https://open.spotify.com/track/4F6Mn52PLrx2YnB6ISx9OU) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR) | [DRY CRY](https://open.spotify.com/album/5pwj3YHIe3Yr008miPS5O6) | 1:54 |
+| 209 | [Fuck Everybody Else](https://open.spotify.com/track/3S4p3bekXdLUpno8QK74WD) | [Blac Youngsta](https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe) | [223](https://open.spotify.com/album/3wXTjWYl5lWpPBC3QAxhIO) | 2:59 |
 | 210 | [Shoot Off Pt\. 4](https://open.spotify.com/track/0LYwEjfbgic1CFGXfKMQkK) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [CM10: Free Game](https://open.spotify.com/album/5IX0jXUhnaOyc7uqJi5DCT) | 2:18 |
 | 211 | [TOAST](https://open.spotify.com/track/5PkN8WUr8NIivKX6uNo61r) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [EL TORO 2](https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs) | 3:30 |
 | 212 | [Hot Sauce](https://open.spotify.com/track/1EnIek7hbwKtCW6wJcDg1U) | [Bizzy Banks](https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv) | [Same Energy](https://open.spotify.com/album/46MkI0hKIr16SzcdZQ0TPW) | 2:07 |
@@ -284,4 +284,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 274 | [That's Him](https://open.spotify.com/track/4eQFDkbkOwMEMpxzby8vxg) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Yung n Turnt](https://open.spotify.com/album/6swhZ8Qaut2g9zNXttydy2) | 2:45 |
 | 275 | [Set Trip](https://open.spotify.com/track/4K0VtxxPpiQ1BJ4EUK803r) | [Blac Youngsta](https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe) | [Illuminati](https://open.spotify.com/album/2EtFM5N9CfL29S56ZK1LhK) | 3:19 |
 
-Snapshot ID: `AcFBsAAAAABL8FgWOzK1VYKlJjqsXhst`
+Snapshot ID: `AcFHUAAAAABh73XwX8BP9z5fbpl7Dbv9`

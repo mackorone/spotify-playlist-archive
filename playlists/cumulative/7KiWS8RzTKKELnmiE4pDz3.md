@@ -4,7 +4,7 @@
 
 > 
 
-1,272 songs - 2 day 18 hr 17 min
+1,275 songs - 2 day 18 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Beetleborgs](https://open.spotify.com/track/1GwvBbLdKyfcvyLCyjgSlF) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Bin Reaper 3: New Testament](https://open.spotify.com/album/3djREupuPtVxMt6OBlKPcL) | 2:25 | 2023-01-13 | 2023-12-14 |
 | [Believe](https://open.spotify.com/track/7D8MbQyYgjcihxE3sH9FnG) | [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [The Renaissance](https://open.spotify.com/album/0EMbzFBRoIt0fmTsowZ8Zv) | 2:56 | 2025-04-29 |  |
 | [Benihana](https://open.spotify.com/track/1FCE40wdTgeg9pH2E4MPDQ) | [Mg Sleepy](https://open.spotify.com/artist/4Lf9xLId6Ho8TdXSmhllxW) | [Big Trippen](https://open.spotify.com/album/02SLNBw7hl1MQwX3m0jScL) | 1:21 | 2023-04-03 | 2023-12-14 |
+| [Benz Or Beamer](https://open.spotify.com/track/3uo2KJXe6xaQsHhbIHNVmP) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [New Jersey Drive Vol\. 1](https://open.spotify.com/album/7DoD8us9kfckQxBjsBq9JW) | 4:16 | 2025-12-25 |  |
 | [Besos de Fuego](https://open.spotify.com/track/4qBobmlG6sV9C1hpZ7x4k0) | [Trio Los Jaibos](https://open.spotify.com/artist/5SVbx6F5ArKll70amV3lv7) | [Trio Los Jaibos](https://open.spotify.com/album/04djFIjUp5N8BZGihJAaoM) | 2:37 | 2024-02-14 | 2025-05-21 |
 | [Best Friend](https://open.spotify.com/track/33JcUj9qQDayKswunZP9ar) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Best Friend](https://open.spotify.com/album/4YqXHbPtEXINS3CBtKfCyO) | 3:33 | 2024-08-14 | 2025-05-21 |
 | [Bet](https://open.spotify.com/track/504JCx3dJov6Fi5083r4Hb) | [D\. Savage](https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc) | [BPL](https://open.spotify.com/album/5gHs4xLkr2g66PRNsvSh83) | 2:22 | 2022-07-28 | 2023-04-12 |
@@ -313,6 +314,7 @@
 | [drugs\_over\_love](https://open.spotify.com/track/0Rp8IydDMk6iNIE3wV3ocb) | [user00xman](https://open.spotify.com/artist/4YkU1TtBH2NqSJC7QQzaQj) | [lost\_files\_3](https://open.spotify.com/album/5HGQR05KWcd2FQ5EoA7Ri9) | 2:59 | 2022-11-07 | 2023-04-24 |
 | [Dsco](https://open.spotify.com/track/1OKkG3vxEuBBwLw1gCqdNW) | [Sweet Trip](https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM) | [Velocity: Design: Comfort.](https://open.spotify.com/album/0eUUQ4rly8Q8PyJPWLgde2) | 3:11 | 2024-04-30 | 2024-11-06 |
 | [DX](https://open.spotify.com/track/4UtpOsZxxFv1iSuTQ6RS0B) | [Baby Smoove](https://open.spotify.com/artist/15oLsNy8mZYaIukh4eDhXy) | [Hardwood Classic](https://open.spotify.com/album/2SPrPcmFf9505xgGEp2h2k) | 1:45 | 2024-12-03 | 2025-05-21 |
+| [Dying With Your Boots On](https://open.spotify.com/track/1TuhWqEPlUDXdRItAgKr8G) | [Scarface](https://open.spotify.com/artist/19KwjzvIL92r29IINtlPNP) | [The World Is Yours](https://open.spotify.com/album/6iYx1zYXN4nJQfCA01D0CH) | 2:34 | 2025-12-25 |  |
 | [Dëmon tied](https://open.spotify.com/track/00G8RCi9pouKt0K5vQQmzE) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 2:43 | 2023-03-12 | 2024-11-06 |
 | [E.B.I.T.D.A.](https://open.spotify.com/track/3J4lO2oyDMLEYGdHgRcJHW) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Malice](https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM) | [Let God Sort Em Out](https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ) | 1:59 | 2025-07-24 |  |
 | [Early Morning Gettin' It](https://open.spotify.com/track/2NeOOPooKxgvUtWWY6lEiE) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Finally Rollin 2 \(Deluxe Edition\)](https://open.spotify.com/album/0BaBF43wCi33REVTeSiTlN) | 3:25 | 2025-05-01 | 2025-05-21 |
@@ -916,6 +918,7 @@
 | [Recollections Of Fame!](https://open.spotify.com/track/5Ysp0AjJdsrEWVJ9dOJfOO) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [\#\#B4GC3 \#\#B4GC3](https://open.spotify.com/album/0KR2S7qR0ZUH6ggPrvOtPw) | 2:59 | 2023-01-20 | 2023-08-20 |
 | [Red](https://open.spotify.com/track/4aE16KOYo13oEzVuZK1x0i) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [Rr](https://open.spotify.com/album/4WxOXS9ss9F4pTxXsEM3nH) | 2:16 | 2022-07-28 | 2023-12-14 |
 | [Red](https://open.spotify.com/track/2kNKfDA8HxuJCYQl8EraYn) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [I Rest My Case](https://open.spotify.com/album/3qQj92jS1nXAXBubXFooJU) | 2:14 | 2023-01-06 | 2024-03-05 |
+| [Red and Gold](https://open.spotify.com/track/1a1LNRtmRJ46EqjVja044n) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [King Ghidra](https://open.spotify.com/artist/21IYa0bMpDZiSFY9x0y02q) | [Operation: Doomsday \(Complete\)](https://open.spotify.com/album/5bjUbZPVTEQcb6W3LquX1E) | 4:42 | 2025-12-24 |  |
 | [RED TAILS](https://open.spotify.com/track/1TNUfEVHtWhYD40Yj4sAr7) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [Homixide Lifestyle 2](https://open.spotify.com/album/3KABOXbguDvh6dnsbjVQVk) | 3:06 | 2025-08-07 |  |
 | [RedEye](https://open.spotify.com/track/5e4hrLwyAC0Qe1t0PgNz1k) | [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [\#\#B4rr](https://open.spotify.com/album/1zRtJdxldNGcWfheixPomS) | 2:25 | 2022-05-08 | 2023-05-09 |
 | [REDRAG](https://open.spotify.com/track/4JPaDF0pN3JPColaLaDbTF) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [Homixide Lifestyle 2](https://open.spotify.com/album/3KABOXbguDvh6dnsbjVQVk) | 2:46 | 2025-08-06 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Harold Budd. The essential tracks, all in one playlist.",
-  "num_followers": 5752,
+  "num_followers": 5753,
   "original_name": "This Is Harold Budd",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUiKAAAAAAAZtnRA5dWzeEVRF63viaHq",
+  "snapshot_id": "aUnbgAAAAABx4zZCBkz9ypsNg4blUeGP",
   "tracks": [
     {
       "added_at": null,
@@ -336,9 +336,9 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 133200,
-      "name": "Bloody And Blunt",
-      "url": "https://open.spotify.com/track/1uHFzwXv5h4O8pFbo6LFhB"
+      "duration_ms": 249933,
+      "name": "Eyes Are Mosaics",
+      "url": "https://open.spotify.com/track/0nh702r8bba4yTwk2U3yhj"
     },
     {
       "added_at": null,
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 249933,
-      "name": "Eyes Are Mosaics",
-      "url": "https://open.spotify.com/track/0nh702r8bba4yTwk2U3yhj"
+      "duration_ms": 133200,
+      "name": "Bloody And Blunt",
+      "url": "https://open.spotify.com/track/1uHFzwXv5h4O8pFbo6LFhB"
     },
     {
       "added_at": null,
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 426533,
-      "name": "First Light - Remastered 2004",
-      "url": "https://open.spotify.com/track/0r4FEHukFd50r43uTuYmHY"
+      "duration_ms": 204680,
+      "name": "Among Fields Of Crystal - Remastered 2004",
+      "url": "https://open.spotify.com/track/1Z2OQ4XtLwrhQKGS9BA4wi"
     },
     {
       "added_at": null,
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 380453,
-      "name": "Spoken Roses",
-      "url": "https://open.spotify.com/track/5WaczsEWb6yzXlN7N61xBA"
+      "duration_ms": 183880,
+      "name": "Adult",
+      "url": "https://open.spotify.com/track/1orKNWYlGLs3EofDZCGY5s"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
       "duration_ms": 360333,
       "name": "Nove Alberi",
       "url": "https://open.spotify.com/track/4J71YFDSr1yyrKKSyKSunw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Avalon Sutra (2013 Remaster)",
-        "url": "https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6"
-      },
-      "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 159920,
-      "name": "Arabesque 3 - 2013 Remaster",
-      "url": "https://open.spotify.com/track/7AsLKcHPrUZe60x8o47YeQ"
     },
     {
       "added_at": null,
@@ -759,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Avalon Sutra (2013 Remaster)",
+        "url": "https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 159920,
+      "name": "Arabesque 3 - 2013 Remaster",
+      "url": "https://open.spotify.com/track/7AsLKcHPrUZe60x8o47YeQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Translucence + Drift Music",
         "url": "https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO"
       },
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 183880,
-      "name": "Adult",
-      "url": "https://open.spotify.com/track/1orKNWYlGLs3EofDZCGY5s"
+      "duration_ms": 380453,
+      "name": "Spoken Roses",
+      "url": "https://open.spotify.com/track/5WaczsEWb6yzXlN7N61xBA"
     },
     {
       "added_at": null,
@@ -795,6 +795,26 @@
       "duration_ms": 321226,
       "name": "A Minute, a Day, No More",
       "url": "https://open.spotify.com/track/77GNj1dewpFsGfzkhujB0u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bordeaux",
+        "url": "https://open.spotify.com/album/1O5oSyE5rPE7heWZYjWy5c"
+      },
+      "artists": [
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 222280,
+      "name": "Gaze",
+      "url": "https://open.spotify.com/track/3n0cTeF61Mg1tPsdh520Qg"
     },
     {
       "added_at": null,
@@ -823,42 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bordeaux",
-        "url": "https://open.spotify.com/album/1O5oSyE5rPE7heWZYjWy5c"
-      },
-      "artists": [
-        {
-          "name": "Robin Guthrie",
-          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
-        },
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 222280,
-      "name": "Gaze",
-      "url": "https://open.spotify.com/track/3n0cTeF61Mg1tPsdh520Qg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Avalon Sutra (2013 Remaster)",
-        "url": "https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6"
-      },
-      "artists": [
-        {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
-        }
-      ],
-      "duration_ms": 180760,
-      "name": "Arabesque 2 - 2013 Remaster",
-      "url": "https://open.spotify.com/track/47mi8afxLPHP0SzRgYhZQr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Pavilion Of Dreams",
         "url": "https://open.spotify.com/album/0hWjBUtA4eoFsyh6lygVRN"
       },
@@ -875,22 +859,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Translucence + Drift Music",
-        "url": "https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO"
+        "name": "Avalon Sutra (2013 Remaster)",
+        "url": "https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6"
       },
       "artists": [
-        {
-          "name": "John Foxx",
-          "url": "https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu"
-        },
         {
           "name": "Harold Budd",
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 234053,
-      "name": "Long Light",
-      "url": "https://open.spotify.com/track/7tb3d1uH2yL7duAMQPP19G"
+      "duration_ms": 180760,
+      "name": "Arabesque 2 - 2013 Remaster",
+      "url": "https://open.spotify.com/track/47mi8afxLPHP0SzRgYhZQr"
     },
     {
       "added_at": null,
@@ -935,22 +915,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "After The Night Falls",
-        "url": "https://open.spotify.com/album/37xpeBIwCGwIYKpyakvJZR"
+        "name": "Translucence + Drift Music",
+        "url": "https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO"
       },
       "artists": [
         {
-          "name": "Robin Guthrie",
-          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+          "name": "John Foxx",
+          "url": "https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu"
         },
         {
           "name": "Harold Budd",
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 207746,
-      "name": "Avenue of Shapes",
-      "url": "https://open.spotify.com/track/6x9zUu9p3rHOl5eEgfHjsA"
+      "duration_ms": 234053,
+      "name": "Long Light",
+      "url": "https://open.spotify.com/track/7tb3d1uH2yL7duAMQPP19G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Avalon Sutra (2013 Remaster)",
+        "url": "https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6"
+      },
+      "artists": [
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 323733,
+      "name": "Rue Casimir Delavigne (For Daniel Lentz) - 2013 Remaster",
+      "url": "https://open.spotify.com/track/2VviNEVTRzsA8La6QA0ryg"
     }
   ],
   "unique_name": "This Is Harold Budd",

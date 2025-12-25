@@ -1,12 +1,12 @@
 {
   "description": "The best new independent songs. New tracks every month.",
-  "num_followers": 1101,
+  "num_followers": 1107,
   "original_name": "New Indie Music",
   "owner": {
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAORPiCKmrQVvlqZE3cQ+P7Uv3tXE2F",
+  "snapshot_id": "AAAOSf9ntnxOxCWmSVHzGW/FwG5lqS0V",
   "tracks": [
     {
       "added_at": "2025-11-28 08:14:38",
@@ -3483,6 +3483,102 @@
       "duration_ms": 188000,
       "name": "Old Roads, New Lights",
       "url": "https://open.spotify.com/track/17Sd8h5ieN2WBmHmuD3XIp"
+    },
+    {
+      "added_at": "2025-12-24 09:09:09",
+      "album": {
+        "name": "Freedom from no tomorrow",
+        "url": "https://open.spotify.com/album/4BPdqSTglo6yeL7HGY5TG3"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Tikis",
+          "url": "https://open.spotify.com/artist/3FgOxm7zjtZfsgLhSrCmDR"
+        },
+        {
+          "name": "Tatiana",
+          "url": "https://open.spotify.com/artist/4DwDwWkbgmARkYrx6P2uFj"
+        }
+      ],
+      "duration_ms": 252024,
+      "name": "Freedom from no tomorrow",
+      "url": "https://open.spotify.com/track/4fWkcMaxDkRfqhLGV6WhBf"
+    },
+    {
+      "added_at": "2025-12-24 09:09:21",
+      "album": {
+        "name": "DOPAMINE (Original Mix)",
+        "url": "https://open.spotify.com/album/2iohXmZrN34oyh0Yjmk08V"
+      },
+      "artists": [
+        {
+          "name": "neyoooo",
+          "url": "https://open.spotify.com/artist/3OtyVxfz6lLJL5745K6u8I"
+        },
+        {
+          "name": "FIM Collective",
+          "url": "https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK"
+        },
+        {
+          "name": "ohey",
+          "url": "https://open.spotify.com/artist/2BgpHKGiSYNrDpFy0bOK34"
+        },
+        {
+          "name": "Crisisbeatzz",
+          "url": "https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x"
+        }
+      ],
+      "duration_ms": 137900,
+      "name": "DOPAMINE - Original Mix",
+      "url": "https://open.spotify.com/track/1qIHh1E9VlIQjlx63VdXMj"
+    },
+    {
+      "added_at": "2025-12-24 09:09:32",
+      "album": {
+        "name": "Scars (Sped Up + Reverbed)",
+        "url": "https://open.spotify.com/album/3YWtW9p52JhQSSrD20hKzR"
+      },
+      "artists": [
+        {
+          "name": "t-WIN",
+          "url": "https://open.spotify.com/artist/5iD7Mz3QWvVuXXXpHXlk2s"
+        }
+      ],
+      "duration_ms": 164953,
+      "name": "Scars - Sped Up + Reverbed",
+      "url": "https://open.spotify.com/track/2QJSqbrFYi8nudBdilHKuh"
+    },
+    {
+      "added_at": "2025-12-24 09:09:39",
+      "album": {
+        "name": "Halfway Home",
+        "url": "https://open.spotify.com/album/2tj9llZsZU8syhHCRRqO1q"
+      },
+      "artists": [
+        {
+          "name": "Madison Graye",
+          "url": "https://open.spotify.com/artist/4XfxIBVikREynI933gcBvK"
+        }
+      ],
+      "duration_ms": 193670,
+      "name": "Halfway Home",
+      "url": "https://open.spotify.com/track/1nUxd4nc2Z1QX8ZBCgfdYW"
+    },
+    {
+      "added_at": "2025-12-24 16:25:48",
+      "album": {
+        "name": "11 songs",
+        "url": "https://open.spotify.com/album/1uka3AOh5UDbFWQiUvYpum"
+      },
+      "artists": [
+        {
+          "name": "A Beautiful Tomorrow",
+          "url": "https://open.spotify.com/artist/0Fd3aWON7L3qh9raMXIETm"
+        }
+      ],
+      "duration_ms": 180576,
+      "name": "Dear Daddy",
+      "url": "https://open.spotify.com/track/3LTumOY6zNgvKuNGaRsE1I"
     }
   ],
   "unique_name": "New Indie Music",

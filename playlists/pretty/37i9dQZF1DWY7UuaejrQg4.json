@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2018. Cover: The 1975",
-  "num_followers": 92324,
+  "num_followers": 92337,
   "original_name": "Best of Indie 2018",
   "owner": {
     "name": "Spotify",
@@ -1427,6 +1427,26 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
+        "name": "Geography",
+        "url": "https://open.spotify.com/album/28enuddLPEA914scE6Drvk"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        },
+        {
+          "name": "GoldLink",
+          "url": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
+        }
+      ],
+      "duration_ms": 194023,
+      "name": "Lost in Paris",
+      "url": "https://open.spotify.com/track/4A7DUET5H4f7dJkUhjfVFB"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
         "name": "Classic",
         "url": "https://open.spotify.com/album/2gHoyHYnaGEctKR8kysOAU"
       },
@@ -1459,22 +1479,18 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
-        "name": "Geography",
-        "url": "https://open.spotify.com/album/28enuddLPEA914scE6Drvk"
+        "name": "The Reason",
+        "url": "https://open.spotify.com/album/56r44kX6LHgHQgHJoCaUiY"
       },
       "artists": [
         {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        },
-        {
-          "name": "GoldLink",
-          "url": "https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ"
+          "name": "Chelsea Cutler",
+          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
         }
       ],
-      "duration_ms": 194023,
-      "name": "Lost in Paris",
-      "url": "https://open.spotify.com/track/4A7DUET5H4f7dJkUhjfVFB"
+      "duration_ms": 184693,
+      "name": "The Reason",
+      "url": "https://open.spotify.com/track/5L40lPxGOtkpCYfaakKJbq"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -1491,22 +1507,6 @@
       "duration_ms": 193429,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/6bTn1ovliI0OkjUNkiMBJq"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
-        "name": "The Reason",
-        "url": "https://open.spotify.com/album/56r44kX6LHgHQgHJoCaUiY"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Cutler",
-          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
-        }
-      ],
-      "duration_ms": 184693,
-      "name": "The Reason",
-      "url": "https://open.spotify.com/track/5L40lPxGOtkpCYfaakKJbq"
     },
     {
       "added_at": "2024-03-18 13:22:22",

@@ -1,12 +1,12 @@
 {
   "description": "This is Ella Langley. The essential tracks, all in one playlist.",
-  "num_followers": 31492,
+  "num_followers": 31634,
   "original_name": "This Is Ella Langley",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUiKAAAAAACMTdi70cSCFBG7+LNlXKMf",
+  "snapshot_id": "aUnbgAAAAAC5y2+qkmzKX+p8am5f301V",
   "tracks": [
     {
       "added_at": null,
@@ -171,22 +171,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Keepin' The Lights On",
-        "url": "https://open.spotify.com/album/1vcPPMVBjcmmP7yK9XWJzf"
+        "name": "still hungover",
+        "url": "https://open.spotify.com/album/4HXwURpJfDooeuEt2bZspn"
       },
       "artists": [
-        {
-          "name": "Kameron Marlowe",
-          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
-        },
         {
           "name": "Ella Langley",
           "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
         }
       ],
-      "duration_ms": 212916,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/1maZDh7a04ixruZ36q2kha"
+      "duration_ms": 195386,
+      "name": "20-20",
+      "url": "https://open.spotify.com/track/0HhzALLRmKKP8iP2C9qzAP"
     },
     {
       "added_at": null,
@@ -207,18 +203,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "still hungover",
-        "url": "https://open.spotify.com/album/4HXwURpJfDooeuEt2bZspn"
+        "name": "Keepin' The Lights On",
+        "url": "https://open.spotify.com/album/1vcPPMVBjcmmP7yK9XWJzf"
       },
       "artists": [
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        },
         {
           "name": "Ella Langley",
           "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
         }
       ],
-      "duration_ms": 195386,
-      "name": "20-20",
-      "url": "https://open.spotify.com/track/0HhzALLRmKKP8iP2C9qzAP"
+      "duration_ms": 212916,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/1maZDh7a04ixruZ36q2kha"
     },
     {
       "added_at": null,

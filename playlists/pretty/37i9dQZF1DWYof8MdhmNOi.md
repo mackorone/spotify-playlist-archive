@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYof8MdhmNOi.md) - [plain]
 
 > HBCU Anthems! Curated by Bowie State University's own <a href="spotify:artist:1dbTwUlL11ZYdC1YAR07AM">Foggieraw</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,114 likes - 32 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,152 likes - 32 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

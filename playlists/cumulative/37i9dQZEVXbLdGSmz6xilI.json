@@ -3752,7 +3752,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-16",
+      "date_removed": null,
       "duration_ms": 262495,
       "name": "B\u1ea7u Tr\u1eddi M\u1edbi",
       "url": "https://open.spotify.com/track/7fCeYpR02Q8JVuD88hJZVT"
@@ -4364,7 +4364,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-24",
+      "date_removed": null,
       "duration_ms": 208048,
       "name": "Chuy\u1ec7n \u0110\u00f4i Ta (feat. Mu\u1ed9ii)",
       "url": "https://open.spotify.com/track/4CUvVaAYuXtvYURLFz7EIL"
@@ -4830,6 +4830,32 @@
       "duration_ms": 223658,
       "name": "Ch\u1ea1y V\u1ec1 Kh\u00f3c V\u1edbi Anh",
       "url": "https://open.spotify.com/track/7hzVxbVA6Y5t9YDzpSgdRS"
+    },
+    {
+      "album": {
+        "name": "Ch\u1ea5t G\u00e2y H\u1ea1i",
+        "url": "https://open.spotify.com/album/3MDT6qzWBP4506rp4Nzv1l"
+      },
+      "artists": [
+        {
+          "name": "Quang H\u00f9ng MasterD",
+          "url": "https://open.spotify.com/artist/0slOzRzTQb1RBBVJbvRITP"
+        },
+        {
+          "name": "Low G",
+          "url": "https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe"
+        },
+        {
+          "name": "Hino",
+          "url": "https://open.spotify.com/artist/46eYlws2VfnJJsyPk4cP7o"
+        }
+      ],
+      "date_added": "2025-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259764,
+      "name": "Ch\u1ea5t G\u00e2y H\u1ea1i",
+      "url": "https://open.spotify.com/track/1i5SZL7Ngz0sYFaKmwieyw"
     },
     {
       "album": {
@@ -12468,7 +12494,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-25",
       "duration_ms": 291268,
       "name": "KH\u00d4NG \u0110AU N\u1eeeA R\u1ed2I",
       "url": "https://open.spotify.com/track/1uiqiUzPn2EJpvHDy84PEZ"
@@ -17412,7 +17438,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-25",
       "duration_ms": 240000,
       "name": "N\u1ebfu Bi\u1ebft \u0110\u00f3 L\u00e0 L\u1ea7n Cu\u1ed1i",
       "url": "https://open.spotify.com/track/2w7jOvl0kpplNxisgfnCdT"
@@ -18628,7 +18654,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-25",
       "duration_ms": 202999,
       "name": "PH\u00d3NG Z\u00ccN Z\u00ccN",
       "url": "https://open.spotify.com/track/3COYA2vgfcUhDyRlVpZy5p"
@@ -23018,7 +23044,7 @@
       ],
       "date_added": "2021-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-19",
+      "date_removed": null,
       "duration_ms": 225358,
       "name": "Th\u00e1ng N\u0103m",
       "url": "https://open.spotify.com/track/0SmQ0UWeiHKQtxUej4Rem6"
@@ -25262,7 +25288,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-25",
       "duration_ms": 241919,
       "name": "V\u00ec Anh \u0110\u00e2u C\u00f3 Bi\u1ebft",
       "url": "https://open.spotify.com/track/6VXVYATpQXEIoZ97NnWCmn"

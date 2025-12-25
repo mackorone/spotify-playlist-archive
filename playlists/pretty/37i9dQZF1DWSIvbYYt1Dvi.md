@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > melhor ser um guerreiro num jardim do que um jardineiro numa guerra
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,152,829 likes - 52 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,152,736 likes - 52 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 | 3 | [P.I.T.T.Y\. \(Parecendo Uma Cafetina\)](https://open.spotify.com/track/5L0d4gFfxGNITmevcFfHnA) | [NandaTsunami](https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk), [Stick](https://open.spotify.com/artist/06DkLIR1RQFV7kEom04Frt), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [Torelli](https://open.spotify.com/artist/5JXS7XaVoUTFBUHaS4RMxu) | [P.I.T.T.Y\. \(Parecendo Uma Cafetina\)](https://open.spotify.com/album/2ECY1jKiktjhcy4yCiHauY) | 2:20 |
 | 4 | [Papel de Parede](https://open.spotify.com/track/5cxRsPiltsPPuD1TWeKvIM) | [Pedro Qualy](https://open.spotify.com/artist/4AfTjKLguMiMYaGIS7sBJp), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Riff](https://open.spotify.com/artist/3hVaXZ6pyvforJCQD78BmH) | [Papel de Parede](https://open.spotify.com/album/6QIOkiXTwXxuTmwwE8ryBB) | 3:09 |
 | 5 | [Dharma](https://open.spotify.com/track/0EZg6KOUpuq9bBDWrPpK1f) | [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Dj KLJay](https://open.spotify.com/artist/2MpPNxxzzAF1gWSyEotsNV), [Maffalda](https://open.spotify.com/artist/3Y6LyX8cnJuJLpehsijwEC) | [Novo Testamento](https://open.spotify.com/album/490tyTcKwuwqzxLu3ij7D5) | 2:18 |
-| 6 | [GTA](https://open.spotify.com/track/4rq7f9LzEu2fqtkUj1anFX) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [GTA](https://open.spotify.com/artist/1d2nSDIlSzl93ajFcmVO2w), [$amuka](https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj) | [FRAGMENTADO](https://open.spotify.com/album/00EpdnJTbeKfWrc7FI7Q2H) | 3:22 |
+| 6 | [GTA](https://open.spotify.com/track/4rq7f9LzEu2fqtkUj1anFX) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [GTA](https://open.spotify.com/artist/1d2nSDIlSzl93ajFcmVO2w), [$amuka](https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj), [Drow Beats](https://open.spotify.com/artist/63nBMbY97bsURu2s0MvRGt) | [FRAGMENTADO](https://open.spotify.com/album/00EpdnJTbeKfWrc7FI7Q2H) | 3:22 |
 | 7 | [Acima De Mim Só Deus](https://open.spotify.com/track/08adMS3hYWRQlYmUwGI5rB) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK), [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36) | [NUME](https://open.spotify.com/album/4ZfyJI6J8VFXPgeAVVn1Fm) | 2:30 |
 | 8 | [Percepción](https://open.spotify.com/track/1KWct3BVMyttFU0uKcWp2h) | [Yago Oproprio](https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497), [Patricio Sid](https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu), [EME Lab](https://open.spotify.com/artist/6TgbJAk2afcSDlDc212f48) | [Percepción](https://open.spotify.com/album/3krksR15hRduOvh2YnBXoe) | 2:27 |
 | 9 | [Leandro Roque](https://open.spotify.com/track/6CloyUaUDsg2gOp51hT9ao) | [Jotapê](https://open.spotify.com/artist/6SZQlj3zcSmJk5uBaMiwGM), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Até A Última Rima](https://open.spotify.com/album/0q7BnzgfpF9TiaYAN01K3E) | 4:35 |

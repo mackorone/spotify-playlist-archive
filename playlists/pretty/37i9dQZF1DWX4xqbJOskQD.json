@@ -1,6 +1,6 @@
 {
   "description": "The Mills Brothers, The Andrews Sisters and other classic vocal groups.",
-  "num_followers": 2038,
+  "num_followers": 2037,
   "original_name": "Close Harmony Vocals",
   "owner": {
     "name": "Spotify",
@@ -463,6 +463,22 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
+        "name": "The Singles Collection 1946-60",
+        "url": "https://open.spotify.com/album/75jzCtbYZGSEJgL7i9MhNN"
+      },
+      "artists": [
+        {
+          "name": "The Fontane Sisters",
+          "url": "https://open.spotify.com/artist/1Ml4OuStDoympbREURAM15"
+        }
+      ],
+      "duration_ms": 161906,
+      "name": "Underneath The Linden Tree",
+      "url": "https://open.spotify.com/track/2rXUt201xsDplJW2BtBFXU"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
         "name": "Remember Pearl Harbor: Classic Songs Of World War II",
         "url": "https://open.spotify.com/album/4esQCA7GCIC2NBUq8ndw87"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 159173,
       "name": "A G.I. Wish",
       "url": "https://open.spotify.com/track/2TVIvoDLrq3adZBeDyFbl9"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
-        "name": "The Singles Collection 1946-60",
-        "url": "https://open.spotify.com/album/75jzCtbYZGSEJgL7i9MhNN"
-      },
-      "artists": [
-        {
-          "name": "The Fontane Sisters",
-          "url": "https://open.spotify.com/artist/1Ml4OuStDoympbREURAM15"
-        }
-      ],
-      "duration_ms": 161906,
-      "name": "Underneath The Linden Tree",
-      "url": "https://open.spotify.com/track/2rXUt201xsDplJW2BtBFXU"
     },
     {
       "added_at": "2020-08-17 22:49:59",

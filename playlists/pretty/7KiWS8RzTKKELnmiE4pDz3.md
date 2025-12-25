@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 423 songs - 1 day 0 hr 55 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 426 songs - 1 day 1 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -431,5 +431,8 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 421 | [Pease Porridge](https://open.spotify.com/track/2SeYGmG9phGcOKAYz1B9lm) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [De La Soul is Dead](https://open.spotify.com/album/5F3GEttPPR58Gg15BKUsTd) | 5:01 |
 | 422 | [Only so Much Oil in the Ground](https://open.spotify.com/track/4L6cv7W4EpaB62kPoyCQK7) | [Tower Of Power](https://open.spotify.com/artist/0JCxGVxsISZzJHJPUOtceB) | [Urban Renewal](https://open.spotify.com/album/6KRdd8gy9afiJSXS0uK3Rd) | 3:48 |
 | 423 | [Rhymery](https://open.spotify.com/track/5yCFYU6ICrEWIa5tfNsDoM) | [Science Of Sound](https://open.spotify.com/artist/2WyJSpGIkFE2DWLqQ4NoLr), [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [Kaleidoscope Phonetics](https://open.spotify.com/album/1TaMBFo5352dC3bwx3to6Z) | 3:22 |
+| 424 | [Red and Gold](https://open.spotify.com/track/1a1LNRtmRJ46EqjVja044n) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [King Ghidra](https://open.spotify.com/artist/21IYa0bMpDZiSFY9x0y02q) | [Operation: Doomsday \(Complete\)](https://open.spotify.com/album/5bjUbZPVTEQcb6W3LquX1E) | 4:42 |
+| 425 | [Benz Or Beamer](https://open.spotify.com/track/3uo2KJXe6xaQsHhbIHNVmP) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [New Jersey Drive Vol\. 1](https://open.spotify.com/album/7DoD8us9kfckQxBjsBq9JW) | 4:16 |
+| 426 | [Dying With Your Boots On](https://open.spotify.com/track/1TuhWqEPlUDXdRItAgKr8G) | [Scarface](https://open.spotify.com/artist/19KwjzvIL92r29IINtlPNP) | [The World Is Yours](https://open.spotify.com/album/6iYx1zYXN4nJQfCA01D0CH) | 2:34 |
 
-Snapshot ID: `AAAfcAzoM4cVo4QTAZ0bPMdAhLWOzI1H`
+Snapshot ID: `AAAfc1FEGlB2VL7gME+1LSvZKQyOeyzW`

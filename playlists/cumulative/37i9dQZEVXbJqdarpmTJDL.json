@@ -6564,7 +6564,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-24",
+      "date_removed": null,
       "duration_ms": 188400,
       "name": "Beverly Hills",
       "url": "https://open.spotify.com/track/5j2qq0EBEAceOdff92l4qZ"
@@ -11140,7 +11140,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-25",
       "duration_ms": 127058,
       "name": "DD",
       "url": "https://open.spotify.com/track/7tBWL5bqABYPWtK1457YUc"
@@ -22316,7 +22316,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-25",
       "duration_ms": 211363,
       "name": "Inopnevma Ftino",
       "url": "https://open.spotify.com/track/62sRtKxGqaK0Nxy4LlWO47"
@@ -26866,7 +26866,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-28",
+      "date_removed": null,
       "duration_ms": 117146,
       "name": "Let It Snow! Let It Snow! Let It Snow!",
       "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
@@ -35828,7 +35828,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-25",
       "duration_ms": 269314,
       "name": "Ores Mikres",
       "url": "https://open.spotify.com/track/4URIs3gEDgakPiGq8bhe1G"
@@ -36914,7 +36914,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-25",
       "duration_ms": 118548,
       "name": "PANW MOU",
       "url": "https://open.spotify.com/track/4Qa689Cg9mB9iaO9PT5cIO"
@@ -37932,7 +37932,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-24",
+      "date_removed": null,
       "duration_ms": 130909,
       "name": "PERCO",
       "url": "https://open.spotify.com/track/7nWCBmf2cLyMzXQTnYgSvr"
@@ -38086,6 +38086,24 @@
       "duration_ms": 182400,
       "name": "Pes",
       "url": "https://open.spotify.com/track/4sltRhFlzu0BwXq9OUnwSG"
+    },
+    {
+      "album": {
+        "name": "PES KAI THA RTHW",
+        "url": "https://open.spotify.com/album/2LArog9P5cIveHydpRkcHv"
+      },
+      "artists": [
+        {
+          "name": "\u03a7\u03c1\u03c5\u03c3\u03b7\u03af\u03b4\u03b1 \u0393\u03ba\u03b1\u03b3\u03ba\u03bf\u03cd\u03c4\u03b7",
+          "url": "https://open.spotify.com/artist/3xDWs10E9We9lyVOZoZY4J"
+        }
+      ],
+      "date_added": "2025-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140733,
+      "name": "PES KAI THA RTHW",
+      "url": "https://open.spotify.com/track/0K6yas608Uqs2odowPedYS"
     },
     {
       "album": {

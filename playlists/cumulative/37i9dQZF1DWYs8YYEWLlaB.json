@@ -835,6 +835,28 @@
     },
     {
       "album": {
+        "name": "MI AMOR",
+        "url": "https://open.spotify.com/album/5IDKwTjvOuxO2PQThAAc7y"
+      },
+      "artists": [
+        {
+          "name": "Era7capone",
+          "url": "https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM"
+        },
+        {
+          "name": "Murda",
+          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
+        }
+      ],
+      "date_added": "2025-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "BYE BYE",
+      "url": "https://open.spotify.com/track/63tBXIkHpGP99Powr8UxBv"
+    },
+    {
+      "album": {
         "name": "Can\u0131n Beni \u00c7ekti",
         "url": "https://open.spotify.com/album/6wxBYLndYtQJeJKmFagVRB"
       },
@@ -2784,7 +2806,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-25",
       "duration_ms": 156774,
       "name": "Mosmor Perde",
       "url": "https://open.spotify.com/track/2qBH9hL1iMU9kpz44dLtcj"

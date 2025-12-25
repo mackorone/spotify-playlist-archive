@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 
 > El poder real del Hip Hop latinoamericano y español\. La Banda Bastön en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,733 likes - 100 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,808 likes - 100 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 | 90 | [La Durango](https://open.spotify.com/track/5n4KcRRFgaucREe1bjQkHB) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [La Durango](https://open.spotify.com/album/4TWwOoEHNzAKtOW2BHH5cT) | 4:10 |
 | 91 | [Balas](https://open.spotify.com/track/61udLtunSv95Gu89jiWUWf) | [Tempo](https://open.spotify.com/artist/76whng5pl9msPkkjFUtWYn), [Mexicano 777](https://open.spotify.com/artist/3FgR6lfwIY7VD2lDryeh1e) | [Tempo Éxitos](https://open.spotify.com/album/1HI1kTUhjj0RgxtrZ0VCWb) | 2:49 |
 | 92 | [Aczino: Bzrp Freestyle Sessions, Vol\. 8](https://open.spotify.com/track/7AA4lNDVhoyucOqhBO56XU) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X) | [Aczino: Bzrp Freestyle Sessions, Vol\. 8](https://open.spotify.com/album/2Ndg4eoQ9xUyZIPKrxiMoL) | 2:57 |
-| 93 | [Raza Es Raza](https://open.spotify.com/track/4EQpN8UHm1RwMyK7tcGCuB) | [Kinto Sol](https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu) | [Hecho En Mexico](https://open.spotify.com/album/5Vg2XD4nj01YO0knSICiir) | 3:55 |
-| 94 | [Tú](https://open.spotify.com/track/03TF8mEvi22ZyKyGz5AyOe) | [Akil Ammar](https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr) | [Frenesi](https://open.spotify.com/album/3SOlnaLITi023iBbIxf0td) | 7:32 |
+| 93 | [Tú](https://open.spotify.com/track/03TF8mEvi22ZyKyGz5AyOe) | [Akil Ammar](https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr) | [Frenesi](https://open.spotify.com/album/3SOlnaLITi023iBbIxf0td) | 7:32 |
+| 94 | [Raza Es Raza](https://open.spotify.com/track/4EQpN8UHm1RwMyK7tcGCuB) | [Kinto Sol](https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu) | [Hecho En Mexico](https://open.spotify.com/album/5Vg2XD4nj01YO0knSICiir) | 3:55 |
 | 95 | [Ayer Y Hoy](https://open.spotify.com/track/5qNk2QaoikQUp4Xoo5LAeo) | [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto), [El Chojin](https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc) | [Mejor Que El Silencio](https://open.spotify.com/album/2Sp85NL3kFL3paJQcWg529) | 4:05 |
 | 96 | [Expedición Al Klama Hama](https://open.spotify.com/track/0iLy9clhTrnBVYkLntoh5p) | [Illya Kuryaki & The Valderramas](https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg) | [Versus](https://open.spotify.com/album/2DYgWkKDJHW6U3wXtULQ0g) | 5:13 |
 | 97 | [Mi Primera Vez](https://open.spotify.com/track/2ZSP2DxDPlJg6bOpnUNiNA) | [Los Aldeanos](https://open.spotify.com/artist/4Y6VI2Mfdhvb1RImggzOiY), [Silvito El Libre](https://open.spotify.com/artist/0UIH8WpxS8c1ZSJysYHe0K), [Charly Mucharrima](https://open.spotify.com/artist/6nJF8xzQ48VCfBlXb5btQp), [Al2 El Aldeano](https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA), [El B](https://open.spotify.com/artist/2hbqnyDIEyi8JbZCmOkPdm), [Yamil Reyes \(Dejavu\)](https://open.spotify.com/artist/2hhm3fRyxsCvhsrVP7Gnlr) | [Descato](https://open.spotify.com/album/73LPJr85VgniRjasNJjrQQ) | 5:54 |
 | 98 | [Arenita Playita \(feat\. Eska\)](https://open.spotify.com/track/0cpJGhd9GZbWw6ThPQ8Ic0) | [Cuarto Poder](https://open.spotify.com/artist/2jZIvxOfIP6hhzthCqRmqI) | [In Tha House](https://open.spotify.com/album/6XtBrJHt6GPGt8gKVOh92N) | 4:59 |
 | 99 | [Causa y Efecto](https://open.spotify.com/track/6dYNhN8zOGK2Q67QddT1NN) | [Hijos de las Hojas](https://open.spotify.com/artist/6isvSCaUPeMinPzcY5LtBM), [Ojal De Ajaw](https://open.spotify.com/artist/6liwHKuT39wios8CxQHQFJ) | [El Camino de la Serpiente](https://open.spotify.com/album/0Dg2f3GApbo99D3aclUNo9) | 4:38 |
-| 100 | [Cantando](https://open.spotify.com/track/5AIwfXYjGkWCs4KeeTk2Rq) | [Violadores Del Verso](https://open.spotify.com/artist/1DH9RJ0xBVje6gQmK3LWUY) | [Vivir para Contarlo](https://open.spotify.com/album/6LeLj7gigY7PBgPVZ6P25f) | 5:32 |
+| 100 | [Hasta las 3 de la Mañana](https://open.spotify.com/track/3fWUR3Klzp36JZwIi5DUy8) | [Gona](https://open.spotify.com/artist/3yrN2y3XifdxgoTVMiTpDB) | [Ocho Lunas](https://open.spotify.com/album/1RXTzclIwzHy9x0q5y9uLw) | 5:26 |
 
 Snapshot ID: `AAAAAAbs8JYerE9Jh35YB04viBfXyDi9`

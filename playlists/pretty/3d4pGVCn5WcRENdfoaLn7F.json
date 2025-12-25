@@ -1,12 +1,12 @@
 {
   "description": "These are some independent alternative rock bands you need to hear.",
-  "num_followers": 389,
+  "num_followers": 388,
   "original_name": "Unsigned Alternative Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAACMQIgQDww+kDrXmGFh3oVs/lECJWx",
+  "snapshot_id": "AAACNW52Wvyi9GaNhUOYYsFhup7dZsHA",
   "tracks": [
     {
       "added_at": "2025-11-16 12:40:10",
@@ -1251,6 +1251,70 @@
       "duration_ms": 224500,
       "name": "Season 2",
       "url": "https://open.spotify.com/track/3E3HFi5uwVHOv7R37gzHuu"
+    },
+    {
+      "added_at": "2025-12-24 14:40:15",
+      "album": {
+        "name": "Light Switch",
+        "url": "https://open.spotify.com/album/55iQV1wqNmicvSeYMRI0eP"
+      },
+      "artists": [
+        {
+          "name": "The Color Blew",
+          "url": "https://open.spotify.com/artist/6mnHAaGTCbeNA07xwFbWvz"
+        }
+      ],
+      "duration_ms": 415380,
+      "name": "This Is How We Say Goodbye",
+      "url": "https://open.spotify.com/track/6NbzdZrZwTzPvMySmzsdPU"
+    },
+    {
+      "added_at": "2025-12-24 15:09:53",
+      "album": {
+        "name": "Broken Souls",
+        "url": "https://open.spotify.com/album/3HyteMRqp1h4fag2Nukpd6"
+      },
+      "artists": [
+        {
+          "name": "Malcolm E Ormond",
+          "url": "https://open.spotify.com/artist/37IitdXWKngXiu1htFAgMG"
+        }
+      ],
+      "duration_ms": 335039,
+      "name": "Broken Souls",
+      "url": "https://open.spotify.com/track/1QI8qHeZM2D9CjukHziaoo"
+    },
+    {
+      "added_at": "2025-12-24 15:14:12",
+      "album": {
+        "name": "Stay With You",
+        "url": "https://open.spotify.com/album/4RWd149IxtWI1XcOHuYHQe"
+      },
+      "artists": [
+        {
+          "name": "ToloV",
+          "url": "https://open.spotify.com/artist/4t3awapuIDzb4fGOMWR35Q"
+        }
+      ],
+      "duration_ms": 166401,
+      "name": "Stay With You",
+      "url": "https://open.spotify.com/track/0itsoBycSDpBi8OoaKj5CY"
+    },
+    {
+      "added_at": "2025-12-24 15:17:31",
+      "album": {
+        "name": "December Fields",
+        "url": "https://open.spotify.com/album/2aRIUc4AfB3f7FKwqH7MZq"
+      },
+      "artists": [
+        {
+          "name": "Kevin ISM",
+          "url": "https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9"
+        }
+      ],
+      "duration_ms": 246224,
+      "name": "December Fields (Distribution)",
+      "url": "https://open.spotify.com/track/4bddpe4brO09lyHpE7lb9N"
     }
   ],
   "unique_name": "Unsigned Alternative Rock",

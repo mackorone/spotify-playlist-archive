@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste releases Hollands & Volks\. Cover: Donnie, Sven Versteeg & LA$$A
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,086 likes - 80 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,094 likes - 80 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 79 | [Alles Wat Ik Nodig Heb](https://open.spotify.com/track/4ayTpt382VT36TN2yxgI3B) | [Senna](https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ) | [Alles Wat Ik Nodig Heb](https://open.spotify.com/album/53rNQnM2S0HETUAkYSkD9W) | 2:22 |
 | 80 | [Amore Bella Ciao](https://open.spotify.com/track/34oy1xCk9xxTA3ZSsLBB4n) | [Bart Muller](https://open.spotify.com/artist/36cW6qZy0y78QUYGUXwAa0) | [Amore Bella Ciao](https://open.spotify.com/album/6tbso4EAEJ81shffvgFtIw) | 2:39 |
 
-Snapshot ID: `AAAAAMpDxl5RX9XfjEJTy0FRwWYeQs0P`
+Snapshot ID: `AAAAAOpu3qGYHNlAFkQXtKGx5ALKhlmo`

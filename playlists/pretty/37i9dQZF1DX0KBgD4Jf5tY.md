@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Solo musica indipendente 🇮🇹, aggiornata il mercoledì\. <a href="spotify:artist:3CAvkzg7YIo57H9b4Zaz1J">Marta Guidoboni</a> in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,510 likes - 70 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,514 likes - 70 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 69 | [dove ti nascondi ???](https://open.spotify.com/track/2Z0aE2FteocEuxalX3e94s) | [FIFexclamation](https://open.spotify.com/artist/0KdZjC6G1gxuZCZ9GICrsk), [Werdn](https://open.spotify.com/artist/3nHhNTw0xLkmgPbbTJ3HqC) | [dove ti nascondi ???](https://open.spotify.com/album/3w1p3dLtE3aONWx4L4TgWB) | 2:32 |
 | 70 | [superSTAR](https://open.spotify.com/track/2qnsQDDO1MDJkrMzXAEPZM) | [JUCK](https://open.spotify.com/artist/76TFkKyjZt64sNPdTqJwqS), [Luchino Luce](https://open.spotify.com/artist/6wqUUpbLC6kOWt6FAMzDnH) | [superSTAR](https://open.spotify.com/album/7oLXQ32jGnlHkocY4moVu7) | 2:00 |
 
-Snapshot ID: `AAAAABHNgbkmhw6CPSEWQh6qjFlRrg6t`
+Snapshot ID: `AAAAAOwtQtxlU6/cvFYW3ZDSYY+2NVZA`

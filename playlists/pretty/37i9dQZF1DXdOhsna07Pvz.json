@@ -1,6 +1,6 @@
 {
   "description": "O balan\u00e7o \u00e9 certo: a sua festa de brasilidades t\u00e1 aqui!",
-  "num_followers": 103198,
+  "num_followers": 103322,
   "original_name": "Baile Maravilha",
   "owner": {
     "name": "Spotify",
@@ -295,6 +295,22 @@
     {
       "added_at": "2025-10-04 00:28:31",
       "album": {
+        "name": "Divino Maravilhoso - Gal Costa Interpreta Caetano Veloso",
+        "url": "https://open.spotify.com/album/0g95IMqM1BNSjYWwHEW0FZ"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 230493,
+      "name": "Voc\u00ea N\u00e3o Entende Nada",
+      "url": "https://open.spotify.com/track/2vlaOc3YYt7WLYIYxoJgYB"
+    },
+    {
+      "added_at": "2025-10-04 00:28:31",
+      "album": {
         "name": "Rita Lee",
         "url": "https://open.spotify.com/album/1WN3eZOVfULIjZfxdsfoMO"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 234893,
       "name": "Chega Mais",
       "url": "https://open.spotify.com/track/4DIabg0zSDn6xoq810Spqn"
-    },
-    {
-      "added_at": "2025-10-04 00:28:31",
-      "album": {
-        "name": "Divino Maravilhoso - Gal Costa Interpreta Caetano Veloso",
-        "url": "https://open.spotify.com/album/0g95IMqM1BNSjYWwHEW0FZ"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "duration_ms": 230493,
-      "name": "Voc\u00ea N\u00e3o Entende Nada",
-      "url": "https://open.spotify.com/track/2vlaOc3YYt7WLYIYxoJgYB"
     },
     {
       "added_at": "2025-10-04 00:28:31",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2025-10-04 00:28:31",
       "album": {
-        "name": "Welcome To The ORISHAS HOMELAND - In The Rhythm Of Nature And Faith",
-        "url": "https://open.spotify.com/album/5by1fUQXK4X0FvCJPavM7q"
+        "name": "Latin Grooves - Samba",
+        "url": "https://open.spotify.com/album/5GMVnDFZfxr5EyhEnGStdU"
       },
       "artists": [
         {
-          "name": "Faf\u00e1 de Bel\u00e9m",
-          "url": "https://open.spotify.com/artist/6n45wsxj6sDedgwEyTza6d"
+          "name": "Beth Carvalho",
+          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
         }
       ],
-      "duration_ms": 162600,
-      "name": "Emori\u00f4",
-      "url": "https://open.spotify.com/track/4e7c3Ti8I2ikPHIn36LDcn"
+      "duration_ms": 190133,
+      "name": "Vou Festejar",
+      "url": "https://open.spotify.com/track/6sZLKTlrntLVo7KoySzwFS"
     }
   ],
   "unique_name": "Baile Maravilha",

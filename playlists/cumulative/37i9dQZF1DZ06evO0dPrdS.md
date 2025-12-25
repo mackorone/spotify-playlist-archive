@@ -4,7 +4,7 @@
 
 > This is Spice Girls\. The essential tracks, all in one playlist.
 
-39 songs - 2 hr 46 min
+40 songs - 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Goodbye](https://open.spotify.com/track/6ZNw9Cnc85OeHZrjMAZJfY) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Forever](https://open.spotify.com/album/4jbWZmf7kRxCBD6tgVepYh) | 4:35 | 2025-10-28 |  |
 | [Headlines \(Friendship Never Ends\) \- Radio Version](https://open.spotify.com/track/4ll3zqElfObKDVSIitAIga) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Headlines \(Friendship Never Ends\)](https://open.spotify.com/album/57lvVchSIRneTpEjwdlKdi) | 3:29 | 2025-10-28 |  |
 | [Holler](https://open.spotify.com/track/1NwDWbpg9dPH12xBd2ibrv) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Forever](https://open.spotify.com/album/4jbWZmf7kRxCBD6tgVepYh) | 4:15 | 2025-10-28 |  |
+| [If You Wanna Have Some Fun](https://open.spotify.com/track/1tMHxkwWMUfh0HyMiRAY4I) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Forever](https://open.spotify.com/album/4jbWZmf7kRxCBD6tgVepYh) | 5:26 | 2025-12-25 |  |
 | [Let Love Lead The Way](https://open.spotify.com/track/5EE1Uzg0JvtBhs6TRs33R0) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Forever](https://open.spotify.com/album/4jbWZmf7kRxCBD6tgVepYh) | 4:58 | 2025-10-28 |  |
 | [Love Thing](https://open.spotify.com/track/61PwiYyJhF1HLi0OXomzQE) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 3:38 | 2025-10-28 |  |
 | [Mama](https://open.spotify.com/track/3dNv3OuX6ol9si6PZ9KSAh) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 5:04 | 2025-10-28 |  |
@@ -24,7 +25,7 @@
 | [Never Give Up On The Good Times](https://open.spotify.com/track/6RQnRYot6B3TPZsMbbSJ20) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld](https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX) | 4:30 | 2025-10-28 |  |
 | [One Of These Girls](https://open.spotify.com/track/7a901tm0xql6ytmNPIkS1C) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice \(25th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/6VIvQiUIOBMxjme8LYiUlU) | 3:33 | 2025-10-28 |  |
 | [Outer Space Girls](https://open.spotify.com/track/1XHosFpKcWkRtuxPQm0HnO) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld \(25th Anniversary\)](https://open.spotify.com/album/3diiYWB32h7c7Eo2x8oxjK) | 3:58 | 2025-10-28 |  |
-| [Right Back At Ya](https://open.spotify.com/track/2O8kqbUJS1vkL3x9mF7WzM) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Forever](https://open.spotify.com/album/4jbWZmf7kRxCBD6tgVepYh) | 4:11 | 2025-10-28 |  |
+| [Right Back At Ya](https://open.spotify.com/track/2O8kqbUJS1vkL3x9mF7WzM) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Forever](https://open.spotify.com/album/4jbWZmf7kRxCBD6tgVepYh) | 4:11 | 2025-10-28 | 2025-12-25 |
 | [Saturday Night Divas](https://open.spotify.com/track/3M83cWfWcFXtkavdM8NuEZ) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld](https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX) | 4:25 | 2025-10-28 |  |
 | [Say You'll Be There](https://open.spotify.com/track/1yTQ39my3MoNROlFw3RDNy) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 3:55 | 2025-10-28 |  |
 | [Say You'll Be There \- 7” Radio Mix](https://open.spotify.com/track/3uGTUf4AQvNkui75eLKide) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice \(25th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/6VIvQiUIOBMxjme8LYiUlU) | 4:08 | 2025-10-28 |  |

@@ -4,7 +4,7 @@
 
 > Los temas que prenden las fiestas navideñas y de fin de año en Colombia\. Foto: Lisandro Meza
 
-369 songs - 22 hr 27 min
+370 songs - 22 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,6 +280,7 @@
 | [Pa'l Bailador](https://open.spotify.com/track/6rsAqgBNLooUcpO060WSv4) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [32 Cañonazos](https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn) | 4:31 | 2023-11-09 | 2024-04-19 |
 | [Pagarás](https://open.spotify.com/track/5igVHLfyiWUXv9TjJU1XEa) | [Edgar Leandro](https://open.spotify.com/artist/10d4JDi4JARDgNucikrAcA) | [Éxitos Bailables de Siempre, Vol\. 4](https://open.spotify.com/album/3ozQLqRdVEcla43RGBZwTx) | 3:43 | 2023-12-20 | 2024-04-19 |
 | [Pagarás](https://open.spotify.com/track/5kVDY6RkFwR5Wj0GvH9ZOg) | [Edgar Leandro](https://open.spotify.com/artist/10d4JDi4JARDgNucikrAcA) | [20 Exitos Bailables](https://open.spotify.com/album/64HBjDa4l6wCRAreC1mSsX) | 3:48 | 2023-11-09 | 2023-12-14 |
+| [Parranda De Navidad](https://open.spotify.com/track/1BXjTw8PFbnINTje3RaYOn) | [La Súper Banda](https://open.spotify.com/artist/1MAXIsPNjPxCxZS6fdOSMJ) | [Navidad Colombiana \- Para Cantar Y Bailar La Novena De Aguinaldos](https://open.spotify.com/album/3P5Kp1FhrmAUaPRJ5QDU7O) | 4:00 | 2025-12-17 |  |
 | [Parranda De Navidad](https://open.spotify.com/track/3nIpZR9wXpZIoOuDZd9p6f) | [Tania](https://open.spotify.com/artist/19qTGIm0oATLXTyeacYCQP) | [15 Grandes Éxitos De Tania](https://open.spotify.com/album/5k18sQVSvcuQ5Vl2k3AWa7) | 3:53 | 2025-09-09 | 2025-10-04 |
 | [Patacón Pisa’o](https://open.spotify.com/track/0Vc1iKoBR2Sb0BXqDS8l7N) | [Juan Carlos Coronel](https://open.spotify.com/artist/7BM4VM2987j5qgnTkFjYMr), [El Nene & Sus Traviesos](https://open.spotify.com/artist/1irFgpskn3ZlLqwm6niwlZ) | [Patacon Pisao](https://open.spotify.com/album/0FwDGEZHUDZ5x6EEt8xhAy) | 4:25 | 2025-09-09 | 2025-10-04 |
 | [Pedacito de Mi Vida](https://open.spotify.com/track/7tlRIkYOBsmcVAjGGzgHTD) | [Celina Y Reutilio](https://open.spotify.com/artist/5vah85L323LvoowZhyAMhD) | [A Santa Bárbara..\. ¡Que Viva Chango!](https://open.spotify.com/album/09JAUsbiYp4oHukB0P7dYE) | 2:53 | 2023-11-09 | 2024-04-19 |
@@ -365,7 +366,7 @@
 | [Tu Amigo o Tu Amante](https://open.spotify.com/track/2GgBL5RYZafPzqfHJjn4p6) | [La Sabrosura](https://open.spotify.com/artist/2W3ROz699xenrLLblfUq5i) | [The Best Of](https://open.spotify.com/album/6lkHxEey00QbomsLj9h0Q3) | 4:45 | 2023-11-09 | 2024-04-19 |
 | [Tu Amigo o Tu Amante](https://open.spotify.com/track/42fHtUIjSnsfscHKjtHhxJ) | [La Sabrosura Orquesta](https://open.spotify.com/artist/5mudirGeAjQgkS2AaIQVCb) | [Música Tropical de Colombia \(Vol\. 17\)](https://open.spotify.com/album/2piKTi4UmcHi2eiZNjHIrx) | 4:44 | 2024-09-01 | 2024-10-18 |
 | [Tu Amigo o Tu Amante](https://open.spotify.com/track/4pvknJEcQuzyCj1b7KIkac) | [La Sabrosura Orquesta](https://open.spotify.com/artist/5mudirGeAjQgkS2AaIQVCb) | [Salsa Romántica: Lo Mejor de la Sabrosura](https://open.spotify.com/album/4Hoyewq2PnRCaGASIemZOZ) | 4:44 | 2023-12-20 | 2024-08-28 |
-| [Tu Ausencia](https://open.spotify.com/track/37stDm8VrYDRNBf0bzbqH9) | [Los Tupamaros](https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo), [Juan Carlos Acosta](https://open.spotify.com/artist/5q4pTWCJHzxcxB2faDCmjn) | [Éxitos los Tupamaros](https://open.spotify.com/album/6LmdmdH4QOVPXNqkdr9RWM) | 3:14 | 2023-12-20 |  |
+| [Tu Ausencia](https://open.spotify.com/track/37stDm8VrYDRNBf0bzbqH9) | [Los Tupamaros](https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo), [Juan Carlos Acosta](https://open.spotify.com/artist/5q4pTWCJHzxcxB2faDCmjn) | [Éxitos los Tupamaros](https://open.spotify.com/album/6LmdmdH4QOVPXNqkdr9RWM) | 3:14 | 2023-12-20 | 2025-12-25 |
 | [Tu Hora Pasó](https://open.spotify.com/track/0CVLRvqGHaG38Mw86QVhuo) | [Fernando Burbano](https://open.spotify.com/artist/23nWkdjjAlopi1pF5KwrD6) | [Grandes Exitos](https://open.spotify.com/album/0QPKuA73byh081OeZVmHxI) | 3:04 | 2023-02-03 | 2024-09-02 |
 | [Tú Pasaje al Olvido](https://open.spotify.com/track/5VENH9rLewIMEHhSArsJkg) | [Luisito Muñoz](https://open.spotify.com/artist/0ajy8rupiCOgvmsOtaG83P), [Fernando Burbano](https://open.spotify.com/artist/23nWkdjjAlopi1pF5KwrD6) | [Mas Romántico Que Nunca](https://open.spotify.com/album/6nhrASXzyEsC34PfdO7OEa) | 4:01 | 2023-02-03 | 2024-09-02 |
 | [Un Amor Nuevo](https://open.spotify.com/track/6rKmXI301yQOsDaUYpVrYW) | [Arelys Henao](https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC) | [Reina Sin Rey](https://open.spotify.com/album/2fECMt9Lkan8sO5MfGoc49) | 3:01 | 2023-02-03 | 2024-09-02 |

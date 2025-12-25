@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: Luar La L
 
-[Spotify](https://open.spotify.com/user/spotify) - 545,505 likes - 135 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 545,563 likes - 135 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

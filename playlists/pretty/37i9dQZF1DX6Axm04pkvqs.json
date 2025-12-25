@@ -1,6 +1,6 @@
 {
   "description": "When my mouth has no words, let my spirit sing",
-  "num_followers": 66354,
+  "num_followers": 66407,
   "original_name": "Worship Chants",
   "owner": {
     "name": "Spotify",
@@ -1201,6 +1201,26 @@
       "url": "https://open.spotify.com/track/78QThdGhUVsZVq1ieC2Wm8"
     },
     {
+      "added_at": "2025-03-07 00:01:32",
+      "album": {
+        "name": "Hallelujah Chant",
+        "url": "https://open.spotify.com/album/6wWdwa33ovvntJ35BADYRv"
+      },
+      "artists": [
+        {
+          "name": "Noble G",
+          "url": "https://open.spotify.com/artist/5QMR3QbX1ufqYCWPsphyUm"
+        },
+        {
+          "name": "Nosa",
+          "url": "https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4"
+        }
+      ],
+      "duration_ms": 295477,
+      "name": "Hallelujah Chant (Ruach Hakodesh)",
+      "url": "https://open.spotify.com/track/39sTVazPHh5IB8SdWNgLha"
+    },
+    {
       "added_at": "2024-07-26 00:01:00",
       "album": {
         "name": "Worship Session (Live)",
@@ -1225,26 +1245,6 @@
       "url": "https://open.spotify.com/track/3Wl0zyeRCieaF2hBN3q5du"
     },
     {
-      "added_at": "2025-03-07 00:01:32",
-      "album": {
-        "name": "Hallelujah Chant",
-        "url": "https://open.spotify.com/album/6wWdwa33ovvntJ35BADYRv"
-      },
-      "artists": [
-        {
-          "name": "Noble G",
-          "url": "https://open.spotify.com/artist/5QMR3QbX1ufqYCWPsphyUm"
-        },
-        {
-          "name": "Nosa",
-          "url": "https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4"
-        }
-      ],
-      "duration_ms": 295477,
-      "name": "Hallelujah Chant (Ruach Hakodesh)",
-      "url": "https://open.spotify.com/track/39sTVazPHh5IB8SdWNgLha"
-    },
-    {
       "added_at": "2024-07-26 00:01:00",
       "album": {
         "name": "The Zamar Experience",
@@ -1261,22 +1261,6 @@
       "url": "https://open.spotify.com/track/3Q4IU160DfWbjRJnRVZwe0"
     },
     {
-      "added_at": "2025-10-17 00:01:26",
-      "album": {
-        "name": "We Bless You Lord (Chant)",
-        "url": "https://open.spotify.com/album/1W9K0AwSqAk22B63mvHZcC"
-      },
-      "artists": [
-        {
-          "name": "Adura Ojofeitimi",
-          "url": "https://open.spotify.com/artist/135hnlf8uzG00qITSjtM2V"
-        }
-      ],
-      "duration_ms": 494396,
-      "name": "We Bless You Lord (Chant)",
-      "url": "https://open.spotify.com/track/2JekJNFUyLBsuqZPtSO0YJ"
-    },
-    {
       "added_at": "2024-07-26 00:01:00",
       "album": {
         "name": "Holyghost",
@@ -1291,6 +1275,22 @@
       "duration_ms": 342580,
       "name": "Holyghost",
       "url": "https://open.spotify.com/track/5DK8nQppYFosgt9BspPeT6"
+    },
+    {
+      "added_at": "2025-10-17 00:01:26",
+      "album": {
+        "name": "We Bless You Lord (Chant)",
+        "url": "https://open.spotify.com/album/1W9K0AwSqAk22B63mvHZcC"
+      },
+      "artists": [
+        {
+          "name": "Adura Ojofeitimi",
+          "url": "https://open.spotify.com/artist/135hnlf8uzG00qITSjtM2V"
+        }
+      ],
+      "duration_ms": 494396,
+      "name": "We Bless You Lord (Chant)",
+      "url": "https://open.spotify.com/track/2JekJNFUyLBsuqZPtSO0YJ"
     },
     {
       "added_at": "2024-08-23 00:01:00",
@@ -1357,22 +1357,6 @@
       "url": "https://open.spotify.com/track/70GaF6ifYZpt4i2IQNfw2y"
     },
     {
-      "added_at": "2025-08-01 00:01:33",
-      "album": {
-        "name": "Worship Chant",
-        "url": "https://open.spotify.com/album/6hg5OCeiiEkuyXBxFn8paI"
-      },
-      "artists": [
-        {
-          "name": "Pastor Courage",
-          "url": "https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf"
-        }
-      ],
-      "duration_ms": 272500,
-      "name": "Worship Chant",
-      "url": "https://open.spotify.com/track/2ej9lKkbm0OTZynfD6kJdx"
-    },
-    {
       "added_at": "2024-09-20 00:01:00",
       "album": {
         "name": "The Conqueror\u2019s Chant (Agalliao)",
@@ -1387,6 +1371,22 @@
       "duration_ms": 524409,
       "name": "The Conqueror\u2019s Chant (Agalliao)",
       "url": "https://open.spotify.com/track/0INx5pqvfPfD9ZkqsOaM03"
+    },
+    {
+      "added_at": "2025-08-01 00:01:33",
+      "album": {
+        "name": "Worship Chant",
+        "url": "https://open.spotify.com/album/6hg5OCeiiEkuyXBxFn8paI"
+      },
+      "artists": [
+        {
+          "name": "Pastor Courage",
+          "url": "https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf"
+        }
+      ],
+      "duration_ms": 272500,
+      "name": "Worship Chant",
+      "url": "https://open.spotify.com/track/2ej9lKkbm0OTZynfD6kJdx"
     },
     {
       "added_at": "2024-07-26 00:01:00",

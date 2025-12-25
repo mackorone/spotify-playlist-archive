@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-25",
       "duration_ms": 149166,
       "name": "126 hz LPF Brown Noise",
       "url": "https://open.spotify.com/track/0CR2sYL6dGeIpgpZigcR0t"
@@ -664,7 +664,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-25",
       "duration_ms": 214000,
       "name": "Brown Noise 320 Hz",
       "url": "https://open.spotify.com/track/3eOeRly00MkRZdXE87wd4j"
@@ -1856,6 +1856,24 @@
       "duration_ms": 180911,
       "name": "Brown Noise REM",
       "url": "https://open.spotify.com/track/6i0UjMkl7g9TcP7cLGyMND"
+    },
+    {
+      "album": {
+        "name": "Brown Noise Revival",
+        "url": "https://open.spotify.com/album/0Y0v3kvcNJN2uP0V2wVeZ3"
+      },
+      "artists": [
+        {
+          "name": "William R. Walker",
+          "url": "https://open.spotify.com/artist/08naVjWqOcpcZInrTpQ8bu"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187814,
+      "name": "Brown Noise Revival",
+      "url": "https://open.spotify.com/track/0Etkr9kznyFaWC14jKMm61"
     },
     {
       "album": {
@@ -3692,6 +3710,24 @@
       "duration_ms": 122618,
       "name": "Hora De Acostarse",
       "url": "https://open.spotify.com/track/3LuLux6nTGTAfv19YraF0I"
+    },
+    {
+      "album": {
+        "name": "Humming Brown Noise",
+        "url": "https://open.spotify.com/album/58dbO45TAMhze7Gm31koOs"
+      },
+      "artists": [
+        {
+          "name": "Symphony of Noises",
+          "url": "https://open.spotify.com/artist/0gju4pLAHiP2XhvPXy5Irj"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178285,
+      "name": "Humming Brown Noise",
+      "url": "https://open.spotify.com/track/1NCoyaBjVYHuvP4rv8KEfX"
     },
     {
       "album": {

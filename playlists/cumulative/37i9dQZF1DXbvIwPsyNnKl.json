@@ -119,6 +119,28 @@
     },
     {
       "album": {
+        "name": "2G",
+        "url": "https://open.spotify.com/album/0oIicRHOSYtAZ2UeR1POdi"
+      },
+      "artists": [
+        {
+          "name": "Al James",
+          "url": "https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm"
+        },
+        {
+          "name": "Because",
+          "url": "https://open.spotify.com/artist/0n4a5imdLBN24fIrBWoqrv"
+        }
+      ],
+      "date_added": "2025-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224262,
+      "name": "2G",
+      "url": "https://open.spotify.com/track/2Ok7fybrV9UE0jOn6adOpU"
+    },
+    {
+      "album": {
         "name": "3 AM",
         "url": "https://open.spotify.com/album/4c1eaKMLG6YMdQ8f08tXgY"
       },
@@ -2439,6 +2461,32 @@
     },
     {
       "album": {
+        "name": "GG4 \"Shiesty at Gorilla\"",
+        "url": "https://open.spotify.com/album/7rJ5NWcSKGYtyh7cAZbwQo"
+      },
+      "artists": [
+        {
+          "name": "Wing Goods",
+          "url": "https://open.spotify.com/artist/23NRuMfzEnH4qMODcsaE6E"
+        },
+        {
+          "name": "Sica",
+          "url": "https://open.spotify.com/artist/0lPbEIq95kQF2Xlbbp0y4B"
+        },
+        {
+          "name": "Gaspari",
+          "url": "https://open.spotify.com/artist/32pwg5wo0jdAWgDIAiKKzi"
+        }
+      ],
+      "date_added": "2025-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194245,
+      "name": "GG4 \"Shiesty at Gorilla\"",
+      "url": "https://open.spotify.com/track/1LXicYvSHPZ3qSCu5wmua1"
+    },
+    {
+      "album": {
         "name": "2Joints & Harmony",
         "url": "https://open.spotify.com/album/1S6eRgOjstTyFejRWOf58L"
       },
@@ -2758,7 +2806,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-25",
       "duration_ms": 201600,
       "name": "Highball",
       "url": "https://open.spotify.com/track/0XFGybhmjfkuJpGABgFyw3"
@@ -4946,7 +4994,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-25",
       "duration_ms": 141500,
       "name": "ORIGAMI",
       "url": "https://open.spotify.com/track/4kLHNZdanMm46y8SLUM95T"
@@ -5118,6 +5166,28 @@
       "duration_ms": 167272,
       "name": "Panauhin",
       "url": "https://open.spotify.com/track/756k320jmGzGneEyIs8LwX"
+    },
+    {
+      "album": {
+        "name": "Panis ka boy",
+        "url": "https://open.spotify.com/album/2R13YF9EIINCeBOVdXdeCJ"
+      },
+      "artists": [
+        {
+          "name": "GA Chillerong Ghetto",
+          "url": "https://open.spotify.com/artist/3F76U6bJP4xJrxHqB0j8al"
+        },
+        {
+          "name": "Paul N Ballin",
+          "url": "https://open.spotify.com/artist/0Hd8r7OHPwGn4ao1e0PYAu"
+        }
+      ],
+      "date_added": "2025-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178604,
+      "name": "Panis ka boy",
+      "url": "https://open.spotify.com/track/7IhDoHptmogxTg5aTMgHWd"
     },
     {
       "album": {
@@ -5490,7 +5560,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-25",
       "duration_ms": 317184,
       "name": "PTI",
       "url": "https://open.spotify.com/track/3X32Vt6ymYE3HHzQ9GePJV"
@@ -5720,7 +5790,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-25",
       "duration_ms": 209032,
       "name": "Republika Ng Tambay",
       "url": "https://open.spotify.com/track/1istlVUhddMaPxu1iqCSuq"
@@ -5742,6 +5812,28 @@
       "duration_ms": 192005,
       "name": "RLMSC",
       "url": "https://open.spotify.com/track/6X5UkaZ2tKDewzip4gR1ox"
+    },
+    {
+      "album": {
+        "name": "Rosas",
+        "url": "https://open.spotify.com/album/2dWmk1bspTUprZWi1ybGf7"
+      },
+      "artists": [
+        {
+          "name": "Yuridope",
+          "url": "https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY"
+        },
+        {
+          "name": "Skusta Clee",
+          "url": "https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc"
+        }
+      ],
+      "date_added": "2025-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250058,
+      "name": "Rosas",
+      "url": "https://open.spotify.com/track/7o1BMqnl3zLTd7RrF4oVTg"
     },
     {
       "album": {
