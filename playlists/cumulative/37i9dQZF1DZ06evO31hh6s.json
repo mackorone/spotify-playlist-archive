@@ -206,7 +206,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-16",
+      "date_removed": null,
       "duration_ms": 212805,
       "name": "Apparently",
       "url": "https://open.spotify.com/track/386DhHFXyxwwWG0AUZoiGS"
@@ -370,7 +370,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-24",
+      "date_removed": null,
       "duration_ms": 181500,
       "name": "Born Alone, Die Alone",
       "url": "https://open.spotify.com/track/2eGum7AB3y8Rn9Cnxezr6q"
@@ -1100,7 +1100,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 205000,
       "name": "Grow Up",
       "url": "https://open.spotify.com/track/1nLGGdsWhyarkUVxox1Yaa"
@@ -1428,7 +1428,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 301239,
       "name": "IMMORTALIZED",
       "url": "https://open.spotify.com/track/5IKnQVhGUxRnviKa8pk37T"
@@ -2049,6 +2049,32 @@
     },
     {
       "album": {
+        "name": "Souljahz 2 Generalz",
+        "url": "https://open.spotify.com/album/0BRDD3HPrSpGZNtpJ5ib8c"
+      },
+      "artists": [
+        {
+          "name": "Yhung T.O.",
+          "url": "https://open.spotify.com/artist/1Yss4ClgrS9sIprNlq5O3l"
+        },
+        {
+          "name": "E.D.I. Mean",
+          "url": "https://open.spotify.com/artist/2PLfAUDdt1zaP2rPvJ0L1m"
+        },
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        }
+      ],
+      "date_added": "2025-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213738,
+      "name": "OVERCOME (feat. Young Noble)",
+      "url": "https://open.spotify.com/track/18rzNFwWO8hzQOaSSCblVI"
+    },
+    {
+      "album": {
         "name": "PAC ENERGY",
         "url": "https://open.spotify.com/album/6FLx0S9PmZMUVpZ7gLsyVG"
       },
@@ -2156,7 +2182,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 176626,
       "name": "People Say",
       "url": "https://open.spotify.com/track/2iarnTyfh9kLzdT7oh9dDi"

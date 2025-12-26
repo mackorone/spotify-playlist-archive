@@ -4,7 +4,7 @@
 
 > Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus\. Cover: CeCe Winans
 
-514 songs - 1 day 9 hr 21 min
+515 songs - 1 day 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -383,6 +383,7 @@
 | [O Holy Night / What Child Is This](https://open.spotify.com/track/2epIt2zQDfFfC2keSYisDd) | [Metro Collective Worship](https://open.spotify.com/artist/3v3nuJodbuZr1ofB6Aqzrn), [Lauren Chatfield](https://open.spotify.com/artist/58775WYEyLqBL6WH6Zu7L6), [Johnny McCormick](https://open.spotify.com/artist/4Dw0KzLyBf9u9cfVmjR22X), [Marcell Burke](https://open.spotify.com/artist/1CFiySFi2hq52d6wIt7O2N) | [O Holy Night / What Child Is This](https://open.spotify.com/album/7JDwpyjlxqxtZBSC7ehHqU) | 4:46 | 2024-11-23 | 2025-12-13 |
 | [O Little Town Of Bethlehem](https://open.spotify.com/track/4shQSnSGk0PnbzAOsp16BJ) | [David Brymer](https://open.spotify.com/artist/7GTnr8474MiGyAxQBXTdap), [Chris Beland](https://open.spotify.com/artist/589onAR28YIA48jFpfyEMT) | [O Little Town Of Bethlehem](https://open.spotify.com/album/0cSQ0JTIPidDhcsIUgowRJ) | 5:25 | 2024-10-27 | 2025-01-26 |
 | [O What A King](https://open.spotify.com/track/4ZYP7XI3QZC0d1Zp2psPKn) | [Katy Nichole](https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC) | [O What A King](https://open.spotify.com/album/46eot52LKOTnBwDwIdOMfu) | 3:14 | 2022-11-26 |  |
+| [O' What a Gift](https://open.spotify.com/track/34c8IY8BIua7yazJJkXJhD) | [Essence Natay](https://open.spotify.com/artist/6CBOrBHVUHNz4sMFic0Tux) | [O' What a Gift](https://open.spotify.com/album/5qljKJVL1KZm83TXqEgjnk) | 3:28 | 2025-12-12 |  |
 | [Oh Come All Ye Faithful \- Single Version](https://open.spotify.com/track/5ZC6CQUiZBgrqoYDviM3aV) | [Thrive Worship](https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72) | [Oh Come All Ye Faithful](https://open.spotify.com/album/18Gkhoj0Bddbm5uqzzgu78) | 3:04 | 2024-07-31 | 2024-12-26 |
 | [Oh Come Let Us Adore Him \(Oh Come All Ye Faithful\) \- Live](https://open.spotify.com/track/3NcdK9IrUdoONpo2GGp9p1) | [Jovonta Patton](https://open.spotify.com/artist/28z9vFNyY8Gs7xJNfIYPSC) | [A Cali Christmas \(Live\)](https://open.spotify.com/album/4mVSm8mTjekvNy6xx7ZLSq) | 4:13 | 2024-12-13 | 2025-04-29 |
 | [Oh Holy Night](https://open.spotify.com/track/2Qz5hPpCS3txLnOPnDQdbA) | [Savannah Locke](https://open.spotify.com/artist/0GGJB62JqywhEnwBPGwOGb) | [Oh Holy Night](https://open.spotify.com/album/7tbCilcZqkskC7Oef8ucBS) | 3:39 | 2022-11-26 | 2023-01-02 |
@@ -445,7 +446,7 @@
 | [The First Christmas](https://open.spotify.com/track/4hbAE2LJzCupitJ898V6k4) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [The First Christmas](https://open.spotify.com/album/69ob5WRhc4ftmaSr9A3I90) | 3:53 | 2021-12-11 |  |
 | [The First Noel](https://open.spotify.com/track/57gAliJz7TiUxAmdNA5juk) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [The First Noel](https://open.spotify.com/album/3cszSYyCFlDPrCdcuN2nSe) | 3:23 | 2022-12-11 |  |
 | [The First Noel](https://open.spotify.com/track/0zZS5f3qS0iql0GNmapr2C) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [The First Noel](https://open.spotify.com/album/2xws45Dyh4qmerwUIUzXOK) | 2:56 | 2025-11-16 |  |
-| [The First Noel](https://open.spotify.com/track/3OB4YP9W1TVGdShdRKKaba) | [Christian Paul](https://open.spotify.com/artist/1Bfi1Jw2HGVbOEjOdtApOe) | [The First Noel](https://open.spotify.com/album/5Hgm1Azgur0Q98EWKry8VB) | 2:47 | 2024-12-13 |  |
+| [The First Noel](https://open.spotify.com/track/3OB4YP9W1TVGdShdRKKaba) | [Christian Paul](https://open.spotify.com/artist/1Bfi1Jw2HGVbOEjOdtApOe) | [The First Noel](https://open.spotify.com/album/5Hgm1Azgur0Q98EWKry8VB) | 2:47 | 2024-12-13 | 2025-12-26 |
 | [The First Noel](https://open.spotify.com/track/0GBlcKQjHBVMsQGDnwE2Cs) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Majesty Rose](https://open.spotify.com/artist/02EQJ0mRKStgr0uN1qBfYz) | [Maverick City Christmas](https://open.spotify.com/album/3zLMIw0wBGpIaGNox8oiKH) | 3:47 | 2021-12-11 | 2022-07-28 |
 | [The First Noel](https://open.spotify.com/track/2MQYkvXbOoqnym1nRSLBRa) | [Rock City Worship](https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB) | [The First Noel](https://open.spotify.com/album/0a4mMQCuG7be9wNRgbtuZl) | 3:30 | 2021-12-24 | 2022-07-29 |
 | [The First Noel](https://open.spotify.com/track/4PrJBQfMftpMcuzchztO8r) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [The First Noel](https://open.spotify.com/album/4xfqjNEA1tJpZsTE4SJ5eh) | 4:48 | 2022-11-26 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,067 likes - 312 songs - 17 hr 54 min
+[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,068 likes - 315 songs - 18 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -305,20 +305,23 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 | 295 | [Emo Dancing](https://open.spotify.com/track/3Oaul3W1QAfjbTOY7P1lpf) | [The Galacticas](https://open.spotify.com/artist/3OqM9wx94VLVevksMclrGI) | [Planned Obsolescence](https://open.spotify.com/album/4DOu5lRGwahVpAoUewAFN2) | 3:15 |
 | 296 | [merry christmas little boy \- hypertechno](https://open.spotify.com/track/0mj5XecQvruMtWAS4vFCgf) | [Zapfhahnparty](https://open.spotify.com/artist/2oyb5tx0uO28TzbIFUh9Ak) | [merry christmas little boy \(hypertechno\)](https://open.spotify.com/album/79QYYk90ywcUuPl1qnB1uq) | 1:23 |
 | 297 | [Age of Aquarius](https://open.spotify.com/track/240S4AH0AvoM75oZ7PDk2Y) | [Regina](https://open.spotify.com/artist/4ed2jHmlm4FWzcKrYyzRKL) | [Age of Aquarius](https://open.spotify.com/album/6ej2r12pNYvAmXOTKcD52k) | 3:27 |
-| 298 | [Born of the Breakdown](https://open.spotify.com/track/3tdMJuaIsk05jrDdRcjZsQ) | [Pigeon Biker](https://open.spotify.com/artist/6dSWYLsbwX1qllF6umfuqy) | [Born of the Breakdown](https://open.spotify.com/album/7r67WqnroZfYbdUl42jVPz) | 2:56 |
-| 299 | [Cold Void](https://open.spotify.com/track/46pjjVVYE51cPqXUviBUw7) | [Adeline Gray](https://open.spotify.com/artist/4RP2iD2ElroBUpaW1I8Xb9) | [Cold Void](https://open.spotify.com/album/4U5TZLO36RiUtZq9BJTFkj) | 6:32 |
-| 300 | [Ramonero](https://open.spotify.com/track/4bJg7Dj1Gv7Hd3sSL2IH9R) | [Miguelitos](https://open.spotify.com/artist/0fDfcP4CbwLJixjlJaxVCr) | [En las Calles](https://open.spotify.com/album/1fuUMBZtdNexMPKqp05T0J) | 2:11 |
-| 301 | [NecroMantis](https://open.spotify.com/track/5aaxfg4g3b99y5844DHu4B) | [Stitched Up](https://open.spotify.com/artist/762Cxbk76fKqLFirQVM3Q5) | [Jupiter Jazz And The Suicide Cult](https://open.spotify.com/album/48GBDYow9DdWaJz2GoOBQh) | 6:18 |
-| 302 | [Viva Rápido](https://open.spotify.com/track/2z1MgbekwalIeE18JOxeFE) | [Marinas Found](https://open.spotify.com/artist/3PucetF9C8ZIfnEfqCInW9) | [Viva Rápido](https://open.spotify.com/album/5fI8WmssWgMktMOLhKIQZX) | 4:29 |
-| 303 | [We Met In Our Eyes](https://open.spotify.com/track/6HZjgiD2rvIILnO0Mza8nf) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [We Met In Our Eyes](https://open.spotify.com/album/0evetXbbhKlMFJNwwiVXwx) | 4:21 |
-| 304 | [No Way Out](https://open.spotify.com/track/1V9Ppeaje63GtMpRaCX6A1) | [No Fucking Good](https://open.spotify.com/artist/7xu0zu8LsAeUDdOxWI9iHS) | [No Way Out](https://open.spotify.com/album/4OuhbxgeJ1useRxal9Oq1H) | 3:57 |
-| 305 | [Icarus Waltz](https://open.spotify.com/track/37qu1BN6eNFBhLQzw5yL6H) | [FYNN](https://open.spotify.com/artist/7eQMNHftIP2NlWsHkXOBSf) | [Icarus Waltz](https://open.spotify.com/album/1wezJ1s8GGRj9dgPHOWJD4) | 2:48 |
-| 306 | [Let's Do It Again](https://open.spotify.com/track/0tZ9lz19MPyCJDlOQ078NO) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Let's Do It Again](https://open.spotify.com/album/5cfYAyMa2BN1b8yup5F6TL) | 4:28 |
-| 307 | [Avoidant](https://open.spotify.com/track/1fWwlZVec79sMQ4rMNngII) | [choline](https://open.spotify.com/artist/0oIJkLO0Wbca0flyK0nvfT) | [Avoidant](https://open.spotify.com/album/1W4Z4uVk0FJ2FhEhtMmCMo) | 4:25 |
-| 308 | [Homework Forever](https://open.spotify.com/track/5EBAcYsLz8yVFBjzNirEt7) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Homework Forever](https://open.spotify.com/album/4ZV5lF2tPgdP36xQH1lLSQ) | 2:56 |
-| 309 | [Ghost In The Tide](https://open.spotify.com/track/50SPgAAHSZshpCHZ30AJow) | [Cryptronik](https://open.spotify.com/artist/0vbG9klL79IuVQ8RJGDI2n) | [Dawn Of The Forsaken](https://open.spotify.com/album/5njzvnU561N8bqimIG9oaU) | 3:50 |
-| 310 | [I Spy](https://open.spotify.com/track/13WUCGEcRl0lnn66wJaAne) | [Citylightz](https://open.spotify.com/artist/3Bz1JVhGEwBK6iIHHx7M7o) | [I Spy](https://open.spotify.com/album/47AzLJfduyzsDgndlE63OI) | 3:14 |
-| 311 | [BIRDBRAIN](https://open.spotify.com/track/6krF3cc86VrHTojqLJsNZX) | [BAIKAL](https://open.spotify.com/artist/1Ic18THJhrkih00C2LyczI) | [Baikal](https://open.spotify.com/album/1ZUAbfumLk9K2KfL1ESZ5s) | 4:22 |
-| 312 | [ALL MY FRIENDS](https://open.spotify.com/track/4LOqG8S1DIMwxJZvdx98cE) | [Tygers of Wrath](https://open.spotify.com/artist/6vGbDm4f3JsCq7ftXq5Xba) | [Get Ready!](https://open.spotify.com/album/1lDzx28rHjWtLB6oI3RpCI) | 1:37 |
+| 298 | [Graveyard Sweetheart](https://open.spotify.com/track/4X9aqdTz0L02xF2POPHZFV) | [Triiiplesixxx](https://open.spotify.com/artist/55rQFsoNEHp3uIpF8mrhDI) | [Graveyard Sweetheart](https://open.spotify.com/album/21E6vOZbzVqeWIIYFGUUxN) | 2:21 |
+| 299 | [Born of the Breakdown](https://open.spotify.com/track/3tdMJuaIsk05jrDdRcjZsQ) | [Pigeon Biker](https://open.spotify.com/artist/6dSWYLsbwX1qllF6umfuqy) | [Born of the Breakdown](https://open.spotify.com/album/7r67WqnroZfYbdUl42jVPz) | 2:56 |
+| 300 | [Cold Void](https://open.spotify.com/track/46pjjVVYE51cPqXUviBUw7) | [Adeline Gray](https://open.spotify.com/artist/4RP2iD2ElroBUpaW1I8Xb9) | [Cold Void](https://open.spotify.com/album/4U5TZLO36RiUtZq9BJTFkj) | 6:32 |
+| 301 | [Ramonero](https://open.spotify.com/track/4bJg7Dj1Gv7Hd3sSL2IH9R) | [Miguelitos](https://open.spotify.com/artist/0fDfcP4CbwLJixjlJaxVCr) | [En las Calles](https://open.spotify.com/album/1fuUMBZtdNexMPKqp05T0J) | 2:11 |
+| 302 | [NecroMantis](https://open.spotify.com/track/5aaxfg4g3b99y5844DHu4B) | [Stitched Up](https://open.spotify.com/artist/762Cxbk76fKqLFirQVM3Q5) | [Jupiter Jazz And The Suicide Cult](https://open.spotify.com/album/48GBDYow9DdWaJz2GoOBQh) | 6:18 |
+| 303 | [Viva Rápido](https://open.spotify.com/track/2z1MgbekwalIeE18JOxeFE) | [Marinas Found](https://open.spotify.com/artist/3PucetF9C8ZIfnEfqCInW9) | [Viva Rápido](https://open.spotify.com/album/5fI8WmssWgMktMOLhKIQZX) | 4:29 |
+| 304 | [We Met In Our Eyes](https://open.spotify.com/track/6HZjgiD2rvIILnO0Mza8nf) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [We Met In Our Eyes](https://open.spotify.com/album/0evetXbbhKlMFJNwwiVXwx) | 4:21 |
+| 305 | [No Way Out](https://open.spotify.com/track/1V9Ppeaje63GtMpRaCX6A1) | [No Fucking Good](https://open.spotify.com/artist/7xu0zu8LsAeUDdOxWI9iHS) | [No Way Out](https://open.spotify.com/album/4OuhbxgeJ1useRxal9Oq1H) | 3:57 |
+| 306 | [Icarus Waltz](https://open.spotify.com/track/37qu1BN6eNFBhLQzw5yL6H) | [FYNN](https://open.spotify.com/artist/7eQMNHftIP2NlWsHkXOBSf) | [Icarus Waltz](https://open.spotify.com/album/1wezJ1s8GGRj9dgPHOWJD4) | 2:48 |
+| 307 | [Let's Do It Again](https://open.spotify.com/track/0tZ9lz19MPyCJDlOQ078NO) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Let's Do It Again](https://open.spotify.com/album/5cfYAyMa2BN1b8yup5F6TL) | 4:28 |
+| 308 | [Avoidant](https://open.spotify.com/track/1fWwlZVec79sMQ4rMNngII) | [choline](https://open.spotify.com/artist/0oIJkLO0Wbca0flyK0nvfT) | [Avoidant](https://open.spotify.com/album/1W4Z4uVk0FJ2FhEhtMmCMo) | 4:25 |
+| 309 | [Homework Forever](https://open.spotify.com/track/5EBAcYsLz8yVFBjzNirEt7) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Homework Forever](https://open.spotify.com/album/4ZV5lF2tPgdP36xQH1lLSQ) | 2:56 |
+| 310 | [Ghost In The Tide](https://open.spotify.com/track/50SPgAAHSZshpCHZ30AJow) | [Cryptronik](https://open.spotify.com/artist/0vbG9klL79IuVQ8RJGDI2n) | [Dawn Of The Forsaken](https://open.spotify.com/album/5njzvnU561N8bqimIG9oaU) | 3:50 |
+| 311 | [I Spy](https://open.spotify.com/track/13WUCGEcRl0lnn66wJaAne) | [Citylightz](https://open.spotify.com/artist/3Bz1JVhGEwBK6iIHHx7M7o) | [I Spy](https://open.spotify.com/album/47AzLJfduyzsDgndlE63OI) | 3:14 |
+| 312 | [BIRDBRAIN](https://open.spotify.com/track/6krF3cc86VrHTojqLJsNZX) | [BAIKAL](https://open.spotify.com/artist/1Ic18THJhrkih00C2LyczI) | [Baikal](https://open.spotify.com/album/1ZUAbfumLk9K2KfL1ESZ5s) | 4:22 |
+| 313 | [ALL MY FRIENDS](https://open.spotify.com/track/4LOqG8S1DIMwxJZvdx98cE) | [Tygers of Wrath](https://open.spotify.com/artist/6vGbDm4f3JsCq7ftXq5Xba) | [Get Ready!](https://open.spotify.com/album/1lDzx28rHjWtLB6oI3RpCI) | 1:37 |
+| 314 | [Grown Up](https://open.spotify.com/track/1El7h6rWS5ZHLeXVMGWMDI) | [The DT's](https://open.spotify.com/artist/6SD8VqIT4EO7YVA2to3ZRZ) | [Grown Up](https://open.spotify.com/album/3jDQljn8CzAVOMZVdc7dlh) | 3:16 |
+| 315 | [Glossy Cover](https://open.spotify.com/track/4yK0qEK134tVyaNcoRx4qw) | [Vasch](https://open.spotify.com/artist/5cOG2PUwppnjhU7rlWLeaY) | [Glossy Cover](https://open.spotify.com/album/0fC5YSOcEvWVE1SIMUuLgg) | 3:02 |
 
-Snapshot ID: `AAAI5lQecJysOh8WZ3x3jEDBhwhI7zd3`
+Snapshot ID: `AAAI6H7WaD6xW/pdYPIrnB5FtI9VCD0R`

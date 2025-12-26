@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Photo : Soolking x Lossa",
+  "description": "Photo : Jul",
   "name": "Best Life",
   "tracks": [
     {
@@ -2999,6 +2999,24 @@
     },
     {
       "album": {
+        "name": "FOCUS",
+        "url": "https://open.spotify.com/album/2wW4H228Gue9xprBQ5hW5Z"
+      },
+      "artists": [
+        {
+          "name": "Ashvma",
+          "url": "https://open.spotify.com/artist/46fYppQRc2dAeDAMnrVb6R"
+        }
+      ],
+      "date_added": "2025-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138005,
+      "name": "FOCUS",
+      "url": "https://open.spotify.com/track/29rkopcjI0XyhncrHOdWm0"
+    },
+    {
+      "album": {
         "name": "Follow",
         "url": "https://open.spotify.com/album/6HCgLXR7FISyZ4n9689t26"
       },
@@ -4740,7 +4758,7 @@
       ],
       "date_added": "2025-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 156676,
       "name": "Melrose Place",
       "url": "https://open.spotify.com/track/3SBBYSbzkLvx96bKzneYsF"
@@ -6064,7 +6082,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 133533,
       "name": "PES 6",
       "url": "https://open.spotify.com/track/3fF0TgRYEaxQaMPwxeayrU"
@@ -6582,6 +6600,28 @@
       "duration_ms": 145454,
       "name": "Que du r\u00e9el #4 - Oh my God",
       "url": "https://open.spotify.com/track/3n3MEYOWxH32NBP78fCQjA"
+    },
+    {
+      "album": {
+        "name": "Que tu quieres",
+        "url": "https://open.spotify.com/album/65CMeg5l3XqlVYjHeXyugT"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        },
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        }
+      ],
+      "date_added": "2025-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223880,
+      "name": "Que tu quieres",
+      "url": "https://open.spotify.com/track/4xts0kdUEi4Xlqy6LldP3g"
     },
     {
       "album": {

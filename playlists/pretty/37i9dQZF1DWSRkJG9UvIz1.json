@@ -1,6 +1,6 @@
 {
   "description": "Vai curtir um dia no parque? A tarde com os amigos? \u00c9 s\u00f3 dar play e sair pro sol.",
-  "num_followers": 135655,
+  "num_followers": 135650,
   "original_name": "Sol de Domingo",
   "owner": {
     "name": "Spotify",
@@ -859,6 +859,22 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "Vem",
+        "url": "https://open.spotify.com/album/5rCOOZsVbPWwuAVKrA5Xug"
+      },
+      "artists": [
+        {
+          "name": "Mallu Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN"
+        }
+      ],
+      "duration_ms": 235128,
+      "name": "Voc\u00ea N\u00e3o Presta",
+      "url": "https://open.spotify.com/track/253rM8bzLuRZSH8N5Z3yox"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "Bossa No S\u00e9 (feat. Jean Carter)",
         "url": "https://open.spotify.com/album/5OXkBzDKBSXBY0ItL6wgJE"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 294049,
       "name": "Mantra (Feat. Emicida)",
       "url": "https://open.spotify.com/track/1vuAdDQlGRntmbQ7RpkObZ"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "Vem",
-        "url": "https://open.spotify.com/album/5rCOOZsVbPWwuAVKrA5Xug"
-      },
-      "artists": [
-        {
-          "name": "Mallu Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN"
-        }
-      ],
-      "duration_ms": 235128,
-      "name": "Voc\u00ea N\u00e3o Presta",
-      "url": "https://open.spotify.com/track/253rM8bzLuRZSH8N5Z3yox"
     },
     {
       "added_at": "2023-06-23 03:00:00",

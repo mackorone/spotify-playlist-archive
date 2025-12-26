@@ -2,7 +2,7 @@
 
 ### [Hit Rap Italiane](https://open.spotify.com/playlist/37i9dQZF1DWSxF6XNtQ9Rg)
 
-> Solo hit rap da ascoltare in loop\. Cover: Lazza
+> Solo hit rap da ascoltare in loop\. Cover: Salmo
 
 264 songs - 14 hr 24 min
 
@@ -17,7 +17,7 @@
 | [7 miliardi](https://open.spotify.com/track/67vjEOTkBppbVLUUq5mEJz) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C), [Nic Sarno](https://open.spotify.com/artist/3PbxfXGwcCLn85zVQK1ulo) | [Scialla Semper](https://open.spotify.com/album/3fMHmtOJf2KK3HThKh9ZNX) | 2:47 | 2022-10-07 | 2022-10-14 |
 | [90MIN](https://open.spotify.com/track/3Ls9yKzshQye18Tx2AvOb6) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [Playlist](https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn) | 3:51 | 2022-04-28 |  |
 | [All'Ultimo Respiro](https://open.spotify.com/track/4gXJIop7onForUMENJ7HjW) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv) | [RAP ITALIANO OLD SCHOOL HITS](https://open.spotify.com/album/6PP2pdxkdWtsEEXT17AZwe) | 4:29 | 2024-01-02 | 2024-01-19 |
-| [All'Ultimo Respiro](https://open.spotify.com/track/7F7h1FZ1bgST5JBExLnLdA) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv) | [Che Bello Essere Noi](https://open.spotify.com/album/0M2Q3OtMdDM9d2MUJ84zwE) | 4:29 | 2024-11-28 | 2025-12-25 |
+| [All'Ultimo Respiro](https://open.spotify.com/track/7F7h1FZ1bgST5JBExLnLdA) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv) | [Che Bello Essere Noi](https://open.spotify.com/album/0M2Q3OtMdDM9d2MUJ84zwE) | 4:29 | 2024-11-28 |  |
 | [Allenamento \#2](https://open.spotify.com/track/3RsSxNSorUqe9K4qEGTlGC) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [AVA](https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr) | [Allenamento \#2](https://open.spotify.com/album/7JhrhjpQtkrAeABlv4eQFT) | 2:31 | 2022-04-28 | 2025-08-11 |
 | [ANELLI E COLLANE \(feat\. ANNA\)](https://open.spotify.com/track/0YI32qkEhhUjoGVMGXDm8b) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [ASPETTANDO LA BELLA VITA](https://open.spotify.com/album/7kPBwGRrSCDXGUuxcD6AWb) | 3:09 | 2023-11-17 |  |
 | [Angelina Jolie](https://open.spotify.com/track/0tD4EXZRm1JGDYWtKYFLWK) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [Angelina Jolie](https://open.spotify.com/album/6sE81aPV364gLYtUBwgzwR) | 2:49 | 2022-04-28 | 2024-06-18 |
@@ -159,7 +159,7 @@
 | [Mentalité](https://open.spotify.com/track/6bgI3JZPDLm6gDE75utatQ) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [EP2](https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky) | 3:37 | 2023-01-17 |  |
 | [Miami Vice \(feat\. Sfera Ebbasta, Simba La Rue\)](https://open.spotify.com/track/2aJW4z2EoahGBpU3asFclE) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [Il mio lato peggiore](https://open.spotify.com/album/6K8pT0jcCAkrw8VjWiSXI8) | 4:05 | 2025-11-20 |  |
 | [Milano Bachata](https://open.spotify.com/track/4npeg094qxxH7Fp2aoi04O) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Io In Terra](https://open.spotify.com/album/7qs6R874LFaGWVVrPTELXc) | 2:47 | 2022-04-28 |  |
-| [Milly \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/0ksqA7waEGNDkGkmRz0Gwj) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Club Dogo](https://open.spotify.com/album/3nPgVpEmlL2JCf2yhdEcFy) | 3:05 | 2025-07-02 |  |
+| [Milly \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/0ksqA7waEGNDkGkmRz0Gwj) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Club Dogo](https://open.spotify.com/album/3nPgVpEmlL2JCf2yhdEcFy) | 3:05 | 2025-07-02 | 2025-12-26 |
 | [Minchia Boh!](https://open.spotify.com/track/01tlLbZ6izg3BVoA8SykPi) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv) | [Noi Siamo Il Club \(Reloaded Edition\)](https://open.spotify.com/album/7zl59AtJCTMwOhbDs5vTw8) | 3:29 | 2024-01-10 | 2024-01-12 |
 | [MIU MIU](https://open.spotify.com/track/6EhJVd1934ZIdg1gLEp6sF) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [ICON](https://open.spotify.com/album/3IGuXyMxlXEZJOvBwMu13c) | 2:27 | 2024-11-04 | 2025-01-22 |
 | [MOLOTOV](https://open.spotify.com/track/788C9y2A5GSzMZ3uRYStBl) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [MOLOTOV](https://open.spotify.com/album/0CX9SGqogc6UNWCe0tG3Hu) | 2:40 | 2022-08-10 | 2023-11-18 |

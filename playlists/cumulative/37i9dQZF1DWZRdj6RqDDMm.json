@@ -746,7 +746,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 136540,
       "name": "Assurance",
       "url": "https://open.spotify.com/track/7yldVpYhrHFyH5DYighwx5"
@@ -1138,7 +1138,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 133928,
       "name": "Believer",
       "url": "https://open.spotify.com/track/5eI2j2KKFJaUntBVt4Ukel"
@@ -4546,7 +4546,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 145263,
       "name": "here",
       "url": "https://open.spotify.com/track/6C4DacOnoWaXnXXjg0AmRu"
@@ -9999,6 +9999,28 @@
     },
     {
       "album": {
+        "name": "Sit",
+        "url": "https://open.spotify.com/album/2K0vs7PhXvWUGzRUVvgOto"
+      },
+      "artists": [
+        {
+          "name": "Tobi Tes",
+          "url": "https://open.spotify.com/artist/6OdJ4i4jk7ySs7AqHoaFuA"
+        },
+        {
+          "name": "Kachi Annuncia",
+          "url": "https://open.spotify.com/artist/1BX5LtwtToqHi5kRICFlYf"
+        }
+      ],
+      "date_added": "2025-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182255,
+      "name": "Sit",
+      "url": "https://open.spotify.com/track/1RJUPZirLCgAfuw7AvzKiw"
+    },
+    {
+      "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/6iw7OKvgFeOrCg5Qj42Hzs"
       },
@@ -12120,7 +12142,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 112900,
       "name": "Worthy",
       "url": "https://open.spotify.com/track/6NzXCS4aW5Qu88K93xqyVA"

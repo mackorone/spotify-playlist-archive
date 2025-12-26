@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUnbgAAAAABLOeI1+H4zdSjE/n5uOeCm",
+  "snapshot_id": "aUstAAAAAACo24EnxPyiKeBdiP2QgM0p",
   "tracks": [
     {
       "added_at": null,
@@ -351,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Jogo Virou",
-        "url": "https://open.spotify.com/album/5JMSlSMw4tkpbCWcv5vhFY"
+        "name": "PELE",
+        "url": "https://open.spotify.com/album/1m0uPOECD4L4XIF127wXfh"
       },
       "artists": [
         {
@@ -360,13 +360,17 @@
           "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
         },
         {
+          "name": "Zarashi",
+          "url": "https://open.spotify.com/artist/3lCUTSwNW2iz8tFRnKLsYE"
+        },
+        {
           "name": "Terra",
           "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
         }
       ],
-      "duration_ms": 157714,
-      "name": "Setor Norte",
-      "url": "https://open.spotify.com/track/0zdTPSdNRsIHL7eYzGtek1"
+      "duration_ms": 246875,
+      "name": "Oi, Sumido",
+      "url": "https://open.spotify.com/track/05qGBQeKLqssKzG99PhZah"
     },
     {
       "added_at": null,
@@ -395,8 +399,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "PELE",
-        "url": "https://open.spotify.com/album/1m0uPOECD4L4XIF127wXfh"
+        "name": "O Jogo Virou",
+        "url": "https://open.spotify.com/album/5JMSlSMw4tkpbCWcv5vhFY"
       },
       "artists": [
         {
@@ -404,17 +408,13 @@
           "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
         },
         {
-          "name": "Zarashi",
-          "url": "https://open.spotify.com/artist/3lCUTSwNW2iz8tFRnKLsYE"
-        },
-        {
           "name": "Terra",
           "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
         }
       ],
-      "duration_ms": 246875,
-      "name": "Oi, Sumido",
-      "url": "https://open.spotify.com/track/05qGBQeKLqssKzG99PhZah"
+      "duration_ms": 157714,
+      "name": "Setor Norte",
+      "url": "https://open.spotify.com/track/0zdTPSdNRsIHL7eYzGtek1"
     },
     {
       "added_at": null,
@@ -439,26 +439,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Jogo Virou",
-        "url": "https://open.spotify.com/album/5JMSlSMw4tkpbCWcv5vhFY"
+        "name": "Bom Mesmo \u00e9 Estar Debaixo D'\u00c1gua Deluxe",
+        "url": "https://open.spotify.com/album/1ygSTGeglAKt0UwfnZhfdm"
       },
       "artists": [
         {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        },
+        {
           "name": "N.I.N.A",
           "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Boombeat",
-          "url": "https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg"
-        },
-        {
-          "name": "Terra",
-          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
         }
       ],
-      "duration_ms": 158896,
-      "name": "Fruto da V\u00e1rzea",
-      "url": "https://open.spotify.com/track/1VUFeSWY5QpK8BSwDbZ0a2"
+      "duration_ms": 301182,
+      "name": "Met\u00e1fora",
+      "url": "https://open.spotify.com/track/3ROiMsqkU7jbW29l2e8SEX"
     },
     {
       "added_at": null,
@@ -491,22 +487,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bom Mesmo \u00e9 Estar Debaixo D'\u00c1gua Deluxe",
-        "url": "https://open.spotify.com/album/1ygSTGeglAKt0UwfnZhfdm"
+        "name": "O Jogo Virou",
+        "url": "https://open.spotify.com/album/5JMSlSMw4tkpbCWcv5vhFY"
       },
       "artists": [
         {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        },
-        {
           "name": "N.I.N.A",
           "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Boombeat",
+          "url": "https://open.spotify.com/artist/6a0FqgWigKdF7FsjHYMspg"
+        },
+        {
+          "name": "Terra",
+          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
         }
       ],
-      "duration_ms": 301182,
-      "name": "Met\u00e1fora",
-      "url": "https://open.spotify.com/track/3ROiMsqkU7jbW29l2e8SEX"
+      "duration_ms": 158896,
+      "name": "Fruto da V\u00e1rzea",
+      "url": "https://open.spotify.com/track/1VUFeSWY5QpK8BSwDbZ0a2"
     },
     {
       "added_at": null,
@@ -531,26 +531,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Jogo Virou",
-        "url": "https://open.spotify.com/album/5JMSlSMw4tkpbCWcv5vhFY"
+        "name": "Stephen King",
+        "url": "https://open.spotify.com/album/2SixEfADecvtERCCUXwQej"
       },
       "artists": [
         {
           "name": "N.I.N.A",
           "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Rincon Sapi\u00eancia",
-          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
-        },
-        {
-          "name": "Terra",
-          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
         }
       ],
-      "duration_ms": 127443,
-      "name": "Levantando a Ta\u00e7a",
-      "url": "https://open.spotify.com/track/2Y8Ln12OBjHksmqE5mYH4u"
+      "duration_ms": 164571,
+      "name": "Stephen King",
+      "url": "https://open.spotify.com/track/54Lt2Ge2OBZoFInMDJmU92"
     },
     {
       "added_at": null,
@@ -579,18 +571,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stephen King",
-        "url": "https://open.spotify.com/album/2SixEfADecvtERCCUXwQej"
+        "name": "O Jogo Virou",
+        "url": "https://open.spotify.com/album/5JMSlSMw4tkpbCWcv5vhFY"
       },
       "artists": [
         {
           "name": "N.I.N.A",
           "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Rincon Sapi\u00eancia",
+          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
+        },
+        {
+          "name": "Terra",
+          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
         }
       ],
-      "duration_ms": 164571,
-      "name": "Stephen King",
-      "url": "https://open.spotify.com/track/54Lt2Ge2OBZoFInMDJmU92"
+      "duration_ms": 127443,
+      "name": "Levantando a Ta\u00e7a",
+      "url": "https://open.spotify.com/track/2Y8Ln12OBjHksmqE5mYH4u"
     },
     {
       "added_at": null,
@@ -719,6 +719,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Baby Chefe",
+        "url": "https://open.spotify.com/album/2fPcIIk8PON9R793bOoqOv"
+      },
+      "artists": [
+        {
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        }
+      ],
+      "duration_ms": 140220,
+      "name": "Mo Parada",
+      "url": "https://open.spotify.com/track/1K2CtHPaeHw3lIYJ8Z1khA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "O Jogo Virou",
         "url": "https://open.spotify.com/album/5JMSlSMw4tkpbCWcv5vhFY"
       },
@@ -739,26 +759,6 @@
       "duration_ms": 172009,
       "name": "O Jogo Virou",
       "url": "https://open.spotify.com/track/6uxBWEwthBgH3IbyT37LHR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Baby Chefe",
-        "url": "https://open.spotify.com/album/2fPcIIk8PON9R793bOoqOv"
-      },
-      "artists": [
-        {
-          "name": "MD Chefe",
-          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
-        },
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        }
-      ],
-      "duration_ms": 140220,
-      "name": "Mo Parada",
-      "url": "https://open.spotify.com/track/1K2CtHPaeHw3lIYJ8Z1khA"
     },
     {
       "added_at": null,
@@ -915,30 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FUTURO III",
-        "url": "https://open.spotify.com/album/6fWpatyirDjjjRhU6T38CR"
-      },
-      "artists": [
-        {
-          "name": "Attlanta",
-          "url": "https://open.spotify.com/artist/62sBXKsvsgkuSZ93cQHDzr"
-        },
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Ogrand",
-          "url": "https://open.spotify.com/artist/72NITGQvWXHKgIDILDufBe"
-        }
-      ],
-      "duration_ms": 139591,
-      "name": "VIM DE L\u00c1",
-      "url": "https://open.spotify.com/track/48e962A7BqrinOw2mWYpxD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "40\u02da.40",
         "url": "https://open.spotify.com/album/0IDVpLdT6AbMirnZPpRcz2"
       },
@@ -963,26 +939,54 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fed Tracks #14: Recado",
-        "url": "https://open.spotify.com/album/2bdqJbDmCUaTVyN1AaUCDJ"
+        "name": "FUTURO III",
+        "url": "https://open.spotify.com/album/6fWpatyirDjjjRhU6T38CR"
       },
       "artists": [
+        {
+          "name": "Attlanta",
+          "url": "https://open.spotify.com/artist/62sBXKsvsgkuSZ93cQHDzr"
+        },
         {
           "name": "N.I.N.A",
           "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
         },
         {
-          "name": "808 Luke",
-          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
-        },
-        {
-          "name": "Baratapai",
-          "url": "https://open.spotify.com/artist/7nahK9VX0AFY1KZmT04lGY"
+          "name": "Ogrand",
+          "url": "https://open.spotify.com/artist/72NITGQvWXHKgIDILDufBe"
         }
       ],
-      "duration_ms": 161095,
-      "name": "Fed Tracks #14: Recado",
-      "url": "https://open.spotify.com/track/1AzsKMkoDCBhbOw5OU1Ii1"
+      "duration_ms": 139591,
+      "name": "VIM DE L\u00c1",
+      "url": "https://open.spotify.com/track/48e962A7BqrinOw2mWYpxD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trono de Vidro",
+        "url": "https://open.spotify.com/album/5478asny0EoVp8jWQ0DAX7"
+      },
+      "artists": [
+        {
+          "name": "Iza Sabino",
+          "url": "https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Thamiris",
+          "url": "https://open.spotify.com/artist/4mIvneZNoJwl8pLlfPBMOn"
+        },
+        {
+          "name": "VHOOR",
+          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
+        }
+      ],
+      "duration_ms": 161896,
+      "name": "Paz Terr\u00edvel",
+      "url": "https://open.spotify.com/track/7vpLD8SnpMWi3D6WJc0hme"
     },
     {
       "added_at": null,
@@ -1015,30 +1019,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trono de Vidro",
-        "url": "https://open.spotify.com/album/5478asny0EoVp8jWQ0DAX7"
+        "name": "Fed Tracks #14: Recado",
+        "url": "https://open.spotify.com/album/2bdqJbDmCUaTVyN1AaUCDJ"
       },
       "artists": [
-        {
-          "name": "Iza Sabino",
-          "url": "https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3"
-        },
         {
           "name": "N.I.N.A",
           "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
         },
         {
-          "name": "Thamiris",
-          "url": "https://open.spotify.com/artist/4mIvneZNoJwl8pLlfPBMOn"
+          "name": "808 Luke",
+          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
         },
         {
-          "name": "VHOOR",
-          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
+          "name": "Baratapai",
+          "url": "https://open.spotify.com/artist/7nahK9VX0AFY1KZmT04lGY"
         }
       ],
-      "duration_ms": 161896,
-      "name": "Paz Terr\u00edvel",
-      "url": "https://open.spotify.com/track/7vpLD8SnpMWi3D6WJc0hme"
+      "duration_ms": 161095,
+      "name": "Fed Tracks #14: Recado",
+      "url": "https://open.spotify.com/track/1AzsKMkoDCBhbOw5OU1Ii1"
     },
     {
       "added_at": null,
@@ -1103,6 +1103,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "PLASMA",
+        "url": "https://open.spotify.com/album/3WJttvkL7ss7DwkYz43JkQ"
+      },
+      "artists": [
+        {
+          "name": "Rizzi Get Busy",
+          "url": "https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "PG 400",
+          "url": "https://open.spotify.com/artist/0hkve9mQrqx9HKdE3pC2lz"
+        }
+      ],
+      "duration_ms": 174861,
+      "name": "MEC",
+      "url": "https://open.spotify.com/track/4sRo2cKLhGI3SlOftXq4I0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Revoada",
         "url": "https://open.spotify.com/album/6mGAkk5Is9C9FZSaMSnU1Z"
       },
@@ -1127,30 +1151,6 @@
       "duration_ms": 195447,
       "name": "Revoada",
       "url": "https://open.spotify.com/track/7n68UDdlNilSIsqI9A4ROG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PLASMA",
-        "url": "https://open.spotify.com/album/3WJttvkL7ss7DwkYz43JkQ"
-      },
-      "artists": [
-        {
-          "name": "Rizzi Get Busy",
-          "url": "https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO"
-        },
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "PG 400",
-          "url": "https://open.spotify.com/artist/0hkve9mQrqx9HKdE3pC2lz"
-        }
-      ],
-      "duration_ms": 174861,
-      "name": "MEC",
-      "url": "https://open.spotify.com/track/4sRo2cKLhGI3SlOftXq4I0"
     },
     {
       "added_at": null,

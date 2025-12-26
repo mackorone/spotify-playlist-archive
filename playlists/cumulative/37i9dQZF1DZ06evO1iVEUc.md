@@ -4,7 +4,7 @@
 
 > This is Angie Stone\. The essential tracks, all in one playlist.
 
-61 songs - 4 hr 1 min
+62 songs - 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Here We Go Again](https://open.spotify.com/track/4v4ICmsY42M8sc0iI8w1I8) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [The Art of Love & War](https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15) | 3:32 | 2025-03-11 |  |
 | [High](https://open.spotify.com/track/7nwy7u1NxzbUEOmpzo6KWT) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Love Language](https://open.spotify.com/album/3SjkXnXu8tjg9Xg9bXPOuM) | 3:47 | 2025-03-11 |  |
 | [I Ain’t Hearin’ U](https://open.spotify.com/track/2QAcA00lpN2u4n15tcKm3R) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Unexpected](https://open.spotify.com/album/03GXHujYDvYF7zkSUC1KlU) | 3:26 | 2025-03-11 |  |
-| [I Wanna Thank Ya \(feat\. Snoop Dogg\) \- Radio Edit](https://open.spotify.com/track/1vWvdcZZRzNXYSw8c4HOY9) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [I Wanna Thank Ya](https://open.spotify.com/album/1Ec9ZPtER6ZbZ6uiJdwdEF) | 3:47 | 2025-03-11 |  |
+| [I Wanna Thank Ya \(feat\. Snoop Dogg\) \- Radio Edit](https://open.spotify.com/track/1vWvdcZZRzNXYSw8c4HOY9) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [I Wanna Thank Ya](https://open.spotify.com/album/1Ec9ZPtER6ZbZ6uiJdwdEF) | 3:47 | 2025-03-11 | 2025-12-26 |
+| [I Wanna Thank Ya \(feat\. Snoop Dogg\) \- Radio Edit](https://open.spotify.com/track/1czczFfdsmQyH0qUnH8Clk) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [I Wanna Thank Ya \(feat\. Snoop Dogg\) \[Radio Edit\]](https://open.spotify.com/album/2P5fZ0GeRsbMViExlAWJKO) | 3:49 | 2025-12-26 |  |
 | [In the Air Tonight](https://open.spotify.com/track/1nzVdpMp7SzrAzCKQdYelk) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Covered in Soul](https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn) | 4:05 | 2025-03-11 |  |
 | [Is This Love](https://open.spotify.com/track/2w7xs3r4RZtipgMYTlxsvr) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Covered in Soul](https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn) | 3:48 | 2025-03-11 |  |
 | [It's Too Late](https://open.spotify.com/track/0FPwnqxQP6sdY77FFIcGh7) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Covered in Soul](https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn) | 4:08 | 2025-03-11 |  |
@@ -53,9 +54,9 @@
 | [Red, Red Wine](https://open.spotify.com/track/6F6b3hTQchWivuPewh4B1t) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Covered in Soul](https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn) | 2:56 | 2025-07-08 |  |
 | [Signed, Sealed, Delivered I'm Yours](https://open.spotify.com/track/7MaWQOSdpVNvQFXu2KspC6) | [Blue](https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi), [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Guilty](https://open.spotify.com/album/2cB7BB0FN9qff1dAHCpNEy) | 3:33 | 2025-03-11 |  |
 | [Since I Lost My Baby](https://open.spotify.com/track/60sfBPovUoGakpff86kf9F) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [So Amazing: An All\-Star Tribute To Luther Vandross](https://open.spotify.com/album/1ak4qUWrH8YSjA4u7MPVXL) | 5:22 | 2025-03-11 |  |
-| [Sit Down](https://open.spotify.com/track/1FK3aV8VFowrZh9xanIerZ) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [The Art of Love & War](https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15) | 4:31 | 2025-03-11 | 2025-12-25 |
+| [Sit Down](https://open.spotify.com/track/1FK3aV8VFowrZh9xanIerZ) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [The Art of Love & War](https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15) | 4:31 | 2025-03-11 |  |
 | [Somaw](https://open.spotify.com/track/7j360rnoPfIwKlEW8qSx2g) | [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC), [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [London Ko](https://open.spotify.com/album/3FnZTIThL7sm42d5t7pZ1C) | 3:22 | 2025-03-11 |  |
-| [Sometimes](https://open.spotify.com/track/5t7WzdcErLIPufgA7HRJNp) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [The Art of Love & War](https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15) | 3:20 | 2025-03-11 |  |
+| [Sometimes](https://open.spotify.com/track/5t7WzdcErLIPufgA7HRJNp) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [The Art of Love & War](https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15) | 3:20 | 2025-03-11 | 2025-12-26 |
 | [Stay For A While \(feat\. Anthony Hamilton\)](https://open.spotify.com/track/5R7wbaxRvAhsSN6d1PxrEm) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Stone Love](https://open.spotify.com/album/0Grb5Ql9aU3XkTv2Y7adt0) | 4:01 | 2025-03-11 |  |
 | [Stoned Love \(Intro\)](https://open.spotify.com/track/64d9VM45lpwAv5ihZHEDbm) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Stone Love](https://open.spotify.com/album/0Grb5Ql9aU3XkTv2Y7adt0) | 0:35 | 2025-03-11 | 2025-07-18 |
 | [Take Everything In](https://open.spotify.com/track/0S9J927viE05YinAFLoUUi) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [The Art of Love & War](https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15) | 3:50 | 2025-03-11 | 2025-11-21 |

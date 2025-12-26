@@ -4,7 +4,7 @@
 
 > Det senaste och bästa från världen av indie, med Albin Lee Meldau & Arvid Nero.
 
-1,059 songs - 2 day 13 hr 18 min
+1,062 songs - 2 day 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -793,6 +793,7 @@
 | [September Smiles](https://open.spotify.com/track/3fERHHJyud25vPeIx8ETFm) | [Alexander Grandjean](https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp) | [September Smiles](https://open.spotify.com/album/7HLZKEUOIuHOFxkOy1eNMi) | 3:56 | 2024-09-05 | 2024-11-01 |
 | [seventeen](https://open.spotify.com/track/5P4PW71fDmfehRrxBuG9OF) | [leoleo](https://open.spotify.com/artist/5Dsd7jTkXFpmNtZTWuBMDh) | [seventeen](https://open.spotify.com/album/2jtVwe611s3mqw6Vre4AYx) | 3:01 | 2025-01-23 | 2025-03-08 |
 | [Sexy to Someone](https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sexy to Someone](https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU) | 3:27 | 2024-06-27 | 2024-08-16 |
+| [SF & GG](https://open.spotify.com/track/5tZrVj5v9aKMHOmcb6MDlZ) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun) | [Holo Boy](https://open.spotify.com/album/7GXQ3XWkTEnfI37a8zX2TB) | 1:40 | 2025-12-25 |  |
 | [Shake Off the Rain](https://open.spotify.com/track/0gVBrNtip58FmG1JlGwATM) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Shake Off the Rain](https://open.spotify.com/album/4zOqdbkSSn2PX7KMwdHxdh) | 4:42 | 2025-10-23 |  |
 | [Shame](https://open.spotify.com/track/1ixAebbj2b4OV2I1sjA07O) | [The Parade](https://open.spotify.com/artist/1FlO1NMLAjUfEdyIZqeIKP) | [Shame](https://open.spotify.com/album/3pnmZ1TmVSWvSXLur8SxmH) | 3:18 | 2024-06-27 | 2024-08-02 |
 | [Shapes](https://open.spotify.com/track/6tLyqjNY0Z5DmmDDXV1EQZ) | [Agent blå](https://open.spotify.com/artist/457YpcXkt7bLgJLE95sdyB) | [Shapes](https://open.spotify.com/album/6ix5kuLbK5hjX5bzKjxwPh) | 3:15 | 2025-04-03 | 2025-07-04 |
@@ -967,6 +968,7 @@
 | [Tårar](https://open.spotify.com/track/2kouUdyiy2AuDYfYQf52GV) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [Tårar](https://open.spotify.com/album/0FajfKoec8MCHU2WSXSAuH) | 3:02 | 2025-10-09 |  |
 | [UFO](https://open.spotify.com/track/32scuBdePLY3o4ZwJDWLRR) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [UFO](https://open.spotify.com/album/21f17oQynU60lyfT0wjj8U) | 3:00 | 2024-06-27 | 2024-07-27 |
 | [UGLY TATTOO](https://open.spotify.com/track/1o2RsAdLVDq1cy89dtic7r) | [garbagepink](https://open.spotify.com/artist/67JJQ1bAsztm9QUq9OTr1z) | [UGLY TATTOO](https://open.spotify.com/album/5E1ZbueYYRd0qTo04buhS1) | 2:55 | 2025-01-23 | 2025-04-18 |
+| [Unarchiver](https://open.spotify.com/track/0WJVieYte28pUxC9hNfs0D) | [Blood Cultures](https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis) | [Skate Story: Vol\. I](https://open.spotify.com/album/3T3hC14iSrsNd3fd5UD3wH) | 4:55 | 2025-12-25 |  |
 | [Under Pressure](https://open.spotify.com/track/2AVj1Q7wRZyKjQoHPMNilR) | [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS) | [Under Pressure](https://open.spotify.com/album/3ruBV7XJZB8NoJKmRspuSo) | 2:51 | 2025-06-05 | 2025-10-10 |
 | [undressed](https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [undressed](https://open.spotify.com/album/19m6pwPmwNFSPV7wtHtg7D) | 3:02 | 2025-03-20 | 2025-06-20 |
 | [Unforgiven](https://open.spotify.com/track/4nVpEwdqM0aaAQSqqSM7cH) | [doggone](https://open.spotify.com/artist/2VNWt6p905PprUPc78Mfzt) | [Unforgiven](https://open.spotify.com/album/2a0rNOt4wqvjUcGKnjsdTi) | 3:21 | 2025-11-20 |  |
@@ -1025,6 +1027,7 @@
 | [Wild Heart](https://open.spotify.com/track/133gMbnHFdb5stViV7Bepf) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Wild Heart](https://open.spotify.com/album/6uVJObcq28mcUHXLoFDOaF) | 2:39 | 2024-08-01 | 2024-09-19 |
 | [Wild Horses](https://open.spotify.com/track/7v8cpnWN2qbmMF7VTwg7lr) | [Sunnan](https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh) | [Cinema](https://open.spotify.com/album/2bxGYnrExMRNgevKUDFnSc) | 3:51 | 2024-08-29 | 2025-02-21 |
 | [Wild Long Lie](https://open.spotify.com/track/1SCWdCsPcC5UWJ0jGpWjFm) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Wild Long Lie](https://open.spotify.com/album/2TYwCemvaxgFK7dOwv9Zoo) | 6:04 | 2024-12-05 | 2025-02-07 |
+| [Will I love again?](https://open.spotify.com/track/2wiTV7Q4IjpZMBO38lei1T) | [Junior Mesa](https://open.spotify.com/artist/0tqSrr7nI6j3yOlMZJGCUX) | [Will I love again?](https://open.spotify.com/album/4AarHD5TvxbS1HhzCO9qFt) | 2:23 | 2025-12-25 |  |
 | [Will You Think Of Me?](https://open.spotify.com/track/4hayZUGO3xFqhikvPyoVRg) | [Rachael Jenkins](https://open.spotify.com/artist/5j0GrXECgqyWvysNyBN0CP) | [Will You Think Of Me?](https://open.spotify.com/album/4CVNnBnDDViyB1vs6QCsqK) | 3:09 | 2025-08-15 |  |
 | [WIND BLOW](https://open.spotify.com/track/11e2zdxbZTNo7h5oJHUMBN) | [Björn Dixgård](https://open.spotify.com/artist/13zLG8IHxqnaG2ijVbj6MT) | [WIND BLOW](https://open.spotify.com/album/2s9VlRAcWjMhjHUjNFuhtR) | 3:25 | 2025-01-09 | 2025-02-28 |
 | [Winter Baby / New Jersey Blues](https://open.spotify.com/track/1z1eqJLRuLR14DIGpgTLeP) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Winter Baby / New Jersey Blues](https://open.spotify.com/album/6AT5wCD0dBmlr6XEviuP51) | 2:32 | 2024-10-17 | 2024-12-06 |

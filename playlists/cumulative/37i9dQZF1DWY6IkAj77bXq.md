@@ -4,11 +4,12 @@
 
 > Resonancias luminiscentes para llenar de paz tu alma.
 
-292 songs - 14 hr 23 min
+294 songs - 14 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Mind At Peace](https://open.spotify.com/track/6HreYBZASx5JJR82jvZCNs) | [Ramos Goya](https://open.spotify.com/artist/51ZB0MgNvM5OYR47z0wEDj) | [A Mind At Peace](https://open.spotify.com/album/3Uh5lwdmIItGFysG7thSkz) | 2:42 | 2022-11-11 |  |
+| [639 Hz Compassion](https://open.spotify.com/track/1dUEOImbqBBnzIJYmZSJQn) | [Hertz Harmony](https://open.spotify.com/artist/1LQ6dIMZP4sNgA9hoE1PBT) | [639 Hz Compassion](https://open.spotify.com/album/01oSV7pzXDvsACSbXryXqB) | 2:50 | 2025-12-02 |  |
+| [A Mind At Peace](https://open.spotify.com/track/6HreYBZASx5JJR82jvZCNs) | [Ramos Goya](https://open.spotify.com/artist/51ZB0MgNvM5OYR47z0wEDj) | [A Mind At Peace](https://open.spotify.com/album/3Uh5lwdmIItGFysG7thSkz) | 2:42 | 2022-11-11 | 2025-12-26 |
 | [A New Day](https://open.spotify.com/track/4hI39WJTJdxfLZIxw1P4xZ) | [Oscar Sol](https://open.spotify.com/artist/47EU0ZJnqLxIpe8EwyDDce) | [A New Day](https://open.spotify.com/album/1iW2YQx2uFHUVVPwBCVBpW) | 2:36 | 2023-10-06 | 2025-04-24 |
 | [A Silent Moon](https://open.spotify.com/track/4j4ZWRfaWnFou23po51hpn) | [Atmosferion](https://open.spotify.com/artist/0iwtwRDn1bcb5lbOsFfoFc) | [A Silent Moon](https://open.spotify.com/album/614CGNxEe7t1cwpRQjit8H) | 3:08 | 2022-11-11 | 2025-01-15 |
 | [A Space Within a Space](https://open.spotify.com/track/37WWBXEkERdURM1S9SCuwW) | [Escape Gravity](https://open.spotify.com/artist/2CVd5odoymaLOr5rMix7js) | [A Space Within a Space](https://open.spotify.com/album/3EVxBEAzWfSUuVDRZ8Qync) | 3:11 | 2022-07-05 | 2022-07-29 |
@@ -21,6 +22,7 @@
 | [Air Castle](https://open.spotify.com/track/71Y8n0VSW7i2Qe1Z1rABsi) | [Sea Island](https://open.spotify.com/artist/2afQ9hxy9APHOBXi7NViRc) | [Air Castle](https://open.spotify.com/album/3Ck54QdjjEgDPjPgNEF4yo) | 3:34 | 2022-07-19 | 2024-04-29 |
 | [Air in the Morning](https://open.spotify.com/track/265Gf3408oAX2bGYUYf7i9) | [Wind Speaks](https://open.spotify.com/artist/06S55ZKieUgI9zFKhJVKsY) | [Air in the Morning](https://open.spotify.com/album/2lzp3FhFFbp33LZGFwzdFK) | 3:04 | 2022-07-05 | 2024-05-12 |
 | [Air in the Morning](https://open.spotify.com/track/7GIEVoZu1C74OdyAPbg9hU) | [Wind Speaks](https://open.spotify.com/artist/06S55ZKieUgI9zFKhJVKsY) | [Air in the Morning](https://open.spotify.com/album/6g2GVf0zN2aESjaVDsI9hF) | 3:04 | 2022-07-19 | 2024-04-19 |
+| [Airy](https://open.spotify.com/track/7kpBv3fPwlJ5OtslNj4vgV) | [Marc Westfield](https://open.spotify.com/artist/5GbWQkreLZ1Q0anHtK93UJ) | [Airy](https://open.spotify.com/album/7oOm16JDjnyES3PD4tiEUa) | 2:49 | 2025-12-02 |  |
 | [Alaska](https://open.spotify.com/track/4PW8tiBzQcEutmPndIZagA) | [Scandinavian Nights](https://open.spotify.com/artist/4UrhClOtVbcbsiCZYDMoWL) | [Quiet Hours](https://open.spotify.com/album/45anDTXW4ebJ5bkVNxEh7v) | 3:07 | 2022-07-19 | 2025-10-17 |
 | [Alleviate](https://open.spotify.com/track/7C9d9SVdz5VFWsYqunv4G0) | [A.Z\. Louna](https://open.spotify.com/artist/09wCM3Hlsk5DNw8Nnkihmk) | [Alleviate](https://open.spotify.com/album/69W7p1tAkQGJC1DXXMzB1s) | 2:35 | 2024-11-07 |  |
 | [Among the Clouds](https://open.spotify.com/track/42qLkry21o8EbfaplIw0rR) | [Nimbus Skies](https://open.spotify.com/artist/6BdApnIAy6D0nQQs1PjzSB) | [Among the Clouds](https://open.spotify.com/album/1TFakvYLpxWVYHXCAJb0Mh) | 2:53 | 2022-07-19 | 2024-04-19 |
@@ -240,7 +242,7 @@
 | [Simulacrum](https://open.spotify.com/track/4wEbipetGjPZ1YFGT2v34O) | [Richter Gravitas](https://open.spotify.com/artist/2DLiGfmS8hciTINAkqY2XG) | [Simulacrum](https://open.spotify.com/album/6h05jReEpu0Cri0gZkV7N4) | 3:05 | 2024-06-10 |  |
 | [skylight](https://open.spotify.com/track/5gNq3YQWliXYnJWhauSW7q) | [oh, the joy.](https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4) | [skylight](https://open.spotify.com/album/5blaJzMgdJcSFx9xO6lOdU) | 3:15 | 2025-09-30 |  |
 | [Sleep Drifting](https://open.spotify.com/track/1PTo6XB9bsMpJq0bCxvVEv) | [Golden Slumber](https://open.spotify.com/artist/1x02xJIKGceDvDd4yugtQj) | [Sleep Drifting](https://open.spotify.com/album/3baXMgcjcVR8e2sujbNbXN) | 2:51 | 2022-07-19 | 2025-06-12 |
-| [Sleep Sequence](https://open.spotify.com/track/10m4p8Qb6IeRacfFGyN4Id) | [Atmospheric Lights](https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX) | [Sleep Sequence](https://open.spotify.com/album/5SdZ0RNRN07ltZd0fPjBGm) | 3:23 | 2022-07-19 |  |
+| [Sleep Sequence](https://open.spotify.com/track/10m4p8Qb6IeRacfFGyN4Id) | [Atmospheric Lights](https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX) | [Sleep Sequence](https://open.spotify.com/album/5SdZ0RNRN07ltZd0fPjBGm) | 3:23 | 2022-07-19 | 2025-12-26 |
 | [Sleep, Heavenly Sleep](https://open.spotify.com/track/1JLHJ9ETGzBV7Ey0IMqAAZ) | [Dreamabout](https://open.spotify.com/artist/5kgTICWVgll5FnOGnsbFl3) | [Sleep, Heavenly Sleep](https://open.spotify.com/album/3LSfBtybYHmwkHFz2GO6rL) | 3:00 | 2022-07-19 | 2024-04-19 |
 | [Sleep, Heavenly Sleep](https://open.spotify.com/track/36AM3FkKz49Iic9MkWvGr1) | [Dreamabout](https://open.spotify.com/artist/5kgTICWVgll5FnOGnsbFl3) | [Sleep, Heavenly Sleep](https://open.spotify.com/album/0eOtNnA9eqarEySiZOAeb3) | 3:00 | 2022-07-05 | 2022-07-29 |
 | [Sleeping Moons](https://open.spotify.com/track/4xS39N1i2nOU0n57Tw5bcz) | [Atmospheric Lights](https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX) | [Sleeping Moons](https://open.spotify.com/album/35fjYF6bpmPk6cuFkTzQiv) | 3:11 | 2022-09-30 |  |

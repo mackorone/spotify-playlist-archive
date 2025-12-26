@@ -2,9 +2,9 @@
 
 ### [Best Life](https://open.spotify.com/playlist/37i9dQZF1DWYVURwQHUqnN)
 
-> Photo : Soolking x Lossa
+> Photo : Jul
 
-434 songs - 20 hr 19 min
+436 songs - 20 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Favel \(feat\. Leto\)](https://open.spotify.com/track/4f4naiLQhNYCI7vnE0Yew0) | [Soso Maness](https://open.spotify.com/artist/0oeiA5U9u1U45Gos5cywUU), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Favel \(feat\. Leto\)](https://open.spotify.com/album/0tdVu7eDcfQcj2ECMutN2q) | 2:24 | 2023-09-28 | 2023-12-08 |
 | [Favéla \(\#STATION 3\)](https://open.spotify.com/track/4RrEMleLv7K3Htsxly2hLs) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Favéla \(\#STATION 3\)](https://open.spotify.com/album/2Ei4g6zJuC6rtWPWtszUx3) | 2:58 | 2025-01-23 | 2025-03-07 |
 | [Fleurs](https://open.spotify.com/track/2jrpnXUN8mMrDMKXrzKsNO) | [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [SOLSAD](https://open.spotify.com/album/6KaCLPY4dFCMiaWGl0EjCn) | 3:05 | 2024-07-18 | 2024-08-16 |
+| [FOCUS](https://open.spotify.com/track/29rkopcjI0XyhncrHOdWm0) | [Ashvma](https://open.spotify.com/artist/46fYppQRc2dAeDAMnrVb6R) | [FOCUS](https://open.spotify.com/album/2wW4H228Gue9xprBQ5hW5Z) | 2:18 | 2025-12-25 |  |
 | [Follow](https://open.spotify.com/track/3LoXmE7628YHrHDTXUNTzI) | [Dadi](https://open.spotify.com/artist/2YRHC9O0GHvyHY38yFP434) | [Follow](https://open.spotify.com/album/6HCgLXR7FISyZ4n9689t26) | 2:24 | 2025-01-09 | 2025-04-04 |
 | [FOUDRE](https://open.spotify.com/track/3mfEErh2onwtaWlL7ZtNsl) | [Soso Maness](https://open.spotify.com/artist/0oeiA5U9u1U45Gos5cywUU) | [FOUDRE](https://open.spotify.com/album/0BGuudU5Zpjkg1yUKMWZEp) | 2:27 | 2025-02-13 | 2025-03-21 |
 | [Full](https://open.spotify.com/track/1Bjh8hsHQZYjLQGW1b2sCR) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Mon Âme \- Summer Vibes](https://open.spotify.com/album/4eGCU3guNX8aXnMVov0ZRS) | 2:59 | 2024-05-30 | 2024-06-14 |
@@ -234,7 +235,7 @@
 | [MAÑANA](https://open.spotify.com/track/1sv3oqZL49le641hfHgtpX) | [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ) | [N'A STRAGIA](https://open.spotify.com/album/4PxIHIjXAGQz2bYqy0CLtX) | 2:24 | 2023-09-28 | 2023-11-24 |
 | [MAÑANA](https://open.spotify.com/track/4DUWkGJrfXx0DHPAKlrE9p) | [Mougli](https://open.spotify.com/artist/5wDSvbjsOg3U8gw0ocQ0zl) | [MAÑANA](https://open.spotify.com/album/0iFRPwv9nJhWNAVvcWtVRy) | 2:56 | 2025-08-14 | 2025-08-29 |
 | [Mehlich](https://open.spotify.com/track/522QRUYYtyjsc5PGQv8m1U) | [GLK](https://open.spotify.com/artist/3dH7pcBScIJQboDyMzUzez) | [Mehlich](https://open.spotify.com/album/0amslvYWdskNGA8zH4RGsy) | 2:52 | 2025-04-17 | 2025-05-09 |
-| [Melrose Place](https://open.spotify.com/track/3SBBYSbzkLvx96bKzneYsF) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Focus Mentalité](https://open.spotify.com/album/0oKmtG3WXIGBMeuumkTMkA) | 2:36 | 2025-04-03 |  |
+| [Melrose Place](https://open.spotify.com/track/3SBBYSbzkLvx96bKzneYsF) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Focus Mentalité](https://open.spotify.com/album/0oKmtG3WXIGBMeuumkTMkA) | 2:36 | 2025-04-03 | 2025-12-26 |
 | [Mentale](https://open.spotify.com/track/45nxwllTmJ5gBXbPQFWMkS) | [1D1R](https://open.spotify.com/artist/4xTTjdhKC6SxsxKwPXMuKN) | [Mentale](https://open.spotify.com/album/0F5y6w0ZtRQJbOapfyV4JX) | 2:39 | 2025-09-25 | 2025-11-14 |
 | [Merci](https://open.spotify.com/track/30Mt8fniwPtiBgP3rxpqZu) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb) | [Merci](https://open.spotify.com/album/72XTw1mlZbLfJpwd91cSiO) | 2:44 | 2025-12-04 |  |
 | [Mes Lovés](https://open.spotify.com/track/1dpuodugAA3ZVyV0oXHUu4) | [Ponko](https://open.spotify.com/artist/2xzGVKiyGIsI4NomojrK39), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Mes Lovés](https://open.spotify.com/album/4hufR5ALDudDZxiReG2JiT) | 3:08 | 2024-06-20 | 2024-10-04 |
@@ -300,7 +301,7 @@
 | [PAY!](https://open.spotify.com/track/1qXKTMEUNkTuYBH6kauxW6) | [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2), [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [PAY!](https://open.spotify.com/album/4V0w5wniprh3z99zFbMPnI) | 2:10 | 2025-04-24 | 2025-07-04 |
 | [Pensées noires](https://open.spotify.com/track/10wjcXzC0e5lw99cN4YU7A) | [Mecra Officiel](https://open.spotify.com/artist/2Ya02DIvFJEBvDBTznlYCp) | [Pensées noires](https://open.spotify.com/album/4sdwgKGBkbBQpmVXqjx0wg) | 2:37 | 2023-10-12 | 2023-11-10 |
 | [Pequeña](https://open.spotify.com/track/4jAn1ghwcSj3n2ZJuWInLL) | [Josas](https://open.spotify.com/artist/13IyCFiPKhpVejuTyNulgU) | [Pichichi](https://open.spotify.com/album/4yqsxc2ITcS7kG8dFhe58E) | 2:49 | 2025-01-30 | 2025-02-14 |
-| [PES 6](https://open.spotify.com/track/3fF0TgRYEaxQaMPwxeayrU) | [Marou Chenko](https://open.spotify.com/artist/24KPNVdpY6Sx0JaApiLOsr), [Desouza](https://open.spotify.com/artist/3BUgIDrYw1k9BqG9c0h5Vk) | [PES 6](https://open.spotify.com/album/1fhDPffPNtnu6w0dRzabaC) | 2:13 | 2025-12-04 |  |
+| [PES 6](https://open.spotify.com/track/3fF0TgRYEaxQaMPwxeayrU) | [Marou Chenko](https://open.spotify.com/artist/24KPNVdpY6Sx0JaApiLOsr), [Desouza](https://open.spotify.com/artist/3BUgIDrYw1k9BqG9c0h5Vk) | [PES 6](https://open.spotify.com/album/1fhDPffPNtnu6w0dRzabaC) | 2:13 | 2025-12-04 | 2025-12-26 |
 | [Petit chaton](https://open.spotify.com/track/74oAPWAhHJDenq4vlzP10O) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Petit chaton](https://open.spotify.com/album/4jlNqjll7wP71dCucSxZr5) | 2:24 | 2024-09-19 | 2024-11-15 |
 | [Phénoménal](https://open.spotify.com/track/4VayCkXPEDlKeAo4DfPk89) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Phénoménal](https://open.spotify.com/album/3p24DyUwj5gN245PmCHhnT) | 3:24 | 2025-04-10 | 2025-08-09 |
 | [Piano](https://open.spotify.com/track/6xOiC7SgWCFsipcM69jIDO) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Piano](https://open.spotify.com/album/1BQ2YrKLtRzIuQ7Zai76jJ) | 2:53 | 2025-05-01 | 2025-10-24 |
@@ -326,6 +327,7 @@
 | [Quand elle danse](https://open.spotify.com/track/0OSZ5lMaPbtAsP9vdXIMUa) | [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA), [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [Quand elle danse](https://open.spotify.com/album/6Dn9V3wCwHeZdX0YrjKe3K) | 3:11 | 2025-08-14 | 2025-09-05 |
 | [Quasimodo](https://open.spotify.com/track/3Xtx4I7Lu5O6UOK5cCezPT) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [Kalash Criminel](https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv) | [Quasimodo](https://open.spotify.com/album/1ssYBHK8BmGT9Wi5aBKErC) | 2:24 | 2025-12-18 |  |
 | [Que du réel \#4 \- Oh my God](https://open.spotify.com/track/3n3MEYOWxH32NBP78fCQjA) | [Nada](https://open.spotify.com/artist/3ITEeeUF199eEtg4xg3mzB) | [Que du réel \#4 \- Oh my God](https://open.spotify.com/album/3v8Tpyigp9O79jI8VyxtIw) | 2:25 | 2025-11-20 | 2025-12-12 |
+| [Que tu quieres](https://open.spotify.com/track/4xts0kdUEi4Xlqy6LldP3g) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Que tu quieres](https://open.spotify.com/album/65CMeg5l3XqlVYjHeXyugT) | 3:43 | 2025-12-25 |  |
 | [Qui sait ? \(feat\. ElGrandeToto\)](https://open.spotify.com/track/3ejjmzEsUfObGdmmQRVmM2) | [Niro](https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Taulier](https://open.spotify.com/album/2mcTAfultyCrXKx1IE1XQZ) | 3:10 | 2023-09-28 | 2023-10-13 |
 | [Quillé](https://open.spotify.com/track/05tF2Drqpc0hbHyh071354) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Quillé](https://open.spotify.com/album/1V6CDWdhrcfLbRECo7ERLF) | 3:00 | 2024-05-09 | 2024-11-29 |
 | [QUÉ LO QUE](https://open.spotify.com/track/0q6LKoEDUwO7DJZsuZcxcN) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [QUÉ LO QUE](https://open.spotify.com/album/0KU4bZdJPmvXqwgdjORrtx) | 3:01 | 2024-06-20 | 2024-10-04 |

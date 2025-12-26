@@ -1,12 +1,12 @@
 {
   "description": "This is TOKiMONSTA. The essential tracks, all in one playlist.",
-  "num_followers": 8622,
+  "num_followers": 8623,
   "original_name": "This Is TOKiMONSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUnbgAAAAAAxRN1z5Ou8PGb+8s4UTQp3",
+  "snapshot_id": "aUstAAAAAAAbxhTxQsS71KIZafiY22C1",
   "tracks": [
     {
       "added_at": null,
@@ -899,22 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lune Rouge",
-        "url": "https://open.spotify.com/album/54R420j4PLSzgsdIWDkp2Z"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 182467,
-      "name": "Lune",
-      "url": "https://open.spotify.com/track/3uDOm0SzcByFzD6LIipJLL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oasis Nocturno",
         "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 209280,
       "name": "Soul to Seoul",
       "url": "https://open.spotify.com/track/7pyPH0gIvrQIHYCG7bkaOn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lune Rouge",
+        "url": "https://open.spotify.com/album/54R420j4PLSzgsdIWDkp2Z"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 182467,
+      "name": "Lune",
+      "url": "https://open.spotify.com/track/3uDOm0SzcByFzD6LIipJLL"
     }
   ],
   "unique_name": "This Is TOKiMONSTA",

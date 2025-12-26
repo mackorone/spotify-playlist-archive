@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0q8zp63yPuE.md) - [plain]
 
 > DINASTÍA, el nuevo álbum de Peso Pluma y Tito Double P, coming soon 🎄🎅🏽🎁
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,639 likes - 79 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 451,390 likes - 79 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0q8zp63yPuE.md) - [plain]
 | 78 | [LA BANDOLERA](https://open.spotify.com/track/0u1sqxkxZDI9ENRhtjBEUU) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [INCÓMODO](https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN) | 3:00 |
 | 79 | [MARAVILLA](https://open.spotify.com/track/7zsF9ErcJjpvU5oJE7qadO) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [INCÓMODO](https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN) | 3:18 |
 
-Snapshot ID: `AAAAANCNq9XGKBF1KOewYsW8k8b0ODBm`
+Snapshot ID: `AAAAAPBGhZ9DphoYiP+l1iMhYbqilpYL`

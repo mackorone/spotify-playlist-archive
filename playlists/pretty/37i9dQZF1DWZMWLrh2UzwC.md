@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 ### [New Music Friday Malaysia](https://open.spotify.com/playlist/37i9dQZF1DWZMWLrh2UzwC)
 
-> New music from TimeThai, BamBam, DIOR 大穎, Jess 佳仙,  Alan Walker, and more!
+> Back with fresh tracks on January 9\. Happy holidays!
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,508 likes - 59 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,529 likes - 59 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 58 | [Moon Or Stars](https://open.spotify.com/track/2ZrMjuzyRQwuAprkYknTYo) | [Jūji](https://open.spotify.com/artist/0TsOSZXtnoaRKQjAGo9vJn) | [Moon Or Stars](https://open.spotify.com/album/2cgcCDBfquJ83iOqEsAWFl) | 3:42 |
 | 59 | [Love you still](https://open.spotify.com/track/53rDQxTvkfii6736nW2SLz) | [REJAY](https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe) | [Grown tag](https://open.spotify.com/album/4kIFM6rj487OXIrYqYAxMU) | 4:23 |
 
-Snapshot ID: `AAAAAHTacDjp/ikpo8v10xffUp7JVx16`
+Snapshot ID: `AAAAAERxkMLcf6LsT3+OJX/FRt4IAp7+`

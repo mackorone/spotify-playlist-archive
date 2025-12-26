@@ -4,7 +4,7 @@
 
 > This is Charles Ans\. The essential tracks, all in one playlist.
 
-99 songs - 6 hr 5 min
+100 songs - 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Otra Vela al Pastel](https://open.spotify.com/track/3UL2fjYLnEpxljZminVDwK) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd) | [Otra Vela al Pastel](https://open.spotify.com/album/7nU2hFwdJlfzet8yGeXNzq) | 4:44 | 2025-08-17 | 2025-12-20 |
 | [Otra Vela al Pastel \- Versión Cumbia](https://open.spotify.com/track/1s332SRI2257PmBcTsDpbv) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR), [Hey Som](https://open.spotify.com/artist/3tF03A8UzHgqvIMNZfJw7v) | [Otra Vela al Pastel \(Versión Cumbia\)](https://open.spotify.com/album/2FRW8Ore5AMwGcXPquPbsO) | 4:01 | 2025-08-24 | 2025-09-21 |
 | [Pachamama / "Bendecido"](https://open.spotify.com/track/1VeKurzW12gmUhLsjY8q0s) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [De Brujas y Otros Hábitos](https://open.spotify.com/album/560Q69UkgF7V33uvAYjHVd) | 2:35 | 2025-03-13 | 2025-05-20 |
+| [Papalote](https://open.spotify.com/track/66EFQ2qfWurweQwTvQrgxo) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Samtwenty](https://open.spotify.com/artist/0TlO93nJUFn6FAGj0YugEO) | [MPNV \(Mudarnos para No Volver\)](https://open.spotify.com/album/0dnFtQd5hZJJFZsUDhigU4) | 2:56 | 2025-12-26 |  |
 | [Penitencia](https://open.spotify.com/track/7aHkSmt0l7xTgCaAYvSZ9L) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Los No Tan Tristes](https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM) | 4:06 | 2023-11-10 |  |
 | [Pétalos](https://open.spotify.com/track/1XJZAeg6ro25bQOr5XExcU) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Smile](https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu) | 3:41 | 2023-11-10 |  |
 | [Quién la Quiere](https://open.spotify.com/track/10a8QRDqmdBGsb45cSROtF) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw), [Little el Crack](https://open.spotify.com/artist/20kZ1fvR4TfMUsyXfOOnAm) | [Quién la Quiere](https://open.spotify.com/album/0kYeGsp4JwzlcoXY2Gr1HH) | 5:38 | 2025-09-21 | 2025-12-14 |
@@ -102,7 +103,7 @@
 | [Vegetales Con Pescado](https://open.spotify.com/track/5hXIWWxST35rAT5pUCLAer) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd) | [Vegetales Con Pescado](https://open.spotify.com/album/23XssGbWNkixBvuJL48mA3) | 3:02 | 2023-11-10 | 2024-09-03 |
 | [Vegetales Con Pescado](https://open.spotify.com/track/79E00piO2jJc98iBP9mw7m) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd) | [Máscaras](https://open.spotify.com/album/1e4hvdD4wgcEtABivupueQ) | 3:02 | 2024-09-03 |  |
 | [Villana](https://open.spotify.com/track/12IUz1c094GzxDR89vfbO4) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Villana](https://open.spotify.com/album/4SXO8RzIDtT6K5FM83U12u) | 3:18 | 2023-11-10 | 2024-10-18 |
-| [Voy a Estar Bien](https://open.spotify.com/track/2QrRQQh6xNSBl1ZXBcJ6HD) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Sui Géneris](https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4) | 4:01 | 2025-12-14 |  |
+| [Voy a Estar Bien](https://open.spotify.com/track/2QrRQQh6xNSBl1ZXBcJ6HD) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Sui Géneris](https://open.spotify.com/album/5IT4wCmpYj4zeRJfQOaxL4) | 4:01 | 2025-12-14 | 2025-12-26 |
 | [Ynlpa](https://open.spotify.com/track/1Md3x0pKPQ7OEhmQWB6fLf) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Ynlpa](https://open.spotify.com/album/4KYzvBfBPMo6RvhMCQjBp9) | 3:03 | 2023-11-10 |  |
 | [Yo No Me Quiero Morir](https://open.spotify.com/track/5xXaJHNtyBghk2F6AnP2PI) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Yo No Me Quiero Morir](https://open.spotify.com/album/4z1fFOEDva3J9sggX3kwK0) | 3:23 | 2023-11-10 |  |
 | [¿Dónde Estarás?](https://open.spotify.com/track/2osyhnv7vdVGs4VyeBANZ1) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [¿Dónde Estarás?](https://open.spotify.com/album/1HUdC5JjGda1CqfRoXzKcL) | 3:24 | 2023-12-13 | 2024-11-20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > Best of this year's RADAR class\. Cover: Gigi Perez
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,150 likes - 49 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,211 likes - 49 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,12 +36,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 26 | [เติบโตโดยไม่มีฉัน \- End Of My Turn](https://open.spotify.com/track/6qokdF2ulHUVKntPfgKDsu) | [guncharlie](https://open.spotify.com/artist/1qveov8f3HXFhDIWtFO5tG) | [เติบโตโดยไม่มีฉัน \(End Of My Turn\)](https://open.spotify.com/album/1sLZJuUH0pNb6tf6gXTZV2) | 4:37 |
 | 27 | [Energy](https://open.spotify.com/track/5jZs79KOjXHJaEKDvSCt6W) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [null](https://open.spotify.com/album/6g45D7w415qJrQjaCxg7hr) | 2:41 |
 | 28 | [Yours](https://open.spotify.com/track/096GsV4auvK0bXfBjQzbpt) | [Justin Vasquez](https://open.spotify.com/artist/1juIpte4oHJ5ngVLPTUPuJ) | [Yours](https://open.spotify.com/album/09xwz7U4Ho2qNALirus13F) | 3:33 |
-| 29 | [Therapieplatz](https://open.spotify.com/track/2NrOjJZTuOQpoEasaHUO6W) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Therapieplatz](https://open.spotify.com/album/5HY8oGkHL7HpAbGWeYAdXE) | 5:15 |
-| 30 | [ちょうどいい \(feels just right\)](https://open.spotify.com/track/2oTAoZQX2fpb5lPBseqI9r) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p), [王ADEN](https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV) | [ちょうどいい \(feels just right\)](https://open.spotify.com/album/597UQi8HEN44PpKpVS2Buv) | 3:47 |
+| 29 | [ちょうどいい \(feels just right\)](https://open.spotify.com/track/2oTAoZQX2fpb5lPBseqI9r) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p), [王ADEN](https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV) | [ちょうどいい \(feels just right\)](https://open.spotify.com/album/597UQi8HEN44PpKpVS2Buv) | 3:47 |
+| 30 | [Therapieplatz](https://open.spotify.com/track/2NrOjJZTuOQpoEasaHUO6W) | [Yu](https://open.spotify.com/artist/3fePw6n7ygV222wnREArp6) | [Therapieplatz](https://open.spotify.com/album/5HY8oGkHL7HpAbGWeYAdXE) | 5:15 |
 | 31 | [No iPhone](https://open.spotify.com/track/38FBUVBFNken57Q25fQxPG) | [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7) | [No iPhone](https://open.spotify.com/album/2U8fPsJLJGwykY38e1vfDG) | 2:16 |
-| 32 | [Humahalik](https://open.spotify.com/track/0zEn6vTXSk2is5l6kpDe0Z) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [Humahalik](https://open.spotify.com/album/09gZvZkIXdW5mEmQwie7hF) | 3:55 |
-| 33 | [ดิ่งดาวน์ \(DOWN\)](https://open.spotify.com/track/4jhWTchEKltAokimVeYmL9) | [ALIE BLACKCOBRA](https://open.spotify.com/artist/2kGEcklZxkQPpESUB3QZ0q) | [Angel Energy](https://open.spotify.com/album/2Rsqs9sglwPNsgP0pCJEnt) | 3:39 |
-| 34 | [Feel Myself](https://open.spotify.com/track/6K3hoAk4h3m2y2sKh0LviZ) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Interior](https://open.spotify.com/album/1knlwGtSu2giVTRen3Fk8d) | 2:44 |
+| 32 | [ดิ่งดาวน์ \(DOWN\)](https://open.spotify.com/track/4jhWTchEKltAokimVeYmL9) | [ALIE BLACKCOBRA](https://open.spotify.com/artist/2kGEcklZxkQPpESUB3QZ0q) | [Angel Energy](https://open.spotify.com/album/2Rsqs9sglwPNsgP0pCJEnt) | 3:39 |
+| 33 | [Feel Myself](https://open.spotify.com/track/6K3hoAk4h3m2y2sKh0LviZ) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Interior](https://open.spotify.com/album/1knlwGtSu2giVTRen3Fk8d) | 2:44 |
+| 34 | [Humahalik](https://open.spotify.com/track/0zEn6vTXSk2is5l6kpDe0Z) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [Humahalik](https://open.spotify.com/album/09gZvZkIXdW5mEmQwie7hF) | 3:55 |
 | 35 | [Bila](https://open.spotify.com/track/3NoDf1xUib20i3OuyhW7Gp) | [The Lantis](https://open.spotify.com/artist/1REvGGP2H7cFLGZgK2sStO) | [Cara Mencintai](https://open.spotify.com/album/7u5NCLGmm0CYfYA9XcGvZB) | 3:08 |
 | 36 | [VAMO A MATARNO](https://open.spotify.com/track/6tDPboTFnNiYJLCvkKsDhY) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH) | [ASÍ SONÁBAMOS<?](https://open.spotify.com/album/4UWSapwmVuJTSuhyx0TkiK) | 2:08 |
 | 37 | [When We Play](https://open.spotify.com/track/7bZzYTtOpjYtGi9fd4HFjc) | [Thakzin](https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE), [Xolani Guitars](https://open.spotify.com/artist/0fXj3KTK2tXbxUImfJEF9I) | [Gods window, Pt\. 1](https://open.spotify.com/album/2qDpWACZJ81rK6BJP8aoWD) | 8:33 |

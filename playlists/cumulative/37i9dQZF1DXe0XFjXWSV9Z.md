@@ -4,7 +4,7 @@
 
 > La psicodelia tropical latinoamericana y sus alucinantes ritmos.
 
-198 songs - 12 hr 29 min
+199 songs - 12 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [El pavo real](https://open.spotify.com/track/7CscQhRVoHs50YioshIbuQ) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [Meridian Brothers](https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow) | [La Estrella](https://open.spotify.com/album/7quHZhPNAMaxImHsjrOkSr) | 3:28 | 2022-11-24 | 2024-04-19 |
 | [El Pescador](https://open.spotify.com/track/2yLm7Y9foI71By8rAdYsFE) | [Dos Santos](https://open.spotify.com/artist/12Av6pjGrpX0wfTTyXNsyP) | [Dos Santos](https://open.spotify.com/album/203gWxeq8djoqOxwU45zkg) | 3:33 | 2021-10-20 |  |
 | [El Pinochito Saltarin](https://open.spotify.com/track/5C7mC5BrHui4uc1RH1BGLk) | [Juaneco Y Su Combo](https://open.spotify.com/artist/4sTcgUXJRSvSQHei3ZQUBR) | [Legado: Colección Definitiva](https://open.spotify.com/album/4MukcroENYODSNMYfyvZHW) | 2:36 | 2021-10-20 |  |
-| [El Vacile Del Tío](https://open.spotify.com/track/6nAibjd93efRHvK86fiYiJ) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [El Vacile Del Tío](https://open.spotify.com/album/5kLj6KoLyNvJ8qNppOipmg) | 2:26 | 2021-10-20 |  |
+| [El Vacile Del Tío](https://open.spotify.com/track/6nAibjd93efRHvK86fiYiJ) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [El Vacile Del Tío](https://open.spotify.com/album/5kLj6KoLyNvJ8qNppOipmg) | 2:26 | 2021-10-20 | 2025-12-26 |
 | [Elsa](https://open.spotify.com/track/04ZstZIjwSRoXAGix50GPT) | [Los Destellos](https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf) | [Mundial....](https://open.spotify.com/album/3gT44BsjTWWgIZvItinJSH) | 3:40 | 2021-10-20 | 2024-04-19 |
 | [Empecemos \(Let's Start\)](https://open.spotify.com/track/5k4uozUOYVtF6IsXIML1U0) | [El Dragón Criollo](https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G), [Los Kings](https://open.spotify.com/artist/3mkewj7XqZIrYz10FDiymw) | [Color de Trópico Vol 2 \(Compiled By El Dragón Criollo y El Palmas\)](https://open.spotify.com/album/1HL8rE8xoQy5tC73730bZP) | 2:58 | 2022-01-11 | 2025-05-20 |
 | [Fantasmagoría](https://open.spotify.com/track/1UKdzeFMgUECS6bYGR1Jv6) | [Sonido Gallo Negro](https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo) | [Paganismo](https://open.spotify.com/album/6n4OdUAJ1Zr2oPt7VvohAW) | 4:13 | 2021-10-20 | 2024-04-19 |
@@ -136,6 +136,7 @@
 | [Mientras Unos Mueren](https://open.spotify.com/track/0PCCCiRUvw3lTFX6UWWGET) | [El Dragón Criollo](https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G) | [Mientras Unos Mueren](https://open.spotify.com/album/7MQr16oeHXeD734zv9LvqJ) | 3:44 | 2021-10-20 | 2025-05-20 |
 | [Mil Versiones](https://open.spotify.com/track/54KcGCuNHyFmL4kzIAr31s) | [Chico Trujillo](https://open.spotify.com/artist/6Hs8U0JO2nacXFG4kp15Co) | [Mil Versiones](https://open.spotify.com/album/5icUeEDMPIULprCFm2hnh7) | 2:25 | 2021-10-20 | 2025-09-20 |
 | [Misirlou](https://open.spotify.com/track/0gUYUBGFojmopnkz3acWfZ) | [Tropa Magica](https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE) | [Smells Like Cumbia](https://open.spotify.com/album/1AqakrqNVRPbuBN7A4ggm9) | 2:28 | 2021-10-20 |  |
+| [Misirlou Psychotropique](https://open.spotify.com/track/2ZhtNDzWk3xFNJ3A3jQTxw) | [Memo Pimiento](https://open.spotify.com/artist/75rGLdO27FtfQhaHxOacV0) | [Misirlou Psychotropique](https://open.spotify.com/album/1C0VPW0LpqWDbX201e34HG) | 5:04 | 2025-05-19 |  |
 | [Mujer Luna](https://open.spotify.com/track/7yajyapWJC5cCaEivSORTH) | [Los Aguas Aguas](https://open.spotify.com/artist/6MlrTBeZE2S1lUxSD6x8wG) | [Mujer Luna](https://open.spotify.com/album/7zIZesonqKHbTF189hjCeF) | 3:31 | 2021-10-20 |  |
 | [Ninfa de la Villa](https://open.spotify.com/track/4S60MLok7rmgOwRE3vBB0G) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa) | [Cosmic Wacho](https://open.spotify.com/album/5sBh9UXGoeqgNCpNVGYQD1) | 3:09 | 2021-10-20 | 2024-04-19 |
 | [No Pares Hasta Tener lo Suficiente \(Don't Stop 'til You Get Enough\)](https://open.spotify.com/track/57xHD2Q6xWgwr60WzB72Uw) | [Los Miticos Del Ritmo](https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu) | [Los Miticos del Ritmo](https://open.spotify.com/album/7sXU6KPeWPglFMZpMydgt6) | 2:54 | 2021-10-20 | 2024-04-15 |

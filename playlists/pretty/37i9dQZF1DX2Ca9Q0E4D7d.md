@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ca9Q0E4D7d.md) - [plain]
 
 > Find your flow state with Beta frequencies for increased concentration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,716 likes - 74 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,756 likes - 74 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ca9Q0E4D7d.md) - [plain]
 | 73 | [Dream Focus Beta Waves \(146\-160 Hz\)](https://open.spotify.com/track/47EcLhPvEOhBMXPZfYrW5H) | [Mandala Dreams](https://open.spotify.com/artist/3i1TDsrVS40yt81IHvWkg1) | [Dream Focus Beta Waves](https://open.spotify.com/album/6vf4eKCWwo8IgwbZ12bx0G) | 3:05 |
 | 74 | [30 Hz: Binaural Beats \(Beta Waves\)](https://open.spotify.com/track/1FEF3YNOw8lIX6dMf2exvO) | [Miracle Healing Tones TP](https://open.spotify.com/artist/63kwdbdX8dCCyiJGJTlIM1), [Solfeggio Frequencies TP](https://open.spotify.com/artist/2LJBMojG5pw23egZt0hOAw) | [30 Hz: Binaural Beats \(Beta Waves\)](https://open.spotify.com/album/1byB0uRoP12fbeHiYLx9Uk) | 2:25 |
 
-Snapshot ID: `AAAAAJyqkPj9xyobUXh63m99qj1+dcfc`
+Snapshot ID: `AAAAAAiZsAksK6CIV7jM1n0+bzL0BJ3D`

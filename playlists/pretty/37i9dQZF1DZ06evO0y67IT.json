@@ -1,12 +1,12 @@
 {
   "description": "This is Hawthorne Heights. The essential tracks, all in one playlist.",
-  "num_followers": 9192,
+  "num_followers": 9196,
   "original_name": "This Is Hawthorne Heights",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUnbgAAAAAAALPaF5mARoPHLLqVKEVJ7",
+  "snapshot_id": "aUstAAAAAACFV50ed5Fid1XjmEIuP63A",
   "tracks": [
     {
       "added_at": null,
@@ -375,22 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hurt",
-        "url": "https://open.spotify.com/album/6Idjpy39IxgsmMOKJsD8EV"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 220103,
-      "name": "The Darkest Times",
-      "url": "https://open.spotify.com/track/2ibiou9bHgZpv03Qe3Fjzh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Skeletons",
         "url": "https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 242977,
       "name": "New Winter 2025",
       "url": "https://open.spotify.com/track/02xjzWnKi7RsD4aANE58b9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hurt",
+        "url": "https://open.spotify.com/album/6Idjpy39IxgsmMOKJsD8EV"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 220103,
+      "name": "The Darkest Times",
+      "url": "https://open.spotify.com/track/2ibiou9bHgZpv03Qe3Fjzh"
     },
     {
       "added_at": null,
@@ -587,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hate",
+        "url": "https://open.spotify.com/album/1aM7YH1Onu5blNUOPkvFjh"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 163605,
+      "name": "Hate",
+      "url": "https://open.spotify.com/track/0qq64jAn2pvgqllMDQ07pB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Skeletons",
         "url": "https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW"
       },
@@ -599,26 +615,6 @@
       "duration_ms": 186653,
       "name": "Drive",
       "url": "https://open.spotify.com/track/38xTGNjOnSsWgAykuQ4gUR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nine Reasons To Say Goodbye",
-        "url": "https://open.spotify.com/album/3r203Kg2OfitDSvIWv8vSx"
-      },
-      "artists": [
-        {
-          "name": "A Day In The Life",
-          "url": "https://open.spotify.com/artist/07xLcyDwfSZmCv7V3jr4tr"
-        },
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 152346,
-      "name": "The Girl That Destroyed Me",
-      "url": "https://open.spotify.com/track/358p1DPqhRm4ttRbyua9DX"
     },
     {
       "added_at": null,
@@ -643,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hate",
-        "url": "https://open.spotify.com/album/1aM7YH1Onu5blNUOPkvFjh"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 163605,
-      "name": "Hate",
-      "url": "https://open.spotify.com/track/0qq64jAn2pvgqllMDQ07pB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fragile Future",
         "url": "https://open.spotify.com/album/6qSnFu0JkOOV0FoWpMsbRZ"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 226826,
       "name": "The Business Of Paper Stars",
       "url": "https://open.spotify.com/track/4XS6rBFtB8gZ2DQe3RFrLP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nine Reasons To Say Goodbye",
+        "url": "https://open.spotify.com/album/3r203Kg2OfitDSvIWv8vSx"
+      },
+      "artists": [
+        {
+          "name": "A Day In The Life",
+          "url": "https://open.spotify.com/artist/07xLcyDwfSZmCv7V3jr4tr"
+        },
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 152346,
+      "name": "The Girl That Destroyed Me",
+      "url": "https://open.spotify.com/track/358p1DPqhRm4ttRbyua9DX"
     },
     {
       "added_at": null,
@@ -707,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hate",
+        "url": "https://open.spotify.com/album/1aM7YH1Onu5blNUOPkvFjh"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 178677,
+      "name": "Four White Walls",
+      "url": "https://open.spotify.com/track/2040q4zSC7ipniAuswCWqe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nine Reasons To Say Goodbye",
         "url": "https://open.spotify.com/album/3r203Kg2OfitDSvIWv8vSx"
       },
@@ -727,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hate",
-        "url": "https://open.spotify.com/album/1aM7YH1Onu5blNUOPkvFjh"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 178677,
-      "name": "Four White Walls",
-      "url": "https://open.spotify.com/track/2040q4zSC7ipniAuswCWqe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dead Formats, Vol. 1",
         "url": "https://open.spotify.com/album/4Tl209xj9yMafpEmXY2iqI"
       },
@@ -755,6 +755,22 @@
       "duration_ms": 205229,
       "name": "Inside Out",
       "url": "https://open.spotify.com/track/766h2nBdhksrA8IRkR4Tgd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lost Frequencies",
+        "url": "https://open.spotify.com/album/6pxt2kDstPNxPQXmcRmHta"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 217113,
+      "name": "Pet Sematary",
+      "url": "https://open.spotify.com/track/2JSJ8qYk6Kvzmb87pTRsjn"
     },
     {
       "added_at": null,
@@ -775,22 +791,6 @@
       "duration_ms": 224550,
       "name": "Walls",
       "url": "https://open.spotify.com/track/4vlilXIZBCe8GdgRCuJhvg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lost Frequencies",
-        "url": "https://open.spotify.com/album/6pxt2kDstPNxPQXmcRmHta"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 217113,
-      "name": "Pet Sematary",
-      "url": "https://open.spotify.com/track/2JSJ8qYk6Kvzmb87pTRsjn"
     },
     {
       "added_at": null,

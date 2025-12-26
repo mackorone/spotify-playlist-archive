@@ -1,6 +1,6 @@
 {
   "description": "Your ultimate gym playlist featuring upbeat Marathi tracks.",
-  "num_followers": 34938,
+  "num_followers": 34961,
   "original_name": "Marathi Workout",
   "owner": {
     "name": "Spotify",
@@ -427,26 +427,6 @@
     {
       "added_at": "2025-12-09 11:43:07",
       "album": {
-        "name": "Zapuk Zupuk (From \"Zapuk Zupuk\")",
-        "url": "https://open.spotify.com/album/24KadeH1xYQHcrxaiFsY8n"
-      },
-      "artists": [
-        {
-          "name": "Kratex",
-          "url": "https://open.spotify.com/artist/3Gowc3dedLQgQAt4y0gPBo"
-        },
-        {
-          "name": "PATYA THE DOC",
-          "url": "https://open.spotify.com/artist/67bgYV3B0briff1AeDe5O0"
-        }
-      ],
-      "duration_ms": 154137,
-      "name": "Zapuk Zupuk (From \"Zapuk Zupuk\")",
-      "url": "https://open.spotify.com/track/5tR33Cc72be8P3iDW38TMC"
-    },
-    {
-      "added_at": "2025-12-09 11:43:07",
-      "album": {
         "name": "Girlz",
         "url": "https://open.spotify.com/album/1EHCqmt5gz8VdhMs2HFiyd"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 216166,
       "name": "Aaichya Gavat",
       "url": "https://open.spotify.com/track/6cnyrhtkM0Ula95uIQq7P0"
+    },
+    {
+      "added_at": "2025-12-09 11:43:07",
+      "album": {
+        "name": "Zapuk Zupuk (From \"Zapuk Zupuk\")",
+        "url": "https://open.spotify.com/album/24KadeH1xYQHcrxaiFsY8n"
+      },
+      "artists": [
+        {
+          "name": "Kratex",
+          "url": "https://open.spotify.com/artist/3Gowc3dedLQgQAt4y0gPBo"
+        },
+        {
+          "name": "PATYA THE DOC",
+          "url": "https://open.spotify.com/artist/67bgYV3B0briff1AeDe5O0"
+        }
+      ],
+      "duration_ms": 154137,
+      "name": "Zapuk Zupuk (From \"Zapuk Zupuk\")",
+      "url": "https://open.spotify.com/track/5tR33Cc72be8P3iDW38TMC"
     },
     {
       "added_at": "2025-12-09 11:43:07",

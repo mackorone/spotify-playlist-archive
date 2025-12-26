@@ -1,12 +1,12 @@
 {
   "description": "playlist spotify free",
-  "num_followers": 254,
+  "num_followers": 255,
   "original_name": "playlist spotify free",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAGbETRxI5UzI+sosh3KIXHx+2BQgFX",
+  "snapshot_id": "AAAGbrRSPY+xlJIzfxjDsujBj1I8dkni",
   "tracks": [
     {
       "added_at": "2025-12-14 23:10:38",
@@ -62159,6 +62159,38 @@
       "duration_ms": 115054,
       "name": "Brunch Shit",
       "url": "https://open.spotify.com/track/4ppjAukBLZEOwGs13k7GeE"
+    },
+    {
+      "added_at": "2025-12-25 21:57:39",
+      "album": {
+        "name": "It Grows",
+        "url": "https://open.spotify.com/album/1NUY4o4RVyI3Y7NXO5mMq8"
+      },
+      "artists": [
+        {
+          "name": "Tilt 360",
+          "url": "https://open.spotify.com/artist/32oplagvPK0sLgWgOm5u2x"
+        }
+      ],
+      "duration_ms": 237146,
+      "name": "The Ride Down",
+      "url": "https://open.spotify.com/track/6AMWZ9fWpN2U28a3H5a7SS"
+    },
+    {
+      "added_at": "2025-12-25 21:58:00",
+      "album": {
+        "name": "Dark Forest Cruise",
+        "url": "https://open.spotify.com/album/5UJrnNlYatHz2JjPCD5IHq"
+      },
+      "artists": [
+        {
+          "name": "MGila_00",
+          "url": "https://open.spotify.com/artist/29ghh8SWOgR4zcnUrG5pp8"
+        }
+      ],
+      "duration_ms": 129780,
+      "name": "Firefly Feast",
+      "url": "https://open.spotify.com/track/2fgK8lEyLfYn5DAgHjL4j1"
     }
   ],
   "unique_name": "playlist spotify free",

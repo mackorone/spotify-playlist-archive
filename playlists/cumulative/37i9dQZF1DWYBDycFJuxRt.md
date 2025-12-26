@@ -4,7 +4,7 @@
 
 > 今週も話題の新曲を最速で。 Cover: SUPER BEAVER \*👉 <a href="https://spice.eplus.jp/articles/342949">連動記事</a>をSPICEでチェック!
 
-13,146 songs - 34 day 16 hr 0 min
+13,147 songs - 34 day 16 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -9763,6 +9763,7 @@
 | [カーニバル](https://open.spotify.com/track/5XGhwqu1TB391if1pD4lje) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:23 | 2023-11-15 | 2023-11-22 |
 | [カーブミラー](https://open.spotify.com/track/3hM7rAUHGsIXOu6UqakKFd) | [ioni](https://open.spotify.com/artist/3QpmyEcdhAM9Y0ZAyN5q6z) | [カーブミラー](https://open.spotify.com/album/2fY9dqsD6bHyzvBC5dGlSo) | 4:11 | 2023-05-09 | 2023-05-17 |
 | [カーマイン](https://open.spotify.com/track/2JXkpytEoAymsaa7JtAPgd) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [カーマイン](https://open.spotify.com/album/6ZeNJFTGFDNHUoqGyiTu7c) | 3:24 | 2025-08-13 | 2025-08-20 |
+| [ガイア](https://open.spotify.com/track/7JyMBBXAn6guCGmDwJdn6y) | [Siip](https://open.spotify.com/artist/4iJl88yli7zUwkDCNeKyNa) | [ガイア](https://open.spotify.com/album/0f9cR9kAGMSLGWnVd9eCyL) | 4:28 | 2025-12-24 |  |
 | [ガッツポーズ](https://open.spotify.com/track/3QzeLsv7AGSq1z398B8I1Y) | [Berry Goodman](https://open.spotify.com/artist/4PFC7IPuGWwwYQUuuvSnrw) | [ガッツポーズ](https://open.spotify.com/album/574xJzcBfgbSH3xlXiHFPo) | 3:29 | 2024-06-18 | 2024-06-26 |
 | [ガリレオは恋をする \-オーケストラアレンジver.\-](https://open.spotify.com/track/2kWonByHe65qMTjLPS4FCj) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [響](https://open.spotify.com/album/4ttLt1ZktC5gPJ0v4lzlm3) | 4:22 | 2023-11-28 | 2023-12-06 |
 | [ガーリーボーイ](https://open.spotify.com/track/0oRSPM7JaC60w4yuTjiMNX) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [ガーリーボーイ](https://open.spotify.com/album/67WHlE87BwJnEyt8CdjdV2) | 3:32 | 2024-03-12 | 2024-03-20 |

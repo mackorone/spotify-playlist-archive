@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain](/playlists/plain/37i9dQZF1DWZLhUfNQOQ1p) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZLhUfNQOQ1p)
 
-### [Aperitivo Time](https://open.spotify.com/playlist/37i9dQZF1DWZLhUfNQOQ1p)
+### [ape time](https://open.spotify.com/playlist/37i9dQZF1DWZLhUfNQOQ1p)
 
-> Musica da ascoltare con un drink in mano 🥃
+> ti devo raccontare di persona, facciamo ape? 🫒
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,686 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,681 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,9 +103,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 93 | [I Believe In Love Again](https://open.spotify.com/track/4fZ9WECee9p7FEWOUP03jD) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [I Believe In Love Again](https://open.spotify.com/album/4j8paHpWXq0sgm5jcWl84R) | 2:56 |
 | 94 | [Buschtaxi](https://open.spotify.com/track/6Z4AJ6GVRjdjmbm4TK1Wca) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Buschtaxi](https://open.spotify.com/album/18mW0faz1AHDsTHNdtxAih) | 8:36 |
 | 95 | [Time](https://open.spotify.com/track/4mQw0wkyombRwP19uS2mLB) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8) | [Time](https://open.spotify.com/album/0Q4VYWUJUfB8nRz4XNNEEp) | 4:09 |
-| 96 | [Love Is Real](https://open.spotify.com/track/7nZNvE2EdKrH127yzBMW8E) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Love Is Real](https://open.spotify.com/album/2zQJvUy9Cw6BGlYBBL4f8X) | 3:17 |
-| 97 | [orange juice](https://open.spotify.com/track/7GvpILTCIzaAwpvFteGOG0) | [Bæthtubs](https://open.spotify.com/artist/4jGqSzQirwi7cFUCzZoI1S) | [orange juice](https://open.spotify.com/album/1l5W5RuywK6dNxscYAEF79) | 3:06 |
-| 98 | [Chica](https://open.spotify.com/track/2ZgaR05AXBq8UvE7yx6nDi) | [NUZZLE](https://open.spotify.com/artist/5dn00jU51k8ckoaQxrlvqa), [Chicca Leaf](https://open.spotify.com/artist/2iVXJkRvP2E1xoG5mVOYlJ) | [Chica](https://open.spotify.com/album/3gAmDlq88VR7wOramBaeZi) | 2:10 |
+| 96 | [Chica](https://open.spotify.com/track/2ZgaR05AXBq8UvE7yx6nDi) | [NUZZLE](https://open.spotify.com/artist/5dn00jU51k8ckoaQxrlvqa), [Chicca Leaf](https://open.spotify.com/artist/2iVXJkRvP2E1xoG5mVOYlJ) | [Chica](https://open.spotify.com/album/3gAmDlq88VR7wOramBaeZi) | 2:10 |
+| 97 | [Love Is Real](https://open.spotify.com/track/7nZNvE2EdKrH127yzBMW8E) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Love Is Real](https://open.spotify.com/album/2zQJvUy9Cw6BGlYBBL4f8X) | 3:17 |
+| 98 | [orange juice](https://open.spotify.com/track/7GvpILTCIzaAwpvFteGOG0) | [Bæthtubs](https://open.spotify.com/artist/4jGqSzQirwi7cFUCzZoI1S) | [orange juice](https://open.spotify.com/album/1l5W5RuywK6dNxscYAEF79) | 3:06 |
 | 99 | [Amicalement Vôtre](https://open.spotify.com/track/0pl6IKhaBj7hheHHOmEIp6) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [Happiness Therapy 06: Allégresse](https://open.spotify.com/album/4HeN8rpI28qPE06m2ZOi2q) | 5:30 |
 | 100 | [Happy Music](https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music / Something on My Mind](https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR) | 3:52 |
 

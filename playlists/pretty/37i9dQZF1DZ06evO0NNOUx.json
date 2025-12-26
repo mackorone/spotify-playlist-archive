@@ -1,12 +1,12 @@
 {
   "description": "This is Forrest Frank. The essential tracks, all in one playlist.",
-  "num_followers": 175053,
+  "num_followers": 175270,
   "original_name": "This Is Forrest Frank",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUnbgAAAAAAhFgJif+JlPyffGeE47q1P",
+  "snapshot_id": "aUstAAAAAAAu2fheeiICMhnVCh6LgTeK",
   "tracks": [
     {
       "added_at": null,
@@ -119,22 +119,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "PRAISES (remix)",
-        "url": "https://open.spotify.com/album/0eEC6dBOEFVrqw50wKRrNW"
+        "name": "THE PRESENT",
+        "url": "https://open.spotify.com/album/1KVOQw2QpKnP1tTNDXsL51"
       },
       "artists": [
-        {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
-        },
         {
           "name": "Forrest Frank",
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
         }
       ],
-      "duration_ms": 170353,
-      "name": "PRAISES (remix)",
-      "url": "https://open.spotify.com/track/1JlDJFcBJ3BSiyuokxOA1l"
+      "duration_ms": 183031,
+      "name": "THE PRESENT",
+      "url": "https://open.spotify.com/track/2nNP5SBmelGS7G59JjGHBQ"
     },
     {
       "added_at": null,
@@ -155,18 +151,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE PRESENT",
-        "url": "https://open.spotify.com/album/1KVOQw2QpKnP1tTNDXsL51"
+        "name": "PRAISES (remix)",
+        "url": "https://open.spotify.com/album/0eEC6dBOEFVrqw50wKRrNW"
       },
       "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        },
         {
           "name": "Forrest Frank",
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
         }
       ],
-      "duration_ms": 183031,
-      "name": "THE PRESENT",
-      "url": "https://open.spotify.com/track/2nNP5SBmelGS7G59JjGHBQ"
+      "duration_ms": 170353,
+      "name": "PRAISES (remix)",
+      "url": "https://open.spotify.com/track/1JlDJFcBJ3BSiyuokxOA1l"
     },
     {
       "added_at": null,
@@ -191,26 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LEMONADE",
-        "url": "https://open.spotify.com/album/0MtdVm532g8eK9SxI2nyl4"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        },
-        {
-          "name": "The Figs",
-          "url": "https://open.spotify.com/artist/0guOtxDAwFFEGGCxrbW5KF"
-        }
-      ],
-      "duration_ms": 182946,
-      "name": "LEMONADE",
-      "url": "https://open.spotify.com/track/6P7tj3Pkm6iXlnZmGiS1VS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heaven On My Mind (with Forrest Frank)",
         "url": "https://open.spotify.com/album/2WoMWt180K0lhKten85CfK"
       },
@@ -227,6 +207,26 @@
       "duration_ms": 181590,
       "name": "Heaven On My Mind (with Forrest Frank)",
       "url": "https://open.spotify.com/track/6CfSsoolc9zgQRyMLddP3L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LEMONADE",
+        "url": "https://open.spotify.com/album/0MtdVm532g8eK9SxI2nyl4"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "The Figs",
+          "url": "https://open.spotify.com/artist/0guOtxDAwFFEGGCxrbW5KF"
+        }
+      ],
+      "duration_ms": 182946,
+      "name": "LEMONADE",
+      "url": "https://open.spotify.com/track/6P7tj3Pkm6iXlnZmGiS1VS"
     },
     {
       "added_at": null,

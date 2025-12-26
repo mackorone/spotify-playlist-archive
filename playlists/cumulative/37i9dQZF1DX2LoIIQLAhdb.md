@@ -2,7 +2,7 @@
 
 ### [R&Bae](https://open.spotify.com/playlist/37i9dQZF1DX2LoIIQLAhdb)
 
-> Le R&B français, nouvelle ère\. Photo : Lisandro Cuxi
+> Le R&B français, nouvelle ère\. Photo : Ronisia
 
 610 songs - 1 day 4 hr 51 min
 

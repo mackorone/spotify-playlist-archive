@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists. <a href=\"spotify:artist:2gSV6FsMxBBH01LLNgx6HU\">Babau</a> on cover. Artwork by Thami Nabil, photo by Stefania Zanetti",
-  "num_followers": 192084,
+  "num_followers": 192087,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -695,22 +695,6 @@
     {
       "added_at": "2025-11-19 10:21:55",
       "album": {
-        "name": "Euphoria",
-        "url": "https://open.spotify.com/album/7byI7mI77MAZYhuHyFt8Ag"
-      },
-      "artists": [
-        {
-          "name": "NTsKi",
-          "url": "https://open.spotify.com/artist/3eLVeLajDwJ1eFA1MTuiD9"
-        }
-      ],
-      "duration_ms": 255996,
-      "name": "K",
-      "url": "https://open.spotify.com/track/5YgBRARHa2TcMImdQ1eQI0"
-    },
-    {
-      "added_at": "2025-11-19 10:21:55",
-      "album": {
         "name": "Goldfish",
         "url": "https://open.spotify.com/album/7DSJCaZF4VvToTrgbZTqCc"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 146000,
       "name": "Goldfish",
       "url": "https://open.spotify.com/track/1uto98uv5pbbvLLc7kRR5f"
+    },
+    {
+      "added_at": "2025-11-19 10:21:55",
+      "album": {
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/7byI7mI77MAZYhuHyFt8Ag"
+      },
+      "artists": [
+        {
+          "name": "NTsKi",
+          "url": "https://open.spotify.com/artist/3eLVeLajDwJ1eFA1MTuiD9"
+        }
+      ],
+      "duration_ms": 255996,
+      "name": "K",
+      "url": "https://open.spotify.com/track/5YgBRARHa2TcMImdQ1eQI0"
     },
     {
       "added_at": "2025-11-19 10:21:55",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2025-11-19 10:21:55",
       "album": {
+        "name": "Iti Eta No",
+        "url": "https://open.spotify.com/album/2FWWgnlsClYz9KprV5aJBm"
+      },
+      "artists": [
+        {
+          "name": "Heimat",
+          "url": "https://open.spotify.com/artist/49xj8qANPTjAOLUjoHGaK2"
+        }
+      ],
+      "duration_ms": 251164,
+      "name": "Iti Eta No",
+      "url": "https://open.spotify.com/track/1w6G2Jl7OB9LtY5rrxqdfl"
+    },
+    {
+      "added_at": "2025-11-19 10:21:55",
+      "album": {
         "name": "In Space",
         "url": "https://open.spotify.com/album/32Akdj56jKKGz6bHsGGjZl"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 278630,
       "name": "Too Close to Call",
       "url": "https://open.spotify.com/track/0n6icrUXzDFyrNJFPGjX0w"
-    },
-    {
-      "added_at": "2025-11-19 10:21:55",
-      "album": {
-        "name": "Iti Eta No",
-        "url": "https://open.spotify.com/album/2FWWgnlsClYz9KprV5aJBm"
-      },
-      "artists": [
-        {
-          "name": "Heimat",
-          "url": "https://open.spotify.com/artist/49xj8qANPTjAOLUjoHGaK2"
-        }
-      ],
-      "duration_ms": 251164,
-      "name": "Iti Eta No",
-      "url": "https://open.spotify.com/track/1w6G2Jl7OB9LtY5rrxqdfl"
     },
     {
       "added_at": "2025-11-19 10:21:55",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2025-11-19 10:21:55",
       "album": {
-        "name": "Tr\u00e4frack",
-        "url": "https://open.spotify.com/album/5ESO4hLBoZGNbR1jXjK1SA"
-      },
-      "artists": [
-        {
-          "name": "Joakim \u00c5hlund & Jockum Nordstr\u00f6m",
-          "url": "https://open.spotify.com/artist/5ZiVatyKj5b5B4cBt2aaYy"
-        }
-      ],
-      "duration_ms": 215375,
-      "name": "Tr\u00e4frack",
-      "url": "https://open.spotify.com/track/49aZTHdzomy42jf6bdCzcJ"
-    },
-    {
-      "added_at": "2025-11-19 10:21:55",
-      "album": {
         "name": "F\u00fcr Therese",
         "url": "https://open.spotify.com/album/2XDbsYItQ8KGSD46LdMaf3"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 262945,
       "name": "F\u00fcr Therese",
       "url": "https://open.spotify.com/track/6QKc9mKUnRwpqrbkZHzc18"
+    },
+    {
+      "added_at": "2025-11-19 10:21:55",
+      "album": {
+        "name": "Tr\u00e4frack",
+        "url": "https://open.spotify.com/album/5ESO4hLBoZGNbR1jXjK1SA"
+      },
+      "artists": [
+        {
+          "name": "Joakim \u00c5hlund & Jockum Nordstr\u00f6m",
+          "url": "https://open.spotify.com/artist/5ZiVatyKj5b5B4cBt2aaYy"
+        }
+      ],
+      "duration_ms": 215375,
+      "name": "Tr\u00e4frack",
+      "url": "https://open.spotify.com/track/49aZTHdzomy42jf6bdCzcJ"
     },
     {
       "added_at": "2025-11-19 10:21:55",
@@ -1379,42 +1379,6 @@
     {
       "added_at": "2025-11-19 10:21:55",
       "album": {
-        "name": "Tessalonica",
-        "url": "https://open.spotify.com/album/0FaZwDS0LjD5lHocxuuxtW"
-      },
-      "artists": [
-        {
-          "name": "TETUAN",
-          "url": "https://open.spotify.com/artist/58M2gboaUILpBh7S0tKPRq"
-        },
-        {
-          "name": "Laura Agnusdei",
-          "url": "https://open.spotify.com/artist/4YifuXxngq8oFkWNWVUi7J"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Tessalonica",
-      "url": "https://open.spotify.com/track/4j4WXhP8UMeDnfN7U2TOsR"
-    },
-    {
-      "added_at": "2025-11-19 10:21:55",
-      "album": {
-        "name": "Scintille",
-        "url": "https://open.spotify.com/album/32TzqEeSbMwM3QhrYtnmfz"
-      },
-      "artists": [
-        {
-          "name": "Ehua",
-          "url": "https://open.spotify.com/artist/6mmklLsukQYQBIfS7WJw50"
-        }
-      ],
-      "duration_ms": 299786,
-      "name": "Scintille",
-      "url": "https://open.spotify.com/track/1TVL0GMb5jryOaAbkutpPc"
-    },
-    {
-      "added_at": "2025-11-19 10:21:55",
-      "album": {
         "name": "46\u00b027'29.6\"N 6\u00b051'03.4\"E",
         "url": "https://open.spotify.com/album/6hm5M2Q7I1GJltggp6oclw"
       },
@@ -1439,18 +1403,22 @@
     {
       "added_at": "2025-11-19 10:21:55",
       "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/5RsTaOj3W65X1mAqlmcQYK"
+        "name": "Tessalonica",
+        "url": "https://open.spotify.com/album/0FaZwDS0LjD5lHocxuuxtW"
       },
       "artists": [
         {
-          "name": "Zola Blood",
-          "url": "https://open.spotify.com/artist/3oxkIoEAyXXQlLTZXlffLJ"
+          "name": "TETUAN",
+          "url": "https://open.spotify.com/artist/58M2gboaUILpBh7S0tKPRq"
+        },
+        {
+          "name": "Laura Agnusdei",
+          "url": "https://open.spotify.com/artist/4YifuXxngq8oFkWNWVUi7J"
         }
       ],
-      "duration_ms": 243503,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/1L33G3aX9DHFQ7RonllbeA"
+      "duration_ms": 264000,
+      "name": "Tessalonica",
+      "url": "https://open.spotify.com/track/4j4WXhP8UMeDnfN7U2TOsR"
     },
     {
       "added_at": "2025-11-19 10:21:55",
@@ -1475,18 +1443,18 @@
     {
       "added_at": "2025-11-19 10:21:55",
       "album": {
-        "name": "Neptune Anteater",
-        "url": "https://open.spotify.com/album/4N23iLAHXRJ0uq4NL84kfU"
+        "name": "Scintille",
+        "url": "https://open.spotify.com/album/32TzqEeSbMwM3QhrYtnmfz"
       },
       "artists": [
         {
-          "name": "The Dwarfs of East Agouza",
-          "url": "https://open.spotify.com/artist/4hOby8V5qAcpSDTMxKchiR"
+          "name": "Ehua",
+          "url": "https://open.spotify.com/artist/6mmklLsukQYQBIfS7WJw50"
         }
       ],
-      "duration_ms": 238948,
-      "name": "Neptune Anteater",
-      "url": "https://open.spotify.com/track/21G0z6uwYJ6ry6btg4H9uX"
+      "duration_ms": 299786,
+      "name": "Scintille",
+      "url": "https://open.spotify.com/track/1TVL0GMb5jryOaAbkutpPc"
     },
     {
       "added_at": "2025-11-19 10:21:55",
@@ -1507,6 +1475,38 @@
       "duration_ms": 390959,
       "name": "Kampana - Vibration, trembling",
       "url": "https://open.spotify.com/track/0mqCMl0iihyYf4yhnYWReV"
+    },
+    {
+      "added_at": "2025-11-19 10:21:55",
+      "album": {
+        "name": "Neptune Anteater",
+        "url": "https://open.spotify.com/album/4N23iLAHXRJ0uq4NL84kfU"
+      },
+      "artists": [
+        {
+          "name": "The Dwarfs of East Agouza",
+          "url": "https://open.spotify.com/artist/4hOby8V5qAcpSDTMxKchiR"
+        }
+      ],
+      "duration_ms": 238948,
+      "name": "Neptune Anteater",
+      "url": "https://open.spotify.com/track/21G0z6uwYJ6ry6btg4H9uX"
+    },
+    {
+      "added_at": "2025-11-19 10:21:55",
+      "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/5RsTaOj3W65X1mAqlmcQYK"
+      },
+      "artists": [
+        {
+          "name": "Zola Blood",
+          "url": "https://open.spotify.com/artist/3oxkIoEAyXXQlLTZXlffLJ"
+        }
+      ],
+      "duration_ms": 243503,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/1L33G3aX9DHFQ7RonllbeA"
     },
     {
       "added_at": "2025-11-19 10:21:55",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2025-11-19 10:21:55",
       "album": {
-        "name": "A Room With A Door That Closes",
-        "url": "https://open.spotify.com/album/6TldVLNIBmMkanSL3ISkHV"
-      },
-      "artists": [
-        {
-          "name": "Maiya Blaney",
-          "url": "https://open.spotify.com/artist/0SdETlosHnWN9VNqJKpFGl"
-        }
-      ],
-      "duration_ms": 143733,
-      "name": "Fumbled",
-      "url": "https://open.spotify.com/track/47UiRv5ieyeywP8O44K0xp"
-    },
-    {
-      "added_at": "2025-11-19 10:21:55",
-      "album": {
         "name": "Waiting pt 1",
         "url": "https://open.spotify.com/album/6FMZxQoI210OHfL2jVCJdA"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 294250,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/4rhaL2Iy5N60QVkdRfBill"
+    },
+    {
+      "added_at": "2025-11-19 10:21:55",
+      "album": {
+        "name": "A Room With A Door That Closes",
+        "url": "https://open.spotify.com/album/6TldVLNIBmMkanSL3ISkHV"
+      },
+      "artists": [
+        {
+          "name": "Maiya Blaney",
+          "url": "https://open.spotify.com/artist/0SdETlosHnWN9VNqJKpFGl"
+        }
+      ],
+      "duration_ms": 143733,
+      "name": "Fumbled",
+      "url": "https://open.spotify.com/track/47UiRv5ieyeywP8O44K0xp"
     },
     {
       "added_at": "2025-11-19 10:21:55",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2025-11-19 10:21:55",
       "album": {
-        "name": "Interlude of Life",
-        "url": "https://open.spotify.com/album/7AQiGdIUkuhu45xYuW54D1"
-      },
-      "artists": [
-        {
-          "name": "Opaline",
-          "url": "https://open.spotify.com/artist/46wsrG0EdHQbAl8zbfYkog"
-        }
-      ],
-      "duration_ms": 199756,
-      "name": "Interlude of Life",
-      "url": "https://open.spotify.com/track/7gFXUAMdj7HchJy2HTR9g7"
-    },
-    {
-      "added_at": "2025-11-19 10:21:55",
-      "album": {
         "name": "Tem",
         "url": "https://open.spotify.com/album/6zuy2pmy5JqamvOJNlGe66"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 213160,
       "name": "Hold the Edges",
       "url": "https://open.spotify.com/track/3xScwoXWtndJkA4h1Nsh1S"
+    },
+    {
+      "added_at": "2025-11-19 10:21:55",
+      "album": {
+        "name": "Interlude of Life",
+        "url": "https://open.spotify.com/album/7AQiGdIUkuhu45xYuW54D1"
+      },
+      "artists": [
+        {
+          "name": "Opaline",
+          "url": "https://open.spotify.com/artist/46wsrG0EdHQbAl8zbfYkog"
+        }
+      ],
+      "duration_ms": 199756,
+      "name": "Interlude of Life",
+      "url": "https://open.spotify.com/track/7gFXUAMdj7HchJy2HTR9g7"
     }
   ],
   "unique_name": "Fresh Finds Experimental",

@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-3,050 songs - 7 day 22 hr 59 min
+3,051 songs - 7 day 23 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -647,7 +647,8 @@
 | [Die For You \- Remix](https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Die For You \(Remix\)](https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy) | 3:52 | 2023-02-24 | 2023-03-04 |
 | [DIE TRYING](https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [$ome $exy $ongs 4 U](https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR) | 3:15 | 2025-02-21 | 2025-03-15 |
 | [Diferente ft CNCO](https://open.spotify.com/track/02dJRtnDdqon7U1CQD5BpH) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Diferente ft CNCO](https://open.spotify.com/album/4QmDORaIrehe1FsixkVW79) | 3:19 | 2023-02-17 | 2023-02-25 |
-| [Dil Musafir](https://open.spotify.com/track/4Qd9zPJCFLPjbkfI66L4dX) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB), [Anvita Dutt](https://open.spotify.com/artist/4nJ0kto93jDLHQKmpGeYS8) | [Tu Meri Main Tera Main Tera Tu Meri](https://open.spotify.com/album/237OmhF9Vu3GATeI30W4ci) | 3:40 | 2025-12-19 |  |
+| [Dil Musafir](https://open.spotify.com/track/3SUBx1SnOucNKNHQ6gAvYy) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB), [Anvita Dutt](https://open.spotify.com/artist/4nJ0kto93jDLHQKmpGeYS8) | [Tu Meri Main Tera Main Tera Tu Meri](https://open.spotify.com/album/3vJCoY1wdD3jzpwAsR0lsz) | 3:40 | 2025-12-19 |  |
+| [Dil Musafir](https://open.spotify.com/track/4Qd9zPJCFLPjbkfI66L4dX) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Lucky Ali](https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB), [Anvita Dutt](https://open.spotify.com/artist/4nJ0kto93jDLHQKmpGeYS8) | [Tu Meri Main Tera Main Tera Tu Meri](https://open.spotify.com/album/237OmhF9Vu3GATeI30W4ci) | 3:40 | 2025-12-19 | 2025-12-26 |
 | [Dilemma](https://open.spotify.com/track/6Gn1Gi5zfCgSiTHikrDjni) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dilemma](https://open.spotify.com/album/0yYaqnTfyp9wlwJxRw1JFk) | 3:18 | 2023-12-08 | 2023-12-16 |
 | [Dim the lights](https://open.spotify.com/track/3me3bUUEDkJNKRM8WaRl2A) | [Val Monroe](https://open.spotify.com/artist/3R4gAfhxiN6cGlyueGErFo) | [Dim the lights](https://open.spotify.com/album/63r4pOZyLIitMCZrOwEhkE) | 1:54 | 2024-01-19 | 2024-01-27 |
 | [Dinah \- Complete Take 2](https://open.spotify.com/track/5ienEnB4QkJXUZrmz0f29p) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [In Paris \- The complete 1955\-1956 Barclay sessions](https://open.spotify.com/album/3m8bBFXdYcflYWPZuHZpp9) | 3:06 | 2024-11-01 | 2024-11-30 |

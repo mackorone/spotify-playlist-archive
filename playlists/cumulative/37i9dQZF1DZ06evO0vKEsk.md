@@ -4,7 +4,7 @@
 
 > This is Bruna Karla\. The essential tracks, all in one playlist.
 
-91 songs - 7 hr 50 min
+92 songs - 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [Palavras Líquidas](https://open.spotify.com/track/4S7Kl8lfNb5UuMM1weoNHo) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Palavras Líquidas](https://open.spotify.com/album/633KAVSvTRywDez2dhipDp) | 4:27 | 2023-07-09 | 2024-01-24 |
 | [Pensou em Mim](https://open.spotify.com/track/3eyalreOcCTILlrDh0qu6I) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Pensou em Mim](https://open.spotify.com/album/5HvWIjlVWNqOG0EeHcLIWu) | 7:09 | 2023-07-09 | 2025-08-07 |
 | [Por Tuas Mãos](https://open.spotify.com/track/41HzNQNqNMQ7CEUoI5avFy) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Aceito o Teu Chamado](https://open.spotify.com/album/4dWAoWGTlbC0JdSbODjFpG) | 4:04 | 2023-07-13 | 2024-01-16 |
-| [Porque Creio em Ti \- Ao Vivo](https://open.spotify.com/track/0p9rykIa6q6WOrWGrZSSKB) | [Quatro por Um](https://open.spotify.com/artist/5Ai5CFwarvc7z5SZp6s8dz), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Porque Creio em Ti \(Ao Vivo\)](https://open.spotify.com/album/5PqSfdNtdjfAD04B8Xug5f) | 5:00 | 2025-11-13 |  |
+| [Porque Creio em Ti \- Ao Vivo](https://open.spotify.com/track/0p9rykIa6q6WOrWGrZSSKB) | [Quatro por Um](https://open.spotify.com/artist/5Ai5CFwarvc7z5SZp6s8dz), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Porque Creio em Ti \(Ao Vivo\)](https://open.spotify.com/album/5PqSfdNtdjfAD04B8Xug5f) | 5:00 | 2025-11-13 | 2025-12-26 |
+| [Porque Creio em Ti \- Ao Vivo](https://open.spotify.com/track/648dnMgbizS9swlcL5qhDj) | [Quatro por Um](https://open.spotify.com/artist/5Ai5CFwarvc7z5SZp6s8dz), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Quatro por Um Forever \(Ao Vivo\)](https://open.spotify.com/album/20INxhFFGnvx75lNaxGxXs) | 5:00 | 2025-12-26 |  |
 | [Pra Ser Campeão](https://open.spotify.com/track/0l3qUnBNlLCgdU85ILMlzV) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Como Águia.](https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH) | 4:33 | 2023-07-09 | 2024-04-28 |
 | [Quando Eu Chorar](https://open.spotify.com/track/3cq63zWjxoePzdCylIM52x) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Advogado Fiel](https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri) | 4:24 | 2023-07-09 |  |
 | [Que Bom Você Chegou](https://open.spotify.com/track/5huHLhDKhr8AGktePPSowf) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Advogado Fiel](https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri) | 4:26 | 2023-07-27 |  |

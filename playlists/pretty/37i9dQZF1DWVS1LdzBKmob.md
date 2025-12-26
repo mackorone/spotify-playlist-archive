@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVS1LdzBKmob.md) - [plain]
 
 > Crystal singing bowls, frequencies and gongs to lift you up and transcend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,864 likes - 91 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,004 likes - 91 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVS1LdzBKmob.md) - [plain]
 | 90 | [Healing Mantra](https://open.spotify.com/track/4qNzM8Q6hYbm2bN0Q7lBOc) | [Tibetan Singing Bowl Sounds](https://open.spotify.com/artist/4JwZIdOOQe0KsFr5AENBUR) | [Healing Mantra](https://open.spotify.com/album/2r0rAXvotCBnCcvAlI3LCG) | 3:44 |
 | 91 | [Circle of Protection](https://open.spotify.com/track/66jbpDBE9mr18aHsnk6QzV) | [Healing Potion](https://open.spotify.com/artist/08sROjr8PALQrgskKAnmaw) | [Circle of Protection](https://open.spotify.com/album/0mUiJQB1s4kBqh9doY0977) | 2:32 |
 
-Snapshot ID: `AAAAAEieNlCmZYUwiH1o4vKywFdJsTwO`
+Snapshot ID: `AAAAAGAiiF0Ng9IJFz4tZ8z+rCQ7H9Bp`

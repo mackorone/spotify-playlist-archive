@@ -2642,7 +2642,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 56000,
       "name": "AKT I: \u201eICI VARSOVIE\u201d",
       "url": "https://open.spotify.com/track/4IILq5INvyFDuGcE0S6EF5"
@@ -2664,7 +2664,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 40920,
       "name": "AKT II: \u201eMIASTO IDZIE SPA\u0106\u201d",
       "url": "https://open.spotify.com/track/7M3MMseAOMKabh7jxScy4b"
@@ -2686,7 +2686,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 65493,
       "name": "AKT III: \u201eS\u0141OWIA\u0143SKI NIEPOK\u00d3J\u201d",
       "url": "https://open.spotify.com/track/3lQkAAih6dNPxQP58C9h25"
@@ -2708,7 +2708,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 47986,
       "name": "AKT IV: \u201eROZMIAR KL\u0118SKI\u201d",
       "url": "https://open.spotify.com/track/68et5skJyH8vZSFkptwz6T"
@@ -12541,6 +12541,24 @@
     },
     {
       "album": {
+        "name": "Gdy pada \u015bnieg",
+        "url": "https://open.spotify.com/album/56wDT25UEubse0eqDy7aOW"
+      },
+      "artists": [
+        {
+          "name": "Kayah",
+          "url": "https://open.spotify.com/artist/2v295z585SM68pluEKXKSM"
+        }
+      ],
+      "date_added": "2025-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157600,
+      "name": "Ding dong",
+      "url": "https://open.spotify.com/track/4gr5K52w3o3eWieublJZSi"
+    },
+    {
+      "album": {
         "name": "Adwokat Diabla",
         "url": "https://open.spotify.com/album/0tUUX9X5xhonVyCPXmHLDf"
       },
@@ -13378,7 +13396,7 @@
       ],
       "date_added": "2025-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 204827,
       "name": "dop\u00f3ki si\u0119 nie zn\u00fcdzisz",
       "url": "https://open.spotify.com/track/4WU8ZRMoonGLw00lXLOvpY"
@@ -14318,7 +14336,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-27",
+      "date_removed": null,
       "duration_ms": 147957,
       "name": "Dzisiaj w Betlejem",
       "url": "https://open.spotify.com/track/6pgUuHcHlp90IMm7tWbsUY"
@@ -14354,7 +14372,7 @@
       ],
       "date_added": "2024-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-27",
+      "date_removed": null,
       "duration_ms": 175141,
       "name": "Dzisiaj w Betlejem",
       "url": "https://open.spotify.com/track/0fv5644EXQ5Gdl0eRj6NpP"
@@ -15992,7 +16010,7 @@
       ],
       "date_added": "2023-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 181794,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972"
@@ -16010,7 +16028,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-25",
+      "date_removed": null,
       "duration_ms": 182306,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId"
@@ -16808,7 +16826,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 202666,
       "name": "FOTOMODELKI",
       "url": "https://open.spotify.com/track/2LBD44rqa3ZTodKecAayaa"
@@ -17356,6 +17374,24 @@
       "duration_ms": 182857,
       "name": "Gaz i benzyna",
       "url": "https://open.spotify.com/track/0JlMuZZyg2pymYWuII2vOJ"
+    },
+    {
+      "album": {
+        "name": "Kol\u0119dowo",
+        "url": "https://open.spotify.com/album/4AjdqfjO4lvkp7y9Hq1VJ4"
+      },
+      "artists": [
+        {
+          "name": "Zakopower",
+          "url": "https://open.spotify.com/artist/7ipF6efgwi4IXIGUWDVN4d"
+        }
+      ],
+      "date_added": "2025-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247546,
+      "name": "Gdy si\u0119 Chrystus rodzi",
+      "url": "https://open.spotify.com/track/2fDCaVljJnTrppFgpteKQm"
     },
     {
       "album": {
@@ -18182,7 +18218,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-27",
+      "date_removed": null,
       "duration_ms": 207626,
       "name": "GORE GWIAZDA JEZUSOWI",
       "url": "https://open.spotify.com/track/4NLkX5Hifpl9n6KYDOOMC8"
@@ -18774,7 +18810,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 179555,
       "name": "Halo tu Londyn",
       "url": "https://open.spotify.com/track/7o0s4eVw14M1QjfmbLGtuI"
@@ -21526,7 +21562,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 206639,
       "name": "It's Beginning to Look a Lot like Christmas",
       "url": "https://open.spotify.com/track/0lLdorYw7lVrJydTINhWdI"
@@ -21544,7 +21580,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-23",
+      "date_removed": null,
       "duration_ms": 207199,
       "name": "It's Beginning to Look a Lot like Christmas",
       "url": "https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3"
@@ -21614,7 +21650,7 @@
       ],
       "date_added": "2024-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-09",
+      "date_removed": null,
       "duration_ms": 155933,
       "name": "It's Beginning to Look a Lot Like Christmas (with Mitchell Ayres & His Orchestra)",
       "url": "https://open.spotify.com/track/6IeK3Ap5m3HabwJxgI6eSE"
@@ -23570,7 +23606,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 409600,
       "name": "Kamie\u0144 z serca",
       "url": "https://open.spotify.com/track/0A96peS7MFS4qNDFPGGQe2"
@@ -29036,7 +29072,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-27",
+      "date_removed": null,
       "duration_ms": 214506,
       "name": "Mario, czy ju\u017c wiesz?",
       "url": "https://open.spotify.com/track/2QQ2cKhbOUrbMBYGHQM3il"
@@ -30168,7 +30204,7 @@
       ],
       "date_added": "2021-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-28",
+      "date_removed": null,
       "duration_ms": 245333,
       "name": "Mistletoe and Wine",
       "url": "https://open.spotify.com/track/3AgiRs3oxc2dFh0CPUHXJs"
@@ -31638,21 +31674,13 @@
       },
       "artists": [
         {
-          "name": "Brian Kierulf",
-          "url": "https://open.spotify.com/artist/7xPxbgA4TgMgFHWgYORx47"
-        },
-        {
-          "name": "Josh Schwartz",
-          "url": "https://open.spotify.com/artist/1s36VyXzwA4Q6RC36tcO6q"
-        },
-        {
           "name": "Britney Spears",
           "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
         }
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-28",
+      "date_removed": null,
       "duration_ms": 255400,
       "name": "My Only Wish (This Year)",
       "url": "https://open.spotify.com/track/0YWUHZPJVg4iujddsJDwhM"
@@ -36000,7 +36028,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 229266,
       "name": "ODTRUTKA",
       "url": "https://open.spotify.com/track/7Irx82ZzAsYeVnkLKB8CGC"
@@ -37182,7 +37210,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 259760,
       "name": "OSTATNI?",
       "url": "https://open.spotify.com/track/3a51UOTGkYqS33tMHPCmnf"
@@ -38507,6 +38535,24 @@
     },
     {
       "album": {
+        "name": "Hej, kol\u0119da!",
+        "url": "https://open.spotify.com/album/5CVxPZNMvlBfxmXMiNna1w"
+      },
+      "artists": [
+        {
+          "name": "Rokiczanka",
+          "url": "https://open.spotify.com/artist/5cA6nGWK1TMPP3AM0pNCPc"
+        }
+      ],
+      "date_added": "2025-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173846,
+      "name": "Pastora\u0142ka od serca do ucha",
+      "url": "https://open.spotify.com/track/1xtO3Kfjlcu2TuukVTIbpR"
+    },
+    {
+      "album": {
         "name": "Koncert Kol\u0119d i Pastora\u0142ek w Bazylice Jasnog\u00f3rskiej",
         "url": "https://open.spotify.com/album/1jytpRhriLdVwruvpQoCDP"
       },
@@ -39650,7 +39696,7 @@
       ],
       "date_added": "2025-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 192134,
       "name": "Plan B",
       "url": "https://open.spotify.com/track/0TfBoSPyJlGOGYtFXeGQnH"
@@ -41687,6 +41733,24 @@
     },
     {
       "album": {
+        "name": "Kol\u0119dy",
+        "url": "https://open.spotify.com/album/6BLl56nSFlXIMzByC4Nrzk"
+      },
+      "artists": [
+        {
+          "name": "Arka Noego",
+          "url": "https://open.spotify.com/artist/70yuMiCWHzG48ilOFrz5VE"
+        }
+      ],
+      "date_added": "2025-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172653,
+      "name": "PRZYBIE\u017bELI DO BETLEJEM",
+      "url": "https://open.spotify.com/track/63MczeY2axQeDNp0jon6jf"
+    },
+    {
+      "album": {
         "name": "Polskie kol\u0119dy 2019",
         "url": "https://open.spotify.com/album/0RywG2nMJY3CZU3yTFbH3n"
       },
@@ -41734,7 +41798,7 @@
       ],
       "date_added": "2024-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-27",
+      "date_removed": null,
       "duration_ms": 122586,
       "name": "Przybie\u017celi do Betlejem",
       "url": "https://open.spotify.com/track/5q6G1LP5s0p8H2AhARHsbs"
@@ -42128,7 +42192,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 172120,
       "name": "PUSTOSZEJ\u0104 SALE KINOWE",
       "url": "https://open.spotify.com/track/5ZzqEM2c3z0EV1fXjOdIAY"
@@ -42212,7 +42276,7 @@
       ],
       "date_added": "2022-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-27",
+      "date_removed": null,
       "duration_ms": 174445,
       "name": "P\u00f3jd\u017amy Wszyscy do Stajenki",
       "url": "https://open.spotify.com/track/56RYodPRkrMoTNrLOzaCja"
@@ -42690,7 +42754,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 224560,
       "name": "RATUNKU!",
       "url": "https://open.spotify.com/track/2hSt1qI3QToqpaylO4NHBd"
@@ -49350,7 +49414,7 @@
       ],
       "date_added": "2021-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-28",
+      "date_removed": null,
       "duration_ms": 261626,
       "name": "Thank God It's Christmas - Non-Album Single",
       "url": "https://open.spotify.com/track/2xGO2UjzxeVQSIkyg98vck"
@@ -50400,7 +50464,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 145811,
       "name": "to nieprawda, \u017ce nie lubisz r\u00f3\u017c ;**",
       "url": "https://open.spotify.com/track/5xskLtosDcTGusD4WZ4TFc"
@@ -51308,7 +51372,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 244493,
       "name": "TRZYKROPKI",
       "url": "https://open.spotify.com/track/5BuBJpjdOByZGbHWcTy2wj"
@@ -56318,7 +56382,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 213191,
       "name": "Zabior\u0119 Ci\u0119 Tam",
       "url": "https://open.spotify.com/track/6LrArcAWVYhqtl68a7Wt1U"
@@ -56644,7 +56708,7 @@
       ],
       "date_added": "2022-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-29",
+      "date_removed": null,
       "duration_ms": 197015,
       "name": "Za\u015bnie\u017cone miasta",
       "url": "https://open.spotify.com/track/3fuoTmO1gkYP8dPUdT0LR8"
@@ -57966,7 +58030,7 @@
       ],
       "date_added": "2022-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-28",
+      "date_removed": null,
       "duration_ms": 212373,
       "name": "\u015aWIE\u0106 GWIAZDECZKO \u015aWIE\u0106",
       "url": "https://open.spotify.com/track/6oF1c2zqWjb1MiLDLuJev1"

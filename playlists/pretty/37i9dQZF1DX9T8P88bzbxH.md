@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 
 > Some nights aren’t meant to be streamed; this is one of them\. Cover: 3P
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,921 likes - 28 songs - 1 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,920 likes - 28 songs - 1 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

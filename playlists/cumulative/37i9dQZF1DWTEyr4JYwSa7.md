@@ -4,7 +4,7 @@
 
 > La playlist qui sent le sapin pis la joie!
 
-375 songs - 20 hr 24 min
+376 songs - 20 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Dance of the Sugar Plum Fairy](https://open.spotify.com/track/0P8cvxv29JhKScuB3mw8x0) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z) | [Holidays](https://open.spotify.com/album/6VsWnIcWBZECia7pKtiuFK) | 1:44 | 2023-12-08 | 2025-05-09 |
 | [Dear Christmas \- V.F](https://open.spotify.com/track/4J2ZoKddzvOYvsFr3gZbia) | [Ryan Kennedy](https://open.spotify.com/artist/25jAO2QiZae4aSLA9LBXHS) | [Dear Christmas \- Single](https://open.spotify.com/album/6qmKVcB8zYGCSNQmXTXvSO) | 3:25 | 2021-12-17 | 2022-07-26 |
 | [Dehors](https://open.spotify.com/track/7mhZardfXbJ6vsEBiBxngd) | [Renee Wilkin](https://open.spotify.com/artist/5f3h6jc2qEOJbMaPKFh1ho) | [Dehors](https://open.spotify.com/album/1cTWrZpdwBVM7TjK0tYGrO) | 3:25 | 2025-12-12 | 2025-12-21 |
+| [Disco Noël](https://open.spotify.com/track/1bfiQzqL8yBSeAW8xcERHJ) | [Guillaume Leclerc](https://open.spotify.com/artist/5Lll9cqiDEbToAiJiOppXX) | [Le temps des fêtes volume 2](https://open.spotify.com/album/6JmfKGWbGYtqx8oWUx9aKp) | 2:34 | 2025-12-12 |  |
 | [Do They Know It's Christmas?](https://open.spotify.com/track/6Z7nSvnAhMasviVPmdEZKC) | [Band Aid](https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ) | [Christmas Music 100 Hits](https://open.spotify.com/album/2whKuzNvFl6OnkiOvN1vA0) | 3:49 | 2021-12-17 | 2022-07-26 |
 | [Do They Know It's Christmas? \- 1984 Version](https://open.spotify.com/track/7IbB9ccl3nkSGof0K5tMd2) | [Band Aid](https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ) | [Christmas Rock Music](https://open.spotify.com/album/7abCyFIJQ5R85d1O6pBrfe) | 3:41 | 2022-11-12 | 2022-11-13 |
 | [Do They Know It's Christmas? \- 1984 Version](https://open.spotify.com/track/4Yg2w0P29BBBMixyeNjDtj) | [Band Aid](https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ) | [Do They Know It’s Christmas?](https://open.spotify.com/album/2WlRAsKdyYOwg2tdBjxVwq) | 3:42 | 2021-12-17 | 2024-04-19 |
@@ -373,7 +374,7 @@
 | [Wonderful Christmastime](https://open.spotify.com/track/5aj4UEKeW7T3eI4ETaN7Me) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Holidays Are Coming](https://open.spotify.com/album/59CugdPue0ig1rBmTWJ2AB) | 3:45 | 2022-11-12 | 2022-11-14 |
 | [Wonderful Christmastime \(Edited Version\) \[Remastered\]](https://open.spotify.com/track/1F8tXdM8cz9bH5PiK1SuAB) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Now That's What I Call Christmas](https://open.spotify.com/album/2S4v9bMfAM13mpnXYsgUAi) | 3:45 | 2021-12-17 | 2022-07-28 |
 | [Wonderful Christmastime \- Edited Version / Remastered 2011](https://open.spotify.com/track/1SV1fxF65n9NhRHp3KlBuu) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney II \(Special Edition\)](https://open.spotify.com/album/48rypPDKdKiusMXKaYcEGV) | 3:47 | 2021-12-17 | 2024-04-19 |
-| [À la fin décembre](https://open.spotify.com/track/3N46SoPdsLRzjAc5JVaPhV) | [Lydia&Sebastien](https://open.spotify.com/artist/1saGaP0yZcG7aKOJVdJCse) | [À la fin décembre](https://open.spotify.com/album/1IGsxh3BHMUVT3MkJPKbK3) | 3:09 | 2021-12-17 |  |
+| [À la fin décembre](https://open.spotify.com/track/3N46SoPdsLRzjAc5JVaPhV) | [Lydia&Sebastien](https://open.spotify.com/artist/1saGaP0yZcG7aKOJVdJCse) | [À la fin décembre](https://open.spotify.com/album/1IGsxh3BHMUVT3MkJPKbK3) | 3:09 | 2021-12-17 | 2025-12-26 |
 | [À soir c'est Noël](https://open.spotify.com/track/30Zg9WuiTalyM3wmwiqs1J) | [Marc Picard](https://open.spotify.com/artist/2cCnSvJofd7JKMNgKVeXou) | [À soir c'est Noël](https://open.spotify.com/album/14PccyfM5layefTF0yAB1z) | 2:23 | 2021-12-17 |  |
 | [Ça Berger](https://open.spotify.com/track/2P3wmWVzs9qVkGcIkL94Dn) | [Laurence Jalbert](https://open.spotify.com/artist/1oFTFxi0QwrD1xr3sg5S3l) | [Noël Des Anges](https://open.spotify.com/album/5l6INRksl8l9Pi3HUcWuJh) | 2:57 | 2021-12-17 |  |
 | [Ça bergers](https://open.spotify.com/track/51TcglSn8lt01fQEnKd2Jx) | [Jean\-Pierre Ferland](https://open.spotify.com/artist/6ztZs0FOUv1FqwSxsj11R3) | [Trésors de Noël](https://open.spotify.com/album/0ipMElEDtwVT3EUsv4ZqZy) | 2:26 | 2021-12-17 | 2022-07-27 |

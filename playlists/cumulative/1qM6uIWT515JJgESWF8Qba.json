@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "Plight Goes On",
+        "url": "https://open.spotify.com/album/7C005ZPm1M5yhw4pEWE2lX"
+      },
+      "artists": [
+        {
+          "name": "The Dead Hearts",
+          "url": "https://open.spotify.com/artist/2s9mLTL8FL7NWqACzxXrwO"
+        }
+      ],
+      "date_added": "2025-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212718,
+      "name": "Away",
+      "url": "https://open.spotify.com/track/2tm4WMB9krMVIFdbKfMw14"
+    },
+    {
+      "album": {
         "name": "BECAUSE OF YOU",
         "url": "https://open.spotify.com/album/43uBPQfjTwvO2iwaHdqxg2"
       },
@@ -1512,6 +1530,24 @@
       "duration_ms": 133802,
       "name": "Sugar Husk",
       "url": "https://open.spotify.com/track/5z1wdXc7CubJyvWkSqT8g6"
+    },
+    {
+      "album": {
+        "name": "Sunday Lazy Afternoon",
+        "url": "https://open.spotify.com/album/3LAwyyI6spkmdzMstWDXaB"
+      },
+      "artists": [
+        {
+          "name": "Johnny & The G-Men",
+          "url": "https://open.spotify.com/artist/6rdvPNdq54f4TVhXsabGV6"
+        }
+      ],
+      "date_added": "2025-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292936,
+      "name": "Sunday Lazy Afternoon",
+      "url": "https://open.spotify.com/track/2o9V82qmpXdcykHrfR168t"
     },
     {
       "album": {

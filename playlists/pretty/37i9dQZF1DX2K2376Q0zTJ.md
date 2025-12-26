@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 
 > 2025年にプレイリスト「EQUAL Japan」で聴かれた楽曲を総まとめ。cover: ちゃんみな
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,503 likes - 48 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,509 likes - 48 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 47 | [Body Machine](https://open.spotify.com/track/4Q8Hlx9ZDNF4RwAIgbxex4) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [Body Machine](https://open.spotify.com/album/3Lo5yBhXUmkC1lzb4TKeIR) | 3:52 |
 | 48 | [かわいいもん](https://open.spotify.com/track/4XxY7GfP7sm7cSzu4PB0uj) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [あたしを選んだ君とあたしを選ばなかった君へ](https://open.spotify.com/album/5zMjE09DDAZ3miHKZZmfhr) | 2:32 |
 
-Snapshot ID: `AAAAAMTQuBBTK/bL72u/IGo3SWtIG0Lr`
+Snapshot ID: `AAAAAKUkRRmxRy+NlFSuzHL6ObADQH2B`

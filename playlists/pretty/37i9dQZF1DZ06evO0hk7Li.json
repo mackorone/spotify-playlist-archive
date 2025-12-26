@@ -1,12 +1,12 @@
 {
   "description": "This is Jacob Banks. The essential tracks, all in one playlist.",
-  "num_followers": 40034,
+  "num_followers": 40033,
   "original_name": "This Is Jacob Banks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUnbgAAAAAA2gUofENrK5GPCH1fhqH3X",
+  "snapshot_id": "aUstAAAAAAAs2vQd+cITgLoy4uhg8TMb",
   "tracks": [
     {
       "added_at": null,
@@ -259,6 +259,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lies About The War",
+        "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 226813,
+      "name": "By Design [Evel Knievel]",
+      "url": "https://open.spotify.com/track/3AW8GEO8kc0X4zVGJFGkh2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Paradox",
         "url": "https://open.spotify.com/album/32cDtKd8eH2F74ChwdiWaT"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 233497,
       "name": "Monster",
       "url": "https://open.spotify.com/track/5GQQGVrDjbuTx3GcmLncH5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lies About The War",
-        "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 226813,
-      "name": "By Design [Evel Knievel]",
-      "url": "https://open.spotify.com/track/3AW8GEO8kc0X4zVGJFGkh2"
     },
     {
       "added_at": null,
@@ -331,30 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "On My Soul",
-        "url": "https://open.spotify.com/album/1I5QGY6wFJp0LjgDvbfV87"
-      },
-      "artists": [
-        {
-          "name": "Tobe Nwigwe",
-          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
-        },
-        {
-          "name": "Nas",
-          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
-        },
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "On My Soul",
-      "url": "https://open.spotify.com/track/2xLrkO5wPNzl5cNjLoPeNW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lies About The War",
         "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
       },
@@ -375,6 +351,30 @@
       "duration_ms": 171480,
       "name": "Coolin",
       "url": "https://open.spotify.com/track/1Yy8ZVrOvISrzbYqvm3qck"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "On My Soul",
+        "url": "https://open.spotify.com/album/1I5QGY6wFJp0LjgDvbfV87"
+      },
+      "artists": [
+        {
+          "name": "Tobe Nwigwe",
+          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
+        },
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "On My Soul",
+      "url": "https://open.spotify.com/track/2xLrkO5wPNzl5cNjLoPeNW"
     },
     {
       "added_at": null,
@@ -411,26 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fifty Shades Freed (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        },
-        {
-          "name": "Louis The Child",
-          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
-        }
-      ],
-      "duration_ms": 219626,
-      "name": "Diddy Bop (x Louis The Child)",
-      "url": "https://open.spotify.com/track/2KZybiXVEQExXm2vtAcP8f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lies About The War",
         "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 202213,
       "name": "Bang",
       "url": "https://open.spotify.com/track/7MQxN4lV9BC6Y5qgx4Inxc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fifty Shades Freed (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        },
+        {
+          "name": "Louis The Child",
+          "url": "https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0"
+        }
+      ],
+      "duration_ms": 219626,
+      "name": "Diddy Bop (x Louis The Child)",
+      "url": "https://open.spotify.com/track/2KZybiXVEQExXm2vtAcP8f"
     },
     {
       "added_at": null,
@@ -479,22 +479,6 @@
       "duration_ms": 169166,
       "name": "Part Time Love",
       "url": "https://open.spotify.com/track/3dhpEvVaZ81gUdmQjdNuK8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Monologue",
-        "url": "https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 197701,
-      "name": "Worthy",
-      "url": "https://open.spotify.com/track/1CZbcH7PL9aa5x6FCAtUKT"
     },
     {
       "added_at": null,
@@ -535,6 +519,22 @@
       "duration_ms": 241573,
       "name": "Kumbaya (feat. Bibi Bourelly)",
       "url": "https://open.spotify.com/track/3gevHqNgAIl0dqFenYqkiM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Monologue",
+        "url": "https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 197701,
+      "name": "Worthy",
+      "url": "https://open.spotify.com/track/1CZbcH7PL9aa5x6FCAtUKT"
     },
     {
       "added_at": null,
@@ -691,6 +691,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Monologue",
+        "url": "https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 208172,
+      "name": "Something Beautiful",
+      "url": "https://open.spotify.com/track/3NAgVeM0Lr6GPh8tsQUhiK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Miles",
         "url": "https://open.spotify.com/album/5NTwzn0gyfspqs0CgRXAnK"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 155624,
       "name": "Miles",
       "url": "https://open.spotify.com/track/4eI0cTeYray8jcBxlFjl2z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Monologue",
-        "url": "https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 208172,
-      "name": "Something Beautiful",
-      "url": "https://open.spotify.com/track/3NAgVeM0Lr6GPh8tsQUhiK"
     },
     {
       "added_at": null,
@@ -759,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Monologue",
+        "url": "https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 294227,
+      "name": "Dear Simone",
+      "url": "https://open.spotify.com/track/1SaHqUS2eNW507xDzTooPq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I'm A Dream",
         "url": "https://open.spotify.com/album/0yaanxtB24lLgKvzXPw4gi"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 259986,
       "name": "Remember",
       "url": "https://open.spotify.com/track/78sjOk4yDMFShsoFzy3ctJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Monologue",
-        "url": "https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 294227,
-      "name": "Dear Simone",
-      "url": "https://open.spotify.com/track/1SaHqUS2eNW507xDzTooPq"
     },
     {
       "added_at": null,

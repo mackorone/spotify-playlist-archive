@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDU180SwHkZi.md) - [plain]
 | 53 | [me\-a\-holic](https://open.spotify.com/track/6IiBIiix2651uaENtpobXj) | [Halle Abadi](https://open.spotify.com/artist/7mA4vx3PZgpnmvmvYblrTW) | [me\-a\-holic](https://open.spotify.com/album/6gSc7eE8OemBQLlS2vJhbB) | 2:08 |
 | 54 | [Like What U See](https://open.spotify.com/track/1KILi2wUvgaHEBN935D2so) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [Like What U See](https://open.spotify.com/album/6QlJOaK2GXm0yKhiWM6yxu) | 2:29 |
 | 55 | [Subho Shaam](https://open.spotify.com/track/3wzFBfZDuM0m0Cn1j3b1zF) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl), [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Love Language](https://open.spotify.com/album/20Ar139mlrKYQWhCJS55iO) | 2:56 |
-| 56 | [Beautiful Things](https://open.spotify.com/track/1JspnLoGGVZt3C3kLy7Dhd) | [Brynn Elliott](https://open.spotify.com/artist/43AN9FNovCCWxPX4talyzz) | [Beautiful Things](https://open.spotify.com/album/41ayUx4slo41LX8ND6CVws) | 3:54 |
-| 57 | [Haule Haule](https://open.spotify.com/track/3I4JiUh4I6I2JJaqfIT7dO) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Haule Haule](https://open.spotify.com/album/0nbatMNOhz0rm79eC6C0Ys) | 4:03 |
+| 56 | [Haule Haule](https://open.spotify.com/track/3I4JiUh4I6I2JJaqfIT7dO) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Haule Haule](https://open.spotify.com/album/0nbatMNOhz0rm79eC6C0Ys) | 4:03 |
+| 57 | [Beautiful Things](https://open.spotify.com/track/1JspnLoGGVZt3C3kLy7Dhd) | [Brynn Elliott](https://open.spotify.com/artist/43AN9FNovCCWxPX4talyzz) | [Beautiful Things](https://open.spotify.com/album/41ayUx4slo41LX8ND6CVws) | 3:54 |
 | 58 | [Sad Girl Heaven](https://open.spotify.com/track/4mddEmThV0rkrC3fZJXwf4) | [Elle Winter](https://open.spotify.com/artist/7LkNpfFX2XpGAO0Amhtfhl) | [Sad Girl Heaven](https://open.spotify.com/album/7iirAzgKmWYF2vVamc1DZw) | 2:47 |
 | 59 | [Give Up](https://open.spotify.com/track/3zXuytlXSsiL4CNmJIA5VS) | [Avanti Nagral](https://open.spotify.com/artist/2Wwa2Sov84hVY7Hxfqu71Y) | [Quarter Life Crisis](https://open.spotify.com/album/4DTZ4p8XB7SeXAPLYwzb6A) | 4:08 |
 | 60 | [Cope](https://open.spotify.com/track/2MyUXJbj196Hv3zdWUivXp) | [Not Famous](https://open.spotify.com/artist/2iKfppgaY3Er8HpZWh4rBt) | [Cope](https://open.spotify.com/album/3TYKjOUpuQo1iV4NShBPPN) | 2:46 |
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFDU180SwHkZi.md) - [plain]
 | 134 | [Get Dat](https://open.spotify.com/track/1t1eeYi7HjDQxcgjZavRGu) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Winning](https://open.spotify.com/album/2UPsKOlorU3IYqvC1E3IjG) | 2:43 |
 | 135 | [Get It Done](https://open.spotify.com/track/5J9WaXYErqUTZoNmk7ebG6) | [Saint Bodhi](https://open.spotify.com/artist/6JQTItHYnmTq4PxskHsxr4) | [Get It Done](https://open.spotify.com/album/1MVJomsYj2fjYDtA5QzEk3) | 2:16 |
 
-Snapshot ID: `AcFHUAAAAAC8K/NEUY3qMokGD4wTsekn`
+Snapshot ID: `AcFM8AAAAABjQtuql9Cs6BN+YaZdDt6R`

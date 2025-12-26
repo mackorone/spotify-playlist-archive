@@ -1,12 +1,12 @@
 {
   "description": "Random AF.... Huge playlist to brighten long days, from all genres. Shuffle it! New music added DAILY :) www.avondalerecords.com",
-  "num_followers": 1067,
+  "num_followers": 1068,
   "original_name": "Shuffle Roulette",
   "owner": {
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAAI5lQecJysOh8WZ3x3jEDBhwhI7zd3",
+  "snapshot_id": "AAAI6H7WaD6xW/pdYPIrnB5FtI9VCD0R",
   "tracks": [
     {
       "added_at": "2025-08-03 07:05:37",
@@ -4853,6 +4853,22 @@
       "url": "https://open.spotify.com/track/240S4AH0AvoM75oZ7PDk2Y"
     },
     {
+      "added_at": "2025-12-23 11:50:58",
+      "album": {
+        "name": "Graveyard Sweetheart",
+        "url": "https://open.spotify.com/album/21E6vOZbzVqeWIIYFGUUxN"
+      },
+      "artists": [
+        {
+          "name": "Triiiplesixxx",
+          "url": "https://open.spotify.com/artist/55rQFsoNEHp3uIpF8mrhDI"
+        }
+      ],
+      "duration_ms": 141363,
+      "name": "Graveyard Sweetheart",
+      "url": "https://open.spotify.com/track/4X9aqdTz0L02xF2POPHZFV"
+    },
+    {
       "added_at": "2025-12-23 11:52:34",
       "album": {
         "name": "Born of the Breakdown",
@@ -5091,6 +5107,38 @@
       "duration_ms": 97000,
       "name": "ALL MY FRIENDS",
       "url": "https://open.spotify.com/track/4LOqG8S1DIMwxJZvdx98cE"
+    },
+    {
+      "added_at": "2025-12-25 09:37:03",
+      "album": {
+        "name": "Grown Up",
+        "url": "https://open.spotify.com/album/3jDQljn8CzAVOMZVdc7dlh"
+      },
+      "artists": [
+        {
+          "name": "The DT's",
+          "url": "https://open.spotify.com/artist/6SD8VqIT4EO7YVA2to3ZRZ"
+        }
+      ],
+      "duration_ms": 196041,
+      "name": "Grown Up",
+      "url": "https://open.spotify.com/track/1El7h6rWS5ZHLeXVMGWMDI"
+    },
+    {
+      "added_at": "2025-12-25 09:37:41",
+      "album": {
+        "name": "Glossy Cover",
+        "url": "https://open.spotify.com/album/0fC5YSOcEvWVE1SIMUuLgg"
+      },
+      "artists": [
+        {
+          "name": "Vasch",
+          "url": "https://open.spotify.com/artist/5cOG2PUwppnjhU7rlWLeaY"
+        }
+      ],
+      "duration_ms": 182556,
+      "name": "Glossy Cover",
+      "url": "https://open.spotify.com/track/4yK0qEK134tVyaNcoRx4qw"
     }
   ],
   "unique_name": "Shuffle Roulette",

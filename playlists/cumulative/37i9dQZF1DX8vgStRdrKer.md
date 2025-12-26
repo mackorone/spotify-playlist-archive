@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-686 songs - 2 day 9 hr 21 min
+687 songs - 2 day 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,7 +238,7 @@
 | [Heal Our Land](https://open.spotify.com/track/22A8LtBraZbTlhEBWRlA50) | [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8) | [Heal Our Land](https://open.spotify.com/album/3iz7QSdqWk5HzCKJYkG8RA) | 5:29 | 2025-10-03 |  |
 | [heaven on earth](https://open.spotify.com/track/5z2Iiuh9BOAyeiKNm4H6Ck) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [heaven on earth](https://open.spotify.com/album/4gyOK38hfHydcIWYZxrWeA) | 3:23 | 2024-03-22 | 2025-06-20 |
 | [Heaven's Got My Back](https://open.spotify.com/track/0CxtJRvWV4wx9PgtpPuaII) | [Chidiya Ohiagu](https://open.spotify.com/artist/7H9pyCCQxjzJb9aaIsrSgp), [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Heaven's Got My Back](https://open.spotify.com/album/50RExeqQJQuzvidZovHFQ2) | 2:30 | 2025-08-08 | 2025-10-31 |
-| [Heaven's Song \- Live](https://open.spotify.com/track/4BDpyzOFvMbo6upzHeOW4G) | [Worship Nation](https://open.spotify.com/artist/50nfiM5DcM0J1XFaO3Osul), [Jackline Ssenabulya](https://open.spotify.com/artist/7GeAormCPFUcGJDvfuVc9m) | [Holy \(Live\)](https://open.spotify.com/album/49IZaL7faK0LmhZi88d0Yl) | 9:26 | 2025-10-10 |  |
+| [Heaven's Song \- Live](https://open.spotify.com/track/4BDpyzOFvMbo6upzHeOW4G) | [Worship Nation](https://open.spotify.com/artist/50nfiM5DcM0J1XFaO3Osul), [Jackline Ssenabulya](https://open.spotify.com/artist/7GeAormCPFUcGJDvfuVc9m) | [Holy \(Live\)](https://open.spotify.com/album/49IZaL7faK0LmhZi88d0Yl) | 9:26 | 2025-10-10 | 2025-12-26 |
 | [HEAVENS GATE](https://open.spotify.com/track/7tZ1qPrxuBApMF6j3lJWJE) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [I Am](https://open.spotify.com/album/65nIbGuai3iNDw0jQUbYgw) | 4:49 | 2024-07-26 | 2024-08-17 |
 | [Here I am](https://open.spotify.com/track/78oQ0ay9cicFhLHIIMs6Me) | [Evans Ighodalo](https://open.spotify.com/artist/0g3JSjP5xE0ljj4TmNv6Av), [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q) | [Here I am](https://open.spotify.com/album/1iDsQqR04cOALYjGFfO0gm) | 7:15 | 2025-08-22 | 2025-11-30 |
 | [Higher](https://open.spotify.com/track/1I7w3h9gaGDVf9WPcwdIEB) | [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH), [GospelOnDeBeatz](https://open.spotify.com/artist/25NWMcasP3xpOcg7KUJwZe) | [Ghetto Gospel](https://open.spotify.com/album/1KFs9StCHzHZknVYs1iZb2) | 3:00 | 2024-07-26 | 2024-11-09 |
@@ -414,7 +414,7 @@
 | [More Than Able](https://open.spotify.com/track/1PVYkMOIxOV4JCJhoUOBrg) | [Tosin Bee](https://open.spotify.com/artist/1fjiVka7H0Dydce3sPArtt) | [More Than Able](https://open.spotify.com/album/2eCu0jcbcaPB3no72aewOI) | 2:34 | 2025-10-10 |  |
 | [More Than Enough](https://open.spotify.com/track/3jeP2N4ZncGyBWNsfWpXj3) | [Yinka Okeleye](https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9) | [More Than Enough](https://open.spotify.com/album/4ILIZGOexhKYEfdSaO5Q3z) | 5:00 | 2025-10-24 | 2025-12-10 |
 | [MOST HIGH](https://open.spotify.com/track/31naSIp2Ioi41c5gavyUkY) | [Solana](https://open.spotify.com/artist/3l476od4bTSjScrR20hpjR), [Killertunes](https://open.spotify.com/artist/1159Tto4wlVZpA3jeqXWZv) | [MOST HIGH](https://open.spotify.com/album/0NuHWN44BKVoljjBUY6VmF) | 3:20 | 2024-02-09 | 2025-05-30 |
-| [Mount Carmel II](https://open.spotify.com/track/0aIukRf2gSZqmuOIFeBarQ) | [Deborah Billyben](https://open.spotify.com/artist/66RwPamHb7MkgJKuUcoKyj) | [Mount Carmel II](https://open.spotify.com/album/2cxabjK2gr29O1RsRvuPu3) | 10:13 | 2025-10-10 |  |
+| [Mount Carmel II](https://open.spotify.com/track/0aIukRf2gSZqmuOIFeBarQ) | [Deborah Billyben](https://open.spotify.com/artist/66RwPamHb7MkgJKuUcoKyj) | [Mount Carmel II](https://open.spotify.com/album/2cxabjK2gr29O1RsRvuPu3) | 10:13 | 2025-10-10 | 2025-12-26 |
 | [Move](https://open.spotify.com/track/1o0vYv6GqhLIxORHLnm0zj) | [Nomza](https://open.spotify.com/artist/0ebNqGJ09joqyFiemZyLpx) | [Move](https://open.spotify.com/album/2N7u6Odm8DaxfsUVaowOQY) | 2:23 | 2025-06-06 | 2025-07-29 |
 | [Move On](https://open.spotify.com/track/6DZopdGdHv6WIh6d1Qh0rZ) | [Moses Luka](https://open.spotify.com/artist/2vGifkRUpxkURfLeKJoikp) | [Move On](https://open.spotify.com/album/57FkLvxpYb3TvD6xbRvdOj) | 2:50 | 2025-08-08 | 2025-10-31 |
 | [Moving forward](https://open.spotify.com/track/3csf2n4WnJhsKAZsLMLtXi) | [TESTIMONY JAGA](https://open.spotify.com/artist/0RuEx08C8sVTmomMsW9N3h) | [Moving forward](https://open.spotify.com/album/6V6iJ7TeErriUcj8Epx4SR) | 3:50 | 2025-07-11 | 2025-08-07 |
@@ -637,6 +637,7 @@
 | [We Move](https://open.spotify.com/track/1XXPxP2QYn1pPhF1oDd6Th) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [We Move](https://open.spotify.com/album/0TGyw2J2XGuLiEq6DwAJHc) | 4:47 | 2024-10-11 |  |
 | [We Outside](https://open.spotify.com/track/3uGMVZsnoP9UZliJ2kDwtf) | [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo) | [We Outside](https://open.spotify.com/album/4RmmwLWxkxihUhOFlFJQ0h) | 2:47 | 2025-08-01 |  |
 | [We Prevail](https://open.spotify.com/track/4jdeJiC74gkk4C2xienh6i) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Neeja](https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi) | [We Prevail](https://open.spotify.com/album/3AvmRtH11WdKuUfNUP2R3g) | 3:44 | 2024-03-01 | 2025-06-20 |
+| [We Want More](https://open.spotify.com/track/4DosoX2PHIxHN3xVsfJ9kW) | [Daniel Ojo](https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r), [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [We Want More](https://open.spotify.com/album/52bQsCSXJyPE4WBxVSMFEe) | 4:56 | 2025-12-26 |  |
 | [Welcome Home](https://open.spotify.com/track/6W27jS10i7jX31crCkAHu4) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Welcome Home](https://open.spotify.com/album/0defqgIaxsVJwyllqYu85e) | 2:22 | 2025-06-27 | 2025-10-03 |
 | [Welenga](https://open.spotify.com/track/5F8HUZCYpoDYGaHs76jU7r) | [Beracah](https://open.spotify.com/artist/6863qPyEB0LcFIWU2juD5i) | [Welenga](https://open.spotify.com/album/5gmXcBiqXutVCSJKqiGlZJ) | 3:15 | 2024-03-29 |  |
 | [Wewe Ni Zaidi](https://open.spotify.com/track/3nJcZmXfi1euuEuj5lbd2M) | [J blessing](https://open.spotify.com/artist/63aaHMQvSM2mORk2LWPLdr), [Janet Otieno](https://open.spotify.com/artist/1vfQ0EClwLJGtc4YsHlzPY) | [Wewe Ni Zaidi](https://open.spotify.com/album/04lDZZW67Js2hT48OjZPtp) | 4:22 | 2025-07-11 | 2025-08-14 |

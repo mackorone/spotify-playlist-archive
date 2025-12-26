@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002A Collection of Songs by Japanese Women Vocalists.  cover: \u300e\u30e6\u30a4\u30ab\u300fYuika",
-  "num_followers": 133823,
+  "num_followers": 133855,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
@@ -731,6 +731,22 @@
     {
       "added_at": "2025-12-23 15:12:47",
       "album": {
+        "name": "\u96ea\u5504 - yukiuta",
+        "url": "https://open.spotify.com/album/5GLKiEjIlp6vIwMLnGZTUk"
+      },
+      "artists": [
+        {
+          "name": "Myuk",
+          "url": "https://open.spotify.com/artist/7oVNI7cJUA5f1Qvu8vQlq9"
+        }
+      ],
+      "duration_ms": 223233,
+      "name": "\u96ea\u5504 - yukiuta",
+      "url": "https://open.spotify.com/track/6S7rShWxpKfA7jpDfYSDD2"
+    },
+    {
+      "added_at": "2025-12-23 15:12:47",
+      "album": {
         "name": "\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0",
         "url": "https://open.spotify.com/album/1fiO9LItKQZ6ZKnPnLBh12"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 245065,
       "name": "Pastoral",
       "url": "https://open.spotify.com/track/3RbQ3XXydlQsimEB1jcQlO"
-    },
-    {
-      "added_at": "2025-12-23 15:12:47",
-      "album": {
-        "name": "\u96ea\u5504 - yukiuta",
-        "url": "https://open.spotify.com/album/5GLKiEjIlp6vIwMLnGZTUk"
-      },
-      "artists": [
-        {
-          "name": "Myuk",
-          "url": "https://open.spotify.com/artist/7oVNI7cJUA5f1Qvu8vQlq9"
-        }
-      ],
-      "duration_ms": 223233,
-      "name": "\u96ea\u5504 - yukiuta",
-      "url": "https://open.spotify.com/track/6S7rShWxpKfA7jpDfYSDD2"
     },
     {
       "added_at": "2025-12-23 15:12:47",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2025-12-23 15:12:47",
       "album": {
-        "name": "SALT AND PEPPER",
-        "url": "https://open.spotify.com/album/4olggPlIlKVENiJwmIzzOQ"
-      },
-      "artists": [
-        {
-          "name": "chelmico",
-          "url": "https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV"
-        }
-      ],
-      "duration_ms": 198123,
-      "name": "SALT AND PEPPER",
-      "url": "https://open.spotify.com/track/2BZXo0GtuKlEIyGP6sdfX7"
-    },
-    {
-      "added_at": "2025-12-23 15:12:47",
-      "album": {
         "name": "\u304a\u3068\u3081\u306e\u8096\u50cf",
         "url": "https://open.spotify.com/album/3abSkOFoNQtxxIJ8GhLwy8"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 206440,
       "name": "\u304a\u3068\u3081\u306e\u8096\u50cf",
       "url": "https://open.spotify.com/track/2cpQtKvfgzNQE8MGhOuM7v"
+    },
+    {
+      "added_at": "2025-12-23 15:12:47",
+      "album": {
+        "name": "SALT AND PEPPER",
+        "url": "https://open.spotify.com/album/4olggPlIlKVENiJwmIzzOQ"
+      },
+      "artists": [
+        {
+          "name": "chelmico",
+          "url": "https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV"
+        }
+      ],
+      "duration_ms": 198123,
+      "name": "SALT AND PEPPER",
+      "url": "https://open.spotify.com/track/2BZXo0GtuKlEIyGP6sdfX7"
     },
     {
       "added_at": "2025-12-23 15:12:47",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2025-12-23 15:12:47",
       "album": {
-        "name": "\u304f\u3059\u3050\u3063\u305f\u3044\u3002",
-        "url": "https://open.spotify.com/album/5UTPQGDcH5xJUEF4wOVjUp"
-      },
-      "artists": [
-        {
-          "name": "CHiCO with HoneyWorks",
-          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
-        }
-      ],
-      "duration_ms": 229573,
-      "name": "\u304f\u3059\u3050\u3063\u305f\u3044\u3002",
-      "url": "https://open.spotify.com/track/38AcP3Bam3btVBm7UatiTJ"
-    },
-    {
-      "added_at": "2025-12-23 15:12:47",
-      "album": {
         "name": "Calling",
         "url": "https://open.spotify.com/album/14cpZqduLlAIOhIVaRTn3m"
       },
@@ -1295,18 +1279,18 @@
     {
       "added_at": "2025-12-23 15:12:47",
       "album": {
-        "name": "Wormhole / Yumi AraI",
-        "url": "https://open.spotify.com/album/2BJD3fJ7bkUkGlkH0H0Yuv"
+        "name": "\u304f\u3059\u3050\u3063\u305f\u3044\u3002",
+        "url": "https://open.spotify.com/album/5UTPQGDcH5xJUEF4wOVjUp"
       },
       "artists": [
         {
-          "name": "Yumi Matsutoya",
-          "url": "https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU"
+          "name": "CHiCO with HoneyWorks",
+          "url": "https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd"
         }
       ],
-      "duration_ms": 269881,
-      "name": "\u5ca9\u7901\u306e\u304d\u3089\u3081\u304d",
-      "url": "https://open.spotify.com/track/1J8mhy1U7t6BmBmxqq3tiF"
+      "duration_ms": 229573,
+      "name": "\u304f\u3059\u3050\u3063\u305f\u3044\u3002",
+      "url": "https://open.spotify.com/track/38AcP3Bam3btVBm7UatiTJ"
     },
     {
       "added_at": "2025-12-23 15:12:47",
@@ -1323,6 +1307,22 @@
       "duration_ms": 246465,
       "name": "To Be Alive",
       "url": "https://open.spotify.com/track/0KgZSae308sPk5yh39jm8c"
+    },
+    {
+      "added_at": "2025-12-23 15:12:47",
+      "album": {
+        "name": "Wormhole / Yumi AraI",
+        "url": "https://open.spotify.com/album/2BJD3fJ7bkUkGlkH0H0Yuv"
+      },
+      "artists": [
+        {
+          "name": "Yumi Matsutoya",
+          "url": "https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU"
+        }
+      ],
+      "duration_ms": 269881,
+      "name": "\u5ca9\u7901\u306e\u304d\u3089\u3081\u304d",
+      "url": "https://open.spotify.com/track/1J8mhy1U7t6BmBmxqq3tiF"
     },
     {
       "added_at": "2025-12-23 15:12:47",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2025-12-23 15:12:47",
       "album": {
+        "name": "\u30b3\u30fc\u30b9\u30bf\u30fc / \u30ab\u30cb\u30b9\u30c6\u30eb",
+        "url": "https://open.spotify.com/album/3bmDkkv8eRUmmDAG3NLXMw"
+      },
+      "artists": [
+        {
+          "name": "Regallily",
+          "url": "https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK"
+        }
+      ],
+      "duration_ms": 222173,
+      "name": "\u30b3\u30fc\u30b9\u30bf\u30fc",
+      "url": "https://open.spotify.com/track/0B0hgGapjks5x59vJBnUU8"
+    },
+    {
+      "added_at": "2025-12-23 15:12:47",
+      "album": {
         "name": "\u30e2\u30ce\u30af\u30ed\u30fc\u30e0\u30e9\u30d6 -Shade of us- (feat. \u8ca1\u6d25\u30de\u30a4)",
         "url": "https://open.spotify.com/album/0VrQOkYHczFVg25Mzz9Aes"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 164482,
       "name": "\u30e2\u30ce\u30af\u30ed\u30fc\u30e0\u30e9\u30d6 -Shade of us- (feat. \u8ca1\u6d25\u30de\u30a4)",
       "url": "https://open.spotify.com/track/5upCzvw5syyoDtbSoV8M3J"
-    },
-    {
-      "added_at": "2025-12-23 15:12:47",
-      "album": {
-        "name": "\u30b3\u30fc\u30b9\u30bf\u30fc / \u30ab\u30cb\u30b9\u30c6\u30eb",
-        "url": "https://open.spotify.com/album/3bmDkkv8eRUmmDAG3NLXMw"
-      },
-      "artists": [
-        {
-          "name": "Regallily",
-          "url": "https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK"
-        }
-      ],
-      "duration_ms": 222173,
-      "name": "\u30b3\u30fc\u30b9\u30bf\u30fc",
-      "url": "https://open.spotify.com/track/0B0hgGapjks5x59vJBnUU8"
     },
     {
       "added_at": "2025-12-23 15:12:47",

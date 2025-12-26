@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Rob Harrowven, Golem Dance Cult, JUST LIZZY and more",
+  "description": "With Rob Harrowven, Golem Dance Cult, Black Angel and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -1639,6 +1639,24 @@
     },
     {
       "album": {
+        "name": "Hit The Floor",
+        "url": "https://open.spotify.com/album/6QljszzGUK8HaXFUnnlher"
+      },
+      "artists": [
+        {
+          "name": "Ten Million Lights",
+          "url": "https://open.spotify.com/artist/0yyD1fpbYeADcyqm72wq2e"
+        }
+      ],
+      "date_added": "2025-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334838,
+      "name": "Hit The Floor",
+      "url": "https://open.spotify.com/track/7EaSx7Ic0H101Hfy4D2EgO"
+    },
+    {
+      "album": {
         "name": "Hole In The Picture",
         "url": "https://open.spotify.com/album/295Y9jHsFUdRZu462wylYn"
       },
@@ -2933,6 +2951,24 @@
     },
     {
       "album": {
+        "name": "Quiet Ones",
+        "url": "https://open.spotify.com/album/4xTvdnJX2znAjHZgR2iJgO"
+      },
+      "artists": [
+        {
+          "name": "Breakaway-NE",
+          "url": "https://open.spotify.com/artist/41xvSQQalPMUEEMESzNnxo"
+        }
+      ],
+      "date_added": "2025-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190480,
+      "name": "Quiet Ones",
+      "url": "https://open.spotify.com/track/7nkhh20RXO5pCuXepkosz5"
+    },
+    {
+      "album": {
         "name": "The Longest Night",
         "url": "https://open.spotify.com/album/6znBHOV394g0kmo6FO99d7"
       },
@@ -3376,7 +3412,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 315154,
       "name": "Song For Brian",
       "url": "https://open.spotify.com/track/7qnLaq2TcTyOVRcrE80pqF"
@@ -3930,7 +3966,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 332493,
       "name": "To Believe In Something - 2025 Remaster",
       "url": "https://open.spotify.com/track/2lU9QgyPgqlZ7BtRGk7XFO"

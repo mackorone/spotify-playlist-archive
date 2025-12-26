@@ -1,12 +1,12 @@
 {
   "description": "This is Michael Jackson. The essential tracks, all in one playlist.",
-  "num_followers": 3032289,
+  "num_followers": 3032613,
   "original_name": "This Is Michael Jackson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUnbgAAAAACg2/Bzj7QBaOrPbh9wuafx",
+  "snapshot_id": "aUstAAAAAAARz1OFie1XSWOkK3l2ucWX",
   "tracks": [
     {
       "added_at": null,
@@ -655,6 +655,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Got To Be There",
+        "url": "https://open.spotify.com/album/6pam66S3gqDo0Yy4cjlR9G"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 151933,
+      "name": "Rockin' Robin",
+      "url": "https://open.spotify.com/track/2aadUB2b4hugbdIPU8Aypk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HIStory - PAST, PRESENT AND FUTURE - BOOK I",
         "url": "https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 277842,
       "name": "Scream",
       "url": "https://open.spotify.com/track/4LD5dhQ3kqpqe14sGPDtBC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Got To Be There",
-        "url": "https://open.spotify.com/album/6pam66S3gqDo0Yy4cjlR9G"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 151933,
-      "name": "Rockin' Robin",
-      "url": "https://open.spotify.com/track/2aadUB2b4hugbdIPU8Aypk"
     },
     {
       "added_at": null,

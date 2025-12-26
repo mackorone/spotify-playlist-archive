@@ -2,9 +2,9 @@
 
 ### [Rock The World](https://open.spotify.com/playlist/37i9dQZF1DWYXBm3qy96SP)
 
-> 世界中のロックシーンを彩る話題曲をチェック。Cover: HEALTH
+> 世界中のロックシーンを彩る話題曲をチェック。Cover: Geese
 
-1,775 songs - 4 day 6 hr 38 min
+1,776 songs - 4 day 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Atom Bomb](https://open.spotify.com/track/5XUyGdZCo0BN2lTRa4oL2m) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Atom Bomb](https://open.spotify.com/album/4sQazS0PXlz8PBKtvz64UL) | 2:53 | 2024-02-29 | 2024-05-03 |
 | [Atomic City](https://open.spotify.com/track/0Zp4PR3jLHfxcXdBdRLh7M) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Atomic City](https://open.spotify.com/album/5ghPJVqhDvidfznC4O7tW3) | 3:30 | 2023-09-28 | 2024-04-05 |
 | [Attention](https://open.spotify.com/track/7a97WHddocTnhagUJEfTFb) | [Fangclub](https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN) | [Attention](https://open.spotify.com/album/7hE5oYhRUricYUex3QE5NH) | 4:11 | 2024-02-29 | 2024-05-03 |
+| [Au Pays du Cocaine](https://open.spotify.com/track/1g9GiiPPaL7KcDHlDzu7lT) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Getting Killed](https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC) | 3:30 | 2025-12-25 |  |
 | [Audacious](https://open.spotify.com/track/53OqecARVvVCUTjL1yg0sq) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Audacious](https://open.spotify.com/album/6tApXgjCNnGOeB176tJiKV) | 3:23 | 2024-09-12 | 2024-11-15 |
 | [Aunque duela](https://open.spotify.com/track/5KNncw0fdPmtQm8BaM13xB) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [Aunque duela](https://open.spotify.com/album/2FP6O9rK0nfVaHUBl7OLRl) | 3:06 | 2024-11-22 | 2025-01-10 |
 | [Australia](https://open.spotify.com/track/0qiHOHIkb4UEoxpKq6WhVZ) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [DRUMMER](https://open.spotify.com/album/09YYQq1yP55sRzmWosI10f) | 3:49 | 2023-09-21 | 2023-09-29 |
@@ -1448,7 +1449,7 @@
 | [Superman](https://open.spotify.com/track/7qR4KI5JAf8n48wStSizic) | [Edgär](https://open.spotify.com/artist/2O7MXaIBC2VqFGOF1ygZsO) | [Edgär is Dead](https://open.spotify.com/album/5kf46keruLMY20XP94Ih2U) | 2:19 | 2024-02-29 | 2024-04-26 |
 | [Supermodel Avalanches](https://open.spotify.com/track/3daLDEbCt1fvkS7POmwu2U) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Back To The Water Below \(Bonus Edition\)](https://open.spotify.com/album/1bPTd5Ic6yHUGq5QZj2j2N) | 3:10 | 2023-12-28 | 2024-01-19 |
 | [Supernatural](https://open.spotify.com/track/3HFvMIvCBNGkypFCQUHjyV) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Supernatural](https://open.spotify.com/album/5T0qNPygFFXWjhnzSzlTWD) | 2:47 | 2023-03-16 | 2023-05-19 |
-| [SUPERSONIC](https://open.spotify.com/track/38crZaLQqe7sBLR2zI8U74) | [171](https://open.spotify.com/artist/4dbq5qNOe51qdgnhmlIJ3v) | [HELLO!](https://open.spotify.com/album/0Fby1ANupBwwDm8bFjf8nz) | 2:12 | 2025-12-05 |  |
+| [SUPERSONIC](https://open.spotify.com/track/38crZaLQqe7sBLR2zI8U74) | [171](https://open.spotify.com/artist/4dbq5qNOe51qdgnhmlIJ3v) | [HELLO!](https://open.spotify.com/album/0Fby1ANupBwwDm8bFjf8nz) | 2:12 | 2025-12-05 | 2025-12-26 |
 | [Superstar](https://open.spotify.com/track/24dCUervPkm3G8qqv50CWv) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [Superstar](https://open.spotify.com/album/7HzSQEYUcBxyZyASryOgCf) | 4:02 | 2024-07-26 | 2024-08-10 |
 | [Superstar](https://open.spotify.com/track/7Ew5us0FuyUZZ4p6jRP2r3) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Superstar](https://open.spotify.com/album/1qFrExdXI9pjXU30XulYae) | 3:13 | 2024-03-14 | 2024-06-10 |
 | [Superstitious](https://open.spotify.com/track/7xm98U2hfmMcI3tgrQ5XJq) | [Enuff Z'Nuff](https://open.spotify.com/artist/2Y36dqR145FjTKUjibEcjO) | [Animals with Human Intelligence](https://open.spotify.com/album/2ickktixrgx5DGAOqmhtgQ) | 4:10 | 2023-12-07 | 2023-12-15 |

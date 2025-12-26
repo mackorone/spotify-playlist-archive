@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMMpvGH77mA.md) - [plain]
 
 > Soft rhythms to guide your yoga and pilates practice\. <br/>Move your body with positivity, with ease, with complete freedom.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,479 likes - 109 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,544 likes - 109 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMMpvGH77mA.md) - [plain]
 | 108 | [Focus Eight](https://open.spotify.com/track/6HXwPsyszHUZTXzWpFHEU4) | [Yoro Kobuto](https://open.spotify.com/artist/21TAVdB21U8rAixr2sANtf) | [Focus Eight](https://open.spotify.com/album/5nHYRrOAbRkrcuIyXorZKB) | 2:53 |
 | 109 | [Anima Rhythm](https://open.spotify.com/track/5b5DGtxW15LzR3TyK3799Q) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Anima Rhythm](https://open.spotify.com/album/5m2qbK3VUSi04WrzcK31Zl) | 4:03 |
 
-Snapshot ID: `AAAAAGEW6QC0JvMwV5cry9XDBZaBoQ37`
+Snapshot ID: `AAAAAESvLccUM2/kFEHlr2GeeBg07Wia`

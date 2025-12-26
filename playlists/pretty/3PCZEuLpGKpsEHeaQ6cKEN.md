@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \|
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 261,672 likes - 335 songs - 17 hr 14 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 261,657 likes - 335 songs - 17 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 | 7 | [U Got My Heart \(Mix Edit\) \- Christmas Mix](https://open.spotify.com/track/7dZx30JJKEh2DWkD0K1ZJ6) | [Clément Leroux](https://open.spotify.com/artist/3MttWEEoyq7W9MjHEBaKhG), [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9) | [Armada Music \- Christmas Hits, Mini Mix](https://open.spotify.com/album/5iqFcIQmP4nMEkvQFtUtwx) | 1:08 |
 | 8 | [Falling In Love \(Mix Edit\) \- Christmas Mix](https://open.spotify.com/track/7v3ab6iDNqtuALmaiLoLDN) | [Dennis Kruissen](https://open.spotify.com/artist/41it3ogaq2BsdLlZkWTXdO), [Drew Love](https://open.spotify.com/artist/76yeOnINtQSXyoEHbkYmtY) | [Armada Music \- Christmas Hits, Mini Mix](https://open.spotify.com/album/5iqFcIQmP4nMEkvQFtUtwx) | 1:26 |
 | 9 | [Realize \(Mix Edit\) \- How Christmas Could Have Been](https://open.spotify.com/track/0hd6VFhsLSxom8wPN2Vvsb) | [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu) | [Armada Music \- Christmas Hits, Mini Mix](https://open.spotify.com/album/5iqFcIQmP4nMEkvQFtUtwx) | 1:25 |
-| 10 | [Synaesthesia \(Fly Away\) \- SILK Remix](https://open.spotify.com/track/3oghiMY2ZPaxd7FTR6p1yt) | [The Thrillseekers](https://open.spotify.com/artist/1RYDKWzJnJtbTPYNsDswD5), [Sheryl Deane](https://open.spotify.com/artist/7dVxjwH88uQMmN69MD61Fa), [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a) | [Synaesthesia \(Fly Away\) \[SILK Remix\]](https://open.spotify.com/album/0z48t5P6yYRg8jgaFqDhfE) | 2:47 |
-| 11 | [Traceless Tracks \- Animal Trainer Remix](https://open.spotify.com/track/3WW9Sf3slasM0JUdGsldP5) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Animal Trainer](https://open.spotify.com/artist/2bfx0bw0uVRyfikzS3h5Mg) | [Traceless Tracks \(Animal Trainer Remix\)](https://open.spotify.com/album/3xyUEOIjT7gPWZ6yerKtS3) | 3:40 |
+| 10 | [Traceless Tracks \- Animal Trainer Remix](https://open.spotify.com/track/3WW9Sf3slasM0JUdGsldP5) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Animal Trainer](https://open.spotify.com/artist/2bfx0bw0uVRyfikzS3h5Mg) | [Traceless Tracks \(Animal Trainer Remix\)](https://open.spotify.com/album/3xyUEOIjT7gPWZ6yerKtS3) | 3:40 |
+| 11 | [Synaesthesia \(Fly Away\) \- SILK Remix](https://open.spotify.com/track/3oghiMY2ZPaxd7FTR6p1yt) | [The Thrillseekers](https://open.spotify.com/artist/1RYDKWzJnJtbTPYNsDswD5), [Sheryl Deane](https://open.spotify.com/artist/7dVxjwH88uQMmN69MD61Fa), [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a) | [Synaesthesia \(Fly Away\) \[SILK Remix\]](https://open.spotify.com/album/0z48t5P6yYRg8jgaFqDhfE) | 2:47 |
 | 12 | [Noite De Prazer](https://open.spotify.com/track/1SGlGk0QrC7VPpUiKinw0e) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [NINA J](https://open.spotify.com/artist/6juGmBHeZZXJlyuFT8FGjw) | [Noite De Prazer](https://open.spotify.com/album/72vERixqZSY9WaeU70d7Yi) | 2:20 |
 | 13 | [Moving Too Fast \- Rerecorded](https://open.spotify.com/track/3c2kfjplSYNH5Ukqt4IHGK) | [Supafly](https://open.spotify.com/artist/2uBSo6TqjuddKVUp5MVqfV) | [Moving Too Fast \(Rerecorded\)](https://open.spotify.com/album/1yEDXiXmz5hHk8wkEDmwSl) | 2:52 |
 | 14 | [Hold On \- Brooks Remix](https://open.spotify.com/track/37KcUfJUL3YpIPEkuGZGJs) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Sam Gray](https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18), [Brooks](https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e) | [Hold On \(Brooks Remix\)](https://open.spotify.com/album/6R6rVcEU8VD1hYbssYXaJA) | 2:55 |
@@ -344,4 +344,4 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 | 334 | [Greece 2000](https://open.spotify.com/track/44xPqYQFzpMVhpcDRzaBG5) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Three Drives](https://open.spotify.com/artist/6zgVdOBoN1Fu4JGqd9SZlG), [Three Drives On A Vinyl](https://open.spotify.com/artist/10feV0eOe64kjUc95Lnfuv) | [Greece 2000](https://open.spotify.com/album/18Fd16l4DfL01k1tFKGMeV) | 3:27 |
 | 335 | [Flashdance \- Deep Dish Does The Chug Remix](https://open.spotify.com/track/4UnkTkVICLjugSNhyDkHo3) | [Deep Dish](https://open.spotify.com/artist/720JYpdCgHuTmDeryW0wEA) | [Flashdance](https://open.spotify.com/album/2KUAEIvek1mWKGSyyKoWG2) | 3:15 |
 
-Snapshot ID: `AADVJad8LoheP7DP8G1Sq/s4WfnOb7ws`
+Snapshot ID: `AADVKrX0s1D8zOjRXITtuCIF6HpnZhaI`

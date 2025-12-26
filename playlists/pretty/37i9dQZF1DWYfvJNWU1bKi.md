@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfvJNWU1bKi.md) - [plain]
 
 > The best in romantic tunes from Tamil cinema.<br/>Cover : Thalaivan Thalaivii
 
-[Spotify](https://open.spotify.com/user/spotify) - 610,605 likes - 75 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 610,747 likes - 75 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfvJNWU1bKi.md) - [plain]
 | 66 | [Kannadi Poovukku](https://open.spotify.com/track/3TjkNpxBaS9RFvDU7laCwx) | [Santhosh Dhayanidhi,Haricharan,Jonita Gandhi](https://open.spotify.com/artist/4W4nOERGvilGJAjUZ4b4oW) | [Enakku Vaaitha Adimaigal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0pA5FezDG5lSjYWZAhl9u8) | 3:59 |
 | 67 | [Paarthen \(The Youth Of Power Paandi\)](https://open.spotify.com/track/0fHPR4JZNbqs7OsFdYaLja) | [Sean Roldan,Shweta Mohan](https://open.spotify.com/artist/1yQC7cateD70CQUJtZjvYO) | [Power Paandi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2l86Y48TxWBYmDpUhZQttR) | 3:03 |
 | 68 | [Kaadhal Vaithu](https://open.spotify.com/track/7mAmuoXcbyjXz4rTHEOCiG) | [Vijay Yesudas](https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA) | [Deepavali \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0hzhyT0O6pVNxKMd2LC8pa) | 5:09 |
-| 69 | [Maruvaarthai](https://open.spotify.com/track/2G53OcVphvDNOs08gptddN) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Enai Noki Paayum Thota \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3U5xINSfRnUw0vWxJ5phK0) | 5:56 |
+| 69 | [Thaarame Thaarame \- From "Kadaram Kondan"](https://open.spotify.com/track/2x1R5G71p2UsLEQtH6gtdL) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ) | [Thaarame Thaarame \(From "Kadaram Kondan"\)](https://open.spotify.com/album/7gDlZBWd8cyUXL3qqqTQNc) | 3:48 |
 | 70 | [Malai Mangum Neram](https://open.spotify.com/track/2yDBeS1pUuX9ms5Y3ItIAf) | [Ranina Reddy](https://open.spotify.com/artist/5wr6cv6sLD88vQKkMy8w2H) | [Rowthiram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4Bi1ggSG4ljoZoD4e5jpyA) | 5:13 |
 | 71 | [Velicha Poove](https://open.spotify.com/track/3ywjIbXWgG5Vjom6zhA2aP) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS), [Vaali](https://open.spotify.com/artist/7m3MZA0qYo7ZHvsDONlc5r) | [Ethir Neechal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3xTQmYK4S7vj9mv3zcJYWg) | 5:12 |
 | 72 | [Kaattu Payale \(From "Soorarai Pottru"\)](https://open.spotify.com/track/2b4nWymybHj38A6XtQijiA) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH), [Snehan](https://open.spotify.com/artist/1CURJzNK4YUlml7srBvsVh) | [Kaattu Payale \(From "Soorarai Pottru"\)](https://open.spotify.com/album/2tWMHOkDRvyWN6yY57limX) | 4:06 |
 | 73 | [Water Packet](https://open.spotify.com/track/1l4CYsCwvTRRAW2cmsVZ36) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9), [Gana Kadhar](https://open.spotify.com/artist/0T487EE91kx2O8oGPO8Krh) | [Raayan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6cqYgHZhpSKKb7xUuxJCAr) | 4:06 |
-| 74 | [Thaarame Thaarame \- From "Kadaram Kondan"](https://open.spotify.com/track/2x1R5G71p2UsLEQtH6gtdL) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Ghibran](https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ) | [Thaarame Thaarame \(From "Kadaram Kondan"\)](https://open.spotify.com/album/7gDlZBWd8cyUXL3qqqTQNc) | 3:48 |
+| 74 | [Maruvaarthai](https://open.spotify.com/track/2G53OcVphvDNOs08gptddN) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Enai Noki Paayum Thota \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3U5xINSfRnUw0vWxJ5phK0) | 5:56 |
 | 75 | [Thangamey](https://open.spotify.com/track/5b1zcET4JFw1BHh8rsjHq3) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Wunderboy Anirudh](https://open.spotify.com/album/607wdRrazikLQyGPbQWkbu) | 4:22 |
 
 Snapshot ID: `AAAAAMAtNtlrwghM07wikJ1nmA6ZE4wK`

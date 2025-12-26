@@ -1,12 +1,12 @@
 {
   "description": "This is Alcolirykoz. The essential tracks, all in one playlist.",
-  "num_followers": 61637,
+  "num_followers": 61657,
   "original_name": "This Is Alcolirykoz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUnbgAAAAAB1NpG9EQ2HtxaWTEmhwmi4",
+  "snapshot_id": "aUstAAAAAAChBSwHV8luC9AqLbMylyJV",
   "tracks": [
     {
       "added_at": null,
@@ -343,18 +343,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Efectos Secundarios",
-        "url": "https://open.spotify.com/album/2rZ4AlA2uXKfeDQ9UDdoqp"
+        "name": "Estetograma",
+        "url": "https://open.spotify.com/album/5g2NbpwACR5K3maWs2uaJu"
       },
       "artists": [
         {
           "name": "Alcolirykoz",
           "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        },
+        {
+          "name": "Daym\u00e9 Arocena",
+          "url": "https://open.spotify.com/artist/6LcWO77VeIUPqNY22N3fI0"
         }
       ],
-      "duration_ms": 365706,
-      "name": "Otra Canci\u00f3n Larga",
-      "url": "https://open.spotify.com/track/1nOm3ZP10ZrpgW2EAmtRIV"
+      "duration_ms": 220000,
+      "name": "Estetograma",
+      "url": "https://open.spotify.com/track/5Jhybb3bz6VtMzfgNPGtqN"
     },
     {
       "added_at": null,
@@ -415,22 +419,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Estetograma",
-        "url": "https://open.spotify.com/album/5g2NbpwACR5K3maWs2uaJu"
+        "name": "Efectos Secundarios",
+        "url": "https://open.spotify.com/album/2rZ4AlA2uXKfeDQ9UDdoqp"
       },
       "artists": [
         {
           "name": "Alcolirykoz",
           "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
-        },
-        {
-          "name": "Daym\u00e9 Arocena",
-          "url": "https://open.spotify.com/artist/6LcWO77VeIUPqNY22N3fI0"
         }
       ],
-      "duration_ms": 220000,
-      "name": "Estetograma",
-      "url": "https://open.spotify.com/track/5Jhybb3bz6VtMzfgNPGtqN"
+      "duration_ms": 365706,
+      "name": "Otra Canci\u00f3n Larga",
+      "url": "https://open.spotify.com/track/1nOm3ZP10ZrpgW2EAmtRIV"
     },
     {
       "added_at": null,

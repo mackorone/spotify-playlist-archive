@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/blaircaldwell/\">Blair Caldwell</a>",
-  "num_followers": 29981,
+  "num_followers": 29988,
   "original_name": "Blair Caldwell's Taste",
   "owner": {
     "name": "Spotify",
@@ -419,6 +419,22 @@
     {
       "added_at": "2022-10-01 16:13:28",
       "album": {
+        "name": "Pink Friday",
+        "url": "https://open.spotify.com/album/3LJhoYn4nnHmvPRO3ppbsl"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 245253,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/1w6kG4Rc29m5EherbvpkF5"
+    },
+    {
+      "added_at": "2022-10-01 16:13:28",
+      "album": {
         "name": "What's Luv? (feat. Ashanti)",
         "url": "https://open.spotify.com/album/5gpXJRhfDU4rl7MIL1MyC0"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 230400,
       "name": "What's Luv? (feat. Ashanti)",
       "url": "https://open.spotify.com/track/2eSJflipjhSKLExuSwuFrO"
-    },
-    {
-      "added_at": "2022-10-01 16:13:28",
-      "album": {
-        "name": "Pink Friday",
-        "url": "https://open.spotify.com/album/3LJhoYn4nnHmvPRO3ppbsl"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 245253,
-      "name": "Your Love",
-      "url": "https://open.spotify.com/track/1w6kG4Rc29m5EherbvpkF5"
     },
     {
       "added_at": "2022-10-01 16:13:28",

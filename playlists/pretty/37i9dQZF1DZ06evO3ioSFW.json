@@ -1,12 +1,12 @@
 {
   "description": "This is Yuridia. The essential tracks, all in one playlist.",
-  "num_followers": 514515,
+  "num_followers": 514561,
   "original_name": "This Is Yuridia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUnbgAAAAADdqSGKf2mH2W9mrlljHkUn",
+  "snapshot_id": "aUstAAAAAABNU5sqx5yddoXaxe2Nzw9q",
   "tracks": [
     {
       "added_at": null,
@@ -751,22 +751,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pensando Positivo",
-        "url": "https://open.spotify.com/album/58iuRein03jS4ByY5s8OE1"
+        "name": "La Voz de un \u00c1ngel",
+        "url": "https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw"
       },
       "artists": [
-        {
-          "name": "Joss Favela",
-          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
-        },
         {
           "name": "Yuridia",
           "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
         }
       ],
-      "duration_ms": 193300,
-      "name": "Pensando Positivo",
-      "url": "https://open.spotify.com/track/7c8y7v1RLIn4YvEjSFcTwq"
+      "duration_ms": 234306,
+      "name": "Como Yo Te Amo",
+      "url": "https://open.spotify.com/track/7H561OZAeONWEskedqaDQa"
     },
     {
       "added_at": null,
@@ -807,18 +803,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Voz de un \u00c1ngel",
-        "url": "https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw"
+        "name": "Pensando Positivo",
+        "url": "https://open.spotify.com/album/58iuRein03jS4ByY5s8OE1"
       },
       "artists": [
+        {
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+        },
         {
           "name": "Yuridia",
           "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
         }
       ],
-      "duration_ms": 234306,
-      "name": "Como Yo Te Amo",
-      "url": "https://open.spotify.com/track/7H561OZAeONWEskedqaDQa"
+      "duration_ms": 193300,
+      "name": "Pensando Positivo",
+      "url": "https://open.spotify.com/track/7c8y7v1RLIn4YvEjSFcTwq"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Saja Boys vs HUNTR/X \- your soul is the prize!
 
-240 songs - 12 hr 28 min
+241 songs - 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,7 @@
 | [Only Getting Better \- J Team Edition](https://open.spotify.com/track/0CxfACP62M4ZkvEVybxMUJ) | [Jojo Siwa \(Kids\)](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [The J Team \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/14pCN3JGNyD3oGC8jBucYP) | 2:24 | 2022-03-25 | 2024-04-19 |
 | [Only Getting Better \- J Team Edition](https://open.spotify.com/track/5oEQg4FP8Lu5GOhLUNSuOC) | [Jojo Siwa \(Kids\)](https://open.spotify.com/artist/3Iq6waFNaQnjLjEjp2l3nc) | [The J Team \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/784cFhESN44WTceqtXcPLN) | 2:24 | 2022-03-25 | 2024-11-09 |
 | [Ooh La La \(from "The Smurfs 2"\)](https://open.spotify.com/track/7bpvfjoneSQvW0tbtVm1Jk) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Ooh La La \(from "The Smurfs 2"\)](https://open.spotify.com/album/7qMTrZjF1sh0rujrgczf8P) | 4:17 | 2022-03-25 | 2025-01-18 |
-| [Original \(from Dolittle\)](https://open.spotify.com/track/0YoquWDxpwAq8jFPj3K8wp) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Original \(from Dolittle\)](https://open.spotify.com/album/00CTugKcgZzpPJKpmeNdDS) | 3:33 | 2022-03-25 |  |
+| [Original \(from Dolittle\)](https://open.spotify.com/track/0YoquWDxpwAq8jFPj3K8wp) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Original \(from Dolittle\)](https://open.spotify.com/album/00CTugKcgZzpPJKpmeNdDS) | 3:33 | 2022-03-25 | 2025-12-26 |
 | [Parting Ways](https://open.spotify.com/track/7oYOgl26e4KPofzPKJhFxJ) | [Cody Chesnutt](https://open.spotify.com/artist/3sO8muEXafy2NGwUZByrTr) | [Soul \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88) | 2:20 | 2022-03-25 | 2024-06-28 |
 | [Peaches](https://open.spotify.com/track/4w9soAM7IrmYDhSXLp14p6) | [Jack Black](https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T) | [The Super Mario Bros\. Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3QITNyRzvTqn0t9tLmS1Vd) | 1:35 | 2023-05-15 |  |
 | [Pokemon Theme](https://open.spotify.com/track/6xG2ZGudUgtV235xvDlSEt) | [Pokémon](https://open.spotify.com/artist/6goK4KMSdP4A8lw8jk4ADk) | [Pokemon X \- Ten Years Of Pokemon](https://open.spotify.com/album/3qW0KwoP8BdFzqZSDh1ScI) | 3:16 | 2022-03-25 | 2025-01-18 |
@@ -247,6 +247,7 @@
 | [Zero](https://open.spotify.com/track/4Bi2qsF5AWin93USPh5fQK) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Ralph Breaks the Internet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4YWNDk8pwKyWE9PhjCTiJG) | 3:32 | 2022-03-25 | 2025-01-18 |
 | [Zero \- From the Original Motion Picture "Ralph Breaks The Internet"](https://open.spotify.com/track/2bzitsPcImYC6DZWvvLCQi) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Origins \(Deluxe\)](https://open.spotify.com/album/3JfSxDfmwS5OeHPwLSkrfr) | 3:30 | 2022-03-25 | 2024-04-19 |
 | [Zero \- From the Original Motion Picture "Ralph Breaks The Internet"](https://open.spotify.com/track/0cDwUAF7yQrOLRcFfJpSc2) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Zero \(From the Original Motion Picture "Ralph Breaks The Internet"\)](https://open.spotify.com/album/3eiAj6uPlzdAKagriQb3Hq) | 3:30 | 2022-03-25 | 2022-11-14 |
+| [Zoo](https://open.spotify.com/track/3vJIaiTIHxHhYafTSPNiH4) | [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zootopia 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN) | 3:10 | 2025-12-25 |  |
 | [Zoo \- From "Zootopia 2"](https://open.spotify.com/track/7o9qVPLe7MI7XhdAS1PkrN) | [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zoo \(From "Zootopia 2"\)](https://open.spotify.com/album/2X68ehLzpobCu2ZHDFJVpa) | 3:10 | 2025-11-19 |  |
 
 \*This playlist was first scraped on 2022-04-19. Prior content cannot be recovered.

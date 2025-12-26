@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-416 songs - 1 day 3 hr 9 min
+417 songs - 1 day 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Boogie Woogie](https://open.spotify.com/track/71rTjuTsuh03etRwpIOPRj) | [Shaqdi](https://open.spotify.com/artist/4dpL6PzaCCpEekHtTHu3CN), [David Blazer](https://open.spotify.com/artist/6fI10k7bFVFS76bHXdBof6), [Birocratic](https://open.spotify.com/artist/60b7IDlGflg5lgyfEGf9yB) | [Boogie Woogie](https://open.spotify.com/album/7hRR0f0wMiV0Th2fceOHxn) | 2:53 | 2023-05-19 | 2023-07-29 |
 | [Boys Don't Sob](https://open.spotify.com/track/2fkAbl3FCAj9BKc4Z5GIdr) | [The Free Label](https://open.spotify.com/artist/4YOL2g6AwphwsB1dOZZSOr) | [Boys Don't Sob](https://open.spotify.com/album/3ZFmah5FBGNwfXZx5y7N4J) | 2:56 | 2023-05-19 | 2024-06-05 |
 | [Break My Heart / Cosmic Girl \(Dimitri From Paris Edit\) \[Mixed\]](https://open.spotify.com/track/6oCGHGu19poEz8iF3ZXHrj) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid), [Dimitri From Paris](https://open.spotify.com/artist/5Il27M5JXuQLgwDgVrQMgo) | [Club Future Nostalgia \(DJ Mix\)](https://open.spotify.com/album/3W04W2HfQ5kVeByxfjbu2C) | 3:00 | 2021-07-24 | 2025-09-27 |
-| [Bring On Up Our Love](https://open.spotify.com/track/6B6GRQgmFVWakwS77MnehK) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Kimchii](https://open.spotify.com/artist/78fCvlGi2BTqtk3wsjUsK3) | [Bring On Up Our Love](https://open.spotify.com/album/3GKcDrpWKLmTTgZIuC5SrP) | 3:49 | 2024-02-21 |  |
+| [Bring On Up Our Love](https://open.spotify.com/track/6B6GRQgmFVWakwS77MnehK) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Kimchii](https://open.spotify.com/artist/78fCvlGi2BTqtk3wsjUsK3) | [Bring On Up Our Love](https://open.spotify.com/album/3GKcDrpWKLmTTgZIuC5SrP) | 3:49 | 2024-02-21 | 2025-12-26 |
 | [Bruises](https://open.spotify.com/track/3pSpLYsOi6fZ6N0P962XaJ) | [AUGUST 08](https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi) | [Bruises](https://open.spotify.com/album/1xYk6pycBgnLYw4ZXwgldj) | 3:10 | 2023-06-16 |  |
 | [cabo player](https://open.spotify.com/track/4jUtQcmpSOjxiUWwVejqM6) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [cabo player](https://open.spotify.com/album/0WbQtYINepP73xen4NIEzO) | 2:19 | 2023-10-13 |  |
 | [california](https://open.spotify.com/track/0s8MaDO1NRBNHZsh25ix9k) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs), [Sonan](https://open.spotify.com/artist/5qfTG0UpxeQQHzGJ3oCvSb) | [SUBURBIA \(after dark\)](https://open.spotify.com/album/4dfsU2fRGwB5BC8IbhhoMA) | 3:28 | 2025-05-23 |  |
@@ -117,6 +117,7 @@
 | [Feel Yourself](https://open.spotify.com/track/5WGNKRx4dYMXHvwGPrrci7) | [Flamingosis](https://open.spotify.com/artist/75cW8FFekyCjj0mfZM1Gfb), [Marc Rebillet](https://open.spotify.com/artist/72udTJKu1pGovvS9aCYGMI) | [Feel Yourself](https://open.spotify.com/album/286uUL0vH8fFrbRs6DuP9A) | 6:03 | 2024-02-16 |  |
 | [Feelin' It](https://open.spotify.com/track/3ns0eSpXpwOeA7rf2M6DUS) | [Tim Sanders](https://open.spotify.com/artist/1E3ho9kLdNdFz1L1JISV82) | [Feelin' It](https://open.spotify.com/album/299IjiwxpF8g7fBj5kIWd2) | 3:21 | 2025-09-26 |  |
 | [Feeling For You \(feat\. FARLEY\)](https://open.spotify.com/track/6pC6TW94GCOUwEj7ZchIk6) | [CHANEY](https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX), [FARLEY](https://open.spotify.com/artist/7uYA1SvZLemlrGJxyqdf4O) | [Feeling For You \(feat\. FARLEY\)](https://open.spotify.com/album/43JAltifXLaRCkVzgfV7eb) | 3:46 | 2023-12-01 | 2023-12-30 |
+| [Feels So Good](https://open.spotify.com/track/5N8IGqMjCjvtpewGSaiEeP) | [Kyle Walker](https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP) | [Feels So Good](https://open.spotify.com/album/0kaONsugizkJPe1OfUGLos) | 3:25 | 2025-12-19 |  |
 | [Fighting Love](https://open.spotify.com/track/7Cb0qIfh54PuAkAob4ohh5) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [Mark Dedross](https://open.spotify.com/artist/6MsLcUe13ynvSGDcCNswtZ) | [Fighting Love](https://open.spotify.com/album/6Qxp7Eabeeb3uxhKhyR5M3) | 3:08 | 2025-02-14 |  |
 | [Finally Free](https://open.spotify.com/track/5I9DZbgz1XQ97915lhNnNf) | [Kossisko](https://open.spotify.com/artist/3TmVOBZL0RYrAAF3f2QSGq) | [Finally Free](https://open.spotify.com/album/7k5QqZcj5N8mnUExGZ71Vg) | 4:42 | 2024-05-17 | 2024-09-18 |
 | [Flawless](https://open.spotify.com/track/5nPPgxXTXhVdxJbe5jZLYQ) | [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Pink Flamingo Rhythm Revue](https://open.spotify.com/artist/6Mm5YKoIXU6lHig5U82KFp), [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Open Market](https://open.spotify.com/album/6NPhPV2DCnxiLlhzKqX011) | 3:10 | 2023-05-19 |  |

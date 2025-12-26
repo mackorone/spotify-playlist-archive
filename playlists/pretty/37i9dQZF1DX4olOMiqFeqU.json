@@ -1,6 +1,6 @@
 {
   "description": "100% Pinoy hits from your favorite artists!",
-  "num_followers": 2486118,
+  "num_followers": 2486085,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
@@ -211,6 +211,26 @@
     {
       "added_at": "2025-12-03 02:52:25",
       "album": {
+        "name": "Middle-Aged Juvenile Novelty Pop Rockers",
+        "url": "https://open.spotify.com/album/0EAM9ux5yMNKsdjcAV5Lg0"
+      },
+      "artists": [
+        {
+          "name": "Parokya Ni Edgar",
+          "url": "https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4"
+        },
+        {
+          "name": "Happee Sy",
+          "url": "https://open.spotify.com/artist/4OxMtvmCYCgJHjueLFwJHr"
+        }
+      ],
+      "duration_ms": 194946,
+      "name": "Pangarap Lang Kita",
+      "url": "https://open.spotify.com/track/09WPbmLdcBhJPcJwEJc1Yv"
+    },
+    {
+      "added_at": "2025-12-03 02:52:25",
+      "album": {
         "name": "Pagsamo",
         "url": "https://open.spotify.com/album/668hRB0T4LU6a7HVspAMKy"
       },
@@ -223,26 +243,6 @@
       "duration_ms": 297001,
       "name": "Pagsamo",
       "url": "https://open.spotify.com/track/0WZqHCoOBXqgCCIsUZLC2a"
-    },
-    {
-      "added_at": "2025-12-03 02:52:25",
-      "album": {
-        "name": "sining (feat. Jay R)",
-        "url": "https://open.spotify.com/album/6dsECFlRFW0X7ZmpjZzI3m"
-      },
-      "artists": [
-        {
-          "name": "Dionela",
-          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
-        },
-        {
-          "name": "Jay R",
-          "url": "https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "sining (feat. Jay R)",
-      "url": "https://open.spotify.com/track/1imaIe1NEAaWnLF0BY0V6F"
     },
     {
       "added_at": "2025-12-03 02:52:25",
@@ -263,22 +263,22 @@
     {
       "added_at": "2025-12-03 02:52:25",
       "album": {
-        "name": "Middle-Aged Juvenile Novelty Pop Rockers",
-        "url": "https://open.spotify.com/album/0EAM9ux5yMNKsdjcAV5Lg0"
+        "name": "sining (feat. Jay R)",
+        "url": "https://open.spotify.com/album/6dsECFlRFW0X7ZmpjZzI3m"
       },
       "artists": [
         {
-          "name": "Parokya Ni Edgar",
-          "url": "https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4"
+          "name": "Dionela",
+          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
         },
         {
-          "name": "Happee Sy",
-          "url": "https://open.spotify.com/artist/4OxMtvmCYCgJHjueLFwJHr"
+          "name": "Jay R",
+          "url": "https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU"
         }
       ],
-      "duration_ms": 194946,
-      "name": "Pangarap Lang Kita",
-      "url": "https://open.spotify.com/track/09WPbmLdcBhJPcJwEJc1Yv"
+      "duration_ms": 200000,
+      "name": "sining (feat. Jay R)",
+      "url": "https://open.spotify.com/track/1imaIe1NEAaWnLF0BY0V6F"
     },
     {
       "added_at": "2025-12-03 02:52:25",
@@ -323,18 +323,18 @@
     {
       "added_at": "2025-12-03 02:52:25",
       "album": {
-        "name": "Oksihina",
-        "url": "https://open.spotify.com/album/0YEPa646R98Iqp2GDqsl29"
+        "name": "RomCom",
+        "url": "https://open.spotify.com/album/0LZ5mVQNqWZg5a6UmRxVIX"
       },
       "artists": [
         {
-          "name": "Dionela",
-          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
+          "name": "Rob Deniel",
+          "url": "https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT"
         }
       ],
-      "duration_ms": 204051,
-      "name": "Oksihina",
-      "url": "https://open.spotify.com/track/06VwVWrnYSTIikz801hGwD"
+      "duration_ms": 237485,
+      "name": "RomCom",
+      "url": "https://open.spotify.com/track/67DEADzgSxkFWI3jVlQUL3"
     },
     {
       "added_at": "2025-12-03 02:52:25",
@@ -355,18 +355,18 @@
     {
       "added_at": "2025-12-03 02:52:25",
       "album": {
-        "name": "RomCom",
-        "url": "https://open.spotify.com/album/0LZ5mVQNqWZg5a6UmRxVIX"
+        "name": "Oksihina",
+        "url": "https://open.spotify.com/album/0YEPa646R98Iqp2GDqsl29"
       },
       "artists": [
         {
-          "name": "Rob Deniel",
-          "url": "https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT"
+          "name": "Dionela",
+          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
         }
       ],
-      "duration_ms": 237485,
-      "name": "RomCom",
-      "url": "https://open.spotify.com/track/67DEADzgSxkFWI3jVlQUL3"
+      "duration_ms": 204051,
+      "name": "Oksihina",
+      "url": "https://open.spotify.com/track/06VwVWrnYSTIikz801hGwD"
     },
     {
       "added_at": "2025-12-03 02:52:25",
@@ -435,18 +435,18 @@
     {
       "added_at": "2025-12-03 02:52:25",
       "album": {
-        "name": "Musika",
-        "url": "https://open.spotify.com/album/3A0K1ImYGMKTYDLe5EgLWv"
+        "name": "Pa-umaga",
+        "url": "https://open.spotify.com/album/6d3mjDBVhzN8ianGFJsKKE"
       },
       "artists": [
         {
-          "name": "Dionela",
-          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
+          "name": "Al James",
+          "url": "https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm"
         }
       ],
-      "duration_ms": 246666,
-      "name": "Musika",
-      "url": "https://open.spotify.com/track/7bAVndaTleEnfizm6h2d3i"
+      "duration_ms": 189019,
+      "name": "Pa-umaga",
+      "url": "https://open.spotify.com/track/3U8MbjNAP56IrzpbEFn1qN"
     },
     {
       "added_at": "2025-12-03 02:52:25",
@@ -467,18 +467,18 @@
     {
       "added_at": "2025-12-03 02:52:25",
       "album": {
-        "name": "Pa-umaga",
-        "url": "https://open.spotify.com/album/6d3mjDBVhzN8ianGFJsKKE"
+        "name": "Musika",
+        "url": "https://open.spotify.com/album/3A0K1ImYGMKTYDLe5EgLWv"
       },
       "artists": [
         {
-          "name": "Al James",
-          "url": "https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm"
+          "name": "Dionela",
+          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
         }
       ],
-      "duration_ms": 189019,
-      "name": "Pa-umaga",
-      "url": "https://open.spotify.com/track/3U8MbjNAP56IrzpbEFn1qN"
+      "duration_ms": 246666,
+      "name": "Musika",
+      "url": "https://open.spotify.com/track/7bAVndaTleEnfizm6h2d3i"
     },
     {
       "added_at": "2025-12-03 02:52:25",
@@ -747,6 +747,22 @@
     {
       "added_at": "2025-12-03 02:52:25",
       "album": {
+        "name": "Sila",
+        "url": "https://open.spotify.com/album/0qwujayb77utSpftsXjdP3"
+      },
+      "artists": [
+        {
+          "name": "SUD",
+          "url": "https://open.spotify.com/artist/0jKQrxK2zHqxyOAyIMrUQt"
+        }
+      ],
+      "duration_ms": 326000,
+      "name": "Sila",
+      "url": "https://open.spotify.com/track/2IMODbij0lZ5CuAjZi0IDE"
+    },
+    {
+      "added_at": "2025-12-03 02:52:25",
+      "album": {
         "name": "Sinta",
         "url": "https://open.spotify.com/album/0LAPQm2tSDLFDDpCfpw5DO"
       },
@@ -779,18 +795,18 @@
     {
       "added_at": "2025-12-03 02:52:25",
       "album": {
-        "name": "Sila",
-        "url": "https://open.spotify.com/album/0qwujayb77utSpftsXjdP3"
+        "name": "Buwan",
+        "url": "https://open.spotify.com/album/2CF1utwLM2yXHMZhwFGVY1"
       },
       "artists": [
         {
-          "name": "SUD",
-          "url": "https://open.spotify.com/artist/0jKQrxK2zHqxyOAyIMrUQt"
+          "name": "juan karlos",
+          "url": "https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ"
         }
       ],
-      "duration_ms": 326000,
-      "name": "Sila",
-      "url": "https://open.spotify.com/track/2IMODbij0lZ5CuAjZi0IDE"
+      "duration_ms": 343446,
+      "name": "Buwan",
+      "url": "https://open.spotify.com/track/5f9808hpiCpuNyqqdXmpF2"
     },
     {
       "added_at": "2025-12-03 02:52:25",
@@ -807,22 +823,6 @@
       "duration_ms": 241185,
       "name": "Uhaw (Tayong Lahat)",
       "url": "https://open.spotify.com/track/47OFMuRu5lzJHRbtEXPBbs"
-    },
-    {
-      "added_at": "2025-12-03 02:52:25",
-      "album": {
-        "name": "Buwan",
-        "url": "https://open.spotify.com/album/2CF1utwLM2yXHMZhwFGVY1"
-      },
-      "artists": [
-        {
-          "name": "juan karlos",
-          "url": "https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ"
-        }
-      ],
-      "duration_ms": 343446,
-      "name": "Buwan",
-      "url": "https://open.spotify.com/track/5f9808hpiCpuNyqqdXmpF2"
     },
     {
       "added_at": "2025-12-03 02:52:25",

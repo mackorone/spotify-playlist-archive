@@ -1,12 +1,12 @@
 {
   "description": "This is Eros Ramazzotti. The essential tracks, all in one playlist.",
-  "num_followers": 246915,
+  "num_followers": 246945,
   "original_name": "This Is Eros Ramazzotti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUnbgAAAAADzjTWbd0uU+hOdi+Xf92+R",
+  "snapshot_id": "aUstAAAAAADtVfrX9FYz+gcnEvVgrE0H",
   "tracks": [
     {
       "added_at": null,
@@ -175,22 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Il mio giorno preferito/Mi d\u00eda preferido",
-        "url": "https://open.spotify.com/album/364VKqmZIJSiFbH4F5UX2x"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 206884,
-      "name": "Il mio giorno preferito",
-      "url": "https://open.spotify.com/track/1GNazjkjTfERkACRnn4EwY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The World Of Pavarotti",
         "url": "https://open.spotify.com/album/4sZtLMwl4ga9aV73G1Nn8D"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 275733,
       "name": "Se Bastasse Una Canzone",
       "url": "https://open.spotify.com/track/1Mc6y8Q3MYppvrCylqDkwO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Il mio giorno preferito/Mi d\u00eda preferido",
+        "url": "https://open.spotify.com/album/364VKqmZIJSiFbH4F5UX2x"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 206884,
+      "name": "Il mio giorno preferito",
+      "url": "https://open.spotify.com/track/1GNazjkjTfERkACRnn4EwY"
     },
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heroes De hoy [35th Anniversary Edition (Remastered 192 khz)]",
-        "url": "https://open.spotify.com/album/0NVRrBt4sMmBSXuFp0Z7Gc"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 252826,
-      "name": "Completamente Enamorados - Remastered 2021",
-      "url": "https://open.spotify.com/track/47I0PofqOKEL3QGvlFGC0D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In Ogni Senso",
         "url": "https://open.spotify.com/album/23jtBhTUUUj9LvFlbl3tyD"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 265973,
       "name": "Amarti \u00e8 l'immenso per me",
       "url": "https://open.spotify.com/track/6QIri6TN34y7YSvcsnT4Ln"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heroes De hoy [35th Anniversary Edition (Remastered 192 khz)]",
+        "url": "https://open.spotify.com/album/0NVRrBt4sMmBSXuFp0Z7Gc"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 252826,
+      "name": "Completamente Enamorados - Remastered 2021",
+      "url": "https://open.spotify.com/track/47I0PofqOKEL3QGvlFGC0D"
     },
     {
       "added_at": null,
@@ -727,8 +727,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Estilolibre",
-        "url": "https://open.spotify.com/album/2f3T6MTtosgsvOUa4a7PHk"
+        "name": "Dove c'\u00e8 musica",
+        "url": "https://open.spotify.com/album/0CewPA0oXl2anqTzAgVcKX"
       },
       "artists": [
         {
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
         }
       ],
-      "duration_ms": 278693,
-      "name": "Un Angel No Es",
-      "url": "https://open.spotify.com/track/2dQbR9FMqNdHGsbGErEAuF"
+      "duration_ms": 281200,
+      "name": "Stella gemella",
+      "url": "https://open.spotify.com/track/50aMakGSM0CocFbBGB3XrB"
     },
     {
       "added_at": null,
@@ -779,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dove c'\u00e8 musica",
-        "url": "https://open.spotify.com/album/0CewPA0oXl2anqTzAgVcKX"
+        "name": "Estilolibre",
+        "url": "https://open.spotify.com/album/2f3T6MTtosgsvOUa4a7PHk"
       },
       "artists": [
         {
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
         }
       ],
-      "duration_ms": 281200,
-      "name": "Stella gemella",
-      "url": "https://open.spotify.com/track/50aMakGSM0CocFbBGB3XrB"
+      "duration_ms": 278693,
+      "name": "Un Angel No Es",
+      "url": "https://open.spotify.com/track/2dQbR9FMqNdHGsbGErEAuF"
     },
     {
       "added_at": null,

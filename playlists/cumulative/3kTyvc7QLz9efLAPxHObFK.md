@@ -4,7 +4,7 @@
 
 > 
 
-2,769 songs - 6 day 0 hr 0 min
+2,772 songs - 6 day 0 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -529,6 +529,7 @@
 | [Dam Da Dam \- HYPERTECHNO](https://open.spotify.com/track/7i8NBkkdGmDreeaeWufJBF) | [Sghenny](https://open.spotify.com/artist/4ciy3r7f8nrBKoLZsJ6oVY) | [HYPERTECHNO 2K25](https://open.spotify.com/album/1iyCXkKvvOuLcS1rHEVWcc) | 2:48 | 2025-01-31 |  |
 | [DAMAGE](https://open.spotify.com/track/4D2zwRijiqYlyNwpDjkr1T) | [Riot Shift](https://open.spotify.com/artist/5J3RIw3YwgyXeosItjR9GY), [Zatox](https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO) | [DAMAGE](https://open.spotify.com/album/02Ps7gwhBl9dnOEWIG8UEF) | 3:28 | 2023-06-24 |  |
 | [Damage Patrol](https://open.spotify.com/track/5Pqv59wygKSWblt45CJlwB) | [Mutilator](https://open.spotify.com/artist/3AkGIMk9xwDj4A5ttNBPiN), [Imperatorz](https://open.spotify.com/artist/7eS0sxPiRLeafMwpgLJml1) | [Damage Patrol](https://open.spotify.com/album/2d6kJHTjU2EyJGV6Gnb0vK) | 2:16 | 2025-01-18 |  |
+| [DAMN GIRL](https://open.spotify.com/track/2R4P8huZXkvp8kXWsTuUcN) | [Dr.Z](https://open.spotify.com/artist/5kcfpIWkJYRZYW0cvgyl2N) | [DAMN GIRL](https://open.spotify.com/album/5WDskXkHwsP72NdisXFJA3) | 2:39 | 2025-12-25 |  |
 | [DAMNATION](https://open.spotify.com/track/2LxjYhOBFlwvR5kuN1XZME) | [Riot Shift](https://open.spotify.com/artist/5J3RIw3YwgyXeosItjR9GY) | [DAMNATION](https://open.spotify.com/album/7u31LrLdPsHPQWeUOge4sh) | 2:34 | 2024-05-10 |  |
 | [Dance](https://open.spotify.com/track/55fdT51ZdxLX0KmkOu5TY8) | [Dither](https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7) | [The G.A.B.B.E.R\. EP VOL 1.](https://open.spotify.com/album/1W0s9g2HwPUDS3QCIVMtRw) | 3:20 | 2024-12-14 |  |
 | [Dance](https://open.spotify.com/track/1WgfGOgWfTa23GqjuROCU5) | [Magistri](https://open.spotify.com/artist/1jKIo9QTqnLGMuwiZWXBKj) | [Dance](https://open.spotify.com/album/0xjpNFBACUmuZoQDRnxUlj) | 2:25 | 2025-04-26 |  |
@@ -853,6 +854,7 @@
 | [FIGHTING DEMONS](https://open.spotify.com/track/0SHI54cOrosSZySfTGvN3n) | [Riot Shift](https://open.spotify.com/artist/5J3RIw3YwgyXeosItjR9GY) | [FIGHTING DEMONS](https://open.spotify.com/album/62MK9SQIv59nSjfOiksNfi) | 3:10 | 2023-02-20 |  |
 | [Fighting For](https://open.spotify.com/track/22JELf6p8cyWBDwa91e7pL) | [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs), [Cryex](https://open.spotify.com/artist/5NkT0VLTEXldi82KVVnG1b) | [Fighting For](https://open.spotify.com/album/14Iltp0WL3VLdyxWz6FQAB) | 3:37 | 2022-09-21 |  |
 | [FILTH](https://open.spotify.com/track/0hsBVUsuQbWOeUWQLEaC9o) | [Zatox](https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO), [JAZZY](https://open.spotify.com/artist/0xGI8ZVWgiCWicV1lD1Hrk), [Jowi](https://open.spotify.com/artist/1LQlFLhzz8Vv8OIQAL3xGc) | [FILTH](https://open.spotify.com/album/7EOM1q6XrzOc4J4dwjw2F7) | 4:06 | 2025-10-26 |  |
+| [Filthy](https://open.spotify.com/track/1G2oCe9UAfOD4gXS2FDsZO) | [The Dope Doctor](https://open.spotify.com/artist/5aoT8gj20bt8UN42nzbAHh) | [Filthy](https://open.spotify.com/album/09oSzs8M8Xr88lKseHbJQP) | 2:16 | 2025-12-25 |  |
 | [Filthy Bounce](https://open.spotify.com/track/3UOfRFV0AfR0HYuGASFaYm) | [Samynator](https://open.spotify.com/artist/0stG6nm18OkbJlJHWHxrPw), [Akimbo](https://open.spotify.com/artist/3oBAqPTxVZexp9MrfwhD3e) | [Filthy Bounce](https://open.spotify.com/album/2j3KRlUzUjcA9YM1rpC29u) | 2:16 | 2025-08-22 |  |
 | [Final Call](https://open.spotify.com/track/6yTxJbEVJxMW4haLQ18zIQ) | [KELTEK](https://open.spotify.com/artist/1Od0hPnXSqA9pipLqNXJ7e), [D'ort](https://open.spotify.com/artist/7H96PqbTkVRtQTdBNtiljh) | [Music Is Magic](https://open.spotify.com/album/3tLstTvWjitOjCjEir1iRE) | 3:36 | 2024-11-22 |  |
 | [Final Destiny](https://open.spotify.com/track/3hO2o1KWB1uuOUM5M7nDni) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP), [MC Robs](https://open.spotify.com/artist/4uKen0MeTvWMQgWLYJcfJ8) | [Final Destiny](https://open.spotify.com/album/60Lkvz1JggMqmE2WpYkDOX) | 2:56 | 2025-04-12 |  |
@@ -1248,6 +1250,7 @@
 | [IK TRIP 'M \- Dimitri K Remix](https://open.spotify.com/track/5E6oxYXOp300817e9k6J4U) | [DIKKE BAAP](https://open.spotify.com/artist/1vYoGQIgamBW4S335Q0EHb), [Natte Visstick](https://open.spotify.com/artist/5hUbXqyif2dZ3ArU1v9Rli), [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [IK TRIP 'M \(Dimitri K Remix\)](https://open.spotify.com/album/524UnSavg3qCNcaiP6XbrU) | 2:21 | 2023-07-29 |  |
 | [Illuminated Star](https://open.spotify.com/track/43SLyjlin0ifkJxKWI4j0B) | [t+pazolite](https://open.spotify.com/artist/4Y345wfGiorcB2NXcsJxOt) | [Ponko2 Girlish](https://open.spotify.com/album/27uPLYSqeAZjgck0DkeI01) | 5:09 | 2025-07-18 |  |
 | [Illusion](https://open.spotify.com/track/3UvBncyeXEposIzjd3ubzn) | [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64), [Toneshifterz](https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV) | [Illusion](https://open.spotify.com/album/2vje6QJqVqmxOxbozalVZP) | 4:24 | 2023-06-02 |  |
+| [Illusion](https://open.spotify.com/track/0DobOYsvFRJXNKIioANeey) | [DMRC](https://open.spotify.com/artist/4KU7E8U1N4jXyhNhhjLNoO) | [Illusion](https://open.spotify.com/album/7zuDptXj89T7TErtg6m1HE) | 3:00 | 2025-12-25 |  |
 | [Imaginary Legacy](https://open.spotify.com/track/0fN26JSbWG9yCguZgLFtGG) | [Kobaryo](https://open.spotify.com/artist/1Y81Ch90opScfpMfN17lZb) | [Imaginary Legacy](https://open.spotify.com/album/1tjtcxQ6J4M2IWfqKDb3vk) | 2:44 | 2024-11-08 |  |
 | [Imagination](https://open.spotify.com/track/3gLg5ZSXyAZ0cUh4NntaXf) | [Deadlock](https://open.spotify.com/artist/7hx1Yw0FIMONCsRbueIZrP) | [Imagination](https://open.spotify.com/album/0niChkQ4JkLjYYrbebopdB) | 4:31 | 2022-04-19 |  |
 | [Imagination](https://open.spotify.com/track/5tFa3ZllEeignMqhINjvBI) | [Kronos](https://open.spotify.com/artist/2B3mYtzGes0f92Yfn4mVQD), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [Imagination](https://open.spotify.com/album/5KUFctNg3iuqiEtDHJmENK) | 3:09 | 2023-09-01 |  |

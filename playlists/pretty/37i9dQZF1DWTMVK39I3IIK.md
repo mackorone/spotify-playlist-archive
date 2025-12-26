@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMVK39I3IIK.md) - [plain]
 
 > de skarpeste knive i dansk musik  📸  Mona Moroni
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,068 likes - 70 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,064 likes - 70 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMVK39I3IIK.md) - [plain]
 | 23 | [Dagdrømmeri](https://open.spotify.com/track/5FooCMWZhjFYZsTbarkJkA) | [KEDDE](https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ) | [Dagdrømmeri](https://open.spotify.com/album/34HwCKrjkrUfx102qz7grK) | 3:08 |
 | 24 | [Sætter Sig Fast](https://open.spotify.com/track/0ueHqqPHinLsblBWQ0cjmW) | [will](https://open.spotify.com/artist/6CVpx38ZMlFNcepKyWTcfB) | [Sætter Sig Fast](https://open.spotify.com/album/6kPWRAW8tNgqcCyHMK6pM4) | 2:56 |
 | 25 | [BARATO](https://open.spotify.com/track/3iy4yl1YHHRlgZJbIKTnn0) | [BOABOA](https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o), [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn) | [BARATO](https://open.spotify.com/album/3k2jX8she6s2NzgpAKWMpT) | 2:29 |
-| 26 | [Anna](https://open.spotify.com/track/1aTvtqzdNdivWqhPY7G9z0) | [ABSURD](https://open.spotify.com/artist/5g2Fj5Ecjr8HQX5hqltsRv) | [Anna](https://open.spotify.com/album/1EjQLRWtKkSF9jjvktpS1O) | 3:12 |
-| 27 | [The Orchids](https://open.spotify.com/track/31aiWi0crrBvSOQ0TdUyhO) | [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [The Orchids](https://open.spotify.com/album/4lBAWfH8QNQ33Y24KolwYs) | 2:45 |
+| 26 | [The Orchids](https://open.spotify.com/track/31aiWi0crrBvSOQ0TdUyhO) | [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [The Orchids](https://open.spotify.com/album/4lBAWfH8QNQ33Y24KolwYs) | 2:45 |
+| 27 | [Anna](https://open.spotify.com/track/1aTvtqzdNdivWqhPY7G9z0) | [ABSURD](https://open.spotify.com/artist/5g2Fj5Ecjr8HQX5hqltsRv) | [Anna](https://open.spotify.com/album/1EjQLRWtKkSF9jjvktpS1O) | 3:12 |
 | 28 | [Marianne og Henrik](https://open.spotify.com/track/0awHR3yreICeQbqZmSfGVw) | [Sofie1998](https://open.spotify.com/artist/56kAP8Glt3AVDWrOwxX9aB) | [Marianne og Henrik](https://open.spotify.com/album/0sRUBB8pBrYJHak5F0sppr) | 3:00 |
 | 29 | [Synger Bare](https://open.spotify.com/track/7Icr3LYFjfg1XFeMX1vPZV) | [APHACA](https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9) | [Synger Bare](https://open.spotify.com/album/6GB6K47CUmUged4NVsNPuO) | 1:47 |
 | 30 | [Uendelighed](https://open.spotify.com/track/21O5X4CcPTXfeD5CYZJJ7Q) | [Ella Augusta](https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz) | [Uendelighed](https://open.spotify.com/album/3kBaB5xqZQj2Qtq3WG5HRX) | 2:53 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMVK39I3IIK.md) - [plain]
 | 45 | [Kun for os](https://open.spotify.com/track/2POXxsTEbwKN6aC8o6UzMX) | [KEDDE](https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ) | [Kun for os](https://open.spotify.com/album/6tq7x47PXllukmG8wbn5lc) | 3:20 |
 | 46 | [Hen til det](https://open.spotify.com/track/0p95JhZTHJXDAz1chvdKtD) | [Karla Korsbak](https://open.spotify.com/artist/64TCK9hFlXeyqmeC5JLxyC) | [Hen til det](https://open.spotify.com/album/7G917tqDbJDa3G7G3JgDsp) | 2:51 |
 | 47 | [Uden At Tænke På Dig](https://open.spotify.com/track/0C3B4j0LFTYz22XvR9tat1) | [Ida Laurberg](https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4) | [Bænkevarmer](https://open.spotify.com/album/1XHFbdl2xxkl4cyAVyCqsd) | 3:54 |
-| 48 | [Klubben \(feat\. Choir Of Young Believers\)](https://open.spotify.com/track/6FKyUOnL2xAVqiu4HlwJKN) | [Ganger](https://open.spotify.com/artist/0VkD20LbMsdWiikUO83GPT), [Choir Of Young Believers](https://open.spotify.com/artist/4aXPrNXYJLziXeH7Obkea7) | [Pisk](https://open.spotify.com/album/76WG25xbB0WzKtfwgzivt1) | 3:50 |
-| 49 | [Lonely](https://open.spotify.com/track/0kywndNJmUz0YvuVmaF9RO) | [Eros for you](https://open.spotify.com/artist/6hFvN0YDYv2sbSn7aY9AOa) | [Lonely](https://open.spotify.com/album/2Eu9EXnfSketOVIBoYhj6N) | 3:13 |
+| 48 | [Lonely](https://open.spotify.com/track/0kywndNJmUz0YvuVmaF9RO) | [Eros for you](https://open.spotify.com/artist/6hFvN0YDYv2sbSn7aY9AOa) | [Lonely](https://open.spotify.com/album/2Eu9EXnfSketOVIBoYhj6N) | 3:13 |
+| 49 | [Klubben \(feat\. Choir Of Young Believers\)](https://open.spotify.com/track/6FKyUOnL2xAVqiu4HlwJKN) | [Ganger](https://open.spotify.com/artist/0VkD20LbMsdWiikUO83GPT), [Choir Of Young Believers](https://open.spotify.com/artist/4aXPrNXYJLziXeH7Obkea7) | [Pisk](https://open.spotify.com/album/76WG25xbB0WzKtfwgzivt1) | 3:50 |
 | 50 | [Tunge Følelser](https://open.spotify.com/track/1Mnmmbcd8RhjOoZExPW3Zv) | [Zira](https://open.spotify.com/artist/4pJAB4vr5CJYRINQQ8WtfB) | [Tunge Følelser](https://open.spotify.com/album/7LAyKf6EHJxTiBkllKmp1U) | 2:35 |
 | 51 | [Et Sted på Vesterbro](https://open.spotify.com/track/1gWXpKhwYDqAT0Ct29NjdZ) | [Augusta Schackinger](https://open.spotify.com/artist/0A1gtg9Bzgv4Tlpn0D9IVm) | [Et Sted på Vesterbro](https://open.spotify.com/album/6b4gxg1zLkUbY68IrQgYRn) | 2:28 |
 | 52 | [blue](https://open.spotify.com/track/29wM3CCpBbMAbeE2DydlMV) | [mags](https://open.spotify.com/artist/5ptYy8juurZJsWloxULC3V) | [Herified](https://open.spotify.com/album/4VTTsCirGiLwITvACf0TGl) | 2:50 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMVK39I3IIK.md) - [plain]
 | 61 | [Barn Af Venedig](https://open.spotify.com/track/69xPESR9jpHettUzmQiWYE) | [Mathias Ranch](https://open.spotify.com/artist/1mWocDhzyzvNZJD0T2poQ8) | [Barn Af Venedig](https://open.spotify.com/album/7md2UVqllUni4xa7373rXi) | 3:59 |
 | 62 | [Verona](https://open.spotify.com/track/0aFsmiYkXI9C8yoiIUZNPw) | [August Høyen](https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm) | [Verona](https://open.spotify.com/album/12Z5gFrDEo92tFLeBQOSR9) | 3:18 |
 | 63 | [Ind I Solen](https://open.spotify.com/track/0reWoytdJChwzqhVwUpiFz) | [Kayak](https://open.spotify.com/artist/52CkRpzc0v3TRxHC5maRCz) | [Ind I Solen](https://open.spotify.com/album/3zOUUHsN36r3eqFNh1gz0b) | 3:47 |
-| 64 | [Nevermind](https://open.spotify.com/track/14Jcq3SjvqUS80fwJTGop9) | [ASTA NORR](https://open.spotify.com/artist/66pI4uhUJ23SYZDFgjzFGF) | [Nevermind](https://open.spotify.com/album/1WL7AjCCMOOBazFXaqD78w) | 3:09 |
-| 65 | [INTROLUDE](https://open.spotify.com/track/7F6Obrc3MbKxmkLioYyTf3) | [MARQ](https://open.spotify.com/artist/4Cm5pvR59CgfEcAG5wen6x) | [INTROLUDE](https://open.spotify.com/album/3HBPyk4kSeXssiSlqcZXUw) | 3:16 |
+| 64 | [INTROLUDE](https://open.spotify.com/track/7F6Obrc3MbKxmkLioYyTf3) | [MARQ](https://open.spotify.com/artist/4Cm5pvR59CgfEcAG5wen6x) | [INTROLUDE](https://open.spotify.com/album/3HBPyk4kSeXssiSlqcZXUw) | 3:16 |
+| 65 | [Nevermind](https://open.spotify.com/track/14Jcq3SjvqUS80fwJTGop9) | [ASTA NORR](https://open.spotify.com/artist/66pI4uhUJ23SYZDFgjzFGF) | [Nevermind](https://open.spotify.com/album/1WL7AjCCMOOBazFXaqD78w) | 3:09 |
 | 66 | [Jeg Ved At Jeg Intet Ved](https://open.spotify.com/track/5ej57afM7PwDRYyZNWGuFu) | [PATINA](https://open.spotify.com/artist/6SQ0yQG7sRlasn0yrSz7Gh) | [Uvejr](https://open.spotify.com/album/4fm0NWoZsWk7lbK4ohGas2) | 3:53 |
 | 67 | [nothing at all](https://open.spotify.com/track/4R8nC9Xq3alkz4piaQd34S) | [Elliot](https://open.spotify.com/artist/1GUGqjD5UliyQ31rYo7JBd), [Reveal Party](https://open.spotify.com/artist/665kf4qpOB0x1GE1TfFhAT) | [nothing at all](https://open.spotify.com/album/5qCrlkXncgAS7h7f5VsOGa) | 3:28 |
 | 68 | [Regnvejr](https://open.spotify.com/track/7KyQMwyinP0eYcIFvnz6aP) | [Bifald](https://open.spotify.com/artist/0digldp7orPQLSfADZojvH) | [EP](https://open.spotify.com/album/3Teg8wMP5yOVruDXO5ema8) | 3:16 |

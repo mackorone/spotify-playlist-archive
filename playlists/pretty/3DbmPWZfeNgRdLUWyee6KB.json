@@ -1,12 +1,12 @@
 {
   "description": "The best new independent songs. New tracks every month.",
-  "num_followers": 1107,
+  "num_followers": 1108,
   "original_name": "New Indie Music",
   "owner": {
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAOSf9ntnxOxCWmSVHzGW/FwG5lqS0V",
+  "snapshot_id": "AAAOTL42EE+xHamCXZX332zLBoanizg/",
   "tracks": [
     {
       "added_at": "2025-11-28 08:14:38",
@@ -3579,6 +3579,58 @@
       "duration_ms": 180576,
       "name": "Dear Daddy",
       "url": "https://open.spotify.com/track/3LTumOY6zNgvKuNGaRsE1I"
+    },
+    {
+      "added_at": "2025-12-25 19:46:49",
+      "album": {
+        "name": "A\u011fla",
+        "url": "https://open.spotify.com/album/02jIPtbHLJF6MKRgg1sqZ8"
+      },
+      "artists": [
+        {
+          "name": "A\u015fk-\u0131 mila",
+          "url": "https://open.spotify.com/artist/5lyYp2R7mr3wxiksvG9Lvs"
+        }
+      ],
+      "duration_ms": 209759,
+      "name": "A\u011fla",
+      "url": "https://open.spotify.com/track/1PG3mCrTJ2GBZ91LlVA9gV"
+    },
+    {
+      "added_at": "2025-12-25 19:47:11",
+      "album": {
+        "name": "Hart Van Een Kind",
+        "url": "https://open.spotify.com/album/5lpCr4eXdJVbG62YgGxClG"
+      },
+      "artists": [
+        {
+          "name": "FIERE",
+          "url": "https://open.spotify.com/artist/27flAoHPs3qOBdlNsKM4Sr"
+        }
+      ],
+      "duration_ms": 209813,
+      "name": "Hart Van Een Kind",
+      "url": "https://open.spotify.com/track/2N7Hd4yPtX5FZWlwuG13lb"
+    },
+    {
+      "added_at": "2025-12-25 19:47:19",
+      "album": {
+        "name": "\u0398\u03b1 \u03c7\u03b1\u03b8\u03b5\u03af\u03c2 \u03bc\u03b5 \u03c4\u03b7 \u03b2\u03c1\u03bf\u03c7\u03ae",
+        "url": "https://open.spotify.com/album/4wBzl4GQclHbCliJEgSWeM"
+      },
+      "artists": [
+        {
+          "name": "Vasilis Konstantinakos",
+          "url": "https://open.spotify.com/artist/4u6ejjlbwhKrN1NKOcpfGh"
+        },
+        {
+          "name": "Maria Michalaka",
+          "url": "https://open.spotify.com/artist/4rboAqEBfIBnyA0xiiNZi2"
+        }
+      ],
+      "duration_ms": 294245,
+      "name": "\u0398\u03b1 \u03c7\u03b1\u03b8\u03b5\u03af\u03c2 \u03bc\u03b5 \u03c4\u03b7 \u03b2\u03c1\u03bf\u03c7\u03ae",
+      "url": "https://open.spotify.com/track/3a7Q9NsGva0DuemgZfoxRJ"
     }
   ],
   "unique_name": "New Indie Music",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KmjFVboxXV.md) - [plain]
 
 > Love whoever you want to love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,385 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,368 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KmjFVboxXV.md) - [plain]
 | 40 | [Volcanic Love](https://open.spotify.com/track/5YY6Z7YnjGOPxYy8ooZmLC) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [When My Heart Felt Volcanic](https://open.spotify.com/album/2lsQE89fPFInz2J62K6waw) | 3:25 |
 | 41 | [Anything](https://open.spotify.com/track/0by0AKBoLYhR8wKd9MkqGq) | [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Anything](https://open.spotify.com/album/7ubSPKEMVxIUKcPL6I9NV6) | 2:23 |
 | 42 | [American Dream](https://open.spotify.com/track/73BpWEFfUfgQINo81JJCDo) | [Baby Queen](https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd), [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [The Yearbook](https://open.spotify.com/album/5AxHpSJXhis5BFb1AA24pe) | 4:19 |
-| 43 | [Cherry Bomb](https://open.spotify.com/track/1yyRet7pgLwTGGxGkbbaaa) | [Julianna Joy](https://open.spotify.com/artist/0USR2QFOObXNb4xQxDeLjs) | [Cherry Bomb](https://open.spotify.com/album/09I3k7LK3Hgg9FaXKFXCOR) | 3:48 |
-| 44 | [SOMETHING ABOUT HIM](https://open.spotify.com/track/2S11ZvEfuFSqInfxWxkx36) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [iridescence](https://open.spotify.com/album/3Mj4A4nNJzIdxOyS4yzOhj) | 1:33 |
+| 43 | [SOMETHING ABOUT HIM](https://open.spotify.com/track/2S11ZvEfuFSqInfxWxkx36) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [iridescence](https://open.spotify.com/album/3Mj4A4nNJzIdxOyS4yzOhj) | 1:33 |
+| 44 | [Cherry Bomb](https://open.spotify.com/track/1yyRet7pgLwTGGxGkbbaaa) | [Julianna Joy](https://open.spotify.com/artist/0USR2QFOObXNb4xQxDeLjs) | [Cherry Bomb](https://open.spotify.com/album/09I3k7LK3Hgg9FaXKFXCOR) | 3:48 |
 | 45 | [Like You Like That](https://open.spotify.com/track/4K9yoBHLnOLcTe7AWewiLM) | [L Devine](https://open.spotify.com/artist/5dhyUSoGhz79WTzP39vKs4) | [Growing Pains](https://open.spotify.com/album/2jsTbvNFkE9EuNFLnStchm) | 3:22 |
 | 46 | [megan fox](https://open.spotify.com/track/1S59E0qKUoPdVneBH4nelg) | [kezia](https://open.spotify.com/artist/3Tyez015JVVZwhnF6YFVOI) | [claire \(deluxe\)](https://open.spotify.com/album/1Z6bytsj2M6HXeVqhruReA) | 2:29 |
 | 47 | [She Like \(feat\. Blanco\)](https://open.spotify.com/track/1oCbDWh54GvaE2lRlmJZcK) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [She Like \(feat\. Blanco\)](https://open.spotify.com/album/3tBzwRA9tDK27VQR9jkNIQ) | 2:54 |

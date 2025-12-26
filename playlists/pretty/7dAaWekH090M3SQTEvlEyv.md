@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7dAaWekH090M3SQTEvlEyv.md) - [plain]
 
 > ニコニコ動画上におけるVOCALOID曲の人気を測るチャート。動画再生数や、作成数、コメント数、いいね数などのデータにビルボードが独自開発した係数を乗じて上位20位までのランキングを生成しています。Supported by ニコニコ
 
-[U&R records](https://open.spotify.com/user/31e6dqbfoohkwlm47nh6e763jbnm) - 15 likes - 18 songs - 54 min 40 sec
+[U&R records](https://open.spotify.com/user/31e6dqbfoohkwlm47nh6e763jbnm) - 16 likes - 18 songs - 54 min 40 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

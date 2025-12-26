@@ -2,24 +2,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: Jeff Satur
+> T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: Offroad Kantapon
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,009 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,035 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ของขวัญปีใหม่ \(Golden Night\)](https://open.spotify.com/track/43JyEMmiEB4LJDwMDnIqvz) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [ของขวัญปีใหม่ \(Golden Night\)](https://open.spotify.com/album/4PmVt4yjh8yTVM031pigzp) | 3:59 |
-| 2 | [wanna be yours \(อยากให้เธอรัก\)](https://open.spotify.com/track/2PP99Q3WvAlEongTB8PlLS) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [wanna be yours \(อยากให้เธอรัก\)](https://open.spotify.com/album/6OmpOdG7zGiZPv1KF9n7WU) | 3:34 |
-| 3 | [ติดเธอซะก่อน \(Sweet Baby\)](https://open.spotify.com/track/5q2xUSTyggCisITlHEvtB1) | [Jaonaay](https://open.spotify.com/artist/6biI2KAsW3nrI8xzSwwxuo) | [ติดเธอซะก่อน \(Sweet Baby\)](https://open.spotify.com/album/6X4l9XVOt3WggiikJ7yQPv) | 3:26 |
-| 4 | [T2T](https://open.spotify.com/track/5xXUqyjaTqPQ7XnIThviQ9) | [Timethai](https://open.spotify.com/artist/2VV4AGhL9jU2GuW9CIOpj2), [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [T2T](https://open.spotify.com/album/36tmLHUiLvhRAiEihPDTmI) | 3:20 |
-| 5 | [ที่คั่นหนังสือ \(Sometimes\)](https://open.spotify.com/track/7zKxBR2LzgFMnVBX6d0ZhT) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr), [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [ที่คั่นหนังสือ \(Sometimes\)](https://open.spotify.com/album/2K4KOfhgb6YLNdyVas8eq6) | 4:52 |
-| 6 | [ยื่นใบสมัคร \(Heart Application\)](https://open.spotify.com/track/4EyQv6oJtloxRBS1ChYLY1) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [ยื่นใบสมัคร \(Heart Application\)](https://open.spotify.com/album/5avNi0q4TPgBnshJ2juHHV) | 2:47 |
+| 2 | [ติดเธอซะก่อน \(Sweet Baby\)](https://open.spotify.com/track/5q2xUSTyggCisITlHEvtB1) | [Jaonaay](https://open.spotify.com/artist/6biI2KAsW3nrI8xzSwwxuo) | [ติดเธอซะก่อน \(Sweet Baby\)](https://open.spotify.com/album/6X4l9XVOt3WggiikJ7yQPv) | 3:26 |
+| 3 | [คับใจ\(อยู่ได้\) \- Only You](https://open.spotify.com/track/3b6Jdk5uc3jjsvPrkYaARM) | [Offroad Kantapon](https://open.spotify.com/artist/1n1qyKoHL2ZeVUpGVYrZsL) | [คับใจ\(อยู่ได้\) \- Only You](https://open.spotify.com/album/7pOm63OeiSFk5N6dAIysm4) | 3:24 |
+| 4 | [ที่คั่นหนังสือ \(Sometimes\)](https://open.spotify.com/track/7zKxBR2LzgFMnVBX6d0ZhT) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr), [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [ที่คั่นหนังสือ \(Sometimes\)](https://open.spotify.com/album/2K4KOfhgb6YLNdyVas8eq6) | 4:52 |
+| 5 | [Switch It Up](https://open.spotify.com/track/2ywzV7tZPvczDPPRGevBtt) | [CIR\*CRL](https://open.spotify.com/artist/5QoCHy2Npdzy9xuAkpoczL) | [Switch It Up](https://open.spotify.com/album/0d9GGNk8eJQxXOo5gaMavJ) | 2:51 |
+| 6 | [T2T](https://open.spotify.com/track/5xXUqyjaTqPQ7XnIThviQ9) | [Timethai](https://open.spotify.com/artist/2VV4AGhL9jU2GuW9CIOpj2), [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [T2T](https://open.spotify.com/album/36tmLHUiLvhRAiEihPDTmI) | 3:20 |
 | 7 | [พบรัก](https://open.spotify.com/track/2LJerOY5jSwO5K6OF9Cyuz) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [พบรัก](https://open.spotify.com/album/3C1L1CgjEjjHoyAPZwePgs) | 3:54 |
-| 8 | [เปิ๊ดสะก๊าด](https://open.spotify.com/track/1Lff0JYQf0GSoAcHKOjA23) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [เปิ๊ดสะก๊าด](https://open.spotify.com/album/6R47uIV2JC9h0hbfCY7c1O) | 2:54 |
+| 8 | [wanna be yours \(อยากให้เธอรัก\)](https://open.spotify.com/track/2PP99Q3WvAlEongTB8PlLS) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [wanna be yours \(อยากให้เธอรัก\)](https://open.spotify.com/album/6OmpOdG7zGiZPv1KF9n7WU) | 3:34 |
 | 9 | [คลั่งเธอ \(Dopamine\)](https://open.spotify.com/track/7mKWZhB6AdIPqRMuzuiRsO) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [คลั่งเธอ \(Dopamine\)](https://open.spotify.com/album/53s9ynIUb1BWYHBDZVlzKv) | 4:41 |
-| 10 | [YOU OF THE YEAR](https://open.spotify.com/track/7IGMR3tJIZn4IF5OL0P1BX) | [PJ](https://open.spotify.com/artist/7Duv82zy6lhA77CvXIC2N0) | [YOU OF THE YEAR](https://open.spotify.com/album/5I49TQuKqF2CHsXBGg07YS) | 3:48 |
-| 11 | [เอายังไง? \(Stay or Leave\)](https://open.spotify.com/track/6wEVZBCQNPgfXl6k9x6wYg) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [เอายังไง? \(Stay or Leave\)](https://open.spotify.com/album/2W3mJ8OQBghhUbGrlTSg69) | 2:33 |
-| 12 | [เริ่ด \(Slay\)](https://open.spotify.com/track/6rljpFjQ2UbrCuLiLblY3S) | [FELIZZ](https://open.spotify.com/artist/1syMBJs334spaMGj5sZFYo) | [เริ่ด \(Slay\)](https://open.spotify.com/album/5rKGwu0OQ0kHe2uaSAC3aE) | 3:01 |
+| 10 | [ยื่นใบสมัคร \(Heart Application\)](https://open.spotify.com/track/4EyQv6oJtloxRBS1ChYLY1) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [ยื่นใบสมัคร \(Heart Application\)](https://open.spotify.com/album/5avNi0q4TPgBnshJ2juHHV) | 2:47 |
+| 11 | [YOU OF THE YEAR](https://open.spotify.com/track/7IGMR3tJIZn4IF5OL0P1BX) | [PJ](https://open.spotify.com/artist/7Duv82zy6lhA77CvXIC2N0) | [YOU OF THE YEAR](https://open.spotify.com/album/5I49TQuKqF2CHsXBGg07YS) | 3:48 |
+| 12 | [เอายังไง? \(Stay or Leave\)](https://open.spotify.com/track/6wEVZBCQNPgfXl6k9x6wYg) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [เอายังไง? \(Stay or Leave\)](https://open.spotify.com/album/2W3mJ8OQBghhUbGrlTSg69) | 2:33 |
 | 13 | [HUH?](https://open.spotify.com/track/0utAUYiWZZatIr8hZ5SLGP) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [HUH?](https://open.spotify.com/album/3qz6SkDht9QOuFUqDghIzu) | 3:27 |
 | 14 | [TOUCH](https://open.spotify.com/track/2w3yu5eVe9VdMwyMCfQSrl) | [JASP.ER](https://open.spotify.com/artist/1wBe2nbEVc01LGBk4YCxER) | [TOUCH](https://open.spotify.com/album/2BsXooxF3qdP8wiMlUqFae) | 3:08 |
 | 15 | [ถ้าฉันทนไม่ไหว \(temptation\)](https://open.spotify.com/track/71miW6WiBaqjWwEtSxqreC) | [gorn](https://open.spotify.com/artist/4M38O0BdnZFTOc9QjeHShV) | [ถ้าฉันทนไม่ไหว \(temptation\)](https://open.spotify.com/album/2HJ68G4V4HBMYQwnlkbYyF) | 3:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 49 | [เรียกว่ารักได้ไหม \(Is This Love?\)](https://open.spotify.com/track/0I4xF90oDZ1tOtZvai8Dtu) | [GEMINI](https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei), [FOURTH](https://open.spotify.com/artist/4PtJISxBNvXOwLxuQgUiyQ) | [เรียกว่ารักได้ไหม \(Is This Love?\)](https://open.spotify.com/album/2EE5Az5ygqidTPBQQxBkbZ) | 3:06 |
 | 50 | [ฉันก่อนเจอเธอ \(Lost and Found\)](https://open.spotify.com/track/52iD6HTHA5y3Bvkzpb4Eyz) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [ฉันก่อนเจอเธอ \(Lost and Found\)](https://open.spotify.com/album/5ETrymml30wW2kHEMIzvsx) | 3:20 |
 
-Snapshot ID: `AAAAAMSksUPIOKEzRRIMZfudD/GniQ04`
+Snapshot ID: `AAAAAEqdDC9h5oEArbwur1J2PS3oTQS0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7r3u5HAAB4A.md) - [plain]
 
 > A melting pot of Caribbean culture\. Cover: Armanii
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,131 likes - 115 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,279 likes - 115 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

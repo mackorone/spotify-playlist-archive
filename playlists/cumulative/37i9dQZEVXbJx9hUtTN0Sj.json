@@ -21424,7 +21424,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 160915,
       "name": "Instructions",
       "url": "https://open.spotify.com/track/4fziMHQiCoRAzp7lep6ptG"
@@ -22672,10 +22672,32 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 156000,
       "name": "KATYUSHA",
       "url": "https://open.spotify.com/track/05axRIbcO9nhPiuLRz2pOW"
+    },
+    {
+      "album": {
+        "name": "KATYUSHA",
+        "url": "https://open.spotify.com/album/61WHVQNRL4lI87WBHxjab9"
+      },
+      "artists": [
+        {
+          "name": "BADGRUB",
+          "url": "https://open.spotify.com/artist/3gRNmYljgesdOTcNDZLJ2X"
+        },
+        {
+          "name": "Police In Paris",
+          "url": "https://open.spotify.com/artist/2NQvfk2OahqD2YybayOHC2"
+        }
+      ],
+      "date_added": "2025-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156001,
+      "name": "KATYUSHA",
+      "url": "https://open.spotify.com/track/0r8EzfodJLJqTlMjKUHy2e"
     },
     {
       "album": {
@@ -30912,7 +30934,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 125480,
       "name": "Never Ending Story",
       "url": "https://open.spotify.com/track/7r6xGsyES2DTacyP6O585i"
@@ -35086,7 +35108,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-15",
+      "date_removed": null,
       "duration_ms": 169846,
       "name": "Positive",
       "url": "https://open.spotify.com/track/1oOg0jvlrnZSAy3dhK8fmB"
@@ -36784,7 +36806,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 188516,
       "name": "Rodney",
       "url": "https://open.spotify.com/track/7cgggy3ha5vFg1J96sI93o"
@@ -42786,7 +42808,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-13",
+      "date_removed": null,
       "duration_ms": 226073,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
@@ -43056,6 +43078,24 @@
       "duration_ms": 149657,
       "name": "THE RECAP",
       "url": "https://open.spotify.com/track/2MqtHEaoMmfVMe3gjg7rQz"
+    },
+    {
+      "album": {
+        "name": "The Road to Hell (Deluxe Edition, 2019 Remaster)",
+        "url": "https://open.spotify.com/album/4Nott58lylIBXVbaUD37Cl"
+      },
+      "artists": [
+        {
+          "name": "Chris Rea",
+          "url": "https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2"
+        }
+      ],
+      "date_added": "2025-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272506,
+      "name": "The Road to Hell, Pt. II - 2019 Remaster",
+      "url": "https://open.spotify.com/track/4EnKWWf3YhlQc4J1iENf4c"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. 🌪️
 
-1,064 songs - 2 day 5 hr 0 min
+1,065 songs - 2 day 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [armoa](https://open.spotify.com/track/0n67iP09vn68Gl8XsRMOnP) | [vivian](https://open.spotify.com/artist/5mGgHBjw7fQeVUmZKzlKey) | [armoa / antaudun](https://open.spotify.com/album/1vULXicOVGem5E0uELsuLY) | 3:24 | 2025-11-28 | 2025-12-12 |
 | [as i wave goodbye](https://open.spotify.com/track/3NsnczRs7xsd7gx89w5Ufo) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [LOVERCORE](https://open.spotify.com/album/75FM00r9Lgdi0YHv7vvzzB) | 2:26 | 2025-10-23 | 2025-11-14 |
 | [Asereje \(Airplane Mode\)](https://open.spotify.com/track/2BgP3A8ca8uIbyduuuKrVa) | [BLANKA](https://open.spotify.com/artist/0ML3y0iBY1nq7HWAWP0EFm) | [Asereje \(Airplane Mode\)](https://open.spotify.com/album/6yfVWbM2c6kahYpuhuEQbf) | 2:39 | 2024-07-26 | 2024-08-16 |
-| [Asfaltin pinta \- Vain elämää kausi 16](https://open.spotify.com/track/71lekT94R4rRcRKg3K5aAA) | [Johannes Brotherus](https://open.spotify.com/artist/5lFVRyMzIDJHW9Oy9vZpYo), [KUUMAA](https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr) | [Asfaltin pinta \(Vain elämää kausi 16\)](https://open.spotify.com/album/6tFLCJuR7SQTQ9HPdJzoOF) | 3:18 | 2025-10-16 |  |
+| [Asfaltin pinta \- Vain elämää kausi 16](https://open.spotify.com/track/71lekT94R4rRcRKg3K5aAA) | [Johannes Brotherus](https://open.spotify.com/artist/5lFVRyMzIDJHW9Oy9vZpYo), [KUUMAA](https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr) | [Asfaltin pinta \(Vain elämää kausi 16\)](https://open.spotify.com/album/6tFLCJuR7SQTQ9HPdJzoOF) | 3:18 | 2025-10-16 | 2025-12-26 |
 | [Askel kerrallaan \(feat\. HUGO\)](https://open.spotify.com/track/0UcTBOojoImf3KI3ncPcPq) | [Danitello](https://open.spotify.com/artist/2pDOEMG8cZjRjsf8sQWLeE), [HUGO](https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ) | [Askel kerrallaan \(feat\. HUGO\)](https://open.spotify.com/album/0JbkWkTx8NyAQnKtxNQuwL) | 3:03 | 2024-11-28 | 2025-01-31 |
 | [Asunto 35 \(Vain elämää kausi 16\)](https://open.spotify.com/track/1bYW0U5FmsUrDR3K9hrY8R) | [Vesta](https://open.spotify.com/artist/0KzoK9bz1M6R9cDBLAOF4q) | [Asunto 35 \(Vain elämää kausi 16\)](https://open.spotify.com/album/1ppPF4qes60vtwOVT52eN7) | 2:46 | 2025-10-16 | 2025-10-24 |
 | [At The Party](https://open.spotify.com/track/0M8nfWI3cAkYcXNTB0mrCN) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [YEBO](https://open.spotify.com/album/22jBLZ3vPKcUyK9JbzXFo7) | 2:42 | 2025-11-07 |  |
@@ -689,6 +689,7 @@
 | [Paradise \(with Bipolar Sunshine\)](https://open.spotify.com/track/10WWosq6z75o3WGRjL4v2D) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Paradise \(with Bipolar Sunshine\)](https://open.spotify.com/album/6V5S9DCZk49kkNsnIh9gt7) | 3:20 | 2025-05-15 |  |
 | [Paras virhe](https://open.spotify.com/track/1pNnC5KyzcAyMcIBJXgUBU) | [Mouhous](https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i) | [Paras virhe](https://open.spotify.com/album/2By3JFuQSEAPTJmIs7G1aQ) | 3:02 | 2025-03-27 | 2025-05-09 |
 | [Parasta aikaa](https://open.spotify.com/track/5v8BGpuURGF8ydZAomM0WZ) | [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2), [Sliki](https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt) | [Parasta aikaa](https://open.spotify.com/album/1GIr1W3rj6izFP6EVshBo0) | 2:08 | 2025-05-15 | 2025-05-30 |
+| [Paratiisi](https://open.spotify.com/track/2F0C2YZtoTIlFOrNlzDIB1) | [Isaac Sene](https://open.spotify.com/artist/227yfva6O3LBBYJWNJHC6a) | [Paratiisi](https://open.spotify.com/album/38CIKyxHu0d1iwi124ApRQ) | 2:35 | 2025-12-25 |  |
 | [Paratiisi](https://open.spotify.com/track/51S0Hn25rALtlGLhylAWH7) | [T Swoop](https://open.spotify.com/artist/3XB4IVNkzpc80d9qmthhl3) | [Paratiisi](https://open.spotify.com/album/2YzAWzSha2qcwYARqIsaxM) | 2:54 | 2025-01-30 | 2025-02-14 |
 | [Paremmin nyt](https://open.spotify.com/track/5Qk2r9VPCloxC7h0ufY1wb) | [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [Pöydät kääntyy](https://open.spotify.com/album/4sCu5cSceK9VHwQKrbqART) | 2:28 | 2025-11-13 |  |
 | [Parempi mies](https://open.spotify.com/track/7cHnbBoghcPqFQ1rcCUort) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Parempi mies](https://open.spotify.com/album/0PC2XvK07EEMfGS08PAc5a) | 2:57 | 2025-09-11 | 2025-10-17 |

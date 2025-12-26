@@ -1,6 +1,6 @@
 {
   "description": "A escolha de nossos editores do Melhor de EQUAL Brasil 2025. Cover: Gaby Amarantos",
-  "num_followers": 190317,
+  "num_followers": 190365,
   "original_name": "O Melhor de EQUAL Brasil 2025",
   "owner": {
     "name": "Spotify",
@@ -79,6 +79,22 @@
     {
       "added_at": "2025-12-03 12:15:56",
       "album": {
+        "name": "Coisas Naturais",
+        "url": "https://open.spotify.com/album/2PRDU8Oeb9f0lpgSjbaJXE"
+      },
+      "artists": [
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "duration_ms": 197030,
+      "name": "Lua Cheia",
+      "url": "https://open.spotify.com/track/6II8HGRVkvVUy0uIM4X5Qq"
+    },
+    {
+      "added_at": "2025-12-03 12:15:56",
+      "album": {
         "name": "Solteira De Corpo (Ao Vivo)",
         "url": "https://open.spotify.com/album/4ix534SKJIWRAlK9lScXMO"
       },
@@ -95,22 +111,6 @@
       "duration_ms": 215968,
       "name": "Solteira De Corpo - Ao Vivo",
       "url": "https://open.spotify.com/track/6EF9PYqEk5SdbCCQJ9q8jT"
-    },
-    {
-      "added_at": "2025-12-03 12:15:56",
-      "album": {
-        "name": "Coisas Naturais",
-        "url": "https://open.spotify.com/album/2PRDU8Oeb9f0lpgSjbaJXE"
-      },
-      "artists": [
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        }
-      ],
-      "duration_ms": 197030,
-      "name": "Lua Cheia",
-      "url": "https://open.spotify.com/track/6II8HGRVkvVUy0uIM4X5Qq"
     },
     {
       "added_at": "2025-12-03 12:15:56",
@@ -671,30 +671,6 @@
     {
       "added_at": "2025-12-03 12:15:56",
       "album": {
-        "name": "MUCHO SEXY",
-        "url": "https://open.spotify.com/album/3mg0rt1WlfjJJi2KvJlhKV"
-      },
-      "artists": [
-        {
-          "name": "Mia Badgyal",
-          "url": "https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc"
-        },
-        {
-          "name": "Irm\u00e3s de Pau",
-          "url": "https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu"
-        },
-        {
-          "name": "DJ RaMeMes (O DESTRUIDOR DO FUNK)",
-          "url": "https://open.spotify.com/artist/6Xk7H8ufVBIZcgGWAhY9b3"
-        }
-      ],
-      "duration_ms": 185864,
-      "name": "GASOLINA",
-      "url": "https://open.spotify.com/track/6km3xj1qXL5S1kinBNXKXy"
-    },
-    {
-      "added_at": "2025-12-03 12:15:56",
-      "album": {
         "name": "MEU DOM",
         "url": "https://open.spotify.com/album/7DYBGUjyiRzM4V9Lk3ZFms"
       },
@@ -719,18 +695,26 @@
     {
       "added_at": "2025-12-03 12:15:56",
       "album": {
-        "name": "BASEADO EM FATOS REAIS (menos as partes que eu inventei)",
-        "url": "https://open.spotify.com/album/5JtKh2HM4KGLj6K0q2hdf1"
+        "name": "MUCHO SEXY",
+        "url": "https://open.spotify.com/album/3mg0rt1WlfjJJi2KvJlhKV"
       },
       "artists": [
         {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+          "name": "Mia Badgyal",
+          "url": "https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc"
+        },
+        {
+          "name": "Irm\u00e3s de Pau",
+          "url": "https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu"
+        },
+        {
+          "name": "DJ RaMeMes (O DESTRUIDOR DO FUNK)",
+          "url": "https://open.spotify.com/artist/6Xk7H8ufVBIZcgGWAhY9b3"
         }
       ],
-      "duration_ms": 171000,
-      "name": "assim",
-      "url": "https://open.spotify.com/track/26tlHEAz8l5kQ8w7Gg4b8g"
+      "duration_ms": 185864,
+      "name": "GASOLINA",
+      "url": "https://open.spotify.com/track/6km3xj1qXL5S1kinBNXKXy"
     },
     {
       "added_at": "2025-12-03 12:15:56",
@@ -763,6 +747,22 @@
       "duration_ms": 118285,
       "name": "\u00c9 Sal",
       "url": "https://open.spotify.com/track/472LBNCGld5qZqVeO5Opfv"
+    },
+    {
+      "added_at": "2025-12-03 12:15:56",
+      "album": {
+        "name": "BASEADO EM FATOS REAIS (menos as partes que eu inventei)",
+        "url": "https://open.spotify.com/album/5JtKh2HM4KGLj6K0q2hdf1"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "assim",
+      "url": "https://open.spotify.com/track/26tlHEAz8l5kQ8w7Gg4b8g"
     },
     {
       "added_at": "2025-12-03 12:15:56",

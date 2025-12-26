@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKap1fTevjS.md) - [plain]
 
 > Buscando um sono profundo? Essa playlist te ajuda a dormir melhor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,633 likes - 346 songs - 15 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,691 likes - 346 songs - 15 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -355,4 +355,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKap1fTevjS.md) - [plain]
 | 345 | [Endicino](https://open.spotify.com/track/6sCBSdY0rB7pwS8kosA2Md) | [Amphose](https://open.spotify.com/artist/719YWjEvZBDkU5Esi9rsZz) | [Endicino](https://open.spotify.com/album/0D3FLFw97MUgnSA6VL7slA) | 2:51 |
 | 346 | [End of the Road](https://open.spotify.com/track/1r7MAKbqzXOeunbE5bPz7q) | [Elijah Edwards](https://open.spotify.com/artist/33e4XNrceV0ftUpzWWJWqS) | [End of the Road](https://open.spotify.com/album/15bWE1pZY2xLtg3eES4Rl1) | 2:46 |
 
-Snapshot ID: `AAAAACQQWGkML278QXwWtirYi4b6wlnU`
+Snapshot ID: `AAAAAEUnEKYE6xviGJRDXlT9lod7qn8o`

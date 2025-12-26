@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZH1IszRUbkn.md) - [plain]
 
 > Canta juntos con tus artistas favoritos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,052 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,053 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZH1IszRUbkn.md) - [plain]
 | 6 | [Pollito Amarillito](https://open.spotify.com/track/1MJX2sInxx64viGnnys6lx) | [Gallina Pintadita](https://open.spotify.com/artist/3tXNR10VqUcpryTGq1SeZq) | [Gallina Pintadita, Vol\. 1](https://open.spotify.com/album/2NOcRovINlE1ysJKFUyYXH) | 1:47 |
 | 7 | [La Llorona](https://open.spotify.com/track/5fBcRH4CnYTaFMQtM0JtSl) | [Alanna Ubach](https://open.spotify.com/artist/2QIv0RotNtHfzzp1jzJsJ4), [Antonio Sol](https://open.spotify.com/artist/7GmYpAwLQ2PyE1BubvUBsM) | [Coco \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5) | 2:45 |
 | 8 | [Chumbala Cachumbala](https://open.spotify.com/track/6wD3hbMqosHMbhZpgXkqVu) | [Luli Pampín](https://open.spotify.com/artist/2s5oIH7jW68tUafw6zs2y6) | [Bienvenidos \(Juega, Aprende, Baila Canciones Infantiles Con Luli Pampín\)](https://open.spotify.com/album/09igXCXQKwsdYuT1uDPiv7) | 3:03 |
-| 9 | [Yo Tengo Una Casita](https://open.spotify.com/track/70bgmwEzdGMNaUcX7joN4D) | [Pica\-Pica](https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2) | [El Patio de Mi Casa](https://open.spotify.com/album/6N4L3Vt3MeuKk3J0tvm9qN) | 1:43 |
-| 10 | [La familia Madrigal](https://open.spotify.com/track/6740sbqgB64LZopHUEiBG8) | [Olga Lucía Vives](https://open.spotify.com/artist/1xtEM6Ynrm8jO1o7rXzP22), [Yaneth Waldman](https://open.spotify.com/artist/49xYVBMRskbDXPIZJZxJwR), [Encanto \- Elenco](https://open.spotify.com/artist/52l7jN5e0g2n3IVOHulkA6) | [Encanto \(Banda Sonora Original en Español\)](https://open.spotify.com/album/4X5y4Xykl9IdiLqQtUInVF) | 4:17 |
+| 9 | [La familia Madrigal](https://open.spotify.com/track/6740sbqgB64LZopHUEiBG8) | [Olga Lucía Vives](https://open.spotify.com/artist/1xtEM6Ynrm8jO1o7rXzP22), [Yaneth Waldman](https://open.spotify.com/artist/49xYVBMRskbDXPIZJZxJwR), [Encanto \- Elenco](https://open.spotify.com/artist/52l7jN5e0g2n3IVOHulkA6) | [Encanto \(Banda Sonora Original en Español\)](https://open.spotify.com/album/4X5y4Xykl9IdiLqQtUInVF) | 4:17 |
+| 10 | [Yo Tengo Una Casita](https://open.spotify.com/track/70bgmwEzdGMNaUcX7joN4D) | [Pica\-Pica](https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2) | [El Patio de Mi Casa](https://open.spotify.com/album/6N4L3Vt3MeuKk3J0tvm9qN) | 1:43 |
 | 11 | [Mariana](https://open.spotify.com/track/1omsGCyXOwY4zk6VuhxRuE) | [Gallina Pintadita](https://open.spotify.com/artist/3tXNR10VqUcpryTGq1SeZq) | [Gallina Pintadita, Vol\. 1](https://open.spotify.com/album/2NOcRovINlE1ysJKFUyYXH) | 3:12 |
 | 12 | [Ratón Vaquero](https://open.spotify.com/track/6oUGuBl910hSHMaxdSTlSE) | [Cri\-Cri](https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4) | [Cri Cri Por El Mundo](https://open.spotify.com/album/6yWbg1K1DRMmKqaMtKQA4g) | 3:03 |
 | 13 | [El Mundo es mi Familia](https://open.spotify.com/track/5tsiVaup3IdqXrqItieZLY) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd), [Luis Ángel Gómez Jaramillo](https://open.spotify.com/artist/6UaKHgRNaUxQfQD67gzgc5) | [Coco \(Banda Sonora Original en Español\)](https://open.spotify.com/album/0nyS6HuJFyovkq5EJSztWI) | 0:50 |
@@ -50,12 +50,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZH1IszRUbkn.md) - [plain]
 | 40 | [Sana Sana](https://open.spotify.com/track/3Lp1uOs9bgSDV4UtxSnqBF) | [Patylu](https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb) | [Miss Patylu Vol\. 2](https://open.spotify.com/album/7EEXPQpy2rAwofhzj8FZ4U) | 2:32 |
 | 41 | [Vacaciones tope guay](https://open.spotify.com/track/4tOdiwIqwF9wSp2hM4KnST) | [Pica\-Pica](https://open.spotify.com/artist/3oaNnQa52hlN69wvaatUE2) | [Vacaciones tope guay](https://open.spotify.com/album/0Y2c1pfdLGtl1u4d32G7pf) | 3:29 |
 | 42 | [Los Numeros](https://open.spotify.com/track/4Lm4ik2rP04Td4y0UgnVCW) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [¡Fantastico!](https://open.spotify.com/album/0ipw5KNRW7MMROqv1rDR8R) | 2:59 |
-| 43 | [Manos Divertidas](https://open.spotify.com/track/3UXhQNMTVMZBE2Bkej9owC) | [CantaJuego](https://open.spotify.com/artist/1A4041ctH86ZE5rFqr0Poe) | [Un Mundo De Canciones](https://open.spotify.com/album/36XYzswEBwXqGIjawO5juU) | 2:02 |
+| 43 | [El Sapo Pepe Y La Rana Juana](https://open.spotify.com/track/4zSxmtADvuhuFuEalREYgE) | [CantaJuego](https://open.spotify.com/artist/1A4041ctH86ZE5rFqr0Poe) | [Un Mundo De Canciones](https://open.spotify.com/album/36XYzswEBwXqGIjawO5juU) | 2:09 |
 | 44 | [Osito Carpintero](https://open.spotify.com/track/4x9TXDIjvz3RElsuPiEVqE) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Viva Kids, Vol\. 1](https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5) | 2:36 |
 | 45 | [La Regla Primordial \- Retrete Navarrete y los Bulliciosos](https://open.spotify.com/track/5HID7xBByWhvdEgR9B5uFr) | [31 Minutos](https://open.spotify.com/artist/1EgVsKobLzbNgILxx9wrVG) | [31 Minutos, Ratoncitos](https://open.spotify.com/album/5eymzke6O0xLndwXwltN2E) | 2:45 |
 | 46 | [Dos ojitos tengo](https://open.spotify.com/track/5NVfQukFgB2NUo5kEmb328) | [Trepsi](https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs) | [A cantar](https://open.spotify.com/album/1YkdGixY4sBJW3M3vBh0em) | 0:55 |
 | 47 | [Malísima](https://open.spotify.com/track/3IwVXqUC0QRTDeKiKnzn5F) | [Chiquititas](https://open.spotify.com/artist/0qAthAwwFa3RW6BRRsP4cQ) | [24 Horas](https://open.spotify.com/album/6tm1M6j9spjOrQOufaVGEw) | 2:38 |
-| 48 | [El Sapo Pepe Y La Rana Juana](https://open.spotify.com/track/4zSxmtADvuhuFuEalREYgE) | [CantaJuego](https://open.spotify.com/artist/1A4041ctH86ZE5rFqr0Poe) | [Un Mundo De Canciones](https://open.spotify.com/album/36XYzswEBwXqGIjawO5juU) | 2:09 |
+| 48 | [Manos Divertidas](https://open.spotify.com/track/3UXhQNMTVMZBE2Bkej9owC) | [CantaJuego](https://open.spotify.com/artist/1A4041ctH86ZE5rFqr0Poe) | [Un Mundo De Canciones](https://open.spotify.com/album/36XYzswEBwXqGIjawO5juU) | 2:02 |
 | 49 | [Garabato Colorado](https://open.spotify.com/track/3XjOBu6y6mlyGJK9gABfL9) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Viva Kids, Vol\. 1](https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5) | 3:04 |
 | 50 | [Lala \- Lolo](https://open.spotify.com/track/4bK6C3UzOgWrfaK5IC3pOO) | [31 Minutos](https://open.spotify.com/artist/1EgVsKobLzbNgILxx9wrVG) | [31 Minutos](https://open.spotify.com/album/2RTH0488SqLfL49MoQT2OL) | 1:27 |
 

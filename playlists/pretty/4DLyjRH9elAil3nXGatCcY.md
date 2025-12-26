@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4DLyjRH9elAil3nXGatCcY.md) - [plain]
 
 > 
 
-[Melody](https://open.spotify.com/user/lemo1sgsji7o3jac2spebn5ih) - 7,565 likes - 523 songs - 1 day 10 hr 42 min
+[Melody](https://open.spotify.com/user/lemo1sgsji7o3jac2spebn5ih) - 7,565 likes - 539 songs - 1 day 11 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -531,5 +531,21 @@ pretty - [cumulative](/playlists/cumulative/4DLyjRH9elAil3nXGatCcY.md) - [plain]
 | 521 | [Bliss Beat](https://open.spotify.com/track/0qcBGGXFgAUd1sb8HwMk9e) | [Vitesse X](https://open.spotify.com/artist/7KPlumtsoyeN8Qp3EPxv7L) | [This Infinite](https://open.spotify.com/album/3y9JzXqiUFmPQJy0jxlCq4) | 3:33 |
 | 522 | [Sympathy](https://open.spotify.com/track/2lGKEYXwu1alvxAhJvpBAX) | [Aaron Page](https://open.spotify.com/artist/3VDL2INkcXTUD91WQ5qqEJ), [Domani](https://open.spotify.com/artist/0uFa64czAQ5cVJa3V0PfRq) | [Before I Go](https://open.spotify.com/album/366XvcUJsBFppuOhYRvsLW) | 2:59 |
 | 523 | [HONEY](https://open.spotify.com/track/7JDiC68AKimlvMCmZQuA9n) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [容 : FACE](https://open.spotify.com/album/6eSFX12WIqUtmGsD8UO3FT) | 2:47 |
+| 524 | [Neon night](https://open.spotify.com/track/768D2C3BDakR1FpuYFDS1f) | [Jeon Yonghyeon](https://open.spotify.com/artist/5U8srhgFE0LDE2cTwDYuYS) | [MIGNON \(Original Soundtrack\)](https://open.spotify.com/album/0EhtBG8i5tXXb4iITyrIty) | 1:30 |
+| 525 | [I’m Ready](https://open.spotify.com/track/1uHAvl4MdI8zbobFG9FueP) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [EENIE MEENIE](https://open.spotify.com/album/1q2RNzz09Vx3bOKK1yTyyg) | 3:12 |
+| 526 | [Touch \(With Kim Minju\)](https://open.spotify.com/track/0AP4qmf2yVrqCoXOD74SkN) | [Jeon Yonghyeon](https://open.spotify.com/artist/5U8srhgFE0LDE2cTwDYuYS), [Kim Minju](https://open.spotify.com/artist/6HCCOEN8gI9OiypDImHNRo) | [MIGNON \(Original Soundtrack\)](https://open.spotify.com/album/0EhtBG8i5tXXb4iITyrIty) | 3:47 |
+| 527 | [Dawn town](https://open.spotify.com/track/6OI7UF4dZxf8BqYnA5btz2) | [Jeon Yonghyeon](https://open.spotify.com/artist/5U8srhgFE0LDE2cTwDYuYS) | [MIGNON \(Original Soundtrack\)](https://open.spotify.com/album/0EhtBG8i5tXXb4iITyrIty) | 1:24 |
+| 528 | [Young doctor](https://open.spotify.com/track/0y4Zy1uSfSv7EUrTvvYgbz) | [Jeon Yonghyeon](https://open.spotify.com/artist/5U8srhgFE0LDE2cTwDYuYS) | [MIGNON \(Original Soundtrack\)](https://open.spotify.com/album/0EhtBG8i5tXXb4iITyrIty) | 0:51 |
+| 529 | [Ah!](https://open.spotify.com/track/4JYgGvd3Un0Vv9vINLflZr) | [Jeon Yonghyeon](https://open.spotify.com/artist/5U8srhgFE0LDE2cTwDYuYS) | [MIGNON \(Original Soundtrack\)](https://open.spotify.com/album/0EhtBG8i5tXXb4iITyrIty) | 3:57 |
+| 530 | [A fleeting moment](https://open.spotify.com/track/11EqP8m9Kp05dIc6TZD9De) | [Jeon Yonghyeon](https://open.spotify.com/artist/5U8srhgFE0LDE2cTwDYuYS) | [MIGNON \(Original Soundtrack\)](https://open.spotify.com/album/0EhtBG8i5tXXb4iITyrIty) | 1:49 |
+| 531 | [On purpose](https://open.spotify.com/track/2Xyc050Mt14dnwkbMEKSsY) | [Jeon Yonghyeon](https://open.spotify.com/artist/5U8srhgFE0LDE2cTwDYuYS) | [MIGNON \(Original Soundtrack\)](https://open.spotify.com/album/0EhtBG8i5tXXb4iITyrIty) | 1:13 |
+| 532 | [Dong\-Myeong Autos](https://open.spotify.com/track/6Zc5DCdKDRyv3MJj2YGd00) | [Jeon Yonghyeon](https://open.spotify.com/artist/5U8srhgFE0LDE2cTwDYuYS) | [MIGNON \(Original Soundtrack\)](https://open.spotify.com/album/0EhtBG8i5tXXb4iITyrIty) | 2:05 |
+| 533 | [Rebirth](https://open.spotify.com/track/2QJkAqYwBOCMfwbVQdkPJ3) | [Jeon Yonghyeon](https://open.spotify.com/artist/5U8srhgFE0LDE2cTwDYuYS) | [MIGNON \(Original Soundtrack\)](https://open.spotify.com/album/0EhtBG8i5tXXb4iITyrIty) | 1:00 |
+| 534 | [Last night](https://open.spotify.com/track/1158hXHK2iQxHbh1FPYuaD) | [Jeon Yonghyeon](https://open.spotify.com/artist/5U8srhgFE0LDE2cTwDYuYS) | [MIGNON \(Original Soundtrack\)](https://open.spotify.com/album/0EhtBG8i5tXXb4iITyrIty) | 1:33 |
+| 535 | [DAMIDAMI](https://open.spotify.com/track/2xcu1V7AVqhofPPiTO9PDn) | [Sihan](https://open.spotify.com/artist/4vlIQAwJbXLG9FJtpnTP7N), [Sān\-Z](https://open.spotify.com/artist/4Ep9NXSZDTJzz6BIv24p5x), [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [DAMIDAMI](https://open.spotify.com/album/0JBMEAfdcPfgzbiZ3vhXGA) | 3:11 |
+| 536 | [No Dazzle, No Break](https://open.spotify.com/track/3kY5GH6J11WMEspRKNJHXo) | [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg), [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) | [No Dazzle, No Break](https://open.spotify.com/album/47pQx0sXU7oPSHh05IsHMH) | 2:18 |
+| 537 | [オトノケ \- Otonoke](https://open.spotify.com/track/6KYOlIwDHbrbeBbJEtQ0Fj) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [オトノケ \- Otonoke](https://open.spotify.com/album/7zI1wDJmkfHMBwZpbwJn8H) | 3:05 |
+| 538 | [革命道中 \- On The Way](https://open.spotify.com/track/1oFqKeepmT5S8BCGqJl7Ar) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [革命道中 \- On The Way](https://open.spotify.com/album/6uBwz7fKYpTHQqEvbpRMQu) | 3:17 |
+| 539 | [Hunting Soul](https://open.spotify.com/track/3xavvpT54qq3TZJLNjBn7Z) | [トシロウ（CV.谷山紀章）](https://open.spotify.com/artist/3SQQcJqSiQ4ytuStSlvwNU) | [Hunting Soul \(from "Dan Da Dan" Season 2 Soundtrack\)](https://open.spotify.com/album/3QkZZnO3Sr4GPqovo1FrKI) | 3:59 |
 
-Snapshot ID: `AAABQDc76p4u6ud006tHzfGhiqfarEv5`
+Snapshot ID: `AAABXhljJVrYqh2Pt6LJSb1HPcskA4Es`

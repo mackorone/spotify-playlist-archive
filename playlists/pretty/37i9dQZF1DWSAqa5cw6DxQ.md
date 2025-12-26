@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAqa5cw6DxQ.md) - [plain]
 
 > Clear your mind with soothing acoustic guitar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,703 likes - 128 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,725 likes - 128 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAqa5cw6DxQ.md) - [plain]
 | 127 | [Aspettami](https://open.spotify.com/track/59TaH0JXyu19Xt01RTF4DF) | [Luka Vida](https://open.spotify.com/artist/0likNjMTiDiVjqPr4OcsZC) | [Aspettami](https://open.spotify.com/album/3lZaYQwsHHK9Y4o0hdD80r) | 2:05 |
 | 128 | [Sensitive Kind](https://open.spotify.com/track/5ieI1TNrPSrQtpDhr5C6Ng) | [Manja Sjögren](https://open.spotify.com/artist/5EdNpt7pgrLi6oLTzJZhLl) | [Sensitive Kind](https://open.spotify.com/album/31um9WNUvUOORhljwfcdek) | 3:07 |
 
-Snapshot ID: `AAAAANkIUltQSKpN+kaFTn+0Q0vIEW+y`
+Snapshot ID: `AAAAAK0p+V/ULZcnaBt1ep5vddwX3xAQ`

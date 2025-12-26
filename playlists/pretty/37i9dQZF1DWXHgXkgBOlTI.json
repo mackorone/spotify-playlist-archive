@@ -1,12 +1,12 @@
 {
   "description": "\u30b8\u30e3\u30ba\u3092\u57fa\u8abf\u306b\u30ed\u30c3\u30af\u3084\u30e9\u30c6\u30f3\u97f3\u697d\u3001\u96fb\u5b50\u97f3\u697d\u3001\u6642\u306b\u306f\u30af\u30e9\u30b7\u30c3\u30af\u306a\u3069\u3092\u878d\u5408\u3055\u305b\u305f\u300c\u30b8\u30e3\u30ba\u30d5\u30e5\u30fc\u30b8\u30e7\u30f3\u300d\u3092\u727d\u5f15\u3059\u308b\u65e5\u672c\u306e\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002cover: \u795e\u4fdd\u5f70",
-  "num_followers": 32385,
+  "num_followers": 32388,
   "original_name": "Jazz Fusion Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAb3KstU6b+M4ThGklQlzD+G6EIx",
+  "snapshot_id": "AAAAAHL1iaSGSH4cArtVle17ckzvXynR",
   "tracks": [
     {
       "added_at": "2025-12-16 15:00:39",
@@ -447,22 +447,6 @@
     {
       "added_at": "2025-12-16 15:00:39",
       "album": {
-        "name": "Re:Tokage",
-        "url": "https://open.spotify.com/album/7gDYCILM2T9dpDulYxPl0c"
-      },
-      "artists": [
-        {
-          "name": "Gecko&Tokage Parade",
-          "url": "https://open.spotify.com/artist/1fTpExgFwmHdgnUPZXohFF"
-        }
-      ],
-      "duration_ms": 265731,
-      "name": "Nica's Dream",
-      "url": "https://open.spotify.com/track/6DfUkofhWGzAxkJcsTVAOz"
-    },
-    {
-      "added_at": "2025-12-16 15:00:39",
-      "album": {
         "name": "Synesthesia",
         "url": "https://open.spotify.com/album/1VVpMXHWeaLIxyvGnzEqC8"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 309433,
       "name": "Blue Bird",
       "url": "https://open.spotify.com/track/5ahPlz7M3s4F0GZohCatqn"
+    },
+    {
+      "added_at": "2025-12-16 15:00:39",
+      "album": {
+        "name": "Re:Tokage",
+        "url": "https://open.spotify.com/album/7gDYCILM2T9dpDulYxPl0c"
+      },
+      "artists": [
+        {
+          "name": "Gecko&Tokage Parade",
+          "url": "https://open.spotify.com/artist/1fTpExgFwmHdgnUPZXohFF"
+        }
+      ],
+      "duration_ms": 265731,
+      "name": "Nica's Dream",
+      "url": "https://open.spotify.com/track/6DfUkofhWGzAxkJcsTVAOz"
     },
     {
       "added_at": "2025-12-16 15:00:39",
@@ -771,22 +771,6 @@
     {
       "added_at": "2025-12-16 15:00:39",
       "album": {
-        "name": "AUTHENTIC",
-        "url": "https://open.spotify.com/album/4f8IJ4VUGPe7S0xsLEOtIG"
-      },
-      "artists": [
-        {
-          "name": "Liquid Stella",
-          "url": "https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9"
-        }
-      ],
-      "duration_ms": 252215,
-      "name": "Spring Kiss",
-      "url": "https://open.spotify.com/track/6aHeGMKCgfF2UdKRqyezyh"
-    },
-    {
-      "added_at": "2025-12-16 15:00:39",
-      "album": {
         "name": "color & monochrome 2",
         "url": "https://open.spotify.com/album/2rW7wndjnbsuzs8fniLPOW"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 245093,
       "name": "Acceleration",
       "url": "https://open.spotify.com/track/47ndoNDWCd8tykoDL5khQI"
+    },
+    {
+      "added_at": "2025-12-16 15:00:39",
+      "album": {
+        "name": "AUTHENTIC",
+        "url": "https://open.spotify.com/album/4f8IJ4VUGPe7S0xsLEOtIG"
+      },
+      "artists": [
+        {
+          "name": "Liquid Stella",
+          "url": "https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9"
+        }
+      ],
+      "duration_ms": 252215,
+      "name": "Spring Kiss",
+      "url": "https://open.spotify.com/track/6aHeGMKCgfF2UdKRqyezyh"
     },
     {
       "added_at": "2025-12-16 15:00:39",
@@ -819,18 +819,18 @@
     {
       "added_at": "2025-12-16 15:00:39",
       "album": {
-        "name": "Relativity",
-        "url": "https://open.spotify.com/album/1QpQgtUdTzW2ythTOV0AWG"
+        "name": "BEATS+PIECES 2",
+        "url": "https://open.spotify.com/album/6wNDoHX8SrmdzHAKKmTfzt"
       },
       "artists": [
         {
-          "name": "Soundtype",
-          "url": "https://open.spotify.com/artist/0IDzcMfdL7OKZNhFjjH4Te"
+          "name": "Kenichiro Nishihara",
+          "url": "https://open.spotify.com/artist/4en7e0KjSkfa4sfLDhTc3m"
         }
       ],
-      "duration_ms": 268660,
-      "name": "Relativity",
-      "url": "https://open.spotify.com/track/0aXrbIWN1d1HeTpUeGypAT"
+      "duration_ms": 247613,
+      "name": "Flowery Flat",
+      "url": "https://open.spotify.com/track/0biW20fBvcGbZ2pRf9PrSH"
     },
     {
       "added_at": "2025-12-16 15:00:39",

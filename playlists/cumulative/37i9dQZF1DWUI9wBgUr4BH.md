@@ -2,9 +2,9 @@
 
 ### [Futurs Hits](https://open.spotify.com/playlist/37i9dQZF1DWUI9wBgUr4BH)
 
-> Les hits de demain sont déjà ici\. Photo : Ronisia
+> Les hits de demain sont déjà ici\. Photo : DAYSY x Joseph Kamel
 
-747 songs - 1 day 13 hr 5 min
+748 songs - 1 day 13 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [CIEL](https://open.spotify.com/track/78FNSZkI1968KTtyf2s315) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [CIEL](https://open.spotify.com/album/6qU5xBM7guK1Gwb3LTLufL) | 3:06 | 2024-11-07 | 2024-12-20 |
 | [City Boys](https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [I Told Them...](https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc) | 2:33 | 2023-09-08 | 2023-09-29 |
 | [Coco](https://open.spotify.com/track/1HXC5IiGUqTEFl18IJ42Lm) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Coco](https://open.spotify.com/album/230L56lWpmJBSmZA7Fvsua) | 2:28 | 2024-08-08 | 2024-08-16 |
+| [Coco Chanel](https://open.spotify.com/track/65lCFhOz5RyYH52JryAf10) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA), [Eva](https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO) | [La Dame](https://open.spotify.com/album/1XmeiDJ7WhLJhhKHSMBAH5) | 2:10 | 2025-12-25 |  |
 | [COCO LOCO](https://open.spotify.com/track/3kmWIej9tXjSWWYc9tPjJk) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [COCO LOCO](https://open.spotify.com/album/21HEULXdjdbOsXoR0ajBeB) | 2:46 | 2023-07-27 | 2023-08-25 |
 | [Coeur maladroit](https://open.spotify.com/track/6ISdHQpFruwETuKGMumaaM) | [Marine](https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1) | [Coeur maladroit](https://open.spotify.com/album/2a1xyBL997lWIOyIIuPcyt) | 2:40 | 2025-05-29 | 2025-07-04 |
 | [Columbia](https://open.spotify.com/track/6XbtvPmIpyCbjuT0e8cQtp) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Columbia](https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX) | 3:06 | 2023-08-21 | 2023-11-10 |
@@ -434,7 +435,7 @@
 | [Minimum ça](https://open.spotify.com/track/1lRtRYr979UcWFC0By63Er) | [Dr\. Yaro](https://open.spotify.com/artist/0C1YfsZSxVHgL0Z8bngOTM) | [Minimum ça](https://open.spotify.com/album/2q5EahZjBppWAcWXG6nuha) | 2:29 | 2024-09-26 | 2024-10-04 |
 | [Mirage \- for Assassin's Creed Mirage](https://open.spotify.com/track/7bgIcSp0Nd3qfHqwxQplzW) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC), [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [Mirage \(for Assassin's Creed Mirage\)](https://open.spotify.com/album/0G3FKRjRW1ERSTRjWZWCjz) | 2:13 | 2023-10-06 | 2023-12-08 |
 | [MISS LILY'S](https://open.spotify.com/track/5Kx1Lrn8DaVgiYxARqhchm) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [MISS LILY'S](https://open.spotify.com/album/1uJHMhLDC89gUa774AN0RB) | 3:19 | 2024-12-19 | 2025-03-21 |
-| [Mode avion](https://open.spotify.com/track/5m8Q6aKhrqmoF64xlPcZva) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Mode avion](https://open.spotify.com/album/1NdAgf1yROs0BrcFvb9Jzc) | 2:24 | 2025-09-18 |  |
+| [Mode avion](https://open.spotify.com/track/5m8Q6aKhrqmoF64xlPcZva) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Mode avion](https://open.spotify.com/album/1NdAgf1yROs0BrcFvb9Jzc) | 2:24 | 2025-09-18 | 2025-12-26 |
 | [Moi ça va](https://open.spotify.com/track/3r23UHflWOvtEtoGQtFekd) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Galatée](https://open.spotify.com/album/6AYdXWHvx8Nrc97VDsU6Un) | 2:15 | 2023-08-21 | 2023-09-18 |
 | [Mon amour](https://open.spotify.com/track/5N7IYups0hGrlVcvj0bmHG) | [Slimane](https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz) | [Mon amour](https://open.spotify.com/album/6FguEmDlsEN93BBiEbwsRn) | 3:00 | 2023-11-09 | 2023-12-15 |
 | [MON BÉBÉ](https://open.spotify.com/track/1yGJ40k7HLF3odITZPoQs4) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc) | [MON BÉBÉ](https://open.spotify.com/album/6p7H7G0xpnDvlDdsh7IbM8) | 2:10 | 2025-11-06 | 2025-11-28 |

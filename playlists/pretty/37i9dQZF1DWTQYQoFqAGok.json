@@ -1,6 +1,6 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico \ud83c\udfb7\ud83c\udfb9\ud83c\udfb6\ud83c\uddf2\ud83c\uddfd",
-  "num_followers": 64552,
+  "num_followers": 64553,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -385,26 +385,6 @@
       "url": "https://open.spotify.com/track/1b3rHlkJ7SmEhtZzUPu4bF"
     },
     {
-      "added_at": "2022-08-16 16:23:25",
-      "album": {
-        "name": "Cronolog\u00edas",
-        "url": "https://open.spotify.com/album/7bCzc6xDFgVGpVXyEJ26gK"
-      },
-      "artists": [
-        {
-          "name": "Xalapa Jazz Orchestra",
-          "url": "https://open.spotify.com/artist/5IWPXtD7sSSNEJQiskp96F"
-        },
-        {
-          "name": "Valentina Marentes",
-          "url": "https://open.spotify.com/artist/2quK2WgFo26pueFzJRrb5x"
-        }
-      ],
-      "duration_ms": 403365,
-      "name": "Era La Luz De Abril",
-      "url": "https://open.spotify.com/track/4BcjeQiwliBHPVoqZAPmEc"
-    },
-    {
       "added_at": "2021-07-28 16:44:28",
       "album": {
         "name": "Qui\u00e9n Eres T\u00fa?",
@@ -427,6 +407,26 @@
       "duration_ms": 350746,
       "name": "Qui\u00e9n Eres T\u00fa?",
       "url": "https://open.spotify.com/track/19V9sBVJLuMEVWiqTMiU4N"
+    },
+    {
+      "added_at": "2022-08-16 16:23:25",
+      "album": {
+        "name": "Cronolog\u00edas",
+        "url": "https://open.spotify.com/album/7bCzc6xDFgVGpVXyEJ26gK"
+      },
+      "artists": [
+        {
+          "name": "Xalapa Jazz Orchestra",
+          "url": "https://open.spotify.com/artist/5IWPXtD7sSSNEJQiskp96F"
+        },
+        {
+          "name": "Valentina Marentes",
+          "url": "https://open.spotify.com/artist/2quK2WgFo26pueFzJRrb5x"
+        }
+      ],
+      "duration_ms": 403365,
+      "name": "Era La Luz De Abril",
+      "url": "https://open.spotify.com/track/4BcjeQiwliBHPVoqZAPmEc"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -463,26 +463,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Raz\u00f3n de Vivir (Desde Casa)",
-        "url": "https://open.spotify.com/album/2R5tdma1EXvW93NHGfNjtz"
-      },
-      "artists": [
-        {
-          "name": "Magos Herrera",
-          "url": "https://open.spotify.com/artist/2Ns9sLtYVQhj9NU9y96Lwh"
-        },
-        {
-          "name": "Chano Dominguez",
-          "url": "https://open.spotify.com/artist/63Znb1LZJ0KljCmhuxcRMI"
-        }
-      ],
-      "duration_ms": 254269,
-      "name": "Raz\u00f3n de Vivir - Desde Casa",
-      "url": "https://open.spotify.com/track/7332CH0YojbWtMhBTh1Ssg"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Blues",
         "url": "https://open.spotify.com/album/72BzkLOb7tpcmcpfEvtAox"
       },
@@ -499,6 +479,22 @@
       "duration_ms": 179511,
       "name": "Caminos de Ayer - Remastered",
       "url": "https://open.spotify.com/track/7bHkQLgxPTVC44Ty5A99Jm"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Las Puntadas de Ernesto Riesta",
+        "url": "https://open.spotify.com/album/6pY9yWVRrry83vn5QooOOQ"
+      },
+      "artists": [
+        {
+          "name": "Ernesto Riestra Y Su Orquesta",
+          "url": "https://open.spotify.com/artist/2mx2io8BZPgMRlY9MqmvZE"
+        }
+      ],
+      "duration_ms": 178773,
+      "name": "No Se que Pasa Entre T\u00fa y Yo",
+      "url": "https://open.spotify.com/track/4uwBouip1vHrpf4t6XSQiO"
     },
     {
       "added_at": "2024-08-29 03:09:23",
@@ -519,22 +515,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Las Puntadas de Ernesto Riesta",
-        "url": "https://open.spotify.com/album/6pY9yWVRrry83vn5QooOOQ"
-      },
-      "artists": [
-        {
-          "name": "Ernesto Riestra Y Su Orquesta",
-          "url": "https://open.spotify.com/artist/2mx2io8BZPgMRlY9MqmvZE"
-        }
-      ],
-      "duration_ms": 178773,
-      "name": "No Se que Pasa Entre T\u00fa y Yo",
-      "url": "https://open.spotify.com/track/4uwBouip1vHrpf4t6XSQiO"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Electratoaster - EP",
         "url": "https://open.spotify.com/album/74DdAeaEAK7ruREcSAeFdS"
       },
@@ -547,6 +527,26 @@
       "duration_ms": 257004,
       "name": "Dana (Cha-Cha-Shag)",
       "url": "https://open.spotify.com/track/4i6O1sKOUvzHl8qPPbe5io"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Raz\u00f3n de Vivir (Desde Casa)",
+        "url": "https://open.spotify.com/album/2R5tdma1EXvW93NHGfNjtz"
+      },
+      "artists": [
+        {
+          "name": "Magos Herrera",
+          "url": "https://open.spotify.com/artist/2Ns9sLtYVQhj9NU9y96Lwh"
+        },
+        {
+          "name": "Chano Dominguez",
+          "url": "https://open.spotify.com/artist/63Znb1LZJ0KljCmhuxcRMI"
+        }
+      ],
+      "duration_ms": 254269,
+      "name": "Raz\u00f3n de Vivir - Desde Casa",
+      "url": "https://open.spotify.com/track/7332CH0YojbWtMhBTh1Ssg"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -685,22 +685,6 @@
       "url": "https://open.spotify.com/track/6FXwtco31vObUeG7Zxfolq"
     },
     {
-      "added_at": "2022-01-14 03:44:06",
-      "album": {
-        "name": "Sembrando",
-        "url": "https://open.spotify.com/album/3D7czDy4fUgXDJujkjYR2q"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Prieto",
-          "url": "https://open.spotify.com/artist/2SeSiA1BSz51gbwCTzt4Oc"
-        }
-      ],
-      "duration_ms": 458280,
-      "name": "Horizonte Lejano",
-      "url": "https://open.spotify.com/track/1KP9tWQFQSsVp0BdBcteuI"
-    },
-    {
       "added_at": "2023-04-13 19:45:15",
       "album": {
         "name": "Calladito Te Ves Mejor",
@@ -719,6 +703,22 @@
       "duration_ms": 236419,
       "name": "Calladito Te Ves Mejor",
       "url": "https://open.spotify.com/track/1gRrpSegNLpweoDh03pztu"
+    },
+    {
+      "added_at": "2022-01-14 03:44:06",
+      "album": {
+        "name": "Sembrando",
+        "url": "https://open.spotify.com/album/3D7czDy4fUgXDJujkjYR2q"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Prieto",
+          "url": "https://open.spotify.com/artist/2SeSiA1BSz51gbwCTzt4Oc"
+        }
+      ],
+      "duration_ms": 458280,
+      "name": "Horizonte Lejano",
+      "url": "https://open.spotify.com/track/1KP9tWQFQSsVp0BdBcteuI"
     },
     {
       "added_at": "2021-07-28 16:44:28",

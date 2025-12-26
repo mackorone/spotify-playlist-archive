@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: RowdyRoadie
 
-1,587 songs - 3 day 17 hr 53 min
+1,590 songs - 3 day 18 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -382,6 +382,7 @@
 | [Hide](https://open.spotify.com/track/0ST9fg2gkisVNtqb1LM4Zw) | [TigerFoo](https://open.spotify.com/artist/05WBJuCLIZD367mC5mr2FI) | [Hide](https://open.spotify.com/album/7HWuRXQdZ09LEg4dgNQeB9) | 3:34 | 2024-03-14 | 2024-11-15 |
 | [high tides, low tides.](https://open.spotify.com/track/4PJM5jGizbLD6p5Bj5fRyp) | [Claudia Koh](https://open.spotify.com/artist/4F8VvBAkQDTQ8K2tKm9iSx) | [high tides, low tides.](https://open.spotify.com/album/5jQ0p2CgmlV22D3gCGlRIq) | 3:31 | 2024-02-29 | 2024-06-07 |
 | [HKG](https://open.spotify.com/track/3146nqEIiusAEGcFxsHMyP) | [Yung Raise](https://open.spotify.com/artist/03yNfXIvu6tsRxHqC5RV7k), [Takeem](https://open.spotify.com/artist/7xfeo24u8goKQRhKRj6MP1), [TAHITI](https://open.spotify.com/artist/18hBb9LiOSU4mstErGGIfM) | [HKG](https://open.spotify.com/album/0huDSWaS852bt2S60AA14s) | 2:44 | 2025-04-24 | 2025-08-01 |
+| [HOLD ME CLOSE](https://open.spotify.com/track/6VLbzl504TVmnw8P4MCwvC) | [sanjay.](https://open.spotify.com/artist/3gWt5GuzFWCmAHwWVvs4rw) | [HOLD ME CLOSE](https://open.spotify.com/album/27F8sPIFomYqyLXsbcMJnc) | 3:03 | 2025-12-25 |  |
 | [hold on](https://open.spotify.com/track/1tOoCgu8aSXnB7eJxrKulV) | [jøno](https://open.spotify.com/artist/3oWQ3rSeKMRuEmbud3qBI4) | [hold on](https://open.spotify.com/album/0g4lKZRyv4ulV6HgVuaxKo) | 3:01 | 2022-09-01 | 2023-01-06 |
 | [HOME](https://open.spotify.com/track/3MMQti3NMAQDe9voFoALZ1) | [KENI](https://open.spotify.com/artist/6jp6lJjFpNdVsmaJz2WAhS), [Novel Friday](https://open.spotify.com/artist/2c2dutthGptIGoIlB6Nh68) | [HOME](https://open.spotify.com/album/0hz9xSkSqkUQvj2goTmySx) | 3:00 | 2025-09-04 |  |
 | [HOMEBODY](https://open.spotify.com/track/4oEDQ1HvhZcLNsf1IYwLPB) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy) | [ODDESSY](https://open.spotify.com/album/2YbralF8avxuxNeV8UhLwK) | 2:33 | 2023-05-18 | 2023-09-01 |
@@ -640,6 +641,7 @@
 | [No Makeup](https://open.spotify.com/track/3im2Max5VzWD4v4MkHMluC) | [Chrizzy](https://open.spotify.com/artist/24OlPvyw7LyvXSkYRXFizU) | [No Makeup](https://open.spotify.com/album/0JIqoOkreIEtpDTSpk2k4X) | 3:04 | 2025-12-11 |  |
 | [no matter](https://open.spotify.com/track/65BXpzBSDW8I028QOZApew) | [Zuk1](https://open.spotify.com/artist/3dFXqnNcQHliJjmTwI4Rr9) | [no matter](https://open.spotify.com/album/4LTyKPEQ1jWzWlAI4KQU4O) | 2:41 | 2023-11-02 | 2024-01-05 |
 | [no money no honey](https://open.spotify.com/track/6JN2jjKijeZVmnD5wpZlh2) | [Jaime Cheung](https://open.spotify.com/artist/0HlQqnAtrcPAXQcfdKqz5h) | [no money no honey](https://open.spotify.com/album/4puiaRgUqAHj7l6hUoy2S4) | 3:11 | 2022-06-23 | 2022-09-09 |
+| [No More Lonely Christmas](https://open.spotify.com/track/6tfM6NgaqAeyfOOvTGRZ5g) | [Ragpickers](https://open.spotify.com/artist/5QMXsj4d4MVjUVTTU6SSCj) | [No More Lonely Christmas](https://open.spotify.com/album/3hNJMlLstTfNEfRDZkqjfu) | 3:26 | 2025-12-25 |  |
 | [No Say!](https://open.spotify.com/track/7ncYTeOCmTr9ZVGBGHcj7r) | [Eagle Chan](https://open.spotify.com/artist/6nrxFSRns03p3RTspJ6a5D) | [No Say!](https://open.spotify.com/album/2H3mK6dxY0TuT6nzx5ZvzX) | 2:32 | 2023-12-21 | 2024-05-10 |
 | [no strings attatched](https://open.spotify.com/track/5GWvmOZ34OJrvJrgK5gA99) | [Crlsyiu](https://open.spotify.com/artist/3QCcg3sxycinU9J2khknoK) | [no strings attatched](https://open.spotify.com/album/2HeLq4gxOD5tcgUXmqb8qC) | 3:29 | 2022-05-26 | 2022-07-29 |
 | [No sugar ⊹ ࣪ ˖](https://open.spotify.com/track/0sTsKFqoTVJSgqrRR858Yj) | [quentinn®](https://open.spotify.com/artist/0CYWyysXnCqIJXXNqhPmpX) | [No sugar ⊹ ࣪ ˖](https://open.spotify.com/album/74MJycWxyaBPLd4b1E2YYv) | 2:31 | 2025-04-24 | 2025-11-21 |
@@ -670,6 +672,7 @@
 | [ok sure \- 求其啦version](https://open.spotify.com/track/5mcKzj2jMmHUTELb6KpZV6) | [Jaime Cheung](https://open.spotify.com/artist/0HlQqnAtrcPAXQcfdKqz5h) | [ok sure](https://open.spotify.com/album/6vzV1DdJEO2OMd7cZy8aMH) | 3:47 | 2022-12-15 | 2023-03-18 |
 | [OKOKOK](https://open.spotify.com/track/79GxcP9tM9jy8Z8lWXZlOE) | [Carson Leung](https://open.spotify.com/artist/3g80FKOHJgeoD51aYOaV1w) | [OKOKOK](https://open.spotify.com/album/29NLwPvmQ1E16meLcBV7Xb) | 4:14 | 2025-07-31 | 2025-11-21 |
 | [OK啦喎](https://open.spotify.com/track/3q65wacAwBLLsO18MAvpz1) | [N9](https://open.spotify.com/artist/3POd6Qa84pvklcv3bDWd0J) | [OK啦喎](https://open.spotify.com/album/0NNDX7JrgGcenEe3fSbplA) | 2:33 | 2023-12-21 | 2024-05-10 |
+| [omg沒對焦](https://open.spotify.com/track/0IQX7538Y7762GcazyuCKZ) | [Salty Chick](https://open.spotify.com/artist/37gag5BhRpch91IX5dEf5A) | [∞ ∿ ⋯ ⋆ ∿ ⊹ omg沒對焦⊹ ∿ ⋆⋯ ∿ ∞](https://open.spotify.com/album/2wlEavE9S5P49M8sRlKQ1T) | 2:58 | 2025-12-25 |  |
 | [omw2u](https://open.spotify.com/track/5rckGAJIVOXMYwkjl0LREw) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [willow tree \(more! there's more!\)](https://open.spotify.com/album/5C6ZbCBOEK4iAotPDFAXct) | 3:28 | 2025-03-27 | 2025-07-11 |
 | [On My Way](https://open.spotify.com/track/1N52PJn3aAJUAafET6LnDD) | [Yung Raise](https://open.spotify.com/artist/03yNfXIvu6tsRxHqC5RV7k), [N.O.L.Y](https://open.spotify.com/artist/3oVNwwOcAofPChamgAzlN1) | [On My Way](https://open.spotify.com/album/5fuxLL2VKGqdOv0qP9jD4u) | 1:59 | 2022-07-14 | 2022-11-04 |
 | [On My Way](https://open.spotify.com/track/3P74CFpJFmolZ0ZdxUPk0z) | [Yung Raise](https://open.spotify.com/artist/03yNfXIvu6tsRxHqC5RV7k), [N.O.L.Y](https://open.spotify.com/artist/3oVNwwOcAofPChamgAzlN1) | [Officially 18](https://open.spotify.com/album/2lh8bfWe7bUp1KtWMjZONq) | 1:59 | 2022-08-18 | 2022-11-04 |

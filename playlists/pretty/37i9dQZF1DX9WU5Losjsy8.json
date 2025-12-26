@@ -1,6 +1,6 @@
 {
   "description": "Bald gehts wieder auf zur H\u00fctten Gaudi!",
-  "num_followers": 481770,
+  "num_followers": 481911,
   "original_name": "Apr\u00e8s Ski Party 2025",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "AAAAAGx2a7yvDxGnO6kczdmXsv7n5YlC",
   "tracks": [
+    {
+      "added_at": "2025-12-15 07:11:03",
+      "album": {
+        "name": "Es ist Zeit",
+        "url": "https://open.spotify.com/album/65fO2EMyqyJDgEiKaGfHzy"
+      },
+      "artists": [
+        {
+          "name": "DJ \u00d6tzi",
+          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
+        }
+      ],
+      "duration_ms": 173480,
+      "name": "Tirol",
+      "url": "https://open.spotify.com/track/520aS15JpyeEIPtgchSHyP"
+    },
     {
       "added_at": "2025-12-15 07:11:03",
       "album": {
@@ -39,22 +55,6 @@
       "duration_ms": 218533,
       "name": "D\u00e9senchant\u00e9e",
       "url": "https://open.spotify.com/track/4yOU9FaCmFFo2qfy1FHIe3"
-    },
-    {
-      "added_at": "2025-12-15 07:11:03",
-      "album": {
-        "name": "Es ist Zeit",
-        "url": "https://open.spotify.com/album/65fO2EMyqyJDgEiKaGfHzy"
-      },
-      "artists": [
-        {
-          "name": "DJ \u00d6tzi",
-          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
-        }
-      ],
-      "duration_ms": 173480,
-      "name": "Tirol",
-      "url": "https://open.spotify.com/track/520aS15JpyeEIPtgchSHyP"
     },
     {
       "added_at": "2025-12-15 07:11:03",
@@ -103,22 +103,6 @@
     {
       "added_at": "2025-12-15 07:11:03",
       "album": {
-        "name": "HURENSOHN",
-        "url": "https://open.spotify.com/album/7e78fbs4oMuxSafCyyZNMO"
-      },
-      "artists": [
-        {
-          "name": "Rumbombe",
-          "url": "https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG"
-        }
-      ],
-      "duration_ms": 154493,
-      "name": "HURENSOHN",
-      "url": "https://open.spotify.com/track/1wsndzfARmcXLntwDwGAQu"
-    },
-    {
-      "added_at": "2025-12-15 07:11:03",
-      "album": {
         "name": "Farbenspiel",
         "url": "https://open.spotify.com/album/7MTjxNeS3N8XNuUm4BxjSx"
       },
@@ -131,6 +115,22 @@
       "duration_ms": 219720,
       "name": "Atemlos durch die Nacht",
       "url": "https://open.spotify.com/track/1cSXzDZt8vzuUp2XREQEJN"
+    },
+    {
+      "added_at": "2025-12-15 07:11:03",
+      "album": {
+        "name": "HURENSOHN",
+        "url": "https://open.spotify.com/album/7e78fbs4oMuxSafCyyZNMO"
+      },
+      "artists": [
+        {
+          "name": "Rumbombe",
+          "url": "https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG"
+        }
+      ],
+      "duration_ms": 154493,
+      "name": "HURENSOHN",
+      "url": "https://open.spotify.com/track/1wsndzfARmcXLntwDwGAQu"
     },
     {
       "added_at": "2025-12-15 07:11:03",
@@ -227,6 +227,26 @@
     {
       "added_at": "2025-12-15 07:11:03",
       "album": {
+        "name": "Handwerker",
+        "url": "https://open.spotify.com/album/0U3o0HbLVlMGrmRM5w3yO4"
+      },
+      "artists": [
+        {
+          "name": "Mickie Krause",
+          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
+        },
+        {
+          "name": "Julian Sommer",
+          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
+        }
+      ],
+      "duration_ms": 205842,
+      "name": "Handwerker",
+      "url": "https://open.spotify.com/track/3ut6td3I2l0z63rSt1HOwz"
+    },
+    {
+      "added_at": "2025-12-15 07:11:03",
+      "album": {
         "name": "OHNE DICH",
         "url": "https://open.spotify.com/album/4ojhahjUoeEdcbCaFVygXE"
       },
@@ -247,26 +267,6 @@
       "duration_ms": 181000,
       "name": "OHNE DICH",
       "url": "https://open.spotify.com/track/2zB3m7cucvTZQ7IwUtdnxM"
-    },
-    {
-      "added_at": "2025-12-15 07:11:03",
-      "album": {
-        "name": "Handwerker",
-        "url": "https://open.spotify.com/album/0U3o0HbLVlMGrmRM5w3yO4"
-      },
-      "artists": [
-        {
-          "name": "Mickie Krause",
-          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
-        },
-        {
-          "name": "Julian Sommer",
-          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
-        }
-      ],
-      "duration_ms": 205842,
-      "name": "Handwerker",
-      "url": "https://open.spotify.com/track/3ut6td3I2l0z63rSt1HOwz"
     },
     {
       "added_at": "2025-12-15 07:11:03",
@@ -319,6 +319,30 @@
     {
       "added_at": "2025-12-15 07:11:03",
       "album": {
+        "name": "Weihnachtsmann & Co. KG (Luca Version)",
+        "url": "https://open.spotify.com/album/2hXa9EGiFqhOnJJoPxfliO"
+      },
+      "artists": [
+        {
+          "name": "Luca-Dante Spadafora",
+          "url": "https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB"
+        },
+        {
+          "name": "Weihnachtsmann & Co. KG",
+          "url": "https://open.spotify.com/artist/0PocWG5oJxdRCFGsndHH2t"
+        },
+        {
+          "name": "Beats by Luca",
+          "url": "https://open.spotify.com/artist/4zWCSVXVIgIscx9kT3vfOs"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "Weihnachtsmann & Co. KG - Luca Version",
+      "url": "https://open.spotify.com/track/3gQrkBfV2VBoEF35igQy5V"
+    },
+    {
+      "added_at": "2025-12-15 07:11:03",
+      "album": {
         "name": "So Bist Du",
         "url": "https://open.spotify.com/album/7gvNdIuBUJIsjqBLpyqtdg"
       },
@@ -355,30 +379,6 @@
     {
       "added_at": "2025-12-15 07:11:03",
       "album": {
-        "name": "Weihnachtsmann & Co. KG (Luca Version)",
-        "url": "https://open.spotify.com/album/2hXa9EGiFqhOnJJoPxfliO"
-      },
-      "artists": [
-        {
-          "name": "Luca-Dante Spadafora",
-          "url": "https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB"
-        },
-        {
-          "name": "Weihnachtsmann & Co. KG",
-          "url": "https://open.spotify.com/artist/0PocWG5oJxdRCFGsndHH2t"
-        },
-        {
-          "name": "Beats by Luca",
-          "url": "https://open.spotify.com/artist/4zWCSVXVIgIscx9kT3vfOs"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "Weihnachtsmann & Co. KG - Luca Version",
-      "url": "https://open.spotify.com/track/3gQrkBfV2VBoEF35igQy5V"
-    },
-    {
-      "added_at": "2025-12-15 07:11:03",
-      "album": {
         "name": "Schnelle Brille",
         "url": "https://open.spotify.com/album/4UzKoWcOCq6GUpvE9I9xQ5"
       },
@@ -391,6 +391,42 @@
       "duration_ms": 137125,
       "name": "Schnelle Brille",
       "url": "https://open.spotify.com/track/2jZhxHB4xaTaxktl8bcl6z"
+    },
+    {
+      "added_at": "2025-12-15 07:11:03",
+      "album": {
+        "name": "Herzfrequenz",
+        "url": "https://open.spotify.com/album/6QZsxUU2TAV6J3LTgTk9Fz"
+      },
+      "artists": [
+        {
+          "name": "Bl\u00fcmchen",
+          "url": "https://open.spotify.com/artist/1Wch8598BBzU0zVBtcCFJh"
+        }
+      ],
+      "duration_ms": 227040,
+      "name": "Herz an Herz",
+      "url": "https://open.spotify.com/track/1X7654uBsdVKnZAqyIJT7y"
+    },
+    {
+      "added_at": "2025-12-15 07:11:03",
+      "album": {
+        "name": "Mama Laudaaa",
+        "url": "https://open.spotify.com/album/4yWhxiH0UB3A6jfr0ZLe4v"
+      },
+      "artists": [
+        {
+          "name": "Almklausi",
+          "url": "https://open.spotify.com/artist/3f56dbtoRz7bucWJUeofzK"
+        },
+        {
+          "name": "Specktakel",
+          "url": "https://open.spotify.com/artist/1ErIf1pAAaw5upKsCbqhzz"
+        }
+      ],
+      "duration_ms": 215976,
+      "name": "Mama Laudaaa",
+      "url": "https://open.spotify.com/track/1RcWWgnw5fVm3wcNq11zBu"
     },
     {
       "added_at": "2025-12-15 07:11:03",
@@ -411,6 +447,26 @@
       "duration_ms": 155215,
       "name": "Gianna",
       "url": "https://open.spotify.com/track/5IZ5hLd98SyNFXRbYIiJgW"
+    },
+    {
+      "added_at": "2025-12-15 07:11:03",
+      "album": {
+        "name": "Peter Pan",
+        "url": "https://open.spotify.com/album/6z3sGEQXxPO0lx5SOWGHgn"
+      },
+      "artists": [
+        {
+          "name": "Julian Sommer",
+          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
+        },
+        {
+          "name": "Mia Julia",
+          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+        }
+      ],
+      "duration_ms": 210869,
+      "name": "Peter Pan",
+      "url": "https://open.spotify.com/track/5CvAzdenlzv3ImMcG7awJV"
     },
     {
       "added_at": "2025-12-15 07:11:03",
@@ -439,62 +495,6 @@
     {
       "added_at": "2025-12-15 07:11:03",
       "album": {
-        "name": "Peter Pan",
-        "url": "https://open.spotify.com/album/6z3sGEQXxPO0lx5SOWGHgn"
-      },
-      "artists": [
-        {
-          "name": "Julian Sommer",
-          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
-        },
-        {
-          "name": "Mia Julia",
-          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
-        }
-      ],
-      "duration_ms": 210869,
-      "name": "Peter Pan",
-      "url": "https://open.spotify.com/track/5CvAzdenlzv3ImMcG7awJV"
-    },
-    {
-      "added_at": "2025-12-15 07:11:03",
-      "album": {
-        "name": "Mama Laudaaa",
-        "url": "https://open.spotify.com/album/4yWhxiH0UB3A6jfr0ZLe4v"
-      },
-      "artists": [
-        {
-          "name": "Almklausi",
-          "url": "https://open.spotify.com/artist/3f56dbtoRz7bucWJUeofzK"
-        },
-        {
-          "name": "Specktakel",
-          "url": "https://open.spotify.com/artist/1ErIf1pAAaw5upKsCbqhzz"
-        }
-      ],
-      "duration_ms": 215976,
-      "name": "Mama Laudaaa",
-      "url": "https://open.spotify.com/track/1RcWWgnw5fVm3wcNq11zBu"
-    },
-    {
-      "added_at": "2025-12-15 07:11:03",
-      "album": {
-        "name": "Herzfrequenz",
-        "url": "https://open.spotify.com/album/6QZsxUU2TAV6J3LTgTk9Fz"
-      },
-      "artists": [
-        {
-          "name": "Bl\u00fcmchen",
-          "url": "https://open.spotify.com/artist/1Wch8598BBzU0zVBtcCFJh"
-        }
-      ],
-      "duration_ms": 227040,
-      "name": "Herz an Herz",
-      "url": "https://open.spotify.com/track/1X7654uBsdVKnZAqyIJT7y"
-    },
-    {
-      "added_at": "2025-12-15 07:11:03",
-      "album": {
         "name": "Hurra die Gams",
         "url": "https://open.spotify.com/album/7eAKCD9IX6rCUO8Gmr3I4Y"
       },
@@ -511,34 +511,18 @@
     {
       "added_at": "2025-12-15 07:11:03",
       "album": {
-        "name": "Hey Macarena!",
-        "url": "https://open.spotify.com/album/5lfbj6pyyZwTUeFWfu0OW9"
+        "name": "D\u00e9j\u00e0 Vu - Das Beste Von Matthias Reim",
+        "url": "https://open.spotify.com/album/7vK2CPL2kkQlpV58o1o96f"
       },
       "artists": [
         {
-          "name": "Pietro Basile",
-          "url": "https://open.spotify.com/artist/29JWo79GMywsGJ5lY8HrCc"
+          "name": "Matthias Reim",
+          "url": "https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3"
         }
       ],
-      "duration_ms": 164769,
-      "name": "Hey Macarena!",
-      "url": "https://open.spotify.com/track/2NAn1J4RbC8Ure2F1hByXK"
-    },
-    {
-      "added_at": "2025-12-15 07:11:03",
-      "album": {
-        "name": "Dicht im Flieger",
-        "url": "https://open.spotify.com/album/1bfKjFlmLw8jFBpJMsvU32"
-      },
-      "artists": [
-        {
-          "name": "Julian Sommer",
-          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
-        }
-      ],
-      "duration_ms": 225882,
-      "name": "Dicht im Flieger",
-      "url": "https://open.spotify.com/track/6sS77FZh2eJfYBsFUW6hjI"
+      "duration_ms": 217680,
+      "name": "Verdammt Ich lieb' dich",
+      "url": "https://open.spotify.com/track/2XEwnFyQhDBHq6rFEaAOQj"
     },
     {
       "added_at": "2025-12-15 07:11:03",
@@ -567,18 +551,34 @@
     {
       "added_at": "2025-12-15 07:11:03",
       "album": {
-        "name": "3er",
-        "url": "https://open.spotify.com/album/1PXEOT5riEAAlgm8L4QTtG"
+        "name": "Dicht im Flieger",
+        "url": "https://open.spotify.com/album/1bfKjFlmLw8jFBpJMsvU32"
       },
       "artists": [
         {
-          "name": "Frenzy",
-          "url": "https://open.spotify.com/artist/4lRkNAQP2nJV4rj3CjkdXd"
+          "name": "Julian Sommer",
+          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
         }
       ],
-      "duration_ms": 144021,
-      "name": "3er",
-      "url": "https://open.spotify.com/track/27djNuigXbNE4OJ5R5NEa5"
+      "duration_ms": 225882,
+      "name": "Dicht im Flieger",
+      "url": "https://open.spotify.com/track/6sS77FZh2eJfYBsFUW6hjI"
+    },
+    {
+      "added_at": "2025-12-15 07:11:03",
+      "album": {
+        "name": "Hey Macarena!",
+        "url": "https://open.spotify.com/album/5lfbj6pyyZwTUeFWfu0OW9"
+      },
+      "artists": [
+        {
+          "name": "Pietro Basile",
+          "url": "https://open.spotify.com/artist/29JWo79GMywsGJ5lY8HrCc"
+        }
+      ],
+      "duration_ms": 164769,
+      "name": "Hey Macarena!",
+      "url": "https://open.spotify.com/track/2NAn1J4RbC8Ure2F1hByXK"
     },
     {
       "added_at": "2025-12-15 07:11:03",
@@ -599,18 +599,18 @@
     {
       "added_at": "2025-12-15 07:11:03",
       "album": {
-        "name": "D\u00e9j\u00e0 Vu - Das Beste Von Matthias Reim",
-        "url": "https://open.spotify.com/album/7vK2CPL2kkQlpV58o1o96f"
+        "name": "3er",
+        "url": "https://open.spotify.com/album/1PXEOT5riEAAlgm8L4QTtG"
       },
       "artists": [
         {
-          "name": "Matthias Reim",
-          "url": "https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3"
+          "name": "Frenzy",
+          "url": "https://open.spotify.com/artist/4lRkNAQP2nJV4rj3CjkdXd"
         }
       ],
-      "duration_ms": 217680,
-      "name": "Verdammt Ich lieb' dich",
-      "url": "https://open.spotify.com/track/2XEwnFyQhDBHq6rFEaAOQj"
+      "duration_ms": 144021,
+      "name": "3er",
+      "url": "https://open.spotify.com/track/27djNuigXbNE4OJ5R5NEa5"
     },
     {
       "added_at": "2025-12-15 07:11:03",
@@ -655,22 +655,6 @@
     {
       "added_at": "2025-12-15 07:11:03",
       "album": {
-        "name": "Lampen an",
-        "url": "https://open.spotify.com/album/5VnDZm1EXRyV3U4JyFgsQb"
-      },
-      "artists": [
-        {
-          "name": "Frenzy",
-          "url": "https://open.spotify.com/artist/4lRkNAQP2nJV4rj3CjkdXd"
-        }
-      ],
-      "duration_ms": 145341,
-      "name": "Lampen an",
-      "url": "https://open.spotify.com/track/5y2rztbeRghBK0UyKK96Tg"
-    },
-    {
-      "added_at": "2025-12-15 07:11:03",
-      "album": {
         "name": "LEICHE",
         "url": "https://open.spotify.com/album/2C39gznXprjaLDHweyBz5b"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 211373,
       "name": "Geiles Leben - Madizin Single Mix",
       "url": "https://open.spotify.com/track/4GyG53nBdaEvSEn9o8roA2"
+    },
+    {
+      "added_at": "2025-12-15 07:11:03",
+      "album": {
+        "name": "Lampen an",
+        "url": "https://open.spotify.com/album/5VnDZm1EXRyV3U4JyFgsQb"
+      },
+      "artists": [
+        {
+          "name": "Frenzy",
+          "url": "https://open.spotify.com/artist/4lRkNAQP2nJV4rj3CjkdXd"
+        }
+      ],
+      "duration_ms": 145341,
+      "name": "Lampen an",
+      "url": "https://open.spotify.com/track/5y2rztbeRghBK0UyKK96Tg"
     },
     {
       "added_at": "2025-12-15 07:11:03",
@@ -1219,6 +1219,26 @@
     {
       "added_at": "2025-12-15 07:11:03",
       "album": {
+        "name": "Das Album",
+        "url": "https://open.spotify.com/album/3cOWgbuDqtPClEburOYqS1"
+      },
+      "artists": [
+        {
+          "name": "Anton",
+          "url": "https://open.spotify.com/artist/4CZLoCIZfFOPmv2GRYMzjw"
+        },
+        {
+          "name": "DJ \u00d6tzi",
+          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
+        }
+      ],
+      "duration_ms": 229733,
+      "name": "Anton aus Tirol",
+      "url": "https://open.spotify.com/track/2YuKyP77pidQlkxm8PuyJj"
+    },
+    {
+      "added_at": "2025-12-15 07:11:03",
+      "album": {
         "name": "Nachbarn",
         "url": "https://open.spotify.com/album/30AvhaHvCvYYwj0o8YlQea"
       },
@@ -1279,22 +1299,18 @@
     {
       "added_at": "2025-12-15 07:11:03",
       "album": {
-        "name": "Das Album",
-        "url": "https://open.spotify.com/album/3cOWgbuDqtPClEburOYqS1"
+        "name": "Hits Pur - 20 Jahre Eine Band (Fan Edition)",
+        "url": "https://open.spotify.com/album/6go7rUd1OUcrNMHlToIgAO"
       },
       "artists": [
         {
-          "name": "Anton",
-          "url": "https://open.spotify.com/artist/4CZLoCIZfFOPmv2GRYMzjw"
-        },
-        {
-          "name": "DJ \u00d6tzi",
-          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
+          "name": "Pur",
+          "url": "https://open.spotify.com/artist/175a900UJkfGsIGcvUDaEx"
         }
       ],
-      "duration_ms": 229733,
-      "name": "Anton aus Tirol",
-      "url": "https://open.spotify.com/track/2YuKyP77pidQlkxm8PuyJj"
+      "duration_ms": 280852,
+      "name": "Abenteuerland",
+      "url": "https://open.spotify.com/track/748pbjnFM9TVwQhDT3LC4N"
     },
     {
       "added_at": "2025-12-15 07:11:03",
@@ -1427,22 +1443,6 @@
       "duration_ms": 149976,
       "name": "Oberteil",
       "url": "https://open.spotify.com/track/6wujgYJX36mC0rtOdzEcAK"
-    },
-    {
-      "added_at": "2025-12-15 07:11:03",
-      "album": {
-        "name": "Hits Pur - 20 Jahre Eine Band (Fan Edition)",
-        "url": "https://open.spotify.com/album/6go7rUd1OUcrNMHlToIgAO"
-      },
-      "artists": [
-        {
-          "name": "Pur",
-          "url": "https://open.spotify.com/artist/175a900UJkfGsIGcvUDaEx"
-        }
-      ],
-      "duration_ms": 280852,
-      "name": "Abenteuerland",
-      "url": "https://open.spotify.com/track/748pbjnFM9TVwQhDT3LC4N"
     },
     {
       "added_at": "2025-12-15 07:11:03",

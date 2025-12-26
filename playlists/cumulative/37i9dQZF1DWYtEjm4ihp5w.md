@@ -2,7 +2,7 @@
 
 ### [ABAT∑RA](https://open.spotify.com/playlist/37i9dQZF1DWYtEjm4ihp5w)
 
-> Cover: ElGrandeToto
+> Cover: Gustavo 51
 
 469 songs - 1 day 0 hr 35 min
 

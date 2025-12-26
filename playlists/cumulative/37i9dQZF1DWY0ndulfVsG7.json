@@ -659,6 +659,24 @@
     },
     {
       "album": {
+        "name": "Rindiani",
+        "url": "https://open.spotify.com/album/3aSrDhdhPEsGwiXm53uDMu"
+      },
+      "artists": [
+        {
+          "name": "Slam",
+          "url": "https://open.spotify.com/artist/6ZK1l84rj8SLSn2tXVgCsf"
+        }
+      ],
+      "date_added": "2024-11-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324093,
+      "name": "Gerimis Mengundang",
+      "url": "https://open.spotify.com/track/0uoL9b2NPoSq8bXjD31pWy"
+    },
+    {
+      "album": {
         "name": "GILA KUASA",
         "url": "https://open.spotify.com/album/6RA1f4vPGw6fSpKXOqmBtI"
       },
@@ -956,7 +974,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 241266,
       "name": "Kamulah Satu - Satunya",
       "url": "https://open.spotify.com/track/6pCfc6xxUXYBWLMQhIWDmh"

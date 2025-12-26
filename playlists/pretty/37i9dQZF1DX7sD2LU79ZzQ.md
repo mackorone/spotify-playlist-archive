@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Elsa Japasal
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,582 likes - 124 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,599 likes - 124 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 123 | [listen2urheart \(pelan\-pelan\)](https://open.spotify.com/track/7g4WtDB6gR6EHTFqWv5rty) | [Josua Natanael](https://open.spotify.com/artist/5O0vJi4cwT7X77yfhRoXtp) | [listen2urheart \(pelan\-pelan\)](https://open.spotify.com/album/4ZejfwFAlrcdxjWzL8ul2p) | 1:38 |
 | 124 | [Terima Kasih](https://open.spotify.com/track/5oVwODGJhvaeRhvmM2YGhe) | [Rafi Sudirman](https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk) | [Hari Ini, Esok & Selamanya](https://open.spotify.com/album/51KxSLuGPuEtWNcAVgpSkZ) | 3:44 |
 
-Snapshot ID: `AAAAAMzGgeMbGt12uK8pamteNKJmsCNh`
+Snapshot ID: `AAAAAE4ppBjLTeXDzzDEDlVgB2xxMl7p`

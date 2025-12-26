@@ -4,7 +4,7 @@
 
 > Ankhoï & Luch hypes us up for Tulum 26'!
 
-1,158 songs - 3 day 8 hr 46 min
+1,159 songs - 3 day 8 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -892,6 +892,7 @@
 | [Sexy Dance](https://open.spotify.com/track/08odpmvURfvJnTlDzeVXni) | [KOKO.IT](https://open.spotify.com/artist/0Hf0yw8uGFRuNLDngL2GLC) | [Sexy Dance](https://open.spotify.com/album/7LWBKWm1GNFjuvKqifPVIN) | 4:10 | 2023-06-29 | 2023-08-25 |
 | [Shadow](https://open.spotify.com/track/5HWYlBq7NXCZGjXGIp5Mpk) | [Marino Canal](https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8), [Kotiēr](https://open.spotify.com/artist/6yiQLc8QqofCG6ob7D1Rcu) | [Shadow](https://open.spotify.com/album/3xpZz8pqMCAPTVPFb3KmlO) | 3:16 | 2024-11-28 | 2025-08-01 |
 | [Shake It](https://open.spotify.com/track/0qwSbkKOxY7CdBNrrfp7Oi) | [Kröme](https://open.spotify.com/artist/4vjYc1U1CV0uLGYtuQdrfc), [Danidane](https://open.spotify.com/artist/0iuUN6j3vMee2NUjkFJDF3) | [Shake It](https://open.spotify.com/album/4144gk49T6xYVFF0rHRoBl) | 2:26 | 2025-10-16 |  |
+| [Shamajo](https://open.spotify.com/track/07nZpuAuvWcDTtcNAdiHQa) | [Badbwoy](https://open.spotify.com/artist/1PgebrubnFvzOMxn19ZM8f), [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3), [C\-Mart](https://open.spotify.com/artist/5Gp2z5HyXJ8ezC5if2DlXk) | [Shamajo](https://open.spotify.com/album/4JYk3P7iLLGAjPQ5uAOlrL) | 3:00 | 2025-12-25 |  |
 | [Shanga \- MOKX Remix](https://open.spotify.com/track/47631om4XdZuGec7CEUASU) | [Gus One](https://open.spotify.com/artist/1jSYGQGMgWynF4p0XcjJHH), [Nes Mburu](https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v), [MOKX](https://open.spotify.com/artist/646RUJMIzy6CVxvIGnSshw) | [Shanga \(MOKX Remix\)](https://open.spotify.com/album/5JlxNJrWiZo0HplmrhMXS7) | 6:09 | 2025-07-25 |  |
 | [Shangili](https://open.spotify.com/track/16MCf3HxXv7eAaVIXIuz7v) | [Nomis \(FR\)](https://open.spotify.com/artist/41uPRwE5e0yJSYUpb4LR6V), [Nes Mburu](https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd) | [Shangili](https://open.spotify.com/album/6VsD0fnbvg4nlPvrxJqiPM) | 2:44 | 2025-06-12 | 2025-06-17 |
 | [She Asked Me To Dance](https://open.spotify.com/track/5QAxKBAZ6ohJ4eOUvBslCh) | [Arodes](https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47), [Fahlberg](https://open.spotify.com/artist/6lFGvLLUwT6MB6Fx0CkRwk) | [She Asked Me To Dance](https://open.spotify.com/album/5pYmZarAS3RLOjeuaQfSQa) | 3:30 | 2024-11-28 | 2025-08-01 |

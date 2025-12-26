@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/56TfkgG1GwqeXQWuWY5Odw.md) - [plain]
 
 > These songs are the player favorites that gamers have listened to the most over the past three decades.
 
-[PlayStation®️](https://open.spotify.com/user/playstation_music) - 39,302 likes - 114 songs - 7 hr 23 min
+[PlayStation®️](https://open.spotify.com/user/playstation_music) - 39,303 likes - 114 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > New & hot K\-Pop ballads\. \(Cover: Cloud Koh \(구름\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,579 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,569 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 99 | [숙녀에게](https://open.spotify.com/track/797bO4AkZBQpjg1Tqm07EJ) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [‘80s MBC Seoul GAYOJE Preliminary Round](https://open.spotify.com/album/6vL2bB2GvbhnzWEszgyi6r) | 3:48 |
 | 100 | [If I Love Again](https://open.spotify.com/track/1BvBbq3KAD41EeubqOfXrE) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [If I Love Again \(Original Soundtrack from Just For Meeting You\)](https://open.spotify.com/album/5Ku0p8oWpRrZ5S51ym8Uxl) | 4:05 |
 
-Snapshot ID: `AAAAACzg2lsdE8fEe5CynJH3GZ/03lif`
+Snapshot ID: `AAAAANhGJtOMJ3xbZKtZie+kVT001vAj`

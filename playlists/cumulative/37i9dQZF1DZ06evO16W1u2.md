@@ -4,7 +4,7 @@
 
 > This is Rio\. The essential tracks, all in one playlist.
 
-112 songs - 6 hr 55 min
+113 songs - 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [No Quiero Verte Más](https://open.spotify.com/track/42akkxAg640f3JVxiXh86P) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Donde Vamos a Parar \(Remasterizado\)](https://open.spotify.com/album/1ZaP2vx1rY6NEP84qnJkd5) | 4:20 | 2025-11-28 |  |
 | [No Quiero Verte Más](https://open.spotify.com/track/7siVuRZAlqTw0qG1cyN2tG) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Donde Vamos a Parar \(Remasterizado\)](https://open.spotify.com/album/5Vg6U57ux1H8DiPLclsHTl) | 4:20 | 2023-08-23 | 2025-11-28 |
 | [Nos Van a Escuchar](https://open.spotify.com/track/0ydZwMus6teAlHjJ9EExVT) | [Christian Yaipen](https://open.spotify.com/artist/58ecNT3znxQ7I6B971ZYC1), [Afrodisiaco](https://open.spotify.com/artist/184bX1ApmIMyWU3TcpTy93), [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E), [Ana Kohler](https://open.spotify.com/artist/1n64fyKoGQT4u1979QUerO), [Nicole Pillman](https://open.spotify.com/artist/3zzlgX9XsSkchvcPAK92ff), [Jean Paul Strauss](https://open.spotify.com/artist/1ww2z9bVWMR1jjVJWpNM9e), [La Novel de Martín Guevara](https://open.spotify.com/artist/6sqyTXpgNn2BzllXaoUfWr), [Amanda Portales](https://open.spotify.com/artist/4o28hZJdDFqDpg6WcGAJ51), [Marco Romero](https://open.spotify.com/artist/5ZCR8gHM2UuU0JxuuFGduI), [Rossy War y Su Banda Kaliente](https://open.spotify.com/artist/04laTTTa6l3hNn8a1EG7UQ), [Julio Andrade](https://open.spotify.com/artist/1WW69I4nXYzMTxkA63WCOe) | [Nos Van a Escuchar](https://open.spotify.com/album/6Y0RNqz4faP11dGgasMaMJ) | 2:37 | 2023-08-23 |  |
+| [Para Amarte](https://open.spotify.com/track/2AU3KqGwiwL7CCsfRFJqj7) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Relax](https://open.spotify.com/album/3UaOwiVinOGlQJsZgEn6dM) | 4:07 | 2025-12-26 |  |
 | [Pierdo la Razón](https://open.spotify.com/track/46jGMyvOhutyYjxGCmdDD1) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Rock And Qué](https://open.spotify.com/album/3OuWpViYSrfOyANwR6c11r) | 4:15 | 2025-11-28 |  |
 | [Pierdo la Razón](https://open.spotify.com/track/4M8gxBy9CHY07oSatlOTN6) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Rock And Qué](https://open.spotify.com/album/6tGrXhKGXL2ygPo2EwI5qs) | 4:15 | 2023-08-23 | 2025-11-28 |
 | [Profesora de Inglés](https://open.spotify.com/track/1BwMhhbybfhAKeVanov4rp) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Donde Vamos a Parar \(Remasterizado\)](https://open.spotify.com/album/5Vg6U57ux1H8DiPLclsHTl) | 3:32 | 2023-08-23 | 2025-11-29 |
@@ -93,7 +94,7 @@
 | [Si No](https://open.spotify.com/track/2Dz7WmYcFVQo37Okmaecwb) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Día de Pesca](https://open.spotify.com/album/2qUcubeg3AbPyyASjyxSoS) | 3:59 | 2025-11-27 |  |
 | [Si No](https://open.spotify.com/track/4kavxnP6SS9vleYQKTP8Z5) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Día de Pesca](https://open.spotify.com/album/6KvSbIYpEcl3Xek132nHp5) | 3:59 | 2023-08-23 | 2025-11-27 |
 | [Sin Ti](https://open.spotify.com/track/5bgjVuSH4A1XkGdiH7Xayi) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Relax](https://open.spotify.com/album/2Jwt1qBfC4QfafHJlHAEug) | 4:38 | 2023-08-23 | 2025-11-26 |
-| [Sin Ti](https://open.spotify.com/track/7E2vSzLfTAbFkXilM5pwpD) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Relax](https://open.spotify.com/album/3UaOwiVinOGlQJsZgEn6dM) | 4:38 | 2025-11-27 |  |
+| [Sin Ti](https://open.spotify.com/track/7E2vSzLfTAbFkXilM5pwpD) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Relax](https://open.spotify.com/album/3UaOwiVinOGlQJsZgEn6dM) | 4:38 | 2025-11-27 | 2025-12-26 |
 | [Siénteme](https://open.spotify.com/track/1Bxhj28H15EC7GDDooVU8M) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Día de Pesca](https://open.spotify.com/album/2qUcubeg3AbPyyASjyxSoS) | 5:04 | 2025-11-29 | 2025-11-30 |
 | [Siénteme](https://open.spotify.com/track/1sHlR9KVDk35KBOLAx2tCO) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Día de Pesca](https://open.spotify.com/album/6KvSbIYpEcl3Xek132nHp5) | 5:04 | 2023-08-23 | 2024-12-25 |
 | [Te Espero](https://open.spotify.com/track/0IWldnhrYDXlcgf4314Arl) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Te Espero](https://open.spotify.com/album/0qmjZzomS1qzhzLDBnRW8q) | 3:36 | 2024-12-26 |  |

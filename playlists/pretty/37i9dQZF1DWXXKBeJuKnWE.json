@@ -1,6 +1,6 @@
 {
   "description": "The home for heavy music. Cover: Bad Omens",
-  "num_followers": 496802,
+  "num_followers": 496778,
   "original_name": "The Pit",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2025-10-23 23:00:19",
       "album": {
-        "name": "Up From the Bottom",
-        "url": "https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 183223,
-      "name": "Up From the Bottom",
-      "url": "https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS"
-    },
-    {
-      "added_at": "2025-10-23 23:00:19",
-      "album": {
         "name": "private music",
         "url": "https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 212577,
       "name": "infinite source",
       "url": "https://open.spotify.com/track/3txlvthoUa9vWvG1zr2Lnr"
+    },
+    {
+      "added_at": "2025-10-23 23:00:19",
+      "album": {
+        "name": "Up From the Bottom",
+        "url": "https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 183223,
+      "name": "Up From the Bottom",
+      "url": "https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS"
     },
     {
       "added_at": "2025-10-23 23:00:19",
@@ -387,18 +387,18 @@
     {
       "added_at": "2025-10-23 23:00:19",
       "album": {
-        "name": "Asking For A Friend",
-        "url": "https://open.spotify.com/album/7duNAzheTsc00oX22aCqXn"
+        "name": "Tipping Point",
+        "url": "https://open.spotify.com/album/09fWUtFj5UY5gEJapwj0xa"
       },
       "artists": [
         {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 269433,
-      "name": "Asking For A Friend",
-      "url": "https://open.spotify.com/track/6H8kmcBIUymcI1byu6QCRp"
+      "duration_ms": 268828,
+      "name": "Tipping Point",
+      "url": "https://open.spotify.com/track/6jhxeGvYuGY6KHHmUDj8Sv"
     },
     {
       "added_at": "2025-10-23 23:00:19",
@@ -419,18 +419,18 @@
     {
       "added_at": "2025-10-23 23:00:19",
       "album": {
-        "name": "Tipping Point",
-        "url": "https://open.spotify.com/album/09fWUtFj5UY5gEJapwj0xa"
+        "name": "Asking For A Friend",
+        "url": "https://open.spotify.com/album/7duNAzheTsc00oX22aCqXn"
       },
       "artists": [
         {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 268828,
-      "name": "Tipping Point",
-      "url": "https://open.spotify.com/track/6jhxeGvYuGY6KHHmUDj8Sv"
+      "duration_ms": 269433,
+      "name": "Asking For A Friend",
+      "url": "https://open.spotify.com/track/6H8kmcBIUymcI1byu6QCRp"
     },
     {
       "added_at": "2025-10-23 23:00:19",
@@ -703,22 +703,6 @@
     {
       "added_at": "2025-10-23 23:00:19",
       "album": {
-        "name": "So Low",
-        "url": "https://open.spotify.com/album/2Frybhx9bxmVPIjnEbfQhf"
-      },
-      "artists": [
-        {
-          "name": "The Devil Wears Prada",
-          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
-        }
-      ],
-      "duration_ms": 179083,
-      "name": "So Low",
-      "url": "https://open.spotify.com/track/1IiIU0r2LShFKOP609LVpI"
-    },
-    {
-      "added_at": "2025-10-23 23:00:19",
-      "album": {
         "name": "Big Ole Album Vol. 1",
         "url": "https://open.spotify.com/album/1lAeYgoPZlOyPCudqqmSOg"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 188607,
       "name": "Make It Make Sense",
       "url": "https://open.spotify.com/track/28sv9hTNi7Cxv71zJ0qJA1"
+    },
+    {
+      "added_at": "2025-10-23 23:00:19",
+      "album": {
+        "name": "So Low",
+        "url": "https://open.spotify.com/album/2Frybhx9bxmVPIjnEbfQhf"
+      },
+      "artists": [
+        {
+          "name": "The Devil Wears Prada",
+          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
+        }
+      ],
+      "duration_ms": 179083,
+      "name": "So Low",
+      "url": "https://open.spotify.com/track/1IiIU0r2LShFKOP609LVpI"
     },
     {
       "added_at": "2025-10-23 23:00:19",
@@ -767,6 +767,22 @@
     {
       "added_at": "2025-10-23 23:00:19",
       "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/3ndeaQffdBCpmpIzfoQz53"
+      },
+      "artists": [
+        {
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+        }
+      ],
+      "duration_ms": 203521,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/3cbBEGn5f65b1YCI28Oixn"
+    },
+    {
+      "added_at": "2025-10-23 23:00:19",
+      "album": {
         "name": "Cellophane",
         "url": "https://open.spotify.com/album/5pW48u8bbfOtvpp5xxAWLn"
       },
@@ -783,18 +799,18 @@
     {
       "added_at": "2025-10-23 23:00:19",
       "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/3ndeaQffdBCpmpIzfoQz53"
+        "name": "For You",
+        "url": "https://open.spotify.com/album/3BbqSd8P0jhMN7i4i3SNv1"
       },
       "artists": [
         {
-          "name": "I Prevail",
-          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+          "name": "The Devil Wears Prada",
+          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
         }
       ],
-      "duration_ms": 203521,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/3cbBEGn5f65b1YCI28Oixn"
+      "duration_ms": 172759,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/31iIf973tO1iLI2ql44fdI"
     },
     {
       "added_at": "2025-10-23 23:00:19",
@@ -831,22 +847,6 @@
       "duration_ms": 220920,
       "name": "Our Parting Ways",
       "url": "https://open.spotify.com/track/0ac8ZDjMOBYW2V5BK9KW4y"
-    },
-    {
-      "added_at": "2025-10-23 23:00:19",
-      "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/3BbqSd8P0jhMN7i4i3SNv1"
-      },
-      "artists": [
-        {
-          "name": "The Devil Wears Prada",
-          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
-        }
-      ],
-      "duration_ms": 172759,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/31iIf973tO1iLI2ql44fdI"
     },
     {
       "added_at": "2025-10-23 23:00:19",
@@ -987,22 +987,6 @@
     {
       "added_at": "2025-10-23 23:00:19",
       "album": {
-        "name": "The End",
-        "url": "https://open.spotify.com/album/01ZpbrUjs0ia2snQno4WQb"
-      },
-      "artists": [
-        {
-          "name": "Mammoth",
-          "url": "https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO"
-        }
-      ],
-      "duration_ms": 246946,
-      "name": "Same Old Song",
-      "url": "https://open.spotify.com/track/6pfwu8OzVOuNWLY7aH6fzw"
-    },
-    {
-      "added_at": "2025-10-23 23:00:19",
-      "album": {
         "name": "BODIES",
         "url": "https://open.spotify.com/album/5bJeb7bvHrxNvZ6UskCoqm"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 238970,
       "name": "under the knife",
       "url": "https://open.spotify.com/track/1fyHEYD5nCPYILDtsuOre9"
+    },
+    {
+      "added_at": "2025-10-23 23:00:19",
+      "album": {
+        "name": "The End",
+        "url": "https://open.spotify.com/album/01ZpbrUjs0ia2snQno4WQb"
+      },
+      "artists": [
+        {
+          "name": "Mammoth",
+          "url": "https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO"
+        }
+      ],
+      "duration_ms": 246946,
+      "name": "Same Old Song",
+      "url": "https://open.spotify.com/track/6pfwu8OzVOuNWLY7aH6fzw"
     },
     {
       "added_at": "2025-10-23 23:00:19",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2025-10-23 23:00:19",
       "album": {
-        "name": "Echoes",
-        "url": "https://open.spotify.com/album/0eZVWhcjULemVSblWXjqnV"
-      },
-      "artists": [
-        {
-          "name": "As I Lay Dying",
-          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
-        }
-      ],
-      "duration_ms": 269031,
-      "name": "Echoes",
-      "url": "https://open.spotify.com/track/0LaoxSSzKFhhbBQ9fGKxsc"
-    },
-    {
-      "added_at": "2025-10-23 23:00:19",
-      "album": {
         "name": "Punks And Demons",
         "url": "https://open.spotify.com/album/7bV9YJBYC6BAVkyzDA9gFP"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 157106,
       "name": "Punks And Demons",
       "url": "https://open.spotify.com/track/3aK2ctwWDXDMZCNGEKwcKg"
+    },
+    {
+      "added_at": "2025-10-23 23:00:19",
+      "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/0eZVWhcjULemVSblWXjqnV"
+      },
+      "artists": [
+        {
+          "name": "As I Lay Dying",
+          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+        }
+      ],
+      "duration_ms": 269031,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/0LaoxSSzKFhhbBQ9fGKxsc"
     },
     {
       "added_at": "2025-10-23 23:00:19",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2025-10-23 23:00:19",
       "album": {
-        "name": "Sacred",
-        "url": "https://open.spotify.com/album/5n0hCcPszB9ir0xpP2fEFZ"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 229373,
-      "name": "Sacred",
-      "url": "https://open.spotify.com/track/0yrt2vCdHhIyrzFQYzzGkM"
-    },
-    {
-      "added_at": "2025-10-23 23:00:19",
-      "album": {
         "name": "Wrath",
         "url": "https://open.spotify.com/album/5gnns6pmLUdRjfQnSdFeOb"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 273696,
       "name": "Wrath",
       "url": "https://open.spotify.com/track/2v2S3rEa4kBh96NCEtv02m"
+    },
+    {
+      "added_at": "2025-10-23 23:00:19",
+      "album": {
+        "name": "Sacred",
+        "url": "https://open.spotify.com/album/5n0hCcPszB9ir0xpP2fEFZ"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 229373,
+      "name": "Sacred",
+      "url": "https://open.spotify.com/track/0yrt2vCdHhIyrzFQYzzGkM"
     },
     {
       "added_at": "2025-10-23 23:00:19",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2025-10-23 23:00:19",
       "album": {
-        "name": "Angels Calling",
-        "url": "https://open.spotify.com/album/1Qi4VBSO2f5zs26HMCiAtd"
-      },
-      "artists": [
-        {
-          "name": "Solence",
-          "url": "https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg"
-        }
-      ],
-      "duration_ms": 175186,
-      "name": "Angels Calling",
-      "url": "https://open.spotify.com/track/0y2JgdmUmRWrTMXZhSinDe"
-    },
-    {
-      "added_at": "2025-10-23 23:00:19",
-      "album": {
         "name": "Laugh It Off",
         "url": "https://open.spotify.com/album/2DW58f8XYdAaEu24mCLA85"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 218975,
       "name": "Laugh It Off",
       "url": "https://open.spotify.com/track/4EJ0Rp1LO31LOUcZkU4sUB"
+    },
+    {
+      "added_at": "2025-10-23 23:00:19",
+      "album": {
+        "name": "Angels Calling",
+        "url": "https://open.spotify.com/album/1Qi4VBSO2f5zs26HMCiAtd"
+      },
+      "artists": [
+        {
+          "name": "Solence",
+          "url": "https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg"
+        }
+      ],
+      "duration_ms": 175186,
+      "name": "Angels Calling",
+      "url": "https://open.spotify.com/track/0y2JgdmUmRWrTMXZhSinDe"
     },
     {
       "added_at": "2025-10-23 23:00:19",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2025-10-23 23:00:19",
       "album": {
-        "name": "GALLOWS",
-        "url": "https://open.spotify.com/album/3dnGOG8oUIbQHvTda0s8i4"
-      },
-      "artists": [
-        {
-          "name": "blessthefall",
-          "url": "https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "Gallows",
-      "url": "https://open.spotify.com/track/2F7iBRVk0vEdugeCLJ2yjk"
-    },
-    {
-      "added_at": "2025-10-23 23:00:19",
-      "album": {
         "name": "If It's All The Same To You",
         "url": "https://open.spotify.com/album/3nmqCvpxxLOYkikOZGNaNG"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 254742,
       "name": "If It's All The Same To You",
       "url": "https://open.spotify.com/track/4wyU17zJTM512I1i6OSI0X"
+    },
+    {
+      "added_at": "2025-10-23 23:00:19",
+      "album": {
+        "name": "GALLOWS",
+        "url": "https://open.spotify.com/album/3dnGOG8oUIbQHvTda0s8i4"
+      },
+      "artists": [
+        {
+          "name": "blessthefall",
+          "url": "https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "Gallows",
+      "url": "https://open.spotify.com/track/2F7iBRVk0vEdugeCLJ2yjk"
     },
     {
       "added_at": "2025-10-23 23:00:19",
@@ -1655,18 +1655,18 @@
     {
       "added_at": "2025-10-23 23:00:19",
       "album": {
-        "name": "CRUISING TO SELF SOOTHE",
-        "url": "https://open.spotify.com/album/1wHdmayr1a37PamCdZ5VqA"
+        "name": "True Believer",
+        "url": "https://open.spotify.com/album/1kALPLjhxfv9Yu1lVeHu62"
       },
       "artists": [
         {
-          "name": "Ecca Vandal",
-          "url": "https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf"
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
         }
       ],
-      "duration_ms": 152613,
-      "name": "CRUISING TO SELF SOOTHE",
-      "url": "https://open.spotify.com/track/43YEV5eMkQYdkk27WV1Bkv"
+      "duration_ms": 274000,
+      "name": "True Believer",
+      "url": "https://open.spotify.com/track/6RRYgdkCmVTYHGmId3LpqW"
     }
   ],
   "unique_name": "The Pit",

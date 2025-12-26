@@ -3237,6 +3237,24 @@
     },
     {
       "album": {
+        "name": "Lost Signals DEMO",
+        "url": "https://open.spotify.com/album/7HwOrfw7TsrSqM3Pj2zEmT"
+      },
+      "artists": [
+        {
+          "name": "BLACKLIGHT",
+          "url": "https://open.spotify.com/artist/3V0M6bENFpgi3K1Iv3F4Vh"
+        }
+      ],
+      "date_added": "2025-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197013,
+      "name": "Softer",
+      "url": "https://open.spotify.com/track/4pFR9eR7CDWcT8QR6NCRhG"
+    },
+    {
+      "album": {
         "name": "Skogskult",
         "url": "https://open.spotify.com/album/6OVBdQuLNwZ91SXopkqiO2"
       },
@@ -3526,7 +3544,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 318974,
       "name": "Sweet Revenge",
       "url": "https://open.spotify.com/track/2uEwxHziGu3yz3YSf6oBkd"

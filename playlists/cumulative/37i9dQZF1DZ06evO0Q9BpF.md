@@ -4,7 +4,7 @@
 
 > This is Generación 12\. The essential tracks, all in one playlist.
 
-126 songs - 13 hr 32 min
+127 songs - 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,8 @@
 | [Unidos Somos Más Fuertes](https://open.spotify.com/track/6MDqbFekDpUxzRgBOoOYwo) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Esto Es Un Avivamiento](https://open.spotify.com/album/5PEWSHeJJcpVJ62xlnhpVL) | 4:16 | 2025-12-24 |  |
 | [Unidos Somos Más Fuertes](https://open.spotify.com/track/50OAZ16SOAKSfp8ksaDOZF) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Unidos Somos Más Fuertes](https://open.spotify.com/album/5CaiOljtlmZvIOcKyyFIZ8) | 4:16 | 2023-04-02 | 2025-11-18 |
 | [Unidos Somos Más Fuertes \- Bonus Track](https://open.spotify.com/track/2HjmrOJk6nLhPld5LdAPUm) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Esto Es un Avivamiento](https://open.spotify.com/album/6ZlOnNItorE8uCHOLgCa7T) | 4:16 | 2025-11-18 | 2025-12-24 |
-| [Ven y Lléname](https://open.spotify.com/track/4Lp4it382mVKgfUDHsh04t) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Esto Es un Avivamiento](https://open.spotify.com/album/6ZlOnNItorE8uCHOLgCa7T) | 9:58 | 2023-04-02 |  |
+| [Ven y Lléname](https://open.spotify.com/track/7EHtn15gqZVZwq33y3OOzK) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Esto Es Un Avivamiento](https://open.spotify.com/album/5PEWSHeJJcpVJ62xlnhpVL) | 9:58 | 2025-12-26 |  |
+| [Ven y Lléname](https://open.spotify.com/track/4Lp4it382mVKgfUDHsh04t) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Esto Es un Avivamiento](https://open.spotify.com/album/6ZlOnNItorE8uCHOLgCa7T) | 9:58 | 2023-04-02 | 2025-12-26 |
 | [Venga Tu Reino](https://open.spotify.com/track/2iaNWbfBXRGuTk0gBXkq6r) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Edward Rivera](https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Tu Reino Está Aquí](https://open.spotify.com/album/23WpengG8gPWQSRXQG5aoO) | 8:25 | 2023-04-02 | 2024-03-24 |
 | [Venga Tu Reino](https://open.spotify.com/track/5xnAIoSXn2pyECcEcxc5rz) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Edward Rivera](https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Tu Reino Está Aquí](https://open.spotify.com/album/2AbsDFYbb2NYeJcwmypX5m) | 8:25 | 2024-03-23 | 2025-07-24 |
 | [Vuelvo a Casa](https://open.spotify.com/track/2FJQHTLhycwIjRnRbd4Wm6) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Maverick City Musica](https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7), [Nate Diaz](https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN), [Karen Espinosa](https://open.spotify.com/artist/6XNVOebbeiowkj9FJwvc7m) | [Sana Nuestra Nación](https://open.spotify.com/album/4TfOypp18c3CALG8DpZX2y) | 9:09 | 2023-04-02 | 2025-11-27 |

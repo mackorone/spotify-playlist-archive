@@ -512,7 +512,7 @@
       ],
       "date_added": "2024-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 241675,
       "name": "Fire (with J Boog)",
       "url": "https://open.spotify.com/track/4ZNfOxcDF2aycOslsOMbhs"
@@ -754,7 +754,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-25",
+      "date_removed": null,
       "duration_ms": 205254,
       "name": "Just You & Me",
       "url": "https://open.spotify.com/track/4OAleoaaFQcvHKGc3gQkv1"
@@ -1670,10 +1670,32 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 217270,
       "name": "Sunshine Girl",
       "url": "https://open.spotify.com/track/4RjHalDdUreXDJSJLo44lK"
+    },
+    {
+      "album": {
+        "name": "Backyard Boogie",
+        "url": "https://open.spotify.com/album/3asYxal37yC5t4M41SdCoZ"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        },
+        {
+          "name": "Peetah Morgan",
+          "url": "https://open.spotify.com/artist/6TP4fQvAG9uXcPgHEpPriw"
+        }
+      ],
+      "date_added": "2025-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217270,
+      "name": "Sunshine Girl (feat. Peetah Morgan)",
+      "url": "https://open.spotify.com/track/30VpZG4IyarKAcb92M6Sw9"
     },
     {
       "album": {

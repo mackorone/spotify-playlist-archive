@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to nov\-dec 2025
 
-855 songs - 2 day 2 hr 45 min
+859 songs - 2 day 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [A Dance By Any Other Name](https://open.spotify.com/track/4g5W3uhv3EOXit1ErfWjgc) | [Mice Parade](https://open.spotify.com/artist/08dFdlVj0Hm0pD8sE61RR6) | [The True Meaning Of Boodleybaye](https://open.spotify.com/album/3JAFVahFip29mMAYNsAWX8) | 7:42 | 2025-07-09 | 2025-09-11 |
 | [A Furrow Dub](https://open.spotify.com/track/5tauzxQXma1ic7aAnkEtWw) | [sugar plant](https://open.spotify.com/artist/0KrBZKq6kpcv9N0vBesN8o) | [Boogiepop Phantom Original Soundtrack](https://open.spotify.com/album/58m4Xt0j6oYFLeG81GmEd6) | 6:02 | 2024-07-29 | 2024-09-08 |
 | [A Highway Got Paved Over My Future, I Drive It Getting to School](https://open.spotify.com/track/5wJzxnpc4uIT7cG7fNkNwW) | [Brave Little Abacus](https://open.spotify.com/artist/23prE3lyFVVNVGMV5jADsp) | [Just Got Back from the Discomfort We're Alright](https://open.spotify.com/album/3jLrWEYpwKnptkzEXAyT66) | 2:34 | 2024-05-30 | 2024-07-12 |
+| [A Letter from Home](https://open.spotify.com/track/5UcvrjHBV7DxaWGz2hUYMN) | ["Blue" Gene Tyranny](https://open.spotify.com/artist/46iG2LQSecSEFH5L9qhvSY) | [Out of the Blue \(40th Anniversary Remaster\)](https://open.spotify.com/album/6Cn6Oz11PAN0PvyCyZnnkW) | 25:50 | 2025-12-25 |  |
 | [A Quiet Week In The House](https://open.spotify.com/track/6Iha5SXfSKDqngjosbLe7Q) | [Donna Regina](https://open.spotify.com/artist/28d8oiCt6QMG9d5i95Pn5h) | [A Quiet Week In The House](https://open.spotify.com/album/2BzeMAgbzjG6dzFEhrj2np) | 5:39 | 2025-04-02 | 2025-05-09 |
 | [A Summer Long Since Passed](https://open.spotify.com/track/0OPAfFVbyXiGJTHsXqrC7o) | [Virginia Astley](https://open.spotify.com/artist/0Cc6v6tsUT1FktqPQYXME3) | [80s Deep Dive](https://open.spotify.com/album/1MFWguVP2tNTVncqcZhZiK) | 4:37 | 2024-01-05 | 2024-03-10 |
 | [A Tune for Us](https://open.spotify.com/track/0gzXpTuibWmqWAlMyVyr36) | [DjRUM](https://open.spotify.com/artist/4HwlolvniI44ETSg5tajeZ) | [A Tune for Us](https://open.spotify.com/album/4sGbeN9xMT4O6mUDOSln27) | 5:53 | 2025-01-25 | 2025-03-02 |
@@ -56,6 +57,7 @@
 | [American Express](https://open.spotify.com/track/3AwUCMdBdFw5fzeIdxTRiF) | [Molly Nilsson](https://open.spotify.com/artist/2PDepyCtfybWn5UJv0DmKw) | [Imaginations](https://open.spotify.com/album/3wyZNkNP8tUegRaPWV1lap) | 4:34 | 2025-09-30 | 2025-11-15 |
 | [Amponsah](https://open.spotify.com/track/3QXQ4J0akuPQjXS8SRpOrd) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Ebo Taylor](https://open.spotify.com/album/3fS88YBSilKVWgbZ4BksxS) | 4:17 | 2024-05-16 | 2024-07-12 |
 | [Amy](https://open.spotify.com/track/5FOqsNZyuYIw13eZtNeKwN) | [knitting](https://open.spotify.com/artist/2eRDm8pl8MFrZv1gsfqUtj) | [Some Kind Of Heaven](https://open.spotify.com/album/6SSGkBbWRgwGTOteOz2HXM) | 2:40 | 2024-09-28 | 2024-11-14 |
+| [And So It Goes](https://open.spotify.com/track/1u7kQUb3lQcpHaYRfia13A) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Storm Front](https://open.spotify.com/album/1Vw2uoVkLAJFVViJ1QyK1D) | 3:40 | 2025-12-25 |  |
 | [Anemometer](https://open.spotify.com/track/19jvdt6NQVFQNwGpS300LJ) | [Nobukazu Takemura](https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9) | [Hoshi No Koe](https://open.spotify.com/album/6ZEv1wpEkZcjUO1UL9TLtb) | 12:44 | 2024-10-11 | 2024-11-14 |
 | [Angel in Disguise](https://open.spotify.com/track/6PQTUESsPMNcDAg2LEmxh7) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Never Say Never](https://open.spotify.com/album/1Co6e9ag1gRKcWdG7xKcCi) | 4:48 | 2025-04-23 | 2025-05-09 |
 | [Angel Style](https://open.spotify.com/track/1Wtl3WGuBQNghBQGajv87L) | [Hooky](https://open.spotify.com/artist/17eGQ5SRFwIv2c8FsrQf8f) | [Mirage](https://open.spotify.com/album/7uk0LH3pI5mDgFBiwbyLvO) | 1:58 | 2024-02-27 | 2024-03-10 |
@@ -125,6 +127,7 @@
 | [Car Song](https://open.spotify.com/track/2PLlDmo8ugWB0uKPxovQ6E) | [Woody Guthrie](https://open.spotify.com/artist/4rAgFKtlTr66ic18YZZyF1) | [This Land is Your Land: The Asch Recordings, Vol\. 1](https://open.spotify.com/album/6Q75uix22iebN7q6WwNLDt) | 1:52 | 2025-02-21 | 2025-03-02 |
 | [caravanas](https://open.spotify.com/track/4yoF14WIqNJXDvTtHO7Jjh) | [Juana Molina](https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3) | [DOGA](https://open.spotify.com/album/5uFCdSiMEKVDWY5TQ3eEmY) | 4:06 | 2025-11-23 |  |
 | [Carey](https://open.spotify.com/track/11dUk8E2z8Oj1JURwl7GJd) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Blue](https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa) | 3:02 | 2025-12-24 |  |
+| [Carnage](https://open.spotify.com/track/48Zr1JPrdjgbSFjNwpyqru) | [Political Asylum](https://open.spotify.com/artist/4vp78ch6qKQGJtcdnmlGuj) | [Winter](https://open.spotify.com/album/4KZkLwaHFDl5AQIueGeozH) | 2:01 | 2025-12-25 |  |
 | [Casa Del Queso](https://open.spotify.com/track/2PT6tdovqv5DRfbRrwsblr) | [Aventuras De Kirlian](https://open.spotify.com/artist/7hA1LNd4lisPMV7RLmxvg7) | [86\-88](https://open.spotify.com/album/69aOUaKV2diPvH7PWI8xPZ) | 1:28 | 2024-02-27 | 2024-03-10 |
 | [Cascavel](https://open.spotify.com/track/4wwuuiyk9cwEF7MZGRafrz) | [Antonio Adolfo](https://open.spotify.com/artist/41ZdHyHrzKwE6Y8dtDQ1Q9) | [Viralata](https://open.spotify.com/album/0MenTNcYKcIqpXb5yUzFup) | 2:56 | 2025-04-22 | 2025-05-09 |
 | [Catsu](https://open.spotify.com/track/0lbQaP751MUEVtK0F4A43C) | [Cousin](https://open.spotify.com/artist/3riNyLWUNSai045asUQE3Q) | [HomeSoon](https://open.spotify.com/album/1uoyioN7yCRAUoVpgZQHHD) | 4:27 | 2025-10-26 | 2025-11-15 |
@@ -859,6 +862,7 @@
 | [あなたから遠くへ](https://open.spotify.com/track/6hFK7qLwkhxcOZw3ywEq8l) | [金延幸子](https://open.spotify.com/artist/5rT9yvOxKxNBsDevOiKKGs) | [み空](https://open.spotify.com/album/3FnRt5aR3UNby43dumedN9) | 3:29 | 2024-09-18 | 2024-11-14 |
 | [アン・オープン・ドア](https://open.spotify.com/track/1DrPpgiTvuogt6Ktxsag4h) | [FLat7](https://open.spotify.com/artist/6qWQ49hbX08ZLyRABxaasl) | [スウィート・グロウ・オブ・サイレンス](https://open.spotify.com/album/21AVBPMluy9ZI8SkMWC4Ar) | 4:43 | 2024-10-27 | 2024-11-14 |
 | [カッチンコールたいりく / Freeze Continent](https://open.spotify.com/track/0ujIsmyyJMZcq5AhMSZaCm) | [Soichi Terada](https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9) | [Ape Escape 3 \- Originape Soundtracks / サルゲッチュ3・オリジサル・サウンドトラック](https://open.spotify.com/album/5CBUobzAmO8mdaFeuG7HJe) | 2:07 | 2025-11-14 |  |
+| [不變](https://open.spotify.com/track/4pp3H1juhrzNqvkCAXDjNh) | [Faye Wong](https://open.spotify.com/artist/3df3XLKuqTQ6iOSmi0K3Wp) | [天空](https://open.spotify.com/album/4J3XjEzUvDKGNyCESR2Jls) | 4:45 | 2025-12-25 |  |
 | [小っちゃな庭](https://open.spotify.com/track/1Tui361pj9E3DWwqNTVCMa) | [hi\-posi](https://open.spotify.com/artist/72S76MZxbGTfH2KuemK7Y5) | [GLUON](https://open.spotify.com/album/7xSScon3OgjSjnbykTdM5d) | 4:36 | 2025-07-27 | 2025-09-11 |
 | [東京幻想曲](https://open.spotify.com/track/2bWBTC67ELpbnwMHTN8lhg) | [Hajime Mizoguchi](https://open.spotify.com/artist/37MI19rLgummvAp3PFu945) | [A PRETTY DANCE](https://open.spotify.com/album/2AMTMvJufxxKc6xJoRht9t) | 4:27 | 2025-12-24 |  |
 | [甜蜜蜜](https://open.spotify.com/track/0aIQZBntZW3LCptADbkfKZ) | [Teresa Teng](https://open.spotify.com/artist/3ienC90A5I1X3irDyQoqWZ) | [BTB 鄧麗君15週年](https://open.spotify.com/album/5joHY66NwcFkf0ho0u4Kym) | 3:28 | 2024-04-23 | 2024-05-16 |

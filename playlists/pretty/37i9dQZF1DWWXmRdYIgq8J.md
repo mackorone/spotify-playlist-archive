@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXmRdYIgq8J.md) - [plain]
 
 > Tropical tunes from the Indo\-Caribbean diaspora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,394 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,403 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXmRdYIgq8J.md) - [plain]
 | 4 | [Gunga Ghana](https://open.spotify.com/track/6scC03TvTwI1VbEGIYrD8R) | [Ravi B](https://open.spotify.com/artist/6r9ZI8cFoP2cbszW50tdJj), [Dubraj Persad](https://open.spotify.com/artist/4utj62fmWsquEdUPamiUDX) | [Gunga Ghana](https://open.spotify.com/album/5HHAYnNENqxTSYOnnx1Ilk) | 4:07 |
 | 5 | [Drinka](https://open.spotify.com/track/47Q0sApPOOLeEKzUKFeXu9) | [Ravi B and Karma the Band](https://open.spotify.com/artist/0f2Ro30PphxH8JaXsr2fFC) | [Rise of a New King](https://open.spotify.com/album/47ZPIYAGwct5LotU50oetq) | 4:12 |
 | 6 | [Aur Chale \(feat\. Dil\-E\-Nadan\)](https://open.spotify.com/track/0rqf6vbpvLhynNJz6ya5zG) | [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk), [Dil\-E\-Nadan](https://open.spotify.com/artist/34B244yve10xAS2LK6VknY) | [Independent Lady](https://open.spotify.com/album/5MX7SERtmC5ObbiWxgVhKb) | 3:24 |
-| 7 | [Vitamin D](https://open.spotify.com/track/2ayBxvV8lstsAY0grHVc4q) | [Yung Bredda](https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL) | [Vitamin D](https://open.spotify.com/album/6eUo0npwgBpo0cKQ7XtiOK) | 2:50 |
-| 8 | [Barman](https://open.spotify.com/track/4luG5N7yt5gV41Z2pzgtsu) | [Rikki Jai](https://open.spotify.com/artist/7tx0yanNumgzEBs3qd9urM) | [Soca Gold 2010](https://open.spotify.com/album/62Lj4znCqFpTXgbtiGPGW1) | 4:53 |
+| 7 | [Barman](https://open.spotify.com/track/4luG5N7yt5gV41Z2pzgtsu) | [Rikki Jai](https://open.spotify.com/artist/7tx0yanNumgzEBs3qd9urM) | [Soca Gold 2010](https://open.spotify.com/album/62Lj4znCqFpTXgbtiGPGW1) | 4:53 |
+| 8 | [Vitamin D](https://open.spotify.com/track/2ayBxvV8lstsAY0grHVc4q) | [Yung Bredda](https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL) | [Vitamin D](https://open.spotify.com/album/6eUo0npwgBpo0cKQ7XtiOK) | 2:50 |
 | 9 | [Ah Drinka](https://open.spotify.com/track/5wIyeEZbS6mufivybplOEw) | [Ravi B & Problem Child](https://open.spotify.com/artist/6cdpdaVlpkJculgkHz5WRE) | [Soca Gold 2010](https://open.spotify.com/album/62Lj4znCqFpTXgbtiGPGW1) | 4:25 |
 | 10 | [Tek Meh Gul \(feat\. Hitman & Andy Singh\)](https://open.spotify.com/track/76bp1DQTIHFWdWGFc9yOyz) | [Ravi B and Karma the Band](https://open.spotify.com/artist/0f2Ro30PphxH8JaXsr2fFC), [Andy Singh](https://open.spotify.com/artist/3EyhGbKjTvUKakWogowSiz), [Hitman](https://open.spotify.com/artist/7v1sbPiulgV8DjbanWz8VG) | [Karmageddon](https://open.spotify.com/album/7IvdAbaAIemMYVDljaCiEc) | 5:00 |
 | 11 | [Bread](https://open.spotify.com/track/5AGqmpRFDY5cD1LftIoa2X) | [Ravi B](https://open.spotify.com/artist/6r9ZI8cFoP2cbszW50tdJj) | [Bread](https://open.spotify.com/album/4Fz4hTJSQHTJmTozmkvCN5) | 3:47 |

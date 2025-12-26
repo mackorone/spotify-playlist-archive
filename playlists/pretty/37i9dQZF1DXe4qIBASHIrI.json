@@ -1,6 +1,6 @@
 {
   "description": "Los temas esenciales de la escena independiente nacional. Furland en portada. ",
-  "num_followers": 175896,
+  "num_followers": 175913,
   "original_name": "Indie Mexicano: Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Destellos",
-        "url": "https://open.spotify.com/album/2X4swA3UkpqAS8bbXYgP9k"
-      },
-      "artists": [
-        {
-          "name": "CLUBZ",
-          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
-        }
-      ],
-      "duration_ms": 237786,
-      "name": "Popscuro",
-      "url": "https://open.spotify.com/track/3N0lemfma0XQAlkueBbwev"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Bengala",
         "url": "https://open.spotify.com/album/01jg8viSyNMt8kX9fqMTXA"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 259253,
       "name": "Carretera",
       "url": "https://open.spotify.com/track/7spTrcPpTSfBfuJnZxlrK3"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Destellos",
+        "url": "https://open.spotify.com/album/2X4swA3UkpqAS8bbXYgP9k"
+      },
+      "artists": [
+        {
+          "name": "CLUBZ",
+          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
+        }
+      ],
+      "duration_ms": 237786,
+      "name": "Popscuro",
+      "url": "https://open.spotify.com/track/3N0lemfma0XQAlkueBbwev"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "\u00c9pocas",
-        "url": "https://open.spotify.com/album/5K42C7VGWtFP2MtH5wwP7M"
-      },
-      "artists": [
-        {
-          "name": "CLUBZ",
-          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
-        }
-      ],
-      "duration_ms": 221853,
-      "name": "\u00c9pocas",
-      "url": "https://open.spotify.com/track/3izZ5EFLybEdk8q5dCh1eD"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Levantate Sakuraba",
         "url": "https://open.spotify.com/album/1Qbmbt6pxdVfgX8mwCeHGS"
       },
@@ -1207,6 +1191,22 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
+        "name": "\u00c9pocas",
+        "url": "https://open.spotify.com/album/5K42C7VGWtFP2MtH5wwP7M"
+      },
+      "artists": [
+        {
+          "name": "CLUBZ",
+          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
+        }
+      ],
+      "duration_ms": 221853,
+      "name": "\u00c9pocas",
+      "url": "https://open.spotify.com/track/3izZ5EFLybEdk8q5dCh1eD"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
         "name": "El Tiempo y la Ciudad",
         "url": "https://open.spotify.com/album/3e8mntdTH7cBTooN1OqzwK"
       },
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Arunima",
-        "url": "https://open.spotify.com/album/5niZ3fPZnNq0HELNUqmvqT"
-      },
-      "artists": [
-        {
-          "name": "Hello Seahorse!",
-          "url": "https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8"
-        }
-      ],
-      "duration_ms": 265740,
-      "name": "La Flotadera",
-      "url": "https://open.spotify.com/track/0ZEsdBqaPVsfdmdn6SR0WJ"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Lluvia",
         "url": "https://open.spotify.com/album/07g3BVeM6QhWXfdLvRLlvy"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 254889,
       "name": "Lluvia",
       "url": "https://open.spotify.com/track/2I9OiNVmN2VyRXyd6b3iXI"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Arunima",
+        "url": "https://open.spotify.com/album/5niZ3fPZnNq0HELNUqmvqT"
+      },
+      "artists": [
+        {
+          "name": "Hello Seahorse!",
+          "url": "https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8"
+        }
+      ],
+      "duration_ms": 265740,
+      "name": "La Flotadera",
+      "url": "https://open.spotify.com/track/0ZEsdBqaPVsfdmdn6SR0WJ"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "LeBaron",
-        "url": "https://open.spotify.com/album/1ZROHNWumhnNlEzo69ubgb"
-      },
-      "artists": [
-        {
-          "name": "LeBaron",
-          "url": "https://open.spotify.com/artist/6mAJLm084B2XPYIqkt1gj1"
-        }
-      ],
-      "duration_ms": 214280,
-      "name": "Exilio",
-      "url": "https://open.spotify.com/track/1H93RYiJu5nE7YAfGgO3yJ"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "La Fiesta de la Forma",
         "url": "https://open.spotify.com/album/5HRqHWTveNLtgJ1jOqmDey"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 411960,
       "name": "Mi Chica",
       "url": "https://open.spotify.com/track/7tIFZKrcPgzNUKBEU3Dvkc"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "LeBaron",
+        "url": "https://open.spotify.com/album/1ZROHNWumhnNlEzo69ubgb"
+      },
+      "artists": [
+        {
+          "name": "LeBaron",
+          "url": "https://open.spotify.com/artist/6mAJLm084B2XPYIqkt1gj1"
+        }
+      ],
+      "duration_ms": 214280,
+      "name": "Exilio",
+      "url": "https://open.spotify.com/track/1H93RYiJu5nE7YAfGgO3yJ"
     },
     {
       "added_at": "2023-09-01 16:42:45",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Natsuko",
-        "url": "https://open.spotify.com/album/4Bw9UatWT0wZQHgMNP7Y0u"
-      },
-      "artists": [
-        {
-          "name": "Los Plastics Revolution",
-          "url": "https://open.spotify.com/artist/2nZ7VV6RLIQht8VmebUJ2V"
-        }
-      ],
-      "duration_ms": 259493,
-      "name": "Natsuko",
-      "url": "https://open.spotify.com/track/30NffcEvdFgNmFaB73FD4g"
-    },
-    {
-      "added_at": "2023-09-01 16:42:45",
-      "album": {
         "name": "Buffalo Beat EP",
         "url": "https://open.spotify.com/album/2OOAcHAbcHReHpLpVrll56"
       },
@@ -1623,18 +1607,34 @@
     {
       "added_at": "2023-09-01 16:42:45",
       "album": {
-        "name": "Valerio Benustelli",
-        "url": "https://open.spotify.com/album/3ycc6AzUEeovj9wuiVNhGc"
+        "name": "Natsuko",
+        "url": "https://open.spotify.com/album/4Bw9UatWT0wZQHgMNP7Y0u"
       },
       "artists": [
         {
-          "name": "Jean Loup",
-          "url": "https://open.spotify.com/artist/5u1Kdzzcl9FcgY7ty8Du0U"
+          "name": "Los Plastics Revolution",
+          "url": "https://open.spotify.com/artist/2nZ7VV6RLIQht8VmebUJ2V"
         }
       ],
-      "duration_ms": 206007,
-      "name": "Valerio Benustelli",
-      "url": "https://open.spotify.com/track/3E5cNqPeDlVFaxRkhE5oil"
+      "duration_ms": 259493,
+      "name": "Natsuko",
+      "url": "https://open.spotify.com/track/30NffcEvdFgNmFaB73FD4g"
+    },
+    {
+      "added_at": "2023-09-01 16:42:45",
+      "album": {
+        "name": "Happy-fi Compilaci\u00f3n Vol. 2",
+        "url": "https://open.spotify.com/album/1SctU0rJACQseZrrc9IEGE"
+      },
+      "artists": [
+        {
+          "name": "Mario*",
+          "url": "https://open.spotify.com/artist/6LuoxHz3XHf2nh6UHM2tZB"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Muchacho Satanico - 2002 version",
+      "url": "https://open.spotify.com/track/2W6y3hTo9bC2ptXAr5yjCl"
     }
   ],
   "unique_name": "Indie Mexicano: Cl\u00e1sicos",

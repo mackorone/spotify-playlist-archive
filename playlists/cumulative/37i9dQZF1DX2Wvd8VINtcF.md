@@ -2,7 +2,7 @@
 
 ### [Oyster](https://open.spotify.com/playlist/37i9dQZF1DX2Wvd8VINtcF)
 
-> pearl of the week ✨Smerz✨
+> pearl of the week ✨070 Shake & Jacob Mühlrad✨
 
 2,195 songs - 4 day 22 hr 58 min
 

@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://twitter.com/kofi\">Kofi Siriboe</a>",
-  "num_followers": 45028,
+  "num_followers": 45033,
   "original_name": "Kofi Siriboe's Taste",
   "owner": {
     "name": "Spotify",
@@ -339,22 +339,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Black Messiah",
-        "url": "https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 344346,
-      "name": "Really Love",
-      "url": "https://open.spotify.com/track/2RcanAJpudPNDkyIe9DzKS"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/0kjpOQzwiIr55TIBBJ5coK"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 223517,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/5yplb3035SZqG3E6TArvGK"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Black Messiah",
+        "url": "https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 344346,
+      "name": "Really Love",
+      "url": "https://open.spotify.com/track/2RcanAJpudPNDkyIe9DzKS"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -687,22 +687,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Tower of Silence",
-        "url": "https://open.spotify.com/album/0emZeMYklVE3LS97rGKN8S"
-      },
-      "artists": [
-        {
-          "name": "Roberto Musci",
-          "url": "https://open.spotify.com/artist/1HSz5qiRNcs8eJ0Sp2LOxw"
-        }
-      ],
-      "duration_ms": 177255,
-      "name": "Claudia, Wilhelm R And Me",
-      "url": "https://open.spotify.com/track/4jR8SmpJ76qsD1TlaD6TIY"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Punk",
         "url": "https://open.spotify.com/album/7IKkHmEk4It4cRdOYanyvW"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 171834,
       "name": "Recognize Real (with Gunna)",
       "url": "https://open.spotify.com/track/2wSWcyp4Z8ObUaqlNMGd5h"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Tower of Silence",
+        "url": "https://open.spotify.com/album/0emZeMYklVE3LS97rGKN8S"
+      },
+      "artists": [
+        {
+          "name": "Roberto Musci",
+          "url": "https://open.spotify.com/artist/1HSz5qiRNcs8eJ0Sp2LOxw"
+        }
+      ],
+      "duration_ms": 177255,
+      "name": "Claudia, Wilhelm R And Me",
+      "url": "https://open.spotify.com/track/4jR8SmpJ76qsD1TlaD6TIY"
     },
     {
       "added_at": "2022-10-01 16:00:00",

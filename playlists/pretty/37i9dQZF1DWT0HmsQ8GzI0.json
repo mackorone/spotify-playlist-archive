@@ -1,6 +1,6 @@
 {
   "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: Waiting Room",
-  "num_followers": 16108,
+  "num_followers": 16110,
   "original_name": "Nemazapop",
   "owner": {
     "name": "Spotify",
@@ -759,26 +759,6 @@
     {
       "added_at": "2025-12-22 17:09:10",
       "album": {
-        "name": "Sose halok meg",
-        "url": "https://open.spotify.com/album/2jjL8YIaoo22mtpWKsq1jR"
-      },
-      "artists": [
-        {
-          "name": "Sol\u00e9re",
-          "url": "https://open.spotify.com/artist/07sbUsuT49AfdnbAZukniP"
-        },
-        {
-          "name": "\u00d3tvar Pestis",
-          "url": "https://open.spotify.com/artist/1AyF8iJgMe4LMNe8bUM1Yo"
-        }
-      ],
-      "duration_ms": 128578,
-      "name": "Sose halok meg",
-      "url": "https://open.spotify.com/track/5IXSSKNUW3v7ewkQWXgcNx"
-    },
-    {
-      "added_at": "2025-12-22 17:09:10",
-      "album": {
         "name": "\u00c9LEK \u00c9S VIRULOK",
         "url": "https://open.spotify.com/album/0PuEl5Tdjlt0bF4vFdzUaT"
       },
@@ -799,6 +779,22 @@
     {
       "added_at": "2025-12-22 17:09:10",
       "album": {
+        "name": "Pillang\u00f3hat\u00e1s",
+        "url": "https://open.spotify.com/album/1qA0swttSHDYjbQ3cwOX5Y"
+      },
+      "artists": [
+        {
+          "name": "T\u00f3th Abig\u00e9l",
+          "url": "https://open.spotify.com/artist/4Cm5LvpsuI6maYo55R7CaS"
+        }
+      ],
+      "duration_ms": 138351,
+      "name": "Pillang\u00f3hat\u00e1s",
+      "url": "https://open.spotify.com/track/5L9mdXBFc2g6l2XmfSsSJN"
+    },
+    {
+      "added_at": "2025-12-22 17:09:10",
+      "album": {
         "name": "Lassan, kocsis",
         "url": "https://open.spotify.com/album/53VbZsC8lQjXTXi3GSduEA"
       },
@@ -815,18 +811,22 @@
     {
       "added_at": "2025-12-22 17:09:10",
       "album": {
-        "name": "Pillang\u00f3hat\u00e1s",
-        "url": "https://open.spotify.com/album/1qA0swttSHDYjbQ3cwOX5Y"
+        "name": "Sose halok meg",
+        "url": "https://open.spotify.com/album/2jjL8YIaoo22mtpWKsq1jR"
       },
       "artists": [
         {
-          "name": "T\u00f3th Abig\u00e9l",
-          "url": "https://open.spotify.com/artist/4Cm5LvpsuI6maYo55R7CaS"
+          "name": "Sol\u00e9re",
+          "url": "https://open.spotify.com/artist/07sbUsuT49AfdnbAZukniP"
+        },
+        {
+          "name": "\u00d3tvar Pestis",
+          "url": "https://open.spotify.com/artist/1AyF8iJgMe4LMNe8bUM1Yo"
         }
       ],
-      "duration_ms": 138351,
-      "name": "Pillang\u00f3hat\u00e1s",
-      "url": "https://open.spotify.com/track/5L9mdXBFc2g6l2XmfSsSJN"
+      "duration_ms": 128578,
+      "name": "Sose halok meg",
+      "url": "https://open.spotify.com/track/5IXSSKNUW3v7ewkQWXgcNx"
     },
     {
       "added_at": "2025-12-22 17:09:10",
@@ -847,22 +847,6 @@
     {
       "added_at": "2025-12-22 17:09:10",
       "album": {
-        "name": "SZ\u00d3LNI KELL",
-        "url": "https://open.spotify.com/album/47JjFF1Xmb9vnGFSLbTV1l"
-      },
-      "artists": [
-        {
-          "name": "HIPERKARMA",
-          "url": "https://open.spotify.com/artist/3I4YFS0OzOA9yDOu0hcGqs"
-        }
-      ],
-      "duration_ms": 223386,
-      "name": "KICSIKE F\u00c9NY",
-      "url": "https://open.spotify.com/track/0zSJD8hIVRARlAXr6zLnWb"
-    },
-    {
-      "added_at": "2025-12-22 17:09:10",
-      "album": {
         "name": "IM\u00c1G\u00d3",
         "url": "https://open.spotify.com/album/6a7Dw3UNp2o57zyLn2vFeQ"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 185142,
       "name": "\u00dcDV A KLUBBAN",
       "url": "https://open.spotify.com/track/6lqGo3OzCYhPGIX4IRZYDT"
+    },
+    {
+      "added_at": "2025-12-22 17:09:10",
+      "album": {
+        "name": "SZ\u00d3LNI KELL",
+        "url": "https://open.spotify.com/album/47JjFF1Xmb9vnGFSLbTV1l"
+      },
+      "artists": [
+        {
+          "name": "HIPERKARMA",
+          "url": "https://open.spotify.com/artist/3I4YFS0OzOA9yDOu0hcGqs"
+        }
+      ],
+      "duration_ms": 223386,
+      "name": "KICSIKE F\u00c9NY",
+      "url": "https://open.spotify.com/track/0zSJD8hIVRARlAXr6zLnWb"
     },
     {
       "added_at": "2025-12-22 17:09:10",
@@ -895,22 +895,6 @@
     {
       "added_at": "2025-12-22 17:09:10",
       "album": {
-        "name": "Boh\u00e9m Himnusz",
-        "url": "https://open.spotify.com/album/1XOL9ld2JEiXfuMp9oKtn6"
-      },
-      "artists": [
-        {
-          "name": "ajsa luna",
-          "url": "https://open.spotify.com/artist/0PmmEd4m9BdqzxjMpMQwJE"
-        }
-      ],
-      "duration_ms": 197052,
-      "name": "Boh\u00e9m Himnusz",
-      "url": "https://open.spotify.com/track/1efQhXRuD8NvlWjGrBl1X7"
-    },
-    {
-      "added_at": "2025-12-22 17:09:10",
-      "album": {
         "name": "hov\u00e1sz\u00f6kt\u00e9l?",
         "url": "https://open.spotify.com/album/6ozRjx8jd0Iddux3HxqWhL"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 132000,
       "name": "hov\u00e1sz\u00f6kt\u00e9l?",
       "url": "https://open.spotify.com/track/3Dp1DSaQEVU9HP7nZM2Ne3"
+    },
+    {
+      "added_at": "2025-12-22 17:09:10",
+      "album": {
+        "name": "Boh\u00e9m Himnusz",
+        "url": "https://open.spotify.com/album/1XOL9ld2JEiXfuMp9oKtn6"
+      },
+      "artists": [
+        {
+          "name": "ajsa luna",
+          "url": "https://open.spotify.com/artist/0PmmEd4m9BdqzxjMpMQwJE"
+        }
+      ],
+      "duration_ms": 197052,
+      "name": "Boh\u00e9m Himnusz",
+      "url": "https://open.spotify.com/track/1efQhXRuD8NvlWjGrBl1X7"
     },
     {
       "added_at": "2025-12-22 17:09:10",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2025-12-22 17:09:10",
       "album": {
-        "name": "Holnapt\u00f3l",
-        "url": "https://open.spotify.com/album/3SsL4cNOFjtFq0UZ9kalkE"
-      },
-      "artists": [
-        {
-          "name": "Moln\u00e1r Tam\u00e1s",
-          "url": "https://open.spotify.com/artist/50ktSO1tNyaOAn7mC2lOWm"
-        },
-        {
-          "name": "Filo",
-          "url": "https://open.spotify.com/artist/2pWeXE1GbI1qweHZHZi4Ee"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Holnapt\u00f3l",
-      "url": "https://open.spotify.com/track/0e3U5Dd7IMcMAamZn4C9eK"
-    },
-    {
-      "added_at": "2025-12-22 17:09:10",
-      "album": {
         "name": "A sz\u00edv vezet",
         "url": "https://open.spotify.com/album/5kVYf3Gm7wgk1F7Jjcm3Lm"
       },
@@ -1107,6 +1087,26 @@
       "duration_ms": 166000,
       "name": "A sz\u00edv vezet",
       "url": "https://open.spotify.com/track/4DYbJ4osRQVvzr5Stzq22q"
+    },
+    {
+      "added_at": "2025-12-22 17:09:10",
+      "album": {
+        "name": "Holnapt\u00f3l",
+        "url": "https://open.spotify.com/album/3SsL4cNOFjtFq0UZ9kalkE"
+      },
+      "artists": [
+        {
+          "name": "Moln\u00e1r Tam\u00e1s",
+          "url": "https://open.spotify.com/artist/50ktSO1tNyaOAn7mC2lOWm"
+        },
+        {
+          "name": "Filo",
+          "url": "https://open.spotify.com/artist/2pWeXE1GbI1qweHZHZi4Ee"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Holnapt\u00f3l",
+      "url": "https://open.spotify.com/track/0e3U5Dd7IMcMAamZn4C9eK"
     },
     {
       "added_at": "2025-12-22 17:09:10",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2025-12-22 17:09:10",
       "album": {
-        "name": "Szob\u00e1k felett",
-        "url": "https://open.spotify.com/album/5LiXOFGCIm4rXVEclWrsmB"
-      },
-      "artists": [
-        {
-          "name": "Fi\u00fak",
-          "url": "https://open.spotify.com/artist/18sTF3DgwshbIZU9vdghG7"
-        }
-      ],
-      "duration_ms": 232293,
-      "name": "Alb\u00e9rlet",
-      "url": "https://open.spotify.com/track/0LxmBrcAbrGY9Z1kNZChic"
-    },
-    {
-      "added_at": "2025-12-22 17:09:10",
-      "album": {
         "name": "Elment\u00e9l",
         "url": "https://open.spotify.com/album/2WAes5Sxq4lx2GpnBBONKI"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 284368,
       "name": "Elment\u00e9l",
       "url": "https://open.spotify.com/track/1o4NsoVgFIl7CjHLDT9mBM"
+    },
+    {
+      "added_at": "2025-12-22 17:09:10",
+      "album": {
+        "name": "Szob\u00e1k felett",
+        "url": "https://open.spotify.com/album/5LiXOFGCIm4rXVEclWrsmB"
+      },
+      "artists": [
+        {
+          "name": "Fi\u00fak",
+          "url": "https://open.spotify.com/artist/18sTF3DgwshbIZU9vdghG7"
+        }
+      ],
+      "duration_ms": 232293,
+      "name": "Alb\u00e9rlet",
+      "url": "https://open.spotify.com/track/0LxmBrcAbrGY9Z1kNZChic"
     },
     {
       "added_at": "2025-12-22 17:09:10",
@@ -1291,22 +1291,22 @@
     {
       "added_at": "2025-12-22 17:09:10",
       "album": {
-        "name": "Kikopog\u00f3",
-        "url": "https://open.spotify.com/album/2HyjyVu57edO84FnE4ft5R"
+        "name": "Engem szeretni neh\u00e9z",
+        "url": "https://open.spotify.com/album/0xzTy11q0KuvPg9roMMRhP"
       },
       "artists": [
         {
-          "name": "zoltai",
-          "url": "https://open.spotify.com/artist/0uxdFEN5kgJvlafRTu7LSo"
+          "name": "Wolf Kati",
+          "url": "https://open.spotify.com/artist/014QBBl8y5KESIV292Qo3r"
         },
         {
-          "name": "Indigo",
-          "url": "https://open.spotify.com/artist/7JpalwREu08h1nkdkmh2ZA"
+          "name": "Wolf Kati Band",
+          "url": "https://open.spotify.com/artist/3Cvyg69e41F3yGom7an5H8"
         }
       ],
-      "duration_ms": 154488,
-      "name": "Kikopog\u00f3",
-      "url": "https://open.spotify.com/track/2RsQLGX0qF0YTtWq5JNWuw"
+      "duration_ms": 242803,
+      "name": "Engem szeretni neh\u00e9z",
+      "url": "https://open.spotify.com/track/4Mamklib5ugFYkndshmeif"
     },
     {
       "added_at": "2025-12-22 17:09:10",
@@ -1335,22 +1335,38 @@
     {
       "added_at": "2025-12-22 17:09:10",
       "album": {
-        "name": "Engem szeretni neh\u00e9z",
-        "url": "https://open.spotify.com/album/0xzTy11q0KuvPg9roMMRhP"
+        "name": "Kikopog\u00f3",
+        "url": "https://open.spotify.com/album/2HyjyVu57edO84FnE4ft5R"
       },
       "artists": [
         {
-          "name": "Wolf Kati",
-          "url": "https://open.spotify.com/artist/014QBBl8y5KESIV292Qo3r"
+          "name": "zoltai",
+          "url": "https://open.spotify.com/artist/0uxdFEN5kgJvlafRTu7LSo"
         },
         {
-          "name": "Wolf Kati Band",
-          "url": "https://open.spotify.com/artist/3Cvyg69e41F3yGom7an5H8"
+          "name": "Indigo",
+          "url": "https://open.spotify.com/artist/7JpalwREu08h1nkdkmh2ZA"
         }
       ],
-      "duration_ms": 242803,
-      "name": "Engem szeretni neh\u00e9z",
-      "url": "https://open.spotify.com/track/4Mamklib5ugFYkndshmeif"
+      "duration_ms": 154488,
+      "name": "Kikopog\u00f3",
+      "url": "https://open.spotify.com/track/2RsQLGX0qF0YTtWq5JNWuw"
+    },
+    {
+      "added_at": "2025-12-22 17:09:10",
+      "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/32wzMd5KnDN0BkArhepXqH"
+      },
+      "artists": [
+        {
+          "name": "30Y",
+          "url": "https://open.spotify.com/artist/3uLh2gv7vN8sZ5rAPdCBE9"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "kavicsok k\u00f6vek",
+      "url": "https://open.spotify.com/track/0awKUATA6B9xzGvnLQn3k7"
     },
     {
       "added_at": "2025-12-22 17:09:10",
@@ -1371,18 +1387,22 @@
     {
       "added_at": "2025-12-22 17:09:10",
       "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/32wzMd5KnDN0BkArhepXqH"
+        "name": "Goly\u00f3\u00e1ll\u00f3",
+        "url": "https://open.spotify.com/album/3fnEMhFvAE1jWzJZyGhkm9"
       },
       "artists": [
         {
-          "name": "30Y",
-          "url": "https://open.spotify.com/artist/3uLh2gv7vN8sZ5rAPdCBE9"
+          "name": "Szlimmy",
+          "url": "https://open.spotify.com/artist/5rNkX3yvQhR4BBN11HVTJY"
+        },
+        {
+          "name": "DO\u00d3R",
+          "url": "https://open.spotify.com/artist/2HVId5fHUsUJhDGXhU4Q5o"
         }
       ],
-      "duration_ms": 166000,
-      "name": "kavicsok k\u00f6vek",
-      "url": "https://open.spotify.com/track/0awKUATA6B9xzGvnLQn3k7"
+      "duration_ms": 185124,
+      "name": "Goly\u00f3\u00e1ll\u00f3",
+      "url": "https://open.spotify.com/track/7vF69V0FuxVa0TLslxdc8i"
     },
     {
       "added_at": "2025-12-22 17:09:10",
@@ -1415,22 +1435,6 @@
       "duration_ms": 182000,
       "name": "Szeressetek",
       "url": "https://open.spotify.com/track/1BYWwi0ELFixwltwVVizoQ"
-    },
-    {
-      "added_at": "2025-12-22 17:09:10",
-      "album": {
-        "name": "ART\u016aR RAMBO",
-        "url": "https://open.spotify.com/album/0WmKgFKeU9U0gXSIvwH93F"
-      },
-      "artists": [
-        {
-          "name": "Art\u016br Rambo",
-          "url": "https://open.spotify.com/artist/6ojhS7hjck7Lztk5mHagHe"
-        }
-      ],
-      "duration_ms": 167919,
-      "name": "Berill (r\u00e9vbe t\u00e9vedt r\u00e9szeg haj\u00f3)",
-      "url": "https://open.spotify.com/track/1SFKC25KCAaqUxyvESkxiS"
     }
   ],
   "unique_name": "Nemazapop",

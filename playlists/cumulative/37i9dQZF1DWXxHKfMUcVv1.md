@@ -4,7 +4,7 @@
 
 > Música refrescante, para vencer el calor.
 
-97 songs - 5 hr 37 min
+98 songs - 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Cada Día](https://open.spotify.com/track/28raHTrN34eAYiZfXzVcwb) | [Kchiporros](https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ), [Emiliano Brancciari](https://open.spotify.com/artist/6Xdjhy4MawcCmBq5MYM5N8) | [Sr\. Pombero](https://open.spotify.com/album/0iOmkDSi03jHzBSAZV9t5D) | 3:34 | 2023-11-24 | 2024-04-19 |
 | [Cada Día \(Remix\)](https://open.spotify.com/track/1lKNmBOSyWe8wGQEAQ2nVl) | [Monks & Flags](https://open.spotify.com/artist/5BR8MvZtoOFuqJl7FCiQma), [Kchiporros](https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ) | [Cada Día \(Remix\)](https://open.spotify.com/album/5tXhrjibrsDLQxoyEVKoeR) | 4:15 | 2024-06-13 |  |
 | [Campanas en la Noche](https://open.spotify.com/track/0C9V5jMElp7laZZdsCHufD) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt) | [Armando Camaleón](https://open.spotify.com/album/1d8IGsUrIw7cXqFcwUM5pP) | 3:57 | 2023-11-24 |  |
+| [Che Sy](https://open.spotify.com/track/4d61YorydP02IvnTKDdqfb) | [Tierra Adentro](https://open.spotify.com/artist/0mYFlsYXbyTD5gmNnw3pO4), [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Che Sy](https://open.spotify.com/album/09rVUsgxfGU4WThZDYvW8U) | 2:50 | 2025-03-14 |  |
 | [Cinco Minutos](https://open.spotify.com/track/7Ihrw9IeHLBs9xiGJiSmAM) | [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Sentimientos Encontrados](https://open.spotify.com/album/28VLJjvWgWvYfd4gDjWtQm) | 3:31 | 2023-11-24 |  |
 | [Corazón](https://open.spotify.com/track/7gt6pwqf6YuDT1zeuiSuSU) | [Cumbia Juan](https://open.spotify.com/artist/0RvwiHVv0BAFFw9jeNzHGL) | [Revolution](https://open.spotify.com/album/1YWjYbZUVDXgnUqa7MSaWE) | 3:15 | 2023-11-24 | 2025-05-03 |
 | [Cuatro Palabras](https://open.spotify.com/track/0akL7hcVP5I27IlqVohxfV) | [Guardianes Del Amor](https://open.spotify.com/artist/3NLDQVyI2LVtQFJt8JeAAx) | [Corazón Romántico..\. Los Exitos](https://open.spotify.com/album/2LyD3u4jVvV63cjUsmWkZ3) | 3:42 | 2023-11-24 |  |
@@ -70,7 +71,7 @@
 | [Perdi mi amor](https://open.spotify.com/track/0JbUojx7kyiv7tSPxICWTx) | [Andy El Unico](https://open.spotify.com/artist/4I40qR0RmdYmHV9rDxCQla) | [Loco](https://open.spotify.com/album/3Il6rnmvc0ruO44K5uxxKp) | 3:43 | 2023-11-24 | 2024-04-19 |
 | [Pobre De Mis Ojos](https://open.spotify.com/track/22vlaPIylFwBjlsqIVDNHC) | [Noa \- Noa](https://open.spotify.com/artist/2CZXBNQi0AcQUVeYVexnc7) | [Olvídame Si Puedes](https://open.spotify.com/album/07k20XjUo2eH3ehAjTNZ7H) | 3:18 | 2023-11-24 | 2024-04-19 |
 | [Porque Te Vas](https://open.spotify.com/track/0zZTDvd4QeWd4PHrEXNQ8T) | [Japiaguar](https://open.spotify.com/artist/3yj43IXk2ADWZ9y6Q2oRMK) | [Porque Te Vas](https://open.spotify.com/album/35bkjlH5s7kSayeSJGDAju) | 2:33 | 2025-03-14 | 2025-05-12 |
-| [Que Divague](https://open.spotify.com/track/1rTMJXNamvqh1RAXtxnZl2) | [S.K.A.](https://open.spotify.com/artist/2B6qVLhfygNbT1MYgbyPyh) | [Auténtico Rock\. Grandes Éxitos del Rock Paraguayo](https://open.spotify.com/album/5A7nxCzhDKu4dLQsFI5QOJ) | 4:05 | 2024-06-13 |  |
+| [Que Divague](https://open.spotify.com/track/1rTMJXNamvqh1RAXtxnZl2) | [S.K.A.](https://open.spotify.com/artist/2B6qVLhfygNbT1MYgbyPyh) | [Auténtico Rock\. Grandes Éxitos del Rock Paraguayo](https://open.spotify.com/album/5A7nxCzhDKu4dLQsFI5QOJ) | 4:05 | 2024-06-13 | 2025-12-26 |
 | [Que Levante La Mano](https://open.spotify.com/track/36TIklA7o1T0eXS83n1amI) | [Los Angeles De Charly](https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL) | [Te Voy A Enamorar](https://open.spotify.com/album/2vnk3clo4g2pmzD2P5QaDp) | 3:50 | 2023-11-24 |  |
 | [Que Loco Amor](https://open.spotify.com/track/51LmGYcyw9WRnR2zopCF2C) | [Cumbia Juan](https://open.spotify.com/artist/0RvwiHVv0BAFFw9jeNzHGL) | [Revolution](https://open.spotify.com/album/1YWjYbZUVDXgnUqa7MSaWE) | 3:23 | 2023-11-24 | 2025-04-16 |
 | [Quiero Que Sepas](https://open.spotify.com/track/2rXTonSdSG5HjIn2wLRT5h) | [Los Verduleros](https://open.spotify.com/artist/5yTrVUubgntK5Gxzrr3cz3) | [Greatest Hits](https://open.spotify.com/album/2xumgy1DDUx42GA14uMogt) | 3:43 | 2023-11-24 | 2025-06-01 |

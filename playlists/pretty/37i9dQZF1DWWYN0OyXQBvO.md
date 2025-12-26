@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWYN0OyXQBvO.md) - [plain]
 
 > The world deserves a better ending\. Listen to the music from Fallout, the hit video game and epic Prime Video series.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,318 likes - 88 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,087 likes - 88 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

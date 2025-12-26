@@ -4,7 +4,7 @@
 
 > Koleksi lagu tersayang dari para artis negeri jiran\. Cover: Meet Uncle Hussain, Adi Priyo
 
-125 songs - 8 hr 35 min
+126 songs - 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Disebut Jangan Dikenang Jangan](https://open.spotify.com/track/4nuUpXxTPDvqJmKEb69oEW) | [Aishah](https://open.spotify.com/artist/4YSKGMF40IgP6ouU5jbhnb) | [Disebut Jangan Dikenang Jangan](https://open.spotify.com/album/049BoEvbGWb4fXDQAhgha7) | 3:44 | 2024-11-14 | 2024-11-30 |
 | [Dusta](https://open.spotify.com/track/7hI9NbjM8MK3ZegrTCpLgt) | [Ukays](https://open.spotify.com/artist/7y3tizrdDAAfh7BWCYLXcI) | [Dusta](https://open.spotify.com/album/0L2BSiF3Zq82ayk5Yt08pE) | 4:15 | 2024-09-27 | 2024-10-18 |
 | [Firasat](https://open.spotify.com/track/3cHjFfvxo7ZIz9Px32V9aA) | [Marcell](https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk) | [Marcell](https://open.spotify.com/album/5hSfmtI2yqt541RTjuC8TU) | 4:07 | 2024-11-29 |  |
+| [Gerimis Mengundang](https://open.spotify.com/track/0uoL9b2NPoSq8bXjD31pWy) | [Slam](https://open.spotify.com/artist/6ZK1l84rj8SLSn2tXVgCsf) | [Rindiani](https://open.spotify.com/album/3aSrDhdhPEsGwiXm53uDMu) | 5:24 | 2024-11-29 |  |
 | [Gila Kuasa](https://open.spotify.com/track/238lp3Oabvp5UxygKfP8cw) | [Pop Shuvit](https://open.spotify.com/artist/0iQ4UvqTfRPoNioVeQLa0W), [Noh Salleh](https://open.spotify.com/artist/4fVYwG8RsbJsREFFniszhf) | [GILA KUASA](https://open.spotify.com/album/6RA1f4vPGw6fSpKXOqmBtI) | 3:40 | 2024-08-15 | 2024-08-24 |
 | [Hanya Aku](https://open.spotify.com/track/0hlZ8daapg8QHpHsDyaqbg) | [Hyper Act](https://open.spotify.com/artist/0zo8fkOQyrawuBfIhy99jb) | [Impian](https://open.spotify.com/album/1rGFUVZxs41YwTvWv0q0Xt) | 3:20 | 2024-08-15 |  |
 | [Hanya Kau Yang Mampu](https://open.spotify.com/track/4HFP0A7i6NIOscKVdilus2) | [Aizat Amdan](https://open.spotify.com/artist/2sS4H2xFvWaxaixeVZC4Vu) | [Percubaan Pertama](https://open.spotify.com/album/4KirOg5DKkGSOE8PWr15YT) | 4:13 | 2024-06-21 |  |
@@ -58,7 +59,7 @@
 | [Jikalau Kau Cinta](https://open.spotify.com/track/29gdEEyeHC9ypmvQkohY4N) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Judika](https://open.spotify.com/album/1h2elFGPiDYv69SXWwLjkr) | 4:02 | 2024-01-12 |  |
 | [Jodoh Pasti Bertemu](https://open.spotify.com/track/4RO9HkL5gStGYDofw0QWDX) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Live to Love](https://open.spotify.com/album/3eWu0wNs9ltvXghDHMhHQK) | 4:05 | 2024-01-12 | 2025-08-28 |
 | [Kamu Yang Kutunggu](https://open.spotify.com/track/6RxfiwKHEUCWSR7vRE4b5g) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp) | [Love, Life & Music](https://open.spotify.com/album/427i70YCWKnkDAvvHjsxMp) | 4:14 | 2024-01-12 | 2025-08-21 |
-| [Kamulah Satu \- Satunya](https://open.spotify.com/track/6pCfc6xxUXYBWLMQhIWDmh) | [Dewa 19](https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d) | [The Best of Dewa 19](https://open.spotify.com/album/2AYCO1vDSYRYnlu7tK6ZcS) | 4:01 | 2024-01-12 |  |
+| [Kamulah Satu \- Satunya](https://open.spotify.com/track/6pCfc6xxUXYBWLMQhIWDmh) | [Dewa 19](https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d) | [The Best of Dewa 19](https://open.spotify.com/album/2AYCO1vDSYRYnlu7tK6ZcS) | 4:01 | 2024-01-12 | 2025-12-26 |
 | [Kangen](https://open.spotify.com/track/3ZyMRe0jlSqffPBMeHUZFX) | [Dewa 19](https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d) | [The 2000's Greatest](https://open.spotify.com/album/2hwNRtZyqmEcCzV47OUAlN) | 5:00 | 2024-01-12 |  |
 | [Karena Kamu](https://open.spotify.com/track/5UHnOvi0XFvwY8ege9DNdD) | [Geisha](https://open.spotify.com/artist/3txNoNUfBAHT1ZSGT2R30y) | [Meraih Bintang](https://open.spotify.com/album/4PO8qNb2v8Xef5ixuWZTRL) | 3:54 | 2024-01-12 | 2024-08-27 |
 | [Kasih Putih](https://open.spotify.com/track/3Qiv7UhkqYeBExD6gZ1m3k) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Glenn Fredly](https://open.spotify.com/artist/4rUYk0fV0Z4pOtwVbEAyK9) | [Kembali](https://open.spotify.com/album/7c9NuorRkB2t9ioSaRucBx) | 3:57 | 2024-11-29 |  |

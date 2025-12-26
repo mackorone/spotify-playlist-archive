@@ -1,12 +1,12 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 24 Dec 19:04 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 26 Dec 04:04 UTC.",
   "num_followers": 102,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAWzZynGQYtuwAXVy1+ss/y3lrtnbw1",
+  "snapshot_id": "AAAW0XaCLwuZBKMdPwNsoSPHDS7JjL9p",
   "tracks": [
     {
       "added_at": "2025-12-24 19:04:32",
@@ -55,6 +55,22 @@
       "duration_ms": 213000,
       "name": "B\u0118D\u0118 PREZYDENTEM :)",
       "url": "https://open.spotify.com/track/1yWCdDFV6kdML8EeUpyzhd"
+    },
+    {
+      "added_at": "2025-12-25 23:04:36",
+      "album": {
+        "name": "Saucin'",
+        "url": "https://open.spotify.com/album/5y364Kj24BuuitP830bMnM"
+      },
+      "artists": [
+        {
+          "name": "LNGSHOT",
+          "url": "https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6"
+        }
+      ],
+      "duration_ms": 173041,
+      "name": "Saucin'",
+      "url": "https://open.spotify.com/track/7jVr1ZipYJJR4qHxZcQjqa"
     },
     {
       "added_at": "2025-12-20 19:04:08",
@@ -151,6 +167,22 @@
       "duration_ms": 108993,
       "name": "Walk to me",
       "url": "https://open.spotify.com/track/1vv0xkgcZ4irTApTzUETpu"
+    },
+    {
+      "added_at": "2025-12-26 04:04:15",
+      "album": {
+        "name": "Heatseeker",
+        "url": "https://open.spotify.com/album/51lJnN3mM25T589JrbEt5z"
+      },
+      "artists": [
+        {
+          "name": "Creo",
+          "url": "https://open.spotify.com/artist/7oh6gwRCYhambO8qcKh3T1"
+        }
+      ],
+      "duration_ms": 205609,
+      "name": "Heatseeker",
+      "url": "https://open.spotify.com/track/4P4fiSeJol4XTq5yGTo2Fs"
     },
     {
       "added_at": "2025-12-19 09:04:31",
@@ -799,38 +831,6 @@
       "duration_ms": 179830,
       "name": "HARD2TELL",
       "url": "https://open.spotify.com/track/4hOjT0UtqEMGbAEukb84zR"
-    },
-    {
-      "added_at": "2025-12-12 14:06:25",
-      "album": {
-        "name": "Superluminal",
-        "url": "https://open.spotify.com/album/6FPhibUXT8Y0f6RwfKJUII"
-      },
-      "artists": [
-        {
-          "name": "Au5",
-          "url": "https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF"
-        }
-      ],
-      "duration_ms": 328890,
-      "name": "Superluminal",
-      "url": "https://open.spotify.com/track/4DGpTIyJgbxL5k3Ka5GqOe"
-    },
-    {
-      "added_at": "2025-12-06 19:04:53",
-      "album": {
-        "name": "Glitter",
-        "url": "https://open.spotify.com/album/3ISicmxJuaKEZEbKDJuOdo"
-      },
-      "artists": [
-        {
-          "name": "Eli",
-          "url": "https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1"
-        }
-      ],
-      "duration_ms": 191803,
-      "name": "Glitter",
-      "url": "https://open.spotify.com/track/0y9S3dw1MBzHqmTpMTTd0M"
     }
   ],
   "unique_name": "New Singles Now",

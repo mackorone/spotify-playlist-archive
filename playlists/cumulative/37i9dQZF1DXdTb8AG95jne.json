@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: \ub098\uc7a0 \uc218, \ubb38\uc120) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: \uc720\ub77c (youra)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "tracks": [
     {
@@ -302,6 +302,24 @@
       "duration_ms": 204250,
       "name": "15 Years Old",
       "url": "https://open.spotify.com/track/1ksJA4Yme39NKgn82SvLsp"
+    },
+    {
+      "album": {
+        "name": "1993",
+        "url": "https://open.spotify.com/album/20UAantLyOICNDYJTbX1rt"
+      },
+      "artists": [
+        {
+          "name": "youra",
+          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
+        }
+      ],
+      "date_added": "2025-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "1993",
+      "url": "https://open.spotify.com/track/64JnIJP3R8v4WYXYNFINyI"
     },
     {
       "album": {
@@ -11182,7 +11200,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 196000,
       "name": "Love me private",
       "url": "https://open.spotify.com/track/6IjrtcCPJ2m19zXoutpYsF"

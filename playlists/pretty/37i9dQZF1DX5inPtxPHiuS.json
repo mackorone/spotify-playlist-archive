@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Pirineos en Llamas",
-  "num_followers": 87720,
+  "num_followers": 87725,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,22 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
+        "name": "Inflammable",
+        "url": "https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al"
+      },
+      "artists": [
+        {
+          "name": "Skampida",
+          "url": "https://open.spotify.com/artist/2gFTHPd5iboV0IvQgsATno"
+        }
+      ],
+      "duration_ms": 171693,
+      "name": "La Manifestacion",
+      "url": "https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
         "name": "Nada que hablar (feat. Aterciopelados)",
         "url": "https://open.spotify.com/album/3NJno867gz0ZuAy8td5pRm"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 205180,
       "name": "Nada que hablar (feat. Aterciopelados)",
       "url": "https://open.spotify.com/track/7tHQZ9Wbb8dI4ldZBaKfaw"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
-        "name": "Inflammable",
-        "url": "https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al"
-      },
-      "artists": [
-        {
-          "name": "Skampida",
-          "url": "https://open.spotify.com/artist/2gFTHPd5iboV0IvQgsATno"
-        }
-      ],
-      "duration_ms": 171693,
-      "name": "La Manifestacion",
-      "url": "https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -331,22 +331,6 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
-        "name": "Castillos de Arena",
-        "url": "https://open.spotify.com/album/6ufTtCn7TfxmFDrcxLNXoB"
-      },
-      "artists": [
-        {
-          "name": "Don Tetto",
-          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
-        }
-      ],
-      "duration_ms": 196437,
-      "name": "Punto Final",
-      "url": "https://open.spotify.com/track/56YcLUmZ3d7cJOxOin7y9A"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
         "name": "Anaranjado, Pt. 1",
         "url": "https://open.spotify.com/album/12j02XXjXMDjZoqCSqmoKt"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 276986,
       "name": "Cielo",
       "url": "https://open.spotify.com/track/4GGLQlWCSbVlbBiWxeqzTz"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
+        "name": "Castillos de Arena",
+        "url": "https://open.spotify.com/album/6ufTtCn7TfxmFDrcxLNXoB"
+      },
+      "artists": [
+        {
+          "name": "Don Tetto",
+          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
+        }
+      ],
+      "duration_ms": 196437,
+      "name": "Punto Final",
+      "url": "https://open.spotify.com/track/56YcLUmZ3d7cJOxOin7y9A"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/7y8YhSMVq5hKIfbb3LdaaW"
-      },
-      "artists": [
-        {
-          "name": "Don Tetto",
-          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
-        }
-      ],
-      "duration_ms": 179239,
-      "name": "Lejos De Aqui",
-      "url": "https://open.spotify.com/track/6nifdAaB5BMc69bzSbLYtV"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
         "name": "Te Valgo",
         "url": "https://open.spotify.com/album/3kmz323e83bfjWbXuRVcAk"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 198545,
       "name": "Te Valgo",
       "url": "https://open.spotify.com/track/6ZaupuaHRssvSlkz9NrD4p"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/7y8YhSMVq5hKIfbb3LdaaW"
+      },
+      "artists": [
+        {
+          "name": "Don Tetto",
+          "url": "https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL"
+        }
+      ],
+      "duration_ms": 179239,
+      "name": "Lejos De Aqui",
+      "url": "https://open.spotify.com/track/6nifdAaB5BMc69bzSbLYtV"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
-        "name": "Mar de Hiladas",
-        "url": "https://open.spotify.com/album/2UPr9Ibhpn9ac91BwqQbku"
-      },
-      "artists": [
-        {
-          "name": "Babelgam",
-          "url": "https://open.spotify.com/artist/7ETpd7f5DgstJtQIuPqlQM"
-        }
-      ],
-      "duration_ms": 212666,
-      "name": "T\u00fanel",
-      "url": "https://open.spotify.com/track/5geCse4zvXqjXBoobaLuRH"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
         "name": "Rock the Casbah",
         "url": "https://open.spotify.com/album/6QdgKWKyU4Ut7MdPynViir"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 210186,
       "name": "Rock the Casbah",
       "url": "https://open.spotify.com/track/2qEd8UUUa8tgqBLKh2ojHh"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
+        "name": "Mar de Hiladas",
+        "url": "https://open.spotify.com/album/2UPr9Ibhpn9ac91BwqQbku"
+      },
+      "artists": [
+        {
+          "name": "Babelgam",
+          "url": "https://open.spotify.com/artist/7ETpd7f5DgstJtQIuPqlQM"
+        }
+      ],
+      "duration_ms": 212666,
+      "name": "T\u00fanel",
+      "url": "https://open.spotify.com/track/5geCse4zvXqjXBoobaLuRH"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -791,6 +791,22 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
+        "name": "Solo t\u00fa",
+        "url": "https://open.spotify.com/album/4x11yXJ8tg1D9tnY2DII65"
+      },
+      "artists": [
+        {
+          "name": "APOLO 7",
+          "url": "https://open.spotify.com/artist/322BLVw40Mq2hWHxGLykr6"
+        }
+      ],
+      "duration_ms": 247392,
+      "name": "Solo t\u00fa",
+      "url": "https://open.spotify.com/track/5WyavosRBdYVkapSLgqGC4"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
         "name": "Perro Come Perro",
         "url": "https://open.spotify.com/album/7Bww9cUgtmlbdXpkSWp67A"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 197334,
       "name": "Perro Come Perro",
       "url": "https://open.spotify.com/track/6yFINQXuZLwCLgfHCtv2sv"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
-        "name": "Solo t\u00fa",
-        "url": "https://open.spotify.com/album/4x11yXJ8tg1D9tnY2DII65"
-      },
-      "artists": [
-        {
-          "name": "APOLO 7",
-          "url": "https://open.spotify.com/artist/322BLVw40Mq2hWHxGLykr6"
-        }
-      ],
-      "duration_ms": 247392,
-      "name": "Solo t\u00fa",
-      "url": "https://open.spotify.com/track/5WyavosRBdYVkapSLgqGC4"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
-        "name": "M\u00e1s All\u00e1 del Tiempo",
-        "url": "https://open.spotify.com/album/2R2RPZT6Tor9gDv5hOFw8m"
-      },
-      "artists": [
-        {
-          "name": "Los Rolling Ruanas",
-          "url": "https://open.spotify.com/artist/1XPFAsXCMflKBKZuNIkru3"
-        }
-      ],
-      "duration_ms": 217640,
-      "name": "M\u00e1s All\u00e1 del Tiempo",
-      "url": "https://open.spotify.com/track/4YgKvNZkRFu7jcB36DsIO5"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
         "name": "Madre Tierra",
         "url": "https://open.spotify.com/album/6hfC8pQP0TYzJD9xd9EKSF"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 212660,
       "name": "Madre Tierra",
       "url": "https://open.spotify.com/track/1Nm64MdvvkfjwIntgflE17"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
+        "name": "M\u00e1s All\u00e1 del Tiempo",
+        "url": "https://open.spotify.com/album/2R2RPZT6Tor9gDv5hOFw8m"
+      },
+      "artists": [
+        {
+          "name": "Los Rolling Ruanas",
+          "url": "https://open.spotify.com/artist/1XPFAsXCMflKBKZuNIkru3"
+        }
+      ],
+      "duration_ms": 217640,
+      "name": "M\u00e1s All\u00e1 del Tiempo",
+      "url": "https://open.spotify.com/track/4YgKvNZkRFu7jcB36DsIO5"
     },
     {
       "added_at": "2024-09-20 08:27:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-09-20 08:27:00",
       "album": {
-        "name": "Todo Se Olvida",
-        "url": "https://open.spotify.com/album/7IiH1HtllaGle5PNAgZDOU"
-      },
-      "artists": [
-        {
-          "name": "Arrabalero",
-          "url": "https://open.spotify.com/artist/51gZ0KnXKT356BUJihiQCj"
-        }
-      ],
-      "duration_ms": 272999,
-      "name": "Todo Se Olvida",
-      "url": "https://open.spotify.com/track/5picMImS7FTOFGovnF8YFg"
-    },
-    {
-      "added_at": "2024-09-20 08:27:00",
-      "album": {
         "name": "Corriente",
         "url": "https://open.spotify.com/album/42VngVGNzCECnvcyUXsPxY"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 301863,
       "name": "Corriente",
       "url": "https://open.spotify.com/track/5Mm4TsFJwZd8PRoef7w21l"
+    },
+    {
+      "added_at": "2024-09-20 08:27:00",
+      "album": {
+        "name": "Todo Se Olvida",
+        "url": "https://open.spotify.com/album/7IiH1HtllaGle5PNAgZDOU"
+      },
+      "artists": [
+        {
+          "name": "Arrabalero",
+          "url": "https://open.spotify.com/artist/51gZ0KnXKT356BUJihiQCj"
+        }
+      ],
+      "duration_ms": 272999,
+      "name": "Todo Se Olvida",
+      "url": "https://open.spotify.com/track/5picMImS7FTOFGovnF8YFg"
     },
     {
       "added_at": "2024-09-20 08:27:00",

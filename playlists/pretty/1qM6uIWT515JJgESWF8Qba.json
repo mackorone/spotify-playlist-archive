@@ -1,12 +1,12 @@
 {
   "description": "It&#x27;s 5 o&#x27;clock somewhere and best believe there&#x27;s a local band there ready to rock when the sun goes down.",
-  "num_followers": 268,
+  "num_followers": 271,
   "original_name": "Local Rock Bands",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAA5+77sHdEJZa+nZqEczEz0hYh3uXk",
+  "snapshot_id": "AAAA6bKo3MmfR9KmI9sncVdiwROWlofn",
   "tracks": [
     {
       "added_at": "2025-09-16 13:19:37",
@@ -1575,6 +1575,38 @@
       "duration_ms": 231040,
       "name": "Moonlight In Her Eyes",
       "url": "https://open.spotify.com/track/0WacSaEiYuiKtXbtJIHTQO"
+    },
+    {
+      "added_at": "2025-12-25 20:35:48",
+      "album": {
+        "name": "Plight Goes On",
+        "url": "https://open.spotify.com/album/7C005ZPm1M5yhw4pEWE2lX"
+      },
+      "artists": [
+        {
+          "name": "The Dead Hearts",
+          "url": "https://open.spotify.com/artist/2s9mLTL8FL7NWqACzxXrwO"
+        }
+      ],
+      "duration_ms": 212718,
+      "name": "Away",
+      "url": "https://open.spotify.com/track/2tm4WMB9krMVIFdbKfMw14"
+    },
+    {
+      "added_at": "2025-12-25 23:54:36",
+      "album": {
+        "name": "Sunday Lazy Afternoon",
+        "url": "https://open.spotify.com/album/3LAwyyI6spkmdzMstWDXaB"
+      },
+      "artists": [
+        {
+          "name": "Johnny & The G-Men",
+          "url": "https://open.spotify.com/artist/6rdvPNdq54f4TVhXsabGV6"
+        }
+      ],
+      "duration_ms": 292936,
+      "name": "Sunday Lazy Afternoon",
+      "url": "https://open.spotify.com/track/2o9V82qmpXdcykHrfR168t"
     }
   ],
   "unique_name": "Local Rock Bands",

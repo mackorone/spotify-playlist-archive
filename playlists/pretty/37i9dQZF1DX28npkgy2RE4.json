@@ -1,6 +1,6 @@
 {
   "description": "New styles, deep sounds. Cover: Helado Negro",
-  "num_followers": 419414,
+  "num_followers": 419395,
   "original_name": "Modern Eclectic",
   "owner": {
     "name": "Spotify",
@@ -343,22 +343,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Sapling / Signs Of Life",
-        "url": "https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH"
-      },
-      "artists": [
-        {
-          "name": "Foy Vance",
-          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
-        }
-      ],
-      "duration_ms": 257853,
-      "name": "Sapling",
-      "url": "https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Snowplow",
         "url": "https://open.spotify.com/album/2pvt0zp6tTBZdF1HZ50LsQ"
       },
@@ -379,18 +363,34 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Note to Self",
-        "url": "https://open.spotify.com/album/5rDVO3ROz5CXi1dcr2nWpR"
+        "name": "Sapling / Signs Of Life",
+        "url": "https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH"
       },
       "artists": [
         {
-          "name": "Bre Kennedy",
-          "url": "https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj"
+          "name": "Foy Vance",
+          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
         }
       ],
-      "duration_ms": 242266,
-      "name": "Nothing Compares",
-      "url": "https://open.spotify.com/track/4I97vwuO13zggYHu0WYE7Y"
+      "duration_ms": 257853,
+      "name": "Sapling",
+      "url": "https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Psychos",
+        "url": "https://open.spotify.com/album/0siRBdRYz6ECU6EZArzbx1"
+      },
+      "artists": [
+        {
+          "name": "Jenny Lewis",
+          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+        }
+      ],
+      "duration_ms": 185120,
+      "name": "Psychos",
+      "url": "https://open.spotify.com/track/4CaM2lWgvmWLIBDOkJCD7p"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -411,18 +411,18 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Psychos",
-        "url": "https://open.spotify.com/album/0siRBdRYz6ECU6EZArzbx1"
+        "name": "Note to Self",
+        "url": "https://open.spotify.com/album/5rDVO3ROz5CXi1dcr2nWpR"
       },
       "artists": [
         {
-          "name": "Jenny Lewis",
-          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
+          "name": "Bre Kennedy",
+          "url": "https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj"
         }
       ],
-      "duration_ms": 185120,
-      "name": "Psychos",
-      "url": "https://open.spotify.com/track/4CaM2lWgvmWLIBDOkJCD7p"
+      "duration_ms": 242266,
+      "name": "Nothing Compares",
+      "url": "https://open.spotify.com/track/4I97vwuO13zggYHu0WYE7Y"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -643,22 +643,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 195106,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Stand For Myself",
         "url": "https://open.spotify.com/album/1aF9Xjtg1d1wwsE4hRAkQV"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 228000,
       "name": "Dancing Away In Tears",
       "url": "https://open.spotify.com/track/5PPrN7zj104wLUtAofZvwb"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 195106,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -991,22 +991,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Shape of Silence",
-        "url": "https://open.spotify.com/album/1AXszZKiG6PNSF9wlK5V1W"
-      },
-      "artists": [
-        {
-          "name": "Saint Sister",
-          "url": "https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14"
-        }
-      ],
-      "duration_ms": 200355,
-      "name": "Causing Trouble",
-      "url": "https://open.spotify.com/track/4v8ZF4VDj8OOfECQLm3eFq"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Southern Star",
         "url": "https://open.spotify.com/album/5SoDgEyUeO6DcS88kOuR0d"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 186269,
       "name": "Southern Star",
       "url": "https://open.spotify.com/track/4O6pTiXCFeuLE8fBz3LWGf"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Shape of Silence",
+        "url": "https://open.spotify.com/album/1AXszZKiG6PNSF9wlK5V1W"
+      },
+      "artists": [
+        {
+          "name": "Saint Sister",
+          "url": "https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14"
+        }
+      ],
+      "duration_ms": 200355,
+      "name": "Causing Trouble",
+      "url": "https://open.spotify.com/track/4v8ZF4VDj8OOfECQLm3eFq"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Galacticana",
-        "url": "https://open.spotify.com/album/7qGW8JjT3nz4MC4x3daSZg"
-      },
-      "artists": [
-        {
-          "name": "Strand of Oaks",
-          "url": "https://open.spotify.com/artist/0t4oHObO3FImWvIhMimaSL"
-        }
-      ],
-      "duration_ms": 240733,
-      "name": "Galacticana",
-      "url": "https://open.spotify.com/track/73xmoTyIsGhr2zevMYqa71"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Love Is Selfish",
         "url": "https://open.spotify.com/album/3XzfsUkZx4TCGdchhJBI1A"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 172885,
       "name": "Love Is Selfish",
       "url": "https://open.spotify.com/track/5ZsJidhpJJ4qFhmp5h5oyk"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Galacticana",
+        "url": "https://open.spotify.com/album/7qGW8JjT3nz4MC4x3daSZg"
+      },
+      "artists": [
+        {
+          "name": "Strand of Oaks",
+          "url": "https://open.spotify.com/artist/0t4oHObO3FImWvIhMimaSL"
+        }
+      ],
+      "duration_ms": 240733,
+      "name": "Galacticana",
+      "url": "https://open.spotify.com/track/73xmoTyIsGhr2zevMYqa71"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "In Heaven",
-        "url": "https://open.spotify.com/album/76pQf98XjjF5RZIniiev2d"
-      },
-      "artists": [
-        {
-          "name": "Strand of Oaks",
-          "url": "https://open.spotify.com/artist/0t4oHObO3FImWvIhMimaSL"
-        }
-      ],
-      "duration_ms": 219492,
-      "name": "Sunbathers",
-      "url": "https://open.spotify.com/track/5HKDtUThXMU5XWQLOjfyCo"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "We Watch The Stars",
         "url": "https://open.spotify.com/album/7CDx9LMmJ9cbFlGRK7cmYY"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 225076,
       "name": "We Watch The Stars - Berlin Session",
       "url": "https://open.spotify.com/track/4WhSZZcvtkC6Bn2992AacO"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "In Heaven",
+        "url": "https://open.spotify.com/album/76pQf98XjjF5RZIniiev2d"
+      },
+      "artists": [
+        {
+          "name": "Strand of Oaks",
+          "url": "https://open.spotify.com/artist/0t4oHObO3FImWvIhMimaSL"
+        }
+      ],
+      "duration_ms": 219492,
+      "name": "Sunbathers",
+      "url": "https://open.spotify.com/track/5HKDtUThXMU5XWQLOjfyCo"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "notes to self",
-        "url": "https://open.spotify.com/album/4oZm9dVzOajDU9ATDnJcjU"
-      },
-      "artists": [
-        {
-          "name": "Maria Kelly",
-          "url": "https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV"
-        }
-      ],
-      "duration_ms": 184400,
-      "name": "prelude",
-      "url": "https://open.spotify.com/track/1btCox4dQ6X24ciWGUNRgy"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "We Are Olympians",
         "url": "https://open.spotify.com/album/5KV0wZMvRNqxXLYJOgaIqf"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 297453,
       "name": "Olympians - Acoustic",
       "url": "https://open.spotify.com/track/0d79BhweRgxqySiFBYelDg"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "notes to self",
+        "url": "https://open.spotify.com/album/4oZm9dVzOajDU9ATDnJcjU"
+      },
+      "artists": [
+        {
+          "name": "Maria Kelly",
+          "url": "https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV"
+        }
+      ],
+      "duration_ms": 184400,
+      "name": "prelude",
+      "url": "https://open.spotify.com/track/1btCox4dQ6X24ciWGUNRgy"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Stranger Danger",
-        "url": "https://open.spotify.com/album/2bpaU06D3UgJvJiCWBnWNS"
-      },
-      "artists": [
-        {
-          "name": "Lucius",
-          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
-        }
-      ],
-      "duration_ms": 281880,
-      "name": "Stranger Danger",
-      "url": "https://open.spotify.com/track/6XXk2EZcBg3hbaX2HN8GyA"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "southwest serenade",
         "url": "https://open.spotify.com/album/2JE0tvCz2i37PZIQhJqIdY"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 106250,
       "name": "southwest serenade",
       "url": "https://open.spotify.com/track/1E5QGnoIIwLprR6zOFWkCO"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Stranger Danger",
+        "url": "https://open.spotify.com/album/2bpaU06D3UgJvJiCWBnWNS"
+      },
+      "artists": [
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+        }
+      ],
+      "duration_ms": 281880,
+      "name": "Stranger Danger",
+      "url": "https://open.spotify.com/track/6XXk2EZcBg3hbaX2HN8GyA"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1823,6 +1823,22 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
+        "name": "All Now",
+        "url": "https://open.spotify.com/album/2f8gXFGCNXBRNJ7xdqxQuM"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 270026,
+      "name": "All Now",
+      "url": "https://open.spotify.com/track/7gEQuszu1NiKweV7zOTFr6"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
         "name": "I Want The Door To Open",
         "url": "https://open.spotify.com/album/6x6VGqTPJBK6r3qfuqe2Zl"
       },
@@ -1839,22 +1855,6 @@
       "duration_ms": 170396,
       "name": "Plates",
       "url": "https://open.spotify.com/track/2om26BJOzO9DQEzhPr3WNG"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
-        "name": "All Now",
-        "url": "https://open.spotify.com/album/2f8gXFGCNXBRNJ7xdqxQuM"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 270026,
-      "name": "All Now",
-      "url": "https://open.spotify.com/track/7gEQuszu1NiKweV7zOTFr6"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -2391,6 +2391,22 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/1tvSxaTCXwwBK6vEYnj06T"
+      },
+      "artists": [
+        {
+          "name": "Spiritualized",
+          "url": "https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv"
+        }
+      ],
+      "duration_ms": 232160,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/6SDYoxCRLB3nuaq9mEKpgk"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
         "name": "Home Truths",
         "url": "https://open.spotify.com/album/0gxKWK1zDO0RPD35aab8I7"
       },
@@ -2407,18 +2423,18 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/1tvSxaTCXwwBK6vEYnj06T"
+        "name": "FODDER",
+        "url": "https://open.spotify.com/album/1EddVMg0glN4iWtW9261ll"
       },
       "artists": [
         {
-          "name": "Spiritualized",
-          "url": "https://open.spotify.com/artist/6DKmuXxXASTF6xaJwcTfjv"
+          "name": "Insightful",
+          "url": "https://open.spotify.com/artist/0iq8RFnJPaAzjxStLi9Y9z"
         }
       ],
-      "duration_ms": 232160,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/6SDYoxCRLB3nuaq9mEKpgk"
+      "duration_ms": 248164,
+      "name": "Shores",
+      "url": "https://open.spotify.com/track/7mCBglQEL4tFTjwrrLm5BJ"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -2443,22 +2459,6 @@
       "duration_ms": 279504,
       "name": "All Of The Women [Feat. Sa-Roc] - dim star remix",
       "url": "https://open.spotify.com/track/2YRj7gSXG4lq2jrtuW34i0"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
-        "name": "FODDER",
-        "url": "https://open.spotify.com/album/1EddVMg0glN4iWtW9261ll"
-      },
-      "artists": [
-        {
-          "name": "Insightful",
-          "url": "https://open.spotify.com/artist/0iq8RFnJPaAzjxStLi9Y9z"
-        }
-      ],
-      "duration_ms": 248164,
-      "name": "Shores",
-      "url": "https://open.spotify.com/track/7mCBglQEL4tFTjwrrLm5BJ"
     },
     {
       "added_at": "2025-02-07 05:00:36",

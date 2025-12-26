@@ -4,7 +4,7 @@
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-444 songs - 1 day 1 hr 59 min
+446 songs - 1 day 2 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,8 @@
 | [I'm in love](https://open.spotify.com/track/37n0amZ1Uq2GB1P94U92bE) | [田亞霍](https://open.spotify.com/artist/2gWiiqMQFlfLjYp43IiQit) | [I'm in love](https://open.spotify.com/album/0ZOQhvjG1IIOhR5AG9be3L) | 3:17 | 2022-06-06 | 2022-08-17 |
 | [In Your Eyes](https://open.spotify.com/track/7M3v459EaGs6DiUs8nOOOP) | [同理 Zunya](https://open.spotify.com/artist/3tsoImRDSW4JEcL2CdIUmo), [林茉曦](https://open.spotify.com/artist/1OSIaRRBGsNFVVqc38YSH7) | [In Your Eyes](https://open.spotify.com/album/1aoIEeVj2hpj3YqK6CEvFk) | 4:59 | 2023-11-06 | 2023-12-21 |
 | [Let me love u](https://open.spotify.com/track/4CZaAPfc74YaIPBEMFCKXH) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) | [Take Off \- The 1st Mini Album](https://open.spotify.com/album/7IzPpfu5gInokmyg2rDhRL) | 3:46 | 2022-07-25 |  |
+| [LIKE IT LOVE IT](https://open.spotify.com/track/2P4cC5FsYLCA5iP6AHZfQG) | [Will Pan](https://open.spotify.com/artist/7fCFxj1GCRqwFZEP4iJRw0), [Cyndi Wang](https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP) | [狂愛](https://open.spotify.com/album/33dS3v5pgBdFFdWa19ItzC) | 2:56 | 2025-12-25 |  |
+| [Like U](https://open.spotify.com/track/09gQEPvHLBnYwHoUbPR6XD) | [CIIU](https://open.spotify.com/artist/2CwFC7mvNOoz9exAqCtlJ6) | [Like U](https://open.spotify.com/album/0zc2e0cITiBkJaLKec8Ox8) | 3:10 | 2025-12-25 |  |
 | [Lipstick](https://open.spotify.com/track/0xNt7H35xQGckARubdX2pR) | [Uriah See](https://open.spotify.com/artist/5G22Efave7oHLo9NG4uofT) | [Lipstick](https://open.spotify.com/album/4yJ2xM0pYjViEDZnFwP5PK) | 2:34 | 2022-06-06 | 2022-07-21 |
 | [Little Present](https://open.spotify.com/track/0YWDf9aiF23GCGCmZXteZ3) | [Zooey Wonder](https://open.spotify.com/artist/6VI0p0xTjBKKxQN8i8vGpD) | [Little Present](https://open.spotify.com/album/5n1aatMPEnYrX3KDFcORjE) | 3:45 | 2022-12-19 | 2023-02-03 |
 | [Look at My Way](https://open.spotify.com/track/1qu5B8FbgwKZCLZXTRCrFk) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [Sent](https://open.spotify.com/album/41wLtMsBB3697P5K2KtZsR) | 3:49 | 2023-10-08 | 2023-10-17 |
@@ -285,7 +287,7 @@
 | [我多喜欢你](https://open.spotify.com/track/1ZW6Zxs0a1dFtaaPe8lc94) | [Priscilla Abby](https://open.spotify.com/artist/0zFBdI3ErhNDcIPAKiGoL0), [Jeii Pong庞捷忆](https://open.spotify.com/artist/2BmVlw5akh7VgB728Yq1x2) | [我多喜欢你](https://open.spotify.com/album/13h94ukOHOL68UN2tY8iIQ) | 3:04 | 2022-06-06 | 2022-07-29 |
 | [我多喜歡你,你會知道\(網劇<致我們單純的小美好>推廣曲\)](https://open.spotify.com/track/221FBKC22DTc7XkPIaZYOl) | [Wang Jun Qi](https://open.spotify.com/artist/4PQnqdTaKkIjsPTbIqNcub) | [我多喜歡你,你會知道\(網劇<致我們單純的小美好>推廣曲\)](https://open.spotify.com/album/0nELe45M3v4oeUuxKR9noj) | 3:19 | 2022-07-25 |  |
 | [我好喜歡你 \- 電視劇《我好喜歡你》片尾曲](https://open.spotify.com/track/0MjmEm3cEKW65S3E3gdiST) | [Jerry Yan](https://open.spotify.com/artist/2WkfI6UZfc7Ohpyba7d086), [沈月](https://open.spotify.com/artist/1CFB64CMCUZEEdKbEzugJy) | [我好喜歡你 \(電視劇《我好喜歡你》片尾曲\)](https://open.spotify.com/album/2IIse0JWuGOBh1xDhelIid) | 3:54 | 2022-06-27 | 2022-07-23 |
-| [我好想你](https://open.spotify.com/track/6f9mkalKXgL9ijaPgFyf8c) | [黃挺瑋](https://open.spotify.com/artist/7aLIDbD2Yg3eXMhYQcNCss) | [我好想你](https://open.spotify.com/album/0zP9QFtzJ6VBHYbANHCpsq) | 3:03 | 2025-04-03 |  |
+| [我好想你](https://open.spotify.com/track/6f9mkalKXgL9ijaPgFyf8c) | [黃挺瑋](https://open.spotify.com/artist/7aLIDbD2Yg3eXMhYQcNCss) | [我好想你](https://open.spotify.com/album/0zP9QFtzJ6VBHYbANHCpsq) | 3:03 | 2025-04-03 | 2025-12-26 |
 | [我是你的半截诗](https://open.spotify.com/track/33BvvsKlwLSy0RTjY2w1ZJ) | [陈雪凝](https://open.spotify.com/artist/7hhBMsiz3xH2GHj7tbRpgW) | [我是你的半截诗](https://open.spotify.com/album/2bViqUAwFprKKlkDLivFIs) | 4:33 | 2024-03-18 | 2024-05-07 |
 | [我是多麼想你](https://open.spotify.com/track/4gXB7CbEfpf966MTmNF4oT) | [Lai](https://open.spotify.com/artist/7tbfeiO8CyfySSll1zFmqB) | [我是多麼想你](https://open.spotify.com/album/1LD9AhwIhx2pL1b6s7KJrD) | 2:44 | 2025-06-12 | 2025-10-08 |
 | [我會很愛你](https://open.spotify.com/track/7JWyo2NuGy34VrIlecg3QA) | [柏霖PoLin](https://open.spotify.com/artist/42UhEbkOaTEwJKWmf7xlfZ) | [我會很愛你](https://open.spotify.com/album/4gfaVHCGoM4sl3Lnzqaafx) | 3:35 | 2023-10-08 |  |
@@ -381,7 +383,7 @@
 | [第一默契 Soulmate](https://open.spotify.com/track/3GFdYLcROugyYHy9rcXulD) | [Xu Kai](https://open.spotify.com/artist/00m70qHTo1jHHxLgAXbkXA), [程瀟 \(Cheng Xiao\)](https://open.spotify.com/artist/6eY9LT0jokuZ4iwGoAW9nt) | [你微笑時很美 Falling Into Your Smile OST](https://open.spotify.com/album/7GcUs9FQMCUatmstpSeDZZ) | 3:28 | 2022-06-13 | 2022-09-30 |
 | [等你下課](https://open.spotify.com/track/0TMGJMQJWHhuNY60MEr5jR) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql), [Gary Yang](https://open.spotify.com/artist/4iFznCrxI2nlVer46cgvWG) | [最偉大的作品](https://open.spotify.com/album/4stTYRQWkrNj9BOJCwuXUT) | 4:30 | 2024-01-08 | 2024-04-19 |
 | [等你下課](https://open.spotify.com/track/76WthWB0v0KXUHZoAclMVV) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql), [Gary Yang](https://open.spotify.com/artist/4iFznCrxI2nlVer46cgvWG) | [等你下課](https://open.spotify.com/album/6cGDAwmjAE5i2a9fIY6Cu8) | 4:30 | 2022-06-27 | 2024-01-09 |
-| [等著你，夢著你 \- 影集《美食無間》插曲](https://open.spotify.com/track/333r96VxBYJVGrn4XWJauE) | [ANGIE安吉](https://open.spotify.com/artist/4FtbSiZ7Ev2pCRnowp1WIU) | [等著你，夢著你 \(影集《美食無間》插曲\)](https://open.spotify.com/album/2OS0vHafdJcPPGSruzlV7Y) | 3:37 | 2023-11-27 |  |
+| [等著你，夢著你 \- 影集《美食無間》插曲](https://open.spotify.com/track/333r96VxBYJVGrn4XWJauE) | [ANGIE安吉](https://open.spotify.com/artist/4FtbSiZ7Ev2pCRnowp1WIU) | [等著你，夢著你 \(影集《美食無間》插曲\)](https://open.spotify.com/album/2OS0vHafdJcPPGSruzlV7Y) | 3:37 | 2023-11-27 | 2025-12-26 |
 | [等車只是我的藉口](https://open.spotify.com/track/4rNy1I36bzUUnLVJBS0MQq) | [T\-easy](https://open.spotify.com/artist/3AgDE5xkoPyn5sFxhwyTCi), [新台幣音樂 NTD \(NeverTurnDownmusic\)](https://open.spotify.com/artist/7sf1j95ATFmsc3QYnmqgC5) | [等車只是我的藉口](https://open.spotify.com/album/3vrUJNkjW8PmR47uZnFnf5) | 2:44 | 2025-11-06 | 2025-11-14 |
 | [簡單愛](https://open.spotify.com/track/5Jtg0qcTKMHq3HjPVGRFAi) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [范特西](https://open.spotify.com/album/0xWySBAzp6b37EARWzycQJ) | 4:30 | 2022-07-25 | 2024-01-09 |
 | [簡單愛](https://open.spotify.com/track/7JWIGJpbc8Xm9xxu8gSCsT) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [范特西](https://open.spotify.com/album/2QtCt02mqDZBpyDAZW6JzC) | 4:30 | 2024-01-08 | 2024-04-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 631 songs - 1 day 17 hr 12 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 635 songs - 1 day 17 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -639,5 +639,9 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 629 | [Trigger Warning](https://open.spotify.com/track/1XCnR3mePuti0H3MUk08gO) | [thanks for coming](https://open.spotify.com/artist/3dbSL43i8580GLWJRknu9w) | [Deleted Albums, Sorry](https://open.spotify.com/album/6xDeK0YsTrMvOwIj2x3GrH) | 3:53 |
 | 630 | [context](https://open.spotify.com/track/2eZzMLQiSFY9e3hYKCqkqe) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [black british music \(2025\)](https://open.spotify.com/album/0uqw8DmJjWCODFySYWx47f) | 1:59 |
 | 631 | [Krystal Ball](https://open.spotify.com/track/38StYzWw7u4seuWvjwgCas) | [Guerilla Toss](https://open.spotify.com/artist/2PlLrStX2yK6CzyRi3TKnO) | [You're Weird Now](https://open.spotify.com/album/5dbWXyt3JIxxAQVC8PrV0o) | 2:46 |
+| 632 | [Everybody's dead!](https://open.spotify.com/track/40udcJKNzQ8WonnPwMW9ky) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [boneyard aka fearmonger](https://open.spotify.com/album/0d5AkUvivi6Y6Vyv8OYjZO) | 1:52 |
+| 633 | [Drinking Song](https://open.spotify.com/track/0QrxeCKmq1qHJSqysK5rdD) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [Fish Eyes EP](https://open.spotify.com/album/0AJs8uGiBASbgSV5t34yhp) | 3:14 |
+| 634 | [INTRO](https://open.spotify.com/track/20wAl6YDZH9UH9Ld6qDXn1) | [3ee](https://open.spotify.com/artist/0MOQB6FzT4cx60yzXhtj9h) | [LUVSNGS](https://open.spotify.com/album/7gBmFzv4mHvbc5w5JsrEZ8) | 0:28 |
+| 635 | [It Never Happened](https://open.spotify.com/track/0KcdT1eZcoT9keTV397Yu8) | [Bobbing](https://open.spotify.com/artist/0hyUSoWsUbtXhzmY2JWObX) | [Year of the Newt](https://open.spotify.com/album/75qAoON3tKG7AMtpCQheE4) | 2:31 |
 
-Snapshot ID: `AAAILhhW/G1DP6Oe4GvEfFiJ3f+JpxZU`
+Snapshot ID: `AAAIMj0EaYJd6y5JjkV7obA9IDQmALy/`

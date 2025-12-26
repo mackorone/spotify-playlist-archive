@@ -2,7 +2,7 @@
 
 ### [Zouk Station](https://open.spotify.com/playlist/37i9dQZF1DWZjVBCh3y4ph)
 
-> Les hits zouk & kompa du moment\. Photo : Kenedy x Priscillia
+> Les hits zouk & kompa du moment\. Photo : Oswald
 
 352 songs - 18 hr 34 min
 

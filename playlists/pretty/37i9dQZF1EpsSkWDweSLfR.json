@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUmS1gAAAAB37ReJJqCBcO5Xbciofdj+",
+  "snapshot_id": "aU0RgAAAAABl452Pi4g5pJcynGe7Bfml",
   "tracks": [
     {
-      "added_at": "2025-12-22 18:49:58",
+      "added_at": "2025-12-25 10:27:12",
       "album": {
         "name": "Out Of The Blue",
         "url": "https://open.spotify.com/album/0a8oprllqKstH11oJgr5RN"
@@ -25,7 +25,31 @@
       "url": "https://open.spotify.com/track/3Zp0TYLUWpyfdQCKVHb6na"
     },
     {
-      "added_at": "2025-12-22 18:49:58",
+      "added_at": "2025-12-25 10:27:12",
+      "album": {
+        "name": "Poison (Hazbin Hotel Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6dB85sDBpcpU4s5kwU7etB"
+      },
+      "artists": [
+        {
+          "name": "Blake Roman",
+          "url": "https://open.spotify.com/artist/18p5uhOP0T6w7EwYy389ej"
+        },
+        {
+          "name": "Sam Haft",
+          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
+        },
+        {
+          "name": "Andrew Underberg",
+          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
+        }
+      ],
+      "duration_ms": 127689,
+      "name": "Poison - Hazbin Hotel Original Soundtrack",
+      "url": "https://open.spotify.com/track/6ZXL1A1BVshe1JZ1IY734k"
+    },
+    {
+      "added_at": "2025-12-25 10:27:12",
       "album": {
         "name": "Hazbin Hotel (Original Soundtrack)",
         "url": "https://open.spotify.com/album/2EOqRNsJiNb7IFLktJBZpq"
@@ -57,31 +81,7 @@
       "url": "https://open.spotify.com/track/64bs8pCgpueh0mFEKZWGXS"
     },
     {
-      "added_at": "2025-12-22 18:49:58",
-      "album": {
-        "name": "Poison (Hazbin Hotel Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6dB85sDBpcpU4s5kwU7etB"
-      },
-      "artists": [
-        {
-          "name": "Blake Roman",
-          "url": "https://open.spotify.com/artist/18p5uhOP0T6w7EwYy389ej"
-        },
-        {
-          "name": "Sam Haft",
-          "url": "https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8"
-        },
-        {
-          "name": "Andrew Underberg",
-          "url": "https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay"
-        }
-      ],
-      "duration_ms": 127689,
-      "name": "Poison - Hazbin Hotel Original Soundtrack",
-      "url": "https://open.spotify.com/track/6ZXL1A1BVshe1JZ1IY734k"
-    },
-    {
-      "added_at": "2025-12-22 18:49:58",
+      "added_at": "2025-12-25 10:27:12",
       "album": {
         "name": "The Life of a Showgirl",
         "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
@@ -97,7 +97,7 @@
       "url": "https://open.spotify.com/track/2TEQvxxQabwLQMqWMg1qGu"
     },
     {
-      "added_at": "2025-12-22 18:49:58",
+      "added_at": "2025-12-25 10:27:12",
       "album": {
         "name": "SO CLOSE TO WHAT??? (deluxe)",
         "url": "https://open.spotify.com/album/4AIX5TN8oT656mgxRwDevJ"
@@ -113,23 +113,7 @@
       "url": "https://open.spotify.com/track/1dByUyyoRKL99fJJ6VCQzb"
     },
     {
-      "added_at": "2025-12-22 18:49:58",
-      "album": {
-        "name": "Light hit my face like a straight right",
-        "url": "https://open.spotify.com/album/7MCnchlvwkuXpl9ltALktP"
-      },
-      "artists": [
-        {
-          "name": "Mallrat",
-          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
-        }
-      ],
-      "duration_ms": 187387,
-      "name": "Defibrillator",
-      "url": "https://open.spotify.com/track/4PZcbfLLzu3x1O49PNs2L5"
-    },
-    {
-      "added_at": "2025-12-22 18:49:58",
+      "added_at": "2025-12-25 10:27:12",
       "album": {
         "name": "Hard To Imagine The Neighbourhood Ever Changing",
         "url": "https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy"
@@ -145,7 +129,23 @@
       "url": "https://open.spotify.com/track/7zwn1eykZtZ5LODrf7c0tS"
     },
     {
-      "added_at": "2025-12-22 18:49:58",
+      "added_at": "2025-12-25 10:27:12",
+      "album": {
+        "name": "Light hit my face like a straight right",
+        "url": "https://open.spotify.com/album/7MCnchlvwkuXpl9ltALktP"
+      },
+      "artists": [
+        {
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+        }
+      ],
+      "duration_ms": 187387,
+      "name": "Defibrillator",
+      "url": "https://open.spotify.com/track/4PZcbfLLzu3x1O49PNs2L5"
+    },
+    {
+      "added_at": "2025-12-25 10:27:12",
       "album": {
         "name": "Speak Now (Taylor's Version)",
         "url": "https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt"
@@ -165,7 +165,7 @@
       "url": "https://open.spotify.com/track/4e3ZNTAV6PCrdYMUrUlMpQ"
     },
     {
-      "added_at": "2025-12-22 18:49:58",
+      "added_at": "2025-12-25 10:27:12",
       "album": {
         "name": "Girls Gone Wild",
         "url": "https://open.spotify.com/album/4QB0GsSjMFlHyz1VLEY6BF"
@@ -181,23 +181,7 @@
       "url": "https://open.spotify.com/track/1TYLYTMtSIqqPpOGJhmp0y"
     },
     {
-      "added_at": "2025-12-22 18:49:58",
-      "album": {
-        "name": "Light hit my face like a straight right",
-        "url": "https://open.spotify.com/album/7MCnchlvwkuXpl9ltALktP"
-      },
-      "artists": [
-        {
-          "name": "Mallrat",
-          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
-        }
-      ],
-      "duration_ms": 185940,
-      "name": "Pavement",
-      "url": "https://open.spotify.com/track/4DgJf7LsQG6Hb7dIhgiUqY"
-    },
-    {
-      "added_at": "2025-12-22 18:49:58",
+      "added_at": "2025-12-25 10:27:12",
       "album": {
         "name": "West End Girl",
         "url": "https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn"
@@ -213,7 +197,23 @@
       "url": "https://open.spotify.com/track/73vfMXcXa6iY1E3lpf2fZO"
     },
     {
-      "added_at": "2025-12-22 18:49:58",
+      "added_at": "2025-12-25 10:27:12",
+      "album": {
+        "name": "Light hit my face like a straight right",
+        "url": "https://open.spotify.com/album/7MCnchlvwkuXpl9ltALktP"
+      },
+      "artists": [
+        {
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+        }
+      ],
+      "duration_ms": 185940,
+      "name": "Pavement",
+      "url": "https://open.spotify.com/track/4DgJf7LsQG6Hb7dIhgiUqY"
+    },
+    {
+      "added_at": "2025-12-25 10:27:12",
       "album": {
         "name": "The Life of a Showgirl",
         "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
@@ -229,7 +229,7 @@
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
     },
     {
-      "added_at": "2025-12-22 18:49:58",
+      "added_at": "2025-12-25 10:27:12",
       "album": {
         "name": "BITE ME",
         "url": "https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN"
@@ -245,23 +245,7 @@
       "url": "https://open.spotify.com/track/0kvklDSNAkcENUPfEvQNvC"
     },
     {
-      "added_at": "2025-12-22 18:49:58",
-      "album": {
-        "name": "Light hit my face like a straight right",
-        "url": "https://open.spotify.com/album/7MCnchlvwkuXpl9ltALktP"
-      },
-      "artists": [
-        {
-          "name": "Mallrat",
-          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
-        }
-      ],
-      "duration_ms": 84885,
-      "name": "Love Songs / Heart Strings",
-      "url": "https://open.spotify.com/track/6jICkf5yt1t1T4MDTZYdUb"
-    },
-    {
-      "added_at": "2025-12-22 18:49:58",
+      "added_at": "2025-12-25 10:27:12",
       "album": {
         "name": "Hazbin Hotel: Season Two (Original Soundtrack)",
         "url": "https://open.spotify.com/album/4Vhlieo0fDahoYEPvGbSEm"
@@ -293,7 +277,23 @@
       "url": "https://open.spotify.com/track/53CnanPxbhecUExO9EIinJ"
     },
     {
-      "added_at": "2025-12-22 18:49:58",
+      "added_at": "2025-12-25 10:27:12",
+      "album": {
+        "name": "Light hit my face like a straight right",
+        "url": "https://open.spotify.com/album/7MCnchlvwkuXpl9ltALktP"
+      },
+      "artists": [
+        {
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+        }
+      ],
+      "duration_ms": 84885,
+      "name": "Love Songs / Heart Strings",
+      "url": "https://open.spotify.com/track/6jICkf5yt1t1T4MDTZYdUb"
+    },
+    {
+      "added_at": "2025-12-25 10:27:12",
       "album": {
         "name": "Red (Taylor's Version)",
         "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
@@ -309,7 +309,7 @@
       "url": "https://open.spotify.com/track/6pYNq0ZwpPVazKzsqpf0G8"
     },
     {
-      "added_at": "2025-12-22 18:49:58",
+      "added_at": "2025-12-25 10:27:12",
       "album": {
         "name": "five seconds flat",
         "url": "https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD"
@@ -325,27 +325,7 @@
       "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI"
     },
     {
-      "added_at": "2025-12-22 18:49:58",
-      "album": {
-        "name": "Light hit my face like a straight right",
-        "url": "https://open.spotify.com/album/7MCnchlvwkuXpl9ltALktP"
-      },
-      "artists": [
-        {
-          "name": "Mallrat",
-          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
-        },
-        {
-          "name": "Kito",
-          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
-        }
-      ],
-      "duration_ms": 193555,
-      "name": "Hocus Pocus",
-      "url": "https://open.spotify.com/track/7ApkuSWiIH7CWC9XeTirHu"
-    },
-    {
-      "added_at": "2025-12-22 18:49:58",
+      "added_at": "2025-12-25 10:27:12",
       "album": {
         "name": "In corpore sano",
         "url": "https://open.spotify.com/album/5OrxFHIvmC4KkSLQI8yhsI"
@@ -361,7 +341,7 @@
       "url": "https://open.spotify.com/track/1JaOUMmaSZlWfONvT4HTlg"
     },
     {
-      "added_at": "2025-12-22 18:49:58",
+      "added_at": "2025-12-25 10:27:12",
       "album": {
         "name": "Alter Ego",
         "url": "https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm"
@@ -381,23 +361,7 @@
       "url": "https://open.spotify.com/track/5UmfBGfRJgjZ8CdhgffabQ"
     },
     {
-      "added_at": "2025-12-22 18:49:58",
-      "album": {
-        "name": "Out Of The Blue",
-        "url": "https://open.spotify.com/album/0a8oprllqKstH11oJgr5RN"
-      },
-      "artists": [
-        {
-          "name": "Morgan Saint",
-          "url": "https://open.spotify.com/artist/21SbAgLQ2SteuYiKXTBDns"
-        }
-      ],
-      "duration_ms": 194432,
-      "name": "Blazing",
-      "url": "https://open.spotify.com/track/64pxGR04k4JyLXRlZCw5Cx"
-    },
-    {
-      "added_at": "2025-12-22 18:49:58",
+      "added_at": "2025-12-25 10:27:12",
       "album": {
         "name": "Light hit my face like a straight right",
         "url": "https://open.spotify.com/album/7MCnchlvwkuXpl9ltALktP"
@@ -406,34 +370,34 @@
         {
           "name": "Mallrat",
           "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+        },
+        {
+          "name": "Kito",
+          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
         }
       ],
-      "duration_ms": 58032,
-      "name": "The Light Streams in and Hits my Face",
-      "url": "https://open.spotify.com/track/2LrdO7XXMgejQjwbgnlVAb"
+      "duration_ms": 193555,
+      "name": "Hocus Pocus",
+      "url": "https://open.spotify.com/track/7ApkuSWiIH7CWC9XeTirHu"
     },
     {
-      "added_at": "2025-12-22 18:49:58",
+      "added_at": "2025-12-25 10:27:12",
       "album": {
-        "name": "Halo (feat. PIA MARIA)",
-        "url": "https://open.spotify.com/album/3IW2pdhIz1KqoJDr6sxe24"
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
       },
       "artists": [
         {
-          "name": "LUM!X",
-          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
-        },
-        {
-          "name": "PIA MARIA",
-          "url": "https://open.spotify.com/artist/76FvAg4V0F4hX5rNFF0MFZ"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 159600,
-      "name": "Halo (feat. PIA MARIA)",
-      "url": "https://open.spotify.com/track/6WVHfpzYW3HooQaCC80opC"
+      "duration_ms": 220564,
+      "name": "Ruin The Friendship",
+      "url": "https://open.spotify.com/track/62V2ZHslgQV98gH4AuVXnr"
     },
     {
-      "added_at": "2025-12-22 18:49:58",
+      "added_at": "2025-12-25 10:27:12",
       "album": {
         "name": "Pink Friday 2",
         "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
@@ -449,7 +413,7 @@
       "url": "https://open.spotify.com/track/44L2bY93uD65CEHWbozpx4"
     },
     {
-      "added_at": "2025-12-22 18:49:58",
+      "added_at": "2025-12-25 10:27:12",
       "album": {
         "name": "Out Of The Blue",
         "url": "https://open.spotify.com/album/0a8oprllqKstH11oJgr5RN"
@@ -460,12 +424,28 @@
           "url": "https://open.spotify.com/artist/21SbAgLQ2SteuYiKXTBDns"
         }
       ],
-      "duration_ms": 186469,
-      "name": "Slipping Away",
-      "url": "https://open.spotify.com/track/7C7m8TqeJcocjWUoaulOQx"
+      "duration_ms": 194432,
+      "name": "Blazing",
+      "url": "https://open.spotify.com/track/64pxGR04k4JyLXRlZCw5Cx"
     },
     {
-      "added_at": "2025-12-22 18:49:58",
+      "added_at": "2025-12-25 10:27:12",
+      "album": {
+        "name": "Light hit my face like a straight right",
+        "url": "https://open.spotify.com/album/7MCnchlvwkuXpl9ltALktP"
+      },
+      "artists": [
+        {
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+        }
+      ],
+      "duration_ms": 58032,
+      "name": "The Light Streams in and Hits my Face",
+      "url": "https://open.spotify.com/track/2LrdO7XXMgejQjwbgnlVAb"
+    },
+    {
+      "added_at": "2025-12-25 10:27:12",
       "album": {
         "name": "reputation",
         "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
@@ -481,23 +461,7 @@
       "url": "https://open.spotify.com/track/1ZY1PqizIl78geGM4xWlEA"
     },
     {
-      "added_at": "2025-12-22 18:49:58",
-      "album": {
-        "name": "Light hit my face like a straight right",
-        "url": "https://open.spotify.com/album/7MCnchlvwkuXpl9ltALktP"
-      },
-      "artists": [
-        {
-          "name": "Mallrat",
-          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
-        }
-      ],
-      "duration_ms": 133550,
-      "name": "My Darling, My Angel",
-      "url": "https://open.spotify.com/track/4S65LZ1l0ateIDSlmcxwNi"
-    },
-    {
-      "added_at": "2025-12-22 18:49:58",
+      "added_at": "2025-12-25 10:27:12",
       "album": {
         "name": "hickey",
         "url": "https://open.spotify.com/album/4sKaRStL8BDpRkNss42nhX"
@@ -513,7 +477,23 @@
       "url": "https://open.spotify.com/track/2TugrDKkd55mfVOMVZsfO8"
     },
     {
-      "added_at": "2025-12-22 18:49:58",
+      "added_at": "2025-12-25 10:27:12",
+      "album": {
+        "name": "WHERE IS MY HUSBAND!",
+        "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 196795,
+      "name": "WHERE IS MY HUSBAND!",
+      "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
+    },
+    {
+      "added_at": "2025-12-25 10:27:12",
       "album": {
         "name": "I LIKE YOU",
         "url": "https://open.spotify.com/album/6CosfT29afkYttNAx34QpL"
@@ -529,7 +509,7 @@
       "url": "https://open.spotify.com/track/3DSN6tmXnHlMAPNYLbKwTl"
     },
     {
-      "added_at": "2025-12-22 18:49:58",
+      "added_at": "2025-12-25 10:27:12",
       "album": {
         "name": "folklore",
         "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
@@ -543,6 +523,38 @@
       "duration_ms": 261922,
       "name": "august",
       "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
+    },
+    {
+      "added_at": "2025-12-25 10:27:12",
+      "album": {
+        "name": "KPop Demon Hunters (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9"
+      },
+      "artists": [
+        {
+          "name": "HUNTR/X",
+          "url": "https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn"
+        },
+        {
+          "name": "EJAE",
+          "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
+        },
+        {
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        },
+        {
+          "name": "REI AMI",
+          "url": "https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5"
+        },
+        {
+          "name": "KPop Demon Hunters Cast",
+          "url": "https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc"
+        }
+      ],
+      "duration_ms": 194607,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS"
     }
   ],
   "unique_name": "On Repeat",

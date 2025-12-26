@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aJqrYHYkGX.md) - [plain]
 
 > Gentle, relaxing music from around the globe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,834 likes - 157 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,850 likes - 157 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -166,4 +166,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aJqrYHYkGX.md) - [plain]
 | 156 | [Soothing Streams](https://open.spotify.com/track/1v1j4Od2dpUxXeWNiGM30E) | [Tomas Dervishi](https://open.spotify.com/artist/79j0DtkFuwZDihfeGTw0LW) | [Soothing Streams](https://open.spotify.com/album/3cdSodclvk7shIjJpah4Ie) | 2:13 |
 | 157 | [Riverglass](https://open.spotify.com/track/0yDjPEXWJonVufOT8E7m1X) | [Solantra](https://open.spotify.com/artist/1t0Z6C1qyOn2mcAEBbwVn0) | [Riverglass](https://open.spotify.com/album/0apAaHdImNdkx5zqUtcqe5) | 2:26 |
 
-Snapshot ID: `AAAAAGjoorvPiWErjUnt4PFxTss8qwMw`
+Snapshot ID: `AAAAACswXCbP06yMab0T88tVw9UGLk4u`

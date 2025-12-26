@@ -19669,6 +19669,32 @@
     },
     {
       "album": {
+        "name": "Shamajo",
+        "url": "https://open.spotify.com/album/4JYk3P7iLLGAjPQ5uAOlrL"
+      },
+      "artists": [
+        {
+          "name": "Badbwoy",
+          "url": "https://open.spotify.com/artist/1PgebrubnFvzOMxn19ZM8f"
+        },
+        {
+          "name": "JMANI",
+          "url": "https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3"
+        },
+        {
+          "name": "C-Mart",
+          "url": "https://open.spotify.com/artist/5Gp2z5HyXJ8ezC5if2DlXk"
+        }
+      ],
+      "date_added": "2025-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Shamajo",
+      "url": "https://open.spotify.com/track/07nZpuAuvWcDTtcNAdiHQa"
+    },
+    {
+      "album": {
         "name": "Shanga (MOKX Remix)",
         "url": "https://open.spotify.com/album/5JlxNJrWiZo0HplmrhMXS7"
       },

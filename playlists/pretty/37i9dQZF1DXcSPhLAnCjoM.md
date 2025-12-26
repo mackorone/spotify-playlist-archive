@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSPhLAnCjoM.md) - [plain]
 
 ### [Grand Hit](https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM)
 
-> "Tout a changé \(Rien n'a changé\)" d'Helena est le Grand Hit de la semaine.
+> "Melodrama" de disiz & Theodora est le Grand Hit de la semaine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,025,899 likes - 40 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,025,945 likes - 40 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Tout a changé \(Rien n'a changé\)](https://open.spotify.com/track/2LVLfi56877BcKEPkrUuYZ) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC) | [Hélé](https://open.spotify.com/album/78tVFMGbPWdm1S86JyC017) | 2:46 |
-| 2 | [melodrama](https://open.spotify.com/track/5Y8C6KjzBRKvcT3Aln1Bc4) | [disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g), [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [melodrama](https://open.spotify.com/album/5wFsZ4iXAggxIVNZRJogvr) | 2:56 |
-| 3 | [L'horizon](https://open.spotify.com/track/7CdgI4KOU4WnrBHv91Vpm6) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Chaque seconde](https://open.spotify.com/album/0c57PH26xtTFt4LPN7ZLWm) | 2:42 |
-| 4 | [Respire fort](https://open.spotify.com/track/14KogTtMWr07LMu5E66IrS) | [Jeanne](https://open.spotify.com/artist/6GxI473jNE1DmkBFA5D4bZ) | [Respire fort](https://open.spotify.com/album/5sQnc8AUDkAWRBjnNSXR3h) | 2:51 |
+| 1 | [melodrama](https://open.spotify.com/track/5Y8C6KjzBRKvcT3Aln1Bc4) | [disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g), [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [melodrama](https://open.spotify.com/album/5wFsZ4iXAggxIVNZRJogvr) | 2:56 |
+| 2 | [L'horizon](https://open.spotify.com/track/7CdgI4KOU4WnrBHv91Vpm6) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Chaque seconde](https://open.spotify.com/album/0c57PH26xtTFt4LPN7ZLWm) | 2:42 |
+| 3 | [Respire fort](https://open.spotify.com/track/14KogTtMWr07LMu5E66IrS) | [Jeanne](https://open.spotify.com/artist/6GxI473jNE1DmkBFA5D4bZ) | [Respire fort](https://open.spotify.com/album/5sQnc8AUDkAWRBjnNSXR3h) | 2:51 |
+| 4 | [Tout a changé \(Rien n'a changé\)](https://open.spotify.com/track/2LVLfi56877BcKEPkrUuYZ) | [Helena](https://open.spotify.com/artist/6M0dlWzmJ9Z81JM2WpHbsC) | [Hélé](https://open.spotify.com/album/78tVFMGbPWdm1S86JyC017) | 2:46 |
 | 5 | [Ailleurs](https://open.spotify.com/track/2lwLLpCLIQ6lc5EvvdjG5C) | [Orelsan](https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN) | [La fuite en avant](https://open.spotify.com/album/130L3uMANE28R0eH0GtmZS) | 3:12 |
 | 6 | [Tant pis pour elle](https://open.spotify.com/track/1VeDrlbLw18quxCqWfEFEi) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Tant pis pour elle](https://open.spotify.com/album/2iNJAjSxBMS58hKIqHpAxw) | 2:38 |
 | 7 | [Autrement](https://open.spotify.com/track/3SMtVY7EyN0tSYhAZl1AA7) | [Julien Lieb](https://open.spotify.com/artist/0rQDrh9l7FTDm7cywWpW8i) | [Autrement](https://open.spotify.com/album/2CI0v7K6WEB8Z9O6TnXOzE) | 2:44 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSPhLAnCjoM.md) - [plain]
 | 39 | [DO YOU LOVE ME ?](https://open.spotify.com/track/0ntWrkVB9TSfpYRs7pPMrP) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [DO YOU LOVE ME ?](https://open.spotify.com/album/5kbK6yrQk48c9aggLhihGo) | 2:49 |
 | 40 | [Café froid](https://open.spotify.com/track/07oi5madXoMf04rMP51MQ6) | [Chiloo](https://open.spotify.com/artist/0DjR09NBgtZbkOnBZays9o) | [Café froid](https://open.spotify.com/album/3K8lCylEpDmDH7fE2inh4G) | 3:20 |
 
-Snapshot ID: `AAAAAGi/ua539SeletlqtU1EslrLfLSZ`
+Snapshot ID: `AAAAAIw4DNmo34RbZeWi5pb3iPanzorF`

@@ -4,7 +4,7 @@
 
 > 蘑菇濃湯來了！快點快點快點呦！和寶貝一起快樂唱唱跳跳吧！
 
-132 songs - 7 hr 3 min
+133 songs - 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,8 @@
 | [娃娃國](https://open.spotify.com/track/2uC8oCq0lZAfLO9gXk6XAm) | [銀河小歌星](https://open.spotify.com/artist/75IopNfhJarTwkkpN06iU4) | [100首可愛的童謠, Vol\. 1（上集）](https://open.spotify.com/album/0OJiAIBfqKpMZM2AyNhAed) | 2:05 | 2024-08-27 |  |
 | [媽咪](https://open.spotify.com/track/5tgilrUUpEbCfyJE5NqIsZ) | [圈圈寶貝](https://open.spotify.com/artist/1Giu7rHJqraf75o6fAOHEw), [小蜜桃姐姐](https://open.spotify.com/artist/75MNXkfWwDHZreCpFIRLcw) | [媽咪](https://open.spotify.com/album/43MNIFYWKszER35lAwYrGK) | 2:24 | 2024-08-17 | 2025-12-19 |
 | [宝贝宝贝](https://open.spotify.com/track/7pXEcYfvlgpQnnbKwkI0Th) | [贝瓦儿歌](https://open.spotify.com/artist/5p42zNY1SK6ILxAZJ4Rkh7) | [宝贝宝贝](https://open.spotify.com/album/3GusfGBQswY0g0AtHoX2yF) | 3:20 | 2025-02-13 |  |
-| [小公視陪你唱跳過歡樂假期\_Make A Wish \- 許願熱舞版](https://open.spotify.com/track/1TWOHb14trPA2pZEfhvCpH) | [Sandra 小斯](https://open.spotify.com/artist/7LWLms3UIMBQcXS773S9Ea) | [小公視陪你唱跳過歡樂假期\_Make A Wish \(許願熱舞版\)](https://open.spotify.com/album/4cMG34bX5Zavm5sCwARqbS) | 2:48 | 2025-12-18 |  |
+| [小公視陪你唱跳過歡樂假期\_Make A Wish \- 許願熱舞版](https://open.spotify.com/track/1TWOHb14trPA2pZEfhvCpH) | [Sandra 小斯](https://open.spotify.com/artist/7LWLms3UIMBQcXS773S9Ea) | [小公視陪你唱跳過歡樂假期\_Make A Wish \(許願熱舞版\)](https://open.spotify.com/album/4cMG34bX5Zavm5sCwARqbS) | 2:48 | 2025-12-18 | 2025-12-26 |
+| [小公視陪你唱跳過歡樂假期\_你好歌 \- 新年快樂版](https://open.spotify.com/track/3xvYdR9AW5RAnyF3jY5RZ6) | [戴蕙心](https://open.spotify.com/artist/2uOpwOsxQaY05mfUxdzv35) | [小公視陪你唱跳過歡樂假期\_你好歌 \(新年快樂版\)](https://open.spotify.com/album/6l3tfQXMR63ZmptIIldXBH) | 1:26 | 2025-12-25 |  |
 | [小星星 \- 哄睡版](https://open.spotify.com/track/68DvCeNDCrVOaq4g7YR9Lm) | [貝樂虎](https://open.spotify.com/artist/5ZdmFRkxym0oPSDwIBoYoQ) | [贝乐虎哄睡儿歌（一）](https://open.spotify.com/album/71WImmK4E8hPPF8UtHOEIF) | 0:57 | 2025-04-17 |  |
 | [小綠豆的奇妙冒險](https://open.spotify.com/track/0zNctqPNyZHNNaW02HG8de) | [博博的奇妙樂園](https://open.spotify.com/artist/31epdAsDh0SBTYv0da0rW0) | [小綠豆的奇妙冒險](https://open.spotify.com/album/62PwAET4u3Rzp2VUyJ7J3P) | 5:02 | 2025-01-16 | 2025-02-13 |
 | [小花貓](https://open.spotify.com/track/43zEabzh5HVXa0xfiHUo9S) | [MOMO家族](https://open.spotify.com/artist/2HpPjKN0EHmtUCE3Hv8xgt) | [MOMO玩玩樂 5\-精選兒歌](https://open.spotify.com/album/75hOKCJR2HfJRAzg4iNb5o) | 3:08 | 2024-08-17 | 2025-01-11 |

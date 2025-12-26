@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 
 > ginga y balança
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,006,523 likes - 69 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,006,880 likes - 69 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 | 68 | [MEC MEC MTG](https://open.spotify.com/track/0xzi8vNqlHPU0crfB8jLCg) | [Zairon](https://open.spotify.com/artist/4OsPs4eirSwu3F4jB1bL0B), [MC Marlon PH](https://open.spotify.com/artist/3uSPe0aATQvPSLWin1kZsQ) | [MEC MEC MTG](https://open.spotify.com/album/3GW4o5DEdCx2AcO6heMW9h) | 4:16 |
 | 69 | [EU VOU CAIR NA NOITE](https://open.spotify.com/track/0FU9OdkvY12HJQ2Y0VaAsf) | [DJ RENAN DA BL](https://open.spotify.com/artist/13VVAjO14WSrctkGL7U3xc), [Dj Jl Do Tp](https://open.spotify.com/artist/4mBT8Rbk2WUxiVxdRpX5hW), [Mc Pretchako](https://open.spotify.com/artist/5Rs8lbUvsQnuQxMrQojmZR) | [EU VOU CAIR NA NOITE](https://open.spotify.com/album/5wpoawf07u3Oi0KRRrzgRG) | 2:05 |
 
-Snapshot ID: `AAAAAM740wA3TFTcQfdRDXyTQlZQvPqA`
+Snapshot ID: `AAAAANUe8oLC0+mZsDukCpzvJ1LXPVil`

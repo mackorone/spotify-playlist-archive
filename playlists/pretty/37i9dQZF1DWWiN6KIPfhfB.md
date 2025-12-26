@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiN6KIPfhfB.md) - [plain]
 
 > Une collection de contes de fées pour emmener vos enfants au pays des rêves
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,940 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,939 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

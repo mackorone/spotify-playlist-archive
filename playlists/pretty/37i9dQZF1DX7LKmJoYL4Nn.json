@@ -1,6 +1,6 @@
 {
   "description": "Songs from \u201cENSEMBLE STARS!!\u201d \u00a9 2014-2019 Happy Elements K.K\n",
-  "num_followers": 62062,
+  "num_followers": 62069,
   "original_name": "ENSEMBLE STARS!!",
   "owner": {
     "name": "Spotify",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2025-10-28 15:00:03",
       "album": {
+        "name": "TV\u30a2\u30cb\u30e1 \u300e\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\u300f ED\u30c6\u30fc\u30de\u96c6 (vol.6)",
+        "url": "https://open.spotify.com/album/5LFBatATK7z6g0TSPZIepZ"
+      },
+      "artists": [
+        {
+          "name": "Eden/\u4e71 \u51ea\u7802(CV.\u8acf\u8a2a\u90e8\u9806\u4e00)\u3001\u5df4 \u65e5\u548c(CV.\u82b1\u6c5f\u590f\u6a39)\u3001\u4e03\u7a2e \u8328(CV.\u9022\u5742\u826f\u592a)\u3001\u6f23 \u30b8\u30e5\u30f3(CV.\u5185\u7530\u96c4\u99ac)",
+          "url": "https://open.spotify.com/artist/6l47ETaPCDcvm4aK89g2JK"
+        }
+      ],
+      "duration_ms": 234280,
+      "name": "Awakening Myth",
+      "url": "https://open.spotify.com/track/7AG05wzbnra1jw4yJQV9nK"
+    },
+    {
+      "added_at": "2025-10-28 15:00:03",
+      "album": {
         "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01 \u30a2\u30eb\u30d0\u30e0\u30b7\u30ea\u30fc\u30ba Knights",
         "url": "https://open.spotify.com/album/6AvMxznw9rviWn2cx9y7Oc"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 228120,
       "name": "Midnight Butlers",
       "url": "https://open.spotify.com/track/6QKfYGoyFJdG2NEiNtp9rS"
-    },
-    {
-      "added_at": "2025-10-28 15:00:03",
-      "album": {
-        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 season1 Knights",
-        "url": "https://open.spotify.com/album/6kDzLBes9dUBYyQt6JJKT9"
-      },
-      "artists": [
-        {
-          "name": "Knights/\u6731\u685c \u53f8(CV.\u571f\u7530 \u73b2\u592e)\u3001\u6708\u6c38 \u30ec\u30aa(CV.\u6d45\u6cbc \u664b\u592a\u90ce)\u3001\u702c\u540d \u6cc9(CV.\u4f0a\u85e4 \u30de\u30b5\u30df)\u3001\u6714\u9593 \u51db\u6708(CV.\u5c71\u4e0b \u5927\u8f1d)\u3001\u9cf4\u4e0a \u5d50(CV.\u5317\u6751 \u8ad2)",
-          "url": "https://open.spotify.com/artist/4kXSSAcXp2z2pmZ4sjqxIR"
-        }
-      ],
-      "duration_ms": 204826,
-      "name": "Little Romance",
-      "url": "https://open.spotify.com/track/19ai05uR66WlKTb4M1sI4Z"
     }
   ],
   "unique_name": "ENSEMBLE STARS!!",

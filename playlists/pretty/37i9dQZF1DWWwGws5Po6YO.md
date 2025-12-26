@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 
 > The women at the forefront of ambient and experimental music\. Cover: Natalia Tsupryk
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,488 likes - 100 songs - 8 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,501 likes - 100 songs - 8 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 | 50 | [Analemma](https://open.spotify.com/track/5HbEM6W17e2vRkiARgWT29) | [Maya Shenfeld](https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ) | [Analemma](https://open.spotify.com/album/15lfjXDmpHkn8pIlQTEDWq) | 7:57 |
 | 51 | [Withdrawal](https://open.spotify.com/track/7LY0xEmkAWnwTh2QCeIqn6) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689) | [outside of your lifetime](https://open.spotify.com/album/6byELpoEiFADM1j4Zgv0WJ) | 2:01 |
 | 52 | [Falling Water Lullaby](https://open.spotify.com/track/107dsC2GDls9Yc3roCakzj) | [Ulla](https://open.spotify.com/artist/0ijZlfRS4zxGYWMxf8rvRN) | [Memories of Log](https://open.spotify.com/album/7zYfVGpVHFMBlFQfKNPy0b) | 6:40 |
-| 53 | [Strawberry Hill Ascent](https://open.spotify.com/track/7dcAGnZgECMRTDKRM9pmqg) | [Ellen Reid](https://open.spotify.com/artist/4WEngLwjeu7FBLX8Ws2uka), [Kronos Quartet](https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3) | [Big Majestic](https://open.spotify.com/album/54PPhxM0V8V87txFsNVWgb) | 2:42 |
-| 54 | [Wormhold Music](https://open.spotify.com/track/77ZKoVhcYTfWxruzBeY5pd) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [My Light, My Massage Parlor](https://open.spotify.com/album/3FLsOaOV0kmfeN6k2m9Eli) | 5:11 |
-| 55 | [Russian Snow](https://open.spotify.com/track/74DxOVwXdBdn1rrfK8SFCU) | [Lucette Bourdin](https://open.spotify.com/artist/1mLHAhpOa5hFC5ht47RrT3) | [Rising Fog](https://open.spotify.com/album/5UqAY7B1XX3QoFWgu7bfil) | 8:28 |
+| 53 | [Russian Snow](https://open.spotify.com/track/74DxOVwXdBdn1rrfK8SFCU) | [Lucette Bourdin](https://open.spotify.com/artist/1mLHAhpOa5hFC5ht47RrT3) | [Rising Fog](https://open.spotify.com/album/5UqAY7B1XX3QoFWgu7bfil) | 8:28 |
+| 54 | [Strawberry Hill Ascent](https://open.spotify.com/track/7dcAGnZgECMRTDKRM9pmqg) | [Ellen Reid](https://open.spotify.com/artist/4WEngLwjeu7FBLX8Ws2uka), [Kronos Quartet](https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3) | [Big Majestic](https://open.spotify.com/album/54PPhxM0V8V87txFsNVWgb) | 2:42 |
+| 55 | [Wormhold Music](https://open.spotify.com/track/77ZKoVhcYTfWxruzBeY5pd) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [My Light, My Massage Parlor](https://open.spotify.com/album/3FLsOaOV0kmfeN6k2m9Eli) | 5:11 |
 | 56 | [Suosan](https://open.spotify.com/track/1llnPZqIqkfdC5ThZs62fR) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Antonina Nowacka](https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR) | [Hiraeth](https://open.spotify.com/album/20U2RJ45XybSkpZJLwPjUf) | 3:38 |
 | 57 | [Holding Moments](https://open.spotify.com/track/5eKvPgmm9AGChNGQQyKyZs) | [Sophie Hutchings](https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0) | [become the sky](https://open.spotify.com/album/3fimGJqkBb61QiQrRiFXNv) | 3:03 |
 | 58 | [Virga \(feat\. Darlingside\)](https://open.spotify.com/track/3hhJFk8PZEb0h3aAMbQRcM) | [Yasmin Williams](https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs), [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Virga \(feat\. Darlingside\)](https://open.spotify.com/album/4Atmmk5jUaQVGxd0XtvsfG) | 6:22 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 | 89 | [CHU / 處](https://open.spotify.com/track/5D4LseymlE9t3nEZCMtEYN) | [LI YILEI](https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp) | [CHU / 處](https://open.spotify.com/album/1yhSwBtIuk49GmK6pBydQC) | 2:23 |
 | 90 | [By The Sea \(Alexandra Hamilton\-Ayres Rework\)](https://open.spotify.com/track/2iXvCq72SsfRotGmvihphI) | [Anna Phoebe](https://open.spotify.com/artist/1838KFlgy3zBrQOqiwagod), [Alexandra Hamilton\-Ayres](https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp) | [By The Sea \(Alexandra Hamilton\-Ayres Rework\)](https://open.spotify.com/album/4dsFX80koDAJYLRx6UwcE3) | 4:48 |
 | 91 | [Freedom](https://open.spotify.com/track/5relEzd6zHW4duiUhwVFdS) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Freedom](https://open.spotify.com/album/1CAFe3VkRa3QErqb1SgmEH) | 6:58 |
-| 92 | [blue hour](https://open.spotify.com/track/6R1IuXVaMVytfMQz4bY0DQ) | [Friday Night Plans](https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ) | [blue hour](https://open.spotify.com/album/61c0a4Nr3QEbY2Gw1EJlEt) | 2:46 |
-| 93 | [Drip In The Cave](https://open.spotify.com/track/4A5mCpJSr1mH57EEARNjYs) | [Katatonic Silentio](https://open.spotify.com/artist/422gpfV70aFki7wUwIUxXm) | [Axis Of Light](https://open.spotify.com/album/351ZSNdXJfzDCirBBQ7xMm) | 3:37 |
+| 92 | [Drip In The Cave](https://open.spotify.com/track/4A5mCpJSr1mH57EEARNjYs) | [Katatonic Silentio](https://open.spotify.com/artist/422gpfV70aFki7wUwIUxXm) | [Axis Of Light](https://open.spotify.com/album/351ZSNdXJfzDCirBBQ7xMm) | 3:37 |
+| 93 | [blue hour](https://open.spotify.com/track/6R1IuXVaMVytfMQz4bY0DQ) | [Friday Night Plans](https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ) | [blue hour](https://open.spotify.com/album/61c0a4Nr3QEbY2Gw1EJlEt) | 2:46 |
 | 94 | [Cloudbreath](https://open.spotify.com/track/4NvNjb3LSb1Tb3GJzfFiEZ) | [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF) | [Lovegaze](https://open.spotify.com/album/5wZ1zvJhdu078W27V9mr5U) | 3:07 |
 | 95 | [Air / Fire](https://open.spotify.com/track/5AN0UwkXlg822pebPPTzPx) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [Perfect Conditions](https://open.spotify.com/album/3Jgs7mLKJ87ZvgpQf17wmX) | 3:32 |
 | 96 | [Frost](https://open.spotify.com/track/4Kzd3EGu9rGa2bydZ2J8XM) | [Drum & Lace](https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7) | [Frost](https://open.spotify.com/album/0AS6gymk1bJPNaxgcZXPes) | 7:40 |
 | 97 | [I'll Look for You in Others](https://open.spotify.com/track/0ca3Leu9WL9yazpJXD1xyd) | [Patricia Wolf](https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T) | [I'll Look For You In Others](https://open.spotify.com/album/2PFv0zSiY1gSipgGyXI6V6) | 6:33 |
 | 98 | [Marina\`s Song](https://open.spotify.com/track/6gCrvZ8QV0ftNuWES7SXUP) | [EIRLYS](https://open.spotify.com/artist/5Lqrkxi2AoI6HJQGoiVR5l) | [Marina\`s Song](https://open.spotify.com/album/2NGbCubwWrphNgJYEy2e2g) | 5:03 |
 | 99 | [A Woman Escapes Cue 4](https://open.spotify.com/track/74LZ5NilKIbI1Xf9eMpuXz) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Selected Works II](https://open.spotify.com/album/7CmKlPQINCMTdeJtQfxEgB) | 5:35 |
-| 100 | [You Make It Look so Easy \- Reverbed by Malibu](https://open.spotify.com/track/5hKekn6sLhu07TbCNNqn9a) | [Himera](https://open.spotify.com/artist/1Vi0Dq6hC56i3a6eVA9Y6g), [Petal Supply](https://open.spotify.com/artist/3QpNnKSjUIIMwFei8h3eOj), [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B) | [You Make It Look so Easy \(Reverbed by Malibu\)](https://open.spotify.com/album/5qBsJT3UuTQ3me60RNgDPl) | 3:59 |
+| 100 | [Divining \(naming of the Lost\)](https://open.spotify.com/track/3TbfqBzk796zABgsCNE9nk) | [The Seven Fields Of Aphelion](https://open.spotify.com/artist/6cd4FkCiVUCWh7oFf71CRQ) | [Keep the Ocean Inside](https://open.spotify.com/album/2lSHSI3IKXBEsdIuwN1Sv2) | 4:51 |
 
 Snapshot ID: `AAAAAE8UzHOchwGqoueMiF4WT0eXK10/`

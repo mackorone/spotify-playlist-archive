@@ -10535,6 +10535,24 @@
     },
     {
       "album": {
+        "name": "Ishqa Ve",
+        "url": "https://open.spotify.com/album/76crGpcBjaBuRTLpxBePXS"
+      },
+      "artists": [
+        {
+          "name": "Zeeshan Ali",
+          "url": "https://open.spotify.com/artist/1Bz46nDCMO1UOKp9GJjL92"
+        }
+      ],
+      "date_added": "2025-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207102,
+      "name": "Ishqa Ve",
+      "url": "https://open.spotify.com/track/0febwTwLDSZzrt46i1RBF5"
+    },
+    {
+      "album": {
         "name": "Bacthafu*up",
         "url": "https://open.spotify.com/album/5EuL5Jp1caNNj9m8bQ1V6u"
       },
@@ -11686,7 +11704,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 306173,
       "name": "Jo Tere Sang",
       "url": "https://open.spotify.com/track/0kYBzFJ5a2Jozi6cI4y9Bp"
@@ -15758,7 +15776,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-25",
+      "date_removed": null,
       "duration_ms": 228000,
       "name": "Mann Mera - Original Version",
       "url": "https://open.spotify.com/track/1As2Jo89VTF9V3D6GuOPr9"
@@ -20418,7 +20436,7 @@
       ],
       "date_added": "2025-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 254100,
       "name": "Raanjhanaa (From \"Raanjhanaa\")",
       "url": "https://open.spotify.com/track/5OMUXgfXsSukZ0zxelpC3b"
@@ -20972,7 +20990,7 @@
       ],
       "date_added": "2025-03-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-21",
+      "date_removed": null,
       "duration_ms": 278474,
       "name": "Ranjheya Ve",
       "url": "https://open.spotify.com/track/5J9L7IbadCt0ivs9xmNrr0"
@@ -23000,7 +23018,7 @@
       ],
       "date_added": "2021-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 586075,
       "name": "Shree Hanuman Chalisa",
       "url": "https://open.spotify.com/track/6H7fLdt0AeWpuxUKXuXWrx"

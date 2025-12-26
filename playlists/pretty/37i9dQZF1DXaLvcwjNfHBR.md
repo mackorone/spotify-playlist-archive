@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLvcwjNfHBR.md) - [plain]
 
 > Your new favourite songs! Cover: Tyla
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,319 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,492 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLvcwjNfHBR.md) - [plain]
 | 74 | [OVERTIME](https://open.spotify.com/track/22J2YpxRmtstASHYO99hyd) | [SAHXL](https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h) | [OVERTIME](https://open.spotify.com/album/13aGuLQ3YjRuXKM8vfnATh) | 2:45 |
 | 75 | [Bye](https://open.spotify.com/track/2OLChTG4uarZlP8GxxRZNc) | [Midnight Til Morning](https://open.spotify.com/artist/7hQmntLjIT4MjvY3BiujTd) | [Bye](https://open.spotify.com/album/0rzQDM1XEkyeDOzvgM1E43) | 2:17 |
 
-Snapshot ID: `AAAAAKi/z1oKeDmkEjpG/hpELjMd+rO3`
+Snapshot ID: `AAAAAOXCl2zbLBGywxt7M58tGHYQdquR`

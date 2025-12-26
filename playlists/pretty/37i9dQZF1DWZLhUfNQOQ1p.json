@@ -1,7 +1,7 @@
 {
-  "description": "Musica da ascoltare con un drink in mano \ud83e\udd43",
-  "num_followers": 252686,
-  "original_name": "Aperitivo Time",
+  "description": "ti devo raccontare di persona, facciamo ape? \ud83e\uded2",
+  "num_followers": 252681,
+  "original_name": "ape time",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -1791,6 +1791,26 @@
     {
       "added_at": "2025-12-02 11:48:38",
       "album": {
+        "name": "Chica",
+        "url": "https://open.spotify.com/album/3gAmDlq88VR7wOramBaeZi"
+      },
+      "artists": [
+        {
+          "name": "NUZZLE",
+          "url": "https://open.spotify.com/artist/5dn00jU51k8ckoaQxrlvqa"
+        },
+        {
+          "name": "Chicca Leaf",
+          "url": "https://open.spotify.com/artist/2iVXJkRvP2E1xoG5mVOYlJ"
+        }
+      ],
+      "duration_ms": 130393,
+      "name": "Chica",
+      "url": "https://open.spotify.com/track/2ZgaR05AXBq8UvE7yx6nDi"
+    },
+    {
+      "added_at": "2025-12-02 11:48:38",
+      "album": {
         "name": "Love Is Real",
         "url": "https://open.spotify.com/album/2zQJvUy9Cw6BGlYBBL4f8X"
       },
@@ -1827,26 +1847,6 @@
     {
       "added_at": "2025-12-02 11:48:38",
       "album": {
-        "name": "Chica",
-        "url": "https://open.spotify.com/album/3gAmDlq88VR7wOramBaeZi"
-      },
-      "artists": [
-        {
-          "name": "NUZZLE",
-          "url": "https://open.spotify.com/artist/5dn00jU51k8ckoaQxrlvqa"
-        },
-        {
-          "name": "Chicca Leaf",
-          "url": "https://open.spotify.com/artist/2iVXJkRvP2E1xoG5mVOYlJ"
-        }
-      ],
-      "duration_ms": 130393,
-      "name": "Chica",
-      "url": "https://open.spotify.com/track/2ZgaR05AXBq8UvE7yx6nDi"
-    },
-    {
-      "added_at": "2025-12-02 11:48:38",
-      "album": {
         "name": "Happiness Therapy 06: All\u00e9gresse",
         "url": "https://open.spotify.com/album/4HeN8rpI28qPE06m2ZOi2q"
       },
@@ -1877,6 +1877,6 @@
       "url": "https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C"
     }
   ],
-  "unique_name": "Aperitivo Time",
+  "unique_name": "ape time",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWZLhUfNQOQ1p"
 }

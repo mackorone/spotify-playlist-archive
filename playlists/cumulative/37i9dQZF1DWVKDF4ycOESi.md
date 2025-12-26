@@ -2,7 +2,7 @@
 
 ### [New Music Friday Italia](https://open.spotify.com/playlist/37i9dQZF1DWVKDF4ycOESi)
 
-> Nuovi brani di Nko con Artie 5ive, Capo Plaza e Nerissima Serpe, Kid Yugi, Levante, Mr\. Rain, Anyma e tanti altri.
+> Questa settimana saltiamo, ci sentiamo il 2 gennaio per le migliori nuove uscite delle ultime due settimane 🎧
 
 7,362 songs - 15 day 11 hr 21 min
 

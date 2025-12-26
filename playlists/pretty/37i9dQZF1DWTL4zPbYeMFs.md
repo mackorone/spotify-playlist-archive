@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTL4zPbYeMFs.md) - [plain]
 
 > Music, laughter and happiness all around on your special day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,312 likes - 75 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,353 likes - 75 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTL4zPbYeMFs.md) - [plain]
 | 56 | [Laal Dupatta](https://open.spotify.com/track/2zGaY3iWYTHjgpSLC0wqdx) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Mujhse Shaadi Karogi](https://open.spotify.com/album/7KPRB8KERypJQurpX1xUpm) | 5:14 |
 | 57 | [Ranjha \- Sid X Kiara Wedding Version](https://open.spotify.com/track/1nvvaiJbrhCkM3Az74N1pM) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [Anvita Dutt](https://open.spotify.com/artist/4nJ0kto93jDLHQKmpGeYS8), [Shraddha Sehgal](https://open.spotify.com/artist/2TSpFVXo3YR4HCtW0PZHyV), [Prerna Arora](https://open.spotify.com/artist/44OCqb4De16h6EY5QfzYp7), [Ashwani Basoya](https://open.spotify.com/artist/37Zo1pexxNhKlFtkYTGngm) | [Ranjha \(Sid X Kiara Wedding Version\)](https://open.spotify.com/album/0BJ8hGiNXBa38eAUHRB3Mm) | 1:58 |
 | 58 | [Aaj Sajeya](https://open.spotify.com/track/119XDcdbad5u5bp841vUGV) | [Goldie Sohel](https://open.spotify.com/artist/5Y9YGMxRoQYfJFj4kJ9TVv) | [Aaj Sajeya](https://open.spotify.com/album/1K1qbVYRTvD4aEYeL2187k) | 3:49 |
-| 59 | [Wada Raha](https://open.spotify.com/track/1qDyykU8pm1PvvO1mqBX8d) | [Arnab Chakraborty](https://open.spotify.com/artist/5g4R0JHd19CuLa3PSiYMWX), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Khakee](https://open.spotify.com/album/7DpDPOTbYwL2HNVZ9RuA7x) | 4:41 |
-| 60 | [Tum Se](https://open.spotify.com/track/0pDiRD9YE6PZBBgjMyezvk) | [Raghav Chaitanya](https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK), [Varun Jain](https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Indraneel](https://open.spotify.com/artist/7xcbCUOXrxDyWxbYxPq60B) | [Teri Baaton Mein Aisa Uljha Jiya](https://open.spotify.com/album/0KvWbswDD0ksvFayBl6gUz) | 4:24 |
+| 59 | [Tum Se](https://open.spotify.com/track/0pDiRD9YE6PZBBgjMyezvk) | [Raghav Chaitanya](https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK), [Varun Jain](https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Indraneel](https://open.spotify.com/artist/7xcbCUOXrxDyWxbYxPq60B) | [Teri Baaton Mein Aisa Uljha Jiya](https://open.spotify.com/album/0KvWbswDD0ksvFayBl6gUz) | 4:24 |
+| 60 | [Wada Raha](https://open.spotify.com/track/1qDyykU8pm1PvvO1mqBX8d) | [Arnab Chakraborty](https://open.spotify.com/artist/5g4R0JHd19CuLa3PSiYMWX), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Khakee](https://open.spotify.com/album/7DpDPOTbYwL2HNVZ9RuA7x) | 4:41 |
 | 61 | [Mehendi Wale Haath](https://open.spotify.com/track/3H4H5AuUK3t28rJNo1Pbfl) | [Sachet\-Parampara](https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25), [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Sayeed Quadri](https://open.spotify.com/artist/2pGRniGOJSOvYoK3dGaBb8) | [Mehendi Wale Haath](https://open.spotify.com/album/27tWgZZCTAUBHTS7h2sBhQ) | 3:30 |
 | 62 | [Din Shagna Da](https://open.spotify.com/track/20rwogC6aE369YsxFb5aRp) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [Neeraj Rajawat](https://open.spotify.com/artist/3yjKvP7LiyIw2dzB5CCGxM) | [Phillauri](https://open.spotify.com/album/0VcufnK1aFnUCIQR2j9cFE) | 3:35 |
 | 63 | [Kali Kali Zulfon Ke \(Lo\-Fi\)](https://open.spotify.com/track/3mUkVsovIuscQlSoMhmAZt) | [Madhur Sharma](https://open.spotify.com/artist/2kfi47LWmlXzQ3p3kWonfQ), [Swapnil Tare](https://open.spotify.com/artist/16023OFrIxSmKOMpIVJ6Ax), [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Kali Kali Zulfon Ke \(Lo\-Fi\)](https://open.spotify.com/album/1zLlgNA1tyiabDhDwWhyPG) | 1:17 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTL4zPbYeMFs.md) - [plain]
 | 74 | [Chaap Tilak](https://open.spotify.com/track/0XCtRvfDHT98h0iUSDFtyO) | [Namita Choudhary](https://open.spotify.com/artist/3OzUySgSF8QxZScB0RxDCB) | [Chaap Tilak](https://open.spotify.com/album/0HkwpQ25VaAl4DNeXh3CtW) | 3:14 |
 | 75 | [Ek Ladki Ko Dekha Toh Aisa Laga \(From "Ek Ladki Ko Dekha Toh Aisa Laga"\)](https://open.spotify.com/track/3jyqXdAjwqO3gFtjnYrbq9) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS), [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe) | [Ek Ladki Ko Dekha Toh Aisa Laga \(From "Ek Ladki Ko Dekha Toh Aisa Laga"\) \- Single](https://open.spotify.com/album/3UWRB8JT1OrMhx9diCj31y) | 2:35 |
 
-Snapshot ID: `AAAAAIzAcJzop5fCY3g/UfDx1z/3wgS6`
+Snapshot ID: `AAAAAEdDbp+xwEIV6iVg11ht1ygpVrxl`

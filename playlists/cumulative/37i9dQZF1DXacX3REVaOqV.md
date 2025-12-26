@@ -4,7 +4,7 @@
 
 > The best in house music
 
-723 songs - 1 day 23 hr 6 min
+724 songs - 1 day 23 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,6 +254,7 @@
 | [Good Morning Gorgeous \(Emmaculate Remix\)](https://open.spotify.com/track/0pWn3bA7mOP38Vmx1lQNco) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Emmaculate](https://open.spotify.com/artist/773IYSUSNH4RFefjVVogGB) | [Good Morning Gorgeous \(Emmaculate Remix\)](https://open.spotify.com/album/2hHgzsGpk9K4cebpE2VibI) | 4:30 | 2022-09-19 | 2022-10-07 |
 | [Good Time](https://open.spotify.com/track/4l6QZVG5Bw88fFQXuFz8Re) | [Stevie Krash](https://open.spotify.com/artist/2zOpxf21yQ0GBN2yOXbjry) | [Good Time](https://open.spotify.com/album/0KE76jUSOg5gj5XJsuRB2V) | 2:54 | 2024-12-20 | 2025-06-21 |
 | [Good Times \- Radio Edit](https://open.spotify.com/track/2oVeXlWPMaRxwZzcVwqTmv) | [Felix Leiter](https://open.spotify.com/artist/0NgdQNyMEbiVR0HBpzMptO), [Ben Rainey](https://open.spotify.com/artist/7n7VU5WFgmKTwDIXHZSQgN) | [Good Times](https://open.spotify.com/album/23CkTM2VAbypE4c3RCHb9W) | 3:12 | 2022-04-14 | 2024-03-01 |
+| [Good To Be Free](https://open.spotify.com/track/2mdTbqAtFmNUvu1G86ENXd) | [Low Blow](https://open.spotify.com/artist/4Jr5ULT8PKTOiBhTUZR9RQ) | [Good To Be Free](https://open.spotify.com/album/7eaUQNCgmHbhsgklqkytrG) | 2:35 | 2025-12-18 |  |
 | [Good Woman \- Edit](https://open.spotify.com/track/3moxYB3Zti5dXy9dIDlBrR) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Good Woman \(Edit\)](https://open.spotify.com/album/2wY62BWaup5b7NB02dNPxm) | 3:35 | 2023-04-06 | 2023-08-25 |
 | [Good Woman \- Edit](https://open.spotify.com/track/69gBITZ6WnJFUIe1b2EMeg) | [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [Good Woman \(Edit\)](https://open.spotify.com/album/6d9RyDwoZCI52HG5sQVUbz) | 3:35 | 2022-09-01 | 2023-03-09 |
 | [Got Me Good](https://open.spotify.com/track/7tp47Us7OJ0u2JaPnSCP5n) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq) | [Got Me Good](https://open.spotify.com/album/7hh5G8PtsnuiMSoXsp1AGQ) | 2:03 | 2025-08-14 |  |
@@ -341,7 +342,7 @@
 | [Ivy \- Jimpster Remix](https://open.spotify.com/track/0DtSTjldhWKc4u6nVeDvT5) | [Michael Gray](https://open.spotify.com/artist/2aM5jpQ0WTcQDeHsil8Ihz), [Tatiana Owens](https://open.spotify.com/artist/0lyl8zoYXLCiL0Ht6Fb0FY), [Jimpster](https://open.spotify.com/artist/2pfHsO54AOejDlJqtXnS85) | [Ivy](https://open.spotify.com/album/57XjgSTUIhddMmGz8HnH3t) | 3:46 | 2024-11-22 | 2025-06-21 |
 | [Jaleo](https://open.spotify.com/track/1YcBeCPxCdPCxXOrWJEiwm) | [Kenny Brian](https://open.spotify.com/artist/11Wf5ZORjHp2zPQxbRTyKc), [Gregor Salto](https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew) | [Jaleo](https://open.spotify.com/album/1ZdmmuqN2FXZrSvR4bvu0C) | 3:07 | 2022-04-14 | 2023-04-13 |
 | [Jazz Funk \- Richard Earnshaw Remix](https://open.spotify.com/track/3vVinVsOxZOHe8TGCC6XPA) | [Aron Volta](https://open.spotify.com/artist/0kReqfLTBVtOXtdpFFxUzA), [Project89](https://open.spotify.com/artist/68RpIpMsvaEMEpuAWYHKjR), [Richard Earnshaw](https://open.spotify.com/artist/7g1UCyeUY5EDPlLLIu16ra) | [Jazz Funk \(Richard Earnshaw Remix\)](https://open.spotify.com/album/6pteWH6D7SQuUR1ikcOuSJ) | 6:56 | 2024-09-12 | 2025-01-19 |
-| [Jazzin' The Way You Know \- Francisco Allendes Remix](https://open.spotify.com/track/2VgMNEahVLNLzlQ9Mmlg4v) | [Jazzy M](https://open.spotify.com/artist/3nws7N81JxYlwBNK95VZUA), [Francisco Allendes](https://open.spotify.com/artist/6hYoWCCWGbTcVbAChJRbko) | [Jazzin' The Way You Know \(Francisco Allendes Remix\)](https://open.spotify.com/album/5zyVPWKf9qeD6OhVbXJXpo) | 3:24 | 2025-05-15 |  |
+| [Jazzin' The Way You Know \- Francisco Allendes Remix](https://open.spotify.com/track/2VgMNEahVLNLzlQ9Mmlg4v) | [Jazzy M](https://open.spotify.com/artist/3nws7N81JxYlwBNK95VZUA), [Francisco Allendes](https://open.spotify.com/artist/6hYoWCCWGbTcVbAChJRbko) | [Jazzin' The Way You Know \(Francisco Allendes Remix\)](https://open.spotify.com/album/5zyVPWKf9qeD6OhVbXJXpo) | 3:24 | 2025-05-15 | 2025-12-26 |
 | [Jazzy Glazzy](https://open.spotify.com/track/03vtyVbJQfT7IEQeeLxmy1) | [Jdr](https://open.spotify.com/artist/1PYEdJGazkqBGTZqTPROmh) | [Jazzy Glazzy](https://open.spotify.com/album/1TUbu9NmHKZo59oqjBBhhC) | 3:17 | 2025-08-14 |  |
 | [Jiggy Jerry](https://open.spotify.com/track/20RftxXUx2ZyE02sdGmgOp) | [Sem Jacobs](https://open.spotify.com/artist/4IDxbXfz5yMK7OGD4sdRjt), [Tagmann](https://open.spotify.com/artist/12mvXbSB0GrbiXeqbh2Is7) | [Jiggy Jerry](https://open.spotify.com/album/2WQsBsF44O6NhdZ8exZOK2) | 3:05 | 2023-12-15 | 2025-01-31 |
 | [Jolie Fille](https://open.spotify.com/track/3pyPyRSFvIOMNS3S2CeMDB) | [Maz](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx), [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Layefa](https://open.spotify.com/artist/7MkQpNkd549FwPBbgkGyE8) | [Jolie Fille](https://open.spotify.com/album/7x1lI7V6hPlNkQtcuRCrnV) | 3:14 | 2024-08-30 | 2025-11-08 |

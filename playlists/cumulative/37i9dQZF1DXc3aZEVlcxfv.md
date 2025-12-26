@@ -4,7 +4,7 @@
 
 > If you're blessed!
 
-496 songs - 1 day 9 hr 10 min
+498 songs - 1 day 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -408,6 +408,7 @@
 | [So Good](https://open.spotify.com/track/0iaTMmga3aVAgYEWhk6EGn) | [Dr\. Prinz](https://open.spotify.com/artist/2vfO5rYj2XlUvUchSO1GOq), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu) | [So Good](https://open.spotify.com/album/3rEGp31cARIIlik4WK9xyB) | 2:51 | 2025-09-26 | 2025-10-31 |
 | [So Good](https://open.spotify.com/track/3qggW9kMBkT34jXDHzEv6e) | [Pv Idemudia](https://open.spotify.com/artist/0iE6uT4YVh808x9A2iWJ9D) | [So Good](https://open.spotify.com/album/7d6PpHVB0TjQbogPXJ23Ar) | 3:18 | 2025-09-05 | 2025-10-17 |
 | [So Grateful](https://open.spotify.com/track/4kbqk8gpGdGt5L0oNVQ6fS) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [So Grateful](https://open.spotify.com/album/2s3CMn5sVGIeR4E3gWj2fl) | 2:52 | 2025-06-06 | 2025-08-29 |
+| [Soldier for Christ](https://open.spotify.com/track/3X3FH0gB1MkEjvceqXVHuc) | [Barri O](https://open.spotify.com/artist/7fEwlBIQt3uO4fHFQ5y3QO) | [Soldier for Christ](https://open.spotify.com/album/410V8PBfngZEIx4Ufc7xdF) | 3:37 | 2025-12-26 |  |
 | [Someone](https://open.spotify.com/track/6AdMC6uV7DtLq2A7ya1UOp) | [Micah Charlz](https://open.spotify.com/artist/2d2a1Ulv4ArqVxCOxfWCh1) | [Someone](https://open.spotify.com/album/2k8TLgBxuwl80S4czOOTA2) | 3:39 | 2025-11-28 |  |
 | [Soul](https://open.spotify.com/track/1wqLqn1y8nrmm97RZdYlCL) | [Paul\-Emmanuel](https://open.spotify.com/artist/4VLYFcmEJqb17kzkQ64wE3), [JustOG](https://open.spotify.com/artist/6sVnlgchiVPQOsqMkNlQvV), [Awesome's Music Group](https://open.spotify.com/artist/6pT56YXMMA6sh3UyNMSDUO) | [Soul](https://open.spotify.com/album/553RUHvkweFtnFVeaV8SX4) | 2:24 | 2025-10-17 | 2025-11-28 |
 | [Spirit Chant](https://open.spotify.com/track/6SmLWZs2HkAX17zcvFGcln) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Spirit Chant](https://open.spotify.com/album/7FzNCkKKqToJjJGXFhWkrf) | 10:10 | 2024-09-27 | 2025-02-07 |
@@ -443,6 +444,7 @@
 | [This is the day](https://open.spotify.com/track/2TRKKi6T9EqjFGwRddxz5d) | [Scott Evans](https://open.spotify.com/artist/7cNvuCgJHQfzdOZlhQ3W5r), [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [KobbySalm](https://open.spotify.com/artist/0O4MEIc9HB5MiTfQX5eKNB) | [This is the day](https://open.spotify.com/album/292v6JlFtWgntRY87Ojj5M) | 2:44 | 2025-11-21 |  |
 | [THIS YEAR \(Blessings\)](https://open.spotify.com/track/2VGGQdroduj4dIMGPsBzDG) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Ehis 'D' Greatest](https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf) | [THIS YEAR \(Blessings\)](https://open.spotify.com/album/31Iuukwc9AgXmHyU2UmYDi) | 2:06 | 2024-09-27 |  |
 | [Thousand Billion Hallelujahs](https://open.spotify.com/track/0l2deOvx1f7lRONAFoUc31) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T) | [EXPANSION](https://open.spotify.com/album/3hsZtVUii8QpLxXWidG64F) | 3:00 | 2025-08-29 | 2025-10-17 |
+| [Titilailai](https://open.spotify.com/track/1SWHsd94dvBz0FTTZCUP2G) | [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8), [Gospel Wills](https://open.spotify.com/artist/41LRL6GwikpOFVPAcCBDGr) | [Titilailai](https://open.spotify.com/album/0WSGb2H04LNh3FQhTbIBdZ) | 2:21 | 2025-12-26 |  |
 | [TOBECHUKWU](https://open.spotify.com/track/0gsd7GzrNK9f1sDCWp6TUh) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [MERCY CHINWO BLESSED](https://open.spotify.com/artist/1wo9fKt92KBDi8UxJyGFJI) | [TOBECHUKWU](https://open.spotify.com/album/47LudPhVqHz7bEEuM4LUcr) | 8:07 | 2024-09-27 | 2025-11-28 |
 | [Tomorrow](https://open.spotify.com/track/0yHrFrklGXZZ5FWWyMg3ay) | [Awesome Madu](https://open.spotify.com/artist/3UH99r4rVxNIbqwvwthmb8), [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8) | [Tomorrow](https://open.spotify.com/album/412BLUs46QfrWANlHvZwfm) | 3:13 | 2025-11-07 |  |
 | [Too Good](https://open.spotify.com/track/01Sgqsj81Pkw2EyM5F2zg1) | [Johnyjune](https://open.spotify.com/artist/658iJcPBWp0q5DfPf1dzhy), [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv) | [Too Good](https://open.spotify.com/album/54FYtDKHmb2VRlD7I5qcPy) | 3:37 | 2025-04-25 | 2025-07-25 |

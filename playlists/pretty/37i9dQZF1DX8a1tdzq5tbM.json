@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1756129,
+  "num_followers": 1756254,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
@@ -1667,6 +1667,26 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Elements of Life",
+        "url": "https://open.spotify.com/album/4OYaWFlOA2znz2KNwZs7Is"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "JES",
+          "url": "https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g"
+        }
+      ],
+      "duration_ms": 420546,
+      "name": "Everything (feat. JES)",
+      "url": "https://open.spotify.com/track/1jKWGx7rruKRB2gwyHBtYN"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Back 2 House",
         "url": "https://open.spotify.com/album/5TQNDaPGGHtDWfxbAbLfzm"
       },
@@ -1679,26 +1699,6 @@
       "duration_ms": 211853,
       "name": "Lady (Hear Me Tonight)",
       "url": "https://open.spotify.com/track/2T42itxS9f1ijygkLOLGOe"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Dance4Life (feat. Maxi Jazz)",
-        "url": "https://open.spotify.com/album/2rZSgNPIi2STnDDx6snIQ5"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Maxi Jazz",
-          "url": "https://open.spotify.com/artist/2GKn4JgqBrRxt1UK12D6Rq"
-        }
-      ],
-      "duration_ms": 213320,
-      "name": "Dance4Life (feat. Maxi Jazz) - Radio Edit",
-      "url": "https://open.spotify.com/track/1uVeunZcBInXIQOwFWxSKL"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Further",
-        "url": "https://open.spotify.com/album/5EOAvD6xmE1g9XV49wFzNG"
-      },
-      "artists": [
-        {
-          "name": "The Chemical Brothers",
-          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
-        }
-      ],
-      "duration_ms": 365080,
-      "name": "Swoon",
-      "url": "https://open.spotify.com/track/1xrr9bAS0zfjCXdLKpLJnA"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Moby",
         "url": "https://open.spotify.com/album/3odtsxIywNIQBqlP7UFyv4"
       },
@@ -1755,6 +1739,62 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Further",
+        "url": "https://open.spotify.com/album/5EOAvD6xmE1g9XV49wFzNG"
+      },
+      "artists": [
+        {
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+        }
+      ],
+      "duration_ms": 365080,
+      "name": "Swoon",
+      "url": "https://open.spotify.com/track/1xrr9bAS0zfjCXdLKpLJnA"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Dance4Life (feat. Maxi Jazz)",
+        "url": "https://open.spotify.com/album/2rZSgNPIi2STnDDx6snIQ5"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Maxi Jazz",
+          "url": "https://open.spotify.com/artist/2GKn4JgqBrRxt1UK12D6Rq"
+        }
+      ],
+      "duration_ms": 213320,
+      "name": "Dance4Life (feat. Maxi Jazz) - Radio Edit",
+      "url": "https://open.spotify.com/track/1uVeunZcBInXIQOwFWxSKL"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Believer (feat. Wynter Gordon) [Club Mixes]",
+        "url": "https://open.spotify.com/album/1voWi2FxS0YvImqxxtdTqR"
+      },
+      "artists": [
+        {
+          "name": "Freemasons",
+          "url": "https://open.spotify.com/artist/49H2dQUNhIlso7VNkS8nFR"
+        },
+        {
+          "name": "Wynter Gordon",
+          "url": "https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF"
+        }
+      ],
+      "duration_ms": 189388,
+      "name": "Believer (feat. Wynter Gordon) - Radio Edit",
+      "url": "https://open.spotify.com/track/56kdmEz12GpKkEzxhtHdl7"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "L.E.F.",
         "url": "https://open.spotify.com/album/2OTUageiCyAS5E7rVKdEjh"
       },
@@ -1767,26 +1807,6 @@
       "duration_ms": 271586,
       "name": "Fire",
       "url": "https://open.spotify.com/track/0yHlyAKqAF1KLKx8BMYhvq"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Elements of Life",
-        "url": "https://open.spotify.com/album/4OYaWFlOA2znz2KNwZs7Is"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "JES",
-          "url": "https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g"
-        }
-      ],
-      "duration_ms": 420546,
-      "name": "Everything (feat. JES)",
-      "url": "https://open.spotify.com/track/1jKWGx7rruKRB2gwyHBtYN"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1823,6 +1843,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 562573,
+      "name": "A Tear In The Open",
+      "url": "https://open.spotify.com/track/2ECwcDngvqCBpLuQNyOZop"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Put Your Hands Up For Detroit",
         "url": "https://open.spotify.com/album/0u8AX0mzDNIeS8y2Xfwye1"
       },
@@ -1851,22 +1887,6 @@
       "duration_ms": 254120,
       "name": "Release Me",
       "url": "https://open.spotify.com/track/0EMyqiMNDRptenOpbe2mcK"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Just Be",
-        "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 562573,
-      "name": "A Tear In The Open",
-      "url": "https://open.spotify.com/track/2ECwcDngvqCBpLuQNyOZop"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1923,26 +1943,6 @@
       "duration_ms": 171430,
       "name": "I Found U - Radio Edit",
       "url": "https://open.spotify.com/track/1OLNYVZejaOmBJ7ykGnyoG"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Believer (feat. Wynter Gordon) [Club Mixes]",
-        "url": "https://open.spotify.com/album/1voWi2FxS0YvImqxxtdTqR"
-      },
-      "artists": [
-        {
-          "name": "Freemasons",
-          "url": "https://open.spotify.com/artist/49H2dQUNhIlso7VNkS8nFR"
-        },
-        {
-          "name": "Wynter Gordon",
-          "url": "https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF"
-        }
-      ],
-      "duration_ms": 189388,
-      "name": "Believer (feat. Wynter Gordon) - Radio Edit",
-      "url": "https://open.spotify.com/track/56kdmEz12GpKkEzxhtHdl7"
     },
     {
       "added_at": "2024-07-12 15:40:20",

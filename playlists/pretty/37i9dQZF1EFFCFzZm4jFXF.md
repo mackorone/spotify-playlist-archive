@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/74wXW513Ovy4ux507Wo67A">Brad Mair</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99 likes - 120 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 100 likes - 120 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 21 | [Revel In The Chaos](https://open.spotify.com/track/4BUkQEtq4b70YlS5FWnT9N) | [Horxata](https://open.spotify.com/artist/3QkSqgd7THUtqWlJjL4iRn), [Nova Tropics](https://open.spotify.com/artist/5Z20EyBaysJXOw9suCDqsK) | [Revel In The Chaos](https://open.spotify.com/album/77mSYLnSCZ4PQV0bVLb37s) | 2:53 |
 | 22 | [We’ll Be United](https://open.spotify.com/track/6gfWIbbvg58sGwn9xs0HW6) | [Romeo Blanco](https://open.spotify.com/artist/7oVSEUsFMvqBPpVKuRFSXQ), [Brad Mair](https://open.spotify.com/artist/4wE9wGzadw1jAgPXXSga8D) | [We’ll Be United](https://open.spotify.com/album/7FStOXLKUI6RKt61k4SEgF) | 2:58 |
 | 23 | [Start Again](https://open.spotify.com/track/7HlkPqRO6iYyWsUYX4l4gq) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Tomorrow Never Came](https://open.spotify.com/album/0sDmEPP86YEUsNu3f2y7D7) | 3:35 |
-| 24 | [Fade Away](https://open.spotify.com/track/7thOGpKaWpPotq2U37UItx) | [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88), [SMBDY](https://open.spotify.com/artist/3EVIvUOdQq6byU8fIljO2e) | [Fade Away](https://open.spotify.com/album/0XyAR5FCmnhX4LgLHjLnTP) | 3:45 |
-| 25 | [Outta My Head](https://open.spotify.com/track/6whv4cMPhgbBCVhhffQP4u) | [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB), [Henri PFR](https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq) | [Outta My Head](https://open.spotify.com/album/67B5QeRHE7eRtXauSbl1mU) | 2:22 |
+| 24 | [Outta My Head](https://open.spotify.com/track/6whv4cMPhgbBCVhhffQP4u) | [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB), [Henri PFR](https://open.spotify.com/artist/6n9XmMc3mX18mrTHYOCPIq) | [Outta My Head](https://open.spotify.com/album/67B5QeRHE7eRtXauSbl1mU) | 2:22 |
+| 25 | [Fade Away](https://open.spotify.com/track/7thOGpKaWpPotq2U37UItx) | [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88), [SMBDY](https://open.spotify.com/artist/3EVIvUOdQq6byU8fIljO2e) | [Fade Away](https://open.spotify.com/album/0XyAR5FCmnhX4LgLHjLnTP) | 3:45 |
 | 26 | [Backing Down](https://open.spotify.com/track/69Rnbe26tmlQSQUgRFvneJ) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Volume One](https://open.spotify.com/album/0U2US6liFchgyXBw7nZozm) | 3:48 |
 | 27 | [Get Up](https://open.spotify.com/track/0hfEbuqdlZFAABHTsWTpKz) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [Get Up](https://open.spotify.com/album/2BjmJnuWuSxXQQUbQuwDl9) | 3:26 |
 | 28 | [Losing Me](https://open.spotify.com/track/0JvrNx0h9vHzwQpip0vx2m) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Volume One](https://open.spotify.com/album/0U2US6liFchgyXBw7nZozm) | 4:19 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 52 | [Rattle](https://open.spotify.com/track/70z59SfpWsULOMx1NSFYGr) | [The Wandering Hearts](https://open.spotify.com/artist/6E8ghf5EmMGSLx5yAjpMDl) | [Wild Silence](https://open.spotify.com/album/3jtfDa5cH24PMymBQkCPgv) | 3:29 |
 | 53 | [Adelaide](https://open.spotify.com/track/3pZghavVnbU6iDRPXVRc5v) | [Horxata](https://open.spotify.com/artist/3QkSqgd7THUtqWlJjL4iRn), [Nova Tropics](https://open.spotify.com/artist/5Z20EyBaysJXOw9suCDqsK) | [Adelaide](https://open.spotify.com/album/1nf7jCiBe4AgaUxTp4kQ7e) | 2:15 |
 | 54 | [Need You Now \- From "A Million Little Things: Season 2"](https://open.spotify.com/track/2L7NVGbpaotvB6fR3JcslU) | [Anna Akana](https://open.spotify.com/artist/0YSxCnmIwDDphTykhROUWe) | [Need You Now \(From "A Million Little Things: Season 2"\)](https://open.spotify.com/album/5y8zj5nXNRADYpEQyWMbbV) | 3:29 |
-| 55 | [Change \- Romeo's TML Radio Edit](https://open.spotify.com/track/1kcreatzCeNJ27Tua6RssA) | [Amersy](https://open.spotify.com/artist/57TR9rGvnqx5QDkRtWu6GV), [Romeo Blanco](https://open.spotify.com/artist/7oVSEUsFMvqBPpVKuRFSXQ), [Brad Mair](https://open.spotify.com/artist/4wE9wGzadw1jAgPXXSga8D) | [Change](https://open.spotify.com/album/4wtEyZvBdnOo3Gc1nnV2pD) | 3:03 |
-| 56 | [Trophy](https://open.spotify.com/track/07ddLuqd8Ys1ZQ43oym8bq) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Trophy](https://open.spotify.com/album/00RHQRDNDwImmniIsaUSbF) | 3:03 |
+| 55 | [Trophy](https://open.spotify.com/track/07ddLuqd8Ys1ZQ43oym8bq) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Trophy](https://open.spotify.com/album/00RHQRDNDwImmniIsaUSbF) | 3:03 |
+| 56 | [Change \- Romeo's TML Radio Edit](https://open.spotify.com/track/1kcreatzCeNJ27Tua6RssA) | [Amersy](https://open.spotify.com/artist/57TR9rGvnqx5QDkRtWu6GV), [Romeo Blanco](https://open.spotify.com/artist/7oVSEUsFMvqBPpVKuRFSXQ), [Brad Mair](https://open.spotify.com/artist/4wE9wGzadw1jAgPXXSga8D) | [Change](https://open.spotify.com/album/4wtEyZvBdnOo3Gc1nnV2pD) | 3:03 |
 | 57 | [Moment With You](https://open.spotify.com/track/3hQHlu4SSbB37hrHAM2e83) | [BnO](https://open.spotify.com/artist/6maKhRs62Hfp9pYvB8wHuP), [Lulleaux](https://open.spotify.com/artist/6bA8L82JXU9CQa2nyUnLDh), [Nova Tropics](https://open.spotify.com/artist/5Z20EyBaysJXOw9suCDqsK) | [Moment With You \(feat\. Nova Tropics\)](https://open.spotify.com/album/5hWZZhkZJoBQ63d99QKhCS) | 2:43 |
 | 58 | [Crossfire \(feat\. SMBDY\)](https://open.spotify.com/track/5cD20nkndQ7iRkoidzZCpc) | [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC), [SMBDY](https://open.spotify.com/artist/3EVIvUOdQq6byU8fIljO2e) | [Crossfire \(feat\. SMBDY\)](https://open.spotify.com/album/3eaRXUyq7GADlgdkST47de) | 3:36 |
 | 59 | [Start Again](https://open.spotify.com/track/4myl3HcwPiwUdkuRl3x8Ws) | [Nathan Grisdale](https://open.spotify.com/artist/2CxdgVG8zBFMBPZb4NCb9l) | [Start Again](https://open.spotify.com/album/1W2oxgJRPxIWU9KOaJZ2Qn) | 3:37 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 119 | [Pon Me](https://open.spotify.com/track/6gNgcVrZceb97UQFZbKPCk) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 4:15 |
 | 120 | [Find You](https://open.spotify.com/track/0wtNmuETEesYuB73ni1tZU) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 3:48 |
 
-Snapshot ID: `AcFHKAAAAABwcoS7K/Z6t6Xb/LPT59Qk`
+Snapshot ID: `AcFNBAAAAAA/ULdpjqeMLfrcywF5zZz4`

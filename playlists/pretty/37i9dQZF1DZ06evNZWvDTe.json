@@ -1,12 +1,12 @@
 {
   "description": "This is Sarkodie. The essential tracks, all in one playlist.",
-  "num_followers": 13699,
+  "num_followers": 13707,
   "original_name": "This Is Sarkodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUnbgAAAAABjG1A8A8K38WdQm5dDt5pG",
+  "snapshot_id": "aUstAAAAAAABM8r28U2DKhaCDEQUJhqI",
   "tracks": [
     {
       "added_at": null,
@@ -439,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You & I",
-        "url": "https://open.spotify.com/album/1O1zYFI9VSymutdU8HLbCW"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "You & I",
-      "url": "https://open.spotify.com/track/6awL5NSRprmquSbat1sCnf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "COLD",
         "url": "https://open.spotify.com/album/17D5HFmFoB15edwDAS7nt0"
       },
@@ -475,22 +459,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jamz",
-        "url": "https://open.spotify.com/album/3mm3G4m0vpZyJQHkbkjgjp"
+        "name": "You & I",
+        "url": "https://open.spotify.com/album/1O1zYFI9VSymutdU8HLbCW"
       },
       "artists": [
         {
           "name": "Sarkodie",
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 206077,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/0CE5rrrM0UqlbtVzDb4kTT"
+      "duration_ms": 160000,
+      "name": "You & I",
+      "url": "https://open.spotify.com/track/6awL5NSRprmquSbat1sCnf"
     },
     {
       "added_at": null,
@@ -511,6 +491,26 @@
       "duration_ms": 203077,
       "name": "AMEN",
       "url": "https://open.spotify.com/track/0GzT6ee1Maf91W2f737jex"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jamz",
+        "url": "https://open.spotify.com/album/3mm3G4m0vpZyJQHkbkjgjp"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 206077,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/0CE5rrrM0UqlbtVzDb4kTT"
     },
     {
       "added_at": null,
@@ -583,6 +583,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Adonai (Remix)",
+        "url": "https://open.spotify.com/album/0K8AdVnV4Pf2gbUOSYeady"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Castro",
+          "url": "https://open.spotify.com/artist/1NhHtG7W5ia2fqXRw5Sp5M"
+        }
+      ],
+      "duration_ms": 288130,
+      "name": "Adonai (Remix)",
+      "url": "https://open.spotify.com/track/4cEWZvR2wkb8aEB1vkTQDS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "It's My Life",
         "url": "https://open.spotify.com/album/00Z9ROeJxC7gmFMcNblg3U"
       },
@@ -623,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adonai (Remix)",
-        "url": "https://open.spotify.com/album/0K8AdVnV4Pf2gbUOSYeady"
+        "name": "Black Love",
+        "url": "https://open.spotify.com/album/0IR43Xf6qGF3iYKW1qg24s"
       },
       "artists": [
         {
@@ -632,13 +652,13 @@
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
         },
         {
-          "name": "Castro",
-          "url": "https://open.spotify.com/artist/1NhHtG7W5ia2fqXRw5Sp5M"
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
         }
       ],
-      "duration_ms": 288130,
-      "name": "Adonai (Remix)",
-      "url": "https://open.spotify.com/track/4cEWZvR2wkb8aEB1vkTQDS"
+      "duration_ms": 191719,
+      "name": "Anadwo (feat. King Promise)",
+      "url": "https://open.spotify.com/track/0jC6H13LqNH2kmjAbsgkMM"
     },
     {
       "added_at": null,
@@ -659,26 +679,6 @@
       "duration_ms": 163801,
       "name": "DND (feat. Sarkodie)",
       "url": "https://open.spotify.com/track/5xR6EWpW9tAmIrzJ0Ba1SQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Black Love",
-        "url": "https://open.spotify.com/album/0IR43Xf6qGF3iYKW1qg24s"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        }
-      ],
-      "duration_ms": 191719,
-      "name": "Anadwo (feat. King Promise)",
-      "url": "https://open.spotify.com/track/0jC6H13LqNH2kmjAbsgkMM"
     },
     {
       "added_at": null,
@@ -759,6 +759,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chingam",
+        "url": "https://open.spotify.com/album/3ILtnX1gX3oz7IOf8io5pE"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Bisa Kdei",
+          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Chingam",
+      "url": "https://open.spotify.com/track/5brsoRdZMz2rci57w60oh2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HUSTLERS DREAM (feat. Jay Bahd & Kwaku DMC)",
         "url": "https://open.spotify.com/album/4YGITRot41cA37kXtZu4VZ"
       },
@@ -779,26 +799,6 @@
       "duration_ms": 195555,
       "name": "HUSTLERS DREAM (feat. Jay Bahd & Kwaku DMC)",
       "url": "https://open.spotify.com/track/71aJvjD3gGV1TY7A0Ymg4m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chingam",
-        "url": "https://open.spotify.com/album/3ILtnX1gX3oz7IOf8io5pE"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Bisa Kdei",
-          "url": "https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Chingam",
-      "url": "https://open.spotify.com/track/5brsoRdZMz2rci57w60oh2"
     },
     {
       "added_at": null,
@@ -847,6 +847,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tonga",
+        "url": "https://open.spotify.com/album/21RhbIIQ8i06WMDavhdgs8"
+      },
+      "artists": [
+        {
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 202346,
+      "name": "Tonga",
+      "url": "https://open.spotify.com/track/7ceisg9MpCeJoLaoPfyu0V"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mary",
         "url": "https://open.spotify.com/album/2B6w3GYNZFYmUPAPOEa2lo"
       },
@@ -883,26 +903,6 @@
       "duration_ms": 178573,
       "name": "Who Da Man",
       "url": "https://open.spotify.com/track/6XJVjxcULLokcDdFtNfEBF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tonga",
-        "url": "https://open.spotify.com/album/21RhbIIQ8i06WMDavhdgs8"
-      },
-      "artists": [
-        {
-          "name": "Joey B",
-          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 202346,
-      "name": "Tonga",
-      "url": "https://open.spotify.com/track/7ceisg9MpCeJoLaoPfyu0V"
     },
     {
       "added_at": null,

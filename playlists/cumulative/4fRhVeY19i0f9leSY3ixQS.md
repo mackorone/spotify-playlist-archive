@@ -4,7 +4,7 @@
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-474 songs - 1 day 3 hr 15 min
+476 songs - 1 day 3 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,15 +159,17 @@
 | [Ghost is Worn](https://open.spotify.com/track/4W10VgYJxuZHDNMkAFxGG7) | [If by Whiskey](https://open.spotify.com/artist/2BN3IyVjJZIgTjYeK2FEu5) | [Ghost is Worn](https://open.spotify.com/album/2GXth5jI8gVaHj9usItgyF) | 2:51 | 2025-12-16 |  |
 | [Ghosts aren't scary](https://open.spotify.com/track/1TGxl2VuaKpJeGBmaxuo80) | [Pickap.art](https://open.spotify.com/artist/4TMb7hw4kEDZdxMK9IYLUc) | [Machine Yearning EP](https://open.spotify.com/album/7HBzPwXdizTOmjuEGCF9Bx) | 0:45 | 2025-08-03 |  |
 | [Give It Up?](https://open.spotify.com/track/5wZhqmmPBaICHfxit3mKq2) | [American Thought Criminals](https://open.spotify.com/artist/0ASVg1JnnEPszuOe6CSNKk) | [Over the Target](https://open.spotify.com/album/2Lf8xmMCpCFEZgg45lbt7l) | 1:39 | 2025-12-04 | 2025-12-24 |
+| [Glossy Cover](https://open.spotify.com/track/4yK0qEK134tVyaNcoRx4qw) | [Vasch](https://open.spotify.com/artist/5cOG2PUwppnjhU7rlWLeaY) | [Glossy Cover](https://open.spotify.com/album/0fC5YSOcEvWVE1SIMUuLgg) | 3:02 | 2025-12-25 |  |
 | [Gnorts, Mr\. Alien](https://open.spotify.com/track/1ZFXuSp0yPFYdQfYdIyARS) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [LOUD NOISES](https://open.spotify.com/album/3td0OGM48SevIvq1jkUxAM) | 3:54 | 2025-08-03 |  |
 | [Goat Fucker](https://open.spotify.com/track/2TOTFlTDVZFxDqJY0sef7O) | [Stitched Up](https://open.spotify.com/artist/762Cxbk76fKqLFirQVM3Q5) | [Jupiter Jazz And The Suicide Cult](https://open.spotify.com/album/48GBDYow9DdWaJz2GoOBQh) | 4:04 | 2025-11-19 | 2025-12-10 |
 | [goblins](https://open.spotify.com/track/5LX38WOdERwGOvdUqeyJDU) | [dredge](https://open.spotify.com/artist/2a5NdT9HMrYzElE44JJ59W) | [goblins](https://open.spotify.com/album/2y5FWPfNexTfC3vRjFLwC9) | 4:20 | 2025-09-03 |  |
 | [goblins \(nosebleed edit\)](https://open.spotify.com/track/2uQFUzUxYVXveO2FF9cpRX) | [dredge](https://open.spotify.com/artist/2a5NdT9HMrYzElE44JJ59W) | [goblins](https://open.spotify.com/album/2y5FWPfNexTfC3vRjFLwC9) | 2:00 | 2025-09-03 |  |
 | [Golden Bloom](https://open.spotify.com/track/6Ejw0TslqjsDLClAL3skkJ) | [Reverends](https://open.spotify.com/artist/7fHhc2SKnOHwFMjkr0TlCt) | [Golden Bloom](https://open.spotify.com/album/39PBq7PV4fgMRqBwMJdK7I) | 4:51 | 2025-12-16 |  |
 | [goodbye \- 2025 remastered](https://open.spotify.com/track/10arqRDmhZcdhWZvpC3Ko0) | [Władek Sheen](https://open.spotify.com/artist/5elwcM1iBIib16jSGK1SQe) | [hypnotize](https://open.spotify.com/album/1H2wW7fI1Y6GUijZxPo2gJ) | 2:55 | 2025-12-17 |  |
-| [Graveyard Sweetheart \(Sophie's Revenge\)](https://open.spotify.com/track/4X9aqdTz0L02xF2POPHZFV) | [Triiiplesixxx](https://open.spotify.com/artist/55rQFsoNEHp3uIpF8mrhDI) | [Graveyard Sweetheart \(Sophie's Revenge\)](https://open.spotify.com/album/21E6vOZbzVqeWIIYFGUUxN) | 2:21 | 2025-12-23 | 2025-12-25 |
+| [Graveyard Sweetheart](https://open.spotify.com/track/4X9aqdTz0L02xF2POPHZFV) | [Triiiplesixxx](https://open.spotify.com/artist/55rQFsoNEHp3uIpF8mrhDI) | [Graveyard Sweetheart](https://open.spotify.com/album/21E6vOZbzVqeWIIYFGUUxN) | 2:21 | 2025-12-23 |  |
 | [Greaseproof Paper](https://open.spotify.com/track/2PxE6OXL7NiTiFVNfB5ugl) | [Davenola](https://open.spotify.com/artist/1bZPqoTxPcCaTMVZOe3kvT) | [Greaseproof Paper](https://open.spotify.com/album/6ZocKDUZTGq93eCj1Cde1X) | 2:33 | 2025-08-03 |  |
 | [Greatness Abandoned](https://open.spotify.com/track/5kRxQQyqbe9VyFMgO3Iw4i) | [The Burying Game](https://open.spotify.com/artist/6XHIzQUMkkyXIsXn3XPnnK) | [Greatness Abandoned](https://open.spotify.com/album/3w98QK5DiwTtQtfwnGHxNo) | 3:50 | 2025-11-21 | 2025-12-10 |
+| [Grown Up](https://open.spotify.com/track/1El7h6rWS5ZHLeXVMGWMDI) | [The DT's](https://open.spotify.com/artist/6SD8VqIT4EO7YVA2to3ZRZ) | [Grown Up](https://open.spotify.com/album/3jDQljn8CzAVOMZVdc7dlh) | 3:16 | 2025-12-25 |  |
 | [GUARDIAN](https://open.spotify.com/track/08F0GASkCAgiQiSCezLqAA) | [ethical artifacts](https://open.spotify.com/artist/7IHO8Z5AdfjxUv1KkIE6fV) | [GUARDIAN](https://open.spotify.com/album/5ihPLwitCr5awlUmBzpK5g) | 4:18 | 2025-12-19 |  |
 | [Hallelujah](https://open.spotify.com/track/1PjtZThLPYY2DZSfkv5YgY) | [Diagram For June](https://open.spotify.com/artist/4gtTD7x3IRglHpBgkzCVkg) | [Putting The Ex In XMas](https://open.spotify.com/album/4MsJGwIsQfgCTkQvrx1xby) | 5:00 | 2025-12-10 |  |
 | [Hammer\-on](https://open.spotify.com/track/12mn5SEwGNKsKsk34p0Fs2) | [Pickap.art](https://open.spotify.com/artist/4TMb7hw4kEDZdxMK9IYLUc) | [Frantic!](https://open.spotify.com/album/04HZkLDGricV1azqsq5yfV) | 1:16 | 2025-08-03 |  |

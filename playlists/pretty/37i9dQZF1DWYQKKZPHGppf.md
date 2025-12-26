@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYQKKZPHGppf.md) - [plain]
 
 > Il 2025 del <a href="spotify:playlist:37i9dQZF1DX14EWeH2Pwf3">rap</a> italiano, tra rapstar ed emergenti\. Cover: Artie 5ive
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,443 likes - 55 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,449 likes - 55 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

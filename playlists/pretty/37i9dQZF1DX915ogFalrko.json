@@ -1,6 +1,6 @@
 {
   "description": "La playlist \u00e0 la cool pour accompagner votre d\u00eener !",
-  "num_followers": 183776,
+  "num_followers": 183821,
   "original_name": "D\u00eener entre amis",
   "owner": {
     "name": "Spotify",
@@ -663,6 +663,26 @@
     {
       "added_at": "2025-12-18 23:00:23",
       "album": {
+        "name": "33 000 FT.",
+        "url": "https://open.spotify.com/album/1DP1CM6GndWiLkYKMudhek"
+      },
+      "artists": [
+        {
+          "name": "Kazy Lambist",
+          "url": "https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH"
+        },
+        {
+          "name": "Glasses",
+          "url": "https://open.spotify.com/artist/1aZqKXeEfZFRR4QvKvqi1g"
+        }
+      ],
+      "duration_ms": 170868,
+      "name": "Love Song (feat. Glasses)",
+      "url": "https://open.spotify.com/track/0fD6vPYWty2Jy4VVozWzfp"
+    },
+    {
+      "added_at": "2025-12-18 23:00:23",
+      "album": {
         "name": "Incredibly Blind (feat. X-Cetra)",
         "url": "https://open.spotify.com/album/39ofopEoieuFM7zHvsdpKy"
       },
@@ -683,26 +703,6 @@
       "duration_ms": 144829,
       "name": "Incredibly Blind (feat. X-Cetra)",
       "url": "https://open.spotify.com/track/4Ui0BmcYIgCF3rWQPBGtl3"
-    },
-    {
-      "added_at": "2025-12-18 23:00:23",
-      "album": {
-        "name": "33 000 FT.",
-        "url": "https://open.spotify.com/album/1DP1CM6GndWiLkYKMudhek"
-      },
-      "artists": [
-        {
-          "name": "Kazy Lambist",
-          "url": "https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH"
-        },
-        {
-          "name": "Glasses",
-          "url": "https://open.spotify.com/artist/1aZqKXeEfZFRR4QvKvqi1g"
-        }
-      ],
-      "duration_ms": 170868,
-      "name": "Love Song (feat. Glasses)",
-      "url": "https://open.spotify.com/track/0fD6vPYWty2Jy4VVozWzfp"
     },
     {
       "added_at": "2025-12-18 23:00:23",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2025-12-18 23:00:23",
       "album": {
-        "name": "How To Live",
-        "url": "https://open.spotify.com/album/0YrhLhmdGAgsHizxY1BRlH"
-      },
-      "artists": [
-        {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
-        }
-      ],
-      "duration_ms": 240043,
-      "name": "How To Live",
-      "url": "https://open.spotify.com/track/25ywKtUww26ABFd0tiGt9D"
-    },
-    {
-      "added_at": "2025-12-18 23:00:23",
-      "album": {
         "name": "Taking Over",
         "url": "https://open.spotify.com/album/5jEBgUyhPLu3QUoZvbRdCa"
       },
@@ -1083,18 +1067,18 @@
     {
       "added_at": "2025-12-18 23:00:23",
       "album": {
-        "name": "Eden",
-        "url": "https://open.spotify.com/album/1PIpblTFI5xO71o0SWj5Ca"
+        "name": "How To Live",
+        "url": "https://open.spotify.com/album/0YrhLhmdGAgsHizxY1BRlH"
       },
       "artists": [
         {
-          "name": "Avalon Emerson",
-          "url": "https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz"
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
         }
       ],
-      "duration_ms": 247588,
-      "name": "Eden",
-      "url": "https://open.spotify.com/track/5jFiIiqGyS35QMov2WvFaT"
+      "duration_ms": 240043,
+      "name": "How To Live",
+      "url": "https://open.spotify.com/track/25ywKtUww26ABFd0tiGt9D"
     },
     {
       "added_at": "2025-12-18 23:00:23",
@@ -1111,6 +1095,22 @@
       "duration_ms": 138861,
       "name": "special",
       "url": "https://open.spotify.com/track/06pGjykKy9y55C5o9Unk0p"
+    },
+    {
+      "added_at": "2025-12-18 23:00:23",
+      "album": {
+        "name": "Eden",
+        "url": "https://open.spotify.com/album/1PIpblTFI5xO71o0SWj5Ca"
+      },
+      "artists": [
+        {
+          "name": "Avalon Emerson",
+          "url": "https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz"
+        }
+      ],
+      "duration_ms": 247588,
+      "name": "Eden",
+      "url": "https://open.spotify.com/track/5jFiIiqGyS35QMov2WvFaT"
     },
     {
       "added_at": "2025-12-18 23:00:23",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2025-12-18 23:00:23",
       "album": {
-        "name": "Edge of the Earth",
-        "url": "https://open.spotify.com/album/1WljWKt77EMsgjRdnMfUHN"
-      },
-      "artists": [
-        {
-          "name": "Skott",
-          "url": "https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc"
-        }
-      ],
-      "duration_ms": 220348,
-      "name": "Edge of the Earth",
-      "url": "https://open.spotify.com/track/3GzhyEkF7m89mVv3BUJh8N"
-    },
-    {
-      "added_at": "2025-12-18 23:00:23",
-      "album": {
         "name": "Manga",
         "url": "https://open.spotify.com/album/3xB66GJOyGe80myaJ9qAQ9"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 218010,
       "name": "Quand on arrive en ville",
       "url": "https://open.spotify.com/track/3i968ZBc1IdtDZEL9zuKWP"
+    },
+    {
+      "added_at": "2025-12-18 23:00:23",
+      "album": {
+        "name": "Edge of the Earth",
+        "url": "https://open.spotify.com/album/1WljWKt77EMsgjRdnMfUHN"
+      },
+      "artists": [
+        {
+          "name": "Skott",
+          "url": "https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc"
+        }
+      ],
+      "duration_ms": 220348,
+      "name": "Edge of the Earth",
+      "url": "https://open.spotify.com/track/3GzhyEkF7m89mVv3BUJh8N"
     },
     {
       "added_at": "2025-12-18 23:00:23",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2025-12-18 23:00:23",
       "album": {
+        "name": "Can't Help Myself",
+        "url": "https://open.spotify.com/album/0BSru0mLqK04SfTZQiQ9PA"
+      },
+      "artists": [
+        {
+          "name": "Snazzy",
+          "url": "https://open.spotify.com/artist/7lDQhKVaKvuNDftiiZVrYy"
+        }
+      ],
+      "duration_ms": 138181,
+      "name": "Can't Help Myself",
+      "url": "https://open.spotify.com/track/5pUfdVxE1331e8ugacRv4v"
+    },
+    {
+      "added_at": "2025-12-18 23:00:23",
+      "album": {
         "name": "Keyring",
         "url": "https://open.spotify.com/album/3FKSfxyMWYpbz7yUtVIohl"
       },
@@ -1303,18 +1319,18 @@
     {
       "added_at": "2025-12-18 23:00:23",
       "album": {
-        "name": "Can't Help Myself",
-        "url": "https://open.spotify.com/album/0BSru0mLqK04SfTZQiQ9PA"
+        "name": "Sacatela",
+        "url": "https://open.spotify.com/album/06nue4Ry0BmfBW1aX3RWNe"
       },
       "artists": [
         {
-          "name": "Snazzy",
-          "url": "https://open.spotify.com/artist/7lDQhKVaKvuNDftiiZVrYy"
+          "name": "La Femme",
+          "url": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
         }
       ],
-      "duration_ms": 138181,
-      "name": "Can't Help Myself",
-      "url": "https://open.spotify.com/track/5pUfdVxE1331e8ugacRv4v"
+      "duration_ms": 172026,
+      "name": "Sacatela",
+      "url": "https://open.spotify.com/track/7AQSnI0NylqRyXJTvN1Aku"
     },
     {
       "added_at": "2025-12-18 23:00:23",
@@ -1335,22 +1351,6 @@
       "duration_ms": 195454,
       "name": "JET LAGGED",
       "url": "https://open.spotify.com/track/482mvThJO7wdJJjymB9PmC"
-    },
-    {
-      "added_at": "2025-12-18 23:00:23",
-      "album": {
-        "name": "Sacatela",
-        "url": "https://open.spotify.com/album/06nue4Ry0BmfBW1aX3RWNe"
-      },
-      "artists": [
-        {
-          "name": "La Femme",
-          "url": "https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI"
-        }
-      ],
-      "duration_ms": 172026,
-      "name": "Sacatela",
-      "url": "https://open.spotify.com/track/7AQSnI0NylqRyXJTvN1Aku"
     },
     {
       "added_at": "2025-12-18 23:00:23",
@@ -1387,50 +1387,18 @@
     {
       "added_at": "2025-12-18 23:00:23",
       "album": {
-        "name": "Let Me Take You",
-        "url": "https://open.spotify.com/album/4Gg1QjNa0aZmOKggqWCNYQ"
+        "name": "Angus & Julia Stone",
+        "url": "https://open.spotify.com/album/3VT2E4zmRmdn1EZw5U4HK6"
       },
       "artists": [
         {
-          "name": "Dekker",
-          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
         }
       ],
-      "duration_ms": 189770,
-      "name": "Let Me Take You",
-      "url": "https://open.spotify.com/track/79m64RFHHq93QrGVzrA4Yp"
-    },
-    {
-      "added_at": "2025-12-18 23:00:23",
-      "album": {
-        "name": "Call Me",
-        "url": "https://open.spotify.com/album/1MQRxIVZfu0T2UM5Z5x8Sz"
-      },
-      "artists": [
-        {
-          "name": "Anna of the North",
-          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
-        }
-      ],
-      "duration_ms": 228920,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/4VuQDgGCITUEMT5NWKvWFK"
-    },
-    {
-      "added_at": "2025-12-18 23:00:23",
-      "album": {
-        "name": "young rich & beautiful",
-        "url": "https://open.spotify.com/album/2P0bCcJQxB63lEcIglibMp"
-      },
-      "artists": [
-        {
-          "name": "Two Another",
-          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
-        }
-      ],
-      "duration_ms": 118441,
-      "name": "young rich & beautiful",
-      "url": "https://open.spotify.com/track/4xMyrjeR1PICYAB9ZYUg9t"
+      "duration_ms": 248526,
+      "name": "Grizzly Bear",
+      "url": "https://open.spotify.com/track/2vnY0rNwecUTknZyEpJbZR"
     },
     {
       "added_at": "2025-12-18 23:00:23",
@@ -1451,18 +1419,50 @@
     {
       "added_at": "2025-12-18 23:00:23",
       "album": {
-        "name": "Angus & Julia Stone",
-        "url": "https://open.spotify.com/album/3VT2E4zmRmdn1EZw5U4HK6"
+        "name": "Let Me Take You",
+        "url": "https://open.spotify.com/album/4Gg1QjNa0aZmOKggqWCNYQ"
       },
       "artists": [
         {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+          "name": "Dekker",
+          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
         }
       ],
-      "duration_ms": 248526,
-      "name": "Grizzly Bear",
-      "url": "https://open.spotify.com/track/2vnY0rNwecUTknZyEpJbZR"
+      "duration_ms": 189770,
+      "name": "Let Me Take You",
+      "url": "https://open.spotify.com/track/79m64RFHHq93QrGVzrA4Yp"
+    },
+    {
+      "added_at": "2025-12-18 23:00:23",
+      "album": {
+        "name": "young rich & beautiful",
+        "url": "https://open.spotify.com/album/2P0bCcJQxB63lEcIglibMp"
+      },
+      "artists": [
+        {
+          "name": "Two Another",
+          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
+        }
+      ],
+      "duration_ms": 118441,
+      "name": "young rich & beautiful",
+      "url": "https://open.spotify.com/track/4xMyrjeR1PICYAB9ZYUg9t"
+    },
+    {
+      "added_at": "2025-12-18 23:00:23",
+      "album": {
+        "name": "Call Me",
+        "url": "https://open.spotify.com/album/1MQRxIVZfu0T2UM5Z5x8Sz"
+      },
+      "artists": [
+        {
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+        }
+      ],
+      "duration_ms": 228920,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/4VuQDgGCITUEMT5NWKvWFK"
     },
     {
       "added_at": "2025-12-18 23:00:23",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2025-12-18 23:00:23",
       "album": {
-        "name": "Barchords",
-        "url": "https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 236720,
-      "name": "Lost In The Light",
-      "url": "https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O"
-    },
-    {
-      "added_at": "2025-12-18 23:00:23",
-      "album": {
         "name": "Matahari",
         "url": "https://open.spotify.com/album/5sHGrCTK2Y6hTzMSDKxySV"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 261493,
       "name": "Vacances",
       "url": "https://open.spotify.com/track/3ovG6F7Gtf45pniZiMb97a"
+    },
+    {
+      "added_at": "2025-12-18 23:00:23",
+      "album": {
+        "name": "Barchords",
+        "url": "https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "duration_ms": 236720,
+      "name": "Lost In The Light",
+      "url": "https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O"
     },
     {
       "added_at": "2025-12-18 23:00:23",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2025-12-18 23:00:23",
       "album": {
-        "name": "Bluffin'",
-        "url": "https://open.spotify.com/album/6XvRFqyw6XKRzNErVUoe89"
-      },
-      "artists": [
-        {
-          "name": "Jack Gray",
-          "url": "https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw"
-        }
-      ],
-      "duration_ms": 139955,
-      "name": "Bluffin'",
-      "url": "https://open.spotify.com/track/3vPg0XDAZTY8Ns93Lpph8Z"
-    },
-    {
-      "added_at": "2025-12-18 23:00:23",
-      "album": {
         "name": "Press Pause",
         "url": "https://open.spotify.com/album/05s3p7Iq338wtkqoeaPekD"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 199380,
       "name": "Press Pause",
       "url": "https://open.spotify.com/track/68qGBPUqSLlxwbbkWrMIjZ"
+    },
+    {
+      "added_at": "2025-12-18 23:00:23",
+      "album": {
+        "name": "Bluffin'",
+        "url": "https://open.spotify.com/album/6XvRFqyw6XKRzNErVUoe89"
+      },
+      "artists": [
+        {
+          "name": "Jack Gray",
+          "url": "https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw"
+        }
+      ],
+      "duration_ms": 139955,
+      "name": "Bluffin'",
+      "url": "https://open.spotify.com/track/3vPg0XDAZTY8Ns93Lpph8Z"
     },
     {
       "added_at": "2025-12-18 23:00:23",
@@ -1663,26 +1663,6 @@
     {
       "added_at": "2025-12-18 23:00:23",
       "album": {
-        "name": "El Bueno Y El Malo",
-        "url": "https://open.spotify.com/album/2kfqCsmR9Uw43ruDP2hjPZ"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
-        },
-        {
-          "name": "Dan Auerbach",
-          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
-        }
-      ],
-      "duration_ms": 201413,
-      "name": "Tres Hermanos",
-      "url": "https://open.spotify.com/track/4TesXLELrAp8TPGHckP6Ap"
-    },
-    {
-      "added_at": "2025-12-18 23:00:23",
-      "album": {
         "name": "Livin Alright",
         "url": "https://open.spotify.com/album/5B3TZbMCE1VhG7bxTu6DoP"
       },
@@ -1699,6 +1679,26 @@
       "duration_ms": 176543,
       "name": "Livin Alright",
       "url": "https://open.spotify.com/track/5hdePsGuqCjr9UhSXDKGUw"
+    },
+    {
+      "added_at": "2025-12-18 23:00:23",
+      "album": {
+        "name": "El Bueno Y El Malo",
+        "url": "https://open.spotify.com/album/2kfqCsmR9Uw43ruDP2hjPZ"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        },
+        {
+          "name": "Dan Auerbach",
+          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
+        }
+      ],
+      "duration_ms": 201413,
+      "name": "Tres Hermanos",
+      "url": "https://open.spotify.com/track/4TesXLELrAp8TPGHckP6Ap"
     },
     {
       "added_at": "2025-12-18 23:00:23",

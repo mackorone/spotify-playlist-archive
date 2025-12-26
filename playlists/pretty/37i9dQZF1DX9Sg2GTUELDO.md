@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 
 ### [最愛女聲](https://open.spotify.com/playlist/37i9dQZF1DX9Sg2GTUELDO)
 
-> 感受女聲力量。Cover: 謝雅兒
+> 感受女聲力量。Cover: 楊千嬅
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,276 likes - 174 songs - 10 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,274 likes - 174 songs - 10 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -183,4 +183,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 | 173 | [維納斯的誕生](https://open.spotify.com/track/2Pv8dvmyPDHEcPLUvtIEYp) | [Kendy Suen](https://open.spotify.com/artist/5nE5dXf6BtMjH6YnnidrNZ) | [維納斯的誕生](https://open.spotify.com/album/67zlgpo5ZskpaP9dcwTEky) | 4:20 |
 | 174 | [後來知道了](https://open.spotify.com/track/6H2Z2wFh92yo9Z5MNOh7xu) | [Gigi Cheung](https://open.spotify.com/artist/56KP7DzAzkI8AlAKbt4N6t) | [後來知道了](https://open.spotify.com/album/3Xwx9BUFl4s4aCzj6Rs1VV) | 3:31 |
 
-Snapshot ID: `AAAAAGSCQ+2cvq0S44BtOC4QCSHBI2na`
+Snapshot ID: `AAAAAPs1BDrouQBRBGFmnkvuPFE0M8GV`

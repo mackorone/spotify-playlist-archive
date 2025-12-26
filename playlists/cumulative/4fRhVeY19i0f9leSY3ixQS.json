@@ -2779,6 +2779,24 @@
     },
     {
       "album": {
+        "name": "Glossy Cover",
+        "url": "https://open.spotify.com/album/0fC5YSOcEvWVE1SIMUuLgg"
+      },
+      "artists": [
+        {
+          "name": "Vasch",
+          "url": "https://open.spotify.com/artist/5cOG2PUwppnjhU7rlWLeaY"
+        }
+      ],
+      "date_added": "2025-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182556,
+      "name": "Glossy Cover",
+      "url": "https://open.spotify.com/track/4yK0qEK134tVyaNcoRx4qw"
+    },
+    {
+      "album": {
         "name": "LOUD NOISES",
         "url": "https://open.spotify.com/album/3td0OGM48SevIvq1jkUxAM"
       },
@@ -2887,7 +2905,7 @@
     },
     {
       "album": {
-        "name": "Graveyard Sweetheart (Sophie's Revenge)",
+        "name": "Graveyard Sweetheart",
         "url": "https://open.spotify.com/album/21E6vOZbzVqeWIIYFGUUxN"
       },
       "artists": [
@@ -2898,9 +2916,9 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-25",
+      "date_removed": null,
       "duration_ms": 141363,
-      "name": "Graveyard Sweetheart (Sophie's Revenge)",
+      "name": "Graveyard Sweetheart",
       "url": "https://open.spotify.com/track/4X9aqdTz0L02xF2POPHZFV"
     },
     {
@@ -2938,6 +2956,24 @@
       "duration_ms": 230054,
       "name": "Greatness Abandoned",
       "url": "https://open.spotify.com/track/5kRxQQyqbe9VyFMgO3Iw4i"
+    },
+    {
+      "album": {
+        "name": "Grown Up",
+        "url": "https://open.spotify.com/album/3jDQljn8CzAVOMZVdc7dlh"
+      },
+      "artists": [
+        {
+          "name": "The DT's",
+          "url": "https://open.spotify.com/artist/6SD8VqIT4EO7YVA2to3ZRZ"
+        }
+      ],
+      "date_added": "2025-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196041,
+      "name": "Grown Up",
+      "url": "https://open.spotify.com/track/1El7h6rWS5ZHLeXVMGWMDI"
     },
     {
       "album": {

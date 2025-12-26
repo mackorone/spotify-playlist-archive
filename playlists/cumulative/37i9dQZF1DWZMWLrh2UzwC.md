@@ -2,7 +2,7 @@
 
 ### [New Music Friday Malaysia](https://open.spotify.com/playlist/37i9dQZF1DWZMWLrh2UzwC)
 
-> New music from TimeThai, BamBam, DIOR 大穎, Jess 佳仙,  Alan Walker, and more!
+> Back with fresh tracks on January 9\. Happy holidays!
 
 19,334 songs - 44 day 10 hr 1 min
 

@@ -1359,6 +1359,24 @@
     },
     {
       "album": {
+        "name": "Le temps des f\u00eates volume 2",
+        "url": "https://open.spotify.com/album/6JmfKGWbGYtqx8oWUx9aKp"
+      },
+      "artists": [
+        {
+          "name": "Guillaume Leclerc",
+          "url": "https://open.spotify.com/artist/5Lll9cqiDEbToAiJiOppXX"
+        }
+      ],
+      "date_added": "2025-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154135,
+      "name": "Disco No\u00ebl",
+      "url": "https://open.spotify.com/track/1bfiQzqL8yBSeAW8xcERHJ"
+    },
+    {
+      "album": {
         "name": "Christmas Music 100 Hits",
         "url": "https://open.spotify.com/album/2whKuzNvFl6OnkiOvN1vA0"
       },
@@ -6954,7 +6972,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 189916,
       "name": "\u00c0 la fin d\u00e9cembre",
       "url": "https://open.spotify.com/track/3N46SoPdsLRzjAc5JVaPhV"

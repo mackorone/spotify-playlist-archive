@@ -1,12 +1,12 @@
 {
   "description": "This is Koe Wetzel. The essential tracks, all in one playlist.",
-  "num_followers": 50004,
+  "num_followers": 50009,
   "original_name": "This Is Koe Wetzel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUnbgAAAAAB6Gww5azadIgwqcfG4Qjk9",
+  "snapshot_id": "aUstAAAAAABdfUVAWHFq7DjD1+9d7r7c",
   "tracks": [
     {
       "added_at": null,
@@ -431,6 +431,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Harold Saul High",
+        "url": "https://open.spotify.com/album/1tkILSHrftqtIaop0bcCqg"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "duration_ms": 209849,
+      "name": "L.T.W.Y.H.M.",
+      "url": "https://open.spotify.com/track/503lQzTuf0tF8cAcilXZkz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "9 Lives",
         "url": "https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj"
       },
@@ -447,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Harold Saul High",
-        "url": "https://open.spotify.com/album/1tkILSHrftqtIaop0bcCqg"
+        "name": "Out on Parole",
+        "url": "https://open.spotify.com/album/3WhPz52gxnsbw2QxtctNmP"
       },
       "artists": [
         {
@@ -456,9 +472,9 @@
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 209849,
-      "name": "L.T.W.Y.H.M.",
-      "url": "https://open.spotify.com/track/503lQzTuf0tF8cAcilXZkz"
+      "duration_ms": 256765,
+      "name": "Lonely as It Gets",
+      "url": "https://open.spotify.com/track/0P7Ec1pk2DC67f4BgMIgr5"
     },
     {
       "added_at": null,
@@ -479,22 +495,6 @@
       "duration_ms": 288128,
       "name": "Gunshy - Rerecorded",
       "url": "https://open.spotify.com/track/6jp0oU7XztnQveIP2FJoJ5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Out on Parole",
-        "url": "https://open.spotify.com/album/3WhPz52gxnsbw2QxtctNmP"
-      },
-      "artists": [
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
-        }
-      ],
-      "duration_ms": 256765,
-      "name": "Lonely as It Gets",
-      "url": "https://open.spotify.com/track/0P7Ec1pk2DC67f4BgMIgr5"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6M7L8SMVEFvblfFmcNtgaV">BNYX®</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 379 likes - 160 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 380 likes - 160 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 35 | [BMXXing](https://open.spotify.com/track/5xR8ngEQmlQ1U2xSE0KzTo) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [BMXXing](https://open.spotify.com/album/5cH3Lzm6kYM7sxkpDprzkd) | 2:35 |
 | 36 | [Sum 2 do](https://open.spotify.com/track/7sjhOYcPgeSv3oj3IkFTeK) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 2:32 |
 | 37 | [Back homë](https://open.spotify.com/track/0XgQbY9WvAbIQRfVWzRPBK) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 3:30 |
-| 38 | [WHAT WENT WRONG???](https://open.spotify.com/track/4eD4CdjhBrdXr88GRiljiL) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME](https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS) | 2:37 |
-| 39 | [OH I DID](https://open.spotify.com/track/3mQCDD74WImZLkQxMvmxoK) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [NGeeYL](https://open.spotify.com/artist/5Z9mvkWNEpiKVQ36xVkMfe) | [DANGEROUS SUMMER](https://open.spotify.com/album/61PCQeDaTD2gwfpHFikpbh) | 2:56 |
+| 38 | [OH I DID](https://open.spotify.com/track/3mQCDD74WImZLkQxMvmxoK) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [NGeeYL](https://open.spotify.com/artist/5Z9mvkWNEpiKVQ36xVkMfe) | [DANGEROUS SUMMER](https://open.spotify.com/album/61PCQeDaTD2gwfpHFikpbh) | 2:56 |
+| 39 | [WHAT WENT WRONG???](https://open.spotify.com/track/4eD4CdjhBrdXr88GRiljiL) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME](https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS) | 2:37 |
 | 40 | [Bury me \(feat\. Kelela\)](https://open.spotify.com/track/3tPH2C0umk9pjLBMmz0D9M) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Heaven knows](https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0) | 2:04 |
 | 41 | [Killin ëm](https://open.spotify.com/track/1DKtg0yijcSoUQTxkxixyi) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Lyfë](https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu) | 2:52 |
 | 42 | [ELECTROWAVEBABY](https://open.spotify.com/track/3AjQQWTwJGwxMrh6B5H9Af) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [INSANO](https://open.spotify.com/album/4a0ynulSO09VjqN18vGkdY) | 3:25 |
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 159 | [Teach Me.](https://open.spotify.com/track/6lk7eNQnklTjsEx30gUJ80) | [Ant Beale](https://open.spotify.com/artist/14piOhWdd0MbAPVmUqGLhH) | [Life's a Hazard](https://open.spotify.com/album/0UqowJBThZPMFlqPorNSR1) | 5:00 |
 | 160 | [Divided](https://open.spotify.com/track/6NJOdQyw2EPnRAstnXNTDG) | [Warner Meadows](https://open.spotify.com/artist/0FzMywSPPmb2hqv2gvcIFk) | [Divided](https://open.spotify.com/album/2zCmstd1DA381t9zoW8QDr) | 1:44 |
 
-Snapshot ID: `AcFHWgAAAADI4FOLoE0JfGKjZtnLoo1I`
+Snapshot ID: `AcFM+gAAAADRjZJV8gZHaQhbIm1E+VPo`

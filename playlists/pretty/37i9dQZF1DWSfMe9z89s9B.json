@@ -1,6 +1,6 @@
 {
   "description": "The new school - Alternative R&B. Cover: BLK ODYSSY",
-  "num_followers": 1330623,
+  "num_followers": 1330548,
   "original_name": "Vanguard",
   "owner": {
     "name": "Spotify",
@@ -1053,6 +1053,22 @@
       "url": "https://open.spotify.com/track/4gVsKMMK0f8dweHL7Vm9HC"
     },
     {
+      "added_at": "2025-10-17 06:22:08",
+      "album": {
+        "name": "baby",
+        "url": "https://open.spotify.com/album/50qzmXH7hqkEaUkHwX8wzr"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Jacoby",
+          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
+        }
+      ],
+      "duration_ms": 183269,
+      "name": "baby",
+      "url": "https://open.spotify.com/track/5Oq6iKIWE3Q1i3G2fES5Oc"
+    },
+    {
       "added_at": "2024-08-23 05:28:40",
       "album": {
         "name": "Babe",
@@ -1075,22 +1091,6 @@
       "duration_ms": 188711,
       "name": "Babe",
       "url": "https://open.spotify.com/track/4DbsTW4h2gjwdpC9W9iID4"
-    },
-    {
-      "added_at": "2025-10-17 06:22:08",
-      "album": {
-        "name": "baby",
-        "url": "https://open.spotify.com/album/50qzmXH7hqkEaUkHwX8wzr"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Jacoby",
-          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
-        }
-      ],
-      "duration_ms": 183269,
-      "name": "baby",
-      "url": "https://open.spotify.com/track/5Oq6iKIWE3Q1i3G2fES5Oc"
     },
     {
       "added_at": "2025-08-15 06:41:00",
@@ -1141,22 +1141,6 @@
       "url": "https://open.spotify.com/track/4rzfXpou7FRHP1kIAerMCH"
     },
     {
-      "added_at": "2025-10-25 02:54:19",
-      "album": {
-        "name": "CAOS",
-        "url": "https://open.spotify.com/album/2KKtiR6wEIINGF0p82NPRa"
-      },
-      "artists": [
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 258801,
-      "name": "Nearsight [SID]",
-      "url": "https://open.spotify.com/track/5ZIRHFXb2QCgz2gSsc36RZ"
-    },
-    {
       "added_at": "2025-02-14 07:50:47",
       "album": {
         "name": "Paradigm",
@@ -1171,6 +1155,22 @@
       "duration_ms": 184772,
       "name": "Ride",
       "url": "https://open.spotify.com/track/3xxUGSaRrNHmVXKsa3gqKs"
+    },
+    {
+      "added_at": "2025-10-25 02:54:19",
+      "album": {
+        "name": "CAOS",
+        "url": "https://open.spotify.com/album/2KKtiR6wEIINGF0p82NPRa"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 258801,
+      "name": "Nearsight [SID]",
+      "url": "https://open.spotify.com/track/5ZIRHFXb2QCgz2gSsc36RZ"
     },
     {
       "added_at": "2025-08-15 06:41:00",
@@ -1357,22 +1357,6 @@
       "url": "https://open.spotify.com/track/6OoRRvJWQdAL4nOIFrVKv9"
     },
     {
-      "added_at": "2025-10-25 02:54:19",
-      "album": {
-        "name": "CAOS",
-        "url": "https://open.spotify.com/album/2KKtiR6wEIINGF0p82NPRa"
-      },
-      "artists": [
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 215494,
-      "name": "The Killing",
-      "url": "https://open.spotify.com/track/025c4zVMZmyLrSPtsmXA7x"
-    },
-    {
       "added_at": "2025-02-07 08:30:49",
       "album": {
         "name": "Soft Spot (Deluxe Edition)",
@@ -1391,6 +1375,22 @@
       "duration_ms": 250248,
       "name": "Soft Spot - 955 remix",
       "url": "https://open.spotify.com/track/32B5Ht7NQoanL8WHiE6GMA"
+    },
+    {
+      "added_at": "2025-10-25 02:54:19",
+      "album": {
+        "name": "CAOS",
+        "url": "https://open.spotify.com/album/2KKtiR6wEIINGF0p82NPRa"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 215494,
+      "name": "The Killing",
+      "url": "https://open.spotify.com/track/025c4zVMZmyLrSPtsmXA7x"
     },
     {
       "added_at": "2025-05-09 04:12:41",
@@ -1881,6 +1881,22 @@
       "url": "https://open.spotify.com/track/6lLfq5ZYSTMauPOLSJOTZN"
     },
     {
+      "added_at": "2024-06-28 18:42:06",
+      "album": {
+        "name": "ACCELERATOR",
+        "url": "https://open.spotify.com/album/3h1UIz988QtS6gjJciFVSu"
+      },
+      "artists": [
+        {
+          "name": "greek",
+          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
+        }
+      ],
+      "duration_ms": 228003,
+      "name": "STRANGER",
+      "url": "https://open.spotify.com/track/7yuWa5XIv2HqqZsbigXZOZ"
+    },
+    {
       "added_at": "2025-08-01 08:16:45",
       "album": {
         "name": "born to love you",
@@ -1899,22 +1915,6 @@
       "duration_ms": 218357,
       "name": "born to love you",
       "url": "https://open.spotify.com/track/6GXvOxXoaqVld0WPISVP1p"
-    },
-    {
-      "added_at": "2024-06-28 18:42:06",
-      "album": {
-        "name": "ACCELERATOR",
-        "url": "https://open.spotify.com/album/3h1UIz988QtS6gjJciFVSu"
-      },
-      "artists": [
-        {
-          "name": "greek",
-          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
-        }
-      ],
-      "duration_ms": 228003,
-      "name": "STRANGER",
-      "url": "https://open.spotify.com/track/7yuWa5XIv2HqqZsbigXZOZ"
     },
     {
       "added_at": "2025-06-06 06:46:18",
@@ -1985,22 +1985,6 @@
       "url": "https://open.spotify.com/track/5rt9HY56cN2Ke1vLCLQEpz"
     },
     {
-      "added_at": "2025-09-12 20:05:34",
-      "album": {
-        "name": "Art Museum (2am)",
-        "url": "https://open.spotify.com/album/1w6aoFfe36P5hJ5KTuPcD0"
-      },
-      "artists": [
-        {
-          "name": "Cautious Clay",
-          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
-        }
-      ],
-      "duration_ms": 130189,
-      "name": "Art Museum (2am)",
-      "url": "https://open.spotify.com/track/10u8ssp3b4XOqB9s4nczkd"
-    },
-    {
       "added_at": "2024-08-30 06:47:05",
       "album": {
         "name": "IMPALA",
@@ -2023,6 +2007,22 @@
       "duration_ms": 209874,
       "name": "SATIVA!",
       "url": "https://open.spotify.com/track/3txRu0oUiaaGalqysVvWqf"
+    },
+    {
+      "added_at": "2025-09-12 20:05:34",
+      "album": {
+        "name": "Art Museum (2am)",
+        "url": "https://open.spotify.com/album/1w6aoFfe36P5hJ5KTuPcD0"
+      },
+      "artists": [
+        {
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        }
+      ],
+      "duration_ms": 130189,
+      "name": "Art Museum (2am)",
+      "url": "https://open.spotify.com/track/10u8ssp3b4XOqB9s4nczkd"
     },
     {
       "added_at": "2024-12-06 07:13:57",
@@ -2353,22 +2353,6 @@
       "url": "https://open.spotify.com/track/0yxOhm9EgkEDjAbXLyoObO"
     },
     {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Always Time",
-        "url": "https://open.spotify.com/album/5PY2TzvArOEkwhVRDG1zEX"
-      },
-      "artists": [
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 205200,
-      "name": "Always Time",
-      "url": "https://open.spotify.com/track/7sVWgbgM2Ftw5jiYC5cDxK"
-    },
-    {
       "added_at": "2024-10-20 00:14:41",
       "album": {
         "name": "Glimmer of God",
@@ -2383,6 +2367,22 @@
       "duration_ms": 140933,
       "name": "The Boy and The Swan",
       "url": "https://open.spotify.com/track/6N6SeSFTRdnu7ogCDnysby"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Always Time",
+        "url": "https://open.spotify.com/album/5PY2TzvArOEkwhVRDG1zEX"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 205200,
+      "name": "Always Time",
+      "url": "https://open.spotify.com/track/7sVWgbgM2Ftw5jiYC5cDxK"
     },
     {
       "added_at": "2025-02-28 07:11:38",
@@ -2433,22 +2433,6 @@
       "url": "https://open.spotify.com/track/21ktp6PzUlRdruDIEcraM2"
     },
     {
-      "added_at": "2025-09-07 01:24:20",
-      "album": {
-        "name": "tell me why",
-        "url": "https://open.spotify.com/album/5OFjCMmSiIGxIfj83dDQjg"
-      },
-      "artists": [
-        {
-          "name": "Chase Shakur",
-          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
-        }
-      ],
-      "duration_ms": 192449,
-      "name": "tell me why",
-      "url": "https://open.spotify.com/track/3mLagm04j1TXJ7yCGobz2C"
-    },
-    {
       "added_at": "2024-09-13 09:09:19",
       "album": {
         "name": "Pointy Heights",
@@ -2463,6 +2447,22 @@
       "duration_ms": 123466,
       "name": "do you have a soul?",
       "url": "https://open.spotify.com/track/06nHXSt8RPzvdiXNrz3Ocv"
+    },
+    {
+      "added_at": "2025-09-07 01:24:20",
+      "album": {
+        "name": "tell me why",
+        "url": "https://open.spotify.com/album/5OFjCMmSiIGxIfj83dDQjg"
+      },
+      "artists": [
+        {
+          "name": "Chase Shakur",
+          "url": "https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8"
+        }
+      ],
+      "duration_ms": 192449,
+      "name": "tell me why",
+      "url": "https://open.spotify.com/track/3mLagm04j1TXJ7yCGobz2C"
     },
     {
       "added_at": "2025-08-15 06:41:00",
@@ -2553,22 +2553,6 @@
       "url": "https://open.spotify.com/track/3Qs629rdNfGOgdj9lFDSYB"
     },
     {
-      "added_at": "2024-10-20 00:14:41",
-      "album": {
-        "name": "Glimmer of God",
-        "url": "https://open.spotify.com/album/2sdEcm60h3HBZkd5k7SkRh"
-      },
-      "artists": [
-        {
-          "name": "Jean Dawson",
-          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
-        }
-      ],
-      "duration_ms": 158386,
-      "name": "200 Cigarettes",
-      "url": "https://open.spotify.com/track/2bAVI1A5pTpfi6qloElMWa"
-    },
-    {
       "added_at": "2024-07-19 15:05:24",
       "album": {
         "name": "all night",
@@ -2583,6 +2567,22 @@
       "duration_ms": 146250,
       "name": "all night",
       "url": "https://open.spotify.com/track/2qGqtuUr4eUqxIuMt8TbEZ"
+    },
+    {
+      "added_at": "2024-10-20 00:14:41",
+      "album": {
+        "name": "Glimmer of God",
+        "url": "https://open.spotify.com/album/2sdEcm60h3HBZkd5k7SkRh"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        }
+      ],
+      "duration_ms": 158386,
+      "name": "200 Cigarettes",
+      "url": "https://open.spotify.com/track/2bAVI1A5pTpfi6qloElMWa"
     }
   ],
   "unique_name": "Vanguard",

@@ -2,9 +2,9 @@
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: Jeff Satur
+> T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: Offroad Kantapon
 
-819 songs - 2 day 0 hr 13 min
+821 songs - 2 day 0 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,6 +215,7 @@
 | [SUPER SECRET](https://open.spotify.com/track/1ce3wQmpaMYZjl0zFUFUif) | [ZEE PRUK](https://open.spotify.com/artist/1NEvvo7hmaunNnGMny2Myg) | [SUPER SECRET](https://open.spotify.com/album/7v0R2Et2LvpJLj9wK5uVyW) | 3:16 | 2024-12-05 | 2024-12-19 |
 | [SuperCarCare](https://open.spotify.com/track/2qKXdSbREFW4Py3i7leW0r) | [Tattoo Colour](https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi), [D Gerrard](https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg) | [SuperCarCare](https://open.spotify.com/album/0kXMZh2WQ9PjlGRXOSknC7) | 3:27 | 2022-05-26 | 2022-12-09 |
 | [SWEET LIES](https://open.spotify.com/track/7CP4aJWUEgzMzkFlul94OE) | [ALALA](https://open.spotify.com/artist/5GY9bf48Z59vy7dcwbn7yt) | [SWEET LIES](https://open.spotify.com/album/2KeENmP6MKkxZy4R8OpP66) | 3:13 | 2025-09-11 | 2025-09-26 |
+| [Switch It Up](https://open.spotify.com/track/2ywzV7tZPvczDPPRGevBtt) | [CIR\*CRL](https://open.spotify.com/artist/5QoCHy2Npdzy9xuAkpoczL) | [Switch It Up](https://open.spotify.com/album/0d9GGNk8eJQxXOo5gaMavJ) | 2:51 | 2025-12-25 |  |
 | [T2T](https://open.spotify.com/track/5xXUqyjaTqPQ7XnIThviQ9) | [Timethai](https://open.spotify.com/artist/2VV4AGhL9jU2GuW9CIOpj2), [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [T2T](https://open.spotify.com/album/36tmLHUiLvhRAiEihPDTmI) | 3:20 | 2025-12-18 |  |
 | [TEEDEE TADA](https://open.spotify.com/track/4hN87QuWWKwxL6xDxKXsn2) | [Diamond Narakorn](https://open.spotify.com/artist/44FGhaMh5nti2pR36PHZ6z) | [TEEDEE TADA \- Single](https://open.spotify.com/album/2lJnxIfxZfmchF0XyDTeML) | 3:15 | 2024-10-31 | 2025-03-13 |
 | [Time Flies](https://open.spotify.com/track/11HnMOQnOVC0jIiFTY8fKX) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz), [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Time Flies](https://open.spotify.com/album/4HWxA9IkxlZHJzv3SNbXdX) | 4:01 | 2025-09-18 |  |
@@ -312,6 +313,7 @@
 | [ความรักหน้าตาเป็นไง \- you](https://open.spotify.com/track/4CBRdY0RexCvMi0GoyDiZc) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7), [pY\-1](https://open.spotify.com/artist/2OaPa926aKd12rYVXJWSEW) | [ความรักหน้าตาเป็นไง \- you](https://open.spotify.com/album/5UJzWrNNyLDbnNe21eoGOm) | 3:38 | 2024-08-08 | 2024-08-16 |
 | [ความรักไม่ได้น่ากลัวขนาดนั้น \(TRUST ME\)](https://open.spotify.com/track/7fY7jCjncVuEsDYzvdHl7h) | [LYKN](https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj) | [ความรักไม่ได้น่ากลัวขนาดนั้น \(TRUST ME\) \- Single](https://open.spotify.com/album/0BeN3k5p6Hct7DUxVFGrqn) | 3:54 | 2024-07-04 | 2025-05-30 |
 | [คอลเซนเตอร์](https://open.spotify.com/track/5B31ax059orLDjMmt23z4L) | [PONCHET](https://open.spotify.com/artist/0BRKLnTK2MmWWQ2RXJAHQr) | [คอลเซนเตอร์](https://open.spotify.com/album/0DXPpVfsFRMBpSWNtHNRvb) | 4:23 | 2024-10-17 | 2024-10-25 |
+| [คับใจ\(อยู่ได้\) \- Only You](https://open.spotify.com/track/3b6Jdk5uc3jjsvPrkYaARM) | [Offroad Kantapon](https://open.spotify.com/artist/1n1qyKoHL2ZeVUpGVYrZsL) | [คับใจ\(อยู่ได้\) \- Only You](https://open.spotify.com/album/7pOm63OeiSFk5N6dAIysm4) | 3:24 | 2025-12-25 |  |
 | [คาถาหาเธอ \(Horogals\)](https://open.spotify.com/track/4SatXpXNJu3T4AHlbNQ4Ei) | [Sugar 'N Spice](https://open.spotify.com/artist/19QSRQEb3DVrOHPiExaZSl) | [คาถาหาเธอ \(Horogals\)](https://open.spotify.com/album/4F0Tcc9CLuXjzq2SvhQv9F) | 3:00 | 2025-02-08 | 2025-07-18 |
 | [คาเฟอีน \(My Caffeine\)](https://open.spotify.com/track/5snqSVol9lu4kZWa9eHdin) | [Mercury Goldfish](https://open.spotify.com/artist/4Bx6XuumXiSdxSbeMGMGVb) | [คาเฟอีน](https://open.spotify.com/album/2n144mh5bLRanWiqkGxdSN) | 3:01 | 2022-05-26 | 2022-06-10 |
 | [คำถาม](https://open.spotify.com/track/15Xn4r9FY3725iHIfyq5hE) | [PUNYARB](https://open.spotify.com/artist/3DxqAGWVgEeW74mJLLwH2q) | [คำถาม](https://open.spotify.com/album/1yx9K6ymlCqz6iHXubz8DS) | 3:26 | 2022-05-26 | 2022-11-18 |
@@ -684,7 +686,7 @@
 | [เธอมีความหมาย \(My Treasure\)](https://open.spotify.com/track/5iDTtBDNjC1FBeLdgyF0LC) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [เธอมีความหมาย \(My Treasure\)](https://open.spotify.com/album/41piugn0SZiKzpmovdNDQw) | 3:26 | 2022-07-01 | 2022-07-24 |
 | [เธอเคยรักฉันหรือเปล่า \(Love?\)](https://open.spotify.com/track/4e6ipLaeZkV8U2v6cKWOva) | [ZOLAR](https://open.spotify.com/artist/3xfEwNH1lIjMoxhvSH9DGF) | [เธอเคยรักฉันหรือเปล่า \(Love?\)](https://open.spotify.com/album/39w4do4YqdZAbg0e2WO0B2) | 3:46 | 2024-07-18 | 2024-07-27 |
 | [เปลี่ยนตัวผู้เล่น \(Time to Shine\)](https://open.spotify.com/track/3WhnoaMfaJnOzLWBuKnD5L) | [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1) | [เปลี่ยนตัวผู้เล่น \(Time to Shine\)](https://open.spotify.com/album/0jhtd9GxvrRfGVbWKJJUco) | 2:43 | 2024-04-04 | 2024-04-19 |
-| [เปิ๊ดสะก๊าด](https://open.spotify.com/track/1Lff0JYQf0GSoAcHKOjA23) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [เปิ๊ดสะก๊าด](https://open.spotify.com/album/6R47uIV2JC9h0hbfCY7c1O) | 2:54 | 2025-12-18 |  |
+| [เปิ๊ดสะก๊าด](https://open.spotify.com/track/1Lff0JYQf0GSoAcHKOjA23) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [เปิ๊ดสะก๊าด](https://open.spotify.com/album/6R47uIV2JC9h0hbfCY7c1O) | 2:54 | 2025-12-18 | 2025-12-26 |
 | [เป็นได้ทุกอย่าง](https://open.spotify.com/track/27qlKjzLoCOzltggfY8FPy) | [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg) | [เป็นได้ทุกอย่าง](https://open.spotify.com/album/4YQqcCKXLmZcJkzijUfSiy) | 3:11 | 2022-05-26 | 2023-05-03 |
 | [เป็นไปไม่ได้ \(FORLORN\)](https://open.spotify.com/track/2Z3ltBGdjCtdD9C4Lh1jDW) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [เป็นไปไม่ได้ \(FORLORN\)](https://open.spotify.com/album/3mJk19a7FV8M1SiAG43AAR) | 4:31 | 2023-07-27 | 2023-08-11 |
 | [เป๊ะ](https://open.spotify.com/track/3ijJlXBIVziI5Nj5d7B06Q) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [เป๊ะ](https://open.spotify.com/album/2y3fjieNlv4le0lI9uWEPT) | 2:41 | 2025-04-10 | 2025-05-02 |
@@ -708,7 +710,7 @@
 | [เมื่อไหร่จะได้เจอ \(Miss You\)](https://open.spotify.com/track/2MhltgwCtdahdAJTrFUbIm) | [Chypre](https://open.spotify.com/artist/4mMIQJKMHFmFW2DVdFBUqp) | [เมื่อไหร่จะได้เจอ \(Miss You\)](https://open.spotify.com/album/4n3hdmxkvLv3IvsLbH5Frj) | 3:52 | 2022-07-07 | 2022-07-15 |
 | [เม้นหยอกๆ \(Comment\)](https://open.spotify.com/track/7soLL3HJ0wmOtIC6Sxse5a) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [เม้นหยอกๆ \(Comment\)](https://open.spotify.com/album/6l408RTEZpuoijgcEgDlxF) | 3:46 | 2025-05-27 | 2025-08-30 |
 | [เราไม่ได้เป็นอะไรกัน \(Undeletable\) \- JUPITER](https://open.spotify.com/track/7kmOIZpGFXj9LkjzhZJnvB) | [ZOLAR](https://open.spotify.com/artist/3xfEwNH1lIjMoxhvSH9DGF) | [เราไม่ได้เป็นอะไรกัน \(Undeletable\) \- JUPITER](https://open.spotify.com/album/7d1IsFtlmIDZyhSjnqe3lb) | 3:36 | 2025-03-01 | 2025-03-13 |
-| [เริ่ด \(Slay\)](https://open.spotify.com/track/6rljpFjQ2UbrCuLiLblY3S) | [FELIZZ](https://open.spotify.com/artist/1syMBJs334spaMGj5sZFYo) | [เริ่ด \(Slay\)](https://open.spotify.com/album/5rKGwu0OQ0kHe2uaSAC3aE) | 3:01 | 2025-12-18 |  |
+| [เริ่ด \(Slay\)](https://open.spotify.com/track/6rljpFjQ2UbrCuLiLblY3S) | [FELIZZ](https://open.spotify.com/artist/1syMBJs334spaMGj5sZFYo) | [เริ่ด \(Slay\)](https://open.spotify.com/album/5rKGwu0OQ0kHe2uaSAC3aE) | 3:01 | 2025-12-18 | 2025-12-26 |
 | [เริ่มก่อน \(If I Could\)](https://open.spotify.com/track/0Vuen2jMTrQ5BOx2CU4wwi) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [เริ่มก่อน \(If I Could\)](https://open.spotify.com/album/6JJAfcGaQtsY0pkdpmNWEZ) | 3:40 | 2024-05-10 | 2025-12-12 |
 | [เริ่มใหม่ \(One More Chance\)](https://open.spotify.com/track/0y2YB7eptCx1NyV52Uu1i1) | [WIN METAWIN](https://open.spotify.com/artist/4RjOaVWPUU41jp506ppjPW) | [เริ่มใหม่ \(One More Chance\)](https://open.spotify.com/album/3dUIovhnjUOUA7CCqwvkMd) | 3:58 | 2022-12-08 | 2023-01-27 |
 | [เรียกว่ารักได้ไหม \(Is This Love?\)](https://open.spotify.com/track/0I4xF90oDZ1tOtZvai8Dtu) | [GEMINI](https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei), [FOURTH](https://open.spotify.com/artist/4PtJISxBNvXOwLxuQgUiyQ) | [เรียกว่ารักได้ไหม \(Is This Love?\)](https://open.spotify.com/album/2EE5Az5ygqidTPBQQxBkbZ) | 3:06 | 2025-08-21 |  |

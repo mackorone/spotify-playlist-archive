@@ -4,7 +4,7 @@
 
 > With AlligatorX, MIK's Reaction, Jon Drake and more
 
-250 songs - 17 hr 54 min
+251 songs - 17 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [Sky II Stones II Ocean](https://open.spotify.com/track/39S4BzEwOva2ZzWjmE2SfY) | [Drowned In Silver](https://open.spotify.com/artist/5r0sdNFKKK0MbwQGhwAgjc) | [Mothers](https://open.spotify.com/album/17J0Og3dNgz0cQbCM6V4mn) | 7:26 | 2025-11-22 | 2025-12-02 |
 | [Sleeping on the Spider's Web](https://open.spotify.com/track/7jVX1M0aG5NeMBknF2x6lS) | [Love Your Witch](https://open.spotify.com/artist/6p3SBUohxDHzu6N7Z8MZyu) | [Radio Fantasia](https://open.spotify.com/album/5pmqgf5PWdXkRFWqn9b246) | 3:05 | 2025-11-25 | 2025-11-28 |
 | [Slowly Goes The Night](https://open.spotify.com/track/3s3YAcAClDrZChvOVk8REW) | [Hotel Hunger](https://open.spotify.com/artist/0nVjySczakVfLmvhNYzLiD) | [No Means No](https://open.spotify.com/album/74rb0zn3vPoov87NHvP4sI) | 2:50 | 2025-11-24 | 2025-12-05 |
+| [Softer](https://open.spotify.com/track/4pFR9eR7CDWcT8QR6NCRhG) | [BLACKLIGHT](https://open.spotify.com/artist/3V0M6bENFpgi3K1Iv3F4Vh) | [Lost Signals DEMO](https://open.spotify.com/album/7HwOrfw7TsrSqM3Pj2zEmT) | 3:17 | 2025-12-26 |  |
 | [Sol](https://open.spotify.com/track/7KFUjMCPZ8YsoZOm3j0wWs) | [Skogskult](https://open.spotify.com/artist/3VWm4Dtt9TGWNT8OKVDbXy) | [Skogskult](https://open.spotify.com/album/6OVBdQuLNwZ91SXopkqiO2) | 7:53 | 2025-12-23 | 2025-12-24 |
 | [Something Left](https://open.spotify.com/track/2ThmvFYAhPG89NYlr6HJhP) | [High Sour](https://open.spotify.com/artist/0wcv3Wa2ZwVjdupC0YOy0C) | [Something Left](https://open.spotify.com/album/6iz1GL25KGlzI0b7g67Mrq) | 3:22 | 2025-11-30 | 2025-12-02 |
 | [Something's Changed](https://open.spotify.com/track/4wgtOHKPIb2ZtkuZ9btuh8) | [Leylines](https://open.spotify.com/artist/2i22wzeMXCUT7xEUOggJNv) | [Phosphenes](https://open.spotify.com/album/3AUNBFa5Nu3ZTE8RRzH68i) | 4:38 | 2025-12-11 | 2025-12-19 |
@@ -199,7 +200,7 @@
 | [Stranden](https://open.spotify.com/track/7v05GxuaQtCW32RuhPThPa) | [Johan Piribauer](https://open.spotify.com/artist/7snANhwq2QpnYEmIVnRfEi) | [En sista sång från Tjappsåive](https://open.spotify.com/album/6M0kN0riMm5IcczfPUlr3x) | 5:31 | 2025-11-21 |  |
 | [Surviving \- Demo](https://open.spotify.com/track/51EjIOlT6UaNTlMQZvd3pa) | [2 MUCH PRESSURE](https://open.spotify.com/artist/0nkxXTv7KX6NPNsFcZRT28) | [RAILWORLD](https://open.spotify.com/album/14SA6Ih2aRdf0XpYozcZvC) | 3:37 | 2025-11-22 |  |
 | [Svētā Govs Zvana Hronikas](https://open.spotify.com/track/3rveLtvFNOwB0iUo6ISAHj) | [Bukte](https://open.spotify.com/artist/4EbLbgd9yIjJG39ePWOVXO) | [Svētā Govs Zvana Hronikas](https://open.spotify.com/album/1TL8L78HufyIFZ4Le2bldC) | 5:12 | 2025-12-05 | 2025-12-07 |
-| [Sweet Revenge](https://open.spotify.com/track/2uEwxHziGu3yz3YSf6oBkd) | [Misty Route](https://open.spotify.com/artist/4ZcL3qNbxz6U1N625J3Sl2) | [Without A Trace](https://open.spotify.com/album/00DAeJCm2WceN5s2h2LbDu) | 5:18 | 2025-12-23 |  |
+| [Sweet Revenge](https://open.spotify.com/track/2uEwxHziGu3yz3YSf6oBkd) | [Misty Route](https://open.spotify.com/artist/4ZcL3qNbxz6U1N625J3Sl2) | [Without A Trace](https://open.spotify.com/album/00DAeJCm2WceN5s2h2LbDu) | 5:18 | 2025-12-23 | 2025-12-26 |
 | [Symbol of Absence](https://open.spotify.com/track/3aGQqnQXTlEASZuDh4d6C3) | [Déjà Young](https://open.spotify.com/artist/6FXPElF9E7z8LEe21uMzr7) | [Symbol of Absence](https://open.spotify.com/album/3GeTP3sWi4i4acX36zKfDo) | 4:06 | 2025-11-27 | 2025-12-07 |
 | [Tag II: Im Netz](https://open.spotify.com/track/2pz0eLJDuxtvBsBC76Ctld) | [The Burden Remains](https://open.spotify.com/artist/30uFO9w3DNyp15CbAEiyGX) | [trotz\*däm nüt](https://open.spotify.com/album/5hzuBqlZgYgqfnptlN4na7) | 5:53 | 2025-11-23 | 2025-11-24 |
 | [Take Me Back](https://open.spotify.com/track/0I1pjXfxBby3nA7zz3lD0t) | [MIK's Reaction](https://open.spotify.com/artist/0LS00Hi5R6PcZ9mfPTjSMg) | [A Labyrinth Of Love And Lament](https://open.spotify.com/album/0NmbwExRQQaCfIMltFfNh1) | 4:14 | 2025-12-08 | 2025-12-23 |

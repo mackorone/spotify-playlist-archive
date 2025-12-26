@@ -2,9 +2,9 @@
 
 ### [Fresh Variété](https://open.spotify.com/playlist/37i9dQZF1DWSBZhfF4ZHr8)
 
-> Les meilleures nouveautés de la variété française avec Lenaïg
+> Les meilleures nouveautés de la variété française avec Mentissa
 
-397 songs - 19 hr 38 min
+398 songs - 19 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Hyper \- Radio Edit](https://open.spotify.com/track/1PJy77luqvCQfOGVeLIB4V) | [Sylvain Duthu](https://open.spotify.com/artist/7mlvN5fTEjTUBLuUbUPpW6) | [Hyper \(Radio Edit\)](https://open.spotify.com/album/3PzybE4ndU1NFjsabkqfJU) | 3:11 | 2024-11-28 | 2025-02-07 |
 | [Hypersensible](https://open.spotify.com/track/16mqPjC4RwFPnH0UoDn7lA) | [Charles Doré](https://open.spotify.com/artist/5pkg2J5CWBiP3bPJZj5Ra9) | [Hypersensible](https://open.spotify.com/album/1N2eEz2ZKhZKfjl4hQ8F8w) | 2:53 | 2025-12-04 |  |
 | [Il suffit d'une chanson](https://open.spotify.com/track/02n2wpQra4DEQZ8DZD27Gp) | [Saule](https://open.spotify.com/artist/2n2CmLay2NP2Iolah62W34) | [Il suffit d'une chanson](https://open.spotify.com/album/1wb0xY0W1qJjl4wOqgtztH) | 3:07 | 2025-05-22 | 2025-08-29 |
+| [ILOVEYOU](https://open.spotify.com/track/16HeXrSkgw0drlP91dXsGm) | [Mathilda](https://open.spotify.com/artist/3G3kiaWiTm0mUdzujLRuji) | [ILOVEYOU](https://open.spotify.com/album/5RVR2QeFxT7876wgwMeLdy) | 3:51 | 2025-12-25 |  |
 | [Ils s'aimaient toujours](https://open.spotify.com/track/0EtEjlfmQiUayvKQ4cuLvF) | [Carla De Coignac](https://open.spotify.com/artist/0S71ohbhoJii4mG4geSK2B) | [Ils s'aimaient toujours](https://open.spotify.com/album/3QGHad6WExNAujuYcmauUm) | 2:56 | 2024-06-27 | 2024-07-12 |
 | [Immortel](https://open.spotify.com/track/18yOklwm2I8X5VJ0wGVeQP) | [Jeck](https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf) | [Moi c'est Jeck](https://open.spotify.com/album/5IA4BoY6B9rGNTNMAJnXZj) | 2:56 | 2024-08-01 | 2024-11-15 |
 | [Internet](https://open.spotify.com/track/6CTF67PhXCjejoVdw9H0Yg) | [Lenaïg](https://open.spotify.com/artist/7LBRgobZF7IvkSKljcuGDb) | [Internet](https://open.spotify.com/album/0JWbb1gcqKO0OACnszsDRg) | 3:10 | 2025-04-10 | 2025-06-27 |
@@ -313,7 +314,7 @@
 | [Regarde](https://open.spotify.com/track/2147QVD0QBS9L90jxwvUcc) | [Vanille](https://open.spotify.com/artist/2cDOL359PIxZf239UwINjI) | [Regarde](https://open.spotify.com/album/39hZhVtDtPuH0njI8KjArd) | 2:43 | 2025-01-30 | 2025-04-18 |
 | [Regarde\-moi](https://open.spotify.com/track/2K0tqdLh2ex3mjIj2eIKKV) | [Keen' V](https://open.spotify.com/artist/5iZMWWLoDJH1u6Ru2rOEsd) | [Regarde\-moi](https://open.spotify.com/album/5ApRqtv1gGbJjVYlnHD9pL) | 2:14 | 2025-09-18 | 2025-11-28 |
 | [Restes d'averses](https://open.spotify.com/track/1PZrVhxFJet31mkr10HmHx) | [Marine](https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1) | [Coeur maladroit](https://open.spotify.com/album/0xHoPDymexPOYSzzkk7xUJ) | 3:06 | 2025-06-26 | 2025-09-26 |
-| [Restes d'averses \- Regretting You Version](https://open.spotify.com/track/0unmCsoTMN5pVdIrZYUWc9) | [Marine](https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1) | [Restes d'averses \(Regretting You Version\)](https://open.spotify.com/album/7fQD6Hers82Ox6xjguDqlZ) | 2:53 | 2025-09-25 |  |
+| [Restes d'averses \- Regretting You Version](https://open.spotify.com/track/0unmCsoTMN5pVdIrZYUWc9) | [Marine](https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1) | [Restes d'averses \(Regretting You Version\)](https://open.spotify.com/album/7fQD6Hers82Ox6xjguDqlZ) | 2:53 | 2025-09-25 | 2025-12-26 |
 | [Rien qu'ça](https://open.spotify.com/track/237WM1VgB4TEGTXcUpCqnL) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0) | [Crèvecoeur](https://open.spotify.com/album/0WgY5ocBEP23tJiAMgawBv) | 2:33 | 2025-03-06 | 2025-04-18 |
 | [Rome](https://open.spotify.com/track/6uli5hr7BAqcCPflGOQwLv) | [Lunis](https://open.spotify.com/artist/1YjaVTeHBlVRRxbk7H30HN), [KAM](https://open.spotify.com/artist/2bRFB156zGRK5of4nNcHYZ), [Yukaï](https://open.spotify.com/artist/0oEG02X9HtMCp3veQMWD92) | [Rome](https://open.spotify.com/album/7HkMD4BxwBZIqH8SABg43O) | 3:29 | 2025-07-10 | 2025-09-26 |
 | [Rosa](https://open.spotify.com/track/6rbgsiBe28janVH7ysQO3a) | [RIDSA](https://open.spotify.com/artist/4TGltjqP0MQxdGeSIrM4es) | [Rosa](https://open.spotify.com/album/4PgjK4gAk0R7d4pUTURMvz) | 2:16 | 2024-07-18 | 2024-11-08 |

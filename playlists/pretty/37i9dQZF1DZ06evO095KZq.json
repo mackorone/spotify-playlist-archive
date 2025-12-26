@@ -1,12 +1,12 @@
 {
   "description": "This is El Fantasma. The essential tracks, all in one playlist.",
-  "num_followers": 446997,
+  "num_followers": 447011,
   "original_name": "This Is El Fantasma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUnbgAAAAAB4e7uPBpcujeE7QJecK5KR",
+  "snapshot_id": "aUstAAAAAACkqYSk3aHesyKMDAQw+qps",
   "tracks": [
     {
       "added_at": null,
@@ -487,6 +487,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Tatuado",
+        "url": "https://open.spotify.com/album/3C02cJnFkQq2dxBD1MwkcV"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Ian Cordova",
+          "url": "https://open.spotify.com/artist/69DtJEq8LQ02KB06wynzuh"
+        }
+      ],
+      "duration_ms": 189230,
+      "name": "El Tatuado",
+      "url": "https://open.spotify.com/track/6e4IgXKwnk2KamlVuoqqgs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa' los Recuerdos, Vol. 2",
+        "url": "https://open.spotify.com/album/4xPy9yUhxwQcb7NVU2MNlH"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 145781,
+      "name": "Mi Ranchito",
+      "url": "https://open.spotify.com/track/4jc4nx7L8I9JGcMbnQIyXl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Yo Nac\u00ed Pa' Ser Jefe",
         "url": "https://open.spotify.com/album/7q7BpDLt0lsEQIv6MyGqsa"
       },
@@ -511,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa' los Recuerdos, Vol. 2",
-        "url": "https://open.spotify.com/album/4xPy9yUhxwQcb7NVU2MNlH"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 145781,
-      "name": "Mi Ranchito",
-      "url": "https://open.spotify.com/track/4jc4nx7L8I9JGcMbnQIyXl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Loter\u00eda",
         "url": "https://open.spotify.com/album/33y7OjZc89x9SsOIebCGCJ"
       },
@@ -539,26 +559,6 @@
       "duration_ms": 173874,
       "name": "La Loter\u00eda",
       "url": "https://open.spotify.com/track/7E4nVNpcqxMzfJv5qqgaAk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Tatuado",
-        "url": "https://open.spotify.com/album/3C02cJnFkQq2dxBD1MwkcV"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        },
-        {
-          "name": "Ian Cordova",
-          "url": "https://open.spotify.com/artist/69DtJEq8LQ02KB06wynzuh"
-        }
-      ],
-      "duration_ms": 189230,
-      "name": "El Tatuado",
-      "url": "https://open.spotify.com/track/6e4IgXKwnk2KamlVuoqqgs"
     },
     {
       "added_at": null,
@@ -904,9 +904,9 @@
           "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         }
       ],
-      "duration_ms": 159950,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/14uHKZWp2QjJUG0pgK9nWH"
+      "duration_ms": 110157,
+      "name": "La Enorme Distancia",
+      "url": "https://open.spotify.com/track/7qIw9JxhZ8Zv4l9IR9D75O"
     }
   ],
   "unique_name": "This Is El Fantasma",

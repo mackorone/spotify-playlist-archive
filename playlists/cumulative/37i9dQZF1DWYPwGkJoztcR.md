@@ -4,7 +4,7 @@
 
 > Koffie met gemoedelijke muziek op de achtergrond.
 
-143 songs - 8 hr 15 min
+144 songs - 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Anything To Feel Alive](https://open.spotify.com/track/0ZfCPcY1RrPKdY8L5N79YP) | [FRIDAY](https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX), [Alice on the roof](https://open.spotify.com/artist/4M07FSqpxgqLfCOaX1WUei) | [Anything To Feel Alive](https://open.spotify.com/album/68gQpGGfxAXDokf3PBLCzQ) | 4:20 | 2025-06-27 |  |
 | [Apple Tree](https://open.spotify.com/track/3F8qD0jYXjGweKRYv5CQRf) | [Niels Geusebroek](https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l) | [Apple Tree](https://open.spotify.com/album/1iKpZ2BXsPfibh7g897dgx) | 2:58 | 2025-06-27 |  |
 | [Back on the Road](https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Back on the Road](https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj) | 2:24 | 2025-06-27 |  |
-| [Back to the River](https://open.spotify.com/track/7h15s9nOXVe8nH9TGqXb6O) | [Jon Allen](https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa) | [Back to the River](https://open.spotify.com/album/6yaMZCMnX7lTWKLeyAhutG) | 4:09 | 2025-12-05 |  |
+| [Back to the River](https://open.spotify.com/track/7h15s9nOXVe8nH9TGqXb6O) | [Jon Allen](https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa) | [Back to the River](https://open.spotify.com/album/6yaMZCMnX7lTWKLeyAhutG) | 4:09 | 2025-12-05 | 2025-12-26 |
 | [Basement beds](https://open.spotify.com/track/0wonMnl5a1ufy8UKTfAyid) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Basement beds](https://open.spotify.com/album/0FmNalyo8dk0LX7BU4XhX7) | 4:21 | 2025-06-27 | 2025-10-26 |
 | [Be My Own](https://open.spotify.com/track/1K0DoOa7iEgUcXdBPXC5lw) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [Be My Own](https://open.spotify.com/album/6SKu22UR1q7puVJoUYwl70) | 3:39 | 2025-08-06 |  |
 | [Beginners](https://open.spotify.com/track/5AsLsFWZPWDC5KSv49nEhd) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Beginners](https://open.spotify.com/album/5gG3tn5rwn5MRVVIRq8wNN) | 3:36 | 2025-06-27 |  |
@@ -42,6 +42,7 @@
 | [Don't Break My Heart](https://open.spotify.com/track/4bMWXpyJEGsYqmr757E7BK) | [Nona](https://open.spotify.com/artist/5aGfasfrnULFuSZ3ElXkHb) | [Don't Break My Heart](https://open.spotify.com/album/6aCN1U0UVnVHBGtoMBsvjN) | 2:54 | 2025-10-02 |  |
 | [Don't Leave Me Now](https://open.spotify.com/track/6WmFcu5t23LYIw6jotpn5Z) | [Lucas Hamming](https://open.spotify.com/artist/4iDpNIlF0YzksZ35iQf196) | [Don't Leave Me Now](https://open.spotify.com/album/3242iTcpKXzQe4zFTp2AMz) | 3:52 | 2025-09-25 |  |
 | [Duly Love](https://open.spotify.com/track/2fqRddXFY6TNFvbdfTOtcK) | [Robin Storm](https://open.spotify.com/artist/3fZXZxVDGmf9HeSNzOZklx) | [Duly Love](https://open.spotify.com/album/7CenE3Z51PKnvEkEMDbbg5) | 3:09 | 2025-06-27 | 2025-10-03 |
+| [Easy To Love \(feat\. Iris Jean\)](https://open.spotify.com/track/63iSpVU9FUKevNdkUYpnUD) | [Melle](https://open.spotify.com/artist/0tNutPAfpYEeY6YEzwIXQp), [Iris Jean](https://open.spotify.com/artist/4wBfIhE83uioUEtqPGznwu) | [Easy To Love \(feat\. Iris Jean\)](https://open.spotify.com/album/4dzcTV21H0O6LfuliqlYBp) | 3:46 | 2025-12-05 |  |
 | [Every Town](https://open.spotify.com/track/3cGCnGYGIDZXz1MK4QHDc0) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Every Town](https://open.spotify.com/album/2qzfwlGdVtbiJuUBhhOU2Q) | 3:53 | 2025-09-15 | 2025-12-03 |
 | [Everyday Life](https://open.spotify.com/track/0h9fnCSnbUgOEgibnQByFv) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Everyday Life](https://open.spotify.com/album/2FeyIYDDAQqcOJKOKhvHdr) | 4:18 | 2025-06-27 | 2025-09-04 |
 | [Falling](https://open.spotify.com/track/0V9YrzbwrwU56cJEzo8l5q) | [Loes Haverkort](https://open.spotify.com/artist/54777M62D5hfIB0mFJ7Lzy) | [Falling](https://open.spotify.com/album/3wJxsWMmDGAxsBOR55WHVK) | 3:36 | 2025-06-27 | 2025-09-26 |

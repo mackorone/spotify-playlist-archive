@@ -409,6 +409,24 @@
     },
     {
       "album": {
+        "name": "Cristian Rey",
+        "url": "https://open.spotify.com/album/5WfZh1LQ2UbGnptHEk0f5j"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "date_added": "2025-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146881,
+      "name": "Cristian Rey",
+      "url": "https://open.spotify.com/track/4NAA2I7SgUv7woJy0qPE53"
+    },
+    {
+      "album": {
         "name": "Lo Prometido Es Deuda (Vol.3)",
         "url": "https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM"
       },
@@ -890,7 +908,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 147999,
       "name": "Fino El Porteson",
       "url": "https://open.spotify.com/track/6QqbWrnaAFOKI9jv0nbAkf"

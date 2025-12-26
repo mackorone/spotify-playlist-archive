@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 
 > Your shortcut to the best new Hip Hop\. Cover: Kerser
 
-[Spotify](https://open.spotify.com/user/spotify) - 505,189 likes - 70 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 505,193 likes - 70 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 | 69 | [Way Up](https://open.spotify.com/track/59U4kEmf0gKGVvvkx639LR) | [Moses](https://open.spotify.com/artist/7C4wdYXzWa7vTFXRetpTbs) | [Way Up](https://open.spotify.com/album/3ZxrPILZhlGnA85EKTkVHt) | 2:44 |
 | 70 | [For What \(feat\. Cash Cobain\)](https://open.spotify.com/track/6GfC36LoOZv0zCa45Et1Fg) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [For What \(feat\. Cash Cobain\)](https://open.spotify.com/album/3suGtJheyDNSi0q00nEM9h) | 2:31 |
 
-Snapshot ID: `AAAAAAQ8rO+zH8nL4KMtFHsnzSErWSNx`
+Snapshot ID: `AAAAAO7OVxEfoaTpo8+mTkSji+23JyA/`

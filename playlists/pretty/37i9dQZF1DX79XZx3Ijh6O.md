@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79XZx3Ijh6O.md) - [plain]
 
 > Найліпша музика від українських артистів\-початківців\. Обкладинка: <a href="spotify:artist:1GmxKkVI7e4dcTOBAWTSo3">nanataalia</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,085 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,088 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79XZx3Ijh6O.md) - [plain]
 | 99 | [Останньоперший схід](https://open.spotify.com/track/2cr7mUnCSiC3H3bYPcWejG) | [Третя Хвиля](https://open.spotify.com/artist/4OenhQQsGnyUgG7pz6jUT5) | [Останньоперший схід](https://open.spotify.com/album/0mruJrQNrd2m5LqBrbwlRN) | 3:34 |
 | 100 | [Після цього ми не зможемо](https://open.spotify.com/track/0e8GfxGtYEjkpM7qvuf3kd) | [CRUSHGLAD](https://open.spotify.com/artist/7LdGgI7scwVJX3iTfJdT9g) | [Після цього ми не зможемо](https://open.spotify.com/album/1uXaGHvHbCqjGkN3yXnJWU) | 1:53 |
 
-Snapshot ID: `AAAAAN818ozb1XiNgvJrFxjoVLYfgijB`
+Snapshot ID: `AAAAAKeSiILFsgRyl9G1ndkjbWWmNDJ0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 254 likes - 3,808 songs - 8 day 9 hr 51 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 255 likes - 3,810 songs - 8 day 9 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -3816,5 +3816,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 3806 | [Karpa Koi](https://open.spotify.com/track/5wNaTEXJt42mrir0krH5Z6) | [Ksv Sirius](https://open.spotify.com/artist/3mGKLjUOJC93N1lQB0RRJF) | [Karpa Koi](https://open.spotify.com/album/4G1JLl7b1jjnjAlNyu9Tzb) | 1:57 |
 | 3807 | [Solo oro](https://open.spotify.com/track/43rxBqECyQkwj8KlKYpBvO) | [Ksv Sirius](https://open.spotify.com/artist/3mGKLjUOJC93N1lQB0RRJF) | [Solo oro](https://open.spotify.com/album/7nxex20IBUGH5I0LKofPYF) | 1:21 |
 | 3808 | [Brunch Shit](https://open.spotify.com/track/4ppjAukBLZEOwGs13k7GeE) | [Ksv Sirius](https://open.spotify.com/artist/3mGKLjUOJC93N1lQB0RRJF) | [Brunch Shit](https://open.spotify.com/album/6FMUH43329kwvlQxzH551C) | 1:55 |
+| 3809 | [The Ride Down](https://open.spotify.com/track/6AMWZ9fWpN2U28a3H5a7SS) | [Tilt 360](https://open.spotify.com/artist/32oplagvPK0sLgWgOm5u2x) | [It Grows](https://open.spotify.com/album/1NUY4o4RVyI3Y7NXO5mMq8) | 3:57 |
+| 3810 | [Firefly Feast](https://open.spotify.com/track/2fgK8lEyLfYn5DAgHjL4j1) | [MGila\_00](https://open.spotify.com/artist/29ghh8SWOgR4zcnUrG5pp8) | [Dark Forest Cruise](https://open.spotify.com/album/5UJrnNlYatHz2JjPCD5IHq) | 2:09 |
 
-Snapshot ID: `AAAGbETRxI5UzI+sosh3KIXHx+2BQgFX`
+Snapshot ID: `AAAGbrRSPY+xlJIzfxjDsujBj1I8dkni`

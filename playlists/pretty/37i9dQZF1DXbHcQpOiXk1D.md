@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHcQpOiXk1D.md) - [plain]
 
 > The best from Britain's vibrant scene\. Cover: <br/>oreglo
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,899 likes - 75 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,916 likes - 75 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,10 +65,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHcQpOiXk1D.md) - [plain]
 | 55 | [Dau Funud](https://open.spotify.com/track/6tag4CtLEjOzBiC8rIguhv) | [Malan](https://open.spotify.com/artist/4lTwsxnU59QAenYUzJteBl) | [Dau Funud](https://open.spotify.com/album/7kjY3gcsD6sBFw9iqz9FGc) | 3:54 |
 | 56 | [It Could Be](https://open.spotify.com/track/65k36tJQgts8gqSMnWx47m) | [Amanda Whiting](https://open.spotify.com/artist/6PGBkPJLeNHQQTM3wvlVv5) | [Can You See Me Now?](https://open.spotify.com/album/4NuVAezhA18lt3V9wG75qs) | 3:17 |
 | 57 | [Agave Flute](https://open.spotify.com/track/0QFqGiwrunHgwpflzQhgmQ) | [Marco Bernardis](https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv) | [Wu Wei](https://open.spotify.com/album/6vpHWq7UHPBQ5ohdU31VnM) | 1:36 |
-| 58 | [Got a Lil Luv](https://open.spotify.com/track/0RS89gLDcUVs441ZUAVuA0) | [Isabelle Mettle](https://open.spotify.com/artist/0wzicZBrVg1SpiMsZzNmFC) | [Changes Deluxe](https://open.spotify.com/album/0nIMJVYQ41dBMDASeQ3mWc) | 2:32 |
+| 58 | [Love Is Like A Movie](https://open.spotify.com/track/5va9bIPu28T4tBERLnmc3M) | [Ashley Henry](https://open.spotify.com/artist/64bpQRbx4Nw2r7oIg1SAzw), [Judi Jackson](https://open.spotify.com/artist/6cc4nTPbOmmi0oWqMKL6fU) | [Who We Are](https://open.spotify.com/album/1104vnzxmRlJSJplPf25Xz) | 4:34 |
 | 59 | [Need a Moment](https://open.spotify.com/track/0XlkTuDHqNSfKd2MnjQ4GE) | [Kyra](https://open.spotify.com/artist/4IVDPbJrdHe1RQ4crCReBW) | [Need a Moment](https://open.spotify.com/album/0Rh1CSVMLEfnTOXEL4uPJu) | 3:29 |
-| 60 | [Blame](https://open.spotify.com/track/0O343Jy6qgeeZUmxIriCCF) | [Arjuna Oakes](https://open.spotify.com/artist/724Bei6TsAHJYvnLHGdEAF) | [Blame](https://open.spotify.com/album/47Ej3YAV40mRK7LFS76iFH) | 3:37 |
-| 61 | [Love Is Like A Movie](https://open.spotify.com/track/5va9bIPu28T4tBERLnmc3M) | [Ashley Henry](https://open.spotify.com/artist/64bpQRbx4Nw2r7oIg1SAzw), [Judi Jackson](https://open.spotify.com/artist/6cc4nTPbOmmi0oWqMKL6fU) | [Who We Are](https://open.spotify.com/album/1104vnzxmRlJSJplPf25Xz) | 4:34 |
+| 60 | [Got a Lil Luv](https://open.spotify.com/track/0RS89gLDcUVs441ZUAVuA0) | [Isabelle Mettle](https://open.spotify.com/artist/0wzicZBrVg1SpiMsZzNmFC) | [Changes Deluxe](https://open.spotify.com/album/0nIMJVYQ41dBMDASeQ3mWc) | 2:32 |
+| 61 | [Blame](https://open.spotify.com/track/0O343Jy6qgeeZUmxIriCCF) | [Arjuna Oakes](https://open.spotify.com/artist/724Bei6TsAHJYvnLHGdEAF) | [Blame](https://open.spotify.com/album/47Ej3YAV40mRK7LFS76iFH) | 3:37 |
 | 62 | [Landlord blues](https://open.spotify.com/track/4wiIAWolI7HefrUgehfAx6) | [SELL EVERYTHING](https://open.spotify.com/artist/3U5BOUTIws5YtSMemhKY87) | [Landlord blues](https://open.spotify.com/album/5RPLrYO2Xvp9r3jpquJilH) | 2:03 |
 | 63 | [Yearning](https://open.spotify.com/track/6f1jwxWoobdY2q9zrq28nY) | [Sâlo](https://open.spotify.com/artist/1Jxb2XyHKir8W0oZrdsCpN) | [Yearning](https://open.spotify.com/album/1PexTdqHu6pScyHcvDrFyZ) | 3:27 |
 | 64 | [Day x2 \(feat\. MIKE & Marco Bernardis\)](https://open.spotify.com/track/0IHLe0jsqkQokL1At1vwBS) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU), [Marco Bernardis](https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv) | [Day x2 \(feat\. MIKE & Marco Bernardis\)](https://open.spotify.com/album/11BEsLzTeQyffuSXa3W6Fe) | 3:19 |

@@ -1,6 +1,6 @@
 {
   "description": "\u4ee5\u8f15\u5feb\u53c8\u5bcc\u539f\u91ce\u6c23\u606f\u7684\u6c11\u8b20\u642d\u914d\u5348\u8336\uff0c\u8b93\u8033\u969b\u3001\u9f52\u9830\u4e00\u540c\u7559\u9999\uff0c\u597d\u5fc3\u60c5\u958b\u82b1\u7d50\u679c\u3002",
-  "num_followers": 73485,
+  "num_followers": 73484,
   "original_name": "\u82b1\u8349\u4e0b\u5348\u8336",
   "owner": {
     "name": "Spotify",
@@ -419,6 +419,22 @@
     {
       "added_at": "2025-12-21 16:00:22",
       "album": {
+        "name": "We Were Here",
+        "url": "https://open.spotify.com/album/3kJxji4lJkuzZJSTWFbNnG"
+      },
+      "artists": [
+        {
+          "name": "Joshua Radin",
+          "url": "https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34"
+        }
+      ],
+      "duration_ms": 203773,
+      "name": "Winter",
+      "url": "https://open.spotify.com/track/4VuHWU01C36BUaN1adNi5M"
+    },
+    {
+      "added_at": "2025-12-21 16:00:22",
+      "album": {
         "name": "No Fun / Lucky for You",
         "url": "https://open.spotify.com/album/7DVkaDX0Y47rRsJqgvHjyh"
       },
@@ -439,22 +455,6 @@
     {
       "added_at": "2025-12-21 16:00:22",
       "album": {
-        "name": "We Were Here",
-        "url": "https://open.spotify.com/album/3kJxji4lJkuzZJSTWFbNnG"
-      },
-      "artists": [
-        {
-          "name": "Joshua Radin",
-          "url": "https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34"
-        }
-      ],
-      "duration_ms": 203773,
-      "name": "Winter",
-      "url": "https://open.spotify.com/track/4VuHWU01C36BUaN1adNi5M"
-    },
-    {
-      "added_at": "2025-12-21 16:00:22",
-      "album": {
         "name": "Running Boy",
         "url": "https://open.spotify.com/album/2t32iJ7QwHe8oFqIi8JPRD"
       },
@@ -467,22 +467,6 @@
       "duration_ms": 215660,
       "name": "Running Boy",
       "url": "https://open.spotify.com/track/6DbbojCIW5t4ltDZgEpdh0"
-    },
-    {
-      "added_at": "2025-12-21 16:00:22",
-      "album": {
-        "name": "Shawn",
-        "url": "https://open.spotify.com/album/5FYFgRnlsl9Qrm1xD8cqo7"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 175750,
-      "name": "The Mountain",
-      "url": "https://open.spotify.com/track/1ATWVZj4ukcMcQHRZ6KxvU"
     },
     {
       "added_at": "2025-12-21 16:00:22",
@@ -503,6 +487,22 @@
       "duration_ms": 142659,
       "name": "Morning Coffee",
       "url": "https://open.spotify.com/track/6zvtPVptAvY6wRbkPGLKff"
+    },
+    {
+      "added_at": "2025-12-21 16:00:22",
+      "album": {
+        "name": "Shawn",
+        "url": "https://open.spotify.com/album/5FYFgRnlsl9Qrm1xD8cqo7"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 175750,
+      "name": "The Mountain",
+      "url": "https://open.spotify.com/track/1ATWVZj4ukcMcQHRZ6KxvU"
     },
     {
       "added_at": "2025-12-21 16:00:22",
@@ -587,6 +587,22 @@
     {
       "added_at": "2025-12-21 16:00:22",
       "album": {
+        "name": "The Holiday",
+        "url": "https://open.spotify.com/album/6Y7ATU10sypGIp7X0uDNaj"
+      },
+      "artists": [
+        {
+          "name": "Sydney Rose",
+          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
+        }
+      ],
+      "duration_ms": 240816,
+      "name": "The Holiday",
+      "url": "https://open.spotify.com/track/20pP3XAQUyd8lTgdwKB3Nc"
+    },
+    {
+      "added_at": "2025-12-21 16:00:22",
+      "album": {
         "name": "Renee's Song",
         "url": "https://open.spotify.com/album/0WuZ8xp4MRsvNfYeN0M33G"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 195752,
       "name": "Found",
       "url": "https://open.spotify.com/track/1RDz34JJrGPn5msAXvnvoO"
-    },
-    {
-      "added_at": "2025-12-21 16:00:22",
-      "album": {
-        "name": "The Holiday",
-        "url": "https://open.spotify.com/album/6Y7ATU10sypGIp7X0uDNaj"
-      },
-      "artists": [
-        {
-          "name": "Sydney Rose",
-          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
-        }
-      ],
-      "duration_ms": 240816,
-      "name": "The Holiday",
-      "url": "https://open.spotify.com/track/20pP3XAQUyd8lTgdwKB3Nc"
     },
     {
       "added_at": "2025-12-21 16:00:22",
@@ -759,22 +759,6 @@
     {
       "added_at": "2025-12-21 16:00:22",
       "album": {
-        "name": "Be Alright",
-        "url": "https://open.spotify.com/album/58YyhehZ9ErbmrMbzNkPx4"
-      },
-      "artists": [
-        {
-          "name": "Lola Rhodes",
-          "url": "https://open.spotify.com/artist/6o0VAgvpfBjrUuDWjjQJ4O"
-        }
-      ],
-      "duration_ms": 180466,
-      "name": "Be Alright",
-      "url": "https://open.spotify.com/track/4r4aTOJc7K3iUIU3MEPw6I"
-    },
-    {
-      "added_at": "2025-12-21 16:00:22",
-      "album": {
         "name": "dishonesty",
         "url": "https://open.spotify.com/album/2DgqzDo9Zo8XVkRBgqbUu6"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 179216,
       "name": "dishonesty",
       "url": "https://open.spotify.com/track/2UyUm1slyOjBSWh8sDVUx9"
+    },
+    {
+      "added_at": "2025-12-21 16:00:22",
+      "album": {
+        "name": "Be Alright",
+        "url": "https://open.spotify.com/album/58YyhehZ9ErbmrMbzNkPx4"
+      },
+      "artists": [
+        {
+          "name": "Lola Rhodes",
+          "url": "https://open.spotify.com/artist/6o0VAgvpfBjrUuDWjjQJ4O"
+        }
+      ],
+      "duration_ms": 180466,
+      "name": "Be Alright",
+      "url": "https://open.spotify.com/track/4r4aTOJc7K3iUIU3MEPw6I"
     },
     {
       "added_at": "2025-12-21 16:00:22",
@@ -875,22 +875,6 @@
     {
       "added_at": "2025-12-21 16:00:22",
       "album": {
-        "name": "Burn",
-        "url": "https://open.spotify.com/album/3zptlZqWpgTow8kcilYOqy"
-      },
-      "artists": [
-        {
-          "name": "Dan Berk",
-          "url": "https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ"
-        }
-      ],
-      "duration_ms": 206100,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/3zYvxKKjKpF8swPtMC2EwL"
-    },
-    {
-      "added_at": "2025-12-21 16:00:22",
-      "album": {
         "name": "WHAT I HAVE",
         "url": "https://open.spotify.com/album/6oWk4jEBd7ndcZDHFvzxAC"
       },
@@ -907,18 +891,18 @@
     {
       "added_at": "2025-12-21 16:00:22",
       "album": {
-        "name": "Scars To Your Beautiful",
-        "url": "https://open.spotify.com/album/7lwdqOUtzxHH7wxUHtFffj"
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/3zptlZqWpgTow8kcilYOqy"
       },
       "artists": [
         {
-          "name": "Thomas Daniel",
-          "url": "https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk"
+          "name": "Dan Berk",
+          "url": "https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ"
         }
       ],
-      "duration_ms": 237857,
-      "name": "Scars To Your Beautiful",
-      "url": "https://open.spotify.com/track/19f6MVdX9dLFerHynoM5im"
+      "duration_ms": 206100,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/3zYvxKKjKpF8swPtMC2EwL"
     },
     {
       "added_at": "2025-12-21 16:00:22",
@@ -935,6 +919,22 @@
       "duration_ms": 152293,
       "name": "Highlights",
       "url": "https://open.spotify.com/track/0xvkTfdXvK7f1bOZ98ekbH"
+    },
+    {
+      "added_at": "2025-12-21 16:00:22",
+      "album": {
+        "name": "Scars To Your Beautiful",
+        "url": "https://open.spotify.com/album/7lwdqOUtzxHH7wxUHtFffj"
+      },
+      "artists": [
+        {
+          "name": "Thomas Daniel",
+          "url": "https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk"
+        }
+      ],
+      "duration_ms": 237857,
+      "name": "Scars To Your Beautiful",
+      "url": "https://open.spotify.com/track/19f6MVdX9dLFerHynoM5im"
     },
     {
       "added_at": "2025-12-21 16:00:22",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2025-12-21 16:00:22",
       "album": {
-        "name": "Always On My Mind",
-        "url": "https://open.spotify.com/album/6fEji3YIRWFLPtBM8UCULk"
-      },
-      "artists": [
-        {
-          "name": "Taylor Manns",
-          "url": "https://open.spotify.com/artist/008yUYD9avjHlXXmT47dz9"
-        }
-      ],
-      "duration_ms": 193779,
-      "name": "Always On My Mind",
-      "url": "https://open.spotify.com/track/3VeCrupHghYMiLQNhsIeCn"
-    },
-    {
-      "added_at": "2025-12-21 16:00:22",
-      "album": {
         "name": "Do Better",
         "url": "https://open.spotify.com/album/2QYZygsguJwAV82gvVfJu8"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 178751,
       "name": "Do Better",
       "url": "https://open.spotify.com/track/2JpAVv75QD6hRrpNm0Zr5h"
+    },
+    {
+      "added_at": "2025-12-21 16:00:22",
+      "album": {
+        "name": "Always On My Mind",
+        "url": "https://open.spotify.com/album/6fEji3YIRWFLPtBM8UCULk"
+      },
+      "artists": [
+        {
+          "name": "Taylor Manns",
+          "url": "https://open.spotify.com/artist/008yUYD9avjHlXXmT47dz9"
+        }
+      ],
+      "duration_ms": 193779,
+      "name": "Always On My Mind",
+      "url": "https://open.spotify.com/track/3VeCrupHghYMiLQNhsIeCn"
     },
     {
       "added_at": "2025-12-21 16:00:22",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2025-12-21 16:00:22",
       "album": {
-        "name": "Darling",
-        "url": "https://open.spotify.com/album/0UK2D5JonE1BKF04uxYH4k"
-      },
-      "artists": [
-        {
-          "name": "Alice Phoebe Lou",
-          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
-        }
-      ],
-      "duration_ms": 210650,
-      "name": "Darling",
-      "url": "https://open.spotify.com/track/1OQWeYu8b2QZoS2kGUTkCM"
-    },
-    {
-      "added_at": "2025-12-21 16:00:22",
-      "album": {
         "name": "The Stray Birds",
         "url": "https://open.spotify.com/album/2x0Qf4JKbzTxJHX66XBr0t"
       },
@@ -1195,18 +1179,18 @@
     {
       "added_at": "2025-12-21 16:00:22",
       "album": {
-        "name": "Beautiful Girl - Recorded at Kodama Studios, Philippines",
-        "url": "https://open.spotify.com/album/3UL37TgEAcc58GXvm8hdnr"
+        "name": "Darling",
+        "url": "https://open.spotify.com/album/0UK2D5JonE1BKF04uxYH4k"
       },
       "artists": [
         {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+          "name": "Alice Phoebe Lou",
+          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
         }
       ],
-      "duration_ms": 180545,
-      "name": "Beautiful Girl - Recorded at Kodama Studios, Philippines",
-      "url": "https://open.spotify.com/track/2rSEuTXuRnGOHcU5JuoW13"
+      "duration_ms": 210650,
+      "name": "Darling",
+      "url": "https://open.spotify.com/track/1OQWeYu8b2QZoS2kGUTkCM"
     },
     {
       "added_at": "2025-12-21 16:00:22",
@@ -1227,6 +1211,22 @@
     {
       "added_at": "2025-12-21 16:00:22",
       "album": {
+        "name": "Beautiful Girl - Recorded at Kodama Studios, Philippines",
+        "url": "https://open.spotify.com/album/3UL37TgEAcc58GXvm8hdnr"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "duration_ms": 180545,
+      "name": "Beautiful Girl - Recorded at Kodama Studios, Philippines",
+      "url": "https://open.spotify.com/track/2rSEuTXuRnGOHcU5JuoW13"
+    },
+    {
+      "added_at": "2025-12-21 16:00:22",
+      "album": {
         "name": "Stargazing",
         "url": "https://open.spotify.com/album/1AEKfZUlivdz3cBmO1Zeky"
       },
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2025-12-21 16:00:22",
       "album": {
-        "name": "Pretender",
-        "url": "https://open.spotify.com/album/4hz0oN2yAGTyrESmYZyQLC"
+        "name": "Thinking About You",
+        "url": "https://open.spotify.com/album/6Av9V14GQ4dIqQj9QLBhec"
       },
       "artists": [
         {
-          "name": "Alice Phoebe Lou",
-          "url": "https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX"
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
         }
       ],
-      "duration_ms": 146079,
-      "name": "Pretender",
-      "url": "https://open.spotify.com/track/2YBAasP4UclvPt5HyuYlYD"
+      "duration_ms": 217463,
+      "name": "Thinking About You",
+      "url": "https://open.spotify.com/track/5gTCp2dIRTLgJ8ZZllw0bR"
     }
   ],
   "unique_name": "\u82b1\u8349\u4e0b\u5348\u8336",

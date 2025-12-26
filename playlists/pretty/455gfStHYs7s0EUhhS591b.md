@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/455gfStHYs7s0EUhhS591b.md) - [plain]
 
 > Feel\-good summer throwbacks and chilled lounge mixes to bring the summer vibe all year round.
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 56,007 likes - 214 songs - 12 hr 33 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 56,004 likes - 214 songs - 12 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -223,4 +223,4 @@ pretty - [cumulative](/playlists/cumulative/455gfStHYs7s0EUhhS591b.md) - [plain]
 | 213 | [Lost Tonight](https://open.spotify.com/track/1xD8hBK99rAPgcwjWWnxwf) | [Saje](https://open.spotify.com/artist/3I2596dGk4K3e4qKjwpzQb) | [Lost Tonight](https://open.spotify.com/album/3tzWmKo39Q3OypyD9UbNZl) | 3:18 |
 | 214 | [Epico](https://open.spotify.com/track/6nv7sDQtRxp0JeH2sFUuwE) | [PAAX \(Tulum\)](https://open.spotify.com/artist/44f1ZKVW8Zh13oCOGGTiFd) | [Sera El Sol \(Mixed\)](https://open.spotify.com/album/73LjynB8Hfg63Kz4DQqJlR) | 3:07 |
 
-Snapshot ID: `AAByaRpGtj5o4Wz3BL/xabR63KCVDB7n`
+Snapshot ID: `AABybY9nmOF4Yyxxwo4dNjbgMZclHdLZ`

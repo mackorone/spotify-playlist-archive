@@ -1692,7 +1692,7 @@
       ],
       "date_added": "2025-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 219920,
       "name": "Breathe Again",
       "url": "https://open.spotify.com/track/63aYFTVJyBKPdkUGqoAxTL"
@@ -2670,7 +2670,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-25",
+      "date_removed": null,
       "duration_ms": 243070,
       "name": "Dardos",
       "url": "https://open.spotify.com/track/5SudOD9R1Of6CsJVWZy6CQ"
@@ -5606,7 +5606,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 158520,
       "name": "i think i'm addicted",
       "url": "https://open.spotify.com/track/7MStpKz6w6a7Kq0QR7QTu0"
@@ -6746,7 +6746,7 @@
       ],
       "date_added": "2025-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-02",
+      "date_removed": null,
       "duration_ms": 192092,
       "name": "Lekker Ding, Dit Is Je Verjaardag",
       "url": "https://open.spotify.com/track/6gnSMiZPMa0uEyn6nEfOH0"
@@ -8897,6 +8897,24 @@
     },
     {
       "album": {
+        "name": "Oma Is Bereden Door Een Rendier",
+        "url": "https://open.spotify.com/album/6S9d3hf3ocf1m0ac1ZY0Uf"
+      },
+      "artists": [
+        {
+          "name": "Jorieke Sterken",
+          "url": "https://open.spotify.com/artist/4apAHs1Q11wGqsPDVg5MRb"
+        }
+      ],
+      "date_added": "2025-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151624,
+      "name": "Oma Is Bereden Door Een Rendier",
+      "url": "https://open.spotify.com/track/37p0k115NR4QB9FL5RMttH"
+    },
+    {
+      "album": {
         "name": "Omdat Ik Zo Van Je Hou",
         "url": "https://open.spotify.com/album/7g8XEtDOkB631Cx7eWFbS8"
       },
@@ -9468,7 +9486,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-15",
+      "date_removed": null,
       "duration_ms": 169846,
       "name": "Positive",
       "url": "https://open.spotify.com/track/1oOg0jvlrnZSAy3dhK8fmB"
@@ -9486,7 +9504,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 169864,
       "name": "Positive",
       "url": "https://open.spotify.com/track/1JCMqnaIOHJcAr514CnFcm"
@@ -9784,7 +9802,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-24",
+      "date_removed": null,
       "duration_ms": 126106,
       "name": "Rebanav 126bpm",
       "url": "https://open.spotify.com/track/0zJ73feFCS8807usUclLWo"
@@ -11634,7 +11652,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 142400,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/67SxvAPX47AOIFeYGM7o7P"
@@ -13014,7 +13032,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 196795,
       "name": "WHERE IS MY HUSBAND!",
       "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"

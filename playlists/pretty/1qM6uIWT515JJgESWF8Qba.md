@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 268 likes - 97 songs - 5 hr 56 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 271 likes - 99 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,5 +105,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 | 95 | [Lighthouse](https://open.spotify.com/track/6D66W9Yl8NEqZvs67ucryx) | [Hickory](https://open.spotify.com/artist/16K67XvCafdi0d8GTvXbwg) | [Kickin' It Down the Road](https://open.spotify.com/album/1nurE6IMVjUP1Y1kx2Qvs1) | 4:48 |
 | 96 | [Captive Hearts](https://open.spotify.com/track/2qT1OQRMtqnudkY6YVRaVl) | [ARMAGELION](https://open.spotify.com/artist/4SbqNuXLiu8IFt1RdIDtia) | [Captive Hearts](https://open.spotify.com/album/3K73HEZUnPYch0Koa9kOvG) | 4:36 |
 | 97 | [Moonlight In Her Eyes](https://open.spotify.com/track/0WacSaEiYuiKtXbtJIHTQO) | [Mary Wiles](https://open.spotify.com/artist/1U4MNNHHmj3YK2weAeiUTl) | [Why Not Take A Chance](https://open.spotify.com/album/5KsoXtKHhjGc8bPgSjjQey) | 3:51 |
+| 98 | [Away](https://open.spotify.com/track/2tm4WMB9krMVIFdbKfMw14) | [The Dead Hearts](https://open.spotify.com/artist/2s9mLTL8FL7NWqACzxXrwO) | [Plight Goes On](https://open.spotify.com/album/7C005ZPm1M5yhw4pEWE2lX) | 3:32 |
+| 99 | [Sunday Lazy Afternoon](https://open.spotify.com/track/2o9V82qmpXdcykHrfR168t) | [Johnny & The G\-Men](https://open.spotify.com/artist/6rdvPNdq54f4TVhXsabGV6) | [Sunday Lazy Afternoon](https://open.spotify.com/album/3LAwyyI6spkmdzMstWDXaB) | 4:52 |
 
-Snapshot ID: `AAAA5+77sHdEJZa+nZqEczEz0hYh3uXk`
+Snapshot ID: `AAAA6bKo3MmfR9KmI9sncVdiwROWlofn`

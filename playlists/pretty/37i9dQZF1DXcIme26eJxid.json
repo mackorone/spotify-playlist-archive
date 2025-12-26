@@ -1,6 +1,6 @@
 {
   "description": "The most known Afro-pop classics, all in one place! Cover: Lijadu Sisters",
-  "num_followers": 124598,
+  "num_followers": 124641,
   "original_name": "Classic Afropop",
   "owner": {
     "name": "Spotify",
@@ -487,6 +487,22 @@
     {
       "added_at": "2025-09-30 11:32:09",
       "album": {
+        "name": "Best of The Black President",
+        "url": "https://open.spotify.com/album/7325GfKum2hDK231i3LqA7"
+      },
+      "artists": [
+        {
+          "name": "Fela Kuti",
+          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+        }
+      ],
+      "duration_ms": 591706,
+      "name": "Water No Get Enemy - Edit",
+      "url": "https://open.spotify.com/track/43ile6cBzr9uaC4bJf6J3N"
+    },
+    {
+      "added_at": "2025-09-30 11:32:09",
+      "album": {
         "name": "This Is Eddy Grant",
         "url": "https://open.spotify.com/album/1GDajHPyvYM4YEUgKNusNX"
       },
@@ -499,26 +515,6 @@
       "duration_ms": 235799,
       "name": "Say I Love You",
       "url": "https://open.spotify.com/track/6NkDS793oPRpIAjrAsKNAa"
-    },
-    {
-      "added_at": "2025-09-30 11:32:09",
-      "album": {
-        "name": "Zombie",
-        "url": "https://open.spotify.com/album/4CGGf13zt9Jva2ia4CKQi6"
-      },
-      "artists": [
-        {
-          "name": "Fela Kuti",
-          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
-        },
-        {
-          "name": "Afrika 70",
-          "url": "https://open.spotify.com/artist/5lhLOXDLaw0yjEXd6xTasV"
-        }
-      ],
-      "duration_ms": 745653,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/11GDQVqIEKAB4QKOcIVOvG"
     },
     {
       "added_at": "2025-09-30 11:32:09",
@@ -575,6 +571,26 @@
     {
       "added_at": "2025-09-30 11:32:09",
       "album": {
+        "name": "Zombie",
+        "url": "https://open.spotify.com/album/4CGGf13zt9Jva2ia4CKQi6"
+      },
+      "artists": [
+        {
+          "name": "Fela Kuti",
+          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+        },
+        {
+          "name": "Afrika 70",
+          "url": "https://open.spotify.com/artist/5lhLOXDLaw0yjEXd6xTasV"
+        }
+      ],
+      "duration_ms": 745653,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/11GDQVqIEKAB4QKOcIVOvG"
+    },
+    {
+      "added_at": "2025-09-30 11:32:09",
+      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/23nI37GDlJScXONSCGJo4r"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 182226,
       "name": "Pata Pata",
       "url": "https://open.spotify.com/track/6rFHmnI9Vd2zUasDXuw59j"
-    },
-    {
-      "added_at": "2025-09-30 11:32:09",
-      "album": {
-        "name": "The Best Of The Black President 2",
-        "url": "https://open.spotify.com/album/5Nx9r4mbuWkfPsVZIvqWx2"
-      },
-      "artists": [
-        {
-          "name": "Fela Kuti",
-          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
-        }
-      ],
-      "duration_ms": 793200,
-      "name": "Expensive Shit",
-      "url": "https://open.spotify.com/track/2g72QoX5ZZlEqQpKfnOdrj"
     },
     {
       "added_at": "2025-09-30 11:32:09",
@@ -655,18 +655,18 @@
     {
       "added_at": "2025-09-30 11:32:09",
       "album": {
-        "name": "Love & Death",
-        "url": "https://open.spotify.com/album/22gNWSHQclzKln0X8C69v5"
+        "name": "The Best Of The Black President 2",
+        "url": "https://open.spotify.com/album/5Nx9r4mbuWkfPsVZIvqWx2"
       },
       "artists": [
         {
-          "name": "Ebo Taylor",
-          "url": "https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI"
+          "name": "Fela Kuti",
+          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
         }
       ],
-      "duration_ms": 415090,
-      "name": "Love and Death",
-      "url": "https://open.spotify.com/track/2qgudkFpaRq2YcJDWhKW44"
+      "duration_ms": 793200,
+      "name": "Expensive Shit",
+      "url": "https://open.spotify.com/track/2g72QoX5ZZlEqQpKfnOdrj"
     }
   ],
   "unique_name": "Classic Afropop",

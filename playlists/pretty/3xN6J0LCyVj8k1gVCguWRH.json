@@ -1,12 +1,12 @@
 {
   "description": "Obama&#x27;s favorite music of 2025. Includes Summer 2024 and bonus tracks. ",
-  "num_followers": 132333,
+  "num_followers": 132351,
   "original_name": "Obama\u2019s Summer Playlist 2025",
   "owner": {
     "name": "SoundsDeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "AAA2Y8YhSQartZ0qzjbXh8cj0tn4OBbu",
+  "snapshot_id": "AAA2bM9ZYaDT/r0S0kcetIbrvBPDND/l",
   "tracks": [
     {
       "added_at": "2025-12-18 22:42:53",
@@ -1413,6 +1413,22 @@
       "url": "https://open.spotify.com/track/1t8KqxXa0GiW90dw0SOC46"
     },
     {
+      "added_at": "2025-12-15 23:06:31",
+      "album": {
+        "name": "Space Isn't Such A Bad Place To Die",
+        "url": "https://open.spotify.com/album/2ZyhzIOmofcGwEYN9kqPoj"
+      },
+      "artists": [
+        {
+          "name": "ERLY",
+          "url": "https://open.spotify.com/artist/2z7Bw7TpA0GEbtU3dJRK6I"
+        }
+      ],
+      "duration_ms": 266113,
+      "name": "Erth Got Shot",
+      "url": "https://open.spotify.com/track/6YFPJO1Jq08H8UYy5SnzOo"
+    },
+    {
       "added_at": "2025-12-22 14:07:22",
       "album": {
         "name": "BOBERA",
@@ -2677,6 +2693,74 @@
       "url": "https://open.spotify.com/track/7oOEFDLSQscl0uGulnIEmG"
     },
     {
+      "added_at": "2025-12-25 18:05:10",
+      "album": {
+        "name": "Long Road",
+        "url": "https://open.spotify.com/album/59M2qLszFxLN5iaZs4z069"
+      },
+      "artists": [
+        {
+          "name": "Gabe Lopez",
+          "url": "https://open.spotify.com/artist/2MlP8ZN4cRAtowcIUz3rDn"
+        }
+      ],
+      "duration_ms": 274000,
+      "name": "Long Road",
+      "url": "https://open.spotify.com/track/2gPEhLllYJk4TJEImgepZo"
+    },
+    {
+      "added_at": "2025-12-26 00:04:53",
+      "album": {
+        "name": "Right Where You Are",
+        "url": "https://open.spotify.com/album/5OHTZkWxOvhQqmbL8XBn4U"
+      },
+      "artists": [
+        {
+          "name": "Jah Gordy",
+          "url": "https://open.spotify.com/artist/7vhU9v9k5lKGnq7It37m7e"
+        }
+      ],
+      "duration_ms": 192527,
+      "name": "Right Where You Are",
+      "url": "https://open.spotify.com/track/2307yeehd1mnWpkp61zVsl"
+    },
+    {
+      "added_at": "2025-12-25 18:05:06",
+      "album": {
+        "name": "Vidas Encima",
+        "url": "https://open.spotify.com/album/4L3il88jy1KvgFL42OJd0r"
+      },
+      "artists": [
+        {
+          "name": "Mila Mores",
+          "url": "https://open.spotify.com/artist/5tSv00kcb2Ecjk0RPfuhR1"
+        },
+        {
+          "name": "Nebulosa",
+          "url": "https://open.spotify.com/artist/1vFTHtuByTvVIo6T6bfxww"
+        }
+      ],
+      "duration_ms": 152735,
+      "name": "Vidas Encima",
+      "url": "https://open.spotify.com/track/5wf12p0gBoVgadS11Om8HP"
+    },
+    {
+      "added_at": "2025-12-25 18:05:13",
+      "album": {
+        "name": "Summer Haze",
+        "url": "https://open.spotify.com/album/4yE34Y8GLsFTh2fX7nfQsQ"
+      },
+      "artists": [
+        {
+          "name": "BETHY",
+          "url": "https://open.spotify.com/artist/2AMYoSyrndaS01IOijAuhP"
+        }
+      ],
+      "duration_ms": 243900,
+      "name": "Summer Haze",
+      "url": "https://open.spotify.com/track/0VvjNKaNygEcp14lV5a0rW"
+    },
+    {
       "added_at": "2025-12-24 14:08:16",
       "album": {
         "name": "Stone Cold",
@@ -2777,22 +2861,6 @@
       "url": "https://open.spotify.com/track/0iVPFy4dPd7Wim2vnEvACE"
     },
     {
-      "added_at": "2025-12-15 23:06:31",
-      "album": {
-        "name": "Space Isn't Such A Bad Place To Die",
-        "url": "https://open.spotify.com/album/2ZyhzIOmofcGwEYN9kqPoj"
-      },
-      "artists": [
-        {
-          "name": "ERLY",
-          "url": "https://open.spotify.com/artist/2z7Bw7TpA0GEbtU3dJRK6I"
-        }
-      ],
-      "duration_ms": 266113,
-      "name": "Erth Got Shot",
-      "url": "https://open.spotify.com/track/6YFPJO1Jq08H8UYy5SnzOo"
-    },
-    {
       "added_at": "2025-12-15 23:06:05",
       "album": {
         "name": "Color Blind",
@@ -2839,62 +2907,6 @@
       "duration_ms": 199621,
       "name": "The Holidaze",
       "url": "https://open.spotify.com/track/2ORdkoI0W02bdx0sU6Rxvn"
-    },
-    {
-      "added_at": "2025-12-14 23:26:28",
-      "album": {
-        "name": "Trouble (Budapest Pt. 1)",
-        "url": "https://open.spotify.com/album/38UN6exzCmJXSpZzaqnqZg"
-      },
-      "artists": [
-        {
-          "name": "Andrea Carax",
-          "url": "https://open.spotify.com/artist/09KsWxNuWlya6rRvipzD5d"
-        },
-        {
-          "name": "kaub",
-          "url": "https://open.spotify.com/artist/722lHx0H0HLOp44ov6Zr5t"
-        }
-      ],
-      "duration_ms": 144115,
-      "name": "Trouble (Budapest Pt. 1)",
-      "url": "https://open.spotify.com/track/0rBNCSm4e6rfvnEsTmEKQb"
-    },
-    {
-      "added_at": "2025-12-14 23:26:42",
-      "album": {
-        "name": "YO PAMI TE QUIERO",
-        "url": "https://open.spotify.com/album/5wjpIh1KEF5bp9BZtfxLdO"
-      },
-      "artists": [
-        {
-          "name": "ADIEL",
-          "url": "https://open.spotify.com/artist/7kIY0YemfqOMRAmcn0zRvr"
-        }
-      ],
-      "duration_ms": 106760,
-      "name": "YO PAMI TE QUIERO",
-      "url": "https://open.spotify.com/track/42PTkqNb9VBHBKMr76KCAr"
-    },
-    {
-      "added_at": "2025-12-14 23:38:31",
-      "album": {
-        "name": "_never let u go",
-        "url": "https://open.spotify.com/album/13EXEe9kRoLTw4ApLkiJUY"
-      },
-      "artists": [
-        {
-          "name": "local strays",
-          "url": "https://open.spotify.com/artist/6mDq3Y35f6V4GzcVJHZuV5"
-        },
-        {
-          "name": "little hannah",
-          "url": "https://open.spotify.com/artist/7kE6s1OZtHIuqIMlgs7n60"
-        }
-      ],
-      "duration_ms": 215474,
-      "name": "_never let u go",
-      "url": "https://open.spotify.com/track/5E7r9oHBFabyYbcPZGRoCJ"
     }
   ],
   "unique_name": "Obama\u2019s Summer Playlist 2025",

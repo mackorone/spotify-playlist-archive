@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/62bReXvmroQzQfEUuTNe3Y.md) - [plain]
 
 > Chill tracks to vibe or relax to for 2026\. Updated weekly!
 
-[selected.](https://open.spotify.com/user/selectedbase) - 1,854,776 likes - 157 songs - 7 hr 58 min
+[selected.](https://open.spotify.com/user/selectedbase) - 1,855,521 likes - 157 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

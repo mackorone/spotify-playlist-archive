@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,245 songs - 3 day 4 hr 15 min
+1,246 songs - 3 day 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -352,6 +352,7 @@
 | [Final Church](https://open.spotify.com/track/78sUOio7Q63zyraK2auLla) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Atavista](https://open.spotify.com/album/692R05mxz7V6eOFoj5PMlQ) | 3:46 | 2024-05-13 |  |
 | [Finally](https://open.spotify.com/track/0tn8k0DQ1lYrWSBORME8AB) | [Johan Lenox](https://open.spotify.com/artist/1KuV6xtFnLPsneN3yBrjFj), [Alé Araya](https://open.spotify.com/artist/2kcVXlSyLmHdET22JmJ4jK) | [Full Speed Nowhere](https://open.spotify.com/album/2Ut4IwFNYCY41n6oSsn7Rh) | 2:53 | 2025-12-02 |  |
 | [Finally](https://open.spotify.com/track/5wV1jwBjTkxxAa2gpfyQYR) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [The Alexander Technique](https://open.spotify.com/album/5HSZsS7TGsyMvur547zjVe) | 3:03 | 2024-09-13 |  |
+| [Find Your Love](https://open.spotify.com/track/18PSaTJMLkFNWnW0NWdOAW) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Thank Me Later \(Int'l Version\)](https://open.spotify.com/album/6agmeioaDOBupymziJihgB) | 3:28 | 2025-12-26 |  |
 | [Fine Madeline](https://open.spotify.com/track/2khjSwh01eCWBstZo9rDGn) | [Plums](https://open.spotify.com/artist/0sPK0NZQ44Z8KhGxCOvEG9) | [Jen](https://open.spotify.com/album/07Xmfb4wnWsXnUJLAkyk7t) | 2:19 | 2025-09-23 |  |
 | [Fire](https://open.spotify.com/track/7oHkit3F3vimtsBbnZkU0G) | [KIDS SEE GHOSTS](https://open.spotify.com/artist/2hPgGN4uhvXAxiXQBIXOmE) | [KIDS SEE GHOSTS](https://open.spotify.com/album/6pwuKxMUkNg673KETsXPUV) | 2:20 | 2021-10-22 |  |
 | [Fireside](https://open.spotify.com/track/4atMrAadB7dS8xn9vfk9PQ) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:01 | 2023-06-25 |  |

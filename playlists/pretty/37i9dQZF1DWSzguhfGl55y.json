@@ -1,6 +1,6 @@
 {
   "description": "In Gedenken an XATAR \ud83e\udd0d",
-  "num_followers": 658829,
+  "num_followers": 658857,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
@@ -327,6 +327,22 @@
     {
       "added_at": "2025-12-19 20:12:08",
       "album": {
+        "name": "Wir Kinder vom Bahnhof Soul (Re-Release)",
+        "url": "https://open.spotify.com/album/7MrA7kNLED6TooTm9uxH2i"
+      },
+      "artists": [
+        {
+          "name": "Jan Delay",
+          "url": "https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc"
+        }
+      ],
+      "duration_ms": 219013,
+      "name": "Oh Jonny",
+      "url": "https://open.spotify.com/track/1IivtUqnUfW9jH3pM08D8U"
+    },
+    {
+      "added_at": "2025-12-19 20:12:08",
+      "album": {
         "name": "New Dubby Conquerors",
         "url": "https://open.spotify.com/album/1OjdfxY5zWzEbxUrGJr1Le"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 284906,
       "name": "Dickes B (feat. Black Kappa)",
       "url": "https://open.spotify.com/track/4eRmCZWJoEtLl0wy7EJPwd"
-    },
-    {
-      "added_at": "2025-12-19 20:12:08",
-      "album": {
-        "name": "Wir Kinder vom Bahnhof Soul (Re-Release)",
-        "url": "https://open.spotify.com/album/7MrA7kNLED6TooTm9uxH2i"
-      },
-      "artists": [
-        {
-          "name": "Jan Delay",
-          "url": "https://open.spotify.com/artist/4KivBMgSnZ7hCDfPm46fKc"
-        }
-      ],
-      "duration_ms": 219013,
-      "name": "Oh Jonny",
-      "url": "https://open.spotify.com/track/1IivtUqnUfW9jH3pM08D8U"
     },
     {
       "added_at": "2025-12-19 20:12:08",
@@ -395,22 +395,6 @@
     {
       "added_at": "2025-12-19 20:12:08",
       "album": {
-        "name": "King",
-        "url": "https://open.spotify.com/album/4b5q3NmyU42ndkqFPqqv3v"
-      },
-      "artists": [
-        {
-          "name": "Kollegah",
-          "url": "https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y"
-        }
-      ],
-      "duration_ms": 163506,
-      "name": "Du bist Boss",
-      "url": "https://open.spotify.com/track/32IKJthM7ARKvGBTZCE1Et"
-    },
-    {
-      "added_at": "2025-12-19 20:12:08",
-      "album": {
         "name": "Nr. 415 (Premium Edition)",
         "url": "https://open.spotify.com/album/52eyXvdfq5Lazvjg5tLaNh"
       },
@@ -427,22 +411,34 @@
     {
       "added_at": "2025-12-19 20:12:08",
       "album": {
-        "name": "Carlo Cokxxx Nutten II (Saad)",
-        "url": "https://open.spotify.com/album/4cVaHKd2EkTU8hBwoGvNto"
+        "name": "King",
+        "url": "https://open.spotify.com/album/4b5q3NmyU42ndkqFPqqv3v"
       },
       "artists": [
         {
-          "name": "Bushido",
-          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
-        },
-        {
-          "name": "Saad",
-          "url": "https://open.spotify.com/artist/4EkoggilVZnddJLs4mbW1e"
+          "name": "Kollegah",
+          "url": "https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y"
         }
       ],
-      "duration_ms": 242360,
-      "name": "Nie ein Rapper",
-      "url": "https://open.spotify.com/track/6VPYcW1lFyIF12YDP4S9zJ"
+      "duration_ms": 163506,
+      "name": "Du bist Boss",
+      "url": "https://open.spotify.com/track/32IKJthM7ARKvGBTZCE1Et"
+    },
+    {
+      "added_at": "2025-12-19 20:12:08",
+      "album": {
+        "name": "MT3",
+        "url": "https://open.spotify.com/album/23e9X1a2ODDLWDi9Go747g"
+      },
+      "artists": [
+        {
+          "name": "Massive T\u00f6ne",
+          "url": "https://open.spotify.com/artist/1Ia0ZFqTFENtoU9bxYUsKJ"
+        }
+      ],
+      "duration_ms": 235266,
+      "name": "Cruisen",
+      "url": "https://open.spotify.com/track/6e5kuZssmkwWL3Yt4jwTRy"
     },
     {
       "added_at": "2025-12-19 20:12:08",
@@ -463,18 +459,22 @@
     {
       "added_at": "2025-12-19 20:12:08",
       "album": {
-        "name": "MT3",
-        "url": "https://open.spotify.com/album/23e9X1a2ODDLWDi9Go747g"
+        "name": "Carlo Cokxxx Nutten II (Saad)",
+        "url": "https://open.spotify.com/album/4cVaHKd2EkTU8hBwoGvNto"
       },
       "artists": [
         {
-          "name": "Massive T\u00f6ne",
-          "url": "https://open.spotify.com/artist/1Ia0ZFqTFENtoU9bxYUsKJ"
+          "name": "Bushido",
+          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
+        },
+        {
+          "name": "Saad",
+          "url": "https://open.spotify.com/artist/4EkoggilVZnddJLs4mbW1e"
         }
       ],
-      "duration_ms": 235266,
-      "name": "Cruisen",
-      "url": "https://open.spotify.com/track/6e5kuZssmkwWL3Yt4jwTRy"
+      "duration_ms": 242360,
+      "name": "Nie ein Rapper",
+      "url": "https://open.spotify.com/track/6VPYcW1lFyIF12YDP4S9zJ"
     },
     {
       "added_at": "2025-12-19 20:12:08",

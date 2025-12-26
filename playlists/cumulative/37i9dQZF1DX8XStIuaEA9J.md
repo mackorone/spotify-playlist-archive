@@ -4,7 +4,7 @@
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: Vaundy
 
-1,457 songs - 3 day 11 hr 33 min
+1,458 songs - 3 day 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -950,6 +950,7 @@
 | [カルチャー](https://open.spotify.com/track/6lM8TkGnjBwijnAcM9sJlp) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [カルチャー](https://open.spotify.com/album/22yg77xzNQlpZtFsKG3vdv) | 2:58 | 2025-09-09 | 2025-11-12 |
 | [カーテンコール](https://open.spotify.com/track/1nysdCpKAh6yif4JkmoiNy) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [カーテンコール](https://open.spotify.com/album/11GFYcT1N05hLyrWABo9BK) | 4:03 | 2024-07-25 | 2024-10-02 |
 | [カーニバル](https://open.spotify.com/track/0AeRBtvSVRgoOOqH6wpVj7) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [カーニバル](https://open.spotify.com/album/07gRQAuJ9IQerIveLKsDkS) | 3:31 | 2025-06-03 | 2025-06-11 |
+| [ガイア](https://open.spotify.com/track/7JyMBBXAn6guCGmDwJdn6y) | [Siip](https://open.spotify.com/artist/4iJl88yli7zUwkDCNeKyNa) | [ガイア](https://open.spotify.com/album/0f9cR9kAGMSLGWnVd9eCyL) | 4:28 | 2025-12-23 |  |
 | [キミのいないクリスマスイヴ](https://open.spotify.com/track/2aZtHtD2JIwDi2SPcyC8VG) | [NARROWORLD](https://open.spotify.com/artist/1lDEJxLjWAXtKDr7nFCJxW), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [OHTORA](https://open.spotify.com/artist/16W2CFdMJKvN99ZWwoEB0k) | [キミのいないクリスマスイヴ](https://open.spotify.com/album/13hMLAwxFSt79mpkRc1kBi) | 3:34 | 2023-12-12 | 2023-12-14 |
 | [キラキラミライ](https://open.spotify.com/track/7dP0KRbU4rcXPgFRj1bQ6i) | [Cho Tokimeki Sendenbu](https://open.spotify.com/artist/02hwDSWEF0JdOgdIBw1gRT) | [キラキラミライ](https://open.spotify.com/album/6XqsYWheTU4t6zjaIoU1F7) | 2:22 | 2025-08-12 | 2025-09-03 |
 | [キラッテラッテ](https://open.spotify.com/track/2Ugyo7kjFFli9gHf9KfK5A) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [キラッテラッテ](https://open.spotify.com/album/4L3xxw1jTt0q2QfMG5WfLv) | 3:08 | 2024-02-13 | 2024-03-20 |

@@ -1,6 +1,6 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto:  Benzi\u00ea",
-  "num_followers": 436291,
+  "num_followers": 436276,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -439,22 +439,6 @@
     {
       "added_at": "2025-12-19 03:00:25",
       "album": {
-        "name": "assim",
-        "url": "https://open.spotify.com/album/6EzAHlYYoA8st7fQ9gwdj3"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "assim",
-      "url": "https://open.spotify.com/track/7weSnNG6RFVsfY3z5DABdZ"
-    },
-    {
-      "added_at": "2025-12-19 03:00:25",
-      "album": {
         "name": "Branca",
         "url": "https://open.spotify.com/album/2JcdU4HBsoWM1jeLJQkNGt"
       },
@@ -475,22 +459,18 @@
     {
       "added_at": "2025-12-19 03:00:25",
       "album": {
-        "name": "Acordar Com Voc\u00ea",
-        "url": "https://open.spotify.com/album/1sJwsHDsgwmtHTESz6q0WU"
+        "name": "assim",
+        "url": "https://open.spotify.com/album/6EzAHlYYoA8st7fQ9gwdj3"
       },
       "artists": [
         {
-          "name": "Vicka",
-          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
-        },
-        {
-          "name": "Marina Aquino",
-          "url": "https://open.spotify.com/artist/4vlPh9kkSeXwFHV6B7cnJr"
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
         }
       ],
-      "duration_ms": 182000,
-      "name": "Acordar Com Voc\u00ea",
-      "url": "https://open.spotify.com/track/5dWKOlJER7cwCuDjjoAHRS"
+      "duration_ms": 171000,
+      "name": "assim",
+      "url": "https://open.spotify.com/track/7weSnNG6RFVsfY3z5DABdZ"
     },
     {
       "added_at": "2025-12-19 03:00:25",
@@ -511,6 +491,26 @@
       "duration_ms": 131538,
       "name": "Nada vai ser como antes",
       "url": "https://open.spotify.com/track/6EGAre3TGtj7hlhR8C7A1n"
+    },
+    {
+      "added_at": "2025-12-19 03:00:25",
+      "album": {
+        "name": "Acordar Com Voc\u00ea",
+        "url": "https://open.spotify.com/album/1sJwsHDsgwmtHTESz6q0WU"
+      },
+      "artists": [
+        {
+          "name": "Vicka",
+          "url": "https://open.spotify.com/artist/5ITGPHkPyU6uvvrhMjCGai"
+        },
+        {
+          "name": "Marina Aquino",
+          "url": "https://open.spotify.com/artist/4vlPh9kkSeXwFHV6B7cnJr"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Acordar Com Voc\u00ea",
+      "url": "https://open.spotify.com/track/5dWKOlJER7cwCuDjjoAHRS"
     },
     {
       "added_at": "2025-12-19 03:00:25",
@@ -615,22 +615,6 @@
     {
       "added_at": "2025-12-19 03:00:25",
       "album": {
-        "name": "Quarto",
-        "url": "https://open.spotify.com/album/6qje1RdJpF9fRbMPghHlUK"
-      },
-      "artists": [
-        {
-          "name": "OUTROEU",
-          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
-        }
-      ],
-      "duration_ms": 165676,
-      "name": "T\u00e3o Perto",
-      "url": "https://open.spotify.com/track/58VBOooVsOSPxI7mkyhmMS"
-    },
-    {
-      "added_at": "2025-12-19 03:00:25",
-      "album": {
         "name": "Caso eu Case",
         "url": "https://open.spotify.com/album/1AXAbo0MahhFvMssaQeLKN"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 215943,
       "name": "Caso eu Case",
       "url": "https://open.spotify.com/track/3j2UOXZPxtom0x0TnR15mu"
+    },
+    {
+      "added_at": "2025-12-19 03:00:25",
+      "album": {
+        "name": "Quarto",
+        "url": "https://open.spotify.com/album/6qje1RdJpF9fRbMPghHlUK"
+      },
+      "artists": [
+        {
+          "name": "OUTROEU",
+          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
+        }
+      ],
+      "duration_ms": 165676,
+      "name": "T\u00e3o Perto",
+      "url": "https://open.spotify.com/track/58VBOooVsOSPxI7mkyhmMS"
     },
     {
       "added_at": "2025-12-19 03:00:25",
@@ -735,6 +735,22 @@
     {
       "added_at": "2025-12-19 03:00:25",
       "album": {
+        "name": "Sol de S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/6vbXEiseHR8ZMkZvbelP4y"
+      },
+      "artists": [
+        {
+          "name": "Jay Horsth",
+          "url": "https://open.spotify.com/artist/0zpMsIEWxw1Ja2WYgjfs7B"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Sol de S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/2tCIRlfRBCYaBVnX6h19Gp"
+    },
+    {
+      "added_at": "2025-12-19 03:00:25",
+      "album": {
         "name": "Daqui pra sempre",
         "url": "https://open.spotify.com/album/6z895LsvePQNR3ADZkiO0N"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 160230,
       "name": "Daqui pra sempre",
       "url": "https://open.spotify.com/track/4V9Q1RjlC24rM5ts80S76Q"
-    },
-    {
-      "added_at": "2025-12-19 03:00:25",
-      "album": {
-        "name": "Sol de S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/6vbXEiseHR8ZMkZvbelP4y"
-      },
-      "artists": [
-        {
-          "name": "Jay Horsth",
-          "url": "https://open.spotify.com/artist/0zpMsIEWxw1Ja2WYgjfs7B"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Sol de S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/2tCIRlfRBCYaBVnX6h19Gp"
     },
     {
       "added_at": "2025-12-19 03:00:25",
@@ -807,22 +807,6 @@
     {
       "added_at": "2025-12-19 03:00:25",
       "album": {
-        "name": "sofrer por voc\u00ea",
-        "url": "https://open.spotify.com/album/3IDz1vflq8mYejE9t8PL2i"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        }
-      ],
-      "duration_ms": 174139,
-      "name": "sofrer por voc\u00ea",
-      "url": "https://open.spotify.com/track/6nN2sEXORqevqEuJI06kFW"
-    },
-    {
-      "added_at": "2025-12-19 03:00:25",
-      "album": {
         "name": "Todas as Saudades",
         "url": "https://open.spotify.com/album/58NY935b2aa1TF9JMvKTAH"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 173294,
       "name": "Desperd\u00edcio",
       "url": "https://open.spotify.com/track/0dQxHrhUgqHR7i8GkimlYK"
+    },
+    {
+      "added_at": "2025-12-19 03:00:25",
+      "album": {
+        "name": "sofrer por voc\u00ea",
+        "url": "https://open.spotify.com/album/3IDz1vflq8mYejE9t8PL2i"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        }
+      ],
+      "duration_ms": 174139,
+      "name": "sofrer por voc\u00ea",
+      "url": "https://open.spotify.com/track/6nN2sEXORqevqEuJI06kFW"
     },
     {
       "added_at": "2025-12-19 03:00:25",
@@ -895,22 +895,6 @@
     {
       "added_at": "2025-12-19 03:00:25",
       "album": {
-        "name": "coisas triviais",
-        "url": "https://open.spotify.com/album/233AU2aQZNBCBbpmUssYh9"
-      },
-      "artists": [
-        {
-          "name": "Bruno Gadiol",
-          "url": "https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3"
-        }
-      ],
-      "duration_ms": 190320,
-      "name": "coisas triviais",
-      "url": "https://open.spotify.com/track/4pAJAuvwTtyeUkGDgX4vqo"
-    },
-    {
-      "added_at": "2025-12-19 03:00:25",
-      "album": {
         "name": "Me Deixa Ser S\u00f3 Teu",
         "url": "https://open.spotify.com/album/7DVILBii25JRTBNEs2FSpo"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 186223,
       "name": "CHUVA DE VER\u00c3O",
       "url": "https://open.spotify.com/track/1tCtNyrOXNwB1fZbBwbbWn"
+    },
+    {
+      "added_at": "2025-12-19 03:00:25",
+      "album": {
+        "name": "coisas triviais",
+        "url": "https://open.spotify.com/album/233AU2aQZNBCBbpmUssYh9"
+      },
+      "artists": [
+        {
+          "name": "Bruno Gadiol",
+          "url": "https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3"
+        }
+      ],
+      "duration_ms": 190320,
+      "name": "coisas triviais",
+      "url": "https://open.spotify.com/track/4pAJAuvwTtyeUkGDgX4vqo"
     },
     {
       "added_at": "2025-12-19 03:00:25",
@@ -975,22 +975,6 @@
     {
       "added_at": "2025-12-19 03:00:25",
       "album": {
-        "name": "MACIA BAHIA",
-        "url": "https://open.spotify.com/album/2izmFvNA5URpZJ7eiAm1ac"
-      },
-      "artists": [
-        {
-          "name": "Mahmundi",
-          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
-        }
-      ],
-      "duration_ms": 178348,
-      "name": "MACIA BAHIA",
-      "url": "https://open.spotify.com/track/0KPEzIU5YmI3vG1iC8gKIT"
-    },
-    {
-      "added_at": "2025-12-19 03:00:25",
-      "album": {
         "name": "A Saudade Vem Bater",
         "url": "https://open.spotify.com/album/0hqAGPNFZZpYjd7uLRNiJV"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 129229,
       "name": "A Saudade Vem Bater",
       "url": "https://open.spotify.com/track/0F0ppDu7oMRYywOQfnnHGj"
+    },
+    {
+      "added_at": "2025-12-19 03:00:25",
+      "album": {
+        "name": "MACIA BAHIA",
+        "url": "https://open.spotify.com/album/2izmFvNA5URpZJ7eiAm1ac"
+      },
+      "artists": [
+        {
+          "name": "Mahmundi",
+          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
+        }
+      ],
+      "duration_ms": 178348,
+      "name": "MACIA BAHIA",
+      "url": "https://open.spotify.com/track/0KPEzIU5YmI3vG1iC8gKIT"
     },
     {
       "added_at": "2025-12-19 03:00:25",
@@ -1059,26 +1059,6 @@
     {
       "added_at": "2025-12-19 03:00:25",
       "album": {
-        "name": "KINTSUGI",
-        "url": "https://open.spotify.com/album/1Fc9YzTUh4DfZlA3Raqe7t"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9Vitor",
-          "url": "https://open.spotify.com/artist/1WNEynd3mjWx1DZByqbLq4"
-        },
-        {
-          "name": "Ant\u00eda Mu\u00ed\u00f1o",
-          "url": "https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1"
-        }
-      ],
-      "duration_ms": 257521,
-      "name": "KINTSUGI",
-      "url": "https://open.spotify.com/track/6eAYHvfW8dFwsbJEypRwX7"
-    },
-    {
-      "added_at": "2025-12-19 03:00:25",
-      "album": {
         "name": "Jaqueta",
         "url": "https://open.spotify.com/album/3EXKMyTGauvzDkaVmxCXSB"
       },
@@ -1095,6 +1075,26 @@
       "duration_ms": 136630,
       "name": "Jaqueta",
       "url": "https://open.spotify.com/track/3o4Jk3ZgfYzB6iyA3HGZ9u"
+    },
+    {
+      "added_at": "2025-12-19 03:00:25",
+      "album": {
+        "name": "KINTSUGI",
+        "url": "https://open.spotify.com/album/1Fc9YzTUh4DfZlA3Raqe7t"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9Vitor",
+          "url": "https://open.spotify.com/artist/1WNEynd3mjWx1DZByqbLq4"
+        },
+        {
+          "name": "Ant\u00eda Mu\u00ed\u00f1o",
+          "url": "https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1"
+        }
+      ],
+      "duration_ms": 257521,
+      "name": "KINTSUGI",
+      "url": "https://open.spotify.com/track/6eAYHvfW8dFwsbJEypRwX7"
     },
     {
       "added_at": "2025-12-19 03:00:25",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2025-12-19 03:00:25",
       "album": {
-        "name": "Depois do Fim",
-        "url": "https://open.spotify.com/album/6W45TVlc0viuUGdLmBdNhc"
-      },
-      "artists": [
-        {
-          "name": "Pilar",
-          "url": "https://open.spotify.com/artist/73m22Pkj7wtATvxtsnuLhe"
-        }
-      ],
-      "duration_ms": 124666,
-      "name": "Depois do Fim",
-      "url": "https://open.spotify.com/track/5P5nYlE4h5TRqRaJC4df1Y"
-    },
-    {
-      "added_at": "2025-12-19 03:00:25",
-      "album": {
         "name": "Meu Corpo Pede",
         "url": "https://open.spotify.com/album/6GyMWHsdiT8h6G6olgh1Iu"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 173365,
       "name": "Meu corpo pede",
       "url": "https://open.spotify.com/track/145xL4bCzmtUDz8JBfP18u"
+    },
+    {
+      "added_at": "2025-12-19 03:00:25",
+      "album": {
+        "name": "Depois do Fim",
+        "url": "https://open.spotify.com/album/6W45TVlc0viuUGdLmBdNhc"
+      },
+      "artists": [
+        {
+          "name": "Pilar",
+          "url": "https://open.spotify.com/artist/73m22Pkj7wtATvxtsnuLhe"
+        }
+      ],
+      "duration_ms": 124666,
+      "name": "Depois do Fim",
+      "url": "https://open.spotify.com/track/5P5nYlE4h5TRqRaJC4df1Y"
     },
     {
       "added_at": "2025-12-19 03:00:25",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2025-12-19 03:00:25",
       "album": {
-        "name": "O Amor \u00e9 uma Loucura",
-        "url": "https://open.spotify.com/album/6m6O3tgJvvQ0YyEGdqvsIw"
-      },
-      "artists": [
-        {
-          "name": "Manu Ramalho",
-          "url": "https://open.spotify.com/artist/3e3biexaZd806srNnT6Njw"
-        }
-      ],
-      "duration_ms": 209188,
-      "name": "O Amor \u00e9 uma Loucura",
-      "url": "https://open.spotify.com/track/0i5zSj2cTJxQswf83MZ8uM"
-    },
-    {
-      "added_at": "2025-12-19 03:00:25",
-      "album": {
         "name": "M\u00fasica Popular Brasadelic",
         "url": "https://open.spotify.com/album/4mYgclfzu5nM325d81bAt3"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 172931,
       "name": "MARIANA",
       "url": "https://open.spotify.com/track/3tgc74LHVhqXvdll2G9lbY"
+    },
+    {
+      "added_at": "2025-12-19 03:00:25",
+      "album": {
+        "name": "O Amor \u00e9 uma Loucura",
+        "url": "https://open.spotify.com/album/6m6O3tgJvvQ0YyEGdqvsIw"
+      },
+      "artists": [
+        {
+          "name": "Manu Ramalho",
+          "url": "https://open.spotify.com/artist/3e3biexaZd806srNnT6Njw"
+        }
+      ],
+      "duration_ms": 209188,
+      "name": "O Amor \u00e9 uma Loucura",
+      "url": "https://open.spotify.com/track/0i5zSj2cTJxQswf83MZ8uM"
     },
     {
       "added_at": "2025-12-19 03:00:25",
@@ -1331,6 +1331,22 @@
       "duration_ms": 145079,
       "name": "P\u00f4r Do Sol Avisa",
       "url": "https://open.spotify.com/track/4SfcwRf4bxWOKACtH4uAz8"
+    },
+    {
+      "added_at": "2025-12-19 03:00:25",
+      "album": {
+        "name": "Algu\u00e9m Pode Dizer (Acusticamente)",
+        "url": "https://open.spotify.com/album/1hQ6qBfJStD1UpnX6TEHMB"
+      },
+      "artists": [
+        {
+          "name": "Balara",
+          "url": "https://open.spotify.com/artist/3jPnaM0ap5aM9xEe16hjgp"
+        }
+      ],
+      "duration_ms": 221333,
+      "name": "Algu\u00e9m Pode Dizer (Acusticamente)",
+      "url": "https://open.spotify.com/track/7FNZlKNZxb25CzGDiFU7FC"
     },
     {
       "added_at": "2025-12-19 03:00:25",
@@ -1395,22 +1411,6 @@
       "duration_ms": 200315,
       "name": "CARAMELO E FLOR DE SAL",
       "url": "https://open.spotify.com/track/4FvDANIP9vupaAm6URKwC5"
-    },
-    {
-      "added_at": "2025-12-19 03:00:25",
-      "album": {
-        "name": "Algu\u00e9m Pode Dizer (Acusticamente)",
-        "url": "https://open.spotify.com/album/1hQ6qBfJStD1UpnX6TEHMB"
-      },
-      "artists": [
-        {
-          "name": "Balara",
-          "url": "https://open.spotify.com/artist/3jPnaM0ap5aM9xEe16hjgp"
-        }
-      ],
-      "duration_ms": 221333,
-      "name": "Algu\u00e9m Pode Dizer (Acusticamente)",
-      "url": "https://open.spotify.com/track/7FNZlKNZxb25CzGDiFU7FC"
     },
     {
       "added_at": "2025-12-19 03:00:25",

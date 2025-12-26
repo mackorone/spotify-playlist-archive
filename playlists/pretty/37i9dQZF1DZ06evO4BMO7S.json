@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUnbgAAAAACPp3ZNXeP0MUixgDhkylkF",
+  "snapshot_id": "aUstAAAAAADl0T6kxi5KlEktpa/5+Dkv",
   "tracks": [
     {
       "added_at": null,
@@ -59,18 +59,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Baby (Got Nothing At All) (Materialists Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5ykmfDC5Y89gnzQYE8oPIu"
+        "name": "Too Real (Remixes)",
+        "url": "https://open.spotify.com/album/5jOMCJMBZIaAah4JOssJb7"
       },
       "artists": [
         {
+          "name": "Giraffage",
+          "url": "https://open.spotify.com/artist/4kubsO16bEfCADaVUyoYb6"
+        },
+        {
           "name": "Japanese Breakfast",
           "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        },
+        {
+          "name": "RAC",
+          "url": "https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC"
         }
       ],
-      "duration_ms": 242000,
-      "name": "My Baby (Got Nothing At All) (Materialists Original Soundtrack)",
-      "url": "https://open.spotify.com/track/6P0bG1wDbLvs8kNJV4hQUt"
+      "duration_ms": 234970,
+      "name": "Maybes - RAC Mix",
+      "url": "https://open.spotify.com/track/2QbTsEUF97LixvDbyKUdCj"
     },
     {
       "added_at": null,
@@ -107,26 +115,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Too Real (Remixes)",
-        "url": "https://open.spotify.com/album/5jOMCJMBZIaAah4JOssJb7"
+        "name": "My Baby (Got Nothing At All) (Materialists Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5ykmfDC5Y89gnzQYE8oPIu"
       },
       "artists": [
         {
-          "name": "Giraffage",
-          "url": "https://open.spotify.com/artist/4kubsO16bEfCADaVUyoYb6"
-        },
-        {
           "name": "Japanese Breakfast",
           "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        },
-        {
-          "name": "RAC",
-          "url": "https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC"
         }
       ],
-      "duration_ms": 234970,
-      "name": "Maybes - RAC Mix",
-      "url": "https://open.spotify.com/track/2QbTsEUF97LixvDbyKUdCj"
+      "duration_ms": 242000,
+      "name": "My Baby (Got Nothing At All) (Materialists Original Soundtrack)",
+      "url": "https://open.spotify.com/track/6P0bG1wDbLvs8kNJV4hQUt"
     },
     {
       "added_at": null,

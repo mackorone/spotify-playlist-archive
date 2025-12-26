@@ -4,7 +4,7 @@
 
 > This is Eminem\. The essential tracks, all in one playlist.
 
-86 songs - 6 hr 3 min
+87 songs - 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,9 +21,10 @@
 | [Cinderella Man](https://open.spotify.com/track/4SE4yewyGpOYfxfx59Yjc5) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Recovery](https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb) | 4:39 | 2023-06-07 |  |
 | [Cleanin' Out My Closet](https://open.spotify.com/track/7BMO7O7ImjV8HNTH74Tshv) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Eminem Show](https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo) | 4:57 | 2023-06-07 |  |
 | [Crack A Bottle](https://open.spotify.com/track/4dK00wCxlqWEeN8BoM1BHT) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Relapse: Refill](https://open.spotify.com/album/7MZzYkbHL9Tk3O6WeD4Z0Z) | 4:57 | 2023-06-07 |  |
+| [Deja Vu](https://open.spotify.com/track/0FDjc7fIiK29BWH45Ka7Vp) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Relapse: Refill](https://open.spotify.com/album/7MZzYkbHL9Tk3O6WeD4Z0Z) | 4:43 | 2025-12-26 |  |
 | [Do Enough](https://open.spotify.com/track/4LMeZK7Fs2iO84ZA89iLJP) | [Dillin Hoox](https://open.spotify.com/artist/5MGKryqtJfI7dlfJMTBQM0), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Do Enough](https://open.spotify.com/album/3Owm6j7mCYQlAQQxBgyIiL) | 2:28 | 2024-12-27 | 2024-12-28 |
 | [Doomsday Pt\. 2 \(with Eminem\)](https://open.spotify.com/track/4QbCUutUlQDSBS4mtVOuZI) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [All Is Yellow](https://open.spotify.com/album/4NGIX0BP6xxRaGh64hhJhe) | 1:50 | 2024-01-28 | 2024-12-17 |
-| [Drop The World](https://open.spotify.com/track/3e21cX0CVwzkQXiHz7WUQZ) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Rebirth](https://open.spotify.com/album/2v3xdUz73rd6Nness5SSIh) | 3:49 | 2024-04-22 |  |
+| [Drop The World](https://open.spotify.com/track/3e21cX0CVwzkQXiHz7WUQZ) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Rebirth](https://open.spotify.com/album/2v3xdUz73rd6Nness5SSIh) | 3:49 | 2024-04-22 | 2025-12-26 |
 | [Everybody’s Looking At Me](https://open.spotify.com/track/4yYI0Cly9B2p8XbNxfNCRy) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [STANS \(The Official Soundtrack\)](https://open.spotify.com/album/5DV2liMHX5AqtiLqy3Qu1b) | 4:54 | 2025-08-30 |  |
 | [Evil](https://open.spotify.com/track/21LCotDEwR7R8qOnqPVzi9) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Death of Slim Shady \(Coup De Grâce\)](https://open.spotify.com/album/3kjHLu1pL7tdY88GFwEkl6) | 3:50 | 2024-07-14 | 2024-09-29 |
 | [Forever](https://open.spotify.com/track/5UsLjwBaTHBX4ektWIr4XX) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Relapse: Refill](https://open.spotify.com/album/7MZzYkbHL9Tk3O6WeD4Z0Z) | 5:57 | 2023-06-07 |  |

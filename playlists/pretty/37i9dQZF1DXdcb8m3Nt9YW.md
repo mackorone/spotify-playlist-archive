@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcb8m3Nt9YW.md) - [plain]
 
 > Pura pieza en vivo para destapar un bote y sentirte como si estuvieras ahí\. Max Peraza en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,188 likes - 135 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,282 likes - 135 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

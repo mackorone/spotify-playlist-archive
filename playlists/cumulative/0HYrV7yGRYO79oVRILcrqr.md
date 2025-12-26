@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-230 songs - 14 hr 3 min
+232 songs - 14 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Leave IT \| MJ Unofficial Tribute](https://open.spotify.com/track/5ODzg3yxWLI4JfMM6Py2Wv) | [STTAP](https://open.spotify.com/artist/28gjHgZscJjNrIiBaKiodS) | [Leave IT \| MJ Unofficial Tribute](https://open.spotify.com/album/28z8XJcaUV623xWpJbPepW) | 2:35 | 2025-12-18 |  |
 | [Let You Go](https://open.spotify.com/track/3H2Gu6g9LSp6lz01OFeiok) | [The Insomnia Night](https://open.spotify.com/artist/1kf6je9RrHLLxg5ocFLVbD) | [Let You Go](https://open.spotify.com/album/0vV45jrw2TgiqB8SDsqSmI) | 4:55 | 2025-12-08 |  |
 | [Let Your Body](https://open.spotify.com/track/3RaTqgsMjx1c6ZQ8Raz6f3) | [HYDEN](https://open.spotify.com/artist/2OiZJJdrzwKkFo2c9OF9bg) | [Let Your Body](https://open.spotify.com/album/4LMRvKAVjTeYW2nRWYlhm9) | 3:50 | 2025-09-29 | 2025-12-17 |
+| [Let's Do Soap Lake](https://open.spotify.com/track/3LQBUJDSUny21OKZ2saHNQ) | [Soap Lake Better Together](https://open.spotify.com/artist/4SDAWGysmZrEJJrHFGPAhh) | [Let's Do Soap Lake](https://open.spotify.com/album/4375IpDbyY4cetTy1fWC9v) | 3:26 | 2025-12-25 |  |
 | [Light](https://open.spotify.com/track/2wDu6ZakZVNsgUzQoesm7O) | [SOMEMISTAKES](https://open.spotify.com/artist/36UniZ3ECMH2GwkF7WQxpK) | [Light](https://open.spotify.com/album/7t7c9ePxVas9Y9cZGjuXA1) | 3:57 | 2025-11-08 | 2025-12-17 |
 | [Little Bit Closer](https://open.spotify.com/track/41ibNw69vc7EOi6jv9EqEU) | [Mary Wiles](https://open.spotify.com/artist/1U4MNNHHmj3YK2weAeiUTl) | [Why Not Take A Chance](https://open.spotify.com/album/5KsoXtKHhjGc8bPgSjjQey) | 2:54 | 2025-10-30 | 2025-12-17 |
 | [Little Girl](https://open.spotify.com/track/62lgxs50xzYUAjFLPTgfPj) | [Ryan Hanifl](https://open.spotify.com/artist/1AuTC05dE8pv2qIT1hIjMD) | [Sourpuss](https://open.spotify.com/album/6hQSWrkqdDJ1fRDxKw6jTM) | 4:13 | 2025-10-05 | 2025-11-28 |
@@ -169,6 +170,7 @@
 | [Prisoner Of My Fate](https://open.spotify.com/track/3OeuBRruLfv1PlOjjrOnz0) | [Vintage Paradise](https://open.spotify.com/artist/4aPEpe1W2otfbb8HX82LN9) | [Prisoner Of My Fate](https://open.spotify.com/album/4aDtoicAYNPQ9QLmZLU21z) | 6:00 | 2025-10-14 | 2025-11-28 |
 | [Promise of salvation](https://open.spotify.com/track/7ovWStycwZ5tOZrPn3A7Lm) | [Suraj Synthesist](https://open.spotify.com/artist/6kEAlt8l3zvFrxfHhRJfaK) | [Consume this album...\(Before the ban\)](https://open.spotify.com/album/6CabXiXT7t5cqCekHJabzY) | 2:18 | 2025-10-30 | 2025-12-17 |
 | [Pure Class](https://open.spotify.com/track/2pc3KRm7C2gekeLULubtAN) | [Synthetic Broadcast](https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ) | [Reverie](https://open.spotify.com/album/5c7IszYceIopxhjpZGSIKL) | 2:59 | 2025-09-28 | 2025-12-17 |
+| [Remuerden Los Dias](https://open.spotify.com/track/1nQWp15sWzMCmYTMBCGtWA) | [KORSARIO](https://open.spotify.com/artist/2WNjYhitKntys9iLAlikUe) | [De Las Cenizas Del Pasado](https://open.spotify.com/album/0xIqpsa7US69KDtrajpVKe) | 3:39 | 2025-12-25 |  |
 | [Repressão](https://open.spotify.com/track/5BI5z9B2w5Ypg4tY113WeN) | [Banda Revo](https://open.spotify.com/artist/64qE20fQAZ86e6ZHgQtZ6w) | [Repressão](https://open.spotify.com/album/6dvtMreChRtPlh2DvXTTZV) | 3:01 | 2025-12-06 |  |
 | [REWRITE](https://open.spotify.com/track/3WgVwBwxuuto5tvvZzDQrX) | [The Funky Lawyer](https://open.spotify.com/artist/6WUff7jngnaBPDTAreasjR) | [REWRITE](https://open.spotify.com/album/2dvdOLo8CMFtu7bbiAJemI) | 5:44 | 2025-12-16 |  |
 | [Ride of Your Life](https://open.spotify.com/track/3sB3liuVnmOzxlyCLBCbIG) | [Ugochill](https://open.spotify.com/artist/1kOGUspiJr2BQ7HMDQdTRw), [Juxta](https://open.spotify.com/artist/21iGpZuaMiJPrCNQcWPKKN), [The Turtle Project](https://open.spotify.com/artist/062cY7RGKXM9XJyWM1VCXa) | [Ride Of Your Life](https://open.spotify.com/album/3ZefyjSFIGGxfK2m83a1BS) | 6:36 | 2025-09-21 |  |

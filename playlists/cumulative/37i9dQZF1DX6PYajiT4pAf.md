@@ -2,7 +2,7 @@
 
 ### [Novedades Viernes España](https://open.spotify.com/playlist/37i9dQZF1DX6PYajiT4pAf)
 
-> Rvfv & Cano, Omar Courtz,  Beéle & Elvis Crespo, Arcángel y más novedades de la semana.
+> ¡Volvemos el 2 de enero con más novedades!
 
 4,145 songs - 8 day 19 hr 38 min
 

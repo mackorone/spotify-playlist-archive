@@ -1,6 +1,6 @@
 {
   "description": "Glasgow's finest. Here we, here we... Cover: SOPHIE",
-  "num_followers": 17862,
+  "num_followers": 17863,
   "original_name": "We Are Glasgow",
   "owner": {
     "name": "Spotify",
@@ -599,6 +599,22 @@
     {
       "added_at": "2024-12-03 14:53:37",
       "album": {
+        "name": "Like The First Time",
+        "url": "https://open.spotify.com/album/2YJBdg5dZmjmG30Cl96Cux"
+      },
+      "artists": [
+        {
+          "name": "Alex Amor",
+          "url": "https://open.spotify.com/artist/5Zyv8W3WkYfo1PTbVBBHs0"
+        }
+      ],
+      "duration_ms": 186626,
+      "name": "Like The First Time",
+      "url": "https://open.spotify.com/track/18maIOvJtWoZWOrLZpBRJc"
+    },
+    {
+      "added_at": "2024-12-03 14:53:37",
+      "album": {
         "name": "BORED",
         "url": "https://open.spotify.com/album/5HYHaoxTH6iM4RqdVW0rsX"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 206997,
       "name": "BORED",
       "url": "https://open.spotify.com/track/2npxF2SvUP0GNLpqgY0Hn1"
-    },
-    {
-      "added_at": "2024-12-03 14:53:37",
-      "album": {
-        "name": "Wandering Eyes",
-        "url": "https://open.spotify.com/album/0KeJhiswMeRNibCfFlg1sY"
-      },
-      "artists": [
-        {
-          "name": "Alex Amor",
-          "url": "https://open.spotify.com/artist/5Zyv8W3WkYfo1PTbVBBHs0"
-        }
-      ],
-      "duration_ms": 168398,
-      "name": "Wandering Eyes",
-      "url": "https://open.spotify.com/track/5BTXTJdnCFb4nllA3eUxkU"
     },
     {
       "added_at": "2024-12-03 14:53:37",
@@ -695,8 +695,8 @@
     {
       "added_at": "2024-12-03 14:53:37",
       "album": {
-        "name": "Like The First Time",
-        "url": "https://open.spotify.com/album/2YJBdg5dZmjmG30Cl96Cux"
+        "name": "Wandering Eyes",
+        "url": "https://open.spotify.com/album/0KeJhiswMeRNibCfFlg1sY"
       },
       "artists": [
         {
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/5Zyv8W3WkYfo1PTbVBBHs0"
         }
       ],
-      "duration_ms": 186626,
-      "name": "Like The First Time",
-      "url": "https://open.spotify.com/track/18maIOvJtWoZWOrLZpBRJc"
+      "duration_ms": 168398,
+      "name": "Wandering Eyes",
+      "url": "https://open.spotify.com/track/5BTXTJdnCFb4nllA3eUxkU"
     },
     {
       "added_at": "2024-12-03 14:53:37",

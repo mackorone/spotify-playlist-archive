@@ -1,6 +1,6 @@
 {
   "description": "Het zomergevoel met Nederlandstalig \u2600\ufe0f\ud83e\udde1",
-  "num_followers": 60014,
+  "num_followers": 60007,
   "original_name": "Nederlandse Zomerhits 2025",
   "owner": {
     "name": "Spotify",
@@ -87,38 +87,6 @@
     {
       "added_at": "2025-10-16 22:00:34",
       "album": {
-        "name": "Amalia",
-        "url": "https://open.spotify.com/album/4REygfzKS795uvkhTfh0O8"
-      },
-      "artists": [
-        {
-          "name": "Wesly Bronkhorst",
-          "url": "https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp"
-        }
-      ],
-      "duration_ms": 157485,
-      "name": "Amalia",
-      "url": "https://open.spotify.com/track/3c28vYkrzU9nVqvJfbaSiu"
-    },
-    {
-      "added_at": "2025-10-16 22:00:34",
-      "album": {
-        "name": "Alles Kan Kapot",
-        "url": "https://open.spotify.com/album/0pCHPhcIKvYu3l0VUTioOT"
-      },
-      "artists": [
-        {
-          "name": "Samuel Welten",
-          "url": "https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9"
-        }
-      ],
-      "duration_ms": 172211,
-      "name": "Alles Kan Kapot",
-      "url": "https://open.spotify.com/track/1ufm3zszexVlsNpayLSsiA"
-    },
-    {
-      "added_at": "2025-10-16 22:00:34",
-      "album": {
         "name": "Vanavond (Uit M'n Bol)",
         "url": "https://open.spotify.com/album/484UFqfszlmpKrCTGjOaVa"
       },
@@ -139,6 +107,38 @@
       "duration_ms": 166560,
       "name": "Vanavond (Uit M'n Bol)",
       "url": "https://open.spotify.com/track/0gq4UgDPGFdqpsWshU7dmv"
+    },
+    {
+      "added_at": "2025-10-16 22:00:34",
+      "album": {
+        "name": "Alles Kan Kapot",
+        "url": "https://open.spotify.com/album/0pCHPhcIKvYu3l0VUTioOT"
+      },
+      "artists": [
+        {
+          "name": "Samuel Welten",
+          "url": "https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9"
+        }
+      ],
+      "duration_ms": 172211,
+      "name": "Alles Kan Kapot",
+      "url": "https://open.spotify.com/track/1ufm3zszexVlsNpayLSsiA"
+    },
+    {
+      "added_at": "2025-10-16 22:00:34",
+      "album": {
+        "name": "Amalia",
+        "url": "https://open.spotify.com/album/4REygfzKS795uvkhTfh0O8"
+      },
+      "artists": [
+        {
+          "name": "Wesly Bronkhorst",
+          "url": "https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp"
+        }
+      ],
+      "duration_ms": 157485,
+      "name": "Amalia",
+      "url": "https://open.spotify.com/track/3c28vYkrzU9nVqvJfbaSiu"
     },
     {
       "added_at": "2025-10-16 22:00:34",
@@ -291,22 +291,6 @@
     {
       "added_at": "2025-10-16 22:00:34",
       "album": {
-        "name": "Viva Cerveza",
-        "url": "https://open.spotify.com/album/7ixC4AILz1abKijIuBtdvD"
-      },
-      "artists": [
-        {
-          "name": "Ferry de Lits",
-          "url": "https://open.spotify.com/artist/1OJJQqCxS45X02Nw8k0Izm"
-        }
-      ],
-      "duration_ms": 206250,
-      "name": "Viva Cerveza",
-      "url": "https://open.spotify.com/track/50HzpHWXdWC9IyNSI1ss7H"
-    },
-    {
-      "added_at": "2025-10-16 22:00:34",
-      "album": {
         "name": "Jouw Glimlach Op Je Mond",
         "url": "https://open.spotify.com/album/19DQ4S9J7ga2NczygNpl58"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 223440,
       "name": "Lekkerding",
       "url": "https://open.spotify.com/track/5sTqteIZDJJtx04xHBTbBD"
+    },
+    {
+      "added_at": "2025-10-16 22:00:34",
+      "album": {
+        "name": "Viva Cerveza",
+        "url": "https://open.spotify.com/album/7ixC4AILz1abKijIuBtdvD"
+      },
+      "artists": [
+        {
+          "name": "Ferry de Lits",
+          "url": "https://open.spotify.com/artist/1OJJQqCxS45X02Nw8k0Izm"
+        }
+      ],
+      "duration_ms": 206250,
+      "name": "Viva Cerveza",
+      "url": "https://open.spotify.com/track/50HzpHWXdWC9IyNSI1ss7H"
     },
     {
       "added_at": "2025-10-16 22:00:34",
@@ -539,26 +539,6 @@
     {
       "added_at": "2025-10-16 22:00:34",
       "album": {
-        "name": "Blijven Slapen",
-        "url": "https://open.spotify.com/album/7qWzNZ9V9KMdgIgATopvJL"
-      },
-      "artists": [
-        {
-          "name": "Snelle",
-          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
-        },
-        {
-          "name": "Maan",
-          "url": "https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU"
-        }
-      ],
-      "duration_ms": 170991,
-      "name": "Blijven Slapen",
-      "url": "https://open.spotify.com/track/1Fc6lVQFPOcEVz3QWEzXWL"
-    },
-    {
-      "added_at": "2025-10-16 22:00:34",
-      "album": {
         "name": "Doe Je Dansie",
         "url": "https://open.spotify.com/album/5YoAnpgWnsJHrBQuFgwUiv"
       },
@@ -571,22 +551,6 @@
       "duration_ms": 148000,
       "name": "Doe Je Dansie",
       "url": "https://open.spotify.com/track/6GETV2s1Q9LqLhPKFogakp"
-    },
-    {
-      "added_at": "2025-10-16 22:00:34",
-      "album": {
-        "name": "Hoe Zou Het Zijn Geweest",
-        "url": "https://open.spotify.com/album/6sqKgulNiIhYxOs4rwHR2a"
-      },
-      "artists": [
-        {
-          "name": "Yves Berendse",
-          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
-        }
-      ],
-      "duration_ms": 181130,
-      "name": "Hoe Zou Het Zijn Geweest",
-      "url": "https://open.spotify.com/track/5VlumpV7P0bentTmUG4471"
     },
     {
       "added_at": "2025-10-16 22:00:34",
@@ -611,6 +575,42 @@
       "duration_ms": 171508,
       "name": "Pa Olvidarte",
       "url": "https://open.spotify.com/track/3XAaiiSNPVDvXC2CKAetY3"
+    },
+    {
+      "added_at": "2025-10-16 22:00:34",
+      "album": {
+        "name": "Blijven Slapen",
+        "url": "https://open.spotify.com/album/7qWzNZ9V9KMdgIgATopvJL"
+      },
+      "artists": [
+        {
+          "name": "Snelle",
+          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
+        },
+        {
+          "name": "Maan",
+          "url": "https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU"
+        }
+      ],
+      "duration_ms": 170991,
+      "name": "Blijven Slapen",
+      "url": "https://open.spotify.com/track/1Fc6lVQFPOcEVz3QWEzXWL"
+    },
+    {
+      "added_at": "2025-10-16 22:00:34",
+      "album": {
+        "name": "Hoe Zou Het Zijn Geweest",
+        "url": "https://open.spotify.com/album/6sqKgulNiIhYxOs4rwHR2a"
+      },
+      "artists": [
+        {
+          "name": "Yves Berendse",
+          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
+        }
+      ],
+      "duration_ms": 181130,
+      "name": "Hoe Zou Het Zijn Geweest",
+      "url": "https://open.spotify.com/track/5VlumpV7P0bentTmUG4471"
     },
     {
       "added_at": "2025-10-16 22:00:34",
@@ -763,6 +763,22 @@
     {
       "added_at": "2025-10-16 22:00:34",
       "album": {
+        "name": "Laat Me Lekker Leven",
+        "url": "https://open.spotify.com/album/4hGKlivOCshnQSKUG9gP2q"
+      },
+      "artists": [
+        {
+          "name": "Kimberly Fransens",
+          "url": "https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk"
+        }
+      ],
+      "duration_ms": 191590,
+      "name": "Laat Me Lekker Leven",
+      "url": "https://open.spotify.com/track/07hyFmBF1oK5Ocz5AwAjlF"
+    },
+    {
+      "added_at": "2025-10-16 22:00:34",
+      "album": {
         "name": "Stiekem ft. Goldband",
         "url": "https://open.spotify.com/album/1ZzRJDpsGzs8wkkI0w6F8G"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 203437,
       "name": "Stiekem",
       "url": "https://open.spotify.com/track/1ulgMAx95xb3N33SMklfG3"
-    },
-    {
-      "added_at": "2025-10-16 22:00:34",
-      "album": {
-        "name": "Laat Me Lekker Leven",
-        "url": "https://open.spotify.com/album/4hGKlivOCshnQSKUG9gP2q"
-      },
-      "artists": [
-        {
-          "name": "Kimberly Fransens",
-          "url": "https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk"
-        }
-      ],
-      "duration_ms": 191590,
-      "name": "Laat Me Lekker Leven",
-      "url": "https://open.spotify.com/track/07hyFmBF1oK5Ocz5AwAjlF"
     },
     {
       "added_at": "2025-10-16 22:00:34",
@@ -923,22 +923,6 @@
     {
       "added_at": "2025-10-16 22:00:34",
       "album": {
-        "name": "Verleden Tijd",
-        "url": "https://open.spotify.com/album/2NZL8RRqr3CyrOYUuSOcPa"
-      },
-      "artists": [
-        {
-          "name": "FLEMMING",
-          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
-        }
-      ],
-      "duration_ms": 167244,
-      "name": "Verleden Tijd",
-      "url": "https://open.spotify.com/track/1vYF6O8JLonzVYrJGSGNNW"
-    },
-    {
-      "added_at": "2025-10-16 22:00:34",
-      "album": {
         "name": "Se\u00f1orita, Meisje van de nacht",
         "url": "https://open.spotify.com/album/5mmtJO30Dn4NpQXePAQVKj"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 176012,
       "name": "Se\u00f1orita, Meisje van de nacht",
       "url": "https://open.spotify.com/track/0mm04k8nTO1PdnmbZjE2ht"
+    },
+    {
+      "added_at": "2025-10-16 22:00:34",
+      "album": {
+        "name": "Verleden Tijd",
+        "url": "https://open.spotify.com/album/2NZL8RRqr3CyrOYUuSOcPa"
+      },
+      "artists": [
+        {
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+        }
+      ],
+      "duration_ms": 167244,
+      "name": "Verleden Tijd",
+      "url": "https://open.spotify.com/track/1vYF6O8JLonzVYrJGSGNNW"
     },
     {
       "added_at": "2025-10-16 22:00:34",
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2025-10-16 22:00:34",
       "album": {
-        "name": "Ruggengraat",
-        "url": "https://open.spotify.com/album/3JVuWFwn71zVGhyMKyw85V"
-      },
-      "artists": [
-        {
-          "name": "Snelle",
-          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
-        },
-        {
-          "name": "Kraantje Pappie",
-          "url": "https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q"
-        }
-      ],
-      "duration_ms": 154003,
-      "name": "Ruggengraat",
-      "url": "https://open.spotify.com/track/0rLMwM9J5DkkucxXByncSZ"
-    },
-    {
-      "added_at": "2025-10-16 22:00:34",
-      "album": {
         "name": "Het Lijkt Hier Wel Ibiza",
         "url": "https://open.spotify.com/album/6njQsNf4hEvlm2HOY7XLyg"
       },
@@ -1195,6 +1175,26 @@
       "duration_ms": 146514,
       "name": "Het Lijkt Hier Wel Ibiza",
       "url": "https://open.spotify.com/track/3vz8UKPERttXraKTnrGyAL"
+    },
+    {
+      "added_at": "2025-10-16 22:00:34",
+      "album": {
+        "name": "Ruggengraat",
+        "url": "https://open.spotify.com/album/3JVuWFwn71zVGhyMKyw85V"
+      },
+      "artists": [
+        {
+          "name": "Snelle",
+          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
+        },
+        {
+          "name": "Kraantje Pappie",
+          "url": "https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q"
+        }
+      ],
+      "duration_ms": 154003,
+      "name": "Ruggengraat",
+      "url": "https://open.spotify.com/track/0rLMwM9J5DkkucxXByncSZ"
     },
     {
       "added_at": "2025-10-16 22:00:34",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2025-10-16 22:00:34",
       "album": {
+        "name": "Wat Heb Ik Nu Toch Weer Gedaan",
+        "url": "https://open.spotify.com/album/2RmlLauXc2lfxohFWE6UYz"
+      },
+      "artists": [
+        {
+          "name": "Stef Ekkel",
+          "url": "https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm"
+        }
+      ],
+      "duration_ms": 181640,
+      "name": "Wat Heb Ik Nu Toch Weer Gedaan",
+      "url": "https://open.spotify.com/track/6RjHgisPKvOdEQbcXxJSG6"
+    },
+    {
+      "added_at": "2025-10-16 22:00:34",
+      "album": {
         "name": "Kijk Ons Nou",
         "url": "https://open.spotify.com/album/5jlNimB3wUAsWQCZJnJznt"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 163709,
       "name": "Kijk Ons Nou",
       "url": "https://open.spotify.com/track/2yeRk80Qkp5U3ux0oclxFi"
-    },
-    {
-      "added_at": "2025-10-16 22:00:34",
-      "album": {
-        "name": "Wat Heb Ik Nu Toch Weer Gedaan",
-        "url": "https://open.spotify.com/album/2RmlLauXc2lfxohFWE6UYz"
-      },
-      "artists": [
-        {
-          "name": "Stef Ekkel",
-          "url": "https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm"
-        }
-      ],
-      "duration_ms": 181640,
-      "name": "Wat Heb Ik Nu Toch Weer Gedaan",
-      "url": "https://open.spotify.com/track/6RjHgisPKvOdEQbcXxJSG6"
     },
     {
       "added_at": "2025-10-16 22:00:34",

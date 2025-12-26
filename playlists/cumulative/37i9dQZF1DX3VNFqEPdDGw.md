@@ -4,7 +4,7 @@
 
 > Bhangra is our pride, Bhangra is our culture\. Cover: Ranjit Bawa
 
-376 songs - 19 hr 20 min
+377 songs - 19 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [Graph](https://open.spotify.com/track/6GcHqqvdC7W9j46h78hAgg) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Graph](https://open.spotify.com/album/5ahdDmuYBvzCYI2kCo2cS0) | 2:35 | 2025-11-06 |  |
 | [GT Road](https://open.spotify.com/track/3nA63JVZMYAgWizQVGHyQ4) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [GT Road](https://open.spotify.com/album/39dY7pVHwpoyndxNjtxwPI) | 2:32 | 2025-02-03 |  |
 | [Gucci Gabhru](https://open.spotify.com/track/11FzxuVIoOWo07FyGwT8iR) | [Harkirat Sangha](https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Gucci Gabhru](https://open.spotify.com/album/2HI0L36kWoMhhzIPQw9xki) | 2:31 | 2025-01-08 |  |
-| [Gulabi Pagg](https://open.spotify.com/track/35CTzZi7rJLBHvfVZZBrVr) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Roar](https://open.spotify.com/album/1pcsPt7079EJi5u9OzHYqa) | 2:50 | 2025-05-02 |  |
+| [Gulabi Pagg](https://open.spotify.com/track/35CTzZi7rJLBHvfVZZBrVr) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Roar](https://open.spotify.com/album/1pcsPt7079EJi5u9OzHYqa) | 2:50 | 2025-05-02 | 2025-12-26 |
 | [Gundagardi \(“Dakuaan Da Munda 2"\)](https://open.spotify.com/track/6mcKuKxSM8AwZWiX3gcS4Q) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC) | [Gundagardi \(“Dakuaan Da Munda 2"\)](https://open.spotify.com/album/5LoEtwtK8sPH2AfRnOjfMy) | 3:22 | 2025-01-08 | 2025-04-08 |
 | [Gutt](https://open.spotify.com/track/6WwlMsdEoHYH6cM9SLGmTF) | [Siippyy Gill](https://open.spotify.com/artist/2zstvC7L2UiHZZo5Nrz9gY), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Circus](https://open.spotify.com/album/1JvUk6aapPqW8fgFLpDJCc) | 3:00 | 2024-10-16 | 2025-03-30 |
 | [Haal Chal \- From "Bapu Ni Manda Mera"](https://open.spotify.com/track/0N4nLyKvsllypMWLVELxzV) | [Hunar Sidhu](https://open.spotify.com/artist/19VorrOswCkaY0J4ZYIUYm) | [Haal Chal \(From "Bapu Ni Manda Mera"\)](https://open.spotify.com/album/0ePWEKhCdb0nEo9nY6zQcn) | 3:34 | 2024-12-02 | 2025-01-09 |
@@ -267,6 +267,7 @@
 | [Panjab \(From "Mehar"\)](https://open.spotify.com/track/7yUHeWkzZJMz1mTXhZPbZA) | [Jasbir Jassi](https://open.spotify.com/artist/2wmT2Bx63mrFKMYGQieYi3), [Jay K](https://open.spotify.com/artist/7CcV95YQzwc7fcDya60zNL), [Sony Thulewal](https://open.spotify.com/artist/6J2GfkeHencIa7WJP2IN1m) | [Panjab \(From "Mehar"\)](https://open.spotify.com/album/4ndBWhF78ix8PhnOkBi4b8) | 3:44 | 2025-08-02 | 2025-08-07 |
 | [Panjeban](https://open.spotify.com/track/5UpDw777uj0nvw6dtDRjw7) | [Shivjot](https://open.spotify.com/artist/1CluO4PWr2z45POcQ92ZPs), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Panjeban](https://open.spotify.com/album/05IH45QvIWWy7g77Cd9uzB) | 3:20 | 2025-01-08 |  |
 | [Pasand Bangi](https://open.spotify.com/track/0PQkxMXbAWaqRZfdLxeamN) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Pasand Bangi](https://open.spotify.com/album/2PJPQ8mRBTPVOreuUDTJ2X) | 3:45 | 2025-01-08 |  |
+| [Patiala Peg](https://open.spotify.com/track/6TikcWOLRsPq66GBx2jk67) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Do Gabru \- Diljit Dosanjh & Akhil](https://open.spotify.com/album/1uxDllRe9CPhdr8rhz2QCZ) | 3:08 | 2025-12-16 |  |
 | [Patili Chaa Di](https://open.spotify.com/track/3McpImTq4C6gA3UFAuZ9Hh) | [Sajjan Adeeb](https://open.spotify.com/artist/10cESI2qXWXWxfkeomFOON) | [Patili Chaa Di](https://open.spotify.com/album/369dmtIr8TdnVDlGK33XRP) | 3:14 | 2025-06-03 |  |
 | [Patola](https://open.spotify.com/track/4UnZeL7xwGxsjdSoC2Jgne) | [Raf Saperra](https://open.spotify.com/artist/182srEbrmnlFxcwkqZ0NR6), [DJ Jesta](https://open.spotify.com/artist/7spq8uj7U7HSbg5r3hGQuA) | [Patola](https://open.spotify.com/album/34ExNlFZBdA3qlDawAXDKt) | 4:00 | 2025-01-08 | 2025-03-20 |
 | [Pauna Crore](https://open.spotify.com/track/2sP6Nv4rglhNZoi7brcg4X) | [Boota Aklia](https://open.spotify.com/artist/5xFvjlU5uaj67ErkybedNZ) | [Pauna Crore](https://open.spotify.com/album/7nVUM54y7QHcA2wKkJovvr) | 2:44 | 2025-06-30 | 2025-07-05 |

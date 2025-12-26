@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 336,409 likes - 184 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 336,392 likes - 184 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -193,4 +193,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 183 | [Ge Ej Upp](https://open.spotify.com/track/7Lolw0ToMMBSVxiB0FAUAp) | [Awave](https://open.spotify.com/artist/2zrzhtWVPEcj1btFiRDQlF), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [Ge Ej Upp](https://open.spotify.com/album/5798b1KEUVxrESw0qXBalH) | 2:26 |
 | 184 | [Zizou](https://open.spotify.com/track/04svnAvyB0gCeLzLGlzHkQ) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt), [NBLNATION](https://open.spotify.com/artist/6n1wmwNagseQaWrmAkpcE6) | [Zizou](https://open.spotify.com/album/2YSsbdos0JCYpsBmt059xU) | 2:30 |
 
-Snapshot ID: `AAAAAHlD+pcfbD3rSwcdlasCrMmJCQPD`
+Snapshot ID: `AAAAAAEvXvVwFltwhhcyCn11MJ5nemXH`

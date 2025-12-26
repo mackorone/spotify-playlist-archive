@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUnbgAAAAAB3LNthGP21X/Vf5v5LZae3",
+  "snapshot_id": "aUstAAAAAACBvZDV7P7g+LZ6k02flk49",
   "tracks": [
     {
       "added_at": null,
@@ -635,22 +635,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Novia",
-        "url": "https://open.spotify.com/album/1XAoegvmhszmRoVQq3kPuB"
+        "name": "Emanuel",
+        "url": "https://open.spotify.com/album/79SvnKvxBeFi7NrWIHbLef"
       },
       "artists": [
         {
           "name": "Christine D'Clario",
           "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        },
-        {
-          "name": "Montesanto",
-          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
         }
       ],
-      "duration_ms": 267326,
-      "name": "Ruge",
-      "url": "https://open.spotify.com/track/5XFN4MfcdDMw07igrG43LO"
+      "duration_ms": 458993,
+      "name": "Mi Padre Me Ama - Adoraci\u00f3n Espont\u00e1nea",
+      "url": "https://open.spotify.com/track/18Xx6rRsGhSjThPrTKzE1X"
     },
     {
       "added_at": null,
@@ -671,18 +667,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emanuel",
-        "url": "https://open.spotify.com/album/79SvnKvxBeFi7NrWIHbLef"
+        "name": "La Novia",
+        "url": "https://open.spotify.com/album/1XAoegvmhszmRoVQq3kPuB"
       },
       "artists": [
         {
           "name": "Christine D'Clario",
           "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        },
+        {
+          "name": "Montesanto",
+          "url": "https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ"
         }
       ],
-      "duration_ms": 458993,
-      "name": "Mi Padre Me Ama - Adoraci\u00f3n Espont\u00e1nea",
-      "url": "https://open.spotify.com/track/18Xx6rRsGhSjThPrTKzE1X"
+      "duration_ms": 267326,
+      "name": "Ruge",
+      "url": "https://open.spotify.com/track/5XFN4MfcdDMw07igrG43LO"
     },
     {
       "added_at": null,
@@ -923,22 +923,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Desmayes Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/7v0Igdo6tJPjOfdXiNxyKg"
+        "name": "Jes\u00fas El Rey",
+        "url": "https://open.spotify.com/album/5KJmOHHkQm5Il4K1Ul2c7s"
       },
       "artists": [
         {
-          "name": "Edgar Lira",
-          "url": "https://open.spotify.com/artist/16rV2Pqq0YkrTFTPT1T4pq"
+          "name": "Susy Gonzalez",
+          "url": "https://open.spotify.com/artist/5CTNrReVSQ2TyN3QC1M1VG"
         },
         {
           "name": "Christine D'Clario",
           "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
         }
       ],
-      "duration_ms": 344125,
-      "name": "En Ti Confiar\u00e9",
-      "url": "https://open.spotify.com/track/6B01VhNbggdLVupP1q0smN"
+      "duration_ms": 320314,
+      "name": "Jes\u00fas El Rey",
+      "url": "https://open.spotify.com/track/6O166RACqSEgx7GesuI8xB"
     }
   ],
   "unique_name": "This Is Christine D'Clario",

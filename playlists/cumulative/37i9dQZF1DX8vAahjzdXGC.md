@@ -2,7 +2,7 @@
 
 ### [New Music Friday Indonesia](https://open.spotify.com/playlist/37i9dQZF1DX8vAahjzdXGC)
 
-> Rilisan baru pekan ini dari Denny Caknan, Timethai, BamBam, Kali Uchis, Dee Lestari, Elsa Japasal dan masih banyak lagi dari dalam dan mancanegara
+> Rilisan terbaru tiap pekannya akan kembali di 9 Januari 2026\. Selamat natal dan tahun baru!
 
 29,845 songs - 70 day 19 hr 17 min
 

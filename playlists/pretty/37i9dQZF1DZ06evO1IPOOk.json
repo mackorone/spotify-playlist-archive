@@ -1,12 +1,12 @@
 {
   "description": "This is Kendrick Lamar. The essential tracks, all in one playlist.",
-  "num_followers": 1909199,
+  "num_followers": 1909237,
   "original_name": "This Is Kendrick Lamar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUnbgAAAAAAsDg7RyvVgo0BqRkWa6gMG",
+  "snapshot_id": "aUstAAAAAAC2Y71RB7Kc3LH7AUDukiNZ",
   "tracks": [
     {
       "added_at": null,
@@ -863,6 +863,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "meet the grahams",
+        "url": "https://open.spotify.com/album/5PGH88Cwual1Nj8d2RsKP0"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 392138,
+      "name": "meet the grahams",
+      "url": "https://open.spotify.com/track/4S8PxReB1UiDR2F5x1lyIR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "untitled unmastered.",
         "url": "https://open.spotify.com/album/0kL3TYRsSXnu0iJvFO3rud"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 245466,
       "name": "Hood Gone Love It (feat. Kendrick Lamar)",
       "url": "https://open.spotify.com/track/6i6cWTCYBOKEdJnWjzm2yk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "meet the grahams",
-        "url": "https://open.spotify.com/album/5PGH88Cwual1Nj8d2RsKP0"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 392138,
-      "name": "meet the grahams",
-      "url": "https://open.spotify.com/track/4S8PxReB1UiDR2F5x1lyIR"
     },
     {
       "added_at": null,

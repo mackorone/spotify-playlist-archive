@@ -6,7 +6,7 @@
     "name": "EDM Sauce",
     "url": "https://open.spotify.com/user/edmsauce"
   },
-  "snapshot_id": "AABk0xxG1rgpgiGN27SDYWiSYC5ixTf+",
+  "snapshot_id": "AABk1vw5oy24LJFw0NpYlT/o5CLov3M9",
   "tracks": [
     {
       "added_at": "2025-12-19 13:46:45",
@@ -431,30 +431,6 @@
     {
       "added_at": "2025-12-19 13:46:45",
       "album": {
-        "name": "My Mind",
-        "url": "https://open.spotify.com/album/2RGuJxnR6e3VNROuMwcJ2C"
-      },
-      "artists": [
-        {
-          "name": "MACKER",
-          "url": "https://open.spotify.com/artist/4dHNTymmHqdcuwkQlzV1Od"
-        },
-        {
-          "name": "R-CHY",
-          "url": "https://open.spotify.com/artist/4VaW6tpYOl0ld3X54wRZsd"
-        },
-        {
-          "name": "Ian Sndrz",
-          "url": "https://open.spotify.com/artist/7nXqRAyNSiAiM0TpmKw0SC"
-        }
-      ],
-      "duration_ms": 150461,
-      "name": "My Mind",
-      "url": "https://open.spotify.com/track/73bHcirYf6a9tbiraGYF7Z"
-    },
-    {
-      "added_at": "2025-12-19 13:46:45",
-      "album": {
         "name": "All My Life",
         "url": "https://open.spotify.com/album/4v7sdSDS2iMcdSCHPY62TG"
       },
@@ -509,6 +485,26 @@
       "url": "https://open.spotify.com/track/3eXHi95CxG5IlgdEI6hI3D"
     },
     {
+      "added_at": "2025-12-19 13:46:45",
+      "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/226aOhk9jyENGfi7KdakZb"
+      },
+      "artists": [
+        {
+          "name": "Sonny Wern",
+          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
+        },
+        {
+          "name": "Outliers",
+          "url": "https://open.spotify.com/artist/49D9GLjnzBcsaKiUByAMQL"
+        }
+      ],
+      "duration_ms": 133625,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/1QA6rU9VhvvPn7TOWLP3B8"
+    },
+    {
       "added_at": "2025-12-20 10:13:52",
       "album": {
         "name": "Dum Dum",
@@ -555,26 +551,6 @@
       "duration_ms": 127611,
       "name": "Walking On A Dream",
       "url": "https://open.spotify.com/track/2gKLKTWhQ4jnnzJ5NXSmlM"
-    },
-    {
-      "added_at": "2025-12-19 13:46:45",
-      "album": {
-        "name": "24/7",
-        "url": "https://open.spotify.com/album/226aOhk9jyENGfi7KdakZb"
-      },
-      "artists": [
-        {
-          "name": "Sonny Wern",
-          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
-        },
-        {
-          "name": "Outliers",
-          "url": "https://open.spotify.com/artist/49D9GLjnzBcsaKiUByAMQL"
-        }
-      ],
-      "duration_ms": 133625,
-      "name": "24/7",
-      "url": "https://open.spotify.com/track/1QA6rU9VhvvPn7TOWLP3B8"
     },
     {
       "added_at": "2025-12-19 13:46:45",
@@ -901,22 +877,6 @@
       "url": "https://open.spotify.com/track/1w545LRrYJk2rB6CgiEvMI"
     },
     {
-      "added_at": "2025-12-19 14:00:23",
-      "album": {
-        "name": "In Time",
-        "url": "https://open.spotify.com/album/6nhDsdHvf3v10bbMq1Wq6Q"
-      },
-      "artists": [
-        {
-          "name": "Augusto Pondrelli",
-          "url": "https://open.spotify.com/artist/7pbzlNEI5gghL9ilGAP73s"
-        }
-      ],
-      "duration_ms": 178858,
-      "name": "In Time",
-      "url": "https://open.spotify.com/track/3mnpSSxLv5Y2nVBQOc8pom"
-    },
-    {
       "added_at": "2025-12-19 13:46:45",
       "album": {
         "name": "Vertigo",
@@ -939,6 +899,22 @@
       "duration_ms": 245620,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/1ZUrALbNfZICVqHINAcofo"
+    },
+    {
+      "added_at": "2025-12-19 14:00:23",
+      "album": {
+        "name": "In Time",
+        "url": "https://open.spotify.com/album/6nhDsdHvf3v10bbMq1Wq6Q"
+      },
+      "artists": [
+        {
+          "name": "Augusto Pondrelli",
+          "url": "https://open.spotify.com/artist/7pbzlNEI5gghL9ilGAP73s"
+        }
+      ],
+      "duration_ms": 178858,
+      "name": "In Time",
+      "url": "https://open.spotify.com/track/3mnpSSxLv5Y2nVBQOc8pom"
     },
     {
       "added_at": "2025-12-19 13:46:45",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUnbgAAAAADLl0aBoW3+1mk5gwKLgej/",
+  "snapshot_id": "aUstAAAAAAC9ROCeOMvsosdNRX5vv+AY",
   "tracks": [
     {
       "added_at": null,
@@ -395,6 +395,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Departures - Anata Ni Okuru Ai No Uta",
+        "url": "https://open.spotify.com/album/5WlYfrfJKDX3JbZDfQbJgy"
+      },
+      "artists": [
+        {
+          "name": "EGOIST",
+          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
+        }
+      ],
+      "duration_ms": 95333,
+      "name": "Departures \u301c\u3042\u306a\u305f\u306b\u304a\u304f\u308b\u30a2\u30a4\u306e\u6b4c\u301c\uff08TV Edit\uff09",
+      "url": "https://open.spotify.com/track/6O06qe9TrNRV3ux0KIFg80"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u540d\u524d\u306e\u306a\u3044\u602a\u7269 -TV Edit -",
         "url": "https://open.spotify.com/album/6pYCnYN6J51Ky2doNPEKGl"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 230654,
       "name": "Welcome to the *fam",
       "url": "https://open.spotify.com/track/24w2xlKnyRGoXb755VRBgb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Departures - Anata Ni Okuru Ai No Uta",
-        "url": "https://open.spotify.com/album/5WlYfrfJKDX3JbZDfQbJgy"
-      },
-      "artists": [
-        {
-          "name": "EGOIST",
-          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
-        }
-      ],
-      "duration_ms": 95333,
-      "name": "Departures \u301c\u3042\u306a\u305f\u306b\u304a\u304f\u308b\u30a2\u30a4\u306e\u6b4c\u301c\uff08TV Edit\uff09",
-      "url": "https://open.spotify.com/track/6O06qe9TrNRV3ux0KIFg80"
     },
     {
       "added_at": null,

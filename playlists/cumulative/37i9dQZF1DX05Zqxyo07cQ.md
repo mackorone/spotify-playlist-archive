@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-899 songs - 1 day 19 hr 20 min
+901 songs - 1 day 19 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [A New Tomorrow](https://open.spotify.com/track/6iq4LVdxruZvsSt84aCCqW) | [Dormantia](https://open.spotify.com/artist/12FwCUGACuerxilzPp3UgN) | [A New Tomorrow](https://open.spotify.com/album/4nEYU3MjOoJ360A2ovMH6r) | 2:52 | 2023-03-23 | 2024-02-09 |
 | [A Night In Spring](https://open.spotify.com/track/6j6wtwEtxK5ZAXzRK47WED) | [Ardah](https://open.spotify.com/artist/6mQg8hTrGBvS36Jjl7Ajr2) | [A Night In Spring](https://open.spotify.com/album/7iLqhJMN4MlHHsp0JGbtJ6) | 2:31 | 2023-03-23 | 2024-05-05 |
 | [A Peaceful Space](https://open.spotify.com/track/2RGH3CpTwZac0WSu27KY74) | [Laurent Emmmerling](https://open.spotify.com/artist/1kuN1SBPqMCk5aKgPSh6xn) | [A Peaceful Space](https://open.spotify.com/album/64CA3RsK23wuS4dWuVhsCL) | 2:46 | 2024-12-17 | 2025-09-24 |
-| [A Sky Inside](https://open.spotify.com/track/0JAo9MefKP0TdcklH2BBRL) | [Starfield Echo](https://open.spotify.com/artist/4rEMs74XRhiHTEycuIVyAh) | [A Sky Inside](https://open.spotify.com/album/4p4i5aXparmdP3ZJYL2Hbd) | 2:55 | 2025-07-24 |  |
+| [A Sky Inside](https://open.spotify.com/track/0JAo9MefKP0TdcklH2BBRL) | [Starfield Echo](https://open.spotify.com/artist/4rEMs74XRhiHTEycuIVyAh) | [A Sky Inside](https://open.spotify.com/album/4p4i5aXparmdP3ZJYL2Hbd) | 2:55 | 2025-07-24 | 2025-12-26 |
 | [A Solid State](https://open.spotify.com/track/0j7itsX7DkAsHJQQGL4XJe) | [Paradise Sunset](https://open.spotify.com/artist/0YvhzvrLHLXVPLQddmDj3m) | [A Solid State](https://open.spotify.com/album/31b43Zr4Eb7nNEnsX6GywM) | 2:53 | 2023-03-23 | 2024-03-21 |
 | [A Special Place](https://open.spotify.com/track/4EfWUdmaf5KMHHuXVchEU9) | [Celestial Aura](https://open.spotify.com/artist/7LsUHcMzywHjrdzx759ZcV) | [A Special Place](https://open.spotify.com/album/6xwjMXjy1IXjvD27ISAStB) | 2:26 | 2024-07-09 | 2025-01-09 |
 | [Aaraam Karo](https://open.spotify.com/track/6PL2VOzmCEuUDh3x7Q8biM) | [Dhriti Tiwari](https://open.spotify.com/artist/22nMXe6y9TxPBF0ebouNPy) | [Aaraam Karo](https://open.spotify.com/album/3g2dLMTcAcpTqORAACWumB) | 2:55 | 2023-03-23 | 2024-05-05 |
@@ -391,6 +391,7 @@
 | [Hush](https://open.spotify.com/track/13CYT9XLC54qtyg0U8aqb7) | [Yonatan Awate](https://open.spotify.com/artist/6ptntg50Xz0ACYkxCIOHz0) | [Hush](https://open.spotify.com/album/7B4bF2l6xVB640JDVyu4jP) | 3:10 | 2023-03-23 | 2024-03-21 |
 | [Hydrogen](https://open.spotify.com/track/06aTU7D4kaQd5rdSsfe5Ck) | [Cosmici](https://open.spotify.com/artist/2VFRGU5S4j9HvxvK3obrQq) | [Hydrogen](https://open.spotify.com/album/3b5irCfyJEDQhrsKsqWPd4) | 3:05 | 2024-05-20 | 2025-07-29 |
 | [I Care](https://open.spotify.com/track/74HRY0gBSrL5XN7yj1jM9T) | [Calming Eyes](https://open.spotify.com/artist/32QebOlHD4A8nInyCK0wvf) | [Devotion](https://open.spotify.com/album/1owComr3WXAqVwHX8AoBiX) | 3:00 | 2023-03-23 | 2024-02-09 |
+| [I Remain](https://open.spotify.com/track/1WOtk5NLYj3EFDYythV1Nr) | [Jinada Shane](https://open.spotify.com/artist/68NrWmdXRB6u5Fq28KmbcA) | [I Remain](https://open.spotify.com/album/46UXQU2wCs2MdB2SQmm4sg) | 2:34 | 2025-12-17 |  |
 | [Ideal](https://open.spotify.com/track/4u8gHl3MrLMeQN0JDhDJvr) | [Avieone](https://open.spotify.com/artist/1xCASyEEWKBXSyHdRq9JOJ) | [Ideal](https://open.spotify.com/album/3PtMb8ahqkZiyBxCHzSCXw) | 2:54 | 2024-06-18 | 2025-01-09 |
 | [If Only I Could Fly](https://open.spotify.com/track/5YqXPRA1ErLjJ9UZCJxJyG) | [Amellia Grey](https://open.spotify.com/artist/7EjA2HhxVmzaVwE161kcV8) | [Ever So Slightly](https://open.spotify.com/album/1w8fsgM9nty9TyheWILL2Z) | 1:47 | 2023-03-23 | 2023-07-29 |
 | [Ik Ga Slapen](https://open.spotify.com/track/3TBlhRMVYhU1rF907RC9JG) | [Pauline Huijbers](https://open.spotify.com/artist/0GipzWTQjjaxqU7mtmNq2o) | [Ik Ga Slapen](https://open.spotify.com/album/1TUTW5O8pp0SOTc0tSO8Go) | 2:50 | 2023-03-23 | 2023-05-06 |
@@ -674,7 +675,7 @@
 | [Ruhig](https://open.spotify.com/track/3zElUjNtIsgfRmC0r7ETgB) | [Phillipp Vogler](https://open.spotify.com/artist/2ocNI6hLYU6rqq6TT4YzNY) | [Ruhig](https://open.spotify.com/album/5Qon2Hkc9b73ZkWBfnYXYC) | 2:46 | 2023-03-23 | 2024-01-18 |
 | [Rétrospective](https://open.spotify.com/track/5SpWWXLR52XCIw8J355D7t) | [La Moción](https://open.spotify.com/artist/5UQaOILr6zsKIuJ7OTLFrU) | [Rétrospective](https://open.spotify.com/album/7EjOLWwV9wGAlEole3PGWA) | 2:29 | 2023-03-23 | 2024-05-05 |
 | [Röd Himmel](https://open.spotify.com/track/76w0v1hDBWuijmwmvsGDQk) | [Aristides Okoro](https://open.spotify.com/artist/3R5bzljb2FdRwr7yo3W0nm) | [Röd Himmel](https://open.spotify.com/album/2CEBJal9nnIAb9bNjaBhIP) | 3:26 | 2023-03-23 | 2024-03-21 |
-| [Sable Horizon](https://open.spotify.com/track/0xjkXpjEWTtGC0QvcVbDwr) | [Ethereon](https://open.spotify.com/artist/0ujRZGpEtaJmcwBS1DRybq) | [Sable Horizon](https://open.spotify.com/album/1m5foIzzRHOMW6ZepBIbAG) | 3:08 | 2025-06-17 |  |
+| [Sable Horizon](https://open.spotify.com/track/0xjkXpjEWTtGC0QvcVbDwr) | [Ethereon](https://open.spotify.com/artist/0ujRZGpEtaJmcwBS1DRybq) | [Sable Horizon](https://open.spotify.com/album/1m5foIzzRHOMW6ZepBIbAG) | 3:08 | 2025-06-17 | 2025-12-26 |
 | [Safe Passage](https://open.spotify.com/track/4X2e4uq5Zpzh4WSkeNOS16) | [Joseph Sai](https://open.spotify.com/artist/7tVx3YEKyoSaM7CcmlneBc) | [Safe Passage](https://open.spotify.com/album/0rNENdQzhNaUEmVZTPCIoo) | 2:43 | 2025-12-03 |  |
 | [Saffron Dusk](https://open.spotify.com/track/6knij9lTnyLerE4l1ljjkr) | [Monte Aria](https://open.spotify.com/artist/7mVQk6J9GM0K0sf1H9ueXZ) | [Saffron Dusk](https://open.spotify.com/album/1ypuerc9q8lQ56KKyb02ht) | 2:47 | 2025-11-12 |  |
 | [Sagacity](https://open.spotify.com/track/4L57QX9LdhQyrJUn7VQq1H) | [Månvarv](https://open.spotify.com/artist/3npr0emNGSWh2iyRvzEiRI) | [Sagacity](https://open.spotify.com/album/5C38y3p4mUoSCaKunDAT2e) | 3:05 | 2025-10-08 |  |
@@ -821,6 +822,7 @@
 | [The Road Back](https://open.spotify.com/track/75awJg9Xgn3cRJrPFihiV4) | [Corbin Tellier](https://open.spotify.com/artist/3hg9opvN3lCbZsoG6T0gpn) | [The Road Back](https://open.spotify.com/album/6yXBd5kQQujRewckYFsupC) | 4:06 | 2023-03-23 | 2024-05-05 |
 | [The Sands Of Time](https://open.spotify.com/track/14eeOIv9mDtcXTJJua4XBz) | [Benjin Blund](https://open.spotify.com/artist/4X7C94aG7ctqFboeUcc1Q1) | [The Sands Of Time](https://open.spotify.com/album/3EnD16S2cegLLGw9hwFJ6K) | 2:44 | 2025-12-17 |  |
 | [The Sky Is A Sea](https://open.spotify.com/track/5RmKyK9bzcqP7n8YbyPIo9) | [Criollo Clouds](https://open.spotify.com/artist/2oV0NR81ygDpyfMqZoC4Wz) | [The Sky Is A Sea](https://open.spotify.com/album/4rxjuTWBboVJCkZhE7LVGQ) | 3:17 | 2023-03-23 | 2024-05-21 |
+| [The Stillpoint Between Waves](https://open.spotify.com/track/5PSz8jVwK1l81SY7TpzdUX) | [Elunara Mare](https://open.spotify.com/artist/52VdaCQAM3PCg8pQjPUaEV) | [The Stillpoint Between Waves](https://open.spotify.com/album/3QPvbJB5pK5WSl37DNAQcT) | 2:04 | 2025-12-17 |  |
 | [Theremant](https://open.spotify.com/track/44RKtm5CchIPJKwVikNbVB) | [Zephyrical](https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW) | [Theremant](https://open.spotify.com/album/1d3rpThvIXaEM6KQIFZKZs) | 2:50 | 2024-08-02 | 2024-11-29 |
 | [These Words](https://open.spotify.com/track/2ssM4FoZtglGKJosAZU7xS) | [Aerin Villegas](https://open.spotify.com/artist/21bfAnYguvlVvYNMJmbRAk) | [These Words](https://open.spotify.com/album/7atYOZMUIH85arxaQq5dwg) | 2:12 | 2024-03-06 | 2024-11-29 |
 | [Thoughts about the Past](https://open.spotify.com/track/3mT4rBTlHe90bcKv7Vq38T) | [Elm Lake](https://open.spotify.com/artist/5PWrgM1uXWZwpK2rIQtX36) | [Elm Lake](https://open.spotify.com/album/0SOGd49PlU8IvNWwsB2gTA) | 2:44 | 2023-03-23 | 2024-01-18 |

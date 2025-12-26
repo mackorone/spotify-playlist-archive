@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0fcSBGKwKuIMqCRmsAru3e">Biff Stannard</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-209 songs - 13 hr 28 min
+210 songs - 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Apology](https://open.spotify.com/track/1mK9J5z2FT4V3Tac9igAf6) | [Ant & Dec](https://open.spotify.com/artist/2gmeFH5Iz8UEA7K0OHDePQ), [PJ & Duncan](https://open.spotify.com/artist/6x9DlX8BIJFFXMLScv0KDB) | [The Cult Of Ant & Dec](https://open.spotify.com/album/5m8lVfGTkYBRt07g9HUEH7) | 13:14 | 2023-04-05 | 2025-12-18 |
 | [Around the World](https://open.spotify.com/track/0Ek1Jt3GiTnyDwiQu0eqQq) | [East 17](https://open.spotify.com/artist/6lOC7lwSO1ql4Gc2Y3QObY) | [Steam](https://open.spotify.com/album/1HsKmkuzfcU57zh70og7Wd) | 4:33 | 2021-12-27 |  |
 | [Automatic](https://open.spotify.com/track/71f96Tzf5I7uUokpF9qLG9) | [Sarah Whatmore](https://open.spotify.com/artist/6PJ4B6JfIQb05waZMBC8kQ) | [Automatic](https://open.spotify.com/album/4WQ0xzkKQi7Qrvl36XQlXk) | 3:12 | 2024-05-26 |  |
-| [Ave Maria](https://open.spotify.com/track/5LCMAJymyKheiV27LRACD8) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Christmas, With Love](https://open.spotify.com/album/4HRXnpdnLJGTkHSRk4roEs) | 4:00 | 2022-07-19 |  |
+| [Ave Maria](https://open.spotify.com/track/60RORwDGFn89sj8GM1KaVR) | [Helene Fischer](https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W) | [Weihnachten](https://open.spotify.com/album/3u8YSFTTd7HUDxoqdx3rZF) | 5:18 | 2025-12-25 |  |
+| [Ave Maria](https://open.spotify.com/track/5LCMAJymyKheiV27LRACD8) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Christmas, With Love](https://open.spotify.com/album/4HRXnpdnLJGTkHSRk4roEs) | 4:00 | 2022-07-19 | 2025-12-26 |
 | [Ave Maria](https://open.spotify.com/track/5el5Z33aPRUEHifWHne9GF) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J) | [Sunset In The Blue](https://open.spotify.com/album/62BGIK3e3p3erTEJkaHjfq) | 4:26 | 2022-03-31 | 2022-07-20 |
 | [Battlestar](https://open.spotify.com/track/4WU919gMaUvTlR7xXQHjgN) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Invincible](https://open.spotify.com/album/72qAXkZ8keSUHe55hhEVQG) | 4:07 | 2021-12-27 |  |
 | [Beat Is Gone](https://open.spotify.com/track/4regwk9c129vAstvDcTmfj) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [The Lost Tapes](https://open.spotify.com/album/1FI5VTat7cYwcpOTlN3cnS) | 4:29 | 2023-03-02 |  |

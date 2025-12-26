@@ -2,7 +2,7 @@
 
 ### [Carry Me Away Radio](https://open.spotify.com/playlist/37i9dQZF1E8FdFKgRxUOJv)
 
-> With John Mayer, Kacey Musgraves, Jack Johnson and more
+> With John Mayer, Kacey Musgraves, Stephen Day and more
 
 1,567 songs - 4 day 1 hr 14 min
 

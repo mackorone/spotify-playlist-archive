@@ -1,6 +1,6 @@
 {
   "description": "Celebrating Haitian music. Cover: Na\u00efka",
-  "num_followers": 98728,
+  "num_followers": 98739,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
@@ -591,6 +591,22 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
+        "name": "40 %",
+        "url": "https://open.spotify.com/album/4TutMtpFftwHGcibEmeogS"
+      },
+      "artists": [
+        {
+          "name": "Dro X Yani",
+          "url": "https://open.spotify.com/artist/6gP0wnbpPZzEbK8f3rfYbK"
+        }
+      ],
+      "duration_ms": 278000,
+      "name": "40 %",
+      "url": "https://open.spotify.com/track/7HdSByM2uzvWHQVN6UDkY6"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
         "name": "IDANTITE'N",
         "url": "https://open.spotify.com/album/7dxoacw7mdk3aT7CvQZXCC"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 320248,
       "name": "Ban'm Tout Afe'm",
       "url": "https://open.spotify.com/track/0YQHr8rlZwmcGx8Z7xiM7t"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
-        "name": "40 %",
-        "url": "https://open.spotify.com/album/4TutMtpFftwHGcibEmeogS"
-      },
-      "artists": [
-        {
-          "name": "Dro X Yani",
-          "url": "https://open.spotify.com/artist/6gP0wnbpPZzEbK8f3rfYbK"
-        }
-      ],
-      "duration_ms": 278000,
-      "name": "40 %",
-      "url": "https://open.spotify.com/track/7HdSByM2uzvWHQVN6UDkY6"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "The Very Best",
-        "url": "https://open.spotify.com/album/3Wz1o0EMOKmw2BIwx37Yvb"
-      },
-      "artists": [
-        {
-          "name": "Emeline Michel",
-          "url": "https://open.spotify.com/artist/6X9CKvyHWJhuugO6cB1M5r"
-        }
-      ],
-      "duration_ms": 286840,
-      "name": "Flanm",
-      "url": "https://open.spotify.com/track/7sJYquSlj8cSMqFtk3A8FJ"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
         "name": "Anthology, Vol. IV",
         "url": "https://open.spotify.com/album/6fEktCQSKnmBhsYZdZ16Ey"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 526373,
       "name": "New York City",
       "url": "https://open.spotify.com/track/2cJJoWEccalRGAZO0PqQDi"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
+        "name": "The Very Best",
+        "url": "https://open.spotify.com/album/3Wz1o0EMOKmw2BIwx37Yvb"
+      },
+      "artists": [
+        {
+          "name": "Emeline Michel",
+          "url": "https://open.spotify.com/artist/6X9CKvyHWJhuugO6cB1M5r"
+        }
+      ],
+      "duration_ms": 286840,
+      "name": "Flanm",
+      "url": "https://open.spotify.com/track/7sJYquSlj8cSMqFtk3A8FJ"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "The Very Best",
-        "url": "https://open.spotify.com/album/3Wz1o0EMOKmw2BIwx37Yvb"
-      },
-      "artists": [
-        {
-          "name": "Emeline Michel",
-          "url": "https://open.spotify.com/artist/6X9CKvyHWJhuugO6cB1M5r"
-        }
-      ],
-      "duration_ms": 291120,
-      "name": "A.k.i.ko.",
-      "url": "https://open.spotify.com/track/2OoiMQ6sbn2eCBPqt7Jtwu"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
         "name": "Way Too Nice",
         "url": "https://open.spotify.com/album/2L8L8ttHiZrH5ry8l6Ii65"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 125600,
       "name": "Way Too Nice",
       "url": "https://open.spotify.com/track/2l18jyrGuwoxS60DS5DzBR"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
+        "name": "The Very Best",
+        "url": "https://open.spotify.com/album/3Wz1o0EMOKmw2BIwx37Yvb"
+      },
+      "artists": [
+        {
+          "name": "Emeline Michel",
+          "url": "https://open.spotify.com/artist/6X9CKvyHWJhuugO6cB1M5r"
+        }
+      ],
+      "duration_ms": 291120,
+      "name": "A.k.i.ko.",
+      "url": "https://open.spotify.com/track/2OoiMQ6sbn2eCBPqt7Jtwu"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1475,22 +1475,18 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Se Ou M Chwazi",
-        "url": "https://open.spotify.com/album/2p3uVHyJpc9sxzCTT7YXGx"
+        "name": "JWAYE NW\u00c8L",
+        "url": "https://open.spotify.com/album/2Zwa7esu6EZoV1lZBTOYec"
       },
       "artists": [
         {
-          "name": "D-Singer",
-          "url": "https://open.spotify.com/artist/2t7LC046sLDvGmzgwe9pdf"
-        },
-        {
-          "name": "Rob Vital",
-          "url": "https://open.spotify.com/artist/5KpCduTjXtQ4HkOiRbYvyY"
+          "name": "J Perry",
+          "url": "https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ"
         }
       ],
-      "duration_ms": 218191,
-      "name": "Se Ou M Chwazi",
-      "url": "https://open.spotify.com/track/3Wz1Al5jmlNCltjY8IzMim"
+      "duration_ms": 189714,
+      "name": "JWAYE NW\u00c8L",
+      "url": "https://open.spotify.com/track/0JnJOtvhBY7SGCCb3fpsKE"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1523,6 +1519,26 @@
       "duration_ms": 210410,
       "name": "Souvni",
       "url": "https://open.spotify.com/track/03By3z24GvoGL4vw99AKzY"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
+        "name": "Se Ou M Chwazi",
+        "url": "https://open.spotify.com/album/2p3uVHyJpc9sxzCTT7YXGx"
+      },
+      "artists": [
+        {
+          "name": "D-Singer",
+          "url": "https://open.spotify.com/artist/2t7LC046sLDvGmzgwe9pdf"
+        },
+        {
+          "name": "Rob Vital",
+          "url": "https://open.spotify.com/artist/5KpCduTjXtQ4HkOiRbYvyY"
+        }
+      ],
+      "duration_ms": 218191,
+      "name": "Se Ou M Chwazi",
+      "url": "https://open.spotify.com/track/3Wz1Al5jmlNCltjY8IzMim"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1695,6 +1711,22 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
+        "name": "Perle De Culture",
+        "url": "https://open.spotify.com/album/46ZoiD5bKfYvg67611YS2v"
+      },
+      "artists": [
+        {
+          "name": "Riva Nyri Precil",
+          "url": "https://open.spotify.com/artist/5CQBrI9Et8iG1yECGwbRf0"
+        }
+      ],
+      "duration_ms": 265929,
+      "name": "Twa Fey",
+      "url": "https://open.spotify.com/track/4jlBiJhx1o4QTHRjvEuCx3"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
         "name": "No Regrets",
         "url": "https://open.spotify.com/album/5cM1tIA8mn3e4EV7FkdBoD"
       },
@@ -1715,38 +1747,6 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Perle De Culture",
-        "url": "https://open.spotify.com/album/46ZoiD5bKfYvg67611YS2v"
-      },
-      "artists": [
-        {
-          "name": "Riva Nyri Precil",
-          "url": "https://open.spotify.com/artist/5CQBrI9Et8iG1yECGwbRf0"
-        }
-      ],
-      "duration_ms": 265929,
-      "name": "Twa Fey",
-      "url": "https://open.spotify.com/track/4jlBiJhx1o4QTHRjvEuCx3"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
-        "name": "JWAYE NW\u00c8L",
-        "url": "https://open.spotify.com/album/2Zwa7esu6EZoV1lZBTOYec"
-      },
-      "artists": [
-        {
-          "name": "J Perry",
-          "url": "https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ"
-        }
-      ],
-      "duration_ms": 189714,
-      "name": "JWAYE NW\u00c8L",
-      "url": "https://open.spotify.com/track/0JnJOtvhBY7SGCCb3fpsKE"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
         "name": "Plenyen Player Yo",
         "url": "https://open.spotify.com/album/6V3Rg3gFi88gdeAaKSEF9G"
       },
@@ -1759,6 +1759,22 @@
       "duration_ms": 226542,
       "name": "Plenyen Player Yo",
       "url": "https://open.spotify.com/track/30N1ElZcBnxJKHGGijxt7z"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
+        "name": "Ram 6: Manmanm Se Ginen",
+        "url": "https://open.spotify.com/album/2b8afIvm6I8ggOj9kTgf24"
+      },
+      "artists": [
+        {
+          "name": "RAM",
+          "url": "https://open.spotify.com/artist/2h9NlG3ROPRc0Rt17PDicl"
+        }
+      ],
+      "duration_ms": 183333,
+      "name": "Mpral D\u00f2mi Nan Simity\u00e8",
+      "url": "https://open.spotify.com/track/42SxbX0YCh8z2CLN3g1mey"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1783,22 +1799,6 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Ram 6: Manmanm Se Ginen",
-        "url": "https://open.spotify.com/album/2b8afIvm6I8ggOj9kTgf24"
-      },
-      "artists": [
-        {
-          "name": "RAM",
-          "url": "https://open.spotify.com/artist/2h9NlG3ROPRc0Rt17PDicl"
-        }
-      ],
-      "duration_ms": 183333,
-      "name": "Mpral D\u00f2mi Nan Simity\u00e8",
-      "url": "https://open.spotify.com/track/42SxbX0YCh8z2CLN3g1mey"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
         "name": "Te revoir",
         "url": "https://open.spotify.com/album/48cChxhg7iB4bw9DzESjLc"
       },
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "FENOMENAL",
-        "url": "https://open.spotify.com/album/459nIEM8g74x2S1SWhjKYY"
-      },
-      "artists": [
-        {
-          "name": "\u00c4SHH",
-          "url": "https://open.spotify.com/artist/0I2SuBOYEBvLoVmmsNckEK"
-        }
-      ],
-      "duration_ms": 187862,
-      "name": "FENOMENAL",
-      "url": "https://open.spotify.com/track/45M1foqRYk20JvPXuDMUe5"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
         "name": "Can't Catch Me",
         "url": "https://open.spotify.com/album/7IBOw2bmNaBtvrVj23qiOK"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 229991,
       "name": "Can't Catch Me",
       "url": "https://open.spotify.com/track/4t2gMGEevHHuBmd0rW2R2C"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
+        "name": "FENOMENAL",
+        "url": "https://open.spotify.com/album/459nIEM8g74x2S1SWhjKYY"
+      },
+      "artists": [
+        {
+          "name": "\u00c4SHH",
+          "url": "https://open.spotify.com/artist/0I2SuBOYEBvLoVmmsNckEK"
+        }
+      ],
+      "duration_ms": 187862,
+      "name": "FENOMENAL",
+      "url": "https://open.spotify.com/track/45M1foqRYk20JvPXuDMUe5"
     },
     {
       "added_at": "2025-07-25 04:00:50",

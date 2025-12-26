@@ -4,7 +4,7 @@
 
 > De grondleggers van de Nederlandse Hip\-hop game
 
-102 songs - 6 hr 42 min
+103 songs - 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Open Boek](https://open.spotify.com/track/2BKwNs7h8162cQuioUrXna) | [Wudstik](https://open.spotify.com/artist/4673XVOYba8vZe6hHoMeW3) | [De Flow](https://open.spotify.com/album/0RWtYPQDhfkuHho2NvjM2a) | 4:09 | 2024-09-09 |  |
 | [Plakka](https://open.spotify.com/track/1bPQ0PV4DWY2rnYjXs5bek) | [Jawat](https://open.spotify.com/artist/72iS8ZcJzdBk2NKOZgeVPg) | [Ut Zwarte Aap](https://open.spotify.com/album/4tbhduZVDvdN0WmqvIrBJI) | 2:17 | 2024-09-09 |  |
 | [Punt](https://open.spotify.com/track/48CfE8EAxOnx0OlWz51Zv5) | [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q), [Jiggy Djé](https://open.spotify.com/artist/2deAwJr19wfxpqJ5duZyk1) | [Boulimia](https://open.spotify.com/album/1aIaaBADEDECJDFlhzyKXV) | 3:40 | 2024-09-09 |  |
+| [Re: Mind \(feat\. Master Surreal, The Proov, Pete Philly, Skate the Great & Phreke\)](https://open.spotify.com/track/2pcmatwb8f0OBxBSojR7MI) | [Skiggy Rapz](https://open.spotify.com/artist/3vbbctIYmGu2HXRSSwFqoR), [Master Surreal](https://open.spotify.com/artist/7KnFcRQM4BlCn8VLRn1kHM), [The Proov](https://open.spotify.com/artist/7m37IEiVh2Y14QHkUhKKru), [Pete Philly](https://open.spotify.com/artist/0DD1CBUI4ypYSqvKUyjNoO), [Skate The Great](https://open.spotify.com/artist/5rkD1kUhSGBLja4OoO22pR), [Phreke](https://open.spotify.com/artist/1ibUV1ASQfezR6sbwwlXEP) | [Boat Drinks](https://open.spotify.com/album/3DzJ7oMfgRcYIfi6U3Q1wT) | 6:42 | 2024-09-09 |  |
 | [Regen Op Warm Asfalt](https://open.spotify.com/track/0HxlygG0MffYR6BffSGzuL) | [Jiggy Djé](https://open.spotify.com/artist/2deAwJr19wfxpqJ5duZyk1) | [De Ark De Triomf](https://open.spotify.com/album/7tGNcU63t8GLMSqKDuHTkM) | 4:38 | 2024-09-09 |  |
 | [Regendans](https://open.spotify.com/track/4Z0RY6euB3SE0KtHrxDA4R) | [Opgezwolle](https://open.spotify.com/artist/0lYZJXC0yZWGt1HdzZUd7L) | [Eigen Wereld](https://open.spotify.com/album/6xa0hZ6ObLNeM9io5Va7BG) | 3:17 | 2024-09-09 |  |
 | [Replay](https://open.spotify.com/track/51W4oxlhGggEUa2CPDnlix) | [Hef](https://open.spotify.com/artist/7ge3QfYPMTjDbMoVLuuIuJ) | [Papierwerk](https://open.spotify.com/album/4eE6K4BieWnK08jWexTF9q) | 3:12 | 2024-09-09 |  |
@@ -100,7 +101,7 @@
 | [Voor Dough](https://open.spotify.com/track/1xHyBiAmpjDeYlEEEl57OB) | [Dio](https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ), [The Opposites](https://open.spotify.com/artist/23951Pg9PiLB8Uza3k12g6) | [Rock & Roll](https://open.spotify.com/album/2f03YFO7qQi18V1juyt5zS) | 3:45 | 2024-09-09 |  |
 | [W.I.N.N.E.](https://open.spotify.com/track/1FKLxZkh3skLUFeCvQ9KIn) | [Winne](https://open.spotify.com/artist/5cMMheSnLhCt0YdwFkp3R9) | [Winne Zonder Strijd](https://open.spotify.com/album/669MIsrGaRpMze2ajXgfE4) | 3:42 | 2024-09-09 |  |
 | [Wakker In Du Cel](https://open.spotify.com/track/4CD7S5MjBQMTOZWEPMCqnd) | [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7) | [Du Zoon](https://open.spotify.com/album/3Ud6DOZSPYKFqxMPWjzvKU) | 4:50 | 2024-09-09 |  |
-| [Welkom In Ons Leven](https://open.spotify.com/track/226yHrBKVmNGtgE7W0bqTU) | [Bolletjes Blues Cast](https://open.spotify.com/artist/1GyTX0nfFFTEMVkNXhgVef) | [Soundtrack Bolletjes Blues](https://open.spotify.com/album/56CxPAl7VK30Q6ztip9rs2) | 4:03 | 2024-09-09 |  |
+| [Welkom In Ons Leven](https://open.spotify.com/track/226yHrBKVmNGtgE7W0bqTU) | [Bolletjes Blues Cast](https://open.spotify.com/artist/1GyTX0nfFFTEMVkNXhgVef) | [Soundtrack Bolletjes Blues](https://open.spotify.com/album/56CxPAl7VK30Q6ztip9rs2) | 4:03 | 2024-09-09 | 2025-12-26 |
 | [Wie Is Ut?](https://open.spotify.com/track/0wigYjF9exiXBoXN5Br2py) | [DuvelDuvel](https://open.spotify.com/artist/4u6gMJfErd9CjF0IyNdhjF) | [Aap\-O\-Theek](https://open.spotify.com/album/2XzjpxK9vTlfjhWCAkaskT) | 3:06 | 2024-09-09 |  |
 | [Wij Zijn](https://open.spotify.com/track/3GWUyMwZfzLCUktWzns0jP) | [Boef en de Gelogeerde Aap](https://open.spotify.com/artist/3evPnx06muDkZD3j1m1QZp) | [Wij Zijn](https://open.spotify.com/album/4w80bpfxGVJqrPPevTLuGS) | 3:26 | 2024-09-09 |  |
 | [Wil je weten hoe et voelt](https://open.spotify.com/track/6moRq4N6dYr4TQwcG6Kwnx) | [THC](https://open.spotify.com/artist/1SYGOtjedK1WEh5KOuOE0r), [Rocks](https://open.spotify.com/artist/3RssOArRCjUYU7hI5hws7q), [RBDjan](https://open.spotify.com/artist/1W4O1UxWetSz00CiAu01zf), [Zuen](https://open.spotify.com/artist/1Trt6PK9PHjaEoP3E1IIK5) | [Artikel 140](https://open.spotify.com/album/1pIov99nO7V3gL64S4HMro) | 4:32 | 2024-09-09 |  |

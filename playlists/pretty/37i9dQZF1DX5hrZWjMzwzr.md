@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 
 > Popkillery rozdane! Posłuchaj zwycięzców i wszystkich nominowanych utworów w kategorii singiel roku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,651 likes - 61 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,646 likes - 61 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 | 10 | [Prawie straciłem głos](https://open.spotify.com/track/2CJoMNzcvbpV38fKqAOaQ3) | [Chivas](https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA) | [Prawie straciłem głos](https://open.spotify.com/album/6QwBC5xO7nwwmb3SzDUuAr) | 2:24 |
 | 11 | [Młody Manson](https://open.spotify.com/track/2khnj1kS7t2uNoMGB44c3X) | [Young Multi](https://open.spotify.com/artist/5CkZIA3WpaEFxp0wSjMzRI), [Szpaku](https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99), [Kubi Producent](https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht), [Lucassi](https://open.spotify.com/artist/34Atpk8kle8mndOUwKblhK) | [Młody Manson](https://open.spotify.com/album/1PmtNIQOURJS6g5IVgOQwl) | 2:54 |
 | 12 | [MAMA POWTARZAŁA](https://open.spotify.com/track/5y0CCj9ENhM4G3gebGlnzb) | [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH), [Deemz](https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt) | [W ZWIĄZKU Z MUZYKĄ](https://open.spotify.com/album/2yVDUnBqTF1sQ0SmUqEezy) | 3:22 |
-| 13 | [taki mały ja](https://open.spotify.com/track/3is9xGBEPrkLAF0fryCLK7) | [kuqe 2115](https://open.spotify.com/artist/2FtYzWBUVhZ2vfy8S207Zf), [francis](https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko) | [taki mały ja](https://open.spotify.com/album/0V9iei7ta8jjktxfpq8GsK) | 2:54 |
-| 14 | [PO CO?](https://open.spotify.com/track/28hqNGfxgIuYTcdLi8LJwl) | [Kinny Zimmer](https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC), [Kaptur](https://open.spotify.com/artist/4NJA8jbfxc4daVM2wi9ybd) | [PO CO?](https://open.spotify.com/album/0JSmUGdVhg4AbiB4ukIVbH) | 3:03 |
+| 13 | [PO CO?](https://open.spotify.com/track/28hqNGfxgIuYTcdLi8LJwl) | [Kinny Zimmer](https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC), [Kaptur](https://open.spotify.com/artist/4NJA8jbfxc4daVM2wi9ybd) | [PO CO?](https://open.spotify.com/album/0JSmUGdVhg4AbiB4ukIVbH) | 3:03 |
+| 14 | [taki mały ja](https://open.spotify.com/track/3is9xGBEPrkLAF0fryCLK7) | [kuqe 2115](https://open.spotify.com/artist/2FtYzWBUVhZ2vfy8S207Zf), [francis](https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko) | [taki mały ja](https://open.spotify.com/album/0V9iei7ta8jjktxfpq8GsK) | 2:54 |
 | 15 | [Multisport](https://open.spotify.com/track/5P1qwR2V4a5EFDrsztWqaZ) | [Kaz Bałagane](https://open.spotify.com/artist/2GzZAv52VCMdVli7QzkteT), [Oskar83](https://open.spotify.com/artist/7BIHYaTeyOxOKV7EyHF0Z4) | [Multisport](https://open.spotify.com/album/0N2RrkBLMYNnPvsrRYOJsa) | 2:59 |
 | 16 | [Woda Księżycowa](https://open.spotify.com/track/5QOdYa6XQMdIm6fMYhjHQk) | [Kubi Producent](https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht), [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [Fukaj](https://open.spotify.com/artist/3bS0MLzGAoO6lLUy7gguHY), [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [Woda Księżycowa](https://open.spotify.com/album/3RvFmDnX4xSUsjgvHpB0wb) | 3:11 |
 | 17 | [NAPALONE FANKI](https://open.spotify.com/track/4OWBn64RFLynn4o4KMwkF1) | [Eryk Moczko](https://open.spotify.com/artist/6BqCCSNavmsoUg5WLnQGhd), [MIÜ](https://open.spotify.com/artist/5NpwJ9XcZH35RxF2PUIqs2), [Bedoes 2115](https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74) | [V24](https://open.spotify.com/album/4joqm6ZEgf3TursOzJNxFW) | 3:07 |

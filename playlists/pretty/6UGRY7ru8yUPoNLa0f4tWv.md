@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6UGRY7ru8yUPoNLa0f4tWv.md) - [plain]
 
 > The Biggest Clubland tunes!
 
-[Clubland](https://open.spotify.com/user/clublandhq) - 295,234 likes - 106 songs - 5 hr 36 min
+[Clubland](https://open.spotify.com/user/clublandhq) - 295,242 likes - 106 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > This is Danny Felix\. The essential tracks, all in one playlist.
 
-158 songs - 8 hr 46 min
+159 songs - 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [EL ARQUITECTO](https://open.spotify.com/track/7HHEleNNNKkvSr1e2Axtu3) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [TUMBADO STYLE](https://open.spotify.com/album/15v1tSjbFg63kCeN009ht7) | 3:28 | 2024-02-14 | 2024-11-10 |
 | [EL ATASCADO](https://open.spotify.com/track/43z9qW2zWacyDL5zENZ2il) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Y.T.L.S.V.](https://open.spotify.com/album/3fsZw4FkYbALKGWSsHqOcq) | 2:54 | 2024-08-27 | 2024-11-04 |
 | [El Caballero \(Live\)](https://open.spotify.com/track/5NW8DCHsFtv1BeV03FTAgT) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Rancho Style](https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA) | 4:46 | 2024-01-29 |  |
+| [El Dueño Del Palenque \- En Vivo](https://open.spotify.com/track/0IEvJjweMTgzZwmtAmKmNN) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Fiesta Privada Desde El 602 \(En Vivo\)](https://open.spotify.com/album/2BMdhDB0AwzTxRoo8EQ2Te) | 3:57 | 2025-12-26 |  |
 | [EL GAVILÁN](https://open.spotify.com/track/3DEyKgtG8Z1enjpfGDuETH) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [EL GAVILÁN](https://open.spotify.com/album/6Seu8jXab2lGU2CJ2Jofuu) | 4:28 | 2024-07-08 | 2024-08-25 |
 | [El Lokeron \- En Vivo](https://open.spotify.com/track/7o3xGMAKUq5qIEZpv7eqlg) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [CON LA COCHI \[VOL II \(EN VIVO\)\]](https://open.spotify.com/album/3WmaC3AjtOKrypdTmgOYqx) | 2:12 | 2025-01-12 |  |
 | [El Lunar \(Live\)](https://open.spotify.com/track/1fNRW0SWOuknGBp2y6cQhs) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Rancho Style](https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA) | 4:54 | 2024-04-28 | 2025-12-11 |
@@ -135,7 +136,7 @@
 | [QUIÉREME](https://open.spotify.com/track/3ioeNPVBME6ApIPWqnGJcj) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Y.T.L.S.V.](https://open.spotify.com/album/3fsZw4FkYbALKGWSsHqOcq) | 3:43 | 2024-09-04 | 2025-10-05 |
 | [QUIÉREME](https://open.spotify.com/track/7DXa9fFf0GZmpCfd5X0Rn2) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [QUIÉREME](https://open.spotify.com/album/28FeS8GCbUhRWEuoe5L1Om) | 3:43 | 2024-04-14 | 2024-08-19 |
 | [QUÉ QUIERE](https://open.spotify.com/track/5h9ElPBeVmPoWYWL9nC9tS) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Chris Hermosillo](https://open.spotify.com/artist/49s6IQppCi57xqZqwLIT7B) | [LUCES ROJAS](https://open.spotify.com/album/3CI0ljFulRHYlDHBv4vV7O) | 2:18 | 2025-11-03 | 2025-11-21 |
-| [Quítate La Ropa](https://open.spotify.com/track/4ERKgBz9yny32wfRoG1kli) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Crónicas De Un Corazón Roto](https://open.spotify.com/album/5rTJ6pTQUCyIxxWKlWhvaz) | 3:20 | 2024-01-29 |  |
+| [Quítate La Ropa](https://open.spotify.com/track/4ERKgBz9yny32wfRoG1kli) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Crónicas De Un Corazón Roto](https://open.spotify.com/album/5rTJ6pTQUCyIxxWKlWhvaz) | 3:20 | 2024-01-29 | 2025-12-26 |
 | [RECUERDOS](https://open.spotify.com/track/4Co8dkGwDKXPyG2aZZDn5s) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Antonin Padilla](https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk) | [LUCES ROJAS](https://open.spotify.com/album/3CI0ljFulRHYlDHBv4vV7O) | 2:48 | 2025-11-02 |  |
 | [Rosones \- En Vivo](https://open.spotify.com/track/6TVycsgDIVIEaQZORMnA4G) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [CON LA COCHI \[VOL II \(EN VIVO\)\]](https://open.spotify.com/album/3WmaC3AjtOKrypdTmgOYqx) | 2:56 | 2025-01-12 |  |
 | [SALUDOS A MI VIEJÓN](https://open.spotify.com/track/4knDhZzmW9BGEZ9WkbUuYR) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Alberto H](https://open.spotify.com/artist/5aOm6iaKxo35g41zaju8kd) | [TUMBADO STYLE](https://open.spotify.com/album/15v1tSjbFg63kCeN009ht7) | 3:14 | 2024-01-29 | 2025-04-03 |

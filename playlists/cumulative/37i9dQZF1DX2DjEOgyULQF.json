@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-02",
-  "description": "Ambient with the soothing sounds of water, rain and birds.",
+  "description": "Ambient with the soothing sounds of water, rain and birds. ",
   "name": "Nature Relaxation",
   "tracks": [
     {
@@ -250,7 +250,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 185000,
       "name": "Astrae In The Park",
       "url": "https://open.spotify.com/track/6UcVJh1WM53K8znHAdvbzU"
@@ -2094,6 +2094,24 @@
       "duration_ms": 178333,
       "name": "Garden of Calm",
       "url": "https://open.spotify.com/track/3G70KNuG1MIjALKJhLl7Vr"
+    },
+    {
+      "album": {
+        "name": "Gentle Awakening",
+        "url": "https://open.spotify.com/album/7LAOipW1fwh42MHfQx2ZH0"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Embrace",
+          "url": "https://open.spotify.com/artist/4Ol24ExBEtGVwQiIGwK2c6"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Gentle Awakening",
+      "url": "https://open.spotify.com/track/2Ic1x3G8n6VusjdfiMpbd5"
     },
     {
       "album": {

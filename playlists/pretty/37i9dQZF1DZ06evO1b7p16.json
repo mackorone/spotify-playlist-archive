@@ -1,12 +1,12 @@
 {
   "description": "This is Taking Back Sunday. The essential tracks, all in one playlist.",
-  "num_followers": 40310,
+  "num_followers": 40312,
   "original_name": "This Is Taking Back Sunday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUnbgAAAAACffkkpgGL/UAD48Lsz2SWV",
+  "snapshot_id": "aUstAAAAAACH2t+xQa3lTs5b0YLJB8Im",
   "tracks": [
     {
       "added_at": null,
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 185653,
-      "name": "Amphetamine Smiles",
-      "url": "https://open.spotify.com/track/6mIEjaEmDKaQ6CbKOgJqeN"
+      "duration_ms": 197786,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/6pPAZMk6ELhS23soG1G3je"
     },
     {
       "added_at": null,
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 197786,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/6pPAZMk6ELhS23soG1G3je"
+      "duration_ms": 185653,
+      "name": "Amphetamine Smiles",
+      "url": "https://open.spotify.com/track/6mIEjaEmDKaQ6CbKOgJqeN"
     },
     {
       "added_at": null,
@@ -579,6 +579,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bullet With Butterfly Wings",
+        "url": "https://open.spotify.com/album/1ZEg013HK19x0U7IUYT5aG"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 272093,
+      "name": "Bullet With Butterfly Wings",
+      "url": "https://open.spotify.com/track/6B6d64PpWBT6tLfxT0eMhE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Happiness Is",
         "url": "https://open.spotify.com/album/2N02qdLn3XiNlb8c0SFyPd"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 219963,
       "name": "Stood A Chance",
       "url": "https://open.spotify.com/track/0ZUrzmpZOdHGyUwHVu9USO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Taking Back Sunday",
-        "url": "https://open.spotify.com/album/1W4uX1UOB3fn04DiEgYinY"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 211573,
-      "name": "Best Places To Be A Mom",
-      "url": "https://open.spotify.com/track/6qblu5bhHV9qJXuvBXgd4m"
     },
     {
       "added_at": null,
@@ -627,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bullet With Butterfly Wings",
-        "url": "https://open.spotify.com/album/1ZEg013HK19x0U7IUYT5aG"
+        "name": "Taking Back Sunday",
+        "url": "https://open.spotify.com/album/1W4uX1UOB3fn04DiEgYinY"
       },
       "artists": [
         {
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 272093,
-      "name": "Bullet With Butterfly Wings",
-      "url": "https://open.spotify.com/track/6B6d64PpWBT6tLfxT0eMhE"
+      "duration_ms": 211573,
+      "name": "Best Places To Be A Mom",
+      "url": "https://open.spotify.com/track/6qblu5bhHV9qJXuvBXgd4m"
     },
     {
       "added_at": null,
@@ -659,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Taking Back Sunday",
-        "url": "https://open.spotify.com/album/1W4uX1UOB3fn04DiEgYinY"
+        "name": "Happiness Is",
+        "url": "https://open.spotify.com/album/2N02qdLn3XiNlb8c0SFyPd"
       },
       "artists": [
         {
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 188960,
-      "name": "Faith (When I Let You Down)",
-      "url": "https://open.spotify.com/track/77Mwze1RAWtlOhG5r3BqVR"
+      "duration_ms": 191583,
+      "name": "Beat Up Car",
+      "url": "https://open.spotify.com/track/6VCnQfitwjZnCACwCRjPOn"
     },
     {
       "added_at": null,
@@ -691,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Happiness Is",
-        "url": "https://open.spotify.com/album/2N02qdLn3XiNlb8c0SFyPd"
+        "name": "Taking Back Sunday",
+        "url": "https://open.spotify.com/album/1W4uX1UOB3fn04DiEgYinY"
       },
       "artists": [
         {
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 191583,
-      "name": "Beat Up Car",
-      "url": "https://open.spotify.com/track/6VCnQfitwjZnCACwCRjPOn"
+      "duration_ms": 188960,
+      "name": "Faith (When I Let You Down)",
+      "url": "https://open.spotify.com/track/77Mwze1RAWtlOhG5r3BqVR"
     },
     {
       "added_at": null,
@@ -803,22 +803,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cute Without The E (Ziri)",
-        "url": "https://open.spotify.com/album/11oBNhmgFJzk7QGa4LraT0"
+        "name": "New Again",
+        "url": "https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS"
       },
       "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
         {
           "name": "Taking Back Sunday",
           "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
         }
       ],
-      "duration_ms": 202105,
-      "name": "Cute Without The E (Ziri)",
-      "url": "https://open.spotify.com/track/4c840ZcqSo23gsv6tBdbar"
+      "duration_ms": 232026,
+      "name": "Cut Me Up Jenny",
+      "url": "https://open.spotify.com/track/6ILY2moQH3YmTeQNjMudNN"
     }
   ],
   "unique_name": "This Is Taking Back Sunday",

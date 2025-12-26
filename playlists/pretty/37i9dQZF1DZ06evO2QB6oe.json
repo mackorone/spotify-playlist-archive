@@ -1,12 +1,12 @@
 {
   "description": "This is Pedro Cap\u00f3. The essential tracks, all in one playlist.",
-  "num_followers": 70110,
+  "num_followers": 70114,
   "original_name": "This Is Pedro Cap\u00f3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUnbgAAAAAATp0ysPIOntZHpUALrJFJQ",
+  "snapshot_id": "aUstAAAAAADvt6LXYiMXXrQEol3aJ0Ts",
   "tracks": [
     {
       "added_at": null,
@@ -351,26 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mesa Para Dos",
-        "url": "https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 223192,
-      "name": "Nuevas Mentiras",
-      "url": "https://open.spotify.com/track/3vabwCZ4W0ommrf6wlSInU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hoy",
         "url": "https://open.spotify.com/album/4Wd3wzu93MYl3sJPEvxLT8"
       },
@@ -387,6 +367,26 @@
       "duration_ms": 185426,
       "name": "Te Olvidar\u00e9",
       "url": "https://open.spotify.com/track/4jrZI0XdexLjrHlBwLbhzL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mesa Para Dos",
+        "url": "https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 223192,
+      "name": "Nuevas Mentiras",
+      "url": "https://open.spotify.com/track/3vabwCZ4W0ommrf6wlSInU"
     },
     {
       "added_at": null,
@@ -427,26 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Neta",
-        "url": "https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        },
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 188708,
-      "name": "Una Vez M\u00e1s",
-      "url": "https://open.spotify.com/track/1Pm4oHKLf3IrPYjn8OajCg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mundo Paralelo",
         "url": "https://open.spotify.com/album/0QrA9TTm6EFdy8qJAoIqPR"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 197970,
       "name": "Mundo Paralelo",
       "url": "https://open.spotify.com/track/5Sb2QTq4PNDQyj6HdpdxWk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Neta",
+        "url": "https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        },
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 188708,
+      "name": "Una Vez M\u00e1s",
+      "url": "https://open.spotify.com/track/1Pm4oHKLf3IrPYjn8OajCg"
     },
     {
       "added_at": null,
@@ -611,6 +611,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Piel Canela (Casa Sole)",
+        "url": "https://open.spotify.com/album/5HuL8cVtREOCRVr60LcUtU"
+      },
+      "artists": [
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        },
+        {
+          "name": "Chango Spasiuk",
+          "url": "https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY"
+        }
+      ],
+      "duration_ms": 192669,
+      "name": "Piel Canela (Casa Sole)",
+      "url": "https://open.spotify.com/track/44WRi9pjOVWlAv3tmYKOln"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hasta El Alma",
         "url": "https://open.spotify.com/album/6LP2T6ARkvQcoqBornwcox"
       },
@@ -647,26 +671,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piel Canela (Casa Sole)",
-        "url": "https://open.spotify.com/album/5HuL8cVtREOCRVr60LcUtU"
+        "name": "MUNAY",
+        "url": "https://open.spotify.com/album/4E0E7d1jNLPrmf1u4xMnl8"
       },
       "artists": [
         {
-          "name": "Soledad",
-          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
-        },
-        {
           "name": "Pedro Cap\u00f3",
           "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        },
-        {
-          "name": "Chango Spasiuk",
-          "url": "https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY"
         }
       ],
-      "duration_ms": 192669,
-      "name": "Piel Canela (Casa Sole)",
-      "url": "https://open.spotify.com/track/44WRi9pjOVWlAv3tmYKOln"
+      "duration_ms": 186976,
+      "name": "La S\u00e1bana y los Pies",
+      "url": "https://open.spotify.com/track/2dO6OrbCT0eBuiExwfo6KZ"
     },
     {
       "added_at": null,
@@ -687,22 +703,6 @@
       "duration_ms": 209833,
       "name": "Qu\u00e9 Fuimos (feat. Matisse)",
       "url": "https://open.spotify.com/track/5vRwOK31sTh80qJAZeP1Ox"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MUNAY",
-        "url": "https://open.spotify.com/album/4E0E7d1jNLPrmf1u4xMnl8"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 186976,
-      "name": "La S\u00e1bana y los Pies",
-      "url": "https://open.spotify.com/track/2dO6OrbCT0eBuiExwfo6KZ"
     },
     {
       "added_at": null,
@@ -739,26 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gracias (Remix)",
-        "url": "https://open.spotify.com/album/7DIEwl5kON89D6kXzPSZwB"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 253586,
-      "name": "Gracias - Remix",
-      "url": "https://open.spotify.com/track/3EPkYtHqRXZAxE9K7xxC2W"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Fiesta",
         "url": "https://open.spotify.com/album/3zn9otXWGsS4fKtmayZgC0"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 170099,
       "name": "La Fiesta",
       "url": "https://open.spotify.com/track/5bcR0cFXf0qhLR6de6xCmO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gracias (Remix)",
+        "url": "https://open.spotify.com/album/7DIEwl5kON89D6kXzPSZwB"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 253586,
+      "name": "Gracias - Remix",
+      "url": "https://open.spotify.com/track/3EPkYtHqRXZAxE9K7xxC2W"
     },
     {
       "added_at": null,
@@ -931,26 +931,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Tu Bien",
-        "url": "https://open.spotify.com/album/1C4uTws6xznbtPOlkl1uBr"
-      },
-      "artists": [
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 228280,
-      "name": "Duele Amarte As\u00ed (feat. Pedro Cap\u00f3)",
-      "url": "https://open.spotify.com/track/3NKeZuT6hzbC6a5cJ6F5te"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Palmeras",
         "url": "https://open.spotify.com/album/44T0wt9lD2FnxPg5d2qXJL"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 162857,
       "name": "Besos Escond\u00edos (feat. Pedro Cap\u00f3)",
       "url": "https://open.spotify.com/track/2GzZdNShX80JKeeGSwYtCu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Por Tu Bien",
+        "url": "https://open.spotify.com/album/1C4uTws6xznbtPOlkl1uBr"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 228280,
+      "name": "Duele Amarte As\u00ed (feat. Pedro Cap\u00f3)",
+      "url": "https://open.spotify.com/track/3NKeZuT6hzbC6a5cJ6F5te"
     },
     {
       "added_at": null,

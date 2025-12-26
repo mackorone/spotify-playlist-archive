@@ -3369,6 +3369,32 @@
     },
     {
       "album": {
+        "name": "#Directamentedebb",
+        "url": "https://open.spotify.com/album/1IHekLzXtIzpFT8N32vPzW"
+      },
+      "artists": [
+        {
+          "name": "Maxi Alvarez",
+          "url": "https://open.spotify.com/artist/2UnGWnrqDZPjWNVRWj5Mae"
+        },
+        {
+          "name": "ONE PLAY",
+          "url": "https://open.spotify.com/artist/6L2DyVdMndLfvkAelI8vFe"
+        },
+        {
+          "name": "Juanjo Morgade",
+          "url": "https://open.spotify.com/artist/2WZW6Gsj5R7JlRNFikJvPE"
+        }
+      ],
+      "date_added": "2025-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168750,
+      "name": "Borraxxa",
+      "url": "https://open.spotify.com/track/29oy26Sz1HumzEjzTodZvu"
+    },
+    {
+      "album": {
         "name": "SR. SANTOS",
         "url": "https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY"
       },
@@ -7973,6 +7999,28 @@
     },
     {
       "album": {
+        "name": "Directamente Desde el Tanque",
+        "url": "https://open.spotify.com/album/3c8FQOgNGmmiF6PJqTW80j"
+      },
+      "artists": [
+        {
+          "name": "LA NUEVA ESCUELA",
+          "url": "https://open.spotify.com/artist/5TeBsszZQTyqBX4eDHdtNx"
+        },
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        }
+      ],
+      "date_added": "2025-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233170,
+      "name": "Embustera",
+      "url": "https://open.spotify.com/track/0A1TUWpl8jeiWam6AsYdwg"
+    },
+    {
+      "album": {
         "name": "Embustera",
         "url": "https://open.spotify.com/album/6XUgygeI1AwJhp57BAlKUZ"
       },
@@ -7988,7 +8036,7 @@
       ],
       "date_added": "2025-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 233170,
       "name": "Embustera",
       "url": "https://open.spotify.com/track/3YcNehpEP1edJwVwsLfkbr"
@@ -11720,7 +11768,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 249608,
       "name": "La player (Bandolera)",
       "url": "https://open.spotify.com/track/0VKkyBKCXyR99navhVRqcP"
@@ -12880,10 +12928,28 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 201706,
       "name": "Los Mayores",
       "url": "https://open.spotify.com/track/3PzRozh21ZFHP5bAoQ953l"
+    },
+    {
+      "album": {
+        "name": "Directamente Desde el Tanque",
+        "url": "https://open.spotify.com/album/3c8FQOgNGmmiF6PJqTW80j"
+      },
+      "artists": [
+        {
+          "name": "LA NUEVA ESCUELA",
+          "url": "https://open.spotify.com/artist/5TeBsszZQTyqBX4eDHdtNx"
+        }
+      ],
+      "date_added": "2025-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201706,
+      "name": "Los Mayores",
+      "url": "https://open.spotify.com/track/595GxxymShUzSRVGgDrkGI"
     },
     {
       "album": {
@@ -13478,10 +13544,28 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 159196,
       "name": "Maquillaje",
       "url": "https://open.spotify.com/track/5vnS2TSq2hNE9978Ah3N40"
+    },
+    {
+      "album": {
+        "name": "Directamente Desde el Tanque",
+        "url": "https://open.spotify.com/album/3c8FQOgNGmmiF6PJqTW80j"
+      },
+      "artists": [
+        {
+          "name": "LA NUEVA ESCUELA",
+          "url": "https://open.spotify.com/artist/5TeBsszZQTyqBX4eDHdtNx"
+        }
+      ],
+      "date_added": "2025-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159196,
+      "name": "Maquillaje",
+      "url": "https://open.spotify.com/track/75Xgi3loGDYfeeeQnj8GyJ"
     },
     {
       "album": {
@@ -15572,7 +15656,7 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 210533,
       "name": "Ni\u00f1o",
       "url": "https://open.spotify.com/track/4aDbrgm1ZaebS1Bb2dOXac"
@@ -17754,7 +17838,7 @@
       ],
       "date_added": "2024-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-17",
+      "date_removed": null,
       "duration_ms": 142041,
       "name": "Piel",
       "url": "https://open.spotify.com/track/6kPCcIAGoTeRrh8qrmKa90"
@@ -18777,6 +18861,24 @@
     },
     {
       "album": {
+        "name": "Directamente Desde el Tanque",
+        "url": "https://open.spotify.com/album/3c8FQOgNGmmiF6PJqTW80j"
+      },
+      "artists": [
+        {
+          "name": "LA NUEVA ESCUELA",
+          "url": "https://open.spotify.com/artist/5TeBsszZQTyqBX4eDHdtNx"
+        }
+      ],
+      "date_added": "2025-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149490,
+      "name": "Qloo*",
+      "url": "https://open.spotify.com/track/0aBwWUpgmZ1PialHl79Ini"
+    },
+    {
+      "album": {
         "name": "Qloo*",
         "url": "https://open.spotify.com/album/11pCxVmKsmEOk2q5koy4xi"
       },
@@ -18788,7 +18890,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 149490,
       "name": "Qloo*",
       "url": "https://open.spotify.com/track/4xAPdaZvmrIkfGviwXTv3j"
@@ -19032,7 +19134,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-23",
+      "date_removed": null,
       "duration_ms": 141500,
       "name": "Quedate",
       "url": "https://open.spotify.com/track/1Xua15a4cEbIRkEWkHBSxT"
@@ -25296,7 +25398,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 165161,
       "name": "VIAJEMOS EN EL TIEMPO #6 I Amor y Dolor",
       "url": "https://open.spotify.com/track/6zEYyvImhZjk8I1EAtXim9"

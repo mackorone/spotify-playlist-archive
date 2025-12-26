@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 
 > Descubre el futuro de las escenas en México en compañía de Malcriada
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,232 likes - 75 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,228 likes - 75 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,11 +54,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 44 | [Veterinario](https://open.spotify.com/track/1MVW1Sf7Goytm4aZ8h7LqC) | [Aguila DS](https://open.spotify.com/artist/4tRMFw64H6uS3M5czNnRNv), [Alberto Producer](https://open.spotify.com/artist/7sheOE7xmHLpWtqVa4NO93) | [Veterinario](https://open.spotify.com/album/4UQMRiTaIl1dYIUYNAtSyU) | 2:44 |
 | 45 | [Verano Cruel](https://open.spotify.com/track/7cD9XsdYgNoKMdAVFak7y9) | [ALMAS](https://open.spotify.com/artist/4CB2DwqLVhw2YENG9hyjGC) | [Verano Cruel](https://open.spotify.com/album/3IrYOrtOpokQ3q3xSg37WW) | 2:51 |
 | 46 | [Tu Consentido](https://open.spotify.com/track/6ujEWrFCCSoDNEfpOWQB5k) | [Dimelow Pro](https://open.spotify.com/artist/4VZE0jwOCEOWu5C1f2xh8m), [ND Kobi'](https://open.spotify.com/artist/65vpTU1WPlaRYEX5UKTfrl), [Ibarra](https://open.spotify.com/artist/386ucqQTZpZxL6iQOngyjY) | [Tu Consentido](https://open.spotify.com/album/2CUjxJCHuHkd1PpWWvsp3J) | 3:10 |
-| 47 | [MAMI DÓNDESTÁS?](https://open.spotify.com/track/2BT0VEE5A8kj01Xl6LaM1u) | [E\-Lhoy](https://open.spotify.com/artist/5YTKQFU1MDt9KdsDhWdC5B) | [MAMI DÓNDESTÁS?](https://open.spotify.com/album/6MT747J1IrkZCseX2Immmw) | 2:23 |
-| 48 | [veranito2k](https://open.spotify.com/track/2IzsCi96LixsDnfCHOa2uO) | [FREEKIDS](https://open.spotify.com/artist/60FYZ0x5u10Z9oTq6hJW7j) | [veranito2k](https://open.spotify.com/album/5M6Q1JWTHVItN8M0hCqybG) | 2:40 |
+| 47 | [veranito2k](https://open.spotify.com/track/2IzsCi96LixsDnfCHOa2uO) | [FREEKIDS](https://open.spotify.com/artist/60FYZ0x5u10Z9oTq6hJW7j) | [veranito2k](https://open.spotify.com/album/5M6Q1JWTHVItN8M0hCqybG) | 2:40 |
+| 48 | [MAMI DÓNDESTÁS?](https://open.spotify.com/track/2BT0VEE5A8kj01Xl6LaM1u) | [E\-Lhoy](https://open.spotify.com/artist/5YTKQFU1MDt9KdsDhWdC5B) | [MAMI DÓNDESTÁS?](https://open.spotify.com/album/6MT747J1IrkZCseX2Immmw) | 2:23 |
 | 49 | [Voz en el Mar](https://open.spotify.com/track/6PxW6AGMLOetOyHF7gjVAH) | [Ele Suarez](https://open.spotify.com/artist/7HH3yQ8lGLwRDilXpfRgSU) | [Voz en el Mar](https://open.spotify.com/album/0h2WlyrHox0ZH2Jlxs7Obb) | 3:14 |
-| 50 | [Niños](https://open.spotify.com/track/11831r3FeOAL9pA2jkHujm) | [La Texana](https://open.spotify.com/artist/7KXPjNDl2wveAmMIEZHQhB) | [Niños](https://open.spotify.com/album/78wl83QVv5HKHGUlyRDfyU) | 2:34 |
-| 51 | [caratrapo](https://open.spotify.com/track/6SE1BADGvQIrHOb87nqyPi) | [unperro andaluz](https://open.spotify.com/artist/33lAD1kEfIjRuF6nt94u5k) | [tragaperras](https://open.spotify.com/album/0SfLaf6FpAAvsgMUi8O1p6) | 3:28 |
+| 50 | [caratrapo](https://open.spotify.com/track/6SE1BADGvQIrHOb87nqyPi) | [unperro andaluz](https://open.spotify.com/artist/33lAD1kEfIjRuF6nt94u5k) | [tragaperras](https://open.spotify.com/album/0SfLaf6FpAAvsgMUi8O1p6) | 3:28 |
+| 51 | [Niños](https://open.spotify.com/track/11831r3FeOAL9pA2jkHujm) | [La Texana](https://open.spotify.com/artist/7KXPjNDl2wveAmMIEZHQhB) | [Niños](https://open.spotify.com/album/78wl83QVv5HKHGUlyRDfyU) | 2:34 |
 | 52 | [Cumbia Psicópata](https://open.spotify.com/track/5O9v2v8maQtg6s4J1mjuPY) | [Insulini](https://open.spotify.com/artist/41f5h5dLeXaQszzuoNAGYE) | [Cumbia Psicópata](https://open.spotify.com/album/3kmi764fRGYOBYEY5AZrfL) | 3:00 |
 | 53 | [Juguetona](https://open.spotify.com/track/26oMIjeGkEonsecfDLW5b0) | [Los Menores](https://open.spotify.com/artist/51YrdVc67EHkCDRJMHxJal), [Nova "La Amenaza"](https://open.spotify.com/artist/40lIeuVeOyTsifyK93dUIx), [Fuentes Prod](https://open.spotify.com/artist/6nLUmIv3Hi88nYI0Xn67XV) | [Juguetona](https://open.spotify.com/album/3zOc6LvKoVlbeTJ1MslyuG) | 2:30 |
 | 54 | [Cabello Rojo](https://open.spotify.com/track/2JPq2IjAikdyBRHeveZXks) | [Nova Club](https://open.spotify.com/artist/2dHSEYEz7AKUtdlJutrRTA) | [Cabello Rojo](https://open.spotify.com/album/3VBMZY8Bm6HUPXSCgQBn38) | 3:14 |

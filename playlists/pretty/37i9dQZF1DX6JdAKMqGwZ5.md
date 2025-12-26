@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 
 > Descubre los temas emergentes del mundo indie\. Foto: agosto.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,199 likes - 120 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,191 likes - 120 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

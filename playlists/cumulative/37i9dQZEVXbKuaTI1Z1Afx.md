@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- USA.
 
-4,664 songs - 10 day 10 hr 41 min
+4,665 songs - 10 day 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2053,7 +2053,7 @@
 | [Intergalactic Janet](https://open.spotify.com/track/21wYclGDiieKf42kEWxqV9) | [Ley Soul](https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ) | [Intergalactic Janet](https://open.spotify.com/album/3vS1oa8XAK2I4BLsMPEsK2) | 2:40 | 2024-03-14 | 2024-03-24 |
 | [Intergalactic Janet](https://open.spotify.com/track/306RRWvBh2lrCsr08I7v87) | [Ley Soul](https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ) | [Intergalactic Janet](https://open.spotify.com/album/448M9cu48QpSo3zZeELWhj) | 2:40 | 2024-03-23 | 2024-04-03 |
 | [Intergalactic Janet](https://open.spotify.com/track/7zgEoBci3rKmEkLdsZ8ZKJ) | [Ley Soul](https://open.spotify.com/artist/04BNblybwoPZhAYiKPLKUQ) | [Intergalactic Janet](https://open.spotify.com/album/7zu5604lPvQjVBERSdwrTe) | 2:40 | 2024-04-05 | 2024-04-10 |
-| [Into the Blue](https://open.spotify.com/track/3qIQAophwgi9UKMJHZcSpQ) | [Sienna Rose](https://open.spotify.com/artist/6wq8iklwcF2dj0jtMpPvOJ) | [Velvet Embrace](https://open.spotify.com/album/3089DTFGUlcMRefJTAsM70) | 3:44 | 2025-12-19 |  |
+| [Into the Blue](https://open.spotify.com/track/3qIQAophwgi9UKMJHZcSpQ) | [Sienna Rose](https://open.spotify.com/artist/6wq8iklwcF2dj0jtMpPvOJ) | [Velvet Embrace](https://open.spotify.com/album/3089DTFGUlcMRefJTAsM70) | 3:44 | 2025-12-19 | 2025-12-26 |
 | [Into the Blue](https://open.spotify.com/track/5vuhKfNo001LxL7nh5Br7i) | [Sienna Rose](https://open.spotify.com/artist/6wq8iklwcF2dj0jtMpPvOJ) | [Velvet Embrace](https://open.spotify.com/album/5VWMv18uhWoRqSL9UUkBFA) | 3:44 | 2025-12-16 | 2025-12-20 |
 | [Intro](https://open.spotify.com/track/4arEh3ZrPb0XqHjNfcp101) | [PayGotti](https://open.spotify.com/artist/0LGKNkqCNnflIi35z00rGu) | [My Evil Thoughts](https://open.spotify.com/album/7dpPnvmvx6aO07j685ayg2) | 2:19 | 2025-02-20 | 2025-03-12 |
 | [Intrusive Thoughts](https://open.spotify.com/track/1imbsYvtz61ZvUgGqKCr3j) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Intrusive Thoughts](https://open.spotify.com/album/5TSBq8AfchHD3tkgtQbuBk) | 3:21 | 2023-11-15 | 2023-11-21 |
@@ -2670,6 +2670,7 @@
 | [MONTAGEM \- PR FUNK](https://open.spotify.com/track/6YC5ibtCMyXU1RQ1LkQLIn) | [S3BZS](https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id) | [MONTAGEM \- PR FUNK](https://open.spotify.com/album/79gX4oNb3k71P2J0XjN2Bn) | 1:01 | 2023-06-18 | 2023-07-12 |
 | [MONTAGEM \- PR FUNK](https://open.spotify.com/track/6njJR3OIp3oA0Kc4aC9Tzf) | [S3BZS](https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id) | [MONTAGEM \- PR FUNK](https://open.spotify.com/album/2HuMAoXpr6HDryNHipbCpB) | 1:01 | 2023-07-11 | 2023-08-09 |
 | [Montagem Lunar Diamante \- Slowed](https://open.spotify.com/track/0K2fUhtLKjPn3ZlljVszWr) | [DJ DYLANFK](https://open.spotify.com/artist/26COCLBHY0CCqCbSlIKWee), [WXCHSXN](https://open.spotify.com/artist/3V9pMeaokZlFw0a80Cff3O) | [Montagem Lunar Diamante](https://open.spotify.com/album/0JYZjOll98BB5vPgl2xOLN) | 3:05 | 2024-12-31 | 2025-01-18 |
+| [Montagem Miau](https://open.spotify.com/track/4hfzUjG7A5fsr0xoMfdxMA) | [Lenar](https://open.spotify.com/artist/2QHpjaiPhG7uvtvjqEpU4E) | [Montagem Miau](https://open.spotify.com/album/5xuRynu6hXiqcyThDDsosi) | 1:12 | 2025-12-25 |  |
 | [MONTAGEM MUEVELOU](https://open.spotify.com/track/6YRzHINHGFHeK9Z6AYuGtl) | [VIXZY](https://open.spotify.com/artist/0kWUYXcvgnzitf04C98qXP) | [MONTAGEM MUEVELOU](https://open.spotify.com/album/5cUDQKJg4uSeYjiWTQVBz4) | 2:17 | 2025-10-22 | 2025-10-24 |
 | [Montagem Mysterious Game](https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK) | [Montagem Mysterious Game](https://open.spotify.com/album/1l8if9zQ8F0MEHVWYrMREe) | 1:43 | 2024-01-19 | 2024-02-07 |
 | [MONTAGEM RUGADA](https://open.spotify.com/track/7hCUHXMZknrymWCyeMx8B6) | [cape](https://open.spotify.com/artist/6hB4Px9Gm2FjAB30PXsv8K), [JXNDRO](https://open.spotify.com/artist/62vwt2P3iBw4NwHdDZb27q), [Sayfalse](https://open.spotify.com/artist/6s4LSwgbzTAfnN6OUfegJB) | [MONTAGEM RUGADA](https://open.spotify.com/album/7FsRROosPNliIsu3YzSs9n) | 1:32 | 2025-10-08 | 2025-11-12 |

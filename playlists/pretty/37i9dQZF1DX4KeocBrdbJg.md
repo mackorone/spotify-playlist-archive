@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KeocBrdbJg.md) - [plain]
 
 > las mejores canciones del internet en 2025 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,400,461 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,400,416 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KeocBrdbJg.md) - [plain]
 | 40 | [sueña lindo, corazón](https://open.spotify.com/track/0uq0OrFNaOhCDOlySbYTUx) | [Macario Martínez](https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4) | [sueña lindo, corazón / nuestra casa en el mar](https://open.spotify.com/album/7t3GAAbmZEmkiUlN7mss28) | 2:02 |
 | 41 | [Steve's Lava Chicken](https://open.spotify.com/track/78HOAddeAcXmcuhoanspry) | [Jack Black](https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T) | [A Minecraft Movie \(Songs from the Original Motion Picture Soundtrack\)](https://open.spotify.com/album/78TxL9TbTSn0HDIVjVPvSq) | 0:34 |
 | 42 | [Lágrima](https://open.spotify.com/track/0LWEHyHhC3HRwBjbgPbAmI) | [PANTERA BLUE](https://open.spotify.com/artist/6zAncQFGD8BV8q5PUOTjp8) | [Lágrima](https://open.spotify.com/album/3NJqjNq8VAcUwM2M8F6L51) | 2:29 |
-| 43 | [CIBELES](https://open.spotify.com/track/4TIePj8AE2txbcqAHxldnD) | [Sergio Ramos](https://open.spotify.com/artist/1nbrjOvQRh3w167UZjjMv4) | [CIBELES](https://open.spotify.com/album/5TeupQ9L12ArCFZk5AewLa) | 2:45 |
-| 44 | [SENDA](https://open.spotify.com/track/0SI2PdREZzZkqNTHLctnNG) | [DISHYPE](https://open.spotify.com/artist/2cVtX6cwi2dGV4WZDwU39q) | [SENDA](https://open.spotify.com/album/3lxP0GZQgzJIEUFYvL2IRh) | 4:04 |
-| 45 | [Como Un Pájaro](https://open.spotify.com/track/2qRiMr3Gy4Vz643Q6sNMx5) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Vendrán Suaves Lluvias](https://open.spotify.com/album/4PXqCA2P1xLNjIbn2pOQMm) | 3:30 |
+| 43 | [SENDA](https://open.spotify.com/track/0SI2PdREZzZkqNTHLctnNG) | [DISHYPE](https://open.spotify.com/artist/2cVtX6cwi2dGV4WZDwU39q) | [SENDA](https://open.spotify.com/album/3lxP0GZQgzJIEUFYvL2IRh) | 4:04 |
+| 44 | [Como Un Pájaro](https://open.spotify.com/track/2qRiMr3Gy4Vz643Q6sNMx5) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Vendrán Suaves Lluvias](https://open.spotify.com/album/4PXqCA2P1xLNjIbn2pOQMm) | 3:30 |
+| 45 | [CIBELES](https://open.spotify.com/track/4TIePj8AE2txbcqAHxldnD) | [Sergio Ramos](https://open.spotify.com/artist/1nbrjOvQRh3w167UZjjMv4) | [CIBELES](https://open.spotify.com/album/5TeupQ9L12ArCFZk5AewLa) | 2:45 |
 | 46 | [pasarella 👠](https://open.spotify.com/track/5jX8y3uTztypaMgOinxYMw) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Six Sex](https://open.spotify.com/artist/29rvPhemBdOLYdLr2xI8dr) | [perfectas](https://open.spotify.com/album/7FM4Jp2W2L7kvXh7XJAeDl) | 2:42 |
 | 47 | [TUTA](https://open.spotify.com/track/01AdFmUSxe3QXQ0wkp8O7Y) | [Kiyo](https://open.spotify.com/artist/5RLTBHZtMacPAgkkyH8IxM) | [CRUJIN](https://open.spotify.com/album/6XP0igFc0sLtof4flw4Zr2) | 2:01 |
 | 48 | [So what we get drunk?](https://open.spotify.com/track/4syuf5oCm8QzvVVraRC8ah) | [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN) | [Porque Quise](https://open.spotify.com/album/7Li5d7RHE3DkHzi9KoeHBM) | 1:55 |

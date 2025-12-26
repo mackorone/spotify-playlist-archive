@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe9gFZP0gtP.md) - [plain]
 
 > Calm your mind from anxiety with gentle piano and ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,772,076 likes - 223 songs - 10 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,774,149 likes - 223 songs - 10 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -232,4 +232,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe9gFZP0gtP.md) - [plain]
 | 222 | [How Blessed](https://open.spotify.com/track/2GhiwmAm0SehnbzvfQhIjN) | [Fourth Eye](https://open.spotify.com/artist/6rRi2CL7CAJPlreLloPwxY) | [How Blessed](https://open.spotify.com/album/7whBQN43DOSlbheYQWZ2Aj) | 3:32 |
 | 223 | [Brumae](https://open.spotify.com/track/6OcnAVoL2EnBfQLhuqgevT) | [Nebula Somni](https://open.spotify.com/artist/2WYAbfZMnJYDFEQ6lJ6cqV) | [Brumae](https://open.spotify.com/album/33qjJHL5eeNyIqGfTyYdAg) | 2:26 |
 
-Snapshot ID: `AAAAABg3xk1Und6I5iV3Y3AN5s3yUUbG`
+Snapshot ID: `AAAAAGq0DzIDxxo1pi+unDYNMxoTxUuv`

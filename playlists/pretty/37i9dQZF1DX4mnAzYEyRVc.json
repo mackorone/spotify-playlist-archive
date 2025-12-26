@@ -1,6 +1,6 @@
 {
   "description": "The world series of Ska. Cover: Tokyo Ska Paradise Orchestra \n",
-  "num_followers": 66529,
+  "num_followers": 66569,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2025-10-03 00:00:35",
       "album": {
+        "name": "Zombiler",
+        "url": "https://open.spotify.com/album/53HtyBiWbJkq8eJnPiio8Z"
+      },
+      "artists": [
+        {
+          "name": "Second",
+          "url": "https://open.spotify.com/artist/0hB4oP2Xs7bmAb3W5dHwsi"
+        }
+      ],
+      "duration_ms": 206129,
+      "name": "Zombiler",
+      "url": "https://open.spotify.com/track/1IW6yBz7CH4oN7csJxl9Oz"
+    },
+    {
+      "added_at": "2025-10-03 00:00:35",
+      "album": {
         "name": "A Frontline Compilation",
         "url": "https://open.spotify.com/album/2GUirHCExX549jcIgaYWKO"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 206039,
       "name": "S\u00f3lo Vivir",
       "url": "https://open.spotify.com/track/5MOx0l5aTGHFTJSTYpkDxz"
-    },
-    {
-      "added_at": "2025-10-03 00:00:35",
-      "album": {
-        "name": "Zombiler",
-        "url": "https://open.spotify.com/album/53HtyBiWbJkq8eJnPiio8Z"
-      },
-      "artists": [
-        {
-          "name": "Second",
-          "url": "https://open.spotify.com/artist/0hB4oP2Xs7bmAb3W5dHwsi"
-        }
-      ],
-      "duration_ms": 206129,
-      "name": "Zombiler",
-      "url": "https://open.spotify.com/track/1IW6yBz7CH4oN7csJxl9Oz"
     },
     {
       "added_at": "2025-10-03 00:00:35",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2025-10-03 00:00:35",
       "album": {
-        "name": "Pancho",
-        "url": "https://open.spotify.com/album/7DrM0Z9XB0tTOi1gCqZXQf"
-      },
-      "artists": [
-        {
-          "name": "Fast Food Orchestra",
-          "url": "https://open.spotify.com/artist/2EjBCwIB8BXPEdWQKTeEqN"
-        }
-      ],
-      "duration_ms": 161818,
-      "name": "Pancho",
-      "url": "https://open.spotify.com/track/5X1pCdS5HwMHXeE2Yz7ZaC"
-    },
-    {
-      "added_at": "2025-10-03 00:00:35",
-      "album": {
         "name": "Si Oh !",
         "url": "https://open.spotify.com/album/2H6VK5tsOqYwURh7BsLsiB"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 151013,
       "name": "Guapa",
       "url": "https://open.spotify.com/track/6ZnlFcQA6Ghn8NYEgTu4Dl"
+    },
+    {
+      "added_at": "2025-10-03 00:00:35",
+      "album": {
+        "name": "Pancho",
+        "url": "https://open.spotify.com/album/7DrM0Z9XB0tTOi1gCqZXQf"
+      },
+      "artists": [
+        {
+          "name": "Fast Food Orchestra",
+          "url": "https://open.spotify.com/artist/2EjBCwIB8BXPEdWQKTeEqN"
+        }
+      ],
+      "duration_ms": 161818,
+      "name": "Pancho",
+      "url": "https://open.spotify.com/track/5X1pCdS5HwMHXeE2Yz7ZaC"
     },
     {
       "added_at": "2025-10-03 00:00:35",
@@ -1703,22 +1703,18 @@
     {
       "added_at": "2025-10-03 00:00:35",
       "album": {
-        "name": "2",
-        "url": "https://open.spotify.com/album/1ij4uqkqWe8zVHQH4bgHzp"
+        "name": "Broken Words",
+        "url": "https://open.spotify.com/album/0Z0RC0jyicZJDUXtH8goe8"
       },
       "artists": [
         {
-          "name": "Los Victorios",
-          "url": "https://open.spotify.com/artist/0lUm3jq72pD9UrZJN0h0aj"
-        },
-        {
-          "name": "Banda Bast\u00f3n",
-          "url": "https://open.spotify.com/artist/5VP1mX81Z9JJSioPFTYF5a"
+          "name": "Less Than Jake",
+          "url": "https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha"
         }
       ],
-      "duration_ms": 197586,
-      "name": "No Te Olvid\u00e9",
-      "url": "https://open.spotify.com/track/05oVLw37812S2eoTVetosi"
+      "duration_ms": 172003,
+      "name": "Broken Words",
+      "url": "https://open.spotify.com/track/0HPNtnw8qhK0IAQlxMPNjB"
     }
   ],
   "unique_name": "Ska Around The Globe",

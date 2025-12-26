@@ -4,7 +4,7 @@
 
 > Det bästa från svensk & internationell pop.
 
-1,366 songs - 2 day 21 hr 38 min
+1,372 songs - 2 day 21 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Bella Notte](https://open.spotify.com/track/7otGQbrdl9RGn9MEyfxE3M) | [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES) | [Bella Notte](https://open.spotify.com/album/2cr5JLkfWtOGPbbf7sUkyR) | 2:20 | 2025-05-16 | 2025-06-27 |
 | [Berghain](https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Berghain](https://open.spotify.com/album/0avVU24xBfXW7ItE0xtzN2) | 2:58 | 2025-11-03 |  |
 | [Better Days \(feat\. John Mayer\)](https://open.spotify.com/track/1vj47xD8v9wIhQrmQY2Dkv) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Great American Bar Scene](https://open.spotify.com/album/1U0Z7QjSzlg3gMeUOuUldz) | 3:32 | 2024-07-04 | 2024-08-23 |
+| [Bicycle Race](https://open.spotify.com/track/5t0pSNrxjTnBuy5t2YAXFT) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bicycle Race](https://open.spotify.com/album/3YmkB6eb4G3fslN8Q1Z6ls) | 2:35 | 2025-12-25 |  |
 | [Big Daddy](https://open.spotify.com/track/5WcQ5AwCp9mSqpsul6ccx4) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Is A Kingdom](https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c) | 2:46 | 2025-11-20 |  |
 | [Big Girl](https://open.spotify.com/track/2YsXM60MZXGKudblp4UL2Z) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6) | [Big Girl](https://open.spotify.com/album/22KMS4Y8oPVAMdD4XUywkx) | 1:45 | 2025-06-26 | 2025-09-05 |
 | [BIRDS FLY HIGH](https://open.spotify.com/track/63hXKh8T502h6Nkp2fuizM) | [Elias Hurtig](https://open.spotify.com/artist/4FVS2fGhv66N8QLEj77EEP) | [Birds fly high](https://open.spotify.com/album/0JtNg52YdsdeT8WbZs3ZdZ) | 2:43 | 2025-03-13 | 2025-04-11 |
@@ -493,6 +494,7 @@
 | [Henry, come on](https://open.spotify.com/track/6CYldrsUPBsiPtfLW4xZCl) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Henry, come on](https://open.spotify.com/album/0oCEyDEDeBFKxbwEmE9f5e) | 5:11 | 2025-04-10 | 2025-05-23 |
 | [Her vil e vær](https://open.spotify.com/track/1kuBj9IjKtP64mKrHIuBYX) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Her vil e vær](https://open.spotify.com/album/3ksUT0ilC4HVItX51CEHvN) | 2:25 | 2025-03-26 | 2025-05-09 |
 | [Here All Night](https://open.spotify.com/track/1MnYnayoEmTfZTM7GoPJGM) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Here All Night](https://open.spotify.com/album/0caOziV0fbBR8OuU9SDiSS) | 2:56 | 2025-09-11 | 2025-10-17 |
+| [Here For The Party](https://open.spotify.com/track/43zyKoCeEVqoajv7erMfhd) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Here For The Party](https://open.spotify.com/album/6MGCAS368VJy11aVpPEfGx) | 3:29 | 2025-12-25 |  |
 | [Hero](https://open.spotify.com/track/5TTyyKNJZHONhjtAiXL1nG) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Hero](https://open.spotify.com/album/62wSbbJY50qycn9uBP4rIC) | 3:16 | 2024-06-27 | 2024-07-19 |
 | [Heroin](https://open.spotify.com/track/5LkXpdUpSCHOO1yJI5aLbV) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Heroin](https://open.spotify.com/album/4haogKoKcT5t0vGVJkBBY2) | 4:16 | 2025-06-26 | 2025-08-08 |
 | [Hey DJ](https://open.spotify.com/track/0rJdN64e7I7yrUFTSccQIu) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [LIAMOO](https://open.spotify.com/artist/1SU2pMMSbU1hqWyFXp97Br) | [Hey DJ](https://open.spotify.com/album/6twwTuHaqDKqLtu5Oq3JUB) | 2:45 | 2024-10-21 | 2024-12-20 |
@@ -592,6 +594,7 @@
 | [Ingen Vet...](https://open.spotify.com/track/53vPl8xKjPc6AaCLD1XlpH) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [I Rymden Finns Inga Tårar](https://open.spotify.com/album/53vNOMnb7XNn6cM0dyKi3Z) | 3:46 | 2025-10-23 |  |
 | [Inget som gör ont, gör ont 4ever](https://open.spotify.com/track/4iiMwRdEFIbSpxYGYBd8tR) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [Inget som gör ont, gör ont 4ever](https://open.spotify.com/album/7zbhWU2UiQ46184cVsWYat) | 2:28 | 2025-01-17 | 2025-03-07 |
 | [Inget som ändras](https://open.spotify.com/track/6LiZ1HFli2pMZTtWT7JDl9) | [MELVIN](https://open.spotify.com/artist/2eepQKh5byG0hRhmy6U0I4) | [Inget som ändras](https://open.spotify.com/album/0T7S5nRJfHdV4i0yYULoi2) | 2:17 | 2025-01-30 | 2025-03-14 |
+| [Inombords](https://open.spotify.com/track/5QMnvHrkUdJ86rPwZHAkYe) | [Dante](https://open.spotify.com/artist/7HxyLgEfLQQnzrgMvUGVI5) | [Inombords](https://open.spotify.com/album/042ZowqJbaddqs1S1knF8g) | 2:25 | 2025-12-25 |  |
 | [Inte bra i grupp](https://open.spotify.com/track/1cSIHVhP9zdZeEG4qwwIoQ) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Inte bra i grupp](https://open.spotify.com/album/0gLrrKFWzbR8K6692CCLRV) | 2:49 | 2025-04-24 | 2025-06-13 |
 | [Inte idag](https://open.spotify.com/track/5IsHDEv8uqPQxFv5FuDG7O) | [Simon Forslund](https://open.spotify.com/artist/4JnIwJLd03V0aofGGIH5uD) | [Inte idag](https://open.spotify.com/album/7K5PfBccKwBu4SeeGzRP9z) | 2:21 | 2025-03-27 | 2025-04-25 |
 | [Invincible \- from Kaiju No\. 8](https://open.spotify.com/track/2ndG3pjTjbUWaJxFo9dWi8) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Invincible \(from Kaiju No\. 8\)](https://open.spotify.com/album/5x84R5uZh6o8FvlIYhu14p) | 2:35 | 2025-04-17 | 2025-05-23 |
@@ -646,6 +649,7 @@
 | [Klara](https://open.spotify.com/track/0bGNkAnYXjd9V8rMTbctHs) | [Ida\-Lova](https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO) | [Klara](https://open.spotify.com/album/5CNoE336D6RcLoWP0w9h2H) | 3:49 | 2025-08-21 | 2025-10-10 |
 | [Klyschor](https://open.spotify.com/track/48FbJkI4sTkj4jbJGxqv9i) | [Nadja Evelina](https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC) | [Klyschor](https://open.spotify.com/album/2CG51w8OSpena3TWNNNhYd) | 2:33 | 2024-08-09 | 2024-09-13 |
 | [KNIFE](https://open.spotify.com/track/2AnyzmrKLXR61ObSp2LXrT) | [LARA](https://open.spotify.com/artist/0BudKMCTqOhcrPkhL0JkXZ) | [KNIFE](https://open.spotify.com/album/5mYTLQWP7xxn0Ddi2zSt1q) | 2:48 | 2025-07-03 | 2025-08-22 |
+| [Knock Me Out](https://open.spotify.com/track/427Fc7QQyh1hZSEQK729hP) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Knock Me Out](https://open.spotify.com/album/2wfTnbkq30YqUSdu6ZBX9L) | 2:11 | 2025-12-25 |  |
 | [Kolla Bort](https://open.spotify.com/track/6FZ7bRHqyiadQh8KGjCBqV) | [Huset](https://open.spotify.com/artist/4YaJSto4YkRG7BA46X6V54) | [Kolla Bort](https://open.spotify.com/album/3P1XYl7tFNObLFK1y1jOXC) | 2:07 | 2025-11-27 |  |
 | [Kom ihåg mig](https://open.spotify.com/track/67yxmfL9tjrE6IflP8Z74P) | [MELVIN](https://open.spotify.com/artist/2eepQKh5byG0hRhmy6U0I4) | [Kom ihåg mig](https://open.spotify.com/album/3SF7f8EspsQ7KZNd1Jy6CR) | 3:01 | 2025-05-08 | 2025-06-13 |
 | [Komma över dig](https://open.spotify.com/track/3nnq5v3pPs5WUAFL5TqLk9) | [Linus Kajman](https://open.spotify.com/artist/481GuwBdWn7VytCBh3BDjb) | [Slitna Hjärtan](https://open.spotify.com/album/7GZNaSTVttqQPKnqcU0TaM) | 2:34 | 2025-01-09 | 2025-02-21 |
@@ -1046,6 +1050,7 @@
 | [Småstadsdrömmar](https://open.spotify.com/track/4sK5CMrCaN3BpAq1cojtA0) | [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [Småstadsdrömmar](https://open.spotify.com/album/49gFYMZfHnBMVWEeSwqYmI) | 2:56 | 2024-09-13 | 2024-11-23 |
 | [Småstadstar](https://open.spotify.com/track/37Es7SuYcBX45Ef2oRdfg0) | [Rasmus Hultgren](https://open.spotify.com/artist/1iFzVD485mt0a8lp41XqkW) | [Småstadstar](https://open.spotify.com/album/1I9Ny5LzwABngHzBNuXuJG) | 2:46 | 2025-03-27 | 2025-05-02 |
 | [Snow White](https://open.spotify.com/track/45mmAFhB2L79faaul6n8If) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Snow White](https://open.spotify.com/album/0fPlfyidFYMTYn14faHYl9) | 3:13 | 2025-08-07 | 2025-09-19 |
+| [Snyggaste](https://open.spotify.com/track/16NsjDB2F9eP4c0upomZBm) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P) | [Snyggaste](https://open.spotify.com/album/5sIJTqMKzLx7Hchvu0cB3O) | 2:03 | 2025-12-25 |  |
 | [So cool](https://open.spotify.com/track/4OTbRLkWT2kzCyzsoDMbcC) | [Highasakite](https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T), [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [So cool](https://open.spotify.com/album/2FUJFXPzPIpKeSzadgmz6U) | 3:42 | 2025-05-08 | 2025-06-20 |
 | [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:49 | 2025-09-25 |  |
 | [So much worse](https://open.spotify.com/track/53xhoI60X5BE0xYOqsGuiR) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [So much worse](https://open.spotify.com/album/73kvrZB4ck7G1Ka7YZcqyB) | 2:24 | 2025-03-13 | 2025-04-04 |
@@ -1230,6 +1235,7 @@
 | [Told You So](https://open.spotify.com/track/52dEZA0A4siRTuA4e8w3ll) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Jex](https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF) | [Told You So](https://open.spotify.com/album/3peq5CPlvCF11LKMDN4k8H) | 3:07 | 2024-11-21 | 2025-01-31 |
 | [Tom Cruisin'](https://open.spotify.com/track/3um7ZBlvt2VoLICwBYIyx3) | [JUNG](https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO) | [Tom Cruisin'](https://open.spotify.com/album/1pTvDS8e4LoB0l5BaydhDL) | 2:52 | 2025-05-22 | 2025-06-27 |
 | [Tonight](https://open.spotify.com/track/2s6Jh6GmDhAOsSMII07fVs) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Tonight](https://open.spotify.com/album/0aUGNGmARJe9Ch2MGybD7L) | 2:56 | 2025-04-04 | 2025-05-09 |
+| [Tonårsdröm](https://open.spotify.com/track/5CbHWID4ldov0V3sEjvqSU) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp), [Lijam](https://open.spotify.com/artist/0TuWk7DJvWphPrr7w1LtNN) | [Tonårsdröm](https://open.spotify.com/album/0T7h8NPbEAoC6fR8bpwVMJ) | 3:34 | 2025-12-25 |  |
 | [Toscana](https://open.spotify.com/track/7rQxgwpo7sS77Yv0oVYG81) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Toscana](https://open.spotify.com/album/490sRKuNegyMGAe9gPvI1Q) | 2:46 | 2025-06-12 | 2025-08-01 |
 | [Touch Me Like a Gangster](https://open.spotify.com/track/6fYcQVXEuqmyS3HqSZ6rTd) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Touch Me Like a Gangster](https://open.spotify.com/album/5lOPOloxHL7wP2Dp5Wyk2D) | 2:43 | 2025-06-05 | 2025-07-11 |
 | [Tough](https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Tough](https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd) | 3:08 | 2024-07-04 | 2024-08-23 |

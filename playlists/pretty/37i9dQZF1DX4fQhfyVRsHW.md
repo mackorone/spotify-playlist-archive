@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fQhfyVRsHW.md) - [plain]
 
 > Lie back to calm music enhanced with the sounds of nature.
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,003 likes - 115 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,007 likes - 115 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 243 likes - 1,741 songs - 4 day 9 hr 35 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 243 likes - 1,742 songs - 4 day 9 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1749,5 +1749,6 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 1739 | [Toxic](https://open.spotify.com/track/6ID6CXqtis41TK3kt8ogSA) | [BleuShxll](https://open.spotify.com/artist/3uZrhLXR3UZkvDcF3abMz2), [Tenshii](https://open.spotify.com/artist/5regEO6nnwSdWZbNXLk6GB) | [Toxic](https://open.spotify.com/album/0x6NE4BI70zECU0wY4vYTP) | 2:25 |
 | 1740 | [Daughter of Ukraine \(A plea to Heaven\)](https://open.spotify.com/track/5YbPc0RcKGElmURNIJitGi) | [Ana Danch](https://open.spotify.com/artist/32ey5EpTVPAVTRcKVeZ1jf) | [Daughter of Ukraine \(A plea to Heaven\)](https://open.spotify.com/album/0NbjicAcU5t5lkwYvx7jA9) | 3:02 |
 | 1741 | [Split](https://open.spotify.com/track/3D4U2FQsMZ0jJpwnts4BYT) | [Monzarc](https://open.spotify.com/artist/4lmG1YXfns7Fi9VR0DBNeG) | [Split](https://open.spotify.com/album/6utV4kr5ZpWo2iK1Hw9Dqf) | 5:21 |
+| 1742 | [POLE POLE](https://open.spotify.com/track/1slDFbODGFm4ztv7XlysSg) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [POLE POLE](https://open.spotify.com/album/6ZTsDoZzJxI2LBMuFC5zF7) | 2:42 |
 
-Snapshot ID: `AAAHnoZMW6Qmylqcd+1EDR9yv+KDr9Se`
+Snapshot ID: `AAAHn4692HPGMc+wS4CLSxXo7sYiyAf2`

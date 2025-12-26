@@ -2,7 +2,7 @@
 
 ### [Grand Hit](https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM)
 
-> "Tout a changé \(Rien n'a changé\)" d'Helena est le Grand Hit de la semaine.
+> "Melodrama" de disiz & Theodora est le Grand Hit de la semaine.
 
 303 songs - 15 hr 33 min
 

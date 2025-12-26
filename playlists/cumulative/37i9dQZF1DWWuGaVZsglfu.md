@@ -2,7 +2,7 @@
 
 ### [Hot Hits Malaysia](https://open.spotify.com/playlist/37i9dQZF1DWWuGaVZsglfu)
 
-> The best tracks from the world of music\. Cover: Madison Beer
+> The best tracks from the world of music\. Cover: Idgitaf
 
 459 songs - 1 day 2 hr 7 min
 

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 ### [New Music Friday Italia](https://open.spotify.com/playlist/37i9dQZF1DWVKDF4ycOESi)
 
-> Nuovi brani di Nko con Artie 5ive, Capo Plaza e Nerissima Serpe, Kid Yugi, Levante, Mr\. Rain, Anyma e tanti altri.
+> Questa settimana saltiamo, ci sentiamo il 2 gennaio per le migliori nuove uscite delle ultime due settimane 🎧
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,064 likes - 70 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,087 likes - 70 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 69 | [stop pipping boy it's just music](https://open.spotify.com/track/31pdNl590xWGj4qH5SWzuV) | [CORE MATO](https://open.spotify.com/artist/6kKPuf7rsBk0pJnZMxDLkC) | [stop pipping boy it's just music](https://open.spotify.com/album/1961P55z3oCrjAIyh3BHQH) | 2:11 |
 | 70 | [If People Were Drunk](https://open.spotify.com/track/6wzZrdUtrMQTAuRfOuLbmF) | [RUT!](https://open.spotify.com/artist/5b3HclakW5c1V7kAi6yhcf) | [If People Were Drunk](https://open.spotify.com/album/0oOhIUEnD5LQsoPK20SKct) | 4:03 |
 
-Snapshot ID: `AAAAAOvbA1AGZjpvW8LZsSwUVMBf/Mpp`
+Snapshot ID: `AAAAAAKDeEm+wqmM3YjskXWA2nueo5VB`

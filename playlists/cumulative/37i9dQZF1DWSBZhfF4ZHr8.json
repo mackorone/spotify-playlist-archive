@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise avec Lena\u00efg",
+  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise avec Mentissa",
   "name": "Fresh Vari\u00e9t\u00e9",
   "tracks": [
     {
@@ -2316,6 +2316,24 @@
       "duration_ms": 187701,
       "name": "Il suffit d'une chanson",
       "url": "https://open.spotify.com/track/02n2wpQra4DEQZ8DZD27Gp"
+    },
+    {
+      "album": {
+        "name": "ILOVEYOU",
+        "url": "https://open.spotify.com/album/5RVR2QeFxT7876wgwMeLdy"
+      },
+      "artists": [
+        {
+          "name": "Mathilda",
+          "url": "https://open.spotify.com/artist/3G3kiaWiTm0mUdzujLRuji"
+        }
+      ],
+      "date_added": "2025-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231800,
+      "name": "ILOVEYOU",
+      "url": "https://open.spotify.com/track/16HeXrSkgw0drlP91dXsGm"
     },
     {
       "album": {
@@ -5850,7 +5868,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 173364,
       "name": "Restes d'averses - Regretting You Version",
       "url": "https://open.spotify.com/track/0unmCsoTMN5pVdIrZYUWc9"

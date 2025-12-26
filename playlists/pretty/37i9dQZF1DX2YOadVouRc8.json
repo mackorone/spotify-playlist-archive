@@ -1,6 +1,6 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 43098,
+  "num_followers": 43117,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
@@ -504,13 +504,13 @@
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         },
         {
-          "name": "Ana\u00efs Cardot",
-          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 205373,
-      "name": "Slow (feat. Ana\u00efs Cardot)",
-      "url": "https://open.spotify.com/track/3fGdbjANHhuAhNo0f4POgw"
+      "duration_ms": 174253,
+      "name": "Bad Girl (feat. Asake)",
+      "url": "https://open.spotify.com/track/2j8n2hpZlEMvtrjJ7n0ZIy"
     },
     {
       "added_at": "2025-12-19 00:01:13",
@@ -608,13 +608,13 @@
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         },
         {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+          "name": "Ana\u00efs Cardot",
+          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
         }
       ],
-      "duration_ms": 174253,
-      "name": "Bad Girl (feat. Asake)",
-      "url": "https://open.spotify.com/track/2j8n2hpZlEMvtrjJ7n0ZIy"
+      "duration_ms": 205373,
+      "name": "Slow (feat. Ana\u00efs Cardot)",
+      "url": "https://open.spotify.com/track/3fGdbjANHhuAhNo0f4POgw"
     },
     {
       "added_at": "2025-12-19 00:01:13",
@@ -763,6 +763,26 @@
     {
       "added_at": "2025-12-19 00:01:13",
       "album": {
+        "name": "Xin Mao",
+        "url": "https://open.spotify.com/album/2xBdv4TVpVXG9U8K3om1WQ"
+      },
+      "artists": [
+        {
+          "name": "Tml Vibez",
+          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
+        },
+        {
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+        }
+      ],
+      "duration_ms": 143882,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/4Tgt15dD8P2m68HYxA8DCG"
+    },
+    {
+      "added_at": "2025-12-19 00:01:13",
+      "album": {
         "name": "PAY ME",
         "url": "https://open.spotify.com/album/45wQwX3pVjJtMAEvwEglf5"
       },
@@ -787,22 +807,18 @@
     {
       "added_at": "2025-12-19 00:01:13",
       "album": {
-        "name": "Xin Mao",
-        "url": "https://open.spotify.com/album/2xBdv4TVpVXG9U8K3om1WQ"
+        "name": "CAPTAIN",
+        "url": "https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT"
       },
       "artists": [
         {
-          "name": "Tml Vibez",
-          "url": "https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL"
-        },
-        {
-          "name": "Lasmid",
-          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 143882,
-      "name": "Maria",
-      "url": "https://open.spotify.com/track/4Tgt15dD8P2m68HYxA8DCG"
+      "duration_ms": 201874,
+      "name": "Captain",
+      "url": "https://open.spotify.com/track/51yPymXsGbEyh7InU6yRJP"
     },
     {
       "added_at": "2025-12-19 00:01:13",
@@ -823,22 +839,6 @@
       "duration_ms": 157000,
       "name": "Broken Souls",
       "url": "https://open.spotify.com/track/2oVzb93uUGTqWSOCNdRb9v"
-    },
-    {
-      "added_at": "2025-12-19 00:01:13",
-      "album": {
-        "name": "CAPTAIN",
-        "url": "https://open.spotify.com/album/5jqvO2VFTZ4n5MlE393wwT"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 201874,
-      "name": "Captain",
-      "url": "https://open.spotify.com/track/51yPymXsGbEyh7InU6yRJP"
     },
     {
       "added_at": "2025-12-19 00:01:13",
@@ -915,6 +915,22 @@
     {
       "added_at": "2025-12-19 00:01:13",
       "album": {
+        "name": "Loseyi Professor",
+        "url": "https://open.spotify.com/album/38tvoGnBsZNd8FJg2YsCT4"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 145002,
+      "name": "Lagos",
+      "url": "https://open.spotify.com/track/0YgAGCU3kDEMTvndL9u3Tw"
+    },
+    {
+      "added_at": "2025-12-19 00:01:13",
+      "album": {
         "name": "Arike (Remix)",
         "url": "https://open.spotify.com/album/4cbzmkoVpf6oNpJW6sQFe3"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 146823,
       "name": "Arike - Remix",
       "url": "https://open.spotify.com/track/2TDNamLQbpOrzWM0zN7vA1"
-    },
-    {
-      "added_at": "2025-12-19 00:01:13",
-      "album": {
-        "name": "Loseyi Professor",
-        "url": "https://open.spotify.com/album/38tvoGnBsZNd8FJg2YsCT4"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 145002,
-      "name": "Lagos",
-      "url": "https://open.spotify.com/track/0YgAGCU3kDEMTvndL9u3Tw"
     },
     {
       "added_at": "2025-12-19 00:01:13",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2025-12-19 00:01:13",
       "album": {
-        "name": "Mwah!",
-        "url": "https://open.spotify.com/album/2nACbWmfy1aPjwFXexphvQ"
-      },
-      "artists": [
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        },
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Mwah!",
-      "url": "https://open.spotify.com/track/3kea45Zl41BwV83RxCxBbw"
-    },
-    {
-      "added_at": "2025-12-19 00:01:13",
-      "album": {
         "name": "Day n Nite",
         "url": "https://open.spotify.com/album/7GEMtBbc8egUdp071tDK0J"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 142204,
       "name": "Day n Nite",
       "url": "https://open.spotify.com/track/3oaXyruQamiow70ZPkLzx1"
+    },
+    {
+      "added_at": "2025-12-19 00:01:13",
+      "album": {
+        "name": "Mwah!",
+        "url": "https://open.spotify.com/album/2nACbWmfy1aPjwFXexphvQ"
+      },
+      "artists": [
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        },
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Mwah!",
+      "url": "https://open.spotify.com/track/3kea45Zl41BwV83RxCxBbw"
     },
     {
       "added_at": "2025-12-19 00:01:13",

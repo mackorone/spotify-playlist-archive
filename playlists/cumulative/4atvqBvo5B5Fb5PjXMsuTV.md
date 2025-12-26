@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 24 Dec 19:04 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 26 Dec 04:04 UTC.
 
-5,962 songs - 13 day 19 hr 30 min
+5,964 songs - 13 day 19 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2057,7 +2057,7 @@
 | [Glib Tongued](https://open.spotify.com/track/4rSyP1AMJsQAmdZZqTDuj3) | [Pigs Pigs Pigs Pigs Pigs Pigs Pigs](https://open.spotify.com/artist/1F7QDWyZTLGzkyGLgFjEhU), [El\-P](https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl) | [Glib Tongued](https://open.spotify.com/album/1B23ckEpfx5i1Yjvnbrx8y) | 3:43 | 2025-03-21 | 2025-03-29 |
 | [Glimpse](https://open.spotify.com/track/0aGJkwtYb5DAJjpIAZ8lmZ) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [Glimpse](https://open.spotify.com/album/4hsNAPEzpwXvXM8IzpEtmm) | 3:16 | 2024-09-04 | 2024-09-07 |
 | [Glitching](https://open.spotify.com/track/5WuxCmAJkrjEAiJ8Xx3SAq) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ) | [Glitching](https://open.spotify.com/album/56EX2Cl8KMPyG3QfCuRKPO) | 2:11 | 2024-12-13 | 2024-12-20 |
-| [Glitter](https://open.spotify.com/track/0y9S3dw1MBzHqmTpMTTd0M) | [Eli](https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1) | [Glitter](https://open.spotify.com/album/3ISicmxJuaKEZEbKDJuOdo) | 3:11 | 2025-12-06 |  |
+| [Glitter](https://open.spotify.com/track/0y9S3dw1MBzHqmTpMTTd0M) | [Eli](https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1) | [Glitter](https://open.spotify.com/album/3ISicmxJuaKEZEbKDJuOdo) | 3:11 | 2025-12-06 | 2025-12-26 |
 | [Glluu](https://open.spotify.com/track/6T9wVKTbhacabgV2JvUbAS) | [Joyer](https://open.spotify.com/artist/6h4r9Vtm0iLRTFyJrj6zcF) | [Glluu](https://open.spotify.com/album/7synljnrjovVoHz2eIGtzj) | 2:58 | 2024-09-26 | 2024-09-28 |
 | [Glory](https://open.spotify.com/track/3mtEW49yCwrQCpmmpJRSMe) | [The Airborne Toxic Event](https://open.spotify.com/artist/7xovAENFxmyEWhzbnHsB3Z) | [Glory](https://open.spotify.com/album/4nipWjYgC5U5OduxOHQt4s) | 5:42 | 2024-07-16 | 2024-07-18 |
 | [GLUCOSIO](https://open.spotify.com/track/1p8MB2SHv5RgUPvvCy8Ah3) | [Low\-Red](https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N), [Pherro](https://open.spotify.com/artist/0GxUrQrSthXbfwGGw9QKDh) | [GLUCOSIO](https://open.spotify.com/album/6naDNHLuFN4lW0BiXsj4ZD) | 2:42 | 2024-09-11 | 2024-09-14 |
@@ -2260,6 +2260,7 @@
 | [HEAT ME UP](https://open.spotify.com/track/0ZI1XuZlawgTXIvo9nle6l) | [Boston Manor](https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM) | [HEAT ME UP](https://open.spotify.com/album/71aOtUp6xHip01jrsaYLCt) | 3:45 | 2024-05-23 | 2024-05-25 |
 | [HEAT STICK](https://open.spotify.com/track/0HGItm7Ox9AnHZbx26nkE4) | [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb) | [HEAT STICK](https://open.spotify.com/album/6H2ObAyZHuAoj45tYexC1w) | 2:17 | 2024-05-12 | 2024-05-15 |
 | [Heathen](https://open.spotify.com/track/5uN7Ib0AHzxUwalc4fctfW) | [Deafheaven](https://open.spotify.com/artist/4XpPveeg7RuYS3CgLo75t9) | [Heathen](https://open.spotify.com/album/2WmnLCVyKUvEGWRtrBuIsE) | 5:02 | 2025-02-25 | 2025-03-05 |
+| [Heatseeker](https://open.spotify.com/track/4P4fiSeJol4XTq5yGTo2Fs) | [Creo](https://open.spotify.com/artist/7oh6gwRCYhambO8qcKh3T1) | [Heatseeker](https://open.spotify.com/album/51lJnN3mM25T589JrbEt5z) | 3:25 | 2025-12-26 |  |
 | [Heatstroke](https://open.spotify.com/track/1Bs8WpjQ8s2QE9jgh27fUB) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Heatstroke](https://open.spotify.com/album/0K1FyZLvPpqJPofQukKbhL) | 3:54 | 2024-08-01 | 2024-08-03 |
 | [Heaven](https://open.spotify.com/track/5JcTFymotnR2xQUe4nZuQn) | [Olivia Marsh](https://open.spotify.com/artist/18F9xpCQ8GFkKP12gonZnq) | [First December with You](https://open.spotify.com/album/0D6qtfGRCa4IrVhmXDG4WP) | 2:35 | 2024-12-03 | 2024-12-06 |
 | [Heaven Feels Like](https://open.spotify.com/track/0nSxiyRH74IpDiVdYLVjsv) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO) | [Heaven Feels Like](https://open.spotify.com/album/6b9FZARXpkujci1C3uzozn) | 3:23 | 2024-11-08 | 2024-11-13 |
@@ -4377,6 +4378,7 @@
 | [Saraiman](https://open.spotify.com/track/79O1Cgf7etB3qAB7Qde5rN) | [Ladaniva](https://open.spotify.com/artist/6nt7tWnBx4NqnXKO6vEByU) | [Saraiman](https://open.spotify.com/album/07N3hzOAgBnFB9N8BEZqaW) | 4:12 | 2024-06-06 | 2024-06-10 |
 | [Satanized](https://open.spotify.com/track/5yt7aRlPMFdsLulfqBYDsc) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Satanized](https://open.spotify.com/album/1iIObYoApKb4DE2rr8PdBX) | 3:56 | 2025-03-05 | 2025-03-16 |
 | [SATIROLOGÍA](https://open.spotify.com/track/3l6CjeIBGZuoCxNS88APlI) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Dysbit](https://open.spotify.com/artist/2WcCTeyPFxpiGwlntz0X2V) | [SATIROLOGÍA](https://open.spotify.com/album/2Lf8I2Wbfk8OLxslZtH9ya) | 2:34 | 2024-11-08 | 2024-11-09 |
+| [Saucin'](https://open.spotify.com/track/7jVr1ZipYJJR4qHxZcQjqa) | [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [Saucin'](https://open.spotify.com/album/5y364Kj24BuuitP830bMnM) | 2:53 | 2025-12-25 |  |
 | [Saudade Dos Aviões Da Panair \(Conversando No Bar\) \[Feat\. Maria Gadu, Lianne La Havas, Tim Bernardes\]](https://open.spotify.com/track/55J4oeEuPKa5tHu4qBGR1A) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM), [Esperanza Spalding](https://open.spotify.com/artist/5bepW5vcdRzheNc0F8lHJ5), [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt), [Maria Gadú](https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH), [Tim Bernardes](https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4), [Lula Galvão](https://open.spotify.com/artist/1fjf6ys7DWMxBlHVVT8HTs) | [Saudade Dos Aviões Da Panair \(Conversando No Bar\)](https://open.spotify.com/album/4QJCD7DW0AEzBr6FWe2E8d) | 5:24 | 2024-07-17 | 2024-07-19 |
 | [SavageMode2tm](https://open.spotify.com/track/6n0bwAT8K2lFymD693OVoz) | [CHRIST DILLINGER](https://open.spotify.com/artist/5wtRHmD5xeAYuwxiteR5t3), [Dj Smokey](https://open.spotify.com/artist/6o5wSBDuLpn2vRpPvGuGBy), [Varg²™](https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy) | [SavageMode2tm](https://open.spotify.com/album/0dEUWF62t0Rm5qqBQ5pXr6) | 4:02 | 2024-09-26 | 2024-09-28 |
 | [Save Me](https://open.spotify.com/track/0Rt3LyjjLDpq4nDSG6OTje) | [BAK Jay](https://open.spotify.com/artist/7L2tttKztwzcNqrKUiEbZR) | [Save Me](https://open.spotify.com/album/3yCGRA8IuVkeH0JcMIUdQa) | 1:57 | 2024-12-20 | 2024-12-22 |
@@ -4870,7 +4872,7 @@
 | [Super Mario](https://open.spotify.com/track/6o6URvJir7O3TnTNCoHa3v) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Antt Beatz](https://open.spotify.com/artist/3HySPBanVbKZsn6bOZSZl8) | [Super Mario](https://open.spotify.com/album/1OufXSCK5kGhOAhHbPEbOy) | 2:31 | 2024-09-06 | 2024-09-10 |
 | [Superfan](https://open.spotify.com/track/4DM5CmW7odKbUlMDAQC1ci) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Superfan](https://open.spotify.com/album/3dHWsC1UPlK52bUS4sVlKV) | 4:28 | 2024-10-24 | 2024-10-26 |
 | [Superhero](https://open.spotify.com/track/0Vtm21YdvqxfulouRscKMe) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Superhero](https://open.spotify.com/album/7FLdGnt4EzsnlCK2ukzccr) | 3:18 | 2025-10-10 | 2025-10-23 |
-| [Superluminal](https://open.spotify.com/track/4DGpTIyJgbxL5k3Ka5GqOe) | [Au5](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF) | [Superluminal](https://open.spotify.com/album/6FPhibUXT8Y0f6RwfKJUII) | 5:28 | 2025-12-12 |  |
+| [Superluminal](https://open.spotify.com/track/4DGpTIyJgbxL5k3Ka5GqOe) | [Au5](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF) | [Superluminal](https://open.spotify.com/album/6FPhibUXT8Y0f6RwfKJUII) | 5:28 | 2025-12-12 | 2025-12-26 |
 | [Superman](https://open.spotify.com/track/1KMKBWBQEB0wdGlV7WR6JV) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Superman](https://open.spotify.com/album/50FjwV4STrHP5aHLRAye4P) | 3:08 | 2025-05-09 | 2025-05-21 |
 | [supernatural](https://open.spotify.com/track/5Tfrr45yeatPJJts3NkOBS) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [supernatural](https://open.spotify.com/album/4FuGDyTBy2UQFdkpfJgGK3) | 2:43 | 2025-09-04 | 2025-09-13 |
 | [Supernatural](https://open.spotify.com/track/5ocSQW5sIUIOFojwXEz9Ki) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Supernatural](https://open.spotify.com/album/1FVw30SoC91lq1UZ6N9rwN) | 3:11 | 2024-06-21 | 2024-06-25 |

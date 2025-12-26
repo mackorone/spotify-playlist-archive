@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cnHWmJPGJa.md) - [plain]
 
 > Glasgow's finest\. Here we, here we..\. Cover: SOPHIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,862 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,863 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,13 +44,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cnHWmJPGJa.md) - [plain]
 | 34 | [Just a Boy](https://open.spotify.com/track/4DE6FDlw291rYfEDB4OI9v) | [Ben Walker](https://open.spotify.com/artist/6M5nTM4FiScPKeu8sO3RS4) | [Just a Boy](https://open.spotify.com/album/405O410ynvYxME5MzhHtov) | 3:19 |
 | 35 | [Gloria](https://open.spotify.com/track/035nLKzJfA7tGQwIwI6TjZ) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Gloria](https://open.spotify.com/album/16dYCNfeucSYqiqd29t2yC) | 2:32 |
 | 36 | [See Through You](https://open.spotify.com/track/6L4L6bQPHojlmwBZQLQZjc) | [Spyres](https://open.spotify.com/artist/0gu9FiIFp32jTZSCRhdqFO) | [See Through You](https://open.spotify.com/album/5DICM3yTTzXEXLMywaT4Qf) | 3:44 |
-| 37 | [BORED](https://open.spotify.com/track/2npxF2SvUP0GNLpqgY0Hn1) | [swim school](https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F) | [BORED](https://open.spotify.com/album/5HYHaoxTH6iM4RqdVW0rsX) | 3:26 |
-| 38 | [Wandering Eyes](https://open.spotify.com/track/5BTXTJdnCFb4nllA3eUxkU) | [Alex Amor](https://open.spotify.com/artist/5Zyv8W3WkYfo1PTbVBBHs0) | [Wandering Eyes](https://open.spotify.com/album/0KeJhiswMeRNibCfFlg1sY) | 2:48 |
+| 37 | [Like The First Time](https://open.spotify.com/track/18maIOvJtWoZWOrLZpBRJc) | [Alex Amor](https://open.spotify.com/artist/5Zyv8W3WkYfo1PTbVBBHs0) | [Like The First Time](https://open.spotify.com/album/2YJBdg5dZmjmG30Cl96Cux) | 3:06 |
+| 38 | [BORED](https://open.spotify.com/track/2npxF2SvUP0GNLpqgY0Hn1) | [swim school](https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F) | [BORED](https://open.spotify.com/album/5HYHaoxTH6iM4RqdVW0rsX) | 3:26 |
 | 39 | [Don't Have To Be Jolly](https://open.spotify.com/track/2KNSoy1hq0OCK4Y2cTOxIy) | [Cara Rose](https://open.spotify.com/artist/3sFRw2rNSs7K5ZS842Idr5) | [Don't Have To Be Jolly](https://open.spotify.com/album/1fhNMJGIOOOgd4Uwyb9GxB) | 2:41 |
 | 40 | [Yesterday Is Gone](https://open.spotify.com/track/2zqJ9cdRBzMtt1hra7e2By) | [Dylan John Thomas](https://open.spotify.com/artist/3cyAuWiMIGwIeimE82NFKb) | [Yesterday Is Gone](https://open.spotify.com/album/2X9mXlp0wSzd3R5YnlozKo) | 3:16 |
 | 41 | [MERCY KILL](https://open.spotify.com/track/2vX1GxoaaomoYsbRy5VjK6) | [VUKOVI](https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt) | [MERCY KILL](https://open.spotify.com/album/0XzfAfWHhZlL7WSL6acUnx) | 3:06 |
 | 42 | [Community Service](https://open.spotify.com/track/2LJru2jR7vQmrwRHLkBW0W) | [Bottle Rockets](https://open.spotify.com/artist/1bFphh6DSkuYX0mjTxAxgK) | [Community Service](https://open.spotify.com/album/410cnKn5jGXU19ifHrwnVX) | 2:57 |
-| 43 | [Like The First Time](https://open.spotify.com/track/18maIOvJtWoZWOrLZpBRJc) | [Alex Amor](https://open.spotify.com/artist/5Zyv8W3WkYfo1PTbVBBHs0) | [Like The First Time](https://open.spotify.com/album/2YJBdg5dZmjmG30Cl96Cux) | 3:06 |
+| 43 | [Wandering Eyes](https://open.spotify.com/track/5BTXTJdnCFb4nllA3eUxkU) | [Alex Amor](https://open.spotify.com/artist/5Zyv8W3WkYfo1PTbVBBHs0) | [Wandering Eyes](https://open.spotify.com/album/0KeJhiswMeRNibCfFlg1sY) | 2:48 |
 | 44 | [The Thing](https://open.spotify.com/track/41ugiY9z17eniXjCkeFPCj) | [Spyres](https://open.spotify.com/artist/0gu9FiIFp32jTZSCRhdqFO) | [The Thing](https://open.spotify.com/album/7jwHvXTWFpBTgAou7Ut4vL) | 3:16 |
 | 45 | [Borderline](https://open.spotify.com/track/2AtRf8f0k39BnN9EblaC2Q) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Permanent Damage](https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF) | 3:34 |
 | 46 | [Burn the Empire](https://open.spotify.com/track/48DUNYVEDqSI2hrJtpRnmO) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Burn The Empire](https://open.spotify.com/album/6BgkyzQB8gTalZfDJrxluD) | 3:07 |

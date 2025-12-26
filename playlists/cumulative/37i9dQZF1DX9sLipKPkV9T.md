@@ -4,7 +4,7 @@
 
 > כל הפופ היפה והמרגש של ישראל\. קאבר: מארינה מקסימיליאן
 
-522 songs - 1 day 3 hr 29 min
+524 songs - 1 day 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,6 +330,7 @@
 | [להרים](https://open.spotify.com/track/38F5Qet7NykRGvr3C7KDJR) | [Static](https://open.spotify.com/artist/5Ea0d3mUECVaMf8h2DTehE) | [להרים](https://open.spotify.com/album/5d2zNtTFTHLMOmSZw3SFCC) | 2:15 | 2024-06-27 | 2024-08-23 |
 | [להתחתן איתי](https://open.spotify.com/track/1YgeLm7V5s6BlIrALkqDjj) | [שחר טבוך](https://open.spotify.com/artist/3uwJWwjkS3wKPICQ2ZztuC), [נועם קלינשטיין](https://open.spotify.com/artist/0fApsdhIzCLZQh7hZShlqV) | [להתחתן איתי](https://open.spotify.com/album/0j28xwE1gMIBRsDHGlVK9u) | 2:46 | 2025-04-24 | 2025-09-05 |
 | [להתלכלך](https://open.spotify.com/track/5Jo7vNGqXc4voPeMtnktTn) | [Udi Schneider](https://open.spotify.com/artist/5DEX9UqXj4FoYCv8mZQDjy) | [להתלכלך](https://open.spotify.com/album/7exn4zeDVc7wJx8aMZMGfE) | 2:57 | 2025-05-08 | 2025-08-22 |
+| [לו היה לי מה לומר](https://open.spotify.com/track/0tzU9zcbeloXDhKCSLT5go) | [Danny Sanderson](https://open.spotify.com/artist/0OfuapV80g1NlUKppYoArt) | [לו היה לי מה לומר](https://open.spotify.com/album/0N4Qhekh1SrvXS4ThNb0GA) | 2:44 | 2025-12-25 |  |
 | [לו רק היית](https://open.spotify.com/track/3YfySAj2gKMqW9kHn0m1yX) | [ניב דמירל](https://open.spotify.com/artist/1ecWGP0ecxDqri9Tt3KJ7p) | [לו רק היית](https://open.spotify.com/album/7Graitm9cC8uWiADh0qOes) | 2:43 | 2025-09-18 | 2025-10-24 |
 | [לופ](https://open.spotify.com/track/1ChZJDdEU5tR4ZrLeuDh5u) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [לופ](https://open.spotify.com/album/4uWf4XvMwY5r4SQo3IVm2L) | 2:43 | 2024-09-19 | 2025-01-31 |
 | [לופ](https://open.spotify.com/track/0yKwwFduTIFlNOGBgovLfl) | [אור כהן](https://open.spotify.com/artist/34yY1pp0GMv8sXqsaAHsBy) | [לופ](https://open.spotify.com/album/7BJdpfmJwWVKB1e2BcrobL) | 3:00 | 2024-07-11 | 2024-09-21 |
@@ -420,6 +421,7 @@
 | [סופרמן](https://open.spotify.com/track/0KMZESyaad48QMOmg6cYuy) | [Idan Amedi](https://open.spotify.com/artist/6Kwkb16geAot0de45IW9Ox) | [סופרמן](https://open.spotify.com/album/4PcXH3yBhSLIYupPPOyRQ8) | 4:48 | 2024-12-19 | 2025-04-11 |
 | [סופרסטאר](https://open.spotify.com/track/6KbB0J1i6BnicY11kPMCUb) | [שחר טבוך](https://open.spotify.com/artist/3uwJWwjkS3wKPICQ2ZztuC) | [סופרסטאר](https://open.spotify.com/album/2PIm0frsej1MxfES2M3rhH) | 2:24 | 2024-11-21 | 2025-02-14 |
 | [סורי](https://open.spotify.com/track/2zlmnlpI2DKSvKAV9tITaA) | [Eliad](https://open.spotify.com/artist/3F78m0H4Y4a1Dvd79TKVvw) | [סורי](https://open.spotify.com/album/3V8jNlMHrAFvWCoByUfM1b) | 2:41 | 2025-03-06 | 2025-06-06 |
+| [סטרפלס](https://open.spotify.com/track/3YkOZsUxu2Qhnpnk9UUmTX) | [רביב כנר](https://open.spotify.com/artist/5p205uKfxztlzI3oD15AKf) | [סטרפלס](https://open.spotify.com/album/5AtslWxvw2u7nMDCUQpaq3) | 3:08 | 2025-12-25 |  |
 | [סיבה להמשיך](https://open.spotify.com/track/2mT8XmPzfQ4TuWNUgLcjgR) | [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv), [אבנר טואג](https://open.spotify.com/artist/6O8I8ytHHfWxU2x3yX2p3H) | [סיבה להמשיך](https://open.spotify.com/album/3vlqdMupazRdXbkBoFhVbR) | 2:59 | 2025-01-30 | 2025-02-28 |
 | [סיגליה](https://open.spotify.com/track/5DHTJaHXTpBLkWXFoqcCU9) | [Arkadi Duchin](https://open.spotify.com/artist/2BXgz17FVSKfMin4uJDtYM) | [סיגליה](https://open.spotify.com/album/2FqhjCGQgxCgYqqhTHTF9i) | 3:04 | 2025-08-07 | 2025-10-31 |
 | [סימני דרך](https://open.spotify.com/track/2TDC45f5lK7QIN5K5zhI2C) | [חנן בן ארי](https://open.spotify.com/artist/343YYaA5MSjiZZ5cGyTr4u) | [סימני דרך](https://open.spotify.com/album/2R5s8YSeJVVvJCrxddTyBe) | 2:17 | 2025-09-25 | 2025-12-19 |

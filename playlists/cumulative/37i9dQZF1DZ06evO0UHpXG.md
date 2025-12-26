@@ -4,7 +4,7 @@
 
 > This is Motörhead\. The essential tracks, all in one playlist.
 
-128 songs - 7 hr 47 min
+129 songs - 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Be My Baby](https://open.spotify.com/track/0EXoM6WD1gWVDB6Y2kRH2f) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Kiss of Death](https://open.spotify.com/album/4syGSCBIzJWYQB15Msvn1y) | 3:40 | 2022-12-30 | 2023-11-11 |
 | [Bomber](https://open.spotify.com/track/1I4el8B1ZZKF3OGzmXDH9T) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bomber \(Expanded Edition\)](https://open.spotify.com/album/1OVYzABapDJ7aZGfBLY22F) | 3:40 | 2022-12-30 | 2023-12-14 |
 | [Bomber](https://open.spotify.com/track/5YxehSAZjBMcCIUlxGPit9) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bomber](https://open.spotify.com/album/0WVRXw04iy4QN2EnmXx11I) | 3:40 | 2023-12-13 |  |
-| [Born To Raise Hell](https://open.spotify.com/track/7Ei4LhQ8BeTfjsPY7FINZS) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bastards](https://open.spotify.com/album/0mtmu4b5dw2dYlrAyjGQa7) | 4:59 | 2022-12-30 |  |
+| [Born To Raise Hell](https://open.spotify.com/track/7Ei4LhQ8BeTfjsPY7FINZS) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bastards](https://open.spotify.com/album/0mtmu4b5dw2dYlrAyjGQa7) | 4:59 | 2022-12-30 | 2025-12-26 |
+| [Born to Raise Hell \- feat\. Whitfield Crane \- Lemmy's 50th Birthday, Live at Whisky a Go Go, West Hollywood, 1995](https://open.spotify.com/track/6qsgnhFqjQ1GLn5yjZuTfM) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M), [Whitfield Crane](https://open.spotify.com/artist/6HU4fyvpYAfNwdzCDGmSnz) | [The Löst Tapes, Vol\. 7 \(Lemmy's 50th Birthday, Live in West Hollywood, 1995\)](https://open.spotify.com/album/61EukiCvHkfOWHaM8hglJx) | 5:35 | 2025-12-26 |  |
 | [Brotherhood Of Man](https://open.spotify.com/track/0hubXoyvsuxkq3UA2tfSeG) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [The World Is Yours](https://open.spotify.com/album/3w6OQUsrAPQsPUC1fBkdv6) | 5:15 | 2022-12-30 |  |
 | [Bullet In Your Brain](https://open.spotify.com/track/4TDdlKWf59N0wqBTipYzcJ) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bullet In Your Brain](https://open.spotify.com/album/3yn75PrdYZssPvj8kwKpN4) | 3:17 | 2022-12-30 | 2023-05-06 |
 | [Burner](https://open.spotify.com/track/4tNx0zCy4Ujs7b5IufkjQb) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bastards](https://open.spotify.com/album/0mtmu4b5dw2dYlrAyjGQa7) | 2:54 | 2022-12-30 | 2024-11-15 |

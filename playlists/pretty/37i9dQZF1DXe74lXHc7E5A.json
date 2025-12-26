@@ -1,6 +1,6 @@
 {
   "description": "Hip Hop and Rap songs guaranteed to get you hyped. Cover: 21 Savage",
-  "num_followers": 42052,
+  "num_followers": 42058,
   "original_name": "Hype List",
   "owner": {
     "name": "Spotify",
@@ -307,6 +307,22 @@
     {
       "added_at": "2025-12-12 00:01:28",
       "album": {
+        "name": "The Villain I Never Was",
+        "url": "https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 161699,
+      "name": "Konongo Zongo",
+      "url": "https://open.spotify.com/track/3F6xtKBO2YixpP8lFJTiGo"
+    },
+    {
+      "added_at": "2025-12-12 00:01:28",
+      "album": {
         "name": "We're All Alone In This Together",
         "url": "https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 204373,
       "name": "Lazarus (feat. Boj)",
       "url": "https://open.spotify.com/track/4wvnXoQqjIOoEis5eyTbCl"
-    },
-    {
-      "added_at": "2025-12-12 00:01:28",
-      "album": {
-        "name": "The Villain I Never Was",
-        "url": "https://open.spotify.com/album/7mnGUuvsSbUHZdKkJYdmOg"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 161699,
-      "name": "Konongo Zongo",
-      "url": "https://open.spotify.com/track/3F6xtKBO2YixpP8lFJTiGo"
     },
     {
       "added_at": "2025-12-12 00:01:28",
@@ -835,6 +835,22 @@
     {
       "added_at": "2025-12-12 00:01:28",
       "album": {
+        "name": "Touch My Blood",
+        "url": "https://open.spotify.com/album/1cCpD6ImDJDP1nrsZVhV7O"
+      },
+      "artists": [
+        {
+          "name": "AKA",
+          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
+        }
+      ],
+      "duration_ms": 328085,
+      "name": "Fela In Versace",
+      "url": "https://open.spotify.com/track/4VmIqdbPsBUMAxCf2nnLD3"
+    },
+    {
+      "added_at": "2025-12-12 00:01:28",
+      "album": {
         "name": "Afrikan Alien",
         "url": "https://open.spotify.com/album/5eG18IPEzrhgGIkn1az3ct"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 181600,
       "name": "Big Smile (Pose For Me) [feat. ODUMODUBLVCK]",
       "url": "https://open.spotify.com/track/70kzTb35rANBc5TRvX2OH6"
-    },
-    {
-      "added_at": "2025-12-12 00:01:28",
-      "album": {
-        "name": "Touch My Blood",
-        "url": "https://open.spotify.com/album/1cCpD6ImDJDP1nrsZVhV7O"
-      },
-      "artists": [
-        {
-          "name": "AKA",
-          "url": "https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX"
-        }
-      ],
-      "duration_ms": 328085,
-      "name": "Fela In Versace",
-      "url": "https://open.spotify.com/track/4VmIqdbPsBUMAxCf2nnLD3"
     },
     {
       "added_at": "2025-12-12 00:01:28",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2025-12-12 00:01:28",
       "album": {
-        "name": "No Sign of Weakness",
-        "url": "https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 175935,
-      "name": "No Sign of Weakness",
-      "url": "https://open.spotify.com/track/2hZSwKDJFiTnxnvObgiQuB"
-    },
-    {
-      "added_at": "2025-12-12 00:01:28",
-      "album": {
         "name": "PICANTO",
         "url": "https://open.spotify.com/album/02rMmHXgJwTxkulqSrcgJc"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 184077,
       "name": "PICANTO",
       "url": "https://open.spotify.com/track/32R7SBDSQmhDM4qUgzTc6z"
+    },
+    {
+      "added_at": "2025-12-12 00:01:28",
+      "album": {
+        "name": "No Sign of Weakness",
+        "url": "https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 175935,
+      "name": "No Sign of Weakness",
+      "url": "https://open.spotify.com/track/2hZSwKDJFiTnxnvObgiQuB"
     },
     {
       "added_at": "2025-12-12 00:01:28",

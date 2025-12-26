@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Hottest Anime hits & best new tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,548,644 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,548,577 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 97 | [FLOOR KILLER](https://open.spotify.com/track/06yl8aXO4iFjn7ZSBfJgvA) | [梅田サイファー](https://open.spotify.com/artist/6jGXROxZ2l5mTSyfVqjLn2), [Cosaqu](https://open.spotify.com/artist/44ZQx3QiQvIGWhspW2PJwZ), [KennyDoes](https://open.spotify.com/artist/0bPWFJWNIvStegSnt43THc), [TAKE\-M](https://open.spotify.com/artist/2MyIIGdQqHZBcKt9PoG0QL), [peko](https://open.spotify.com/artist/4FXJy6E3hz7rbsdoKnKtLg), [KOPERU](https://open.spotify.com/artist/4Bt4T2lyR5VbORTf9qCrp7) | [FLOOR KILLER](https://open.spotify.com/album/768ehJ52yeXVWGqxbUOZ5a) | 3:04 |
 | 98 | [Stare In Wonder](https://open.spotify.com/track/2STK9x4KfYyeC82zsdJ2WM) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Stare In Wonder](https://open.spotify.com/album/34Y0UOwoUZNrGlafpg7d4D) | 3:17 |
 | 99 | [I don't wanna feel this way \(feat\. Michael Yano a.k.a ARK, RIKKI\)](https://open.spotify.com/track/4GJ7sFTUZYn9WGpCApwiXq) | [URU](https://open.spotify.com/artist/2XENk2OkUeFXAauXbG5Wdt), [Michael Yano a.k.a ARK](https://open.spotify.com/artist/77rs3TKerd4gJB7XFLstqV), [RIKKI](https://open.spotify.com/artist/6qistEZBgGBM3KXmLX1qYZ) | [I don't wanna feel this way \(feat\. Michael Yano a.k.a ARK, RIKKI\)](https://open.spotify.com/album/5TIaZIcw0Xv6L3dSHZw2o6) | 3:17 |
-| 100 | [Kawaii☆Wake Up!](https://open.spotify.com/track/2am1norQqjTG0TlfL20ExV) | [アイカツアカデミー！配信部](https://open.spotify.com/artist/2QfAfOpjEIfxFzhkAJaqGw) | [Blooming Hélianthe](https://open.spotify.com/album/5PF0gPXbSKrKWrVXw7GQyg) | 3:52 |
+| 100 | [Struggle](https://open.spotify.com/track/2lKeMmKy4QHLwxD1Udxv5L) | [KOHTA YAMAMOTO](https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4), [Chogakusei](https://open.spotify.com/artist/1o3K28VZiWLErDUMWD6xuo) | [Struggle](https://open.spotify.com/album/0US6UBCVUHBhfa5oeDBJeL) | 3:38 |
 
-Snapshot ID: `AAAAAMO8D1SXRKA0lbo0l2o/ochRWP2t`
+Snapshot ID: `AAAAALtOalw08I0bW9gKuXJdVB9rz/jx`

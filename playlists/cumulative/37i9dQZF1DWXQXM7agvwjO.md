@@ -2,7 +2,7 @@
 
 ### [.ORG](https://open.spotify.com/playlist/37i9dQZF1DWXQXM7agvwjO)
 
-> Hottest indie sounds from Asia\. Cover: James Alyn
+> Hottest indie sounds from Asia\. Cover: Silica Gel
 
 2,340 songs - 5 day 21 hr 53 min
 

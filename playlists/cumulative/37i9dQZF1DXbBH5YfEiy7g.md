@@ -4,7 +4,7 @@
 
 > Praise and Worship your way with the best South African Gospel music\.  Cover: Sneziey
 
-211 songs - 22 hr 46 min
+212 songs - 22 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Jesu Ehlezi \- Live At Cedarwoods of Sandton, 2023](https://open.spotify.com/track/14NahpJ61f9qLWV8AI39Pv) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [Unusual \(Live At Cedarwoods of Sandton, 2023\)](https://open.spotify.com/album/07HmJ29ItAdV707SqVoc6D) | 4:24 | 2025-08-01 | 2025-08-06 |
 | [Jesu Ufik'ekuseni \- Live](https://open.spotify.com/track/0Md6sFVsOn5rUMrUoX922l) | [Sipho Ngwenya](https://open.spotify.com/artist/72Tl2cXPC1vmagob3mPdoe), [Thinah Zungu](https://open.spotify.com/artist/0gqiNXIGbyBCBsbQ4TWJlg) | [Intimate Worship Season, Vol\. 2 \(Live\)](https://open.spotify.com/album/467zjiBxAx2DLgW9jKt96E) | 6:59 | 2024-10-04 |  |
 | [Jesu ‘Lidwala](https://open.spotify.com/track/2LzE0NjnRkCnWUceB7bGiD) | [Lusanda Beja](https://open.spotify.com/artist/0YUGmCeW5yRmxinae7xxPe) | [Jesu 'lidwala](https://open.spotify.com/album/64Ten8WmX26OtfIxbwwtM9) | 9:40 | 2024-10-04 |  |
-| [Joyous Medley](https://open.spotify.com/track/6eaKEKK7Yq5N2GSRDpZs5S) | [Esethu Siwe](https://open.spotify.com/artist/6pADaqMmY4SSfMhwcJGKci) | [Joyous Melody](https://open.spotify.com/album/1btk9nWo6DvXgJ8I0rZJFw) | 11:00 | 2025-12-05 |  |
+| [Joyous Medley](https://open.spotify.com/track/6eaKEKK7Yq5N2GSRDpZs5S) | [Esethu Siwe](https://open.spotify.com/artist/6pADaqMmY4SSfMhwcJGKci) | [Joyous Melody](https://open.spotify.com/album/1btk9nWo6DvXgJ8I0rZJFw) | 11:00 | 2025-12-05 | 2025-12-26 |
 | [Ke Na Le Modisa \- Live](https://open.spotify.com/track/2ZEPcSVvedjZ6DR4hnMTiH) | [Busi Sibiya](https://open.spotify.com/artist/4Socq1uqmPOvJoneN5NiFe), [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [Ke Na Le Modisa \(Live\)](https://open.spotify.com/album/07KjBBPgRoijTc8usqNcpz) | 7:47 | 2025-09-05 | 2025-10-24 |
 | [Kea Leboga \- Live](https://open.spotify.com/track/6GLwk3mXvK8akLVG20GXoO) | [TSHEPO LEBEPE](https://open.spotify.com/artist/06PQeyGH37N3e3SAxwJ3LG) | [Kea Leboga \(Live\)](https://open.spotify.com/album/6E1HZnkZKadG4USEVoj9Nz) | 11:09 | 2025-03-28 | 2025-04-25 |
 | [Keep On Blessing Me](https://open.spotify.com/track/0L3u3AoYEr91lbZZBiVKOa) | [Artwork Sounds](https://open.spotify.com/artist/0OxQiJ0uuDuuQ3dqkIbjwR), [Hypaphonik](https://open.spotify.com/artist/6UL6IL0VVbVeCtvcemX7Io), [Brenden Praise](https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU), [Mr Shane SA](https://open.spotify.com/artist/59ktOxkRezipbkRhjsDCHZ) | [The Revival](https://open.spotify.com/album/0DrlDMHiJR1LVUGIVMQs8g) | 6:00 | 2025-08-01 | 2025-08-06 |
@@ -146,6 +146,7 @@
 | [Oska Ntsheba Wa Nnyatsa \- Live](https://open.spotify.com/track/1hbQcA8MJScNJGPEGOeQDX) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 23 \- Live at the CTICC Cape Town](https://open.spotify.com/album/4opHAaQZPtP5nMZacYfZtj) | 4:54 | 2024-10-11 |  |
 | [Otshepehile \(Live\)](https://open.spotify.com/track/0KDDwVykcd6tqsIKBT7w9j) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Omega Khunou](https://open.spotify.com/artist/5kiRFLzxYedX55EwwIDuj3) | [Spirit Of Praise 10 \(Live\)](https://open.spotify.com/album/2SgwP9PIXjtzEaGftxQQdv) | 8:03 | 2024-10-11 | 2025-04-11 |
 | [Pela Hao / Jehovah o Lefika \- Live](https://open.spotify.com/track/5rPuW9s3cqoNKeVNUrBCjd) | [David TheKing](https://open.spotify.com/artist/2U5BkItwy4iRjlDjemdAgi) | [Hymns of Faith \(Live\)](https://open.spotify.com/album/4P7hoE9mBHjwNgJTLtrlWo) | 8:41 | 2024-10-04 |  |
+| [Phakade NeNkosi](https://open.spotify.com/track/7DVHzYbVAPiNsS6CEMxB4J) | [Londiwe Sphe Nxumalo](https://open.spotify.com/artist/0T1PttE74glDfZNF0LA8yi), [Dr Timothy Myeni](https://open.spotify.com/artist/7jxNgwuFkEfLwANCfVauW5) | [Phakade NeNkosi](https://open.spotify.com/album/34EHQHyVfTIAPuW2hvzyPE) | 6:16 | 2025-12-26 |  |
 | [Phakama \- Live](https://open.spotify.com/track/7zfWPFtYijR2StQfCkTpdY) | [Duduza Serenade](https://open.spotify.com/artist/4TgyqHirthyfGBduIaUXwI) | [Phakama \(Live\)](https://open.spotify.com/album/2V7SDIi43gD6YUcnR1OEUI) | 5:01 | 2025-09-05 | 2025-10-03 |
 | [Philisa](https://open.spotify.com/track/1sdWnOwub4AZKqwtzLd9Sb) | [Afrotraction](https://open.spotify.com/artist/5nWUxMDXCniEU2M0VXZPH3) | [Moya Movement](https://open.spotify.com/album/1k7Juh1VvEk0tkqMjEQWTb) | 5:31 | 2025-08-01 | 2025-08-06 |
 | [Phindukhulume \- Live](https://open.spotify.com/track/0BiiuyivAWS0ipgH98pSto) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 20 \- Part 2: The Alumni \(Live\)](https://open.spotify.com/album/0Pkah6jXv0075edSio9Qgf) | 3:51 | 2024-10-11 | 2025-10-24 |

@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 435091,
+  "num_followers": 435124,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,22 @@
     {
       "added_at": "2025-12-04 23:00:16",
       "album": {
+        "name": "Les jolies choses",
+        "url": "https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI"
+      },
+      "artists": [
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        }
+      ],
+      "duration_ms": 222373,
+      "name": "Les jolies choses",
+      "url": "https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4"
+    },
+    {
+      "added_at": "2025-12-04 23:00:16",
+      "album": {
         "name": "Wish",
         "url": "https://open.spotify.com/album/3D4uWbaadwTFrOgddwKnGW"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 199746,
       "name": "Wish",
       "url": "https://open.spotify.com/track/4SDclRHhC2Nf2qoYjeyvtk"
-    },
-    {
-      "added_at": "2025-12-04 23:00:16",
-      "album": {
-        "name": "Les jolies choses",
-        "url": "https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI"
-      },
-      "artists": [
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        }
-      ],
-      "duration_ms": 222373,
-      "name": "Les jolies choses",
-      "url": "https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4"
     },
     {
       "added_at": "2025-12-04 23:00:16",
@@ -859,6 +859,22 @@
     {
       "added_at": "2025-12-04 23:00:16",
       "album": {
+        "name": "Wilco (The Album)",
+        "url": "https://open.spotify.com/album/3UeSYkvpAJfXp97Os7Y1sK"
+      },
+      "artists": [
+        {
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        }
+      ],
+      "duration_ms": 204706,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/5i57BBhq5eNVS5cBkDD69j"
+    },
+    {
+      "added_at": "2025-12-04 23:00:16",
+      "album": {
         "name": "Eso Que T\u00fa Llamas Amor",
         "url": "https://open.spotify.com/album/3o0rSyy7XEtDcFSiGvX8jI"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 175336,
       "name": "Eso Que T\u00fa Llamas Amor",
       "url": "https://open.spotify.com/track/66qnFSBNzTAeOgVsadRkKi"
-    },
-    {
-      "added_at": "2025-12-04 23:00:16",
-      "album": {
-        "name": "Wilco (The Album)",
-        "url": "https://open.spotify.com/album/3UeSYkvpAJfXp97Os7Y1sK"
-      },
-      "artists": [
-        {
-          "name": "Wilco",
-          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
-        }
-      ],
-      "duration_ms": 204706,
-      "name": "You and I",
-      "url": "https://open.spotify.com/track/5i57BBhq5eNVS5cBkDD69j"
     },
     {
       "added_at": "2025-12-04 23:00:16",
@@ -987,6 +987,22 @@
     {
       "added_at": "2025-12-04 23:00:16",
       "album": {
+        "name": "No One's Gonna Love You (Stockholm Version)",
+        "url": "https://open.spotify.com/album/5Dw1GPGxKN6LfNoiFj3LJY"
+      },
+      "artists": [
+        {
+          "name": "Band of Horses",
+          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
+        }
+      ],
+      "duration_ms": 228646,
+      "name": "No One's Gonna Love You (Stockholm Version)",
+      "url": "https://open.spotify.com/track/371akJ9fYgSkrAFMyWoTdL"
+    },
+    {
+      "added_at": "2025-12-04 23:00:16",
+      "album": {
         "name": "el sur",
         "url": "https://open.spotify.com/album/0LBBkVKzKtzhX6WUoQZ3cH"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 160695,
       "name": "el sur",
       "url": "https://open.spotify.com/track/0XztUZe3YjkeHByWXKLlyM"
-    },
-    {
-      "added_at": "2025-12-04 23:00:16",
-      "album": {
-        "name": "No One's Gonna Love You (Stockholm Version)",
-        "url": "https://open.spotify.com/album/5Dw1GPGxKN6LfNoiFj3LJY"
-      },
-      "artists": [
-        {
-          "name": "Band of Horses",
-          "url": "https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF"
-        }
-      ],
-      "duration_ms": 228646,
-      "name": "No One's Gonna Love You (Stockholm Version)",
-      "url": "https://open.spotify.com/track/371akJ9fYgSkrAFMyWoTdL"
     },
     {
       "added_at": "2025-12-04 23:00:16",
@@ -1127,26 +1127,6 @@
     {
       "added_at": "2025-12-04 23:00:16",
       "album": {
-        "name": "EL CORAZ\u00d3N MANDA",
-        "url": "https://open.spotify.com/album/2am6bidvxhxkCd2iHwjR3V"
-      },
-      "artists": [
-        {
-          "name": "Nico Miseria",
-          "url": "https://open.spotify.com/artist/79ff28apoBUFLfPJQoTfro"
-        },
-        {
-          "name": "alba calva",
-          "url": "https://open.spotify.com/artist/4PPFJLJG8yQDVOA8q3Wll9"
-        }
-      ],
-      "duration_ms": 123874,
-      "name": "EL CORAZ\u00d3N MANDA",
-      "url": "https://open.spotify.com/track/4qCmpBzCKRvvvfLtcS9JTm"
-    },
-    {
-      "added_at": "2025-12-04 23:00:16",
-      "album": {
         "name": "RID\u00cdCULO",
         "url": "https://open.spotify.com/album/3nQzkiCIGfJxfe4hNoV9gJ"
       },
@@ -1163,6 +1143,26 @@
       "duration_ms": 159607,
       "name": "RID\u00cdCULO",
       "url": "https://open.spotify.com/track/57qrNfTPjhSRIc0BaXB86Z"
+    },
+    {
+      "added_at": "2025-12-04 23:00:16",
+      "album": {
+        "name": "EL CORAZ\u00d3N MANDA",
+        "url": "https://open.spotify.com/album/2am6bidvxhxkCd2iHwjR3V"
+      },
+      "artists": [
+        {
+          "name": "Nico Miseria",
+          "url": "https://open.spotify.com/artist/79ff28apoBUFLfPJQoTfro"
+        },
+        {
+          "name": "alba calva",
+          "url": "https://open.spotify.com/artist/4PPFJLJG8yQDVOA8q3Wll9"
+        }
+      ],
+      "duration_ms": 123874,
+      "name": "EL CORAZ\u00d3N MANDA",
+      "url": "https://open.spotify.com/track/4qCmpBzCKRvvvfLtcS9JTm"
     },
     {
       "added_at": "2025-12-04 23:00:16",
@@ -1335,22 +1335,18 @@
     {
       "added_at": "2025-12-04 23:00:16",
       "album": {
-        "name": "Otras 3 Lunas",
-        "url": "https://open.spotify.com/album/4XEIBLJwW5kRkJt7d4abOx"
+        "name": "Dos L\u00e1grimas, Dos Peces",
+        "url": "https://open.spotify.com/album/76vM1rO3OsF38plPvdQUvE"
       },
       "artists": [
         {
-          "name": "Esp\u00edritu System",
-          "url": "https://open.spotify.com/artist/2CIIwhaBDB1a3ipJJc40r0"
-        },
-        {
-          "name": "Chini Tacchini",
-          "url": "https://open.spotify.com/artist/0bl5N26zx6eOjNBcHtZKEY"
+          "name": "Ant Cosmos",
+          "url": "https://open.spotify.com/artist/5j1AZkYzQt0e8cwA2Q1UgQ"
         }
       ],
-      "duration_ms": 162782,
-      "name": "Algo que no duele",
-      "url": "https://open.spotify.com/track/2Y8Qw5PU03Bl062cZJ4p0v"
+      "duration_ms": 220031,
+      "name": "Dos L\u00e1grimas, Dos Peces",
+      "url": "https://open.spotify.com/track/1ug7yXk31XK1rPcGw63tnQ"
     },
     {
       "added_at": "2025-12-04 23:00:16",
@@ -1371,22 +1367,6 @@
     {
       "added_at": "2025-12-04 23:00:16",
       "album": {
-        "name": "Dos L\u00e1grimas, Dos Peces",
-        "url": "https://open.spotify.com/album/76vM1rO3OsF38plPvdQUvE"
-      },
-      "artists": [
-        {
-          "name": "Ant Cosmos",
-          "url": "https://open.spotify.com/artist/5j1AZkYzQt0e8cwA2Q1UgQ"
-        }
-      ],
-      "duration_ms": 220031,
-      "name": "Dos L\u00e1grimas, Dos Peces",
-      "url": "https://open.spotify.com/track/1ug7yXk31XK1rPcGw63tnQ"
-    },
-    {
-      "added_at": "2025-12-04 23:00:16",
-      "album": {
         "name": "Mandela Place",
         "url": "https://open.spotify.com/album/6MXVgGqVLqHYuUCLUJUWEb"
       },
@@ -1403,18 +1383,22 @@
     {
       "added_at": "2025-12-04 23:00:16",
       "album": {
-        "name": "My Ideal",
-        "url": "https://open.spotify.com/album/4SfFruFJG1n6riQqC9FVT4"
+        "name": "Otras 3 Lunas",
+        "url": "https://open.spotify.com/album/4XEIBLJwW5kRkJt7d4abOx"
       },
       "artists": [
         {
-          "name": "Mei Semones",
-          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
+          "name": "Esp\u00edritu System",
+          "url": "https://open.spotify.com/artist/2CIIwhaBDB1a3ipJJc40r0"
+        },
+        {
+          "name": "Chini Tacchini",
+          "url": "https://open.spotify.com/artist/0bl5N26zx6eOjNBcHtZKEY"
         }
       ],
-      "duration_ms": 283500,
-      "name": "My Ideal",
-      "url": "https://open.spotify.com/track/2B8BmgVUQKTWIOwWGr13Mh"
+      "duration_ms": 162782,
+      "name": "Algo que no duele",
+      "url": "https://open.spotify.com/track/2Y8Qw5PU03Bl062cZJ4p0v"
     },
     {
       "added_at": "2025-12-04 23:00:16",
@@ -1431,6 +1415,22 @@
       "duration_ms": 224132,
       "name": "ERES GUAPA (\u273f\u00b4\u203f`) - Taranta",
       "url": "https://open.spotify.com/track/4qK6x2jGnY7foFReTrFojR"
+    },
+    {
+      "added_at": "2025-12-04 23:00:16",
+      "album": {
+        "name": "My Ideal",
+        "url": "https://open.spotify.com/album/4SfFruFJG1n6riQqC9FVT4"
+      },
+      "artists": [
+        {
+          "name": "Mei Semones",
+          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
+        }
+      ],
+      "duration_ms": 283500,
+      "name": "My Ideal",
+      "url": "https://open.spotify.com/track/2B8BmgVUQKTWIOwWGr13Mh"
     },
     {
       "added_at": "2025-12-04 23:00:16",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2025-12-04 23:00:16",
       "album": {
-        "name": "Fuegos Artificiales",
-        "url": "https://open.spotify.com/album/2LE4HKJTaD3bD2OH6rnPto"
-      },
-      "artists": [
-        {
-          "name": "Ire",
-          "url": "https://open.spotify.com/artist/4ysRrzj3LSYDIhtty6ErKI"
-        }
-      ],
-      "duration_ms": 178434,
-      "name": "Fuegos Artificiales",
-      "url": "https://open.spotify.com/track/36i5UmD04En2yPrykKvmGZ"
-    },
-    {
-      "added_at": "2025-12-04 23:00:16",
-      "album": {
         "name": "Sanadoras Voluntades",
         "url": "https://open.spotify.com/album/4en5TaKhMK6hxjQVW0hHoa"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 164956,
       "name": "Sanadoras Voluntades",
       "url": "https://open.spotify.com/track/7AqHsrlrP34XzmOgx5CmGe"
+    },
+    {
+      "added_at": "2025-12-04 23:00:16",
+      "album": {
+        "name": "Fuegos Artificiales",
+        "url": "https://open.spotify.com/album/2LE4HKJTaD3bD2OH6rnPto"
+      },
+      "artists": [
+        {
+          "name": "Ire",
+          "url": "https://open.spotify.com/artist/4ysRrzj3LSYDIhtty6ErKI"
+        }
+      ],
+      "duration_ms": 178434,
+      "name": "Fuegos Artificiales",
+      "url": "https://open.spotify.com/track/36i5UmD04En2yPrykKvmGZ"
     },
     {
       "added_at": "2025-12-04 23:00:16",
@@ -1563,6 +1563,26 @@
     {
       "added_at": "2025-12-04 23:00:16",
       "album": {
+        "name": "La Jarrita del Tiempo",
+        "url": "https://open.spotify.com/album/0IcSVkTdbn0VM4ekxHFTtd"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Ruiz",
+          "url": "https://open.spotify.com/artist/2GIa4g7H34OOiHxGSZPFMg"
+        },
+        {
+          "name": "Vic Mirallas",
+          "url": "https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922"
+        }
+      ],
+      "duration_ms": 241738,
+      "name": "La Jarrita del Tiempo",
+      "url": "https://open.spotify.com/track/3NgYHChyjR1Qq1TyYW8u7m"
+    },
+    {
+      "added_at": "2025-12-04 23:00:16",
+      "album": {
         "name": "Todo Este Amor (Cap\u00edtulo IV: Hu\u00edda)",
         "url": "https://open.spotify.com/album/2W0qGvu9m4cRR918XTA1f4"
       },
@@ -1587,26 +1607,6 @@
     {
       "added_at": "2025-12-04 23:00:16",
       "album": {
-        "name": "La Jarrita del Tiempo",
-        "url": "https://open.spotify.com/album/0IcSVkTdbn0VM4ekxHFTtd"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Ruiz",
-          "url": "https://open.spotify.com/artist/2GIa4g7H34OOiHxGSZPFMg"
-        },
-        {
-          "name": "Vic Mirallas",
-          "url": "https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922"
-        }
-      ],
-      "duration_ms": 241738,
-      "name": "La Jarrita del Tiempo",
-      "url": "https://open.spotify.com/track/3NgYHChyjR1Qq1TyYW8u7m"
-    },
-    {
-      "added_at": "2025-12-04 23:00:16",
-      "album": {
         "name": "Oasis",
         "url": "https://open.spotify.com/album/0S4nrbyuhs0joy3Igb9llz"
       },
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2025-12-04 23:00:16",
       "album": {
-        "name": "Ada Road",
-        "url": "https://open.spotify.com/album/5h6B6cj1OcnPAaXB1GBcwn"
-      },
-      "artists": [
-        {
-          "name": "MAVICA",
-          "url": "https://open.spotify.com/artist/2J1sJydvX10ir67gz54cdW"
-        }
-      ],
-      "duration_ms": 278373,
-      "name": "Ada Road",
-      "url": "https://open.spotify.com/track/5u2P6O7vHPtmW8fEU3zsXH"
-    },
-    {
-      "added_at": "2025-12-04 23:00:16",
-      "album": {
         "name": "Kevin",
         "url": "https://open.spotify.com/album/3EOPENikNPh26ZofamfSTT"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 203003,
       "name": "Kevin",
       "url": "https://open.spotify.com/track/1CWVTz4v0IHU3mPouSuZKZ"
+    },
+    {
+      "added_at": "2025-12-04 23:00:16",
+      "album": {
+        "name": "Ada Road",
+        "url": "https://open.spotify.com/album/5h6B6cj1OcnPAaXB1GBcwn"
+      },
+      "artists": [
+        {
+          "name": "MAVICA",
+          "url": "https://open.spotify.com/artist/2J1sJydvX10ir67gz54cdW"
+        }
+      ],
+      "duration_ms": 278373,
+      "name": "Ada Road",
+      "url": "https://open.spotify.com/track/5u2P6O7vHPtmW8fEU3zsXH"
     },
     {
       "added_at": "2025-12-04 23:00:16",
@@ -1831,38 +1831,6 @@
     {
       "added_at": "2025-12-04 23:00:16",
       "album": {
-        "name": "Move On",
-        "url": "https://open.spotify.com/album/5xML2DTGRbTcNjW4olh8js"
-      },
-      "artists": [
-        {
-          "name": "Juana Everett",
-          "url": "https://open.spotify.com/artist/56V8sxFutXjwp1FfPdfkpx"
-        }
-      ],
-      "duration_ms": 176434,
-      "name": "Free As a Bird",
-      "url": "https://open.spotify.com/track/7rMmsVOPCgSERkeSKAhNBM"
-    },
-    {
-      "added_at": "2025-12-04 23:00:16",
-      "album": {
-        "name": "C\u00edrculo de Luz / Un Hogar Acogedor",
-        "url": "https://open.spotify.com/album/2EdM84zZvTBx6UoOZTV3qD"
-      },
-      "artists": [
-        {
-          "name": "Roy Borland",
-          "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
-        }
-      ],
-      "duration_ms": 162774,
-      "name": "C\u00edrculo de Luz / Un Hogar Acogedor",
-      "url": "https://open.spotify.com/track/0eQHNYQuheNBqIZ2i9qMuP"
-    },
-    {
-      "added_at": "2025-12-04 23:00:16",
-      "album": {
         "name": "xulejudetu",
         "url": "https://open.spotify.com/album/1KxCmWGJLXrumapPLmhIYf"
       },
@@ -1883,6 +1851,38 @@
       "duration_ms": 153687,
       "name": "xulejudetu",
       "url": "https://open.spotify.com/track/1ktaKmoxKp3WB1ardeRIhi"
+    },
+    {
+      "added_at": "2025-12-04 23:00:16",
+      "album": {
+        "name": "C\u00edrculo de Luz / Un Hogar Acogedor",
+        "url": "https://open.spotify.com/album/2EdM84zZvTBx6UoOZTV3qD"
+      },
+      "artists": [
+        {
+          "name": "Roy Borland",
+          "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
+        }
+      ],
+      "duration_ms": 162774,
+      "name": "C\u00edrculo de Luz / Un Hogar Acogedor",
+      "url": "https://open.spotify.com/track/0eQHNYQuheNBqIZ2i9qMuP"
+    },
+    {
+      "added_at": "2025-12-04 23:00:16",
+      "album": {
+        "name": "Move On",
+        "url": "https://open.spotify.com/album/5xML2DTGRbTcNjW4olh8js"
+      },
+      "artists": [
+        {
+          "name": "Juana Everett",
+          "url": "https://open.spotify.com/artist/56V8sxFutXjwp1FfPdfkpx"
+        }
+      ],
+      "duration_ms": 176434,
+      "name": "Free As a Bird",
+      "url": "https://open.spotify.com/track/7rMmsVOPCgSERkeSKAhNBM"
     },
     {
       "added_at": "2025-12-04 23:00:16",
@@ -2063,22 +2063,6 @@
     {
       "added_at": "2025-12-04 23:00:16",
       "album": {
-        "name": "Canci\u00f3n de Cuna para Gabriel y Nicol\u00e1s (Tema inclu\u00eddo en la Banda Sonora Original Blue & Malone Casos Imposibles)",
-        "url": "https://open.spotify.com/album/6r5nOWh4HQxbqAKULzg9QR"
-      },
-      "artists": [
-        {
-          "name": "Coque Malla",
-          "url": "https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV"
-        }
-      ],
-      "duration_ms": 195541,
-      "name": "Canci\u00f3n de Cuna para Gabriel y Nicol\u00e1s - Tema inclu\u00eddo en la Banda Sonora Original \"Blue & Malone Casos Imposibles\"",
-      "url": "https://open.spotify.com/track/2Nj6b1tSxcMdLGNp9UOkGy"
-    },
-    {
-      "added_at": "2025-12-04 23:00:16",
-      "album": {
         "name": "No quiero olvidar",
         "url": "https://open.spotify.com/album/6rvHGOXBV8YHqPV6dIe0tR"
       },
@@ -2091,6 +2075,22 @@
       "duration_ms": 201441,
       "name": "No quiero olvidar",
       "url": "https://open.spotify.com/track/3TQsgWjUstxYOHnX45kG6j"
+    },
+    {
+      "added_at": "2025-12-04 23:00:16",
+      "album": {
+        "name": "Canci\u00f3n de Cuna para Gabriel y Nicol\u00e1s (Tema inclu\u00eddo en la Banda Sonora Original Blue & Malone Casos Imposibles)",
+        "url": "https://open.spotify.com/album/6r5nOWh4HQxbqAKULzg9QR"
+      },
+      "artists": [
+        {
+          "name": "Coque Malla",
+          "url": "https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV"
+        }
+      ],
+      "duration_ms": 195541,
+      "name": "Canci\u00f3n de Cuna para Gabriel y Nicol\u00e1s - Tema inclu\u00eddo en la Banda Sonora Original \"Blue & Malone Casos Imposibles\"",
+      "url": "https://open.spotify.com/track/2Nj6b1tSxcMdLGNp9UOkGy"
     },
     {
       "added_at": "2025-12-04 23:00:16",

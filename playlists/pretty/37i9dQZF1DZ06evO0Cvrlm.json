@@ -1,12 +1,12 @@
 {
   "description": "This is George Michael. The essential tracks, all in one playlist.",
-  "num_followers": 593731,
+  "num_followers": 593824,
   "original_name": "This Is George Michael",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUnbgAAAAABnsRcNYxGVaqVnG40uLb9z",
+  "snapshot_id": "aUstAAAAAAAPeh0OQd6ENd3fjtHU6P6n",
   "tracks": [
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
-        "url": "https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 230893,
-      "name": "Too Funky - Single Edit",
-      "url": "https://open.spotify.com/track/4fW718TtzWhIfGMc6owKzZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Older",
         "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 330800,
       "name": "You Have Been Loved",
       "url": "https://open.spotify.com/track/1W19bowAmX4WJusclbWIbM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
+        "url": "https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 230893,
+      "name": "Too Funky - Single Edit",
+      "url": "https://open.spotify.com/track/4fW718TtzWhIfGMc6owKzZ"
     },
     {
       "added_at": null,
@@ -347,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Listen Without Prejudice Vol. 1 (Remastered)",
-        "url": "https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 279989,
-      "name": "Heal the Pain - Remastered",
-      "url": "https://open.spotify.com/track/5XGN3T9LLz72Zxg4JXjyGJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Older",
         "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 333106,
       "name": "Older",
       "url": "https://open.spotify.com/track/1oMNeGkqwyEOLMUTrgdIr2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Listen Without Prejudice Vol. 1 (Remastered)",
+        "url": "https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 279989,
+      "name": "Heal the Pain - Remastered",
+      "url": "https://open.spotify.com/track/5XGN3T9LLz72Zxg4JXjyGJ"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Listen Without Prejudice Vol. 1 (Remastered)",
-        "url": "https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 434733,
-      "name": "Cowboys and Angels - Remastered",
-      "url": "https://open.spotify.com/track/1TDzHrMyt99Ey8IB72i7u9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Older",
         "url": "https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF"
       },
@@ -443,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Listen Without Prejudice Vol. 1 (Remastered)",
+        "url": "https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 434733,
+      "name": "Cowboys and Angels - Remastered",
+      "url": "https://open.spotify.com/track/1TDzHrMyt99Ey8IB72i7u9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Songs From The Last Century",
         "url": "https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u"
       },
@@ -455,26 +455,6 @@
       "duration_ms": 319440,
       "name": "The First Time Ever I Saw Your Face",
       "url": "https://open.spotify.com/track/6T0gaMfEfNWXZCGQKh1wlo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
-        "url": "https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        },
-        {
-          "name": "Astrud Gilberto",
-          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
-        }
-      ],
-      "duration_ms": 201135,
-      "name": "Desafinado (with Astrud Gilberto)",
-      "url": "https://open.spotify.com/track/12mgkzfizFiWfrhr4EOKfn"
     },
     {
       "added_at": null,
@@ -583,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 557293,
-      "name": "I Want Your Sex - Pts. 1 & 2 Remastered",
-      "url": "https://open.spotify.com/track/6QnFHieoch6U9J8zfv6hml"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Symphonica (Deluxe Version)",
         "url": "https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO"
       },
@@ -611,6 +575,22 @@
       "duration_ms": 230508,
       "name": "Let Her Down Easy - Live",
       "url": "https://open.spotify.com/track/0LlAIj8FCkmiJ9WOvUIimM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 557293,
+      "name": "I Want Your Sex - Pts. 1 & 2 Remastered",
+      "url": "https://open.spotify.com/track/6QnFHieoch6U9J8zfv6hml"
     },
     {
       "added_at": null,
@@ -651,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 276200,
-      "name": "Hand to Mouth - Remastered",
-      "url": "https://open.spotify.com/track/4wLjiz87aGbmDhADeMQWwt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Listen Without Prejudice Vol. 1 (Remastered)",
         "url": "https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o"
       },
@@ -679,6 +643,22 @@
       "duration_ms": 239174,
       "name": "Mothers Pride - Remastered",
       "url": "https://open.spotify.com/track/2IodPJuxlrUkZvAiAPMUJv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 276200,
+      "name": "Hand to Mouth - Remastered",
+      "url": "https://open.spotify.com/track/4wLjiz87aGbmDhADeMQWwt"
     },
     {
       "added_at": null,
@@ -708,9 +688,9 @@
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 242493,
-      "name": "Wild Is the Wind",
-      "url": "https://open.spotify.com/track/4lLlt6Av8WLCb2xO7IwkHC"
+      "duration_ms": 263506,
+      "name": "Brother Can You Spare a Dime?",
+      "url": "https://open.spotify.com/track/64FUuN6B1v8W3a1hZd0j5m"
     },
     {
       "added_at": null,
@@ -731,30 +711,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Always",
-        "url": "https://open.spotify.com/album/1QiwBjsjHlnfFSKumhozCu"
+        "name": "This Is How (We Want You To Get High)",
+        "url": "https://open.spotify.com/album/0FRo7kLUZKAUCKwom4XwaH"
       },
       "artists": [
         {
-          "name": "Waze & Odyssey",
-          "url": "https://open.spotify.com/artist/0D9AnJzAnYyu1kfJFQDY5d"
-        },
-        {
           "name": "George Michael",
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        },
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        },
-        {
-          "name": "Tommy Theo",
-          "url": "https://open.spotify.com/artist/3FIKR274tI6Xk3uw9Dqu5B"
         }
       ],
-      "duration_ms": 186300,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/1BHyi5tS67s00jDSlGQXg4"
+      "duration_ms": 240493,
+      "name": "This Is How (We Want You To Get High)",
+      "url": "https://open.spotify.com/track/7ghfc7IWlgUezEmW6uaPM5"
     },
     {
       "added_at": null,
@@ -784,25 +752,37 @@
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 263506,
-      "name": "Brother Can You Spare a Dime?",
-      "url": "https://open.spotify.com/track/64FUuN6B1v8W3a1hZd0j5m"
+      "duration_ms": 242493,
+      "name": "Wild Is the Wind",
+      "url": "https://open.spotify.com/track/4lLlt6Av8WLCb2xO7IwkHC"
     },
     {
       "added_at": null,
       "album": {
-        "name": "This Is How (We Want You To Get High)",
-        "url": "https://open.spotify.com/album/0FRo7kLUZKAUCKwom4XwaH"
+        "name": "Always",
+        "url": "https://open.spotify.com/album/1QiwBjsjHlnfFSKumhozCu"
       },
       "artists": [
         {
+          "name": "Waze & Odyssey",
+          "url": "https://open.spotify.com/artist/0D9AnJzAnYyu1kfJFQDY5d"
+        },
+        {
           "name": "George Michael",
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        },
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        },
+        {
+          "name": "Tommy Theo",
+          "url": "https://open.spotify.com/artist/3FIKR274tI6Xk3uw9Dqu5B"
         }
       ],
-      "duration_ms": 240493,
-      "name": "This Is How (We Want You To Get High)",
-      "url": "https://open.spotify.com/track/7ghfc7IWlgUezEmW6uaPM5"
+      "duration_ms": 186300,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/1BHyi5tS67s00jDSlGQXg4"
     },
     {
       "added_at": null,
@@ -851,6 +831,86 @@
       "duration_ms": 159546,
       "name": "Secret Love",
       "url": "https://open.spotify.com/track/5DvAuonLamxQJUiY44tBiq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spirito Italiano",
+        "url": "https://open.spotify.com/album/5T4REe6LvQuo7hr3hcWrv8"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        },
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        },
+        {
+          "name": "Luciano Pavarotti",
+          "url": "https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU"
+        },
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Aqua",
+          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
+        },
+        {
+          "name": "Eurythmics",
+          "url": "https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB"
+        },
+        {
+          "name": "Savage Garden",
+          "url": "https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek"
+        },
+        {
+          "name": "Irene Grandi",
+          "url": "https://open.spotify.com/artist/0Ob8qRZ9R1jhibRue9ap1H"
+        },
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        },
+        {
+          "name": "Skunk Anansie",
+          "url": "https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF"
+        },
+        {
+          "name": "Tracy Chapman",
+          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
+        },
+        {
+          "name": "Zucchero",
+          "url": "https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        },
+        {
+          "name": "Ars Canto G. Verdi",
+          "url": "https://open.spotify.com/artist/2nlUKg0hGbfQkhUuyudOgE"
+        },
+        {
+          "name": "Cambodian And Tibetan Children's Choir",
+          "url": "https://open.spotify.com/artist/5roVbMFPCz0wtqh7ffwzSd"
+        },
+        {
+          "name": "Orchestra Sinfonica Italiana",
+          "url": "https://open.spotify.com/artist/2TLCdLafkMIbrLHYvh4U5P"
+        },
+        {
+          "name": "Jos\u00e9 Molina",
+          "url": "https://open.spotify.com/artist/64sor8KhJsha9rn0LKiDGh"
+        }
+      ],
+      "duration_ms": 255733,
+      "name": "All You Need Is Love",
+      "url": "https://open.spotify.com/track/11sPHLSUyGhyDMXjI25nwM"
     }
   ],
   "unique_name": "This Is George Michael",

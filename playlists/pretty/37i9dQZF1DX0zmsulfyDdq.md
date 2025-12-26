@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0zmsulfyDdq.md) - [plain]
 
 > For parents and kids of all ages, add some Disney Magic to bedtime routines with soothing and relaxing renditions of timeless Disney music from Frozen, Winnie the Pooh and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,220 likes - 222 songs - 11 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,301 likes - 222 songs - 11 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

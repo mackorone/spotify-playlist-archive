@@ -4,7 +4,7 @@
 
 > Hottest Anime hits & best new tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-2,319 songs - 5 day 23 hr 41 min
+2,320 songs - 5 day 23 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -586,7 +586,7 @@
 | [Kawaii \(Prod\. Gen Hoshino\)](https://open.spotify.com/track/0M47xHUyYQvhSnso8GFHSA) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [DIFFERENT](https://open.spotify.com/album/0XBFnNqFyAKPJoo3ikzvBe) | 3:20 | 2025-07-01 | 2025-10-01 |
 | [KAWAII FESTIVAL](https://open.spotify.com/track/4Dq9L5QomYmF21xmFSMw9z) | [みんななかよく](https://open.spotify.com/artist/1wja3Lglpre9hO4WEfIBRM) | [Hello Kitty 50th Anniversary Presents My Bestie Voice Collection with Sanrio characters](https://open.spotify.com/album/4p4vfBpuBaSS7BjjqtX4fy) | 3:08 | 2024-06-25 | 2024-07-03 |
 | [Kawaii Kaiwai](https://open.spotify.com/track/4uV4yldTUrYvHat6LiRZHl) | [PiKi](https://open.spotify.com/artist/0k24bjTbB2IUhV74mvSv4T) | [Kawaii Kaiwai](https://open.spotify.com/album/1XHqGyZQTFzkomOfVttZtm) | 2:33 | 2025-07-04 | 2025-10-15 |
-| [Kawaii☆Wake Up!](https://open.spotify.com/track/2am1norQqjTG0TlfL20ExV) | [アイカツアカデミー！配信部](https://open.spotify.com/artist/2QfAfOpjEIfxFzhkAJaqGw) | [Blooming Hélianthe](https://open.spotify.com/album/5PF0gPXbSKrKWrVXw7GQyg) | 3:52 | 2025-12-16 |  |
+| [Kawaii☆Wake Up!](https://open.spotify.com/track/2am1norQqjTG0TlfL20ExV) | [アイカツアカデミー！配信部](https://open.spotify.com/artist/2QfAfOpjEIfxFzhkAJaqGw) | [Blooming Hélianthe](https://open.spotify.com/album/5PF0gPXbSKrKWrVXw7GQyg) | 3:52 | 2025-12-16 | 2025-12-26 |
 | [Keep going](https://open.spotify.com/track/0ZCpVXA2TCoxpYCdtnQWJg) | [04 Limited Sazabys](https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh) | [Keep going](https://open.spotify.com/album/5qanfHlbiLvT8JGKsY9OUT) | 2:40 | 2022-09-27 | 2023-01-06 |
 | [KEY of Like！](https://open.spotify.com/track/2hQkYgyZfIcmDgIHMcidvB) | [スリーズブーケ](https://open.spotify.com/artist/6L7wKf6aQv6A3OpiuMITqM), [DOLLCHESTRA](https://open.spotify.com/artist/6M4HRvHCFBOWlPW3Tn2Oqh), [みらくらぱーく!](https://open.spotify.com/artist/3he8Hc0WxcVbpLzFpRsnO4) | [KEY of Like！](https://open.spotify.com/album/5dwr0fHNYlLzbZqTqMwotl) | 4:11 | 2025-02-11 | 2025-03-12 |
 | [Key to My Heart](https://open.spotify.com/track/1NmvymljWwjFk64R6N24So) | [Shouta Aoi](https://open.spotify.com/artist/4Kg3vBPMPfnYrnZo2A4czS) | [Key to My Heart](https://open.spotify.com/album/63H4TPHDzaIKYtcIGxTDzM) | 3:50 | 2023-01-17 | 2023-02-01 |
@@ -1087,6 +1087,7 @@
 | [Straw Hat Pirates Anthem Steve Aoki Remix](https://open.spotify.com/track/3ARhBWi7sTpQXrlseshVOt) | [スティーヴ・アオキ](https://open.spotify.com/artist/3wcyIIlkfkrqmJ87xhWNuM) | [ONE PIECE FILM RED Original Sound Track](https://open.spotify.com/album/1l2K2FjloL4AGyqRWf17U4) | 4:17 | 2022-10-27 | 2022-11-16 |
 | [STRAWBERRY](https://open.spotify.com/track/6VrK9Mho3EuUQ8jnNxkTms) | [kobore](https://open.spotify.com/artist/0seiMqWC3KI3SkKttVWy8Z) | [STRAWBERRY](https://open.spotify.com/album/6geWMGwDavF6Tutv79sKWS) | 3:44 | 2022-10-04 | 2022-12-02 |
 | [STRIX](https://open.spotify.com/track/1ReifYy4YQWlAHu1yJjf7s) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [TVアニメ「SPY×FAMILY」オリジナル・サウンドトラック \(Vol.1\)](https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL) | 2:24 | 2022-06-25 | 2022-07-27 |
+| [Struggle](https://open.spotify.com/track/2lKeMmKy4QHLwxD1Udxv5L) | [KOHTA YAMAMOTO](https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4), [Chogakusei](https://open.spotify.com/artist/1o3K28VZiWLErDUMWD6xuo) | [Struggle](https://open.spotify.com/album/0US6UBCVUHBhfa5oeDBJeL) | 3:38 | 2025-12-25 |  |
 | [Stuck on you](https://open.spotify.com/track/3yQJ2X7Jpufw6vnIhA3ZRb) | [Nowlu](https://open.spotify.com/artist/0TAhk9VlgZqLcM4wn5nUpO) | [Stuck on you](https://open.spotify.com/album/2YC2JrNogGItC3W9NTZ04h) | 3:05 | 2022-11-17 | 2023-01-13 |
 | [Suffer](https://open.spotify.com/track/3wBJ9ZwrL74MC4IjfUwrBb) | [Okazaki Taiiku](https://open.spotify.com/artist/5yKQkcO2MWUp3Z5jUs70pW) | [Suffer](https://open.spotify.com/album/4wdkJEh3CqOjgNx9FW5JDn) | 2:19 | 2025-07-01 | 2025-07-25 |
 | [sugar](https://open.spotify.com/track/3mG5g11Zf4U2BRidQZSHaj) | [YU\-KA](https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX) | [sugar](https://open.spotify.com/album/43ifcO1K5HZsufvpomPkh5) | 3:47 | 2023-07-27 | 2023-09-08 |

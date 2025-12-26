@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "639 Hz Compassion",
+        "url": "https://open.spotify.com/album/01oSV7pzXDvsACSbXryXqB"
+      },
+      "artists": [
+        {
+          "name": "Hertz Harmony",
+          "url": "https://open.spotify.com/artist/1LQ6dIMZP4sNgA9hoE1PBT"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170602,
+      "name": "639 Hz Compassion",
+      "url": "https://open.spotify.com/track/1dUEOImbqBBnzIJYmZSJQn"
+    },
+    {
+      "album": {
         "name": "A Mind At Peace",
         "url": "https://open.spotify.com/album/3Uh5lwdmIItGFysG7thSkz"
       },
@@ -16,7 +34,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 162907,
       "name": "A Mind At Peace",
       "url": "https://open.spotify.com/track/6HreYBZASx5JJR82jvZCNs"
@@ -236,6 +254,24 @@
       "duration_ms": 184477,
       "name": "Air in the Morning",
       "url": "https://open.spotify.com/track/7GIEVoZu1C74OdyAPbg9hU"
+    },
+    {
+      "album": {
+        "name": "Airy",
+        "url": "https://open.spotify.com/album/7oOm16JDjnyES3PD4tiEUa"
+      },
+      "artists": [
+        {
+          "name": "Marc Westfield",
+          "url": "https://open.spotify.com/artist/5GbWQkreLZ1Q0anHtK93UJ"
+        }
+      ],
+      "date_added": "2025-12-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Airy",
+      "url": "https://open.spotify.com/track/7kpBv3fPwlJ5OtslNj4vgV"
     },
     {
       "album": {
@@ -4200,7 +4236,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 203374,
       "name": "Sleep Sequence",
       "url": "https://open.spotify.com/track/10m4p8Qb6IeRacfFGyN4Id"

@@ -189255,6 +189255,24 @@
     },
     {
       "album": {
+        "name": "\u30ac\u30a4\u30a2",
+        "url": "https://open.spotify.com/album/0f9cR9kAGMSLGWnVd9eCyL"
+      },
+      "artists": [
+        {
+          "name": "Siip",
+          "url": "https://open.spotify.com/artist/4iJl88yli7zUwkDCNeKyNa"
+        }
+      ],
+      "date_added": "2025-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268487,
+      "name": "\u30ac\u30a4\u30a2",
+      "url": "https://open.spotify.com/track/7JyMBBXAn6guCGmDwJdn6y"
+    },
+    {
+      "album": {
         "name": "\u30ac\u30c3\u30c4\u30dd\u30fc\u30ba",
         "url": "https://open.spotify.com/album/574xJzcBfgbSH3xlXiHFPo"
       },

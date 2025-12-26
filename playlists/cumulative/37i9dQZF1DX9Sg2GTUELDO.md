@@ -2,7 +2,7 @@
 
 ### [最愛女聲](https://open.spotify.com/playlist/37i9dQZF1DX9Sg2GTUELDO)
 
-> 感受女聲力量。Cover: 謝雅兒
+> 感受女聲力量。Cover: 楊千嬅
 
 617 songs - 1 day 12 hr 42 min
 

@@ -1,6 +1,6 @@
 {
   "description": "A hand-picked selection for an extraordinary palette. Cover: Mumford & Sons, Hozier",
-  "num_followers": 93717,
+  "num_followers": 93709,
   "original_name": "The Listening Post",
   "owner": {
     "name": "Spotify",
@@ -199,6 +199,22 @@
     {
       "added_at": "2025-10-23 23:00:21",
       "album": {
+        "name": "SAYA",
+        "url": "https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE"
+      },
+      "artists": [
+        {
+          "name": "Saya Gray",
+          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
+        }
+      ],
+      "duration_ms": 209100,
+      "name": "..THUS IS WHY ( I DON\u2019T SPRING 4 LOVE )",
+      "url": "https://open.spotify.com/track/29UD619bhwDjNXvuSh6cDz"
+    },
+    {
+      "added_at": "2025-10-23 23:00:21",
+      "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/0ymCOKHMKGzUS0Pv0MLpgv"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 240629,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/1VO8Kwv6w3Yk1O1NMwNlba"
-    },
-    {
-      "added_at": "2025-10-23 23:00:21",
-      "album": {
-        "name": "SAYA",
-        "url": "https://open.spotify.com/album/4w5yIvQJ8vlxDnMyN8A8qE"
-      },
-      "artists": [
-        {
-          "name": "Saya Gray",
-          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
-        }
-      ],
-      "duration_ms": 209100,
-      "name": "..THUS IS WHY ( I DON\u2019T SPRING 4 LOVE )",
-      "url": "https://open.spotify.com/track/29UD619bhwDjNXvuSh6cDz"
     },
     {
       "added_at": "2025-10-23 23:00:21",
@@ -367,6 +367,22 @@
     {
       "added_at": "2025-10-23 23:00:21",
       "album": {
+        "name": "Afterlife",
+        "url": "https://open.spotify.com/album/0DnQhNQf6xRTkN1nVC4l1i"
+      },
+      "artists": [
+        {
+          "name": "Alex G",
+          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
+        }
+      ],
+      "duration_ms": 210301,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/0yYQbFuqvXyZc46e2QEqI7"
+    },
+    {
+      "added_at": "2025-10-23 23:00:21",
+      "album": {
         "name": "Melodramatic Fanatic",
         "url": "https://open.spotify.com/album/4WZlY1rMOLJsJJg0goAPq5"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 249166,
       "name": "Melodramatic Fanatic",
       "url": "https://open.spotify.com/track/6kJB0UAaSCnFCJMRc5nVze"
-    },
-    {
-      "added_at": "2025-10-23 23:00:21",
-      "album": {
-        "name": "Afterlife",
-        "url": "https://open.spotify.com/album/0DnQhNQf6xRTkN1nVC4l1i"
-      },
-      "artists": [
-        {
-          "name": "Alex G",
-          "url": "https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs"
-        }
-      ],
-      "duration_ms": 210301,
-      "name": "Afterlife",
-      "url": "https://open.spotify.com/track/0yYQbFuqvXyZc46e2QEqI7"
     },
     {
       "added_at": "2025-10-23 23:00:21",
@@ -563,22 +563,6 @@
     {
       "added_at": "2025-10-23 23:00:21",
       "album": {
-        "name": "Dog Eared",
-        "url": "https://open.spotify.com/album/79zQn0JeZ9tVX2T0VvpDGi"
-      },
-      "artists": [
-        {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
-        }
-      ],
-      "duration_ms": 219503,
-      "name": "Planets",
-      "url": "https://open.spotify.com/track/3dd8B6aaibeQOssE9epPl0"
-    },
-    {
-      "added_at": "2025-10-23 23:00:21",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/5mPkilFOM7WabqNcBkN8ZI"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 131906,
       "name": "Home",
       "url": "https://open.spotify.com/track/6e1LCVpjkOXQ65iZ7RRRyC"
+    },
+    {
+      "added_at": "2025-10-23 23:00:21",
+      "album": {
+        "name": "Dog Eared",
+        "url": "https://open.spotify.com/album/79zQn0JeZ9tVX2T0VvpDGi"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 219503,
+      "name": "Planets",
+      "url": "https://open.spotify.com/track/3dd8B6aaibeQOssE9epPl0"
     },
     {
       "added_at": "2025-10-23 23:00:21",
@@ -771,18 +771,18 @@
     {
       "added_at": "2025-10-23 23:00:21",
       "album": {
-        "name": "Altar",
-        "url": "https://open.spotify.com/album/4IsaQVu7n8r6p7Owan3A9f"
+        "name": "Ginkgo",
+        "url": "https://open.spotify.com/album/1YO3Eb228rrhTC0gKgGxSW"
       },
       "artists": [
         {
-          "name": "NewDad",
-          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
+          "name": "Panchiko",
+          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
         }
       ],
-      "duration_ms": 218335,
-      "name": "Misery",
-      "url": "https://open.spotify.com/track/79M4oshPYhR9UlOZ9Ik8im"
+      "duration_ms": 188417,
+      "name": "Chapel of Salt",
+      "url": "https://open.spotify.com/track/3j5KrZaaNOdHRydQ8w4Ck8"
     },
     {
       "added_at": "2025-10-23 23:00:21",
@@ -803,18 +803,18 @@
     {
       "added_at": "2025-10-23 23:00:21",
       "album": {
-        "name": "Ginkgo",
-        "url": "https://open.spotify.com/album/1YO3Eb228rrhTC0gKgGxSW"
+        "name": "Altar",
+        "url": "https://open.spotify.com/album/4IsaQVu7n8r6p7Owan3A9f"
       },
       "artists": [
         {
-          "name": "Panchiko",
-          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
+          "name": "NewDad",
+          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
         }
       ],
-      "duration_ms": 188417,
-      "name": "Chapel of Salt",
-      "url": "https://open.spotify.com/track/3j5KrZaaNOdHRydQ8w4Ck8"
+      "duration_ms": 218335,
+      "name": "Misery",
+      "url": "https://open.spotify.com/track/79M4oshPYhR9UlOZ9Ik8im"
     },
     {
       "added_at": "2025-10-23 23:00:21",
@@ -947,22 +947,6 @@
     {
       "added_at": "2025-10-23 23:00:21",
       "album": {
-        "name": "Uno II",
-        "url": "https://open.spotify.com/album/7fvZOXZ2ttLiJNBjjLEBbg"
-      },
-      "artists": [
-        {
-          "name": "Viagra Boys",
-          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
-        }
-      ],
-      "duration_ms": 135831,
-      "name": "Uno II",
-      "url": "https://open.spotify.com/track/2CHdkhVS2Nh0fIEdzpokC7"
-    },
-    {
-      "added_at": "2025-10-23 23:00:21",
-      "album": {
         "name": "Pined For You My Whole Life",
         "url": "https://open.spotify.com/album/47CrI5tzjO4ULXAgf8irey"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 198186,
       "name": "Pined For You My Whole Life",
       "url": "https://open.spotify.com/track/45ACl4h73fWq3pAjGxyGNi"
+    },
+    {
+      "added_at": "2025-10-23 23:00:21",
+      "album": {
+        "name": "Uno II",
+        "url": "https://open.spotify.com/album/7fvZOXZ2ttLiJNBjjLEBbg"
+      },
+      "artists": [
+        {
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+        }
+      ],
+      "duration_ms": 135831,
+      "name": "Uno II",
+      "url": "https://open.spotify.com/track/2CHdkhVS2Nh0fIEdzpokC7"
     },
     {
       "added_at": "2025-10-23 23:00:21",
@@ -1079,38 +1079,6 @@
     {
       "added_at": "2025-10-23 23:00:21",
       "album": {
-        "name": "Everything I Wanted",
-        "url": "https://open.spotify.com/album/0CuBAVMISMqiGvaApkyhL2"
-      },
-      "artists": [
-        {
-          "name": "NewDad",
-          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
-        }
-      ],
-      "duration_ms": 258826,
-      "name": "Everything I Wanted",
-      "url": "https://open.spotify.com/track/1LecY80M7XK0DkAiG37KAc"
-    },
-    {
-      "added_at": "2025-10-23 23:00:21",
-      "album": {
-        "name": "Michelangelo Dying",
-        "url": "https://open.spotify.com/album/1Ce9FPiBLS0PBkYjg2NKho"
-      },
-      "artists": [
-        {
-          "name": "Cate Le Bon",
-          "url": "https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G"
-        }
-      ],
-      "duration_ms": 274443,
-      "name": "Mothers of Riches",
-      "url": "https://open.spotify.com/track/01X9GlmZ6LBEKbeC7xS5Zt"
-    },
-    {
-      "added_at": "2025-10-23 23:00:21",
-      "album": {
         "name": "Everybody Laughs",
         "url": "https://open.spotify.com/album/07UWuNYU2qSx5QMSJsNtkL"
       },
@@ -1127,6 +1095,22 @@
       "duration_ms": 228253,
       "name": "Everybody Laughs",
       "url": "https://open.spotify.com/track/1gbFItwP8tng1ZeXoqh0eS"
+    },
+    {
+      "added_at": "2025-10-23 23:00:21",
+      "album": {
+        "name": "Everything I Wanted",
+        "url": "https://open.spotify.com/album/0CuBAVMISMqiGvaApkyhL2"
+      },
+      "artists": [
+        {
+          "name": "NewDad",
+          "url": "https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6"
+        }
+      ],
+      "duration_ms": 258826,
+      "name": "Everything I Wanted",
+      "url": "https://open.spotify.com/track/1LecY80M7XK0DkAiG37KAc"
     },
     {
       "added_at": "2025-10-23 23:00:21",
@@ -1151,22 +1135,18 @@
     {
       "added_at": "2025-10-23 23:00:21",
       "album": {
-        "name": "Serious",
-        "url": "https://open.spotify.com/album/6CEa4YryuGAedfpmH9skvO"
+        "name": "Michelangelo Dying",
+        "url": "https://open.spotify.com/album/1Ce9FPiBLS0PBkYjg2NKho"
       },
       "artists": [
         {
-          "name": "Indigo De Souza",
-          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
-        },
-        {
-          "name": "Moth\u00e9",
-          "url": "https://open.spotify.com/artist/1aAAIapQGdmLC30d26LZuJ"
+          "name": "Cate Le Bon",
+          "url": "https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G"
         }
       ],
-      "duration_ms": 151454,
-      "name": "Serious",
-      "url": "https://open.spotify.com/track/7K0JWFM79uCdRsGW13DRDm"
+      "duration_ms": 274443,
+      "name": "Mothers of Riches",
+      "url": "https://open.spotify.com/track/01X9GlmZ6LBEKbeC7xS5Zt"
     },
     {
       "added_at": "2025-10-23 23:00:21",
@@ -1183,6 +1163,26 @@
       "duration_ms": 191620,
       "name": "Little Black Dress",
       "url": "https://open.spotify.com/track/5lDV7OJxjzx4ln8DPZNLeR"
+    },
+    {
+      "added_at": "2025-10-23 23:00:21",
+      "album": {
+        "name": "Serious",
+        "url": "https://open.spotify.com/album/6CEa4YryuGAedfpmH9skvO"
+      },
+      "artists": [
+        {
+          "name": "Indigo De Souza",
+          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
+        },
+        {
+          "name": "Moth\u00e9",
+          "url": "https://open.spotify.com/artist/1aAAIapQGdmLC30d26LZuJ"
+        }
+      ],
+      "duration_ms": 151454,
+      "name": "Serious",
+      "url": "https://open.spotify.com/track/7K0JWFM79uCdRsGW13DRDm"
     },
     {
       "added_at": "2025-10-23 23:00:21",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2025-10-23 23:00:21",
       "album": {
-        "name": "100 Horses",
-        "url": "https://open.spotify.com/album/7H0nTLxKn6dK9Z8451o4pG"
-      },
-      "artists": [
-        {
-          "name": "Geese",
-          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
-        }
-      ],
-      "duration_ms": 226355,
-      "name": "100 Horses",
-      "url": "https://open.spotify.com/track/1bHFGVgvmhnhDKAz1FnaoB"
-    },
-    {
-      "added_at": "2025-10-23 23:00:21",
-      "album": {
         "name": "But I'll Keep Trying",
         "url": "https://open.spotify.com/album/3VLwV4o2WGARLpANnoPe57"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 191342,
       "name": "But I'll Keep Trying",
       "url": "https://open.spotify.com/track/5WRTFJtlDo2xjHF8LpEpGo"
+    },
+    {
+      "added_at": "2025-10-23 23:00:21",
+      "album": {
+        "name": "100 Horses",
+        "url": "https://open.spotify.com/album/7H0nTLxKn6dK9Z8451o4pG"
+      },
+      "artists": [
+        {
+          "name": "Geese",
+          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
+        }
+      ],
+      "duration_ms": 226355,
+      "name": "100 Horses",
+      "url": "https://open.spotify.com/track/1bHFGVgvmhnhDKAz1FnaoB"
     },
     {
       "added_at": "2025-10-23 23:00:21",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2025-10-23 23:00:21",
       "album": {
-        "name": "Love Is Cruel",
-        "url": "https://open.spotify.com/album/2BYbTmMxBbBxP2d7uPTxIo"
-      },
-      "artists": [
-        {
-          "name": "Miles Kane",
-          "url": "https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn"
-        }
-      ],
-      "duration_ms": 193984,
-      "name": "Love Is Cruel",
-      "url": "https://open.spotify.com/track/0u7sy3s6Wu2VrYwqub4Rp2"
-    },
-    {
-      "added_at": "2025-10-23 23:00:21",
-      "album": {
         "name": "The Forest Is The Path (Extended Edition)",
         "url": "https://open.spotify.com/album/6irdOmMm1renAtesHgETEv"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 268768,
       "name": "Bell",
       "url": "https://open.spotify.com/track/37DObnoiSDWEjH6Izh5mhQ"
+    },
+    {
+      "added_at": "2025-10-23 23:00:21",
+      "album": {
+        "name": "Love Is Cruel",
+        "url": "https://open.spotify.com/album/2BYbTmMxBbBxP2d7uPTxIo"
+      },
+      "artists": [
+        {
+          "name": "Miles Kane",
+          "url": "https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn"
+        }
+      ],
+      "duration_ms": 193984,
+      "name": "Love Is Cruel",
+      "url": "https://open.spotify.com/track/0u7sy3s6Wu2VrYwqub4Rp2"
     },
     {
       "added_at": "2025-10-23 23:00:21",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2025-10-23 23:00:21",
       "album": {
-        "name": "Dialing In",
-        "url": "https://open.spotify.com/album/3TCiNEzwse1s2hArQotFMK"
-      },
-      "artists": [
-        {
-          "name": "Thom Yorke",
-          "url": "https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau"
-        }
-      ],
-      "duration_ms": 280968,
-      "name": "Dialing In",
-      "url": "https://open.spotify.com/track/7mCMTIXtBm2QxoULtEsSu7"
-    },
-    {
-      "added_at": "2025-10-23 23:00:21",
-      "album": {
         "name": "NATIONAL AVERAGE.",
         "url": "https://open.spotify.com/album/2wHHIEXgiVxTRS2EjFzMmo"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 189842,
       "name": "GOD SAVE THE PONY.",
       "url": "https://open.spotify.com/track/3QrvKxTmQWIpI9cGE3HakK"
+    },
+    {
+      "added_at": "2025-10-23 23:00:21",
+      "album": {
+        "name": "Dialing In",
+        "url": "https://open.spotify.com/album/3TCiNEzwse1s2hArQotFMK"
+      },
+      "artists": [
+        {
+          "name": "Thom Yorke",
+          "url": "https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau"
+        }
+      ],
+      "duration_ms": 280968,
+      "name": "Dialing In",
+      "url": "https://open.spotify.com/track/7mCMTIXtBm2QxoULtEsSu7"
     },
     {
       "added_at": "2025-10-23 23:00:21",

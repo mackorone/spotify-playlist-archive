@@ -1,12 +1,12 @@
 {
   "description": "This is Gerardo Ortiz. The essential tracks, all in one playlist.",
-  "num_followers": 471003,
+  "num_followers": 471025,
   "original_name": "This Is Gerardo Ortiz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUnbgAAAAADpmiqUDPymurydmjJkx8fy",
+  "snapshot_id": "aUstAAAAAADceW+hnAE1reEeMAWxpkVm",
   "tracks": [
     {
       "added_at": null,
@@ -59,6 +59,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hoy M\u00e1s Fuerte",
+        "url": "https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 131853,
+      "name": "Fuiste M\u00eda",
+      "url": "https://open.spotify.com/track/0QRHEmvbFr73h5Fyk33fji"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tal Como Eres",
         "url": "https://open.spotify.com/album/2wU20CR1rYUTHYbzIy8bBT"
       },
@@ -75,22 +91,6 @@
       "duration_ms": 230802,
       "name": "Tal Como Eres",
       "url": "https://open.spotify.com/track/217m0uJ8ntyl2Zm1JSABzB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hoy M\u00e1s Fuerte",
-        "url": "https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 131853,
-      "name": "Fuiste M\u00eda",
-      "url": "https://open.spotify.com/track/0QRHEmvbFr73h5Fyk33fji"
     },
     {
       "added_at": null,
@@ -667,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Comer\u00e9 Callado, Vol. 2",
+        "url": "https://open.spotify.com/album/2NnG41uV3cvz0iYocqk5WR"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 172267,
+      "name": "El Aroma de Tu Piel",
+      "url": "https://open.spotify.com/track/6ppEDoyrYVONvuaGo7Chv6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Por Ah\u00ed, Por Ah\u00ed",
         "url": "https://open.spotify.com/album/41KOsqoNOP6XhNBtY3yqi8"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 157116,
       "name": "Por Ah\u00ed, Por Ah\u00ed",
       "url": "https://open.spotify.com/track/2nlSXEs9hETAlXCjZbnNvh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Comer\u00e9 Callado, Vol. 2",
-        "url": "https://open.spotify.com/album/2NnG41uV3cvz0iYocqk5WR"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 172267,
-      "name": "El Aroma de Tu Piel",
-      "url": "https://open.spotify.com/track/6ppEDoyrYVONvuaGo7Chv6"
     },
     {
       "added_at": null,

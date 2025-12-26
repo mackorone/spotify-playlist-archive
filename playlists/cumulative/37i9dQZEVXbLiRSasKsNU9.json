@@ -21042,7 +21042,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 155590,
       "name": "Dhurandhar - Title Track (From \"Dhurandhar\")",
       "url": "https://open.spotify.com/track/1ifI8ipBJreNmLDYigFc6d"
@@ -22114,7 +22114,7 @@
       ],
       "date_added": "2025-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 289621,
       "name": "DJ SO ASU",
       "url": "https://open.spotify.com/track/3BaGvtdpVUGGXklAw4ztHb"
@@ -55028,10 +55028,28 @@
       ],
       "date_added": "2025-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 228360,
       "name": "My Moon My Man",
       "url": "https://open.spotify.com/track/4fQVQKIiidREPI0MhFEuDn"
+    },
+    {
+      "album": {
+        "name": "The Reminder",
+        "url": "https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z"
+      },
+      "artists": [
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "date_added": "2025-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228360,
+      "name": "My Moon My Man",
+      "url": "https://open.spotify.com/track/5FFQbvn7055P1DvgJDdCBP"
     },
     {
       "album": {
@@ -71029,6 +71047,28 @@
     },
     {
       "album": {
+        "name": "Seet Lehar",
+        "url": "https://open.spotify.com/album/2u8LXYV3TzgvjaRA1dP5rP"
+      },
+      "artists": [
+        {
+          "name": "Filmy",
+          "url": "https://open.spotify.com/artist/0w4av5JIPZk9ZQ0lg6WwY4"
+        },
+        {
+          "name": "Riyaazi",
+          "url": "https://open.spotify.com/artist/5LN6cFuEopifixZsRarBri"
+        }
+      ],
+      "date_added": "2025-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207096,
+      "name": "Seet Lehar",
+      "url": "https://open.spotify.com/track/0U1TeVxM67Qig7YBdiAosz"
+    },
+    {
+      "album": {
         "name": "Contradi\u00e7\u00f5es",
         "url": "https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D"
       },
@@ -76152,7 +76192,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-29",
+      "date_removed": null,
       "duration_ms": 176360,
       "name": "Stop The Cavalry",
       "url": "https://open.spotify.com/track/2bPQuniBB9x0fRtxDly0kr"

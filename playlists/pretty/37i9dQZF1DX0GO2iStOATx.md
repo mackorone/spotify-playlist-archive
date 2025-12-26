@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0GO2iStOATx.md) - [plain]
 
 > Punjabi superstar’s biggest hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,675 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,729 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,10 +26,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0GO2iStOATx.md) - [plain]
 | 16 | [Ak 47 \- From "Hero Naam Yaad Rakhi"](https://open.spotify.com/track/1sPu6Tfpdk5nksIKixMTJ6) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Best of Punjabi Superstar Diljit Dosanjh](https://open.spotify.com/album/2K9ziITxFGxwD7p8qvN1WX) | 3:10 |
 | 17 | [5 Taara](https://open.spotify.com/track/3Mghyxm9EHqlXDE8811Z9B) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Jatinder Shah](https://open.spotify.com/artist/4vGVzTMuXsO1vb5YA8vKEr) | [5 Taara](https://open.spotify.com/album/0ypcANqICUdvLiDBJ0H1Jn) | 2:58 |
 | 18 | [Pappleen](https://open.spotify.com/track/7p4SfEwbVzpBhkn9ACSGzw) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Sardaarji 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4OtiPey44eFtHR0k3EVJVz) | 2:40 |
-| 19 | [Mitran da Junction](https://open.spotify.com/track/45ZvGm4spSjkkCuuIIDWmx) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Sardaarji 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4OtiPey44eFtHR0k3EVJVz) | 3:03 |
-| 20 | [Veer Vaar \- From "Sardaarji"](https://open.spotify.com/track/6jjZAa7vzI1MEPQdNLXKXy) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Tarannum Malik Jain](https://open.spotify.com/artist/3dihrcurT9YFHMT8KpaIKa) | [Best of Punjabi Superstar Diljit Dosanjh](https://open.spotify.com/album/2K9ziITxFGxwD7p8qvN1WX) | 2:22 |
-| 21 | [Lak 28 Kudi Da](https://open.spotify.com/track/43ptYENIQJfqMWdCtyGFk8) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [Lak 28 Kudi Da](https://open.spotify.com/album/526HxFaDf5l1T0C5QBoT7B) | 3:32 |
-| 22 | [Laembadgini](https://open.spotify.com/track/5zKWrXbY0EU8ZComTwfnk6) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Jatinder Shah](https://open.spotify.com/artist/4vGVzTMuXsO1vb5YA8vKEr) | [Laembadgini](https://open.spotify.com/album/1GNGRwlZYpVr2Itn1D9jK1) | 3:06 |
+| 19 | [Lak 28 Kudi Da](https://open.spotify.com/track/43ptYENIQJfqMWdCtyGFk8) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [Lak 28 Kudi Da](https://open.spotify.com/album/526HxFaDf5l1T0C5QBoT7B) | 3:32 |
+| 20 | [Laembadgini](https://open.spotify.com/track/5zKWrXbY0EU8ZComTwfnk6) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Jatinder Shah](https://open.spotify.com/artist/4vGVzTMuXsO1vb5YA8vKEr) | [Laembadgini](https://open.spotify.com/album/1GNGRwlZYpVr2Itn1D9jK1) | 3:06 |
+| 21 | [Mitran da Junction](https://open.spotify.com/track/45ZvGm4spSjkkCuuIIDWmx) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Sardaarji 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4OtiPey44eFtHR0k3EVJVz) | 3:03 |
+| 22 | [Veer Vaar \- From "Sardaarji"](https://open.spotify.com/track/6jjZAa7vzI1MEPQdNLXKXy) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Tarannum Malik Jain](https://open.spotify.com/artist/3dihrcurT9YFHMT8KpaIKa) | [Best of Punjabi Superstar Diljit Dosanjh](https://open.spotify.com/album/2K9ziITxFGxwD7p8qvN1WX) | 2:22 |
 | 23 | [Raat Di Gedi](https://open.spotify.com/track/1v7nvuF8Or7nTX0hqNg2FA) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Jatinder Shah](https://open.spotify.com/artist/4vGVzTMuXsO1vb5YA8vKEr) | [Raat Di Gedi](https://open.spotify.com/album/0o0DkE6Z8UbdRF67DafGAJ) | 3:18 |
 | 24 | [Truck](https://open.spotify.com/track/3GUpX7xIjE4Z3tYjKK3oY7) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Tru\-Skool](https://open.spotify.com/artist/0u7HSxKLO9fsEeD20dW4H2) | [Back to Basics](https://open.spotify.com/album/2DJqmHoYQ5uS5Vhg8GVC1d) | 3:29 |
 | 25 | [Poh Di Raat](https://open.spotify.com/track/6kqTzI4FCVdot2cVP1Zcqe) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Tee L](https://open.spotify.com/artist/6TsJMutd2Oq9jQRdlFeGUv) | [Back to Basics](https://open.spotify.com/album/2DJqmHoYQ5uS5Vhg8GVC1d) | 3:44 |

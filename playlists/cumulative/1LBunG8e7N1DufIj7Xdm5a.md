@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-3,769 songs - 8 day 7 hr 57 min
+3,771 songs - 8 day 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1259,6 +1259,7 @@
 | [Fire Lighter](https://open.spotify.com/track/1lp1qlP0bteQTKuhGHCB4t) | [Riptide River](https://open.spotify.com/artist/34jMmxTuTBIR5DnbUE9AkX) | [Overdrive](https://open.spotify.com/album/2enRTMrOe25fNz0EtZ3rBp) | 3:39 | 2025-09-26 |  |
 | [Fire Starter](https://open.spotify.com/track/3YjfhJzOKPX2jL0gOJptBR) | [Sons of Legion](https://open.spotify.com/artist/4WBCjNjq0MGPsvcXyOPWKW) | [Fire Starter](https://open.spotify.com/album/04RhtkfQIWZqVKoxwmJwms) | 2:28 | 2025-01-23 |  |
 | [Fire\-Fire!](https://open.spotify.com/track/3ElFZz2vDDWWzLPtjfXRUb) | [murCATolog](https://open.spotify.com/artist/2KoZ9RKRH2ktVlVpDEUoYj) | [Fire\-Fire!](https://open.spotify.com/album/4p16uzyXDB2tGu4r9t2Sd2) | 2:43 | 2025-06-05 |  |
+| [Firefly Feast](https://open.spotify.com/track/2fgK8lEyLfYn5DAgHjL4j1) | [MGila\_00](https://open.spotify.com/artist/29ghh8SWOgR4zcnUrG5pp8) | [Dark Forest Cruise](https://open.spotify.com/album/5UJrnNlYatHz2JjPCD5IHq) | 2:09 | 2025-12-25 |  |
 | [First day of the month](https://open.spotify.com/track/4jd1pxuPftkrDIPAxn1if5) | [Deadarchives](https://open.spotify.com/artist/74kszt2wmigyELkurcdEdi) | [Paranoia](https://open.spotify.com/album/4DvnfJcQj24VSJ2PCMsFHR) | 2:45 | 2025-10-14 |  |
 | [Fit](https://open.spotify.com/track/7awMmCYaGE1I6z0oX30sUN) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Le 20 Parole in Slang Più Virali del 2025 \(Se Non Le Usi, Sei Fuori!\)](https://open.spotify.com/album/69RjNyMSGbTMcHDf8psNgs) | 1:57 | 2025-09-17 |  |
 | [five](https://open.spotify.com/track/0bFuDC16t5CfysEsdR0UpF) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Relaxing songs](https://open.spotify.com/album/0vvgdvru0enjJknJVwKloZ) | 3:53 | 2025-08-20 |  |
@@ -3250,6 +3251,7 @@
 | [The Pirate Emergency](https://open.spotify.com/track/5jfvOGQXhj6YdYXROgee3l) | [Oli Frost](https://open.spotify.com/artist/5dFJdXPDdubN7e6RIC2MXP) | [The Pirate Emergency](https://open.spotify.com/album/4D1EtWFbeP5KSuZcq8rckv) | 1:47 | 2025-11-05 |  |
 | [The Pop Inn](https://open.spotify.com/track/1m3yiee7tphe7ksWNpclxt) | [Sons of Southern Ulster](https://open.spotify.com/artist/163H9BzUOjxSpO4ID6l6lM) | [Foundry Folk Songs](https://open.spotify.com/album/5AVfboJoZrrXZJelKoQA0F) | 3:46 | 2025-11-05 |  |
 | [the prince act 3](https://open.spotify.com/track/2Jj8GGBEQlJgYgKOngoTzn) | [Mofe.](https://open.spotify.com/artist/1KM7CSGxtFgMF8NmNuRGXa) | [CLAP FOR YOURSELF](https://open.spotify.com/album/1RBqABpLTObPEsUEjxIwgq) | 2:20 | 2025-05-16 |  |
+| [The Ride Down](https://open.spotify.com/track/6AMWZ9fWpN2U28a3H5a7SS) | [Tilt 360](https://open.spotify.com/artist/32oplagvPK0sLgWgOm5u2x) | [It Grows](https://open.spotify.com/album/1NUY4o4RVyI3Y7NXO5mMq8) | 3:57 | 2025-12-25 |  |
 | [The Rustle of Tomorrow](https://open.spotify.com/track/36KXI2Bj6EnztjozCgXL7r) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Modern Folk](https://open.spotify.com/album/5jCNJY2VNxafCKg7WInfHQ) | 3:29 | 2025-09-19 |  |
 | [The Rustle of Tomorrow \(another\)](https://open.spotify.com/track/6bJpxqzexfceCIFfk7cPFY) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Modern Folk](https://open.spotify.com/album/5jCNJY2VNxafCKg7WInfHQ) | 3:31 | 2025-09-19 |  |
 | [The Same](https://open.spotify.com/track/0iVmfN4Un1VRuMsEnlO673) | [Ni$ha Da Chef](https://open.spotify.com/artist/6mbzGJFvDEgJKGCWFSMEQB) | [Femme Fatale](https://open.spotify.com/album/1qR865q68eI3yrc6Kq2Miq) | 2:10 | 2025-11-16 |  |

@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-1,676 songs - 4 day 5 hr 35 min
+1,677 songs - 4 day 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1122,6 +1122,7 @@
 | [Poco culpables](https://open.spotify.com/track/4Yx2ygl52X0fRtjSdCtLeB) | [Engualichado](https://open.spotify.com/artist/28DTWHohDlCJBJdh0Z6vwc) | [Estoico\-ntento](https://open.spotify.com/album/4v3H0D5wGPnbl7KVw1Ichs) | 2:54 | 2025-05-12 |  |
 | [Poema I: Reflejos](https://open.spotify.com/track/5nI3jl9JP5c7krieVx7Weh) | [Luis Miguel Lozano](https://open.spotify.com/artist/3KDQvrBZpjnZQuDzkLNd0H) | [Reflejos](https://open.spotify.com/album/6WoSPftgM3QbbppimfGjz7) | 0:54 | 2025-06-03 |  |
 | [pogoasana](https://open.spotify.com/track/4hYg1rLkqtvziccn5jhnOZ) | [AEROFAGIA](https://open.spotify.com/artist/6eVRVwalD8ZWo66MNxT1UA) | [Su\-PER\-GIu](https://open.spotify.com/album/4yPh7FzQJJ31adWMGLUZfZ) | 2:02 | 2025-07-20 |  |
+| [POLE POLE](https://open.spotify.com/track/1slDFbODGFm4ztv7XlysSg) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [POLE POLE](https://open.spotify.com/album/6ZTsDoZzJxI2LBMuFC5zF7) | 2:42 | 2025-12-26 |  |
 | [Poncho Dub](https://open.spotify.com/track/6LOSSEQStBtYLzZYfeRuvo) | [Munay Ki Dub](https://open.spotify.com/artist/2AhLMWSB5ljBDOSpz1RvzE) | [Poncho Dub](https://open.spotify.com/album/3OFPpzLmCBYYtuNaai9eJ0) | 4:57 | 2024-03-29 |  |
 | [Poop Goes in the Toilet](https://open.spotify.com/track/6dZ29RCNpeSx16744HSUTA) | [Paper Bagg Band](https://open.spotify.com/artist/1hHk52TIe6t4KW443P0iuq) | [Poop Goes in the Toilet](https://open.spotify.com/album/4Wpc4MXAVzMxxmsIoZ51XR) | 2:45 | 2025-09-30 |  |
 | [Por el Sendero de la Utopia](https://open.spotify.com/track/2GG4V8WAkDnD8EqNemWSWk) | [Lonely Days For](https://open.spotify.com/artist/4yTcl4GvLCu068IP0chIQw) | [Transición](https://open.spotify.com/album/7H8t3H9Az4FLBQ9e7EwGC4) | 2:37 | 2025-07-15 |  |

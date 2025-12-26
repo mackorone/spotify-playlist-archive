@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxUko6rcfsK.md) - [plain]
 
 > Het leven is 'beautiful' en dat verdient fijne muziek!
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,945 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,939 likes - 60 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUxUko6rcfsK.md) - [plain]
 | 59 | [Wildfire](https://open.spotify.com/track/6oRFmBb9C6i3GgDpI9a9Uv) | [Jack Jarryd](https://open.spotify.com/artist/5Dam89i2XdJgnz3Gk9Achk) | [Wildfire](https://open.spotify.com/album/2Z8Y6nIVFSbsQaVc4xvGK2) | 3:01 |
 | 60 | [Broke](https://open.spotify.com/track/3UeVin0MUnhQdSRF4pxgfn) | [Wulf](https://open.spotify.com/artist/134sCDSe1w2zPnfCG4hT0f) | [Broke](https://open.spotify.com/album/0O32VuAQRu1yxK8kYGw13E) | 2:41 |
 
-Snapshot ID: `AAAAAKEdkhhCUHY2rOTrGooYCIDgzPIC`
+Snapshot ID: `AAAAAGBMYDZhFDpyAjdM+sVgvixWYF8c`

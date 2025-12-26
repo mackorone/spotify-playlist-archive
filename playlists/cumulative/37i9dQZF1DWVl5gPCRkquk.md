@@ -4,7 +4,7 @@
 
 > Channel some chilled\-out back yard vibes.
 
-381 songs - 23 hr 44 min
+382 songs - 23 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,7 @@
 | [Featherweight](https://open.spotify.com/track/3ir3Eoj0pi0vlhqunNSyK3) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 3:50 | 2021-10-29 |  |
 | [Feel Alive Again](https://open.spotify.com/track/2wgCnWW5jtA6aNAJxgcEN2) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Rosemary](https://open.spotify.com/album/4FH3kwVRrLQHwp88j1i22h) | 4:14 | 2021-10-29 |  |
 | [Field Notes on an Endless Day](https://open.spotify.com/track/3DCBRhUy3ypOvOTSgHIhky) | [Graeme James](https://open.spotify.com/artist/09b4q9Vfmuvxb8LuOrhp7W) | [Field Notes on an Endless Day](https://open.spotify.com/album/1RhrwSrdrxh9ld2spjUHAH) | 3:37 | 2021-10-29 | 2022-07-29 |
-| [Fire Sign](https://open.spotify.com/track/4lrIGxXMwApfERfnLiEnh5) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Fire Sign](https://open.spotify.com/album/0BqQBhMGK7Wc9MuslsWsUf) | 2:58 | 2025-05-02 |  |
+| [Fire Sign](https://open.spotify.com/track/4lrIGxXMwApfERfnLiEnh5) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Fire Sign](https://open.spotify.com/album/0BqQBhMGK7Wc9MuslsWsUf) | 2:58 | 2025-05-02 | 2025-12-26 |
 | [Fly](https://open.spotify.com/track/02KzF8vFmNIhtPW8XKTdHe) | [Anna Graves](https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT) | [Solstice](https://open.spotify.com/album/2B1TsRb3uycachEmnppqsZ) | 3:26 | 2024-10-09 |  |
 | [Follow You](https://open.spotify.com/track/0ukHQwbkc9Tikwus91vQVM) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Follow You / Sunfish](https://open.spotify.com/album/3h8qLAWZIdhZYEprKJ6bER) | 3:49 | 2021-10-29 | 2022-06-12 |
 | [For Months Now](https://open.spotify.com/track/3Qoru0cFoXjTAgUAi9zinE) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [Weird Faith](https://open.spotify.com/album/40hflv8qjnNzLA2ZrFA3yv) | 4:06 | 2024-12-20 | 2025-01-17 |
@@ -378,6 +378,7 @@
 | [Whatever Brings You Peace of Mind](https://open.spotify.com/track/2hLhXlfiQ5maYuFKS5217a) | [Nassau](https://open.spotify.com/artist/5Nv6jv2vG94Yz0NHDYu46O) | [Heron](https://open.spotify.com/album/18MmURU3LigipnhvZh99Se) | 4:39 | 2023-05-19 | 2023-08-20 |
 | [Whatever Brings You Peace of Mind](https://open.spotify.com/track/7D7bQZtXupVSEdBrQ3c1dl) | [Nassau](https://open.spotify.com/artist/5Nv6jv2vG94Yz0NHDYu46O) | [Whatever Brings You Peace of Mind](https://open.spotify.com/album/1Yl6PSxDGN2Kh9Z8DNva24) | 4:39 | 2021-10-29 | 2022-07-29 |
 | [When I Say That I Love You](https://open.spotify.com/track/1L5jdavZ7YMWIFafo1gyZD) | [Gabe Goodman](https://open.spotify.com/artist/3ak5fTKu5X8h4yhvf5ThmF) | [When I Say That I Love You](https://open.spotify.com/album/0cPJV0lQbAtuMXeFK3a784) | 2:57 | 2021-10-29 |  |
+| [Where You Call Home](https://open.spotify.com/track/0ldGwpHcPFzb598ERtfixR) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Where You Call Home](https://open.spotify.com/album/0LIfitnojjd7VwZjrsTsf2) | 3:42 | 2025-11-21 |  |
 | [Wherever You Are](https://open.spotify.com/track/7Lhc9rgUp3cwfwEgo21kZi) | [Parker Millsap](https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur) | [The Very Last Day](https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T) | 3:02 | 2022-04-15 | 2022-04-21 |
 | [Whiskey Whiskey](https://open.spotify.com/track/12oNWDCd6iK6NIsCZFg3B0) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [Whiskey Whiskey](https://open.spotify.com/album/37vW9MedFrxDPmdQlKz5dB) | 2:49 | 2021-10-29 | 2025-04-21 |
 | [Wild Turkey](https://open.spotify.com/track/4aX4dqpYXTxRMTcjekxPyp) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wild Turkey](https://open.spotify.com/album/7iaq4ZxNNKZl9v92lOxQ7N) | 4:32 | 2021-10-29 |  |

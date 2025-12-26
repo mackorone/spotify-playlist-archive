@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-311 songs - 14 hr 56 min
+312 songs - 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [apnoea](https://open.spotify.com/track/2XZOoiOxcItf02RhMQK02f) | [A.Z\. Louna](https://open.spotify.com/artist/09wCM3Hlsk5DNw8Nnkihmk) | [apnoea](https://open.spotify.com/album/3RPPWPbuxp6pR9CgULpGyu) | 2:04 | 2024-05-01 |  |
 | [Asha](https://open.spotify.com/track/6xLtuBNPyD7fBS1XzlSKE2) | [Beatriz Andersson](https://open.spotify.com/artist/2DAZifHcKzL4h3nk6nuBKF) | [Asha](https://open.spotify.com/album/3oOt8cLuvB7sdnb75HaI5k) | 3:30 | 2023-04-28 | 2024-08-24 |
 | [Asterism \(Sound Bath\)](https://open.spotify.com/track/6JMS5jCsa1JZPovmshkeM4) | [Tristan Motuo](https://open.spotify.com/artist/3dmTIkKXnIpN7hUc46cyFi) | [Asterism \(Sound Bath\)](https://open.spotify.com/album/3bsC8W4XLLriOdb16UWEb9) | 2:26 | 2023-07-13 |  |
-| [Astrae In The Park](https://open.spotify.com/track/6UcVJh1WM53K8znHAdvbzU) | [Dyfi Francis](https://open.spotify.com/artist/1JKh71Pj7aGLigPUqmoeqj) | [Astrae In The Park](https://open.spotify.com/album/3w9t9fAwgFr66ABS6a1CNy) | 3:05 | 2023-11-10 |  |
+| [Astrae In The Park](https://open.spotify.com/track/6UcVJh1WM53K8znHAdvbzU) | [Dyfi Francis](https://open.spotify.com/artist/1JKh71Pj7aGLigPUqmoeqj) | [Astrae In The Park](https://open.spotify.com/album/3w9t9fAwgFr66ABS6a1CNy) | 3:05 | 2023-11-10 | 2025-12-26 |
 | [Astral Awakening](https://open.spotify.com/track/6nmpv1rzu5di5iekz580Ez) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Astral Awakening](https://open.spotify.com/album/3qTdu32OsL4QwnfhJ6mP1I) | 2:46 | 2025-06-17 |  |
 | [At Peace](https://open.spotify.com/track/19oPBpvNjztSjlhYpXqqwy) | [Eves Haven](https://open.spotify.com/artist/3aluZDXupxEPepTqjSMdOT) | [At Peace](https://open.spotify.com/album/3248pHS5hOWWi8XBxUyaIy) | 2:26 | 2025-10-15 |  |
 | [Aurorá](https://open.spotify.com/track/25u93aSOn21m8zWmSgL3cV) | [Porthos Riqueti](https://open.spotify.com/artist/0zqr06oM4FSFSVPmOnv3jN) | [Aurorá](https://open.spotify.com/album/70iDnNvqXx8XN4cYbjclqx) | 3:01 | 2024-11-04 |  |
@@ -124,6 +124,7 @@
 | [Fresco](https://open.spotify.com/track/0uVIvH7SSS85MKai9W4wEA) | [Forrest Gomez](https://open.spotify.com/artist/1PHHfV4BP0QFgommlTuc6Q) | [Fresco](https://open.spotify.com/album/03zoFQS69y1JshsZyFRkvD) | 2:26 | 2024-04-01 |  |
 | [From Sharavati](https://open.spotify.com/track/3zLjHmnEHwc9bt1EsuqRDK) | [Dormironauts](https://open.spotify.com/artist/6j73VJJ6sZVqO1CVQdLvEA) | [From Sharavati](https://open.spotify.com/album/5PuJEOW1ZbJVvuzLY5sJsm) | 3:23 | 2023-04-28 | 2025-05-22 |
 | [Garden of Calm](https://open.spotify.com/track/3G70KNuG1MIjALKJhLl7Vr) | [Nature Pulse](https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0) | [Garden of Calm](https://open.spotify.com/album/7E65aQYqv6QXHQEw2sXcsq) | 2:58 | 2025-03-19 |  |
+| [Gentle Awakening](https://open.spotify.com/track/2Ic1x3G8n6VusjdfiMpbd5) | [Cosmic Embrace](https://open.spotify.com/artist/4Ol24ExBEtGVwQiIGwK2c6) | [Gentle Awakening](https://open.spotify.com/album/7LAOipW1fwh42MHfQx2ZH0) | 3:15 | 2025-12-17 |  |
 | [Gentle River Flow](https://open.spotify.com/track/3T5nOnIbdJMrdgmyMW0SFo) | [Alón Celestia](https://open.spotify.com/artist/1dFdXfh5wj3Z4bExZeLIDf) | [Gentle River Flow](https://open.spotify.com/album/4rjsv5OQA5vxTTI3DDU90r) | 2:58 | 2025-05-21 |  |
 | [Gentle Streams](https://open.spotify.com/track/7Jubc6htXiZnuTHz3UKUBj) | [Moonlab](https://open.spotify.com/artist/4bRJSASvzWmN0kH61LUBSu) | [Gentle Streams](https://open.spotify.com/album/6hEx1Yy7xipUYNG4glF8lV) | 3:19 | 2023-11-24 |  |
 | [Glitching](https://open.spotify.com/track/5mGFbVJPUbx8ml6o3gFzcI) | [Solvekin](https://open.spotify.com/artist/6vz9kIJB249V5DbMMH0WZA) | [Glitching](https://open.spotify.com/album/5tEOEdmq5hskUT0cNQlEj8) | 2:27 | 2023-04-28 |  |

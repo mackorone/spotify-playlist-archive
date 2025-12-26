@@ -1,6 +1,6 @@
 {
   "description": "Koleksi lagu tersayang dari para artis negeri jiran. Cover: Meet Uncle Hussain, Adi Priyo",
-  "num_followers": 62917,
+  "num_followers": 62919,
   "original_name": "Berjiran",
   "owner": {
     "name": "Spotify",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-11-29 03:37:32",
       "album": {
-        "name": "1st (Special Edition)",
-        "url": "https://open.spotify.com/album/0qG0Ij0WCn6JgWREX8eAaK"
-      },
-      "artists": [
-        {
-          "name": "MALIQ & D'Essentials",
-          "url": "https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs"
-        }
-      ],
-      "duration_ms": 245400,
-      "name": "Untitled",
-      "url": "https://open.spotify.com/track/1i9iliTpiPLizleapSg37I"
-    },
-    {
-      "added_at": "2024-11-29 03:37:32",
-      "album": {
         "name": "Aku Cinta Padamu",
         "url": "https://open.spotify.com/album/2qSbdOw1byknZvx0RJsfHL"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 328000,
       "name": "Aku Cinta Padamu",
       "url": "https://open.spotify.com/track/7IsErGQbe4jnjBKLd2uGoq"
+    },
+    {
+      "added_at": "2024-11-29 03:37:32",
+      "album": {
+        "name": "1st (Special Edition)",
+        "url": "https://open.spotify.com/album/0qG0Ij0WCn6JgWREX8eAaK"
+      },
+      "artists": [
+        {
+          "name": "MALIQ & D'Essentials",
+          "url": "https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs"
+        }
+      ],
+      "duration_ms": 245400,
+      "name": "Untitled",
+      "url": "https://open.spotify.com/track/1i9iliTpiPLizleapSg37I"
     },
     {
       "added_at": "2024-11-29 03:37:32",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-11-29 03:37:32",
       "album": {
-        "name": "Sudah Ku Tahu",
-        "url": "https://open.spotify.com/album/3VMoNuGSKTOyhXovvbjly0"
-      },
-      "artists": [
-        {
-          "name": "Projector Band",
-          "url": "https://open.spotify.com/artist/7iMjAugk2BtmWvhG5cI40L"
-        }
-      ],
-      "duration_ms": 258331,
-      "name": "Sudah Ku Tahu",
-      "url": "https://open.spotify.com/track/5aErufES0TkxM2HE9SrzW9"
-    },
-    {
-      "added_at": "2024-11-29 03:37:32",
-      "album": {
         "name": "Kekasih Bayangan",
         "url": "https://open.spotify.com/album/2Xw7OI35YCxYybg7zDnK39"
       },
@@ -819,18 +803,34 @@
     {
       "added_at": "2024-11-29 03:37:32",
       "album": {
-        "name": "The Best of Dewa 19",
-        "url": "https://open.spotify.com/album/2AYCO1vDSYRYnlu7tK6ZcS"
+        "name": "Sudah Ku Tahu",
+        "url": "https://open.spotify.com/album/3VMoNuGSKTOyhXovvbjly0"
       },
       "artists": [
         {
-          "name": "Dewa 19",
-          "url": "https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d"
+          "name": "Projector Band",
+          "url": "https://open.spotify.com/artist/7iMjAugk2BtmWvhG5cI40L"
         }
       ],
-      "duration_ms": 241266,
-      "name": "Kamulah Satu - Satunya",
-      "url": "https://open.spotify.com/track/6pCfc6xxUXYBWLMQhIWDmh"
+      "duration_ms": 258331,
+      "name": "Sudah Ku Tahu",
+      "url": "https://open.spotify.com/track/5aErufES0TkxM2HE9SrzW9"
+    },
+    {
+      "added_at": "2024-11-29 03:37:32",
+      "album": {
+        "name": "Rindiani",
+        "url": "https://open.spotify.com/album/3aSrDhdhPEsGwiXm53uDMu"
+      },
+      "artists": [
+        {
+          "name": "Slam",
+          "url": "https://open.spotify.com/artist/6ZK1l84rj8SLSn2tXVgCsf"
+        }
+      ],
+      "duration_ms": 324093,
+      "name": "Gerimis Mengundang",
+      "url": "https://open.spotify.com/track/0uoL9b2NPoSq8bXjD31pWy"
     }
   ],
   "unique_name": "Berjiran",

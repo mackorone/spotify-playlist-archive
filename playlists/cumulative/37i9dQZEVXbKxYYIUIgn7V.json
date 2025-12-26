@@ -813,6 +813,28 @@
     },
     {
       "album": {
+        "name": "3 Haseln\u00fcsse",
+        "url": "https://open.spotify.com/album/5UXeyjZUXUcpgRvb4E4a41"
+      },
+      "artists": [
+        {
+          "name": "Jaques Raup\u00e9",
+          "url": "https://open.spotify.com/artist/7BPiWKbeuWueq4qGMz3A0T"
+        },
+        {
+          "name": "Felix Harrer",
+          "url": "https://open.spotify.com/artist/7DDyntOmWbEgkGoIUaTxEp"
+        }
+      ],
+      "date_added": "2025-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148797,
+      "name": "3 Haseln\u00fcsse",
+      "url": "https://open.spotify.com/track/38XziJOR1OFb4fJ44IUrX1"
+    },
+    {
+      "album": {
         "name": "3 Worte",
         "url": "https://open.spotify.com/album/1rA9JP5of8x3TabXdcbu0p"
       },
@@ -8460,7 +8482,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 91634,
       "name": "CARAMEL JESTER",
       "url": "https://open.spotify.com/track/2Emg9UfihjAkFU3mlal2i9"
@@ -11376,7 +11398,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 166310,
       "name": "Der Teufel tanzt im Volksgarten",
       "url": "https://open.spotify.com/track/1mVeGEE0hlBf78OGpZ0GoX"
@@ -25154,10 +25176,32 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 156000,
       "name": "KATYUSHA",
       "url": "https://open.spotify.com/track/05axRIbcO9nhPiuLRz2pOW"
+    },
+    {
+      "album": {
+        "name": "KATYUSHA",
+        "url": "https://open.spotify.com/album/61WHVQNRL4lI87WBHxjab9"
+      },
+      "artists": [
+        {
+          "name": "BADGRUB",
+          "url": "https://open.spotify.com/artist/3gRNmYljgesdOTcNDZLJ2X"
+        },
+        {
+          "name": "Police In Paris",
+          "url": "https://open.spotify.com/artist/2NQvfk2OahqD2YybayOHC2"
+        }
+      ],
+      "date_added": "2025-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156001,
+      "name": "KATYUSHA",
+      "url": "https://open.spotify.com/track/0r8EzfodJLJqTlMjKUHy2e"
     },
     {
       "album": {
@@ -45674,7 +45718,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 217862,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/7ggenkMBaa7obYGuAC9zzz"
@@ -45946,7 +45990,7 @@
       ],
       "date_added": "2024-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-17",
+      "date_removed": null,
       "duration_ms": 332506,
       "name": "The Power Of Love",
       "url": "https://open.spotify.com/track/1GbyYL0B0Mjn3kSbrEwKKI"
@@ -49914,6 +49958,24 @@
       "duration_ms": 486840,
       "name": "Weightless Part 1",
       "url": "https://open.spotify.com/track/2UZZtkoLOg7IHxeTAdPFvd"
+    },
+    {
+      "album": {
+        "name": "Sternschnuppn",
+        "url": "https://open.spotify.com/album/7AYos0j4BrFnf4ilF368Qc"
+      },
+      "artists": [
+        {
+          "name": "Die Mayerin",
+          "url": "https://open.spotify.com/artist/37MxsobezRyEUn7nwtKmgw"
+        }
+      ],
+      "date_added": "2025-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177040,
+      "name": "Weihnochtn",
+      "url": "https://open.spotify.com/track/2MhD79G8ROx3sVGm2JbTYQ"
     },
     {
       "album": {

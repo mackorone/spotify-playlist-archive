@@ -1434,7 +1434,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-27",
+      "date_removed": null,
       "duration_ms": 140160,
       "name": "Afar\u0103 Ninge Lini\u015ftit",
       "url": "https://open.spotify.com/track/1e9213HmxfiBf3ZEmCd1dU"
@@ -5312,7 +5312,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 159157,
       "name": "Bipolar\u0103",
       "url": "https://open.spotify.com/track/66elBtZzxgKPrj2FvKrQ3R"
@@ -5862,7 +5862,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 122530,
       "name": "BOT",
       "url": "https://open.spotify.com/track/3fd1UJwCkgGhAojjavHEjg"
@@ -7372,9 +7372,9 @@
       ],
       "date_added": "2024-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-27",
+      "date_removed": null,
       "duration_ms": 85266,
-      "name": "Carol of the Bells",
+      "name": "Carol of the Bells (From \"Home Alone\" Soundtrack)",
       "url": "https://open.spotify.com/track/4tHqQMWSqmL6YjXwsqthDI"
     },
     {
@@ -7524,7 +7524,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 126937,
       "name": "Ce Motor",
       "url": "https://open.spotify.com/track/0D5akM6cy8rXkd0BLSiJAA"
@@ -8238,7 +8238,7 @@
       ],
       "date_added": "2022-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 166453,
       "name": "Christmas (Baby Please Come Home)",
       "url": "https://open.spotify.com/track/47ohYW8e7dxCYn9qbUMBCI"
@@ -8919,6 +8919,24 @@
     },
     {
       "album": {
+        "name": "Colinda Cr\u0103ciunului",
+        "url": "https://open.spotify.com/album/0QM7Xgso8eaqhfLtZnfsNA"
+      },
+      "artists": [
+        {
+          "name": "Vasilica Pustiu",
+          "url": "https://open.spotify.com/artist/6TXRlCM8S9QHJ4u9DczZGT"
+        }
+      ],
+      "date_added": "2025-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213932,
+      "name": "Colinda Cr\u0103ciunului",
+      "url": "https://open.spotify.com/track/6pcx5HXf2Vj2PvyccTswwF"
+    },
+    {
+      "album": {
         "name": "Albumul de Craciun",
         "url": "https://open.spotify.com/album/1bybLowvp67yO0q8IXerIq"
       },
@@ -9024,7 +9042,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 180000,
       "name": "Cometa",
       "url": "https://open.spotify.com/track/0jlExIEvYdRx5pN8b65gSc"
@@ -9986,7 +10004,7 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 201558,
       "name": "Daca Iubesti O Tiganca",
       "url": "https://open.spotify.com/track/2bLKqViiiOcKrI8msQKoJr"
@@ -14131,6 +14149,24 @@
     },
     {
       "album": {
+        "name": "Fac Craciunu ca jupanu",
+        "url": "https://open.spotify.com/album/2DX0JGstj4rbReO5lP2aL0"
+      },
+      "artists": [
+        {
+          "name": "Tzanca Uraganu",
+          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
+        }
+      ],
+      "date_added": "2025-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191020,
+      "name": "Fac Craciunu ca jupanu",
+      "url": "https://open.spotify.com/track/7kxFYUJz2hlARaEeohajy5"
+    },
+    {
+      "album": {
         "name": "Fac Deranj",
         "url": "https://open.spotify.com/album/7olEprv4uV1VIcHhDpJnsD"
       },
@@ -17946,7 +17982,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-30",
+      "date_removed": null,
       "duration_ms": 214333,
       "name": "Happy Xmas (War Is Over) - Remastered 2010",
       "url": "https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b"
@@ -18044,6 +18080,24 @@
       "duration_ms": 165882,
       "name": "Havana",
       "url": "https://open.spotify.com/track/4i9Ul89UPf5YPppdOspCH6"
+    },
+    {
+      "album": {
+        "name": "A Jolly Christmas From Frank Sinatra",
+        "url": "https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2025-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206600,
+      "name": "Have Yourself A Merry Little Christmas - Remastered 1999",
+      "url": "https://open.spotify.com/track/2FPfeYlrbSBR8PwCU0zaqq"
     },
     {
       "album": {
@@ -20874,6 +20928,32 @@
       "duration_ms": 155933,
       "name": "It's Beginning to Look a Lot Like Christmas (with Mitchell Ayres & His Orchestra)",
       "url": "https://open.spotify.com/track/2pXpURmn6zC5ZYDMms6fwa"
+    },
+    {
+      "album": {
+        "name": "Greatest Christmas Songs",
+        "url": "https://open.spotify.com/album/1CCaTAFPyzp5XQY9nrk2TO"
+      },
+      "artists": [
+        {
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+        },
+        {
+          "name": "The Fontane Sisters",
+          "url": "https://open.spotify.com/artist/1Ml4OuStDoympbREURAM15"
+        },
+        {
+          "name": "Mitchell Ayres & His Orchestra",
+          "url": "https://open.spotify.com/artist/0HS96tPggl2nwiz3gNWWI5"
+        }
+      ],
+      "date_added": "2025-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155933,
+      "name": "It's Beginning to Look a Lot Like Christmas (with Mitchell Ayres & His Orchestra)",
+      "url": "https://open.spotify.com/track/6IeK3Ap5m3HabwJxgI6eSE"
     },
     {
       "album": {
@@ -24364,7 +24444,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 111157,
       "name": "LV Sandals",
       "url": "https://open.spotify.com/track/5uz5v1hRZLjNGatcPtOWUv"
@@ -25818,7 +25898,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-27",
+      "date_removed": null,
       "duration_ms": 220160,
       "name": "Merry Christmas Everyone",
       "url": "https://open.spotify.com/track/2TE4xW3ImvpltVU0cPcKUn"
@@ -31308,7 +31388,7 @@
       ],
       "date_added": "2025-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 109759,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf"
@@ -34631,6 +34711,24 @@
     },
     {
       "album": {
+        "name": "Rock 'N' Roll Rarities",
+        "url": "https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "date_added": "2025-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165733,
+      "name": "Run Rudolph Run",
+      "url": "https://open.spotify.com/track/2pnPe4pJtq7689i5ydzvJJ"
+    },
+    {
+      "album": {
         "name": "\u0218tefan IV: Umbra",
         "url": "https://open.spotify.com/album/5659zuqfAbbi2zIPziei9t"
       },
@@ -35884,7 +35982,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-27",
+      "date_removed": null,
       "duration_ms": 290666,
       "name": "Seara Lui Cr\u0103ciun",
       "url": "https://open.spotify.com/track/1R7OXAl0QaUoHiA1gzY81P"
@@ -36354,7 +36452,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 142000,
       "name": "sexyZ",
       "url": "https://open.spotify.com/track/2G7zweQ25yC9xHNIGEuvcb"
@@ -37142,7 +37240,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 158437,
       "name": "SLABICIUNEA MEA",
       "url": "https://open.spotify.com/track/6tAU3VBu82Yu1FG2TXuYJM"
@@ -38702,7 +38800,7 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 214649,
       "name": "STIU CA TI-E DOR",
       "url": "https://open.spotify.com/track/2PQDJhSNFJE1YM1lxTSZk9"
@@ -39200,7 +39298,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 188418,
       "name": "Sunt Cu Tzanca Intrun Club Inconjurat De Gagici",
       "url": "https://open.spotify.com/track/4dmFtc69vlPRm6zsDqhtWu"
@@ -44236,7 +44334,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 180393,
       "name": "Vino s\u0103 te f",
       "url": "https://open.spotify.com/track/2AKfAnct7MFEglIueZ7ROM"
@@ -46632,6 +46730,28 @@
       "duration_ms": 194786,
       "name": "ZITTI E BUONI",
       "url": "https://open.spotify.com/track/776AftMmFFAWUIEAb3lHhw"
+    },
+    {
+      "album": {
+        "name": "Ziua-I Mare, Seara-I Sf\u00e2nt\u0103",
+        "url": "https://open.spotify.com/album/3hVgAvCZ4NvmjCfkkLqvsK"
+      },
+      "artists": [
+        {
+          "name": "Ion Paladi",
+          "url": "https://open.spotify.com/artist/2elC21mEhDp2tmT0liltGu"
+        },
+        {
+          "name": "Paula Seling",
+          "url": "https://open.spotify.com/artist/0GeZRE8dyvgduV3KTvLFC3"
+        }
+      ],
+      "date_added": "2025-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305322,
+      "name": "Ziua-I Mare, Seara-I Sf\u00e2nt\u0103",
+      "url": "https://open.spotify.com/track/2fMouCghg2kkonHshPXkwY"
     },
     {
       "album": {

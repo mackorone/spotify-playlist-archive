@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,188 songs - 3 day 1 hr 1 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,189 songs - 3 day 1 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1196,5 +1196,6 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 1186 | [Psychoboost](https://open.spotify.com/track/7BMSBNctr9IPelr6MFvuRL) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [Revengeseekerz](https://open.spotify.com/album/21b4cDNse2AMpj94ykfuON) | 4:04 |
 | 1187 | [You Are](https://open.spotify.com/track/3UCwh3iDpoU68SQMvJHmqU) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [I Heard That Noise](https://open.spotify.com/album/3hXswlXaEoYMiBQ9TZN2wR) | 9:42 |
 | 1188 | [Irish](https://open.spotify.com/track/4X5p1DUnLczYBBMXeAV0yb) | [Sugar Cherry](https://open.spotify.com/artist/0XL4FAwlMdPd4UxmPnTPUd) | [Land of Pine](https://open.spotify.com/album/0mMyd6IDLycxlDihDuOIaM) | 3:13 |
+| 1189 | [Find Your Love](https://open.spotify.com/track/18PSaTJMLkFNWnW0NWdOAW) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Thank Me Later \(Int'l Version\)](https://open.spotify.com/album/6agmeioaDOBupymziJihgB) | 3:28 |
 
-Snapshot ID: `AAAJkiHqeJq0UXgYf9ZyxbQCwBLdNNoq`
+Snapshot ID: `AAAJk63OSAZF3zrJij18WOkKkT1O0X+m`

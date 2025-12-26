@@ -1,6 +1,6 @@
 {
   "description": "Entre cl\u00e1sicos y nuevos int\u00e9rpretes, puro Chamam\u00e9.",
-  "num_followers": 61864,
+  "num_followers": 61917,
   "original_name": "Mundo Chamam\u00e9",
   "owner": {
     "name": "Spotify",
@@ -199,22 +199,6 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
-        "name": "El Guachito",
-        "url": "https://open.spotify.com/album/16W5MBEtLcVbqZbcMRJfhM"
-      },
-      "artists": [
-        {
-          "name": "Los Capos del Chamam\u00e9",
-          "url": "https://open.spotify.com/artist/2fraDBQHUglHA6DqEPQttn"
-        }
-      ],
-      "duration_ms": 180080,
-      "name": "El Guachito",
-      "url": "https://open.spotify.com/track/2NEF3alDf7uQVHYClZc6EI"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
         "name": "Coleccion Aniversario",
         "url": "https://open.spotify.com/album/1JvfVnnIOwhQmcvDdUAyYW"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 120946,
       "name": "Las Tres Marias",
       "url": "https://open.spotify.com/track/2kdfzSsLYAmnMgdMXlRKKN"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
+        "name": "El Guachito",
+        "url": "https://open.spotify.com/album/16W5MBEtLcVbqZbcMRJfhM"
+      },
+      "artists": [
+        {
+          "name": "Los Capos del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/2fraDBQHUglHA6DqEPQttn"
+        }
+      ],
+      "duration_ms": 180080,
+      "name": "El Guachito",
+      "url": "https://open.spotify.com/track/2NEF3alDf7uQVHYClZc6EI"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -315,22 +315,6 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
-        "name": "Coleccion Aniversario",
-        "url": "https://open.spotify.com/album/1RcVlAu4fvqxSVbcE6mgjV"
-      },
-      "artists": [
-        {
-          "name": "Los Reyes Del Chamame",
-          "url": "https://open.spotify.com/artist/3ElKCwCghvNBPp6f8QITom"
-        }
-      ],
-      "duration_ms": 125826,
-      "name": "Asi Se Baila El Chamame",
-      "url": "https://open.spotify.com/track/5b1Rxf30tpYFUji8lhIS19"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
         "name": "Enganchados en Vivo Desde San Jos\u00e9 Feliciano / Nacional, Vol. 2",
         "url": "https://open.spotify.com/album/3WT6s7UYfNlfID6p6N5BWZ"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 455840,
       "name": "Mi Zaino Colorado / Al Pago de Federal / Tirador Sin Flecos - En Vivo",
       "url": "https://open.spotify.com/track/0HeZU11H9gPbOipWUD81E5"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
+        "name": "Coleccion Aniversario",
+        "url": "https://open.spotify.com/album/1RcVlAu4fvqxSVbcE6mgjV"
+      },
+      "artists": [
+        {
+          "name": "Los Reyes Del Chamame",
+          "url": "https://open.spotify.com/artist/3ElKCwCghvNBPp6f8QITom"
+        }
+      ],
+      "duration_ms": 125826,
+      "name": "Asi Se Baila El Chamame",
+      "url": "https://open.spotify.com/track/5b1Rxf30tpYFUji8lhIS19"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -415,6 +415,26 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
+        "name": "Chamame",
+        "url": "https://open.spotify.com/album/1uXqDaLfbmyspjzHVmCEQz"
+      },
+      "artists": [
+        {
+          "name": "Los Alonsitos",
+          "url": "https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H"
+        },
+        {
+          "name": "Los Nocheros",
+          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
+        }
+      ],
+      "duration_ms": 197283,
+      "name": "Enero",
+      "url": "https://open.spotify.com/track/4NXUTU34xLQhFacaPxKij6"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
         "name": "Hijos de la Cordillera",
         "url": "https://open.spotify.com/album/2xpXO54zmVpQnRK8IQxkTS"
       },
@@ -443,26 +463,6 @@
       "duration_ms": 147310,
       "name": "Ya te olvid\u00e9",
       "url": "https://open.spotify.com/track/5O1bcqKBlyEkYDFKXe8p7c"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
-        "name": "Chamame",
-        "url": "https://open.spotify.com/album/1uXqDaLfbmyspjzHVmCEQz"
-      },
-      "artists": [
-        {
-          "name": "Los Alonsitos",
-          "url": "https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H"
-        },
-        {
-          "name": "Los Nocheros",
-          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
-        }
-      ],
-      "duration_ms": 197283,
-      "name": "Enero",
-      "url": "https://open.spotify.com/track/4NXUTU34xLQhFacaPxKij6"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -535,26 +535,6 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
-        "name": "Alguien mejor que yo",
-        "url": "https://open.spotify.com/album/23LbesRfpNyt5prZ1aLJ4p"
-      },
-      "artists": [
-        {
-          "name": "Santhyago Rios",
-          "url": "https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT"
-        },
-        {
-          "name": "Sharon y los Camperos del Chamam\u00e9",
-          "url": "https://open.spotify.com/artist/1EBnykTvoBAPQkvsqwBhqP"
-        }
-      ],
-      "duration_ms": 199233,
-      "name": "Alguien mejor que yo",
-      "url": "https://open.spotify.com/track/1kGMLfK5hSytnStZqz8iNs"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
         "name": "El Guachito",
         "url": "https://open.spotify.com/album/16W5MBEtLcVbqZbcMRJfhM"
       },
@@ -583,6 +563,26 @@
       "duration_ms": 142320,
       "name": "Sargento Sapo",
       "url": "https://open.spotify.com/track/62Jo56vQRQz0z6kydGxzxO"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
+        "name": "Alguien mejor que yo",
+        "url": "https://open.spotify.com/album/23LbesRfpNyt5prZ1aLJ4p"
+      },
+      "artists": [
+        {
+          "name": "Santhyago Rios",
+          "url": "https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT"
+        },
+        {
+          "name": "Sharon y los Camperos del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/1EBnykTvoBAPQkvsqwBhqP"
+        }
+      ],
+      "duration_ms": 199233,
+      "name": "Alguien mejor que yo",
+      "url": "https://open.spotify.com/track/1kGMLfK5hSytnStZqz8iNs"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -635,6 +635,22 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
+        "name": "Nuestras Mejores 30 Canciones",
+        "url": "https://open.spotify.com/album/1xeeiW2aNJnj9Vweycehex"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Cardozo",
+          "url": "https://open.spotify.com/artist/2qnTUTsuypizIuMwVM1ffR"
+        }
+      ],
+      "duration_ms": 146600,
+      "name": "Mi \u00daltima Flor",
+      "url": "https://open.spotify.com/track/61g2rmBeHabOCDl72RVFXs"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
         "name": "Fuerte No Soy",
         "url": "https://open.spotify.com/album/2sjpfth1n9cQKZkqGBjB0J"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 208579,
       "name": "Fuerte No Soy",
       "url": "https://open.spotify.com/track/7096cJr8WHHqPC64Cms4sC"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
-        "name": "Nuestras Mejores 30 Canciones",
-        "url": "https://open.spotify.com/album/1xeeiW2aNJnj9Vweycehex"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Cardozo",
-          "url": "https://open.spotify.com/artist/2qnTUTsuypizIuMwVM1ffR"
-        }
-      ],
-      "duration_ms": 146600,
-      "name": "Mi \u00daltima Flor",
-      "url": "https://open.spotify.com/track/61g2rmBeHabOCDl72RVFXs"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -807,6 +807,22 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
+        "name": "Mburucuy\u00e1 poty",
+        "url": "https://open.spotify.com/album/2DvRtHOgRC6foFu8qHiCsO"
+      },
+      "artists": [
+        {
+          "name": "Salvador Miqueri",
+          "url": "https://open.spotify.com/artist/4bm1NUQz0emplSsrBxk6aU"
+        }
+      ],
+      "duration_ms": 134600,
+      "name": "Soy Correntino y Doy Fe",
+      "url": "https://open.spotify.com/track/20atmS8DvxGd2i7bEXcV6z"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
         "name": "Refugio de So\u00f1adores",
         "url": "https://open.spotify.com/album/0osgmMUJSxVrgUoOtPXJr2"
       },
@@ -827,22 +843,6 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
-        "name": "Mburucuy\u00e1 poty",
-        "url": "https://open.spotify.com/album/2DvRtHOgRC6foFu8qHiCsO"
-      },
-      "artists": [
-        {
-          "name": "Salvador Miqueri",
-          "url": "https://open.spotify.com/artist/4bm1NUQz0emplSsrBxk6aU"
-        }
-      ],
-      "duration_ms": 134600,
-      "name": "Soy Correntino y Doy Fe",
-      "url": "https://open.spotify.com/track/20atmS8DvxGd2i7bEXcV6z"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
         "name": "Con Estilo Mbaret\u00e9",
         "url": "https://open.spotify.com/album/6eUSdhrjS2jxvJElvx5M4C"
       },
@@ -855,22 +855,6 @@
       "duration_ms": 474053,
       "name": "Bien Correntino / L\u00e1grima de Cocodrilo / Masticando / Conocerte a Ti",
       "url": "https://open.spotify.com/track/6VtBkcpEWpPBCRinLmVmV4"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
-        "name": "Antolog\u00eda",
-        "url": "https://open.spotify.com/album/6RaH8HIyiwCMfLN3iDuaEM"
-      },
-      "artists": [
-        {
-          "name": "Mateo Villalba",
-          "url": "https://open.spotify.com/artist/52bjhGQEhXetxBJWJ1F9kc"
-        }
-      ],
-      "duration_ms": 199346,
-      "name": "Lluvia Correntina",
-      "url": "https://open.spotify.com/track/7iahshvxDbg0bG7FWMn1yU"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -895,38 +879,18 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
-        "name": "Segundo Contacto",
-        "url": "https://open.spotify.com/album/6gYf4sXesP2E7Y1jqBNM4H"
+        "name": "Antolog\u00eda",
+        "url": "https://open.spotify.com/album/6RaH8HIyiwCMfLN3iDuaEM"
       },
       "artists": [
         {
-          "name": "Herencia Chamamecera",
-          "url": "https://open.spotify.com/artist/6itXl4rZsOI26m5ddJIPym"
-        },
-        {
-          "name": "Ricardo G\u00f3mez",
-          "url": "https://open.spotify.com/artist/6gCwCLfmpzV5wXPmaPMifb"
+          "name": "Mateo Villalba",
+          "url": "https://open.spotify.com/artist/52bjhGQEhXetxBJWJ1F9kc"
         }
       ],
-      "duration_ms": 194853,
-      "name": "Para Volver a So\u00f1ar",
-      "url": "https://open.spotify.com/track/2TgBqAzfSHxUds6Ek9VIDa"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
-        "name": "21 Grandes Exitos",
-        "url": "https://open.spotify.com/album/1t13ppwxW2oleYDkjWU76W"
-      },
-      "artists": [
-        {
-          "name": "Emiliano Cardozo",
-          "url": "https://open.spotify.com/artist/6EU6mgrDfDowccl4rd8XMn"
-        }
-      ],
-      "duration_ms": 186013,
-      "name": "Las Penas del Provinciano",
-      "url": "https://open.spotify.com/track/2OjO3ZBIR59xMqoo9z17sJ"
+      "duration_ms": 199346,
+      "name": "Lluvia Correntina",
+      "url": "https://open.spotify.com/track/7iahshvxDbg0bG7FWMn1yU"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -951,18 +915,38 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
-        "name": "Vete",
-        "url": "https://open.spotify.com/album/2HdWMcTl16okf4GA4QQf3K"
+        "name": "21 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1t13ppwxW2oleYDkjWU76W"
       },
       "artists": [
         {
-          "name": "Sele Vera Y Los Pampas",
-          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+          "name": "Emiliano Cardozo",
+          "url": "https://open.spotify.com/artist/6EU6mgrDfDowccl4rd8XMn"
         }
       ],
-      "duration_ms": 198371,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/2nYzufWjnRBtBEf9ggFtXA"
+      "duration_ms": 186013,
+      "name": "Las Penas del Provinciano",
+      "url": "https://open.spotify.com/track/2OjO3ZBIR59xMqoo9z17sJ"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
+        "name": "Segundo Contacto",
+        "url": "https://open.spotify.com/album/6gYf4sXesP2E7Y1jqBNM4H"
+      },
+      "artists": [
+        {
+          "name": "Herencia Chamamecera",
+          "url": "https://open.spotify.com/artist/6itXl4rZsOI26m5ddJIPym"
+        },
+        {
+          "name": "Ricardo G\u00f3mez",
+          "url": "https://open.spotify.com/artist/6gCwCLfmpzV5wXPmaPMifb"
+        }
+      ],
+      "duration_ms": 194853,
+      "name": "Para Volver a So\u00f1ar",
+      "url": "https://open.spotify.com/track/2TgBqAzfSHxUds6Ek9VIDa"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -1003,6 +987,22 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
+        "name": "Vete",
+        "url": "https://open.spotify.com/album/2HdWMcTl16okf4GA4QQf3K"
+      },
+      "artists": [
+        {
+          "name": "Sele Vera Y Los Pampas",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+        }
+      ],
+      "duration_ms": 198371,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/2nYzufWjnRBtBEf9ggFtXA"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
         "name": "Baile de Campo",
         "url": "https://open.spotify.com/album/7oVDKHLXbxjJOvu9ZuSQ7g"
       },
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
-        "name": "Devu\u00e9lveme el Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1SEH9Nm2xKk3gtlqIdwZS0"
-      },
-      "artists": [
-        {
-          "name": "Sele Vera Y Los Pampas",
-          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
-        }
-      ],
-      "duration_ms": 180499,
-      "name": "Devu\u00e9lveme el Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/2dT7KgU7h8wzK7u6PT7IFA"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
         "name": "Chamame los 100 mejores temas Vol 1",
         "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
       },
@@ -1067,6 +1051,38 @@
       "duration_ms": 204746,
       "name": "Mi ponchillo colorado",
       "url": "https://open.spotify.com/track/7tHIM5cMZgcSvTZPaoAzFP"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
+        "name": "21 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1t13ppwxW2oleYDkjWU76W"
+      },
+      "artists": [
+        {
+          "name": "Los Chaque\u00f1\u00edsimos Cardozo",
+          "url": "https://open.spotify.com/artist/00PvYQ6ku9V0asbe45yNgY"
+        }
+      ],
+      "duration_ms": 206573,
+      "name": "Al Gaucho Gil",
+      "url": "https://open.spotify.com/track/4Fcm2EztuFAOiAz95czRxc"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
+        "name": "Devu\u00e9lveme el Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1SEH9Nm2xKk3gtlqIdwZS0"
+      },
+      "artists": [
+        {
+          "name": "Sele Vera Y Los Pampas",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+        }
+      ],
+      "duration_ms": 180499,
+      "name": "Devu\u00e9lveme el Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2dT7KgU7h8wzK7u6PT7IFA"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -1087,22 +1103,6 @@
       "duration_ms": 142120,
       "name": "Ah Mi Corrientes Por\u00e1",
       "url": "https://open.spotify.com/track/1s0inHd3uYxNsvkU2hXYFT"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
-        "name": "21 Grandes Exitos",
-        "url": "https://open.spotify.com/album/1t13ppwxW2oleYDkjWU76W"
-      },
-      "artists": [
-        {
-          "name": "Los Chaque\u00f1\u00edsimos Cardozo",
-          "url": "https://open.spotify.com/artist/00PvYQ6ku9V0asbe45yNgY"
-        }
-      ],
-      "duration_ms": 206573,
-      "name": "Al Gaucho Gil",
-      "url": "https://open.spotify.com/track/4Fcm2EztuFAOiAz95czRxc"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
-        "name": "Andando",
-        "url": "https://open.spotify.com/album/415D1RKuEh7AMwBSHPQsZQ"
-      },
-      "artists": [
-        {
-          "name": "Litoral Tag\u00fce",
-          "url": "https://open.spotify.com/artist/0P1o1eQR5HWzWKDb3p6pfD"
-        }
-      ],
-      "duration_ms": 189360,
-      "name": "General Madariaga",
-      "url": "https://open.spotify.com/track/5YSJt24d5CrUynnqRcEXwT"
-    },
-    {
-      "added_at": "2025-03-31 12:53:49",
-      "album": {
         "name": "Chamame los 100 mejores temas Vol 1",
         "url": "https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 120720,
       "name": "Jineteando",
       "url": "https://open.spotify.com/track/0eyjFUUJMTX4XjNClJBKUl"
+    },
+    {
+      "added_at": "2025-03-31 12:53:49",
+      "album": {
+        "name": "Andando",
+        "url": "https://open.spotify.com/album/415D1RKuEh7AMwBSHPQsZQ"
+      },
+      "artists": [
+        {
+          "name": "Litoral Tag\u00fce",
+          "url": "https://open.spotify.com/artist/0P1o1eQR5HWzWKDb3p6pfD"
+        }
+      ],
+      "duration_ms": 189360,
+      "name": "General Madariaga",
+      "url": "https://open.spotify.com/track/5YSJt24d5CrUynnqRcEXwT"
     },
     {
       "added_at": "2025-03-31 12:53:49",
@@ -1523,22 +1523,18 @@
     {
       "added_at": "2025-03-31 12:53:49",
       "album": {
-        "name": "Chamam\u00e9",
-        "url": "https://open.spotify.com/album/1S32rNN1wsrBRFYrStnbvi"
+        "name": "Chamame los 100 mejores temas Vol 3",
+        "url": "https://open.spotify.com/album/3qmelD4s5i1bfMfYyjKtJc"
       },
       "artists": [
         {
-          "name": "Los Chaque-Che",
-          "url": "https://open.spotify.com/artist/4uo92PaMFbm6uMRsO48vBx"
-        },
-        {
-          "name": "Los Hermanos Aquino",
-          "url": "https://open.spotify.com/artist/0wV2imU5AmtvXhCwN8WXYs"
+          "name": "Coquimarola",
+          "url": "https://open.spotify.com/artist/51yXBBLIlRMDgnXVuDNHmy"
         }
       ],
-      "duration_ms": 189600,
-      "name": "Esclavo de Tus Besos",
-      "url": "https://open.spotify.com/track/4hLUsnA6TegydwAzIkVeLp"
+      "duration_ms": 145280,
+      "name": "Pasion oculta",
+      "url": "https://open.spotify.com/track/2lpjvCJ74NTch6KHCu2E73"
     }
   ],
   "unique_name": "Mundo Chamam\u00e9",

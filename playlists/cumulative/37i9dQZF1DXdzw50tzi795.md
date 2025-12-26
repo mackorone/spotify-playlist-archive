@@ -2,7 +2,7 @@
 
 ### [ฉันฟังเพลงไทย](https://open.spotify.com/playlist/37i9dQZF1DXdzw50tzi795)
 
-> เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: Saran, Pearpilincys
+> เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: ก้อง ห้วยไร่
 
 212 songs - 13 hr 42 min
 

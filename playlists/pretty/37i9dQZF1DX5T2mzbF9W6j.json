@@ -1,6 +1,6 @@
 {
   "description": "Wyzwania, cele, zadania, spotkania, dedlajny\u2026 ale najpierw kawa.",
-  "num_followers": 112130,
+  "num_followers": 112123,
   "original_name": "... ale najpierw kawa",
   "owner": {
     "name": "Spotify",
@@ -883,6 +883,22 @@
     {
       "added_at": "2025-12-19 14:55:23",
       "album": {
+        "name": "Brightest Light",
+        "url": "https://open.spotify.com/album/4RiEtMATsrsD2IqEkzGq3h"
+      },
+      "artists": [
+        {
+          "name": "Marianna K\u0142os",
+          "url": "https://open.spotify.com/artist/1LzuKwjwmNPQWitkdaqtUc"
+        }
+      ],
+      "duration_ms": 180691,
+      "name": "Brightest Light",
+      "url": "https://open.spotify.com/track/1X4Kx55UM4DAJeT959ygCp"
+    },
+    {
+      "added_at": "2025-12-19 14:55:23",
+      "album": {
         "name": "SEN",
         "url": "https://open.spotify.com/album/0cpR457cV80VWCBN46aFDS"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 181565,
       "name": "SEN",
       "url": "https://open.spotify.com/track/1Gc4ROFZUlEupmjMGKLSe2"
-    },
-    {
-      "added_at": "2025-12-19 14:55:23",
-      "album": {
-        "name": "Brightest Light",
-        "url": "https://open.spotify.com/album/4RiEtMATsrsD2IqEkzGq3h"
-      },
-      "artists": [
-        {
-          "name": "Marianna K\u0142os",
-          "url": "https://open.spotify.com/artist/1LzuKwjwmNPQWitkdaqtUc"
-        }
-      ],
-      "duration_ms": 180691,
-      "name": "Brightest Light",
-      "url": "https://open.spotify.com/track/1X4Kx55UM4DAJeT959ygCp"
     },
     {
       "added_at": "2025-12-19 14:55:23",

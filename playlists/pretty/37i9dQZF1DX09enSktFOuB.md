@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX09enSktFOuB.md) - [plain]
 
 > Best Love songs, Before Anything Else<br/>Cover : Don
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,306 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,352 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > 🔥 de største nye rap hits i dk 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,727 likes - 53 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,715 likes - 53 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 | 52 | [Bare Vent \(feat\. Artigeardit\)](https://open.spotify.com/track/5TC4trc7XgCCkycbTSTqV2) | [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Månen Er Min Ven](https://open.spotify.com/album/16EjNHcMJ402k7OhdoFxqS) | 2:21 |
 | 53 | [FEEL ALIVE](https://open.spotify.com/track/4Lmdqx9Yc6JWAUl4i1QFZy) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [7](https://open.spotify.com/album/7nYokidgcvRUWqipPFMBJu) | 2:21 |
 
-Snapshot ID: `AAAAADdOC1B8UWUZ599u7KiMDkDzBoaX`
+Snapshot ID: `AAAAAEwzpVvB0P9msvErxrIluiZ0guS3`

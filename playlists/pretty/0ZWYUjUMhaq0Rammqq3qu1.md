@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 
 > Cozy up with timeless hits for your family and friends to enjoy\.                         Friendsgiving \|Give Thanks \| Thanksgiving 2026.
 
-[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 114,018 likes - 54 songs - 3 hr 0 min
+[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 114,011 likes - 54 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

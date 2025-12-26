@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: Dos Monos
 
-2,912 songs - 7 day 14 hr 12 min
+2,913 songs - 7 day 14 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1276,7 +1276,7 @@
 | [PULSE](https://open.spotify.com/track/1E1220SmTWNZhmdEML5PL7) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [MAGNET](https://open.spotify.com/album/7DBDfww3UEeui6kRnFSJpr) | 3:41 | 2024-04-16 | 2024-07-12 |
 | [Pulse](https://open.spotify.com/track/3n9eP96QDez9hRfEvlP91z) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Magnet](https://open.spotify.com/album/2mZuf80aYdleohrQAcdoqJ) | 3:41 | 2023-03-28 | 2023-05-10 |
 | [PUMP](https://open.spotify.com/track/5SUxFWrEAE6FVzxCntey2B) | [からくりごっこ](https://open.spotify.com/artist/07cSxamWHryr28hmS0SYbo) | [ASHITA RESORT](https://open.spotify.com/album/3FWZBAGbYqf9MQKceWv9Ao) | 3:34 | 2024-04-16 | 2024-04-24 |
-| [Punk Head](https://open.spotify.com/track/6wN8LtVvVqh8RyEtFRESdr) | [Enfants](https://open.spotify.com/artist/03ZFwTgzAUndCMkWtb2PCn) | [Punk Head](https://open.spotify.com/album/4en5HpvQhcqTFQXerMbXtM) | 2:53 | 2025-09-30 |  |
+| [Punk Head](https://open.spotify.com/track/6wN8LtVvVqh8RyEtFRESdr) | [Enfants](https://open.spotify.com/artist/03ZFwTgzAUndCMkWtb2PCn) | [Punk Head](https://open.spotify.com/album/4en5HpvQhcqTFQXerMbXtM) | 2:53 | 2025-09-30 | 2025-12-26 |
 | [Pure Green](https://open.spotify.com/track/5BTPjsqZlFKsvXaSaNEnTc) | [Sunny Day Service](https://open.spotify.com/artist/4cSyPcpldERtF4eL3NB9dn) | [Pure Green](https://open.spotify.com/album/145Ga4i1lUhkXAFLBFBco1) | 4:02 | 2024-04-30 | 2024-06-22 |
 | [Pure True](https://open.spotify.com/track/0oWhYdoFFMz6YFNTklSHo8) | [SULLIVAN's FUN CLUB](https://open.spotify.com/artist/03d8MZYqxq7mS9DDxWV18U) | [Pure True](https://open.spotify.com/album/3ZKXsgtd2LJr6huh1y5YoL) | 3:49 | 2025-11-04 | 2025-11-12 |
 | [Purple gray](https://open.spotify.com/track/6CXRxR8iaXSxIKdHTzRkHP) | [Mao Uchu](https://open.spotify.com/artist/1XZBuRxX5xORatBQJLsakP) | [Purple gray](https://open.spotify.com/album/0VGlPzdL9whcWEqlgxaF0d) | 3:35 | 2023-08-29 | 2023-09-20 |
@@ -2586,6 +2586,7 @@
 | [愛の轍](https://open.spotify.com/track/6uYn3JdjsjkSL7ruuM9sIQ) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [愛の轍](https://open.spotify.com/album/55NZ1KkUPQlWBQyCfDJaSA) | 3:12 | 2024-05-28 | 2024-09-18 |
 | [愛をもって](https://open.spotify.com/track/1iyDIsWNVCzxY6VmKGlbzo) | [小田奈都美](https://open.spotify.com/artist/5evvUVk68oUVaG4ugqe0KP) | [愛をもって](https://open.spotify.com/album/40tuBfmdnIBURDBaW9BB7j) | 4:39 | 2025-06-17 | 2025-06-25 |
 | [愛を感じればいい](https://open.spotify.com/track/1KHCPvkC7Xtab5Wq15FhAY) | [BBHF](https://open.spotify.com/artist/5gEQL7osnggthis6rBwYoY) | [4PIES](https://open.spotify.com/album/0Varj37mIYsQjzlphyyWRO) | 4:00 | 2023-03-28 | 2023-05-19 |
+| [愛情](https://open.spotify.com/track/43uaJoQPBZnvmkwGS8VYGO) | [mono²](https://open.spotify.com/artist/06oleY83LOUgk1fNWZAWQd) | [愛情](https://open.spotify.com/album/2QJVpLbNZfvqcJc4i94njk) | 4:08 | 2025-12-23 |  |
 | [愛想のないブレイク \- with FORDTRIO](https://open.spotify.com/track/2KQ2ha9Bb0IXiOX2rHlnBX) | [Helsinki Lambda Club](https://open.spotify.com/artist/3jpFXrTLWqYtXSAxboiiL5), [FORD TRIO](https://open.spotify.com/artist/0bZ5ScqjtPLTNfTLEFiJJN) | [ヘルシンキラムダクラブへようこそ](https://open.spotify.com/album/4fSoeCxtgOC96ooARXkJJE) | 4:06 | 2023-08-08 | 2023-09-20 |
 | [愛言葉](https://open.spotify.com/track/3EEreM1pyR4PBqfSLSfmOK) | [荒谷翔大](https://open.spotify.com/artist/3H8pmg8yKsqyghjN9h1As2) | [愛言葉](https://open.spotify.com/album/2zUxTFT7JKSFGmA8NmxmLg) | 3:21 | 2024-05-21 | 2024-06-05 |
 | [憑依](https://open.spotify.com/track/6CQsnkKBdrooo6LB1DqcZu) | [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS), [NF Zessho](https://open.spotify.com/artist/56f1j2OpB9qo7jFKL0hoL1) | [憑依](https://open.spotify.com/album/32CphF51dvTVpKxnVhRxIc) | 3:27 | 2023-08-15 | 2023-08-17 |

@@ -1,6 +1,6 @@
 {
   "description": "Reinas de la cumbia, de hoy y de siempre. \nFoto: Karina.",
-  "num_followers": 111649,
+  "num_followers": 111658,
   "original_name": "Cumbieras",
   "owner": {
     "name": "Spotify",
@@ -727,6 +727,22 @@
     {
       "added_at": "2025-07-18 03:00:26",
       "album": {
+        "name": "La Mejor Versi\u00f3n de Mi",
+        "url": "https://open.spotify.com/album/4pJBLj9ErDQxIXq70HRvI5"
+      },
+      "artists": [
+        {
+          "name": "JOHANA RODRIGUEZ",
+          "url": "https://open.spotify.com/artist/7tuofRUkaEJGOBu0FImMYw"
+        }
+      ],
+      "duration_ms": 245701,
+      "name": "La Mejor Versi\u00f3n de Mi",
+      "url": "https://open.spotify.com/track/6n2NZOVbSaDQ2PcZVUv997"
+    },
+    {
+      "added_at": "2025-07-18 03:00:26",
+      "album": {
         "name": "Tus Botellas",
         "url": "https://open.spotify.com/album/72tcmJLIc4I1AX2DC23G04"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 202160,
       "name": "Tus Botellas",
       "url": "https://open.spotify.com/track/1k8BmoheA7yzC6MpyEqlKt"
-    },
-    {
-      "added_at": "2025-07-18 03:00:26",
-      "album": {
-        "name": "La Mejor Versi\u00f3n de Mi",
-        "url": "https://open.spotify.com/album/4pJBLj9ErDQxIXq70HRvI5"
-      },
-      "artists": [
-        {
-          "name": "JOHANA RODRIGUEZ",
-          "url": "https://open.spotify.com/artist/7tuofRUkaEJGOBu0FImMYw"
-        }
-      ],
-      "duration_ms": 245701,
-      "name": "La Mejor Versi\u00f3n de Mi",
-      "url": "https://open.spotify.com/track/6n2NZOVbSaDQ2PcZVUv997"
     },
     {
       "added_at": "2025-07-18 03:00:26",
@@ -991,22 +991,6 @@
     {
       "added_at": "2025-07-18 03:00:26",
       "album": {
-        "name": "Pobre perro",
-        "url": "https://open.spotify.com/album/1vSoPdmoCLwKM0nzzBQddc"
-      },
-      "artists": [
-        {
-          "name": "Natalia Corbal\u00e1n",
-          "url": "https://open.spotify.com/artist/1WI154Z6NR5a5g8FTNtd4q"
-        }
-      ],
-      "duration_ms": 262480,
-      "name": "Si se fue, se fue",
-      "url": "https://open.spotify.com/track/3g6Gva8wnZgWgeSWUIW9Zy"
-    },
-    {
-      "added_at": "2025-07-18 03:00:26",
-      "album": {
         "name": "Pantera",
         "url": "https://open.spotify.com/album/572ZnLpVAhneJ6duuES4OL"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 212946,
       "name": "Cag\u00f3n",
       "url": "https://open.spotify.com/track/1ZXjK39AJUMapy9RhqSX7p"
+    },
+    {
+      "added_at": "2025-07-18 03:00:26",
+      "album": {
+        "name": "Pobre perro",
+        "url": "https://open.spotify.com/album/1vSoPdmoCLwKM0nzzBQddc"
+      },
+      "artists": [
+        {
+          "name": "Natalia Corbal\u00e1n",
+          "url": "https://open.spotify.com/artist/1WI154Z6NR5a5g8FTNtd4q"
+        }
+      ],
+      "duration_ms": 262480,
+      "name": "Si se fue, se fue",
+      "url": "https://open.spotify.com/track/3g6Gva8wnZgWgeSWUIW9Zy"
     },
     {
       "added_at": "2025-07-18 03:00:26",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2025-07-18 03:00:26",
       "album": {
-        "name": "No Vuelvas M\u00e1s",
-        "url": "https://open.spotify.com/album/24dcU2IVa7vjvcXrxOxeYa"
-      },
-      "artists": [
-        {
-          "name": "MEIMI",
-          "url": "https://open.spotify.com/artist/5PDJUZrrWeGjQ3F0TeHDp2"
-        }
-      ],
-      "duration_ms": 202581,
-      "name": "No Vuelvas M\u00e1s",
-      "url": "https://open.spotify.com/track/2ydMhW1slL16Q7Marq1T9a"
-    },
-    {
-      "added_at": "2025-07-18 03:00:26",
-      "album": {
         "name": "Ke Ganas de No Verte Nunca M\u00e1s",
         "url": "https://open.spotify.com/album/196Wc6ZS9a9HR9ssndsO52"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 142517,
       "name": "Ke Ganas de No Verte Nunca M\u00e1s",
       "url": "https://open.spotify.com/track/140I2RxPbPhFvBn1CiYGY3"
+    },
+    {
+      "added_at": "2025-07-18 03:00:26",
+      "album": {
+        "name": "No Vuelvas M\u00e1s",
+        "url": "https://open.spotify.com/album/24dcU2IVa7vjvcXrxOxeYa"
+      },
+      "artists": [
+        {
+          "name": "MEIMI",
+          "url": "https://open.spotify.com/artist/5PDJUZrrWeGjQ3F0TeHDp2"
+        }
+      ],
+      "duration_ms": 202581,
+      "name": "No Vuelvas M\u00e1s",
+      "url": "https://open.spotify.com/track/2ydMhW1slL16Q7Marq1T9a"
     }
   ],
   "unique_name": "Cumbieras",

@@ -197,6 +197,24 @@
     },
     {
       "album": {
+        "name": "bestie",
+        "url": "https://open.spotify.com/album/4P2jmODvTntdqNI7e5isfb"
+      },
+      "artists": [
+        {
+          "name": "muque",
+          "url": "https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t"
+        }
+      ],
+      "date_added": "2025-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259903,
+      "name": "bestie",
+      "url": "https://open.spotify.com/track/3LlShzvjsM4nem8uADXWvn"
+    },
+    {
+      "album": {
         "name": "NO SIDE",
         "url": "https://open.spotify.com/album/3z6QdFABuvxLLcijOYtdEK"
       },
@@ -500,7 +518,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 339773,
       "name": "even if",
       "url": "https://open.spotify.com/track/6rKel5kmQN62IKewLUPBze"
@@ -994,7 +1012,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 229655,
       "name": "hug",
       "url": "https://open.spotify.com/track/3jwaGwOgFyXRl6IThzjrSm"
@@ -1616,7 +1634,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 195106,
       "name": "On My Way Home",
       "url": "https://open.spotify.com/track/1Cpa7bqFRqG5YHQz98X8yx"
@@ -1724,7 +1742,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-24",
+      "date_removed": null,
       "duration_ms": 178700,
       "name": "Present",
       "url": "https://open.spotify.com/track/6haW837EW4wauotPmhUVAM"
@@ -2812,6 +2830,24 @@
       "duration_ms": 278734,
       "name": "Wish You Were Here",
       "url": "https://open.spotify.com/track/53wMjCppvYYhzxyWRPA1Li"
+    },
+    {
+      "album": {
+        "name": "You Got This",
+        "url": "https://open.spotify.com/album/5uN2MpBZUHi1lrOvZYJNta"
+      },
+      "artists": [
+        {
+          "name": "m-flo",
+          "url": "https://open.spotify.com/artist/4UhiMIdxKqQxmzdE9nYe6O"
+        }
+      ],
+      "date_added": "2025-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255603,
+      "name": "You Got This",
+      "url": "https://open.spotify.com/track/4ZQtHM0XoIJuuyy2Njg2Pw"
     },
     {
       "album": {
@@ -5020,6 +5056,24 @@
       "duration_ms": 193704,
       "name": "\u96ea\u660e\u304b\u308a (Yukiakari)",
       "url": "https://open.spotify.com/track/0uHnmZfRQVgme4k99xeKzH"
+    },
+    {
+      "album": {
+        "name": "\u30ac\u30a4\u30a2",
+        "url": "https://open.spotify.com/album/0f9cR9kAGMSLGWnVd9eCyL"
+      },
+      "artists": [
+        {
+          "name": "Siip",
+          "url": "https://open.spotify.com/artist/4iJl88yli7zUwkDCNeKyNa"
+        }
+      ],
+      "date_added": "2025-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367306,
+      "name": "\u9732",
+      "url": "https://open.spotify.com/track/24dFX0UYYObDzUrY9Mdnqm"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWTZMm3WdVVwc"

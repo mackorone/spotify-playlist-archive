@@ -1,6 +1,6 @@
 {
   "description": "Caf\u00e9 caliente, sill\u00f3n blandito y la mejor lectura o compa\u00f1\u00eda.",
-  "num_followers": 834991,
+  "num_followers": 834900,
   "original_name": "Caf\u00e9, Libros.",
   "owner": {
     "name": "Spotify",
@@ -499,18 +499,22 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Burn",
-        "url": "https://open.spotify.com/album/3zptlZqWpgTow8kcilYOqy"
+        "name": "Quarantine at El Ganzo",
+        "url": "https://open.spotify.com/album/7vVNYMLmlCfU9o4IHhFWcJ"
       },
       "artists": [
         {
-          "name": "Dan Berk",
-          "url": "https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ"
+          "name": "Erlend \u00d8ye",
+          "url": "https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs"
+        },
+        {
+          "name": "Sebastian Maschat & Erlend \u00d8ye",
+          "url": "https://open.spotify.com/artist/7K9jdX7nONxeCCdJ1EaAZK"
         }
       ],
-      "duration_ms": 206100,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/3zYvxKKjKpF8swPtMC2EwL"
+      "duration_ms": 228059,
+      "name": "Price",
+      "url": "https://open.spotify.com/track/7LmMQyOx62rbprC2eyPtHO"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -531,22 +535,18 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Quarantine at El Ganzo",
-        "url": "https://open.spotify.com/album/7vVNYMLmlCfU9o4IHhFWcJ"
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/3zptlZqWpgTow8kcilYOqy"
       },
       "artists": [
         {
-          "name": "Erlend \u00d8ye",
-          "url": "https://open.spotify.com/artist/12AnGvqOxseM5VJLyO5yBs"
-        },
-        {
-          "name": "Sebastian Maschat & Erlend \u00d8ye",
-          "url": "https://open.spotify.com/artist/7K9jdX7nONxeCCdJ1EaAZK"
+          "name": "Dan Berk",
+          "url": "https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ"
         }
       ],
-      "duration_ms": 228059,
-      "name": "Price",
-      "url": "https://open.spotify.com/track/7LmMQyOx62rbprC2eyPtHO"
+      "duration_ms": 206100,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/3zYvxKKjKpF8swPtMC2EwL"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -975,6 +975,22 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/3dS1DCljr8LjIweYoUhbgB"
+      },
+      "artists": [
+        {
+          "name": "Dan Berk",
+          "url": "https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ"
+        }
+      ],
+      "duration_ms": 198712,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/4ptDJbJl35d7gQfeNteBwp"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
         "name": "Summertime",
         "url": "https://open.spotify.com/album/0XtsrrGHxCK1UTMhdL4x7A"
       },
@@ -1027,22 +1043,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/3dS1DCljr8LjIweYoUhbgB"
-      },
-      "artists": [
-        {
-          "name": "Dan Berk",
-          "url": "https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ"
-        }
-      ],
-      "duration_ms": 198712,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/4ptDJbJl35d7gQfeNteBwp"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Happy Now (Acoustic Version)",
         "url": "https://open.spotify.com/album/3NQLd4nYN0KfiZsU6M3xlm"
       },
@@ -1055,22 +1055,6 @@
       "duration_ms": 213666,
       "name": "Happy Now - Acoustic",
       "url": "https://open.spotify.com/track/3aXsAIpsE1VR9FNvW0V4rU"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
-        "name": "Lose You To Love Me (Acoustic)",
-        "url": "https://open.spotify.com/album/2XSfHxWumH0W3sER4WhEgd"
-      },
-      "artists": [
-        {
-          "name": "Highland Peak",
-          "url": "https://open.spotify.com/artist/1J8P3Xd19imC48x8qnxxFV"
-        }
-      ],
-      "duration_ms": 254871,
-      "name": "Lose You To Love Me - Acoustic",
-      "url": "https://open.spotify.com/track/4jsg0MoCQJRW8A3UQEUseR"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1091,6 +1075,22 @@
       "duration_ms": 258036,
       "name": "Como Quisiera Quererte",
       "url": "https://open.spotify.com/track/4r6OwScTgTeq1ugHGeqsT4"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Lose You To Love Me (Acoustic)",
+        "url": "https://open.spotify.com/album/2XSfHxWumH0W3sER4WhEgd"
+      },
+      "artists": [
+        {
+          "name": "Highland Peak",
+          "url": "https://open.spotify.com/artist/1J8P3Xd19imC48x8qnxxFV"
+        }
+      ],
+      "duration_ms": 254871,
+      "name": "Lose You To Love Me - Acoustic",
+      "url": "https://open.spotify.com/track/4jsg0MoCQJRW8A3UQEUseR"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Conc\u00e9ntrica Canci\u00f3n",
-        "url": "https://open.spotify.com/album/4LepOoTd1jPdGdouTPdiYS"
-      },
-      "artists": [
-        {
-          "name": "Alex Cuba",
-          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
-        }
-      ],
-      "duration_ms": 162297,
-      "name": "Conc\u00e9ntrica Canci\u00f3n",
-      "url": "https://open.spotify.com/track/4gSBMIeKcra4fwb9oIXPQt"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Downtown (Acoustic Version)",
         "url": "https://open.spotify.com/album/3hj8ZTcYFuTmJqnrmeecKJ"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 204452,
       "name": "Downtown - Acoustic Version",
       "url": "https://open.spotify.com/track/5gxcFdhD5ST4Tyhfepxcke"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Conc\u00e9ntrica Canci\u00f3n",
+        "url": "https://open.spotify.com/album/4LepOoTd1jPdGdouTPdiYS"
+      },
+      "artists": [
+        {
+          "name": "Alex Cuba",
+          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
+        }
+      ],
+      "duration_ms": 162297,
+      "name": "Conc\u00e9ntrica Canci\u00f3n",
+      "url": "https://open.spotify.com/track/4gSBMIeKcra4fwb9oIXPQt"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "\u201dZamba Puta\u201d",
-        "url": "https://open.spotify.com/album/1FsZ3DfeXndrOrpWNBWk6J"
-      },
-      "artists": [
-        {
-          "name": "La L\u00e1",
-          "url": "https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H"
-        }
-      ],
-      "duration_ms": 203807,
-      "name": "Caramelo",
-      "url": "https://open.spotify.com/track/2cElznINAHvKeHzv97ZuAV"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Cabeza de le\u00f3n",
         "url": "https://open.spotify.com/album/1aRlf7ZVIT5L7MwciHcS8J"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 145075,
       "name": "Girls Like You",
       "url": "https://open.spotify.com/track/67Mij0TZUmIB9ZmjkZXtN8"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "\u201dZamba Puta\u201d",
+        "url": "https://open.spotify.com/album/1FsZ3DfeXndrOrpWNBWk6J"
+      },
+      "artists": [
+        {
+          "name": "La L\u00e1",
+          "url": "https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H"
+        }
+      ],
+      "duration_ms": 203807,
+      "name": "Caramelo",
+      "url": "https://open.spotify.com/track/2cElznINAHvKeHzv97ZuAV"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
+        "name": "Trampoline (Acoustic)",
+        "url": "https://open.spotify.com/album/0EV5YXg5n2WlGUjOc2oAvT"
+      },
+      "artists": [
+        {
+          "name": "Highland Peak",
+          "url": "https://open.spotify.com/artist/1J8P3Xd19imC48x8qnxxFV"
+        }
+      ],
+      "duration_ms": 213098,
+      "name": "Trampoline - Acoustic",
+      "url": "https://open.spotify.com/track/72xTsTouZ5nBmASX8k1XCW"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
         "name": "Acoustic Visions",
         "url": "https://open.spotify.com/album/0YMcgc8Y9BOkupPMOvP7xm"
       },
@@ -1659,18 +1675,18 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Trampoline (Acoustic)",
-        "url": "https://open.spotify.com/album/0EV5YXg5n2WlGUjOc2oAvT"
+        "name": "New Rules",
+        "url": "https://open.spotify.com/album/3YJr0IXRu7iHCe2iQ6I9hA"
       },
       "artists": [
         {
-          "name": "Highland Peak",
-          "url": "https://open.spotify.com/artist/1J8P3Xd19imC48x8qnxxFV"
+          "name": "Postcards & Polaroids",
+          "url": "https://open.spotify.com/artist/5ccCHLpAxCdSMFHeeLUPrw"
         }
       ],
-      "duration_ms": 213098,
-      "name": "Trampoline - Acoustic",
-      "url": "https://open.spotify.com/track/72xTsTouZ5nBmASX8k1XCW"
+      "duration_ms": 194285,
+      "name": "New Rules",
+      "url": "https://open.spotify.com/track/4ebS9j23Z1sQQtjsK06vD2"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1699,22 +1715,6 @@
       "duration_ms": 246349,
       "name": "I\u00b4m a Fool to Want You",
       "url": "https://open.spotify.com/track/6ZxtkBVKcbpEOVeaj21VA1"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
-        "name": "New Rules",
-        "url": "https://open.spotify.com/album/3YJr0IXRu7iHCe2iQ6I9hA"
-      },
-      "artists": [
-        {
-          "name": "Postcards & Polaroids",
-          "url": "https://open.spotify.com/artist/5ccCHLpAxCdSMFHeeLUPrw"
-        }
-      ],
-      "duration_ms": 194285,
-      "name": "New Rules",
-      "url": "https://open.spotify.com/track/4ebS9j23Z1sQQtjsK06vD2"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Hablar de M\u00e1s",
-        "url": "https://open.spotify.com/album/7sJ562pCwgxEBYhNkYqLOD"
-      },
-      "artists": [
-        {
-          "name": "Petite Amie",
-          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
-        }
-      ],
-      "duration_ms": 214917,
-      "name": "Hablar de M\u00e1s",
-      "url": "https://open.spotify.com/track/3NmM5cmYlgkFJyDg0zTC4z"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Covers EP",
         "url": "https://open.spotify.com/album/13jmHsHQ6MNsgIaFdFIa9q"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 192168,
       "name": "Fix You",
       "url": "https://open.spotify.com/track/4Nl1XaLOTrXziMpx6vO4WK"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Hablar de M\u00e1s",
+        "url": "https://open.spotify.com/album/7sJ562pCwgxEBYhNkYqLOD"
+      },
+      "artists": [
+        {
+          "name": "Petite Amie",
+          "url": "https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw"
+        }
+      ],
+      "duration_ms": 214917,
+      "name": "Hablar de M\u00e1s",
+      "url": "https://open.spotify.com/track/3NmM5cmYlgkFJyDg0zTC4z"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -2123,22 +2123,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Eastside",
-        "url": "https://open.spotify.com/album/40Oh0dhENJI14y6hluK0Py"
-      },
-      "artists": [
-        {
-          "name": "Ben & Tim",
-          "url": "https://open.spotify.com/artist/0gb9yVmQVwhLVMMGKgXYnv"
-        }
-      ],
-      "duration_ms": 210580,
-      "name": "Eastside",
-      "url": "https://open.spotify.com/track/1i4I5mPDn6GdHlO43c2O27"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Conversation",
         "url": "https://open.spotify.com/album/4iCk4CuMHbrlc7DVac8sb1"
       },
@@ -2151,6 +2135,22 @@
       "duration_ms": 229560,
       "name": "Conversation",
       "url": "https://open.spotify.com/track/4THgqBGsTYJcNcQWCV92AP"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Eastside",
+        "url": "https://open.spotify.com/album/40Oh0dhENJI14y6hluK0Py"
+      },
+      "artists": [
+        {
+          "name": "Ben & Tim",
+          "url": "https://open.spotify.com/artist/0gb9yVmQVwhLVMMGKgXYnv"
+        }
+      ],
+      "duration_ms": 210580,
+      "name": "Eastside",
+      "url": "https://open.spotify.com/track/1i4I5mPDn6GdHlO43c2O27"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -2267,22 +2267,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Tattoo",
-        "url": "https://open.spotify.com/album/5166al4BHUVCdpJgzsvNsr"
-      },
-      "artists": [
-        {
-          "name": "Natalie 2V",
-          "url": "https://open.spotify.com/artist/0ghm0rRKkdJiWF90XisZ2x"
-        }
-      ],
-      "duration_ms": 176065,
-      "name": "Tattoo",
-      "url": "https://open.spotify.com/track/3Q9p99byx2eazd0PbRvjyP"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "x tu amor",
         "url": "https://open.spotify.com/album/7mBz4JHXuotY2hVpQBtsFN"
       },
@@ -2295,6 +2279,22 @@
       "duration_ms": 205000,
       "name": "x tu amor",
       "url": "https://open.spotify.com/track/5sG7D67ZXhZSLYDNaZeKJR"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/5166al4BHUVCdpJgzsvNsr"
+      },
+      "artists": [
+        {
+          "name": "Natalie 2V",
+          "url": "https://open.spotify.com/artist/0ghm0rRKkdJiWF90XisZ2x"
+        }
+      ],
+      "duration_ms": 176065,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/3Q9p99byx2eazd0PbRvjyP"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -2399,22 +2399,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Te Amo",
-        "url": "https://open.spotify.com/album/6oT7TQdQ9UIMSlIq1628lT"
-      },
-      "artists": [
-        {
-          "name": "Nat\u00e1le",
-          "url": "https://open.spotify.com/artist/0wefo1aNYRvfoBlA7jOwkJ"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/1f6HNRgWZQL1wz99z1GWCy"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Baby Teeth",
         "url": "https://open.spotify.com/album/2I3KNalSqYLftHnjHHVVKF"
       },
@@ -2427,6 +2411,22 @@
       "duration_ms": 262760,
       "name": "Bleachers",
       "url": "https://open.spotify.com/track/3Xsua9PZj5e0WeCar562Wr"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Te Amo",
+        "url": "https://open.spotify.com/album/6oT7TQdQ9UIMSlIq1628lT"
+      },
+      "artists": [
+        {
+          "name": "Nat\u00e1le",
+          "url": "https://open.spotify.com/artist/0wefo1aNYRvfoBlA7jOwkJ"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/1f6HNRgWZQL1wz99z1GWCy"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -2479,22 +2479,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "The Middle",
-        "url": "https://open.spotify.com/album/3DB9bG9QjWLhIp3y9PDeTD"
-      },
-      "artists": [
-        {
-          "name": "Dan Berk",
-          "url": "https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ"
-        }
-      ],
-      "duration_ms": 209070,
-      "name": "The Middle",
-      "url": "https://open.spotify.com/track/3D22QSh1HLlvTrNJAHx42t"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Las Flores",
         "url": "https://open.spotify.com/album/4jpS2bi5zJJaZ2J2vXyBNt"
       },
@@ -2511,18 +2495,34 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Medicine (Acoustic)",
-        "url": "https://open.spotify.com/album/2wncDDW5aUdRDOc8p610cJ"
+        "name": "The Middle",
+        "url": "https://open.spotify.com/album/3DB9bG9QjWLhIp3y9PDeTD"
       },
       "artists": [
         {
-          "name": "Robinson",
-          "url": "https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8"
+          "name": "Dan Berk",
+          "url": "https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ"
         }
       ],
-      "duration_ms": 262269,
-      "name": "Medicine - Acoustic",
-      "url": "https://open.spotify.com/track/7iLlwpist1NrZq3PU9EXF1"
+      "duration_ms": 209070,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/3D22QSh1HLlvTrNJAHx42t"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Levels",
+        "url": "https://open.spotify.com/album/4TVIuPOjE8jcK8HC1ZOns1"
+      },
+      "artists": [
+        {
+          "name": "Gus Cleese",
+          "url": "https://open.spotify.com/artist/5vCyUIqN5rujUkzGq5iJq2"
+        }
+      ],
+      "duration_ms": 110277,
+      "name": "Levels",
+      "url": "https://open.spotify.com/track/6gYPsMW8H6ReOqo2BWxWoZ"
     }
   ],
   "unique_name": "Caf\u00e9, Libros.",

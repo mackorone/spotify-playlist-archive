@@ -865,6 +865,24 @@
     },
     {
       "album": {
+        "name": "War Is the Answer",
+        "url": "https://open.spotify.com/album/5x2DACMr5TlOFvDEi14DiC"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "date_added": "2025-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212493,
+      "name": "Far from Home",
+      "url": "https://open.spotify.com/track/6JtzpiDf7iJdwbFOSG7jZt"
+    },
+    {
+      "album": {
         "name": "War is the Answer",
         "url": "https://open.spotify.com/album/6UVYgnSnY4ytapGgBY4BzZ"
       },
@@ -876,7 +894,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 212493,
       "name": "Far From Home",
       "url": "https://open.spotify.com/track/70WpP83384wgKixTKbt3Nb"

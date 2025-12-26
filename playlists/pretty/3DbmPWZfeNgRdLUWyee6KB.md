@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,107 likes - 204 songs - 12 hr 15 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,108 likes - 207 songs - 12 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -212,5 +212,8 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 202 | [Scars \- Sped Up + Reverbed](https://open.spotify.com/track/2QJSqbrFYi8nudBdilHKuh) | [t\-WIN](https://open.spotify.com/artist/5iD7Mz3QWvVuXXXpHXlk2s) | [Scars \(Sped Up + Reverbed\)](https://open.spotify.com/album/3YWtW9p52JhQSSrD20hKzR) | 2:44 |
 | 203 | [Halfway Home](https://open.spotify.com/track/1nUxd4nc2Z1QX8ZBCgfdYW) | [Madison Graye](https://open.spotify.com/artist/4XfxIBVikREynI933gcBvK) | [Halfway Home](https://open.spotify.com/album/2tj9llZsZU8syhHCRRqO1q) | 3:13 |
 | 204 | [Dear Daddy](https://open.spotify.com/track/3LTumOY6zNgvKuNGaRsE1I) | [A Beautiful Tomorrow](https://open.spotify.com/artist/0Fd3aWON7L3qh9raMXIETm) | [11 songs](https://open.spotify.com/album/1uka3AOh5UDbFWQiUvYpum) | 3:00 |
+| 205 | [Ağla](https://open.spotify.com/track/1PG3mCrTJ2GBZ91LlVA9gV) | [Aşk\-ı mila](https://open.spotify.com/artist/5lyYp2R7mr3wxiksvG9Lvs) | [Ağla](https://open.spotify.com/album/02jIPtbHLJF6MKRgg1sqZ8) | 3:29 |
+| 206 | [Hart Van Een Kind](https://open.spotify.com/track/2N7Hd4yPtX5FZWlwuG13lb) | [FIERE](https://open.spotify.com/artist/27flAoHPs3qOBdlNsKM4Sr) | [Hart Van Een Kind](https://open.spotify.com/album/5lpCr4eXdJVbG62YgGxClG) | 3:29 |
+| 207 | [Θα χαθείς με τη βροχή](https://open.spotify.com/track/3a7Q9NsGva0DuemgZfoxRJ) | [Vasilis Konstantinakos](https://open.spotify.com/artist/4u6ejjlbwhKrN1NKOcpfGh), [Maria Michalaka](https://open.spotify.com/artist/4rboAqEBfIBnyA0xiiNZi2) | [Θα χαθείς με τη βροχή](https://open.spotify.com/album/4wBzl4GQclHbCliJEgSWeM) | 4:54 |
 
-Snapshot ID: `AAAOSf9ntnxOxCWmSVHzGW/FwG5lqS0V`
+Snapshot ID: `AAAOTL42EE+xHamCXZX332zLBoanizg/`

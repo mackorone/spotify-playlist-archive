@@ -2,7 +2,7 @@
 
 ### [Clásicas del Mariachi](https://open.spotify.com/playlist/37i9dQZF1DX6EM3TTcpK4b)
 
-> Pa' cantar, bailar y pistear\. ¡Qué suene el mariachi! En portada: Ana Gabriel
+> Pa' cantar, bailar y pistear\. ¡Qué suene el mariachi! En portada: Lola Beltrán
 
 217 songs - 11 hr 47 min
 

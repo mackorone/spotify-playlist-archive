@@ -2,7 +2,7 @@
 
 ### [Dancehall Station](https://open.spotify.com/playlist/37i9dQZF1DX9QYRS3EMTFh)
 
-> Les hits dancehall, shatta & bouyon du moment\. Photo : TKS 2G, P.L.L, Junior, N'Ken, Aknose, Le Jèm'ss, DJ Glad, Mikado, Kemelon, DJ SEBB, Lijay, YSN, Da Nillo, Vanou, Kikitox
+> Les hits dancehall, shatta & bouyon du moment\. Photo : Meryl
 
 760 songs - 1 day 8 hr 41 min
 

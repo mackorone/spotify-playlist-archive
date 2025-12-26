@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUnbgAAAAAD+1+GKhQ7YjHMWmhEyoeVR",
+  "snapshot_id": "aUstAAAAAABnIAHzcgTFDGVhYv6NB4Gb",
   "tracks": [
     {
       "added_at": null,
@@ -351,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rest Of My Life",
-        "url": "https://open.spotify.com/album/7zeA4kJCW5R6Qef90r2zQM"
+        "name": "100 Lives",
+        "url": "https://open.spotify.com/album/6zOK13fGEgCUcqCwYySpHu"
       },
       "artists": [
         {
@@ -360,21 +360,13 @@
           "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
         },
         {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        },
-        {
-          "name": "Endless Summer",
-          "url": "https://open.spotify.com/artist/3E0d6yF8knEtWluzLbxCVA"
-        },
-        {
-          "name": "Sadie Rose Van",
-          "url": "https://open.spotify.com/artist/26WIQmMRRABfsQCIhwtNns"
+          "name": "EYLR",
+          "url": "https://open.spotify.com/artist/1uLdAcF0HhI81ediDOg2BV"
         }
       ],
-      "duration_ms": 205810,
-      "name": "Rest Of My Life",
-      "url": "https://open.spotify.com/track/4OvFFy9nniyG6CsI86yNGL"
+      "duration_ms": 193334,
+      "name": "100 Lives",
+      "url": "https://open.spotify.com/track/1esueU6TI7y7bOwHhOP14K"
     },
     {
       "added_at": null,
@@ -399,8 +391,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "100 Lives",
-        "url": "https://open.spotify.com/album/6zOK13fGEgCUcqCwYySpHu"
+        "name": "Rest Of My Life",
+        "url": "https://open.spotify.com/album/7zeA4kJCW5R6Qef90r2zQM"
       },
       "artists": [
         {
@@ -408,13 +400,21 @@
           "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
         },
         {
-          "name": "EYLR",
-          "url": "https://open.spotify.com/artist/1uLdAcF0HhI81ediDOg2BV"
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "Endless Summer",
+          "url": "https://open.spotify.com/artist/3E0d6yF8knEtWluzLbxCVA"
+        },
+        {
+          "name": "Sadie Rose Van",
+          "url": "https://open.spotify.com/artist/26WIQmMRRABfsQCIhwtNns"
         }
       ],
-      "duration_ms": 193334,
-      "name": "100 Lives",
-      "url": "https://open.spotify.com/track/1esueU6TI7y7bOwHhOP14K"
+      "duration_ms": 205810,
+      "name": "Rest Of My Life",
+      "url": "https://open.spotify.com/track/4OvFFy9nniyG6CsI86yNGL"
     },
     {
       "added_at": null,

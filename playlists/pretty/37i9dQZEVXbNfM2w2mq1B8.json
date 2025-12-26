@@ -1,15 +1,143 @@
 {
   "description": "Your daily update of the most played tracks right now - Bulgaria.",
-  "num_followers": 18463,
+  "num_followers": 18470,
   "original_name": "Top 50 - Bulgaria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MN9b0AAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MOCtUAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-12-24 13:47:51",
+      "added_at": "2025-12-25 14:00:52",
+      "album": {
+        "name": "LAST CHRISTMAS",
+        "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "duration_ms": 262960,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
+    },
+    {
+      "added_at": "2025-12-25 14:00:52",
+      "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 241562,
+      "name": "All I Want for Christmas Is You",
+      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
+    },
+    {
+      "added_at": "2025-12-25 14:00:52",
+      "album": {
+        "name": "Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol)",
+        "url": "https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT"
+      },
+      "artists": [
+        {
+          "name": "Bobby Helms",
+          "url": "https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC"
+        }
+      ],
+      "duration_ms": 130973,
+      "name": "Jingle Bell Rock",
+      "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
+    },
+    {
+      "added_at": "2025-12-25 14:00:52",
+      "album": {
+        "name": "Merry Christmas From Brenda Lee",
+        "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
+      },
+      "artists": [
+        {
+          "name": "Brenda Lee",
+          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
+        }
+      ],
+      "duration_ms": 126266,
+      "name": "Rockin' Around The Christmas Tree",
+      "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
+    },
+    {
+      "added_at": "2025-12-25 14:00:52",
+      "album": {
+        "name": "A Winter Romance",
+        "url": "https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 117146,
+      "name": "Let It Snow! Let It Snow! Let It Snow!",
+      "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
+    },
+    {
+      "added_at": "2025-12-25 14:00:52",
+      "album": {
+        "name": "Santa Tell Me",
+        "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 204093,
+      "name": "Santa Tell Me",
+      "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
+    },
+    {
+      "added_at": "2025-12-25 14:00:52",
+      "album": {
+        "name": "Everyday Is Christmas (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 165900,
+      "name": "Snowman",
+      "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
+    },
+    {
+      "added_at": "2025-12-25 14:00:52",
+      "album": {
+        "name": "Wrapped In Red",
+        "url": "https://open.spotify.com/album/7Jahqd1kx9Qau0E9x9iZj6"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 229638,
+      "name": "Underneath the Tree",
+      "url": "https://open.spotify.com/track/3YZE5qDV7u1ZD1gZc47ZeR"
+    },
+    {
+      "added_at": "2025-12-25 14:00:52",
       "album": {
         "name": "\u0411\u0430\u043b\u043a\u0430\u043d\u0441\u043a\u0430 \u0434\u0432\u043e\u0439\u043a\u0430",
         "url": "https://open.spotify.com/album/3oXZTQE6OGfoZE1g9xdVGV"
@@ -29,7 +157,23 @@
       "url": "https://open.spotify.com/track/3kRvCzH2fulMLpmGZ9vks0"
     },
     {
-      "added_at": "2025-12-24 13:47:51",
+      "added_at": "2025-12-25 14:00:52",
+      "album": {
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 119786,
+      "name": "Holly Jolly Christmas",
+      "url": "https://open.spotify.com/track/6tjituizSxwSmBB5vtgHZE"
+    },
+    {
+      "added_at": "2025-12-25 14:00:52",
       "album": {
         "name": "\u0413\u0430\u0431\u0440\u0438\u0435\u043b\u0430",
         "url": "https://open.spotify.com/album/26fo0hGdihadVo4akRaMAc"
@@ -49,7 +193,103 @@
       "url": "https://open.spotify.com/track/4MvuZxJn8hc6Wa5sEJXBae"
     },
     {
-      "added_at": "2025-12-24 13:47:51",
+      "added_at": "2025-12-25 14:00:52",
+      "album": {
+        "name": "The Andy Williams Christmas Album",
+        "url": "https://open.spotify.com/album/30eO7X0doSEWKhDLAFLMuW"
+      },
+      "artists": [
+        {
+          "name": "Andy Williams",
+          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
+        }
+      ],
+      "duration_ms": 151000,
+      "name": "It's the Most Wonderful Time of the Year",
+      "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
+    },
+    {
+      "added_at": "2025-12-25 14:00:52",
+      "album": {
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 206639,
+      "name": "It's Beginning to Look a Lot like Christmas",
+      "url": "https://open.spotify.com/track/0lLdorYw7lVrJydTINhWdI"
+    },
+    {
+      "added_at": "2025-12-25 14:00:52",
+      "album": {
+        "name": "Sleigh Ride",
+        "url": "https://open.spotify.com/album/3aYOF3HVkIr1IzhePfQS7s"
+      },
+      "artists": [
+        {
+          "name": "The Ronettes",
+          "url": "https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo"
+        }
+      ],
+      "duration_ms": 181266,
+      "name": "Sleigh Ride",
+      "url": "https://open.spotify.com/track/7fUYUcWy853HS8YJn0b3Sr"
+    },
+    {
+      "added_at": "2025-12-25 14:00:52",
+      "album": {
+        "name": "Kasay",
+        "url": "https://open.spotify.com/album/0F38L3O53zrBLBVvMgozYl"
+      },
+      "artists": [
+        {
+          "name": "Emanuela",
+          "url": "https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "Kasay",
+      "url": "https://open.spotify.com/track/7qGwlBQIbgpv8Mj54sgFIk"
+    },
+    {
+      "added_at": "2025-12-25 14:00:52",
+      "album": {
+        "name": "The Nat King Cole Story",
+        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 190973,
+      "name": "The Christmas Song (Merry Christmas To You)",
+      "url": "https://open.spotify.com/track/5humEOJehpAwMJEJmb0JJ2"
+    },
+    {
+      "added_at": "2025-12-25 14:00:52",
+      "album": {
+        "name": "\u041a\u0430\u0442\u0438\u043d\u0430\u0440\u0430",
+        "url": "https://open.spotify.com/album/4bEbNkZ4pZq1XBcx1Ho9hy"
+      },
+      "artists": [
+        {
+          "name": "SIMONA",
+          "url": "https://open.spotify.com/artist/6NtH0d4qlaU5FakRdrdNwq"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "\u041a\u0430\u0442\u0438\u043d\u0430\u0440\u0430",
+      "url": "https://open.spotify.com/track/07semdYzIbyRJ28XhhPA7I"
+    },
+    {
+      "added_at": "2025-12-25 14:00:52",
       "album": {
         "name": "\u0425\u043e\u0442\u0435\u043b",
         "url": "https://open.spotify.com/album/6LC1PMx50swFPqk04CiJQO"
@@ -69,39 +309,23 @@
       "url": "https://open.spotify.com/track/0JLwDgYbf88hOMIf3S0kqv"
     },
     {
-      "added_at": "2025-12-24 13:47:51",
+      "added_at": "2025-12-25 14:00:52",
       "album": {
-        "name": "Kasay",
-        "url": "https://open.spotify.com/album/0F38L3O53zrBLBVvMgozYl"
+        "name": "Feliz Navidad",
+        "url": "https://open.spotify.com/album/3No96PtEFyRfX1oELmZTPu"
       },
       "artists": [
         {
-          "name": "Emanuela",
-          "url": "https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG"
+          "name": "Jos\u00e9 Feliciano",
+          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
         }
       ],
-      "duration_ms": 199000,
-      "name": "Kasay",
-      "url": "https://open.spotify.com/track/7qGwlBQIbgpv8Mj54sgFIk"
+      "duration_ms": 181794,
+      "name": "Feliz Navidad",
+      "url": "https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972"
     },
     {
-      "added_at": "2025-12-24 13:47:51",
-      "album": {
-        "name": "\u041a\u0430\u0442\u0438\u043d\u0430\u0440\u0430",
-        "url": "https://open.spotify.com/album/4bEbNkZ4pZq1XBcx1Ho9hy"
-      },
-      "artists": [
-        {
-          "name": "SIMONA",
-          "url": "https://open.spotify.com/artist/6NtH0d4qlaU5FakRdrdNwq"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "\u041a\u0430\u0442\u0438\u043d\u0430\u0440\u0430",
-      "url": "https://open.spotify.com/track/07semdYzIbyRJ28XhhPA7I"
-    },
-    {
-      "added_at": "2025-12-24 13:47:51",
+      "added_at": "2025-12-25 14:00:52",
       "album": {
         "name": "\u041a\u0423-\u041a\u0423",
         "url": "https://open.spotify.com/album/5tJ4cUWEqiErYLpsr0hgAC"
@@ -117,7 +341,55 @@
       "url": "https://open.spotify.com/track/5DhNN329T0nLSSE1mkjGmW"
     },
     {
-      "added_at": "2025-12-24 13:47:51",
+      "added_at": "2025-12-25 14:00:52",
+      "album": {
+        "name": "Under The Mistletoe (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 182946,
+      "name": "Mistletoe",
+      "url": "https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA"
+    },
+    {
+      "added_at": "2025-12-25 14:00:52",
+      "album": {
+        "name": "MUSE",
+        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "duration_ms": 170887,
+      "name": "Who",
+      "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
+    },
+    {
+      "added_at": "2025-12-25 14:00:52",
+      "album": {
+        "name": "Christmas (Baby, Please Come Home)",
+        "url": "https://open.spotify.com/album/3miX7IkmfMBJhQejq5rsA6"
+      },
+      "artists": [
+        {
+          "name": "Darlene Love",
+          "url": "https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu"
+        }
+      ],
+      "duration_ms": 166453,
+      "name": "Christmas (Baby Please Come Home)",
+      "url": "https://open.spotify.com/track/47ohYW8e7dxCYn9qbUMBCI"
+    },
+    {
+      "added_at": "2025-12-25 14:00:52",
       "album": {
         "name": "\u0412\u0434\u0438\u0433\u0430 \u043c\u0443 \u0431\u0438\u0432\u0448\u0430\u0442\u0430",
         "url": "https://open.spotify.com/album/2jz1sg31aNS943JsYNaxl6"
@@ -133,7 +405,75 @@
       "url": "https://open.spotify.com/track/3iiSZNHW0SScG7pvi0fIUv"
     },
     {
-      "added_at": "2025-12-24 13:47:51",
+      "added_at": "2025-12-25 14:00:52",
+      "album": {
+        "name": "\u0421\u044a\u0440\u0434\u0438\u0442\u0438 \u0434\u0430 \u043d\u044f\u043c\u0430",
+        "url": "https://open.spotify.com/album/2nCmuoREKLkib2WNzIVGtt"
+      },
+      "artists": [
+        {
+          "name": "COCONUT HITS",
+          "url": "https://open.spotify.com/artist/36uB3Akf81POY28rOMx4OJ"
+        }
+      ],
+      "duration_ms": 188239,
+      "name": "\u0421\u044a\u0440\u0434\u0438\u0442\u0438 \u0434\u0430 \u043d\u044f\u043c\u0430",
+      "url": "https://open.spotify.com/track/7bGy3jor6BeqeIAHzbpCo9"
+    },
+    {
+      "added_at": "2025-12-25 14:00:52",
+      "album": {
+        "name": "Signature Box",
+        "url": "https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        },
+        {
+          "name": "Yoko Ono",
+          "url": "https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ"
+        }
+      ],
+      "duration_ms": 214333,
+      "name": "Happy Xmas (War Is Over) - Remastered 2010",
+      "url": "https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b"
+    },
+    {
+      "added_at": "2025-12-25 14:00:52",
+      "album": {
+        "name": "Home Alone (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "duration_ms": 85266,
+      "name": "Carol of the Bells (From \"Home Alone\" Soundtrack)",
+      "url": "https://open.spotify.com/track/4tHqQMWSqmL6YjXwsqthDI"
+    },
+    {
+      "added_at": "2025-12-25 14:00:52",
+      "album": {
+        "name": "Dancing with Strangers (Deluxe Edition, 2019 Remaster)",
+        "url": "https://open.spotify.com/album/5tR0alqUd1KMW37vPnsOC4"
+      },
+      "artists": [
+        {
+          "name": "Chris Rea",
+          "url": "https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2"
+        }
+      ],
+      "duration_ms": 241626,
+      "name": "Driving Home for Christmas - 2019 Remaster",
+      "url": "https://open.spotify.com/track/27qAMKrDdKEs8HDXcvR24R"
+    },
+    {
+      "added_at": "2025-12-25 14:00:52",
       "album": {
         "name": "\u0411\u0430\u043c \u0411\u0430\u043c \u0411\u0430\u043c",
         "url": "https://open.spotify.com/album/4RhHrWwy3WupzaU8JwbpIa"
@@ -149,23 +489,7 @@
       "url": "https://open.spotify.com/track/3cKFXnDX2AqTrLXGPIBI6j"
     },
     {
-      "added_at": "2025-12-24 13:47:51",
-      "album": {
-        "name": "\u0422\u0440\u0430\u0444\u0438\u043a",
-        "url": "https://open.spotify.com/album/0RuQ7R8ieksjGTerAp0F8n"
-      },
-      "artists": [
-        {
-          "name": "Selina",
-          "url": "https://open.spotify.com/artist/583wxBpo6S1maGz1bqYekZ"
-        }
-      ],
-      "duration_ms": 170487,
-      "name": "\u0422\u0440\u0430\u0444\u0438\u043a",
-      "url": "https://open.spotify.com/track/1Upth6DB6AHg3tWFQ3gnpX"
-    },
-    {
-      "added_at": "2025-12-24 13:47:51",
+      "added_at": "2025-12-25 14:00:52",
       "album": {
         "name": "\u0426\u0435\u043b\u0443\u0432\u043a\u0430 \u0441 Tequila",
         "url": "https://open.spotify.com/album/2gmJvWl4USCfxzk6LHz3GH"
@@ -185,7 +509,27 @@
       "url": "https://open.spotify.com/track/0DWuEaw17uIBKJVNd1ev5X"
     },
     {
-      "added_at": "2025-12-24 13:47:51",
+      "added_at": "2025-12-25 14:00:52",
+      "album": {
+        "name": "Rebel",
+        "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
+      },
+      "artists": [
+        {
+          "name": "EsDeeKid",
+          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
+        },
+        {
+          "name": "Rico Ace",
+          "url": "https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o"
+        }
+      ],
+      "duration_ms": 109759,
+      "name": "Phantom",
+      "url": "https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf"
+    },
+    {
+      "added_at": "2025-12-25 14:00:52",
       "album": {
         "name": "Topa Topa",
         "url": "https://open.spotify.com/album/5wOqRUxTWqDqMDEIX8bE2r"
@@ -209,95 +553,43 @@
       "url": "https://open.spotify.com/track/1qHWI1NYKH5GkyFO18p2Uq"
     },
     {
-      "added_at": "2025-12-24 13:47:51",
+      "added_at": "2025-12-25 14:00:52",
       "album": {
-        "name": "\u0421\u044a\u0440\u0434\u0438\u0442\u0438 \u0434\u0430 \u043d\u044f\u043c\u0430",
-        "url": "https://open.spotify.com/album/2nCmuoREKLkib2WNzIVGtt"
+        "name": "\u0422\u0440\u0430\u0444\u0438\u043a",
+        "url": "https://open.spotify.com/album/0RuQ7R8ieksjGTerAp0F8n"
       },
       "artists": [
         {
-          "name": "COCONUT HITS",
-          "url": "https://open.spotify.com/artist/36uB3Akf81POY28rOMx4OJ"
+          "name": "Selina",
+          "url": "https://open.spotify.com/artist/583wxBpo6S1maGz1bqYekZ"
         }
       ],
-      "duration_ms": 188239,
-      "name": "\u0421\u044a\u0440\u0434\u0438\u0442\u0438 \u0434\u0430 \u043d\u044f\u043c\u0430",
-      "url": "https://open.spotify.com/track/7bGy3jor6BeqeIAHzbpCo9"
+      "duration_ms": 170487,
+      "name": "\u0422\u0440\u0430\u0444\u0438\u043a",
+      "url": "https://open.spotify.com/track/1Upth6DB6AHg3tWFQ3gnpX"
     },
     {
-      "added_at": "2025-12-24 13:47:51",
+      "added_at": "2025-12-25 14:00:52",
       "album": {
-        "name": "LAST CHRISTMAS",
-        "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
+        "name": "When Christmas Comes Around...",
+        "url": "https://open.spotify.com/album/5sVFXIMrFRKBtDOexVlBBU"
       },
       "artists": [
         {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
-        }
-      ],
-      "duration_ms": 262960,
-      "name": "Last Christmas",
-      "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
-    },
-    {
-      "added_at": "2025-12-24 13:47:51",
-      "album": {
-        "name": "Rebel",
-        "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
-      },
-      "artists": [
-        {
-          "name": "EsDeeKid",
-          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
         },
         {
-          "name": "Rico Ace",
-          "url": "https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 109759,
-      "name": "Phantom",
-      "url": "https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf"
+      "duration_ms": 242644,
+      "name": "Santa, Can\u2019t You Hear Me",
+      "url": "https://open.spotify.com/track/2O3MQ6H3gjrIWDcpeTrikT"
     },
     {
-      "added_at": "2025-12-24 13:47:51",
-      "album": {
-        "name": "\u0411\u0435\u0437 \u043a\u043e\u0437",
-        "url": "https://open.spotify.com/album/7HRRf2utcUo5GsxQRnP4aI"
-      },
-      "artists": [
-        {
-          "name": "Kiara",
-          "url": "https://open.spotify.com/artist/3J4l3yj3cNs6TifveDvk9Z"
-        },
-        {
-          "name": "Andrea",
-          "url": "https://open.spotify.com/artist/3Q71N3lHz2pijhljCNqOqw"
-        }
-      ],
-      "duration_ms": 184186,
-      "name": "\u0411\u0435\u0437 \u043a\u043e\u0437",
-      "url": "https://open.spotify.com/track/2mFSFpS0LqeTMfuD6X8KVo"
-    },
-    {
-      "added_at": "2025-12-24 13:47:51",
-      "album": {
-        "name": "Merry Christmas",
-        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 241562,
-      "name": "All I Want for Christmas Is You",
-      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
-    },
-    {
-      "added_at": "2025-12-24 13:47:51",
+      "added_at": "2025-12-25 14:00:52",
       "album": {
         "name": "SAUCE KID 4",
         "url": "https://open.spotify.com/album/4x3QcWrWwD5hCpnGRJNXSE"
@@ -321,243 +613,71 @@
       "url": "https://open.spotify.com/track/6rACBIj56htTfrd0VY1PTu"
     },
     {
-      "added_at": "2025-12-24 13:47:51",
+      "added_at": "2025-12-25 14:00:52",
       "album": {
-        "name": "MUSE",
-        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
+        "name": "A Very Laufey Holiday",
+        "url": "https://open.spotify.com/album/32gqZfrZ51UMunez3CZDJZ"
       },
       "artists": [
         {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
         }
       ],
-      "duration_ms": 170887,
-      "name": "Who",
-      "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
+      "duration_ms": 132800,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/4MQOInul4Fa1ymK6ocq0jM"
     },
     {
-      "added_at": "2025-12-24 13:47:51",
+      "added_at": "2025-12-25 14:00:52",
       "album": {
-        "name": "\u0422\u0430\u0437\u0438 \u0434\u0438\u0441\u043a\u043e\u0442\u0435\u043a\u0430",
-        "url": "https://open.spotify.com/album/4BKWSEifxxparI4dOCRrcq"
+        "name": "Rock 'N' Roll Rarities",
+        "url": "https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq"
       },
       "artists": [
         {
-          "name": "Galin",
-          "url": "https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai"
-        },
-        {
-          "name": "Azis",
-          "url": "https://open.spotify.com/artist/1vAwQYTE1k5MBhNsvqphp1"
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 213352,
-      "name": "\u0422\u0430\u0437\u0438 \u0434\u0438\u0441\u043a\u043e\u0442\u0435\u043a\u0430",
-      "url": "https://open.spotify.com/track/4ZMpVZ52QE7EMJ35F5ReN2"
+      "duration_ms": 165733,
+      "name": "Run Rudolph Run",
+      "url": "https://open.spotify.com/track/2pnPe4pJtq7689i5ydzvJJ"
     },
     {
-      "added_at": "2025-12-24 13:47:51",
+      "added_at": "2025-12-25 14:00:52",
       "album": {
-        "name": "Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol)",
-        "url": "https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT"
+        "name": "Please Come Home for Christmas / Funky New Year (2013 Remaster)",
+        "url": "https://open.spotify.com/album/4QxtDUU3U7gCCyT9Lm3bg5"
       },
       "artists": [
         {
-          "name": "Bobby Helms",
-          "url": "https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC"
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
         }
       ],
-      "duration_ms": 130973,
-      "name": "Jingle Bell Rock",
-      "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
+      "duration_ms": 177440,
+      "name": "Please Come Home for Christmas - 2013 Remaster",
+      "url": "https://open.spotify.com/track/3QIoEi8Enr9uHffwInGIsC"
     },
     {
-      "added_at": "2025-12-24 13:47:51",
+      "added_at": "2025-12-25 14:00:52",
       "album": {
-        "name": "\u041c\u0430\u043d\u0438\u0430\u043a",
-        "url": "https://open.spotify.com/album/6o8NqpmemMBy0tqLnyZZQ3"
+        "name": "Caribou (Remastered 1995)",
+        "url": "https://open.spotify.com/album/2R5dzEQT6MDsnwiZSpWgqC"
       },
       "artists": [
         {
-          "name": "Djordan",
-          "url": "https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls"
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         }
       ],
-      "duration_ms": 224571,
-      "name": "\u041c\u0430\u043d\u0438\u0430\u043a",
-      "url": "https://open.spotify.com/track/4kbhl4YnKVwN0ElFNm3TdW"
+      "duration_ms": 272333,
+      "name": "Step Into Christmas - Remastered 1995",
+      "url": "https://open.spotify.com/track/11P4sSu6BH2lAbWk1sL6cK"
     },
     {
-      "added_at": "2025-12-24 13:47:51",
-      "album": {
-        "name": "Merry Christmas From Brenda Lee",
-        "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
-      },
-      "artists": [
-        {
-          "name": "Brenda Lee",
-          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
-        }
-      ],
-      "duration_ms": 126266,
-      "name": "Rockin' Around The Christmas Tree",
-      "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
-    },
-    {
-      "added_at": "2025-12-24 13:47:51",
-      "album": {
-        "name": "300",
-        "url": "https://open.spotify.com/album/5XfkqyxVFbVaGuJKuLgObv"
-      },
-      "artists": [
-        {
-          "name": "Dimoff",
-          "url": "https://open.spotify.com/artist/0lWhRqKSRYsM6QpHaFuZXP"
-        }
-      ],
-      "duration_ms": 124764,
-      "name": "300",
-      "url": "https://open.spotify.com/track/1okw6YoXeaI78BQDt7TckF"
-    },
-    {
-      "added_at": "2025-12-24 13:47:51",
-      "album": {
-        "name": "\u0429\u0435 \u043c\u0435 \u0442\u044a\u0440\u0441\u0438\u0448",
-        "url": "https://open.spotify.com/album/07jRWauI3LME1RONMB6kLI"
-      },
-      "artists": [
-        {
-          "name": "Medi",
-          "url": "https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq"
-        }
-      ],
-      "duration_ms": 190515,
-      "name": "\u0429\u0435 \u043c\u0435 \u0442\u044a\u0440\u0441\u0438\u0448",
-      "url": "https://open.spotify.com/track/4DxdsSAzo1IVE2PRg0WsG8"
-    },
-    {
-      "added_at": "2025-12-24 13:47:51",
-      "album": {
-        "name": "A Winter Romance",
-        "url": "https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 117146,
-      "name": "Let It Snow! Let It Snow! Let It Snow!",
-      "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
-    },
-    {
-      "added_at": "2025-12-24 13:47:51",
-      "album": {
-        "name": "Santa Tell Me",
-        "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 204093,
-      "name": "Santa Tell Me",
-      "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
-    },
-    {
-      "added_at": "2025-12-24 13:47:51",
-      "album": {
-        "name": "\u041f\u0440\u0430\u0432\u0435\u043d\u0430 \u0432 \u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
-        "url": "https://open.spotify.com/album/2JAJHyFPLlM2DyxuvQ6FDk"
-      },
-      "artists": [
-        {
-          "name": "Djordan",
-          "url": "https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "\u041f\u0440\u0430\u0432\u0435\u043d\u0430 \u0432 \u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
-      "url": "https://open.spotify.com/track/2BPBJe9D4sSYmidE1OX6FO"
-    },
-    {
-      "added_at": "2025-12-24 13:47:51",
-      "album": {
-        "name": "Bez teb",
-        "url": "https://open.spotify.com/album/6zOxZsZ7mYY2jsJRpy2QiE"
-      },
-      "artists": [
-        {
-          "name": "Preslava",
-          "url": "https://open.spotify.com/artist/2Dj0euYPa8eiI6Ee5VLBwg"
-        }
-      ],
-      "duration_ms": 184354,
-      "name": "Bez teb",
-      "url": "https://open.spotify.com/track/3zlH4fylzmEq4QX6zjn3Ny"
-    },
-    {
-      "added_at": "2025-12-24 13:47:51",
-      "album": {
-        "name": "OPA OPA",
-        "url": "https://open.spotify.com/album/0ZZmC1h1GQoAQuK0DGjCod"
-      },
-      "artists": [
-        {
-          "name": "Dessita",
-          "url": "https://open.spotify.com/artist/1WOWylyMYTYIkDJmKLeSpQ"
-        }
-      ],
-      "duration_ms": 204923,
-      "name": "OPA OPA",
-      "url": "https://open.spotify.com/track/7Lnx7UuA0rf3o8G0VtZzP5"
-    },
-    {
-      "added_at": "2025-12-24 13:47:51",
-      "album": {
-        "name": "\u0412\u0441\u0435 \u043f\u043e \u0436\u0438\u0432\u043e\u0442\u0430",
-        "url": "https://open.spotify.com/album/7hw30PUDaQpOD6ZTSTt6c8"
-      },
-      "artists": [
-        {
-          "name": "Galena",
-          "url": "https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355"
-        },
-        {
-          "name": "Tsvetelina Yaneva",
-          "url": "https://open.spotify.com/artist/4AZihrM3P96d5mA9kvsxxH"
-        }
-      ],
-      "duration_ms": 190632,
-      "name": "\u0412\u0441\u0435 \u043f\u043e \u0436\u0438\u0432\u043e\u0442\u0430",
-      "url": "https://open.spotify.com/track/0S708VDmTF0V7y6HIfPVNq"
-    },
-    {
-      "added_at": "2025-12-24 13:47:51",
-      "album": {
-        "name": "Da ti bada korona",
-        "url": "https://open.spotify.com/album/4Y6emNYvaVKOwU5AFL40nM"
-      },
-      "artists": [
-        {
-          "name": "Djena",
-          "url": "https://open.spotify.com/artist/07aV940tBFh4TthmbcjR3g"
-        },
-        {
-          "name": "Galin",
-          "url": "https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai"
-        }
-      ],
-      "duration_ms": 252893,
-      "name": "S men da varvish",
-      "url": "https://open.spotify.com/track/1P0Fu36ZP4Hg6zPvtwpyKt"
-    },
-    {
-      "added_at": "2025-12-24 13:47:51",
+      "added_at": "2025-12-25 14:00:52",
       "album": {
         "name": "Danoto kopay",
         "url": "https://open.spotify.com/album/4BGy2DxZmw8dLyu1OYEeyT"
@@ -577,246 +697,42 @@
       "url": "https://open.spotify.com/track/3Z0bGsiJF9ErQF1iMHsa1G"
     },
     {
-      "added_at": "2025-12-24 13:47:51",
+      "added_at": "2025-12-25 14:00:52",
       "album": {
-        "name": "Everyday Is Christmas (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
+        "name": "McCartney II (Special Edition)",
+        "url": "https://open.spotify.com/album/48rypPDKdKiusMXKaYcEGV"
       },
       "artists": [
         {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
         }
       ],
-      "duration_ms": 165900,
-      "name": "Snowman",
-      "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
+      "duration_ms": 227653,
+      "name": "Wonderful Christmastime - Edited Version / Remastered 2011",
+      "url": "https://open.spotify.com/track/1SV1fxF65n9NhRHp3KlBuu"
     },
     {
-      "added_at": "2025-12-24 13:47:51",
+      "added_at": "2025-12-25 14:00:52",
       "album": {
-        "name": "Hasta La Vista Baby",
-        "url": "https://open.spotify.com/album/6hoAUKIABNpNi6M3IeyNgU"
+        "name": "Merry Christmas Everyone",
+        "url": "https://open.spotify.com/album/2jCRKrNZVbG2lGMs0S9Opa"
       },
       "artists": [
         {
-          "name": "Tedi Aleksandrova",
-          "url": "https://open.spotify.com/artist/3CcA9m1Ivpp5XmLt8SxUpn"
-        },
-        {
-          "name": "Silver",
-          "url": "https://open.spotify.com/artist/6JzjHqstcEDuJs6Hlqe0M5"
+          "name": "Shakin' Stevens",
+          "url": "https://open.spotify.com/artist/0wi4yTYlGtEnbGo4ltZTib"
         }
       ],
-      "duration_ms": 202500,
-      "name": "Hasta La Vista Baby",
-      "url": "https://open.spotify.com/track/3vhDg4065joVp9xyBUPo4o"
+      "duration_ms": 220160,
+      "name": "Merry Christmas Everyone",
+      "url": "https://open.spotify.com/track/2TE4xW3ImvpltVU0cPcKUn"
     },
     {
-      "added_at": "2025-12-24 13:47:51",
+      "added_at": "2025-12-25 14:00:52",
       "album": {
-        "name": "\u0414\u0436\u0443\u043c\u0431\u0430\u0440\u0435",
-        "url": "https://open.spotify.com/album/2sZEOvZ7WBU6SsWD8yNc8d"
-      },
-      "artists": [
-        {
-          "name": "Krissy",
-          "url": "https://open.spotify.com/artist/1tQw6OfMksrYe6ZipFVFzo"
-        },
-        {
-          "name": "Selina",
-          "url": "https://open.spotify.com/artist/583wxBpo6S1maGz1bqYekZ"
-        }
-      ],
-      "duration_ms": 160529,
-      "name": "\u0414\u0436\u0443\u043c\u0431\u0430\u0440\u0435",
-      "url": "https://open.spotify.com/track/1qKImzYMfCmhZWYZ4hmYOq"
-    },
-    {
-      "added_at": "2025-12-24 13:47:51",
-      "album": {
-        "name": "SAUCE KID 4",
-        "url": "https://open.spotify.com/album/4x3QcWrWwD5hCpnGRJNXSE"
-      },
-      "artists": [
-        {
-          "name": "V:RGO",
-          "url": "https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW"
-        },
-        {
-          "name": "Lidia",
-          "url": "https://open.spotify.com/artist/4FTXvsvz433gZR67rhxFfN"
-        }
-      ],
-      "duration_ms": 149449,
-      "name": "TVOQTA LUBOV",
-      "url": "https://open.spotify.com/track/5UEjI8H2w4yk9XsFMR06ws"
-    },
-    {
-      "added_at": "2025-12-24 13:47:51",
-      "album": {
-        "name": "Rebel",
-        "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
-      },
-      "artists": [
-        {
-          "name": "EsDeeKid",
-          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
-        },
-        {
-          "name": "fakemink",
-          "url": "https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi"
-        },
-        {
-          "name": "Rico Ace",
-          "url": "https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o"
-        }
-      ],
-      "duration_ms": 111157,
-      "name": "LV Sandals",
-      "url": "https://open.spotify.com/track/5uz5v1hRZLjNGatcPtOWUv"
-    },
-    {
-      "added_at": "2025-12-24 13:47:51",
-      "album": {
-        "name": "Rebel",
-        "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
-      },
-      "artists": [
-        {
-          "name": "EsDeeKid",
-          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
-        }
-      ],
-      "duration_ms": 146666,
-      "name": "4 Raws",
-      "url": "https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT"
-    },
-    {
-      "added_at": "2025-12-24 13:47:51",
-      "album": {
-        "name": "Century",
-        "url": "https://open.spotify.com/album/3iEInaFAamSTND6sovehX7"
-      },
-      "artists": [
-        {
-          "name": "EsDeeKid",
-          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
-        }
-      ],
-      "duration_ms": 109714,
-      "name": "Century",
-      "url": "https://open.spotify.com/track/1lJOLxDS8kS2rihrqezMcv"
-    },
-    {
-      "added_at": "2025-12-24 13:47:51",
-      "album": {
-        "name": "Notarialno zaveren",
-        "url": "https://open.spotify.com/album/2YYmbSctz57pLARmtiFZ1h"
-      },
-      "artists": [
-        {
-          "name": "Emanuela",
-          "url": "https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG"
-        }
-      ],
-      "duration_ms": 220016,
-      "name": "Notarialno zaveren",
-      "url": "https://open.spotify.com/track/7tJCzGC2zIWUYm4gQ3oaqi"
-    },
-    {
-      "added_at": "2025-12-24 13:47:51",
-      "album": {
-        "name": "\u041c\u0430\u0437\u043e\u0445\u0438\u0441\u0442\u043a\u0430",
-        "url": "https://open.spotify.com/album/0rCdnU7DW11sveEZ3q2IQ3"
-      },
-      "artists": [
-        {
-          "name": "Selina",
-          "url": "https://open.spotify.com/artist/583wxBpo6S1maGz1bqYekZ"
-        }
-      ],
-      "duration_ms": 217959,
-      "name": "\u041c\u0430\u0437\u043e\u0445\u0438\u0441\u0442\u043a\u0430",
-      "url": "https://open.spotify.com/track/6hRJgAPy4kDgOkiyD5s8je"
-    },
-    {
-      "added_at": "2025-12-24 13:47:51",
-      "album": {
-        "name": "\u0413\u0440\u0435\u0448\u043d\u0438\u0446\u0438",
-        "url": "https://open.spotify.com/album/5dcFrXa9bC6CKElQiQo777"
-      },
-      "artists": [
-        {
-          "name": "Lidia",
-          "url": "https://open.spotify.com/artist/4FTXvsvz433gZR67rhxFfN"
-        },
-        {
-          "name": "Konstantin",
-          "url": "https://open.spotify.com/artist/4v8n02xVhZK4CmdUAuipHn"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "\u0413\u0440\u0435\u0448\u043d\u0438\u0446\u0438",
-      "url": "https://open.spotify.com/track/6W2jsJG6MPPJ6xTWcNEeHr"
-    },
-    {
-      "added_at": "2025-12-24 13:47:51",
-      "album": {
-        "name": "\u0417\u0430 \u043d\u0430\u0433\u0440\u0430\u0434\u0430",
-        "url": "https://open.spotify.com/album/1FMtuvnjI9MYqnGtQsL0lN"
-      },
-      "artists": [
-        {
-          "name": "Galena",
-          "url": "https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355"
-        },
-        {
-          "name": "Preslava",
-          "url": "https://open.spotify.com/artist/2Dj0euYPa8eiI6Ee5VLBwg"
-        }
-      ],
-      "duration_ms": 238927,
-      "name": "\u0417\u0430 \u043d\u0430\u0433\u0440\u0430\u0434\u0430",
-      "url": "https://open.spotify.com/track/5W0xf9BdxvxpLNbj6M8k5W"
-    },
-    {
-      "added_at": "2025-12-24 13:47:51",
-      "album": {
-        "name": "Moeto slabo myasto",
-        "url": "https://open.spotify.com/album/0M7A1ridrbY5px8m1ijIlX"
-      },
-      "artists": [
-        {
-          "name": "Preslava",
-          "url": "https://open.spotify.com/artist/2Dj0euYPa8eiI6Ee5VLBwg"
-        }
-      ],
-      "duration_ms": 203571,
-      "name": "Moeto slabo myasto",
-      "url": "https://open.spotify.com/track/6o1w1oqUMiJI1Kp0s0ksRK"
-    },
-    {
-      "added_at": "2025-12-24 13:47:51",
-      "album": {
-        "name": "Wrapped In Red",
-        "url": "https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 229638,
-      "name": "Underneath the Tree",
-      "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"
-    },
-    {
-      "added_at": "2025-12-24 13:47:51",
-      "album": {
-        "name": "\u041c\u0438\u0441\u043b\u0438 \u043c\u0443",
-        "url": "https://open.spotify.com/album/6oZYnvPvShjq45MQ5bnN5e"
+        "name": "\u0411\u0435\u0437 \u043a\u043e\u0437",
+        "url": "https://open.spotify.com/album/7HRRf2utcUo5GsxQRnP4aI"
       },
       "artists": [
         {
@@ -824,85 +740,145 @@
           "url": "https://open.spotify.com/artist/3J4l3yj3cNs6TifveDvk9Z"
         },
         {
-          "name": "Monkey",
-          "url": "https://open.spotify.com/artist/5wpjYEcmW8zMVbiiFidaGO"
+          "name": "Andrea",
+          "url": "https://open.spotify.com/artist/3Q71N3lHz2pijhljCNqOqw"
         }
       ],
-      "duration_ms": 175813,
-      "name": "\u041c\u0438\u0441\u043b\u0438 \u043c\u0443",
-      "url": "https://open.spotify.com/track/2Exu33bEQ8U2ZSCwLXJ2I5"
+      "duration_ms": 184186,
+      "name": "\u0411\u0435\u0437 \u043a\u043e\u0437",
+      "url": "https://open.spotify.com/track/2mFSFpS0LqeTMfuD6X8KVo"
     },
     {
-      "added_at": "2025-12-24 13:47:51",
+      "added_at": "2025-12-25 14:00:52",
       "album": {
-        "name": "\u041b\u044e\u0431\u043e\u0432 \u0437\u0430 \u043f\u0441\u0438\u0445\u043e\u043b\u043e\u0433",
-        "url": "https://open.spotify.com/album/4mHf2MxcNPOYOowj7oCRtK"
+        "name": "+-=\u00f7\u00d7 (Tour Collection)",
+        "url": "https://open.spotify.com/album/3mJm77zryIt06nbQV7DjuY"
       },
       "artists": [
         {
-          "name": "Dessita",
-          "url": "https://open.spotify.com/artist/1WOWylyMYTYIkDJmKLeSpQ"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         },
         {
-          "name": "Ilian Boyd",
-          "url": "https://open.spotify.com/artist/1LLZb3EzxafwHumGvgwy5u"
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         }
       ],
-      "duration_ms": 183571,
-      "name": "\u041b\u044e\u0431\u043e\u0432 \u0437\u0430 \u043f\u0441\u0438\u0445\u043e\u043b\u043e\u0433",
-      "url": "https://open.spotify.com/track/78fpG4dsdHW6O1WcTGoRuk"
+      "duration_ms": 208546,
+      "name": "Merry Christmas",
+      "url": "https://open.spotify.com/track/0hz5PNF2wejwUKCMpesQWt"
     },
     {
-      "added_at": "2025-12-24 13:47:51",
+      "added_at": "2025-12-25 14:00:52",
       "album": {
-        "name": "\u041a\u0430\u043a\u0432\u043e \u043c\u0438 \u043f\u0440\u0438\u0447\u0438\u043d\u0438",
-        "url": "https://open.spotify.com/album/0GjrmPPJfkTNejhJuUxtp3"
+        "name": "White Christmas",
+        "url": "https://open.spotify.com/album/42KK3F8HTm1dyv5iFsCXdw"
       },
       "artists": [
         {
-          "name": "VANE$$A",
-          "url": "https://open.spotify.com/artist/12a4KgFut39rBB8WjeN2oL"
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
         },
         {
-          "name": "Galin",
-          "url": "https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai"
+          "name": "Ken Darby Singers",
+          "url": "https://open.spotify.com/artist/69UfPJgUmFFAVT740qGVZi"
+        },
+        {
+          "name": "John Scott Trotter & His Orchestra",
+          "url": "https://open.spotify.com/artist/735L650pvygCZZlPMyHqsN"
         }
       ],
-      "duration_ms": 188181,
-      "name": "\u041a\u0430\u043a\u0432\u043e \u043c\u0438 \u043f\u0440\u0438\u0447\u0438\u043d\u0438",
-      "url": "https://open.spotify.com/track/6mcqdIREnu0fugpx7YK9he"
+      "duration_ms": 183613,
+      "name": "White Christmas - 1947 Version",
+      "url": "https://open.spotify.com/track/3XsaSIPWvM61RIFfeb0BBR"
     },
     {
-      "added_at": "2025-12-24 13:47:51",
+      "added_at": "2025-12-25 14:00:52",
       "album": {
-        "name": "\u0414\u043e\u0431\u0440\u043e \u043c\u043e\u043c\u0447\u0435",
-        "url": "https://open.spotify.com/album/4g0MxR8h6gHyyJeNB3AuJ5"
+        "name": "A Jolly Christmas From Frank Sinatra",
+        "url": "https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq"
       },
       "artists": [
         {
-          "name": "Dessita",
-          "url": "https://open.spotify.com/artist/1WOWylyMYTYIkDJmKLeSpQ"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 198765,
-      "name": "\u0414\u043e\u0431\u0440\u043e \u043c\u043e\u043c\u0447\u0435",
-      "url": "https://open.spotify.com/track/1KpfzzQNYJ56vqhOXk0SEt"
+      "duration_ms": 120693,
+      "name": "Jingle Bells - Remastered 1999",
+      "url": "https://open.spotify.com/track/4HEOgBHRCExyYVeTyrXsnL"
     },
     {
-      "added_at": "2025-12-24 13:47:51",
+      "added_at": "2025-12-25 14:00:52",
       "album": {
-        "name": "\u0414\u0430\u0439 \u041f\u0430\u0440\u0438",
-        "url": "https://open.spotify.com/album/2uUunQtjucMmDazVw6VynU"
+        "name": "A Jolly Christmas From Frank Sinatra",
+        "url": "https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq"
       },
       "artists": [
         {
-          "name": "Toni Storaro",
-          "url": "https://open.spotify.com/artist/42APSc9etBGptl3otzihIZ"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 204666,
-      "name": "\u0414\u0430\u0439 \u041f\u0430\u0440\u0438",
-      "url": "https://open.spotify.com/track/1Zk36WsdidzAacKOtA2vQ4"
+      "duration_ms": 206600,
+      "name": "Have Yourself A Merry Little Christmas - Remastered 1999",
+      "url": "https://open.spotify.com/track/2FPfeYlrbSBR8PwCU0zaqq"
+    },
+    {
+      "added_at": "2025-12-25 14:00:52",
+      "album": {
+        "name": "300",
+        "url": "https://open.spotify.com/album/5XfkqyxVFbVaGuJKuLgObv"
+      },
+      "artists": [
+        {
+          "name": "Dimoff",
+          "url": "https://open.spotify.com/artist/0lWhRqKSRYsM6QpHaFuZXP"
+        }
+      ],
+      "duration_ms": 124764,
+      "name": "300",
+      "url": "https://open.spotify.com/track/1okw6YoXeaI78BQDt7TckF"
+    },
+    {
+      "added_at": "2025-12-25 14:00:52",
+      "album": {
+        "name": "My Only Wish (This Year)",
+        "url": "https://open.spotify.com/album/3Hocp9QorapDRHSyZ1AOVL"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 255400,
+      "name": "My Only Wish (This Year)",
+      "url": "https://open.spotify.com/track/0YWUHZPJVg4iujddsJDwhM"
+    },
+    {
+      "added_at": "2025-12-25 14:00:52",
+      "album": {
+        "name": "Greatest Christmas Songs",
+        "url": "https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7"
+      },
+      "artists": [
+        {
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+        },
+        {
+          "name": "The Fontane Sisters",
+          "url": "https://open.spotify.com/artist/1Ml4OuStDoympbREURAM15"
+        },
+        {
+          "name": "Mitchell Ayres & His Orchestra",
+          "url": "https://open.spotify.com/artist/0HS96tPggl2nwiz3gNWWI5"
+        }
+      ],
+      "duration_ms": 155933,
+      "name": "It's Beginning to Look a Lot Like Christmas (with Mitchell Ayres & His Orchestra)",
+      "url": "https://open.spotify.com/track/2pXpURmn6zC5ZYDMms6fwa"
     }
   ],
   "unique_name": "Top 50 - Bulgaria",

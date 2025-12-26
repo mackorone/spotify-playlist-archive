@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 
 > The pulse of Latin House 💃🏻💃🏻 with Gordo
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,526 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,567 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 80 | [Rintintin](https://open.spotify.com/track/1VZup2QEUlkzPTfQ08S371) | [MËSTIZA](https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n) | [Rintintin](https://open.spotify.com/album/1I4YDAPuikk1BrhVJRmV73) | 2:43 |
 | 81 | [Lo Que Soy](https://open.spotify.com/track/3d4lGcDN1FISRTBeBeGRoJ) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [Kura](https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T) | [Lo Que Soy](https://open.spotify.com/album/2L6QpGW5Wz3ohn7sxUMbqu) | 2:50 |
 | 82 | [Bandolera](https://open.spotify.com/track/1ojVykojpI0LHcD6SQFSpe) | [JOHN ELLE](https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot), [Tayson Kryss](https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7), [KEVIN ROLDAN](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [Martina Camargo](https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH), [Albert Breaker](https://open.spotify.com/artist/7ARLlH0R0zY7aeLrzeUYIf), [Junior Black](https://open.spotify.com/artist/1L7pqzRUXEMIrNrTt5EKPa) | [Bandolera](https://open.spotify.com/album/5GwGA7XXx9mjUISFnkk7Bp) | 1:57 |
-| 83 | [Pégate](https://open.spotify.com/track/1p53sKGwHI0HuAVg9NWGNy) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O) | [Pégate](https://open.spotify.com/album/6Jz3HWNzj6GHH5udXBKoSS) | 3:17 |
-| 84 | [Se Va \(feat\. Cumbiafrica\)](https://open.spotify.com/track/6Tngx2uapxEXTWF18iOcaK) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Se Va \(feat\. Cumbiafrica\)](https://open.spotify.com/album/18ED85gUGwthDGzMO25ErT) | 3:16 |
+| 83 | [Se Va \(feat\. Cumbiafrica\)](https://open.spotify.com/track/6Tngx2uapxEXTWF18iOcaK) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Se Va \(feat\. Cumbiafrica\)](https://open.spotify.com/album/18ED85gUGwthDGzMO25ErT) | 3:16 |
+| 84 | [Pégate](https://open.spotify.com/track/1p53sKGwHI0HuAVg9NWGNy) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O) | [Pégate](https://open.spotify.com/album/6Jz3HWNzj6GHH5udXBKoSS) | 3:17 |
 | 85 | [Siente la Conexión](https://open.spotify.com/track/0iI2lSnf0OZALakei4eCfj) | [Wouji](https://open.spotify.com/artist/5MjRV8FTofqa3tKEqpKQtA), [Kitone](https://open.spotify.com/artist/0G8avcrSozHqt8AJDrd4Xj) | [Siente la Conexión](https://open.spotify.com/album/1FidVVYkjZfocPwCtx0qAw) | 2:45 |
 | 86 | [Fuego](https://open.spotify.com/track/75JsIen4AneIFiDf9hbepF) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [GotSome](https://open.spotify.com/artist/5eALE6GKSAiBNMyqpsqoeX), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Fuego](https://open.spotify.com/album/5bAJzXqwhA4JdBjqAqg4nq) | 1:56 |
 | 87 | [Coco Loco](https://open.spotify.com/track/32lsePQmdOSRrbeUlcqQm0) | [Eran Hersh](https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW), [Tekkman](https://open.spotify.com/artist/4amut0vklLIj9lY81yEHtj), [Juany Bravo](https://open.spotify.com/artist/7FWTTxJZ35ZNqhFCLOE3zm) | [Coco Loco](https://open.spotify.com/album/7eBEzXHye7PEHwVQcpYRis) | 2:36 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAPgsGLgd43.md) - [plain]
 | 97 | [Carretero](https://open.spotify.com/track/7h84kkGWk5WMo31VBnQZpx) | [Thomas Newson](https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5), [Paskman](https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO) | [Carretero](https://open.spotify.com/album/5uNJJWose8r2Mebm3BuYDa) | 2:36 |
 | 98 | [La Luz](https://open.spotify.com/track/6WlXhSokxMPtenSt1ektae) | [Franc Fala](https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB), [Benja \(NL\)](https://open.spotify.com/artist/0CX4q2v1TeyeskG7GgAyxI) | [La Luz](https://open.spotify.com/album/3uWcMVDJHFQc62aZkwcsAf) | 2:40 |
 | 99 | [Wataki](https://open.spotify.com/track/4PaUK4T6fMbhLSzZaX9In4) | [PAUZA](https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N), [Jalal Ramdani](https://open.spotify.com/artist/1Q0KlPMSuhBFnCZX01iFyu) | [Wataki](https://open.spotify.com/album/7AdKBl57uUZUIPAAS9IFTU) | 3:38 |
-| 100 | [Kiki](https://open.spotify.com/track/7qpHYfkq07k5LhAT1eqCsL) | [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft) | [Kiki](https://open.spotify.com/album/3O3z1T3hEIwrXl5ED0gViH) | 3:00 |
+| 100 | [Bailame](https://open.spotify.com/track/6slC1nzaQTGQQWl99SBigP) | [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Bailame](https://open.spotify.com/album/0j7how96tAQrVMQjqiHqyw) | 3:05 |
 
 Snapshot ID: `AAAAAANjPrA8KUgOwCPb46K0DRzSHqrE`

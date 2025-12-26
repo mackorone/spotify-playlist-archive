@@ -1,6 +1,6 @@
 {
   "description": "Pos\u0142uchaj zwyci\u0119zc\u00f3w i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 19290,
+  "num_followers": 19292,
   "original_name": "Fryderyk 2025",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,38 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
+        "name": "WIECZORAMI CH\u0141OPCY WYCHODZ\u0104 NA ULICE",
+        "url": "https://open.spotify.com/album/4OErdxqjwIww9QbHzguIz4"
+      },
+      "artists": [
+        {
+          "name": "Myslovitz",
+          "url": "https://open.spotify.com/artist/3sntDD4Y2K97qvDq3GPqZ5"
+        }
+      ],
+      "duration_ms": 321506,
+      "name": "Ch\u0142opcy",
+      "url": "https://open.spotify.com/track/05crgQcMRFJtiDMkA1PIIl"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "REM",
+        "url": "https://open.spotify.com/album/60pr4OenpcPMFiEkKObw6g"
+      },
+      "artists": [
+        {
+          "name": "Natalia Szroeder",
+          "url": "https://open.spotify.com/artist/2DhJauCHKgwVilZO9A8og3"
+        }
+      ],
+      "duration_ms": 202037,
+      "name": "Sama na planecie",
+      "url": "https://open.spotify.com/track/7vkqcXmr6nI81lTf6I4rUg"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
         "name": "DOMINIKA DANIELA",
         "url": "https://open.spotify.com/album/1XDk6ptjiofedB6LTtRKOK"
       },
@@ -799,38 +831,6 @@
       "duration_ms": 149508,
       "name": "PRZYJED\u0179",
       "url": "https://open.spotify.com/track/4n2ENH767mh8hQv6Q83uHS"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
-        "name": "REM",
-        "url": "https://open.spotify.com/album/60pr4OenpcPMFiEkKObw6g"
-      },
-      "artists": [
-        {
-          "name": "Natalia Szroeder",
-          "url": "https://open.spotify.com/artist/2DhJauCHKgwVilZO9A8og3"
-        }
-      ],
-      "duration_ms": 202037,
-      "name": "Sama na planecie",
-      "url": "https://open.spotify.com/track/7vkqcXmr6nI81lTf6I4rUg"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
-        "name": "WIECZORAMI CH\u0141OPCY WYCHODZ\u0104 NA ULICE",
-        "url": "https://open.spotify.com/album/4OErdxqjwIww9QbHzguIz4"
-      },
-      "artists": [
-        {
-          "name": "Myslovitz",
-          "url": "https://open.spotify.com/artist/3sntDD4Y2K97qvDq3GPqZ5"
-        }
-      ],
-      "duration_ms": 321506,
-      "name": "Ch\u0142opcy",
-      "url": "https://open.spotify.com/track/05crgQcMRFJtiDMkA1PIIl"
     },
     {
       "added_at": "2025-04-06 08:27:45",

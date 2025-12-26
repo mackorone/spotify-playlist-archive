@@ -219,6 +219,24 @@
     },
     {
       "album": {
+        "name": "Weihnachten",
+        "url": "https://open.spotify.com/album/3u8YSFTTd7HUDxoqdx3rZF"
+      },
+      "artists": [
+        {
+          "name": "Helene Fischer",
+          "url": "https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W"
+        }
+      ],
+      "date_added": "2025-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318853,
+      "name": "Ave Maria",
+      "url": "https://open.spotify.com/track/60RORwDGFn89sj8GM1KaVR"
+    },
+    {
+      "album": {
         "name": "Christmas, With Love",
         "url": "https://open.spotify.com/album/4HRXnpdnLJGTkHSRk4roEs"
       },
@@ -230,7 +248,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 240013,
       "name": "Ave Maria",
       "url": "https://open.spotify.com/track/5LCMAJymyKheiV27LRACD8"

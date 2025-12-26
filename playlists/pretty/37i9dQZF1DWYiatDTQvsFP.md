@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiatDTQvsFP.md) - [plain]
 
 > the golden era of r&b and hip\-hop with 2Pac.
 
-[Spotify](https://open.spotify.com/user/spotify) - 892,538 likes - 75 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 893,043 likes - 75 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiatDTQvsFP.md) - [plain]
 | 74 | [Wait a Minute \(feat\. Lil' Kim\)](https://open.spotify.com/track/7xwFOVYwBuLvFquLyfooRp) | [Ray J](https://open.spotify.com/artist/6gbGGM0E8Q1hE511psqxL0), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [This Ain't A Game](https://open.spotify.com/album/4cmmca5HU2WP9yIvErhnf6) | 3:47 |
 | 75 | [All Night Long \(feat\. Puff Daddy\)](https://open.spotify.com/track/4Bh83s84d9YUiuLzeuF24N) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [Keep the Faith](https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL) | 3:54 |
 
-Snapshot ID: `AAAAALH8IVNQLLmzMlEkVgpyTXmvE8OY`
+Snapshot ID: `AAAAAKKYXjEtm4xMjXMQh7fmxNh/oQ38`

@@ -1,12 +1,12 @@
 {
   "description": "This is Chuck Berry. The essential tracks, all in one playlist.",
-  "num_followers": 133353,
+  "num_followers": 133370,
   "original_name": "This Is Chuck Berry",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUnbgAAAAACf9XcRUwdPZVxpAxDogOxY",
+  "snapshot_id": "aUstAAAAAAAyWbEQOyu7lLWko5SfYhQ6",
   "tracks": [
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chuck Berry On Stage (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2bQQlbekyxsh1NaFw2qdlV"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 91666,
-      "name": "Trick Or Treat",
-      "url": "https://open.spotify.com/track/4iTanMp15eReVbBMeQILEY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "After School Session",
         "url": "https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 177200,
       "name": "No Money Down",
       "url": "https://open.spotify.com/track/6RpRXXv69SeNcRqScvyd0F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chuck Berry On Stage (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2bQQlbekyxsh1NaFw2qdlV"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 91666,
+      "name": "Trick Or Treat",
+      "url": "https://open.spotify.com/track/4iTanMp15eReVbBMeQILEY"
     },
     {
       "added_at": null,
@@ -703,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rock 'N' Roll Rarities",
+        "url": "https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 140466,
+      "name": "I Want To Be Your Driver - Stereo Remix",
+      "url": "https://open.spotify.com/track/4Cjk1HEvrSpIX0VemdFQyM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "San Francisco Dues",
         "url": "https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR"
       },
@@ -719,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rockin' At The Hops",
-        "url": "https://open.spotify.com/album/48jzxU4WCz6726keexOGoe"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 132973,
-      "name": "I Got To Find My Baby - Single Version",
-      "url": "https://open.spotify.com/track/5qojkHvPBrbT0Z7SAgYboD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "St. Louis To Liverpool",
         "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
       },
@@ -747,6 +747,22 @@
       "duration_ms": 129840,
       "name": "You Two",
       "url": "https://open.spotify.com/track/3TuiKidTSxOK2bk9RPhrpN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rockin' At The Hops",
+        "url": "https://open.spotify.com/album/48jzxU4WCz6726keexOGoe"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 132973,
+      "name": "I Got To Find My Baby - Single Version",
+      "url": "https://open.spotify.com/track/5qojkHvPBrbT0Z7SAgYboD"
     },
     {
       "added_at": null,
@@ -779,22 +795,6 @@
       "duration_ms": 122480,
       "name": "Viva Viva Rock 'N' Roll",
       "url": "https://open.spotify.com/track/32KddGW46wnlpKbl62gqca"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rock 'N' Roll Rarities",
-        "url": "https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 140466,
-      "name": "I Want To Be Your Driver - Stereo Remix",
-      "url": "https://open.spotify.com/track/4Cjk1HEvrSpIX0VemdFQyM"
     },
     {
       "added_at": null,

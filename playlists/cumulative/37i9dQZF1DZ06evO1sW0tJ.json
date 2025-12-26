@@ -843,6 +843,28 @@
     },
     {
       "album": {
+        "name": "Eternal Clara",
+        "url": "https://open.spotify.com/album/19k1RNXANFfY9ZaZmNK0HN"
+      },
+      "artists": [
+        {
+          "name": "Clara Schumann",
+          "url": "https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC"
+        },
+        {
+          "name": "Carl Schwarz",
+          "url": "https://open.spotify.com/artist/79IvVCvF5Pf0Q4GDoFQzx2"
+        }
+      ],
+      "date_added": "2025-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323175,
+      "name": "Piano Trio in G Minor, Op. 17: Scherzo. Tempo Di Menuetto",
+      "url": "https://open.spotify.com/track/3KLxbotYC1cuNCozWbOqb9"
+    },
+    {
+      "album": {
         "name": "Original Classics, Vol. 422: Clara Schumann, Piano Dreams",
         "url": "https://open.spotify.com/album/3lmHgytw2ZWi7Mg5l8phhW"
       },
@@ -1438,7 +1460,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 186595,
       "name": "\u201cAn Einem Lichten Morgen\u201d",
       "url": "https://open.spotify.com/track/7CyHLTOYuDLwEqbc9lM2q2"

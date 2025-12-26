@@ -1,12 +1,12 @@
 {
   "description": "\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30fb\u30e1\u30ed\u30c7\u30a3\u30fc\u30ba\u3002\u3086\u3063\u305f\u308a\u3068\u3057\u305f\u30a2\u30b3\u30fc\u30b9\u30c6\u30a3\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3067\u30ea\u30e9\u30c3\u30af\u30b9\u3057\u307e\u305b\u3093\u304b\uff1f",
-  "num_followers": 138587,
+  "num_followers": 138584,
   "original_name": "Acoustic Melodies Tokyo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOtkdWoYoI69Fgq8wVhP9gN2J9rY",
+  "snapshot_id": "AAAAAAAlWOzY6u3nmtIc3YpUmTe6yA/0",
   "tracks": [
     {
       "added_at": "2025-12-18 15:00:15",
@@ -527,6 +527,22 @@
     {
       "added_at": "2025-12-18 15:00:15",
       "album": {
+        "name": "Celebrate Me Home",
+        "url": "https://open.spotify.com/album/4Zt3jkBQHa5gMiZL95xbaB"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 233558,
+      "name": "Celebrate Me Home",
+      "url": "https://open.spotify.com/track/4rVUzCFmxDor43ORzBKHcx"
+    },
+    {
+      "added_at": "2025-12-18 15:00:15",
+      "album": {
         "name": "Time After Time",
         "url": "https://open.spotify.com/album/5NovnTHEYZjadICACf4yPo"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 170216,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/5JEM7lT9uSyhUsKFXwGfSm"
-    },
-    {
-      "added_at": "2025-12-18 15:00:15",
-      "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 194543,
-      "name": "Boyfriends",
-      "url": "https://open.spotify.com/track/6qj02zSeEJGWZ4c0dn5QzJ"
     },
     {
       "added_at": "2025-12-18 15:00:15",
@@ -575,18 +575,18 @@
     {
       "added_at": "2025-12-18 15:00:15",
       "album": {
-        "name": "The Grenade Sessions",
-        "url": "https://open.spotify.com/album/54DNHFsfCa7nlQFWXMg7y3"
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
       "artists": [
         {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
         }
       ],
-      "duration_ms": 249535,
-      "name": "Grenade - Acoustic",
-      "url": "https://open.spotify.com/track/7Cj2tT0m2SBeIO1PsGfk8A"
+      "duration_ms": 194543,
+      "name": "Boyfriends",
+      "url": "https://open.spotify.com/track/6qj02zSeEJGWZ4c0dn5QzJ"
     },
     {
       "added_at": "2025-12-18 15:00:15",
@@ -607,18 +607,18 @@
     {
       "added_at": "2025-12-18 15:00:15",
       "album": {
-        "name": "Celebrate Me Home",
-        "url": "https://open.spotify.com/album/4Zt3jkBQHa5gMiZL95xbaB"
+        "name": "The Grenade Sessions",
+        "url": "https://open.spotify.com/album/54DNHFsfCa7nlQFWXMg7y3"
       },
       "artists": [
         {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 233558,
-      "name": "Celebrate Me Home",
-      "url": "https://open.spotify.com/track/4rVUzCFmxDor43ORzBKHcx"
+      "duration_ms": 249535,
+      "name": "Grenade - Acoustic",
+      "url": "https://open.spotify.com/track/7Cj2tT0m2SBeIO1PsGfk8A"
     },
     {
       "added_at": "2025-12-18 15:00:15",
@@ -827,22 +827,6 @@
     {
       "added_at": "2025-12-18 15:00:15",
       "album": {
-        "name": "Autumn Variations",
-        "url": "https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 197976,
-      "name": "American Town",
-      "url": "https://open.spotify.com/track/4rDvBpFgKbgJepZTaP0rD6"
-    },
-    {
-      "added_at": "2025-12-18 15:00:15",
-      "album": {
         "name": "Somewhere Only We Know",
         "url": "https://open.spotify.com/album/2BWTPrj9yBBC79fCByZ2Tv"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 208154,
       "name": "Somewhere Only We Know",
       "url": "https://open.spotify.com/track/3DDGhkxq3FeUorZppSgeLE"
+    },
+    {
+      "added_at": "2025-12-18 15:00:15",
+      "album": {
+        "name": "Autumn Variations",
+        "url": "https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 197976,
+      "name": "American Town",
+      "url": "https://open.spotify.com/track/4rDvBpFgKbgJepZTaP0rD6"
     },
     {
       "added_at": "2025-12-18 15:00:15",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2025-12-18 15:00:15",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/5fNY7SfLdlrlLPJB5H7oYY"
-      },
-      "artists": [
-        {
-          "name": "LULLANAS",
-          "url": "https://open.spotify.com/artist/3b8jXMWK6VSV8FlQ4hbVkd"
-        }
-      ],
-      "duration_ms": 173924,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/1cIXqC75Zx6nwoYOfFyCae"
-    },
-    {
-      "added_at": "2025-12-18 15:00:15",
-      "album": {
         "name": "Tears",
         "url": "https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 150000,
       "name": "Tears",
       "url": "https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO"
+    },
+    {
+      "added_at": "2025-12-18 15:00:15",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/5fNY7SfLdlrlLPJB5H7oYY"
+      },
+      "artists": [
+        {
+          "name": "LULLANAS",
+          "url": "https://open.spotify.com/artist/3b8jXMWK6VSV8FlQ4hbVkd"
+        }
+      ],
+      "duration_ms": 173924,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/1cIXqC75Zx6nwoYOfFyCae"
     },
     {
       "added_at": "2025-12-18 15:00:15",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2025-12-18 15:00:15",
       "album": {
-        "name": "I Know (A Little)",
-        "url": "https://open.spotify.com/album/2PkcMhoNwT8uZ46n6Frx2E"
-      },
-      "artists": [
-        {
-          "name": "Jacob Collier",
-          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
-        }
-      ],
-      "duration_ms": 220200,
-      "name": "I Know (A Little)",
-      "url": "https://open.spotify.com/track/4sRvKhOMQ5F1dxCxMuaNbU"
-    },
-    {
-      "added_at": "2025-12-18 15:00:15",
-      "album": {
         "name": "Forever Howlong",
         "url": "https://open.spotify.com/album/5FjaEW3Hi8vD2aoJNWln4t"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 257547,
       "name": "Goodbye (Don\u2019t Tell Me)",
       "url": "https://open.spotify.com/track/1HLdk3NtbqeTMFcVWbv2G0"
+    },
+    {
+      "added_at": "2025-12-18 15:00:15",
+      "album": {
+        "name": "I Know (A Little)",
+        "url": "https://open.spotify.com/album/2PkcMhoNwT8uZ46n6Frx2E"
+      },
+      "artists": [
+        {
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        }
+      ],
+      "duration_ms": 220200,
+      "name": "I Know (A Little)",
+      "url": "https://open.spotify.com/track/4sRvKhOMQ5F1dxCxMuaNbU"
     },
     {
       "added_at": "2025-12-18 15:00:15",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2025-12-18 15:00:15",
       "album": {
+        "name": "Bluebird",
+        "url": "https://open.spotify.com/album/0vfXAOcQKcNCJJNRbY6tbj"
+      },
+      "artists": [
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "duration_ms": 179871,
+      "name": "Bluebird",
+      "url": "https://open.spotify.com/track/7JC9LqrsGddVUm1s1kkVtM"
+    },
+    {
+      "added_at": "2025-12-18 15:00:15",
+      "album": {
         "name": "Basement beds",
         "url": "https://open.spotify.com/album/0FmNalyo8dk0LX7BU4XhX7"
       },
@@ -1631,18 +1647,18 @@
     {
       "added_at": "2025-12-18 15:00:15",
       "album": {
-        "name": "Bluebird",
-        "url": "https://open.spotify.com/album/0vfXAOcQKcNCJJNRbY6tbj"
+        "name": "The Seize",
+        "url": "https://open.spotify.com/album/4pfXByIKcM1TyS1fFNqgw3"
       },
       "artists": [
         {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
         }
       ],
-      "duration_ms": 179871,
-      "name": "Bluebird",
-      "url": "https://open.spotify.com/track/7JC9LqrsGddVUm1s1kkVtM"
+      "duration_ms": 214401,
+      "name": "The Seize",
+      "url": "https://open.spotify.com/track/00opIKNQBtGqhfVOYIvaDj"
     },
     {
       "added_at": "2025-12-18 15:00:15",
@@ -1659,22 +1675,6 @@
       "duration_ms": 237049,
       "name": "_you never really get that far_ (Coldplay cover)",
       "url": "https://open.spotify.com/track/3LadbhRQVnK6UTtK2YzzlZ"
-    },
-    {
-      "added_at": "2025-12-18 15:00:15",
-      "album": {
-        "name": "The Seize",
-        "url": "https://open.spotify.com/album/4pfXByIKcM1TyS1fFNqgw3"
-      },
-      "artists": [
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        }
-      ],
-      "duration_ms": 214401,
-      "name": "The Seize",
-      "url": "https://open.spotify.com/track/00opIKNQBtGqhfVOYIvaDj"
     },
     {
       "added_at": "2025-12-18 15:00:15",

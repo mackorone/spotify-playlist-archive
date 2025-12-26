@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 
 > Ouça as novidades e sucessos do Pop Cristão\. Foto: Gui Neris
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,731 likes - 85 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,737 likes - 85 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 | 55 | [Fui Liberto](https://open.spotify.com/track/3rsC6Zxyo2tmsn9LCfsp2t) | [Nicole Gomes](https://open.spotify.com/artist/7jB4K4d4UhifvVAH566guA), [Gospel Beat Brasil](https://open.spotify.com/artist/3YqEjhglsMTsj8bIh6L0vU) | [Fui Liberto](https://open.spotify.com/album/7lCvaQSTaQluCslUV5UKL3) | 2:33 |
 | 56 | [Bençãos Que Não Tem Fim • BRAVE Pocket](https://open.spotify.com/track/2lR7nwKTKpxDbcpNKcqRYU) | [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h), [Igor Zolla](https://open.spotify.com/artist/6ZdLo0RUhtq8nTOZwj7QPX) | [Bençãos Que Não Tem Fim • BRAVE Pocket](https://open.spotify.com/album/0oo56AtWHMsjm6QmavG9IH) | 2:59 |
 | 57 | [Me Chamar de Filho](https://open.spotify.com/track/6wJEeDU8gqDrX4yw2ggmo0) | [Ana Canhoto](https://open.spotify.com/artist/3DhF2mhTVqQtTIwUk9wn6y) | [Me Chamar de Filho](https://open.spotify.com/album/59m8L5x58ZYO2j2pimCJrM) | 3:07 |
-| 58 | [Pai Nosso \- Our Father](https://open.spotify.com/track/5UcxW6kkmh1wkhkxFRzqOp) | [Welcson](https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN) | [Pai Nosso](https://open.spotify.com/album/2CunA6PC2Oxb5fRjaX4Kcl) | 4:21 |
-| 59 | [Tudo Novo \- Acústico](https://open.spotify.com/track/77uSoHkw1ot5r6JdfvtTmi) | [DJ Roger Vale](https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo), [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b), [Thaiane Seghetto](https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG) | [Tudo Novo \(Acústico\)](https://open.spotify.com/album/3gWsO95tq0c0qTAyogPlHk) | 2:59 |
+| 58 | [Tudo Novo \- Acústico](https://open.spotify.com/track/77uSoHkw1ot5r6JdfvtTmi) | [DJ Roger Vale](https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo), [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b), [Thaiane Seghetto](https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG) | [Tudo Novo \(Acústico\)](https://open.spotify.com/album/3gWsO95tq0c0qTAyogPlHk) | 2:59 |
+| 59 | [Pai Nosso \- Our Father](https://open.spotify.com/track/5UcxW6kkmh1wkhkxFRzqOp) | [Welcson](https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN) | [Pai Nosso](https://open.spotify.com/album/2CunA6PC2Oxb5fRjaX4Kcl) | 4:21 |
 | 60 | [Mostra\-Me Tua Glória](https://open.spotify.com/track/4lpmXAuqiQ3h69eIzQ57lQ) | [Hadassah Perez](https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb) | [Mostra\-Me Tua Glória](https://open.spotify.com/album/7cl3wKgvILtYbTp4hDkRbK) | 3:50 |
 | 61 | [Rota](https://open.spotify.com/track/2ce659MS4j8MCjpebtgcL4) | [Isabella Lopes](https://open.spotify.com/artist/4Anc0OS4S3ZOLk295QoHds) | [Rota](https://open.spotify.com/album/4YeDhdeWBJCA9CyQytxhoH) | 3:16 |
 | 62 | [Selo do Perdão \(Legado\)](https://open.spotify.com/track/4CPCxW7WZUUKyOrMNfERFA) | [Carlinhos Félix](https://open.spotify.com/artist/4fKC35zqqRm5Xs8hINEKf4) | [Selo do Perdão \(Legado\)](https://open.spotify.com/album/4JJ0Zaa6iXKKMkMQfVNd7Q) | 4:10 |

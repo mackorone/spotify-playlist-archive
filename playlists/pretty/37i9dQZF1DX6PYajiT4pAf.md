@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 ### [Novedades Viernes España](https://open.spotify.com/playlist/37i9dQZF1DX6PYajiT4pAf)
 
-> Rvfv & Cano, Omar Courtz,  Beéle & Elvis Crespo, Arcángel y más novedades de la semana.
+> ¡Volvemos el 2 de enero con más novedades!
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,482 likes - 60 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,512 likes - 60 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 59 | [Mi Mitad](https://open.spotify.com/track/1uisWNAOiB7SC7n8NlKlWO) | [Mikel Herzog Jr](https://open.spotify.com/artist/0axYWgADPaiW6KdYJwH0Dp) | [Mi Mitad](https://open.spotify.com/album/0Z7d1gKC1nGWeEMkaGcEnG) | 2:59 |
 | 60 | [X\-Ray](https://open.spotify.com/track/4t3CRfsV9wL4ZSiqSe7PSx) | [Fight Pausa](https://open.spotify.com/artist/1BkdvKE1YNIAAWrLNzLWKU) | [X\-Ray / Clumsy](https://open.spotify.com/album/032sW7ZlFR7Q5beC3Ppcqq) | 2:34 |
 
-Snapshot ID: `AAAAAAodX09jpQKi+ZO/uDc1u76DlDVQ`
+Snapshot ID: `AAAAADzc67BHEwMA2yTg8/kG4CB+a46C`

@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 165965,
+  "num_followers": 165966,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -563,6 +563,26 @@
     {
       "added_at": "2025-11-28 00:00:06",
       "album": {
+        "name": "Coast 2 Coast ft. Flowdan",
+        "url": "https://open.spotify.com/album/2WCcmD70ox8MIQwh7k5Qgu"
+      },
+      "artists": [
+        {
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        }
+      ],
+      "duration_ms": 174751,
+      "name": "Coast 2 Coast ft. Flowdan",
+      "url": "https://open.spotify.com/track/02Y5z5UbRPqpXiLHfDRzeK"
+    },
+    {
+      "added_at": "2025-11-28 00:00:06",
+      "album": {
         "name": "Sunlight",
         "url": "https://open.spotify.com/album/0vC8rSlyP1AJbPhxXB9y0a"
       },
@@ -583,26 +603,6 @@
       "duration_ms": 181689,
       "name": "Sunlight",
       "url": "https://open.spotify.com/track/3unpsLFmUPtcD2CgqFbVWa"
-    },
-    {
-      "added_at": "2025-11-28 00:00:06",
-      "album": {
-        "name": "Coast 2 Coast ft. Flowdan",
-        "url": "https://open.spotify.com/album/2WCcmD70ox8MIQwh7k5Qgu"
-      },
-      "artists": [
-        {
-          "name": "GRiZ",
-          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
-        },
-        {
-          "name": "Flowdan",
-          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
-        }
-      ],
-      "duration_ms": 174751,
-      "name": "Coast 2 Coast ft. Flowdan",
-      "url": "https://open.spotify.com/track/02Y5z5UbRPqpXiLHfDRzeK"
     },
     {
       "added_at": "2025-11-28 00:00:06",
@@ -1047,30 +1047,6 @@
     {
       "added_at": "2025-11-28 00:00:06",
       "album": {
-        "name": "Ravers Anonymous",
-        "url": "https://open.spotify.com/album/7DFEGdQWhJOCLBO5SvvuNd"
-      },
-      "artists": [
-        {
-          "name": "Mandidextrous",
-          "url": "https://open.spotify.com/artist/0oVDzp5DK2caqb6FuL2mhp"
-        },
-        {
-          "name": "Samurai Breaks",
-          "url": "https://open.spotify.com/artist/5X8xxAPGx1ouTGDlgE5ray"
-        },
-        {
-          "name": "Leanne Louise",
-          "url": "https://open.spotify.com/artist/7HhwoWGx2DxP9TM33G1Ca8"
-        }
-      ],
-      "duration_ms": 231529,
-      "name": "Ravers Anonymous",
-      "url": "https://open.spotify.com/track/2KnvHihZGiVbtEqjJzpdR0"
-    },
-    {
-      "added_at": "2025-11-28 00:00:06",
-      "album": {
         "name": "Rockstar Bass",
         "url": "https://open.spotify.com/album/2PEU5vtNeeFsMPfku7lY4T"
       },
@@ -1095,22 +1071,26 @@
     {
       "added_at": "2025-11-28 00:00:06",
       "album": {
-        "name": "Bringing the pain",
-        "url": "https://open.spotify.com/album/1IIhfLfwtp1OQFYKfQLMZS"
+        "name": "Ravers Anonymous",
+        "url": "https://open.spotify.com/album/7DFEGdQWhJOCLBO5SvvuNd"
       },
       "artists": [
         {
-          "name": "Alonestar",
-          "url": "https://open.spotify.com/artist/1kwi1Q7X4jPTkHTgayxKhS"
+          "name": "Mandidextrous",
+          "url": "https://open.spotify.com/artist/0oVDzp5DK2caqb6FuL2mhp"
         },
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "Samurai Breaks",
+          "url": "https://open.spotify.com/artist/5X8xxAPGx1ouTGDlgE5ray"
+        },
+        {
+          "name": "Leanne Louise",
+          "url": "https://open.spotify.com/artist/7HhwoWGx2DxP9TM33G1Ca8"
         }
       ],
-      "duration_ms": 201299,
-      "name": "Bringing the pain",
-      "url": "https://open.spotify.com/track/5ptEed5dl6MPK5TbA8zvV5"
+      "duration_ms": 231529,
+      "name": "Ravers Anonymous",
+      "url": "https://open.spotify.com/track/2KnvHihZGiVbtEqjJzpdR0"
     },
     {
       "added_at": "2025-11-28 00:00:06",
@@ -1127,6 +1107,26 @@
       "duration_ms": 202281,
       "name": "Love Me Right",
       "url": "https://open.spotify.com/track/17ADeN6ZcHT7czvoEycTCp"
+    },
+    {
+      "added_at": "2025-11-28 00:00:06",
+      "album": {
+        "name": "Bringing the pain",
+        "url": "https://open.spotify.com/album/1IIhfLfwtp1OQFYKfQLMZS"
+      },
+      "artists": [
+        {
+          "name": "Alonestar",
+          "url": "https://open.spotify.com/artist/1kwi1Q7X4jPTkHTgayxKhS"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 201299,
+      "name": "Bringing the pain",
+      "url": "https://open.spotify.com/track/5ptEed5dl6MPK5TbA8zvV5"
     },
     {
       "added_at": "2025-11-28 00:00:06",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2025-11-28 00:00:06",
       "album": {
+        "name": "Bodybag",
+        "url": "https://open.spotify.com/album/2yuXJrAl2fv23yrONBcHwB"
+      },
+      "artists": [
+        {
+          "name": "Modestep",
+          "url": "https://open.spotify.com/artist/5zYJziKktyqWwmoAWXrShP"
+        }
+      ],
+      "duration_ms": 215481,
+      "name": "Bodybag",
+      "url": "https://open.spotify.com/track/7vEGUcKdEVNM7kbm8bnPF7"
+    },
+    {
+      "added_at": "2025-11-28 00:00:06",
+      "album": {
         "name": "Dustup (Mefjus Remix)",
         "url": "https://open.spotify.com/album/4IUVYA2rhHZwP4XWzoGK8Y"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 344651,
       "name": "Dustup - Mefjus Remix",
       "url": "https://open.spotify.com/track/54K7hHMBnraimv993nTC5M"
-    },
-    {
-      "added_at": "2025-11-28 00:00:06",
-      "album": {
-        "name": "Bodybag",
-        "url": "https://open.spotify.com/album/2yuXJrAl2fv23yrONBcHwB"
-      },
-      "artists": [
-        {
-          "name": "Modestep",
-          "url": "https://open.spotify.com/artist/5zYJziKktyqWwmoAWXrShP"
-        }
-      ],
-      "duration_ms": 215481,
-      "name": "Bodybag",
-      "url": "https://open.spotify.com/track/7vEGUcKdEVNM7kbm8bnPF7"
     },
     {
       "added_at": "2025-11-28 00:00:06",
@@ -1755,26 +1755,6 @@
     {
       "added_at": "2025-11-28 00:00:06",
       "album": {
-        "name": "Born Again",
-        "url": "https://open.spotify.com/album/0FEnXxXa9qM9GJaL4o69SD"
-      },
-      "artists": [
-        {
-          "name": "AC13",
-          "url": "https://open.spotify.com/artist/2JckSanHaR24IYLgQv60zn"
-        },
-        {
-          "name": "Ragdoll",
-          "url": "https://open.spotify.com/artist/1b5ySdJlXoI66RZLyxKxLl"
-        }
-      ],
-      "duration_ms": 200423,
-      "name": "Born Again",
-      "url": "https://open.spotify.com/track/2ehJK0PvxALIbdFtVAFfAV"
-    },
-    {
-      "added_at": "2025-11-28 00:00:06",
-      "album": {
         "name": "Losing Control (VIP)",
         "url": "https://open.spotify.com/album/724fbPLMgQqdijbtl1ioFd"
       },
@@ -1791,6 +1771,26 @@
       "duration_ms": 200228,
       "name": "Losing Control - VIP",
       "url": "https://open.spotify.com/track/2OR9mJmSrgyJSmkEo9RWFW"
+    },
+    {
+      "added_at": "2025-11-28 00:00:06",
+      "album": {
+        "name": "Born Again",
+        "url": "https://open.spotify.com/album/0FEnXxXa9qM9GJaL4o69SD"
+      },
+      "artists": [
+        {
+          "name": "AC13",
+          "url": "https://open.spotify.com/artist/2JckSanHaR24IYLgQv60zn"
+        },
+        {
+          "name": "Ragdoll",
+          "url": "https://open.spotify.com/artist/1b5ySdJlXoI66RZLyxKxLl"
+        }
+      ],
+      "duration_ms": 200423,
+      "name": "Born Again",
+      "url": "https://open.spotify.com/track/2ehJK0PvxALIbdFtVAFfAV"
     },
     {
       "added_at": "2025-11-28 00:00:06",
@@ -1903,6 +1903,26 @@
     {
       "added_at": "2025-11-28 00:00:06",
       "album": {
+        "name": "RUDEBOI",
+        "url": "https://open.spotify.com/album/55CkoKNrxQWaQ7KnMQ7lgj"
+      },
+      "artists": [
+        {
+          "name": "Unglued",
+          "url": "https://open.spotify.com/artist/3AXcevvp1Kd1KEyHiUEsrC"
+        },
+        {
+          "name": "Deadline",
+          "url": "https://open.spotify.com/artist/4ODNQly5SX6AWp8P5mRzGq"
+        }
+      ],
+      "duration_ms": 204342,
+      "name": "RUDEBOI",
+      "url": "https://open.spotify.com/track/3eUxChWoWIq3FHgHItSRBp"
+    },
+    {
+      "added_at": "2025-11-28 00:00:06",
+      "album": {
         "name": "Baby Daddy",
         "url": "https://open.spotify.com/album/6Nuc91gIYUyty9zuVTpNp8"
       },
@@ -1919,26 +1939,6 @@
       "duration_ms": 222171,
       "name": "Baby Daddy",
       "url": "https://open.spotify.com/track/4WjK1YrQIMoZqaBeeBQ1gY"
-    },
-    {
-      "added_at": "2025-11-28 00:00:06",
-      "album": {
-        "name": "Defcon 1",
-        "url": "https://open.spotify.com/album/780qikdd8z4LSwdUkVZxwL"
-      },
-      "artists": [
-        {
-          "name": "Loboski",
-          "url": "https://open.spotify.com/artist/6GzqzmyvgpTUPzIOpJfVeS"
-        },
-        {
-          "name": "Krasia",
-          "url": "https://open.spotify.com/artist/6HWv9QK0gDs0yaNcGWHffV"
-        }
-      ],
-      "duration_ms": 182068,
-      "name": "Defcon 1",
-      "url": "https://open.spotify.com/track/5agzYyhLRr4lYXcKahdEcF"
     }
   ],
   "unique_name": "Proper Naughty ",

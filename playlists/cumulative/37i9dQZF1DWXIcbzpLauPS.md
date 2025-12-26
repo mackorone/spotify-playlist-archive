@@ -4,7 +4,7 @@
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: Abbie Falls
 
-1,437 songs - 3 day 15 hr 38 min
+1,438 songs - 3 day 15 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1146,7 +1146,7 @@
 | [Still Waters Run Deep](https://open.spotify.com/track/6y9KIUoJxFY4mbYnKLUqAY) | [Malevolence](https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk) | [Still Waters Run Deep](https://open.spotify.com/album/2sONdLc1W4vTmlC4MWnAgJ) | 3:35 | 2022-04-29 | 2022-07-08 |
 | [Stitches](https://open.spotify.com/track/4KWq6RMruDDwjzYBBpUi7c) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Stitches](https://open.spotify.com/album/45SbfV6M4ELzAOU163XpPb) | 5:01 | 2022-05-27 | 2022-09-03 |
 | [Stockholm Syndrome](https://open.spotify.com/track/1dV3QltW7QIUXbH1u9JXhP) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [Stockholm Syndrome](https://open.spotify.com/album/05FgwpLFT7x5i0RFdjxb5x) | 5:21 | 2022-02-25 | 2022-04-23 |
-| [STORM ABLAZE](https://open.spotify.com/track/4wRUMIwbXP75C8487sR4v5) | [Aviana](https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy) | [STORM ABLAZE](https://open.spotify.com/album/7kYVmzEQvLY4GHnqlNARHU) | 3:29 | 2025-01-31 |  |
+| [STORM ABLAZE](https://open.spotify.com/track/4wRUMIwbXP75C8487sR4v5) | [Aviana](https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy) | [STORM ABLAZE](https://open.spotify.com/album/7kYVmzEQvLY4GHnqlNARHU) | 3:29 | 2025-01-31 | 2025-12-26 |
 | [Strange Love](https://open.spotify.com/track/6YfmHEBb98Kw6C1dVj2dTY) | [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk) | [Strange Love](https://open.spotify.com/album/4AkjlJeSydf04Xi3uwYwW3) | 3:58 | 2023-05-22 | 2024-03-02 |
 | [Strangeland II \- The Return](https://open.spotify.com/track/4460fCzW6HrtvQthhtiz77) | [Mister Misery](https://open.spotify.com/artist/6Dj5ptalBwr1kD35IljMeg) | [Strangeland II \- The Return](https://open.spotify.com/album/59aeDzurqGSPgOa4FRH7dD) | 4:35 | 2021-12-17 | 2022-02-18 |
 | [Stray](https://open.spotify.com/track/7ekWlDymyDnzmqoNDBGjck) | [Boys of Fall](https://open.spotify.com/artist/0ILEjQuglCTYQkTrKGQvj5) | [Stray](https://open.spotify.com/album/0OSZuAeBp0lUDblgxwErDM) | 3:09 | 2024-03-01 | 2024-06-09 |
@@ -1196,6 +1196,7 @@
 | [Tears of Joy](https://open.spotify.com/track/2v8NB1NfczlpMnurLN7kkH) | [Chamber](https://open.spotify.com/artist/0Iv7bsODzqbmMkC6pylYYN) | [Tears of Joy](https://open.spotify.com/album/1KypeRNb1CDo7GzVh0U6h9) | 2:13 | 2024-11-22 | 2024-12-19 |
 | [TECHNIUM](https://open.spotify.com/track/5Pk2Fy0i0BuzfGaCFpB9DB) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx), [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [TECHNIUM](https://open.spotify.com/album/50pfFA6Pb0ZNn97fZy07SX) | 3:04 | 2024-08-12 |  |
 | [Teeth](https://open.spotify.com/track/2RfN92B2CL62PPcZs8Rl3f) | [Convictions](https://open.spotify.com/artist/0PNbGkwlV3farYnmoojYAY) | [I Won't Survive](https://open.spotify.com/album/4nALrWtHZfDGHX2eOzBkGO) | 2:08 | 2022-07-13 | 2022-07-23 |
+| [Tethered](https://open.spotify.com/track/7j9EtfixZidniPN5vueObb) | [Prtty Ridiculous](https://open.spotify.com/artist/3nxebRR9FfHQ7VlIGloJzH), [lomipo](https://open.spotify.com/artist/59aeBP680YYpWyqV1sEKvw) | [Tethered](https://open.spotify.com/album/16IAtazDBF0S6fqxjuhZKj) | 3:14 | 2025-12-12 |  |
 | [Thank You, Again \(feat\. Phil Bozeman\)](https://open.spotify.com/track/1gdNdUdDmVpwVV2c6LgOIW) | [Spite](https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0), [Phil Bozeman](https://open.spotify.com/artist/4xwTN5RGJpScAcnlwVNU4y) | [Thank You, Again \(feat\. Phil Bozeman\)](https://open.spotify.com/album/686K2XWjthBsIxbSCcXjzm) | 3:04 | 2023-10-27 | 2024-04-19 |
 | [Thank You, Again \(feat\. Phil Bozeman\)](https://open.spotify.com/track/5dFc7LBIXNXdfOE6xBYN3i) | [Spite](https://open.spotify.com/artist/2DynE7m1BMVl4hQMvCXXq0), [Phil Bozeman](https://open.spotify.com/artist/4xwTN5RGJpScAcnlwVNU4y) | [Thank You, Again \(feat\. Phil Bozeman\)](https://open.spotify.com/album/3JduUHfZtTYuYvn7WhfEG1) | 3:04 | 2023-09-29 | 2024-05-11 |
 | [Thanks For Nothing](https://open.spotify.com/track/2xcG0Df2Q1MlAtPF4yP6BG) | [Dead Eyes](https://open.spotify.com/artist/0iuYfd0EWw6Itf957PU5U2) | [Thanks For Nothing](https://open.spotify.com/album/2rTr503ollPifDLec3kyea) | 3:42 | 2025-05-02 |  |

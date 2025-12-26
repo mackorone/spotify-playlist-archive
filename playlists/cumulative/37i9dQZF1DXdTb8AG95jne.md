@@ -2,9 +2,9 @@
 
 ### [Indie Korea \(인디 코리아\)](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: 나잠 수, 문선\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: 유라 \(youra\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,199 songs - 3 day 0 hr 44 min
+1,200 songs - 3 day 0 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [101\(Home Home\)](https://open.spotify.com/track/37udabD4Yr1PWBF2QvyBf0) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [101\(Home Home\)](https://open.spotify.com/album/4luAxhIonh4m7E73ceAYho) | 3:04 | 2024-04-30 | 2024-05-10 |
 | [14551](https://open.spotify.com/track/7MiGI1BmyQWhd0blrrTTxO) | [dogyu](https://open.spotify.com/artist/2mZ82ywIcug873Z3DCpL5N), [Hanul Lee](https://open.spotify.com/artist/72rNrCObB3Jo73R6Wo9xTm) | [14551](https://open.spotify.com/album/2q0oMA64W0M58swynXTNWe) | 2:16 | 2024-11-20 | 2025-01-23 |
 | [15 Years Old](https://open.spotify.com/track/1ksJA4Yme39NKgn82SvLsp) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [A side](https://open.spotify.com/album/5avEts7E1VeMY3cE8tLzY6) | 3:24 | 2025-03-21 | 2025-04-23 |
+| [1993](https://open.spotify.com/track/64JnIJP3R8v4WYXYNFINyI) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [1993](https://open.spotify.com/album/20UAantLyOICNDYJTbX1rt) | 2:36 | 2025-12-25 |  |
 | [1AM 새벽 한 시](https://open.spotify.com/track/5kxFmqWNGEiHfUxdlt9mRD) | [Casker](https://open.spotify.com/artist/0nHPlnFkwhTmnfda7ho0E5) | [1AM 새벽 한 시](https://open.spotify.com/album/2W4RwbxG9DWa5Y18Fve6Ie) | 4:19 | 2022-04-12 | 2022-04-18 |
 | [1MIN](https://open.spotify.com/track/3K7tYWE7j23hy9i228NwdQ) | [SUNBURNKIDS](https://open.spotify.com/artist/6SvZiq1Mf4AK1Vxslxo6HL) | [1MIN](https://open.spotify.com/album/6ZJhQiQM1Y6a3R5VX8Qww6) | 2:08 | 2024-04-30 | 2024-05-10 |
 | [2 Minutes](https://open.spotify.com/track/7BwBnCJJDbslpSPKENzYmo) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [2 Minutes](https://open.spotify.com/album/1p6vQUoFIkcMUjULC5SXXz) | 2:00 | 2024-06-06 | 2024-11-30 |
@@ -603,7 +604,7 @@
 | [Love Lost](https://open.spotify.com/track/3S6rPD9U4esvHwgYe3d1hk) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Love Lost](https://open.spotify.com/album/4RB7FLLcYwNpkdyZdIrEu2) | 3:06 | 2023-02-14 | 2023-03-01 |
 | [Love Me \(Like I Love You\)](https://open.spotify.com/track/2pj1FHL2k2l9a1y1YhYejJ) | [Yuu](https://open.spotify.com/artist/2ovcDlrbXLb44IxTpdOBJ2) | [Love Me \(Like I Love You\)](https://open.spotify.com/album/6byq72CwWGDdfl6kHIPt8S) | 2:15 | 2025-11-10 |  |
 | [Love Me More \(Our Movie : Original Television Soundtrack\)](https://open.spotify.com/track/0UURDHnOn086dSgpsniO2a) | [DASUTT](https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s) | [Our Movie OST Part.7](https://open.spotify.com/album/7kE9hNetvTJ8ASszOXeZl0) | 3:24 | 2025-07-15 | 2025-08-19 |
-| [Love me private](https://open.spotify.com/track/6IjrtcCPJ2m19zXoutpYsF) | [BABO](https://open.spotify.com/artist/3jVRXxKf6MGDq5jb7RNIoi) | [Love me private](https://open.spotify.com/album/7vmpcid9pYmXnIJUqrtNBz) | 3:16 | 2025-11-03 |  |
+| [Love me private](https://open.spotify.com/track/6IjrtcCPJ2m19zXoutpYsF) | [BABO](https://open.spotify.com/artist/3jVRXxKf6MGDq5jb7RNIoi) | [Love me private](https://open.spotify.com/album/7vmpcid9pYmXnIJUqrtNBz) | 3:16 | 2025-11-03 | 2025-12-26 |
 | [Love Story](https://open.spotify.com/track/7GxrwmjHuHr7F5wjp8O5Ti) | [E the](https://open.spotify.com/artist/04lD6DqxYPUpRkkttRbAPh) | [Love Story](https://open.spotify.com/album/3k9RocwRCD9q5HS1Io53s3) | 4:02 | 2022-06-18 | 2022-06-30 |
 | [Love Wave](https://open.spotify.com/track/1Z5XuXbFW6dl8wlLnqxu6l) | [Lovewave](https://open.spotify.com/artist/54On25RhdQIrqHwWj3JO3T) | [Love Wave](https://open.spotify.com/album/7dFGuAqh6O68Q5xof0qAXm) | 4:09 | 2021-12-21 | 2022-07-28 |
 | [Love Won't Let Me Be 사랑하고 사랑하며 또 사랑을 하네](https://open.spotify.com/track/4SWki9wQIvFyyzoEu9ye3T) | [OGon](https://open.spotify.com/artist/3MXhVdiw3Cl3EP66WoPEha) | [Love Won't Let Me Be 사랑하고 사랑하며 또 사랑을 하네](https://open.spotify.com/album/0o5tn8fdskeD9nrx0eYJ5A) | 3:41 | 2022-03-31 | 2022-04-06 |

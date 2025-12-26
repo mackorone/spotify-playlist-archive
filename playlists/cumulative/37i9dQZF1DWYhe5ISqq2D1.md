@@ -4,7 +4,7 @@
 
 > 日本のシンガーソングライターを特集。Cover: 崎山蒼志
 
-1,092 songs - 2 day 20 hr 50 min
+1,093 songs - 2 day 20 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -659,6 +659,7 @@
 | [カルト](https://open.spotify.com/track/1ejjFGLrQUzOhbthe2fYAU) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [カルト](https://open.spotify.com/album/3PoU4pErF8qsWAV5CarQNb) | 3:48 | 2024-07-02 | 2024-08-21 |
 | [カーテンコール](https://open.spotify.com/track/1nysdCpKAh6yif4JkmoiNy) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [カーテンコール](https://open.spotify.com/album/11GFYcT1N05hLyrWABo9BK) | 4:03 | 2024-07-26 | 2024-12-25 |
 | [カーニバル](https://open.spotify.com/track/5XGhwqu1TB391if1pD4lje) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:23 | 2024-07-02 | 2024-10-09 |
+| [ガイア](https://open.spotify.com/track/7JyMBBXAn6guCGmDwJdn6y) | [Siip](https://open.spotify.com/artist/4iJl88yli7zUwkDCNeKyNa) | [ガイア](https://open.spotify.com/album/0f9cR9kAGMSLGWnVd9eCyL) | 4:28 | 2025-12-23 |  |
 | [ガラクタが落ちた](https://open.spotify.com/track/5LBF03GdYblzgUPMhadMa0) | [お風呂と街灯](https://open.spotify.com/artist/6tFW7FqHCH1BfXC4duGnfA) | [ガラクタが落ちた](https://open.spotify.com/album/5AJ9cRWp0LHUvSNrU92Rgq) | 3:22 | 2025-02-04 | 2025-02-12 |
 | [ガールフレンド](https://open.spotify.com/track/6oqp1spnXa6dw5Y2jM8wiy) | [kiwano](https://open.spotify.com/artist/2gWOEyfr0ms1TzCQmIQ2IS) | [ガールフレンド](https://open.spotify.com/album/43Ggl0UkT7sQ0x5SqFWxCS) | 2:49 | 2024-07-09 | 2024-07-17 |
 | [キスをしに](https://open.spotify.com/track/1VxzoYhB5uCRWrmlGKjWQ1) | [猫蛙](https://open.spotify.com/artist/4LoPTaiMDcYYOohGwm5T11) | [キスをしに](https://open.spotify.com/album/1L2cqfSVDXtvTBZAn1txwi) | 2:05 | 2025-03-04 | 2025-03-12 |

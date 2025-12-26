@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 24 Dec 19:04 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 26 Dec 04:04 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -39066,7 +39066,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 191803,
       "name": "Glitter",
       "url": "https://open.spotify.com/track/0y9S3dw1MBzHqmTpMTTd0M"
@@ -42934,6 +42934,24 @@
       "duration_ms": 302600,
       "name": "Heathen",
       "url": "https://open.spotify.com/track/5uN7Ib0AHzxUwalc4fctfW"
+    },
+    {
+      "album": {
+        "name": "Heatseeker",
+        "url": "https://open.spotify.com/album/51lJnN3mM25T589JrbEt5z"
+      },
+      "artists": [
+        {
+          "name": "Creo",
+          "url": "https://open.spotify.com/artist/7oh6gwRCYhambO8qcKh3T1"
+        }
+      ],
+      "date_added": "2025-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205609,
+      "name": "Heatseeker",
+      "url": "https://open.spotify.com/track/4P4fiSeJol4XTq5yGTo2Fs"
     },
     {
       "album": {
@@ -83239,6 +83257,24 @@
     },
     {
       "album": {
+        "name": "Saucin'",
+        "url": "https://open.spotify.com/album/5y364Kj24BuuitP830bMnM"
+      },
+      "artists": [
+        {
+          "name": "LNGSHOT",
+          "url": "https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6"
+        }
+      ],
+      "date_added": "2025-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173041,
+      "name": "Saucin'",
+      "url": "https://open.spotify.com/track/7jVr1ZipYJJR4qHxZcQjqa"
+    },
+    {
+      "album": {
         "name": "Saudade Dos Avi\u00f5es Da Panair (Conversando No Bar)",
         "url": "https://open.spotify.com/album/4QJCD7DW0AEzBr6FWe2E8d"
       },
@@ -92728,7 +92764,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 328890,
       "name": "Superluminal",
       "url": "https://open.spotify.com/track/4DGpTIyJgbxL5k3Ka5GqOe"

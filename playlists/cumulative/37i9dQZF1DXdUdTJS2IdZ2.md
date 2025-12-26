@@ -4,7 +4,7 @@
 
 > Rising stars and new releases from sunny Singapore\. Cover: Gen Neo
 
-1,154 songs - 2 day 15 hr 11 min
+1,157 songs - 2 day 15 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [All You Had To Do](https://open.spotify.com/track/2fXJIXFwPZd1ikOWO0s1xC) | [Tay Kewei](https://open.spotify.com/artist/7CEGCiUDMO8Xr257mqIJl2) | [All You Had To Do](https://open.spotify.com/album/5zvuBhjoffN1OW1ElmwBGX) | 3:30 | 2024-06-27 | 2024-07-27 |
 | [All You Need](https://open.spotify.com/track/5q1usJ8JdXbmuojeXEUm0t) | [Midnight Blu](https://open.spotify.com/artist/1CrF9Qw6ekBFc36BbWWihl) | [All You Need](https://open.spotify.com/album/0ghjtCHD4zRz0XkIVp2KQn) | 4:52 | 2024-11-28 | 2025-05-30 |
 | [All You Really Need \(Is Love\)](https://open.spotify.com/track/5rDVenhWv5PZnVtLGpuyUG) | [shazza](https://open.spotify.com/artist/6MPxSpygdpS6heZntWsnsD) | [All You Really Need \(Is Love\)](https://open.spotify.com/album/0jTFFMgI7O1Mf9qZW87ON8) | 3:14 | 2024-06-27 | 2024-07-27 |
+| [ALLY](https://open.spotify.com/track/7KbWQ9jXVSxcpIA3baK6fq) | [Bellied Star](https://open.spotify.com/artist/3qLSvNWAcikjE7QFTNoxZl) | [ALLY](https://open.spotify.com/album/6qdRqOkCBhisNhdTcEIeAi) | 2:40 | 2025-12-25 |  |
 | [alright](https://open.spotify.com/track/4QvmIquwQxoFtQ2PUQf5LD) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [we've been here before](https://open.spotify.com/album/6MHgBh6b08AKDR6X5TrJZz) | 3:01 | 2024-11-28 | 2025-01-17 |
 | [Always You \(From《爱情乱码》The CellPhone Swap \- 电视剧插曲\)](https://open.spotify.com/track/0DEue05oEtKtygkL7pHVS9) | [Calvert Tay](https://open.spotify.com/artist/3ZYC5DuefIg4HuAAU5YBU4) | [Always You \(From《爱情乱码》The CellPhone Swap \- 电视剧插曲\)](https://open.spotify.com/album/6sYSQ1xljcZfrYWXE3YeYJ) | 4:27 | 2025-09-25 | 2025-11-07 |
 | [am i](https://open.spotify.com/track/4mTgK0Qrm6TEXi9inlxPgn) | [gels](https://open.spotify.com/artist/64A8LUUbYeqJBw4rv0OTxf) | [am i](https://open.spotify.com/album/2YTAuBepjJBUBAG3CSZ6Ma) | 2:26 | 2024-09-26 | 2024-10-25 |
@@ -749,6 +750,7 @@
 | [Selamat Ulang Tahun Sayang \- Rafikoncept Remix](https://open.spotify.com/track/6yeXeaniyslyMKuf9p4Z6p) | [Imran Ajmain](https://open.spotify.com/artist/6RwVCUG6anzF4HiiIKMFWV), [Rafikoncept](https://open.spotify.com/artist/53WlW8jBLi9Bw7BkERqm9b) | [Sila Ambil Perhatian](https://open.spotify.com/album/2z2z8HFxfC3S1C52yvD6Jm) | 4:04 | 2025-06-05 | 2025-07-18 |
 | [Self\-timer](https://open.spotify.com/track/4vt3w1xZKwzC8XtBkDPQeI) | [Tyen Rasif](https://open.spotify.com/artist/35S21JGNjKGy0ueRX9MSSZ) | [Self\-timer](https://open.spotify.com/album/5w5IpCq4TvuGzuNd6LAZac) | 3:23 | 2025-07-03 | 2025-08-15 |
 | [Semua Yang Terjadi](https://open.spotify.com/track/7JSOZu6ShheVkbjuQg7U7Z) | [Ahmadul Amin](https://open.spotify.com/artist/3zEZOoywGtysVsh2w8OMZy) | [Semua Yang Terjadi](https://open.spotify.com/album/1LDpZ2gXPZzs1k05NYikI1) | 3:39 | 2025-11-20 |  |
+| [senyum mu kenangan ku](https://open.spotify.com/track/21u6nVgBVG5sht9fJcCsc2) | [Rico Setiabudi](https://open.spotify.com/artist/5e9VeQCkvT3TTtpepLWZij) | [senyum mu kenangan ku](https://open.spotify.com/album/4qr8GoE2ENZXV8f49SmOYO) | 4:01 | 2025-12-25 |  |
 | [Separate Ways](https://open.spotify.com/track/0qMP7NeROCwLgqSDbtuZff) | [Foxela](https://open.spotify.com/artist/1R2OPNS7EkGLKcDjyGnpEu), [David Shane](https://open.spotify.com/artist/3Ao6gAvkCZUtj4ALBjNmXV) | [Separate Ways](https://open.spotify.com/album/3ngkRH3t74hMdz5xPTF3Rz) | 2:36 | 2024-08-01 | 2024-09-27 |
 | [Sepasang Bayang\-Bayang](https://open.spotify.com/track/5UHGyTdwnM5ITzOKFnxKaD) | [Wild Rice](https://open.spotify.com/artist/1xFFXhUxaRoGDaK0wQJIcD) | [Sepasang Bayang\-Bayang](https://open.spotify.com/album/7CP84rDDqRBYEeGAD2EIJH) | 3:35 | 2024-08-08 | 2024-10-04 |
 | [Sepenuh Hati](https://open.spotify.com/track/0bOnD9LP3xrjMnJK5OKXxK) | [Danial Baharin](https://open.spotify.com/artist/5In2Kkmpf5REayiSA6Ls0w) | [Sepenuh Hati](https://open.spotify.com/album/4YlF3lBmvF9WD21cJF2O2l) | 4:47 | 2025-06-05 | 2025-06-20 |
@@ -1092,6 +1094,7 @@
 | [有妳的地方](https://open.spotify.com/track/6d0emVSfrKmezZWF4vZ95h) | [Homeless Scholars](https://open.spotify.com/artist/5rirdMf17gTWSFQI8koNSA) | [有妳的地方](https://open.spotify.com/album/3XmIJMKHNPHXYn43VgmYtj) | 3:15 | 2024-11-08 | 2025-02-07 |
 | [有效期限](https://open.spotify.com/track/0cFBPjlng5PbBhZhcmoMP7) | [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx) | [有效期限](https://open.spotify.com/album/13lWoZs9onL2GxqLK7iC69) | 3:16 | 2025-03-13 | 2025-05-30 |
 | [有話沒說](https://open.spotify.com/track/5a59iCKJGGzVqZBDLRBD0J) | [李佳歡](https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH), [Sherman Zhuo](https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw) | [有話沒說](https://open.spotify.com/album/4xGnvis9RtIea8Tx6DKcJI) | 4:25 | 2025-03-13 | 2025-05-30 |
+| [期盼對現實](https://open.spotify.com/track/6MbEeybTJH6NPX5ejJ2lEe) | [Jing Xuan](https://open.spotify.com/artist/2a0sVco1HJutTPKN9oFQv4), [Kyean Lim](https://open.spotify.com/artist/0AKXBxtNwJNIQuDVgWSG9T) | [期盼對現實](https://open.spotify.com/album/4eoB4eyh3RFlmWtqvpbnnS) | 4:01 | 2025-12-25 |  |
 | [来猜谜语](https://open.spotify.com/track/66eeuCR08DTdFsvxDTpyhE) | [Tosh Rock](https://open.spotify.com/artist/73260xfmc9eKPFBHXy8rlZ) | [来猜谜语](https://open.spotify.com/album/6QEoeYvrGCtHO6pLRb8hxl) | 2:02 | 2025-12-04 |  |
 | [来电瑶](https://open.spotify.com/track/1VLC1aoLhShRNhKIulV3ut) | [法老](https://open.spotify.com/artist/429wOEd8ummnOTS4gw3WcQ), [BY2](https://open.spotify.com/artist/3DOs7Bsr9x4eJHqv6ViPvR) | [来电瑶](https://open.spotify.com/album/2KKACaGyExkF2oUruqFfCB) | 3:38 | 2025-04-11 | 2025-07-04 |
 | [样 Young](https://open.spotify.com/track/6LbAXTkBb8BM3kh54D8tCm) | [鍾汶芳](https://open.spotify.com/artist/2QSh7SsfVcNJKI2d614Uim) | [样 Young](https://open.spotify.com/album/2CYvORKWlYMp467GQGO5mw) | 3:35 | 2025-06-26 | 2025-08-01 |

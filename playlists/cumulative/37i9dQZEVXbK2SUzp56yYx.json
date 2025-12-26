@@ -1121,24 +1121,6 @@
     },
     {
       "album": {
-        "name": "damage",
-        "url": "https://open.spotify.com/album/2wDFDUxHnXAhCY682osJh6"
-      },
-      "artists": [
-        {
-          "name": "Kai Angel",
-          "url": "https://open.spotify.com/artist/1pxLlPRiWRUBGdSOrVL4f0"
-        }
-      ],
-      "date_added": "2025-09-23",
-      "date_added_asterisk": false,
-      "date_removed": "2025-10-11",
-      "duration_ms": 167040,
-      "name": "amy",
-      "url": "https://open.spotify.com/track/1jpG4muUehH5zr2W0daX7e"
-    },
-    {
-      "album": {
         "name": "An Unhealthy Obsession",
         "url": "https://open.spotify.com/album/4mK2uqTY0iz0rNYebd4EDd"
       },
@@ -2610,6 +2592,24 @@
       "duration_ms": 224079,
       "name": "Blyadskaya Natura",
       "url": "https://open.spotify.com/track/0nuLXeNGvK5ApRO3EhFAWb"
+    },
+    {
+      "album": {
+        "name": "damage",
+        "url": "https://open.spotify.com/album/2wDFDUxHnXAhCY682osJh6"
+      },
+      "artists": [
+        {
+          "name": "Kai Angel",
+          "url": "https://open.spotify.com/artist/1pxLlPRiWRUBGdSOrVL4f0"
+        }
+      ],
+      "date_added": "2025-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112000,
+      "name": "body double",
+      "url": "https://open.spotify.com/track/1jpG4muUehH5zr2W0daX7e"
     },
     {
       "album": {
@@ -11048,7 +11048,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 279426,
       "name": "It Can't Come Quickly Enough",
       "url": "https://open.spotify.com/track/533TLnqopf6VwOlWqEuAdL"
@@ -17134,6 +17134,24 @@
       "duration_ms": 115533,
       "name": "Paint The Town Blue (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/0g0qfC3nAaIsfbxS29ksJx"
+    },
+    {
+      "album": {
+        "name": "Parade",
+        "url": "https://open.spotify.com/album/6tVGp3ubG56i7mlz5AC8CM"
+      },
+      "artists": [
+        {
+          "name": "draken",
+          "url": "https://open.spotify.com/artist/1swkyc2nwzfkcD1aLCSkxK"
+        }
+      ],
+      "date_added": "2025-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343588,
+      "name": "Parade",
+      "url": "https://open.spotify.com/track/5Wx9b2pNPEx11wVYIAP1Y6"
     },
     {
       "album": {
@@ -36062,7 +36080,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 142322,
       "name": "\u041f\u0435\u0441\u043a\u0438 \u0432\u0440\u0435\u043c\u0435\u043d\u0438",
       "url": "https://open.spotify.com/track/1hACcMlgZ1V9hvcgEzSMxK"
@@ -36766,7 +36784,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 115098,
       "name": "\u041f\u041e\u0421\u0422\u0420\u041e\u042e \u0413\u041e\u0420\u041e\u0414 \u041c\u0415\u0427\u0422\u042b",
       "url": "https://open.spotify.com/track/2KgMlIgZdZwuupmBcLuMgA"
@@ -37856,7 +37874,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-24",
+      "date_removed": null,
       "duration_ms": 145047,
       "name": "\u0421\u0430\u0439\u0442",
       "url": "https://open.spotify.com/track/695k3xSxwunkal37drPMkV"
@@ -38888,7 +38906,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-26",
       "duration_ms": 244840,
       "name": "\u0421\u043e\u0432\u0435\u0442\u0441\u043a\u0438\u0439 \u0421\u043e\u044e\u0437",
       "url": "https://open.spotify.com/track/5j5QU5x8OnwTAVtEj4nNCS"
@@ -41284,7 +41302,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-25",
+      "date_removed": null,
       "duration_ms": 147745,
       "name": "\u0425\u041e\u0422\u0415\u041b\u0410 \u0426\u0415\u041b\u041e\u0412\u0410\u0422\u042c",
       "url": "https://open.spotify.com/track/1lW50Wd6RYQvuvRDbRWTKp"

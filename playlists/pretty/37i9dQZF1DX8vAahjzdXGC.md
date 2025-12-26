@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 ### [New Music Friday Indonesia](https://open.spotify.com/playlist/37i9dQZF1DX8vAahjzdXGC)
 
-> Rilisan baru pekan ini dari Denny Caknan, Timethai, BamBam, Kali Uchis, Dee Lestari, Elsa Japasal dan masih banyak lagi dari dalam dan mancanegara
+> Rilisan terbaru tiap pekannya akan kembali di 9 Januari 2026\. Selamat natal dan tahun baru!
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,766 likes - 53 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,925 likes - 53 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 52 | [Moon Or Stars](https://open.spotify.com/track/2ZrMjuzyRQwuAprkYknTYo) | [Jūji](https://open.spotify.com/artist/0TsOSZXtnoaRKQjAGo9vJn) | [Moon Or Stars](https://open.spotify.com/album/2cgcCDBfquJ83iOqEsAWFl) | 3:42 |
 | 53 | [Love you still](https://open.spotify.com/track/53rDQxTvkfii6736nW2SLz) | [REJAY](https://open.spotify.com/artist/4eepZmdBOvo2dDxaifOphe) | [Grown tag](https://open.spotify.com/album/4kIFM6rj487OXIrYqYAxMU) | 4:23 |
 
-Snapshot ID: `AAAAALz/XLU/th0c6RhCaOmmJUmfxhFZ`
+Snapshot ID: `AAAAAITqF+oR/6LMobDsnaKkV2V17nOl`
