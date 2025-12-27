@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47uat5buwl0.md) - [plain](/playlists/plain/37i9dQZF1DX47uat5buwl0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX47uat5buwl0)
 
-### [Studenten Hits 2025](https://open.spotify.com/playlist/37i9dQZF1DX47uat5buwl0)
+### [Studenten Hits 2026](https://open.spotify.com/playlist/37i9dQZF1DX47uat5buwl0)
 
 > 🔥🎉
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,613 likes - 70 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,589 likes - 70 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47uat5buwl0.md) - [plain]
 | 5 | [HDP](https://open.spotify.com/track/3t85nUPCmSq3O4bJXK0qhT) | [Milolaathetlukken](https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i), [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [OMG YES](https://open.spotify.com/album/5KibFCQ6DTeayb6N11EUSc) | 2:34 |
 | 6 | [Knalprobleem](https://open.spotify.com/track/7kWJE0vHK66DyAvtRpKqcP) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Milolaathetlukken](https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i) | [Knalprobleem](https://open.spotify.com/album/6rg0zIAUmB3z06LTToM5gS) | 2:03 |
 | 7 | [Positive](https://open.spotify.com/track/0cZN3g7rtfNE6vsmX0k8OF) | [Jamback](https://open.spotify.com/artist/7n5VjDNd00Hy0ZDEGn0erB) | [Positive](https://open.spotify.com/album/4ZIJvPTy2VrVEUkc0FpdaI) | 2:49 |
-| 8 | [Losing Control](https://open.spotify.com/track/3gJ16QEGGhLFPNLvbXgB1u) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Losing Control](https://open.spotify.com/album/4x4LKLSlnUfLVCHKDmD9LV) | 2:50 |
-| 9 | [3D](https://open.spotify.com/track/08FAGebjL6tfLPGygWMJv2) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [3D](https://open.spotify.com/album/22JWsrUkiVvOAeaPCm5rPT) | 2:43 |
+| 8 | [Dans Gewoon](https://open.spotify.com/track/3YrzQVu7wdv1d5MO2DvVdl) | [Rijck](https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ), [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2) | [Dans Gewoon](https://open.spotify.com/album/3PvUWA9XY1FQhKikmc5NK6) | 2:32 |
+| 9 | [Losing Control](https://open.spotify.com/track/3gJ16QEGGhLFPNLvbXgB1u) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Losing Control](https://open.spotify.com/album/4x4LKLSlnUfLVCHKDmD9LV) | 2:50 |
 | 10 | [LEKKERDING](https://open.spotify.com/track/522Qx5uJaUzkLuYp7wTB5u) | [Alessio](https://open.spotify.com/artist/6gFuwMAaoJDU6M3c8UHcAj), [YORDI](https://open.spotify.com/artist/0G6ynrkfdMoxJTBnxiAPcT), [Lastpakken](https://open.spotify.com/artist/2J28L5P6Kf6HtTIryvixK4) | [LEKKERDING](https://open.spotify.com/album/50Bj8NzQEuWSxRyu6I4zSL) | 1:58 |
 | 11 | [Spookstad \- NewTone Remix](https://open.spotify.com/track/2vNwVqKapHlYQEkv99Piel) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ), [NewTone](https://open.spotify.com/artist/6xjjzzfzi4sSbwwZvRYENH) | [Spookstad \(NewTone Remix\)](https://open.spotify.com/album/0Z9HO43TwKGdAbyvyD7wiZ) | 5:13 |
 | 12 | [Shake Body](https://open.spotify.com/track/1agLiWjSBYSTsKZLudOunC) | [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv) | [Man of the Year](https://open.spotify.com/album/5xJdeEZGQxF8KXVOlEQHj2) | 3:28 |
@@ -25,15 +25,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47uat5buwl0.md) - [plain]
 | 15 | [Ain't No Party](https://open.spotify.com/track/4OjT5tTYsmQl29oQT6OHab) | [Lance Savali](https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd) | [Ain't No Party](https://open.spotify.com/album/3WEW6RrQrhxOB0wdlU6mGb) | 3:05 |
 | 16 | [Boccaccio](https://open.spotify.com/track/5E1VRAAQEEQjWXeeKAHTSe) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Boccaccio](https://open.spotify.com/album/5bwru8YsdUBycin4I75img) | 3:07 |
 | 17 | [Never Alone](https://open.spotify.com/track/3d59YKK0xcsrzTW58SjRZw) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V), [2 Brothers On The 4th Floor](https://open.spotify.com/artist/5wsBGjgRsASMggXLPF7pYm) | [Never Alone](https://open.spotify.com/album/6YYoGKAxBFAva4Qu2EtHES) | 3:15 |
-| 18 | [What’s a Girl to Do in ‘25](https://open.spotify.com/track/4XsQ5Iq8VUNAY006J7GQY0) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [What’s a Girl to Do in ‘25](https://open.spotify.com/album/1wFswwju0J072xesMYeMCz) | 2:28 |
-| 19 | [Down 4 Whatever](https://open.spotify.com/track/0Y2jYeRtebUMr21kZwK2Fi) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [GO BESTFRIEND](https://open.spotify.com/album/2cCRxb2mWYNWAL7KNMoL95) | 2:12 |
-| 20 | [Bad Bitches Luisteren Def](https://open.spotify.com/track/2EIyJASJ9P8cVUV3J33mc9) | [Def](https://open.spotify.com/artist/7xSvzzpRGlGKyXVOI6IeWk) | [Bad Bitches Luisteren Def](https://open.spotify.com/album/28dmgMrhKpJmGNPlfvcaOI) | 1:35 |
-| 21 | [Eindeloze Sleur](https://open.spotify.com/track/5ckIVNC4NzawzurmYeUwRN) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH) | [Georganiseerde Chaos](https://open.spotify.com/album/676x2yZ3aVmbnbEdx1XWvt) | 2:43 |
+| 18 | [3D](https://open.spotify.com/track/08FAGebjL6tfLPGygWMJv2) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [3D](https://open.spotify.com/album/22JWsrUkiVvOAeaPCm5rPT) | 2:43 |
+| 19 | [What’s a Girl to Do in ‘25](https://open.spotify.com/track/4XsQ5Iq8VUNAY006J7GQY0) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [What’s a Girl to Do in ‘25](https://open.spotify.com/album/1wFswwju0J072xesMYeMCz) | 2:28 |
+| 20 | [Down 4 Whatever](https://open.spotify.com/track/0Y2jYeRtebUMr21kZwK2Fi) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [GO BESTFRIEND](https://open.spotify.com/album/2cCRxb2mWYNWAL7KNMoL95) | 2:12 |
+| 21 | [Bad Bitches Luisteren Def](https://open.spotify.com/track/2EIyJASJ9P8cVUV3J33mc9) | [Def](https://open.spotify.com/artist/7xSvzzpRGlGKyXVOI6IeWk) | [Bad Bitches Luisteren Def](https://open.spotify.com/album/28dmgMrhKpJmGNPlfvcaOI) | 1:35 |
 | 22 | [ZAAZAA \- NOA Remix](https://open.spotify.com/track/6KKy22zqeaWR8kfttjvPR2) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [NOA](https://open.spotify.com/artist/63bmzsKlelsGQepln0VuO1) | [REMIX PACK](https://open.spotify.com/album/1r7s5anqKnYFUZDgHFyH38) | 2:38 |
 | 23 | [Devotion](https://open.spotify.com/track/3BM5hoJ168Kh4hYEhiNxwK) | [Lance Savali](https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd) | [Devotion](https://open.spotify.com/album/47IOO7TrIL82e6P2d809N9) | 2:16 |
 | 24 | [Waar Ben Jij Nou](https://open.spotify.com/track/2WLYxHx1WeKeUf8Vjk6uSl) | [Nordin](https://open.spotify.com/artist/6IdSqpFPyjKzO3z56xzoaK) | [Waar Ben Jij Nou](https://open.spotify.com/album/7CwuKCEjExUySRRkxwHouK) | 2:00 |
-| 25 | [Nonchalant](https://open.spotify.com/track/4xfPIBJaa4SBpiphmCzrUo) | [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Nonchalant](https://open.spotify.com/album/4AUBKZCLgsSAjAdKazWYQI) | 2:30 |
-| 26 | [Ben Je Morgen Vrij?](https://open.spotify.com/track/2ytB93cB0vNztVGnzYF7Rz) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Ben Je Morgen Vrij?](https://open.spotify.com/album/6sc6ZWqZa0J5FYzr5M15JD) | 2:33 |
+| 25 | [Eindeloze Sleur](https://open.spotify.com/track/5ckIVNC4NzawzurmYeUwRN) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH) | [Georganiseerde Chaos](https://open.spotify.com/album/676x2yZ3aVmbnbEdx1XWvt) | 2:43 |
+| 26 | [Nonchalant](https://open.spotify.com/track/4xfPIBJaa4SBpiphmCzrUo) | [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Nonchalant](https://open.spotify.com/album/4AUBKZCLgsSAjAdKazWYQI) | 2:30 |
 | 27 | [Lotje \- Lil Kleine Remix](https://open.spotify.com/track/7ps3LdQn8lKdaa2sbIKFTR) | [Roeland Beelen](https://open.spotify.com/artist/3AO2szj8eZ8MSTw0hghw3M), [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [Lotje \(Lil Kleine Remix\)](https://open.spotify.com/album/3YQU2E8ipf8HVHgHvMupSU) | 2:26 |
 | 28 | [Kaolo Beat](https://open.spotify.com/track/2dr8yrTUpZw0EzS05mOlGU) | [Freddy Moreira](https://open.spotify.com/artist/2CU1lH3DaaajH9Cm2S2tPk), [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1) | [Kaolo Beat](https://open.spotify.com/album/3i7Efs4zQJi66ihoNhQHGX) | 1:46 |
 | 29 | [Ain't Nobody](https://open.spotify.com/track/2gnEndVbpPiaSAn2gEA0WH) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6), [RUZE](https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP) | [Ain't Nobody](https://open.spotify.com/album/3AfZApPiVNmPESFq3J9R9Q) | 2:34 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47uat5buwl0.md) - [plain]
 | 69 | [FHM 500](https://open.spotify.com/track/7LwqG6rc5bbSv4ohKRfEHH) | [Turfy Gang](https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W), [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR) | [FHM 500](https://open.spotify.com/album/0MHhhzjPzZ8OcRgThJ5zk7) | 2:45 |
 | 70 | [These Words](https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [These Words](https://open.spotify.com/album/3boWgDZHAI5tHYwdLuMuwq) | 2:16 |
 
-Snapshot ID: `AAAAAGZn6S92/fFjwugouy1LDeoHzbPK`
+Snapshot ID: `AAAAABzFxm5dyBxD3P9LBRQaI5VhC3pH`

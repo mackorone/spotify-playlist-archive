@@ -4,13 +4,14 @@
 
 > Based on the best\-selling book series\. Listen to the music from Heated Rivalry, now streaming on Crave and HBO Max.
 
-35 songs - 2 hr 8 min
+38 songs - 2 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aaliyah](https://open.spotify.com/track/26hUeZUdgM5AEzs31qr3SU) | [Malko](https://open.spotify.com/artist/501Uzli8ksZoUEWZj8uKJI) | [SAHARA](https://open.spotify.com/album/2C7QaRqtc4u0jErPw63A5o) | 1:58 | 2025-12-19 |  |
 | [All the Things She Said](https://open.spotify.com/track/2ihHDb5epUtpn97W0pOsOA) | [Harrison](https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94) | [All the Things She Said](https://open.spotify.com/album/1ziZbo2KHanGDueyFqzsVZ) | 2:50 | 2025-12-12 |  |
 | [All The Things She Said](https://open.spotify.com/track/4bJygwUKrRgq1stlNXcgMg) | [t.A.T.u.](https://open.spotify.com/artist/2Q3eZMfDQgT8MhPowKFXYO) | [200 KM/H In The Wrong Lane \(10th Anniversary Edition\)](https://open.spotify.com/album/4vyPN44zoiJXE6hruCCrGB) | 3:34 | 2025-12-12 |  |
+| [Bad Things](https://open.spotify.com/track/2QMV9Kj5BFo8kjggLVHf86) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [House with a Pool](https://open.spotify.com/album/3hVVFcc2eF2BTr42BiHZqr) | 3:36 | 2025-12-26 |  |
 | [Big Haiti](https://open.spotify.com/track/0FqKjDDccJePA65haxElsA) | [Money Zoe](https://open.spotify.com/artist/29UxazXTsvDqxRWK1TEK4j), [O&O Beats](https://open.spotify.com/artist/3kRl8Zlut5JuCvrzPdUBFT), [PUSH.audio](https://open.spotify.com/artist/6Fym3lIorDt8I7PYvuEcmv) | [M.O.E.](https://open.spotify.com/album/0yRw7vxSWkuftmHFsCQAip) | 2:05 | 2025-12-12 |  |
 | [Bonnie](https://open.spotify.com/track/6ayg8sUSmy5YMXs3aNxTna) | [Absolute Treat](https://open.spotify.com/artist/3tNm5fHC45F0Lb18WSlz1n) | [Dilettante](https://open.spotify.com/album/66TM4VW6gXfj0tvVCtuxIr) | 4:26 | 2025-12-19 |  |
 | [Boys Will Be Girls](https://open.spotify.com/track/6U051MDlFT3fbXjRsQRGvK) | [Keir](https://open.spotify.com/artist/2YOYjcNXjBJSW1STwwhE74) | [Boys Will Be Girls](https://open.spotify.com/album/4MsLYAZDcPux4etKurgfK2) | 3:16 | 2025-12-19 |  |
@@ -22,6 +23,7 @@
 | [Hungry Like a Tiger](https://open.spotify.com/track/09ndgOSqpMUVxTrw2IvawN) | [Jared Mees & The Grown Children](https://open.spotify.com/artist/2NFK5IzrMlp9jB8z5CEQMh) | [Only Good Thoughts Can Stay](https://open.spotify.com/album/55p883Q08Cw1aiMa7SbGFF) | 4:28 | 2025-12-12 |  |
 | [I Feel Free](https://open.spotify.com/track/5bOICm0YxfMAcCvAc7UDyL) | [DILLY DALLY](https://open.spotify.com/artist/6HcTkJKjlZEJgv3fR4CJCS) | [Heaven](https://open.spotify.com/album/3rAxkmi2vjbOyt2e7kVJNw) | 3:40 | 2025-12-12 |  |
 | [I'll Believe in Anything](https://open.spotify.com/track/7zxikeAavSLQVGocbK2nau) | [Wolf Parade](https://open.spotify.com/artist/0XSqX2PB3C5dTMv7SZaxSm) | [Apologies to the Queen Mary](https://open.spotify.com/album/6ZeO3WNF2Gti8ZQnXog5SQ) | 4:36 | 2025-12-12 |  |
+| [L'anarchie des jours heureux \(chanson thème Le chalet\)](https://open.spotify.com/track/2dty520sn46L7iZRCRu6ro) | [La Bronze](https://open.spotify.com/artist/3yxkBjohRhCuyo2sn9IjwK) | [L'anarchie des jours heureux \(chanson thème Le chalet\)](https://open.spotify.com/album/4G8HerJwhjOkScJQlRPsdP) | 2:48 | 2025-12-26 |  |
 | [Lips](https://open.spotify.com/track/09nwO5Lbi3buIIFtsQiwIM) | [Baxter Dury](https://open.spotify.com/artist/0EgHhNmWcjusA7F2heSD0O) | [It's a Pleasure](https://open.spotify.com/album/4B3U5Xmwc9zNVRsnEZEKul) | 3:05 | 2025-12-12 |  |
 | [Lost Time](https://open.spotify.com/track/4iEoZLI4gHzmMhoX56ooG6) | [Koett](https://open.spotify.com/artist/4n2kJNAAKNxoDZrjMRs4xz) | [Lost Time](https://open.spotify.com/album/1Bstt7sHUHUWrVuvN1ie1M) | 5:07 | 2025-12-12 |  |
 | [Lovers Land](https://open.spotify.com/track/0awbMpWF73JU2WkU9Jj88o) | [Margaret Lewis](https://open.spotify.com/artist/0HF5JmBPRVKmHTs4fbt8ce), [Grace Tennessee](https://open.spotify.com/artist/0g15SaSdu2aDo8xoB3dK5r) | [Margaret Lewis with Grace Tennessee](https://open.spotify.com/album/2p1R709GffgEDYEWuIHd1h) | 3:01 | 2025-12-12 |  |
@@ -39,6 +41,7 @@
 | [Tropicana](https://open.spotify.com/track/51OcBJ9M6V4VDXDIjnCAzr) | [Rose Marie Cameron](https://open.spotify.com/artist/5nnzTjmeScbAaduIPSgNgk), [Carey Parder](https://open.spotify.com/artist/4lwsn3IpY4D9pX9hUjPVB5) | [Moonlight in a Winter Sky](https://open.spotify.com/album/4UMdAE4eJagRT3qUkcJkea) | 4:23 | 2025-12-12 |  |
 | [Tu T'en Souviens \- A COLORS SHOW](https://open.spotify.com/track/0Q5rXLOF7NxSfiNE9xEtuc) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN) | [Tu T'en Souviens \- A COLORS SHOW](https://open.spotify.com/album/76RFXXmVwMd7VpAwb2dpIR) | 2:52 | 2025-12-12 |  |
 | [Une journée parfaite](https://open.spotify.com/track/0t1ksCUcCpBXCi099fjSfi) | [Dumas](https://open.spotify.com/artist/7HK83pzwHsZqiGchCqtMuD) | [Dumas](https://open.spotify.com/album/2izU8I6LuUSbpKnQkMS398) | 3:12 | 2025-12-12 |  |
+| [Unravel](https://open.spotify.com/track/39NyYDn0gOoYf5uiuqdVzC) | [Ellisa Sun](https://open.spotify.com/artist/1ggXb0Cl9HQSLexz0aNed2) | [Moon & Sun](https://open.spotify.com/album/0PwPnzrf3ru9bvvrPejKJX) | 3:49 | 2025-12-26 |  |
 | [Wall of Love](https://open.spotify.com/track/157yMY1L5ygFcqqDqAxLKB) | [Night Lunch](https://open.spotify.com/artist/0N2IFfbiNyv2qtkbAulQ0y) | [Wall of Love](https://open.spotify.com/album/6l5frrrZicL3vxxvc1J0Vk) | 3:55 | 2025-12-12 |  |
 | [Your Body](https://open.spotify.com/track/50sZMw31RRdqo3C46AF4eW) | [Night Lunch](https://open.spotify.com/artist/0N2IFfbiNyv2qtkbAulQ0y) | [Wall of Love](https://open.spotify.com/album/6l5frrrZicL3vxxvc1J0Vk) | 3:35 | 2025-12-12 |  |
 | [Zhuravli](https://open.spotify.com/track/7qwOIfNgNAupp890KLaW1j) | [Mark Bernes](https://open.spotify.com/artist/1jZ0MrDMFzvOPUgYIAlwrN) | [Tjomnaja noch'](https://open.spotify.com/album/08eRcBZUOJ75DaUjNS62cs) | 4:13 | 2025-12-19 |  |

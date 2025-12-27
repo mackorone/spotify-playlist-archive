@@ -2,7 +2,7 @@
 
 ### [Today’s Top Hits](https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M)
 
-> The hottest 50\. Cover: sombr
+> The hottest 50\. Cover: RAYE
 
 1,321 songs - 2 day 22 hr 45 min
 

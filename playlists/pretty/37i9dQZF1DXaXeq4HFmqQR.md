@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres a todo volumen, con Rosario Alfonso en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,864 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,866 likes - 60 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 4 | [Mar de Coral](https://open.spotify.com/track/0u45ps6DeoMdCgszuASyzr) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Inmersión](https://open.spotify.com/album/7GzlsTZ6h5tURFxCZ2DFc0) | 3:55 |
 | 5 | [El Compromiso](https://open.spotify.com/track/1fXbBlfgDB6kVOY8h2UI8y) | [Javiera Parra](https://open.spotify.com/artist/1mBmpJSQUdUOTJzbfEg5m8) | [Grandes Versiones](https://open.spotify.com/album/7gqnanuFsI9VHWT3y0QxC6) | 2:51 |
 | 6 | [Quisiera](https://open.spotify.com/track/58s4Lbsh8MBAFoJ7Aeaex8) | [Flor de Jamaica](https://open.spotify.com/artist/4jS676NJhUIjqAjmDzKG5f) | [Quisiera](https://open.spotify.com/album/3HJ3fRk2KTki8HvqsoLWm6) | 3:44 |
-| 7 | [ESQUIVA](https://open.spotify.com/track/6Wxm4ETl1UHPRf4GJhfNOe) | [Seamoon](https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O) | [ESQUIVA](https://open.spotify.com/album/7J9z4mnz4I5zwZgZrFVwo4) | 3:28 |
+| 7 | [Antes de que apague el sol](https://open.spotify.com/track/49IVg5yJ31j90VaSqXP8yx) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [DOPAMINA](https://open.spotify.com/album/1Kw16YfS5WXfoRKU4QLoRD) | 3:49 |
 | 8 | [La Vida Pasa ☆](https://open.spotify.com/track/5SKKE0xuHqAL5kbWhUOxO6) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ), [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Cómo Enamorarse con el Corazón Partío](https://open.spotify.com/album/2HoYvQucdu79TEF25BekcW) | 3:48 |
-| 9 | [Antes de que apague el sol](https://open.spotify.com/track/49IVg5yJ31j90VaSqXP8yx) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [DOPAMINA](https://open.spotify.com/album/1Kw16YfS5WXfoRKU4QLoRD) | 3:49 |
+| 9 | [ESQUIVA](https://open.spotify.com/track/6Wxm4ETl1UHPRf4GJhfNOe) | [Seamoon](https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O) | [ESQUIVA](https://open.spotify.com/album/7J9z4mnz4I5zwZgZrFVwo4) | 3:28 |
 | 10 | [Cuando Respiro En Tu Boca](https://open.spotify.com/track/2BfBdNashU8O8pt5375t1v) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp), [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Cuando Respiro en Tu Boca](https://open.spotify.com/album/5YsQw7HZfWd6YnC7WtnbkU) | 3:23 |
 | 11 | [Proverbios](https://open.spotify.com/track/4NjSjZlZ5CjKkJC5eqC012) | [Javiera Parra](https://open.spotify.com/artist/1mBmpJSQUdUOTJzbfEg5m8) | [Grandes Versiones](https://open.spotify.com/album/7gqnanuFsI9VHWT3y0QxC6) | 4:00 |
 | 12 | [Tocame el culo](https://open.spotify.com/track/6Y3mbEMBjlTbVUQdlcZoCe) | [Rebe](https://open.spotify.com/artist/09JzopXDnVeP5YvaNh7VhF) | [Recuerdos un poco antes y un poco despues de conocer a 1 xico \(el mio\)](https://open.spotify.com/album/2QMWFV9gf52dEyzsxwOzhL) | 2:37 |
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 22 | [Lo que siento](https://open.spotify.com/track/4Mb76g48JCUm7QXa9hgubF) | [Marineros](https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D) | [Lo que siento](https://open.spotify.com/album/6TOz62eybIRIzp9l6KP5vV) | 3:37 |
 | 23 | [Cámara Lenta](https://open.spotify.com/track/3Phkpm54EHflUG3z0jOhid) | [Ana María Vahos](https://open.spotify.com/artist/0JOEaSFcfKMWv91hwVTdf7), [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Los Días](https://open.spotify.com/album/0DSBtXfbEulz3zDVrClVbR) | 3:04 |
 | 24 | [A Cambio](https://open.spotify.com/track/12TROHXanz03JmgRDBkZhD) | [Olivia García](https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3) | [A Cambio](https://open.spotify.com/album/1XbfJW8GOflbRmMkuCYp9S) | 3:25 |
-| 25 | [Canción por Palestina](https://open.spotify.com/track/4DRMMG3B7Dj4sk0cGCZDYj) | [Evelyn Cornejo](https://open.spotify.com/artist/3wV40S9AyTLTE2b0Tp0Yo6) | [Canción por Palestina](https://open.spotify.com/album/2KvvlWa9WaabIbhN6kybuY) | 2:44 |
+| 25 | [excusa barata](https://open.spotify.com/track/3mHi7UafB5tQrPkVHUe5pf) | [cata teuber](https://open.spotify.com/artist/1mdZc8QkR0STDJdjBN3fE4), [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [no te lo tomes personal](https://open.spotify.com/album/4777oKdCZIBGYYDPGvO4WL) | 3:40 |
 | 26 | [Puedo Imaginar](https://open.spotify.com/track/2unJSS010j51d6dIaTsSrw) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ), [San Pedro Bonfim](https://open.spotify.com/artist/2zgWIWNakYzjY1IJaj6QFp) | [Puedo Imaginar](https://open.spotify.com/album/0oq5McpgKrsCtqtTXqkhsZ) | 4:48 |
-| 27 | [excusa barata](https://open.spotify.com/track/3mHi7UafB5tQrPkVHUe5pf) | [cata teuber](https://open.spotify.com/artist/1mdZc8QkR0STDJdjBN3fE4), [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [no te lo tomes personal](https://open.spotify.com/album/4777oKdCZIBGYYDPGvO4WL) | 3:40 |
+| 27 | [Canción por Palestina](https://open.spotify.com/track/4DRMMG3B7Dj4sk0cGCZDYj) | [Evelyn Cornejo](https://open.spotify.com/artist/3wV40S9AyTLTE2b0Tp0Yo6) | [Canción por Palestina](https://open.spotify.com/album/2KvvlWa9WaabIbhN6kybuY) | 2:44 |
 | 28 | [10 DÍAS](https://open.spotify.com/track/4jQIka89UCTFBueFA0kK0U) | [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo) | [10 DÍAS](https://open.spotify.com/album/4ZZhbCgb0uC3Ro5m4t9Zrt) | 3:21 |
 | 29 | [Ya no llueve en mi cumpleaños](https://open.spotify.com/track/4w7BwpA6plrRgzuXdem5Hs) | [Inundaremos](https://open.spotify.com/artist/7ttDbtyzbPTrvAfdfd4aSS) | [Esto lo hice sin querer](https://open.spotify.com/album/79FMNMRaLeMIwuWgaTvokU) | 3:25 |
 | 30 | [Indeleble](https://open.spotify.com/track/5aAzw4nkpfLbPYOfuyisTB) | [Alfilera](https://open.spotify.com/artist/5dmpPz4WTOw7MHA52BUCyW) | [Detrás de las Palabras](https://open.spotify.com/album/17NRUslS9nOR0EF99DLaQW) | 3:34 |

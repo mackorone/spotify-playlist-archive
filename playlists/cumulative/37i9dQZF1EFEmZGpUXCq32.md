@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0JfKlntuxjdB6N1mp9PYoF">Cory Henry</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-110 songs - 7 hr 35 min
+113 songs - 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [G3 N15](https://open.spotify.com/track/2MismgPSA3HxJUEV2pEl25) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 4:12 | 2024-05-01 |  |
 | [GawtDamn](https://open.spotify.com/track/5rrMfW2sh52oy02sWLPZVM) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s), [The Funk Apostles](https://open.spotify.com/artist/4ICnj5CaliESpsWrhYjBrD) | [Something to Say](https://open.spotify.com/album/3Hz4JSR7mxab24T8K8jQOx) | 4:55 | 2024-05-01 |  |
 | [Get Around](https://open.spotify.com/track/0S2F5ZzIuWJziqlWrd0M8P) | [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [LOUIE](https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj) | 2:39 | 2024-05-01 |  |
+| [Get Lifted](https://open.spotify.com/track/2YNj851f4yznA4FnEFHMTE) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Divine Time](https://open.spotify.com/album/6EcAxImXQ3INgUwyumOLcz) | 3:25 | 2025-12-26 |  |
 | [Ghetto Earth](https://open.spotify.com/track/5NfgQXvYnftognhelAZtR8) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7) | [The Heart, The Mind, The Soul](https://open.spotify.com/album/014ic5Pp0IrYiDZRty0wKB) | 3:31 | 2024-11-14 |  |
 | [Glory to God](https://open.spotify.com/track/2hfBqK3ysDWYxtS1nnQ46v) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s), [Judith Christie McAllister](https://open.spotify.com/artist/7AdFvL0MQCUf6B4nRKXY0U) | [Church](https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn) | 3:19 | 2024-05-01 |  |
 | [Go Down](https://open.spotify.com/track/6QWerSSM3jBxJpw3k2gd3w) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Church](https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn) | 4:21 | 2024-05-01 |  |
@@ -68,6 +69,7 @@
 | [In the Water](https://open.spotify.com/track/5n1kHpmTmbIkOWhYBiVRJJ) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Art of Love](https://open.spotify.com/album/7GmZgoldBKNdXMNqq0llGh) | 6:12 | 2024-05-01 |  |
 | [Jeffrey](https://open.spotify.com/track/2DLxjFJOqqzMJlijtDsjMv) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [The Long Way Round](https://open.spotify.com/album/0wrJiW6NCHWxgc0T9HHYU9) | 4:56 | 2025-08-06 |  |
 | [Just a Word](https://open.spotify.com/track/19WtCpTdybCtlBoWQhQksl) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Art of Love](https://open.spotify.com/album/7GmZgoldBKNdXMNqq0llGh) | 6:29 | 2024-05-01 |  |
+| [Just Got Paid](https://open.spotify.com/track/0LfvabUzGrAaA9Is9XKApq) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Divine Time](https://open.spotify.com/album/6EcAxImXQ3INgUwyumOLcz) | 3:43 | 2025-12-26 |  |
 | [KEEPER](https://open.spotify.com/track/0oG6bJKzXgqzsaaEy1M510) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [BELOVED](https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ) | 3:42 | 2025-10-25 |  |
 | [Lee & Lovie \(with reggie\)](https://open.spotify.com/track/403tC8spWXnKcdXdbFnayL) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [reggie](https://open.spotify.com/artist/2kAP2prnGAq7s3DwRT6s16) | [Luv 4 Rent](https://open.spotify.com/album/6dtDTbVBQ9QwsNaqEnjsOT) | 2:51 | 2024-05-01 |  |
 | [Let's Go Fall In Love](https://open.spotify.com/track/52UFSjPk1yjxexLYcx9LUD) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Divine Time](https://open.spotify.com/album/6EcAxImXQ3INgUwyumOLcz) | 2:37 | 2025-11-05 |  |
@@ -78,6 +80,7 @@
 | [Musicians Praise](https://open.spotify.com/track/2mMyT29wcsf3MDdEGeNMm9) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s), [Robert Randolph](https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx) | [Church](https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn) | 3:08 | 2024-05-01 |  |
 | [NaaNaaNaa \- Live](https://open.spotify.com/track/3Q94flBRFGAqaCrebWRbno) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [The Revival \(Live\)](https://open.spotify.com/album/0BBOGZgcYEga1bPm244Od2) | 6:54 | 2024-05-01 |  |
 | [Nana](https://open.spotify.com/track/3Vu6IeMndcUxdHwKSVbWzM) | [TaRon Lockett](https://open.spotify.com/artist/7n1oDpup4X3kpznXeZy3YL), [B.Slade](https://open.spotify.com/artist/03lJ2xTQTFzBknVjb0FJUt), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Nana](https://open.spotify.com/album/2rOv7QlQ8c6NP51vmSu9DS) | 1:40 | 2024-05-01 |  |
+| [Need A Hand](https://open.spotify.com/track/3qZOJRit5b6IXWHHj3NXvM) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Divine Time](https://open.spotify.com/album/6EcAxImXQ3INgUwyumOLcz) | 4:08 | 2025-12-26 |  |
 | [No Child Left Behind](https://open.spotify.com/track/3hd6zLhnTlbJ8PupYt3cAI) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 2:58 | 2024-05-01 |  |
 | [No Guns](https://open.spotify.com/track/7BN5emnco3opS6u3baUuR1) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Something to Say](https://open.spotify.com/album/3Hz4JSR7mxab24T8K8jQOx) | 4:27 | 2024-05-01 |  |
 | [Offering Song](https://open.spotify.com/track/1TO38Lo4ETmbWLiQ1kfuef) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Church](https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn) | 3:47 | 2024-05-01 |  |

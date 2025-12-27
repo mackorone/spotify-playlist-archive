@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCIzMYtzum.md) - [plain](/playlists/plain/37i9dQZF1DX1kCIzMYtzum) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1kCIzMYtzum)
 
-### [EDM 2025](https://open.spotify.com/playlist/37i9dQZF1DX1kCIzMYtzum)
+### [EDM 2026](https://open.spotify.com/playlist/37i9dQZF1DX1kCIzMYtzum)
 
 > Home is where the main stage is 💙 with AFROJACK, Martin Garrix, David Guetta, and Amél
 
-[Spotify](https://open.spotify.com/user/spotify) - 447,201 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 447,506 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCIzMYtzum.md) - [plain]
 | 92 | [Tokyo Drift](https://open.spotify.com/track/36Cv79TksfjnPhlrN1D9wN) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Vion Konger](https://open.spotify.com/artist/30IONe5gqXy6MXSNHVCCYP) | [Tokyo Drift](https://open.spotify.com/album/6e0MNDK26gYK1WYAgSrQix) | 2:26 |
 | 93 | [Can't Forget You](https://open.spotify.com/track/3YOkRTqknv92aUyOXcTxVg) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [Can't Forget You](https://open.spotify.com/album/17p2hpEP5OkJnFZpbsL3wC) | 2:36 |
 | 94 | [PATT \(Party All The Time\) \- Adam Beyer, Layton Giordani & Green Velvet Remix](https://open.spotify.com/track/6DFHSmlrZLDZnXV5kTTMF6) | [Sharam](https://open.spotify.com/artist/7rVEQZBDtYmToQaYOQJCm2), [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [PATT \(Party All The Time\) \[Adam Beyer, Layton Giordani & Green Velvet Remix\]](https://open.spotify.com/album/5GqWIHTVjceZXGpzIc1a2J) | 3:03 |
-| 95 | [Dream A Little Dream](https://open.spotify.com/track/3QLYpJeGjyLMIDj7roEphJ) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Sam Gray](https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18) | [Dream A Little Dream](https://open.spotify.com/album/0zM0LsWsNxdXAkNCGpli9B) | 2:56 |
-| 96 | [DNCR](https://open.spotify.com/track/7bNyAYmLg7HPLqi4YUysTA) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [DNCR / imprint](https://open.spotify.com/album/74ESw4cwqcf9ETQ5e9iLZQ) | 3:07 |
-| 97 | [Destination Calabria](https://open.spotify.com/track/1jZfafFyVj8jPeOSN9ZOu2) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR) | [Destination Calabria](https://open.spotify.com/album/0WLXLjqB44beFiCDUB0B2o) | 2:40 |
+| 95 | [Follow The Light](https://open.spotify.com/track/3EQ70Nq9D03VLRblD2JlJZ) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [Follow The Light](https://open.spotify.com/album/4eSiwGNJjDddi2a7YjVYZ8) | 3:12 |
+| 96 | [Destination Calabria](https://open.spotify.com/track/1jZfafFyVj8jPeOSN9ZOu2) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR) | [Destination Calabria](https://open.spotify.com/album/0WLXLjqB44beFiCDUB0B2o) | 2:40 |
+| 97 | [DNCR](https://open.spotify.com/track/7bNyAYmLg7HPLqi4YUysTA) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [DNCR / imprint](https://open.spotify.com/album/74ESw4cwqcf9ETQ5e9iLZQ) | 3:07 |
 | 98 | [I Remember \- John Summit Remix](https://open.spotify.com/track/7EroGeDg1uteOaQ45Ftfiz) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [I Remember \(John Summit Remix\)](https://open.spotify.com/album/5lCL6lNKV2GPQM5uIgDm03) | 4:00 |
 | 99 | [Crush Me Down \(You Spin Me Around\)](https://open.spotify.com/track/2E8ometum2UaxsEdH8VS5z) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [3rd Wall](https://open.spotify.com/artist/1tHXAxKf7BCwFZpj8cMERM) | [Crush Me Down \(You Spin Me Around\)](https://open.spotify.com/album/6qypYS9alhKACA6XzPDDwB) | 2:01 |
 | 100 | [In My World](https://open.spotify.com/track/2gXZufRsrkTS2MOAnPkTXB) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [In My World](https://open.spotify.com/album/0RjevZ5UL21eqgEhNYbvjp) | 3:35 |
 
-Snapshot ID: `AAAAAOnvqoAspBg4YlH79WTnhXG5uZaI`
+Snapshot ID: `AAAAADtimQ/bd6yLlePk7l2FcP3ERyTY`

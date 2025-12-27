@@ -6397,6 +6397,32 @@
     },
     {
       "album": {
+        "name": "Low Rider",
+        "url": "https://open.spotify.com/album/28BL2zT9xYHkzQILhHdRMv"
+      },
+      "artists": [
+        {
+          "name": "Saabi Bhinder",
+          "url": "https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr"
+        },
+        {
+          "name": "Real Boss",
+          "url": "https://open.spotify.com/artist/7mAbpafXc2MIAZn4ldxEuP"
+        },
+        {
+          "name": "CHEETAH",
+          "url": "https://open.spotify.com/artist/48jxktLmsxYggMW9XpdI15"
+        }
+      ],
+      "date_added": "2025-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185380,
+      "name": "Low Rider",
+      "url": "https://open.spotify.com/track/54eRJjpGrbomPpChIlVYgy"
+    },
+    {
+      "album": {
         "name": "MoonChild Era",
         "url": "https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b"
       },
@@ -6584,7 +6610,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-27",
       "duration_ms": 197572,
       "name": "Malwa Flow",
       "url": "https://open.spotify.com/track/09VWVd647SOaxdOldbQ60U"

@@ -4,7 +4,7 @@
 
 > The latest, greatest cinema soundtracks from the big and small screen.
 
-841 songs - 1 day 16 hr 3 min
+844 songs - 1 day 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,10 +143,12 @@
 | [Deadpool Has a Theme](https://open.spotify.com/track/04Wx36KOFx2HuyVOyDGs44) | [Rob Simonsen](https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J) | [Deadpool & Wolverine \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/7tTd4gjNDz51x9jXHdP73D) | 2:28 | 2024-07-26 | 2025-05-17 |
 | [Dear Aunt Lucy](https://open.spotify.com/track/1SFKbBmSRYaKx6pXUfYpYz) | [Dario Marianelli](https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg) | [Paddington in Peru \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1OzOSwO7SjTkGhYzx3o07t) | 2:38 | 2024-11-15 | 2025-07-26 |
 | [Dear Mr\. Killian](https://open.spotify.com/track/6ErrkNnKxvfvsBwfJxoTkV) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Joy \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW) | 2:21 | 2024-11-15 | 2025-07-26 |
+| [Debrief \(For E\)](https://open.spotify.com/track/3cFzQt7jnfgRrwOco2ePPG) | [Nathan Micay](https://open.spotify.com/artist/6U7MOIhacysUEnfJ41WfhC) | [The Copenhagen Test \(Original Series Soundtrack\)](https://open.spotify.com/album/2TbCqj2LRt3d4pdt1K3eFe) | 2:27 | 2025-12-26 |  |
 | [Dementus Is Gaining](https://open.spotify.com/track/00qJ3vS081EtrgJMW0j6mI) | [Junkie XL](https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN) | [Dementus Is Gaining](https://open.spotify.com/album/1vWpboi8b0LLhUihX0JwGk) | 4:37 | 2024-05-03 | 2025-04-19 |
 | [Denouement](https://open.spotify.com/track/3MXFcP00QzN02ij0knEAzV) | [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY) | [The Invisible Man \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/59sXTIcXbu1LB3sc3muRS6) | 4:57 | 2021-12-20 | 2022-07-09 |
 | [Dessner: Julian and Tereza](https://open.spotify.com/track/7bwcAvIDCPtOpMLBamIpNC) | [Bryce Dessner](https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l), [Katia Labèque](https://open.spotify.com/artist/5Pj7u76MK9VDyzDiAyYPSL) | [She Came to Me \- Julian and Tereza](https://open.spotify.com/album/1mXYGxip1uPVytH6vgQyVL) | 1:05 | 2023-09-01 | 2024-11-21 |
 | [Deux frères](https://open.spotify.com/track/4NaHMXweKFdCHU9Erf96XZ) | [Christophe Julien](https://open.spotify.com/artist/5VOVvjzama6nfj1PCmhpfU) | [Second Tour \(Bande originale du film\)](https://open.spotify.com/album/22nwnVLSH8e8f8lQtfiuCY) | 3:23 | 2023-10-27 | 2024-11-21 |
+| [Diabaté..\. Koumba Diabaté](https://open.spotify.com/track/74iU8PFnzGyL5eHK1B7UNg) | [Dave Porter](https://open.spotify.com/artist/1WkfFuCfD2BnsiyPElbEv5) | [Pluribus: Volume 2 \(Apple Original Series Score\)](https://open.spotify.com/album/7GWifrDDYknn4kMpb843fK) | 3:11 | 2025-12-26 |  |
 | [Die grosse liebe](https://open.spotify.com/track/34Bzuj1zdRnvlIcH8o47g4) | [Jonathan Snipes](https://open.spotify.com/artist/5v69lcKunkvGk1SimYwL0M) | [UnBroken \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6CwWi6ycdcRoxsGO3Jbzet) | 2:26 | 2025-05-02 | 2025-10-25 |
 | [Dietrich's Theme](https://open.spotify.com/track/4BmsF7239KFLAGCzgrqdE1) | [Gabriel Ferreira](https://open.spotify.com/artist/12tefEuvjqpjdc4KevS3Ml) | [Bonhoeffer: Pastor\. Spy\. Assassin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6p0Cs75DFIjytZxIKIpCoI) | 2:56 | 2024-11-22 | 2025-07-19 |
 | [Different Kinds Of Cry](https://open.spotify.com/track/0MPFNeTFeGL6JEQxl7KWcf) | [Alexis Grapsas](https://open.spotify.com/artist/3dkswBquw5Ss899vAX7DP6) | [Trigonometry \(Original Series Soundtrack\)](https://open.spotify.com/album/5JqHZ5DrkG010tg32Bnh70) | 3:33 | 2021-12-20 | 2022-07-09 |
@@ -242,6 +244,7 @@
 | [Goodbye](https://open.spotify.com/track/2fXpHtqAAHFXYoZCz4yBxu) | [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY) | [Wolf Man \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6AUF1JQ3OePCaqGvg7hU4S) | 2:54 | 2025-01-24 | 2025-08-09 |
 | [Goodbye Peter Pan](https://open.spotify.com/track/16HqLyMhdlopmXKqxLNblm) | [Daniel Hart](https://open.spotify.com/artist/3T91YntaaHTAKK2GYoTUPW) | [Peter Pan & Wendy \(Original Score\)](https://open.spotify.com/album/2yRvITr3gmDH3VQ4MO9piz) | 3:36 | 2023-04-28 | 2025-01-11 |
 | [Grains of Sand](https://open.spotify.com/track/4jwpV7Rgg6a2lYDNGXnKnx) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [The Dune Sketchbook \(Music from the Soundtrack\)](https://open.spotify.com/album/78uSUydG2FbcVDDFWGMQjT) | 5:12 | 2021-12-20 | 2024-10-02 |
+| [Grand Prix](https://open.spotify.com/track/0MANz8JX5P50SdvkGWVVY6) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [The Smashing Machine \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3LPmqGCKhFHS5Fw8WyaKY8) | 4:01 | 2025-12-26 |  |
 | [Grand Prix](https://open.spotify.com/track/6Sy8Jcl3wqxLQqFuxTp4eH) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Grand Prix](https://open.spotify.com/album/481ZVqAcmqQhPkCqg1L2ir) | 4:01 | 2025-10-03 |  |
 | [Grassland](https://open.spotify.com/track/4YSyDbHXHZR47gXtW0OMbN) | [Zach Nicita](https://open.spotify.com/artist/72Z4UouM4ZDziK9fSjehh8) | [Grassland \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4RRV8lk6hWefJWI6kJAo6y) | 2:46 | 2025-05-02 | 2025-10-25 |
 | [Gratandi Jeg thig Beiði](https://open.spotify.com/track/1fwdPWwfZ7AjycrxygYTeB) | [Högni](https://open.spotify.com/artist/3HAGb8WLuYRre506Dr8oJm), [Eron Thor Jónsson](https://open.spotify.com/artist/3I25rax1xKExqYyMTIdOae) | [Gratandi Jeg thig Beiði \(From the Netflix Series Katla\)](https://open.spotify.com/album/3dGWrl3PvpMUyMHx7VKrwU) | 2:21 | 2023-06-23 | 2025-01-11 |

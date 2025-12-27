@@ -1,6 +1,6 @@
 {
   "description": "mate- Bus stop!",
-  "num_followers": 18700,
+  "num_followers": 18714,
   "original_name": "Troski Rhythms",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,22 @@
     {
       "added_at": "2025-12-19 00:01:15",
       "album": {
+        "name": "Puul",
+        "url": "https://open.spotify.com/album/7KKdwqiI0wG0pzpaDN7cTj"
+      },
+      "artists": [
+        {
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+        }
+      ],
+      "duration_ms": 172486,
+      "name": "Puul",
+      "url": "https://open.spotify.com/track/5JGGx9Lv5VqXSGsuiOtIfZ"
+    },
+    {
+      "added_at": "2025-12-19 00:01:15",
+      "album": {
         "name": "PAY ME",
         "url": "https://open.spotify.com/album/45wQwX3pVjJtMAEvwEglf5"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 210574,
       "name": "PAY ME (feat. Stormzy and Zlatan)",
       "url": "https://open.spotify.com/track/1QWiwXbGU9TxbMEyrEUooe"
-    },
-    {
-      "added_at": "2025-12-19 00:01:15",
-      "album": {
-        "name": "Puul",
-        "url": "https://open.spotify.com/album/7KKdwqiI0wG0pzpaDN7cTj"
-      },
-      "artists": [
-        {
-          "name": "Lasmid",
-          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
-        }
-      ],
-      "duration_ms": 172486,
-      "name": "Puul",
-      "url": "https://open.spotify.com/track/5JGGx9Lv5VqXSGsuiOtIfZ"
     },
     {
       "added_at": "2025-12-19 00:01:15",
@@ -495,22 +495,6 @@
     {
       "added_at": "2025-12-19 00:01:15",
       "album": {
-        "name": "Pancake",
-        "url": "https://open.spotify.com/album/3jRk6XnZW3zoc4dMfp9ibK"
-      },
-      "artists": [
-        {
-          "name": "Shatta Wale",
-          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
-        }
-      ],
-      "duration_ms": 149543,
-      "name": "Pancake",
-      "url": "https://open.spotify.com/track/2Uwc1B06VYc4XWvuAQxw5j"
-    },
-    {
-      "added_at": "2025-12-19 00:01:15",
-      "album": {
         "name": "BALENCIAGA",
         "url": "https://open.spotify.com/album/4xA3y8qPxOG6zRjk1ZE0G9"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 140014,
       "name": "BALENCIAGA",
       "url": "https://open.spotify.com/track/1v50F7vK31Czts54YID73W"
+    },
+    {
+      "added_at": "2025-12-19 00:01:15",
+      "album": {
+        "name": "Pancake",
+        "url": "https://open.spotify.com/album/3jRk6XnZW3zoc4dMfp9ibK"
+      },
+      "artists": [
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        }
+      ],
+      "duration_ms": 149543,
+      "name": "Pancake",
+      "url": "https://open.spotify.com/track/2Uwc1B06VYc4XWvuAQxw5j"
     },
     {
       "added_at": "2025-12-19 00:01:15",
@@ -595,6 +595,22 @@
     {
       "added_at": "2025-12-19 00:01:15",
       "album": {
+        "name": "Too Late",
+        "url": "https://open.spotify.com/album/7mQQiuo6jLbmE3aZeSaXaR"
+      },
+      "artists": [
+        {
+          "name": "Wendy Shay",
+          "url": "https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S"
+        }
+      ],
+      "duration_ms": 194181,
+      "name": "Too Late",
+      "url": "https://open.spotify.com/track/7krvWOVJSMcj3LHuxygzLh"
+    },
+    {
+      "added_at": "2025-12-19 00:01:15",
+      "album": {
         "name": "Terminator",
         "url": "https://open.spotify.com/album/27KnOMqnTWsnfBMXZ4YEuZ"
       },
@@ -631,18 +647,22 @@
     {
       "added_at": "2025-12-19 00:01:15",
       "album": {
-        "name": "Too Late",
-        "url": "https://open.spotify.com/album/7mQQiuo6jLbmE3aZeSaXaR"
+        "name": "Violence (feat. Kweku Smoke)",
+        "url": "https://open.spotify.com/album/5osGGqJwqY0RIDmJxOyjfq"
       },
       "artists": [
         {
-          "name": "Wendy Shay",
-          "url": "https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S"
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Kweku Smoke",
+          "url": "https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO"
         }
       ],
-      "duration_ms": 194181,
-      "name": "Too Late",
-      "url": "https://open.spotify.com/track/7krvWOVJSMcj3LHuxygzLh"
+      "duration_ms": 185806,
+      "name": "Violence (feat. Kweku Smoke)",
+      "url": "https://open.spotify.com/track/7g7xysGXIN9YwwgpKhfV1Z"
     },
     {
       "added_at": "2025-12-19 00:01:15",
@@ -699,26 +719,6 @@
       "duration_ms": 201627,
       "name": "Have Mercy 2",
       "url": "https://open.spotify.com/track/14EbD3WNLZCFvhd6mEuW8m"
-    },
-    {
-      "added_at": "2025-12-19 00:01:15",
-      "album": {
-        "name": "Violence (feat. Kweku Smoke)",
-        "url": "https://open.spotify.com/album/5osGGqJwqY0RIDmJxOyjfq"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Kweku Smoke",
-          "url": "https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO"
-        }
-      ],
-      "duration_ms": 185806,
-      "name": "Violence (feat. Kweku Smoke)",
-      "url": "https://open.spotify.com/track/7g7xysGXIN9YwwgpKhfV1Z"
     },
     {
       "added_at": "2025-12-19 00:01:15",
@@ -987,22 +987,6 @@
     {
       "added_at": "2025-12-19 00:01:15",
       "album": {
-        "name": "Rhythm & Blues",
-        "url": "https://open.spotify.com/album/5avPK0nUF9JHE01pCFW0mB"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 144026,
-      "name": "Rhythm & Blues",
-      "url": "https://open.spotify.com/track/4yZIlBKbrvOfQlhR0oZvwS"
-    },
-    {
-      "added_at": "2025-12-19 00:01:15",
-      "album": {
         "name": "It Is Finished",
         "url": "https://open.spotify.com/album/1lYbe3Gt2yDLeBgR1rhEls"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 180000,
       "name": "It Is Finished",
       "url": "https://open.spotify.com/track/6vmcwvjJHvAdlWurRHC96N"
+    },
+    {
+      "added_at": "2025-12-19 00:01:15",
+      "album": {
+        "name": "Rhythm & Blues",
+        "url": "https://open.spotify.com/album/5avPK0nUF9JHE01pCFW0mB"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 144026,
+      "name": "Rhythm & Blues",
+      "url": "https://open.spotify.com/track/4yZIlBKbrvOfQlhR0oZvwS"
     },
     {
       "added_at": "2025-12-19 00:01:15",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2025-12-19 00:01:15",
       "album": {
-        "name": "Put It On God",
-        "url": "https://open.spotify.com/album/5Lj5IvWqfZkWjbbYIu0wCH"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "AlorG",
-          "url": "https://open.spotify.com/artist/3XVsxJ7cSnDnHtssbKiIPb"
-        }
-      ],
-      "duration_ms": 214426,
-      "name": "Put It On God",
-      "url": "https://open.spotify.com/track/0NdcAYoqISuYatf5IDQ7FK"
-    },
-    {
-      "added_at": "2025-12-19 00:01:15",
-      "album": {
         "name": "Habit",
         "url": "https://open.spotify.com/album/6c98Q6htS2zxyjaPT8vrJS"
       },
@@ -1075,6 +1055,26 @@
       "duration_ms": 173033,
       "name": "Habit",
       "url": "https://open.spotify.com/track/1NtUT0I0TUPZB6OrN4dbkc"
+    },
+    {
+      "added_at": "2025-12-19 00:01:15",
+      "album": {
+        "name": "Put It On God",
+        "url": "https://open.spotify.com/album/5Lj5IvWqfZkWjbbYIu0wCH"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "AlorG",
+          "url": "https://open.spotify.com/artist/3XVsxJ7cSnDnHtssbKiIPb"
+        }
+      ],
+      "duration_ms": 214426,
+      "name": "Put It On God",
+      "url": "https://open.spotify.com/track/0NdcAYoqISuYatf5IDQ7FK"
     },
     {
       "added_at": "2025-12-19 00:01:15",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2025-12-19 00:01:15",
       "album": {
+        "name": "Awurade Aye",
+        "url": "https://open.spotify.com/album/0iMv1LDtzvVJWrZ1nBAjs4"
+      },
+      "artists": [
+        {
+          "name": "R2Bees",
+          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
+        }
+      ],
+      "duration_ms": 219428,
+      "name": "Awurade Aye",
+      "url": "https://open.spotify.com/track/5MO3ZW5mDhQiUmrYoYfitt"
+    },
+    {
+      "added_at": "2025-12-19 00:01:15",
+      "album": {
         "name": "After Midnight",
         "url": "https://open.spotify.com/album/76fGDuks8oWP7yumsfunzL"
       },
@@ -1247,18 +1263,18 @@
     {
       "added_at": "2025-12-19 00:01:15",
       "album": {
-        "name": "Awurade Aye",
-        "url": "https://open.spotify.com/album/0iMv1LDtzvVJWrZ1nBAjs4"
+        "name": "Terminator",
+        "url": "https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3"
       },
       "artists": [
         {
-          "name": "R2Bees",
-          "url": "https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4"
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 219428,
-      "name": "Awurade Aye",
-      "url": "https://open.spotify.com/track/5MO3ZW5mDhQiUmrYoYfitt"
+      "duration_ms": 155897,
+      "name": "Terminator",
+      "url": "https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78"
     },
     {
       "added_at": "2025-12-19 00:01:15",
@@ -1279,38 +1295,6 @@
     {
       "added_at": "2025-12-19 00:01:15",
       "album": {
-        "name": "Terminator",
-        "url": "https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 155897,
-      "name": "Terminator",
-      "url": "https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78"
-    },
-    {
-      "added_at": "2025-12-19 00:01:15",
-      "album": {
-        "name": "Do Better",
-        "url": "https://open.spotify.com/album/40gTIoaMmvc21n7Q1jPZ69"
-      },
-      "artists": [
-        {
-          "name": "Kuami Eugene",
-          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
-        }
-      ],
-      "duration_ms": 158429,
-      "name": "Do Better",
-      "url": "https://open.spotify.com/track/3CqYU4M2gHSXybegYvquPo"
-    },
-    {
-      "added_at": "2025-12-19 00:01:15",
-      "album": {
         "name": "Electricity",
         "url": "https://open.spotify.com/album/2EqVdnQMtVOAIyLVPH1q9Y"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 132912,
       "name": "Electricity",
       "url": "https://open.spotify.com/track/4hqCqVze2sJqskEQmK2Mb7"
+    },
+    {
+      "added_at": "2025-12-19 00:01:15",
+      "album": {
+        "name": "Do Better",
+        "url": "https://open.spotify.com/album/40gTIoaMmvc21n7Q1jPZ69"
+      },
+      "artists": [
+        {
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+        }
+      ],
+      "duration_ms": 158429,
+      "name": "Do Better",
+      "url": "https://open.spotify.com/track/3CqYU4M2gHSXybegYvquPo"
     },
     {
       "added_at": "2025-12-19 00:01:15",
@@ -1371,6 +1371,26 @@
     {
       "added_at": "2025-12-19 00:01:15",
       "album": {
+        "name": "Likor (feat. Stonebwoy)",
+        "url": "https://open.spotify.com/album/7DgfJZxWTpXnUNif7nmgnW"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        },
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "duration_ms": 164705,
+      "name": "Likor (feat. Stonebwoy)",
+      "url": "https://open.spotify.com/track/0x7K0Gxgm4rNPB5Kx12Bvn"
+    },
+    {
+      "added_at": "2025-12-19 00:01:15",
+      "album": {
         "name": "Fire",
         "url": "https://open.spotify.com/album/5sqPvkTgAI1FIjUA3ZR38O"
       },
@@ -1391,22 +1411,6 @@
     {
       "added_at": "2025-12-19 00:01:15",
       "album": {
-        "name": "Outside / obaa sima",
-        "url": "https://open.spotify.com/album/2KiBlKHtsrlaJIwriKI1Qi"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "obaa sima",
-      "url": "https://open.spotify.com/track/3DmBkPi3DjThsopnHVt2cA"
-    },
-    {
-      "added_at": "2025-12-19 00:01:15",
-      "album": {
         "name": "Fallen Angel",
         "url": "https://open.spotify.com/album/3O8VIa31ZtEh5DKRhMzp2m"
       },
@@ -1423,26 +1427,6 @@
       "duration_ms": 200869,
       "name": "Fallen Angel",
       "url": "https://open.spotify.com/track/3XFc1Q32ssmKglaZKI5iTI"
-    },
-    {
-      "added_at": "2025-12-19 00:01:15",
-      "album": {
-        "name": "Likor (feat. Stonebwoy)",
-        "url": "https://open.spotify.com/album/7DgfJZxWTpXnUNif7nmgnW"
-      },
-      "artists": [
-        {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        },
-        {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
-        }
-      ],
-      "duration_ms": 164705,
-      "name": "Likor (feat. Stonebwoy)",
-      "url": "https://open.spotify.com/track/0x7K0Gxgm4rNPB5Kx12Bvn"
     },
     {
       "added_at": "2025-12-19 00:01:15",
@@ -1475,22 +1459,18 @@
     {
       "added_at": "2025-12-19 00:01:15",
       "album": {
-        "name": "Messiah",
-        "url": "https://open.spotify.com/album/6GvlPCWz9hwNqlcHpKYwrx"
+        "name": "Outside / obaa sima",
+        "url": "https://open.spotify.com/album/2KiBlKHtsrlaJIwriKI1Qi"
       },
       "artists": [
         {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Kweku Flick",
-          "url": "https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF"
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
         }
       ],
-      "duration_ms": 164000,
-      "name": "Messiah",
-      "url": "https://open.spotify.com/track/2Jd4Q221yEUErBKmzGlIGy"
+      "duration_ms": 186000,
+      "name": "obaa sima",
+      "url": "https://open.spotify.com/track/3DmBkPi3DjThsopnHVt2cA"
     },
     {
       "added_at": "2025-12-19 00:01:15",
@@ -1523,6 +1503,26 @@
       "duration_ms": 189014,
       "name": "Contour",
       "url": "https://open.spotify.com/track/5OBtqiT5Zg1BqXPx4bBo6T"
+    },
+    {
+      "added_at": "2025-12-19 00:01:15",
+      "album": {
+        "name": "Messiah",
+        "url": "https://open.spotify.com/album/6GvlPCWz9hwNqlcHpKYwrx"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Kweku Flick",
+          "url": "https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Messiah",
+      "url": "https://open.spotify.com/track/2Jd4Q221yEUErBKmzGlIGy"
     },
     {
       "added_at": "2025-12-19 00:01:15",

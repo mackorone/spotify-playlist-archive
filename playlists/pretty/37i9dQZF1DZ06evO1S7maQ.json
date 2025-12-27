@@ -1,12 +1,12 @@
 {
   "description": "This is Bruce Springsteen. The essential tracks, all in one playlist.",
-  "num_followers": 660062,
+  "num_followers": 660100,
   "original_name": "This Is Bruce Springsteen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUstAAAAAACBlvVm9KpT1UeLnL56wRXS",
+  "snapshot_id": "aUx+gAAAAADvxi40fK3S3aCjkO0544ut",
   "tracks": [
     {
       "added_at": null,
@@ -303,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nebraska",
-        "url": "https://open.spotify.com/album/6yskFQZNlLYhkchAxELHi6"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 272103,
-      "name": "Nebraska",
-      "url": "https://open.spotify.com/track/7GDIQqD5pdHCda5rpZ98Ie"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tracks",
         "url": "https://open.spotify.com/album/13pZUSPWE87x40BorpgLx2"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 230280,
       "name": "Sad Eyes - Studio Outtake - 1990",
       "url": "https://open.spotify.com/track/29b70iOlgRkYQ8ZzINZXph"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nebraska",
+        "url": "https://open.spotify.com/album/6yskFQZNlLYhkchAxELHi6"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 272103,
+      "name": "Nebraska",
+      "url": "https://open.spotify.com/track/7GDIQqD5pdHCda5rpZ98Ie"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Rising",
-        "url": "https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 290328,
-      "name": "The Rising",
-      "url": "https://open.spotify.com/track/2czBvzOv3TvnyoW7Ozo7fP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Only the Strong Survive",
         "url": "https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 296906,
       "name": "Nightshift",
       "url": "https://open.spotify.com/track/19nEbLE6eLXatpuMw3rdtM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Rising",
+        "url": "https://open.spotify.com/album/23vzCh5cDn0LzdGmGWrT1d"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 290328,
+      "name": "The Rising",
+      "url": "https://open.spotify.com/track/2czBvzOv3TvnyoW7Ozo7fP"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Wild, the Innocent & The E Street Shuffle",
-        "url": "https://open.spotify.com/album/1rmhti8uHw21LnaWMQy608"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 424079,
-      "name": "Rosalita (Come Out Tonight)",
-      "url": "https://open.spotify.com/track/4Z80C8NlDd1AO4axf1O3n0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Letter To You",
         "url": "https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 295493,
       "name": "Letter To You",
       "url": "https://open.spotify.com/track/4Ngh6rMVUCOFK30oO0iEMD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Wild, the Innocent & The E Street Shuffle",
+        "url": "https://open.spotify.com/album/1rmhti8uHw21LnaWMQy608"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 424079,
+      "name": "Rosalita (Come Out Tonight)",
+      "url": "https://open.spotify.com/track/4Z80C8NlDd1AO4axf1O3n0"
     },
     {
       "added_at": null,

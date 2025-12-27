@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUppGmuwT9c7.md) - [plain](/playlists/plain/37i9dQZF1DWUppGmuwT9c7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUppGmuwT9c7)
 
-### [Kroegenhits 2025](https://open.spotify.com/playlist/37i9dQZF1DWUppGmuwT9c7)
+### [Kroegenhits 2026](https://open.spotify.com/playlist/37i9dQZF1DWUppGmuwT9c7)
 
 > De grootste hits uit de kroeg in één playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,050 likes - 105 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,159 likes - 105 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,14 +13,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUppGmuwT9c7.md) - [plain]
 | 3 | [Baila de Gasolina](https://open.spotify.com/track/43TPlT0l0HXLtKUOUoY3gY) | [Effe Serieus](https://open.spotify.com/artist/3NRhf1UyPB4XwxBq1eQE93) | [Baila de Gasolina](https://open.spotify.com/album/2ojXXfh1QKhimrvz4wt97G) | 2:20 |
 | 4 | [100%](https://open.spotify.com/track/1lzzSzBejW6m8UN2PdRsDv) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [100%](https://open.spotify.com/album/77lwOPIULad3xw9beebzJj) | 2:31 |
 | 5 | [Blikkendag](https://open.spotify.com/track/3HcIbVeDYLg8u2DiqM4zuT) | [Sven Versteeg](https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV), [Likke Pêhp](https://open.spotify.com/artist/4aO9wZpEijSfCiaXZjR2ma) | [Blikkendag](https://open.spotify.com/album/5dpLNuG6TiMugxpqyLDGZB) | 3:29 |
-| 6 | [Atje Voor De Sfeer](https://open.spotify.com/track/2dTS7TKUmvGNRQoq0mzlZC) | [Rene Karst](https://open.spotify.com/artist/3upXQVqKZlTKRES3LQ9VjO) | [Atje Voor De Sfeer \- En Andere Sfeermakers](https://open.spotify.com/album/2DY0nKAYHOsQZrg6LlylHo) | 3:18 |
-| 7 | [Dansen Met De Duivel](https://open.spotify.com/track/5K6hIAGtjKkleBDLgLK4Yz) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [Dansen Met De Duivel](https://open.spotify.com/album/6JD2quoltCcUcemaonqNWT) | 2:26 |
-| 8 | [Nachtenlang](https://open.spotify.com/track/2Z3zbhR3DuwzXKoG5aN936) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [Nachtenlang](https://open.spotify.com/album/4OBRKixGsaU3xxK0tAZKkh) | 2:55 |
-| 9 | [Wereldwonder](https://open.spotify.com/track/4NZ15Gn3KJrmflE8jwiMBU) | [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR), [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1), [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Wereldwonder](https://open.spotify.com/album/3rmTpJlbHeChLSFdItMpY7) | 2:31 |
-| 10 | [Mona Lisa](https://open.spotify.com/track/05mRvdy1w3YtLhz2sHYzrB) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k) | [Niet Voor Lief](https://open.spotify.com/album/2f1fUNjpmJqPLSF4PcDbFi) | 2:27 |
-| 11 | [Zij komt van het kamp](https://open.spotify.com/track/1a73TFY2kytPMg6Vv5xGV5) | [Frank Van Etten](https://open.spotify.com/artist/6idunrSGiChqlZG6MJVhHM), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8) | [Zij komt van het kamp](https://open.spotify.com/album/4QmDUKJ7PQSNtR4UVEUoc5) | 2:28 |
-| 12 | [Kleine Vogel](https://open.spotify.com/track/48WJ59hCbP0PwhZVGgLoS3) | [Senna](https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ) | [Kleine Vogel](https://open.spotify.com/album/3V0Fy4UKvz6PHsN68AVtaJ) | 3:04 |
-| 13 | [Echte Liefde Is Te Koop](https://open.spotify.com/track/7tW2Md8xOwnKPIYhCqPiU4) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [Echte Liefde Is Te Koop](https://open.spotify.com/album/5FdoE9L40YPXKy7co8DDbR) | 2:32 |
+| 6 | [Dansen Met De Duivel](https://open.spotify.com/track/5K6hIAGtjKkleBDLgLK4Yz) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [Dansen Met De Duivel](https://open.spotify.com/album/6JD2quoltCcUcemaonqNWT) | 2:26 |
+| 7 | [Nachtenlang](https://open.spotify.com/track/2Z3zbhR3DuwzXKoG5aN936) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [Nachtenlang](https://open.spotify.com/album/4OBRKixGsaU3xxK0tAZKkh) | 2:55 |
+| 8 | [Wereldwonder](https://open.spotify.com/track/4NZ15Gn3KJrmflE8jwiMBU) | [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR), [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1), [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Wereldwonder](https://open.spotify.com/album/3rmTpJlbHeChLSFdItMpY7) | 2:31 |
+| 9 | [Mona Lisa](https://open.spotify.com/track/05mRvdy1w3YtLhz2sHYzrB) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k) | [Niet Voor Lief](https://open.spotify.com/album/2f1fUNjpmJqPLSF4PcDbFi) | 2:27 |
+| 10 | [Zij komt van het kamp](https://open.spotify.com/track/1a73TFY2kytPMg6Vv5xGV5) | [Frank Van Etten](https://open.spotify.com/artist/6idunrSGiChqlZG6MJVhHM), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8) | [Zij komt van het kamp](https://open.spotify.com/album/4QmDUKJ7PQSNtR4UVEUoc5) | 2:28 |
+| 11 | [Kleine Vogel](https://open.spotify.com/track/48WJ59hCbP0PwhZVGgLoS3) | [Senna](https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ) | [Kleine Vogel](https://open.spotify.com/album/3V0Fy4UKvz6PHsN68AVtaJ) | 3:04 |
+| 12 | [Echte Liefde Is Te Koop](https://open.spotify.com/track/7tW2Md8xOwnKPIYhCqPiU4) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [Echte Liefde Is Te Koop](https://open.spotify.com/album/5FdoE9L40YPXKy7co8DDbR) | 2:32 |
+| 13 | [Atje Voor De Sfeer](https://open.spotify.com/track/2dTS7TKUmvGNRQoq0mzlZC) | [Rene Karst](https://open.spotify.com/artist/3upXQVqKZlTKRES3LQ9VjO) | [Atje Voor De Sfeer \- En Andere Sfeermakers](https://open.spotify.com/album/2DY0nKAYHOsQZrg6LlylHo) | 3:18 |
 | 14 | [Samen](https://open.spotify.com/track/04sY9vpQyzwQLG8ecyAJsp) | [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq) | [Samen](https://open.spotify.com/album/7u6sZ1c9u4mDfTfhpgYNSu) | 2:46 |
 | 15 | [Kroegentocht](https://open.spotify.com/track/4La3UzkRZnOUmF4b5Dfton) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Sven Versteeg](https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV), [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR) | [Kroegentocht](https://open.spotify.com/album/1wl7El00tpdFrdCqC8kPMP) | 2:33 |
 | 16 | [Met Of Zonder Jou](https://open.spotify.com/track/6EkLMgBYvDlRnj2UOtG622) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Met Of Zonder Jou](https://open.spotify.com/album/4CkPHyIcpSHZEDpGySN8WT) | 3:02 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUppGmuwT9c7.md) - [plain]
 | 104 | [Drink Rode Wijn \- Feestmix](https://open.spotify.com/track/261a70JNUYCzOt9ndXWcEg) | [Donny Ponsen](https://open.spotify.com/artist/2QCOjdjvz66HWNnDIcLv4N) | [Drink Rode Wijn \(Feestmix\)](https://open.spotify.com/album/4pfIIjVebfNdLW5aRjmfK9) | 2:54 |
 | 105 | [Frans Duits](https://open.spotify.com/track/6iSm0u8DL5MqeptlsoeS90) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Frans Duijts](https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t) | [Frans Duits](https://open.spotify.com/album/275oSAHa19SMqDyPdjUVzh) | 2:52 |
 
-Snapshot ID: `AAAAAP93vZXJxWzzSCs0Hfckq4KF7p9k`
+Snapshot ID: `AAAAAAOFqSOD/iR2ig4xr6yzBLzWK2Zo`

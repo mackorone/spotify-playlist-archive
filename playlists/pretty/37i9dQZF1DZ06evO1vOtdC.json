@@ -1,12 +1,12 @@
 {
   "description": "This is Jennifer Lopez. The essential tracks, all in one playlist.",
-  "num_followers": 468914,
+  "num_followers": 468906,
   "original_name": "This Is Jennifer Lopez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUstAAAAAADAfWbqcUpqbp6L3BMTavRN",
+  "snapshot_id": "aUx+gAAAAAAbl1lrMqdoiSNYf9ZtDG0t",
   "tracks": [
     {
       "added_at": null,
@@ -899,42 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/4doYRKxTYYoyeXK66zWsN2"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        },
-        {
-          "name": "Fat Joe",
-          "url": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
-        }
-      ],
-      "duration_ms": 272733,
-      "name": "Hold You Down (feat. Fat Joe)",
-      "url": "https://open.spotify.com/track/6ltJj4qDkAQFI4zsMwQWoq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Marry Me (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6seUERIBHA7qbR5ReDm66x"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        }
-      ],
-      "duration_ms": 165050,
-      "name": "After Love (Part 1)",
-      "url": "https://open.spotify.com/track/68ZolUi1wARFSDGQCeybgy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Valio La Pena",
         "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
       },
@@ -955,6 +919,42 @@
       "duration_ms": 331293,
       "name": "Escap\u00e9monos - Salsa Version",
       "url": "https://open.spotify.com/track/4oGs2MK6C35jMJhaT151yg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Marry Me (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6seUERIBHA7qbR5ReDm66x"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "duration_ms": 165050,
+      "name": "After Love (Part 1)",
+      "url": "https://open.spotify.com/track/68ZolUi1wARFSDGQCeybgy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/4doYRKxTYYoyeXK66zWsN2"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Fat Joe",
+          "url": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+        }
+      ],
+      "duration_ms": 272733,
+      "name": "Hold You Down (feat. Fat Joe)",
+      "url": "https://open.spotify.com/track/6ltJj4qDkAQFI4zsMwQWoq"
     },
     {
       "added_at": null,

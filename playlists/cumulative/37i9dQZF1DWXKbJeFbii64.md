@@ -4,7 +4,7 @@
 
 > Soothing rolling thunder sounds, all through the night...
 
-185 songs - 8 hr 49 min
+186 songs - 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Lightning in my Soul](https://open.spotify.com/track/5oaLnKTueoVKR1TPlHLjlf) | [Tornadoez](https://open.spotify.com/artist/1LHgM6GHbIR1kw5P52J2GM) | [Rainy Day Reflections](https://open.spotify.com/album/7ie9f4EfydmH3rmTg049vx) | 3:05 | 2023-09-20 |  |
 | [Lightning in the Dark](https://open.spotify.com/track/3UEdcz71hKsKcad6rnC8tO) | [Thunder etc.](https://open.spotify.com/artist/1O2nK8zKtpXOckXSR76kaS) | [Thunderstorm Blues](https://open.spotify.com/album/0yC2vctUeh6ODo7qw1QFIj) | 3:02 | 2023-09-20 |  |
 | [Lightning in the Evening](https://open.spotify.com/track/3Wzk6YAWxFTw6wNzycn6q6) | [Thunder Phall](https://open.spotify.com/artist/3Oj162Eb4NZJe2w0j5FkUR) | [Thunder Day Rest](https://open.spotify.com/album/1c2pgnlXwydO9YFJcfbr2q) | 2:51 | 2023-09-20 | 2025-08-08 |
-| [Lightning in the Monsoon](https://open.spotify.com/track/6hVm7A5Q8O810ketF0UxHm) | [AQUELLE](https://open.spotify.com/artist/6QpxjwGg7Ni071gSexGP0j) | [Lightning in the Deluge](https://open.spotify.com/album/4lmNXCqUtPjGlVNx14LlOh) | 3:40 | 2023-09-20 |  |
+| [Lightning in the Monsoon](https://open.spotify.com/track/6hVm7A5Q8O810ketF0UxHm) | [AQUELLE](https://open.spotify.com/artist/6QpxjwGg7Ni071gSexGP0j) | [Lightning in the Deluge](https://open.spotify.com/album/4lmNXCqUtPjGlVNx14LlOh) | 3:40 | 2023-09-20 | 2025-12-27 |
 | [Lightning in the Rain](https://open.spotify.com/track/6d0kV5XiW515IZ0TFYeN7W) | [Tornadoez](https://open.spotify.com/artist/1LHgM6GHbIR1kw5P52J2GM) | [Rainy Day Reflections](https://open.spotify.com/album/7ie9f4EfydmH3rmTg049vx) | 2:51 | 2023-09-20 |  |
 | [Lightning in the Rainstorm](https://open.spotify.com/track/4CmkMB6iijzP1caVtiKHJs) | [Stormy Zeus](https://open.spotify.com/artist/522DNMk6KKXTOZEqAbvl1r) | [Ocean Of Thunder Sound](https://open.spotify.com/album/2C6XUBZdsSfFoaX54IwymA) | 3:19 | 2023-09-20 | 2025-06-24 |
 | [Lightning in the Sunrise](https://open.spotify.com/track/2BHzD5rOBRUhtYiorjqndT) | [Superystorm](https://open.spotify.com/artist/6RDyztkcUvcpScyVo47ML4) | [Thunder in the Desert Night](https://open.spotify.com/album/6RToM8hYUswESrNvnCsDq0) | 2:33 | 2023-09-20 | 2025-12-15 |
@@ -96,6 +96,7 @@
 | [Rain On The Porch](https://open.spotify.com/track/0bXYBIzlncmj0LwOd3J5wn) | [Miraflor](https://open.spotify.com/artist/5klckE2u6tdpVIyLQ3REgo) | [Relaxing Rain Sounds](https://open.spotify.com/album/1MvTpPYBFMJNYkThlmdC2l) | 2:47 | 2022-10-28 |  |
 | [Rain with Rolling and Clapping Thunder](https://open.spotify.com/track/4ndtxpFn1DfrKoXwsSnNug) | [In Natura](https://open.spotify.com/artist/0g2QtLAW2w9KQV66KkwOu7) | [ETERNAL RAIN](https://open.spotify.com/album/2cCYxYXcBC89F7cLRT0IXF) | 2:08 | 2022-10-28 |  |
 | [Raining Rolling Thunder](https://open.spotify.com/track/7e3Hn9AFgrZrYgAZMJsvDb) | [Creatress](https://open.spotify.com/artist/6wwfROG3fnqz3jyGV3ngPQ) | [Thunder & Rain](https://open.spotify.com/album/3N3P2MRUuDVC6E6Z4ZdOjE) | 3:42 | 2022-10-28 |  |
+| [Raintrace](https://open.spotify.com/track/4I9R9f5i69LuWbF1n1cmEb) | [Nebelune](https://open.spotify.com/artist/46Ul8d46Ke8xoZXRISCV3z) | [Raintrace](https://open.spotify.com/album/2h1bHwub91CsTXN1hWq2OJ) | 3:00 | 2025-12-19 |  |
 | [Rainy Day Dreams](https://open.spotify.com/track/1WYqPc88EJkS35D9Q4oEhY) | [The Calm Factory](https://open.spotify.com/artist/2ZFshTMWFRTaeIuk7ryC4s) | [Rainy Day Dreams](https://open.spotify.com/album/4rieSIpQMD5QmQBewE9IvE) | 3:18 | 2023-09-20 | 2023-12-21 |
 | [Rainy Day Recollection](https://open.spotify.com/track/1RrPywE4wD8XCk73mawGjn) | [Somnolency](https://open.spotify.com/artist/6jBbuQOiZPrPl6Ehv7Lahb) | [Thunder For Deep Sleep](https://open.spotify.com/album/0Nxjd0DSpuLcwRfDcITZiq) | 3:15 | 2023-09-20 | 2025-09-18 |
 | [Rainy Day Reflections](https://open.spotify.com/track/23oM8TiE7yMHKombOjqzF0) | [Tornadoez](https://open.spotify.com/artist/1LHgM6GHbIR1kw5P52J2GM) | [Rainy Day Reflections](https://open.spotify.com/album/7ie9f4EfydmH3rmTg049vx) | 2:31 | 2023-09-20 | 2024-09-14 |

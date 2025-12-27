@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 
 > Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: HIEUTHUHAI
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,491 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,518 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 47 | [Trương Đình Hoàng](https://open.spotify.com/track/4XhPOkcpNl60Wv5rTPHjdj) | [Lil Van](https://open.spotify.com/artist/5MTrg4flzchU1dnhISyKEF) | [VANLOVE](https://open.spotify.com/album/7rTMIktm0vBx8gU9rFwiMA) | 3:39 |
 | 48 | [Thôi Em Đừng Đi](https://open.spotify.com/track/7kpNUrBDYDoX6QKGzrBD1R) | [RPT MCK](https://open.spotify.com/artist/1zSv9qZANOWB4HRE8sxeTL), [Trung Trần](https://open.spotify.com/artist/2v14NO80QYditUms7sbEIZ) | [99%](https://open.spotify.com/album/1vi1WySkgPGkbR8NnQzlXu) | 2:53 |
 | 49 | [Muốn anh đau](https://open.spotify.com/track/7CoOFEoC3xg3iJ2srBsizf) | [Winno](https://open.spotify.com/artist/23UOCFmQtFKvx2mFufMoJB), [Hustlang Robber](https://open.spotify.com/artist/3JWIaDWHJq11w1xPqJStEv) | [TO LOVE AND BE LOVED](https://open.spotify.com/album/195fx2E1Yyz5UEiw7mBNuJ) | 5:40 |
-| 50 | [POLITE](https://open.spotify.com/track/3EfychxMku3sRuso0jkGis) | [SonaOne](https://open.spotify.com/artist/7qM9nMv6HFHFUpiN034R3z), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [POLITE](https://open.spotify.com/album/4hIY0GUjgLZi9jrUneg03c) | 2:40 |
+| 50 | [Chưa Phải Là Yêu](https://open.spotify.com/track/7CuYlxVy87LrB2pQOP6i9z) | [HURRYKNG](https://open.spotify.com/artist/5ulyphh5uJrH4Gb1JpSMkV), [REX](https://open.spotify.com/artist/2cVTYSIzatkm0RXjOGsHb4) | [Chưa Phải Là Yêu](https://open.spotify.com/album/4nW7OOyf9zwlzAfsfEpvbd) | 3:12 |
 
 Snapshot ID: `AAAAAJ78iNdsyqljI9U5APCaBQEgnKFO`

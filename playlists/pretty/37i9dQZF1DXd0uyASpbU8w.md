@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Zuma & Sam Deep,  Mas Musiq, A$AP Rocky and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,035 likes - 47 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,402 likes - 47 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 46 | [Shut It Down](https://open.spotify.com/track/3E596Y4KqeTXWDDciqGPY3) | [The.wav](https://open.spotify.com/artist/1OiTKR7t69UAVnJYfbOPf4) | [Shut It Down](https://open.spotify.com/album/26k1Rv0U3G9CzJZaCcn7S9) | 2:44 |
 | 47 | [Kismet](https://open.spotify.com/track/595inVQfTootBrvfmuSVYB) | [Malkia Ukweli & the Panopticon](https://open.spotify.com/artist/5ZgBJTjuyrAvwyybBt1Eww), [CCQ](https://open.spotify.com/artist/0w7umppOpG2wrudSoPPdAw) | [The Book of Daniel 2:47](https://open.spotify.com/album/6WInT4ZL1NGJWaM7UxM0uC) | 4:33 |
 
-Snapshot ID: `AAAAADjHrXNhGZF5auto8tDxg4JQgqoj`
+Snapshot ID: `AAAAAKrFl4FpqjX2+kCmyeS/N/N9zI4a`

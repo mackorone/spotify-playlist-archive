@@ -1,7 +1,7 @@
 {
-  "description": "ti devo raccontare di persona, facciamo ape? \ud83e\uded2",
-  "num_followers": 252681,
-  "original_name": "ape time",
+  "description": "Musica da ascoltare con un drink in mano \ud83e\udd43",
+  "num_followers": 252669,
+  "original_name": "Aperitivo Time",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
@@ -627,6 +627,22 @@
     {
       "added_at": "2025-12-02 11:48:38",
       "album": {
+        "name": "On My Way",
+        "url": "https://open.spotify.com/album/4s4o0cdIjRxqL92hFa30c9"
+      },
+      "artists": [
+        {
+          "name": "Gwen McCrae",
+          "url": "https://open.spotify.com/artist/742YR9ZgF0tCO5juBfvPAU"
+        }
+      ],
+      "duration_ms": 344546,
+      "name": "Keep the Fire Burning",
+      "url": "https://open.spotify.com/track/4rS4K30qVDExdjeU4feF4c"
+    },
+    {
+      "added_at": "2025-12-02 11:48:38",
+      "album": {
         "name": "Baxter (these are my friends)",
         "url": "https://open.spotify.com/album/4JZi9eNgVdTUIoC1qMYmXz"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 244034,
       "name": "Baxter (these are my friends)",
       "url": "https://open.spotify.com/track/6Orwi1oYLckpnBF7NbCbrg"
-    },
-    {
-      "added_at": "2025-12-02 11:48:38",
-      "album": {
-        "name": "On My Way",
-        "url": "https://open.spotify.com/album/4s4o0cdIjRxqL92hFa30c9"
-      },
-      "artists": [
-        {
-          "name": "Gwen McCrae",
-          "url": "https://open.spotify.com/artist/742YR9ZgF0tCO5juBfvPAU"
-        }
-      ],
-      "duration_ms": 344546,
-      "name": "Keep the Fire Burning",
-      "url": "https://open.spotify.com/track/4rS4K30qVDExdjeU4feF4c"
     },
     {
       "added_at": "2025-12-02 11:48:38",
@@ -731,26 +731,6 @@
     {
       "added_at": "2025-12-02 11:48:38",
       "album": {
-        "name": "Waiting So Long",
-        "url": "https://open.spotify.com/album/4EQteLPHt5FDzqbStNWw2h"
-      },
-      "artists": [
-        {
-          "name": "Daphni",
-          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
-        },
-        {
-          "name": "Caribou",
-          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
-        }
-      ],
-      "duration_ms": 234140,
-      "name": "Waiting So Long",
-      "url": "https://open.spotify.com/track/7AVLgpaYZMSwyOLXATjET8"
-    },
-    {
-      "added_at": "2025-12-02 11:48:38",
-      "album": {
         "name": "Baddy On The Floor",
         "url": "https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 218320,
       "name": "Eple",
       "url": "https://open.spotify.com/track/7pbEKdMWHGwPQSDGfcNycM"
+    },
+    {
+      "added_at": "2025-12-02 11:48:38",
+      "album": {
+        "name": "Waiting So Long",
+        "url": "https://open.spotify.com/album/4EQteLPHt5FDzqbStNWw2h"
+      },
+      "artists": [
+        {
+          "name": "Daphni",
+          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
+        },
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "duration_ms": 234140,
+      "name": "Waiting So Long",
+      "url": "https://open.spotify.com/track/7AVLgpaYZMSwyOLXATjET8"
     },
     {
       "added_at": "2025-12-02 11:48:38",
@@ -971,38 +971,6 @@
     {
       "added_at": "2025-12-02 11:48:38",
       "album": {
-        "name": "Floating on Silence",
-        "url": "https://open.spotify.com/album/03lYMSk6qK5nxH3IVI1WIO"
-      },
-      "artists": [
-        {
-          "name": "Tour-Maubourg",
-          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
-        }
-      ],
-      "duration_ms": 381864,
-      "name": "Floating on Silence",
-      "url": "https://open.spotify.com/track/0x29CeLQLR31LY4OtWkcPp"
-    },
-    {
-      "added_at": "2025-12-02 11:48:38",
-      "album": {
-        "name": "Delicatronic",
-        "url": "https://open.spotify.com/album/0y0WuBWXMPAFcdfl3ohav7"
-      },
-      "artists": [
-        {
-          "name": "Delicatoni",
-          "url": "https://open.spotify.com/artist/1OEKoqhN34tIGOjgCdp2gq"
-        }
-      ],
-      "duration_ms": 161739,
-      "name": "Il Sogno - House Mix",
-      "url": "https://open.spotify.com/track/4dR5z9BXbCWYeicagTa93o"
-    },
-    {
-      "added_at": "2025-12-02 11:48:38",
-      "album": {
         "name": "We Will Always Love You",
         "url": "https://open.spotify.com/album/755yBlrk0Sz8tIgMMTgyr1"
       },
@@ -1023,6 +991,38 @@
       "duration_ms": 187586,
       "name": "The Divine Chord",
       "url": "https://open.spotify.com/track/3A0cAzFKPefBCz7Z02UnnO"
+    },
+    {
+      "added_at": "2025-12-02 11:48:38",
+      "album": {
+        "name": "Delicatronic",
+        "url": "https://open.spotify.com/album/0y0WuBWXMPAFcdfl3ohav7"
+      },
+      "artists": [
+        {
+          "name": "Delicatoni",
+          "url": "https://open.spotify.com/artist/1OEKoqhN34tIGOjgCdp2gq"
+        }
+      ],
+      "duration_ms": 161739,
+      "name": "Il Sogno - House Mix",
+      "url": "https://open.spotify.com/track/4dR5z9BXbCWYeicagTa93o"
+    },
+    {
+      "added_at": "2025-12-02 11:48:38",
+      "album": {
+        "name": "Floating on Silence",
+        "url": "https://open.spotify.com/album/03lYMSk6qK5nxH3IVI1WIO"
+      },
+      "artists": [
+        {
+          "name": "Tour-Maubourg",
+          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
+        }
+      ],
+      "duration_ms": 381864,
+      "name": "Floating on Silence",
+      "url": "https://open.spotify.com/track/0x29CeLQLR31LY4OtWkcPp"
     },
     {
       "added_at": "2025-12-02 11:48:38",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2025-12-02 11:48:38",
       "album": {
+        "name": "Bar Mediterraneo",
+        "url": "https://open.spotify.com/album/2OeKJLLD5jcYMgJAExURqS"
+      },
+      "artists": [
+        {
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Bar Mediterraneo",
+      "url": "https://open.spotify.com/track/5DpOrZhEK1QQ9HoDZWbU8E"
+    },
+    {
+      "added_at": "2025-12-02 11:48:38",
+      "album": {
         "name": "Blackpool Boulevard",
         "url": "https://open.spotify.com/album/3jc8IkDpZ1bGZCNCZOyT3R"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 215768,
       "name": "Blackpool Boulevard - Edit",
       "url": "https://open.spotify.com/track/603pPHCZn9Ng9K9woYdWEd"
-    },
-    {
-      "added_at": "2025-12-02 11:48:38",
-      "album": {
-        "name": "Bar Mediterraneo",
-        "url": "https://open.spotify.com/album/2OeKJLLD5jcYMgJAExURqS"
-      },
-      "artists": [
-        {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Bar Mediterraneo",
-      "url": "https://open.spotify.com/track/5DpOrZhEK1QQ9HoDZWbU8E"
     },
     {
       "added_at": "2025-12-02 11:48:38",
@@ -1639,22 +1639,22 @@
     {
       "added_at": "2025-12-02 11:48:38",
       "album": {
-        "name": "Feel",
-        "url": "https://open.spotify.com/album/1xr54fLjHQSPjOF3MF6pEm"
+        "name": "Move On Up (Mark Knight Remix)",
+        "url": "https://open.spotify.com/album/7hg20oE5SyyQf7JN8YA1Dq"
       },
       "artists": [
         {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+          "name": "Curtis Mayfield",
+          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
         },
         {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
         }
       ],
-      "duration_ms": 219208,
-      "name": "Feel",
-      "url": "https://open.spotify.com/track/5mMCnnycAkho18eZmZIDwi"
+      "duration_ms": 149047,
+      "name": "Move On Up (Mark Knight Remix)",
+      "url": "https://open.spotify.com/track/39pkyUMcOfKfjx3xhCeiVM"
     },
     {
       "added_at": "2025-12-02 11:48:38",
@@ -1691,22 +1691,22 @@
     {
       "added_at": "2025-12-02 11:48:38",
       "album": {
-        "name": "Move On Up (Mark Knight Remix)",
-        "url": "https://open.spotify.com/album/7hg20oE5SyyQf7JN8YA1Dq"
+        "name": "Feel",
+        "url": "https://open.spotify.com/album/1xr54fLjHQSPjOF3MF6pEm"
       },
       "artists": [
         {
-          "name": "Curtis Mayfield",
-          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
         },
         {
-          "name": "Mark Knight",
-          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
         }
       ],
-      "duration_ms": 149047,
-      "name": "Move On Up (Mark Knight Remix)",
-      "url": "https://open.spotify.com/track/39pkyUMcOfKfjx3xhCeiVM"
+      "duration_ms": 219208,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/5mMCnnycAkho18eZmZIDwi"
     },
     {
       "added_at": "2025-12-02 11:48:38",
@@ -1877,6 +1877,6 @@
       "url": "https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C"
     }
   ],
-  "unique_name": "ape time",
+  "unique_name": "Aperitivo Time",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWZLhUfNQOQ1p"
 }

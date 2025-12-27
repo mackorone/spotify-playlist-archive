@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Arkells
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,198,948 likes - 130 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,199,723 likes - 130 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 129 | [Get to Choose](https://open.spotify.com/track/5h9FYRmddlb1x0ybleGPxY) | [Dirt Buyer](https://open.spotify.com/artist/6MzWbIkpg9it7v13OQkDdp) | [Get to Choose](https://open.spotify.com/album/7HKZIh4ji2eA2LGNbhGpKc) | 3:04 |
 | 130 | [little piece](https://open.spotify.com/track/0Gow4HtiiuDxZPHUAIDhn5) | [SHOOP](https://open.spotify.com/artist/5PbXbjuSwJlEhKN3nmneuq) | [never better](https://open.spotify.com/album/1Q6JwoY8HSfEL9I00w5rH1) | 2:27 |
 
-Snapshot ID: `AAAAAChA3gMrERzJJv/R3D1hd0Fk59/Y`
+Snapshot ID: `AAAAAPlkuhdl01zPvd6XDFRWgQpxK1dZ`

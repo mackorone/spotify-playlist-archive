@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 
 > Neues aus der Welt des Pop\. Cover: Skye Newman
 
-[Spotify](https://open.spotify.com/user/spotify) - 520,688 likes - 70 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 520,708 likes - 70 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WhyP6stXXl.md) - [plain]
 | 69 | [Me forever :\(](https://open.spotify.com/track/0gbSF6qGsr69EMC1mXdDpP) | [samxemma](https://open.spotify.com/artist/3t0tkWfZvQbKkmji8oa26y) | [Me forever :\(](https://open.spotify.com/album/6ejhEfZ6NCucu2lC6G4rOh) | 3:24 |
 | 70 | [KISS ME](https://open.spotify.com/track/67zPoqrv7I49qHaMs0eYgz) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [KISS ME](https://open.spotify.com/album/17kOTawNON2BERiDHgPKjQ) | 3:08 |
 
-Snapshot ID: `AAAAAC+2emP1D7W+EE5BSJjXn8p1n4mQ`
+Snapshot ID: `AAAAAJ6ujnW67A9i3pdu8/PjaBqvpydk`

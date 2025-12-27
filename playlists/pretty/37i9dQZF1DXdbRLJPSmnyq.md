@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbRLJPSmnyq.md) - [plain]
 
 > All the J\-Pop tunes you love in one playlist\. Cover: ATARASHII GAKKO!
 
-[Spotify](https://open.spotify.com/user/spotify) - 419,415 likes - 88 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 419,408 likes - 88 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbRLJPSmnyq.md) - [plain]
 | 87 | [祝祭のうた](https://open.spotify.com/track/6fkPFcktjMGeGhQDKF8ABE) | [Maya](https://open.spotify.com/artist/3hYoE1ytUckiWOUW0HHgm4), [松田歩（離婚伝説）](https://open.spotify.com/artist/2MabopxipxElTyWLGbwQkG) | [Scarlet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/33wEN4Nt3ANVVNFaVSrXpd) | 4:20 |
 | 88 | [さよーならまたいつか！\- Sayonara](https://open.spotify.com/track/6jRyCWUAnRVir3OK4jSZvV) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [さよーならまたいつか！\- Sayonara](https://open.spotify.com/album/3c9L5LsKV4lIK14pxGu0SG) | 3:21 |
 
-Snapshot ID: `AAAAACFxV5RVJN0ovTJzoxHjKgORf8G0`
+Snapshot ID: `AAAAAJzSt6n9tsVfRQkNJvNlHu0ZRcQc`

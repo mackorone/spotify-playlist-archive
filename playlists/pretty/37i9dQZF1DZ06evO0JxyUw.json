@@ -1,12 +1,12 @@
 {
   "description": "This is Christina Aguilera. The essential tracks, all in one playlist.",
-  "num_followers": 276261,
+  "num_followers": 276272,
   "original_name": "This Is Christina Aguilera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUstAAAAAABiMKbRV/CMaD20UKlQK8M9",
+  "snapshot_id": "aUx+gAAAAABlSc5erjjKoRH5VBd/dHi6",
   "tracks": [
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burlesque Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 179373,
-      "name": "Show Me How You Burlesque - Original Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/6fq4QyaUskNqES6lJqgYjW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amore (Remastered)",
         "url": "https://open.spotify.com/album/1sZg35UlVHKJzigDlx2uSJ"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 262306,
       "name": "Somos Novios",
       "url": "https://open.spotify.com/track/3Biuvi5NQdNpi2OiTgWNK4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Burlesque Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/6NQefW3oxzOkB9yKgrc3w3"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 179373,
+      "name": "Show Me How You Burlesque - Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/6fq4QyaUskNqES6lJqgYjW"
     },
     {
       "added_at": null,

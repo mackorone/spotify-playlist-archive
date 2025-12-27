@@ -4,7 +4,7 @@
 
 > Explore Pakistan's thriving independent scene 🔥 Cover: Hasan Raheem
 
-422 songs - 23 hr 16 min
+423 songs - 23 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Abhi Tak](https://open.spotify.com/track/1S6zgfG3t26ZdN96Omtlvd) | [Hamza Akhund](https://open.spotify.com/artist/4jQFSxnugMPz4S9sB88Oiq) | [Abhi Tak](https://open.spotify.com/album/1N8LQYss19wZRoKUn6QINq) | 3:23 | 2025-10-03 |  |
 | [Ada](https://open.spotify.com/track/2RhOnBpaQ2kqxQiAy2uTmK) | [Alymdr](https://open.spotify.com/artist/5txRSR5ocSveUKY5iwltVD), [AliSoomroMusic](https://open.spotify.com/artist/2hXbxDaLthfodvgEpP6Xpm) | [Ada](https://open.spotify.com/album/38y0FIgiIT380iEKyIJnud) | 2:31 | 2025-02-26 | 2025-09-10 |
 | [Adakaari](https://open.spotify.com/track/1ghcBmONc0nN8iKrCVizmg) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [Dil Kay Parday](https://open.spotify.com/album/2syS3QElH8i353yYdXNBam) | 2:50 | 2025-10-10 |  |
+| [Afsanay](https://open.spotify.com/track/4UUmDCvTg3WO0qpMHPZYdq) | [Alex Shahbaz](https://open.spotify.com/artist/2ozQBz0oMeKqW2xSomWVwp), [Alycia Dias](https://open.spotify.com/artist/69EG46nu7SNft0lDeI46Z1), [Zaheer Abbas](https://open.spotify.com/artist/6ofqXFiMGMj8ALWuHs6ONA) | [Afsanay](https://open.spotify.com/album/3FHrEBAwQ6ivt8QuyLqQLQ) | 1:24 | 2025-12-26 |  |
 | [Aik Wari](https://open.spotify.com/track/6ggtQbeuq1Um7z6SZkUJJf) | [HYDR](https://open.spotify.com/artist/40CEytkVli5Le5CFOYnONw), [PDNY](https://open.spotify.com/artist/2nggEHrLwzTQfv5gliPZQd) | [Aik Wari](https://open.spotify.com/album/1S9V8lyotEqXyVK0fNVOHU) | 2:40 | 2022-01-22 | 2023-04-09 |
 | [Aisay Kaisay](https://open.spotify.com/track/0mAswKg3RCbmXAV4KYTUxM) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR) | [Aisay Kaisay](https://open.spotify.com/album/20BGLvUZVB6WuQijorqoDb) | 3:18 | 2021-12-06 | 2025-12-20 |
 | [Aisay Na Ho](https://open.spotify.com/track/4ghuW0zry2LLslvo0ebRZu) | [Misbah](https://open.spotify.com/artist/4LtxguJsqxkfipYXPqz7Vq), [Rao Hamza Hayat](https://open.spotify.com/artist/0YQJy2b0LcnIvrlinmh5Fs) | [Aisay Na Ho](https://open.spotify.com/album/1jSH5P3rJtckYwVrxv2BFK) | 3:12 | 2025-01-17 | 2025-02-27 |

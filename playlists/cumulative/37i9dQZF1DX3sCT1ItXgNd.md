@@ -4,7 +4,7 @@
 
 > Lo mejor del pop en español\. Foto: Ozuna, Beéle
 
-850 songs - 1 day 18 hr 41 min
+851 songs - 1 day 18 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,6 +264,7 @@
 | [en mi balcon](https://open.spotify.com/track/5i8iq8jm968xuFzJoKv13q) | [mafalda cardenal](https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz) | [en mi balcon](https://open.spotify.com/album/5YahJL2QGbpuBRk4qivluq) | 2:54 | 2025-04-03 | 2025-10-07 |
 | [En Otra Vida](https://open.spotify.com/track/0EhmTBq33eARyOz3SIi4P2) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [En Otra Vida](https://open.spotify.com/album/2YB2eziTKgn9bnRz7prmoP) | 2:33 | 2024-10-28 | 2025-02-18 |
 | [en tu costado](https://open.spotify.com/track/6ZCfVkFX9HsoOodt6kZcNK) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [en tu costado](https://open.spotify.com/album/72XxzGyQCbdo47CmTg6puP) | 3:06 | 2025-02-17 | 2025-05-13 |
+| [EN TU MIRADAaaaa](https://open.spotify.com/track/5Qnq1GhCBSsAkipZtjsVkF) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [LA FORMULA](https://open.spotify.com/album/1g9AHagDJvZfgKXE0IVzIA) | 2:38 | 2025-12-26 |  |
 | [Enamorado de ti](https://open.spotify.com/track/3kP3mDGylkffquaVJqSZwZ) | [Mar Lucas](https://open.spotify.com/artist/7K5OqI5GnphpZMfIRs2UsI), [RUGGERO](https://open.spotify.com/artist/3YLlfcDiFzKJXhTK4sKuCz), [Oscu](https://open.spotify.com/artist/5iDqEobZRSTiBSAk6jLp4A) | [LA INOCENTE](https://open.spotify.com/album/7szbg3ku8OWLEvqT22UrGL) | 2:46 | 2024-07-22 | 2024-07-31 |
 | [ENAMORARSE PARA QUE](https://open.spotify.com/track/0spCHuxIvFFVQTr2aZnTwk) | [VIUS](https://open.spotify.com/artist/29UQ00CArXvEpg0GjKyOPE) | [ENAMORARSE PARA QUE](https://open.spotify.com/album/32Prq4dvBeioGhPUARQieZ) | 3:04 | 2025-09-15 |  |
 | [Enemigos](https://open.spotify.com/track/3xmVgE8I6lDQEP2qRaLoG2) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Enemigos](https://open.spotify.com/album/1UJYyBWoX6DERETNC7OOC1) | 3:21 | 2025-11-24 |  |
@@ -817,7 +818,7 @@
 | [vampire](https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [vampire](https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9) | 3:39 | 2023-07-10 | 2023-08-15 |
 | [VEINTIPICO](https://open.spotify.com/track/0GBsVSPxYOsBFag4P8ETmy) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH) | [VEINTIPICO](https://open.spotify.com/album/6YW7PgtKhCjphEhYgOpS9Q) | 2:26 | 2025-05-19 | 2025-05-27 |
 | [Veneno](https://open.spotify.com/track/2toy3ciZldadGuBSYTdbS4) | [Naiara](https://open.spotify.com/artist/1VGOLh7hwVeKj2kqTkDAz6), [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw) | [Veneno](https://open.spotify.com/album/17rC9nsqSsJkHeT04DPi8E) | 3:48 | 2025-01-13 | 2025-03-28 |
-| [Viajando Por El Mundo](https://open.spotify.com/track/4w6Wpq1KWk485krowaqUIV) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 4:28 | 2025-08-25 |  |
+| [Viajando Por El Mundo](https://open.spotify.com/track/4w6Wpq1KWk485krowaqUIV) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 4:28 | 2025-08-25 | 2025-12-27 |
 | [Vidas Pasadas](https://open.spotify.com/track/2G6cOHhIjJGd7fhBKXBjLr) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Vidas Pasadas](https://open.spotify.com/album/6xUsWpvDVdDD8qDbQOsOL6) | 2:18 | 2023-03-28 | 2023-04-11 |
 | [Viento](https://open.spotify.com/track/4OIJAOZkj6ChEvSIzUKDmQ) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Vicco](https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w) | [Viento](https://open.spotify.com/album/33HL0gjp6NMr4Yn9skMj4s) | 2:20 | 2024-06-17 | 2024-10-22 |
 | [Viernes](https://open.spotify.com/track/2tx7mEfR9lXzTi2Sbags7T) | [DePol](https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0) | [Viernes](https://open.spotify.com/album/4r1Zyd80QdexPl8wan52t3) | 2:46 | 2025-06-30 | 2025-07-09 |

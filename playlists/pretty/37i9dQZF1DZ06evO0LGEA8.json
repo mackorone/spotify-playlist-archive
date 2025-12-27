@@ -1,12 +1,12 @@
 {
   "description": "This is La Santa Grifa. The essential tracks, all in one playlist.",
-  "num_followers": 304022,
+  "num_followers": 304082,
   "original_name": "This Is La Santa Grifa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUstAAAAAACr6e+IdPOyBGxnLTYzkmZM",
+  "snapshot_id": "aUx+gAAAAAATdyvnm+S0CMrUlqsQI5pI",
   "tracks": [
     {
       "added_at": null,
@@ -451,8 +451,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Santos Grifos, Vol. 1",
-        "url": "https://open.spotify.com/album/1vJm0PP19mjHS2BQfzZP3H"
+        "name": "Seguimos Fumando",
+        "url": "https://open.spotify.com/album/7panOfxwnv0Z3YUStTU3OO"
       },
       "artists": [
         {
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
         }
       ],
-      "duration_ms": 380200,
-      "name": "El Diablo Anda Suelto",
-      "url": "https://open.spotify.com/track/1uSj6BBujIU1oaZFqIyZg7"
+      "duration_ms": 223301,
+      "name": "Como Borrar Tus Besos",
+      "url": "https://open.spotify.com/track/08QUmfGtqhkxXdBHcQb5U9"
     },
     {
       "added_at": null,
@@ -483,8 +483,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seguimos Fumando",
-        "url": "https://open.spotify.com/album/7panOfxwnv0Z3YUStTU3OO"
+        "name": "Santos Grifos, Vol. 1",
+        "url": "https://open.spotify.com/album/1vJm0PP19mjHS2BQfzZP3H"
       },
       "artists": [
         {
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
         }
       ],
-      "duration_ms": 223301,
-      "name": "Como Borrar Tus Besos",
-      "url": "https://open.spotify.com/track/08QUmfGtqhkxXdBHcQb5U9"
+      "duration_ms": 380200,
+      "name": "El Diablo Anda Suelto",
+      "url": "https://open.spotify.com/track/1uSj6BBujIU1oaZFqIyZg7"
     },
     {
       "added_at": null,
@@ -511,22 +511,6 @@
       "duration_ms": 205007,
       "name": "Cuchillo en la Yugular",
       "url": "https://open.spotify.com/track/4jkQyc0JSFxdUo4f05v120"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Santos Grifos, Vol. 1",
-        "url": "https://open.spotify.com/album/1vJm0PP19mjHS2BQfzZP3H"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 275500,
-      "name": "Compatible Contigo",
-      "url": "https://open.spotify.com/track/0PLZFSquuNT9mKd2wpOEzF"
     },
     {
       "added_at": null,
@@ -559,6 +543,22 @@
       "duration_ms": 320551,
       "name": "Biscochologo",
       "url": "https://open.spotify.com/track/3UzIWeASa8Ngor0aIloJPi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Santos Grifos, Vol. 1",
+        "url": "https://open.spotify.com/album/1vJm0PP19mjHS2BQfzZP3H"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 275500,
+      "name": "Compatible Contigo",
+      "url": "https://open.spotify.com/track/0PLZFSquuNT9mKd2wpOEzF"
     },
     {
       "added_at": null,

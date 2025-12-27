@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from Anuv Jain, Sonu Nigam,  Arijit Singh and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,875 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,988 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 49 | [MOON \(From "UR Debut"\)](https://open.spotify.com/track/3VPzkM82Q8vLJGGZMj8EZQ) | [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC) | [MOON \(From "UR Debut"\)](https://open.spotify.com/album/7murKCe4fkPrgq4bkrnUTQ) | 3:03 |
 | 50 | [Teri Yaad](https://open.spotify.com/track/1IbvCWzAbzUle559VXyvLy) | [Faheem Abdullah](https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3), [Hyder Dar](https://open.spotify.com/artist/7Khu2sHjq6VFAfiRLql5tt), [Zia](https://open.spotify.com/artist/0DsXhM2h3rIODiAxuLOb6q) | [Teri Yaad](https://open.spotify.com/album/38ea1ME7inmtnwok4cQSO0) | 4:53 |
 
-Snapshot ID: `AAAAAIyRBcrPtt2iezb1TmGbOgJaIQQx`
+Snapshot ID: `AAAAAJrHNQF4l3GWLwtUYeD9r+Q9khFD`

@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/4tiJsVI2aAVbb3CrbEDzpN.md) - [plain]
 | 105 | [Just Can't Get Enough](https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Speak and Spell \(Deluxe\)](https://open.spotify.com/album/0Zp2eVzR9FW6lKX05lRpcu) | 3:40 |
 | 106 | [Annie, I'm Not Your Daddy](https://open.spotify.com/track/5paJLghWSGmEf6sY7LeYel) | [Kid Creole And The Coconuts](https://open.spotify.com/artist/6KPWnJouOHhX0ZhscJsIU1) | [The Best Of Kid Creole & The Coconuts](https://open.spotify.com/album/4sxYCvb4V1M2XX1yrZveFD) | 3:47 |
 
-Snapshot ID: `AAAItSXDPHjgXYf9WRTbSCSklfaaE3B6`
+Snapshot ID: `AAAI08KDpRSpDSEz+Vq+SrUVNEGH53w8`

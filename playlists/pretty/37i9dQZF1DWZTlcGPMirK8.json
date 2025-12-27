@@ -1,6 +1,6 @@
 {
   "description": "The biggest pop hits to come from the land down under.",
-  "num_followers": 72425,
+  "num_followers": 72427,
   "original_name": "Aussie Pop Classics",
   "owner": {
     "name": "Spotify",
@@ -311,18 +311,18 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M"
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/6Zv9GWVeSi7lqYGxxhawOq"
       },
       "artists": [
         {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+          "name": "Daryl Braithwaite",
+          "url": "https://open.spotify.com/artist/4t52ndk0OkAxtb4vMDLPhe"
         }
       ],
-      "duration_ms": 204726,
-      "name": "My My My!",
-      "url": "https://open.spotify.com/track/4NiehSBQthimPzRsVeOgCT"
+      "duration_ms": 256105,
+      "name": "The Horses",
+      "url": "https://open.spotify.com/track/5z6a02FGoVsXTrJ4GiVNxE"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -347,18 +347,18 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/6Zv9GWVeSi7lqYGxxhawOq"
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M"
       },
       "artists": [
         {
-          "name": "Daryl Braithwaite",
-          "url": "https://open.spotify.com/artist/4t52ndk0OkAxtb4vMDLPhe"
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
         }
       ],
-      "duration_ms": 256105,
-      "name": "The Horses",
-      "url": "https://open.spotify.com/track/5z6a02FGoVsXTrJ4GiVNxE"
+      "duration_ms": 204726,
+      "name": "My My My!",
+      "url": "https://open.spotify.com/track/4NiehSBQthimPzRsVeOgCT"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "5 Seconds Of Summer",
-        "url": "https://open.spotify.com/album/1w5D9eC3WgKWZZVUwB0GXE"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 202496,
-      "name": "She Looks So Perfect",
-      "url": "https://open.spotify.com/track/5cPO2j2p9Myq77YQVwWyrN"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Xanadu - Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/325AF2IWtxrY0jcoW25N45"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 208240,
       "name": "Xanadu",
       "url": "https://open.spotify.com/track/0cXFXgFns7sIMmTpqyGRmD"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "5 Seconds Of Summer",
+        "url": "https://open.spotify.com/album/1w5D9eC3WgKWZZVUwB0GXE"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 202496,
+      "name": "She Looks So Perfect",
+      "url": "https://open.spotify.com/track/5cPO2j2p9Myq77YQVwWyrN"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "This Is Acting",
-        "url": "https://open.spotify.com/album/64X210CD0I2zxCXT9xpYtw"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 211666,
-      "name": "Cheap Thrills",
-      "url": "https://open.spotify.com/track/5QdHCXznWUKcKpUmU7Gguz"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Slideshows",
         "url": "https://open.spotify.com/album/72ofNtyCnr54WRoZa6K289"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 229120,
       "name": "20 Good Reasons",
       "url": "https://open.spotify.com/track/7uCQb1MoL0kC4nw6WsGk38"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "This Is Acting",
+        "url": "https://open.spotify.com/album/64X210CD0I2zxCXT9xpYtw"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 211666,
+      "name": "Cheap Thrills",
+      "url": "https://open.spotify.com/track/5QdHCXznWUKcKpUmU7Gguz"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Birds Of Tokyo",
-        "url": "https://open.spotify.com/album/5SJkYrOgbOHRPTtvVm23FI"
-      },
-      "artists": [
-        {
-          "name": "Birds Of Tokyo",
-          "url": "https://open.spotify.com/artist/25ou7Y6W7L1fcMoCZMbf86"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Plans",
-      "url": "https://open.spotify.com/track/1TZGMJxT3gPDkwZyfcc9ED"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "The Long Road Back",
         "url": "https://open.spotify.com/album/5SzHkxYKPIK4LcGaJrgnNU"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 217106,
       "name": "Mysterious Girl - Radio Edit",
       "url": "https://open.spotify.com/track/3GCpEbJzknVdpvx9WI03x3"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Birds Of Tokyo",
+        "url": "https://open.spotify.com/album/5SJkYrOgbOHRPTtvVm23FI"
+      },
+      "artists": [
+        {
+          "name": "Birds Of Tokyo",
+          "url": "https://open.spotify.com/artist/25ou7Y6W7L1fcMoCZMbf86"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Plans",
+      "url": "https://open.spotify.com/track/1TZGMJxT3gPDkwZyfcc9ED"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "The Power (15 Year Anniversary Re-Issue)",
-        "url": "https://open.spotify.com/album/2PYf4m3Bgu4ljRACdnfMCZ"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Amorosi",
-          "url": "https://open.spotify.com/artist/5M0fvL9GMc2zTuIIQwresj"
-        }
-      ],
-      "duration_ms": 224600,
-      "name": "Absolutely Everybody",
-      "url": "https://open.spotify.com/track/283898Lgbl6LidapOraXiN"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Age Of Reason",
         "url": "https://open.spotify.com/album/4JHZh7UHLQxcdH0qQB757v"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 213333,
       "name": "Two Strong Hearts",
       "url": "https://open.spotify.com/track/3LQde40NABYOH14hWse0Yi"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "The Power (15 Year Anniversary Re-Issue)",
+        "url": "https://open.spotify.com/album/2PYf4m3Bgu4ljRACdnfMCZ"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Amorosi",
+          "url": "https://open.spotify.com/artist/5M0fvL9GMc2zTuIIQwresj"
+        }
+      ],
+      "duration_ms": 224600,
+      "name": "Absolutely Everybody",
+      "url": "https://open.spotify.com/track/283898Lgbl6LidapOraXiN"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -819,22 +819,18 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Off The Grid",
-        "url": "https://open.spotify.com/album/7Mle8fqfjxEnkubFjg3mAe"
+        "name": "Reflector",
+        "url": "https://open.spotify.com/album/7kHaKkhOcpb7gB90BLJNip"
       },
       "artists": [
         {
-          "name": "Bliss n Eso",
-          "url": "https://open.spotify.com/artist/1xSSjJrKTO2ZNPU81uLtmI"
-        },
-        {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+          "name": "Killing Heidi",
+          "url": "https://open.spotify.com/artist/6eQ3AHw7yEVoX87xDS1ZiP"
         }
       ],
-      "duration_ms": 237613,
-      "name": "Moments",
-      "url": "https://open.spotify.com/track/3ZSR0xQ7strDNRzKCwNL9L"
+      "duration_ms": 244866,
+      "name": "Weir",
+      "url": "https://open.spotify.com/track/1umlKmiauqM9GFnk25HwCb"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -855,18 +851,22 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Reflector",
-        "url": "https://open.spotify.com/album/7kHaKkhOcpb7gB90BLJNip"
+        "name": "Off The Grid",
+        "url": "https://open.spotify.com/album/7Mle8fqfjxEnkubFjg3mAe"
       },
       "artists": [
         {
-          "name": "Killing Heidi",
-          "url": "https://open.spotify.com/artist/6eQ3AHw7yEVoX87xDS1ZiP"
+          "name": "Bliss n Eso",
+          "url": "https://open.spotify.com/artist/1xSSjJrKTO2ZNPU81uLtmI"
+        },
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
         }
       ],
-      "duration_ms": 244866,
-      "name": "Weir",
-      "url": "https://open.spotify.com/track/1umlKmiauqM9GFnk25HwCb"
+      "duration_ms": 237613,
+      "name": "Moments",
+      "url": "https://open.spotify.com/track/3ZSR0xQ7strDNRzKCwNL9L"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -903,18 +903,18 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Feeler",
-        "url": "https://open.spotify.com/album/7uUJwUIsG45lgYtNjqqZch"
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/1JixUfJzfLORwef37ydzuB"
       },
       "artists": [
         {
-          "name": "Pete Murray",
-          "url": "https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV"
+          "name": "Men At Work",
+          "url": "https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux"
         }
       ],
-      "duration_ms": 279520,
-      "name": "So Beautiful - Single Version",
-      "url": "https://open.spotify.com/track/5fnP8bD1LwxYVqoMPOW2Se"
+      "duration_ms": 223040,
+      "name": "Down Under",
+      "url": "https://open.spotify.com/track/5FNiYCRQB1U3aLnsVCkkXA"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -939,18 +939,18 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/1JixUfJzfLORwef37ydzuB"
+        "name": "Feeler",
+        "url": "https://open.spotify.com/album/7uUJwUIsG45lgYtNjqqZch"
       },
       "artists": [
         {
-          "name": "Men At Work",
-          "url": "https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux"
+          "name": "Pete Murray",
+          "url": "https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV"
         }
       ],
-      "duration_ms": 223040,
-      "name": "Down Under",
-      "url": "https://open.spotify.com/track/5FNiYCRQB1U3aLnsVCkkXA"
+      "duration_ms": 279520,
+      "name": "So Beautiful - Single Version",
+      "url": "https://open.spotify.com/track/5fnP8bD1LwxYVqoMPOW2Se"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Counting Down The Days",
-        "url": "https://open.spotify.com/album/1PD3hNs0PRMtOeU11DPpim"
-      },
-      "artists": [
-        {
-          "name": "Natalie Imbruglia",
-          "url": "https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP"
-        }
-      ],
-      "duration_ms": 222653,
-      "name": "Shiver",
-      "url": "https://open.spotify.com/track/2ZudaDYcCTgqqYPV0TrNn8"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "That's What I'm Talking About",
         "url": "https://open.spotify.com/album/5wAoxrSVetP84EXgr4Tp3z"
       },
@@ -1103,18 +1087,18 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "5 Seconds Of Summer",
-        "url": "https://open.spotify.com/album/1w5D9eC3WgKWZZVUwB0GXE"
+        "name": "Counting Down The Days",
+        "url": "https://open.spotify.com/album/1PD3hNs0PRMtOeU11DPpim"
       },
       "artists": [
         {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+          "name": "Natalie Imbruglia",
+          "url": "https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP"
         }
       ],
-      "duration_ms": 237247,
-      "name": "Amnesia",
-      "url": "https://open.spotify.com/track/2TY8WCR5gdOwsNOJuOeduG"
+      "duration_ms": 222653,
+      "name": "Shiver",
+      "url": "https://open.spotify.com/track/2ZudaDYcCTgqqYPV0TrNn8"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -1131,6 +1115,22 @@
       "duration_ms": 250506,
       "name": "Lost Without You",
       "url": "https://open.spotify.com/track/1w0JL6vJdl82xqyRW30HrK"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "5 Seconds Of Summer",
+        "url": "https://open.spotify.com/album/1w5D9eC3WgKWZZVUwB0GXE"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 237247,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/2TY8WCR5gdOwsNOJuOeduG"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Whispering Jack",
-        "url": "https://open.spotify.com/album/4cBfyeNYbJAmOq0sl3Hijd"
+        "name": "On A Clear Night (Deluxe)",
+        "url": "https://open.spotify.com/album/5a0yup4Q20b2TxoW5dWKI3"
       },
       "artists": [
         {
-          "name": "John Farnham",
-          "url": "https://open.spotify.com/artist/1QxaPWG1POM8Ul6WwsHq4y"
+          "name": "Missy Higgins",
+          "url": "https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf"
         }
       ],
-      "duration_ms": 227360,
-      "name": "Pressure Down",
-      "url": "https://open.spotify.com/track/6OKxpfca25E4UC23VR7E73"
+      "duration_ms": 231640,
+      "name": "Steer",
+      "url": "https://open.spotify.com/track/6NpO2qjMkMhmncI6hdhTH2"
     }
   ],
   "unique_name": "Aussie Pop Classics",

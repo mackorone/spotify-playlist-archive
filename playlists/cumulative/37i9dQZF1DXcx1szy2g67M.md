@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcx1szy2g67M.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcx1szy2g67M) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcx1szy2g67M)
 
-### [Winter 2025](https://open.spotify.com/playlist/37i9dQZF1DXcx1szy2g67M)
+### [Winter 2026](https://open.spotify.com/playlist/37i9dQZF1DXcx1szy2g67M)
 
-> Zó klinkt de winter van 2025!  ❄️🧣⛄️
+> Zó klinkt de winter van 2026! ❄️🧣⛄️
 
 814 songs - 1 day 17 hr 6 min
 

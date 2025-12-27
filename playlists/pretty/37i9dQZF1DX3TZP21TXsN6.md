@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 
 > Nieuwe tracks elke week!
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,766 likes - 61 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,764 likes - 61 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 | 60 | [TNAWIES](https://open.spotify.com/track/07zIEXphyaKpjL5J3yLg0X) | [Dubbel R](https://open.spotify.com/artist/2k7e8KVpfI8vSlhhC2quhR) | [TNAWIES](https://open.spotify.com/album/6R3q06Xa7wrDlk8Hq20HYV) | 1:57 |
 | 61 | [Millie](https://open.spotify.com/track/2MVDfx1jaCm8BGcR4QSMcD) | [Flo](https://open.spotify.com/artist/6pgZfF7czWzdfjQMtUo3fy) | [Millie](https://open.spotify.com/album/1gqGYqkrgJPXF2PY7mqBWy) | 2:36 |
 
-Snapshot ID: `AAAAAM3qoMr8j1gZe3/K3vutWy1+T6qD`
+Snapshot ID: `AAAAALRA/oYlErFEiUsOJZA+l1stjzi0`

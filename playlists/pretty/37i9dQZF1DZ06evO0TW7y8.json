@@ -1,12 +1,12 @@
 {
   "description": "This is Jorja Smith. The essential tracks, all in one playlist.",
-  "num_followers": 323076,
+  "num_followers": 323075,
   "original_name": "This Is Jorja Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUstAAAAAADGFAjPcAQxJGP7vIhT+GZ0",
+  "snapshot_id": "aUx+gAAAAAAArxsaRezf3Dlc7PcQGMcs",
   "tracks": [
     {
       "added_at": null,
@@ -251,26 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Isolation",
-        "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 204289,
-      "name": "Tyrant (feat. Jorja Smith)",
-      "url": "https://open.spotify.com/track/4FZOSDwALdWxcGcRbwXWJ8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "African Giant",
         "url": "https://open.spotify.com/album/79lrrUvUyIuOD12b5taQVP"
       },
@@ -287,6 +267,26 @@
       "duration_ms": 195073,
       "name": "Gum Body (feat. Jorja Smith)",
       "url": "https://open.spotify.com/track/6RvYoPlvBr8aevCvzjRpoa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Isolation",
+        "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 204289,
+      "name": "Tyrant (feat. Jorja Smith)",
+      "url": "https://open.spotify.com/track/4FZOSDwALdWxcGcRbwXWJ8"
     },
     {
       "added_at": null,
@@ -687,6 +687,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Project 11",
+        "url": "https://open.spotify.com/album/0aytGzjInPwluxhlSLxoot"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+        }
+      ],
+      "duration_ms": 282329,
+      "name": "Carry Me Home",
+      "url": "https://open.spotify.com/track/6fracv4du3sDwo1XKcPrkw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Killing Me",
         "url": "https://open.spotify.com/album/7FTJjjKgVJhOHiGJ66tpbk"
       },
@@ -707,22 +727,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Project 11",
-        "url": "https://open.spotify.com/album/0aytGzjInPwluxhlSLxoot"
+        "name": "Stay Another Day",
+        "url": "https://open.spotify.com/album/4AuVdf2KBDXejjLQn8as1B"
       },
       "artists": [
         {
           "name": "Jorja Smith",
           "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        },
-        {
-          "name": "Maverick Sabre",
-          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
         }
       ],
-      "duration_ms": 282329,
-      "name": "Carry Me Home",
-      "url": "https://open.spotify.com/track/6fracv4du3sDwo1XKcPrkw"
+      "duration_ms": 161657,
+      "name": "Stay Another Day",
+      "url": "https://open.spotify.com/track/6fZBySyT88u7bbissXWtG1"
     },
     {
       "added_at": null,
@@ -763,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/17dK6MH8raVzec5UJnA5PI"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 196975,
-      "name": "High",
-      "url": "https://open.spotify.com/track/30cTrVY28P6ufiRk84k3Ut"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gone",
         "url": "https://open.spotify.com/album/6v6x88d6F3VhxiCL6j4Qhn"
       },
@@ -795,22 +795,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "On My Mind (acoustic)",
-        "url": "https://open.spotify.com/album/2Ux9Grnth3hkFGnMnfOwau"
+        "name": "High",
+        "url": "https://open.spotify.com/album/17dK6MH8raVzec5UJnA5PI"
       },
       "artists": [
-        {
-          "name": "Preditah",
-          "url": "https://open.spotify.com/artist/5qYCZ5FQuzZSjOnesvuYiD"
-        },
         {
           "name": "Jorja Smith",
           "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
         }
       ],
-      "duration_ms": 176919,
-      "name": "On My Mind (acoustic)",
-      "url": "https://open.spotify.com/track/4ktAIutrCjL3oD9rR1aEWU"
+      "duration_ms": 196975,
+      "name": "High",
+      "url": "https://open.spotify.com/track/30cTrVY28P6ufiRk84k3Ut"
     },
     {
       "added_at": null,
@@ -835,6 +831,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "On My Mind (acoustic)",
+        "url": "https://open.spotify.com/album/2Ux9Grnth3hkFGnMnfOwau"
+      },
+      "artists": [
+        {
+          "name": "Preditah",
+          "url": "https://open.spotify.com/artist/5qYCZ5FQuzZSjOnesvuYiD"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 176919,
+      "name": "On My Mind (acoustic)",
+      "url": "https://open.spotify.com/track/4ktAIutrCjL3oD9rR1aEWU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Black Panther The Album Music From And Inspired By",
         "url": "https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 208760,
       "name": "I Am",
       "url": "https://open.spotify.com/track/0DJBgBiYeSn6n1AXAkFVE8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stay Another Day",
-        "url": "https://open.spotify.com/album/4AuVdf2KBDXejjLQn8as1B"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 161657,
-      "name": "Stay Another Day",
-      "url": "https://open.spotify.com/track/6fZBySyT88u7bbissXWtG1"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from Young Franco, Charlotte Plank, Kali Uchis, DaBaby, STÜM, X & Ivy, Peach PRC + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 434,856 likes - 47 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 435,176 likes - 47 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 46 | [Don't You Hate Yourself?](https://open.spotify.com/track/38KogCv80PHOcyPOM5Xn5y) | [Waiting Room](https://open.spotify.com/artist/6AkIWFj7J1rzYkGRgqZndc) | [Don't You Hate Yourself?](https://open.spotify.com/album/4s0ijI7UFEN07u7XhYhllA) | 4:58 |
 | 47 | [All I Want Is You](https://open.spotify.com/track/7C34PGkLIWNIEU0mBFuCT0) | [Bailey Pickles](https://open.spotify.com/artist/3wZmRluxJ9rnRvAymEFVG4), [Shelley Harland](https://open.spotify.com/artist/0lvMuS0iXYOMFHKdnRr02n) | [All I Want Is You](https://open.spotify.com/album/19YGn9KmIHtc98O1NI9PTL) | 2:56 |
 
-Snapshot ID: `AAAAAMBV9My0fYDcIkeP9hLmP4c6WqOG`
+Snapshot ID: `AAAAAL/b8A9oQkhCXbAaAO1f3IipZOuk`

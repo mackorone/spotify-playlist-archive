@@ -1,12 +1,12 @@
 {
   "description": "This is Carrie Underwood. The essential tracks, all in one playlist.",
-  "num_followers": 151754,
+  "num_followers": 151752,
   "original_name": "This Is Carrie Underwood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUstAAAAAACSEyg0Gc+0jYeSqfe0GHWa",
+  "snapshot_id": "aUx+gAAAAAAr5iTlq0GtcvwUoQknRClE",
   "tracks": [
     {
       "added_at": null,
@@ -739,38 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Storyteller",
-        "url": "https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 199933,
-      "name": "Smoke Break",
-      "url": "https://open.spotify.com/track/46W2wkCzFerbeQbNz3EIaa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cry Pretty",
-        "url": "https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 228640,
-      "name": "Love Wins",
-      "url": "https://open.spotify.com/track/4XWnHzCRfRjaHRsTNeh3WR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Best of The '68 Comeback Special (Live)",
         "url": "https://open.spotify.com/album/1vaQwUom5fWnLNJDcabU01"
       },
@@ -803,6 +771,38 @@
       "duration_ms": 190573,
       "name": "If I Can Dream (from the NBC Elvis All-Star Tribute)",
       "url": "https://open.spotify.com/track/6L0bHTV6hf9UL6uCezlJCC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Storyteller",
+        "url": "https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 199933,
+      "name": "Smoke Break",
+      "url": "https://open.spotify.com/track/46W2wkCzFerbeQbNz3EIaa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cry Pretty",
+        "url": "https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 228640,
+      "name": "Love Wins",
+      "url": "https://open.spotify.com/track/4XWnHzCRfRjaHRsTNeh3WR"
     },
     {
       "added_at": null,

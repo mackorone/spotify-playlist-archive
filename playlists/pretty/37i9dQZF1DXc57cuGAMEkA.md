@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Sabrina Carpenter  and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,708 likes - 55 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,097 likes - 55 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 17 | [So Sweet](https://open.spotify.com/track/7qtltFwm3L7HyO5AtDPmlW) | [Coyote Theory](https://open.spotify.com/artist/48vmXfV0QPy3ljXBp81Fwn) | [So Sweet](https://open.spotify.com/album/4dSx7qM1gZQSHWWNWh6Smh) | 4:03 |
 | 18 | [Caught in the Blink of an Eye](https://open.spotify.com/track/173kMYy5NX6OLGXi3256mT) | [Ladytron](https://open.spotify.com/artist/0ucLPotcQNI7AViFytdhBz) | [Caught in the Blink of an Eye](https://open.spotify.com/album/4hitWgjEDey6LrzfeVkceD) | 3:44 |
 | 19 | [Bicycle Race](https://open.spotify.com/track/5t0pSNrxjTnBuy5t2YAXFT) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bicycle Race](https://open.spotify.com/album/3YmkB6eb4G3fslN8Q1Z6ls) | 2:35 |
-| 20 | [Track 1](https://open.spotify.com/track/56CBC6RIvEctmVWP8D8BwX) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [](https://open.spotify.com/album/null) | 0:00 |
+| 20 | [pillow](https://open.spotify.com/track/56CBC6RIvEctmVWP8D8BwX) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [i just want next year to be better](https://open.spotify.com/album/2TEet1gjTXTJeFimtpoTmx) | 3:47 |
 | 21 | [草西](https://open.spotify.com/track/45Xz6eXV3WtHAhYuL9coeV) | [GDJYB 雞蛋蒸肉餅](https://open.spotify.com/artist/06LP6816j1i658mANtPNVc) | [<=P: r0J3CT 2222/>](https://open.spotify.com/album/79xBXpO1AiBMydWtIHDdxz) | 4:10 |
 | 22 | [ガイア](https://open.spotify.com/track/7JyMBBXAn6guCGmDwJdn6y) | [Siip](https://open.spotify.com/artist/4iJl88yli7zUwkDCNeKyNa) | [ガイア](https://open.spotify.com/album/0f9cR9kAGMSLGWnVd9eCyL) | 4:28 |
 | 23 | [Blindspot](https://open.spotify.com/track/4k3tdZ3C1B8RdHHOp1QrId) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Blindspot](https://open.spotify.com/album/6KLpX5ezs879KqdCXuIggR) | 3:24 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 39 | [Yeehaw](https://open.spotify.com/track/3zvpqxPFQxtFLD1FdCBiOf) | [FILMORE](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Yeehaw](https://open.spotify.com/album/5wguho5YJqF36UgNiY2mA8) | 2:24 |
 | 40 | [Theater](https://open.spotify.com/track/6iltt0n1DkQ0AtCcwxXNZJ) | [King & Prince](https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp) | [STARRING](https://open.spotify.com/album/32NZKUbT5ls5kYZy1j6yAM) | 3:20 |
 | 41 | [Contacto Zero](https://open.spotify.com/track/7MNGgP6ulMANUDnpCPb8wV) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [Contacto Zero](https://open.spotify.com/album/26Ii4d7GC6uPaRvFXL9tpr) | 2:46 |
-| 42 | [dopamina](https://open.spotify.com/track/3e32UUqXzrI4g2y5kNZrwC) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [](https://open.spotify.com/album/null) | 3:05 |
+| 42 | [dopamina](https://open.spotify.com/track/3e32UUqXzrI4g2y5kNZrwC) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [DINASTÍA](https://open.spotify.com/album/3kJfKZWulX2oyatVMvDx6a) | 3:05 |
 | 43 | [OTAKEBI](https://open.spotify.com/track/2WJ5shNYwy7htOuGqeqLsi) | [GRe4N BOYZ](https://open.spotify.com/artist/5OodWcD7f7OOXvNUG2HqbC), [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [OTAKEBI](https://open.spotify.com/album/6KgS22eAeZaHUdwC76tTTG) | 3:42 |
 | 44 | [Knock Me Out](https://open.spotify.com/track/427Fc7QQyh1hZSEQK729hP) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Knock Me Out](https://open.spotify.com/album/2wfTnbkq30YqUSdu6ZBX9L) | 2:11 |
 | 45 | [RUN！ \- Movie ver.](https://open.spotify.com/track/1uclIEl4QsuQRp4CusNR2M) | [Klang Ruler](https://open.spotify.com/artist/7dGWpqSL5xaZjWbo3UWXyU) | [RUN！ \(Movie ver.\)](https://open.spotify.com/album/3ngxkBSlkCzEnmxFt4XO4x) | 1:38 |
 | 46 | [In The Night Sky](https://open.spotify.com/track/1BMYVU9v26QbJsgdHBnnts) | [The Thermals](https://open.spotify.com/artist/4qAJ54O4V0W8SQcSz0bl1C) | [In The Night Sky](https://open.spotify.com/album/0krqmHC1dHeAaFl12NXfo0) | 2:37 |
 | 47 | [Here For The Party](https://open.spotify.com/track/43zyKoCeEVqoajv7erMfhd) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Here For The Party](https://open.spotify.com/album/6MGCAS368VJy11aVpPEfGx) | 3:29 |
 | 48 | [The City Where Whales Fall](https://open.spotify.com/track/54tm8y6oTn41STMAsK8yOI) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [Frozen Flower](https://open.spotify.com/album/4mNNIJ77sdb2LaFu9vZxGW) | 3:42 |
-| 49 | [Track 6](https://open.spotify.com/track/4IcCb1SDDw9aDGOUCNWQyu) | [LIU KOI](https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE) | [](https://open.spotify.com/album/null) | 0:00 |
+| 49 | [a few more words away](https://open.spotify.com/track/4IcCb1SDDw9aDGOUCNWQyu) | [LIU KOI](https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE) | [words](https://open.spotify.com/album/6iUzLAEz06We6TaO9WhVrH) | 3:00 |
 | 50 | [ソラネコ](https://open.spotify.com/track/0U8bpqzOW4asWR4Ovjm9L2) | [山内総一郎](https://open.spotify.com/artist/4UskpPBwqxbdjKYOVxSmp3) | [ソラネコ](https://open.spotify.com/album/0eWXvuDLRXCfsO9dPPTawQ) | 4:00 |
 | 51 | [twenty\-six](https://open.spotify.com/track/3GKa3SNkLHZ8D7ic2AQJiI) | [YOAKE](https://open.spotify.com/artist/0psEe4IooMjolOPMrz9A5M) | [twenty\-six](https://open.spotify.com/album/6FN3Is0JTTOiHVbJb6PxdZ) | 3:54 |
 | 52 | [log in, log you!](https://open.spotify.com/track/5i6azgETXYviTvicvxVCIR) | [log you](https://open.spotify.com/artist/6ax0c3dmfkI8H6pMPMagr8) | [log in, log you!](https://open.spotify.com/album/37aaL8g1lrtuANSip01nTc) | 4:25 |

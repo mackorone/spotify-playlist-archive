@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqLpSeOxFlD.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/lakeithstanfield3/">LaKeith Stanfield</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,964 likes - 60 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,986 likes - 60 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqLpSeOxFlD.md) - [plain]
 | 29 | [Eventually](https://open.spotify.com/track/5M4yti0QxgqJieUYaEXcpw) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 5:18 |
 | 30 | [Time after time](https://open.spotify.com/track/3QLjojWFdM4wbvEqWDWKmh) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Surround](https://open.spotify.com/album/1rnwK12BYEZDg4XWZEp98V) | 11:04 |
 | 31 | [Surround](https://open.spotify.com/track/005fAyxQn5b0hxmQFGJSoP) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Surround](https://open.spotify.com/album/1rnwK12BYEZDg4XWZEp98V) | 3:44 |
-| 32 | [Nocturne](https://open.spotify.com/track/0KM52GC7FVq2dMD6VPhC03) | [Oscilation Circuit](https://open.spotify.com/artist/3jvi65ZLtt5fPK1CqFYIW5) | [Oscilation Circuit \- Série Réflexion 1](https://open.spotify.com/album/0NdCm0U0cSvcGSNIZVJhwc) | 6:38 |
+| 32 | [Nocturne](https://open.spotify.com/track/0KM52GC7FVq2dMD6VPhC03) | [cleaned](https://open.spotify.com/artist/1yp2KhukqTL1SNjjQDCNj3) | [Oscilation Circuit \- Série Réflexion 1](https://open.spotify.com/album/0NdCm0U0cSvcGSNIZVJhwc) | 6:38 |
 | 33 | [In Plain Sight](https://open.spotify.com/track/5QB8pXweZvjJSjtRwGta5Y) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [2nd Draft](https://open.spotify.com/album/4mv6oCtJD78x7RGXcoMlTT) | 2:36 |
 | 34 | [Magnolia](https://open.spotify.com/track/50w9wN70lWHaIe8atNxDtn) | [Flaer](https://open.spotify.com/artist/0PiMvUJDkqg4AAfl8CP1Di) | [Preludes](https://open.spotify.com/album/6Q8TOtacVTE5deiLFh2hEj) | 3:08 |
 | 35 | [Island Man](https://open.spotify.com/track/7gnPCgm9lvI9C2vKNKTJFM) | [Htiekal](https://open.spotify.com/artist/7msuTfFRpVfnoKJL8YUF7Q) | [Do Better](https://open.spotify.com/album/2zk21tKHcNtvlKXw5qEOnl) | 3:04 |

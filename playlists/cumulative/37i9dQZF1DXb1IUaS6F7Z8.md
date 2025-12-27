@@ -4,7 +4,7 @@
 
 > All of the Celtic punk essentials.\. Cover: Dropkick Murphys
 
-149 songs - 8 hr 25 min
+150 songs - 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [An Irish Pub Song](https://open.spotify.com/track/5UGJICh0UfvXTansc82A1k) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd) | [Gangs of New Holland](https://open.spotify.com/album/0oiIhaKjX4opdyHTEEM8dm) | 3:22 | 2024-02-06 |  |
 | [Arrive On St\. Patrick's Day](https://open.spotify.com/track/0E4tTwpmHQTXQbI9Ov7V2S) | [Sir Reg](https://open.spotify.com/artist/0ircDsEvOEB5iDlGl2lT63) | [SIR REG](https://open.spotify.com/album/5WCydhGEqbdCoZBgaVGvfE) | 3:16 | 2022-03-18 |  |
 | [Arsehole](https://open.spotify.com/track/2201cH5trK1nfpLgY0FfFG) | [The Gobshites](https://open.spotify.com/artist/0JwbhBhNG5Sdm3Gbm0y3hF) | [When the Shite Hits the Fans](https://open.spotify.com/album/2Cw2JK22aGlznfDEdibeBK) | 2:40 | 2022-03-18 |  |
-| [Back Home in Bristol](https://open.spotify.com/track/4fJ3Izp494APZkuSQJMe36) | [The Dreadnoughts](https://open.spotify.com/artist/0tfnDOJ5a2ib3mHAI4qGyD) | [Foreign Skies](https://open.spotify.com/album/4sXaOOcXH2tfRFUJsiIzKh) | 4:03 | 2024-02-06 |  |
+| [Back Home in Bristol](https://open.spotify.com/track/4fJ3Izp494APZkuSQJMe36) | [The Dreadnoughts](https://open.spotify.com/artist/0tfnDOJ5a2ib3mHAI4qGyD) | [Foreign Skies](https://open.spotify.com/album/4sXaOOcXH2tfRFUJsiIzKh) | 4:03 | 2024-02-06 | 2025-12-27 |
 | [Banks of the Roses](https://open.spotify.com/track/2FiosROHDCTuWyRGCJyPfc) | [Black Tartan Clan](https://open.spotify.com/artist/1jbPg3Sqh7zYmOEKEcj8Wt) | [The Loyal Men](https://open.spotify.com/album/5pYBbJGRKdn8HAIwijw788) | 3:15 | 2022-03-18 |  |
 | [Black Friday Rule](https://open.spotify.com/track/0tXYtoyv8OH1dz45CLPP9G) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [Swagger](https://open.spotify.com/album/16aGG0N50n3KeXLqSxWkyN) | 7:01 | 2024-02-06 |  |
 | [Botany Bay](https://open.spotify.com/track/0EjrmUYfo0bo787mvveLLi) | [Blaggards](https://open.spotify.com/artist/0IlUKxz8kZ4EpKrZjlvFr1) | [Standards](https://open.spotify.com/album/54rl8J9TynN3Qah4u9Eph4) | 3:30 | 2022-03-18 |  |
@@ -74,6 +74,7 @@
 | [Karma Killer](https://open.spotify.com/track/0Js21h5mZmJ9tJchPQ33zg) | [Pipes And Pints](https://open.spotify.com/artist/4OqDoxT2t5pP2S7C1VkoGB) | [Karma Killer](https://open.spotify.com/album/0GaneqwiDOaqyUFCMfoQJY) | 3:18 | 2022-03-18 | 2022-06-10 |
 | [Katie Bar the Door](https://open.spotify.com/track/66nrk0r8Jv1IhNQUol0u6R) | [The Peelers](https://open.spotify.com/artist/4DBvYJsCp7nHAz3Y7evwuD) | [Liquordale](https://open.spotify.com/album/2OMw9EbAk5K0oVhmmUZY9e) | 3:13 | 2022-03-18 | 2022-10-20 |
 | [Kick Out The Scum](https://open.spotify.com/track/7gm131f9EwoBasQT5Fcqua) | [Sir Reg](https://open.spotify.com/artist/0ircDsEvOEB5iDlGl2lT63) | [Kick Out The Scum](https://open.spotify.com/album/0zMhFOgj0wLZIXbilDbF7Q) | 3:35 | 2022-03-18 | 2022-07-25 |
+| [Living in a World Without Her](https://open.spotify.com/track/1kzGBkQj7bvNuZMVjKGrtI) | [The Pogues](https://open.spotify.com/artist/2wzMOQwNT6ZvVB4amvhFAH) | [Pogue Mahone \(Expanded Edition\)](https://open.spotify.com/album/2AGx8a5UJvGA1sdz6y6OkE) | 3:18 | 2024-02-06 |  |
 | [Loch Lomond](https://open.spotify.com/track/57kWBzs2CEq5BXVYiU66y6) | [Muirsheen Durkin](https://open.spotify.com/artist/1wWy03z6llk4gPcIfe6Yrn) | [Drink With the Irish](https://open.spotify.com/album/6vn52kUftGhXqg0ZHxZr9W) | 3:24 | 2024-02-06 | 2025-03-08 |
 | [Madmen](https://open.spotify.com/track/60Mmt4jljoahymqKOxlgO6) | [The Briggs](https://open.spotify.com/artist/63YfNw6QHkJQnLyH8MG384) | [Come All You Madmen](https://open.spotify.com/album/203OddgnjRgmhExxKqZ3GZ) | 2:30 | 2024-02-06 | 2024-04-19 |
 | [Mick Jones Nicked My Pudding](https://open.spotify.com/track/2iD8GXpQJlYEgWwiCyXoW2) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Mick Jones Nicked My Pudding](https://open.spotify.com/album/19oSImQhM6RbBuzbL6AZp9) | 2:40 | 2022-03-18 | 2022-07-29 |

@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: Ati242
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,405,225 likes - 50 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,405,315 likes - 50 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Maraton](https://open.spotify.com/track/4jK6oMDJ54J8P5y5J86Ioh) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Maraton](https://open.spotify.com/album/4N2Xljd6DWSjCoSpXj2nLE) | 3:33 |
 | 2 | [Tütün ve Votka](https://open.spotify.com/track/3rChwQtcybuGqF5kfob8mw) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [Tütün ve Votka](https://open.spotify.com/album/51y5OLSxt06tGylhpniMrB) | 1:44 |
-| 3 | [90+5](https://open.spotify.com/track/5DmpNzrOV5JabtlrQ1NmAE) | [Halodayı](https://open.spotify.com/artist/1oR56GSDAFgtdKmSl6qU1r), [Yung Ouzo](https://open.spotify.com/artist/3VooEK5HkkcSc4Tv7FCBzb) | [](https://open.spotify.com/album/null) | 2:06 |
+| 3 | [90+5](https://open.spotify.com/track/5DmpNzrOV5JabtlrQ1NmAE) | [Halodayı](https://open.spotify.com/artist/1oR56GSDAFgtdKmSl6qU1r), [Yung Ouzo](https://open.spotify.com/artist/3VooEK5HkkcSc4Tv7FCBzb) | [KETUM](https://open.spotify.com/album/6gVbGyH9W90pGtOVu20WfL) | 2:06 |
 | 4 | [Dönüyo Başım](https://open.spotify.com/track/2TfyJiVPvhQwyxMCGlRN29) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [Dönüyo Başım](https://open.spotify.com/album/0BBep921lxZ4kcPNsbNtrk) | 2:12 |
 | 5 | [Hey](https://open.spotify.com/track/2coPBvCRJnQ52Q0KZztfMJ) | [Aksan](https://open.spotify.com/artist/4HKKQOej7lVXZcGzFB5dn8) | [Hey](https://open.spotify.com/album/2ivz0MzTJISLpuNG9UvU9D) | 2:07 |
 | 6 | [YARAMAZ](https://open.spotify.com/track/34cLWP3rBEOMv9fmY9NCPl) | [ERAY067](https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT), [Mansur](https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm) | [YARAMAZ](https://open.spotify.com/album/4dv0Na2MnjVYKnWwAyrFZV) | 2:20 |
-| 7 | [D4Ft Punk](https://open.spotify.com/track/4jVdCu97f8qREQTsNcE52d) | [EGE!](https://open.spotify.com/artist/5chlGLYjNChbXjDbojObt5) | [D4Ft Punk](https://open.spotify.com/album/4SljrgiuGgwIvVqcwHz0lz) | 1:40 |
+| 7 | [D4FT PUNK](https://open.spotify.com/track/4jVdCu97f8qREQTsNcE52d) | [EGE!](https://open.spotify.com/artist/5chlGLYjNChbXjDbojObt5) | [D4FT PUNK](https://open.spotify.com/album/4SljrgiuGgwIvVqcwHz0lz) | 1:40 |
 | 8 | [Jelatin \(Freestyle\)](https://open.spotify.com/track/2MbztR1sDbxGxqkv7GXcas) | [No.1](https://open.spotify.com/artist/4fR3W8XFXsqHB8f8IqEr1y) | [Jelatin \(Freestyle\)](https://open.spotify.com/album/5GOELxorLCrHSgH3zajC2i) | 2:34 |
 | 9 | [ille de sen](https://open.spotify.com/track/3KvETtKYQoTKQ0HF36qzRG) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [ille de sen](https://open.spotify.com/album/4UPp7EYLlIaxyhkHR6cCuz) | 1:45 |
 | 10 | [Ismarla](https://open.spotify.com/track/5Gz8iZTmpjM3DAD38oomQS) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [Ismarla](https://open.spotify.com/album/18LeoXntfGUeeksKT2M45B) | 3:03 |

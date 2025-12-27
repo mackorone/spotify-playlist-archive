@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-21",
+      "date_removed": null,
       "duration_ms": 135040,
       "name": "Actor Out of Work",
       "url": "https://open.spotify.com/track/6IYalCW21Yic9MkNfH0MiL"
@@ -160,7 +160,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-27",
       "duration_ms": 90756,
       "name": "Carrie Wave",
       "url": "https://open.spotify.com/track/67M7KQ0pYyXnB5Zlqe9OqL"
@@ -236,7 +236,7 @@
       ],
       "date_added": "2025-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-06",
+      "date_removed": null,
       "duration_ms": 175786,
       "name": "Chloe In The Afternoon",
       "url": "https://open.spotify.com/track/2cZzpFiWGj6hwNbY7I0sLP"
@@ -254,7 +254,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-27",
       "duration_ms": 54980,
       "name": "Come To Jesus",
       "url": "https://open.spotify.com/track/20vVKQWGDgHte5msuPC37m"
@@ -348,7 +348,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-14",
+      "date_removed": null,
       "duration_ms": 222986,
       "name": "Dinner for Two",
       "url": "https://open.spotify.com/track/5cu7cJCwwfP9dNFuLnsH7L"
@@ -492,7 +492,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-27",
       "duration_ms": 42030,
       "name": "Hallway Scene",
       "url": "https://open.spotify.com/track/6GZlV0GfKVzFZ8JkS9yxbN"
@@ -514,6 +514,24 @@
       "duration_ms": 168786,
       "name": "Hang On Me",
       "url": "https://open.spotify.com/track/54IL47Tmp2MAVABIdf6eMF"
+    },
+    {
+      "album": {
+        "name": "MASSEDUCTION",
+        "url": "https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "date_added": "2025-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178413,
+      "name": "Happy Birthday, Johnny",
+      "url": "https://open.spotify.com/track/0pY9xoiH9hNo166spIpQWt"
     },
     {
       "album": {
@@ -862,7 +880,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-27",
       "duration_ms": 94010,
       "name": "Opening Limo Scene",
       "url": "https://open.spotify.com/track/1O7Z9u4BSpSqkmd9L3i8pa"
@@ -1050,7 +1068,7 @@
       ],
       "date_added": "2025-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-27",
       "duration_ms": 206960,
       "name": "Savior",
       "url": "https://open.spotify.com/track/0uXOXjd0iaptu1co1BJrif"
@@ -1364,7 +1382,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-28",
+      "date_removed": null,
       "duration_ms": 179127,
       "name": "Uneventful Days - St. Vincent Remix",
       "url": "https://open.spotify.com/track/1zyBMwIWlKozL0hom8GT5x"

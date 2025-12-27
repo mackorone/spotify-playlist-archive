@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: Bvcovia, Marko Glass
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,276 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,275 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 | 33 | [Operatiunea GhostGun](https://open.spotify.com/track/6ZvxHr1I4tofQp3WOh68j4) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ) | [Toata lumea moare](https://open.spotify.com/album/3HSN1uMfMOg2j7fCmVVAh2) | 2:24 |
 | 34 | [Copiii Care Am Fost](https://open.spotify.com/track/4mzfGRUi0JxDp4fXdPyVuz) | [Calinacho](https://open.spotify.com/artist/050D4ZE1dXVfLSrQADtEu3), [Bastien](https://open.spotify.com/artist/5LJQcYC7NvCItwZraE7NUS) | [Copiii Care Am Fost](https://open.spotify.com/album/2hH9yLdchCyhiiEKhACBkT) | 2:58 |
 | 35 | [inexplicabil](https://open.spotify.com/track/6XIkg4IIz3DP1Z7WCa63o5) | [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F), [Stefan Costea](https://open.spotify.com/artist/3w8r8LEPG3zHNvRCj92b58), [Pitariu George](https://open.spotify.com/artist/2Bc4sRO6Nnwn2bc1lLpL5s) | [Ștefan IV](https://open.spotify.com/album/1j2XXVOk5fk60ZRm5QpqFp) | 3:14 |
-| 36 | [ALTCEVA](https://open.spotify.com/track/4ukqJjrUjNiKAKRGeuOy79) | [Simiz](https://open.spotify.com/artist/5E8nbRGMr541TMSF7bH3lD), [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [ALTCEVA](https://open.spotify.com/album/6ARByzuJLUgx9fCecZ3PJo) | 3:06 |
+| 36 | [Certificat](https://open.spotify.com/track/7tuJGk5C2lnEZ7JstK97zO) | [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr), [Bitza](https://open.spotify.com/artist/38D4CP96Q3tn48qOGA6wbZ), [Stres](https://open.spotify.com/artist/2eVoGlAScaB4z8MPO029K5) | [Selfmade](https://open.spotify.com/album/7umzSjHdY7cRbqe4pZppa5) | 2:09 |
 | 37 | [A.D.S.](https://open.spotify.com/track/4mbf5d3c5YsqEEnJQlVrzV) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM), [NOUA UNSPE](https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp) | [PLAYBOY CITY](https://open.spotify.com/album/6vx1YeTyd5t0UTXb44rEMi) | 2:03 |
 | 38 | [Grinch](https://open.spotify.com/track/0RCOFsv0uaHhIwjZXJJ5yk) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ), [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6) | [Grinch](https://open.spotify.com/album/2QN6om23DL5Gwek4PCTGx6) | 3:14 |
-| 39 | [Certificat](https://open.spotify.com/track/7tuJGk5C2lnEZ7JstK97zO) | [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr), [Bitza](https://open.spotify.com/artist/38D4CP96Q3tn48qOGA6wbZ), [Stres](https://open.spotify.com/artist/2eVoGlAScaB4z8MPO029K5) | [Selfmade](https://open.spotify.com/album/7umzSjHdY7cRbqe4pZppa5) | 2:09 |
+| 39 | [ALTCEVA](https://open.spotify.com/track/4ukqJjrUjNiKAKRGeuOy79) | [Simiz](https://open.spotify.com/artist/5E8nbRGMr541TMSF7bH3lD), [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [ALTCEVA](https://open.spotify.com/album/6ARByzuJLUgx9fCecZ3PJo) | 3:06 |
 | 40 | [Asta\-i Țara Mea](https://open.spotify.com/track/3Itiryt0igEXRtf5KcinDC) | [Satoshi](https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv), [Vasile Advahov](https://open.spotify.com/artist/6Gg0PWo2x17nxM3EFomXyn) | [Asta\-i Țara Mea](https://open.spotify.com/album/0cfv8rktcvzj2O2WmIByeO) | 2:49 |
 | 41 | [Morgana](https://open.spotify.com/track/1AdA4NpknwbWImnnZMrAcq) | [F.Charm](https://open.spotify.com/artist/0g9bClZlYEbEAIzdYw7Q3I) | [Morgana](https://open.spotify.com/album/7rGsaNzNAN4DjjeRRKInj9) | 3:12 |
 | 42 | [PESTE TOT](https://open.spotify.com/track/2akD1C98hzYuUnqslTor11) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [PESTE TOT](https://open.spotify.com/album/6yX2Obn7R5hpjXs9VA7aNd) | 2:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 | 49 | [Poate](https://open.spotify.com/track/70WFlv0Amzke8MgjfM5MUu) | [Endru](https://open.spotify.com/artist/53fCgT8kcL8Wj6VJ7oyu0l), [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP) | [Blur](https://open.spotify.com/album/4nET5AKAwCz0ooYa7QdNmV) | 2:32 |
 | 50 | [Momentul meu](https://open.spotify.com/track/432NUQM4s1DLDV27FxFhCi) | [El Nino](https://open.spotify.com/artist/01tCOipZP0bkn0LjSZ5S5i), [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM), [Irma](https://open.spotify.com/artist/6xFQ7fuQ25GZnXLzWWE67Z) | [REBORN](https://open.spotify.com/album/3TVB6kwu7R8ixT7um6Nf0F) | 2:31 |
 
-Snapshot ID: `AAAAALo7aWsW+IWUCDvw2B8GQu8XNoM/`
+Snapshot ID: `AAAAALOms8zYOs5UHke7gmmgqKtsq2x2`

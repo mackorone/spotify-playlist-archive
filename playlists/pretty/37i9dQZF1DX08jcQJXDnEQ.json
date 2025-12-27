@@ -1,6 +1,6 @@
 {
   "description": "The best metal songs of the 90s. Cover: Metallica",
-  "num_followers": 1366677,
+  "num_followers": 1366984,
   "original_name": "90s Metal Classics",
   "owner": {
     "name": "Spotify",
@@ -619,22 +619,6 @@
     {
       "added_at": "2025-11-24 12:45:57",
       "album": {
-        "name": "La Sexorcisto: Devil Music Volume 1",
-        "url": "https://open.spotify.com/album/6Cvv0qNSdZNf9o0j8EohoD"
-      },
-      "artists": [
-        {
-          "name": "White Zombie",
-          "url": "https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8"
-        }
-      ],
-      "duration_ms": 234080,
-      "name": "Thunder Kiss '65",
-      "url": "https://open.spotify.com/track/4tvBoSWeIW0bjhKNre5mod"
-    },
-    {
-      "added_at": "2025-11-24 12:45:57",
-      "album": {
         "name": "October Rust (Special Edition)",
         "url": "https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 428800,
       "name": "Love You to Death",
       "url": "https://open.spotify.com/track/58RDwkonFMOkoytBtIQetc"
+    },
+    {
+      "added_at": "2025-11-24 12:45:57",
+      "album": {
+        "name": "La Sexorcisto: Devil Music Volume 1",
+        "url": "https://open.spotify.com/album/6Cvv0qNSdZNf9o0j8EohoD"
+      },
+      "artists": [
+        {
+          "name": "White Zombie",
+          "url": "https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8"
+        }
+      ],
+      "duration_ms": 234080,
+      "name": "Thunder Kiss '65",
+      "url": "https://open.spotify.com/track/4tvBoSWeIW0bjhKNre5mod"
     },
     {
       "added_at": "2025-11-24 12:45:57",

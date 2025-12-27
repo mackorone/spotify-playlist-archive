@@ -4,7 +4,7 @@
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-476 songs - 1 day 3 hr 22 min
+480 songs - 1 day 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Choke](https://open.spotify.com/track/4KfJUAzVHZjMdnqppSxpT1) | [Pickap.art](https://open.spotify.com/artist/4TMb7hw4kEDZdxMK9IYLUc) | [Frantic!](https://open.spotify.com/album/04HZkLDGricV1azqsq5yfV) | 1:14 | 2025-08-03 |  |
 | [Cindy Lee, Forever](https://open.spotify.com/track/1vu2V0n5tuSKODQWwzIJwv) | [Ernest Graves](https://open.spotify.com/artist/3S0CAgGVPhrk1V4CzGKJFB) | [Cindy Lee, Forever](https://open.spotify.com/album/0a9aFMSqP2he9f66pY6iFy) | 3:02 | 2025-12-04 | 2025-12-24 |
 | [circles](https://open.spotify.com/track/0d0HWMlBcsm2zB3ZaV8d7E) | [hideaways.](https://open.spotify.com/artist/69GTkLWVatpJWSJlmKNdUG), [Debbi Koh](https://open.spotify.com/artist/7Kee6lArbmE69gO5HY06G6) | [circles](https://open.spotify.com/album/0Lspo9U52hDPiLIetVX0uZ) | 3:30 | 2025-12-17 |  |
+| [Clockmaster's Grief](https://open.spotify.com/track/5Wtjtxxjm9U9CC5s3hDAaI) | [Astral Nocturna](https://open.spotify.com/artist/7dXXmCstnWta6NTeYrZPpB) | [Clockmaster's Grief](https://open.spotify.com/album/33rVeEfelM9iw2pk0v6WDZ) | 3:54 | 2025-12-26 |  |
 | [Cold Void](https://open.spotify.com/track/46pjjVVYE51cPqXUviBUw7) | [Adeline Gray](https://open.spotify.com/artist/4RP2iD2ElroBUpaW1I8Xb9) | [Cold Void](https://open.spotify.com/album/4U5TZLO36RiUtZq9BJTFkj) | 6:32 | 2025-12-23 |  |
 | [Colourless](https://open.spotify.com/track/0ZTDFn0KWClaDBTou8dMva) | [Overbreak](https://open.spotify.com/artist/0sxjXtyEwiXcmfzk9b3IFC) | [Colourless](https://open.spotify.com/album/2XhwgAF8LBOiAQLj19cLFz) | 3:50 | 2025-12-23 |  |
 | [Comisery](https://open.spotify.com/track/2lDOspc5bBM493KJT7r6it) | [Scott Middlin](https://open.spotify.com/artist/5xQHsYgEBOprSATYk7ygPH) | [Comisery](https://open.spotify.com/album/46AwsxHKeMcmF4ebkExLuC) | 3:13 | 2025-12-22 |  |
@@ -92,6 +93,7 @@
 | [Corriendo \(think about you\)](https://open.spotify.com/track/3G12ziypGl3GL9PL2uQ0ME) | [El Abuelo](https://open.spotify.com/artist/54DZYT3m4fOOnka59lH2HY) | [Corriendo \(think about you\)](https://open.spotify.com/album/0MluI6wYBnfjejhvD53V00) | 3:17 | 2025-12-16 |  |
 | [Cowboy](https://open.spotify.com/track/7zKt2Ka1mwAqTB94dcEvM3) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [Let's Get Weird](https://open.spotify.com/album/3KveBk3jR1fOlbyGzdTo0D) | 3:03 | 2025-08-03 |  |
 | [Crazy Dance of Death](https://open.spotify.com/track/26AvmPorUJ4jLn9vZ0DowU) | [Ask The Dust](https://open.spotify.com/artist/7F3WOicrHPUVKyOhZUCrND) | [Crazy Dance of Death](https://open.spotify.com/album/1GYG0FvWCwAt5l32W37wrS) | 3:11 | 2025-10-27 | 2025-12-10 |
+| [Creatures](https://open.spotify.com/track/2BME4lMVt3qe5hQjmDjlMT) | [Eternalize](https://open.spotify.com/artist/0gxYWBKorYdHOkDcnMLDsf) | [The way home](https://open.spotify.com/album/4xO88KLM8NjEHYpQhXbJgV) | 2:48 | 2025-12-26 |  |
 | [Crisis](https://open.spotify.com/track/24ln8N2NYaHuEZ7cSY1Mvx) | [Stereogarcia](https://open.spotify.com/artist/3QaSLsSItR9AYbjYA8ZQNt) | [The Broken Homeland Sons](https://open.spotify.com/album/5Qpq8vcWkqmAGBt5CPfinY) | 4:34 | 2025-12-15 |  |
 | [Cry](https://open.spotify.com/track/3btAgesKJyF1LCHuNDp9sd) | [Sophie Simonds](https://open.spotify.com/artist/2AZSHzzlREDkdhgWtOhKx1) | [Octo](https://open.spotify.com/album/35Zuxh3nvmQywZ4hTDSWRh) | 3:36 | 2025-12-19 |  |
 | [curveball](https://open.spotify.com/track/67kzadXXKhMDpXBmN0tqqD) | [Donzii](https://open.spotify.com/artist/6ezSXwGUhE3a3g6uEr38oU) | [curveball](https://open.spotify.com/album/4jcGuHtzWlzpZoGyvmsWfA) | 2:54 | 2025-12-16 |  |
@@ -179,6 +181,7 @@
 | [Hazte oir](https://open.spotify.com/track/1dfB3PNQCu7FMhf9xae073) | [Marcoo](https://open.spotify.com/artist/78r09t3sUYBpJSrYZqeAxb) | [Hazte oir](https://open.spotify.com/album/0iqOcbtUyjYtnHZgU8Jdzv) | 3:09 | 2025-11-23 | 2025-12-24 |
 | [Head Things](https://open.spotify.com/track/5LNndZWKlI8pB5xLMn6rko) | [Verticoli](https://open.spotify.com/artist/6i3DIimW7UJE7I5sVu0bTq) | [Punching Bag](https://open.spotify.com/album/5duz8Sa8pdhJIQ9p00DpBU) | 2:55 | 2025-10-23 | 2025-12-10 |
 | [HEADHUNTER GIRL](https://open.spotify.com/track/3kKvRp3asw5ZNBUPluQDV0) | [DWoods](https://open.spotify.com/artist/4Vw1sn9EvRXvRkrIqGwXIC), [Joe Elbee](https://open.spotify.com/artist/5CzGcbfWrYyTO6T2dqmOom), [Daniel King](https://open.spotify.com/artist/3SoXaUfrWUM1DZJJC3ws9P) | [TORN DOWN](https://open.spotify.com/album/2x5Bz3uIQ0iZt9rwlTCq8k) | 3:21 | 2025-12-08 |  |
+| [Headrush](https://open.spotify.com/track/0YfyjWkn6cAvWXokmeu77R) | [Lunar Chain](https://open.spotify.com/artist/6esnKS6lev7QYCZAL0y8bW) | [Headrush](https://open.spotify.com/album/1xawMxWDShlnHZgENk0Y5W) | 3:25 | 2025-12-26 |  |
 | [Hell in Me](https://open.spotify.com/track/6l2vpMomP0oYkyrgru539R) | [Diametral](https://open.spotify.com/artist/0fb1AtENNaAJXuxlCyRHnd) | [Hell in Me](https://open.spotify.com/album/5CAmQ0mNQ4y01QF3AK7hbg) | 4:31 | 2025-11-27 | 2025-12-24 |
 | [Hello You](https://open.spotify.com/track/58Mps9U6HpzFBzIm6FvVYu) | [CAN'T STOP TALKING](https://open.spotify.com/artist/3rotuHQvOx7kpA7arxEPTe) | [Nothing To Say](https://open.spotify.com/album/5NeEmefGoLWrjXzzKrU7dF) | 2:14 | 2025-08-03 |  |
 | [Hello, Beautiful](https://open.spotify.com/track/231rZMis3ipEk8M7UPFPYd) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [LOUD NOISES](https://open.spotify.com/album/3td0OGM48SevIvq1jkUxAM) | 5:45 | 2025-08-03 |  |
@@ -222,6 +225,7 @@
 | [K2](https://open.spotify.com/track/5nTv9pn1Zm4nHoONNvquDP) | [desakato](https://open.spotify.com/artist/7wazA5KFLeU7mzsJc0TMse) | [Chokofresa](https://open.spotify.com/album/0NctAbmRD841BP71SW2qY1) | 2:51 | 2025-11-27 | 2025-12-24 |
 | [Keep on Running](https://open.spotify.com/track/5W2RZqDpxq1NmulBL9E4Mh) | [The Mondays](https://open.spotify.com/artist/28myhZRVQ8kBkNLKKscJfb) | [Look How the Sky Turns Blue](https://open.spotify.com/album/3GQX0GkGCn4IUwjrlhWOiQ) | 2:37 | 2025-12-09 |  |
 | [Killers](https://open.spotify.com/track/4Zro22fXDS05ypKWJOasZZ) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [Astro Life](https://open.spotify.com/album/3n8oFyAMOOqIxsneTKj89I) | 4:10 | 2025-08-03 |  |
+| [kleinmut](https://open.spotify.com/track/2FILjSIzG7cAzom43equdp) | [bildervondrausen](https://open.spotify.com/artist/15LeNv7wDnxgZh1YeMRcap) | [kleinmut](https://open.spotify.com/album/4iRkAfSiVTpEVn429FCWkl) | 2:35 | 2025-12-26 |  |
 | [Komasaufen](https://open.spotify.com/track/69sHCQJp3lMPLTdyTo5ekv) | [Bierkenstock](https://open.spotify.com/artist/6EpNThKCVl7Fs0ebxfbQNJ) | [Komasaufen](https://open.spotify.com/album/2xJjp5yr1cLnkeCQGKWbJ4) | 1:49 | 2025-11-16 | 2025-12-10 |
 | [La La In The Rain](https://open.spotify.com/track/0EcvW7INA47qVlKjb48BMt) | [Noxura](https://open.spotify.com/artist/4H1RjP4HLvLn8QMRGsQTaV) | [The Way We Were](https://open.spotify.com/album/1gDp3NQOXNfpQnD2k0TtYQ) | 3:54 | 2025-12-21 |  |
 | [La Tua Mamma è Una Stronza](https://open.spotify.com/track/7cvbWbnySdvq89pCkM2ob0) | [PIMPLES MARMALADE](https://open.spotify.com/artist/0vWyPJdGVvJeEgyvCOUUGI) | [La Tua Mamma è Una Stronza](https://open.spotify.com/album/14zghGQAgrWa10SV4zEAeh) | 2:07 | 2025-12-13 |  |

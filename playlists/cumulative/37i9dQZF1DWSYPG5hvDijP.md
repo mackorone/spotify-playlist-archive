@@ -2,9 +2,9 @@
 
 ### [New Rap Hindi](https://open.spotify.com/playlist/37i9dQZF1DWSYPG5hvDijP)
 
-> Naya Hip\-Hop Hindi! Cover: Dino James
+> Naya Hip\-Hop Hindi! Cover: Emiway Bantai
 
-1,269 songs - 2 day 14 hr 3 min
+1,270 songs - 2 day 14 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -317,7 +317,7 @@
 | [Company](https://open.spotify.com/track/1eHkjvvyncnmjgwCSGI0el) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Company](https://open.spotify.com/album/7jgPKe6FNO62URMNko4jsL) | 3:42 | 2023-03-29 | 2023-07-21 |
 | [Confident](https://open.spotify.com/track/1q27kOWtftfdf4go5TVZG9) | [Shah Rule](https://open.spotify.com/artist/0GG56bFqGJ0zGjkOx7NTwm), [Bharg](https://open.spotify.com/artist/5mUENA9ewpJd5z9KuwOKrd), [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [Zero Chill](https://open.spotify.com/artist/2jQwPdXQ9R2yAi0eMZRQ1M) | [Confident](https://open.spotify.com/album/66cj7tHg9EZ6lqwwp5pPcN) | 3:39 | 2023-06-29 | 2023-11-18 |
 | [Contra Flow](https://open.spotify.com/track/2TZpzv7fLX7cMif7RFJWxO) | [Shinogun](https://open.spotify.com/artist/3TYyQaGY4U7XsW7Xe9OoAd), [ATH₹V](https://open.spotify.com/artist/6zlplf0txh3t0OYa3qvxA7), [SD Trojan](https://open.spotify.com/artist/3VDTWeuFLT1vx89QEa6iFE) | [Contra Flow](https://open.spotify.com/album/1s5sPOpUwUzQtJvO4wbQSN) | 3:03 | 2025-08-01 | 2025-09-13 |
-| [CRASHOUT](https://open.spotify.com/track/5Xi0c2cKdIbC9Y0NsnfqNA) | [Gravity](https://open.spotify.com/artist/7ti25GJHIRWZ5f1WN0T2zO) | [CRASHOUT](https://open.spotify.com/album/4eGRK0hoA1wQ5dqB3sFkiv) | 3:00 | 2025-11-21 |  |
+| [CRASHOUT](https://open.spotify.com/track/5Xi0c2cKdIbC9Y0NsnfqNA) | [Gravity](https://open.spotify.com/artist/7ti25GJHIRWZ5f1WN0T2zO) | [CRASHOUT](https://open.spotify.com/album/4eGRK0hoA1wQ5dqB3sFkiv) | 3:00 | 2025-11-21 | 2025-12-27 |
 | [Crazy](https://open.spotify.com/track/02mzbkLBfBJgIZ7oDcz1QA) | [Viren](https://open.spotify.com/artist/1UfQ6wLvSJXXwM3dfOZkPO) | [Crazy](https://open.spotify.com/album/3QcXAAxd1nPyYKV8YDh2Ir) | 2:36 | 2025-05-16 | 2025-07-12 |
 | [Credit Card](https://open.spotify.com/track/3tuYzZG4ARwxdQmGdiRVnM) | [Dino James](https://open.spotify.com/artist/45PG2L6Fh2XvYL4ONzpdoW), [Shah Rule](https://open.spotify.com/artist/0GG56bFqGJ0zGjkOx7NTwm), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Paapi](https://open.spotify.com/album/0qXrOfDOnrlbOpuw8OM1uE) | 2:39 | 2024-12-13 | 2025-02-01 |
 | [Criminal](https://open.spotify.com/track/0JVDfuJ10zfvTkucvStcBj) | [Kidshot](https://open.spotify.com/artist/0vZEDTIhGPOIRL0KjqMWTy), [Bella](https://open.spotify.com/artist/5gzMmZ8RKovEfs38ca7hkG), [CJ CHIRAG](https://open.spotify.com/artist/5FcuZLglRfOZQMF0tDPxDV) | [UNDERDAWGS](https://open.spotify.com/album/6hx7afn3VeZFBccByKX47n) | 3:15 | 2025-01-31 | 2025-03-01 |
@@ -947,6 +947,7 @@
 | [Pitbull](https://open.spotify.com/track/3xJwshLcC50ZXeioGmIcdl) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [thekidd.wav](https://open.spotify.com/artist/5LxqBfBqjhbVLjEL32oMj0) | [Pitbull](https://open.spotify.com/album/322Q4AdwCHgFfpFvKossNs) | 2:50 | 2024-07-19 | 2024-09-13 |
 | [Players](https://open.spotify.com/track/5TjVLCESR9XIp5vDAWYfmi) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Devika Badyal](https://open.spotify.com/artist/0V8aeNb0fnR2P8eZVrx3lI) | [Players](https://open.spotify.com/album/2ap6wepv8WNqHCxJiclPIL) | 2:51 | 2023-03-29 | 2023-04-17 |
 | [Podcast](https://open.spotify.com/track/6SorIaYYy2gcxL6ii2ZTWB) | [Bali](https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8), [Enzo](https://open.spotify.com/artist/0QX0UY2UJtnhfEbqUbTz6h) | [Kala Khatta](https://open.spotify.com/album/2Q8cshgnazmxzQbvBGv043) | 2:48 | 2025-04-25 | 2025-06-21 |
+| [Poison](https://open.spotify.com/track/40fc1WpacwRurk5LIJfSrf) | [HD Boy](https://open.spotify.com/artist/5eQ1hI6udxbnQaldpQpdlH), [B39](https://open.spotify.com/artist/5E0yQTykn9dslVKaLaA2T0) | [Poison](https://open.spotify.com/album/0GlK5lIzKIoo30Vt3WaZZ6) | 2:44 | 2025-12-26 |  |
 | [POLARIS](https://open.spotify.com/track/3CBZQE2UU71lPmKvfHd8tb) | [DRV](https://open.spotify.com/artist/0PJdf4ZWQLaf8LwQBDbqUL), [Bombay the Artist](https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ) | [POLARIS](https://open.spotify.com/album/3tM5tWzzX8LZpk7iTH5p3o) | 2:03 | 2024-11-20 | 2024-12-14 |
 | [Poochti](https://open.spotify.com/track/0TyWBdoQkfP9w2Bvliszlv) | [RAAHI](https://open.spotify.com/artist/1cMX96QGnF6woy17Kmsmy7), [Ether](https://open.spotify.com/artist/3hVZpj326eZpEm31GbKZYh) | [Poochti](https://open.spotify.com/album/06gOu1DlfRu8ybIOxoSnPl) | 2:19 | 2025-08-05 | 2025-09-13 |
 | [Poppin Pills](https://open.spotify.com/track/1ZTk7g48SM2bz6IYbhubKy) | [Jynn](https://open.spotify.com/artist/5nDYhcu9LVnrX1MqsnT2iu) | [Poppin Pills](https://open.spotify.com/album/64UqM5WlkZzn8I7qmhqzIw) | 2:58 | 2024-03-28 | 2024-05-16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 
 > New arrivals as they come\. Cover: Nafe Smallz
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,169 likes - 48 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,186 likes - 48 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 | 47 | [All On Me \(feat\. G Herbo\)](https://open.spotify.com/track/0pVYhms1xQW1TFsyl1SDmH) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [All On Me \(feat\. G Herbo\)](https://open.spotify.com/album/3pxhs8CANAHUxndAVWAjvL) | 3:39 |
 | 48 | [MARCH](https://open.spotify.com/track/7zPqfEr2mvXfDbPYaJhaJd) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [MARCH](https://open.spotify.com/album/5D2Bdw5Lwvsfd7RZcTXNAE) | 2:50 |
 
-Snapshot ID: `AAAAAOFMoxDvyqd0QV21pNw3SIzwRJCG`
+Snapshot ID: `AAAAABwk+rA2YS2CNYlcq4pSKKL5qzlz`

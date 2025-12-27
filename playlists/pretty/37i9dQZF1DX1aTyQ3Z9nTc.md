@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aTyQ3Z9nTc.md) - [plain]
 
 > KAYTRANADA celebrates the release of his new album with a takeover with that bouncy, groovy, dancey sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,736 likes - 39 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,732 likes - 39 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "The magical world map! Play it in shuffle \u2600\ufe0f",
-  "num_followers": 127713,
+  "num_followers": 127751,
   "original_name": "Bon Voyage",
   "owner": {
     "name": "Spotify",
@@ -115,6 +115,22 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
+        "name": "Caminhos Do Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/4a7f5kh2eaSyhDE4LCn4T0"
+      },
+      "artists": [
+        {
+          "name": "Gonzaguinha",
+          "url": "https://open.spotify.com/artist/1LOFaxDBvn3YuvarTldGAe"
+        }
+      ],
+      "duration_ms": 258986,
+      "name": "O Que \u00c9 O Que \u00c9?",
+      "url": "https://open.spotify.com/track/2CoKGyZavJWTFUPyvWoj0b"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
         "name": "For\u00e7a Bruta",
         "url": "https://open.spotify.com/album/12G0eYu3u8ZwdstT1flUXw"
       },
@@ -131,22 +147,6 @@
       "duration_ms": 252506,
       "name": "Oba, L\u00e1 Vem Ela",
       "url": "https://open.spotify.com/track/6MCaOLDl0epJPRN76H5S4N"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
-        "name": "Caminhos Do Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/4a7f5kh2eaSyhDE4LCn4T0"
-      },
-      "artists": [
-        {
-          "name": "Gonzaguinha",
-          "url": "https://open.spotify.com/artist/1LOFaxDBvn3YuvarTldGAe"
-        }
-      ],
-      "duration_ms": 258986,
-      "name": "O Que \u00c9 O Que \u00c9?",
-      "url": "https://open.spotify.com/track/2CoKGyZavJWTFUPyvWoj0b"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -191,22 +191,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Stereo-Typical: A's, B's & Rarities",
-        "url": "https://open.spotify.com/album/0EKaJQaxiszKS8DBUDhbtz"
-      },
-      "artists": [
-        {
-          "name": "The Specials",
-          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
-        }
-      ],
-      "duration_ms": 219306,
-      "name": "Ghost Town",
-      "url": "https://open.spotify.com/track/6ewN9MaFbi78oDLT9wYDgn"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "Uptown Top Ranking",
         "url": "https://open.spotify.com/album/1FWimRgPFwDVyVlHe9EEnP"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 229160,
       "name": "Uptown Top Ranking - Remastered 2001",
       "url": "https://open.spotify.com/track/34zWZOSpU2V1ab0PiZCcv4"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "Stereo-Typical: A's, B's & Rarities",
+        "url": "https://open.spotify.com/album/0EKaJQaxiszKS8DBUDhbtz"
+      },
+      "artists": [
+        {
+          "name": "The Specials",
+          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+        }
+      ],
+      "duration_ms": 219306,
+      "name": "Ghost Town",
+      "url": "https://open.spotify.com/track/6ewN9MaFbi78oDLT9wYDgn"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -355,22 +355,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Yorumcu",
-        "url": "https://open.spotify.com/album/6LnGhVLzQPFRJtRKvlNKg8"
-      },
-      "artists": [
-        {
-          "name": "\u00d6zdemir Erdo\u011fan",
-          "url": "https://open.spotify.com/artist/691svprNZf0oJTi1L0eYy6"
-        }
-      ],
-      "duration_ms": 206506,
-      "name": "Gurbet",
-      "url": "https://open.spotify.com/track/2cJhhpxflevAtPFku1kxID"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "Martinho da Vila",
         "url": "https://open.spotify.com/album/6ime25jnzjF1foE0e5RCYB"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 153440,
       "name": "Canta Canta, Minha Gente",
       "url": "https://open.spotify.com/track/57E1ka54d8zrIy0VzE1EAV"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "Yorumcu",
+        "url": "https://open.spotify.com/album/6LnGhVLzQPFRJtRKvlNKg8"
+      },
+      "artists": [
+        {
+          "name": "\u00d6zdemir Erdo\u011fan",
+          "url": "https://open.spotify.com/artist/691svprNZf0oJTi1L0eYy6"
+        }
+      ],
+      "duration_ms": 206506,
+      "name": "Gurbet",
+      "url": "https://open.spotify.com/track/2cJhhpxflevAtPFku1kxID"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -499,18 +499,22 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Jorge Ben",
-        "url": "https://open.spotify.com/album/3V3XJ3Sh62jPUYUMSQ1Tsf"
+        "name": "Estrellas Corraleras - Fundadores de la Cumbia Colombiana",
+        "url": "https://open.spotify.com/album/5HthmfIydsx1AIrsdyjP99"
       },
       "artists": [
         {
-          "name": "Jorge Ben Jor",
-          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
+          "name": "Los Corraleros De Majagual",
+          "url": "https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4"
+        },
+        {
+          "name": "Calixto Ochoa",
+          "url": "https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc"
         }
       ],
-      "duration_ms": 250666,
-      "name": "Pa\u00eds Tropical",
-      "url": "https://open.spotify.com/track/4877bJ149OUJZHTiU5Jg8P"
+      "duration_ms": 162826,
+      "name": "Los Sabanales",
+      "url": "https://open.spotify.com/track/1CkC4DWgPvj4eEMgxcs0me"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -535,6 +539,22 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
+        "name": "Jorge Ben",
+        "url": "https://open.spotify.com/album/3V3XJ3Sh62jPUYUMSQ1Tsf"
+      },
+      "artists": [
+        {
+          "name": "Jorge Ben Jor",
+          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
+        }
+      ],
+      "duration_ms": 250666,
+      "name": "Pa\u00eds Tropical",
+      "url": "https://open.spotify.com/track/4877bJ149OUJZHTiU5Jg8P"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
         "name": "Mordechai",
         "url": "https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb"
       },
@@ -547,26 +567,6 @@
       "duration_ms": 167972,
       "name": "Pelota",
       "url": "https://open.spotify.com/track/6FNdzxV9g4NaINrejBTPUi"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
-        "name": "Estrellas Corraleras - Fundadores de la Cumbia Colombiana",
-        "url": "https://open.spotify.com/album/5HthmfIydsx1AIrsdyjP99"
-      },
-      "artists": [
-        {
-          "name": "Los Corraleros De Majagual",
-          "url": "https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4"
-        },
-        {
-          "name": "Calixto Ochoa",
-          "url": "https://open.spotify.com/artist/1kclvXVC4HRnMB8QtJRBDc"
-        }
-      ],
-      "duration_ms": 162826,
-      "name": "Los Sabanales",
-      "url": "https://open.spotify.com/track/1CkC4DWgPvj4eEMgxcs0me"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -599,22 +599,6 @@
       "duration_ms": 158400,
       "name": "Alvorada",
       "url": "https://open.spotify.com/track/5rmXEZIh63y5yInImoXvzF"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
-        "name": "Jorge Ben",
-        "url": "https://open.spotify.com/album/3V3XJ3Sh62jPUYUMSQ1Tsf"
-      },
-      "artists": [
-        {
-          "name": "Jorge Ben Jor",
-          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
-        }
-      ],
-      "duration_ms": 155666,
-      "name": "Take It Easy My Brother Charles",
-      "url": "https://open.spotify.com/track/399Hm1oqfzzQaZRu3CtVMb"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -691,6 +675,22 @@
       "duration_ms": 284640,
       "name": "Fuego En El 23",
       "url": "https://open.spotify.com/track/5EX3Q9GWGMtvvugQFkNTUb"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "Jorge Ben",
+        "url": "https://open.spotify.com/album/3V3XJ3Sh62jPUYUMSQ1Tsf"
+      },
+      "artists": [
+        {
+          "name": "Jorge Ben Jor",
+          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
+        }
+      ],
+      "duration_ms": 155666,
+      "name": "Take It Easy My Brother Charles",
+      "url": "https://open.spotify.com/track/399Hm1oqfzzQaZRu3CtVMb"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -911,22 +911,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Magnetica",
-        "url": "https://open.spotify.com/album/1M6ierIXoblyoKVFeffCtr"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        }
-      ],
-      "duration_ms": 230746,
-      "name": "Sol Clap",
-      "url": "https://open.spotify.com/track/54f08k7H92QH8RbfRZx8bl"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "Di Melo",
         "url": "https://open.spotify.com/album/2Uri1KkpSo6YOnjLC4ly7F"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 167533,
       "name": "Kilario",
       "url": "https://open.spotify.com/track/00Xcf47ApZUt6omH2RgdUM"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "Magnetica",
+        "url": "https://open.spotify.com/album/1M6ierIXoblyoKVFeffCtr"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        }
+      ],
+      "duration_ms": 230746,
+      "name": "Sol Clap",
+      "url": "https://open.spotify.com/track/54f08k7H92QH8RbfRZx8bl"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Introducing",
-        "url": "https://open.spotify.com/album/4aH9hHamrsRzZm4oSzfcZH"
-      },
-      "artists": [
-        {
-          "name": "Ruben Gonzalez",
-          "url": "https://open.spotify.com/artist/00n4Vljc6N9pvJ26SKPphh"
-        }
-      ],
-      "duration_ms": 275293,
-      "name": "Cumbanchero",
-      "url": "https://open.spotify.com/track/6pZYhibuXUulNR6SBDzb5a"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "The Very Best of The Dixie Cups: Chapel of Love",
         "url": "https://open.spotify.com/album/3r8dNiqNnFU7hNmQH5Reb8"
       },
@@ -1139,18 +1123,18 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Afro-Harping",
-        "url": "https://open.spotify.com/album/1XEPKavl3nlI2qVt8HuA5n"
+        "name": "Introducing",
+        "url": "https://open.spotify.com/album/4aH9hHamrsRzZm4oSzfcZH"
       },
       "artists": [
         {
-          "name": "Dorothy Ashby",
-          "url": "https://open.spotify.com/artist/0dAZ2slrElfR0Y5flcoSPt"
+          "name": "Ruben Gonzalez",
+          "url": "https://open.spotify.com/artist/00n4Vljc6N9pvJ26SKPphh"
         }
       ],
-      "duration_ms": 225293,
-      "name": "Little Sunflower",
-      "url": "https://open.spotify.com/track/3A6e928yOFJ0MhlG7xrFDW"
+      "duration_ms": 275293,
+      "name": "Cumbanchero",
+      "url": "https://open.spotify.com/track/6pZYhibuXUulNR6SBDzb5a"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -1167,6 +1151,22 @@
       "duration_ms": 256359,
       "name": "Rico Coco",
       "url": "https://open.spotify.com/track/2PeL87VR4IqFzr2oyBvNnm"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "Afro-Harping",
+        "url": "https://open.spotify.com/album/1XEPKavl3nlI2qVt8HuA5n"
+      },
+      "artists": [
+        {
+          "name": "Dorothy Ashby",
+          "url": "https://open.spotify.com/artist/0dAZ2slrElfR0Y5flcoSPt"
+        }
+      ],
+      "duration_ms": 225293,
+      "name": "Little Sunflower",
+      "url": "https://open.spotify.com/track/3A6e928yOFJ0MhlG7xrFDW"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Dead Dance",
-        "url": "https://open.spotify.com/album/0nfcLVTGduT5B7ywAGByqO"
+        "name": "Cantiga De Longe",
+        "url": "https://open.spotify.com/album/5S7lcrRerABwsWzHisYsxP"
       },
       "artists": [
         {
-          "name": "Opez",
-          "url": "https://open.spotify.com/artist/4lOGYCKkqGyEYCe67YCETK"
+          "name": "Edu Lobo",
+          "url": "https://open.spotify.com/artist/6u5P4S3NSj4EDNegDlOevO"
         }
       ],
-      "duration_ms": 215056,
-      "name": "Balera De Mar",
-      "url": "https://open.spotify.com/track/6utYINltaI9TB6xjpNFXQS"
+      "duration_ms": 170666,
+      "name": "Zum-Zum",
+      "url": "https://open.spotify.com/track/4ApvuCjlZNe3RoIFoBX29y"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Cantiga De Longe",
-        "url": "https://open.spotify.com/album/5S7lcrRerABwsWzHisYsxP"
+        "name": "Dead Dance",
+        "url": "https://open.spotify.com/album/0nfcLVTGduT5B7ywAGByqO"
       },
       "artists": [
         {
-          "name": "Edu Lobo",
-          "url": "https://open.spotify.com/artist/6u5P4S3NSj4EDNegDlOevO"
+          "name": "Opez",
+          "url": "https://open.spotify.com/artist/4lOGYCKkqGyEYCe67YCETK"
         }
       ],
-      "duration_ms": 170666,
-      "name": "Zum-Zum",
-      "url": "https://open.spotify.com/track/4ApvuCjlZNe3RoIFoBX29y"
+      "duration_ms": 215056,
+      "name": "Balera De Mar",
+      "url": "https://open.spotify.com/track/6utYINltaI9TB6xjpNFXQS"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -1423,22 +1423,22 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "\u00c7a fait 2x plus de bien",
-        "url": "https://open.spotify.com/album/5v03jp3rrC4R0AVFlMsMAE"
+        "name": "Linha De Passe",
+        "url": "https://open.spotify.com/album/5hP8pHRsoC1ySE4wVc9wcH"
       },
       "artists": [
         {
-          "name": "Antonin",
-          "url": "https://open.spotify.com/artist/5Z1r1R8kuSh4FRdQh7kzmC"
+          "name": "Jo\u00e3o Bosco",
+          "url": "https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH"
         },
         {
-          "name": "Voilaaa",
-          "url": "https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1"
+          "name": "Angela Maria",
+          "url": "https://open.spotify.com/artist/4SKChJZZUJd8fD4ZbkpL6l"
         }
       ],
-      "duration_ms": 208153,
-      "name": "\u00c7a fait du bien - Voilaaa Remix",
-      "url": "https://open.spotify.com/track/35iCo2B0jaGwYpaFP2fFZ8"
+      "duration_ms": 200240,
+      "name": "O B\u00eabado e a Equilibrista",
+      "url": "https://open.spotify.com/track/3bgRCx8adxUZT7It3ryrWU"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -1475,38 +1475,22 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Linha De Passe",
-        "url": "https://open.spotify.com/album/5hP8pHRsoC1ySE4wVc9wcH"
+        "name": "\u00c7a fait 2x plus de bien",
+        "url": "https://open.spotify.com/album/5v03jp3rrC4R0AVFlMsMAE"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Bosco",
-          "url": "https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH"
+          "name": "Antonin",
+          "url": "https://open.spotify.com/artist/5Z1r1R8kuSh4FRdQh7kzmC"
         },
         {
-          "name": "Angela Maria",
-          "url": "https://open.spotify.com/artist/4SKChJZZUJd8fD4ZbkpL6l"
+          "name": "Voilaaa",
+          "url": "https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1"
         }
       ],
-      "duration_ms": 200240,
-      "name": "O B\u00eabado e a Equilibrista",
-      "url": "https://open.spotify.com/track/3bgRCx8adxUZT7It3ryrWU"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
-        "name": "L\u00f4 Borges",
-        "url": "https://open.spotify.com/album/0fXZAZ5XejnxhgRV38SH5I"
-      },
-      "artists": [
-        {
-          "name": "L\u00f4 Borges",
-          "url": "https://open.spotify.com/artist/1mZbRiSVb2ExneAlDbBiiT"
-        }
-      ],
-      "duration_ms": 183973,
-      "name": "Eu Sou Como Voc\u00ea \u00c9",
-      "url": "https://open.spotify.com/track/7uE2uoR0R3fDmbC7517Xej"
+      "duration_ms": 208153,
+      "name": "\u00c7a fait du bien - Voilaaa Remix",
+      "url": "https://open.spotify.com/track/35iCo2B0jaGwYpaFP2fFZ8"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -1523,6 +1507,22 @@
       "duration_ms": 140706,
       "name": "Perfidia",
       "url": "https://open.spotify.com/track/3QQl3tSiEooVLQvC8IT5EE"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "L\u00f4 Borges",
+        "url": "https://open.spotify.com/album/0fXZAZ5XejnxhgRV38SH5I"
+      },
+      "artists": [
+        {
+          "name": "L\u00f4 Borges",
+          "url": "https://open.spotify.com/artist/1mZbRiSVb2ExneAlDbBiiT"
+        }
+      ],
+      "duration_ms": 183973,
+      "name": "Eu Sou Como Voc\u00ea \u00c9",
+      "url": "https://open.spotify.com/track/7uE2uoR0R3fDmbC7517Xej"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Tropical Suite",
-        "url": "https://open.spotify.com/album/6C67gFfjaikafMKHgHHit3"
+        "name": "\u00c9 Proibido Fumar (Remasterizado)",
+        "url": "https://open.spotify.com/album/0T4Oun2SB4oIuy9w9Qgw6v"
       },
       "artists": [
         {
-          "name": "Poni Hoax",
-          "url": "https://open.spotify.com/artist/7Dl9ZgaSmEt7a8aWMlAHXD"
+          "name": "Roberto Carlos",
+          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
         }
       ],
-      "duration_ms": 126973,
-      "name": "Tropical Suite: S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/7Aa0lfRO9KDcVi7zLpCjTH"
+      "duration_ms": 141026,
+      "name": "O Calhambeque (Road Hog) - Vers\u00e3o remasterizada",
+      "url": "https://open.spotify.com/track/5fI3VyojzKwYROh9b7cgRQ"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "\u00c9 Proibido Fumar (Remasterizado)",
-        "url": "https://open.spotify.com/album/0T4Oun2SB4oIuy9w9Qgw6v"
+        "name": "Tropical Suite",
+        "url": "https://open.spotify.com/album/6C67gFfjaikafMKHgHHit3"
       },
       "artists": [
         {
-          "name": "Roberto Carlos",
-          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
+          "name": "Poni Hoax",
+          "url": "https://open.spotify.com/artist/7Dl9ZgaSmEt7a8aWMlAHXD"
         }
       ],
-      "duration_ms": 141026,
-      "name": "O Calhambeque (Road Hog) - Vers\u00e3o remasterizada",
-      "url": "https://open.spotify.com/track/5fI3VyojzKwYROh9b7cgRQ"
+      "duration_ms": 126973,
+      "name": "Tropical Suite: S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/7Aa0lfRO9KDcVi7zLpCjTH"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -1691,18 +1691,18 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Luv N' Haight (Edit Series: Mike James Kirkland), Vol.1",
-        "url": "https://open.spotify.com/album/1cCDZKjCm03bFHjSnh5qPd"
+        "name": "Di Melo",
+        "url": "https://open.spotify.com/album/2Uri1KkpSo6YOnjLC4ly7F"
       },
       "artists": [
         {
-          "name": "Mike James Kirkland",
-          "url": "https://open.spotify.com/artist/7i8I9JnERHRALditUnoC0v"
+          "name": "Di Melo",
+          "url": "https://open.spotify.com/artist/4KyZtyl55zzHoBJUp07Doe"
         }
       ],
-      "duration_ms": 149626,
-      "name": "There's Nothing I Can Do About It",
-      "url": "https://open.spotify.com/track/5GsTTFveyY7KNH3lYZcWQh"
+      "duration_ms": 222093,
+      "name": "A Vida Em Seus M\u00e9todos Diz Calma",
+      "url": "https://open.spotify.com/track/6niY7onsGQgK2sgF9XrYir"
     }
   ],
   "unique_name": "Bon Voyage",

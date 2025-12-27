@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKXUMvNszVK.md) - [plain]
 
 > <a href="spotify:artist:5YFS41yoX0YuFY39fq21oN">Bob Sinclar</a>'s favourite tracks\. Updated regularly\. Curated by Bob Sinclar\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 784 likes - 62 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 860 likes - 62 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKXUMvNszVK.md) - [plain]
 | 61 | [La La Land \- Radio Edit](https://open.spotify.com/track/33BwJL3RsOtnzNq3u6sTAB) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [La La Land](https://open.spotify.com/album/3B6zro5mGUn8HvzO0odvyK) | 3:26 |
 | 62 | [Bad Decisions \- Purple Disco Machine Remix](https://open.spotify.com/track/0m902KgphfY1cKdWmxNGPX) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Bad Decisions \(Remixes\)](https://open.spotify.com/album/6Q04p0pmhO1yGB4Y4okPEh) | 7:44 |
 
-Snapshot ID: `AAAAAHxjRRX7aosZvk/MbEerzoa6rGKV`
+Snapshot ID: `AAAAAP0Djx4MlSIJLa/eRnoaG+xvaAnT`

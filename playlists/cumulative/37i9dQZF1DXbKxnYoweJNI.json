@@ -989,6 +989,24 @@
     },
     {
       "album": {
+        "name": "words",
+        "url": "https://open.spotify.com/album/6iUzLAEz06We6TaO9WhVrH"
+      },
+      "artists": [
+        {
+          "name": "LIU KOI",
+          "url": "https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE"
+        }
+      ],
+      "date_added": "2025-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "a few more words away",
+      "url": "https://open.spotify.com/track/4IcCb1SDDw9aDGOUCNWQyu"
+    },
+    {
+      "album": {
         "name": "A Letter for You",
         "url": "https://open.spotify.com/album/5xsYHHUcfd5BwnoUgVrYDL"
       },
@@ -7471,6 +7489,24 @@
     },
     {
       "album": {
+        "name": "Gameboy",
+        "url": "https://open.spotify.com/album/2gf7Y3dfD2vBrjPdqVgccD"
+      },
+      "artists": [
+        {
+          "name": "\u5f48\u6bbcDanko",
+          "url": "https://open.spotify.com/artist/3fkwbLdzv3rzPg19f2YHOL"
+        }
+      ],
+      "date_added": "2025-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149090,
+      "name": "Gameboy",
+      "url": "https://open.spotify.com/track/4kXyC2FuoORHDagJtm0cLY"
+    },
+    {
+      "album": {
         "name": "RUN, DON'T WALK",
         "url": "https://open.spotify.com/album/75BE0SxpA5kTgyQDgJa5eV"
       },
@@ -10405,8 +10441,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Just \u675c it",
+        "url": "https://open.spotify.com/album/5LUj0ceqib3dipYRBBW18k"
       },
       "artists": [
         {
@@ -19961,24 +19997,6 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
-      },
-      "artists": [
-        {
-          "name": "LIU KOI",
-          "url": "https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE"
-        }
-      ],
-      "date_added": "2025-12-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 6",
-      "url": "https://open.spotify.com/track/4IcCb1SDDw9aDGOUCNWQyu"
-    },
-    {
-      "album": {
         "name": "Training Day",
         "url": "https://open.spotify.com/album/4M5GRu8w27qFOnF7Ue44A5"
       },
@@ -27203,8 +27221,8 @@
     },
     {
       "album": {
-        "name": "",
-        "url": "https://open.spotify.com/album/null"
+        "name": "Welcome 8ack",
+        "url": "https://open.spotify.com/album/5bX4FeTMa8Yx5QB3kDUYLI"
       },
       "artists": [
         {

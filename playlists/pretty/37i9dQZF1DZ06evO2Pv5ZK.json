@@ -1,12 +1,12 @@
 {
   "description": "This is Vangelis. The essential tracks, all in one playlist.",
-  "num_followers": 110375,
+  "num_followers": 110381,
   "original_name": "This Is Vangelis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUstAAAAAACC8SwHwL6wgEH14Llq0RJj",
+  "snapshot_id": "aUx+gAAAAAAwphld0h0QFnAXzb/kYwxt",
   "tracks": [
     {
       "added_at": null,
@@ -43,6 +43,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blade Runner (Music From The Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Rachel's Song",
+      "url": "https://open.spotify.com/track/5JtTSaH8W6UVqViPgpcqTq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Voices",
         "url": "https://open.spotify.com/album/5eQftRGnqOO9cp86ULqc8f"
       },
@@ -63,22 +79,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blade Runner (Music From The Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "Rachel's Song",
-      "url": "https://open.spotify.com/track/5JtTSaH8W6UVqViPgpcqTq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1492: Conquest of Paradise",
         "url": "https://open.spotify.com/album/1Bof5WLdaxLYn3owI7CCx0"
       },
@@ -91,22 +91,6 @@
       "duration_ms": 218960,
       "name": "Monastery of La Rabida",
       "url": "https://open.spotify.com/track/0v6FuCt6q776u7DzFMOPi0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chariots Of Fire (Original Motion Picture Soundtrack / Remastered)",
-        "url": "https://open.spotify.com/album/2G0x71VHZ7XLJlm56LzVX2"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 213893,
-      "name": "Titles",
-      "url": "https://open.spotify.com/track/36qn2bFfZzUwM6eIv2XOc9"
     },
     {
       "added_at": null,
@@ -143,6 +127,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chariots Of Fire (Original Motion Picture Soundtrack / Remastered)",
+        "url": "https://open.spotify.com/album/2G0x71VHZ7XLJlm56LzVX2"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 213893,
+      "name": "Titles",
+      "url": "https://open.spotify.com/track/36qn2bFfZzUwM6eIv2XOc9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "1492: Conquest of Paradise",
         "url": "https://open.spotify.com/album/1Bof5WLdaxLYn3owI7CCx0"
       },
@@ -175,22 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chariots Of Fire (Original Motion Picture Soundtrack / Remastered)",
-        "url": "https://open.spotify.com/album/2G0x71VHZ7XLJlm56LzVX2"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 200466,
-      "name": "Abraham's Theme",
-      "url": "https://open.spotify.com/track/463b8SF7KXrU5oqHgZKSOc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blade Runner (Music From The Original Soundtrack)",
         "url": "https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 180933,
       "name": "Tears in Rain",
       "url": "https://open.spotify.com/track/2LxEIWrZkzfc55c3rk05DH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chariots Of Fire (Original Motion Picture Soundtrack / Remastered)",
+        "url": "https://open.spotify.com/album/2G0x71VHZ7XLJlm56LzVX2"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 200466,
+      "name": "Abraham's Theme",
+      "url": "https://open.spotify.com/track/463b8SF7KXrU5oqHgZKSOc"
     },
     {
       "added_at": null,
@@ -239,22 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Opera sauvage (Remastered)",
-        "url": "https://open.spotify.com/album/0YPLuuOxGRoJ0mSW5qryx8"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 164133,
-      "name": "Hymne - Remastered",
-      "url": "https://open.spotify.com/track/1C128gNLnz7jXsQRQ6QYXn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blade Runner (Music From The Original Soundtrack)",
         "url": "https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 305026,
       "name": "Memories of Green",
       "url": "https://open.spotify.com/track/0rHCW5eZ35QmQNVYyozAnZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Opera sauvage (Remastered)",
+        "url": "https://open.spotify.com/album/0YPLuuOxGRoJ0mSW5qryx8"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 164133,
+      "name": "Hymne - Remastered",
+      "url": "https://open.spotify.com/track/1C128gNLnz7jXsQRQ6QYXn"
     },
     {
       "added_at": null,
@@ -303,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nocturne",
-        "url": "https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 312826,
-      "name": "Through the Night Mist",
-      "url": "https://open.spotify.com/track/5KFCziFQEYdfeT0BjiY0S5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blade Runner (Music From The Original Soundtrack)",
         "url": "https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 534400,
       "name": "Blade Runner Blues",
       "url": "https://open.spotify.com/track/575blCgesVtCu0HEYaIcas"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nocturne",
+        "url": "https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 312826,
+      "name": "Through the Night Mist",
+      "url": "https://open.spotify.com/track/5KFCziFQEYdfeT0BjiY0S5"
     },
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Opera sauvage (Remastered)",
-        "url": "https://open.spotify.com/album/0YPLuuOxGRoJ0mSW5qryx8"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 300773,
-      "name": "L'enfant - Remastered",
-      "url": "https://open.spotify.com/track/6u6CKQx7QIiH4krd3MWfTa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blade Runner (Music From The Original Soundtrack)",
         "url": "https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 222373,
       "name": "Main Titles",
       "url": "https://open.spotify.com/track/6baN5nSUIVTsUyugSuAj7U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Opera sauvage (Remastered)",
+        "url": "https://open.spotify.com/album/0YPLuuOxGRoJ0mSW5qryx8"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 300773,
+      "name": "L'enfant - Remastered",
+      "url": "https://open.spotify.com/track/6u6CKQx7QIiH4krd3MWfTa"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Voices",
-        "url": "https://open.spotify.com/album/5eQftRGnqOO9cp86ULqc8f"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 126093,
-      "name": "P.S.",
-      "url": "https://open.spotify.com/track/5RMXXGILiMtXMkZb8jxdZ9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nocturne",
         "url": "https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK"
       },
@@ -659,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Best Of",
-        "url": "https://open.spotify.com/album/6sPYk2K1ZoF9mJJfF1Yp39"
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/5eQftRGnqOO9cp86ULqc8f"
       },
       "artists": [
         {
@@ -668,25 +652,9 @@
           "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
         }
       ],
-      "duration_ms": 331426,
-      "name": "12 O'Clock",
-      "url": "https://open.spotify.com/track/5cijIVFJvAeCTn933Pr6xW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Albedo 0.39",
-        "url": "https://open.spotify.com/album/7M2EhhKnJYcmluPNzmB35N"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 344293,
-      "name": "Alpha",
-      "url": "https://open.spotify.com/track/1qkp9OvCk8FjeDdEd2bKQ6"
+      "duration_ms": 126093,
+      "name": "P.S.",
+      "url": "https://open.spotify.com/track/5RMXXGILiMtXMkZb8jxdZ9"
     },
     {
       "added_at": null,
@@ -707,6 +675,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/6sPYk2K1ZoF9mJJfF1Yp39"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 331426,
+      "name": "12 O'Clock",
+      "url": "https://open.spotify.com/track/5cijIVFJvAeCTn933Pr6xW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nocturne",
         "url": "https://open.spotify.com/album/7qPDZeOI1K9I1PwAZXhewK"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 326653,
       "name": "Main Theme - From \"Chariots of Fire\"",
       "url": "https://open.spotify.com/track/48UwCtPwY0XMXEyMWXumK1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Albedo 0.39",
+        "url": "https://open.spotify.com/album/7M2EhhKnJYcmluPNzmB35N"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 344293,
+      "name": "Alpha",
+      "url": "https://open.spotify.com/track/1qkp9OvCk8FjeDdEd2bKQ6"
     },
     {
       "added_at": null,
@@ -811,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The City",
-        "url": "https://open.spotify.com/album/5YisV9UHQtoAZHtbLrva9r"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 297666,
-      "name": "Twilight",
-      "url": "https://open.spotify.com/track/6o3wjXTROS51upZkU9Fk07"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oceanic",
         "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 152906,
       "name": "Bon Voyage",
       "url": "https://open.spotify.com/track/1vNxtrQYbr9w3wwmslzNR3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The City",
+        "url": "https://open.spotify.com/album/5YisV9UHQtoAZHtbLrva9r"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 297666,
+      "name": "Twilight",
+      "url": "https://open.spotify.com/track/6o3wjXTROS51upZkU9Fk07"
     }
   ],
   "unique_name": "This Is Vangelis",

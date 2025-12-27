@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,653 likes - 54 songs - 3 hr 28 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,654 likes - 56 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,5 +62,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 52 | [Ganho Ou Perco?](https://open.spotify.com/track/7A5YUDJZjBHV7pU71cEFW4) | [J.V\. Ferreira](https://open.spotify.com/artist/71IyZPuWgamI0vGHr0YKj7) | [Ganho Ou Perco?](https://open.spotify.com/album/0KFl9FoQhS7YNvok86360L) | 5:41 |
 | 53 | [Mi Porción Del Cielo](https://open.spotify.com/track/0j2FJ9VZRxyveO8nm28o1p) | [Jimmy Molina](https://open.spotify.com/artist/3mVMWQayvasA1ugv6dy35e) | [Mi Porción Del Cielo](https://open.spotify.com/album/2IcSq6ZZPiJGoaIFBFuAl5) | 2:40 |
 | 54 | [Let's Do Soap Lake](https://open.spotify.com/track/3LQBUJDSUny21OKZ2saHNQ) | [Soap Lake Better Together](https://open.spotify.com/artist/4SDAWGysmZrEJJrHFGPAhh) | [Let's Do Soap Lake](https://open.spotify.com/album/4375IpDbyY4cetTy1fWC9v) | 3:26 |
+| 55 | [I Think They Call This Love](https://open.spotify.com/track/6YHGbYKvy86vX2AQgFkEHj) | [Luke Buwalda](https://open.spotify.com/artist/2tttx8FVZKPHl7WbnXHOAJ) | [I Think They Call This Love](https://open.spotify.com/album/7CD8kGEMKuOvoSkZSVVyNj) | 3:11 |
+| 56 | [Princesa de Noche](https://open.spotify.com/track/7MIANoT9Z4Fen2OVxkUPHB) | [Salva Merino](https://open.spotify.com/artist/0yXBaiTj2LM4ZqAJKeHnDJ), [The Insomnia Night](https://open.spotify.com/artist/1kf6je9RrHLLxg5ocFLVbD) | [Princesa de Noche](https://open.spotify.com/album/1gc6uSi9f5jisAR41OGf5Y) | 4:06 |
 
-Snapshot ID: `AAAKRbBrbM9MdYqLiqgSBBZXLLayFYow`
+Snapshot ID: `AAAKR5lLfDcT73rWpVhnJELv5qkEX/GW`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 💯 Suomi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,288 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,273 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 49 | [Luodinreikii](https://open.spotify.com/track/3ArbpCWFEAMJ6TPzQ8e0IG) | [AK](https://open.spotify.com/artist/38b5eLE9GRCgiFTHullqv7) | [Luodinreikii](https://open.spotify.com/album/6V2O4arkwz5oodSnO3Tv1o) | 2:42 |
 | 50 | [Jos se must on kii \(feat\. Ares & Elastinen\)](https://open.spotify.com/track/599LaM9qaYIOe5mJa2lXxk) | [Danitello](https://open.spotify.com/artist/2pDOEMG8cZjRjsf8sQWLeE), [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI) | [Jos se must on kii \(feat\. Ares & Elastinen\)](https://open.spotify.com/album/7GsHjQ9SptXSAhfCXdRr8B) | 3:01 |
 
-Snapshot ID: `AAAAAEnmM8/YbOxnHoHbn9HA1S7ajYSM`
+Snapshot ID: `AAAAAOqWHyBvDcXkWMvsyiMHbGSAkYh0`

@@ -1,6 +1,6 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: Meridian Brothers",
-  "num_followers": 344797,
+  "num_followers": 344788,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
@@ -787,6 +787,22 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
+        "name": "\u00bfQu\u00e9 Jue?",
+        "url": "https://open.spotify.com/album/25Zwhmx8aMwQy3zL2LJX4m"
+      },
+      "artists": [
+        {
+          "name": "Romperayo",
+          "url": "https://open.spotify.com/artist/1Ey12Gi2P3PNPBsz39cncu"
+        }
+      ],
+      "duration_ms": 205160,
+      "name": "\u00bfQu\u00e9 Jue?",
+      "url": "https://open.spotify.com/track/1akEZAtudgbskIwOiKt4oD"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
         "name": "Trending Tropics",
         "url": "https://open.spotify.com/album/1TpBabkFoMsanBmClrqu2V"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 226448,
       "name": "Qu\u00e9 Bonito",
       "url": "https://open.spotify.com/track/6oxVrlxeTwhmOroYJkrAad"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
-        "name": "\u00bfQu\u00e9 Jue?",
-        "url": "https://open.spotify.com/album/25Zwhmx8aMwQy3zL2LJX4m"
-      },
-      "artists": [
-        {
-          "name": "Romperayo",
-          "url": "https://open.spotify.com/artist/1Ey12Gi2P3PNPBsz39cncu"
-        }
-      ],
-      "duration_ms": 205160,
-      "name": "\u00bfQu\u00e9 Jue?",
-      "url": "https://open.spotify.com/track/1akEZAtudgbskIwOiKt4oD"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "De La Selva",
-        "url": "https://open.spotify.com/album/0nOAvowyJmiZVhMvN5Y3Li"
-      },
-      "artists": [
-        {
-          "name": "Alma De La Selva",
-          "url": "https://open.spotify.com/artist/3avEda58Fg6xbTvdBtqzI0"
-        }
-      ],
-      "duration_ms": 152576,
-      "name": "Caruy\u00fa",
-      "url": "https://open.spotify.com/track/6vEUlFK0x0SxQbeic5jqXj"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
         "name": "Auroras",
         "url": "https://open.spotify.com/album/6STaRwLyivZTQosFvfYQnt"
       },
@@ -1103,26 +1087,38 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "El Azul del Cielo",
-        "url": "https://open.spotify.com/album/69MTsmElLiYOavU5H0FD9U"
+        "name": "De La Selva",
+        "url": "https://open.spotify.com/album/0nOAvowyJmiZVhMvN5Y3Li"
       },
       "artists": [
         {
-          "name": "Romboi",
-          "url": "https://open.spotify.com/artist/7AevNCcvxBEy5z42d2A2RO"
-        },
-        {
-          "name": "Buendia",
-          "url": "https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH"
-        },
-        {
-          "name": "De Juepuchas",
-          "url": "https://open.spotify.com/artist/7oVSI0ddXNkjEtvLoh0SRC"
+          "name": "Alma De La Selva",
+          "url": "https://open.spotify.com/artist/3avEda58Fg6xbTvdBtqzI0"
         }
       ],
-      "duration_ms": 218441,
-      "name": "El Azul del Cielo",
-      "url": "https://open.spotify.com/track/47uAjNgAauD7Oe4gmLvjj6"
+      "duration_ms": 152576,
+      "name": "Caruy\u00fa",
+      "url": "https://open.spotify.com/track/6vEUlFK0x0SxQbeic5jqXj"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "Chureito en la Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/5B9smDQD7JTx7n6XPhqD6V"
+      },
+      "artists": [
+        {
+          "name": "Cerrero",
+          "url": "https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6"
+        },
+        {
+          "name": "Bejuco",
+          "url": "https://open.spotify.com/artist/4zlSN95eTYn6VD5wtWFkTk"
+        }
+      ],
+      "duration_ms": 278528,
+      "name": "Chureito en la ma\u00f1ana",
+      "url": "https://open.spotify.com/track/1mRkO12GcDopMRRW9o4p5c"
     }
   ],
   "unique_name": "El\u00e9ctrica Selv\u00e1tica",

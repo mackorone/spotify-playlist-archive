@@ -4,7 +4,7 @@
 
 > ¡Asadito a pura cumbia con toques de cuarteto!
 
-355 songs - 20 hr 38 min
+356 songs - 20 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Entre El Cielo Vos y Yo](https://open.spotify.com/track/5WNhnwtXvov5vAtThQT5qW) | [Pablito HC](https://open.spotify.com/artist/3VGOer5eApPF1qsyYXlMFT), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Entre El Cielo Vos y Yo](https://open.spotify.com/album/2wJW9ufFItLCD29F81QHfd) | 4:32 | 2023-08-22 | 2023-08-26 |
 | [Eres](https://open.spotify.com/track/3Bak7CHM2RlfkuhCSDfoAj) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA) | [Eres](https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5) | 3:16 | 2023-05-05 |  |
 | [Es la Que Va](https://open.spotify.com/track/6wmpw1ZAHEQcfykKSI977I) | [Los Nota Lokos](https://open.spotify.com/artist/76iFMHDqONZusQlTu2ckKQ) | [Melodias Lokas](https://open.spotify.com/album/2kpWtXSdpjIesDTlILJOMg) | 2:38 | 2025-06-27 | 2025-07-05 |
+| [Esa Malvada](https://open.spotify.com/track/68yHLkMJJeeACIDwcTkT8T) | [Volcan](https://open.spotify.com/artist/6NbiEhux3dGIa1Akjqg9Qk) | [Te Sigo Queriendo](https://open.spotify.com/album/7KyFOWUu5Wdj28JqPmYwDK) | 2:57 | 2025-11-20 |  |
 | [Esa Te Dejó](https://open.spotify.com/track/7yv8s5bPBn3rEjK3bDrt5b) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Regalo de Dios](https://open.spotify.com/album/47cUeGraYSIf2ZALnKzKs1) | 2:58 | 2024-04-19 |  |
 | [Escápate Conmigo](https://open.spotify.com/track/408q39K0rnY815TF5x52tb) | [Nene Malo](https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN), [Magenta](https://open.spotify.com/artist/0uT3lm3wY3LnyP6dtok0q4) | [No Está en la Flecha Sino en el Indio](https://open.spotify.com/album/0c5AlFdcK0Tv073nYxrOBA) | 3:05 | 2023-05-05 | 2025-11-21 |
 | [Exótica](https://open.spotify.com/track/1VJUK8htFC3Z5cU394o6hv) | [Siete Lunas](https://open.spotify.com/artist/3OrjkcpKAlJClVOopBZicQ) | [20 Grandes Exitos](https://open.spotify.com/album/22S6igyIXrRuXaBAGpqWsf) | 3:00 | 2025-06-10 | 2025-06-28 |
@@ -256,7 +257,7 @@
 | [Que calor](https://open.spotify.com/track/0RDDMvevLZkkBhAHP2mNpb) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Pibes Chorros \- Criando Cuervos](https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs) | 3:45 | 2023-05-05 |  |
 | [Que Locura Fue Enamorarme de Ti \(Remix\)](https://open.spotify.com/track/1Bi4FWSuiItUNREkaoeFY3) | [La Banda De Lechuga](https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ), [Kevo DJ](https://open.spotify.com/artist/4Fr8ee9ec47r9fC8SqiO8z) | [Que Locura Fue Enamorarme de Ti \(Remix\)](https://open.spotify.com/album/7kOZWSE6Vtw3EB8z67Z2xe) | 2:21 | 2023-05-05 | 2025-11-21 |
 | [QUE ME FALTE TODO](https://open.spotify.com/track/1NMbORRsowjN8q000xlJ8l) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [QUE ME FALTE TODO](https://open.spotify.com/album/10O0BuUEtx9Rs3S9pgUBKd) | 2:45 | 2023-10-27 |  |
-| [Que Nadie Se Entere](https://open.spotify.com/track/7wMAt7H3Q1BhRxvqDNw0N7) | [La Groupera](https://open.spotify.com/artist/0vOORe7cIa49Egvl6QUVt7) | [Rico y Suave](https://open.spotify.com/album/2fhIHdHYooK2MPRt6ehxsP) | 2:40 | 2025-11-20 |  |
+| [Que Nadie Se Entere](https://open.spotify.com/track/7wMAt7H3Q1BhRxvqDNw0N7) | [La Groupera](https://open.spotify.com/artist/0vOORe7cIa49Egvl6QUVt7) | [Rico y Suave](https://open.spotify.com/album/2fhIHdHYooK2MPRt6ehxsP) | 2:40 | 2025-11-20 | 2025-12-27 |
 | [Que Nos Paso](https://open.spotify.com/track/4NnLzVJECW1ky0TGIND3QN) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [Revolución](https://open.spotify.com/album/0DoD66E5JoqJUIsiKu7mBY) | 4:01 | 2025-06-10 | 2025-10-25 |
 | [QUE SED](https://open.spotify.com/track/4GLmfc26LRlW5otKs6TewR) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [QUE SED](https://open.spotify.com/album/13Uyz9aJHEkfWPtt7b9lTG) | 2:11 | 2024-03-22 | 2024-11-16 |
 | [Que Tiene Ese](https://open.spotify.com/track/4UlOPdgwjC1Sz3vHxBv5jo) | [Grupo uno](https://open.spotify.com/artist/7HoVqjRfwcumgHQiKd84jA), [El Color Que Faltaba](https://open.spotify.com/artist/1KAZwv1yGQvJCks7TXx6rP) | [Que Tiene Ese](https://open.spotify.com/album/6LHwxjNuqedbc7ub7zcc8A) | 2:44 | 2025-06-06 | 2025-06-28 |

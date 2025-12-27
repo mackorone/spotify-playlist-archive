@@ -4,7 +4,7 @@
 
 > The gentle sound of some of the greatest voices and instrumentalists in Jazz\. Your Jazz dinner soundtrack.
 
-128 songs - 8 hr 25 min
+129 songs - 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [I Saw You Across the Room](https://open.spotify.com/track/04Vlww85iHY4GOpHmSsSVl) | [Hollbeck](https://open.spotify.com/artist/0l6Jx03I9oWTgtg3ZtxqRS) | [I Saw You Across the Room](https://open.spotify.com/album/2MNqQEzYKkKBOCp9Z0gsg6) | 3:53 | 2025-02-04 |  |
 | [I Sing This Song for You](https://open.spotify.com/track/2p0MYtfsZq2Rz6yd1WUXAA) | [Juraj Stanik Trio](https://open.spotify.com/artist/6Jp6aGQeBuerxiL0Mq7wra) | [Inside Out](https://open.spotify.com/album/6TiMFHnW1Ce36USbc8FAoC) | 4:38 | 2025-02-04 |  |
 | [I Wish I Knew](https://open.spotify.com/track/3oGqQ3Ly4wzilxFo4puTn9) | [John Coltrane Quartet](https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy) | [Ballads \(Deluxe Edition \- Rudy Van Gelder Remaster\)](https://open.spotify.com/album/0Ydakb7npXmyTwFLvKc5qt) | 4:50 | 2025-02-04 |  |
-| [I'll Walk Alone](https://open.spotify.com/track/7GdYQNZikjPn7uIE9AvimQ) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [But Beautiful](https://open.spotify.com/album/6AjdJUoXWogissT2Opkebq) | 3:33 | 2025-02-04 |  |
+| [I'll Walk Alone](https://open.spotify.com/track/7GdYQNZikjPn7uIE9AvimQ) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [But Beautiful](https://open.spotify.com/album/6AjdJUoXWogissT2Opkebq) | 3:33 | 2025-02-04 | 2025-12-27 |
 | [I'm in a Mess \(feat\. Samara Joy\)](https://open.spotify.com/track/67EzBKdJSiSZmq9q5Ustyz) | [Pasquale Grasso](https://open.spotify.com/artist/7M6Meoc3uCzIyRP7V8HQQY), [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [I'm in a Mess \(feat\. Samara Joy\)](https://open.spotify.com/album/1KSkbrGOskyPFd5IVecxnj) | 2:54 | 2025-02-04 |  |
 | [I'm Lost](https://open.spotify.com/track/4sWFAJNRxrkYlWC0UpYZXC) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7), [George Shearing](https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn) | [Nat King Cole Sings George Shearing Plays](https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr) | 3:29 | 2025-02-04 |  |
 | [I'm Old Fashioned](https://open.spotify.com/track/2DZdof9VHreWvnCBAuhNr2) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [The Art Of The Ballad](https://open.spotify.com/album/1Lk2q3F58c6vU6egnTHIMa) | 5:03 | 2025-02-04 |  |
@@ -78,6 +78,7 @@
 | [Journeying](https://open.spotify.com/track/0rxrNlowteTww0qD51gmJC) | [The Don Mason Trio](https://open.spotify.com/artist/0lKn6bgPn1MwQE2L2OGjUf) | [Journeying](https://open.spotify.com/album/3P9JiFggKtxEEdi9l67JRp) | 3:51 | 2025-02-04 |  |
 | [Late Date](https://open.spotify.com/track/4uPSrtreVDAqWGUk0lxJMu) | [Buddy Rich And His Sextet](https://open.spotify.com/artist/4wc5BNI4IBB2UtTrT5OQZK) | [Blues Caravan](https://open.spotify.com/album/4ZFU2bXCizAwkLJmQVogZ9) | 5:08 | 2025-02-04 |  |
 | [Lonely Streets](https://open.spotify.com/track/6OLMBzS4PV7EXkxzkcx7Z6) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [At Least I Know](https://open.spotify.com/album/3cBbti8W4QwIjKRjvVtFYN) | 6:08 | 2025-02-04 |  |
+| [Look the Other Way](https://open.spotify.com/track/4QVyrVvUvjWi8OVrQ2b4qv) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Lucas Dubovik](https://open.spotify.com/artist/0W2d3lQ65SMGGL3eHOmYVh) | [Featuring](https://open.spotify.com/album/3kXZdr9VwvxkjKqpuut6Lg) | 7:54 | 2025-02-04 |  |
 | [Love Is Here To Stay](https://open.spotify.com/track/1AGglZcECKcyPu6pJWeez0) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Oscar Peterson Plays The George Gershwin Song Book](https://open.spotify.com/album/2O5GOZsGSYLfbypGw6C96a) | 2:59 | 2025-02-04 |  |
 | [Love is the answer](https://open.spotify.com/track/4ArAroGQnEyFxkjMkabaj7) | [The Groove Trio](https://open.spotify.com/artist/4vmN5DgVFk2GDBHDu1ZJeb) | [Sunset over Paris](https://open.spotify.com/album/0VBhxJPWzkCEEuRMlOKpTF) | 5:56 | 2025-02-04 |  |
 | [Love To Be Happy](https://open.spotify.com/track/3wMe1lySKxJeH9iMWXDqgx) | [Magpie Jazz Trio](https://open.spotify.com/artist/4TOpL8dUMkZ1oydrBsfuWf) | [Love To Be Happy](https://open.spotify.com/album/4by10y5bBBZtlfRzUicL60) | 3:15 | 2025-02-04 |  |

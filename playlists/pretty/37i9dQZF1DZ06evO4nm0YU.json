@@ -1,12 +1,12 @@
 {
   "description": "This is H\u00e9ctor Lavoe. The essential tracks, all in one playlist.",
-  "num_followers": 183506,
+  "num_followers": 183547,
   "original_name": "This Is H\u00e9ctor Lavoe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUstAAAAAACVrU4xYu4YlWW7U/iEC/O5",
+  "snapshot_id": "aUx+gAAAAAApugp7vpcHMYCazxxRYHem",
   "tracks": [
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Man And His Music: La Voz",
-        "url": "https://open.spotify.com/album/1cjhnTRit0iS1HViiGeK8H"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 459880,
-      "name": "Vamos A Re\u00edr Un Poco",
-      "url": "https://open.spotify.com/track/1RVtt5na5nhNTNOhJJawL4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "49 Minutes",
         "url": "https://open.spotify.com/album/1T4b8OHo82V9mr8UdMTJ72"
       },
@@ -611,6 +595,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Man And His Music: La Voz",
+        "url": "https://open.spotify.com/album/1cjhnTRit0iS1HViiGeK8H"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 459880,
+      "name": "Vamos A Re\u00edr Un Poco",
+      "url": "https://open.spotify.com/track/1RVtt5na5nhNTNOhJJawL4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Cantante De Los Cantantes",
         "url": "https://open.spotify.com/album/59Gjxm9FfL1UXDJ78QsoA8"
       },
@@ -623,22 +623,6 @@
       "duration_ms": 389040,
       "name": "Rompe Sarag\u00fcey",
       "url": "https://open.spotify.com/track/39j6Cy83gG3ZB0KFC98g7c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Sabio",
-        "url": "https://open.spotify.com/album/2QqqS97l2DLYq1vrhHUpze"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 427560,
-      "name": "Al\u00e9jate",
-      "url": "https://open.spotify.com/track/6dKDnjNPg2oHi5yOY4RRlB"
     },
     {
       "added_at": null,
@@ -659,6 +643,22 @@
       "duration_ms": 317813,
       "name": "Eso Se Baila As\u00ed",
       "url": "https://open.spotify.com/track/6idJ1C13ztOwTWnvipyTcV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Sabio",
+        "url": "https://open.spotify.com/album/2QqqS97l2DLYq1vrhHUpze"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 427560,
+      "name": "Al\u00e9jate",
+      "url": "https://open.spotify.com/track/6dKDnjNPg2oHi5yOY4RRlB"
     },
     {
       "added_at": null,
@@ -719,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "T\u00fa Bien Lo Sabes",
-        "url": "https://open.spotify.com/album/4Lm8DCc4Bj58xztz72CgJ6"
+        "name": "Comedia",
+        "url": "https://open.spotify.com/album/7CBmznpnzPgLpBXFlB40B6"
       },
       "artists": [
         {
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 275480,
-      "name": "De Ti Depende",
-      "url": "https://open.spotify.com/track/6uM3cqVSU6yzhkkXIvMGfs"
+      "duration_ms": 470280,
+      "name": "Songoro Cosongo",
+      "url": "https://open.spotify.com/track/0cCLNIYOUthHiQHOS8iGRV"
     },
     {
       "added_at": null,
@@ -759,38 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Comedia",
-        "url": "https://open.spotify.com/album/7CBmznpnzPgLpBXFlB40B6"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 470280,
-      "name": "Songoro Cosongo",
-      "url": "https://open.spotify.com/track/0cCLNIYOUthHiQHOS8iGRV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Salsa Pa'l Que Sabe, Vol. 2",
-        "url": "https://open.spotify.com/album/5tV7liWaZI0cpQn7NS0Dlx"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 401693,
-      "name": "Periodico De Ayer",
-      "url": "https://open.spotify.com/track/1RQwHnFHsLVlJmgEk9kmmR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "T\u00fa Bien Lo Sabes",
         "url": "https://open.spotify.com/album/4Lm8DCc4Bj58xztz72CgJ6"
       },
@@ -800,9 +768,9 @@
           "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 215466,
-      "name": "Tus Ojos",
-      "url": "https://open.spotify.com/track/6p30u7NhMMgPFCLbQqj3Hc"
+      "duration_ms": 275480,
+      "name": "De Ti Depende",
+      "url": "https://open.spotify.com/track/6uM3cqVSU6yzhkkXIvMGfs"
     },
     {
       "added_at": null,
@@ -827,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Salsa Pa'l Que Sabe, Vol. 2",
+        "url": "https://open.spotify.com/album/5tV7liWaZI0cpQn7NS0Dlx"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 401693,
+      "name": "Periodico De Ayer",
+      "url": "https://open.spotify.com/track/1RQwHnFHsLVlJmgEk9kmmR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "OG: Original Gangster",
         "url": "https://open.spotify.com/album/1qixO7wcV8yfii33bZj46T"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 336120,
       "name": "Barrunto",
       "url": "https://open.spotify.com/track/5qxGS2O7i5bQXHu0MyM9c8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "T\u00fa Bien Lo Sabes",
+        "url": "https://open.spotify.com/album/4Lm8DCc4Bj58xztz72CgJ6"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 215466,
+      "name": "Tus Ojos",
+      "url": "https://open.spotify.com/track/6p30u7NhMMgPFCLbQqj3Hc"
     },
     {
       "added_at": null,

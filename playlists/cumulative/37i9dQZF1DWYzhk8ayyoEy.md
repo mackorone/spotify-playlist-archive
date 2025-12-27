@@ -4,7 +4,7 @@
 
 > Warm, inspirational pop, that's good at heart\.  Cover: Alex Warren at the VMAs
 
-190 songs - 10 hr 36 min
+191 songs - 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [Thank God I Do](https://open.spotify.com/track/4gK7xnjIonY6mGJWiWcJT8) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/0pegySdYHnog0hNQcClfTf) | 4:18 | 2023-05-12 | 2023-09-29 |
 | [Thank God I Do](https://open.spotify.com/track/60StAgy8EkIsaGEGebKcBB) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Thank God I Do](https://open.spotify.com/album/13hXymvIOF3Q29fDFTmCeZ) | 4:18 | 2023-03-10 |  |
 | [Thank You](https://open.spotify.com/track/6r4jouSQy2Hl77pwMwChcM) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [The Joy of Music](https://open.spotify.com/album/1l4VD485oDSJM23eWJEWJN) | 3:59 | 2023-01-04 | 2025-01-25 |
+| [THANKFUL](https://open.spotify.com/track/3q7GRmWPTNo5S6CEq6SURW) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [THANKFUL](https://open.spotify.com/album/0Lukg1vKeWF4qQ0k4YcN0C) | 2:16 | 2025-12-26 |  |
 | [The Constant](https://open.spotify.com/track/4mnY82D35NMdghqRWePVQD) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF) | [The Constant](https://open.spotify.com/album/1iWWEgMx2RgALeJTBAWqRd) | 4:06 | 2025-10-03 |  |
 | [The Morning](https://open.spotify.com/track/33BC4dasTbw4awRdBOlP5z) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [The Morning](https://open.spotify.com/album/4sP4BjciIheSSBEGwDpG2q) | 2:59 | 2025-05-27 |  |
 | [The Vow](https://open.spotify.com/track/299wMARBINf3S5Fo7WhsZ8) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 2:55 | 2023-07-25 |  |
@@ -197,6 +198,6 @@
 | [You Can Make It](https://open.spotify.com/track/7j0Ttn6PMv8Av5558jTdWa) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Sunday Service Choir](https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg) | [You Can Make It](https://open.spotify.com/album/2mrBixGpvGSWnNGqf46RLo) | 3:40 | 2024-07-26 | 2025-11-08 |
 | [You Got My Best](https://open.spotify.com/track/5nvcKHSJgMHXIfz6dKg418) | [Alt Bloom](https://open.spotify.com/artist/6JxQbC46LapcvanSk4J3OP) | [You Got My Best](https://open.spotify.com/album/2esdWQ8nAK82DvziUNsssV) | 2:37 | 2024-01-26 | 2024-03-09 |
 | [You Say](https://open.spotify.com/track/6Up545NUflOiXo8cEraH49) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 4:34 | 2023-01-04 |  |
-| [YOUR WAY'S BETTER](https://open.spotify.com/track/7JDfWHxOFo63yQmVs5wSPM) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CHILD OF GOD \(DELUXE\)](https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9) | 3:18 | 2025-04-28 |  |
+| [YOUR WAY'S BETTER](https://open.spotify.com/track/7JDfWHxOFo63yQmVs5wSPM) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CHILD OF GOD \(DELUXE\)](https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9) | 3:18 | 2025-04-28 | 2025-12-27 |
 
 \*This playlist was first scraped on 2023-01-07. Prior content cannot be recovered.

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > Country music's latest offerings featuring Avery Anna, Brett Young, The Band of Heathens and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,706 likes - 94 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,801 likes - 94 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 93 | [Running Outta Road](https://open.spotify.com/track/6P7ELO78OaEC1ZgOFCiCnP) | [The Lockhearts](https://open.spotify.com/artist/1aF7p8yc6L5TSTClZOogx0) | [Running Outta Road](https://open.spotify.com/album/51jjOjFEe32wROWJGol0Vl) | 4:05 |
 | 94 | [DRIFTER](https://open.spotify.com/track/3LE1YGfXwXjOUI8stzIkKi) | [Jake Matthew](https://open.spotify.com/artist/0ZlqMVSnozDiZwPleXidbN) | [DRIFTER](https://open.spotify.com/album/0KWV4gQPpTJS3vAanN2anj) | 3:12 |
 
-Snapshot ID: `AAAAAEVFlXOpTMClc6RSsxrXmJsNGSKH`
+Snapshot ID: `AAAAAEiPWaJzFYhpIraNBKd68DIOzjFK`

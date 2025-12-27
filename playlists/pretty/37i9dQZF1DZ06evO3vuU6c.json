@@ -1,12 +1,12 @@
 {
   "description": "This is Sia. The essential tracks, all in one playlist.",
-  "num_followers": 1434854,
+  "num_followers": 1434864,
   "original_name": "This Is Sia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUstAAAAAAC9LCs8UmugjIGbiSHN/IJA",
+  "snapshot_id": "aUx+gAAAAACE+mVhQO6U3MP4mvkGHCo3",
   "tracks": [
     {
       "added_at": null,
@@ -539,26 +539,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "MTG DA SIA - ANGEL BY THE WINGS",
-        "url": "https://open.spotify.com/album/7KYLDnvpL3yGcLLxRYgFfu"
+        "name": "Music (Songs From And Inspired By The Motion Picture)",
+        "url": "https://open.spotify.com/album/7nA0EdSRuxzUqkA7kMSer7"
       },
       "artists": [
         {
-          "name": "DJ Lucas Beat",
-          "url": "https://open.spotify.com/artist/2zWqENF4cnsd1nLmraG9IE"
-        },
-        {
           "name": "Sia",
           "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        },
-        {
-          "name": "MC Matheuzim",
-          "url": "https://open.spotify.com/artist/1oXymTbsxIYd9cP8u9yfGo"
         }
       ],
-      "duration_ms": 123187,
-      "name": "MTG DA SIA - ANGEL BY THE WINGS",
-      "url": "https://open.spotify.com/track/0K5Wbzan94w91ImAKQcjsw"
+      "duration_ms": 292656,
+      "name": "Courage to Change",
+      "url": "https://open.spotify.com/track/7FPJ3rncDYvcdgW11PhTMw"
     },
     {
       "added_at": null,
@@ -579,18 +571,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Music (Songs From And Inspired By The Motion Picture)",
-        "url": "https://open.spotify.com/album/7nA0EdSRuxzUqkA7kMSer7"
+        "name": "MTG DA SIA - ANGEL BY THE WINGS",
+        "url": "https://open.spotify.com/album/7KYLDnvpL3yGcLLxRYgFfu"
       },
       "artists": [
         {
+          "name": "DJ Lucas Beat",
+          "url": "https://open.spotify.com/artist/2zWqENF4cnsd1nLmraG9IE"
+        },
+        {
           "name": "Sia",
           "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "MC Matheuzim",
+          "url": "https://open.spotify.com/artist/1oXymTbsxIYd9cP8u9yfGo"
         }
       ],
-      "duration_ms": 292656,
-      "name": "Courage to Change",
-      "url": "https://open.spotify.com/track/7FPJ3rncDYvcdgW11PhTMw"
+      "duration_ms": 123187,
+      "name": "MTG DA SIA - ANGEL BY THE WINGS",
+      "url": "https://open.spotify.com/track/0K5Wbzan94w91ImAKQcjsw"
     },
     {
       "added_at": null,

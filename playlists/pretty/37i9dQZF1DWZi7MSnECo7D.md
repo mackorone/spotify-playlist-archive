@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Música brasileira fora da curva\. Foto: josefe
 
-[Spotify](https://open.spotify.com/user/spotify) - 787,001 likes - 66 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 786,914 likes - 66 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 65 | [Love e Vício em Sunshine \(Ao Vivo\)](https://open.spotify.com/track/0H4MhUG9yuruXduPny8FWt) | [Supervão](https://open.spotify.com/artist/6RaRPRrUnOwLbXI5q0nvFj) | [AVGN na Radio Agulha \(ao vivo\)](https://open.spotify.com/album/6LML6JqiKorFCyfujnNz4t) | 2:38 |
 | 66 | [Mandrião \(Vida e Obra\) \- Demo 2](https://open.spotify.com/track/7kHH0LYG6Rmi6qE8Jp7SGA) | [Apeles](https://open.spotify.com/artist/079cfq4aZBhX6sXItaYUyr) | [Mandrião \(Vida e Obra\) \- Demo 2](https://open.spotify.com/album/1PRMWQZFUBDOeDEkjqBrxI) | 2:55 |
 
-Snapshot ID: `AAAAAA7nNqdysozOdCjmh9rfG/VG61Vc`
+Snapshot ID: `AAAAAFIWlb96Js4wnY0CtG6dy8Z6i+sz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvqwwMRhV5l.md) - [plain]
 
 > Allerbeste songs uit de 00's! Cover: Dinand Woesthoff \(Kane\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,655 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,660 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvqwwMRhV5l.md) - [plain]
 | 58 | [It's My Life](https://open.spotify.com/track/1OutzYv6YiN93lrT3pJsWR) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [It's My Life](https://open.spotify.com/album/4A0hYL3V0zWauEWkyfvqdF) | 3:46 |
 | 59 | [Whole Again](https://open.spotify.com/track/16MJqq0vEuW6GRX6faetTm) | [Atomic Kitten](https://open.spotify.com/artist/6JMHws5haIO6V35YNYDnDw) | [Right Now](https://open.spotify.com/album/4C2pT6x3mXXgeV3FdyL3DW) | 3:05 |
 | 60 | [Supreme](https://open.spotify.com/track/7rQiW2mJDbP77h2RLlASTw) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Sing When You're Winning](https://open.spotify.com/album/11DmTQm7WPeSXih1FPuaXL) | 4:18 |
-| 61 | [Mr Rock & Roll](https://open.spotify.com/track/6aX2LyT7zpTLe3iZfDeHki) | [Amy Macdonald](https://open.spotify.com/artist/1hJuGCUpefX24GFmss9bjH) | [This Is The Life \(eDeluxe\)](https://open.spotify.com/album/5DaToG3KvHnUgTPqY4cEbq) | 3:34 |
-| 62 | [I Don't Feel Like Dancin'](https://open.spotify.com/track/1q9l6c8bAzqWcvO3DM6FsR) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [Ta\-Dah](https://open.spotify.com/album/4XtSI3PBZ0vDD9J6cNRcNX) | 4:48 |
+| 61 | [I Don't Feel Like Dancin'](https://open.spotify.com/track/1q9l6c8bAzqWcvO3DM6FsR) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [Ta\-Dah](https://open.spotify.com/album/4XtSI3PBZ0vDD9J6cNRcNX) | 4:48 |
+| 62 | [Mr Rock & Roll](https://open.spotify.com/track/6aX2LyT7zpTLe3iZfDeHki) | [Amy Macdonald](https://open.spotify.com/artist/1hJuGCUpefX24GFmss9bjH) | [This Is The Life \(eDeluxe\)](https://open.spotify.com/album/5DaToG3KvHnUgTPqY4cEbq) | 3:34 |
 | 63 | [Dancing in the Moonlight](https://open.spotify.com/track/1FHNctV68GUNLgXclG2DtR) | [Toploader](https://open.spotify.com/artist/6xeFne1rkxMhKSW3ipvkdV) | [Dancing In The Moonlight: The Best Of Toploader](https://open.spotify.com/album/3Yxy4ITyguWRkdXwrB9uC9) | 3:53 |
 | 64 | [Just Say Yes](https://open.spotify.com/track/4k7P2LIQco8YCVbIZl1vZB) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Up To Now](https://open.spotify.com/album/1IN1tRZL4wr52v3iZBz4Qb) | 4:41 |
 | 65 | [Whataya Want from Me](https://open.spotify.com/track/2rDwdvBma1O1eLzo29p2cr) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [For Your Entertainment](https://open.spotify.com/album/0cUNjl7p6LYZJkKXJWzqP0) | 3:47 |
@@ -89,9 +89,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvqwwMRhV5l.md) - [plain]
 | 79 | [You've Got The Love](https://open.spotify.com/track/0fPf9CDFzVnHpcfld5XVtO) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [You've Got The Love](https://open.spotify.com/album/77JmKGdCSo3JuNelG5fofU) | 2:48 |
 | 80 | [Désenchantée \- Radio Edit](https://open.spotify.com/track/0eAvGqc9t4Wuc6gDcSi5Aa) | [Kate Ryan](https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM) | [Essential](https://open.spotify.com/album/6itpfGpKsuAVBgtr5JUuS3) | 3:40 |
 | 81 | [Girl](https://open.spotify.com/track/5zhee6Apgg8QqeJObO4k1d) | [Anouk](https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX) | [Hotel New York](https://open.spotify.com/album/3sxva4N6mtDiOa6zvBa8T3) | 3:30 |
-| 82 | [Because of You](https://open.spotify.com/track/1258tSoXDDa43uqT75r5N0) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Greatest Hits \- Chapter One](https://open.spotify.com/album/0UxWN628tSTCaR4NVpqSHM) | 3:40 |
-| 83 | [Raise Your Glass](https://open.spotify.com/track/05qq6mwIbG1ZsQhlMKyDwN) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Greatest Hits...So Far!!!](https://open.spotify.com/album/3nR5vEcIp8UzOJgkw8G8yX) | 3:23 |
-| 84 | [Father & Friend](https://open.spotify.com/track/6FDlbBc9UBdC03lGaF0diE) | [Alain Clark](https://open.spotify.com/artist/68tIJ2KGC2bUs1cmIhJ9mW) | [Live It Out](https://open.spotify.com/album/36w3fRCX26g4OWqLVJQYX6) | 4:16 |
+| 82 | [Father & Friend](https://open.spotify.com/track/6FDlbBc9UBdC03lGaF0diE) | [Alain Clark](https://open.spotify.com/artist/68tIJ2KGC2bUs1cmIhJ9mW) | [Live It Out](https://open.spotify.com/album/36w3fRCX26g4OWqLVJQYX6) | 4:16 |
+| 83 | [Because of You](https://open.spotify.com/track/1258tSoXDDa43uqT75r5N0) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Greatest Hits \- Chapter One](https://open.spotify.com/album/0UxWN628tSTCaR4NVpqSHM) | 3:40 |
+| 84 | [Raise Your Glass](https://open.spotify.com/track/05qq6mwIbG1ZsQhlMKyDwN) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Greatest Hits...So Far!!!](https://open.spotify.com/album/3nR5vEcIp8UzOJgkw8G8yX) | 3:23 |
 | 85 | [Built to Last](https://open.spotify.com/track/4x907tqu1ai70Sz6xLrK2E) | [Mêlée](https://open.spotify.com/artist/1koahA4L2b5ZFjaFC05pbk) | [Devils & Angels \(Standard Version\)](https://open.spotify.com/album/61odM371Gpn80O2CxwvRfW) | 3:41 |
 | 86 | [Big Yellow Taxi](https://open.spotify.com/track/0KTfZWEWivacSuZSjUe7JS) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC), [Vanessa Carlton](https://open.spotify.com/artist/5ILrArfIV0tMURcHJN8Q07) | [Films About Ghosts \(The Best Of Counting Crows\)](https://open.spotify.com/album/7FJlveNFRrWYiD6xWGPHSb) | 3:45 |
 | 87 | [Hallelujah](https://open.spotify.com/track/0m86OeKQHxdpygDPzGQUPK) | [Lisa Lois](https://open.spotify.com/artist/1dGsUN9Hwx78H6MdDquxLL) | [Hallelujah](https://open.spotify.com/album/6gBHHYfOLj1FgZIqU3ujbr) | 3:46 |

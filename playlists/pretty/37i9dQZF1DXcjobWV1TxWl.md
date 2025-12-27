@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjobWV1TxWl.md) - [plain]
 
 > Sophisticated palates only\. Curated by: B.Dot
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,012 likes - 51 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,015 likes - 51 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Carl Carlton. The essential tracks, all in one playlist.",
-  "num_followers": 729,
+  "num_followers": 731,
   "original_name": "This Is Carl Carlton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUstAAAAAACizycafS/Ezrsu5PJn9gqP",
+  "snapshot_id": "aUx+gAAAAAB1wV1rMRJU5gnO8evYZZ2s",
   "tracks": [
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
         }
       ],
-      "duration_ms": 211490,
-      "name": "You've Been So Good to Me",
-      "url": "https://open.spotify.com/track/5KqvCWNr7WMMVuD4GtTiL1"
+      "duration_ms": 313721,
+      "name": "Universal Girl",
+      "url": "https://open.spotify.com/track/4O2N9wZ1KvvfjIGlM786K7"
     },
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
         }
       ],
-      "duration_ms": 313721,
-      "name": "Universal Girl",
-      "url": "https://open.spotify.com/track/4O2N9wZ1KvvfjIGlM786K7"
+      "duration_ms": 378907,
+      "name": "Spend the Night",
+      "url": "https://open.spotify.com/track/7GfdXWpwnUeqAtzDXsCV0i"
     },
     {
       "added_at": null,
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
         }
       ],
-      "duration_ms": 378907,
-      "name": "Spend the Night",
-      "url": "https://open.spotify.com/track/7GfdXWpwnUeqAtzDXsCV0i"
+      "duration_ms": 211490,
+      "name": "You've Been So Good to Me",
+      "url": "https://open.spotify.com/track/5KqvCWNr7WMMVuD4GtTiL1"
     },
     {
       "added_at": null,
@@ -527,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saturday",
-        "url": "https://open.spotify.com/album/064WgfCRzGQpkYR62DFe4U"
+        "name": "Two Timer",
+        "url": "https://open.spotify.com/album/1voy5GjsqFOhSeIqhS9hYt"
       },
       "artists": [
         {
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
         }
       ],
-      "duration_ms": 280640,
-      "name": "Saturday",
-      "url": "https://open.spotify.com/track/1kwHC09McmaYlj2U6vbZRZ"
+      "duration_ms": 154250,
+      "name": "Two Timer",
+      "url": "https://open.spotify.com/track/0GLEMJnSLLZYY8ubZ6JkK9"
     },
     {
       "added_at": null,
@@ -559,8 +559,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Two Timer",
-        "url": "https://open.spotify.com/album/1voy5GjsqFOhSeIqhS9hYt"
+        "name": "Saturday",
+        "url": "https://open.spotify.com/album/064WgfCRzGQpkYR62DFe4U"
       },
       "artists": [
         {
@@ -568,9 +568,25 @@
           "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
         }
       ],
-      "duration_ms": 154250,
-      "name": "Two Timer",
-      "url": "https://open.spotify.com/track/0GLEMJnSLLZYY8ubZ6JkK9"
+      "duration_ms": 280640,
+      "name": "Saturday",
+      "url": "https://open.spotify.com/track/1kwHC09McmaYlj2U6vbZRZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rare Sweet & Soul 12",
+        "url": "https://open.spotify.com/album/5tHj3OaG7TdK70nooRsuKK"
+      },
+      "artists": [
+        {
+          "name": "Carl Carlton",
+          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
+        }
+      ],
+      "duration_ms": 249506,
+      "name": "This feeling's rated extra",
+      "url": "https://open.spotify.com/track/3d9DTKYyBWqj1aKqbAeTeT"
     },
     {
       "added_at": null,
@@ -595,22 +611,6 @@
       "duration_ms": 144440,
       "name": "Milkcow's Calf Blues",
       "url": "https://open.spotify.com/track/4k6scv5YKwtx79gh2c1Xo4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rare Sweet & Soul 12",
-        "url": "https://open.spotify.com/album/5tHj3OaG7TdK70nooRsuKK"
-      },
-      "artists": [
-        {
-          "name": "Carl Carlton",
-          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
-        }
-      ],
-      "duration_ms": 249506,
-      "name": "This feeling's rated extra",
-      "url": "https://open.spotify.com/track/3d9DTKYyBWqj1aKqbAeTeT"
     },
     {
       "added_at": null,

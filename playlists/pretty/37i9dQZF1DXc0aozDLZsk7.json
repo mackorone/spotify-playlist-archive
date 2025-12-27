@@ -1,6 +1,6 @@
 {
   "description": "Relax. Abbandonati alla musica e ritrova la tua tranquillit\u00e0.",
-  "num_followers": 576236,
+  "num_followers": 576235,
   "original_name": "No Stress",
   "owner": {
     "name": "Spotify",
@@ -687,6 +687,22 @@
     {
       "added_at": "2025-12-18 08:54:36",
       "album": {
+        "name": "Winter Song",
+        "url": "https://open.spotify.com/album/7obocQT5bd9ObWl2GiMrBT"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 254437,
+      "name": "Winter Song",
+      "url": "https://open.spotify.com/track/6bVIzKJOhSTD2Pw1cbLhBr"
+    },
+    {
+      "added_at": "2025-12-18 08:54:36",
+      "album": {
         "name": "Saw You In A Dream",
         "url": "https://open.spotify.com/album/1x8SKoPwUTpOfc0w5gBPsk"
       },
@@ -719,22 +735,6 @@
     {
       "added_at": "2025-12-18 08:54:36",
       "album": {
-        "name": "September",
-        "url": "https://open.spotify.com/album/1gHwbB7Db9yJ7kASKJFSnc"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 222181,
-      "name": "September",
-      "url": "https://open.spotify.com/track/0exZ0YogJPbjGzblpcZaw7"
-    },
-    {
-      "added_at": "2025-12-18 08:54:36",
-      "album": {
         "name": "Vallabye",
         "url": "https://open.spotify.com/album/27XZO4X2PaICoN0Z8BxYSS"
       },
@@ -755,18 +755,18 @@
     {
       "added_at": "2025-12-18 08:54:36",
       "album": {
-        "name": "Winter Song",
-        "url": "https://open.spotify.com/album/7obocQT5bd9ObWl2GiMrBT"
+        "name": "September",
+        "url": "https://open.spotify.com/album/1gHwbB7Db9yJ7kASKJFSnc"
       },
       "artists": [
         {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
         }
       ],
-      "duration_ms": 254437,
-      "name": "Winter Song",
-      "url": "https://open.spotify.com/track/6bVIzKJOhSTD2Pw1cbLhBr"
+      "duration_ms": 222181,
+      "name": "September",
+      "url": "https://open.spotify.com/track/0exZ0YogJPbjGzblpcZaw7"
     },
     {
       "added_at": "2025-12-18 08:54:36",
@@ -803,6 +803,22 @@
     {
       "added_at": "2025-12-18 08:54:36",
       "album": {
+        "name": "Sheezus",
+        "url": "https://open.spotify.com/album/5Swr80WlTTC0PKExtoU4jU"
+      },
+      "artists": [
+        {
+          "name": "Lily Allen",
+          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
+        }
+      ],
+      "duration_ms": 208504,
+      "name": "Somewhere Only We Know",
+      "url": "https://open.spotify.com/track/1mvfvDZOybiEgS1ecJxt9W"
+    },
+    {
+      "added_at": "2025-12-18 08:54:36",
+      "album": {
         "name": "Brush Fire",
         "url": "https://open.spotify.com/album/0q9LcQHXp9DuszlWNJZoLB"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 234383,
       "name": "I Lied (with August Ponthier)",
       "url": "https://open.spotify.com/track/5QL8Uqhv0MQRYKRy6UKQIy"
-    },
-    {
-      "added_at": "2025-12-18 08:54:36",
-      "album": {
-        "name": "Sheezus",
-        "url": "https://open.spotify.com/album/5Swr80WlTTC0PKExtoU4jU"
-      },
-      "artists": [
-        {
-          "name": "Lily Allen",
-          "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
-        }
-      ],
-      "duration_ms": 208504,
-      "name": "Somewhere Only We Know",
-      "url": "https://open.spotify.com/track/1mvfvDZOybiEgS1ecJxt9W"
     },
     {
       "added_at": "2025-12-18 08:54:36",
@@ -1063,6 +1063,26 @@
     {
       "added_at": "2025-12-18 08:54:36",
       "album": {
+        "name": "Hot!",
+        "url": "https://open.spotify.com/album/45LEesLYqM29tkihh8Yyr0"
+      },
+      "artists": [
+        {
+          "name": "Chloe Parch\u00e9",
+          "url": "https://open.spotify.com/artist/6jCOKlQ9OBPbQgPoZ3haov"
+        },
+        {
+          "name": "Holly Hebe",
+          "url": "https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t"
+        }
+      ],
+      "duration_ms": 165230,
+      "name": "Hot!",
+      "url": "https://open.spotify.com/track/3FEWfnYH4NG3iBsWySY3gh"
+    },
+    {
+      "added_at": "2025-12-18 08:54:36",
+      "album": {
         "name": "Chasing Cars",
         "url": "https://open.spotify.com/album/3fH0zVDwnb05Uw4XYHacSj"
       },
@@ -1127,26 +1147,6 @@
       "duration_ms": 233746,
       "name": "emily",
       "url": "https://open.spotify.com/track/1sTtlEZeVeeEnxEztJNkYN"
-    },
-    {
-      "added_at": "2025-12-18 08:54:36",
-      "album": {
-        "name": "Hot!",
-        "url": "https://open.spotify.com/album/45LEesLYqM29tkihh8Yyr0"
-      },
-      "artists": [
-        {
-          "name": "Chloe Parch\u00e9",
-          "url": "https://open.spotify.com/artist/6jCOKlQ9OBPbQgPoZ3haov"
-        },
-        {
-          "name": "Holly Hebe",
-          "url": "https://open.spotify.com/artist/3K511ClkYJM2a9tcaf2R3t"
-        }
-      ],
-      "duration_ms": 165230,
-      "name": "Hot!",
-      "url": "https://open.spotify.com/track/3FEWfnYH4NG3iBsWySY3gh"
     },
     {
       "added_at": "2025-12-18 08:54:36",

@@ -1,12 +1,12 @@
 {
   "description": "This is Ayra Starr. The essential tracks, all in one playlist.",
-  "num_followers": 53837,
+  "num_followers": 53850,
   "original_name": "This Is Ayra Starr",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUstAAAAAABXFlZKaoIIgWpWEiSYIR+H",
+  "snapshot_id": "aUx+gAAAAACMYW9vDrmknSOfMTsovEVm",
   "tracks": [
     {
       "added_at": null,
@@ -883,6 +883,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "A.W.A.M.",
+        "url": "https://open.spotify.com/album/5WnU8Xz5WVmPpbHJTTlSnN"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        }
+      ],
+      "duration_ms": 216960,
+      "name": "Le Show",
+      "url": "https://open.spotify.com/track/17XywqehSnEFzZjX0h8LWj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Disturbing U",
         "url": "https://open.spotify.com/album/052AhHjQkjepRKQeE6vdjc"
       },
@@ -919,30 +943,6 @@
       "duration_ms": 204573,
       "name": "come close (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/2u5dBIBam2FTwYsgsptJyj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A.W.A.M.",
-        "url": "https://open.spotify.com/album/5WnU8Xz5WVmPpbHJTTlSnN"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "French Montana",
-          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
-        }
-      ],
-      "duration_ms": 216960,
-      "name": "Le Show",
-      "url": "https://open.spotify.com/track/17XywqehSnEFzZjX0h8LWj"
     },
     {
       "added_at": null,

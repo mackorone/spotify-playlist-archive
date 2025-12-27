@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d57cbyhqPM.md) - [plain]
 
 > Du Congo, au monde 🌍 avec Tonton Chily.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,991 likes - 69 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,080 likes - 69 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

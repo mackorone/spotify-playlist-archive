@@ -1,6 +1,6 @@
 {
   "description": "Nacimos para rodar en el asfalto. ",
-  "num_followers": 190754,
+  "num_followers": 190828,
   "original_name": "Las Choppers",
   "owner": {
     "name": "Spotify",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2025-10-10 06:00:33",
       "album": {
-        "name": "Walk This Road",
-        "url": "https://open.spotify.com/album/7aPVm5JTgslETzxylWaywk"
-      },
-      "artists": [
-        {
-          "name": "The Doobie Brothers",
-          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
-        }
-      ],
-      "duration_ms": 230657,
-      "name": "New Orleans",
-      "url": "https://open.spotify.com/track/4wuVgdYCcCEsBQsuC5fIvx"
-    },
-    {
-      "added_at": "2025-10-10 06:00:33",
-      "album": {
         "name": "A Tribute to the Music of Bob Seger",
         "url": "https://open.spotify.com/album/7iptHw4NqVUSd4XnexhlTU"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 190893,
       "name": "Old Time Rock n\\' Roll",
       "url": "https://open.spotify.com/track/1MDgKH2MKCcWjV5UUrobHY"
+    },
+    {
+      "added_at": "2025-10-10 06:00:33",
+      "album": {
+        "name": "Walk This Road",
+        "url": "https://open.spotify.com/album/7aPVm5JTgslETzxylWaywk"
+      },
+      "artists": [
+        {
+          "name": "The Doobie Brothers",
+          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
+        }
+      ],
+      "duration_ms": 230657,
+      "name": "New Orleans",
+      "url": "https://open.spotify.com/track/4wuVgdYCcCEsBQsuC5fIvx"
     },
     {
       "added_at": "2025-10-10 06:00:33",

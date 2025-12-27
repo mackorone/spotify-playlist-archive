@@ -1,12 +1,12 @@
 {
   "description": "This is Manuel Medrano. The essential tracks, all in one playlist.",
-  "num_followers": 190193,
+  "num_followers": 190214,
   "original_name": "This Is Manuel Medrano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUstAAAAAAApNBXqDi0NckXmaP7T5tnf",
+  "snapshot_id": "aUx+gAAAAAD4bLzBB7knZtTzCwMDDHBI",
   "tracks": [
     {
       "added_at": null,
@@ -227,18 +227,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mucho M\u00e1s Que Ayer",
-        "url": "https://open.spotify.com/album/1mqwGTNaxrl2xsCQqHuTsS"
+        "name": "Tropical Jesus",
+        "url": "https://open.spotify.com/album/1hNj4AB6pbahegd5dBYPV7"
       },
       "artists": [
+        {
+          "name": "Carlos Sadness",
+          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
+        },
         {
           "name": "Manuel Medrano",
           "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
         }
       ],
-      "duration_ms": 222400,
-      "name": "Mucho M\u00e1s Que Ayer",
-      "url": "https://open.spotify.com/track/5Hp7k93aQiQfGCM4gIMgW9"
+      "duration_ms": 188222,
+      "name": "Todo Estaba Bien",
+      "url": "https://open.spotify.com/track/0qRE2t4scDRFsBgBXsQIH9"
     },
     {
       "added_at": null,
@@ -259,22 +263,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tropical Jesus",
-        "url": "https://open.spotify.com/album/1hNj4AB6pbahegd5dBYPV7"
+        "name": "Mucho M\u00e1s Que Ayer",
+        "url": "https://open.spotify.com/album/1mqwGTNaxrl2xsCQqHuTsS"
       },
       "artists": [
-        {
-          "name": "Carlos Sadness",
-          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
-        },
         {
           "name": "Manuel Medrano",
           "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
         }
       ],
-      "duration_ms": 188222,
-      "name": "Todo Estaba Bien",
-      "url": "https://open.spotify.com/track/0qRE2t4scDRFsBgBXsQIH9"
+      "duration_ms": 222400,
+      "name": "Mucho M\u00e1s Que Ayer",
+      "url": "https://open.spotify.com/track/5Hp7k93aQiQfGCM4gIMgW9"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PsJxMtn1AP.md) - [plain]
 
 > A sonic wonderland of the latest mesmerizing tunes...
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,710 likes - 60 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,944 likes - 60 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PsJxMtn1AP.md) - [plain]
 | 59 | [Rapid Fire](https://open.spotify.com/track/5qSPUKlN8pGdZosV8ILYDU) | [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5), [Laima](https://open.spotify.com/artist/1BsnJdQKuN4OUlLLYTx6gr) | [Rapid Fire / Kaitlyn Aurelia Smith Remix](https://open.spotify.com/album/4fhjIERJZDttnJmT9W53f2) | 5:34 |
 | 60 | [Caroline](https://open.spotify.com/track/5SqHQPdRnsypIJEJNTspWE) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Slow Burn](https://open.spotify.com/album/4OMrX6ldbZ3gvb0oXytTHb) | 4:06 |
 
-Snapshot ID: `AAAAAHaiFgCA1QH7LIbM6S1J4G4HnChY`
+Snapshot ID: `AAAAABkycPU/KjR5tKsbLrMwC9AaaY07`

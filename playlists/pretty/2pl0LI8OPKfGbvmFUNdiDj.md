@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 519 likes - 165 songs - 9 hr 18 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 522 likes - 167 songs - 9 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -173,5 +173,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 163 | [Avatar](https://open.spotify.com/track/4jvDddu5cVPq4ogsmSEeQ9) | [Svend48](https://open.spotify.com/artist/5u4b2A5VnjVTMzNxs5QhCc) | [Avatar](https://open.spotify.com/album/3rNkFTNqKvXFpiOB70Mb1f) | 4:28 |
 | 164 | [December Fields \(Distribution\)](https://open.spotify.com/track/4bddpe4brO09lyHpE7lb9N) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [December Fields](https://open.spotify.com/album/2aRIUc4AfB3f7FKwqH7MZq) | 4:06 |
 | 165 | [Dark Gift](https://open.spotify.com/track/4K2mhBOdr1Yx93LLMhZ03s) | [Nempty](https://open.spotify.com/artist/6Fnh4iRaxlyEQdASmWpCSl) | [Dark Gift](https://open.spotify.com/album/5UITfythp3Lzp3nvPVKOjv) | 4:14 |
+| 166 | [make it work \(interlude\)](https://open.spotify.com/track/27riDY0FZMGNIrJE3wjAQB) | [Swízzy](https://open.spotify.com/artist/0UECTvB4F2xASEH91yftgO) | [Melodic Desire II](https://open.spotify.com/album/3zyNtvKFT6Fcgmr3B0APjn) | 2:40 |
+| 167 | [Had Enough](https://open.spotify.com/track/3NgSWWcfCEfqfO0A2G1pDf) | [Rules Man](https://open.spotify.com/artist/0TEGx2fJhFmfpzioHwA4oe) | [Had Enough](https://open.spotify.com/album/243tYzE06VMLKKlSEYSPhC) | 3:28 |
 
-Snapshot ID: `AAACsKh+8mVNEnWCl5QEEqUdIzuGmKui`
+Snapshot ID: `AAACslINocBZdj0JEHA6zCDk3dApganO`

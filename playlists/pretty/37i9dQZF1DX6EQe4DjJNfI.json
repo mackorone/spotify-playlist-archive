@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Budah, Wycleff Jean",
-  "num_followers": 184594,
+  "num_followers": 184607,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -523,6 +523,22 @@
     {
       "added_at": "2025-12-12 03:33:31",
       "album": {
+        "name": "Coisas Simples",
+        "url": "https://open.spotify.com/album/1ISojEpGOfxYmhLdALJR6s"
+      },
+      "artists": [
+        {
+          "name": "YO\u00d9N",
+          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
+        }
+      ],
+      "duration_ms": 157772,
+      "name": "Coisas Simples",
+      "url": "https://open.spotify.com/track/4pvK5AbNctlQKAy2Fdvsmp"
+    },
+    {
+      "added_at": "2025-12-12 03:33:31",
+      "album": {
         "name": "Ouvir Voc\u00ea (Remix)",
         "url": "https://open.spotify.com/album/7mDJP2Ec63EpJIF9UWH2g0"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 273777,
       "name": "Ouvir Voc\u00ea (Remix)",
       "url": "https://open.spotify.com/track/2rFdrg0CX3R2TGxPWe1uph"
-    },
-    {
-      "added_at": "2025-12-12 03:33:31",
-      "album": {
-        "name": "Coisas Simples",
-        "url": "https://open.spotify.com/album/1ISojEpGOfxYmhLdALJR6s"
-      },
-      "artists": [
-        {
-          "name": "YO\u00d9N",
-          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
-        }
-      ],
-      "duration_ms": 157772,
-      "name": "Coisas Simples",
-      "url": "https://open.spotify.com/track/4pvK5AbNctlQKAy2Fdvsmp"
     },
     {
       "added_at": "2025-12-12 03:33:31",
@@ -631,22 +631,6 @@
     {
       "added_at": "2025-12-12 03:33:31",
       "album": {
-        "name": "Decep\u00e7\u00f5es de Algu\u00e9m que Ama",
-        "url": "https://open.spotify.com/album/2RDf0PNeCFoaFcGu7MSmUk"
-      },
-      "artists": [
-        {
-          "name": "Chris MC",
-          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
-        }
-      ],
-      "duration_ms": 152678,
-      "name": "Anjo",
-      "url": "https://open.spotify.com/track/4AFsCIYOqkVtmcmaz3CqPr"
-    },
-    {
-      "added_at": "2025-12-12 03:33:31",
-      "album": {
         "name": "Amar\u00edssima V2 (Remix)",
         "url": "https://open.spotify.com/album/7neKB5LSdNnYiuEUlCqWgm"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 187733,
       "name": "Falar De Amor - Remix",
       "url": "https://open.spotify.com/track/6VuWmaHvFidnEvsa2FYHbd"
+    },
+    {
+      "added_at": "2025-12-12 03:33:31",
+      "album": {
+        "name": "Decep\u00e7\u00f5es de Algu\u00e9m que Ama",
+        "url": "https://open.spotify.com/album/2RDf0PNeCFoaFcGu7MSmUk"
+      },
+      "artists": [
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        }
+      ],
+      "duration_ms": 152678,
+      "name": "Anjo",
+      "url": "https://open.spotify.com/track/4AFsCIYOqkVtmcmaz3CqPr"
     },
     {
       "added_at": "2025-12-12 03:33:31",
@@ -799,26 +799,26 @@
     {
       "added_at": "2025-12-12 03:33:31",
       "album": {
-        "name": "Amor \u00e0 Luz do Dia",
-        "url": "https://open.spotify.com/album/6v6SdYzmXYRdqq4asPOGPX"
+        "name": "Cansei De Chorar Seu Nome",
+        "url": "https://open.spotify.com/album/4wksx2nXU8WF5Mmhmi1mmf"
       },
       "artists": [
         {
-          "name": "Ella",
-          "url": "https://open.spotify.com/artist/31SKzF14gxaCl4RlK8YrvA"
+          "name": "Rafael Stonne",
+          "url": "https://open.spotify.com/artist/7vA4reE0DYbBu0wPiKditj"
         },
         {
-          "name": "IZRRA",
-          "url": "https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV"
+          "name": "Bruna Mendez",
+          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
         },
         {
-          "name": "JOK3R",
-          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+          "name": "LAN",
+          "url": "https://open.spotify.com/artist/0ASWGhrmkvvEO5dOj0Cj5o"
         }
       ],
-      "duration_ms": 225304,
-      "name": "Amor \u00e0 Luz do Dia",
-      "url": "https://open.spotify.com/track/50KyRq3PtkVS4RV12CClqt"
+      "duration_ms": 224938,
+      "name": "Cansei De Chorar Seu Nome",
+      "url": "https://open.spotify.com/track/63towjWqbLl2BGo4fsZr0P"
     },
     {
       "added_at": "2025-12-12 03:33:31",
@@ -843,26 +843,26 @@
     {
       "added_at": "2025-12-12 03:33:31",
       "album": {
-        "name": "Cansei De Chorar Seu Nome",
-        "url": "https://open.spotify.com/album/4wksx2nXU8WF5Mmhmi1mmf"
+        "name": "Amor \u00e0 Luz do Dia",
+        "url": "https://open.spotify.com/album/6v6SdYzmXYRdqq4asPOGPX"
       },
       "artists": [
         {
-          "name": "Rafael Stonne",
-          "url": "https://open.spotify.com/artist/7vA4reE0DYbBu0wPiKditj"
+          "name": "Ella",
+          "url": "https://open.spotify.com/artist/31SKzF14gxaCl4RlK8YrvA"
         },
         {
-          "name": "Bruna Mendez",
-          "url": "https://open.spotify.com/artist/2MRNPdxSIFA9NJXNB0TTtc"
+          "name": "IZRRA",
+          "url": "https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV"
         },
         {
-          "name": "LAN",
-          "url": "https://open.spotify.com/artist/0ASWGhrmkvvEO5dOj0Cj5o"
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
         }
       ],
-      "duration_ms": 224938,
-      "name": "Cansei De Chorar Seu Nome",
-      "url": "https://open.spotify.com/track/63towjWqbLl2BGo4fsZr0P"
+      "duration_ms": 225304,
+      "name": "Amor \u00e0 Luz do Dia",
+      "url": "https://open.spotify.com/track/50KyRq3PtkVS4RV12CClqt"
     },
     {
       "added_at": "2025-12-12 03:33:31",

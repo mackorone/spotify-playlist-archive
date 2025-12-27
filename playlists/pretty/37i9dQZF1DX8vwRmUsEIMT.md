@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 > All the new music you need to hear right now\. Cover: A.G\. Cook
 
-[Spotify](https://open.spotify.com/user/spotify) - 592,090 likes - 79 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 592,449 likes - 79 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 | 78 | [U DO](https://open.spotify.com/track/6LTPzG9ONMja1bvY2yDYZt) | [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa), [Mera Bhai](https://open.spotify.com/artist/4C8nlIoLPOidEuovsSBSqU) | [ASKING FOR A FRIEND](https://open.spotify.com/album/1mwn3eJUlBO1M2eNrQUBGz) | 4:00 |
 | 79 | [The Rarest Hour](https://open.spotify.com/track/3ZlHYicAmVwPBB3bhyo85k) | [Amble](https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI) | [The Rarest Hour](https://open.spotify.com/album/4s5GdjDWH2ADhn8YGafhOT) | 4:05 |
 
-Snapshot ID: `AAAAAB/inoSL+Z4nuJF7yGcmNCqpwaJF`
+Snapshot ID: `AAAAAOz4LQ8LexlNJotE7MsLp8GnU8YA`

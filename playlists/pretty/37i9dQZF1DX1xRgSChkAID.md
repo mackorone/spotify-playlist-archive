@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xRgSChkAID.md) - [plain]
 
 > queer ego fueled, curated by Zaya Wade\. Any and all necessary vibes for a complete trans girl summer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,509 likes - 40 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,507 likes - 40 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

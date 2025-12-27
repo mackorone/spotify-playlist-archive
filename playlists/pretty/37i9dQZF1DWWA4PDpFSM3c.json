@@ -1,12 +1,12 @@
 {
   "description": "Mellow down the mood with these Telugu tracks\nCover: Dear Comrade",
-  "num_followers": 97331,
+  "num_followers": 97398,
   "original_name": "Mellow Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKhcH3K4a8zlNA1JHx9GiCNMB0UU",
+  "snapshot_id": "AAAAAC1KGddQMgCRXoqrTsIphHXwyiQS",
   "tracks": [
     {
       "added_at": "2021-05-18 09:57:44",
@@ -401,6 +401,22 @@
       "url": "https://open.spotify.com/track/77feKtBcyhRv4SE2u6dd9R"
     },
     {
+      "added_at": "2024-02-12 05:31:53",
+      "album": {
+        "name": "Arjun Reddy",
+        "url": "https://open.spotify.com/album/1tqm6TOZEJfsjJagQPFbyd"
+      },
+      "artists": [
+        {
+          "name": "Sameera Bharadwaj",
+          "url": "https://open.spotify.com/artist/10CItw8tdXThklMWPI55vu"
+        }
+      ],
+      "duration_ms": 343214,
+      "name": "Madhurame",
+      "url": "https://open.spotify.com/track/4sbR8sUkAe6tJTooAQauEe"
+    },
+    {
       "added_at": "2023-10-06 08:47:21",
       "album": {
         "name": "Gaaju Bomma (From \"Hi Nanna\")",
@@ -417,20 +433,20 @@
       "url": "https://open.spotify.com/track/6r6LuaWod5nW43TQny7ndd"
     },
     {
-      "added_at": "2024-02-12 05:31:53",
+      "added_at": "2023-03-09 10:18:22",
       "album": {
-        "name": "Arjun Reddy",
-        "url": "https://open.spotify.com/album/1tqm6TOZEJfsjJagQPFbyd"
+        "name": "Andala Rakshasi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2pAVF1q5XzPoDy2yINgOjg"
       },
       "artists": [
         {
-          "name": "Sameera Bharadwaj",
-          "url": "https://open.spotify.com/artist/10CItw8tdXThklMWPI55vu"
+          "name": "Rakendu Mouli",
+          "url": "https://open.spotify.com/artist/10BBtazfegYIDgF3gxzImU"
         }
       ],
-      "duration_ms": 343214,
-      "name": "Madhurame",
-      "url": "https://open.spotify.com/track/4sbR8sUkAe6tJTooAQauEe"
+      "duration_ms": 228101,
+      "name": "Manasu Palike",
+      "url": "https://open.spotify.com/track/4Yqrf3I0S7SOBhWOGVU7fU"
     },
     {
       "added_at": "2024-04-04 10:09:10",
@@ -455,22 +471,6 @@
       "duration_ms": 211670,
       "name": "Anuvanuvuu",
       "url": "https://open.spotify.com/track/0kNe3kmRFq7eKVlL15h7nb"
-    },
-    {
-      "added_at": "2023-03-09 10:18:22",
-      "album": {
-        "name": "Andala Rakshasi (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2pAVF1q5XzPoDy2yINgOjg"
-      },
-      "artists": [
-        {
-          "name": "Rakendu Mouli",
-          "url": "https://open.spotify.com/artist/10BBtazfegYIDgF3gxzImU"
-        }
-      ],
-      "duration_ms": 228101,
-      "name": "Manasu Palike",
-      "url": "https://open.spotify.com/track/4Yqrf3I0S7SOBhWOGVU7fU"
     },
     {
       "added_at": "2024-11-19 12:29:42",
@@ -701,58 +701,6 @@
       "url": "https://open.spotify.com/track/4b4xkbpRpA8jHbP8GVLYWR"
     },
     {
-      "added_at": "2022-09-02 08:32:31",
-      "album": {
-        "name": "Pokiri",
-        "url": "https://open.spotify.com/album/4CO4EDT6CLK1TC6n4yJNUX"
-      },
-      "artists": [
-        {
-          "name": "Nihal",
-          "url": "https://open.spotify.com/artist/7DX2CLnA9ajgQuNf5jqEXl"
-        }
-      ],
-      "duration_ms": 273769,
-      "name": "Gala Gala Paruthunna",
-      "url": "https://open.spotify.com/track/6E2MIXNryG2WcVb9sh1I8L"
-    },
-    {
-      "added_at": "2022-09-02 08:32:31",
-      "album": {
-        "name": "Neeve",
-        "url": "https://open.spotify.com/album/2m9VqOtsGbywuyl4QXp32V"
-      },
-      "artists": [
-        {
-          "name": "Yazin Nizar",
-          "url": "https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX"
-        }
-      ],
-      "duration_ms": 307335,
-      "name": "Neeve",
-      "url": "https://open.spotify.com/track/5NObORkzAytZ9tmAyGXaRP"
-    },
-    {
-      "added_at": "2021-05-18 09:57:44",
-      "album": {
-        "name": "ABCD - American Born Confused Desi (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/19kRwbWwLuNJduIg7G7mnt"
-      },
-      "artists": [
-        {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
-        },
-        {
-          "name": "Aditi Bhavaraju",
-          "url": "https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "Mella Mellagaa",
-      "url": "https://open.spotify.com/track/4vX7VKZYx1wGAq5DKBTfAF"
-    },
-    {
       "added_at": "2024-09-10 05:46:22",
       "album": {
         "name": "Ela (From \"Sopathulu\")",
@@ -779,22 +727,54 @@
     {
       "added_at": "2022-09-02 08:32:31",
       "album": {
-        "name": "Panjaa",
-        "url": "https://open.spotify.com/album/1yc1PhFxmSKD1tZtCWQirO"
+        "name": "Neeve",
+        "url": "https://open.spotify.com/album/2m9VqOtsGbywuyl4QXp32V"
       },
       "artists": [
         {
-          "name": "Haricharan",
-          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
-        },
-        {
-          "name": "Swetha",
-          "url": "https://open.spotify.com/artist/4LxLLrO6bFofvfXOcujJRv"
+          "name": "Yazin Nizar",
+          "url": "https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX"
         }
       ],
-      "duration_ms": 305925,
-      "name": "Ela Ela Naalo",
-      "url": "https://open.spotify.com/track/5RJb4ZBgdJBOZe5Fx2aDWo"
+      "duration_ms": 307335,
+      "name": "Neeve",
+      "url": "https://open.spotify.com/track/5NObORkzAytZ9tmAyGXaRP"
+    },
+    {
+      "added_at": "2022-09-02 08:32:31",
+      "album": {
+        "name": "Pokiri",
+        "url": "https://open.spotify.com/album/4CO4EDT6CLK1TC6n4yJNUX"
+      },
+      "artists": [
+        {
+          "name": "Nihal",
+          "url": "https://open.spotify.com/artist/7DX2CLnA9ajgQuNf5jqEXl"
+        }
+      ],
+      "duration_ms": 273769,
+      "name": "Gala Gala Paruthunna",
+      "url": "https://open.spotify.com/track/6E2MIXNryG2WcVb9sh1I8L"
+    },
+    {
+      "added_at": "2021-05-18 09:57:44",
+      "album": {
+        "name": "ABCD - American Born Confused Desi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/19kRwbWwLuNJduIg7G7mnt"
+      },
+      "artists": [
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        },
+        {
+          "name": "Aditi Bhavaraju",
+          "url": "https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6"
+        }
+      ],
+      "duration_ms": 243000,
+      "name": "Mella Mellagaa",
+      "url": "https://open.spotify.com/track/4vX7VKZYx1wGAq5DKBTfAF"
     },
     {
       "added_at": "2024-08-28 12:46:30",
@@ -819,6 +799,26 @@
       "duration_ms": 261314,
       "name": "Laalijo Raagam",
       "url": "https://open.spotify.com/track/4IXvddnjRVwgZ62EnWR6dy"
+    },
+    {
+      "added_at": "2022-09-02 08:32:31",
+      "album": {
+        "name": "Panjaa",
+        "url": "https://open.spotify.com/album/1yc1PhFxmSKD1tZtCWQirO"
+      },
+      "artists": [
+        {
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        },
+        {
+          "name": "Swetha",
+          "url": "https://open.spotify.com/artist/4LxLLrO6bFofvfXOcujJRv"
+        }
+      ],
+      "duration_ms": 305925,
+      "name": "Ela Ela Naalo",
+      "url": "https://open.spotify.com/track/5RJb4ZBgdJBOZe5Fx2aDWo"
     },
     {
       "added_at": "2022-09-02 08:32:31",

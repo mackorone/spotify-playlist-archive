@@ -4,17 +4,21 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 
 > This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday 😎
 
-[Record Union](https://open.spotify.com/user/recordunion) - 2,563 likes - 8 songs - 25 min 25 sec
+[Record Union](https://open.spotify.com/user/recordunion) - 2,563 likes - 12 songs - 39 min 35 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [GRAPEKEEPER](https://open.spotify.com/track/4eKlFmLISDHmvvStWXirpe) | [Enter The Animus](https://open.spotify.com/artist/6eK3Q6dKMsZdt2rPs6V0o4), [Berried Alive](https://open.spotify.com/artist/0gZTdTYGI2ABqOENQ31u5e), [Noah Crenshaw](https://open.spotify.com/artist/4cNADx5YLcOfJl6cb5Ocxl), [wimble](https://open.spotify.com/artist/3mLLPTOQIAxD8Hjd3ER9HW) | [GRAPEKEEPER](https://open.spotify.com/album/3e5AYDUWrxgztEFGESqVrY) | 2:58 |
-| 2 | [BURN](https://open.spotify.com/track/3Zh6XQFvvK4tNPZkFi5X6V) | [Dracinda](https://open.spotify.com/artist/2E22V5h9X6XRXbPfLYh20b) | [BURN](https://open.spotify.com/album/6de3vYbDna8pyJ5mtZdYtd) | 2:38 |
-| 3 | [Guardian Angel](https://open.spotify.com/track/3Tf5yZRIfCtyBuen2ySxPo) | [Person of Interest](https://open.spotify.com/artist/4JAu4KquLJdUnMBWUOqN7N) | [The Double Album Side 4](https://open.spotify.com/album/5rX9FGipvLjskzBscl23WS) | 3:52 |
-| 4 | [Labussa](https://open.spotify.com/track/0fbSyZcTVTOECWMrnGOMXU) | [JK](https://open.spotify.com/artist/2VqkHHnKdluoRzw5OcD6Oq) | [Labussa](https://open.spotify.com/album/0ZjZj89QWEcyWDkt3LBiBF) | 3:56 |
-| 5 | [Perfect Combination](https://open.spotify.com/track/0DeZ2FmKWcKD9TdYQkwSWA) | [The Jolly Company](https://open.spotify.com/artist/5HWg5rOfAFMiFSfENTgHNQ), [Göran Edman](https://open.spotify.com/artist/6D6dxVY0ooHhTOJ8YD6UMa) | [Perfect Combination](https://open.spotify.com/album/0sROl07f8hWQ2yOslCuIE1) | 3:21 |
-| 6 | [Allting dör](https://open.spotify.com/track/7yHKJ4CRX7gl59gTLJom20) | [Anders Barsk](https://open.spotify.com/artist/5BnLGYfNDuNbrQzn3b2bsO) | [Allting dör](https://open.spotify.com/album/6DDFxqkaDoYmG7RN32vPgs) | 3:11 |
-| 7 | [Built Different](https://open.spotify.com/track/0Ucrh6gcSwUDs3cFeDLxuC) | [Freddyrobb baby](https://open.spotify.com/artist/2Wwq5ojGeu2csuAMhRigDw) | [Built Different](https://open.spotify.com/album/7bRziBAFMGf9Dspd1QUGRq) | 2:00 |
-| 8 | [Champagne Promises](https://open.spotify.com/track/5EINzjnw2gNBbBuEHD0av7) | [Neon Cherry Riot](https://open.spotify.com/artist/76bS65hCAzwZpmwVRsc7li) | [RIOT ACT](https://open.spotify.com/album/6943XEC9hJsnKEJWsF6fBK) | 3:24 |
+| 1 | [Astray](https://open.spotify.com/track/2lacB2rMJ5zQY58DwQuHZW) | [The Wonderers](https://open.spotify.com/artist/5tQZOy9tnPAMGZPr6WgzUL) | [Astray](https://open.spotify.com/album/4LyJ5FjXiTerGVsRUnwDR5) | 3:10 |
+| 2 | [Stack Or Starve](https://open.spotify.com/track/5IEGgUDRbLFtO9BihFmHKj) | [Freddyrobb baby](https://open.spotify.com/artist/2Wwq5ojGeu2csuAMhRigDw) | [Stack Or Starve](https://open.spotify.com/album/6amQlclkzVGDDL0ogIUv9G) | 2:59 |
+| 3 | [what's the vibe](https://open.spotify.com/track/2qwqBxqRE8ipwGT1W34eIN) | [wilsden](https://open.spotify.com/artist/50DA02Cs1Ax5YOpK6iHUmV) | [what's the vibe](https://open.spotify.com/album/154scGvIvXVZ1N7U1QYzkV) | 2:14 |
+| 4 | [I´m just a Machine](https://open.spotify.com/track/3vmPJeTdFK1YkYjIzoC32f) | [Jimmy Granlund](https://open.spotify.com/artist/7dnRyt5ilDRWFPcbvOGUEs) | [I´m just a Machine](https://open.spotify.com/album/2emua2aQO2DZcy8g0xkHqC) | 3:43 |
+| 5 | [ZIRKLE](https://open.spotify.com/track/0v9Dm9EFiJSfmxEiaUogtK) | [yobifare](https://open.spotify.com/artist/2mr5AgQZDLzM6eEkWYJnY8) | [ZIRKLE](https://open.spotify.com/album/5mkzQ7Sie8sixW2twRQiq2) | 2:40 |
+| 6 | [Your Love](https://open.spotify.com/track/56GdNAVgerSVb7D1NAKzCO) | [De Dope Def](https://open.spotify.com/artist/1rNkyhO6WsJlrNvNVTr0fZ) | [Your love](https://open.spotify.com/album/6DjhZbkpQQ1JxcmNkPTW7C) | 2:56 |
+| 7 | [Santa Ain't Comin'](https://open.spotify.com/track/7y2otCRcEcB7rFX20lh0Df) | [Dogg's Noggin](https://open.spotify.com/artist/3b6st9DMRFtOFrYd1QHvhl) | [Santa Ain't Comin'](https://open.spotify.com/album/2Uxcut8AmiwtnS6OHJyWw9) | 2:39 |
+| 8 | [Bright Blue](https://open.spotify.com/track/1fWliH0ZN9RvwDFptAeaih) | [Gekko](https://open.spotify.com/artist/3pAlvy9K8p3VChT6y8n0qa) | [Bright Blue](https://open.spotify.com/album/40iXkP9MCtCbqblSvCGCfi) | 3:26 |
+| 9 | [Står stark](https://open.spotify.com/track/5HIZ76it3nXtspWq7IATwl) | [ELS73](https://open.spotify.com/artist/7xAvRkarxUWeZhVGdB2YpS) | [Står stark](https://open.spotify.com/album/3erAtieNVW43sdCvabrJA9) | 4:28 |
+| 10 | [Was al van jou \(voor ik je kende\)](https://open.spotify.com/track/2GiIgxhyrVz8OrLb04uWmx) | [NOORT](https://open.spotify.com/artist/73hHy6qNLunzOrzJevSSmc) | [Was al van jou \(voor ik je kende\)](https://open.spotify.com/album/5GOOmXRUgHErjM29q1aQq5) | 3:15 |
+| 11 | [Please come home for Christmas](https://open.spotify.com/track/4fFe9SxdaW3gVitH3FycjT) | [Bottleneck John](https://open.spotify.com/artist/7eXbcPTAtEkoxkT4HyBa59) | [Please come home for Christmas](https://open.spotify.com/album/2hfuFJqXFeKIml1WVT2NFA) | 4:07 |
+| 12 | [Fredsbossa](https://open.spotify.com/track/45WmUYJetr4gtuGToldoNW) | [Sjånadrotten med Vänner](https://open.spotify.com/artist/5nVQpAhbB3WLimjv0RkBUv) | [Fredsbossa](https://open.spotify.com/album/7lTpBKu6jMG2jaytaTp20W) | 3:52 |
 
-Snapshot ID: `AAAEbhcz4ieToX/vl8XFU2JrwXKNINo+`
+Snapshot ID: `AAAEcJcJtHHE4O6RAbWlkZPu5WkkpbJq`

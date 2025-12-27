@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: Marshmello & INJI
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,079 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 365,454 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 99 | [Get To Love You \(feat\. LP\)](https://open.spotify.com/track/1ZKPKDt8wbGVhgyRjjtC8X) | [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs), [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Get To Love You \(feat\. LP\)](https://open.spotify.com/album/2zeUvevJOeuYGMDKGmMDzQ) | 3:43 |
 | 100 | [Golden \- David Guetta REM/X](https://open.spotify.com/track/5tVnzVWIKrmmuOPGbXUbT4) | [HUNTR/X](https://open.spotify.com/artist/2yNNYQBChuox9A5Ka93BIn), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Golden \[David Guetta REM/X \(from the Netflix film KPop Demon Hunters\)\]](https://open.spotify.com/album/5DLI2kMdzrauXjS5fB3OFv) | 2:56 |
 
-Snapshot ID: `AAAAAPiYufflEYn22RfB8RTGs8opmayF`
+Snapshot ID: `AAAAAO9tKrHKoH8JHXwRswmWjwpdoX73`

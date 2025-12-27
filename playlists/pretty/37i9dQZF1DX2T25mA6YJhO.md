@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 
 > Súbete a la nueva ola del rock español\. Foto: Mujeres.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,668 likes - 85 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,686 likes - 85 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 | 84 | [On/Off](https://open.spotify.com/track/2ymr2d8Uu3lNRCArxtbxjX) | [el diablo de shanghai](https://open.spotify.com/artist/6SOoncS0Wc2j36swbwzSWt) | [On/Off](https://open.spotify.com/album/0d3y1tekje9TJtR5QYPXPa) | 1:39 |
 | 85 | [LIMFJORDEN](https://open.spotify.com/track/3th1pOknv0ULG3uCMi2ogJ) | [paco te quiero](https://open.spotify.com/artist/5da84dECf86iCOP1dchjJc) | [LIMFJORDEN](https://open.spotify.com/album/02HzsCfpaGbw4Tgs2Pf78g) | 3:42 |
 
-Snapshot ID: `AAAAAN9ph8FkxBdFNNg5xWSSv/1M0hvO`
+Snapshot ID: `AAAAAAwMan8kap+IWIx8WbRQ5N/RNa3I`

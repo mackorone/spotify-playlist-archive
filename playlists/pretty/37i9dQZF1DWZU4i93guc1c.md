@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU4i93guc1c.md) - [plain]
 
 > Xіти та проривні новинки незалежної місцевої музики\. Обкладинка: Околиця
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,359 likes - 80 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,356 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,12 +48,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU4i93guc1c.md) - [plain]
 | 38 | [Намалюй](https://open.spotify.com/track/2Umyi3slF7uXgLQFu33RMS) | [паліндром](https://open.spotify.com/artist/3kM7MT7h1sQm1PMiCxkkSX) | [Намалюй](https://open.spotify.com/album/2TZPOp1h74kMSsM1fiI8rN) | 3:31 |
 | 39 | [Божеволію](https://open.spotify.com/track/5zUtwQIUuYmB82bg4Sf8vV) | [BAH.ROMA](https://open.spotify.com/artist/1xhTkIWAZxPeZpJWbjClqL) | [Божеволію](https://open.spotify.com/album/4DAqXpoiwRHNQ0zvXS3xPP) | 4:40 |
 | 40 | [WAKE UP](https://open.spotify.com/track/4fKLKGQZBFKtMXxErGimHx) | [GEZWEIRDO](https://open.spotify.com/artist/6bTAQ6F3BQfGWbqLz0xk46) | [WAKE UP](https://open.spotify.com/album/6KtQkO9VJn6S8gxlII4NOg) | 2:36 |
-| 41 | [Твій Сміх](https://open.spotify.com/track/4pD8GIxWDAOeA819786Ny7) | [NAZVA](https://open.spotify.com/artist/6Z0JQx2gaHoT6fiBgTS9p3) | [Твій Сміх](https://open.spotify.com/album/3ENa9mw7tNiMX7f3Az0fZC) | 3:22 |
-| 42 | [Напинай вітрила](https://open.spotify.com/track/4sxB6gfbavGMopWKv6vjj5) | [Lely45](https://open.spotify.com/artist/3S2ZPs0ccEwknZLPQDbGSw) | [Напинай вітрила](https://open.spotify.com/album/3TqrkVSKKeiHKEnRz60PH0) | 2:39 |
+| 41 | [Напинай вітрила](https://open.spotify.com/track/4sxB6gfbavGMopWKv6vjj5) | [Lely45](https://open.spotify.com/artist/3S2ZPs0ccEwknZLPQDbGSw) | [Напинай вітрила](https://open.spotify.com/album/3TqrkVSKKeiHKEnRz60PH0) | 2:39 |
+| 42 | [Твій Сміх](https://open.spotify.com/track/4pD8GIxWDAOeA819786Ny7) | [NAZVA](https://open.spotify.com/artist/6Z0JQx2gaHoT6fiBgTS9p3) | [Твій Сміх](https://open.spotify.com/album/3ENa9mw7tNiMX7f3Az0fZC) | 3:22 |
 | 43 | [Маріонетка](https://open.spotify.com/track/30eZiiJp6tsJjqDoTtV0Jd) | [The Elliens](https://open.spotify.com/artist/5AxRkX51k8fYDb12ebNJpG) | [Маріонетка](https://open.spotify.com/album/5PYiozd9Uhh8UXrteJaAUl) | 3:23 |
 | 44 | [Балкон](https://open.spotify.com/track/7tZhv0C5uC5lH7fhheFuRH) | [Shmiska](https://open.spotify.com/artist/0896FugzPOpBDwYEfhMAVY) | [Балкон](https://open.spotify.com/album/1B5vHqGUt39Kkb5dKt2T2s) | 2:39 |
-| 45 | [Молодість](https://open.spotify.com/track/7GWTHnTSMhideso0NzMwAX) | [Ницо Потворно](https://open.spotify.com/artist/1AbmsaKuOkDN5bVSunBoIY) | [Нормальне Літо 25](https://open.spotify.com/album/6BY8DR5U3i1pNXWHAn4yUc) | 3:48 |
-| 46 | [Зійде роса](https://open.spotify.com/track/530ESVh9HEg4Ug6bLB0bnL) | [Do Sliz](https://open.spotify.com/artist/61v6YcV4juu3cN4xzVji03) | [Зійде роса](https://open.spotify.com/album/4iaOHtC0qqjThgq0ddipAu) | 3:40 |
+| 45 | [Зійде роса](https://open.spotify.com/track/530ESVh9HEg4Ug6bLB0bnL) | [Do Sliz](https://open.spotify.com/artist/61v6YcV4juu3cN4xzVji03) | [Зійде роса](https://open.spotify.com/album/4iaOHtC0qqjThgq0ddipAu) | 3:40 |
+| 46 | [Молодість](https://open.spotify.com/track/7GWTHnTSMhideso0NzMwAX) | [Ницо Потворно](https://open.spotify.com/artist/1AbmsaKuOkDN5bVSunBoIY) | [Нормальне Літо 25](https://open.spotify.com/album/6BY8DR5U3i1pNXWHAn4yUc) | 3:48 |
 | 47 | [З мене досить](https://open.spotify.com/track/67NlZXaAshNFrTE3Wj70qK) | [Юля Юріна](https://open.spotify.com/artist/0iwdyeaa6WACBoexz0p0XM) | [З мене досить](https://open.spotify.com/album/6VdAnbSa0J1vUprrARwJxs) | 2:59 |
 | 48 | [Поруч з тобою](https://open.spotify.com/track/4nqwVfRRVbKDddjAMib85f) | [Lely45](https://open.spotify.com/artist/3S2ZPs0ccEwknZLPQDbGSw) | [Поруч з тобою](https://open.spotify.com/album/47jLDzK66obnwrxZNb4Tti) | 3:34 |
 | 49 | [переобіжайся](https://open.spotify.com/track/4lUM5OhFgrjqS0uEy7FVpb) | [пропаща сила](https://open.spotify.com/artist/7qXRtbGyISPD8fUFhIqCyE) | [переобіжайся](https://open.spotify.com/album/0YALsuITpEtxvz12m4SNXp) | 2:57 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU4i93guc1c.md) - [plain]
 | 73 | [Lungs](https://open.spotify.com/track/3RXAI58cjgUnuk6heeqY0N) | [артилерія](https://open.spotify.com/artist/1iC0iOxwU2oglYqtSr5NV7), [Valentyn Pereverza](https://open.spotify.com/artist/0bT7uE9au1amPNFNg7MQKO) | [Lungs](https://open.spotify.com/album/0mU5e3ZwYMDDAhk8rUvSnt) | 3:07 |
 | 74 | [Ніколи назад](https://open.spotify.com/track/2gApZB14TPDY5bHhziWpzg) | [NAZVA](https://open.spotify.com/artist/6Z0JQx2gaHoT6fiBgTS9p3), [Культурні сили](https://open.spotify.com/artist/7bty0csYS5YQnCHwaVT0ad) | [Ніколи назад](https://open.spotify.com/album/23OA1dFyZ9E0KJrkNNY3kO) | 2:52 |
 | 75 | [Дивний спокій](https://open.spotify.com/track/29Pa0G0nrVe7ags8SGXz30) | [Darie Lu](https://open.spotify.com/artist/1n74Dz6ZvKs2daUeFXGcqs) | [Дивний спокій](https://open.spotify.com/album/5iDgRFXFgVftXqPB1P2ha4) | 4:05 |
-| 76 | [як тобі?](https://open.spotify.com/track/4dwAbcQ5vkhNKQumxzL35F) | [The Curly](https://open.spotify.com/artist/1JK4hfx5B8oTtjsfYgaOeD) | [емоційний мазохізм](https://open.spotify.com/album/7Ix18HW05AEcV2iW83KqoS) | 3:18 |
-| 77 | [фарби](https://open.spotify.com/track/7vYCdjVFJtUFv8zuFghOpP) | [The Soul Delusion](https://open.spotify.com/artist/4Zayd3BUGqyOQIhEZXbuUi) | [фарби забуття](https://open.spotify.com/album/2sy9aeifFkZIrmK2MyzpcX) | 2:58 |
+| 76 | [фарби](https://open.spotify.com/track/7vYCdjVFJtUFv8zuFghOpP) | [The Soul Delusion](https://open.spotify.com/artist/4Zayd3BUGqyOQIhEZXbuUi) | [фарби забуття](https://open.spotify.com/album/2sy9aeifFkZIrmK2MyzpcX) | 2:58 |
+| 77 | [як тобі?](https://open.spotify.com/track/4dwAbcQ5vkhNKQumxzL35F) | [The Curly](https://open.spotify.com/artist/1JK4hfx5B8oTtjsfYgaOeD) | [емоційний мазохізм](https://open.spotify.com/album/7Ix18HW05AEcV2iW83KqoS) | 3:18 |
 | 78 | [кхтс](https://open.spotify.com/track/5n9X8EX631Bt7zRJ0UXzBe) | [YUVI](https://open.spotify.com/artist/6l6Oqj9SmzFR81eaVmyhB9) | [кхтс](https://open.spotify.com/album/0D8lIfd0CWbWeOsZMg0twI) | 3:02 |
 | 79 | [Літо](https://open.spotify.com/track/5oVi9g7m1K1TqqIqPDTMPL) | [Ницо Потворно](https://open.spotify.com/artist/1AbmsaKuOkDN5bVSunBoIY) | [Літо](https://open.spotify.com/album/72P3IffTqosjF2XkHlv6Jp) | 2:47 |
-| 80 | [забався](https://open.spotify.com/track/6VNyKMoDGkM1GFOAMb1izH) | [макс пташник](https://open.spotify.com/artist/1jT1y7O8NtdUwGfCTZM4JE), [IHRYK](https://open.spotify.com/artist/3N9LWzMGgRlUR9ehu0Qmzv) | [забався](https://open.spotify.com/album/6ImDPICHH57HSqpJrVKHKV) | 2:00 |
+| 80 | [Усі ми прагнемо любові](https://open.spotify.com/track/7oiIq24JR3715PeHFndzxm) | [Крихітка](https://open.spotify.com/artist/3GvCDEg7s8LxI3FNS1CWRK), [ULIA LORD](https://open.spotify.com/artist/5SSvKZ0783cGZgR0yYC6i9), [Qarpa](https://open.spotify.com/artist/6E1zNg2zYhqKErKzkrb9em) | [Усі ми прагнемо любові](https://open.spotify.com/album/7uq7GMPRLgSIM7Hz5qndQe) | 3:48 |
 
 Snapshot ID: `AAAAAOu8uDrlehRfrFBgnWi4o8/JSDOG`

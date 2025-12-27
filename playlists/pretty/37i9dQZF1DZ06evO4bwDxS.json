@@ -1,13 +1,29 @@
 {
   "description": "This is Sabrina Carpenter. The essential tracks, all in one playlist.",
-  "num_followers": 668914,
+  "num_followers": 669422,
   "original_name": "This Is Sabrina Carpenter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUstAAAAAABHRRfyXbO8gR0zAzar7UL7",
+  "snapshot_id": "aUx+gAAAAAAsDP4B+V1yPysnGxiIJgNq",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Man\u2019s Best Friend (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/43k99CXeU2JUO21G1F4WCP"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 232378,
+      "name": "Such A Funny Way",
+      "url": "https://open.spotify.com/track/5INY1sXYVmFCN5I6cbwdmk"
+    },
     {
       "added_at": null,
       "album": {

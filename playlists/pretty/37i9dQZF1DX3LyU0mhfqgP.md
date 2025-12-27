@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > Celebrating LGBTQIA+ artists with highlights from 2025 Cover: kwn
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,074,172 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,074,168 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 20 | [RIP KP](https://open.spotify.com/track/6w8kcJNEIaRjfvRYPHsmnk) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Girl Violence](https://open.spotify.com/album/4aAqSQJ69OruOHDlQ9B5ki) | 2:18 |
 | 21 | [boyfriend](https://open.spotify.com/track/292KoLS4yud1QuOPNo5pWk) | [2charm](https://open.spotify.com/artist/7HKUxdZeGZQHLE7vFG4Syr) | [boyfriend](https://open.spotify.com/album/3a6KERMEr8uU8C4N70cUtz) | 3:21 |
 | 22 | [MEDLEY DO NOVO FIM](https://open.spotify.com/track/6vsV6AFvJGnPj7QBnbKUZu) | [Irmãs de Pau](https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu), [Isma](https://open.spotify.com/artist/2S8MKEWBgk4VQ1gxDPcO8Z), [Vita](https://open.spotify.com/artist/6dfQmJiIvW1OedMalPDMnO) | [MEDLEY DO NOVO FIM](https://open.spotify.com/album/5o7pyICFvHpNysLA3IfHu5) | 6:24 |
-| 23 | [Finish This Drink](https://open.spotify.com/track/2IXB8DfcrFeO75WfEmgu8O) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Finish This Drink](https://open.spotify.com/album/1kpQJrhQQtsiaoMvP0bY3t) | 2:59 |
-| 24 | [Give Me A Sign \(feat\. Caroline Kingsbury\)](https://open.spotify.com/track/3DrbSP3GR8cEqWcR6jf9yJ) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE), [Caroline Kingsbury](https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg) | [Give Me A Sign \(feat\. Caroline Kingsbury\)](https://open.spotify.com/album/5xbuVE2oApu5EVIbJhLpEc) | 2:59 |
+| 23 | [Give Me A Sign \(feat\. Caroline Kingsbury\)](https://open.spotify.com/track/3DrbSP3GR8cEqWcR6jf9yJ) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE), [Caroline Kingsbury](https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg) | [Give Me A Sign \(feat\. Caroline Kingsbury\)](https://open.spotify.com/album/5xbuVE2oApu5EVIbJhLpEc) | 2:59 |
+| 24 | [Finish This Drink](https://open.spotify.com/track/2IXB8DfcrFeO75WfEmgu8O) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Finish This Drink](https://open.spotify.com/album/1kpQJrhQQtsiaoMvP0bY3t) | 2:59 |
 | 25 | [Twist The Knife](https://open.spotify.com/track/5WeuKxVrefRC2P9XiI3GOg) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [SALVATION](https://open.spotify.com/album/7KeBfU7MZe7LFqgse8blI7) | 3:25 |
 | 26 | [Non Stop](https://open.spotify.com/track/5MbwPk0XgFvKF1meetPKEt) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Non Stop](https://open.spotify.com/album/74aGXEGGfL7xaLKEeWlcZz) | 2:36 |
 | 27 | [KISSING IN PUBLIC](https://open.spotify.com/track/2tA9LObXZkn5oazvqyRkxY) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [KISSING IN PUBLIC](https://open.spotify.com/album/4OTvEacbBrVMCYo7bk6cQa) | 3:56 |
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 33 | [act right](https://open.spotify.com/track/2mA87b0gMS1pjCCp3gBhdZ) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [act right](https://open.spotify.com/album/4YVaV9ViXndugkvyBOBGxX) | 2:53 |
 | 34 | [God’s A Raver](https://open.spotify.com/track/5iYZvfyws18ttpfJFXkq83) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [Arthouse](https://open.spotify.com/album/7II243HQI2I0gvCSOLsWN2) | 2:51 |
 | 35 | [Big Ol' Hammer](https://open.spotify.com/track/3GQ561SeANVLRpfM5va0bA) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [Dream Ride](https://open.spotify.com/album/0jLgfhtSr2LTdQFWfi4VB0) | 2:27 |
-| 36 | [Dearly Missed](https://open.spotify.com/track/1N5MjhXcJmjKuaeLsuFpA9) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Photograph of a Cyclone](https://open.spotify.com/album/1izRdreIuynbBHrzp9gS5u) | 6:00 |
+| 36 | [Urban Legend](https://open.spotify.com/track/11PgMaGaPDVfitNJqH5lzm) | [LEXXE](https://open.spotify.com/artist/0lDo9zbShSX0EXnxLpUZIU) | [Urban Legend](https://open.spotify.com/album/3CzL5fWwa4XO0rL3K6pU7w) | 2:56 |
 | 37 | [Drug Dealer](https://open.spotify.com/track/29DPlF67ReoJrdJCP6r0pL) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Drug Dealer](https://open.spotify.com/album/3HMDYUcXTyjloGkANiPxP5) | 3:58 |
-| 38 | [Urban Legend](https://open.spotify.com/track/11PgMaGaPDVfitNJqH5lzm) | [LEXXE](https://open.spotify.com/artist/0lDo9zbShSX0EXnxLpUZIU) | [Urban Legend](https://open.spotify.com/album/3CzL5fWwa4XO0rL3K6pU7w) | 2:56 |
+| 38 | [Dearly Missed](https://open.spotify.com/track/1N5MjhXcJmjKuaeLsuFpA9) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Photograph of a Cyclone](https://open.spotify.com/album/1izRdreIuynbBHrzp9gS5u) | 6:00 |
 | 39 | [lemons](https://open.spotify.com/track/4RAcbzQKnivPzbLcYkQNQn) | [joel](https://open.spotify.com/artist/01iqB1OLOnd5sNm6wo1jSR) | [lemons](https://open.spotify.com/album/1QTp2ZyRYYbVnpoxZMpek2) | 3:14 |
 | 40 | [Let You Know When I Get There](https://open.spotify.com/track/0iUdJ2hWXQFiYSxKifgpCC) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [I Know What I Want](https://open.spotify.com/album/1Wvf60FOFXg3rFqtYX1r6C) | 3:11 |
 | 41 | [\(I'm here for the\) GIRLS](https://open.spotify.com/track/0tWBqJszp81AKVWtFj5kh1) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [\(I'm here for the\) GIRLS](https://open.spotify.com/album/1xOYGPYE3TldIw58vKq4tl) | 2:20 |

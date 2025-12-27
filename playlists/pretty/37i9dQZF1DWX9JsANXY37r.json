@@ -1,6 +1,6 @@
 {
   "description": "drinks em casa, nada melhor",
-  "num_followers": 123296,
+  "num_followers": 123295,
   "original_name": "Drinks no Sof\u00e1",
   "owner": {
     "name": "Spotify",
@@ -755,6 +755,22 @@
     {
       "added_at": "2025-10-25 00:54:02",
       "album": {
+        "name": "Let It Die",
+        "url": "https://open.spotify.com/album/0peHQm7gEXWqmeXms8tQmO"
+      },
+      "artists": [
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "duration_ms": 257920,
+      "name": "Inside And Out",
+      "url": "https://open.spotify.com/track/5YGJzSL1fYvjwsfy1f1iqJ"
+    },
+    {
+      "added_at": "2025-10-25 00:54:02",
+      "album": {
         "name": "Hive Mind",
         "url": "https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 196754,
       "name": "Sticky",
       "url": "https://open.spotify.com/track/1rfGO3N4DPGodJLSSY9Re5"
-    },
-    {
-      "added_at": "2025-10-25 00:54:02",
-      "album": {
-        "name": "Let It Die",
-        "url": "https://open.spotify.com/album/0peHQm7gEXWqmeXms8tQmO"
-      },
-      "artists": [
-        {
-          "name": "Feist",
-          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
-        }
-      ],
-      "duration_ms": 257920,
-      "name": "Inside And Out",
-      "url": "https://open.spotify.com/track/5YGJzSL1fYvjwsfy1f1iqJ"
     },
     {
       "added_at": "2025-10-25 00:54:02",

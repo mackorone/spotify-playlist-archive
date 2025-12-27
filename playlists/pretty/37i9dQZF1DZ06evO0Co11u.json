@@ -1,12 +1,12 @@
 {
   "description": "This is Louis Armstrong. The essential tracks, all in one playlist.",
-  "num_followers": 196319,
+  "num_followers": 196333,
   "original_name": "This Is Louis Armstrong",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUstAAAAAABBUycsV/WWjkBN9DawpSsJ",
+  "snapshot_id": "aUx+gAAAAACJutbZA0oKP/2mL/jP+Z+K",
   "tracks": [
     {
       "added_at": null,
@@ -735,22 +735,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Very Best Of Louis Armstrong",
-        "url": "https://open.spotify.com/album/4s62VcqCCYckLiPnBU1ZkC"
+        "name": "Hello, Dolly! (Remastered)",
+        "url": "https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC"
       },
       "artists": [
         {
           "name": "Louis Armstrong",
           "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        },
-        {
-          "name": "Benny Carter",
-          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
         }
       ],
-      "duration_ms": 190640,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/6ekrqvy9b9HROq5xX7lwWw"
+      "duration_ms": 221173,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/2j2XCGlfy49OcZtm5zM84G"
     },
     {
       "added_at": null,
@@ -775,6 +771,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Very Best Of Louis Armstrong",
+        "url": "https://open.spotify.com/album/4s62VcqCCYckLiPnBU1ZkC"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        },
+        {
+          "name": "Benny Carter",
+          "url": "https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32"
+        }
+      ],
+      "duration_ms": 190640,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/6ekrqvy9b9HROq5xX7lwWw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Satch Plays Fats",
         "url": "https://open.spotify.com/album/1CQAiDPmHs7reitQkz4P7E"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 319293,
       "name": "All That Meat And No Potatoes",
       "url": "https://open.spotify.com/track/4rfxu3vOUWRaOx8YwUEpbi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hello, Dolly! (Remastered)",
-        "url": "https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 221173,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/2j2XCGlfy49OcZtm5zM84G"
     },
     {
       "added_at": null,

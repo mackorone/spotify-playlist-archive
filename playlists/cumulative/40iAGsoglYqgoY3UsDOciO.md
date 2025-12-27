@@ -4,7 +4,7 @@
 
 > A frequently updated playlist with brand\-new songs from new &amp;amp; established artists\. 🤖🚫&\#x2F;&\#x2F; Cover: $NOT \| pitch.playlistd@gmail.com
 
-451 songs - 21 hr 52 min
+453 songs - 22 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,6 +275,7 @@
 | [Ocean Spray](https://open.spotify.com/track/1k513qenEUjyU3MxMSUaPj) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Ocean Spray](https://open.spotify.com/album/1VbBXmKIEcjABfAOOAxdiE) | 2:44 | 2023-07-26 |  |
 | [ODB](https://open.spotify.com/track/39IodGKCKIu95pOW0LtSXM) | [KESHORE](https://open.spotify.com/artist/3UI7oEDwZ4DH8iAciZEoFw), [Jonah Zed](https://open.spotify.com/artist/4mPkv3XVHp9mMeSXp5Ix3D), [Myles Bryant](https://open.spotify.com/artist/6AHhiKSACbQ5ffvY8vwtiz) | [ODB](https://open.spotify.com/album/4Od5rfPZZcLYtaSQVzjDYe) | 3:26 | 2023-07-26 |  |
 | [Oh U Went \(feat\. Drake\)](https://open.spotify.com/track/7qLr3HMApUbyDkUvgIvHnB) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [BUSINESS IS BUSINESS](https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D) | 3:05 | 2023-07-26 |  |
+| [Old \(One Lucky Dude\)](https://open.spotify.com/track/1DQuMu6KuK4U7OOPUnHncf) | [Westbay](https://open.spotify.com/artist/53cZi0zTxO9HboRg5PkrBO) | [OLD \(One Lucky Dude\)](https://open.spotify.com/album/0dJuqvmDle4AUOszEob1kl) | 3:57 | 2025-12-26 |  |
 | [ON DECK](https://open.spotify.com/track/1y4wovZnDYu3yBX4kDpQKA) | [winterkhai](https://open.spotify.com/artist/6ziwWKlhLwUFw0oxFHF0MI) | [ON DECK](https://open.spotify.com/album/4dJKClsZAwu2DYT2PwXx2f) | 1:43 | 2024-06-11 |  |
 | [On Display, Pt\. 3](https://open.spotify.com/track/5wM2zCngggufalq4pnvYI3) | [Lil Nucleus](https://open.spotify.com/artist/23xK07bovUynQY9LDP6foQ) | [On Display, Pt\. 3](https://open.spotify.com/album/2s8PuynnrQhk13zYrlEJSN) | 1:56 | 2025-12-01 |  |
 | [onmyown](https://open.spotify.com/track/5ISwOIIYblk456ck0M2Y2K) | [onelane](https://open.spotify.com/artist/4lMbBzx4zFXfTjphqaVGyN) | [onmyown](https://open.spotify.com/album/64Y6LDkBVT09ZvgSJ0j3e8) | 4:13 | 2024-10-07 |  |
@@ -377,6 +378,7 @@
 | [Summer Time](https://open.spotify.com/track/42iuP3KltpHwZfksTn0wt5) | [Baby Sublime](https://open.spotify.com/artist/4dyk2YM8C8UWzKM8iBdYog) | [Summer Time](https://open.spotify.com/album/3sPASv0TwSAbK627ziBYDh) | 3:04 | 2024-08-19 |  |
 | [SUNDAY](https://open.spotify.com/track/4StWXtY1kRDuzpl5FZQTae) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [SUNDAY](https://open.spotify.com/album/5Bv3n1noEkwI5QbRItwuTf) | 2:04 | 2023-07-26 |  |
 | [Surreal](https://open.spotify.com/track/6B32RXn6megemqwAro7pke) | [Saracci](https://open.spotify.com/artist/3k9XV78qgBI2azR6V01ecb) | [Surreal](https://open.spotify.com/album/2oNEOrpXlizw7vk4VYUjfu) | 4:12 | 2024-05-21 |  |
+| [Swiss Humanitarian Tradition](https://open.spotify.com/track/1UADBSB4FMEiVBTPN3sFrf) | [The Disciple](https://open.spotify.com/artist/4rFx1sd3c9LDKaKJt1qcEm) | [Swiss Humanitarian Tradition](https://open.spotify.com/album/4cy11NQbevnbJo5XYJl0d4) | 4:45 | 2025-12-26 |  |
 | [Synchronicity](https://open.spotify.com/track/7vWR7jeskIB2MnzEBchpkw) | [Carl Redy](https://open.spotify.com/artist/53MUqdsPOF4OLoFSxl8F1f) | [Synchronicity](https://open.spotify.com/album/21sYiwMTEQeSBqV0uUKsbO) | 3:55 | 2024-07-07 |  |
 | [Taco](https://open.spotify.com/track/7sf4UzpK8AfajPsDSx4MSe) | [TMF Rock](https://open.spotify.com/artist/7MzY70dHn1srNGDfNmCLb9) | [Rock Hearts 3](https://open.spotify.com/album/5uMzbtaWoXgCBb1HZAj0bB) | 1:24 | 2024-09-19 |  |
 | [Taking a Risk](https://open.spotify.com/track/7aw9slo1zGVL3IDRqdCXjG) | [Amanarii](https://open.spotify.com/artist/2c6HeyEmoSM1zZmobzbM0e) | [Taking a Risk](https://open.spotify.com/album/3lDEa2ZqljZVUgDt2bYNFK) | 2:48 | 2024-06-14 |  |

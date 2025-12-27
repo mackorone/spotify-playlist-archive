@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain](/playlists/plain/37i9dQZF1DWWrJKwf0q9nn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWrJKwf0q9nn)
 
-### [New Dance 2025](https://open.spotify.com/playlist/37i9dQZF1DWWrJKwf0q9nn)
+### [New Dance 2026](https://open.spotify.com/playlist/37i9dQZF1DWWrJKwf0q9nn)
 
 > Wekelijkse update! Cover: Anyma & EJAE
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,134 likes - 105 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,141 likes - 105 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 | 104 | [Love Bullet \- Pt.2](https://open.spotify.com/track/1XuiuFYRDGsqY1udaB7RdE) | [Odymel](https://open.spotify.com/artist/7c4fOBUstnjfbvSwtOJSiA), [Durdenhauer](https://open.spotify.com/artist/2CaWJMR1eyvq8n5h96ggJC) | [Love Bullet \(Pt.2\)](https://open.spotify.com/album/50TPruMIdLLVMvhGWnn0Cu) | 4:01 |
 | 105 | [High Like The Sky](https://open.spotify.com/track/29VlrhOYEm3gowUKINZU6Q) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt) | [High Like The Sky](https://open.spotify.com/album/6ooNDxGpXpFhithnfnyH1l) | 3:02 |
 
-Snapshot ID: `AAAAAHzjmEcLZAo3s1YbNAEQIEYejn9B`
+Snapshot ID: `AAAAAAjeHMnbV/jqLOMsFZ/AMp15YUFm`

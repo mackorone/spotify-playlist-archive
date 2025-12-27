@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tuUiirhaT3.md) - [plain]
 
 > Calm ambient music with gentle nature sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 986,666 likes - 156 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 986,674 likes - 156 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -165,4 +165,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tuUiirhaT3.md) - [plain]
 | 155 | [Eden](https://open.spotify.com/track/0UMFi650xZxD3qj0OxsXKd) | [Nature Pulse](https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0) | [Eden](https://open.spotify.com/album/4MQ8zwffRyWpFLh2fZBV9q) | 2:40 |
 | 156 | [Soft Lights](https://open.spotify.com/track/5wCsBYlomdTdpCMYoguRCg) | [Astral Ocean](https://open.spotify.com/artist/3bV8AeagkRMuP7GwSrK4J6) | [Soft Lights](https://open.spotify.com/album/2Xj4CDF8lq5dYHZEPCsrUd) | 3:02 |
 
-Snapshot ID: `AAAAAGccSYvI2x9mHTSU5Exk8qitUF5g`
+Snapshot ID: `AAAAAHbZ3mdya4P7Pl+5UcDlG0bAb2dK`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ9qjpEt3QA.md) - [plain]
 
 > Cruising through a shimmering night with the current City Pop wave from Asia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,231 likes - 100 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,237 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ9qjpEt3QA.md) - [plain]
 | 33 | [DOWN TOWN](https://open.spotify.com/track/3MXCCaSni8I1FSvHeMQIGV) | [Yu Sakai](https://open.spotify.com/artist/2rgC29v3ZYaGgbzPGh3d9Y), [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv), [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb), [Hiro\-a\-key](https://open.spotify.com/artist/3xST4IdzibYK6K3IAtcaVe), [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [DOWN TOWN](https://open.spotify.com/album/3yY408DUkgwhfZkouMRK0i) | 4:50 |
 | 34 | [Dewi Pelita](https://open.spotify.com/track/0xD8XcL3Z655ohuMf8AYED) | [kidunghara](https://open.spotify.com/artist/6aNEwNrod9qI0UZO69awmo), [Noh Salleh](https://open.spotify.com/artist/4fVYwG8RsbJsREFFniszhf) | [Dewi Pelita](https://open.spotify.com/album/4ERCJb48c2k4aOtPz7U7tK) | 3:45 |
 | 35 | [Telephone Number](https://open.spotify.com/track/6Mnxt2GM70ctyRGothd3tK) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [Time\-Lapse](https://open.spotify.com/album/6qqlPpYvObYNofsPxve7cT) | 4:00 |
-| 36 | [Summer Mirage](https://open.spotify.com/track/7ATDaIKPRWkUwSBFf8IYIL) | [ultramodernista](https://open.spotify.com/artist/4Plrerc3e2ZuY5kLT2dbRZ) | [Summer Mirage](https://open.spotify.com/album/0FHeY7l2eYoJzOxowfthWH) | 2:58 |
+| 36 | [Summer Mirage](https://open.spotify.com/track/7ATDaIKPRWkUwSBFf8IYIL) | [cleaned](https://open.spotify.com/artist/1yp2KhukqTL1SNjjQDCNj3) | [Summer Mirage](https://open.spotify.com/album/0FHeY7l2eYoJzOxowfthWH) | 2:58 |
 | 37 | [Through the Tunnel](https://open.spotify.com/track/0yuCGyf9UYFjoxQuJqJTm3) | [Yangbans](https://open.spotify.com/artist/2YnwThp48Nrhtf7JIBCpbu) | [Through the Tunnel](https://open.spotify.com/album/1AGVQTchxNPR1BCLzK83CI) | 4:48 |
 | 38 | [Free\-Fall](https://open.spotify.com/track/1n3R1qXmNgiam6aPmBy73N) | [Sept.](https://open.spotify.com/artist/5vRnwNYjntZajB1Qx4DCXw) | [Wander Wander](https://open.spotify.com/album/1aFFBDlKtZGKw5SROlidMb) | 3:10 |
 | 39 | [Algorithm](https://open.spotify.com/track/0i8K9oyDQSg5tPZUTHPwhX) | [HeeJin](https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks) | [<K>](https://open.spotify.com/album/69pBx0bi45GYip7oXcHbzu) | 3:08 |

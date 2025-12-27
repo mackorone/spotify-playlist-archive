@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: Eliza Maturan
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,326 likes - 106 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,340 likes - 106 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 | 105 | [Dalawa](https://open.spotify.com/track/2PPVwTRihaBQHirGqhBhdB) | [Jason Dhakal](https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp) | [Dalawa](https://open.spotify.com/album/2EW0Kwp3taQjsc9ZcUmYk1) | 3:27 |
 | 106 | [AYOS LANG](https://open.spotify.com/track/5ao7bBo7bVdG83EV4qyhAf) | [DEMI](https://open.spotify.com/artist/1bvOB4esBO2VFoCnaEheBO) | [AYOS LANG](https://open.spotify.com/album/1kDAyu74Or1EPw4rHRojlH) | 2:21 |
 
-Snapshot ID: `AAAAAHktVJcNckjYZlrrzqA0Cnp86VVB`
+Snapshot ID: `AAAAACHmb0LL+qiy1GzwmasfJxYR9Qyb`

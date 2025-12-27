@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0wrsFHSmaP.md) - [plain]
 
 > Indigenous Australian Storytellers\. Curator: Rhianna Patrick\. <br/>Aboriginal and Torres Strait Islander listeners are advised that the following playlist may contain voices and images of people who have passed away\. Cover: Jungaji
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,404 likes - 70 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,403 likes - 70 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

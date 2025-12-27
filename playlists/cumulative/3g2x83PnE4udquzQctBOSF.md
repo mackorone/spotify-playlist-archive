@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-444 songs - 1 day 2 hr 28 min
+445 songs - 1 day 2 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,6 +255,7 @@
 | [Less That](https://open.spotify.com/track/7zCsBTEeeaB1QAJK2R728d) | [Caique Carvalho](https://open.spotify.com/artist/1W9pJsla05m0YLC25BaPzW), [No Break](https://open.spotify.com/artist/4mZ0SNrLR1DPVB86E8iLqQ) | [Less That](https://open.spotify.com/album/4R7gY27TiEhuGPNO5wJknN) | 3:10 | 2023-01-22 | 2023-02-13 |
 | [Let's Go Dancing \- Matroda Remix](https://open.spotify.com/track/4bhe0PVXsnv9Zvo9DKD27N) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Audion](https://open.spotify.com/artist/1ygSVTF0A998n2Z3nmLei8), [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Let's Go Dancing \(Matroda Remix\)](https://open.spotify.com/album/4bNMns2prUJi3cJwEF7dKc) | 3:15 | 2024-02-04 | 2024-03-25 |
 | [Lick Lick](https://open.spotify.com/track/6gi4q4zu0rdbPqudX9dSaJ) | [Snooko](https://open.spotify.com/artist/0KAsH8x2fuBX1ExPyXaHMx) | [Lick Lick](https://open.spotify.com/album/1DASRqjuhlJz4GEJpNxqQA) | 5:46 | 2024-10-13 |  |
+| [Lifetime Groove](https://open.spotify.com/track/0VhMbShQW2xZbHUJDu8Ocl) | [Marco Basile](https://open.spotify.com/artist/4bwZB4AuA5cKWSqvh2ti6B), [ALEX NEURET](https://open.spotify.com/artist/1Yd4LQK4Efy0H2Ui6SdtTV) | [Lifetime Groove](https://open.spotify.com/album/776BiweNwMpXfsJxt1hb9B) | 6:12 | 2025-12-26 |  |
 | [Lighting](https://open.spotify.com/track/4ih96mUUXqv4Bym6IB4Sl6) | [Gabriele Agostino](https://open.spotify.com/artist/3wl85IJepINSZzcf8bSDTJ), [Davide Marsala](https://open.spotify.com/artist/1SNXTiPxArdBh9psV06qEZ), [JANJ](https://open.spotify.com/artist/0uEhJUryKUYMYWpiKG0VmV) | [Lighting](https://open.spotify.com/album/08yI0064i4jNY1e3uYw0ma) | 3:22 | 2024-03-10 | 2024-04-15 |
 | [Lights Down](https://open.spotify.com/track/0szIFWz9JGVQazcjI5edd1) | [Seb Zito](https://open.spotify.com/artist/2IwfvuKftX9D7CFF4qCTM8) | [Lights Down](https://open.spotify.com/album/53Sw1CP6lxm9ABzFwQfbJe) | 3:26 | 2023-05-14 | 2023-06-12 |
 | [Lights Out \- Radio Edit](https://open.spotify.com/track/6d2NZwQWYpymxeNQn2ng7R) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [Lights Out](https://open.spotify.com/album/4Ji8y8AAnKe6Vjoj6Hymc9) | 2:57 | 2024-08-16 |  |

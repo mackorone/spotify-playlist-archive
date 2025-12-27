@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2011. Cover: AWOLNATION",
-  "num_followers": 139289,
+  "num_followers": 139306,
   "original_name": "Best of Indie 2011",
   "owner": {
     "name": "Spotify",
@@ -891,22 +891,6 @@
     {
       "added_at": "2025-03-14 11:55:08",
       "album": {
-        "name": "Days",
-        "url": "https://open.spotify.com/album/4F6yLWrwSlHv5aZYZ3waAb"
-      },
-      "artists": [
-        {
-          "name": "Real Estate",
-          "url": "https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT"
-        }
-      ],
-      "duration_ms": 168493,
-      "name": "It's Real",
-      "url": "https://open.spotify.com/track/1K9YlxsaqEDqTaGHOdPVRJ"
-    },
-    {
-      "added_at": "2025-03-14 11:55:08",
-      "album": {
         "name": "Last Night On Earth",
         "url": "https://open.spotify.com/album/5Pv6HiwxzhI8NDeSsn7n6N"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 226946,
       "name": "L.I.F.E.G.O.E.S.O.N.",
       "url": "https://open.spotify.com/track/6DDoFN7yNQmL2YXojqAk8S"
+    },
+    {
+      "added_at": "2025-03-14 11:55:08",
+      "album": {
+        "name": "Days",
+        "url": "https://open.spotify.com/album/4F6yLWrwSlHv5aZYZ3waAb"
+      },
+      "artists": [
+        {
+          "name": "Real Estate",
+          "url": "https://open.spotify.com/artist/41SQP16hv1TioVYqdckmxT"
+        }
+      ],
+      "duration_ms": 168493,
+      "name": "It's Real",
+      "url": "https://open.spotify.com/track/1K9YlxsaqEDqTaGHOdPVRJ"
     },
     {
       "added_at": "2025-03-14 11:55:08",

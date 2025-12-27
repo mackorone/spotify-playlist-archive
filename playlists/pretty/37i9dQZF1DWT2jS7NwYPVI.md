@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your cheat sheet for all that's on the rise in rock/alt \| Cover: Fai Laci
 
-[Spotify](https://open.spotify.com/user/spotify) - 467,580 likes - 126 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 467,701 likes - 126 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 | 125 | [Double Clover](https://open.spotify.com/track/7saFP1pvhh9Uqd2BciqajX) | [Eveline Breaker](https://open.spotify.com/artist/6VOVjDRQnDqCALmKsgQneG) | [Idle Viewer](https://open.spotify.com/album/4aHh0ZVPwmjZ5H6VZGJIOC) | 4:35 |
 | 126 | [omni shambles](https://open.spotify.com/track/4WIxKjPg1bJoRyun7xQsAO) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [Some Like It Hot](https://open.spotify.com/album/2CVovXC4S92eRgjtZazNEU) | 2:16 |
 
-Snapshot ID: `AAAAAClmH6MTF7jxbaBZh0IbsTzwaY79`
+Snapshot ID: `AAAAAJPmR3HEK+pU2RBqrEn20UQGWwmZ`

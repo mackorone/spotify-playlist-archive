@@ -2611,6 +2611,36 @@
     },
     {
       "album": {
+        "name": "Dhurandhar (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6E3Ds14TPBbZKTUGprotN6"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Sachdev",
+          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+        },
+        {
+          "name": "Afsana Khan",
+          "url": "https://open.spotify.com/artist/2dCS8oFU3rCWq0AhkZV1Sr"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        },
+        {
+          "name": "Reble",
+          "url": "https://open.spotify.com/artist/3MsxNLVtDVGxjEaxgKAoi0"
+        }
+      ],
+      "date_added": "2025-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155142,
+      "name": "Naal Nachna",
+      "url": "https://open.spotify.com/track/2lbdPiHFMRoGEmiugqaoXB"
+    },
+    {
+      "album": {
         "name": "Naam Sunuga",
         "url": "https://open.spotify.com/album/290dKL08Ilt2QtRIeb4q6e"
       },
@@ -3182,7 +3212,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-27",
       "duration_ms": 158097,
       "name": "Ranjhea",
       "url": "https://open.spotify.com/track/0XzQsVLirMJgbQXXc1mPYb"

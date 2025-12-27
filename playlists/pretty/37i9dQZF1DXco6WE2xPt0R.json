@@ -1,6 +1,6 @@
 {
   "description": "longe dos perigos noturnos",
-  "num_followers": 127438,
+  "num_followers": 127442,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
@@ -875,6 +875,22 @@
     {
       "added_at": "2025-10-10 03:01:29",
       "album": {
+        "name": "Black Rainbows",
+        "url": "https://open.spotify.com/album/741jF1Njwj0i1dQAPdvKZ1"
+      },
+      "artists": [
+        {
+          "name": "Corinne Bailey Rae",
+          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
+        }
+      ],
+      "duration_ms": 225298,
+      "name": "He Will Follow You With His Eyes",
+      "url": "https://open.spotify.com/track/4kP5P9xl4iu191ZvPzGuZW"
+    },
+    {
+      "added_at": "2025-10-10 03:01:29",
+      "album": {
         "name": "Seamless (with Kehlani)",
         "url": "https://open.spotify.com/album/0gKMMJm0FAVhgL8HUJdWLV"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 195265,
       "name": "Seamless (with Kehlani)",
       "url": "https://open.spotify.com/track/2UqMwz0vqVDdkLHZrzSLOp"
-    },
-    {
-      "added_at": "2025-10-10 03:01:29",
-      "album": {
-        "name": "Black Rainbows",
-        "url": "https://open.spotify.com/album/741jF1Njwj0i1dQAPdvKZ1"
-      },
-      "artists": [
-        {
-          "name": "Corinne Bailey Rae",
-          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
-        }
-      ],
-      "duration_ms": 225298,
-      "name": "He Will Follow You With His Eyes",
-      "url": "https://open.spotify.com/track/4kP5P9xl4iu191ZvPzGuZW"
     },
     {
       "added_at": "2025-10-10 03:01:29",
@@ -1035,26 +1035,6 @@
     {
       "added_at": "2025-10-10 03:01:29",
       "album": {
-        "name": "Before We Get Started (feat. Fabolous)",
-        "url": "https://open.spotify.com/album/2CyOWWKaMME9IqKpGR3n4F"
-      },
-      "artists": [
-        {
-          "name": "Tank",
-          "url": "https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l"
-        },
-        {
-          "name": "Fabolous",
-          "url": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
-        }
-      ],
-      "duration_ms": 175793,
-      "name": "Before We Get Started (feat. Fabolous)",
-      "url": "https://open.spotify.com/track/0ry36HImeosoc4m8EC2gAN"
-    },
-    {
-      "added_at": "2025-10-10 03:01:29",
-      "album": {
         "name": "Better Than I Imagined [Feat. H.E.R. & Meshell Ndegeocello] (KAYTRANADA Remix)",
         "url": "https://open.spotify.com/album/7HRqZplSpqWZnL05hUJCcH"
       },
@@ -1079,6 +1059,26 @@
       "duration_ms": 227132,
       "name": "Better Than I Imagined [Feat. H.E.R. & Meshell Ndegeocello] - KAYTRANADA Remix",
       "url": "https://open.spotify.com/track/5A3aEJL7HkijkxLFXMv7FN"
+    },
+    {
+      "added_at": "2025-10-10 03:01:29",
+      "album": {
+        "name": "Before We Get Started (feat. Fabolous)",
+        "url": "https://open.spotify.com/album/2CyOWWKaMME9IqKpGR3n4F"
+      },
+      "artists": [
+        {
+          "name": "Tank",
+          "url": "https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l"
+        },
+        {
+          "name": "Fabolous",
+          "url": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
+        }
+      ],
+      "duration_ms": 175793,
+      "name": "Before We Get Started (feat. Fabolous)",
+      "url": "https://open.spotify.com/track/0ry36HImeosoc4m8EC2gAN"
     },
     {
       "added_at": "2025-10-10 03:01:29",

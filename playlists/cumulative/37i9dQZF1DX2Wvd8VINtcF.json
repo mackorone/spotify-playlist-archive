@@ -17237,6 +17237,24 @@
     },
     {
       "album": {
+        "name": "hold me",
+        "url": "https://open.spotify.com/album/4gk7tCXb9whGQbRinQZC8M"
+      },
+      "artists": [
+        {
+          "name": "Graham Lake",
+          "url": "https://open.spotify.com/artist/255KmzQ3ecWS4KAPnF1PJ8"
+        }
+      ],
+      "date_added": "2025-12-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201206,
+      "name": "hold me",
+      "url": "https://open.spotify.com/track/2G1y9hz3obiCa7XuoC1CNV"
+    },
+    {
+      "album": {
         "name": "A LA SALA",
         "url": "https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2"
       },

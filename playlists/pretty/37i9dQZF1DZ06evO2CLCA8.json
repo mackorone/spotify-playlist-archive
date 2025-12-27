@@ -1,12 +1,12 @@
 {
   "description": "This is Tom Petty and the Heartbreakers. The essential tracks, all in one playlist.",
-  "num_followers": 1080,
+  "num_followers": 1079,
   "original_name": "This Is Tom Petty and the Heartbreakers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUstAAAAAAA6ta4alUk18A2chafPyrkN",
+  "snapshot_id": "aUx+gAAAAACFDbUoH7sndSQebZRhC/vg",
   "tracks": [
     {
       "added_at": null,
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 189266,
-      "name": "Two Gunslingers",
-      "url": "https://open.spotify.com/track/46kCzTrwMMjUh4By11wvxc"
+      "duration_ms": 225293,
+      "name": "All The Wrong Reasons",
+      "url": "https://open.spotify.com/track/0l1P0R2Pzbq8OmUTD0Btsj"
     },
     {
       "added_at": null,
@@ -604,15 +604,15 @@
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 225293,
-      "name": "All The Wrong Reasons",
-      "url": "https://open.spotify.com/track/0l1P0R2Pzbq8OmUTD0Btsj"
+      "duration_ms": 189266,
+      "name": "Two Gunslingers",
+      "url": "https://open.spotify.com/track/46kCzTrwMMjUh4By11wvxc"
     },
     {
       "added_at": null,
       "album": {
-        "name": "The Last DJ",
-        "url": "https://open.spotify.com/album/3lS4vVIHslBZgLituEQz5i"
+        "name": "Damn The Torpedoes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
       },
       "artists": [
         {
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 245906,
-      "name": "Have Love, Will Travel",
-      "url": "https://open.spotify.com/track/6712My4wA0OcvobBeTJttw"
+      "duration_ms": 215800,
+      "name": "Casa Dega",
+      "url": "https://open.spotify.com/track/1foblVZ1Kr2vz7212SMNZB"
     },
     {
       "added_at": null,
@@ -643,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Damn The Torpedoes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
+        "name": "The Last DJ",
+        "url": "https://open.spotify.com/album/3lS4vVIHslBZgLituEQz5i"
       },
       "artists": [
         {
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 215800,
-      "name": "Casa Dega",
-      "url": "https://open.spotify.com/track/1foblVZ1Kr2vz7212SMNZB"
+      "duration_ms": 245906,
+      "name": "Have Love, Will Travel",
+      "url": "https://open.spotify.com/track/6712My4wA0OcvobBeTJttw"
     },
     {
       "added_at": null,
@@ -715,6 +715,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pack Up The Plantation: Live!",
+        "url": "https://open.spotify.com/album/5HutXQpnb17yRXVnrolKR0"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        },
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 145201,
+      "name": "Needles And Pins - Live At The The Forum/1981",
+      "url": "https://open.spotify.com/track/6Alshe3WYMVZRbYWgijYWT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Damn The Torpedoes (Deluxe Edition)",
         "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
       },
@@ -743,26 +763,6 @@
       "duration_ms": 251853,
       "name": "U Get Me High",
       "url": "https://open.spotify.com/track/2rlhuKi3o7oySloqWw5TUa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pack Up The Plantation: Live!",
-        "url": "https://open.spotify.com/album/5HutXQpnb17yRXVnrolKR0"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        },
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 145201,
-      "name": "Needles And Pins - Live At The The Forum/1981",
-      "url": "https://open.spotify.com/track/6Alshe3WYMVZRbYWgijYWT"
     },
     {
       "added_at": null,
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 183426,
-      "name": "Mystery Man",
-      "url": "https://open.spotify.com/track/08aq0woLggpJoUYep1XgN5"
+      "duration_ms": 183400,
+      "name": "The Wild One, Forever",
+      "url": "https://open.spotify.com/track/6I3JRwx6jAF3wozmy6uiYW"
     },
     {
       "added_at": null,

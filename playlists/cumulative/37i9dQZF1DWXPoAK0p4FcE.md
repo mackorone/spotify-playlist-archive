@@ -4,7 +4,7 @@
 
 > อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: AYLA's
 
-155 songs - 10 hr 46 min
+156 songs - 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [กำแพงหัวใจ](https://open.spotify.com/track/5BmF05GWZpmm5JZ5p3yMJr) | [Mirrr](https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7) | [กำแพงหัวใจ](https://open.spotify.com/album/4Mqmd8JPbyBmSW7cWsSkUT) | 4:37 | 2024-06-27 | 2025-02-01 |
 | [ก่อนที่เธอจะลาลับไป](https://open.spotify.com/track/6vniVlU3rnsSNYNhNE9IrP) | [LEMONY](https://open.spotify.com/artist/5cetvYPbzGsnkRZdL4hre2) | [ก่อนที่เธอจะลาลับไป \- Single](https://open.spotify.com/album/0geQs7LoGQCKU6NfQdEOfN) | 4:06 | 2024-11-28 | 2025-03-22 |
 | [ขอบคุณที่เราเคยบอกรักและบอกลา](https://open.spotify.com/track/0vVgJd9x0lBhfF0ku9FPmd) | [LEMONY](https://open.spotify.com/artist/5cetvYPbzGsnkRZdL4hre2) | [ขอบคุณที่เราเคยบอกรักและบอกลา \- Single](https://open.spotify.com/album/5i3HN2uud8KJakTV1MDG4x) | 3:24 | 2024-07-26 | 2024-11-23 |
+| [ขอเธอจงผ่อนคลาย \( Whatever Will Be , Will Be \)](https://open.spotify.com/track/5cRnsaIIJzFVj882jAFN1S) | [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [ขอเธอจงผ่อนคลาย \( Whatever Will Be , Will Be \)](https://open.spotify.com/album/4PJVgb3BYqTTsB5Jl5OsXM) | 4:04 | 2025-12-26 |  |
 | [ขอโทษที่](https://open.spotify.com/track/2QYSZIbv7zNnqoJtP4maig) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [ขอโทษที่](https://open.spotify.com/album/0txy8irs9JN1y1UcQNnC1w) | 4:12 | 2025-05-01 |  |
 | [ขอให้เธอใจดี](https://open.spotify.com/track/3y5HhSSAyYGtOkP6mhKs6z) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [ขอให้เธอใจดี](https://open.spotify.com/album/0M0ul20pgcYfWCooWsh9Sb) | 4:55 | 2024-06-27 | 2024-11-29 |
 | [คงจะดีหากฉันหายไป \(Vanishing\)](https://open.spotify.com/track/5H1KfK3lWKPCEUFkJKrUly) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [คงจะดีหากฉันหายไป \(Vanishing\)](https://open.spotify.com/album/0jff59Bpd4lc1WmAcp8UPD) | 4:14 | 2025-08-08 |  |
@@ -76,7 +77,7 @@
 | [ถ้ารู้ว่าจะหายไป](https://open.spotify.com/track/1QdtmtakBfgvdXz1wEm2S9) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [ถ้ารู้ว่าจะหายไป](https://open.spotify.com/album/77lLAs7qgkQPHcMhXi1WIk) | 4:50 | 2024-06-27 | 2024-07-06 |
 | [ทางออก](https://open.spotify.com/track/0JEusAwqhkQfACiLCA5XdU) | [Slur](https://open.spotify.com/artist/7G4qd0NlBQf4AxC0klpuDY) | [ทางออก](https://open.spotify.com/album/5cg2790VNoRAK8pQDjTu3z) | 4:39 | 2025-09-19 | 2025-10-04 |
 | [ทิ้งไว้ที่เดิม](https://open.spotify.com/track/7lNFvY6jDHOPzsU5wfZz4C) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [ทิ้งไว้ที่เดิม](https://open.spotify.com/album/40b5fnvDOTrUfugkRNspto) | 3:54 | 2025-03-28 | 2025-08-09 |
-| [ที่ข้างๆฉัน \(Bolster\)](https://open.spotify.com/track/1LaVe5YHUEU4qQ8wt3TZHR) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [Hey Mom,Did You See Me In The Newspaper?](https://open.spotify.com/album/2QGUzPveseqBGL7bptAnkx) | 3:36 | 2024-06-27 |  |
+| [ที่ข้างๆฉัน \(Bolster\)](https://open.spotify.com/track/1LaVe5YHUEU4qQ8wt3TZHR) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [Hey Mom,Did You See Me In The Newspaper?](https://open.spotify.com/album/2QGUzPveseqBGL7bptAnkx) | 3:36 | 2024-06-27 | 2025-12-27 |
 | [ทุกครั้งที่หลับตา \(Lucid Dream\)](https://open.spotify.com/track/4xtYwmu1FkBQkOhK5fTqd4) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [ทุกครั้งที่หลับตา \(Lucid Dream\)](https://open.spotify.com/album/4iwWf24XP5mfvnhsnSjxsI) | 5:23 | 2024-11-28 |  |
 | [ทุกวันเหมือนเดิม](https://open.spotify.com/track/4zQNXqaOsprULnmPpJzthQ) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [ทุกวันเหมือนเดิม](https://open.spotify.com/album/3u1yAY03tT0NgH6eXJX6NJ) | 4:03 | 2025-02-28 |  |
 | [ทุกสิ่ง \(Voodoo Potion\)](https://open.spotify.com/track/7FuNF6TO7xdrKdDSePTw0x) | [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [ทุกสิ่ง \(Voodoo Potion\)](https://open.spotify.com/album/6alNIfAj10XFQskbGE8KgP) | 4:48 | 2024-06-27 | 2025-03-22 |

@@ -4,7 +4,7 @@
 
 > Alternative Arabic songs\. Cover: Autostrad
 
-245 songs - 14 hr 59 min
+247 songs - 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Harramtou Bik Nouassi](https://open.spotify.com/track/0X98TbrviHZE701yHNPPEJ) | [Mike Massy](https://open.spotify.com/artist/4g5NYCLpdbph9wm6QUaFmd) | [Harramtou Bik Nouassi](https://open.spotify.com/album/2QmHwn6lvPK84GTlFKdZDe) | 3:42 | 2022-03-24 | 2023-04-24 |
 | [Hashrab Hashish](https://open.spotify.com/track/4S7oLETjomhx5WCDHf1166) | [Luka Salam](https://open.spotify.com/artist/6czL7Hx1NgpdU6m27i3IuK) | [Hashrab Hashish](https://open.spotify.com/album/0GDXEudxSlauLzuQxfq2KO) | 3:04 | 2024-03-20 |  |
 | [Hashrab Hashish](https://open.spotify.com/track/6Ah2JMiRc7MTr4SwRVNMh9) | [Luka Salam](https://open.spotify.com/artist/6czL7Hx1NgpdU6m27i3IuK) | [Hashrab Hashish](https://open.spotify.com/album/2Nc4YEEwac5P2s3vjcsrEX) | 3:04 | 2023-05-17 | 2024-04-19 |
+| [Hassasa \- حساسة](https://open.spotify.com/track/3FzjUNvNyjhKBQh0iNPZBW) | [Luka Salam](https://open.spotify.com/artist/6czL7Hx1NgpdU6m27i3IuK), [Ziad Hisham](https://open.spotify.com/artist/246gQij0NFmuyWhnuhmRqk) | [Hassasa \- حساسة](https://open.spotify.com/album/30m2Q2K9qsH3vzTDVzK9N0) | 2:40 | 2025-12-26 |  |
 | [Hazina](https://open.spotify.com/track/3JLhpzsdRKu2XX40hWkAo0) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1) | [Hazina](https://open.spotify.com/album/1YouEiz9p93Tp51juzplSP) | 3:57 | 2021-12-23 | 2022-03-15 |
 | [Helwa Ya Baladi](https://open.spotify.com/track/16XFirWEReR8H21pJfIL49) | [Jadal](https://open.spotify.com/artist/27OeswwNYFziNtyGMIHR0f) | [Helwa Ya Baladi](https://open.spotify.com/album/25t09XMGJxntx0Yk8H1bev) | 4:10 | 2021-12-23 | 2023-04-24 |
 | [Holm](https://open.spotify.com/track/1BLbyhemxMhIds5cf4lHxx) | [Emel](https://open.spotify.com/artist/06MtOym27ALcfdtVOsRcaA) | [Holm / The Man Who Sold The World](https://open.spotify.com/album/4uvkTNocp7isVguCNavJnY) | 4:46 | 2021-12-23 | 2022-01-21 |
@@ -168,6 +169,7 @@
 | [Setta Sabahan](https://open.spotify.com/track/0zSPZ1QQFL6jvsCSqBiIJz) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Mawloud Sanat 80](https://open.spotify.com/album/3l4HXkpmAhcVi6moAigDT7) | 3:34 | 2021-12-23 | 2022-02-18 |
 | [Shakhsi El Da'em](https://open.spotify.com/track/2dOzN3zYW2rqVAXQC7oQ1d) | [Akher Zapheer](https://open.spotify.com/artist/0x8vbV32RlTpfxsERAwena) | [Tho3ban](https://open.spotify.com/album/62MsaGCeJAjmyIMT6A4mRl) | 4:56 | 2023-04-23 | 2025-10-07 |
 | [Shem Wroud](https://open.spotify.com/track/7mw1BU1xKLh9BPcMfhDuAG) | [Zef](https://open.spotify.com/artist/5xLrAcC8QXJSik2rLNAR8L) | [Shem Wroud](https://open.spotify.com/album/4lTQSJLGiwsJuNI7mvyFG6) | 3:16 | 2021-12-23 | 2022-07-19 |
+| [Shereet Kharban](https://open.spotify.com/track/69zAFnSfwp1ylcJdZinPuE) | [Pink Seasalt](https://open.spotify.com/artist/4L7xX1IdwehcIktyY87v5D) | [Shereet Kharban](https://open.spotify.com/album/0RfaQD7eg095MNndI0Jhfr) | 3:00 | 2025-12-26 |  |
 | [Shmaali شمالي](https://open.spotify.com/track/4f9dniVOKKrCp5ObTm0MP0) | [Yasmine Hamdan](https://open.spotify.com/artist/5VElAWe58JiEzEl4vtjw7J) | [I remember I forget بنسى وبتذكر](https://open.spotify.com/album/4VQ7IUWQUahZ30myCkP5KF) | 3:49 | 2025-10-06 |  |
 | [Shofy 7aly](https://open.spotify.com/track/6sl5f589BUW7wz9EWpJG9Q) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Shofy 7aly](https://open.spotify.com/album/7jGcinboojeSI12RzVeMW5) | 3:29 | 2021-12-23 | 2023-04-24 |
 | [Shta2tella](https://open.spotify.com/track/66Vk9wfboLceIahHzBJuV0) | [Ibby VK](https://open.spotify.com/artist/1ZaiYYGVDJvISe5rUV7JAS) | [Shta2tella](https://open.spotify.com/album/1EZENUppFnXlur5KKsP41B) | 1:55 | 2023-03-01 | 2025-10-07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Jamie xx
 
-[Spotify](https://open.spotify.com/user/spotify) - 542,814 likes - 100 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 542,810 likes - 100 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 99 | [MOVEMENT](https://open.spotify.com/track/31sJ3wOwiCIZu1iMLJVv8t) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [MOVEMENT](https://open.spotify.com/album/1Ai8Fe6169Y9K0sXUHbEyQ) | 3:27 |
 | 100 | [I’m Really Hot \(For Myself\)](https://open.spotify.com/track/0Ot136xJA9ghl1JR5eaaVS) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [I’m Really Hot \(For Myself\)](https://open.spotify.com/album/5bknZDxdS28S9vEnODKQ0E) | 3:28 |
 
-Snapshot ID: `AAAAALbxN+KVNUF4euTn4CirTb6dy0NO`
+Snapshot ID: `AAAAANv92ndUxYI4eAjiAOEkEcEtw/z9`

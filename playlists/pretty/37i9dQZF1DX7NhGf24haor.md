@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain](/playlists/plain/37i9dQZF1DX7NhGf24haor) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7NhGf24haor)
 
-### [Hardstyle Adrenaline! 2025](https://open.spotify.com/playlist/37i9dQZF1DX7NhGf24haor)
+### [Hardstyle Adrenaline! 2026](https://open.spotify.com/playlist/37i9dQZF1DX7NhGf24haor)
 
 > Weekly new Hardstyle releases! Cover: Project One
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,011 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,206 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 99 | [Desert Of Doom](https://open.spotify.com/track/6jSZXkAzGpzXjovaaMPTEG) | [Rejecta](https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof), [Deluzion](https://open.spotify.com/artist/3r40SMXcvhhDUE1xhU8MSB), [MC Flo](https://open.spotify.com/artist/6kn1zMFsqWQgdLSUN69j9R) | [Desert Of Doom](https://open.spotify.com/album/06cUJNlJIuo61KxHOPWBwB) | 2:50 |
 | 100 | [Nothing To Lose](https://open.spotify.com/track/21CDpIjfYr1FoSA6ulbNTJ) | [Unresolved](https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr), [The Purge](https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w), [Satirized](https://open.spotify.com/artist/6dVybI9eELKRKF3VilNGzh), [Noxiouz](https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38) | [Nothing To Lose](https://open.spotify.com/album/3ewty6LCE4HpJZMG2YH11I) | 2:53 |
 
-Snapshot ID: `AAAAAFL0TCdxm0O1l28yHTD8GP22sPcN`
+Snapshot ID: `AAAAAALDzv5uTKyh7L7p/AbB9l8qO60z`

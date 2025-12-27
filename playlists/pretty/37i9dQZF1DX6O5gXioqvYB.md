@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > Mazzariello + tutte le altre uscite indie🏌🏻‍♂️
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,418 likes - 99 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,426 likes - 99 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 | 98 | [FURTUNA](https://open.spotify.com/track/0SxWRkmlVC4T3jt7SlQIBq) | [IDDA](https://open.spotify.com/artist/1pRhf8tFJk2k1ejw6sRqQK) | [IDDAÈ](https://open.spotify.com/album/2457Yd74idRPtoEkuENq9K) | 2:16 |
 | 99 | [Opopomoz](https://open.spotify.com/track/2NF8JfHTxLNZYZphZWNUGZ) | [SANO](https://open.spotify.com/artist/1PZyTe8GphPoqw95oY5of3) | [Opopomoz](https://open.spotify.com/album/04ksIoeQeBBL9zHasEoyBd) | 2:35 |
 
-Snapshot ID: `AAAAABkRs7YRlk8dETVJhZcjx0Xly8/L`
+Snapshot ID: `AAAAAOgGb343DbZL0kuwGg3gcOI4w9dh`

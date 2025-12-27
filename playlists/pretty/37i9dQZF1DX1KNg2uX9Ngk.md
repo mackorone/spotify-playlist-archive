@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KNg2uX9Ngk.md) - [plain]
 
 > This is it, this is happening\. The official setlist for Oasis \| Live '25 Tour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,902 likes - 23 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,019 likes - 23 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

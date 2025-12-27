@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 
 > L’alternatif québécois à plein volume\. Photo: Alice Bro
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,252 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,253 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 | 74 | [Les jours heureux](https://open.spotify.com/track/3WUFus58BRuozd1mawM5Lv) | [Jonathan Personne](https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy) | [Nouveau Monde](https://open.spotify.com/album/0knwk6br3tPdW1sQJ2dpgO) | 3:12 |
 | 75 | [Pommes](https://open.spotify.com/track/2P4cHNLsRoI8s1gJSlpI7B) | [FÉLIXE](https://open.spotify.com/artist/4EV6G0NKJD2LdNSzeopLHY) | [Hier nuit](https://open.spotify.com/album/4iY81dJ0ZcCnXqHcWERUs7) | 2:37 |
 
-Snapshot ID: `AAAAACritGSMwxIN4vR0TbO0YjxJKUmd`
+Snapshot ID: `AAAAAGDIvt9L/+c6oMnwPWGxVLnXc8JD`

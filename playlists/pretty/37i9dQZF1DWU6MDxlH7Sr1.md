@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6MDxlH7Sr1.md) - [plain]
 
 > Soft Jazz in the background of your cocktail party.
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,327 likes - 200 songs - 11 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,385 likes - 200 songs - 11 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6MDxlH7Sr1.md) - [plain]
 | 199 | [Familiarity](https://open.spotify.com/track/2rkMiWiaO1iPWjb5Lko8Lu) | [We Three Trio](https://open.spotify.com/artist/1T5DJ6QCdj86XsYXSCF5kj) | [Familiarity](https://open.spotify.com/album/1u7G8TW6rs86xYf5nVTeac) | 3:00 |
 | 200 | [Endless Winter](https://open.spotify.com/track/3EkZ1haTIg5HuKPD3oTBsJ) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Longing](https://open.spotify.com/album/5rsGpNrx2eRG3Q4f6smqcC) | 3:56 |
 
-Snapshot ID: `AAAAACVgofQ1wGVv2daNMHBtwx+Z78mq`
+Snapshot ID: `AAAAAI/srJMS5peeSfVGAqf72rNWig+C`

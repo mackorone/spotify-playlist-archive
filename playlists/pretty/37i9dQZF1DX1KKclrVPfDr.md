@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KKclrVPfDr.md) - [plain]
 
 > भोजपुरी गाँव देश के माटी के नया संगीतमय सुगंध सुनीं.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,677 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,689 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KKclrVPfDr.md) - [plain]
 | 18 | [HARDI Haradiya](https://open.spotify.com/track/7Ealn3Ao3veKdMEbB3AaCM) | [KUMARI SONAL](https://open.spotify.com/artist/06TPwrMe1ZOjyYBeuPD3o1) | [HARDI Haradiya](https://open.spotify.com/album/4ZMPY4CB0mgO2ustutbx2n) | 2:48 |
 | 19 | [Chunariya Me Daag](https://open.spotify.com/track/33gZWrLzwxrN96b5XMoNyW) | [Adarsh Aadee](https://open.spotify.com/artist/0vZTfW7WeDGzgeim5bDJKt) | [Chunariya Me Daag](https://open.spotify.com/album/3nBMUTEwGmDmu8hHIZT1ii) | 4:36 |
 | 20 | [Ehi Thaiyan](https://open.spotify.com/track/3T9IeP4TkhYQZdzps3JKd2) | [Neelesh Misra](https://open.spotify.com/artist/72APa8QPdPUhGzNMciz1wI), [Arun Dev Yadav](https://open.spotify.com/artist/0RCdoxFQ7avFn6Hw0XUDVb) | [Ehi Thaiyan](https://open.spotify.com/album/6ULMsJDGq7yXOIDVnygzdJ) | 5:52 |
-| 21 | [MEHANDI SURKAB NA](https://open.spotify.com/track/5zhAACOjZBaJqj2BiJHt6F) | [Ananyya Singhh](https://open.spotify.com/artist/6PZBSvecJzYBo85YKKo2nA) | [MEHANDI SURKAB NA](https://open.spotify.com/album/6IRoK4OxmLBl2wdDQNAwUp) | 2:55 |
-| 22 | [Mori Dhani Chunariya Iter Ghamke \- Jhumar](https://open.spotify.com/track/6DhuWjwpo9bs7jUMukAtsM) | [Malini Awasthi](https://open.spotify.com/artist/4af9dUIG89GAuEsy6Se3F1) | [Mori Dhani Chunariya Iter Ghamke \(Jhumar\)](https://open.spotify.com/album/7eGxALUcYY7WgHrn1F1DDq) | 4:02 |
+| 21 | [Mori Dhani Chunariya Iter Ghamke \- Jhumar](https://open.spotify.com/track/6DhuWjwpo9bs7jUMukAtsM) | [Malini Awasthi](https://open.spotify.com/artist/4af9dUIG89GAuEsy6Se3F1) | [Mori Dhani Chunariya Iter Ghamke \(Jhumar\)](https://open.spotify.com/album/7eGxALUcYY7WgHrn1F1DDq) | 4:02 |
+| 22 | [MEHANDI SURKAB NA](https://open.spotify.com/track/5zhAACOjZBaJqj2BiJHt6F) | [Ananyya Singhh](https://open.spotify.com/artist/6PZBSvecJzYBo85YKKo2nA) | [MEHANDI SURKAB NA](https://open.spotify.com/album/6IRoK4OxmLBl2wdDQNAwUp) | 2:55 |
 | 23 | [Naginiya](https://open.spotify.com/track/18zB9BCWYwjvQ0zjVBSxQQ) | [Priya Mallick](https://open.spotify.com/artist/7sRTObHviBKE6HTIHV9nUw) | [Naginiya](https://open.spotify.com/album/7f7rvzCkdU309grzXMyKU4) | 3:59 |
 | 24 | [Khele Ke Milal Goti](https://open.spotify.com/track/1UrHWqV8BjaY88RmRRpZgh) | [Sanskriti Pandey](https://open.spotify.com/artist/7ffXIVwcucy2hFC3sABaj7) | [Khele Ke Milal Goti](https://open.spotify.com/album/4vtYQPmdNuyPBcSQlQU7kx) | 2:07 |
 | 25 | [MEHANDI LAGAI KE](https://open.spotify.com/track/2n4TZqdfDGUAIu7lT61s39) | [Harsh Veer Indi](https://open.spotify.com/artist/6hdJobpagBZObbX9JvgYpy), [Gauri Mishra](https://open.spotify.com/artist/2RaSX5rCSHlfO8bUxGmhDr) | [MEHANDI LAGAI KE](https://open.spotify.com/album/0Zim1wh8FtCPUH5Stm8X5J) | 3:10 |

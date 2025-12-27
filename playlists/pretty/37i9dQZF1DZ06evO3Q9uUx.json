@@ -1,12 +1,12 @@
 {
   "description": "This is BIA. The essential tracks, all in one playlist.",
-  "num_followers": 15852,
+  "num_followers": 15850,
   "original_name": "This Is BIA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUstAAAAAACU43Ra2VYO49Hob2IoAqvC",
+  "snapshot_id": "aUx+gAAAAADGVdW9TGQ17szFTgxHIt9A",
   "tracks": [
     {
       "added_at": null,
@@ -83,22 +83,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "SHAKE THE SNOW GLOBE",
-        "url": "https://open.spotify.com/album/2ZzatxW5gv1XZ0uai8TKxk"
+        "name": "WE ON GO",
+        "url": "https://open.spotify.com/album/6UMD37okfr1vtlDJ7JLitX"
       },
       "artists": [
-        {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
-        },
         {
           "name": "BIA",
           "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
         }
       ],
-      "duration_ms": 160720,
-      "name": "BEST ON EARTH (feat. BIA) - Bonus",
-      "url": "https://open.spotify.com/track/0xKBkLcF71uUQeTA7FSu4A"
+      "duration_ms": 168533,
+      "name": "WE ON GO",
+      "url": "https://open.spotify.com/track/01vCzM84c5JLSkG2iXC9VZ"
     },
     {
       "added_at": null,
@@ -123,18 +119,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "WE ON GO",
-        "url": "https://open.spotify.com/album/6UMD37okfr1vtlDJ7JLitX"
+        "name": "SHAKE THE SNOW GLOBE",
+        "url": "https://open.spotify.com/album/2ZzatxW5gv1XZ0uai8TKxk"
       },
       "artists": [
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        },
         {
           "name": "BIA",
           "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
         }
       ],
-      "duration_ms": 168533,
-      "name": "WE ON GO",
-      "url": "https://open.spotify.com/track/01vCzM84c5JLSkG2iXC9VZ"
+      "duration_ms": 160720,
+      "name": "BEST ON EARTH (feat. BIA) - Bonus",
+      "url": "https://open.spotify.com/track/0xKBkLcF71uUQeTA7FSu4A"
     },
     {
       "added_at": null,
@@ -1003,22 +1003,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BIANCA",
-        "url": "https://open.spotify.com/album/7wmeALlMQDyo4HeNwf5EVV"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 145067,
-      "name": "NWFA",
-      "url": "https://open.spotify.com/track/2EScNLGLm3f09QuJPwf8v5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "REALLY HER",
         "url": "https://open.spotify.com/album/4acZyhrXnAZR3PSDLAaoX5"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 172974,
       "name": "MILLIONS",
       "url": "https://open.spotify.com/track/11AsxhPhTYYIwLiE6bkA0v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BIANCA",
+        "url": "https://open.spotify.com/album/7wmeALlMQDyo4HeNwf5EVV"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 145067,
+      "name": "NWFA",
+      "url": "https://open.spotify.com/track/2EScNLGLm3f09QuJPwf8v5"
     },
     {
       "added_at": null,

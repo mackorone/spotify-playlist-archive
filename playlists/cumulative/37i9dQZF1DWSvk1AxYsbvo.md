@@ -4,7 +4,7 @@
 
 > 이불 안 속처럼 포근하고 편안한 음악들과 함께 폭신한 기분을 만끽하세요\. \(Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable.\)
 
-263 songs - 15 hr 12 min
+264 songs - 15 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,8 +59,9 @@
 | [DANDELION](https://open.spotify.com/track/5erdZRi65gQvc4m7znELQp) | [Zitten](https://open.spotify.com/artist/3of4z5k152Et4C0IQ7HUAg) | [Now On, Showtime! \(Original Television Soundtrack\) \- 'DANDELION'](https://open.spotify.com/album/0p6LcAuJfbKxZaPpsgUlF9) | 3:02 | 2022-06-13 | 2022-09-26 |
 | [Dawn \(Song by SARU\) \(Prod\. By Vische\)](https://open.spotify.com/track/55RGhiuNWGAbzjgB08ZM7O) | [SOUND PALETTE](https://open.spotify.com/artist/0vReM81CSMXlENdSzVSHQF) | [PALETTE C\#509.](https://open.spotify.com/album/4W8yKsryaOIeCVmKMlvZVu) | 3:34 | 2022-05-03 | 2022-07-28 |
 | [Dawnlight](https://open.spotify.com/track/1iaXPvoMPa2L9GYvAA7gHj) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Autumn](https://open.spotify.com/album/1RSwpzDWOjzsrBCJAWco7r) | 3:31 | 2025-09-16 |  |
-| [Days of Youth](https://open.spotify.com/track/5t1pYN3ZcIOKMXdhDRRacd) | [Seo Ja Yeong](https://open.spotify.com/artist/21MtEORMs0VrLY1Gy4JXIN) | [My Girlfriend is the Man \(Original Soundtrack\) Part.3](https://open.spotify.com/album/6BkbFcvAIq9yNeZHBmhN27) | 2:50 | 2025-08-11 |  |
+| [Days of Youth](https://open.spotify.com/track/5t1pYN3ZcIOKMXdhDRRacd) | [Seo Ja Yeong](https://open.spotify.com/artist/21MtEORMs0VrLY1Gy4JXIN) | [My Girlfriend is the Man \(Original Soundtrack\) Part.3](https://open.spotify.com/album/6BkbFcvAIq9yNeZHBmhN27) | 2:50 | 2025-08-11 | 2025-12-27 |
 | [Dear My Childhood](https://open.spotify.com/track/6Vy7FsMTd1jc4Xk8o2GBps) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [The Dreamest](https://open.spotify.com/album/3WlZ4ckBpoZeZCTVGF7fXV) | 4:16 | 2025-04-28 |  |
+| [Dear My Love](https://open.spotify.com/track/0qyAGE9nrTR7GGaDDoSX6L) | [Yim Siwan](https://open.spotify.com/artist/182ecftEoWZSTXQgTEeqgj) | [The Reason \- The 1st Mini Album](https://open.spotify.com/album/51VULNWdcYSEOsbZLPH5s1) | 3:33 | 2025-12-26 |  |
 | [Dear weary one \(with seolkyung\)](https://open.spotify.com/track/4LwHWD8bIxLpGWaijzbESw) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Seol Kyung](https://open.spotify.com/artist/3PgHUNgvyVrM1c2S93dRTY) | [Dear weary one](https://open.spotify.com/album/0YbacYJRaVoev72V97Ofek) | 4:17 | 2025-09-03 | 2025-10-27 |
 | [Dear, Barcelona](https://open.spotify.com/track/4xVsCSWd7Otr19tN9JNC8G) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Dear, Barcelona](https://open.spotify.com/album/26tVGQR0jl6vZ0JRszMl4e) | 3:43 | 2024-12-05 |  |
 | [Deep in the night, you and me](https://open.spotify.com/track/0ytGKS7VQwOeviYgqjwgUY) | [109](https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh) | [Deep in the night, you and me](https://open.spotify.com/album/2HmxJAWEQLr6g2IIZ8DnXQ) | 2:47 | 2022-05-03 | 2024-07-29 |

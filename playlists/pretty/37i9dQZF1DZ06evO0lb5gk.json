@@ -1,12 +1,12 @@
 {
   "description": "This is Gojira. The essential tracks, all in one playlist.",
-  "num_followers": 148601,
+  "num_followers": 148618,
   "original_name": "This Is Gojira",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUstAAAAAAC5djKoLqBBRuSlQ9fFtMQM",
+  "snapshot_id": "aUx+gAAAAAD3OoIIgihJiaySo02f3gtE",
   "tracks": [
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "L'Enfant Sauvage (Special Edition)",
-        "url": "https://open.spotify.com/album/5dxqD5Kc6cRRi3rErmDfXG"
-      },
-      "artists": [
-        {
-          "name": "Gojira",
-          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
-        }
-      ],
-      "duration_ms": 257800,
-      "name": "Liquid Fire",
-      "url": "https://open.spotify.com/track/5BHLmCLntTLjSFGl8MG5wZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "From Mars to Sirius",
         "url": "https://open.spotify.com/album/0AvFF0HlQYvYKHaRURGZBs"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 144786,
       "name": "From Mars",
       "url": "https://open.spotify.com/track/4CJ7iadNL15GuTr7fXMqxr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "L'Enfant Sauvage (Special Edition)",
+        "url": "https://open.spotify.com/album/5dxqD5Kc6cRRi3rErmDfXG"
+      },
+      "artists": [
+        {
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+        }
+      ],
+      "duration_ms": 257800,
+      "name": "Liquid Fire",
+      "url": "https://open.spotify.com/track/5BHLmCLntTLjSFGl8MG5wZ"
     },
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "L'Enfant Sauvage (Special Edition)",
-        "url": "https://open.spotify.com/album/5dxqD5Kc6cRRi3rErmDfXG"
-      },
-      "artists": [
-        {
-          "name": "Gojira",
-          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
-        }
-      ],
-      "duration_ms": 399320,
-      "name": "Explosia",
-      "url": "https://open.spotify.com/track/7f7AkrOCmi5X6Eovd3TiNq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Terra Incognita",
         "url": "https://open.spotify.com/album/0OB9EsykpiyNnAWSuahzW4"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 297402,
       "name": "Clone",
       "url": "https://open.spotify.com/track/0tSE8quqeoqNqjRL55POSa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "L'Enfant Sauvage (Special Edition)",
+        "url": "https://open.spotify.com/album/5dxqD5Kc6cRRi3rErmDfXG"
+      },
+      "artists": [
+        {
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+        }
+      ],
+      "duration_ms": 399320,
+      "name": "Explosia",
+      "url": "https://open.spotify.com/track/7f7AkrOCmi5X6Eovd3TiNq"
     },
     {
       "added_at": null,

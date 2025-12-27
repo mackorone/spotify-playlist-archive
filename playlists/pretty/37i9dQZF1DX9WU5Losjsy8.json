@@ -1,6 +1,6 @@
 {
   "description": "Bald gehts wieder auf zur H\u00fctten Gaudi!",
-  "num_followers": 481911,
+  "num_followers": 482064,
   "original_name": "Apr\u00e8s Ski Party 2025",
   "owner": {
     "name": "Spotify",
@@ -59,6 +59,38 @@
     {
       "added_at": "2025-12-15 07:11:03",
       "album": {
+        "name": "Farbenspiel",
+        "url": "https://open.spotify.com/album/7MTjxNeS3N8XNuUm4BxjSx"
+      },
+      "artists": [
+        {
+          "name": "Helene Fischer",
+          "url": "https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W"
+        }
+      ],
+      "duration_ms": 219720,
+      "name": "Atemlos durch die Nacht",
+      "url": "https://open.spotify.com/track/1cSXzDZt8vzuUp2XREQEJN"
+    },
+    {
+      "added_at": "2025-12-15 07:11:03",
+      "album": {
+        "name": "Gute Laune",
+        "url": "https://open.spotify.com/album/2L23gI2D1leCUsyraaOmuj"
+      },
+      "artists": [
+        {
+          "name": "Gro\u00dfstadtEngel",
+          "url": "https://open.spotify.com/artist/5h2WkXswHLkZe60EEf3eiG"
+        }
+      ],
+      "duration_ms": 175790,
+      "name": "Gute Laune",
+      "url": "https://open.spotify.com/track/7fapAlfgJf6EzlviBqJb4f"
+    },
+    {
+      "added_at": "2025-12-15 07:11:03",
+      "album": {
         "name": "Baila Baila",
         "url": "https://open.spotify.com/album/2evbu0IbU1p0uzcx7g0WBF"
       },
@@ -83,38 +115,6 @@
       "duration_ms": 150621,
       "name": "Baila Baila",
       "url": "https://open.spotify.com/track/1xS7XV1k4Q2YRldPsPswdf"
-    },
-    {
-      "added_at": "2025-12-15 07:11:03",
-      "album": {
-        "name": "Gute Laune",
-        "url": "https://open.spotify.com/album/2L23gI2D1leCUsyraaOmuj"
-      },
-      "artists": [
-        {
-          "name": "Gro\u00dfstadtEngel",
-          "url": "https://open.spotify.com/artist/5h2WkXswHLkZe60EEf3eiG"
-        }
-      ],
-      "duration_ms": 175790,
-      "name": "Gute Laune",
-      "url": "https://open.spotify.com/track/7fapAlfgJf6EzlviBqJb4f"
-    },
-    {
-      "added_at": "2025-12-15 07:11:03",
-      "album": {
-        "name": "Farbenspiel",
-        "url": "https://open.spotify.com/album/7MTjxNeS3N8XNuUm4BxjSx"
-      },
-      "artists": [
-        {
-          "name": "Helene Fischer",
-          "url": "https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W"
-        }
-      ],
-      "duration_ms": 219720,
-      "name": "Atemlos durch die Nacht",
-      "url": "https://open.spotify.com/track/1cSXzDZt8vzuUp2XREQEJN"
     },
     {
       "added_at": "2025-12-15 07:11:03",
@@ -303,22 +303,6 @@
     {
       "added_at": "2025-12-15 07:11:03",
       "album": {
-        "name": "ANNE KAFFEEKANNE",
-        "url": "https://open.spotify.com/album/2atktS9Fh4Qf5PSO0SrJ1i"
-      },
-      "artists": [
-        {
-          "name": "TIM PLVNK",
-          "url": "https://open.spotify.com/artist/1nZvBVvZi86Bjf40oxsYEk"
-        }
-      ],
-      "duration_ms": 140797,
-      "name": "ANNE KAFFEEKANNE",
-      "url": "https://open.spotify.com/track/3m8GvywmS7eCJMcv5ApyXd"
-    },
-    {
-      "added_at": "2025-12-15 07:11:03",
-      "album": {
         "name": "Weihnachtsmann & Co. KG (Luca Version)",
         "url": "https://open.spotify.com/album/2hXa9EGiFqhOnJJoPxfliO"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 126000,
       "name": "Weihnachtsmann & Co. KG - Luca Version",
       "url": "https://open.spotify.com/track/3gQrkBfV2VBoEF35igQy5V"
+    },
+    {
+      "added_at": "2025-12-15 07:11:03",
+      "album": {
+        "name": "ANNE KAFFEEKANNE",
+        "url": "https://open.spotify.com/album/2atktS9Fh4Qf5PSO0SrJ1i"
+      },
+      "artists": [
+        {
+          "name": "TIM PLVNK",
+          "url": "https://open.spotify.com/artist/1nZvBVvZi86Bjf40oxsYEk"
+        }
+      ],
+      "duration_ms": 140797,
+      "name": "ANNE KAFFEEKANNE",
+      "url": "https://open.spotify.com/track/3m8GvywmS7eCJMcv5ApyXd"
     },
     {
       "added_at": "2025-12-15 07:11:03",
@@ -379,22 +379,6 @@
     {
       "added_at": "2025-12-15 07:11:03",
       "album": {
-        "name": "Schnelle Brille",
-        "url": "https://open.spotify.com/album/4UzKoWcOCq6GUpvE9I9xQ5"
-      },
-      "artists": [
-        {
-          "name": "Nancy Franck",
-          "url": "https://open.spotify.com/artist/1TgdpH31IOzayp4PFpSUqD"
-        }
-      ],
-      "duration_ms": 137125,
-      "name": "Schnelle Brille",
-      "url": "https://open.spotify.com/track/2jZhxHB4xaTaxktl8bcl6z"
-    },
-    {
-      "added_at": "2025-12-15 07:11:03",
-      "album": {
         "name": "Herzfrequenz",
         "url": "https://open.spotify.com/album/6QZsxUU2TAV6J3LTgTk9Fz"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 227040,
       "name": "Herz an Herz",
       "url": "https://open.spotify.com/track/1X7654uBsdVKnZAqyIJT7y"
+    },
+    {
+      "added_at": "2025-12-15 07:11:03",
+      "album": {
+        "name": "Schnelle Brille",
+        "url": "https://open.spotify.com/album/4UzKoWcOCq6GUpvE9I9xQ5"
+      },
+      "artists": [
+        {
+          "name": "Nancy Franck",
+          "url": "https://open.spotify.com/artist/1TgdpH31IOzayp4PFpSUqD"
+        }
+      ],
+      "duration_ms": 137125,
+      "name": "Schnelle Brille",
+      "url": "https://open.spotify.com/track/2jZhxHB4xaTaxktl8bcl6z"
     },
     {
       "added_at": "2025-12-15 07:11:03",
@@ -471,6 +471,22 @@
     {
       "added_at": "2025-12-15 07:11:03",
       "album": {
+        "name": "D\u00e9j\u00e0 Vu - Das Beste Von Matthias Reim",
+        "url": "https://open.spotify.com/album/7vK2CPL2kkQlpV58o1o96f"
+      },
+      "artists": [
+        {
+          "name": "Matthias Reim",
+          "url": "https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3"
+        }
+      ],
+      "duration_ms": 217680,
+      "name": "Verdammt Ich lieb' dich",
+      "url": "https://open.spotify.com/track/2XEwnFyQhDBHq6rFEaAOQj"
+    },
+    {
+      "added_at": "2025-12-15 07:11:03",
+      "album": {
         "name": "Fliesentisch Romantik 2",
         "url": "https://open.spotify.com/album/4I26OoVzDFKeNX0zO2IcDM"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 204444,
       "name": "Hurra die Gams",
       "url": "https://open.spotify.com/track/7gJc9SPshSHnLSqz2d0ETV"
-    },
-    {
-      "added_at": "2025-12-15 07:11:03",
-      "album": {
-        "name": "D\u00e9j\u00e0 Vu - Das Beste Von Matthias Reim",
-        "url": "https://open.spotify.com/album/7vK2CPL2kkQlpV58o1o96f"
-      },
-      "artists": [
-        {
-          "name": "Matthias Reim",
-          "url": "https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3"
-        }
-      ],
-      "duration_ms": 217680,
-      "name": "Verdammt Ich lieb' dich",
-      "url": "https://open.spotify.com/track/2XEwnFyQhDBHq6rFEaAOQj"
     },
     {
       "added_at": "2025-12-15 07:11:03",
@@ -567,22 +567,6 @@
     {
       "added_at": "2025-12-15 07:11:03",
       "album": {
-        "name": "Hey Macarena!",
-        "url": "https://open.spotify.com/album/5lfbj6pyyZwTUeFWfu0OW9"
-      },
-      "artists": [
-        {
-          "name": "Pietro Basile",
-          "url": "https://open.spotify.com/artist/29JWo79GMywsGJ5lY8HrCc"
-        }
-      ],
-      "duration_ms": 164769,
-      "name": "Hey Macarena!",
-      "url": "https://open.spotify.com/track/2NAn1J4RbC8Ure2F1hByXK"
-    },
-    {
-      "added_at": "2025-12-15 07:11:03",
-      "album": {
         "name": "Zeig mir den Platz an der Sonne",
         "url": "https://open.spotify.com/album/14kHOjiTWRL2gF9Li2jEGg"
       },
@@ -599,18 +583,18 @@
     {
       "added_at": "2025-12-15 07:11:03",
       "album": {
-        "name": "3er",
-        "url": "https://open.spotify.com/album/1PXEOT5riEAAlgm8L4QTtG"
+        "name": "Hey Macarena!",
+        "url": "https://open.spotify.com/album/5lfbj6pyyZwTUeFWfu0OW9"
       },
       "artists": [
         {
-          "name": "Frenzy",
-          "url": "https://open.spotify.com/artist/4lRkNAQP2nJV4rj3CjkdXd"
+          "name": "Pietro Basile",
+          "url": "https://open.spotify.com/artist/29JWo79GMywsGJ5lY8HrCc"
         }
       ],
-      "duration_ms": 144021,
-      "name": "3er",
-      "url": "https://open.spotify.com/track/27djNuigXbNE4OJ5R5NEa5"
+      "duration_ms": 164769,
+      "name": "Hey Macarena!",
+      "url": "https://open.spotify.com/track/2NAn1J4RbC8Ure2F1hByXK"
     },
     {
       "added_at": "2025-12-15 07:11:03",
@@ -627,6 +611,22 @@
       "duration_ms": 209240,
       "name": "Das geht ab - Wir feiern die ganze Nacht",
       "url": "https://open.spotify.com/track/0TvcLuXOCVXQZwspgXPOZb"
+    },
+    {
+      "added_at": "2025-12-15 07:11:03",
+      "album": {
+        "name": "3er",
+        "url": "https://open.spotify.com/album/1PXEOT5riEAAlgm8L4QTtG"
+      },
+      "artists": [
+        {
+          "name": "Frenzy",
+          "url": "https://open.spotify.com/artist/4lRkNAQP2nJV4rj3CjkdXd"
+        }
+      ],
+      "duration_ms": 144021,
+      "name": "3er",
+      "url": "https://open.spotify.com/track/27djNuigXbNE4OJ5R5NEa5"
     },
     {
       "added_at": "2025-12-15 07:11:03",
@@ -679,38 +679,22 @@
     {
       "added_at": "2025-12-15 07:11:03",
       "album": {
-        "name": "Tag X (Geiles Leben Edition)",
-        "url": "https://open.spotify.com/album/1dK5iraBeq5qeMowd8Itsn"
+        "name": "Sternstunden",
+        "url": "https://open.spotify.com/album/5k9mAJ5lR5sUAuMYzcCmu1"
       },
       "artists": [
         {
-          "name": "Glasperlenspiel",
-          "url": "https://open.spotify.com/artist/2UFKXTZgKtOTHSqMSyAcLO"
+          "name": "DJ \u00d6tzi",
+          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
         },
         {
-          "name": "Madizin",
-          "url": "https://open.spotify.com/artist/3KCO1VWpmHG0T2zYJjXVgj"
+          "name": "Nik P.",
+          "url": "https://open.spotify.com/artist/159oJddLiuKFNYTa3ZNueS"
         }
       ],
-      "duration_ms": 211373,
-      "name": "Geiles Leben - Madizin Single Mix",
-      "url": "https://open.spotify.com/track/4GyG53nBdaEvSEn9o8roA2"
-    },
-    {
-      "added_at": "2025-12-15 07:11:03",
-      "album": {
-        "name": "Lampen an",
-        "url": "https://open.spotify.com/album/5VnDZm1EXRyV3U4JyFgsQb"
-      },
-      "artists": [
-        {
-          "name": "Frenzy",
-          "url": "https://open.spotify.com/artist/4lRkNAQP2nJV4rj3CjkdXd"
-        }
-      ],
-      "duration_ms": 145341,
-      "name": "Lampen an",
-      "url": "https://open.spotify.com/track/5y2rztbeRghBK0UyKK96Tg"
+      "duration_ms": 236200,
+      "name": "Ein Stern (der deinen Namen tr\u00e4gt) - Party Mix",
+      "url": "https://open.spotify.com/track/1o5evgltJughVgrPinzAOV"
     },
     {
       "added_at": "2025-12-15 07:11:03",
@@ -731,22 +715,38 @@
     {
       "added_at": "2025-12-15 07:11:03",
       "album": {
-        "name": "Sternstunden",
-        "url": "https://open.spotify.com/album/5k9mAJ5lR5sUAuMYzcCmu1"
+        "name": "Lampen an",
+        "url": "https://open.spotify.com/album/5VnDZm1EXRyV3U4JyFgsQb"
       },
       "artists": [
         {
-          "name": "DJ \u00d6tzi",
-          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
-        },
-        {
-          "name": "Nik P.",
-          "url": "https://open.spotify.com/artist/159oJddLiuKFNYTa3ZNueS"
+          "name": "Frenzy",
+          "url": "https://open.spotify.com/artist/4lRkNAQP2nJV4rj3CjkdXd"
         }
       ],
-      "duration_ms": 236200,
-      "name": "Ein Stern (der deinen Namen tr\u00e4gt) - Party Mix",
-      "url": "https://open.spotify.com/track/1o5evgltJughVgrPinzAOV"
+      "duration_ms": 145341,
+      "name": "Lampen an",
+      "url": "https://open.spotify.com/track/5y2rztbeRghBK0UyKK96Tg"
+    },
+    {
+      "added_at": "2025-12-15 07:11:03",
+      "album": {
+        "name": "Tag X (Geiles Leben Edition)",
+        "url": "https://open.spotify.com/album/1dK5iraBeq5qeMowd8Itsn"
+      },
+      "artists": [
+        {
+          "name": "Glasperlenspiel",
+          "url": "https://open.spotify.com/artist/2UFKXTZgKtOTHSqMSyAcLO"
+        },
+        {
+          "name": "Madizin",
+          "url": "https://open.spotify.com/artist/3KCO1VWpmHG0T2zYJjXVgj"
+        }
+      ],
+      "duration_ms": 211373,
+      "name": "Geiles Leben - Madizin Single Mix",
+      "url": "https://open.spotify.com/track/4GyG53nBdaEvSEn9o8roA2"
     },
     {
       "added_at": "2025-12-15 07:11:03",
@@ -771,6 +771,22 @@
     {
       "added_at": "2025-12-15 07:11:03",
       "album": {
+        "name": "Von Herzen",
+        "url": "https://open.spotify.com/album/6uSbJQBdGJrN4hhup5kdeC"
+      },
+      "artists": [
+        {
+          "name": "DJ \u00d6tzi",
+          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
+        }
+      ],
+      "duration_ms": 232053,
+      "name": "A Mann f\u00fcr Amore - Single Mix",
+      "url": "https://open.spotify.com/track/0m89E9zmNzOGuuZWEvZZGm"
+    },
+    {
+      "added_at": "2025-12-15 07:11:03",
+      "album": {
         "name": "WOW!",
         "url": "https://open.spotify.com/album/2M6KtlSMelRaIBneRuXeZg"
       },
@@ -791,22 +807,6 @@
     {
       "added_at": "2025-12-15 07:11:03",
       "album": {
-        "name": "Oben ohne",
-        "url": "https://open.spotify.com/album/1nHLLz8GNrA4GeaKLkay7M"
-      },
-      "artists": [
-        {
-          "name": "Julian Sommer",
-          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
-        }
-      ],
-      "duration_ms": 179565,
-      "name": "Oben ohne",
-      "url": "https://open.spotify.com/track/5evW30Vom9nZ9YKadUymD3"
-    },
-    {
-      "added_at": "2025-12-15 07:11:03",
-      "album": {
         "name": "Helikopter 117 (Mach' den Hub Hub Hub)",
         "url": "https://open.spotify.com/album/5RXeATnYMMGjUWoczsa4a3"
       },
@@ -823,38 +823,18 @@
     {
       "added_at": "2025-12-15 07:11:03",
       "album": {
-        "name": "Von Herzen",
-        "url": "https://open.spotify.com/album/6uSbJQBdGJrN4hhup5kdeC"
+        "name": "Oben ohne",
+        "url": "https://open.spotify.com/album/1nHLLz8GNrA4GeaKLkay7M"
       },
       "artists": [
         {
-          "name": "DJ \u00d6tzi",
-          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
+          "name": "Julian Sommer",
+          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
         }
       ],
-      "duration_ms": 232053,
-      "name": "A Mann f\u00fcr Amore - Single Mix",
-      "url": "https://open.spotify.com/track/0m89E9zmNzOGuuZWEvZZGm"
-    },
-    {
-      "added_at": "2025-12-15 07:11:03",
-      "album": {
-        "name": "Wir eskalieren",
-        "url": "https://open.spotify.com/album/2XgIdJXUCfdSJIbXAglyHA"
-      },
-      "artists": [
-        {
-          "name": "FiNCH",
-          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
-        },
-        {
-          "name": "Mia Julia",
-          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
-        }
-      ],
-      "duration_ms": 216286,
-      "name": "Wir eskalieren",
-      "url": "https://open.spotify.com/track/2gxG1d0SZNpJHJFSQlE7Vm"
+      "duration_ms": 179565,
+      "name": "Oben ohne",
+      "url": "https://open.spotify.com/track/5evW30Vom9nZ9YKadUymD3"
     },
     {
       "added_at": "2025-12-15 07:11:03",
@@ -875,6 +855,26 @@
       "duration_ms": 240761,
       "name": "Major Tom (V\u00f6llig losgel\u00f6st)",
       "url": "https://open.spotify.com/track/0XPmdEHBu90jEJn2LdTGk7"
+    },
+    {
+      "added_at": "2025-12-15 07:11:03",
+      "album": {
+        "name": "Wir eskalieren",
+        "url": "https://open.spotify.com/album/2XgIdJXUCfdSJIbXAglyHA"
+      },
+      "artists": [
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        },
+        {
+          "name": "Mia Julia",
+          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+        }
+      ],
+      "duration_ms": 216286,
+      "name": "Wir eskalieren",
+      "url": "https://open.spotify.com/track/2gxG1d0SZNpJHJFSQlE7Vm"
     },
     {
       "added_at": "2025-12-15 07:11:03",
@@ -1083,30 +1083,6 @@
     {
       "added_at": "2025-12-15 07:11:03",
       "album": {
-        "name": "Grapefruit",
-        "url": "https://open.spotify.com/album/2GPa0un8izzyTkgZWgocBo"
-      },
-      "artists": [
-        {
-          "name": "MartinBepunkt",
-          "url": "https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc"
-        },
-        {
-          "name": "Julia Engelmann",
-          "url": "https://open.spotify.com/artist/3yKyH3s5xOHdLDfsD0W9gK"
-        },
-        {
-          "name": "Raket One",
-          "url": "https://open.spotify.com/artist/3WiX1u4IpVintfUX7Qze06"
-        }
-      ],
-      "duration_ms": 184160,
-      "name": "Grapefruit",
-      "url": "https://open.spotify.com/track/6tsfUUzJ5SFKP7n2H9V22F"
-    },
-    {
-      "added_at": "2025-12-15 07:11:03",
-      "album": {
         "name": "Mein kleines Herz (Bam Bam)",
         "url": "https://open.spotify.com/album/25GJAMuQqJ6n0OrRAZrcY7"
       },
@@ -1131,18 +1107,42 @@
     {
       "added_at": "2025-12-15 07:11:03",
       "album": {
-        "name": "Dorfdisko",
-        "url": "https://open.spotify.com/album/3kWKHKuTvxJuAGn2tEIGPL"
+        "name": "Grapefruit",
+        "url": "https://open.spotify.com/album/2GPa0un8izzyTkgZWgocBo"
       },
       "artists": [
         {
-          "name": "FiNCH",
-          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+          "name": "MartinBepunkt",
+          "url": "https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc"
+        },
+        {
+          "name": "Julia Engelmann",
+          "url": "https://open.spotify.com/artist/3yKyH3s5xOHdLDfsD0W9gK"
+        },
+        {
+          "name": "Raket One",
+          "url": "https://open.spotify.com/artist/3WiX1u4IpVintfUX7Qze06"
         }
       ],
-      "duration_ms": 206944,
-      "name": "Abfahrt",
-      "url": "https://open.spotify.com/track/7sIQ5eF9ZmZY6lGGwZKaP9"
+      "duration_ms": 184160,
+      "name": "Grapefruit",
+      "url": "https://open.spotify.com/track/6tsfUUzJ5SFKP7n2H9V22F"
+    },
+    {
+      "added_at": "2025-12-15 07:11:03",
+      "album": {
+        "name": "Hits Pur - 20 Jahre Eine Band (Fan Edition)",
+        "url": "https://open.spotify.com/album/6go7rUd1OUcrNMHlToIgAO"
+      },
+      "artists": [
+        {
+          "name": "Pur",
+          "url": "https://open.spotify.com/artist/175a900UJkfGsIGcvUDaEx"
+        }
+      ],
+      "duration_ms": 280852,
+      "name": "Abenteuerland",
+      "url": "https://open.spotify.com/track/748pbjnFM9TVwQhDT3LC4N"
     },
     {
       "added_at": "2025-12-15 07:11:03",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2025-12-15 07:11:03",
       "album": {
+        "name": "Dorfdisko",
+        "url": "https://open.spotify.com/album/3kWKHKuTvxJuAGn2tEIGPL"
+      },
+      "artists": [
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        }
+      ],
+      "duration_ms": 206944,
+      "name": "Abfahrt",
+      "url": "https://open.spotify.com/track/7sIQ5eF9ZmZY6lGGwZKaP9"
+    },
+    {
+      "added_at": "2025-12-15 07:11:03",
+      "album": {
         "name": "Erwischt",
         "url": "https://open.spotify.com/album/2ciRsTLrxD9QfVEQ73Nj8m"
       },
@@ -1179,6 +1195,26 @@
       "duration_ms": 121000,
       "name": "Erwischt",
       "url": "https://open.spotify.com/track/1usHG4kvIPmpuGwTGLIQaI"
+    },
+    {
+      "added_at": "2025-12-15 07:11:03",
+      "album": {
+        "name": "Das Album",
+        "url": "https://open.spotify.com/album/3cOWgbuDqtPClEburOYqS1"
+      },
+      "artists": [
+        {
+          "name": "Anton",
+          "url": "https://open.spotify.com/artist/4CZLoCIZfFOPmv2GRYMzjw"
+        },
+        {
+          "name": "DJ \u00d6tzi",
+          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
+        }
+      ],
+      "duration_ms": 229733,
+      "name": "Anton aus Tirol",
+      "url": "https://open.spotify.com/track/2YuKyP77pidQlkxm8PuyJj"
     },
     {
       "added_at": "2025-12-15 07:11:03",
@@ -1215,26 +1251,6 @@
       "duration_ms": 194173,
       "name": "Strobo Pop",
       "url": "https://open.spotify.com/track/0xTsllHxzqwYrsPUcruf72"
-    },
-    {
-      "added_at": "2025-12-15 07:11:03",
-      "album": {
-        "name": "Das Album",
-        "url": "https://open.spotify.com/album/3cOWgbuDqtPClEburOYqS1"
-      },
-      "artists": [
-        {
-          "name": "Anton",
-          "url": "https://open.spotify.com/artist/4CZLoCIZfFOPmv2GRYMzjw"
-        },
-        {
-          "name": "DJ \u00d6tzi",
-          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
-        }
-      ],
-      "duration_ms": 229733,
-      "name": "Anton aus Tirol",
-      "url": "https://open.spotify.com/track/2YuKyP77pidQlkxm8PuyJj"
     },
     {
       "added_at": "2025-12-15 07:11:03",
@@ -1299,22 +1315,6 @@
     {
       "added_at": "2025-12-15 07:11:03",
       "album": {
-        "name": "Hits Pur - 20 Jahre Eine Band (Fan Edition)",
-        "url": "https://open.spotify.com/album/6go7rUd1OUcrNMHlToIgAO"
-      },
-      "artists": [
-        {
-          "name": "Pur",
-          "url": "https://open.spotify.com/artist/175a900UJkfGsIGcvUDaEx"
-        }
-      ],
-      "duration_ms": 280852,
-      "name": "Abenteuerland",
-      "url": "https://open.spotify.com/track/748pbjnFM9TVwQhDT3LC4N"
-    },
-    {
-      "added_at": "2025-12-15 07:11:03",
-      "album": {
         "name": "Bring mich nach Hause",
         "url": "https://open.spotify.com/album/4QtCdbQkB2un0KIJEeQkO4"
       },
@@ -1327,6 +1327,26 @@
       "duration_ms": 149160,
       "name": "Bring mich nach Hause",
       "url": "https://open.spotify.com/track/3qt2UEvdeQusoqNKhgYSAx"
+    },
+    {
+      "added_at": "2025-12-15 07:11:03",
+      "album": {
+        "name": "Sternstunden",
+        "url": "https://open.spotify.com/album/5k9mAJ5lR5sUAuMYzcCmu1"
+      },
+      "artists": [
+        {
+          "name": "DJ \u00d6tzi",
+          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
+        },
+        {
+          "name": "Marc Pircher",
+          "url": "https://open.spotify.com/artist/7pNnbFPWqtDSdSeNydTPbJ"
+        }
+      ],
+      "duration_ms": 239466,
+      "name": "7 S\u00fcnden - Party Mix",
+      "url": "https://open.spotify.com/track/4HCaFtRMdrP6iQepyPkfW6"
     },
     {
       "added_at": "2025-12-15 07:11:03",
@@ -1367,26 +1387,6 @@
       "duration_ms": 167142,
       "name": "Zum Greifen nah",
       "url": "https://open.spotify.com/track/5LEBEcAsQTL2ZoRQEvsE1D"
-    },
-    {
-      "added_at": "2025-12-15 07:11:03",
-      "album": {
-        "name": "Sternstunden",
-        "url": "https://open.spotify.com/album/5k9mAJ5lR5sUAuMYzcCmu1"
-      },
-      "artists": [
-        {
-          "name": "DJ \u00d6tzi",
-          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
-        },
-        {
-          "name": "Marc Pircher",
-          "url": "https://open.spotify.com/artist/7pNnbFPWqtDSdSeNydTPbJ"
-        }
-      ],
-      "duration_ms": 239466,
-      "name": "7 S\u00fcnden - Party Mix",
-      "url": "https://open.spotify.com/track/4HCaFtRMdrP6iQepyPkfW6"
     },
     {
       "added_at": "2025-12-15 07:11:03",

@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93745,
+  "num_followers": 93753,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -591,6 +591,22 @@
     {
       "added_at": "2025-12-26 00:00:19",
       "album": {
+        "name": "Stockholm",
+        "url": "https://open.spotify.com/album/1NXar6bRMnXksRvgKAM1GH"
+      },
+      "artists": [
+        {
+          "name": "Annika Wickihalder",
+          "url": "https://open.spotify.com/artist/6GmRbmLWorahORMpb3T7of"
+        }
+      ],
+      "duration_ms": 172333,
+      "name": "Stockholm",
+      "url": "https://open.spotify.com/track/4K6UHA21e8KDpp31rKixEV"
+    },
+    {
+      "added_at": "2025-12-26 00:00:19",
+      "album": {
         "name": "Mother's Love Conquers All",
         "url": "https://open.spotify.com/album/69AGXPie59h3BozlQ728ew"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 188695,
       "name": "B\u00e4ttre h\u00e4r",
       "url": "https://open.spotify.com/track/3zqfcyKhCA4STL9qI4NmAL"
-    },
-    {
-      "added_at": "2025-12-26 00:00:19",
-      "album": {
-        "name": "Stockholm",
-        "url": "https://open.spotify.com/album/1NXar6bRMnXksRvgKAM1GH"
-      },
-      "artists": [
-        {
-          "name": "Annika Wickihalder",
-          "url": "https://open.spotify.com/artist/6GmRbmLWorahORMpb3T7of"
-        }
-      ],
-      "duration_ms": 172333,
-      "name": "Stockholm",
-      "url": "https://open.spotify.com/track/4K6UHA21e8KDpp31rKixEV"
     },
     {
       "added_at": "2025-12-26 00:00:19",
@@ -743,22 +743,6 @@
     {
       "added_at": "2025-12-26 00:00:19",
       "album": {
-        "name": "Den k\u00e4nslan",
-        "url": "https://open.spotify.com/album/3muDr0rYaowGQhYjKE4ol2"
-      },
-      "artists": [
-        {
-          "name": "Linnea Henriksson",
-          "url": "https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq"
-        }
-      ],
-      "duration_ms": 166963,
-      "name": "Den k\u00e4nslan",
-      "url": "https://open.spotify.com/track/3WlFsQdH5zExoJ5TvmIVhz"
-    },
-    {
-      "added_at": "2025-12-26 00:00:19",
-      "album": {
         "name": "Vinterdvala",
         "url": "https://open.spotify.com/album/7tFW0uJ4oyt8UREWMTELil"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 283480,
       "name": "Sweethearts",
       "url": "https://open.spotify.com/track/46pBokNsBdfRifhtpWHkhC"
+    },
+    {
+      "added_at": "2025-12-26 00:00:19",
+      "album": {
+        "name": "Den k\u00e4nslan",
+        "url": "https://open.spotify.com/album/3muDr0rYaowGQhYjKE4ol2"
+      },
+      "artists": [
+        {
+          "name": "Linnea Henriksson",
+          "url": "https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq"
+        }
+      ],
+      "duration_ms": 166963,
+      "name": "Den k\u00e4nslan",
+      "url": "https://open.spotify.com/track/3WlFsQdH5zExoJ5TvmIVhz"
     },
     {
       "added_at": "2025-12-26 00:00:19",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2025-12-26 00:00:19",
       "album": {
-        "name": "Kaprifol",
-        "url": "https://open.spotify.com/album/41XXzH7d7sd6yKcxQz0aXP"
-      },
-      "artists": [
-        {
-          "name": "Thomas Stenstr\u00f6m",
-          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
-        }
-      ],
-      "duration_ms": 235230,
-      "name": "Kaprifol",
-      "url": "https://open.spotify.com/track/4sfYzFbJbiXm1lvsoDOtZS"
-    },
-    {
-      "added_at": "2025-12-26 00:00:19",
-      "album": {
         "name": "Bl\u00e5jeans och stj\u00e4rnljus",
         "url": "https://open.spotify.com/album/5v6DDbvPr8wOCJ0ydCt6GF"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 209610,
       "name": "Bl\u00e5jeans och stj\u00e4rnljus",
       "url": "https://open.spotify.com/track/7J2qPzgtpEoJUSmOYvkcKQ"
+    },
+    {
+      "added_at": "2025-12-26 00:00:19",
+      "album": {
+        "name": "Kaprifol",
+        "url": "https://open.spotify.com/album/41XXzH7d7sd6yKcxQz0aXP"
+      },
+      "artists": [
+        {
+          "name": "Thomas Stenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
+        }
+      ],
+      "duration_ms": 235230,
+      "name": "Kaprifol",
+      "url": "https://open.spotify.com/track/4sfYzFbJbiXm1lvsoDOtZS"
     },
     {
       "added_at": "2025-12-26 00:00:19",
@@ -1247,22 +1247,18 @@
     {
       "added_at": "2025-12-26 00:00:19",
       "album": {
-        "name": "Stardust / The Whole Woman",
-        "url": "https://open.spotify.com/album/5xSu56pfAkclyOkKGYTob6"
+        "name": "Andetag (Man m\u00e5ste leva nu)",
+        "url": "https://open.spotify.com/album/1JB6bXA1MbGzHRHuAIX86o"
       },
       "artists": [
         {
-          "name": "Anna von Hausswolff",
-          "url": "https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6"
-        },
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+          "name": "Milly",
+          "url": "https://open.spotify.com/artist/6a13c73elKEirrb8R2Iz8j"
         }
       ],
-      "duration_ms": 258146,
-      "name": "The Whole Woman",
-      "url": "https://open.spotify.com/track/6pmFHNJmQKQEUioMUJk1h5"
+      "duration_ms": 215546,
+      "name": "Andetag (Man m\u00e5ste leva nu)",
+      "url": "https://open.spotify.com/track/53Gb8cD4FeyswcA9S1HyQ2"
     },
     {
       "added_at": "2025-12-26 00:00:19",
@@ -1283,18 +1279,38 @@
     {
       "added_at": "2025-12-26 00:00:19",
       "album": {
-        "name": "Andetag (Man m\u00e5ste leva nu)",
-        "url": "https://open.spotify.com/album/1JB6bXA1MbGzHRHuAIX86o"
+        "name": "Stardust / The Whole Woman",
+        "url": "https://open.spotify.com/album/5xSu56pfAkclyOkKGYTob6"
       },
       "artists": [
         {
-          "name": "Milly",
-          "url": "https://open.spotify.com/artist/6a13c73elKEirrb8R2Iz8j"
+          "name": "Anna von Hausswolff",
+          "url": "https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 215546,
-      "name": "Andetag (Man m\u00e5ste leva nu)",
-      "url": "https://open.spotify.com/track/53Gb8cD4FeyswcA9S1HyQ2"
+      "duration_ms": 258146,
+      "name": "The Whole Woman",
+      "url": "https://open.spotify.com/track/6pmFHNJmQKQEUioMUJk1h5"
+    },
+    {
+      "added_at": "2025-12-26 00:00:19",
+      "album": {
+        "name": "I Don't Know How to Love You Anymore",
+        "url": "https://open.spotify.com/album/37Ey2qILLzF5QiGBNLFyaA"
+      },
+      "artists": [
+        {
+          "name": "Ida Sand",
+          "url": "https://open.spotify.com/artist/2xlu6WzVa7WHwHhRptqq7c"
+        }
+      ],
+      "duration_ms": 233400,
+      "name": "I Don't Know How to Love You Anymore",
+      "url": "https://open.spotify.com/track/0WFv4zCTaqeYO90dwb7JSq"
     },
     {
       "added_at": "2025-12-26 00:00:19",
@@ -1347,22 +1363,6 @@
       "duration_ms": 183946,
       "name": "Sign on the Window",
       "url": "https://open.spotify.com/track/6faCTa1oSQFuuyzvf4ZOIX"
-    },
-    {
-      "added_at": "2025-12-26 00:00:19",
-      "album": {
-        "name": "I Don't Know How to Love You Anymore",
-        "url": "https://open.spotify.com/album/37Ey2qILLzF5QiGBNLFyaA"
-      },
-      "artists": [
-        {
-          "name": "Ida Sand",
-          "url": "https://open.spotify.com/artist/2xlu6WzVa7WHwHhRptqq7c"
-        }
-      ],
-      "duration_ms": 233400,
-      "name": "I Don't Know How to Love You Anymore",
-      "url": "https://open.spotify.com/track/0WFv4zCTaqeYO90dwb7JSq"
     },
     {
       "added_at": "2025-12-26 00:00:19",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2025-12-26 00:00:19",
       "album": {
-        "name": "Uteblivna vi",
-        "url": "https://open.spotify.com/album/5Pmc8qBwYvrmKBV0Q41zUH"
-      },
-      "artists": [
-        {
-          "name": "Lisa Nilsson",
-          "url": "https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG"
-        }
-      ],
-      "duration_ms": 362920,
-      "name": "Uteblivna vi",
-      "url": "https://open.spotify.com/track/6qzJ3QiNBVd23wlliDyVRu"
-    },
-    {
-      "added_at": "2025-12-26 00:00:19",
-      "album": {
         "name": "Goodwill",
         "url": "https://open.spotify.com/album/0HegWmmtx1ptOmFGDCvL7G"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 211920,
       "name": "While you got me",
       "url": "https://open.spotify.com/track/5PdQumvviy93cyBdHBWDX6"
+    },
+    {
+      "added_at": "2025-12-26 00:00:19",
+      "album": {
+        "name": "Uteblivna vi",
+        "url": "https://open.spotify.com/album/5Pmc8qBwYvrmKBV0Q41zUH"
+      },
+      "artists": [
+        {
+          "name": "Lisa Nilsson",
+          "url": "https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG"
+        }
+      ],
+      "duration_ms": 362920,
+      "name": "Uteblivna vi",
+      "url": "https://open.spotify.com/track/6qzJ3QiNBVd23wlliDyVRu"
     },
     {
       "added_at": "2025-12-26 00:00:19",

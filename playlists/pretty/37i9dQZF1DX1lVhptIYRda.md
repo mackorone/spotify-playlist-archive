@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lVhptIYRda.md) - [plain]
 
 > Today's top country hits\. Cover: Cody Johnson
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,637,505 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,637,705 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lVhptIYRda.md) - [plain]
 | 49 | [Bottomland](https://open.spotify.com/track/22OpfWDEjI9AknQur5IdNZ) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Bottomland](https://open.spotify.com/album/0DntrNeYbQqJez288LRO6o) | 3:04 |
 | 50 | [Misery](https://open.spotify.com/track/67kE1VBtwdcy2KughONFhY) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV), [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD) | [West Texas Degenerate](https://open.spotify.com/album/7KmRRYUYlVAM2XIBJshVs4) | 2:51 |
 
-Snapshot ID: `AAAAAGowylT1b9Px2TtWsXLHPYhB2UcX`
+Snapshot ID: `AAAAAAujHB29d196u7bYtZcsb4z0vfq0`

@@ -1,12 +1,12 @@
 {
   "description": "This is KISS. The essential tracks, all in one playlist.",
-  "num_followers": 484487,
+  "num_followers": 484524,
   "original_name": "This Is KISS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUstAAAAAADAj4TcL+x2EwdaunP9TZfW",
+  "snapshot_id": "aUx+gAAAAADHyzp+1XNuTDqcDuKiRDm+",
   "tracks": [
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revenge",
-        "url": "https://open.spotify.com/album/70eknRp5bKGdFq0rJ7kA3x"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 240493,
-      "name": "Domino",
-      "url": "https://open.spotify.com/track/7IGNqVaujuSXS3t9QBby3n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dressed To Kill (2025 Remaster)",
         "url": "https://open.spotify.com/album/4ekx5nOmLLxYPLLoV6t8RD"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 178669,
       "name": "C'mon And Love Me - 2025 Remaster",
       "url": "https://open.spotify.com/track/0m6u2yOY5AYgMkGvRliCsp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revenge",
+        "url": "https://open.spotify.com/album/70eknRp5bKGdFq0rJ7kA3x"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 240493,
+      "name": "Domino",
+      "url": "https://open.spotify.com/track/7IGNqVaujuSXS3t9QBby3n"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Lf3LZ6Czqu.md) - [plain]
 
 > Instrumental guitar shreddery\. Cover: Marcin
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,812 likes - 100 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,841 likes - 100 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Lf3LZ6Czqu.md) - [plain]
 | 90 | [Just Funky \(feat\. Travis Carlton & Lemar Carter\)](https://open.spotify.com/track/7DYbZkxRMGvy7OUx7676nk) | [Tomo Fujita](https://open.spotify.com/artist/4p00lD0GrsSqEK0sxFQpET), [Lemar Carter](https://open.spotify.com/artist/4LIPbJNLsO8GVfA5BLorLm), [Travis Carlton](https://open.spotify.com/artist/1aRHDzpzYUMLJBwZItVsTP) | [Blue Sky \(feat\. Travis Carlton\)](https://open.spotify.com/album/5k7TV6UPBb7DSyp81aqk37) | 4:44 |
 | 91 | [Tellicherry](https://open.spotify.com/track/16rsNa8Olqgyo6ALWgySLo) | [St\. Barbe](https://open.spotify.com/artist/67ykMebIGuLMYDPqXo2A6v) | [Tellicherry](https://open.spotify.com/album/3P2MhHAKj7iZfdHEzInBdM) | 4:50 |
 | 92 | [Together](https://open.spotify.com/track/23R5kepMliUvCaq5hsug04) | [Sterfry](https://open.spotify.com/artist/2ZRvR99Cg42zMNIfEnP5HK), [Go Yama](https://open.spotify.com/artist/4Gbw8LGu071GAshE7dqqum), [Jason Leech](https://open.spotify.com/artist/1RPNr9u1LyyIjFVrXdIq1G) | [Together](https://open.spotify.com/album/77ya30BnZ7Kat4yD8KCEN4) | 2:47 |
-| 93 | [XXXphobia](https://open.spotify.com/track/6kDHSMUvrnRyiRjo6axbb1) | [Marmalade butcher](https://open.spotify.com/artist/0NqMZ0EDrPSG9ysXDiWkSi) | [Onomatomani\[a\]kus](https://open.spotify.com/album/674sTwV33EPpt0WC5zlI21) | 2:59 |
+| 93 | [XXXphobia](https://open.spotify.com/track/6kDHSMUvrnRyiRjo6axbb1) | [cleaned](https://open.spotify.com/artist/1yp2KhukqTL1SNjjQDCNj3) | [Onomatomani\[a\]kus](https://open.spotify.com/album/674sTwV33EPpt0WC5zlI21) | 2:59 |
 | 94 | [Revenge Of The Nerd](https://open.spotify.com/track/2oPdW4tRE5sc7xJYdhz6XM) | [Pete Thorn](https://open.spotify.com/artist/2fGIc4JSHwzCB7HIzATFtV) | [Guitar Nerd](https://open.spotify.com/album/3t4ggDv6r3gLGuIyK25Yet) | 4:34 |
 | 95 | [Pop\-Alicious](https://open.spotify.com/track/6Jn9KO0gb3X5mgHu3fxKP6) | [Neil Zaza](https://open.spotify.com/artist/4FzEKhLeEN58Mu7JzUHdHF) | [Pop\-Alicious](https://open.spotify.com/album/4PKT4YsAtbs4SSjjfOqocv) | 3:54 |
 | 96 | [Gravity Man Stage \(From "Mega Man 5\)](https://open.spotify.com/track/1lb7wWArg9Gq1HyzM85P2F) | [Abreu Project](https://open.spotify.com/artist/1gW0iddMEyFpMTgQ526AcT) | [Gravity Man Stage \(From "Mega Man 5\)](https://open.spotify.com/album/4YsjpaftzW2UGnBNkaMmWF) | 4:17 |

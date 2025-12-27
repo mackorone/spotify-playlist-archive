@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX9tPFwDMOaN1.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX9tPFwDMOaN1) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX9tPFwDMOaN1)
 
-### [K\-Pop ON! \(온\)🎄](https://open.spotify.com/playlist/37i9dQZF1DX9tPFwDMOaN1)
+### [K\-Pop ON! \(온\)](https://open.spotify.com/playlist/37i9dQZF1DX9tPFwDMOaN1)
 
-> The new & hottest K\-Pop is here! 🎄\(Cover: BABYMONSTER\)
+> The new & hottest K\-Pop is here! \(Cover: BABYMONSTER\)
 
 771 songs - 1 day 15 hr 57 min
 

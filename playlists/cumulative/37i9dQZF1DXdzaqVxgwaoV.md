@@ -4,7 +4,7 @@
 
 > Los temas que prenden las fiestas navideñas y de fin de año en Colombia\. Foto: Lisandro Meza
 
-370 songs - 22 hr 31 min
+371 songs - 22 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,7 @@
 | [El Preso](https://open.spotify.com/track/1Fp4njyRHJYyMTKP899c0q) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Wilson "Saoko" Manyoma](https://open.spotify.com/artist/43zrpWYGTWyHmRAmhE07u0) | [Fruko el Grande](https://open.spotify.com/album/4VwcUaZ0yWCHp9hEDue09C) | 4:54 | 2023-11-09 | 2024-04-19 |
 | [El Preso](https://open.spotify.com/track/57lDSIev3D8D9QhAG7nic0) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Wilson Saoko](https://open.spotify.com/artist/4f7dQM3sf6fdHfXLxKmOED) | [Éxitos Fruko](https://open.spotify.com/album/7mO8Aqals1HnVuZ8m9uyiL) | 4:54 | 2024-09-01 | 2024-10-18 |
 | [El Pájaro Amarillo](https://open.spotify.com/track/5v2Q2VjK0LOxOW8J9AO4RL) | [Los 50 De Joselito](https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU) | [Colección de Éxitos, Vol\. 1](https://open.spotify.com/album/47siIpiLeeKUsz0FBLZyJP) | 3:12 | 2024-09-01 |  |
-| [El Ron de Vinola](https://open.spotify.com/track/0kyzl82KTVUF6WHpCQ0GpI) | [Los 50 De Joselito](https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU) | [Pasado y Presente: 14 Años de Éxitos](https://open.spotify.com/album/2sFskvgiMamk6Uhgowq12F) | 2:42 | 2023-11-15 |  |
+| [El Ron de Vinola](https://open.spotify.com/track/0kyzl82KTVUF6WHpCQ0GpI) | [Los 50 De Joselito](https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU) | [Pasado y Presente: 14 Años de Éxitos](https://open.spotify.com/album/2sFskvgiMamk6Uhgowq12F) | 2:42 | 2023-11-15 | 2025-12-27 |
 | [El Santo Cachon](https://open.spotify.com/track/5MDeca8IiesNdQsOZC894q) | [Los Embajadores Vallenatos](https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf) | [Grandes Exitos](https://open.spotify.com/album/7kV3KWcCEPi4HeDVFzSh0L) | 4:29 | 2023-11-09 | 2024-04-19 |
 | [El Santo Cachón](https://open.spotify.com/track/62Dsro7boSt2kTr0YY3OtX) | [Los Embajadores Vallenatos](https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf) | [Éxitos los Embajadores Vallenatos](https://open.spotify.com/album/4AcJClSsSiNwBjBAvO67rn) | 4:26 | 2023-12-20 |  |
 | [El Solitario](https://open.spotify.com/track/7q82VvrWXF2ENfLkCZzSAD) | [Alfredo Gutierrez](https://open.spotify.com/artist/7esYnrPzQX1JWWIyWxYu5A) | [Colecciones de Oro](https://open.spotify.com/album/5rMb7dMhK7k7OILWRtswUe) | 3:36 | 2023-12-05 | 2024-06-08 |
@@ -288,6 +288,7 @@
 | [Pegame Tu Vicio](https://open.spotify.com/track/0FcgB8l69nXBOmvhvEXm8o) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Pegame Tu Vicio](https://open.spotify.com/album/4lboawyI2xBP52DPWPjk87) | 5:03 | 2023-11-09 |  |
 | [Pegaso](https://open.spotify.com/track/5YJFRoENSrA5TbrJk71itz) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK) | [En El Caribe](https://open.spotify.com/album/3QTpSNsagg6u57I5msWqbB) | 4:34 | 2025-09-09 | 2025-10-04 |
 | [Pirulino](https://open.spotify.com/track/5aGEQkBOLZ9kWzElCVPwYs) | [Los Golden Boys](https://open.spotify.com/artist/3AxVllGtE7wlIXF27v0VLh), [Benny Marquez](https://open.spotify.com/artist/1cBYkrPHoiePBxeSOhLM9J) | [Éxitos los Golden Boys](https://open.spotify.com/album/1YPFIDExp0udyyzB0Ax1RO) | 2:38 | 2023-12-20 | 2025-11-24 |
+| [Playa, Brisa y Mar](https://open.spotify.com/track/0Bgq4T7bfYfWZLfcXUdHju) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [Grandes Exitos](https://open.spotify.com/album/2RCsP96Pr5QBxBBRBvuobb) | 3:06 | 2025-12-17 |  |
 | [Plegaria](https://open.spotify.com/track/2KT2fxUXxlNLvmMqaGDpNE) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [La Tipica Ra7](https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG) | [Rescatando los Éxitos Originales de Long Play](https://open.spotify.com/album/1LxXO1YM55J3siUROq2i51) | 3:27 | 2023-12-20 | 2025-09-03 |
 | [Pobre y Sincero](https://open.spotify.com/track/1yhED0FBKVrLiOKOCYlkar) | [Olider Montana](https://open.spotify.com/artist/2RtSSs1N2mOsGE6ojLrW49) | [Pobre y Sincero](https://open.spotify.com/album/5a6O3hJLxCLjHASaAbTtdY) | 2:41 | 2023-02-03 | 2024-09-02 |
 | [Por Las Buenas](https://open.spotify.com/track/3k2qOgZygd9YxrYGqkK6Dj) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [Por Las Buenas](https://open.spotify.com/album/4uwZYTIdlBBRDb3M2nYrk1) | 2:35 | 2023-11-09 | 2025-10-04 |

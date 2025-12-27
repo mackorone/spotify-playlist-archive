@@ -1,12 +1,12 @@
 {
   "description": "De st\u00e6rkeste nye sange fra de seneste par m\u00e5neder. S\u00e5 er du opdateret!",
-  "num_followers": 105651,
+  "num_followers": 105659,
   "original_name": "De nye",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANiEbd7r8AXAu2O4KWwrHHlCKaJX",
+  "snapshot_id": "AAAAAHGGqBOLKms/fABbFU8iWn0dj7hJ",
   "tracks": [
     {
       "added_at": "2025-12-19 09:24:57",
@@ -767,22 +767,18 @@
     {
       "added_at": "2025-12-19 09:24:57",
       "album": {
-        "name": "Talk To You (ft. Elton John)",
-        "url": "https://open.spotify.com/album/5tmaU5xBUYQYr2VkWhokIb"
+        "name": "People Watching (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM"
       },
       "artists": [
         {
           "name": "Sam Fender",
           "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        },
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         }
       ],
-      "duration_ms": 317040,
-      "name": "Talk To You (ft. Elton John)",
-      "url": "https://open.spotify.com/track/0Oriikd4ETp5qmzek6ZUD5"
+      "duration_ms": 202973,
+      "name": "The Treadmill",
+      "url": "https://open.spotify.com/track/6kffh7yHiAwOlnmw4Bf9io"
     },
     {
       "added_at": "2025-12-19 09:24:57",
@@ -859,18 +855,22 @@
     {
       "added_at": "2025-12-19 09:24:57",
       "album": {
-        "name": "People Watching (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM"
+        "name": "Talk To You (ft. Elton John)",
+        "url": "https://open.spotify.com/album/5tmaU5xBUYQYr2VkWhokIb"
       },
       "artists": [
         {
           "name": "Sam Fender",
           "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        },
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         }
       ],
-      "duration_ms": 202973,
-      "name": "The Treadmill",
-      "url": "https://open.spotify.com/track/6kffh7yHiAwOlnmw4Bf9io"
+      "duration_ms": 317040,
+      "name": "Talk To You (ft. Elton John)",
+      "url": "https://open.spotify.com/track/0Oriikd4ETp5qmzek6ZUD5"
     },
     {
       "added_at": "2025-12-19 09:24:57",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2025-12-19 09:24:57",
       "album": {
-        "name": "Telephone Busy",
-        "url": "https://open.spotify.com/album/08VCKSJ3j5Cgvkq5DM0cH2"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 195806,
-      "name": "Telephone Busy",
-      "url": "https://open.spotify.com/track/6j0MEtClnzHKW6YLusvlfC"
-    },
-    {
-      "added_at": "2025-12-19 09:24:57",
-      "album": {
         "name": "DON'T KILL THE PARTY (feat. Shoreline Mafia, Quavo & Juicy J)",
         "url": "https://open.spotify.com/album/4otUqw6jN2D4yGQwOjgEGV"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 166429,
       "name": "DON'T KILL THE PARTY (feat. Shoreline Mafia, Quavo & Juicy J)",
       "url": "https://open.spotify.com/track/7xe8BiG8HHl1EetMA6ygey"
+    },
+    {
+      "added_at": "2025-12-19 09:24:57",
+      "album": {
+        "name": "Telephone Busy",
+        "url": "https://open.spotify.com/album/08VCKSJ3j5Cgvkq5DM0cH2"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 195806,
+      "name": "Telephone Busy",
+      "url": "https://open.spotify.com/track/6j0MEtClnzHKW6YLusvlfC"
     },
     {
       "added_at": "2025-12-19 09:24:57",
@@ -1151,6 +1151,22 @@
       "duration_ms": 167570,
       "name": "Sandheden",
       "url": "https://open.spotify.com/track/1pcAE3WQaCpKDcZZFgItv4"
+    },
+    {
+      "added_at": "2025-12-19 09:24:57",
+      "album": {
+        "name": "Let It All Out",
+        "url": "https://open.spotify.com/album/0uGBqR4LqfpnuuybjZ5MNb"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 253350,
+      "name": "Let It All Out",
+      "url": "https://open.spotify.com/track/34h31lc2V4xXgOITPZyZ5F"
     },
     {
       "added_at": "2025-12-19 09:24:57",
@@ -1195,22 +1211,6 @@
       "duration_ms": 189041,
       "name": "Pretty Promises, (feat. Mariah The Scientist)",
       "url": "https://open.spotify.com/track/2VqSmz8j6E37ur48A9FOia"
-    },
-    {
-      "added_at": "2025-12-19 09:24:57",
-      "album": {
-        "name": "Let It All Out",
-        "url": "https://open.spotify.com/album/0uGBqR4LqfpnuuybjZ5MNb"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 253350,
-      "name": "Let It All Out",
-      "url": "https://open.spotify.com/track/34h31lc2V4xXgOITPZyZ5F"
     },
     {
       "added_at": "2025-12-19 09:24:57",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2025-12-19 09:24:57",
       "album": {
-        "name": "Don't Tease Me With A Good Time",
-        "url": "https://open.spotify.com/album/5x8HW0WELQYm5Cp8408sfg"
-      },
-      "artists": [
-        {
-          "name": "Jessie J",
-          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "I'LL NEVER KNOW WHY",
-      "url": "https://open.spotify.com/track/2C097JtMsYHKwgWmaErqFx"
-    },
-    {
-      "added_at": "2025-12-19 09:24:57",
-      "album": {
         "name": "hader ik mig selv sammen med dig",
         "url": "https://open.spotify.com/album/7iPtCmPqy9ZoBRkqaMuJCR"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 138193,
       "name": "hader ik mig selv sammen med dig",
       "url": "https://open.spotify.com/track/5CYWgu8UYb1grKysywHf6y"
+    },
+    {
+      "added_at": "2025-12-19 09:24:57",
+      "album": {
+        "name": "Don't Tease Me With A Good Time",
+        "url": "https://open.spotify.com/album/5x8HW0WELQYm5Cp8408sfg"
+      },
+      "artists": [
+        {
+          "name": "Jessie J",
+          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "I'LL NEVER KNOW WHY",
+      "url": "https://open.spotify.com/track/2C097JtMsYHKwgWmaErqFx"
     },
     {
       "added_at": "2025-12-19 09:24:57",

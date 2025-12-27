@@ -3579,6 +3579,36 @@
     },
     {
       "album": {
+        "name": "KALYANI",
+        "url": "https://open.spotify.com/album/5MwY2xvTLLDNXi3qiX0GhF"
+      },
+      "artists": [
+        {
+          "name": "ARJN",
+          "url": "https://open.spotify.com/artist/5j2JTk8JqepIgv1zxYOuIi"
+        },
+        {
+          "name": "KDS",
+          "url": "https://open.spotify.com/artist/41opZo9bHh8CZoIdR3IgP7"
+        },
+        {
+          "name": "FIFTY4",
+          "url": "https://open.spotify.com/artist/1NApv6DzDP19uLuxJ0CuuP"
+        },
+        {
+          "name": "RONN",
+          "url": "https://open.spotify.com/artist/6jw1jO7iGLcrQyXL1Ia0IW"
+        }
+      ],
+      "date_added": "2025-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234489,
+      "name": "KALYANI",
+      "url": "https://open.spotify.com/track/2Uyj6K6mSaFTZsPvov415i"
+    },
+    {
+      "album": {
         "name": "How Much a Rhyme Costs?",
         "url": "https://open.spotify.com/album/6adVQtQUqBzdWx49n03C4G"
       },
@@ -7016,7 +7046,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-27",
       "duration_ms": 195600,
       "name": "Tequila Dance",
       "url": "https://open.spotify.com/track/0ahLKMwfULqrexaB02AfEL"
@@ -7284,7 +7314,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-27",
       "duration_ms": 197593,
       "name": "Tuff Skin",
       "url": "https://open.spotify.com/track/7DGzvE9teWihdqDVpCHwOT"
@@ -7416,6 +7446,32 @@
       "duration_ms": 189240,
       "name": "Vazan - Red Bull 64 Bars",
       "url": "https://open.spotify.com/track/5fUYbXhJkv1nL8DVq1QOwK"
+    },
+    {
+      "album": {
+        "name": "Vazhikatti (Kizhakku Suryan)",
+        "url": "https://open.spotify.com/album/1yYiqvaSkcpQAD3JlTQBao"
+      },
+      "artists": [
+        {
+          "name": "Fejo",
+          "url": "https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3"
+        },
+        {
+          "name": "Jeffin Jestin",
+          "url": "https://open.spotify.com/artist/2cdsHrTfRxRpSdVm9M6BbC"
+        },
+        {
+          "name": "Daleema",
+          "url": "https://open.spotify.com/artist/0jlxYQ9CNS8IT8epEELwnA"
+        }
+      ],
+      "date_added": "2025-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142666,
+      "name": "Vazhikatti - Kizhakku Suryan",
+      "url": "https://open.spotify.com/track/1UpbpQDIKTc1XxRyF3Xgi0"
     },
     {
       "album": {

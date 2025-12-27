@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 
 > The best heavy songs from new, independent artists and labels in 2025, as chosen by our editors\. Cover: Cenobia
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,424 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,454 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

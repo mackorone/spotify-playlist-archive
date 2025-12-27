@@ -1,6 +1,6 @@
 {
   "description": "Gospel music from across East Africa",
-  "num_followers": 8234,
+  "num_followers": 8239,
   "original_name": "Sunday Service",
   "owner": {
     "name": "Spotify",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-12-05 23:59:00",
       "album": {
-        "name": "What Are We Waiting For? (The Single)",
-        "url": "https://open.spotify.com/album/7qTqRqAA0xgvuf5E1ZuzuT"
-      },
-      "artists": [
-        {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
-        }
-      ],
-      "duration_ms": 194580,
-      "name": "What Are We Waiting For? (The Single)",
-      "url": "https://open.spotify.com/track/1PILWAtGLdG772MCA51sZ6"
-    },
-    {
-      "added_at": "2024-12-05 23:59:00",
-      "album": {
         "name": "Sisi Ni Wale",
         "url": "https://open.spotify.com/album/62kTShyCsFUxCyrqcs5Rb3"
       },
@@ -907,22 +891,18 @@
     {
       "added_at": "2024-12-05 23:59:00",
       "album": {
-        "name": "My Truth",
-        "url": "https://open.spotify.com/album/07zEDWrPhqROuygaSwVTHm"
+        "name": "What Are We Waiting For? (The Single)",
+        "url": "https://open.spotify.com/album/7qTqRqAA0xgvuf5E1ZuzuT"
       },
       "artists": [
         {
-          "name": "Jonathan McReynolds",
-          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
-        },
-        {
-          "name": "Marvin Winans",
-          "url": "https://open.spotify.com/artist/2QuleHm5yBUYv3vjqWTM79"
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
         }
       ],
-      "duration_ms": 302102,
-      "name": "Able",
-      "url": "https://open.spotify.com/track/0ICGreKEIidNiyIGMVwS1E"
+      "duration_ms": 194580,
+      "name": "What Are We Waiting For? (The Single)",
+      "url": "https://open.spotify.com/track/1PILWAtGLdG772MCA51sZ6"
     },
     {
       "added_at": "2024-12-05 23:59:00",
@@ -943,6 +923,26 @@
       "duration_ms": 500087,
       "name": "Moy\u2019 Oyingcwele (Live)",
       "url": "https://open.spotify.com/track/710zL5SAbc6dbHEsLiBwME"
+    },
+    {
+      "added_at": "2024-12-05 23:59:00",
+      "album": {
+        "name": "My Truth",
+        "url": "https://open.spotify.com/album/07zEDWrPhqROuygaSwVTHm"
+      },
+      "artists": [
+        {
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        },
+        {
+          "name": "Marvin Winans",
+          "url": "https://open.spotify.com/artist/2QuleHm5yBUYv3vjqWTM79"
+        }
+      ],
+      "duration_ms": 302102,
+      "name": "Able",
+      "url": "https://open.spotify.com/track/0ICGreKEIidNiyIGMVwS1E"
     }
   ],
   "unique_name": "Sunday Service",

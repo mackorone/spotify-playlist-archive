@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Dee Lestari
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,251 likes - 96 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,373 likes - 96 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 | 95 | [Addiction \- Acoustic](https://open.spotify.com/track/2FfiwEFWDceK0TlkpAwLIH) | [Naomi Ivo](https://open.spotify.com/artist/0dXFu1nUJiE7LJuNlkzS4g) | [Addiction \(Acoustic\)](https://open.spotify.com/album/3t8LQCTAuhNLUtOGnUPMoz) | 2:35 |
 | 96 | [Apanya Dong](https://open.spotify.com/track/4kMvDpPbuOaHznBY9TY1Wo) | [MikkyZia](https://open.spotify.com/artist/2XGXsUKlvlFdk5LYXWTnE3), [Zara Leola](https://open.spotify.com/artist/4vaDsig0zUuO0Z91IU2Ky8) | [Apanya Dong](https://open.spotify.com/album/3OsPzTNk3HoTRQp2qOuvnC) | 4:32 |
 
-Snapshot ID: `AAAAAEz4nqfxvxzFF//ubvjlXEtQ2YSx`
+Snapshot ID: `AAAAAFl7Th9rsL9QjFg9v32dE696tQf9`

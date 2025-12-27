@@ -1,6 +1,6 @@
 {
   "description": "Feel good with this positively timeless playlist!",
-  "num_followers": 3621292,
+  "num_followers": 3621177,
   "original_name": "Feelin' Good",
   "owner": {
     "name": "Spotify",
@@ -461,6 +461,22 @@
       "url": "https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3"
     },
     {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "The Spice Of Life",
+        "url": "https://open.spotify.com/album/6TRHI63AVabVkLPou2biv8"
+      },
+      "artists": [
+        {
+          "name": "Marlena Shaw",
+          "url": "https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w"
+        }
+      ],
+      "duration_ms": 177226,
+      "name": "California Soul",
+      "url": "https://open.spotify.com/track/0OwvrdjaJOypNsNQHyBWE5"
+    },
+    {
       "added_at": "2022-02-25 05:01:00",
       "album": {
         "name": "Texas Moon",
@@ -479,22 +495,6 @@
       "duration_ms": 274391,
       "name": "B-Side",
       "url": "https://open.spotify.com/track/2DccHqTquzubziHAPZRdct"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "The Spice Of Life",
-        "url": "https://open.spotify.com/album/6TRHI63AVabVkLPou2biv8"
-      },
-      "artists": [
-        {
-          "name": "Marlena Shaw",
-          "url": "https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w"
-        }
-      ],
-      "duration_ms": 177226,
-      "name": "California Soul",
-      "url": "https://open.spotify.com/track/0OwvrdjaJOypNsNQHyBWE5"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -995,22 +995,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Shaft (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5HAXYSqdNjjbvoFrXwtrBw"
-      },
-      "artists": [
-        {
-          "name": "Isaac Hayes",
-          "url": "https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E"
-        }
-      ],
-      "duration_ms": 279200,
-      "name": "Theme From Shaft - Remastered 2009",
-      "url": "https://open.spotify.com/track/7KMILVTQdVS4zQ8ilTcpRO"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "Heat Wave",
         "url": "https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 163053,
       "name": "(Love Is Like A) Heat Wave",
       "url": "https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Shaft (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5HAXYSqdNjjbvoFrXwtrBw"
+      },
+      "artists": [
+        {
+          "name": "Isaac Hayes",
+          "url": "https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E"
+        }
+      ],
+      "duration_ms": 279200,
+      "name": "Theme From Shaft - Remastered 2009",
+      "url": "https://open.spotify.com/track/7KMILVTQdVS4zQ8ilTcpRO"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Curtis (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3tgJmEz0R0ZsRSrpwafp4R"
-      },
-      "artists": [
-        {
-          "name": "Curtis Mayfield",
-          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
-        }
-      ],
-      "duration_ms": 535333,
-      "name": "Move on Up - Extended Version",
-      "url": "https://open.spotify.com/track/01gDLZsi0j5fWC28FLPNO8"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "This Girl's in Love with You",
         "url": "https://open.spotify.com/album/5TGmpcEuZsVIoxDWnJIan5"
       },
@@ -1075,18 +1059,18 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Anthology: Jackson 5",
-        "url": "https://open.spotify.com/album/0EwhxzV0N61hu3S3PkB2Ku"
+        "name": "Curtis (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3tgJmEz0R0ZsRSrpwafp4R"
       },
       "artists": [
         {
-          "name": "The Jackson 5",
-          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+          "name": "Curtis Mayfield",
+          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
         }
       ],
-      "duration_ms": 179226,
-      "name": "I Want You Back",
-      "url": "https://open.spotify.com/track/3tSi6iFO9yLGIYIqMEgjC9"
+      "duration_ms": 535333,
+      "name": "Move on Up - Extended Version",
+      "url": "https://open.spotify.com/track/01gDLZsi0j5fWC28FLPNO8"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1107,6 +1091,22 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
+        "name": "Anthology: Jackson 5",
+        "url": "https://open.spotify.com/album/0EwhxzV0N61hu3S3PkB2Ku"
+      },
+      "artists": [
+        {
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+        }
+      ],
+      "duration_ms": 179226,
+      "name": "I Want You Back",
+      "url": "https://open.spotify.com/track/3tSi6iFO9yLGIYIqMEgjC9"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
         "name": "Dance To The Music",
         "url": "https://open.spotify.com/album/2j9rvROPPJGn3xaRztD1rX"
       },
@@ -1119,22 +1119,6 @@
       "duration_ms": 179426,
       "name": "Dance to the Music",
       "url": "https://open.spotify.com/track/1MQWtVcs0PKsY4PA6ZvLiy"
-    },
-    {
-      "added_at": "2025-03-25 15:28:45",
-      "album": {
-        "name": "It's Our Thing (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2tMcirhdFUp4hS2eJwsHvF"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 169296,
-      "name": "It's Your Thing",
-      "url": "https://open.spotify.com/track/3ZxfehzRtB3oJcBuxWXFZQ"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1151,6 +1135,22 @@
       "duration_ms": 142186,
       "name": "Respect - 2003 Remaster",
       "url": "https://open.spotify.com/track/5AoTuHE5P5bvC7BBppYnja"
+    },
+    {
+      "added_at": "2025-03-25 15:28:45",
+      "album": {
+        "name": "It's Our Thing (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2tMcirhdFUp4hS2eJwsHvF"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 169296,
+      "name": "It's Your Thing",
+      "url": "https://open.spotify.com/track/3ZxfehzRtB3oJcBuxWXFZQ"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Anthology: Jackson 5",
-        "url": "https://open.spotify.com/album/0EwhxzV0N61hu3S3PkB2Ku"
-      },
-      "artists": [
-        {
-          "name": "The Jackson 5",
-          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
-        }
-      ],
-      "duration_ms": 177426,
-      "name": "ABC",
-      "url": "https://open.spotify.com/track/01gwPP2h3ajRnqiIphUtR7"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "The Very Best Of The Velvelettes",
         "url": "https://open.spotify.com/album/4TYdNPupS05h9dZq3iF5M6"
       },
@@ -1415,18 +1399,18 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Forever: The Complete Motown Albums, Volume 1",
-        "url": "https://open.spotify.com/album/1Jn2ZCQiEgVNt3arbJBewA"
+        "name": "Anthology: Jackson 5",
+        "url": "https://open.spotify.com/album/0EwhxzV0N61hu3S3PkB2Ku"
       },
       "artists": [
         {
-          "name": "The Marvelettes",
-          "url": "https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH"
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
         }
       ],
-      "duration_ms": 149400,
-      "name": "Please Mr. Postman",
-      "url": "https://open.spotify.com/track/5fNDP3NTdE69szQHUl4fFr"
+      "duration_ms": 177426,
+      "name": "ABC",
+      "url": "https://open.spotify.com/track/01gwPP2h3ajRnqiIphUtR7"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1443,6 +1427,22 @@
       "duration_ms": 166066,
       "name": "Everybody Needs Somebody to Love",
       "url": "https://open.spotify.com/track/4NL8D4RQsC6ux6eI3m3Lg5"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "Forever: The Complete Motown Albums, Volume 1",
+        "url": "https://open.spotify.com/album/1Jn2ZCQiEgVNt3arbJBewA"
+      },
+      "artists": [
+        {
+          "name": "The Marvelettes",
+          "url": "https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH"
+        }
+      ],
+      "duration_ms": 149400,
+      "name": "Please Mr. Postman",
+      "url": "https://open.spotify.com/track/5fNDP3NTdE69szQHUl4fFr"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
+        "name": "Atlantic Top 60: Sweat-Soaked Soul Classics",
+        "url": "https://open.spotify.com/album/09UEuDX0FZYXtRVYkvDLSA"
+      },
+      "artists": [
+        {
+          "name": "Sam & Dave",
+          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
+        }
+      ],
+      "duration_ms": 156680,
+      "name": "Soul Man",
+      "url": "https://open.spotify.com/track/6eJlEcRmeyQfTlDQBDyqkW"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
         "name": "Their Very Best (Rerecorded Version)",
         "url": "https://open.spotify.com/album/7drJ2KUsPcmRcmcYv77FK2"
       },
@@ -1687,18 +1703,18 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Atlantic Top 60: Sweat-Soaked Soul Classics",
-        "url": "https://open.spotify.com/album/09UEuDX0FZYXtRVYkvDLSA"
+        "name": "The Fats Domino Jukebox: 20 Greatest Hits The Way You Originally Heard Them",
+        "url": "https://open.spotify.com/album/1hs1BjRp9t8AjVY9J6vE1b"
       },
       "artists": [
         {
-          "name": "Sam & Dave",
-          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
+          "name": "Fats Domino",
+          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
         }
       ],
-      "duration_ms": 156680,
-      "name": "Soul Man",
-      "url": "https://open.spotify.com/track/6eJlEcRmeyQfTlDQBDyqkW"
+      "duration_ms": 150600,
+      "name": "Ain't That A Shame? - Remastered 2002",
+      "url": "https://open.spotify.com/track/4U2b99X9hSSDjPbHCpIeJj"
     },
     {
       "added_at": "2025-07-11 04:00:07",
@@ -1715,22 +1731,6 @@
       "duration_ms": 154174,
       "name": "BIG MONEY",
       "url": "https://open.spotify.com/track/55Xw7I5I01M0Bs4QW1MNR2"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "The Fats Domino Jukebox: 20 Greatest Hits The Way You Originally Heard Them",
-        "url": "https://open.spotify.com/album/1hs1BjRp9t8AjVY9J6vE1b"
-      },
-      "artists": [
-        {
-          "name": "Fats Domino",
-          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
-        }
-      ],
-      "duration_ms": 150600,
-      "name": "Ain't That A Shame? - Remastered 2002",
-      "url": "https://open.spotify.com/track/4U2b99X9hSSDjPbHCpIeJj"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/4mDGyVthoID64WAcff0HxR"
-      },
-      "artists": [
-        {
-          "name": "Commodores",
-          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
-        }
-      ],
-      "duration_ms": 290440,
-      "name": "Lady (You Bring Me Up)",
-      "url": "https://open.spotify.com/track/7l3QyhptrvjiNS5dOcUQvr"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
         "name": "Hitsville: The Making Of Motown (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1VaXJtVbXlGmLareWesXfl"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 156306,
       "name": "Heaven Must Have Sent You",
       "url": "https://open.spotify.com/track/6cy84k8xqRXe2II7DQ1XVj"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/4mDGyVthoID64WAcff0HxR"
+      },
+      "artists": [
+        {
+          "name": "Commodores",
+          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+        }
+      ],
+      "duration_ms": 290440,
+      "name": "Lady (You Bring Me Up)",
+      "url": "https://open.spotify.com/track/7l3QyhptrvjiNS5dOcUQvr"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -2243,6 +2243,22 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
+        "name": "Songs In The Key Of Life",
+        "url": "https://open.spotify.com/album/2HVx2tiZnLX8xeaUthed1e"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 234093,
+      "name": "Sir Duke",
+      "url": "https://open.spotify.com/track/4RQgqR09VmHn345vRhKQ6T"
+    },
+    {
+      "added_at": "2021-10-19 21:36:21",
+      "album": {
         "name": "Too Hot To Handle",
         "url": "https://open.spotify.com/album/3OjfTt27HmGpVd45IuMAT6"
       },
@@ -2307,18 +2323,18 @@
     {
       "added_at": "2021-10-19 21:36:21",
       "album": {
-        "name": "Songs In The Key Of Life",
-        "url": "https://open.spotify.com/album/2HVx2tiZnLX8xeaUthed1e"
+        "name": "I Put A Spell On You",
+        "url": "https://open.spotify.com/album/13jolTb1DQl8IVPczYtQJ3"
       },
       "artists": [
         {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         }
       ],
-      "duration_ms": 234093,
-      "name": "Sir Duke",
-      "url": "https://open.spotify.com/track/4RQgqR09VmHn345vRhKQ6T"
+      "duration_ms": 174000,
+      "name": "Feeling Good",
+      "url": "https://open.spotify.com/track/61S0mEfdRtJ62Fc7fPqx0U"
     },
     {
       "added_at": "2021-10-19 21:36:21",
@@ -2335,22 +2351,6 @@
       "duration_ms": 165000,
       "name": "My Girl",
       "url": "https://open.spotify.com/track/6jWkZvd1URGktyTTwcpPpB"
-    },
-    {
-      "added_at": "2021-10-19 21:36:21",
-      "album": {
-        "name": "I Put A Spell On You",
-        "url": "https://open.spotify.com/album/13jolTb1DQl8IVPczYtQJ3"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Feeling Good",
-      "url": "https://open.spotify.com/track/61S0mEfdRtJ62Fc7fPqx0U"
     },
     {
       "added_at": "2021-10-19 21:36:21",

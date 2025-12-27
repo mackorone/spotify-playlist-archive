@@ -2,9 +2,9 @@
 
 ### [New Rap Punjabi](https://open.spotify.com/playlist/37i9dQZF1DX4pHb5aF7Ipw)
 
-> Fresh Punjabi Hip\-Hop Tracks by BAGI MUNDA & More
+> Fresh Punjabi Hip\-Hop Tracks by Singhsta & More
 
-866 songs - 1 day 16 hr 8 min
+867 songs - 1 day 16 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -474,6 +474,7 @@
 | [Legendary Freestyle](https://open.spotify.com/track/0AVNOaVtmev9Vgu5g7BgYR) | [Amar Sandhu](https://open.spotify.com/artist/52azpeiy7FKa0hoa8CwL6E) | [Ummer](https://open.spotify.com/album/0uiNJpkJU9rbvaHBr24lUq) | 1:58 | 2024-09-28 | 2024-10-25 |
 | [Let It Be](https://open.spotify.com/track/6Lcp8WqnjwDKMUGvAvB8Lq) | [Preit](https://open.spotify.com/artist/2Pl6cRKp8FqWNDVQ4L2zwC), [Perfecto](https://open.spotify.com/artist/3DmYc1JLNpW8rg9xjVuhfY) | [Let It Be](https://open.spotify.com/album/1D16nQvnGsv6liSyMw9eN8) | 2:12 | 2025-07-03 | 2025-07-11 |
 | [Levels & Graphs](https://open.spotify.com/track/69AjrdgNtObkjqZEsMh15B) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1) | [House Navior](https://open.spotify.com/album/1YrHBFW9Wk9KjrEsecqKh4) | 4:22 | 2025-09-19 | 2025-11-08 |
+| [License](https://open.spotify.com/track/3i3ZOu7BUVe7crTTSVQtqn) | [Singhsta](https://open.spotify.com/artist/2JkJfNbvLY88Fvzspynu6G), [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN) | [License](https://open.spotify.com/album/5gKyNLOi1nRsRf87TiLwYr) | 2:43 | 2025-12-26 |  |
 | [Life for Hip\-Hop](https://open.spotify.com/track/3ZbYWJ1B5Fp7ZRCGKGepgZ) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Young G.O.A.T](https://open.spotify.com/album/4Qhs9M8b7MafoxTPhfG6Hq) | 2:53 | 2025-02-21 | 2025-04-18 |
 | [Lifestyle](https://open.spotify.com/track/5EQCNhTYfFaa0KQj2OZPm5) | [Ammy Gurm](https://open.spotify.com/artist/7qJ20ZQEkpaMufLsw32Aaj), [Sickboi](https://open.spotify.com/artist/2RSjOH1tYnTgkpkz81WICb) | [Lifestyle](https://open.spotify.com/album/4S2lKrS9IsNwIq1zHgKitR) | 2:30 | 2025-01-10 | 2025-02-26 |
 | [LIFESTYLE](https://open.spotify.com/track/7wh21zvRqZT1tJKild67Cj) | [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS), [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm) | [LIFESTYLE](https://open.spotify.com/album/5mvALg949rDpW3q4msfVIh) | 2:33 | 2025-02-21 | 2025-04-18 |
@@ -706,7 +707,7 @@
 | [Seedhi Maut](https://open.spotify.com/track/2WyQYeVXCES3w1eDKadikM) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV), [Rav Dhaliwal](https://open.spotify.com/artist/3quojFCZjKk1j5zIv0HX2P), [Audiocrakerr](https://open.spotify.com/artist/3Kn4UNlxi4o94HvY5Z3wsN) | [Professor](https://open.spotify.com/album/0g24BaowRoF6rhB6pbgtVP) | 2:55 | 2024-11-28 | 2025-03-01 |
 | [SELF TALK](https://open.spotify.com/track/03Ii7zen0qg9frZjmiSmar) | [GAGG E](https://open.spotify.com/artist/1bLhM3jn76Q9wKJSF23x8R), [Glixzy](https://open.spotify.com/artist/5ZIksrTp5QKB7uiDofkU8Y), [Numbgod](https://open.spotify.com/artist/2pRlsbIdL2gTiSwdxzGnuY) | [SELF TALK](https://open.spotify.com/album/1aShR6ifIT60BUgS3NSkYS) | 2:56 | 2025-10-10 | 2025-12-13 |
 | [Selfish](https://open.spotify.com/track/300TWXl7OjiBKakaQXleo1) | [Mankoo](https://open.spotify.com/artist/1ZOFaNHpt8lGFD4wbUtZ40) | [Selfish](https://open.spotify.com/album/25yk22rF7WxzuC5fXX9zNk) | 2:11 | 2024-09-09 | 2024-10-01 |
-| [Sham Di Laali](https://open.spotify.com/track/5nL6XYcW0bASEV3cZZWjZ8) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Basant Kur](https://open.spotify.com/artist/3G2Xtfb5jyShZFe4Xz67y7), [Navvi](https://open.spotify.com/artist/6GsjiE8vB4MUtHSGwbqTYE) | [My Name Is Street](https://open.spotify.com/album/47DSxIL2rXYJviOthx59ea) | 2:48 | 2025-10-17 |  |
+| [Sham Di Laali](https://open.spotify.com/track/5nL6XYcW0bASEV3cZZWjZ8) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Basant Kur](https://open.spotify.com/artist/3G2Xtfb5jyShZFe4Xz67y7), [Navvi](https://open.spotify.com/artist/6GsjiE8vB4MUtHSGwbqTYE) | [My Name Is Street](https://open.spotify.com/album/47DSxIL2rXYJviOthx59ea) | 2:48 | 2025-10-17 | 2025-12-27 |
 | [Shaq](https://open.spotify.com/track/2KvY2aHPjAS2Or4MFLtVwq) | [Bohemia](https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP) | [Rap Star Reloaded](https://open.spotify.com/album/6zVDnyx2GYjD4eLNtYEqyt) | 2:47 | 2024-05-03 | 2024-05-11 |
 | [SHARAAB](https://open.spotify.com/track/6pRxvob4OV0LNCm0WYD7mi) | [Ray Z](https://open.spotify.com/artist/0Ym0kFA89Lf2D2Rsm50obR) | [SHARAAB](https://open.spotify.com/album/6QY2gKYv1LE3Zz5MK19Jzl) | 2:19 | 2025-04-17 | 2025-06-20 |
 | [She](https://open.spotify.com/track/2n0F6hno9WUlcmS4Xg0vFa) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [SYNC](https://open.spotify.com/artist/2AgkVvon5F9e3XEBveFe5K) | [Sensational](https://open.spotify.com/album/7BbuSjeZmKAaXYt22Av57u) | 2:15 | 2024-10-10 | 2024-11-23 |

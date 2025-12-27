@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > a little indie, a little pop, soda featuring SUM SUN
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,763 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,760 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 79 | [THINKIN BOUT YOU](https://open.spotify.com/track/5GzTxQw4J6Qv1ekHJBxqRB) | [People R Ugly](https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI) | [THINKIN BOUT YOU](https://open.spotify.com/album/1xGuSADsstny1TgJRQFz1e) | 3:08 |
 | 80 | [Tan Lines](https://open.spotify.com/track/2tPxcjGZOp7y9LHe1mtydD) | [Kevian Kraemer](https://open.spotify.com/artist/4YuuDwJsOgciB2sYUvmo4a) | [Tan Lines](https://open.spotify.com/album/2TR6Q1fYO8603EYrYFM8uy) | 2:29 |
 
-Snapshot ID: `AAAAAD25jDDBMldyob2IHqh1vT/iWuzs`
+Snapshot ID: `AAAAAEAFtbYNe6Vb6xNAj353jyRq0MzE`

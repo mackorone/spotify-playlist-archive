@@ -463,6 +463,24 @@
     },
     {
       "album": {
+        "name": "Fingers Crossed",
+        "url": "https://open.spotify.com/album/3rtqRLOBd3NMTmocyqu54Q"
+      },
+      "artists": [
+        {
+          "name": "Annabelle Grace",
+          "url": "https://open.spotify.com/artist/20lr4qe8AZ4I2vuVl6NlL7"
+        }
+      ],
+      "date_added": "2025-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228291,
+      "name": "Fingers Crossed",
+      "url": "https://open.spotify.com/track/3vFYVPDRiQjCRJnqgzNbE6"
+    },
+    {
+      "album": {
         "name": "Fire",
         "url": "https://open.spotify.com/album/1RpsbQ26lwGS3tWYCRsB1q"
       },

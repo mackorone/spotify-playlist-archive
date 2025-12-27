@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2mmt7R81K2b.md) - [plain]
 
 > Where jazz meets classical, and classical meets jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,655 likes - 96 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,702 likes - 96 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2mmt7R81K2b.md) - [plain]
 | 32 | [Suite 785](https://open.spotify.com/track/3MHKb3kAEfY4m9KoxFfuNY) | [Enrico Pieranunzi](https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP), [Orchestra I Pomeriggi Musicali](https://open.spotify.com/artist/1wGjC4Xvg2EmZw4dflehZg), [Michele Corcella](https://open.spotify.com/artist/13KXjiDcalmq7zlHXllykh), [Mauro Beggio](https://open.spotify.com/artist/5I93kCeawmVQ8xxfrWf2y3), [Luca Bulgarelli](https://open.spotify.com/artist/6RByhwx03rvh0w4y0J4Hbo) | [Suite 785](https://open.spotify.com/album/7iJunXjuZCewVj5QAqpogj) | 5:13 |
 | 33 | [Munich Afternoon](https://open.spotify.com/track/1g6WFBWZWcelqtpBoSNagG) | [Nils Wülker](https://open.spotify.com/artist/0GvUvYAa4rXdQt217NuE7o), [Munich Radio Orchestra](https://open.spotify.com/artist/0epMHcfPfSyf4QArBZCxWX), [Patrick Hahn](https://open.spotify.com/artist/31BzMXuwWSXeEDfmr8KKnK) | [Munich Afternoon](https://open.spotify.com/album/2CjaV6jqeaUFGUhKx6vaoa) | 4:58 |
 | 34 | [Violin Concerto No\. 2, Op\. 87 "Karantina günlerinde bahar sabahları": II\. Dance\. Fast Jazz Swing](https://open.spotify.com/track/5GcFKXuQvxhAjwotGRVlp9) | [Fazıl Say](https://open.spotify.com/artist/15NSFL63oPhmpXLcZHny2N), [Friedemann Eichhorn](https://open.spotify.com/artist/7C2uF9MalOXooY95J9PBe0), [Konzerthausorchester Berlin](https://open.spotify.com/artist/5HxMHFsUWX0VqOlmsoGrTj), [Christoph Eschenbach](https://open.spotify.com/artist/0xfOM47aJ8EcFX7T6Ugr9W) | [Say: Violin Concerto No\. 2, Op\. 87 & Other Works](https://open.spotify.com/album/0VIQbWMK2pJTAWnrDbtIDH) | 2:13 |
-| 35 | [Prelude in E Minor](https://open.spotify.com/track/44ZIZqZyUSJciKQzKlGvZf) | [Shahin Novrasli](https://open.spotify.com/artist/1JeMulk2aODVLXA7qtiUS2) | [BAYATI](https://open.spotify.com/album/1IaXNjdDAOVD1Y1eXLP92c) | 6:42 |
+| 35 | [Prelude in E Minor](https://open.spotify.com/track/44ZIZqZyUSJciKQzKlGvZf) | [cleaned](https://open.spotify.com/artist/1yp2KhukqTL1SNjjQDCNj3) | [BAYATI](https://open.spotify.com/album/1IaXNjdDAOVD1Y1eXLP92c) | 6:42 |
 | 36 | [Let's Fall in Love \(Arr\. Haginomori for Flute and Piano\)](https://open.spotify.com/track/0vMENu9wXi1Sced0XbPqhc) | [Harold Arlen](https://open.spotify.com/artist/7MOUyX1yT017l1Zt0mExIA), [Cocomi](https://open.spotify.com/artist/76LVGyW3On02K0by9U8YwV), [山中惇史](https://open.spotify.com/artist/55RWizcWD2mduyBwTDoHRe) | [Neos](https://open.spotify.com/album/1gb5ayTVtIYlLzAJYY7NBY) | 3:11 |
 | 37 | [Charleston \(Arr\. for Piano by Florian Noack\)](https://open.spotify.com/track/7g97qIJ9CIWOQyHKGh8KDf) | [James P\. Johnson](https://open.spotify.com/artist/0BMlIte9CqjItQ6mh2GoGi), [Florian Noack](https://open.spotify.com/artist/2tQwlLEdGeS2R1MeXPdMwG) | [Price Johnson: Charleston](https://open.spotify.com/album/5hZFrAea6rOnVSROufxlMf) | 2:07 |
 | 38 | [Variation 25 \(From J.S\. Bach: Goldberg Variations, BWV 988\)](https://open.spotify.com/track/6FCsAVLJWMamkoglmADxS6) | [Marcin Wasilewski Trio](https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL) | [En attendant](https://open.spotify.com/album/5StrH1ERbMpncR1LR5xWfv) | 7:11 |

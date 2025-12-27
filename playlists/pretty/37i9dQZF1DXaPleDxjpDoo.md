@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPleDxjpDoo.md) - [plain]
 
 > Bathe in forest sounds and reconnect to nature, with the Japanese practice of shinrin yoku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 445,512 likes - 173 songs - 8 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,545 likes - 173 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -182,4 +182,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPleDxjpDoo.md) - [plain]
 | 172 | [Blue Shadows](https://open.spotify.com/track/1S5UW31xDfoNW3Tc7rNyKp) | [Maira](https://open.spotify.com/artist/6x0Xdy7LgcYtyIWBG7CA04) | [Blue Shadows](https://open.spotify.com/album/1Iy98GEoDPSUJHx6iIKh5E) | 2:52 |
 | 173 | [Morning Whispers](https://open.spotify.com/track/5sVhaC42LMWqPlBsR7qblo) | [Insomnian](https://open.spotify.com/artist/1ujgOwCmxg2Rf7IShLE4mQ) | [Morning Whispers](https://open.spotify.com/album/2elbssVP513HL0Y07gxXy5) | 2:11 |
 
-Snapshot ID: `AAAAACh0GTmPGEVwSvTN6QxABxiVW15h`
+Snapshot ID: `AAAAAAvwdkgnNGVhJ8GOqQN4EJ0fffFY`

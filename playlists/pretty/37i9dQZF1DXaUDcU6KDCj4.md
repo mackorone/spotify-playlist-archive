@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Mumford & Sons
 
-[Spotify](https://open.spotify.com/user/spotify) - 861,654 likes - 182 songs - 10 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 862,021 likes - 182 songs - 10 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -191,4 +191,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 181 | [I OWE IT TO YOU](https://open.spotify.com/track/31NCU7wSIerIAlbpdNBFI7) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [I OWE IT TO YOU](https://open.spotify.com/album/6O622GKMA9zpqTLxQ7vyZt) | 3:10 |
 | 182 | [Morning on K Road](https://open.spotify.com/track/1Ozafn7IqVu1d7NkNGtghm) | [Steve Gunn](https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO) | [Morning on K Road](https://open.spotify.com/album/4PvKliYsBrQXQ8es2rnwJQ) | 5:55 |
 
-Snapshot ID: `AAAAAH52pueHMP0SqmY0JXERgIy73bJ/`
+Snapshot ID: `AAAAACmPj3kSzbWwjUH8BMxtxDIF21XV`

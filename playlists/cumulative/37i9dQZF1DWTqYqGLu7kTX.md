@@ -2,7 +2,7 @@
 
 ### [RAP 91 Punjabi](https://open.spotify.com/playlist/37i9dQZF1DWTqYqGLu7kTX)
 
-> Best of Punjabi Hip\-Hop! Cover:  Saabi Bhinder & Real Boss
+> Best of Punjabi Hip\-Hop! Cover:  Gurinder Gill
 
 312 songs - 15 hr 24 min
 

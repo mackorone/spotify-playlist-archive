@@ -1,13 +1,93 @@
 {
   "description": "playlist spotify free",
-  "num_followers": 255,
+  "num_followers": 256,
   "original_name": "playlist spotify free",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAGbrRSPY+xlJIzfxjDsujBj1I8dkni",
+  "snapshot_id": "AAAGdAWxJ6wreXbXagNY8n8i1ntBEqyF",
   "tracks": [
+    {
+      "added_at": "2025-12-26 21:41:48",
+      "album": {
+        "name": "In Spite of Impending Doom",
+        "url": "https://open.spotify.com/album/6OQ5JfQ2vqdAEY7VkVpLNP"
+      },
+      "artists": [
+        {
+          "name": "Goodbye Lenin",
+          "url": "https://open.spotify.com/artist/36Le1UCarumb2FxVEImKpS"
+        }
+      ],
+      "duration_ms": 285937,
+      "name": "Sharavise",
+      "url": "https://open.spotify.com/track/5Q6IzaBQ90vXoTqGX8CdpX"
+    },
+    {
+      "added_at": "2025-12-26 21:41:46",
+      "album": {
+        "name": "Crazy Love",
+        "url": "https://open.spotify.com/album/6wCSP7GAAnc5rbFbVdqH3m"
+      },
+      "artists": [
+        {
+          "name": "MITCH J",
+          "url": "https://open.spotify.com/artist/7eJ0yQqKoJaTXds7x0SVEr"
+        }
+      ],
+      "duration_ms": 216603,
+      "name": "Crazy Love",
+      "url": "https://open.spotify.com/track/2XliJHu9QqhKEcYjtLtlLR"
+    },
+    {
+      "added_at": "2025-12-26 21:41:44",
+      "album": {
+        "name": "Blood",
+        "url": "https://open.spotify.com/album/4OlJmPoZcR6HhP9ryrYjoD"
+      },
+      "artists": [
+        {
+          "name": "Charlie Toulson",
+          "url": "https://open.spotify.com/artist/5XVuDmp4R5ESKtdYKu4u9n"
+        }
+      ],
+      "duration_ms": 136679,
+      "name": "Like a Sun",
+      "url": "https://open.spotify.com/track/3LSsDvUngLzH6ayzSmv1Pw"
+    },
+    {
+      "added_at": "2025-12-26 21:39:33",
+      "album": {
+        "name": "Low cost flights",
+        "url": "https://open.spotify.com/album/3EEKxo2vEQT7SdopFcTsU0"
+      },
+      "artists": [
+        {
+          "name": "IGuez",
+          "url": "https://open.spotify.com/artist/0lflL0X5bcRofHCuxHE0Ya"
+        }
+      ],
+      "duration_ms": 292800,
+      "name": "Low cost flights",
+      "url": "https://open.spotify.com/track/68FuZuHqBIkKpFIGRnrdlF"
+    },
+    {
+      "added_at": "2025-12-26 21:39:31",
+      "album": {
+        "name": "Garden Again",
+        "url": "https://open.spotify.com/album/0NvOpi04hZyaswKLQGYOBT"
+      },
+      "artists": [
+        {
+          "name": "Evva Polak",
+          "url": "https://open.spotify.com/artist/507ea9h4rltyLfB1fqpIfV"
+        }
+      ],
+      "duration_ms": 259856,
+      "name": "Garden Again",
+      "url": "https://open.spotify.com/track/5VSOcF7z8Kempq4yn16mpz"
+    },
     {
       "added_at": "2025-12-14 23:10:38",
       "album": {
@@ -62191,6 +62271,22 @@
       "duration_ms": 129780,
       "name": "Firefly Feast",
       "url": "https://open.spotify.com/track/2fgK8lEyLfYn5DAgHjL4j1"
+    },
+    {
+      "added_at": "2025-12-26 10:26:25",
+      "album": {
+        "name": "remember that time (demo)",
+        "url": "https://open.spotify.com/album/70O6lr0dswyDaSUc8By1KC"
+      },
+      "artists": [
+        {
+          "name": "cadenn",
+          "url": "https://open.spotify.com/artist/5R8wFLLq8qW1vOVntakADR"
+        }
+      ],
+      "duration_ms": 320666,
+      "name": "remember that time - demo",
+      "url": "https://open.spotify.com/track/2WmZ2yOTzQZSFKePzKalDW"
     }
   ],
   "unique_name": "playlist spotify free",

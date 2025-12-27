@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rTk9UUrbYS.md) - [plain]
 
 > Avant\-garde, experimental and free jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,607 likes - 100 songs - 12 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,621 likes - 100 songs - 12 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rTk9UUrbYS.md) - [plain]
 | 23 | [Equidistant Between](https://open.spotify.com/track/69g1WfQZwIeyZQxBxdPOVg) | [Huw V Williams](https://open.spotify.com/artist/6hRVe9j6YVlUtqN3csCB6u) | [Equidistant Between](https://open.spotify.com/album/5ysRzSXZhth8Bx5Iv1Gzdm) | 5:53 |
 | 24 | [Blue Threads](https://open.spotify.com/track/1Vs1wAPWPnLondVj2OTguz) | [Whit Dickey](https://open.spotify.com/artist/5SJsxqLDqgiO1Mvi5rJxRo), [Nate Wooley](https://open.spotify.com/artist/151kdGxCPmdZZqaYsd79F5), [Matthew Shipp](https://open.spotify.com/artist/1Lw2WbL7CWZXAWSLWYXq4r) | [Morph](https://open.spotify.com/album/2s9MewAV3KnqC0Pq0qjzgL) | 3:30 |
 | 25 | [Joe Btfsplk](https://open.spotify.com/track/2USetQp7MV5k6yWzvXDKsK) | [Don Byron](https://open.spotify.com/artist/2xJ2HMpwwLY36bkjT6sJkD), [Aruan Ortiz](https://open.spotify.com/artist/7hUIvu0Ug9wqqjtaoCtv1o) | [Random Dances & \(A\)Tonalities](https://open.spotify.com/album/0gvblXLr6kRVAJuyPEfEVw) | 5:44 |
-| 26 | [it say, no sé](https://open.spotify.com/track/2VqEeQ1BvCK1VfYH3ww4I0) | [Kei Matsumaru](https://open.spotify.com/artist/3mHyQil6LHrtKvJ2hrFN6e), [Akira Ishii](https://open.spotify.com/artist/4aXZZMEzjJD8LbpsfNl6W0), [Hideaki Kanazawa](https://open.spotify.com/artist/7a99ADzo7A5wdnxqFz5X7i), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [Nothing Unspoken Under The Sun](https://open.spotify.com/album/76TaVfdJHRwxj33pGlvf6u) | 4:38 |
+| 26 | [it say, no sé](https://open.spotify.com/track/2VqEeQ1BvCK1VfYH3ww4I0) | [cleaned](https://open.spotify.com/artist/1yp2KhukqTL1SNjjQDCNj3), [Akira Ishii](https://open.spotify.com/artist/4aXZZMEzjJD8LbpsfNl6W0), [Hideaki Kanazawa](https://open.spotify.com/artist/7a99ADzo7A5wdnxqFz5X7i), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [Nothing Unspoken Under The Sun](https://open.spotify.com/album/76TaVfdJHRwxj33pGlvf6u) | 4:38 |
 | 27 | [Active\-Multiple\-Fetish\-Overlord](https://open.spotify.com/track/7a7dP4fURwyN3iMnjft2km) | [Binker and Moses](https://open.spotify.com/artist/7mKZJ0SITREZQovQF6Qeb4), [Max Luthert](https://open.spotify.com/artist/0SY44UCwBAxIo3mrKixXRB) | [Feeding the Machine](https://open.spotify.com/album/03CWEGnnMN2Xlfgkb6QZ0C) | 3:33 |
 | 28 | [Straight Horns of Plenty](https://open.spotify.com/track/5VWybESIdxiN5mblUg0LXY) | [Sam Newsome](https://open.spotify.com/artist/4I58gyVzxGY66yrZm5D3ke) | [Sopranoville: Works for Prepared and Non\-Prepared Soprano](https://open.spotify.com/album/545Eo5pNpY0gWUVKzycbqs) | 2:31 |
 | 29 | [Fiasco : In the Moment](https://open.spotify.com/track/2m1SZ7PJXRIQUjQ2LC6njG) | [Rope](https://open.spotify.com/artist/3N0PjNFTj32WSkDS31jbAO) | [In The Moment \(The Music of Charlie Haden\)](https://open.spotify.com/album/5frTCZPZdaT4Zp3tUmosWs) | 3:34 |

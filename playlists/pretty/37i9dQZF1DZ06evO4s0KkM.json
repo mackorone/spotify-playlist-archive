@@ -1,12 +1,12 @@
 {
   "description": "This is Dropkick Murphys. The essential tracks, all in one playlist.",
-  "num_followers": 125001,
+  "num_followers": 125007,
   "original_name": "This Is Dropkick Murphys",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUstAAAAAABa5T3t7AEau/sZBHQBdMhx",
+  "snapshot_id": "aUx+gAAAAAAovnumr0eHYbuuJnXBKpzQ",
   "tracks": [
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sing Loud, Sing Proud",
-        "url": "https://open.spotify.com/album/6nSdfegzGY00ZxQbWheM1K"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 167866,
-      "name": "The Gauntlet",
-      "url": "https://open.spotify.com/track/2k04smaUFd7O1VzerdOxxS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "11 Short Stories of Pain & Glory",
         "url": "https://open.spotify.com/album/2x8e1IYd6eaQzAi7X2oRMB"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 227066,
       "name": "Until the Next Time",
       "url": "https://open.spotify.com/track/4ZrmwLwhWQ0m4YNlCDHlC8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sing Loud, Sing Proud",
+        "url": "https://open.spotify.com/album/6nSdfegzGY00ZxQbWheM1K"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 167866,
+      "name": "The Gauntlet",
+      "url": "https://open.spotify.com/track/2k04smaUFd7O1VzerdOxxS"
     },
     {
       "added_at": null,
@@ -691,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Turn Up That Dial (Expanded Version)",
-        "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza"
       },
       "artists": [
         {
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 238286,
-      "name": "James Connolly",
-      "url": "https://open.spotify.com/track/319QtkcOF005zXjCE14Zds"
+      "duration_ms": 183306,
+      "name": "Black Velvet Band",
+      "url": "https://open.spotify.com/track/356DFRPTv6s2jPuQHrIqWi"
     },
     {
       "added_at": null,
@@ -723,8 +723,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blackout",
-        "url": "https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza"
+        "name": "Turn Up That Dial (Expanded Version)",
+        "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
       },
       "artists": [
         {
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 183306,
-      "name": "Black Velvet Band",
-      "url": "https://open.spotify.com/track/356DFRPTv6s2jPuQHrIqWi"
+      "duration_ms": 238286,
+      "name": "James Connolly",
+      "url": "https://open.spotify.com/track/319QtkcOF005zXjCE14Zds"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Singles Collection Vol. 2",
-        "url": "https://open.spotify.com/album/1S7FQvutnvemp9eHsvGpxJ"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 158880,
-      "name": "Fortunate Son",
-      "url": "https://open.spotify.com/track/4XzxcPPwxCSEVn8qneqL3s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Meanest of Times (Limited Edition)",
         "url": "https://open.spotify.com/album/4tqRdOGCDOT38iLFojyyuX"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 196693,
       "name": "God Willing",
       "url": "https://open.spotify.com/track/6amL7Sov9asiwtCWN3gj8p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Singles Collection Vol. 2",
+        "url": "https://open.spotify.com/album/1S7FQvutnvemp9eHsvGpxJ"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 158880,
+      "name": "Fortunate Son",
+      "url": "https://open.spotify.com/track/4XzxcPPwxCSEVn8qneqL3s"
     },
     {
       "added_at": null,

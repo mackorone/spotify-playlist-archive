@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Levante in cover + le migliori nuove uscite 🇮🇹 e 🌎!
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,984 likes - 99 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,002 likes - 99 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 | 98 | [Friends](https://open.spotify.com/track/6pM7b05oOHv3WvhUaxhaB2) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Friends](https://open.spotify.com/album/5zR9DGAoBD4lQ6NPXFXvOn) | 2:59 |
 | 99 | [Electrified](https://open.spotify.com/track/42KjknjDxR4FMF1Cnz1gPj) | [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Electrified](https://open.spotify.com/album/1w9BepH7fLK4oTBRhKFutF) | 3:07 |
 
-Snapshot ID: `AAAAAN+QlPIifu6c0mCc6EErS77VNBuA`
+Snapshot ID: `AAAAAA/vgSBqtvLXEpkoFypJ1IuRXCa1`

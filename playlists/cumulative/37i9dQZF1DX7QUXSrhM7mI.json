@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "$106",
+        "url": "https://open.spotify.com/album/3vvSZ8c5cG502k6JeiSnGl"
+      },
+      "artists": [
+        {
+          "name": "Oranj Goodman",
+          "url": "https://open.spotify.com/artist/3s9HeMWk4kpVAzjZ1e2lCG"
+        }
+      ],
+      "date_added": "2025-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196067,
+      "name": "$106",
+      "url": "https://open.spotify.com/track/0dzwSLr6doS6uRPYnsCwj4"
+    },
+    {
+      "album": {
         "name": "Silence Between Songs",
         "url": "https://open.spotify.com/album/0Q0rJ81u7O4EFCpqkcwJJ2"
       },
@@ -890,7 +908,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-27",
       "duration_ms": 151000,
       "name": "BUTTERFLY EFFECT",
       "url": "https://open.spotify.com/track/7hyZsVYaIVyhxuIL73yIAb"

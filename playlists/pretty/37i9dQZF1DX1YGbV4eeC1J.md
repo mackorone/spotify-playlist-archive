@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YGbV4eeC1J.md) - [plain]
 
 > What is your love language? Say it in Swahili\.  Cover: Kusah
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,047 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,077 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YGbV4eeC1J.md) - [plain]
 | 59 | [Boda](https://open.spotify.com/track/4hfhjbfhRTBpvOYXJfC1YL) | [Billnass](https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4), [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Boda](https://open.spotify.com/album/1htUwvLb7Y834xXsMEKibn) | 3:03 |
 | 60 | [Romeo & Julieth \(feat\. Otile Brown\)](https://open.spotify.com/track/2ffwwOr5k4AFYlbQiopAaQ) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl), [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Romeo & Julieth \(feat\. Otile Brown\)](https://open.spotify.com/album/7HLQpGd1FmWMS3ufnnQJ0x) | 3:21 |
 
-Snapshot ID: `AAAAABxiDRdej5eyG+JIjhgp+j82H7/D`
+Snapshot ID: `AAAAAEcwmxLhCYUyqColsTmtWgQpf2KH`

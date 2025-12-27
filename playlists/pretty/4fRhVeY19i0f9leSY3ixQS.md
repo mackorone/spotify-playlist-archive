@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,068 likes - 315 songs - 18 hr 3 min
+[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,068 likes - 319 songs - 18 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -318,10 +318,14 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 | 308 | [Avoidant](https://open.spotify.com/track/1fWwlZVec79sMQ4rMNngII) | [choline](https://open.spotify.com/artist/0oIJkLO0Wbca0flyK0nvfT) | [Avoidant](https://open.spotify.com/album/1W4Z4uVk0FJ2FhEhtMmCMo) | 4:25 |
 | 309 | [Homework Forever](https://open.spotify.com/track/5EBAcYsLz8yVFBjzNirEt7) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Homework Forever](https://open.spotify.com/album/4ZV5lF2tPgdP36xQH1lLSQ) | 2:56 |
 | 310 | [Ghost In The Tide](https://open.spotify.com/track/50SPgAAHSZshpCHZ30AJow) | [Cryptronik](https://open.spotify.com/artist/0vbG9klL79IuVQ8RJGDI2n) | [Dawn Of The Forsaken](https://open.spotify.com/album/5njzvnU561N8bqimIG9oaU) | 3:50 |
-| 311 | [I Spy](https://open.spotify.com/track/13WUCGEcRl0lnn66wJaAne) | [Citylightz](https://open.spotify.com/artist/3Bz1JVhGEwBK6iIHHx7M7o) | [I Spy](https://open.spotify.com/album/47AzLJfduyzsDgndlE63OI) | 3:14 |
-| 312 | [BIRDBRAIN](https://open.spotify.com/track/6krF3cc86VrHTojqLJsNZX) | [BAIKAL](https://open.spotify.com/artist/1Ic18THJhrkih00C2LyczI) | [Baikal](https://open.spotify.com/album/1ZUAbfumLk9K2KfL1ESZ5s) | 4:22 |
-| 313 | [ALL MY FRIENDS](https://open.spotify.com/track/4LOqG8S1DIMwxJZvdx98cE) | [Tygers of Wrath](https://open.spotify.com/artist/6vGbDm4f3JsCq7ftXq5Xba) | [Get Ready!](https://open.spotify.com/album/1lDzx28rHjWtLB6oI3RpCI) | 1:37 |
-| 314 | [Grown Up](https://open.spotify.com/track/1El7h6rWS5ZHLeXVMGWMDI) | [The DT's](https://open.spotify.com/artist/6SD8VqIT4EO7YVA2to3ZRZ) | [Grown Up](https://open.spotify.com/album/3jDQljn8CzAVOMZVdc7dlh) | 3:16 |
-| 315 | [Glossy Cover](https://open.spotify.com/track/4yK0qEK134tVyaNcoRx4qw) | [Vasch](https://open.spotify.com/artist/5cOG2PUwppnjhU7rlWLeaY) | [Glossy Cover](https://open.spotify.com/album/0fC5YSOcEvWVE1SIMUuLgg) | 3:02 |
+| 311 | [Clockmaster's Grief](https://open.spotify.com/track/5Wtjtxxjm9U9CC5s3hDAaI) | [Astral Nocturna](https://open.spotify.com/artist/7dXXmCstnWta6NTeYrZPpB) | [Clockmaster's Grief](https://open.spotify.com/album/33rVeEfelM9iw2pk0v6WDZ) | 3:54 |
+| 312 | [I Spy](https://open.spotify.com/track/13WUCGEcRl0lnn66wJaAne) | [Citylightz](https://open.spotify.com/artist/3Bz1JVhGEwBK6iIHHx7M7o) | [I Spy](https://open.spotify.com/album/47AzLJfduyzsDgndlE63OI) | 3:14 |
+| 313 | [BIRDBRAIN](https://open.spotify.com/track/6krF3cc86VrHTojqLJsNZX) | [BAIKAL](https://open.spotify.com/artist/1Ic18THJhrkih00C2LyczI) | [Baikal](https://open.spotify.com/album/1ZUAbfumLk9K2KfL1ESZ5s) | 4:22 |
+| 314 | [ALL MY FRIENDS](https://open.spotify.com/track/4LOqG8S1DIMwxJZvdx98cE) | [Tygers of Wrath](https://open.spotify.com/artist/6vGbDm4f3JsCq7ftXq5Xba) | [Get Ready!](https://open.spotify.com/album/1lDzx28rHjWtLB6oI3RpCI) | 1:37 |
+| 315 | [Grown Up](https://open.spotify.com/track/1El7h6rWS5ZHLeXVMGWMDI) | [The DT's](https://open.spotify.com/artist/6SD8VqIT4EO7YVA2to3ZRZ) | [Grown Up](https://open.spotify.com/album/3jDQljn8CzAVOMZVdc7dlh) | 3:16 |
+| 316 | [Glossy Cover](https://open.spotify.com/track/4yK0qEK134tVyaNcoRx4qw) | [Vasch](https://open.spotify.com/artist/5cOG2PUwppnjhU7rlWLeaY) | [Glossy Cover](https://open.spotify.com/album/0fC5YSOcEvWVE1SIMUuLgg) | 3:02 |
+| 317 | [Headrush](https://open.spotify.com/track/0YfyjWkn6cAvWXokmeu77R) | [Lunar Chain](https://open.spotify.com/artist/6esnKS6lev7QYCZAL0y8bW) | [Headrush](https://open.spotify.com/album/1xawMxWDShlnHZgENk0Y5W) | 3:25 |
+| 318 | [Creatures](https://open.spotify.com/track/2BME4lMVt3qe5hQjmDjlMT) | [Eternalize](https://open.spotify.com/artist/0gxYWBKorYdHOkDcnMLDsf) | [The way home](https://open.spotify.com/album/4xO88KLM8NjEHYpQhXbJgV) | 2:48 |
+| 319 | [kleinmut](https://open.spotify.com/track/2FILjSIzG7cAzom43equdp) | [bildervondrausen](https://open.spotify.com/artist/15LeNv7wDnxgZh1YeMRcap) | [kleinmut](https://open.spotify.com/album/4iRkAfSiVTpEVn429FCWkl) | 2:35 |
 
-Snapshot ID: `AAAI6H7WaD6xW/pdYPIrnB5FtI9VCD0R`
+Snapshot ID: `AAAI7GiDqf31F7jpFZ7KILFJfw99T8Az`

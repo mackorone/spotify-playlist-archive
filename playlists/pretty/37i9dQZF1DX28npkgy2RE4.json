@@ -1,6 +1,6 @@
 {
   "description": "New styles, deep sounds. Cover: Helado Negro",
-  "num_followers": 419395,
+  "num_followers": 419388,
   "original_name": "Modern Eclectic",
   "owner": {
     "name": "Spotify",
@@ -271,6 +271,26 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
+        "name": "Snowplow",
+        "url": "https://open.spotify.com/album/2pvt0zp6tTBZdF1HZ50LsQ"
+      },
+      "artists": [
+        {
+          "name": "Runnner",
+          "url": "https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0"
+        },
+        {
+          "name": "Skullcrusher",
+          "url": "https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD"
+        }
+      ],
+      "duration_ms": 161776,
+      "name": "Snowplow",
+      "url": "https://open.spotify.com/track/6LvRXtQfbvMF7m0hNQu5eF"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
         "name": "A Pillar of Salt",
         "url": "https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ"
       },
@@ -311,22 +331,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Hurricane",
-        "url": "https://open.spotify.com/album/7yfqBn0ZgxszrccYD7eXpW"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        }
-      ],
-      "duration_ms": 266706,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/430AdcQfEGaKOZepLczGTo"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Sad Disco (Pine Studios)",
         "url": "https://open.spotify.com/album/0npdPWUNkxbMyPFa1rcb2X"
       },
@@ -343,22 +347,18 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Snowplow",
-        "url": "https://open.spotify.com/album/2pvt0zp6tTBZdF1HZ50LsQ"
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/7yfqBn0ZgxszrccYD7eXpW"
       },
       "artists": [
         {
-          "name": "Runnner",
-          "url": "https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0"
-        },
-        {
-          "name": "Skullcrusher",
-          "url": "https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD"
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
         }
       ],
-      "duration_ms": 161776,
-      "name": "Snowplow",
-      "url": "https://open.spotify.com/track/6LvRXtQfbvMF7m0hNQu5eF"
+      "duration_ms": 266706,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/430AdcQfEGaKOZepLczGTo"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -659,22 +659,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 195106,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Human Emotion",
         "url": "https://open.spotify.com/album/5yld1EKD0F5Q442upp44Up"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 230000,
       "name": "Human Emotion",
       "url": "https://open.spotify.com/track/2RZikbqD9j1SRch0eh7Y97"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 195106,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk"
-      },
-      "artists": [
-        {
-          "name": "Birdtalker",
-          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
-        }
-      ],
-      "duration_ms": 201626,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Champagne Problems",
         "url": "https://open.spotify.com/album/4KAr2lRE1A7erS2HUspilz"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 201680,
       "name": "Judy",
       "url": "https://open.spotify.com/track/0bLoEqjAAzozfFOiBBRxUw"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk"
+      },
+      "artists": [
+        {
+          "name": "Birdtalker",
+          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
+        }
+      ],
+      "duration_ms": 201626,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "notes to self",
-        "url": "https://open.spotify.com/album/4oZm9dVzOajDU9ATDnJcjU"
-      },
-      "artists": [
-        {
-          "name": "Maria Kelly",
-          "url": "https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV"
-        }
-      ],
-      "duration_ms": 184400,
-      "name": "prelude",
-      "url": "https://open.spotify.com/track/1btCox4dQ6X24ciWGUNRgy"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Mecca",
         "url": "https://open.spotify.com/album/0diLOQUXoO0jIWMmC4S4KV"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 291762,
       "name": "Mecca",
       "url": "https://open.spotify.com/track/4C5bRIloL1afbepFvjMLYE"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "notes to self",
+        "url": "https://open.spotify.com/album/4oZm9dVzOajDU9ATDnJcjU"
+      },
+      "artists": [
+        {
+          "name": "Maria Kelly",
+          "url": "https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV"
+        }
+      ],
+      "duration_ms": 184400,
+      "name": "prelude",
+      "url": "https://open.spotify.com/track/1btCox4dQ6X24ciWGUNRgy"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
+        "name": "Star Nation",
+        "url": "https://open.spotify.com/album/3SwurzELHbFxDLqPYDGTNG"
+      },
+      "artists": [
+        {
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+        }
+      ],
+      "duration_ms": 246364,
+      "name": "Star Nation",
+      "url": "https://open.spotify.com/track/1jE0hqBMtVp7TLy28cZwVq"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
         "name": "Black Eyed Dog",
         "url": "https://open.spotify.com/album/3YKqcMhqAYrG90RKveNVkj"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 168779,
       "name": "Black Eyed Dog",
       "url": "https://open.spotify.com/track/0ZRZ1iLy8QVnRs7SiSPIJ9"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
-        "name": "Star Nation",
-        "url": "https://open.spotify.com/album/3SwurzELHbFxDLqPYDGTNG"
-      },
-      "artists": [
-        {
-          "name": "Nick Mulvey",
-          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
-        }
-      ],
-      "duration_ms": 246364,
-      "name": "Star Nation",
-      "url": "https://open.spotify.com/track/1jE0hqBMtVp7TLy28cZwVq"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Northsiders",
-        "url": "https://open.spotify.com/album/0AKWmrRaij8YUWVxi5yAjC"
-      },
-      "artists": [
-        {
-          "name": "Christian Lee Hutson",
-          "url": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
-        }
-      ],
-      "duration_ms": 223520,
-      "name": "Northsiders",
-      "url": "https://open.spotify.com/track/34g8vWL65ZOAvDWCdq8kP3"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "All Now",
         "url": "https://open.spotify.com/album/2f8gXFGCNXBRNJ7xdqxQuM"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 270026,
       "name": "All Now",
       "url": "https://open.spotify.com/track/7gEQuszu1NiKweV7zOTFr6"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Northsiders",
+        "url": "https://open.spotify.com/album/0AKWmrRaij8YUWVxi5yAjC"
+      },
+      "artists": [
+        {
+          "name": "Christian Lee Hutson",
+          "url": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
+        }
+      ],
+      "duration_ms": 223520,
+      "name": "Northsiders",
+      "url": "https://open.spotify.com/track/34g8vWL65ZOAvDWCdq8kP3"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "First Time Feeling",
-        "url": "https://open.spotify.com/album/3qm2g5r2eWFVYiIGZVt4Ro"
-      },
-      "artists": [
-        {
-          "name": "Leah Blevins",
-          "url": "https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW"
-        }
-      ],
-      "duration_ms": 186016,
-      "name": "First Time Feeling",
-      "url": "https://open.spotify.com/track/35q6uD5WsqzRPEblLjj5dw"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "Mount Airy Hill (Way Gone)",
         "url": "https://open.spotify.com/album/5hQ4j6DpVinBBTuSUHLEXJ"
       },
@@ -1923,6 +1907,22 @@
       "duration_ms": 332533,
       "name": "Mount Airy Hill (Way Gone)",
       "url": "https://open.spotify.com/track/2ZkoYrNT9B4jcKJsQcXb9p"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "First Time Feeling",
+        "url": "https://open.spotify.com/album/3qm2g5r2eWFVYiIGZVt4Ro"
+      },
+      "artists": [
+        {
+          "name": "Leah Blevins",
+          "url": "https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW"
+        }
+      ],
+      "duration_ms": 186016,
+      "name": "First Time Feeling",
+      "url": "https://open.spotify.com/track/35q6uD5WsqzRPEblLjj5dw"
     },
     {
       "added_at": "2025-02-07 05:00:36",
@@ -2143,22 +2143,6 @@
     {
       "added_at": "2025-02-07 05:00:36",
       "album": {
-        "name": "Redwood Tree",
-        "url": "https://open.spotify.com/album/3WsZy6HDKVIO8qAO1MA8ep"
-      },
-      "artists": [
-        {
-          "name": "Jamie Drake",
-          "url": "https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir"
-        }
-      ],
-      "duration_ms": 170894,
-      "name": "Redwood Tree",
-      "url": "https://open.spotify.com/track/7tthtIvsXqBLHru3nJkQg3"
-    },
-    {
-      "added_at": "2025-02-07 05:00:36",
-      "album": {
         "name": "deer",
         "url": "https://open.spotify.com/album/5hxy6Yf0wLnB106AqTbOC7"
       },
@@ -2191,6 +2175,22 @@
       "duration_ms": 224666,
       "name": "Turn Away",
       "url": "https://open.spotify.com/track/2bknDhY5zBEnD2MCFZpLXp"
+    },
+    {
+      "added_at": "2025-02-07 05:00:36",
+      "album": {
+        "name": "Redwood Tree",
+        "url": "https://open.spotify.com/album/3WsZy6HDKVIO8qAO1MA8ep"
+      },
+      "artists": [
+        {
+          "name": "Jamie Drake",
+          "url": "https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir"
+        }
+      ],
+      "duration_ms": 170894,
+      "name": "Redwood Tree",
+      "url": "https://open.spotify.com/track/7tthtIvsXqBLHru3nJkQg3"
     },
     {
       "added_at": "2025-02-07 05:00:36",

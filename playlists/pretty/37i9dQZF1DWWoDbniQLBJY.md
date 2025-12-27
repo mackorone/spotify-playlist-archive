@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWoDbniQLBJY.md) - [plain]
 
 > Aquí viven las acústicas\. Cover: Valentina Rico
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,826,437 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,826,219 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWoDbniQLBJY.md) - [plain]
 | 29 | [Amapolas \- Acústico](https://open.spotify.com/track/3w7yklj80FkFG1e3QQBzGB) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [Canciones para escuchar en el río](https://open.spotify.com/album/1OSheaXw7vf5kvIF94qrTk) | 3:05 |
 | 30 | [Dulcito e Coco \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3hQR682FLOBZg22eYjPA6L) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Spotify Singles](https://open.spotify.com/album/1iISTtFC766MmhpKtlz3sy) | 3:02 |
 | 31 | [Café con Leche](https://open.spotify.com/track/4wwDoA99aUTa97SSVeqBvK) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Mujer Eléctrica](https://open.spotify.com/album/3uQKmW3KxrIKOQfwqPPSPH) | 1:53 |
-| 32 | [Amuleto](https://open.spotify.com/track/5ymVw92LI7QlVPLHc6NM6R) | [Maréh](https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4) | [Amuleto](https://open.spotify.com/album/0inXRfr6USJ8rsLfAKvWbw) | 3:49 |
-| 33 | [Nada Valgo Sin Tu Amor \- MTV Unplugged](https://open.spotify.com/track/1AKE3Z5LNDH1AzMwuxaOW9) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Tr3s Presents Juanes MTV Unplugged](https://open.spotify.com/album/6Zy2wrvOOW0sxTWy7nF9BH) | 3:44 |
+| 32 | [Nada Valgo Sin Tu Amor \- MTV Unplugged](https://open.spotify.com/track/1AKE3Z5LNDH1AzMwuxaOW9) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Tr3s Presents Juanes MTV Unplugged](https://open.spotify.com/album/6Zy2wrvOOW0sxTWy7nF9BH) | 3:44 |
+| 33 | [Amuleto](https://open.spotify.com/track/5ymVw92LI7QlVPLHc6NM6R) | [Maréh](https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4) | [Amuleto](https://open.spotify.com/album/0inXRfr6USJ8rsLfAKvWbw) | 3:49 |
 | 34 | [Decisión](https://open.spotify.com/track/3thXiXy8Y9Db1GwoHmxbnp) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Decisión](https://open.spotify.com/album/3VfF9AzOdrtJrN4yvwWV1H) | 3:24 |
 | 35 | [Adiós Amor \- Recorded at Panoram Studios, Mexico](https://open.spotify.com/track/00yK9fIjWQfF5g70TK9vdj) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [Spotify Singles](https://open.spotify.com/album/6vB3HwLeq8ZjQYXUka7QIs) | 3:22 |
 | 36 | [DE SASTRE](https://open.spotify.com/track/4UQ70VRSltB7PLBTXcvxtv) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [FABIAN](https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG) | [DE SASTRE](https://open.spotify.com/album/4QWe6IxRC0jkG03pNdYmAp) | 4:10 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWoDbniQLBJY.md) - [plain]
 | 71 | [Amé \- demo original](https://open.spotify.com/track/5FOEWRyZ9xwJwRlHmIaftH) | [Gera Demara](https://open.spotify.com/artist/4XYbaR6YgnY4Nb6kz250cu) | [Amé \(demo original\)](https://open.spotify.com/album/6qRHfBZ4IOPG4CSsUMdqoE) | 3:25 |
 | 72 | [Enredadera](https://open.spotify.com/track/2VcrkGRHNbftgUZpqChlCD) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Pequeños Romances](https://open.spotify.com/album/02YYFa5lfqrTzRXUQQaQZo) | 4:55 |
 | 73 | [Juana Mecho \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4Nz1LJSDHxHxPjIZdP4tGf) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Spotify Singles](https://open.spotify.com/album/1iISTtFC766MmhpKtlz3sy) | 2:32 |
-| 74 | [Dimos Tanto](https://open.spotify.com/track/797rLEGNwiTPnkpd1itDC9) | [El Toed](https://open.spotify.com/artist/1FtiJnQyLN1nHqWz6ALjyh) | [Dimos Tanto](https://open.spotify.com/album/1j3xpnB1UQmJgUTLtaVwEo) | 3:09 |
-| 75 | [X Aquí X Allá \- Acustico](https://open.spotify.com/track/648QMpSfKf72WwwvG3fKL5) | [Caceres](https://open.spotify.com/artist/2hh9vTDXej21Upds5nlJTn) | [X Aquí X Allá \(Acustico\)](https://open.spotify.com/album/1fnwRevrGaRoY5MSmfOBVO) | 3:10 |
+| 74 | [X Aquí X Allá \- Acustico](https://open.spotify.com/track/648QMpSfKf72WwwvG3fKL5) | [Caceres](https://open.spotify.com/artist/2hh9vTDXej21Upds5nlJTn) | [X Aquí X Allá \(Acustico\)](https://open.spotify.com/album/1fnwRevrGaRoY5MSmfOBVO) | 3:10 |
+| 75 | [Dimos Tanto](https://open.spotify.com/track/797rLEGNwiTPnkpd1itDC9) | [El Toed](https://open.spotify.com/artist/1FtiJnQyLN1nHqWz6ALjyh) | [Dimos Tanto](https://open.spotify.com/album/1j3xpnB1UQmJgUTLtaVwEo) | 3:09 |
 | 76 | [Preso \(Grabado en ONErpm Studios\)](https://open.spotify.com/track/6CGN4Qx3KC3sFROIqXpKdS) | [Nora González](https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9), [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [Preso \(Grabado en ONErpm Studios\)](https://open.spotify.com/album/7zeQVlK0bClZRzg7pc0bRt) | 2:55 |
 | 77 | [Veneno \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/31CiU58drf9xYA9VEOFDfW) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Spotify Singles](https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ) | 3:05 |
 | 78 | [No Puedo Extrañarte](https://open.spotify.com/track/6cEY4wW5INlDK75bT7xQf0) | [Dos Garza](https://open.spotify.com/artist/7zsTwOXAbIeL7H8hJXgLt8), [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [No Puedo Extrañarte](https://open.spotify.com/album/2zzaRImwYVaNSEd8MASRoE) | 3:12 |

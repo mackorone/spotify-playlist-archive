@@ -4,7 +4,7 @@
 
 > Discover new christian and gospel music\. Cover:  Nina Shezz
 
-7,017 songs - 21 day 11 hr 40 min
+7,018 songs - 21 day 11 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6657,6 +6657,7 @@
 | [Worship Medley 16](https://open.spotify.com/track/6Is2r2y548dqfMxcVcwlUr) | [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [Worship Medley 16](https://open.spotify.com/album/6wkRwNf3cbMXLnKxEV746g) | 6:45 | 2025-07-11 | 2025-07-25 |
 | [Worship Medley 17](https://open.spotify.com/track/0LgqZyxBACXN0XtexHrDGp) | [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [Worship Medley 17](https://open.spotify.com/album/712yf7e3NHCpZSBOgSkiB5) | 10:13 | 2025-12-12 |  |
 | [Worship Medley 18](https://open.spotify.com/track/7dujAJFndCx2gL5BBoZk9a) | [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [Worship Medley 18](https://open.spotify.com/album/0vWIGLNruGE9OhXDjcIx1J) | 14:15 | 2025-11-28 | 2025-12-12 |
+| [Worship Medley 19](https://open.spotify.com/track/5lGRDbW4Cc7955JgeSmdsA) | [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [Worship Medley 19](https://open.spotify.com/album/2Rs81bRWInzpNraJ4e2WGX) | 14:00 | 2025-12-26 |  |
 | [Worship Of My Heart](https://open.spotify.com/track/6WrbAoqgllPLCkNZUm0qSs) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Worship Of My Heart](https://open.spotify.com/album/3C0uaYSWDa8xNTUE9TvTVP) | 8:06 | 2023-11-03 | 2023-11-17 |
 | [Worship Rise \- Live](https://open.spotify.com/track/3cTKo0A9psFpYuW0cn7WYN) | [Mike Kesse](https://open.spotify.com/artist/3gTI9CTDGd52LQouVIL5Ds) | [Worship Rise \(Live\)](https://open.spotify.com/album/6D568YgjwLt91jFxpvVhup) | 3:20 | 2024-01-12 | 2024-01-26 |
 | [Worship Rivers](https://open.spotify.com/track/7xeeAf1hURWE6FTtfqEpHW) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc), [Uncle Ato](https://open.spotify.com/artist/41RvOKpc8MwUfJQL9K6ic6) | [Worship Rivers](https://open.spotify.com/album/355UFF64ZvQuWMReZSrKmS) | 12:15 | 2024-07-05 | 2024-07-19 |

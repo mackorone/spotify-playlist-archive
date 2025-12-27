@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmINI7suDts.md) - [plain]
 
 > Get your spirits up and manage your mood any time of the day\. Cover: Maurice Kirya
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,067 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,074 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmINI7suDts.md) - [plain]
 | 59 | [The Blue Dress Song](https://open.spotify.com/track/613N6htjxF1BoqQUxcNuE0) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729) | [The Book of Kirya](https://open.spotify.com/album/64EwxAJqZKwrLEMCgmo5j3) | 3:12 |
 | 60 | [Hold On](https://open.spotify.com/track/2m310ptnkUrI39sdNQjwcs) | [Chwezimadeit](https://open.spotify.com/artist/2TquSTWImAEk1CP0ZVeIqm), [JdM Officiall](https://open.spotify.com/artist/2AoAtbPPpR9DsmiQwrQpq9), [Play01](https://open.spotify.com/artist/35b2AHExUT7FPIpDVKSQCG) | [Hold On](https://open.spotify.com/album/32vyKRiiUI07Mqd0KEKL5f) | 3:40 |
 
-Snapshot ID: `AAAAAPiRR4R16on7YrjgIV99S14GUqvM`
+Snapshot ID: `AAAAAP88ODVMp24U5DalSn84Kn6LXADp`

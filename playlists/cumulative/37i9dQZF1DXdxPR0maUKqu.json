@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-31",
+      "date_removed": null,
       "duration_ms": 290740,
       "name": "#\u60c5\u3068\u306f",
       "url": "https://open.spotify.com/track/4Lf4diEdzh2jwa9TnXxxjE"
@@ -502,7 +502,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-27",
       "duration_ms": 325013,
       "name": "cure",
       "url": "https://open.spotify.com/track/5cboBqJD6dc2o4EFPe7pNB"
@@ -3217,6 +3217,24 @@
     },
     {
       "album": {
+        "name": "\u3069\u3046\u3057\u3066\u3082\u3069\u3046\u3057\u3066\u3082",
+        "url": "https://open.spotify.com/album/1FrDTcNmbqprRXn9s9kk8Y"
+      },
+      "artists": [
+        {
+          "name": "back number",
+          "url": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g"
+        }
+      ],
+      "date_added": "2025-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226786,
+      "name": "\u3069\u3046\u3057\u3066\u3082\u3069\u3046\u3057\u3066\u3082",
+      "url": "https://open.spotify.com/track/6hlYmR30RGaHIz4UlVOG2U"
+    },
+    {
+      "album": {
         "name": "\u306a\u3093\u3067\u3082\u306a\u3044\u3088\u3001",
         "url": "https://open.spotify.com/album/3N9QmFGY4WUAJCf7gyvC2S"
       },
@@ -5130,7 +5148,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-26",
+      "date_removed": null,
       "duration_ms": 162280,
       "name": "\u541b\u3068\u7f8a\u3068\u9752",
       "url": "https://open.spotify.com/track/17A3UTMUWzCRn7I42exBhF"
@@ -5472,7 +5490,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-27",
       "duration_ms": 204020,
       "name": "\u5fc3",
       "url": "https://open.spotify.com/track/2IYIeMVCYIZUyzG1td1GW5"
@@ -5814,7 +5832,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-27",
       "duration_ms": 178098,
       "name": "\u65cb\u5f8b\u3068\u7d50\u6676",
       "url": "https://open.spotify.com/track/6NfbsJouzE4184pvhjYVFR"

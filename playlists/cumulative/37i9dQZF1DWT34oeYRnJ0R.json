@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Just vibes. Cover: Junior Zamora",
+  "description": "Just vibes. Cover: Alleh, Yorghaki",
   "name": "Vibras",
   "tracks": [
     {
@@ -4463,6 +4463,28 @@
     },
     {
       "album": {
+        "name": "LA FORMULA",
+        "url": "https://open.spotify.com/album/1g9AHagDJvZfgKXE0IVzIA"
+      },
+      "artists": [
+        {
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+        },
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        }
+      ],
+      "date_added": "2025-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158769,
+      "name": "EN TU MIRADAaaaa",
+      "url": "https://open.spotify.com/track/5Qnq1GhCBSsAkipZtjsVkF"
+    },
+    {
+      "album": {
         "name": "En Tus Sue\u00f1os",
         "url": "https://open.spotify.com/album/5EyekKqaKg0wRgFOG8MSeW"
       },
@@ -5072,7 +5094,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-27",
       "duration_ms": 216437,
       "name": "Fantasma",
       "url": "https://open.spotify.com/track/4trxc6w5LpZoMYWE25Kyds"

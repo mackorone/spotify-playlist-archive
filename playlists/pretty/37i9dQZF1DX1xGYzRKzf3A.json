@@ -1,6 +1,6 @@
 {
   "description": "Tierra linda que siempre sue\u00f1o, y que muy dentro llevo. Ciudad de Monterrey \u2665\ufe0f",
-  "num_followers": 167224,
+  "num_followers": 167264,
   "original_name": "Coraz\u00f3n Regio ",
   "owner": {
     "name": "Spotify",
@@ -335,6 +335,22 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
+        "name": "Las Dos Caras De La Cumbia",
+        "url": "https://open.spotify.com/album/5bkT7Zs72MfeboRvsuYKcg"
+      },
+      "artists": [
+        {
+          "name": "Alberto Y Roberto",
+          "url": "https://open.spotify.com/artist/0OPjgWTre3WA03VewbWbm8"
+        }
+      ],
+      "duration_ms": 229466,
+      "name": "Loco Tu Forma De Ser",
+      "url": "https://open.spotify.com/track/7aBemWBoXLlck9VJECqfVx"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
         "name": "En El Pr\u00f3ximo Big Bang",
         "url": "https://open.spotify.com/album/7cQgKOmoMOPit6b0NPaR3I"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 183243,
       "name": "En El Pr\u00f3ximo Big Bang",
       "url": "https://open.spotify.com/track/6XuvR6CAfIggnWzqtL0Vez"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
-        "name": "Las Dos Caras De La Cumbia",
-        "url": "https://open.spotify.com/album/5bkT7Zs72MfeboRvsuYKcg"
-      },
-      "artists": [
-        {
-          "name": "Alberto Y Roberto",
-          "url": "https://open.spotify.com/artist/0OPjgWTre3WA03VewbWbm8"
-        }
-      ],
-      "duration_ms": 229466,
-      "name": "Loco Tu Forma De Ser",
-      "url": "https://open.spotify.com/track/7aBemWBoXLlck9VJECqfVx"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -703,42 +703,6 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "Canciones Mamalonas",
-        "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 193421,
-      "name": "Desde Cero (feat. Santa Fe Klan)",
-      "url": "https://open.spotify.com/track/4sPJjs8vUK0tt9mIrpq6Ye"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
-        "name": "Libres Y Locos",
-        "url": "https://open.spotify.com/album/1SV999B0t8KsUxb2RIE65E"
-      },
-      "artists": [
-        {
-          "name": "El Gran Silencio",
-          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
-        }
-      ],
-      "duration_ms": 187493,
-      "name": "Dormir So\u00f1ando",
-      "url": "https://open.spotify.com/track/4pfMrRwgqGH8uRKEnRK3uB"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
         "name": "Modo Placoson",
         "url": "https://open.spotify.com/album/2elL3WKF6llpZRfFf40L0E"
       },
@@ -763,26 +727,38 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "Se Alinearon Los Planetas",
-        "url": "https://open.spotify.com/album/0cYR192hnEFfTCjfqAnigQ"
+        "name": "Libres Y Locos",
+        "url": "https://open.spotify.com/album/1SV999B0t8KsUxb2RIE65E"
       },
       "artists": [
         {
-          "name": "Los Rojos",
-          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
-        },
-        {
-          "name": "Duelo",
-          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
-        },
-        {
-          "name": "Oscar Iv\u00e1n Trev\u00edno",
-          "url": "https://open.spotify.com/artist/5pPdYQPzWpb1XnsNqE6OOz"
+          "name": "El Gran Silencio",
+          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
         }
       ],
-      "duration_ms": 188400,
-      "name": "A M\u00ed Me Gustas T\u00fa",
-      "url": "https://open.spotify.com/track/1EaKvr4fXEolYtb37KLrE5"
+      "duration_ms": 187493,
+      "name": "Dormir So\u00f1ando",
+      "url": "https://open.spotify.com/track/4pfMrRwgqGH8uRKEnRK3uB"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "Canciones Mamalonas",
+        "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 193421,
+      "name": "Desde Cero (feat. Santa Fe Klan)",
+      "url": "https://open.spotify.com/track/4sPJjs8vUK0tt9mIrpq6Ye"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -803,6 +779,30 @@
       "duration_ms": 158160,
       "name": "Hasta La Madre",
       "url": "https://open.spotify.com/track/1nDvFYTsaQwxt5CTk7LJ5E"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "Se Alinearon Los Planetas",
+        "url": "https://open.spotify.com/album/0cYR192hnEFfTCjfqAnigQ"
+      },
+      "artists": [
+        {
+          "name": "Los Rojos",
+          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
+        },
+        {
+          "name": "Duelo",
+          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
+        },
+        {
+          "name": "Oscar Iv\u00e1n Trev\u00edno",
+          "url": "https://open.spotify.com/artist/5pPdYQPzWpb1XnsNqE6OOz"
+        }
+      ],
+      "duration_ms": 188400,
+      "name": "A M\u00ed Me Gustas T\u00fa",
+      "url": "https://open.spotify.com/track/1EaKvr4fXEolYtb37KLrE5"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -1243,6 +1243,30 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
+        "name": "Ojitos Marrones",
+        "url": "https://open.spotify.com/album/3M7K0c2pl62cVctv7EkFGp"
+      },
+      "artists": [
+        {
+          "name": "EL DE LA TINTA",
+          "url": "https://open.spotify.com/artist/6VNymaTBHnYKnBfST2A5Cv"
+        },
+        {
+          "name": "Daren",
+          "url": "https://open.spotify.com/artist/6DaJwc5ofkN35XEEKDPNfP"
+        },
+        {
+          "name": "CASSIEL",
+          "url": "https://open.spotify.com/artist/7garodxscfvvXiYHuOScUG"
+        }
+      ],
+      "duration_ms": 199285,
+      "name": "Ojitos Marrones",
+      "url": "https://open.spotify.com/track/25i0Ze7Ht7yh5IbaEB6rUe"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
         "name": "Alucina2",
         "url": "https://open.spotify.com/album/3ZNQvcoa9WX9HTgUxeQI1o"
       },
@@ -1267,30 +1291,6 @@
       "duration_ms": 142802,
       "name": "EXCESO",
       "url": "https://open.spotify.com/track/4L0ezHukewSynWMb37L2PO"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
-        "name": "Ojitos Marrones",
-        "url": "https://open.spotify.com/album/3M7K0c2pl62cVctv7EkFGp"
-      },
-      "artists": [
-        {
-          "name": "EL DE LA TINTA",
-          "url": "https://open.spotify.com/artist/6VNymaTBHnYKnBfST2A5Cv"
-        },
-        {
-          "name": "Daren",
-          "url": "https://open.spotify.com/artist/6DaJwc5ofkN35XEEKDPNfP"
-        },
-        {
-          "name": "CASSIEL",
-          "url": "https://open.spotify.com/artist/7garodxscfvvXiYHuOScUG"
-        }
-      ],
-      "duration_ms": 199285,
-      "name": "Ojitos Marrones",
-      "url": "https://open.spotify.com/track/25i0Ze7Ht7yh5IbaEB6rUe"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "Rotos",
-        "url": "https://open.spotify.com/album/1jRStAl5pbm9EpHLQsNnKz"
-      },
-      "artists": [
-        {
-          "name": "Young Tender",
-          "url": "https://open.spotify.com/artist/19g2jApswUTCNqXFxx2lAx"
-        }
-      ],
-      "duration_ms": 202670,
-      "name": "Me Gustas",
-      "url": "https://open.spotify.com/track/0JfsIu62NVXNQl2s7ATN37"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
         "name": "Adiamantado",
         "url": "https://open.spotify.com/album/0x1egjkD9PUoH2w5nKyIp6"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 171971,
       "name": "Mustangson",
       "url": "https://open.spotify.com/track/20Btm1q3Si7jvfAWNzDYLd"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "Rotos",
+        "url": "https://open.spotify.com/album/1jRStAl5pbm9EpHLQsNnKz"
+      },
+      "artists": [
+        {
+          "name": "Young Tender",
+          "url": "https://open.spotify.com/artist/19g2jApswUTCNqXFxx2lAx"
+        }
+      ],
+      "duration_ms": 202670,
+      "name": "Me Gustas",
+      "url": "https://open.spotify.com/track/0JfsIu62NVXNQl2s7ATN37"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
+        "name": "Comienza la Dinast\u00eda",
+        "url": "https://open.spotify.com/album/5amCWiTFY5plEsClsvBFZH"
+      },
+      "artists": [
+        {
+          "name": "Los Rojos",
+          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
+        }
+      ],
+      "duration_ms": 145540,
+      "name": "El Bomb\u00f3n",
+      "url": "https://open.spotify.com/track/19QUKukqnzvmAD49aymywz"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
         "name": "Deb\u00ed Suponerlo (Versi\u00f3n Mariachi)",
         "url": "https://open.spotify.com/album/21ENHysoKWXYrrp9jvDJgM"
       },
@@ -1635,22 +1651,6 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "Comienza la Dinast\u00eda",
-        "url": "https://open.spotify.com/album/5amCWiTFY5plEsClsvBFZH"
-      },
-      "artists": [
-        {
-          "name": "Los Rojos",
-          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
-        }
-      ],
-      "duration_ms": 145540,
-      "name": "El Bomb\u00f3n",
-      "url": "https://open.spotify.com/track/19QUKukqnzvmAD49aymywz"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
         "name": "Adios",
         "url": "https://open.spotify.com/album/7tgREtNFckExy20QnRUJpF"
       },
@@ -1663,26 +1663,6 @@
       "duration_ms": 204107,
       "name": "Adios",
       "url": "https://open.spotify.com/track/6fkxCIVDhGYuQfZO6f4PtW"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
-        "name": "Epicentro Live (Desde Monterrey, M\u00e9xico)",
-        "url": "https://open.spotify.com/album/4Y3TnnR2RL0CvLayGIqqbw"
-      },
-      "artists": [
-        {
-          "name": "V\u00e1stago Epicentro",
-          "url": "https://open.spotify.com/artist/2QsFnVJDNGsrjUWB4q6GVT"
-        },
-        {
-          "name": "Melissa Romero",
-          "url": "https://open.spotify.com/artist/4SdbDEZNjyPme83PlLVilY"
-        }
-      ],
-      "duration_ms": 278720,
-      "name": "Quiero Volver - Live",
-      "url": "https://open.spotify.com/track/0kqd5SeMisUXEHxwHVNXVZ"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -1715,22 +1695,22 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "NECIA",
-        "url": "https://open.spotify.com/album/3UkGnHED6tOV5fKgWCPBOX"
+        "name": "Epicentro Live (Desde Monterrey, M\u00e9xico)",
+        "url": "https://open.spotify.com/album/4Y3TnnR2RL0CvLayGIqqbw"
       },
       "artists": [
         {
-          "name": "Sahir Montoya",
-          "url": "https://open.spotify.com/artist/7x5TwK8zGLmVk8k8zIEIrX"
+          "name": "V\u00e1stago Epicentro",
+          "url": "https://open.spotify.com/artist/2QsFnVJDNGsrjUWB4q6GVT"
         },
         {
-          "name": "Estevan Plazola",
-          "url": "https://open.spotify.com/artist/4Rh80sXmcG4xDP1r6dTNiQ"
+          "name": "Melissa Romero",
+          "url": "https://open.spotify.com/artist/4SdbDEZNjyPme83PlLVilY"
         }
       ],
-      "duration_ms": 183607,
-      "name": "NECIA",
-      "url": "https://open.spotify.com/track/1IUtvjwL9BWq3vaQpJbvDr"
+      "duration_ms": 278720,
+      "name": "Quiero Volver - Live",
+      "url": "https://open.spotify.com/track/0kqd5SeMisUXEHxwHVNXVZ"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -1747,6 +1727,26 @@
       "duration_ms": 201538,
       "name": "Cumbia Lunera",
       "url": "https://open.spotify.com/track/6X9AbFeo1MYxfJco7BiSS2"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "NECIA",
+        "url": "https://open.spotify.com/album/3UkGnHED6tOV5fKgWCPBOX"
+      },
+      "artists": [
+        {
+          "name": "Sahir Montoya",
+          "url": "https://open.spotify.com/artist/7x5TwK8zGLmVk8k8zIEIrX"
+        },
+        {
+          "name": "Estevan Plazola",
+          "url": "https://open.spotify.com/artist/4Rh80sXmcG4xDP1r6dTNiQ"
+        }
+      ],
+      "duration_ms": 183607,
+      "name": "NECIA",
+      "url": "https://open.spotify.com/track/1IUtvjwL9BWq3vaQpJbvDr"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -2119,22 +2119,6 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
-        "name": "Ser M\u00e1s Que Tu Amigo",
-        "url": "https://open.spotify.com/album/6y7TN2VbtICzbzoW65hGgC"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 187441,
-      "name": "Ser M\u00e1s Que Tu Amigo",
-      "url": "https://open.spotify.com/track/5Czzc6WmcAQKOTJHQndeYy"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
         "name": "GOZANDO",
         "url": "https://open.spotify.com/album/0pkGTdK0VXyp4kIp1jGBKH"
       },
@@ -2155,6 +2139,22 @@
       "duration_ms": 171692,
       "name": "GOZANDO",
       "url": "https://open.spotify.com/track/0G2tnDWqlwEUOY4rzh6YTt"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
+        "name": "Ser M\u00e1s Que Tu Amigo",
+        "url": "https://open.spotify.com/album/6y7TN2VbtICzbzoW65hGgC"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 187441,
+      "name": "Ser M\u00e1s Que Tu Amigo",
+      "url": "https://open.spotify.com/track/5Czzc6WmcAQKOTJHQndeYy"
     },
     {
       "added_at": "2025-11-09 06:50:57",
@@ -2339,6 +2339,26 @@
     {
       "added_at": "2025-11-09 06:50:57",
       "album": {
+        "name": "Cumbia Nocturnal",
+        "url": "https://open.spotify.com/album/3eUmnu6QSEGfk2DWZ3Am7P"
+      },
+      "artists": [
+        {
+          "name": "Los Morales",
+          "url": "https://open.spotify.com/artist/6ApQFyQipz7e35stMrNG4h"
+        },
+        {
+          "name": "Secretto",
+          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
+        }
+      ],
+      "duration_ms": 213042,
+      "name": "Cumbia Nocturnal",
+      "url": "https://open.spotify.com/track/66qKgeembM5aZZ2cOUQImh"
+    },
+    {
+      "added_at": "2025-11-09 06:50:57",
+      "album": {
         "name": "ODISEA",
         "url": "https://open.spotify.com/album/0QBpC9iFLo1419rOGBmUcP"
       },
@@ -2427,26 +2447,6 @@
       "duration_ms": 120000,
       "name": "Venimi",
       "url": "https://open.spotify.com/track/0faGhdyDvoqG38vhaHjl3E"
-    },
-    {
-      "added_at": "2025-11-09 06:50:57",
-      "album": {
-        "name": "Cumbia Nocturnal",
-        "url": "https://open.spotify.com/album/3eUmnu6QSEGfk2DWZ3Am7P"
-      },
-      "artists": [
-        {
-          "name": "Los Morales",
-          "url": "https://open.spotify.com/artist/6ApQFyQipz7e35stMrNG4h"
-        },
-        {
-          "name": "Secretto",
-          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
-        }
-      ],
-      "duration_ms": 213042,
-      "name": "Cumbia Nocturnal",
-      "url": "https://open.spotify.com/track/66qKgeembM5aZZ2cOUQImh"
     },
     {
       "added_at": "2025-11-09 06:50:57",

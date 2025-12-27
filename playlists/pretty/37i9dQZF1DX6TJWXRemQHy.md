@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TJWXRemQHy.md) - [plain]
 
 > An ambient + rain playlist\. Blurred city lights, empty sidewalks, and windowpane reflections 🌧️
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,917 likes - 112 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,936 likes - 112 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TJWXRemQHy.md) - [plain]
 | 111 | [Directions](https://open.spotify.com/track/0j5pGHcHfaYMgCnKh46B75) | [Ari Einarsson](https://open.spotify.com/artist/4phG0P0DDFhm0ZORDBMaSk) | [Directions](https://open.spotify.com/album/0XPHpeVd1PncGvhfuTfXIo) | 2:28 |
 | 112 | [Peace](https://open.spotify.com/track/2TWXbfh28wZfeD7tvdysd9) | [So Lis](https://open.spotify.com/artist/79guO4ndu3WasS8qTpee8n) | [Peace](https://open.spotify.com/album/3qfYDbvue5LJxdajzGfPCK) | 2:58 |
 
-Snapshot ID: `AAAAALqtZHTJ2cNhjkMS5hJspSFaMFjt`
+Snapshot ID: `AAAAAM7rg/uIJG41hcFFVV+z239fOtsS`

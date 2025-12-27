@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 
 > świeże brzmienia na horyzoncie ✨ Cover: Paula Biskup
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,552 likes - 65 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,574 likes - 65 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 | 15 | [grudzień](https://open.spotify.com/track/0HFAnKwahoPraQZdVv0nXk) | [Wiktoria Zwolińska](https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf) | [grudzień](https://open.spotify.com/album/2IEZYZnUxlIfIIizQzq8HE) | 2:22 |
 | 16 | [Nic nie płonie](https://open.spotify.com/track/6fEbkXBEE4aQXZf6B9Eh1m) | [metro](https://open.spotify.com/artist/5TuV5KauTXLFX1ODD7mEb0) | [Nic nie płonie](https://open.spotify.com/album/5y7ZttStHIgf34N5zJlWNB) | 2:57 |
 | 17 | [Firdygałki](https://open.spotify.com/track/7HjSGd75KfBbKAEcMZogKi) | [maks.tachasiuk](https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz) | [Firdygałki](https://open.spotify.com/album/3hvfKTYWgFdqtmFOby3LZr) | 3:53 |
-| 18 | [ZANOSI SIĘ NA MIŁOŚĆ](https://open.spotify.com/track/3rvz9XIZF5H25FmaTcUYbo) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4), [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [ZANOSI SIĘ NA MIŁOŚĆ](https://open.spotify.com/album/7H6cI48ILXDzycxzkKO2Xn) | 3:37 |
-| 19 | [Też Tak Masz](https://open.spotify.com/track/0A6enj2y1LHSRTrm30x2XY) | [Mateusz Ciawłowski](https://open.spotify.com/artist/1q4RfhB42Y6UbK3b5JFHqF) | [Myśli Rozdarte](https://open.spotify.com/album/1ptjbYGQATuPfahXXpljxc) | 2:36 |
+| 18 | [Też Tak Masz](https://open.spotify.com/track/0A6enj2y1LHSRTrm30x2XY) | [Mateusz Ciawłowski](https://open.spotify.com/artist/1q4RfhB42Y6UbK3b5JFHqF) | [Myśli Rozdarte](https://open.spotify.com/album/1ptjbYGQATuPfahXXpljxc) | 2:36 |
+| 19 | [ZANOSI SIĘ NA MIŁOŚĆ](https://open.spotify.com/track/3rvz9XIZF5H25FmaTcUYbo) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4), [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [ZANOSI SIĘ NA MIŁOŚĆ](https://open.spotify.com/album/7H6cI48ILXDzycxzkKO2Xn) | 3:37 |
 | 20 | [Seasons](https://open.spotify.com/track/3Q1mdCdHFW90vVlYW9a4v0) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Seasons](https://open.spotify.com/album/4pCwB9EfmPkql5jbrWkyT0) | 2:45 |
 | 21 | [Nie płacz za mną zbyt często!](https://open.spotify.com/track/2f6UPHuNkMeYEXCCTT56XM) | [Krzyk Mody](https://open.spotify.com/artist/1agF5GG699g32QKbI46t4X), [ZORZA](https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX) | [Nie płacz za mną zbyt często!](https://open.spotify.com/album/2Xb1h8uZBqXjUescM4L4Me) | 3:07 |
 | 22 | [Mów do Mnie](https://open.spotify.com/track/2SSzVxGRaNdP86juW7aEJ3) | [OG KAMKA](https://open.spotify.com/artist/4PWPZvjcjwtAh07gTsNPTb), [Viki Gabor](https://open.spotify.com/artist/3yCRvilOBzRkyxOsOi4tsR) | [Mów do Mnie](https://open.spotify.com/album/6OayOjwX7kDU1ZhDAEJEIJ) | 2:38 |
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 | 50 | [dookoła mnie](https://open.spotify.com/track/34QjFSfFR6oi9nUKb0jLWA) | [emi](https://open.spotify.com/artist/1cIGr563sge3dInoMsn0Cu) | [dookoła mnie](https://open.spotify.com/album/7AF2nxYKHzJM1C7PpI94og) | 2:04 |
 | 51 | [bravo girl](https://open.spotify.com/track/6scotc51WCWORRDKDjUL2B) | [Lotta](https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs) | [bravo girl](https://open.spotify.com/album/7vi5jgKCTShlsAbnSEiNK3) | 3:05 |
 | 52 | [PASSPORT](https://open.spotify.com/track/6PWfx76OvEAGRcomQSdJnt) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [PASSPORT](https://open.spotify.com/album/3EFv9uC4C4kSP3osSDiJ1K) | 2:11 |
-| 53 | [Boisz się](https://open.spotify.com/track/5OPDVu8yGItlFz8BsVQkF4) | [Sad Smiles](https://open.spotify.com/artist/5LISNIIF2dVg8fxzZImkzo), [Arek Kłusowski](https://open.spotify.com/artist/34wHojIYy5Nrua9isD46O6) | [Boisz się](https://open.spotify.com/album/5O7WpfdyHWZiqzIVclkOwX) | 3:01 |
+| 53 | [Chcę się z Tobą bawić](https://open.spotify.com/track/0zP8wabUyDzx6O36m9DvOc) | [Jadwiga Zarzycka](https://open.spotify.com/artist/2mXL9q8CcQ1pfou5ajYXZ0), [Maria Sadowska](https://open.spotify.com/artist/4zjvLsSNVpp8A95RZb7ryC) | [Chcę się z Tobą bawić](https://open.spotify.com/album/1mo1ZbH9DQDqB17ms82ahA) | 3:26 |
 | 54 | [Koniec](https://open.spotify.com/track/71bxgWtZXnLiJwEYqywrwV) | [Miłosz Skierski](https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ) | [Koniec](https://open.spotify.com/album/03ruuVqjCUVBvicIlCRDkO) | 3:25 |
-| 55 | [Chcę się z Tobą bawić](https://open.spotify.com/track/0zP8wabUyDzx6O36m9DvOc) | [Jadwiga Zarzycka](https://open.spotify.com/artist/2mXL9q8CcQ1pfou5ajYXZ0), [Maria Sadowska](https://open.spotify.com/artist/4zjvLsSNVpp8A95RZb7ryC) | [Chcę się z Tobą bawić](https://open.spotify.com/album/1mo1ZbH9DQDqB17ms82ahA) | 3:26 |
+| 55 | [Boisz się](https://open.spotify.com/track/5OPDVu8yGItlFz8BsVQkF4) | [Sad Smiles](https://open.spotify.com/artist/5LISNIIF2dVg8fxzZImkzo), [Arek Kłusowski](https://open.spotify.com/artist/34wHojIYy5Nrua9isD46O6) | [Boisz się](https://open.spotify.com/album/5O7WpfdyHWZiqzIVclkOwX) | 3:01 |
 | 56 | [jesień](https://open.spotify.com/track/6pty2jiElxYbooIRAnXnfe) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [jesień](https://open.spotify.com/album/3SJym37rMN5fMO5H5E06WZ) | 2:04 |
 | 57 | [szczerze, mega mocne](https://open.spotify.com/track/11kYDoSAlArh9NwUqYkH2v) | [Aleksander Kępka](https://open.spotify.com/artist/4G5MUSlOocInMqJAwe2A6x), [Ghosty](https://open.spotify.com/artist/4sqVihUCnOHMXHrhEQczy2) | [szczerze, mega mocne](https://open.spotify.com/album/1R2RIFqYopV7N0L6QlKARu) | 2:33 |
 | 58 | [Nikt nie kocha tak jak my](https://open.spotify.com/track/57u3Of5EWepGyW3RoQLYUh) | [Felivers](https://open.spotify.com/artist/0jEJGHxA3gkLdjviT1H0wk) | [Nikt nie kocha tak jak my](https://open.spotify.com/album/6lhSc2frDZ90V9cEUx46ii) | 3:01 |

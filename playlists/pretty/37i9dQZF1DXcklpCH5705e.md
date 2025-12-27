@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcklpCH5705e.md) - [plain]
 
 > Hotpot & HOTPOP 我們都愛！新鮮滾熱辣 Mando\-HOTpop track ! Cover: Gareth.T x 攬佬SKAI ISYOURGOD
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,907 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,903 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcklpCH5705e.md) - [plain]
 | 46 | [我們的愛](https://open.spotify.com/track/7MPYCnyGDMDhaA0O6L6NqU) | [Kimberley Chen](https://open.spotify.com/artist/1dVbVQZjRGDjQmHD8oiS8k) | [我們的愛](https://open.spotify.com/album/0ZYOeGzoWt9l5yWrw64Jh3) | 3:19 |
 | 47 | [Fish Love](https://open.spotify.com/track/2mchvAmESMEQzuVBB07qAe) | [JOLIN](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [Pleasure](https://open.spotify.com/album/0LbR39fJOYWdaJ7sHfcYtF) | 3:10 |
 | 48 | [看着我的眼睛说](https://open.spotify.com/track/5cOXSOo4olhVLVSpQBvQaP) | [张远](https://open.spotify.com/artist/4Q6r8rqOodVCDkbAYm7F18) | [看着我的眼睛说](https://open.spotify.com/album/1QNyyhTWQ72AGuv88AJqOj) | 4:20 |
-| 49 | [大展鴻圖\(Blueprint Supreme\)](https://open.spotify.com/track/0hEWvzkgbI301JZj947gFz) | [攬佬SKAI ISYOURGOD](https://open.spotify.com/artist/4LUmhH4A1lvFljre6d00NI), [AR刘夫阳](https://open.spotify.com/artist/0Ayv7StVio9fi017JAgu45) | [八方來財\(Stacks from All Sides\)](https://open.spotify.com/album/5vYWbmWrSSBskg28cRmcjg) | 3:31 |
+| 49 | [大展鴻圖\(Blueprint Supreme\)](https://open.spotify.com/track/0hEWvzkgbI301JZj947gFz) | [攬佬SKAI ISYOURGOD](https://open.spotify.com/artist/4LUmhH4A1lvFljre6d00NI), [AR刘夫阳](https://open.spotify.com/artist/0Ayv7StVio9fi017JAgu45) | [八方來財\(Stacks from All Sides\)](https://open.spotify.com/album/5vYWbmWrSSBskg28cRmcjg) | 3:32 |
 | 50 | [Colourbration](https://open.spotify.com/track/6rOtcm4d8TjbZf66CLwLtt) | [Straw 林水草](https://open.spotify.com/artist/4J9NMdvmSkuuD8ZgoBcTdv) | [Colourbration](https://open.spotify.com/album/3VYoCAmw16y857qOukiITb) | 3:01 |
 | 51 | [善后](https://open.spotify.com/track/6gYS6CQc7UMnj0Ubq3C0QT) | [马师傅](https://open.spotify.com/artist/0M668HC4fq39Ls98rUdsyS) | [善后](https://open.spotify.com/album/0v0ZrjSyK6uMaxdEzJOaPT) | 4:14 |
 | 52 | [撕裂傷](https://open.spotify.com/track/1v9QN1wkQ0pYBDxTrKQLEa) | [Andrew Tan](https://open.spotify.com/artist/5AhK8gDgOZT7lE1UlbyF1c) | [撕裂傷](https://open.spotify.com/album/2bFzNrslXFRgq21BC3MKox) | 3:28 |

@@ -2,9 +2,9 @@
 
 ### [sad sierreño](https://open.spotify.com/playlist/37i9dQZF1DWZQGZ7yvpH00)
 
-> guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Ivan Cornejo en portada.
+> guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Neton Vega en portada.
 
-553 songs - 1 day 6 hr 31 min
+555 songs - 1 day 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -293,6 +293,7 @@
 | [Neta](https://open.spotify.com/track/6Q2UhuLaPUlC9VANQOjPxo) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [THE GB](https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc) | 2:59 | 2024-06-07 | 2025-09-13 |
 | [Next](https://open.spotify.com/track/2QpmB0XYs7ndRfCC2Setb7) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Next](https://open.spotify.com/album/2lOFcUTSeuQ0l7GOpZAKmW) | 2:33 | 2024-10-11 | 2025-01-11 |
 | [Ni Fiestas, Ni Flores \- Spotify Single](https://open.spotify.com/track/1oHwG6fCf9dydOfHqO2Xhx) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Kevin AMF](https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Ni Fiestas, Ni Flores \- Spotify Single](https://open.spotify.com/album/120GvzgCQeq4nYW1cKVi7r) | 3:05 | 2024-10-10 | 2025-01-11 |
+| [ni pedo](https://open.spotify.com/track/7xLfNI4gRNTu6FyXJlzBW5) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [DINASTÍA](https://open.spotify.com/album/3kJfKZWulX2oyatVMvDx6a) | 3:07 | 2025-12-26 |  |
 | [Nivel Dios](https://open.spotify.com/track/2fQDPWL8HKiiAC3l95dXJO) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A), [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [Nivel Dios](https://open.spotify.com/album/4kqA5xSxfGhwH7OubMCZQl) | 2:31 | 2024-05-17 | 2024-06-08 |
 | [No Eres La Oficial](https://open.spotify.com/track/7LYWPZL216dyiN02mjefro) | [David Santos](https://open.spotify.com/artist/3sc9qeCcbKwYiiBspwVUzU) | [No Eres La Oficial](https://open.spotify.com/album/3Y1AadLWzuo9uXJ2SD0w8V) | 3:20 | 2021-11-22 | 2022-06-25 |
 | [No Eres La Oficial](https://open.spotify.com/track/7qWvY6pXosRyh86pGKhXr5) | [David Santos](https://open.spotify.com/artist/3sc9qeCcbKwYiiBspwVUzU) | [No Eres La Oficial](https://open.spotify.com/album/7AjLQs5QZBduKDXxb8lYwh) | 3:20 | 2025-01-10 | 2025-02-15 |
@@ -338,7 +339,7 @@
 | [Para Ser Sincero](https://open.spotify.com/track/3vRunC5olGPKJ0eCaOjfub) | [Tony Loya](https://open.spotify.com/artist/6n4UZ6Nju0cFj8VSoYCN6L) | [Para Ser Sincero](https://open.spotify.com/album/3wXAgJyolPbsFues6JCA04) | 2:56 | 2025-03-21 | 2025-04-12 |
 | [PATRAS \(with Yahritza Y Su Esencia\)](https://open.spotify.com/track/07vIX6wlThl9fY6Zvcm9T9) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [ESQUINAS](https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6) | 2:51 | 2023-09-29 | 2023-10-14 |
 | [Peda Con Cupido](https://open.spotify.com/track/20IUekuGgFB9axiqb3k3Ss) | [Alta Elegancia](https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2) | [Peda Con Cupido](https://open.spotify.com/album/6OkJy8eT1jXkn5vAgdlOoc) | 2:30 | 2024-03-08 | 2024-05-04 |
-| [Pedir Perdón](https://open.spotify.com/track/1yyKIpqVn7n3RS7XMteTnx) | [Omar Moreno](https://open.spotify.com/artist/1DICukNniEOuLsJzhF4C9y) | [Pedir Perdón](https://open.spotify.com/album/0W1BsSepLSfvwXv4xpD4fs) | 3:02 | 2025-10-17 |  |
+| [Pedir Perdón](https://open.spotify.com/track/1yyKIpqVn7n3RS7XMteTnx) | [Omar Moreno](https://open.spotify.com/artist/1DICukNniEOuLsJzhF4C9y) | [Pedir Perdón](https://open.spotify.com/album/0W1BsSepLSfvwXv4xpD4fs) | 3:02 | 2025-10-17 | 2025-12-27 |
 | [PENSANDO Y PENSANDO](https://open.spotify.com/track/7dVY5BkyRtWQM3I3Mnog3k) | [Armenta](https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX) | [PENSANDO Y PENSANDO](https://open.spotify.com/album/6ImDSXC8NMv7gdwNIuXtMO) | 3:26 | 2025-05-30 | 2025-09-06 |
 | [Peonia](https://open.spotify.com/track/7kabKZcIsgr5WS5HU94sif) | [Uriel S\. Vázquez](https://open.spotify.com/artist/4s3ux0QXjgaBei8QhxipQ4) | [Peonia](https://open.spotify.com/album/4PATQVUcznSUjIJUq0KET5) | 2:25 | 2024-01-26 | 2024-05-04 |
 | [PERDIDO](https://open.spotify.com/track/09yqAGrQhJvF9FCTM7cLOM) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [PERDIDO](https://open.spotify.com/album/1bySzNQNPElENKhS564NkO) | 2:36 | 2025-03-10 | 2025-05-24 |
@@ -400,7 +401,7 @@
 | [Recuerdos](https://open.spotify.com/track/1RsnpWuoSoLeApFoIUXbRC) | [Axel Coronado](https://open.spotify.com/artist/0ENnLGIyn0wUQ2sZ1jlTpO), [D\. PHANTØM](https://open.spotify.com/artist/24ElwyRXmzeJZCtsAR84Yh) | [Recuerdos](https://open.spotify.com/album/3IcJ6UuwJEAPzZQW1fIoDd) | 3:29 | 2025-08-29 |  |
 | [Reina De Mi Amor](https://open.spotify.com/track/0jR9yktMaTQcaCVWCkq6zV) | [Tania Dominguez](https://open.spotify.com/artist/1GijCBCaciNgWn7Z0HeZ7v) | [Reina De Mi Amor](https://open.spotify.com/album/1vtIbdkq7ThJ685gWkMwEP) | 2:18 | 2022-09-02 | 2023-01-14 |
 | [RELOJ](https://open.spotify.com/track/2DXK0YNGSqnaIEX5iaSIoK) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [ÉXODO](https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf) | 3:52 | 2024-06-21 | 2025-09-06 |
-| [Rewind](https://open.spotify.com/track/1Oo5QV1XmVlNaCAithR23t) | [Billy Manhattan](https://open.spotify.com/artist/1I9GlumEmT1pb0nGd36INy), [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E) | [Rewind](https://open.spotify.com/album/3BcDq7RJRxlNHNU5gphQ38) | 2:26 | 2025-10-03 |  |
+| [Rewind](https://open.spotify.com/track/1Oo5QV1XmVlNaCAithR23t) | [Billy Manhattan](https://open.spotify.com/artist/1I9GlumEmT1pb0nGd36INy), [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E) | [Rewind](https://open.spotify.com/album/3BcDq7RJRxlNHNU5gphQ38) | 2:26 | 2025-10-03 | 2025-12-27 |
 | [RLUX](https://open.spotify.com/track/3BdKQmGT9NVR3wQP9rNkf2) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [RLUX](https://open.spotify.com/album/24PEFKJq2jgNlPbNnijTqo) | 3:40 | 2024-04-05 | 2024-05-18 |
 | [Romántico Sin Esperanza](https://open.spotify.com/track/67svGSol1sZToqPpQApfeu) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT) | [Romántico Sin Esperanza](https://open.spotify.com/album/4FoLGkUz69nw3aba09YOaV) | 2:56 | 2025-05-23 | 2025-08-30 |
 | [Ropa de Bazar](https://open.spotify.com/track/3537Ai6IAzCsNh6gXmqi1a) | [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu), [Miranda León](https://open.spotify.com/artist/5JpxOTduIHuTcuosdLBC14) | [Ropa de Bazar](https://open.spotify.com/album/3MUk2wK0l0Haz4aTqVI5el) | 2:50 | 2024-06-07 | 2024-10-26 |
@@ -490,6 +491,7 @@
 | [Tristeza Y Traicion](https://open.spotify.com/track/6dRAEG6dmMfP5SS9Vh1s56) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Love </3](https://open.spotify.com/album/6dgBlaN3n2sALXgwzIRmBn) | 3:39 | 2021-11-26 | 2023-02-18 |
 | [Tu Belleza](https://open.spotify.com/track/7J9QvKA6f5BhZtRbWnL7tI) | [Christian Lara](https://open.spotify.com/artist/0eptefgBKrNB6UAZvrX9c5), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Tu Belleza](https://open.spotify.com/album/3wzeBIxedazMhG0oiSryZ8) | 3:20 | 2023-11-17 | 2024-01-06 |
 | [Tu Casi Algo](https://open.spotify.com/track/4rdZeiurMmbCBov3ON3oC0) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Fabio Capri](https://open.spotify.com/artist/1SvS3C2cttLfpWzIIQiPAq) | [NEXT](https://open.spotify.com/album/1bWcE0tKOJgn4kgpNKSHU0) | 2:57 | 2024-11-15 | 2025-06-07 |
+| [tu con el](https://open.spotify.com/track/2A2x5MZB5OrnnKkVOxx5dp) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [DINASTÍA](https://open.spotify.com/album/3kJfKZWulX2oyatVMvDx6a) | 2:45 | 2025-12-26 |  |
 | [Tu Cárcel](https://open.spotify.com/track/6nGFs4LS1OAFisgl8TnoRP) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Tu Cárcel](https://open.spotify.com/album/7y91LphJdXnffzem6Gh6Wk) | 3:46 | 2024-03-22 | 2024-05-04 |
 | [Tu decisión](https://open.spotify.com/track/0F2aCrMaX2jiGBGmyBTy9R) | [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Tu decisión](https://open.spotify.com/album/2DMbxG78FoNUx2oGK2SF9f) | 2:31 | 2023-07-07 | 2023-09-30 |
 | [Tu Forma De Ser](https://open.spotify.com/track/1y37LxehbizxpfjqE6dbFC) | [Linea Personal](https://open.spotify.com/artist/5Bb18koIu6bYuvZWzYKkLJ) | [Tu Forma De Ser](https://open.spotify.com/album/5Sv5NVXo059Wwim69ipap2) | 3:07 | 2025-01-31 | 2025-05-24 |

@@ -4,7 +4,7 @@
 
 > 日本のポップシーンを彩る最新ベスト50。The hottest hits in Japan right now\. Cover: Number\_i
 
-1,676 songs - 4 day 7 hr 44 min
+1,677 songs - 4 day 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1034,6 +1034,7 @@
 | [つまらない夜](https://open.spotify.com/track/4mAeZfLSMlBB8QLkbRSna7) | [ZOOKARADERU](https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp) | [つまらない夜](https://open.spotify.com/album/4rwHmmlqeg8K2JseloLizx) | 3:26 | 2022-01-09 | 2022-01-17 |
 | [どON](https://open.spotify.com/track/6RVVkxX67l3hPtJf3ggO2J) | [RIP SLYME](https://open.spotify.com/artist/5kgH3qVSSDPPmKnQfrkblH) | [どON](https://open.spotify.com/album/0by9AYORdrbUgLMvDKA0T2) | 3:38 | 2025-04-22 | 2025-05-14 |
 | [どうかしてる](https://open.spotify.com/track/1N7SNqZRZsQzwJNtq2lV6O) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [どうかしてる](https://open.spotify.com/album/3Homeh5wwwJBteBjRAqGQI) | 2:30 | 2025-07-15 | 2025-10-22 |
+| [どうしてもどうしても](https://open.spotify.com/track/6hlYmR30RGaHIz4UlVOG2U) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [どうしてもどうしても](https://open.spotify.com/album/1FrDTcNmbqprRXn9s9kk8Y) | 3:46 | 2025-12-26 |  |
 | [どれにしようかな](https://open.spotify.com/track/18fNMIIjs0Hu2zozNacmad) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [どれにしようかな](https://open.spotify.com/album/3RDkKW3HQFiCqKABAFcFRP) | 2:40 | 2022-02-06 | 2022-03-04 |
 | [なくしもの](https://open.spotify.com/track/5YweKCUXZGqQwTyoPie2ii) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [なくしもの](https://open.spotify.com/album/4IN8SqczK6kX3oa3S6p86K) | 4:10 | 2025-07-01 | 2025-07-16 |
 | [なんでもないよ、](https://open.spotify.com/track/2PFzK3kMDDYKhGnugvNYf1) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [なんでもないよ、](https://open.spotify.com/album/3N9QmFGY4WUAJCf7gyvC2S) | 3:38 | 2021-12-19 | 2022-01-17 |
@@ -1225,7 +1226,7 @@
 | [フリージア](https://open.spotify.com/track/7cSgM4tGBntSdn4LYvPp01) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [フリージア](https://open.spotify.com/album/3JdICP4Yec3FgDeahb2sxm) | 3:41 | 2025-04-15 | 2025-05-07 |
 | [フレンヅ](https://open.spotify.com/track/2YdtxfndCrtPfIgxEOtRjJ) | [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6) | [フレンヅ](https://open.spotify.com/album/5MeXkPPd4wYklmKNEGcq4f) | 2:52 | 2021-12-19 | 2022-01-17 |
 | [フロントメモリー feat\. ACAね\(ずっと真夜中でいいのに。\)](https://open.spotify.com/track/4MIMHYvtiNEWB1giWjnbsU) | [Shinsei Kamattechan](https://open.spotify.com/artist/1ZnuqrjIR4q8zhgriUYsSo), [ACAね](https://open.spotify.com/artist/7tCgZB3cHou13zCzimxILs) | [フロントメモリー feat\. ACAね\(ずっと真夜中でいいのに。\)](https://open.spotify.com/album/6Crv2zTJ77zC1OpnBNjN6w) | 4:53 | 2023-08-27 | 2023-09-04 |
-| [ブルーアンバー](https://open.spotify.com/track/35MeePbBnryubkVG0v8GbI) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [ブルーアンバー](https://open.spotify.com/album/3PHKqNh7HXpmblwGJpcNC0) | 3:27 | 2025-05-06 |  |
+| [ブルーアンバー](https://open.spotify.com/track/35MeePbBnryubkVG0v8GbI) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [ブルーアンバー](https://open.spotify.com/album/3PHKqNh7HXpmblwGJpcNC0) | 3:27 | 2025-05-06 | 2025-12-27 |
 | [ブルーアンビエンス](https://open.spotify.com/track/1S1WSh4uCprvucg6Hx57Eh) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [ブルーアンビエンス](https://open.spotify.com/album/4fbghPZI7ZAQIbO4V7yrVj) | 4:10 | 2022-06-19 | 2022-07-04 |
 | [ブレス](https://open.spotify.com/track/478aouesr5rNFHs1wU4BGC) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [ブレス](https://open.spotify.com/album/7HuXwSDz8oPRxu7qralaeq) | 4:24 | 2022-07-10 | 2022-08-01 |
 | [ブレーメン](https://open.spotify.com/track/007tbArpeenE3cbJU5I3PL) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [ブレーメン](https://open.spotify.com/album/5M3p1zATZMgkEE5CrHu4k0) | 4:34 | 2022-07-10 | 2022-08-01 |

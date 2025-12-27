@@ -2275,6 +2275,24 @@
     },
     {
       "album": {
+        "name": "BAYATI",
+        "url": "https://open.spotify.com/album/1IaXNjdDAOVD1Y1eXLP92c"
+      },
+      "artists": [
+        {
+          "name": "cleaned",
+          "url": "https://open.spotify.com/artist/1yp2KhukqTL1SNjjQDCNj3"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402400,
+      "name": "Prelude in E Minor",
+      "url": "https://open.spotify.com/track/44ZIZqZyUSJciKQzKlGvZf"
+    },
+    {
+      "album": {
         "name": "Night Lights (Expanded Edition)",
         "url": "https://open.spotify.com/album/1uJ9OJIgmgj4ta8xjq9nEJ"
       },
@@ -2290,24 +2308,6 @@
       "duration_ms": 256533,
       "name": "Prelude In E Minor",
       "url": "https://open.spotify.com/track/17OHsQ5RBrU6b9lTaPP0vh"
-    },
-    {
-      "album": {
-        "name": "BAYATI",
-        "url": "https://open.spotify.com/album/1IaXNjdDAOVD1Y1eXLP92c"
-      },
-      "artists": [
-        {
-          "name": "Shahin Novrasli",
-          "url": "https://open.spotify.com/artist/1JeMulk2aODVLXA7qtiUS2"
-        }
-      ],
-      "date_added": "2022-03-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 402400,
-      "name": "Prelude in E Minor",
-      "url": "https://open.spotify.com/track/44ZIZqZyUSJciKQzKlGvZf"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-7,610 songs - 12 day 0 hr 8 min
+7,612 songs - 12 day 0 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2078,6 +2078,7 @@
 | [Everluv](https://open.spotify.com/track/6xbWtSRDzwBsdcSXIbwM2R) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb) | [Everluv](https://open.spotify.com/album/6JSjxjopZ6f8AzAVaal9ey) | 1:33 | 2022-02-25 | 2022-07-29 |
 | [Everly](https://open.spotify.com/track/0i5MyPOBEdET5Be8HkmHcf) | [Phil Gori](https://open.spotify.com/artist/0dAq0AU9wC4mgrz09aPo0e) | [Everly](https://open.spotify.com/album/49UluI49k50f68Q9rSYAGW) | 2:13 | 2022-02-25 | 2022-08-05 |
 | [Every Night](https://open.spotify.com/track/3YJfyZAiUqmliS5wh7W5mu) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [Every Night](https://open.spotify.com/album/4clU8FfiY6wnPlkyfibQQj) | 2:25 | 2020-05-06 | 2020-08-30 |
+| [Every Step Holds Freedom](https://open.spotify.com/track/5aG94YFOXv9ThCM9VmNuYA) | [The Notorious CPU](https://open.spotify.com/artist/0oNKkdrAeLRQROSkaFCrym), [H.1](https://open.spotify.com/artist/3azKf6nXrUCI1RLZkX4Aj6), [The Yume Collective](https://open.spotify.com/artist/7Kdl3c6JU2v41pmXkG31Q7) | [Every Step Holds Freedom](https://open.spotify.com/album/667NU4HyG2Uyj0rTHWTzsp) | 2:27 | 2025-12-26 |  |
 | [everyday pleasures](https://open.spotify.com/track/7nMw0zkhqCjWbIah33WKDW) | [J\. Lorenzo](https://open.spotify.com/artist/1znEpSLL4247fcHcMICTgN) | [everyday pleasures](https://open.spotify.com/album/2gbuI2GJPiURDLUeMNx736) | 2:00 | 2022-04-08 | 2022-08-27 |
 | [Everyone Has Dreams](https://open.spotify.com/track/64O7lkTjxA42N6oILtGttv) | [Zairis Téjion](https://open.spotify.com/artist/0rE1VpSZQX2spjSI4o88r4) | [Everyone Has Dreams](https://open.spotify.com/album/5W6X5UAM1VJ9SIF96tB0Wb) | 2:27 | 2022-02-14 | 2022-07-22 |
 | [Everything](https://open.spotify.com/track/0jVLZCJqvgiT5NpC15yVi9) | [Lisa\_Juice](https://open.spotify.com/artist/0FctMatVxJmVe6FN9pVjNU) | [Everything](https://open.spotify.com/album/1B1K0dQQSXvo9ROu7AUwHY) | 1:51 | 2022-10-28 | 2025-03-29 |
@@ -3250,7 +3251,7 @@
 | [Isn't It Lovely](https://open.spotify.com/track/1cAB3tmKD5PfJfmozNCcfk) | [Donovan's Playground](https://open.spotify.com/artist/67tuLuJ6EoOTR1KntyUnHQ) | [Exclusive Series, Season 3](https://open.spotify.com/album/6AxUgtmSljudfa1BEDQ0Rb) | 2:36 | 2022-04-23 | 2022-05-27 |
 | [Isolate](https://open.spotify.com/track/4bVYbMRSPfIwCPRa3wTxr2) | [Tojo McBee](https://open.spotify.com/artist/6EFSyrUYvhtp1vbYitZMh3) | [Isolate](https://open.spotify.com/album/0iBbvlAHi2yQFftlIXYn7K) | 1:49 | 2022-12-16 | 2023-02-15 |
 | [Isthmus](https://open.spotify.com/track/58c5egFFYyDPggIzBggeOd) | [Mila Coolness](https://open.spotify.com/artist/3gdyXwWMfOPBIZrIDMg40u), [Kevin Kuh](https://open.spotify.com/artist/1H4ZTdZLiTbHn2dAT4bD28) | [Isthmus](https://open.spotify.com/album/0MomEupDPdYtz7m097yFiN) | 3:18 | 2020-06-17 | 2021-10-02 |
-| [Isular](https://open.spotify.com/track/1XzURP8Kqghwdzw1Q3aABz) | [lorleaf](https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y) | [Isular](https://open.spotify.com/album/3S8ysn8QU1zPA1XkzFNzIA) | 1:32 | 2024-09-13 |  |
+| [Isular](https://open.spotify.com/track/1XzURP8Kqghwdzw1Q3aABz) | [lorleaf](https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y) | [Isular](https://open.spotify.com/album/3S8ysn8QU1zPA1XkzFNzIA) | 1:32 | 2024-09-13 | 2025-12-27 |
 | [It hasn't rained in like this in years](https://open.spotify.com/track/6Cm89dtQ8Is63NmkNcb5ha) | [rollerbladie](https://open.spotify.com/artist/2v1qbZxflMpzbTQSQfmwah) | [It hasn't rained in like this in years](https://open.spotify.com/album/2KFQ1RLysJsdKvG2XBk0Hz) | 2:24 | 2023-09-29 | 2025-04-05 |
 | [It is what is it](https://open.spotify.com/track/14QgXqxeCqv1idqIWX6wGk) | [Fashion Allure](https://open.spotify.com/artist/3f2eVgVyrMtQwwp1Ev1Zkc) | [It is what is it](https://open.spotify.com/album/4i9u4pg04x2jEhx0GYjOoA) | 2:08 | 2025-01-10 | 2025-06-07 |
 | [it rained as you said goodbye](https://open.spotify.com/track/02cK2eJHA5owTGNRg7EW0q) | [deadman 死人](https://open.spotify.com/artist/1IAIRAvJCUc01U0doDVKN9) | [it rained as you said goodbye](https://open.spotify.com/album/4mho7V3F2YMbVIIiOPBgMj) | 2:22 | 2025-11-07 |  |
@@ -4377,7 +4378,7 @@
 | [Mozarella kinda fella](https://open.spotify.com/track/3LysfZ8cPpUnDjk00IUyd5) | [Blank x Blank](https://open.spotify.com/artist/7tZMN6RonZwh9uUI3zdDgT) | [Mozarella kinda fella](https://open.spotify.com/album/3Ac50Fbg6CTfzMJHzevUyN) | 2:11 | 2023-01-13 | 2024-03-22 |
 | [Mozzafiato](https://open.spotify.com/track/7lXkVQmbP11BaNJcSHc4mt) | [Kokomiko](https://open.spotify.com/artist/1Tl7kataLF4lZip5jfVd7D), [Simber](https://open.spotify.com/artist/3x9DqcRsBAPD6oFZCnDxf0) | [Mozzafiato](https://open.spotify.com/album/3UJmDJ7r4DiN1l6A5Gn8ax) | 2:30 | 2022-01-14 | 2022-07-08 |
 | [Mr and Mrs\. Swift](https://open.spotify.com/track/74yp8DY2h6OJFKohTYfavv) | [Conjure kid](https://open.spotify.com/artist/3mFXDnOibfFGvbYkqAt2XU) | [Mr and Mrs\. Swift](https://open.spotify.com/album/5fmpNp8QUyryO6S9u6oHvA) | 2:05 | 2022-12-09 | 2023-02-15 |
-| [Mr\. Cho](https://open.spotify.com/track/7uvRHTEts5dFJiPJfBcT0p) | [Slow Bounce](https://open.spotify.com/artist/6M8SiopuBvx9go6myWNjfS) | [Mr\. Cho](https://open.spotify.com/album/1Spyo7rzNkkZZMuDTJK8XC) | 2:03 | 2024-07-26 |  |
+| [Mr\. Cho](https://open.spotify.com/track/7uvRHTEts5dFJiPJfBcT0p) | [Slow Bounce](https://open.spotify.com/artist/6M8SiopuBvx9go6myWNjfS) | [Mr\. Cho](https://open.spotify.com/album/1Spyo7rzNkkZZMuDTJK8XC) | 2:03 | 2024-07-26 | 2025-12-27 |
 | [Mr\. Green](https://open.spotify.com/track/699q07qi2oq0cKG2aMWqX0) | [KaspaHauser](https://open.spotify.com/artist/2zIhBOpUm3gKL6MOcuc657), [Seb Zillner](https://open.spotify.com/artist/7JbVYHCk4gezX4sZTFW50x) | [Mr\. Green](https://open.spotify.com/album/4dOymhl1rQ60IVGFBpdxPK) | 2:21 | 2022-04-08 | 2022-08-19 |
 | [Mr\. Hammond](https://open.spotify.com/track/3O4HneSc45t9lVJBXmLOdR) | [Pixie Dust](https://open.spotify.com/artist/0kSqe2dBbt8rg07yfEBnjR), [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Mr\. Hammond](https://open.spotify.com/album/5i0XN3I428svm4etiAQuT5) | 2:42 | 2021-09-04 | 2022-04-08 |
 | [Mrs\. Maisel](https://open.spotify.com/track/1juFN5WAR5kBxbrHe6Sf4u) | [Grace Belly](https://open.spotify.com/artist/2RDpfx1SklZiHjaIsaZ3QW) | [Mrs\. Maisel](https://open.spotify.com/album/14WuuUXHJYrJiGjjOsjuBa) | 2:26 | 2022-04-23 | 2022-10-14 |
@@ -5393,6 +5394,7 @@
 | [Reminisce](https://open.spotify.com/track/1y1j2C4G9ebj1otTJ4XMi6) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU) | [Reminisce](https://open.spotify.com/album/2jAV3V6tSEKkuYMyvX3cMt) | 2:10 | 2022-10-21 | 2022-11-24 |
 | [Reminisce](https://open.spotify.com/track/6SXJNIroh2Phy4mE3eoByf) | [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU) | [Reminisce](https://open.spotify.com/album/5s6DZtGioEgmR6MCjjFSCS) | 2:10 | 2022-11-18 | 2023-01-20 |
 | [Reminisce.](https://open.spotify.com/track/2H1G5ubtYJiPGbUJG5ve13) | [Jinsang](https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt) | [Solitude.](https://open.spotify.com/album/2LmtQ9lQwaV9D1xRUL80fG) | 1:19 | 2019-06-27 | 2020-02-08 |
+| [Reminiscing](https://open.spotify.com/track/6fH8tGWOJjNA4Wb1JufHWZ) | [Notation](https://open.spotify.com/artist/6Ez42bOoRelk95xv7GBMhx) | [Reminiscing](https://open.spotify.com/album/0wqdl2d5FI9j32fffddkx4) | 2:17 | 2025-12-26 |  |
 | [Reminiscing](https://open.spotify.com/track/3bWNLKM7mVLoHtZNI2No9M) | [Sweatson Klank](https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT) | [Reminiscing](https://open.spotify.com/album/1ewA6LBVrhb4M6ClaowJFc) | 2:37 | 2022-12-09 | 2023-04-28 |
 | [Remote](https://open.spotify.com/track/5Fko2Xqz6c18Wb3sMxHhSF) | [Bird Svensøn](https://open.spotify.com/artist/6y2CjnelXUD9BqAMzLkgvC) | [Remote](https://open.spotify.com/album/6ztuVk3ctk3h7KolAIEvrY) | 1:53 | 2023-12-15 | 2025-02-15 |
 | [Remote View](https://open.spotify.com/track/0gXy1WrnnvaOxaxa8uEiKC) | [Uneven Cream](https://open.spotify.com/artist/3q4YekQy6KxztUAacnsqLf) | [Remote View](https://open.spotify.com/album/4qSrf2jwAUPsqeecgyEAza) | 1:16 | 2023-10-27 | 2025-03-29 |

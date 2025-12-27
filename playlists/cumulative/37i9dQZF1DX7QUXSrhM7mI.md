@@ -4,10 +4,11 @@
 
 > The soundtrack to lazing around.
 
-352 songs - 20 hr 12 min
+353 songs - 20 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [$106](https://open.spotify.com/track/0dzwSLr6doS6uRPYnsCwj4) | [Oranj Goodman](https://open.spotify.com/artist/3s9HeMWk4kpVAzjZ1e2lCG) | [$106](https://open.spotify.com/album/3vvSZ8c5cG502k6JeiSnGl) | 3:16 | 2025-12-26 |  |
 | [17](https://open.spotify.com/track/5kxV0Tv6pbddmqqKJvlNtS) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Silence Between Songs](https://open.spotify.com/album/0Q0rJ81u7O4EFCpqkcwJJ2) | 3:36 | 2023-09-15 | 2024-04-22 |
 | [21 Days](https://open.spotify.com/track/5FXjoF2qI7scNEL56dzcAN) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 3:20 | 2023-09-15 | 2023-10-28 |
 | [22 Make](https://open.spotify.com/track/0lQyu3gXsyuDj1MvZiVzXc) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [22 Make](https://open.spotify.com/album/34ZJHKy9s9JbUQmdOmrS4F) | 3:32 | 2022-10-07 | 2022-11-14 |
@@ -55,7 +56,7 @@
 | [Bon Voyage](https://open.spotify.com/track/4CfjowwUEGviS86FoABRCJ) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Bon Voyage](https://open.spotify.com/album/5VWtm8CuxYiK11Ccv5D1VQ) | 3:43 | 2024-08-09 | 2024-09-13 |
 | [Breathe](https://open.spotify.com/track/07GWBE0uO09Yq4JJosrurR) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Violet](https://open.spotify.com/album/0q4ElxLsNfykdm4nNwVEl6) | 3:47 | 2025-01-10 | 2025-06-21 |
 | [Butterflies \(feat\. AURORA\)](https://open.spotify.com/track/1dWUBCoztAMZcqec1CAE6z) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Butterflies \(feat\. AURORA\)](https://open.spotify.com/album/3399XMtHgSm7F0DClLiSsU) | 2:10 | 2023-01-27 | 2024-07-13 |
-| [BUTTERFLY EFFECT](https://open.spotify.com/track/7hyZsVYaIVyhxuIL73yIAb) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [BUTTERFLY EFFECT](https://open.spotify.com/album/2uhbrgPqPv0FbEHydwDOit) | 2:31 | 2025-01-24 |  |
+| [BUTTERFLY EFFECT](https://open.spotify.com/track/7hyZsVYaIVyhxuIL73yIAb) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [BUTTERFLY EFFECT](https://open.spotify.com/album/2uhbrgPqPv0FbEHydwDOit) | 2:31 | 2025-01-24 | 2025-12-27 |
 | [By Your Side \(In My Mind\)](https://open.spotify.com/track/0pSwhT654HC2knBvjn5f89) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [By Your Side \(In My Mind\)](https://open.spotify.com/album/2WN1hoD8UtrSHItI9QO5Qy) | 2:57 | 2025-01-10 | 2025-08-02 |
 | [California](https://open.spotify.com/track/4TYPnvjBbEfcDkk1UxpvYB) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J) | 3:11 | 2022-05-24 | 2022-11-23 |
 | [Calm Down](https://open.spotify.com/track/6hgoYQDUcPyCz7LcTUHKxa) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Calm Down](https://open.spotify.com/album/37iaWiKMa9YBbEDlw5c3Qh) | 3:39 | 2023-08-08 | 2024-04-27 |

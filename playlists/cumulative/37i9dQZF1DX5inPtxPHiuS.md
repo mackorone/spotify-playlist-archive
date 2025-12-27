@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A](https://open.spotify.com/track/1w3ugvDFuehxgikUeMEzvj) | [The Kitsch](https://open.spotify.com/artist/68ECO3f0iAoqQVsrxlqyK2) | [Los Kitsch de Colombia Presentan: 1/3](https://open.spotify.com/album/0kreldoAH0WRvsLX1YVGrQ) | 2:35 | 2022-03-11 |  |
+| [A](https://open.spotify.com/track/1w3ugvDFuehxgikUeMEzvj) | [The Kitsch](https://open.spotify.com/artist/68ECO3f0iAoqQVsrxlqyK2) | [Los Kitsch de Colombia Presentan: 1/3](https://open.spotify.com/album/0kreldoAH0WRvsLX1YVGrQ) | 2:35 | 2022-03-11 | 2025-12-27 |
 | [A Tu Lado](https://open.spotify.com/track/4kHxqBGUrecUuqjbcr29Vq) | [The Mills](https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn) | [A Tu Lado](https://open.spotify.com/album/6D9Zqag7V86tNSlY9I6EJ9) | 3:23 | 2022-03-11 | 2022-07-29 |
 | [A Tu Lado](https://open.spotify.com/track/4Yx4NDik0QW3hpKXTMOQNw) | [The Mills](https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn) | [A Tu Lado](https://open.spotify.com/album/603lFzzUSI0yVjfQxlpXN2) | 3:23 | 2022-06-24 | 2024-04-19 |
 | [Ahora Me Cuesta](https://open.spotify.com/track/3kpmzwSyKbVhGxu6Rvme0L) | [La Pestilencia](https://open.spotify.com/artist/09N5SuYvKJPb6mX34qfeM3) | [Productos Desaparecidos](https://open.spotify.com/album/1JyFH6v4N1WNofSsCRcYiG) | 3:45 | 2022-03-11 |  |
@@ -127,7 +127,7 @@
 | [Mantra](https://open.spotify.com/track/74AIH1n00NxWSTI0j22Uql) | [Estados Alterados](https://open.spotify.com/artist/417OzwdqRdiZ7rqSVccq0c) | [Lumisphera](https://open.spotify.com/album/7HeNhGwbZroBSXLXKZO4WB) | 3:45 | 2022-03-11 | 2022-07-29 |
 | [Metale Bravura](https://open.spotify.com/track/4ez1FnbpXeUgudedpAZYUB) | [APOLO 7](https://open.spotify.com/artist/322BLVw40Mq2hWHxGLykr6) | [Metale Bravura](https://open.spotify.com/album/02a3XyLmZyydCpe3a4r72h) | 3:12 | 2022-03-11 | 2025-10-27 |
 | [Metalero](https://open.spotify.com/track/3nN9m5VODTyvN6zdnAHIjn) | [DARKNESS](https://open.spotify.com/artist/2WWTxg1S77tA4FZpjv004Z) | [Yerba Mala Nunca Muere](https://open.spotify.com/album/0XWjeYtOjavlHyvjswkiEt) | 4:35 | 2022-03-11 | 2022-07-29 |
-| [Momento de Escapar](https://open.spotify.com/track/19YD7AIpHqbObWPzvS3B0n) | [Paraisso](https://open.spotify.com/artist/3s5dsJWkL6dAGsvY4r5cyi) | [Buenos Tiempos](https://open.spotify.com/album/0oj2LzYjVhWmshX8dSDg2m) | 3:37 | 2022-03-11 | 2025-05-15 |
+| [Momento de Escapar](https://open.spotify.com/track/19YD7AIpHqbObWPzvS3B0n) | [Paraisso](https://open.spotify.com/artist/3s5dsJWkL6dAGsvY4r5cyi) | [Buenos Tiempos](https://open.spotify.com/album/0oj2LzYjVhWmshX8dSDg2m) | 3:37 | 2022-03-11 |  |
 | [Mucho Lo Fiel \(feat\. Genitallica\)](https://open.spotify.com/track/4CEDzdu1i5271f3KApS7pL) | [Velo De Oza](https://open.spotify.com/artist/1nh1tWk4ZqRPrl0XqICYgn), [Genitallica](https://open.spotify.com/artist/5Bk3LL5WujH6UG9iqpDaxA) | [Mucho Lo Fiel \(feat\. Genitallica\)](https://open.spotify.com/album/6WXNUYp3S4B07mPVEKXjqw) | 3:10 | 2022-03-11 | 2022-07-24 |
 | [Muevete](https://open.spotify.com/track/5bsAqvSjY92fLhPuhYFjrh) | [Estados Alterados](https://open.spotify.com/artist/417OzwdqRdiZ7rqSVccq0c) | [Estados Alterados](https://open.spotify.com/album/0Njvqvdv1BGLTVh6nmINiw) | 3:31 | 2022-03-11 | 2022-07-28 |
 | [Más Allá del Tiempo](https://open.spotify.com/track/4YgKvNZkRFu7jcB36DsIO5) | [Los Rolling Ruanas](https://open.spotify.com/artist/1XPFAsXCMflKBKZuNIkru3) | [Más Allá del Tiempo](https://open.spotify.com/album/2R2RPZT6Tor9gDv5hOFw8m) | 3:37 | 2022-03-11 |  |

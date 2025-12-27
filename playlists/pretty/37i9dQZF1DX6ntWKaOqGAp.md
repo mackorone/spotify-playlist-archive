@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: muque
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,151 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,153 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [bestie](https://open.spotify.com/track/3LlShzvjsM4nem8uADXWvn) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [bestie](https://open.spotify.com/album/4P2jmODvTntdqNI7e5isfb) | 4:19 |
-| 2 | [生きがい](https://open.spotify.com/track/3psd8lP4CrIa2F31cf0YQs) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [生きがい](https://open.spotify.com/album/74FvrqdgGjUx8w1CuUMdIV) | 4:44 |
-| 3 | [呼び声](https://open.spotify.com/track/3kQf453SpkwX7ALdgzNSNY) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [呼び声](https://open.spotify.com/album/3RhkGySFESW5d50IlNWuP1) | 3:54 |
-| 4 | [Massara](https://open.spotify.com/track/3SPY8XHLaGJaGUnfTmTPCO) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [Curry Rice](https://open.spotify.com/album/4FhUmxv0CFpZlnWfnvqYwj) | 4:33 |
-| 5 | [クラッシュ](https://open.spotify.com/track/52bUzd6abRXpGBt9a3Gxc9) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK), [なとり](https://open.spotify.com/artist/3lagKxU3X84fGgnH9gekjy) | [デジタル・ラブ](https://open.spotify.com/album/4BMR0iTGRG76xRmH6K1QmG) | 2:16 |
-| 6 | [ビリビリ](https://open.spotify.com/track/42SUu53IgJVMMA5Uux2NyK) | [Novel Core](https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD), [JESSE](https://open.spotify.com/artist/1piiwMSnN21hrtRzpJ11ef) | [ビリビリ](https://open.spotify.com/album/2tIYnKhuHx1IE8UvBKcl9W) | 3:24 |
-| 7 | [シルエット](https://open.spotify.com/track/1GMD0Xzzawqz2GHZC8IhwL) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [シルエット](https://open.spotify.com/album/4xs2LYR6cIXU47QLmXJlFU) | 4:01 |
-| 8 | [Darling](https://open.spotify.com/track/13YZlRtdFoFhJzPHmwPW48) | [TRACK15](https://open.spotify.com/artist/2yBeBpGsS9sgRa4rlJldIT) | [Darling](https://open.spotify.com/album/40rEgd7QLwkgOpMzB2KCaN) | 3:34 |
-| 9 | [Sanitizer](https://open.spotify.com/track/4eCYeVfzGsS6jq8aX43yDr) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Sanitizer](https://open.spotify.com/album/0GjrgVnOjXqHxy7KtHQYnY) | 5:04 |
-| 10 | [NEVERMIND](https://open.spotify.com/track/0DR9GZjYGfbkGOHcJgHj60) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [physical mind](https://open.spotify.com/album/4Kkdmmx6dC09NZeJHetRrz) | 3:25 |
-| 11 | [B.O.LIE](https://open.spotify.com/track/2uTwa4bg1UsXM9yDmpOFQf) | [Singer's High](https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar) | [B.O.LIE](https://open.spotify.com/album/5G0ekraK3crwMNmnaT3MfN) | 3:37 |
-| 12 | [クリスマスソング](https://open.spotify.com/track/5P8ZvBQoCrujjNcLAxO3Su) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [シャンデリア](https://open.spotify.com/album/6TrqbAJxtGl4HWK5SUbFLT) | 5:40 |
+| 2 | [どうしてもどうしても](https://open.spotify.com/track/6hlYmR30RGaHIz4UlVOG2U) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [どうしてもどうしても](https://open.spotify.com/album/1FrDTcNmbqprRXn9s9kk8Y) | 3:46 |
+| 3 | [生きがい](https://open.spotify.com/track/3psd8lP4CrIa2F31cf0YQs) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [生きがい](https://open.spotify.com/album/74FvrqdgGjUx8w1CuUMdIV) | 4:44 |
+| 4 | [呼び声](https://open.spotify.com/track/3kQf453SpkwX7ALdgzNSNY) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [呼び声](https://open.spotify.com/album/3RhkGySFESW5d50IlNWuP1) | 3:54 |
+| 5 | [Massara](https://open.spotify.com/track/3SPY8XHLaGJaGUnfTmTPCO) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [Curry Rice](https://open.spotify.com/album/4FhUmxv0CFpZlnWfnvqYwj) | 4:33 |
+| 6 | [クラッシュ](https://open.spotify.com/track/52bUzd6abRXpGBt9a3Gxc9) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK), [なとり](https://open.spotify.com/artist/3lagKxU3X84fGgnH9gekjy) | [デジタル・ラブ](https://open.spotify.com/album/4BMR0iTGRG76xRmH6K1QmG) | 2:16 |
+| 7 | [ビリビリ](https://open.spotify.com/track/42SUu53IgJVMMA5Uux2NyK) | [Novel Core](https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD), [JESSE](https://open.spotify.com/artist/1piiwMSnN21hrtRzpJ11ef) | [ビリビリ](https://open.spotify.com/album/2tIYnKhuHx1IE8UvBKcl9W) | 3:24 |
+| 8 | [シルエット](https://open.spotify.com/track/1GMD0Xzzawqz2GHZC8IhwL) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [シルエット](https://open.spotify.com/album/4xs2LYR6cIXU47QLmXJlFU) | 4:01 |
+| 9 | [Darling](https://open.spotify.com/track/13YZlRtdFoFhJzPHmwPW48) | [TRACK15](https://open.spotify.com/artist/2yBeBpGsS9sgRa4rlJldIT) | [Darling](https://open.spotify.com/album/40rEgd7QLwkgOpMzB2KCaN) | 3:34 |
+| 10 | [Sanitizer](https://open.spotify.com/track/4eCYeVfzGsS6jq8aX43yDr) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Sanitizer](https://open.spotify.com/album/0GjrgVnOjXqHxy7KtHQYnY) | 5:04 |
+| 11 | [NEVERMIND](https://open.spotify.com/track/0DR9GZjYGfbkGOHcJgHj60) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [physical mind](https://open.spotify.com/album/4Kkdmmx6dC09NZeJHetRrz) | 3:25 |
+| 12 | [B.O.LIE](https://open.spotify.com/track/2uTwa4bg1UsXM9yDmpOFQf) | [Singer's High](https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar) | [B.O.LIE](https://open.spotify.com/album/5G0ekraK3crwMNmnaT3MfN) | 3:37 |
 | 13 | [僕だけの矛盾](https://open.spotify.com/track/0JbdUM8Bx8ax24Q50EHzB4) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [僕だけの矛盾](https://open.spotify.com/album/2H2lOVsdIvonip4PmKqFfW) | 4:14 |
 | 14 | [Boy Boy](https://open.spotify.com/track/5xbOo5WvO0uYslwOH53Qu8) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [逆鱗](https://open.spotify.com/album/45TO32iipCiJXSAnhZOS5j) | 3:09 |
 | 15 | [Tenshi Ni Naretara](https://open.spotify.com/track/11cb9GcPjTMBiSQd2idtfe) | [bokula.](https://open.spotify.com/artist/03d8apfHOy2uV3oLL9lsFG) | [Tenshi Ni Naretara](https://open.spotify.com/album/3ml64wx9L5nYjZaXsafcJN) | 3:06 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 99 | [忍とエイリアン](https://open.spotify.com/track/48pHjdSjUZPjD727i6zbwH) | [Yamaarashi](https://open.spotify.com/artist/3YKtcPI1ykxg166wjbrvU5) | [スペースフラワー](https://open.spotify.com/album/3y84qPbOXLZfXAFDGTgf2x) | 2:48 |
 | 100 | [DANGEROUS ANGEL ～危険な天使～](https://open.spotify.com/track/0y21FPyQcqGemUljDjKxUQ) | [Bed In](https://open.spotify.com/artist/6rLwi93jMT5dbvht2sWAUR) | [DANGEROUS ANGEL ～危険な天使～](https://open.spotify.com/album/68roJudykTtH9WjOekMrQ1) | 4:10 |
 
-Snapshot ID: `AAAAAPgCda81Y3YGPeUNVP09MLjhYlzU`
+Snapshot ID: `AAAAAIItwpYYtNi23iuRekW/GWTRaxOk`

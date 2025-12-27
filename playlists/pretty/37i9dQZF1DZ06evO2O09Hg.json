@@ -1,12 +1,12 @@
 {
   "description": "This is Juice WRLD. The essential tracks, all in one playlist.",
-  "num_followers": 1655476,
+  "num_followers": 1655529,
   "original_name": "This Is Juice WRLD",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUstAAAAAACIyNPjxeNQO+c2QN+RVwna",
+  "snapshot_id": "aUx+gAAAAADy9QGUYP2IHC7VhksvQxAS",
   "tracks": [
     {
       "added_at": null,
@@ -402,11 +402,15 @@
         {
           "name": "Juice WRLD",
           "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
         }
       ],
-      "duration_ms": 248431,
-      "name": "Empty",
-      "url": "https://open.spotify.com/track/3T06rGO2dVEntMvym0vpQu"
+      "duration_ms": 189322,
+      "name": "Bandit (with YoungBoy Never Broke Again)",
+      "url": "https://open.spotify.com/track/1oWM79mUVdZGCGYjSirHZR"
     },
     {
       "added_at": null,
@@ -470,15 +474,11 @@
         {
           "name": "Juice WRLD",
           "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        },
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
         }
       ],
-      "duration_ms": 189322,
-      "name": "Bandit (with YoungBoy Never Broke Again)",
-      "url": "https://open.spotify.com/track/1oWM79mUVdZGCGYjSirHZR"
+      "duration_ms": 248431,
+      "name": "Empty",
+      "url": "https://open.spotify.com/track/3T06rGO2dVEntMvym0vpQu"
     },
     {
       "added_at": null,

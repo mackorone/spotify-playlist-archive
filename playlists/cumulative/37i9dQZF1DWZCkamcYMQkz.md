@@ -4,7 +4,7 @@
 
 > Warm and cozy jazz vibes to get you in a positive mood.
 
-189 songs - 12 hr 51 min
+190 songs - 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [Jump Up](https://open.spotify.com/track/2N4oRvZUu8RWkjdBjLQJKt) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR), [The Three Sounds](https://open.spotify.com/artist/5wVeG4RM2VXsFwyylF8vXi) | [LD+3](https://open.spotify.com/album/7LI05bZ0W1MaDccphFQqzj) | 6:37 | 2021-12-16 | 2022-01-14 |
 | [Just You, Just Me](https://open.spotify.com/track/0Dvn6bjMSqv2N50h1AESbu) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [This Dream Of You](https://open.spotify.com/album/2axVAnC2sE98xigU2BV1TY) | 2:24 | 2021-12-16 |  |
 | [Le Coiffeur](https://open.spotify.com/track/2dk9zmPIOjVXhUgeLgfKNU) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Gettin' Around](https://open.spotify.com/album/1kKp5dSbveAtH9KmuGP6z9) | 7:02 | 2021-12-16 | 2024-07-30 |
-| [Lester Leaps In \- Remastered 2007/Rudy Van Gelder Edition](https://open.spotify.com/track/2Obs77V8lAuS1v0UK4eSDV) | [Eddie "Lockjaw" Davis](https://open.spotify.com/artist/0gNn3uUyIEErdQthThI51i), [Buddy Tate](https://open.spotify.com/artist/6epXhvywkJ2aWjO6e5LJ0U), [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0), [Arnett Cobb](https://open.spotify.com/artist/6ui4w9G4l3CxehFTGTQtPX) | [Very Saxy \(Rudy Van Gelder Remasters\)](https://open.spotify.com/album/5m6ee2VB6ii18zIqlsx6Va) | 6:12 | 2024-06-03 |  |
+| [Lester Leaps In \- Remastered 2007/Rudy Van Gelder Edition](https://open.spotify.com/track/2Obs77V8lAuS1v0UK4eSDV) | [Eddie "Lockjaw" Davis](https://open.spotify.com/artist/0gNn3uUyIEErdQthThI51i), [Buddy Tate](https://open.spotify.com/artist/6epXhvywkJ2aWjO6e5LJ0U), [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0), [Arnett Cobb](https://open.spotify.com/artist/6ui4w9G4l3CxehFTGTQtPX) | [Very Saxy \(Rudy Van Gelder Remasters\)](https://open.spotify.com/album/5m6ee2VB6ii18zIqlsx6Va) | 6:12 | 2024-06-03 | 2025-12-27 |
 | [Let Me Take You for a Walk](https://open.spotify.com/track/1zcCvJeGmcLQFfYHlcDnf1) | [Rikard From](https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc) | [Sun of June](https://open.spotify.com/album/6TlZkjAIMdUs3jOkafcrh4) | 5:06 | 2022-11-17 | 2024-04-19 |
 | [Let's Call The Whole Thing Off](https://open.spotify.com/track/6NDaYWg85ZnJ3Ae0WkILWh) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Ella And Louis Again](https://open.spotify.com/album/4zWqQOob980K9drUrUGM8M) | 4:11 | 2022-09-01 | 2023-02-08 |
 | [Let's Do It](https://open.spotify.com/track/1f1ybry2mOfAgP3qBFMiKc) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [That Bad Eartha](https://open.spotify.com/album/19ZUoDOWmYb59rG5p5WoSW) | 3:05 | 2021-12-16 |  |
@@ -183,6 +183,7 @@
 | [Two Not One](https://open.spotify.com/track/3bYBPyLGsa1unDrVaNzN4y) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k), [Warne Marsh](https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D) | [Lee Konitz with Warne Marsh](https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c) | 5:31 | 2021-12-16 | 2022-10-26 |
 | [Uncle Rough](https://open.spotify.com/track/61uh947sYcIlXI1k4dfDwS) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Sonic Boom](https://open.spotify.com/album/4DMAjEeHrtO1OPmMy9FeND) | 5:33 | 2021-12-16 | 2024-06-04 |
 | [Volare \(Nel Blu Di Pinto Di Blu\) \- Remastered 1998](https://open.spotify.com/track/5OkKOkdVTKFrYi6GWXkMzR) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Is Dean Martin](https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX) | 3:01 | 2022-05-24 | 2022-08-11 |
+| [Walk to Regio's](https://open.spotify.com/track/5zfzGKJGgnzubOz5PaOYnb) | [Ruby Rushton](https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF) | [Walk to Regio's](https://open.spotify.com/album/2XJ90IYASvjzulMi7AmD1w) | 4:22 | 2025-12-05 |  |
 | [Waltz For Debby \- Live At The Village Vanguard, New York / 1961 / Take 2](https://open.spotify.com/track/6EC51OfUhguCbNp5H5SdGm) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [At The Village Vanguard](https://open.spotify.com/album/6kaZAT1UBgjchdmNv9hUHj) | 6:49 | 2021-12-16 | 2025-07-12 |
 | [What a Little Moonlight Can Do](https://open.spotify.com/track/2x8hsmA7p24OxS5vxVG1C6) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [Carmen McRae Sings Lover Man And Other Billie Holiday Classics](https://open.spotify.com/album/5GJ5gYx2VulbjhOuPwlH0A) | 3:31 | 2021-12-16 |  |
 | [When Lights Are Low](https://open.spotify.com/track/67KiXzH1vJUJdmpcq9DaoB) | [Dakota Staton](https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx) | [Time To Swing](https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko) | 1:56 | 2021-12-16 |  |

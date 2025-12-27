@@ -2,9 +2,9 @@
 
 ### [Vibras](https://open.spotify.com/playlist/37i9dQZF1DWT34oeYRnJ0R)
 
-> Just vibes\. Cover: Junior Zamora
+> Just vibes\. Cover: Alleh, Yorghaki
 
-738 songs - 1 day 14 hr 19 min
+739 songs - 1 day 14 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,6 +229,7 @@
 | [En Mi Cuarto](https://open.spotify.com/track/6Ee34qCOE6FBzEPRAGwSrn) | [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [En Mi Cuarto](https://open.spotify.com/album/5Tb0I67ArZ6gI4tXJVIJ3h) | 3:16 | 2022-03-21 | 2022-05-21 |
 | [En Nadie](https://open.spotify.com/track/4GMG57GjObFzq79ScDIi7v) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Icy Hot](https://open.spotify.com/album/2rebo6PvPbmBY3KGYT8KzG) | 3:53 | 2023-02-24 | 2024-07-19 |
 | [En Tu Marea](https://open.spotify.com/track/6dsDpY2pE4Xge9JHm8IXol) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Pantera](https://open.spotify.com/album/10vK60mLIm42qqDe2u4YPV) | 2:33 | 2025-07-18 |  |
+| [EN TU MIRADAaaaa](https://open.spotify.com/track/5Qnq1GhCBSsAkipZtjsVkF) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [LA FORMULA](https://open.spotify.com/album/1g9AHagDJvZfgKXE0IVzIA) | 2:38 | 2025-12-26 |  |
 | [En Tus Sueños](https://open.spotify.com/track/6QtWffbCbMMfJj7PacS5ri) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec) | [En Tus Sueños](https://open.spotify.com/album/5EyekKqaKg0wRgFOG8MSeW) | 3:08 | 2025-09-26 |  |
 | [Enchulao](https://open.spotify.com/track/3HaTdgWD41zkYPHZMNuQ0V) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Enchulao](https://open.spotify.com/album/2HUndIVv8uHBOaoyAMhdrn) | 3:35 | 2022-03-21 | 2022-06-28 |
 | [Entonces](https://open.spotify.com/track/3kZ6jh67FdUaGxKXb1v8G7) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Sr\. Santos](https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY) | 3:09 | 2022-12-06 | 2024-07-19 |
@@ -256,7 +257,7 @@
 | [Falso Amigo](https://open.spotify.com/track/6amOXXKvvM8GsqkhLDm0pT) | [Chris Wandell](https://open.spotify.com/artist/1jsB2W4c9zTq9ilGXegrDM), [Paulino Rey](https://open.spotify.com/artist/6r8AR7aYfjCbNNkugkHXOF), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Jowell](https://open.spotify.com/artist/6TASDj2ogOKQptnxgEvrcP) | [Falso Amigo](https://open.spotify.com/album/6aGmKt3oG1WCKwschVOGgn) | 4:14 | 2023-02-24 | 2023-06-22 |
 | [Faltas Tu](https://open.spotify.com/track/5lpydbF2N8167LR0LROQZl) | [DIA](https://open.spotify.com/artist/7xVUa8mqwCgdu4mQn3geCY) | [Faltas Tu](https://open.spotify.com/album/14lrJyzRjsSrmYtNDh5A8x) | 3:14 | 2024-01-12 | 2024-02-24 |
 | [Fantasi](https://open.spotify.com/track/63GTuNSVLynH3n3PdqObgd) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Fantasi](https://open.spotify.com/album/64d5HQCHWpk4Qfb1MkEzj9) | 2:38 | 2022-03-21 | 2022-06-01 |
-| [Fantasma](https://open.spotify.com/track/4trxc6w5LpZoMYWE25Kyds) | [Jliany](https://open.spotify.com/artist/7K9s1eWCkMphDqwHedSDAU), [RichyWest](https://open.spotify.com/artist/7LbKnRFVvObIzSUjNd8r42) | [Fantasma](https://open.spotify.com/album/01PKRo8HAs7RBght3ZyDug) | 3:36 | 2025-03-14 |  |
+| [Fantasma](https://open.spotify.com/track/4trxc6w5LpZoMYWE25Kyds) | [Jliany](https://open.spotify.com/artist/7K9s1eWCkMphDqwHedSDAU), [RichyWest](https://open.spotify.com/artist/7LbKnRFVvObIzSUjNd8r42) | [Fantasma](https://open.spotify.com/album/01PKRo8HAs7RBght3ZyDug) | 3:36 | 2025-03-14 | 2025-12-27 |
 | [FANTASÍA](https://open.spotify.com/track/5hWpXZOs7vpz0JD3CIylsb) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH) | [FANTASÍA](https://open.spotify.com/album/0qotDgu0CuYiWrg2JvaTSs) | 3:06 | 2025-05-09 |  |
 | [FARDOS](https://open.spotify.com/track/33VIvWmmCUgix6Htm1WdOJ) | [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [FARDOS](https://open.spotify.com/album/060l6oOdSXc1SUJnQDDpI1) | 3:03 | 2024-05-17 | 2025-04-12 |
 | [FAVORiTE](https://open.spotify.com/track/02fcGHwZIEpB1VnHMfgCnO) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN), [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df) | [FAVORiTE](https://open.spotify.com/album/3AxEUVsfZvRzwMgZwCLAJz) | 3:06 | 2025-09-26 |  |

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUppGmuwT9c7.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUppGmuwT9c7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUppGmuwT9c7)
 
-### [Kroegenhits 2025](https://open.spotify.com/playlist/37i9dQZF1DWUppGmuwT9c7)
+### [Kroegenhits 2026](https://open.spotify.com/playlist/37i9dQZF1DWUppGmuwT9c7)
 
 > De grootste hits uit de kroeg in één playlist.
 

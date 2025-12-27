@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 26 Dec 04:04 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 26 Dec 09:04 UTC.
 
-5,964 songs - 13 day 19 hr 36 min
+5,966 songs - 13 day 19 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -691,7 +691,7 @@
 | [Body Moves](https://open.spotify.com/track/22W7cxdI8GqHLZflKp0HQp) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Body Moves](https://open.spotify.com/album/4Fj3iiuCy0UgxCkx6NZPOK) | 3:27 | 2024-12-16 | 2024-12-21 |
 | [Body Organic Disco Electronic](https://open.spotify.com/track/61x4U9nM693hq6DiHBJ6N4) | [Babymorocco](https://open.spotify.com/artist/6EyzBjjCPBP7s5W8d3wMOe) | [Body Organic Disco Electronic](https://open.spotify.com/album/1sat7HT0WjqPVnMTWYeTbI) | 3:12 | 2024-12-02 | 2024-12-06 |
 | [BODY SHOP\. \(feat\. Tommy Richman\)](https://open.spotify.com/track/7wQ2sYDKlby1qgPki8THbZ) | [Paco](https://open.spotify.com/artist/2XmsywQiI1izPHz7Mo84vZ), [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [BODY SHOP\. / PLAN B.](https://open.spotify.com/album/27od1rgOVRYMjoglpaTFO9) | 2:50 | 2024-12-12 | 2024-12-14 |
-| [BODY THE PISTOL](https://open.spotify.com/track/6vIJIAUr2OplD5uYavcfzB) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180) | [BODY THE PISTOL](https://open.spotify.com/album/3eFLCWIeCjBWjDH5Ik5hBG) | 2:38 | 2025-12-06 |  |
+| [BODY THE PISTOL](https://open.spotify.com/track/6vIJIAUr2OplD5uYavcfzB) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180) | [BODY THE PISTOL](https://open.spotify.com/album/3eFLCWIeCjBWjDH5Ik5hBG) | 2:38 | 2025-12-06 | 2025-12-27 |
 | [Bogota](https://open.spotify.com/track/7myrIkRqw4LCMsr673ckNb) | [Rap La Rue](https://open.spotify.com/artist/3oaGNYMn968LbpA1sthjos), [Ouzzi](https://open.spotify.com/artist/6msEnJb2ceDZw4GF1Z2D5o) | [Bogota](https://open.spotify.com/album/1rvZibf8hsAYjaaGdGP82A) | 1:23 | 2024-08-19 | 2024-08-23 |
 | [Bologna](https://open.spotify.com/track/1lUeZctPxbFJWysc8w9aha) | [Destroyer](https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In), [Fiver](https://open.spotify.com/artist/1nvq3vakg2j1A0wTpV0AkO) | [Bologna](https://open.spotify.com/album/3PR12ArZ8CbnuMrFWFGNz3) | 4:24 | 2025-01-08 | 2025-01-18 |
 | [BOMBA](https://open.spotify.com/track/1qsK8QzeANbZuS91du4vxy) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [BOMBA](https://open.spotify.com/album/3DpA4fYnbc3z2UQaxjglZK) | 1:43 | 2025-10-25 | 2025-11-01 |
@@ -2208,7 +2208,7 @@
 | [Hard Fought Hallelujah](https://open.spotify.com/track/6ye2zG3DhdwDf6VRVyj4jx) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Hard Fought Hallelujah](https://open.spotify.com/album/2ZRoUKXGiyxc63Q6xLAIh5) | 5:16 | 2024-11-08 | 2024-11-14 |
 | [Hard Mode](https://open.spotify.com/track/44GscIpwKhJaVMNN3Jj9h8) | [Cheekface](https://open.spotify.com/artist/32kCEAvtuFzIZA15zrhQDW) | [Hard Mode](https://open.spotify.com/album/0XmUNBQQhPVGP9zToBUmIz) | 3:07 | 2024-12-03 | 2024-12-06 |
 | [Hard to Ignore](https://open.spotify.com/track/1HyNAtoJPZ8YSF9mpeJlRq) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Hard to Ignore](https://open.spotify.com/album/4ahYLn0SikBur0bRcqFeJv) | 3:04 | 2024-12-14 | 2024-12-18 |
-| [HARD2TELL](https://open.spotify.com/track/4hOjT0UtqEMGbAEukb84zR) | [Bilmuri](https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89) | [HARD2TELL](https://open.spotify.com/album/4aJGlUg8Cms9VtzKS4OrqA) | 2:59 | 2025-12-05 |  |
+| [HARD2TELL](https://open.spotify.com/track/4hOjT0UtqEMGbAEukb84zR) | [Bilmuri](https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89) | [HARD2TELL](https://open.spotify.com/album/4aJGlUg8Cms9VtzKS4OrqA) | 2:59 | 2025-12-05 | 2025-12-27 |
 | [Harder to Kill](https://open.spotify.com/track/5enTtMsxQ2vAsdoM69QTZz) | [Carter Vail](https://open.spotify.com/artist/4Bu9DnBZ12oX7MiiaJy9hK) | [Harder to Kill](https://open.spotify.com/album/5oX8qPG4FJm9lPhZtn7gBu) | 2:58 | 2024-06-05 | 2024-06-07 |
 | [HARDHEAD](https://open.spotify.com/track/60pXpNEqw1GfwSGxU3n7c5) | [La Reezy](https://open.spotify.com/artist/2uVTJrWgoWoJmImS2I0KVE) | [HARDHEAD](https://open.spotify.com/album/1jg65OhOKrAftMrnKJWqfg) | 2:30 | 2025-09-21 | 2025-09-27 |
 | [harvest sky \(feat\. underscores\)](https://open.spotify.com/track/2YSnAdcIXpvVkAQoXlbe8q) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [harvest sky / obvious](https://open.spotify.com/album/6BUkQAj0JZ95AyD8sCMtUz) | 3:53 | 2024-10-16 | 2024-10-19 |
@@ -4639,6 +4639,7 @@
 | [Solitude of the Night Bus](https://open.spotify.com/track/0XrRTQNcxOn8tQgrilf4Mp) | [Courteeners](https://open.spotify.com/artist/1NfJU4hy56Z4UM4iyIa1B2) | [Solitude of the Night Bus](https://open.spotify.com/album/5kzQFWJ9ArgLKExI7BaTnN) | 3:18 | 2024-07-09 | 2024-07-11 |
 | [Soltera](https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Soltera](https://open.spotify.com/album/0VRb8B2ls0GDEfmKiL8FWJ) | 3:34 | 2024-09-26 | 2024-09-28 |
 | [Some Days I Drink My Coffee by the Grave of William Blake](https://open.spotify.com/track/7oA9S6NHRiaI7TUbPwKOCF) | [The The](https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce) | [Some Days I Drink My Coffee by the Grave of William Blake](https://open.spotify.com/album/3D8hTdaS1LPiA8gayUlGdR) | 4:03 | 2024-08-29 | 2024-08-31 |
+| [Some People Eat Flowers out of Earnest Intent to Bring Heaven](https://open.spotify.com/track/3crq1GPTJikqUBKCPpArPv) | [Joe Hawley](https://open.spotify.com/artist/2gkoczXRNRDUmfEdvr7CWm) | [Some People Eat Flowers out of Earnest Intent to Bring Heaven](https://open.spotify.com/album/57DNWvNz66hUt12hxQKgzm) | 4:20 | 2025-12-26 |  |
 | [Some Type Of Skin \- Acoustic](https://open.spotify.com/track/6kEMItz2lrqO5XGQSrujga) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [Some Type Of Skin \(Acoustic\)](https://open.spotify.com/album/19jiJygNvv9TwWLjIc7xNr) | 3:20 | 2024-05-10 | 2024-05-15 |
 | [Somebody](https://open.spotify.com/track/1GpslorH7Gi64x8uodyvfO) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Somebody](https://open.spotify.com/album/39jgucp2ZAo3pYpG3AcUY1) | 3:22 | 2025-05-16 | 2025-05-29 |
 | [Somebody Else \- Spotify Singles](https://open.spotify.com/track/5gMZytf2L5iBLiyBEaSAhh) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Somebody Else \- Spotify Singles](https://open.spotify.com/album/2x1pqv8DQ5JaR5bbZFiwYq) | 5:00 | 2024-09-18 | 2024-09-21 |
@@ -5824,6 +5825,7 @@
 | [yes baby](https://open.spotify.com/track/2Nh1wIvPLDk4wK356m0nQA) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [yes baby](https://open.spotify.com/album/4arOnJKD3OYnk72Q1i7PEL) | 2:55 | 2025-09-19 | 2025-10-03 |
 | [Yes Freestyle \(feat\. Sheff G\)](https://open.spotify.com/track/7j2rcM90Df70Jyv96LBbjw) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [Yes Freestyle \(feat\. Sheff G\)](https://open.spotify.com/album/0Pzv5KkesWsdMZvvCKrXJk) | 1:51 | 2024-07-10 | 2024-07-12 |
 | [Yes I Can](https://open.spotify.com/track/1VCFeIlAO2NeVL3zjxgjc6) | [Bonnie Tyler](https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2) | [Yes I Can](https://open.spotify.com/album/6xnu5R7xVEm6ThD1wAAEjM) | 3:35 | 2025-01-08 | 2025-01-15 |
+| [Yesterday](https://open.spotify.com/track/1UL13ugmjz3HSbkN4d8nm2) | [Fimiguerrero](https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du) | [Yesterday](https://open.spotify.com/album/19eoX2kxUm5dIbUymagNMF) | 3:12 | 2025-12-26 |  |
 | [yezzir](https://open.spotify.com/track/4spNqO4t8rAzbQlaLduRga) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [yezzir](https://open.spotify.com/album/4bnx218mT9gJOQILkqDo1t) | 1:46 | 2025-09-23 | 2025-10-04 |
 | [YIEE](https://open.spotify.com/track/3Jt1u39DvQbrXJ1FfARklr) | [Dilaw](https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL) | [YIEE](https://open.spotify.com/album/4SrvxGNf0rOViuxIdpfmBa) | 3:53 | 2024-09-27 | 2024-10-01 |
 | [YIPPEE\-KI\-YAY\. \(feat\. T\-Pain\)](https://open.spotify.com/track/3YmHHuxf2jfGEllrfs1KV7) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [YIPPEE\-KI\-YAY.](https://open.spotify.com/album/5yCGtpqoFL9NqmcLq7y6iw) | 3:32 | 2025-03-27 | 2025-04-05 |

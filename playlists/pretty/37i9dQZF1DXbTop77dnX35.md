@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Naira Marley, Ruger, Nektunez, Skales and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,063 likes - 47 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,655 likes - 47 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 46 | [la patadita](https://open.spotify.com/track/2B4kxkpv5OuB5b23XlZYTt) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [la patadita](https://open.spotify.com/album/1slq3KdsBvsqhea1hH1m5u) | 2:28 |
 | 47 | [Ngoma](https://open.spotify.com/track/4lGwt0hWscySo3piK973OI) | [Lebza TheVillain](https://open.spotify.com/artist/0IBbki2AxG9X2cjaqrSGP3) | [Ngoma](https://open.spotify.com/album/7kYAq9N7FIVTyS3b61r18b) | 5:40 |
 
-Snapshot ID: `AAAAACfIPY7//f2msb797GooMh8Ta3ZL`
+Snapshot ID: `AAAAAB1tr5IkI7Hk9/sqM84nisfydgcs`

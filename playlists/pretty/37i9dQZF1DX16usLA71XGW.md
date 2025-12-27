@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16usLA71XGW.md) - [plain]
 
 > East Africa queens in their music bag\. Cover: Atemi Oyungu
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,605 likes - 60 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,612 likes - 60 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16usLA71XGW.md) - [plain]
 | 59 | [Amini](https://open.spotify.com/track/0kdToPIJHDgOdYwIMKjBzN) | [Hildah Watiri](https://open.spotify.com/artist/4XTUHZbb6KmJJKUrdBAKDM), [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Love Struck](https://open.spotify.com/album/1XtJucTeSOb8USgV6x2Bzw) | 3:36 |
 | 60 | [Wildin'](https://open.spotify.com/track/5laEZ8aZUdmjqw41FwvNHa) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Asali \(Sweeter\)](https://open.spotify.com/album/0aReDNKvPUMsV5OchEnX4R) | 3:01 |
 
-Snapshot ID: `AAAAAC8sSKD9NW8R4D0ZuYE6HKdYXwzG`
+Snapshot ID: `AAAAABm4uEEKLtBqmKW8HeVxp4Rh/Z5j`

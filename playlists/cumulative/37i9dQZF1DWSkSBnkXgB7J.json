@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-05",
-  "description": "The exciting new music on our radar in the Middle East and North Africa.  Cover: Nour",
+  "description": "The exciting new music on our radar in the Middle East and North Africa.  Cover: TURK",
   "name": "RADAR ARABIA",
   "tracks": [
     {
@@ -280,7 +280,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-27",
       "duration_ms": 166902,
       "name": "AMANA",
       "url": "https://open.spotify.com/track/0rQFZ5pBJHxsMbF6bjTa3k"
@@ -910,7 +910,7 @@
       ],
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-27",
       "duration_ms": 179897,
       "name": "Ghali",
       "url": "https://open.spotify.com/track/2rXnsktUWQq532AnK0Bmm3"
@@ -986,7 +986,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-27",
       "duration_ms": 179368,
       "name": "Habba Fo2",
       "url": "https://open.spotify.com/track/0vpfvsnG73kMqYJQLhECgc"
@@ -1539,6 +1539,28 @@
     },
     {
       "album": {
+        "name": "Machallah",
+        "url": "https://open.spotify.com/album/2ut9jlAZPlKiXW93k4fUKl"
+      },
+      "artists": [
+        {
+          "name": "Ahlam Bakkali",
+          "url": "https://open.spotify.com/artist/49qdu9NtlQQC1gzLxbvIht"
+        },
+        {
+          "name": "Bayzii",
+          "url": "https://open.spotify.com/artist/248jAcp7aN3rtO4Kq5rUsU"
+        }
+      ],
+      "date_added": "2025-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187428,
+      "name": "Machallah",
+      "url": "https://open.spotify.com/track/3xWYJvoBmVnUuQBu4X6S1w"
+    },
+    {
+      "album": {
         "name": "Mafish",
         "url": "https://open.spotify.com/album/1pmFD1yEW5scNazsPtKLG1"
       },
@@ -1803,6 +1825,28 @@
     },
     {
       "album": {
+        "name": "Okey Okey",
+        "url": "https://open.spotify.com/album/2RSACaSTko4LiNzUz56TgG"
+      },
+      "artists": [
+        {
+          "name": "Valerieblud",
+          "url": "https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX"
+        },
+        {
+          "name": "Draganov",
+          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
+        }
+      ],
+      "date_added": "2025-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141230,
+      "name": "Okey Okey",
+      "url": "https://open.spotify.com/track/6jnKoLSlofCacuGTILhNVt"
+    },
+    {
+      "album": {
         "name": "Ountha",
         "url": "https://open.spotify.com/album/2olIPtmKbim1KmWV8pIxho"
       },
@@ -1840,6 +1884,24 @@
       "duration_ms": 207888,
       "name": "Ountha",
       "url": "https://open.spotify.com/track/4M6QHCcum2OOvxF5sblvYN"
+    },
+    {
+      "album": {
+        "name": "PEEKABOO",
+        "url": "https://open.spotify.com/album/3XiOjaFXW9EItpuHquGCfw"
+      },
+      "artists": [
+        {
+          "name": "TURK",
+          "url": "https://open.spotify.com/artist/1wFfctC3FJR269GkjAajLL"
+        }
+      ],
+      "date_added": "2025-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121263,
+      "name": "PEEKABOO",
+      "url": "https://open.spotify.com/track/5EetJzVARPtQ7cBjj5Io8Q"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LFAujdafjI.md) - [plain]
 
 > Countdown to Portola weekend! For your pre\-games, afters, spurts of manic cleaning, and everything in between\.  Curated by the <a href="https://portolamusicfestival.com/">Portola Festival</a> Department of Science and Research.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,393 likes - 59 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,391 likes - 59 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

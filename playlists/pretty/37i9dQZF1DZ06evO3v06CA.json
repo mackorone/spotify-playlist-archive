@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Nelson. The essential tracks, all in one playlist.",
-  "num_followers": 203706,
+  "num_followers": 203722,
   "original_name": "This Is Willie Nelson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUstAAAAAAB4LlFELiH4AiwUxm1RGk6n",
+  "snapshot_id": "aUx+gAAAAAAIOA8WTM8Nl7YJG5dZH+Ei",
   "tracks": [
     {
       "added_at": null,
@@ -735,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 217725,
+      "name": "Blue Skies",
+      "url": "https://open.spotify.com/track/33LQxf2T3Jbgw3XQ1H3LMY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "City Of New Orleans",
         "url": "https://open.spotify.com/album/7sZ5lfnlyqmnlcInnKf3o3"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 270573,
       "name": "Easy",
       "url": "https://open.spotify.com/track/2eA160jLLoHiJKOqvOFKJt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stardust",
-        "url": "https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 217725,
-      "name": "Blue Skies",
-      "url": "https://open.spotify.com/track/33LQxf2T3Jbgw3XQ1H3LMY"
     },
     {
       "added_at": null,
@@ -1071,26 +1071,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sinner",
-        "url": "https://open.spotify.com/album/0CJrzaavg6xQaIKolWD83H"
-      },
-      "artists": [
-        {
-          "name": "Aaron Lewis",
-          "url": "https://open.spotify.com/artist/2t2XKfWKLXpFIjFwy1K8wx"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 211146,
-      "name": "Sinner",
-      "url": "https://open.spotify.com/track/34jUlISPpEYnJqzPc7B7Sh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Here We Go Again: Celebrating The Genius Of Ray Charles",
         "url": "https://open.spotify.com/album/39xEJSZ5p2fJu7t9tA8Qt6"
       },
@@ -1111,6 +1091,26 @@
       "duration_ms": 232431,
       "name": "Come Rain Or Come Shine - Live",
       "url": "https://open.spotify.com/track/07h5NNEp2Wp0LCDNNoaxRI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/0CJrzaavg6xQaIKolWD83H"
+      },
+      "artists": [
+        {
+          "name": "Aaron Lewis",
+          "url": "https://open.spotify.com/artist/2t2XKfWKLXpFIjFwy1K8wx"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 211146,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/34jUlISPpEYnJqzPc7B7Sh"
     },
     {
       "added_at": null,

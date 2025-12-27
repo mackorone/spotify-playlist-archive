@@ -2408,7 +2408,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-27",
       "duration_ms": 170891,
       "name": "All The Things She Said",
       "url": "https://open.spotify.com/track/6WG5psY5PscQMrHP7Z26ad"
@@ -18626,7 +18626,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-27",
       "duration_ms": 210205,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/6VUjumJb7M0XwZ7rKEZzYM"
@@ -25189,7 +25189,7 @@
       "artists": [
         {
           "name": "BADGRUB",
-          "url": "https://open.spotify.com/artist/3gRNmYljgesdOTcNDZLJ2X"
+          "url": "https://open.spotify.com/artist/1oHVosfRZkSB6LA5pFAta2"
         },
         {
           "name": "Police In Paris",
@@ -28854,7 +28854,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-22",
+      "date_removed": null,
       "duration_ms": 273010,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/6gH4TId535zZLoBFSdnDFm"
@@ -36534,7 +36534,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-24",
+      "date_removed": null,
       "duration_ms": 109759,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf"
@@ -44884,10 +44884,28 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-27",
       "duration_ms": 150000,
       "name": "tattoo",
       "url": "https://open.spotify.com/track/1nj0Z4GewwQfq9yRTJ3tPi"
+    },
+    {
+      "album": {
+        "name": "tattoo",
+        "url": "https://open.spotify.com/album/47olKxoBYJUle2A5MdmaE2"
+      },
+      "artists": [
+        {
+          "name": "Hank",
+          "url": "https://open.spotify.com/artist/7qGZVXFIycBvYONsbTCz4i"
+        }
+      ],
+      "date_added": "2025-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150011,
+      "name": "tattoo",
+      "url": "https://open.spotify.com/track/639WoR26zi0dCT9q3mOk0t"
     },
     {
       "album": {

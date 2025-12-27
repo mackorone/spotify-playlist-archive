@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUstAAAAAABcH+sp2FwmVDo5orUTSLom",
+  "snapshot_id": "aUx+gAAAAACV9IOEXZl+lUnTT4bHIf0r",
   "tracks": [
     {
       "added_at": null,
@@ -223,22 +223,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "BEASTMODE 2",
-        "url": "https://open.spotify.com/album/6Ew52HWkgfbth9ihRAq2Xd"
+        "name": "Columbia",
+        "url": "https://open.spotify.com/album/68CmqCHFatt5FppZEoRWxU"
       },
       "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
         {
           "name": "Young Scooter",
           "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
         }
       ],
-      "duration_ms": 220377,
-      "name": "DOH DOH (feat. Young Scooter)",
-      "url": "https://open.spotify.com/track/0U06Yqe0nkkJlptlr7O4uO"
+      "duration_ms": 178337,
+      "name": "Columbia (Dirty)",
+      "url": "https://open.spotify.com/track/20qSuLJ90dGjpIeTekNLEC"
     },
     {
       "added_at": null,
@@ -267,22 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Columbia",
-        "url": "https://open.spotify.com/album/68CmqCHFatt5FppZEoRWxU"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        }
-      ],
-      "duration_ms": 178337,
-      "name": "Columbia (Dirty)",
-      "url": "https://open.spotify.com/track/20qSuLJ90dGjpIeTekNLEC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Honest",
         "url": "https://open.spotify.com/album/5rbqupVSYwvEmXBUnFtUf7"
       },
@@ -299,6 +279,26 @@
       "duration_ms": 298834,
       "name": "Special (feat. Young Scooter)",
       "url": "https://open.spotify.com/track/2XjcBGdV3h5NJ1hq5NFCy0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BEASTMODE 2",
+        "url": "https://open.spotify.com/album/6Ew52HWkgfbth9ihRAq2Xd"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        }
+      ],
+      "duration_ms": 220377,
+      "name": "DOH DOH (feat. Young Scooter)",
+      "url": "https://open.spotify.com/track/0U06Yqe0nkkJlptlr7O4uO"
     },
     {
       "added_at": null,
@@ -595,30 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Bank",
-        "url": "https://open.spotify.com/album/4isyF97V7nFks5mQMkZdf9"
-      },
-      "artists": [
-        {
-          "name": "Bankroll Freddie",
-          "url": "https://open.spotify.com/artist/20vLls6BmcHB0zEwpB91O2"
-        },
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        },
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        }
-      ],
-      "duration_ms": 248926,
-      "name": "Dope Talk (feat. 2 Chainz & Young Scooter)",
-      "url": "https://open.spotify.com/track/7GoyN3847Blqv2y3osZR6l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Pledge Allegiance to the Trap, Vol. 5",
         "url": "https://open.spotify.com/album/093j7UenxRyQ27vrlZrJ6d"
       },
@@ -655,6 +631,30 @@
       "duration_ms": 213026,
       "name": "Bloodshed",
       "url": "https://open.spotify.com/track/1EkSpJmeQoevNGEMSGwOS4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Big Bank",
+        "url": "https://open.spotify.com/album/4isyF97V7nFks5mQMkZdf9"
+      },
+      "artists": [
+        {
+          "name": "Bankroll Freddie",
+          "url": "https://open.spotify.com/artist/20vLls6BmcHB0zEwpB91O2"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        }
+      ],
+      "duration_ms": 248926,
+      "name": "Dope Talk (feat. 2 Chainz & Young Scooter)",
+      "url": "https://open.spotify.com/track/7GoyN3847Blqv2y3osZR6l"
     },
     {
       "added_at": null,
@@ -871,26 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Married to the Streets",
-        "url": "https://open.spotify.com/album/61amjvWzRVayd7aG19tfrj"
-      },
-      "artists": [
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        },
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        }
-      ],
-      "duration_ms": 239693,
-      "name": "77 Birds (feat. Gucci Mane)",
-      "url": "https://open.spotify.com/track/54PKRhFv5LqEX2GkwA3hqj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Zaystreet",
         "url": "https://open.spotify.com/album/4SflERwxTOuSS2VqKEJizf"
       },
@@ -915,22 +895,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perfect Timing",
-        "url": "https://open.spotify.com/album/47Q0J5RzfzIrTd6KBYmsbK"
+        "name": "Married to the Streets",
+        "url": "https://open.spotify.com/album/61amjvWzRVayd7aG19tfrj"
       },
       "artists": [
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        },
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "duration_ms": 239693,
+      "name": "77 Birds (feat. Gucci Mane)",
+      "url": "https://open.spotify.com/track/54PKRhFv5LqEX2GkwA3hqj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Young Jefe",
+        "url": "https://open.spotify.com/album/2m9oGYZ0xz12fqSGv0Ux3Q"
+      },
+      "artists": [
+        {
+          "name": "Shy Glizzy",
+          "url": "https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs"
         },
         {
           "name": "Young Scooter",
           "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
         }
       ],
-      "duration_ms": 201880,
-      "name": "Trust",
-      "url": "https://open.spotify.com/track/1OwslJYziEr3VrE7CFmVd3"
+      "duration_ms": 213773,
+      "name": "Medellin (feat. Young Scooter)",
+      "url": "https://open.spotify.com/track/4KBVpMSGoVjTQf87RVwQZL"
     },
     {
       "added_at": null,
@@ -959,26 +959,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Young Jefe",
-        "url": "https://open.spotify.com/album/2m9oGYZ0xz12fqSGv0Ux3Q"
-      },
-      "artists": [
-        {
-          "name": "Shy Glizzy",
-          "url": "https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs"
-        },
-        {
-          "name": "Young Scooter",
-          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
-        }
-      ],
-      "duration_ms": 213773,
-      "name": "Medellin (feat. Young Scooter)",
-      "url": "https://open.spotify.com/track/4KBVpMSGoVjTQf87RVwQZL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "80's Baby",
         "url": "https://open.spotify.com/album/7lz2fJQ93X8P52pSQTrDXk"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 187063,
       "name": "Drugs",
       "url": "https://open.spotify.com/track/3e1TEpSue0wB7fM9RG8klm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Perfect Timing",
+        "url": "https://open.spotify.com/album/47Q0J5RzfzIrTd6KBYmsbK"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Young Scooter",
+          "url": "https://open.spotify.com/artist/4cmA2QDPdzh8W2ytpyUGes"
+        }
+      ],
+      "duration_ms": 201880,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/1OwslJYziEr3VrE7CFmVd3"
     },
     {
       "added_at": null,

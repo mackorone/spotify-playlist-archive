@@ -1,12 +1,12 @@
 {
   "description": "This is Outkast. The essential tracks, all in one playlist.",
-  "num_followers": 166073,
+  "num_followers": 166084,
   "original_name": "This Is Outkast",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUstAAAAAAC0iwp5g0l1uVTZn2aSHB/9",
+  "snapshot_id": "aUx+gAAAAAAbwZUbdhK75a2g9i2rRLte",
   "tracks": [
     {
       "added_at": null,
@@ -795,6 +795,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "We Are The South (Greatest Hits)",
+        "url": "https://open.spotify.com/album/50TNviDm3rDP4409wtFwDQ"
+      },
+      "artists": [
+        {
+          "name": "8Ball",
+          "url": "https://open.spotify.com/artist/6B16XZWuJ9VERn7pXxCIda"
+        },
+        {
+          "name": "MJG",
+          "url": "https://open.spotify.com/artist/6pDFdYZARPitpkfm44UsOQ"
+        },
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        }
+      ],
+      "duration_ms": 325160,
+      "name": "Throw Your Hands Up (feat. Outkast)",
+      "url": "https://open.spotify.com/track/7LTyTsaXmJ7A1YtNo24XhN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Even In Darkness",
         "url": "https://open.spotify.com/album/2n4GKr0nKfFWoSTWZuNB9Z"
       },
@@ -823,30 +847,6 @@
       "duration_ms": 288293,
       "name": "Trans DF Express (feat. Cee-Lo, Outkast, Big Gipp & Backbone) - Club Mix",
       "url": "https://open.spotify.com/track/14W0RdvOB36Hcu2gvTgXrJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "We Are The South (Greatest Hits)",
-        "url": "https://open.spotify.com/album/50TNviDm3rDP4409wtFwDQ"
-      },
-      "artists": [
-        {
-          "name": "8Ball",
-          "url": "https://open.spotify.com/artist/6B16XZWuJ9VERn7pXxCIda"
-        },
-        {
-          "name": "MJG",
-          "url": "https://open.spotify.com/artist/6pDFdYZARPitpkfm44UsOQ"
-        },
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        }
-      ],
-      "duration_ms": 325160,
-      "name": "Throw Your Hands Up (feat. Outkast)",
-      "url": "https://open.spotify.com/track/7LTyTsaXmJ7A1YtNo24XhN"
     },
     {
       "added_at": null,

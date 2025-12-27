@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Solann, Anyma x EJAE et Ninho au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,373 likes - 61 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 393,833 likes - 61 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 60 | [Béni](https://open.spotify.com/track/39VYC3KC7NrfH8ngz977zZ) | [døpelym](https://open.spotify.com/artist/6CIALFc80ExDhcy2xI6eJs), [R2](https://open.spotify.com/artist/0IzqHgfk5cgQ8rR6nm5rQP) | [FREELYM](https://open.spotify.com/album/7hcmFVB5Pclui5v2kXDePS) | 2:13 |
 | 61 | [Nou Ki Boss](https://open.spotify.com/track/2kQGVOb9yckPstvJwC38RR) | [Kénédy](https://open.spotify.com/artist/4UQw6LI7i8sdQQMYhwQd71), [Priscillia](https://open.spotify.com/artist/08BtABqyRZTgHfc97fVZrK) | [Nou Ki Boss](https://open.spotify.com/album/2J0NwNHYAf5ChUdKbMZKFG) | 3:15 |
 
-Snapshot ID: `AAAAAHKU4r9IGfF6/wlcgtmM2fY6sdoR`
+Snapshot ID: `AAAAAKuHOqutLZ5QER0PvEP3Z8xdMSj0`

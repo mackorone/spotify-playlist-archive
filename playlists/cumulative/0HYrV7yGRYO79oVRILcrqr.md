@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-232 songs - 14 hr 10 min
+234 songs - 14 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Hilang](https://open.spotify.com/track/566IzROY1CbEswbjNpuuoD) | [Satu](https://open.spotify.com/artist/3fMssBRfsHoa6nskqry2mI) | [Persembahan](https://open.spotify.com/album/6RTcLu0zcvBPaVViWgiaMD) | 4:26 | 2025-10-30 | 2025-12-17 |
 | [I Can't Find a Way](https://open.spotify.com/track/47XI0FoVyWu5SQsTaKBjSF) | [Raised by Clowns](https://open.spotify.com/artist/4VT6GVYiJ0EiXL3QY8vReC) | [I Can't Find a Way](https://open.spotify.com/album/0TUynZPzeAZq2s2nnpDQ7y) | 3:38 | 2025-10-14 | 2025-11-28 |
 | [I DON'T WANT TO HOLD YOUR HAND](https://open.spotify.com/track/333h9FN6V5Gjsy0uWWTP9r) | [Screaming Lord Byron](https://open.spotify.com/artist/3o2K8R7odtpShOCa08g5Hk) | [I DON'T WANT TO HOLD YOUR HAND](https://open.spotify.com/album/0lVlutlRZzSF8c1dQBK017) | 3:22 | 2025-09-30 | 2025-12-17 |
+| [I Think They Call This Love](https://open.spotify.com/track/6YHGbYKvy86vX2AQgFkEHj) | [Luke Buwalda](https://open.spotify.com/artist/2tttx8FVZKPHl7WbnXHOAJ) | [I Think They Call This Love](https://open.spotify.com/album/7CD8kGEMKuOvoSkZSVVyNj) | 3:11 | 2025-12-26 |  |
 | [I Want You](https://open.spotify.com/track/6LvHkTsHjLcunW7v2PuWzQ) | [Vic Polsom](https://open.spotify.com/artist/2FTkR9fGunEdYPeqNo19CN) | [Rise Up](https://open.spotify.com/album/5VydD9TvVBxsJsnaHmaXCm) | 2:46 | 2025-10-22 | 2025-11-28 |
 | [I've Got No Fear](https://open.spotify.com/track/0Aj2Zv5gEcj4ndcDpvy9WQ) | [Mays Hounds](https://open.spotify.com/artist/0uyaofsOLmzcYezAAKtYkj) | [I've Got No Fear](https://open.spotify.com/album/557Qq6MMDSAzL75W5qfeDw) | 2:23 | 2025-10-22 | 2025-11-28 |
 | [Il Collezionista](https://open.spotify.com/track/0iwgPOvuMNhgVKAwymVymg) | [L'orca](https://open.spotify.com/artist/3Otlm558Nxk1NbixN4qgmp), [Walter](https://open.spotify.com/artist/2dopOJYUmdcTqBAIf6JNfR) | [Il Collezionista & Su Di Dosso](https://open.spotify.com/album/6LCSfJ0p09qp1LvxDOYPcY) | 4:12 | 2025-09-21 |  |
@@ -167,6 +168,7 @@
 | [Phoenix Blood](https://open.spotify.com/track/5T9vB7ik3DayIDTKArLzWN) | [Beyond Forever](https://open.spotify.com/artist/4IidouvoRFPlb95I8JEPKL) | [Phoenix Blood](https://open.spotify.com/album/25H5LMWei4hNC8dZQhspZa) | 3:02 | 2025-11-01 | 2025-12-17 |
 | [Pink Mars](https://open.spotify.com/track/6ZqwVLomAVnI6sKukX2coy) | [Shayan Regan](https://open.spotify.com/artist/4MqBmgnfLeYmizJVpJz65k) | [Pink Mars](https://open.spotify.com/album/7z1mPkBv180DxtOMmyWICw) | 3:44 | 2025-11-29 | 2025-12-17 |
 | [Por Debajo](https://open.spotify.com/track/0DTe6BsI9yodMWVcq6dnfG) | [Gary Tapiego](https://open.spotify.com/artist/73rYkLqdQlbp7BM6tDuo5v) | [Por Debajo](https://open.spotify.com/album/047zkzrHJj829LNoXWd0jt) | 2:41 | 2025-10-21 | 2025-11-28 |
+| [Princesa de Noche](https://open.spotify.com/track/7MIANoT9Z4Fen2OVxkUPHB) | [Salva Merino](https://open.spotify.com/artist/0yXBaiTj2LM4ZqAJKeHnDJ), [The Insomnia Night](https://open.spotify.com/artist/1kf6je9RrHLLxg5ocFLVbD) | [Princesa de Noche](https://open.spotify.com/album/1gc6uSi9f5jisAR41OGf5Y) | 4:06 | 2025-12-26 |  |
 | [Prisoner Of My Fate](https://open.spotify.com/track/3OeuBRruLfv1PlOjjrOnz0) | [Vintage Paradise](https://open.spotify.com/artist/4aPEpe1W2otfbb8HX82LN9) | [Prisoner Of My Fate](https://open.spotify.com/album/4aDtoicAYNPQ9QLmZLU21z) | 6:00 | 2025-10-14 | 2025-11-28 |
 | [Promise of salvation](https://open.spotify.com/track/7ovWStycwZ5tOZrPn3A7Lm) | [Suraj Synthesist](https://open.spotify.com/artist/6kEAlt8l3zvFrxfHhRJfaK) | [Consume this album...\(Before the ban\)](https://open.spotify.com/album/6CabXiXT7t5cqCekHJabzY) | 2:18 | 2025-10-30 | 2025-12-17 |
 | [Pure Class](https://open.spotify.com/track/2pc3KRm7C2gekeLULubtAN) | [Synthetic Broadcast](https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ) | [Reverie](https://open.spotify.com/album/5c7IszYceIopxhjpZGSIKL) | 2:59 | 2025-09-28 | 2025-12-17 |

@@ -1,6 +1,6 @@
 {
   "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu. ",
-  "num_followers": 195973,
+  "num_followers": 195986,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
@@ -591,22 +591,6 @@
     {
       "added_at": "2025-12-26 00:00:19",
       "album": {
-        "name": "Do You Hate Me Now",
-        "url": "https://open.spotify.com/album/5ShprgDId2y63ncajPVS8s"
-      },
-      "artists": [
-        {
-          "name": "Winona Oak",
-          "url": "https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1"
-        }
-      ],
-      "duration_ms": 207752,
-      "name": "Do You Hate Me Now",
-      "url": "https://open.spotify.com/track/34qYoMxmCRJL19n0nnJEA2"
-    },
-    {
-      "added_at": "2025-12-26 00:00:19",
-      "album": {
         "name": "UPPENBART",
         "url": "https://open.spotify.com/album/6B8CngVy31ukIgv0cayn85"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 141000,
       "name": "UPPENBART",
       "url": "https://open.spotify.com/track/4meKZi0x36BTVKSbtsCFYs"
+    },
+    {
+      "added_at": "2025-12-26 00:00:19",
+      "album": {
+        "name": "Do You Hate Me Now",
+        "url": "https://open.spotify.com/album/5ShprgDId2y63ncajPVS8s"
+      },
+      "artists": [
+        {
+          "name": "Winona Oak",
+          "url": "https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1"
+        }
+      ],
+      "duration_ms": 207752,
+      "name": "Do You Hate Me Now",
+      "url": "https://open.spotify.com/track/34qYoMxmCRJL19n0nnJEA2"
     },
     {
       "added_at": "2025-12-26 00:00:19",
@@ -791,26 +791,6 @@
     {
       "added_at": "2025-12-26 00:00:19",
       "album": {
-        "name": "Konfetti",
-        "url": "https://open.spotify.com/album/4aWHBRPvgHpM39DUrvCMTR"
-      },
-      "artists": [
-        {
-          "name": "Molly Sand\u00e9n",
-          "url": "https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY"
-        },
-        {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
-        }
-      ],
-      "duration_ms": 194425,
-      "name": "Konfetti",
-      "url": "https://open.spotify.com/track/57ilwMdNXbsbVaP8GtfEIB"
-    },
-    {
-      "added_at": "2025-12-26 00:00:19",
-      "album": {
         "name": "Wish",
         "url": "https://open.spotify.com/album/3D4uWbaadwTFrOgddwKnGW"
       },
@@ -831,6 +811,26 @@
     {
       "added_at": "2025-12-26 00:00:19",
       "album": {
+        "name": "Konfetti",
+        "url": "https://open.spotify.com/album/4aWHBRPvgHpM39DUrvCMTR"
+      },
+      "artists": [
+        {
+          "name": "Molly Sand\u00e9n",
+          "url": "https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY"
+        },
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        }
+      ],
+      "duration_ms": 194425,
+      "name": "Konfetti",
+      "url": "https://open.spotify.com/track/57ilwMdNXbsbVaP8GtfEIB"
+    },
+    {
+      "added_at": "2025-12-26 00:00:19",
+      "album": {
         "name": "Sugar High",
         "url": "https://open.spotify.com/album/4l5nhLF57bPawn8SR6lwrt"
       },
@@ -847,22 +847,6 @@
     {
       "added_at": "2025-12-26 00:00:19",
       "album": {
-        "name": "Edge of the Earth",
-        "url": "https://open.spotify.com/album/1WljWKt77EMsgjRdnMfUHN"
-      },
-      "artists": [
-        {
-          "name": "Skott",
-          "url": "https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc"
-        }
-      ],
-      "duration_ms": 220348,
-      "name": "Edge of the Earth",
-      "url": "https://open.spotify.com/track/3GzhyEkF7m89mVv3BUJh8N"
-    },
-    {
-      "added_at": "2025-12-26 00:00:19",
-      "album": {
         "name": "Love is for Losers",
         "url": "https://open.spotify.com/album/2KUV1COZY4KFM2mtOA5cBs"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 204167,
       "name": "Love is for Losers",
       "url": "https://open.spotify.com/track/5QcofXOqhJBxkUKftdRA0Q"
+    },
+    {
+      "added_at": "2025-12-26 00:00:19",
+      "album": {
+        "name": "Edge of the Earth",
+        "url": "https://open.spotify.com/album/1WljWKt77EMsgjRdnMfUHN"
+      },
+      "artists": [
+        {
+          "name": "Skott",
+          "url": "https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc"
+        }
+      ],
+      "duration_ms": 220348,
+      "name": "Edge of the Earth",
+      "url": "https://open.spotify.com/track/3GzhyEkF7m89mVv3BUJh8N"
     },
     {
       "added_at": "2025-12-26 00:00:19",
@@ -935,22 +935,6 @@
     {
       "added_at": "2025-12-26 00:00:19",
       "album": {
-        "name": "okej att d\u00f6 (igen) [isby sessions]",
-        "url": "https://open.spotify.com/album/49z0pbm3qLBInFJ1DiaQeC"
-      },
-      "artists": [
-        {
-          "name": "Miriam Bryant",
-          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
-        }
-      ],
-      "duration_ms": 174021,
-      "name": "okej att d\u00f6 (igen) - isby sessions",
-      "url": "https://open.spotify.com/track/7j8RgbaO0UahKA9NMD3nFU"
-    },
-    {
-      "added_at": "2025-12-26 00:00:19",
-      "album": {
         "name": "Till evigheten",
         "url": "https://open.spotify.com/album/4pPX1hnP4aUtTmDhAYZFiA"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 191558,
       "name": "Till evigheten",
       "url": "https://open.spotify.com/track/5awpE3fWEAIjvzqvKn82eF"
+    },
+    {
+      "added_at": "2025-12-26 00:00:19",
+      "album": {
+        "name": "okej att d\u00f6 (igen) [isby sessions]",
+        "url": "https://open.spotify.com/album/49z0pbm3qLBInFJ1DiaQeC"
+      },
+      "artists": [
+        {
+          "name": "Miriam Bryant",
+          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
+        }
+      ],
+      "duration_ms": 174021,
+      "name": "okej att d\u00f6 (igen) - isby sessions",
+      "url": "https://open.spotify.com/track/7j8RgbaO0UahKA9NMD3nFU"
     },
     {
       "added_at": "2025-12-26 00:00:19",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2025-12-26 00:00:19",
       "album": {
-        "name": "Forgive, Forget",
-        "url": "https://open.spotify.com/album/3Rf6s8Ssci4wfPifJEoBPE"
-      },
-      "artists": [
-        {
-          "name": "Kevin Walker",
-          "url": "https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT"
-        }
-      ],
-      "duration_ms": 169608,
-      "name": "Forgive, Forget",
-      "url": "https://open.spotify.com/track/72gpoH9hjA3uJJBG64nEVv"
-    },
-    {
-      "added_at": "2025-12-26 00:00:19",
-      "album": {
         "name": "Ramla",
         "url": "https://open.spotify.com/album/39OJYOVxta0JzTODnefED9"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 154156,
       "name": "Ramla",
       "url": "https://open.spotify.com/track/5L8ZRVUZOgQMlz5jsKjCTE"
+    },
+    {
+      "added_at": "2025-12-26 00:00:19",
+      "album": {
+        "name": "Forgive, Forget",
+        "url": "https://open.spotify.com/album/3Rf6s8Ssci4wfPifJEoBPE"
+      },
+      "artists": [
+        {
+          "name": "Kevin Walker",
+          "url": "https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT"
+        }
+      ],
+      "duration_ms": 169608,
+      "name": "Forgive, Forget",
+      "url": "https://open.spotify.com/track/72gpoH9hjA3uJJBG64nEVv"
     },
     {
       "added_at": "2025-12-26 00:00:19",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2025-12-26 00:00:19",
       "album": {
+        "name": "Greczula (Deluxe Version)",
+        "url": "https://open.spotify.com/album/15G341uaHpzyllZGxgf9Gf"
+      },
+      "artists": [
+        {
+          "name": "Greczula",
+          "url": "https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4"
+        }
+      ],
+      "duration_ms": 161194,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/4MrhnXxJ2FZgONBoKRWFAw"
+    },
+    {
+      "added_at": "2025-12-26 00:00:19",
+      "album": {
         "name": "Klara",
         "url": "https://open.spotify.com/album/5CNoE336D6RcLoWP0w9h2H"
       },
@@ -1479,22 +1495,6 @@
     {
       "added_at": "2025-12-26 00:00:19",
       "album": {
-        "name": "Greczula (Deluxe Version)",
-        "url": "https://open.spotify.com/album/15G341uaHpzyllZGxgf9Gf"
-      },
-      "artists": [
-        {
-          "name": "Greczula",
-          "url": "https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4"
-        }
-      ],
-      "duration_ms": 161194,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/4MrhnXxJ2FZgONBoKRWFAw"
-    },
-    {
-      "added_at": "2025-12-26 00:00:19",
-      "album": {
         "name": "Bl\u00e5\u00f6gd",
         "url": "https://open.spotify.com/album/1nxYAabZgRXCzGo14eBYWv"
       },
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2025-12-26 00:00:19",
       "album": {
-        "name": "Dag 1",
-        "url": "https://open.spotify.com/album/7xte7lrGFkhOv3lvN4zyIp"
-      },
-      "artists": [
-        {
-          "name": "Labyrint",
-          "url": "https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo"
-        }
-      ],
-      "duration_ms": 214642,
-      "name": "Dag 1",
-      "url": "https://open.spotify.com/track/1uldIZbqjW1nMER6ktCQLS"
-    },
-    {
-      "added_at": "2025-12-26 00:00:19",
-      "album": {
         "name": "EXISTENS",
         "url": "https://open.spotify.com/album/0XDsq9zTHP8OI5UW1PE9lm"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 172874,
       "name": "EXISTENS",
       "url": "https://open.spotify.com/track/1HQnWOBDLYgRpHRc0YvQBo"
+    },
+    {
+      "added_at": "2025-12-26 00:00:19",
+      "album": {
+        "name": "Dag 1",
+        "url": "https://open.spotify.com/album/7xte7lrGFkhOv3lvN4zyIp"
+      },
+      "artists": [
+        {
+          "name": "Labyrint",
+          "url": "https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo"
+        }
+      ],
+      "duration_ms": 214642,
+      "name": "Dag 1",
+      "url": "https://open.spotify.com/track/1uldIZbqjW1nMER6ktCQLS"
     },
     {
       "added_at": "2025-12-26 00:00:19",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2025-12-26 00:00:19",
       "album": {
-        "name": "Krig",
-        "url": "https://open.spotify.com/album/182MDeWuLgGIFOxRA077d4"
-      },
-      "artists": [
-        {
-          "name": "Labyrint",
-          "url": "https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo"
-        }
-      ],
-      "duration_ms": 133608,
-      "name": "Krig",
-      "url": "https://open.spotify.com/track/3ZjS9KHqg94sTPnPy2HB26"
-    },
-    {
-      "added_at": "2025-12-26 00:00:19",
-      "album": {
         "name": "Bl\u00e5ljus",
         "url": "https://open.spotify.com/album/2iKJ2xzW2SfwrTX873AaiF"
       },
@@ -1707,6 +1691,22 @@
     {
       "added_at": "2025-12-26 00:00:19",
       "album": {
+        "name": "Krig",
+        "url": "https://open.spotify.com/album/182MDeWuLgGIFOxRA077d4"
+      },
+      "artists": [
+        {
+          "name": "Labyrint",
+          "url": "https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo"
+        }
+      ],
+      "duration_ms": 133608,
+      "name": "Krig",
+      "url": "https://open.spotify.com/track/3ZjS9KHqg94sTPnPy2HB26"
+    },
+    {
+      "added_at": "2025-12-26 00:00:19",
+      "album": {
         "name": "F\u00f6rf\u00e4der",
         "url": "https://open.spotify.com/album/5Kl1yWEc4NRQULIKjAdEsN"
       },
@@ -1719,6 +1719,22 @@
       "duration_ms": 301213,
       "name": "F\u00f6rf\u00e4der",
       "url": "https://open.spotify.com/track/221qqYWKfl34pEtedawb1G"
+    },
+    {
+      "added_at": "2025-12-26 00:00:19",
+      "album": {
+        "name": "Jag lovar",
+        "url": "https://open.spotify.com/album/2Yo0cj7ZMiJwsDavajoXpP"
+      },
+      "artists": [
+        {
+          "name": "Ella Tiritiello",
+          "url": "https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp"
+        }
+      ],
+      "duration_ms": 183785,
+      "name": "Jag lovar",
+      "url": "https://open.spotify.com/track/4y8EzX57AY2RB5reMQM1XX"
     },
     {
       "added_at": "2025-12-26 00:00:19",
@@ -1743,18 +1759,18 @@
     {
       "added_at": "2025-12-26 00:00:19",
       "album": {
-        "name": "Jag lovar",
-        "url": "https://open.spotify.com/album/2Yo0cj7ZMiJwsDavajoXpP"
+        "name": "Slott av luft",
+        "url": "https://open.spotify.com/album/41jolTTrQSFIW0H7PuXr0n"
       },
       "artists": [
         {
-          "name": "Ella Tiritiello",
-          "url": "https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp"
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
         }
       ],
-      "duration_ms": 183785,
-      "name": "Jag lovar",
-      "url": "https://open.spotify.com/track/4y8EzX57AY2RB5reMQM1XX"
+      "duration_ms": 161447,
+      "name": "Slott av luft",
+      "url": "https://open.spotify.com/track/4KDSCPNo7yPOLnAKIcX3jm"
     },
     {
       "added_at": "2025-12-26 00:00:19",
@@ -1771,22 +1787,6 @@
       "duration_ms": 153998,
       "name": "Ringar p\u00e5 vatten",
       "url": "https://open.spotify.com/track/0TKpAnZTeEnPkVbbTD2tHY"
-    },
-    {
-      "added_at": "2025-12-26 00:00:19",
-      "album": {
-        "name": "Slott av luft",
-        "url": "https://open.spotify.com/album/41jolTTrQSFIW0H7PuXr0n"
-      },
-      "artists": [
-        {
-          "name": "Seinabo Sey",
-          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
-        }
-      ],
-      "duration_ms": 161447,
-      "name": "Slott av luft",
-      "url": "https://open.spotify.com/track/4KDSCPNo7yPOLnAKIcX3jm"
     },
     {
       "added_at": "2025-12-26 00:00:19",

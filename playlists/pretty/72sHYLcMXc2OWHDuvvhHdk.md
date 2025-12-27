@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 553 likes - 2,128 songs - 5 day 4 hr 35 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 553 likes - 2,135 songs - 5 day 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2136,5 +2136,12 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2126 | [Teri Meri](https://open.spotify.com/track/5frt1EfafDjUzhCvSmrYq1) | [Bollywood Beats](https://open.spotify.com/artist/0Vs1xFm9wqCxobpz2gzHm7) | [Teri Meri](https://open.spotify.com/album/4VB6QPt9CCl7rl34JdY8wQ) | 3:59 |
 | 2127 | [Take It Easy](https://open.spotify.com/track/0l1s4gJZvUSnKRh84xI8UN) | [Mckai](https://open.spotify.com/artist/4emtw8l93u2ub1FdLdnm5X) | [Take It Easy](https://open.spotify.com/album/4Rxd9wfk4KYycakiVTXCPC) | 3:30 |
 | 2128 | [É Sério!](https://open.spotify.com/track/7sfHvX7bdWXW2wmToS1UHL) | [Custódio Rezende](https://open.spotify.com/artist/5HIRp9osuBwibxJi1ovlRQ), [Filipe Moura](https://open.spotify.com/artist/1e9EhxWXrgtOHn8SSfndF0), [Natan Gomes](https://open.spotify.com/artist/5pBWviF6S5gwkkCQT2eGRB), [William Fialho](https://open.spotify.com/artist/0oyHbNiMJx2pVz17w2BOYn), [Robson Albuquerque](https://open.spotify.com/artist/4ONiEPqFksaJ3M96CSWxIq) | [É Sério!](https://open.spotify.com/album/4Sg4kuMbSUQPa1qbd6zrQx) | 4:29 |
+| 2129 | [Dream Wave](https://open.spotify.com/track/2WiErGM7VxDYC98Cskv3nj) | [Misery Party](https://open.spotify.com/artist/0xstTI7HcIopzr00SoH9Y2) | [Dream Wave](https://open.spotify.com/album/1Fp0qz0Q3bAE5IQhrKE89y) | 3:04 |
+| 2130 | [Pantanosas](https://open.spotify.com/track/7HrmWxyn5WKbl48Yf9gjSc) | [Abismo](https://open.spotify.com/artist/4BHfQZgTgag2M8R8vRHBDN) | [Nómadas y Demonios](https://open.spotify.com/album/2sUmd2Yi1n7aNjzx62qCCP) | 3:07 |
+| 2131 | [Offshore](https://open.spotify.com/track/2IKeZl0sE9hxbSbLDwrcY9) | [Cyfnos](https://open.spotify.com/artist/14ywOW1zA8u5jYhABPTkDr) | [Coda](https://open.spotify.com/album/4gxF1o488fMLkAFWiMzX25) | 2:37 |
+| 2132 | [La Nostalgia](https://open.spotify.com/track/0eaTPF1POdIbqEpIa1vMHn) | [Nacho Sarmiento](https://open.spotify.com/artist/2r302cqUviplTGkXuBlLmr) | [La Nostalgia](https://open.spotify.com/album/78mlaTFw8UjB3ZnUwOimWe) | 4:05 |
+| 2133 | [Quiero vivir en el espacio](https://open.spotify.com/track/3yWe7WGRUfG3wbXyDMHzOh) | [Mr\. Mol](https://open.spotify.com/artist/0Pzhf2LTb0C0RJeAxaEBjx), [Lorenzo Graef](https://open.spotify.com/artist/4y9vxtCepgauWVhNLOMWCW), [Pat Quinteros](https://open.spotify.com/artist/5pNjXSuX973oATEuCzHlio) | [Lo primero que se te ocurra](https://open.spotify.com/album/6xIC1j2VkTC0Ekzc52JLtJ) | 5:26 |
+| 2134 | [Urlo di Pace \(Pace, Ora, Sempre\)](https://open.spotify.com/track/2KJRRnYtlq0ybFE5zvbfAK) | [Laci Dj](https://open.spotify.com/artist/7MEDNBuTRtw2bXNBjZ9XDY), [Aelia Vex](https://open.spotify.com/artist/6y6YOsYzbL0bn2Cc97CNYW) | [Urlo di Pace \(Pace, Ora, Sempre\)](https://open.spotify.com/album/08G1AG6jjFYANkSV4L79hL) | 3:47 |
+| 2135 | [L'amore c'è](https://open.spotify.com/track/4bEWTVyuR1HSq5keoNWL6t) | [Marco Guardiano](https://open.spotify.com/artist/1CtnmLECMYU4DhVP59Y1CR) | [L'amore c'è](https://open.spotify.com/album/7DhIHKo4IfdVVBzfRqCudq) | 4:01 |
 
-Snapshot ID: `AAAI5V5IgZvTt1zObYvCgr2iAKUgxMoc`
+Snapshot ID: `AAAI7Jy4qVVrmKPHJ6KeWqq2V054Dd4k`

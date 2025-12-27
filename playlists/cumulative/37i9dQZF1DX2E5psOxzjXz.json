@@ -267,6 +267,32 @@
     },
     {
       "album": {
+        "name": "Afsanay",
+        "url": "https://open.spotify.com/album/3FHrEBAwQ6ivt8QuyLqQLQ"
+      },
+      "artists": [
+        {
+          "name": "Alex Shahbaz",
+          "url": "https://open.spotify.com/artist/2ozQBz0oMeKqW2xSomWVwp"
+        },
+        {
+          "name": "Alycia Dias",
+          "url": "https://open.spotify.com/artist/69EG46nu7SNft0lDeI46Z1"
+        },
+        {
+          "name": "Zaheer Abbas",
+          "url": "https://open.spotify.com/artist/6ofqXFiMGMj8ALWuHs6ONA"
+        }
+      ],
+      "date_added": "2025-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84000,
+      "name": "Afsanay",
+      "url": "https://open.spotify.com/track/4UUmDCvTg3WO0qpMHPZYdq"
+    },
+    {
+      "album": {
         "name": "Aik Wari",
         "url": "https://open.spotify.com/album/1S9V8lyotEqXyVK0fNVOHU"
       },

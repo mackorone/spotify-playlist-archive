@@ -2405,6 +2405,24 @@
     },
     {
       "album": {
+        "name": "over time",
+        "url": "https://open.spotify.com/album/1yQjcEAY5y5lxYupIaleHo"
+      },
+      "artists": [
+        {
+          "name": "i.am.u.",
+          "url": "https://open.spotify.com/artist/2ikhrwYSd90KMYRIIS8Iju"
+        }
+      ],
+      "date_added": "2025-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123691,
+      "name": "fade out",
+      "url": "https://open.spotify.com/track/2YdfYkX3v6o0ogBCIuPiQW"
+    },
+    {
+      "album": {
         "name": "Feel Good Inc.",
         "url": "https://open.spotify.com/album/4ylZuLcnZ4XSTrwY0suaFb"
       },
@@ -8640,6 +8658,24 @@
       "duration_ms": 387692,
       "name": "Stay",
       "url": "https://open.spotify.com/track/4XBOr6AyDRmjBDQrUaHPsC"
+    },
+    {
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/1UANyBGhXuLjNZ5qeclpdA"
+      },
+      "artists": [
+        {
+          "name": "Julien Fade",
+          "url": "https://open.spotify.com/artist/75jzFWGzvtNIwV7xoAp0wg"
+        }
+      ],
+      "date_added": "2025-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216519,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/6UTUFTUBJEDtO9HXWO1KEA"
     },
     {
       "album": {

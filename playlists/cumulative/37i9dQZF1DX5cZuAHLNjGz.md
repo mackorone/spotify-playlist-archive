@@ -4,7 +4,7 @@
 
 > Ultimate 101 Punjabi Hits with AP Dhillon
 
-552 songs - 1 day 4 hr 9 min
+553 songs - 1 day 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,6 +296,7 @@
 | [Love Ya](https://open.spotify.com/track/4Vaa9Mq34xA9cSX8B7PtCN) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Love Ya](https://open.spotify.com/album/74AG3N4OJWlJR19gRIEJyB) | 2:41 | 2024-01-05 | 2024-04-19 |
 | [Love Ya](https://open.spotify.com/track/5RWZ6TVZ0HeFTdRWu3VQ7w) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Sagar](https://open.spotify.com/artist/1uY9B9QroF5K8wPyeEO1QN) | [Love Ya](https://open.spotify.com/album/4VkH37VVMJ2geNURWVg1W7) | 2:41 | 2024-01-05 | 2025-03-01 |
 | [Lover](https://open.spotify.com/track/0XwRlvv3KlOu4HWlOH34XG) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [MoonChild Era](https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b) | 3:10 | 2022-05-29 | 2024-08-17 |
+| [Low Rider](https://open.spotify.com/track/54eRJjpGrbomPpChIlVYgy) | [Saabi Bhinder](https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr), [Real Boss](https://open.spotify.com/artist/7mAbpafXc2MIAZn4ldxEuP), [CHEETAH](https://open.spotify.com/artist/48jxktLmsxYggMW9XpdI15) | [Low Rider](https://open.spotify.com/album/28BL2zT9xYHkzQILhHdRMv) | 3:05 | 2025-12-26 |  |
 | [Luna](https://open.spotify.com/track/1Hy2ZRkFGC3P47r6lDX2sy) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [MoonChild Era](https://open.spotify.com/album/0zV96rKdfWliVHNBpAsd2b) | 3:06 | 2022-05-29 | 2022-12-01 |
 | [Ma Belle](https://open.spotify.com/track/3D0pmiK3zyF9PudyJ8mkor) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Amari](https://open.spotify.com/artist/6833GgqHOy9y9Dqnsxko1u) | [Ma Belle](https://open.spotify.com/album/0q6ZMd3ScXa3Uql600gmcA) | 2:40 | 2022-05-29 | 2023-08-24 |
 | [Maan Punjabi \- Spotify Singles](https://open.spotify.com/track/6zWZp7gpqXuY5Fb4HXhb9C) | [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx) | [Maan Punjabi \- Spotify Singles](https://open.spotify.com/album/0tiQGJvtfSDtqGURqSU2e3) | 2:33 | 2023-03-18 | 2023-04-20 |
@@ -304,7 +305,7 @@
 | [Majha Block](https://open.spotify.com/track/3CPvL9ehmERejt7b5RvVAY) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Majha Block](https://open.spotify.com/album/284tuekFOZ6066Schm1gE7) | 4:09 | 2022-05-29 | 2022-06-03 |
 | [Majhail](https://open.spotify.com/track/0cpyy8xLYRt1OdlnqPmMnm) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [Majhail](https://open.spotify.com/album/3l9zX9nHVRjYLbx5ya77ha) | 2:55 | 2022-05-29 | 2023-08-01 |
 | [MAJHE AALE](https://open.spotify.com/track/5eN1nmOe9R29OBL6soTJov) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh), [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [Gminxr](https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS) | [HIDDEN GEMS](https://open.spotify.com/album/3fOswFPlmSWKTTFTlksdiv) | 2:50 | 2022-05-29 | 2023-05-27 |
-| [Malwa Flow](https://open.spotify.com/track/09VWVd647SOaxdOldbQ60U) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N) | [Malwa Flow](https://open.spotify.com/album/0aW4c50XWyPUuB8upIfYQu) | 3:17 | 2025-02-28 |  |
+| [Malwa Flow](https://open.spotify.com/track/09VWVd647SOaxdOldbQ60U) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N) | [Malwa Flow](https://open.spotify.com/album/0aW4c50XWyPUuB8upIfYQu) | 3:17 | 2025-02-28 | 2025-12-27 |
 | [Malwain](https://open.spotify.com/track/2BW6LkyuZjrSgRsCOLL45B) | [Pari Pandher](https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA) | [1996](https://open.spotify.com/album/7ebGqKGjGg7aaBs5OTOnbM) | 2:35 | 2023-09-25 | 2023-10-26 |
 | [Maniac \- Bonus Track \[From "Glory"\]](https://open.spotify.com/track/7flUTy7LFKqIqERV7qgxeO) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Ragini Vishwakarma](https://open.spotify.com/artist/3UCFb7SJuft3iuboHfslzj), [Arjun Ajnabee](https://open.spotify.com/artist/2cu64IeD1D7wFS1ZD9wqBO) | [Maniac \- Bonus Track \[From "Glory"\]](https://open.spotify.com/album/625teJ2rC8nsi8dfGUYjU6) | 2:53 | 2025-02-28 | 2025-09-06 |
 | [MEDAL](https://open.spotify.com/track/4K5aBuakMjnDhFa56CmlHC) | [Chandra Brar](https://open.spotify.com/artist/5sieaTASHA1VDIsOg04ubm), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [MEDAL](https://open.spotify.com/album/1UWSQ9JqRDlPfFMR89J9kf) | 2:13 | 2024-03-31 |  |

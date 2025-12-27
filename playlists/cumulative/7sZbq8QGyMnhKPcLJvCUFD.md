@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-806 songs - 1 day 16 hr 13 min
+807 songs - 1 day 16 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [Don't Stay](https://open.spotify.com/track/5QMwOxEiP3My3HaUxGj4Sf) | [NGO](https://open.spotify.com/artist/3UKatg0fWx5md56wN6mEYb) | [Don't Stay](https://open.spotify.com/album/5gBqiNczDMwkm4hM5BrhKo) | 2:34 | 2024-01-11 | 2024-08-28 |
 | [Don't Surrender](https://open.spotify.com/track/7CYmaKqY6HuQrP8JBaniAP) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [EMM](https://open.spotify.com/artist/1pYPWJEmCbWjcqnxw3qcyo) | [Don't Surrender](https://open.spotify.com/album/6rnQEX7eeA2POsxsk38QIV) | 2:45 | 2023-08-08 | 2024-03-13 |
 | [Don't Understand](https://open.spotify.com/track/068ysAB24O3bxsG2ckfOdh) | [Sketchez](https://open.spotify.com/artist/3i1DZLmhjic0xxPoAhwSY6) | [Don't Understand](https://open.spotify.com/album/2R53EaGCJFfcZb6Pw9k4Ff) | 2:18 | 2023-12-13 | 2024-04-17 |
+| [Don't Wake Me Up](https://open.spotify.com/track/0gnZukG3p3XcRt2BF8ZcoU) | [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS) | [Don't Wake Me Up](https://open.spotify.com/album/3BG9PweBEnI1wE8Vvtvo4L) | 2:31 | 2025-12-26 |  |
 | [Don't Want To Feel](https://open.spotify.com/track/0MbShZ0lNiflOae1B0cCD4) | [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0), [Highlnd](https://open.spotify.com/artist/5CI6YfdGj33Dk91IiUge82), [nøll](https://open.spotify.com/artist/5wtzhSRB6edfUruFWvLxpL) | [Playing with Fire](https://open.spotify.com/album/19wkkvKkqO1SY9M3jYD8Nl) | 3:31 | 2023-07-07 | 2023-08-10 |
 | [Don't Want To Feel](https://open.spotify.com/track/5WZogsNGbF8m0FU68f9pV4) | [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0), [Highlnd](https://open.spotify.com/artist/5CI6YfdGj33Dk91IiUge82), [nøll](https://open.spotify.com/artist/5wtzhSRB6edfUruFWvLxpL) | [Don't Want To Feel](https://open.spotify.com/album/21C6omxO7GWCKW9CSKictI) | 3:31 | 2023-04-22 | 2023-08-10 |
 | [Done Better](https://open.spotify.com/track/3wl77mkSw6UVa0ciUKB6xS) | [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t), [Clarx](https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr), [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [Done Better](https://open.spotify.com/album/2IM4meQQN3QrdA3Mfv63kh) | 2:50 | 2023-12-26 | 2024-08-28 |

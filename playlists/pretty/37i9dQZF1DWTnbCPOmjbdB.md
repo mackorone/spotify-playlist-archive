@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 
 > Najlepsze polskie piosenki na czasie\. Cover: Oskar Cyms
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,035 likes - 60 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,050 likes - 60 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 | 59 | [Układ otwarty](https://open.spotify.com/track/3ZSJjja6EisRGI7LHEBMid) | [Kuba Badach](https://open.spotify.com/artist/5370ZRL4QLnYElDr8sjDzC) | [Radio Edit](https://open.spotify.com/album/1jQ2hZKn5vxyIbyzPvOmBC) | 3:55 |
 | 60 | [Jesteś?](https://open.spotify.com/track/51IdOPRXURegKEozbMlUSy) | [Kamil Bednarek](https://open.spotify.com/artist/5UUsQ38YTugFjdLX82IDAE), [NATASZA](https://open.spotify.com/artist/2XePkLP2RohvFM76UWvUUG) | [Jesteś?](https://open.spotify.com/album/09Zaon27t4c9EGmNDvvi7U) | 3:35 |
 
-Snapshot ID: `AAAAAHDvfHVi01QKJMKqkB6LME02I8KR`
+Snapshot ID: `AAAAAHD1OFWsikwL2qhkyRssyIVpzb5Y`

@@ -1,12 +1,12 @@
 {
   "description": "Celebrating individuality within independent music",
-  "num_followers": 1171,
+  "num_followers": 1170,
   "original_name": "INDI(E)VIDUAL",
   "owner": {
     "name": "The Mushy Pea",
     "url": "https://open.spotify.com/user/1139243362"
   },
-  "snapshot_id": "AAAMmxWTkQ0NllZZDU5gD18i5nWKmCjX",
+  "snapshot_id": "AAAMnMZHUCYOdc3gh9FStZiV1kO+jW8y",
   "tracks": [
     {
       "added_at": "2025-11-01 22:32:29",
@@ -1043,6 +1043,22 @@
       "duration_ms": 183000,
       "name": "Hold On Til You Let Go (Tourist Version)",
       "url": "https://open.spotify.com/track/7nkBhPsOjWRjvTGZI1DPyz"
+    },
+    {
+      "added_at": "2025-12-26 09:35:51",
+      "album": {
+        "name": "Fingers Crossed",
+        "url": "https://open.spotify.com/album/3rtqRLOBd3NMTmocyqu54Q"
+      },
+      "artists": [
+        {
+          "name": "Annabelle Grace",
+          "url": "https://open.spotify.com/artist/20lr4qe8AZ4I2vuVl6NlL7"
+        }
+      ],
+      "duration_ms": 228291,
+      "name": "Fingers Crossed",
+      "url": "https://open.spotify.com/track/3vFYVPDRiQjCRJnqgzNbE6"
     }
   ],
   "unique_name": "INDI(E)VIDUAL",

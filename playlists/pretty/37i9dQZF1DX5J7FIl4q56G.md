@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Worm
 
-[Spotify](https://open.spotify.com/user/spotify) - 780,184 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 780,385 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 99 | [Just Play](https://open.spotify.com/track/0ObnrJ9jGUr5bhNyhCclGI) | [Last Hounds](https://open.spotify.com/artist/61yrtlfW7trRIP8H3i9gr7), [Jason Aalon Butler](https://open.spotify.com/artist/7fvTBshis8LPl6TrjnfOsl), [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [Just Play](https://open.spotify.com/album/1EHinRwItOoEkpDGqA0KRj) | 3:28 |
 | 100 | [Khar Khulz](https://open.spotify.com/track/6KOWoOmUbT4igl66VzxcAq) | [Uuhai](https://open.spotify.com/artist/6VIFWAbirPFzMWaeENVDiG) | [Khar Khulz](https://open.spotify.com/album/4T5rQuEafiJUY4gb1QP6N8) | 3:43 |
 
-Snapshot ID: `AAAAAIr+CWk7F9ZFG5i7KEvwnDzERX9t`
+Snapshot ID: `AAAAAJVbKAvrnQyEh1qdFNonJQiNSWKw`

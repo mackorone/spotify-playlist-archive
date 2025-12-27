@@ -4,7 +4,7 @@
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: AFROJACK
 
-2,104 songs - 4 day 11 hr 13 min
+2,105 songs - 4 day 11 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -437,6 +437,7 @@
 | [Disco Kissing](https://open.spotify.com/track/6MECIOnMn0h1mdJfey9BOx) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [MORGXN](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Disco Kissing](https://open.spotify.com/album/1lmSOfKZKwFR996kNlaEyQ) | 3:05 | 2025-12-11 |  |
 | [Disco Marathon \(feat\. NEEKA\)](https://open.spotify.com/track/6eLLQ5NzQchs3RalH4TcVa) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [NEEKA](https://open.spotify.com/artist/1JPZHb1qziDJ05n0a1OvfW) | [Disco Marathon \(feat\. NEEKA\)](https://open.spotify.com/album/00g9nQ0HVCvPIN6qEwQww8) | 2:16 | 2024-06-13 | 2024-07-19 |
 | [Distance](https://open.spotify.com/track/2WhU8QXdle9fxxocfirymP) | [Inwavethings](https://open.spotify.com/artist/0WrAjJVDXYCyet0oyRffHQ), [XXX//PEKE//XXX](https://open.spotify.com/artist/0rOQLaWu3WkKv8BFjVPp6J) | [Distance](https://open.spotify.com/album/3PgD0mbwdYZfuWKH0VmzXQ) | 1:55 | 2023-04-13 | 2023-05-19 |
+| [Dive Into The Ocean \(Prod\. By Alok\)](https://open.spotify.com/track/1QUE9sIUcCA2uvcieOQ2uJ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Dive Into The Ocean \(Prod\. By Alok\)](https://open.spotify.com/album/3wNI7uuXR8S3PKVjjJ6JMA) | 3:38 | 2025-12-25 |  |
 | [Divine](https://open.spotify.com/track/4pkSzjnEYghi9kc9BNwuJu) | [Solsta](https://open.spotify.com/artist/1NCH7h2KWh82zxiriFUh3A), [Amraks](https://open.spotify.com/artist/45QSSn5J9uRnJqyCRxTBxw), [Jewel Owusu](https://open.spotify.com/artist/6juZJy9PxiYX2EhuxW4AzW) | [Divine](https://open.spotify.com/album/3vqjyD50i2FGxdwshFiXV5) | 2:47 | 2024-09-12 | 2024-10-18 |
 | [DNCR](https://open.spotify.com/track/7bNyAYmLg7HPLqi4YUysTA) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [DNCR / imprint](https://open.spotify.com/album/74ESw4cwqcf9ETQ5e9iLZQ) | 3:07 | 2025-10-16 |  |
 | [Do It All Again](https://open.spotify.com/track/7bMcxwvBJaZ1Sc3sVkg847) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [Do It All Again](https://open.spotify.com/album/0fSwedf5yAl2AmIdZ2yrR0) | 2:35 | 2024-09-19 | 2024-10-25 |

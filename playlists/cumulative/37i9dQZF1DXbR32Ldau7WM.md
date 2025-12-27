@@ -4,7 +4,7 @@
 
 > J\-Rock acts who have broken the border and are making global impact\.   Cover: Vaundy
 
-1,456 songs - 3 day 23 hr 21 min
+1,457 songs - 3 day 23 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -956,6 +956,7 @@
 | [ともに](https://open.spotify.com/track/6FHgHDXiGnRfhrSok9xAz3) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Everybody!!](https://open.spotify.com/album/1spFHTdEd1oA8htGJxeIac) | 3:27 | 2023-06-27 |  |
 | [とりあえず今は](https://open.spotify.com/track/3Xt6fCTkqUVAqg8EpC0aUv) | [Galileo Galilei](https://open.spotify.com/artist/7p2S6p9yYGhJTtbTQFnsYZ) | [とりあえず今は](https://open.spotify.com/album/1dBKcsV0XIhCvtijBoYBoD) | 4:29 | 2025-04-08 | 2025-06-11 |
 | [とろい](https://open.spotify.com/track/4d7kU8Y5PUdZDsyuuLRlqq) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [とろい](https://open.spotify.com/album/6N31XhdzrU7yLWmr6WoKki) | 4:00 | 2025-07-29 | 2025-10-09 |
+| [どうしてもどうしても](https://open.spotify.com/track/6hlYmR30RGaHIz4UlVOG2U) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [どうしてもどうしても](https://open.spotify.com/album/1FrDTcNmbqprRXn9s9kk8Y) | 3:46 | 2025-12-26 |  |
 | [なぎさホテル](https://open.spotify.com/track/0PzjQw1HPozAdouOGrVHjs) | [Keisuke Kuwata](https://open.spotify.com/artist/6YIqgghQqnkNne8BKQpW6v) | [いつも何処かで](https://open.spotify.com/album/6AZoPAUs9xfsXqQvwlCRE1) | 4:38 | 2022-11-22 | 2022-11-24 |
 | [なないろ](https://open.spotify.com/track/5LOISm9qukDm7veN4Fqgnc) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [なないろ](https://open.spotify.com/album/3AlWWIGwJoaTuSMa9epb3e) | 4:22 | 2022-05-12 | 2023-03-01 |
 | [なにもかも](https://open.spotify.com/track/0MIKZob0Rg2IucawhZG11o) | [THE SPELLBOUND](https://open.spotify.com/artist/1urc1bS4D4upX4Mb9kLnMb) | [なにもかも](https://open.spotify.com/album/7jyKrfrEiH6G8p16VpOddz) | 5:30 | 2022-05-12 | 2022-06-15 |
@@ -1314,7 +1315,7 @@
 | [東京に雨が降っている](https://open.spotify.com/track/76ea36A908cqljwII0DJc2) | [Motoharu Sano](https://open.spotify.com/artist/286Db6EQmfgB3SJYulhGqb), [THE COYOTE BAND](https://open.spotify.com/artist/432HTPxin2aQmEIHXQMUnh) | [ENTERTAINMENT!](https://open.spotify.com/album/4gSTAHiTJ88bQs08VFXBET) | 3:06 | 2022-05-17 | 2022-05-25 |
 | [枯渇](https://open.spotify.com/track/3EDQuv4IC9HtIw95JliHYt) | [downy](https://open.spotify.com/artist/4Y3ctZWgKkurt1T1D7RYyv) | [枯渇](https://open.spotify.com/album/0qysz8Q6IjEsKfj9u1iMKd) | 4:05 | 2022-05-12 | 2022-06-07 |
 | [楽しいことしかない](https://open.spotify.com/track/52IZlcQsdTNzRilIoo8Gic) | [Kinniku Shōjo Tai](https://open.spotify.com/artist/49Ih923DaLzIEGqAe0PirH) | [君だけが憶えている映画](https://open.spotify.com/album/3uI67Iy2XHfOHGx7q5qPXJ) | 4:47 | 2022-05-12 | 2022-05-31 |
-| [欠片](https://open.spotify.com/track/5mYTtXFq2DreBL25EK5bkF) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [欠片](https://open.spotify.com/album/1cI7JtMgSvQktNUkqvdsZt) | 2:40 | 2025-10-21 |  |
+| [欠片](https://open.spotify.com/track/5mYTtXFq2DreBL25EK5bkF) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [欠片](https://open.spotify.com/album/1cI7JtMgSvQktNUkqvdsZt) | 2:40 | 2025-10-21 | 2025-12-27 |
 | [欲望の種類](https://open.spotify.com/track/0tH51HhTDdVlk2LDlsR9TY) | [SHERBETS](https://open.spotify.com/artist/2wDZiOSGlVZbHYSqAeJRW9) | [欲望の種類](https://open.spotify.com/album/53xPqQvVSyHA63t5LwgkU5) | 3:27 | 2022-05-10 | 2022-07-25 |
 | [歌えない](https://open.spotify.com/track/7lIdcvvRww8SVhuhs6hle8) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [PHOBIA SYNDROME](https://open.spotify.com/album/6UeGX0fcpL3KycKGeBM3Rz) | 2:20 | 2025-12-02 | 2025-12-24 |
 | [歌えニッポンの空](https://open.spotify.com/track/4haAEK652y6L2Z2r64IGVz) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [歌えニッポンの空](https://open.spotify.com/album/1iP54ywpeh0moWni82OKXo) | 4:07 | 2023-08-01 | 2023-08-03 |

@@ -4,7 +4,7 @@
 
 > Para honrar a los muertos con el más sublime placer terrenal.
 
-171 songs - 10 hr 52 min
+172 songs - 10 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,8 @@
 | [La vida es un sueño](https://open.spotify.com/track/3jiw1dB4dz2AeyTAINvBQA) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Pedro Infante interpreta a José Alfredo Jiménez Vol\. 2](https://open.spotify.com/album/6IXzOZdEJfqgoLtrpGEEVe) | 3:10 | 2021-11-01 |  |
 | [Las Flores del Camposanto](https://open.spotify.com/track/4C4AqUBRrnibCDPUkOJkNv) | [Óscar Chávez](https://open.spotify.com/artist/4QHjJWgPhculd31AHEsjOb) | [Amorosas, Divertidas y Horrorosisímas Canciones de la Calaca Flaca](https://open.spotify.com/album/7AD6KZ2K8f93wLqnAk97S8) | 3:14 | 2021-11-01 |  |
 | [Los Esqueletos](https://open.spotify.com/track/2evbt2sweKafw1Xx6tUVq6) | [Espanto](https://open.spotify.com/artist/4m2iq2WEoxSFvOZd130HIQ) | [Tres Canciones Nuevas](https://open.spotify.com/album/1t3hGZtxBBXWmWGCuFM6QH) | 3:04 | 2021-11-01 | 2025-10-15 |
-| [Los Versos de la Catrina](https://open.spotify.com/track/2vrAYVaAM7VuEyhA0xgmT7) | [Armando Palomas](https://open.spotify.com/artist/1kv4ncfnnPUUXAlEOS55B4) | [Los Versos de la Catrina](https://open.spotify.com/album/6OZIPpGkC15B2VSaQ8iqJ7) | 4:07 | 2021-11-01 |  |
+| [Los Versos de la Catrina](https://open.spotify.com/track/2vrAYVaAM7VuEyhA0xgmT7) | [Armando Palomas](https://open.spotify.com/artist/1kv4ncfnnPUUXAlEOS55B4) | [Los Versos de la Catrina](https://open.spotify.com/album/6OZIPpGkC15B2VSaQ8iqJ7) | 4:07 | 2021-11-01 | 2025-12-27 |
+| [Los Versos de la Catrina](https://open.spotify.com/track/6lWHsxRKV13KVilUNbbOIN) | [Armando Palomas](https://open.spotify.com/artist/1kv4ncfnnPUUXAlEOS55B4) | [Los Versos de la Catrina](https://open.spotify.com/album/6g1URZ8B37vkNlBcyIqRAy) | 4:07 | 2025-10-15 |  |
 | [Me Tocó Morir](https://open.spotify.com/track/6k9zUQ7Gngrs8ULzQOyDDV) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Sigan Hablando](https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK) | 2:24 | 2023-10-12 |  |
 | [Mi Funeral](https://open.spotify.com/track/5JrNQsQ36HN25a6seNV9ye) | [Eugenia Leon](https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y), [Pepe Elizondo](https://open.spotify.com/artist/1sxnhcOMyZeeiwmXg9m08a), [Gera Razo](https://open.spotify.com/artist/3MoQvXRyY8NRuakcgCdwJY), [Checo Razo](https://open.spotify.com/artist/2jsd09FzKJn9kPj4EMw95g) | [A los 4 Vientos \(Edición Especial\)](https://open.spotify.com/album/6qSYt56lDGLyHMdWZUmHg7) | 3:45 | 2021-11-01 |  |
 | [Mictlán](https://open.spotify.com/track/0mv4wsluGcvNmoB0UonpX9) | [Timoneki](https://open.spotify.com/artist/1dcxpEMRhnUon25kF78fQW) | [Timoneki](https://open.spotify.com/album/6ALKR76vFWvN7zZwD3cKYO) | 4:36 | 2021-11-01 |  |

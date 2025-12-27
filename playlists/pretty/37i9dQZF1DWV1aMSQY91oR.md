@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest in hip\-hop, updated weekly\. Cover: Smiley & Baka Not Nice
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,598 likes - 48 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,653 likes - 48 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 47 | [Not Nice to Meet](https://open.spotify.com/track/3lFDnyVopgk8qMUJZvkhIo) | [100 OTD](https://open.spotify.com/artist/5VBRo4Do6f7TDyC3MNmOLC) | [Certified Since Birth](https://open.spotify.com/album/31wwUeVNUnZGULnS32suX3) | 1:42 |
 | 48 | [SGA](https://open.spotify.com/track/1wfDHjux1REDHCnEhogFmL) | [Everything OShauN](https://open.spotify.com/artist/5OTdYlGM1r6HuTFAonqq03) | [SGA](https://open.spotify.com/album/3GAGl7oeIEndDB37gkSfQl) | 2:43 |
 
-Snapshot ID: `AAAAAFt8YTQ9CIE0fqpAMyIP2KuBCT3F`
+Snapshot ID: `AAAAAJF/85+QvwVJWq6cVcMIzwWau2xu`

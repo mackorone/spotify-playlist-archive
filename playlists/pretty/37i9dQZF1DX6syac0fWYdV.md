@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6syac0fWYdV.md) - [plain]
 
 > Sultry house beats to accompany your cocktail drinks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,818 likes - 275 songs - 12 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,881 likes - 275 songs - 12 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -284,4 +284,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6syac0fWYdV.md) - [plain]
 | 274 | [Les Tropiques](https://open.spotify.com/track/3HS8Wdsq0vMXTcRvGIJyWP) | [Paon Bleu](https://open.spotify.com/artist/4WYWCaNbo0tE3g7D3CEjzZ) | [Les Tropiques](https://open.spotify.com/album/16wfDEqgKJeekVGo4LYJ86) | 3:15 |
 | 275 | [Night Sky](https://open.spotify.com/track/5yod397p7CachKvxcY8Xxg) | [Noiseway](https://open.spotify.com/artist/5ewcFklbngFYknFlviWYHb) | [Night Sky](https://open.spotify.com/album/2E9HWlJhGZsjDuuFpPh0gH) | 2:24 |
 
-Snapshot ID: `AAAAAGOW56HSC0AN1sW42ZNsNi4hdWSq`
+Snapshot ID: `AAAAAD44ObyGrYNEOhWmhaEuyT+v4Edz`

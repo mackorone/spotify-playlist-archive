@@ -3659,6 +3659,24 @@
     },
     {
       "album": {
+        "name": "Don't Wake Me Up",
+        "url": "https://open.spotify.com/album/3BG9PweBEnI1wE8Vvtvo4L"
+      },
+      "artists": [
+        {
+          "name": "RetroVision",
+          "url": "https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS"
+        }
+      ],
+      "date_added": "2025-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151731,
+      "name": "Don't Wake Me Up",
+      "url": "https://open.spotify.com/track/0gnZukG3p3XcRt2BF8ZcoU"
+    },
+    {
+      "album": {
         "name": "Playing with Fire",
         "url": "https://open.spotify.com/album/19wkkvKkqO1SY9M3jYD8Nl"
       },

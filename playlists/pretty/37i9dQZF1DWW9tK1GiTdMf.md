@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > musica per un inverno non proprio felice \(rob in cover\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,522 likes - 105 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,593 likes - 105 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 104 | [SPA CABARET](https://open.spotify.com/track/4VNVRdDCmLMbduC0V5GKeU) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [SPA CABARET](https://open.spotify.com/album/1aw7rRwfDqyKGHcGcsOrXQ) | 3:31 |
 | 105 | [:PiLLoLe '22](https://open.spotify.com/track/3NOE2Av0zTMTb5vHQoMDSN) | [EMMA](https://open.spotify.com/artist/7LmO2BJsbObtMqCPcpjjhq) | [:PiLLoLe '22](https://open.spotify.com/album/6p78avkge1RNSXmbucDRBU) | 3:43 |
 
-Snapshot ID: `AAAAAFr2uUywmsTYD+wlMXP0nE0UQK5I`
+Snapshot ID: `AAAAAKciw3ZNZTOhvlxQtmOujab92bJT`

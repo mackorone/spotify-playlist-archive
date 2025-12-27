@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 
 > Soft instrumental Jazz for all your activities.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,127,804 likes - 290 songs - 16 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,128,304 likes - 290 songs - 16 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -299,4 +299,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 | 289 | [Numerous Occasions](https://open.spotify.com/track/7Cmp85HSefyHtULmgajybL) | [Ben Lively](https://open.spotify.com/artist/4v25mHy55qBXJ4WZg3O7UV) | [Numerous Occasions](https://open.spotify.com/album/4Hn6jU3s5yKVffhJnDr6Et) | 3:31 |
 | 290 | [Wondering](https://open.spotify.com/track/6f4wqYTItYMuPCwCMUZoCt) | [Isaiah Lewis](https://open.spotify.com/artist/3BpZjEATDP62xncYcfVkqP) | [Wondering](https://open.spotify.com/album/4QqJHK4Lf9nPLnvndLW0q7) | 3:16 |
 
-Snapshot ID: `AAAAABcPTNBhWexY4gSFE1G47MIffGxi`
+Snapshot ID: `AAAAAFcAkGkIsGEs6rCek8yeC8/ATyQY`

@@ -2,9 +2,9 @@
 
 ### [Top Verano 2026](https://open.spotify.com/playlist/37i9dQZF1DWX2Ln16qIxDF)
 
-> Canciones que tenés que escuchar, edición verano  📸  Luck Ra, Karina & RAMKY
+> Canciones que tenés que escuchar, edición verano  📸  Bizarrap & J Balvin
 
-1,038 songs - 2 day 5 hr 14 min
+1,039 songs - 2 day 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,7 +205,7 @@
 | [Constelación](https://open.spotify.com/track/4T4DDAlkxdzD3DDtitfOrQ) | [Ramma](https://open.spotify.com/artist/7b0pdDyPV9f9hyDXAhk4Sg) | [Constelación](https://open.spotify.com/album/4uAzHlmhBptssGbzn3qib3) | 2:56 | 2025-10-24 |  |
 | [Copacabana \- Remix](https://open.spotify.com/track/5QNPsYAr31UzNJ0NlsYPVQ) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Copacabana \(Remix\)](https://open.spotify.com/album/3FBdw6cz2xafwzvukIVtuy) | 2:33 | 2023-05-12 | 2023-06-03 |
 | [COQUETA](https://open.spotify.com/track/1PREzVLuDT6PSE9sej4wnV) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [MALA MÍA](https://open.spotify.com/album/5utxE1ImIDJFXRHf137hoy) | 4:01 | 2025-09-05 | 2025-12-13 |
-| [CORA DE HIELO \(feat\. Natt Calma\) – Spotify Sessions](https://open.spotify.com/track/75AL7s9h64TNHPNhfficbw) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Natt Calma](https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH) | [RØZ – Spotify Sessions](https://open.spotify.com/album/00KpVHcDHe6LV4sPlPOvgA) | 4:53 | 2025-11-14 |  |
+| [CORA DE HIELO \(feat\. Natt Calma\) – Spotify Sessions](https://open.spotify.com/track/75AL7s9h64TNHPNhfficbw) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Natt Calma](https://open.spotify.com/artist/5Y33YrC415THaEjOYhzDUH) | [RØZ – Spotify Sessions](https://open.spotify.com/album/00KpVHcDHe6LV4sPlPOvgA) | 4:53 | 2025-11-14 | 2025-12-27 |
 | [CORAZÓN](https://open.spotify.com/track/1m5iV4hdnPVkiExSQe8iQS) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk), [Flor Alvarez](https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni) | [CORAZÓN](https://open.spotify.com/album/4kz1PW7KXNYyfWXVzKntNP) | 2:51 | 2024-02-09 | 2024-04-19 |
 | [Corazón Roto \- Remix](https://open.spotify.com/track/6k5wiT5l9DK8iZmhvEvoqo) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Corazón Roto \(Remix\)](https://open.spotify.com/album/6tt4TtcglWQFVSI0AGUvEF) | 4:35 | 2023-07-04 | 2024-03-02 |
 | [Corazón Roto pt\. 3](https://open.spotify.com/track/3LzAFrnO7CxaeBgtQhHsAP) | [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Corazón Roto pt\. 3](https://open.spotify.com/album/2ASYbZLxYf9bRXhsyQ6Y1u) | 5:48 | 2023-09-18 | 2025-01-25 |
@@ -419,6 +419,7 @@
 | [INTENSIDAD](https://open.spotify.com/track/3Uxv4vwiTiVFq53vJGtVzJ) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [INTENSIDAD](https://open.spotify.com/album/1YF0w8x0aPfLp8kdWhIhI5) | 2:38 | 2023-06-16 | 2023-08-12 |
 | [Irme Lejos](https://open.spotify.com/track/6s4DqpmFSFBx1pKrh4TgkO) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [El Club de la Pelea I](https://open.spotify.com/album/2tS4bTMTcGhnQSFp4rmflf) | 3:49 | 2025-05-30 | 2025-07-26 |
 | [Itamambuca](https://open.spotify.com/track/2TWc1VLLfbDx9kaxPDx0vl) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Itamambuca](https://open.spotify.com/album/2XbRcRLf7lrYOFBaHG8pDb) | 4:03 | 2025-01-10 | 2025-02-15 |
+| [J Balvin: Bzrp Music Sessions, Vol\. 62/66](https://open.spotify.com/track/04YMLAsyIAe1sLb6RO5YcC) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [J Balvin: Bzrp Music Sessions, Vol\. 62/66](https://open.spotify.com/album/2Ejibc9F2I0mMo32HXDD9Y) | 3:10 | 2025-12-27 |  |
 | [Jagger.mp3](https://open.spotify.com/track/2iNmegOcdmt4peYrh9S8qI) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Jagger.mp3](https://open.spotify.com/album/6Ti9115Odt4vwKJTCdG5WN) | 2:35 | 2023-05-12 | 2023-11-11 |
 | [JBL](https://open.spotify.com/track/1wvI6lJLC7mjUzdssQq5MU) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [JBL](https://open.spotify.com/album/1GoNfidWzsJpnuI2wqAOj9) | 3:04 | 2024-10-18 | 2025-04-19 |
 | [JET\_Set.mp3](https://open.spotify.com/track/4AINuhTujSI5LmfO7sJRA8) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [JET\_Set.mp3](https://open.spotify.com/album/3UQ9Yd5Rsz6McPImmr3jWW) | 2:25 | 2024-01-12 | 2024-02-17 |

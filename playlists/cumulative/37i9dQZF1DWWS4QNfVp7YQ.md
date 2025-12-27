@@ -4,7 +4,7 @@
 
 > Échate un zapateo al ritmo del tribal.
 
-93 songs - 5 hr 8 min
+94 songs - 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Fly Sound](https://open.spotify.com/track/1S97PagCTc4uorToNepM7r) | [David Lopez](https://open.spotify.com/artist/293KGMp3aKVQ5JmyVt8VIb) | [Fly Sound](https://open.spotify.com/album/1Ts18Ne9bWETR7ZG5C7XH5) | 5:48 | 2022-08-05 | 2024-04-19 |
 | [Fuego](https://open.spotify.com/track/09E7BhLRJzvbZu764omlgl) | [Alan Rosales](https://open.spotify.com/artist/2mi9HBpuOnJGhganiPOdbs), [DJ Mouse](https://open.spotify.com/artist/1Drh9VlADqYyM1RXvTVvsk) | [Tu\-Ku\-Tu\-Tu\-Ku](https://open.spotify.com/album/6TUvxT4tCrCeZGjsYn6z9O) | 3:05 | 2024-03-08 | 2025-12-13 |
 | [Gettin' Hype](https://open.spotify.com/track/61ypk11tHPK6NvkapbYap1) | [Freebot](https://open.spotify.com/artist/1ID8wBJ6PWBtuuERZxavHd) | [Terror, Ep\. 2](https://open.spotify.com/album/4FX3UqkVgH0TW2DhXpOzH2) | 2:36 | 2024-03-08 | 2024-09-21 |
-| [Hybrid](https://open.spotify.com/track/4HTMzoGjUmu05fQv0EaEZE) | [DJ Sadyer](https://open.spotify.com/artist/4bx9K7JUhIZAmkZ08qK5Hs), [DjGiovanni Ríos](https://open.spotify.com/artist/0Q0jSvqwRo0YKjUaTadFTo) | [Ecos del Pasado](https://open.spotify.com/album/2KEWgKCGUVMA4YHXLTnVdG) | 3:49 | 2024-07-05 |  |
+| [Hybrid](https://open.spotify.com/track/4HTMzoGjUmu05fQv0EaEZE) | [DJ Sadyer](https://open.spotify.com/artist/4bx9K7JUhIZAmkZ08qK5Hs), [DjGiovanni Ríos](https://open.spotify.com/artist/0Q0jSvqwRo0YKjUaTadFTo) | [Ecos del Pasado](https://open.spotify.com/album/2KEWgKCGUVMA4YHXLTnVdG) | 3:49 | 2024-07-05 | 2025-12-27 |
 | [Imagínate](https://open.spotify.com/track/6dc7BsgtDwxlq4z7WyGE6Z) | [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [CID MX](https://open.spotify.com/artist/7l5dXp0vXYWwkOiLVJ06qx), [TBX](https://open.spotify.com/artist/5fU21ZKt2txkO1sEOI5rwp) | [Imagínate](https://open.spotify.com/album/1DPWhGySSW1Jgf2AbaQOrx) | 2:37 | 2022-08-05 |  |
 | [Inténtalo \(feat\. América Sierra & El Bebeto\)](https://open.spotify.com/track/61aPpbJMAD5BjWkiHeX9R6) | [3BallMTY](https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L), [América Sierra](https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly), [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Inténtalo \(Deluxe Edition\)](https://open.spotify.com/album/4ldSAxBxxmdxlfoh81njb4) | 3:13 | 2022-08-05 | 2024-04-19 |
 | [Kombat](https://open.spotify.com/track/5q666odbjHkdLrDUIq88ax) | [El Catorce](https://open.spotify.com/artist/6H6TCcvnAB8osBeV7r3hbc), [Syztema](https://open.spotify.com/artist/7vD4lx9RkcbWuyRnkFLTY1) | [El Último](https://open.spotify.com/album/4m9Jf47ukqLNRzP637iD7p) | 5:00 | 2024-07-05 | 2025-02-28 |
@@ -78,6 +78,7 @@
 | [Sheeqo, Get Loose](https://open.spotify.com/track/0kAQ4h2COEfGZCTu5KYOaK) | [Sheeqo Beat](https://open.spotify.com/artist/4PPVTIy0XtTMJuiA7mC4Ak) | [Generación Tribal](https://open.spotify.com/album/1IqiZ7iimf2SSnjqoSHHZh) | 3:04 | 2022-08-05 | 2024-03-26 |
 | [Si Me Tocan Esta Play, Si Bailo \- Guaracha, Aleteo, Zapateo, Tribal, House](https://open.spotify.com/track/1em725YNxISJ79QoT5ruUE) | [J\-Alex Stylee](https://open.spotify.com/artist/2LAyRJWNuuNRbok5t3K70i) | [Si Me Tocan Esta Play, Si Bailo \(Guaracha\)](https://open.spotify.com/album/0jK7zKpYPn2TcudoAvylOd) | 3:14 | 2022-08-05 | 2025-01-17 |
 | [Si Quema Cuh](https://open.spotify.com/track/3hLc8XjpvAX7i4HXl9f6SG) | [Dj Otto](https://open.spotify.com/artist/4NUOSz1OVP30beWFCtEIVv) | [Si Quema Cuh](https://open.spotify.com/album/09G5l8kon7sPnJkWhKgK7x) | 2:44 | 2022-08-05 | 2024-04-19 |
+| [Sickhead](https://open.spotify.com/track/7HhnDS97yjtsGgvTYWM5Bc) | [Joelito](https://open.spotify.com/artist/0XWWsuP4oeVCSaQyiter7E) | [Jeffree's Volume 2](https://open.spotify.com/album/04Gb3cC1KZ25W0u2NJMadx) | 4:00 | 2024-07-05 |  |
 | [Siento](https://open.spotify.com/track/3YKPuIxSWF3wwBXpyezDW7) | [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR), [Kelly Ruíz](https://open.spotify.com/artist/0cCNT5RyWndpS7Zx7ISEDw) | [Siento](https://open.spotify.com/album/2buLINyvSP9CBHWvkpHusG) | 3:18 | 2022-08-05 |  |
 | [Tambor Azteca](https://open.spotify.com/track/7IQ9IZCU8ytPhcUcunwYW9) | [Syztema](https://open.spotify.com/artist/7vD4lx9RkcbWuyRnkFLTY1) | [Obscure Tribal](https://open.spotify.com/album/0kRZGm10ZHaWOV0sN32s6Z) | 2:48 | 2024-03-08 |  |
 | [Tas pedita bb?](https://open.spotify.com/track/5jvYkMOu0IpNjGzH080zDI) | [AXHE](https://open.spotify.com/artist/0Yd11KNwQqqx6kEmuuSfEe) | [Tas pedita bb?](https://open.spotify.com/album/3NQgFbC1GTt3rZ2A0vzpvv) | 2:11 | 2023-06-09 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 > sweet\. sharp\. unbothered \- mermaidonmars on the cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 425,563 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 425,567 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 49 | [Superstar](https://open.spotify.com/track/3ZYTeFfC9odqXzECk6tiIB) | [Crybabyamy](https://open.spotify.com/artist/6dHqmYlpk4oGwRwSxGmc6e) | [Superstar](https://open.spotify.com/album/1x540tkG9mfHRpKUlMJPpn) | 2:51 |
 | 50 | [Crucify Me](https://open.spotify.com/track/6CRtl0zQVr5LxmFCVIqnjZ) | [ILUKA](https://open.spotify.com/artist/1QiAR2OBtc5ZsYQ5bPnpdO) | [Crucify Me](https://open.spotify.com/album/0xklVGzqJfLr2w2IJeLyEB) | 2:20 |
 
-Snapshot ID: `AAAAAIosL5C2PwnS9e6FA/pvQbFw+sEu`
+Snapshot ID: `AAAAAGawOabfsyRc7Ugshu+aaCMj8TfU`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。 Cover: Billyrrom
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,337 likes - 60 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,334 likes - 60 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 26 | [meguri](https://open.spotify.com/track/7wOKndjlwI1ncnmDjyvsq8) | [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB) | [meguri](https://open.spotify.com/album/57kKkfhgya6bHYqoFzlnb3) | 3:13 |
 | 27 | [Over](https://open.spotify.com/track/44EZObfoz6o5zmoExLVyaW) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [Over](https://open.spotify.com/album/1y9CBQS4s3ig3QfNnMYlRR) | 2:48 |
 | 28 | [新月](https://open.spotify.com/track/2FbZu72z1zmzhEgOJJiFob) | [ASOUND](https://open.spotify.com/artist/4pzv2ytPQ4JKkty8Qtnbvk) | [新月](https://open.spotify.com/album/63mKkRhz8F1kNjb6RxcpFb) | 5:55 |
-| 29 | [イイキモチ](https://open.spotify.com/track/5UrVscqqwuI0HVTX9hyWXu) | [来海](https://open.spotify.com/artist/110vAH5DWtQ3fBywg7vNmE) | [イイキモチ](https://open.spotify.com/album/0y3McNnJ4LqheEjzyz4zwh) | 3:50 |
+| 29 | [イイキモチ](https://open.spotify.com/track/5UrVscqqwuI0HVTX9hyWXu) | [cleaned](https://open.spotify.com/artist/1yp2KhukqTL1SNjjQDCNj3) | [イイキモチ](https://open.spotify.com/album/0y3McNnJ4LqheEjzyz4zwh) | 3:50 |
 | 30 | [あの日の僕らへ](https://open.spotify.com/track/6MwVZwLcRZYZ4h0CBxoBf4) | [森川葵咲樹](https://open.spotify.com/artist/1HjC4EPQJYZ28HQFXoom5Z) | [あの日の僕らへ](https://open.spotify.com/album/44JmOXlrY2Ty5gBeom0XIi) | 4:08 |
 | 31 | [これも愛としよう](https://open.spotify.com/track/7nvfTo6GhOD5oMJkmL609b) | [Aki](https://open.spotify.com/artist/7pklqikA3qMThlqyH4zghL) | [これも愛としよう](https://open.spotify.com/album/57PndiPvkPDWPO95GaBo5A) | 3:46 |
 | 32 | [Vintage Car](https://open.spotify.com/track/0M5edeHgATLmdcpnLVKfFd) | [Re:name](https://open.spotify.com/artist/2AX1Mxvl5RSF13svt7n4wa) | [Vintage Car](https://open.spotify.com/album/5b6pSqS1HyrsK42eqz2rVX) | 4:04 |

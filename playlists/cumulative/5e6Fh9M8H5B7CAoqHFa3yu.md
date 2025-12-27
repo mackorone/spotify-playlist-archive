@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-1,677 songs - 4 day 5 hr 38 min
+1,680 songs - 4 day 5 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -666,6 +666,7 @@
 | [I've Been Dreaming](https://open.spotify.com/track/5YkSD8kUwI21HzIawG83Ss) | [ur beautiful](https://open.spotify.com/artist/4fHK6Wz7J0BgnBdrLopEou), [Dodgeraf](https://open.spotify.com/artist/48l5rjPYKYdvv8jMHhrf74) | [I've Been Dreaming](https://open.spotify.com/album/7gw8636LbbVMm87OSrS2sd) | 2:31 | 2025-11-02 |  |
 | [I've Danced Before](https://open.spotify.com/track/2Mejp52sT2e9FxicHBhIfX) | [Betty Davis](https://open.spotify.com/artist/5Ryxgm3uLvQOsw4H5ZpHDn) | [Crashin' From Passion](https://open.spotify.com/album/0bXZq7Pecx7oaSbfa3GnOe) | 3:40 | 2025-06-16 |  |
 | [IBIZA SUNRISE](https://open.spotify.com/track/4rW2lREcZi9BJO3zKfCj5d) | [Valenti & Blanda](https://open.spotify.com/artist/6GuZuT7ZlXzoVKypl18jmW), [Domy Sax](https://open.spotify.com/artist/5PmRTHRbqybJypkweIUDzC) | [IBIZA SUNRISE](https://open.spotify.com/album/30JJRALZJQYlCCX77GvJRW) | 3:11 | 2025-07-28 |  |
+| [Ich hass euch](https://open.spotify.com/track/4XZtr4ZnGYGLtgJo5LB719) | [BadWolf0709](https://open.spotify.com/artist/5TBEhmePsob9MISV9guvdP) | [Ich hass euch](https://open.spotify.com/album/4h79xrEQteEbeRPbmWZPxR) | 3:05 | 2025-12-26 |  |
 | [Ich trag ne Narbe](https://open.spotify.com/track/0CS1OJ4515gmXuEyhXXX3X) | [Kregor](https://open.spotify.com/artist/4wMeHo3nPIf6IpLNssAKws) | [Ich trag ne Narbe](https://open.spotify.com/album/5kLcGut0Dl7h9ePgFm0opj) | 3:19 | 2025-07-05 |  |
 | [IDC](https://open.spotify.com/track/5NYT1seiNf8qIDPfh03GSq) | [Black Keef](https://open.spotify.com/artist/1nhEEIxJPdXenucHre78M8) | [IDC](https://open.spotify.com/album/3ptnsbnAdU4EpmBZkhHs3M) | 2:51 | 2025-10-16 |  |
 | [Ideals](https://open.spotify.com/track/5dcpyZrAehFrN07cwtw0Av) | [Moune](https://open.spotify.com/artist/1tgyjeMiFgkVj1GemMhR3G) | [The Legacy Of the Sun](https://open.spotify.com/album/5pIVHjl7bwGOEzDI82JN0s) | 4:36 | 2024-03-10 |  |
@@ -928,6 +929,7 @@
 | [Minds Eye Dub](https://open.spotify.com/track/3mjVDhtVAT5UKwxFS3Vd2F) | [Foshan Roots](https://open.spotify.com/artist/0Erm3ZsKDZVUF4NdUMfYtj) | [The Wing Chun Album](https://open.spotify.com/album/4Ev2WLIu3iZJp3rWGYVh5m) | 4:36 | 2024-03-25 |  |
 | [Miracle Maker](https://open.spotify.com/track/3Dbfxlaz4yHlLQE8x24Inq) | [My Left Eye](https://open.spotify.com/artist/6LDbzrknLQSi9OcjYxzD7T) | [Miracle Maker](https://open.spotify.com/album/2yWCvhmN1z9qcVuwSGON9d) | 3:33 | 2025-06-28 |  |
 | [Mirage](https://open.spotify.com/track/7jekjMWZ9b7CGQZ6r9Itw3) | [ZLAKE](https://open.spotify.com/artist/7pOE66jgzr7TmtbBIuaYwz) | [Mirage](https://open.spotify.com/album/58ulkgENTR5zT5TCvJJXu4) | 2:43 | 2025-09-16 |  |
+| [Mirror](https://open.spotify.com/track/2wUh9v1aGK4kPXlM72ywLG) | [Ananda Bliss](https://open.spotify.com/artist/4POkJhWEArN7eXCtmz4c75) | [Mirror](https://open.spotify.com/album/1s3JzUOUZyaEPYUBbpcPU1) | 2:58 | 2025-12-26 |  |
 | [Miss America](https://open.spotify.com/track/3VbDzAvT4Sw8HAEt6uCyv4) | [Norman Leonides](https://open.spotify.com/artist/3WbChO1LvpeVzeF2JQptHO) | [Miss America](https://open.spotify.com/album/1MqlMxpR6UcVu8qPh9kJFh) | 3:39 | 2025-07-26 |  |
 | [Miss Malibu](https://open.spotify.com/track/0v9wkZyUWru0rqPlgJRT4E) | [Vizi](https://open.spotify.com/artist/3V1gOrbofuLiTrwPzZLp8g) | [Life.](https://open.spotify.com/album/7AjLA1EmVnV6MiLibZPz1Z) | 3:14 | 2025-05-06 |  |
 | [Miss Take](https://open.spotify.com/track/4ooN58vt6HJdTH5QxPzQ5y) | [Horrorpops](https://open.spotify.com/artist/7MvgOAoxA9ZgOxtRBYxLWJ) | [Hell Yeah!](https://open.spotify.com/album/0VOcNE4u7ADFpWm5AG7gDC) | 3:58 | 2025-04-24 |  |
@@ -1500,7 +1502,7 @@
 | [Top 5](https://open.spotify.com/track/0OyiJVKXf6OrEN7bJNog8x) | [C.O.M Young Rico](https://open.spotify.com/artist/22Cj3ARtVVG9vSVRZCI8JF), [Keshia Kash](https://open.spotify.com/artist/2i7rcogwiihA8geNpSa5gb) | [Top 5](https://open.spotify.com/album/0RLeij35VtSeWpgajbcIyS) | 3:03 | 2025-09-30 |  |
 | [Torpedo](https://open.spotify.com/track/7DENJPiOASwRCZb5J6sQ3o) | [Calibration Alert](https://open.spotify.com/artist/4x3fQslGm6fgisi6Fv57Iu) | [Torpedo](https://open.spotify.com/album/3qW3VjphzhcaneRDKY97tp) | 2:50 | 2024-03-23 |  |
 | [Towards Infinity](https://open.spotify.com/track/6L8qqTwyUUim4eIi7AzDUO) | [CrisVola](https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo) | [Towards Infinity](https://open.spotify.com/album/3oQDxpzKuvmGa7CUW0q36u) | 3:07 | 2024-10-24 |  |
-| [Toxic](https://open.spotify.com/track/6ID6CXqtis41TK3kt8ogSA) | [BleuShxll](https://open.spotify.com/artist/3uZrhLXR3UZkvDcF3abMz2), [Tenshii](https://open.spotify.com/artist/5regEO6nnwSdWZbNXLk6GB) | [Toxic](https://open.spotify.com/album/0x6NE4BI70zECU0wY4vYTP) | 2:25 | 2025-12-20 |  |
+| [Toxic](https://open.spotify.com/track/6ID6CXqtis41TK3kt8ogSA) | [yoell](https://open.spotify.com/artist/7GpUOMkoWEZ7t7BKC3QhWF), [Tenshii](https://open.spotify.com/artist/5regEO6nnwSdWZbNXLk6GB) | [Toxic](https://open.spotify.com/album/0x6NE4BI70zECU0wY4vYTP) | 2:25 | 2025-12-20 |  |
 | [Tragedy](https://open.spotify.com/track/6UXXeFqMBGiqjkzQzkMT3E) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN) | [Spirits Having Flown](https://open.spotify.com/album/6bddpRTD2imtFdhXqr6MKm) | 5:03 | 2024-03-04 |  |
 | [Trail Ride](https://open.spotify.com/track/6WYDRRJWIZfY36UZaIMfJ5) | [Alexus Bria](https://open.spotify.com/artist/4RIMm4W0mCWfjC3MgrTjgX) | [Trail Ride](https://open.spotify.com/album/3Lyp6ontdCz9fOhJmmI5W7) | 3:31 | 2025-10-07 |  |
 | [TRAIN](https://open.spotify.com/track/7kRB1EBQBSVYjrf0elg7hG) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb), [dipe](https://open.spotify.com/artist/0XEYn4sxWm1ga9sXJQ4sWL) | [TRAIN](https://open.spotify.com/album/5pOw1eegWGypFu63gvhYcN) | 3:48 | 2025-10-21 |  |
@@ -1611,6 +1613,7 @@
 | [Wicked Dub](https://open.spotify.com/track/2RU7IAMiEdZJ1AWSMzNyXP) | [The Manor](https://open.spotify.com/artist/6gdW8jo9cNfl6up39hTKOp) | [Walk with Jah](https://open.spotify.com/album/3t5pK2FwJxeUeIuR3u0pFc) | 3:56 | 2024-03-23 |  |
 | [Wind of Memory](https://open.spotify.com/track/5zZIlhK0uriz3OCafDyTiO) | [CrisVola](https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo) | [Wind of Memory](https://open.spotify.com/album/2mm8mdKvVf3wmqK3X8ZEKo) | 3:25 | 2023-08-16 |  |
 | [Winding Down](https://open.spotify.com/track/23up0WOGztxs52xTrPVajM) | [Robe Mode](https://open.spotify.com/artist/75v4Ig5LovCRPKJvQ2Gm7B) | [Winding Down](https://open.spotify.com/album/3xJftarohwHPE4GmgPyTyI) | 1:39 | 2025-11-14 |  |
+| [Winter Merry](https://open.spotify.com/track/3UuTeffQjzkVdx1o980TMt) | [柯淳恩](https://open.spotify.com/artist/7etKd05AwHXCtlW2Wq2r82) | [Winter Merry](https://open.spotify.com/album/16vHUPwb2WQnoTTEvBfqrf) | 3:24 | 2025-12-26 |  |
 | [Wisdom Dub](https://open.spotify.com/track/4eIUYoh5YIlFDu3Io02cdi) | [Foshan Roots](https://open.spotify.com/artist/0Erm3ZsKDZVUF4NdUMfYtj) | [The Wing Chun Album](https://open.spotify.com/album/4Ev2WLIu3iZJp3rWGYVh5m) | 3:11 | 2024-03-25 |  |
 | [Wise Dub](https://open.spotify.com/track/0TvfPQE7DYshEdPiD6XioH) | [Sir Racha](https://open.spotify.com/artist/5fIYHmDR0buHQzceD0zQa8) | [Gimme the Weed](https://open.spotify.com/album/6lruPpSjkIk1l4EFg4PT61) | 3:19 | 2024-05-01 |  |
 | [Wise Riddim](https://open.spotify.com/track/57sZY9gSNYCkBFTmNbjxbJ) | [Sir Racha](https://open.spotify.com/artist/5fIYHmDR0buHQzceD0zQa8) | [Gimme the Weed](https://open.spotify.com/album/6lruPpSjkIk1l4EFg4PT61) | 3:10 | 2024-05-01 |  |

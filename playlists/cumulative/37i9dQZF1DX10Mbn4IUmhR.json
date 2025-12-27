@@ -617,6 +617,24 @@
     },
     {
       "album": {
+        "name": "Amateur",
+        "url": "https://open.spotify.com/album/0aABbxpIwIGBeVOOvY50rl"
+      },
+      "artists": [
+        {
+          "name": "manifest",
+          "url": "https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163809,
+      "name": "Amateur",
+      "url": "https://open.spotify.com/track/1LJ8ODaoio5lJMgtXzALMw"
+    },
+    {
+      "album": {
         "name": "Don\u2019t Cry Because It\u2019s Over",
         "url": "https://open.spotify.com/album/08Fg1X85feUIInMbyaxIXI"
       },
@@ -6622,7 +6640,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-27",
       "duration_ms": 174545,
       "name": "LOCK ME OUT",
       "url": "https://open.spotify.com/track/6n0qQ8JIB2nWs8fOMcDFcW"

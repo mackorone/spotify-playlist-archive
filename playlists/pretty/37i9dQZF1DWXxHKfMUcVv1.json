@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica refrescante, para vencer el calor.",
-  "num_followers": 125743,
+  "num_followers": 125750,
   "original_name": "Mi Terer\u00e9",
   "owner": {
     "name": "Spotify",
@@ -351,6 +351,22 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
+        "name": "B\u00e1ilalo B\u00e1ilalo",
+        "url": "https://open.spotify.com/album/20zOZgfdwPf5wiJYF033E9"
+      },
+      "artists": [
+        {
+          "name": "Kchorros de la L\u00ednea 3",
+          "url": "https://open.spotify.com/artist/6LBGFAO4Ue5OstjwocFIP2"
+        }
+      ],
+      "duration_ms": 168934,
+      "name": "Lo Intentamos",
+      "url": "https://open.spotify.com/track/53oLP8HW9lSk0ZYvTsDoIa"
+    },
+    {
+      "added_at": "2025-03-14 20:46:39",
+      "album": {
         "name": "Tus Ojos No Me Ven (feat. Jowell y Randy and El Gorila)",
         "url": "https://open.spotify.com/album/0ZGMMZDzC6vtlKmgAl0PHn"
       },
@@ -375,22 +391,6 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
-        "name": "Christian Puga y los Ladrones Sueltos",
-        "url": "https://open.spotify.com/album/2sCnMd9nQOtUqBEWLNuw3E"
-      },
-      "artists": [
-        {
-          "name": "Los Ladrones Sueltos",
-          "url": "https://open.spotify.com/artist/27MSpvbWdva4rfi0kD07fF"
-        }
-      ],
-      "duration_ms": 223093,
-      "name": "Ruge Uge",
-      "url": "https://open.spotify.com/track/4qUDaUEXqZtGzxiwQbNC82"
-    },
-    {
-      "added_at": "2025-03-14 20:46:39",
-      "album": {
         "name": "Hamaca Paraguaya",
         "url": "https://open.spotify.com/album/7ja8ZfNGuWbvS3lre15CFp"
       },
@@ -407,18 +407,18 @@
     {
       "added_at": "2025-03-14 20:46:39",
       "album": {
-        "name": "B\u00e1ilalo B\u00e1ilalo",
-        "url": "https://open.spotify.com/album/20zOZgfdwPf5wiJYF033E9"
+        "name": "Christian Puga y los Ladrones Sueltos",
+        "url": "https://open.spotify.com/album/2sCnMd9nQOtUqBEWLNuw3E"
       },
       "artists": [
         {
-          "name": "Kchorros de la L\u00ednea 3",
-          "url": "https://open.spotify.com/artist/6LBGFAO4Ue5OstjwocFIP2"
+          "name": "Los Ladrones Sueltos",
+          "url": "https://open.spotify.com/artist/27MSpvbWdva4rfi0kD07fF"
         }
       ],
-      "duration_ms": 168934,
-      "name": "Lo Intentamos",
-      "url": "https://open.spotify.com/track/53oLP8HW9lSk0ZYvTsDoIa"
+      "duration_ms": 223093,
+      "name": "Ruge Uge",
+      "url": "https://open.spotify.com/track/4qUDaUEXqZtGzxiwQbNC82"
     },
     {
       "added_at": "2025-03-14 20:46:39",

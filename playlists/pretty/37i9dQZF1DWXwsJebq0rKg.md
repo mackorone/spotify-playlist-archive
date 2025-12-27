@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwsJebq0rKg.md) - [plain]
 
 > Ni idea del reporte, padre santo\. Ya lo vemos en enero, mi lic\. Rolitas elegidas por Villa Godín.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,627 likes - 42 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,612 likes - 42 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwsJebq0rKg.md) - [plain]
 | 41 | [Los Campanilleros](https://open.spotify.com/track/4PxOM7xZDLq15r4y6s4pXf) | [Hernaldo Zuniga](https://open.spotify.com/artist/42vpZLi12oBjp8MuFFkirS) | [Eterna Navidad](https://open.spotify.com/album/2yVigxuJ464aicCUE2cl81) | 2:58 |
 | 42 | [Last Christmas](https://open.spotify.com/track/2IprIjGNRlj3TfqUWCAo0C) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Taylor Swift Holiday Collection](https://open.spotify.com/album/7vzYp7FrKnTRoktBYsx9SF) | 3:28 |
 
-Snapshot ID: `AAAAAPxIMgTPoKbRwAhL/aWiSXB+j7Jk`
+Snapshot ID: `AAAAAHF50BqKyaxXBvqY24MhjVnjlkjw`

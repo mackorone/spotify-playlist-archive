@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6gmUBAHLzQz.md) - [plain]
 
 > Music from "Aikatsu!", a story of young girls dreaming of becoming a top idol\. \(C\)BNP/BANDAI, DENTSU, TV TOKYO
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,801 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,810 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6gmUBAHLzQz.md) - [plain]
 | 47 | [STARDOM!](https://open.spotify.com/track/2QTw7OOyAmFjrVPd3nqsto) | [せな](https://open.spotify.com/artist/51TXbLF8L4u8mhKSiyQ6bd), [りえ](https://open.spotify.com/artist/2qUnKtWqhckozatgC7mEpM) | [アイカツ！シリーズ 10th Anniversary Album Vol.04「Rainbow Canvas」](https://open.spotify.com/album/1toLgIICtmqLpFrlybuV05) | 4:32 |
 | 48 | [輝きのエチュード](https://open.spotify.com/track/6zCDVDPWdar8bKJ6bTDB27) | [わかfrom STAR☆ANIS](https://open.spotify.com/artist/3OJmzShbWK77VWMFFd2UnB) | [TVアニメ/データカードダス『アイカツ!』主題歌/挿入歌 3年目1](https://open.spotify.com/album/3dbKvUmC2KAWgTWkVPDQ7Y) | 5:12 |
 | 49 | [ハローハロー](https://open.spotify.com/track/0azGDvkKDmSU4J6Nk8KVHE) | [みき from AIKATSU☆STARS!](https://open.spotify.com/artist/2kcPrscgzChRgiXl9LeKMs) | [TVアニメ/データカードダス『アイカツ!』主題歌/挿入歌 4年目](https://open.spotify.com/album/33FEqBU7HvfqrWtpaOiHRT) | 3:45 |
-| 50 | [アイドル活動! \- Ver\. Rock](https://open.spotify.com/track/2hjmr7hlCTOt9gGShVtu3u) | [わか・ふうり from STAR☆ANIS](https://open.spotify.com/artist/0PZJ3espREBVEYDIypZoBI) | [TVアニメ/データカードダス『アイカツ!』主題歌/挿入歌 2年目1](https://open.spotify.com/album/2cVQpyIVCOscg2MCdgWpRT) | 3:55 |
+| 50 | [はろー! Winter Love♪](https://open.spotify.com/track/6BKB0WPmrsRBWjXIWIsp3a) | [みき・るか・もな from AIKATSU☆STARS!](https://open.spotify.com/artist/536plSVaOHoq2NXdPuZ87F) | [TVアニメ/データカードダス『アイカツ!』主題歌/挿入歌 3年目1](https://open.spotify.com/album/3dbKvUmC2KAWgTWkVPDQ7Y) | 4:21 |
 
 Snapshot ID: `AAAAADy6KJM8bLt4d7+4nsgrRtDOBP0R`

@@ -604,7 +604,7 @@
       ],
       "date_added": "2025-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-27",
       "duration_ms": 104427,
       "name": "Carnival",
       "url": "https://open.spotify.com/track/4TfmXkmAqtiq1ixe5PT5kX"
@@ -886,7 +886,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-27",
       "duration_ms": 155590,
       "name": "Dhurandhar - Title Track",
       "url": "https://open.spotify.com/track/5xKr4HfdnYLMDmAJZkOuBc"
@@ -932,7 +932,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-24",
+      "date_removed": null,
       "duration_ms": 155590,
       "name": "Dhurandhar - Title Track (From \"Dhurandhar\")",
       "url": "https://open.spotify.com/track/1ifI8ipBJreNmLDYigFc6d"
@@ -1676,7 +1676,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-27",
       "duration_ms": 362400,
       "name": "Gehra Hua",
       "url": "https://open.spotify.com/track/5MCbGWnNLLjoHpbDO3BOgi"
@@ -1706,7 +1706,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-24",
+      "date_removed": null,
       "duration_ms": 362400,
       "name": "Gehra Hua (From \"Dhurandhar\")",
       "url": "https://open.spotify.com/track/72EW32eRMEnrHY4ZJf2Z96"
@@ -2756,7 +2756,7 @@
       ],
       "date_added": "2025-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-27",
       "duration_ms": 224480,
       "name": "Into the Blue",
       "url": "https://open.spotify.com/track/3qIQAophwgi9UKMJHZcSpQ"
@@ -2817,6 +2817,48 @@
     },
     {
       "album": {
+        "name": "Dhurandhar (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6E3Ds14TPBbZKTUGprotN6"
+      },
+      "artists": [
+        {
+          "name": "Shashwat Sachdev",
+          "url": "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+        },
+        {
+          "name": "Shahzad Ali",
+          "url": "https://open.spotify.com/artist/1xF1WULzvp8zdsp60CJh2u"
+        },
+        {
+          "name": "Subhadeep Das Chowdhury",
+          "url": "https://open.spotify.com/artist/3biZl77VIJSHTnwBnEZkkd"
+        },
+        {
+          "name": "Armaan Khan",
+          "url": "https://open.spotify.com/artist/68CFADZWUwvJMqkCeqmxMJ"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        },
+        {
+          "name": "Roshan",
+          "url": "https://open.spotify.com/artist/6Wg3akugFVCH4iYhEKk0GM"
+        },
+        {
+          "name": "Sahir Ludhianvi",
+          "url": "https://open.spotify.com/artist/1nLvkKjnfpnouM0Mpyd4cc"
+        }
+      ],
+      "date_added": "2025-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250860,
+      "name": "Ishq Jalakar - Karvaan",
+      "url": "https://open.spotify.com/track/0qPgK3FPlATwPMZXznLxea"
+    },
+    {
+      "album": {
         "name": "Dhurandhar",
         "url": "https://open.spotify.com/album/2e7HNQJ0BcMoqwsVDwDhK8"
       },
@@ -2852,7 +2894,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-27",
       "duration_ms": 250860,
       "name": "Ishq Jalakar - Karvaan",
       "url": "https://open.spotify.com/track/7DonHcAdu5FHzLNESEEOuj"
@@ -3674,7 +3716,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-27",
       "duration_ms": 228360,
       "name": "My Moon My Man",
       "url": "https://open.spotify.com/track/5FFQbvn7055P1DvgJDdCBP"
@@ -3710,10 +3752,28 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-27",
       "duration_ms": 251637,
       "name": "Nausica\u00e4 (Love Will Be Revealed)",
       "url": "https://open.spotify.com/track/2tdNTV4xpZgiom27mENc2N"
+    },
+    {
+      "album": {
+        "name": "The Magic Of Alma Cogan",
+        "url": "https://open.spotify.com/album/0QHQ3Jya66uxgdTG9DM2e5"
+      },
+      "artists": [
+        {
+          "name": "Alma Cogan",
+          "url": "https://open.spotify.com/artist/0oGo1uX2IixGBLb3fsiVnK"
+        }
+      ],
+      "date_added": "2025-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132506,
+      "name": "Never Do a Tango with an Eskimo",
+      "url": "https://open.spotify.com/track/1RiThvT6YsZaSVfditP8iD"
     },
     {
       "album": {
@@ -4481,6 +4541,24 @@
     },
     {
       "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2025-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245040,
+      "name": "River",
+      "url": "https://open.spotify.com/track/0DAmSYQW9kq9gQNDI002KP"
+    },
+    {
+      "album": {
         "name": "Rebel",
         "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
       },
@@ -4606,6 +4684,24 @@
       "duration_ms": 196250,
       "name": "Say Less (ft. IRAH & Mr Williamz)",
       "url": "https://open.spotify.com/track/6lBEl5Y8I0UyQG5TdM3ScV"
+    },
+    {
+      "album": {
+        "name": "Scotland In The Snow",
+        "url": "https://open.spotify.com/album/0nYhSrICuH9wF0625WlPBT"
+      },
+      "artists": [
+        {
+          "name": "Nina Nesbitt",
+          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
+        }
+      ],
+      "date_added": "2025-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248571,
+      "name": "Scotland In The Snow",
+      "url": "https://open.spotify.com/track/5BIAqf246BYNH3YA8PQ9qg"
     },
     {
       "album": {
@@ -5871,6 +5967,24 @@
     },
     {
       "album": {
+        "name": "We Carry The Flame",
+        "url": "https://open.spotify.com/album/4Y6GlLd9d8XUymIMR36Wcj"
+      },
+      "artists": [
+        {
+          "name": "Spalexma",
+          "url": "https://open.spotify.com/artist/0br7BhK6Vr2Bx8IEg0PEn3"
+        }
+      ],
+      "date_added": "2025-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241559,
+      "name": "We Carry The Flame",
+      "url": "https://open.spotify.com/track/5OvlrhfIBU1mHHHndkNVsa"
+    },
+    {
+      "album": {
         "name": "West End Girl",
         "url": "https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn"
       },
@@ -5918,7 +6032,7 @@
       ],
       "date_added": "2025-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-27",
       "duration_ms": 196795,
       "name": "WHERE IS MY HUSBAND!",
       "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
@@ -5970,6 +6084,24 @@
       "duration_ms": 189090,
       "name": "Where's The Party At?",
       "url": "https://open.spotify.com/track/0GNhPz8O0ycFDjXA5eDS0e"
+    },
+    {
+      "album": {
+        "name": "Fleet Foxes",
+        "url": "https://open.spotify.com/album/5GRnydamKvIeG46dycID6v"
+      },
+      "artists": [
+        {
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        }
+      ],
+      "date_added": "2025-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147026,
+      "name": "White Winter Hymnal",
+      "url": "https://open.spotify.com/track/0GegHVxeozw3rdjte45Bfx"
     },
     {
       "album": {

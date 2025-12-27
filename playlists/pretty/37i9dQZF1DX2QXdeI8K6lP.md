@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 
 > Música que te hará suspirar como en aquellos años dorados\. Los Panchos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 360,719 likes - 100 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 360,749 likes - 100 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 | 64 | [Canción del alma](https://open.spotify.com/track/7rVOU36Rgup3pFGNA4pLOy) | [Los Tecolines](https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv) | [Serenata con Los Tecolines](https://open.spotify.com/album/5B8WnefLZ6ako5S6eUa7mb) | 2:33 |
 | 65 | [Guantanamera](https://open.spotify.com/track/4QabgfWNwAEsgKgMu8B4tx) | [El Negro Peregrino Y Su Trio](https://open.spotify.com/artist/3qluTXV1gubNFvWSMhCSI9) | [Vamos a la Cumbancha](https://open.spotify.com/album/2Zl8ew47kKbJ7Oqrs2oBMb) | 3:18 |
 | 66 | [Nos Hizo Falta Tiempo](https://open.spotify.com/track/7I1gW6hOscv5Sq8hyrDmdi) | [Las Perlas Negras](https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp) | [Nos Hizo Falta Tiempo](https://open.spotify.com/album/1MFnxCHtziAmBpzkozWNXf) | 2:46 |
-| 67 | [Te Extraño](https://open.spotify.com/track/7l6KxjV7Sk6y9iLOBSqTw6) | [Las Penas](https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS) | [Te Extraño](https://open.spotify.com/album/3pQMIIjRDqiDrZroTXUACT) | 2:32 |
-| 68 | [Un Dia](https://open.spotify.com/track/6XHbPrlWnEV8l1OATEHjxb) | [Trio Las Sombras](https://open.spotify.com/artist/12KhNJvZ5oP5M5GVWY1GP4) | [15 Boleros Inolvidables Con el Trío las Sombras \(Versiones Originales\)](https://open.spotify.com/album/0wSA1WO0ObSlNiqoZTCqUE) | 2:30 |
-| 69 | [Delirio](https://open.spotify.com/track/3d4dnAUxWzthwkrWaOSAAx) | [Marco Antonio Muñiz](https://open.spotify.com/artist/4BLAYO57LtkaZ6odOdWmGc) | [Mis Éxitos](https://open.spotify.com/album/6f0Chja4OX6KvJLame43xy) | 2:59 |
+| 67 | [Un Dia](https://open.spotify.com/track/6XHbPrlWnEV8l1OATEHjxb) | [Trio Las Sombras](https://open.spotify.com/artist/12KhNJvZ5oP5M5GVWY1GP4) | [15 Boleros Inolvidables Con el Trío las Sombras \(Versiones Originales\)](https://open.spotify.com/album/0wSA1WO0ObSlNiqoZTCqUE) | 2:30 |
+| 68 | [Delirio](https://open.spotify.com/track/3d4dnAUxWzthwkrWaOSAAx) | [Marco Antonio Muñiz](https://open.spotify.com/artist/4BLAYO57LtkaZ6odOdWmGc) | [Mis Éxitos](https://open.spotify.com/album/6f0Chja4OX6KvJLame43xy) | 2:59 |
+| 69 | [Te Extraño](https://open.spotify.com/track/7l6KxjV7Sk6y9iLOBSqTw6) | [Las Penas](https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS) | [Te Extraño](https://open.spotify.com/album/3pQMIIjRDqiDrZroTXUACT) | 2:32 |
 | 70 | [Voy A Apagar La Luz](https://open.spotify.com/track/40duIz5ZiOGr9tjiGHQw80) | [Los Amores Recientes](https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG) | [Voy A Apagar La Luz](https://open.spotify.com/album/7BszH6X5fEBsgNVXXvltvu) | 2:23 |
 | 71 | [Suspenso Infernal](https://open.spotify.com/track/2HYCn0dxjHowhTpFGPGtm3) | [Los Dandys](https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK) | [RCA 100 Años de Música](https://open.spotify.com/album/2kBmwynoRQzpYaIv5fb7NM) | 2:52 |
-| 72 | [Señora tentación](https://open.spotify.com/track/4oB0QQ7v5gSsy4q70JxYVG) | [Hermanas Aguila](https://open.spotify.com/artist/4Ga1p10vFtXZSoKkJIacVv) | [Antología\. \. .Hermanas Aguila](https://open.spotify.com/album/1cHpnAwp1SAOIkear7BUwi) | 3:30 |
+| 72 | [La Mentira \(Se Te Olvida\)](https://open.spotify.com/track/0hIZpsGeGuGNQAFgTeqoBs) | [Los Tres Ases](https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B) | [Grandes Exitos](https://open.spotify.com/album/7I1v5OSddy8rykrDMIJChd) | 2:49 |
 | 73 | [Noche No Te Vayas](https://open.spotify.com/track/4UrJogl8kEaLsUqeQKbXQG) | [Trio Las Sombras](https://open.spotify.com/artist/12KhNJvZ5oP5M5GVWY1GP4) | [Romanticamente Trios Vol\. 9](https://open.spotify.com/album/7gbMCEoPGMe8qNem3RjMYA) | 2:28 |
-| 74 | [La Mentira \(Se Te Olvida\)](https://open.spotify.com/track/0hIZpsGeGuGNQAFgTeqoBs) | [Los Tres Ases](https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B) | [Grandes Exitos](https://open.spotify.com/album/7I1v5OSddy8rykrDMIJChd) | 2:49 |
+| 74 | [Señora tentación](https://open.spotify.com/track/4oB0QQ7v5gSsy4q70JxYVG) | [Hermanas Aguila](https://open.spotify.com/artist/4Ga1p10vFtXZSoKkJIacVv) | [Antología\. \. .Hermanas Aguila](https://open.spotify.com/album/1cHpnAwp1SAOIkear7BUwi) | 3:30 |
 | 75 | [Llevatela](https://open.spotify.com/track/0c4aaZ2wPDfgjYxCZggRsW) | [Las Lagrimas](https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN) | [Llevatela](https://open.spotify.com/album/4JCAbGWSc3iEUzjOCCMpme) | 2:18 |
 | 76 | [Luna Orgullosa](https://open.spotify.com/track/48g5wCN9UybV7nhvTVkmvR) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV), [Felipe Gutierrez](https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c) | [Boleros](https://open.spotify.com/album/6sp7ntRlQpaNtK25bNXuEZ) | 3:21 |
 | 77 | [Besos de Plata](https://open.spotify.com/track/5k9C5fzQQIAdQ5eJp6N3Jy) | [Los Tecolines](https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv) | [Peerless 80 Aniversario \- 24 Exitos Vol\. 2](https://open.spotify.com/album/5cEtupiFx3BUUd8OKrfrRQ) | 2:49 |

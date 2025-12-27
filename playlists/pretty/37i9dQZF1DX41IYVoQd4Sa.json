@@ -1,12 +1,12 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05d0\u05d9\u05d6\u05d9 \u05d5\u05d2\u05f3\u05f3\u05d9\u05df \u05d1\u05d5\u05e8\u05d3\u05d5",
-  "num_followers": 33045,
+  "num_followers": 33049,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADNnnCSBt1C9d8uhR/yOmQmHdI+4",
+  "snapshot_id": "AAAAALI7WlbhrAdeA+1xelJkVhSTbF9s",
   "tracks": [
     {
       "added_at": "2025-12-18 22:00:32",
@@ -611,6 +611,22 @@
     {
       "added_at": "2025-12-18 22:00:32",
       "album": {
+        "name": "\u05d4\u05d0\u05d7\u05d5\u05ea \u05d4\u05e8\u05d1\u05d9\u05e2\u05d9\u05ea - \u05e4\u05e1\u05e7\u05d5\u05dc \u05d4\u05d0\u05d7\u05d9\u05d5\u05ea \u05d4\u05de\u05d5\u05e6\u05dc\u05d7\u05d5\u05ea \u05e9\u05dc\u05d9",
+        "url": "https://open.spotify.com/album/18cEepEacUOra5Y9iJe7xz"
+      },
+      "artists": [
+        {
+          "name": "Alma Gov",
+          "url": "https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv"
+        }
+      ],
+      "duration_ms": 180224,
+      "name": "\u05d4\u05d9\u05d9 \u05d0\u05e0\u05d9 \u05e8\u05d5\u05e6\u05d4 \u05dc\u05d4\u05d2\u05d9\u05d3 \u05dc\u05da - \u05de\u05ea\u05d5\u05da \u05e4\u05e1\u05e7\u05d5\u05dc \u05d4\u05d0\u05d7\u05d9\u05d5\u05ea \u05d4\u05de\u05d5\u05e6\u05dc\u05d7\u05d5\u05ea \u05e9\u05dc\u05d9",
+      "url": "https://open.spotify.com/track/2JRU7fPnZSAeAw15PZiauH"
+    },
+    {
+      "added_at": "2025-12-18 22:00:32",
+      "album": {
         "name": "\u05db\u05e0\u05e4\u05d9 \u05e8\u05d5\u05d7",
         "url": "https://open.spotify.com/album/0zFt4df2XFaUozjI276G9U"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 239411,
       "name": "\u05db\u05e0\u05e4\u05d9 \u05e8\u05d5\u05d7",
       "url": "https://open.spotify.com/track/5V8d8fQGZrGmDxAj9RaKMW"
-    },
-    {
-      "added_at": "2025-12-18 22:00:32",
-      "album": {
-        "name": "\u05d4\u05d0\u05d7\u05d5\u05ea \u05d4\u05e8\u05d1\u05d9\u05e2\u05d9\u05ea - \u05e4\u05e1\u05e7\u05d5\u05dc \u05d4\u05d0\u05d7\u05d9\u05d5\u05ea \u05d4\u05de\u05d5\u05e6\u05dc\u05d7\u05d5\u05ea \u05e9\u05dc\u05d9",
-        "url": "https://open.spotify.com/album/18cEepEacUOra5Y9iJe7xz"
-      },
-      "artists": [
-        {
-          "name": "Alma Gov",
-          "url": "https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv"
-        }
-      ],
-      "duration_ms": 180224,
-      "name": "\u05d4\u05d9\u05d9 \u05d0\u05e0\u05d9 \u05e8\u05d5\u05e6\u05d4 \u05dc\u05d4\u05d2\u05d9\u05d3 \u05dc\u05da - \u05de\u05ea\u05d5\u05da \u05e4\u05e1\u05e7\u05d5\u05dc \u05d4\u05d0\u05d7\u05d9\u05d5\u05ea \u05d4\u05de\u05d5\u05e6\u05dc\u05d7\u05d5\u05ea \u05e9\u05dc\u05d9",
-      "url": "https://open.spotify.com/track/2JRU7fPnZSAeAw15PZiauH"
     },
     {
       "added_at": "2025-12-18 22:00:32",
@@ -775,26 +775,22 @@
     {
       "added_at": "2025-12-18 22:00:32",
       "album": {
-        "name": "\u05d0\u05e9\u05db\u05e8\u05d4 \u05de\u05d4 \u05e9\u05e7\u05e8\u05d4",
-        "url": "https://open.spotify.com/album/39R8S78JAEpO2GZ4Foduv9"
+        "name": "\u05dc\u05e4\u05e0\u05d9 \u05e9\u05d4\u05db\u05dc \u05e0\u05e8\u05d3\u05dd",
+        "url": "https://open.spotify.com/album/1ivPvapAsPBNroZlcfRn9P"
       },
       "artists": [
         {
-          "name": "Gon Ben Ari",
-          "url": "https://open.spotify.com/artist/28ZTrx51TAHFvSdmK6NbQm"
+          "name": "Alma Gov",
+          "url": "https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv"
         },
         {
-          "name": "\u05de\u05e7\u05d4\u05dc\u05ea \u05d6\u05d5\u05dc\u05ea",
-          "url": "https://open.spotify.com/artist/5pvjWGOi3YYGnjwSXQD8jd"
-        },
-        {
-          "name": "\u05e4\u05d6 \u05d3\u05de\u05d0\u05e8\u05d9",
-          "url": "https://open.spotify.com/artist/2sbI28qb7PyxnqWi48pNx7"
+          "name": "\u05d0\u05d1\u05e0\u05e8 \u05d8\u05d5\u05d0\u05d2",
+          "url": "https://open.spotify.com/artist/6O8I8ytHHfWxU2x3yX2p3H"
         }
       ],
-      "duration_ms": 308662,
-      "name": "\u05d0\u05e9\u05db\u05e8\u05d4 \u05de\u05d4 \u05e9\u05e7\u05e8\u05d4",
-      "url": "https://open.spotify.com/track/1S8hoTrnprqQLWKKk7FXs1"
+      "duration_ms": 196262,
+      "name": "\u05dc\u05e4\u05e0\u05d9 \u05e9\u05d4\u05db\u05dc \u05e0\u05e8\u05d3\u05dd",
+      "url": "https://open.spotify.com/track/3vaYdeBFQpYbcd0VfeZa6X"
     },
     {
       "added_at": "2025-12-18 22:00:32",
@@ -815,22 +811,26 @@
     {
       "added_at": "2025-12-18 22:00:32",
       "album": {
-        "name": "\u05dc\u05e4\u05e0\u05d9 \u05e9\u05d4\u05db\u05dc \u05e0\u05e8\u05d3\u05dd",
-        "url": "https://open.spotify.com/album/1ivPvapAsPBNroZlcfRn9P"
+        "name": "\u05d0\u05e9\u05db\u05e8\u05d4 \u05de\u05d4 \u05e9\u05e7\u05e8\u05d4",
+        "url": "https://open.spotify.com/album/39R8S78JAEpO2GZ4Foduv9"
       },
       "artists": [
         {
-          "name": "Alma Gov",
-          "url": "https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv"
+          "name": "Gon Ben Ari",
+          "url": "https://open.spotify.com/artist/28ZTrx51TAHFvSdmK6NbQm"
         },
         {
-          "name": "\u05d0\u05d1\u05e0\u05e8 \u05d8\u05d5\u05d0\u05d2",
-          "url": "https://open.spotify.com/artist/6O8I8ytHHfWxU2x3yX2p3H"
+          "name": "\u05de\u05e7\u05d4\u05dc\u05ea \u05d6\u05d5\u05dc\u05ea",
+          "url": "https://open.spotify.com/artist/5pvjWGOi3YYGnjwSXQD8jd"
+        },
+        {
+          "name": "\u05e4\u05d6 \u05d3\u05de\u05d0\u05e8\u05d9",
+          "url": "https://open.spotify.com/artist/2sbI28qb7PyxnqWi48pNx7"
         }
       ],
-      "duration_ms": 196262,
-      "name": "\u05dc\u05e4\u05e0\u05d9 \u05e9\u05d4\u05db\u05dc \u05e0\u05e8\u05d3\u05dd",
-      "url": "https://open.spotify.com/track/3vaYdeBFQpYbcd0VfeZa6X"
+      "duration_ms": 308662,
+      "name": "\u05d0\u05e9\u05db\u05e8\u05d4 \u05de\u05d4 \u05e9\u05e7\u05e8\u05d4",
+      "url": "https://open.spotify.com/track/1S8hoTrnprqQLWKKk7FXs1"
     },
     {
       "added_at": "2025-12-18 22:00:32",
@@ -883,26 +883,22 @@
     {
       "added_at": "2025-12-18 22:00:32",
       "album": {
-        "name": "\u05e4\u05d9\u05e0\u05d2\u05d5\u05d5\u05d9\u05e0\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/0qZs4nI6ZFzAjC1oUv9MiU"
+        "name": "\u05e2\u05d5\u05d3 \u05d9\u05d5\u05dd",
+        "url": "https://open.spotify.com/album/3wpkmk4clzSuvw8BivUZEr"
       },
       "artists": [
         {
-          "name": "Korin Allal",
-          "url": "https://open.spotify.com/artist/3IF20nS3xzinWeuc1PZHW7"
+          "name": "Daniel Rubin",
+          "url": "https://open.spotify.com/artist/077agqIDRCxkgjNgA0v1pB"
         },
         {
-          "name": "\u05de\u05e9\u05d4 \u05d5\u05dc\u05d3\u05de\u05df",
-          "url": "https://open.spotify.com/artist/1sLwMdcU6WUfcltDRvFw3H"
-        },
-        {
-          "name": "\u05e6\u05d0\u05df \u05d1\u05e8\u05d6\u05dc \u05de\u05d5\u05d6\u05d9\u05e7\u05d4",
-          "url": "https://open.spotify.com/artist/0ZpFHH7i9H9iHh6X0j73iv"
+          "name": "Nir Shlomo",
+          "url": "https://open.spotify.com/artist/5PvWeaRtWZxlLc4RpDI2Ef"
         }
       ],
-      "duration_ms": 182857,
-      "name": "\u05e4\u05d9\u05e0\u05d2\u05d5\u05d5\u05d9\u05e0\u05d9\u05dd",
-      "url": "https://open.spotify.com/track/0NRXvbCUeHcxB2UBsTQH9O"
+      "duration_ms": 188896,
+      "name": "\u05e2\u05d5\u05d3 \u05d9\u05d5\u05dd",
+      "url": "https://open.spotify.com/track/3goEVjnKUrmHg4FkwYxQ0i"
     }
   ],
   "unique_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",

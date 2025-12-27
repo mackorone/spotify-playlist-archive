@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcCQbOdQV38g.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcCQbOdQV38g) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcCQbOdQV38g)
 
-### [Nederlandse Zomerhits 2025](https://open.spotify.com/playlist/37i9dQZF1DXcCQbOdQV38g)
+### [Nederlandse Zomerhits 2026](https://open.spotify.com/playlist/37i9dQZF1DXcCQbOdQV38g)
 
 > Het zomergevoel met Nederlandstalig ☀️🧡
 
-75 songs - 3 hr 34 min
+76 songs - 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,8 @@
 | [Waarom Nou Niet \(Kleuren\)](https://open.spotify.com/track/6FqOih5ok2Hwn8EkrEIY5X) | [Quido van de Graaf](https://open.spotify.com/artist/0EeBSdffc4ckG8Yh9HOPuj) | [Waarom Nou Niet \(Kleuren\)](https://open.spotify.com/album/44thAf5VLWaQSYiEKpEZeA) | 2:49 | 2025-07-01 |  |
 | [Wat Heb Ik Nu Toch Weer Gedaan](https://open.spotify.com/track/6RjHgisPKvOdEQbcXxJSG6) | [Stef Ekkel](https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm) | [Wat Heb Ik Nu Toch Weer Gedaan](https://open.spotify.com/album/2RmlLauXc2lfxohFWE6UYz) | 3:01 | 2025-10-16 |  |
 | [Wereldwonder](https://open.spotify.com/track/4NZ15Gn3KJrmflE8jwiMBU) | [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR), [Poke](https://open.spotify.com/artist/0hgX6slgQFj1QpjpKHbcK1), [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW) | [Wereldwonder](https://open.spotify.com/album/3rmTpJlbHeChLSFdItMpY7) | 2:31 | 2025-07-01 |  |
-| [Ze Komt Uit Amsterdam](https://open.spotify.com/track/3JzuluW7MzrmMkNpfZwtyp) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [André Hazes Jr.](https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD), [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Ze Komt Uit Amsterdam](https://open.spotify.com/album/5YXzV37JGcqHOMlg3SFM1F) | 2:32 | 2025-07-01 |  |
+| [Ze Komt Uit Amsterdam](https://open.spotify.com/track/2xJIY9JQQdNzFVAumSXsIF) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [André Hazes Jr.](https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD), [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Ze Komt Uit Amsterdam](https://open.spotify.com/album/5aKbiaSUuJPZ1uX7SUXcDx) | 2:32 | 2025-12-26 |  |
+| [Ze Komt Uit Amsterdam](https://open.spotify.com/track/3JzuluW7MzrmMkNpfZwtyp) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [André Hazes Jr.](https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD), [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Ze Komt Uit Amsterdam](https://open.spotify.com/album/5YXzV37JGcqHOMlg3SFM1F) | 2:32 | 2025-07-01 | 2025-12-27 |
 | [Zelfs Je Naam Is Mooi](https://open.spotify.com/track/1UgLT5FEpuMklqAaMrt4bh) | [Xerxes](https://open.spotify.com/artist/6y1vggOkn0ekeAgqG7AZKS) | [Zelfs Je Naam Is Mooi](https://open.spotify.com/album/6NdMpCP40nHM23j9XfRL8z) | 2:46 | 2025-07-01 | 2025-08-12 |
 | [Zij Wil Mij](https://open.spotify.com/track/3Falq0rEoroeaZqNp9UDIY) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Zij Wil Mij](https://open.spotify.com/album/0NIlQZDDCGRMDuZbujA2ZR) | 2:36 | 2025-07-01 |  |
 | [Zin In De Zomer Man](https://open.spotify.com/track/1ThDzyepNdDRIYhU295DNd) | [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8), [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q), [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws) | [Zin In De Zomer Man](https://open.spotify.com/album/0fqtF6wuZHItRW9EoNHBOG) | 2:15 | 2025-07-01 |  |

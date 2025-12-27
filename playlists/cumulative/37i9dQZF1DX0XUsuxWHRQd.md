@@ -2,9 +2,9 @@
 
 ### [RapCaviar](https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd)
 
-> Music from Gunna, 21 Savage and YoungBoy Never Broke Again.
+> Music from 21 Savage, Lil Uzi Vert and Esdeekid.
 
-2,603 songs - 5 day 14 hr 56 min
+2,604 songs - 5 day 14 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1330,7 +1330,7 @@
 | [Magic City](https://open.spotify.com/track/6qHhHEBX3W1ahFasgShdih) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Magic City \(feat\. Quavo\)](https://open.spotify.com/album/1FXatEkVfJW6JbqNHB6acw) | 2:38 | 2022-03-18 | 2022-04-09 |
 | [Magnet](https://open.spotify.com/track/7dHblXsJTRemgyIvFNJE7t) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [AM I THE DRAMA?](https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ) | 2:58 | 2025-09-19 | 2025-09-27 |
 | [Major Distribution](https://open.spotify.com/track/46s57QULU02Voy0Kup6UEb) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 2:50 | 2022-11-04 | 2023-01-28 |
-| [Make America Wavy Again \(MAWA\)](https://open.spotify.com/track/38B4Gk8dUqe3jzkC8CGJ8S) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Max B](https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9) | [Make America Wavy Again \(MAWA\)](https://open.spotify.com/album/2PYpfaCSrb8DgNhfiUn9Pl) | 3:16 | 2025-12-12 |  |
+| [Make America Wavy Again \(MAWA\)](https://open.spotify.com/track/38B4Gk8dUqe3jzkC8CGJ8S) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Max B](https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9) | [Make America Wavy Again \(MAWA\)](https://open.spotify.com/album/2PYpfaCSrb8DgNhfiUn9Pl) | 3:16 | 2025-12-12 | 2025-12-27 |
 | [Make Em Say \(feat\. Mulatto\)](https://open.spotify.com/track/4dngUamfm6p0w111i1zyT2) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Top Shotta](https://open.spotify.com/album/4Bcqi7rf2MSRZrrhn0NxvB) | 3:22 | 2020-08-07 | 2020-08-21 |
 | [Make It Rain](https://open.spotify.com/track/4TgHt7vKCimpywaiKfl0uj) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj) | [Make It Rain](https://open.spotify.com/album/0XaqBneSJFz2ZVVlUM2neC) | 3:24 | 2020-06-12 | 2020-07-03 |
 | [Make No Sense](https://open.spotify.com/track/6klLvorLoo1sxvZcjJIY8I) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [AI YoungBoy 2](https://open.spotify.com/album/1nzUj7VkiaytMmf2KrhK2L) | 2:28 | 2019-10-11 | 2020-02-07 |
@@ -2492,6 +2492,7 @@
 | [What That Speed Bout!?](https://open.spotify.com/track/5iZ5wjTTxSIv8Cfrhj6Jla) | [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [What That Speed Bout!?](https://open.spotify.com/album/2MkgW6dUMTOkCXAbQSUDG5) | 2:51 | 2020-11-06 | 2020-12-11 |
 | [What Would Pluto Do](https://open.spotify.com/track/1DAibqbopEYULPEtE8WHTE) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 3:02 | 2023-10-06 | 2023-10-14 |
 | [What You Need](https://open.spotify.com/track/6LcX2hBbXaJcK4AuefE936) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [What You Need](https://open.spotify.com/album/73woFqDhh7dKipDzYyHJwZ) | 3:37 | 2021-05-05 | 2021-08-21 |
+| [What You Saying](https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [What You Saying](https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly) | 2:11 | 2025-12-26 |  |
 | [WHAT'S HAPPENIN' \(feat\. Latto & Coupe\)](https://open.spotify.com/track/6q2djm8drU3EWpLBK0mllz) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Coupe](https://open.spotify.com/artist/6OLclWJR2FJFu1K3FPezKz) | [PARADISE](https://open.spotify.com/album/3GVcT0ZaiYTX3ZVETuP1aD) | 3:21 | 2025-08-09 | 2025-11-29 |
 | [What's the Move \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/3pTScODwk9tggZzmuH6xDY) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [So Much Fun](https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh) | 4:11 | 2019-09-27 | 2019-11-22 |
 | [WHAT'S THE MOVE? \(feat\. Future and BabyDrill\)](https://open.spotify.com/track/0oqnZWNBvobs1t181f45Ck) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [WHAT'S THE MOVE? \(feat\. Future and BabyDrill\)](https://open.spotify.com/album/4GwIahaGnJ2cA4QfAJ74nF) | 3:19 | 2023-11-10 | 2024-02-03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Girlfriend
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,108,976 likes - 300 songs - 14 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,109,423 likes - 300 songs - 14 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 299 | [Posted Alone](https://open.spotify.com/track/3nhEhrnbNRSS3dPCJOQiwH) | [4Fargo](https://open.spotify.com/artist/33FcjtLCwlwxV9ImxJX2iK), [Honey Bxby](https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO) | [Posted Alone](https://open.spotify.com/album/1d1ssR6ZCP4jWWWGQyOHy7) | 2:47 |
 | 300 | [LOOSE](https://open.spotify.com/track/7I0OBcIj0vjzSvcGExnI1h) | [Kenji](https://open.spotify.com/artist/3sAk2ECmW1UmPMf6Q94Llu), [Nali](https://open.spotify.com/artist/3CMbroLqMKEfk0BMcfz5h9) | [LOOSE](https://open.spotify.com/album/7m5SpgptEu0kD2s0a0jh7U) | 3:22 |
 
-Snapshot ID: `AAAAAO2KUNFVPQEcGxc0Bcwcwd9ehlhp`
+Snapshot ID: `AAAAACdi/b+OzxlaOUdrhs3vtVoiBpF0`

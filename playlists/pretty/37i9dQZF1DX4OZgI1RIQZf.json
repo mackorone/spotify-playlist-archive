@@ -1,6 +1,6 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 143902,
+  "num_followers": 143885,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2025-11-03 08:50:06",
       "album": {
-        "name": "Drowaton",
-        "url": "https://open.spotify.com/album/2juHcXKlRhdcmu0BrM2eBw"
-      },
-      "artists": [
-        {
-          "name": "Starlight Mints",
-          "url": "https://open.spotify.com/artist/1PUcFRu2DyznyQS1nVIcEE"
-        }
-      ],
-      "duration_ms": 162320,
-      "name": "Pumpkin",
-      "url": "https://open.spotify.com/track/0AhZO6ezTf9wIY3SySkqnl"
-    },
-    {
-      "added_at": "2025-11-03 08:50:06",
-      "album": {
         "name": "Screen Violence: Director's Cut",
         "url": "https://open.spotify.com/album/1Ztn9SjQ0R5UqOIQybtS1A"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 269640,
       "name": "Final Girl",
       "url": "https://open.spotify.com/track/75JviMkDB9vyGc3q2RtXB0"
+    },
+    {
+      "added_at": "2025-11-03 08:50:06",
+      "album": {
+        "name": "Drowaton",
+        "url": "https://open.spotify.com/album/2juHcXKlRhdcmu0BrM2eBw"
+      },
+      "artists": [
+        {
+          "name": "Starlight Mints",
+          "url": "https://open.spotify.com/artist/1PUcFRu2DyznyQS1nVIcEE"
+        }
+      ],
+      "duration_ms": 162320,
+      "name": "Pumpkin",
+      "url": "https://open.spotify.com/track/0AhZO6ezTf9wIY3SySkqnl"
     },
     {
       "added_at": "2025-11-03 08:50:06",

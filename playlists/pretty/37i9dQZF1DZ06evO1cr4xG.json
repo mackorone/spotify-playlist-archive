@@ -1,12 +1,12 @@
 {
   "description": "This is Trivium. The essential tracks, all in one playlist.",
-  "num_followers": 86009,
+  "num_followers": 86019,
   "original_name": "This Is Trivium",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUstAAAAAABWbN3I+pch7d4SWDWu7SnV",
+  "snapshot_id": "aUx+gAAAAAC15RZcVZlNwQeUduyEoxDM",
   "tracks": [
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drowning in the Sound",
-        "url": "https://open.spotify.com/album/2NpAvxFCF4HHkLn8VfuNJo"
+        "name": "What The Dead Men Say",
+        "url": "https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 223200,
-      "name": "Drowning in the Sound",
-      "url": "https://open.spotify.com/track/4nnoWkdf9ZSQJnMQhmxyMj"
+      "duration_ms": 228926,
+      "name": "Bleed Into Me",
+      "url": "https://open.spotify.com/track/63AK4XR008a8GevrN4Ei5m"
     },
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "What The Dead Men Say",
-        "url": "https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y"
+        "name": "Drowning in the Sound",
+        "url": "https://open.spotify.com/album/2NpAvxFCF4HHkLn8VfuNJo"
       },
       "artists": [
         {
@@ -612,25 +612,9 @@
           "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 228926,
-      "name": "Bleed Into Me",
-      "url": "https://open.spotify.com/track/63AK4XR008a8GevrN4Ei5m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In Waves (Special Edition)",
-        "url": "https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 293093,
-      "name": "Watch the World Burn",
-      "url": "https://open.spotify.com/track/1JwKA8yiG6cO43ZjEPawng"
+      "duration_ms": 223200,
+      "name": "Drowning in the Sound",
+      "url": "https://open.spotify.com/track/4nnoWkdf9ZSQJnMQhmxyMj"
     },
     {
       "added_at": null,
@@ -647,6 +631,22 @@
       "duration_ms": 335792,
       "name": "A Crisis Of Revelation",
       "url": "https://open.spotify.com/track/07ELgtGISbYc3CavN1AcfX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In Waves (Special Edition)",
+        "url": "https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 293093,
+      "name": "Watch the World Burn",
+      "url": "https://open.spotify.com/track/1JwKA8yiG6cO43ZjEPawng"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Waves (Special Edition)",
-        "url": "https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 207893,
-      "name": "Black",
-      "url": "https://open.spotify.com/track/6APaLjBA0uKDTpHMaGA7eY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ascendancy (Special Edition)",
         "url": "https://open.spotify.com/album/21mOhkOtrPVySn4D2SbOAF"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 489960,
       "name": "Master of Puppets",
       "url": "https://open.spotify.com/track/0P5D7ji9AJi85bEdQhq50a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In Waves (Special Edition)",
+        "url": "https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 207893,
+      "name": "Black",
+      "url": "https://open.spotify.com/track/6APaLjBA0uKDTpHMaGA7eY"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Waves (Special Edition)",
-        "url": "https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 228040,
-      "name": "Inception of the End",
-      "url": "https://open.spotify.com/track/0P1weKhEUYqP4UMV4UNr4G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vengeance Falls (Special Edition)",
         "url": "https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 269853,
       "name": "Brave This Storm",
       "url": "https://open.spotify.com/track/0CdHnV4vaqNDKskubNQWLb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In Waves (Special Edition)",
+        "url": "https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 228040,
+      "name": "Inception of the End",
+      "url": "https://open.spotify.com/track/0P1weKhEUYqP4UMV4UNr4G"
     },
     {
       "added_at": null,

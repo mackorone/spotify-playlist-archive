@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcRTDTjL53b.md) - [plain]
 
 > La bande son des premiers amours
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,700 likes - 44 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,708 likes - 44 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

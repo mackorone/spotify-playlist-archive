@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-3,771 songs - 8 day 8 hr 4 min
+3,777 songs - 8 day 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -652,6 +652,7 @@
 | [Crazy Catchy Chaos](https://open.spotify.com/track/14gjkEHMnMJJgkFEF5cPpt) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Strange Pop Viral Music](https://open.spotify.com/album/048KvM5YKwazPS89FxIs2d) | 2:37 | 2025-09-19 |  |
 | [Crazy Horse](https://open.spotify.com/track/638G4U3oabQAQHKi43XbUj) | [Automatic Kafka](https://open.spotify.com/artist/2MxUQ6VUpXfDov3Fyz7Wnm) | [Crazy Horse](https://open.spotify.com/album/5zgycbyhmN5ROkDD6CXMRZ) | 4:52 | 2025-08-22 |  |
 | [CRAZY LOVE](https://open.spotify.com/track/2uFC0xs04LqhKGYGwlxDf6) | [DANTILEVRA](https://open.spotify.com/artist/7gCW2s24hjRz8rwsrsU36h) | [CRAZY LOVE](https://open.spotify.com/album/400Qd5Sdtj8lLZCLNHy6vz) | 3:14 | 2025-06-04 |  |
+| [Crazy Love](https://open.spotify.com/track/2XliJHu9QqhKEcYjtLtlLR) | [MITCH J](https://open.spotify.com/artist/7eJ0yQqKoJaTXds7x0SVEr) | [Crazy Love](https://open.spotify.com/album/6wCSP7GAAnc5rbFbVdqH3m) | 3:36 | 2025-12-26 |  |
 | [Crazy Magd](https://open.spotify.com/track/3s28po4LJMwy2ogiixpOr7) | [Fauno](https://open.spotify.com/artist/7AHAzx34mAvxx9PQFJXWSr) | [Crazy Magd](https://open.spotify.com/album/2sELkK6ny1263xRS6410Uw) | 2:50 | 2025-06-25 |  |
 | [Crimson Fever](https://open.spotify.com/track/0gQfE91m3vLMGRAwhMvKvO) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Absinthe Nights](https://open.spotify.com/album/4OEm70Vv5QIeDRUKSrKx1m) | 3:19 | 2025-09-15 |  |
 | [Crimson Pixel Stains](https://open.spotify.com/track/6drCIxVIcrjPPYVDirSdXl) | [Digiplayer.13](https://open.spotify.com/artist/32yRrtY4Az7zXL2a2nf9gk), [Alex.13](https://open.spotify.com/artist/74kwMd6oJzppv5s1b6RhVV) | [Crimson Pixel Stains](https://open.spotify.com/album/6dXzo33ql5hmoz0mpIfQix) | 2:16 | 2025-09-23 |  |
@@ -1344,6 +1345,7 @@
 | [FWYTYK](https://open.spotify.com/track/0XX1yoKE6UQzweWOmgsIg2) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [TRUE POWER](https://open.spotify.com/album/6SjY4WK6VMFYEINGVOHzGa) | 3:17 | 2025-04-09 |  |
 | [Game On](https://open.spotify.com/track/1bnhFBcld2eOWaK5t42RJ3) | [Douglerz](https://open.spotify.com/artist/6ouwb5tJ8cunSIsFtD8aTT) | [Game On](https://open.spotify.com/album/7HSBBFukpS0PMtMV67ICGY) | 2:50 | 2025-06-04 |  |
 | [Game Over Lovers](https://open.spotify.com/track/3eUMKk0bfVUj3A1mrDsBZ3) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Videogame inspired alternative rock](https://open.spotify.com/album/5zRoS1FLwDk1J1PcPd4oyT) | 3:00 | 2025-09-12 |  |
+| [Garden Again](https://open.spotify.com/track/5VSOcF7z8Kempq4yn16mpz) | [Evva Polak](https://open.spotify.com/artist/507ea9h4rltyLfB1fqpIfV) | [Garden Again](https://open.spotify.com/album/0NvOpi04hZyaswKLQGYOBT) | 4:19 | 2025-12-26 |  |
 | [Gasoline](https://open.spotify.com/track/6Q1m1GyNxyOwZ2ud3p7XoS) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [TRAUMA](https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik) | 2:33 | 2025-04-09 |  |
 | [GAWD](https://open.spotify.com/track/1BSylA531DI1EsLlWCIPYR) | [Zoleon](https://open.spotify.com/artist/2ICjf9TZAj9HK9nZ8zZtkK) | [GAWD](https://open.spotify.com/album/6tijc0hDKo3wkxb8wR7Drj) | 3:01 | 2025-07-03 |  |
 | [Gbemi Soke \( Lift Me Up\)](https://open.spotify.com/track/7tbkkt0O2DjjAQqfVS5P37) | [Douglerz](https://open.spotify.com/artist/6ouwb5tJ8cunSIsFtD8aTT), [Cbodilon](https://open.spotify.com/artist/4GghFYzhl73ay9rNqvVHjl) | [Game On](https://open.spotify.com/album/7HSBBFukpS0PMtMV67ICGY) | 3:08 | 2025-06-04 |  |
@@ -1871,6 +1873,7 @@
 | [Lights up in the Morning Blaze \(another\)](https://open.spotify.com/track/5b22uXoYxyeZv4A0S64xeu) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Super Super](https://open.spotify.com/album/6nCFTmz29k90pleVZVW3sW) | 2:51 | 2025-09-19 |  |
 | [Lighty](https://open.spotify.com/track/60AzyRRvAyi9dSJX3uB1wO) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Minimal Electronic Pop](https://open.spotify.com/album/3U0AvE2h1DP2WyGgtRQnmz) | 3:40 | 2025-09-17 |  |
 | [Lighty \(another\)](https://open.spotify.com/track/3xBDNSyeokrYSiXBHCB2IE) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Minimal Electronic Pop](https://open.spotify.com/album/3U0AvE2h1DP2WyGgtRQnmz) | 3:14 | 2025-09-17 |  |
+| [Like a Sun](https://open.spotify.com/track/3LSsDvUngLzH6ayzSmv1Pw) | [Charlie Toulson](https://open.spotify.com/artist/5XVuDmp4R5ESKtdYKu4u9n) | [Blood](https://open.spotify.com/album/4OlJmPoZcR6HhP9ryrYjoD) | 2:16 | 2025-12-26 |  |
 | [Like The Dragonflies](https://open.spotify.com/track/6wupREgOCQGRn6TUdAaw7e) | [AnnoLuce](https://open.spotify.com/artist/0RAepJjLAqVtjFtufCgL3A), [Mat Neumann](https://open.spotify.com/artist/6Ewb0KHn0X3JkieRDGBTYn) | [Like The Dragonflies](https://open.spotify.com/album/2NJ28PGU3y3gwyzF4YJzRj) | 4:08 | 2025-06-06 |  |
 | [Liquido](https://open.spotify.com/track/0s2F4Ier4llM9eBIeAUjpx) | [Sono](https://open.spotify.com/artist/4I9E7P0A63ze5UdhH43gpK) | [Liquido](https://open.spotify.com/album/3b9OWypa3OURckhAqUrHQd) | 3:34 | 2025-05-27 |  |
 | [Listen](https://open.spotify.com/track/3xXLoMwMlHayghrTphzWuv) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Addictive Pop](https://open.spotify.com/album/31BLqQI2Fuq0nTlBzmDUx4) | 3:35 | 2025-09-18 |  |
@@ -1947,6 +1950,7 @@
 | [Lover Undiscovered](https://open.spotify.com/track/3fGhIji5gQMUucZ7gEyBpy) | [The Groundswell](https://open.spotify.com/artist/4MiMzugMniyd4PBZsxbDqj) | [No Goodbyes](https://open.spotify.com/album/1q4DnWJLO4aHsxpqtDbFbV) | 3:04 | 2025-05-02 |  |
 | [Lovesickness](https://open.spotify.com/track/07yQlHOpHqqk103nGGjL2m) | [Blake Cunningham](https://open.spotify.com/artist/7lDqMXbyfDk8fPXZAWgZDS) | [Lovesickness](https://open.spotify.com/album/5CJPO80DAGRdTGjZ1vtWVc) | 2:33 | 2025-05-23 |  |
 | [Low Balance](https://open.spotify.com/track/6U14bLk2LLauRlNmupYblT) | [Actor1Ma](https://open.spotify.com/artist/2bhSkSJxOWs9GJu16aaJGC), [Emma Blo](https://open.spotify.com/artist/12bJlmIeRHXrfx9fBPKttz) | [Low Balance](https://open.spotify.com/album/1M77URlwQA7C3VE3NPCpWe) | 2:21 | 2025-07-03 |  |
+| [Low cost flights](https://open.spotify.com/track/68FuZuHqBIkKpFIGRnrdlF) | [IGuez](https://open.spotify.com/artist/0lflL0X5bcRofHCuxHE0Ya) | [Low cost flights](https://open.spotify.com/album/3EEKxo2vEQT7SdopFcTsU0) | 4:52 | 2025-12-26 |  |
 | [LSD](https://open.spotify.com/track/5d27OCe5P7XDaY1yaeH3lf) | [Elton Aura](https://open.spotify.com/artist/4O24XfCPqIJQUMXOJ2F0ni) | [LSD](https://open.spotify.com/album/0fyuRKEksTz5L534lbsS1Z) | 2:50 | 2025-05-16 |  |
 | [luce](https://open.spotify.com/track/4NBxaUtkB1KFFVJ9XxanHq) | [Holyroh](https://open.spotify.com/artist/0LPwMpSScA73gR7VENCleQ) | [luce](https://open.spotify.com/album/7KxL66ZnSktIbKQdTS1y5a) | 3:26 | 2025-06-06 |  |
 | [Luce di Stelle](https://open.spotify.com/track/1iue7k8mkLo6I8MGpqyLov) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Pop Italiano](https://open.spotify.com/album/7IrQUjWQhPAXuhNFYaDVI0) | 2:46 | 2025-07-01 |  |
@@ -2625,6 +2629,7 @@
 | [Relationship](https://open.spotify.com/track/4Z46jUuLEPTi53ubwSb9PQ) | [Joey Glam](https://open.spotify.com/artist/272ANGjK3r7UvU1pk0Xm5P), [Oliver Yung Dee](https://open.spotify.com/artist/2ujBMoAh8CrTYWPew7z3mT) | [Relationship](https://open.spotify.com/album/4dL28Z3hfQaIWobz0iKmHJ) | 3:08 | 2025-06-04 |  |
 | [Relax](https://open.spotify.com/track/0XLDuwC2BUMr54SU1LCYX8) | [Loris](https://open.spotify.com/artist/0NNVqu4vFNvDhWFfaHmXGB) | [Relax](https://open.spotify.com/album/2wq8ECH2d938pINlrNdwzd) | 2:19 | 2025-05-27 |  |
 | [Remember My Name](https://open.spotify.com/track/74U3RSDvW0WmyUufIHGgjn) | [Sons of Legion](https://open.spotify.com/artist/4WBCjNjq0MGPsvcXyOPWKW) | [Remember My Name](https://open.spotify.com/album/0h23dGYOWAvQW3rNXX9lCd) | 3:46 | 2025-02-02 |  |
+| [remember that time \- demo](https://open.spotify.com/track/2WmZ2yOTzQZSFKePzKalDW) | [cadenn](https://open.spotify.com/artist/5R8wFLLq8qW1vOVntakADR) | [remember that time \(demo\)](https://open.spotify.com/album/70O6lr0dswyDaSUc8By1KC) | 5:20 | 2025-12-26 |  |
 | [Renegade](https://open.spotify.com/track/7nJ98wvbYzBi2oDerHkk6q) | [Antimony](https://open.spotify.com/artist/6j3Y1pCQUEoIJaVaUVXBk2), [Dwain Willis](https://open.spotify.com/artist/79ZYKvbgWvEwQye9io7K0X) | [Renegade](https://open.spotify.com/album/3VMMzRSKt2V02sa2vlSXVa) | 2:28 | 2025-05-10 |  |
 | [Renfield's Afoot](https://open.spotify.com/track/5U28vvBjNFQm0QESzDC2qw) | [Half Man Half Biscuit](https://open.spotify.com/artist/6hBQq083tyW3yrF1gdVt4Q) | [No One Cares About Your Creative Hub so Get Your Fuckin' Hedge Cut](https://open.spotify.com/album/12aUWcdImt2uVMSGYHRmYl) | 1:18 | 2025-11-05 |  |
 | [Respawn Generation](https://open.spotify.com/track/5ojHvogANoNbE276B7h349) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Videogame inspired alternative rock](https://open.spotify.com/album/5zRoS1FLwDk1J1PcPd4oyT) | 3:29 | 2025-09-12 |  |
@@ -2799,6 +2804,7 @@
 | [Shake That Rock 'n' Roll](https://open.spotify.com/track/6EI1mbbcauGM8qolEYKTJ0) | [AISynthesia](https://open.spotify.com/artist/7IFfx6ctCT6S5lcGxm9q2r) | [Shake That Rock 'n' Roll](https://open.spotify.com/album/38arCeThWOMqlHK0ocjmpP) | 3:14 | 2025-06-01 |  |
 | [Shakira: Bzrp Music Sessions, Vol\. 53/66](https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Shakira: Bzrp Music Sessions, Vol\. 53/66](https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg) | 3:34 | 2023-01-19 |  |
 | [Shameless](https://open.spotify.com/track/1U1LDmjkRqejcZuBWOrMeD) | [Konbini Klan](https://open.spotify.com/artist/7CU7g0yi8aUdnlket0S873) | [Shameless](https://open.spotify.com/album/0quFJXJxKVX1wHLcZMDi5C) | 4:40 | 2025-06-03 |  |
+| [Sharavise](https://open.spotify.com/track/5Q6IzaBQ90vXoTqGX8CdpX) | [Goodbye Lenin](https://open.spotify.com/artist/36Le1UCarumb2FxVEImKpS) | [In Spite of Impending Doom](https://open.spotify.com/album/6OQ5JfQ2vqdAEY7VkVpLNP) | 4:45 | 2025-12-26 |  |
 | [Shatter the Sky](https://open.spotify.com/track/4QJLdgopMYq8DOwFXUJyi2) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Melodic hardcore 2025](https://open.spotify.com/album/25hJN2Fa1vy354tgl5WfYD) | 3:32 | 2025-09-17 |  |
 | [Shatter the Sky \(another\)](https://open.spotify.com/track/1y4WC4AH3TKx6yAnf2OEH8) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Melodic hardcore 2025](https://open.spotify.com/album/25hJN2Fa1vy354tgl5WfYD) | 2:40 | 2025-09-17 |  |
 | [Shattered](https://open.spotify.com/track/5mzq4bcplifGfPEhj2V1iY) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Screaming punkrock, melodic hardcore](https://open.spotify.com/album/4RtD0WVAxpM9l5UcPwITHT) | 2:47 | 2025-09-17 |  |

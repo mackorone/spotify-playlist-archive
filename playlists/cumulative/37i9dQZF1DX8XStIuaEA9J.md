@@ -4,7 +4,7 @@
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: Vaundy
 
-1,458 songs - 3 day 11 hr 37 min
+1,459 songs - 3 day 11 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -883,6 +883,7 @@
 | [となり](https://open.spotify.com/track/6E3JVfaYoigAJDk92WjyiK) | [Berry Goodman](https://open.spotify.com/artist/4PFC7IPuGWwwYQUuuvSnrw) | [となり](https://open.spotify.com/album/2rL32zp3JZWmf6AxPwculN) | 4:16 | 2023-11-23 | 2023-11-29 |
 | [とろい](https://open.spotify.com/track/4d7kU8Y5PUdZDsyuuLRlqq) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [とろい](https://open.spotify.com/album/6N31XhdzrU7yLWmr6WoKki) | 4:00 | 2025-07-08 | 2025-09-03 |
 | [どうかしてる](https://open.spotify.com/track/1N7SNqZRZsQzwJNtq2lV6O) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [どうかしてる](https://open.spotify.com/album/3Homeh5wwwJBteBjRAqGQI) | 2:30 | 2025-07-15 | 2025-09-03 |
+| [どうしてもどうしても](https://open.spotify.com/track/6hlYmR30RGaHIz4UlVOG2U) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [どうしてもどうしても](https://open.spotify.com/album/1FrDTcNmbqprRXn9s9kk8Y) | 3:46 | 2025-12-26 |  |
 | [どんな小さな](https://open.spotify.com/track/6R09XAikgyKemgjTJhoxaW) | [wacci](https://open.spotify.com/artist/7jCHrVGjeHUYP2pHv8FOJ3) | [どんな小さな](https://open.spotify.com/album/7tAoCh9OWDmQddSDVCWvxj) | 4:47 | 2024-10-15 | 2024-11-27 |
 | [ならない日々](https://open.spotify.com/track/0pZHTpOdrgsHBNWbg7GRSb) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [MIMI](https://open.spotify.com/artist/0nwGsQzwVqdlBAg0eSNxmd), [華乃](https://open.spotify.com/artist/6YUJ42FEAnih07MtKJmWM7) | [ならない日々](https://open.spotify.com/album/2IW7WXukDCcwgEHQtwT2JP) | 2:19 | 2025-09-30 | 2025-10-08 |
 | [なんとも思ってねぇ](https://open.spotify.com/track/3ZaWOwApiSBHtQMcHB0qU7) | [DJ CHARI](https://open.spotify.com/artist/5vEZZrTMbKhrd5Mgs37m8p), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [Choppa Capone](https://open.spotify.com/artist/6qYsothwQkj7FyzDhCj3Ez), [1MILL](https://open.spotify.com/artist/18VUKXPiyznwK6LEULTUco) | [なんとも思ってねぇ](https://open.spotify.com/album/3nFQn0Q02t4LOgV7I5DFiu) | 4:36 | 2024-07-09 | 2024-07-27 |
@@ -1340,7 +1341,7 @@
 | [涙のスイマー](https://open.spotify.com/track/0OUxpQVIoca5mB0JKSGop0) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [涙のスイマー](https://open.spotify.com/album/3Mi20D234lblgBeMJjdEZc) | 3:09 | 2025-07-29 | 2025-10-22 |
 | [涙の正体](https://open.spotify.com/track/3AfPOViUt21wiNRz3AZq2b) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [涙の正体](https://open.spotify.com/album/5qT4PfsqQOTE7vhSursTqL) | 4:04 | 2025-01-28 | 2025-03-12 |
 | [涙ばっかのヒロインさん](https://open.spotify.com/track/6ieJ1OBFJYK2iIQIREKqbI) | [bokula.](https://open.spotify.com/artist/03d8apfHOy2uV3oLL9lsFG) | [涙 滲むのは心の本音です.](https://open.spotify.com/album/7aV8yDdJFHHJG7npaGxkMd) | 3:47 | 2024-04-16 | 2024-04-24 |
-| [渦](https://open.spotify.com/track/5J1xalv6l7lze1AvFeLstR) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [渦](https://open.spotify.com/album/7kYLEXVhvTilbDM67hrBub) | 3:09 | 2025-11-04 |  |
+| [渦](https://open.spotify.com/track/5J1xalv6l7lze1AvFeLstR) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [渦](https://open.spotify.com/album/7kYLEXVhvTilbDM67hrBub) | 3:09 | 2025-11-04 | 2025-12-27 |
 | [満ちてゆく](https://open.spotify.com/track/5glPFBAuA1C85tBcVWVzvO) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [満ちてゆく](https://open.spotify.com/album/6eRVinhid9kY4g0A9nUh5W) | 5:10 | 2024-04-16 | 2024-05-22 |
 | [火星人](https://open.spotify.com/track/5RKDnMLQdvkk4OLxF0uBj6) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [火星人](https://open.spotify.com/album/7prOrULE1LsLR9aCjLVZQj) | 3:54 | 2025-05-13 | 2025-07-16 |
 | [灯星](https://open.spotify.com/track/6yk54dGwC2LMmkaOZqpkBH) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4), [suis from Yorushika](https://open.spotify.com/artist/4UOdwKkaWHJ5k6UqnfC2w0) | [灯星](https://open.spotify.com/album/3S9hcfu9h6fRF4ucs6OPAX) | 4:10 | 2025-07-01 | 2025-07-09 |

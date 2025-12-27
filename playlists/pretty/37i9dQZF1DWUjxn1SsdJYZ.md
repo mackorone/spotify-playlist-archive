@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best new AUS & NZ Rap\. Cover: Rops1
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,272 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,291 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 99 | [NO VIP](https://open.spotify.com/track/6hcNBj0GRuGVcewMat0y9u) | [DHEM](https://open.spotify.com/artist/7IBJMFXUXm17K33eaYxxnK), [Yung Maynie](https://open.spotify.com/artist/3GtXvOMS0lIg2l6Ss4sAtI), [JARNA](https://open.spotify.com/artist/7dURglfKbeSd5WoF28mdWs) | [NO VIP](https://open.spotify.com/album/1l80V3c3tG4dauykNlxR9M) | 3:00 |
 | 100 | [Two Lowkeyy](https://open.spotify.com/track/1AULDjBtD0cE7sHd1B0rFL) | [TAKTiX](https://open.spotify.com/artist/6gBRnjov5e97HFnYXnfNvs) | [Two Lowkeyy](https://open.spotify.com/album/3drTKspFeouqUVdr9j5Q55) | 2:08 |
 
-Snapshot ID: `AAAAAF7bkry+KUTB5QhI825/RKLJSdCy`
+Snapshot ID: `AAAAADCLtSJaypz49RmIrkHO7/VcMmx/`

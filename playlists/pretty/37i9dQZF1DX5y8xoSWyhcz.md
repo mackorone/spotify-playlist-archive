@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,919 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,905 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 99 | [Incognito](https://open.spotify.com/track/1RRcjoAjPJhcoYYvehvAfI) | [Terrain Vague](https://open.spotify.com/artist/3VSqJAKzXx7yhc1AYHPUcB) | [TV1](https://open.spotify.com/album/1Px2q8QHAnLRZyCMIwhN90) | 3:52 |
 | 100 | [Rage](https://open.spotify.com/track/5sUWvTviBP5hxYeRmEnSog) | [Laura Lucas](https://open.spotify.com/artist/26C6XIcWyR8utyqb1wycyc) | [Rage](https://open.spotify.com/album/1WEnvdNxVjDqorcoBBOIdt) | 3:21 |
 
-Snapshot ID: `AAAAAFbM+V11uS8k85mKob6IVwk7VnPq`
+Snapshot ID: `AAAAAM/ER/hXzTRuc+fvgZavzYRTzFd5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FuvFkGbjhs.md) - [plain]
 
 > Beyond titles, beyond genre\. Cover: james K
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,239 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,230 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FuvFkGbjhs.md) - [plain]
 | 99 | [Get Back](https://open.spotify.com/track/6VzhkhV5hv1FSfPtTNRJRw) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Get Back](https://open.spotify.com/album/48RdAlViFWSDGLcFQOphCT) | 4:05 |
 | 100 | [PIXELATED KISSES](https://open.spotify.com/track/2OZVskV28xxJjjhQqKTLSg) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [PIXELATED KISSES](https://open.spotify.com/album/3FLlai6YTV9IwCU0KolG1w) | 1:50 |
 
-Snapshot ID: `AAAAAAODEtwdkFUnqpJ2w+kLArfd38rB`
+Snapshot ID: `AAAAAIGmm5wnNTaif0AusVHvvT2bg36Q`

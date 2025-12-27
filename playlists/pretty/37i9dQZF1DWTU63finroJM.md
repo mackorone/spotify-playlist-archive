@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > Best of this year's RADAR class\. Cover: Gigi Perez
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,211 likes - 49 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,275 likes - 49 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,12 +26,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 16 | [รสชาติชีวิต](https://open.spotify.com/track/3S16LqUZZibsrTeG59kH4M) | [LITTLE JOHN](https://open.spotify.com/artist/6IyHyMlpel4mF7hTldZu3m) | [รสชาติชีวิต](https://open.spotify.com/album/716iJevJDc8Pl0nob6n891) | 4:42 |
 | 17 | [ความรักไม่ได้น่ากลัวขนาดนั้น \(TRUST ME\)](https://open.spotify.com/track/5fmGQW02BWMCKEbXG2m1xi) | [LYKN](https://open.spotify.com/artist/16JoSyjAZcwB1b8SvkTSXj) | [DUSK & DAWN](https://open.spotify.com/album/6ClfflTjLdTkVP4ElFO6Pb) | 3:54 |
 | 18 | [poukwa \(elle m'demande\)](https://open.spotify.com/track/3KECoEpKXUzZhkrZra1TAZ) | [63OG](https://open.spotify.com/artist/1wRx48q25O8HPDTyNOUQ2k) | [6TR9C9 DE LUXE](https://open.spotify.com/album/3VrVgrYmoqSgiEp8zfMSv7) | 2:25 |
-| 19 | [Quieres Autodestruirte Conmigo?](https://open.spotify.com/track/0ImJfk8NU4a1aMvclUyJT0) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [INFANCIA MAL CALIBRADA](https://open.spotify.com/album/16xCvyLPONGbD1pij2GOQ1) | 3:07 |
-| 20 | [Dada](https://open.spotify.com/track/6WPSzmAt1fgTeq3P62Z3Vo) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL) | [Dada](https://open.spotify.com/album/4o62iYJOehteyFmHPxsG09) | 5:38 |
+| 19 | [Dada](https://open.spotify.com/track/6WPSzmAt1fgTeq3P62Z3Vo) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL) | [Dada](https://open.spotify.com/album/4o62iYJOehteyFmHPxsG09) | 5:38 |
+| 20 | [Quieres Autodestruirte Conmigo?](https://open.spotify.com/track/0ImJfk8NU4a1aMvclUyJT0) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [INFANCIA MAL CALIBRADA](https://open.spotify.com/album/16xCvyLPONGbD1pij2GOQ1) | 3:07 |
 | 21 | ['BOUT U](https://open.spotify.com/track/0TkxukEZ2yWc6KEOkMfytD) | [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI) | [U](https://open.spotify.com/album/0v2J5eoU0WEch02rZ7xVZs) | 2:59 |
 | 22 | [Goodbye, My Summer](https://open.spotify.com/track/2aicRlZiaAEteaPsti8Hls) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [JAMONG SALGU CLUB](https://open.spotify.com/album/2DV7iVJ7L5DRQijgjyqLyQ) | 3:56 |
-| 23 | [1000 days of moments](https://open.spotify.com/track/4ygNS3AtvJmdKCa1SU2FEa) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [1000 days of moments](https://open.spotify.com/album/4kDY1iaK6MdsDsZEZ78Ebk) | 3:23 |
-| 24 | [WHITE RABBIT](https://open.spotify.com/track/39VNot2WGk4Xj1ncP0Hj47) | [Daou Pittaya](https://open.spotify.com/artist/4qy25DAcdjRkcQkjxMcUmf) | [WHITE RABBIT](https://open.spotify.com/album/7BpPRBr9YRghxFoNpzEC61) | 2:42 |
+| 23 | [WHITE RABBIT](https://open.spotify.com/track/39VNot2WGk4Xj1ncP0Hj47) | [Daou Pittaya](https://open.spotify.com/artist/4qy25DAcdjRkcQkjxMcUmf) | [WHITE RABBIT](https://open.spotify.com/album/7BpPRBr9YRghxFoNpzEC61) | 2:42 |
+| 24 | [1000 days of moments](https://open.spotify.com/track/4ygNS3AtvJmdKCa1SU2FEa) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [1000 days of moments](https://open.spotify.com/album/4kDY1iaK6MdsDsZEZ78Ebk) | 3:23 |
 | 25 | [Contagious](https://open.spotify.com/track/2fIWB5J4Hq0rOh8DL4xINK) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Contagious](https://open.spotify.com/album/1fqKR6PCya4ZqtmhayITvZ) | 2:55 |
 | 26 | [เติบโตโดยไม่มีฉัน \- End Of My Turn](https://open.spotify.com/track/6qokdF2ulHUVKntPfgKDsu) | [guncharlie](https://open.spotify.com/artist/1qveov8f3HXFhDIWtFO5tG) | [เติบโตโดยไม่มีฉัน \(End Of My Turn\)](https://open.spotify.com/album/1sLZJuUH0pNb6tf6gXTZV2) | 4:37 |
 | 27 | [Energy](https://open.spotify.com/track/5jZs79KOjXHJaEKDvSCt6W) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [null](https://open.spotify.com/album/6g45D7w415qJrQjaCxg7hr) | 2:41 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 31 | [No iPhone](https://open.spotify.com/track/38FBUVBFNken57Q25fQxPG) | [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7) | [No iPhone](https://open.spotify.com/album/2U8fPsJLJGwykY38e1vfDG) | 2:16 |
 | 32 | [ดิ่งดาวน์ \(DOWN\)](https://open.spotify.com/track/4jhWTchEKltAokimVeYmL9) | [ALIE BLACKCOBRA](https://open.spotify.com/artist/2kGEcklZxkQPpESUB3QZ0q) | [Angel Energy](https://open.spotify.com/album/2Rsqs9sglwPNsgP0pCJEnt) | 3:39 |
 | 33 | [Feel Myself](https://open.spotify.com/track/6K3hoAk4h3m2y2sKh0LviZ) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Interior](https://open.spotify.com/album/1knlwGtSu2giVTRen3Fk8d) | 2:44 |
-| 34 | [Humahalik](https://open.spotify.com/track/0zEn6vTXSk2is5l6kpDe0Z) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [Humahalik](https://open.spotify.com/album/09gZvZkIXdW5mEmQwie7hF) | 3:55 |
-| 35 | [Bila](https://open.spotify.com/track/3NoDf1xUib20i3OuyhW7Gp) | [The Lantis](https://open.spotify.com/artist/1REvGGP2H7cFLGZgK2sStO) | [Cara Mencintai](https://open.spotify.com/album/7u5NCLGmm0CYfYA9XcGvZB) | 3:08 |
+| 34 | [Bila](https://open.spotify.com/track/3NoDf1xUib20i3OuyhW7Gp) | [The Lantis](https://open.spotify.com/artist/1REvGGP2H7cFLGZgK2sStO) | [Cara Mencintai](https://open.spotify.com/album/7u5NCLGmm0CYfYA9XcGvZB) | 3:08 |
+| 35 | [Humahalik](https://open.spotify.com/track/0zEn6vTXSk2is5l6kpDe0Z) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [Humahalik](https://open.spotify.com/album/09gZvZkIXdW5mEmQwie7hF) | 3:55 |
 | 36 | [VAMO A MATARNO](https://open.spotify.com/track/6tDPboTFnNiYJLCvkKsDhY) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH) | [ASÍ SONÁBAMOS<?](https://open.spotify.com/album/4UWSapwmVuJTSuhyx0TkiK) | 2:08 |
 | 37 | [When We Play](https://open.spotify.com/track/7bZzYTtOpjYtGi9fd4HFjc) | [Thakzin](https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE), [Xolani Guitars](https://open.spotify.com/artist/0fXj3KTK2tXbxUImfJEF9I) | [Gods window, Pt\. 1](https://open.spotify.com/album/2qDpWACZJ81rK6BJP8aoWD) | 8:33 |
 | 38 | [Unknown Island](https://open.spotify.com/track/73r8oPLdOs4IzFpzoNyCVB) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Jupiter=](https://open.spotify.com/album/6ezMwJgOVFFHQYFy3YgZE2) | 4:16 |

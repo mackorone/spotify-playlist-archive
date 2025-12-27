@@ -4,7 +4,7 @@
 
 > 注目の国内外ネクスト・ヒットをいち早くお届け。 cover:  Alex Warren
 
-5,155 songs - 12 day 10 hr 36 min
+5,156 songs - 12 day 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4217,6 +4217,7 @@
 | [となりのトトロ](https://open.spotify.com/track/6Bd9CvRfFDXnc2FDl1aF1b) | [Shigeru Kishida](https://open.spotify.com/artist/62TpalmxXUjLKyxJUgZt6W) | [スタジオジブリ トリビュートアルバム「ジブリをうたう」](https://open.spotify.com/album/3lB0B7C191nUhH8ar64hJ0) | 4:31 | 2023-11-05 | 2023-11-13 |
 | [とりあえず](https://open.spotify.com/track/7k2kKPLzxIa4OmDeoiWfYD) | [Mikan Hayashi](https://open.spotify.com/artist/1VPFnxE9Nu4PM4JoCU4RUt), [多多 x 以捷](https://open.spotify.com/artist/25vtw3bkiKz9nbo7vl6qqY) | [とりあえず](https://open.spotify.com/album/6Fg4RusObKTcshoLDWv05K) | 4:37 | 2023-05-07 | 2023-05-15 |
 | [とろい](https://open.spotify.com/track/4d7kU8Y5PUdZDsyuuLRlqq) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [とろい](https://open.spotify.com/album/6N31XhdzrU7yLWmr6WoKki) | 4:00 | 2025-07-17 | 2025-08-29 |
+| [どうしてもどうしても](https://open.spotify.com/track/6hlYmR30RGaHIz4UlVOG2U) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [どうしてもどうしても](https://open.spotify.com/album/1FrDTcNmbqprRXn9s9kk8Y) | 3:46 | 2025-12-25 |  |
 | [どきどきしてる](https://open.spotify.com/track/65cVCZdX6LtCbnsjTIWwmS) | [20th Century](https://open.spotify.com/artist/3LJ6xDae4k9J6ephrhB1xD) | [二十世紀 FOR THE PEOPLE](https://open.spotify.com/album/3vh4QzX5DeRbGKXUqLT4Da) | 3:03 | 2023-06-18 | 2023-06-26 |
 | [なんて日々だっけ?](https://open.spotify.com/track/3ttrZsHEiL3ojEjOCzZvBY) | [domico](https://open.spotify.com/artist/0CQuAKiUYqH0OK020E3miJ) | [なんて日々だっけ?](https://open.spotify.com/album/5I5xLwPlxFfOxlPpv5Qy2g) | 3:13 | 2023-04-02 | 2023-04-17 |
 | [なんとも思ってねぇ](https://open.spotify.com/track/3ZaWOwApiSBHtQMcHB0qU7) | [DJ CHARI](https://open.spotify.com/artist/5vEZZrTMbKhrd5Mgs37m8p), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [Choppa Capone](https://open.spotify.com/artist/6qYsothwQkj7FyzDhCj3Ez), [1MILL](https://open.spotify.com/artist/18VUKXPiyznwK6LEULTUco) | [なんとも思ってねぇ](https://open.spotify.com/album/3nFQn0Q02t4LOgV7I5DFiu) | 4:36 | 2024-07-18 | 2024-07-27 |

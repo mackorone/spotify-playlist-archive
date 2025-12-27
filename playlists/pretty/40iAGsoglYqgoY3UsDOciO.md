@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/40iAGsoglYqgoY3UsDOciO.md) - [plain]
 
 > A frequently updated playlist with brand\-new songs from new &amp;amp; established artists\. 🤖🚫&\#x2F;&\#x2F; Cover: $NOT \| pitch.playlistd@gmail.com
 
-[Finnster the curator](https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi) - 548 likes - 451 songs - 21 hr 52 min
+[Finnster the curator](https://open.spotify.com/user/31fq6dcligacgxd7qfidijrq2uoi) - 549 likes - 453 songs - 22 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -459,5 +459,7 @@ pretty - [cumulative](/playlists/cumulative/40iAGsoglYqgoY3UsDOciO.md) - [plain]
 | 449 | [kodiene..](https://open.spotify.com/track/0eP8IpPYW4KYjnxL1rfdc6) | [Prince Svmuel](https://open.spotify.com/artist/6hIBjDmrpN4kk59bVhJeiv) | [kodiene..](https://open.spotify.com/album/4eQfII3EpM70m5plJAvdvV) | 2:20 |
 | 450 | [Memories](https://open.spotify.com/track/5Jpq2l82zrAp0IxgeLR8c2) | [Nissu](https://open.spotify.com/artist/0jFlIuRMZuBZrowaOZXEe0) | [Memories](https://open.spotify.com/album/6Kbr8PFQrTu0J2GmK8o5uz) | 3:32 |
 | 451 | [Fallen Faces](https://open.spotify.com/track/2RqaY573Ybk7s3V5Hvu9zS) | [TMF Rock](https://open.spotify.com/artist/7MzY70dHn1srNGDfNmCLb9) | [Corrupt Tunes, Vol\. 2](https://open.spotify.com/album/3FDbA50N9cbtKQ33skE4Fx) | 1:38 |
+| 452 | [Swiss Humanitarian Tradition](https://open.spotify.com/track/1UADBSB4FMEiVBTPN3sFrf) | [The Disciple](https://open.spotify.com/artist/4rFx1sd3c9LDKaKJt1qcEm) | [Swiss Humanitarian Tradition](https://open.spotify.com/album/4cy11NQbevnbJo5XYJl0d4) | 4:45 |
+| 453 | [Old \(One Lucky Dude\)](https://open.spotify.com/track/1DQuMu6KuK4U7OOPUnHncf) | [Westbay](https://open.spotify.com/artist/53cZi0zTxO9HboRg5PkrBO) | [OLD \(One Lucky Dude\)](https://open.spotify.com/album/0dJuqvmDle4AUOszEob1kl) | 3:57 |
 
-Snapshot ID: `AAABY3WlAdKd+T60H2xNGPGd2S1KtPI2`
+Snapshot ID: `AAABZbSn1tkgw+FT7zJ0KLd7jYlRZwqq`

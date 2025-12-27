@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds in hip\-hop, coming out of Canada\. Cover: Drake
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,232 likes - 80 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,331 likes - 80 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 79 | [GOODTHANKYOU](https://open.spotify.com/track/13QIaQniwcsUp1DSOCa4HI) | [Shelailai](https://open.spotify.com/artist/6rhcTWIMphyIXBGVo3B0gc) | [GOODTHANKYOU](https://open.spotify.com/album/3a4pbkVysOjBEbeCbsYTgl) | 2:54 |
 | 80 | [Fall Back feat\. NAV](https://open.spotify.com/track/6j2zmsqdQgWO6SSwpephqY) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Fall Back feat\. NAV](https://open.spotify.com/album/5p1MgdarytYpfTDfC1NxMy) | 2:40 |
 
-Snapshot ID: `AAAAAE8ZIw6DWcZPGplWO1+GZQveYaEy`
+Snapshot ID: `AAAAAAXKdDnl634HKtOHpsA62QbSBJst`

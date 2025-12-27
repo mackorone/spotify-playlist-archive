@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Swarathma
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,904 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,908 likes - 75 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 | 74 | [Nee Hoda Mele \(From "Matte Modalinda"\)](https://open.spotify.com/track/5chXs0qT8F2Wgcq34FtCkJ) | [V\. Harikrishna](https://open.spotify.com/artist/2zPbgeprcP9vP4hbb0xQUX), [Yogaraj Bhat](https://open.spotify.com/artist/09Vx5BBfyoDuot8jRhMVd1), [Vasuki Vaibhav](https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5) | [Nee Hoda Mele \(From "Matte Modalinda"\)](https://open.spotify.com/album/0VyZgb0GjDPw9r1PL8FUiE) | 5:03 |
 | 75 | [Thusu Preethi](https://open.spotify.com/track/6RotzBUUJzdwbg8iUUqGAm) | [AKSH](https://open.spotify.com/artist/4XuG5Czd9PgDg9GF87E137), [Asha Bhat](https://open.spotify.com/artist/6cYELvB5Xi5UqGzitD1U96) | [Thusu Preethi](https://open.spotify.com/album/0rL2sVQ7WPPdhHRHXJkKrj) | 3:00 |
 
-Snapshot ID: `AAAAANp5P3o4ycWncLlIgytjh3HKvWim`
+Snapshot ID: `AAAAAFnduPcTH7BuwOd6r9KOoDWfIo3M`

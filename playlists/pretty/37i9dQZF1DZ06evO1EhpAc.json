@@ -1,12 +1,12 @@
 {
   "description": "This is Yaeji. The essential tracks, all in one playlist.",
-  "num_followers": 9647,
+  "num_followers": 9646,
   "original_name": "This Is Yaeji",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUstAAAAAADnJBaya++eauPoDd48A5ax",
+  "snapshot_id": "aUx+gAAAAAAi30ehVfzeclNlTe4VGXJX",
   "tracks": [
     {
       "added_at": null,
@@ -51,22 +51,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "booboo",
-        "url": "https://open.spotify.com/album/4BfBqITkTu0mQbjXEhL2yT"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 212266,
-      "name": "booboo",
-      "url": "https://open.spotify.com/track/1wNGpQSw15a7rXjtcK4hK8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Charli",
         "url": "https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 153093,
       "name": "February 2017 (feat. Clairo and Yaeji)",
       "url": "https://open.spotify.com/track/3fTEcn7Jt6Dq3NVVdNvl4w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "booboo",
+        "url": "https://open.spotify.com/album/4BfBqITkTu0mQbjXEhL2yT"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 212266,
+      "name": "booboo",
+      "url": "https://open.spotify.com/track/1wNGpQSw15a7rXjtcK4hK8"
     },
     {
       "added_at": null,
@@ -407,6 +407,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "EP2",
+        "url": "https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 218910,
+      "name": "After That",
+      "url": "https://open.spotify.com/track/48wFUJgjPLELDleMsJ9xlY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "WHAT WE DREW \uc6b0\ub9ac\uac00 \uadf8\ub824\uc654\ub358",
         "url": "https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 186873,
       "name": "SPELL \uc8fc\ubb38",
       "url": "https://open.spotify.com/track/2a03sGTTkUFXpNKwDpdB3B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "EP2",
-        "url": "https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 218910,
-      "name": "After That",
-      "url": "https://open.spotify.com/track/48wFUJgjPLELDleMsJ9xlY"
     },
     {
       "added_at": null,
@@ -555,18 +555,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "EP2",
-        "url": "https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ"
+        "name": "Jentry Chau vs the Underworld (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/4P9WQMZEzV2J85acpvbJXO"
       },
       "artists": [
         {
           "name": "Yaeji",
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        },
+        {
+          "name": "Jentry Chau vs the Underworld",
+          "url": "https://open.spotify.com/artist/7sHIdMQfOvU0PwMhLcwY19"
         }
       ],
-      "duration_ms": 155116,
-      "name": "Feelings Change",
-      "url": "https://open.spotify.com/track/5rk9fiBXv9FyEi3LcThutB"
+      "duration_ms": 127487,
+      "name": "Do You See Me",
+      "url": "https://open.spotify.com/track/2Qq4cHhvAKu55LDU5kzijB"
     },
     {
       "added_at": null,
@@ -603,22 +607,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jentry Chau vs the Underworld (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/4P9WQMZEzV2J85acpvbJXO"
+        "name": "EP2",
+        "url": "https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ"
       },
       "artists": [
         {
           "name": "Yaeji",
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        },
-        {
-          "name": "Jentry Chau vs the Underworld",
-          "url": "https://open.spotify.com/artist/7sHIdMQfOvU0PwMhLcwY19"
         }
       ],
-      "duration_ms": 127487,
-      "name": "Do You See Me",
-      "url": "https://open.spotify.com/track/2Qq4cHhvAKu55LDU5kzijB"
+      "duration_ms": 155116,
+      "name": "Feelings Change",
+      "url": "https://open.spotify.com/track/5rk9fiBXv9FyEi3LcThutB"
     },
     {
       "added_at": null,
@@ -779,34 +779,6 @@
       "duration_ms": 185366,
       "name": "Pink Ponies",
       "url": "https://open.spotify.com/track/3sQIxMBHXvqaAc0RMtw8QT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Believe In Ya (Max Tundra Remix)",
-        "url": "https://open.spotify.com/album/2sNg4t68Q3df4zOoBG7at6"
-      },
-      "artists": [
-        {
-          "name": "Girl Talk",
-          "url": "https://open.spotify.com/artist/6awzBEyEEwWHOjLox1DkLr"
-        },
-        {
-          "name": "T-Pain",
-          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
-        },
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        },
-        {
-          "name": "Max Tundra",
-          "url": "https://open.spotify.com/artist/08DpSTsNFBf1PxTm9lwpXb"
-        }
-      ],
-      "duration_ms": 284411,
-      "name": "Believe In Ya (Max Tundra Remix)",
-      "url": "https://open.spotify.com/track/1Tlr1PHzDwaPJVRUD6A1bo"
     }
   ],
   "unique_name": "This Is Yaeji",

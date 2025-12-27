@@ -4,7 +4,7 @@
 
 > De la musique québécoise pour tous les goûts\. Photo: Arpin Lépine
 
-314 songs - 17 hr 12 min
+315 songs - 17 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Ami imaginaire](https://open.spotify.com/track/5fy9vWmI4x38nkNZIf67eR) | [Allô Fantôme](https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i) | [Ami imaginaire](https://open.spotify.com/album/3TcehQS7pt30xsNWbLFKKZ) | 4:18 | 2024-08-30 | 2025-01-18 |
 | [Another Tangerine](https://open.spotify.com/track/6UEMQY0nHWOgXG9VvLNZzm) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [Another Tangerine](https://open.spotify.com/album/4C5UWdlzMyFyBcch7mjck1) | 2:58 | 2025-10-17 |  |
 | [Au début du soleil](https://open.spotify.com/track/48XwaGQMz2YpbxJk9VBeI9) | [Joseph Marchand](https://open.spotify.com/artist/3PtlrMQcFMfxJbmPvycl2F), [Marie\-Pierre Arthur](https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc) | [Treize miniatures](https://open.spotify.com/album/06All3BqxHCltO0QXzF55F) | 1:53 | 2025-11-21 |  |
+| [Au fond des bois](https://open.spotify.com/track/5nfqk77PaPWQDN4ZDBLpPJ) | [Classe Moyenne](https://open.spotify.com/artist/4MStgkjCDOLFVmyMMmUo9v), [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4), [Justin Roy](https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc), [Phil Rxcket](https://open.spotify.com/artist/6WvhHcxi6ddlrEoaeYrRVt), [Zach Chico](https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37), [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [Classe Moyenne 2025](https://open.spotify.com/album/5SbyKab14irwK2Koz33ase) | 2:12 | 2025-12-26 |  |
 | [Autour du feu](https://open.spotify.com/track/1oKs2jNC0GZE2r7HEATSDS) | [Classe Moyenne](https://open.spotify.com/artist/4MStgkjCDOLFVmyMMmUo9v), [Zach Chico](https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37), [Justin Roy](https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc), [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4), [King Melrose](https://open.spotify.com/artist/2AQF1jj79zuIK0HFMSPn91), [Phil Rxcket](https://open.spotify.com/artist/6WvhHcxi6ddlrEoaeYrRVt) | [Autour du feu](https://open.spotify.com/album/0arxZMYaFN7b7cmjCIfqbF) | 2:34 | 2025-04-18 | 2025-06-21 |
 | [Baby \(Version française\)](https://open.spotify.com/track/0iaPZE774qhQg2I1OXpS7x) | [Basia Bulat](https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV) | [Baby \(Version française\)](https://open.spotify.com/album/35xdutf5J4ypyLnZQl0LuZ) | 3:46 | 2025-01-24 | 2025-11-08 |
 | [Balle Courbe](https://open.spotify.com/track/0HBQUemZHQZdW3npRpKREc) | [Zagata](https://open.spotify.com/artist/0t1AIXeal0Ft3mI8ML89JZ) | [Balle Courbe](https://open.spotify.com/album/3lIkAxv5KylJhSBoPXk5Dq) | 3:05 | 2024-06-28 | 2025-01-18 |
@@ -203,7 +204,7 @@
 | [Mauvais temps](https://open.spotify.com/track/0LAaXA4qn91sYwHWIB0tlA) | [Émile Bilodeau](https://open.spotify.com/artist/0q9gV5iFHokttrI4WBuRQu) | [Au bar des espoirs](https://open.spotify.com/album/41s9no7Ky1PqMXyML8szae) | 2:47 | 2024-06-28 | 2024-07-27 |
 | [Merry Go Round](https://open.spotify.com/track/243NHDpKPqm0VqS1cxctbl) | [Alicia Creti](https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX) | [Merry Go Round](https://open.spotify.com/album/2XAnvwXanYt2hCQYVPMcfN) | 3:34 | 2025-10-17 | 2025-12-06 |
 | [Mes secrets](https://open.spotify.com/track/7FCRbMKICwFrdkv0xbfyrU) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Mes secrets](https://open.spotify.com/album/3JFLbwf4FVFSL7HsKu97MU) | 3:02 | 2024-06-28 | 2025-06-21 |
-| [minable](https://open.spotify.com/track/5OQfQjHdIyAcgQNnC8YQnR) | [Katrine Sansregret](https://open.spotify.com/artist/23l9JLbR4HKMyJLY2WuiNw) | [minable](https://open.spotify.com/album/3UlDYwWkphGpLlyfmGxSsh) | 2:30 | 2024-10-25 |  |
+| [minable](https://open.spotify.com/track/5OQfQjHdIyAcgQNnC8YQnR) | [Katrine Sansregret](https://open.spotify.com/artist/23l9JLbR4HKMyJLY2WuiNw) | [minable](https://open.spotify.com/album/3UlDYwWkphGpLlyfmGxSsh) | 2:30 | 2024-10-25 | 2025-12-27 |
 | [Mirador](https://open.spotify.com/track/7cMkIWm71yKBsZBiCXwWhJ) | [Nick Patterson](https://open.spotify.com/artist/1Uf4zqOesqw439cc4QJNeG) | [590, rue de l'église](https://open.spotify.com/album/6CdAjAf0DlHDg9CvtMy23j) | 3:51 | 2025-10-17 |  |
 | [Moi je t'aime](https://open.spotify.com/track/56KQ2AgzaOH2QYroQ6d3Rg) | [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [Moi je t'aime](https://open.spotify.com/album/4vQiDQH8Cit8Sh6YKXfdNx) | 2:57 | 2024-06-28 | 2025-11-01 |
 | [Monnaie](https://open.spotify.com/track/5SQMb560m9tf4ocbCQlZU7) | [Aswell](https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc) | [Monnaie](https://open.spotify.com/album/7sLIbhxsS3mFjE3nnqQYhZ) | 2:25 | 2025-09-12 | 2025-10-18 |

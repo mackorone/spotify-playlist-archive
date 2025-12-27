@@ -4,7 +4,7 @@
 
 > pearl of the week ✨070 Shake & Jacob Mühlrad✨
 
-2,195 songs - 4 day 22 hr 58 min
+2,196 songs - 4 day 23 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -878,6 +878,7 @@
 | [Ho Chi Minh](https://open.spotify.com/track/5dUgDQ6uQtbtqPYZGB3Ql6) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [Ho Chi Minh](https://open.spotify.com/album/0DbBwvyGnhfdRNl8e9xq7B) | 2:03 | 2023-08-31 | 2023-10-27 |
 | [Hocus Pocus](https://open.spotify.com/track/3gtbkrjOmjgLqznoV4PQS5) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [Blood Diamond](https://open.spotify.com/album/0z3bbwLzSFO7ObKjmaI7TY) | 3:22 | 2024-01-11 | 2024-02-09 |
 | [Hocus Pocus \(Feat\. Loyle Carner\)](https://open.spotify.com/track/3pFYuXwv3UwhwAe0IsuyqD) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3), [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [Hocus Pocus \(Feat\. Loyle Carner\)](https://open.spotify.com/album/1OQlENDsvmiRYDM3WTBXhy) | 3:22 | 2024-01-11 | 2024-01-13 |
+| [hold me](https://open.spotify.com/track/2G1y9hz3obiCa7XuoC1CNV) | [Graham Lake](https://open.spotify.com/artist/255KmzQ3ecWS4KAPnF1PJ8) | [hold me](https://open.spotify.com/album/4gk7tCXb9whGQbRinQZC8M) | 3:21 | 2025-12-25 |  |
 | [Hold Me Up \(Thank You\)](https://open.spotify.com/track/0juMDnoo3u3uDJ32wjK2BF) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [A LA SALA](https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2) | 3:49 | 2024-04-04 | 2024-07-27 |
 | [Holiday House](https://open.spotify.com/track/0Hz3Bf0SjlKlqYvIwH9a70) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Become](https://open.spotify.com/album/6nx7O0T24xjbCpiATB4Rga) | 5:06 | 2023-05-04 | 2023-05-19 |
 | [Hollywood Cole](https://open.spotify.com/track/6bjLhHlrrTD7ezp6DKgagN) | [Måns Glaeser](https://open.spotify.com/artist/7MYk0rmOHa5cBrHeq5J6Ct), [Basement Space](https://open.spotify.com/artist/3zUIykp07M770o2itKvysM) | [Hollywood Cole](https://open.spotify.com/album/6Xizyuy1S4enPLIwH9NdUn) | 4:05 | 2023-10-05 | 2023-10-13 |

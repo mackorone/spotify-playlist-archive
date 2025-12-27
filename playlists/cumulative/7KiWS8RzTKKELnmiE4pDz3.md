@@ -4,7 +4,7 @@
 
 > 
 
-1,275 songs - 2 day 18 hr 29 min
+1,277 songs - 2 day 18 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Ahora y siempre](https://open.spotify.com/track/5J32HBvOLwvvJmgwRhn8fh) | [Los Tecolines](https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv) | [Serenata con Los Tecolines](https://open.spotify.com/album/5B8WnefLZ6ako5S6eUa7mb) | 2:53 | 2024-02-14 | 2024-04-24 |
 | [Aint Stoppin](https://open.spotify.com/track/1XYEfsWLYOkKvwp8NZWBMR) | [TrapStarMula](https://open.spotify.com/artist/58xE7ynDjkStdAD0oMbey4), [KANKAN](https://open.spotify.com/artist/7tFehEdzjjoeiwUExR89qs) | [Codeine Over Hoes](https://open.spotify.com/album/6P6Vv0MI9xDTU70zEx8jlM) | 2:15 | 2022-07-28 | 2023-05-09 |
 | [Ain’t No Fun \(If The Homies Can’t Have None\)](https://open.spotify.com/track/3g1mP8c79KbkWDhED5tyKZ) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h), [Warren G](https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE), [Kurupt](https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz) | [Doggystyle](https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP) | 4:06 | 2025-06-03 |  |
+| [Airborne Aquarium](https://open.spotify.com/track/71vuS1nprefkBeCK344TEL) | [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Pilot Talk: Trilogy](https://open.spotify.com/album/5ydx8HEoTmJrxZuPKcTU4V) | 2:51 | 2025-12-26 |  |
 | [Akbar](https://open.spotify.com/track/357EwLZfD9vuGTZ7dxqumw) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Master the Day of Judgement](https://open.spotify.com/album/3rNf2SErEqCBoyHVYEDNU9) | 2:22 | 2022-06-10 | 2023-12-14 |
 | [Akorn](https://open.spotify.com/track/2BSC5k7wf96ofscMZAcFuh) | [Baby Smoove](https://open.spotify.com/artist/15oLsNy8mZYaIukh4eDhXy) | [La Vibes](https://open.spotify.com/album/021ENWQHYyQsDDdNFuWqYz) | 2:19 | 2022-09-13 | 2023-04-12 |
 | [Album Just For You](https://open.spotify.com/track/2ZY8kGlTB6EgRKuTC2yFsv) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [Stuck In My Ways](https://open.spotify.com/album/7k5bmAoPq33iRid9vvK4aQ) | 2:45 | 2023-01-27 | 2023-04-24 |
@@ -224,6 +225,7 @@
 | [Chess Players \(feat\. DaBoii\)](https://open.spotify.com/track/6V6fObNpllxOL1edp0i7uY) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk), [DaBoii](https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0) | [Megatron](https://open.spotify.com/album/02OJapNdO1Dd4sGCbKVSiX) | 2:11 | 2022-08-25 | 2024-04-24 |
 | [Chicago Zoo](https://open.spotify.com/track/3wehrmgzXoyZxV5JeIwerp) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Finally Rollin 2 \(Deluxe Edition\)](https://open.spotify.com/album/0BaBF43wCi33REVTeSiTlN) | 3:28 | 2025-04-07 |  |
 | [Child \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/4hyETm3W2ie4D0kFH0tMQ6) | [Lil Keed](https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Long Live Mexico](https://open.spotify.com/album/3JDiBSlLalqzv0GTEDRi8i) | 2:36 | 2023-12-27 | 2024-03-05 |
+| [Choose U](https://open.spotify.com/track/0kCZ2X6kIXZ5zRMrPx8Usx) | [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc) | [Layin' Da Smack Down \(Explicit Version\)](https://open.spotify.com/album/1SVEph4VG00L3vsmMeeBcC) | 2:58 | 2025-12-26 |  |
 | [Church](https://open.spotify.com/track/3bHLtoy9F6W2EhVzRqRy9N) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [FOTO](https://open.spotify.com/album/6RBVbvHUbdAnUWm4GjyY7A) | 4:22 | 2025-07-02 |  |
 | [Cinema](https://open.spotify.com/track/5Xjh7Ew2mqrajmvTTZN231) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [TOTEP](https://open.spotify.com/album/1JRe4BK6irt43VvOESllLv) | 2:06 | 2024-04-23 | 2024-11-06 |
 | [clap](https://open.spotify.com/track/28EZNysBMBi2VXMZJhJ5by) | [Jerm](https://open.spotify.com/artist/5JSpdSi1RHQ3KgNovJBJhF), [Texako](https://open.spotify.com/artist/23tAJ7sIqmvk4AIdECYTdg), [Lawsy](https://open.spotify.com/artist/4uhLYYGnG9XAH7gW0VXj9f) | [plugg!](https://open.spotify.com/album/0vLpff8oFPiZxqBOxbGsEV) | 3:21 | 2022-12-21 | 2023-05-09 |

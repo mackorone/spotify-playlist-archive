@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 
 > Find hope in Him in every note of these songs full of faith!
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,965 likes - 100 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,970 likes - 100 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 | 68 | [Fear No More](https://open.spotify.com/track/5VTWQeTAZGa6c5ZWRDN3oo) | [Building 429](https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY) | [Fear No More EP](https://open.spotify.com/album/2x7hnyjNJgvS7rKDBck8zE) | 3:12 |
 | 69 | [Gonna Be Alright \- Live](https://open.spotify.com/track/3D2Caq4sNDP5zt2Iipr6Yj) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Ryan Ellis Live](https://open.spotify.com/album/33b2OZa8zl29Bcx7qVmjig) | 4:30 |
 | 70 | [Safe](https://open.spotify.com/track/5ODnTtYMnow1nV6WIdS87j) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [Welcome to Alive City](https://open.spotify.com/album/77MfLEjnam9cGd5mCRFqqt) | 3:19 |
-| 71 | [But God](https://open.spotify.com/track/2cRcWaw2Xg0RY7s5ZgrTZ3) | [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ) | [Love, Evvie McKinney](https://open.spotify.com/album/19TJHZlE3D6OZ6lNSYGMQb) | 3:50 |
-| 72 | [A Hope and a Future](https://open.spotify.com/track/0pNWjwt7Ce6jPy1QADc1X6) | [Fresh Life Worship](https://open.spotify.com/artist/3lspjc5pri1bNeok8vsG5E) | [A Hope and a Future](https://open.spotify.com/album/0tvFPaesu6b9Tqa5IYqBn8) | 4:14 |
+| 71 | [A Hope and a Future](https://open.spotify.com/track/0pNWjwt7Ce6jPy1QADc1X6) | [Fresh Life Worship](https://open.spotify.com/artist/3lspjc5pri1bNeok8vsG5E) | [A Hope and a Future](https://open.spotify.com/album/0tvFPaesu6b9Tqa5IYqBn8) | 4:14 |
+| 72 | [But God](https://open.spotify.com/track/2cRcWaw2Xg0RY7s5ZgrTZ3) | [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ) | [Love, Evvie McKinney](https://open.spotify.com/album/19TJHZlE3D6OZ6lNSYGMQb) | 3:50 |
 | 73 | [Keep Looking Up \- Radio Mix](https://open.spotify.com/track/2Ly8NLI7sQ0LOicM7sAHRf) | [Britt Nicole](https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Keep Looking Up \(Radio Mix\)](https://open.spotify.com/album/2JX7K0eXBgECFklS7qwygf) | 3:32 |
 | 74 | [How Deep The Father's Love For Us](https://open.spotify.com/track/2Jo6iBlMoxmUEmrAYb4Gvz) | [Sarah Sadler](https://open.spotify.com/artist/4RnUOaFWKWEFcCaqkmuIv3) | [The Ultimate Collection: Worship](https://open.spotify.com/album/4TOWBYWhX0juUikLgFpc3B) | 3:34 |
 | 75 | [Good Things \- \(Live\) \[Acoustic\]](https://open.spotify.com/track/5gWpJE4tZiR9xnauOXUo5R) | [CCV Music](https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e) | [Perspective](https://open.spotify.com/album/73AHTbSXLzgEciD1y3Lp0L) | 5:38 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 | 96 | [Mansion](https://open.spotify.com/track/2b61pV5moornb1nvpPuK9N) | [Dwan Hill](https://open.spotify.com/artist/3JviNpSnB2gu3sUo8qdEOQ), [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ) | [Mansion](https://open.spotify.com/album/5M1yhftzJLwUKtj8xp06HN) | 4:11 |
 | 97 | [Giving Up](https://open.spotify.com/track/6Twxdjtv8rRPKs1MGhvnpi) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH), [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [A New Reality \(Deluxe Version\)](https://open.spotify.com/album/7cLkLPRP2tcPihrTg3Ciqf) | 3:35 |
 | 98 | [My Light](https://open.spotify.com/track/2KD4v8UbJi44ZaPLeTm5t5) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [My Light](https://open.spotify.com/album/4pBtX6lfkeENkYIQ2vpus2) | 2:27 |
-| 99 | [Trusting God](https://open.spotify.com/track/2IwAiKFnyflwHLSrElGUTl) | [James Fortune](https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH), [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [Trusting God](https://open.spotify.com/album/6JxQ4CIIRe9IVcnLFIhbzO) | 4:51 |
-| 100 | [You're Not Done](https://open.spotify.com/track/2sRC7NJqjECWTjC0G4lkTC) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2), [Charity Gayle](https://open.spotify.com/artist/57YsESW6BGZLHQgOg8AiAq) | [You're Not Done](https://open.spotify.com/album/1RvgJpfOjM3XjdYuhnXwoq) | 6:03 |
+| 99 | [Anything Can Happen \- Live](https://open.spotify.com/track/4C04WkKNOs4UoNTjHG8wm9) | [Ke'Erron](https://open.spotify.com/artist/44tJHJzGo1h7XbBTepJwb0), [Mayra Alvarez](https://open.spotify.com/artist/6zfJL7QGH50WkaMzJt1ztg) | [Anything Can Happen \(Live\)](https://open.spotify.com/album/2AUNTD6sYGwubSBMGGVyCz) | 4:01 |
+| 100 | [Trusting God](https://open.spotify.com/track/2IwAiKFnyflwHLSrElGUTl) | [James Fortune](https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH), [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [Trusting God](https://open.spotify.com/album/6JxQ4CIIRe9IVcnLFIhbzO) | 4:51 |
 
 Snapshot ID: `AAAAAJsTioE7BNeFnNIVSlXrnia/ZpyJ`

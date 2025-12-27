@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 
 > Descubre los temas emergentes del mundo indie\. Foto: agosto.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,191 likes - 120 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,225 likes - 120 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 | 119 | [filosofar](https://open.spotify.com/track/79S7y4SK9JH1jmq6rEtb5L) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [filosofar](https://open.spotify.com/album/5GGzlFiPvXm9FEtitwFQJ4) | 3:43 |
 | 120 | [Nuevos Recuerdos](https://open.spotify.com/track/627AgFGbrZRwWVNcwsK2jc) | [Martin](https://open.spotify.com/artist/7axPkSaeZBpVJRyOj5vKPC) | [Nuevos Recuerdos](https://open.spotify.com/album/0pZWzpJOLbxjI3vjWpA4Ns) | 3:33 |
 
-Snapshot ID: `AAAAAJctGfonaFx820FUDeqdt9WAuwfY`
+Snapshot ID: `AAAAAMavzovXEePg81BXy5NH09l+dKqM`

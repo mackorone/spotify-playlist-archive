@@ -4,7 +4,7 @@
 
 > Bienvenidx a la trampa mexa\. Sleezy O en portada.
 
-439 songs - 20 hr 49 min
+440 songs - 20 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -363,6 +363,7 @@
 | [RG$](https://open.spotify.com/track/7hLxuI59D033g3XTETWobD) | [Fano](https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1), [Aqatic](https://open.spotify.com/artist/1xqtCsP49uHAlytgDI1OSA), [Benji](https://open.spotify.com/artist/0z1LEA9rVQ6hHj6IomiOft) | [RG$](https://open.spotify.com/album/5Zq5qK5LCUlcMnjkWvjAtN) | 1:56 | 2025-10-24 |  |
 | [Rollin n' Rollin](https://open.spotify.com/track/3GYXO0ZL5qqBEVpBP3xsR6) | [k onda](https://open.spotify.com/artist/71W0pSc6iDkFYwoFL7fUJE), [Alx Drip](https://open.spotify.com/artist/7DxHynDvaalsAGsHlqNhd6), [FLVCKKA](https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN) | [Rollin n' Rollin](https://open.spotify.com/album/7eHJT1BQfE45xwP6ue4fk7) | 2:12 | 2023-07-28 | 2024-05-04 |
 | [Romeo y Julieta](https://open.spotify.com/track/3CoSvuPCBq0XyjAUHrAonc) | [Dimelow Pro](https://open.spotify.com/artist/4VZE0jwOCEOWu5C1f2xh8m), [Ibarra](https://open.spotify.com/artist/386ucqQTZpZxL6iQOngyjY) | [Los Ángeles Más Brillantes](https://open.spotify.com/album/6W334E1HwPaVfbqNdSCyie) | 2:32 | 2025-05-16 | 2025-12-20 |
+| [roof de dubai](https://open.spotify.com/track/2fAimC7SzhDCJlSu23bwwG) | [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [Merry Cruzmas](https://open.spotify.com/album/7jwWRyW06Y1ZVQ5ggkqobH) | 2:56 | 2025-12-26 |  |
 | [RS](https://open.spotify.com/track/3mTlSLmGEMYO5Q4TBJt1hN) | [Arturo Challa](https://open.spotify.com/artist/5hbTewixuDJk5PGugClaj6) | [RS](https://open.spotify.com/album/0sH2OfzZGylxL6ue4ayvtm) | 2:13 | 2025-06-10 | 2025-12-20 |
 | [Rubem](https://open.spotify.com/track/5v9m8lESuXAUJsPcIw3U48) | [Tino El Pingüino](https://open.spotify.com/artist/3BbLQNj5OTxm4AZcwyREFF) | [Rubem](https://open.spotify.com/album/14KlbzI8ZRdV59eCiJmp3M) | 4:38 | 2023-06-09 | 2023-07-01 |
 | [Rumor](https://open.spotify.com/track/1LhQ9rwpOhoMBxbofBOFQr) | [Sick Morrison](https://open.spotify.com/artist/4oMSYrYeZPbi9uvI1ql9wm) | [Rumor](https://open.spotify.com/album/0IdcNCtYlU30GVYUD0aQOR) | 2:26 | 2023-06-16 | 2023-12-09 |
@@ -396,7 +397,7 @@
 | [Tesla](https://open.spotify.com/track/7hsN2gMPQjt5Tx5M4MM2P7) | [Tony Trampa](https://open.spotify.com/artist/6Vr3k8kDA4fINICtY4tcb7), [Yung Sarria](https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf), [Kacha](https://open.spotify.com/artist/3AsYAOJY7ZcWPGoBbEJWAj) | [Tesla](https://open.spotify.com/album/6f5hk6ddmJ1iFE2QQZJ7cH) | 3:02 | 2024-01-12 | 2024-02-05 |
 | [Tesla](https://open.spotify.com/track/3S4zdBo7Vf8RHsYCgfMceY) | [Yung Sarria](https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf), [Tony Trampa](https://open.spotify.com/artist/6Vr3k8kDA4fINICtY4tcb7), [Kacha](https://open.spotify.com/artist/1MXcqijfBhhY1WznU6X2er) | [Tesla](https://open.spotify.com/album/6GMnDpdnoQIovasah5i6n7) | 3:02 | 2024-01-26 | 2024-02-10 |
 | [The Void](https://open.spotify.com/track/4t1mpclfongugykpiKTA32) | [Geassassin](https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ) | [The Void](https://open.spotify.com/album/78gVlIQvZpo5DwKSNRXgmj) | 2:52 | 2023-06-09 | 2024-05-18 |
-| [THREE SIX KILLAZ \- SPEED UP](https://open.spotify.com/track/3VB96Tfl63rZnm6vZL1i4M) | [SIXDIEFLOWERS](https://open.spotify.com/artist/4yfYOyz5M67SaT2J2x4Kpr), [BLADE666](https://open.spotify.com/artist/3FaSriN5xGwapiPFRTnwvo), [Frieza](https://open.spotify.com/artist/3RQL0mq4gv89k4Xzf4hV9A) | [THREE SIX KILLAZ \(SPEED UP\)](https://open.spotify.com/album/5rkZqw0BzajTuYiTcbNhly) | 1:23 | 2024-12-13 |  |
+| [THREE SIX KILLAZ \- SPEED UP](https://open.spotify.com/track/3VB96Tfl63rZnm6vZL1i4M) | [SIXDIEFLOWERS](https://open.spotify.com/artist/4yfYOyz5M67SaT2J2x4Kpr), [BLADE666](https://open.spotify.com/artist/3FaSriN5xGwapiPFRTnwvo), [Frieza](https://open.spotify.com/artist/3RQL0mq4gv89k4Xzf4hV9A) | [THREE SIX KILLAZ \(SPEED UP\)](https://open.spotify.com/album/5rkZqw0BzajTuYiTcbNhly) | 1:23 | 2024-12-13 | 2025-12-27 |
 | [Tiempos de Guerra](https://open.spotify.com/track/1UoCDn52urzsC0Uoo4odt4) | [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY), [TipoSierraBros](https://open.spotify.com/artist/5Hn6UFrZhAUTSFvAnB7Jk1), [Jessy Castillo](https://open.spotify.com/artist/6MPmMMvkDjhd2SxWm8jQ61) | [Tiempos de Guerra](https://open.spotify.com/album/5S5kavEVkjHzXEANJ8bNqt) | 2:52 | 2023-06-09 | 2023-07-01 |
 | [Tiffany](https://open.spotify.com/track/0xL0nSOiZzaVHnbakk5YUw) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [DON KBRN](https://open.spotify.com/album/77WXheyyYBkqqz6Q19l37a) | 4:24 | 2025-04-11 |  |
 | [TIJUANA SÍ!](https://open.spotify.com/track/6rhD1YCd8JzaQ4eIjG9JaV) | [Sandro Malandro](https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS) | [TIJUANA SÍ!](https://open.spotify.com/album/7rJc0d9wS2dJjEmjg6KHP2) | 2:01 | 2025-04-11 |  |

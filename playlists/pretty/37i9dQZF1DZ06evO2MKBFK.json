@@ -1,12 +1,12 @@
 {
   "description": "This is BIGBANG. The essential tracks, all in one playlist.",
-  "num_followers": 635522,
+  "num_followers": 635489,
   "original_name": "This Is BIGBANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUstAAAAAADfCzie2aoBDBT72+elWPJC",
+  "snapshot_id": "aUx+gAAAAACNu284fIGUxyW2ZeAH+65P",
   "tracks": [
     {
       "added_at": null,
@@ -475,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Radar de \u00c9xitos: K-Pop",
+        "url": "https://open.spotify.com/album/3bCGWw7wxoSNQNMnUtmjqi"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 245013,
+      "name": "Tell Me Goodbye",
+      "url": "https://open.spotify.com/track/44Xatq1sgo3DsmjV5l6ZFx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BIGBANG JAPAN DOME TOUR 2017 -LAST DANCE- : THE FINAL",
         "url": "https://open.spotify.com/album/2eIjByPSAvov7cdnzpohZB"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 224053,
       "name": "Untitled, 2014 - BIGBANG JAPAN DOME TOUR 2017 -LAST DANCE- : THE FINAL",
       "url": "https://open.spotify.com/track/2C0LOJPcnVcSKCX3N0DqEn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Radar de \u00c9xitos: K-Pop",
-        "url": "https://open.spotify.com/album/3bCGWw7wxoSNQNMnUtmjqi"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 245013,
-      "name": "Tell Me Goodbye",
-      "url": "https://open.spotify.com/track/44Xatq1sgo3DsmjV5l6ZFx"
     },
     {
       "added_at": null,
@@ -611,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Radar de \u00c9xitos: K-Pop",
+        "url": "https://open.spotify.com/album/3bCGWw7wxoSNQNMnUtmjqi"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 223746,
+      "name": "Beautiful Hangover",
+      "url": "https://open.spotify.com/track/0NRpO3bfCBOPYd04i5CnRs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hot Issue",
         "url": "https://open.spotify.com/album/4qpzzLtl5ksEnhryRUrNQC"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 210240,
       "name": "Wonderful",
       "url": "https://open.spotify.com/track/5NnjXRvnm2xGwBA3dnO8Mq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Radar de \u00c9xitos: K-Pop",
-        "url": "https://open.spotify.com/album/3bCGWw7wxoSNQNMnUtmjqi"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 223746,
-      "name": "Beautiful Hangover",
-      "url": "https://open.spotify.com/track/0NRpO3bfCBOPYd04i5CnRs"
     },
     {
       "added_at": null,

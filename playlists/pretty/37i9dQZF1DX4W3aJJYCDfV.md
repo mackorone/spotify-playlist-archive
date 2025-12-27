@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Skye Newman, KiLLOWEN ft\. Songer, Kali Uchis and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 948,455 likes - 82 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 949,172 likes - 82 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 81 | [Anywhere.](https://open.spotify.com/track/2oeKbG31ysjpgYjCk7NoDW) | [Harry Pinkman](https://open.spotify.com/artist/0JFx3oNiIDtbqYf7gEmL9z) | [Anywhere.](https://open.spotify.com/album/3weTEN6hqPaOYk6NInLffk) | 3:42 |
 | 82 | [Make Me Believe](https://open.spotify.com/track/13L1dRs0fJhfDi5zBHxchB) | [V\. Christie](https://open.spotify.com/artist/63sAE1NYTAlj2Oi77mMDmm) | [Make Me Believe](https://open.spotify.com/album/6eujvQJlOJZjQTAAlk0mM5) | 4:20 |
 
-Snapshot ID: `AAAAABG1AvIEDn7lhJLP1H/g/rBTN6m3`
+Snapshot ID: `AAAAAKl56DJR3UbbwUA+7SxkPOqrXkRO`

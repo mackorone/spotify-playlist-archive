@@ -4,7 +4,7 @@
 
 > Bengü ve haftanın en iyi çıkışları!
 
-5,056 songs - 10 day 17 hr 10 min
+5,057 songs - 10 day 17 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [80 Days](https://open.spotify.com/track/6GqDKlvGfqWoj3j1m5gp7s) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Adagio](https://open.spotify.com/album/3TAhlJxvOBskHFd0J1YRmq) | 2:36 | 2025-04-03 | 2025-04-11 |
 | [90 Köyün Yalancısı](https://open.spotify.com/track/3AlW0ESRAaHJRpEy7Hktfe) | [Hazar Altın](https://open.spotify.com/artist/63N38NNRbX8bafUq5SjVpQ), [Cihangir](https://open.spotify.com/artist/6LKcIJ4q4Zxdus5DPJ963x), [Robrekt](https://open.spotify.com/artist/15iSPgAEX0fRhUImk11Za5) | [90 Köyün Yalancısı](https://open.spotify.com/album/1KOOH5DpkBzKxeS3GSUumU) | 3:16 | 2025-05-15 | 2025-05-23 |
 | [90'dan](https://open.spotify.com/track/6Sxrm5x6FRqfuXbOSH2hP7) | [Velet](https://open.spotify.com/artist/7bchfd9ZihGesFniE7tM71) | [90'dan](https://open.spotify.com/album/3KxkH9jDQFnmAyU4dDARlI) | 1:58 | 2025-07-24 | 2025-08-01 |
-| [90+5](https://open.spotify.com/track/5DmpNzrOV5JabtlrQ1NmAE) | [Halodayı](https://open.spotify.com/artist/1oR56GSDAFgtdKmSl6qU1r), [Yung Ouzo](https://open.spotify.com/artist/3VooEK5HkkcSc4Tv7FCBzb) | [](https://open.spotify.com/album/null) | 2:06 | 2025-12-25 |  |
+| [90+5](https://open.spotify.com/track/5DmpNzrOV5JabtlrQ1NmAE) | [Halodayı](https://open.spotify.com/artist/1oR56GSDAFgtdKmSl6qU1r), [Yung Ouzo](https://open.spotify.com/artist/3VooEK5HkkcSc4Tv7FCBzb) | [KETUM](https://open.spotify.com/album/6gVbGyH9W90pGtOVu20WfL) | 2:06 | 2025-12-25 |  |
 | [91BPM](https://open.spotify.com/track/1pk2p3F19MPMc03M4xlKeW) | [Volta Show](https://open.spotify.com/artist/7LRryAVZxGp0fssdo3dH40), [Ximista](https://open.spotify.com/artist/7lsXYEGMMpwpzlQif2z9LY) | [91BPM](https://open.spotify.com/album/5wa5Du9RrSW7jCx0W6Ftzy) | 2:10 | 2025-08-21 | 2025-08-29 |
 | [97 FREESTYLE](https://open.spotify.com/track/6uIlXs75cgHSbWCYhfRRmz) | [EroB](https://open.spotify.com/artist/395CwUkpia5sy4i0sl0fbV) | [97 FREESTYLE](https://open.spotify.com/album/5mOn8m17BX4cDAuCEeimjm) | 1:39 | 2025-07-03 | 2025-07-11 |
 | [9:10](https://open.spotify.com/track/4RD5uWMbL4036DMF7LDvTz) | [Kayra](https://open.spotify.com/artist/5UqZ7BXoccyvTHyXLk1Pk3), [Anıl K.Y](https://open.spotify.com/artist/01EvchybIvmkl7Xlc6I0B1) | [9:10](https://open.spotify.com/album/3FnVxUYxezRgQV9LXAQhEJ) | 9:16 | 2025-09-11 | 2025-09-20 |
@@ -1088,7 +1088,7 @@
 | [Cute Aggression](https://open.spotify.com/track/2FXZpTJ0xQ6TUouxewefrL) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Cute Aggression](https://open.spotify.com/album/59JQH8iTAuKOo3EMzIkI66) | 2:36 | 2025-09-04 | 2025-09-12 |
 | [Cypher](https://open.spotify.com/track/0CPgt9TUC6xUkaXCORznxz) | [Santi](https://open.spotify.com/artist/0MhdeWkIfF9vxxRrefOt8V) | [Cypher](https://open.spotify.com/album/6004YNUlts3mWGPeceUFji) | 1:32 | 2025-10-16 | 2025-10-24 |
 | [cümlelerim](https://open.spotify.com/track/3GQm1FfMFmpoPyOwlo4bqL) | [TUANA](https://open.spotify.com/artist/2FkaZzzDTwnz1l1mK9DoT6) | [cümlelerim](https://open.spotify.com/album/2GGvDWqti6JlsrRTKWsrLF) | 3:29 | 2025-04-10 | 2025-04-18 |
-| [D4Ft Punk](https://open.spotify.com/track/4jVdCu97f8qREQTsNcE52d) | [EGE!](https://open.spotify.com/artist/5chlGLYjNChbXjDbojObt5) | [D4Ft Punk](https://open.spotify.com/album/4SljrgiuGgwIvVqcwHz0lz) | 1:40 | 2025-12-25 |  |
+| [D4FT PUNK](https://open.spotify.com/track/4jVdCu97f8qREQTsNcE52d) | [EGE!](https://open.spotify.com/artist/5chlGLYjNChbXjDbojObt5) | [D4FT PUNK](https://open.spotify.com/album/4SljrgiuGgwIvVqcwHz0lz) | 1:40 | 2025-12-25 |  |
 | [DADDY](https://open.spotify.com/track/1GBttialfhJqQKBeleUApL) | [Victoria](https://open.spotify.com/artist/3879Y17F4aUod7fyYrOSgl), [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [DADDY](https://open.spotify.com/album/0yERVxWsLb8nZxH2zipHRs) | 2:02 | 2025-06-05 | 2025-06-13 |
 | [daha dur](https://open.spotify.com/track/5StlhweoW94sx0ZK3wIcwQ) | [Ekin Ege](https://open.spotify.com/artist/1VjcwWKtr8QoloPsjmPME4), [Uğur Öztürk](https://open.spotify.com/artist/20KmGoOPKwrKLDN0s7pRsI) | [daha dur](https://open.spotify.com/album/3Jv2q4YyVGGFOp49eXCsD6) | 1:54 | 2025-06-26 | 2025-07-04 |
 | [Daha Ne İstiyorsun](https://open.spotify.com/track/518x49CqldP7M8pZZsBIxz) | [Uğur Işılak](https://open.spotify.com/artist/65Yc24XPBKMWz6oOWOX7Xx) | [Daha Ne İstiyorsun](https://open.spotify.com/album/0CO43zAU0RqNYrSG6DWdqR) | 2:22 | 2025-12-25 |  |
@@ -1301,6 +1301,7 @@
 | [Dur gitme](https://open.spotify.com/track/4PGJxIjZCe8DfmTFlcRrXC) | [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [Dur gitme](https://open.spotify.com/album/1fY3EVuSO17sJBtBkyeqRz) | 2:43 | 2025-10-16 | 2025-10-24 |
 | [Duramıyorum](https://open.spotify.com/track/52zLitKC4NddCtAoEedmBl) | [Merve Özbey](https://open.spotify.com/artist/74IYRdqa9EFKMMXUIjGyxM), [Mustafa Ceceli](https://open.spotify.com/artist/3cNwyF5SboOs9icz2XyotE) | [Duramıyorum](https://open.spotify.com/album/7BxE88O270NoDxMbvsldCy) | 3:23 | 2025-12-18 | 2025-12-26 |
 | [DURDUM](https://open.spotify.com/track/3uR6382kbkyOXpI9SJfWwt) | [Chef Bi](https://open.spotify.com/artist/6Cf83I8yeJUd9uIPEUV6IM), [Reber](https://open.spotify.com/artist/0lkB7pIXj8WMhj2yQXhOlv) | [DURDUM](https://open.spotify.com/album/2p84g6z3TVM5rcr1Nkv7aX) | 2:31 | 2025-03-20 | 2025-03-28 |
+| [Durgun su son şarkı](https://open.spotify.com/track/5nDhvTY7jqffP58AcNP7OQ) | [Vedat Sakman](https://open.spotify.com/artist/6dyj8hW2rSZ30SHlj2KHrT), [Federico García Lorca](https://open.spotify.com/artist/62OXyhZOTBq8OHBkBCB15y) | [Durgun su son şarkı](https://open.spotify.com/album/2Bl7eLsKiZRXaJYpZXD9Wa) | 3:08 | 2025-12-25 |  |
 | [Durma](https://open.spotify.com/track/2ncBk5anK4ALCO8YCNsnAo) | [Melis Karaduman](https://open.spotify.com/artist/0aM5REcXSL40rNGsyCSxNG), [Canay Doğan](https://open.spotify.com/artist/67neQRprEWkco2mIyKkXCb) | [Durma](https://open.spotify.com/album/5xn1GgFc24R6THkd4J4hNJ) | 2:41 | 2025-05-08 | 2025-05-16 |
 | [Durmam](https://open.spotify.com/track/61MMKTCFjlZ4tRKVO1ZBsl) | [Anıl Durmuş](https://open.spotify.com/artist/10aqquITh9xMvNFTMZicY9) | [Durmam](https://open.spotify.com/album/1HR8GCUQ8YYNuoSVZKmJid) | 2:34 | 2025-03-13 | 2025-03-21 |
 | [Durmuş Bütün Saatler](https://open.spotify.com/track/108RKHGh1jBYdL1fJnF4RP) | [Saudade](https://open.spotify.com/artist/177vaEMrfDJnDOsHBD63eH) | [Durmuş Bütün Saatler](https://open.spotify.com/album/0JGkbee3euVuI4uHpl19DA) | 2:18 | 2025-06-19 | 2025-06-27 |
@@ -3477,7 +3478,7 @@
 | [Relentless Love](https://open.spotify.com/track/0hzt5MB7hjMWDPkM5BLDLt) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Relentless Love](https://open.spotify.com/album/3c8dzx8Vhy0w4eLH8ns5Zj) | 4:03 | 2025-03-27 | 2025-04-04 |
 | [RELOADED](https://open.spotify.com/track/3wecO1VIkqi4pznzPh1BWz) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Space Laces](https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP) | [RELOADED](https://open.spotify.com/album/4Nva0ALH9eQw7jwWRi8Z6k) | 3:48 | 2025-05-22 | 2025-05-30 |
 | [Rengarenk](https://open.spotify.com/track/1SEmAgBtOENyrPocdSqjMD) | [Didem Özek](https://open.spotify.com/artist/3GAYms0mkGz0XGj8ua38bo) | [Rengarenk](https://open.spotify.com/album/0iAFRR7n5UbTDsxjHZKaL0) | 2:53 | 2025-09-11 | 2025-09-20 |
-| [Resimdeki Gözyaşları](https://open.spotify.com/track/4mwz7Nl8KPD0cd35XYNyCY) | [Betül Demir](https://open.spotify.com/artist/6aMuEI7xrBQvb2z0lXWwCR) | [](https://open.spotify.com/album/null) | 2:34 | 2025-12-25 |  |
+| [Resimdeki Gözyaşları](https://open.spotify.com/track/4mwz7Nl8KPD0cd35XYNyCY) | [Betül Demir](https://open.spotify.com/artist/6aMuEI7xrBQvb2z0lXWwCR) | [RETRO\-1](https://open.spotify.com/album/5H2v9c9eBLX2vtUF01SsXP) | 2:34 | 2025-12-25 |  |
 | [Ressam](https://open.spotify.com/track/3QUr0xbiWcH1TpojSJu4bc) | [Kıraç](https://open.spotify.com/artist/4XYD8wP6f1sfLtWfrY1luF) | [Ressam](https://open.spotify.com/album/5PTkgWSbH0ZIg4bBJ4uiyr) | 3:40 | 2025-02-27 | 2025-03-07 |
 | [RESTART](https://open.spotify.com/track/6mP4EChESoCOlIfwcTT7lA) | [Set](https://open.spotify.com/artist/19Rza4zry4FH12uXxbUsib) | [RESTART](https://open.spotify.com/album/7Cd2hWwc7zLGjQFHjnlhOw) | 2:35 | 2025-08-07 | 2025-08-15 |
 | [RESTART](https://open.spotify.com/track/04D7Kp4n99kE58KmOiC4i8) | [shao](https://open.spotify.com/artist/7j5nMFqn5f7Gy0ElhOA5QD) | [X2C OTW](https://open.spotify.com/album/5U9Jd1OWo1pBmBNq67yrZ3) | 2:58 | 2025-07-10 | 2025-07-18 |
@@ -4834,7 +4835,7 @@
 | [Yıllar Sonra](https://open.spotify.com/track/6Swl8uRo4RJRHwaxBBaLZa) | [Aytekin Kurt](https://open.spotify.com/artist/2vcwwnlvvZ3OEj43sNMjXf) | [Yıllar Sonra](https://open.spotify.com/album/3gwuyxuYRKxlZhcdPsUlOG) | 2:52 | 2025-04-17 | 2025-04-25 |
 | [Yıllar Sonra](https://open.spotify.com/track/4Y9Hzt4ipg93gI0TBtd6wu) | [Ebru Yaşar](https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN) | [Yıllar Sonra](https://open.spotify.com/album/1CID1w6oG6Xry9GjBg0W1Z) | 2:13 | 2025-05-15 | 2025-05-23 |
 | [Yıllar Sonra](https://open.spotify.com/track/3esUp97ZFySsO7H4x6WdRN) | [Emrah Gündüz](https://open.spotify.com/artist/3mR3FzZmITWQ9DfolbTSfb) | [Hayat Akıp Gidiyor](https://open.spotify.com/album/5cResYArMSvUhQ0o9EF5pZ) | 3:45 | 2025-08-14 | 2025-08-22 |
-| [Zaaf](https://open.spotify.com/track/73I3Srass0VTGMQAT4IbVN) | [Knock Out](https://open.spotify.com/artist/7m4MegoOzuTPWeNk8paI1z) | [](https://open.spotify.com/album/null) | 2:42 | 2025-12-25 |  |
+| [Zaaf](https://open.spotify.com/track/73I3Srass0VTGMQAT4IbVN) | [Knock Out](https://open.spotify.com/artist/7m4MegoOzuTPWeNk8paI1z) | [Körebe](https://open.spotify.com/album/7c66J9jB1WscSwW74OxO0J) | 2:42 | 2025-12-25 |  |
 | [Zaaf](https://open.spotify.com/track/1SuHrVDP1u2zcEoDT5U0kG) | [Nasıl Yani](https://open.spotify.com/artist/4s8XKlFOgarSlkrqrEF3Xz) | [Zaaf](https://open.spotify.com/album/7EtLLNo3adGV0PSJQ8vc5d) | 3:15 | 2025-09-11 | 2025-09-20 |
 | [Zalim](https://open.spotify.com/track/78N3HcoPjz0idDWTxL2IUl) | [Abça](https://open.spotify.com/artist/3yjZOoxgn0zU3JrJbGMSny) | [Zalim](https://open.spotify.com/album/2oufZmDygE7vVqgQ0TImjt) | 4:05 | 2025-09-04 | 2025-09-12 |
 | [Zalim](https://open.spotify.com/track/0shy2brxLNOCEZj17iRrvF) | [Rafat Hasanlı](https://open.spotify.com/artist/4BaSMoTobauZ9yQZw4VG4c) | [Zalim](https://open.spotify.com/album/04tEjfitM9oebOenA2WUha) | 2:22 | 2025-05-08 | 2025-05-16 |

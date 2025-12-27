@@ -1,13 +1,41 @@
 {
   "description": "Every song that's Trending NOW from Malayalam! \nCover: Aashaan",
-  "num_followers": 585279,
+  "num_followers": 585808,
   "original_name": "Trending Now Malayalam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC+6er03xJCGeYg2gpnJnkluuo7T",
+  "snapshot_id": "AAAAALvQoGyH53i2t8Ivu8TQ4TPADtAR",
   "tracks": [
+    {
+      "added_at": "2025-11-26 07:40:57",
+      "album": {
+        "name": "KALYANI",
+        "url": "https://open.spotify.com/album/5MwY2xvTLLDNXi3qiX0GhF"
+      },
+      "artists": [
+        {
+          "name": "ARJN",
+          "url": "https://open.spotify.com/artist/5j2JTk8JqepIgv1zxYOuIi"
+        },
+        {
+          "name": "KDS",
+          "url": "https://open.spotify.com/artist/41opZo9bHh8CZoIdR3IgP7"
+        },
+        {
+          "name": "FIFTY4",
+          "url": "https://open.spotify.com/artist/1NApv6DzDP19uLuxJ0CuuP"
+        },
+        {
+          "name": "RONN",
+          "url": "https://open.spotify.com/artist/6jw1jO7iGLcrQyXL1Ia0IW"
+        }
+      ],
+      "duration_ms": 234489,
+      "name": "KALYANI",
+      "url": "https://open.spotify.com/track/2Uyj6K6mSaFTZsPvov415i"
+    },
     {
       "added_at": "2025-05-26 06:55:48",
       "album": {
@@ -31,6 +59,30 @@
       "duration_ms": 182769,
       "name": "Hope Song - From \"Sarkeet\"",
       "url": "https://open.spotify.com/track/3y7140pwsQ8wmxGj2hQhLG"
+    },
+    {
+      "added_at": "2025-12-18 05:42:30",
+      "album": {
+        "name": "Vazhikatti (Kizhakku Suryan)",
+        "url": "https://open.spotify.com/album/1yYiqvaSkcpQAD3JlTQBao"
+      },
+      "artists": [
+        {
+          "name": "Fejo",
+          "url": "https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3"
+        },
+        {
+          "name": "Jeffin Jestin",
+          "url": "https://open.spotify.com/artist/2cdsHrTfRxRpSdVm9M6BbC"
+        },
+        {
+          "name": "Daleema",
+          "url": "https://open.spotify.com/artist/0jlxYQ9CNS8IT8epEELwnA"
+        }
+      ],
+      "duration_ms": 142666,
+      "name": "Vazhikatti - Kizhakku Suryan",
+      "url": "https://open.spotify.com/track/1UpbpQDIKTc1XxRyF3Xgi0"
     },
     {
       "added_at": "2025-10-06 04:58:08",
@@ -61,30 +113,6 @@
       "url": "https://open.spotify.com/track/1yioABzRG4WFEkO98WV5l7"
     },
     {
-      "added_at": "2025-12-18 05:42:30",
-      "album": {
-        "name": "Vazhikatti (Kizhakku Suryan)",
-        "url": "https://open.spotify.com/album/1yYiqvaSkcpQAD3JlTQBao"
-      },
-      "artists": [
-        {
-          "name": "Fejo",
-          "url": "https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3"
-        },
-        {
-          "name": "Jeffin Jestin",
-          "url": "https://open.spotify.com/artist/2cdsHrTfRxRpSdVm9M6BbC"
-        },
-        {
-          "name": "Daleema",
-          "url": "https://open.spotify.com/artist/0jlxYQ9CNS8IT8epEELwnA"
-        }
-      ],
-      "duration_ms": 142666,
-      "name": "Vazhikatti - Kizhakku Suryan",
-      "url": "https://open.spotify.com/track/1UpbpQDIKTc1XxRyF3Xgi0"
-    },
-    {
       "added_at": "2025-12-01 06:53:26",
       "album": {
         "name": "Kunjikkavil Meghame (From \"Aashaan\")",
@@ -107,34 +135,6 @@
       "duration_ms": 284210,
       "name": "Kunjikkavil Meghame (From \"Aashaan\")",
       "url": "https://open.spotify.com/track/1QjXwGvMfjlFdGCnBSfTcD"
-    },
-    {
-      "added_at": "2025-11-26 07:40:57",
-      "album": {
-        "name": "KALYANI",
-        "url": "https://open.spotify.com/album/5MwY2xvTLLDNXi3qiX0GhF"
-      },
-      "artists": [
-        {
-          "name": "ARJN",
-          "url": "https://open.spotify.com/artist/5j2JTk8JqepIgv1zxYOuIi"
-        },
-        {
-          "name": "KDS",
-          "url": "https://open.spotify.com/artist/41opZo9bHh8CZoIdR3IgP7"
-        },
-        {
-          "name": "FIFTY4",
-          "url": "https://open.spotify.com/artist/1NApv6DzDP19uLuxJ0CuuP"
-        },
-        {
-          "name": "RONN",
-          "url": "https://open.spotify.com/artist/6jw1jO7iGLcrQyXL1Ia0IW"
-        }
-      ],
-      "duration_ms": 234489,
-      "name": "KALYANI",
-      "url": "https://open.spotify.com/track/2Uyj6K6mSaFTZsPvov415i"
     },
     {
       "added_at": "2025-12-15 08:08:03",

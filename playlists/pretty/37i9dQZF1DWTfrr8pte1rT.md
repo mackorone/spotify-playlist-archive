@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfrr8pte1rT.md) - [plain]
 
 > Rock with a Drop\. Cover: Madeon \\m/
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,976 likes - 125 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,982 likes - 125 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,6 +132,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfrr8pte1rT.md) - [plain]
 | 122 | [RAVEN](https://open.spotify.com/track/6tk1LRABEXt2zygYj3jmPt) | [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl), [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1) | [RAVEN](https://open.spotify.com/album/6tX2IEgpNeLwODIXR36mOS) | 3:04 |
 | 123 | [The Wild Hunt](https://open.spotify.com/track/5ND25ZCEXxfAr6BFPQ5wvu) | [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD) | [The Wild Hunt](https://open.spotify.com/album/0QvtHIbiF4ykReZATPi4km) | 3:18 |
 | 124 | [WARNING](https://open.spotify.com/track/5VVQFkUixspcTsNkW9X3v6) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf) | [WARNING](https://open.spotify.com/album/2TTNyWrwWrmKgYzOkGpFO4) | 3:13 |
-| 125 | [Embers](https://open.spotify.com/track/1CXVrNWkpQ4dsSNOH43dJT) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Raven Gray](https://open.spotify.com/artist/3xnaiXk5TG9y2fchyrceAr) | [Embers](https://open.spotify.com/album/4hhmTA5VDMXfEyjDudkMBn) | 3:09 |
+| 125 | [come around](https://open.spotify.com/track/4ghFfl5uKi45yybjTniMeJ) | [Omri](https://open.spotify.com/artist/2Lku5fIu2jo19qXhz82Qio) | [come around](https://open.spotify.com/album/2ZRUYAxTyymZaYKvPhXATs) | 3:39 |
 
 Snapshot ID: `AAAAAEmMs1FYvfCJ/2KVi1MW4AObAOAa`

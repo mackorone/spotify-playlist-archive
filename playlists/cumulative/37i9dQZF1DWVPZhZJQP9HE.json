@@ -3803,6 +3803,24 @@
     },
     {
       "album": {
+        "name": "Hey Mama",
+        "url": "https://open.spotify.com/album/4cZxA8L8TBurhW29VW8MKN"
+      },
+      "artists": [
+        {
+          "name": "Darbuka Siva",
+          "url": "https://open.spotify.com/artist/5t97rjifUl8d4HNwSzbCv9"
+        }
+      ],
+      "date_added": "2025-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212222,
+      "name": "Hey Mama",
+      "url": "https://open.spotify.com/track/0d27hofivsEsGCE4b9pYJZ"
+    },
+    {
+      "album": {
         "name": "Hey Sagiye",
         "url": "https://open.spotify.com/album/1B0xbRHabbOWaPfQDw7eOc"
       },
@@ -13852,7 +13870,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-27",
       "duration_ms": 280725,
       "name": "Thodarum Intha Payanam",
       "url": "https://open.spotify.com/track/6ohedCrUkOsFMZC9eDPkXm"
@@ -14136,7 +14154,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-27",
       "duration_ms": 157168,
       "name": "Trippila",
       "url": "https://open.spotify.com/track/6klow9MClqTn35kDLKqCn3"
@@ -15736,10 +15754,28 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-27",
       "duration_ms": 134042,
       "name": "Wrong Way - From \"Think Indie\"",
       "url": "https://open.spotify.com/track/04RtnPvviRGTqe9Ak66Grj"
+    },
+    {
+      "album": {
+        "name": "Wrong Way Unplugged (From \"Think Indie\")",
+        "url": "https://open.spotify.com/album/6zU7A7REVVm76oBwObbK4Y"
+      },
+      "artists": [
+        {
+          "name": "vaisagh",
+          "url": "https://open.spotify.com/artist/61ARIGyeQjBmULCy2ckSTp"
+        }
+      ],
+      "date_added": "2025-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127912,
+      "name": "Wrong Way Unplugged - From \"Think Indie\"",
+      "url": "https://open.spotify.com/track/32HW18k2zZP0DdhnBVwbov"
     },
     {
       "album": {

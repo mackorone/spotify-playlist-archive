@@ -2,7 +2,7 @@
 
 ### [New Music Friday Canada](https://open.spotify.com/playlist/37i9dQZF1DX5DfG8gQdC3F)
 
-> New music from Arkells, Kali Uchis, Smiley, River Tiber, Sophie Powers and more!
+> Happy Holidays! No new releases from us this week, but <a href="https://open.spotify.com/playlist/37i9dQZF1DX4JAvHpjipBk?si=c4431526c08c4325">US New Music Friday</a> has you covered\. We’ll be back next week\. Cover: Arkells
 
 20,258 songs - 44 day 20 hr 40 min
 

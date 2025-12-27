@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 426 songs - 1 day 1 hr 7 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 428 songs - 1 day 1 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -434,5 +434,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 424 | [Red and Gold](https://open.spotify.com/track/1a1LNRtmRJ46EqjVja044n) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [King Ghidra](https://open.spotify.com/artist/21IYa0bMpDZiSFY9x0y02q) | [Operation: Doomsday \(Complete\)](https://open.spotify.com/album/5bjUbZPVTEQcb6W3LquX1E) | 4:42 |
 | 425 | [Benz Or Beamer](https://open.spotify.com/track/3uo2KJXe6xaQsHhbIHNVmP) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [New Jersey Drive Vol\. 1](https://open.spotify.com/album/7DoD8us9kfckQxBjsBq9JW) | 4:16 |
 | 426 | [Dying With Your Boots On](https://open.spotify.com/track/1TuhWqEPlUDXdRItAgKr8G) | [Scarface](https://open.spotify.com/artist/19KwjzvIL92r29IINtlPNP) | [The World Is Yours](https://open.spotify.com/album/6iYx1zYXN4nJQfCA01D0CH) | 2:34 |
+| 427 | [Choose U](https://open.spotify.com/track/0kCZ2X6kIXZ5zRMrPx8Usx) | [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc) | [Layin' Da Smack Down \(Explicit Version\)](https://open.spotify.com/album/1SVEph4VG00L3vsmMeeBcC) | 2:58 |
+| 428 | [Airborne Aquarium](https://open.spotify.com/track/71vuS1nprefkBeCK344TEL) | [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Pilot Talk: Trilogy](https://open.spotify.com/album/5ydx8HEoTmJrxZuPKcTU4V) | 2:51 |
 
-Snapshot ID: `AAAfc1FEGlB2VL7gME+1LSvZKQyOeyzW`
+Snapshot ID: `AAAfdQCXI8ylqqzgWNJE5ic8R4fFQuxw`

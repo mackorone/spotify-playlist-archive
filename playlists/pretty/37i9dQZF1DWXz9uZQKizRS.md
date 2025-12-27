@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: Kaśka Sochacka
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,435 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,455 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 | 99 | [Burzowa](https://open.spotify.com/track/2duW9jS7nuaeP2puHshVW5) | [BAiKA](https://open.spotify.com/artist/42T9pQeSYn2olQmVFSXZJc) | [Czas końca złudzeń](https://open.spotify.com/album/5VEQpb8CzsRlHUMvNuxZj7) | 3:50 |
 | 100 | [KEEPITUP](https://open.spotify.com/track/0JRvK2JDWcQ6lduFvJgdCv) | [babyhats](https://open.spotify.com/artist/5cqRWXSEk4JOG5hUhQpgON) | [KEEPITUP](https://open.spotify.com/album/3a4aYhQKLDzfOTnVALdWeV) | 3:58 |
 
-Snapshot ID: `AAAAAHD9WL1OR68gByA9V/d2wlyYSsX0`
+Snapshot ID: `AAAAAF9z6bTiBHCLy7DyKZUA7QQkvpWd`

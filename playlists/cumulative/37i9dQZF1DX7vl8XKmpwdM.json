@@ -395,6 +395,32 @@
     },
     {
       "album": {
+        "name": "Aiyo Kadhaley (From \"With Love\")",
+        "url": "https://open.spotify.com/album/0G2f1zI9Nl73eolAelXBE5"
+      },
+      "artists": [
+        {
+          "name": "Sean Roldan",
+          "url": "https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU"
+        },
+        {
+          "name": "Vijaynarain",
+          "url": "https://open.spotify.com/artist/1QEANF9GtDX4y4fXApJHUi"
+        },
+        {
+          "name": "Mohan Rajan",
+          "url": "https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma"
+        }
+      ],
+      "date_added": "2025-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206065,
+      "name": "Aiyo Kadhaley (From \"With Love\")",
+      "url": "https://open.spotify.com/track/3yE2T5Di3k3URoRySJSqdm"
+    },
+    {
+      "album": {
         "name": "Ajalakka Ujalaa (From \"Vannam Konda Vennilave\")",
         "url": "https://open.spotify.com/album/2kSgaroMhZ24Jyg7UD2wDB"
       },
@@ -4912,7 +4938,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-27",
       "duration_ms": 203123,
       "name": "Solo Violin",
       "url": "https://open.spotify.com/track/0mkmulwOx8opifY1xOApwk"

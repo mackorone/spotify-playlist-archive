@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuw: AFROJACK, Hef, Joost, Kali Uchis en meer...
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,202 likes - 55 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,342 likes - 55 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 54 | [Jaloezie](https://open.spotify.com/track/4K5oAJfyaPjszfJXUJNGf6) | [Insayno](https://open.spotify.com/artist/4BwKHXbL1qbaoD73AM4sO8), [Brainpower](https://open.spotify.com/artist/6LfIVTnSSc9zNqjpfVPs1w), [Jaap Goud](https://open.spotify.com/artist/0kY3JTHPCakGx8ydflXOyR) | [Jaloezie](https://open.spotify.com/album/42Q37iJv2u2AURRKL0AW2m) | 3:29 |
 | 55 | [Lastpak](https://open.spotify.com/track/2MpaMdE1qxTNOiW3onsK76) | [Brunzyn](https://open.spotify.com/artist/34zjBncq7MEAoNwsM1DMU9) | [Lastpak](https://open.spotify.com/album/0u3zxvDOOPR4XjajQb1goz) | 1:54 |
 
-Snapshot ID: `AAAAAFEAu/jwpGirchxJfzQemuwWrQrj`
+Snapshot ID: `AAAAAEbjVNSPU6fFkkFlmzt9CrcEY1wY`

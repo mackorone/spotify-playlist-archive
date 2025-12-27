@@ -5249,6 +5249,24 @@
     },
     {
       "album": {
+        "name": "Cheddar",
+        "url": "https://open.spotify.com/album/0RJGRy63MeH5yGt71ZIlFI"
+      },
+      "artists": [
+        {
+          "name": "Mello Buckzz",
+          "url": "https://open.spotify.com/artist/4bAfAX9Zg9XdMKREfURqaw"
+        }
+      ],
+      "date_added": "2025-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109201,
+      "name": "Cheddar",
+      "url": "https://open.spotify.com/track/6h5oNHGCa2XGaID2XWx5kE"
+    },
+    {
+      "album": {
         "name": "Cheesecake",
         "url": "https://open.spotify.com/album/5jdg34jX6zywe3PkySMcf2"
       },
@@ -12680,7 +12698,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-27",
       "duration_ms": 115714,
       "name": "IN SCOOM WE TRUST",
       "url": "https://open.spotify.com/track/6YKgDHXUHZU9uRvp3gXe7p"
@@ -13728,6 +13746,28 @@
       "duration_ms": 231288,
       "name": "Kentucky Love",
       "url": "https://open.spotify.com/track/7v21UEJI0U8v99dggzZjQm"
+    },
+    {
+      "album": {
+        "name": "Kill Confirmed",
+        "url": "https://open.spotify.com/album/1J0xoSVnsY8FjReC1Jr8uK"
+      },
+      "artists": [
+        {
+          "name": "MAF Teeski",
+          "url": "https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB"
+        },
+        {
+          "name": "Chuckyy",
+          "url": "https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h"
+        }
+      ],
+      "date_added": "2025-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126666,
+      "name": "Kill Confirmed",
+      "url": "https://open.spotify.com/track/5P3qFQroyLuKjt3g9NgAz9"
     },
     {
       "album": {
@@ -17074,7 +17114,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-27",
       "duration_ms": 157974,
       "name": "Never Put You First",
       "url": "https://open.spotify.com/track/1H0FrllQSrM3y5BLThpyMO"

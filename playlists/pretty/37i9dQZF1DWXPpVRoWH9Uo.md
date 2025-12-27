@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXPpVRoWH9Uo.md) - [plain]
 
 > Celebrating the nominees of this year's <a href="https://caribmusicawards.com/">Caribbean Music Awards</a>!
 
-[Spotify](https://open.spotify.com/user/spotify) - 714 likes - 37 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 715 likes - 37 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

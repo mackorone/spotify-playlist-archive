@@ -4,7 +4,7 @@
 
 > All of it
 
-1,090 songs - 2 day 18 hr 51 min
+1,091 songs - 2 day 18 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1060,6 +1060,7 @@
 | [WINDY SUMMER](https://open.spotify.com/track/7fgmo2cHGzWLexkRhBeECj) | [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [Timely!!](https://open.spotify.com/album/3OvZYx7AAGplmJjwD29JiV) | 4:06 | 2025-06-02 |  |
 | [Wish You Were Here](https://open.spotify.com/track/6mFkJmJqdDVQ1REhVfGgd1) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Wish You Were Here](https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw) | 5:38 | 2025-06-02 |  |
 | [Wishing on a Star](https://open.spotify.com/track/0u2CGItUO2jYEiFaXD7n5S) | [Rose Royce](https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO) | [In Full Bloom](https://open.spotify.com/album/19fTeMlAjRVFT9jTTkHvRk) | 4:51 | 2025-07-03 |  |
+| [WISHLIST \[with Armani White\]](https://open.spotify.com/track/2OjJ5v66ksCRo6uTaR57Y5) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [King Of The Mischievous South Vol\. 2](https://open.spotify.com/album/6LoDd1G8en4TcqdSg7yqrV) | 3:06 | 2025-12-27 |  |
 | [Witchcraft](https://open.spotify.com/track/0H2uVxEEvuRRYLhowu78jf) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Ultimate Sinatra](https://open.spotify.com/album/7gmak9ZGm10y4PtZa9SBQn) | 2:52 | 2025-06-02 |  |
 | [Without You](https://open.spotify.com/track/696AC0TdTjD1teDPcANly9) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Flowers](https://open.spotify.com/album/7zyILGPU1W58PNTgEgRNvO) | 3:37 | 2025-10-03 |  |
 | [Wok](https://open.spotify.com/track/5yJ3V2s1x7KLvc97ZURlIf) | [void](https://open.spotify.com/artist/5ySK6tR70ZunnmPEHCrCwF) | [Wok](https://open.spotify.com/album/3PgRQRfTNebJutV2XN7Vjt) | 3:01 | 2025-06-02 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Philine Sonny
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,669 likes - 90 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,696 likes - 90 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 89 | [In drei Leben \(Reprise\)](https://open.spotify.com/track/7vpUsSJnRuusmqN0To2oXG) | [Oehl](https://open.spotify.com/artist/0LLCimRswRk6Ks5oBJ4Abp), [Angel Vassilev](https://open.spotify.com/artist/0jKpywBTcoLwmWlNtMzxTO) | [In drei Leben \(Reprise\)](https://open.spotify.com/album/01gi4DFK1wqIfbJht0FzLc) | 2:57 |
 | 90 | [Inventing](https://open.spotify.com/track/7J9yJOa21b55I5GGUwFgfL) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Inventing](https://open.spotify.com/album/6Ueeq9CJhTfh1FBdSmuKmk) | 3:21 |
 
-Snapshot ID: `AAAAALLvppQy7CYCUcrJjapER/oUMOOb`
+Snapshot ID: `AAAAAF6CZ0dvLjGhO+Ell1eyqyeRR1zF`

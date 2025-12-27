@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 435124,
+  "num_followers": 435153,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -739,6 +739,22 @@
     {
       "added_at": "2025-12-04 23:00:16",
       "album": {
+        "name": "Les jolies choses",
+        "url": "https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI"
+      },
+      "artists": [
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        }
+      ],
+      "duration_ms": 222373,
+      "name": "Les jolies choses",
+      "url": "https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4"
+    },
+    {
+      "added_at": "2025-12-04 23:00:16",
+      "album": {
         "name": "Otro Culito",
         "url": "https://open.spotify.com/album/3t5c0UXgnZDIxpMy6JE75m"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 221837,
       "name": "4 de Febrero",
       "url": "https://open.spotify.com/track/0flp9biaZs24ZEksHXxYiB"
-    },
-    {
-      "added_at": "2025-12-04 23:00:16",
-      "album": {
-        "name": "Les jolies choses",
-        "url": "https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI"
-      },
-      "artists": [
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        }
-      ],
-      "duration_ms": 222373,
-      "name": "Les jolies choses",
-      "url": "https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4"
     },
     {
       "added_at": "2025-12-04 23:00:16",
@@ -935,22 +935,6 @@
     {
       "added_at": "2025-12-04 23:00:16",
       "album": {
-        "name": "Musas en Mi",
-        "url": "https://open.spotify.com/album/3PbTtZHjn8YcYAAFV1FoKZ"
-      },
-      "artists": [
-        {
-          "name": "Arath Herce",
-          "url": "https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs"
-        }
-      ],
-      "duration_ms": 212706,
-      "name": "Qui\u00e9n Pensar\u00eda",
-      "url": "https://open.spotify.com/track/5JKSgyvgOnSXKTeFdiyl7W"
-    },
-    {
-      "added_at": "2025-12-04 23:00:16",
-      "album": {
         "name": "Leaveyourlove (with MARO)",
         "url": "https://open.spotify.com/album/1uuLzCuVaBJlIgPYIwy7d9"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 214446,
       "name": "Leaveyourlove (with MARO)",
       "url": "https://open.spotify.com/track/5io7Rv6WxpvkqCRreCvXGc"
+    },
+    {
+      "added_at": "2025-12-04 23:00:16",
+      "album": {
+        "name": "Musas en Mi",
+        "url": "https://open.spotify.com/album/3PbTtZHjn8YcYAAFV1FoKZ"
+      },
+      "artists": [
+        {
+          "name": "Arath Herce",
+          "url": "https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs"
+        }
+      ],
+      "duration_ms": 212706,
+      "name": "Qui\u00e9n Pensar\u00eda",
+      "url": "https://open.spotify.com/track/5JKSgyvgOnSXKTeFdiyl7W"
     },
     {
       "added_at": "2025-12-04 23:00:16",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2025-12-04 23:00:16",
       "album": {
-        "name": "Endlings",
-        "url": "https://open.spotify.com/album/5v6P6f9bt9tBOUXzuMoVEC"
-      },
-      "artists": [
-        {
-          "name": "The Well Pennies",
-          "url": "https://open.spotify.com/artist/1bkuqagwavNQJVWEmYDoQi"
-        }
-      ],
-      "duration_ms": 228173,
-      "name": "The Echo & The Shadow",
-      "url": "https://open.spotify.com/track/6FytDcO847O1h7JlWbY838"
-    },
-    {
-      "added_at": "2025-12-04 23:00:16",
-      "album": {
         "name": "Boredom (Demo 2015)",
         "url": "https://open.spotify.com/album/5vGRH6zvJ5bXI7fBFcO3jN"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 232040,
       "name": "Boredom",
       "url": "https://open.spotify.com/track/4aiKBAp88Q23KpuSdzekDr"
+    },
+    {
+      "added_at": "2025-12-04 23:00:16",
+      "album": {
+        "name": "Endlings",
+        "url": "https://open.spotify.com/album/5v6P6f9bt9tBOUXzuMoVEC"
+      },
+      "artists": [
+        {
+          "name": "The Well Pennies",
+          "url": "https://open.spotify.com/artist/1bkuqagwavNQJVWEmYDoQi"
+        }
+      ],
+      "duration_ms": 228173,
+      "name": "The Echo & The Shadow",
+      "url": "https://open.spotify.com/track/6FytDcO847O1h7JlWbY838"
     },
     {
       "added_at": "2025-12-04 23:00:16",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2025-12-04 23:00:16",
       "album": {
-        "name": "Bones",
-        "url": "https://open.spotify.com/album/1wIySeB9NtReed6unvzzm8"
-      },
-      "artists": [
-        {
-          "name": "St Woods",
-          "url": "https://open.spotify.com/artist/7Cj0psFxm34eneGRVePhDI"
-        }
-      ],
-      "duration_ms": 176160,
-      "name": "Time (For You)",
-      "url": "https://open.spotify.com/track/3wVS7nupxHDXUKfAcVdtj4"
-    },
-    {
-      "added_at": "2025-12-04 23:00:16",
-      "album": {
         "name": "Mandela Place",
         "url": "https://open.spotify.com/album/6MXVgGqVLqHYuUCLUJUWEb"
       },
@@ -1383,22 +1367,18 @@
     {
       "added_at": "2025-12-04 23:00:16",
       "album": {
-        "name": "Otras 3 Lunas",
-        "url": "https://open.spotify.com/album/4XEIBLJwW5kRkJt7d4abOx"
+        "name": "Bones",
+        "url": "https://open.spotify.com/album/1wIySeB9NtReed6unvzzm8"
       },
       "artists": [
         {
-          "name": "Esp\u00edritu System",
-          "url": "https://open.spotify.com/artist/2CIIwhaBDB1a3ipJJc40r0"
-        },
-        {
-          "name": "Chini Tacchini",
-          "url": "https://open.spotify.com/artist/0bl5N26zx6eOjNBcHtZKEY"
+          "name": "St Woods",
+          "url": "https://open.spotify.com/artist/7Cj0psFxm34eneGRVePhDI"
         }
       ],
-      "duration_ms": 162782,
-      "name": "Algo que no duele",
-      "url": "https://open.spotify.com/track/2Y8Qw5PU03Bl062cZJ4p0v"
+      "duration_ms": 176160,
+      "name": "Time (For You)",
+      "url": "https://open.spotify.com/track/3wVS7nupxHDXUKfAcVdtj4"
     },
     {
       "added_at": "2025-12-04 23:00:16",
@@ -1431,6 +1411,26 @@
       "duration_ms": 283500,
       "name": "My Ideal",
       "url": "https://open.spotify.com/track/2B8BmgVUQKTWIOwWGr13Mh"
+    },
+    {
+      "added_at": "2025-12-04 23:00:16",
+      "album": {
+        "name": "Otras 3 Lunas",
+        "url": "https://open.spotify.com/album/4XEIBLJwW5kRkJt7d4abOx"
+      },
+      "artists": [
+        {
+          "name": "Esp\u00edritu System",
+          "url": "https://open.spotify.com/artist/2CIIwhaBDB1a3ipJJc40r0"
+        },
+        {
+          "name": "Chini Tacchini",
+          "url": "https://open.spotify.com/artist/0bl5N26zx6eOjNBcHtZKEY"
+        }
+      ],
+      "duration_ms": 162782,
+      "name": "Algo que no duele",
+      "url": "https://open.spotify.com/track/2Y8Qw5PU03Bl062cZJ4p0v"
     },
     {
       "added_at": "2025-12-04 23:00:16",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2025-12-04 23:00:16",
       "album": {
-        "name": "Lento",
-        "url": "https://open.spotify.com/album/0vclQbN2PWFfbPnqsNwAOc"
-      },
-      "artists": [
-        {
-          "name": "Anne Lukin",
-          "url": "https://open.spotify.com/artist/2ZCMed7zvHPqwMcsYzYcGL"
-        }
-      ],
-      "duration_ms": 151027,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/4a2Bgq4J0Uxs1iEvRieM2z"
-    },
-    {
-      "added_at": "2025-12-04 23:00:16",
-      "album": {
         "name": "Sanadoras Voluntades",
         "url": "https://open.spotify.com/album/4en5TaKhMK6hxjQVW0hHoa"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 164956,
       "name": "Sanadoras Voluntades",
       "url": "https://open.spotify.com/track/7AqHsrlrP34XzmOgx5CmGe"
+    },
+    {
+      "added_at": "2025-12-04 23:00:16",
+      "album": {
+        "name": "Lento",
+        "url": "https://open.spotify.com/album/0vclQbN2PWFfbPnqsNwAOc"
+      },
+      "artists": [
+        {
+          "name": "Anne Lukin",
+          "url": "https://open.spotify.com/artist/2ZCMed7zvHPqwMcsYzYcGL"
+        }
+      ],
+      "duration_ms": 151027,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/4a2Bgq4J0Uxs1iEvRieM2z"
     },
     {
       "added_at": "2025-12-04 23:00:16",
@@ -1583,6 +1583,26 @@
     {
       "added_at": "2025-12-04 23:00:16",
       "album": {
+        "name": "Oasis",
+        "url": "https://open.spotify.com/album/0S4nrbyuhs0joy3Igb9llz"
+      },
+      "artists": [
+        {
+          "name": "Julia Nar",
+          "url": "https://open.spotify.com/artist/0JbCnWvA7UUb7QwBM2EHSL"
+        },
+        {
+          "name": "Khotton",
+          "url": "https://open.spotify.com/artist/1wGUJ7RBDxwzB4SJGgdAcJ"
+        }
+      ],
+      "duration_ms": 195524,
+      "name": "Oasis",
+      "url": "https://open.spotify.com/track/3uCaj0MSjd7Z90xCQ0jalj"
+    },
+    {
+      "added_at": "2025-12-04 23:00:16",
+      "album": {
         "name": "Todo Este Amor (Cap\u00edtulo IV: Hu\u00edda)",
         "url": "https://open.spotify.com/album/2W0qGvu9m4cRR918XTA1f4"
       },
@@ -1607,26 +1627,6 @@
     {
       "added_at": "2025-12-04 23:00:16",
       "album": {
-        "name": "Oasis",
-        "url": "https://open.spotify.com/album/0S4nrbyuhs0joy3Igb9llz"
-      },
-      "artists": [
-        {
-          "name": "Julia Nar",
-          "url": "https://open.spotify.com/artist/0JbCnWvA7UUb7QwBM2EHSL"
-        },
-        {
-          "name": "Khotton",
-          "url": "https://open.spotify.com/artist/1wGUJ7RBDxwzB4SJGgdAcJ"
-        }
-      ],
-      "duration_ms": 195524,
-      "name": "Oasis",
-      "url": "https://open.spotify.com/track/3uCaj0MSjd7Z90xCQ0jalj"
-    },
-    {
-      "added_at": "2025-12-04 23:00:16",
-      "album": {
         "name": "Kevin",
         "url": "https://open.spotify.com/album/3EOPENikNPh26ZofamfSTT"
       },
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2025-12-04 23:00:16",
       "album": {
-        "name": "Ada Road",
-        "url": "https://open.spotify.com/album/5h6B6cj1OcnPAaXB1GBcwn"
+        "name": "Me Vas A Matar",
+        "url": "https://open.spotify.com/album/47p8ezM1oipFKpKu8Vtesj"
       },
       "artists": [
         {
-          "name": "MAVICA",
-          "url": "https://open.spotify.com/artist/2J1sJydvX10ir67gz54cdW"
+          "name": "Teo Planell",
+          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
         }
       ],
-      "duration_ms": 278373,
-      "name": "Ada Road",
-      "url": "https://open.spotify.com/track/5u2P6O7vHPtmW8fEU3zsXH"
+      "duration_ms": 188013,
+      "name": "Me Vas A Matar",
+      "url": "https://open.spotify.com/track/4GytDQxnbGL5KoR5NHkbFu"
     },
     {
       "added_at": "2025-12-04 23:00:16",
@@ -1679,18 +1679,18 @@
     {
       "added_at": "2025-12-04 23:00:16",
       "album": {
-        "name": "Me Vas A Matar",
-        "url": "https://open.spotify.com/album/47p8ezM1oipFKpKu8Vtesj"
+        "name": "Ada Road",
+        "url": "https://open.spotify.com/album/5h6B6cj1OcnPAaXB1GBcwn"
       },
       "artists": [
         {
-          "name": "Teo Planell",
-          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
+          "name": "MAVICA",
+          "url": "https://open.spotify.com/artist/2J1sJydvX10ir67gz54cdW"
         }
       ],
-      "duration_ms": 188013,
-      "name": "Me Vas A Matar",
-      "url": "https://open.spotify.com/track/4GytDQxnbGL5KoR5NHkbFu"
+      "duration_ms": 278373,
+      "name": "Ada Road",
+      "url": "https://open.spotify.com/track/5u2P6O7vHPtmW8fEU3zsXH"
     },
     {
       "added_at": "2025-12-04 23:00:16",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2025-12-04 23:00:16",
       "album": {
+        "name": "Demian",
+        "url": "https://open.spotify.com/album/6FRwKu5JqXnUCQRcbfENI8"
+      },
+      "artists": [
+        {
+          "name": "Teo Planell",
+          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
+        }
+      ],
+      "duration_ms": 270250,
+      "name": "La Espiral",
+      "url": "https://open.spotify.com/track/7iZDzYOsICnDgAIY4wTlxf"
+    },
+    {
+      "added_at": "2025-12-04 23:00:16",
+      "album": {
         "name": "A la muerte",
         "url": "https://open.spotify.com/album/5qZV3Ux7bedYirvSmfMt4L"
       },
@@ -1811,22 +1827,6 @@
       "duration_ms": 247622,
       "name": "Todo Marchit\u00f3",
       "url": "https://open.spotify.com/track/5NbGdDoAlBNn5i4HxWppYf"
-    },
-    {
-      "added_at": "2025-12-04 23:00:16",
-      "album": {
-        "name": "Demian",
-        "url": "https://open.spotify.com/album/6FRwKu5JqXnUCQRcbfENI8"
-      },
-      "artists": [
-        {
-          "name": "Teo Planell",
-          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
-        }
-      ],
-      "duration_ms": 270250,
-      "name": "La Espiral",
-      "url": "https://open.spotify.com/track/7iZDzYOsICnDgAIY4wTlxf"
     },
     {
       "added_at": "2025-12-04 23:00:16",
@@ -1975,6 +1975,22 @@
     {
       "added_at": "2025-12-04 23:00:16",
       "album": {
+        "name": "5AM",
+        "url": "https://open.spotify.com/album/2MY27JscZjr0d01jDMISv4"
+      },
+      "artists": [
+        {
+          "name": "Volver",
+          "url": "https://open.spotify.com/artist/32nfZrzpEztfg5c2832vmy"
+        }
+      ],
+      "duration_ms": 216800,
+      "name": "5AM",
+      "url": "https://open.spotify.com/track/3hbQZgr6kAH6zo8pqOivwT"
+    },
+    {
+      "added_at": "2025-12-04 23:00:16",
+      "album": {
         "name": "Lejos De M\u00e1s",
         "url": "https://open.spotify.com/album/0mCsBuqrZ6P2iflcesQysf"
       },
@@ -1991,22 +2007,6 @@
       "duration_ms": 246720,
       "name": "Lejos De M\u00e1s",
       "url": "https://open.spotify.com/track/3rATXD9GvA54CsDZRNPi6W"
-    },
-    {
-      "added_at": "2025-12-04 23:00:16",
-      "album": {
-        "name": "5AM",
-        "url": "https://open.spotify.com/album/2MY27JscZjr0d01jDMISv4"
-      },
-      "artists": [
-        {
-          "name": "Volver",
-          "url": "https://open.spotify.com/artist/32nfZrzpEztfg5c2832vmy"
-        }
-      ],
-      "duration_ms": 216800,
-      "name": "5AM",
-      "url": "https://open.spotify.com/track/3hbQZgr6kAH6zo8pqOivwT"
     },
     {
       "added_at": "2025-12-04 23:00:16",

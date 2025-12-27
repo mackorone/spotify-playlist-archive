@@ -6,7 +6,7 @@
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAAI6H7WaD6xW/pdYPIrnB5FtI9VCD0R",
+  "snapshot_id": "AAAI7GiDqf31F7jpFZ7KILFJfw99T8Az",
   "tracks": [
     {
       "added_at": "2025-08-03 07:05:37",
@@ -5061,6 +5061,22 @@
       "url": "https://open.spotify.com/track/50SPgAAHSZshpCHZ30AJow"
     },
     {
+      "added_at": "2025-12-26 10:58:39",
+      "album": {
+        "name": "Clockmaster's Grief",
+        "url": "https://open.spotify.com/album/33rVeEfelM9iw2pk0v6WDZ"
+      },
+      "artists": [
+        {
+          "name": "Astral Nocturna",
+          "url": "https://open.spotify.com/artist/7dXXmCstnWta6NTeYrZPpB"
+        }
+      ],
+      "duration_ms": 234679,
+      "name": "Clockmaster's Grief",
+      "url": "https://open.spotify.com/track/5Wtjtxxjm9U9CC5s3hDAaI"
+    },
+    {
       "added_at": "2025-12-24 22:16:50",
       "album": {
         "name": "I Spy",
@@ -5139,6 +5155,54 @@
       "duration_ms": 182556,
       "name": "Glossy Cover",
       "url": "https://open.spotify.com/track/4yK0qEK134tVyaNcoRx4qw"
+    },
+    {
+      "added_at": "2025-12-26 10:59:49",
+      "album": {
+        "name": "Headrush",
+        "url": "https://open.spotify.com/album/1xawMxWDShlnHZgENk0Y5W"
+      },
+      "artists": [
+        {
+          "name": "Lunar Chain",
+          "url": "https://open.spotify.com/artist/6esnKS6lev7QYCZAL0y8bW"
+        }
+      ],
+      "duration_ms": 205610,
+      "name": "Headrush",
+      "url": "https://open.spotify.com/track/0YfyjWkn6cAvWXokmeu77R"
+    },
+    {
+      "added_at": "2025-12-26 11:00:06",
+      "album": {
+        "name": "The way home",
+        "url": "https://open.spotify.com/album/4xO88KLM8NjEHYpQhXbJgV"
+      },
+      "artists": [
+        {
+          "name": "Eternalize",
+          "url": "https://open.spotify.com/artist/0gxYWBKorYdHOkDcnMLDsf"
+        }
+      ],
+      "duration_ms": 168104,
+      "name": "Creatures",
+      "url": "https://open.spotify.com/track/2BME4lMVt3qe5hQjmDjlMT"
+    },
+    {
+      "added_at": "2025-12-26 11:00:56",
+      "album": {
+        "name": "kleinmut",
+        "url": "https://open.spotify.com/album/4iRkAfSiVTpEVn429FCWkl"
+      },
+      "artists": [
+        {
+          "name": "bildervondrausen",
+          "url": "https://open.spotify.com/artist/15LeNv7wDnxgZh1YeMRcap"
+        }
+      ],
+      "duration_ms": 155548,
+      "name": "kleinmut",
+      "url": "https://open.spotify.com/track/2FILjSIzG7cAzom43equdp"
     }
   ],
   "unique_name": "Shuffle Roulette",

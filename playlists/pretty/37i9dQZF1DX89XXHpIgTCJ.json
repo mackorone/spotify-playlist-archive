@@ -1,6 +1,6 @@
 {
   "description": "When Rock meets Rap: covers, collabs, mashups and everything that rhymes.",
-  "num_followers": 334214,
+  "num_followers": 334240,
   "original_name": "Rap 'n' Roll",
   "owner": {
     "name": "Spotify",
@@ -951,6 +951,22 @@
     {
       "added_at": "2025-01-24 05:00:29",
       "album": {
+        "name": "King Of Rock (Expanded Edition)",
+        "url": "https://open.spotify.com/album/57FQTvThrTFPrGPAvZCjw6"
+      },
+      "artists": [
+        {
+          "name": "Run\u2013D.M.C.",
+          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
+        }
+      ],
+      "duration_ms": 314146,
+      "name": "King of Rock",
+      "url": "https://open.spotify.com/track/7112WRQXlBGe4Os43yw8gV"
+    },
+    {
+      "added_at": "2025-01-24 05:00:29",
+      "album": {
         "name": "Lemonade (with Denzel Curry)",
         "url": "https://open.spotify.com/album/33BruH4PRrvmtQ7dsBDN0d"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 165685,
       "name": "Lemonade (with Denzel Curry)",
       "url": "https://open.spotify.com/track/4k9it7Buh3IXU7o3oLRjJL"
-    },
-    {
-      "added_at": "2025-01-24 05:00:29",
-      "album": {
-        "name": "King Of Rock (Expanded Edition)",
-        "url": "https://open.spotify.com/album/57FQTvThrTFPrGPAvZCjw6"
-      },
-      "artists": [
-        {
-          "name": "Run\u2013D.M.C.",
-          "url": "https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA"
-        }
-      ],
-      "duration_ms": 314146,
-      "name": "King of Rock",
-      "url": "https://open.spotify.com/track/7112WRQXlBGe4Os43yw8gV"
     },
     {
       "added_at": "2025-01-24 05:00:29",

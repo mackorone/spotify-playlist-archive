@@ -1,6 +1,6 @@
 {
   "description": "the best things in life can't be contained.",
-  "num_followers": 1358242,
+  "num_followers": 1358082,
   "original_name": "Wild & Free",
   "owner": {
     "name": "Spotify",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2025-12-12 15:56:47",
       "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/34U30cuzRVT1nQX0Hf9LUS"
+      },
+      "artists": [
+        {
+          "name": "Mighty Oaks",
+          "url": "https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC"
+        }
+      ],
+      "duration_ms": 205958,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/2BECFMSvqH5xq5RXMNVO0r"
+    },
+    {
+      "added_at": "2025-12-12 15:56:47",
+      "album": {
         "name": "I've Seen the Willow Trees",
         "url": "https://open.spotify.com/album/1zA1YMufYNnNpRqT7viyjy"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 285300,
       "name": "I've Seen the Willow Trees",
       "url": "https://open.spotify.com/track/6o2Gzr3xC6IpXTIcKt0Avd"
-    },
-    {
-      "added_at": "2025-12-12 15:56:47",
-      "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/34U30cuzRVT1nQX0Hf9LUS"
-      },
-      "artists": [
-        {
-          "name": "Mighty Oaks",
-          "url": "https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC"
-        }
-      ],
-      "duration_ms": 205958,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/2BECFMSvqH5xq5RXMNVO0r"
     },
     {
       "added_at": "2025-12-12 15:56:47",

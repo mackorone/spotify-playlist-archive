@@ -4,7 +4,7 @@
 
 > This is Danny Felix\. The essential tracks, all in one playlist.
 
-159 songs - 8 hr 50 min
+160 songs - 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Fin De Semana \- En Vivo](https://open.spotify.com/track/1OVkTf8DQn3007lhgUVuTB) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Con La Cochi \(En Vivo\)](https://open.spotify.com/album/2WRv6YVcIFXrhVxCLLkpDi) | 4:12 | 2025-02-04 | 2025-02-18 |
 | [Godfather \- En Vivo](https://open.spotify.com/track/4B8Z4TwXkssIuLPMTlNIcD) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Fiesta Privada Desde El 602 \(En Vivo\)](https://open.spotify.com/album/2BMdhDB0AwzTxRoo8EQ2Te) | 3:20 | 2025-12-25 |  |
 | [GRUPO TÁCTICO](https://open.spotify.com/track/1BZSu3nKKyjnSJHaaUgeFb) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Grupo Táctico](https://open.spotify.com/album/6lbNqeDhky0kDKym5eFaQ0) | 3:00 | 2024-01-29 | 2025-10-07 |
+| [Haciendo Memoria \- En Vivo](https://open.spotify.com/track/7BgcOcyOPe2RanEUH4wJuT) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Fiesta Privada Desde El 602 \(En Vivo\)](https://open.spotify.com/album/2BMdhDB0AwzTxRoo8EQ2Te) | 3:45 | 2025-12-27 |  |
 | [HARLEY DAVIDSON](https://open.spotify.com/track/2gpWbtFRftigx6WSXF7eLP) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [LUCES ROJAS](https://open.spotify.com/album/3CI0ljFulRHYlDHBv4vV7O) | 3:12 | 2025-11-03 |  |
 | [HEY THERE DELILAH](https://open.spotify.com/track/7vIuBxFomeUSpcy39s23ws) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [HEY THERE DELILAH](https://open.spotify.com/album/7yb61lKZLOXeOIFbyXHrmk) | 4:04 | 2024-05-26 | 2024-07-31 |
 | [HOMBRES BIEN ARMADOS](https://open.spotify.com/track/57uhVytxox6TyjR1MvdnoR) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [TUMBADO STYLE](https://open.spotify.com/album/15v1tSjbFg63kCeN009ht7) | 2:43 | 2024-02-09 | 2024-05-24 |
@@ -100,7 +101,7 @@
 | [Las Coquette](https://open.spotify.com/track/5lSATBJW5sKxdtZoWEkOWl) | [Antonin Padilla](https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk), [Lupe Borbon y su Blindaje 7](https://open.spotify.com/artist/7gVnPBgCu1Tce8GLBvk7kl), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Las Coquette](https://open.spotify.com/album/4o9brFx9I8j4e7kS12vEqf) | 3:02 | 2025-01-19 | 2025-11-03 |
 | [LAS LOCAS](https://open.spotify.com/track/5hL5HGnYdu5jwhvphRZMpT) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [LAS LOCAS](https://open.spotify.com/album/15FgU4bKkshUdxg8oyDnuk) | 3:12 | 2025-03-02 |  |
 | [Lindos Ojitos Azules \- En Vivo](https://open.spotify.com/track/0DIij9QSiEZ9GoFz3gYeUM) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [CON LA COCHI \[VOL II \(EN VIVO\)\]](https://open.spotify.com/album/3WmaC3AjtOKrypdTmgOYqx) | 2:50 | 2025-05-25 | 2025-11-03 |
-| [Los Andares De Alfredo](https://open.spotify.com/track/2PL2WfNavyQPrihZYO84B5) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Los Migueles De Miguel Montoya](https://open.spotify.com/artist/5bNWEPILoKYKWkPbnTKHns) | [Los Andares De Alfredo](https://open.spotify.com/album/1qBgmwNHtokGyv7normIXi) | 3:01 | 2024-01-29 |  |
+| [Los Andares De Alfredo](https://open.spotify.com/track/2PL2WfNavyQPrihZYO84B5) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Los Migueles De Miguel Montoya](https://open.spotify.com/artist/5bNWEPILoKYKWkPbnTKHns) | [Los Andares De Alfredo](https://open.spotify.com/album/1qBgmwNHtokGyv7normIXi) | 3:01 | 2024-01-29 | 2025-12-27 |
 | [Los Botones Azules \- En Vivo](https://open.spotify.com/track/2NHn4MUTVUoT3K7LWP2Itb) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Con La Cochi \(En Vivo\)](https://open.spotify.com/album/2WRv6YVcIFXrhVxCLLkpDi) | 2:25 | 2024-01-29 | 2025-12-19 |
 | [LOS CHISMES](https://open.spotify.com/track/2nzLF18tyAGgwXdRzpY2sv) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [LOS CHISMES](https://open.spotify.com/album/0OCz3ZTLBSQQWixFUfx6WX) | 2:55 | 2024-06-17 | 2024-10-07 |
 | [LOS CHISMES](https://open.spotify.com/track/3VgC4wYJBteNN6wmNcssK8) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Y.T.L.S.V.](https://open.spotify.com/album/3fsZw4FkYbALKGWSsHqOcq) | 2:55 | 2024-10-26 |  |

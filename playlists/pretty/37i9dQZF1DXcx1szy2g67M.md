@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcx1szy2g67M.md) - [plain](/playlists/plain/37i9dQZF1DXcx1szy2g67M) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcx1szy2g67M)
 
-### [Winter 2025](https://open.spotify.com/playlist/37i9dQZF1DXcx1szy2g67M)
+### [Winter 2026](https://open.spotify.com/playlist/37i9dQZF1DXcx1szy2g67M)
 
-> Zó klinkt de winter van 2025!  ❄️🧣⛄️
+> Zó klinkt de winter van 2026! ❄️🧣⛄️
 
-[Spotify](https://open.spotify.com/user/spotify) - 658,372 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 658,353 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcx1szy2g67M.md) - [plain]
 | 99 | [It’s Only Love](https://open.spotify.com/track/1KmEeOA2kv2hHJyB9ot7VJ) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [It’s Only Love](https://open.spotify.com/album/7l9L7caVe7NPNhWlzC2Xee) | 3:24 |
 | 100 | [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 |
 
-Snapshot ID: `AAAAADcls+TqK//Y8y6YB4lchgKtSmU/`
+Snapshot ID: `AAAAAF8AIjbGy2CexucVA2pJJbJjjMnM`

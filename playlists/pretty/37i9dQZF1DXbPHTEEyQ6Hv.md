@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbPHTEEyQ6Hv.md) - [plain]
 
 > A calm and relaxing Christmas piano soundtrack for the Holidays
 
-[Spotify](https://open.spotify.com/user/spotify) - 759,372 likes - 98 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 759,342 likes - 98 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbPHTEEyQ6Hv.md) - [plain]
 | 97 | [Do You Want to Build A Snowman?](https://open.spotify.com/track/6s8M6j0NmquCYZy6NKjDGx) | [Figaro Castello](https://open.spotify.com/artist/5Ry3FXe5PMGIUxcADr3a4n) | [Do You Want to Build A Snowman?](https://open.spotify.com/album/6vaGiLu1MD3JcsZmkQXp6Q) | 3:06 |
 | 98 | [I'll Send You a Letter](https://open.spotify.com/track/5kRFyS1djRYnDQfIf9gZBY) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [I'll Send You a Letter](https://open.spotify.com/album/7M5nfPmJ94z1NlhlNRond9) | 2:15 |
 
-Snapshot ID: `AAAAAEKF+hvao6disYIHo378ag1Y75He`
+Snapshot ID: `AAAAAETcWNDDQzoczj4dnOx6k47Oqqks`

@@ -1,12 +1,12 @@
 {
   "description": "This is Banda MS de Sergio Liz\u00e1rraga. The essential tracks, all in one playlist.",
-  "num_followers": 1359714,
+  "num_followers": 1359712,
   "original_name": "This Is Banda MS de Sergio Liz\u00e1rraga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUstAAAAAADjZNdQekw/Npv1Ta9pyURN",
+  "snapshot_id": "aUx+gAAAAAAVuD+ulFPzx5eEyx8goQzz",
   "tracks": [
     {
       "added_at": null,
@@ -23,26 +23,6 @@
       "duration_ms": 212042,
       "name": "Mi Mayor Anhelo - REMASTERIZADO",
       "url": "https://open.spotify.com/track/3VLjIedrArb67ZJ9KxEbyP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Acto Seguido",
-        "url": "https://open.spotify.com/album/6CzhikGwMPcKThkD1TPvfs"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        },
-        {
-          "name": "Gera Demara",
-          "url": "https://open.spotify.com/artist/4XYbaR6YgnY4Nb6kz250cu"
-        }
-      ],
-      "duration_ms": 184921,
-      "name": "Acto Seguido",
-      "url": "https://open.spotify.com/track/5mh0B9psmw5MwhZLBHlPTQ"
     },
     {
       "added_at": null,
@@ -499,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Trabajo Es La Suerte",
-        "url": "https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 199800,
-      "name": "\u00bfQui\u00e9n Pierde M\u00e1s?",
-      "url": "https://open.spotify.com/track/6Yu9JjDBJzMbwfJwtVb2rH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pens\u00e9 En Ti",
         "url": "https://open.spotify.com/album/1on66Xxi4XDMhYPCpJ3Woe"
       },
@@ -527,6 +491,22 @@
       "duration_ms": 152599,
       "name": "Pens\u00e9 En Ti",
       "url": "https://open.spotify.com/track/178eS1qkX3Fg7o6yMggt9O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo Guadalajara - Monterrey (Live)",
+        "url": "https://open.spotify.com/album/5KROXqQSRCERoBjGHu5koQ"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 155973,
+      "name": "Pi\u00e9nsalo - In\u00e9dita",
+      "url": "https://open.spotify.com/track/1zsW8lKqfC2IpO6p05WMAW"
     },
     {
       "added_at": null,
@@ -547,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Guadalajara - Monterrey (Live)",
-        "url": "https://open.spotify.com/album/5KROXqQSRCERoBjGHu5koQ"
+        "name": "El Trabajo Es La Suerte",
+        "url": "https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk"
       },
       "artists": [
         {
@@ -556,9 +536,9 @@
           "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 155973,
-      "name": "Pi\u00e9nsalo - In\u00e9dita",
-      "url": "https://open.spotify.com/track/1zsW8lKqfC2IpO6p05WMAW"
+      "duration_ms": 199800,
+      "name": "\u00bfQui\u00e9n Pierde M\u00e1s?",
+      "url": "https://open.spotify.com/track/6Yu9JjDBJzMbwfJwtVb2rH"
     },
     {
       "added_at": null,
@@ -631,6 +611,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Acto Seguido",
+        "url": "https://open.spotify.com/album/6CzhikGwMPcKThkD1TPvfs"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        },
+        {
+          "name": "Gera Demara",
+          "url": "https://open.spotify.com/artist/4XYbaR6YgnY4Nb6kz250cu"
+        }
+      ],
+      "duration_ms": 184921,
+      "name": "Acto Seguido",
+      "url": "https://open.spotify.com/track/5mh0B9psmw5MwhZLBHlPTQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En Vivo Guadalajara - Monterrey (Live)",
         "url": "https://open.spotify.com/album/5KROXqQSRCERoBjGHu5koQ"
       },
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Me Pidas Perd\u00f3n",
-        "url": "https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 187880,
-      "name": "Me Gusta Tu Vieja",
-      "url": "https://open.spotify.com/track/7LSPHfVcaebR9Oo20ZyRDd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Preparaci\u00f3n",
         "url": "https://open.spotify.com/album/6SkVZ9EJpL1pQkf79qFnLF"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 168706,
       "name": "Incre\u00edble",
       "url": "https://open.spotify.com/track/240IA16ruWe9xOjPy16lJy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Me Pidas Perd\u00f3n",
+        "url": "https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 187880,
+      "name": "Me Gusta Tu Vieja",
+      "url": "https://open.spotify.com/track/7LSPHfVcaebR9Oo20ZyRDd"
     },
     {
       "added_at": null,
@@ -795,22 +795,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qu\u00e9 Maldici\u00f3n",
-        "url": "https://open.spotify.com/album/6oRHxFUQKBLocEBeWw24gb"
+        "name": "Cahuates, Pistaches",
+        "url": "https://open.spotify.com/album/6Wia37tqLhyIwKJMJdsRfy"
       },
       "artists": [
         {
           "name": "Banda MS de Sergio Liz\u00e1rraga",
           "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
         }
       ],
-      "duration_ms": 203360,
-      "name": "Qu\u00e9 Maldici\u00f3n",
-      "url": "https://open.spotify.com/track/1ovCSSWps8DWQwEDgmGiFp"
+      "duration_ms": 177053,
+      "name": "Cahuates, Pistaches",
+      "url": "https://open.spotify.com/track/4MzglbfmgFrjfmyEaoKNmD"
     },
     {
       "added_at": null,

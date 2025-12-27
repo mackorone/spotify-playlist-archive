@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Colter Wall
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,404 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,401 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,19 +43,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 33 | [Words](https://open.spotify.com/track/2Cxs2cLG7HoXfcAlw67yIy) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Double Infinity](https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK) | 3:47 |
 | 34 | [I Come With Mud](https://open.spotify.com/track/6U13ePayjjfmxzXHGGYbv5) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Equus Asinus](https://open.spotify.com/album/3DMcONcVrHi6yNLwL576GU) | 4:51 |
 | 35 | [Windy City](https://open.spotify.com/track/13dPOEUDNyvOv8iKY9bxjq) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Westward \(Deluxe\)](https://open.spotify.com/album/3DOexZdh22jhg9XeLHLG4l) | 2:30 |
-| 36 | [1800 Miles](https://open.spotify.com/track/5ZJDbPWqjiKjKZVLOV93MD) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [1800 Miles](https://open.spotify.com/album/3Q36RgnJfohKd2UA7l8Wka) | 3:27 |
-| 37 | [Human](https://open.spotify.com/track/63oBWU1UnEwk5z441Xjngq) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Returning To Myself](https://open.spotify.com/album/3e2Q0TkwIIfmWUAssLAJ8U) | 4:20 |
+| 36 | [Human](https://open.spotify.com/track/63oBWU1UnEwk5z441Xjngq) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Returning To Myself](https://open.spotify.com/album/3e2Q0TkwIIfmWUAssLAJ8U) | 4:20 |
+| 37 | [1800 Miles](https://open.spotify.com/track/5ZJDbPWqjiKjKZVLOV93MD) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [1800 Miles](https://open.spotify.com/album/3Q36RgnJfohKd2UA7l8Wka) | 3:27 |
 | 38 | [Ain't As Pretty A Blue](https://open.spotify.com/track/4dLDeBfAKzYuyEGwhTUowJ) | [Fleeland](https://open.spotify.com/artist/4Vkm5pdNrllKnkuHN5ifw4), [Frances Whitney](https://open.spotify.com/artist/5nlTKiR2DmLn3Ro0tPn58E), [Mills](https://open.spotify.com/artist/7MceGzCJ3bPNyErb440Izo) | [Ain't As Pretty A Blue](https://open.spotify.com/album/462ULrUnmVxUH6vknoGjVU) | 3:57 |
 | 39 | [Wishbone](https://open.spotify.com/track/3ZNsvorDrEVwo1ce7Eq3Q8) | [Waylon Wyatt](https://open.spotify.com/artist/6Ff2omMMZOd8FWNqb980Ol) | [Wishbone](https://open.spotify.com/album/5IOSRV5r2C8y46A5gnKJPn) | 3:04 |
 | 40 | [Lonely Mountain Town](https://open.spotify.com/track/7uY5c6QG9GCQ7NzpCsyPhA) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [Lonely Mountain Town](https://open.spotify.com/album/6UHy1xdmdN3jW7qyrY3E18) | 3:50 |
-| 41 | [Back to Me](https://open.spotify.com/track/7H0RM5zgUqKLn0ii38IIjZ) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Back to Me](https://open.spotify.com/album/551uhsdKEJRUkgdOhh3SML) | 3:01 |
-| 42 | [Drift Away](https://open.spotify.com/track/6G7jQQIOG0BQxVkqPgywag) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Drift Away](https://open.spotify.com/album/6wTQPJhjkjRO50PVp2Wa2B) | 3:25 |
+| 41 | [Drift Away](https://open.spotify.com/track/6G7jQQIOG0BQxVkqPgywag) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Drift Away](https://open.spotify.com/album/6wTQPJhjkjRO50PVp2Wa2B) | 3:25 |
+| 42 | [Back to Me](https://open.spotify.com/track/7H0RM5zgUqKLn0ii38IIjZ) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Back to Me](https://open.spotify.com/album/551uhsdKEJRUkgdOhh3SML) | 3:01 |
 | 43 | [I'm In Love with a Man](https://open.spotify.com/track/5EYpxenCIodbHiMovjb6tt) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [I'm In Love with a Man](https://open.spotify.com/album/6DBhzD6TexUCl3FSjOmSmZ) | 3:01 |
 | 44 | [Love Is A Canyon](https://open.spotify.com/track/2rSuyPz6BfCzxB13UF6hpw) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [I WANT MY LOVED ONES TO GO WITH ME \(DELUXE\)](https://open.spotify.com/album/1srzE6EPPVOfxOxPV1SoEY) | 3:48 |
 | 45 | [A Lesson In Leavin’](https://open.spotify.com/track/5Rh3GmRbXyjmH2rswVpw1A) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t), [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [A Lesson In Leavin'](https://open.spotify.com/album/3rfYnj51q8xxwyn0NFjIyu) | 3:24 |
-| 46 | [The Longer You Hold On](https://open.spotify.com/track/26wFoNT0guQlew86UV3HlD) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [The Longer You Hold On](https://open.spotify.com/album/3AhzyvefSpo0MiPsxy4MMv) | 2:52 |
-| 47 | [Heavy, Heavy Love](https://open.spotify.com/track/5Eionir5dOajqqJmmJHOWM) | [Hunter Metts](https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14) | [A Crater Wide](https://open.spotify.com/album/1oeGWPa9719wEmCR9bUHp4) | 3:10 |
-| 48 | [King of Possibilities](https://open.spotify.com/track/7BE88thoDUKbtsZvs5Kr8V) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [King of Possibilities](https://open.spotify.com/album/7H2PPJHGHlJCq2YmBG7Uy2) | 2:36 |
+| 46 | [King of Possibilities](https://open.spotify.com/track/7BE88thoDUKbtsZvs5Kr8V) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [King of Possibilities](https://open.spotify.com/album/7H2PPJHGHlJCq2YmBG7Uy2) | 2:36 |
+| 47 | [The Longer You Hold On](https://open.spotify.com/track/26wFoNT0guQlew86UV3HlD) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [The Longer You Hold On](https://open.spotify.com/album/3AhzyvefSpo0MiPsxy4MMv) | 2:52 |
+| 48 | [Heavy, Heavy Love](https://open.spotify.com/track/5Eionir5dOajqqJmmJHOWM) | [Hunter Metts](https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14) | [A Crater Wide](https://open.spotify.com/album/1oeGWPa9719wEmCR9bUHp4) | 3:10 |
 | 49 | [If There's A Heaven](https://open.spotify.com/track/7lfCazSXAmsNc1bZ3d4zwx) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [If There's A Heaven](https://open.spotify.com/album/2wztGzC37E9wJez5AMCJf3) | 5:01 |
 | 50 | [Little Things](https://open.spotify.com/track/72S6t946GxdLD2hlGhyHHQ) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Little Things](https://open.spotify.com/album/4yj8YSQdP7FABVFMxIfzSJ) | 3:29 |
 | 51 | [The Great Caucasian God](https://open.spotify.com/track/6WoT1ESQGQUFQOi9QHvE5Y) | [Jesse Welles](https://open.spotify.com/artist/366xgdzfRGQoiDRGidGlDJ) | [Devil’s Den](https://open.spotify.com/album/3ylSrdUwRK2SMt4YIdAJ5q) | 3:50 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 82 | [Elderberry Wine](https://open.spotify.com/track/1FZXwhynIW71oSoo1u20L5) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Elderberry Wine](https://open.spotify.com/album/5qKmEm0NJ4OzvvUa1cruSV) | 3:35 |
 | 83 | [Shoulda Listened](https://open.spotify.com/track/2HkU6v3xEGbkgDZiKxA6yY) | [Ken Presse](https://open.spotify.com/artist/0GAFnMAhzV7sDRxYu4AB7Z) | [Shoulda Listened](https://open.spotify.com/album/01aPbwJOqH9BWH1Bkk7fF1) | 3:10 |
 | 84 | [Burn Away](https://open.spotify.com/track/2f4e4a0ddIZ91CJ8ESjoV7) | [Cal Buckley](https://open.spotify.com/artist/18xvkpqAKICbkw8MvRecqQ) | [Burn Away](https://open.spotify.com/album/0vbjTFTkiPJSaJBeSCumJF) | 3:03 |
-| 85 | [For the First Time](https://open.spotify.com/track/2eTnZEDxXO1bZhudGX7Xw3) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [For the First Time](https://open.spotify.com/album/3bY5ENBrcf8t8G5M4sFOm3) | 3:30 |
-| 86 | [Light In a Dark Place](https://open.spotify.com/track/7gZ82MIsBnYyOxr1SOVo0P) | [Adam Wendler](https://open.spotify.com/artist/3ea4XDPCrAm68rpImApb94) | [Light In a Dark Place](https://open.spotify.com/album/63VpDpCxeifFcPwtk8qFZr) | 2:36 |
+| 85 | [Light In a Dark Place](https://open.spotify.com/track/7gZ82MIsBnYyOxr1SOVo0P) | [Adam Wendler](https://open.spotify.com/artist/3ea4XDPCrAm68rpImApb94) | [Light In a Dark Place](https://open.spotify.com/album/63VpDpCxeifFcPwtk8qFZr) | 2:36 |
+| 86 | [For the First Time](https://open.spotify.com/track/2eTnZEDxXO1bZhudGX7Xw3) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [For the First Time](https://open.spotify.com/album/3bY5ENBrcf8t8G5M4sFOm3) | 3:30 |
 | 87 | [Save Your Soul](https://open.spotify.com/track/15gS6gPyxHpG3EjaWaCXVE) | [Kathleen Edwards](https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf) | [Save Your Soul / Say Goodbye, Tell No One](https://open.spotify.com/album/33AmcfGNqeKBZvoUVkXsMJ) | 3:32 |
 | 88 | [Colorado, TX](https://open.spotify.com/track/2SGj1WdNaTwW00cz9GO1AO) | [Mah Moud](https://open.spotify.com/artist/5GrZNbHTzxnbHge9Ytafdf) | [Colorado, TX](https://open.spotify.com/album/5FXdudccssLwPECirvslKG) | 2:44 |
 | 89 | [One More Dance Around The Sun](https://open.spotify.com/track/0wlIJpKDJN3DvOSSKtSj74) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [One More Dance Around The Sun](https://open.spotify.com/album/2zfsEsAIMyUPZ7OGLZA5FS) | 4:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 99 | [Till The Morning](https://open.spotify.com/track/74ARTs57w7D0GDablsiLpk) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Till The Morning](https://open.spotify.com/album/6qECR055kFSGPndawr1byW) | 4:17 |
 | 100 | [Losing Streak](https://open.spotify.com/track/5lbQPN6UJDFMZsIt38mx8G) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Losing Streak](https://open.spotify.com/album/1qFpCXtPlOsE5F3PpC9v0h) | 4:09 |
 
-Snapshot ID: `AAAAAKTLpW/VsHIXFRk2Fhi3Hdf5JP2U`
+Snapshot ID: `AAAAAJF0x9PDB/uTGhczyp8DRa/YsD67`

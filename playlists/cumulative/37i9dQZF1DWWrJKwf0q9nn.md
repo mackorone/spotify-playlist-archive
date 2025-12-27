@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWWrJKwf0q9nn.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWWrJKwf0q9nn) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWWrJKwf0q9nn)
 
-### [New Dance 2025](https://open.spotify.com/playlist/37i9dQZF1DWWrJKwf0q9nn)
+### [New Dance 2026](https://open.spotify.com/playlist/37i9dQZF1DWWrJKwf0q9nn)
 
 > Wekelijkse update! Cover: Anyma & EJAE
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIO2QWRavWZ.md) - [plain]
 
 > New music from your favorite women\.  Cover: Qui
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,377 likes - 127 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,391 likes - 127 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIO2QWRavWZ.md) - [plain]
 | 126 | [SMH](https://open.spotify.com/track/0r4mIUyLLb3LmBfoyQfgYJ) | [Jae Stephens](https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT) | [SMH](https://open.spotify.com/album/4y8qnEMm9K0TWwOKSM5B12) | 2:47 |
 | 127 | [Company](https://open.spotify.com/track/0BPKZETsuOOHB7UHFDEGzk) | [Lizzie Berchie](https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m) | [Company](https://open.spotify.com/album/16US5VNFARXZp8J4DjPHvT) | 3:39 |
 
-Snapshot ID: `AAAAANwZS7lGn8OAeqGwNEuuzvz08V0S`
+Snapshot ID: `AAAAAKUTvLrFq/q9QFBLmPw788B0mkDU`

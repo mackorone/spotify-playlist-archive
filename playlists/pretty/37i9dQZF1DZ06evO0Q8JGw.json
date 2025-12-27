@@ -1,12 +1,12 @@
 {
   "description": "This is Pearl Jam. The essential tracks, all in one playlist.",
-  "num_followers": 796335,
+  "num_followers": 796392,
   "original_name": "This Is Pearl Jam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUstAAAAAAChUNwItbvEqQmOY2WYO9t3",
+  "snapshot_id": "aUx+gAAAAAAmB5cmM9MspYsYaUuSc9f0",
   "tracks": [
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gigaton",
-        "url": "https://open.spotify.com/album/5bTixyz2GHx1YUqNUdzfut"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 265306,
-      "name": "Dance Of The Clairvoyants",
-      "url": "https://open.spotify.com/track/58AraOVFl5hUtZuPvaOXFw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Binaural",
         "url": "https://open.spotify.com/album/1RuYprt6Qlqu286h1f4dzZ"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 306936,
       "name": "Light Years",
       "url": "https://open.spotify.com/track/1Tnixg8lMEydzmBsZzxQpR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gigaton",
+        "url": "https://open.spotify.com/album/5bTixyz2GHx1YUqNUdzfut"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 265306,
+      "name": "Dance Of The Clairvoyants",
+      "url": "https://open.spotify.com/track/58AraOVFl5hUtZuPvaOXFw"
     },
     {
       "added_at": null,

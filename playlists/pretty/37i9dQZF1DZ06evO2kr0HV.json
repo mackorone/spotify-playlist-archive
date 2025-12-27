@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUstAAAAAABGtk5H0MY/p8Llf8nYw3x7",
+  "snapshot_id": "aUx+gAAAAAD5YDWRsT0pENsu2jz6yvm9",
   "tracks": [
     {
       "added_at": null,
@@ -595,26 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cr\u00e8me Brul\u00e9e (Bilingual Version)",
-        "url": "https://open.spotify.com/album/3uIjoRjR87BnCINBObzo6h"
-      },
-      "artists": [
-        {
-          "name": "David Archuleta",
-          "url": "https://open.spotify.com/artist/2C9n4tQgNLhHPhSCmdsQnk"
-        },
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 179045,
-      "name": "Cr\u00e8me Brul\u00e9e - Bilingual Version",
-      "url": "https://open.spotify.com/track/0GxYjgg8r1ar9khGsk5YSW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Esa Parte de M\u00ed",
         "url": "https://open.spotify.com/album/1fzcF6XsOj2O9UfxJm0LZd"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 215200,
       "name": "Esa Parte de M\u00ed",
       "url": "https://open.spotify.com/track/5zE2XYc6zON8lIYgDi6ZvP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cr\u00e8me Brul\u00e9e (Bilingual Version)",
+        "url": "https://open.spotify.com/album/3uIjoRjR87BnCINBObzo6h"
+      },
+      "artists": [
+        {
+          "name": "David Archuleta",
+          "url": "https://open.spotify.com/artist/2C9n4tQgNLhHPhSCmdsQnk"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 179045,
+      "name": "Cr\u00e8me Brul\u00e9e - Bilingual Version",
+      "url": "https://open.spotify.com/track/0GxYjgg8r1ar9khGsk5YSW"
     },
     {
       "added_at": null,

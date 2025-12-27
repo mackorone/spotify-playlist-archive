@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 
 > Electrified jazz, complex rhythms and virtuosic playing\. Cover: CASIOPEA
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,603 likes - 131 songs - 12 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,626 likes - 131 songs - 12 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 | 70 | [Leimert Day](https://open.spotify.com/track/4HrR8RwNBqEUC45kYHKKaL) | [Katalyst](https://open.spotify.com/artist/4B0nwBQwFMfwa3esy6E3qM) | [Leimert Day](https://open.spotify.com/album/30LIb1TdJBCtWgkGld79rU) | 3:54 |
 | 71 | [Aslan](https://open.spotify.com/track/3zAhM2peL0ztwt20uzLC8x) | [Ilhan Ersahin](https://open.spotify.com/artist/5aweKNLI0ZyI48q5TmoCxT), [Alp Ersönmez](https://open.spotify.com/artist/2vnmgf7oe9T4gO2FACMrLH), [Turgut Alp Bekoğlu](https://open.spotify.com/artist/6HgC52zrEuMhWkWdEmqTso), [İzzet Kızıl](https://open.spotify.com/artist/1GZiLEPNYIJnGpx2gmrKEa) | [Aslan](https://open.spotify.com/album/6Ipqac2umFqtk6tp8TSLsT) | 6:18 |
 | 72 | [Sons of Creation](https://open.spotify.com/track/5496y8zaZCBQULCo2lbDxh) | [Cameron Graves](https://open.spotify.com/artist/6ivVgdQ8qi5Tu2pc1zeVKP) | [Sons of Creation](https://open.spotify.com/album/1oPoiGcCidtKk1OgRXWCdo) | 4:21 |
-| 73 | [Core](https://open.spotify.com/track/2KAoF7tEfOercmf6kwvK6k) | [Gecko&Tokage Parade](https://open.spotify.com/artist/1fTpExgFwmHdgnUPZXohFF) | [Borderline](https://open.spotify.com/album/2757IqIKvgQcKtAxzY3LKM) | 3:29 |
+| 73 | [Core](https://open.spotify.com/track/2KAoF7tEfOercmf6kwvK6k) | [cleaned](https://open.spotify.com/artist/1yp2KhukqTL1SNjjQDCNj3) | [Borderline](https://open.spotify.com/album/2757IqIKvgQcKtAxzY3LKM) | 3:29 |
 | 74 | [Silk](https://open.spotify.com/track/0iYX1Xf1jihHuZOwW6YEJ1) | [Alexei Orechin](https://open.spotify.com/artist/0hpvhki3LNILjAIhOfcKAc) | [Mirages](https://open.spotify.com/album/6QKhPgKAdOdZ19Ueqy5GMa) | 6:59 |
 | 75 | [Petrichor](https://open.spotify.com/track/3uBzQS4jsalo9o1CXYs8lw) | [St\. Barbe](https://open.spotify.com/artist/67ykMebIGuLMYDPqXo2A6v) | [Shapeless](https://open.spotify.com/album/0105AvGJRPBqCbzwk4pPzq) | 5:48 |
 | 76 | [Growing Up!](https://open.spotify.com/track/02PJJnPoA2IBc8KzfY9oGi) | [T\-SQUARE](https://open.spotify.com/artist/7BwOjwl5mKpGVIvzvqEcie) | [Growing Up!](https://open.spotify.com/album/3i45UQm0FWXa4kTRQNDvb6) | 4:20 |
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aSJooo0zWR.md) - [plain]
 | 86 | [Walk Cycle](https://open.spotify.com/track/6zX73swV0JYKmOUSBpqLSt) | [The JuJu Exchange](https://open.spotify.com/artist/2z18t1v0xbF5ehh25MMfPV) | [Walk Cycle](https://open.spotify.com/album/58uCPPl15ukrCdhukm45hi) | 3:12 |
 | 87 | [Dahaga](https://open.spotify.com/track/0KbqA51Q4NcxY1zym7VvuE) | [Erwin Gutawa](https://open.spotify.com/artist/0WlOmBhUcwcMtzJd0GLwWN) | [Dahaga](https://open.spotify.com/album/50qzgwXtfVQE1ZrqjRszsD) | 4:49 |
 | 88 | [Funkdombe \- edit](https://open.spotify.com/track/7sOEgNweXVf2N4ae7hzKMU) | [Hector Bingert](https://open.spotify.com/artist/2mKWIAGVpwrU0nOa3QF9ds), [Ruben Rada](https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb) | [Funkdombe \- edit](https://open.spotify.com/album/283Munji1hx8ykXv5sY57R) | 3:50 |
-| 89 | [close tail](https://open.spotify.com/track/6pEh6OWcqZNXrY6eHjyksA) | [POLYPLUS](https://open.spotify.com/artist/1Ck2bU2m099okvufR8pSOa), [カワイヒデヒロ](https://open.spotify.com/artist/5Omh9eZovZzTmHfnzlmMJM) | [close tail](https://open.spotify.com/album/2dAVyJIPNLM1MOS1XIuDSA) | 4:49 |
+| 89 | [close tail](https://open.spotify.com/track/6pEh6OWcqZNXrY6eHjyksA) | [cleaned](https://open.spotify.com/artist/1yp2KhukqTL1SNjjQDCNj3), [カワイヒデヒロ](https://open.spotify.com/artist/5Omh9eZovZzTmHfnzlmMJM) | [close tail](https://open.spotify.com/album/2dAVyJIPNLM1MOS1XIuDSA) | 4:49 |
 | 90 | [The Antidote Is in the Poison](https://open.spotify.com/track/01dbwXuuFNMKDCz1L3uIFz) | [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L) | [The Antidote Is in the Poison](https://open.spotify.com/album/4KDe564xkwRDSSYLnSiXZj) | 5:52 |
 | 91 | [Maiden Voyage](https://open.spotify.com/track/16Z4nsb9LKJ7nTt6Oe5R5L) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Alphonso Johnson](https://open.spotify.com/artist/2rNtnZArzMAimcRCnFrwUU), [Land Richards](https://open.spotify.com/artist/5Qd2Lq0Z0tDjL63Dh9KQ84) | [Maiden Voyage](https://open.spotify.com/album/0TpEB6HzKGBqWIYcP90O4M) | 6:41 |
 | 92 | [Fire](https://open.spotify.com/track/4Mj9FoaHul5QJZypprgGx5) | [Alina Bzhezhinska](https://open.spotify.com/artist/4ziDIu5XdfA2rQpEAvs0BN), [HipHarpCollective](https://open.spotify.com/artist/22qVoqkMA3F9iviFEx4W5e) | [Fire](https://open.spotify.com/album/2mMJtCANuKoP5vShYLnmPz) | 7:10 |

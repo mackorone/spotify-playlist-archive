@@ -1,6 +1,6 @@
 {
   "description": "Las favoritas de los patrones. Panter B\u00e9lico en portada.",
-  "num_followers": 230453,
+  "num_followers": 230575,
   "original_name": "Corridos Chakalosos",
   "owner": {
     "name": "Spotify",
@@ -303,6 +303,22 @@
     {
       "added_at": "2025-11-07 18:00:12",
       "album": {
+        "name": "DINERAL",
+        "url": "https://open.spotify.com/album/68mbDIj6DitHfWWAQnleWK"
+      },
+      "artists": [
+        {
+          "name": "Jasson Arellano",
+          "url": "https://open.spotify.com/artist/1XpGHmy23Oo4THEMSngF7v"
+        }
+      ],
+      "duration_ms": 175616,
+      "name": "DINERAL",
+      "url": "https://open.spotify.com/track/1ZwnJDPnvFBIaknqcIKMaN"
+    },
+    {
+      "added_at": "2025-11-07 18:00:12",
+      "album": {
         "name": "Rugrats",
         "url": "https://open.spotify.com/album/6DOhBzQidUt8NmzjGhUYf3"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 235875,
       "name": "Rugrats",
       "url": "https://open.spotify.com/track/5K9DHIEhqVe0S9hSkpePzg"
-    },
-    {
-      "added_at": "2025-11-07 18:00:12",
-      "album": {
-        "name": "DINERAL",
-        "url": "https://open.spotify.com/album/68mbDIj6DitHfWWAQnleWK"
-      },
-      "artists": [
-        {
-          "name": "Jasson Arellano",
-          "url": "https://open.spotify.com/artist/1XpGHmy23Oo4THEMSngF7v"
-        }
-      ],
-      "duration_ms": 175616,
-      "name": "DINERAL",
-      "url": "https://open.spotify.com/track/1ZwnJDPnvFBIaknqcIKMaN"
     },
     {
       "added_at": "2025-11-07 18:00:12",
@@ -755,22 +755,18 @@
     {
       "added_at": "2025-11-07 18:00:12",
       "album": {
-        "name": "El Sera y El Chavo (En Vivo)",
-        "url": "https://open.spotify.com/album/5puwoWcEjwpboU8sWOAI6C"
+        "name": "La Gente De Durango",
+        "url": "https://open.spotify.com/album/2DHIwHFhWk5OP97yrkTCMn"
       },
       "artists": [
         {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        },
-        {
-          "name": "Herencia De Grandes",
-          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+          "name": "Grupo Aztteca",
+          "url": "https://open.spotify.com/artist/38HFrt2a7X2wCIBJMuVuDS"
         }
       ],
-      "duration_ms": 177000,
-      "name": "El Sera y El Chavo (En Vivo)",
-      "url": "https://open.spotify.com/track/3iHjdDuhelZbJUYTKIoGEq"
+      "duration_ms": 144979,
+      "name": "La Gente De Durango",
+      "url": "https://open.spotify.com/track/5SoFa549wQYFrsj7fxyyFh"
     },
     {
       "added_at": "2025-11-07 18:00:12",
@@ -791,18 +787,22 @@
     {
       "added_at": "2025-11-07 18:00:12",
       "album": {
-        "name": "La Gente De Durango",
-        "url": "https://open.spotify.com/album/2DHIwHFhWk5OP97yrkTCMn"
+        "name": "El Sera y El Chavo (En Vivo)",
+        "url": "https://open.spotify.com/album/5puwoWcEjwpboU8sWOAI6C"
       },
       "artists": [
         {
-          "name": "Grupo Aztteca",
-          "url": "https://open.spotify.com/artist/38HFrt2a7X2wCIBJMuVuDS"
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        },
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
         }
       ],
-      "duration_ms": 144979,
-      "name": "La Gente De Durango",
-      "url": "https://open.spotify.com/track/5SoFa549wQYFrsj7fxyyFh"
+      "duration_ms": 177000,
+      "name": "El Sera y El Chavo (En Vivo)",
+      "url": "https://open.spotify.com/track/3iHjdDuhelZbJUYTKIoGEq"
     },
     {
       "added_at": "2025-11-07 18:00:12",

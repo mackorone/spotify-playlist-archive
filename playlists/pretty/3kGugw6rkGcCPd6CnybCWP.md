@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,171 likes - 64 songs - 3 hr 31 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,170 likes - 65 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,5 +72,6 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 62 | [Love Leave Your Mark on Me](https://open.spotify.com/track/6JF4J1iAfWbQzrPC24U1jm) | [Unquiet Nights](https://open.spotify.com/artist/5t9geVnj0iCBhJfdT3R2ot) | [Postcards in Real Time](https://open.spotify.com/album/3Fvr14rluzBR0ztgtUSxDx) | 3:43 |
 | 63 | [Dans](https://open.spotify.com/track/7zfgUPY8U2FnV89Rd0RcD8) | [Dapper Muis](https://open.spotify.com/artist/5d9WSo5aDwgEV0oUZZsQET) | [Dans](https://open.spotify.com/album/1Z1FIW60skgmaiPtKn9N5b) | 3:56 |
 | 64 | [Hold On Til You Let Go \(Tourist Version\)](https://open.spotify.com/track/7nkBhPsOjWRjvTGZI1DPyz) | [Michael Barrow & the Tourists](https://open.spotify.com/artist/1mhe70fSiQDyc16JVlhBUE) | [Hold On Til You Let Go](https://open.spotify.com/album/1BXaEV0oVzH4Uch6fuClSf) | 3:03 |
+| 65 | [Fingers Crossed](https://open.spotify.com/track/3vFYVPDRiQjCRJnqgzNbE6) | [Annabelle Grace](https://open.spotify.com/artist/20lr4qe8AZ4I2vuVl6NlL7) | [Fingers Crossed](https://open.spotify.com/album/3rtqRLOBd3NMTmocyqu54Q) | 3:48 |
 
-Snapshot ID: `AAAMmxWTkQ0NllZZDU5gD18i5nWKmCjX`
+Snapshot ID: `AAAMnMZHUCYOdc3gh9FStZiV1kO+jW8y`

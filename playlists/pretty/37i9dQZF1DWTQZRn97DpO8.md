@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 
 > 🍯🍯🍯\. Photo : Monsieur Nov
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,782 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,789 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 | 49 | [hollywood](https://open.spotify.com/track/64YOZYHyEXdXQABbNmTqsK) | [ronnie janaae](https://open.spotify.com/artist/241kdsyQmEvvKMOdhjM8A1) | [hollywood](https://open.spotify.com/album/02kdc97UxJ7rFLe8pOoihJ) | 2:40 |
 | 50 | [2 Options](https://open.spotify.com/track/4qUXv1dLUiVvbAn09Xb4KR) | [Joey Mata](https://open.spotify.com/artist/1j9G432vkHbVQuxMSgnszE) | [2 Options](https://open.spotify.com/album/5QGxicgtI8EbOGneOgmfCi) | 2:30 |
 
-Snapshot ID: `AAAAAJqXH4X7XvcxwgXxU1azpE3JhKK5`
+Snapshot ID: `AAAAAKk5nKUYXLUduGP5ul5IatbHcRwe`

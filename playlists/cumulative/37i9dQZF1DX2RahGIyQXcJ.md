@@ -4,7 +4,7 @@
 
 > Best of Desi Hip\-Hop! Cover: Flipperachi
 
-475 songs - 1 day 2 hr 11 min
+476 songs - 1 day 2 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,6 +208,7 @@
 | [How to Hate](https://open.spotify.com/track/3gxD26Cuw9VXdmAGLO5Ezh) | [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH), [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36) | [Insaan](https://open.spotify.com/album/5Xrj5h7GQkxcjXRWJAtNvF) | 3:25 | 2022-02-21 | 2022-04-08 |
 | [Hukam](https://open.spotify.com/track/3CslTKRGmBGgEsCUnCfn67) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Hukam](https://open.spotify.com/album/1ljKOIBhak9Howa3dSDsGF) | 3:50 | 2021-12-03 | 2023-05-26 |
 | [HUNDO](https://open.spotify.com/track/7yz7n00FMO8AUxgvBHXZab) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [HUNDO](https://open.spotify.com/album/0vJ4vgqMg9DXt6zsnXaVRN) | 2:23 | 2024-11-08 | 2024-11-23 |
+| [I Get It](https://open.spotify.com/track/52kTt0Q7wo0mAqQfYovDt1) | [REAL YMF](https://open.spotify.com/artist/6FQ4Fr52dsXBrdu1B03PRa) | [I Get It](https://open.spotify.com/album/7M7UVJKtASqNQRtl8bauAK) | 2:51 | 2025-12-26 |  |
 | [I Guess](https://open.spotify.com/track/0OxG3hlJNNzXcSrNVXEu8f) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [I Guess](https://open.spotify.com/album/7eDGcL0rxILbzih7x51fMk) | 3:06 | 2024-01-05 |  |
 | [I'M JUST A WOMAN FORREAL](https://open.spotify.com/track/67YKyDXxXYTh1nKJiKT9Uo) | [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14) | [I'M JUST A WOMAN FORREAL](https://open.spotify.com/album/6zPaAMjj5t6DCDOt9dJIOw) | 3:09 | 2025-07-25 | 2025-08-30 |
 | [Icon](https://open.spotify.com/track/5xxJVfoIR2FEkgZmCgtn0U) | [Shah Rule](https://open.spotify.com/artist/0GG56bFqGJ0zGjkOx7NTwm) | [Icon](https://open.spotify.com/album/3BkxgZiVPDqOqsYMk4ZgCo) | 3:16 | 2025-11-14 | 2025-12-06 |
@@ -411,7 +412,7 @@
 | [Sifar Safar](https://open.spotify.com/track/3lQPwCmD918SyoiIkw1zqx) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Sifar Safar](https://open.spotify.com/album/3QNOBqIMylNpZXZ8OtFoC2) | 3:00 | 2024-10-21 | 2025-05-24 |
 | [SILENCE](https://open.spotify.com/track/3Phlh6RTAyyFHy7cjkoTSK) | [YUNG SAMMY](https://open.spotify.com/artist/3N1efxORHI0hvpUGNr0QpW), [Wamp](https://open.spotify.com/artist/6zpUQnCceOC1hkBQWLrZKk) | [SILENCE](https://open.spotify.com/album/4TQKcToj98khhRJdzBTRei) | 1:52 | 2025-09-12 |  |
 | [Sitara](https://open.spotify.com/track/3j796EeLMLBqwlzwufeS7c) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Gunehgar](https://open.spotify.com/album/6KO9jY3EEIpWFOfDXSOifs) | 2:59 | 2024-08-09 | 2025-02-08 |
-| [Slick Rick](https://open.spotify.com/track/42U5J1FHr0pTOWIqUw4PtQ) | [Yelhomie](https://open.spotify.com/artist/3KdTZY35jd30GyLTpOdj7A) | [Slick Rick](https://open.spotify.com/album/3XNNTavfxeF2mp3UOm2nna) | 3:30 | 2025-12-05 |  |
+| [Slick Rick](https://open.spotify.com/track/42U5J1FHr0pTOWIqUw4PtQ) | [Yelhomie](https://open.spotify.com/artist/3KdTZY35jd30GyLTpOdj7A) | [Slick Rick](https://open.spotify.com/album/3XNNTavfxeF2mp3UOm2nna) | 3:30 | 2025-12-05 | 2025-12-27 |
 | [smile](https://open.spotify.com/track/7yHoWylfxxYpOYkeWT0IqD) | [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci) | [ghosts, and goodbyes](https://open.spotify.com/album/13HPCeCDTiQP4oljsHNygo) | 3:48 | 2024-11-07 | 2025-08-30 |
 | [Snake](https://open.spotify.com/track/0MYof8K1RPjc1Htnr7CDa6) | [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH) | [Snake](https://open.spotify.com/album/6We7h51iTPzUEF03P8RVNd) | 4:41 | 2024-06-28 | 2024-08-10 |
 | [STFU](https://open.spotify.com/track/1JioaCninhpfY1filFEIZi) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh) | [OKAY STFU](https://open.spotify.com/album/3ga4cpxM6htVEMHBnzxqpF) | 2:54 | 2025-05-23 |  |

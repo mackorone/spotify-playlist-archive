@@ -1,12 +1,12 @@
 {
   "description": "This is U2. The essential tracks, all in one playlist.",
-  "num_followers": 1258691,
+  "num_followers": 1258756,
   "original_name": "This Is U2",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUstAAAAAABg4PHyQuX1vJe1i8NoupiH",
+  "snapshot_id": "aUx+gAAAAAC9y7EKAWAS4pkYDY7gx96V",
   "tracks": [
     {
       "added_at": null,
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boy (Deluxe Edition Remastered)",
-        "url": "https://open.spotify.com/album/4YCjEFs1aDmcilTMbqMwjY"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 217386,
-      "name": "I Will Follow - Remastered 2008",
-      "url": "https://open.spotify.com/track/0T702y9ndzZTnPq1bqiAM2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Take Me To The Clouds Above (LMC Vs. U2 / Remixes)",
         "url": "https://open.spotify.com/album/2jOxjU5Mw0eIKQIFohnghC"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 171546,
       "name": "Take Me To The Clouds Above - LMC Vs. U2 / Radio Edit",
       "url": "https://open.spotify.com/track/4zrl5YGi2OqMar45Kdn4BM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boy (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/4YCjEFs1aDmcilTMbqMwjY"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 217386,
+      "name": "I Will Follow - Remastered 2008",
+      "url": "https://open.spotify.com/track/0T702y9ndzZTnPq1bqiAM2"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Achtung Baby (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 221373,
-      "name": "Even Better Than The Real Thing",
-      "url": "https://open.spotify.com/track/4bK2vKMdkS0rNhbzRqAZe0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Line On The Horizon",
         "url": "https://open.spotify.com/album/5yqMA7IvahYJc53ewRAMnP"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 324013,
       "name": "Magnificent",
       "url": "https://open.spotify.com/track/6u38x61qv7JBIJD4dqztmm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Achtung Baby (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 221373,
+      "name": "Even Better Than The Real Thing",
+      "url": "https://open.spotify.com/track/4bK2vKMdkS0rNhbzRqAZe0"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Achtung Baby (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 278480,
-      "name": "Until The End Of The World",
-      "url": "https://open.spotify.com/track/4iiX7axMHcc76BGM0QJEY5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Best Of 1990-2000",
         "url": "https://open.spotify.com/album/5I099NUhbRrXaxnxQagElv"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 284600,
       "name": "Hold Me, Thrill Me, Kiss Me, Kill Me - From 'Batman Forever'",
       "url": "https://open.spotify.com/track/5TsHqbDKaSs4ECZX0045YS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Achtung Baby (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 278480,
+      "name": "Until The End Of The World",
+      "url": "https://open.spotify.com/track/4iiX7axMHcc76BGM0QJEY5"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Achtung Baby (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 349213,
-      "name": "So Cruel",
-      "url": "https://open.spotify.com/track/3TPFVnDjojd7fsvLAizX0H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "How To Dismantle An Atomic Bomb",
         "url": "https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 274120,
       "name": "Original Of The Species",
       "url": "https://open.spotify.com/track/6ml01NkC9AfM4OICOtRxEY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Achtung Baby (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 349213,
+      "name": "So Cruel",
+      "url": "https://open.spotify.com/track/3TPFVnDjojd7fsvLAizX0H"
     },
     {
       "added_at": null,
@@ -799,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Atomic City",
-        "url": "https://open.spotify.com/album/5ghPJVqhDvidfznC4O7tW3"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 210842,
-      "name": "Atomic City",
-      "url": "https://open.spotify.com/track/0Zp4PR3jLHfxcXdBdRLh7M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pop",
         "url": "https://open.spotify.com/album/5mojJwWgWNJcY3odUGgQc3"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 318666,
       "name": "Discotheque",
       "url": "https://open.spotify.com/track/3IrhUrZKAkJ8LsFtH71fOT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Atomic City",
+        "url": "https://open.spotify.com/album/5ghPJVqhDvidfznC4O7tW3"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 210842,
+      "name": "Atomic City",
+      "url": "https://open.spotify.com/track/0Zp4PR3jLHfxcXdBdRLh7M"
     }
   ],
   "unique_name": "This Is U2",

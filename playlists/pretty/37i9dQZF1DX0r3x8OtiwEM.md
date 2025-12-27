@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 
 > Chill techno, melodic house and tech house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,049,746 likes - 60 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,049,816 likes - 60 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 29 | [Eyes On Me](https://open.spotify.com/track/3pXKGIgJ9tLCDIplmLdGHj) | [Nicole Moudaber](https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Eyes On Me](https://open.spotify.com/album/3fZj8YWdyRjx5Zuk79BhRU) | 3:38 |
 | 30 | [Never Alone](https://open.spotify.com/track/4J1QJwbFiinUpUvsXdagBh) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Yubik](https://open.spotify.com/artist/4rQiYfSqmicW55TlG6vjK7), [Vincent Vossen](https://open.spotify.com/artist/50SCzzclPLasHTR2YuLJA7) | [Never Alone](https://open.spotify.com/album/1JFKwBhIzMth2fmrq5qwSW) | 3:39 |
 | 31 | [EYES](https://open.spotify.com/track/4ipoHe6bjN9IeXr8CGJYgR) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [EYES](https://open.spotify.com/album/3Q5Eggq49qEGPF4ag1e0fO) | 3:32 |
-| 32 | [Dangerous](https://open.spotify.com/track/3YRFFwV0OtH5pWJYvNS8yV) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5), [Alika](https://open.spotify.com/artist/1U3n3wACHLjc8sS1obMEuf) | [Dangerous](https://open.spotify.com/album/5rbT9aLdysEsXZnLapWUNF) | 3:51 |
-| 33 | [You Gonna Want Me \(I Know\)](https://open.spotify.com/track/0jXDwNszuI3K2xs5ShoE18) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [You Gonna Want Me \(I Know\)](https://open.spotify.com/album/0NWejE4qcU16cqia7YSWaN) | 3:12 |
+| 32 | [You Gonna Want Me \(I Know\)](https://open.spotify.com/track/0jXDwNszuI3K2xs5ShoE18) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [You Gonna Want Me \(I Know\)](https://open.spotify.com/album/0NWejE4qcU16cqia7YSWaN) | 3:12 |
+| 33 | [Dangerous](https://open.spotify.com/track/3YRFFwV0OtH5pWJYvNS8yV) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5), [Alika](https://open.spotify.com/artist/1U3n3wACHLjc8sS1obMEuf) | [Dangerous](https://open.spotify.com/album/5rbT9aLdysEsXZnLapWUNF) | 3:51 |
 | 34 | [Hiding](https://open.spotify.com/track/3kFnwZHnMMNeO2YpOZyZVw) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Hiding](https://open.spotify.com/album/0bmziZNLLEcA5Av2v3DgHx) | 3:42 |
 | 35 | [Ride](https://open.spotify.com/track/2DimMk00BsDm19bbxTzY03) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo) | [Petrichor](https://open.spotify.com/album/2lti3xxEJ9Yta59kUAq0Eg) | 3:46 |
 | 36 | [Subterranean](https://open.spotify.com/track/1e21WWJUeqFhZhDuakGkdd) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR), [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS), [LUNA](https://open.spotify.com/artist/0AZgkXW6n0zfyOhVAnIopA) | [Subterranean](https://open.spotify.com/album/6cw5camBc9Lf9t4BS5NEDn) | 3:30 |

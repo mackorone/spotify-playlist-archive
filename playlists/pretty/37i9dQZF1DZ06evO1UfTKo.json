@@ -1,29 +1,13 @@
 {
   "description": "This is Los Tigres Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 761713,
+  "num_followers": 761782,
   "original_name": "This Is Los Tigres Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUstAAAAAADWhEi3bgUgQbdo4hUBDkGZ",
+  "snapshot_id": "aUx+gAAAAABIYnJV33Y+st77oByO+PKk",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Herencia De Familia",
-        "url": "https://open.spotify.com/album/4C43fkuo6G7FdEm6xhq8cV"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 188160,
-      "name": "Prisi\u00f3n De Amor",
-      "url": "https://open.spotify.com/track/3Lpg4XUPBhscufuiSCNd30"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 158440,
       "name": "Ni Parientes Somos",
       "url": "https://open.spotify.com/track/2ANeBRTHe6N0dq7dz7CaVJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Herencia De Familia",
+        "url": "https://open.spotify.com/album/4C43fkuo6G7FdEm6xhq8cV"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 188160,
+      "name": "Prisi\u00f3n De Amor",
+      "url": "https://open.spotify.com/track/3Lpg4XUPBhscufuiSCNd30"
     },
     {
       "added_at": null,
@@ -59,22 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Directo Al Corazon",
-        "url": "https://open.spotify.com/album/5U0b7CBxQ6n6KDKseRGmGN"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 206186,
-      "name": "Directo Al Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/325noBSyeuRHcIzHO6s3ks"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Dos Plebes",
         "url": "https://open.spotify.com/album/2cIEIezxCUx2ifez04CwCK"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 203733,
       "name": "La Mesa Del Rinc\u00f3n",
       "url": "https://open.spotify.com/track/1FrXO0TFnw6g0ygHxhiZ3p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Directo Al Corazon",
+        "url": "https://open.spotify.com/album/5U0b7CBxQ6n6KDKseRGmGN"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 206186,
+      "name": "Directo Al Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/325noBSyeuRHcIzHO6s3ks"
     },
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Garra De...",
-        "url": "https://open.spotify.com/album/36X48S9LwuT4hOF9igko7Y"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 166226,
-      "name": "Tumba Falsa",
-      "url": "https://open.spotify.com/track/4sGWDW0VBuCcQnh8pC3ABK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gracias America Sin Fronteras",
         "url": "https://open.spotify.com/album/53JJBD8NXpO3X2p6TgyTMd"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 203586,
       "name": "La Puerta Negra",
       "url": "https://open.spotify.com/track/5TueyPDnDMPSRdQd7VYooI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Garra De...",
+        "url": "https://open.spotify.com/album/36X48S9LwuT4hOF9igko7Y"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 166226,
+      "name": "Tumba Falsa",
+      "url": "https://open.spotify.com/track/4sGWDW0VBuCcQnh8pC3ABK"
     },
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Buena Suerte",
-        "url": "https://open.spotify.com/album/3Ucu7Yp0cBJvikdVn5qsUA"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 242026,
-      "name": "El Avi\u00f3n De La Muerte",
-      "url": "https://open.spotify.com/track/088gbyPjGW9bF5Gf8hWKMA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Internacionalmente Norte\u00f1os",
         "url": "https://open.spotify.com/album/7fhwdWmGl8rR2iVE6ivY42"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 172226,
       "name": "Carta Abierta",
       "url": "https://open.spotify.com/track/11gSQLPiqjikM2Dyg0EdUZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Buena Suerte",
+        "url": "https://open.spotify.com/album/3Ucu7Yp0cBJvikdVn5qsUA"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 242026,
+      "name": "El Avi\u00f3n De La Muerte",
+      "url": "https://open.spotify.com/track/088gbyPjGW9bF5Gf8hWKMA"
     },
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Herencia De Familia",
-        "url": "https://open.spotify.com/album/4C43fkuo6G7FdEm6xhq8cV"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 240226,
-      "name": "L\u00e1grimas (L\u00e1grimas Del Coraz\u00f3n)",
-      "url": "https://open.spotify.com/track/23e2dSwQiAAOkV2KfjuIFj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Herencia Musical 20 Corridos Inolvidables",
         "url": "https://open.spotify.com/album/5HHesQPquZcoecO60eTNBT"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 213093,
       "name": "Jefe De Jefes",
       "url": "https://open.spotify.com/track/3TxGNwiGxgE42MqqWAdmDg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Herencia De Familia",
+        "url": "https://open.spotify.com/album/4C43fkuo6G7FdEm6xhq8cV"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 240226,
+      "name": "L\u00e1grimas (L\u00e1grimas Del Coraz\u00f3n)",
+      "url": "https://open.spotify.com/track/23e2dSwQiAAOkV2KfjuIFj"
     },
     {
       "added_at": null,
@@ -631,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unidos Para Siempre",
-        "url": "https://open.spotify.com/album/1ijDZGR3S97X5vFpQce9iy"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 194133,
-      "name": "Unidos Para Siempre",
-      "url": "https://open.spotify.com/track/5QvJgyPxDHf8V2khZ0jTNJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Tahur",
         "url": "https://open.spotify.com/album/1FAPxcTXS6hsQGJn9rdOOo"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 229946,
       "name": "Los Tres Amigos",
       "url": "https://open.spotify.com/track/4FEOYMrH9bOzoOrnWFGvjf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unidos Para Siempre",
+        "url": "https://open.spotify.com/album/1ijDZGR3S97X5vFpQce9iy"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 194133,
+      "name": "Unidos Para Siempre",
+      "url": "https://open.spotify.com/track/5QvJgyPxDHf8V2khZ0jTNJ"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unidos Para Siempre",
-        "url": "https://open.spotify.com/album/1ijDZGR3S97X5vFpQce9iy"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 181306,
-      "name": "Mi Sangre Prisionera",
-      "url": "https://open.spotify.com/track/1RLAPRIMWznZAvpdc6Qna5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Incansables",
         "url": "https://open.spotify.com/album/6V9J3vERD2KrRZmWQ1dHAS"
       },
@@ -727,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Reina Del Sur",
-        "url": "https://open.spotify.com/album/3P4hm57jwhpDaO7WZI2RsC"
+        "name": "Unidos Para Siempre",
+        "url": "https://open.spotify.com/album/1ijDZGR3S97X5vFpQce9iy"
       },
       "artists": [
         {
@@ -736,9 +720,25 @@
           "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
         }
       ],
-      "duration_ms": 243666,
-      "name": "La Reina Del Sur",
-      "url": "https://open.spotify.com/track/160gAhKZb7sGKlLwUUk8IX"
+      "duration_ms": 181306,
+      "name": "Mi Sangre Prisionera",
+      "url": "https://open.spotify.com/track/1RLAPRIMWznZAvpdc6Qna5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Carrera Contra La Muerte",
+        "url": "https://open.spotify.com/album/3HuwrordHAx7aZdCWPDVa9"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 180746,
+      "name": "Carrera Contra La Muerte",
+      "url": "https://open.spotify.com/track/1dmY2QhXlWuRsgQq19f23e"
     },
     {
       "added_at": null,
@@ -759,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Reina Del Sur",
+        "url": "https://open.spotify.com/album/3P4hm57jwhpDaO7WZI2RsC"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 243666,
+      "name": "La Reina Del Sur",
+      "url": "https://open.spotify.com/track/160gAhKZb7sGKlLwUUk8IX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Realidades",
         "url": "https://open.spotify.com/album/63Nbjb3cTqZVBuAHVOx411"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 197133,
       "name": "La Bala",
       "url": "https://open.spotify.com/track/50H4ZUUhL8MLHCw1eREp07"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Carrera Contra La Muerte",
-        "url": "https://open.spotify.com/album/3HuwrordHAx7aZdCWPDVa9"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 180746,
-      "name": "Carrera Contra La Muerte",
-      "url": "https://open.spotify.com/track/1dmY2QhXlWuRsgQq19f23e"
     },
     {
       "added_at": null,
@@ -823,22 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Historias Que Contar",
-        "url": "https://open.spotify.com/album/6oLY9WsQmRAMfA4ru3ganP"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 205506,
-      "name": "Le Compr\u00e9 La Muerte A Mi Hijo",
-      "url": "https://open.spotify.com/track/246ZcQ4VJJI3i2WNfzpQEp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Contrabando Y Traicion",
         "url": "https://open.spotify.com/album/380Fi3mpLOmJAQYiZx22Y3"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 221026,
       "name": "La Mesera",
       "url": "https://open.spotify.com/track/3nbpeJzRTTL6D87fcXBcZs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Historias Que Contar",
+        "url": "https://open.spotify.com/album/6oLY9WsQmRAMfA4ru3ganP"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 205506,
+      "name": "Le Compr\u00e9 La Muerte A Mi Hijo",
+      "url": "https://open.spotify.com/track/246ZcQ4VJJI3i2WNfzpQEp"
     },
     {
       "added_at": null,

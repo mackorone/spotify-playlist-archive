@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 26 Dec 04:04 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 26 Dec 09:04 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -13046,7 +13046,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-27",
       "duration_ms": 158832,
       "name": "BODY THE PISTOL",
       "url": "https://open.spotify.com/track/6vIJIAUr2OplD5uYavcfzB"
@@ -41960,7 +41960,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-27",
       "duration_ms": 179830,
       "name": "HARD2TELL",
       "url": "https://open.spotify.com/track/4hOjT0UtqEMGbAEukb84zR"
@@ -88295,6 +88295,24 @@
     },
     {
       "album": {
+        "name": "Some People Eat Flowers out of Earnest Intent to Bring Heaven",
+        "url": "https://open.spotify.com/album/57DNWvNz66hUt12hxQKgzm"
+      },
+      "artists": [
+        {
+          "name": "Joe Hawley",
+          "url": "https://open.spotify.com/artist/2gkoczXRNRDUmfEdvr7CWm"
+        }
+      ],
+      "date_added": "2025-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260837,
+      "name": "Some People Eat Flowers out of Earnest Intent to Bring Heaven",
+      "url": "https://open.spotify.com/track/3crq1GPTJikqUBKCPpArPv"
+    },
+    {
+      "album": {
         "name": "Some Type Of Skin (Acoustic)",
         "url": "https://open.spotify.com/album/19jiJygNvv9TwWLjIc7xNr"
       },
@@ -110890,6 +110908,24 @@
       "duration_ms": 215000,
       "name": "Yes I Can",
       "url": "https://open.spotify.com/track/1VCFeIlAO2NeVL3zjxgjc6"
+    },
+    {
+      "album": {
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/19eoX2kxUm5dIbUymagNMF"
+      },
+      "artists": [
+        {
+          "name": "Fimiguerrero",
+          "url": "https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du"
+        }
+      ],
+      "date_added": "2025-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192513,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/1UL13ugmjz3HSbkN4d8nm2"
     },
     {
       "album": {

@@ -5275,6 +5275,24 @@
     },
     {
       "album": {
+        "name": "VICE VERSA",
+        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2025-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295038,
+      "name": "Aquel Nap ZzZz",
+      "url": "https://open.spotify.com/track/5bQLsyTrUaMQRfr6whwGe5"
+    },
+    {
+      "album": {
         "name": "Aqui Estoy Yo",
         "url": "https://open.spotify.com/album/6haItNoRjiMUrBEmmu5Lnl"
       },
@@ -13378,7 +13396,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-27",
       "duration_ms": 188059,
       "name": "CHANEL",
       "url": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
@@ -34856,6 +34874,24 @@
       "duration_ms": 416071,
       "name": "Inferno",
       "url": "https://open.spotify.com/track/2ETQwLrANRZgSANB5vS8ks"
+    },
+    {
+      "album": {
+        "name": "Inquebrantable",
+        "url": "https://open.spotify.com/album/1fXx1SqRRxIHJTRFqlhx06"
+      },
+      "artists": [
+        {
+          "name": "Gandhi",
+          "url": "https://open.spotify.com/artist/31CkJVAc0cWxVDe8wrUJgE"
+        }
+      ],
+      "date_added": "2025-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322118,
+      "name": "Inquebrantable",
+      "url": "https://open.spotify.com/track/6M9IVgObbenPHvGOozPcQS"
     },
     {
       "album": {
@@ -66984,7 +67020,7 @@
       ],
       "date_added": "2025-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-27",
       "duration_ms": 156336,
       "name": "Solo Tu",
       "url": "https://open.spotify.com/track/1CTbS8wlzbleVEJyKASFcp"
@@ -74620,7 +74656,7 @@
       ],
       "date_added": "2025-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-27",
       "duration_ms": 156130,
       "name": "Tu Nombre Saprissa",
       "url": "https://open.spotify.com/track/1kuHjJczrreTfvc2CGt209"
@@ -82444,7 +82480,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-25",
+      "date_removed": null,
       "duration_ms": 190822,
       "name": "Zoo",
       "url": "https://open.spotify.com/track/3vJIaiTIHxHhYafTSPNiH4"

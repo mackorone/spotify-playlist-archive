@@ -1,6 +1,6 @@
 {
   "description": "Soft and cozy acoustic covers of famous songs.",
-  "num_followers": 2439034,
+  "num_followers": 2439014,
   "original_name": "Chill Acoustic Covers",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2025-12-19 08:03:17",
       "album": {
-        "name": "Somebody That I Used To Know",
-        "url": "https://open.spotify.com/album/2MBa7MBL9N5fACqj1KXmpl"
-      },
-      "artists": [
-        {
-          "name": "L\u00fac",
-          "url": "https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX"
-        }
-      ],
-      "duration_ms": 172454,
-      "name": "Somebody That I Used To Know",
-      "url": "https://open.spotify.com/track/0Bb9oRoN3suM9iiIwzHtmX"
-    },
-    {
-      "added_at": "2025-12-19 08:03:17",
-      "album": {
         "name": "BLACKBIRD",
         "url": "https://open.spotify.com/album/2Zm5k1FWYAyl1AdjWy0vsW"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 128009,
       "name": "BLACKBIRD",
       "url": "https://open.spotify.com/track/332d9YxpG0xw4TKu6PwDCr"
+    },
+    {
+      "added_at": "2025-12-19 08:03:17",
+      "album": {
+        "name": "Somebody That I Used To Know",
+        "url": "https://open.spotify.com/album/2MBa7MBL9N5fACqj1KXmpl"
+      },
+      "artists": [
+        {
+          "name": "L\u00fac",
+          "url": "https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX"
+        }
+      ],
+      "duration_ms": 172454,
+      "name": "Somebody That I Used To Know",
+      "url": "https://open.spotify.com/track/0Bb9oRoN3suM9iiIwzHtmX"
     },
     {
       "added_at": "2025-12-19 08:03:17",
@@ -651,22 +651,6 @@
     {
       "added_at": "2025-12-19 08:03:17",
       "album": {
-        "name": "Call Me Maybe - Acoustic",
-        "url": "https://open.spotify.com/album/1iOPpvvfeNAslLpKHjw9Vr"
-      },
-      "artists": [
-        {
-          "name": "Scottie",
-          "url": "https://open.spotify.com/artist/5LPJmnBnq8R8c5qG3B7K2K"
-        }
-      ],
-      "duration_ms": 210473,
-      "name": "Call Me Maybe - Acoustic",
-      "url": "https://open.spotify.com/track/1CSi4vh5zKb3bN2FtXHa8O"
-    },
-    {
-      "added_at": "2025-12-19 08:03:17",
-      "album": {
         "name": "Never Gonna Give You Up - Acoustic",
         "url": "https://open.spotify.com/album/6O1nvjo9R2hSmby3AJyVrd"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 217848,
       "name": "Never Gonna Give You Up - Acoustic",
       "url": "https://open.spotify.com/track/2e53BiRUze4PQ8PfLGqWrD"
+    },
+    {
+      "added_at": "2025-12-19 08:03:17",
+      "album": {
+        "name": "Call Me Maybe - Acoustic",
+        "url": "https://open.spotify.com/album/1iOPpvvfeNAslLpKHjw9Vr"
+      },
+      "artists": [
+        {
+          "name": "Scottie",
+          "url": "https://open.spotify.com/artist/5LPJmnBnq8R8c5qG3B7K2K"
+        }
+      ],
+      "duration_ms": 210473,
+      "name": "Call Me Maybe - Acoustic",
+      "url": "https://open.spotify.com/track/1CSi4vh5zKb3bN2FtXHa8O"
     },
     {
       "added_at": "2025-12-19 08:03:17",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2025-12-19 08:03:17",
       "album": {
-        "name": "Behind Blue Eyes",
-        "url": "https://open.spotify.com/album/7yHOE5W3lfTf3c2K8gorFm"
-      },
-      "artists": [
-        {
-          "name": "Brassfield",
-          "url": "https://open.spotify.com/artist/4VWdngsndsvJd348vi76I0"
-        }
-      ],
-      "duration_ms": 164210,
-      "name": "Behind Blue Eyes",
-      "url": "https://open.spotify.com/track/4bjwOaC6YzQAnbSNaWTJ7a"
-    },
-    {
-      "added_at": "2025-12-19 08:03:17",
-      "album": {
         "name": "Back to Black",
         "url": "https://open.spotify.com/album/0DdRnqnWtdfkdvHHSEbBj9"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 183674,
       "name": "Back to Black",
       "url": "https://open.spotify.com/track/0rXY3tl4TSgF2iBKCeX9qi"
+    },
+    {
+      "added_at": "2025-12-19 08:03:17",
+      "album": {
+        "name": "Behind Blue Eyes",
+        "url": "https://open.spotify.com/album/7yHOE5W3lfTf3c2K8gorFm"
+      },
+      "artists": [
+        {
+          "name": "Brassfield",
+          "url": "https://open.spotify.com/artist/4VWdngsndsvJd348vi76I0"
+        }
+      ],
+      "duration_ms": 164210,
+      "name": "Behind Blue Eyes",
+      "url": "https://open.spotify.com/track/4bjwOaC6YzQAnbSNaWTJ7a"
     },
     {
       "added_at": "2025-12-19 08:03:17",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2025-12-19 08:03:17",
       "album": {
-        "name": "Anyone",
-        "url": "https://open.spotify.com/album/2cPbdPF0OhQXxL6PFbXbxg"
-      },
-      "artists": [
-        {
-          "name": "Reason",
-          "url": "https://open.spotify.com/artist/1afLcYZN3PBlA09Bw2P6e6"
-        }
-      ],
-      "duration_ms": 188863,
-      "name": "Anyone",
-      "url": "https://open.spotify.com/track/3SbLU4hAQHmdvHFDMVhAf9"
-    },
-    {
-      "added_at": "2025-12-19 08:03:17",
-      "album": {
         "name": "Espresso",
         "url": "https://open.spotify.com/album/7eeKnwM9d6vsRL8F8dcqkS"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 160754,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/68apIR6lcIdGZ50KWTfeO6"
+    },
+    {
+      "added_at": "2025-12-19 08:03:17",
+      "album": {
+        "name": "Anyone",
+        "url": "https://open.spotify.com/album/2cPbdPF0OhQXxL6PFbXbxg"
+      },
+      "artists": [
+        {
+          "name": "Reason",
+          "url": "https://open.spotify.com/artist/1afLcYZN3PBlA09Bw2P6e6"
+        }
+      ],
+      "duration_ms": 188863,
+      "name": "Anyone",
+      "url": "https://open.spotify.com/track/3SbLU4hAQHmdvHFDMVhAf9"
     },
     {
       "added_at": "2025-12-19 08:03:17",

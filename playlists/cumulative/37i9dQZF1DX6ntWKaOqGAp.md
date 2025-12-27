@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: muque
 
-2,822 songs - 7 day 8 hr 11 min
+2,823 songs - 7 day 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1625,6 +1625,7 @@
 | [どうかしてる](https://open.spotify.com/track/1N7SNqZRZsQzwJNtq2lV6O) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [どうかしてる](https://open.spotify.com/album/3Homeh5wwwJBteBjRAqGQI) | 2:30 | 2025-07-10 | 2025-10-22 |
 | [どうかしてるって](https://open.spotify.com/track/3DRh82JumTlvdyq7UalqSk) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [どうかしてるって](https://open.spotify.com/album/3RdrrquMDyR83u1WYOyF2F) | 3:40 | 2025-02-04 | 2025-03-05 |
 | [どうして](https://open.spotify.com/track/12bcROya6wVF9SIANw7zBr) | [GOKUMON\(UchikubiGokumonDoukoukai\)](https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG) | [どうして](https://open.spotify.com/album/5O8klTl6CAVZdZ5Erc8dI0) | 3:49 | 2024-07-09 | 2024-07-24 |
+| [どうしてもどうしても](https://open.spotify.com/track/6hlYmR30RGaHIz4UlVOG2U) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [どうしてもどうしても](https://open.spotify.com/album/1FrDTcNmbqprRXn9s9kk8Y) | 3:46 | 2025-12-26 |  |
 | [どうにもならんわ](https://open.spotify.com/track/0ZHShit8c40nUNIvY4CogW) | [moon drop](https://open.spotify.com/artist/1fqzuhLXIimUwLTU6HzBse) | [どうにもならんわ](https://open.spotify.com/album/0SIeMrzT2O6KyRCojsHPnw) | 3:39 | 2023-10-03 | 2023-10-05 |
 | [どぎまぎ](https://open.spotify.com/track/27wRgdpVu61YL1LJq5H6dZ) | [Monthly Mu & New Caledonia](https://open.spotify.com/artist/57KdMq2pCCdMjConSyzDsN) | [Branch](https://open.spotify.com/album/6Slv8BDdb7322gk9MghxHb) | 3:35 | 2023-01-13 | 2023-02-10 |
 | [なんてったっけタイトル](https://open.spotify.com/track/20rrZeWHRaGY8iGx4WDJgU) | [少年キッズボウイ](https://open.spotify.com/artist/4KYktd3fg1vqZbi5R7Eoa5) | [なんてったっけタイトル](https://open.spotify.com/album/3I2d15qzktWcG6itZBZPuE) | 2:45 | 2023-06-27 | 2023-07-26 |
@@ -1805,7 +1806,7 @@
 | [クラシックハイ](https://open.spotify.com/track/16JaSG5xDmwHczSCNdHMO9) | [Genie High](https://open.spotify.com/artist/1NdpjvRYsY6cwAVX9YWzAB) | [ジェニークラシック](https://open.spotify.com/album/3aE28znA0tYGoqxLwzaWxl) | 4:13 | 2023-06-27 | 2023-08-18 |
 | [クラッシュ](https://open.spotify.com/track/52bUzd6abRXpGBt9a3Gxc9) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK), [なとり](https://open.spotify.com/artist/3lagKxU3X84fGgnH9gekjy) | [デジタル・ラブ](https://open.spotify.com/album/4BMR0iTGRG76xRmH6K1QmG) | 2:16 | 2025-11-25 |  |
 | [クランベリージャムをかけて](https://open.spotify.com/track/49vr4m19sPkH12IKTauEUz) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [クランベリージャムをかけて](https://open.spotify.com/album/3bj22dhfeDss7WCzPYlVHI) | 2:47 | 2023-07-25 | 2023-09-13 |
-| [クリスマスソング](https://open.spotify.com/track/5P8ZvBQoCrujjNcLAxO3Su) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [シャンデリア](https://open.spotify.com/album/6TrqbAJxtGl4HWK5SUbFLT) | 5:40 | 2025-12-15 |  |
+| [クリスマスソング](https://open.spotify.com/track/5P8ZvBQoCrujjNcLAxO3Su) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [シャンデリア](https://open.spotify.com/album/6TrqbAJxtGl4HWK5SUbFLT) | 5:40 | 2025-12-15 | 2025-12-27 |
 | [クリームソーダ](https://open.spotify.com/track/1j58n5vsSxrHnmusrfxeqz) | [Oisicle Melonpan](https://open.spotify.com/artist/7v7AOgHT3xwF4Z86hcCbsh) | [bouquet](https://open.spotify.com/album/5z5GxAqdv2RFBZPcqKEl53) | 3:35 | 2025-09-30 | 2025-12-03 |
 | [クロスロード](https://open.spotify.com/track/06bGA7LD0gnMEheiYlAF2l) | [UNICORN](https://open.spotify.com/artist/0z4FY376uhecutd5Adph8s) | [クロスロード](https://open.spotify.com/album/4mJ1KXrkeLBHxny9dADqb7) | 3:00 | 2023-11-14 | 2023-12-13 |
 | [クローズド・アーカイヴ VS\. TK \(凛として時雨\)](https://open.spotify.com/track/7JXv8zritDObflbmgZ9dQZ) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [クローズド・アーカイヴ VS\. TK \(凛として時雨\)](https://open.spotify.com/album/3zbsxwfh22qdpXt73Dmk24) | 3:50 | 2025-07-02 | 2025-07-23 |

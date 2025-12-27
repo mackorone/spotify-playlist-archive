@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Cvrlm.md) - [plain]
 
 > This is George Michael\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 593,824 likes - 50 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 593,893 likes - 50 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Cvrlm.md) - [plain]
 | 46 | [Always](https://open.spotify.com/track/1BHyi5tS67s00jDSlGQXg4) | [Waze & Odyssey](https://open.spotify.com/artist/0D9AnJzAnYyu1kfJFQDY5d), [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Tommy Theo](https://open.spotify.com/artist/3FIKR274tI6Xk3uw9Dqu5B) | [Always](https://open.spotify.com/album/1QiwBjsjHlnfFSKumhozCu) | 3:06 |
 | 47 | [John and Elvis Are Dead](https://open.spotify.com/track/0pavieu1tjZZvUkUDevy7k) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Patience](https://open.spotify.com/album/1Ys4joU6TESJ4eh00lvUoI) | 4:23 |
 | 48 | [Idol \- Live](https://open.spotify.com/track/1Gv3XEaqzTleOjmbHXGjDh) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Symphonica \(Deluxe Version\)](https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO) | 4:29 |
-| 49 | [Secret Love](https://open.spotify.com/track/5DvAuonLamxQJUiY44tBiq) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Songs From The Last Century](https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u) | 2:39 |
+| 49 | [My Baby Just Cares for Me](https://open.spotify.com/track/6iu9Pko748wfZbn3COSZe3) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Songs From The Last Century](https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u) | 1:45 |
 | 50 | [All You Need Is Love](https://open.spotify.com/track/11sPHLSUyGhyDMXjI25nwM) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H), [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Luciano Pavarotti](https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU), [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz), [Eurythmics](https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB), [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek), [Irene Grandi](https://open.spotify.com/artist/0Ob8qRZ9R1jhibRue9ap1H), [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo), [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF), [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP), [Zucchero](https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Ars Canto G\. Verdi](https://open.spotify.com/artist/2nlUKg0hGbfQkhUuyudOgE), [Cambodian And Tibetan Children's Choir](https://open.spotify.com/artist/5roVbMFPCz0wtqh7ffwzSd), [Orchestra Sinfonica Italiana](https://open.spotify.com/artist/2TLCdLafkMIbrLHYvh4U5P), [José Molina](https://open.spotify.com/artist/64sor8KhJsha9rn0LKiDGh) | [Spirito Italiano](https://open.spotify.com/album/5T4REe6LvQuo7hr3hcWrv8) | 4:15 |
 
-Snapshot ID: `aUstAAAAAAAPeh0OQd6ENd3fjtHU6P6n`
+Snapshot ID: `aUx+gAAAAAC5Bt5NLiZN6yRO12kE1CHN`

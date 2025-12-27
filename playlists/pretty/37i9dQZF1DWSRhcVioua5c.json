@@ -1,6 +1,6 @@
 {
   "description": "Canciones de ayer y de hoy grabadas a fuego en el coraz\u00f3n.",
-  "num_followers": 87929,
+  "num_followers": 87950,
   "original_name": "Folklore Rom\u00e1ntico ",
   "owner": {
     "name": "Spotify",
@@ -527,6 +527,22 @@
     {
       "added_at": "2025-08-21 19:40:34",
       "album": {
+        "name": "Andando",
+        "url": "https://open.spotify.com/album/4Ni4fgItgWOCP2mCyPce10"
+      },
+      "artists": [
+        {
+          "name": "Peteco Carabajal",
+          "url": "https://open.spotify.com/artist/5gii2fYcxLoUHWd1lWe4aT"
+        }
+      ],
+      "duration_ms": 184346,
+      "name": "Para Los Ojos M\u00e1s Bellos",
+      "url": "https://open.spotify.com/track/669cJlmstiDWCFDyef4pil"
+    },
+    {
+      "added_at": "2025-08-21 19:40:34",
+      "album": {
         "name": "El Punto Final",
         "url": "https://open.spotify.com/album/1hfe0fdFG8n6sj6WOYOvcF"
       },
@@ -543,18 +559,22 @@
     {
       "added_at": "2025-08-21 19:40:34",
       "album": {
-        "name": "Andando",
-        "url": "https://open.spotify.com/album/4Ni4fgItgWOCP2mCyPce10"
+        "name": "Hablan de Ti",
+        "url": "https://open.spotify.com/album/7gpv5WXgXoZlRpVso7o8yz"
       },
       "artists": [
         {
-          "name": "Peteco Carabajal",
-          "url": "https://open.spotify.com/artist/5gii2fYcxLoUHWd1lWe4aT"
+          "name": "Copla alta",
+          "url": "https://open.spotify.com/artist/60g9S4kJm1m9kbrt89H5CQ"
+        },
+        {
+          "name": "Chacho Ramos",
+          "url": "https://open.spotify.com/artist/7Bl9s8h4F1jcX1aJYHBpfm"
         }
       ],
-      "duration_ms": 184346,
-      "name": "Para Los Ojos M\u00e1s Bellos",
-      "url": "https://open.spotify.com/track/669cJlmstiDWCFDyef4pil"
+      "duration_ms": 242684,
+      "name": "Hablan de Ti",
+      "url": "https://open.spotify.com/track/4kXxLcxnzWUbpuRHI3gVH6"
     },
     {
       "added_at": "2025-08-21 19:40:34",
@@ -591,26 +611,6 @@
     {
       "added_at": "2025-08-21 19:40:34",
       "album": {
-        "name": "Hablan de Ti",
-        "url": "https://open.spotify.com/album/7gpv5WXgXoZlRpVso7o8yz"
-      },
-      "artists": [
-        {
-          "name": "Copla alta",
-          "url": "https://open.spotify.com/artist/60g9S4kJm1m9kbrt89H5CQ"
-        },
-        {
-          "name": "Chacho Ramos",
-          "url": "https://open.spotify.com/artist/7Bl9s8h4F1jcX1aJYHBpfm"
-        }
-      ],
-      "duration_ms": 242684,
-      "name": "Hablan de Ti",
-      "url": "https://open.spotify.com/track/4kXxLcxnzWUbpuRHI3gVH6"
-    },
-    {
-      "added_at": "2025-08-21 19:40:34",
-      "album": {
         "name": "Ven Por Mi",
         "url": "https://open.spotify.com/album/5iJ01M2dW7JSiUteLvn2D8"
       },
@@ -643,22 +643,6 @@
     {
       "added_at": "2025-08-21 19:40:34",
       "album": {
-        "name": "Repechando la Senda",
-        "url": "https://open.spotify.com/album/4dqOO5Y53y5l2Xqgh51buW"
-      },
-      "artists": [
-        {
-          "name": "Los Puesteros",
-          "url": "https://open.spotify.com/artist/0wTashas0gzU0N4bKe7xxY"
-        }
-      ],
-      "duration_ms": 249627,
-      "name": "Quisiera",
-      "url": "https://open.spotify.com/track/545Zvp4rHyPVKj7aSCbv2f"
-    },
-    {
-      "added_at": "2025-08-21 19:40:34",
-      "album": {
         "name": "Eterno Amor",
         "url": "https://open.spotify.com/album/1Yxth9gcry4oASkewP9b6y"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 190608,
       "name": "Eterno Amor",
       "url": "https://open.spotify.com/track/7r16iJ5dJcdqFQJeh08GPs"
+    },
+    {
+      "added_at": "2025-08-21 19:40:34",
+      "album": {
+        "name": "Repechando la Senda",
+        "url": "https://open.spotify.com/album/4dqOO5Y53y5l2Xqgh51buW"
+      },
+      "artists": [
+        {
+          "name": "Los Puesteros",
+          "url": "https://open.spotify.com/artist/0wTashas0gzU0N4bKe7xxY"
+        }
+      ],
+      "duration_ms": 249627,
+      "name": "Quisiera",
+      "url": "https://open.spotify.com/track/545Zvp4rHyPVKj7aSCbv2f"
     },
     {
       "added_at": "2025-08-21 19:40:34",
@@ -707,22 +707,6 @@
     {
       "added_at": "2025-08-21 19:40:34",
       "album": {
-        "name": "Mi Loco Amor",
-        "url": "https://open.spotify.com/album/6oNvO33sdfOdnE2o2RLP62"
-      },
-      "artists": [
-        {
-          "name": "Sele Vera Y Los Pampas",
-          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
-        }
-      ],
-      "duration_ms": 213705,
-      "name": "Mi Loco Amor",
-      "url": "https://open.spotify.com/track/2IkjSf9VxQAA7uSipkNsOJ"
-    },
-    {
-      "added_at": "2025-08-21 19:40:34",
-      "album": {
         "name": "Eterno Amor",
         "url": "https://open.spotify.com/album/5fw1AGfL8lCgbxBFD8aYrg"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 248430,
       "name": "Eterno Amor",
       "url": "https://open.spotify.com/track/1rlGQVfvXSSJteVJm2C6Ts"
+    },
+    {
+      "added_at": "2025-08-21 19:40:34",
+      "album": {
+        "name": "Mi Loco Amor",
+        "url": "https://open.spotify.com/album/6oNvO33sdfOdnE2o2RLP62"
+      },
+      "artists": [
+        {
+          "name": "Sele Vera Y Los Pampas",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+        }
+      ],
+      "duration_ms": 213705,
+      "name": "Mi Loco Amor",
+      "url": "https://open.spotify.com/track/2IkjSf9VxQAA7uSipkNsOJ"
     },
     {
       "added_at": "2025-08-21 19:40:34",
@@ -771,6 +771,22 @@
     {
       "added_at": "2025-08-21 19:40:34",
       "album": {
+        "name": "De Barrio",
+        "url": "https://open.spotify.com/album/6hm9pBwn4NXDV29seneaJ7"
+      },
+      "artists": [
+        {
+          "name": "Franco Ramirez",
+          "url": "https://open.spotify.com/artist/3wtmjgdgUKVK3tonnKSh9a"
+        }
+      ],
+      "duration_ms": 192266,
+      "name": "Zambita pa' Enamorar",
+      "url": "https://open.spotify.com/track/6TVKi26ExwcSdv7NhAi8Iq"
+    },
+    {
+      "added_at": "2025-08-21 19:40:34",
+      "album": {
         "name": "El Sue\u00f1o de Mi Guitarra",
         "url": "https://open.spotify.com/album/0ngbYyZKSgybDqyaWtOGOR"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 224759,
       "name": "La Paloma",
       "url": "https://open.spotify.com/track/1xbueGvTrxbpYNtOSFKdTJ"
-    },
-    {
-      "added_at": "2025-08-21 19:40:34",
-      "album": {
-        "name": "De Barrio",
-        "url": "https://open.spotify.com/album/6hm9pBwn4NXDV29seneaJ7"
-      },
-      "artists": [
-        {
-          "name": "Franco Ramirez",
-          "url": "https://open.spotify.com/artist/3wtmjgdgUKVK3tonnKSh9a"
-        }
-      ],
-      "duration_ms": 192266,
-      "name": "Zambita pa' Enamorar",
-      "url": "https://open.spotify.com/track/6TVKi26ExwcSdv7NhAi8Iq"
     },
     {
       "added_at": "2025-08-21 19:40:34",
@@ -871,22 +871,6 @@
     {
       "added_at": "2025-08-21 19:40:34",
       "album": {
-        "name": "Natural",
-        "url": "https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx"
-      },
-      "artists": [
-        {
-          "name": "Soledad",
-          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
-        }
-      ],
-      "duration_ms": 249985,
-      "name": "La del Olvido",
-      "url": "https://open.spotify.com/track/3bCKQK2PKLBIRZvUL4kROh"
-    },
-    {
-      "added_at": "2025-08-21 19:40:34",
-      "album": {
         "name": "Quien Me Quita Lo Cantado",
         "url": "https://open.spotify.com/album/74SPPqaCtI8Ny6PQiUBMdf"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 201427,
       "name": "Por las costas entrerrianas",
       "url": "https://open.spotify.com/track/159w8FAaY0OVg8H0rXX26C"
+    },
+    {
+      "added_at": "2025-08-21 19:40:34",
+      "album": {
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx"
+      },
+      "artists": [
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        }
+      ],
+      "duration_ms": 249985,
+      "name": "La del Olvido",
+      "url": "https://open.spotify.com/track/3bCKQK2PKLBIRZvUL4kROh"
     },
     {
       "added_at": "2025-08-21 19:40:34",
@@ -983,22 +983,6 @@
     {
       "added_at": "2025-08-21 19:40:34",
       "album": {
-        "name": "Devu\u00e9lveme el Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1SEH9Nm2xKk3gtlqIdwZS0"
-      },
-      "artists": [
-        {
-          "name": "Sele Vera Y Los Pampas",
-          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
-        }
-      ],
-      "duration_ms": 180499,
-      "name": "Devu\u00e9lveme el Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/2dT7KgU7h8wzK7u6PT7IFA"
-    },
-    {
-      "added_at": "2025-08-21 19:40:34",
-      "album": {
         "name": "Volver A Verte",
         "url": "https://open.spotify.com/album/14tkcH6vS6AKuOFbGVeyT4"
       },
@@ -1019,38 +1003,18 @@
     {
       "added_at": "2025-08-21 19:40:34",
       "album": {
-        "name": "Churita",
-        "url": "https://open.spotify.com/album/7pgzkHyoKg2QDTOiVG7j7e"
+        "name": "Devu\u00e9lveme el Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1SEH9Nm2xKk3gtlqIdwZS0"
       },
       "artists": [
         {
-          "name": "Mariana Baraj",
-          "url": "https://open.spotify.com/artist/3kNByUYht34hI6ugWqMtCq"
+          "name": "Sele Vera Y Los Pampas",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
         }
       ],
-      "duration_ms": 183866,
-      "name": "La Guada",
-      "url": "https://open.spotify.com/track/5p62JsJMyb0qgHoPtNBZZ7"
-    },
-    {
-      "added_at": "2025-08-21 19:40:34",
-      "album": {
-        "name": "Tierra Mia",
-        "url": "https://open.spotify.com/album/70IwXC5EAQkxGD2wvSNWIK"
-      },
-      "artists": [
-        {
-          "name": "Los Tekis",
-          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
-        },
-        {
-          "name": "Sebastian Llapur",
-          "url": "https://open.spotify.com/artist/1TELtuCpDL3sbZnxXQApD0"
-        }
-      ],
-      "duration_ms": 268875,
-      "name": "Flor Palida",
-      "url": "https://open.spotify.com/track/0DHeBd1jgjwlNj98oY61vp"
+      "duration_ms": 180499,
+      "name": "Devu\u00e9lveme el Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2dT7KgU7h8wzK7u6PT7IFA"
     },
     {
       "added_at": "2025-08-21 19:40:34",
@@ -1075,18 +1039,38 @@
     {
       "added_at": "2025-08-21 19:40:34",
       "album": {
-        "name": "Te Vas",
-        "url": "https://open.spotify.com/album/4SOIv6vtvF8rLywEiQzYmg"
+        "name": "Tierra Mia",
+        "url": "https://open.spotify.com/album/70IwXC5EAQkxGD2wvSNWIK"
       },
       "artists": [
         {
-          "name": "Sele Vera Y Los Pampas",
-          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+          "name": "Los Tekis",
+          "url": "https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6"
+        },
+        {
+          "name": "Sebastian Llapur",
+          "url": "https://open.spotify.com/artist/1TELtuCpDL3sbZnxXQApD0"
         }
       ],
-      "duration_ms": 130576,
-      "name": "Te Vas",
-      "url": "https://open.spotify.com/track/2idbEBZxsGaKM4QxzShgd2"
+      "duration_ms": 268875,
+      "name": "Flor Palida",
+      "url": "https://open.spotify.com/track/0DHeBd1jgjwlNj98oY61vp"
+    },
+    {
+      "added_at": "2025-08-21 19:40:34",
+      "album": {
+        "name": "Churita",
+        "url": "https://open.spotify.com/album/7pgzkHyoKg2QDTOiVG7j7e"
+      },
+      "artists": [
+        {
+          "name": "Mariana Baraj",
+          "url": "https://open.spotify.com/artist/3kNByUYht34hI6ugWqMtCq"
+        }
+      ],
+      "duration_ms": 183866,
+      "name": "La Guada",
+      "url": "https://open.spotify.com/track/5p62JsJMyb0qgHoPtNBZZ7"
     },
     {
       "added_at": "2025-08-21 19:40:34",
@@ -1103,6 +1087,22 @@
       "duration_ms": 202728,
       "name": "Tan Cerca En La Distancia",
       "url": "https://open.spotify.com/track/1Sz2bHW2ULcrp9qyHYUZzG"
+    },
+    {
+      "added_at": "2025-08-21 19:40:34",
+      "album": {
+        "name": "Te Vas",
+        "url": "https://open.spotify.com/album/4SOIv6vtvF8rLywEiQzYmg"
+      },
+      "artists": [
+        {
+          "name": "Sele Vera Y Los Pampas",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+        }
+      ],
+      "duration_ms": 130576,
+      "name": "Te Vas",
+      "url": "https://open.spotify.com/track/2idbEBZxsGaKM4QxzShgd2"
     },
     {
       "added_at": "2025-08-21 19:40:34",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2025-08-21 19:40:34",
       "album": {
+        "name": "Huella",
+        "url": "https://open.spotify.com/album/0y0ckypghp0Ae1bdo3qjth"
+      },
+      "artists": [
+        {
+          "name": "Los Carabajal",
+          "url": "https://open.spotify.com/artist/73HzrMaQAGRv2nHCiOBlam"
+        }
+      ],
+      "duration_ms": 214466,
+      "name": "No Me Canso de Amar",
+      "url": "https://open.spotify.com/track/5LKPve9fCi7TKtgoJx49NF"
+    },
+    {
+      "added_at": "2025-08-21 19:40:34",
+      "album": {
         "name": "Tonada del viejo amor",
         "url": "https://open.spotify.com/album/2fYUY5jhI1774jp8kIzgih"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 278733,
       "name": "Tonada del viejo amor",
       "url": "https://open.spotify.com/track/65D0PzyFvb20eFe6FOzgif"
-    },
-    {
-      "added_at": "2025-08-21 19:40:34",
-      "album": {
-        "name": "Huella",
-        "url": "https://open.spotify.com/album/0y0ckypghp0Ae1bdo3qjth"
-      },
-      "artists": [
-        {
-          "name": "Los Carabajal",
-          "url": "https://open.spotify.com/artist/73HzrMaQAGRv2nHCiOBlam"
-        }
-      ],
-      "duration_ms": 214466,
-      "name": "No Me Canso de Amar",
-      "url": "https://open.spotify.com/track/5LKPve9fCi7TKtgoJx49NF"
     },
     {
       "added_at": "2025-08-21 19:40:34",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2025-08-21 19:40:34",
       "album": {
+        "name": "La Desamorada",
+        "url": "https://open.spotify.com/album/7sQGoOzXHrxY9LcP4Ll6b3"
+      },
+      "artists": [
+        {
+          "name": "Yanet Mayoral",
+          "url": "https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO"
+        }
+      ],
+      "duration_ms": 241477,
+      "name": "La Desamorada",
+      "url": "https://open.spotify.com/track/4d1wSBlKUlfRQIaPw9Qt0x"
+    },
+    {
+      "added_at": "2025-08-21 19:40:34",
+      "album": {
         "name": "La \u00daltima Estrella",
         "url": "https://open.spotify.com/album/3ZRhNcfRj7QzjK9iDNPQDc"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 228388,
       "name": "No Me Quiero Olvidar",
       "url": "https://open.spotify.com/track/0pwdW67It2KSrOIRVqFLiQ"
-    },
-    {
-      "added_at": "2025-08-21 19:40:34",
-      "album": {
-        "name": "La Desamorada",
-        "url": "https://open.spotify.com/album/7sQGoOzXHrxY9LcP4Ll6b3"
-      },
-      "artists": [
-        {
-          "name": "Yanet Mayoral",
-          "url": "https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO"
-        }
-      ],
-      "duration_ms": 241477,
-      "name": "La Desamorada",
-      "url": "https://open.spotify.com/track/4d1wSBlKUlfRQIaPw9Qt0x"
     },
     {
       "added_at": "2025-08-21 19:40:34",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2025-08-21 19:40:34",
       "album": {
-        "name": "Canciones Con Sentido",
-        "url": "https://open.spotify.com/album/3Zq1F0eml16ZdQGEuSko8w"
-      },
-      "artists": [
-        {
-          "name": "Bruno Sosa Trotti",
-          "url": "https://open.spotify.com/artist/69IsxpKZpuUKs4DSJYtWXZ"
-        }
-      ],
-      "duration_ms": 184659,
-      "name": "Quiero Saber Si Me Extra\u00f1as",
-      "url": "https://open.spotify.com/track/4lcip47RQ3nlji6e1RzFvy"
-    },
-    {
-      "added_at": "2025-08-21 19:40:34",
-      "album": {
         "name": "Respuesta",
         "url": "https://open.spotify.com/album/7zjeW6ii0jEetYbDDeMOFE"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 217000,
       "name": "Respuesta",
       "url": "https://open.spotify.com/track/6G63kmxKv6dvQBzAKkauq6"
+    },
+    {
+      "added_at": "2025-08-21 19:40:34",
+      "album": {
+        "name": "Canciones Con Sentido",
+        "url": "https://open.spotify.com/album/3Zq1F0eml16ZdQGEuSko8w"
+      },
+      "artists": [
+        {
+          "name": "Bruno Sosa Trotti",
+          "url": "https://open.spotify.com/artist/69IsxpKZpuUKs4DSJYtWXZ"
+        }
+      ],
+      "duration_ms": 184659,
+      "name": "Quiero Saber Si Me Extra\u00f1as",
+      "url": "https://open.spotify.com/track/4lcip47RQ3nlji6e1RzFvy"
     },
     {
       "added_at": "2025-08-21 19:40:34",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2025-08-21 19:40:34",
       "album": {
-        "name": "D\u00e9jame Intentar",
-        "url": "https://open.spotify.com/album/4j1W8EQSu19OzulXDZnjOO"
-      },
-      "artists": [
-        {
-          "name": "El Indio Lucio Rojas",
-          "url": "https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3"
-        }
-      ],
-      "duration_ms": 162192,
-      "name": "D\u00e9jame Intentar",
-      "url": "https://open.spotify.com/track/6shEGh8m0NI65YQN6RcDe9"
-    },
-    {
-      "added_at": "2025-08-21 19:40:34",
-      "album": {
         "name": "Asuntos Pendientes",
         "url": "https://open.spotify.com/album/5PC43L0Gftheh1WbrjW1VC"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 170000,
       "name": "Asuntos Pendientes",
       "url": "https://open.spotify.com/track/6kS0RzghvmItZOz99eutk2"
+    },
+    {
+      "added_at": "2025-08-21 19:40:34",
+      "album": {
+        "name": "D\u00e9jame Intentar",
+        "url": "https://open.spotify.com/album/4j1W8EQSu19OzulXDZnjOO"
+      },
+      "artists": [
+        {
+          "name": "El Indio Lucio Rojas",
+          "url": "https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3"
+        }
+      ],
+      "duration_ms": 162192,
+      "name": "D\u00e9jame Intentar",
+      "url": "https://open.spotify.com/track/6shEGh8m0NI65YQN6RcDe9"
     },
     {
       "added_at": "2025-08-21 19:40:34",

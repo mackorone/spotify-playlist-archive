@@ -1,6 +1,6 @@
 {
   "description": "The ultimate instrumental soundtrack for a long-haul journey, to the bustling metropolis in Japan that never sleeps. \u65e5\u672c\u306e\u30d7\u30ed\u30c7\u30e5\u30fc\u30b5\u30fc\u306b\u3088\u308b\u30a4\u30f3\u30b9\u30c8\u697d\u66f2\u3092\u7279\u96c6\u3002",
-  "num_followers": 530480,
+  "num_followers": 530465,
   "original_name": "Road Trip To Tokyo",
   "owner": {
     "name": "Spotify",
@@ -239,6 +239,22 @@
     {
       "added_at": "2025-12-12 05:21:41",
       "album": {
+        "name": "tender (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4ciRzg4BTydpzSGuOruXCx"
+      },
+      "artists": [
+        {
+          "name": "Shingo Sekiguchi",
+          "url": "https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9"
+        }
+      ],
+      "duration_ms": 158840,
+      "name": "Elevator Lover",
+      "url": "https://open.spotify.com/track/2ChdsbxUUFspNnBKL7Lzr5"
+    },
+    {
+      "added_at": "2025-12-12 05:21:41",
+      "album": {
         "name": "City Dreams",
         "url": "https://open.spotify.com/album/5RJFdRx8YkGGYlJ4bvI7lz"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 164817,
       "name": "City Dreams",
       "url": "https://open.spotify.com/track/2tvPXvthQHFMHclfIGThnl"
-    },
-    {
-      "added_at": "2025-12-12 05:21:41",
-      "album": {
-        "name": "tender (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4ciRzg4BTydpzSGuOruXCx"
-      },
-      "artists": [
-        {
-          "name": "Shingo Sekiguchi",
-          "url": "https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9"
-        }
-      ],
-      "duration_ms": 158840,
-      "name": "Elevator Lover",
-      "url": "https://open.spotify.com/track/2ChdsbxUUFspNnBKL7Lzr5"
     },
     {
       "added_at": "2025-12-12 05:21:41",
@@ -391,26 +391,6 @@
     {
       "added_at": "2025-12-12 05:21:41",
       "album": {
-        "name": "Kyoto",
-        "url": "https://open.spotify.com/album/1F0k3wIIdS72rQW8IJ9BzZ"
-      },
-      "artists": [
-        {
-          "name": "Nahokimama",
-          "url": "https://open.spotify.com/artist/17sOYtMShLw4BdQf5YUns3"
-        },
-        {
-          "name": "Toshiki Soejima",
-          "url": "https://open.spotify.com/artist/6IqHDslsV3usaxCdciL3XO"
-        }
-      ],
-      "duration_ms": 187378,
-      "name": "Kyoto",
-      "url": "https://open.spotify.com/track/7hw4CJMlaYl6h7Lv7h5OXS"
-    },
-    {
-      "added_at": "2025-12-12 05:21:41",
-      "album": {
         "name": "Raincoat (Paul Grant Remix)",
         "url": "https://open.spotify.com/album/6UxnjFQfPhF7OqkgDZUUVi"
       },
@@ -427,6 +407,26 @@
       "duration_ms": 193125,
       "name": "Raincoat (Paul Grant Remix)",
       "url": "https://open.spotify.com/track/7qTS3XAGwebfMgFWgQcB1i"
+    },
+    {
+      "added_at": "2025-12-12 05:21:41",
+      "album": {
+        "name": "Kyoto",
+        "url": "https://open.spotify.com/album/1F0k3wIIdS72rQW8IJ9BzZ"
+      },
+      "artists": [
+        {
+          "name": "Nahokimama",
+          "url": "https://open.spotify.com/artist/17sOYtMShLw4BdQf5YUns3"
+        },
+        {
+          "name": "Toshiki Soejima",
+          "url": "https://open.spotify.com/artist/6IqHDslsV3usaxCdciL3XO"
+        }
+      ],
+      "duration_ms": 187378,
+      "name": "Kyoto",
+      "url": "https://open.spotify.com/track/7hw4CJMlaYl6h7Lv7h5OXS"
     },
     {
       "added_at": "2025-12-12 05:21:41",
@@ -483,22 +483,6 @@
     {
       "added_at": "2025-12-12 05:21:41",
       "album": {
-        "name": "zero",
-        "url": "https://open.spotify.com/album/0nVdaf3JEWpctIcv0nyFQz"
-      },
-      "artists": [
-        {
-          "name": "invisible design",
-          "url": "https://open.spotify.com/artist/0PGLAS23Jf5WcA4xaCmxLM"
-        }
-      ],
-      "duration_ms": 147695,
-      "name": "zero",
-      "url": "https://open.spotify.com/track/3g8uAk8FFwlOlFp90Lwxw4"
-    },
-    {
-      "added_at": "2025-12-12 05:21:41",
-      "album": {
         "name": "Raincoat",
         "url": "https://open.spotify.com/album/7iLneP4wYzv8Eb1PBavn9o"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 204000,
       "name": "Raincoat",
       "url": "https://open.spotify.com/track/2RfOBk0HoyAKNQMX6gWbDW"
+    },
+    {
+      "added_at": "2025-12-12 05:21:41",
+      "album": {
+        "name": "zero",
+        "url": "https://open.spotify.com/album/0nVdaf3JEWpctIcv0nyFQz"
+      },
+      "artists": [
+        {
+          "name": "invisible design",
+          "url": "https://open.spotify.com/artist/0PGLAS23Jf5WcA4xaCmxLM"
+        }
+      ],
+      "duration_ms": 147695,
+      "name": "zero",
+      "url": "https://open.spotify.com/track/3g8uAk8FFwlOlFp90Lwxw4"
     },
     {
       "added_at": "2025-12-12 05:21:41",
@@ -736,8 +736,8 @@
       },
       "artists": [
         {
-          "name": "MIZUKAMI",
-          "url": "https://open.spotify.com/artist/3coUJaSHEnYwQT6NAM9BN4"
+          "name": "cleaned",
+          "url": "https://open.spotify.com/artist/1yp2KhukqTL1SNjjQDCNj3"
         }
       ],
       "duration_ms": 203500,
@@ -823,6 +823,22 @@
     {
       "added_at": "2025-12-12 05:21:41",
       "album": {
+        "name": "Overcast",
+        "url": "https://open.spotify.com/album/47xVB54IaWI3t7AN6wfxGQ"
+      },
+      "artists": [
+        {
+          "name": "Sachiho",
+          "url": "https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa"
+        }
+      ],
+      "duration_ms": 136534,
+      "name": "Overcast",
+      "url": "https://open.spotify.com/track/1lkFcODu490MaeGqH5P4yL"
+    },
+    {
+      "added_at": "2025-12-12 05:21:41",
+      "album": {
         "name": "Agua",
         "url": "https://open.spotify.com/album/0O0cMYT5mf86GEswEyH3D0"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 120605,
       "name": "Agua",
       "url": "https://open.spotify.com/track/1FxClYw5oCPtta2I6jsqP1"
-    },
-    {
-      "added_at": "2025-12-12 05:21:41",
-      "album": {
-        "name": "Overcast",
-        "url": "https://open.spotify.com/album/47xVB54IaWI3t7AN6wfxGQ"
-      },
-      "artists": [
-        {
-          "name": "Sachiho",
-          "url": "https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa"
-        }
-      ],
-      "duration_ms": 136534,
-      "name": "Overcast",
-      "url": "https://open.spotify.com/track/1lkFcODu490MaeGqH5P4yL"
     },
     {
       "added_at": "2025-12-12 05:21:41",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2025-12-12 05:21:41",
       "album": {
+        "name": "The Way of the Rain",
+        "url": "https://open.spotify.com/album/0jBaVGpOlblBDJTQni1n0u"
+      },
+      "artists": [
+        {
+          "name": "Orihusay",
+          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
+        }
+      ],
+      "duration_ms": 190285,
+      "name": "The Way of the Rain",
+      "url": "https://open.spotify.com/track/2Ir8dmGIHvP6Kh0iyaWRNU"
+    },
+    {
+      "added_at": "2025-12-12 05:21:41",
+      "album": {
         "name": "Entering the Golden Gai",
         "url": "https://open.spotify.com/album/79ZWhnZpiCFpL85460vemv"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 178536,
       "name": "Entering the Golden Gai",
       "url": "https://open.spotify.com/track/4XgqM3v3F5O88zY9LW0eDl"
-    },
-    {
-      "added_at": "2025-12-12 05:21:41",
-      "album": {
-        "name": "The Way of the Rain",
-        "url": "https://open.spotify.com/album/0jBaVGpOlblBDJTQni1n0u"
-      },
-      "artists": [
-        {
-          "name": "Orihusay",
-          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
-        }
-      ],
-      "duration_ms": 190285,
-      "name": "The Way of the Rain",
-      "url": "https://open.spotify.com/track/2Ir8dmGIHvP6Kh0iyaWRNU"
     },
     {
       "added_at": "2025-12-12 05:21:41",
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2025-12-12 05:21:41",
       "album": {
-        "name": "Morning Breakfast Vol.1",
-        "url": "https://open.spotify.com/album/6dAa7hq3VYEqM66qGsky5R"
-      },
-      "artists": [
-        {
-          "name": "Morning Breakfast",
-          "url": "https://open.spotify.com/artist/62qZZnEqoCfJiN6khI7TuY"
-        },
-        {
-          "name": "Gold Digga",
-          "url": "https://open.spotify.com/artist/2XsUp7bFg2HhVw53ubcrvI"
-        }
-      ],
-      "duration_ms": 228030,
-      "name": "Nostalgic",
-      "url": "https://open.spotify.com/track/0sSvrd9F1YToRYwurMrs5L"
-    },
-    {
-      "added_at": "2025-12-12 05:21:41",
-      "album": {
         "name": "Sequences",
         "url": "https://open.spotify.com/album/0N9eVWHd8pIJFLP6Ph27ok"
       },
@@ -1343,6 +1323,26 @@
     {
       "added_at": "2025-12-12 05:21:41",
       "album": {
+        "name": "Morning Breakfast Vol.1",
+        "url": "https://open.spotify.com/album/6dAa7hq3VYEqM66qGsky5R"
+      },
+      "artists": [
+        {
+          "name": "Morning Breakfast",
+          "url": "https://open.spotify.com/artist/62qZZnEqoCfJiN6khI7TuY"
+        },
+        {
+          "name": "Gold Digga",
+          "url": "https://open.spotify.com/artist/2XsUp7bFg2HhVw53ubcrvI"
+        }
+      ],
+      "duration_ms": 228030,
+      "name": "Nostalgic",
+      "url": "https://open.spotify.com/track/0sSvrd9F1YToRYwurMrs5L"
+    },
+    {
+      "added_at": "2025-12-12 05:21:41",
+      "album": {
         "name": "Rock",
         "url": "https://open.spotify.com/album/4ErwjOzz1tTmm8vVNBCMaO"
       },
@@ -1363,38 +1363,18 @@
     {
       "added_at": "2025-12-12 05:21:41",
       "album": {
-        "name": "Midnight Blurred Remnants",
-        "url": "https://open.spotify.com/album/7j2MVb6tQwYaLlkj9EI2UR"
+        "name": "Leave Behind",
+        "url": "https://open.spotify.com/album/5JEHpQDD5ytKRIwDLuSMY0"
       },
       "artists": [
         {
-          "name": "intheshell81",
-          "url": "https://open.spotify.com/artist/7taUQplWF9geLHguW9oPCP"
+          "name": "Shin-Ski",
+          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
         }
       ],
-      "duration_ms": 130306,
-      "name": "Midnight Blurred Remnants",
-      "url": "https://open.spotify.com/track/4TqPqbWp0doNhdbW1EteBC"
-    },
-    {
-      "added_at": "2025-12-12 05:21:41",
-      "album": {
-        "name": "YOU",
-        "url": "https://open.spotify.com/album/5SATOLsULkQDOPUCL7c9ug"
-      },
-      "artists": [
-        {
-          "name": "Akio Watanabe",
-          "url": "https://open.spotify.com/artist/1epOdFDcd9PEgkchlAUND4"
-        },
-        {
-          "name": "AYG",
-          "url": "https://open.spotify.com/artist/7w9gDceqJGG2K8XBAiDhZu"
-        }
-      ],
-      "duration_ms": 160500,
-      "name": "YOU",
-      "url": "https://open.spotify.com/track/4PqtfyBhGLQOgsDujv8mCN"
+      "duration_ms": 119082,
+      "name": "Leave Behind",
+      "url": "https://open.spotify.com/track/1BrETPp4kfh0cuYpTRfrk2"
     },
     {
       "added_at": "2025-12-12 05:21:41",
@@ -1415,6 +1395,42 @@
       "duration_ms": 155670,
       "name": "Yufuin",
       "url": "https://open.spotify.com/track/1WXrXjZVbnM34rCfw5NXd9"
+    },
+    {
+      "added_at": "2025-12-12 05:21:41",
+      "album": {
+        "name": "PAREIDOLIA",
+        "url": "https://open.spotify.com/album/39uasv0jcC61mqNRL4OKkC"
+      },
+      "artists": [
+        {
+          "name": "\u547c\u7159\u9b54",
+          "url": "https://open.spotify.com/artist/6DCqyAIjEYMWaUbJExBBA5"
+        }
+      ],
+      "duration_ms": 181490,
+      "name": "Whispers in the Night",
+      "url": "https://open.spotify.com/track/58ZKw23U9pY7k5ZgS30CAH"
+    },
+    {
+      "added_at": "2025-12-12 05:21:41",
+      "album": {
+        "name": "YOU",
+        "url": "https://open.spotify.com/album/5SATOLsULkQDOPUCL7c9ug"
+      },
+      "artists": [
+        {
+          "name": "Akio Watanabe",
+          "url": "https://open.spotify.com/artist/1epOdFDcd9PEgkchlAUND4"
+        },
+        {
+          "name": "AYG",
+          "url": "https://open.spotify.com/artist/7w9gDceqJGG2K8XBAiDhZu"
+        }
+      ],
+      "duration_ms": 160500,
+      "name": "YOU",
+      "url": "https://open.spotify.com/track/4PqtfyBhGLQOgsDujv8mCN"
     },
     {
       "added_at": "2025-12-12 05:21:41",
@@ -1443,6 +1459,22 @@
     {
       "added_at": "2025-12-12 05:21:41",
       "album": {
+        "name": "Midnight Blurred Remnants",
+        "url": "https://open.spotify.com/album/7j2MVb6tQwYaLlkj9EI2UR"
+      },
+      "artists": [
+        {
+          "name": "intheshell81",
+          "url": "https://open.spotify.com/artist/7taUQplWF9geLHguW9oPCP"
+        }
+      ],
+      "duration_ms": 130306,
+      "name": "Midnight Blurred Remnants",
+      "url": "https://open.spotify.com/track/4TqPqbWp0doNhdbW1EteBC"
+    },
+    {
+      "added_at": "2025-12-12 05:21:41",
+      "album": {
         "name": "Resynthesis (Yellow)",
         "url": "https://open.spotify.com/album/48U2Q7Ryld3vPrNHWWq7CD"
       },
@@ -1459,38 +1491,6 @@
       "duration_ms": 249107,
       "name": "4 Ever",
       "url": "https://open.spotify.com/track/2F5KcNhhlUtXAALrC3AFx1"
-    },
-    {
-      "added_at": "2025-12-12 05:21:41",
-      "album": {
-        "name": "PAREIDOLIA",
-        "url": "https://open.spotify.com/album/39uasv0jcC61mqNRL4OKkC"
-      },
-      "artists": [
-        {
-          "name": "\u547c\u7159\u9b54",
-          "url": "https://open.spotify.com/artist/6DCqyAIjEYMWaUbJExBBA5"
-        }
-      ],
-      "duration_ms": 181490,
-      "name": "Whispers in the Night",
-      "url": "https://open.spotify.com/track/58ZKw23U9pY7k5ZgS30CAH"
-    },
-    {
-      "added_at": "2025-12-12 05:21:41",
-      "album": {
-        "name": "Leave Behind",
-        "url": "https://open.spotify.com/album/5JEHpQDD5ytKRIwDLuSMY0"
-      },
-      "artists": [
-        {
-          "name": "Shin-Ski",
-          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
-        }
-      ],
-      "duration_ms": 119082,
-      "name": "Leave Behind",
-      "url": "https://open.spotify.com/track/1BrETPp4kfh0cuYpTRfrk2"
     },
     {
       "added_at": "2025-12-12 05:21:41",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2025-12-12 05:21:41",
       "album": {
-        "name": "The Wondering Beats vol.1",
-        "url": "https://open.spotify.com/album/7yq1QjAynYRp6fD9VQUrRM"
-      },
-      "artists": [
-        {
-          "name": "GORO KUMAI",
-          "url": "https://open.spotify.com/artist/41lxUXDzSD0mjAnHOgbXDR"
-        }
-      ],
-      "duration_ms": 158117,
-      "name": "Swing",
-      "url": "https://open.spotify.com/track/03EMUB8q3QAkssNRXzTC6f"
-    },
-    {
-      "added_at": "2025-12-12 05:21:41",
-      "album": {
         "name": "MAR",
         "url": "https://open.spotify.com/album/4tikL23aWFPLQIkS7DH0vO"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 160840,
       "name": "Awesome City",
       "url": "https://open.spotify.com/track/2RZbhMjj6piJ6W4M7Nsl7o"
+    },
+    {
+      "added_at": "2025-12-12 05:21:41",
+      "album": {
+        "name": "The Wondering Beats vol.1",
+        "url": "https://open.spotify.com/album/7yq1QjAynYRp6fD9VQUrRM"
+      },
+      "artists": [
+        {
+          "name": "GORO KUMAI",
+          "url": "https://open.spotify.com/artist/41lxUXDzSD0mjAnHOgbXDR"
+        }
+      ],
+      "duration_ms": 158117,
+      "name": "Swing",
+      "url": "https://open.spotify.com/track/03EMUB8q3QAkssNRXzTC6f"
     },
     {
       "added_at": "2025-12-12 05:21:41",
@@ -1735,26 +1735,6 @@
     {
       "added_at": "2025-12-12 05:21:41",
       "album": {
-        "name": "Freedom",
-        "url": "https://open.spotify.com/album/66ncBKTGIriA52zkGJ3P7R"
-      },
-      "artists": [
-        {
-          "name": "Allgood",
-          "url": "https://open.spotify.com/artist/27axU7fE93Z7h8OhRFrD4r"
-        },
-        {
-          "name": "Kanimayo",
-          "url": "https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Freedom",
-      "url": "https://open.spotify.com/track/67srAaUUWCfeCz4TFzmmC2"
-    },
-    {
-      "added_at": "2025-12-12 05:21:41",
-      "album": {
         "name": "\u5149\u306e\u3088\u3046\u306b",
         "url": "https://open.spotify.com/album/77NDqgGxatgBntyyD9634e"
       },
@@ -1791,22 +1771,22 @@
     {
       "added_at": "2025-12-12 05:21:41",
       "album": {
-        "name": "August",
-        "url": "https://open.spotify.com/album/5wzbMXEUG0Nk5tPmzWceiS"
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/66ncBKTGIriA52zkGJ3P7R"
       },
       "artists": [
         {
-          "name": "MIZUKAMI",
-          "url": "https://open.spotify.com/artist/3coUJaSHEnYwQT6NAM9BN4"
+          "name": "Allgood",
+          "url": "https://open.spotify.com/artist/27axU7fE93Z7h8OhRFrD4r"
         },
         {
-          "name": "Chillin' Spot",
-          "url": "https://open.spotify.com/artist/2m2qscBJxMvD2sWSijVHwd"
+          "name": "Kanimayo",
+          "url": "https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1"
         }
       ],
-      "duration_ms": 229112,
-      "name": "August",
-      "url": "https://open.spotify.com/track/70k46TfLjn6qblZCUCf9bH"
+      "duration_ms": 128000,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/67srAaUUWCfeCz4TFzmmC2"
     },
     {
       "added_at": "2025-12-12 05:21:41",
@@ -1823,6 +1803,26 @@
       "duration_ms": 136059,
       "name": "Train Smoke",
       "url": "https://open.spotify.com/track/5IoUd8XyS3Kj4gZvRm4ygI"
+    },
+    {
+      "added_at": "2025-12-12 05:21:41",
+      "album": {
+        "name": "August",
+        "url": "https://open.spotify.com/album/5wzbMXEUG0Nk5tPmzWceiS"
+      },
+      "artists": [
+        {
+          "name": "cleaned",
+          "url": "https://open.spotify.com/artist/1yp2KhukqTL1SNjjQDCNj3"
+        },
+        {
+          "name": "Chillin' Spot",
+          "url": "https://open.spotify.com/artist/2m2qscBJxMvD2sWSijVHwd"
+        }
+      ],
+      "duration_ms": 229112,
+      "name": "August",
+      "url": "https://open.spotify.com/track/70k46TfLjn6qblZCUCf9bH"
     },
     {
       "added_at": "2025-12-12 05:21:41",

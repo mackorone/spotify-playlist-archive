@@ -1434,7 +1434,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-27",
       "duration_ms": 140160,
       "name": "Afar\u0103 Ninge Lini\u015ftit",
       "url": "https://open.spotify.com/track/1e9213HmxfiBf3ZEmCd1dU"
@@ -5312,7 +5312,7 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-26",
+      "date_removed": null,
       "duration_ms": 159157,
       "name": "Bipolar\u0103",
       "url": "https://open.spotify.com/track/66elBtZzxgKPrj2FvKrQ3R"
@@ -5862,7 +5862,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-26",
+      "date_removed": null,
       "duration_ms": 122530,
       "name": "BOT",
       "url": "https://open.spotify.com/track/3fd1UJwCkgGhAojjavHEjg"
@@ -7415,6 +7415,24 @@
     },
     {
       "album": {
+        "name": "CATEL",
+        "url": "https://open.spotify.com/album/7wjFm3J6t0Qx3s6WGh1j0i"
+      },
+      "artists": [
+        {
+          "name": "MADATORRICELLI",
+          "url": "https://open.spotify.com/artist/4y2uMVYqHq7SlTTfBQpdsJ"
+        }
+      ],
+      "date_added": "2025-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "CATEL",
+      "url": "https://open.spotify.com/track/2RsYwpXpP0fPAfnbFhf2pF"
+    },
+    {
+      "album": {
         "name": "Direct din Tei",
         "url": "https://open.spotify.com/album/4ugCVHF2BNK6Aj7W9RKCWr"
       },
@@ -8930,7 +8948,7 @@
       ],
       "date_added": "2025-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-27",
       "duration_ms": 213932,
       "name": "Colinda Cr\u0103ciunului",
       "url": "https://open.spotify.com/track/6pcx5HXf2Vj2PvyccTswwF"
@@ -14724,8 +14742,8 @@
       ],
       "date_added": "2023-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-27",
-      "duration_ms": 182066,
+      "date_removed": null,
+      "duration_ms": 181794,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972"
     },
@@ -14742,7 +14760,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-27",
       "duration_ms": 182306,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId"
@@ -18094,7 +18112,7 @@
       ],
       "date_added": "2025-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-27",
       "duration_ms": 206600,
       "name": "Have Yourself A Merry Little Christmas - Remastered 1999",
       "url": "https://open.spotify.com/track/2FPfeYlrbSBR8PwCU0zaqq"
@@ -18648,7 +18666,7 @@
       ],
       "date_added": "2021-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-27",
       "duration_ms": 119786,
       "name": "Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/6tjituizSxwSmBB5vtgHZE"
@@ -18670,6 +18688,24 @@
       "duration_ms": 121526,
       "name": "Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/67mgz7S5y7hnCE63YBjfO6"
+    },
+    {
+      "album": {
+        "name": "Christmas (Deluxe 10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6UuaXwIIaIaNSGrpPE1vFt"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "date_added": "2025-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121526,
+      "name": "Holly Jolly Christmas",
+      "url": "https://open.spotify.com/track/6rqn19AqjcM5wgI1hCYciJ"
     },
     {
       "album": {
@@ -20880,7 +20916,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-27",
       "duration_ms": 207199,
       "name": "It's Beginning to Look a Lot like Christmas",
       "url": "https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3"
@@ -20898,7 +20934,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-08",
+      "date_removed": null,
       "duration_ms": 207199,
       "name": "It's Beginning to Look a Lot like Christmas",
       "url": "https://open.spotify.com/track/3it2BvJfyhPEWF3kD2TZJ1"
@@ -20950,7 +20986,7 @@
       ],
       "date_added": "2025-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-27",
       "duration_ms": 155933,
       "name": "It's Beginning to Look a Lot Like Christmas (with Mitchell Ayres & His Orchestra)",
       "url": "https://open.spotify.com/track/6IeK3Ap5m3HabwJxgI6eSE"
@@ -24654,7 +24690,7 @@
       ],
       "date_added": "2025-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-23",
+      "date_removed": null,
       "duration_ms": 209523,
       "name": "Ma Suni Noaptea",
       "url": "https://open.spotify.com/track/4CqHV6Z8OvMyQxV9iUqKFR"
@@ -25898,7 +25934,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-27",
       "duration_ms": 220160,
       "name": "Merry Christmas Everyone",
       "url": "https://open.spotify.com/track/2TE4xW3ImvpltVU0cPcKUn"
@@ -31388,7 +31424,7 @@
       ],
       "date_added": "2025-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-26",
+      "date_removed": null,
       "duration_ms": 109759,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf"
@@ -32488,7 +32524,7 @@
       ],
       "date_added": "2025-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-25",
+      "date_removed": null,
       "duration_ms": 202220,
       "name": "PRIETENA TA",
       "url": "https://open.spotify.com/track/6lu7h9TW9L94lAevaJbyvy"
@@ -33898,7 +33934,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-25",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "Regele - From Buzz House: The Movie 2",
       "url": "https://open.spotify.com/track/7rfgRNyDknkGKvy0Oih7Fk"
@@ -34722,7 +34758,7 @@
       ],
       "date_added": "2025-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-27",
       "duration_ms": 165733,
       "name": "Run Rudolph Run",
       "url": "https://open.spotify.com/track/2pnPe4pJtq7689i5ydzvJJ"
@@ -35982,7 +36018,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-27",
       "duration_ms": 290666,
       "name": "Seara Lui Cr\u0103ciun",
       "url": "https://open.spotify.com/track/1R7OXAl0QaUoHiA1gzY81P"
@@ -38800,7 +38836,7 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-26",
+      "date_removed": null,
       "duration_ms": 214649,
       "name": "STIU CA TI-E DOR",
       "url": "https://open.spotify.com/track/2PQDJhSNFJE1YM1lxTSZk9"
@@ -42616,7 +42652,7 @@
       ],
       "date_added": "2025-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-27",
       "duration_ms": 153000,
       "name": "Tratamente",
       "url": "https://open.spotify.com/track/2beoq3iRO5pp23aeJlgK87"
@@ -44334,7 +44370,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-26",
+      "date_removed": null,
       "duration_ms": 180393,
       "name": "Vino s\u0103 te f",
       "url": "https://open.spotify.com/track/2AKfAnct7MFEglIueZ7ROM"
@@ -46748,7 +46784,7 @@
       ],
       "date_added": "2025-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-27",
       "duration_ms": 305322,
       "name": "Ziua-I Mare, Seara-I Sf\u00e2nt\u0103",
       "url": "https://open.spotify.com/track/2fMouCghg2kkonHshPXkwY"

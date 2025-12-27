@@ -31,6 +31,28 @@
     },
     {
       "album": {
+        "name": "Meet the Girl Next Door",
+        "url": "https://open.spotify.com/album/0XV0p2kMctCT2aMIT7KZcv"
+      },
+      "artists": [
+        {
+          "name": "Lil' Mo",
+          "url": "https://open.spotify.com/artist/5wBDD4FNJvob5fAGkAIQ92"
+        },
+        {
+          "name": "Fabolous",
+          "url": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
+        }
+      ],
+      "date_added": "2025-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222946,
+      "name": "4 Ever",
+      "url": "https://open.spotify.com/track/64IrqnZBUoCFmF8BXGOHnK"
+    },
+    {
+      "album": {
         "name": "Truthfully Speaking",
         "url": "https://open.spotify.com/album/2qDd6KcV4L5MfBSIrjDWZ0"
       },
@@ -284,7 +306,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-27",
       "duration_ms": 312960,
       "name": "Bling Bling",
       "url": "https://open.spotify.com/track/5q186AzhWeOEoFnApajHgR"
@@ -430,7 +452,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-27",
       "duration_ms": 282773,
       "name": "Bump, Bump, Bump (feat. P. Diddy)",
       "url": "https://open.spotify.com/track/75lRRdjplzfpmBjNzMPyjR"
@@ -448,7 +470,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-10",
+      "date_removed": null,
       "duration_ms": 236826,
       "name": "Case Of The Ex (Whatcha Gonna Do)",
       "url": "https://open.spotify.com/track/1ak0S3NhwWrUgNlQhJ1412"
@@ -484,7 +506,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-27",
       "duration_ms": 219560,
       "name": "Conceited (There's Something About Remy)",
       "url": "https://open.spotify.com/track/2OcBwebjQsdJy76zWvLQvn"
@@ -611,6 +633,24 @@
     },
     {
       "album": {
+        "name": "Disco Inferno",
+        "url": "https://open.spotify.com/album/6finRSeHjETM7d2dcxDbJI"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "date_added": "2025-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215098,
+      "name": "Disco Inferno",
+      "url": "https://open.spotify.com/track/0TbyqB5yepTVjwr8CwmgDy"
+    },
+    {
+      "album": {
         "name": "The Understanding",
         "url": "https://open.spotify.com/album/1Uu3MJOr7kj0qRWgc4UZDw"
       },
@@ -678,6 +718,24 @@
       "duration_ms": 284466,
       "name": "Don't Talk",
       "url": "https://open.spotify.com/track/3AWY0qfZkOuROo7SHh003L"
+    },
+    {
+      "album": {
+        "name": "The Miseducation of Lauryn Hill",
+        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "date_added": "2025-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320266,
+      "name": "Doo Wop (That Thing)",
+      "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
     },
     {
       "album": {
@@ -1105,6 +1163,28 @@
     },
     {
       "album": {
+        "name": "The Documentary",
+        "url": "https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8"
+      },
+      "artists": [
+        {
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "date_added": "2025-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206400,
+      "name": "Hate It Or Love It",
+      "url": "https://open.spotify.com/track/2wGSgTmgSF3xjRrHkTc25R"
+    },
+    {
+      "album": {
         "name": "The Massacre",
         "url": "https://open.spotify.com/album/2pidzXTaHV4WaIJYRxKDCH"
       },
@@ -1132,7 +1212,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-27",
       "duration_ms": 263786,
       "name": "Hate It Or Love It - G-Unit Remix",
       "url": "https://open.spotify.com/track/6TYPoBrn53njY2C0WwdmA1"
@@ -1202,6 +1282,42 @@
       "duration_ms": 314400,
       "name": "Holidae In",
       "url": "https://open.spotify.com/track/0FmCLEHfINGqwlyzvklNqy"
+    },
+    {
+      "album": {
+        "name": "Butterfly: 25th Anniversary Expanded Edition",
+        "url": "https://open.spotify.com/album/3VOqo81Nwyx8rcZEc2l379"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2025-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300093,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/1jM5ZCFU2ZE2PyfX4xv6eb"
+    },
+    {
+      "album": {
+        "name": "Nellyville",
+        "url": "https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q"
+      },
+      "artists": [
+        {
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+        }
+      ],
+      "date_added": "2025-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228240,
+      "name": "Hot In Herre",
+      "url": "https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY"
     },
     {
       "album": {
@@ -1882,7 +1998,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-27",
       "duration_ms": 252653,
       "name": "Ms. New Booty",
       "url": "https://open.spotify.com/track/0k6HUzaRHpQ3eEWr1C7Esh"
@@ -1970,7 +2086,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-27",
       "duration_ms": 316133,
       "name": "Never Scared (feat. Killer Mike & T.I.) - Club Mix",
       "url": "https://open.spotify.com/track/4kmIO0yPq92dXtKCL28RfC"
@@ -2120,7 +2236,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-27",
       "duration_ms": 187280,
       "name": "On Fire",
       "url": "https://open.spotify.com/track/0B2ZuTLZnWQ6gz8RlNwBu1"
@@ -2496,7 +2612,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-27",
       "duration_ms": 347506,
       "name": "Rubber Band Man",
       "url": "https://open.spotify.com/track/5Rkbnhwkb6oiqq1HQcXirN"
@@ -2636,7 +2752,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-27",
       "duration_ms": 335613,
       "name": "Still Fly",
       "url": "https://open.spotify.com/track/563vSy3HB5NHxel1VGQCW6"
@@ -2684,7 +2800,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-27",
       "duration_ms": 271053,
       "name": "Still Tippin' (feat. Slim Thug and Paul Wall)",
       "url": "https://open.spotify.com/track/59rtiYOPgMEDf3yPEfU2la"
@@ -2996,7 +3112,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-27",
       "duration_ms": 236080,
       "name": "We Fly High",
       "url": "https://open.spotify.com/track/5rXkgeY6rpcHcsolCpXZHR"
@@ -3114,7 +3230,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-27",
       "duration_ms": 254306,
       "name": "When the Last Time",
       "url": "https://open.spotify.com/track/0EXm0iaB0CzqtsB3VaupXj"
@@ -3136,7 +3252,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-27",
       "duration_ms": 232573,
       "name": "Where the Party At (feat. Nelly)",
       "url": "https://open.spotify.com/track/5mNV8Mz59bzyuQ53gTw0c0"
@@ -3194,6 +3310,32 @@
       "duration_ms": 263226,
       "name": "Work It",
       "url": "https://open.spotify.com/track/3jagJCUbdqhDSPuxP8cAqF"
+    },
+    {
+      "album": {
+        "name": "Confessions (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        },
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        }
+      ],
+      "date_added": "2025-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250373,
+      "name": "Yeah! (feat. Lil Jon & Ludacris)",
+      "url": "https://open.spotify.com/track/5rb9QrpfcKFHM1EUbSIurX"
     },
     {
       "album": {

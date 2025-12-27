@@ -4,7 +4,7 @@
 
 > Your frequency for today's hottest pop tracks via ZA\. Cover: Teagan
 
-707 songs - 1 day 13 hr 29 min
+708 songs - 1 day 13 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Always](https://open.spotify.com/track/31HK5kxZbGVVX6EhtU5FWK) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Always](https://open.spotify.com/album/2gIWzyA5azGmtUtuNOuCeG) | 3:01 | 2024-06-27 | 2024-07-12 |
 | [Always Been About You](https://open.spotify.com/track/3uBcU43eB5jK7yH5kOyvWH) | [Faker Streets](https://open.spotify.com/artist/5fl7MrhmaUgE8flYAmZ0VV) | [Always Been About You](https://open.spotify.com/album/4mlIWO2vV6K0kwl1Tz2K6E) | 3:53 | 2025-06-26 | 2025-07-11 |
 | [Always Remember Us This Way](https://open.spotify.com/track/1koJk8rrMBlhDZ8MNiLzH9) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [A Star Is Born Soundtrack](https://open.spotify.com/album/3a3AKiS0o5qVn25cloDYII) | 3:30 | 2025-04-04 | 2025-04-30 |
+| [Amateur](https://open.spotify.com/track/1LJ8ODaoio5lJMgtXzALMw) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [Amateur](https://open.spotify.com/album/0aABbxpIwIGBeVOOvY50rl) | 2:43 | 2025-12-19 |  |
 | [American Dream](https://open.spotify.com/track/1NryN6SoRm8J8TBqzfIGST) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Don’t Cry Because It’s Over](https://open.spotify.com/album/08Fg1X85feUIInMbyaxIXI) | 2:39 | 2025-09-05 |  |
 | [Angel Of My Dreams](https://open.spotify.com/track/46cW6zufU9Woo11TLs2i6X) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Angel Of My Dreams](https://open.spotify.com/album/6Wf3fqCoGcOYah2lTcwyAA) | 3:17 | 2024-11-07 | 2024-11-16 |
 | [Another Love](https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Deluxe\)](https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8) | 4:04 | 2025-03-20 | 2025-03-28 |
@@ -359,7 +360,7 @@
 | [Listen to me](https://open.spotify.com/track/6LLmloLPHUbx9LoqzooTUF) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [Listen to me](https://open.spotify.com/album/4Hza6L0yTT56WE9hAzLfXx) | 3:08 | 2025-05-29 | 2025-06-21 |
 | [Little Boy Ego](https://open.spotify.com/track/3ObCyTvRHOuj3YTopNOEGW) | [Anica Kiana](https://open.spotify.com/artist/0B6OnZVakGggmtAviW0ep0) | [Little Boy Ego](https://open.spotify.com/album/59DSne0evBlEnBEh3ekxwQ) | 2:20 | 2024-08-09 | 2025-01-31 |
 | [Little Less Liquor \(feat\. Anica Kiana\)](https://open.spotify.com/track/1RzCpATmb5Nrl4rYYC11df) | [Locnville](https://open.spotify.com/artist/3dG8agWw8q1yaBis5HRT5K), [Anica Kiana](https://open.spotify.com/artist/0B6OnZVakGggmtAviW0ep0) | [Little Less Liquor \(feat\. Anica Kiana\)](https://open.spotify.com/album/2PU9nmU5MIXRqwaLihP7IR) | 3:14 | 2025-03-11 | 2025-03-21 |
-| [LOCK ME OUT](https://open.spotify.com/track/6n0qQ8JIB2nWs8fOMcDFcW) | [Johnny Huynh](https://open.spotify.com/artist/7qX6R9NU7sWD66KLlYKnju) | [LOCK ME OUT](https://open.spotify.com/album/1aV0qY4sy2PODMe1pUYRS0) | 2:54 | 2025-08-21 |  |
+| [LOCK ME OUT](https://open.spotify.com/track/6n0qQ8JIB2nWs8fOMcDFcW) | [Johnny Huynh](https://open.spotify.com/artist/7qX6R9NU7sWD66KLlYKnju) | [LOCK ME OUT](https://open.spotify.com/album/1aV0qY4sy2PODMe1pUYRS0) | 2:54 | 2025-08-21 | 2025-12-27 |
 | [Lock You Down](https://open.spotify.com/track/28o3EHbVITwllDyiEfwPqz) | [Teagan](https://open.spotify.com/artist/6CkLmreP33DGrqd7UmqOZi) | [Lock You Down](https://open.spotify.com/album/5yW1qNIcQezzW6mql8586g) | 2:52 | 2024-11-28 | 2025-01-24 |
 | [LOCKED DOWN](https://open.spotify.com/track/7k26O286dEj0gIqmBKrLfD) | [4LViN](https://open.spotify.com/artist/2p6kAG9oGaNYLGoaeyO1vH), [Earldridge](https://open.spotify.com/artist/1071DpFPZNIXO0xPakaNJ6), [EltonK](https://open.spotify.com/artist/10pVHSoimTxm86twXjuEkG) | [LOCKED DOWN](https://open.spotify.com/album/7sj1yqYri8CIUdwRpzMD4k) | 2:56 | 2025-07-10 | 2025-07-18 |
 | [Lonely? \(Come Along\)](https://open.spotify.com/track/4Uo9L4l5evGRj8GB3Sddos) | [Th&o.](https://open.spotify.com/artist/0RYKFLXXxrpiF7e1zmCZLT) | [Lonely? \(Come Along\)](https://open.spotify.com/album/1LsqoJNFx5lsQF9JdMayxA) | 3:44 | 2024-07-18 | 2024-08-24 |

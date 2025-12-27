@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DXc7VN46ifvly.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXc7VN46ifvly) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXc7VN46ifvly)
 
-### [3대 1000 \(K\-Hardcore Workout\)](https://open.spotify.com/playlist/37i9dQZF1DXc7VN46ifvly)
+### [3대 1000](https://open.spotify.com/playlist/37i9dQZF1DXc7VN46ifvly)
 
-> 한계를 뛰어넘는 당신을 운동을 위하여\. \(Push yourself to your limits with powerful Korean music.\)
+> 한계를 뛰어넘는 당신을 운동을 위하여.
 
 156 songs - 8 hr 23 min
 

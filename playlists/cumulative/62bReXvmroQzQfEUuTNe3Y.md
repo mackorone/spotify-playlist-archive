@@ -4,7 +4,7 @@
 
 > Chill tracks to vibe or relax to for 2026\. Updated weekly!
 
-516 songs - 1 day 4 hr 43 min
+518 songs - 1 day 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Face To Face](https://open.spotify.com/track/28pyXNW0jwILn3SZ0zIzJc) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [WATTS](https://open.spotify.com/artist/4B3aifxHtpcKHuNi12lmSt) | [Face To Face](https://open.spotify.com/album/5RpzJv0gRYNNstJ092JcGg) | 3:36 | 2022-01-14 | 2022-07-16 |
 | [Fade](https://open.spotify.com/track/0wbqBeCFHHDWaaUtZCmdDN) | [Bondax](https://open.spotify.com/artist/4qobOrZpdUri80gScwsHfs), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [Fade \(feat\. SHELLS\)](https://open.spotify.com/album/3kXaZDvNkarO4hu03IuX1y) | 3:43 | 2022-08-05 | 2025-02-08 |
 | [Fade \- Your Eyes Vocal Edit](https://open.spotify.com/track/0Il7aXEcgGpJ1gCMQYeAMe) | [Wild Culture](https://open.spotify.com/artist/7hayBHpyq0PvgOt9l96hpp), [Lucia](https://open.spotify.com/artist/2q125u4SujtYj8A0Zs3R7Z) | [Fade E.P\. \(Incl\. Remix By Lexer\)](https://open.spotify.com/album/7GGC5AySPrPqj0ritAovrb) | 6:03 | 2020-09-13\* | 2021-03-06 |
+| [fade out](https://open.spotify.com/track/2YdfYkX3v6o0ogBCIuPiQW) | [i.am.u.](https://open.spotify.com/artist/2ikhrwYSd90KMYRIIS8Iju) | [over time](https://open.spotify.com/album/1yQjcEAY5y5lxYupIaleHo) | 2:03 | 2025-12-26 |  |
 | [Feel Good Inc.](https://open.spotify.com/track/0uABO1PKbTJvcNQD7usbSw) | [Marcus Layton](https://open.spotify.com/artist/6JzWgxi0nFzcHq7cqpGbiz), [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO) | [Feel Good Inc.](https://open.spotify.com/album/4ylZuLcnZ4XSTrwY0suaFb) | 2:53 | 2021-03-06 | 2021-10-16 |
 | [Feel Like Home \- Embody Remix](https://open.spotify.com/track/4ZLQGkK1EMtFtYXistZ08R) | [Sander Kleinenberg](https://open.spotify.com/artist/3CfH3WZPzbk5mNDWXpGIy6), [Dyson](https://open.spotify.com/artist/5LWQLBPNcQrzUtg5imjz67), [Embody](https://open.spotify.com/artist/0e7jcv95x5MTycydtfg6wv) | [Feel Like Home \(Remixes\)](https://open.spotify.com/album/4uvxD8sm2XLCP4GTCZJihI) | 2:57 | 2020-09-13\* | 2021-03-06 |
 | [Feel Your Body](https://open.spotify.com/track/3cIjfIqsLjCkuO31ycSBxP) | [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM) | [Feel Your Body](https://open.spotify.com/album/1hxGoj2oEogn1b8ESBaYl8) | 2:56 | 2022-08-05 | 2025-07-05 |
@@ -411,6 +412,7 @@
 | [Something Stronger](https://open.spotify.com/track/1VhD0FPDYqFhqRJVguVAJe) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA), [SHYA](https://open.spotify.com/artist/3bUHVz55uXLTtxggKQyXIO), [Coldabank](https://open.spotify.com/artist/3JOvRLynmP4mA6dvlWARoA) | [Something Stronger](https://open.spotify.com/album/6jjwM9Sheset9qyHMMA4PB) | 2:07 | 2023-03-17 |  |
 | [Stare Into Your Eyes](https://open.spotify.com/track/21YSNocrWGa1vdSeXsOypC) | [exclap](https://open.spotify.com/artist/5kDLlXP8v2hQi26n7Ik5xS) | [Stare Into Your Eyes](https://open.spotify.com/album/2JLeW8AI1qRmPqOOGUwVli) | 2:21 | 2022-06-10 | 2025-09-27 |
 | [Stay](https://open.spotify.com/track/4XBOr6AyDRmjBDQrUaHPsC) | [Henry Krinkle](https://open.spotify.com/artist/1gLcjMrQA0camEmid1nBHO) | [Stay](https://open.spotify.com/album/26UK9bA7WT1rZ5jqqmNhpB) | 6:27 | 2020-09-13\* | 2021-03-06 |
+| [Stay](https://open.spotify.com/track/6UTUFTUBJEDtO9HXWO1KEA) | [Julien Fade](https://open.spotify.com/artist/75jzFWGzvtNIwV7xoAp0wg) | [Stay](https://open.spotify.com/album/1UANyBGhXuLjNZ5qeclpdA) | 3:36 | 2025-12-26 |  |
 | [Stay](https://open.spotify.com/track/0Sm4Ql0BuY87bftUBH68tv) | [REVERSE](https://open.spotify.com/artist/2mP4JDbd7FikmTaymCT5tt), [NORTH26](https://open.spotify.com/artist/0VCdFnUDF3uztrIR53Jtsk) | [Stay](https://open.spotify.com/album/63Unsf2oq1OStxbdA8o29N) | 2:30 | 2021-08-21 |  |
 | [Stay High \(VIP\) \[feat\. Julia Church\]](https://open.spotify.com/track/0EgrJVOPYVgsFiF5D0RKRV) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Stay High \(feat\. Julia Church\) \[Zerb Remix\]](https://open.spotify.com/album/2QiJpXZC0xupQ2CAxsE5xJ) | 3:12 | 2024-02-23 | 2024-11-30 |
 | [Stay Right Here](https://open.spotify.com/track/0IDGbb3NY9pJoMzfkI4Jt4) | [SAINT.](https://open.spotify.com/artist/4PJPu8KnXK18EAZheLcxwK), [Peer Pressure](https://open.spotify.com/artist/7ecIJx38Dwdtdguyzhvt4k) | [Stay Right Here](https://open.spotify.com/album/4z2hKkEoHtzfIzJFqPw3WH) | 2:48 | 2023-06-30 | 2025-07-31 |

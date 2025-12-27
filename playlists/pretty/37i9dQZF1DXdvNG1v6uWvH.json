@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG9+MhO+PXaWrAuRISccptQ4MYoE",
+  "snapshot_id": "AAAAAPqR/DCn+WZ2vQQGD/QHvWLRj+KG",
   "tracks": [
     {
       "added_at": "2025-12-19 00:00:33",
@@ -263,22 +263,6 @@
     {
       "added_at": "2025-12-19 00:00:33",
       "album": {
-        "name": "X-Ray / Clumsy",
-        "url": "https://open.spotify.com/album/032sW7ZlFR7Q5beC3Ppcqq"
-      },
-      "artists": [
-        {
-          "name": "Fight Pausa",
-          "url": "https://open.spotify.com/artist/1BkdvKE1YNIAAWrLNzLWKU"
-        }
-      ],
-      "duration_ms": 154946,
-      "name": "X-Ray",
-      "url": "https://open.spotify.com/track/4t3CRfsV9wL4ZSiqSe7PSx"
-    },
-    {
-      "added_at": "2025-12-19 00:00:33",
-      "album": {
         "name": "Clap Song",
         "url": "https://open.spotify.com/album/7LAapowXY9JaobinDNkO20"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 155204,
       "name": "Clap Song",
       "url": "https://open.spotify.com/track/1b7w4UuUfq9iPoDstsrT2u"
+    },
+    {
+      "added_at": "2025-12-19 00:00:33",
+      "album": {
+        "name": "X-Ray / Clumsy",
+        "url": "https://open.spotify.com/album/032sW7ZlFR7Q5beC3Ppcqq"
+      },
+      "artists": [
+        {
+          "name": "Fight Pausa",
+          "url": "https://open.spotify.com/artist/1BkdvKE1YNIAAWrLNzLWKU"
+        }
+      ],
+      "duration_ms": 154946,
+      "name": "X-Ray",
+      "url": "https://open.spotify.com/track/4t3CRfsV9wL4ZSiqSe7PSx"
     },
     {
       "added_at": "2025-12-19 00:00:33",
@@ -471,22 +471,6 @@
     {
       "added_at": "2025-12-19 00:00:33",
       "album": {
-        "name": "set you free (truth will find a way)",
-        "url": "https://open.spotify.com/album/22aHWqRnMOz2MHsEL5JBV1"
-      },
-      "artists": [
-        {
-          "name": "Uppermost",
-          "url": "https://open.spotify.com/artist/58UpHBCQ1Jj67DJsR7Qyqg"
-        }
-      ],
-      "duration_ms": 199680,
-      "name": "set you free (truth will find a way)",
-      "url": "https://open.spotify.com/track/0mZ9Iqxby5iceDT1Ug2wN6"
-    },
-    {
-      "added_at": "2025-12-19 00:00:33",
-      "album": {
         "name": "Shakira",
         "url": "https://open.spotify.com/album/1Owc9Ygu0V2Mu0EdtVkTYW"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 189000,
       "name": "Shakira",
       "url": "https://open.spotify.com/track/3bmvru095aLu7EDYp1mBFA"
+    },
+    {
+      "added_at": "2025-12-19 00:00:33",
+      "album": {
+        "name": "set you free (truth will find a way)",
+        "url": "https://open.spotify.com/album/22aHWqRnMOz2MHsEL5JBV1"
+      },
+      "artists": [
+        {
+          "name": "Uppermost",
+          "url": "https://open.spotify.com/artist/58UpHBCQ1Jj67DJsR7Qyqg"
+        }
+      ],
+      "duration_ms": 199680,
+      "name": "set you free (truth will find a way)",
+      "url": "https://open.spotify.com/track/0mZ9Iqxby5iceDT1Ug2wN6"
     },
     {
       "added_at": "2025-12-19 00:00:33",

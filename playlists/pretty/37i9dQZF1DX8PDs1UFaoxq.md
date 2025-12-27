@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8PDs1UFaoxq.md) - [plain]
 
 > Welcome to Beechwood Island\. Listen to the music from We Were Liars, a new original series now streaming on Prime Video.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,687 likes - 85 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,695 likes - 85 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Jelly Roll. The essential tracks, all in one playlist.",
-  "num_followers": 325962,
+  "num_followers": 326030,
   "original_name": "This Is Jelly Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUstAAAAAAD9X8jdlDNgTJHTW6oL05vh",
+  "snapshot_id": "aUx+gAAAAADGiGsGo5mn+t/9prrM5oTf",
   "tracks": [
     {
       "added_at": null,
@@ -631,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dreams Don\u2019t Die",
-        "url": "https://open.spotify.com/album/0kS7VkeLcJrWUwLUIMfP7Z"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 181933,
-      "name": "Dreams Don\u2019t Die",
-      "url": "https://open.spotify.com/track/2ZiIL3VpkHlZ6tfNIfQU6q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beautifully Broken (Pickin\u2019 Up The Pieces)",
         "url": "https://open.spotify.com/album/2NqI5Hd3wWXNWUrZNuZvO9"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 198426,
       "name": "Don't Want To (with Keith Urban)",
       "url": "https://open.spotify.com/track/74UZosQdVAsRovxHKjrHZt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dreams Don\u2019t Die",
+        "url": "https://open.spotify.com/album/0kS7VkeLcJrWUwLUIMfP7Z"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 181933,
+      "name": "Dreams Don\u2019t Die",
+      "url": "https://open.spotify.com/track/2ZiIL3VpkHlZ6tfNIfQU6q"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ballads of the Broken",
-        "url": "https://open.spotify.com/album/4HNIAKT3412itayEYv2BxL"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 201280,
-      "name": "Dead Man Walking",
-      "url": "https://open.spotify.com/track/4BImM1ASmigkuEhxrPfUAf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beautifully Broken (Pickin\u2019 Up The Pieces)",
         "url": "https://open.spotify.com/album/2NqI5Hd3wWXNWUrZNuZvO9"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 193880,
       "name": "Past Yesterday (with Skylar Grey)",
       "url": "https://open.spotify.com/track/0mQWqf3GGHuwlF7VUaCeEk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ballads of the Broken",
+        "url": "https://open.spotify.com/album/4HNIAKT3412itayEYv2BxL"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 201280,
+      "name": "Dead Man Walking",
+      "url": "https://open.spotify.com/track/4BImM1ASmigkuEhxrPfUAf"
     },
     {
       "added_at": null,
@@ -815,6 +815,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Beautiful Disaster",
+        "url": "https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        },
+        {
+          "name": "Bailee Ann",
+          "url": "https://open.spotify.com/artist/143jckJu4XLjHmEy2RpysV"
+        }
+      ],
+      "duration_ms": 215477,
+      "name": "Tears Could Talk",
+      "url": "https://open.spotify.com/track/5gIApdTL8YNESKujlYnDuK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hard Fought Hallelujah (Gospel Version) - Spotify Singles (feat. The Choir Room)",
         "url": "https://open.spotify.com/album/5iqrBPqbMiGOMUw2xVNmOs"
       },
@@ -839,26 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Beautiful Disaster",
-        "url": "https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        },
-        {
-          "name": "Bailee Ann",
-          "url": "https://open.spotify.com/artist/143jckJu4XLjHmEy2RpysV"
-        }
-      ],
-      "duration_ms": 215477,
-      "name": "Tears Could Talk",
-      "url": "https://open.spotify.com/track/5gIApdTL8YNESKujlYnDuK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Addiction Kills",
         "url": "https://open.spotify.com/album/1S7q7yBHK7Pxd8KDgn3iqP"
       },
@@ -876,7 +876,7 @@
       "added_at": null,
       "album": {
         "name": "Waylon & Willie 2",
-        "url": "https://open.spotify.com/album/4o9I622N2dNhGOiaHqjwad"
+        "url": "https://open.spotify.com/album/2nNjq5Qu0IxFI7lXMrOfzm"
       },
       "artists": [
         {
@@ -890,27 +890,7 @@
       ],
       "duration_ms": 249302,
       "name": "Fall in the Fall",
-      "url": "https://open.spotify.com/track/6bXSfLBuqFQtVHNLxXbqbk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Waylon & Willie",
-        "url": "https://open.spotify.com/album/2XPQn6UyIL06t8Jgv6mba1"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        },
-        {
-          "name": "Struggle Jennings",
-          "url": "https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23"
-        }
-      ],
-      "duration_ms": 192969,
-      "name": "Cowboys",
-      "url": "https://open.spotify.com/track/3scAjDdskrwS9KoTQrvvs9"
+      "url": "https://open.spotify.com/track/6RzCCKw2UI0vxzaVDandfX"
     },
     {
       "added_at": null,
@@ -927,6 +907,26 @@
       "duration_ms": 203550,
       "name": "Nothing Left At All",
       "url": "https://open.spotify.com/track/3WhglCUuc5HGhvtzfjc8YY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beautifully Broken (Pickin\u2019 Up The Pieces)",
+        "url": "https://open.spotify.com/album/2NqI5Hd3wWXNWUrZNuZvO9"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        },
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        }
+      ],
+      "duration_ms": 185480,
+      "name": "Really Gone (with Russ)",
+      "url": "https://open.spotify.com/track/3m5skOgX8UizlHiTTduVvA"
     }
   ],
   "unique_name": "This Is Jelly Roll",

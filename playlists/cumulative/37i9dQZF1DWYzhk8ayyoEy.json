@@ -2903,6 +2903,24 @@
     },
     {
       "album": {
+        "name": "THANKFUL",
+        "url": "https://open.spotify.com/album/0Lukg1vKeWF4qQ0k4YcN0C"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "date_added": "2025-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136458,
+      "name": "THANKFUL",
+      "url": "https://open.spotify.com/track/3q7GRmWPTNo5S6CEq6SURW"
+    },
+    {
+      "album": {
         "name": "The Constant",
         "url": "https://open.spotify.com/album/1iWWEgMx2RgALeJTBAWqRd"
       },
@@ -3554,7 +3572,7 @@
       ],
       "date_added": "2025-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-27",
       "duration_ms": 198082,
       "name": "YOUR WAY'S BETTER",
       "url": "https://open.spotify.com/track/7JDfWHxOFo63yQmVs5wSPM"

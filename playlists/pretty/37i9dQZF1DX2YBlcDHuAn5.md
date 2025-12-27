@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 
 > De mooiste muziek: Americana \| Country
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,845 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,843 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 | 29 | [Dear Maria](https://open.spotify.com/track/474l0bzcgUT8Y6e8pul43i) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [May](https://open.spotify.com/album/0zL7IkhuOdQtIKp999gDv6) | 3:13 |
 | 30 | [Granite Mills](https://open.spotify.com/track/42IDWgfyuArjYaJ8uPlLrH) | [Alison Krauss & Union Station](https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Arcadia](https://open.spotify.com/album/4S72Bm1ybpe6pwG2ni2wGH) | 3:40 |
 | 31 | [Ain't No Running Around It](https://open.spotify.com/track/5AER6dbu2vF5W1fI8lcpoX) | [Bertolf](https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty), [Nomden](https://open.spotify.com/artist/3gcuehaPKk7YQiNG19k4fX) | [Ain't No Running Around It](https://open.spotify.com/album/4s7TyXJR2VHbobDIIp1JjE) | 2:52 |
-| 32 | [Human Mind](https://open.spotify.com/track/3lD9Y6X1tNME5o5x8KoTEd) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [Human Mind](https://open.spotify.com/album/2nuUkgLqKZnDg9Abj22MTc) | 3:12 |
+| 32 | [Come Along as One](https://open.spotify.com/track/4izIdsGxr6lPaV8aeEauFU) | [Shane Guerrette](https://open.spotify.com/artist/4xaFqKnLaGscm3y2CU13Qq) | [Come Along](https://open.spotify.com/album/2I2GgjfMffCEszqaxa2kWA) | 3:49 |
 | 33 | [This Night's Alright](https://open.spotify.com/track/75Mp2Ww9Ni8GLRa8u69yYU) | [Tim Knol](https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K) | [Wanderings](https://open.spotify.com/album/5drfnFk0N0p4J4gN9spx5l) | 3:41 |
-| 34 | [Come Along as One](https://open.spotify.com/track/4izIdsGxr6lPaV8aeEauFU) | [Shane Guerrette](https://open.spotify.com/artist/4xaFqKnLaGscm3y2CU13Qq) | [Come Along](https://open.spotify.com/album/2I2GgjfMffCEszqaxa2kWA) | 3:49 |
+| 34 | [Human Mind](https://open.spotify.com/track/3lD9Y6X1tNME5o5x8KoTEd) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [Human Mind](https://open.spotify.com/album/2nuUkgLqKZnDg9Abj22MTc) | 3:12 |
 | 35 | [For Once](https://open.spotify.com/track/5TzvfVBJkKqHKYcVyKlSDB) | [Aäron Koch](https://open.spotify.com/artist/5SJoC7NQtJbwyCOm8ebQ21) | [For Once](https://open.spotify.com/album/4JFKpD8x7FPol9wdWnHnOf) | 3:57 |
 | 36 | [Buckle Down](https://open.spotify.com/track/2B0dpsOLbVaofyXuHBhxsY) | [Melanie Ryan](https://open.spotify.com/artist/1ReNCqNlGVnBM4RGOWkUK4) | [Buckle Down](https://open.spotify.com/album/39YthQpPlhl9T1w28OS8f2) | 2:46 |
 | 37 | [Good As Gone](https://open.spotify.com/track/3Q7e5lPNK6PJ5PqpqczWnf) | [Koen Vael](https://open.spotify.com/artist/3vLt2bP1seJHs2RGSSZ0jx) | [Good As Gone](https://open.spotify.com/album/5L7K0GaNwfTqHG5XRYjK50) | 3:45 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 | 41 | [Wish I Never Met You](https://open.spotify.com/track/3CAuBM6hYu7mJi8WZkZ8aO) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ), [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX) | [Midwest Kid](https://open.spotify.com/album/1TLaGao4Yqe6Qb2uRsXRXx) | 2:37 |
 | 42 | [The Machine \- Radio Edit](https://open.spotify.com/track/3kGWfGkDJ11WFqOK2AkYRE) | [Jodymoon](https://open.spotify.com/artist/3SDwQlOp6Q8MWJusQhbga0) | [The Machine \(Radio Edit\)](https://open.spotify.com/album/2jiqkUjC2pa8roaYu71nd3) | 3:14 |
 | 43 | [The Fire Inside](https://open.spotify.com/track/7fUIsy72KNco1BUC5LqtSc) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [The Fire Inside](https://open.spotify.com/album/0IcuQe8xyjgDFN22o5jcBp) | 3:35 |
-| 44 | [Birds Of Prey](https://open.spotify.com/track/2PeQibwp5iKppdDraL9GOo) | [Dawn Brothers](https://open.spotify.com/artist/05vyC7M8P5Wr120O1yTv6a) | [Late to the Party / Birds of Prey](https://open.spotify.com/album/3Pw85XzPIMj9vW7RZKjJiX) | 2:15 |
-| 45 | [Eye of the Storm](https://open.spotify.com/track/1CAc81sLJsmg3pxC2P9raq) | [Melanie Ryan](https://open.spotify.com/artist/1ReNCqNlGVnBM4RGOWkUK4), [Jop Dorris](https://open.spotify.com/artist/5t2SmFNNI1Si5LssCNsrS3) | [Eye of the Storm](https://open.spotify.com/album/72Z5kQ51FyrRIeXHa4wMLp) | 3:45 |
+| 44 | [Eye of the Storm](https://open.spotify.com/track/1CAc81sLJsmg3pxC2P9raq) | [Melanie Ryan](https://open.spotify.com/artist/1ReNCqNlGVnBM4RGOWkUK4), [Jop Dorris](https://open.spotify.com/artist/5t2SmFNNI1Si5LssCNsrS3) | [Eye of the Storm](https://open.spotify.com/album/72Z5kQ51FyrRIeXHa4wMLp) | 3:45 |
+| 45 | [Birds Of Prey](https://open.spotify.com/track/2PeQibwp5iKppdDraL9GOo) | [Dawn Brothers](https://open.spotify.com/artist/05vyC7M8P5Wr120O1yTv6a) | [Late to the Party / Birds of Prey](https://open.spotify.com/album/3Pw85XzPIMj9vW7RZKjJiX) | 2:15 |
 | 46 | [LEO](https://open.spotify.com/track/2AHfDqdnzfXBwLoKFoWsmg) | [Kimmy June](https://open.spotify.com/artist/1sKzVtXJLtrK6BGTKVJzGK) | [LEO](https://open.spotify.com/album/0iwv7taqBBnXTqPI4p1fYg) | 3:13 |
 | 47 | [Hold Your Fire](https://open.spotify.com/track/6mzTD4VqE5lEg7MLQ8PKqK) | [Tim Akkerman](https://open.spotify.com/artist/1mdYzJv7Z90aiNlfBvoI9u), [The Ivy League](https://open.spotify.com/artist/3sEDJcE3V0YjnmaxIQP5qO) | [Hold Your Fire](https://open.spotify.com/album/3AMaRXx8JHkgraFE2koTaY) | 3:16 |
 | 48 | [In The Middle Of It](https://open.spotify.com/track/1RwZ3acl6fKP04Yv3zWtPW) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [In The Middle Of It](https://open.spotify.com/album/2JOSogTvcer7AY1zZLRSIE) | 4:00 |

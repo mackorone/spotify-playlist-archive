@@ -1,6 +1,6 @@
 {
   "description": "A alegria do Senhor \u00e9 a vossa for\u00e7a! Entre no groove com o melhor do Soul, Funk e Disco Crist\u00e3o. Foto: Kleber Lucas",
-  "num_followers": 181062,
+  "num_followers": 181083,
   "original_name": "Grooveria Gospel",
   "owner": {
     "name": "Spotify",
@@ -787,22 +787,6 @@
     {
       "added_at": "2025-05-23 03:01:26",
       "album": {
-        "name": "Fortaleza Minha",
-        "url": "https://open.spotify.com/album/0fmDzUwpVkfVmOK97YdEhC"
-      },
-      "artists": [
-        {
-          "name": "Robson Nascimento",
-          "url": "https://open.spotify.com/artist/3rd7BCaAWyKxJFKiSjlxdd"
-        }
-      ],
-      "duration_ms": 286360,
-      "name": "Profeta",
-      "url": "https://open.spotify.com/track/3XDlh3qWr9on7q4kLRRf05"
-    },
-    {
-      "added_at": "2025-05-23 03:01:26",
-      "album": {
         "name": "bora!",
         "url": "https://open.spotify.com/album/5z7JSiUpjtDru6DWu2ZeV9"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 203906,
       "name": "bora!",
       "url": "https://open.spotify.com/track/4948u3dZT5UGMASfGvjyzN"
+    },
+    {
+      "added_at": "2025-05-23 03:01:26",
+      "album": {
+        "name": "Fortaleza Minha",
+        "url": "https://open.spotify.com/album/0fmDzUwpVkfVmOK97YdEhC"
+      },
+      "artists": [
+        {
+          "name": "Robson Nascimento",
+          "url": "https://open.spotify.com/artist/3rd7BCaAWyKxJFKiSjlxdd"
+        }
+      ],
+      "duration_ms": 286360,
+      "name": "Profeta",
+      "url": "https://open.spotify.com/track/3XDlh3qWr9on7q4kLRRf05"
     },
     {
       "added_at": "2025-05-23 03:01:26",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2025-05-23 03:01:26",
       "album": {
-        "name": "Eli Soares 10 Anos",
-        "url": "https://open.spotify.com/album/2UsWM0txt8jjHSUgEAKcuq"
-      },
-      "artists": [
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        }
-      ],
-      "duration_ms": 237093,
-      "name": "Eu Sou",
-      "url": "https://open.spotify.com/track/3sEcVLYLPMdP2lOhw9aF47"
-    },
-    {
-      "added_at": "2025-05-23 03:01:26",
-      "album": {
         "name": "360 Graus",
         "url": "https://open.spotify.com/album/6i9ALb6S9vy8OAjcbBjDwq"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 234503,
       "name": "Agindo Deus",
       "url": "https://open.spotify.com/track/0Tdr4unuCWQ6DtEOGAQims"
+    },
+    {
+      "added_at": "2025-05-23 03:01:26",
+      "album": {
+        "name": "Eli Soares 10 Anos",
+        "url": "https://open.spotify.com/album/2UsWM0txt8jjHSUgEAKcuq"
+      },
+      "artists": [
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        }
+      ],
+      "duration_ms": 237093,
+      "name": "Eu Sou",
+      "url": "https://open.spotify.com/track/3sEcVLYLPMdP2lOhw9aF47"
     }
   ],
   "unique_name": "Grooveria Gospel",

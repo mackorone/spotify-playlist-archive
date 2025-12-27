@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new Christmas tracks of all Christian, Gospel, Worship & Inspirational music genres this year!  Cover: Sarah Kroger
 
-[Spotify](https://open.spotify.com/user/spotify) - 365,088 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 365,238 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

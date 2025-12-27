@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:4nqQTosM2Mbg7iRjvJU0N0">Samara Cyn</a>
 
-2,657 songs - 4 day 21 hr 27 min
+2,658 songs - 4 day 21 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,7 +339,8 @@
 | [Blue Devils \(feat\. DaBaby\) \- Remix](https://open.spotify.com/track/29a9AZPAMPSifXvDnk4h3b) | [Trap Dickey](https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Blue Devils \(Remix\)](https://open.spotify.com/album/3UKANlbbyiPtZ2bwKyda5I) | 2:28 | 2024-08-30 | 2024-10-05 |
 | [BMF \(feat\. Icewear Vezzo\)](https://open.spotify.com/track/121wZiInkf2n3mjvh2b6TQ) | [Stunna 4 Vegas](https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8), [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [BMF \(feat\. Icewear Vezzo\)](https://open.spotify.com/album/3epYdUTW4wgCIxRDAYKItt) | 3:01 | 2022-05-06 | 2022-07-23 |
 | [BNB 2](https://open.spotify.com/track/2cRPsh2awypYNmILFLt4oU) | [Dee Billz](https://open.spotify.com/artist/2fBU7rOViK7ywwHCIYEa7h), [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf) | [BNB 2](https://open.spotify.com/album/62SM9UASaYSZR80IZxqNGs) | 2:11 | 2025-02-28 | 2025-03-08 |
-| [BOAT](https://open.spotify.com/track/3saKLLmgDVjgojwm3HB45i) | [Trim](https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9) | [BOAT](https://open.spotify.com/album/3pGNWXpCt2g48Wfs791E2E) | 3:27 | 2025-12-05 |  |
+| [BOAT](https://open.spotify.com/track/3saKLLmgDVjgojwm3HB45i) | [Trim](https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9) | [BOAT](https://open.spotify.com/album/3pGNWXpCt2g48Wfs791E2E) | 3:27 | 2025-12-05 | 2025-12-27 |
+| [Boat Remix](https://open.spotify.com/track/2HeqKWstr0XAYILHpRo5ra) | [Trim](https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9), [YKNIECE](https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog), [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [Boat Remix](https://open.spotify.com/album/0PBa3RVZ6Mpy9dCdb3UnRC) | 2:43 | 2025-12-26 |  |
 | [Body](https://open.spotify.com/track/5t8FBhJKbpBCskmOaMRxQW) | [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ) | [Body](https://open.spotify.com/album/3wTOyUsrPYyyByd6kMkZRn) | 2:47 | 2023-09-22 | 2023-11-04 |
 | [Body & A Face](https://open.spotify.com/track/1P4mE8Lw6qTm85UGhlbwgh) | [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU) | [Body & A Face](https://open.spotify.com/album/0CXroMh9bBWpGVFyqstJP7) | 2:39 | 2022-09-09 | 2022-11-05 |
 | [Body Bag](https://open.spotify.com/track/04b0tLlmpRhukCXaXT6l2J) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Body Bag](https://open.spotify.com/album/1uGar7MLJx7xRxSttyCw75) | 2:38 | 2022-10-21 | 2022-12-03 |

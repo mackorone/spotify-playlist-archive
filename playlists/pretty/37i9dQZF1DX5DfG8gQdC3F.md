@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 ### [New Music Friday Canada](https://open.spotify.com/playlist/37i9dQZF1DX5DfG8gQdC3F)
 
-> New music from Arkells, Kali Uchis, Smiley, River Tiber, Sophie Powers and more!
+> Happy Holidays! No new releases from us this week, but <a href="https://open.spotify.com/playlist/37i9dQZF1DX4JAvHpjipBk?si=c4431526c08c4325">US New Music Friday</a> has you covered\. We’ll be back next week\. Cover: Arkells
 
-[Spotify](https://open.spotify.com/user/spotify) - 580,071 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 580,348 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [EYES](https://open.spotify.com/track/77UBLe8jlRIxn8AsouUtS1) | [Roddy Lima](https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx) | [EYES](https://open.spotify.com/album/02vJlON5DhAy9I73azuKcx) | 3:33 |
 | 100 | [ICY \(TAKE IT OFF\)](https://open.spotify.com/track/1Hs5hD1y5CCCHwFkM26kv3) | [Robert Baxter](https://open.spotify.com/artist/5VOw2lhSolJj6DgdrkN20j), [Sweatbaby](https://open.spotify.com/artist/1phDY6rkCuE2y5DYiQZ2Z9) | [ICY \(TAKE IT OFF\)](https://open.spotify.com/album/6XVgQ2o09OKo3cLDTAaWxW) | 3:24 |
 
-Snapshot ID: `AAAAAPq2hwZJP85bNiBtMqexZ+ve8KoZ`
+Snapshot ID: `AAAAAKa7EBjER2tYOsT64zPh0L8oCpfI`

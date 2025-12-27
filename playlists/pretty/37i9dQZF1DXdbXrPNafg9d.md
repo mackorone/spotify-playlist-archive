@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: This is Lorelei
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,293,723 likes - 150 songs - 8 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,293,905 likes - 150 songs - 8 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 149 | [Avalanche](https://open.spotify.com/track/7BXW8CSXcjJtMDPE4uWPBX) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Singles](https://open.spotify.com/album/5lk7DCC2cGR6l7VGeF255x) | 3:12 |
 | 150 | [Evangeline](https://open.spotify.com/track/3V4Cr62Dp1bQo5B98k3sDs) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Evangeline](https://open.spotify.com/album/6KvzvU0oOFWLw7yZhV3qse) | 3:26 |
 
-Snapshot ID: `AAAAAGtB/ZVWLo2Pt637uAldUJkCG4SM`
+Snapshot ID: `AAAAAMBYjwZFoy626MBNTlCVyl+zAv4P`

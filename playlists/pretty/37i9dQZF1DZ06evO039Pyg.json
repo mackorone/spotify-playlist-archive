@@ -1,12 +1,12 @@
 {
   "description": "This is Kehlani. The essential tracks, all in one playlist.",
-  "num_followers": 328147,
+  "num_followers": 328224,
   "original_name": "This Is Kehlani",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUstAAAAAAD9OLF2jruLUxNaqjhqa+d8",
+  "snapshot_id": "aUx+gAAAAACMUIh1fqjhumypgKADgrpk",
   "tracks": [
     {
       "added_at": null,
@@ -459,26 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "While We Wait 2",
-        "url": "https://open.spotify.com/album/0tmZqPHODtZmBHr3cozsOa"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 268401,
-      "name": "When He's Not There (feat. Lucky Daye)",
-      "url": "https://open.spotify.com/track/7nBH9p1JeLmvkxW17JRprs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PINK PLANET",
         "url": "https://open.spotify.com/album/21iLTKX2O7LTHijlyXsbG1"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 169127,
       "name": "At My Worst (feat. Kehlani)",
       "url": "https://open.spotify.com/track/306ediRjbmuizOLWtjDG3Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "While We Wait 2",
+        "url": "https://open.spotify.com/album/0tmZqPHODtZmBHr3cozsOa"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 268401,
+      "name": "When He's Not There (feat. Lucky Daye)",
+      "url": "https://open.spotify.com/track/7nBH9p1JeLmvkxW17JRprs"
     },
     {
       "added_at": null,
@@ -851,26 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ur Best Friend",
-        "url": "https://open.spotify.com/album/5vQaqB1ZfaOW6BSEGuQ8HC"
-      },
-      "artists": [
-        {
-          "name": "Kiana Led\u00e9",
-          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 182858,
-      "name": "Ur Best Friend (with Kehlani)",
-      "url": "https://open.spotify.com/track/1gsYCXkisSnnjBb3qwYZoc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Good For You",
         "url": "https://open.spotify.com/album/3lajefIuUk4SfzqVBSJy8p"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 220160,
       "name": "Heebiejeebies - Bonus",
       "url": "https://open.spotify.com/track/32xx0fAv3CIeGmNaWTHvEF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ur Best Friend",
+        "url": "https://open.spotify.com/album/5vQaqB1ZfaOW6BSEGuQ8HC"
+      },
+      "artists": [
+        {
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 182858,
+      "name": "Ur Best Friend (with Kehlani)",
+      "url": "https://open.spotify.com/track/1gsYCXkisSnnjBb3qwYZoc"
     },
     {
       "added_at": null,

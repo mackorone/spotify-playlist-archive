@@ -40249,6 +40249,32 @@
     },
     {
       "album": {
+        "name": "Every Step Holds Freedom",
+        "url": "https://open.spotify.com/album/667NU4HyG2Uyj0rTHWTzsp"
+      },
+      "artists": [
+        {
+          "name": "The Notorious CPU",
+          "url": "https://open.spotify.com/artist/0oNKkdrAeLRQROSkaFCrym"
+        },
+        {
+          "name": "H.1",
+          "url": "https://open.spotify.com/artist/3azKf6nXrUCI1RLZkX4Aj6"
+        },
+        {
+          "name": "The Yume Collective",
+          "url": "https://open.spotify.com/artist/7Kdl3c6JU2v41pmXkG31Q7"
+        }
+      ],
+      "date_added": "2025-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147700,
+      "name": "Every Step Holds Freedom",
+      "url": "https://open.spotify.com/track/5aG94YFOXv9ThCM9VmNuYA"
+    },
+    {
+      "album": {
         "name": "everyday pleasures",
         "url": "https://open.spotify.com/album/2gbuI2GJPiURDLUeMNx736"
       },
@@ -62988,7 +63014,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-27",
       "duration_ms": 92841,
       "name": "Isular",
       "url": "https://open.spotify.com/track/1XzURP8Kqghwdzw1Q3aABz"
@@ -84942,7 +84968,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-27",
       "duration_ms": 123016,
       "name": "Mr. Cho",
       "url": "https://open.spotify.com/track/7uvRHTEts5dFJiPJfBcT0p"
@@ -104720,6 +104746,24 @@
       "duration_ms": 79216,
       "name": "Reminisce.",
       "url": "https://open.spotify.com/track/2H1G5ubtYJiPGbUJG5ve13"
+    },
+    {
+      "album": {
+        "name": "Reminiscing",
+        "url": "https://open.spotify.com/album/0wqdl2d5FI9j32fffddkx4"
+      },
+      "artists": [
+        {
+          "name": "Notation",
+          "url": "https://open.spotify.com/artist/6Ez42bOoRelk95xv7GBMhx"
+        }
+      ],
+      "date_added": "2025-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Reminiscing",
+      "url": "https://open.spotify.com/track/6fH8tGWOJjNA4Wb1JufHWZ"
     },
     {
       "album": {

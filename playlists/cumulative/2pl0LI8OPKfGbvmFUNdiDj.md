@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-266 songs - 14 hr 56 min
+268 songs - 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Gregorian Time](https://open.spotify.com/track/2GLBxwXrIY5P2kHzZDAtek) | [Lily Quinn](https://open.spotify.com/artist/2vDtkusMUDE17BfHasvShX) | [Seraphic Whisper](https://open.spotify.com/album/3uzuuzA6r2Po42yaiqOS0F) | 4:08 | 2025-12-01 |  |
 | [Guau Guau](https://open.spotify.com/track/6c63incVIBg4FCtvxFUqZX) | [Nico Tallac](https://open.spotify.com/artist/7afY95ejJDhYH50Ce2mgsT) | [En Fin](https://open.spotify.com/album/4nZsWk64LWVpk3Dui3czf8) | 4:32 | 2025-11-03 | 2025-12-01 |
 | [Gélido](https://open.spotify.com/track/4bKbELQHfllBUDB8cFH6ri) | [Javzye](https://open.spotify.com/artist/1AM71cIOWu0sM8D6yju4xX) | [Gélido](https://open.spotify.com/album/0Ws3kH0TFGWPdCXo3cTe9C) | 3:00 | 2025-11-11 | 2025-12-01 |
+| [Had Enough](https://open.spotify.com/track/3NgSWWcfCEfqfO0A2G1pDf) | [Rules Man](https://open.spotify.com/artist/0TEGx2fJhFmfpzioHwA4oe) | [Had Enough](https://open.spotify.com/album/243tYzE06VMLKKlSEYSPhC) | 3:28 | 2025-12-26 |  |
 | [Hazte oir](https://open.spotify.com/track/1dfB3PNQCu7FMhf9xae073) | [Marcoo](https://open.spotify.com/artist/78r09t3sUYBpJSrYZqeAxb) | [Hazte oir](https://open.spotify.com/album/0iqOcbtUyjYtnHZgU8Jdzv) | 3:09 | 2025-11-24 |  |
 | [Hectic Movement](https://open.spotify.com/track/4G0L0GzZjStc84JE0muTBt) | [Cam Get'm](https://open.spotify.com/artist/5fma43UccUMYLftsgZWoWh) | [Eviction Notice](https://open.spotify.com/album/2vSRvfh99w8GfaaZpbUkjS) | 2:17 | 2025-11-08 | 2025-12-01 |
 | [Higher Ground](https://open.spotify.com/track/6OKnrZiGv6u4gDg92UuEtf) | [Fernando's Eyes](https://open.spotify.com/artist/2nrwwBTk2oiNYRK29k6vGr) | [Bonus Tracks & Remixes](https://open.spotify.com/album/0wLTi4IIGvYo9isxjLoxHi) | 6:11 | 2025-11-22 |  |
@@ -161,6 +162,7 @@
 | [Lovekomotive](https://open.spotify.com/track/5ca7KsClrlVTDjnximVi7Z) | [ANNAPURNA](https://open.spotify.com/artist/024P13nvZpteU80GYonzzQ) | [Lovekomotive](https://open.spotify.com/album/7oi4Z60udYyTT4UnREzG9L) | 3:33 | 2025-11-08 | 2025-12-01 |
 | [Lullaby](https://open.spotify.com/track/0xlQiqmo1CwSh91tdZJEcX) | [Malsi](https://open.spotify.com/artist/5OoYbo66Y6ME5Wz2kfTLQe) | [Lullaby](https://open.spotify.com/album/3OBBl1ToG3HODWBWQ6802q) | 5:25 | 2025-12-23 |  |
 | [Límite \- Remix](https://open.spotify.com/track/6nJU2atw4dO9QUrWUbTwtA) | [Javzye](https://open.spotify.com/artist/1AM71cIOWu0sM8D6yju4xX), [Insi](https://open.spotify.com/artist/3EM8X2biSQbmXUiC1WmfsD) | [Límite \(Remix\)](https://open.spotify.com/album/5xUQ1y5NYqmxUlPuS1mfl3) | 3:03 | 2025-11-11 | 2025-12-01 |
+| [make it work \(interlude\)](https://open.spotify.com/track/27riDY0FZMGNIrJE3wjAQB) | [Swízzy](https://open.spotify.com/artist/0UECTvB4F2xASEH91yftgO) | [Melodic Desire II](https://open.spotify.com/album/3zyNtvKFT6Fcgmr3B0APjn) | 2:40 | 2025-12-26 |  |
 | [Marijuana Blues](https://open.spotify.com/track/5d5SmkTY9V0cPeuwJtCmPF) | [Gaz Kelly](https://open.spotify.com/artist/54GFxKUpAbaUPNkQKT2A7Q) | [Marijuana Blues](https://open.spotify.com/album/5DsQGDFsghYiHftfKqt1Be) | 3:23 | 2025-11-17 |  |
 | [Maryjane](https://open.spotify.com/track/0CWzSOcdlhSB1XhfQOsndm) | [Perxo](https://open.spotify.com/artist/0fbe9EfOcFVBKWyPX4GXrk) | [Maryjane](https://open.spotify.com/album/3vgROf3t4kmic0I50Y8krM) | 3:02 | 2025-12-20 |  |
 | [Mein Block](https://open.spotify.com/track/0cHc5tyUQ1PkOCgz5kLmxc) | [DCI Dashcam](https://open.spotify.com/artist/6cL9wQrj7bdDnYtM6aeyRV) | [Mein Block](https://open.spotify.com/album/7zwRE5aoBDcuYBOzlENOxU) | 2:27 | 2025-12-25 |  |

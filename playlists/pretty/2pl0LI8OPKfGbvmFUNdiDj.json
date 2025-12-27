@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked songs by unsigned bands and independent artists. Updated Daily.",
-  "num_followers": 519,
+  "num_followers": 522,
   "original_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",
   "owner": {
     "name": "pma4real",
     "url": "https://open.spotify.com/user/jasonwaroff"
   },
-  "snapshot_id": "AAACsKh+8mVNEnWCl5QEEqUdIzuGmKui",
+  "snapshot_id": "AAACslINocBZdj0JEHA6zCDk3dApganO",
   "tracks": [
     {
       "added_at": "2025-10-21 13:53:17",
@@ -2723,6 +2723,38 @@
       "duration_ms": 254057,
       "name": "Dark Gift",
       "url": "https://open.spotify.com/track/4K2mhBOdr1Yx93LLMhZ03s"
+    },
+    {
+      "added_at": "2025-12-26 14:40:59",
+      "album": {
+        "name": "Melodic Desire II",
+        "url": "https://open.spotify.com/album/3zyNtvKFT6Fcgmr3B0APjn"
+      },
+      "artists": [
+        {
+          "name": "Sw\u00edzzy",
+          "url": "https://open.spotify.com/artist/0UECTvB4F2xASEH91yftgO"
+        }
+      ],
+      "duration_ms": 160941,
+      "name": "make it work (interlude)",
+      "url": "https://open.spotify.com/track/27riDY0FZMGNIrJE3wjAQB"
+    },
+    {
+      "added_at": "2025-12-26 14:41:51",
+      "album": {
+        "name": "Had Enough",
+        "url": "https://open.spotify.com/album/243tYzE06VMLKKlSEYSPhC"
+      },
+      "artists": [
+        {
+          "name": "Rules Man",
+          "url": "https://open.spotify.com/artist/0TEGx2fJhFmfpzioHwA4oe"
+        }
+      ],
+      "duration_ms": 208953,
+      "name": "Had Enough",
+      "url": "https://open.spotify.com/track/3NgSWWcfCEfqfO0A2G1pDf"
     }
   ],
   "unique_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",

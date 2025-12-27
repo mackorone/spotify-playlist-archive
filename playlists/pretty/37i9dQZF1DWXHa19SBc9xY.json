@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica brasileira e as cores de um p\u00f4r do sol para completar o seu dia.",
-  "num_followers": 120779,
+  "num_followers": 120837,
   "original_name": "P\u00f4r do sol na areia",
   "owner": {
     "name": "Spotify",
@@ -651,6 +651,22 @@
     {
       "added_at": "2025-12-19 14:31:55",
       "album": {
+        "name": "Planeta Para",
+        "url": "https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE"
+      },
+      "artists": [
+        {
+          "name": "Capim Lim\u00e3o",
+          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
+        }
+      ],
+      "duration_ms": 141452,
+      "name": "Planeta Para",
+      "url": "https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB"
+    },
+    {
+      "added_at": "2025-12-19 14:31:55",
+      "album": {
         "name": "Vamos Fugir",
         "url": "https://open.spotify.com/album/1XMCafTPAmjhYI7F8nuCvv"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 241825,
       "name": "Vamos Fugir",
       "url": "https://open.spotify.com/track/79zYUn0eJrYl9nJWAtzp3E"
-    },
-    {
-      "added_at": "2025-12-19 14:31:55",
-      "album": {
-        "name": "Planeta Para",
-        "url": "https://open.spotify.com/album/4uQpEFiQ2zARFPHxcm7oqE"
-      },
-      "artists": [
-        {
-          "name": "Capim Lim\u00e3o",
-          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
-        }
-      ],
-      "duration_ms": 141452,
-      "name": "Planeta Para",
-      "url": "https://open.spotify.com/track/7hqcNMskTQqv2Q9Uj43vpB"
     },
     {
       "added_at": "2025-12-19 14:31:55",
@@ -863,22 +863,6 @@
     {
       "added_at": "2025-12-19 14:31:55",
       "album": {
-        "name": "Carnaval a Dois",
-        "url": "https://open.spotify.com/album/5p6sSLhHPE6vEDjGJ2wKPw"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Gonti",
-          "url": "https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg"
-        }
-      ],
-      "duration_ms": 185865,
-      "name": "Carnaval a Dois",
-      "url": "https://open.spotify.com/track/18bAHsn4Lw747u40pwATOe"
-    },
-    {
-      "added_at": "2025-12-19 14:31:55",
-      "album": {
         "name": "Sem Filtro (Ao Vivo em Noronha)",
         "url": "https://open.spotify.com/album/4XY2OtEio7OBlyiWxUgHCg"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 184914,
       "name": "Louca - Ao Vivo",
       "url": "https://open.spotify.com/track/3bSnXuCoMpWKCR5jO5gGTL"
+    },
+    {
+      "added_at": "2025-12-19 14:31:55",
+      "album": {
+        "name": "Carnaval a Dois",
+        "url": "https://open.spotify.com/album/5p6sSLhHPE6vEDjGJ2wKPw"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Gonti",
+          "url": "https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg"
+        }
+      ],
+      "duration_ms": 185865,
+      "name": "Carnaval a Dois",
+      "url": "https://open.spotify.com/track/18bAHsn4Lw747u40pwATOe"
     },
     {
       "added_at": "2025-12-19 14:31:55",
@@ -1095,6 +1095,26 @@
     {
       "added_at": "2025-12-19 14:31:55",
       "album": {
+        "name": "Vou Me Banhar",
+        "url": "https://open.spotify.com/album/145K2alwT2soP1E7ioZr1M"
+      },
+      "artists": [
+        {
+          "name": "LOFRAN",
+          "url": "https://open.spotify.com/artist/13ec82LFkO4vxAOtkahO78"
+        },
+        {
+          "name": "J\u00f4natas Belgrande",
+          "url": "https://open.spotify.com/artist/6hcMvglMzhhjAuXLQuWiuz"
+        }
+      ],
+      "duration_ms": 222307,
+      "name": "Vou Me Banhar",
+      "url": "https://open.spotify.com/track/1BFf0ApsecABByJCo1jsYr"
+    },
+    {
+      "added_at": "2025-12-19 14:31:55",
+      "album": {
         "name": "Te Vi Na Rua",
         "url": "https://open.spotify.com/album/2xDzFdUkHFdckctVp9eFSB"
       },
@@ -1115,26 +1135,6 @@
       "duration_ms": 174310,
       "name": "Te Vi Na Rua",
       "url": "https://open.spotify.com/track/7sJhzlcx24p2qjCl4gjhPw"
-    },
-    {
-      "added_at": "2025-12-19 14:31:55",
-      "album": {
-        "name": "Vou Me Banhar",
-        "url": "https://open.spotify.com/album/145K2alwT2soP1E7ioZr1M"
-      },
-      "artists": [
-        {
-          "name": "LOFRAN",
-          "url": "https://open.spotify.com/artist/13ec82LFkO4vxAOtkahO78"
-        },
-        {
-          "name": "J\u00f4natas Belgrande",
-          "url": "https://open.spotify.com/artist/6hcMvglMzhhjAuXLQuWiuz"
-        }
-      ],
-      "duration_ms": 222307,
-      "name": "Vou Me Banhar",
-      "url": "https://open.spotify.com/track/1BFf0ApsecABByJCo1jsYr"
     },
     {
       "added_at": "2025-12-19 14:31:55",

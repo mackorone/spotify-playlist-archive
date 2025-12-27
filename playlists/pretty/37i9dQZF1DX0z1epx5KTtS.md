@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 
 > The best of Coupé Décalé and Biama from the continent to Paris\. Photo : Kedjevara
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,032 likes - 40 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,102 likes - 40 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 | 39 | [YOUGOUBA](https://open.spotify.com/track/5X4mslURBMq0NFMdQwAyY9) | [Aïcha Koné](https://open.spotify.com/artist/5PAmJH8CruQDoydEcCPkbL), [Ariel Sheney](https://open.spotify.com/artist/7BrWXBFjUPeU8RNS3KL98b), [Chouchou Salvador](https://open.spotify.com/artist/44kNwZgajzrqZ2x1qKYohI) | [YOUGOUBA](https://open.spotify.com/album/4Hzh4YoaH6HYW3PrhF2UUW) | 3:34 |
 | 40 | [2K225](https://open.spotify.com/track/5WO8WYu8JIRexWYGjkCDKt) | [Le D](https://open.spotify.com/artist/1q3qfgcLt7dhYNdWLEXgkX), [Bolémvn](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7) | [2K225](https://open.spotify.com/album/0yh6HGCMihGUK9Y9PMJVBz) | 2:21 |
 
-Snapshot ID: `AAAAANH6Jal/0ROHYpDtpybhlN+SFMF1`
+Snapshot ID: `AAAAAEViUx4Ie3VEefsmz4SegQzwBdmx`

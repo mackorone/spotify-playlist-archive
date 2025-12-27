@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP\">Disco</a>, house, funk and soul for the good times.",
-  "num_followers": 693848,
+  "num_followers": 693861,
   "original_name": "Poolside Disco",
   "owner": {
     "name": "Spotify",
@@ -851,6 +851,26 @@
     {
       "added_at": "2025-12-19 05:00:35",
       "album": {
+        "name": "I Don't Mind",
+        "url": "https://open.spotify.com/album/1B7r591yLIpkYA4Q3cgubw"
+      },
+      "artists": [
+        {
+          "name": "Sem Jacobs",
+          "url": "https://open.spotify.com/artist/4IDxbXfz5yMK7OGD4sdRjt"
+        },
+        {
+          "name": "Esra Nuray",
+          "url": "https://open.spotify.com/artist/6OcDeuYpbb3U1QSTeQPuA7"
+        }
+      ],
+      "duration_ms": 215602,
+      "name": "I Don't Mind",
+      "url": "https://open.spotify.com/track/6dDcpNl8BYL4gnuxMmYpAe"
+    },
+    {
+      "added_at": "2025-12-19 05:00:35",
+      "album": {
         "name": "Only For Tonight",
         "url": "https://open.spotify.com/album/5IUlPTkjpkLiWCoFOh4oOo"
       },
@@ -871,26 +891,6 @@
       "duration_ms": 196773,
       "name": "Only For Tonight",
       "url": "https://open.spotify.com/track/6STCwjymKob5lZcDdpKcTK"
-    },
-    {
-      "added_at": "2025-12-19 05:00:35",
-      "album": {
-        "name": "I Don't Mind",
-        "url": "https://open.spotify.com/album/1B7r591yLIpkYA4Q3cgubw"
-      },
-      "artists": [
-        {
-          "name": "Sem Jacobs",
-          "url": "https://open.spotify.com/artist/4IDxbXfz5yMK7OGD4sdRjt"
-        },
-        {
-          "name": "Esra Nuray",
-          "url": "https://open.spotify.com/artist/6OcDeuYpbb3U1QSTeQPuA7"
-        }
-      ],
-      "duration_ms": 215602,
-      "name": "I Don't Mind",
-      "url": "https://open.spotify.com/track/6dDcpNl8BYL4gnuxMmYpAe"
     },
     {
       "added_at": "2025-12-19 05:00:35",
@@ -1227,6 +1227,26 @@
     {
       "added_at": "2025-12-19 05:00:35",
       "album": {
+        "name": "Self Control",
+        "url": "https://open.spotify.com/album/3vpqwBpHTyoAxx9576yUCj"
+      },
+      "artists": [
+        {
+          "name": "Eelke Kleijn",
+          "url": "https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey"
+        },
+        {
+          "name": "Lee Cabrera",
+          "url": "https://open.spotify.com/artist/4h8hm6TjKsvgmLajBgaI9w"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Self Control",
+      "url": "https://open.spotify.com/track/40Ae5zby2T2LEnWmRSEUhN"
+    },
+    {
+      "added_at": "2025-12-19 05:00:35",
+      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/2ZOXO6vMwH3mS8sXfxdUkd"
       },
@@ -1263,26 +1283,6 @@
       "duration_ms": 227899,
       "name": "Without You",
       "url": "https://open.spotify.com/track/6ozSQDlmyAVrqNyZgouqSb"
-    },
-    {
-      "added_at": "2025-12-19 05:00:35",
-      "album": {
-        "name": "Self Control",
-        "url": "https://open.spotify.com/album/3vpqwBpHTyoAxx9576yUCj"
-      },
-      "artists": [
-        {
-          "name": "Eelke Kleijn",
-          "url": "https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey"
-        },
-        {
-          "name": "Lee Cabrera",
-          "url": "https://open.spotify.com/artist/4h8hm6TjKsvgmLajBgaI9w"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Self Control",
-      "url": "https://open.spotify.com/track/40Ae5zby2T2LEnWmRSEUhN"
     },
     {
       "added_at": "2025-12-19 05:00:35",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2025-12-19 05:00:35",
       "album": {
-        "name": "We Could Be Falling In Love",
-        "url": "https://open.spotify.com/album/6EuHWsdfuK3DUzxyT36B7L"
-      },
-      "artists": [
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        }
-      ],
-      "duration_ms": 179487,
-      "name": "We Could Be Falling In Love - Edit",
-      "url": "https://open.spotify.com/track/1GG5oCmzdmD2bNV67wwCsT"
-    },
-    {
-      "added_at": "2025-12-19 05:00:35",
-      "album": {
         "name": "Feelin' It",
         "url": "https://open.spotify.com/album/299IjiwxpF8g7fBj5kIWd2"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 201600,
       "name": "Feelin' It",
       "url": "https://open.spotify.com/track/3ns0eSpXpwOeA7rf2M6DUS"
+    },
+    {
+      "added_at": "2025-12-19 05:00:35",
+      "album": {
+        "name": "We Could Be Falling In Love",
+        "url": "https://open.spotify.com/album/6EuHWsdfuK3DUzxyT36B7L"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        }
+      ],
+      "duration_ms": 179487,
+      "name": "We Could Be Falling In Love - Edit",
+      "url": "https://open.spotify.com/track/1GG5oCmzdmD2bNV67wwCsT"
     },
     {
       "added_at": "2025-12-19 05:00:35",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2025-12-19 05:00:35",
       "album": {
-        "name": "Simmer",
-        "url": "https://open.spotify.com/album/1fynK3HUCgQsScMDQLlV0d"
-      },
-      "artists": [
-        {
-          "name": "Supertaste",
-          "url": "https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6"
-        }
-      ],
-      "duration_ms": 157906,
-      "name": "Simmer",
-      "url": "https://open.spotify.com/track/5rP53oEvIGo8t21srGm9N2"
-    },
-    {
-      "added_at": "2025-12-19 05:00:35",
-      "album": {
         "name": "Bruises",
         "url": "https://open.spotify.com/album/1xYk6pycBgnLYw4ZXwgldj"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 190948,
       "name": "Bruises",
       "url": "https://open.spotify.com/track/3pSpLYsOi6fZ6N0P962XaJ"
+    },
+    {
+      "added_at": "2025-12-19 05:00:35",
+      "album": {
+        "name": "Simmer",
+        "url": "https://open.spotify.com/album/1fynK3HUCgQsScMDQLlV0d"
+      },
+      "artists": [
+        {
+          "name": "Supertaste",
+          "url": "https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6"
+        }
+      ],
+      "duration_ms": 157906,
+      "name": "Simmer",
+      "url": "https://open.spotify.com/track/5rP53oEvIGo8t21srGm9N2"
     },
     {
       "added_at": "2025-12-19 05:00:35",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2025-12-19 05:00:35",
       "album": {
+        "name": "Marlboro Sounds",
+        "url": "https://open.spotify.com/album/1IRVXzi2j3pP5Ic18P0oDM"
+      },
+      "artists": [
+        {
+          "name": "Chaos In The CBD",
+          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
+        }
+      ],
+      "duration_ms": 363620,
+      "name": "Marlboro Sounds",
+      "url": "https://open.spotify.com/track/1HujkaN1Tl4uceZqsHUv6w"
+    },
+    {
+      "added_at": "2025-12-19 05:00:35",
+      "album": {
         "name": "ALL A DREAM",
         "url": "https://open.spotify.com/album/74KdRoeeg3bq5GvgiOkA6E"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 221053,
       "name": "ALL A DREAM",
       "url": "https://open.spotify.com/track/16VJYVgNHwZOwgB0ZppmI2"
-    },
-    {
-      "added_at": "2025-12-19 05:00:35",
-      "album": {
-        "name": "Marlboro Sounds",
-        "url": "https://open.spotify.com/album/1IRVXzi2j3pP5Ic18P0oDM"
-      },
-      "artists": [
-        {
-          "name": "Chaos In The CBD",
-          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
-        }
-      ],
-      "duration_ms": 363620,
-      "name": "Marlboro Sounds",
-      "url": "https://open.spotify.com/track/1HujkaN1Tl4uceZqsHUv6w"
     },
     {
       "added_at": "2025-12-19 05:00:35",
@@ -1715,26 +1715,6 @@
     {
       "added_at": "2025-12-19 05:00:35",
       "album": {
-        "name": "Girl",
-        "url": "https://open.spotify.com/album/4IvMviHwBSrZ8yRf1DMIEa"
-      },
-      "artists": [
-        {
-          "name": "Dam Swindle",
-          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
-        },
-        {
-          "name": "Faye Meana",
-          "url": "https://open.spotify.com/artist/0IYLHzQ2biFwd5DNJUZ5yP"
-        }
-      ],
-      "duration_ms": 204366,
-      "name": "Girl",
-      "url": "https://open.spotify.com/track/2n9p4ri8vpgioUfGDrzkM8"
-    },
-    {
-      "added_at": "2025-12-19 05:00:35",
-      "album": {
         "name": "Inferno (No. 1)",
         "url": "https://open.spotify.com/album/3mNy09ndnknuV2bBxno7IG"
       },
@@ -1755,6 +1735,26 @@
       "duration_ms": 296453,
       "name": "Be The One (feat. Yung Bae)",
       "url": "https://open.spotify.com/track/4mpyalWKRgGgghWqr0DGRr"
+    },
+    {
+      "added_at": "2025-12-19 05:00:35",
+      "album": {
+        "name": "Girl",
+        "url": "https://open.spotify.com/album/4IvMviHwBSrZ8yRf1DMIEa"
+      },
+      "artists": [
+        {
+          "name": "Dam Swindle",
+          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
+        },
+        {
+          "name": "Faye Meana",
+          "url": "https://open.spotify.com/artist/0IYLHzQ2biFwd5DNJUZ5yP"
+        }
+      ],
+      "duration_ms": 204366,
+      "name": "Girl",
+      "url": "https://open.spotify.com/track/2n9p4ri8vpgioUfGDrzkM8"
     },
     {
       "added_at": "2025-12-19 05:00:35",
@@ -1835,26 +1835,6 @@
     {
       "added_at": "2025-12-19 05:00:35",
       "album": {
-        "name": "Take My Heart",
-        "url": "https://open.spotify.com/album/6Wjev7ICK3R0xvF8edS4nS"
-      },
-      "artists": [
-        {
-          "name": "Alexander IV",
-          "url": "https://open.spotify.com/artist/1ixOHjIh8RJkIUrBSBiYHi"
-        },
-        {
-          "name": "Josef Scott",
-          "url": "https://open.spotify.com/artist/1Ety32ivSztP0Yc9Q8cBzS"
-        }
-      ],
-      "duration_ms": 167805,
-      "name": "Take My Heart",
-      "url": "https://open.spotify.com/track/27WMHH5CMMwKQ0KubzdVWm"
-    },
-    {
-      "added_at": "2025-12-19 05:00:35",
-      "album": {
         "name": "Know Me",
         "url": "https://open.spotify.com/album/1JWoMV7NPtzPRif40Nhhq1"
       },
@@ -1871,6 +1851,26 @@
       "duration_ms": 207561,
       "name": "Know Me",
       "url": "https://open.spotify.com/track/0j6YN1g8KOj3YEtfrffpNI"
+    },
+    {
+      "added_at": "2025-12-19 05:00:35",
+      "album": {
+        "name": "Take My Heart",
+        "url": "https://open.spotify.com/album/6Wjev7ICK3R0xvF8edS4nS"
+      },
+      "artists": [
+        {
+          "name": "Alexander IV",
+          "url": "https://open.spotify.com/artist/1ixOHjIh8RJkIUrBSBiYHi"
+        },
+        {
+          "name": "Josef Scott",
+          "url": "https://open.spotify.com/artist/1Ety32ivSztP0Yc9Q8cBzS"
+        }
+      ],
+      "duration_ms": 167805,
+      "name": "Take My Heart",
+      "url": "https://open.spotify.com/track/27WMHH5CMMwKQ0KubzdVWm"
     },
     {
       "added_at": "2025-12-19 05:00:35",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2025-12-19 05:00:35",
       "album": {
-        "name": "Silky, Buttery, Smooth",
-        "url": "https://open.spotify.com/album/3kAlMLdXh5SJcN8B9WPAlJ"
-      },
-      "artists": [
-        {
-          "name": "Kareem Ali",
-          "url": "https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf"
-        }
-      ],
-      "duration_ms": 184801,
-      "name": "Silky, Buttery, Smooth",
-      "url": "https://open.spotify.com/track/1vX5qb6Y5KjneEpKBjIHo5"
-    },
-    {
-      "added_at": "2025-12-19 05:00:35",
-      "album": {
         "name": "Hey Baby",
         "url": "https://open.spotify.com/album/3OqaQBrwAfOLerlgJlJj8q"
       },
@@ -1959,6 +1943,22 @@
       "duration_ms": 236307,
       "name": "Hey Baby",
       "url": "https://open.spotify.com/track/2ud3Yzg63Z6rGUytQH9LUQ"
+    },
+    {
+      "added_at": "2025-12-19 05:00:35",
+      "album": {
+        "name": "Silky, Buttery, Smooth",
+        "url": "https://open.spotify.com/album/3kAlMLdXh5SJcN8B9WPAlJ"
+      },
+      "artists": [
+        {
+          "name": "Kareem Ali",
+          "url": "https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf"
+        }
+      ],
+      "duration_ms": 184801,
+      "name": "Silky, Buttery, Smooth",
+      "url": "https://open.spotify.com/track/1vX5qb6Y5KjneEpKBjIHo5"
     },
     {
       "added_at": "2025-12-19 05:00:35",
@@ -2007,26 +2007,6 @@
     {
       "added_at": "2025-12-19 05:00:35",
       "album": {
-        "name": "Bless Me (with Discrete)",
-        "url": "https://open.spotify.com/album/5TPcHw0h3ZfXmmtfFYy1gq"
-      },
-      "artists": [
-        {
-          "name": "Dombresky",
-          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
-        },
-        {
-          "name": "Discrete",
-          "url": "https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov"
-        }
-      ],
-      "duration_ms": 190384,
-      "name": "Bless Me (with Discrete)",
-      "url": "https://open.spotify.com/track/4fntxnmBljT1Ve03u0njYg"
-    },
-    {
-      "added_at": "2025-12-19 05:00:35",
-      "album": {
         "name": "Under My Skin",
         "url": "https://open.spotify.com/album/712jM2DQdTggQ3Uzp8cxW9"
       },
@@ -2043,6 +2023,26 @@
       "duration_ms": 222909,
       "name": "Under My Skin",
       "url": "https://open.spotify.com/track/2YHWK4dHz9dcL4gAeMXvF6"
+    },
+    {
+      "added_at": "2025-12-19 05:00:35",
+      "album": {
+        "name": "Bless Me (with Discrete)",
+        "url": "https://open.spotify.com/album/5TPcHw0h3ZfXmmtfFYy1gq"
+      },
+      "artists": [
+        {
+          "name": "Dombresky",
+          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
+        },
+        {
+          "name": "Discrete",
+          "url": "https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov"
+        }
+      ],
+      "duration_ms": 190384,
+      "name": "Bless Me (with Discrete)",
+      "url": "https://open.spotify.com/track/4fntxnmBljT1Ve03u0njYg"
     },
     {
       "added_at": "2025-12-19 05:00:35",
@@ -2179,6 +2179,26 @@
     {
       "added_at": "2025-12-19 05:00:35",
       "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/4PsfJhxKRBk068ucj9qfxW"
+      },
+      "artists": [
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        },
+        {
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+        }
+      ],
+      "duration_ms": 230854,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/4FwONW4SVwATjB6NzixQLA"
+    },
+    {
+      "added_at": "2025-12-19 05:00:35",
+      "album": {
         "name": "Travel Light",
         "url": "https://open.spotify.com/album/379snkOheodaVzhhsIruGz"
       },
@@ -2215,26 +2235,6 @@
       "duration_ms": 272000,
       "name": "Deal With Love",
       "url": "https://open.spotify.com/track/32JvxnUlvQEtPY9SCRXwK3"
-    },
-    {
-      "added_at": "2025-12-19 05:00:35",
-      "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/4PsfJhxKRBk068ucj9qfxW"
-      },
-      "artists": [
-        {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        },
-        {
-          "name": "Panama",
-          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
-        }
-      ],
-      "duration_ms": 230854,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/4FwONW4SVwATjB6NzixQLA"
     },
     {
       "added_at": "2025-12-19 05:00:35",
@@ -2283,26 +2283,6 @@
     {
       "added_at": "2025-12-19 05:00:35",
       "album": {
-        "name": "NEVER ALONE",
-        "url": "https://open.spotify.com/album/6RcdByg0GxHy4qx89oI5vm"
-      },
-      "artists": [
-        {
-          "name": "The Magician",
-          "url": "https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM"
-        },
-        {
-          "name": "Alioth",
-          "url": "https://open.spotify.com/artist/4DuXwkPXoIIVfGuPsmUKrF"
-        }
-      ],
-      "duration_ms": 195986,
-      "name": "NEVER ALONE",
-      "url": "https://open.spotify.com/track/2Z4Ky6x7na6W7cWNapEbTN"
-    },
-    {
-      "added_at": "2025-12-19 05:00:35",
-      "album": {
         "name": "Satisfied",
         "url": "https://open.spotify.com/album/1cSieKEgbros5yDILwnekF"
       },
@@ -2323,22 +2303,22 @@
     {
       "added_at": "2025-12-19 05:00:35",
       "album": {
-        "name": "Nothing Is Forever",
-        "url": "https://open.spotify.com/album/14NTbIECS6DX5hBvtPoyS9"
+        "name": "NEVER ALONE",
+        "url": "https://open.spotify.com/album/6RcdByg0GxHy4qx89oI5vm"
       },
       "artists": [
         {
-          "name": "Kraak & Smaak",
-          "url": "https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O"
+          "name": "The Magician",
+          "url": "https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM"
         },
         {
-          "name": "Kosta G",
-          "url": "https://open.spotify.com/artist/64ucpxkeLwoyiLViMhBR3v"
+          "name": "Alioth",
+          "url": "https://open.spotify.com/artist/4DuXwkPXoIIVfGuPsmUKrF"
         }
       ],
-      "duration_ms": 212096,
-      "name": "Nothing Is Forever",
-      "url": "https://open.spotify.com/track/26E5NPwV30kG0lYLrUhAK5"
+      "duration_ms": 195986,
+      "name": "NEVER ALONE",
+      "url": "https://open.spotify.com/track/2Z4Ky6x7na6W7cWNapEbTN"
     },
     {
       "added_at": "2025-12-19 05:00:35",
@@ -2423,6 +2403,26 @@
       "duration_ms": 205312,
       "name": "Feels So Good",
       "url": "https://open.spotify.com/track/5N8IGqMjCjvtpewGSaiEeP"
+    },
+    {
+      "added_at": "2025-12-19 05:00:35",
+      "album": {
+        "name": "Nothing Is Forever",
+        "url": "https://open.spotify.com/album/14NTbIECS6DX5hBvtPoyS9"
+      },
+      "artists": [
+        {
+          "name": "Kraak & Smaak",
+          "url": "https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O"
+        },
+        {
+          "name": "Kosta G",
+          "url": "https://open.spotify.com/artist/64ucpxkeLwoyiLViMhBR3v"
+        }
+      ],
+      "duration_ms": 212096,
+      "name": "Nothing Is Forever",
+      "url": "https://open.spotify.com/track/26E5NPwV30kG0lYLrUhAK5"
     }
   ],
   "unique_name": "Poolside Disco",

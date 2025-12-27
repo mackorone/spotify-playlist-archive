@@ -1,6 +1,6 @@
 {
   "description": "Discover the best in new music from Aotearoa. Cover: Lorde",
-  "num_followers": 19237,
+  "num_followers": 19236,
   "original_name": "The Local List Aotearoa",
   "owner": {
     "name": "Spotify",
@@ -451,22 +451,6 @@
     {
       "added_at": "2025-11-06 13:00:36",
       "album": {
-        "name": "pretend",
-        "url": "https://open.spotify.com/album/3DgzMxPjuf3WDXGiOxczaj"
-      },
-      "artists": [
-        {
-          "name": "Teo Glacier",
-          "url": "https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY"
-        }
-      ],
-      "duration_ms": 170676,
-      "name": "pretend",
-      "url": "https://open.spotify.com/track/3VKW1b4IAxKvNoTki0fLIF"
-    },
-    {
-      "added_at": "2025-11-06 13:00:36",
-      "album": {
         "name": "L.A.B VI",
         "url": "https://open.spotify.com/album/2GgCCAXEdgHQOTlVvyQpfE"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 254920,
       "name": "Give Me That Feeling",
       "url": "https://open.spotify.com/track/77uJm6AgWF6Esf60O9LAU1"
+    },
+    {
+      "added_at": "2025-11-06 13:00:36",
+      "album": {
+        "name": "pretend",
+        "url": "https://open.spotify.com/album/3DgzMxPjuf3WDXGiOxczaj"
+      },
+      "artists": [
+        {
+          "name": "Teo Glacier",
+          "url": "https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY"
+        }
+      ],
+      "duration_ms": 170676,
+      "name": "pretend",
+      "url": "https://open.spotify.com/track/3VKW1b4IAxKvNoTki0fLIF"
     },
     {
       "added_at": "2025-11-06 13:00:36",
@@ -591,22 +591,6 @@
     {
       "added_at": "2025-11-06 13:00:36",
       "album": {
-        "name": "CURSE",
-        "url": "https://open.spotify.com/album/0cFnSWyfKw7gmgURlfeQ41"
-      },
-      "artists": [
-        {
-          "name": "Unknown Mortal Orchestra",
-          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
-        }
-      ],
-      "duration_ms": 148525,
-      "name": "DEATH COMES FROM THE SKY",
-      "url": "https://open.spotify.com/track/7xkyqFdogcqpGKkn3baJ6d"
-    },
-    {
-      "added_at": "2025-11-06 13:00:36",
-      "album": {
         "name": "Light Up",
         "url": "https://open.spotify.com/album/0WYgFtAvwebtkkx82v5jr6"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 172730,
       "name": "Light Up",
       "url": "https://open.spotify.com/track/42d047wpzneGfpfHpLLHlc"
+    },
+    {
+      "added_at": "2025-11-06 13:00:36",
+      "album": {
+        "name": "CURSE",
+        "url": "https://open.spotify.com/album/0cFnSWyfKw7gmgURlfeQ41"
+      },
+      "artists": [
+        {
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
+        }
+      ],
+      "duration_ms": 148525,
+      "name": "DEATH COMES FROM THE SKY",
+      "url": "https://open.spotify.com/track/7xkyqFdogcqpGKkn3baJ6d"
     },
     {
       "added_at": "2025-11-06 13:00:36",
@@ -659,22 +659,6 @@
     {
       "added_at": "2025-11-06 13:00:36",
       "album": {
-        "name": "Under The Surface",
-        "url": "https://open.spotify.com/album/4DLH00hSYYu1nhf6ys0Nvz"
-      },
-      "artists": [
-        {
-          "name": "NO CIGAR",
-          "url": "https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT"
-        }
-      ],
-      "duration_ms": 254385,
-      "name": "Under The Surface",
-      "url": "https://open.spotify.com/track/35Ywft3pwk7kfm1fGJ0Y6m"
-    },
-    {
-      "added_at": "2025-11-06 13:00:36",
-      "album": {
         "name": "Hell Of A Night",
         "url": "https://open.spotify.com/album/4yy9Kng4fAMUQ4UUe1h7H2"
       },
@@ -691,18 +675,18 @@
     {
       "added_at": "2025-11-06 13:00:36",
       "album": {
-        "name": "V",
-        "url": "https://open.spotify.com/album/1epwNzmWdqkBQQZpTa8KJD"
+        "name": "Under The Surface",
+        "url": "https://open.spotify.com/album/4DLH00hSYYu1nhf6ys0Nvz"
       },
       "artists": [
         {
-          "name": "Unknown Mortal Orchestra",
-          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
+          "name": "NO CIGAR",
+          "url": "https://open.spotify.com/artist/3XQd5pdqTHayJ1nUL3yqjT"
         }
       ],
-      "duration_ms": 246720,
-      "name": "Nadja",
-      "url": "https://open.spotify.com/track/2AojQfi1k8pgwyg1Ii0Ly8"
+      "duration_ms": 254385,
+      "name": "Under The Surface",
+      "url": "https://open.spotify.com/track/35Ywft3pwk7kfm1fGJ0Y6m"
     },
     {
       "added_at": "2025-11-06 13:00:36",
@@ -755,22 +739,6 @@
     {
       "added_at": "2025-11-06 13:00:36",
       "album": {
-        "name": "East Coast",
-        "url": "https://open.spotify.com/album/7IdwGiHgVmpBrmcBA157TK"
-      },
-      "artists": [
-        {
-          "name": "Indy",
-          "url": "https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ"
-        }
-      ],
-      "duration_ms": 194933,
-      "name": "East Coast",
-      "url": "https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk"
-    },
-    {
-      "added_at": "2025-11-06 13:00:36",
-      "album": {
         "name": "L.A.B VI",
         "url": "https://open.spotify.com/album/2GgCCAXEdgHQOTlVvyQpfE"
       },
@@ -783,6 +751,38 @@
       "duration_ms": 260088,
       "name": "Ocean Demon",
       "url": "https://open.spotify.com/track/6ZFhxFNHkPvdUHtx8NOCD2"
+    },
+    {
+      "added_at": "2025-11-06 13:00:36",
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/1epwNzmWdqkBQQZpTa8KJD"
+      },
+      "artists": [
+        {
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
+        }
+      ],
+      "duration_ms": 246720,
+      "name": "Nadja",
+      "url": "https://open.spotify.com/track/2AojQfi1k8pgwyg1Ii0Ly8"
+    },
+    {
+      "added_at": "2025-11-06 13:00:36",
+      "album": {
+        "name": "East Coast",
+        "url": "https://open.spotify.com/album/7IdwGiHgVmpBrmcBA157TK"
+      },
+      "artists": [
+        {
+          "name": "Indy",
+          "url": "https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ"
+        }
+      ],
+      "duration_ms": 194933,
+      "name": "East Coast",
+      "url": "https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk"
     },
     {
       "added_at": "2025-11-06 13:00:36",
@@ -819,6 +819,22 @@
     {
       "added_at": "2025-11-06 13:00:36",
       "album": {
+        "name": "My Boy",
+        "url": "https://open.spotify.com/album/0nxaCYHCyvBlYZ3nRdH3MU"
+      },
+      "artists": [
+        {
+          "name": "Marlon Williams",
+          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
+        }
+      ],
+      "duration_ms": 163648,
+      "name": "My Boy",
+      "url": "https://open.spotify.com/track/003DrjnoOIXeuAfHNA0ZcJ"
+    },
+    {
+      "added_at": "2025-11-06 13:00:36",
+      "album": {
         "name": "The Drip",
         "url": "https://open.spotify.com/album/4AnurorczccotGyQOVXEdp"
       },
@@ -835,18 +851,18 @@
     {
       "added_at": "2025-11-06 13:00:36",
       "album": {
-        "name": "My Boy",
-        "url": "https://open.spotify.com/album/0nxaCYHCyvBlYZ3nRdH3MU"
+        "name": "Crazy Dream (Edit)",
+        "url": "https://open.spotify.com/album/7jNrqv4tbjx3tOTFEVBBAR"
       },
       "artists": [
         {
-          "name": "Marlon Williams",
-          "url": "https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga"
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
         }
       ],
-      "duration_ms": 163648,
-      "name": "My Boy",
-      "url": "https://open.spotify.com/track/003DrjnoOIXeuAfHNA0ZcJ"
+      "duration_ms": 178062,
+      "name": "Crazy Dream - Edit",
+      "url": "https://open.spotify.com/track/5wfv9l4il8kg4YUeYql3Jx"
     },
     {
       "added_at": "2025-11-06 13:00:36",
@@ -899,18 +915,18 @@
     {
       "added_at": "2025-11-06 13:00:36",
       "album": {
-        "name": "Crazy Dream (Edit)",
-        "url": "https://open.spotify.com/album/7jNrqv4tbjx3tOTFEVBBAR"
+        "name": "thought of you",
+        "url": "https://open.spotify.com/album/7x6JnVTlfYdQOIskmq0aab"
       },
       "artists": [
         {
-          "name": "L.A.B.",
-          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+          "name": "Teo Glacier",
+          "url": "https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY"
         }
       ],
-      "duration_ms": 178062,
-      "name": "Crazy Dream - Edit",
-      "url": "https://open.spotify.com/track/5wfv9l4il8kg4YUeYql3Jx"
+      "duration_ms": 225295,
+      "name": "thought of you",
+      "url": "https://open.spotify.com/track/1BLhi5rDFlPkRk8gbp4uiI"
     },
     {
       "added_at": "2025-11-06 13:00:36",
@@ -931,22 +947,6 @@
     {
       "added_at": "2025-11-06 13:00:36",
       "album": {
-        "name": "thought of you",
-        "url": "https://open.spotify.com/album/7x6JnVTlfYdQOIskmq0aab"
-      },
-      "artists": [
-        {
-          "name": "Teo Glacier",
-          "url": "https://open.spotify.com/artist/09BQyf74gmKlaDkWdbdbqY"
-        }
-      ],
-      "duration_ms": 225295,
-      "name": "thought of you",
-      "url": "https://open.spotify.com/track/1BLhi5rDFlPkRk8gbp4uiI"
-    },
-    {
-      "added_at": "2025-11-06 13:00:36",
-      "album": {
         "name": "Chantilly",
         "url": "https://open.spotify.com/album/6qEqLDUoSIceyLYDS07lv1"
       },
@@ -959,6 +959,30 @@
       "duration_ms": 213459,
       "name": "Chantilly",
       "url": "https://open.spotify.com/track/6nHfOWaRuClaybogUR6Vt1"
+    },
+    {
+      "added_at": "2025-11-06 13:00:36",
+      "album": {
+        "name": "Maumahara Noa Ahau",
+        "url": "https://open.spotify.com/album/1M03YWeJdRd1OhFD4g0QMp"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        },
+        {
+          "name": "Corrella",
+          "url": "https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX"
+        },
+        {
+          "name": "Brannigan Kaa",
+          "url": "https://open.spotify.com/artist/45PMvAQiWl2Coq1uQkQlUy"
+        }
+      ],
+      "duration_ms": 170691,
+      "name": "Maumahara Noa Ahau",
+      "url": "https://open.spotify.com/track/6425BbzJ8gGY9ossgxcQP4"
     },
     {
       "added_at": "2025-11-06 13:00:36",
@@ -1027,30 +1051,6 @@
     {
       "added_at": "2025-11-06 13:00:36",
       "album": {
-        "name": "Maumahara Noa Ahau",
-        "url": "https://open.spotify.com/album/1M03YWeJdRd1OhFD4g0QMp"
-      },
-      "artists": [
-        {
-          "name": "L.A.B.",
-          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
-        },
-        {
-          "name": "Corrella",
-          "url": "https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX"
-        },
-        {
-          "name": "Brannigan Kaa",
-          "url": "https://open.spotify.com/artist/45PMvAQiWl2Coq1uQkQlUy"
-        }
-      ],
-      "duration_ms": 170691,
-      "name": "Maumahara Noa Ahau",
-      "url": "https://open.spotify.com/track/6425BbzJ8gGY9ossgxcQP4"
-    },
-    {
-      "added_at": "2025-11-06 13:00:36",
-      "album": {
         "name": "Tief Im Wald",
         "url": "https://open.spotify.com/album/3VAlGVnh10qltWmjMu6Ioy"
       },
@@ -1087,6 +1087,26 @@
     {
       "added_at": "2025-11-06 13:00:36",
       "album": {
+        "name": "I Want More",
+        "url": "https://open.spotify.com/album/30WNWO1pzDaqSyJ7Ich5uD"
+      },
+      "artists": [
+        {
+          "name": "Sons of Zion",
+          "url": "https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW"
+        },
+        {
+          "name": "TAWAZ",
+          "url": "https://open.spotify.com/artist/6SBZ3XblxACQRrZK4olxhH"
+        }
+      ],
+      "duration_ms": 177989,
+      "name": "I Want More",
+      "url": "https://open.spotify.com/track/0bvVx47ygehREuixC0o5r0"
+    },
+    {
+      "added_at": "2025-11-06 13:00:36",
+      "album": {
         "name": "Done Did It (Revival 2.0)",
         "url": "https://open.spotify.com/album/6rgVc8pR3ZkwkCH03AbIyR"
       },
@@ -1119,26 +1139,6 @@
       "duration_ms": 358186,
       "name": "I Wanna Tell Somebody",
       "url": "https://open.spotify.com/track/4WwYaHgCT4r1iaPBLL3AzR"
-    },
-    {
-      "added_at": "2025-11-06 13:00:36",
-      "album": {
-        "name": "I Want More",
-        "url": "https://open.spotify.com/album/30WNWO1pzDaqSyJ7Ich5uD"
-      },
-      "artists": [
-        {
-          "name": "Sons of Zion",
-          "url": "https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW"
-        },
-        {
-          "name": "TAWAZ",
-          "url": "https://open.spotify.com/artist/6SBZ3XblxACQRrZK4olxhH"
-        }
-      ],
-      "duration_ms": 177989,
-      "name": "I Want More",
-      "url": "https://open.spotify.com/track/0bvVx47ygehREuixC0o5r0"
     },
     {
       "added_at": "2025-11-06 13:00:36",
@@ -1227,22 +1227,22 @@
     {
       "added_at": "2025-11-06 13:00:36",
       "album": {
-        "name": "Handyman.",
-        "url": "https://open.spotify.com/album/27GwbvIdxCHWZ7oe1gr3yb"
+        "name": "One More Chance (feat. Savage)",
+        "url": "https://open.spotify.com/album/08r5GBVNhPJMh6SmdAwUoS"
       },
       "artists": [
         {
-          "name": "Canaan Ene",
-          "url": "https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA"
+          "name": "COTERIE",
+          "url": "https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY"
         },
         {
-          "name": "Sione Toki",
-          "url": "https://open.spotify.com/artist/7CyCft1T5A9pLksmToGkFV"
+          "name": "Savage",
+          "url": "https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf"
         }
       ],
-      "duration_ms": 161559,
-      "name": "Handyman.",
-      "url": "https://open.spotify.com/track/1xd2siUNv5buHMILOQZeRB"
+      "duration_ms": 196740,
+      "name": "One More Chance (feat. Savage)",
+      "url": "https://open.spotify.com/track/3PIJ6Ng0EOlOR4siwGnLHK"
     },
     {
       "added_at": "2025-11-06 13:00:36",
@@ -1263,22 +1263,22 @@
     {
       "added_at": "2025-11-06 13:00:36",
       "album": {
-        "name": "One More Chance (feat. Savage)",
-        "url": "https://open.spotify.com/album/08r5GBVNhPJMh6SmdAwUoS"
+        "name": "Handyman.",
+        "url": "https://open.spotify.com/album/27GwbvIdxCHWZ7oe1gr3yb"
       },
       "artists": [
         {
-          "name": "COTERIE",
-          "url": "https://open.spotify.com/artist/0152lAerTxFtfqXBnJi8TY"
+          "name": "Canaan Ene",
+          "url": "https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA"
         },
         {
-          "name": "Savage",
-          "url": "https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf"
+          "name": "Sione Toki",
+          "url": "https://open.spotify.com/artist/7CyCft1T5A9pLksmToGkFV"
         }
       ],
-      "duration_ms": 196740,
-      "name": "One More Chance (feat. Savage)",
-      "url": "https://open.spotify.com/track/3PIJ6Ng0EOlOR4siwGnLHK"
+      "duration_ms": 161559,
+      "name": "Handyman.",
+      "url": "https://open.spotify.com/track/1xd2siUNv5buHMILOQZeRB"
     }
   ],
   "unique_name": "The Local List Aotearoa",

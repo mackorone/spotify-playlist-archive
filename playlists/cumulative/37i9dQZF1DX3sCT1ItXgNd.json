@@ -5117,6 +5117,28 @@
     },
     {
       "album": {
+        "name": "LA FORMULA",
+        "url": "https://open.spotify.com/album/1g9AHagDJvZfgKXE0IVzIA"
+      },
+      "artists": [
+        {
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+        },
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        }
+      ],
+      "date_added": "2025-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158769,
+      "name": "EN TU MIRADAaaaa",
+      "url": "https://open.spotify.com/track/5Qnq1GhCBSsAkipZtjsVkF"
+    },
+    {
+      "album": {
         "name": "LA INOCENTE",
         "url": "https://open.spotify.com/album/7szbg3ku8OWLEvqT22UrGL"
       },
@@ -16190,7 +16212,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-27",
       "duration_ms": 268075,
       "name": "Viajando Por El Mundo",
       "url": "https://open.spotify.com/track/4w6Wpq1KWk485krowaqUIV"

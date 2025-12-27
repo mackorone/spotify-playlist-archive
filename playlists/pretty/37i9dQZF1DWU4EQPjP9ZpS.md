@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 
 > get lost in the  a e s t h e t i c
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,055 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,107 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 | 50 | [Eye](https://open.spotify.com/track/64Uh9G7MJJyandktDmi4yF) | [Diskette Park](https://open.spotify.com/artist/38QTsq211pe13W6jO5nSic) | [Dark Bandwidth](https://open.spotify.com/album/47Qp7b3d1Md61MyFIo8yAj) | 3:37 |
 | 51 | [A Face Without Eyes](https://open.spotify.com/track/2Dub85ZiCGeXM3pLTsaV8J) | [Nmesh](https://open.spotify.com/artist/5XbtWFLdL2sXDUo3oqzn9b) | [Nu.wav Hallucinations](https://open.spotify.com/album/6nfVqgC74S6IvixOlxd9wv) | 5:59 |
 | 52 | [so be it](https://open.spotify.com/track/6COVCjiotolKEhQ5KgCzPw) | [glhf](https://open.spotify.com/artist/4vghXazcknhr7lSBb5w5te) | [so be it](https://open.spotify.com/album/3HbIV6cxpjbPZIwSZlVEJj) | 6:28 |
-| 53 | [Dawn Rest](https://open.spotify.com/track/3GaZcx0QO6uT5ZGNSYNxZF) | [Zai Kowen](https://open.spotify.com/artist/0Hoo2QCcZxJ8VOl53hr5AB) | [Dawn Rest](https://open.spotify.com/album/15ZIvjrhbmzUsGL7C8bENn) | 3:41 |
-| 54 | [Edenic Green Plus](https://open.spotify.com/track/3VdhA2Yzb5p1cSBri10ctZ) | [Windows 96](https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i), [Gavriel](https://open.spotify.com/artist/53wGx0J5eu3GdlChMeO8RJ) | [Empty Hiding World](https://open.spotify.com/album/7B9eJo7vRYl1ztGxTOeK4R) | 4:01 |
+| 53 | [Edenic Green Plus](https://open.spotify.com/track/3VdhA2Yzb5p1cSBri10ctZ) | [Windows 96](https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i), [Gavriel](https://open.spotify.com/artist/53wGx0J5eu3GdlChMeO8RJ) | [Empty Hiding World](https://open.spotify.com/album/7B9eJo7vRYl1ztGxTOeK4R) | 4:01 |
+| 54 | [Dawn Rest](https://open.spotify.com/track/3GaZcx0QO6uT5ZGNSYNxZF) | [Zai Kowen](https://open.spotify.com/artist/0Hoo2QCcZxJ8VOl53hr5AB) | [Dawn Rest](https://open.spotify.com/album/15ZIvjrhbmzUsGL7C8bENn) | 3:41 |
 | 55 | [Soul\-Vibration](https://open.spotify.com/track/2vI9HFvmIiD7s21wjUeLFg) | [L a z u l i \_ y e l l o w](https://open.spotify.com/artist/0GiURWTLt5k0URszhyxt9s) | [Videopolis](https://open.spotify.com/album/0luDWNQOJpNEpvIFOjQWuV) | 2:16 |
 | 56 | [Veranda](https://open.spotify.com/track/5taQsLHbUf8WvzcBnUEpxe) | [FM Skyline](https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf) | [Illuminations](https://open.spotify.com/album/4AZJlKigzkjJw4vp5ONVRo) | 3:16 |
 | 57 | [Nature](https://open.spotify.com/track/2GcSVKKKIgnFhXF0t6Cvc9) | [US Golf 95](https://open.spotify.com/artist/5CnHY3fEGCye9RQH7gVvox) | [Swing Tournament](https://open.spotify.com/album/0V64Z07UBDgp8RkDgfMIiC) | 2:52 |
@@ -85,10 +85,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 | 75 | [Oneirataxia](https://open.spotify.com/track/6FDdDpVNYdROU8SAmzlfQ9) | [Rhodes Rodosu](https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ) | [Aeris](https://open.spotify.com/album/1ySeydSvvqtYI8HnHSU047) | 3:46 |
 | 76 | [Telefunken](https://open.spotify.com/track/6PMUKypMBra4U1jpjYCpE7) | [VHS LOGOS](https://open.spotify.com/artist/6n0RAa1cCsQDwZXiNgnigJ) | [Street Smarts](https://open.spotify.com/album/0EWwoQVRB0iFz1GHTyENbp) | 1:26 |
 | 77 | [Ricochet](https://open.spotify.com/track/4o6bBmo3q1JCZtKEUhwXsX) | [A.L.I.S.O.N](https://open.spotify.com/artist/3gi5McAv9c0qTjJ5jSmbL0), [Hotel Pools](https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz) | [Ultrasound](https://open.spotify.com/album/0GGvrCnvLk60XskHMF3Wqt) | 3:51 |
-| 78 | [Floppy Disk Prism](https://open.spotify.com/track/4PX57QU943gWujcaDhTAX5) | [Vaporwavez](https://open.spotify.com/artist/67AOfL6Oi8UZqpuGlw0mT3), [VAAV Social Club](https://open.spotify.com/artist/2pU9qrYI6KKvYO0I3io8nM), [Stux.Io](https://open.spotify.com/artist/5OmqY8dwR6GFMocNY3ph68) | [Floppy Disk Prism](https://open.spotify.com/album/7qTY0v8YjlxieRbap6FvKG) | 2:44 |
-| 79 | [Misty Reflections](https://open.spotify.com/track/3cBtHwcoJm3GTKEkkwTLO3) | [Tupperwave](https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO) | [VaporLoops, Vol\. 1](https://open.spotify.com/album/5AUO9iVgc0azZXcpvpg4Rc) | 3:49 |
-| 80 | [You Got The Groove \- slow + reverbed](https://open.spotify.com/track/0JPiPZT6Nj1WFv5Tq7Ec2w) | [FrankJavCee](https://open.spotify.com/artist/3nHKeOa45XrUplL3NiGy7E) | [You Got The Groove](https://open.spotify.com/album/61mCAP8vGPcJUFD3PHWjmI) | 3:57 |
-| 81 | [Private Eyes](https://open.spotify.com/track/7fZY8y8RwAYpdDCsF4ELJm) | [18 Carat Affair](https://open.spotify.com/artist/0va8U409dr4gA1zQ2gSnD5) | [Body Double](https://open.spotify.com/album/4Jp57xuKXR8Q2WiZtXLiHJ) | 1:31 |
+| 78 | [Misty Reflections](https://open.spotify.com/track/3cBtHwcoJm3GTKEkkwTLO3) | [Tupperwave](https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO) | [VaporLoops, Vol\. 1](https://open.spotify.com/album/5AUO9iVgc0azZXcpvpg4Rc) | 3:49 |
+| 79 | [Floppy Disk Prism](https://open.spotify.com/track/4PX57QU943gWujcaDhTAX5) | [Vaporwavez](https://open.spotify.com/artist/67AOfL6Oi8UZqpuGlw0mT3), [VAAV Social Club](https://open.spotify.com/artist/2pU9qrYI6KKvYO0I3io8nM), [Stux.Io](https://open.spotify.com/artist/5OmqY8dwR6GFMocNY3ph68) | [Floppy Disk Prism](https://open.spotify.com/album/7qTY0v8YjlxieRbap6FvKG) | 2:44 |
+| 80 | [Private Eyes](https://open.spotify.com/track/7fZY8y8RwAYpdDCsF4ELJm) | [18 Carat Affair](https://open.spotify.com/artist/0va8U409dr4gA1zQ2gSnD5) | [Body Double](https://open.spotify.com/album/4Jp57xuKXR8Q2WiZtXLiHJ) | 1:31 |
+| 81 | [You Got The Groove \- slow + reverbed](https://open.spotify.com/track/0JPiPZT6Nj1WFv5Tq7Ec2w) | [FrankJavCee](https://open.spotify.com/artist/3nHKeOa45XrUplL3NiGy7E) | [You Got The Groove](https://open.spotify.com/album/61mCAP8vGPcJUFD3PHWjmI) | 3:57 |
 | 82 | [You're no one](https://open.spotify.com/track/2BN6fLHHoqZJt4QCFiSEJp) | [Somburd](https://open.spotify.com/artist/6wcT73JBleLHxOuXSURwi7) | [You're no one](https://open.spotify.com/album/2L642n3LEGg6XVAwHq58UR) | 2:24 |
 | 83 | [Surfer Girl](https://open.spotify.com/track/5J3WFolhy4FRjlpsGtBkC1) | [Persona La Ave](https://open.spotify.com/artist/2aE6UqkdSKchA6BgQXEwkj) | [Surfer Girl](https://open.spotify.com/album/0LMhX8TFMKhbiXCi1FGNnj) | 6:15 |
 | 84 | [Glass Mind](https://open.spotify.com/track/7rTxLYlqDyXRtz6wpx9zc8) | [ev.exi](https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1), [Lavera](https://open.spotify.com/artist/0kmuxSLDnKLPAqs6DuhegB) | [Glass Mind](https://open.spotify.com/album/6n5SPV0pPiloTwXXn3I0ez) | 3:39 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLUQ5WYaArq.md) - [plain]
 
 > It's all about 80s summer\. Cover: Bruce Springsteen
 
-[Spotify](https://open.spotify.com/user/spotify) - 452,250 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 452,237 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLUQ5WYaArq.md) - [plain]
 | 49 | [Ghostbusters](https://open.spotify.com/track/3m0y8qLoznUYi73SUBP8GI) | [Ray Parker Jr.](https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK) | [Ghostbusters \(Original Motion Picture Soundtrack\) \[2016\]](https://open.spotify.com/album/0epcJ1L57tp3SF30aKyeWa) | 4:05 |
 | 50 | [Keep the Fire Burnin'](https://open.spotify.com/track/07wMk0CZVZRMqhF66r40Z8) | [REO Speedwagon](https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E) | [Good Trouble](https://open.spotify.com/album/2jfKXB9MYWMcVnxa1dBXnR) | 3:54 |
 
-Snapshot ID: `AAAAAMV46YGD1F08urSBjX6KXC1X9aZq`
+Snapshot ID: `AAAAAOqMqYcu8+CZ6OLTYT0ngFpDBl2E`

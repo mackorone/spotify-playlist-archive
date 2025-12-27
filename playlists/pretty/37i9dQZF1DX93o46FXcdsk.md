@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93o46FXcdsk.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 00's\. Cover: Guus Meeuwis
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,216 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,229 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,19 +15,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93o46FXcdsk.md) - [plain]
 | 5 | [Jij Bent Zo](https://open.spotify.com/track/3xAT6opqXN3qHup9VtzOS5) | [Jeroen Van Der Boom](https://open.spotify.com/artist/5zEUGwAdlfTQqKplCJJuua) | [Het Beste Van](https://open.spotify.com/album/1tlZBVZOrEwfu67wF7W41c) | 3:31 |
 | 6 | [Bloed, Zweet En Tranen](https://open.spotify.com/track/5ZLkc5RY1NM4FtGWEd6HOE) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Strijdlustig](https://open.spotify.com/album/1lWOET4J2gCO8jItVDAJfX) | 4:01 |
 | 7 | [Dansen Aan Zee](https://open.spotify.com/track/6hC1xBNYMVK4acdnEXaZVD) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Watermakers](https://open.spotify.com/album/0IjY6dBOwaD1OAIb8BxdCW) | 4:34 |
-| 8 | [Zij Maakt Het Verschil](https://open.spotify.com/track/4ptF2Hvq7PdsDKXV0o7x2M) | [De Poema's](https://open.spotify.com/artist/27aNYoqLUzogd4oSliq1Md) | [Best Of De Poema's](https://open.spotify.com/album/7K7UuRdTTDFwLkiNrWN9dg) | 4:40 |
-| 9 | [Slaap](https://open.spotify.com/track/4pdhkd4q0efLlNXGFWHR99) | [The Opposites](https://open.spotify.com/artist/23951Pg9PiLB8Uza3k12g6) | [De Fik Erin](https://open.spotify.com/album/6MAHQABck8mc1vPPwUHf0W) | 3:32 |
+| 8 | [Slaap](https://open.spotify.com/track/4pdhkd4q0efLlNXGFWHR99) | [The Opposites](https://open.spotify.com/artist/23951Pg9PiLB8Uza3k12g6) | [De Fik Erin](https://open.spotify.com/album/6MAHQABck8mc1vPPwUHf0W) | 3:32 |
+| 9 | [Zij Maakt Het Verschil](https://open.spotify.com/track/4ptF2Hvq7PdsDKXV0o7x2M) | [De Poema's](https://open.spotify.com/artist/27aNYoqLUzogd4oSliq1Md) | [Best Of De Poema's](https://open.spotify.com/album/7K7UuRdTTDFwLkiNrWN9dg) | 4:40 |
 | 10 | [Als Je Lacht](https://open.spotify.com/track/0jIcyUmf5aANj4ZAaHTizi) | [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq) | [Stilte In De Storm](https://open.spotify.com/album/17jwtlwO5J9ALE9FaJwKfF) | 3:54 |
 | 11 | [Voorbij](https://open.spotify.com/track/5dOov14V6FD3sEjDZMiRS6) | [Marco Borsato](https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD), [Do](https://open.spotify.com/artist/7sQECgfT3RtfL0RZWK63Wg) | [Zien](https://open.spotify.com/album/3fDaMcFWW1zR18e6umeiOf) | 4:06 |
-| 12 | [Geef Mij Je Angst](https://open.spotify.com/track/3HWNzYaGf9LmV6G3JYCEwS) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Het Beste Van Guus Meeuwis](https://open.spotify.com/album/5nD7RkUvn3TRlDcQSABOjo) | 3:46 |
-| 13 | [Mijn Houten Hart](https://open.spotify.com/track/3KxBgn1DhmxhntSOJyduF0) | [De Poema's](https://open.spotify.com/artist/27aNYoqLUzogd4oSliq1Md) | [Best Of De Poema's](https://open.spotify.com/album/7K7UuRdTTDFwLkiNrWN9dg) | 4:19 |
-| 14 | [Dom, Lomp & Famous](https://open.spotify.com/track/1GqYqYucjdgU2mYggk9BrM) | [The Opposites](https://open.spotify.com/artist/23951Pg9PiLB8Uza3k12g6), [Dio](https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ), [Willie Wartaal](https://open.spotify.com/artist/4usBxmpmHRVy92QbcWk0M7) | [Begin Twintig](https://open.spotify.com/album/7v3UktLA1JnkuZK3kq2ym9) | 3:41 |
-| 15 | [Heb Je Even Voor Mij](https://open.spotify.com/track/7B78M515588woNjQFBdGcJ) | [Frans Bauer](https://open.spotify.com/artist/0v4CvkMzWBQ1wZIMl2BqQW) | [Dicht bij jou](https://open.spotify.com/album/4yy5Ku8m6RLG7T2oReQWIe) | 3:18 |
+| 12 | [Heb Je Even Voor Mij](https://open.spotify.com/track/7B78M515588woNjQFBdGcJ) | [Frans Bauer](https://open.spotify.com/artist/0v4CvkMzWBQ1wZIMl2BqQW) | [Dicht bij jou](https://open.spotify.com/album/4yy5Ku8m6RLG7T2oReQWIe) | 3:18 |
+| 13 | [Dom, Lomp & Famous](https://open.spotify.com/track/1GqYqYucjdgU2mYggk9BrM) | [The Opposites](https://open.spotify.com/artist/23951Pg9PiLB8Uza3k12g6), [Dio](https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ), [Willie Wartaal](https://open.spotify.com/artist/4usBxmpmHRVy92QbcWk0M7) | [Begin Twintig](https://open.spotify.com/album/7v3UktLA1JnkuZK3kq2ym9) | 3:41 |
+| 14 | [Mijn Houten Hart](https://open.spotify.com/track/3KxBgn1DhmxhntSOJyduF0) | [De Poema's](https://open.spotify.com/artist/27aNYoqLUzogd4oSliq1Md) | [Best Of De Poema's](https://open.spotify.com/album/7K7UuRdTTDFwLkiNrWN9dg) | 4:19 |
+| 15 | [Geef Mij Je Angst](https://open.spotify.com/track/3HWNzYaGf9LmV6G3JYCEwS) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Het Beste Van Guus Meeuwis](https://open.spotify.com/album/5nD7RkUvn3TRlDcQSABOjo) | 3:46 |
 | 16 | [Binnen](https://open.spotify.com/track/6BXM76LZQ1KJ3j7ONB2jBY) | [Marco Borsato](https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD) | [Luid En Duidelijk](https://open.spotify.com/album/2CkRlPC91z87ZCXrQS83P1) | 4:34 |
-| 17 | [Proosten](https://open.spotify.com/track/5bPXGYhn9oWUgU8aLusjgf) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Het Beste Van Guus Meeuwis](https://open.spotify.com/album/5nD7RkUvn3TRlDcQSABOjo) | 3:52 |
+| 17 | [Hart Van Mijn Gevoel](https://open.spotify.com/track/75og56sR5lahWgyRyhag5w) | [De Kast](https://open.spotify.com/artist/0X6CDvMiFMeLxVnKUq9oWy) | [Onvoorspelbaar](https://open.spotify.com/album/222CHh4D7v0n6vgyYOz67w) | 4:28 |
 | 18 | [Laura](https://open.spotify.com/track/4wdXbGw7kzzIVx77dVToGq) | [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq) | [JanSmit.com](https://open.spotify.com/album/71v1iplssftNV8DOYZwJuw) | 3:08 |
-| 19 | [Hart Van Mijn Gevoel](https://open.spotify.com/track/75og56sR5lahWgyRyhag5w) | [De Kast](https://open.spotify.com/artist/0X6CDvMiFMeLxVnKUq9oWy) | [Onvoorspelbaar](https://open.spotify.com/album/222CHh4D7v0n6vgyYOz67w) | 4:28 |
-| 20 | [Vaag En Stil](https://open.spotify.com/track/0BVy4Py6rXaTjPagS1L7z3) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Vaag En Stil](https://open.spotify.com/album/6datZIaGAIGyW2JSYvAVi4) | 3:31 |
+| 19 | [Vaag En Stil](https://open.spotify.com/track/0BVy4Py6rXaTjPagS1L7z3) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Vaag En Stil](https://open.spotify.com/album/6datZIaGAIGyW2JSYvAVi4) | 3:31 |
+| 20 | [Proosten](https://open.spotify.com/track/5bPXGYhn9oWUgU8aLusjgf) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Het Beste Van Guus Meeuwis](https://open.spotify.com/album/5nD7RkUvn3TRlDcQSABOjo) | 3:52 |
 | 21 | [Zij](https://open.spotify.com/track/54iCdVRWMgmy22pJj0FwHN) | [Marco Borsato](https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD) | [Onderweg](https://open.spotify.com/album/6aNqB0DO4ni5VNDEjDwH8g) | 4:05 |
 | 22 | [Tijdmachine \- Edit](https://open.spotify.com/track/5HKJl9V8QDMflGBH0jFS85) | [Dio](https://open.spotify.com/artist/2Np3tBLhkFCcJPun4KhrDQ), [Sef](https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0) | [Tijdmachine](https://open.spotify.com/album/2Jaf7GiTd149xp5NiYRh0c) | 3:29 |
 | 23 | [Stilte In De Storm](https://open.spotify.com/track/39ZTmjrBK4tM2tlohOpmkF) | [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq) | [Stilte In De Storm](https://open.spotify.com/album/17jwtlwO5J9ALE9FaJwKfF) | 3:16 |

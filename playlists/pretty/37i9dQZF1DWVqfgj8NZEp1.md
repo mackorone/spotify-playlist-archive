@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 
 > Relax to the sound of gentle instrumental Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,653,881 likes - 100 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,653,981 likes - 100 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqfgj8NZEp1.md) - [plain]
 | 49 | [Sous Le Ciel De Paris](https://open.spotify.com/track/7JMkZWB40pcmq8G7kTsbcB) | [Jacky Terrasson](https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr) | [Smile](https://open.spotify.com/album/6BF5MVQpYKaT2VL8SZayRh) | 4:04 |
 | 50 | [Moonlight In Vermont](https://open.spotify.com/track/6yWlAhcnlVq9VThnWaMvkK) | [John Lee](https://open.spotify.com/artist/2bLlwzmY1YcEVFuVEfaUmN) | [Moonlight In Vermont](https://open.spotify.com/album/4Wldh9Q4ECOwN0CeLrk9mg) | 3:23 |
 | 51 | [Estate](https://open.spotify.com/track/2WbI91qUJxE11MaCPnDXwz) | [Till Brönner](https://open.spotify.com/artist/3Q4xYZ2ZuFaAsZZyjPIfc8) | [ITALIA](https://open.spotify.com/album/1Epbj3Z3J921lJmKhetc6n) | 5:30 |
-| 52 | [The Rose Tattoo](https://open.spotify.com/track/3RjbEoLYFuyFj4DaDhR6LA) | [Harry Allen](https://open.spotify.com/artist/7HEPzI1k3SXs2lJ3EixmjR), [Dave Blenkhorn](https://open.spotify.com/artist/2PnXjyP9d0S0qW7XL8SIvh), [MIKE KARN](https://open.spotify.com/artist/5mkudOQ2e9XucYqI0QOFmg), [QUENTIN BAXTER](https://open.spotify.com/artist/3Y89pBxhMVkFWtkA62yAPU) | [My Reverie by Special Request](https://open.spotify.com/album/2xzK7J9946vwEkARgbEUQk) | 4:54 |
+| 52 | [The Rose Tattoo](https://open.spotify.com/track/3RjbEoLYFuyFj4DaDhR6LA) | [cleaned](https://open.spotify.com/artist/1yp2KhukqTL1SNjjQDCNj3) | [My Reverie by Special Request](https://open.spotify.com/album/2xzK7J9946vwEkARgbEUQk) | 4:54 |
 | 53 | [Yesteryear](https://open.spotify.com/track/2qbPX1fQUyknyc7cZw2L8W) | [Snorre Kirk](https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM), [Michael Blicher](https://open.spotify.com/artist/63pT7P8TZCJmvsEbCbE0sZ) | [Yesteryear](https://open.spotify.com/album/5XqLTTwrDqietv4GjKIXuD) | 4:19 |
 | 54 | [I Got It Bad And That Ain't Good](https://open.spotify.com/track/2kpaRWsZTE96rmw0NBfP0c) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Night Train \(Expanded Edition\)](https://open.spotify.com/album/1wht9VwbCummrzrwOOjAm7) | 5:06 |
 | 55 | [Answer Me](https://open.spotify.com/track/6fnNCsXknFz1ynDLccUonn) | [Hans Ulrik](https://open.spotify.com/artist/1SdvVqfeIalD1XCYMO9HsF) | [Answer Me](https://open.spotify.com/album/3FgQg3LI5EM2mnNIkLtAqv) | 3:30 |

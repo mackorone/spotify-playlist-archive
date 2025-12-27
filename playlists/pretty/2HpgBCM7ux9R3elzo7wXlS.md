@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2HpgBCM7ux9R3elzo7wXlS.md) - [plain]
 
 > All of it
 
-[Harrison](https://open.spotify.com/user/lewdbuatf9ul0cn9q5ass75lh) - 0 likes - 1,069 songs - 2 day 17 hr 45 min
+[Harrison](https://open.spotify.com/user/lewdbuatf9ul0cn9q5ass75lh) - 0 likes - 1,070 songs - 2 day 17 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1077,5 +1077,6 @@ pretty - [cumulative](/playlists/cumulative/2HpgBCM7ux9R3elzo7wXlS.md) - [plain]
 | 1067 | [Hobo](https://open.spotify.com/track/3lQYanWH4KAIBvRXVXGnjM) | [Beggars Opera](https://open.spotify.com/artist/1Q1IgVCRwAqQxgcM8a64zP) | [Pathfinder](https://open.spotify.com/album/4vDouPNKFQs5GGCjLuLt9W) | 4:25 |
 | 1068 | [SnowMix♪ \(feat\. 初音ミク\)](https://open.spotify.com/track/0qlIg0mIUfWM8Yxu5peawB) | [Marasy](https://open.spotify.com/artist/3Y2hPbg4GHOheV4Hc9lpXV), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [幽天のファンタジア](https://open.spotify.com/album/2SdNhJre8r9i35w34hOxje) | 4:06 |
 | 1069 | [Schwanengesang, D.957: No\. 4 Serenade](https://open.spotify.com/track/6BdrHOEmokkSxTyxCojD6r) | [Franz Schubert](https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP), [Eugene Ormandy](https://open.spotify.com/artist/3naY4Tq98GRh9K8xOsINyv), [Philadelphia Orchestra](https://open.spotify.com/artist/6tdexW8bZTG8NgOFUCYQn1) | [Greatest Hits: Schubert](https://open.spotify.com/album/0pvAq528cqZUS3HJFY7LoI) | 4:23 |
+| 1070 | [WISHLIST \[with Armani White\]](https://open.spotify.com/track/2OjJ5v66ksCRo6uTaR57Y5) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [King Of The Mischievous South Vol\. 2](https://open.spotify.com/album/6LoDd1G8en4TcqdSg7yqrV) | 3:06 |
 
-Snapshot ID: `AAAH2cyBCQ/cxKm8YIfxzXKyCIFqbYxb`
+Snapshot ID: `AAAH2hdS7Zm27MF75r5VrhJ+2C3hXbBb`

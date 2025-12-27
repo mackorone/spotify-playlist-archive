@@ -1,6 +1,6 @@
 {
   "description": "Discover the music of Richard Strauss.",
-  "num_followers": 26871,
+  "num_followers": 26877,
   "original_name": "This Is Richard Strauss",
   "owner": {
     "name": "Spotify",
@@ -115,8 +115,8 @@
     {
       "added_at": "2025-12-15 11:35:26",
       "album": {
-        "name": "R. Strauss: Oboe Concerto",
-        "url": "https://open.spotify.com/album/14gVF3IYbIK2n3AkhC2Kyk"
+        "name": "Strauss, R.: Four Last Songs, etc.",
+        "url": "https://open.spotify.com/album/0sIuKA8hHwodqk2nQ8qv1k"
       },
       "artists": [
         {
@@ -124,21 +124,21 @@
           "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
         },
         {
-          "name": "Fran\u00e7ois Leleux",
-          "url": "https://open.spotify.com/artist/2OmtnJTgdAAVVe6moOqecH"
+          "name": "Ren\u00e9e Fleming",
+          "url": "https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8"
         },
         {
-          "name": "Swedish Radio Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/0K6ufQj8JzIZPPkvZrEwJS"
+          "name": "Munich Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/5jSyEHI4tPkBgp84luyqpO"
         },
         {
-          "name": "Daniel Harding",
-          "url": "https://open.spotify.com/artist/3sjupE75AphhTX12fgkQv6"
+          "name": "Christian Thielemann",
+          "url": "https://open.spotify.com/artist/5c2dloAaXR2qRbIVh2C0jD"
         }
       ],
-      "duration_ms": 509000,
-      "name": "Concerto for Oboe and Small Orchestra in D Major, Op. 144: I. Allegro moderato",
-      "url": "https://open.spotify.com/track/1pAIlvyqOfnr4baZp2QGb9"
+      "duration_ms": 461453,
+      "name": "4 Letzte Lieder, TrV 296: No. 4, Im Abendrot",
+      "url": "https://open.spotify.com/track/7JVYGlKBO4ZqkH1RB9XV96"
     },
     {
       "added_at": "2025-12-15 11:35:26",
@@ -547,30 +547,6 @@
     {
       "added_at": "2025-12-15 11:35:26",
       "album": {
-        "name": "Richard Strauss- Don Juan, Till Eulenspiegel, Walzer, Metamorphosen",
-        "url": "https://open.spotify.com/album/6AyM5te1RMIlHFXZituf5E"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Staatskapelle Dresden",
-          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
-        },
-        {
-          "name": "Rudolf Kempe",
-          "url": "https://open.spotify.com/artist/0zTyIQF8geFUI5op5Ocimg"
-        }
-      ],
-      "duration_ms": 1070973,
-      "name": "Strauss, R: Waltz Sequences from the Rosenkavalier",
-      "url": "https://open.spotify.com/track/3WmoNsLm4LlOWmcTsr0P4v"
-    },
-    {
-      "added_at": "2025-12-15 11:35:26",
-      "album": {
         "name": "Strauss: Ariadne auf Naxos",
         "url": "https://open.spotify.com/album/16nAFy2XarUbwzZxKErqDN"
       },
@@ -591,6 +567,30 @@
       "duration_ms": 147000,
       "name": "Strauss, R: Ariadne auf Naxos, Op. 60, Prologue: Overture",
       "url": "https://open.spotify.com/track/3SzzWt7qccZbnKOehjgMaq"
+    },
+    {
+      "added_at": "2025-12-15 11:35:26",
+      "album": {
+        "name": "Richard Strauss- Don Juan, Till Eulenspiegel, Walzer, Metamorphosen",
+        "url": "https://open.spotify.com/album/6AyM5te1RMIlHFXZituf5E"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Staatskapelle Dresden",
+          "url": "https://open.spotify.com/artist/3Vfvyx6OouTxYU3emXonW7"
+        },
+        {
+          "name": "Rudolf Kempe",
+          "url": "https://open.spotify.com/artist/0zTyIQF8geFUI5op5Ocimg"
+        }
+      ],
+      "duration_ms": 1070973,
+      "name": "Strauss, R: Waltz Sequences from the Rosenkavalier",
+      "url": "https://open.spotify.com/track/3WmoNsLm4LlOWmcTsr0P4v"
     },
     {
       "added_at": "2025-12-15 11:35:26",
@@ -1143,8 +1143,8 @@
     {
       "added_at": "2025-12-15 11:35:26",
       "album": {
-        "name": "Strauss, R.: Four Last Songs, etc.",
-        "url": "https://open.spotify.com/album/0sIuKA8hHwodqk2nQ8qv1k"
+        "name": "R. Strauss: Oboe Concerto",
+        "url": "https://open.spotify.com/album/14gVF3IYbIK2n3AkhC2Kyk"
       },
       "artists": [
         {
@@ -1152,21 +1152,21 @@
           "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
         },
         {
-          "name": "Ren\u00e9e Fleming",
-          "url": "https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8"
+          "name": "Fran\u00e7ois Leleux",
+          "url": "https://open.spotify.com/artist/2OmtnJTgdAAVVe6moOqecH"
         },
         {
-          "name": "Munich Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/5jSyEHI4tPkBgp84luyqpO"
+          "name": "Swedish Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/0K6ufQj8JzIZPPkvZrEwJS"
         },
         {
-          "name": "Christian Thielemann",
-          "url": "https://open.spotify.com/artist/5c2dloAaXR2qRbIVh2C0jD"
+          "name": "Daniel Harding",
+          "url": "https://open.spotify.com/artist/3sjupE75AphhTX12fgkQv6"
         }
       ],
-      "duration_ms": 461453,
-      "name": "4 Letzte Lieder, TrV 296: No. 4, Im Abendrot",
-      "url": "https://open.spotify.com/track/7JVYGlKBO4ZqkH1RB9XV96"
+      "duration_ms": 509000,
+      "name": "Concerto for Oboe and Small Orchestra in D Major, Op. 144: I. Allegro moderato",
+      "url": "https://open.spotify.com/track/1pAIlvyqOfnr4baZp2QGb9"
     },
     {
       "added_at": "2025-12-15 11:35:26",

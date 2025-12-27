@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Polo G, DaBaby, Chase B and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 365,373 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 365,829 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 49 | [Life of the Party](https://open.spotify.com/track/3Js7mmdx79FKYMTnlj2AXd) | [BIGBABYGUCCI](https://open.spotify.com/artist/1ra8ujbJcZrV5aUjcfzFKs) | [And When I’m Alone](https://open.spotify.com/album/4dlagX3hcuTbeff6xpvpTe) | 2:14 |
 | 50 | [BLACC TRUCK \(feat\. Traetwothree & Reech.FrFr\)](https://open.spotify.com/track/5inQX8u0ZsDWpvAUGr58Uw) | [Zoe Osama](https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz), [Chimchilla](https://open.spotify.com/artist/5JyCcXa7efIN5sFq37f9hn), [Traetwothree](https://open.spotify.com/artist/67cw6GPXHiwsDjFTvAoVfV), [Reech.FrFr](https://open.spotify.com/artist/7G0tooUPxc1dl2bdIUjcxw) | [Rhythm & Zoe](https://open.spotify.com/album/6DRxTUsUL1d7RaPGfn1eem) | 3:17 |
 
-Snapshot ID: `AAAAABQlg17ujh0LqTcEQPvckbj+wW0W`
+Snapshot ID: `AAAAABaeIdZCWeRL+oDAslWVidUAR7nm`

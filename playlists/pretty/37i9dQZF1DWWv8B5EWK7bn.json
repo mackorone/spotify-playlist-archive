@@ -1,6 +1,6 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 205443,
+  "num_followers": 205460,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
@@ -455,22 +455,6 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "The Turning Ground",
-        "url": "https://open.spotify.com/album/5zvocgdxHltqxJmc5v4Ppn"
-      },
-      "artists": [
-        {
-          "name": "Tara Clerkin Trio",
-          "url": "https://open.spotify.com/artist/0fSThWbCstAGqxZFUftX1F"
-        }
-      ],
-      "duration_ms": 265920,
-      "name": "The Turning Ground",
-      "url": "https://open.spotify.com/track/78O1YBhuqh6HOQC6u9ad8w"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
         "name": "Classic Objects",
         "url": "https://open.spotify.com/album/71T5vyKWwbd4oUPfDpyNwb"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 362428,
       "name": "American Coffee",
       "url": "https://open.spotify.com/track/2ywyJsQa0vew5YEbAr7Jgr"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "The Turning Ground",
+        "url": "https://open.spotify.com/album/5zvocgdxHltqxJmc5v4Ppn"
+      },
+      "artists": [
+        {
+          "name": "Tara Clerkin Trio",
+          "url": "https://open.spotify.com/artist/0fSThWbCstAGqxZFUftX1F"
+        }
+      ],
+      "duration_ms": 265920,
+      "name": "The Turning Ground",
+      "url": "https://open.spotify.com/track/78O1YBhuqh6HOQC6u9ad8w"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -839,6 +839,22 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
+        "name": "Follow The Light",
+        "url": "https://open.spotify.com/album/6v2rqiNIvp8wpwjuM52ea6"
+      },
+      "artists": [
+        {
+          "name": "Broadcast",
+          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
+        }
+      ],
+      "duration_ms": 159054,
+      "name": "Follow The Light",
+      "url": "https://open.spotify.com/track/17076c3jEyuTYHYnMN6P1G"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
         "name": "STORY OF BLOOD",
         "url": "https://open.spotify.com/album/6voVkae1055milSYpRzzGc"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 451986,
       "name": "STORY OF BLOOD",
       "url": "https://open.spotify.com/track/0MtY5fVdx8fnPzqooOwok4"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
-        "name": "Follow The Light",
-        "url": "https://open.spotify.com/album/6v2rqiNIvp8wpwjuM52ea6"
-      },
-      "artists": [
-        {
-          "name": "Broadcast",
-          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
-        }
-      ],
-      "duration_ms": 159054,
-      "name": "Follow The Light",
-      "url": "https://open.spotify.com/track/17076c3jEyuTYHYnMN6P1G"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "True Luck",
-        "url": "https://open.spotify.com/album/4Gsf0hLHkHEGr5ooIVCsoJ"
-      },
-      "artists": [
-        {
-          "name": "Astoria",
-          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
-        }
-      ],
-      "duration_ms": 200625,
-      "name": "True Luck",
-      "url": "https://open.spotify.com/track/5OWX5oNVa0xfn3VAIPVfJl"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
         "name": "Where To Put The Pain",
         "url": "https://open.spotify.com/album/1CIYtcZozAhsnaZETJHmai"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 234693,
       "name": "Where To Put The Pain",
       "url": "https://open.spotify.com/track/0XTurmb33W1OnYZji8eIQe"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "True Luck",
+        "url": "https://open.spotify.com/album/4Gsf0hLHkHEGr5ooIVCsoJ"
+      },
+      "artists": [
+        {
+          "name": "Astoria",
+          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
+        }
+      ],
+      "duration_ms": 200625,
+      "name": "True Luck",
+      "url": "https://open.spotify.com/track/5OWX5oNVa0xfn3VAIPVfJl"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1675,26 +1675,18 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Meditations on Crime",
-        "url": "https://open.spotify.com/album/2AUXeLSBLzeoFjN1eLFi5p"
+        "name": "Une Autre Attente",
+        "url": "https://open.spotify.com/album/1ySxaH3vNdGtrDk42suuA9"
       },
       "artists": [
         {
-          "name": "Meditations on Crime",
-          "url": "https://open.spotify.com/artist/6ggsYambXUenZL9Y8HeWXB"
-        },
-        {
-          "name": "Gang Gang Dance",
-          "url": "https://open.spotify.com/artist/6UU6YXQaFGQToWN6U28Dcb"
-        },
-        {
-          "name": "Harper Simon",
-          "url": "https://open.spotify.com/artist/4fFL1ARvUJCoaZ3HK4SxdE"
+          "name": "Laetitia Sadier",
+          "url": "https://open.spotify.com/artist/5s8mrbpjYHWIuGYUzNTpEb"
         }
       ],
-      "duration_ms": 213159,
-      "name": "Crime Seed",
-      "url": "https://open.spotify.com/track/5vyoWTsI8hVl9fJHqW2ieb"
+      "duration_ms": 162513,
+      "name": "Une Autre Attente",
+      "url": "https://open.spotify.com/track/7w9ZA5e8wqoFH8vyGUBqoT"
     },
     {
       "added_at": "2025-11-18 17:38:22",

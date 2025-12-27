@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03VbhoH7arm.md) - [plain]
 
 > Grandes hits do BR e do 🌎 / Foto: Marina Sena
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,579,896 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,579,824 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03VbhoH7arm.md) - [plain]
 | 49 | [Sagrado Profano](https://open.spotify.com/track/4vBG38rYl3GMkMFWv5K6CS) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy) | [Sagrado Profano](https://open.spotify.com/album/1D3iQt1lYYv9m6S2n0QFET) | 3:16 |
 | 50 | [Dano Sarrada \- Remix](https://open.spotify.com/track/0Kl8AuDEnnEA7UtCKov4Op) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [Japãozin](https://open.spotify.com/artist/7bDY7ck0pXuKESZtEt1X5d) | [Dano Sarrada \(Remix\)](https://open.spotify.com/album/4C1KWXgdTmom6eWiu0x45k) | 2:46 |
 
-Snapshot ID: `AAAAAHHT/xta5h3TGdcFyyFCQ4vtE6ze`
+Snapshot ID: `AAAAAEYbV9FQtdQZ/WDvRA6NsLP5v4b8`

@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX47uat5buwl0.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX47uat5buwl0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX47uat5buwl0)
 
-### [Studenten Hits 2025](https://open.spotify.com/playlist/37i9dQZF1DX47uat5buwl0)
+### [Studenten Hits 2026](https://open.spotify.com/playlist/37i9dQZF1DX47uat5buwl0)
 
 > 🔥🎉
 
-123 songs - 5 hr 24 min
+124 songs - 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,7 @@
 | [Bad Bitches Luisteren Def](https://open.spotify.com/track/2EIyJASJ9P8cVUV3J33mc9) | [Def](https://open.spotify.com/artist/7xSvzzpRGlGKyXVOI6IeWk) | [Bad Bitches Luisteren Def](https://open.spotify.com/album/28dmgMrhKpJmGNPlfvcaOI) | 1:35 | 2025-09-09 |  |
 | [Barman](https://open.spotify.com/track/57FswJp3cmjj0EXolasm8o) | [Young Dylan](https://open.spotify.com/artist/6qqRfVXPotai8VXd2Umpyc), [Ammar](https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb) | [Barman](https://open.spotify.com/album/609khigXToopoRE1yguAQ8) | 2:54 | 2025-10-06 |  |
 | [Beetje Van Mij](https://open.spotify.com/track/2zqqu4TbRW3yOI5wqdrgDL) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Beetje Van Mij](https://open.spotify.com/album/3MTu2qGVdcRf5vmFzzVPuw) | 2:30 | 2025-07-17 |  |
-| [Ben Je Morgen Vrij?](https://open.spotify.com/track/2ytB93cB0vNztVGnzYF7Rz) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Ben Je Morgen Vrij?](https://open.spotify.com/album/6sc6ZWqZa0J5FYzr5M15JD) | 2:33 | 2025-08-25 |  |
+| [Ben Je Morgen Vrij?](https://open.spotify.com/track/2ytB93cB0vNztVGnzYF7Rz) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Ben Je Morgen Vrij?](https://open.spotify.com/album/6sc6ZWqZa0J5FYzr5M15JD) | 2:33 | 2025-08-25 | 2025-12-27 |
 | [Bitterzoet](https://open.spotify.com/track/6PbDcr3zfITA3j3MO4OIOu) | [Marc Floor](https://open.spotify.com/artist/68Y9QV4i004HBLR6AI5TBc), [Young Dylan](https://open.spotify.com/artist/6qqRfVXPotai8VXd2Umpyc) | [Bitterzoet](https://open.spotify.com/album/5Y2YwJG3v0WISIGLxoAbbR) | 2:35 | 2025-07-17 | 2025-08-29 |
 | [Blauwe Maandag](https://open.spotify.com/track/6LflKewsKYkZ3ylzfSwHKF) | [Turfy Gang](https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W) | [Blauwe Maandag](https://open.spotify.com/album/6Un53AaCAlWAcBl8olQlQK) | 2:19 | 2025-07-17 | 2025-08-27 |
 | [Boccaccio](https://open.spotify.com/track/5E1VRAAQEEQjWXeeKAHTSe) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Boccaccio](https://open.spotify.com/album/5bwru8YsdUBycin4I75img) | 3:07 | 2025-09-09 |  |
@@ -36,6 +36,7 @@
 | [Dame Un Grrr](https://open.spotify.com/track/7ih7pYSRZgWCTXuOmrnXjX) | [Fantomel](https://open.spotify.com/artist/5KSiZki8gCESiSq0z35Ald), [Kate Linn](https://open.spotify.com/artist/2b01rwtcqW5LyfVBMzIFQ4) | [Dame Un Grrr](https://open.spotify.com/album/1QJWpxXcEr1AH3BLeI0s65) | 2:13 | 2025-07-17 | 2025-09-05 |
 | [Dame Un Grrr \- Provi Remix Radio Edit](https://open.spotify.com/track/20fzebeACMzZovFyFW3G0L) | [Fantomel](https://open.spotify.com/artist/5KSiZki8gCESiSq0z35Ald), [Kate Linn](https://open.spotify.com/artist/2b01rwtcqW5LyfVBMzIFQ4), [Provi](https://open.spotify.com/artist/09WKhhJl9OZwZEKXRoSnOo) | [Dame Un Grrr \(Provi Remix\)](https://open.spotify.com/album/2GDIY30MqJ2sfnFp7px5Mq) | 2:00 | 2025-09-04 | 2025-12-06 |
 | [Dans Alleen](https://open.spotify.com/track/5bNnztkwLZSZL9mKBOTDxl) | [The Partysquad](https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY), [Nachtdienst](https://open.spotify.com/artist/3064mDVay7KaKF8TyuD8kw) | [Dans Alleen](https://open.spotify.com/album/4VuBnepihfl7KDSdFgOmDp) | 2:37 | 2025-11-20 |  |
+| [Dans Gewoon](https://open.spotify.com/track/3YrzQVu7wdv1d5MO2DvVdl) | [Rijck](https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ), [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2) | [Dans Gewoon](https://open.spotify.com/album/3PvUWA9XY1FQhKikmc5NK6) | 2:32 | 2025-12-26 |  |
 | [De Liefde](https://open.spotify.com/track/3MrCOZ0qldvkNiQTWG9GIt) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH) | [De Liefde](https://open.spotify.com/album/61mnvmeJ8RTpN5bXDq6AXy) | 2:04 | 2025-10-01 | 2025-12-06 |
 | [Delft](https://open.spotify.com/track/06vj9ZjYauBpT1hQHMjidL) | [Young Dylan](https://open.spotify.com/artist/6qqRfVXPotai8VXd2Umpyc) | [Delft](https://open.spotify.com/album/1STHINScS6iZUrTthqhsVW) | 2:02 | 2025-07-17 |  |
 | [Devotion](https://open.spotify.com/track/3BM5hoJ168Kh4hYEhiNxwK) | [Lance Savali](https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd) | [Devotion](https://open.spotify.com/album/47IOO7TrIL82e6P2d809N9) | 2:16 | 2025-07-17 |  |

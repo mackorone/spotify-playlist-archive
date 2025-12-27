@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7NhGf24haor.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7NhGf24haor) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7NhGf24haor)
 
-### [Hardstyle Adrenaline! 2025](https://open.spotify.com/playlist/37i9dQZF1DX7NhGf24haor)
+### [Hardstyle Adrenaline! 2026](https://open.spotify.com/playlist/37i9dQZF1DX7NhGf24haor)
 
 > Weekly new Hardstyle releases! Cover: Project One
 

@@ -4,7 +4,7 @@
 
 > The hottest out the South\. Cover: Pooh Shiesty
 
-2,471 songs - 4 day 19 hr 34 min
+2,472 songs - 4 day 19 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -314,7 +314,8 @@
 | [Blue Devils \(feat\. DaBaby\) \- Remix](https://open.spotify.com/track/29a9AZPAMPSifXvDnk4h3b) | [Trap Dickey](https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Blue Devils \(Remix\)](https://open.spotify.com/album/3UKANlbbyiPtZ2bwKyda5I) | 2:28 | 2024-09-13 | 2024-11-23 |
 | [Bluffin \(feat\. Lil Baby\)](https://open.spotify.com/track/1hS8xbWKEifaf0VuFpIY69) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Bluffin \(feat\. Lil Baby\)](https://open.spotify.com/album/4L4Vv3wpLhLmMTg313h2zP) | 2:28 | 2023-06-16 | 2023-09-23 |
 | [BOA](https://open.spotify.com/track/3tUwmCcdunuXKwHu8u2aBn) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [BOA](https://open.spotify.com/album/0oXRheajSwu5UTpcDzloop) | 2:34 | 2024-05-10 | 2024-06-22 |
-| [BOAT](https://open.spotify.com/track/3saKLLmgDVjgojwm3HB45i) | [Trim](https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9) | [BOAT](https://open.spotify.com/album/3pGNWXpCt2g48Wfs791E2E) | 3:27 | 2025-11-30 |  |
+| [BOAT](https://open.spotify.com/track/3saKLLmgDVjgojwm3HB45i) | [Trim](https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9) | [BOAT](https://open.spotify.com/album/3pGNWXpCt2g48Wfs791E2E) | 3:27 | 2025-11-30 | 2025-12-27 |
+| [Boat Remix](https://open.spotify.com/track/2HeqKWstr0XAYILHpRo5ra) | [Trim](https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9), [YKNIECE](https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog), [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [Boat Remix](https://open.spotify.com/album/0PBa3RVZ6Mpy9dCdb3UnRC) | 2:43 | 2025-12-26 |  |
 | [Bobby Boucher](https://open.spotify.com/track/11o9dSwPFk66I8qUEvk8Aj) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Benji.](https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf) | [Bobby Boucher](https://open.spotify.com/album/3TtnKqZZIMXNIGYV9RLii7) | 3:15 | 2023-08-04 | 2023-08-19 |
 | [Bodies \(with JID\)](https://open.spotify.com/track/2PcZiMr9bRNtRikrN7s6bL) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Bodies \(with JID\)](https://open.spotify.com/album/5TGnWZlJnWF3erh4nVG9l3) | 2:58 | 2025-06-20 | 2025-07-26 |
 | [Body Bag](https://open.spotify.com/track/04b0tLlmpRhukCXaXT6l2J) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Body Bag](https://open.spotify.com/album/1uGar7MLJx7xRxSttyCw75) | 2:38 | 2022-10-21 | 2022-11-12 |

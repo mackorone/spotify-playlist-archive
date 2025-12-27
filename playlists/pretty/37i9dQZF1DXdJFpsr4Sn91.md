@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 
 > Nousussa olevat hitit\. 🌪️
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,145 likes - 80 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,147 likes - 80 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,14 +63,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 | 53 | [Sua Ei Oo \- WILLEM Remix](https://open.spotify.com/track/6POXTrTpf5usT9rrbU3L0r) | [WILLEM](https://open.spotify.com/artist/2u66MppjHvqRsfLMYfn0Sv), [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Sua Ei Oo \(WILLEM Remix\)](https://open.spotify.com/album/1qo9NF4hD21s1tfdnudYmI) | 2:52 |
 | 54 | [Käännä Se Kovemmal](https://open.spotify.com/track/518a2UYMiFtcgyvparCAPB) | [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz) | [Käännä Se Kovemmal](https://open.spotify.com/album/1FtyRB2jbzmpPu4VNvwrfx) | 3:03 |
 | 55 | [Susta löysin kodin](https://open.spotify.com/track/3TNTIJjB4CxaXOk9eLrj9z) | [ELLIMEI](https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra) | [Pieni ikuisuus](https://open.spotify.com/album/25pLeQtsnxTAOMA5IURPrp) | 3:15 |
-| 56 | [Clean](https://open.spotify.com/track/0tBXqaYjAqaQp55uRdhgAt) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Love & Hyperbole \(Deluxe\)](https://open.spotify.com/album/6rBEtMQZsYPe9xtPpP9QdC) | 3:12 |
-| 57 | [Sotilas \(feat\. Senni\)](https://open.spotify.com/track/6shalerzc3LLKNj6rvHhfT) | [Mikael Gabriel](https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw), [Senni](https://open.spotify.com/artist/7pI7IBuoklCAyUgFIIwhpr) | [Sotilas \(feat\. Senni\)](https://open.spotify.com/album/2gnYoLjr1OI483XTKCxHKq) | 2:59 |
+| 56 | [Sotilas \(feat\. Senni\)](https://open.spotify.com/track/6shalerzc3LLKNj6rvHhfT) | [Mikael Gabriel](https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw), [Senni](https://open.spotify.com/artist/7pI7IBuoklCAyUgFIIwhpr) | [Sotilas \(feat\. Senni\)](https://open.spotify.com/album/2gnYoLjr1OI483XTKCxHKq) | 2:59 |
+| 57 | [Clean](https://open.spotify.com/track/0tBXqaYjAqaQp55uRdhgAt) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Love & Hyperbole \(Deluxe\)](https://open.spotify.com/album/6rBEtMQZsYPe9xtPpP9QdC) | 3:12 |
 | 58 | [Tehtävä tää](https://open.spotify.com/track/2vaFrvauevJtiY6HXk84YH) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7) | [Tehtävä tää](https://open.spotify.com/album/3vqp9wreCwyvswPt92cprd) | 3:13 |
-| 59 | [Tuut Tuut Tuut](https://open.spotify.com/track/1gWfhe6wPaJ4RyqDKEw584) | [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Tuut Tuut Tuut](https://open.spotify.com/album/7hXpnmRSq6msry9GVVwFEx) | 3:20 |
-| 60 | [Jos ei oo meit](https://open.spotify.com/track/1g4QizdrPAiOWXgRbePWSV) | [HUGO](https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ) | [Jos ei oo meit](https://open.spotify.com/album/3nhK0fT6U33xjicziaPRPd) | 2:18 |
+| 59 | [Jos ei oo meit](https://open.spotify.com/track/1g4QizdrPAiOWXgRbePWSV) | [HUGO](https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ) | [Jos ei oo meit](https://open.spotify.com/album/3nhK0fT6U33xjicziaPRPd) | 2:18 |
+| 60 | [Tuut Tuut Tuut](https://open.spotify.com/track/1gWfhe6wPaJ4RyqDKEw584) | [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Tuut Tuut Tuut](https://open.spotify.com/album/7hXpnmRSq6msry9GVVwFEx) | 3:20 |
 | 61 | [Bensaa tulipaloon](https://open.spotify.com/track/1FCjidFdL7qwloCUnzQkoD) | [Benjamin](https://open.spotify.com/artist/5FgAhHocNrSCn7Ox87uyef) | [Bensaa tulipaloon](https://open.spotify.com/album/3VSTPC1rNLN2YPDMOwejoe) | 3:01 |
-| 62 | [Jos tää ei oo se](https://open.spotify.com/track/7lOQNzL9pLMM6UttEQPLLU) | [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI) | [Jos tää ei oo se](https://open.spotify.com/album/34VKb7gyE1OUf35rPBQsYt) | 3:00 |
-| 63 | [Uus ikuisuus](https://open.spotify.com/track/7KCwlgnSizc7FT7z8irVWk) | [Nelli Matula](https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE) | [Uus ikuisuus](https://open.spotify.com/album/5sJ7kXJARagnnxyPaKrNXc) | 2:56 |
+| 62 | [Uus ikuisuus](https://open.spotify.com/track/7KCwlgnSizc7FT7z8irVWk) | [Nelli Matula](https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE) | [Uus ikuisuus](https://open.spotify.com/album/5sJ7kXJARagnnxyPaKrNXc) | 2:56 |
+| 63 | [Jos tää ei oo se](https://open.spotify.com/track/7lOQNzL9pLMM6UttEQPLLU) | [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI) | [Jos tää ei oo se](https://open.spotify.com/album/34VKb7gyE1OUf35rPBQsYt) | 3:00 |
 | 64 | [Jos viel tänään \(feat\. AHTI\)](https://open.spotify.com/track/14WphbjwdiMZNkT0YhcnkW) | [KAUKUA](https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ), [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Jos viel tänään \(feat\. AHTI\)](https://open.spotify.com/album/36m9kmhRSZLRp1N9AwdqYz) | 2:30 |
 | 65 | [Rakkaudesta manii](https://open.spotify.com/track/1TQS9xivhWJWk00HgEF3Wu) | [Mouhous](https://open.spotify.com/artist/4uXWoMQ5N4kmQdBW3nFW4i) | [LADABOIS](https://open.spotify.com/album/2Wh7Z50InqrASkMS0tBYae) | 3:17 |
 | 66 | [Tuulta purjeisiin](https://open.spotify.com/track/6TlpSqesu3cFLa4tJcgRkC) | [Senya](https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO) | [Tuulta purjeisiin](https://open.spotify.com/album/0RT64kLPZWjRD2XFPw3gpI) | 3:18 |

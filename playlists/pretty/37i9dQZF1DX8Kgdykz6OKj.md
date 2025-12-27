@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Kgdykz6OKj.md) - [plain]
 
 > Laid back cratedigger hip\-hop from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,545,712 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,545,857 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Kgdykz6OKj.md) - [plain]
 | 77 | [UNDEFEATED](https://open.spotify.com/track/5fwKEMTyS0FqLk7KVdGQwl) | [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy), [Marquis Hill](https://open.spotify.com/artist/5QI54xb4Ovm8DwDkmmHbez), [JSWISS](https://open.spotify.com/artist/4Gvi0aCKhLNHWzHnhvV1e4) | [LIVE\-ACTION](https://open.spotify.com/album/6KpA380vLBVA6d6lYebIk3) | 3:22 |
 | 78 | [One of Those Feelings](https://open.spotify.com/track/2H3E4e3q2Qdhz5cMCMh1xU) | [Classik](https://open.spotify.com/artist/0yxqzeTXKE8mrIG2PCxyf6), [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [One of Those Feelings](https://open.spotify.com/album/0XY4UL9J8m3twHBUCK3vit) | 2:36 |
 | 79 | [Violets \(feat\. Phonte\)](https://open.spotify.com/track/185ciwUe4FUDPG7VHFNzcv) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Phonte](https://open.spotify.com/artist/5SyCTZ8X8YQCI0J1VRp4iC) | [Everything's Beautiful](https://open.spotify.com/album/0DI27qIRQRFkXrMvHxj9yh) | 3:23 |
-| 80 | [PrimeMagic.](https://open.spotify.com/track/33K5MfsvaF4X01YyhzreKb) | [Thelonious](https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [FromTheMud.](https://open.spotify.com/album/51yAjAHupbv08hFJm4VgpY) | 3:27 |
-| 81 | [Blue In Green](https://open.spotify.com/track/3oNn2Qg40BPekTa4zxpSp2) | [Anti Lilly & Phoniks](https://open.spotify.com/artist/71MaDLIywcEKpXNGCnUlBe) | [Stories From The Brass Section](https://open.spotify.com/album/0rmatVtakgyBlagEsfR8mi) | 3:20 |
+| 80 | [Blue In Green](https://open.spotify.com/track/3oNn2Qg40BPekTa4zxpSp2) | [Anti Lilly & Phoniks](https://open.spotify.com/artist/71MaDLIywcEKpXNGCnUlBe) | [Stories From The Brass Section](https://open.spotify.com/album/0rmatVtakgyBlagEsfR8mi) | 3:20 |
+| 81 | [PrimeMagic.](https://open.spotify.com/track/33K5MfsvaF4X01YyhzreKb) | [Thelonious](https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [FromTheMud.](https://open.spotify.com/album/51yAjAHupbv08hFJm4VgpY) | 3:27 |
 | 82 | [Syrup Sandwiches \(feat\. Joey Bada$$\)](https://open.spotify.com/track/2BYffiV0F3ZGKVLuQjmjY2) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Syrup Sandwiches \(feat\. Joey Bada$$\)](https://open.spotify.com/album/1w9YQWImmASvP0wGitaF4i) | 2:53 |
 | 83 | [GREEN LIGHT](https://open.spotify.com/track/752bn2V69weT2NKka3Fz5F) | [Moses Yoofee Trio](https://open.spotify.com/artist/4Jmjucr9inAKcxy64DYNxS), [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [GREEN LIGHT](https://open.spotify.com/album/1PnqI7bnPRuPrck0otRTWA) | 2:55 |
 | 84 | [Raw \(feat\. Lil Wayne & Niko Brim\)](https://open.spotify.com/track/70MJj7zBmquKRFSUXJ5y8b) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Niko Brim](https://open.spotify.com/artist/1leUdTmVH8GDaAQIqhvq7r) | [Please Don't Cry](https://open.spotify.com/album/2r3oxZgkGG3wDHGRGt7ytr) | 2:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Kgdykz6OKj.md) - [plain]
 | 99 | [The Edge](https://open.spotify.com/track/2butVcEEHRKf3GMgFsxJ1W) | [Droogie Otis](https://open.spotify.com/artist/77yuxx0zDXOjRffgQ1ooXm), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf), [Your Old Droog](https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [The Edge](https://open.spotify.com/album/1cvwyrdzBEc042JfJPwSle) | 3:25 |
 | 100 | [We Do It \(Jazz Spastiks Remix\)](https://open.spotify.com/track/4K34pgg236OrVDAS6ArcMi) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa), [Jazz Spastiks](https://open.spotify.com/artist/49vIrnZPb9Tcc9N30t7E3S) | [We Do It Remixes](https://open.spotify.com/album/6or5tg1DVR62aGGAZ5Gvah) | 3:07 |
 
-Snapshot ID: `AAAAANmrlBQu8tHHYGJ/pKVhw0uWL12t`
+Snapshot ID: `AAAAACMaD6Uy+uBi5bFqZcN3hcv68e9W`
