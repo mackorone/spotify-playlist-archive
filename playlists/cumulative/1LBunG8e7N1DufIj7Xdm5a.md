@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-3,777 songs - 8 day 8 hr 29 min
+3,779 songs - 8 day 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1820,6 +1820,7 @@
 | [Lean On](https://open.spotify.com/track/47hBqp71hZubmZljrBKKSD) | [The Samu](https://open.spotify.com/artist/1hyzQSk08cK1aPlEKx5dOP) | [Lean On](https://open.spotify.com/album/6ARYAoMMorsULPHDm4NuTT) | 2:15 | 2025-12-18 |  |
 | [Leather Hearts](https://open.spotify.com/track/7BVdukkJIUOimmax7hxYN8) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Pop Heavy Metal](https://open.spotify.com/album/3qU2fVHByONqza3flWiPev) | 2:55 | 2025-09-19 |  |
 | [Leather Hearts \(another\)](https://open.spotify.com/track/5hH5R8oXjfz9g8erbiF0dc) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Pop Heavy Metal](https://open.spotify.com/album/3qU2fVHByONqza3flWiPev) | 2:50 | 2025-09-19 |  |
+| [Leaving For The Summer](https://open.spotify.com/track/2si1Z5vk1qKPBOddYakSYX) | [White Star Line](https://open.spotify.com/artist/3qDMmbHoQIpMvNuOzyazsh) | [Leaving For The Summer](https://open.spotify.com/album/1OL4HB5Fkd0U78TehJXbZA) | 3:52 | 2025-12-27 |  |
 | [left to right](https://open.spotify.com/track/4XlNNRHfvBRj5YEz04NGUQ) | [rommulas](https://open.spotify.com/artist/4QsDoxai6urbmrML19OYa3), [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [left to right](https://open.spotify.com/album/0e2H2HkcvsWYmKfrX8iSyJ) | 2:34 | 2025-07-28 |  |
 | [Lejos de aquí](https://open.spotify.com/track/5Ys3niIfv2ofhuCOE0XfKB) | [Gélido](https://open.spotify.com/artist/5GxwtngGgv22cC2tl1ldBR) | [Buscando Salidas](https://open.spotify.com/album/3pkT6ZAnN5DCO9Q8vlA9e4) | 2:54 | 2025-07-25 |  |
 | [Leningrado](https://open.spotify.com/track/0NVmgOHKOC00HAAHvchH2A) | [CIGNO](https://open.spotify.com/artist/70Fvv8XwCCBE4PM0JaTsKI) | [Buonanotte Berlinguer](https://open.spotify.com/album/1tx16k5nRquLGYFqydm6Jb) | 4:09 | 2025-11-12 |  |
@@ -2164,6 +2165,7 @@
 | [Mystic Nights \(another\)](https://open.spotify.com/track/2pknSqyoaXY2f4vDfIIT3w) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Mystic Mistic Pop Music](https://open.spotify.com/album/13eNKYe77sZpdlvrkepF5P) | 2:39 | 2025-09-18 |  |
 | [Mystic Tides](https://open.spotify.com/track/4GvyNCIzXlrT7SU5A1Yfnf) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Contemporary New Wave](https://open.spotify.com/album/032BuKEVgSbHk3EPcbSZQc) | 3:23 | 2025-07-16 |  |
 | [Mystic Tides \(another\)](https://open.spotify.com/track/10hGgsOhWgpNycFjIWdAmW) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Contemporary New Wave](https://open.spotify.com/album/032BuKEVgSbHk3EPcbSZQc) | 3:41 | 2025-09-19 |  |
+| [März im Zwielicht](https://open.spotify.com/track/2s3IZwssHIhUUeY7BIfI42) | [Sven Hurny](https://open.spotify.com/artist/5QAKq2gao5X42m8VifJEcA) | [Das Jahr in Monaten](https://open.spotify.com/album/1ETUZ16CI21cc6dR4soEcS) | 3:18 | 2025-12-27 |  |
 | [N'at ammore dint 'e pensier](https://open.spotify.com/track/1SO2P1ZTr5rD34fYFwjDpK) | [SAL](https://open.spotify.com/artist/5ZyXPigN7RUixWEPeXAFFh) | [N'at ammore dint 'e pensier](https://open.spotify.com/album/0KX0POuztCrrgTffaYXguj) | 3:19 | 2025-08-10 |  |
 | [N.G.D \(Never Going Down\)](https://open.spotify.com/track/4BZPA8daCeNH8BvRqHYAgA) | [Bootstrap](https://open.spotify.com/artist/7Ls2DZp2MNL0rycLaYR8od) | [Five Fingers of Life](https://open.spotify.com/album/65hCHILBnhTEKCK4RPZt6B) | 3:05 | 2025-07-02 |  |
 | [N3PTUNE](https://open.spotify.com/track/2JEWefcPFvMlpuA32C2mr2) | [reul gg](https://open.spotify.com/artist/3nYdys8G6JBrefwLjv6WL3) | [N3PTUNE](https://open.spotify.com/album/4plJoa7mkCGVqZrxJF9pm3) | 2:25 | 2025-11-24 |  |

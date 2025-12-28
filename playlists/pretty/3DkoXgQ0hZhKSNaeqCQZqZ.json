@@ -1,13 +1,29 @@
 {
   "description": "FurryRadio.com, made for furs, by furs. ",
-  "num_followers": 879,
+  "num_followers": 881,
   "original_name": "Furry Radio",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAEoOSzv8sNL/yZD+h08xCr//mvSHU3",
+  "snapshot_id": "AAAEo4UETuNCPvTRA9Yz9bsXMLxU4Q7a",
   "tracks": [
+    {
+      "added_at": "2025-12-27 13:26:49",
+      "album": {
+        "name": "i'm now alone with our memories.",
+        "url": "https://open.spotify.com/album/4MSJ4mwSZN9ArxNNbnt6ar"
+      },
+      "artists": [
+        {
+          "name": "Loprov",
+          "url": "https://open.spotify.com/artist/3Zv31lkrOJ7HPBWmXOjiwJ"
+        }
+      ],
+      "duration_ms": 227722,
+      "name": "i'm now alone with our memories.",
+      "url": "https://open.spotify.com/track/4LjHjdgEV3e9VNMLUStVLe"
+    },
     {
       "added_at": "2025-12-25 02:00:33",
       "album": {
@@ -27,34 +43,6 @@
       "duration_ms": 140076,
       "name": "RUDOLPH REINDEER BOY",
       "url": "https://open.spotify.com/track/77UiDteFZF5JDw5ZdSMiMZ"
-    },
-    {
-      "added_at": "2025-12-25 02:29:50",
-      "album": {
-        "name": "No Matter What (2025)",
-        "url": "https://open.spotify.com/album/5kuokGFStYashK9T9eFzAZ"
-      },
-      "artists": [
-        {
-          "name": "Vylet Pony",
-          "url": "https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j"
-        },
-        {
-          "name": "Feather",
-          "url": "https://open.spotify.com/artist/4oBxAkNjmwRxBLNV3pU7OD"
-        },
-        {
-          "name": "Namii",
-          "url": "https://open.spotify.com/artist/1tC9tzzTRbx0gDMaNmxUZ6"
-        },
-        {
-          "name": "NekoSnicker",
-          "url": "https://open.spotify.com/artist/0u5lrFG404zDUFTmcBmijo"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "No Matter What - 2025",
-      "url": "https://open.spotify.com/track/2nttEafE6enCe92fHAzB4l"
     },
     {
       "added_at": "2025-12-20 03:14:36",
@@ -131,6 +119,34 @@
       "duration_ms": 168857,
       "name": "Take Me 2 Your Home",
       "url": "https://open.spotify.com/track/2QaSEVvEucEfOBIFqKGjFZ"
+    },
+    {
+      "added_at": "2025-12-25 02:29:50",
+      "album": {
+        "name": "No Matter What (2025)",
+        "url": "https://open.spotify.com/album/5kuokGFStYashK9T9eFzAZ"
+      },
+      "artists": [
+        {
+          "name": "Vylet Pony",
+          "url": "https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j"
+        },
+        {
+          "name": "Feather",
+          "url": "https://open.spotify.com/artist/4oBxAkNjmwRxBLNV3pU7OD"
+        },
+        {
+          "name": "Namii",
+          "url": "https://open.spotify.com/artist/1tC9tzzTRbx0gDMaNmxUZ6"
+        },
+        {
+          "name": "NekoSnicker",
+          "url": "https://open.spotify.com/artist/0u5lrFG404zDUFTmcBmijo"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "No Matter What - 2025",
+      "url": "https://open.spotify.com/track/2nttEafE6enCe92fHAzB4l"
     },
     {
       "added_at": "2025-12-20 03:14:29",

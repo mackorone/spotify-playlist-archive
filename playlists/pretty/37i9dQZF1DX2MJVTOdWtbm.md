@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MJVTOdWtbm.md) - [plain]
 
 > The home of Latin R&B ❤️ La casa del R&B Latino\. Cover: Rubí & BASSYY
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,283 likes - 155 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,285 likes - 155 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

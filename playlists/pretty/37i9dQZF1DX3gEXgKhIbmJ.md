@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain]
 
 > pra entrar e ficar na onda
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,963 likes - 60 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,972 likes - 60 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gEXgKhIbmJ.md) - [plain]
 | 59 | [Pra esquecer do ex](https://open.spotify.com/track/132kNUWgXBpFJwTF36Y61v) | [MC Gustavinho](https://open.spotify.com/artist/77yd8ef29EG05232JEQzXu) | [Pra esquecer do ex](https://open.spotify.com/album/6iXMlZatM63GA6ZxajFDMY) | 2:22 |
 | 60 | [Tudo Que é Natural é Melhor](https://open.spotify.com/track/6ryw9MM4cxLzJ9Qw0FfMFj) | [Venâncio](https://open.spotify.com/artist/69u9p0rza0uTSbC1jxeL4S) | [Tudo Que é Natural é Melhor](https://open.spotify.com/album/3ZffERyVRBEnioc7Rd0fSD) | 2:42 |
 
-Snapshot ID: `AAAAAMlGALJLq1Gva/RO+R+nRK47ZgQt`
+Snapshot ID: `AAAAALJ+O/Tvns0OObc8XB6mPi9cmvvV`

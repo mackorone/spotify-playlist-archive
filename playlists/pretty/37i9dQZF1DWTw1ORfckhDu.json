@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\udcaf Suomi. ",
-  "num_followers": 91273,
+  "num_followers": 91268,
   "original_name": "100 Suomi",
   "owner": {
     "name": "Spotify",
@@ -395,6 +395,22 @@
     {
       "added_at": "2025-12-18 22:00:31",
       "album": {
+        "name": "Teht\u00e4v\u00e4 t\u00e4\u00e4",
+        "url": "https://open.spotify.com/album/3vqp9wreCwyvswPt92cprd"
+      },
+      "artists": [
+        {
+          "name": "Jore & Zpoppa",
+          "url": "https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7"
+        }
+      ],
+      "duration_ms": 193437,
+      "name": "Teht\u00e4v\u00e4 t\u00e4\u00e4",
+      "url": "https://open.spotify.com/track/2vaFrvauevJtiY6HXk84YH"
+    },
+    {
+      "added_at": "2025-12-18 22:00:31",
+      "album": {
         "name": "Unitas Sigma",
         "url": "https://open.spotify.com/album/6E3Xyb8bfE4mwDM3tSi2Bt"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 184978,
       "name": "Leveell\u00e4 - Unitas Sigma",
       "url": "https://open.spotify.com/track/0Cn51frjxeujljaDNmUDjC"
-    },
-    {
-      "added_at": "2025-12-18 22:00:31",
-      "album": {
-        "name": "Teht\u00e4v\u00e4 t\u00e4\u00e4",
-        "url": "https://open.spotify.com/album/3vqp9wreCwyvswPt92cprd"
-      },
-      "artists": [
-        {
-          "name": "Jore & Zpoppa",
-          "url": "https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7"
-        }
-      ],
-      "duration_ms": 193437,
-      "name": "Teht\u00e4v\u00e4 t\u00e4\u00e4",
-      "url": "https://open.spotify.com/track/2vaFrvauevJtiY6HXk84YH"
     },
     {
       "added_at": "2025-12-18 22:00:31",
@@ -679,22 +679,6 @@
     {
       "added_at": "2025-12-18 22:00:31",
       "album": {
-        "name": "Made it",
-        "url": "https://open.spotify.com/album/7ofaH0AtjS8BYYfyoHMuzY"
-      },
-      "artists": [
-        {
-          "name": "KERZA",
-          "url": "https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr"
-        }
-      ],
-      "duration_ms": 151345,
-      "name": "Made it",
-      "url": "https://open.spotify.com/track/3x0Z2IBTRMOHEuEQYIHnhW"
-    },
-    {
-      "added_at": "2025-12-18 22:00:31",
-      "album": {
         "name": "Hauki",
         "url": "https://open.spotify.com/album/6SCLpy8SJ8czojoUcSi9SJ"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 174186,
       "name": "Hauki",
       "url": "https://open.spotify.com/track/2dai7toOP0V2JJ8nvH0IYQ"
+    },
+    {
+      "added_at": "2025-12-18 22:00:31",
+      "album": {
+        "name": "Made it",
+        "url": "https://open.spotify.com/album/7ofaH0AtjS8BYYfyoHMuzY"
+      },
+      "artists": [
+        {
+          "name": "KERZA",
+          "url": "https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr"
+        }
+      ],
+      "duration_ms": 151345,
+      "name": "Made it",
+      "url": "https://open.spotify.com/track/3x0Z2IBTRMOHEuEQYIHnhW"
     },
     {
       "added_at": "2025-12-18 22:00:31",
@@ -759,22 +759,6 @@
     {
       "added_at": "2025-12-18 22:00:31",
       "album": {
-        "name": "Lumikki",
-        "url": "https://open.spotify.com/album/1wPGUGOwwsd0jPqijrJkhE"
-      },
-      "artists": [
-        {
-          "name": "Fabe",
-          "url": "https://open.spotify.com/artist/6xr6YWVsGo5k0sqwjgRPhS"
-        }
-      ],
-      "duration_ms": 193084,
-      "name": "Lumikki",
-      "url": "https://open.spotify.com/track/4chiuEnr73PDWVKykVejqx"
-    },
-    {
-      "added_at": "2025-12-18 22:00:31",
-      "album": {
         "name": "Kukkahattuset\u00e4 Freestyle",
         "url": "https://open.spotify.com/album/1J6K7QIZ4mc8CZgJEtu35k"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 116413,
       "name": "Kukkahattuset\u00e4 Freestyle",
       "url": "https://open.spotify.com/track/7Dc0Mf1GxczoZQJGUYWkpj"
+    },
+    {
+      "added_at": "2025-12-18 22:00:31",
+      "album": {
+        "name": "Lumikki",
+        "url": "https://open.spotify.com/album/1wPGUGOwwsd0jPqijrJkhE"
+      },
+      "artists": [
+        {
+          "name": "Fabe",
+          "url": "https://open.spotify.com/artist/6xr6YWVsGo5k0sqwjgRPhS"
+        }
+      ],
+      "duration_ms": 193084,
+      "name": "Lumikki",
+      "url": "https://open.spotify.com/track/4chiuEnr73PDWVKykVejqx"
     },
     {
       "added_at": "2025-12-18 22:00:31",

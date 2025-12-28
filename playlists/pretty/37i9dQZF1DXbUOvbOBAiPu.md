@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Pegassi, Ninho, AFROJACK and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,327 likes - 61 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,329 likes - 61 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 60 | [De Beste Wensen](https://open.spotify.com/track/0gIkBBoBS3TkQEFf0l0GLL) | [De Kraaien](https://open.spotify.com/artist/2TZJIIHDLfgdMLFejURyKf) | [De Beste Wensen](https://open.spotify.com/album/4S4Y4l6ee83yZYQSPaXA5l) | 2:34 |
 | 61 | [Peace](https://open.spotify.com/track/0j6H85bkmXIiZOY2C1LNov) | [Javé](https://open.spotify.com/artist/0l0L4jCaPSwe99OwHtzQeT) | [Peace](https://open.spotify.com/album/5DDVb5mMWgg8CQM2JbXSWG) | 1:38 |
 
-Snapshot ID: `AAAAAGEqnmzCd6BK+HlUTt5AANZXu2jJ`
+Snapshot ID: `AAAAABGrKICR2U7SIKIFqBdKD30kFu0A`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,068 likes - 319 songs - 18 hr 15 min
+[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,069 likes - 328 songs - 18 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -327,5 +327,14 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 | 317 | [Headrush](https://open.spotify.com/track/0YfyjWkn6cAvWXokmeu77R) | [Lunar Chain](https://open.spotify.com/artist/6esnKS6lev7QYCZAL0y8bW) | [Headrush](https://open.spotify.com/album/1xawMxWDShlnHZgENk0Y5W) | 3:25 |
 | 318 | [Creatures](https://open.spotify.com/track/2BME4lMVt3qe5hQjmDjlMT) | [Eternalize](https://open.spotify.com/artist/0gxYWBKorYdHOkDcnMLDsf) | [The way home](https://open.spotify.com/album/4xO88KLM8NjEHYpQhXbJgV) | 2:48 |
 | 319 | [kleinmut](https://open.spotify.com/track/2FILjSIzG7cAzom43equdp) | [bildervondrausen](https://open.spotify.com/artist/15LeNv7wDnxgZh1YeMRcap) | [kleinmut](https://open.spotify.com/album/4iRkAfSiVTpEVn429FCWkl) | 2:35 |
+| 320 | [Paper Trails](https://open.spotify.com/track/1lk7GZY3qP2LCRslE9pXki) | [King Dead](https://open.spotify.com/artist/4V4u70VKUuR6WNRQgfUjc4) | [King Dead](https://open.spotify.com/album/1s7Kbr7RRnXbMaWImSYC1L) | 9:12 |
+| 321 | [The Line That Separates](https://open.spotify.com/track/0Mf7Y9cVAhr3jsVcUXeyz3) | [Mayfly](https://open.spotify.com/artist/54lgshCA4yb6pMhonEh7kI) | [The Line That Separates](https://open.spotify.com/album/3JIsg51hdyIYOFpd60c0F8) | 3:38 |
+| 322 | [MY SONG](https://open.spotify.com/track/0sE1TOUHEfOuMBdyZxLlhk) | [Lonewolves in Paradise](https://open.spotify.com/artist/4yjZvSYHEv1Esyl8Fwpe3O) | [MY SONG](https://open.spotify.com/album/50yKv8FDcE0UzMYXCohf8C) | 2:44 |
+| 323 | [misfit](https://open.spotify.com/track/3cZGoKYmu86ATSBA2uBNYr) | [PUNKFICTION](https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC) | [misfit](https://open.spotify.com/album/05LVSFM0UJf9sGSfD81cOo) | 4:01 |
+| 324 | [Making Maps](https://open.spotify.com/track/6kMyrrk6s5g4W4Lu5vsfwd) | [Bones In The Museum](https://open.spotify.com/artist/1JszlHY0LGPoLA4CrPsBwT) | [This Salvaged Wreck](https://open.spotify.com/album/2VLrBg00yJtP07zYdZJJkb) | 3:54 |
+| 325 | [Ain't Shit The Bowl](https://open.spotify.com/track/5k26r5zjRdNXShojJVtKDH) | [Barakade](https://open.spotify.com/artist/3rYQvAdbe089i3VD3IRJva) | [Ain't Shit The Bowl](https://open.spotify.com/album/2mr6g0CLGwTh24HTJR2KNA) | 3:09 |
+| 326 | [Take A Chance](https://open.spotify.com/track/4xrJe5mSSpzPEDyjaEALI9) | [Ruminator](https://open.spotify.com/artist/7rCv2ogPDCtilVgdVLWtZQ) | [Take A Chance](https://open.spotify.com/album/0jbeFSZQp03h7FrIc5yEyu) | 4:34 |
+| 327 | [The End of the World or Whatever](https://open.spotify.com/track/7bEuh53WskcUxLGmjil4nQ) | [Nell Davies](https://open.spotify.com/artist/3T37olDofWUEnGxDPrTVgL) | [The End of the World or Whatever](https://open.spotify.com/album/2KnWPPJRwhUocc1yLm5Loa) | 3:12 |
+| 328 | [Just A Normal Kid](https://open.spotify.com/track/2dTl4AJExRokk6n9Ne5gNx) | [The Borough](https://open.spotify.com/artist/4FyzVfbimb2frgwzpe3mJg) | [Contradictions](https://open.spotify.com/album/1HLDzOH302g8hagglm769G) | 4:10 |
 
-Snapshot ID: `AAAI7GiDqf31F7jpFZ7KILFJfw99T8Az`
+Snapshot ID: `AAAI9SAFAdIfv81FR01jpn5evQ2JhBfv`

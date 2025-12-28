@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxnGhnykt9Y.md) - [plain]
 
 > Some of the most influential and innovative voices in afrobeats, afropop, amapiano, hiplife and everything in between, from earliest acts to newest stars\. <br/><br/>Cover: Elestee
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,244 likes - 70 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,298 likes - 70 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxnGhnykt9Y.md) - [plain]
 | 69 | [Borrow Me Your Baby \(feat\. Falz\)](https://open.spotify.com/track/01AkBgeMy8BSiJuzDl0WXc) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Borrow Me Your Baby \(feat\. Falz\)](https://open.spotify.com/album/56Kv6uvuBbZ2ZqjaZ9vKqs) | 3:08 |
 | 70 | [FALL APART 2](https://open.spotify.com/track/2RFSaBBaN58ihDRhcNQhFg) | [Agyeiwaa](https://open.spotify.com/artist/1nhNtNcWTi7423IyTTsP43), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [FALL APART 2](https://open.spotify.com/album/7nm1QhDGP0v6hN4WDKUqWb) | 2:40 |
 
-Snapshot ID: `AAAAADgScLKufMYA+2iE05D989iWcGI5`
+Snapshot ID: `AAAAAM7W8BR3ICsH/WHACfz1jS2whvUo`

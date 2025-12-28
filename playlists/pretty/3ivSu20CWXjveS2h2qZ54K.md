@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,834 likes - 64 songs - 3 hr 21 min
+[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,835 likes - 64 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 | 6 | [El joc](https://open.spotify.com/track/1JFheN4kDuXO7DUboedCcC) | [Carlota Flâneur](https://open.spotify.com/artist/3NDKht1aMpga0RvwAqDeTC) | [El joc](https://open.spotify.com/album/75woerxtAixiR9xOb5pc2v) | 2:03 |
 | 7 | [What You Saying](https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [What You Saying](https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly) | 2:11 |
 | 8 | [Bomba de Amor](https://open.spotify.com/track/1tFgsDw0k3v2VesvQ6T8ry) | [Luna Ki](https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M) | [Bomba de Amor](https://open.spotify.com/album/4LgnyhHmtkYYzLPpo4GOHv) | 2:53 |
-| 9 | [T AMARÉ](https://open.spotify.com/track/0jCOIJVQTBXjdIBb4yEWx0) | [Tony Grox](https://open.spotify.com/artist/2JtSnG15nk4gxjlFG7aocD), [LUCYCALYS](https://open.spotify.com/artist/3DRfvyZVFYa87h4DXgSVOI) | [T AMARÉ](https://open.spotify.com/album/4ZNK0QbFW7fzPR6Rrr44Hg) | 2:37 |
-| 10 | [Despierto Amándote](https://open.spotify.com/track/3EmUUbEUQgOtN7WQOqsi0U) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [bailamamá](https://open.spotify.com/artist/4vrGyeLeQK5I32mjmuySjR) | [Despierto Amándote](https://open.spotify.com/album/41jli50FssBAc132ATlp6e) | 2:57 |
+| 9 | [Despierto Amándote](https://open.spotify.com/track/3EmUUbEUQgOtN7WQOqsi0U) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [bailamamá](https://open.spotify.com/artist/4vrGyeLeQK5I32mjmuySjR) | [Despierto Amándote](https://open.spotify.com/album/41jli50FssBAc132ATlp6e) | 2:57 |
+| 10 | [T AMARÉ](https://open.spotify.com/track/0jCOIJVQTBXjdIBb4yEWx0) | [Tony Grox](https://open.spotify.com/artist/2JtSnG15nk4gxjlFG7aocD), [LUCYCALYS](https://open.spotify.com/artist/3DRfvyZVFYa87h4DXgSVOI) | [T AMARÉ](https://open.spotify.com/album/4ZNK0QbFW7fzPR6Rrr44Hg) | 2:37 |
 | 11 | [Tócame](https://open.spotify.com/track/56BnKpnbotMJC3A2ALNUVZ) | [MAYO](https://open.spotify.com/artist/0HgzUc7N5MqMv2ZwQFv9H0) | [Tócame](https://open.spotify.com/album/7xm9bD4cgG5ruFgGc2dOcI) | 2:17 |
 | 12 | [Rákata](https://open.spotify.com/track/2zzgT2jCp1j447vLyFFVk0) | [DORA](https://open.spotify.com/artist/5RHjYsmfT5IskZMoU6UuCj), [Marlon Collins](https://open.spotify.com/artist/5ek3qzAl6qGKWK7IuMmZRY) | [Rákata](https://open.spotify.com/album/2ya3UfTSTJLpv1FLmrtR6V) | 2:46 |
 | 13 | [Mataora](https://open.spotify.com/track/1IZyTiDa9v7yT0uR6776wL) | [Rosalinda Galán](https://open.spotify.com/artist/3FusAoozQGNW9vNSUsfgkW) | [Mataora](https://open.spotify.com/album/3BFsijZXuUg2lWUSWNlVHR) | 2:51 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 | 63 | [Have Yourself a Merry Little Christmas \- Live from the Eiffel Tower](https://open.spotify.com/track/5INuBRk04g4JGQnD0FmwGc) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Christmas in Paris \(Live from the Eiffel Tower\)](https://open.spotify.com/album/4MkHLdNim3qfPE4LZl9ZNt) | 4:02 |
 | 64 | [Maldita Relación](https://open.spotify.com/track/3Dn1oOjgCYxY7MM0SFp4FU) | [María Cruz](https://open.spotify.com/artist/54dqLtWP8kpmvJHGcsIZ2P) | [Maldita Relación](https://open.spotify.com/album/4NBZYxoGLCKUQ8VtEYXGu7) | 2:28 |
 
-Snapshot ID: `AADNY6Gp68+PpIHvlpl1uDqd1rq6VzA5`
+Snapshot ID: `AADNZMZTBu8USaOepGBjgnEjvUj1CeDZ`

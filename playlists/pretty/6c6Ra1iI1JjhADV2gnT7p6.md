@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 
 > A weekly rotation of indie, dreampop and lofi vibes\. Updated every week, save your favorites 💜
 
-[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 59,576 likes - 578 songs - 1 day 8 hr 9 min
+[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 59,577 likes - 575 songs - 1 day 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,8 +106,8 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 96 | [lights](https://open.spotify.com/track/0gEMbVTxqsIlnv5GFI60xm) | [Silk Daisys](https://open.spotify.com/artist/7JtGqDcdBvEWhGl38O8Foq) | [Silk Daisys](https://open.spotify.com/album/50CYP66pGNQ9hdHsCzWqmW) | 4:33 |
 | 97 | [Fire Sign](https://open.spotify.com/track/4jVcAoaUgre6U4Gf0KX4Uw) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [Pink Hell \(Deluxe\)](https://open.spotify.com/album/6Qt5oL1K6Rbegs1Cy8Wmu5) | 3:05 |
 | 98 | [Sunlight](https://open.spotify.com/track/4wOpQBSTtbh9S86nxp0EJ1) | [thom.ko](https://open.spotify.com/artist/3dWWHuyPD2YOd7B8geKidf) | [Sunlight](https://open.spotify.com/album/10muVHmIIrUPTZOLt5794A) | 3:02 |
-| 99 | [100 Bill Is Gone!](https://open.spotify.com/track/72PCN5QJ9Si2u4jHX2UzSy) | [Twisted Teens](https://open.spotify.com/artist/40Hgbyjt4LQmrZYecbXebv) | [100 Bill Is Gone!](https://open.spotify.com/album/7gSWvQV7oId1opJQV6SZDP) | 2:57 |
-| 100 | [Dishes & Cutlery](https://open.spotify.com/track/4Zpv4n49bzFkFn57sXOc3d) | [The Jürgen Clubs](https://open.spotify.com/artist/4z6eTd5guJ1e0TVsroD86p) | [Dishes & Cutlery](https://open.spotify.com/album/1e2v6Qdd3TIFByhHuJqVSW) | 3:02 |
+| 99 | [Dishes & Cutlery](https://open.spotify.com/track/4Zpv4n49bzFkFn57sXOc3d) | [The Jürgen Clubs](https://open.spotify.com/artist/4z6eTd5guJ1e0TVsroD86p) | [Dishes & Cutlery](https://open.spotify.com/album/1e2v6Qdd3TIFByhHuJqVSW) | 3:02 |
+| 100 | [100 Bill Is Gone!](https://open.spotify.com/track/72PCN5QJ9Si2u4jHX2UzSy) | [Twisted Teens](https://open.spotify.com/artist/40Hgbyjt4LQmrZYecbXebv) | [100 Bill Is Gone!](https://open.spotify.com/album/7gSWvQV7oId1opJQV6SZDP) | 2:57 |
 | 101 | [Times Square](https://open.spotify.com/track/5zbEnN7Sa8sDEMOnw0bzNL) | [Jam City](https://open.spotify.com/artist/4jEa9eTpzzkuDQ9JMr0LT3), [Aidan](https://open.spotify.com/artist/6C8vPirDpnA5E9PUfn4RaW) | [Times Square](https://open.spotify.com/album/5ywWCLnGr0MeC2LRBfVkKI) | 4:26 |
 | 102 | [Sunlight](https://open.spotify.com/track/3vkeJ4laL2wRwpPxqRDFGY) | [Dazies](https://open.spotify.com/artist/4tYPUzp1NwvFRXWdAxV1wp), [Fake Dad](https://open.spotify.com/artist/1PdmgC2URr5bdLpcS5YBdk) | [Sunlight](https://open.spotify.com/album/1t6dFavVs8PadyMcRYdWQa) | 4:34 |
 | 103 | [Anymore](https://open.spotify.com/track/7bQxkiui4wNdEkgdhfQIBP) | [pinkpirate](https://open.spotify.com/artist/2C4qc4gKpneYW9QhGSeyCZ) | [Anymore](https://open.spotify.com/album/4uzgxB4nBMFtpC8DtfqIgy) | 2:42 |
@@ -117,8 +117,8 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 107 | [Clouds](https://open.spotify.com/track/5GVRzOm8iXXmKN4F5x8V07) | [A Country Western](https://open.spotify.com/artist/0JyEWuZBMpLOezjt2DDt8M) | [Four\-Team Dream Machine](https://open.spotify.com/album/4t625gTxm0WVfbX6D06HDj) | 1:35 |
 | 108 | [Pomegranate](https://open.spotify.com/track/5SYrjVSssp29dV1z14RbLP) | [Olan Monk](https://open.spotify.com/artist/3BBWf8gJdcOI5EwrptKGSM) | [Pomegranate](https://open.spotify.com/album/4Gp0JfvcTRFIM5Y5XYfEIZ) | 4:35 |
 | 109 | [Brucey](https://open.spotify.com/track/2Mux2lJEj7qUIRZeoSqrfu) | [Twist](https://open.spotify.com/artist/6VON8c6IJbbobQCxXOOOXL) | [Brucey](https://open.spotify.com/album/7jF8LcQHUHblJuQbbKL3x8) | 3:46 |
-| 110 | [1](https://open.spotify.com/track/7Go7v5ORG2LyImhgD4Pz5W) | [Zac Farro](https://open.spotify.com/artist/6QAqHBPOy9Cugos5xLqGT3) | [1](https://open.spotify.com/album/1j63TAAhLc3azuz9l5Z8jT) | 3:00 |
-| 111 | [On a Roll](https://open.spotify.com/track/56lgBecl6aQF6KRoEzSIhL) | [Whitmer Thomas](https://open.spotify.com/artist/6conzu32k403L1Zr3xWTr1) | [On a Roll](https://open.spotify.com/album/2A2wfynK8dUjXPzT1PzAn8) | 3:03 |
+| 110 | [On a Roll](https://open.spotify.com/track/56lgBecl6aQF6KRoEzSIhL) | [Whitmer Thomas](https://open.spotify.com/artist/6conzu32k403L1Zr3xWTr1) | [On a Roll](https://open.spotify.com/album/2A2wfynK8dUjXPzT1PzAn8) | 3:03 |
+| 111 | [1](https://open.spotify.com/track/7Go7v5ORG2LyImhgD4Pz5W) | [Zac Farro](https://open.spotify.com/artist/6QAqHBPOy9Cugos5xLqGT3) | [1](https://open.spotify.com/album/1j63TAAhLc3azuz9l5Z8jT) | 3:00 |
 | 112 | [adeline](https://open.spotify.com/track/0NONTiwJbKmHYhepiQhiJS) | [Layzi](https://open.spotify.com/artist/1Osd22FCebAqWNl7q2sazx), [Coolhand Jax](https://open.spotify.com/artist/3mBQ1OduOz1oBNlwzGucll) | [adeline / everything i have](https://open.spotify.com/album/5ebTxHT3QkMB1hiNWAuWJB) | 4:02 |
 | 113 | [Evicted](https://open.spotify.com/track/6aAvUqHyLBfLlRAbHUjN2s) | [Vines](https://open.spotify.com/artist/46QrQRXLvHhE54yH8J1fX7) | [I'll be here](https://open.spotify.com/album/4gVLqrsSzE0N08sMJ61AZh) | 5:24 |
 | 114 | [Task](https://open.spotify.com/track/3GCSme5nqdMLyNT7C2KP3S) | [Great Grandpa](https://open.spotify.com/artist/1Hs5RG6WIwUSJLxRYWaOW6) | [Task](https://open.spotify.com/album/5LArYMTmmM7Hkvvbb9PeAt) | 4:06 |
@@ -570,21 +570,18 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 560 | [brood \(batman's ipod\)](https://open.spotify.com/track/7wPdZKFAaQGDfI04I2RQ7q) | [Option A](https://open.spotify.com/artist/6y5qO9QK8b2snYy37RuV3N) | [REDep](https://open.spotify.com/album/5OkLgEsK1H2cb1g7oYDeea) | 4:09 |
 | 561 | [561](https://open.spotify.com/track/1wVFdQBApaatPvfrhTaMxL) | [bbyblu](https://open.spotify.com/artist/6dQhPHX4pRpZmKz0Tpewhz), [Norah's World](https://open.spotify.com/artist/3uDQgMS4N1EaG111j4qLZh), [3ee](https://open.spotify.com/artist/0MOQB6FzT4cx60yzXhtj9h), [Kenji](https://open.spotify.com/artist/3sAk2ECmW1UmPMf6Q94Llu) | [561](https://open.spotify.com/album/1QWwpTh1lUAn7Kf6byyUhc) | 2:18 |
 | 562 | [Hoping/Fading](https://open.spotify.com/track/5lH5GkTMIzL5D6COWPeHLv) | [Robin Kenny](https://open.spotify.com/artist/3PN26R9mkbh4aIcGWYVP3I) | [Hoping/Fading](https://open.spotify.com/album/4jj9xExzUorTX1gYZhbEbM) | 5:21 |
-| 563 | [Forgot to Mention](https://open.spotify.com/track/2WtVnFnsHGL0bgbv6LGcHm) | [Dejima](https://open.spotify.com/artist/3cvyvssZnFHsTpwwHC9dji), [Will Rockwell](https://open.spotify.com/artist/2RR02MDhu6vlSAvRrurMwB) | [Forgot to Mention](https://open.spotify.com/album/4D5JI7nWAiXqpjMFNuqVho) | 1:42 |
-| 564 | [One More Night Alone \- Abandoned Recording](https://open.spotify.com/track/4li3ZUNgvDr9vq8MKc9HfD) | [Cayo Coco](https://open.spotify.com/artist/3MB3k9TH723vnvvLQXxeN3) | [These Deep Dark Woods \(Abandoned Recordings\)](https://open.spotify.com/album/19MzaboBsM370uUFKztJbT) | 3:37 |
-| 565 | [Diagonal](https://open.spotify.com/track/5bBS4EImzGF7fNuCP3AdbQ) | [Carelessly](https://open.spotify.com/artist/3laL9LL6X7GkWJDrmUxI7Z) | [Autumn](https://open.spotify.com/album/65T43RTU3RnBge03NDKw8E) | 4:19 |
-| 566 | [Best Problem](https://open.spotify.com/track/2mNddX0XACbVfhJmjnsOEm) | [V.V\. Lightbody](https://open.spotify.com/artist/0g7sn95ZJ9iMKdmIAec3E5) | [Best Problem](https://open.spotify.com/album/2v9nFCf23D3u7VbudAfryJ) | 3:20 |
-| 567 | [Token](https://open.spotify.com/track/32UB2su8kJ6vr73LJeUwjo) | [Eilish Constance](https://open.spotify.com/artist/3L0ONIEAyJfEd0uwhR94gj) | [Token](https://open.spotify.com/album/1YNVocoiqW1zUomdPlBAx2) | 2:32 |
-| 568 | [I Think That's Fair](https://open.spotify.com/track/0WWUjDxM6muRxzNZ134p3G) | [Sleepy Pearls](https://open.spotify.com/artist/71yPjqdHprw8KxM2WQWXhj) | [I Think That's Fair](https://open.spotify.com/album/2VumDHPHMQNL1RTng2OA7M) | 2:39 |
-| 569 | [Pieces](https://open.spotify.com/track/4n5M7Upg2xHFjNiYCPszBy) | [Parts](https://open.spotify.com/artist/4FuX2lKjOhsjlAFTVqpxg0) | [PARTS](https://open.spotify.com/album/490C9QiAW9mfgG12e6HG8p) | 4:06 |
-| 570 | [Fool](https://open.spotify.com/track/45BBrk7dOwXpn45XpAEdp2) | [Choo](https://open.spotify.com/artist/75XWZB98ncTvMwUP2sucIi) | [Fool](https://open.spotify.com/album/5QyW8tO1c08bXfLMu7dnMk) | 4:02 |
-| 571 | [Distance](https://open.spotify.com/track/2vj9NptqtCVgxt4aPuM3l4) | [Ici Dix\-Sept](https://open.spotify.com/artist/4Df9rzX233fc8qgm7hhFfR) | [Distance](https://open.spotify.com/album/74dxNES3PyavFdH6idsQsT) | 3:52 |
-| 572 | [New Year](https://open.spotify.com/track/2cvAN1nvpHPCTvXCfoaRVV) | [The Go Find](https://open.spotify.com/artist/4NPxziJsCX4Gc4wo7D8JqQ) | [Stars On The Wall](https://open.spotify.com/album/67uo0H6rWddfm8Fx0hsHn5) | 3:11 |
-| 573 | [So Far](https://open.spotify.com/track/0zE5ODey0eNTbFLFuZLixU) | [Dad Friendly](https://open.spotify.com/artist/1Fd2NlGAWL7DC62T2jkRQY) | [So Far](https://open.spotify.com/album/1ToGpSdAeTNlUcOC7y6OKX) | 2:54 |
-| 574 | [Slow Rewind](https://open.spotify.com/track/0cCaK1EAJ3kLj4MOEMa3Uc) | [Bluhm](https://open.spotify.com/artist/22aAOr0FxuHU9XaDdUbdle) | [Mostly Forever](https://open.spotify.com/album/0YlPGFNh7PgufzHaBIGAwD) | 4:15 |
-| 575 | [TV Show](https://open.spotify.com/track/22FIOF3yQROHFhPJ5vFeXW) | [Pickled Peach](https://open.spotify.com/artist/6xBpRAgzmz7jSJeRdNQq41) | [TV Show](https://open.spotify.com/album/5h4yc9D8BAYGb1faFik1oq) | 3:31 |
-| 576 | [Flight](https://open.spotify.com/track/7pOhSnVBhBlbKyr0Co2UP1) | [Ayla Loon](https://open.spotify.com/artist/7xDXcXOMYrzSTU4zCAun5r) | [Flight](https://open.spotify.com/album/3ISDC1Lg1UtRGIYRCpHTUA) | 2:53 |
-| 577 | [Godless](https://open.spotify.com/track/4Wq4QGWVgzEGOG75qJAFH2) | [Doll Spirit Vessel](https://open.spotify.com/artist/5lS4UWcRUYt4Fcb0zwm2zz) | [Godless](https://open.spotify.com/album/1R5r0dNAbwI5GU7Lf927jr) | 3:09 |
-| 578 | [Maspeth](https://open.spotify.com/track/3hxPagXSHlLGmCiNRnhW8N) | [Johnny St\. Grace](https://open.spotify.com/artist/6CQwdXUVRgPaiHTSq5LevC) | [Maspeth](https://open.spotify.com/album/5UNzmnRjUFb3UwkG8uUXGV) | 3:55 |
+| 563 | [One More Night Alone \- Abandoned Recording](https://open.spotify.com/track/4li3ZUNgvDr9vq8MKc9HfD) | [Cayo Coco](https://open.spotify.com/artist/3MB3k9TH723vnvvLQXxeN3) | [These Deep Dark Woods \(Abandoned Recordings\)](https://open.spotify.com/album/19MzaboBsM370uUFKztJbT) | 3:37 |
+| 564 | [Diagonal](https://open.spotify.com/track/5bBS4EImzGF7fNuCP3AdbQ) | [Carelessly](https://open.spotify.com/artist/3laL9LL6X7GkWJDrmUxI7Z) | [Autumn](https://open.spotify.com/album/65T43RTU3RnBge03NDKw8E) | 4:19 |
+| 565 | [Best Problem](https://open.spotify.com/track/2mNddX0XACbVfhJmjnsOEm) | [V.V\. Lightbody](https://open.spotify.com/artist/0g7sn95ZJ9iMKdmIAec3E5) | [Best Problem](https://open.spotify.com/album/2v9nFCf23D3u7VbudAfryJ) | 3:20 |
+| 566 | [Token](https://open.spotify.com/track/32UB2su8kJ6vr73LJeUwjo) | [Eilish Constance](https://open.spotify.com/artist/3L0ONIEAyJfEd0uwhR94gj) | [Token](https://open.spotify.com/album/1YNVocoiqW1zUomdPlBAx2) | 2:32 |
+| 567 | [I Think That's Fair](https://open.spotify.com/track/0WWUjDxM6muRxzNZ134p3G) | [Sleepy Pearls](https://open.spotify.com/artist/71yPjqdHprw8KxM2WQWXhj) | [I Think That's Fair](https://open.spotify.com/album/2VumDHPHMQNL1RTng2OA7M) | 2:39 |
+| 568 | [Pieces](https://open.spotify.com/track/4n5M7Upg2xHFjNiYCPszBy) | [Parts](https://open.spotify.com/artist/4FuX2lKjOhsjlAFTVqpxg0) | [PARTS](https://open.spotify.com/album/490C9QiAW9mfgG12e6HG8p) | 4:06 |
+| 569 | [Fool](https://open.spotify.com/track/45BBrk7dOwXpn45XpAEdp2) | [Choo](https://open.spotify.com/artist/75XWZB98ncTvMwUP2sucIi) | [Fool](https://open.spotify.com/album/5QyW8tO1c08bXfLMu7dnMk) | 4:02 |
+| 570 | [Distance](https://open.spotify.com/track/2vj9NptqtCVgxt4aPuM3l4) | [Ici Dix\-Sept](https://open.spotify.com/artist/4Df9rzX233fc8qgm7hhFfR) | [Distance](https://open.spotify.com/album/74dxNES3PyavFdH6idsQsT) | 3:52 |
+| 571 | [New Year](https://open.spotify.com/track/2cvAN1nvpHPCTvXCfoaRVV) | [The Go Find](https://open.spotify.com/artist/4NPxziJsCX4Gc4wo7D8JqQ) | [Stars On The Wall](https://open.spotify.com/album/67uo0H6rWddfm8Fx0hsHn5) | 3:11 |
+| 572 | [So Far](https://open.spotify.com/track/0zE5ODey0eNTbFLFuZLixU) | [Dad Friendly](https://open.spotify.com/artist/1Fd2NlGAWL7DC62T2jkRQY) | [So Far](https://open.spotify.com/album/1ToGpSdAeTNlUcOC7y6OKX) | 2:54 |
+| 573 | [Slow Rewind](https://open.spotify.com/track/0cCaK1EAJ3kLj4MOEMa3Uc) | [Bluhm](https://open.spotify.com/artist/22aAOr0FxuHU9XaDdUbdle) | [Mostly Forever](https://open.spotify.com/album/0YlPGFNh7PgufzHaBIGAwD) | 4:15 |
+| 574 | [Godless](https://open.spotify.com/track/4Wq4QGWVgzEGOG75qJAFH2) | [Doll Spirit Vessel](https://open.spotify.com/artist/5lS4UWcRUYt4Fcb0zwm2zz) | [Godless](https://open.spotify.com/album/1R5r0dNAbwI5GU7Lf927jr) | 3:09 |
+| 575 | [Maspeth](https://open.spotify.com/track/3hxPagXSHlLGmCiNRnhW8N) | [Johnny St\. Grace](https://open.spotify.com/artist/6CQwdXUVRgPaiHTSq5LevC) | [Maspeth](https://open.spotify.com/album/5UNzmnRjUFb3UwkG8uUXGV) | 3:55 |
 
-Snapshot ID: `AAAqkHRhCJLZfUiFjZ9+CBqYpM7LJ4D7`
+Snapshot ID: `AAAqllmCb9xXox4Zjg3oP54ky5GcK2+2`

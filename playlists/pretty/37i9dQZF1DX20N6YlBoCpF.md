@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Al die nuutste Afrikaanse musiek met Annelie, Brandon Miles, Die Heuwels Fantasties, Deon Groot en meer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,159 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,185 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 99 | [Sing](https://open.spotify.com/track/0YazG2FCDU84wk9Xt6sitM) | [Riana Nel](https://open.spotify.com/artist/6Skl2RueCJYKBBm1Yr6BBQ) | [Sing](https://open.spotify.com/album/3ij7Vaw064Ac0zDZIJgjXz) | 3:30 |
 | 100 | [Almal Weet](https://open.spotify.com/track/1SfMfp5c5Y5JecGGGynhRq) | [Ichnus](https://open.spotify.com/artist/5Pamvs0AxFSiSB3YkeAIXT) | [Almal Weet](https://open.spotify.com/album/6zWJ8SpY9MEBEGMAPCLmpg) | 3:18 |
 
-Snapshot ID: `AAAAAGFqeben9UxWcFLxINHOMKW+5nMr`
+Snapshot ID: `AAAAAGPqp2pcV2NfygRXz+BE1r2G/Xnj`

@@ -1303,6 +1303,24 @@
     },
     {
       "album": {
+        "name": "Shadow",
+        "url": "https://open.spotify.com/album/43r9UbNFd1srLqKeeEvfIS"
+      },
+      "artists": [
+        {
+          "name": "Giles Belle",
+          "url": "https://open.spotify.com/artist/3ttNgPmK1gBiNGJXZxUX31"
+        }
+      ],
+      "date_added": "2025-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267412,
+      "name": "Ground Boots",
+      "url": "https://open.spotify.com/track/1reiH7NsrqX8n46TJm1jYa"
+    },
+    {
+      "album": {
         "name": "En Fin Ny Tid (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6gQPpg3ThXVHlQfifysaaG"
       },
@@ -1808,7 +1826,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-28",
       "duration_ms": 254925,
       "name": "Just Keep Swimming",
       "url": "https://open.spotify.com/track/5GIEnFRBb9fRPR963oPdJh"
@@ -2346,6 +2364,24 @@
       "duration_ms": 174489,
       "name": "Morlar ve Ye\u015filler",
       "url": "https://open.spotify.com/track/3ToSCDHoPVd5lNUWzUynrr"
+    },
+    {
+      "album": {
+        "name": "Mortel",
+        "url": "https://open.spotify.com/album/0pXMQmgKfUh6wXmdFaO0IE"
+      },
+      "artists": [
+        {
+          "name": "Dozeoff",
+          "url": "https://open.spotify.com/artist/6NUYoCrfLvHenyCC6RlipQ"
+        }
+      ],
+      "date_added": "2025-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250197,
+      "name": "Mortel",
+      "url": "https://open.spotify.com/track/1cUwqleCN1M33zrnDCyGqU"
     },
     {
       "album": {
@@ -3320,7 +3356,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-28",
       "duration_ms": 166519,
       "name": "Sony",
       "url": "https://open.spotify.com/track/2jfgn3tlhGPUrHh4JACRlf"
@@ -3392,7 +3428,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-20",
+      "date_removed": null,
       "duration_ms": 159380,
       "name": "Stargazer\u2019s Waltz",
       "url": "https://open.spotify.com/track/6G5mfPRbrtShOt7tO73XhB"
@@ -3746,7 +3782,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-28",
       "duration_ms": 255435,
       "name": "The Perfect Clown",
       "url": "https://open.spotify.com/track/7xTywMmLuhj3hgB93jdVe3"
@@ -3938,7 +3974,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-24",
+      "date_removed": null,
       "duration_ms": 397584,
       "name": "Time for a New Dream (feat.) Bob Balch (feat. Bob Balch)",
       "url": "https://open.spotify.com/track/03zNaFmJ5gsxjX20rtvkZm"
@@ -3974,7 +4010,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-28",
       "duration_ms": 306857,
       "name": "Trappen",
       "url": "https://open.spotify.com/track/0WLNy45tLrBZdobrIc0vjG"

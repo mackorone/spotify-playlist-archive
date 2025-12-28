@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 
 > Annika Wells loves a good ladder.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,562,610 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,562,483 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 | 99 | [Texas Primadonna](https://open.spotify.com/track/03eZNwdLPrikoKzdO2LlqO) | [Tiffany Stringer](https://open.spotify.com/artist/6Dv6bV7bzZSCAX0E0qLw7u) | [The Texas Primadonna](https://open.spotify.com/album/3DjEEt7A58vpSuUemigZzB) | 2:13 |
 | 100 | [Super Love Me](https://open.spotify.com/track/5l3Qcbmd6fCmMIgA50eAJH) | [Grace Davies](https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK) | [Super Love Me](https://open.spotify.com/album/6C2W7lY57Nhm01DDjXMJxa) | 4:26 |
 
-Snapshot ID: `AAAAAHxO+y1bM5cSKVCe81bbW0mo380D`
+Snapshot ID: `AAAAAMh2xfDGB/dKWGBKReUnDSutVrtq`

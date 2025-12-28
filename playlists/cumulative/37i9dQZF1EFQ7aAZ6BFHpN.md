@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6f8N8qe1L2qiB0f5U0sCp7">George Gershwin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-242 songs - 18 hr 25 min
+243 songs - 18 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,6 +165,7 @@
 | [Overflow](https://open.spotify.com/track/2DKtHTCrrdjIfISJe9uDLK) | [Bernt Rosengren Octet](https://open.spotify.com/artist/00YyCPR9UjuVm4UCypwhhR) | [Plays Porgy & Bess](https://open.spotify.com/album/1rfBJOOVXK7EENlH8M0UT7) | 3:21 | 2024-07-24 |  |
 | [Overture \(From "Strike Up the Band"\) \[Arr\. D\. Rose for Orchestra\]](https://open.spotify.com/track/5jCqqnrR9X6NwbS6q3jgRc) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Buffalo Philharmonic Orchestra](https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK), [Joann Falletta](https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK) | [Gershwin: Rhapsody in Blue, Strike Up the Band Overture, Promenade & Catfish Row](https://open.spotify.com/album/7BGSTg6EXyPHTuaFiJgz1V) | 6:57 | 2025-05-31 | 2025-08-02 |
 | [Overture \(From "Strike Up the Band"\) \[Arr\. D\. Rose for Orchestra\]](https://open.spotify.com/track/743LWFg0Bocux1HonwzJXq) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Buffalo Philharmonic Orchestra](https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK), [Joann Falletta](https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK) | [Gershwin: Rhapsody in Blue, Strike Up the Band Overture, Promenade & Catfish Row](https://open.spotify.com/album/3tTMvPV9A4W9DyuugugAOR) | 6:57 | 2025-08-01 |  |
+| [Pardon My English \(Remastered\)](https://open.spotify.com/track/77eINwyqsovKt1MQwiRWFM) | [Frances Day](https://open.spotify.com/artist/0Np8kbarcruI1MELpnzbex) | [Golden Girl Of The 1930's \(Remastered\)](https://open.spotify.com/album/74t1bc8OfVny0vCK0hys5u) | 3:31 | 2025-12-27 |  |
 | [Pay Some Attention to Me](https://open.spotify.com/track/6GnjjWJKJtSM5RSGaCF0WD) | [Lena Jansson](https://open.spotify.com/artist/4m4gSGFjX9mrzRrQUdnxVo), [Nils Lindberg Combo](https://open.spotify.com/artist/2jUufg1a3S5np12pTCdNqk) | [That Certain Feeling](https://open.spotify.com/album/2bXBKhTIcmH4YI7kBEolIW) | 5:27 | 2024-07-24 | 2025-08-02 |
 | [Pay Some Attention to Me](https://open.spotify.com/track/7k3KJJh3hMM2jUOlBhSHn9) | [Lena Jansson](https://open.spotify.com/artist/4m4gSGFjX9mrzRrQUdnxVo), [Nils Lindberg Combo](https://open.spotify.com/artist/2jUufg1a3S5np12pTCdNqk) | [That Certain Feeling](https://open.spotify.com/album/7jyY7vy6uZVc95prZBcBh0) | 5:27 | 2025-08-01 |  |
 | [Piano Concerto in F: 1\. Allegro](https://open.spotify.com/track/0EWCclJHzzzqSnDSRL43qq) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Werner Haas](https://open.spotify.com/artist/4iOVIMcUg6zfAPv2Dz01eq), [Monte\-Carlo Philharmonic Orchestra](https://open.spotify.com/artist/76E9R87sGDjIRdjl9d67Ed), [Edo de Waart](https://open.spotify.com/artist/6ZI0A8Ffc8are1mphRfpVl) | [Gershwin: I Got Rhythm/Piano Concerto in F/Rhapsody No.2, etc.](https://open.spotify.com/album/03xRpBgJGzWj3X0tcrOg3H) | 12:46 | 2025-07-09 |  |

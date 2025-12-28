@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: Tom Morello & Caleb Shomo \(Beartooth\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 930,269 likes - 99 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 930,279 likes - 99 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 98 | [Sweet Temptation](https://open.spotify.com/track/1ueTP6F5cQ6rj7toJuvCEw) | [WENDY](https://open.spotify.com/artist/2i8mY7fj920uqkcPkoX6QS) | [Don't waste my YOUTH \(Deluxe Edition\)](https://open.spotify.com/album/58YrN6pKWUOtVb7c02S1Sc) | 3:54 |
 | 99 | [rock bottom has a basement](https://open.spotify.com/track/2kfuADLNsNxj5sl2AaIubx) | [rosecoloredworld](https://open.spotify.com/artist/463Zbm3YPy7aKLqX1LBycF) | [rock bottom has a basement](https://open.spotify.com/album/3FiRFnWKNI1RjyFoYb92Uq) | 2:52 |
 
-Snapshot ID: `AAAAAPz9hW3lWCbVylYVRi7E9uRKVIyc`
+Snapshot ID: `AAAAAHRt75neWLoSr/g74FDzTYbc/HuG`

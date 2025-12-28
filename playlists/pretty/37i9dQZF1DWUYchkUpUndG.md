@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover:  Nina Shezz
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,479 likes - 97 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,505 likes - 97 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

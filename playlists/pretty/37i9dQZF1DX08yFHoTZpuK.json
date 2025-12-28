@@ -1,6 +1,6 @@
 {
   "description": "Cutting-edge dance music emerging from Japan.",
-  "num_followers": 20508,
+  "num_followers": 20554,
   "original_name": "Tokyo Club Beat",
   "owner": {
     "name": "Spotify",
@@ -419,26 +419,6 @@
     {
       "added_at": "2025-12-12 05:20:10",
       "album": {
-        "name": "\u30bd\u30ea\u30c3\u30c9\u30fb\u30b9\u30c6\u30a4\u30c8\u30fb\u30b5\u30f4\u30a1\u30a4\u30f4\u30a1\u30fc",
-        "url": "https://open.spotify.com/album/4uBi6IKL7Wsz895MNmpbIU"
-      },
-      "artists": [
-        {
-          "name": "YELLOW MAGIC ORCHESTRA",
-          "url": "https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE"
-        },
-        {
-          "name": "\u5409\u6ca2\u5178\u592b",
-          "url": "https://open.spotify.com/artist/1i8hb3SegIZOYl2av3jGSO"
-        }
-      ],
-      "duration_ms": 254960,
-      "name": "TECHNOPOLIS",
-      "url": "https://open.spotify.com/track/4NB8NwHewxGOPgjThiBnP0"
-    },
-    {
-      "added_at": "2025-12-12 05:20:10",
-      "album": {
         "name": "Don't Cry (feat. Sagiri S\u00f3l)",
         "url": "https://open.spotify.com/album/20adZHnEOZPZRChfuYiuGA"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 266909,
       "name": "Don't Cry - feat. Sagiri S\u00f3l",
       "url": "https://open.spotify.com/track/5d4GoCWtsFCAxiljlPcr9i"
+    },
+    {
+      "added_at": "2025-12-12 05:20:10",
+      "album": {
+        "name": "\u30bd\u30ea\u30c3\u30c9\u30fb\u30b9\u30c6\u30a4\u30c8\u30fb\u30b5\u30f4\u30a1\u30a4\u30f4\u30a1\u30fc",
+        "url": "https://open.spotify.com/album/4uBi6IKL7Wsz895MNmpbIU"
+      },
+      "artists": [
+        {
+          "name": "YELLOW MAGIC ORCHESTRA",
+          "url": "https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE"
+        },
+        {
+          "name": "\u5409\u6ca2\u5178\u592b",
+          "url": "https://open.spotify.com/artist/1i8hb3SegIZOYl2av3jGSO"
+        }
+      ],
+      "duration_ms": 254960,
+      "name": "TECHNOPOLIS",
+      "url": "https://open.spotify.com/track/4NB8NwHewxGOPgjThiBnP0"
     },
     {
       "added_at": "2025-12-12 05:20:10",

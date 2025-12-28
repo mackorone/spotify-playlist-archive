@@ -557,6 +557,24 @@
     },
     {
       "album": {
+        "name": "The way home",
+        "url": "https://open.spotify.com/album/4xO88KLM8NjEHYpQhXbJgV"
+      },
+      "artists": [
+        {
+          "name": "Eternalize",
+          "url": "https://open.spotify.com/artist/0gxYWBKorYdHOkDcnMLDsf"
+        }
+      ],
+      "date_added": "2025-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220574,
+      "name": "Gone by dawn",
+      "url": "https://open.spotify.com/track/4ZBcvQ1zEk1SogN6mGEDA2"
+    },
+    {
+      "album": {
         "name": "Roots",
         "url": "https://open.spotify.com/album/1QiKkAgvwZVBfHKHVdta5C"
       },

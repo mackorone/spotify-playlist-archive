@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-995 songs - 2 day 17 hr 24 min
+997 songs - 2 day 17 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Break on Through \(To the Other Side\)](https://open.spotify.com/track/6ToM0uwxtPKo9CMpbPGYvM) | [The Doors](https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt) | [The Doors](https://open.spotify.com/album/1jWmEhn3ggaL6isoyLfwBn) | 2:25 | 2024-01-08 |  |
 | [Bridge Burning](https://open.spotify.com/track/0bHD1nLe7Nhw55ZGJ92332) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Wasting Light](https://open.spotify.com/album/5lnQLEUiVDkLbFJHXHQu9m) | 4:45 | 2023-06-07 |  |
 | [Burial Ground](https://open.spotify.com/track/5dzIwdTUmRpwKuRAWBtwhl) | [The Decemberists](https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2), [James Mercer](https://open.spotify.com/artist/1og8fy01lbguVA5plZZRtd) | [As It Ever Was, So It Will Be Again](https://open.spotify.com/album/5acYvdisnqKHilyZpplOMf) | 4:04 | 2024-06-16 |  |
+| [Burning Bush](https://open.spotify.com/track/5oJMhdvIeFNF8dSFHm3K1P) | [E.R\. Visit](https://open.spotify.com/artist/3slFJFGiypL8bx2s14hzBC) | [my children will ignore you, my children will type amen](https://open.spotify.com/album/0LcXQTwXLJKizoMzyT8qak) | 1:48 | 2025-12-27 |  |
 | [Burnout](https://open.spotify.com/track/7dVDWf0wud70V4PgYfKnaG) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie](https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6) | 2:07 | 2024-01-08 |  |
 | [Busta's Intro \(feat\. Busta Rhymes\)](https://open.spotify.com/track/0eNGzSqI1Icrq7GfwRS1FI) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Supa Dupa Fly](https://open.spotify.com/album/6UkdyvPElK6JDkyeRClbI2) | 1:53 | 2024-01-08 |  |
 | [BUSY / SIRENS](https://open.spotify.com/track/4YdRnTnXYwgI48kkzWy6uk) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [theMIND](https://open.spotify.com/artist/5ZK5YGazICLXEXlaNnEBqP) | [CARE FOR ME](https://open.spotify.com/album/6Te111t5gDZ7W94myHRqUt) | 5:29 | 2023-01-13 | 2024-09-10 |
@@ -635,6 +636,7 @@
 | [Pantyhose](https://open.spotify.com/track/7m6xr2HY0BYmBDTh2UIx02) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [French Exit](https://open.spotify.com/album/4Hai0uVzRbyTSaTPzxTY4e) | 2:57 | 2023-04-25 | 2023-05-11 |
 | [Papa Don't Preach](https://open.spotify.com/track/6A8OnjnpShshNpcqWtZRjr) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [True Blue](https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD) | 4:28 | 2025-09-20 | 2025-10-10 |
 | [PARANOIA INTRO](https://open.spotify.com/track/5cXQjDLQbbuQqJBRKvJqjW) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Cold Visions](https://open.spotify.com/album/5fjDXtY8tws1sbPFHw34pL) | 1:10 | 2024-05-28 |  |
+| [Parapet](https://open.spotify.com/track/1UtoWvSd1GdKLk5mbsbTIh) | [@](https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3) | [Mind Palace Music](https://open.spotify.com/album/7h3MMJMKzY03w8VVYgrYWr) | 1:30 | 2025-12-27 |  |
 | [Partita for 8 Singers: 1\. Allemande](https://open.spotify.com/track/5UdY4qgRg3FEHdeRsR0kwi) | [Caroline Shaw](https://open.spotify.com/artist/3uUFClFtbjbjQQIq4BjY2C), [Roomful of Teeth](https://open.spotify.com/artist/3bzZhiUIN7300mrCcLsUBH), [Brad Wells](https://open.spotify.com/artist/30lPOBfWEOk8QnAHsx2eM6) | [Caroline Shaw: Partita for 8 Voices](https://open.spotify.com/album/34nuXpysKwp4l7sE3hBQBr) | 5:53 | 2025-10-08 | 2025-10-16 |
 | [Passion](https://open.spotify.com/track/7mfzrDtsheZEKZBhyViHih) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [In A Space Outta Sound](https://open.spotify.com/album/0SoMbQsPZTM8iA6HB5GSkg) | 7:00 | 2024-07-09 | 2024-07-12 |
 | [Patience](https://open.spotify.com/track/0xFEpNfqtoBgXeaUDwN6el) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [Patience](https://open.spotify.com/album/1X0Na8DRV5U6G9grTPDWKF) | 2:12 | 2024-01-04 |  |

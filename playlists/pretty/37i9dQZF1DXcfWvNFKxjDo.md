@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Anyma, EJAE
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,375 likes - 71 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,365 likes - 71 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 70 | [I Like](https://open.spotify.com/track/4QGp2Jx6GWOlmTgtM2oQJt) | [Julian](https://open.spotify.com/artist/7g34C2v5CRE5K4objuYQSc), [Timody](https://open.spotify.com/artist/5WJUcHlkR9EjSpq3pEINTW) | [I Like](https://open.spotify.com/album/01JuTBx05Nsc98DfoiR9ey) | 2:58 |
 | 71 | [WHENEVER, WHEREVER](https://open.spotify.com/track/4k96eTKZOnNRc2aeQCpu4w) | [YAMAS](https://open.spotify.com/artist/78oWym4ACzyf81OAeS0dHY) | [WHENEVER, WHEREVER](https://open.spotify.com/album/2jfteOeSr9TnMb9YFqdPv6) | 1:58 |
 
-Snapshot ID: `AAAAAFj6vh+X/87e3tJyDpL8IAYsFFjw`
+Snapshot ID: `AAAAAIFMASzNuC4+HDQPlymJdmO/Mamp`

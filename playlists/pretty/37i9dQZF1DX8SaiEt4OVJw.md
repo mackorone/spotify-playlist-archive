@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SaiEt4OVJw.md) - [plain]
 
 > Soundtracking the greatest sporting tournament in the world
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,104 likes - 60 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,111 likes - 60 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SaiEt4OVJw.md) - [plain]
 | 59 | [Mojagbêlê \- Mode Blade](https://open.spotify.com/track/33lsOgAQoZzm9qJvW44pTT) | [Suspect95](https://open.spotify.com/artist/1iOxNiCG89VJAPdTzJKKQ9) | [Mojagbêlê \(Mode Blade\)](https://open.spotify.com/album/5VoFxtw6AIgiQt8sNcXG9F) | 2:57 |
 | 60 | [Biama Brut Reverse](https://open.spotify.com/track/2cql6AVi8ktgedXr4RAFR0) | [Oyoki Onanayo](https://open.spotify.com/artist/4aKN9IVVCH0haHMdFhfw7L), [Renard Barakissa](https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj), [Kadirov Mania](https://open.spotify.com/artist/7l5TdraorF9Nm4j3LTvIcK) | [Biama Brut Reverse](https://open.spotify.com/album/3xoYfNYq0K6abXFOyAIhIO) | 3:01 |
 
-Snapshot ID: `AAAAAKUX0iTXfMCo0uZlaFWoKpWLHFN7`
+Snapshot ID: `AAAAAOuv6BXpmUOaZOdnBEjqMPiehOgI`

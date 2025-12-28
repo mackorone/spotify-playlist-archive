@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: BRADD
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,034 likes - 136 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,036 likes - 136 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 12 | [去吻她 \- More Than That Chinese Version](https://open.spotify.com/track/4q7Ft4JpkmkfRTcPfG6zfl) | [Wanting](https://open.spotify.com/artist/2OC4lXfGEKZkbmRCcf2vTq) | [More Than That / 去吻她](https://open.spotify.com/album/402IVzrJHxW5ffWXx9Aipf) | 3:58 |
 | 13 | [最果てへ](https://open.spotify.com/track/6uTn3AjhCLQA7bgqwwGydd) | [守夜人](https://open.spotify.com/artist/7Ec6c9lhFbsTfuwmIkhZa9), [XinU](https://open.spotify.com/artist/6oSrOOypJcKXWe5OnGO2yw) | [宇宙跟我說好了：Asia Tour 四城共創 EP](https://open.spotify.com/album/4aMfdlFq9Qr2zRHL0KJkFz) | 3:50 |
 | 14 | [你問我最近過得好嗎](https://open.spotify.com/track/7i1OJLYNrvmN6gp3gh93CQ) | [8lak](https://open.spotify.com/artist/08MxYfoyNQpx314MAppI8w) | [Welcome 8ack](https://open.spotify.com/album/5bX4FeTMa8Yx5QB3kDUYLI) | 3:23 |
-| 15 | [Meaning 2025 \(stripped\)](https://open.spotify.com/track/5y2wob0mYGp54LSq1Pz4y8) | [陳王晧](https://open.spotify.com/artist/2JIh3aHyEeGHd330zaQVI7), [FUMON](https://open.spotify.com/artist/3zGGhKGLorCRgcXc22gYDX) | [M3](https://open.spotify.com/album/6HFcsC2zdedTekyOP3CW73) | 4:13 |
+| 15 | [Meaning 2025 \(stripped\)](https://open.spotify.com/track/5y2wob0mYGp54LSq1Pz4y8) | [FUMON](https://open.spotify.com/artist/3zGGhKGLorCRgcXc22gYDX) | [M3](https://open.spotify.com/album/6HFcsC2zdedTekyOP3CW73) | 4:13 |
 | 16 | [數到三 321](https://open.spotify.com/track/4pFXLZB4XNaYeE4jCUikhS) | [BK](https://open.spotify.com/artist/6oUenG9cEPeZ4QYHXZGeFN) | [數到三 321](https://open.spotify.com/album/58QvjinWUsIV2UyKCd1aIQ) | 2:35 |
 | 17 | [你是我，想擁抱的理由](https://open.spotify.com/track/5Q2moOE7SptZZLEbAq92HS) | [斑恩Ben](https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ) | [你是我，想擁抱的理由](https://open.spotify.com/album/46aZjjgGEIPJRrRw9Km4Oq) | 2:58 |
 | 18 | [一如往常](https://open.spotify.com/track/5ZnQU9WEk35tZPQNTFTFv0) | [陳竟飛 Shane Chen](https://open.spotify.com/artist/1USgS12pGV5X0E5tfy9Uqw) | [The Ego](https://open.spotify.com/album/7GdnUk10T8H9uZTwdacW7J) | 2:55 |

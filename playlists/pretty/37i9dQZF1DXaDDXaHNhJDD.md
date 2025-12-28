@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 
 > Finest collection of Malayalam Music from the past 10 years Cover : Narivetta
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,600 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,700 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Minnalvala \(From "Narivetta"\)](https://open.spotify.com/track/5yAfCVJwa3r9wAQSOfawqm) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c) | [Minnalvala \(From "Narivetta"\)](https://open.spotify.com/album/2TGMDuoU4JVIrFOFH77GGH) | 4:59 |
-| 2 | [Kanmanipoove \(From "Thudarum"\)](https://open.spotify.com/track/3AAJmTVOJS55CpYFiCnXVh) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt), [M\. G\. Sreekumar](https://open.spotify.com/artist/3wjaprBWmoSJn4KP9tgkxt), [Harinarayanan](https://open.spotify.com/artist/2s8sAbINES1BaWVyuP8drc) | [Kanmanipoove \(From "Thudarum"\)](https://open.spotify.com/album/35VA3fNZ0phKkGL4usVvz9) | 5:54 |
+| 2 | [Kanmanipoove \(From "Thudarum"\)](https://open.spotify.com/track/3AAJmTVOJS55CpYFiCnXVh) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt), [M\. G\. Sreekumar](https://open.spotify.com/artist/3wjaprBWmoSJn4KP9tgkxt), [B.K\. Harinarayanan](https://open.spotify.com/artist/2NwWBme8V5okH9vQWrNxAV) | [Kanmanipoove \(From "Thudarum"\)](https://open.spotify.com/album/35VA3fNZ0phKkGL4usVvz9) | 5:54 |
 | 3 | [Pularaan Neram](https://open.spotify.com/track/3EPHaxloBVjAiCSW235Zh5) | [Sooraj Santhosh](https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB) | [Android Kunjappan Version 5.25 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3VDp27puFT9VKU7di95YUf) | 3:26 |
 | 4 | [Panjara Punch \- From "Alappuzha Gymkhana"](https://open.spotify.com/track/2ogcJnC4TJ6DBkBsR2KU1y) | [Vishnu Vijay](https://open.spotify.com/artist/2einniD11Dbvrwy5nWmn4p), [Anthony Daasan](https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv), [Suhail Koya](https://open.spotify.com/artist/1d3zWx1pD19ZF60KcVUPYv) | [Panjara Punch \(From "Alappuzha Gymkhana"\)](https://open.spotify.com/album/6ywvIVJG0pksUvqqTDUf33) | 2:45 |
 | 5 | [Neela Nilave \(From "RDX"\)](https://open.spotify.com/track/1HNig28114roVWfkCHk5oJ) | [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2) | [Neela Nilave \(From "RDX"\)](https://open.spotify.com/album/0StmeakxNJCLQw2YLRBt9g) | 4:13 |

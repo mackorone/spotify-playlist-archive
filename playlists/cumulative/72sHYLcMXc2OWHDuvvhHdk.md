@@ -4,7 +4,7 @@
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-1,907 songs - 4 day 15 hr 48 min
+1,910 songs - 4 day 16 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Anniversary](https://open.spotify.com/track/1yhipUehqA9JeGciUa7663) | [Blister Soul](https://open.spotify.com/artist/3S5y0rfL05mwwT0RwoIbLZ) | [Seasons](https://open.spotify.com/album/2mC7ZRxQckh8OUns75zeAF) | 6:21 | 2025-03-06 |  |
 | [Another Day](https://open.spotify.com/track/1SREr3Hg5w7tc2cDj91SgK) | [S.O.S](https://open.spotify.com/artist/4ovLj8UgslXe1lWvaaSZ5w) | [Another Day](https://open.spotify.com/album/6dxtqZ6wTUByUTf0xTkSQn) | 2:50 | 2025-07-18 |  |
 | [Another Mile of Pain](https://open.spotify.com/track/4fLyZ46nySmdogmA476KBc) | [Raised by Clowns](https://open.spotify.com/artist/4VT6GVYiJ0EiXL3QY8vReC) | [Another Mile of Pain](https://open.spotify.com/album/5icNjlNpIo78W2qoxZM3Wu) | 2:45 | 2024-08-28 |  |
+| [Anybody Out There](https://open.spotify.com/track/4Dulb3Cng8qV360NJFtEBr) | [Ludwig Jonsson](https://open.spotify.com/artist/6pWJeM6v6cLKjblDNWYNdx) | [Anybody Out There](https://open.spotify.com/album/0cVV8otUnb6rE5SisKVgUk) | 3:21 | 2025-12-27 |  |
 | [anymore \- butterfly](https://open.spotify.com/track/2lWvjy1uwbDNv2o0LiZUmp) | [Peterson](https://open.spotify.com/artist/75GKFnQxwp1FIBqzseSrKC) | [WANT 2 BE 3](https://open.spotify.com/album/4IhdgtgY206V0NATs0V694) | 2:22 | 2025-04-14 |  |
 | [Aperitif](https://open.spotify.com/track/5WLa7pK5ETQqaTl7Z3uGXV) | [VibeCreator](https://open.spotify.com/artist/2gX3FN31FeQMa0Y7myRa8G), [AxioM\-R](https://open.spotify.com/artist/0pWjt5Bn0aBtaQzBtyxDxJ), [Beatmology](https://open.spotify.com/artist/371X0EF8wqSvR4g8bZf0p9) | [Aperitif](https://open.spotify.com/album/1fXSDxapSsUq67M85HqOE1) | 2:49 | 2025-05-22 |  |
 | [Apple Rose](https://open.spotify.com/track/6XBVq6IszaoiaCSyn0Xu3T) | [Still Crash](https://open.spotify.com/artist/4nxuNWss1Y7gLSIn4I2mNu) | [Apple Rose](https://open.spotify.com/album/2nmHojdDokW6yJmmthKqya) | 4:29 | 2024-04-16 |  |
@@ -820,6 +821,7 @@
 | [Inferno](https://open.spotify.com/track/44ksc2LW87tSioQZZ5XjL1) | [Sean Patek](https://open.spotify.com/artist/2mc574X6E6Df8U92AjzfiS) | [Inferno](https://open.spotify.com/album/1q2KBMadErBa4jMatBPgwh) | 2:37 | 2025-09-12 |  |
 | [Infinite Sin](https://open.spotify.com/track/1yO30Cja6tJkNX7Vpc2yOU) | [goodbye horses](https://open.spotify.com/artist/28YhDBOKlxXpD18lqESiRQ) | [Infinite Sin](https://open.spotify.com/album/4ROlaAu5qkQ1Sn79V8FIHg) | 3:09 | 2025-07-08 |  |
 | [Infinito](https://open.spotify.com/track/5K4JUd244XjzQLWfmiaTmS) | [Andrés Zapata](https://open.spotify.com/artist/3EVyrf1OgXe8woUNY6fbdO), [Daniela Garzon](https://open.spotify.com/artist/57VooYaAoRCGzc6AuRcIqj) | [Infinito](https://open.spotify.com/album/0JerWmlIVL40BX3uDukQSF) | 4:32 | 2025-04-16 |  |
+| [Infinity Life](https://open.spotify.com/track/1IwAAaBpIe5DnUTvdIWvCI) | [Fuse Mind](https://open.spotify.com/artist/0m888cJPAkYjR6VeUY95sF) | [Infinity Life](https://open.spotify.com/album/12mqZDxOPhD3RRD49egSCK) | 4:32 | 2025-12-27 |  |
 | [Infinity Mirror](https://open.spotify.com/track/6tZuGMTlKMuByky5TcqEmv) | [St\. Kio](https://open.spotify.com/artist/44tH5nFTBxBPR1Dxuu17a0) | [Infinity Mirror](https://open.spotify.com/album/42EOA14qIh8MkyoRw3xEL9) | 2:46 | 2024-06-28 |  |
 | [Ingen skæve smølfer](https://open.spotify.com/track/4roPN3Ega24YwVGI3klO5i) | [Notfraktion](https://open.spotify.com/artist/141lo9o0iAiWGrQX5EEw7N) | [117](https://open.spotify.com/album/1KA9JLcH92KaAalgzHiuNB) | 3:12 | 2025-07-29 |  |
 | [Inima\-mi tremura](https://open.spotify.com/track/7kIagru5T0fMq0ayx0oXeX) | [ROMAREL](https://open.spotify.com/artist/66rsNxE5kHbHrp8jJsg504) | [Inima\-mi tremura](https://open.spotify.com/album/4S2cIThoQjDYIW1G2GJViI) | 3:02 | 2025-12-04 |  |
@@ -889,6 +891,7 @@
 | [Killing Me](https://open.spotify.com/track/3rJPRu78Ue0BA3y6sMTSlR) | [Solo el Malo](https://open.spotify.com/artist/6zInnYXXcyniz3JBivUoX8) | [Killing Me](https://open.spotify.com/album/3QnXajKgKHA0ufuDhSOX7w) | 2:52 | 2024-08-28 |  |
 | [Kinda Gay](https://open.spotify.com/track/0RJWeXG5GAuub0FKdPIHah) | [Elio Ocampo](https://open.spotify.com/artist/6ytMeTFgXUIo5HtdCxKI1E) | [Kinda Gay](https://open.spotify.com/album/3B6cGYrpWpjLuuZnkGmaFb) | 3:14 | 2025-06-30 |  |
 | [Kintsugi Heart](https://open.spotify.com/track/4JnFcgRPZVpclRruw7iBtS) | [Audilia](https://open.spotify.com/artist/5UkUWmSdlWX8ANCBMdwqp0) | [Kintsugi Heart](https://open.spotify.com/album/2CZrJLGYKEjc3uPpCgzNvW) | 3:15 | 2024-09-23 |  |
+| [Kiss Me Deadly](https://open.spotify.com/track/2S3zeYcxOMcjrdVLZWSeUJ) | [Ken Tizzard and Music for Goats](https://open.spotify.com/artist/61WoSnXBrkPMvoiTHmHG3a) | [Kiss Me Deadly](https://open.spotify.com/album/3xiDe0BHQ75UNk6FPHALbY) | 4:12 | 2025-12-27 |  |
 | [Kitty May](https://open.spotify.com/track/2wH7SYMVfHAPe6pbaUU8FT) | [Kitty May](https://open.spotify.com/artist/7giGeeAAUU3WUq5FH63S9T), [Felix Nordström](https://open.spotify.com/artist/3LghGMMhFxsYLAwftBPNh8) | [I Am Kitty May](https://open.spotify.com/album/5v3heYswFUHHJxg1mFXrmq) | 4:49 | 2025-09-17 |  |
 | [Know All](https://open.spotify.com/track/54OesLhCKRg9Skit68nQVL) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [Know All](https://open.spotify.com/album/352NC4QJSoH276XWe092wG) | 2:55 | 2024-04-08 |  |
 | [know now](https://open.spotify.com/track/2kV6hMHGSdjb9Ud8VIXP4V) | [WESLEE](https://open.spotify.com/artist/2sfC2KuIzmNQEtVordUuqq) | [Weslee World 2](https://open.spotify.com/album/7CG7qBkKh0c6QUbTl6ThMu) | 3:01 | 2025-06-21 |  |

@@ -2,7 +2,7 @@
 
 ### [NIGHT TRAVELER Radio](https://open.spotify.com/playlist/37i9dQZF1E4kTD46HZNyiq)
 
-> With Rhineland, VICTORS, Laureline and more
+> With Rhineland, The Wild Wind, VICTORS and more
 
 1,434 songs - 3 day 19 hr 58 min
 
@@ -165,7 +165,7 @@
 | [Between the Bad Days](https://open.spotify.com/track/7iU6fdJ4OGmiHRQQuBC2gF) | [Saint Blonde](https://open.spotify.com/artist/0nLQlvzkknOFtgjAzBCcqq) | [Between the Bad Days](https://open.spotify.com/album/6pjv41rUbpq0PJcEyixI9h) | 3:31 | 2024-03-04 | 2024-03-05 |
 | [Between the Lines](https://open.spotify.com/track/3NFpTdercNINjyJQJSOve0) | [Aron Hawkins](https://open.spotify.com/artist/6QOUEkT1qalWwaqE9CBg3D) | [Between the Lines](https://open.spotify.com/album/6wpuP5lgLZbEzX2Nk2kJCc) | 4:13 | 2022-05-15 | 2022-06-19 |
 | [Beverly Drive](https://open.spotify.com/track/3yHMenketw07uKFRVHZLm5) | [FICCHI](https://open.spotify.com/artist/5qtutPLXIaqaT5j4tSOnX7) | [Compañeros](https://open.spotify.com/album/4sMFi04w38CU87vfY5hmkP) | 3:44 | 2022-06-22 | 2022-06-24 |
-| [Big City](https://open.spotify.com/track/3uf7jjUpzDhNT6XEdNHUQt) | [VICTORS](https://open.spotify.com/artist/163g9TCjTPJMjem8Iwv6iN) | [Big City](https://open.spotify.com/album/2iGkASJ46pbJZMMb48NtwJ) | 3:50 | 2023-12-22 | 2025-12-27 |
+| [Big City](https://open.spotify.com/track/3uf7jjUpzDhNT6XEdNHUQt) | [VICTORS](https://open.spotify.com/artist/163g9TCjTPJMjem8Iwv6iN) | [Big City](https://open.spotify.com/album/2iGkASJ46pbJZMMb48NtwJ) | 3:50 | 2023-12-22 |  |
 | [Big City](https://open.spotify.com/track/6SWKwLaPjYpezF1J25lQYP) | [VICTORS](https://open.spotify.com/artist/163g9TCjTPJMjem8Iwv6iN) | [Big City](https://open.spotify.com/album/0YYRHh7eDkFaNIHR8gsjCt) | 3:50 | 2022-10-11 | 2022-10-12 |
 | [Black and Blue](https://open.spotify.com/track/5cWK6g3WoaaOaTRwTxSqNn) | [Hurtwave](https://open.spotify.com/artist/6nEa9O0zPZtkuGJ6lWYcNy) | [Night Therapy I](https://open.spotify.com/album/0eLNu4l661EwFzvgbO8GDe) | 3:50 | 2022-10-16 | 2022-10-17 |
 | [Blind](https://open.spotify.com/track/0DsrOQommL60LaaGBskyua) | [Corey Harper](https://open.spotify.com/artist/24Bq9F6DJfzTaqgmoxT5vm) | [Barely Put Together](https://open.spotify.com/album/3i9ItZZVQMqVj5WOLkVoal) | 3:42 | 2022-10-10 | 2022-10-11 |
@@ -341,7 +341,7 @@
 | [Dorothy](https://open.spotify.com/track/6q8mbi2hdFvbVN5C1gZrC3) | [Hayden Kaye](https://open.spotify.com/artist/5ysxWIsFhoJZttrZkexNhk) | [Time & Space](https://open.spotify.com/album/0zJX4hsDeifabiQOTdSUnL) | 5:06 | 2022-05-15 | 2022-05-27 |
 | [Down To Earth](https://open.spotify.com/track/067rgocjN13QCum5cbVN6Q) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Wake](https://open.spotify.com/album/2GW5H0LObDv7faLyzGgMQi) | 3:09 | 2022-10-07 | 2022-10-08 |
 | [Downtown Lights](https://open.spotify.com/track/41fgMr2SXvOHUlIe9fMDoJ) | [Rhineland](https://open.spotify.com/artist/4vMdQrvTXjEPjscJjTnp0a) | [Heard It in a Dream, Love](https://open.spotify.com/album/0G0952x5VWLLsNLOYKj5gI) | 3:57 | 2022-04-09 |  |
-| [Dream](https://open.spotify.com/track/26PwqBf8y4mRjWieTYS2Jg) | [The Wild Wind](https://open.spotify.com/artist/377Knb6HRXkcDKafzqtt5y) | [Young and in Love](https://open.spotify.com/album/38rzj4uWKuXZFXZNr8cUEo) | 3:36 | 2024-01-06 |  |
+| [Dream](https://open.spotify.com/track/26PwqBf8y4mRjWieTYS2Jg) | [The Wild Wind](https://open.spotify.com/artist/377Knb6HRXkcDKafzqtt5y) | [Young and in Love](https://open.spotify.com/album/38rzj4uWKuXZFXZNr8cUEo) | 3:36 | 2024-01-06 | 2025-12-28 |
 | [dreamin'](https://open.spotify.com/track/267QMIjVTwU5HvH2lJmrFW) | [pink roses](https://open.spotify.com/artist/4KPrvW0HmBDFKs8PsXRwyp) | [dreamin'](https://open.spotify.com/album/2za9qJ9pvZZdOdBDa0O83S) | 2:50 | 2022-03-12 | 2022-10-06 |
 | [Dreaming of You](https://open.spotify.com/track/1EznFxaScgoxbnDmYPL2NJ) | [By The Coast](https://open.spotify.com/artist/2iewjEprGDCLtGNGLHSdqm) | [Twist of Fate](https://open.spotify.com/album/2cl2zVVSzvV2QMEFpe3wYY) | 4:52 | 2022-06-30 | 2022-07-07 |
 | [Dreams](https://open.spotify.com/track/4AcwVewGZyVTycghkVzZaN) | [Wanderer](https://open.spotify.com/artist/4wRTp2nXTcEpbJy9MQh0GX) | [Dreams](https://open.spotify.com/album/5lR62AQRfoHtDVDoocRTpS) | 4:26 | 2022-04-14 | 2022-08-08 |
@@ -479,7 +479,7 @@
 | [Georgetown](https://open.spotify.com/track/1LJXg27KpKvIWQCo1xGlia) | [The Bad Dreamers](https://open.spotify.com/artist/71Char2jLgXkG97fBjqNNY) | [Space and Time \(Deluxe Edition\)](https://open.spotify.com/album/6kHxPKAWHgv7wVaM2qcKlV) | 3:47 | 2022-02-18 | 2022-08-11 |
 | [Get a Grip](https://open.spotify.com/track/6kLhi6C5tXB5ILppo8BZhF) | [Patternist](https://open.spotify.com/artist/1n5JefcusF9c1qITJSp6Ms) | [I Don't Know What I'm Doing Here](https://open.spotify.com/album/4xmrb6kQ1X0ftdb2Xe3Cwd) | 1:11 | 2022-05-29 | 2024-02-20 |
 | [Get Better](https://open.spotify.com/track/0Cz5KFXVY2bM0X4ebyIGrR) | [Laureline](https://open.spotify.com/artist/6NLvlpFHjAedoPwWoPfGgK) | [Everything Ends Up Ending](https://open.spotify.com/album/5NZ0kjAcKNZQc9RYmOuzCa) | 3:26 | 2022-09-19 | 2022-09-21 |
-| [Get Better](https://open.spotify.com/track/63a8sFZAZ6HgskOUatU7Ye) | [Laureline](https://open.spotify.com/artist/6NLvlpFHjAedoPwWoPfGgK) | [Everything Ends Up Ending](https://open.spotify.com/album/1HVXjoZFj8r8KA6pNw4FjB) | 3:26 | 2023-12-14 | 2025-12-27 |
+| [Get Better](https://open.spotify.com/track/63a8sFZAZ6HgskOUatU7Ye) | [Laureline](https://open.spotify.com/artist/6NLvlpFHjAedoPwWoPfGgK) | [Everything Ends Up Ending](https://open.spotify.com/album/1HVXjoZFj8r8KA6pNw4FjB) | 3:26 | 2023-12-14 |  |
 | [Get Better](https://open.spotify.com/track/7JkdM2lpq22LeRtiSev3jC) | [Laureline](https://open.spotify.com/artist/6NLvlpFHjAedoPwWoPfGgK) | [Everything Ends Up Ending](https://open.spotify.com/album/2dsxWOvOPWcVg0rIBSOo1n) | 3:26 | 2022-05-06 | 2022-09-10 |
 | [Get Here](https://open.spotify.com/track/3Lo0dE8PtdTyVm7I8o4S4U) | [Bootstraps](https://open.spotify.com/artist/0x5TKpXlF0dsnMNB2xOYXz) | [Homage: Deluxe Reissue](https://open.spotify.com/album/1A7lsYGDV8WPGHhE1rECro) | 3:31 | 2022-05-02 | 2023-06-10 |
 | [Get You Out](https://open.spotify.com/track/3fdSUF8i5E6rWIqBjNqJ6F) | [Antigon](https://open.spotify.com/artist/3YPPVZi2rGfFGvd0YS5nwA) | [Get You Out](https://open.spotify.com/album/4pCLAH44OAcqoMC0Pq26N4) | 3:12 | 2022-04-13 | 2022-04-14 |
@@ -1424,7 +1424,7 @@
 | [You're Okay](https://open.spotify.com/track/6M3QZa7KsrLUrabJZxyLGr) | [brodyn](https://open.spotify.com/artist/5Atytc4w4HE9vlkPs4tBXj) | [You're Okay](https://open.spotify.com/album/5LC8uFX5qU6za367INTF5i) | 5:39 | 2023-03-02 | 2024-03-27 |
 | [You're the One](https://open.spotify.com/track/676srhegbqe5rcJTH10Y1P) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Nothing is Lost](https://open.spotify.com/album/2pWfYBcesgKukL2b9THx10) | 3:38 | 2022-10-16 | 2022-10-17 |
 | [You're the One for Me \- Digital Farm Animals Remix](https://open.spotify.com/track/5T2iobXGYEI9TdrJ4Du6QN) | [Great Good Fine Ok](https://open.spotify.com/artist/422RLznpwUa5FsQgnTlgUH), [Digital Farm Animals](https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh) | [You're the One for Me](https://open.spotify.com/album/1Xg3cGm0qUBrcC6ULP0Uck) | 4:29 | 2021-12-01\* | 2022-02-08 |
-| [You're The One I Need](https://open.spotify.com/track/254TJqo06K4vMXkKitjCAc) | [VICTORS](https://open.spotify.com/artist/163g9TCjTPJMjem8Iwv6iN) | [The Hotel](https://open.spotify.com/album/1X89li9iU1in3pFaWvCRoP) | 3:06 | 2025-12-09 |  |
+| [You're The One I Need](https://open.spotify.com/track/254TJqo06K4vMXkKitjCAc) | [VICTORS](https://open.spotify.com/artist/163g9TCjTPJMjem8Iwv6iN) | [The Hotel](https://open.spotify.com/album/1X89li9iU1in3pFaWvCRoP) | 3:06 | 2025-12-09 | 2025-12-28 |
 | [You're the Only Reason Why](https://open.spotify.com/track/0rQUugvAGeDZK2VK3VpfjP) | [Twin Tides](https://open.spotify.com/artist/3pWnViXs8XJgbf0qmV8HhF) | [You're the Only Reason Why](https://open.spotify.com/album/2qif9voJX8i80H0T08yDqn) | 4:27 | 2022-03-10 | 2022-10-14 |
 | [You're the Sea](https://open.spotify.com/track/2WD93lsfJonaKtrQtpLB2R) | [Andrew Belle](https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY) | [Nightshade](https://open.spotify.com/album/0UlhdB1GPfs4WozhZBlGdL) | 2:54 | 2022-09-15 | 2022-09-16 |
 | [Young](https://open.spotify.com/track/08VtnC4zTf8GBFNMCv6Axh) | [Recent Rumors](https://open.spotify.com/artist/4qdxWWLnahrzUknTg3uPQn) | [Young](https://open.spotify.com/album/25jRb6aRwREw36XzgEHiq4) | 3:53 | 2021-12-17 | 2022-03-05 |

@@ -651,6 +651,22 @@
     {
       "added_at": "2025-11-04 06:45:24",
       "album": {
+        "name": "Monsoon",
+        "url": "https://open.spotify.com/album/0GSUns1MLEoUyxiiD0WFWY"
+      },
+      "artists": [
+        {
+          "name": "Ha Hyun Sang",
+          "url": "https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb"
+        }
+      ],
+      "duration_ms": 229746,
+      "name": "Monsoon",
+      "url": "https://open.spotify.com/track/3uOyTMOS8K2h8cyUO7jZfH"
+    },
+    {
+      "added_at": "2025-11-04 06:45:24",
+      "album": {
         "name": "Rainy day",
         "url": "https://open.spotify.com/album/7lLMwJuLck4Rnd5GUi81j2"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 218250,
       "name": "Rainy day (Feat. ASH ISLAND, Skinny Brown)",
       "url": "https://open.spotify.com/track/4LxFRsy3TZjqAtAgIsjkez"
-    },
-    {
-      "added_at": "2025-11-04 06:45:24",
-      "album": {
-        "name": "Monsoon",
-        "url": "https://open.spotify.com/album/0GSUns1MLEoUyxiiD0WFWY"
-      },
-      "artists": [
-        {
-          "name": "Ha Hyun Sang",
-          "url": "https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb"
-        }
-      ],
-      "duration_ms": 229746,
-      "name": "Monsoon",
-      "url": "https://open.spotify.com/track/3uOyTMOS8K2h8cyUO7jZfH"
     },
     {
       "added_at": "2025-11-04 06:45:24",
@@ -851,18 +851,18 @@
     {
       "added_at": "2025-11-04 06:45:24",
       "album": {
-        "name": "Even When I Smile",
-        "url": "https://open.spotify.com/album/7n8sQzaxWJdHZJtpMrPTsE"
+        "name": "STELLA I",
+        "url": "https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN"
       },
       "artists": [
         {
-          "name": "blah",
-          "url": "https://open.spotify.com/artist/0agqtoeQB2zKMFX1kgt5Hg"
+          "name": "Stella Jang",
+          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
         }
       ],
-      "duration_ms": 216826,
-      "name": "Even When I Smile",
-      "url": "https://open.spotify.com/track/48QPNybu3JkiUfCwG11Moq"
+      "duration_ms": 215000,
+      "name": "My Ceiling Disappeared",
+      "url": "https://open.spotify.com/track/5EcCFzo4PyxTYQsrHGL9xU"
     }
   ],
   "unique_name": "\uc6b0\uc0b0 \uc544\ub798 (Under the Umbrella)",

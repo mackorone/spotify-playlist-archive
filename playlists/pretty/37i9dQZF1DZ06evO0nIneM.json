@@ -1,12 +1,12 @@
 {
   "description": "This is BL\u00d8F. The essential tracks, all in one playlist.",
-  "num_followers": 93062,
+  "num_followers": 93070,
   "original_name": "This Is BL\u00d8F",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUx+gAAAAAAbION2Y6J/WmcLEtVBaKOV",
+  "snapshot_id": "aU3QAAAAAAAYkgmpr3dJdx6x1fN4fdm7",
   "tracks": [
     {
       "added_at": null,
@@ -147,26 +147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "3\u00d8 - We Doen Wat We Kunnen",
-        "url": "https://open.spotify.com/album/4ldiSUPVNKzo7V8aea84Pp"
-      },
-      "artists": [
-        {
-          "name": "Counting Crows",
-          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
-        },
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 234880,
-      "name": "Holiday In Spain",
-      "url": "https://open.spotify.com/track/6IYUQ6eQiZfqMyhgk84CEg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aan",
         "url": "https://open.spotify.com/album/0tTV2cKaA2TXTUOE642C59"
       },
@@ -203,6 +183,26 @@
       "duration_ms": 238083,
       "name": "Laat Me Los",
       "url": "https://open.spotify.com/track/1G7e24hHShCgVSDrtu9k9k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "3\u00d8 - We Doen Wat We Kunnen",
+        "url": "https://open.spotify.com/album/4ldiSUPVNKzo7V8aea84Pp"
+      },
+      "artists": [
+        {
+          "name": "Counting Crows",
+          "url": "https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC"
+        },
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 234880,
+      "name": "Holiday In Spain",
+      "url": "https://open.spotify.com/track/6IYUQ6eQiZfqMyhgk84CEg"
     },
     {
       "added_at": null,
@@ -779,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "De Grasbroek Sessies",
+        "url": "https://open.spotify.com/album/45dg5PNF7RTfYQxM0zgm9b"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 198826,
+      "name": "Vroeg of Laat",
+      "url": "https://open.spotify.com/track/408DiEYD84e2MvSs0FYaWf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Live op Concert at SEA 2015",
         "url": "https://open.spotify.com/album/1E2BoVBA043DwqPEdSWNsI"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 247186,
       "name": "Spijt Heb Je Morgen Maar (Live op Concert at SEA 2023)",
       "url": "https://open.spotify.com/track/3NuhiR3IqVg55Jw6inh2jx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De Grasbroek Sessies",
-        "url": "https://open.spotify.com/album/45dg5PNF7RTfYQxM0zgm9b"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 198826,
-      "name": "Vroeg of Laat",
-      "url": "https://open.spotify.com/track/408DiEYD84e2MvSs0FYaWf"
     },
     {
       "added_at": null,

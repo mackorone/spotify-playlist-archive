@@ -1,6 +1,6 @@
 {
   "description": "Are you afraid of the dark?",
-  "num_followers": 459137,
+  "num_followers": 459132,
   "original_name": "Spooky",
   "owner": {
     "name": "Spotify",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2025-11-10 17:59:58",
       "album": {
-        "name": "Covered In Hether",
-        "url": "https://open.spotify.com/album/6GqWvDxFxsvi8ieNRJCTas"
-      },
-      "artists": [
-        {
-          "name": "Hether",
-          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
-        }
-      ],
-      "duration_ms": 191860,
-      "name": "My Funny Valentine",
-      "url": "https://open.spotify.com/track/7lkUDDKw8Xce33MtJTfvpO"
-    },
-    {
-      "added_at": "2025-11-10 17:59:58",
-      "album": {
         "name": "Somebody Told Me",
         "url": "https://open.spotify.com/album/3kLyeLRbV9sExn8j6Dxd5P"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 231242,
       "name": "Somebody Told Me",
       "url": "https://open.spotify.com/track/1NipBTZQXFIeQaqzy1Mdjj"
+    },
+    {
+      "added_at": "2025-11-10 17:59:58",
+      "album": {
+        "name": "Covered In Hether",
+        "url": "https://open.spotify.com/album/6GqWvDxFxsvi8ieNRJCTas"
+      },
+      "artists": [
+        {
+          "name": "Hether",
+          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
+        }
+      ],
+      "duration_ms": 191860,
+      "name": "My Funny Valentine",
+      "url": "https://open.spotify.com/track/7lkUDDKw8Xce33MtJTfvpO"
     },
     {
       "added_at": "2025-11-10 17:59:58",

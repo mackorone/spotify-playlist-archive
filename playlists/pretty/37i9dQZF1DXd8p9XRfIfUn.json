@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de la nueva. Foto: fedesttar",
-  "num_followers": 80686,
+  "num_followers": 80682,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -855,6 +855,26 @@
     {
       "added_at": "2025-09-18 23:00:14",
       "album": {
+        "name": "Profuga",
+        "url": "https://open.spotify.com/album/7nfQMiQI7qyUqAz2feazuc"
+      },
+      "artists": [
+        {
+          "name": "Alex Got",
+          "url": "https://open.spotify.com/artist/16fOP8AoBwsszz9nX0qbnX"
+        },
+        {
+          "name": "Cris MJ",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "duration_ms": 201811,
+      "name": "Profuga",
+      "url": "https://open.spotify.com/track/5kLnAf93pPAcEnIzzghQEL"
+    },
+    {
+      "added_at": "2025-09-18 23:00:14",
+      "album": {
         "name": "Pasame la Botella (Remix)",
         "url": "https://open.spotify.com/album/1rL3S88jyTg6D8TNVNFeIN"
       },
@@ -883,26 +903,6 @@
       "duration_ms": 348013,
       "name": "Pasame la Botella - Remix",
       "url": "https://open.spotify.com/track/5aBYOVFOEXXlY3mfranach"
-    },
-    {
-      "added_at": "2025-09-18 23:00:14",
-      "album": {
-        "name": "Profuga",
-        "url": "https://open.spotify.com/album/7nfQMiQI7qyUqAz2feazuc"
-      },
-      "artists": [
-        {
-          "name": "Alex Got",
-          "url": "https://open.spotify.com/artist/16fOP8AoBwsszz9nX0qbnX"
-        },
-        {
-          "name": "Cris MJ",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        }
-      ],
-      "duration_ms": 201811,
-      "name": "Profuga",
-      "url": "https://open.spotify.com/track/5kLnAf93pPAcEnIzzghQEL"
     },
     {
       "added_at": "2025-09-18 23:00:14",
@@ -995,26 +995,22 @@
     {
       "added_at": "2025-09-18 23:00:14",
       "album": {
-        "name": "Tanto Fronteo",
-        "url": "https://open.spotify.com/album/27PL5DSMr3hRU6TOYeQFKp"
+        "name": "PERREANDO CON ALGUIEN QUE NO ME GUSTA",
+        "url": "https://open.spotify.com/album/2ngsJuhJRJQDW3BXt0B2OX"
       },
       "artists": [
         {
-          "name": "King Goyi",
-          "url": "https://open.spotify.com/artist/3IABS6mmasQ8f1YOsOmBCs"
+          "name": "OMAY",
+          "url": "https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g"
         },
         {
-          "name": "ZARAMAY",
-          "url": "https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff"
-        },
-        {
-          "name": "Team Mati",
-          "url": "https://open.spotify.com/artist/6QkRTiYDDBNkxcvnxaeAd2"
+          "name": "SokeThugPro",
+          "url": "https://open.spotify.com/artist/44nEKYuxqc1juQ79QsVOl0"
         }
       ],
-      "duration_ms": 297073,
-      "name": "Tanto Fronteo",
-      "url": "https://open.spotify.com/track/4tsB6dDW31Okuqumrmyvbk"
+      "duration_ms": 181894,
+      "name": "PERREANDO CON ALGUIEN QUE NO ME GUSTA",
+      "url": "https://open.spotify.com/track/44WdAGGZvWjJsPg2mZF9oN"
     },
     {
       "added_at": "2025-09-18 23:00:14",
@@ -1039,22 +1035,26 @@
     {
       "added_at": "2025-09-18 23:00:14",
       "album": {
-        "name": "PERREANDO CON ALGUIEN QUE NO ME GUSTA",
-        "url": "https://open.spotify.com/album/2ngsJuhJRJQDW3BXt0B2OX"
+        "name": "Tanto Fronteo",
+        "url": "https://open.spotify.com/album/27PL5DSMr3hRU6TOYeQFKp"
       },
       "artists": [
         {
-          "name": "OMAY",
-          "url": "https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g"
+          "name": "King Goyi",
+          "url": "https://open.spotify.com/artist/3IABS6mmasQ8f1YOsOmBCs"
         },
         {
-          "name": "SokeThugPro",
-          "url": "https://open.spotify.com/artist/44nEKYuxqc1juQ79QsVOl0"
+          "name": "ZARAMAY",
+          "url": "https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff"
+        },
+        {
+          "name": "Team Mati",
+          "url": "https://open.spotify.com/artist/6QkRTiYDDBNkxcvnxaeAd2"
         }
       ],
-      "duration_ms": 181894,
-      "name": "PERREANDO CON ALGUIEN QUE NO ME GUSTA",
-      "url": "https://open.spotify.com/track/44WdAGGZvWjJsPg2mZF9oN"
+      "duration_ms": 297073,
+      "name": "Tanto Fronteo",
+      "url": "https://open.spotify.com/track/4tsB6dDW31Okuqumrmyvbk"
     },
     {
       "added_at": "2025-09-18 23:00:14",

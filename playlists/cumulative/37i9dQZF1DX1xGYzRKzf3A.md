@@ -4,7 +4,7 @@
 
 > Tierra linda que siempre sueño, y que muy dentro llevo\. Ciudad de Monterrey ♥️
 
-403 songs - 23 hr 33 min
+404 songs - 23 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,13 +12,14 @@
 | ["El Tano Pastita" Adaptación: Con Bombo Y Banderas](https://open.spotify.com/track/0DWzaEMrsP1YdeQrcn5rp3) | [Celso Piña](https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi), [La Adiccion](https://open.spotify.com/artist/78FYpJbEc7ptQHEsdovXj3) | [Rayados Es Pasión En La Vida Y En La Cancha](https://open.spotify.com/album/7vVE5vmZXH5qUuzYClEsUC) | 3:04 | 2025-06-17 | 2025-11-10 |
 | [16 Toneladas \- Radio Edit](https://open.spotify.com/track/1PyKQCH6KRFw55dYeWXB80) | [APV Passion Vallenata](https://open.spotify.com/artist/1GFNcjJzY32ZVEeP3gyu9X) | [16 Toneladas \(Radio Edit\)](https://open.spotify.com/album/5A0kulglTtKewmTdqYYpAc) | 4:30 | 2023-06-16 | 2025-09-13 |
 | [20 años](https://open.spotify.com/track/27sE27R2IzI7BR65DRK6tQ) | [Paco Silva y su Tropa Colombiana](https://open.spotify.com/artist/2KXm36N0I8a4GOb6XvPCUE) | [Me Voy Pa'Chiriguaná \(Incluye el Éxito 20 Años\)](https://open.spotify.com/album/3aOD0U6WWViN8XoLqaWJwx) | 3:45 | 2023-06-16 | 2025-06-18 |
+| [24/7](https://open.spotify.com/track/4K4ks2NpTorYdGIitosc5U) | [EVÍC](https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [24/7](https://open.spotify.com/album/4spOiFzbH5Q2ORqtPcREG5) | 3:04 | 2025-11-09 |  |
 | [99,99%](https://open.spotify.com/track/1YsHWGRvwLhJZ3wJgx9JrB) | [El Riqué](https://open.spotify.com/artist/5LxT7DrG2qyNr8YYC3RMEG) | [Scratch De Versos](https://open.spotify.com/album/7sRbfBmwb0jFdmyUJEJh28) | 4:19 | 2025-11-09 |  |
 | [A Ella](https://open.spotify.com/track/6xIiVGZs194HCa9wTVHRys) | [El Poder Del Norte](https://open.spotify.com/artist/4E9GScOUpq8PgyRhItXx7x) | [A Ellas](https://open.spotify.com/album/0CwYtDDWOYWvrMXN1GWg8u) | 3:46 | 2023-06-16 | 2025-11-10 |
 | [A La PM Puse En Alto](https://open.spotify.com/track/6SxEw6xmkOhO2BgF6fnm0K) | [Doble ONE Flow Letal](https://open.spotify.com/artist/25OaNybC8G6g5KkAmthQtX) | [A La PM Puse En Alto](https://open.spotify.com/album/7JMd6WQhu41hgPGNsktSax) | 4:21 | 2025-11-09 |  |
 | [A Mí Me Gustas Tú](https://open.spotify.com/track/1EaKvr4fXEolYtb37KLrE5) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo), [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq), [Oscar Iván Trevíno](https://open.spotify.com/artist/5pPdYQPzWpb1XnsNqE6OOz) | [Se Alinearon Los Planetas](https://open.spotify.com/album/0cYR192hnEFfTCjfqAnigQ) | 3:08 | 2025-11-09 |  |
 | [A Mí, ¿Qué Me Quedó?](https://open.spotify.com/track/0b72rOmkspR8dJHsUjaVi4) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Vuelvo Contigo](https://open.spotify.com/album/3Bqrpyh09jij3b2SiqzQlU) | 2:41 | 2023-06-16 | 2025-11-10 |
 | [A Pesar De Todo](https://open.spotify.com/track/6PJlqc0VY2xHVRpdG64O09) | [La Combinación Vallenata](https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya), [Alex Manga](https://open.spotify.com/artist/7nCFUyJyEVRBo3ZXVdocyZ), [Morre Romero](https://open.spotify.com/artist/0fSDiwBFm3ePcnzxZgx4zX) | [La Combinacion Vallenata](https://open.spotify.com/album/4BlePk43SPyN7SXY7YyWeU) | 4:32 | 2023-06-16 | 2025-11-10 |
-| [A Usted Que Le Importa Ft Millonario](https://open.spotify.com/track/1b0oL0GJWyv8mqg1w2UYmS) | [Richard Ahumada](https://open.spotify.com/artist/4oR06FdpsOJTcTnOkSzUsC), [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD) | [La Voz del Barrio](https://open.spotify.com/album/3E0HWJaxNI0XubfkOqik0Y) | 4:08 | 2025-11-09 |  |
+| [A Usted Que Le Importa Ft Millonario](https://open.spotify.com/track/1b0oL0GJWyv8mqg1w2UYmS) | [Richard Ahumada](https://open.spotify.com/artist/4oR06FdpsOJTcTnOkSzUsC), [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD) | [La Voz del Barrio](https://open.spotify.com/album/3E0HWJaxNI0XubfkOqik0Y) | 4:08 | 2025-11-09 | 2025-12-28 |
 | [A Ver Si Capea](https://open.spotify.com/track/1seRvngYgRfDeCbIkJOMQK) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [21 Black Jack](https://open.spotify.com/album/5ZyR9EAtVpj70b11dZYmNC) | 3:11 | 2023-06-16 | 2024-11-07 |
 | [Acábame de Matar](https://open.spotify.com/track/5VXLuJ4E1FqtAAWLvnpMzV) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Panteón Rococó](https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg) | 3:00 | 2025-06-17 | 2025-11-10 |
 | [Adios](https://open.spotify.com/track/6fkxCIVDhGYuQfZO6f4PtW) | [La Marlu](https://open.spotify.com/artist/6jE6nnMPk3FSA9RBHxYks3) | [Adios](https://open.spotify.com/album/7tgREtNFckExy20QnRUJpF) | 3:24 | 2025-11-09 |  |

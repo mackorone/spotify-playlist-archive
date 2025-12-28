@@ -4,7 +4,7 @@
 
 > Hottest Anime hits & best new tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-2,320 songs - 5 day 23 hr 45 min
+2,322 songs - 5 day 23 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1062,7 +1062,7 @@
 | [Star Parade](https://open.spotify.com/track/3HJ4LKYkpkwChkLicMLu4M) | [UniteUp!](https://open.spotify.com/artist/21CL9McUjHLfV1g3rJKeBo), [PROTOSTAR](https://open.spotify.com/artist/0ORPjKIVWn5h1T52foPAN1) | [Star Parade](https://open.spotify.com/album/1S6Hu4rVelpdgfAJfbevZF) | 3:35 | 2025-01-11 | 2025-04-16 |
 | [STARDOM GENIUS](https://open.spotify.com/track/6mBH6N3ig6q1mrRk8n6M7D) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH), [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH), [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU), [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [アイドリッシュセブン 10th Anniversary Album "CARILLON" \-IDOLiSH7 & TRIGGER & Re:vale & ŹOOĻ\-](https://open.spotify.com/album/4C6Aj2nN8C1Q5VstUeOs4y) | 3:37 | 2025-11-18 | 2025-12-10 |
 | [Stardust Memory](https://open.spotify.com/track/2Cmm1iDA7AbfLR1UF6ulR9) | [川崎鷹也](https://open.spotify.com/artist/3BjFX1nExMNHvSaoLd1I1k) | [Stardust Memory](https://open.spotify.com/album/69GGDQfXCATix3I6s7bNYo) | 3:21 | 2024-04-02 | 2024-07-06 |
-| [Stare In Wonder](https://open.spotify.com/track/2STK9x4KfYyeC82zsdJ2WM) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Stare In Wonder](https://open.spotify.com/album/34Y0UOwoUZNrGlafpg7d4D) | 3:17 | 2025-10-05 |  |
+| [Stare In Wonder](https://open.spotify.com/track/2STK9x4KfYyeC82zsdJ2WM) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Stare In Wonder](https://open.spotify.com/album/34Y0UOwoUZNrGlafpg7d4D) | 3:17 | 2025-10-05 | 2025-12-28 |
 | [Starry Garden](https://open.spotify.com/track/7nHvVlz4A5aO8hSLLWJrHk) | [Nanaka Suwa](https://open.spotify.com/artist/2Rpn2JNSFaoyhgEj3H9dVO) | [Starry Garden](https://open.spotify.com/album/4f9OsZlfycCAYBVXY2FCog) | 4:02 | 2023-05-09 | 2023-06-14 |
 | [Starry\-eyed Chronicle](https://open.spotify.com/track/5KQ2PPh2ZY6WRMBur4Uvk7) | [Kaori Ishihara](https://open.spotify.com/artist/0iozpQbR93p8mOSDrevajw) | [Starry\-eyed Chronicle](https://open.spotify.com/album/5Pxpgyy9CDEw3zwNwmQxRo) | 4:01 | 2022-07-28 | 2022-10-07 |
 | [STARS](https://open.spotify.com/track/0mMikRupn84z6woeMHccz1) | [w.o.d.](https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO) | [STARS](https://open.spotify.com/album/758HaOSUUneTb9qVyurf3x) | 3:33 | 2023-07-09 | 2023-10-06 |
@@ -1158,6 +1158,7 @@
 | [ties](https://open.spotify.com/track/6NRH4SrOxLsw9tcUy6CcG4) | [野田愛実](https://open.spotify.com/artist/3B94FuZdngvnr2LrwDxLk7) | [ties](https://open.spotify.com/album/1q6HspP5fyftaSF8rE0oKY) | 4:06 | 2024-10-15 | 2025-01-08 |
 | [TKGシンドローム](https://open.spotify.com/track/0icpQ05PDxKqNPEIn9PTPN) | [金子みゆ](https://open.spotify.com/artist/0Iab9IqgQQIZab2HPPQuc1) | [TKGシンドローム](https://open.spotify.com/album/3aDYDc5gYqoot2Ew1FuXtO) | 2:52 | 2024-07-05 | 2024-07-31 |
 | [Todome no ichigeki \(feat\. Cory Wong\)](https://open.spotify.com/track/7AObB1OaxymMYQ2pTmFV0f) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU) | [Todome no ichigeki \(feat\. Cory Wong\)](https://open.spotify.com/album/6BOkaOo3G5lmEsWYOqNdLK) | 5:10 | 2023-10-07 | 2023-11-18 |
+| [Tokei](https://open.spotify.com/track/3kEvtzKpxW6LlwwyG8f8BE) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [Tokei](https://open.spotify.com/album/1WbMoAGnRkZ3MZ4y00n03o) | 5:32 | 2025-12-27 |  |
 | [TOMBI](https://open.spotify.com/track/7nnACrn6f6JsKskLYKq1Cl) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs) | [TOMBI](https://open.spotify.com/album/1rl1ocAMAPeMfHuFpZj9vF) | 3:26 | 2023-01-05 | 2023-04-26 |
 | [Tomorrow's Door](https://open.spotify.com/track/71QIULlehYxfPrpeKtU9Ac) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [POPIGENIC](https://open.spotify.com/album/4J0ob8cyT5lF023GxAnVF4) | 4:07 | 2025-02-25 | 2025-04-04 |
 | [TONARIAWASE](https://open.spotify.com/track/4Ax5Peg1P212qIfroqv4gn) | [和田と山本（CV.宮崎ヒヨリ・青山吉能）](https://open.spotify.com/artist/4nG1QtFqLfcJ3i3cGyMhcV) | [ENDING THEME FROM TV SERIES "SEE YOU TOMORROW AT THE FOOD COURT"](https://open.spotify.com/album/6aV6H34taAYX43SW3yUBee) | 3:25 | 2025-07-08 | 2025-07-16 |
@@ -1449,6 +1450,7 @@
 | [ふたつのことば](https://open.spotify.com/track/5JjSALkZI3GbVsxtGXXU2B) | [MADKID](https://open.spotify.com/artist/1tofuk7dTZwb6ZKsr7XRKB) | [ふたつのことば](https://open.spotify.com/album/2GeTpFQoi0mTVXggasnAal) | 3:59 | 2024-04-14 | 2024-04-24 |
 | [ふたりじめ](https://open.spotify.com/track/4ZbVwJbpYar8i92dMtcE2R) | [pachae](https://open.spotify.com/artist/7lqLvJ6yvMDwu307APLILI) | [ふたりじめ](https://open.spotify.com/album/5XDbT8mrABEnxvjzZuy1vG) | 4:24 | 2025-01-14 | 2025-03-28 |
 | [ふたりピノキオ](https://open.spotify.com/track/0dJxpvpyvzKFhCJQTBFPXl) | [harmoe](https://open.spotify.com/artist/4wegqzSv4E67Hjwsu0kpHt) | [ふたりピノキオ](https://open.spotify.com/album/1Dcj7qqMLo1xYPYLpHVqbI) | 3:42 | 2022-07-14 | 2022-07-29 |
+| [ふめつのあなた](https://open.spotify.com/track/1jf4TZZyavDuL11sK5UdBY) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [ふめつのあなた](https://open.spotify.com/album/5DmARS0mkQCU0zgMy4klEq) | 2:30 | 2025-12-27 |  |
 | [へび](https://open.spotify.com/track/7pk2Mx1LnlaEpxfzNhgRuz) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [へび](https://open.spotify.com/album/2G3fFSzVxuYaLpK35fXkPB) | 4:15 | 2025-01-20 | 2025-04-11 |
 | [ぼくのベガ](https://open.spotify.com/track/5dwCKq8kPkHFJqirFDW86x) | [Regallily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [ぼくのベガ](https://open.spotify.com/album/17uwafUZxHryGDgUoNgn4x) | 3:32 | 2025-07-01 | 2025-09-17 |
 | [またたく宇宙（ソラ）に憧れて](https://open.spotify.com/track/4vutL5MOKfY8KTXXMmrsVB) | [フランシュシュ](https://open.spotify.com/artist/3e5UhgPOmfiH3K0gTSdRUJ) | [ゾンビランドサガ ゆめぎんがパラダイス フランシュシュ The Best Paradise](https://open.spotify.com/album/1k0m2BAv3UyuhSZp1yV8T1) | 4:58 | 2025-10-28 | 2025-11-21 |
@@ -2231,7 +2233,7 @@
 | [衝天](https://open.spotify.com/track/2q8MqgPevufTYXjFamHIuw) | [Amamiya Sora](https://open.spotify.com/artist/0RLTJBHe0jhxEVsYMVCMz0) | [衝天](https://open.spotify.com/album/42tl64WVINS2Gj6bHBMMIc) | 4:17 | 2024-01-09 | 2024-03-27 |
 | [表情差分](https://open.spotify.com/track/4LO8CQz1adoWx0BbXopJb8) | [DUSTCELL](https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B) | [表情差分](https://open.spotify.com/album/2Y7SRpiQObxi8VlGjHACTe) | 3:26 | 2024-10-08 | 2025-01-08 |
 | [裸でどつきあい feat\. May'n](https://open.spotify.com/track/11frN4NpnfTDk0ek3Pul12) | [SEAMO](https://open.spotify.com/artist/1txC4MvuCHFRrtRiy4cwnR), [May'n](https://open.spotify.com/artist/0JQH8OHvGdooprROP18Wg6) | [裸でどつきあい feat\. May'n](https://open.spotify.com/album/0qsyMZoGCf01DNSMeQXane) | 3:58 | 2025-07-08 | 2025-10-03 |
-| [見て](https://open.spotify.com/track/4x32ny8bBGnLZwmKYvkXHX) | [初星学園](https://open.spotify.com/artist/4C9binD0PqNg8nLD93FQpr), [kamome sano](https://open.spotify.com/artist/0XraR5DqW6Vpp86omsB88K), [有村麻央](https://open.spotify.com/artist/5BAKveSLkmyXPCIkpj1Fk8) | [見て](https://open.spotify.com/album/7HXoAbX0QwDE5PwJ41qx0s) | 5:03 | 2025-11-04 |  |
+| [見て](https://open.spotify.com/track/4x32ny8bBGnLZwmKYvkXHX) | [初星学園](https://open.spotify.com/artist/4C9binD0PqNg8nLD93FQpr), [kamome sano](https://open.spotify.com/artist/0XraR5DqW6Vpp86omsB88K), [有村麻央](https://open.spotify.com/artist/5BAKveSLkmyXPCIkpj1Fk8) | [見て](https://open.spotify.com/album/7HXoAbX0QwDE5PwJ41qx0s) | 5:03 | 2025-11-04 | 2025-12-28 |
 | [見参!革ブロ☆ふぉーえばー](https://open.spotify.com/track/0aaftBdMefQLdsDUAt5OOa) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [SUMIRE CATALOG](https://open.spotify.com/album/5akD8SyQWPNIgpm4l5suaC) | 3:34 | 2024-07-23 | 2024-09-11 |
 | [視界の隅 朽ちる音 \- 新川崎（仮）](https://open.spotify.com/track/6MbAKUA4XvXmh4ngCHyqV9) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [視界の隅 朽ちる音 \(新川崎（仮）\)](https://open.spotify.com/album/3Ftd6zTVGVTIeIzsh3SUqs) | 3:08 | 2024-05-09 | 2024-05-29 |
 | [解放](https://open.spotify.com/track/7HBFH10xGwKgoOVrNVtxyA) | [Nagisa Aoyama](https://open.spotify.com/artist/2A6FnpmlkgqdF6XQztRuhA) | [解放](https://open.spotify.com/album/1WwXuhsZ8NEAVP8WeIM8KV) | 3:54 | 2024-10-15 | 2024-11-13 |

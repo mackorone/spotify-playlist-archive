@@ -2039,6 +2039,24 @@
     },
     {
       "album": {
+        "name": "Hidden Trees",
+        "url": "https://open.spotify.com/album/6QIi1rJNZqhG58JorCQNZG"
+      },
+      "artists": [
+        {
+          "name": "Calmative",
+          "url": "https://open.spotify.com/artist/4jdsVahXLyNHILghPDbeQt"
+        }
+      ],
+      "date_added": "2025-12-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176400,
+      "name": "Hidden Trees",
+      "url": "https://open.spotify.com/track/2GLVEiLymzuOsa1aNrR3bk"
+    },
+    {
+      "album": {
         "name": "Hidden Valley",
         "url": "https://open.spotify.com/album/4Ob4bAUAuYhWCofsKg0vJc"
       },
@@ -4354,7 +4372,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-28",
       "duration_ms": 134606,
       "name": "The Golden Path",
       "url": "https://open.spotify.com/track/1n6RWCdlR1noijUCeoU1bn"

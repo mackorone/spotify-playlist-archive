@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCnTAt8CfNe.md) - [plain]
 
 > Soothe your mind with gentle instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 571,113 likes - 161 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 571,181 likes - 161 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -170,4 +170,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCnTAt8CfNe.md) - [plain]
 | 160 | [Visiting with the Stars](https://open.spotify.com/track/398Cihpr7CHm8zWqcWGiMt) | [Astral Lighthouse](https://open.spotify.com/artist/3jbqBkSBvcmQKkQxavE1Ym) | [Visiting with the Stars](https://open.spotify.com/album/2nivBPxt6RcK7y9xfBJFo3) | 3:47 |
 | 161 | [Higher Peace](https://open.spotify.com/track/3GYRuKfzGkYko5nOkZObCt) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud) | [Higher Peace](https://open.spotify.com/album/1LRQNeQLGJgGq2rDfA6qUz) | 3:28 |
 
-Snapshot ID: `AAAAABUrST32tluqVmNMt2+XEq+DKM/O`
+Snapshot ID: `AAAAAHdJADh6E4HYUbCW6UcJ6snUOZrc`

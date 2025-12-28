@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcv6uiiM3OQq.md) - [plain]
 
 > Enjoy the Jay Park  WORLD TOUR \[Serenades & Body Rolls\] LIVE SET including the voices of them on stage! \(박재범의 무대 멘트와 목소리가 포함된 \[Serenades & Body Rolls\] 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,037 likes - 44 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,036 likes - 44 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

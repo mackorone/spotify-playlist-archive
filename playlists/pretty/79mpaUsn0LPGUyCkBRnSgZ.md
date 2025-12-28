@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 635 songs - 1 day 17 hr 20 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 637 songs - 1 day 17 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -643,5 +643,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 633 | [Drinking Song](https://open.spotify.com/track/0QrxeCKmq1qHJSqysK5rdD) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [Fish Eyes EP](https://open.spotify.com/album/0AJs8uGiBASbgSV5t34yhp) | 3:14 |
 | 634 | [INTRO](https://open.spotify.com/track/20wAl6YDZH9UH9Ld6qDXn1) | [3ee](https://open.spotify.com/artist/0MOQB6FzT4cx60yzXhtj9h) | [LUVSNGS](https://open.spotify.com/album/7gBmFzv4mHvbc5w5JsrEZ8) | 0:28 |
 | 635 | [It Never Happened](https://open.spotify.com/track/0KcdT1eZcoT9keTV397Yu8) | [Bobbing](https://open.spotify.com/artist/0hyUSoWsUbtXhzmY2JWObX) | [Year of the Newt](https://open.spotify.com/album/75qAoON3tKG7AMtpCQheE4) | 2:31 |
+| 636 | [Parapet](https://open.spotify.com/track/1UtoWvSd1GdKLk5mbsbTIh) | [@](https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3) | [Mind Palace Music](https://open.spotify.com/album/7h3MMJMKzY03w8VVYgrYWr) | 1:30 |
+| 637 | [Burning Bush](https://open.spotify.com/track/5oJMhdvIeFNF8dSFHm3K1P) | [E.R\. Visit](https://open.spotify.com/artist/3slFJFGiypL8bx2s14hzBC) | [my children will ignore you, my children will type amen](https://open.spotify.com/album/0LcXQTwXLJKizoMzyT8qak) | 1:48 |
 
-Snapshot ID: `AAAIMj0EaYJd6y5JjkV7obA9IDQmALy/`
+Snapshot ID: `AAAINPZYUOYpOkV2BOBfun15DJHCHTCX`

@@ -139,22 +139,6 @@
     {
       "added_at": "2025-12-19 00:00:33",
       "album": {
-        "name": "Out Loud",
-        "url": "https://open.spotify.com/album/6vBOHUOIU2afUDNUclZGv1"
-      },
-      "artists": [
-        {
-          "name": "Peach PRC",
-          "url": "https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS"
-        }
-      ],
-      "duration_ms": 237892,
-      "name": "Out Loud",
-      "url": "https://open.spotify.com/track/5hFuniY7DXZ0tWfzhmAoTB"
-    },
-    {
-      "added_at": "2025-12-19 00:00:33",
-      "album": {
         "name": "Peaches",
         "url": "https://open.spotify.com/album/7BAnIgUIa3p2h2IXRnA8xB"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 147243,
       "name": "Peaches",
       "url": "https://open.spotify.com/track/4v6YvJeJ8D4tjgq9EGPUSy"
+    },
+    {
+      "added_at": "2025-12-19 00:00:33",
+      "album": {
+        "name": "Out Loud",
+        "url": "https://open.spotify.com/album/6vBOHUOIU2afUDNUclZGv1"
+      },
+      "artists": [
+        {
+          "name": "Peach PRC",
+          "url": "https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS"
+        }
+      ],
+      "duration_ms": 237892,
+      "name": "Out Loud",
+      "url": "https://open.spotify.com/track/5hFuniY7DXZ0tWfzhmAoTB"
     },
     {
       "added_at": "2025-12-19 00:00:33",

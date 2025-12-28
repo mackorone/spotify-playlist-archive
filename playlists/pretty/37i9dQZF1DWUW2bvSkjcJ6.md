@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von ZAH1DE, LACAZETTE, Anyma und mehr.
 
-[Spotify](https://open.spotify.com/user/spotify) - 898,142 likes - 55 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 898,156 likes - 55 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 54 | [With or Without Her](https://open.spotify.com/track/1uqpfYvgmiBbmEFeknLkxm) | [Conor Burns](https://open.spotify.com/artist/2ZoDOJ7d8rchLJwYU42x2J) | [With or Without Her](https://open.spotify.com/album/1MsL1dBi7QIaPbmN9md0wA) | 3:55 |
 | 55 | [WHERE U ARE](https://open.spotify.com/track/0aztQxrrQdiD57rkYPcksn) | [ARRIE](https://open.spotify.com/artist/37D1KGtq2dx0DEzDJZjJ6A) | [WHERE U ARE](https://open.spotify.com/album/0YiaExdPkAlxnNxNo4guDY) | 2:17 |
 
-Snapshot ID: `AAAAACByPI3gd8LtZUv1EzMxXawoHYUx`
+Snapshot ID: `AAAAAKWvKQSUe4TITyBW+6VG1peHnrXa`

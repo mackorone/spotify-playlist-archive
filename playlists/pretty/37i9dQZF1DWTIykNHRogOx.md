@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 
 > Les  meilleures nouveautés de la chanson française avec Vanessa Paradis
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,985 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,989 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 | 49 | [Ma maison](https://open.spotify.com/track/6OvoSnPWS3rABAurxz3mp3) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [Ma maison](https://open.spotify.com/album/62hNv6Bgy9ssohDDn5a14W) | 3:04 |
 | 50 | [Les passantes](https://open.spotify.com/track/7ufept0ukHRMT9GgkSJHHc) | [Benjamin Biolay](https://open.spotify.com/artist/26Kq9bSJsElA93PflKEB1A) | [Les passantes](https://open.spotify.com/album/0tegNRs9PvlCSlbLQHD4kg) | 3:02 |
 
-Snapshot ID: `AAAAAAdT6/TQ/oR2t9BrXXBCdHQQQxqG`
+Snapshot ID: `AAAAAGkVXJbwN8PFuoKoSDI/H2iorctf`

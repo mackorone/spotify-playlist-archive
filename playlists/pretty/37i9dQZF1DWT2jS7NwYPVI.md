@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your cheat sheet for all that's on the rise in rock/alt \| Cover: Fai Laci
 
-[Spotify](https://open.spotify.com/user/spotify) - 467,701 likes - 126 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 467,681 likes - 126 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

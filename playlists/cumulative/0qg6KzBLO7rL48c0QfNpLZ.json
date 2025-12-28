@@ -5415,6 +5415,28 @@
     },
     {
       "album": {
+        "name": "Dancing On My Own",
+        "url": "https://open.spotify.com/album/2zpJk6wCF36bOgerQup151"
+      },
+      "artists": [
+        {
+          "name": "Summer Dusk",
+          "url": "https://open.spotify.com/artist/21Nw1hStsfi6uDLK6WGzm3"
+        },
+        {
+          "name": "Robbie Hutton",
+          "url": "https://open.spotify.com/artist/05qvZreQgj82j4gXKT6K0T"
+        }
+      ],
+      "date_added": "2025-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160730,
+      "name": "Dancing On My Own",
+      "url": "https://open.spotify.com/track/1EBfR3oLOTPFPEacUfdc6N"
+    },
+    {
+      "album": {
         "name": "Dandelion",
         "url": "https://open.spotify.com/album/4znboEW2vafDhiDhjc8RcQ"
       },
@@ -28248,6 +28270,28 @@
       "duration_ms": 188040,
       "name": "YOU & I",
       "url": "https://open.spotify.com/track/6nPh3Cn9n4JR1ywTVGM720"
+    },
+    {
+      "album": {
+        "name": "You & Me",
+        "url": "https://open.spotify.com/album/5qjXBoe1OYgccBhXUj8Ua7"
+      },
+      "artists": [
+        {
+          "name": "LVNDS",
+          "url": "https://open.spotify.com/artist/5SaQ29VtpoxNKFZZt4D3DT"
+        },
+        {
+          "name": "Bjerke",
+          "url": "https://open.spotify.com/artist/3I2Ac6BV9dfdOAVjFmWIGX"
+        }
+      ],
+      "date_added": "2025-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "You & Me",
+      "url": "https://open.spotify.com/track/5dS09h02Vx8zFZ7Re1x3F2"
     },
     {
       "album": {

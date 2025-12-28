@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ⚡️ qui un sacco di musica giovane ⚡️ Cover: Bresh
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,702 likes - 105 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,673 likes - 105 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 104 | [VIVERE DA MORIRE](https://open.spotify.com/track/4SCaKjetY8a4MXAYgcBt4p) | [Petit](https://open.spotify.com/artist/2miA8jrhyRoCHvWdsrPQde) | [VIVERE DA MORIRE](https://open.spotify.com/album/7lPpMARSLUXlphZUekiVAf) | 2:48 |
 | 105 | [Depresso fortunato](https://open.spotify.com/track/6vbU5lktjuswHhG8ToyljZ) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Depresso fortunato](https://open.spotify.com/album/4O33rZCN4BI8kTcGeGKjWD) | 3:32 |
 
-Snapshot ID: `AAAAAC+zdlE6wB0vXqGGZF+xATPqvmLw`
+Snapshot ID: `AAAAACv3vCvCQAw/AmWQKlpeZ2l03Ii2`

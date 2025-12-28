@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > Rock songs you need to know\. Turn it  ⬆️ Cover: The Pretty Reckless
 
-[Spotify](https://open.spotify.com/user/spotify) - 952,353 likes - 80 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 952,422 likes - 80 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 79 | [Pull Like a Dog](https://open.spotify.com/track/70zu9D0jl2JivONuazwrcM) | [The Scratch](https://open.spotify.com/artist/6BCpGC485tSshwjemmeAmd) | [Pull Like a Dog](https://open.spotify.com/album/5dkb8Ecc4DNu2t7grbU6di) | 3:09 |
 | 80 | [Freakshow](https://open.spotify.com/track/5fJzd6nziOPpfyMJti37SI) | [White Reaper](https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF) | [Only Slightly Empty](https://open.spotify.com/album/095PeO7jjMoZrvtUFkVeGW) | 2:57 |
 
-Snapshot ID: `AAAAAOzz4IqvEcBCP++GKd9NhLvL18W/`
+Snapshot ID: `AAAAAHkPTx34DOEoutVPVWVvApF7QMu2`

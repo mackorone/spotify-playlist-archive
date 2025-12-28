@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 
 > Wet Leg along with the hottest alternative songs right now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 617,353 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 617,415 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 | 74 | [You've Got My Number](https://open.spotify.com/track/5VJS4UH2VccJoUgc9bsIPW) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [RUDE](https://open.spotify.com/album/07aVgAaXvYBOPFY0kWX6HK) | 3:50 |
 | 75 | [Afterthought](https://open.spotify.com/track/4JJHiKWbbw9i7VYCBmHl8M) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [Afterthought](https://open.spotify.com/album/27ii2TOEqyRid43g7rnu3X) | 4:20 |
 
-Snapshot ID: `AAAAAD4nVqMu/8Cbt3swlpYAQf70dAO5`
+Snapshot ID: `AAAAAEILqEgMS6jtpygTnrjoVCIu15yb`

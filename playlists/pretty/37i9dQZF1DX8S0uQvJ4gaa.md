@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > Break them in, wear them out\. Cover: Kameron Marlowe
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,314,945 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,314,946 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [The Crown](https://open.spotify.com/track/2CskTD2zFiMoQWlcumDQq2) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [The Crown](https://open.spotify.com/album/3nmB3vXMgoMvJLuM4Ixljw) | 3:20 |
 | 100 | [How Much Beer](https://open.spotify.com/track/4lCfLElvRrGN4HVGg2oH5E) | [Drake Milligan](https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR), [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Tumbleweed](https://open.spotify.com/album/2ekPtfEo5Pno1k4eiybcty) | 4:34 |
 
-Snapshot ID: `AAAAACLNKz5/VGBTXMHk11p7E0wgCEMH`
+Snapshot ID: `AAAAADq41Y1hSGAOiHGZwP7liAn7YyB7`

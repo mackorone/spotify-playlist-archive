@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 
 > la nueva ola de artistas con Nash en portada\. 🌊✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,045 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,040 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 49 | [Musas en Mi](https://open.spotify.com/track/2z5Lw3cfLUpfXJymwKH6An) | [Arath Herce](https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs) | [Musas en Mi](https://open.spotify.com/album/4DpsoTA4hQJ3C92jvokX1s) | 5:34 |
 | 50 | [Un buen día](https://open.spotify.com/track/0ptkjH0iMlPVwkOleKUR5U) | [Wuicho kun](https://open.spotify.com/artist/5WXiEvcwEw6bgiPBg7Eo2E) | [Un buen día](https://open.spotify.com/album/0TMrSx0D2v9ntzdb5dl6Su) | 3:26 |
 
-Snapshot ID: `AAAAAIAzLS82VOQG6YJERzQ4q9sR7lp/`
+Snapshot ID: `AAAAAC27rdHNAYatXVzvHReJE3GhSXcW`

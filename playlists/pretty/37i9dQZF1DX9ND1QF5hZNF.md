@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 
 > Evadez\-vous tout en douceur...
 
-[Spotify](https://open.spotify.com/user/spotify) - 745,740 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 745,744 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ND1QF5hZNF.md) - [plain]
 | 59 | [It's Alright](https://open.spotify.com/track/6fvD2Rlml96iOUjmgoiIn4) | [MR TOUT LE MONDE](https://open.spotify.com/artist/4MgxKih2gf4BgMkPVOfvrn) | [It's Alright](https://open.spotify.com/album/3EmfZ9O6qP1BNoMVo8ogqn) | 2:42 |
 | 60 | [Regarder la nuit, les étoiles](https://open.spotify.com/track/1Cr1Bp48qrk0lxKxCanrZl) | [Romain Garcia](https://open.spotify.com/artist/7iCW4xyVOIklzZ2qc7pS5h), [Pépite](https://open.spotify.com/artist/0oA0cg7ajEwV0EXKCAlQ63) | [Regarder la nuit](https://open.spotify.com/album/7iYXFhCHpJ0aXQSzcx8aI4) | 3:15 |
 
-Snapshot ID: `AAAAAPFRLM2RXXdnvwxQq6mI/7GPsPiZ`
+Snapshot ID: `AAAAAJRr1hYn7BP78TZh4UP0Z/BW764a`

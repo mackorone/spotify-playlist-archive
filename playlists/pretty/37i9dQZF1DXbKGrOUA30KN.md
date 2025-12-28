@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 
 > Deutschpop, der jetzt passiert\. Cover: LUNA
 
-[Spotify](https://open.spotify.com/user/spotify) - 655,917 likes - 85 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 655,866 likes - 85 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 | 84 | [Wunder geschehen](https://open.spotify.com/track/5qJr02pkHbCEcIv0101e2l) | [Nico Gomez](https://open.spotify.com/artist/0gQm7HDLwdjFHpDwiBMV8c) | [Wunder geschehen](https://open.spotify.com/album/3lucIpPPjeDMSLj27ct8FD) | 2:38 |
 | 85 | [Kirche im Dorf](https://open.spotify.com/track/4BDbZRfPnE3tYFD5MGFLbQ) | [Luisa Lou](https://open.spotify.com/artist/5bDFLmwxBPAMKCUOx0QlsW) | [Kirche im Dorf](https://open.spotify.com/album/3LFrLwQoU0wWUILZrOxYLh) | 2:35 |
 
-Snapshot ID: `AAAAAMEwxNXPJK1Jyt8dA2K65vxmux1s`
+Snapshot ID: `AAAAAC0c0V9zdX4068Nl7s2jPd5ME4bb`

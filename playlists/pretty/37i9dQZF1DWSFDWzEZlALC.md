@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: BRUCKNER
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,976 likes - 75 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,942 likes - 75 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [der Himmel brennt in Europa](https://open.spotify.com/track/2RM2M3AkjvIe0izpUtr9Nu) | [Cordoba78](https://open.spotify.com/artist/2GNQkf6PWF0octGR2XzpQt) | [der Himmel brennt in Europa](https://open.spotify.com/album/2dgUHjDyAfMJwCguOmg74X) | 3:25 |
 | 75 | [Kleiner Herbst](https://open.spotify.com/track/3M4X1K2aZlY43ahioolPkV) | [Felix Herbst](https://open.spotify.com/artist/5FjvjkbSAOddYcOeOvZh2d) | [Anlehnen](https://open.spotify.com/album/6aMShdKE0qI3uvTvqwljpL) | 2:11 |
 
-Snapshot ID: `AAAAAJEqRUuIwVUtlezZdMQnJ0/690QJ`
+Snapshot ID: `AAAAAAf9dt3sfIf/ehjt1T1I7X5HndGI`

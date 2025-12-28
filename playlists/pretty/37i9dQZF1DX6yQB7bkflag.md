@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Timethai, BamBam
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,029 likes - 134 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,026 likes - 134 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,4 +143,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 133 | [if you don't love me](https://open.spotify.com/track/2YfFvs79Ho9JpW4zKkUglB) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [if you don't love me](https://open.spotify.com/album/0T4jDRsLvx2ZSsquuuvyUS) | 2:57 |
 | 134 | [Sweet Tooth](https://open.spotify.com/track/4255eE0aWSyfbIWTpIE1qu) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [FLAMES](https://open.spotify.com/album/42s2X3WQppxdHafUT2dfmF) | 3:00 |
 
-Snapshot ID: `AAAAALhgZGOsoFzejF3XCowoIiECMxf7`
+Snapshot ID: `AAAAAAD+GVsYOBwzBFqjGIjE9ADWYDZ6`

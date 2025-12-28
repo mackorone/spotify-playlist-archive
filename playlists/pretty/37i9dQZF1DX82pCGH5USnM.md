@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82pCGH5USnM.md) - [plain]
 
 > Soft house music for your laidback moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,390,433 likes - 218 songs - 9 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,390,694 likes - 218 songs - 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -227,4 +227,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82pCGH5USnM.md) - [plain]
 | 217 | [Let it go](https://open.spotify.com/track/6n98ksIuCy2xLFjIZwICSw) | [Mechagnome](https://open.spotify.com/artist/13PdnMKcJONs4BQg3b0U5q) | [Let it go](https://open.spotify.com/album/2WTIBzTeNC85d6sxOyQEW2) | 2:21 |
 | 218 | [Peaceful Morning](https://open.spotify.com/track/7boolZ0xriDWqmQiD0xHky) | [kuki](https://open.spotify.com/artist/4rruOFsptZo8QKLFQrRCeV) | [Peaceful Morning](https://open.spotify.com/album/5We72krNoyWNVgh2UbGMHq) | 2:45 |
 
-Snapshot ID: `AAAAAJHZVjUT0/cCbCY56cGg/XNiLu+G`
+Snapshot ID: `AAAAAOL8asF3SgWr2j4KUCu54BYmB1oJ`

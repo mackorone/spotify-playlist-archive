@@ -1,12 +1,12 @@
 {
   "description": "This is Sin\u00e9ad O'Connor. The essential tracks, all in one playlist.",
-  "num_followers": 80379,
+  "num_followers": 80385,
   "original_name": "This Is Sin\u00e9ad O'Connor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUx+gAAAAADu28tXgS2eTb59Pd1H16Mx",
+  "snapshot_id": "aU3QAAAAAACMYpJg5qI0fEtX7gvHW9ra",
   "tracks": [
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thank You for Hearing Me",
-        "url": "https://open.spotify.com/album/1IRGD7Q4rBHAJrWgDwdujG"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 252640,
-      "name": "Streets of London",
-      "url": "https://open.spotify.com/track/2REVdfWC59yWAzWFai0AVg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Captive Original Soundtrack",
         "url": "https://open.spotify.com/album/1QOrpKGCLYMPfXT2mTaEeT"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 267106,
       "name": "Heroine",
       "url": "https://open.spotify.com/track/4i0bvDu2J8KOOxTzPs5qpc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thank You for Hearing Me",
+        "url": "https://open.spotify.com/album/1IRGD7Q4rBHAJrWgDwdujG"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 252640,
+      "name": "Streets of London",
+      "url": "https://open.spotify.com/track/2REVdfWC59yWAzWFai0AVg"
     },
     {
       "added_at": null,

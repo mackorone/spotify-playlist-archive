@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Egypt.
 
-1,126 songs - 2 day 18 hr 21 min
+1,127 songs - 2 day 18 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -396,7 +396,7 @@
 | [Khamsa](https://open.spotify.com/track/13CV3gU68sljNILYjjaIBR) | [Wingii](https://open.spotify.com/artist/3i5MnWpawRCC9SYhLIHP7W), [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX) | [Star](https://open.spotify.com/album/7knqeOrwUe1idz6IZoD2hJ) | 2:18 | 2022-09-17 | 2023-04-27 |
 | [Khatfoony](https://open.spotify.com/track/3ptVro4saZIK2M6J8fIoEg) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M), [Orange](https://open.spotify.com/artist/2xlHEDzOINtGVm6XQ9pn3W), [Jana Diab](https://open.spotify.com/artist/04U5nHCnl5ykOPWVrfHHZq) | [Ebtadena](https://open.spotify.com/album/5HeCKPHYZYu75JKHtzdDRI) | 4:17 | 2025-07-04 | 2025-11-17 |
 | [Khesert El Sha3b](https://open.spotify.com/track/6vplrth0uDitCDNU3oCgcV) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [Khesert El Sha3b](https://open.spotify.com/album/2yrMIQTroHYlQBE6zgS9Z8) | 2:04 | 2025-06-02 | 2025-06-06 |
-| [Khesert Nafsy](https://open.spotify.com/track/2YMImeFQnbWRA9xdyccnkn) | [زاد](https://open.spotify.com/artist/6mPZyiInAlfLGBJbX0echu) | [Khesert Nafsy](https://open.spotify.com/album/3lWlZbeeo03usIi6WeVsFp) | 3:32 | 2025-12-12 |  |
+| [Khesert Nafsy](https://open.spotify.com/track/2YMImeFQnbWRA9xdyccnkn) | [زاد](https://open.spotify.com/artist/6mPZyiInAlfLGBJbX0echu) | [Khesert Nafsy](https://open.spotify.com/album/3lWlZbeeo03usIi6WeVsFp) | 3:32 | 2025-12-12 | 2025-12-28 |
 | [KHOFASH](https://open.spotify.com/track/6nfRulSXumFW1yPsyTmGjD) | [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah) | [MAQSOUM](https://open.spotify.com/album/2EUryjmxx61L08ZLemdYxC) | 3:54 | 2021-12-30 | 2022-01-01 |
 | [Kifek 3A Fra2e](https://open.spotify.com/track/1dDMi1rMxOXGFVDFcF41Ii) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs), [Mohamed Chaker](https://open.spotify.com/artist/6v3svbntXqckH0VLMYNFi0) | [Kifek 3A Fra2e](https://open.spotify.com/album/45QIRHKcKVQxZOa1KB034T) | 3:48 | 2025-07-18 | 2025-08-03 |
 | [Kill Bill](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 2:33 | 2022-12-18 | 2023-04-21 |
@@ -890,6 +890,7 @@
 | [اول قفا يا بروسلي \( خمسه علينا من عينكو \)](https://open.spotify.com/track/75aiWGFwPn6LiYoKJz5H8f) | [Karim Cristiano](https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB), [Eslam Kabounga](https://open.spotify.com/artist/2QMFKxN62QViqFk7ygLAsB) | [اول قفا يا بروسلي \( خمسه علينا من عينكو \)](https://open.spotify.com/album/6W4CGfU1SD5Je1Y8FwOJWa) | 3:06 | 2024-05-25 | 2024-10-08 |
 | [ايوا يا حبيبتي وحشتينى](https://open.spotify.com/track/3uwYsiS1nnYDfVQMBbdX2B) | [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB), [Kalosha](https://open.spotify.com/artist/33bu3ZoO8twryUNoOLuT1S) | [ايوا يا حبيبتي وحشتينى](https://open.spotify.com/album/7iGVlni4ye8mrzeoxXNE8A) | 7:13 | 2023-11-15 | 2024-10-28 |
 | [بأمارة مين](https://open.spotify.com/track/0SbObewB36qKLWcaxMntej) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [بأمارة مين](https://open.spotify.com/album/4yDWyAMP63GXX3SUjjV0Xd) | 3:15 | 2022-10-09 | 2024-03-07 |
+| [باليني](https://open.spotify.com/track/4IfxveU1bKptoIxYbQ2tob) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [Vodafone Music](https://open.spotify.com/artist/5SnDV0R0NybsXoWGd6ueTR), [Ismail Nosrat](https://open.spotify.com/artist/1PZvPgfsfNge3ln8NLjl87) | [باليني](https://open.spotify.com/album/6qGdo87NmiPWP9A1xxQv82) | 3:17 | 2025-12-27 |  |
 | [بانوراما](https://open.spotify.com/track/2PCSAQsUfYMnmWZ4Tmkqme) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb), [Karim Enzo](https://open.spotify.com/artist/4U1hl9bY2xazNNeiU42obk), [Yonyo](https://open.spotify.com/artist/5EGFmTVcpHl9uKZqXBKrH5) | [عقد احتراف](https://open.spotify.com/album/34cUR6XjHpwHswwPq7R9v1) | 5:45 | 2022-07-14 | 2022-07-17 |
 | [بتفتكرني ساعات](https://open.spotify.com/track/225k2VOiES9R9AC0IwVBkb) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [معايا هتبدع](https://open.spotify.com/album/08JBX3tJAbu2ctc7Ui3hXF) | 3:37 | 2025-04-09 | 2025-12-04 |
 | [بتمنى أنساك](https://open.spotify.com/track/0Rv0N34JIc3XGK5x2ohPOG) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [بتمنى أنساك](https://open.spotify.com/album/2qjCon1r5mx9dxpMLwwDuG) | 2:59 | 2025-06-15 | 2025-07-03 |

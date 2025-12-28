@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 
 > Sumérgete en un panorama imaginario de paisajes sonoros atmosféricos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 406,460 likes - 125 songs - 12 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,473 likes - 125 songs - 12 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

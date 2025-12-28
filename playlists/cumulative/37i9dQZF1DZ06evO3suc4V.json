@@ -71,6 +71,24 @@
     },
     {
       "album": {
+        "name": "Bicycle Race",
+        "url": "https://open.spotify.com/album/3YmkB6eb4G3fslN8Q1Z6ls"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "date_added": "2025-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155116,
+      "name": "Bicycle Race",
+      "url": "https://open.spotify.com/track/5t0pSNrxjTnBuy5t2YAXFT"
+    },
+    {
+      "album": {
         "name": "Moon Shoes EP",
         "url": "https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE"
       },

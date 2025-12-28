@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ6NBH5aL6A.md) - [plain]
 
 > From trip\-hop to Copenhagen’s underground, ambient textures to indie twang and the Windmill scene — explore the 5 scenes shaping indie now\.   Cover: After
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,846 likes - 75 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,991 likes - 75 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

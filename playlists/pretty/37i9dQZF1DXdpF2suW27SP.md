@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Dbraz, DJ Pablu & MOR3NO entram na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,369 likes - 70 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,378 likes - 70 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 69 | [Tkt Pas](https://open.spotify.com/track/0xcZUMkdWxtvnhoeL0ei24) | [Dezinho](https://open.spotify.com/artist/6HV1KRb1BBx4VgcXyBmXxA) | [Tkt Pas](https://open.spotify.com/album/7Kbm1JBWBUexKZX6fRYLS9) | 2:23 |
 | 70 | [Chora Por Mim](https://open.spotify.com/track/4tNz8DErS1kwpYUqsW7kMv) | [Satiro](https://open.spotify.com/artist/2s0vdOp4RtF3VBYH6wxxbM) | [Chora Por Mim](https://open.spotify.com/album/5oxGgr4xYmSNIp1CYZAnJX) | 3:30 |
 
-Snapshot ID: `AAAAAFLMxYSk2dd81eGtzHBaX7CbLqp1`
+Snapshot ID: `AAAAAMUpG6+Viqv8NBVxSwPO1wwLI2RL`

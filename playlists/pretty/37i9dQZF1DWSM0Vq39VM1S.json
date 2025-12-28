@@ -1,12 +1,12 @@
 {
   "description": "C'est parti pour une bonne journ\u00e9e.",
-  "num_followers": 388569,
+  "num_followers": 388595,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMeRta/eof0ewm+jAuGZ4p4sd8Uw",
+  "snapshot_id": "AAAAAA5Lo0PcTvuM4gQc4BIQSuyJ30mR",
   "tracks": [
     {
       "added_at": "2025-12-17 12:28:26",
@@ -375,6 +375,22 @@
     {
       "added_at": "2025-12-17 12:28:26",
       "album": {
+        "name": "And In The Darkness, Hearts Aglow",
+        "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
+      },
+      "artists": [
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "duration_ms": 376520,
+      "name": "It's Not Just Me, It's Everybody",
+      "url": "https://open.spotify.com/track/7G6NU3cp3ufNMEFCI2l90X"
+    },
+    {
+      "added_at": "2025-12-17 12:28:26",
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/4A1R2s1aeGoz8LoATTNNwH"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 119140,
       "name": "Home",
       "url": "https://open.spotify.com/track/232RM3E3HNMDxuLcXLSaYq"
-    },
-    {
-      "added_at": "2025-12-17 12:28:26",
-      "album": {
-        "name": "And In The Darkness, Hearts Aglow",
-        "url": "https://open.spotify.com/album/1hngVRZt95TrqPqXoJzQ4A"
-      },
-      "artists": [
-        {
-          "name": "Weyes Blood",
-          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
-        }
-      ],
-      "duration_ms": 376520,
-      "name": "It's Not Just Me, It's Everybody",
-      "url": "https://open.spotify.com/track/7G6NU3cp3ufNMEFCI2l90X"
     },
     {
       "added_at": "2025-12-17 12:28:26",
@@ -779,22 +779,6 @@
     {
       "added_at": "2025-12-17 12:28:26",
       "album": {
-        "name": "Flower of the soul (full bloom)",
-        "url": "https://open.spotify.com/album/0o2x4f45z6FIxPTC1ZkDcE"
-      },
-      "artists": [
-        {
-          "name": "Liana Flores",
-          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
-        }
-      ],
-      "duration_ms": 143268,
-      "name": "Borrow mine",
-      "url": "https://open.spotify.com/track/3IB7RouchQngKLsY3ZWSS5"
-    },
-    {
-      "added_at": "2025-12-17 12:28:26",
-      "album": {
         "name": "Riverside",
         "url": "https://open.spotify.com/album/1JaWBVD4AF8ZrcY2FkxK2i"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 283066,
       "name": "Riverside",
       "url": "https://open.spotify.com/track/0YXkNJeNhSiSXNTjtNiniU"
+    },
+    {
+      "added_at": "2025-12-17 12:28:26",
+      "album": {
+        "name": "Flower of the soul (full bloom)",
+        "url": "https://open.spotify.com/album/0o2x4f45z6FIxPTC1ZkDcE"
+      },
+      "artists": [
+        {
+          "name": "Liana Flores",
+          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
+        }
+      ],
+      "duration_ms": 143268,
+      "name": "Borrow mine",
+      "url": "https://open.spotify.com/track/3IB7RouchQngKLsY3ZWSS5"
     },
     {
       "added_at": "2025-12-17 12:28:26",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2025-12-17 12:28:26",
       "album": {
-        "name": "In The Meantime",
-        "url": "https://open.spotify.com/album/36HBYHgPwpRA8zimQ6xFvB"
+        "name": "What A Night",
+        "url": "https://open.spotify.com/album/4BNxDvVKgVuwghrLdQRrfB"
       },
       "artists": [
         {
-          "name": "Hajaj",
-          "url": "https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6"
+          "name": "Malted Milk",
+          "url": "https://open.spotify.com/artist/2r5nTmvuWViPvZaLDRZ1J0"
         }
       ],
-      "duration_ms": 188037,
-      "name": "In The Meantime",
-      "url": "https://open.spotify.com/track/3cM0vtbtg4vcgxXELIvAQI"
+      "duration_ms": 241398,
+      "name": "What A Night",
+      "url": "https://open.spotify.com/track/4XQVjFJZ2zGgtxmEPVYtQ0"
     }
   ],
   "unique_name": "R\u00e9veil en douceur",

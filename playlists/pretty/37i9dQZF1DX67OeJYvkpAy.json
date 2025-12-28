@@ -1,6 +1,6 @@
 {
   "description": "the best of the deep end. cover: Saint\u00e9",
-  "num_followers": 87882,
+  "num_followers": 87879,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
@@ -119,22 +119,6 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
-        "name": "Someone Else",
-        "url": "https://open.spotify.com/album/0TTr3dLOtveoJtYq7wNPw1"
-      },
-      "artists": [
-        {
-          "name": "Private Zero",
-          "url": "https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf"
-        }
-      ],
-      "duration_ms": 205033,
-      "name": "Someone Else",
-      "url": "https://open.spotify.com/track/7u52L92Itro4My0Ut5u8rA"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
         "name": "Missing You",
         "url": "https://open.spotify.com/album/4GBGxGBSpQPwDkpVAjrTb1"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 213790,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/0fD871BU8pWNuulBNpHYFt"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
+        "name": "Someone Else",
+        "url": "https://open.spotify.com/album/0TTr3dLOtveoJtYq7wNPw1"
+      },
+      "artists": [
+        {
+          "name": "Private Zero",
+          "url": "https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf"
+        }
+      ],
+      "duration_ms": 205033,
+      "name": "Someone Else",
+      "url": "https://open.spotify.com/track/7u52L92Itro4My0Ut5u8rA"
     },
     {
       "added_at": "2025-10-10 12:01:08",
@@ -395,22 +395,6 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
-        "name": "Love Me",
-        "url": "https://open.spotify.com/album/74RU62iSSe3neoBz4z5nXe"
-      },
-      "artists": [
-        {
-          "name": "ArtistRD",
-          "url": "https://open.spotify.com/artist/3cdy10Sdneled46d13A74S"
-        }
-      ],
-      "duration_ms": 190615,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/3LQpbD8HlWyQV3X7Ie6sEj"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
         "name": "In my head",
         "url": "https://open.spotify.com/album/3bt2qFTBQtl5wYzBPNrIk4"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 155725,
       "name": "Champions League",
       "url": "https://open.spotify.com/track/2AqwxWjRr1H5ZoPLHLCVFX"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/74RU62iSSe3neoBz4z5nXe"
+      },
+      "artists": [
+        {
+          "name": "ArtistRD",
+          "url": "https://open.spotify.com/artist/3cdy10Sdneled46d13A74S"
+        }
+      ],
+      "duration_ms": 190615,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/3LQpbD8HlWyQV3X7Ie6sEj"
     },
     {
       "added_at": "2025-10-10 12:01:08",
@@ -1059,6 +1059,26 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
+        "name": "Because Of You",
+        "url": "https://open.spotify.com/album/3BawDg8zlyaybBdptxhIwO"
+      },
+      "artists": [
+        {
+          "name": "L24",
+          "url": "https://open.spotify.com/artist/2fXCFQ5jpXd3YJBNEmAkA7"
+        },
+        {
+          "name": "Serena",
+          "url": "https://open.spotify.com/artist/46Iy7LBbJ53noas3WLvBlX"
+        }
+      ],
+      "duration_ms": 177110,
+      "name": "Because Of You",
+      "url": "https://open.spotify.com/track/1guVpdESIISTKzPitSmqFT"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
         "name": "Sexy Back",
         "url": "https://open.spotify.com/album/27wLAxBkkYbPsK3UMl2UeC"
       },
@@ -1095,26 +1115,6 @@
       "duration_ms": 206166,
       "name": "Couple Little Things",
       "url": "https://open.spotify.com/track/5wa51MT1gA2siZB8B3XQsq"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
-        "name": "Because Of You",
-        "url": "https://open.spotify.com/album/3BawDg8zlyaybBdptxhIwO"
-      },
-      "artists": [
-        {
-          "name": "L24",
-          "url": "https://open.spotify.com/artist/2fXCFQ5jpXd3YJBNEmAkA7"
-        },
-        {
-          "name": "Serena",
-          "url": "https://open.spotify.com/artist/46Iy7LBbJ53noas3WLvBlX"
-        }
-      ],
-      "duration_ms": 177110,
-      "name": "Because Of You",
-      "url": "https://open.spotify.com/track/1guVpdESIISTKzPitSmqFT"
     },
     {
       "added_at": "2025-10-10 12:01:08",
@@ -1487,8 +1487,8 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
-        "name": "Drowning",
-        "url": "https://open.spotify.com/album/2EpJCDKlKH7urSEKXNkgmf"
+        "name": "If I Die Young",
+        "url": "https://open.spotify.com/album/2Zbo1zBICWK0xRjIknXAZX"
       },
       "artists": [
         {
@@ -1496,9 +1496,9 @@
           "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
         }
       ],
-      "duration_ms": 133090,
-      "name": "Drowning",
-      "url": "https://open.spotify.com/track/2F1MN6u5go5QQFR1ZpoTsU"
+      "duration_ms": 189781,
+      "name": "If I Die Young",
+      "url": "https://open.spotify.com/track/2zgdY31Vt7tvDsr2k5qLbC"
     },
     {
       "added_at": "2025-10-10 12:01:08",
@@ -1567,8 +1567,8 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
-        "name": "She Comes & Goes",
-        "url": "https://open.spotify.com/album/226lWlmWfLfvCxWl7nb7wp"
+        "name": "Drowning",
+        "url": "https://open.spotify.com/album/2EpJCDKlKH7urSEKXNkgmf"
       },
       "artists": [
         {
@@ -1576,9 +1576,9 @@
           "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
         }
       ],
-      "duration_ms": 199705,
-      "name": "She Comes & Goes",
-      "url": "https://open.spotify.com/track/5PIHqZnDrZGMJCfcTtl4BT"
+      "duration_ms": 133090,
+      "name": "Drowning",
+      "url": "https://open.spotify.com/track/2F1MN6u5go5QQFR1ZpoTsU"
     },
     {
       "added_at": "2025-10-10 12:01:08",
@@ -1647,8 +1647,8 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
-        "name": "If I Die Young",
-        "url": "https://open.spotify.com/album/2Zbo1zBICWK0xRjIknXAZX"
+        "name": "She Comes & Goes",
+        "url": "https://open.spotify.com/album/226lWlmWfLfvCxWl7nb7wp"
       },
       "artists": [
         {
@@ -1656,9 +1656,9 @@
           "url": "https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M"
         }
       ],
-      "duration_ms": 189781,
-      "name": "If I Die Young",
-      "url": "https://open.spotify.com/track/2zgdY31Vt7tvDsr2k5qLbC"
+      "duration_ms": 199705,
+      "name": "She Comes & Goes",
+      "url": "https://open.spotify.com/track/5PIHqZnDrZGMJCfcTtl4BT"
     },
     {
       "added_at": "2025-10-10 12:01:08",

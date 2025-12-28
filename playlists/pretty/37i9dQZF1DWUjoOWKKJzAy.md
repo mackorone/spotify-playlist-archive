@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjoOWKKJzAy.md) - [plain]
 
 > Os hits históricos da década de ouro do rock nacional\. Foto: Cazuza.
 
-[Spotify](https://open.spotify.com/user/spotify) - 549,999 likes - 59 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 550,271 likes - 59 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjoOWKKJzAy.md) - [plain]
 | 58 | [Uns Dias](https://open.spotify.com/track/584A0PrNqDNS5pMmCaCgOm) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Bora Bora](https://open.spotify.com/album/6ofQIUpWZIGOB9b7MY26Az) | 4:04 |
 | 59 | [O Beijo Da Mulher Aranha](https://open.spotify.com/track/63vwtGwmDC0oogDnALUg30) | [Blitz](https://open.spotify.com/artist/1POsQml4E21Ku75BirHFMQ) | [As Aventuras Da Blitz](https://open.spotify.com/album/40wuumo6MyuWUGBdZwcjGP) | 3:04 |
 
-Snapshot ID: `AAAAAJuPQCmGuQ4VG0oOmSY5BLytFj5z`
+Snapshot ID: `AAAAANoiHqiXSFQq6Nvb9+Az12OnQuGm`

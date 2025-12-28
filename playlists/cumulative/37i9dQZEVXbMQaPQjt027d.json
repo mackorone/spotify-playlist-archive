@@ -360,7 +360,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-27",
+      "date_removed": null,
       "duration_ms": 187560,
       "name": "A Little Thing Like Love",
       "url": "https://open.spotify.com/track/2PIx1sfY7xqlS6XxWJ8R4s"
@@ -1554,7 +1554,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-28",
       "duration_ms": 211612,
       "name": "Bontardi",
       "url": "https://open.spotify.com/track/1kqZtggxscbT7VX4H7Ehsl"
@@ -2014,7 +2014,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-24",
+      "date_removed": null,
       "duration_ms": 188059,
       "name": "CHANEL",
       "url": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
@@ -3104,7 +3104,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-28",
       "duration_ms": 176153,
       "name": "Discotheek",
       "url": "https://open.spotify.com/track/1vVOsjCZIbUFjDTp5D4doU"
@@ -7274,7 +7274,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-22",
+      "date_removed": null,
       "duration_ms": 273010,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/6gH4TId535zZLoBFSdnDFm"
@@ -8422,7 +8422,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-28",
       "duration_ms": 163130,
       "name": "Niet Nodig",
       "url": "https://open.spotify.com/track/0OVYhtxxWQn2pcs3XR095M"
@@ -8882,7 +8882,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-28",
       "duration_ms": 147042,
       "name": "Ode To The Bouncer",
       "url": "https://open.spotify.com/track/1d1B0o6MT7cMUu5Xd8zTiK"
@@ -9820,7 +9820,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-27",
+      "date_removed": null,
       "duration_ms": 126106,
       "name": "Rebanav 126bpm",
       "url": "https://open.spotify.com/track/0zJ73feFCS8807usUclLWo"
@@ -10402,10 +10402,28 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-28",
       "duration_ms": 180963,
       "name": "Sisqo Thong Song - 1950s Motown Choir Version",
       "url": "https://open.spotify.com/track/5FCDCjb06htCKHZlpF207M"
+    },
+    {
+      "album": {
+        "name": "Sisqo Thong Song - 1950s Motown Choir Version",
+        "url": "https://open.spotify.com/album/7cYPJZqy0pCTqC8cATUBmi"
+      },
+      "artists": [
+        {
+          "name": "gino",
+          "url": "https://open.spotify.com/artist/3M22l9h7nL6oPStpf5AK6p"
+        }
+      ],
+      "date_added": "2025-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180963,
+      "name": "Sisqo Thong Song - 1950s Motown Choir Version",
+      "url": "https://open.spotify.com/track/7IVRmVTTCFGsc5Hf1j66VB"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 
 > Tämän hetken kovimmat suomihitit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,737 likes - 72 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,729 likes - 72 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | 71 | [Fantasia \(feat\. Kah Pao\)](https://open.spotify.com/track/7gktoRk6XwRkUkAbplkgZ0) | [Asla Jo](https://open.spotify.com/artist/5z6VH7BWb3QDIAhdMILyG4), [Kah Pao](https://open.spotify.com/artist/4r6Y0yVM0qCN4B4EAgXytt) | [Fantasia \(feat\. Kah Pao\)](https://open.spotify.com/album/6rX7ExQmzcWyuqPdKjZXwA) | 2:57 |
 | 72 | [sydän sydän sydän](https://open.spotify.com/track/6l1fgYZ3PCGFe35VAAbkHC) | [helmi marleena](https://open.spotify.com/artist/7J1WgHwoB353m2teuaxwgK) | [sydän sydän sydän](https://open.spotify.com/album/2W0jJtaPFSSmzZtG0geJHX) | 2:31 |
 
-Snapshot ID: `AAAAAAOGDZyW6wiv4e9+Pm8bnS/5NTEa`
+Snapshot ID: `AAAAAO2VxMRqhZGsKb9nKBWXzst0krHk`

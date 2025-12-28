@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 
 > beautiful music that you can put on repeat
 
-[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 453 likes - 568 songs - 1 day 5 hr 30 min
+[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 453 likes - 581 songs - 1 day 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -576,5 +576,18 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 | 566 | [Brutalised Robotics](https://open.spotify.com/track/4SRR28cnNz63kylGIVs9KU) | [Dez Dare](https://open.spotify.com/artist/1elbB348tXNuC92QkZlHLF) | [Brutalised Robotics](https://open.spotify.com/album/3R5S4atIrB3QlziWSoDhuj) | 3:02 |
 | 567 | [Lonely Voices](https://open.spotify.com/track/4wk0VmAwC5M4YPWOytwoet) | [Qfish](https://open.spotify.com/artist/5T2jnVO9cIxAjrQWu1aEGN), [Maryn](https://open.spotify.com/artist/4H4iHbG7nopmzvkwsglVkM), [Max Landry](https://open.spotify.com/artist/0wJDbxpqtwjA2FxfU6KI0E) | [Lonely Voices](https://open.spotify.com/album/1ZpBxFWKUeHqHY2Z75yRRg) | 2:30 |
 | 568 | [Feel the night](https://open.spotify.com/track/7p5t5QpJDkczSCaZMXxLdX) | [Kryhos](https://open.spotify.com/artist/4aqG8I79UujSmRHe7yphiW) | [Feel the night](https://open.spotify.com/album/5s1ETma0NHObW9iNgddC5a) | 2:25 |
+| 569 | [V2 \(Vi\)](https://open.spotify.com/track/6va7IExS5yyVdlGDGdoiZN) | [Drey Tyler](https://open.spotify.com/artist/2wfMXEAuni8gFywyKploZT), [andres yuma](https://open.spotify.com/artist/1Zlp7gKGKtdZo1LLJj4n3N) | [V2 \(Vi\)](https://open.spotify.com/album/5koA5l6mAquVQRj4qYep7j) | 2:34 |
+| 570 | [Above](https://open.spotify.com/track/0DUrn7yZ4SR26b9pSozFhC) | [Umbra Solis](https://open.spotify.com/artist/03lEumUmw777Sy1MeqX8f6) | [Above](https://open.spotify.com/album/64sKq45iOsCWHjGPCL7W8v) | 1:42 |
+| 571 | [no caigo](https://open.spotify.com/track/6dbfcErWTpNnF8lmuyYvcJ) | [Kid Fran](https://open.spotify.com/artist/2XsWgOsfSNewdeDuU9ufN9) | [VØIKKA Vol\. 1](https://open.spotify.com/album/1ylwMBaSqC4aHhuuhJyUEl) | 2:08 |
+| 572 | [Winnin](https://open.spotify.com/track/2HPCqbMp7VDmYhUrS2gbjk) | [Zaya Love](https://open.spotify.com/artist/7MBtJesquNBluPqKJyW6W1), [Mark Holiday](https://open.spotify.com/artist/0c2te8OzhhVjiqXaAku4Hx) | [TRENDSETTER](https://open.spotify.com/album/6JWcKuOYeKNlp9h8MPYJNg) | 2:12 |
+| 573 | [Demander](https://open.spotify.com/track/2zUuDZZFbRJ83mdrANi43v) | [Divag](https://open.spotify.com/artist/6aXSmIcCXJUtxy8w2DUIOS) | [Impermanent](https://open.spotify.com/album/1zAkueauVVzWuoMOL5Tnvs) | 2:07 |
+| 574 | [101](https://open.spotify.com/track/5O0Z8RnCu4WILej83RI08r) | [EZZZE](https://open.spotify.com/artist/318JArubWZ3Li1pml4il5a) | [101](https://open.spotify.com/album/5JUYRrlK8uQgMoXZooQ6lQ) | 0:51 |
+| 575 | [2X2](https://open.spotify.com/track/4dtDuu7bPpJ7jgyxI4nYCv) | [OG1](https://open.spotify.com/artist/1xhe7lFp0KgfZ9ZgxwzPQZ) | [2X2](https://open.spotify.com/album/02s0M1mtgeQjRPVxL1fE2H) | 1:11 |
+| 576 | [The Dream of the Boy](https://open.spotify.com/track/7rV2RFm5L6wt0b16vCKCgb) | [Bluehomie](https://open.spotify.com/artist/2v798PeaetvjvY9gGGYkgd), [Volcana](https://open.spotify.com/artist/4EGR2O6JKVOcgw2Ar8BKeE) | [The Dream of the Boy](https://open.spotify.com/album/3rVLnVtbiTwbbEueN8VRw2) | 2:35 |
+| 577 | [All Girls Are The Same \- Cover Version](https://open.spotify.com/track/0CZbCAmLMWoFW2EKqyu8mv) | [Andrew Wilson](https://open.spotify.com/artist/7nJeosmDpSeqMG1gjzuRLk), [Joshua Castle](https://open.spotify.com/artist/5VnLKbJys03lqxOo2ZRIyE) | [All Girls Are The Same \(Cover Version\)](https://open.spotify.com/album/5NUi3Mpj2W7v3Wk4VutDGW) | 2:52 |
+| 578 | [248](https://open.spotify.com/track/7AWduQa6jDfR9yaTCvUlKR) | [Benny Cashh](https://open.spotify.com/artist/6FZ5Lcm7rFdxVWEVu9og28) | [4 Seasons](https://open.spotify.com/album/3JD7rYmHzD2ytM1FHsA4XN) | 1:40 |
+| 579 | [BELLA CIAO](https://open.spotify.com/track/3QJjIvhdKmK2GASj4DpxfU) | [SAMMY & LESEN](https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE), [Loona](https://open.spotify.com/artist/7ugN9bU7x54gVI2295brJF), [S & L](https://open.spotify.com/artist/30FC2mjDus2hHWKrXFUlkL) | [BELLA CIAO](https://open.spotify.com/album/7tsfCufi0eGpKu6s8mdDuD) | 2:20 |
+| 580 | [2 Times](https://open.spotify.com/track/2V6M57LUuXyKasAd32WOIm) | [SAMMY & LESEN](https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE), [Gia Koka](https://open.spotify.com/artist/71WExccCBN2mw0klSzfYzz), [TECHNO KING](https://open.spotify.com/artist/4PWjpdBUTvwJ5iO1p8dHqC) | [2 Times](https://open.spotify.com/album/1eT55vAiwenizmz5EeGsNQ) | 2:13 |
+| 581 | [Shutdown](https://open.spotify.com/track/643KZBbba2oeAYd2trgSLx) | [Makeavelli](https://open.spotify.com/artist/6dNdNTpljoD3lw14gr4WRg) | [Shutdown](https://open.spotify.com/album/0aFinGBzDIruoM2vcbwQgF) | 3:06 |
 
-Snapshot ID: `AAAXWR+SfrxuLMuunlxiQWie0iQMnQof`
+Snapshot ID: `AAAXZvjeO4rYgC9WcX8e0QZ74cfIKfaM`

@@ -1,6 +1,6 @@
 {
   "description": "Soul to brighten up your day. Cover: Tone Stith",
-  "num_followers": 109801,
+  "num_followers": 109830,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
@@ -1681,6 +1681,22 @@
       "url": "https://open.spotify.com/track/5pPLXjXbpcRH5DNdWrnTo9"
     },
     {
+      "added_at": "2024-10-25 08:08:52",
+      "album": {
+        "name": "Suite Escape",
+        "url": "https://open.spotify.com/album/5o6C3eDwWn5GJN0DKZN45i"
+      },
+      "artists": [
+        {
+          "name": "Gareth Donkin",
+          "url": "https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN"
+        }
+      ],
+      "duration_ms": 240394,
+      "name": "Nobody\u2019s Perfect",
+      "url": "https://open.spotify.com/track/4gGuLljBIa0c3Buk4aGT0H"
+    },
+    {
       "added_at": "2025-06-27 04:00:46",
       "album": {
         "name": "Thursday Disco",
@@ -1699,22 +1715,6 @@
       "duration_ms": 182143,
       "name": "Thursday Disco",
       "url": "https://open.spotify.com/track/4E2gR7kaQpiCp4GqAr04Z8"
-    },
-    {
-      "added_at": "2024-10-25 08:08:52",
-      "album": {
-        "name": "Suite Escape",
-        "url": "https://open.spotify.com/album/5o6C3eDwWn5GJN0DKZN45i"
-      },
-      "artists": [
-        {
-          "name": "Gareth Donkin",
-          "url": "https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN"
-        }
-      ],
-      "duration_ms": 240394,
-      "name": "Nobody\u2019s Perfect",
-      "url": "https://open.spotify.com/track/4gGuLljBIa0c3Buk4aGT0H"
     }
   ],
   "unique_name": "Soulful Day",

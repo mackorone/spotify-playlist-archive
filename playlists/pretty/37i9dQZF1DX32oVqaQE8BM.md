@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 
 > The ultimate chill out playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 924,195 likes - 191 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 924,245 likes - 191 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -200,4 +200,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32oVqaQE8BM.md) - [plain]
 | 190 | [Epiphany](https://open.spotify.com/track/5TwX2FkMDATNTac7ilXosD) | [Lndonfox](https://open.spotify.com/artist/2eMNpDgRKr7M0TczONdHV1) | [Epiphany](https://open.spotify.com/album/2eIoBdml7VpzlXbnY0t7Ot) | 2:26 |
 | 191 | [Cold Rain](https://open.spotify.com/track/3LghTGGH0RiVEEHsqFWrMh) | [Chairten](https://open.spotify.com/artist/1zTAVT8Wl64aleFDaLosQh) | [Cold Rain](https://open.spotify.com/album/7Kx1XsWTTpQJzfDzR33D6O) | 2:36 |
 
-Snapshot ID: `AAAAAEstFMGGl5bQO0e0p+4M6piOwY+I`
+Snapshot ID: `AAAAALBrJt9O5U3Hmmel91I0fkhOs4Tx`

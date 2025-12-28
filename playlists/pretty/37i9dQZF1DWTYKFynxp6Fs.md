@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTYKFynxp6Fs.md) - [plain]
 
 > Every song that's Trending NOW from Malayalam! <br/>Cover: Aashaan
 
-[Spotify](https://open.spotify.com/user/spotify) - 585,808 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 586,412 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTYKFynxp6Fs.md) - [plain]
 | 23 | [NERA](https://open.spotify.com/track/2sypL2XZpCV20M7mtVzesC) | [ARJN](https://open.spotify.com/artist/5j2JTk8JqepIgv1zxYOuIi), [KDS](https://open.spotify.com/artist/41opZo9bHh8CZoIdR3IgP7), [RONN](https://open.spotify.com/artist/6jw1jO7iGLcrQyXL1Ia0IW) | [NERA](https://open.spotify.com/album/6Tik6XH6wdBJ5dsEbnknQd) | 3:33 |
 | 24 | [Santhatha Sakhiye \(From "Sahasam"\)](https://open.spotify.com/track/43yRu2zzVl0d2sr6ewma9l) | [Bibin Ashok](https://open.spotify.com/artist/2r4835RasDrA3mvrZqYv1S), [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB), [Vaisakh Sugunan](https://open.spotify.com/artist/3MEt4mrI4ZktNe7YxaQMVx) | [Santhatha Sakhiye \(From "Sahasam"\)](https://open.spotify.com/album/7HTpIk8Ik2byqbMBkpcGmz) | 3:15 |
 | 25 | [NOOR](https://open.spotify.com/track/5F3AGUDGd6aolSQAvr5Rao) | [MBL\_](https://open.spotify.com/artist/2O4n1UEgFiUF7nRYOH114z), [AYARKAY](https://open.spotify.com/artist/2tyf0OD4TeO48e8FVasZ0P) | [NOOR](https://open.spotify.com/album/5qSkWadQGiYygLIS74i3A8) | 3:16 |
-| 26 | [Kanmanipoove \(From "Thudarum"\)](https://open.spotify.com/track/3AAJmTVOJS55CpYFiCnXVh) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt), [M\. G\. Sreekumar](https://open.spotify.com/artist/3wjaprBWmoSJn4KP9tgkxt), [Harinarayanan](https://open.spotify.com/artist/2s8sAbINES1BaWVyuP8drc) | [Kanmanipoove \(From "Thudarum"\)](https://open.spotify.com/album/35VA3fNZ0phKkGL4usVvz9) | 5:54 |
+| 26 | [Kanmanipoove \(From "Thudarum"\)](https://open.spotify.com/track/3AAJmTVOJS55CpYFiCnXVh) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt), [M\. G\. Sreekumar](https://open.spotify.com/artist/3wjaprBWmoSJn4KP9tgkxt), [B.K\. Harinarayanan](https://open.spotify.com/artist/2NwWBme8V5okH9vQWrNxAV) | [Kanmanipoove \(From "Thudarum"\)](https://open.spotify.com/album/35VA3fNZ0phKkGL4usVvz9) | 5:54 |
 | 27 | [Chirapunji \- From Saina Music Indie](https://open.spotify.com/track/3NncVbpKJ91HPpI5TUIugV) | [Nihal Sadiq](https://open.spotify.com/artist/4tn4Tbdms5VG0yWwqryYhh), [Hanan Shaah](https://open.spotify.com/artist/5WGX9SJLY7TCqRUJcfcaYi) | [Chirapunji \(From Saina Music Indie\)](https://open.spotify.com/album/626TXwCa6PtZCdXv8yubvQ) | 2:40 |
 | 28 | [Pularaan Neram](https://open.spotify.com/track/3EPHaxloBVjAiCSW235Zh5) | [Sooraj Santhosh](https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB) | [Android Kunjappan Version 5.25 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3VDp27puFT9VKU7di95YUf) | 3:26 |
 | 29 | [Kejah \- From Saina Music Indie](https://open.spotify.com/track/0JxsBVBtlxC7e5ZTHmn9XS) | [MBL\_](https://open.spotify.com/artist/2O4n1UEgFiUF7nRYOH114z), [AYARKAY](https://open.spotify.com/artist/2tyf0OD4TeO48e8FVasZ0P) | [Kejah \(From Saina Music Indie\)](https://open.spotify.com/album/1iC5eqNcHO5v8HExIL43be) | 3:31 |

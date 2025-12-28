@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 26 Dec 09:04 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 28 Dec 04:04 UTC.
 
-5,966 songs - 13 day 19 hr 44 min
+5,967 songs - 13 day 19 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2439,6 +2439,7 @@
 | [Hurt You](https://open.spotify.com/track/12pGqwL9vpWEjGHLL2KaKu) | [二口魔菜 Futakuchi Mana](https://open.spotify.com/artist/6nhHInOnQSWKRxntTHBH29) | [Hurt You](https://open.spotify.com/album/4fdr5cs7ZfMguZOEKYbXPQ) | 3:50 | 2024-05-25 | 2024-05-29 |
 | [Hurts When It's Healing](https://open.spotify.com/track/3D3Uao82eAZoPjCCdGruLK) | [BANNERS](https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX) | [Hurts When It's Healing](https://open.spotify.com/album/30xALgunGSZmINEVL15UED) | 3:15 | 2024-12-14 | 2024-12-20 |
 | [Husk](https://open.spotify.com/track/0iMSUfh4oQplV5OrmrlIbm) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Husk](https://open.spotify.com/album/13KxV6ezroXhAW7sPEG6QS) | 3:24 | 2024-09-10 | 2024-09-13 |
+| [Hydrocodone](https://open.spotify.com/track/09a9zX9aadSfLBeE1DZP8c) | [Sickboyrari](https://open.spotify.com/artist/395BAMokcNaqWcCl8uU1ky) | [Hydrocodone](https://open.spotify.com/album/4P01XiGyrDtkTBirAPlEy1) | 3:27 | 2025-12-28 |  |
 | [Hydroplaning Off the Edge of the World](https://open.spotify.com/track/6BLHt08Gaa41PmY07pryul) | [Destroyer](https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In) | [Hydroplaning Off the Edge of the World](https://open.spotify.com/album/06lhK9JxaL50CiIP2NuXsW) | 4:49 | 2025-02-05 | 2025-02-13 |
 | [Hymn Of Decay](https://open.spotify.com/track/6bX8TFct73J2no6IEs1DCR) | [Great American Ghost](https://open.spotify.com/artist/2KEWeLDHDztMs2phLYTcRX) | [Hymn Of Decay](https://open.spotify.com/album/4ZtrDZgiwAvE58Xpn56f0K) | 4:52 | 2024-04-30 | 2024-05-03 |
 | [Hymne à l'amour \(Live aux Jeux Olympiques de Paris 2024 / Live from the Olympic Games Paris 2024\)](https://open.spotify.com/track/4hPz8nqYC8yG7X29imHEv5) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Hymne à l'amour \(Live aux Jeux Olympiques de Paris 2024 / Live from the Olympic Games Paris 2024\)](https://open.spotify.com/album/1ymDzkdTXIvBCeMiA3XIX2) | 3:49 | 2024-10-10 | 2024-10-12 |
@@ -2668,7 +2669,7 @@
 | [Infinity Of Horrors](https://open.spotify.com/track/51WGnSCqnjqsG6zJPdo3Hv) | [Shadow of Intent](https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D) | [Infinity Of Horrors](https://open.spotify.com/album/1EDNRl5Rzrs0W5telXtzQB) | 4:14 | 2025-05-20 | 2025-05-24 |
 | [infinyte](https://open.spotify.com/track/2Kl5gKDEka8E0JY9fbZK2g) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [infinyte](https://open.spotify.com/album/1WYACABvthzXRg3T5b6QZs) | 2:11 | 2025-02-19 | 2025-02-28 |
 | [Infohazard](https://open.spotify.com/track/51e5r0rQraYmN6zflHv9mN) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Infohazard](https://open.spotify.com/album/4BKbfIYLYdEWatTBcXtogQ) | 4:29 | 2025-07-18 | 2025-07-26 |
-| [Ingen hör](https://open.spotify.com/track/2ZNaowRCDjEdJ2POjciTG3) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Ingen hör](https://open.spotify.com/album/3cpZ44SgA1Nltu3wow79yw) | 2:56 | 2025-12-05 |  |
+| [Ingen hör](https://open.spotify.com/track/2ZNaowRCDjEdJ2POjciTG3) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Ingen hör](https://open.spotify.com/album/3cpZ44SgA1Nltu3wow79yw) | 2:56 | 2025-12-05 | 2025-12-28 |
 | [Ingo Swann](https://open.spotify.com/track/0MorRE2kwzea56XwkFMUYE) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [Ingo Swann](https://open.spotify.com/album/1u1jySXUZv9b9vvHMwjf4r) | 3:37 | 2024-10-08 | 2024-10-11 |
 | [insane](https://open.spotify.com/track/0ZOhGcUqRx3ifaBsWj0umh) | [rommulas](https://open.spotify.com/artist/4QsDoxai6urbmrML19OYa3) | [insane](https://open.spotify.com/album/06Q0Zyboo1STN4ay039K1t) | 2:56 | 2025-10-10 | 2025-10-18 |
 | [Insanium](https://open.spotify.com/track/5nukIG524dZy2jmU5PfVkj) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [Insanium](https://open.spotify.com/album/3vJDzTb8gOw2ipTGYQY4t5) | 2:38 | 2024-09-13 | 2024-09-18 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Metallica. The essential tracks, all in one playlist.",
-  "num_followers": 2090536,
+  "num_followers": 2090707,
   "original_name": "This Is Metallica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUx+gAAAAAAjvehto4/Bl3UeBXNjXbg1",
+  "snapshot_id": "aU3QAAAAAAAkcfctSpVe073SN4F6OcRW",
   "tracks": [
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u2026And Justice for All (Remastered)",
-        "url": "https://open.spotify.com/album/6jZ1z25PyF4Yd3kHxt9rl1"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 385986,
-      "name": "Eye of the Beholder",
-      "url": "https://open.spotify.com/track/4oNXsQxJS726q1CALwlIzc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "S&M",
         "url": "https://open.spotify.com/album/1OZaosC2RtsE2TEqLziwAD"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 343200,
       "name": "No Leaf Clover - Live",
       "url": "https://open.spotify.com/track/2UIuYNBg8r5pkoG2MjdLZT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u2026And Justice for All (Remastered)",
+        "url": "https://open.spotify.com/album/6jZ1z25PyF4Yd3kHxt9rl1"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 385986,
+      "name": "Eye of the Beholder",
+      "url": "https://open.spotify.com/track/4oNXsQxJS726q1CALwlIzc"
     },
     {
       "added_at": null,

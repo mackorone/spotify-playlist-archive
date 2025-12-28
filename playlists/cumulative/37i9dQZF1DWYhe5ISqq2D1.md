@@ -4,7 +4,7 @@
 
 > 日本のシンガーソングライターを特集。Cover: 崎山蒼志
 
-1,093 songs - 2 day 20 hr 54 min
+1,095 songs - 2 day 21 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [3%](https://open.spotify.com/track/3qF6OHdGcCnjy5yI9VuVb3) | [Sato](https://open.spotify.com/artist/42olGDHZaEPtRmxwEZPY31) | [3%](https://open.spotify.com/album/2dcRHwyt9gJhBTXti5IXuE) | 2:47 | 2024-07-02 | 2024-08-28 |
 | [3%と私。](https://open.spotify.com/track/0TmZJAyJCddpnJlZdsnTBt) | [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [3%と私。](https://open.spotify.com/album/2pku1IjyuuQZrWB20VNOoi) | 4:50 | 2025-09-30 |  |
 | [34](https://open.spotify.com/track/6AzkAbXsAeHZN8yq2Soo1t) | [桃野陽介](https://open.spotify.com/artist/0PdgrJnkphPuXlJp3wjcDw) | [34](https://open.spotify.com/album/5KmKVMds4SzGdPOoIDzOX9) | 3:42 | 2024-09-17 | 2024-09-25 |
-| [831](https://open.spotify.com/track/4gOO6g4HEi2GsJdpduiEO8) | [TOMIOKA AI](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [Ai'sCREAM](https://open.spotify.com/album/0KkbijCllIheCHz6vx3244) | 3:55 | 2025-11-11 |  |
+| [831](https://open.spotify.com/track/4gOO6g4HEi2GsJdpduiEO8) | [TOMIOKA AI](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [Ai'sCREAM](https://open.spotify.com/album/0KkbijCllIheCHz6vx3244) | 3:55 | 2025-11-11 | 2025-12-28 |
 | [8take](https://open.spotify.com/track/6UClLHD0XKJnnmSCqI4K1l) | [Unknöwn Kun](https://open.spotify.com/artist/5zfNAxbKj2jx54fC0GzNMl) | [8take](https://open.spotify.com/album/65vda9l3hO71QG9W3lIVXa) | 4:31 | 2025-01-21 | 2025-02-05 |
 | [8丁目のポルシェ \- 2025 Version](https://open.spotify.com/track/32r4ylsCDn6E47IqXkF0JU) | [鳥居れな](https://open.spotify.com/artist/7APpxQru1opUzQwbpHqBmg) | [8丁目のポルシェ \(2025 Version\)](https://open.spotify.com/album/4UwkZtCZhsS9ztpJ6064fP) | 3:39 | 2025-01-07 | 2025-01-15 |
 | [a music score](https://open.spotify.com/track/6TcoXIFuITi36A1uLtOx0O) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [a music score](https://open.spotify.com/album/5RgCzUL166JU7tFjmEllWg) | 3:29 | 2025-05-27 | 2025-07-09 |
@@ -216,6 +216,7 @@
 | [I LOVE YOU](https://open.spotify.com/track/1UwyutI81qoxlNH4DEm3v8) | [LUA](https://open.spotify.com/artist/6Kn5qpqJoHEY2D8uvgUQut) | [I LOVE YOU](https://open.spotify.com/album/7H3QrXIs3Y5bmyjn8WqLk3) | 3:11 | 2025-07-08 | 2025-07-16 |
 | [I LOVE YOU BABY](https://open.spotify.com/track/4gdwQmqEe3W339nqleE8RL) | [Baby Canta](https://open.spotify.com/artist/4jdLgKDWPnRF5pAP1PnUww) | [I LOVE YOU BABY](https://open.spotify.com/album/4MW0TRFK41YxStB0ChUFgk) | 3:48 | 2025-11-04 | 2025-11-12 |
 | [I say bye](https://open.spotify.com/track/3rnYiGxQPdzbUpktxZP3oN) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [I say bye](https://open.spotify.com/album/7GuwXufXafM8Fe5kmSdVHZ) | 3:00 | 2024-07-02 | 2024-07-10 |
+| [I see you](https://open.spotify.com/track/2CM5QNzs22OzvWuaVQsoaR) | [Fukase](https://open.spotify.com/artist/642h5Pps0IeXmWUnFrGhCA) | [I see you](https://open.spotify.com/album/4fvH9WiNjQ5CaoNTeHxFoL) | 3:47 | 2025-12-23 |  |
 | [I'll be seeing you soon](https://open.spotify.com/track/1uqJHHD2705JtwCNBOgeFX) | [Marter](https://open.spotify.com/artist/4BtZnNCpfbIIvPf2bNsQw1) | [I'll be seeing you soon](https://open.spotify.com/album/7xAm0LYR5oHRqQfXZjWhMz) | 4:40 | 2025-09-23 | 2025-10-01 |
 | [If Filled With Rain](https://open.spotify.com/track/6IGZhGRJ3eMf8n3bXTMciY) | [Ai Higuchi](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [If Filled With Rain](https://open.spotify.com/album/0rw3HWNsN4Vnv5Zz0pGXLF) | 3:29 | 2025-01-14 | 2025-02-19 |
 | [If I were to fall in love again](https://open.spotify.com/track/6zT6xEf2qpn9er9JhzfuvL) | [Ai Higuchi](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [If I were to fall in love again](https://open.spotify.com/album/4DhgV1EMe5RcZiJB6di91X) | 3:55 | 2024-09-17 | 2024-10-02 |
@@ -350,7 +351,7 @@
 | [OurS](https://open.spotify.com/track/3YhuzhURJuxlNbDUDdY2Q4) | [井戸健人](https://open.spotify.com/artist/4PlzrQn4QMNelRxDC51Z7u) | [OurS](https://open.spotify.com/album/0veZWdkLrZpSUlDIsjUVU9) | 3:07 | 2025-03-25 | 2025-04-02 |
 | [Over](https://open.spotify.com/track/44EZObfoz6o5zmoExLVyaW) | [reina](https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf) | [Over](https://open.spotify.com/album/1y9CBQS4s3ig3QfNnMYlRR) | 2:48 | 2025-11-25 |  |
 | [Overthinker](https://open.spotify.com/track/03M5XELaGL04z3ZoaddRk9) | [K E I\_H A Y A S H I](https://open.spotify.com/artist/4fQ023lP2bX27W1YYw9DIc) | [Overthinker](https://open.spotify.com/album/3L3snyqkCfneDJ9BGseuDp) | 3:38 | 2025-09-30 | 2025-10-09 |
-| [P.S\. I LOVE YOU](https://open.spotify.com/track/4gKvXAohQvUC8QginInzPj) | [竹内アンナ](https://open.spotify.com/artist/7JbJSRUH6Wu2RtDfn8rbzw) | [P.S\. I LOVE YOU](https://open.spotify.com/album/51MUlhID8Y9Hry6TLVvR2A) | 3:08 | 2025-11-18 |  |
+| [P.S\. I LOVE YOU](https://open.spotify.com/track/4gKvXAohQvUC8QginInzPj) | [竹内アンナ](https://open.spotify.com/artist/7JbJSRUH6Wu2RtDfn8rbzw) | [P.S\. I LOVE YOU](https://open.spotify.com/album/51MUlhID8Y9Hry6TLVvR2A) | 3:08 | 2025-11-18 | 2025-12-28 |
 | [pained](https://open.spotify.com/track/4fLu1o9tL4Fg7Zh7y4P7mK) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [pained](https://open.spotify.com/album/7xNiLmGaSSoAwNw0d9btaM) | 4:12 | 2025-06-17 | 2025-12-03 |
 | [PAPER MOON](https://open.spotify.com/track/3I4hyTrsiKtDFMAloLsUYM) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [PAPER MOON](https://open.spotify.com/album/1ZH49GEj7FjXTCTBUTeqlC) | 3:39 | 2025-04-22 | 2025-04-30 |
 | [Paradise Forever](https://open.spotify.com/track/3uOLzqlQhPqlgLJJxDJ7kD) | [Manatsu Nagahara](https://open.spotify.com/artist/7eiPZxPx3fflpweXb8NbnJ) | [Paradise Forever](https://open.spotify.com/album/34xVl32E3CiI11lzqO6cH2) | 3:58 | 2024-07-30 | 2024-09-04 |
@@ -1081,6 +1082,7 @@
 | [雨酔い](https://open.spotify.com/track/5XMKwkduEhcYTqdWFP1NmP) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [雨酔い](https://open.spotify.com/album/4Gpc6VgBXsSCgR07A76cEu) | 4:53 | 2025-11-18 |  |
 | [雪解け](https://open.spotify.com/track/1QwX9uibeIktjL0cuY24Yd) | [Toko Furuuchi](https://open.spotify.com/artist/1rIVRqMT3NboIWjG2JN5hZ) | [雪解け](https://open.spotify.com/album/0S17qDLkC7hG23S0ERmJxW) | 4:52 | 2025-09-23 | 2025-10-01 |
 | [雫](https://open.spotify.com/track/2GlZ3RBOFSVKPQrUpCxDCZ) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [雫](https://open.spotify.com/album/5SGGfrQE7GWyszuzISp8Wa) | 4:36 | 2025-02-25 | 2025-05-29 |
+| [露](https://open.spotify.com/track/24dFX0UYYObDzUrY9Mdnqm) | [Siip](https://open.spotify.com/artist/4iJl88yli7zUwkDCNeKyNa) | [ガイア](https://open.spotify.com/album/0f9cR9kAGMSLGWnVd9eCyL) | 6:07 | 2025-12-23 |  |
 | [青い太陽](https://open.spotify.com/track/5hR9o5csrZrKv4pPJvj7TH) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [青い太陽](https://open.spotify.com/album/0PimyILm2qiMJoQiBGpwfC) | 3:27 | 2025-09-23 | 2025-10-01 |
 | [青春の向こう側](https://open.spotify.com/track/4TgA4oJsnipnETNh4A8HWl) | [Yu Takahashi](https://open.spotify.com/artist/4aDG4r8Fb7lNdMtETDIB4t) | [HAPPY \(Selected Version\)](https://open.spotify.com/album/0YJySbXYnM0wyf4maEPZH8) | 5:06 | 2025-01-21 | 2025-02-12 |
 | [青春謳歌 \(feat.ano\)](https://open.spotify.com/track/5N6DFXriMN64kM62mpk9uc) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z), [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [青春謳歌 \(feat.ano\)](https://open.spotify.com/album/4szJowsqkuvKbBwZG9rYQG) | 3:47 | 2024-07-02 | 2024-12-23 |

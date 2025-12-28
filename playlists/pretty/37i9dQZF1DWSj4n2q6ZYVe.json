@@ -1,6 +1,6 @@
 {
   "description": "The biggest dance floor bangers of the 2000s.",
-  "num_followers": 703174,
+  "num_followers": 703527,
   "original_name": "Dance Hits 2000s",
   "owner": {
     "name": "Spotify",
@@ -1421,6 +1421,22 @@
       "url": "https://open.spotify.com/track/0V7QchMrfTCk3gf0iAtl2R"
     },
     {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Platinum",
+        "url": "https://open.spotify.com/album/5BIDwo7ClpVhC031QNKTuY"
+      },
+      "artists": [
+        {
+          "name": "Cascada",
+          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
+        }
+      ],
+      "duration_ms": 218586,
+      "name": "What Hurts The Most",
+      "url": "https://open.spotify.com/track/2umCb31luuHifyrJVTio5S"
+    },
+    {
       "added_at": "2021-10-06 04:50:26",
       "album": {
         "name": "Infinity 2008",
@@ -1439,22 +1455,6 @@
       "duration_ms": 193720,
       "name": "Infinity 2008 - Klaas Vocal Edit",
       "url": "https://open.spotify.com/track/4pmfb7PCuXqqRsibtNJiVB"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "Platinum",
-        "url": "https://open.spotify.com/album/5BIDwo7ClpVhC031QNKTuY"
-      },
-      "artists": [
-        {
-          "name": "Cascada",
-          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
-        }
-      ],
-      "duration_ms": 218586,
-      "name": "What Hurts The Most",
-      "url": "https://open.spotify.com/track/2umCb31luuHifyrJVTio5S"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Wash My World",
-        "url": "https://open.spotify.com/album/096zju7jYYYpvaimFPiPrT"
-      },
-      "artists": [
-        {
-          "name": "Laurent Wolf",
-          "url": "https://open.spotify.com/artist/0U2M5hyVn2T78XKlRHJFcn"
-        }
-      ],
-      "duration_ms": 200813,
-      "name": "No Stress",
-      "url": "https://open.spotify.com/track/3AMExQQyUUBr9e6WftMVCp"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Stamp On The Ground",
         "url": "https://open.spotify.com/album/1OS81VthdrXXDhtMc2MF0q"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 198986,
       "name": "Stamp on the Ground - Radio Edit",
       "url": "https://open.spotify.com/track/09ISyLOPeuno7kKlzdbZuq"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Wash My World",
+        "url": "https://open.spotify.com/album/096zju7jYYYpvaimFPiPrT"
+      },
+      "artists": [
+        {
+          "name": "Laurent Wolf",
+          "url": "https://open.spotify.com/artist/0U2M5hyVn2T78XKlRHJFcn"
+        }
+      ],
+      "duration_ms": 200813,
+      "name": "No Stress",
+      "url": "https://open.spotify.com/track/3AMExQQyUUBr9e6WftMVCp"
     },
     {
       "added_at": "2021-04-29 18:40:15",

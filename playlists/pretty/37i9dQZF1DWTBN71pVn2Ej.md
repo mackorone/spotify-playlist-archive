@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 
 > The future shape of noise\. Cover: They Are Gutting a Body of Water
 
-[Spotify](https://open.spotify.com/user/spotify) - 883,646 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 883,597 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBN71pVn2Ej.md) - [plain]
 | 99 | [Whip](https://open.spotify.com/track/4YM7SjY7fMIUIIdYUdkOKH) | [Poppy Wizard](https://open.spotify.com/artist/1C6oYJnXAnkYy6et1TjzbL) | [Whip](https://open.spotify.com/album/3nVTpZq1ifnXoeQ4Jh19Db) | 4:16 |
 | 100 | [Request Made](https://open.spotify.com/track/4p5X1BgVJn7IBJkPU57NMf) | [Downward](https://open.spotify.com/artist/4UrucNI79ErkrEjHCbXKxU) | [Downward \(2\)](https://open.spotify.com/album/4cPgEJ0ohF7m3Nu45aBhCO) | 1:48 |
 
-Snapshot ID: `AAAAAAMkMsDaIebUrMW2S2Ok00pZxHo0`
+Snapshot ID: `AAAAAGQSxE+96iOP1PFgNyShbYGmid+Z`

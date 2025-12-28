@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 26 Dec 09:04 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 28 Dec 04:04 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -46315,6 +46315,24 @@
     },
     {
       "album": {
+        "name": "Hydrocodone",
+        "url": "https://open.spotify.com/album/4P01XiGyrDtkTBirAPlEy1"
+      },
+      "artists": [
+        {
+          "name": "Sickboyrari",
+          "url": "https://open.spotify.com/artist/395BAMokcNaqWcCl8uU1ky"
+        }
+      ],
+      "date_added": "2025-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207307,
+      "name": "Hydrocodone",
+      "url": "https://open.spotify.com/track/09a9zX9aadSfLBeE1DZP8c"
+    },
+    {
+      "album": {
         "name": "Hydroplaning Off the Edge of the World",
         "url": "https://open.spotify.com/album/06lhK9JxaL50CiIP2NuXsW"
       },
@@ -50768,7 +50786,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-28",
       "duration_ms": 176470,
       "name": "Ingen h\u00f6r",
       "url": "https://open.spotify.com/track/2ZNaowRCDjEdJ2POjciTG3"

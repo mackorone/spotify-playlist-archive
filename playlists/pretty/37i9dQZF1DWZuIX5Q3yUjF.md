@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Emili Kasa in cover della playlist dell'R&B italiano 🫀
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,345 likes - 89 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,348 likes - 89 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 88 | [Tunnel](https://open.spotify.com/track/0DBV5Pe201bmncX6xwsTkc) | [Studio Murena](https://open.spotify.com/artist/1rWbZmR5D63aZU60lMtVZx), [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC) | [Notturno](https://open.spotify.com/album/6yJ4cIfrOpoo4QukcFtCYw) | 2:51 |
 | 89 | [Farti Fuori](https://open.spotify.com/track/19xkTUHX8VtAJI1mlAOm97) | [TÄRA](https://open.spotify.com/artist/0ez4Y0vHwlRCrqGIkChC3Q) | [Farti Fuori](https://open.spotify.com/album/6mYgPQdoSieRNtwOlUxnlE) | 2:23 |
 
-Snapshot ID: `AAAAAK9MaRVu9mex1NBqF/D9VKeJWuJo`
+Snapshot ID: `AAAAAEHJdtmGXwp6VjxIwIDJKLuzg4J1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,538 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,545 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [Шест](https://open.spotify.com/track/2iE7cNEx0NGkuNPXXQwFmU) | [LSP](https://open.spotify.com/artist/4h8pGxEIOi7j4me1yhYxlD) | [Magic City](https://open.spotify.com/album/7uOgqAlqaVPU6ORib3rlpv) | 3:22 |
 | 50 | [NO BATIDÃO \- Slowed](https://open.spotify.com/track/72YttnPRxyHe8zCG50jYhj) | [ZXKAI](https://open.spotify.com/artist/5tIkxADHN80ca0K6HCpWIt), [slxughter](https://open.spotify.com/artist/1M02J1PLobtQYok93DEvVa) | [NO BATIDÃO](https://open.spotify.com/album/5kB03HrxWnYPPB9BvwbYG1) | 1:47 |
 
-Snapshot ID: `MOH8eAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MONSqAAAAAAAAAAAAAAAAAAAAAAAAGVu`

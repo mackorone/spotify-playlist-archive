@@ -441,7 +441,7 @@
     },
     {
       "album": {
-        "name": "Crying, Laughing, Loving, Lying",
+        "name": "Crying Laughing Loving Lying",
         "url": "https://open.spotify.com/album/3KJxMjUnBZu3jLeQTIe6aQ"
       },
       "artists": [
@@ -452,7 +452,7 @@
       ],
       "date_added": "2022-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-22",
+      "date_removed": null,
       "duration_ms": 224706,
       "name": "Fool Me a Good Night",
       "url": "https://open.spotify.com/track/1GxCJ6QRoRv1BHUDto1mGn"
@@ -524,7 +524,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-28",
       "duration_ms": 174960,
       "name": "Gimme Some More",
       "url": "https://open.spotify.com/track/6VBoIw0kxcNgXDwNOTNXKn"

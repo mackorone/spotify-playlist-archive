@@ -4,7 +4,7 @@
 
 > FurryRadio.com, made for furs, by furs.
 
-450 songs - 23 hr 49 min
+451 songs - 23 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [I Still Create](https://open.spotify.com/track/0IqTgwWU2syiSYbdBEromt) | [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq) | [I Still Create](https://open.spotify.com/album/0A8AvUQ22Y2ZtbjvniXSh9) | 3:53 | 2025-12-06 |  |
 | [I WANNA BE ALIVE](https://open.spotify.com/track/4kDMTYsd387sYIb0P053oo) | [$leazy EZ](https://open.spotify.com/artist/1xZf497QbAPpJG32O4csnT) | [I WANNA BE ALIVE](https://open.spotify.com/album/0yhjAKeMX46S2XwxHgkvMZ) | 3:33 | 2025-04-16 |  |
 | [I Wish I Loved You](https://open.spotify.com/track/4pVOMSYIsddjrvi3LDlqRp) | [a fox named coyote](https://open.spotify.com/artist/2ZLKUQVWLZAVNY0qFGSY69), [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu) | [I Wish I Loved You](https://open.spotify.com/album/0uwMsB1SuYN2DElUEU8rMJ) | 4:47 | 2024-07-23 |  |
+| [i'm now alone with our memories.](https://open.spotify.com/track/4LjHjdgEV3e9VNMLUStVLe) | [Loprov](https://open.spotify.com/artist/3Zv31lkrOJ7HPBWmXOjiwJ) | [i'm now alone with our memories.](https://open.spotify.com/album/4MSJ4mwSZN9ArxNNbnt6ar) | 3:47 | 2025-12-27 |  |
 | [I've Been Gone](https://open.spotify.com/track/5vwbKI4y8QPHENwh1afdjs) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [I've Been Gone](https://open.spotify.com/album/3nkvNUzeXNSoyksBQh5xf6) | 4:30 | 2025-05-17 |  |
 | [idgaf](https://open.spotify.com/track/1ZUpVM3IZrJesM9fb1Ik6F) | [fauxx](https://open.spotify.com/artist/4smmSBpafc7gjOz5qIB8mU), [fearozzles](https://open.spotify.com/artist/4XgmepqLvHMHSFgHbTKWns), [it's embr](https://open.spotify.com/artist/6AvVTu4rBOCKyLAeXxbFdH) | [idgaf](https://open.spotify.com/album/7w6kUDSS6P6Ke136L57YvS) | 2:50 | 2025-08-01 |  |
 | [Idolize](https://open.spotify.com/track/78Ol3nUXejDT4XnaIwTP8d) | [fearozzles](https://open.spotify.com/artist/4XgmepqLvHMHSFgHbTKWns), [fauxx](https://open.spotify.com/artist/4smmSBpafc7gjOz5qIB8mU), [Tenkitsune](https://open.spotify.com/artist/3npM0ZkW5qRUL5Y7ihHRrU), [WORLDWIDEWOLF](https://open.spotify.com/artist/0PT2yAXwZHB4q6eMBGM4kV) | [Idolize](https://open.spotify.com/album/2PNLETgw15vhbWlaA7RLeu) | 4:03 | 2025-08-12 |  |

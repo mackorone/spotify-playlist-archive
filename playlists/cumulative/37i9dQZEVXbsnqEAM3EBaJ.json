@@ -2854,7 +2854,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-28",
       "duration_ms": 243069,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/5it1nA2O0kExwXLe8njBhG"
@@ -3980,7 +3980,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-28",
       "duration_ms": 203904,
       "name": "Angels For Each Other - Mix Cut",
       "url": "https://open.spotify.com/track/0DHijkToUWk01dPcfwkoSS"
@@ -8832,7 +8832,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-28",
       "duration_ms": 326515,
       "name": "Caminos",
       "url": "https://open.spotify.com/track/1m3gng22zF25U4tkdU8xGa"
@@ -12336,7 +12336,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-28",
       "duration_ms": 105245,
       "name": "Death Grip",
       "url": "https://open.spotify.com/track/6iRBgknW6YEpv8CpP6LTrF"
@@ -12716,7 +12716,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-28",
       "duration_ms": 162461,
       "name": "Destiny - HILLS Remix",
       "url": "https://open.spotify.com/track/4xBPAr5iLmeNK2NvOOP3JQ"
@@ -34822,7 +34822,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-28",
       "duration_ms": 184506,
       "name": "Mu\u00e9rdeme",
       "url": "https://open.spotify.com/track/6FRyG3kJCYp6Hswy73ISGV"
@@ -36178,7 +36178,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-28",
       "duration_ms": 63460,
       "name": "Nimbus",
       "url": "https://open.spotify.com/track/1rKMCgELu6ToKjnIbKS5IS"
@@ -36760,7 +36760,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-28",
       "duration_ms": 263180,
       "name": "Nothin'",
       "url": "https://open.spotify.com/track/49u9MlLKXc0NLg6m775ecd"
@@ -51688,7 +51688,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-28",
       "duration_ms": 175841,
       "name": "The Fate of Ophelia - The Chainsmokers Remix",
       "url": "https://open.spotify.com/track/3JNaLxAymiSUMrmjOarjeo"
@@ -58031,6 +58031,32 @@
     },
     {
       "album": {
+        "name": "STMPD RCRDS Mixtape 2025 Side A",
+        "url": "https://open.spotify.com/album/3ZaTTxskBzRc6ecodofGa5"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Skytech",
+          "url": "https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX"
+        }
+      ],
+      "date_added": "2025-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170309,
+      "name": "Voodoo - Mix Cut",
+      "url": "https://open.spotify.com/track/4Q4p3plGNO8XVH4MdUp7L2"
+    },
+    {
+      "album": {
         "name": "Vuelvas",
         "url": "https://open.spotify.com/album/2PgRo5Iaohd9UosY1RMY4D"
       },
@@ -58392,6 +58418,28 @@
       "duration_ms": 160826,
       "name": "Waltz Of The Flowers - LoFi Version",
       "url": "https://open.spotify.com/track/3zLgHPcDzAFDTTNSWoOBYy"
+    },
+    {
+      "album": {
+        "name": "Let The Bedtimes Roll: Lullaby renditions of The Offspring",
+        "url": "https://open.spotify.com/album/3Zpe0AzYr4q5AJ7GkrkzjQ"
+      },
+      "artists": [
+        {
+          "name": "Sparrow Sleeps",
+          "url": "https://open.spotify.com/artist/2VURgzr9TpBmYJEqU25RUw"
+        },
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "date_added": "2025-12-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189257,
+      "name": "Want You Bad",
+      "url": "https://open.spotify.com/track/6dMMyzKdrWSGGwuMIt8P1M"
     },
     {
       "album": {

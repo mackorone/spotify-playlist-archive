@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-445 songs - 1 day 2 hr 34 min
+446 songs - 1 day 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,6 +261,7 @@
 | [Lights Out \- Radio Edit](https://open.spotify.com/track/6d2NZwQWYpymxeNQn2ng7R) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [Lights Out](https://open.spotify.com/album/4Ji8y8AAnKe6Vjoj6Hymc9) | 2:57 | 2024-08-16 |  |
 | [Like A Tap](https://open.spotify.com/track/0uTDzjsmG91eaVkUbcBmRx) | [Heider](https://open.spotify.com/artist/0ntlfibisyrRnv8MFRHdti), [GIANT](https://open.spotify.com/artist/5SNRm9Vv3wf1c1MEOU6K1K), [Moosa Saleem](https://open.spotify.com/artist/16m66acFCoUlPwjQf9D6fN) | [Like A Tap](https://open.spotify.com/album/6pLDg9WXLv76pWACqYZGxr) | 3:36 | 2023-05-21 | 2023-06-12 |
 | [Like Magic](https://open.spotify.com/track/6ylVMjts8KG2MSaY9opfG9) | [Rogerson](https://open.spotify.com/artist/78en4vN76hJHQn9Vf19QJu) | [Like Magic](https://open.spotify.com/album/6aba6lO5d3mBePXpZMz8ao) | 2:56 | 2023-04-09 | 2023-04-24 |
+| [Like That \- Spotify Mix](https://open.spotify.com/track/0gy2Oo4n3LcXxRbeVVkpkI) | [Lumiere](https://open.spotify.com/artist/3Yty2Yiw88iHcVEyzZSWhj) | [Like That](https://open.spotify.com/album/0KKCTm59FmuC78I0ddVjUk) | 2:57 | 2025-12-27 |  |
 | [London Bridge](https://open.spotify.com/track/2OQ6ZUyMQc1v1em66u8V2V) | [Dot N Life](https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS), [Jen Payne](https://open.spotify.com/artist/3EJxT1yUtdzeTZEBZRT4Hq) | [London Bridge](https://open.spotify.com/album/3GjwA8C4Pe0WSCxfRjF8Fr) | 2:25 | 2023-04-16 | 2023-05-01 |
 | [London Visit](https://open.spotify.com/track/0XXf7QLTCcyRpLSt5Fj8YX) | [Yungness & Jaminn](https://open.spotify.com/artist/2W0LCDXmrMO7acenLvkxyR) | [London Visit](https://open.spotify.com/album/1P31Qm6R1PPSGIGQRhvPYl) | 3:27 | 2024-07-07 |  |
 | [Lonely Girl](https://open.spotify.com/track/58sqgpGAPAWNKvSIhVompE) | [GREG 99](https://open.spotify.com/artist/68ocQOFVB9wvLiC1C1WjYp) | [Hand Clap](https://open.spotify.com/album/2ZRQc6ZGlugiVhBWuMx3qr) | 2:50 | 2024-05-19 |  |

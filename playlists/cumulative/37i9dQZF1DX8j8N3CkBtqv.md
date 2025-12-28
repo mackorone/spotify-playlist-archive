@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring KhoslaRaghu, Arpit Bala, and other exciting artists.
 
-1,283 songs - 2 day 22 hr 20 min
+1,284 songs - 2 day 22 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -492,6 +492,7 @@
 | [Jaane kyu](https://open.spotify.com/track/491GlVkxTnZW9qdBWXrOD4) | [Mukku](https://open.spotify.com/artist/6UONv04Z1hQqtQjskS0H0p), [Suyash](https://open.spotify.com/artist/397qVkvMksq20YImjWX9BR), [Leela](https://open.spotify.com/artist/7MBRGHeFs0vKcnK2VqI2dZ) | [Jaane kyu](https://open.spotify.com/album/0ubDprPp6DulbadaFKhDIo) | 1:42 | 2025-12-15 |  |
 | [Jaane Kyu Diya](https://open.spotify.com/track/1bP6nyNtpIx4VuEEiAPQJM) | [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT), [A$AD](https://open.spotify.com/artist/1iWxOoFaMdE2nyGG4oqcdL) | [Jaane Kyu Diya](https://open.spotify.com/album/7bFjkNxfriKVb0WUZRPx3P) | 3:04 | 2024-01-12 | 2024-03-02 |
 | [Jaane Kyun](https://open.spotify.com/track/2XecqQiPVkouS73OYRzDC6) | [Aditi Singh Sharma](https://open.spotify.com/artist/4iW4xSfMEIvrXM0Iu3aFDY), [Reena Gilbert](https://open.spotify.com/artist/0MTZdlgu4KBHtWotp2ShV0) | [Jaane Kyun](https://open.spotify.com/album/35tiVpTGRw9i7dBL9wUZ6J) | 2:19 | 2023-04-14 | 2023-05-20 |
+| [Jaane Na Tu \(Male Version\)](https://open.spotify.com/track/1HS4N8cv1P1EmSiKBpzcFC) | [Soloman](https://open.spotify.com/artist/6UKXdl43h3gLeMx3If0FXX), [Bhoomi](https://open.spotify.com/artist/0gMaH5l7qBDky1LyM6ELYS), [Naaz](https://open.spotify.com/artist/0tbKF46lbRv4HqO4A4LSSs) | [Jaane Na Tu \(Male Version\)](https://open.spotify.com/album/2VdxSKLW7ALtPjCJD0sZJs) | 2:09 | 2025-12-19 |  |
 | [jaanu na](https://open.spotify.com/track/7C0IvBW7ZTk0cyyQQid44w) | [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP) | [jaanu na](https://open.spotify.com/album/7rnZFaD0VEQZ5CcbjiNm4h) | 2:40 | 2023-10-13 | 2023-11-25 |
 | [Jab Bhi Dekh Loon](https://open.spotify.com/track/0shEjDecXb8po7jd5aaBnv) | [Sagar Kalra](https://open.spotify.com/artist/4driSbR8mwk0EPsJ5iseMt) | [Jab Bhi Dekh Loon](https://open.spotify.com/album/3FjnRG334A3gXP6Rl302dH) | 3:20 | 2025-01-24 | 2025-02-08 |
 | [Jab Mila Tu](https://open.spotify.com/track/6y7GIEEmOatGnxZzVdGd8W) | [Arya Salvi](https://open.spotify.com/artist/4qDaKljCW1TrVRkOK3sXHF) | [Jab Mila Tu](https://open.spotify.com/album/5H76HdKdMHZKElVD6k3bHU) | 2:38 | 2025-05-16 | 2025-08-10 |
@@ -936,7 +937,7 @@
 | [Rang](https://open.spotify.com/track/7IWDMat26EfRqf2rC61f5z) | [Charan](https://open.spotify.com/artist/3hbwOFtgWSNfeRzF2o7Y65) | [Rang](https://open.spotify.com/album/5XWSenWV9adW3ta8PWIxrl) | 3:10 | 2024-07-26 | 2024-09-07 |
 | [Rangeela Mora Saajna](https://open.spotify.com/track/34dwAam1NbXlgUGmo281e4) | [Pallavi Ishpuniyani](https://open.spotify.com/artist/63r000HgiPQhuzUcZ9MwPf), [Ysoblue](https://open.spotify.com/artist/2ASakRf4a8CynyqnuCMEww) | [Rangeela Mora Saajna](https://open.spotify.com/album/1dc2odoXyAO7iOT91Mus28) | 2:34 | 2025-03-14 | 2025-03-22 |
 | [Ranjhana](https://open.spotify.com/track/2Vm3XVjP7oumfIgpf8ifS0) | [Abhishek Dubey](https://open.spotify.com/artist/1F3kuxj7cocQq595sYWupE), [Bandana Datta](https://open.spotify.com/artist/6EATxS3z3eO59uPyDpt4rp) | [Ranjhana](https://open.spotify.com/album/6psi4CQmJrez1TDlSs647E) | 4:05 | 2025-12-19 |  |
-| [Ranjhe](https://open.spotify.com/track/7AtKtnmejsGiEmXLn5lZTs) | [Shubham Kabra](https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy) | [Ranjhe](https://open.spotify.com/album/4ouQQeO9RyXbmwPUlKbowy) | 3:04 | 2025-12-19 |  |
+| [Ranjhe](https://open.spotify.com/track/7AtKtnmejsGiEmXLn5lZTs) | [Shubham Kabra](https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy) | [Ranjhe](https://open.spotify.com/album/4ouQQeO9RyXbmwPUlKbowy) | 3:04 | 2025-12-19 | 2025-12-28 |
 | [Ranjheya](https://open.spotify.com/track/3EyFLvf2phMoveVeyHjYtl) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL), [REHAT](https://open.spotify.com/artist/4Zg2ou2uzzlXFhudJt7qpo) | [Ranjheya](https://open.spotify.com/album/6GEYYn428QWQmyfFXApn1s) | 2:38 | 2025-04-18 | 2025-07-26 |
 | [Ras Ke Bhare](https://open.spotify.com/track/4OtOafdgoSVF9VajB1nKmN) | [Bawari Basanti](https://open.spotify.com/artist/4SroVVRKitVKrlYdV5Ulf8), [MAYURESH.](https://open.spotify.com/artist/5Wxldah3QvlSvrJydqVwPo) | [Ras Ke Bhare](https://open.spotify.com/album/4DdckbeFIV5CgeXBjLE2FF) | 3:28 | 2025-11-07 | 2025-11-14 |
 | [Ratiya](https://open.spotify.com/track/1NxUTUf4rQqtnux7QA9hoc) | [Pina Colada Blues](https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE), [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD), [Vaibhav Pani](https://open.spotify.com/artist/6FedIS4fevWR5JdQQvviFB) | [Ratiya](https://open.spotify.com/album/0xzWmdxI68bqPem3BL3nHQ) | 2:45 | 2023-07-28 | 2023-09-02 |

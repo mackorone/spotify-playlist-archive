@@ -693,6 +693,24 @@
     },
     {
       "album": {
+        "name": "Esto Es Un Avivamiento",
+        "url": "https://open.spotify.com/album/5PEWSHeJJcpVJ62xlnhpVL"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "date_added": "2025-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345744,
+      "name": "Dios Conmigo Est\u00e1s",
+      "url": "https://open.spotify.com/track/03RTnmDblfMVZReedzgVXZ"
+    },
+    {
+      "album": {
         "name": "Esto Es un Avivamiento",
         "url": "https://open.spotify.com/album/6ZlOnNItorE8uCHOLgCa7T"
       },
@@ -704,7 +722,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-28",
       "duration_ms": 345746,
       "name": "Dios Conmigo Est\u00e1s",
       "url": "https://open.spotify.com/track/75vUaBydCQrSRIQO9wLAOP"

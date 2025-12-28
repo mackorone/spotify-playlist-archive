@@ -1,12 +1,12 @@
 {
   "description": "playlist spotify free",
-  "num_followers": 256,
+  "num_followers": 258,
   "original_name": "playlist spotify free",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAGdAWxJ6wreXbXagNY8n8i1ntBEqyF",
+  "snapshot_id": "AAAGdt2L8rbRTt1zFTIaWw5La0Fig6RU",
   "tracks": [
     {
       "added_at": "2025-12-26 21:41:48",
@@ -62287,6 +62287,38 @@
       "duration_ms": 320666,
       "name": "remember that time - demo",
       "url": "https://open.spotify.com/track/2WmZ2yOTzQZSFKePzKalDW"
+    },
+    {
+      "added_at": "2025-12-27 13:45:10",
+      "album": {
+        "name": "Das Jahr in Monaten",
+        "url": "https://open.spotify.com/album/1ETUZ16CI21cc6dR4soEcS"
+      },
+      "artists": [
+        {
+          "name": "Sven Hurny",
+          "url": "https://open.spotify.com/artist/5QAKq2gao5X42m8VifJEcA"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "M\u00e4rz im Zwielicht",
+      "url": "https://open.spotify.com/track/2s3IZwssHIhUUeY7BIfI42"
+    },
+    {
+      "added_at": "2025-12-27 13:49:57",
+      "album": {
+        "name": "Leaving For The Summer",
+        "url": "https://open.spotify.com/album/1OL4HB5Fkd0U78TehJXbZA"
+      },
+      "artists": [
+        {
+          "name": "White Star Line",
+          "url": "https://open.spotify.com/artist/3qDMmbHoQIpMvNuOzyazsh"
+        }
+      ],
+      "duration_ms": 232731,
+      "name": "Leaving For The Summer",
+      "url": "https://open.spotify.com/track/2si1Z5vk1qKPBOddYakSYX"
     }
   ],
   "unique_name": "playlist spotify free",

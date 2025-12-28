@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MuOvUqmxDz.md) - [plain]
 
 > Celebrate the Holiday Season with your favorite country artists\. Cover: Luke Bryan and Ella Langley
 
-[Spotify](https://open.spotify.com/user/spotify) - 441,819 likes - 105 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 441,760 likes - 105 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MuOvUqmxDz.md) - [plain]
 | 104 | [Merry Christmas Baby](https://open.spotify.com/track/6Ldujffd4je4ReO6PxcQ5O) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Mr\. Christmas](https://open.spotify.com/album/5ZsuWI1KwuIIjlhjEjpVri) | 3:45 |
 | 105 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/5wWH8VUqvXBLhM3BLQekpz) | [Jessie James Decker](https://open.spotify.com/artist/0GzIauSfKRc5BlNXpTWAGz) | [Santa Claus Is Coming To Town](https://open.spotify.com/album/3mXPWjL8i4bEIEChLtpy1Q) | 2:49 |
 
-Snapshot ID: `AAAAADmxHVLU9iLvd2ijayliKVWZkZKJ`
+Snapshot ID: `AAAAACzzKL6g3942SRruHcgenTQaRJBK`

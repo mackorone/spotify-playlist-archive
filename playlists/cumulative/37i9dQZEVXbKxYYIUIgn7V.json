@@ -2397,6 +2397,24 @@
     },
     {
       "album": {
+        "name": "All the Things She Said",
+        "url": "https://open.spotify.com/album/1ziZbo2KHanGDueyFqzsVZ"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94"
+        }
+      ],
+      "date_added": "2025-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170891,
+      "name": "All the Things She Said",
+      "url": "https://open.spotify.com/track/2ihHDb5epUtpn97W0pOsOA"
+    },
+    {
+      "album": {
         "name": "All The Things She Said",
         "url": "https://open.spotify.com/album/15aHBKSJyVpTepgUOLCoVZ"
       },
@@ -18258,7 +18276,7 @@
       ],
       "date_added": "2024-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-31",
+      "date_removed": null,
       "duration_ms": 120000,
       "name": "Gloria",
       "url": "https://open.spotify.com/track/55ozEBaWgAg2snBPo1sP8I"
@@ -20946,7 +20964,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-28",
       "duration_ms": 143000,
       "name": "Heut Bums Ich Ne Fette",
       "url": "https://open.spotify.com/track/414MCuA7ny3xYm5KGiTcWv"
@@ -25176,7 +25194,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-26",
+      "date_removed": null,
       "duration_ms": 156000,
       "name": "KATYUSHA",
       "url": "https://open.spotify.com/track/05axRIbcO9nhPiuLRz2pOW"
@@ -25198,7 +25216,7 @@
       ],
       "date_added": "2025-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-28",
       "duration_ms": 156001,
       "name": "KATYUSHA",
       "url": "https://open.spotify.com/track/0r8EzfodJLJqTlMjKUHy2e"
@@ -28854,7 +28872,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-28",
       "duration_ms": 273010,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/6gH4TId535zZLoBFSdnDFm"
@@ -34268,7 +34286,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-24",
+      "date_removed": null,
       "duration_ms": 131997,
       "name": "NOT CUTE ANYMORE",
       "url": "https://open.spotify.com/track/1k0JAiH11gHL9dc5dfQjQr"
@@ -37036,7 +37054,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-28",
       "duration_ms": 142068,
       "name": "Poison",
       "url": "https://open.spotify.com/track/1c8m9hG6ByBRhGgK1DtjRO"
@@ -41832,10 +41850,28 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-28",
       "duration_ms": 180963,
       "name": "Sisqo Thong Song - 1950s Motown Choir Version",
       "url": "https://open.spotify.com/track/5FCDCjb06htCKHZlpF207M"
+    },
+    {
+      "album": {
+        "name": "Sisqo Thong Song - 1950s Motown Choir Version",
+        "url": "https://open.spotify.com/album/7cYPJZqy0pCTqC8cATUBmi"
+      },
+      "artists": [
+        {
+          "name": "gino",
+          "url": "https://open.spotify.com/artist/3M22l9h7nL6oPStpf5AK6p"
+        }
+      ],
+      "date_added": "2025-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180963,
+      "name": "Sisqo Thong Song - 1950s Motown Choir Version",
+      "url": "https://open.spotify.com/track/7IVRmVTTCFGsc5Hf1j66VB"
     },
     {
       "album": {
@@ -44892,6 +44928,24 @@
     {
       "album": {
         "name": "tattoo",
+        "url": "https://open.spotify.com/album/1VDDYBHHiW7RsAWmCWG4Fy"
+      },
+      "artists": [
+        {
+          "name": "Hank",
+          "url": "https://open.spotify.com/artist/7qGZVXFIycBvYONsbTCz4i"
+        }
+      ],
+      "date_added": "2025-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150011,
+      "name": "tattoo",
+      "url": "https://open.spotify.com/track/5SdzUQ2VXsvEoFFizxra7K"
+    },
+    {
+      "album": {
+        "name": "tattoo",
         "url": "https://open.spotify.com/album/47olKxoBYJUle2A5MdmaE2"
       },
       "artists": [
@@ -44902,7 +44956,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-28",
       "duration_ms": 150011,
       "name": "tattoo",
       "url": "https://open.spotify.com/track/639WoR26zi0dCT9q3mOk0t"
@@ -46546,7 +46600,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-28",
       "duration_ms": 173480,
       "name": "Tirol",
       "url": "https://open.spotify.com/track/520aS15JpyeEIPtgchSHyP"
@@ -46564,7 +46618,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-21",
+      "date_removed": null,
       "duration_ms": 173373,
       "name": "Tirol - Remastered 2019",
       "url": "https://open.spotify.com/track/1ztXLrHOxpIF7mBJ3oTakZ"

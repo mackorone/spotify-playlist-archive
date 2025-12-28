@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 
 > La scène française branchée sur courant alternatif\. Photo : Skip the Use
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,070 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,076 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 | 49 | [Pavillons résidentiels](https://open.spotify.com/track/15z178WCmCpGL5FaSDQokZ) | [Arca M](https://open.spotify.com/artist/4qVGCiHNMFQPWATwj7stKg) | [Pavillons résidentiels](https://open.spotify.com/album/3I6cKDIXLEYPuhOyXKbS9N) | 2:59 |
 | 50 | [ATTITUDE](https://open.spotify.com/track/09u87tRFWJH0hlgeEH4Tgu) | [Venus VNR](https://open.spotify.com/artist/1VNVb5UAADT5TLDjQ1oGZW) | [ATTITUDE](https://open.spotify.com/album/0J1vKaqrAHhMUGk7euACSy) | 2:58 |
 
-Snapshot ID: `AAAAAEdduL3+0KcxkZEibbQ8PB4XpANs`
+Snapshot ID: `AAAAAIUAtwAzhgZwj+DOU6i8VDMp2jDh`

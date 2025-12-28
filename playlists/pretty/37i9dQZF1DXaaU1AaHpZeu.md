@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie en español, con Querido en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,453 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,418 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 49 | [Bailando en diciembre](https://open.spotify.com/track/1PU6Hs8kWNHPQSBg34bMWy) | [David Rees](https://open.spotify.com/artist/2CQHyfluB4mliyv193Qn2L) | [Bailando en diciembre](https://open.spotify.com/album/3GmfAgaMxbWItWwdBGQfzB) | 3:00 |
 | 50 | [Vos y la mancha](https://open.spotify.com/track/5Q7C9bGv3zZMUP8fpqHcyM) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Vos y la mancha](https://open.spotify.com/album/7x0fNiihZOqRiEyBOExIwN) | 2:51 |
 
-Snapshot ID: `AAAAACjk/NQMDlwvwiB4J2Ybvlfa49ci`
+Snapshot ID: `AAAAAGUCCXcG5LvyvUtt64afjnHoQzT/`

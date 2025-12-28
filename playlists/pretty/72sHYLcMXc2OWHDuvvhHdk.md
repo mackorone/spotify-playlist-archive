@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 553 likes - 2,135 songs - 5 day 5 hr 2 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 553 likes - 2,138 songs - 5 day 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2143,5 +2143,8 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2133 | [Quiero vivir en el espacio](https://open.spotify.com/track/3yWe7WGRUfG3wbXyDMHzOh) | [Mr\. Mol](https://open.spotify.com/artist/0Pzhf2LTb0C0RJeAxaEBjx), [Lorenzo Graef](https://open.spotify.com/artist/4y9vxtCepgauWVhNLOMWCW), [Pat Quinteros](https://open.spotify.com/artist/5pNjXSuX973oATEuCzHlio) | [Lo primero que se te ocurra](https://open.spotify.com/album/6xIC1j2VkTC0Ekzc52JLtJ) | 5:26 |
 | 2134 | [Urlo di Pace \(Pace, Ora, Sempre\)](https://open.spotify.com/track/2KJRRnYtlq0ybFE5zvbfAK) | [Laci Dj](https://open.spotify.com/artist/7MEDNBuTRtw2bXNBjZ9XDY), [Aelia Vex](https://open.spotify.com/artist/6y6YOsYzbL0bn2Cc97CNYW) | [Urlo di Pace \(Pace, Ora, Sempre\)](https://open.spotify.com/album/08G1AG6jjFYANkSV4L79hL) | 3:47 |
 | 2135 | [L'amore c'è](https://open.spotify.com/track/4bEWTVyuR1HSq5keoNWL6t) | [Marco Guardiano](https://open.spotify.com/artist/1CtnmLECMYU4DhVP59Y1CR) | [L'amore c'è](https://open.spotify.com/album/7DhIHKo4IfdVVBzfRqCudq) | 4:01 |
+| 2136 | [Anybody Out There](https://open.spotify.com/track/4Dulb3Cng8qV360NJFtEBr) | [Ludwig Jonsson](https://open.spotify.com/artist/6pWJeM6v6cLKjblDNWYNdx) | [Anybody Out There](https://open.spotify.com/album/0cVV8otUnb6rE5SisKVgUk) | 3:21 |
+| 2137 | [Kiss Me Deadly](https://open.spotify.com/track/2S3zeYcxOMcjrdVLZWSeUJ) | [Ken Tizzard and Music for Goats](https://open.spotify.com/artist/61WoSnXBrkPMvoiTHmHG3a) | [Kiss Me Deadly](https://open.spotify.com/album/3xiDe0BHQ75UNk6FPHALbY) | 4:12 |
+| 2138 | [Infinity Life](https://open.spotify.com/track/1IwAAaBpIe5DnUTvdIWvCI) | [Fuse Mind](https://open.spotify.com/artist/0m888cJPAkYjR6VeUY95sF) | [Infinity Life](https://open.spotify.com/album/12mqZDxOPhD3RRD49egSCK) | 4:32 |
 
-Snapshot ID: `AAAI7Jy4qVVrmKPHJ6KeWqq2V054Dd4k`
+Snapshot ID: `AAAI70ICQMsErIZUOwfAVlySlxqnK9e3`

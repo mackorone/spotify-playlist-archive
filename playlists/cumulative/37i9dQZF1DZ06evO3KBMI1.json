@@ -1159,6 +1159,24 @@
     },
     {
       "album": {
+        "name": "EPIPHANY at Tokyo Dome 2025.06.15",
+        "url": "https://open.spotify.com/album/1f018h8BBE9PAXJoWBqlRR"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2025-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277772,
+      "name": "NO MAP EPIPHANY at Tokyo Dome 2025.06.15 - Live Version",
+      "url": "https://open.spotify.com/track/3Nbs2g7FC4naMto9Pguuq9"
+    },
+    {
+      "album": {
         "name": "NO.1",
         "url": "https://open.spotify.com/album/3tNT6nyzW65FKqjmOjp0ID"
       },
@@ -2244,7 +2262,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-28",
       "duration_ms": 272000,
       "name": "\u6d6e\u4e16CROSSING",
       "url": "https://open.spotify.com/track/0n9hO5hjv7CwUd4bPpGyQJ"

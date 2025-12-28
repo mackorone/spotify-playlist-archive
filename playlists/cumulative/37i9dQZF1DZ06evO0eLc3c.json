@@ -1107,6 +1107,24 @@
     },
     {
       "album": {
+        "name": "Horses (50th Anniversary)",
+        "url": "https://open.spotify.com/album/5wfqCy3E6SOkH16Qhv7QRm"
+      },
+      "artists": [
+        {
+          "name": "Patti Smith",
+          "url": "https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP"
+        }
+      ],
+      "date_added": "2025-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194002,
+      "name": "Snowball",
+      "url": "https://open.spotify.com/track/4IAegz9aNs4XgFEnrRPW4q"
+    },
+    {
+      "album": {
         "name": "Snowball",
         "url": "https://open.spotify.com/album/36qDPABaXGNyc4bdbWDjwL"
       },
@@ -1118,7 +1136,7 @@
       ],
       "date_added": "2025-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-28",
       "duration_ms": 194002,
       "name": "Snowball",
       "url": "https://open.spotify.com/track/4idrWKpqjPzRBE4LLwhSpo"

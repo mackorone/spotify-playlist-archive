@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨070 Shake & Jacob Mühlrad✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,678 likes - 316 songs - 17 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,667 likes - 316 songs - 17 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

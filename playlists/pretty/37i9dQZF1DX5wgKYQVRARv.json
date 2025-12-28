@@ -1,6 +1,6 @@
 {
   "description": "New and recent favorites of Prog Metal. Cover: Opeth",
-  "num_followers": 564819,
+  "num_followers": 564846,
   "original_name": "Progressive Metal",
   "owner": {
     "name": "Spotify",
@@ -843,6 +843,22 @@
     {
       "added_at": "2025-11-28 04:00:03",
       "album": {
+        "name": "Babylon",
+        "url": "https://open.spotify.com/album/3OkzPyOooJP45KQ4DQKASB"
+      },
+      "artists": [
+        {
+          "name": "Gore.",
+          "url": "https://open.spotify.com/artist/29lirphalEtxlf1f8XlGes"
+        }
+      ],
+      "duration_ms": 213912,
+      "name": "Babylon",
+      "url": "https://open.spotify.com/track/08a4bFctE95DLCqCAFezR9"
+    },
+    {
+      "added_at": "2025-11-28 04:00:03",
+      "album": {
         "name": "Take on Me (Musora Session)",
         "url": "https://open.spotify.com/album/1Y7yz5tBAwDJIpkEnGCbuS"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 288361,
       "name": "Take on Me - Musora Session",
       "url": "https://open.spotify.com/track/4kXXgjWfmCgK0uR1kSqvFb"
-    },
-    {
-      "added_at": "2025-11-28 04:00:03",
-      "album": {
-        "name": "Babylon",
-        "url": "https://open.spotify.com/album/3OkzPyOooJP45KQ4DQKASB"
-      },
-      "artists": [
-        {
-          "name": "Gore.",
-          "url": "https://open.spotify.com/artist/29lirphalEtxlf1f8XlGes"
-        }
-      ],
-      "duration_ms": 213912,
-      "name": "Babylon",
-      "url": "https://open.spotify.com/track/08a4bFctE95DLCqCAFezR9"
     },
     {
       "added_at": "2025-11-28 04:00:03",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2025-11-28 04:00:03",
       "album": {
-        "name": "Go Not Thither",
-        "url": "https://open.spotify.com/album/61NkiJ8QSowo8WHKzQEsn5"
-      },
-      "artists": [
-        {
-          "name": "Paul Gilbert",
-          "url": "https://open.spotify.com/artist/19sJfp2FK2evlsw46WVhPG"
-        }
-      ],
-      "duration_ms": 292842,
-      "name": "Go Not Thither",
-      "url": "https://open.spotify.com/track/1qu0XDzc9oNnI8bHwD8SJW"
-    },
-    {
-      "added_at": "2025-11-28 04:00:03",
-      "album": {
         "name": "CURE",
         "url": "https://open.spotify.com/album/1SOXDy18xKOgjygDKqCHWv"
       },
@@ -1083,22 +1067,6 @@
       "duration_ms": 298866,
       "name": "Wave",
       "url": "https://open.spotify.com/track/014c5V0EGCimDcpOHHollM"
-    },
-    {
-      "added_at": "2025-11-28 04:00:03",
-      "album": {
-        "name": "A View From The Top Of The World",
-        "url": "https://open.spotify.com/album/5eukDoHISjksEavVxVKcXn"
-      },
-      "artists": [
-        {
-          "name": "Dream Theater",
-          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
-        }
-      ],
-      "duration_ms": 390760,
-      "name": "Invisible Monster",
-      "url": "https://open.spotify.com/track/62oMXLTGaewaJ93gQVyZ4Y"
     },
     {
       "added_at": "2025-11-28 04:00:03",
@@ -1123,6 +1091,38 @@
       "duration_ms": 302866,
       "name": "Cannibal (feat. Anders Frid\u00e9n)",
       "url": "https://open.spotify.com/track/0k1MG0ldL8k580UVAcM7l1"
+    },
+    {
+      "added_at": "2025-11-28 04:00:03",
+      "album": {
+        "name": "A View From The Top Of The World",
+        "url": "https://open.spotify.com/album/5eukDoHISjksEavVxVKcXn"
+      },
+      "artists": [
+        {
+          "name": "Dream Theater",
+          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
+        }
+      ],
+      "duration_ms": 390760,
+      "name": "Invisible Monster",
+      "url": "https://open.spotify.com/track/62oMXLTGaewaJ93gQVyZ4Y"
+    },
+    {
+      "added_at": "2025-11-28 04:00:03",
+      "album": {
+        "name": "Go Not Thither",
+        "url": "https://open.spotify.com/album/61NkiJ8QSowo8WHKzQEsn5"
+      },
+      "artists": [
+        {
+          "name": "Paul Gilbert",
+          "url": "https://open.spotify.com/artist/19sJfp2FK2evlsw46WVhPG"
+        }
+      ],
+      "duration_ms": 292842,
+      "name": "Go Not Thither",
+      "url": "https://open.spotify.com/track/1qu0XDzc9oNnI8bHwD8SJW"
     },
     {
       "added_at": "2025-11-28 04:00:03",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2025-11-28 04:00:03",
       "album": {
-        "name": "Dislocated",
-        "url": "https://open.spotify.com/album/6Vr6pUhz1f9kKGSTvCAYVX"
-      },
-      "artists": [
-        {
-          "name": "Midwinter",
-          "url": "https://open.spotify.com/artist/4lCssyVFY0bUbplxqwwu8J"
-        }
-      ],
-      "duration_ms": 260689,
-      "name": "Dislocated",
-      "url": "https://open.spotify.com/track/1Iw4yXNzBGnvxDfaNuMo3W"
-    },
-    {
-      "added_at": "2025-11-28 04:00:03",
-      "album": {
         "name": "War Of Being",
         "url": "https://open.spotify.com/album/32xlRHSOQrN0gaLNRmesGd"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 262153,
       "name": "Heirloom",
       "url": "https://open.spotify.com/track/30a1OAy25aiX9vdYxy42om"
+    },
+    {
+      "added_at": "2025-11-28 04:00:03",
+      "album": {
+        "name": "Dislocated",
+        "url": "https://open.spotify.com/album/6Vr6pUhz1f9kKGSTvCAYVX"
+      },
+      "artists": [
+        {
+          "name": "Midwinter",
+          "url": "https://open.spotify.com/artist/4lCssyVFY0bUbplxqwwu8J"
+        }
+      ],
+      "duration_ms": 260689,
+      "name": "Dislocated",
+      "url": "https://open.spotify.com/track/1Iw4yXNzBGnvxDfaNuMo3W"
     },
     {
       "added_at": "2025-11-28 04:00:03",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2025-11-28 04:00:03",
       "album": {
-        "name": "Synaesthesia",
-        "url": "https://open.spotify.com/album/0sYGgAFl5rWpA2oUbhoeSU"
-      },
-      "artists": [
-        {
-          "name": "Weather Systems",
-          "url": "https://open.spotify.com/artist/79pII4A4OPL8CZRfAmAZOq"
-        }
-      ],
-      "duration_ms": 551436,
-      "name": "Synaesthesia",
-      "url": "https://open.spotify.com/track/7ffadND3ZiB9jgKjI11SEr"
-    },
-    {
-      "added_at": "2025-11-28 04:00:03",
-      "album": {
         "name": "Atonement",
         "url": "https://open.spotify.com/album/3E4LUxzT8WeKm3JYpLYQXu"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 289197,
       "name": "Atonement",
       "url": "https://open.spotify.com/track/6qpV9y4hLYXoM0MEWwf0rR"
+    },
+    {
+      "added_at": "2025-11-28 04:00:03",
+      "album": {
+        "name": "Synaesthesia",
+        "url": "https://open.spotify.com/album/0sYGgAFl5rWpA2oUbhoeSU"
+      },
+      "artists": [
+        {
+          "name": "Weather Systems",
+          "url": "https://open.spotify.com/artist/79pII4A4OPL8CZRfAmAZOq"
+        }
+      ],
+      "duration_ms": 551436,
+      "name": "Synaesthesia",
+      "url": "https://open.spotify.com/track/7ffadND3ZiB9jgKjI11SEr"
     },
     {
       "added_at": "2025-11-28 04:00:03",
@@ -1871,6 +1871,22 @@
     {
       "added_at": "2025-11-28 04:00:03",
       "album": {
+        "name": "Ember",
+        "url": "https://open.spotify.com/album/29oysxY69oKBVkuY1BvDJc"
+      },
+      "artists": [
+        {
+          "name": "Plini",
+          "url": "https://open.spotify.com/artist/3Gs10XJ4S4OEFrMRqZJcic"
+        }
+      ],
+      "duration_ms": 359333,
+      "name": "Ember",
+      "url": "https://open.spotify.com/track/3eD7Z4qOcBitNcL5WRfTJR"
+    },
+    {
+      "added_at": "2025-11-28 04:00:03",
+      "album": {
         "name": "Apple of Discord",
         "url": "https://open.spotify.com/album/71AN4Bro8X57lLN90tfelX"
       },
@@ -1887,22 +1903,6 @@
       "duration_ms": 246750,
       "name": "The Rat & The Snake",
       "url": "https://open.spotify.com/track/6I1HQ1fAggIDm17CXJo6aq"
-    },
-    {
-      "added_at": "2025-11-28 04:00:03",
-      "album": {
-        "name": "Ember",
-        "url": "https://open.spotify.com/album/29oysxY69oKBVkuY1BvDJc"
-      },
-      "artists": [
-        {
-          "name": "Plini",
-          "url": "https://open.spotify.com/artist/3Gs10XJ4S4OEFrMRqZJcic"
-        }
-      ],
-      "duration_ms": 359333,
-      "name": "Ember",
-      "url": "https://open.spotify.com/track/3eD7Z4qOcBitNcL5WRfTJR"
     },
     {
       "added_at": "2025-11-28 04:00:03",
@@ -2051,22 +2051,6 @@
     {
       "added_at": "2025-11-28 04:00:03",
       "album": {
-        "name": "Memorial",
-        "url": "https://open.spotify.com/album/1gt8LiaUkgCJp201rXimj2"
-      },
-      "artists": [
-        {
-          "name": "Soen",
-          "url": "https://open.spotify.com/artist/38uWD5h115pdz278q4rwZW"
-        }
-      ],
-      "duration_ms": 278186,
-      "name": "Memorial",
-      "url": "https://open.spotify.com/track/4M2fSEcYoPxaOgL5v77ZpP"
-    },
-    {
-      "added_at": "2025-11-28 04:00:03",
-      "album": {
         "name": "Do Your Worst",
         "url": "https://open.spotify.com/album/0UsVF1iYngI5R1ubRhvgXV"
       },
@@ -2083,6 +2067,22 @@
       "duration_ms": 252000,
       "name": "Do Your Worst",
       "url": "https://open.spotify.com/track/2PmUzUUq57pfjCloz7U4IS"
+    },
+    {
+      "added_at": "2025-11-28 04:00:03",
+      "album": {
+        "name": "Memorial",
+        "url": "https://open.spotify.com/album/1gt8LiaUkgCJp201rXimj2"
+      },
+      "artists": [
+        {
+          "name": "Soen",
+          "url": "https://open.spotify.com/artist/38uWD5h115pdz278q4rwZW"
+        }
+      ],
+      "duration_ms": 278186,
+      "name": "Memorial",
+      "url": "https://open.spotify.com/track/4M2fSEcYoPxaOgL5v77ZpP"
     },
     {
       "added_at": "2025-11-28 04:00:03",
@@ -2151,18 +2151,18 @@
     {
       "added_at": "2025-11-28 04:00:03",
       "album": {
-        "name": "M\u00far",
-        "url": "https://open.spotify.com/album/7sDMrZjpctJuxpRNBN1KdU"
+        "name": "Wallflower",
+        "url": "https://open.spotify.com/album/4WUduyQqdZ5ihHSvDZ8ZYj"
       },
       "artists": [
         {
-          "name": "M\u00far",
-          "url": "https://open.spotify.com/artist/5EfO063u0RoH2Bz9kbsPzO"
+          "name": "Jinjer",
+          "url": "https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf"
         }
       ],
-      "duration_ms": 577506,
-      "name": "Vitrun",
-      "url": "https://open.spotify.com/track/2OdFIecA3mOdAf7UjxLJ7O"
+      "duration_ms": 257894,
+      "name": "Wallflower",
+      "url": "https://open.spotify.com/track/657pCrjmICGxzsMU8zPnAj"
     },
     {
       "added_at": "2025-11-28 04:00:03",
@@ -2191,18 +2191,18 @@
     {
       "added_at": "2025-11-28 04:00:03",
       "album": {
-        "name": "Silently Walking Alone",
-        "url": "https://open.spotify.com/album/4v7F020kNf6htiA1kkBm0J"
+        "name": "M\u00far",
+        "url": "https://open.spotify.com/album/7sDMrZjpctJuxpRNBN1KdU"
       },
       "artists": [
         {
-          "name": "Leprous",
-          "url": "https://open.spotify.com/artist/4lgrzShsg2FLA89UM2fdO5"
+          "name": "M\u00far",
+          "url": "https://open.spotify.com/artist/5EfO063u0RoH2Bz9kbsPzO"
         }
       ],
-      "duration_ms": 245077,
-      "name": "Silently Walking Alone",
-      "url": "https://open.spotify.com/track/1y2H49mWggsh4DLiGDqwZq"
+      "duration_ms": 577506,
+      "name": "Vitrun",
+      "url": "https://open.spotify.com/track/2OdFIecA3mOdAf7UjxLJ7O"
     },
     {
       "added_at": "2025-11-28 04:00:03",
@@ -2223,18 +2223,18 @@
     {
       "added_at": "2025-11-28 04:00:03",
       "album": {
-        "name": "Wallflower",
-        "url": "https://open.spotify.com/album/4WUduyQqdZ5ihHSvDZ8ZYj"
+        "name": "Silently Walking Alone",
+        "url": "https://open.spotify.com/album/4v7F020kNf6htiA1kkBm0J"
       },
       "artists": [
         {
-          "name": "Jinjer",
-          "url": "https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf"
+          "name": "Leprous",
+          "url": "https://open.spotify.com/artist/4lgrzShsg2FLA89UM2fdO5"
         }
       ],
-      "duration_ms": 257894,
-      "name": "Wallflower",
-      "url": "https://open.spotify.com/track/657pCrjmICGxzsMU8zPnAj"
+      "duration_ms": 245077,
+      "name": "Silently Walking Alone",
+      "url": "https://open.spotify.com/track/1y2H49mWggsh4DLiGDqwZq"
     },
     {
       "added_at": "2025-11-28 04:00:03",
@@ -2395,6 +2395,22 @@
     {
       "added_at": "2025-11-28 04:00:03",
       "album": {
+        "name": "Dream Chaser",
+        "url": "https://open.spotify.com/album/0EoTgMQbkcCprkuVcLuJsE"
+      },
+      "artists": [
+        {
+          "name": "Rendezvous Point",
+          "url": "https://open.spotify.com/artist/0AhnRzNnHI2Yhx9d00H5Cp"
+        }
+      ],
+      "duration_ms": 280207,
+      "name": "Presence",
+      "url": "https://open.spotify.com/track/0UyTtFzEmWbirYnQz5zYYH"
+    },
+    {
+      "added_at": "2025-11-28 04:00:03",
+      "album": {
         "name": "16",
         "url": "https://open.spotify.com/album/25jWll9IwvwbKSChqKmMdG"
       },
@@ -2415,18 +2431,18 @@
     {
       "added_at": "2025-11-28 04:00:03",
       "album": {
-        "name": "Dream Chaser",
-        "url": "https://open.spotify.com/album/0EoTgMQbkcCprkuVcLuJsE"
+        "name": "At Races",
+        "url": "https://open.spotify.com/album/1YXeMcK6jeDBQ41M3DpSZ3"
       },
       "artists": [
         {
-          "name": "Rendezvous Point",
-          "url": "https://open.spotify.com/artist/0AhnRzNnHI2Yhx9d00H5Cp"
+          "name": "Messa",
+          "url": "https://open.spotify.com/artist/6vFinMN4E9leUfcEyIIO0D"
         }
       ],
-      "duration_ms": 280207,
-      "name": "Presence",
-      "url": "https://open.spotify.com/track/0UyTtFzEmWbirYnQz5zYYH"
+      "duration_ms": 359840,
+      "name": "At Races",
+      "url": "https://open.spotify.com/track/2F9RANfKhByYWOhUiY7Fh0"
     },
     {
       "added_at": "2025-11-28 04:00:03",
@@ -2443,22 +2459,6 @@
       "duration_ms": 208431,
       "name": "PowerNerd",
       "url": "https://open.spotify.com/track/4iZk14JjaPO94fDVShNgdV"
-    },
-    {
-      "added_at": "2025-11-28 04:00:03",
-      "album": {
-        "name": "At Races",
-        "url": "https://open.spotify.com/album/1YXeMcK6jeDBQ41M3DpSZ3"
-      },
-      "artists": [
-        {
-          "name": "Messa",
-          "url": "https://open.spotify.com/artist/6vFinMN4E9leUfcEyIIO0D"
-        }
-      ],
-      "duration_ms": 359840,
-      "name": "At Races",
-      "url": "https://open.spotify.com/track/2F9RANfKhByYWOhUiY7Fh0"
     },
     {
       "added_at": "2025-11-28 04:00:03",

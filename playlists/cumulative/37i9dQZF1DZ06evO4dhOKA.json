@@ -1307,6 +1307,36 @@
     },
     {
       "album": {
+        "name": "Chapayeka (En Vivo)",
+        "url": "https://open.spotify.com/album/1r5HcVrfZKh7dDwpeRaZ9x"
+      },
+      "artists": [
+        {
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "PALOMAZO NORTE\u00d1O",
+          "url": "https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC"
+        },
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        },
+        {
+          "name": "Eliseo Robles",
+          "url": "https://open.spotify.com/artist/7mK1F4c2VQnHzuoH4wUX2y"
+        }
+      ],
+      "date_added": "2025-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227375,
+      "name": "Laurita Garza (En Vivo)",
+      "url": "https://open.spotify.com/track/53e9MB7ZwMxlZsvqwoEEUS"
+    },
+    {
+      "album": {
         "name": "12 Corridos",
         "url": "https://open.spotify.com/album/61Wgmeafpz6XHnIrYwsbh4"
       },
@@ -1658,7 +1688,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-28",
       "duration_ms": 187560,
       "name": "Me Regalo Contigo",
       "url": "https://open.spotify.com/track/7pdWEE81ttyaExmwjKEwgt"

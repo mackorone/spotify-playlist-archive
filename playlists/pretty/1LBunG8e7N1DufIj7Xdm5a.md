@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 256 likes - 3,816 songs - 8 day 10 hr 22 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 258 likes - 3,818 songs - 8 day 10 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -3824,5 +3824,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 3814 | [The Ride Down](https://open.spotify.com/track/6AMWZ9fWpN2U28a3H5a7SS) | [Tilt 360](https://open.spotify.com/artist/32oplagvPK0sLgWgOm5u2x) | [It Grows](https://open.spotify.com/album/1NUY4o4RVyI3Y7NXO5mMq8) | 3:57 |
 | 3815 | [Firefly Feast](https://open.spotify.com/track/2fgK8lEyLfYn5DAgHjL4j1) | [MGila\_00](https://open.spotify.com/artist/29ghh8SWOgR4zcnUrG5pp8) | [Dark Forest Cruise](https://open.spotify.com/album/5UJrnNlYatHz2JjPCD5IHq) | 2:09 |
 | 3816 | [remember that time \- demo](https://open.spotify.com/track/2WmZ2yOTzQZSFKePzKalDW) | [cadenn](https://open.spotify.com/artist/5R8wFLLq8qW1vOVntakADR) | [remember that time \(demo\)](https://open.spotify.com/album/70O6lr0dswyDaSUc8By1KC) | 5:20 |
+| 3817 | [März im Zwielicht](https://open.spotify.com/track/2s3IZwssHIhUUeY7BIfI42) | [Sven Hurny](https://open.spotify.com/artist/5QAKq2gao5X42m8VifJEcA) | [Das Jahr in Monaten](https://open.spotify.com/album/1ETUZ16CI21cc6dR4soEcS) | 3:18 |
+| 3818 | [Leaving For The Summer](https://open.spotify.com/track/2si1Z5vk1qKPBOddYakSYX) | [White Star Line](https://open.spotify.com/artist/3qDMmbHoQIpMvNuOzyazsh) | [Leaving For The Summer](https://open.spotify.com/album/1OL4HB5Fkd0U78TehJXbZA) | 3:52 |
 
-Snapshot ID: `AAAGdAWxJ6wreXbXagNY8n8i1ntBEqyF`
+Snapshot ID: `AAAGdt2L8rbRTt1zFTIaWw5La0Fig6RU`

@@ -1,12 +1,12 @@
 {
   "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Paula Biskup",
-  "num_followers": 24574,
+  "num_followers": 24573,
   "original_name": "up next",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPCQMAoWy0wu2irWI21ozDhXpUpD",
+  "snapshot_id": "AAAAAKU0iXQbJmdg1XvBKK+OQhKJDamD",
   "tracks": [
     {
       "added_at": "2025-12-18 23:00:23",
@@ -271,18 +271,22 @@
     {
       "added_at": "2025-12-18 23:00:23",
       "album": {
-        "name": "Nic nie p\u0142onie",
-        "url": "https://open.spotify.com/album/5y7ZttStHIgf34N5zJlWNB"
+        "name": "M\u00f3w do Mnie",
+        "url": "https://open.spotify.com/album/6OayOjwX7kDU1ZhDAEJEIJ"
       },
       "artists": [
         {
-          "name": "metro",
-          "url": "https://open.spotify.com/artist/5TuV5KauTXLFX1ODD7mEb0"
+          "name": "OG KAMKA",
+          "url": "https://open.spotify.com/artist/4PWPZvjcjwtAh07gTsNPTb"
+        },
+        {
+          "name": "Viki Gabor",
+          "url": "https://open.spotify.com/artist/3yCRvilOBzRkyxOsOi4tsR"
         }
       ],
-      "duration_ms": 177272,
-      "name": "Nic nie p\u0142onie",
-      "url": "https://open.spotify.com/track/6fEbkXBEE4aQXZf6B9Eh1m"
+      "duration_ms": 158550,
+      "name": "M\u00f3w do Mnie",
+      "url": "https://open.spotify.com/track/2SSzVxGRaNdP86juW7aEJ3"
     },
     {
       "added_at": "2025-12-18 23:00:23",
@@ -299,6 +303,22 @@
       "duration_ms": 233636,
       "name": "Firdyga\u0142ki",
       "url": "https://open.spotify.com/track/7HjSGd75KfBbKAEcMZogKi"
+    },
+    {
+      "added_at": "2025-12-18 23:00:23",
+      "album": {
+        "name": "Nic nie p\u0142onie",
+        "url": "https://open.spotify.com/album/5y7ZttStHIgf34N5zJlWNB"
+      },
+      "artists": [
+        {
+          "name": "metro",
+          "url": "https://open.spotify.com/artist/5TuV5KauTXLFX1ODD7mEb0"
+        }
+      ],
+      "duration_ms": 177272,
+      "name": "Nic nie p\u0142onie",
+      "url": "https://open.spotify.com/track/6fEbkXBEE4aQXZf6B9Eh1m"
     },
     {
       "added_at": "2025-12-18 23:00:23",
@@ -371,26 +391,6 @@
       "duration_ms": 187533,
       "name": "Nie p\u0142acz za mn\u0105 zbyt cz\u0119sto!",
       "url": "https://open.spotify.com/track/2f6UPHuNkMeYEXCCTT56XM"
-    },
-    {
-      "added_at": "2025-12-18 23:00:23",
-      "album": {
-        "name": "M\u00f3w do Mnie",
-        "url": "https://open.spotify.com/album/6OayOjwX7kDU1ZhDAEJEIJ"
-      },
-      "artists": [
-        {
-          "name": "OG KAMKA",
-          "url": "https://open.spotify.com/artist/4PWPZvjcjwtAh07gTsNPTb"
-        },
-        {
-          "name": "Viki Gabor",
-          "url": "https://open.spotify.com/artist/3yCRvilOBzRkyxOsOi4tsR"
-        }
-      ],
-      "duration_ms": 158550,
-      "name": "M\u00f3w do Mnie",
-      "url": "https://open.spotify.com/track/2SSzVxGRaNdP86juW7aEJ3"
     },
     {
       "added_at": "2025-12-18 23:00:23",
@@ -587,26 +587,6 @@
     {
       "added_at": "2025-12-18 23:00:23",
       "album": {
-        "name": "Czerwiec",
-        "url": "https://open.spotify.com/album/0vbtP4aOHMxfXwbMvPqaUd"
-      },
-      "artists": [
-        {
-          "name": "Dawid Tyszkowski",
-          "url": "https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K"
-        },
-        {
-          "name": "Piotr Odoszewski",
-          "url": "https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk"
-        }
-      ],
-      "duration_ms": 317013,
-      "name": "Czerwiec",
-      "url": "https://open.spotify.com/track/5DOmpafBNAJrBoZZHigYfX"
-    },
-    {
-      "added_at": "2025-12-18 23:00:23",
-      "album": {
         "name": "Pojutrze",
         "url": "https://open.spotify.com/album/2wg5VZWYA848fPyVuhLAI0"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 183846,
       "name": "Pojutrze",
       "url": "https://open.spotify.com/track/3lHIx9LQzdH9ujcP5ijKEm"
+    },
+    {
+      "added_at": "2025-12-18 23:00:23",
+      "album": {
+        "name": "Czerwiec",
+        "url": "https://open.spotify.com/album/0vbtP4aOHMxfXwbMvPqaUd"
+      },
+      "artists": [
+        {
+          "name": "Dawid Tyszkowski",
+          "url": "https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K"
+        },
+        {
+          "name": "Piotr Odoszewski",
+          "url": "https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk"
+        }
+      ],
+      "duration_ms": 317013,
+      "name": "Czerwiec",
+      "url": "https://open.spotify.com/track/5DOmpafBNAJrBoZZHigYfX"
     },
     {
       "added_at": "2025-12-18 23:00:23",
@@ -683,22 +683,6 @@
     {
       "added_at": "2025-12-18 23:00:23",
       "album": {
-        "name": "xoxo",
-        "url": "https://open.spotify.com/album/1fNZT5ZnzRafSraPgJlsDf"
-      },
-      "artists": [
-        {
-          "name": "stickxr",
-          "url": "https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT"
-        }
-      ],
-      "duration_ms": 80089,
-      "name": "jest ok",
-      "url": "https://open.spotify.com/track/5DigAqqBPxlYVJ2bYJzPWk"
-    },
-    {
-      "added_at": "2025-12-18 23:00:23",
-      "album": {
         "name": "NA KONIEC LATA",
         "url": "https://open.spotify.com/album/3hxzY5TxqTx83i2KHQrVOZ"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 281200,
       "name": "Dotkni\u0119ta przez s\u0142o\u0144ce",
       "url": "https://open.spotify.com/track/1UXLbKlNgAHbPvjGHDY639"
+    },
+    {
+      "added_at": "2025-12-18 23:00:23",
+      "album": {
+        "name": "xoxo",
+        "url": "https://open.spotify.com/album/1fNZT5ZnzRafSraPgJlsDf"
+      },
+      "artists": [
+        {
+          "name": "stickxr",
+          "url": "https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT"
+        }
+      ],
+      "duration_ms": 80089,
+      "name": "jest ok",
+      "url": "https://open.spotify.com/track/5DigAqqBPxlYVJ2bYJzPWk"
     },
     {
       "added_at": "2025-12-18 23:00:23",
@@ -863,22 +863,6 @@
     {
       "added_at": "2025-12-18 23:00:23",
       "album": {
-        "name": "Kwiaty",
-        "url": "https://open.spotify.com/album/2pMNIDatMHgxf3T5CdjiTB"
-      },
-      "artists": [
-        {
-          "name": "Mi\u0142osz Skierski",
-          "url": "https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ"
-        }
-      ],
-      "duration_ms": 168661,
-      "name": "Kwiaty",
-      "url": "https://open.spotify.com/track/17oIHzuMJopfkzLuvSHzSR"
-    },
-    {
-      "added_at": "2025-12-18 23:00:23",
-      "album": {
         "name": "dooko\u0142a mnie",
         "url": "https://open.spotify.com/album/7AF2nxYKHzJM1C7PpI94og"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 124259,
       "name": "dooko\u0142a mnie",
       "url": "https://open.spotify.com/track/34QjFSfFR6oi9nUKb0jLWA"
+    },
+    {
+      "added_at": "2025-12-18 23:00:23",
+      "album": {
+        "name": "Kwiaty",
+        "url": "https://open.spotify.com/album/2pMNIDatMHgxf3T5CdjiTB"
+      },
+      "artists": [
+        {
+          "name": "Mi\u0142osz Skierski",
+          "url": "https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ"
+        }
+      ],
+      "duration_ms": 168661,
+      "name": "Kwiaty",
+      "url": "https://open.spotify.com/track/17oIHzuMJopfkzLuvSHzSR"
     },
     {
       "added_at": "2025-12-18 23:00:23",
@@ -947,22 +947,6 @@
     {
       "added_at": "2025-12-18 23:00:23",
       "album": {
-        "name": "Koniec",
-        "url": "https://open.spotify.com/album/03ruuVqjCUVBvicIlCRDkO"
-      },
-      "artists": [
-        {
-          "name": "Mi\u0142osz Skierski",
-          "url": "https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ"
-        }
-      ],
-      "duration_ms": 205120,
-      "name": "Koniec",
-      "url": "https://open.spotify.com/track/71bxgWtZXnLiJwEYqywrwV"
-    },
-    {
-      "added_at": "2025-12-18 23:00:23",
-      "album": {
         "name": "Boisz si\u0119",
         "url": "https://open.spotify.com/album/5O7WpfdyHWZiqzIVclkOwX"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 181052,
       "name": "Boisz si\u0119",
       "url": "https://open.spotify.com/track/5OPDVu8yGItlFz8BsVQkF4"
+    },
+    {
+      "added_at": "2025-12-18 23:00:23",
+      "album": {
+        "name": "Koniec",
+        "url": "https://open.spotify.com/album/03ruuVqjCUVBvicIlCRDkO"
+      },
+      "artists": [
+        {
+          "name": "Mi\u0142osz Skierski",
+          "url": "https://open.spotify.com/artist/0aEvxy0vmxXQixOiE9qyhJ"
+        }
+      ],
+      "duration_ms": 205120,
+      "name": "Koniec",
+      "url": "https://open.spotify.com/track/71bxgWtZXnLiJwEYqywrwV"
     },
     {
       "added_at": "2025-12-18 23:00:23",
@@ -1143,18 +1143,22 @@
     {
       "added_at": "2025-12-18 23:00:23",
       "album": {
-        "name": "My Name Is Pozna\u0144 4.0",
-        "url": "https://open.spotify.com/album/40qT9MT0EfkLT7k6Na1Ev3"
+        "name": "Berek",
+        "url": "https://open.spotify.com/album/1Rl1CSns9BvYAva33KH1bX"
       },
       "artists": [
         {
-          "name": "Kachus",
-          "url": "https://open.spotify.com/artist/3Ya5NT5vLex3mCIt2DTmkJ"
+          "name": "Odet",
+          "url": "https://open.spotify.com/artist/6NluCdkugeqhK6bjknJbLl"
+        },
+        {
+          "name": "ZORZA",
+          "url": "https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX"
         }
       ],
-      "duration_ms": 180920,
-      "name": "Duma",
-      "url": "https://open.spotify.com/track/7x9Y4840DOkLn8vqQBA6DC"
+      "duration_ms": 216773,
+      "name": "Berek",
+      "url": "https://open.spotify.com/track/4RPlGO0EwiakrTylOD0U9Z"
     }
   ],
   "unique_name": "up next",

@@ -1,12 +1,12 @@
 {
   "description": "The best new independent songs. New tracks every month.",
-  "num_followers": 1111,
+  "num_followers": 1116,
   "original_name": "New Indie Music",
   "owner": {
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAOUyXRyaV03U0E7XN0yxpgFBEX1N6y",
+  "snapshot_id": "AAAObf7COxTyDVpdPIH7X2d6V7KXrzPE",
   "tracks": [
     {
       "added_at": "2025-11-28 08:14:38",
@@ -623,438 +623,6 @@
       "duration_ms": 254706,
       "name": "Latino",
       "url": "https://open.spotify.com/track/6zr9elbnpV5Idcb1IVnWrO"
-    },
-    {
-      "added_at": "2024-11-07 13:28:35",
-      "album": {
-        "name": "The Flying Devils (Shows Combined)",
-        "url": "https://open.spotify.com/album/7b3VM2h8t9PPtyPVNYMoe9"
-      },
-      "artists": [
-        {
-          "name": "Bob Salmieri Bastarduna Quintet",
-          "url": "https://open.spotify.com/artist/3IdFWdDrVGP4KOF3F6BHc3"
-        },
-        {
-          "name": "Alessandro De Angelis",
-          "url": "https://open.spotify.com/artist/1J6KmEHFsMbcuPxfY2Ehs2"
-        }
-      ],
-      "duration_ms": 284200,
-      "name": "The Flying Devils (Shows Combined)",
-      "url": "https://open.spotify.com/track/2FZWE52XorhcjHQFUK6T6o"
-    },
-    {
-      "added_at": "2024-10-03 20:13:00",
-      "album": {
-        "name": "A Bad Place To Be Born",
-        "url": "https://open.spotify.com/album/1UFJUNLMyBZcwM37LTvqHK"
-      },
-      "artists": [
-        {
-          "name": "Kafiristan",
-          "url": "https://open.spotify.com/artist/5YMvcsjHDQbAV9H5ScLyqK"
-        }
-      ],
-      "duration_ms": 241500,
-      "name": "A Bad Place To Be Born",
-      "url": "https://open.spotify.com/track/3dgJ3pBAYy2O9BOK1gU41x"
-    },
-    {
-      "added_at": "2024-09-05 15:33:40",
-      "album": {
-        "name": "Some Things Don't Pass",
-        "url": "https://open.spotify.com/album/0hk16jMY7J6nRC5ogZAgah"
-      },
-      "artists": [
-        {
-          "name": "Kafiristan",
-          "url": "https://open.spotify.com/artist/5YMvcsjHDQbAV9H5ScLyqK"
-        }
-      ],
-      "duration_ms": 192545,
-      "name": "Some Things Don't Pass",
-      "url": "https://open.spotify.com/track/7yE8YUpyp1J7HyH5Q52xiQ"
-    },
-    {
-      "added_at": "2024-08-09 15:13:36",
-      "album": {
-        "name": "Moon Dance",
-        "url": "https://open.spotify.com/album/3A9Ui4JbhRTsynnWPB6B8q"
-      },
-      "artists": [
-        {
-          "name": "Bob Salmieri",
-          "url": "https://open.spotify.com/artist/13WVJToFNF7CLqefdFdoqa"
-        },
-        {
-          "name": "Erodoto Project",
-          "url": "https://open.spotify.com/artist/0xRMcCIFa30RXvMGpTaDir"
-        },
-        {
-          "name": "Alessandro De Angelis",
-          "url": "https://open.spotify.com/artist/1J6KmEHFsMbcuPxfY2Ehs2"
-        },
-        {
-          "name": "Gianluca Urbano",
-          "url": "https://open.spotify.com/artist/7bqtO6GVyE8cx9hWVsjnZG"
-        }
-      ],
-      "duration_ms": 247923,
-      "name": "Moon Dance",
-      "url": "https://open.spotify.com/track/0A8ioyDhryFjhSjJbGoqyp"
-    },
-    {
-      "added_at": "2024-08-01 11:14:15",
-      "album": {
-        "name": "Back to the Circus",
-        "url": "https://open.spotify.com/album/0yVnHB9mEfJqXPSk3V6DmB"
-      },
-      "artists": [
-        {
-          "name": "Bob Salmieri Bastarduna Quintet",
-          "url": "https://open.spotify.com/artist/3IdFWdDrVGP4KOF3F6BHc3"
-        },
-        {
-          "name": "Danilo Gambardella",
-          "url": "https://open.spotify.com/artist/79S5c90qxy2Bo0AxYfZMJE"
-        },
-        {
-          "name": "Gianluca Urbano",
-          "url": "https://open.spotify.com/artist/7bqtO6GVyE8cx9hWVsjnZG"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Back to the Circus",
-      "url": "https://open.spotify.com/track/6GvZ2FDFManvfAcw4QRn5Y"
-    },
-    {
-      "added_at": "2024-07-18 13:14:29",
-      "album": {
-        "name": "Happiness never stays in the same place",
-        "url": "https://open.spotify.com/album/7565xCauDXp8eS8UUbs5XA"
-      },
-      "artists": [
-        {
-          "name": "Kafiristan",
-          "url": "https://open.spotify.com/artist/5YMvcsjHDQbAV9H5ScLyqK"
-        }
-      ],
-      "duration_ms": 177550,
-      "name": "Happiness never stays in the same place",
-      "url": "https://open.spotify.com/track/1sLjVtdUd3L5GivQTSQE1T"
-    },
-    {
-      "added_at": "2024-07-18 13:12:37",
-      "album": {
-        "name": "Lara's Song",
-        "url": "https://open.spotify.com/album/7GVgNdIAtsWckAPZzToEzm"
-      },
-      "artists": [
-        {
-          "name": "Bob Salmieri Bastarduna Quintet",
-          "url": "https://open.spotify.com/artist/3IdFWdDrVGP4KOF3F6BHc3"
-        },
-        {
-          "name": "Francesco Consaga",
-          "url": "https://open.spotify.com/artist/46YcHNc1RagPGq1l8t7N6L"
-        },
-        {
-          "name": "Danilo Gambardella",
-          "url": "https://open.spotify.com/artist/79S5c90qxy2Bo0AxYfZMJE"
-        },
-        {
-          "name": "Carlo Colombo",
-          "url": "https://open.spotify.com/artist/6CPbxGm2Uetd32H4OX1aZS"
-        }
-      ],
-      "duration_ms": 215892,
-      "name": "Lara's Song",
-      "url": "https://open.spotify.com/track/1NgIKvwjtB9Igm9s8IgkaN"
-    },
-    {
-      "added_at": "2024-07-11 15:00:22",
-      "album": {
-        "name": "Benny Golson's Dream",
-        "url": "https://open.spotify.com/album/24XNVoPLWV20KW97h3NJb2"
-      },
-      "artists": [
-        {
-          "name": "Bob Salmieri",
-          "url": "https://open.spotify.com/artist/13WVJToFNF7CLqefdFdoqa"
-        },
-        {
-          "name": "Manosanta Hard Soul",
-          "url": "https://open.spotify.com/artist/6B2s5HVELOBD4IIzqjbuGb"
-        },
-        {
-          "name": "Danilo Gambardella",
-          "url": "https://open.spotify.com/artist/79S5c90qxy2Bo0AxYfZMJE"
-        },
-        {
-          "name": "Francesco Consaga",
-          "url": "https://open.spotify.com/artist/46YcHNc1RagPGq1l8t7N6L"
-        },
-        {
-          "name": "Maurizio Perrone",
-          "url": "https://open.spotify.com/artist/2PICoEK7lgXMhdL89xvvKr"
-        },
-        {
-          "name": "Carlo Colombo",
-          "url": "https://open.spotify.com/artist/6CPbxGm2Uetd32H4OX1aZS"
-        }
-      ],
-      "duration_ms": 261222,
-      "name": "Benny Golson's Dream",
-      "url": "https://open.spotify.com/track/7gc5i4FXNAmSE9Z6lo284V"
-    },
-    {
-      "added_at": "2024-07-05 14:39:23",
-      "album": {
-        "name": "Josephine M. (Piano solo)",
-        "url": "https://open.spotify.com/album/5LhHLwZ76L1lTidJucY4v4"
-      },
-      "artists": [
-        {
-          "name": "Beato Angelico",
-          "url": "https://open.spotify.com/artist/5CJ0yEhrvURVrFstPuxFdG"
-        }
-      ],
-      "duration_ms": 141600,
-      "name": "Josephine M. - Piano solo",
-      "url": "https://open.spotify.com/track/1M5a7pAmFI2VqtNeLOmKHO"
-    },
-    {
-      "added_at": "2024-06-13 15:26:31",
-      "album": {
-        "name": "Bright Lights of Gaza",
-        "url": "https://open.spotify.com/album/330q4uPmolaxV7TIAlpmmh"
-      },
-      "artists": [
-        {
-          "name": "Bob Salmieri",
-          "url": "https://open.spotify.com/artist/13WVJToFNF7CLqefdFdoqa"
-        },
-        {
-          "name": "Mediterranean Jazz Project",
-          "url": "https://open.spotify.com/artist/2igMKABeT1z573MU6j9fXT"
-        },
-        {
-          "name": "Gianluca Urbano",
-          "url": "https://open.spotify.com/artist/7bqtO6GVyE8cx9hWVsjnZG"
-        },
-        {
-          "name": "Alfredo Posillipo",
-          "url": "https://open.spotify.com/artist/7t7CJWtF302EBxxrIefxC0"
-        }
-      ],
-      "duration_ms": 255498,
-      "name": "Bright Lights of Gaza",
-      "url": "https://open.spotify.com/track/0fr2XR7BwfggHtpCX685sl"
-    },
-    {
-      "added_at": "2024-05-23 16:12:13",
-      "album": {
-        "name": "Our Man in Rajasthan",
-        "url": "https://open.spotify.com/album/75pV5uJWF3Ne8TBBjrFsnL"
-      },
-      "artists": [
-        {
-          "name": "Kafiristan",
-          "url": "https://open.spotify.com/artist/5YMvcsjHDQbAV9H5ScLyqK"
-        },
-        {
-          "name": "Pakhi Adhikari Kalipada",
-          "url": "https://open.spotify.com/artist/7ozw5g9CS05d0lgbhPAmNv"
-        },
-        {
-          "name": "Mediterranean Jazz Project",
-          "url": "https://open.spotify.com/artist/2igMKABeT1z573MU6j9fXT"
-        }
-      ],
-      "duration_ms": 239953,
-      "name": "Our Man in Rajasthan",
-      "url": "https://open.spotify.com/track/5fN3GfmiP4a47NbWkJFSxo"
-    },
-    {
-      "added_at": "2024-05-09 15:11:33",
-      "album": {
-        "name": "Let the Rain Come",
-        "url": "https://open.spotify.com/album/5cc5gH0NgM181Q9QmIfz3k"
-      },
-      "artists": [
-        {
-          "name": "Bob Salmieri",
-          "url": "https://open.spotify.com/artist/13WVJToFNF7CLqefdFdoqa"
-        },
-        {
-          "name": "Mediterranean Jazz Project",
-          "url": "https://open.spotify.com/artist/2igMKABeT1z573MU6j9fXT"
-        },
-        {
-          "name": "Gianluca Urbano",
-          "url": "https://open.spotify.com/artist/7bqtO6GVyE8cx9hWVsjnZG"
-        },
-        {
-          "name": "Massimiliano De Lucia",
-          "url": "https://open.spotify.com/artist/0sXIcrA8yfLCqZQYC2MtIc"
-        }
-      ],
-      "duration_ms": 210405,
-      "name": "Let the Rain Come",
-      "url": "https://open.spotify.com/track/43kTcQuBEWFSRQGhkG4M0l"
-    },
-    {
-      "added_at": "2024-04-27 08:54:43",
-      "album": {
-        "name": "12 Am Lunch with Mayor",
-        "url": "https://open.spotify.com/album/5cGBSHDbt9P79JmESAjbrD"
-      },
-      "artists": [
-        {
-          "name": "Bob Salmieri Bastarduna Quintet",
-          "url": "https://open.spotify.com/artist/3IdFWdDrVGP4KOF3F6BHc3"
-        },
-        {
-          "name": "Danilo Gambardella",
-          "url": "https://open.spotify.com/artist/79S5c90qxy2Bo0AxYfZMJE"
-        },
-        {
-          "name": "Giancarlo Romani",
-          "url": "https://open.spotify.com/artist/59gxTwI7Wu2hNmNyj5l4Su"
-        }
-      ],
-      "duration_ms": 220012,
-      "name": "12 Am Lunch with Mayor",
-      "url": "https://open.spotify.com/track/15hoZhFK5LO9XUvhsDIOyV"
-    },
-    {
-      "added_at": "2024-04-11 15:58:39",
-      "album": {
-        "name": "Jane E. (Piano solo)",
-        "url": "https://open.spotify.com/album/1yqNwUK4HmHSRoX3FOgey5"
-      },
-      "artists": [
-        {
-          "name": "Beato Angelico",
-          "url": "https://open.spotify.com/artist/5CJ0yEhrvURVrFstPuxFdG"
-        }
-      ],
-      "duration_ms": 170992,
-      "name": "Jane E. - Piano solo",
-      "url": "https://open.spotify.com/track/7BSf8jEEVwaILkwMFgojua"
-    },
-    {
-      "added_at": "2024-04-05 12:17:20",
-      "album": {
-        "name": "Blues for Tony Scott",
-        "url": "https://open.spotify.com/album/2F9C6ndwa0IpLDDMflVQiN"
-      },
-      "artists": [
-        {
-          "name": "Bob Salmieri",
-          "url": "https://open.spotify.com/artist/13WVJToFNF7CLqefdFdoqa"
-        },
-        {
-          "name": "Alessandro De Angelis",
-          "url": "https://open.spotify.com/artist/1J6KmEHFsMbcuPxfY2Ehs2"
-        },
-        {
-          "name": "Erodoto Project",
-          "url": "https://open.spotify.com/artist/0xRMcCIFa30RXvMGpTaDir"
-        }
-      ],
-      "duration_ms": 302163,
-      "name": "Blues for Tony Scott",
-      "url": "https://open.spotify.com/track/6Icf938CGsjCiwItxauFnN"
-    },
-    {
-      "added_at": "2024-03-28 14:18:51",
-      "album": {
-        "name": "Sonny Boy",
-        "url": "https://open.spotify.com/album/3DuxwwvSBxYqN7TOB1ce3l"
-      },
-      "artists": [
-        {
-          "name": "Kafiristan",
-          "url": "https://open.spotify.com/artist/5YMvcsjHDQbAV9H5ScLyqK"
-        },
-        {
-          "name": "Mediterranean Jazz Project",
-          "url": "https://open.spotify.com/artist/2igMKABeT1z573MU6j9fXT"
-        }
-      ],
-      "duration_ms": 215154,
-      "name": "Sonny Boy",
-      "url": "https://open.spotify.com/track/6ZPqAryP0o7cqbPJNhzzf5"
-    },
-    {
-      "added_at": "2024-03-07 12:21:25",
-      "album": {
-        "name": "Sell me your soul",
-        "url": "https://open.spotify.com/album/4NFlfPG00jKKsj3NysdT39"
-      },
-      "artists": [
-        {
-          "name": "Bob Salmieri",
-          "url": "https://open.spotify.com/artist/13WVJToFNF7CLqefdFdoqa"
-        },
-        {
-          "name": "Mary Ann Palermo",
-          "url": "https://open.spotify.com/artist/1P5DDkoBymMyNn52dmMeoL"
-        },
-        {
-          "name": "Mediterranean Jazz Project",
-          "url": "https://open.spotify.com/artist/2igMKABeT1z573MU6j9fXT"
-        }
-      ],
-      "duration_ms": 258148,
-      "name": "Sell me your soul",
-      "url": "https://open.spotify.com/track/2ngkVoKICzKdLKhV0sWUbm"
-    },
-    {
-      "added_at": "2024-02-15 18:20:33",
-      "album": {
-        "name": "Bridge of Boldness",
-        "url": "https://open.spotify.com/album/7vvWldpJbLUdRHPMWdzNHG"
-      },
-      "artists": [
-        {
-          "name": "Kafiristan",
-          "url": "https://open.spotify.com/artist/5YMvcsjHDQbAV9H5ScLyqK"
-        },
-        {
-          "name": "Beato Angelico",
-          "url": "https://open.spotify.com/artist/5CJ0yEhrvURVrFstPuxFdG"
-        }
-      ],
-      "duration_ms": 180023,
-      "name": "Bridge of Boldness",
-      "url": "https://open.spotify.com/track/79566wwkKbJ9BZk7RSaus9"
-    },
-    {
-      "added_at": "2024-01-28 14:14:10",
-      "album": {
-        "name": "Inside Out",
-        "url": "https://open.spotify.com/album/5okf9PZt4VlsBkGNOB5hPi"
-      },
-      "artists": [
-        {
-          "name": "Elson Complex",
-          "url": "https://open.spotify.com/artist/1zy5PFSUkeOY7g6bM3vooX"
-        },
-        {
-          "name": "Bob Salmieri",
-          "url": "https://open.spotify.com/artist/13WVJToFNF7CLqefdFdoqa"
-        },
-        {
-          "name": "Kafiristan",
-          "url": "https://open.spotify.com/artist/5YMvcsjHDQbAV9H5ScLyqK"
-        }
-      ],
-      "duration_ms": 150390,
-      "name": "Inside Out",
-      "url": "https://open.spotify.com/track/3lBEdOphKxBREjmha6o0wN"
     },
     {
       "added_at": "2025-11-21 16:44:12",
@@ -3743,6 +3311,106 @@
       "duration_ms": 241632,
       "name": "L'amore c'\u00e8",
       "url": "https://open.spotify.com/track/4bEWTVyuR1HSq5keoNWL6t"
+    },
+    {
+      "added_at": "2025-12-27 13:14:30",
+      "album": {
+        "name": "Act 1 (Chapter One)",
+        "url": "https://open.spotify.com/album/12DeMW5vKAI69NylXQGKvD"
+      },
+      "artists": [
+        {
+          "name": "Raging Depths",
+          "url": "https://open.spotify.com/artist/4Lkiay1vShJkvVFAWHQbQX"
+        }
+      ],
+      "duration_ms": 208159,
+      "name": "Valkyrie",
+      "url": "https://open.spotify.com/track/1TVSjFUeiINo5nsXvo3176"
+    },
+    {
+      "added_at": "2025-12-27 13:14:39",
+      "album": {
+        "name": "Rest In Me",
+        "url": "https://open.spotify.com/album/1uZFqbuf6bwd2No55cGprC"
+      },
+      "artists": [
+        {
+          "name": "The Pleasure Merchants",
+          "url": "https://open.spotify.com/artist/0HLhZJBnQ6Sz23PW4cIyHF"
+        }
+      ],
+      "duration_ms": 249092,
+      "name": "Rest In Me",
+      "url": "https://open.spotify.com/track/5p1E3w1CRRyMoCSmA7vC9N"
+    },
+    {
+      "added_at": "2025-12-27 13:14:43",
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/1X2maX9DBDkbhHTJonabWQ"
+      },
+      "artists": [
+        {
+          "name": "Csmit",
+          "url": "https://open.spotify.com/artist/7I6GUB1abNwkgA9F6LUsHI"
+        }
+      ],
+      "duration_ms": 136745,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/5EHqm4dl8qRHTL0CBmYOY4"
+    },
+    {
+      "added_at": "2025-12-27 16:54:40",
+      "album": {
+        "name": "Wine",
+        "url": "https://open.spotify.com/album/23Saj01VUpK7zGkcDX3mrd"
+      },
+      "artists": [
+        {
+          "name": "Ou Yu",
+          "url": "https://open.spotify.com/artist/5qPvi8fvZMu4sJGSoA6nH6"
+        },
+        {
+          "name": "framesound",
+          "url": "https://open.spotify.com/artist/2rc2L0vG15AyrlJrIhsIXs"
+        }
+      ],
+      "duration_ms": 171759,
+      "name": "Wine",
+      "url": "https://open.spotify.com/track/0y1bwmgoGdG8DvryqmBR3K"
+    },
+    {
+      "added_at": "2025-12-27 22:47:45",
+      "album": {
+        "name": "The End of the World or Whatever",
+        "url": "https://open.spotify.com/album/2KnWPPJRwhUocc1yLm5Loa"
+      },
+      "artists": [
+        {
+          "name": "Nell Davies",
+          "url": "https://open.spotify.com/artist/3T37olDofWUEnGxDPrTVgL"
+        }
+      ],
+      "duration_ms": 192325,
+      "name": "The End of the World or Whatever",
+      "url": "https://open.spotify.com/track/7bEuh53WskcUxLGmjil4nQ"
+    },
+    {
+      "added_at": "2025-12-27 22:47:51",
+      "album": {
+        "name": "Manifest Your Dream",
+        "url": "https://open.spotify.com/album/6GpYq7kNP48UelTMQNEiiC"
+      },
+      "artists": [
+        {
+          "name": "Diana Vibes Earth",
+          "url": "https://open.spotify.com/artist/0QC7leTBU5trqgGkJpJz49"
+        }
+      ],
+      "duration_ms": 135036,
+      "name": "Manifest Your Dream",
+      "url": "https://open.spotify.com/track/09hg5iYA66wpCUmmx0RACr"
     }
   ],
   "unique_name": "New Indie Music",

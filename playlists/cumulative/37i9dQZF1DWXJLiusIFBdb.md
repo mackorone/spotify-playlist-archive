@@ -4,7 +4,7 @@
 
 > Music From "Fate/Grand Order"! 音楽で辿る「Fate/Grand Order」の世界!<br/>©TYPE\-MOON / FGO PROJECT
 
-80 songs - 5 hr 1 min
+81 songs - 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [The Burn Phase](https://open.spotify.com/track/6fvD4VZr1EHUFdW2eveV5U) | [國土 佳音](https://open.spotify.com/artist/3g1YiF4IxCU0wWRpWfnjCd) | [Fate/Grand Order Original Soundtrack Ⅶ](https://open.spotify.com/album/1BJw1MpYfgkME17AL8DCD8) | 3:23 | 2025-08-04 |  |
 | [the Shield of Chaldeas \- Acoustic ver.](https://open.spotify.com/track/04OIcm3L6naoIO37KZOkLA) | [Fate/Grand Order](https://open.spotify.com/artist/7coG0zLmqTMrvxocjucG4k) | [Fate/Grand Order \-First Order\- & \-MOONLIGHT/LOSTROOM\- Original Soundtrack](https://open.spotify.com/album/1uTmJD2CyfNKCb3Dorfrgs) | 2:39 | 2023-12-07 |  |
 | [Thest](https://open.spotify.com/track/34uDEdHnE7iykN0ALtww3k) | [Fate/Grand Order](https://open.spotify.com/artist/7coG0zLmqTMrvxocjucG4k) | [Fate/Grand Order Original Soundtrack Ⅲ](https://open.spotify.com/album/5CLCIGHfgjttEMZ858O8RY) | 3:38 | 2023-12-07 |  |
+| [Tokei](https://open.spotify.com/track/3kEvtzKpxW6LlwwyG8f8BE) | [Maaya Sakamoto](https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw) | [Tokei](https://open.spotify.com/album/1WbMoAGnRkZ3MZ4y00n03o) | 5:32 | 2025-12-27 |  |
 | [Wodime ～TREE BATTLE 3～](https://open.spotify.com/track/1rYJYK5kXj5G5mKrTByvvP) | [芳賀 敬太](https://open.spotify.com/artist/62bF9Xu28ByStW6fWw8tGj) | [Fate/Grand Order Original Soundtrack Ⅳ](https://open.spotify.com/album/0icJG7Q4pYZcoT3OM5m1F0) | 3:49 | 2023-12-07 |  |
 | [Wonderer](https://open.spotify.com/track/4KbAAu40Ix6OCobefWX45j) | [スパイラル・ラダー](https://open.spotify.com/artist/6Cdkp24HziJqIpcflRlNCb), [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Fate/Grand Order Original Soundtrack Ⅶ](https://open.spotify.com/album/1BJw1MpYfgkME17AL8DCD8) | 4:16 | 2025-08-04 |  |
 | [この惑星で、ただ一つだけ](https://open.spotify.com/track/2IWle02RZiU0yLscUeIQrD) | [Fate/Grand Order](https://open.spotify.com/artist/7coG0zLmqTMrvxocjucG4k) | [Fate/Grand Order Original Soundtrack Ⅲ](https://open.spotify.com/album/5CLCIGHfgjttEMZ858O8RY) | 4:56 | 2023-12-07 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 
 > Fresh takes on that high lonesome sound\. Cover: Franklin Jonas & The Byzantines
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,699 likes - 102 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,684 likes - 102 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 | 101 | [Coffee](https://open.spotify.com/track/3Jiv9CMoeRuO7xlcfXRnjz) | [Kid Reverie](https://open.spotify.com/artist/3tVmhIQs33VcCxWIQrmvea) | [Coffee](https://open.spotify.com/album/44Vkxzihd7BtmukOvb7xyL) | 4:18 |
 | 102 | [Odds of Getting Even](https://open.spotify.com/track/6hOcy7MbHW5I4QqZLZXddc) | [Caitlin Canty](https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl) | [Odds of Getting Even](https://open.spotify.com/album/4LNRayY1XsEqVjo2lDPohE) | 3:15 |
 
-Snapshot ID: `AAAAAOFKmKl6WeJJSHUkI8Zl9OGzft6k`
+Snapshot ID: `AAAAAHIrtr7X0ULsiTA89hNMiA6/mI67`

@@ -665,6 +665,24 @@
     },
     {
       "album": {
+        "name": "By The Grace Of God",
+        "url": "https://open.spotify.com/album/4Eiw1Sgm3uJO0HM7KqMOvE"
+      },
+      "artists": [
+        {
+          "name": "Nick Herbert",
+          "url": "https://open.spotify.com/artist/2d1xKAOMjV142Pf9cEmYeS"
+        }
+      ],
+      "date_added": "2025-12-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281666,
+      "name": "By The Grace Of God",
+      "url": "https://open.spotify.com/track/1QHsyfUYoE8s9Z6VpOeAGe"
+    },
+    {
+      "album": {
         "name": "Call on Your Name (Piano Version)",
         "url": "https://open.spotify.com/album/4rmRrqkch7H5dAMKjsMpbn"
       },
@@ -4426,7 +4444,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-28",
       "duration_ms": 289500,
       "name": "Poor In Spirit - Live",
       "url": "https://open.spotify.com/track/1r481zZyjH3m3bDvHu9jCH"

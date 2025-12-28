@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVI2W9Zpg4qS.md) - [plain]
 
 > enjoy the NMIXX 1ST WORLD TOUR \[EPISODE 1: ZERO FRONTIER\] LIVE SET including the voices of them on stage! \(엔믹스의 무대 멘트와 목소리가 포함된 \[EPISODE 1: ZERO FRONTIER\] 콘서트 LIVE SET을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,713 likes - 32 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,767 likes - 32 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

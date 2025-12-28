@@ -563,6 +563,24 @@
     },
     {
       "album": {
+        "name": "Tokei",
+        "url": "https://open.spotify.com/album/1WbMoAGnRkZ3MZ4y00n03o"
+      },
+      "artists": [
+        {
+          "name": "Maaya Sakamoto",
+          "url": "https://open.spotify.com/artist/4zT3gUH3Xb50swQKT4E9vw"
+        }
+      ],
+      "date_added": "2025-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332466,
+      "name": "Tokei",
+      "url": "https://open.spotify.com/track/3kEvtzKpxW6LlwwyG8f8BE"
+    },
+    {
+      "album": {
         "name": "Fate/Grand Order Original Soundtrack \u2163",
         "url": "https://open.spotify.com/album/0icJG7Q4pYZcoT3OM5m1F0"
       },

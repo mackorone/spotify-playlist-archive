@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Samara Cyn
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,330,497 likes - 101 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,330,447 likes - 101 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 100 | [Wait For Me](https://open.spotify.com/track/7cMg5vrTt97hgKvKC6Ju7s) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Wait For Me](https://open.spotify.com/album/72eW4GfBdULIVENa700Fah) | 2:39 |
 | 101 | [Coping Mechanism](https://open.spotify.com/track/1GyGDwvT9U3JNJg13cArHG) | [Car Culture](https://open.spotify.com/artist/6MIVBVpCNZFEBbzZ0RTTc4), [Physical Therapy](https://open.spotify.com/artist/4HXE6NXjfAUDX8TXyoIfuO) | [Coping Mechanism](https://open.spotify.com/album/42qH9QID70Heeue1svdvzS) | 5:01 |
 
-Snapshot ID: `AAAAAADHSuBhsPcTLlwvmg9C5L/ciw67`
+Snapshot ID: `AAAAAM5gP0uHRfkByhjSD9ftnDGLHkTz`

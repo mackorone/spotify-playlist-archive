@@ -10125,6 +10125,32 @@
     },
     {
       "album": {
+        "name": "Jaane Na Tu (Male Version)",
+        "url": "https://open.spotify.com/album/2VdxSKLW7ALtPjCJD0sZJs"
+      },
+      "artists": [
+        {
+          "name": "Soloman",
+          "url": "https://open.spotify.com/artist/6UKXdl43h3gLeMx3If0FXX"
+        },
+        {
+          "name": "Bhoomi",
+          "url": "https://open.spotify.com/artist/0gMaH5l7qBDky1LyM6ELYS"
+        },
+        {
+          "name": "Naaz",
+          "url": "https://open.spotify.com/artist/0tbKF46lbRv4HqO4A4LSSs"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129350,
+      "name": "Jaane Na Tu (Male Version)",
+      "url": "https://open.spotify.com/track/1HS4N8cv1P1EmSiKBpzcFC"
+    },
+    {
+      "album": {
         "name": "jaanu na",
         "url": "https://open.spotify.com/album/7rnZFaD0VEQZ5CcbjiNm4h"
       },
@@ -19528,7 +19554,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-28",
       "duration_ms": 184532,
       "name": "Ranjhe",
       "url": "https://open.spotify.com/track/7AtKtnmejsGiEmXLn5lZTs"

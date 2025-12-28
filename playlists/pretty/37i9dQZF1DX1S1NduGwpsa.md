@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 
 > The best jazz new releases\. Cover: Stacey Kent
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,813 likes - 60 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,814 likes - 60 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S1NduGwpsa.md) - [plain]
 | 59 | [That's Life](https://open.spotify.com/track/5LsONMtTM5mUvPBoo0Ayl0) | [The Getdown](https://open.spotify.com/artist/6IZfZvhfR2DMt6hANyWzFZ), [Laurent Coulondre](https://open.spotify.com/artist/1yv7gzHLWb53t8smEXXcUV), [Arnaud Dolmen](https://open.spotify.com/artist/4poxrHwFvg05NhT3TDNRtm), [Grégory Privat](https://open.spotify.com/artist/0mmRcGkPj9s4Hq0xFrMBPh) | [The Getdown](https://open.spotify.com/album/0Mc1HIpKFoQVEaYVV0PiOF) | 2:55 |
 | 60 | [Café com Pão](https://open.spotify.com/track/5Trvm4UBCoBAmEG35HehAY) | [Projeto Coisa Fina](https://open.spotify.com/artist/5Z2qOOW5avsLNKfcoYzpMf), [Samy Thiébault](https://open.spotify.com/artist/797YMCRJhlhkokujV4RLih) | [Café com Pão](https://open.spotify.com/album/7DdWCsBu9HDZcY3SX33PZL) | 4:57 |
 
-Snapshot ID: `AAAAAAjUB3hpuEA7x4TOaHTsffVbhXxh`
+Snapshot ID: `AAAAAFg1teRudj3n+AgCcHX7y+VQe/96`

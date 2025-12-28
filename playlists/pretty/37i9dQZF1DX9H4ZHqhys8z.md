@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 
 > Από τους συντάκτες μας, τα καλύτερα του EQUAL Greece 2025\. Οι φωνές των γυναικών στο διαπασών! Εξώφυλλο: Eleni Foureira
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,214 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,225 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

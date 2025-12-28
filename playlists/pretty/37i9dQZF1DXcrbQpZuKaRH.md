@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcrbQpZuKaRH.md) - [plain]
 
 > Calming music with the sound of waves for a blissful meditation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,581 likes - 133 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,619 likes - 133 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -142,4 +142,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcrbQpZuKaRH.md) - [plain]
 | 132 | [Energize](https://open.spotify.com/track/0pfyFQdDZMWOmLt2BZuqmO) | [Altum Somnum](https://open.spotify.com/artist/5W2BQPTLV5i34uvAtUs935) | [Energize](https://open.spotify.com/album/1RHSKDVcV9SIAdfZrZcnYf) | 2:58 |
 | 133 | [West Waves](https://open.spotify.com/track/4KKSXNzhCqSYRRqhWpmb1S) | [Wicker Whales](https://open.spotify.com/artist/5uRVmIgosxKIgvH3YUMoou) | [West Waves](https://open.spotify.com/album/3aBLctIuTVuEcWYOMyEhvr) | 2:28 |
 
-Snapshot ID: `AAAAALjfTFUoSwZFv2u2rhSpOaeV/kds`
+Snapshot ID: `AAAAAOSvnB+L7ITm3ZNIUxC/yeqSs9Th`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 
 > ไฮไลท์ EQUAL Thailand ปี 2025 โดย Spotify Editor\. ปก: Ink Waruntorn
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,892 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,895 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

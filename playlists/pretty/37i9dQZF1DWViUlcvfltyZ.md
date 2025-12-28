@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > Rock, indie e punk dall'Italia 🎸 Sick Tamburo in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,333 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,329 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 99 | [GIULIA](https://open.spotify.com/track/0Td8nQAa4w1T1m3VercEFg) | [Simone Panetti](https://open.spotify.com/artist/4lajcWQSiNMQ4b76eevJ5f) | [TOMBINO D'ORO \(EXTRA\)](https://open.spotify.com/album/1pif2UhWwT3Q6Td7jfCJ1f) | 3:37 |
 | 100 | [Lontano](https://open.spotify.com/track/1uJmufGsODy6ntsKfVkRh0) | [Arianna Pasini](https://open.spotify.com/artist/0PvxzN9MSvVMYj0b0fuwzA) | [Lontano](https://open.spotify.com/album/6MnGDhQzMSNNRVc5RBuSs8) | 2:18 |
 
-Snapshot ID: `AAAAAGsUHC3R1Tz5FZEq9A+CvVnnD4LH`
+Snapshot ID: `AAAAADkuoTMQVKL0p4E5CMcEdIA997nM`

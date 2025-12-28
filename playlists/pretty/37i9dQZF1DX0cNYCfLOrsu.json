@@ -1,6 +1,6 @@
 {
   "description": "The best in Dancehall for the gyaldem. Cover: Shenseea",
-  "num_followers": 58980,
+  "num_followers": 59117,
   "original_name": "Dancehall Queen",
   "owner": {
     "name": "Spotify",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2025-08-08 10:37:08",
       "album": {
+        "name": "Backseat",
+        "url": "https://open.spotify.com/album/6OLU7kmYli7ZHLetkOvxI7"
+      },
+      "artists": [
+        {
+          "name": "Moyann",
+          "url": "https://open.spotify.com/artist/5XV9d7Ee7IuJrday4LIpKc"
+        }
+      ],
+      "duration_ms": 150857,
+      "name": "Backseat",
+      "url": "https://open.spotify.com/track/5w2OOk891slAH801IHVRDz"
+    },
+    {
+      "added_at": "2025-08-08 10:37:08",
+      "album": {
         "name": "Hard & Done",
         "url": "https://open.spotify.com/album/2mdQ5xNL2QOBniNeHrhIDY"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 160388,
       "name": "Hard & Done",
       "url": "https://open.spotify.com/track/50ZQ13cDPuFaSXfWdPwa5n"
-    },
-    {
-      "added_at": "2025-08-08 10:37:08",
-      "album": {
-        "name": "Backseat",
-        "url": "https://open.spotify.com/album/6OLU7kmYli7ZHLetkOvxI7"
-      },
-      "artists": [
-        {
-          "name": "Moyann",
-          "url": "https://open.spotify.com/artist/5XV9d7Ee7IuJrday4LIpKc"
-        }
-      ],
-      "duration_ms": 150857,
-      "name": "Backseat",
-      "url": "https://open.spotify.com/track/5w2OOk891slAH801IHVRDz"
     }
   ],
   "unique_name": "Dancehall Queen",

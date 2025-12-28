@@ -1,12 +1,12 @@
 {
   "description": "This is Bastille. The essential tracks, all in one playlist.",
-  "num_followers": 220217,
+  "num_followers": 220216,
   "original_name": "This Is Bastille",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUx+gAAAAAB+7OsJ5dg4vx74YL+vlqWT",
+  "snapshot_id": "aU3QAAAAAABpFSy1fIwP/N5YkZYQ294c",
   "tracks": [
     {
       "added_at": null,
@@ -171,58 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wild World (Complete Edition)",
-        "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 200987,
-      "name": "Send Them Off!",
-      "url": "https://open.spotify.com/track/4Wg7VfvO7NVG57R8cSPDQG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All This Bad Blood",
-        "url": "https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 214205,
-      "name": "Of The Night",
-      "url": "https://open.spotify.com/track/7BNDyzwDboNRR2wmd7GSew"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bad Blood X (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/4wGbIbPiP3C3LdvewkRwTc"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        },
-        {
-          "name": "Ella Eyre",
-          "url": "https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA"
-        }
-      ],
-      "duration_ms": 232373,
-      "name": "No Angels",
-      "url": "https://open.spotify.com/track/1pRYM4pRLkBxojE8s5hnNt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lullaby",
         "url": "https://open.spotify.com/album/3n3rmsipygXgGqhaOC9LZB"
       },
@@ -299,6 +247,58 @@
       "duration_ms": 245090,
       "name": "Lullaby (feat. Amena, Bastille, Brian Eno, Celeste, Kieran Brunt, Lana Lubany, London Community Gospel Choir, Mabel, Nadine Shah, Sura Abdo, TYSON, Yasmeen Ayyashi & Ysee) - Edit",
       "url": "https://open.spotify.com/track/388eSoIPSgFUw5dafbZMJI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All This Bad Blood",
+        "url": "https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 214205,
+      "name": "Of The Night",
+      "url": "https://open.spotify.com/track/7BNDyzwDboNRR2wmd7GSew"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wild World (Complete Edition)",
+        "url": "https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 200987,
+      "name": "Send Them Off!",
+      "url": "https://open.spotify.com/track/4Wg7VfvO7NVG57R8cSPDQG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bad Blood X (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/4wGbIbPiP3C3LdvewkRwTc"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        },
+        {
+          "name": "Ella Eyre",
+          "url": "https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA"
+        }
+      ],
+      "duration_ms": 232373,
+      "name": "No Angels",
+      "url": "https://open.spotify.com/track/1pRYM4pRLkBxojE8s5hnNt"
     },
     {
       "added_at": null,

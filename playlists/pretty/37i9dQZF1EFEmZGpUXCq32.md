@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmZGpUXCq32.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0JfKlntuxjdB6N1mp9PYoF">Cory Henry</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121 likes - 110 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 121 likes - 111 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmZGpUXCq32.md) - [plain]
 | 93 | [Heart](https://open.spotify.com/track/7hzyYvGrZ7nA7jZjvISbEp) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [First Steps](https://open.spotify.com/album/1yOkrAspqeWPp5IROfT5O8) | 8:58 |
 | 94 | [Gotcha Now](https://open.spotify.com/track/2kxdAwQFiWie1WfhgJWCvX) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [First Steps](https://open.spotify.com/album/1yOkrAspqeWPp5IROfT5O8) | 5:10 |
 | 95 | [Divine Time](https://open.spotify.com/track/2JBSUManxgHPTJl1MwpAmD) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Divine Time](https://open.spotify.com/album/6EcAxImXQ3INgUwyumOLcz) | 4:40 |
-| 96 | [Be Or Busy \(Mukthi\)](https://open.spotify.com/track/2WMQeI39yiHAy97t8V9IEo) | [Sadhguru](https://open.spotify.com/artist/0zbbPqp65ZqlfmcshStDNQ), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Eternal Echoes](https://open.spotify.com/album/6EM63wmKINZdwud5zUiOmb) | 2:53 |
-| 97 | [Christmas Boogie](https://open.spotify.com/track/3qfGYjWVbvgfxrGRtZSbuL) | [Trilogy](https://open.spotify.com/artist/3c24oOZo7a3mchm4okumqw), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Christmas Uncovered](https://open.spotify.com/album/70AfPOE4qUXzqrzwG3o5ut) | 2:58 |
+| 96 | [Christmas Boogie](https://open.spotify.com/track/3qfGYjWVbvgfxrGRtZSbuL) | [Trilogy](https://open.spotify.com/artist/3c24oOZo7a3mchm4okumqw), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Christmas Uncovered](https://open.spotify.com/album/70AfPOE4qUXzqrzwG3o5ut) | 2:58 |
+| 97 | [Be Or Busy \(Mukthi\)](https://open.spotify.com/track/2WMQeI39yiHAy97t8V9IEo) | [Sadhguru](https://open.spotify.com/artist/0zbbPqp65ZqlfmcshStDNQ), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Eternal Echoes](https://open.spotify.com/album/6EM63wmKINZdwud5zUiOmb) | 2:53 |
 | 98 | [Just Got Paid](https://open.spotify.com/track/0LfvabUzGrAaA9Is9XKApq) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Divine Time](https://open.spotify.com/album/6EcAxImXQ3INgUwyumOLcz) | 3:43 |
 | 99 | [Glory to God](https://open.spotify.com/track/2hfBqK3ysDWYxtS1nnQ46v) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s), [Judith Christie McAllister](https://open.spotify.com/artist/7AdFvL0MQCUf6B4nRKXY0U) | [Church](https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn) | 3:19 |
 | 100 | [Walkin](https://open.spotify.com/track/6PHsbjxjYxS9LH5IXW1Xrm) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [First Steps](https://open.spotify.com/album/1yOkrAspqeWPp5IROfT5O8) | 6:20 |
@@ -116,7 +116,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmZGpUXCq32.md) - [plain]
 | 106 | [Need A Hand](https://open.spotify.com/track/3qZOJRit5b6IXWHHj3NXvM) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Divine Time](https://open.spotify.com/album/6EcAxImXQ3INgUwyumOLcz) | 4:08 |
 | 107 | [I'm On Your Side](https://open.spotify.com/track/5qLAEju8e3dTbo7526FVnZ) | [Lena Byrd Miles](https://open.spotify.com/artist/6ZI4O5cl4ieBP4IQdH0fYP) | [Brand New](https://open.spotify.com/album/7palBk6YrLey31q9FcuTO4) | 5:03 |
 | 108 | [Where'd You Go](https://open.spotify.com/track/0UzISy5ELKspiS6I80xd6J) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [First Steps](https://open.spotify.com/album/1yOkrAspqeWPp5IROfT5O8) | 5:10 |
-| 109 | [Clouds](https://open.spotify.com/track/60TSgKaHNHHa3aeniLVP84) | [Jairus Mozee](https://open.spotify.com/artist/77leQnJv5gxe4Nm3LvDYiG) | [San Pedro](https://open.spotify.com/album/1D4pVBPfFAvG3j1TElDHAy) | 6:31 |
-| 110 | [Offering Song Address](https://open.spotify.com/track/4VotLKO4qyqCJqI75bAiFQ) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Church](https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn) | 0:18 |
+| 109 | [Touched The Sky](https://open.spotify.com/track/1Mny8zZspJQGl32fxWiVjF) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Divine Time](https://open.spotify.com/album/6EcAxImXQ3INgUwyumOLcz) | 5:02 |
+| 110 | [Clouds](https://open.spotify.com/track/60TSgKaHNHHa3aeniLVP84) | [Jairus Mozee](https://open.spotify.com/artist/77leQnJv5gxe4Nm3LvDYiG) | [San Pedro](https://open.spotify.com/album/1D4pVBPfFAvG3j1TElDHAy) | 6:31 |
+| 111 | [Offering Song Address](https://open.spotify.com/track/4VotLKO4qyqCJqI75bAiFQ) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Church](https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn) | 0:18 |
 
-Snapshot ID: `AcFSaAAAAADihKz/1KN+4ZN97uRvHjYz`
+Snapshot ID: `AcFYCAAAAABDZEv0ufQwz/oDfuHeoiJV`

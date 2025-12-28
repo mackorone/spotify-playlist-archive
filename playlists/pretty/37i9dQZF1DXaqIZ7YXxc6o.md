@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: STÜM, X & Ivy
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,406 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,407 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 99 | [WAITING](https://open.spotify.com/track/4K4itwcuTopegq8qWQnRzk) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [WAITING](https://open.spotify.com/album/2iYFhXy1kMSJwxvd2OB4YM) | 4:00 |
 | 100 | [GOAT](https://open.spotify.com/track/3PbYRiyLD48mzKbXZaa9L6) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Darco](https://open.spotify.com/artist/49Zm4OzK2RcWyrMLSU59ht), [Broken Hill](https://open.spotify.com/artist/1hivPylohVo1WNOWyU1zRQ) | [GOAT](https://open.spotify.com/album/08HowefGNS1fuJpsU9nshx) | 3:13 |
 
-Snapshot ID: `AAAAAOtNP+F79La98WEN42LLWZoOKnAO`
+Snapshot ID: `AAAAAJYzj8HIdDug/tNI1crugOnKu58A`

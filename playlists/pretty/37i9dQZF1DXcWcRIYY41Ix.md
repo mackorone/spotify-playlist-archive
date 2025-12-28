@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 
 > La nueva ola de trovadores del siglo XXI\. En portada: Karmento y Le Parody.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,934 likes - 105 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,951 likes - 105 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 | 104 | [No Lo Pienses Más](https://open.spotify.com/track/4DESpkuAs9cBvnLhFmptLx) | [Franny Glass](https://open.spotify.com/artist/6mI3D7vgMoxV2KIYsJkN9w) | [No Lo Pienses Más](https://open.spotify.com/album/6k5a6GEr0ppsdG3XXNYple) | 3:18 |
 | 105 | [Kas Limón](https://open.spotify.com/track/4Rg7K8XnKU3WskpEi28HQL) | [Javi Robles](https://open.spotify.com/artist/2uqV8YA6CmhS3Wz41S4rP4) | [Kas Limón](https://open.spotify.com/album/355zeg7QQyAkEzuKYwFs05) | 2:44 |
 
-Snapshot ID: `AAAAAC/lcY5jKj8lQ2wUxZ/puJuVlqR/`
+Snapshot ID: `AAAAAGyYLgDJdODEZRr9frZSfh9Wly/f`

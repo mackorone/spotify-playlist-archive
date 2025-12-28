@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\.  Cover: Maudy Ayunda
 
-[Spotify](https://open.spotify.com/user/spotify) - 788,961 likes - 113 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 788,968 likes - 113 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 | 112 | [Alamak](https://open.spotify.com/track/1vkwlZncsYqFukl2Q7M6Fe) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku), [Adrian Khalif](https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X) | [Alamak](https://open.spotify.com/album/5oUWkx2j4lVO8u7kM3XnJT) | 3:29 |
 | 113 | [Langitku Sendiri](https://open.spotify.com/track/5ZOD0ABSES4COP7WNVXKIT) | [Anggi Marito](https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx) | [Lune](https://open.spotify.com/album/4FZP8ilZixYhGiF17JQaz9) | 4:29 |
 
-Snapshot ID: `AAAAAKf3OaPmL/iH6PyhqYCrfUX+UW2d`
+Snapshot ID: `AAAAAOU/HJeP9uTYnOWUdDYg0dFxJIyj`

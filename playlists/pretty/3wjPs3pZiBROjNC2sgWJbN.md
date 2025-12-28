@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3wjPs3pZiBROjNC2sgWJbN.md) - [plain]
 
 > Channel your inner chef and cook up a storm with our essential kitchen tracks\. <a href="https://lnk.to/EndOfYearSaleOS">All these hits available to buy on vinyl here!</a> Kitchen Soundtrack \| Cooking Music \| Restaurant Music \| Kitchen DJ
 
-[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 8,240 likes - 70 songs - 4 hr 11 min
+[uDiscover Playlists](https://open.spotify.com/user/digster.fm) - 8,241 likes - 70 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

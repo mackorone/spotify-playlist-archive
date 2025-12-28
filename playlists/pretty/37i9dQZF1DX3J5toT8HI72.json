@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 pros apaixonados",
-  "num_followers": 781547,
+  "num_followers": 781576,
   "original_name": "Amor I Love You",
   "owner": {
     "name": "Spotify",
@@ -427,6 +427,22 @@
     {
       "added_at": "2025-11-25 18:54:59",
       "album": {
+        "name": "Banda do Mar",
+        "url": "https://open.spotify.com/album/1Jlhl64iUyVxFgApbvyCS4"
+      },
+      "artists": [
+        {
+          "name": "Banda do Mar",
+          "url": "https://open.spotify.com/artist/1Gu3ALcPEx3FFGAfAbqQvD"
+        }
+      ],
+      "duration_ms": 168640,
+      "name": "Mais Ningu\u00e9m",
+      "url": "https://open.spotify.com/track/6uFwhB7gVs7ExCAfJD5BWg"
+    },
+    {
+      "added_at": "2025-11-25 18:54:59",
+      "album": {
         "name": "Feito Pra Acabar",
         "url": "https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO"
       },
@@ -447,22 +463,6 @@
     {
       "added_at": "2025-11-25 18:54:59",
       "album": {
-        "name": "Banda do Mar",
-        "url": "https://open.spotify.com/album/1Jlhl64iUyVxFgApbvyCS4"
-      },
-      "artists": [
-        {
-          "name": "Banda do Mar",
-          "url": "https://open.spotify.com/artist/1Gu3ALcPEx3FFGAfAbqQvD"
-        }
-      ],
-      "duration_ms": 168640,
-      "name": "Mais Ningu\u00e9m",
-      "url": "https://open.spotify.com/track/6uFwhB7gVs7ExCAfJD5BWg"
-    },
-    {
-      "added_at": "2025-11-25 18:54:59",
-      "album": {
         "name": "Esquinas",
         "url": "https://open.spotify.com/album/2DVwOWSHjIm1L6pOm0EGIl"
       },
@@ -479,22 +479,6 @@
     {
       "added_at": "2025-11-25 18:54:59",
       "album": {
-        "name": "P\u00fablico",
-        "url": "https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR"
-      },
-      "artists": [
-        {
-          "name": "Adriana Calcanhotto",
-          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
-        }
-      ],
-      "duration_ms": 131426,
-      "name": "Devolva-Me (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5sz2LrG6jY6u7U0g2k7kws"
-    },
-    {
-      "added_at": "2025-11-25 18:54:59",
-      "album": {
         "name": "V\u00e1rias Queixas",
         "url": "https://open.spotify.com/album/6l1z1eqs0jA0iYAhVboYgp"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 156970,
       "name": "Vento Alecrim",
       "url": "https://open.spotify.com/track/0MuDhSPR7wZxIBHDk6NDoD"
+    },
+    {
+      "added_at": "2025-11-25 18:54:59",
+      "album": {
+        "name": "P\u00fablico",
+        "url": "https://open.spotify.com/album/5rZSelFMehsRmVV0wBlqTR"
+      },
+      "artists": [
+        {
+          "name": "Adriana Calcanhotto",
+          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
+        }
+      ],
+      "duration_ms": 131426,
+      "name": "Devolva-Me (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5sz2LrG6jY6u7U0g2k7kws"
     },
     {
       "added_at": "2025-11-25 18:54:59",
@@ -631,22 +631,6 @@
     {
       "added_at": "2025-11-25 18:54:59",
       "album": {
-        "name": "Bossa Nova Essenciais",
-        "url": "https://open.spotify.com/album/2zDf8UCx5Hp2DCZiuNmBMR"
-      },
-      "artists": [
-        {
-          "name": "Tiago Nacarato",
-          "url": "https://open.spotify.com/artist/3mwYj8Nb9VZbAnLpli7l8X"
-        }
-      ],
-      "duration_ms": 171668,
-      "name": "Onde Anda Voc\u00ea",
-      "url": "https://open.spotify.com/track/2bzz9J3YFV5EmXMfMRAwqW"
-    },
-    {
-      "added_at": "2025-11-25 18:54:59",
-      "album": {
         "name": "Frejat Ao Vivo No Rock In Rio",
         "url": "https://open.spotify.com/album/6hSYXe2y8uYY62B3PCiq3T"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 215253,
       "name": "Por Voc\u00ea - Ao Vivo",
       "url": "https://open.spotify.com/track/4gqxE2PMdk6HvZKEqsQ8YE"
+    },
+    {
+      "added_at": "2025-11-25 18:54:59",
+      "album": {
+        "name": "Bossa Nova Essenciais",
+        "url": "https://open.spotify.com/album/2zDf8UCx5Hp2DCZiuNmBMR"
+      },
+      "artists": [
+        {
+          "name": "Tiago Nacarato",
+          "url": "https://open.spotify.com/artist/3mwYj8Nb9VZbAnLpli7l8X"
+        }
+      ],
+      "duration_ms": 171668,
+      "name": "Onde Anda Voc\u00ea",
+      "url": "https://open.spotify.com/track/2bzz9J3YFV5EmXMfMRAwqW"
     },
     {
       "added_at": "2025-11-25 18:54:59",
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2025-11-25 18:54:59",
       "album": {
-        "name": "Canto Djavan",
-        "url": "https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ"
-      },
-      "artists": [
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        },
-        {
-          "name": "Slap",
-          "url": "https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v"
-        }
-      ],
-      "duration_ms": 236727,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/4P2B8Yc9YcspHNgSDUuwBY"
-    },
-    {
-      "added_at": "2025-11-25 18:54:59",
-      "album": {
         "name": "Nenhuma Dor",
         "url": "https://open.spotify.com/album/3uv833F3xc92vzytEkbmN6"
       },
@@ -1047,6 +1027,26 @@
       "duration_ms": 237150,
       "name": "Baby",
       "url": "https://open.spotify.com/track/5zwoN1BAcMh2EcBpKhW7VT"
+    },
+    {
+      "added_at": "2025-11-25 18:54:59",
+      "album": {
+        "name": "Canto Djavan",
+        "url": "https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ"
+      },
+      "artists": [
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "Slap",
+          "url": "https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v"
+        }
+      ],
+      "duration_ms": 236727,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/4P2B8Yc9YcspHNgSDUuwBY"
     },
     {
       "added_at": "2025-11-25 18:54:59",

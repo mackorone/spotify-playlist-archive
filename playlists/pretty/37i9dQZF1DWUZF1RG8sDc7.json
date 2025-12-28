@@ -1,6 +1,6 @@
 {
   "description": "Porque el coraz\u00f3n habla vallenato. \u00a1Ay ombe!",
-  "num_followers": 159928,
+  "num_followers": 159965,
   "original_name": "Vallenato Rom\u00e1ntico",
   "owner": {
     "name": "Spotify",
@@ -631,6 +631,22 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
+        "name": "Enamorandote",
+        "url": "https://open.spotify.com/album/5btsdJQmvJRmhgAAro8w6h"
+      },
+      "artists": [
+        {
+          "name": "Los Betos",
+          "url": "https://open.spotify.com/artist/69yDCUTFEY2n0pDljFxVKn"
+        }
+      ],
+      "duration_ms": 254186,
+      "name": "La Gemela",
+      "url": "https://open.spotify.com/track/0ZHjL0IEpX94Z1S6lqB6xq"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
         "name": "Mis Nuevos Cantares",
         "url": "https://open.spotify.com/album/4uToZOnwl3AWFrUrVxTFz9"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 235235,
       "name": "No Pude Quitarte las Espinas",
       "url": "https://open.spotify.com/track/13DlPBOKn753WqIu4qgq4Y"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
-        "name": "Enamorandote",
-        "url": "https://open.spotify.com/album/5btsdJQmvJRmhgAAro8w6h"
-      },
-      "artists": [
-        {
-          "name": "Los Betos",
-          "url": "https://open.spotify.com/artist/69yDCUTFEY2n0pDljFxVKn"
-        }
-      ],
-      "duration_ms": 254186,
-      "name": "La Gemela",
-      "url": "https://open.spotify.com/track/0ZHjL0IEpX94Z1S6lqB6xq"
     },
     {
       "added_at": "2024-03-28 01:45:52",

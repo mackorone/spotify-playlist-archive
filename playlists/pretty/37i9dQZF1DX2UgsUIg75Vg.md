@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chill r&b\. Cover: Tone Stith
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,368,409 likes - 259 songs - 13 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,368,427 likes - 259 songs - 13 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -268,4 +268,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 | 258 | [Rotation](https://open.spotify.com/track/7rc1HQlfKhsdhDri8eM5i4) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx) | [LOVE.JONES](https://open.spotify.com/album/1xcouduCLDsvfyp3pltKqO) | 3:35 |
 | 259 | [Lovers To Enemies](https://open.spotify.com/track/3bkyytDbOVfBw1C4YxxV0B) | [No Guidnce](https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY) | [Confessions of a Loverboy](https://open.spotify.com/album/7H0YUpWlIxLBzRrHBctaWe) | 2:41 |
 
-Snapshot ID: `AAAAAN3iWIVWskkgAsIleZzNNf91QDMm`
+Snapshot ID: `AAAAAEl7AyreVkq7z6UgtkjVJqcWAJVz`

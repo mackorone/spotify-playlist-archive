@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc\u3092\u7279\u96c6\u3002Cover: \u5d0e\u5c71\u84bc\u5fd7",
-  "num_followers": 64600,
+  "num_followers": 64599,
   "original_name": "\u30d6\u30eb\u30fc\u306b\u3053\u3093\u304c\u3089\u304c\u3063\u3066",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,22 @@
     {
       "added_at": "2025-12-23 15:20:56",
       "album": {
+        "name": "\u9f8d",
+        "url": "https://open.spotify.com/album/5CTQfbFE6YMIS2rr87bv84"
+      },
+      "artists": [
+        {
+          "name": "Masaharu Fukuyama",
+          "url": "https://open.spotify.com/artist/5FGlhIQqewJRV8fx24toG0"
+        }
+      ],
+      "duration_ms": 259966,
+      "name": "\u9f8d",
+      "url": "https://open.spotify.com/track/14nDDYrejbpPHhiChsI30G"
+    },
+    {
+      "added_at": "2025-12-23 15:20:56",
+      "album": {
         "name": "\u30df\u30fc\u30e0",
         "url": "https://open.spotify.com/album/2ZOkxqOX64sJbRXQFX6dQ7"
       },
@@ -807,18 +823,18 @@
     {
       "added_at": "2025-12-23 15:20:56",
       "album": {
-        "name": "\u9f8d",
-        "url": "https://open.spotify.com/album/5CTQfbFE6YMIS2rr87bv84"
+        "name": "\u30e9\u30a4\u30a2\u30fc",
+        "url": "https://open.spotify.com/album/1sjLQ2qSQZKVF9FOFri3wf"
       },
       "artists": [
         {
-          "name": "Masaharu Fukuyama",
-          "url": "https://open.spotify.com/artist/5FGlhIQqewJRV8fx24toG0"
+          "name": "Kucci",
+          "url": "https://open.spotify.com/artist/5VuxkEbe8SLvEL6ZM8lxs5"
         }
       ],
-      "duration_ms": 259966,
-      "name": "\u9f8d",
-      "url": "https://open.spotify.com/track/14nDDYrejbpPHhiChsI30G"
+      "duration_ms": 185000,
+      "name": "\u30e9\u30a4\u30a2\u30fc",
+      "url": "https://open.spotify.com/track/64ULo8RGzy9EEbd7F8FwGq"
     },
     {
       "added_at": "2025-12-23 15:20:56",
@@ -835,22 +851,6 @@
       "duration_ms": 179654,
       "name": "Thinking of You",
       "url": "https://open.spotify.com/track/5eIP2BdEEtv4EWIWGlJQV1"
-    },
-    {
-      "added_at": "2025-12-23 15:20:56",
-      "album": {
-        "name": "\u30e9\u30a4\u30a2\u30fc",
-        "url": "https://open.spotify.com/album/1sjLQ2qSQZKVF9FOFri3wf"
-      },
-      "artists": [
-        {
-          "name": "Kucci",
-          "url": "https://open.spotify.com/artist/5VuxkEbe8SLvEL6ZM8lxs5"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "\u30e9\u30a4\u30a2\u30fc",
-      "url": "https://open.spotify.com/track/64ULo8RGzy9EEbd7F8FwGq"
     },
     {
       "added_at": "2025-12-23 15:20:56",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2025-12-23 15:20:56",
       "album": {
+        "name": "\u53c2?",
+        "url": "https://open.spotify.com/album/0lzX67dxF9EAPHy4HZnfiU"
+      },
+      "artists": [
+        {
+          "name": "\u306f\u3066\u306a",
+          "url": "https://open.spotify.com/artist/3HueoTIeJ7XZYpiu8eadUM"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "\u53c2?",
+      "url": "https://open.spotify.com/track/1raAmqAEnFqTGbhx0hiHZg"
+    },
+    {
+      "added_at": "2025-12-23 15:20:56",
+      "album": {
         "name": "\u6d99\u306e\u30b9\u30a4\u30de\u30fc",
         "url": "https://open.spotify.com/album/3Mi20D234lblgBeMJjdEZc"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 329604,
       "name": "Belt of Venus",
       "url": "https://open.spotify.com/track/2iG9jd5SVWYnObU6PzeOS1"
-    },
-    {
-      "added_at": "2025-12-23 15:20:56",
-      "album": {
-        "name": "\u53c2?",
-        "url": "https://open.spotify.com/album/0lzX67dxF9EAPHy4HZnfiU"
-      },
-      "artists": [
-        {
-          "name": "\u306f\u3066\u306a",
-          "url": "https://open.spotify.com/artist/3HueoTIeJ7XZYpiu8eadUM"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "\u53c2?",
-      "url": "https://open.spotify.com/track/1raAmqAEnFqTGbhx0hiHZg"
     },
     {
       "added_at": "2025-12-23 15:20:56",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2025-12-23 15:20:56",
       "album": {
-        "name": "glauben",
-        "url": "https://open.spotify.com/album/3HJT14qyxrE8zMdgL7X2b4"
-      },
-      "artists": [
-        {
-          "name": "Lavt",
-          "url": "https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn"
-        }
-      ],
-      "duration_ms": 163200,
-      "name": "\u611f\u60c5\u7684\u4fb5\u7565",
-      "url": "https://open.spotify.com/track/0de5gJGrXgjTUYsGHSO2eX"
-    },
-    {
-      "added_at": "2025-12-23 15:20:56",
-      "album": {
         "name": "Quest",
         "url": "https://open.spotify.com/album/0XTbulkI0iUJ8Kkw1jlNr5"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 269960,
       "name": "Quest",
       "url": "https://open.spotify.com/track/2QINGugMpwAN9jTZ1VF6n2"
+    },
+    {
+      "added_at": "2025-12-23 15:20:56",
+      "album": {
+        "name": "glauben",
+        "url": "https://open.spotify.com/album/3HJT14qyxrE8zMdgL7X2b4"
+      },
+      "artists": [
+        {
+          "name": "Lavt",
+          "url": "https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "\u611f\u60c5\u7684\u4fb5\u7565",
+      "url": "https://open.spotify.com/track/0de5gJGrXgjTUYsGHSO2eX"
     },
     {
       "added_at": "2025-12-23 15:20:56",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2025-12-23 15:20:56",
       "album": {
-        "name": "Quest",
-        "url": "https://open.spotify.com/album/6DmFZuLvzOdbgBOBKuRgYW"
-      },
-      "artists": [
-        {
-          "name": "Kiro Akiyama",
-          "url": "https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty"
-        }
-      ],
-      "duration_ms": 185106,
-      "name": "\u30d6\u30e9\u30f3\u30b3",
-      "url": "https://open.spotify.com/track/4vMf6s0oq35fE7rRiniFZL"
-    },
-    {
-      "added_at": "2025-12-23 15:20:56",
-      "album": {
         "name": "glauben",
         "url": "https://open.spotify.com/album/3HJT14qyxrE8zMdgL7X2b4"
       },
@@ -1227,6 +1211,22 @@
     {
       "added_at": "2025-12-23 15:20:56",
       "album": {
+        "name": "Quest",
+        "url": "https://open.spotify.com/album/6DmFZuLvzOdbgBOBKuRgYW"
+      },
+      "artists": [
+        {
+          "name": "Kiro Akiyama",
+          "url": "https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty"
+        }
+      ],
+      "duration_ms": 185106,
+      "name": "\u30d6\u30e9\u30f3\u30b3",
+      "url": "https://open.spotify.com/track/4vMf6s0oq35fE7rRiniFZL"
+    },
+    {
+      "added_at": "2025-12-23 15:20:56",
+      "album": {
         "name": "\u6587\u660e\u958b\u5316 (East West)",
         "url": "https://open.spotify.com/album/7lAe4jZ69BXoVe6vBaKVMX"
       },
@@ -1239,22 +1239,6 @@
       "duration_ms": 155533,
       "name": "\u6708\u306e\u30ab\u30fc\u30cb\u30d0\u30eb",
       "url": "https://open.spotify.com/track/2bOvnmvvgY1TEuqEznldQs"
-    },
-    {
-      "added_at": "2025-12-23 15:20:56",
-      "album": {
-        "name": "Relapse",
-        "url": "https://open.spotify.com/album/1AHEZh8SyRQzT2AAFMMZoS"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Quartus",
-          "url": "https://open.spotify.com/artist/3RsPoeUFdT5nPJi59X63iy"
-        }
-      ],
-      "duration_ms": 216571,
-      "name": "Relapse",
-      "url": "https://open.spotify.com/track/4XdqhvEAFjRKCpHIZ9LFB2"
     },
     {
       "added_at": "2025-12-23 15:20:56",
@@ -1279,6 +1263,22 @@
     {
       "added_at": "2025-12-23 15:20:56",
       "album": {
+        "name": "Relapse",
+        "url": "https://open.spotify.com/album/1AHEZh8SyRQzT2AAFMMZoS"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Quartus",
+          "url": "https://open.spotify.com/artist/3RsPoeUFdT5nPJi59X63iy"
+        }
+      ],
+      "duration_ms": 216571,
+      "name": "Relapse",
+      "url": "https://open.spotify.com/track/4XdqhvEAFjRKCpHIZ9LFB2"
+    },
+    {
+      "added_at": "2025-12-23 15:20:56",
+      "album": {
         "name": "\u3053\u306e\u30aa\u30f3\u30ac\u30af\u3068\u5171\u306b",
         "url": "https://open.spotify.com/album/3AH87XpZUKF8zknAiZAYe6"
       },
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2025-12-23 15:20:56",
       "album": {
+        "name": "\u30ac\u30a4\u30a2",
+        "url": "https://open.spotify.com/album/0f9cR9kAGMSLGWnVd9eCyL"
+      },
+      "artists": [
+        {
+          "name": "Siip",
+          "url": "https://open.spotify.com/artist/4iJl88yli7zUwkDCNeKyNa"
+        }
+      ],
+      "duration_ms": 367306,
+      "name": "\u9732",
+      "url": "https://open.spotify.com/track/24dFX0UYYObDzUrY9Mdnqm"
+    },
+    {
+      "added_at": "2025-12-23 15:20:56",
+      "album": {
         "name": "3%\u3068\u79c1\u3002",
         "url": "https://open.spotify.com/album/2pku1IjyuuQZrWB20VNOoi"
       },
@@ -1307,6 +1323,22 @@
       "duration_ms": 290218,
       "name": "3%\u3068\u79c1\u3002",
       "url": "https://open.spotify.com/track/0TmZJAyJCddpnJlZdsnTBt"
+    },
+    {
+      "added_at": "2025-12-23 15:20:56",
+      "album": {
+        "name": "Like Gravity",
+        "url": "https://open.spotify.com/album/2prnZSlMBaKUD6NJmkZVb1"
+      },
+      "artists": [
+        {
+          "name": "BONNIE PINK",
+          "url": "https://open.spotify.com/artist/0ogtEa0KT8kmWr6n0UoAqu"
+        }
+      ],
+      "duration_ms": 184114,
+      "name": "Like Gravity",
+      "url": "https://open.spotify.com/track/7woHTrOb5btpt1k3JippcM"
     },
     {
       "added_at": "2025-12-23 15:20:56",
@@ -1339,22 +1371,6 @@
       "duration_ms": 160466,
       "name": "\u6b20\u7247",
       "url": "https://open.spotify.com/track/5mYTtXFq2DreBL25EK5bkF"
-    },
-    {
-      "added_at": "2025-12-23 15:20:56",
-      "album": {
-        "name": "Like Gravity",
-        "url": "https://open.spotify.com/album/2prnZSlMBaKUD6NJmkZVb1"
-      },
-      "artists": [
-        {
-          "name": "BONNIE PINK",
-          "url": "https://open.spotify.com/artist/0ogtEa0KT8kmWr6n0UoAqu"
-        }
-      ],
-      "duration_ms": 184114,
-      "name": "Like Gravity",
-      "url": "https://open.spotify.com/track/7woHTrOb5btpt1k3JippcM"
     },
     {
       "added_at": "2025-12-23 15:20:56",
@@ -1539,6 +1555,22 @@
     {
       "added_at": "2025-12-23 15:20:56",
       "album": {
+        "name": "In Bloom",
+        "url": "https://open.spotify.com/album/3ynxUwwaoRYf2JW8nbID9L"
+      },
+      "artists": [
+        {
+          "name": "\u4f50\u4e45\u9593\u9f8d\u661f",
+          "url": "https://open.spotify.com/artist/5knUYLel4ycC38VJKvMCSm"
+        }
+      ],
+      "duration_ms": 186733,
+      "name": "In Bloom",
+      "url": "https://open.spotify.com/track/3f58lbFyAK65TaTQ83JtDh"
+    },
+    {
+      "added_at": "2025-12-23 15:20:56",
+      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/6EDT74EiZ5pKdiTuGpeD0O"
       },
@@ -1555,18 +1587,18 @@
     {
       "added_at": "2025-12-23 15:20:56",
       "album": {
-        "name": "In Bloom",
-        "url": "https://open.spotify.com/album/3ynxUwwaoRYf2JW8nbID9L"
+        "name": "I see you",
+        "url": "https://open.spotify.com/album/4fvH9WiNjQ5CaoNTeHxFoL"
       },
       "artists": [
         {
-          "name": "\u4f50\u4e45\u9593\u9f8d\u661f",
-          "url": "https://open.spotify.com/artist/5knUYLel4ycC38VJKvMCSm"
+          "name": "Fukase",
+          "url": "https://open.spotify.com/artist/642h5Pps0IeXmWUnFrGhCA"
         }
       ],
-      "duration_ms": 186733,
-      "name": "In Bloom",
-      "url": "https://open.spotify.com/track/3f58lbFyAK65TaTQ83JtDh"
+      "duration_ms": 227632,
+      "name": "I see you",
+      "url": "https://open.spotify.com/track/2CM5QNzs22OzvWuaVQsoaR"
     },
     {
       "added_at": "2025-12-23 15:20:56",
@@ -1587,22 +1619,6 @@
     {
       "added_at": "2025-12-23 15:20:56",
       "album": {
-        "name": "P.S. I LOVE YOU",
-        "url": "https://open.spotify.com/album/51MUlhID8Y9Hry6TLVvR2A"
-      },
-      "artists": [
-        {
-          "name": "\u7af9\u5185\u30a2\u30f3\u30ca",
-          "url": "https://open.spotify.com/artist/7JbJSRUH6Wu2RtDfn8rbzw"
-        }
-      ],
-      "duration_ms": 188300,
-      "name": "P.S. I LOVE YOU",
-      "url": "https://open.spotify.com/track/4gKvXAohQvUC8QginInzPj"
-    },
-    {
-      "added_at": "2025-12-23 15:20:56",
-      "album": {
         "name": "Underneath the Lights",
         "url": "https://open.spotify.com/album/1Ooh0rrEUtMuFq0bNTpJf5"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 236551,
       "name": "Underneath the Lights",
       "url": "https://open.spotify.com/track/2NOeS29mW1tNJ9oEuw0njn"
-    },
-    {
-      "added_at": "2025-12-23 15:20:56",
-      "album": {
-        "name": "Ai'sCREAM",
-        "url": "https://open.spotify.com/album/0KkbijCllIheCHz6vx3244"
-      },
-      "artists": [
-        {
-          "name": "TOMIOKA AI",
-          "url": "https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "831",
-      "url": "https://open.spotify.com/track/4gOO6g4HEi2GsJdpduiEO8"
     }
   ],
   "unique_name": "\u30d6\u30eb\u30fc\u306b\u3053\u3093\u304c\u3089\u304c\u3063\u3066",

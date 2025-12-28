@@ -786,6 +786,32 @@
     {
       "album": {
         "name": "25 \u00c9 Natal, 31 \u00c9 Ano Novo",
+        "url": "https://open.spotify.com/album/7JDUEKJycDsVGebWNxorJM"
+      },
+      "artists": [
+        {
+          "name": "Barca Na Batida",
+          "url": "https://open.spotify.com/artist/1Bg1sE2gUJKKP3m6betC2Z"
+        },
+        {
+          "name": "Luanzinho do Recife",
+          "url": "https://open.spotify.com/artist/16U5nhRND5RH4wYyvhIPBe"
+        },
+        {
+          "name": "MC GW",
+          "url": "https://open.spotify.com/artist/4zc6ALO0P1fLFyjKZiQI52"
+        }
+      ],
+      "date_added": "2025-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160757,
+      "name": "25 \u00c9 Natal, 31 \u00c9 Ano Novo",
+      "url": "https://open.spotify.com/track/0LjHBXML4uo14a0kY0K12F"
+    },
+    {
+      "album": {
+        "name": "25 \u00c9 Natal, 31 \u00c9 Ano Novo",
         "url": "https://open.spotify.com/album/5wryKJCOHnnnTBSrXG8oIB"
       },
       "artists": [
@@ -49196,7 +49222,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-28",
       "duration_ms": 107855,
       "name": "Montagem Sarra Sarra",
       "url": "https://open.spotify.com/track/5YG4rxeltvw2KmOy0dW4z9"

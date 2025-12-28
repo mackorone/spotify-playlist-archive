@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2baJMpwgH2W.md) - [plain]
 
 > Ballads from the best shows, from the West End and beyond.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,972 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,978 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2baJMpwgH2W.md) - [plain]
 | 33 | [Breathe](https://open.spotify.com/track/6OSTrvIX8JXxRxFT4C9y0J) | ['In The Heights' Original Broadway Company](https://open.spotify.com/artist/0kvp9mzfvoXvGtjSWTgrEb), [Mandy Gonzalez](https://open.spotify.com/artist/2xBOCZLKP7FMXK2dyO5hIe) | [In the Heights \(Original Broadway Cast Recording\)](https://open.spotify.com/album/3VPHalWocJfe7VfbEW60zg) | 4:04 |
 | 34 | [Naughty](https://open.spotify.com/track/64DXFDl2A6ObNy7iXFlZzZ) | [Matilda the Musical Original Cast](https://open.spotify.com/artist/7paFidVdtsmKlLtHiLZu41) | [Matilda the Musical \(Original London Cast Recording\)](https://open.spotify.com/album/4TMFJM8OsgA2RwwYySNhmU) | 4:02 |
 | 35 | [Legally Blonde](https://open.spotify.com/track/1bXV5MjCKNmD8viWpawP9A) | [Christian Borle](https://open.spotify.com/artist/3mXvO1rdMCgdOYNiWeduWG), [Laura Bell Bundy](https://open.spotify.com/artist/32bisvV1h0yF3PeKmWI6sj) | [Legally Blonde The Musical \(Original Broadway Cast Recording\)](https://open.spotify.com/album/7os43c6BUhMJkDUaEtDufk) | 3:30 |
-| 36 | [Kiss the Girl \- Remastered 2014](https://open.spotify.com/track/75VAFZAhvPSw1euEHg1fQU) | [Samuel E\. Wright](https://open.spotify.com/artist/6Id8rcDNyBXPcgKQVfQ8rX) | [Walt Disney Records The Legacy Collection: The Little Mermaid](https://open.spotify.com/album/0G6CKfBpgWYvYyjt3hoBst) | 2:40 |
-| 37 | [God Help the Outcasts](https://open.spotify.com/track/67KymXb4OUQtUlO31EFOjS) | [Heidi Mollenhauer](https://open.spotify.com/artist/2FmXrymxv6kNBnA66HpoPt), [Chorus \- The Hunchback Of Notre Dame](https://open.spotify.com/artist/5oHSxqr1uDloCbJJPNBd6T) | [The Hunchback Of Notre Dame \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7btQeUDTIIfnh2iCQ8Pfhq) | 3:45 |
+| 36 | [God Help the Outcasts](https://open.spotify.com/track/67KymXb4OUQtUlO31EFOjS) | [Heidi Mollenhauer](https://open.spotify.com/artist/2FmXrymxv6kNBnA66HpoPt), [Chorus \- The Hunchback Of Notre Dame](https://open.spotify.com/artist/5oHSxqr1uDloCbJJPNBd6T) | [The Hunchback Of Notre Dame \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7btQeUDTIIfnh2iCQ8Pfhq) | 3:45 |
+| 37 | [Kiss the Girl \- Remastered 2014](https://open.spotify.com/track/75VAFZAhvPSw1euEHg1fQU) | [Samuel E\. Wright](https://open.spotify.com/artist/6Id8rcDNyBXPcgKQVfQ8rX) | [Walt Disney Records The Legacy Collection: The Little Mermaid](https://open.spotify.com/album/0G6CKfBpgWYvYyjt3hoBst) | 2:40 |
 | 38 | [Mister Cellophane](https://open.spotify.com/track/6TtN9cU9bK6TJX0DBSu6pd) | [John C\. Reilly](https://open.spotify.com/artist/5SL8972vfCQ4PFqlmf9B5G) | [Chicago \- Music From The Miramax Motion Picture](https://open.spotify.com/album/3RH2do6C88Owoka8V51LsP) | 3:57 |
 | 39 | [The Place Where Lost Things Go](https://open.spotify.com/track/6BK8BcFxMFr3JVUaAOZsYC) | [Emily Blunt](https://open.spotify.com/artist/1Q67mZjXzxBuLSgvgFdtuG) | [Mary Poppins Returns \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4A5q8ZjS2S7kXoixcEU81B) | 3:43 |
 | 40 | [Sal Tlay Ka Siti](https://open.spotify.com/track/6n7FyFONGtwL0XdGALhXMJ) | [Nikki M\. James](https://open.spotify.com/artist/5HHdJNyLkf5ZmTcxId47jT) | [The Book Of Mormon \(Original Broadway Cast Recording\)](https://open.spotify.com/album/5yauUuXppqUj2ulor38hvI) | 3:41 |

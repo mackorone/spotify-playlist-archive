@@ -1,6 +1,6 @@
 {
   "description": "Volkspop | Nederpop. Cover: Yves Berendse",
-  "num_followers": 155044,
+  "num_followers": 155109,
   "original_name": "Hollandse Meezingers",
   "owner": {
     "name": "Spotify",
@@ -503,22 +503,6 @@
     {
       "added_at": "2025-12-10 23:00:01",
       "album": {
-        "name": "En Ik Droom",
-        "url": "https://open.spotify.com/album/5ZybncAraeNMOApWMh9CDe"
-      },
-      "artists": [
-        {
-          "name": "Milan Milano",
-          "url": "https://open.spotify.com/artist/3wpbnuD8rmBA06MXEiqhpS"
-        }
-      ],
-      "duration_ms": 157569,
-      "name": "En Ik Droom",
-      "url": "https://open.spotify.com/track/5RNcBOSFQVCLAxg4WGJzsd"
-    },
-    {
-      "added_at": "2025-12-10 23:00:01",
-      "album": {
         "name": "Het Leven Gaat Door",
         "url": "https://open.spotify.com/album/3QqQKl5TIz3uMfhRWpoCWW"
       },
@@ -535,18 +519,34 @@
     {
       "added_at": "2025-12-10 23:00:01",
       "album": {
-        "name": "Bailando",
-        "url": "https://open.spotify.com/album/6vVNkqg0uf9HTt966hqReK"
+        "name": "En Ik Droom",
+        "url": "https://open.spotify.com/album/5ZybncAraeNMOApWMh9CDe"
       },
       "artists": [
         {
-          "name": "Jeffrey Heesen",
-          "url": "https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp"
+          "name": "Milan Milano",
+          "url": "https://open.spotify.com/artist/3wpbnuD8rmBA06MXEiqhpS"
         }
       ],
-      "duration_ms": 163125,
-      "name": "Bailando",
-      "url": "https://open.spotify.com/track/1pegjs65Iwuk2IrGGieOYx"
+      "duration_ms": 157569,
+      "name": "En Ik Droom",
+      "url": "https://open.spotify.com/track/5RNcBOSFQVCLAxg4WGJzsd"
+    },
+    {
+      "added_at": "2025-12-10 23:00:01",
+      "album": {
+        "name": "Vandaag",
+        "url": "https://open.spotify.com/album/6Y5EgKqE0tlU8smzFCHoCa"
+      },
+      "artists": [
+        {
+          "name": "Nick & Simon",
+          "url": "https://open.spotify.com/artist/3jBNLmJDEBWEoidTT7l1Jn"
+        }
+      ],
+      "duration_ms": 159866,
+      "name": "Rosanne",
+      "url": "https://open.spotify.com/track/2O3kmOZ0N8A3PtBW4DWqFm"
     },
     {
       "added_at": "2025-12-10 23:00:01",
@@ -571,22 +571,6 @@
     {
       "added_at": "2025-12-10 23:00:01",
       "album": {
-        "name": "De nieuwe van....",
-        "url": "https://open.spotify.com/album/2x0327Ozc7ODk3LQCSk6tL"
-      },
-      "artists": [
-        {
-          "name": "Jannes",
-          "url": "https://open.spotify.com/artist/02ydjJPvRKpejxRzZyHdaq"
-        }
-      ],
-      "duration_ms": 218880,
-      "name": "Zwevend naar 't geluk",
-      "url": "https://open.spotify.com/track/0DBCfqAcsiQAonBXMD50cA"
-    },
-    {
-      "added_at": "2025-12-10 23:00:01",
-      "album": {
         "name": "Zoutelande (feat. Geike)",
         "url": "https://open.spotify.com/album/0lijSwwkPwnIv3NOnwL5O0"
       },
@@ -607,38 +591,50 @@
     {
       "added_at": "2025-12-10 23:00:01",
       "album": {
-        "name": "Vandaag",
-        "url": "https://open.spotify.com/album/6Y5EgKqE0tlU8smzFCHoCa"
+        "name": "De nieuwe van....",
+        "url": "https://open.spotify.com/album/2x0327Ozc7ODk3LQCSk6tL"
       },
       "artists": [
         {
-          "name": "Nick & Simon",
-          "url": "https://open.spotify.com/artist/3jBNLmJDEBWEoidTT7l1Jn"
+          "name": "Jannes",
+          "url": "https://open.spotify.com/artist/02ydjJPvRKpejxRzZyHdaq"
         }
       ],
-      "duration_ms": 159866,
-      "name": "Rosanne",
-      "url": "https://open.spotify.com/track/2O3kmOZ0N8A3PtBW4DWqFm"
+      "duration_ms": 218880,
+      "name": "Zwevend naar 't geluk",
+      "url": "https://open.spotify.com/track/0DBCfqAcsiQAonBXMD50cA"
     },
     {
       "added_at": "2025-12-10 23:00:01",
       "album": {
-        "name": "Hier Mag Alles",
-        "url": "https://open.spotify.com/album/7vAX7pi3sdfs65gVw6K1fi"
+        "name": "Bailando",
+        "url": "https://open.spotify.com/album/6vVNkqg0uf9HTt966hqReK"
       },
       "artists": [
         {
-          "name": "Donnie",
-          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
-        },
-        {
-          "name": "Marco Schuitmaker",
-          "url": "https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ"
+          "name": "Jeffrey Heesen",
+          "url": "https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp"
         }
       ],
-      "duration_ms": 195859,
-      "name": "Hier Mag Alles",
-      "url": "https://open.spotify.com/track/1sqe31TzOsjCeex1INgmsq"
+      "duration_ms": 163125,
+      "name": "Bailando",
+      "url": "https://open.spotify.com/track/1pegjs65Iwuk2IrGGieOYx"
+    },
+    {
+      "added_at": "2025-12-10 23:00:01",
+      "album": {
+        "name": "De Jonge Jaren van Doe Maar - 50 jaar Nederpop",
+        "url": "https://open.spotify.com/album/2B9dyhwM3qcaQZJc1xKnXu"
+      },
+      "artists": [
+        {
+          "name": "Doe Maar",
+          "url": "https://open.spotify.com/artist/58hFVpwYRp8sQdtANcMpiE"
+        }
+      ],
+      "duration_ms": 200891,
+      "name": "Sinds 1 Dag Of 2 (32 Jaar)",
+      "url": "https://open.spotify.com/track/3IbkWFHKCQp1Y7oLjeQgGv"
     },
     {
       "added_at": "2025-12-10 23:00:01",
@@ -659,18 +655,22 @@
     {
       "added_at": "2025-12-10 23:00:01",
       "album": {
-        "name": "De Jonge Jaren van Doe Maar - 50 jaar Nederpop",
-        "url": "https://open.spotify.com/album/2B9dyhwM3qcaQZJc1xKnXu"
+        "name": "Hier Mag Alles",
+        "url": "https://open.spotify.com/album/7vAX7pi3sdfs65gVw6K1fi"
       },
       "artists": [
         {
-          "name": "Doe Maar",
-          "url": "https://open.spotify.com/artist/58hFVpwYRp8sQdtANcMpiE"
+          "name": "Donnie",
+          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
+        },
+        {
+          "name": "Marco Schuitmaker",
+          "url": "https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ"
         }
       ],
-      "duration_ms": 200891,
-      "name": "Sinds 1 Dag Of 2 (32 Jaar)",
-      "url": "https://open.spotify.com/track/3IbkWFHKCQp1Y7oLjeQgGv"
+      "duration_ms": 195859,
+      "name": "Hier Mag Alles",
+      "url": "https://open.spotify.com/track/1sqe31TzOsjCeex1INgmsq"
     },
     {
       "added_at": "2025-12-10 23:00:01",
@@ -887,6 +887,22 @@
     {
       "added_at": "2025-12-10 23:00:01",
       "album": {
+        "name": "Vlinders Van De Nacht",
+        "url": "https://open.spotify.com/album/13XX8pIrS5dG6fymhvzOsC"
+      },
+      "artists": [
+        {
+          "name": "Benny Neyman",
+          "url": "https://open.spotify.com/artist/31QaP8ttyZpVIXabCmWKc2"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Vrijgezel",
+      "url": "https://open.spotify.com/track/5Z2aHuXBpwMnTpWZMwHkmr"
+    },
+    {
+      "added_at": "2025-12-10 23:00:01",
+      "album": {
         "name": "In Spanje",
         "url": "https://open.spotify.com/album/2ES5voKkNIQXKvjgyDhkV1"
       },
@@ -923,38 +939,18 @@
     {
       "added_at": "2025-12-10 23:00:01",
       "album": {
-        "name": "Verbazing",
-        "url": "https://open.spotify.com/album/6hqBbsWRFC9Mh1Z2YdYDNQ"
+        "name": "Voel Je Dan Niet?",
+        "url": "https://open.spotify.com/album/5Jl8vDC0r5ITwmIsQJbQOK"
       },
       "artists": [
         {
-          "name": "Guus Meeuwis",
-          "url": "https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv"
-        },
-        {
-          "name": "Vagant",
-          "url": "https://open.spotify.com/artist/2ZywabPnRCoHjfPJfQavrA"
+          "name": "Milan Milano",
+          "url": "https://open.spotify.com/artist/3wpbnuD8rmBA06MXEiqhpS"
         }
       ],
-      "duration_ms": 225040,
-      "name": "Het Is Een Nacht... (Levensecht)",
-      "url": "https://open.spotify.com/track/1jnUXW29r0JgYRcQmC3gIp"
-    },
-    {
-      "added_at": "2025-12-10 23:00:01",
-      "album": {
-        "name": "Vlinders Van De Nacht",
-        "url": "https://open.spotify.com/album/13XX8pIrS5dG6fymhvzOsC"
-      },
-      "artists": [
-        {
-          "name": "Benny Neyman",
-          "url": "https://open.spotify.com/artist/31QaP8ttyZpVIXabCmWKc2"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Vrijgezel",
-      "url": "https://open.spotify.com/track/5Z2aHuXBpwMnTpWZMwHkmr"
+      "duration_ms": 180671,
+      "name": "Voel Je Dan Niet?",
+      "url": "https://open.spotify.com/track/2Y8Ln46xwFJYKOsUltJjkA"
     },
     {
       "added_at": "2025-12-10 23:00:01",
@@ -975,38 +971,6 @@
     {
       "added_at": "2025-12-10 23:00:01",
       "album": {
-        "name": "Voel Je Dan Niet?",
-        "url": "https://open.spotify.com/album/5Jl8vDC0r5ITwmIsQJbQOK"
-      },
-      "artists": [
-        {
-          "name": "Milan Milano",
-          "url": "https://open.spotify.com/artist/3wpbnuD8rmBA06MXEiqhpS"
-        }
-      ],
-      "duration_ms": 180671,
-      "name": "Voel Je Dan Niet?",
-      "url": "https://open.spotify.com/track/2Y8Ln46xwFJYKOsUltJjkA"
-    },
-    {
-      "added_at": "2025-12-10 23:00:01",
-      "album": {
-        "name": "Spijt Is Voor Later",
-        "url": "https://open.spotify.com/album/6BkGw2ZJrcHzZkxGzdKFGT"
-      },
-      "artists": [
-        {
-          "name": "Martin Morero",
-          "url": "https://open.spotify.com/artist/2ZfQk5ZacjDAu5FkpFihF3"
-        }
-      ],
-      "duration_ms": 164573,
-      "name": "Spijt Is Voor Later",
-      "url": "https://open.spotify.com/track/2QwAzwjpruvSZ83t7wlZVD"
-    },
-    {
-      "added_at": "2025-12-10 23:00:01",
-      "album": {
         "name": "Pretty Belinda",
         "url": "https://open.spotify.com/album/5Or2VYn33rCB7gB3SvR4Fm"
       },
@@ -1023,6 +987,42 @@
       "duration_ms": 174533,
       "name": "Pretty Belinda",
       "url": "https://open.spotify.com/track/5r1xffqGgmoqdk5PMylTGA"
+    },
+    {
+      "added_at": "2025-12-10 23:00:01",
+      "album": {
+        "name": "Verbazing",
+        "url": "https://open.spotify.com/album/6hqBbsWRFC9Mh1Z2YdYDNQ"
+      },
+      "artists": [
+        {
+          "name": "Guus Meeuwis",
+          "url": "https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv"
+        },
+        {
+          "name": "Vagant",
+          "url": "https://open.spotify.com/artist/2ZywabPnRCoHjfPJfQavrA"
+        }
+      ],
+      "duration_ms": 225040,
+      "name": "Het Is Een Nacht... (Levensecht)",
+      "url": "https://open.spotify.com/track/1jnUXW29r0JgYRcQmC3gIp"
+    },
+    {
+      "added_at": "2025-12-10 23:00:01",
+      "album": {
+        "name": "Spijt Is Voor Later",
+        "url": "https://open.spotify.com/album/6BkGw2ZJrcHzZkxGzdKFGT"
+      },
+      "artists": [
+        {
+          "name": "Martin Morero",
+          "url": "https://open.spotify.com/artist/2ZfQk5ZacjDAu5FkpFihF3"
+        }
+      ],
+      "duration_ms": 164573,
+      "name": "Spijt Is Voor Later",
+      "url": "https://open.spotify.com/track/2QwAzwjpruvSZ83t7wlZVD"
     },
     {
       "added_at": "2025-12-10 23:00:01",
@@ -1091,6 +1091,30 @@
     {
       "added_at": "2025-12-10 23:00:01",
       "album": {
+        "name": "Beste Zangers Seizoen 12 (Aflevering 8 - Duetten)",
+        "url": "https://open.spotify.com/album/282BwXPUfsaB47dC9dKWIi"
+      },
+      "artists": [
+        {
+          "name": "Emma Heesters",
+          "url": "https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM"
+        },
+        {
+          "name": "Rolf Sanchez",
+          "url": "https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws"
+        },
+        {
+          "name": "Beste Zangers",
+          "url": "https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa"
+        }
+      ],
+      "duration_ms": 171508,
+      "name": "Pa Olvidarte",
+      "url": "https://open.spotify.com/track/3XAaiiSNPVDvXC2CKAetY3"
+    },
+    {
+      "added_at": "2025-12-10 23:00:01",
+      "album": {
         "name": "Esmeralda",
         "url": "https://open.spotify.com/album/5DZAYDrzrs63D6CigorZef"
       },
@@ -1119,30 +1143,6 @@
       "duration_ms": 219533,
       "name": "Laat ze maar lullen",
       "url": "https://open.spotify.com/track/3GUZqZgP7dnmWamPGUnkBM"
-    },
-    {
-      "added_at": "2025-12-10 23:00:01",
-      "album": {
-        "name": "Beste Zangers Seizoen 12 (Aflevering 8 - Duetten)",
-        "url": "https://open.spotify.com/album/282BwXPUfsaB47dC9dKWIi"
-      },
-      "artists": [
-        {
-          "name": "Emma Heesters",
-          "url": "https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM"
-        },
-        {
-          "name": "Rolf Sanchez",
-          "url": "https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws"
-        },
-        {
-          "name": "Beste Zangers",
-          "url": "https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa"
-        }
-      ],
-      "duration_ms": 171508,
-      "name": "Pa Olvidarte",
-      "url": "https://open.spotify.com/track/3XAaiiSNPVDvXC2CKAetY3"
     },
     {
       "added_at": "2025-12-10 23:00:01",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2025-12-10 23:00:01",
       "album": {
-        "name": "Leef",
-        "url": "https://open.spotify.com/album/6lTrzzgpV4zOaEhtYgclKm"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 Hazes Jr.",
-          "url": "https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD"
-        }
-      ],
-      "duration_ms": 217902,
-      "name": "Leef",
-      "url": "https://open.spotify.com/track/4lBkLeU6LNgWzfbWPGm1c9"
-    },
-    {
-      "added_at": "2025-12-10 23:00:01",
-      "album": {
         "name": "We Dansen Op De Mambo",
         "url": "https://open.spotify.com/album/3rJ62KNdaZ5iozmVKVN2R3"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 166543,
       "name": "We Dansen Op De Mambo",
       "url": "https://open.spotify.com/track/3guMKFst9U0pYgBClN4nGK"
+    },
+    {
+      "added_at": "2025-12-10 23:00:01",
+      "album": {
+        "name": "Mijn Loterij",
+        "url": "https://open.spotify.com/album/3RKA8TDjP7UVdY15avLtcb"
+      },
+      "artists": [
+        {
+          "name": "Diego Holzken",
+          "url": "https://open.spotify.com/artist/6OVNDgD8FqGVo93IzowtSx"
+        }
+      ],
+      "duration_ms": 189352,
+      "name": "Mijn Loterij",
+      "url": "https://open.spotify.com/track/6XSanjhhXXpnsEI3O6zQqC"
     },
     {
       "added_at": "2025-12-10 23:00:01",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2025-12-10 23:00:01",
       "album": {
-        "name": "Mijn Loterij",
-        "url": "https://open.spotify.com/album/3RKA8TDjP7UVdY15avLtcb"
+        "name": "Leef",
+        "url": "https://open.spotify.com/album/6lTrzzgpV4zOaEhtYgclKm"
       },
       "artists": [
         {
-          "name": "Diego Holzken",
-          "url": "https://open.spotify.com/artist/6OVNDgD8FqGVo93IzowtSx"
+          "name": "Andr\u00e9 Hazes Jr.",
+          "url": "https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD"
         }
       ],
-      "duration_ms": 189352,
-      "name": "Mijn Loterij",
-      "url": "https://open.spotify.com/track/6XSanjhhXXpnsEI3O6zQqC"
+      "duration_ms": 217902,
+      "name": "Leef",
+      "url": "https://open.spotify.com/track/4lBkLeU6LNgWzfbWPGm1c9"
     },
     {
       "added_at": "2025-12-10 23:00:01",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2025-12-10 23:00:01",
       "album": {
-        "name": "Zomernacht In Griekenland",
-        "url": "https://open.spotify.com/album/6syoR5A01q6GRRsiX8gKzD"
-      },
-      "artists": [
-        {
-          "name": "Marco Schuitmaker",
-          "url": "https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ"
-        }
-      ],
-      "duration_ms": 167002,
-      "name": "Zomernacht In Griekenland",
-      "url": "https://open.spotify.com/track/3OpUqZZuzcibtcWqgyCyPn"
-    },
-    {
-      "added_at": "2025-12-10 23:00:01",
-      "album": {
         "name": "Muziek Is Ons Leven",
         "url": "https://open.spotify.com/album/1U1Ot6e6YUdKzs7TycDyRQ"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 211000,
       "name": "Muziek Is Ons Leven",
       "url": "https://open.spotify.com/track/1HXXmdT2R1IiMYa8kRYeaS"
+    },
+    {
+      "added_at": "2025-12-10 23:00:01",
+      "album": {
+        "name": "Zomernacht In Griekenland",
+        "url": "https://open.spotify.com/album/6syoR5A01q6GRRsiX8gKzD"
+      },
+      "artists": [
+        {
+          "name": "Marco Schuitmaker",
+          "url": "https://open.spotify.com/artist/5kukvi4C18gvtXbDS1eKjQ"
+        }
+      ],
+      "duration_ms": 167002,
+      "name": "Zomernacht In Griekenland",
+      "url": "https://open.spotify.com/track/3OpUqZZuzcibtcWqgyCyPn"
     },
     {
       "added_at": "2025-12-10 23:00:01",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2025-12-10 23:00:01",
       "album": {
-        "name": "10 Jaar (Mijn Grootste Hits Tot Nu Toe)",
-        "url": "https://open.spotify.com/album/7BXFVHDPJh2pKr9AdP7wiH"
-      },
-      "artists": [
-        {
-          "name": "Frans Duijts",
-          "url": "https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t"
-        }
-      ],
-      "duration_ms": 230203,
-      "name": "Ik Laat Je Nooit Meer Gaan",
-      "url": "https://open.spotify.com/track/2LJdZAqsVXQK8YhfxyFDv5"
-    },
-    {
-      "added_at": "2025-12-10 23:00:01",
-      "album": {
         "name": "De Ring die jij draagt 2.0",
         "url": "https://open.spotify.com/album/0gXqjqCKGWGVSpxujOJTAg"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 192923,
       "name": "De Ring die jij draagt 2.0",
       "url": "https://open.spotify.com/track/1n5f3f1Ml3v08Kdh2bIKaq"
+    },
+    {
+      "added_at": "2025-12-10 23:00:01",
+      "album": {
+        "name": "10 Jaar (Mijn Grootste Hits Tot Nu Toe)",
+        "url": "https://open.spotify.com/album/7BXFVHDPJh2pKr9AdP7wiH"
+      },
+      "artists": [
+        {
+          "name": "Frans Duijts",
+          "url": "https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t"
+        }
+      ],
+      "duration_ms": 230203,
+      "name": "Ik Laat Je Nooit Meer Gaan",
+      "url": "https://open.spotify.com/track/2LJdZAqsVXQK8YhfxyFDv5"
     },
     {
       "added_at": "2025-12-10 23:00:01",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPb6Cs5wHdBT6e9FplKjUQgOssik",
+  "snapshot_id": "AAAAAFAEHCH+GixaIb7jSAHVxL/4E1d5",
   "tracks": [
     {
       "added_at": "2025-12-19 06:00:11",
@@ -787,22 +787,6 @@
     {
       "added_at": "2025-12-19 06:00:11",
       "album": {
-        "name": "Existencia Kamikaze",
-        "url": "https://open.spotify.com/album/6fUzjJ4WJm5IfgJ9tONycP"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 197780,
-      "name": "Temes",
-      "url": "https://open.spotify.com/track/66LLNuHo95vCXZyYsKp33k"
-    },
-    {
-      "added_at": "2025-12-19 06:00:11",
-      "album": {
         "name": "\u00bfPor Qu\u00e9 Soy As\u00ed?",
         "url": "https://open.spotify.com/album/0nx6GtmpkRxmbj1gX2pRP2"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 189693,
       "name": "\u00bfPor Qu\u00e9 Soy As\u00ed?",
       "url": "https://open.spotify.com/track/1N9n5G6elGqnLm3KSVG7Ir"
+    },
+    {
+      "added_at": "2025-12-19 06:00:11",
+      "album": {
+        "name": "Existencia Kamikaze",
+        "url": "https://open.spotify.com/album/6fUzjJ4WJm5IfgJ9tONycP"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 197780,
+      "name": "Temes",
+      "url": "https://open.spotify.com/track/66LLNuHo95vCXZyYsKp33k"
     },
     {
       "added_at": "2025-12-19 06:00:11",

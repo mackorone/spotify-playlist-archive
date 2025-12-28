@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NeseHaSkSz.md) - [plain]
 
 > Indian flute and nature sounds transport you to a hidden sacred place deep in the woods..\. Escape to your inner sanctuary to find recovery, healing and tranquility.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,290 likes - 182 songs - 8 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,381 likes - 182 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -191,4 +191,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NeseHaSkSz.md) - [plain]
 | 181 | [Dhairya](https://open.spotify.com/track/17CP4MgWYJMOnFUi1ncgWE) | [Calm Sūtra](https://open.spotify.com/artist/17iuV6cWs8vvEHlD41aFu6) | [Dhairya](https://open.spotify.com/album/5cXkdM5XQAOy4siFMbFuYq) | 2:52 |
 | 182 | [Medi Realms](https://open.spotify.com/track/7xU63mvQRMYOKzCkb3dJYW) | [Vera Eikon](https://open.spotify.com/artist/5GWPPcK9rmFZvw8Gy4TQOj) | [Medi Realms](https://open.spotify.com/album/65uc0NlWh51Vw6iCv6bw8p) | 2:23 |
 
-Snapshot ID: `AAAAALSFqlRx8m6MurPgh19JZH4bmIKz`
+Snapshot ID: `AAAAACsMJFB+WVsbp7Z3h4sTxl1zA7Es`

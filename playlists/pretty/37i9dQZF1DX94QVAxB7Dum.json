@@ -1,6 +1,6 @@
 {
   "description": "Music from the award-winning doc: The Black Power Mixtape 1967\u20131975.",
-  "num_followers": 809417,
+  "num_followers": 809499,
   "original_name": "The Black Power Mixtape 1967\u20131975",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,22 @@
     {
       "added_at": "2024-07-02 22:47:47",
       "album": {
+        "name": "Proud Mary: The Best Of Ike & Tina Turner",
+        "url": "https://open.spotify.com/album/2UCdfQEDgzWtbzpaD4Mo47"
+      },
+      "artists": [
+        {
+          "name": "Ike & Tina Turner",
+          "url": "https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k"
+        }
+      ],
+      "duration_ms": 207200,
+      "name": "River Deep, Mountain High",
+      "url": "https://open.spotify.com/track/3wMqRnny1MIRLuv3tjUJO6"
+    },
+    {
+      "added_at": "2024-07-02 22:47:47",
+      "album": {
         "name": "Going To A Go-Go",
         "url": "https://open.spotify.com/album/3k6u76lSaKt4FrxSphXPRj"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 168453,
       "name": "Who's Making Love",
       "url": "https://open.spotify.com/track/0LVoNXcZ3PMSOjJsecqxAe"
-    },
-    {
-      "added_at": "2024-07-02 22:47:47",
-      "album": {
-        "name": "Proud Mary: The Best Of Ike & Tina Turner",
-        "url": "https://open.spotify.com/album/2UCdfQEDgzWtbzpaD4Mo47"
-      },
-      "artists": [
-        {
-          "name": "Ike & Tina Turner",
-          "url": "https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k"
-        }
-      ],
-      "duration_ms": 207200,
-      "name": "River Deep, Mountain High",
-      "url": "https://open.spotify.com/track/3wMqRnny1MIRLuv3tjUJO6"
     },
     {
       "added_at": "2024-07-02 22:47:47",

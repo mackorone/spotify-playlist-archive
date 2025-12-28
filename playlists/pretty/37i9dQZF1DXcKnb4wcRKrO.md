@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKnb4wcRKrO.md) - [plain]
 
 > Golden hour, apéritif, cozy time, beach wind\-down \-  jazzy vibes & relaxed house beats🍹
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,197 likes - 124 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,334 likes - 124 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKnb4wcRKrO.md) - [plain]
 | 123 | [Cosmic Future](https://open.spotify.com/track/51g8zf95z13bo1BegMHSlF) | [ysv](https://open.spotify.com/artist/7iODejXkEsPclpkrCXdn7B), [Terrazze](https://open.spotify.com/artist/7MDks2QCzuABeUTHipzysK), [philocalie](https://open.spotify.com/artist/2xSEBQojyWTfoZ637ZjiZm) | [Cosmic Club](https://open.spotify.com/album/5sXMGLlqMCxrhOdf9UTNnp) | 3:52 |
 | 124 | [Wonder](https://open.spotify.com/track/7fmhmYgJgNEAQaenKFHqdD) | [Palm Club](https://open.spotify.com/artist/1q2QW8MMcFBOiqSh1AS5iv) | [Wonder](https://open.spotify.com/album/7BJK7vimlIsE1Bhy0CTWfy) | 2:41 |
 
-Snapshot ID: `AAAAAC/FA2ZITagD3/+D5Edaf99VHe5s`
+Snapshot ID: `AAAAAO5SrtGdC915c3/lqoUDIIzZ9XGJ`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Det er fredag! Ny musik fra Specktos&Infernal,  Albert Heath, Mona Moroni og mange flere 👀
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,670 likes - 51 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,669 likes - 51 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 50 | [Sørupvej](https://open.spotify.com/track/3JLEGvLGMU1NTBjviqgas2) | [MADS HASLUND](https://open.spotify.com/artist/7zQculkX20bpiNFegKR4Pi) | [Sørupvej](https://open.spotify.com/album/4IUGvhTtmyBUz66q4gu2xt) | 2:45 |
 | 51 | [Catch Fire](https://open.spotify.com/track/1mU6Ibb7wQHYF7BwPImlCN) | [Jon Protege](https://open.spotify.com/artist/538zpYKI6GHuBfIgcHmM8P) | [The Wiseman, The Mirror, & The Shadow](https://open.spotify.com/album/1y22cH67AE22Du1JKd9Ra3) | 3:05 |
 
-Snapshot ID: `AAAAAHQEhbM+NJ4wIkNHuQ/QmKPxvw7b`
+Snapshot ID: `AAAAAPukKrdK5X7tQqSoh8gsQDo1sSRF`

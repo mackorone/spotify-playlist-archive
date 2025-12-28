@@ -4,7 +4,7 @@
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-1,331 songs - 2 day 10 hr 47 min
+1,333 songs - 2 day 10 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,6 +261,7 @@
 | [Dancing In The Dark](https://open.spotify.com/track/7pxzHRq6yWvzIitcEAHMva) | [TROYMER](https://open.spotify.com/artist/5WIDj0rMTefn1pATqwm9TC) | [Dancing In The Dark](https://open.spotify.com/album/4VBe5Cme5Ty5UgHnCWNxsP) | 2:21 | 2024-12-13 | 2025-01-11 |
 | [Dancing In The Moonlight](https://open.spotify.com/track/0xks4A0Esj1XVNIUwklTNQ) | [Loumé](https://open.spotify.com/artist/6o8bvjajrVq9BnXoR7bXnH), [Elias Tebroke](https://open.spotify.com/artist/28U9i62cNNv9CDxhWEhcJK) | [Dancing In The Moonlight](https://open.spotify.com/album/0rq7OS1tKkuuq8c24FVMMX) | 2:03 | 2025-11-21 |  |
 | [Dancing in the Moonlight \(feat\. NEIMY\)](https://open.spotify.com/track/5ow0sNF1zSqp71Ix5jEXWU) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO) | [Dancing in the Moonlight \(feat\. NEIMY\)](https://open.spotify.com/album/47hMwqG7KVLVzyMjgYUqxM) | 2:44 | 2022-06-10 | 2024-09-15 |
+| [Dancing On My Own](https://open.spotify.com/track/1EBfR3oLOTPFPEacUfdc6N) | [Summer Dusk](https://open.spotify.com/artist/21Nw1hStsfi6uDLK6WGzm3), [Robbie Hutton](https://open.spotify.com/artist/05qvZreQgj82j4gXKT6K0T) | [Dancing On My Own](https://open.spotify.com/album/2zpJk6wCF36bOgerQup151) | 2:40 | 2025-12-27 |  |
 | [Dandelion](https://open.spotify.com/track/4etTd7SN547LRWuf0yMLjU) | [Edward Snellen](https://open.spotify.com/artist/6NqXkBi75jInrB94Nzfv6G), [NICALI](https://open.spotify.com/artist/2hOcpPpVDqzsIIXYNde7ok), [BRACKET MUSIC](https://open.spotify.com/artist/5eJi1jXWr2TWoHl4tIWM7F) | [Dandelion](https://open.spotify.com/album/4znboEW2vafDhiDhjc8RcQ) | 2:44 | 2024-05-02 | 2024-08-10 |
 | [Dangereux](https://open.spotify.com/track/7zhVOlaOWpnqDHMZBvGHhR) | [Thom Merlin](https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC) | [Dangereux](https://open.spotify.com/album/3Sbieb1Xjj0Xrzoa0OqA9K) | 2:44 | 2024-09-06 | 2024-09-15 |
 | [Dark](https://open.spotify.com/track/6dK43NdCFXhIOXuKlygO97) | [Does it matter](https://open.spotify.com/artist/00fhyHwDkhykp7qxLsbvch), [Francis Skyes](https://open.spotify.com/artist/0eDNDJ6p75kQRD2dYx6qL5) | [Dark](https://open.spotify.com/album/4A93l2J1gEFzNErIP0aklZ) | 2:10 | 2024-06-14 | 2024-07-20 |
@@ -1321,6 +1322,7 @@
 | [you](https://open.spotify.com/track/7BnRXdSpJ1Nn8bTrOIXrjT) | [julien](https://open.spotify.com/artist/0Er19QHYcwlekKGGUPd3xU), [Saintro P Sax Up](https://open.spotify.com/artist/5d0miqmqbZ03OTRV3A2T7Y), [cloudseven](https://open.spotify.com/artist/127ajarXOJFUfRFivWi49v) | [you](https://open.spotify.com/album/0QmmgE8rIxBxkU6L6IM3pa) | 2:26 | 2024-05-31 | 2024-06-15 |
 | [You & I](https://open.spotify.com/track/7ou37yYlnAaH5ONT7skuGO) | [Nicolas Haelg](https://open.spotify.com/artist/0nwid3SFCGyXxnllTHzHPd), [Adon](https://open.spotify.com/artist/7l7IyxqOyGDSU6iF4FzisA) | [You & I](https://open.spotify.com/album/4wrCuimz9rcFRQ15g8zLJP) | 2:25 | 2024-02-02 | 2024-03-16 |
 | [YOU & I](https://open.spotify.com/track/6nPh3Cn9n4JR1ywTVGM720) | [PHURS](https://open.spotify.com/artist/2UXdzClMex3N47C9m1fkeX), [Timmy Commerford](https://open.spotify.com/artist/0Y0r9IKRjfC62MAYMDEMZO) | [YOU & I](https://open.spotify.com/album/6jg65vUhHbwyuCzW79EGpb) | 3:08 | 2024-06-28 | 2024-08-10 |
+| [You & Me](https://open.spotify.com/track/5dS09h02Vx8zFZ7Re1x3F2) | [LVNDS](https://open.spotify.com/artist/5SaQ29VtpoxNKFZZt4D3DT), [Bjerke](https://open.spotify.com/artist/3I2Ac6BV9dfdOAVjFmWIGX) | [You & Me](https://open.spotify.com/album/5qjXBoe1OYgccBhXUj8Ua7) | 2:14 | 2025-12-27 |  |
 | [You Ain't Going Down](https://open.spotify.com/track/3uYDpS8KkH2iyI4QOPL90L) | [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu) | [You Ain't Going Down](https://open.spotify.com/album/5CzAC3MejmAcgTikGTehbp) | 2:10 | 2024-01-10 | 2024-09-15 |
 | [You Belong With Me](https://open.spotify.com/track/4bY0Ys3ifxdvlKwIr46mFP) | [Laedon](https://open.spotify.com/artist/7s4RxozYerhNHvbYfThhIE), [Kevin Kairouz](https://open.spotify.com/artist/44NK7lcuXAEc35Z383UnCS) | [You Belong With Me](https://open.spotify.com/album/6x25oNvpx546ZQrNsJPLAq) | 2:34 | 2024-11-15 | 2024-12-13 |
 | [You Go I Go](https://open.spotify.com/track/2NTojmUzspL9vNkOXKqRcV) | [Jackie Hollander](https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ) | [You Go I Go](https://open.spotify.com/album/2YtVbDzIJltNu4taHmBUuY) | 2:46 | 2025-10-23 | 2025-12-05 |

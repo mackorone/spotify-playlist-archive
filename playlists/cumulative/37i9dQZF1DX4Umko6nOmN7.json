@@ -1505,6 +1505,24 @@
     },
     {
       "album": {
+        "name": "I dina armar",
+        "url": "https://open.spotify.com/album/78oAKgGqyzH7aePn6IIB83"
+      },
+      "artists": [
+        {
+          "name": "Lancelot",
+          "url": "https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap"
+        }
+      ],
+      "date_added": "2025-11-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166973,
+      "name": "I dina armar",
+      "url": "https://open.spotify.com/track/4RT8RRIp5Asy5i9zg0IPOX"
+    },
+    {
+      "album": {
         "name": "WILD CHILD",
         "url": "https://open.spotify.com/album/0BA7J5iUJHMnKrCga3m5pR"
       },
@@ -2720,7 +2738,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-28",
       "duration_ms": 215975,
       "name": "Show Me Something",
       "url": "https://open.spotify.com/track/2iRwKG094cE0wbj3PA94Xz"

@@ -258,7 +258,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-28",
       "duration_ms": 184053,
       "name": "City Thunder",
       "url": "https://open.spotify.com/track/1tzD0vs1awlqfGT1eVeX61"
@@ -625,6 +625,24 @@
     },
     {
       "album": {
+        "name": "Flashy Thunder",
+        "url": "https://open.spotify.com/album/0bsLbkg7wE62GwLdeH4Qly"
+      },
+      "artists": [
+        {
+          "name": "Thunder In Paradise",
+          "url": "https://open.spotify.com/artist/2oWN3OXJUk1mh7CAhkJeqX"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178688,
+      "name": "Flashy Thunder",
+      "url": "https://open.spotify.com/track/6q55rwqnimDNk7Z6FczWPt"
+    },
+    {
+      "album": {
         "name": "Thunder And Lightning Vol. 2",
         "url": "https://open.spotify.com/album/76vdbrkbzFAV2p1XQeWBBe"
       },
@@ -672,7 +690,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-28",
       "duration_ms": 231138,
       "name": "Forest Thunder & Lightning",
       "url": "https://open.spotify.com/track/65n7GZyWFydDCbkHW7aexh"
@@ -841,6 +859,24 @@
     },
     {
       "album": {
+        "name": "Horizon Thunder",
+        "url": "https://open.spotify.com/album/6uspTHWpqBH4b8enl30Zjn"
+      },
+      "artists": [
+        {
+          "name": "The Sound Of Thunder",
+          "url": "https://open.spotify.com/artist/1px8jMPOnlvPZPT1yYpKbX"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271990,
+      "name": "Horizon Thunder",
+      "url": "https://open.spotify.com/track/7MpssP0i3rwo245yYlwKjf"
+    },
+    {
+      "album": {
         "name": "Rain On The Canopy",
         "url": "https://open.spotify.com/album/3Uvi3QF8vqzcQYnryt2T0d"
       },
@@ -978,7 +1014,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-28",
       "duration_ms": 193785,
       "name": "Light Rain Passing Thunder",
       "url": "https://open.spotify.com/track/5HRrUoj7oj7foIL10JVMu7"
@@ -1072,7 +1108,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-27",
+      "date_removed": null,
       "duration_ms": 220460,
       "name": "Lightning in the Monsoon",
       "url": "https://open.spotify.com/track/6hVm7A5Q8O810ketF0UxHm"

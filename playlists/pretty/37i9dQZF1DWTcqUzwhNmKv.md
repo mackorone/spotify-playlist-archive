@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Megadeth  is on top of today's best Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,635,689 likes - 80 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,635,766 likes - 80 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 79 | [A Pure Expression](https://open.spotify.com/track/6Mn8iXyjC8cVBy3dCdDGEu) | [ I Promised The World](https://open.spotify.com/artist/2JolAkglUjazbqQetBefGk) | [A Pure Expression](https://open.spotify.com/album/5Epd7YN5aMt7VUOqteapKs) | 4:03 |
 | 80 | [Scared Of Everything And Nothing](https://open.spotify.com/track/5iVOvY8SvdCpW0BhyatobR) | [DRAIN](https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu) | [Scared Of Everything And Nothing](https://open.spotify.com/album/622aJIEQB1BZejd71jBGRL) | 2:33 |
 
-Snapshot ID: `AAAAAN4dJdW43He33bhpcC1U0OPYV7mS`
+Snapshot ID: `AAAAAKnCn5xE8njADY0w3F+0yckx3QGl`

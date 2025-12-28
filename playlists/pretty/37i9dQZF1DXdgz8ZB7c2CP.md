@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>! Featuring Alison Wonderland
 
-[Spotify](https://open.spotify.com/user/spotify) - 841,887 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 841,878 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 | 53 | [One Last Breath \- Remix](https://open.spotify.com/track/3ekLXHhFW8qI6FZDE6Xx9l) | [ATLiens](https://open.spotify.com/artist/74RET4rCZPTGzhsLjD0i3g) | [One Last Breath \(ATLiens Remix\)](https://open.spotify.com/album/1UvilbdKcolkZtf24KYYDc) | 2:57 |
 | 54 | [places to be](https://open.spotify.com/track/561pBFcFL2Pwb9HPO9tU8J) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [places to be](https://open.spotify.com/album/0M0iJGLagLtI4LlooOiiNZ) | 3:46 |
 | 55 | [MOVE](https://open.spotify.com/track/3YcvPbT7ZeAqUAPUmwqYfn) | [Smoakland](https://open.spotify.com/artist/6409kgOB4tZEkNZci6BiUs), [Silk Young](https://open.spotify.com/artist/20alfRgjw9jmTboYF6ZsOc) | [Rain Delay](https://open.spotify.com/album/741Bm55QwtIJrg4gh2BgfA) | 3:45 |
-| 56 | [Shaking Things Up](https://open.spotify.com/track/0FoCv0glfiTP2lmEcdreAu) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Shaking Things Up](https://open.spotify.com/album/4w5K1o40LvlRVUMXR6nU5A) | 3:36 |
-| 57 | [Delete](https://open.spotify.com/track/0CVbCtcdXAIw00YBXXbneu) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [I Love My Computer](https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ) | 3:51 |
+| 56 | [Delete](https://open.spotify.com/track/0CVbCtcdXAIw00YBXXbneu) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [I Love My Computer](https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ) | 3:51 |
+| 57 | [Shaking Things Up](https://open.spotify.com/track/0FoCv0glfiTP2lmEcdreAu) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Shaking Things Up](https://open.spotify.com/album/4w5K1o40LvlRVUMXR6nU5A) | 3:36 |
 | 58 | [we stayed up all night](https://open.spotify.com/track/7bsV0uvwhPVE40kHlkglpB) | [Conrad.](https://open.spotify.com/artist/788qKGMEh4hfYUTy8yANRC) | [we stayed up all night](https://open.spotify.com/album/0Z53ZcNgOKfvbrhfkuet5x) | 3:33 |
 | 59 | [HEADSHOT](https://open.spotify.com/track/14vf0dh1QSH1a64NzjapGv) | [Angrybaby](https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr), [Moa Lisa](https://open.spotify.com/artist/0oUXA3boTncBMYFD5o6G2E) | [HEADSHOT](https://open.spotify.com/album/2lLs6U0fZ0rbHE8fvuHcv3) | 2:35 |
 | 60 | [I’m Running](https://open.spotify.com/track/7ESfGZyPYljwmZdGHFZM2k) | [Vanic](https://open.spotify.com/artist/2LY0E3xg8svCVYXVNTze5T), [Pearl Michelle](https://open.spotify.com/artist/5xjHTjyvM4Ek4NCN9OP0u2) | [I’m Running](https://open.spotify.com/album/7MkITFZxLpsxV6ZpIenFCo) | 2:35 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 | 90 | [Threads](https://open.spotify.com/track/6VQCmKT5jFdHJVGMbAnxoO) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [Buunshin](https://open.spotify.com/artist/5ucX3eT8wlEQGRVwUyeqBj), [Maiah Manser](https://open.spotify.com/artist/2SjlJe4MbPmGLwdEBuMrBV) | [Threads](https://open.spotify.com/album/0LuBjsCiqVt78rn6ICD9wS) | 4:54 |
 | 91 | [Contorted](https://open.spotify.com/track/21XpgQiTcs2oeWimVY5f84) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw) | [Contorted](https://open.spotify.com/album/4F1kwA5jCOMjf4ew9IOOzv) | 3:19 |
 | 92 | [LOOK](https://open.spotify.com/track/4UKWtuFJqdCIRGjqAb8ykS) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd), [Emi Grace](https://open.spotify.com/artist/0U6MHJ9KRB5A1M7iHN06sS) | [LOOK](https://open.spotify.com/album/3Ibc6SpZR74thhTgzNYmF3) | 2:39 |
-| 93 | [bringmedown](https://open.spotify.com/track/27LFrdxn1fXHQaYlqDUqVK) | [Anaïs](https://open.spotify.com/artist/6o96xU0mXSSthZ01IGtn6k), [HUNJIYA](https://open.spotify.com/artist/3BX7RIMRQexSiSSshJFPzC) | [bringmedown](https://open.spotify.com/album/00YlookuBFCDI4eTGGL3Ju) | 3:54 |
-| 94 | [ONANON](https://open.spotify.com/track/5Byvs8uIVgPZVQN3Pw7UgL) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt) | [ONANON](https://open.spotify.com/album/5u25vyvBp9WqntAHMqGwPP) | 3:15 |
+| 93 | [ONANON](https://open.spotify.com/track/5Byvs8uIVgPZVQN3Pw7UgL) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt) | [ONANON](https://open.spotify.com/album/5u25vyvBp9WqntAHMqGwPP) | 3:15 |
+| 94 | [bringmedown](https://open.spotify.com/track/27LFrdxn1fXHQaYlqDUqVK) | [Anaïs](https://open.spotify.com/artist/6o96xU0mXSSthZ01IGtn6k), [HUNJIYA](https://open.spotify.com/artist/3BX7RIMRQexSiSSshJFPzC) | [bringmedown](https://open.spotify.com/album/00YlookuBFCDI4eTGGL3Ju) | 3:54 |
 | 95 | [BELIEVE ME](https://open.spotify.com/track/6qRzSv0mqhhGXzRETbe6wO) | [BSEARL](https://open.spotify.com/artist/3e3riRnIankd5kcDNvsZFi), [CA$PAR](https://open.spotify.com/artist/5QlHGPrtXeYq5YtSCpxy87) | [BELIEVE ME](https://open.spotify.com/album/46UxJpx6rHeqaKczZc4iNY) | 4:37 |
 | 96 | [Burn The River](https://open.spotify.com/track/7MNuKAnwwXu0GqEZV8TYCf) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Burn The River](https://open.spotify.com/album/1bWlKLEAmxxauuo9QR32zL) | 3:46 |
 | 97 | [Match My Speed](https://open.spotify.com/track/0Jc3LSbd1KQaKpMC716iBX) | [ZULAN](https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF), [Kidwild](https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9) | [Match My Speed](https://open.spotify.com/album/5BZIFHtGU9M94e69CJS12P) | 1:57 |

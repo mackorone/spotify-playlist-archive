@@ -1,6 +1,6 @@
 {
   "description": "Allerbeste songs van de 80's! Cover: U2",
-  "num_followers": 139353,
+  "num_followers": 139375,
   "original_name": "80's Allerbeste",
   "owner": {
     "name": "Spotify",
@@ -99,6 +99,22 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
+        "name": "Whitney",
+        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 292875,
+      "name": "I Wanna Dance with Somebody (Who Loves Me)",
+      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
         "name": "An Innocent Man",
         "url": "https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 216053,
       "name": "Summer Of '69",
       "url": "https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
-        "name": "Whitney",
-        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 292875,
-      "name": "I Wanna Dance with Somebody (Who Loves Me)",
-      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "Ghost In The Machine (Remastered 2003)",
-        "url": "https://open.spotify.com/album/5jkwdY6jS1Hzi8epr6HW7h"
-      },
-      "artists": [
-        {
-          "name": "The Police",
-          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
-        }
-      ],
-      "duration_ms": 260573,
-      "name": "Every Little Thing She Does Is Magic",
-      "url": "https://open.spotify.com/track/44aTAUBF0g6sMkMNE8I5kd"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
         "name": "Greatest Hits: Huey Lewis And The News",
         "url": "https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 234333,
       "name": "The Power Of Love",
       "url": "https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
+        "name": "Ghost In The Machine (Remastered 2003)",
+        "url": "https://open.spotify.com/album/5jkwdY6jS1Hzi8epr6HW7h"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "duration_ms": 260573,
+      "name": "Every Little Thing She Does Is Magic",
+      "url": "https://open.spotify.com/track/44aTAUBF0g6sMkMNE8I5kd"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -823,6 +823,26 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
+        "name": "Platinum & Gold Collection",
+        "url": "https://open.spotify.com/album/2Ll0rYVkAHV0QT7P2vknQc"
+      },
+      "artists": [
+        {
+          "name": "Bill Medley",
+          "url": "https://open.spotify.com/artist/1XE70WwxhnrXNAJYQQ9ygx"
+        },
+        {
+          "name": "Jennifer Warnes",
+          "url": "https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG"
+        }
+      ],
+      "duration_ms": 289066,
+      "name": "(I've Had) The Time of My Life - From \"Dirty Dancing\" Soundtrack",
+      "url": "https://open.spotify.com/track/4BFMQ15vXr626UOoZL8bUI"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
         "name": "The Best Of The 80's",
         "url": "https://open.spotify.com/album/1WNKfSND9D7t30sBPDo1gr"
       },
@@ -851,26 +871,6 @@
       "duration_ms": 227626,
       "name": "Don't Get Me Wrong - 2007 Remaster",
       "url": "https://open.spotify.com/track/6Wiamk8BAAP50gAAJopsy2"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
-        "name": "Platinum & Gold Collection",
-        "url": "https://open.spotify.com/album/2Ll0rYVkAHV0QT7P2vknQc"
-      },
-      "artists": [
-        {
-          "name": "Bill Medley",
-          "url": "https://open.spotify.com/artist/1XE70WwxhnrXNAJYQQ9ygx"
-        },
-        {
-          "name": "Jennifer Warnes",
-          "url": "https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG"
-        }
-      ],
-      "duration_ms": 289066,
-      "name": "(I've Had) The Time of My Life - From \"Dirty Dancing\" Soundtrack",
-      "url": "https://open.spotify.com/track/4BFMQ15vXr626UOoZL8bUI"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "The Very Best of Van Halen (UK Release)",
-        "url": "https://open.spotify.com/album/4RJcoQhc3aupccH9YnZ69o"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 244106,
-      "name": "Jump - 2004 Remaster",
-      "url": "https://open.spotify.com/track/0Z7O8GMQShj9TJrm2yX1R6"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
         "name": "Doe Maar - De Singles (Het Complete Singles Overzicht)",
         "url": "https://open.spotify.com/album/5dEuc3PFwHlw3OR2IwCX4S"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 161286,
       "name": "De Bom",
       "url": "https://open.spotify.com/track/3i2ZaFbGMZmerAEoVHvsmB"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
+        "name": "The Very Best of Van Halen (UK Release)",
+        "url": "https://open.spotify.com/album/4RJcoQhc3aupccH9YnZ69o"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 244106,
+      "name": "Jump - 2004 Remaster",
+      "url": "https://open.spotify.com/track/0Z7O8GMQShj9TJrm2yX1R6"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "Whitesnake (30th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6ujO2Xzt247YCYIpAmcb4r"
-      },
-      "artists": [
-        {
-          "name": "Whitesnake",
-          "url": "https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP"
-        }
-      ],
-      "duration_ms": 275693,
-      "name": "Here I Go Again - 1987 Version; 2017 Remaster",
-      "url": "https://open.spotify.com/track/0Cp7pkYwl4WCGRHhrfcsrg"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
         "name": "Ik Weet Niet Hoe",
         "url": "https://open.spotify.com/album/6Emyi23IU3uRiPajFYyZG4"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 206093,
       "name": "Ik Weet Niet Hoe",
       "url": "https://open.spotify.com/track/17tJLDBm76LdZoHG2t587G"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
+        "name": "Whitesnake (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6ujO2Xzt247YCYIpAmcb4r"
+      },
+      "artists": [
+        {
+          "name": "Whitesnake",
+          "url": "https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP"
+        }
+      ],
+      "duration_ms": 275693,
+      "name": "Here I Go Again - 1987 Version; 2017 Remaster",
+      "url": "https://open.spotify.com/track/0Cp7pkYwl4WCGRHhrfcsrg"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "Doe Maar - De Singles (Het Complete Singles Overzicht)",
-        "url": "https://open.spotify.com/album/5dEuc3PFwHlw3OR2IwCX4S"
-      },
-      "artists": [
-        {
-          "name": "Doe Maar",
-          "url": "https://open.spotify.com/artist/58hFVpwYRp8sQdtANcMpiE"
-        }
-      ],
-      "duration_ms": 228540,
-      "name": "Doris Day",
-      "url": "https://open.spotify.com/track/2ePX2r2elB35PhEE0jCQUb"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/5KqK05b9TO7a5rmDnKX2da"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 231066,
       "name": "I'm Specialized in You",
       "url": "https://open.spotify.com/track/2ZFePG6kPGYaKXj3aMzbXV"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
+        "name": "Doe Maar - De Singles (Het Complete Singles Overzicht)",
+        "url": "https://open.spotify.com/album/5dEuc3PFwHlw3OR2IwCX4S"
+      },
+      "artists": [
+        {
+          "name": "Doe Maar",
+          "url": "https://open.spotify.com/artist/58hFVpwYRp8sQdtANcMpiE"
+        }
+      ],
+      "duration_ms": 228540,
+      "name": "Doris Day",
+      "url": "https://open.spotify.com/track/2ePX2r2elB35PhEE0jCQUb"
     },
     {
       "added_at": "2024-07-09 16:44:07",

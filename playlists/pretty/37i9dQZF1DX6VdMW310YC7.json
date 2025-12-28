@@ -1,12 +1,12 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3922193,
+  "num_followers": 3922201,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAErsvzvnBz6ISxskniyET8LEHs8o",
+  "snapshot_id": "AAAAAODVM1SI9F64jI1syx718XZQj0eW",
   "tracks": [
     {
       "added_at": "2025-12-19 05:00:32",
@@ -383,6 +383,22 @@
     {
       "added_at": "2025-12-19 05:00:32",
       "album": {
+        "name": "life gets hard",
+        "url": "https://open.spotify.com/album/5u6aeRDXBKNwJxKSUcykEj"
+      },
+      "artists": [
+        {
+          "name": "iilliaa",
+          "url": "https://open.spotify.com/artist/3XDX6PbRtAzovlF2DnoT5F"
+        }
+      ],
+      "duration_ms": 125917,
+      "name": "life gets hard",
+      "url": "https://open.spotify.com/track/3acsNhkPp9gHSsamIsw0xO"
+    },
+    {
+      "added_at": "2025-12-19 05:00:32",
+      "album": {
         "name": "3 Days Later",
         "url": "https://open.spotify.com/album/5ClUY27aMSWKKIjaP2ybg4"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 333658,
       "name": "3 Days Later",
       "url": "https://open.spotify.com/track/0divWrAf5awgfmCGyWhZ3j"
-    },
-    {
-      "added_at": "2025-12-19 05:00:32",
-      "album": {
-        "name": "life gets hard",
-        "url": "https://open.spotify.com/album/5u6aeRDXBKNwJxKSUcykEj"
-      },
-      "artists": [
-        {
-          "name": "iilliaa",
-          "url": "https://open.spotify.com/artist/3XDX6PbRtAzovlF2DnoT5F"
-        }
-      ],
-      "duration_ms": 125917,
-      "name": "life gets hard",
-      "url": "https://open.spotify.com/track/3acsNhkPp9gHSsamIsw0xO"
     },
     {
       "added_at": "2025-12-19 05:00:32",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2025-12-19 05:00:32",
       "album": {
-        "name": "Swimming In The Dark",
-        "url": "https://open.spotify.com/album/0hHiinOoKYHG3k3Ifn4rxw"
+        "name": "Silver Lines",
+        "url": "https://open.spotify.com/album/5pRtDqM9wXxbUvoxvuERGQ"
       },
       "artists": [
         {
-          "name": "Vandelux",
-          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+          "name": "Sinca",
+          "url": "https://open.spotify.com/artist/5TjfRHDPGSphgwJaiGauqT"
         }
       ],
-      "duration_ms": 236573,
-      "name": "Swimming In The Dark",
-      "url": "https://open.spotify.com/track/3OjIrgDL0U82o12AdR8wn5"
+      "duration_ms": 222857,
+      "name": "Silver Lines",
+      "url": "https://open.spotify.com/track/03ZAkPbN9kT1tKJKO8fnt3"
     },
     {
       "added_at": "2025-12-19 05:00:32",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2025-12-19 05:00:32",
       "album": {
-        "name": "Silver Lines",
-        "url": "https://open.spotify.com/album/5pRtDqM9wXxbUvoxvuERGQ"
-      },
-      "artists": [
-        {
-          "name": "Sinca",
-          "url": "https://open.spotify.com/artist/5TjfRHDPGSphgwJaiGauqT"
-        }
-      ],
-      "duration_ms": 222857,
-      "name": "Silver Lines",
-      "url": "https://open.spotify.com/track/03ZAkPbN9kT1tKJKO8fnt3"
-    },
-    {
-      "added_at": "2025-12-19 05:00:32",
-      "album": {
         "name": "Upstate Miracle",
         "url": "https://open.spotify.com/album/4ErAAcOFAGAXogZCTB2fX2"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 237708,
       "name": "Upstate Miracle",
       "url": "https://open.spotify.com/track/1ponpoKvmoydHiIXsTjnpI"
+    },
+    {
+      "added_at": "2025-12-19 05:00:32",
+      "album": {
+        "name": "Swimming In The Dark",
+        "url": "https://open.spotify.com/album/0hHiinOoKYHG3k3Ifn4rxw"
+      },
+      "artists": [
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        }
+      ],
+      "duration_ms": 236573,
+      "name": "Swimming In The Dark",
+      "url": "https://open.spotify.com/track/3OjIrgDL0U82o12AdR8wn5"
     },
     {
       "added_at": "2025-12-19 05:00:32",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2025-12-19 05:00:32",
       "album": {
+        "name": "Mine",
+        "url": "https://open.spotify.com/album/1VrpTWfDRK2pdzgGSoyDty"
+      },
+      "artists": [
+        {
+          "name": "narou",
+          "url": "https://open.spotify.com/artist/4WZfEIgHLAMmAxATgVjspH"
+        }
+      ],
+      "duration_ms": 232133,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/0s9vuU1DPc3Us9TboMMeK8"
+    },
+    {
+      "added_at": "2025-12-19 05:00:32",
+      "album": {
         "name": "Sun & Rain",
         "url": "https://open.spotify.com/album/4iAsazBdJVm5OqhEYKTXEX"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 292135,
       "name": "Pursuit",
       "url": "https://open.spotify.com/track/5Ew7i7PnXvk54uBi8VUdgq"
-    },
-    {
-      "added_at": "2025-12-19 05:00:32",
-      "album": {
-        "name": "Mine",
-        "url": "https://open.spotify.com/album/1VrpTWfDRK2pdzgGSoyDty"
-      },
-      "artists": [
-        {
-          "name": "narou",
-          "url": "https://open.spotify.com/artist/4WZfEIgHLAMmAxATgVjspH"
-        }
-      ],
-      "duration_ms": 232133,
-      "name": "Mine",
-      "url": "https://open.spotify.com/track/0s9vuU1DPc3Us9TboMMeK8"
     },
     {
       "added_at": "2025-12-19 05:00:32",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2025-12-19 05:00:32",
       "album": {
-        "name": "I Want You",
-        "url": "https://open.spotify.com/album/1OzjWkmx3VFmdZaRZjHxeL"
-      },
-      "artists": [
-        {
-          "name": "Vandelux",
-          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
-        }
-      ],
-      "duration_ms": 207609,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/3fSWVoPupWl0f1gSCeHANJ"
-    },
-    {
-      "added_at": "2025-12-19 05:00:32",
-      "album": {
         "name": "Part Of Me",
         "url": "https://open.spotify.com/album/3bKS1jrPEjD4Bp6BCtbYRc"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 173240,
       "name": "Part Of Me",
       "url": "https://open.spotify.com/track/1OH2vSZlCAiObaOXq45ccg"
+    },
+    {
+      "added_at": "2025-12-19 05:00:32",
+      "album": {
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/1OzjWkmx3VFmdZaRZjHxeL"
+      },
+      "artists": [
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        }
+      ],
+      "duration_ms": 207609,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/3fSWVoPupWl0f1gSCeHANJ"
     },
     {
       "added_at": "2025-12-19 05:00:32",

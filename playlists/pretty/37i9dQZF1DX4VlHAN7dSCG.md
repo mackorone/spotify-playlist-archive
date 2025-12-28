@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 
 > 兩人成組、三人成團，硬地主流都在台灣開花！風格豐富力量大！Cover: 雞蛋蒸肉餅 \(GDJYB\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,661 likes - 65 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,662 likes - 65 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 | 2 | [最果てへ](https://open.spotify.com/track/6uTn3AjhCLQA7bgqwwGydd) | [守夜人](https://open.spotify.com/artist/7Ec6c9lhFbsTfuwmIkhZa9), [XinU](https://open.spotify.com/artist/6oSrOOypJcKXWe5OnGO2yw) | [宇宙跟我說好了：Asia Tour 四城共創 EP](https://open.spotify.com/album/4aMfdlFq9Qr2zRHL0KJkFz) | 3:50 |
 | 3 | [Just do it（霧台魯凱語版）](https://open.spotify.com/track/6li15Ujz6nJ0wWLvdQodxx) | [黑旋風](https://open.spotify.com/artist/4BX9364qiqIfqEVSasoQwT) | [Just 杜 it](https://open.spotify.com/album/5LUj0ceqib3dipYRBBW18k) | 4:41 |
 | 4 | [S.O.Sorry](https://open.spotify.com/track/385hvEgMSG7O8LYaH8tzJk) | [SONNIE 桑尼](https://open.spotify.com/artist/4QTWSC2z6j9KARKVzvHtxe) | [S.O.Sorry](https://open.spotify.com/album/7lnF9xJpi3Y5Ifd5a2cTha) | 3:30 |
-| 5 | [Meaning 2025 \(stripped\)](https://open.spotify.com/track/5y2wob0mYGp54LSq1Pz4y8) | [陳王晧](https://open.spotify.com/artist/2JIh3aHyEeGHd330zaQVI7), [FUMON](https://open.spotify.com/artist/3zGGhKGLorCRgcXc22gYDX) | [M3](https://open.spotify.com/album/6HFcsC2zdedTekyOP3CW73) | 4:13 |
+| 5 | [Meaning 2025 \(stripped\)](https://open.spotify.com/track/5y2wob0mYGp54LSq1Pz4y8) | [FUMON](https://open.spotify.com/artist/3zGGhKGLorCRgcXc22gYDX) | [M3](https://open.spotify.com/album/6HFcsC2zdedTekyOP3CW73) | 4:13 |
 | 6 | [也想跟著你](https://open.spotify.com/track/1XKoWYsgvZaFcngrPyLuD6) | [紅色星球](https://open.spotify.com/artist/4tEGPAsnxtyJQbNp7tHkxm) | [也想跟著你](https://open.spotify.com/album/7kWJhfgD9KMjNNhixsjrlU) | 4:14 |
 | 7 | [夢醒時分 \- 滾石撞樂隊2 \(原唱:陳淑樺\)](https://open.spotify.com/track/3HPa5XaK4TigSdOowWdL5c) | [庸俗救星Vulgar Savior](https://open.spotify.com/artist/0yxKjRdHdfEZvsypUkROaq) | [滾石撞樂隊2 \- 夢醒時分](https://open.spotify.com/album/5ip88wrusLIaBlIF37zPHy) | 4:08 |
 | 8 | [CRUSH](https://open.spotify.com/track/4htpuXtGuAGfBBM3aU9M4f) | [Dragon Beauties小龍女](https://open.spotify.com/artist/3FfEHrxOmW5gZ7sl9a55B5) | [CRUSH](https://open.spotify.com/album/0uNZPXBer1Kvcpcs9tB1Hq) | 2:52 |

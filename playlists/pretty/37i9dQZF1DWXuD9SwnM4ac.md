@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 
 > All the new indie tracks worth knowing about\. Cover: River Tiber
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,336 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,329 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 | 99 | [Phoebe's Song](https://open.spotify.com/track/2TYVG6dKbHGb2nA3H7Mlqa) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Phoebe's Song](https://open.spotify.com/album/40wmLOiUiOIz1lRqKqC4KV) | 3:59 |
 | 100 | [Past Lives](https://open.spotify.com/track/6leeLmx8UArqFZtqTsoUN8) | [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO), [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Past Lives](https://open.spotify.com/album/5xYi9SNcnF8kvwhIhsx6nf) | 2:57 |
 
-Snapshot ID: `AAAAAArsLryUljMdzAVHQR623cluz+KO`
+Snapshot ID: `AAAAAJYTxn5ZACNv9TWomtxrwp6IjE20`

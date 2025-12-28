@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,091 songs - 20 day 13 hr 32 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,102 songs - 20 day 14 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8099,5 +8099,16 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8089 | [Winter Wonderland](https://open.spotify.com/track/4MQOInul4Fa1ymK6ocq0jM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday](https://open.spotify.com/album/32gqZfrZ51UMunez3CZDJZ) | 2:12 |
 | 8090 | [Santa Baby](https://open.spotify.com/track/6Al20A1P8UlAAJVaqNhtE6) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday](https://open.spotify.com/album/32gqZfrZ51UMunez3CZDJZ) | 3:02 |
 | 8091 | [Let You Break My Heart Again](https://open.spotify.com/track/709p9UGPAuyImWf1Z3vjRo) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Philharmonia Orchestra](https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY) | [Let You Break My Heart Again](https://open.spotify.com/album/2YkyuQGoMV2FlG7mFprnRf) | 4:29 |
+| 8092 | [心予報 \(feat\. 花里みのり&桐谷遥&桃井愛莉&日野森雫&初音ミク\)](https://open.spotify.com/track/3NxmPorT172gaqyGiOE3bT) | [MORE MORE JUMP!](https://open.spotify.com/artist/1yorjq7rihYVC8Se7eRKps) | [MORE MORE JUMP！ SEKAI ALBUM vol.2](https://open.spotify.com/album/4doaLuipD5WN88a47Zzdv9) | 3:21 |
+| 8093 | [白い雪のプリンセスは \(feat\. 花里みのり&桐谷遥&桃井愛莉&日野森雫&初音ミク\)](https://open.spotify.com/track/5lPTlQVsVBLe5Eok1hjvBY) | [MORE MORE JUMP!](https://open.spotify.com/artist/1yorjq7rihYVC8Se7eRKps) | [MORE MORE JUMP！ SEKAI ALBUM vol.3](https://open.spotify.com/album/4NuYzGoA9Bi40OUvdbNCUO) | 4:22 |
+| 8094 | [メランコリック \(feat\. 花里みのり&桐谷遥&桃井愛莉&日野森雫&鏡音リン\)](https://open.spotify.com/track/1v9RaAaopToqfuXqXltdf4) | [MORE MORE JUMP!](https://open.spotify.com/artist/1yorjq7rihYVC8Se7eRKps) | [MORE MORE JUMP！ SEKAI ALBUM vol.3](https://open.spotify.com/album/4NuYzGoA9Bi40OUvdbNCUO) | 3:39 |
+| 8095 | [ベノム \(feat\. 東雲絵名&暁山瑞希\)](https://open.spotify.com/track/24KNwwZ8cXA44jDl9AC8VM) | [25時、ナイトコードで。](https://open.spotify.com/artist/1VMXuPyhNldYomz8ojLKP7) | [25時、ナイトコードで。 SEKAI ALBUM vol.1](https://open.spotify.com/album/15kgtRAf0ZZ7f8VvoPgb6o) | 3:15 |
+| 8096 | [ヴィラン \(feat\. 朝比奈まふゆ&暁山瑞希\)](https://open.spotify.com/track/5aOLehU9lQBVFSp51Ns2YS) | [25時、ナイトコードで。](https://open.spotify.com/artist/1VMXuPyhNldYomz8ojLKP7) | [25時、ナイトコードで。 SEKAI ALBUM vol.2](https://open.spotify.com/album/5rQLj6MGTD2FEO8fyJ6p1C) | 3:21 |
+| 8097 | [神っぽいな \(feat\. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&初音ミク\)](https://open.spotify.com/track/1mMHpH9Do7VgRb0e80orUG) | [25時、ナイトコードで。](https://open.spotify.com/artist/1VMXuPyhNldYomz8ojLKP7) | [25時、ナイトコードで。 SEKAI ALBUM vol.3](https://open.spotify.com/album/0alAqCK9UfmE4o0cIpKDeo) | 3:25 |
+| 8098 | [カゲロウデイズ \(feat\. 星乃一歌&天馬咲希&望月穂波&日野森志歩&初音ミク\)](https://open.spotify.com/track/6zNChDti3ES41QOlEhA5hj) | [Leo/need](https://open.spotify.com/artist/7CXyP7IN0L3ySUeIQ6Ymu1) | [Leo/need SEKAI ALBUM vol.1](https://open.spotify.com/album/3WsKMKwulspjsv4IGMehaK) | 3:51 |
+| 8099 | [バグ \(feat\. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&鏡音レン\)](https://open.spotify.com/track/3Lu59KjuBy96vEaMBgGPud) | [25時、ナイトコードで。](https://open.spotify.com/artist/1VMXuPyhNldYomz8ojLKP7) | [ノマド/バグ](https://open.spotify.com/album/5mZsk1IhSXRG4N2I37CRty) | 2:51 |
+| 8100 | [君の夜をくれ \(feat\. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&巡音ルカ\)](https://open.spotify.com/track/2vHBuAazYaiRSx9fTdb575) | [25時、ナイトコードで。](https://open.spotify.com/artist/1VMXuPyhNldYomz8ojLKP7) | [君の夜をくれ/Iなんです](https://open.spotify.com/album/2ggwhasiXzqsm4LF0lb1zW) | 3:53 |
+| 8101 | [ステラ \(feat\. 星乃一歌&天馬咲希&望月穂波&日野森志歩&初音ミク\)](https://open.spotify.com/track/22vyFWBbPhh9PcfrF15qPW) | [Leo/need](https://open.spotify.com/artist/7CXyP7IN0L3ySUeIQ6Ymu1) | [needLe/ステラ](https://open.spotify.com/album/3CS1J0v32fSdQvP2ByT75N) | 5:23 |
+| 8102 | [better for you](https://open.spotify.com/track/2fxoRz7eUFbo5RoHSvXqQh) | [siopaolo](https://open.spotify.com/artist/4dXBBVDuriULFiOyu5E8Kf) | [better for you](https://open.spotify.com/album/19YZ17zw3p3FBz4B1eoGCm) | 4:49 |
 
-Snapshot ID: `AAAKHrQbPzjtF2QHZXoNiNsJiXOOMqdX`
+Snapshot ID: `AAAKKYzC0OzQWAY6ngm0vB5WqQomQOaF`

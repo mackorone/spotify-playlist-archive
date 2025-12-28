@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 
 > Homegrown Ugandan gems in one playlist\. Cover: Joshua Baraka
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,466 likes - 60 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,480 likes - 60 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQaHIT8HMOV.md) - [plain]
 | 59 | [Games](https://open.spotify.com/track/7qilhegCmxrNHLl9fEza4q) | [Bebe Cool](https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81), [DJ Edu](https://open.spotify.com/artist/4PNVQTSxCwxBUYQ0h2qxaX) | [Break the Chains](https://open.spotify.com/album/07jNMnJyZZoWFEzxUjraNV) | 2:23 |
 | 60 | [Sugar Box](https://open.spotify.com/track/1gTNU76w8whnlw801dJnOY) | [Vinci Vybz](https://open.spotify.com/artist/6N7PI6eQUaQm4lZHDqnQuW), [Mugaba](https://open.spotify.com/artist/1EBLonfYVb5s9f047W2CS6) | [Sugar Box](https://open.spotify.com/album/4ek9kDY5kuwxPc2PQynxrj) | 2:16 |
 
-Snapshot ID: `AAAAAErqNnfuCI2uSVCFXKsE37F7HamE`
+Snapshot ID: `AAAAAGBfQZkpUvr5JARL2grEba71MFSM`

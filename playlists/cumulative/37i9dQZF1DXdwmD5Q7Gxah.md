@@ -4,7 +4,7 @@
 
 > <a href="https://open.substack.com/pub/loremandfriends/p/25\-year\-end\-reflections\-from\-turnstile?r=ge875&utm\_campaign=post&utm\_medium=web&showWelcomeOnShare=true">End of year newsletter is live!!!!!!!</a> Cover: Cameron Winter
 
-3,650 songs - 8 day 7 hr 44 min
+3,651 songs - 8 day 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1011,6 +1011,7 @@
 | [everybody knows](https://open.spotify.com/track/22oZClHIaftOvNr3DRQwAQ) | [Baby Storme](https://open.spotify.com/artist/7cwYKm54nTTbnm0UnH0xBe) | [everybody knows](https://open.spotify.com/album/1w28XzCMMbzWyL5K6bUwPX) | 3:22 | 2021-02-19 | 2021-05-15 |
 | [everybody want me but my lover](https://open.spotify.com/track/5P64I8OMYZ0AlA154EHygE) | [Deem Spencer](https://open.spotify.com/artist/4iXaGootDLE50qY42LCdnK) | [everybody want me but my lover](https://open.spotify.com/album/3x4GpVR0ZDtLRCUzb0IA2I) | 2:31 | 2025-09-19 |  |
 | [Everybody Wants To Be Famous](https://open.spotify.com/track/4BVFVaa1fDo20Ud1q5Gd2N) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE) | [Superorganism](https://open.spotify.com/album/15TFB6uLZlb3gnCysRrLix) | 3:04 | 2021-01-12 | 2021-03-14 |
+| [Everybody Wants To Rule The World](https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair \(Super Deluxe Edition\)](https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W) | 4:11 | 2025-12-27 |  |
 | [Everybody's trying to figure me out](https://open.spotify.com/track/1CsGxcyExQn3vt4SNq91d1) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Everybody's trying to figure me out](https://open.spotify.com/album/7GQN5bFkpE2a9RFknshXuF) | 3:53 | 2025-04-04 | 2025-05-14 |
 | [Everyone Falls Asleep In Their Own Time](https://open.spotify.com/track/7sGYT6ewCCJ5KJvWP1n3MP) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [Everyone Falls Asleep In Their Own Time](https://open.spotify.com/album/5RgO7p0yOk0UETnpEt004b) | 4:02 | 2025-06-06 | 2025-08-09 |
 | [Everything \(That Should Go\)](https://open.spotify.com/track/7dhMdKFbUQC3IFCQt7LRQk) | [Miloe](https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu) | [Everything \(That Should Go\)](https://open.spotify.com/album/3UgCI9hh49Zce6uD2IYly8) | 3:21 | 2021-06-05 | 2021-06-11 |

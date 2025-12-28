@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Felguk, Watzgood
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,204,768 likes - 70 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,204,663 likes - 70 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 69 | [Take Our Flight](https://open.spotify.com/track/4hUmmfLMwHxxJOs6lMxfdW) | [INNDRIVE](https://open.spotify.com/artist/6Ult8lRnG7Dh7KZtVlpAJX), [Zaark](https://open.spotify.com/artist/0i8KSp7ollqyAfIpNNpM6r) | [Take Our Flight](https://open.spotify.com/album/6KnrntIsJVtQbkSnbZYoiQ) | 3:00 |
 | 70 | [Act Up \(Bad Boy\)](https://open.spotify.com/track/5JZEGDRku2HNfcGohxRp7o) | [Volkoder](https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU) | [Act Up \(Bad Boy\)](https://open.spotify.com/album/7DtNrZ86VI4vPXloVlmZGs) | 3:00 |
 
-Snapshot ID: `AAAAAB4PeMwakTy8CZynHKRJxtCTPcvF`
+Snapshot ID: `AAAAAHNkXu78bIqEXi1NjnZCAGgzI2xz`

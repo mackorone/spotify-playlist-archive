@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 
 > Electrónica Nacional, nuevos lanzamientos todas las semanas.<br/>📸 Varese & Folgar
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,476 likes - 100 songs - 9 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,480 likes - 100 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdM3ZcJzlarB.md) - [plain]
 | 99 | [Modulator](https://open.spotify.com/track/7wbUd8CtSNaT96tKhBhoGR) | [Greta Meier](https://open.spotify.com/artist/4FyARNAcEAdSfrxxB9SvjJ) | [Modulator](https://open.spotify.com/album/2IPPqObcp0kZOP98clWRiB) | 4:01 |
 | 100 | [I Want to Believe \- Extended Mix](https://open.spotify.com/track/3hmsViFfKG7VjJv8Ob4qc2) | [Emi Galvan](https://open.spotify.com/artist/5A4rzeZ3KXx7VYvcna6awj) | [I Want to Believe](https://open.spotify.com/album/36Iq5Z8mXRe5w2MdXN3UCi) | 7:52 |
 
-Snapshot ID: `AAAAADs6hZfUyfPEFfzb1nvijS5N8fc2`
+Snapshot ID: `AAAAAGFfWbpf+Tx/aL2JOn3X/pQKa48d`

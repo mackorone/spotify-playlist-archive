@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqJd35zS5k3.md) - [plain]
 
 > Disfruta de la Navidad con los villancicos de siempre.
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,174 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,258 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqJd35zS5k3.md) - [plain]
 | 49 | [Balada de navidad](https://open.spotify.com/track/0KX4kQyIEbXduNOmtm26ze) | [Duo Dinamico](https://open.spotify.com/artist/1TiGxAkU8w0xBCVFOP6Ttl) | [Natal Latino](https://open.spotify.com/album/1vxC4YJL0mY08Wt5yPoI99) | 2:38 |
 | 50 | [Canción para la Navidad](https://open.spotify.com/track/27H6MTnARtNU4bQuHxuyH7) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP) | [Navidad En España](https://open.spotify.com/album/4C4U9Rmq9gdtAUreLkh5oO) | 3:49 |
 
-Snapshot ID: `AAAAAGho463IW0CWA3saWG3z10gpAdvG`
+Snapshot ID: `AAAAAPb3kx0G5EJACEo+07JIK3HaNNu0`

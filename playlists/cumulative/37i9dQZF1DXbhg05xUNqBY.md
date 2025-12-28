@@ -4,7 +4,7 @@
 
 > As you lay yourself to sleep, or take some time to rest, may you have peace relaxing to these calming songs of faith.
 
-359 songs - 23 hr 44 min
+360 songs - 23 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Breathe \- breathe version](https://open.spotify.com/track/2rFrYi2PmyirWybLIrAM2m) | [Worship For Everyone](https://open.spotify.com/artist/5VYPBA36e08yP6JOMvPxau), [Zo Ross\-Waddell](https://open.spotify.com/artist/20ecnCfTvktxgucxSilf5N), [Millie Ferguson](https://open.spotify.com/artist/355iCx2proSfiHlXqUhINW) | [Breathe](https://open.spotify.com/album/71ndlCL4MWUnOjAkS8awmW) | 4:06 | 2024-07-26 | 2025-04-05 |
 | [Broken People](https://open.spotify.com/track/3kdBJj2IH9h4urhoAlWWiZ) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E), [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Project LA: Alive in Los Angeles](https://open.spotify.com/album/45rmoHNeEtDa0SHbl3FdSL) | 9:18 | 2021-10-31 | 2024-06-23 |
 | [Broken Record](https://open.spotify.com/track/5O4XktnGcZlRw1Eqtg5BNJ) | [Allison Eide](https://open.spotify.com/artist/6RDeotP2Ny6OsLRt5OJLQ1) | [Love Who I Am](https://open.spotify.com/album/5UIgdBGKJHRsYgUh44vno1) | 3:53 | 2025-04-05 | 2025-08-09 |
+| [By The Grace Of God](https://open.spotify.com/track/1QHsyfUYoE8s9Z6VpOeAGe) | [Nick Herbert](https://open.spotify.com/artist/2d1xKAOMjV142Pf9cEmYeS) | [By The Grace Of God](https://open.spotify.com/album/4Eiw1Sgm3uJO0HM7KqMOvE) | 4:41 | 2025-12-13 |  |
 | [Call on Your Name \- Piano Version](https://open.spotify.com/track/5gETd5liL7Q0SJht440CNt) | [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [Call on Your Name \(Piano Version\)](https://open.spotify.com/album/4rmRrqkch7H5dAMKjsMpbn) | 3:48 | 2021-10-31 | 2025-08-09 |
 | [Can’t Get Enough](https://open.spotify.com/track/6zp8BWzu4dzuygZTVf5H2H) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Can’t Get Enough](https://open.spotify.com/album/474MpKHvn3W8j2E9x3qEfu) | 2:11 | 2021-10-31 | 2024-06-23 |
 | [Certainly \(Live\)](https://open.spotify.com/track/7w0VUpbOxDzu0ogn7ZQkfF) | [Israel & New Breed](https://open.spotify.com/artist/77HU1Zb1VDIFvWKteJii0E) | [Worship Anywhere: Live from Camp NewBreed](https://open.spotify.com/album/5BCKzBSDLSpS7RHBgmgExp) | 4:54 | 2024-07-26 |  |
@@ -233,7 +234,7 @@
 | [Perfect Peace](https://open.spotify.com/track/4UQEeqgbZ2JZGRREiTbKcZ) | [Tenielle Neda](https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD) | [Perfect Peace](https://open.spotify.com/album/1u9VgFbs81jjmsVRMxADlv) | 4:20 | 2023-02-07 | 2024-06-23 |
 | [Peter](https://open.spotify.com/track/7GGu45fmannds2HrskiAow) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp), [ie.](https://open.spotify.com/artist/7LpJNkkhQ1AvdUlZ9hUMNa) | [Peter](https://open.spotify.com/album/1dvg8VrzUfV37k8d6FRKi9) | 2:46 | 2025-04-05 |  |
 | [pieces in your peace](https://open.spotify.com/track/0bWfd5zCC0C74CeZo7N3Ev) | [Shaylee Simeone](https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ) | [pieces in your peace](https://open.spotify.com/album/6TQFMda381PR2KmR6KZ84G) | 3:47 | 2025-08-08 |  |
-| [Poor In Spirit \- Live](https://open.spotify.com/track/1r481zZyjH3m3bDvHu9jCH) | [Eliza King](https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa), [Brett Shaw](https://open.spotify.com/artist/0cPXxP2NntqpqKvXqRjbfP) | [The Pressing In: Piano Sessions](https://open.spotify.com/album/3qwA60ZIxRxpd7RZ3xNSD3) | 4:49 | 2024-07-26 |  |
+| [Poor In Spirit \- Live](https://open.spotify.com/track/1r481zZyjH3m3bDvHu9jCH) | [Eliza King](https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa), [Brett Shaw](https://open.spotify.com/artist/0cPXxP2NntqpqKvXqRjbfP) | [The Pressing In: Piano Sessions](https://open.spotify.com/album/3qwA60ZIxRxpd7RZ3xNSD3) | 4:49 | 2024-07-26 | 2025-12-28 |
 | [Praise](https://open.spotify.com/track/7pG1MzJgF91mS2PNAZ4LXd) | [Megan Tibbits](https://open.spotify.com/artist/3J84729yu2ddpUVNcbqeWQ) | [Praise](https://open.spotify.com/album/5jQqrndG6bMYnzNoeb6hZs) | 4:38 | 2024-07-26 |  |
 | [Praise \- Acoustic](https://open.spotify.com/track/57XEAHdFMHLq6A6eJ7CedW) | [Will Morrison](https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB) | [Praise \(Acoustic\)](https://open.spotify.com/album/4I9rsSnnGg4sD0XmgdQMn8) | 3:35 | 2024-07-26 |  |
 | [Praise Be](https://open.spotify.com/track/2klPK27AzVuTb9qRIetfOq) | [Simply Worship](https://open.spotify.com/artist/5UucvApgxhrt1ZXON01nkM), [Mark & Sarah Tillman](https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX) | [Praise Be](https://open.spotify.com/album/6Bh9t9Kvj3hXRKTxp3uLhV) | 4:11 | 2025-04-05 |  |

@@ -4,7 +4,7 @@
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-480 songs - 1 day 3 hr 34 min
+487 songs - 1 day 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Age of Aquarius](https://open.spotify.com/track/240S4AH0AvoM75oZ7PDk2Y) | [Regina](https://open.spotify.com/artist/4ed2jHmlm4FWzcKrYyzRKL) | [Age of Aquarius](https://open.spotify.com/album/6ej2r12pNYvAmXOTKcD52k) | 3:27 | 2025-12-23 |  |
 | [Agota](https://open.spotify.com/track/5nk9QFl5sBAwP8tVyexfHV) | [PIFFA](https://open.spotify.com/artist/6UO5LlE4BLbYDXvodjJ1hi) | [AGOTA](https://open.spotify.com/album/27VFK6Q9YW7BkvJ4CsjmId) | 3:00 | 2025-12-24 |  |
 | [Aim For The Bushes](https://open.spotify.com/track/3vpSn9URfdY44csaFkGJBp) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [Planet Unknown](https://open.spotify.com/album/4EKeHDDESNGCLpdaT4fWSd) | 2:13 | 2025-08-03 |  |
+| [Ain't Shit The Bowl](https://open.spotify.com/track/5k26r5zjRdNXShojJVtKDH) | [Barakade](https://open.spotify.com/artist/3rYQvAdbe089i3VD3IRJva) | [Ain't Shit The Bowl](https://open.spotify.com/album/2mr6g0CLGwTh24HTJR2KNA) | 3:09 | 2025-12-27 |  |
 | [ALL MY FRIENDS](https://open.spotify.com/track/4LOqG8S1DIMwxJZvdx98cE) | [Tygers of Wrath](https://open.spotify.com/artist/6vGbDm4f3JsCq7ftXq5Xba) | [Get Ready!](https://open.spotify.com/album/1lDzx28rHjWtLB6oI3RpCI) | 1:37 | 2025-12-24 |  |
 | [Alright](https://open.spotify.com/track/56plBR3SfhuF0BwD9QN66H) | [t3rrible humans](https://open.spotify.com/artist/4iC1Bpe1kMhU5jpL7smqud) | [Alright](https://open.spotify.com/album/7sa3zIYb5Q6NHv7R1oJIfu) | 2:18 | 2025-12-13 |  |
 | [Altercations](https://open.spotify.com/track/2aM4hkQFepJgw2ficSl0wR) | [Dead Gaze NL](https://open.spotify.com/artist/4kPDKixHbo3tXZXzQZhJ2A) | [Altercations](https://open.spotify.com/album/00Mly2yRdIZ40v7BTtrMiA) | 5:10 | 2025-11-24 | 2025-12-24 |
@@ -250,6 +251,7 @@
 | [Lovely Head](https://open.spotify.com/track/1zgep5cR2ZjHRKLi3qqbl8) | [Goldfrapp](https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS) | [Felt Mountain](https://open.spotify.com/album/1SVCM1f5fGypJbIixT1Eed) | 3:49 | 2025-08-03 |  |
 | [Lycoris](https://open.spotify.com/track/1gL1QvP17ZY5JJDjDi1q1N) | [Reflection of Flesh](https://open.spotify.com/artist/0Rs07zaVCdgBdjxQQEBAOh) | [We Are Legion](https://open.spotify.com/album/0SkYNxbu2XwUkfdIy6Wyuc) | 5:00 | 2025-12-16 |  |
 | [Make Those Eyes](https://open.spotify.com/track/4j9vc99u7Oza7DGXbE8goh) | [CAN'T STOP TALKING](https://open.spotify.com/artist/3rotuHQvOx7kpA7arxEPTe) | [Nothing To Say](https://open.spotify.com/album/5NeEmefGoLWrjXzzKrU7dF) | 3:01 | 2025-08-03 |  |
+| [Making Maps](https://open.spotify.com/track/6kMyrrk6s5g4W4Lu5vsfwd) | [Bones In The Museum](https://open.spotify.com/artist/1JszlHY0LGPoLA4CrPsBwT) | [This Salvaged Wreck](https://open.spotify.com/album/2VLrBg00yJtP07zYdZJJkb) | 3:54 | 2025-12-27 |  |
 | [Malibu](https://open.spotify.com/track/2ffAtS4ttCEL4cK4TL4lET) | [Enigme](https://open.spotify.com/artist/5deKGXTf4C3fgwB183DAAa) | [Malibu](https://open.spotify.com/album/2uCSDnxXMqfED6Kb5qUTFZ) | 2:20 | 2025-12-20 |  |
 | [March of the Needle](https://open.spotify.com/track/5808lWNwH0Shnbr5anwiCF) | [Rich Packman](https://open.spotify.com/artist/0QCcrb1f3NFZleDodMIMU7) | [March of the Needle](https://open.spotify.com/album/5vJibShFSLAUzJ42DK1MQX) | 3:10 | 2025-11-03 | 2025-12-10 |
 | [Mayday Mayday](https://open.spotify.com/track/23f7gTiVGXNRScrA4W8LdO) | [archived](https://open.spotify.com/artist/7wQvNfAO2NdPhmzQpimi7i) | [Mayday Mayday](https://open.spotify.com/album/4fucqz6dim5FSWSdcSTtoK) | 2:09 | 2025-12-11 |  |
@@ -263,6 +265,7 @@
 | [Milhouse \- 10 Years Later](https://open.spotify.com/track/5bZx9aOBK9D8OIsuzvJdk7) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [Milhouse \(10 Years Later\)](https://open.spotify.com/album/2sWyXrmD6xZChk3VsZVHTN) | 3:50 | 2025-08-03 |  |
 | [Mirror Mirror](https://open.spotify.com/track/23QMB8EBzhdvYHLKn0JJiR) | [Daffodildos](https://open.spotify.com/artist/3ZvnRlJjmuZrmzEukWk7QE) | [Not My Cup of Tea](https://open.spotify.com/album/2AVWpAtr0dM8hdvOcoUXij) | 2:32 | 2025-12-04 | 2025-12-24 |
 | [Miscommunication](https://open.spotify.com/track/4mrCNaivdIbJWvK5gzyXP2) | [Deadlookout](https://open.spotify.com/artist/2nHDKcWBK1T1e82BUaehFl) | [Miscommunication](https://open.spotify.com/album/7I3nrcVGJCf3VVbkTlDzdg) | 3:16 | 2025-10-31 | 2025-12-10 |
+| [misfit](https://open.spotify.com/track/3cZGoKYmu86ATSBA2uBNYr) | [PUNKFICTION](https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC) | [misfit](https://open.spotify.com/album/05LVSFM0UJf9sGSfD81cOo) | 4:01 | 2025-12-27 |  |
 | [MMA Rooky](https://open.spotify.com/track/4X3UDaLkq8RpXhSiClheX0) | [32 Ohm](https://open.spotify.com/artist/1vgzRUPEZ8l3fszpEET43S) | [MMA Rooky](https://open.spotify.com/album/5rMyxWrIEFLf8boJPLa5PU) | 3:05 | 2025-11-10 |  |
 | [Mosh Pit](https://open.spotify.com/track/4Altxk4i8D6xIdkuySj5UO) | [Angelo](https://open.spotify.com/artist/1jBGWZRphBTMVcPLjxEuzC) | [Hellhound](https://open.spotify.com/album/0thfiUsL5V6uRLFA9bIOMj) | 2:14 | 2025-11-16 | 2025-12-10 |
 | [Mountainside](https://open.spotify.com/track/67pdwschvXYd3FnxYtvc5s) | [Shepherd Bridge](https://open.spotify.com/artist/7IWPSLFSNkPvI3upDX39f1) | [Lucy and the Voyager](https://open.spotify.com/album/7jHjn4K2XURXATynQZkrEv) | 3:43 | 2025-11-15 | 2025-12-10 |
@@ -302,6 +305,7 @@
 | [Outcast](https://open.spotify.com/track/0bANwo9DVN8mKM0VoPM3LC) | [Cutloose](https://open.spotify.com/artist/0edvqWPit6C1EuyWZSCTd4) | [Outcast](https://open.spotify.com/album/5iZuZfaqkDIeYe6v3JnjSl) | 3:03 | 2025-12-15 |  |
 | [Pale Face](https://open.spotify.com/track/0JhnzPFQMiU9rX6KF6b6B9) | [Katrina](https://open.spotify.com/artist/2hpCkArHzQ852NRLx6TG2o) | [Pale Face](https://open.spotify.com/album/46VywIGGdZzTVNta5HTcy5) | 4:22 | 2025-12-19 |  |
 | [Pantallas de Plomo](https://open.spotify.com/track/5xoO3OZxCXLfqUg09fdU2q) | [PunkoniA](https://open.spotify.com/artist/3kr51tm8al5xAW5wTSBpnd) | [Pantallas de Plomo](https://open.spotify.com/album/10XyGf869NPJ1g53woxYW4) | 2:54 | 2025-12-23 |  |
+| [Paper Trails](https://open.spotify.com/track/1lk7GZY3qP2LCRslE9pXki) | [King Dead](https://open.spotify.com/artist/4V4u70VKUuR6WNRQgfUjc4) | [King Dead](https://open.spotify.com/album/1s7Kbr7RRnXbMaWImSYC1L) | 9:12 | 2025-12-27 |  |
 | [Parasites](https://open.spotify.com/track/19LPTp2d52LycR39OUdaZy) | [Midnight Prophet](https://open.spotify.com/artist/1ULx7QJeFtmdL2zHmM9ziw) | [Parasites](https://open.spotify.com/album/1y9W56ouBL6XWdelVE6XRc) | 2:59 | 2025-11-10 | 2025-12-10 |
 | [Patagonia](https://open.spotify.com/track/4XC7GeTvgApnKhWTnp5nu0) | [The Multides](https://open.spotify.com/artist/0EBOhu8N5TYGpwRIWe1oQG) | [Shimmer](https://open.spotify.com/album/03NF1wfBJToukVqmRD1G62) | 2:51 | 2025-12-15 |  |
 | [Pawned Melody](https://open.spotify.com/track/2ds7E6cBtrgMk08bMYYWnb) | [Will Percs](https://open.spotify.com/artist/2epSjcquBzfuHGTfDVtv2J) | [Fund my beach style.](https://open.spotify.com/album/3M3CkdB03Z9R5S1zxmVyCW) | 2:16 | 2025-10-31 | 2025-12-10 |
@@ -407,6 +411,7 @@
 | [Sword And Shield](https://open.spotify.com/track/2R71lylNwv67mmPBwjTCYS) | [Yürümeyen Merdiven](https://open.spotify.com/artist/5qxtKwjihWyBWuy7Tjs3ue) | [Sword And Shield](https://open.spotify.com/album/7GIM4hfDcnStwIdShQnNym) | 3:26 | 2025-11-19 | 2025-12-10 |
 | [Symbol of Absence](https://open.spotify.com/track/3aGQqnQXTlEASZuDh4d6C3) | [Déjà Young](https://open.spotify.com/artist/6FXPElF9E7z8LEe21uMzr7) | [Symbol of Absence](https://open.spotify.com/album/3GeTP3sWi4i4acX36zKfDo) | 4:06 | 2025-11-14 |  |
 | [T\-shirt](https://open.spotify.com/track/1ObOI5SS3jk5m0kmhFVlD4) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [LOUD NOISES](https://open.spotify.com/album/3td0OGM48SevIvq1jkUxAM) | 3:59 | 2025-08-03 |  |
+| [Take A Chance](https://open.spotify.com/track/4xrJe5mSSpzPEDyjaEALI9) | [Ruminator](https://open.spotify.com/artist/7rCv2ogPDCtilVgdVLWtZQ) | [Take A Chance](https://open.spotify.com/album/0jbeFSZQp03h7FrIc5yEyu) | 4:34 | 2025-12-27 |  |
 | [Tears Me Up](https://open.spotify.com/track/6959IIhaVq28Z6ygotljjL) | [Lifeboats](https://open.spotify.com/artist/2vGWwJu1DndWtt2AhRAplt) | [Tears Me Up](https://open.spotify.com/album/0OKcZGOjOy4VYwBxOux7Ph) | 3:20 | 2025-11-27 | 2025-12-24 |
 | [temptress](https://open.spotify.com/track/1PDUiwGUzBCNwKbbqKM03J) | [dredge](https://open.spotify.com/artist/2a5NdT9HMrYzElE44JJ59W) | [temptress](https://open.spotify.com/album/65cYeQSbhT1ZY3JQEx39b9) | 3:17 | 2025-11-20 |  |
 | [temptress \(amnesia edit\)](https://open.spotify.com/track/4DgcfrBabvXy8qsiU8recG) | [dredge](https://open.spotify.com/artist/2a5NdT9HMrYzElE44JJ59W) | [temptress](https://open.spotify.com/album/65cYeQSbhT1ZY3JQEx39b9) | 3:40 | 2025-11-20 |  |
@@ -415,8 +420,10 @@
 | [The Demise of Susan Wiley](https://open.spotify.com/track/1IzsNekpfYkF6IRElYcGdp) | [Bit Commander](https://open.spotify.com/artist/53aISfz35xV7ZbrD9vQBPF) | [The Demise of Susan Wiley](https://open.spotify.com/album/4wOeHz2aYbZPE26GtvumhG) | 5:46 | 2025-12-13 |  |
 | [The Distance](https://open.spotify.com/track/7H9COK6fJ6RLga1Gizf71C) | [Monte Cristo](https://open.spotify.com/artist/5PBBLMciIri0fAzQgteVgQ) | [FROM THE LOWEST VALLEY TO THE HIGHEST MOUNTAIN](https://open.spotify.com/album/6hLWJmUuUq4s7enf203pXu) | 4:14 | 2025-10-23 | 2025-12-10 |
 | [The Dominant](https://open.spotify.com/track/4zzlCCVf3tJiwwyaGpYTUo) | [Global Plague](https://open.spotify.com/artist/3l3qDiPbgEPAjeegMe88cV) | [The Dominant](https://open.spotify.com/album/4wcgqZHVG6EyyXnur9LbQU) | 2:17 | 2025-12-16 |  |
+| [The End of the World or Whatever](https://open.spotify.com/track/7bEuh53WskcUxLGmjil4nQ) | [Nell Davies](https://open.spotify.com/artist/3T37olDofWUEnGxDPrTVgL) | [The End of the World or Whatever](https://open.spotify.com/album/2KnWPPJRwhUocc1yLm5Loa) | 3:12 | 2025-12-27 |  |
 | [The Fallen](https://open.spotify.com/track/1H7Fbj2qhNi9SxKBuIfpqI) | [ENGRAVED](https://open.spotify.com/artist/6R5sDWirfGj3i7FpTw2A3W) | [The Fallen](https://open.spotify.com/album/0l4A555dr88W8yB8T83taf) | 4:27 | 2025-12-21 |  |
 | [The Friends of Joey Coyle](https://open.spotify.com/track/1Z50QG15gl43om5JALNq4a) | [Tony Mecca](https://open.spotify.com/artist/3FEarLAYejR4vLifQcpiRb) | [Heavy Mental Gypsies](https://open.spotify.com/album/432choLFbupQ8Us7b8m7I1) | 6:45 | 2025-12-10 |  |
+| [The Line That Separates](https://open.spotify.com/track/0Mf7Y9cVAhr3jsVcUXeyz3) | [Mayfly](https://open.spotify.com/artist/54lgshCA4yb6pMhonEh7kI) | [The Line That Separates](https://open.spotify.com/album/3JIsg51hdyIYOFpd60c0F8) | 3:38 | 2025-12-27 |  |
 | [The More I Know You \(The Less I Feel Being a Part of It\)](https://open.spotify.com/track/3Ge205IaMXPiODIjpFpaUF) | [Set to Change](https://open.spotify.com/artist/5nGJaJYOxnj9OAFqeNM40U) | [The Great Nothing](https://open.spotify.com/album/3O29xMIWvR4YnhEBpY5qQ8) | 3:54 | 2025-12-17 |  |
 | [The Night on Fire](https://open.spotify.com/track/3H4RWWL4RAqP8ewNclLZfS) | [LuumixX](https://open.spotify.com/artist/0YM7PRuqPpBZUzqnD5Wh6n), [DJ Mokka](https://open.spotify.com/artist/2HsoBly6mGxZkMKZ0XjAyr) | [The Night on Fire](https://open.spotify.com/album/6GZszizjAdpKzt1Zbq5o7r) | 2:51 | 2025-11-28 | 2025-12-24 |
 | [The Ones Who Drifted](https://open.spotify.com/track/5shpX3zlrOb9nZnWqX8xgY) | [Madness Men](https://open.spotify.com/artist/6vLj31hJ7SVEK1QaAOndpk) | [Madness Dimension, Pt\. One](https://open.spotify.com/album/6dhW2f9OGUrZEzBWU7RthA) | 4:43 | 2025-11-29 | 2025-12-24 |
