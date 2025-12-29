@@ -1,4 +1,4 @@
-## Playlists \(9041\)
+## Playlists \(9042\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -6000,6 +6000,7 @@
 - [Tango Rock](/playlists/pretty/37i9dQZF1DXa6vwC7tN28X.md)
 - [Tangos y Milongas](/playlists/pretty/37i9dQZF1DXcCT9tm6fRIV.md)
 - [Tantra](/playlists/pretty/37i9dQZF1DWSlskcBvOTt0.md)
+- [Tantrum\-Taming Road Trip Tunes](/playlists/pretty/6fio8empOCjnGLiR7Q5YiH.md)
 - [Tapped In Bad Bunny](/playlists/pretty/37i9dQZF1DWWwsUp7D7wBj.md)
 - [Tarab](/playlists/pretty/37i9dQZF1DWZQ6UgJlQibR.md)
 - [Tarea Casual](/playlists/pretty/37i9dQZF1DX0yN5997BIDH.md)
