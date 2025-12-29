@@ -1,4 +1,4 @@
-## Playlists \(9040\)
+## Playlists \(9041\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -2567,6 +2567,7 @@
 - [Fujiyama Beats](/playlists/pretty/37i9dQZF1DWYdIWNEnrI0f.md)
 - [Full Tropical](/playlists/pretty/37i9dQZF1DXdjfHgKBfMid.md)
 - [Full Volume](/playlists/pretty/37i9dQZF1DWUv0cTKdT8jJ.md)
+- [Fun In The Sun​](/playlists/pretty/3GBswfU2bBDJCZ3J8igPfY.md)
 - [Fun Run](/playlists/pretty/37i9dQZF1DXadOVCgGhS7j.md)
 - [Funk & Disco Zamaan](/playlists/pretty/37i9dQZF1DX8SE5tIsUWTD.md)
 - [Funk & Soul Classics](/playlists/pretty/37i9dQZF1DWWvhKV4FBciw.md)
