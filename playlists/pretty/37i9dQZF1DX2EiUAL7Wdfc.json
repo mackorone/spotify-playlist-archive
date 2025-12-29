@@ -1,6 +1,6 @@
 {
   "description": "Los temas que se convertir\u00e1n en himnos.",
-  "num_followers": 569379,
+  "num_followers": 569561,
   "original_name": "m\u00edticas",
   "owner": {
     "name": "Spotify",
@@ -479,26 +479,6 @@
     {
       "added_at": "2025-11-03 09:03:04",
       "album": {
-        "name": "LA CIUDAD",
-        "url": "https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t"
-      },
-      "artists": [
-        {
-          "name": "Alleh",
-          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
-        },
-        {
-          "name": "Yorghaki",
-          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
-        }
-      ],
-      "duration_ms": 173858,
-      "name": "capaz (merengueton)",
-      "url": "https://open.spotify.com/track/4DnrAI8WyUY6gkOwl8GlPN"
-    },
-    {
-      "added_at": "2025-11-03 09:03:04",
-      "album": {
         "name": "Rara Vez",
         "url": "https://open.spotify.com/album/26wRfIX4WqKLKHll9O3KnF"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 229360,
       "name": "Despacito",
       "url": "https://open.spotify.com/track/6habFhsOp2NvshLv26DqMb"
+    },
+    {
+      "added_at": "2025-11-03 09:03:04",
+      "album": {
+        "name": "LA CIUDAD",
+        "url": "https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t"
+      },
+      "artists": [
+        {
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+        },
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        }
+      ],
+      "duration_ms": 173858,
+      "name": "capaz (merengueton)",
+      "url": "https://open.spotify.com/track/4DnrAI8WyUY6gkOwl8GlPN"
     },
     {
       "added_at": "2025-11-03 09:03:04",
@@ -935,22 +935,6 @@
     {
       "added_at": "2025-11-03 09:03:04",
       "album": {
-        "name": "F\u00e9nix",
-        "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 198706,
-      "name": "Hasta el Amanecer",
-      "url": "https://open.spotify.com/track/5Fim1gaXBgsiFfsQAfQSDS"
-    },
-    {
-      "added_at": "2025-11-03 09:03:04",
-      "album": {
         "name": "Adicto (with Anuel AA & Ozuna)",
         "url": "https://open.spotify.com/album/7nqA49hzXJWPH4cnM8nk6x"
       },
@@ -975,22 +959,18 @@
     {
       "added_at": "2025-11-03 09:03:04",
       "album": {
-        "name": "SATIROLOG\u00cdA (DELUXE EDITION)",
-        "url": "https://open.spotify.com/album/6DGGDTzn0msZRptzHHcMNE"
+        "name": "F\u00e9nix",
+        "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
       },
       "artists": [
         {
-          "name": "Kidd Voodoo",
-          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
-        },
-        {
-          "name": "JC Reyes",
-          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
         }
       ],
-      "duration_ms": 168209,
-      "name": "Me Mareo",
-      "url": "https://open.spotify.com/track/6jBoUckd6VEImt6pg8RpDr"
+      "duration_ms": 198706,
+      "name": "Hasta el Amanecer",
+      "url": "https://open.spotify.com/track/5Fim1gaXBgsiFfsQAfQSDS"
     },
     {
       "added_at": "2025-11-03 09:03:04",
@@ -1007,6 +987,26 @@
       "duration_ms": 162637,
       "name": "La Bachata",
       "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
+    },
+    {
+      "added_at": "2025-11-03 09:03:04",
+      "album": {
+        "name": "SATIROLOG\u00cdA (DELUXE EDITION)",
+        "url": "https://open.spotify.com/album/6DGGDTzn0msZRptzHHcMNE"
+      },
+      "artists": [
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "JC Reyes",
+          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
+        }
+      ],
+      "duration_ms": 168209,
+      "name": "Me Mareo",
+      "url": "https://open.spotify.com/track/6jBoUckd6VEImt6pg8RpDr"
     },
     {
       "added_at": "2025-11-03 09:03:04",
@@ -1107,26 +1107,6 @@
     {
       "added_at": "2025-11-03 09:03:04",
       "album": {
-        "name": "Comernos",
-        "url": "https://open.spotify.com/album/0GMA4LtsdymEbIuMfEoVWY"
-      },
-      "artists": [
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        },
-        {
-          "name": "Bad Gyal",
-          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
-        }
-      ],
-      "duration_ms": 221373,
-      "name": "Comernos",
-      "url": "https://open.spotify.com/track/29twJUQo66aqSd3lxoeswV"
-    },
-    {
-      "added_at": "2025-11-03 09:03:04",
-      "album": {
         "name": "Vibras",
         "url": "https://open.spotify.com/album/5kprdYds6oZb4iSldfflOT"
       },
@@ -1143,6 +1123,26 @@
       "duration_ms": 185040,
       "name": "Mi Gente",
       "url": "https://open.spotify.com/track/7COfe3P7KgfwDwIRB8LIDw"
+    },
+    {
+      "added_at": "2025-11-03 09:03:04",
+      "album": {
+        "name": "Comernos",
+        "url": "https://open.spotify.com/album/0GMA4LtsdymEbIuMfEoVWY"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        },
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        }
+      ],
+      "duration_ms": 221373,
+      "name": "Comernos",
+      "url": "https://open.spotify.com/track/29twJUQo66aqSd3lxoeswV"
     },
     {
       "added_at": "2025-11-03 09:03:04",
@@ -1459,18 +1459,26 @@
     {
       "added_at": "2025-11-03 09:03:04",
       "album": {
-        "name": "Homerun",
-        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
+        "name": "\u00c9pico",
+        "url": "https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT"
       },
       "artists": [
         {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 256971,
-      "name": "Adan y Eva",
-      "url": "https://open.spotify.com/track/132ALUzVLmqYB4UsBj5qD6"
+      "duration_ms": 266086,
+      "name": "Soltera (Remix)",
+      "url": "https://open.spotify.com/track/4t9a07PAghtQMRAIP9FQ7Z"
     },
     {
       "added_at": "2025-11-03 09:03:04",
@@ -1495,26 +1503,18 @@
     {
       "added_at": "2025-11-03 09:03:04",
       "album": {
-        "name": "\u00c9pico",
-        "url": "https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT"
+        "name": "Homerun",
+        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
       },
       "artists": [
         {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
         }
       ],
-      "duration_ms": 266086,
-      "name": "Soltera (Remix)",
-      "url": "https://open.spotify.com/track/4t9a07PAghtQMRAIP9FQ7Z"
+      "duration_ms": 256971,
+      "name": "Adan y Eva",
+      "url": "https://open.spotify.com/track/132ALUzVLmqYB4UsBj5qD6"
     },
     {
       "added_at": "2025-11-03 09:03:04",
@@ -1547,22 +1547,6 @@
       "duration_ms": 145342,
       "name": "REAL GANGSTA LOVE",
       "url": "https://open.spotify.com/track/1pymWRCuZfCd0zdiBJo0Hj"
-    },
-    {
-      "added_at": "2025-11-03 09:03:04",
-      "album": {
-        "name": "Homerun",
-        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 263899,
-      "name": "Tal Vez",
-      "url": "https://open.spotify.com/track/5jW3rF4URMdK7tO2xjS5EI"
     },
     {
       "added_at": "2025-11-03 09:03:04",
@@ -1603,6 +1587,22 @@
       "duration_ms": 215600,
       "name": "Vagabundo",
       "url": "https://open.spotify.com/track/1MB8kTH7VKvAMfL9SHgJmG"
+    },
+    {
+      "added_at": "2025-11-03 09:03:04",
+      "album": {
+        "name": "Homerun",
+        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 263899,
+      "name": "Tal Vez",
+      "url": "https://open.spotify.com/track/5jW3rF4URMdK7tO2xjS5EI"
     },
     {
       "added_at": "2025-11-03 09:03:04",
@@ -1743,26 +1743,6 @@
     {
       "added_at": "2025-11-03 09:03:04",
       "album": {
-        "name": "VIDA",
-        "url": "https://open.spotify.com/album/5C0YLr4OoRGFDaqdMQmkeH"
-      },
-      "artists": [
-        {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
-        },
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 173800,
-      "name": "\u00c9chame La Culpa",
-      "url": "https://open.spotify.com/track/0mlAOSILGRys2IbvyOT5VJ"
-    },
-    {
-      "added_at": "2025-11-03 09:03:04",
-      "album": {
         "name": "El Madrile\u00f1o",
         "url": "https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9"
       },
@@ -1783,6 +1763,26 @@
       "duration_ms": 198493,
       "name": "T\u00fa Me Dejaste De Querer",
       "url": "https://open.spotify.com/track/5ddFjrPG8NgQQ6xlOQIVd2"
+    },
+    {
+      "added_at": "2025-11-03 09:03:04",
+      "album": {
+        "name": "VIDA",
+        "url": "https://open.spotify.com/album/5C0YLr4OoRGFDaqdMQmkeH"
+      },
+      "artists": [
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        },
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 173800,
+      "name": "\u00c9chame La Culpa",
+      "url": "https://open.spotify.com/track/0mlAOSILGRys2IbvyOT5VJ"
     },
     {
       "added_at": "2025-11-03 09:03:04",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2025-11-03 09:03:04",
       "album": {
-        "name": "MANTRA",
-        "url": "https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 229386,
-      "name": "Traicionera",
-      "url": "https://open.spotify.com/track/4Ft0391aLVNtCPPseh98lp"
-    },
-    {
-      "added_at": "2025-11-03 09:03:04",
-      "album": {
         "name": "China",
         "url": "https://open.spotify.com/album/1PTTAq0OxggVgqP5WTYWDh"
       },
@@ -1907,6 +1891,22 @@
       "duration_ms": 301714,
       "name": "China",
       "url": "https://open.spotify.com/track/2ksOAxtIxY8yElEWw8RhgK"
+    },
+    {
+      "added_at": "2025-11-03 09:03:04",
+      "album": {
+        "name": "MANTRA",
+        "url": "https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 229386,
+      "name": "Traicionera",
+      "url": "https://open.spotify.com/track/4Ft0391aLVNtCPPseh98lp"
     },
     {
       "added_at": "2025-11-03 09:03:04",

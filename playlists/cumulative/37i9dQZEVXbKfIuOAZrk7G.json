@@ -10060,7 +10060,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 138955,
       "name": "blackout blackout",
       "url": "https://open.spotify.com/track/3GWq178RXxxXnuGOpuJ6MZ"
@@ -11174,6 +11174,24 @@
     {
       "album": {
         "name": "BOO",
+        "url": "https://open.spotify.com/album/6eCKw4JH2vzTXGutRJ2Rhj"
+      },
+      "artists": [
+        {
+          "name": "H3adband",
+          "url": "https://open.spotify.com/artist/3TvL95zdOZWkMbkvfJ8cCk"
+        }
+      ],
+      "date_added": "2025-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138657,
+      "name": "BOO",
+      "url": "https://open.spotify.com/track/5z3lA9udc15kVQ4S4OcTsa"
+    },
+    {
+      "album": {
+        "name": "BOO",
         "url": "https://open.spotify.com/album/39lqXTGWSFVC9Qx0KEnKpD"
       },
       "artists": [
@@ -11184,7 +11202,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 138657,
       "name": "BOO",
       "url": "https://open.spotify.com/track/6Km8JhmtqvNxQCUlX32PD9"
@@ -13744,7 +13762,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-20",
+      "date_removed": null,
       "duration_ms": 104427,
       "name": "Carnival",
       "url": "https://open.spotify.com/track/4TfmXkmAqtiq1ixe5PT5kX"
@@ -24626,7 +24644,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 182916,
       "name": "Ez-Ez (From \"Dhurandhar\")",
       "url": "https://open.spotify.com/track/43tdotHTSrO4fncgZDhY3Z"
@@ -40362,7 +40380,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-15",
+      "date_removed": null,
       "duration_ms": 207102,
       "name": "Ishqa Ve",
       "url": "https://open.spotify.com/track/0febwTwLDSZzrt46i1RBF5"
@@ -87006,10 +87024,28 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 241559,
       "name": "We Carry The Flame",
       "url": "https://open.spotify.com/track/5OvlrhfIBU1mHHHndkNVsa"
+    },
+    {
+      "album": {
+        "name": "We Carry The Flame",
+        "url": "https://open.spotify.com/album/639jxnSva9bdYYwLMNSFp9"
+      },
+      "artists": [
+        {
+          "name": "Spalexma",
+          "url": "https://open.spotify.com/artist/0br7BhK6Vr2Bx8IEg0PEn3"
+        }
+      ],
+      "date_added": "2025-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241567,
+      "name": "We Carry The Flame",
+      "url": "https://open.spotify.com/track/65Bker7Dj5lWlrO6AtadAv"
     },
     {
       "album": {

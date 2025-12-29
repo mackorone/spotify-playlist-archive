@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xXdS0.md) - [plain]
 
 > This is Nina Simone\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 505,216 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 505,248 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xXdS0.md) - [plain]
 | 21 | [Black Is The Color Of My True Love's Hair \- Jaffa Remix](https://open.spotify.com/track/5ituU6SebgZBAkS0YnbVre) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO), [Jaffa](https://open.spotify.com/artist/2KmAZfz1aJ4On70lLseFHt) | [Verve Remixed 2](https://open.spotify.com/album/0jZihpxJOMBTJ51wRN0Uje) | 4:57 |
 | 22 | [If I Should Lose You](https://open.spotify.com/track/6YRVj7ZJyFrr6tso0QV15e) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Wild Is The Wind](https://open.spotify.com/album/2EYVXfypcucR62WMKJl6Mr) | 3:55 |
 | 23 | [Little Girl Blue \(2013 \- Remaster\)](https://open.spotify.com/track/0fpohcklLKNLo3FyjVjEsE) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Little Girl Blue \(2013 \- Remaster\)](https://open.spotify.com/album/01NGiVifTgrJzdwtgHyfU3) | 4:17 |
-| 24 | [Work Song](https://open.spotify.com/track/628A54HsxBPfgJPShyD7gx) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [High Priestess Of Soul](https://open.spotify.com/album/1M2ktinB3DcTbrVXD45jxn) | 3:03 |
-| 25 | [Take Care Of Business](https://open.spotify.com/track/2YwjSPeznyCvkUYvqKbXa9) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez) | 2:05 |
+| 24 | [Take Care Of Business](https://open.spotify.com/track/2YwjSPeznyCvkUYvqKbXa9) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez) | 2:05 |
+| 25 | [Work Song](https://open.spotify.com/track/628A54HsxBPfgJPShyD7gx) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [High Priestess Of Soul](https://open.spotify.com/album/1M2ktinB3DcTbrVXD45jxn) | 3:03 |
 | 26 | [The Look of Love](https://open.spotify.com/track/0EiGzshQIaM98eOXdKTGaD) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Silk & Soul \(Expanded Edition\)](https://open.spotify.com/album/2miVfa78vOd0o8Vbsgd7g3) | 2:22 |
 | 27 | [Plain Gold Ring \(2013 \- Remaster\)](https://open.spotify.com/track/476RII5Mde9Ih5xqYLSqtS) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Little Girl Blue \(2013 \- Remaster\)](https://open.spotify.com/album/01NGiVifTgrJzdwtgHyfU3) | 3:48 |
 | 28 | [Since I Fell for You](https://open.spotify.com/track/0S8wQT9YkE41gHIGwXvgep) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone Sings The Blues \(Expanded Edition\)](https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2) | 2:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xXdS0.md) - [plain]
 | 49 | [Save Me](https://open.spotify.com/track/395JOroUb1RLcDp5BCN7F5) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Silk & Soul \(Expanded Edition\)](https://open.spotify.com/album/2miVfa78vOd0o8Vbsgd7g3) | 3:22 |
 | 50 | [You've Got To Learn](https://open.spotify.com/track/5mUuJ9ho28WRUv03odBCBb) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez) | 2:40 |
 
-Snapshot ID: `aU3QAAAAAAAtMs2c6vIr0Ya4XbDqbTH2`
+Snapshot ID: `aU8hgAAAAACgTej6kAbIv0MdWLMscN8B`

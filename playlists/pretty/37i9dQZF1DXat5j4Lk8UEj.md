@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 
 > A mix of electric roots rock and folk\-infused alternative\. Cover: Nathaniel Rateliff & The Night Sweats
 
-[Spotify](https://open.spotify.com/user/spotify) - 479,562 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 479,543 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 | 45 | [The Good Life](https://open.spotify.com/track/6fAJL7dFFaAlRgrmXKvctr) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Slow Lightning](https://open.spotify.com/album/44YK1hIbqIgm50o6zPZAhB) | 3:58 |
 | 46 | [Green Light](https://open.spotify.com/track/1Dwe3stHagI1NLezeHLK9k) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9), [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [Strangers No More, Vol\. 2](https://open.spotify.com/album/4Ua7vrpUY0iD6DaP2qyyQb) | 3:18 |
 | 47 | [It's Been a While](https://open.spotify.com/track/72tyEYz2P2KJgA7DYAMj1t) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ) | [It's Been a While](https://open.spotify.com/album/2hXnzYHalL5s1lcRvIicCf) | 4:06 |
-| 48 | [reason to live](https://open.spotify.com/track/2s8bnU55x1cRJPijY9mRC9) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [reason to live](https://open.spotify.com/album/1uep2c3fsOsD6mcxFijBZP) | 2:30 |
-| 49 | [Love Love Love](https://open.spotify.com/track/4d2IWdIT5Xw8crEWGKWUU6) | [My Morning Jacket](https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM) | [My Morning Jacket](https://open.spotify.com/album/22cyxRwzn0PuQifvqZVIYl) | 3:42 |
+| 48 | [Love Love Love](https://open.spotify.com/track/4d2IWdIT5Xw8crEWGKWUU6) | [My Morning Jacket](https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM) | [My Morning Jacket](https://open.spotify.com/album/22cyxRwzn0PuQifvqZVIYl) | 3:42 |
+| 49 | [reason to live](https://open.spotify.com/track/2s8bnU55x1cRJPijY9mRC9) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [reason to live](https://open.spotify.com/album/1uep2c3fsOsD6mcxFijBZP) | 2:30 |
 | 50 | [Galacticana](https://open.spotify.com/track/73xmoTyIsGhr2zevMYqa71) | [Strand of Oaks](https://open.spotify.com/artist/0t4oHObO3FImWvIhMimaSL) | [Galacticana](https://open.spotify.com/album/7qGW8JjT3nz4MC4x3daSZg) | 4:00 |
 | 51 | [Statues in the Garden \(Arras\)](https://open.spotify.com/track/14BcEAdv3OkOXYjGIk7jTZ) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Statues in the Garden \(Arras\)](https://open.spotify.com/album/4Cf7oXjw0tqlDEdAqqOlLM) | 3:56 |
 | 52 | [Tried to Tell You](https://open.spotify.com/track/78Vj1c5mgrddm7aQN0A3fs) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Tried to Tell You](https://open.spotify.com/album/0xB1XJxNIddjYUrelC1Vm4) | 3:38 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXat5j4Lk8UEj.md) - [plain]
 | 76 | [Hands On The Wheel \(Feat\. Particle Kid\) \(Recorded at Luck Reunion\) \- Spotify Singles](https://open.spotify.com/track/1c0PPeV09JNqhLsM4mC7Mx) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Particle Kid](https://open.spotify.com/artist/5dwBB4lz6Gmuo8v7cgaFli) | [Spotify Singles](https://open.spotify.com/album/1WTJCdZuGWrQcLJdv2jeVu) | 4:17 |
 | 77 | [Proximity](https://open.spotify.com/track/4BrcmD7xqfdwLbso6xZI3P) | [Blank Range](https://open.spotify.com/artist/4TKZQfojfl4wUDO3Mql65t) | [In Unison](https://open.spotify.com/album/35YFuoRW7wt1QDMqLzxL4w) | 3:17 |
 | 78 | [Pain Shifter](https://open.spotify.com/track/2A5fpEFPiljuW0a23kcDVf) | [W\. B\. Wooten](https://open.spotify.com/artist/5PM6kTcLdfwy9q1RVZjXQk) | [Pain Shifter](https://open.spotify.com/album/1KbqWbmHEfEFtFgGPTPWgt) | 3:44 |
-| 79 | [Never Makes a Sound](https://open.spotify.com/track/6ws3nglPZiK1lCgU9ZpfQV) | [Jonathan Terrell](https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3) | [Never Makes a Sound](https://open.spotify.com/album/1oG3x0lHgddWOoJ3UhzWXY) | 4:00 |
-| 80 | [Canyonheart](https://open.spotify.com/track/4QzlIwRtqYBReMUWv65b8A) | [Israel Nash](https://open.spotify.com/artist/5skM4jc4QoEpHiWWl6OoW7) | [Topaz](https://open.spotify.com/album/37SsOnUA2MVaJDLybuNDzz) | 3:51 |
+| 79 | [Canyonheart](https://open.spotify.com/track/4QzlIwRtqYBReMUWv65b8A) | [Israel Nash](https://open.spotify.com/artist/5skM4jc4QoEpHiWWl6OoW7) | [Topaz](https://open.spotify.com/album/37SsOnUA2MVaJDLybuNDzz) | 3:51 |
+| 80 | [Never Makes a Sound](https://open.spotify.com/track/6ws3nglPZiK1lCgU9ZpfQV) | [Jonathan Terrell](https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3) | [Never Makes a Sound](https://open.spotify.com/album/1oG3x0lHgddWOoJ3UhzWXY) | 4:00 |
 | 81 | [Difference Of Opinion](https://open.spotify.com/track/1xJnjKBzXEpAoqtyM8Srtf) | [Adam Newling](https://open.spotify.com/artist/6P727EkBvvBKIrMHEu83eT) | [Difference Of Opinion](https://open.spotify.com/album/3wf7IxOIpJKiXbGC8qbntI) | 3:40 |
 | 82 | [Daylight Push](https://open.spotify.com/track/0CmPx3PUQYMjmSxB9Zn7aV) | [Woods](https://open.spotify.com/artist/2sBPVEeMBXKNsZtYaJixnJ) | [Strange to Explain \[More Strange \(Deluxe Edition\)\]](https://open.spotify.com/album/1UbNct48nwdSKvZ1HC6SqG) | 3:51 |
 | 83 | [Suffering](https://open.spotify.com/track/5rWxb6qPOhz2qpYDLL7D0H) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [Suffering](https://open.spotify.com/album/14eVN7m47S442flao2wtFa) | 3:20 |

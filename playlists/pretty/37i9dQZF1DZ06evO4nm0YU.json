@@ -1,12 +1,12 @@
 {
   "description": "This is H\u00e9ctor Lavoe. The essential tracks, all in one playlist.",
-  "num_followers": 183595,
+  "num_followers": 183621,
   "original_name": "This Is H\u00e9ctor Lavoe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU3QAAAAAAAnln96KPNIjH3DiZ0y59xR",
+  "snapshot_id": "aU8hgAAAAABOe1NMzqwzaqV8BTNp0z8K",
   "tracks": [
     {
       "added_at": null,
@@ -539,6 +539,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "49 Minutes",
+        "url": "https://open.spotify.com/album/1T4b8OHo82V9mr8UdMTJ72"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 497640,
+      "name": "Timbalero",
+      "url": "https://open.spotify.com/track/52Bo07jYDz6FkKnOL07x3Q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Revent\u00f3",
         "url": "https://open.spotify.com/album/1NFazvS6xURLqpqQVuGXBD"
       },
@@ -571,26 +591,6 @@
       "duration_ms": 338013,
       "name": "Juana Pe\u00f1a",
       "url": "https://open.spotify.com/track/4GBxHI71GOyv9umXPnbs0z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "49 Minutes",
-        "url": "https://open.spotify.com/album/1T4b8OHo82V9mr8UdMTJ72"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 497640,
-      "name": "Timbalero",
-      "url": "https://open.spotify.com/track/52Bo07jYDz6FkKnOL07x3Q"
     },
     {
       "added_at": null,
@@ -647,6 +647,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Sabio",
+        "url": "https://open.spotify.com/album/2QqqS97l2DLYq1vrhHUpze"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 427560,
+      "name": "Al\u00e9jate",
+      "url": "https://open.spotify.com/track/6dKDnjNPg2oHi5yOY4RRlB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cosa Nuestra",
         "url": "https://open.spotify.com/album/2ta1doHAXdTOtLLoc02fZf"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 295480,
       "name": "Te Conozco",
       "url": "https://open.spotify.com/track/4QQSXJaG5mh3dGBHqXaft1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Sabio",
-        "url": "https://open.spotify.com/album/2QqqS97l2DLYq1vrhHUpze"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 427560,
-      "name": "Al\u00e9jate",
-      "url": "https://open.spotify.com/track/6dKDnjNPg2oHi5yOY4RRlB"
     },
     {
       "added_at": null,

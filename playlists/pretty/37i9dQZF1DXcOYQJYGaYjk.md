@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcOYQJYGaYjk.md) - [plain]
 
 > For those that like it hard and heavy\. Cover: Motionless In White
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,029 likes - 75 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,026 likes - 75 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcOYQJYGaYjk.md) - [plain]
 | 74 | [The End of All We Know](https://open.spotify.com/track/14EXZEog1hW97d6yz8ejih) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [The End of All We Know](https://open.spotify.com/album/2OqIRPnTsoVKem3kLhP6pi) | 4:11 |
 | 75 | [Purge](https://open.spotify.com/track/4O0qk2XaOAKVjLnKnEQ0RW) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [Purge](https://open.spotify.com/album/7o1VvlYeqiBiSQUZNXQHbF) | 4:42 |
 
-Snapshot ID: `AAAAAKAwIilh1rh6AJP9fnnTdaFi65np`
+Snapshot ID: `AAAAADqdCE60Mmif6PXYvfDj1CIT5Dz5`

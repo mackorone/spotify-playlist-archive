@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1lW5tI.md) - [plain]
 
 > This is Khruangbin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,891 likes - 48 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,940 likes - 48 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,11 +45,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1lW5tI.md) - [plain]
 | 35 | [Lobbo](https://open.spotify.com/track/7FOdklQwziz02Et3OJ9nJT) | [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Ali](https://open.spotify.com/album/4dfAJiDQHQf4dGX0ZdtxPh) | 4:34 |
 | 36 | [Connaissais de Face](https://open.spotify.com/track/0ibpvxLcFccvQJd0SjdUvW) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Mordechai](https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb) | 4:20 |
 | 37 | [The No.4](https://open.spotify.com/track/4hqW5pzyGljsAP7S9wjq7T) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [The Infamous Bill](https://open.spotify.com/album/0cBC8V1F4ABcmpmqJDIQgB) | 3:41 |
-| 38 | [Evan Finds the Third Room](https://open.spotify.com/track/6u9UBhoz36duB4eLoYuPB9) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/3lziDe2aT9qXSDxeYuNm2y) | 4:00 |
+| 38 | [Cómo Me Quieres](https://open.spotify.com/track/11AURg9Kbju7LOcwQnR17f) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml) | 3:45 |
 | 39 | [Savanne](https://open.spotify.com/track/7BeDGBnTV2SqchXGAegMNm) | [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Ali](https://open.spotify.com/album/4dfAJiDQHQf4dGX0ZdtxPh) | 5:16 |
 | 40 | [Ada Jean](https://open.spotify.com/track/1k9NCfhr7kBZThlVSdXJFa) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [A LA SALA](https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2) | 3:19 |
 | 41 | [Father Bird, Mother Bird](https://open.spotify.com/track/5AaqYl3nQu2ktZbXOIRGXp) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Mordechai](https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb) | 3:05 |
-| 42 | [Cómo Me Quieres](https://open.spotify.com/track/11AURg9Kbju7LOcwQnR17f) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml) | 3:45 |
+| 42 | [Evan Finds the Third Room](https://open.spotify.com/track/6u9UBhoz36duB4eLoYuPB9) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/3lziDe2aT9qXSDxeYuNm2y) | 4:00 |
 | 43 | [Tongo Barra](https://open.spotify.com/track/0OOPyxMDeHdoo2PptHHkC4) | [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Ali](https://open.spotify.com/album/4dfAJiDQHQf4dGX0ZdtxPh) | 5:33 |
 | 44 | [Three From Two](https://open.spotify.com/track/0aBXUYZnPGercCeyjriEtl) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [A LA SALA](https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2) | 3:34 |
 | 45 | [Right](https://open.spotify.com/track/3ezJklJWZRm6pWI3DQjW9e) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Modern Love](https://open.spotify.com/album/5oYObkUoxoZa52Z5FdzjPT) | 5:08 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1lW5tI.md) - [plain]
 | 47 | [Diarabi](https://open.spotify.com/track/36huM0UOR9A17TYAape2Xg) | [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Ali](https://open.spotify.com/album/4dfAJiDQHQf4dGX0ZdtxPh) | 5:01 |
 | 48 | [Cómo Te Quiero](https://open.spotify.com/track/6y9t7mXJVzBGQG4XhHy8Li) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml) | 4:02 |
 
-Snapshot ID: `aU3QAAAAAAB2C2UvWAkLyHDEvDq8+2Bf`
+Snapshot ID: `aU8hgAAAAADLzTL76RuKVrAejHhrclB2`

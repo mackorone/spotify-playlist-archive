@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU3QAAAAAACZnNrdF7B6fs6l5vg6GF9D",
+  "snapshot_id": "aU8hgAAAAABrfibXGR0WqugxdNc63Q+w",
   "tracks": [
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/4doYRKxTYYoyeXK66zWsN2"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        }
-      ],
-      "duration_ms": 225533,
-      "name": "Get Right",
-      "url": "https://open.spotify.com/track/3jVSV60WZE5jPE2a6KGNFy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "L\u00edderes",
         "url": "https://open.spotify.com/album/6tOFRRXAis3nniv1wG6Nae"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 240320,
       "name": "Follow The Leader",
       "url": "https://open.spotify.com/track/2RMWA3mvD4nxBR1sGF7wRp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/4doYRKxTYYoyeXK66zWsN2"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "duration_ms": 225533,
+      "name": "Get Right",
+      "url": "https://open.spotify.com/track/3jVSV60WZE5jPE2a6KGNFy"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "On The 6",
-        "url": "https://open.spotify.com/album/43CV8Hxctvm8BUCesUaxMk"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        }
-      ],
-      "duration_ms": 245866,
-      "name": "Una Noche M\u00e1s",
-      "url": "https://open.spotify.com/track/6vXpvdynJIA38p4ffg9buA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pa Ti + Lonely",
         "url": "https://open.spotify.com/album/006fEVu63b1nSxinsXZgAt"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 230026,
       "name": "Pa Ti",
       "url": "https://open.spotify.com/track/4agLM5EfiWR2AKMq7gFwcM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "On The 6",
+        "url": "https://open.spotify.com/album/43CV8Hxctvm8BUCesUaxMk"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "duration_ms": 245866,
+      "name": "Una Noche M\u00e1s",
+      "url": "https://open.spotify.com/track/6vXpvdynJIA38p4ffg9buA"
     },
     {
       "added_at": null,
@@ -851,30 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Double Vision (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2iTpTfHG5yui5JVtfRNOdK"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        },
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        },
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        }
-      ],
-      "duration_ms": 200922,
-      "name": "Back It Up (feat. Jennifer Lopez & Pitbull) - Video Version",
-      "url": "https://open.spotify.com/track/6Y0mJNAcx8CDBOhSy6icFP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dinero",
         "url": "https://open.spotify.com/album/1fT1s4VMXc9xGIamDyFz9S"
       },
@@ -895,6 +871,30 @@
       "duration_ms": 213750,
       "name": "Dinero",
       "url": "https://open.spotify.com/track/22mQXNE0nCuWq4yOwcadIn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Double Vision (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2iTpTfHG5yui5JVtfRNOdK"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        },
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "duration_ms": 200922,
+      "name": "Back It Up (feat. Jennifer Lopez & Pitbull) - Video Version",
+      "url": "https://open.spotify.com/track/6Y0mJNAcx8CDBOhSy6icFP"
     },
     {
       "added_at": null,

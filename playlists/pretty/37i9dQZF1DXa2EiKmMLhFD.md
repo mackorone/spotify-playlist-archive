@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2EiKmMLhFD.md) - [plain]
 
 > Hits terpanas dari Madison Beer, Idgitaf,  Rizky Febian, Adrian Khalif serta artis terfavorit Anda dari dalam negeri dan mancanegara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,425,738 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,425,833 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2EiKmMLhFD.md) - [plain]
 | 41 | [Tanda](https://open.spotify.com/track/1NB2xmVvtdTBX2YpQALP1Z) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Tanda](https://open.spotify.com/album/1lKDvWsHsALbpxocJROR5r) | 3:27 |
 | 42 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 |
 | 43 | [Titik Nadir \(feat\. Monita Tahalea\)](https://open.spotify.com/track/52m690jqpxP1tHHkRNdl5p) | [Kahitna](https://open.spotify.com/artist/2WhoMc7XqIzVXWbQqSoqe7), [Monita Tahalea](https://open.spotify.com/artist/1xQXTnhREkLm14Wvrogo1g) | [Titik Nadir](https://open.spotify.com/album/0IpT1x2OIQoUuY320ayTyh) | 4:05 |
-| 44 | [Salahi Aku \(Ku Jatuh Cinta Lagi\)](https://open.spotify.com/track/2AWbMJ1zHlXiSIzT93VeZ4) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0), [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Salahi Aku \(Ku Jatuh Cinta Lagi\)](https://open.spotify.com/album/6m3iOCDJ6F2jRM0suelfQZ) | 3:55 |
-| 45 | [hoRRReg](https://open.spotify.com/track/1gvI1nP8e6wr6KSilWutKz) | [Tenxi](https://open.spotify.com/artist/6vP4azTCk053nGL0xAYnVH), [Naufal Syachreza](https://open.spotify.com/artist/3x1vHC0kthfGxbY5w8AiRE), [Jemsii](https://open.spotify.com/artist/5PTw7KmM8c9QfBjU5caHWs) | [Puting Beliung](https://open.spotify.com/album/45uKX8IYbs9w5jbDNrRp4K) | 3:08 |
+| 44 | [EEEE A](https://open.spotify.com/track/4h07ne6Xf5AaCIGkrgNq1i) | [dia](https://open.spotify.com/artist/6WgjNWwGACXaBy7NZripBu) | [INI DIA](https://open.spotify.com/album/2zrnqv7JAhdID3uKiIxbUR) | 1:58 |
+| 45 | [Salahi Aku \(Ku Jatuh Cinta Lagi\)](https://open.spotify.com/track/2AWbMJ1zHlXiSIzT93VeZ4) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0), [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Salahi Aku \(Ku Jatuh Cinta Lagi\)](https://open.spotify.com/album/6m3iOCDJ6F2jRM0suelfQZ) | 3:55 |
 | 46 | [SO ASU](https://open.spotify.com/track/56TRhAB4SqpRn5NdqHSAFy) | [Naykilla](https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq) | [SO ASU](https://open.spotify.com/album/00r0dUE6PBHPNVsBsddH7t) | 2:36 |
-| 47 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 |
-| 48 | [Opalite](https://open.spotify.com/track/3euZKF0hmGxQ6h2JHHY4iu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9) | 3:55 |
+| 47 | [CHANEL](https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [CHANEL](https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59) | 3:08 |
+| 48 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 |
 | 49 | [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:49 |
 | 50 | [Die With A Smile](https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 4:11 |
 
-Snapshot ID: `AAAAAL+FgH1IP+PmcZt7ocZSmyoa0RB0`
+Snapshot ID: `AAAAAM7reTKbMgzWWkOk4LWBjUAAKRbq`

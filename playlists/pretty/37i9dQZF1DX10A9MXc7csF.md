@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: LENCHO
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,532 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,582 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 99 | [Amsterdam](https://open.spotify.com/track/7z5ZCEHWqTkMRwyVPPpWdC) | [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ) | [Amsterdam](https://open.spotify.com/album/3aTtfvqgxPLqRVdjCa7xIY) | 2:33 |
 | 100 | [No Pasa Nada](https://open.spotify.com/track/7FbPMf2BoNVfpPG5Yv2hIe) | [RIA](https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt) | [No Pasa Nada](https://open.spotify.com/album/1ZIKJLkZXQwteGXiwfzwkR) | 2:26 |
 
-Snapshot ID: `AAAAAHna0dwK8waZQ+RMDDVRkBG50jtQ`
+Snapshot ID: `AAAAAP7a+YlHbqWaVsN124JWut2IO+sD`

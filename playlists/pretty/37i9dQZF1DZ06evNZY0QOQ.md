@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZY0QOQ.md) - [plain]
 
 > This is CKay\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,635 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,639 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZY0QOQ.md) - [plain]
 | 49 | [kalakuta](https://open.spotify.com/track/0X5yARwJLSCTFhuJTSXvFU) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The First](https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih) | 2:39 |
 | 50 | [Problème](https://open.spotify.com/track/1IKD320Lvoj3TgAUnCVE28) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Ronisia \(Version Deluxe\)](https://open.spotify.com/album/6n3BM7djoly8rX6AG9dnFW) | 2:33 |
 
-Snapshot ID: `aU3QAAAAAAAaYy6jDJoRugWJwaeRNrs3`
+Snapshot ID: `aU8hgAAAAACKRDcDR5HY0wxvshjbnyRi`

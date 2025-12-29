@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 
 > ¡Disfruta con los grandes del rock colombiano! Foto: Pirineos en Llamas
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,726 likes - 60 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,717 likes - 60 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 | 41 | [Prende](https://open.spotify.com/track/1MkRoo0Vr7Ol8BMQ6bMbGs) | [Tequendama](https://open.spotify.com/artist/5jtmZEtfuDg8on48lsLxmU) | [Prende](https://open.spotify.com/album/4yoIFrJyYMVB78v2oVYzHG) | 3:17 |
 | 42 | [Sed](https://open.spotify.com/track/5NIiEaXpBzGAUVNPwWqZJg) | [Lucio Feuillet](https://open.spotify.com/artist/5cV9Dza9Slv8jlGAzYYiCy) | [Sed](https://open.spotify.com/album/0G7nexrpLnddOAHIoyEIxn) | 4:59 |
 | 43 | [Estallados](https://open.spotify.com/track/3FO2k1oUkFBsU63BqVIGRS) | [Los Niños Telepaticos](https://open.spotify.com/artist/2XrYe0zAKNrysuK1IuatTU) | [Estallados](https://open.spotify.com/album/0bKbPtDXlXn07olVlaIAnr) | 4:30 |
-| 44 | [La Fuente](https://open.spotify.com/track/2c6niSBI2M7gqVK1tWwEhu) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7) | [La Fuente](https://open.spotify.com/album/0oMlRNLt7gEZrftInylnmT) | 5:27 |
-| 45 | [Hoy](https://open.spotify.com/track/7MMPHXwa2wVGlUCKfSnC4t) | [Cielito Drive](https://open.spotify.com/artist/1QplpI4W7QuaxzxEpjKayY) | [Hoy](https://open.spotify.com/album/5SdzuAGnAPzSOCJPStzDIY) | 4:36 |
+| 44 | [Hoy](https://open.spotify.com/track/7MMPHXwa2wVGlUCKfSnC4t) | [Cielito Drive](https://open.spotify.com/artist/1QplpI4W7QuaxzxEpjKayY) | [Hoy](https://open.spotify.com/album/5SdzuAGnAPzSOCJPStzDIY) | 4:36 |
+| 45 | [La Fuente](https://open.spotify.com/track/2c6niSBI2M7gqVK1tWwEhu) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7) | [La Fuente](https://open.spotify.com/album/0oMlRNLt7gEZrftInylnmT) | 5:27 |
 | 46 | [Antes de Que Sea Muy Tarde](https://open.spotify.com/track/5bIuihsCdiDMA6MmlGFgre) | [Sismo](https://open.spotify.com/artist/3KMQT3nOebFOgoE3p35zVq) | [Antes de Que Sea Muy Tarde](https://open.spotify.com/album/6FFIXNpWmBGwZijE6A9lNe) | 3:12 |
 | 47 | [Solo tú](https://open.spotify.com/track/5WyavosRBdYVkapSLgqGC4) | [APOLO 7](https://open.spotify.com/artist/322BLVw40Mq2hWHxGLykr6) | [Solo tú](https://open.spotify.com/album/4x11yXJ8tg1D9tnY2DII65) | 4:07 |
 | 48 | [Ver Tus Ojos Mirándome](https://open.spotify.com/track/2Xxh2rUEtoEouNW8rxzEoT) | [Volcán](https://open.spotify.com/artist/1DIDvOLPitMH37cPk30xIY) | [Ver Tus Ojos Mirándome](https://open.spotify.com/album/5krMOq6LzqIrC7h8FBjaw1) | 3:30 |

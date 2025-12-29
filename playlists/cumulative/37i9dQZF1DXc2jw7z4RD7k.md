@@ -4,7 +4,7 @@
 
 > It's giving coastal grandmother, it's giving Diane Keaton, it's giving apple pies.
 
-123 songs - 7 hr 4 min
+124 songs - 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Blue Bayou](https://open.spotify.com/track/3w67gvawlNpzU1YiP355OM) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Kellyoke](https://open.spotify.com/album/6NHAQ0pGd5ufv61Irqdpmi) | 3:52 | 2022-06-09 | 2022-07-29 |
 | [Blue Moon \- From “Grease”](https://open.spotify.com/track/2FFtdB45Z414KPXa8lsd1S) | [Sha Na Na](https://open.spotify.com/artist/2SmjZ060s1uBMud6afmImP) | [Grease \(The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq) | 2:23 | 2022-05-13 | 2022-08-30 |
 | [Brown Eyed Girl](https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Blowin' Your Mind!](https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC) | 3:03 | 2022-07-26 |  |
-| [Build Me Up Buttercup](https://open.spotify.com/track/6sPOmDulFtLzfX25zICNrC) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [The Foundations](https://open.spotify.com/album/3j1kw5l2mEeKCUuXXwjhWp) | 2:57 | 2022-06-09 |  |
+| [Build Me Up Buttercup](https://open.spotify.com/track/6sPOmDulFtLzfX25zICNrC) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [The Foundations](https://open.spotify.com/album/3j1kw5l2mEeKCUuXXwjhWp) | 2:57 | 2022-06-09 | 2025-12-29 |
 | [Build Me Up Buttercup \(Mono\)](https://open.spotify.com/track/1tfZtA15BfJHQTUy3dqTKC) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [Baby Now That I've Found You](https://open.spotify.com/album/7LFpclH3t4SnxqZpbjvSwE) | 3:00 | 2023-09-02 | 2024-04-19 |
 | [Burning Love](https://open.spotify.com/track/7zMUCLm1TN9o9JlLISztxO) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis \(Fool\)](https://open.spotify.com/album/3gpHiNAmT5oXVxe6ewTGuN) | 2:50 | 2022-06-30 | 2022-07-27 |
 | [C'est Si Bon](https://open.spotify.com/track/5ltdjMGizJoqS5x7rZzij2) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [Something's Gotta Give \- Music From The Motion Picture](https://open.spotify.com/album/40ibEmtXTv68y88YPXDoI4) | 2:57 | 2022-05-13 |  |
@@ -64,6 +64,7 @@
 | [I Got You Babe](https://open.spotify.com/track/4SGBuq37Ol4HJr7pQqFMKa) | [Sonny & Cher](https://open.spotify.com/artist/71lGEtP9qYXDsSXjfexTqO) | [Look At Us](https://open.spotify.com/album/4VFnAIRrYMA3iEHpjNP5cH) | 3:10 | 2022-07-18 |  |
 | [I Only Have Eyes for You](https://open.spotify.com/track/3YdKJzcoMZMacISlpY4QoP) | [The Flamingos](https://open.spotify.com/artist/6iygtKnPG7TRvDaTYcLOd6) | [Flamingo Serenade](https://open.spotify.com/album/6XEtlJFNCbNrIz1Q5kdLjZ) | 3:22 | 2022-07-18 |  |
 | [I Say a Little Prayer](https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Aretha Now](https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC) | 3:36 | 2022-05-13 |  |
+| [I Thought I Saw Your Face Today](https://open.spotify.com/track/0myRViRgmQ3J8izICXEAVO) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Volume One](https://open.spotify.com/album/4eeQtydrFe5HEIgzNkX4S7) | 2:50 | 2025-12-29 |  |
 | [I'm Not The Only One](https://open.spotify.com/track/7795WJLVKJoAyVoOtCWqXN) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour](https://open.spotify.com/album/08jWgM4vSkTose4blKBWov) | 3:59 | 2022-07-26 | 2023-09-03 |
 | [I'm Yours](https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [We Sing\. We Dance\. We Steal Things.](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) | 4:02 | 2022-07-19 |  |
 | [If I Can Dream \- Live from the '68 Comeback Special](https://open.spotify.com/track/1Uxk2dxmATlKH5quLX2iFG) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [NBC\-TV Special \(Live\)](https://open.spotify.com/album/4OaxrDxZe97lotUT4cxoRX) | 3:20 | 2022-07-26 | 2023-09-03 |

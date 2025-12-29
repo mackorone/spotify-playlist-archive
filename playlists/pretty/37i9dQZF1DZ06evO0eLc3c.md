@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eLc3c.md) - [plain]
 
 > This is Patti Smith\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,347 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,352 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eLc3c.md) - [plain]
 | 45 | [Gone Again](https://open.spotify.com/track/2lkuP38GN1VvwfGJvANUei) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Gone Again](https://open.spotify.com/album/70BHwvG9ikXsffsWfHrWzi) | 3:16 |
 | 46 | [Helpless](https://open.spotify.com/track/1eXtvbH5AfeRC14QqtJXcZ) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Twelve](https://open.spotify.com/album/3hlHi5Mz5hRao09uUvT0ta) | 4:02 |
 | 47 | [Seneca](https://open.spotify.com/track/5ZbsRAI0L22x5wV9sjvT1m) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Banga](https://open.spotify.com/album/67epO9J9KoY8KSFA4xC4kA) | 5:40 |
-| 48 | [These Are The Words \- From "Pope Francis: A Man of His Word"](https://open.spotify.com/track/4VA2oV0FfcpaAowScXnR18) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [These Are The Words \(From "Pope Francis: A Man of His Word"\)](https://open.spotify.com/album/2fXB301xeX4kcuMd4lD5x6) | 4:25 |
+| 48 | [Glitter In Their Eyes](https://open.spotify.com/track/3XGLnUh9XzH1KiAobnpzsv) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Gung Ho](https://open.spotify.com/album/6H6ntLDDo8dC7dHKg1UYSE) | 3:03 |
 | 49 | [Beneath the Southern Cross](https://open.spotify.com/track/1KRWRshqiMiYm6cTped4pp) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Gone Again](https://open.spotify.com/album/70BHwvG9ikXsffsWfHrWzi) | 4:34 |
-| 50 | [Glitter In Their Eyes](https://open.spotify.com/track/3XGLnUh9XzH1KiAobnpzsv) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Gung Ho](https://open.spotify.com/album/6H6ntLDDo8dC7dHKg1UYSE) | 3:03 |
+| 50 | [These Are The Words \- From "Pope Francis: A Man of His Word"](https://open.spotify.com/track/4VA2oV0FfcpaAowScXnR18) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [These Are The Words \(From "Pope Francis: A Man of His Word"\)](https://open.spotify.com/album/2fXB301xeX4kcuMd4lD5x6) | 4:25 |
 
-Snapshot ID: `aU3QAAAAAADkASxiqGt6nV3f81BJCv8O`
+Snapshot ID: `aU8hgAAAAAAVyEWXnNEFTKHzAikXJ7Gb`

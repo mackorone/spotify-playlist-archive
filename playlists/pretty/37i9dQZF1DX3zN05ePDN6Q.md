@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > boom bap renasce todo dia\. Foto: Sant, L7NNON, Mc Marechal
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,059 likes - 77 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,083 likes - 77 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 76 | [Hard Crocante](https://open.spotify.com/track/2YiCtJoxUc2NgtD15qasXf) | [Old Dirty Bacon](https://open.spotify.com/artist/47u3qUpiwYT0NFBO75umme), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Hard Crocante](https://open.spotify.com/album/040CbrLy89H8JZDSLOrlW5) | 3:10 |
 | 77 | [Alucinações e Reflexões](https://open.spotify.com/track/5VCs1YptggXPpaBzlxIrb1) | [PaZSado](https://open.spotify.com/artist/2CIlA8xeXEe4ZIANVB05Yv), [Digmanybeats](https://open.spotify.com/artist/6S3UKXF6SJpHxa0IAsiFrf), [Sujoground](https://open.spotify.com/artist/2sngdu3B3WLqIsadMhHDa2), [Janvi](https://open.spotify.com/artist/2tPIG7AhyjtuKf58E5SFaJ) | [Alucinações e Reflexões](https://open.spotify.com/album/24jiVLscggBO4g0smxg7fC) | 2:01 |
 
-Snapshot ID: `AAAAALfZMmjUSCKJ4Tp9Z4acOOHAepKz`
+Snapshot ID: `AAAAAPtOPXTIahtsgRNRnVqmpqTdJzdd`

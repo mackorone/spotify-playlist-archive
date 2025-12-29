@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UHpXG.md) - [plain]
 
 > This is Motörhead\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,718 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,758 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UHpXG.md) - [plain]
 | 39 | [Enter Sandman](https://open.spotify.com/track/1qCzMC5pDBqNp0IhpM63PL) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Enter Sandman EP](https://open.spotify.com/album/6TSfhXrlydR29cJUEh1PyL) | 5:12 |
 | 40 | [One More Fucking Time](https://open.spotify.com/track/6SUarxODjZG2Ke0Fwm1Br8) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [We Are Motörhead](https://open.spotify.com/album/5qa57QOyTJ8EeZmOEno8Rn) | 6:46 |
 | 41 | [Eat the Rich](https://open.spotify.com/track/6WcyOskUC1L0ZyHgkPDc7V) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Rock N' Roll \(Expanded Edition\)](https://open.spotify.com/album/0Ghu8Pkq9lSZTQkmYcf3uU) | 4:34 |
-| 42 | [Smiling Like a Killer](https://open.spotify.com/track/0qLSsQuXKJtyksRccXkZSM) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Inferno](https://open.spotify.com/album/23G3SEackzrkzQQRG4UpeE) | 2:44 |
-| 43 | [Thunder & Lightning](https://open.spotify.com/track/6qcdpwb8HuELdtekAB4v4c) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bad Magic](https://open.spotify.com/album/6dMv1580G91kLYjquABSPQ) | 3:06 |
+| 42 | [Thunder & Lightning](https://open.spotify.com/track/6qcdpwb8HuELdtekAB4v4c) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bad Magic](https://open.spotify.com/album/6dMv1580G91kLYjquABSPQ) | 3:06 |
+| 43 | [Smiling Like a Killer](https://open.spotify.com/track/0qLSsQuXKJtyksRccXkZSM) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Inferno](https://open.spotify.com/album/23G3SEackzrkzQQRG4UpeE) | 2:44 |
 | 44 | [Deaf Forever](https://open.spotify.com/track/4U9PDEya4AvkU4yLDRIhsM) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Orgasmatron](https://open.spotify.com/album/4bVbdsl3q1Bnsn6Eq8MKJI) | 4:26 |
 | 45 | [1916](https://open.spotify.com/track/5gp9UXTiUKw0EbKdmdln9O) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [1916](https://open.spotify.com/album/6mvrfjdgSvwcDXhxyVjWTx) | 3:44 |
 | 46 | [Iron Horse / Born to Lose](https://open.spotify.com/track/36RgRUa3BvsValxV6Jjdao) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Motorhead](https://open.spotify.com/album/5vYvX7jM5TAg7fzK1oKySe) | 5:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UHpXG.md) - [plain]
 | 49 | [Dead Men Tell No Tales](https://open.spotify.com/track/20KE0WQNmYYYhI2U5coisY) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Bomber](https://open.spotify.com/album/0WVRXw04iy4QN2EnmXx11I) | 3:04 |
 | 50 | [Killers](https://open.spotify.com/track/0gYX80G1UvhaGcpkuWwIuY) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Inferno](https://open.spotify.com/album/23G3SEackzrkzQQRG4UpeE) | 4:14 |
 
-Snapshot ID: `aU3QAAAAAABVeGgF+xKeMGH/svO4VekI`
+Snapshot ID: `aU8hgAAAAAAXOW3tThZ0IyVf/8YAGg+L`

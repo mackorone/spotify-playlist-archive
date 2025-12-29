@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XbKgPOSda8.md) - [plain]
 
 > ¡Oi nomás ese cumbión!
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,219 likes - 125 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,277 likes - 125 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,13 +21,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XbKgPOSda8.md) - [plain]
 | 11 | [El Listón De Tu Pelo](https://open.spotify.com/track/5hrxAFrYbNTLjAYSrmbpgr) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Una Lluvia De Rosas](https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv) | 3:36 |
 | 12 | [Amor Secreto](https://open.spotify.com/track/3MFDQq6V7GW6OmhVWIyrHO) | [Los Angeles De Charly](https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL) | [La Magia Del Amor](https://open.spotify.com/album/5a8Au4FTsdvCWYV5OnkjzN) | 3:04 |
 | 13 | [Na Na Na \(Dulce Niña\)](https://open.spotify.com/track/3o3eHNNF5HDU3I0Jg25SGD) | [A.B\. Quintanilla III Y Los Kumbia Kings](https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL) | [Lo Mejor De...](https://open.spotify.com/album/5J1qxK7rxPeYi7wgQALes2) | 3:27 |
-| 14 | [Besar Tu Piel](https://open.spotify.com/track/3sxYWCxHH0TcbPcEd6Ie0N) | [Rayito Colombiano](https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn) | [Cicatrices](https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm) | 3:24 |
-| 15 | [El Viejo Del Sombrerón](https://open.spotify.com/track/287DFeg3xmSQbiu2shxHlI) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [La Morocha](https://open.spotify.com/artist/5nWfqSJHayE4qvjUxoQfMu) | [Juntos Por La Sonora](https://open.spotify.com/album/0exIxyDjKib8Qbc7RTeIG5) | 4:15 |
+| 14 | [El Viejo Del Sombrerón](https://open.spotify.com/track/287DFeg3xmSQbiu2shxHlI) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [La Morocha](https://open.spotify.com/artist/5nWfqSJHayE4qvjUxoQfMu) | [Juntos Por La Sonora](https://open.spotify.com/album/0exIxyDjKib8Qbc7RTeIG5) | 4:15 |
+| 15 | [Besar Tu Piel](https://open.spotify.com/track/3sxYWCxHH0TcbPcEd6Ie0N) | [Rayito Colombiano](https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn) | [Cicatrices](https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm) | 3:24 |
 | 16 | [Entrega De Amor](https://open.spotify.com/track/2SNP0sm56HwUvZh7bL66pi) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Entrega De Amor](https://open.spotify.com/album/5RskNC4hvSZfi1b2k1tFPw) | 2:56 |
 | 17 | [Que Levante La Mano](https://open.spotify.com/track/36TIklA7o1T0eXS83n1amI) | [Los Angeles De Charly](https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL) | [Te Voy A Enamorar](https://open.spotify.com/album/2vnk3clo4g2pmzD2P5QaDp) | 3:50 |
 | 18 | [Díganle](https://open.spotify.com/track/7Gc9iCkANNOlw32jQCemjz) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Con la Misma Moneda](https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc) | 3:22 |
-| 19 | [Al Despertar](https://open.spotify.com/track/0GCM7zzCulIbsU07Tt8trk) | [Rayito Colombiano](https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn) | [Qué Cante El Amor](https://open.spotify.com/album/0vPT6w0dqWEo45IJuqqAuo) | 3:22 |
-| 20 | [Amor De Tres](https://open.spotify.com/track/2EAXWHqQhNxgJbg1ZnOXZ3) | [Aroma](https://open.spotify.com/artist/0IZ9yCkg8kUjJNwMA8SHYX) | [Amor De 3](https://open.spotify.com/album/70l7WreOvHkn9Jqbh0aqsF) | 3:08 |
+| 19 | [Amor De Tres](https://open.spotify.com/track/2EAXWHqQhNxgJbg1ZnOXZ3) | [Aroma](https://open.spotify.com/artist/0IZ9yCkg8kUjJNwMA8SHYX) | [Amor De 3](https://open.spotify.com/album/70l7WreOvHkn9Jqbh0aqsF) | 3:08 |
+| 20 | [Al Despertar](https://open.spotify.com/track/0GCM7zzCulIbsU07Tt8trk) | [Rayito Colombiano](https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn) | [Qué Cante El Amor](https://open.spotify.com/album/0vPT6w0dqWEo45IJuqqAuo) | 3:22 |
 | 21 | [17 Años](https://open.spotify.com/track/1Y372uxsCkKqNclj2ercap) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Una Lluvia De Rosas](https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv) | 3:01 |
 | 22 | [Me Vas A Recordar](https://open.spotify.com/track/4C2vKZ0tciewPr6RrYZ4QD) | [Los Angeles De Charly](https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL) | [La Magia Del Amor](https://open.spotify.com/album/5a8Au4FTsdvCWYV5OnkjzN) | 3:00 |
 | 23 | [Rumba Frenesi](https://open.spotify.com/track/0LaFg7YyQMaHkWyj497YLI) | [Grupo Kual?](https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX) | [Los Reyes de la Cumbia Sonidera \(En México\)](https://open.spotify.com/album/23WjnVpH4goH0hbfQ7Xs8B) | 5:11 |

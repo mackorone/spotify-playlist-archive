@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPFHSu0Q0l03.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Zbqt8mPfYuL4tGBq13sFT">Aaron Dessner</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,097 likes - 267 songs - 17 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,096 likes - 267 songs - 17 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPFHSu0Q0l03.md) - [plain]
 | 93 | [Vega](https://open.spotify.com/track/1DSwFkEe28GSFmdIK92OFX) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 2:58 |
 | 94 | [Sea of Love](https://open.spotify.com/track/1nXasqw1Y79vUwGFtrwD6p) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Trouble Will Find Me](https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL) | 3:41 |
 | 95 | [Mistaken for Strangers](https://open.spotify.com/track/3ZzqHdvCdoeOhVnhRiUn8f) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Boxer](https://open.spotify.com/album/3Td1c2eAXaFzU4F8QCbFbp) | 3:30 |
-| 96 | [Dusty](https://open.spotify.com/track/4u4A4lPpiw54evLxTaLeRJ) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 3:42 |
-| 97 | [Right now](https://open.spotify.com/track/5qCZTDYRqMENitupuEaILd) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 5:50 |
+| 96 | [Right now](https://open.spotify.com/track/5qCZTDYRqMENitupuEaILd) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 5:50 |
+| 97 | [Dusty](https://open.spotify.com/track/4u4A4lPpiw54evLxTaLeRJ) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 3:42 |
 | 98 | [The blue](https://open.spotify.com/track/7jkelF6xQ9oM8BEZRARhhC) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 5:00 |
 | 99 | [Rylan](https://open.spotify.com/track/6XxPXXqkE4lG7MVkpom6F8) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [I Am Easy to Find](https://open.spotify.com/album/5M5LPGsAR9mxbBa22GOp5h) | 3:43 |
 | 100 | [Dark Side of the Gym](https://open.spotify.com/track/5nKH6bOVogJdgfH031s1P1) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Sleep Well Beast](https://open.spotify.com/album/2lsM7Py65EOtlq8BgwkXCS) | 4:50 |
@@ -215,8 +215,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPFHSu0Q0l03.md) - [plain]
 | 205 | [Smoke Detector](https://open.spotify.com/track/19UdMxbNoAmQcgrF8kXaSb) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Laugh Track](https://open.spotify.com/album/7re8T0K3s8v3S3xeiQcOYi) | 7:47 |
 | 206 | [Fashion Coat \- 2021 Remaster](https://open.spotify.com/track/37QqI1M6gWPBTTrhtPL9fb) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Sad Songs for Dirty Lovers \(2021 Remaster\)](https://open.spotify.com/album/1ajnGNtwwT0jwpOhDWHZzt) | 2:02 |
 | 207 | [Forever After Days \- Demo](https://open.spotify.com/track/38NxpyvqZy54O00SN1nLOH) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [A Skin, A Night + The Virginia EP](https://open.spotify.com/album/7zoPW334cQNfQyWWteTwMj) | 3:01 |
-| 208 | [Beautiful Head \- 2021 Remaster](https://open.spotify.com/track/5n7ZqHJo1d3ensM9ovgpF4) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [The National \(2021 Remaster\)](https://open.spotify.com/album/68NmQ5XgjHsKYcJZJKkvSp) | 3:08 |
-| 209 | [Coat on a Hook](https://open.spotify.com/track/1fdvImMImBQAmX7MCCCtJT) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Laugh Track](https://open.spotify.com/album/7re8T0K3s8v3S3xeiQcOYi) | 4:58 |
+| 208 | [Coat on a Hook](https://open.spotify.com/track/1fdvImMImBQAmX7MCCCtJT) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Laugh Track](https://open.spotify.com/album/7re8T0K3s8v3S3xeiQcOYi) | 4:58 |
+| 209 | [Beautiful Head \- 2021 Remaster](https://open.spotify.com/track/5n7ZqHJo1d3ensM9ovgpF4) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [The National \(2021 Remaster\)](https://open.spotify.com/album/68NmQ5XgjHsKYcJZJKkvSp) | 3:08 |
 | 210 | [Air Stryp](https://open.spotify.com/track/2PnrXPt6gxIzxB4Pnerk5z) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O) | [Big Red Machine](https://open.spotify.com/album/1c3dz3iboMl5gWpLfTi6D2) | 2:03 |
 | 211 | [New Auburn](https://open.spotify.com/track/3CGuLclpNF2xFTOoONWmQX) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 3:24 |
 | 212 | [I Hate Myself, I Want To Party](https://open.spotify.com/track/4Sn7ySAR30siowyB0jWqqX) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Hold On Baby](https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c) | 3:54 |
@@ -276,4 +276,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPFHSu0Q0l03.md) - [plain]
 | 266 | [Hold On](https://open.spotify.com/track/3u8YEarq9quMVJqCFzSayu) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Hysteria](https://open.spotify.com/album/1yZlQ1M6CLciH3x74848nk) | 3:36 |
 | 267 | [Conversation 16](https://open.spotify.com/track/5oCTSVz91wGO0k64vVmkiY) | [Scream Silence](https://open.spotify.com/artist/2JmERTSFL7NdBSGRnEduLf) | [Heartburnt](https://open.spotify.com/album/0m06y2RzVqnUv7rb5TW9W1) | 5:05 |
 
-Snapshot ID: `AcFYEgAAAACLpLDJ9/dSzvTFN4KE2Y3a`
+Snapshot ID: `AcFdqAAAAAAHHNbRkyD6WoZTtnDLFflZ`

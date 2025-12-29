@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 
 > Rock never dies\. Cover: Deftones
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,282,457 likes - 75 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,282,137 likes - 75 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 | 74 | [Fantasy](https://open.spotify.com/track/5KYtpMiqtObbbgsevOnFOi) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Are We All Angels](https://open.spotify.com/album/0zDdwRsOg2sVvOFpjEOtHs) | 3:29 |
 | 75 | [Unbloom](https://open.spotify.com/track/3XYmSdSxnThuQvZbbjHiji) | [Gretel](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Unbloom](https://open.spotify.com/album/5PgwGQCUIn7zXwoujJRjis) | 3:22 |
 
-Snapshot ID: `AAAAAIrnWAJ6N6HURqjcRNZboM01lLLG`
+Snapshot ID: `AAAAALQyzvBdl8ALHWsVN5o066Hw9KQV`

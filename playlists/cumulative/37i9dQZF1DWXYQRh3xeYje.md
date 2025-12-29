@@ -4,7 +4,7 @@
 
 > Vaundyの楽曲を1つのプレイリストで。All the essentials from Vaundy.
 
-86 songs - 7 hr 23 min
+87 songs - 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [僕は今日も](https://open.spotify.com/track/1XFMSrIWOhzAEbZhH1rspS) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/7bBfstaSAzGc11JfgU40oJ) | 5:27 | 2024-02-27 |  |
 | [再会](https://open.spotify.com/track/7c1icp8E7aYG90vA3wo3Se) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [再会](https://open.spotify.com/album/7dGOGN5Fomqi84zOzyVKva) | 4:20 | 2025-07-12 |  |
 | [前前前世](https://open.spotify.com/track/24nTgzIrn2dHN3WvZPyLwO) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [前前前世](https://open.spotify.com/album/6XkfmapC3io74pT99ozLaW) | 4:22 | 2025-11-18 |  |
+| [呼び声](https://open.spotify.com/track/3kQf453SpkwX7ALdgzNSNY) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [呼び声](https://open.spotify.com/album/3RhkGySFESW5d50IlNWuP1) | 3:54 | 2025-12-28 |  |
 | [呼吸のように](https://open.spotify.com/track/419L5Vb2jXSEm19LH9IbmV) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 5:45 | 2023-11-14 |  |
 | [地球儀](https://open.spotify.com/track/6NffEVuGbmTvIpfSS93aMU) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm), [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [地球儀](https://open.spotify.com/album/486yrlQRriPBlck0MpnNRA) | 3:52 | 2023-11-14 |  |
 | [宮](https://open.spotify.com/track/2EOOd0UJfRZzzlok8IZ6iZ) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 5:15 | 2023-11-14 |  |

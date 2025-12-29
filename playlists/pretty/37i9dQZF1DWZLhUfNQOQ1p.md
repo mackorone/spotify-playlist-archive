@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 
 > Musica da ascoltare con un drink in mano 🥃
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,659 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,648 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 74 | [Since I Left You](https://open.spotify.com/track/2DgFCys3XMrWZDngu1CrRy) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED) | [Since I Left You](https://open.spotify.com/album/0CvU96jYCiNP4c9u8dWHoI) | 4:22 |
 | 75 | [Good Life \(Remastered\)](https://open.spotify.com/track/67zr6xdiSAhsuyvL2Dczc1) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [Dantiez](https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma) | [Good Life \(Remastered\)](https://open.spotify.com/album/5O2HWH0ZfYJl6DAkzU50UK) | 3:16 |
 | 76 | [Enjoy Your Life](https://open.spotify.com/track/0hlddFDTZxC81BMFC2WINw) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Oby Onyioha](https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY) | [Eternal Reverie](https://open.spotify.com/album/7xDQlillR9FwIIoxgKSEQb) | 3:34 |
-| 77 | [Pullin'](https://open.spotify.com/track/20WQJASER0SwoV5SmHQzIa) | [Collect 200](https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE) | [Pullin'](https://open.spotify.com/album/6qMnsmBLNjDqti2c1yq0em) | 3:40 |
-| 78 | [Fresh \- House of Prayers Poolside Edit](https://open.spotify.com/track/71vqZFDzzvwt7tsTYy1g01) | [Crazibiza](https://open.spotify.com/artist/7gLis8CQkAQ7fJJNTWQNU1), [House of Prayers](https://open.spotify.com/artist/6UZpnBnk8Ubc6fflLAb6qg) | [Fresh](https://open.spotify.com/album/3VYGGCtGjNHGOSFkYVNmLV) | 4:44 |
+| 77 | [Fresh \- House of Prayers Poolside Edit](https://open.spotify.com/track/71vqZFDzzvwt7tsTYy1g01) | [Crazibiza](https://open.spotify.com/artist/7gLis8CQkAQ7fJJNTWQNU1), [House of Prayers](https://open.spotify.com/artist/6UZpnBnk8Ubc6fflLAb6qg) | [Fresh](https://open.spotify.com/album/3VYGGCtGjNHGOSFkYVNmLV) | 4:44 |
+| 78 | [Pullin'](https://open.spotify.com/track/20WQJASER0SwoV5SmHQzIa) | [Collect 200](https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE) | [Pullin'](https://open.spotify.com/album/6qMnsmBLNjDqti2c1yq0em) | 3:40 |
 | 79 | [Jazz Club After Hours](https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Jazz Club After Hours](https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv) | 4:54 |
 | 80 | [So Nice To Be In Love](https://open.spotify.com/track/4N65OwkWDhXUUCEAhU7LGO) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Mascolo](https://open.spotify.com/artist/1hssO6mIBREUt4w6riUeBp) | [So Nice To Be In Love](https://open.spotify.com/album/5P5Jqgw0NsyPMxmRTcQWIW) | 2:34 |
 | 81 | [Alive](https://open.spotify.com/track/1dFbbBKiOn1LnldZUSaWQ8) | [WITH U](https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV), [Albert Breaker](https://open.spotify.com/artist/7ARLlH0R0zY7aeLrzeUYIf), [mohalizer](https://open.spotify.com/artist/4mxLi0WiovhOvdkqofGO2i) | [Alive](https://open.spotify.com/album/01D4KOudqfxOzPiQawG9PO) | 3:12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXF8Nf1uycDZ.md) - [plain]
 
 > This week: the one and only Craig David presents UK legends of the 00s!
 
-[Spotify](https://open.spotify.com/user/spotify) - 853,384 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 853,329 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

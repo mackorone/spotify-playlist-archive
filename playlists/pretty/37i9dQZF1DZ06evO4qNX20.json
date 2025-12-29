@@ -1,12 +1,12 @@
 {
   "description": "This is Chalino Sanchez. The essential tracks, all in one playlist.",
-  "num_followers": 341770,
+  "num_followers": 341823,
   "original_name": "This Is Chalino Sanchez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU3QAAAAAADSow5l1QqKPHesYuNKl0fR",
+  "snapshot_id": "aU8hgAAAAABb4cHFCOHooMMI11KW93ab",
   "tracks": [
     {
       "added_at": null,
@@ -47,6 +47,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chalino S\u00e1nchez Con Mariachi",
+        "url": "https://open.spotify.com/album/5mH9ZEaAY0vYLm3WhN3v3e"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "duration_ms": 196998,
+      "name": "Prenda Del Alma",
+      "url": "https://open.spotify.com/track/5LdAZLnzlLjL11FWLUBdMe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Recordando A Chalino",
         "url": "https://open.spotify.com/album/0p091X45za7loFjKaHPLaj"
       },
@@ -63,22 +79,6 @@
       "duration_ms": 179211,
       "name": "Los Chismes",
       "url": "https://open.spotify.com/track/7vafql00S0tEJ8tPpRZFFz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chalino S\u00e1nchez Con Mariachi",
-        "url": "https://open.spotify.com/album/5mH9ZEaAY0vYLm3WhN3v3e"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        }
-      ],
-      "duration_ms": 196998,
-      "name": "Prenda Del Alma",
-      "url": "https://open.spotify.com/track/5LdAZLnzlLjL11FWLUBdMe"
     },
     {
       "added_at": null,
@@ -603,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Puros \u00c9xitos de Colecci\u00f3n!",
+        "url": "https://open.spotify.com/album/14GVG63R0wtjny1CYM6Lp3"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "duration_ms": 190706,
+      "name": "Las Uvas",
+      "url": "https://open.spotify.com/track/0yKP2J1zimhQ6VfWnEvCCF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chalino S\u00e1nchez con Banda Brava",
         "url": "https://open.spotify.com/album/4GmmvkdzlwP5TDac2be0hK"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 242439,
       "name": "Mario Portillo",
       "url": "https://open.spotify.com/track/0HXYmIG0cO3y0ASrZiezJx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Puros \u00c9xitos de Colecci\u00f3n!",
-        "url": "https://open.spotify.com/album/14GVG63R0wtjny1CYM6Lp3"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        }
-      ],
-      "duration_ms": 190706,
-      "name": "Las Uvas",
-      "url": "https://open.spotify.com/track/0yKP2J1zimhQ6VfWnEvCCF"
     },
     {
       "added_at": null,

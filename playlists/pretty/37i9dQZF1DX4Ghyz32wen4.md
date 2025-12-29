@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ghyz32wen4.md) - [plain]
 
 > Una selección de temas de amor y desamor, con mucho feeling\. Micro TDH en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,337 likes - 102 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,323 likes - 102 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

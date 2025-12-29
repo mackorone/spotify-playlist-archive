@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73CRmw4CiSI.md) - [plain]
 
 > Rock y rumba para esos días de sol, sangría y amigxs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,857 likes - 90 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,877 likes - 90 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73CRmw4CiSI.md) - [plain]
 | 28 | [Lady Madrid](https://open.spotify.com/track/5NQw5WJwKRPaaSDHXD04Fs) | [Pereza](https://open.spotify.com/artist/6mfK6Q2tzLMEchAr0e9Uzu) | [Aviones](https://open.spotify.com/album/5E2LBAl6sq7k4TdAPqSCMH) | 3:11 |
 | 29 | [La taberna del Buda](https://open.spotify.com/track/40A11dg6RXzfDrwMrw5sED) | [Café Quijano](https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z) | [La taberna del Buda](https://open.spotify.com/album/3y9cYm531Ep362lZZtCNxw) | 3:46 |
 | 30 | [Veneno en la Piel](https://open.spotify.com/track/3RDMd9JiKdVik8zjGhZ0wJ) | [Radio Futura](https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM) | [Caja de Canciones](https://open.spotify.com/album/7jQpgqGu7K5xj7ml8pw3R1) | 3:45 |
-| 31 | [Mi Agüita Amarilla](https://open.spotify.com/track/2fYRXoal0ysbJJBUddCGDb) | [Los Toreros Muertos](https://open.spotify.com/artist/6o3v1RDHCgICZ7I4y1BtJI) | [30 Años de Éxitos](https://open.spotify.com/album/2LiQiHqbqGuzxXYYnfcySo) | 5:39 |
-| 32 | [Todos los días sale el sol](https://open.spotify.com/track/1tmwswvJnwOIrskyCKVsgv) | [Bongo Botrako](https://open.spotify.com/artist/6XcqNunmoXrhbq6rAYgFxJ) | [Todos Los Días Sale El Sol](https://open.spotify.com/album/6qpGqHU6oXNUqluVYz0coh) | 2:26 |
+| 31 | [Todos los días sale el sol](https://open.spotify.com/track/1tmwswvJnwOIrskyCKVsgv) | [Bongo Botrako](https://open.spotify.com/artist/6XcqNunmoXrhbq6rAYgFxJ) | [Todos Los Días Sale El Sol](https://open.spotify.com/album/6qpGqHU6oXNUqluVYz0coh) | 2:26 |
+| 32 | [Mi Agüita Amarilla](https://open.spotify.com/track/2fYRXoal0ysbJJBUddCGDb) | [Los Toreros Muertos](https://open.spotify.com/artist/6o3v1RDHCgICZ7I4y1BtJI) | [30 Años de Éxitos](https://open.spotify.com/album/2LiQiHqbqGuzxXYYnfcySo) | 5:39 |
 | 33 | [Déjame](https://open.spotify.com/track/74anwTmdyvA3f8RUtCQqKD) | [Los Secretos](https://open.spotify.com/artist/2KEDbpUlz9nwtGywHT4gyf) | [Los Secretos](https://open.spotify.com/album/1XVL4fl2DMeU1JOPVH6K17) | 2:40 |
 | 34 | [La lista de la compra \(feat\. María Jiménez\)](https://open.spotify.com/track/6htAV9HKCmoDdyyvDNX9DQ) | [La Cabra Mecanica](https://open.spotify.com/artist/1g2kmC27Pg8fcsT3O9ecje), [María Jiménez](https://open.spotify.com/artist/3xg8yTZPuoRF0uFGl1O0FS) | [Vestidos De Domingo](https://open.spotify.com/album/3ASW0wki9GC0PB5CTyOaLA) | 3:41 |
 | 35 | [A la luz del Lorenzo](https://open.spotify.com/track/6bMRELN9nclL87w9XEMMnw) | [Los Delinqüentes](https://open.spotify.com/artist/38LYyZ9hZEEQeEfeYoydqd) | [El Sentimiento Garrapatero Que Nos Traen Las Flores](https://open.spotify.com/album/2GmC3j6Wzb2PETn8vhyeJt) | 4:11 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73CRmw4CiSI.md) - [plain]
 | 50 | [Como un burro amarrado en la puerta del baile](https://open.spotify.com/track/6IMIx38wIqHoLTdGcBwyEC) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Las 100 mejores canciones del Pop Español, Vol\. 3](https://open.spotify.com/album/1gf951espzPzb9yxLsxP7T) | 3:37 |
 | 51 | [La Lola](https://open.spotify.com/track/0VnAETWOc4BCr4YbzfI7zH) | [Café Quijano](https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z) | [La Extraordinaria Paradoja Del Sonido Quijano](https://open.spotify.com/album/6UEfKdBxC0Zf9EIbGvK5QY) | 3:17 |
 | 52 | [Pokito a Poko](https://open.spotify.com/track/7LrM28pPWCpJYmbnaxHBmu) | [Chambao](https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R) | [Chambao Caminando](https://open.spotify.com/album/2aKJ1XjOutOWXUNp6UrSJ5) | 3:27 |
-| 53 | [No Puedo Vivir Sin Ti](https://open.spotify.com/track/1EC0JRoSi9YL5zExd3Euc3) | [Los Ronaldos](https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm) | [4 Canciones](https://open.spotify.com/album/1Pf7ot7MVaAulm4tve8Ax8) | 4:14 |
-| 54 | [Cómo Te Atreves](https://open.spotify.com/track/21Tzyc6OYFvtWjKrhZ0cTB) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Sobre El Amor Y Sus Efectos Secundarios..\. Y Unas Cuantas Cosas Más \(Edición Especial\)](https://open.spotify.com/album/7EHPmV9Jm3PIc0SK90ISIR) | 4:00 |
+| 53 | [Cómo Te Atreves](https://open.spotify.com/track/21Tzyc6OYFvtWjKrhZ0cTB) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Sobre El Amor Y Sus Efectos Secundarios..\. Y Unas Cuantas Cosas Más \(Edición Especial\)](https://open.spotify.com/album/7EHPmV9Jm3PIc0SK90ISIR) | 4:00 |
+| 54 | [No Puedo Vivir Sin Ti](https://open.spotify.com/track/1EC0JRoSi9YL5zExd3Euc3) | [Los Ronaldos](https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm) | [4 Canciones](https://open.spotify.com/album/1Pf7ot7MVaAulm4tve8Ax8) | 4:14 |
 | 55 | [No puedo vivir sin ti \- Versión Acustica](https://open.spotify.com/track/0XUbxCMfZVWqCudk047CaQ) | [Coque Malla](https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV) | [La hora de los gigantes](https://open.spotify.com/album/6U0fTUroL70nySX5heirW8) | 3:44 |
 | 56 | [Sevilla Tiene un Color Especial](https://open.spotify.com/track/1x8tjll0oP07qkZWVtm8ap) | [Los Del Rio](https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk) | [Alegria Y Cosabuena](https://open.spotify.com/album/1Q9ij11CdNvogM0IPG1KNc) | 3:47 |
 | 57 | [All My Loving](https://open.spotify.com/track/2x3MxkdvKiWvLor7yNeLWB) | [Los Manolos](https://open.spotify.com/artist/4WsE6jJORlwp3OcAWkCUrj) | [Pasión Condal](https://open.spotify.com/album/2An3BPZCydl71EY6jffCuy) | 3:13 |
@@ -88,9 +88,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73CRmw4CiSI.md) - [plain]
 | 78 | [Aguardiente](https://open.spotify.com/track/6CpBRucGBV8c2ztigPg6C4) | [Los Telepáticos](https://open.spotify.com/artist/0cMwHZkCdMDnQDuWBkhMqS) | [Con la Fiesta a Cuestas](https://open.spotify.com/album/3hQfz8GVtX9q71VAIm7kmR) | 3:16 |
 | 79 | [Joselito](https://open.spotify.com/track/72Fm5e7KPBEQwCeIcSU33g) | [Kiko Veneno](https://open.spotify.com/artist/5TDssiSO1YPd3BINGZx3XP) | [Puro Veneno](https://open.spotify.com/album/65S9zOtZi43kFdHB8y91vY) | 3:50 |
 | 80 | [Sarandonga](https://open.spotify.com/track/4ER9YbR8kOke5g2vpanmq7) | [Lolita](https://open.spotify.com/artist/1Jl0XzEt7csnco2FUybCrK) | [Takatá, a toda rumba](https://open.spotify.com/album/5ilGbKanSfk9Q4cOctfe3D) | 4:00 |
-| 81 | [My skinny flacca](https://open.spotify.com/track/4XLvVcGUmItGqkHXOJMT5r) | [Huecco](https://open.spotify.com/artist/6Zd2JZF0kIBpeyv2FlPh8i) | [Lobbo](https://open.spotify.com/album/2tUF2G5o5ZpYW1Ano31nDJ) | 3:13 |
+| 81 | [Grita](https://open.spotify.com/track/3zz4oi4aiOUV6lcQfKP5pU) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [La Flaca](https://open.spotify.com/album/1O5kJTerozuI2WLgzvIz2m) | 3:32 |
 | 82 | [Mi Gato](https://open.spotify.com/track/5Hu3Y13dE9rEZire0tlAMW) | [Rosario](https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW) | [Esencial Rosario](https://open.spotify.com/album/3jkmHCl1q6GWJUfhqF4URo) | 3:22 |
-| 83 | [Grita](https://open.spotify.com/track/3zz4oi4aiOUV6lcQfKP5pU) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [La Flaca](https://open.spotify.com/album/1O5kJTerozuI2WLgzvIz2m) | 3:32 |
+| 83 | [My skinny flacca](https://open.spotify.com/track/4XLvVcGUmItGqkHXOJMT5r) | [Huecco](https://open.spotify.com/artist/6Zd2JZF0kIBpeyv2FlPh8i) | [Lobbo](https://open.spotify.com/album/2tUF2G5o5ZpYW1Ano31nDJ) | 3:13 |
 | 84 | [Que Puedo Pedir](https://open.spotify.com/track/11QBPkSlXTr00bOj5SQqbm) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [Dile Al Sol](https://open.spotify.com/album/3gf35Jrzpwy233vwcAe3ux) | 3:02 |
 | 85 | [El Toro y la Luna \- 20 Aniversario](https://open.spotify.com/track/0hgens24d8G02NNiIlZ9Ug) | [Los Centellas](https://open.spotify.com/artist/76j0WVvCs9F775KuXwqTeG) | [El Toro y la Luna \(20 Aniversario\)](https://open.spotify.com/album/2sTqLFdRN5kp3hBkrV7QYN) | 3:38 |
 | 86 | [La Quiero a Morir](https://open.spotify.com/track/6shvAFKsshKhvsazuGO404) | [Muchachito Bombo Infierno](https://open.spotify.com/artist/6529KpSlnP8S0kXhx7ayBb) | [Idas y Vueltas](https://open.spotify.com/album/4lCSqYA9tC6D2QvPzqpryB) | 3:13 |

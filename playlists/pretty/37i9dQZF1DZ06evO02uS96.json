@@ -1,12 +1,12 @@
 {
   "description": "This is Aimer. The essential tracks, all in one playlist.",
-  "num_followers": 169291,
+  "num_followers": 169284,
   "original_name": "This Is Aimer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU3QAAAAAAClDQPRYPM9x5DeV3UDeQSy",
+  "snapshot_id": "aU8hgAAAAADY5GoEXy+94cwpW6TJVY0J",
   "tracks": [
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deep down",
-        "url": "https://open.spotify.com/album/7arScRaGCUmEWNeQEPDq3K"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 227153,
-      "name": "Deep down",
-      "url": "https://open.spotify.com/track/42IF4VUNaIGc1oD74rHa8O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sun Dance",
         "url": "https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 193400,
       "name": "\u82b1\u3073\u3089\u305f\u3061\u306e\u30de\u30fc\u30c1",
       "url": "https://open.spotify.com/track/31VUT0WkUfUkkIfEA1Has4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deep down",
+        "url": "https://open.spotify.com/album/7arScRaGCUmEWNeQEPDq3K"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 227153,
+      "name": "Deep down",
+      "url": "https://open.spotify.com/track/42IF4VUNaIGc1oD74rHa8O"
     },
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "After Dark",
-        "url": "https://open.spotify.com/album/7xW2KsTPW5qytt3G9IxEXa"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 365093,
-      "name": "\u30dd\u30e9\u30ea\u30b9",
-      "url": "https://open.spotify.com/track/0m37tmxs9lX9LQjoNcvhKk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sun Dance",
         "url": "https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 328493,
       "name": "ONE",
       "url": "https://open.spotify.com/track/01jAlHee4psROggfWjk8hp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "After Dark",
+        "url": "https://open.spotify.com/album/7xW2KsTPW5qytt3G9IxEXa"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 365093,
+      "name": "\u30dd\u30e9\u30ea\u30b9",
+      "url": "https://open.spotify.com/track/0m37tmxs9lX9LQjoNcvhKk"
     },
     {
       "added_at": null,
@@ -647,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Penny Rain",
-        "url": "https://open.spotify.com/album/5WxSamBTcE3P1W6sT9My7B"
+        "name": "escalate",
+        "url": "https://open.spotify.com/album/0y2rZTOKv2EvzF0F8Dv7bz"
       },
       "artists": [
         {
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
         }
       ],
-      "duration_ms": 227200,
-      "name": "Black Bird",
-      "url": "https://open.spotify.com/track/1ZcNroTXRfcL1soYCUolAV"
+      "duration_ms": 242341,
+      "name": "escalate",
+      "url": "https://open.spotify.com/track/5GYltgYEZu2dKnBjSTrCA3"
     },
     {
       "added_at": null,
@@ -679,8 +679,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "escalate",
-        "url": "https://open.spotify.com/album/0y2rZTOKv2EvzF0F8Dv7bz"
+        "name": "Penny Rain",
+        "url": "https://open.spotify.com/album/5WxSamBTcE3P1W6sT9My7B"
       },
       "artists": [
         {
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
         }
       ],
-      "duration_ms": 242341,
-      "name": "escalate",
-      "url": "https://open.spotify.com/track/5GYltgYEZu2dKnBjSTrCA3"
+      "duration_ms": 227200,
+      "name": "Black Bird",
+      "url": "https://open.spotify.com/track/1ZcNroTXRfcL1soYCUolAV"
     },
     {
       "added_at": null,
@@ -711,22 +711,6 @@
       "duration_ms": 274626,
       "name": "s-AVE",
       "url": "https://open.spotify.com/track/5VTCTEHELRevrwWxVNFrXB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Penny Rain",
-        "url": "https://open.spotify.com/album/5WxSamBTcE3P1W6sT9My7B"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 343973,
-      "name": "April Showers",
-      "url": "https://open.spotify.com/track/1RYS6fQjK0nSYE8tZO7Aj1"
     },
     {
       "added_at": null,
@@ -759,6 +743,22 @@
       "duration_ms": 245038,
       "name": "\u3046\u3064\u304f\u3057\u3044\u4e16\u754c",
       "url": "https://open.spotify.com/track/75S3goclSq5ZBVBk1QGwli"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Penny Rain",
+        "url": "https://open.spotify.com/album/5WxSamBTcE3P1W6sT9My7B"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 343973,
+      "name": "April Showers",
+      "url": "https://open.spotify.com/track/1RYS6fQjK0nSYE8tZO7Aj1"
     },
     {
       "added_at": null,

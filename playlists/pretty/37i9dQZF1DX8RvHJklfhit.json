@@ -1,6 +1,6 @@
 {
   "description": "Your favorite Latin Indie classics. Cover: Mon Laferte",
-  "num_followers": 218246,
+  "num_followers": 218308,
   "original_name": "Latin Indie Classics",
   "owner": {
     "name": "Spotify",
@@ -303,22 +303,6 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
-        "name": "D\u00e9jenme Llorar",
-        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
-      },
-      "artists": [
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 228253,
-      "name": "Eres T\u00fa",
-      "url": "https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f"
-    },
-    {
-      "added_at": "2024-07-12 18:08:37",
-      "album": {
         "name": "Si Volviera A Nacer",
         "url": "https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 219720,
       "name": "Te Alejas M\u00e1s De M\u00ed",
       "url": "https://open.spotify.com/track/62xokumU0wMqOSsBuefhmB"
+    },
+    {
+      "added_at": "2024-07-12 18:08:37",
+      "album": {
+        "name": "D\u00e9jenme Llorar",
+        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 228253,
+      "name": "Eres T\u00fa",
+      "url": "https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f"
     },
     {
       "added_at": "2024-07-12 18:08:37",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
-        "name": "Ciencia Exacta",
-        "url": "https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv"
-      },
-      "artists": [
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        }
-      ],
-      "duration_ms": 205569,
-      "name": "Hablar de Ti",
-      "url": "https://open.spotify.com/track/1vV2FBKYvu6sJDqzSCNgbI"
-    },
-    {
-      "added_at": "2024-07-12 18:08:37",
-      "album": {
         "name": "Cycles of Existential Rhyme",
         "url": "https://open.spotify.com/album/5Jm8y8nnjMIUrsxZ6KjFe3"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 255960,
       "name": "Cycles of Existential Rhyme",
       "url": "https://open.spotify.com/track/6rpi77GqamZNoltbZ5ksdi"
+    },
+    {
+      "added_at": "2024-07-12 18:08:37",
+      "album": {
+        "name": "Ciencia Exacta",
+        "url": "https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        }
+      ],
+      "duration_ms": 205569,
+      "name": "Hablar de Ti",
+      "url": "https://open.spotify.com/track/1vV2FBKYvu6sJDqzSCNgbI"
     },
     {
       "added_at": "2024-07-12 18:08:37",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
-        "name": "Destellos",
-        "url": "https://open.spotify.com/album/2X4swA3UkpqAS8bbXYgP9k"
-      },
-      "artists": [
-        {
-          "name": "CLUBZ",
-          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
-        }
-      ],
-      "duration_ms": 237786,
-      "name": "Popscuro",
-      "url": "https://open.spotify.com/track/3N0lemfma0XQAlkueBbwev"
-    },
-    {
-      "added_at": "2024-07-12 18:08:37",
-      "album": {
         "name": "En Cantos",
         "url": "https://open.spotify.com/album/0HzCpuCil6dqEF5SZXJaxl"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 212958,
       "name": "En Cantos",
       "url": "https://open.spotify.com/track/6VeRaKlXkQKS2TO2zAn7UJ"
+    },
+    {
+      "added_at": "2024-07-12 18:08:37",
+      "album": {
+        "name": "Destellos",
+        "url": "https://open.spotify.com/album/2X4swA3UkpqAS8bbXYgP9k"
+      },
+      "artists": [
+        {
+          "name": "CLUBZ",
+          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
+        }
+      ],
+      "duration_ms": 237786,
+      "name": "Popscuro",
+      "url": "https://open.spotify.com/track/3N0lemfma0XQAlkueBbwev"
     },
     {
       "added_at": "2024-07-12 18:08:37",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
-        "name": "Dreaming Lucid",
-        "url": "https://open.spotify.com/album/4hoEfnmAs0gjUhQOFZLk6O"
-      },
-      "artists": [
-        {
-          "name": "Ambar Lucid",
-          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
-        }
-      ],
-      "duration_ms": 138223,
-      "name": "A letter to my younger self",
-      "url": "https://open.spotify.com/track/1jjfOsxZ1Z1bovYbguK7bB"
-    },
-    {
-      "added_at": "2024-07-12 18:08:37",
-      "album": {
         "name": "Invisible People",
         "url": "https://open.spotify.com/album/6SVzbiS8FloyayLerrRMiY"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 151360,
       "name": "I Know It",
       "url": "https://open.spotify.com/track/7uLJUEnHIbLNyjRltSd1Eg"
+    },
+    {
+      "added_at": "2024-07-12 18:08:37",
+      "album": {
+        "name": "Dreaming Lucid",
+        "url": "https://open.spotify.com/album/4hoEfnmAs0gjUhQOFZLk6O"
+      },
+      "artists": [
+        {
+          "name": "Ambar Lucid",
+          "url": "https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G"
+        }
+      ],
+      "duration_ms": 138223,
+      "name": "A letter to my younger self",
+      "url": "https://open.spotify.com/track/1jjfOsxZ1Z1bovYbguK7bB"
     },
     {
       "added_at": "2024-07-12 18:08:37",

@@ -1378,7 +1378,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-15",
+      "date_removed": null,
       "duration_ms": 253586,
       "name": "505",
       "url": "https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS"
@@ -1884,7 +1884,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-23",
+      "date_removed": null,
       "duration_ms": 212000,
       "name": "A Couple Minutes",
       "url": "https://open.spotify.com/track/312z6PZ8wwREck8613PkJk"
@@ -1920,7 +1920,7 @@
       ],
       "date_added": "2020-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 135533,
       "name": "A Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/77khP2fIVhSW23NwxrRluh"
@@ -7200,7 +7200,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-06",
+      "date_removed": null,
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
@@ -8498,7 +8498,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-08",
+      "date_removed": null,
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -9168,7 +9168,7 @@
       ],
       "date_added": "2019-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 130234,
       "name": "Blue Christmas",
       "url": "https://open.spotify.com/track/3QiAAp20rPC3dcAtKtMaqQ"
@@ -12307,6 +12307,24 @@
     },
     {
       "album": {
+        "name": "CHANEL",
+        "url": "https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "date_added": "2025-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188059,
+      "name": "CHANEL",
+      "url": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
+    },
+    {
+      "album": {
         "name": "Fearless (Taylor's Version)",
         "url": "https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH"
       },
@@ -12912,7 +12930,7 @@
       ],
       "date_added": "2020-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 166453,
       "name": "Christmas (Baby Please Come Home)",
       "url": "https://open.spotify.com/track/47ohYW8e7dxCYn9qbUMBCI"
@@ -12966,7 +12984,7 @@
       ],
       "date_added": "2022-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 163093,
       "name": "Christmas Time Is Here",
       "url": "https://open.spotify.com/track/3bMfUUpzUzqWp9II00yRhE"
@@ -21619,6 +21637,24 @@
     },
     {
       "album": {
+        "name": "Synchronicity (Remastered 2003)",
+        "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2025-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253920,
+      "name": "Every Breath You Take",
+      "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
+    },
+    {
+      "album": {
         "name": "KHALED KHALED",
         "url": "https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf"
       },
@@ -23310,7 +23346,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 181794,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972"
@@ -24254,6 +24290,24 @@
       "duration_ms": 222242,
       "name": "Fly To My Room",
       "url": "https://open.spotify.com/track/3QH8rQGNFX8VLbCgZ7uPTS"
+    },
+    {
+      "album": {
+        "name": "Folded",
+        "url": "https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "date_added": "2025-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238120,
+      "name": "Folded",
+      "url": "https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA"
     },
     {
       "album": {
@@ -29352,7 +29406,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 206600,
       "name": "Have Yourself A Merry Little Christmas - Remastered 1999",
       "url": "https://open.spotify.com/track/2FPfeYlrbSBR8PwCU0zaqq"
@@ -29490,7 +29544,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-23",
+      "date_removed": null,
       "duration_ms": 235986,
       "name": "Headlines",
       "url": "https://open.spotify.com/track/6LxSe8YmdPxy095Ux6znaQ"
@@ -31110,7 +31164,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 121526,
       "name": "Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/6rqn19AqjcM5wgI1hCYciJ"
@@ -33048,7 +33102,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-01",
+      "date_removed": null,
       "duration_ms": 178205,
       "name": "I Had Some Help (Feat. Morgan Wallen)",
       "url": "https://open.spotify.com/track/5IZXB5IKAD2qlvTPJYDCFB"
@@ -33606,7 +33660,7 @@
       ],
       "date_added": "2023-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-23",
+      "date_removed": null,
       "duration_ms": 227195,
       "name": "I Remember Everything (feat. Kacey Musgraves)",
       "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
@@ -34282,7 +34336,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-30",
+      "date_removed": null,
       "duration_ms": 177811,
       "name": "I'm The Problem",
       "url": "https://open.spotify.com/track/7AeM1BGYM7emrqmQn1PuWv"
@@ -35560,7 +35614,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-15",
+      "date_removed": null,
       "duration_ms": 289533,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
@@ -35748,7 +35802,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 207199,
       "name": "It's Beginning to Look a Lot like Christmas",
       "url": "https://open.spotify.com/track/3it2BvJfyhPEWF3kD2TZJ1"
@@ -35774,7 +35828,7 @@
       ],
       "date_added": "2019-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 155933,
       "name": "It's Beginning to Look a Lot Like Christmas (with Mitchell Ayres & His Orchestra)",
       "url": "https://open.spotify.com/track/2pXpURmn6zC5ZYDMms6fwa"
@@ -35890,7 +35944,7 @@
       ],
       "date_added": "2019-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 151000,
       "name": "It's the Most Wonderful Time of the Year",
       "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
@@ -36386,7 +36440,7 @@
       ],
       "date_added": "2021-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 120693,
       "name": "Jingle Bells - Remastered 1999",
       "url": "https://open.spotify.com/track/4HEOgBHRCExyYVeTyrXsnL"
@@ -39376,7 +39430,7 @@
       ],
       "date_added": "2019-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 117146,
       "name": "Let It Snow! Let It Snow! Let It Snow!",
       "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
@@ -40622,7 +40676,7 @@
       ],
       "date_added": "2019-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 118840,
       "name": "Little Saint Nick - 1991 Remix",
       "url": "https://open.spotify.com/track/5xlS0QkVrSH7ssEbBgBzbM"
@@ -42038,7 +42092,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-27",
+      "date_removed": null,
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
@@ -42922,7 +42976,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-12",
+      "date_removed": null,
       "duration_ms": 177598,
       "name": "luther (with sza)",
       "url": "https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd"
@@ -43762,7 +43816,7 @@
       ],
       "date_added": "2025-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-30",
+      "date_removed": null,
       "duration_ms": 213645,
       "name": "Manchild",
       "url": "https://open.spotify.com/track/2BwO5K8Q7EPAJSGze3AAh9"
@@ -44624,7 +44678,7 @@
       ],
       "date_added": "2019-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 175333,
       "name": "Mele Kalikimaka (Merry Christmas)",
       "url": "https://open.spotify.com/track/04vLj9QUXoKdRlsp3gkURo"
@@ -45488,7 +45542,7 @@
       ],
       "date_added": "2019-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 182946,
       "name": "Mistletoe",
       "url": "https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA"
@@ -46898,7 +46952,7 @@
       ],
       "date_added": "2022-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-05",
+      "date_removed": null,
       "duration_ms": 222973,
       "name": "Mr. Brightside",
       "url": "https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B"
@@ -48279,6 +48333,24 @@
     },
     {
       "album": {
+        "name": "Sincerely, Kentrell",
+        "url": "https://open.spotify.com/album/4ssppGN0Qy4OeJTUDr1Etd"
+      },
+      "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "date_added": "2025-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155737,
+      "name": "Nevada",
+      "url": "https://open.spotify.com/track/2cEnKRR4dYBB2VA1mjlb1z"
+    },
+    {
+      "album": {
         "name": "Never Felt So Alone",
         "url": "https://open.spotify.com/album/33JqWTchq6piiQddrRIvJX"
       },
@@ -49368,7 +49440,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-08",
+      "date_removed": null,
       "duration_ms": 236906,
       "name": "No One Noticed",
       "url": "https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5"
@@ -49426,7 +49498,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-08",
+      "date_removed": null,
       "duration_ms": 187613,
       "name": "No Pole",
       "url": "https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz"
@@ -54570,7 +54642,7 @@
       ],
       "date_added": "2025-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-19",
+      "date_removed": null,
       "duration_ms": 258034,
       "name": "Pink Pony Club",
       "url": "https://open.spotify.com/track/6393yGahSJ9slVdOwSxOVR"
@@ -54884,7 +54956,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 177440,
       "name": "Please Come Home for Christmas - 2013 Remaster",
       "url": "https://open.spotify.com/track/3QIoEi8Enr9uHffwInGIsC"
@@ -59756,7 +59828,7 @@
       ],
       "date_added": "2019-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 165733,
       "name": "Run Rudolph Run",
       "url": "https://open.spotify.com/track/2pnPe4pJtq7689i5ydzvJJ"
@@ -60364,7 +60436,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-19",
+      "date_removed": null,
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/21IYMdzTrzSe191Cy5eMap"
@@ -60570,7 +60642,7 @@
       ],
       "date_added": "2019-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 206066,
       "name": "Santa Baby (with Henri Ren\u00e9 & His Orchestra)",
       "url": "https://open.spotify.com/track/1foCxQtxBweJtZmdxhEHVO"
@@ -60660,7 +60732,7 @@
       ],
       "date_added": "2019-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 204093,
       "name": "Santa Tell Me",
       "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
@@ -62694,7 +62766,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-12",
+      "date_removed": null,
       "duration_ms": 224840,
       "name": "Sienna",
       "url": "https://open.spotify.com/track/0InIeZW4P6VO7dUGRM4AKH"
@@ -63396,7 +63468,7 @@
       ],
       "date_added": "2020-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 181266,
       "name": "Sleigh Ride",
       "url": "https://open.spotify.com/track/7fUYUcWy853HS8YJn0b3Sr"
@@ -64092,7 +64164,7 @@
       ],
       "date_added": "2020-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 165900,
       "name": "Snowman",
       "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
@@ -65184,7 +65256,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-28",
+      "date_removed": null,
       "duration_ms": 227093,
       "name": "Sparks",
       "url": "https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod"
@@ -68428,7 +68500,7 @@
       ],
       "date_added": "2020-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-15",
+      "date_removed": null,
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -70606,7 +70678,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 190973,
       "name": "The Christmas Song (Merry Christmas To You)",
       "url": "https://open.spotify.com/track/5humEOJehpAwMJEJmb0JJ2"
@@ -72258,7 +72330,7 @@
       ],
       "date_added": "2019-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 231173,
       "name": "This Christmas",
       "url": "https://open.spotify.com/track/7MSYSOobsombc1mbDWFxtD"
@@ -72988,7 +73060,7 @@
       ],
       "date_added": "2025-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-08",
+      "date_removed": null,
       "duration_ms": 256000,
       "name": "Timeless (feat Playboi Carti)",
       "url": "https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS"
@@ -73086,7 +73158,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-07",
+      "date_removed": null,
       "duration_ms": 177208,
       "name": "TIT FOR TAT",
       "url": "https://open.spotify.com/track/1dByUyyoRKL99fJJ6VCQzb"
@@ -75838,7 +75910,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 229638,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/3YZE5qDV7u1ZD1gZc47ZeR"
@@ -79946,7 +80018,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 183613,
       "name": "White Christmas - 1947 Version",
       "url": "https://open.spotify.com/track/3XsaSIPWvM61RIFfeb0BBR"
@@ -81002,7 +81074,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 227653,
       "name": "Wonderful Christmastime - Edited Version / Remastered 2011",
       "url": "https://open.spotify.com/track/1SV1fxF65n9NhRHp3KlBuu"

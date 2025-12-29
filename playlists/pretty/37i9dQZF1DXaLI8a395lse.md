@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLI8a395lse.md) - [plain]
 
 > Britpop, trip\-hop, grunge and more from the other side of the 90s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,467,048 likes - 80 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,467,350 likes - 80 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,10 +45,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLI8a395lse.md) - [plain]
 | 35 | [Pretend We're Dead](https://open.spotify.com/track/3z5ggGtcs4t8pizW521gW9) | [L7](https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h) | [Bricks Are Heavy](https://open.spotify.com/album/0z7Dc7FRsDH7E4kj32mKyM) | 3:55 |
 | 36 | [Regret \- 2015 Remaster](https://open.spotify.com/track/1UVll7jjUlqSGxCZ6uXVaD) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Republic](https://open.spotify.com/album/7mIOgbore2HTzdh2ZyS4rH) | 4:08 |
 | 37 | [Tender](https://open.spotify.com/track/42cxPm9jgbaxIVN77XA1m6) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [13](https://open.spotify.com/album/5YuZ4DjvtZBywtIbHIqtGJ) | 7:41 |
-| 38 | [Birdhouse in Your Soul](https://open.spotify.com/track/6pmuu4qSz2WrtGkBjUfyuz) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Flood](https://open.spotify.com/album/7FwAtuhhWivxvK4aPgyyUD) | 3:18 |
+| 38 | [A Letter To Elise](https://open.spotify.com/track/7mEGddVRDdESAibWOnbXoA) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1) | 5:12 |
 | 39 | [Say Yes](https://open.spotify.com/track/7zVfEu1dEvRw4EkWoqrBkx) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/5hryhrT7wEdLnZCbJX9F6L) | 2:20 |
 | 40 | [If You Tolerate This Your Children Will Be Next](https://open.spotify.com/track/2VmyLy2HQlkevZYboXHM5O) | [Manic Street Preachers](https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX) | [This Is My Truth Tell Me Yours](https://open.spotify.com/album/3gUL89r4nMGlkjRdfiZfZW) | 4:50 |
-| 41 | [A Letter To Elise](https://open.spotify.com/track/7mEGddVRDdESAibWOnbXoA) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1) | 5:12 |
+| 41 | [Birdhouse in Your Soul](https://open.spotify.com/track/6pmuu4qSz2WrtGkBjUfyuz) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Flood](https://open.spotify.com/album/7FwAtuhhWivxvK4aPgyyUD) | 3:18 |
 | 42 | [Let Forever Be](https://open.spotify.com/track/3m1JFLpKLYgMi1jf6Bu16P) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Surrender](https://open.spotify.com/album/1QJP73UumgERuzp3yJSXw3) | 3:56 |
 | 43 | [The Boy With the Arab Strap](https://open.spotify.com/track/5GPPI3rnZDptLYRN4vTUoZ) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [The Boy With the Arab Strap](https://open.spotify.com/album/0PnuQg8OK4KoOPrwhgyKRQ) | 5:14 |
 | 44 | [Connection](https://open.spotify.com/track/53LZqMzQEnjBkFXPqOq0cD) | [Elastica](https://open.spotify.com/artist/3l14gV4hIMAjmo7KUvEWTx) | [Elastica](https://open.spotify.com/album/00MAXeszCotk3g9q8KYJlZ) | 2:20 |
@@ -57,15 +57,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLI8a395lse.md) - [plain]
 | 47 | [Walkaway](https://open.spotify.com/track/3drQLSnECw7QSHMysFqFx7) | [Cast](https://open.spotify.com/artist/0vBDEQ1aLZpe4zgn2fPH6Z) | [All Change](https://open.spotify.com/album/4QpYfKscCgJ7cciYCEysg5) | 3:51 |
 | 48 | [Something Changed](https://open.spotify.com/track/05FgZdqxXg40X0WG8MmWMA) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Different Class](https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x) | 3:18 |
 | 49 | [She Don't Use Jelly](https://open.spotify.com/track/1dJuteDIOkGfDSN7zPkzNv) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [Transmissions From the Satellite Heart](https://open.spotify.com/album/0rr668ZzoNDQa1yxhSpBAw) | 3:42 |
-| 50 | [only shallow](https://open.spotify.com/track/1KKuoYESWoUGsau6YYoEMl) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [loveless](https://open.spotify.com/album/3USQKOw0se5pBNEndu82Rb) | 4:16 |
-| 51 | [Big Time Sensuality](https://open.spotify.com/track/0X0LTI0MQG9S3FLSUvjrj5) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Debut](https://open.spotify.com/album/3icT9XGrBfhlV8BKK4WEGX) | 3:56 |
+| 50 | [Big Time Sensuality](https://open.spotify.com/track/0X0LTI0MQG9S3FLSUvjrj5) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Debut](https://open.spotify.com/album/3icT9XGrBfhlV8BKK4WEGX) | 3:56 |
+| 51 | [only shallow](https://open.spotify.com/track/1KKuoYESWoUGsau6YYoEMl) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [loveless](https://open.spotify.com/album/3USQKOw0se5pBNEndu82Rb) | 4:16 |
 | 52 | [Motorcycle Emptiness](https://open.spotify.com/track/5ibELGcXGqX5x9TWFeNPxY) | [Manic Street Preachers](https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX) | [Forever Delayed](https://open.spotify.com/album/17n0hrkbvXosApi3q1ANiv) | 5:05 |
 | 53 | [Pitseleh](https://open.spotify.com/track/1Q0sk7b7PAGjgC3R5zyuWt) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [XO](https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh) | 3:22 |
 | 54 | [You & Me Song](https://open.spotify.com/track/5KiKFJdmU6m0QWxpW9xjOB) | [The Wannadies](https://open.spotify.com/artist/7GBLSeDdlx3gl2cxHvYuOh) | [Be A Girl](https://open.spotify.com/album/7bx60z6sWg9fz9Ve2AruOI) | 2:50 |
 | 55 | [Steal My Sunshine \- Single Version](https://open.spotify.com/track/5Muvh0ooAJkSgBylFyI3su) | [LEN](https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ) | [Steal My Sunshine EP](https://open.spotify.com/album/7xXKgIFgbBSdBAV4rDZ9yp) | 3:31 |
 | 56 | [Block Rockin' Beats](https://open.spotify.com/track/1FNvrp5K02oThumS6gllzp) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Dig Your Own Hole](https://open.spotify.com/album/0FjHy5dCyVROqDUl6f2VTK) | 5:13 |
-| 57 | [sometimes](https://open.spotify.com/track/5CXokdWISVHIcq4BsKwDvJ) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [loveless](https://open.spotify.com/album/3USQKOw0se5pBNEndu82Rb) | 5:19 |
-| 58 | [All I Need \(feat\. Beth Hirsch\)](https://open.spotify.com/track/7jOM0KIKgIppqIEvEjixaj) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ), [Beth Hirsch](https://open.spotify.com/artist/7a1nGgiWVcRP4PV6xkXQ96) | [Moon Safari](https://open.spotify.com/album/206GTDefY2qRMQxYXmfb0a) | 4:28 |
+| 57 | [All I Need \(feat\. Beth Hirsch\)](https://open.spotify.com/track/7jOM0KIKgIppqIEvEjixaj) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ), [Beth Hirsch](https://open.spotify.com/artist/7a1nGgiWVcRP4PV6xkXQ96) | [Moon Safari](https://open.spotify.com/album/206GTDefY2qRMQxYXmfb0a) | 4:28 |
+| 58 | [sometimes](https://open.spotify.com/track/5CXokdWISVHIcq4BsKwDvJ) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [loveless](https://open.spotify.com/album/3USQKOw0se5pBNEndu82Rb) | 5:19 |
 | 59 | [My Favourite Game](https://open.spotify.com/track/7gjm1sq5ALU5svBSi9g178) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [Gran Turismo](https://open.spotify.com/album/4gNjfAA5axfUEBbHJoAKBO) | 3:37 |
 | 60 | [History \- Remastered 2016](https://open.spotify.com/track/52p8lRbIrKYjzwDMXgBVFO) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [A Northern Soul \(2016 Remastered / Deluxe\)](https://open.spotify.com/album/4V8NUW8yUln846aiOZ8ANR) | 5:26 |
 | 61 | [Overcome](https://open.spotify.com/track/0tYEsmdrsv5Fi3UOn58bou) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO), [Martina Topley\-Bird](https://open.spotify.com/artist/6sKLLGj7SqbP2qDBdEOoZ6) | [Maxinquaye \(Deluxe Edition\)](https://open.spotify.com/album/4pWLQ312KAN43yhm3omkZo) | 4:30 |

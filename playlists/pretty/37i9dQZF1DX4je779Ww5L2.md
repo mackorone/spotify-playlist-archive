@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4je779Ww5L2.md) - [plain]
 
 > de sfeer van 6 uur in de ochtend in de buitenlucht
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,552 likes - 81 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,559 likes - 81 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4je779Ww5L2.md) - [plain]
 | 4 | [Opening Night](https://open.spotify.com/track/2p0d5L13tdRztbOySvqlY2) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Opening Night](https://open.spotify.com/album/0ukMJVPrCtdr6p3rctbSbr) | 3:31 |
 | 5 | [Nowhere](https://open.spotify.com/track/3qhupcUlxypKHUWujBzJ81) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Nowhere](https://open.spotify.com/album/3Yl6iLaSNTi4E0yilc1YHk) | 3:19 |
 | 6 | [Wither](https://open.spotify.com/track/75tuLoo93ovd5lSDWrTdpi) | [Sevens](https://open.spotify.com/artist/16TJwfQFZXTDDkPwG1FOzd) | [Wither](https://open.spotify.com/album/67cUnpKyp9JRjQXOuXfvCM) | 3:00 |
-| 7 | [The Truth Can Wait](https://open.spotify.com/track/1gDi26EdEsBA6P9XqMODAb) | [Lumï](https://open.spotify.com/artist/4YVmec1RYeLcalC4yvHv2T) | [The Truth Can Wait](https://open.spotify.com/album/65WxuSDxI1t7CsChCPUGlh) | 3:32 |
-| 8 | [Gown](https://open.spotify.com/track/2qDjzlewG9Dx3rC1M2OWXh) | [Joanne Robertson](https://open.spotify.com/artist/4MdQ9btIlh6rzIMA19tu3L), [Oliver Coates](https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM) | [Blurrr](https://open.spotify.com/album/5WhOeAAZdZNuVPd0owQ88D) | 3:15 |
+| 7 | [Gown](https://open.spotify.com/track/2qDjzlewG9Dx3rC1M2OWXh) | [Joanne Robertson](https://open.spotify.com/artist/4MdQ9btIlh6rzIMA19tu3L), [Oliver Coates](https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM) | [Blurrr](https://open.spotify.com/album/5WhOeAAZdZNuVPd0owQ88D) | 3:15 |
+| 8 | [The Truth Can Wait](https://open.spotify.com/track/1gDi26EdEsBA6P9XqMODAb) | [Lumï](https://open.spotify.com/artist/4YVmec1RYeLcalC4yvHv2T) | [The Truth Can Wait](https://open.spotify.com/album/65WxuSDxI1t7CsChCPUGlh) | 3:32 |
 | 9 | [Homerun 2021](https://open.spotify.com/track/4JZSfAfaOHxDOqVo76l2KL) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [Homerun 2021](https://open.spotify.com/album/3eso9JkXxZyMBrjzUbsBxR) | 3:21 |
 | 10 | [Every Dawn's a Mountain](https://open.spotify.com/track/7EzAzLRWi5qu6FCDngwf1d) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [Every Dawn's a Mountain](https://open.spotify.com/album/0S3ocN5MLEY4mFMJWY0VG1) | 4:07 |
 | 11 | [Old Shadows](https://open.spotify.com/track/3IWuSaxaeNuQUXOfVtEkOE) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Old Shadows](https://open.spotify.com/album/0RLefy7jZBf1Dx0UlZdbRK) | 4:06 |
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4je779Ww5L2.md) - [plain]
 | 26 | [Can](https://open.spotify.com/track/5WgC4W0XtrOaUK63WqsDAy) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [Can](https://open.spotify.com/album/0aWzHhNvUVfII5KkLsvLy9) | 3:21 |
 | 27 | [Vacuum](https://open.spotify.com/track/6UPyOLU7YFLz9tH6w0EmdU) | [Bobbi Lu](https://open.spotify.com/artist/48xRKmxCYnrEtchjl3RSd4) | [Arrow, Four](https://open.spotify.com/album/613LuczeoGm3FSaJfKggZz) | 3:35 |
 | 28 | [Dissolve](https://open.spotify.com/track/0xM73Y61yIuNSy1SdsmwZg) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [Dissolve](https://open.spotify.com/album/1mgbZRf594n36YBlmldrAw) | 6:43 |
-| 29 | [i'm not afraid of dying](https://open.spotify.com/track/5b82NDDYznzAYwu3iT6tky) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [somebody's daughter](https://open.spotify.com/album/3QGCPkdYR0ciqEgq9pgplK) | 3:20 |
+| 29 | [Nightwood \(Feat\. Tine Reymer\) Radio Edit](https://open.spotify.com/track/5dKV3esDsQ5fHWb4XLK5P7) | [Nausca](https://open.spotify.com/artist/2LsP0kImUaDBE7uQUmOCPg), [Ansatz Der Maschine](https://open.spotify.com/artist/2imYMaCI7CxN9tVnNyBuiB) | [Nightwood \(Feat\. Tine Reymer\) Radio edit \[Radio Edit\]](https://open.spotify.com/album/6PoU9sVRrfr7sbEIfJY06q) | 3:39 |
 | 30 | [Martyr](https://open.spotify.com/track/4EybC36DQmK8gbrUsPit3T) | [Ozark Henry](https://open.spotify.com/artist/3a9AG5fMqAqrXkeiwYtarJ) | [Martyr](https://open.spotify.com/album/1MzFcyK6GVCXGXKhu8vBlI) | 3:23 |
-| 31 | [Nightwood \(Feat\. Tine Reymer\) Radio Edit](https://open.spotify.com/track/5dKV3esDsQ5fHWb4XLK5P7) | [Nausca](https://open.spotify.com/artist/2LsP0kImUaDBE7uQUmOCPg), [Ansatz Der Maschine](https://open.spotify.com/artist/2imYMaCI7CxN9tVnNyBuiB) | [Nightwood \(Feat\. Tine Reymer\) Radio edit \[Radio Edit\]](https://open.spotify.com/album/6PoU9sVRrfr7sbEIfJY06q) | 3:39 |
+| 31 | [i'm not afraid of dying](https://open.spotify.com/track/5b82NDDYznzAYwu3iT6tky) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [somebody's daughter](https://open.spotify.com/album/3QGCPkdYR0ciqEgq9pgplK) | 3:20 |
 | 32 | [Truce \- Acoustic](https://open.spotify.com/track/1v9q3IrxmGG8xPLW4DNW3t) | [Celine Cairo](https://open.spotify.com/artist/2icndAD2G5umAWdgrARONR) | [Truce \(Acoustic\)](https://open.spotify.com/album/6M3ymdG8RBH9II9Zn3f4kY) | 3:42 |
 | 33 | [Richardson \- feat\. Cassandra Jenkins](https://open.spotify.com/track/4Jrstw4tzEoFCE5hZMug96) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT), [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [Richardson \(feat\. Cassandra Jenkins\)](https://open.spotify.com/album/72T10FajAmf5Wu0M9scOpp) | 3:44 |
 | 34 | [Waving](https://open.spotify.com/track/1TiYTnuokSCxFDc7KRNauZ) | [Sam De Nef](https://open.spotify.com/artist/2rAloVqbj3g1s6Pvs7gRno), [Camille Camille](https://open.spotify.com/artist/7mGSaMaJKk9GMxATlKBYQH) | [Waving](https://open.spotify.com/album/7619CH9KMaa94tUXGHiibs) | 4:13 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4je779Ww5L2.md) - [plain]
 | 80 | [my moon](https://open.spotify.com/track/1hafzeP5FlBnUljHl6OIKh) | [la loye](https://open.spotify.com/artist/1cvKyOKTQeG0sEHhkyz99S) | [my moon](https://open.spotify.com/album/6cevS6KNQ3lsNIEtMskfQ2) | 2:07 |
 | 81 | [Fortune \- Acoustic Version](https://open.spotify.com/track/4yBaSpXD0NXU0fVVORb0Dx) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Acoustic Sessions](https://open.spotify.com/album/67VE6RTOJLwouXsB6Bs5zB) | 3:48 |
 
-Snapshot ID: `AAAAAEj5CbXE3WexmOEkdH58y59X5U59`
+Snapshot ID: `AAAAAEpdwwJ8+14MsyzDJjNOwVT7DHLg`

@@ -2496,7 +2496,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-15",
+      "date_removed": null,
       "duration_ms": 208695,
       "name": "A\u017e na m\u011bs\u00edc",
       "url": "https://open.spotify.com/track/3rxHQ7HeJCpiei1d6ANDPW"
@@ -8364,7 +8364,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-25",
+      "date_removed": null,
       "duration_ms": 133670,
       "name": "Demo",
       "url": "https://open.spotify.com/track/4FRW1aDiN6Im16fHPA64ww"
@@ -12564,7 +12564,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-07",
+      "date_removed": null,
       "duration_ms": 134693,
       "name": "G WAGON",
       "url": "https://open.spotify.com/track/4Y77GxNpAS16bGOVDwzagb"
@@ -14010,7 +14010,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 214333,
       "name": "Happy Xmas (War Is Over) - Remastered 2010",
       "url": "https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b"
@@ -16578,7 +16578,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-14",
+      "date_removed": null,
       "duration_ms": 187000,
       "name": "In\u00e9 Plemen\u00e1",
       "url": "https://open.spotify.com/track/6WfjL1LncrRrm79gaZoi9v"
@@ -17486,7 +17486,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 130973,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
@@ -20132,7 +20132,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 117146,
       "name": "Let It Snow! Let It Snow! Let It Snow!",
       "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
@@ -24544,7 +24544,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 191250,
       "name": "NARCOS",
       "url": "https://open.spotify.com/track/5HVr2Ay42xJgB2VZ7CUJQJ"
@@ -30418,7 +30418,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-15",
+      "date_removed": null,
       "duration_ms": 188571,
       "name": "P\u00e1tky",
       "url": "https://open.spotify.com/track/1nwKq6t4wpKLK2bWkDVm3e"
@@ -30584,7 +30584,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 303893,
       "name": "P\u016flno\u010dn\u00ed",
       "url": "https://open.spotify.com/track/5Thza83zbkoIupxDHf9kmq"
@@ -31538,7 +31538,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 126266,
       "name": "Rockin' Around The Christmas Tree",
       "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
@@ -31884,6 +31884,24 @@
     {
       "album": {
         "name": "Hounds Of Love",
+        "url": "https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "date_added": "2025-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298933,
+      "name": "Running Up That Hill (A Deal With God)",
+      "url": "https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO"
+    },
+    {
+      "album": {
+        "name": "Hounds Of Love",
         "url": "https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy"
       },
       "artists": [
@@ -31930,7 +31948,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 249813,
       "name": "Ryba Ryb\u011b",
       "url": "https://open.spotify.com/track/7zTFcEEtyeKxvRUrPIHT49"
@@ -32130,7 +32148,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-13",
+      "date_removed": null,
       "duration_ms": 149589,
       "name": "Saf\u00edr",
       "url": "https://open.spotify.com/track/1tpWtFdAuY9chjl5YhzsTP"
@@ -32166,7 +32184,7 @@
       ],
       "date_added": "2025-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-14",
+      "date_removed": null,
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/21IYMdzTrzSe191Cy5eMap"
@@ -32246,7 +32264,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 204093,
       "name": "Santa Tell Me",
       "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
@@ -34346,7 +34364,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-30",
+      "date_removed": null,
       "duration_ms": 207000,
       "name": "Spaceship",
       "url": "https://open.spotify.com/track/1iCxH5udvifjp0otnwIj75"
@@ -35972,7 +35990,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-19",
+      "date_removed": null,
       "duration_ms": 166299,
       "name": "Syndrom",
       "url": "https://open.spotify.com/track/6gj6FXx7jZXOOdLX4aNaSK"
@@ -40792,7 +40810,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 333000,
       "name": "V\u00e1no\u010dn\u00ed",
       "url": "https://open.spotify.com/track/1qrpm14LqMOlDIV21wQ8aZ"
@@ -40814,7 +40832,7 @@
       ],
       "date_added": "2022-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 221054,
       "name": "V\u00e1no\u010dn\u00ed (feat. Teri Blitzen)",
       "url": "https://open.spotify.com/track/2eDK36OyLEXUYP0DxlTLIE"

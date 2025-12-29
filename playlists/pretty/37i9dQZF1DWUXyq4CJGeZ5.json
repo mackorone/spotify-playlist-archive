@@ -1,6 +1,6 @@
 {
   "description": "Piano music for fall vibes and autumnal moods.",
-  "num_followers": 82484,
+  "num_followers": 82477,
   "original_name": "Autumn Piano",
   "owner": {
     "name": "Spotify",
@@ -603,22 +603,6 @@
     {
       "added_at": "2025-12-23 11:16:57",
       "album": {
-        "name": "If We Knew, We Would",
-        "url": "https://open.spotify.com/album/35mWkmrwgBuwFUKkBIHOYG"
-      },
-      "artists": [
-        {
-          "name": "Christian Menke",
-          "url": "https://open.spotify.com/artist/6CQRmzc7EGzYTRkfLMXRPU"
-        }
-      ],
-      "duration_ms": 184624,
-      "name": "If We Knew, We Would",
-      "url": "https://open.spotify.com/track/4RLfOYC8qDeAkKbkII4pOy"
-    },
-    {
-      "added_at": "2025-12-23 11:16:57",
-      "album": {
         "name": "D\u00e9sir",
         "url": "https://open.spotify.com/album/6ebN9IykUukkxB4bdMxs3t"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 163479,
       "name": "D\u00e9sir",
       "url": "https://open.spotify.com/track/3yeIp7ZvFx2WGhsdPqIj8Z"
+    },
+    {
+      "added_at": "2025-12-23 11:16:57",
+      "album": {
+        "name": "If We Knew, We Would",
+        "url": "https://open.spotify.com/album/35mWkmrwgBuwFUKkBIHOYG"
+      },
+      "artists": [
+        {
+          "name": "Christian Menke",
+          "url": "https://open.spotify.com/artist/6CQRmzc7EGzYTRkfLMXRPU"
+        }
+      ],
+      "duration_ms": 184624,
+      "name": "If We Knew, We Would",
+      "url": "https://open.spotify.com/track/4RLfOYC8qDeAkKbkII4pOy"
     },
     {
       "added_at": "2025-12-23 11:16:57",
@@ -955,22 +955,6 @@
     {
       "added_at": "2025-12-23 11:16:57",
       "album": {
-        "name": "Quiet Steps",
-        "url": "https://open.spotify.com/album/5MvMdWhiBnZj815YxnQvqP"
-      },
-      "artists": [
-        {
-          "name": "M\u00edrabilis",
-          "url": "https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD"
-        }
-      ],
-      "duration_ms": 166535,
-      "name": "Quiet Steps",
-      "url": "https://open.spotify.com/track/7hYeMmEdabacQXrhNvnJJK"
-    },
-    {
-      "added_at": "2025-12-23 11:16:57",
-      "album": {
         "name": "Infinity clouds",
         "url": "https://open.spotify.com/album/4G3fWb6LcxqeOo80HX9O8g"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 139500,
       "name": "The Water Floats",
       "url": "https://open.spotify.com/track/7gSXF0SO2U7QrR5O0lhOdA"
+    },
+    {
+      "added_at": "2025-12-23 11:16:57",
+      "album": {
+        "name": "Quiet Steps",
+        "url": "https://open.spotify.com/album/5MvMdWhiBnZj815YxnQvqP"
+      },
+      "artists": [
+        {
+          "name": "M\u00edrabilis",
+          "url": "https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD"
+        }
+      ],
+      "duration_ms": 166535,
+      "name": "Quiet Steps",
+      "url": "https://open.spotify.com/track/7hYeMmEdabacQXrhNvnJJK"
     },
     {
       "added_at": "2025-12-23 11:16:57",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2025-12-23 11:16:57",
       "album": {
-        "name": "Forevermore",
-        "url": "https://open.spotify.com/album/3Iw5GGcBOH38MN5KwB98p4"
-      },
-      "artists": [
-        {
-          "name": "Vaughn Harrison",
-          "url": "https://open.spotify.com/artist/6q83QeDrspxDVTOmYMAxS8"
-        }
-      ],
-      "duration_ms": 145092,
-      "name": "Forevermore",
-      "url": "https://open.spotify.com/track/3Na1QdVT2YRBw9S8RikZzo"
-    },
-    {
-      "added_at": "2025-12-23 11:16:57",
-      "album": {
         "name": "Charleston",
         "url": "https://open.spotify.com/album/3B4D8NQMO3e4ab4obAX5UG"
       },
@@ -1307,18 +1291,18 @@
     {
       "added_at": "2025-12-23 11:16:57",
       "album": {
-        "name": "Mitternacht",
-        "url": "https://open.spotify.com/album/0LZwgyNIT6ZFHBSUGwAz39"
+        "name": "Forevermore",
+        "url": "https://open.spotify.com/album/3Iw5GGcBOH38MN5KwB98p4"
       },
       "artists": [
         {
-          "name": "Teide",
-          "url": "https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5"
+          "name": "Vaughn Harrison",
+          "url": "https://open.spotify.com/artist/6q83QeDrspxDVTOmYMAxS8"
         }
       ],
-      "duration_ms": 155693,
-      "name": "Mitternacht",
-      "url": "https://open.spotify.com/track/61LRf67gHGilGO4DbIecZz"
+      "duration_ms": 145092,
+      "name": "Forevermore",
+      "url": "https://open.spotify.com/track/3Na1QdVT2YRBw9S8RikZzo"
     },
     {
       "added_at": "2025-12-23 11:16:57",
@@ -1339,18 +1323,18 @@
     {
       "added_at": "2025-12-23 11:16:57",
       "album": {
-        "name": "Trumpets Of Datura",
-        "url": "https://open.spotify.com/album/3NtT2DyYz6JfTrjznupDap"
+        "name": "Mitternacht",
+        "url": "https://open.spotify.com/album/0LZwgyNIT6ZFHBSUGwAz39"
       },
       "artists": [
         {
-          "name": "Leisel Walker",
-          "url": "https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou"
+          "name": "Teide",
+          "url": "https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5"
         }
       ],
-      "duration_ms": 143949,
-      "name": "Trumpets Of Datura",
-      "url": "https://open.spotify.com/track/0bGyHFMw91fp3ghaw85wxo"
+      "duration_ms": 155693,
+      "name": "Mitternacht",
+      "url": "https://open.spotify.com/track/61LRf67gHGilGO4DbIecZz"
     },
     {
       "added_at": "2025-12-23 11:16:57",
@@ -1371,22 +1355,6 @@
     {
       "added_at": "2025-12-23 11:16:57",
       "album": {
-        "name": "Irreversible",
-        "url": "https://open.spotify.com/album/0MQWtPXU0Rxr4PAf5k1hmh"
-      },
-      "artists": [
-        {
-          "name": "Karl Hasselfors",
-          "url": "https://open.spotify.com/artist/0oTXHaCCC8C2xvKLRxDgtC"
-        }
-      ],
-      "duration_ms": 136045,
-      "name": "Irreversible",
-      "url": "https://open.spotify.com/track/3iGoaawn0i6d0IUESJxM0f"
-    },
-    {
-      "added_at": "2025-12-23 11:16:57",
-      "album": {
         "name": "Faith",
         "url": "https://open.spotify.com/album/30yFD3pNvrdGDCyGHB81lE"
       },
@@ -1399,6 +1367,38 @@
       "duration_ms": 120900,
       "name": "Faith",
       "url": "https://open.spotify.com/track/4omFiQ6RZGmoC5QncFwZ5P"
+    },
+    {
+      "added_at": "2025-12-23 11:16:57",
+      "album": {
+        "name": "Trumpets Of Datura",
+        "url": "https://open.spotify.com/album/3NtT2DyYz6JfTrjznupDap"
+      },
+      "artists": [
+        {
+          "name": "Leisel Walker",
+          "url": "https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou"
+        }
+      ],
+      "duration_ms": 143949,
+      "name": "Trumpets Of Datura",
+      "url": "https://open.spotify.com/track/0bGyHFMw91fp3ghaw85wxo"
+    },
+    {
+      "added_at": "2025-12-23 11:16:57",
+      "album": {
+        "name": "Irreversible",
+        "url": "https://open.spotify.com/album/0MQWtPXU0Rxr4PAf5k1hmh"
+      },
+      "artists": [
+        {
+          "name": "Karl Hasselfors",
+          "url": "https://open.spotify.com/artist/0oTXHaCCC8C2xvKLRxDgtC"
+        }
+      ],
+      "duration_ms": 136045,
+      "name": "Irreversible",
+      "url": "https://open.spotify.com/track/3iGoaawn0i6d0IUESJxM0f"
     },
     {
       "added_at": "2025-12-23 11:16:57",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2025-12-23 11:16:57",
       "album": {
-        "name": "Cul de sac",
-        "url": "https://open.spotify.com/album/6KH73Y6QxFQYaqeiv1fZ9q"
-      },
-      "artists": [
-        {
-          "name": "Oscar Sergel",
-          "url": "https://open.spotify.com/artist/0di12xR3Qca66XeRGBn1z8"
-        }
-      ],
-      "duration_ms": 129250,
-      "name": "Cul de sac",
-      "url": "https://open.spotify.com/track/3P6KxwWTTTcsWPx6Q5T932"
-    },
-    {
-      "added_at": "2025-12-23 11:16:57",
-      "album": {
         "name": "Portrait of a shade",
         "url": "https://open.spotify.com/album/4KKhQ4EM56Fsle0NFsOqIu"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 175529,
       "name": "Portrait of a shade",
       "url": "https://open.spotify.com/track/1oAET48hdT1Bg9BM0FLIkw"
+    },
+    {
+      "added_at": "2025-12-23 11:16:57",
+      "album": {
+        "name": "Cul de sac",
+        "url": "https://open.spotify.com/album/6KH73Y6QxFQYaqeiv1fZ9q"
+      },
+      "artists": [
+        {
+          "name": "Oscar Sergel",
+          "url": "https://open.spotify.com/artist/0di12xR3Qca66XeRGBn1z8"
+        }
+      ],
+      "duration_ms": 129250,
+      "name": "Cul de sac",
+      "url": "https://open.spotify.com/track/3P6KxwWTTTcsWPx6Q5T932"
     },
     {
       "added_at": "2025-12-23 11:16:57",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2025-12-23 11:16:57",
       "album": {
+        "name": "Blazing",
+        "url": "https://open.spotify.com/album/3xZZ9V4l1VjBDvpDUxnynu"
+      },
+      "artists": [
+        {
+          "name": "Korey Banks",
+          "url": "https://open.spotify.com/artist/300oLKNAaJNFP04XeswaAG"
+        }
+      ],
+      "duration_ms": 127187,
+      "name": "Blazing",
+      "url": "https://open.spotify.com/track/4a4xMLfNR4gNYBOdqXJafV"
+    },
+    {
+      "added_at": "2025-12-23 11:16:57",
+      "album": {
         "name": "Embrace",
         "url": "https://open.spotify.com/album/0C83mcs8JuXEmndmauE2YJ"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 243214,
       "name": "I Tried",
       "url": "https://open.spotify.com/track/4ZEjWfdhgbV5M90h8XMn8N"
-    },
-    {
-      "added_at": "2025-12-23 11:16:57",
-      "album": {
-        "name": "Blazing",
-        "url": "https://open.spotify.com/album/3xZZ9V4l1VjBDvpDUxnynu"
-      },
-      "artists": [
-        {
-          "name": "Korey Banks",
-          "url": "https://open.spotify.com/artist/300oLKNAaJNFP04XeswaAG"
-        }
-      ],
-      "duration_ms": 127187,
-      "name": "Blazing",
-      "url": "https://open.spotify.com/track/4a4xMLfNR4gNYBOdqXJafV"
     },
     {
       "added_at": "2025-12-23 11:16:57",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2025-12-23 11:16:57",
       "album": {
-        "name": "Yasashii",
-        "url": "https://open.spotify.com/album/3lpTY9zCdlgiZV1EZm4UJR"
-      },
-      "artists": [
-        {
-          "name": "Asahi Haru",
-          "url": "https://open.spotify.com/artist/2n6xoAIjeAig3mKdbHWrgM"
-        }
-      ],
-      "duration_ms": 134740,
-      "name": "Yasashii",
-      "url": "https://open.spotify.com/track/2Zq0snCBJhOzT61Lhroxr6"
-    },
-    {
-      "added_at": "2025-12-23 11:16:57",
-      "album": {
         "name": "Paloma",
         "url": "https://open.spotify.com/album/3xRBY4G7wM6zO4tTZapAJ6"
       },
@@ -1775,18 +1759,18 @@
     {
       "added_at": "2025-12-23 11:16:57",
       "album": {
-        "name": "A Silent Oath",
-        "url": "https://open.spotify.com/album/0qQ0rXO2B3i7OjevLUoMLC"
+        "name": "Yasashii",
+        "url": "https://open.spotify.com/album/3lpTY9zCdlgiZV1EZm4UJR"
       },
       "artists": [
         {
-          "name": "Oceane Bardot",
-          "url": "https://open.spotify.com/artist/4YYQ7Q0261K5rIEs0SQZIi"
+          "name": "Asahi Haru",
+          "url": "https://open.spotify.com/artist/2n6xoAIjeAig3mKdbHWrgM"
         }
       ],
-      "duration_ms": 156825,
-      "name": "A Silent Oath",
-      "url": "https://open.spotify.com/track/11MlnFnD90ddpz50Pk5WND"
+      "duration_ms": 134740,
+      "name": "Yasashii",
+      "url": "https://open.spotify.com/track/2Zq0snCBJhOzT61Lhroxr6"
     },
     {
       "added_at": "2025-12-23 11:16:57",
@@ -1807,6 +1791,22 @@
     {
       "added_at": "2025-12-23 11:16:57",
       "album": {
+        "name": "A Silent Oath",
+        "url": "https://open.spotify.com/album/0qQ0rXO2B3i7OjevLUoMLC"
+      },
+      "artists": [
+        {
+          "name": "Oceane Bardot",
+          "url": "https://open.spotify.com/artist/4YYQ7Q0261K5rIEs0SQZIi"
+        }
+      ],
+      "duration_ms": 156825,
+      "name": "A Silent Oath",
+      "url": "https://open.spotify.com/track/11MlnFnD90ddpz50Pk5WND"
+    },
+    {
+      "added_at": "2025-12-23 11:16:57",
+      "album": {
         "name": "For Kate",
         "url": "https://open.spotify.com/album/1eGuJ5nZme9vfMMyb5B07S"
       },
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2025-12-23 11:16:57",
       "album": {
-        "name": "Fjardsdal",
-        "url": "https://open.spotify.com/album/0HF9eRcIWArUYPBXJ1FJVk"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Haag",
-          "url": "https://open.spotify.com/artist/1DCDW9vq8CKwTDSh6TcXn2"
-        }
-      ],
-      "duration_ms": 123892,
-      "name": "Fjardsdal",
-      "url": "https://open.spotify.com/track/1ccLHt0aEkckZKgysxn134"
-    },
-    {
-      "added_at": "2025-12-23 11:16:57",
-      "album": {
         "name": "Chrysalis",
         "url": "https://open.spotify.com/album/4cohq3GCrl8vtb0yB8N0nR"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 151000,
       "name": "Chrysalis",
       "url": "https://open.spotify.com/track/6dzhIRxruUuzbiLF4gqZAz"
+    },
+    {
+      "added_at": "2025-12-23 11:16:57",
+      "album": {
+        "name": "Fjardsdal",
+        "url": "https://open.spotify.com/album/0HF9eRcIWArUYPBXJ1FJVk"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Haag",
+          "url": "https://open.spotify.com/artist/1DCDW9vq8CKwTDSh6TcXn2"
+        }
+      ],
+      "duration_ms": 123892,
+      "name": "Fjardsdal",
+      "url": "https://open.spotify.com/track/1ccLHt0aEkckZKgysxn134"
     },
     {
       "added_at": "2025-12-23 11:16:57",
@@ -1967,6 +1967,22 @@
     {
       "added_at": "2025-12-23 11:16:57",
       "album": {
+        "name": "Oktobervals",
+        "url": "https://open.spotify.com/album/40mVqyNnl4FDZyl6Fc1EDS"
+      },
+      "artists": [
+        {
+          "name": "Christian Peterson-Bergling",
+          "url": "https://open.spotify.com/artist/0jXPRVmiApahArJiibipfH"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Oktobervals",
+      "url": "https://open.spotify.com/track/4icmGX5PB2GEVBzE6dDdZD"
+    },
+    {
+      "added_at": "2025-12-23 11:16:57",
+      "album": {
         "name": "Orr\u00e1nge",
         "url": "https://open.spotify.com/album/4050fpm081zdcCa5xeM0wK"
       },
@@ -1999,22 +2015,6 @@
     {
       "added_at": "2025-12-23 11:16:57",
       "album": {
-        "name": "Oktobervals",
-        "url": "https://open.spotify.com/album/40mVqyNnl4FDZyl6Fc1EDS"
-      },
-      "artists": [
-        {
-          "name": "Christian Peterson-Bergling",
-          "url": "https://open.spotify.com/artist/0jXPRVmiApahArJiibipfH"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Oktobervals",
-      "url": "https://open.spotify.com/track/4icmGX5PB2GEVBzE6dDdZD"
-    },
-    {
-      "added_at": "2025-12-23 11:16:57",
-      "album": {
         "name": "Orpheus",
         "url": "https://open.spotify.com/album/5u6J1xnvJzVgBaSDhMIABv"
       },
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2025-12-23 11:16:57",
       "album": {
-        "name": "Make You Cry",
-        "url": "https://open.spotify.com/album/2xwai1aQwHYbqxR41G72m7"
-      },
-      "artists": [
-        {
-          "name": "Willow J. Wilson",
-          "url": "https://open.spotify.com/artist/5V2XzGtcdmXM5QZq2wnH0T"
-        }
-      ],
-      "duration_ms": 156625,
-      "name": "Make You Cry",
-      "url": "https://open.spotify.com/track/1DjzxC7OjFGSjtu6BrVSLL"
-    },
-    {
-      "added_at": "2025-12-23 11:16:57",
-      "album": {
         "name": "feels like home",
         "url": "https://open.spotify.com/album/6pN0ppTy0rliZ8OkoPBKmL"
       },
@@ -2059,6 +2043,22 @@
       "duration_ms": 141252,
       "name": "feels like home",
       "url": "https://open.spotify.com/track/3v1M7kq2L1wgRKXgWuY3N3"
+    },
+    {
+      "added_at": "2025-12-23 11:16:57",
+      "album": {
+        "name": "Make You Cry",
+        "url": "https://open.spotify.com/album/2xwai1aQwHYbqxR41G72m7"
+      },
+      "artists": [
+        {
+          "name": "Willow J. Wilson",
+          "url": "https://open.spotify.com/artist/5V2XzGtcdmXM5QZq2wnH0T"
+        }
+      ],
+      "duration_ms": 156625,
+      "name": "Make You Cry",
+      "url": "https://open.spotify.com/track/1DjzxC7OjFGSjtu6BrVSLL"
     },
     {
       "added_at": "2025-12-23 11:16:57",
@@ -2179,22 +2179,6 @@
     {
       "added_at": "2025-12-23 11:16:57",
       "album": {
-        "name": "Spiral",
-        "url": "https://open.spotify.com/album/5QvbS2AE9s5wjP1KtUCW7v"
-      },
-      "artists": [
-        {
-          "name": "Javi Lobe",
-          "url": "https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT"
-        }
-      ],
-      "duration_ms": 132594,
-      "name": "Spiral",
-      "url": "https://open.spotify.com/track/3Hpdt4sw1U9FST02nj6E67"
-    },
-    {
-      "added_at": "2025-12-23 11:16:57",
-      "album": {
         "name": "Emeralds",
         "url": "https://open.spotify.com/album/6PHgykEEHPYKP67jLJaFWg"
       },
@@ -2211,22 +2195,6 @@
     {
       "added_at": "2025-12-23 11:16:57",
       "album": {
-        "name": "Nachtvogel",
-        "url": "https://open.spotify.com/album/1ZBeC4dVVod4hgdXU4aij2"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Schulmann",
-          "url": "https://open.spotify.com/artist/0AUguA7F9t87WF6krMPXyz"
-        }
-      ],
-      "duration_ms": 194526,
-      "name": "Watzmann",
-      "url": "https://open.spotify.com/track/0LTym92HfbaGJLCqYlmK9O"
-    },
-    {
-      "added_at": "2025-12-23 11:16:57",
-      "album": {
         "name": "L'autunno",
         "url": "https://open.spotify.com/album/5RgG1uA2oFXVdPjFeOqlS2"
       },
@@ -2239,6 +2207,22 @@
       "duration_ms": 146054,
       "name": "L'autunno",
       "url": "https://open.spotify.com/track/34XblyhjvYRFtfaQQn0AnF"
+    },
+    {
+      "added_at": "2025-12-23 11:16:57",
+      "album": {
+        "name": "Spiral",
+        "url": "https://open.spotify.com/album/5QvbS2AE9s5wjP1KtUCW7v"
+      },
+      "artists": [
+        {
+          "name": "Javi Lobe",
+          "url": "https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT"
+        }
+      ],
+      "duration_ms": 132594,
+      "name": "Spiral",
+      "url": "https://open.spotify.com/track/3Hpdt4sw1U9FST02nj6E67"
     },
     {
       "added_at": "2025-12-23 11:16:57",
@@ -2287,6 +2271,22 @@
       "duration_ms": 131812,
       "name": "Tresillo",
       "url": "https://open.spotify.com/track/0jen5uU56ghIk8EEDAnllp"
+    },
+    {
+      "added_at": "2025-12-23 11:16:57",
+      "album": {
+        "name": "Nachtvogel",
+        "url": "https://open.spotify.com/album/1ZBeC4dVVod4hgdXU4aij2"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Schulmann",
+          "url": "https://open.spotify.com/artist/0AUguA7F9t87WF6krMPXyz"
+        }
+      ],
+      "duration_ms": 194526,
+      "name": "Watzmann",
+      "url": "https://open.spotify.com/track/0LTym92HfbaGJLCqYlmK9O"
     },
     {
       "added_at": "2025-12-23 11:16:57",
@@ -2355,22 +2355,6 @@
     {
       "added_at": "2025-12-23 11:16:57",
       "album": {
-        "name": "The Girl With Flowers",
-        "url": "https://open.spotify.com/album/4gQ0JmZKmSpm5sO9EP8i1V"
-      },
-      "artists": [
-        {
-          "name": "Auley Gere",
-          "url": "https://open.spotify.com/artist/2JlV3vR07HGe6joOPztyuz"
-        }
-      ],
-      "duration_ms": 133279,
-      "name": "The Girl With Flowers",
-      "url": "https://open.spotify.com/track/490U5azHzbaJRShKWPtOwX"
-    },
-    {
-      "added_at": "2025-12-23 11:16:57",
-      "album": {
         "name": "Pourquoi",
         "url": "https://open.spotify.com/album/1OWuvV6W1ajl6Lp0Lncp4Z"
       },
@@ -2387,18 +2371,18 @@
     {
       "added_at": "2025-12-23 11:16:57",
       "album": {
-        "name": "Elmegy\u00fcnk",
-        "url": "https://open.spotify.com/album/6ChJGxSn8Zawyjz2pzQe24"
+        "name": "The Girl With Flowers",
+        "url": "https://open.spotify.com/album/4gQ0JmZKmSpm5sO9EP8i1V"
       },
       "artists": [
         {
-          "name": "Csizmazia Etel",
-          "url": "https://open.spotify.com/artist/0fzi88EmWAkkGiMVuIIi1S"
+          "name": "Auley Gere",
+          "url": "https://open.spotify.com/artist/2JlV3vR07HGe6joOPztyuz"
         }
       ],
-      "duration_ms": 138500,
-      "name": "Elmegy\u00fcnk",
-      "url": "https://open.spotify.com/track/1hhRujLttXr7iYXQbFsgcT"
+      "duration_ms": 133279,
+      "name": "The Girl With Flowers",
+      "url": "https://open.spotify.com/track/490U5azHzbaJRShKWPtOwX"
     },
     {
       "added_at": "2025-12-23 11:16:57",
@@ -2415,6 +2399,22 @@
       "duration_ms": 148549,
       "name": "November Afternoon",
       "url": "https://open.spotify.com/track/0lMNLswdGdZh92jglAl7iY"
+    },
+    {
+      "added_at": "2025-12-23 11:16:57",
+      "album": {
+        "name": "Elmegy\u00fcnk",
+        "url": "https://open.spotify.com/album/6ChJGxSn8Zawyjz2pzQe24"
+      },
+      "artists": [
+        {
+          "name": "Csizmazia Etel",
+          "url": "https://open.spotify.com/artist/0fzi88EmWAkkGiMVuIIi1S"
+        }
+      ],
+      "duration_ms": 138500,
+      "name": "Elmegy\u00fcnk",
+      "url": "https://open.spotify.com/track/1hhRujLttXr7iYXQbFsgcT"
     },
     {
       "added_at": "2025-12-23 11:16:57",

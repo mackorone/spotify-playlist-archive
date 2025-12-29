@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,246 songs - 3 day 4 hr 18 min
+1,250 songs - 3 day 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,6 +217,7 @@
 | [Cross My Heart](https://open.spotify.com/track/3DSngt5zB8tX1DTsD2kzPK) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Bon Voyage](https://open.spotify.com/album/2ejxvsjo229Jnsnluek1zZ) | 6:55 | 2022-12-21 |  |
 | [Crying All the Time](https://open.spotify.com/track/6UHdBTFBYwKErZmqDRLGbD) | [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [The Archer](https://open.spotify.com/album/6LbyR5pthd2ao8QwxzLtV8) | 3:30 | 2022-07-16 |  |
 | [Crying Lightning](https://open.spotify.com/track/6wVWJl64yoTzU27EI8ep20) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Humbug](https://open.spotify.com/album/5IEoiwkThhRmSMBANhpxl2) | 3:44 | 2020-10-20 |  |
+| [Crying, Laughing, Loving, Lying](https://open.spotify.com/track/4QOqvhGpIbEKvQVJAqQa3L) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [Y’all](https://open.spotify.com/album/3QliGTfl4dbkKLI17VkbVl) | 2:23 | 2025-12-29 |  |
 | [Crying, Laughing, Loving, Lying](https://open.spotify.com/track/6P3vusStV43K0SOHyLeYjY) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Magpie \(Expansion Pack\)](https://open.spotify.com/album/50bSJ3cQRYKSTR5NcGL97a) | 3:35 | 2025-05-12 |  |
 | [Cudi Montage](https://open.spotify.com/track/4kUZvXB3LC3an3HX6h0s17) | [KIDS SEE GHOSTS](https://open.spotify.com/artist/2hPgGN4uhvXAxiXQBIXOmE) | [KIDS SEE GHOSTS](https://open.spotify.com/album/6pwuKxMUkNg673KETsXPUV) | 3:17 | 2021-10-22 |  |
 | [Cupid](https://open.spotify.com/track/6yu9LcfTlFwc16D3xtJ8AI) | [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [Belladonna of Sadness](https://open.spotify.com/album/7zo4kiBFeJ6fTRJLTKo7XU) | 2:57 | 2022-01-07 |  |
@@ -391,6 +392,7 @@
 | [GET IT RIGHT](https://open.spotify.com/track/3opHXLp5teEhmdVdDA9MJ9) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [FATHER FIGURE](https://open.spotify.com/album/5xKTTHKTTFyNxtOLGtznaR) | 4:13 | 2025-06-04 |  |
 | [get it right](https://open.spotify.com/track/6xpWSpQKsyj4qElE792HBf) | [S\-X](https://open.spotify.com/artist/0JYmighF3zbuA81Di54CZN) | [things change](https://open.spotify.com/album/3NxDEbOY9ch3YSqLh8duBs) | 2:58 | 2022-07-29 |  |
 | [Get Light](https://open.spotify.com/track/3iuBfAec9qN2UylQv9NcKR) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [King's Disease III](https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk) | 2:52 | 2022-11-28 |  |
+| [Get Your Wish](https://open.spotify.com/track/4Mn9mcuSPHfvKy2BSAYxcV) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Nurture](https://open.spotify.com/album/3QITXlmmt93E176jzVqKUb) | 3:38 | 2025-12-29 |  |
 | [Ghetto Reporter](https://open.spotify.com/track/0qHXyED9mnRk3DnXowUe6Y) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [King's Disease III](https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk) | 2:36 | 2022-11-15 |  |
 | [Ghost Town](https://open.spotify.com/track/7vgTNTaEz3CsBZ1N4YQalM) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [ye](https://open.spotify.com/album/2Ek1q2haOnxVqhvVKqMvJe) | 4:31 | 2021-11-23 |  |
 | [Ghostride](https://open.spotify.com/track/0R3TWpoxAhT3HDXM7tpRzS) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Jinx](https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY) | 2:06 | 2025-09-06 |  |
@@ -627,6 +629,7 @@
 | [LIVE LIKE THIS](https://open.spotify.com/track/22dSEtld6YeFTSnltvTbqD) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [LIVE LIKE THIS](https://open.spotify.com/album/4TiEYgIpDnzJEnjHbcKtnD) | 2:12 | 2021-10-02 |  |
 | [Loaded](https://open.spotify.com/track/091QeYor0DTf2kdhkKk3xk) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Coup De Grace](https://open.spotify.com/album/6aeQVwrZZu7wDpFMtTApyC) | 3:18 | 2021-01-24 |  |
 | [Locket](https://open.spotify.com/track/2vfPsGhqMbqmhjMGQ52dYf) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Locket](https://open.spotify.com/album/4pKJ14jcQKqko0cVBYoeWR) | 5:18 | 2024-06-17 |  |
+| [Look at the Sky](https://open.spotify.com/track/7LMajLn4v2ZWmLcfE1a7DY) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Nurture](https://open.spotify.com/album/3QITXlmmt93E176jzVqKUb) | 5:09 | 2025-12-29 |  |
 | [Look Me In The Eyes \(feat\. James Blake\)](https://open.spotify.com/track/4K6QZO2D3FNhLr7jKpPoQm) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [The Alexander Technique](https://open.spotify.com/album/5HSZsS7TGsyMvur547zjVe) | 3:44 | 2024-10-10 |  |
 | [Look Out!](https://open.spotify.com/track/4N1zjRwfeYAfKVIjjYbDRX) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Look Out!](https://open.spotify.com/album/0TnjBNwKKH0uihxRTgrktF) | 2:56 | 2021-11-12 |  |
 | [LOOOVE \(feat\. Kid Cudi\)](https://open.spotify.com/track/0a4SMs889NwP8oWI7Vemle) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:46 | 2023-07-28 |  |
@@ -912,6 +915,7 @@
 | [See You On Monday \(You're Lost\)](https://open.spotify.com/track/4dReLsqSqYhrC83Qgg7Lyx) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 3:34 | 2025-10-18 |  |
 | [Self Care](https://open.spotify.com/track/5bJ1DrEM4hNCafcDd1oxHx) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Swimming](https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk) | 5:45 | 2023-01-18 |  |
 | [Send Her Back](https://open.spotify.com/track/3MprZNbZONZzYNluD4yWWK) | [Alexandra Savior](https://open.spotify.com/artist/2qqZbV6smvvtohQOUgZqKa) | [The Archer](https://open.spotify.com/album/6LbyR5pthd2ao8QwxzLtV8) | 2:34 | 2022-07-16 |  |
+| [Sensitive](https://open.spotify.com/track/6M2qAVElwA5Opyvbur8DqU) | [rozey](https://open.spotify.com/artist/20fOKcudXS3Yyl6ifwXf2u) | [Anything Instead of Anything](https://open.spotify.com/album/6qNzNPw1bqfazXkIxb70Eu) | 4:22 | 2025-12-28 |  |
 | [Separate And Ever Deadly](https://open.spotify.com/track/4zEQzXsUHwepnZRuBbJAhI) | [The Last Shadow Puppets](https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf), [Alex Turner](https://open.spotify.com/artist/1ctkBmvz80MGyi72Ix055S), [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [The Age Of The Understatement](https://open.spotify.com/album/2y3Rm0cT1xbf2NoTQwKv99) | 2:40 | 2024-06-17 |  |
 | [Serious Interlude](https://open.spotify.com/track/3H6ULj4SwNvFIBgMEzjWMP) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [King's Disease III](https://open.spotify.com/album/3vQuGKQJMfdXmkjRKqUesk) | 2:58 | 2022-11-28 |  |
 | [Settle For A Draw](https://open.spotify.com/track/53HN7HhY2ItbDwMdgMyGcg) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [When The Sun Goes Down](https://open.spotify.com/album/4cUpTEmoRKchgeA07x5DRB) | 3:20 | 2021-03-23 |  |

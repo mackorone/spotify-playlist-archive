@@ -1,6 +1,6 @@
 {
   "description": "Solo hit rap da ascoltare in loop. Cover: Salmo",
-  "num_followers": 243190,
+  "num_followers": 243252,
   "original_name": "Hit Rap Italiane",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2025-11-20 13:34:18",
       "album": {
+        "name": "EP1",
+        "url": "https://open.spotify.com/album/3bZxXrtUV3uiT3Y3OOAvqP"
+      },
+      "artists": [
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        }
+      ],
+      "duration_ms": 133217,
+      "name": "Marocchino",
+      "url": "https://open.spotify.com/track/0f2wkDmAlLAo90gE5d1yPU"
+    },
+    {
+      "added_at": "2025-11-20 13:34:18",
+      "album": {
         "name": "ASTRO DELUXE",
         "url": "https://open.spotify.com/album/3Lo62QIzWRpUzcL0WXkPfL"
       },
@@ -419,22 +435,6 @@
     {
       "added_at": "2025-11-20 13:34:18",
       "album": {
-        "name": "EP1",
-        "url": "https://open.spotify.com/album/3bZxXrtUV3uiT3Y3OOAvqP"
-      },
-      "artists": [
-        {
-          "name": "Baby Gang",
-          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
-        }
-      ],
-      "duration_ms": 133217,
-      "name": "Marocchino",
-      "url": "https://open.spotify.com/track/0f2wkDmAlLAo90gE5d1yPU"
-    },
-    {
-      "added_at": "2025-11-20 13:34:18",
-      "album": {
         "name": "NOI, LORO, GLI ALTRI",
         "url": "https://open.spotify.com/album/0rgggvSYGSms079nUlcAGX"
       },
@@ -484,13 +484,13 @@
           "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
         },
         {
-          "name": "Artie 5ive",
-          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+          "name": "Niky Savage",
+          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
         }
       ],
-      "duration_ms": 191999,
-      "name": "I LOVE IT (feat. Artie 5ive)",
-      "url": "https://open.spotify.com/track/4ZRVI6xwgbjgW5SgJB468n"
+      "duration_ms": 144210,
+      "name": "TT LE GIRLZ (feat. Niky Savage)",
+      "url": "https://open.spotify.com/track/7sj9VfVtmcEZBDbRAsVXWY"
     },
     {
       "added_at": "2025-11-20 13:34:18",
@@ -584,13 +584,13 @@
           "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
         },
         {
-          "name": "Niky Savage",
-          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
         }
       ],
-      "duration_ms": 144210,
-      "name": "TT LE GIRLZ (feat. Niky Savage)",
-      "url": "https://open.spotify.com/track/7sj9VfVtmcEZBDbRAsVXWY"
+      "duration_ms": 191999,
+      "name": "I LOVE IT (feat. Artie 5ive)",
+      "url": "https://open.spotify.com/track/4ZRVI6xwgbjgW5SgJB468n"
     },
     {
       "added_at": "2025-11-20 13:34:18",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2025-11-20 13:34:18",
       "album": {
-        "name": "Come Uccidere Un Usignolo",
-        "url": "https://open.spotify.com/album/2MEJwoXq5hRxCU2vzOhwIp"
-      },
-      "artists": [
-        {
-          "name": "Ernia",
-          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
-        }
-      ],
-      "duration_ms": 206510,
-      "name": "Bella",
-      "url": "https://open.spotify.com/track/7CxLQIq4kIq8P8UwemcKfX"
-    },
-    {
-      "added_at": "2025-11-20 13:34:18",
-      "album": {
         "name": "SOLO TUTTO",
         "url": "https://open.spotify.com/album/7I9kWuzlJwWCtP0jDgqpcw"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 187431,
       "name": "STUPIDO",
       "url": "https://open.spotify.com/track/6HVRRlc2sBlkcKEkhlsp86"
+    },
+    {
+      "added_at": "2025-11-20 13:34:18",
+      "album": {
+        "name": "Come Uccidere Un Usignolo",
+        "url": "https://open.spotify.com/album/2MEJwoXq5hRxCU2vzOhwIp"
+      },
+      "artists": [
+        {
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+        }
+      ],
+      "duration_ms": 206510,
+      "name": "Bella",
+      "url": "https://open.spotify.com/track/7CxLQIq4kIq8P8UwemcKfX"
     },
     {
       "added_at": "2025-11-20 13:34:18",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2025-11-20 13:34:18",
       "album": {
+        "name": "Bellaria",
+        "url": "https://open.spotify.com/album/68nhU5oObeTv5qNosFuVAD"
+      },
+      "artists": [
+        {
+          "name": "Vegas Jones",
+          "url": "https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp"
+        }
+      ],
+      "duration_ms": 211518,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/08AN0HMXNr3DGGDCOWsTAw"
+    },
+    {
+      "added_at": "2025-11-20 13:34:18",
+      "album": {
         "name": "Kepler",
         "url": "https://open.spotify.com/album/4ylUcWOFP2UR8of9Pw0kog"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 187615,
       "name": "Blue Sky",
       "url": "https://open.spotify.com/track/1WOeWKKfUxx8hlH8RSRjfV"
-    },
-    {
-      "added_at": "2025-11-20 13:34:18",
-      "album": {
-        "name": "Bellaria",
-        "url": "https://open.spotify.com/album/68nhU5oObeTv5qNosFuVAD"
-      },
-      "artists": [
-        {
-          "name": "Vegas Jones",
-          "url": "https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp"
-        }
-      ],
-      "duration_ms": 211518,
-      "name": "Malibu",
-      "url": "https://open.spotify.com/track/08AN0HMXNr3DGGDCOWsTAw"
     },
     {
       "added_at": "2025-11-20 13:34:18",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2025-11-20 13:34:18",
       "album": {
-        "name": "Davide",
-        "url": "https://open.spotify.com/album/74H59wB5WUQJrF5d9bqxn8"
-      },
-      "artists": [
-        {
-          "name": "Gemitaiz",
-          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
-        }
-      ],
-      "duration_ms": 180346,
-      "name": "Lo Sai Che Ci Penso",
-      "url": "https://open.spotify.com/track/6qE4ocLpaSUkWYrcpbPN7Z"
-    },
-    {
-      "added_at": "2025-11-20 13:34:18",
-      "album": {
         "name": "23 6451",
         "url": "https://open.spotify.com/album/42wflBbrb9OchJfd3qiGRO"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 161266,
       "name": "fuck 3x",
       "url": "https://open.spotify.com/track/5YxP1CkunbhUQVvctFOHa7"
+    },
+    {
+      "added_at": "2025-11-20 13:34:18",
+      "album": {
+        "name": "Davide",
+        "url": "https://open.spotify.com/album/74H59wB5WUQJrF5d9bqxn8"
+      },
+      "artists": [
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+        }
+      ],
+      "duration_ms": 180346,
+      "name": "Lo Sai Che Ci Penso",
+      "url": "https://open.spotify.com/track/6qE4ocLpaSUkWYrcpbPN7Z"
     },
     {
       "added_at": "2025-11-20 13:34:18",
@@ -1655,6 +1655,26 @@
     {
       "added_at": "2025-11-20 13:34:18",
       "album": {
+        "name": "c@ra++ere s?ec!@le",
+        "url": "https://open.spotify.com/album/0aNU7OgnwicBxJrhvv4Bah"
+      },
+      "artists": [
+        {
+          "name": "thasup",
+          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
+        },
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        }
+      ],
+      "duration_ms": 182078,
+      "name": "Dimmi Che C'\u00e8 (feat. Tedua)",
+      "url": "https://open.spotify.com/track/7jVQ6DP7Q6S2wKWqJmcTZL"
+    },
+    {
+      "added_at": "2025-11-20 13:34:18",
+      "album": {
         "name": "T\u00caTE (feat. Medy & VillaBanks)",
         "url": "https://open.spotify.com/album/5TL8p0VHTb54SA7FGhL8lG"
       },
@@ -1675,26 +1695,6 @@
       "duration_ms": 180904,
       "name": "T\u00caTE (feat. Medy & VillaBanks)",
       "url": "https://open.spotify.com/track/14XAuSrVFla2uyMiYVwQtq"
-    },
-    {
-      "added_at": "2025-11-20 13:34:18",
-      "album": {
-        "name": "c@ra++ere s?ec!@le",
-        "url": "https://open.spotify.com/album/0aNU7OgnwicBxJrhvv4Bah"
-      },
-      "artists": [
-        {
-          "name": "thasup",
-          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
-        },
-        {
-          "name": "Tedua",
-          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
-        }
-      ],
-      "duration_ms": 182078,
-      "name": "Dimmi Che C'\u00e8 (feat. Tedua)",
-      "url": "https://open.spotify.com/track/7jVQ6DP7Q6S2wKWqJmcTZL"
     },
     {
       "added_at": "2025-11-20 13:34:18",
@@ -1923,22 +1923,26 @@
     {
       "added_at": "2025-11-20 13:34:18",
       "album": {
-        "name": "Io In Terra",
-        "url": "https://open.spotify.com/album/7qs6R874LFaGWVVrPTELXc"
+        "name": "s!r! (feat. Lazza & Sfera Ebbasta)",
+        "url": "https://open.spotify.com/album/3FKHKKhVw31wJoYybif80p"
       },
       "artists": [
         {
-          "name": "Rkomi",
-          "url": "https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3"
+          "name": "thasup",
+          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
         },
         {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
         }
       ],
-      "duration_ms": 167346,
-      "name": "Milano Bachata",
-      "url": "https://open.spotify.com/track/4npeg094qxxH7Fp2aoi04O"
+      "duration_ms": 237701,
+      "name": "s!r! (feat. Lazza & Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/3gUzi41YOt3VExeyHSLsMj"
     }
   ],
   "unique_name": "Hit Rap Italiane",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gMBaRFQjOY.md) - [plain]
 
 > Country classics you know and love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 597,137 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 597,351 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gMBaRFQjOY.md) - [plain]
 | 22 | [Rhinestone Cowboy](https://open.spotify.com/track/0VwTeYNjcl30DyQlt3GPe0) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [Rhinestone Cowboy \(Expanded Edition\)](https://open.spotify.com/album/7rPkdQjs9TuObO1qAAovky) | 3:14 |
 | 23 | [On the Other Hand](https://open.spotify.com/track/5MkOctZG8LI9uHzpY7ncWj) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Storms of Life](https://open.spotify.com/album/6rOVPyzQ5s7cUUyHHplESf) | 3:06 |
 | 24 | [Thank God I'm a Country Boy](https://open.spotify.com/track/69HICMmc6nNLucAx3aJX9M) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Back Home Again](https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm) | 3:13 |
-| 25 | [I Walk The Line \- Single Version](https://open.spotify.com/track/6uya0AiJA1Avd4DY2XFlVm) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [The Tennessee Two](https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt) | [With His Hot and Blue Guitar](https://open.spotify.com/album/7L9tYDwzOMTP8GHWwmgz7E) | 2:43 |
-| 26 | [The Devil Went Down to Georgia](https://open.spotify.com/track/6gRACp2CvsIhc7hyw8CecQ) | [The Charlie Daniels Band](https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca) | [Million Mile Reflections](https://open.spotify.com/album/211gVLmc36aeE66qEHqN0a) | 3:35 |
+| 25 | [The Devil Went Down to Georgia](https://open.spotify.com/track/6gRACp2CvsIhc7hyw8CecQ) | [The Charlie Daniels Band](https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca) | [Million Mile Reflections](https://open.spotify.com/album/211gVLmc36aeE66qEHqN0a) | 3:35 |
+| 26 | [I Walk The Line \- Single Version](https://open.spotify.com/track/6uya0AiJA1Avd4DY2XFlVm) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [The Tennessee Two](https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt) | [With His Hot and Blue Guitar](https://open.spotify.com/album/7L9tYDwzOMTP8GHWwmgz7E) | 2:43 |
 | 27 | [Wichita Lineman \- Remastered 2001](https://open.spotify.com/track/6V9VCm1zOY2lGR80RehJ9i) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [Wichita Lineman \(Remastered\)](https://open.spotify.com/album/056tSaBR2WyN1nnmfIzkEE) | 3:06 |
 | 28 | [Rose Garden](https://open.spotify.com/track/5YwgJ6lpZ3SiAQwBEpjqey) | [Lynn Anderson](https://open.spotify.com/artist/502FY8XQYRxClWgolQ3Hf2) | [Rose Garden](https://open.spotify.com/album/2JItlMgM1n2GfKOmqYr8af) | 2:55 |
 | 29 | [I Believe In You](https://open.spotify.com/track/1PpbrbgsXRXeKw1GnZMEv7) | [Don Williams](https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe) | [I Believe In You](https://open.spotify.com/album/5FG0ZnaPrdDqlHpu9dAspG) | 4:06 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gMBaRFQjOY.md) - [plain]
 | 34 | [Blue Kentucky Girl](https://open.spotify.com/track/0BD9I8rnTQC43yNwEuaHSL) | [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [Gold](https://open.spotify.com/album/2Fk1fXwRNqdEdcfLuCrGxl) | 2:40 |
 | 35 | [Guitar Town](https://open.spotify.com/track/62ZRHYSOIT9WeZnz18kTHS) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Guitar Town](https://open.spotify.com/album/3bEnaGjQRqfoqNkAQtO1Uy) | 2:35 |
 | 36 | [Don't It Make My Brown Eyes Blue](https://open.spotify.com/track/7Jpclr7tZ6aQXjoKzWXUJV) | [Crystal Gayle](https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc) | [We Must Believe In Magic](https://open.spotify.com/album/57FGUcDejZqr816U3ZkMT8) | 2:37 |
-| 37 | [One Piece at a Time](https://open.spotify.com/track/1sueD22EyCamMjdQu9Kuo3) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Tennessee Three](https://open.spotify.com/artist/4yEQYaY1583BU8xppIffdp) | [One Piece At A Time](https://open.spotify.com/album/3cvJNkbrztr55SR4hhAw67) | 4:01 |
-| 38 | [Mama Tried](https://open.spotify.com/track/6h3YJ05BovN1Pgk145J3r9) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Mama Tried/ Pride In What I Am](https://open.spotify.com/album/7LmhShcQUdQf0vbfa6VUPn) | 2:14 |
+| 37 | [Mama Tried](https://open.spotify.com/track/6h3YJ05BovN1Pgk145J3r9) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Mama Tried/ Pride In What I Am](https://open.spotify.com/album/7LmhShcQUdQf0vbfa6VUPn) | 2:14 |
+| 38 | [One Piece at a Time](https://open.spotify.com/track/1sueD22EyCamMjdQu9Kuo3) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [Tennessee Three](https://open.spotify.com/artist/4yEQYaY1583BU8xppIffdp) | [One Piece At A Time](https://open.spotify.com/album/3cvJNkbrztr55SR4hhAw67) | 4:01 |
 | 39 | [Coat of Many Colors](https://open.spotify.com/track/1l2Xmg54EUr3TDzNIaCr1z) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Coat Of Many Colors](https://open.spotify.com/album/17CT6ru3CyDXAi6xVaSUzg) | 3:06 |
 | 40 | [Leaving Louisiana In The Broad Daylight](https://open.spotify.com/track/6BjA6FWovt4T2T5ZIW1XJQ) | [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [The Oak Ridge Boys Have Arrived](https://open.spotify.com/album/4AKEZZ8hdjYl8i5IiQMyaC) | 2:59 |
 | 41 | [Maybe It Was Memphis](https://open.spotify.com/track/3wjD3Ufjll7UKrEDPdGuX3) | [Pam Tillis](https://open.spotify.com/artist/1SX44N5qjWuFcCK8WTO0c6) | [Put Yourself In My Place](https://open.spotify.com/album/0zTzRgc57oSLwwErcfmMEz) | 3:59 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gMBaRFQjOY.md) - [plain]
 | 94 | [\(If Loving You Is Wrong\) I Don't Want To Be Right](https://open.spotify.com/track/1cxjGdsHJn2vo17AbWLFzu) | [Barbara Mandrell](https://open.spotify.com/artist/67BqBdApdbZ0onglFqRoTg) | [Ultimate Collection: Barbara Mandrell](https://open.spotify.com/album/42G4gGwqZzt4t9dlJTzDcX) | 3:05 |
 | 95 | [Young Love](https://open.spotify.com/track/7ow0KcdNRitEedvwQNTd6S) | [Sonny James](https://open.spotify.com/artist/0c08N8UlFjDaup9TNDaWxy) | [Capitol Collectors Series](https://open.spotify.com/album/0QSXhF0KcHeDOGY89JTtkr) | 2:32 |
 | 96 | [Heartaches By The Number](https://open.spotify.com/track/361wxJRa6M2sH1Epy2MAC1) | [Ray Price](https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP) | [Super Hits](https://open.spotify.com/album/6KJrpAaoqXM9FYWJEM76LV) | 2:56 |
-| 97 | [Am I Losing You \- 1959 Version](https://open.spotify.com/track/3CRQJXjhNZiyvoNc3RIcwr) | [Jim Reeves](https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg) | [Greatest Hits](https://open.spotify.com/album/1xA2yRz4VCNPpzDIioyowJ) | 2:19 |
-| 98 | [Honeycomb](https://open.spotify.com/track/7MqkjX5YCXhazcaAlHvPmJ) | [Jimmie Rodgers](https://open.spotify.com/artist/7bKOOOKEkE918wKOQEhYnp) | [The Best Of Jimmie Rodgers](https://open.spotify.com/album/45NJp1aF4AREJYjFww2PmH) | 2:17 |
+| 97 | [Honeycomb](https://open.spotify.com/track/7MqkjX5YCXhazcaAlHvPmJ) | [Jimmie Rodgers](https://open.spotify.com/artist/7bKOOOKEkE918wKOQEhYnp) | [The Best Of Jimmie Rodgers](https://open.spotify.com/album/45NJp1aF4AREJYjFww2PmH) | 2:17 |
+| 98 | [Am I Losing You \- 1959 Version](https://open.spotify.com/track/3CRQJXjhNZiyvoNc3RIcwr) | [Jim Reeves](https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg) | [Greatest Hits](https://open.spotify.com/album/1xA2yRz4VCNPpzDIioyowJ) | 2:19 |
 | 99 | ['Til I Can Make It on My Own](https://open.spotify.com/track/0aJHZYjwbfTmeyUWF7zGxI) | [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id) | [The Essential Tammy Wynette](https://open.spotify.com/album/5lmYjjjnij8ug8WrEoVQK7) | 3:02 |
 | 100 | [The Streets of Baltimore](https://open.spotify.com/track/3kDSSR6noFrYJBxijqEVm3) | [Bobby Bare](https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd) | [Streets of Baltimore](https://open.spotify.com/album/1J9xIY7ACyckZlVhGB76kp) | 2:40 |
 

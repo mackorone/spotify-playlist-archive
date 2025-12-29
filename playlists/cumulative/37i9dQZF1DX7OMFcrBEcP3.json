@@ -1182,7 +1182,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-11",
+      "date_removed": null,
       "duration_ms": 185546,
       "name": "El Federal de Caminos",
       "url": "https://open.spotify.com/track/6gff5htL4edefMTcgvIxOi"
@@ -2501,6 +2501,24 @@
     },
     {
       "album": {
+        "name": "El Jardinero (14 Corridazos Para El Pueblo)",
+        "url": "https://open.spotify.com/album/3cCvAX45kjE3LnQwdBDZlg"
+      },
+      "artists": [
+        {
+          "name": "Los Originales De San Juan",
+          "url": "https://open.spotify.com/artist/3aVB3VLnoAn6bKiHOEzHag"
+        }
+      ],
+      "date_added": "2024-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165360,
+      "name": "La Raza Michoacana",
+      "url": "https://open.spotify.com/track/4Ha6wxJxSBMcKsUvvU1nY0"
+    },
+    {
+      "album": {
         "name": "El Jardinero",
         "url": "https://open.spotify.com/album/0vb2KGJa1hHJVli2xq5lSL"
       },
@@ -2826,7 +2844,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 218044,
       "name": "Los Tequileros",
       "url": "https://open.spotify.com/track/4ez1XPvblIZFGFZjQu77go"
@@ -3716,7 +3734,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 151213,
       "name": "Sanguinarios Del M1",
       "url": "https://open.spotify.com/track/5GTtj2q0psedXHdUnFG4z3"

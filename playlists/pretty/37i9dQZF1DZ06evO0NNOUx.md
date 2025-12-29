@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0NNOUx.md) - [plain]
 
 > This is Forrest Frank\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,696 likes - 47 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,885 likes - 47 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,11 +41,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0NNOUx.md) - [plain]
 | 31 | [THE ROCK](https://open.spotify.com/track/62MEz6nR7fEtrUVwGLLNxq) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [THE ROCK](https://open.spotify.com/album/3Sl6E162SNTBOZymtjRTKD) | 2:48 |
 | 32 | [Go Tell It](https://open.spotify.com/track/5LPAojrmsT7chF8iu3HQBh) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [New Hymns](https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP) | 2:43 |
 | 33 | [No Longer Bound \(I'm Free\)](https://open.spotify.com/track/2GGvmXF70zQ13NS86nOw7k) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [No Longer Bound \(I'm Free\)](https://open.spotify.com/album/7o2PA6yCeen44YsR1KuVWP) | 2:55 |
-| 34 | [HEAVEN ON THIS EARTH](https://open.spotify.com/track/7L2jWNjhI4Y1rUmveOttGO) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD) | [CHILD OF GOD \(DELUXE\)](https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9) | 3:05 |
+| 34 | [BEAUTIFUL AS YOU](https://open.spotify.com/track/73bTh9EIdUabrw26Dyesc3) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CHILD OF GOD \(DELUXE\)](https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9) | 2:59 |
 | 35 | [SELAH](https://open.spotify.com/track/3epR1Sq8kRU8qc3iHcU6Iz) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [SELAH](https://open.spotify.com/album/7Ha4qYOG9q7bRVHi4mlSNI) | 3:22 |
 | 36 | [Nothing But The Blood](https://open.spotify.com/track/20GLjHVJkuK0m9DUqAzCTJ) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [New Hymns](https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP) | 3:08 |
 | 37 | [THROUGH THE NIGHT](https://open.spotify.com/track/7wxU8ucEqL7Mtf8IBjXdmE) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CHILD OF GOD II \(BACK TO BACK\)](https://open.spotify.com/album/49wdSgGW3XbsRnl8x9VCLI) | 2:44 |
-| 38 | [BEAUTIFUL AS YOU](https://open.spotify.com/track/73bTh9EIdUabrw26Dyesc3) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [CHILD OF GOD \(DELUXE\)](https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9) | 2:59 |
+| 38 | [HEAVEN ON THIS EARTH](https://open.spotify.com/track/7L2jWNjhI4Y1rUmveOttGO) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD) | [CHILD OF GOD \(DELUXE\)](https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9) | 3:05 |
 | 39 | [LEMONADE \(FOLK\)](https://open.spotify.com/track/6JM6fmIDkRckUrKmnCeT1a) | [The Figs](https://open.spotify.com/artist/0guOtxDAwFFEGGCxrbW5KF), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [LEMONADE \(FOLK\)](https://open.spotify.com/album/3d30N3D4MZguQ2aAJ0g7MJ) | 3:03 |
 | 40 | [Fly Away](https://open.spotify.com/track/2tIHYnZsOOSP0mIGavVRRi) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [New Hymns](https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP) | 2:35 |
 | 41 | [MISUNDERSTOOD](https://open.spotify.com/track/1uUNLURuVaDpCbhlTM2IDz) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [CHILD OF GOD II \(BACK TO BACK\)](https://open.spotify.com/album/49wdSgGW3XbsRnl8x9VCLI) | 3:50 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0NNOUx.md) - [plain]
 | 46 | [CRAZY](https://open.spotify.com/track/6EAuqHM3lqLmiqqHAiF9Qq) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [CHILD OF GOD \(DELUXE\)](https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9) | 2:32 |
 | 47 | [It Is Well](https://open.spotify.com/track/5x2mhn1pPWj0IGn3iTSXBm) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [New Hymns](https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP) | 2:26 |
 
-Snapshot ID: `aU3QAAAAAACQQQRkwn75x4IwFJm2RMcn`
+Snapshot ID: `aU8hgAAAAACoTqT1r8PGUHeSyWUDfJPD`

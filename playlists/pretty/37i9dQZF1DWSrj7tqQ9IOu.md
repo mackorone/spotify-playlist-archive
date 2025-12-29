@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > Le meilleur de l'indie français\. Cover : Solann
 
-[Spotify](https://open.spotify.com/user/spotify) - 403,711 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 403,698 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [Avis de tempête](https://open.spotify.com/track/2CIVM7mLxcb3cmwkWC9L9h) | [AGAV](https://open.spotify.com/artist/6F9Ri1Fo7GuIv50JNvga8g) | [Avis de tempête](https://open.spotify.com/album/0bTZeB3AsPxnh0DX6dnhNV) | 2:29 |
 | 50 | [La langoustine](https://open.spotify.com/track/0Fa4Ke11MZSvyRQ8uvANAl) | [Clair](https://open.spotify.com/artist/6Xu9PnUrdw9vJTeG3O1eAB), [Philippe Katerine](https://open.spotify.com/artist/61NKNrhSMTYg2q0f3vS46e) | [Le Bestiair](https://open.spotify.com/album/6kzpViul7vrCMpUECv9mQh) | 2:09 |
 
-Snapshot ID: `AAAAAOx11SwAkH5bHkaXuJqVQexs9zgr`
+Snapshot ID: `AAAAAIf6KT4BzyZ0uGrCw2M+Y5fwaej5`

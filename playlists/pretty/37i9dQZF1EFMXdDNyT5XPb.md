@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 | 70 | [Dancing with You](https://open.spotify.com/track/0p8Hgkkya6bsENOHhmOO1G) | [Scouting For Girls](https://open.spotify.com/artist/2wpJOPmf1TIOzrB9mzHifd) | [The Trouble with Boys](https://open.spotify.com/album/2UtkESQfPycoEra0XYvys2) | 3:18 |
 | 71 | [Welcome Home](https://open.spotify.com/track/0YsSn3M4Kl0So5ibjammOH) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Streets Of Gold \(Unforgettable Edition\)](https://open.spotify.com/album/367chORMCnA4mdu1uXCpfz) | 2:51 |
 | 72 | [She'll Never Love You \- Acoustic](https://open.spotify.com/track/77Uaz7KDRg26gTyFLg9lL8) | [Catherine McGrath](https://open.spotify.com/artist/0db28KdTi7VNaTipfAnlWQ) | [The Acoustics](https://open.spotify.com/album/7a34CZOKXi8YfB4e81GGw0) | 3:14 |
-| 73 | [Simple](https://open.spotify.com/track/5kUfd28cjloYrcCX1NUDiP) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Corner Of The Sky](https://open.spotify.com/album/6uVYHwWQqyR0Y57oyQ7wSH) | 3:25 |
-| 74 | [Mad](https://open.spotify.com/track/2OVGuGN4Ia77OJz3CFgiG6) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Avenoir](https://open.spotify.com/album/0PpZlKRSocIBOf6mUY3tVw) | 3:10 |
+| 73 | [Mad](https://open.spotify.com/track/2OVGuGN4Ia77OJz3CFgiG6) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Avenoir](https://open.spotify.com/album/0PpZlKRSocIBOf6mUY3tVw) | 3:10 |
+| 74 | [Simple](https://open.spotify.com/track/5kUfd28cjloYrcCX1NUDiP) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Corner Of The Sky](https://open.spotify.com/album/6uVYHwWQqyR0Y57oyQ7wSH) | 3:25 |
 | 75 | [Lose Myself](https://open.spotify.com/track/6xLR0LNVqenF9ihWoXMhKW) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Avenoir](https://open.spotify.com/album/0PpZlKRSocIBOf6mUY3tVw) | 2:44 |
 | 76 | [Song I Can't Forget](https://open.spotify.com/track/3LNV9RmV3zxKuLN6D0G1aZ) | [Scouting For Girls](https://open.spotify.com/artist/2wpJOPmf1TIOzrB9mzHifd) | [The Place We Used to Meet](https://open.spotify.com/album/4uuofFLpxeB321PaVpW6GY) | 3:14 |
 | 77 | [Take on the World](https://open.spotify.com/track/2X9W0RM92EE7IJCj8u6mZD) | [Luke Friend](https://open.spotify.com/artist/0fN6T4AfuRK8fWrENakh5U) | [Take on the World](https://open.spotify.com/album/2fTi0wYA5Ne7mk9puy2br6) | 3:07 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 | 105 | [Still Breathing](https://open.spotify.com/track/45Vv22j4BeBa7mmKiWSNoM) | [Jenn Bostic](https://open.spotify.com/artist/0TK1H3VeQnZEczCCdzAvap) | [Faithful](https://open.spotify.com/album/087LvnihJ9pst9AzEn0Iz0) | 3:23 |
 | 106 | [DIE FOR YOU](https://open.spotify.com/track/6h18FgTEtFKdbhwwmP8VHt) | [Álbert Montes](https://open.spotify.com/artist/4xkX06GBRTgABQAT18ADgW) | [DIE FOR YOU](https://open.spotify.com/album/4L0ewrs2F2poqVYkeZ8nKI) | 3:13 |
 
-Snapshot ID: `AcFYMAAAAACEq/eNLiUzq3TKylB31/KN`
+Snapshot ID: `AcFd0AAAAACZ8eFCE/EAfTQfXPum0FV5`

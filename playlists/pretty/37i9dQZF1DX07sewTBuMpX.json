@@ -1,6 +1,6 @@
 {
   "description": "De beste tunes op repeat. Cover: Jonna Fraser & Lil Kleine",
-  "num_followers": 140469,
+  "num_followers": 140474,
   "original_name": "Pull Up Hits",
   "owner": {
     "name": "Spotify",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2025-12-10 23:00:04",
       "album": {
+        "name": "Wild West",
+        "url": "https://open.spotify.com/album/6O6dmpJvHCCXp06tK1MjSw"
+      },
+      "artists": [
+        {
+          "name": "Yssine",
+          "url": "https://open.spotify.com/artist/70pnzZahqft8hk7I4vlTy1"
+        }
+      ],
+      "duration_ms": 161901,
+      "name": "Wild West",
+      "url": "https://open.spotify.com/track/2CYGxsaBYLQFV0AeesbsmP"
+    },
+    {
+      "added_at": "2025-12-10 23:00:04",
+      "album": {
         "name": "Loro Piana",
         "url": "https://open.spotify.com/album/0egHLSkTArwzqumnOHzejS"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 188160,
       "name": "Loro Piana",
       "url": "https://open.spotify.com/track/11sTBZXqq6nKIFHFRDBKnu"
-    },
-    {
-      "added_at": "2025-12-10 23:00:04",
-      "album": {
-        "name": "Wild West",
-        "url": "https://open.spotify.com/album/6O6dmpJvHCCXp06tK1MjSw"
-      },
-      "artists": [
-        {
-          "name": "Yssine",
-          "url": "https://open.spotify.com/artist/70pnzZahqft8hk7I4vlTy1"
-        }
-      ],
-      "duration_ms": 161901,
-      "name": "Wild West",
-      "url": "https://open.spotify.com/track/2CYGxsaBYLQFV0AeesbsmP"
     },
     {
       "added_at": "2025-12-10 23:00:04",

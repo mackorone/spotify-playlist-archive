@@ -1,6 +1,6 @@
 {
   "description": "Hard rock and hair-raising tracks for a head-banging halloween ",
-  "num_followers": 334429,
+  "num_followers": 334397,
   "original_name": "Headbanger Halloween",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2025-10-27 20:26:25",
       "album": {
+        "name": "Electric Ladyland",
+        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 313373,
+      "name": "Voodoo Child (Slight Return)",
+      "url": "https://open.spotify.com/track/2AxCeJ6PSsBYiTckM0HLY7"
+    },
+    {
+      "added_at": "2025-10-27 20:26:25",
+      "album": {
         "name": "A Work of Art (feat. Shavo of System of a Down)",
         "url": "https://open.spotify.com/album/4iCfWNu1o6eNEadgJQa4hp"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 238143,
       "name": "A Work of Art",
       "url": "https://open.spotify.com/track/3K7vovoUvysvYih4CNKIOc"
-    },
-    {
-      "added_at": "2025-10-27 20:26:25",
-      "album": {
-        "name": "Electric Ladyland",
-        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 313373,
-      "name": "Voodoo Child (Slight Return)",
-      "url": "https://open.spotify.com/track/2AxCeJ6PSsBYiTckM0HLY7"
     },
     {
       "added_at": "2025-10-27 20:26:25",
@@ -639,22 +639,6 @@
     {
       "added_at": "2025-10-27 20:26:25",
       "album": {
-        "name": "The Silver Scream",
-        "url": "https://open.spotify.com/album/3DVjLNjzyZBVc8eZcJoulz"
-      },
-      "artists": [
-        {
-          "name": "Ice Nine Kills",
-          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
-        }
-      ],
-      "duration_ms": 249746,
-      "name": "The American Nightmare",
-      "url": "https://open.spotify.com/track/04K2bMi2vyOBwxr5EjDq5O"
-    },
-    {
-      "added_at": "2025-10-27 20:26:25",
-      "album": {
         "name": "Scoring The End Of The World",
         "url": "https://open.spotify.com/album/0DoVnWjNFYoUfq7qe36jxh"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 263947,
       "name": "Slaughterhouse (feat. Bryan Garris)",
       "url": "https://open.spotify.com/track/2ClgEn1FZxchrqRZ04JZzj"
+    },
+    {
+      "added_at": "2025-10-27 20:26:25",
+      "album": {
+        "name": "The Silver Scream",
+        "url": "https://open.spotify.com/album/3DVjLNjzyZBVc8eZcJoulz"
+      },
+      "artists": [
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+        }
+      ],
+      "duration_ms": 249746,
+      "name": "The American Nightmare",
+      "url": "https://open.spotify.com/track/04K2bMi2vyOBwxr5EjDq5O"
     },
     {
       "added_at": "2025-10-27 20:26:25",
@@ -703,22 +703,6 @@
     {
       "added_at": "2025-10-27 20:26:25",
       "album": {
-        "name": "Halloween Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/1eA3cq4WvDR4yVKChvZewP"
-      },
-      "artists": [
-        {
-          "name": "John Carpenter",
-          "url": "https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq"
-        }
-      ],
-      "duration_ms": 175333,
-      "name": "Halloween Theme - Main Title",
-      "url": "https://open.spotify.com/track/7swocJUCUWTCiRUAU9oerC"
-    },
-    {
-      "added_at": "2025-10-27 20:26:25",
-      "album": {
         "name": "The Strange Case of... (Deluxe)",
         "url": "https://open.spotify.com/album/4TyrGrbnsOVKOXVut2huz2"
       },
@@ -735,18 +719,18 @@
     {
       "added_at": "2025-10-27 20:26:25",
       "album": {
-        "name": "Blood of the Saints",
-        "url": "https://open.spotify.com/album/1MSxQKpaZ2nPubMVQi9V3N"
+        "name": "Halloween Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/1eA3cq4WvDR4yVKChvZewP"
       },
       "artists": [
         {
-          "name": "Powerwolf",
-          "url": "https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v"
+          "name": "John Carpenter",
+          "url": "https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq"
         }
       ],
-      "duration_ms": 222560,
-      "name": "We Drink Your Blood",
-      "url": "https://open.spotify.com/track/3pWvRhml43vlUrGYlIzLM6"
+      "duration_ms": 175333,
+      "name": "Halloween Theme - Main Title",
+      "url": "https://open.spotify.com/track/7swocJUCUWTCiRUAU9oerC"
     },
     {
       "added_at": "2025-10-27 20:26:25",
@@ -763,6 +747,22 @@
       "duration_ms": 212082,
       "name": "Werewolf",
       "url": "https://open.spotify.com/track/1e1rQNYCZToyBDDka1Io34"
+    },
+    {
+      "added_at": "2025-10-27 20:26:25",
+      "album": {
+        "name": "Blood of the Saints",
+        "url": "https://open.spotify.com/album/1MSxQKpaZ2nPubMVQi9V3N"
+      },
+      "artists": [
+        {
+          "name": "Powerwolf",
+          "url": "https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v"
+        }
+      ],
+      "duration_ms": 222560,
+      "name": "We Drink Your Blood",
+      "url": "https://open.spotify.com/track/3pWvRhml43vlUrGYlIzLM6"
     },
     {
       "added_at": "2025-10-27 20:26:25",

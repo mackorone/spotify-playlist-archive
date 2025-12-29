@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwCImwcYjDL.md) - [plain]
 
 > De beste dance hits\. Cover: Ofenbach
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,092 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,081 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwCImwcYjDL.md) - [plain]
 | 59 | [Diamonds In The Sky](https://open.spotify.com/track/4i4taIEvxoR8OqHAOSljfb) | [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk), [OLIVIA](https://open.spotify.com/artist/0r4SuP92ATT2wpKCT7blnM) | [Diamonds In The Sky](https://open.spotify.com/album/2o2nEnlTbGahHfuRLQoT7I) | 2:27 |
 | 60 | [Movie Star](https://open.spotify.com/track/4eqNyLDGWPXcsscSIVT7XU) | [Caro van Ee](https://open.spotify.com/artist/2MXVI1HEhieqtpcvEHVY4M), [WHAT EVA](https://open.spotify.com/artist/0zE0NouVo8UxXHQOnhoLO3) | [Movie Star](https://open.spotify.com/album/5cRJaHx3DiAQAg5MfGkHWs) | 2:17 |
 
-Snapshot ID: `AAAAAHppjOBR5N1xGoF/d3P83c7yELpT`
+Snapshot ID: `AAAAAEGXUZEnA5lE6B9JPb4y6TAurkuv`

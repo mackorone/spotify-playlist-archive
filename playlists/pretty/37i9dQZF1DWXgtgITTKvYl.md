@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 
 ### [Prog Rock](https://open.spotify.com/playlist/37i9dQZF1DWXgtgITTKvYl)
 
-> A collection of best Prog Rock tracks\. Cover: Dream Theater
+> A collection of the best recent Prog Rock tracks\. Cover: Weather Systems
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,837 likes - 75 songs - 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,880 likes - 75 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 | 74 | [Between Two Points \- Live from the Luck and Strange Concerts](https://open.spotify.com/track/0V7zjdDdp9nZ7foEkwk3zC) | [David Gilmour](https://open.spotify.com/artist/2FcC4sDMXme2ziI7tGKMK8), [Romany Gilmour](https://open.spotify.com/artist/3zWa7Jgzsv63hObXVRTRJD) | [Between Two Points \(Live from the Luck and Strange Concerts\)](https://open.spotify.com/album/5vfvkP9cyY3tHfYH9zS8kd) | 5:45 |
 | 75 | [Build And Destroy](https://open.spotify.com/track/37lctHJGpnrzHPluCe48S8) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [Build And Destroy](https://open.spotify.com/album/5pftDdyVIpfChLLsaGpJ8N) | 3:52 |
 
-Snapshot ID: `AAAAAK/tP68SwMn5R4Lo6LRUFsr1anO4`
+Snapshot ID: `AAAAAJvWvXxfZf5fknYJ9OUf8wbuv9Hs`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 
 > The essential beautiful noise: sweet and sour fuzz to warm your heart\. Slowdive on cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 684,246 likes - 156 songs - 12 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 684,286 likes - 156 songs - 12 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 30 | [Rocket \- 2011 Remaster](https://open.spotify.com/track/1nbXNrayQOc9UGVEudhlaT) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Siamese Dream \(2011 \- Remaster\)](https://open.spotify.com/album/2Qs2SpclDToB087fLolhCN) | 4:06 |
 | 31 | [Seagull \- 2001 Remaster](https://open.spotify.com/track/1p75lScKo8XQT0niqFRxNx) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX) | [Nowhere \(Expanded\)](https://open.spotify.com/album/4fW7CblaSvdhPWmcCFgZbQ) | 6:08 |
 | 32 | [Only Shallow](https://open.spotify.com/track/52UcjsM15hjCQAUbTW2hy1) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Loveless](https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6) | 4:17 |
-| 33 | [Pearl \- 12'' Version](https://open.spotify.com/track/19QGKOXTqmk1ezHQpiUIwA) | [Chapterhouse](https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ) | [Best Of](https://open.spotify.com/album/3aZ04o7EWxUYaJiQA1f9EE) | 5:14 |
-| 34 | [Fall](https://open.spotify.com/track/0nxOpJ3zHKAvrWtx8l7XQ8) | [Ozean](https://open.spotify.com/artist/7oG49IUY8ulam2msuMN8v0) | [Ozean](https://open.spotify.com/album/3FTlAoDqVX3LDdsRdAe8jM) | 4:59 |
+| 33 | [Fall](https://open.spotify.com/track/0nxOpJ3zHKAvrWtx8l7XQ8) | [Ozean](https://open.spotify.com/artist/7oG49IUY8ulam2msuMN8v0) | [Ozean](https://open.spotify.com/album/3FTlAoDqVX3LDdsRdAe8jM) | 4:59 |
+| 34 | [Pearl \- 12'' Version](https://open.spotify.com/track/19QGKOXTqmk1ezHQpiUIwA) | [Chapterhouse](https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ) | [Best Of](https://open.spotify.com/album/3aZ04o7EWxUYaJiQA1f9EE) | 5:14 |
 | 35 | [Wax and Wane \- 2005 Remaster](https://open.spotify.com/track/4SkKv1DdU52DJHLNZHZB4t) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [B\-Sides & Rarities](https://open.spotify.com/album/3hBCkMqaYnCmJciEUKqyfC) | 4:09 |
 | 36 | [Walkabout \(W/ Noah Lennox\)](https://open.spotify.com/track/2e3KUBfcAwAyQtgbeUBKob) | [Atlas Sound](https://open.spotify.com/artist/3kGhAL9j1WyNjNkWTRQd8T), [Noah Lennox](https://open.spotify.com/artist/6XrrzKnazbofp8WajiHZyH) | [Logos](https://open.spotify.com/album/5j6RB5MpNUKWJJ2uxibdJh) | 3:58 |
 | 37 | [Now I Know You Could Never Be The One](https://open.spotify.com/track/5ilQ6xjKxxGDTrQQNDp6Tw) | [The Meeting Places](https://open.spotify.com/artist/1hckZSGJsMebst22D7laUL) | [Find Yourself Along The Way](https://open.spotify.com/album/4VHuHYgCnMW1lsLQQZd0Gl) | 4:02 |
@@ -148,12 +148,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 138 | [You Tear the World in Two \(Woodhouse Studio LP Demo\) \- Remastered](https://open.spotify.com/track/7I4Ebjrwu8ZRXKd2yizyro) | [Pale Saints](https://open.spotify.com/artist/0WY2ddzQUF9eh16GiqrElA) | [You Tear the World in Two \(Woodhouse Studio LP Demo\) \[Remastered\]](https://open.spotify.com/album/5X2ZlpiHUls5qnhYWOQb1M) | 2:33 |
 | 139 | [Drain Cosmetics](https://open.spotify.com/track/3UymNkS2B7jiUb4ga5URLU) | [Serena\-Maneesh](https://open.spotify.com/artist/2zBENk8LtANz3cNlE9suSb) | [Serena\-Maneesh](https://open.spotify.com/album/5zEpLOYybmHfJYYJOQ8kId) | 3:41 |
 | 140 | [babysbreath](https://open.spotify.com/track/48YfnWuAbgGk1ZrBMSmsBy) | [Lovesliescrushing](https://open.spotify.com/artist/06yvjjrPokJGC66DzFfCkF) | [bloweyelashwish](https://open.spotify.com/album/22DG3nc75VmXwsRRuazJcQ) | 3:51 |
-| 141 | [Cupid Come](https://open.spotify.com/track/3IXItfQJeJihUaAQJFW7x2) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Isn't Anything](https://open.spotify.com/album/3mnv6nzZV5AQhDG7OUsLdo) | 4:29 |
+| 141 | [Feed Me with Your Kiss](https://open.spotify.com/track/3yRVw6tj1WBOXVwfLkWH9q) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Isn't Anything](https://open.spotify.com/album/3mnv6nzZV5AQhDG7OUsLdo) | 3:54 |
 | 142 | [Polyfusion](https://open.spotify.com/track/3XNaDfuS7dVHDxsZJXN90U) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Quique](https://open.spotify.com/album/1DbyTqEOzovAduSqB7Xskh) | 6:23 |
 | 143 | [The Perfect Needle](https://open.spotify.com/track/2ZyKEtawyPdYXQG0U2SAYy) | [The Telescopes](https://open.spotify.com/artist/5MTQzge85m3QSefD2LdS1J) | [Taste + The Perfect Needle EP](https://open.spotify.com/album/4SXZL0la3HRhgBjTkUYlzW) | 3:28 |
 | 144 | [I Just Want To See Your Face](https://open.spotify.com/track/10RYex7btRRcGUwCZDBVHv) | [Serena\-Maneesh](https://open.spotify.com/artist/2zBENk8LtANz3cNlE9suSb) | [S\-M 2: Abyss In B Minor](https://open.spotify.com/album/6rDHk5lHpUM9C3u1HJ6HjD) | 2:18 |
 | 145 | [Sing to Me Candy](https://open.spotify.com/track/47Y4i7hLPazl7BS4sGWsYd) | [Papercuts](https://open.spotify.com/artist/5fN7QZumpTbySswZyiWKXn) | [Sing to Me Candy](https://open.spotify.com/album/7gWUl5AZunW4c83qaCa146) | 5:44 |
-| 146 | [Feed Me with Your Kiss](https://open.spotify.com/track/3yRVw6tj1WBOXVwfLkWH9q) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Isn't Anything](https://open.spotify.com/album/3mnv6nzZV5AQhDG7OUsLdo) | 3:54 |
+| 146 | [Cupid Come](https://open.spotify.com/track/3IXItfQJeJihUaAQJFW7x2) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Isn't Anything](https://open.spotify.com/album/3mnv6nzZV5AQhDG7OUsLdo) | 4:29 |
 | 147 | [Runner](https://open.spotify.com/track/4GwT2PoXxURFAsbX1DOzjd) | [Young Prisms](https://open.spotify.com/artist/62Xs9S1gahH6vGEJ24qdkK) | [In Between](https://open.spotify.com/album/6ZwPooDllyjwe1XBAPe8Rt) | 4:33 |
 | 148 | [Donuts](https://open.spotify.com/track/6PAe4Nm3jot97kAnYphzGC) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [Donuts](https://open.spotify.com/album/2bKLw82RUcPpXKnRoIlaj0) | 6:23 |
 | 149 | [Record Still Spinning](https://open.spotify.com/track/7kri1ZJ3ymOsIXd8epxaEi) | [Fröst](https://open.spotify.com/artist/0thj1Xly1i0lA2XKQLH9gE) | [Record Still Spinning](https://open.spotify.com/album/7ECoJSurnRLankn2IbgCbh) | 3:29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > This year's best new music by women artists chosen by our editors\. Cover: Zsá Zsá
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,463 likes - 60 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,475 likes - 60 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 23 | [Kleines Mädchen große Träume](https://open.spotify.com/track/34y5yuvWwxO93Ws1Ng0PVw) | [AYCA](https://open.spotify.com/artist/1TTuqb5JjZomJNoG2nyjYr), [Ceren](https://open.spotify.com/artist/6sgeY4vovk7KfxVwiu2V9E) | [Kleines Mädchen große Träume](https://open.spotify.com/album/39d8JB3Nil2U7iAPqQcMLd) | 2:11 |
 | 24 | [Pflaster](https://open.spotify.com/track/65nHrdMGRurIyNBf3ENRvt) | [Magda](https://open.spotify.com/artist/5yjjgmQfOQTB2s8XQxQwup) | [Pflaster](https://open.spotify.com/album/7iZAC44rL0HrhYyl74iIck) | 2:57 |
 | 25 | [Bailarina](https://open.spotify.com/track/0bjU18qoUNAJbZm9zz2OeX) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [Bigroom Sensual II](https://open.spotify.com/album/2x2mFRvZa0njVoPaWE2BTK) | 4:05 |
-| 26 | [stuhl im garten](https://open.spotify.com/track/4Y7upz5qZ64BE3eZBe3jB8) | [Shelly Coral](https://open.spotify.com/artist/6tb18AJTldiMoBdoQ3BLJf) | [stuhl im garten](https://open.spotify.com/album/17NbtpN0dn55bk7GiVkfMF) | 2:35 |
-| 27 | [Girl With A Gun, Angry](https://open.spotify.com/track/60ZpuNRzuxKvgC7Dsi0mUa) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [Girl With A Gun, Angry](https://open.spotify.com/album/7425eZpGDF8LYZfUsVbmrq) | 2:26 |
+| 26 | [Girl With A Gun, Angry](https://open.spotify.com/track/60ZpuNRzuxKvgC7Dsi0mUa) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [Girl With A Gun, Angry](https://open.spotify.com/album/7425eZpGDF8LYZfUsVbmrq) | 2:26 |
+| 27 | [stuhl im garten](https://open.spotify.com/track/4Y7upz5qZ64BE3eZBe3jB8) | [Shelly Coral](https://open.spotify.com/artist/6tb18AJTldiMoBdoQ3BLJf) | [stuhl im garten](https://open.spotify.com/album/17NbtpN0dn55bk7GiVkfMF) | 2:35 |
 | 28 | [Voyage](https://open.spotify.com/track/4eBcSz15E4pg0EAEsOdWYR) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN) | [Loup Garou](https://open.spotify.com/album/2Peslf5kduT4RFrCZZBhRM) | 2:59 |
 | 29 | [arizona 2012](https://open.spotify.com/track/3kVpA4hmELOU77fBZxk4p6) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [arizona 2012](https://open.spotify.com/album/6CtQWLEfDS8TZwVEHnNutt) | 2:29 |
 | 30 | [Uhh Ahh](https://open.spotify.com/track/1eS4lsbmSq1oCqIO5IVks3) | [Wa22ermann](https://open.spotify.com/artist/6WJVluElmUFNEsOl7TPX8X) | [Uhh Ahh](https://open.spotify.com/album/0PwENhXpJY5ZGYSujgaByL) | 2:34 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 47 | [seele berührst](https://open.spotify.com/track/4CPrh62klaqHBEU7yAKheE) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [du küsst jetzt jemand anderen :/](https://open.spotify.com/album/00qt21e2vgTWtDs69djSBe) | 2:31 |
 | 48 | [Liebe machen](https://open.spotify.com/track/1d5MMrqtzT3F2jVuT77z8c) | [VICKY](https://open.spotify.com/artist/7JJqR4GbZwWeUMkRGAk0Va) | [Wann Album? \(Bonus EP\)](https://open.spotify.com/album/2dOblou1MabNG7PHtgSG4H) | 2:23 |
 | 49 | [If You Wanna Scream](https://open.spotify.com/track/2hGb8HWWbKNQ5MnXdJZpUc) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [If You Wanna Scream](https://open.spotify.com/album/1BCR9EGD8PONhIkaKp9xul) | 4:18 |
-| 50 | [The Carpet Song](https://open.spotify.com/track/3QA4uU73gQS6QlU9IjcvmG) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [The Carpet Song](https://open.spotify.com/album/4KXnWJXu7b6iC8spLIsEQF) | 3:17 |
-| 51 | [don't want u to die](https://open.spotify.com/track/3WIRyyYOi6eF3nc7MuPlN9) | [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [Avalanche](https://open.spotify.com/album/0j3KE6kVuo6mLoTpbc1acX) | 3:08 |
+| 50 | [don't want u to die](https://open.spotify.com/track/3WIRyyYOi6eF3nc7MuPlN9) | [Thala](https://open.spotify.com/artist/5JkWwSezW4KRFNy0ru3aZU) | [Avalanche](https://open.spotify.com/album/0j3KE6kVuo6mLoTpbc1acX) | 3:08 |
+| 51 | [The Carpet Song](https://open.spotify.com/track/3QA4uU73gQS6QlU9IjcvmG) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [The Carpet Song](https://open.spotify.com/album/4KXnWJXu7b6iC8spLIsEQF) | 3:17 |
 | 52 | [Scherben](https://open.spotify.com/track/08EqzaIXwVBF7bkaSNpPaz) | [Sandra Isabel](https://open.spotify.com/artist/1GuE4swTdDZSwFfED65JFW) | [Scherben](https://open.spotify.com/album/3n7LyUXg6kAu4qOzhxgbXK) | 3:24 |
 | 53 | [Blüten am Block](https://open.spotify.com/track/6iUrisG2WYefYaJrIslsSw) | [ZAVET](https://open.spotify.com/artist/4iIpwanKVqfqqMXhJOyTFG) | [ETAGE 3](https://open.spotify.com/album/54uzQar0welzGmd3hWxm6h) | 2:47 |
 | 54 | [Marianne](https://open.spotify.com/track/2OxbbgFAomXZNFMKnL5IpD) | [JOSY](https://open.spotify.com/artist/1FO5OAPbBScuxZlrgM3Sjr) | [Marianne](https://open.spotify.com/album/298YOXEzZ3utVyUGsiP74R) | 2:06 |

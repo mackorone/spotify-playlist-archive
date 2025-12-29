@@ -1,6 +1,6 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Natalia Tsupryk",
-  "num_followers": 134539,
+  "num_followers": 134562,
   "original_name": "Women of Ambient",
   "owner": {
     "name": "Spotify",
@@ -923,26 +923,6 @@
     {
       "added_at": "2025-11-06 10:55:12",
       "album": {
-        "name": "Big Majestic",
-        "url": "https://open.spotify.com/album/54PPhxM0V8V87txFsNVWgb"
-      },
-      "artists": [
-        {
-          "name": "Ellen Reid",
-          "url": "https://open.spotify.com/artist/4WEngLwjeu7FBLX8Ws2uka"
-        },
-        {
-          "name": "Kronos Quartet",
-          "url": "https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3"
-        }
-      ],
-      "duration_ms": 162230,
-      "name": "Strawberry Hill Ascent",
-      "url": "https://open.spotify.com/track/7dcAGnZgECMRTDKRM9pmqg"
-    },
-    {
-      "added_at": "2025-11-06 10:55:12",
-      "album": {
         "name": "Hiraeth",
         "url": "https://open.spotify.com/album/20U2RJ45XybSkpZJLwPjUf"
       },
@@ -963,6 +943,26 @@
     {
       "added_at": "2025-11-06 10:55:12",
       "album": {
+        "name": "Big Majestic",
+        "url": "https://open.spotify.com/album/54PPhxM0V8V87txFsNVWgb"
+      },
+      "artists": [
+        {
+          "name": "Ellen Reid",
+          "url": "https://open.spotify.com/artist/4WEngLwjeu7FBLX8Ws2uka"
+        },
+        {
+          "name": "Kronos Quartet",
+          "url": "https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3"
+        }
+      ],
+      "duration_ms": 162230,
+      "name": "Strawberry Hill Ascent",
+      "url": "https://open.spotify.com/track/7dcAGnZgECMRTDKRM9pmqg"
+    },
+    {
+      "added_at": "2025-11-06 10:55:12",
+      "album": {
         "name": "become the sky",
         "url": "https://open.spotify.com/album/3fimGJqkBb61QiQrRiFXNv"
       },
@@ -975,26 +975,6 @@
       "duration_ms": 183192,
       "name": "Holding Moments",
       "url": "https://open.spotify.com/track/5eKvPgmm9AGChNGQQyKyZs"
-    },
-    {
-      "added_at": "2025-11-06 10:55:12",
-      "album": {
-        "name": "Virga (feat. Darlingside)",
-        "url": "https://open.spotify.com/album/4Atmmk5jUaQVGxd0XtvsfG"
-      },
-      "artists": [
-        {
-          "name": "Yasmin Williams",
-          "url": "https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs"
-        },
-        {
-          "name": "Darlingside",
-          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
-        }
-      ],
-      "duration_ms": 382867,
-      "name": "Virga (feat. Darlingside)",
-      "url": "https://open.spotify.com/track/3hhJFk8PZEb0h3aAMbQRcM"
     },
     {
       "added_at": "2025-11-06 10:55:12",
@@ -1027,22 +1007,22 @@
     {
       "added_at": "2025-11-06 10:55:12",
       "album": {
-        "name": "Breathless",
-        "url": "https://open.spotify.com/album/6GiIvMLkoLLSBVNiZuqo0w"
+        "name": "Virga (feat. Darlingside)",
+        "url": "https://open.spotify.com/album/4Atmmk5jUaQVGxd0XtvsfG"
       },
       "artists": [
         {
-          "name": "Helios",
-          "url": "https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w"
+          "name": "Yasmin Williams",
+          "url": "https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs"
         },
         {
-          "name": "Hollie Kenniff",
-          "url": "https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS"
+          "name": "Darlingside",
+          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
         }
       ],
-      "duration_ms": 185834,
-      "name": "Breathless",
-      "url": "https://open.spotify.com/track/7q7ADZ5huqi7bf0vdWHDwZ"
+      "duration_ms": 382867,
+      "name": "Virga (feat. Darlingside)",
+      "url": "https://open.spotify.com/track/3hhJFk8PZEb0h3aAMbQRcM"
     },
     {
       "added_at": "2025-11-06 10:55:12",
@@ -1067,6 +1047,26 @@
       "duration_ms": 1496133,
       "name": "Lear",
       "url": "https://open.spotify.com/track/58tXLPg2DQsrg5ts5CqWrR"
+    },
+    {
+      "added_at": "2025-11-06 10:55:12",
+      "album": {
+        "name": "Breathless",
+        "url": "https://open.spotify.com/album/6GiIvMLkoLLSBVNiZuqo0w"
+      },
+      "artists": [
+        {
+          "name": "Helios",
+          "url": "https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w"
+        },
+        {
+          "name": "Hollie Kenniff",
+          "url": "https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS"
+        }
+      ],
+      "duration_ms": 185834,
+      "name": "Breathless",
+      "url": "https://open.spotify.com/track/7q7ADZ5huqi7bf0vdWHDwZ"
     },
     {
       "added_at": "2025-11-06 10:55:12",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2025-11-06 10:55:12",
       "album": {
+        "name": "A Requiem",
+        "url": "https://open.spotify.com/album/4Tx7iyvyTnJNNFGLKYWEOD"
+      },
+      "artists": [
+        {
+          "name": "Penelope Trappes",
+          "url": "https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT"
+        }
+      ],
+      "duration_ms": 181831,
+      "name": "Bandorai",
+      "url": "https://open.spotify.com/track/20JtrLAz7k54Rt3oe8uPWi"
+    },
+    {
+      "added_at": "2025-11-06 10:55:12",
+      "album": {
         "name": "Micro Macro",
         "url": "https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 419549,
       "name": "RELUCESCO I",
       "url": "https://open.spotify.com/track/0fRDySUoyDdS1Erd73lztX"
-    },
-    {
-      "added_at": "2025-11-06 10:55:12",
-      "album": {
-        "name": "A Requiem",
-        "url": "https://open.spotify.com/album/4Tx7iyvyTnJNNFGLKYWEOD"
-      },
-      "artists": [
-        {
-          "name": "Penelope Trappes",
-          "url": "https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT"
-        }
-      ],
-      "duration_ms": 181831,
-      "name": "Bandorai",
-      "url": "https://open.spotify.com/track/20JtrLAz7k54Rt3oe8uPWi"
     },
     {
       "added_at": "2025-11-06 10:55:12",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2025-11-06 10:55:12",
       "album": {
+        "name": "Keep Pulling Me In",
+        "url": "https://open.spotify.com/album/7651CMZDlBQfvglN6fvfsQ"
+      },
+      "artists": [
+        {
+          "name": "Lucy Gooch",
+          "url": "https://open.spotify.com/artist/5IzQ6cbQ5QAL3fmUwlTHRK"
+        }
+      ],
+      "duration_ms": 372430,
+      "name": "Keep Pulling Me In",
+      "url": "https://open.spotify.com/track/1HCKN6imCt9RujqIjFeO7X"
+    },
+    {
+      "added_at": "2025-11-06 10:55:12",
+      "album": {
         "name": "Silence (K Theory Flip)",
         "url": "https://open.spotify.com/album/0XHlfd6piMXgybsdru9HO6"
       },
@@ -1263,18 +1279,18 @@
     {
       "added_at": "2025-11-06 10:55:12",
       "album": {
-        "name": "Desert Window",
-        "url": "https://open.spotify.com/album/5UBF1Q6waWNsmrW02gk6Wy"
+        "name": "Kali",
+        "url": "https://open.spotify.com/album/5ZZqEAvWi7uagiA3QEnRKt"
       },
       "artists": [
         {
-          "name": "Lucy Gooch",
-          "url": "https://open.spotify.com/artist/5IzQ6cbQ5QAL3fmUwlTHRK"
+          "name": "Salamanda",
+          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
         }
       ],
-      "duration_ms": 327104,
-      "name": "Our Relativity",
-      "url": "https://open.spotify.com/track/4eYbmj6sKnPYyjOIUFkLjv"
+      "duration_ms": 400000,
+      "name": "Kali",
+      "url": "https://open.spotify.com/track/5LZxYZ4oQ0LA6VvgaxW36k"
     },
     {
       "added_at": "2025-11-06 10:55:12",
@@ -1295,24 +1311,8 @@
     {
       "added_at": "2025-11-06 10:55:12",
       "album": {
-        "name": "Kali",
-        "url": "https://open.spotify.com/album/5ZZqEAvWi7uagiA3QEnRKt"
-      },
-      "artists": [
-        {
-          "name": "Salamanda",
-          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
-        }
-      ],
-      "duration_ms": 400000,
-      "name": "Kali",
-      "url": "https://open.spotify.com/track/5LZxYZ4oQ0LA6VvgaxW36k"
-    },
-    {
-      "added_at": "2025-11-06 10:55:12",
-      "album": {
-        "name": "PLEASE COME TO ME",
-        "url": "https://open.spotify.com/album/3VZPSY3Ep8pU5yksopW1z2"
+        "name": "O, Dark Mother",
+        "url": "https://open.spotify.com/album/3wblniFFD2WjhkVzQVYoS6"
       },
       "artists": [
         {
@@ -1320,9 +1320,25 @@
           "url": "https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu"
         }
       ],
-      "duration_ms": 344491,
-      "name": "Only Wish",
-      "url": "https://open.spotify.com/track/6B8AXZ6YJI9xMYrCzb9DbE"
+      "duration_ms": 331774,
+      "name": "O, Dark Mother",
+      "url": "https://open.spotify.com/track/15JnGovP4ZAh3CWFRhRAYz"
+    },
+    {
+      "added_at": "2025-11-06 10:55:12",
+      "album": {
+        "name": "Desert Window",
+        "url": "https://open.spotify.com/album/5UBF1Q6waWNsmrW02gk6Wy"
+      },
+      "artists": [
+        {
+          "name": "Lucy Gooch",
+          "url": "https://open.spotify.com/artist/5IzQ6cbQ5QAL3fmUwlTHRK"
+        }
+      ],
+      "duration_ms": 327104,
+      "name": "Our Relativity",
+      "url": "https://open.spotify.com/track/4eYbmj6sKnPYyjOIUFkLjv"
     },
     {
       "added_at": "2025-11-06 10:55:12",
@@ -1339,22 +1355,6 @@
       "duration_ms": 319554,
       "name": "Gi\u00f3",
       "url": "https://open.spotify.com/track/2GgCsGOywZonT5FG2Ip0uC"
-    },
-    {
-      "added_at": "2025-11-06 10:55:12",
-      "album": {
-        "name": "Keep Pulling Me In",
-        "url": "https://open.spotify.com/album/7651CMZDlBQfvglN6fvfsQ"
-      },
-      "artists": [
-        {
-          "name": "Lucy Gooch",
-          "url": "https://open.spotify.com/artist/5IzQ6cbQ5QAL3fmUwlTHRK"
-        }
-      ],
-      "duration_ms": 372430,
-      "name": "Keep Pulling Me In",
-      "url": "https://open.spotify.com/track/1HCKN6imCt9RujqIjFeO7X"
     },
     {
       "added_at": "2025-11-06 10:55:12",
@@ -1395,8 +1395,8 @@
     {
       "added_at": "2025-11-06 10:55:12",
       "album": {
-        "name": "O, Dark Mother",
-        "url": "https://open.spotify.com/album/3wblniFFD2WjhkVzQVYoS6"
+        "name": "PLEASE COME TO ME",
+        "url": "https://open.spotify.com/album/3VZPSY3Ep8pU5yksopW1z2"
       },
       "artists": [
         {
@@ -1404,9 +1404,9 @@
           "url": "https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu"
         }
       ],
-      "duration_ms": 331774,
-      "name": "O, Dark Mother",
-      "url": "https://open.spotify.com/track/15JnGovP4ZAh3CWFRhRAYz"
+      "duration_ms": 344491,
+      "name": "Only Wish",
+      "url": "https://open.spotify.com/track/6B8AXZ6YJI9xMYrCzb9DbE"
     },
     {
       "added_at": "2025-11-06 10:55:12",

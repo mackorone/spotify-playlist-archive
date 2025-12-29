@@ -1,12 +1,12 @@
 {
   "description": "This is Sexyy Red. The essential tracks, all in one playlist.",
-  "num_followers": 28842,
+  "num_followers": 28843,
   "original_name": "This Is Sexyy Red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU3QAAAAAACe42t4RNr6HcVApGkS4CmT",
+  "snapshot_id": "aU8hgAAAAAA/R4Not2gPrsxfrRFrdjXW",
   "tracks": [
     {
       "added_at": null,
@@ -367,30 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Motion (feat. Sexyy Red & NaNaski)",
-        "url": "https://open.spotify.com/album/3uGhJedbjmZ0kGDqjp3bkP"
-      },
-      "artists": [
-        {
-          "name": "PLUTO",
-          "url": "https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G"
-        },
-        {
-          "name": "NaNaski",
-          "url": "https://open.spotify.com/artist/0mEBhT853pcpz3xM3URKXf"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 192676,
-      "name": "Motion (feat. Sexyy Red & NaNaski)",
-      "url": "https://open.spotify.com/track/5Ryy52nsMyZhYhAxypC2b8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DIRTY NACHOS",
         "url": "https://open.spotify.com/album/6BpbaxnD9tN5sZTmEkmLh3"
       },
@@ -411,6 +387,30 @@
       "duration_ms": 186991,
       "name": "DAMN SHORTY - feat. Sexyy Red",
       "url": "https://open.spotify.com/track/3ghMzjSfLHEriTZRej6JHm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Motion (feat. Sexyy Red & NaNaski)",
+        "url": "https://open.spotify.com/album/3uGhJedbjmZ0kGDqjp3bkP"
+      },
+      "artists": [
+        {
+          "name": "PLUTO",
+          "url": "https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G"
+        },
+        {
+          "name": "NaNaski",
+          "url": "https://open.spotify.com/artist/0mEBhT853pcpz3xM3URKXf"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 192676,
+      "name": "Motion (feat. Sexyy Red & NaNaski)",
+      "url": "https://open.spotify.com/track/5Ryy52nsMyZhYhAxypC2b8"
     },
     {
       "added_at": null,
@@ -623,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "For No Reason",
-        "url": "https://open.spotify.com/album/1gShdrnHokQ8QEcbSZw6en"
+        "name": "If You Want It",
+        "url": "https://open.spotify.com/album/1jc3lBsBsQaYOGRciN3Bv0"
       },
       "artists": [
         {
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
         }
       ],
-      "duration_ms": 159568,
-      "name": "For No Reason",
-      "url": "https://open.spotify.com/track/2isbyZ7Xz09rxnuMn4JIww"
+      "duration_ms": 182587,
+      "name": "If You Want It",
+      "url": "https://open.spotify.com/track/1lBkIZiPtUetgkMcSABu3h"
     },
     {
       "added_at": null,
@@ -683,6 +683,22 @@
       "duration_ms": 217213,
       "name": "Peaches & Eggplants (feat. Latto & Sexyy Red)",
       "url": "https://open.spotify.com/track/1BmI4EYdfzbg8DlV6pHYrY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For No Reason",
+        "url": "https://open.spotify.com/album/1gShdrnHokQ8QEcbSZw6en"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 159568,
+      "name": "For No Reason",
+      "url": "https://open.spotify.com/track/2isbyZ7Xz09rxnuMn4JIww"
     },
     {
       "added_at": null,
@@ -767,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "If You Want It",
-        "url": "https://open.spotify.com/album/1jc3lBsBsQaYOGRciN3Bv0"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 182587,
-      "name": "If You Want It",
-      "url": "https://open.spotify.com/track/1lBkIZiPtUetgkMcSABu3h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MMM HMM (feat. Sexyy Red)",
         "url": "https://open.spotify.com/album/6mIpyaTHgDgQbgZwWALgHI"
       },
@@ -799,26 +799,6 @@
       "duration_ms": 158137,
       "name": "MMM HMM (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/0KK6oylgSBhXglGZQL61y0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SLUT ME OUT (feat. Sexyy Red)",
-        "url": "https://open.spotify.com/album/3dRRWBUfWc0OhporqnKH2S"
-      },
-      "artists": [
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 203858,
-      "name": "SLUT ME OUT (feat. Sexyy Red)",
-      "url": "https://open.spotify.com/track/2KLtIWiuQOdOKyX8iINJph"
     },
     {
       "added_at": null,
@@ -843,6 +823,26 @@
       "duration_ms": 224415,
       "name": "Yonce Freestyle (feat. Sexyy Red & B.G.)",
       "url": "https://open.spotify.com/track/1fo2w2ikXyQjnmH1AVVyJ8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SLUT ME OUT (feat. Sexyy Red)",
+        "url": "https://open.spotify.com/album/3dRRWBUfWc0OhporqnKH2S"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 203858,
+      "name": "SLUT ME OUT (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/2KLtIWiuQOdOKyX8iINJph"
     },
     {
       "added_at": null,

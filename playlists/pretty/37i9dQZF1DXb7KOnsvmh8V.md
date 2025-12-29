@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7KOnsvmh8V.md) - [plain]
 
 > 'Tis the season to settle in with a warm cup of coffee and these stripped down holiday tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 689,526 likes - 60 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 689,428 likes - 60 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7KOnsvmh8V.md) - [plain]
 | 59 | [Merry Christmas Wherever You Are \(Acoustic\)](https://open.spotify.com/track/3teWqnWLFpJ6RquvJzwG4O) | [Meiko](https://open.spotify.com/artist/6tW9jWf8lpuzDzAdVMvNMV) | [Merry Christmas Wherever You Are \(Acoustic\)](https://open.spotify.com/album/6STtqwEkgI7Kqvwem94mZv) | 3:21 |
 | 60 | [Twelve Days Of Christmas](https://open.spotify.com/track/67BkXkBDWcPVWVNkBGiFvA) | [The Rose Thorns](https://open.spotify.com/artist/74vreNdorDoDuid4Jgmy7p) | [Twelve Days Of Christmas](https://open.spotify.com/album/2Y40iENowik3TeGiUpXQSI) | 3:28 |
 
-Snapshot ID: `AAAAAKa4sEQJRMDM/5Fm+6U0OOUebkDM`
+Snapshot ID: `AAAAAAIFXuRnQZ+L9dgXs640AjBlGetJ`

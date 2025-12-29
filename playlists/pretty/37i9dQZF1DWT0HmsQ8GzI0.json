@@ -603,22 +603,6 @@
     {
       "added_at": "2025-12-22 17:09:10",
       "album": {
-        "name": "Blicc",
-        "url": "https://open.spotify.com/album/6XjzZGNmJh7cAfrxI5WiKS"
-      },
-      "artists": [
-        {
-          "name": "Duckshell",
-          "url": "https://open.spotify.com/artist/0UwipkMBTtmv6dORNlafC9"
-        }
-      ],
-      "duration_ms": 228519,
-      "name": "Blicc",
-      "url": "https://open.spotify.com/track/2lXERDGIK7xnA6klLbMFy6"
-    },
-    {
-      "added_at": "2025-12-22 17:09:10",
-      "album": {
         "name": "Sehovaval\u00f3",
         "url": "https://open.spotify.com/album/59MgYQgY8TPlQLIZ5UwZu4"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 174529,
       "name": "Sehovaval\u00f3",
       "url": "https://open.spotify.com/track/40H2mLXeC2gxJuQPzpyWhT"
+    },
+    {
+      "added_at": "2025-12-22 17:09:10",
+      "album": {
+        "name": "Blicc",
+        "url": "https://open.spotify.com/album/6XjzZGNmJh7cAfrxI5WiKS"
+      },
+      "artists": [
+        {
+          "name": "Duckshell",
+          "url": "https://open.spotify.com/artist/0UwipkMBTtmv6dORNlafC9"
+        }
+      ],
+      "duration_ms": 228519,
+      "name": "Blicc",
+      "url": "https://open.spotify.com/track/2lXERDGIK7xnA6klLbMFy6"
     },
     {
       "added_at": "2025-12-22 17:09:10",
@@ -691,22 +691,6 @@
     {
       "added_at": "2025-12-22 17:09:10",
       "album": {
-        "name": "\u00c9rkez\u0151s Indul\u00f3",
-        "url": "https://open.spotify.com/album/22wXi4UKNsLpG0EQX9enfZ"
-      },
-      "artists": [
-        {
-          "name": "Duckshell",
-          "url": "https://open.spotify.com/artist/0UwipkMBTtmv6dORNlafC9"
-        }
-      ],
-      "duration_ms": 247246,
-      "name": "\u00c9rkez\u0151s Indul\u00f3",
-      "url": "https://open.spotify.com/track/7n6PZ0ZFy3G7UDNWe7NcFP"
-    },
-    {
-      "added_at": "2025-12-22 17:09:10",
-      "album": {
         "name": "Portug\u00edzer",
         "url": "https://open.spotify.com/album/05V71VFk9C52HFiLSLt1Mx"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 242899,
       "name": "Portug\u00edzer",
       "url": "https://open.spotify.com/track/0lnVWY8vppgZX8rfw3twUg"
+    },
+    {
+      "added_at": "2025-12-22 17:09:10",
+      "album": {
+        "name": "\u00c9rkez\u0151s Indul\u00f3",
+        "url": "https://open.spotify.com/album/22wXi4UKNsLpG0EQX9enfZ"
+      },
+      "artists": [
+        {
+          "name": "Duckshell",
+          "url": "https://open.spotify.com/artist/0UwipkMBTtmv6dORNlafC9"
+        }
+      ],
+      "duration_ms": 247246,
+      "name": "\u00c9rkez\u0151s Indul\u00f3",
+      "url": "https://open.spotify.com/track/7n6PZ0ZFy3G7UDNWe7NcFP"
     },
     {
       "added_at": "2025-12-22 17:09:10",
@@ -779,22 +779,6 @@
     {
       "added_at": "2025-12-22 17:09:10",
       "album": {
-        "name": "Pillang\u00f3hat\u00e1s",
-        "url": "https://open.spotify.com/album/1qA0swttSHDYjbQ3cwOX5Y"
-      },
-      "artists": [
-        {
-          "name": "T\u00f3th Abig\u00e9l",
-          "url": "https://open.spotify.com/artist/4Cm5LvpsuI6maYo55R7CaS"
-        }
-      ],
-      "duration_ms": 138351,
-      "name": "Pillang\u00f3hat\u00e1s",
-      "url": "https://open.spotify.com/track/5L9mdXBFc2g6l2XmfSsSJN"
-    },
-    {
-      "added_at": "2025-12-22 17:09:10",
-      "album": {
         "name": "Lassan, kocsis",
         "url": "https://open.spotify.com/album/53VbZsC8lQjXTXi3GSduEA"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 248761,
       "name": "Lassan, kocsis",
       "url": "https://open.spotify.com/track/16VjYN80sz5SaoAGUcBhqa"
+    },
+    {
+      "added_at": "2025-12-22 17:09:10",
+      "album": {
+        "name": "Pillang\u00f3hat\u00e1s",
+        "url": "https://open.spotify.com/album/1qA0swttSHDYjbQ3cwOX5Y"
+      },
+      "artists": [
+        {
+          "name": "T\u00f3th Abig\u00e9l",
+          "url": "https://open.spotify.com/artist/4Cm5LvpsuI6maYo55R7CaS"
+        }
+      ],
+      "duration_ms": 138351,
+      "name": "Pillang\u00f3hat\u00e1s",
+      "url": "https://open.spotify.com/track/5L9mdXBFc2g6l2XmfSsSJN"
     },
     {
       "added_at": "2025-12-22 17:09:10",
@@ -863,22 +863,6 @@
     {
       "added_at": "2025-12-22 17:09:10",
       "album": {
-        "name": "Gy\u00f6ny\u00f6r\u0171 Rendetlens\u00e9g",
-        "url": "https://open.spotify.com/album/3g6kFvFJ0eJdymybxhynlr"
-      },
-      "artists": [
-        {
-          "name": "Blahalouisiana",
-          "url": "https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP"
-        }
-      ],
-      "duration_ms": 259624,
-      "name": "Gy\u00f6ny\u00f6r\u0171 Rendetlens\u00e9g",
-      "url": "https://open.spotify.com/track/7hA3VR2GHMbddFVTw2QJ5K"
-    },
-    {
-      "added_at": "2025-12-22 17:09:10",
-      "album": {
         "name": "Menj",
         "url": "https://open.spotify.com/album/3eiwFheSvjaecLq4PpNsB9"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 227391,
       "name": "Menj",
       "url": "https://open.spotify.com/track/7kk5ouFxBgw5e2TZitUsZ9"
+    },
+    {
+      "added_at": "2025-12-22 17:09:10",
+      "album": {
+        "name": "Gy\u00f6ny\u00f6r\u0171 Rendetlens\u00e9g",
+        "url": "https://open.spotify.com/album/3g6kFvFJ0eJdymybxhynlr"
+      },
+      "artists": [
+        {
+          "name": "Blahalouisiana",
+          "url": "https://open.spotify.com/artist/0W2LWS5PPbVl0f6prrMcoP"
+        }
+      ],
+      "duration_ms": 259624,
+      "name": "Gy\u00f6ny\u00f6r\u0171 Rendetlens\u00e9g",
+      "url": "https://open.spotify.com/track/7hA3VR2GHMbddFVTw2QJ5K"
     },
     {
       "added_at": "2025-12-22 17:09:10",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2025-12-22 17:09:10",
       "album": {
-        "name": "M\u00e9g Egyszer",
-        "url": "https://open.spotify.com/album/39xBjc4QcfROZ5a9NdlQPn"
-      },
-      "artists": [
-        {
-          "name": "B. Nagy R\u00e9ka",
-          "url": "https://open.spotify.com/artist/5RNiPH3JLNOxOCuSYplII1"
-        }
-      ],
-      "duration_ms": 198352,
-      "name": "M\u00e9g Egyszer",
-      "url": "https://open.spotify.com/track/4YmUf5BCfZLecZv0N1qnrc"
-    },
-    {
-      "added_at": "2025-12-22 17:09:10",
-      "album": {
         "name": "Aludn\u00e9k (de nem lehet)",
         "url": "https://open.spotify.com/album/2o5xWT30M0b9KHbw1USfDl"
       },
@@ -1211,18 +1195,18 @@
     {
       "added_at": "2025-12-22 17:09:10",
       "album": {
-        "name": "Soha",
-        "url": "https://open.spotify.com/album/3qzLf9aMkiReKcMtCIlCLv"
+        "name": "M\u00e9g Egyszer",
+        "url": "https://open.spotify.com/album/39xBjc4QcfROZ5a9NdlQPn"
       },
       "artists": [
         {
-          "name": "\u0414eva",
-          "url": "https://open.spotify.com/artist/2wfO6DMEhzft4IfwM1YzEQ"
+          "name": "B. Nagy R\u00e9ka",
+          "url": "https://open.spotify.com/artist/5RNiPH3JLNOxOCuSYplII1"
         }
       ],
-      "duration_ms": 212432,
-      "name": "Soha",
-      "url": "https://open.spotify.com/track/2DFL15UJXcZLHFreHzC7EP"
+      "duration_ms": 198352,
+      "name": "M\u00e9g Egyszer",
+      "url": "https://open.spotify.com/track/4YmUf5BCfZLecZv0N1qnrc"
     },
     {
       "added_at": "2025-12-22 17:09:10",
@@ -1243,6 +1227,22 @@
     {
       "added_at": "2025-12-22 17:09:10",
       "album": {
+        "name": "Soha",
+        "url": "https://open.spotify.com/album/3qzLf9aMkiReKcMtCIlCLv"
+      },
+      "artists": [
+        {
+          "name": "\u0414eva",
+          "url": "https://open.spotify.com/artist/2wfO6DMEhzft4IfwM1YzEQ"
+        }
+      ],
+      "duration_ms": 212432,
+      "name": "Soha",
+      "url": "https://open.spotify.com/track/2DFL15UJXcZLHFreHzC7EP"
+    },
+    {
+      "added_at": "2025-12-22 17:09:10",
+      "album": {
         "name": "Elment\u00e9l",
         "url": "https://open.spotify.com/album/2WAes5Sxq4lx2GpnBBONKI"
       },
@@ -1255,22 +1255,6 @@
       "duration_ms": 284368,
       "name": "Elment\u00e9l",
       "url": "https://open.spotify.com/track/1o4NsoVgFIl7CjHLDT9mBM"
-    },
-    {
-      "added_at": "2025-12-22 17:09:10",
-      "album": {
-        "name": "Szob\u00e1k felett",
-        "url": "https://open.spotify.com/album/5LiXOFGCIm4rXVEclWrsmB"
-      },
-      "artists": [
-        {
-          "name": "Fi\u00fak",
-          "url": "https://open.spotify.com/artist/18sTF3DgwshbIZU9vdghG7"
-        }
-      ],
-      "duration_ms": 232293,
-      "name": "Alb\u00e9rlet",
-      "url": "https://open.spotify.com/track/0LxmBrcAbrGY9Z1kNZChic"
     },
     {
       "added_at": "2025-12-22 17:09:10",
@@ -1295,6 +1279,22 @@
       "duration_ms": 179045,
       "name": "Groteszk",
       "url": "https://open.spotify.com/track/7DEz8GHB8LxhYNgamY9zXa"
+    },
+    {
+      "added_at": "2025-12-22 17:09:10",
+      "album": {
+        "name": "Szob\u00e1k felett",
+        "url": "https://open.spotify.com/album/5LiXOFGCIm4rXVEclWrsmB"
+      },
+      "artists": [
+        {
+          "name": "Fi\u00fak",
+          "url": "https://open.spotify.com/artist/18sTF3DgwshbIZU9vdghG7"
+        }
+      ],
+      "duration_ms": 232293,
+      "name": "Alb\u00e9rlet",
+      "url": "https://open.spotify.com/track/0LxmBrcAbrGY9Z1kNZChic"
     },
     {
       "added_at": "2025-12-22 17:09:10",

@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-192 songs - 11 hr 42 min
+194 songs - 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Miasma](https://open.spotify.com/track/5h6VI7hqGOEHKZ2SB841o1) | [Shivar](https://open.spotify.com/artist/3PxXprTqU2XCcSEWqfHZKA) | [Miasma](https://open.spotify.com/album/6iidZ2ekONN6F6X9Z4msfl) | 4:18 | 2025-11-17 | 2025-12-12 |
 | [Minimal Life](https://open.spotify.com/track/5wwqaDdBRzWOPzzrXyVEB2) | [Waiting for the Sun](https://open.spotify.com/artist/6FBHO9VpDvTirqGAR7mEiA) | [Minimal Life](https://open.spotify.com/album/3JoINj8K0gm9zBjt0SNpzB) | 5:43 | 2025-11-27 |  |
 | [Moonlight In Her Eyes](https://open.spotify.com/track/0WacSaEiYuiKtXbtJIHTQO) | [Mary Wiles](https://open.spotify.com/artist/1U4MNNHHmj3YK2weAeiUTl) | [Why Not Take A Chance](https://open.spotify.com/album/5KsoXtKHhjGc8bPgSjjQey) | 3:51 | 2025-11-29 | 2025-12-28 |
+| [My Body Says](https://open.spotify.com/track/6h0BrrBxPrdQzgwQGol7HZ) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [My Body Says](https://open.spotify.com/album/2MhAQxt52HGrv0ExsdLFcE) | 3:55 | 2025-12-28 |  |
 | [My Own World](https://open.spotify.com/track/23hwOGWChFPALZdX4dYFlC) | [Impulse Bangs](https://open.spotify.com/artist/3QbpC7UT2TgsfZ9Qpyvcbp) | [My Own World](https://open.spotify.com/album/38prmH5z5AS3n7yKCXig8m) | 3:50 | 2025-12-11 |  |
 | [My Wings](https://open.spotify.com/track/4uvvxklqvcOxTrNdvnZTco) | [Bliss On The Stars](https://open.spotify.com/artist/6mVn8YjdSG1C5PxcksAeiU) | [My Wings](https://open.spotify.com/album/5YBEL7PVdJsWTwPOBxlpCQ) | 4:24 | 2025-12-08 | 2025-12-28 |
 | [Never Gonna Make You Mine](https://open.spotify.com/track/1SUOjtXdd7WtFlzuQlYo60) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Never Gonna Make You Mine](https://open.spotify.com/album/3hitAWfJNEBSrzYWm2CGrz) | 3:02 | 2025-11-21 | 2025-12-12 |
@@ -118,6 +119,7 @@
 | [No Sympathy](https://open.spotify.com/track/26gB1uyvQVxwFDNOs68Tfw) | [Tia Rose](https://open.spotify.com/artist/1gGadeENa0utvSOoPSlLSc) | [No Sympathy](https://open.spotify.com/album/32faOwJCBADaLbFoPtrcbx) | 3:27 | 2025-12-11 |  |
 | [Notopia](https://open.spotify.com/track/2cuabAoFvJj2yx1xDhjxee) | [Dez Dare](https://open.spotify.com/artist/1elbB348tXNuC92QkZlHLF) | [CHERYL! Your Love Shines Down Like A Supernova’s Death](https://open.spotify.com/album/2FaiLx82IYqLWVtyRPCPRT) | 3:55 | 2025-10-27 | 2025-11-22 |
 | [Nuestro Camino](https://open.spotify.com/track/0UpD8nhlWeDDmGIsbhEYVj) | [Demonios Del Cielo](https://open.spotify.com/artist/3b2hIDjJn9MhCussAdvBkm) | [Nuestro Camino](https://open.spotify.com/album/0YkzKQaESw6nPRyOHTfZWy) | 4:44 | 2025-11-04 | 2025-12-12 |
+| [Oh Lord \- DEMO](https://open.spotify.com/track/5B7Z958xoP5tSH4PAP0zwF) | [Lucy Benedetti](https://open.spotify.com/artist/1WKuen7Let4lgNPiKDVfl7) | [Oh Lord \(DEMO\)](https://open.spotify.com/album/3MNsjdaUPWdVKKMPXgj70g) | 3:36 | 2025-12-28 |  |
 | [On the Loose](https://open.spotify.com/track/7d1lvt879yCYPAGbpacM04) | [Middle Ages](https://open.spotify.com/artist/0NyhABi9Cb2nGLMMoG6KQF) | [On the Loose](https://open.spotify.com/album/7MWN8qgtZP8KKe5yS0SfmH) | 3:35 | 2025-11-26 |  |
 | [One Roof Band](https://open.spotify.com/track/33MX2mqv9J1IJhNSXDMxzx) | [Ashton McKinley](https://open.spotify.com/artist/2Fo0a4n5BfuG5cbm1P6nAy), [Jack McKinley](https://open.spotify.com/artist/5pV0bg4PE7KriPKMOlU1JH) | [One Roof Band](https://open.spotify.com/album/0chLuhom9W02NOMEaepQaJ) | 3:44 | 2025-11-06 | 2025-12-12 |
 | [Out Of Mind](https://open.spotify.com/track/1OFweranXJz823BH5fZYVI) | [1POINT5](https://open.spotify.com/artist/4PPHoRT5RMRHTbMGeQXiA3) | [Out Of Mind](https://open.spotify.com/album/2Rklcp8oIxKCK8duJuWHG4) | 2:32 | 2025-11-17 | 2025-12-12 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Latto. The essential tracks, all in one playlist.",
-  "num_followers": 39005,
+  "num_followers": 39013,
   "original_name": "This Is Latto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU3QAAAAAABAHGkucL0pI2m43aDhEcPO",
+  "snapshot_id": "aU8hgAAAAAB80CnEtcO2OxfKr3r6FelL",
   "tracks": [
     {
       "added_at": null,
@@ -111,6 +111,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "777",
+        "url": "https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 172540,
+      "name": "Big Energy",
+      "url": "https://open.spotify.com/track/4pi1G1x8tl9VfdD9bL3maT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gyatt",
         "url": "https://open.spotify.com/album/6mJonxS4QLPYRzYYmjnZwV"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 137733,
       "name": "Gyatt",
       "url": "https://open.spotify.com/track/3srvOwMjHkTEmjphUucVip"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "777",
-        "url": "https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 172540,
-      "name": "Big Energy",
-      "url": "https://open.spotify.com/track/4pi1G1x8tl9VfdD9bL3maT"
     },
     {
       "added_at": null,
@@ -691,26 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For the Night",
-        "url": "https://open.spotify.com/album/6Y3MgnjUXqGRYtDdfE5e0Q"
-      },
-      "artists": [
-        {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 205170,
-      "name": "For the Night",
-      "url": "https://open.spotify.com/track/6y39UI6gdUexBGprn6pQo6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Do It (feat. Doja Cat, City Girls & Mulatto) [Remix]",
         "url": "https://open.spotify.com/album/1Rd37EUs0P8KzpPPkKPbKa"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 255180,
       "name": "Do It (feat. Doja Cat, City Girls & Mulatto) [Remix]",
       "url": "https://open.spotify.com/track/2WKJcMeqmjkL4FzFoJszR7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For the Night",
+        "url": "https://open.spotify.com/album/6Y3MgnjUXqGRYtDdfE5e0Q"
+      },
+      "artists": [
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 205170,
+      "name": "For the Night",
+      "url": "https://open.spotify.com/track/6y39UI6gdUexBGprn6pQo6"
     },
     {
       "added_at": null,
@@ -779,26 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thank You For Believing",
-        "url": "https://open.spotify.com/album/616PXlH2cjun1oU5LR81oB"
-      },
-      "artists": [
-        {
-          "name": "Toosii",
-          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 168019,
-      "name": "5'5 (feat. Latto)",
-      "url": "https://open.spotify.com/track/6wYGNsyBRpoWu8rDgXSOlQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Another Nasty Song",
         "url": "https://open.spotify.com/album/6lFb5yNr5P8oniP9OfDuNb"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 206250,
       "name": "Sunshine (feat. Lil Wayne & Childish Gambino)",
       "url": "https://open.spotify.com/track/3Lf16tRdqj4H7MBtCSztDS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thank You For Believing",
+        "url": "https://open.spotify.com/album/616PXlH2cjun1oU5LR81oB"
+      },
+      "artists": [
+        {
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 168019,
+      "name": "5'5 (feat. Latto)",
+      "url": "https://open.spotify.com/track/6wYGNsyBRpoWu8rDgXSOlQ"
     },
     {
       "added_at": null,
@@ -903,26 +903,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mind Yo Business (Feat. Latto)",
-        "url": "https://open.spotify.com/album/0NCupn1XlJsAHmUcCCGLQk"
-      },
-      "artists": [
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 122266,
-      "name": "Mind Yo Business (Feat. Latto)",
-      "url": "https://open.spotify.com/track/5hR1PFUnx0uRkqYsW4Z4ja"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ISSA PARTY (feat. BabyDrill)",
         "url": "https://open.spotify.com/album/2bgo85yjFegHRyRROMaiWm"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 176133,
       "name": "ISSA PARTY (feat. BabyDrill)",
       "url": "https://open.spotify.com/track/4hrd3G5XnJzDC5LZw0Fwgu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mind Yo Business (Feat. Latto)",
+        "url": "https://open.spotify.com/album/0NCupn1XlJsAHmUcCCGLQk"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 122266,
+      "name": "Mind Yo Business (Feat. Latto)",
+      "url": "https://open.spotify.com/track/5hR1PFUnx0uRkqYsW4Z4ja"
     },
     {
       "added_at": null,
@@ -991,6 +991,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Can't Get Enough (feat. Latto)",
+        "url": "https://open.spotify.com/album/20fxjFAGC0xdWzLeW6qsSC"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 207284,
+      "name": "Can't Get Enough (feat. Latto)",
+      "url": "https://open.spotify.com/track/5tGL15ZwvK71n9uZWYlaoH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "This Right Here (feat. Latto)",
         "url": "https://open.spotify.com/album/6p7eDmgasSQNXOkCk2OJ5G"
       },
@@ -1011,26 +1031,6 @@
       "duration_ms": 189871,
       "name": "This Right Here (feat. Latto)",
       "url": "https://open.spotify.com/track/3NojiHGbRouNiIazKPITaG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Can't Get Enough (feat. Latto)",
-        "url": "https://open.spotify.com/album/20fxjFAGC0xdWzLeW6qsSC"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 207284,
-      "name": "Can't Get Enough (feat. Latto)",
-      "url": "https://open.spotify.com/track/5tGL15ZwvK71n9uZWYlaoH"
     }
   ],
   "unique_name": "This Is Latto",

@@ -1,6 +1,6 @@
 {
   "description": "los mejores beats producidos en tierras mexicanas \ud83c\udf35",
-  "num_followers": 36997,
+  "num_followers": 36998,
   "original_name": "LoFi mexa",
   "owner": {
     "name": "Spotify",
@@ -179,6 +179,22 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
+        "name": "Dalia",
+        "url": "https://open.spotify.com/album/6A7MFq1El3As1wHIbx6nhV"
+      },
+      "artists": [
+        {
+          "name": "Flora Vida",
+          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Dalia",
+      "url": "https://open.spotify.com/track/27ATmkV5cdLQIJDNgOR0zm"
+    },
+    {
+      "added_at": "2025-10-17 06:00:24",
+      "album": {
         "name": "fiesta",
         "url": "https://open.spotify.com/album/7f2SsN58aFgvlZQj7mgYGw"
       },
@@ -223,34 +239,18 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
-        "name": "abducci\u00f3n",
-        "url": "https://open.spotify.com/album/5OGkfE8wPVLQYGoyAQbqtN"
+        "name": "Lo-fi Ma\u00f1ana en CDMX",
+        "url": "https://open.spotify.com/album/1cmxAJZi1MzXbG9BeVWBTf"
       },
       "artists": [
         {
-          "name": "RUIDO",
-          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
         }
       ],
-      "duration_ms": 96300,
-      "name": "abduccion (bonus andromeda)",
-      "url": "https://open.spotify.com/track/7lDTPjWoIT68uiiQ8v4KLS"
-    },
-    {
-      "added_at": "2025-10-17 06:00:24",
-      "album": {
-        "name": "Dalia",
-        "url": "https://open.spotify.com/album/6A7MFq1El3As1wHIbx6nhV"
-      },
-      "artists": [
-        {
-          "name": "Flora Vida",
-          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Dalia",
-      "url": "https://open.spotify.com/track/27ATmkV5cdLQIJDNgOR0zm"
+      "duration_ms": 169491,
+      "name": "Lo-fi Ma\u00f1ana en CDMX",
+      "url": "https://open.spotify.com/track/3gZvQkmyMV7vnszgqI2lTM"
     },
     {
       "added_at": "2025-10-17 06:00:24",
@@ -275,18 +275,18 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
-        "name": "Lo-fi Ma\u00f1ana en CDMX",
-        "url": "https://open.spotify.com/album/1cmxAJZi1MzXbG9BeVWBTf"
+        "name": "abducci\u00f3n",
+        "url": "https://open.spotify.com/album/5OGkfE8wPVLQYGoyAQbqtN"
       },
       "artists": [
         {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+          "name": "RUIDO",
+          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
         }
       ],
-      "duration_ms": 169491,
-      "name": "Lo-fi Ma\u00f1ana en CDMX",
-      "url": "https://open.spotify.com/track/3gZvQkmyMV7vnszgqI2lTM"
+      "duration_ms": 96300,
+      "name": "abduccion (bonus andromeda)",
+      "url": "https://open.spotify.com/track/7lDTPjWoIT68uiiQ8v4KLS"
     },
     {
       "added_at": "2025-10-17 06:00:24",
@@ -315,26 +315,6 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
-        "name": "Sailboat",
-        "url": "https://open.spotify.com/album/3Jo3dCor7i4wywve20cOLZ"
-      },
-      "artists": [
-        {
-          "name": "yermo7",
-          "url": "https://open.spotify.com/artist/1vXstjTfSJvEB6uDlrHTge"
-        },
-        {
-          "name": "Nicolas Kluzek",
-          "url": "https://open.spotify.com/artist/0fUtDbK1RDdscZGRHqCHCs"
-        }
-      ],
-      "duration_ms": 159642,
-      "name": "Sailboat",
-      "url": "https://open.spotify.com/track/6xtWuEaX4nn85FfOGVY0Lm"
-    },
-    {
-      "added_at": "2025-10-17 06:00:24",
-      "album": {
         "name": "Moonlight Juice",
         "url": "https://open.spotify.com/album/438r9WwiloWn5BVNR07tS5"
       },
@@ -351,6 +331,26 @@
       "duration_ms": 147786,
       "name": "Moonlight Juice",
       "url": "https://open.spotify.com/track/6UzKVwHnMR2rHjCfOl4XoX"
+    },
+    {
+      "added_at": "2025-10-17 06:00:24",
+      "album": {
+        "name": "Sailboat",
+        "url": "https://open.spotify.com/album/3Jo3dCor7i4wywve20cOLZ"
+      },
+      "artists": [
+        {
+          "name": "yermo7",
+          "url": "https://open.spotify.com/artist/1vXstjTfSJvEB6uDlrHTge"
+        },
+        {
+          "name": "Nicolas Kluzek",
+          "url": "https://open.spotify.com/artist/0fUtDbK1RDdscZGRHqCHCs"
+        }
+      ],
+      "duration_ms": 159642,
+      "name": "Sailboat",
+      "url": "https://open.spotify.com/track/6xtWuEaX4nn85FfOGVY0Lm"
     },
     {
       "added_at": "2025-10-17 06:00:24",
@@ -423,22 +423,6 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
-        "name": "Chola - Beat Tape",
-        "url": "https://open.spotify.com/album/5p0noa82CVmfKHvfFyuYQ6"
-      },
-      "artists": [
-        {
-          "name": "RUIDO",
-          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
-        }
-      ],
-      "duration_ms": 129804,
-      "name": "por ti",
-      "url": "https://open.spotify.com/track/22QRuNu0lS0pD8eMVQDOsH"
-    },
-    {
-      "added_at": "2025-10-17 06:00:24",
-      "album": {
         "name": "Lo-Fi el Panadero Con el Pan",
         "url": "https://open.spotify.com/album/3Z6NfhcamDjbSjLDmrCzA3"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 134451,
       "name": "Cumbia Don Juan",
       "url": "https://open.spotify.com/track/7mMqNYz2HjW5B3rI5Lg5yk"
+    },
+    {
+      "added_at": "2025-10-17 06:00:24",
+      "album": {
+        "name": "Chola - Beat Tape",
+        "url": "https://open.spotify.com/album/5p0noa82CVmfKHvfFyuYQ6"
+      },
+      "artists": [
+        {
+          "name": "RUIDO",
+          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
+        }
+      ],
+      "duration_ms": 129804,
+      "name": "por ti",
+      "url": "https://open.spotify.com/track/22QRuNu0lS0pD8eMVQDOsH"
     },
     {
       "added_at": "2025-10-17 06:00:24",
@@ -507,6 +507,22 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
+        "name": "Nos Usamos",
+        "url": "https://open.spotify.com/album/1OGJNAFeUgRSliMjeKMkND"
+      },
+      "artists": [
+        {
+          "name": "Jiony",
+          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
+        }
+      ],
+      "duration_ms": 269800,
+      "name": "Nos Usamos",
+      "url": "https://open.spotify.com/track/1is3m5JZequlsvuWF11f7s"
+    },
+    {
+      "added_at": "2025-10-17 06:00:24",
+      "album": {
         "name": "Bolero lo-fi para el coraz\u00f3n",
         "url": "https://open.spotify.com/album/7gw1sD1ewqfVJSUGrsakhl"
       },
@@ -531,22 +547,6 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
-        "name": "Nos Usamos",
-        "url": "https://open.spotify.com/album/1OGJNAFeUgRSliMjeKMkND"
-      },
-      "artists": [
-        {
-          "name": "Jiony",
-          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
-        }
-      ],
-      "duration_ms": 269800,
-      "name": "Nos Usamos",
-      "url": "https://open.spotify.com/track/1is3m5JZequlsvuWF11f7s"
-    },
-    {
-      "added_at": "2025-10-17 06:00:24",
-      "album": {
         "name": "G\u00e9minis",
         "url": "https://open.spotify.com/album/0MOf0uXJiEpUOwumCF1IRm"
       },
@@ -559,22 +559,6 @@
       "duration_ms": 197588,
       "name": "G\u00e9minis",
       "url": "https://open.spotify.com/track/0KmkXAU8cIqe4mwquGbImZ"
-    },
-    {
-      "added_at": "2025-10-17 06:00:24",
-      "album": {
-        "name": "Saguaro",
-        "url": "https://open.spotify.com/album/0Q9gN3lrZJuqeaf9fqVfkb"
-      },
-      "artists": [
-        {
-          "name": "Flora Vida",
-          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
-        }
-      ],
-      "duration_ms": 132631,
-      "name": "Saguaro",
-      "url": "https://open.spotify.com/track/3FU5mFV1Kk63mtMv2xEru0"
     },
     {
       "added_at": "2025-10-17 06:00:24",
@@ -595,22 +579,18 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
-        "name": "Dale Dale",
-        "url": "https://open.spotify.com/album/1lhBqlw0v8TsrjXdKBOC7x"
+        "name": "Saguaro",
+        "url": "https://open.spotify.com/album/0Q9gN3lrZJuqeaf9fqVfkb"
       },
       "artists": [
         {
-          "name": "SpoonBeats",
-          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
-        },
-        {
-          "name": "Don Raimundo",
-          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
+          "name": "Flora Vida",
+          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
         }
       ],
-      "duration_ms": 148000,
-      "name": "Dale Dale",
-      "url": "https://open.spotify.com/track/5dzMrLVdPiXKTt6r3MMwnL"
+      "duration_ms": 132631,
+      "name": "Saguaro",
+      "url": "https://open.spotify.com/track/3FU5mFV1Kk63mtMv2xEru0"
     },
     {
       "added_at": "2025-10-17 06:00:24",
@@ -651,18 +631,18 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
-        "name": "Patadas de Ahogado",
-        "url": "https://open.spotify.com/album/10Q9ERvl1qCJZPPcPIrxtY"
+        "name": "El Jard\u00edn",
+        "url": "https://open.spotify.com/album/4NxNucdIBhvqjzGaGSz2l0"
       },
       "artists": [
         {
-          "name": "Jiony",
-          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
+          "name": "El Trizte",
+          "url": "https://open.spotify.com/artist/1bAXAt2A2yrjPuGPBjqQAV"
         }
       ],
-      "duration_ms": 190000,
-      "name": "Patadas de Ahogado",
-      "url": "https://open.spotify.com/track/1b9ceFMdUzFLEZ6blTPEks"
+      "duration_ms": 140500,
+      "name": "El Jard\u00edn",
+      "url": "https://open.spotify.com/track/2vjpUv3v0O3NDHd8C2gWjM"
     },
     {
       "added_at": "2025-10-17 06:00:24",
@@ -687,18 +667,38 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
-        "name": "El Jard\u00edn",
-        "url": "https://open.spotify.com/album/4NxNucdIBhvqjzGaGSz2l0"
+        "name": "Patadas de Ahogado",
+        "url": "https://open.spotify.com/album/10Q9ERvl1qCJZPPcPIrxtY"
       },
       "artists": [
         {
-          "name": "El Trizte",
-          "url": "https://open.spotify.com/artist/1bAXAt2A2yrjPuGPBjqQAV"
+          "name": "Jiony",
+          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
         }
       ],
-      "duration_ms": 140500,
-      "name": "El Jard\u00edn",
-      "url": "https://open.spotify.com/track/2vjpUv3v0O3NDHd8C2gWjM"
+      "duration_ms": 190000,
+      "name": "Patadas de Ahogado",
+      "url": "https://open.spotify.com/track/1b9ceFMdUzFLEZ6blTPEks"
+    },
+    {
+      "added_at": "2025-10-17 06:00:24",
+      "album": {
+        "name": "Dale Dale",
+        "url": "https://open.spotify.com/album/1lhBqlw0v8TsrjXdKBOC7x"
+      },
+      "artists": [
+        {
+          "name": "SpoonBeats",
+          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
+        },
+        {
+          "name": "Don Raimundo",
+          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Dale Dale",
+      "url": "https://open.spotify.com/track/5dzMrLVdPiXKTt6r3MMwnL"
     },
     {
       "added_at": "2025-10-17 06:00:24",
@@ -751,6 +751,26 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
+        "name": "Cumbia Psicod\u00e9lica",
+        "url": "https://open.spotify.com/album/35Km6XTEEYQCIB7YZ9Vrtb"
+      },
+      "artists": [
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        },
+        {
+          "name": "Iv\u00e1n Rosa",
+          "url": "https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF"
+        }
+      ],
+      "duration_ms": 135091,
+      "name": "Cumbia Psicod\u00e9lica",
+      "url": "https://open.spotify.com/track/1nlDoC4oPCrsyGn1TdpAGE"
+    },
+    {
+      "added_at": "2025-10-17 06:00:24",
+      "album": {
         "name": "Mirrors",
         "url": "https://open.spotify.com/album/4fbEwFpY5oaFqO8SK5JHuf"
       },
@@ -779,42 +799,6 @@
       "duration_ms": 150956,
       "name": "como los ni\u00f1os",
       "url": "https://open.spotify.com/track/6iLPL7IqACjvks08AuZq6i"
-    },
-    {
-      "added_at": "2025-10-17 06:00:24",
-      "album": {
-        "name": "Nadie sabe nada de nadie",
-        "url": "https://open.spotify.com/album/3hF6j49t457n99eKivIoUE"
-      },
-      "artists": [
-        {
-          "name": "Jiony",
-          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
-        }
-      ],
-      "duration_ms": 179538,
-      "name": "Nadie sabe nada de nadie",
-      "url": "https://open.spotify.com/track/7u5CsOA4Kt5d6W5pcw9wm9"
-    },
-    {
-      "added_at": "2025-10-17 06:00:24",
-      "album": {
-        "name": "Cumbia Psicod\u00e9lica",
-        "url": "https://open.spotify.com/album/35Km6XTEEYQCIB7YZ9Vrtb"
-      },
-      "artists": [
-        {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        },
-        {
-          "name": "Iv\u00e1n Rosa",
-          "url": "https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF"
-        }
-      ],
-      "duration_ms": 135091,
-      "name": "Cumbia Psicod\u00e9lica",
-      "url": "https://open.spotify.com/track/1nlDoC4oPCrsyGn1TdpAGE"
     },
     {
       "added_at": "2025-10-17 06:00:24",
@@ -875,6 +859,22 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
+        "name": "Nadie sabe nada de nadie",
+        "url": "https://open.spotify.com/album/3hF6j49t457n99eKivIoUE"
+      },
+      "artists": [
+        {
+          "name": "Jiony",
+          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
+        }
+      ],
+      "duration_ms": 179538,
+      "name": "Nadie sabe nada de nadie",
+      "url": "https://open.spotify.com/track/7u5CsOA4Kt5d6W5pcw9wm9"
+    },
+    {
+      "added_at": "2025-10-17 06:00:24",
+      "album": {
         "name": "que chulada",
         "url": "https://open.spotify.com/album/1VL31Ov2UyihVGEDQSoptV"
       },
@@ -911,6 +911,22 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
+        "name": "Erick",
+        "url": "https://open.spotify.com/album/6pYpF5RlpLlTyD746OtTJL"
+      },
+      "artists": [
+        {
+          "name": "RUIDO",
+          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
+        }
+      ],
+      "duration_ms": 172528,
+      "name": "Erick",
+      "url": "https://open.spotify.com/track/5mx2Zm4WSsM2fL6qjK9xgc"
+    },
+    {
+      "added_at": "2025-10-17 06:00:24",
+      "album": {
         "name": "Retreat",
         "url": "https://open.spotify.com/album/5DSFC0n76z9CoGVwVmuPkD"
       },
@@ -935,22 +951,6 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
-        "name": "Good things take time",
-        "url": "https://open.spotify.com/album/3gwGJiQ0xGSUa3C6GZIXbL"
-      },
-      "artists": [
-        {
-          "name": "Daniel Ord\u00f3\u00f1ez",
-          "url": "https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb"
-        }
-      ],
-      "duration_ms": 99428,
-      "name": "Good things take time",
-      "url": "https://open.spotify.com/track/1L7xnsFNbBU6RH06PxbPx5"
-    },
-    {
-      "added_at": "2025-10-17 06:00:24",
-      "album": {
         "name": "jazz y cdmx",
         "url": "https://open.spotify.com/album/17tlWeBFchVYB4AykvA21z"
       },
@@ -967,18 +967,18 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
-        "name": "Erick",
-        "url": "https://open.spotify.com/album/6pYpF5RlpLlTyD746OtTJL"
+        "name": "Good things take time",
+        "url": "https://open.spotify.com/album/3gwGJiQ0xGSUa3C6GZIXbL"
       },
       "artists": [
         {
-          "name": "RUIDO",
-          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
+          "name": "Daniel Ord\u00f3\u00f1ez",
+          "url": "https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb"
         }
       ],
-      "duration_ms": 172528,
-      "name": "Erick",
-      "url": "https://open.spotify.com/track/5mx2Zm4WSsM2fL6qjK9xgc"
+      "duration_ms": 99428,
+      "name": "Good things take time",
+      "url": "https://open.spotify.com/track/1L7xnsFNbBU6RH06PxbPx5"
     },
     {
       "added_at": "2025-10-17 06:00:24",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
-        "name": "Sugar Leafs",
-        "url": "https://open.spotify.com/album/1MVerpQDX3h3YXG29uJlWW"
+        "name": "Flores",
+        "url": "https://open.spotify.com/album/15MvEJUxpxTHPA2vFlNgPh"
       },
       "artists": [
         {
-          "name": "Jav Cast",
-          "url": "https://open.spotify.com/artist/4bkOWEgiKDhSsMCJGeAfxj"
+          "name": "RUIDO",
+          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
         }
       ],
-      "duration_ms": 129332,
-      "name": "Sugar Leafs",
-      "url": "https://open.spotify.com/track/4wD1aX5wFvx8jPSQq0OSFH"
+      "duration_ms": 121258,
+      "name": "Flores",
+      "url": "https://open.spotify.com/track/3basLClhD8rhrrn2pYczI9"
     },
     {
       "added_at": "2025-10-17 06:00:24",
@@ -1071,6 +1071,22 @@
       "duration_ms": 146845,
       "name": "Lost Memories",
       "url": "https://open.spotify.com/track/4C6LHfiS7pnYDW0PR0Tkap"
+    },
+    {
+      "added_at": "2025-10-17 06:00:24",
+      "album": {
+        "name": "Sugar Leafs",
+        "url": "https://open.spotify.com/album/1MVerpQDX3h3YXG29uJlWW"
+      },
+      "artists": [
+        {
+          "name": "Jav Cast",
+          "url": "https://open.spotify.com/artist/4bkOWEgiKDhSsMCJGeAfxj"
+        }
+      ],
+      "duration_ms": 129332,
+      "name": "Sugar Leafs",
+      "url": "https://open.spotify.com/track/4wD1aX5wFvx8jPSQq0OSFH"
     },
     {
       "added_at": "2025-10-17 06:00:24",
@@ -1119,6 +1135,46 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
+        "name": "Birria",
+        "url": "https://open.spotify.com/album/2sKFNFgM5n3403t7LadLk0"
+      },
+      "artists": [
+        {
+          "name": "Fallen_Kid",
+          "url": "https://open.spotify.com/artist/3XrwWivF42Xahs2QhZhGOy"
+        }
+      ],
+      "duration_ms": 119527,
+      "name": "Birria",
+      "url": "https://open.spotify.com/track/55W0BK2MwTy2PRiByysRTg"
+    },
+    {
+      "added_at": "2025-10-17 06:00:24",
+      "album": {
+        "name": "ajijic, jalisco",
+        "url": "https://open.spotify.com/album/08DPwkK3JbqHp4lLfW0zuV"
+      },
+      "artists": [
+        {
+          "name": "tres islas",
+          "url": "https://open.spotify.com/artist/7CRBLbMHIR0QIrBGhj4mc8"
+        },
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        },
+        {
+          "name": "Sunsplash",
+          "url": "https://open.spotify.com/artist/56LTeMVDItLpwZPI2UCKCr"
+        }
+      ],
+      "duration_ms": 202590,
+      "name": "ajijic, jalisco",
+      "url": "https://open.spotify.com/track/2BzQRZ1KKQC9Zpe6LAU6ED"
+    },
+    {
+      "added_at": "2025-10-17 06:00:24",
+      "album": {
         "name": "El Coraz\u00f3n",
         "url": "https://open.spotify.com/album/2k8iUgRjS8e9feuoPmb1eQ"
       },
@@ -1135,38 +1191,6 @@
       "duration_ms": 140411,
       "name": "El Coraz\u00f3n",
       "url": "https://open.spotify.com/track/7q8CNO6bRExzHx197q0oS1"
-    },
-    {
-      "added_at": "2025-10-17 06:00:24",
-      "album": {
-        "name": "Flores",
-        "url": "https://open.spotify.com/album/15MvEJUxpxTHPA2vFlNgPh"
-      },
-      "artists": [
-        {
-          "name": "RUIDO",
-          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
-        }
-      ],
-      "duration_ms": 121258,
-      "name": "Flores",
-      "url": "https://open.spotify.com/track/3basLClhD8rhrrn2pYczI9"
-    },
-    {
-      "added_at": "2025-10-17 06:00:24",
-      "album": {
-        "name": "Birria",
-        "url": "https://open.spotify.com/album/2sKFNFgM5n3403t7LadLk0"
-      },
-      "artists": [
-        {
-          "name": "Fallen_Kid",
-          "url": "https://open.spotify.com/artist/3XrwWivF42Xahs2QhZhGOy"
-        }
-      ],
-      "duration_ms": 119527,
-      "name": "Birria",
-      "url": "https://open.spotify.com/track/55W0BK2MwTy2PRiByysRTg"
     },
     {
       "added_at": "2025-10-17 06:00:24",
@@ -1215,30 +1239,6 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
-        "name": "ajijic, jalisco",
-        "url": "https://open.spotify.com/album/08DPwkK3JbqHp4lLfW0zuV"
-      },
-      "artists": [
-        {
-          "name": "tres islas",
-          "url": "https://open.spotify.com/artist/7CRBLbMHIR0QIrBGhj4mc8"
-        },
-        {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        },
-        {
-          "name": "Sunsplash",
-          "url": "https://open.spotify.com/artist/56LTeMVDItLpwZPI2UCKCr"
-        }
-      ],
-      "duration_ms": 202590,
-      "name": "ajijic, jalisco",
-      "url": "https://open.spotify.com/track/2BzQRZ1KKQC9Zpe6LAU6ED"
-    },
-    {
-      "added_at": "2025-10-17 06:00:24",
-      "album": {
         "name": "Lucid Dreams",
         "url": "https://open.spotify.com/album/3zWqIXF9jMEDcC3bLR2WvR"
       },
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
-        "name": "Atacama",
-        "url": "https://open.spotify.com/album/0HnHqxRNRhh80XF1EwXaFz"
-      },
-      "artists": [
-        {
-          "name": "Flora Vida",
-          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
-        }
-      ],
-      "duration_ms": 128571,
-      "name": "Atacama",
-      "url": "https://open.spotify.com/track/1UXJaXxxVS9rflSDWpLoX2"
-    },
-    {
-      "added_at": "2025-10-17 06:00:24",
-      "album": {
         "name": "La Casa Azul",
         "url": "https://open.spotify.com/album/0ZfE100Y62BLbeARqF9Zmi"
       },
@@ -1307,18 +1291,18 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
-        "name": "M\u00e9xico lofi",
-        "url": "https://open.spotify.com/album/1B9IWojkmn40BhjoinC6hQ"
+        "name": "Atacama",
+        "url": "https://open.spotify.com/album/0HnHqxRNRhh80XF1EwXaFz"
       },
       "artists": [
         {
-          "name": "El Trizte",
-          "url": "https://open.spotify.com/artist/1bAXAt2A2yrjPuGPBjqQAV"
+          "name": "Flora Vida",
+          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
         }
       ],
-      "duration_ms": 117779,
-      "name": "Mi tierra",
-      "url": "https://open.spotify.com/track/30bFkZVlFbKsYxRoR1JUmf"
+      "duration_ms": 128571,
+      "name": "Atacama",
+      "url": "https://open.spotify.com/track/1UXJaXxxVS9rflSDWpLoX2"
     },
     {
       "added_at": "2025-10-17 06:00:24",
@@ -1339,6 +1323,22 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
+        "name": "M\u00e9xico lofi",
+        "url": "https://open.spotify.com/album/1B9IWojkmn40BhjoinC6hQ"
+      },
+      "artists": [
+        {
+          "name": "El Trizte",
+          "url": "https://open.spotify.com/artist/1bAXAt2A2yrjPuGPBjqQAV"
+        }
+      ],
+      "duration_ms": 117779,
+      "name": "Mi tierra",
+      "url": "https://open.spotify.com/track/30bFkZVlFbKsYxRoR1JUmf"
+    },
+    {
+      "added_at": "2025-10-17 06:00:24",
+      "album": {
         "name": "Abr\u00e1zame mucho estos d\u00edas",
         "url": "https://open.spotify.com/album/2ewnGGkHJg0pbo41zkSPXq"
       },
@@ -1351,22 +1351,6 @@
       "duration_ms": 162479,
       "name": "Abr\u00e1zame mucho estos d\u00edas",
       "url": "https://open.spotify.com/track/6HcZfq7BQHrVS9jlEmhBsU"
-    },
-    {
-      "added_at": "2025-10-17 06:00:24",
-      "album": {
-        "name": "wandering through soft colors",
-        "url": "https://open.spotify.com/album/2bDEjpAPGCaghmgZMRHq6T"
-      },
-      "artists": [
-        {
-          "name": "amlo",
-          "url": "https://open.spotify.com/artist/3tnECtf0aO6jeCJOXHKMg4"
-        }
-      ],
-      "duration_ms": 196721,
-      "name": "wandering through soft colors",
-      "url": "https://open.spotify.com/track/69nXRmLR97LqM5PZo3ODFi"
     },
     {
       "added_at": "2025-10-17 06:00:24",
@@ -1403,6 +1387,22 @@
       "duration_ms": 137923,
       "name": "Maranta",
       "url": "https://open.spotify.com/track/1LKFi6ekNYuhFfuEQ7QE44"
+    },
+    {
+      "added_at": "2025-10-17 06:00:24",
+      "album": {
+        "name": "wandering through soft colors",
+        "url": "https://open.spotify.com/album/2bDEjpAPGCaghmgZMRHq6T"
+      },
+      "artists": [
+        {
+          "name": "amlo",
+          "url": "https://open.spotify.com/artist/3tnECtf0aO6jeCJOXHKMg4"
+        }
+      ],
+      "duration_ms": 196721,
+      "name": "wandering through soft colors",
+      "url": "https://open.spotify.com/track/69nXRmLR97LqM5PZo3ODFi"
     },
     {
       "added_at": "2025-10-17 06:00:24",
@@ -1511,30 +1511,6 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
-        "name": "Goldilocks Planet",
-        "url": "https://open.spotify.com/album/21m4Tkz73fhKxIH0Uxw78V"
-      },
-      "artists": [
-        {
-          "name": "Unatee X",
-          "url": "https://open.spotify.com/artist/1gb60IVZXxixmzYko2HdXK"
-        },
-        {
-          "name": "Str\u00e6pa",
-          "url": "https://open.spotify.com/artist/5C2NT5QL8JLj2VjiPIyhFW"
-        },
-        {
-          "name": "yermo7",
-          "url": "https://open.spotify.com/artist/1vXstjTfSJvEB6uDlrHTge"
-        }
-      ],
-      "duration_ms": 132134,
-      "name": "Goldilocks Planet",
-      "url": "https://open.spotify.com/track/2GYO0Fk7zixU9Q0py08ilV"
-    },
-    {
-      "added_at": "2025-10-17 06:00:24",
-      "album": {
         "name": "98 pasos",
         "url": "https://open.spotify.com/album/3CxK8OH2UaRL4LdMALcWEZ"
       },
@@ -1575,26 +1551,6 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
-        "name": "offline",
-        "url": "https://open.spotify.com/album/3FmWop20UCrlA6opibdCT1"
-      },
-      "artists": [
-        {
-          "name": "Pika Man",
-          "url": "https://open.spotify.com/artist/0ApucfAG3fnulAtG2icsTa"
-        },
-        {
-          "name": "Universatility Group",
-          "url": "https://open.spotify.com/artist/2DsZ91fHYviRw9sTGgJdbv"
-        }
-      ],
-      "duration_ms": 118440,
-      "name": "diamond dreams",
-      "url": "https://open.spotify.com/track/69GW33RVlbt7H9Ce7A2Cs1"
-    },
-    {
-      "added_at": "2025-10-17 06:00:24",
-      "album": {
         "name": "Oda a la Infancia",
         "url": "https://open.spotify.com/album/65EeYVK4U9nDCWgvDBBYkz"
       },
@@ -1615,18 +1571,46 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
-        "name": "Dusk Jazz Delight",
-        "url": "https://open.spotify.com/album/1U18ah0XiWi7KeMtZkEgQB"
+        "name": "Goldilocks Planet",
+        "url": "https://open.spotify.com/album/21m4Tkz73fhKxIH0Uxw78V"
       },
       "artists": [
         {
-          "name": "M\u00fasica Relajante",
-          "url": "https://open.spotify.com/artist/6oW2Jm8RkXwtSSVygv98iR"
+          "name": "Unatee X",
+          "url": "https://open.spotify.com/artist/1gb60IVZXxixmzYko2HdXK"
+        },
+        {
+          "name": "Str\u00e6pa",
+          "url": "https://open.spotify.com/artist/5C2NT5QL8JLj2VjiPIyhFW"
+        },
+        {
+          "name": "yermo7",
+          "url": "https://open.spotify.com/artist/1vXstjTfSJvEB6uDlrHTge"
         }
       ],
-      "duration_ms": 121000,
-      "name": "Dusk Jazz Delight",
-      "url": "https://open.spotify.com/track/63rZ23bWkFYg1zjrQkkGW7"
+      "duration_ms": 132134,
+      "name": "Goldilocks Planet",
+      "url": "https://open.spotify.com/track/2GYO0Fk7zixU9Q0py08ilV"
+    },
+    {
+      "added_at": "2025-10-17 06:00:24",
+      "album": {
+        "name": "offline",
+        "url": "https://open.spotify.com/album/3FmWop20UCrlA6opibdCT1"
+      },
+      "artists": [
+        {
+          "name": "Pika Man",
+          "url": "https://open.spotify.com/artist/0ApucfAG3fnulAtG2icsTa"
+        },
+        {
+          "name": "Universatility Group",
+          "url": "https://open.spotify.com/artist/2DsZ91fHYviRw9sTGgJdbv"
+        }
+      ],
+      "duration_ms": 118440,
+      "name": "diamond dreams",
+      "url": "https://open.spotify.com/track/69GW33RVlbt7H9Ce7A2Cs1"
     },
     {
       "added_at": "2025-10-17 06:00:24",
@@ -1651,6 +1635,22 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
+        "name": "Dusk Jazz Delight",
+        "url": "https://open.spotify.com/album/1U18ah0XiWi7KeMtZkEgQB"
+      },
+      "artists": [
+        {
+          "name": "M\u00fasica Relajante",
+          "url": "https://open.spotify.com/artist/6oW2Jm8RkXwtSSVygv98iR"
+        }
+      ],
+      "duration_ms": 121000,
+      "name": "Dusk Jazz Delight",
+      "url": "https://open.spotify.com/track/63rZ23bWkFYg1zjrQkkGW7"
+    },
+    {
+      "added_at": "2025-10-17 06:00:24",
+      "album": {
         "name": "Hora Azul",
         "url": "https://open.spotify.com/album/6k4g02kI6zXRUYoGgAmlpo"
       },
@@ -1667,6 +1667,22 @@
       "duration_ms": 183370,
       "name": "Martes Azul",
       "url": "https://open.spotify.com/track/7C2znQxQdm8Ck7nvdJnitF"
+    },
+    {
+      "added_at": "2025-10-17 06:00:24",
+      "album": {
+        "name": "Trompo de Pastor",
+        "url": "https://open.spotify.com/album/4X5Mat6mNCuVho8vVqV9xk"
+      },
+      "artists": [
+        {
+          "name": "Omar Ju\u00e1rez",
+          "url": "https://open.spotify.com/artist/1DaaoNqKnehz2quzxkPDm2"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Trompo de Pastor",
+      "url": "https://open.spotify.com/track/2ewKh1f0RA370x3EdikVxt"
     },
     {
       "added_at": "2025-10-17 06:00:24",
@@ -1707,18 +1723,22 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
-        "name": "Trompo de Pastor",
-        "url": "https://open.spotify.com/album/4X5Mat6mNCuVho8vVqV9xk"
+        "name": "Chill Mood",
+        "url": "https://open.spotify.com/album/44GdHFKFtyd0JK8a4nv9RP"
       },
       "artists": [
         {
-          "name": "Omar Ju\u00e1rez",
-          "url": "https://open.spotify.com/artist/1DaaoNqKnehz2quzxkPDm2"
+          "name": "SanelliX",
+          "url": "https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu"
+        },
+        {
+          "name": "DreamBetter",
+          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Trompo de Pastor",
-      "url": "https://open.spotify.com/track/2ewKh1f0RA370x3EdikVxt"
+      "duration_ms": 118567,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/7Kjsucw8st8IdclUhYNelw"
     },
     {
       "added_at": "2025-10-17 06:00:24",
@@ -1743,26 +1763,6 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
-        "name": "Chill Mood",
-        "url": "https://open.spotify.com/album/44GdHFKFtyd0JK8a4nv9RP"
-      },
-      "artists": [
-        {
-          "name": "SanelliX",
-          "url": "https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu"
-        },
-        {
-          "name": "DreamBetter",
-          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
-        }
-      ],
-      "duration_ms": 118567,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/7Kjsucw8st8IdclUhYNelw"
-    },
-    {
-      "added_at": "2025-10-17 06:00:24",
-      "album": {
         "name": "Canciones Para Ver Las Nubes Pasar",
         "url": "https://open.spotify.com/album/0KBtOIMP5pyxxMhm9Yy7VJ"
       },
@@ -1775,26 +1775,6 @@
       "duration_ms": 164117,
       "name": "Canci\u00f3n en Forma de Elefante",
       "url": "https://open.spotify.com/track/6hgUc1kIwdsuWWMxkpRFDs"
-    },
-    {
-      "added_at": "2025-10-17 06:00:24",
-      "album": {
-        "name": "THIS TENDER APPEAL",
-        "url": "https://open.spotify.com/album/4FXEQpFsX5l7Lb6QCeIgRl"
-      },
-      "artists": [
-        {
-          "name": "Pika Man",
-          "url": "https://open.spotify.com/artist/0ApucfAG3fnulAtG2icsTa"
-        },
-        {
-          "name": "Universatility Group",
-          "url": "https://open.spotify.com/artist/2DsZ91fHYviRw9sTGgJdbv"
-        }
-      ],
-      "duration_ms": 93000,
-      "name": "questa terra",
-      "url": "https://open.spotify.com/track/5a0LmcyRxKhHaJJE6uLkry"
     },
     {
       "added_at": "2025-10-17 06:00:24",
@@ -1819,26 +1799,38 @@
     {
       "added_at": "2025-10-17 06:00:24",
       "album": {
-        "name": "Childhood",
-        "url": "https://open.spotify.com/album/3mZSAo3BYAk094HH8NEoYc"
+        "name": "THIS TENDER APPEAL",
+        "url": "https://open.spotify.com/album/4FXEQpFsX5l7Lb6QCeIgRl"
       },
       "artists": [
         {
-          "name": "Ima Dyllow",
-          "url": "https://open.spotify.com/artist/7ItgEU7CZzu8EwvICrTyd4"
+          "name": "Pika Man",
+          "url": "https://open.spotify.com/artist/0ApucfAG3fnulAtG2icsTa"
         },
         {
-          "name": "Ilzki",
-          "url": "https://open.spotify.com/artist/3eFY9eN9bi1RzEMuKr8j46"
-        },
-        {
-          "name": "Nostalgic Yume",
-          "url": "https://open.spotify.com/artist/7ntor9UbzbRRZMt8gKMwzs"
+          "name": "Universatility Group",
+          "url": "https://open.spotify.com/artist/2DsZ91fHYviRw9sTGgJdbv"
         }
       ],
-      "duration_ms": 136041,
-      "name": "Childhood",
-      "url": "https://open.spotify.com/track/4DJkAM4L9T7lGDyBemnNd8"
+      "duration_ms": 93000,
+      "name": "questa terra",
+      "url": "https://open.spotify.com/track/5a0LmcyRxKhHaJJE6uLkry"
+    },
+    {
+      "added_at": "2025-10-17 06:00:24",
+      "album": {
+        "name": "Midnight Celadon",
+        "url": "https://open.spotify.com/album/2MjAbv2xEUKyaySEy6jaua"
+      },
+      "artists": [
+        {
+          "name": "Jav Cast",
+          "url": "https://open.spotify.com/artist/4bkOWEgiKDhSsMCJGeAfxj"
+        }
+      ],
+      "duration_ms": 112527,
+      "name": "Midnight Celadon",
+      "url": "https://open.spotify.com/track/7xDl7RH0Gk6JkHx4Zi3xSX"
     },
     {
       "added_at": "2025-10-17 06:00:24",

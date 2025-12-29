@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZA4G4jVRXy.md) - [plain]
 
 > Pour yourself a mai tai 🍹 and festoon yourself with lei 🌺, welcome to the Hawaiian party! 🌴🥭🎉
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,357 likes - 76 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,367 likes - 76 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZA4G4jVRXy.md) - [plain]
 | 5 | [Fruit Of Dreams](https://open.spotify.com/track/67hlixuKYLcIbUAge2iVqe) | [Les Baxter](https://open.spotify.com/artist/35pV6EUbherudlvAftoueR) | [The Sacred Idol](https://open.spotify.com/album/3hkdLz234t91jRZrwCo55M) | 2:31 |
 | 6 | [A Man And A Woman \- Remastered](https://open.spotify.com/track/5VwssP9QyvfoKLt9FkI0aR) | [Sir Julian Gould](https://open.spotify.com/artist/4gj1oBNysZZ7lb6sqnRivp) | [Ultra\-Lounge: Organs In Orbit](https://open.spotify.com/album/3g94MSXd9bCi28DBn0SqCU) | 2:32 |
 | 7 | [Misirlou \- Remastered 1995](https://open.spotify.com/track/4XEthz8GA0yZ6hPwwSqwQg) | [Martin Denny](https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V) | [Best Of Martin Denny's Exotica](https://open.spotify.com/album/2mdidQxbJ3iT8TDNbV5OJ5) | 2:38 |
-| 8 | [Chant Of The Moon](https://open.spotify.com/track/6j46ude4neMZMiEagbYkie) | [Robert Drasnin](https://open.spotify.com/artist/4lWj8PHjMEv0e2SZ7j1ZE4) | [Voodoo!](https://open.spotify.com/album/6SnfMkaU2WAvBmmiFpz892) | 2:33 |
-| 9 | [Alika \- Remastered 1996](https://open.spotify.com/track/49Zp8RpkMIHa0Pf7A1kcce) | [Webley Edwards](https://open.spotify.com/artist/7zRuASTSFAwiC9wo3moUnS) | [Ultra\-Lounge/Mondo Exotica: Volume One](https://open.spotify.com/album/2NuOkgVt9mmGOGVG0YsVtm) | 2:28 |
+| 8 | [Alika \- Remastered 1996](https://open.spotify.com/track/49Zp8RpkMIHa0Pf7A1kcce) | [Webley Edwards](https://open.spotify.com/artist/7zRuASTSFAwiC9wo3moUnS) | [Ultra\-Lounge/Mondo Exotica: Volume One](https://open.spotify.com/album/2NuOkgVt9mmGOGVG0YsVtm) | 2:28 |
+| 9 | [Chant Of The Moon](https://open.spotify.com/track/6j46ude4neMZMiEagbYkie) | [Robert Drasnin](https://open.spotify.com/artist/4lWj8PHjMEv0e2SZ7j1ZE4) | [Voodoo!](https://open.spotify.com/album/6SnfMkaU2WAvBmmiFpz892) | 2:33 |
 | 10 | [Serenade to Nalani](https://open.spotify.com/track/3YEMdmxkrM7XQKxexD9oK9) | [Jerry Byrd](https://open.spotify.com/artist/5PGYCViqsPlum357lDLBpm) | [Hawaiian Style Guitars](https://open.spotify.com/album/0AgeEriHiY3FsJe8ufUMWb) | 2:52 |
 | 11 | [Taboo Tu](https://open.spotify.com/track/7tmHTrXjolQZbD0qxLWn9Y) | [Arthur Lyman](https://open.spotify.com/artist/4UAjW7ABQfMm5F88xCtQln) | [Taboo 2: New Exotic Sounds of Arthur Lyman](https://open.spotify.com/album/4QQrUheyVPgbSgnW3QCh5T) | 2:08 |
 | 12 | [Ahulili](https://open.spotify.com/track/5SmWyYdkX14Oj80WlRHnKY) | [Raiatea Helm](https://open.spotify.com/artist/3OmAmym7dLlhFhpAYt3bNC) | [Hawaiian Blossom](https://open.spotify.com/album/49HLATxWXEGjWyRHEIhrij) | 3:06 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZA4G4jVRXy.md) - [plain]
 | 31 | [Perfidia](https://open.spotify.com/track/3Zgl5jhVzcK9ZQdrj4WIUR) | [Xavier Cugat](https://open.spotify.com/artist/44w5lL6V07MCIaEX3aba8R) | [Lo Mejor De Xavier Cugat Y Su Orquesta](https://open.spotify.com/album/5nNGjwNd47TTnMWUnEa5he) | 3:27 |
 | 32 | [Aquellos Ojos Verdes](https://open.spotify.com/track/2Dcbh5kFL45gTrFDJj8ddu) | [Al Romero And His Orchestra](https://open.spotify.com/artist/3Gsyc83lbLLKB4m3indOf0) | [Vintage Jazz Nº 32 \- EPs Collectors "Aquellos Ojos Verdes"](https://open.spotify.com/album/7BGTQTeKHVTyWn6jX8WGbs) | 2:42 |
 | 33 | [Slow And Easy](https://open.spotify.com/track/7nECUIlHzm7iDkC1zlCyVS) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [The Days Of Wine And Roses](https://open.spotify.com/album/2JSXijbVwjxZTb7bsAWYpx) | 3:05 |
-| 34 | [Llama Serenade](https://open.spotify.com/track/7Df9QTdxz1xWO8hEYLavKn) | [Martin Denny](https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V) | [Primitiva](https://open.spotify.com/album/3iqczSRnkS7ksB3ccGiUAw) | 2:14 |
-| 35 | [Blue Hawaii](https://open.spotify.com/track/6PsTZ9ATNW6CSPiJap0x2i) | [Buddy Fo & His Group](https://open.spotify.com/artist/66ExVD8110Lx5DbCVoJcNI) | [Kiss Me Love](https://open.spotify.com/album/0N6oSzUcJjfdctbWbhn1ug) | 2:18 |
+| 34 | [Blue Hawaii](https://open.spotify.com/track/6PsTZ9ATNW6CSPiJap0x2i) | [Buddy Fo & His Group](https://open.spotify.com/artist/66ExVD8110Lx5DbCVoJcNI) | [Kiss Me Love](https://open.spotify.com/album/0N6oSzUcJjfdctbWbhn1ug) | 2:18 |
+| 35 | [Llama Serenade](https://open.spotify.com/track/7Df9QTdxz1xWO8hEYLavKn) | [Martin Denny](https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V) | [Primitiva](https://open.spotify.com/album/3iqczSRnkS7ksB3ccGiUAw) | 2:14 |
 | 36 | [Shells \- Live from Hawaii](https://open.spotify.com/track/2ldP7FrJwm1fArAMZY9iXr) | [Don Ho](https://open.spotify.com/artist/3Ew1ynSmASX9Uec5FzBYrL) | [The Don Ho Show! \(Live\)](https://open.spotify.com/album/33Z6fdrkppcWL3a6y7hel4) | 4:04 |
 | 37 | [Mini Skirt](https://open.spotify.com/track/2IFc95wACtdfB2tCMStLgy) | [Mr\. Ho's Orchestrotica](https://open.spotify.com/artist/2pItGpy5dyOJoJWfEmCbmd) | [The Unforgettable Sounds of Esquivel](https://open.spotify.com/album/0SPXzu3ACPLUkupxHdU7Bp) | 2:29 |
 | 38 | [Lust](https://open.spotify.com/track/0lF6dbEwpoXr0efP2p2Nsm) | [Les Baxter](https://open.spotify.com/artist/35pV6EUbherudlvAftoueR), [Bas Sheva](https://open.spotify.com/artist/2754ZKfUBzGnAsiA2gYoxP) | [Ultra\-Lounge/Mondo Exotica: Volume One](https://open.spotify.com/album/2NuOkgVt9mmGOGVG0YsVtm) | 2:59 |

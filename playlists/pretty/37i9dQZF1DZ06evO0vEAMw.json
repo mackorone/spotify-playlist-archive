@@ -1,12 +1,12 @@
 {
   "description": "This is Davido. The essential tracks, all in one playlist.",
-  "num_followers": 99892,
+  "num_followers": 99921,
   "original_name": "This Is Davido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU3QAAAAAACFlwqGKQwOw1ZtFuBo0vh8",
+  "snapshot_id": "aU8hgAAAAABRjbEv2xp+E5fFSFRg1Pu0",
   "tracks": [
     {
       "added_at": null,
@@ -395,6 +395,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "5ive",
+        "url": "https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "YG Marley",
+          "url": "https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr"
+        }
+      ],
+      "duration_ms": 172628,
+      "name": "Awuke",
+      "url": "https://open.spotify.com/track/6erurkBpnedevTPib23gid"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Know Your Worth (feat. Davido & Tems)",
         "url": "https://open.spotify.com/album/6BugGRwIyG1xFbeZom0Mxz"
       },
@@ -419,26 +439,6 @@
       "duration_ms": 191067,
       "name": "Know Your Worth (feat. Davido & Tems)",
       "url": "https://open.spotify.com/track/04QTmCTsaVjcGaoxj8rSjE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "5ive",
-        "url": "https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "YG Marley",
-          "url": "https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr"
-        }
-      ],
-      "duration_ms": 172628,
-      "name": "Awuke",
-      "url": "https://open.spotify.com/track/6erurkBpnedevTPib23gid"
     },
     {
       "added_at": null,
@@ -695,26 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pheelz Good",
-        "url": "https://open.spotify.com/album/5JDvgDchniRt7s72WlHOH6"
-      },
-      "artists": [
-        {
-          "name": "Pheelz",
-          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 132912,
-      "name": "Electricity",
-      "url": "https://open.spotify.com/track/5ZGXOgSHLkDYlDssUkVp7a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Doe",
         "url": "https://open.spotify.com/album/61T8t21pCXXAwBb1b5UHJP"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 242886,
       "name": "Doe",
       "url": "https://open.spotify.com/track/5BGDsaokGCwQ9OpeVy0MUs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pheelz Good",
+        "url": "https://open.spotify.com/album/5JDvgDchniRt7s72WlHOH6"
+      },
+      "artists": [
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 132912,
+      "name": "Electricity",
+      "url": "https://open.spotify.com/track/5ZGXOgSHLkDYlDssUkVp7a"
     },
     {
       "added_at": null,

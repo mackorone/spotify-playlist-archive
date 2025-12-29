@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요\. \(There is something between us\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,805 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,808 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,11 +32,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 22 | [Paint on Spring](https://open.spotify.com/track/6HpDaHOApCbCgu5AyyRv6v) | [Martin Smith](https://open.spotify.com/artist/3ISWX9gKLGkhlgS5AhvlTd) | [Paint on Spring](https://open.spotify.com/album/3wHPgbPG7fuBktQszASI1I) | 3:52 |
 | 23 | [HONEY](https://open.spotify.com/track/2Lt1ZRU6nFY88vw24GdYLy) | [Chawoo](https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR), [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [HONEY](https://open.spotify.com/album/13G1o00M2cXesfbhj8p8H2) | 3:47 |
 | 24 | [I'II be your star](https://open.spotify.com/track/0l9LpCsYufB1e5PJSvOXbU) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic) | [A\-TEEN Part\. 2](https://open.spotify.com/album/0vRTiHetZUMy6HGswfv73J) | 3:24 |
-| 25 | [BOY](https://open.spotify.com/track/2UjpQS69PkI3YqzYH0Zksi) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [STAYC Special Single \[I WANT IT\]](https://open.spotify.com/album/252AHBq3W65lTnnELHIi4y) | 3:01 |
-| 26 | [Imagine](https://open.spotify.com/track/5NcGZMPu11wT8StES9zA2s) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Red Diary Page.1](https://open.spotify.com/album/0d3mf5fBaIBbozCgeEI9AE) | 2:55 |
+| 25 | [Imagine](https://open.spotify.com/track/5NcGZMPu11wT8StES9zA2s) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Red Diary Page.1](https://open.spotify.com/album/0d3mf5fBaIBbozCgeEI9AE) | 2:55 |
+| 26 | [BOY](https://open.spotify.com/track/2UjpQS69PkI3YqzYH0Zksi) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [STAYC Special Single \[I WANT IT\]](https://open.spotify.com/album/252AHBq3W65lTnnELHIi4y) | 3:01 |
 | 27 | [My Dearest](https://open.spotify.com/track/7h5dECSs3XYQjaZWB4jHHM) | [xooos](https://open.spotify.com/artist/0OqnFLmTWiVGm3Ifk6mahQ) | [My Dearest \(ToGetHer X xooos\) \(Original Soundtrack\)](https://open.spotify.com/album/0BBkLUZwjcrvrkUnHaTd8w) | 3:03 |
-| 28 | [9 to 2](https://open.spotify.com/track/3gaPXXidirpc2DbqMCf3CS) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [\[ MAL \]](https://open.spotify.com/album/6vJ9SjwikssdLvZsrdUVb1) | 2:27 |
-| 29 | [Love\(Prod.Rocoberry\)](https://open.spotify.com/track/29O4t4CViDRSDwiutvsOLS) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [LEE SUNG KYOUNG](https://open.spotify.com/artist/7mZpOLn7va0Muu20bI8bsP) | [Love\(Prod.Rocoberry\)](https://open.spotify.com/album/4Tm14DlyrWRL4OVwp8YrAH) | 3:40 |
+| 28 | [Love\(Prod.Rocoberry\)](https://open.spotify.com/track/29O4t4CViDRSDwiutvsOLS) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [LEE SUNG KYOUNG](https://open.spotify.com/artist/7mZpOLn7va0Muu20bI8bsP) | [Love\(Prod.Rocoberry\)](https://open.spotify.com/album/4Tm14DlyrWRL4OVwp8YrAH) | 3:40 |
+| 29 | [9 to 2](https://open.spotify.com/track/3gaPXXidirpc2DbqMCf3CS) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [\[ MAL \]](https://open.spotify.com/album/6vJ9SjwikssdLvZsrdUVb1) | 2:27 |
 | 30 | [Love Frequency](https://open.spotify.com/track/0JpjJ135Rg9wIzl8FPB9Rw) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [Love Frequency \(Original Soundtrack from Just For Meeting You\)](https://open.spotify.com/album/3cgYAtoLlt8nO7YdoEuY2l) | 2:43 |
 | 31 | [MY PRIDE](https://open.spotify.com/track/5fXi5dl48tR8l0rUlPSa0Y) | [TIOT](https://open.spotify.com/artist/2hoCMH0KWwpjFJEGh0ECe7) | [MY PRIDE](https://open.spotify.com/album/3EWtWKRKGjAq3VuJEEA6UA) | 3:11 |
 | 32 | [Attraction \(Bunny and Guys X Eric Nam, NAEUN\)](https://open.spotify.com/track/5TukPlV2eJWX7lfQAbrZGV) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM), [Naeun](https://open.spotify.com/artist/16Jm6AxcL9XKkwOemxmbXc) | [Attraction \(Bunny and Guys X Eric Nam, NAEUN\)](https://open.spotify.com/album/0W7TJ6he0KuZ5medVP8rWO) | 3:27 |

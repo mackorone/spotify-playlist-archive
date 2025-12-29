@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1q1llu.md) - [plain]
 
 > This is The Kid LAROI\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,310 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,335 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1q1llu.md) - [plain]
 | 11 | [GO \(feat\. Juice WRLD\)](https://open.spotify.com/track/4lH5L59hPQGr05aJyb2Q2E) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [F\*CK LOVE 3+: OVER YOU](https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI) | 3:01 |
 | 12 | [2 Grown \(feat\. The Kid LAROI\)](https://open.spotify.com/track/5ybZcAwqUF7i9gwABLeXzs) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [222](https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL) | 3:52 |
 | 13 | [TOO MUCH](https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [TOO MUCH](https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR) | 3:23 |
-| 14 | [SHE DON'T NEED TO KNOW](https://open.spotify.com/track/4R6McrWJ5fpVuzsNwoukI9) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [SHE DON'T NEED TO KNOW](https://open.spotify.com/album/45oJTfBl4jrQ9nGCvYpksv) | 2:30 |
-| 15 | [GIRLS](https://open.spotify.com/track/3Fra5SMXXDTSRXVoDf8Xwd) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME \(DELUXE VERSION\)](https://open.spotify.com/album/30H0cGghxhBJ93v4h28XEt) | 2:32 |
+| 14 | [GIRLS](https://open.spotify.com/track/3Fra5SMXXDTSRXVoDf8Xwd) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME \(DELUXE VERSION\)](https://open.spotify.com/album/30H0cGghxhBJ93v4h28XEt) | 2:32 |
+| 15 | [SHE DON'T NEED TO KNOW](https://open.spotify.com/track/4R6McrWJ5fpVuzsNwoukI9) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [SHE DON'T NEED TO KNOW](https://open.spotify.com/album/45oJTfBl4jrQ9nGCvYpksv) | 2:30 |
 | 16 | [HOW DOES IT FEEL?](https://open.spotify.com/track/4SNPg0KDZ859vauVTaNg7i) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [HOW DOES IT FEEL?](https://open.spotify.com/album/7JMaEJNjxaGVamrsszHC15) | 2:17 |
 | 17 | [F\*CK YOU, GOODBYE \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/0c34ovpXiMWWUbKX0IavIH) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [F\*CK LOVE 3+: OVER YOU](https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI) | 2:24 |
 | 18 | [THOUSAND MILES](https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THOUSAND MILES](https://open.spotify.com/album/5x23D06mbAdtkU9N9JrZyf) | 2:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1q1llu.md) - [plain]
 | 49 | [This My Life \(with Lil Tecca, The Kid LAROI & Lil Skies\)](https://open.spotify.com/track/5CT3zRd2FKM7F81KEacXIP) | [Lyrical Lemonade](https://open.spotify.com/artist/3VrGfWE8YdYMK4ySpnE0ly), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Lil Skies](https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo) | [All Is Yellow](https://open.spotify.com/album/4NGIX0BP6xxRaGh64hhJhe) | 2:49 |
 | 50 | [SLOW IT DOWN](https://open.spotify.com/track/6EBHz85BW58iHN9yuT35Od) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [SLOW IT DOWN](https://open.spotify.com/album/4SR1TtPLuJwKtCjoAOLSeN) | 2:22 |
 
-Snapshot ID: `aU3QAAAAAADO4QY3ClUzMmdfd3PjGbUj`
+Snapshot ID: `aU8hgAAAAABAe/WgQsCpGIBPXAuAo1jl`

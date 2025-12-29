@@ -1,12 +1,12 @@
 {
   "description": "Obama&#x27;s favorite music of 2025. Includes Summer 2024 and bonus tracks. ",
-  "num_followers": 132364,
+  "num_followers": 132366,
   "original_name": "Obama\u2019s Summer Playlist 2025",
   "owner": {
     "name": "SoundsDeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "AAA2ercoEKi8tn3lTLwGVhYa1EtboGJO",
+  "snapshot_id": "AAA2gsTlTVEbh9+jGt+beQOiDehPr+Bg",
   "tracks": [
     {
       "added_at": "2025-12-18 22:42:53",
@@ -403,22 +403,6 @@
       "duration_ms": 267769,
       "name": "Never Felt Better",
       "url": "https://open.spotify.com/track/4fxzJneKp90ru93KfMGmcv"
-    },
-    {
-      "added_at": "2025-12-28 00:01:26",
-      "album": {
-        "name": "Drugged Out",
-        "url": "https://open.spotify.com/album/0cAWpKgEMcbghKrYfk9bUX"
-      },
-      "artists": [
-        {
-          "name": "ERLY",
-          "url": "https://open.spotify.com/artist/2z7Bw7TpA0GEbtU3dJRK6I"
-        }
-      ],
-      "duration_ms": 201528,
-      "name": "Drugged Out",
-      "url": "https://open.spotify.com/track/7A0oIyazUE54vv8DyReLAq"
     },
     {
       "added_at": "2025-12-18 22:42:53",
@@ -1757,38 +1741,6 @@
       "url": "https://open.spotify.com/track/2SRL7fRIAy4EdK91rf6CEd"
     },
     {
-      "added_at": "2025-11-25 13:51:57",
-      "album": {
-        "name": "Cabin In The Woods",
-        "url": "https://open.spotify.com/album/4gLLu5dloELgdVb0oOfw4T"
-      },
-      "artists": [
-        {
-          "name": "Yoji",
-          "url": "https://open.spotify.com/artist/73lxtfVnwJhIIAAhLnMc10"
-        }
-      ],
-      "duration_ms": 172666,
-      "name": "Cabin In The Woods",
-      "url": "https://open.spotify.com/track/6UDDBURP7t8AyIAMGiy9Tl"
-    },
-    {
-      "added_at": "2025-11-28 13:52:41",
-      "album": {
-        "name": "Charming",
-        "url": "https://open.spotify.com/album/0gY6C7ekJVKInH9EDATYEr"
-      },
-      "artists": [
-        {
-          "name": "Prismala",
-          "url": "https://open.spotify.com/artist/6lXVNvlFTyg8be1FVdfRDY"
-        }
-      ],
-      "duration_ms": 209823,
-      "name": "Charming",
-      "url": "https://open.spotify.com/track/5uFT2A2OUve2LorP6KNNtS"
-    },
-    {
       "added_at": "2025-12-05 13:19:27",
       "album": {
         "name": "Tightrope",
@@ -1807,22 +1759,6 @@
       "duration_ms": 230562,
       "name": "Tightrope",
       "url": "https://open.spotify.com/track/33JGIx1sDM3yhHdGaPVlQW"
-    },
-    {
-      "added_at": "2025-11-28 13:49:58",
-      "album": {
-        "name": "Blink Of An Eye",
-        "url": "https://open.spotify.com/album/1oV0v00ztV4wVkjaJFEQcX"
-      },
-      "artists": [
-        {
-          "name": "Naesia",
-          "url": "https://open.spotify.com/artist/2InyKKvSXjsPZHDhAKrtZA"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Blink Of An Eye",
-      "url": "https://open.spotify.com/track/7LDuXtT2nPktN85RNQEKPa"
     },
     {
       "added_at": "2025-12-10 23:05:11",
@@ -1903,22 +1839,6 @@
       "duration_ms": 188199,
       "name": "Never",
       "url": "https://open.spotify.com/track/3vFVRDoWzaLqDJrNPF2r7N"
-    },
-    {
-      "added_at": "2025-12-03 00:00:24",
-      "album": {
-        "name": "Country Couture",
-        "url": "https://open.spotify.com/album/0WExxYdniG73u2ODYW2ZGR"
-      },
-      "artists": [
-        {
-          "name": "Cali Tucker",
-          "url": "https://open.spotify.com/artist/41uU9UyB58T5gwyC4YqE1y"
-        }
-      ],
-      "duration_ms": 194321,
-      "name": "Country Couture",
-      "url": "https://open.spotify.com/track/3GGuzrItqbNteGf7ncWfoo"
     },
     {
       "added_at": "2023-07-20 21:11:20",
@@ -2625,6 +2545,74 @@
       "url": "https://open.spotify.com/track/7oOEFDLSQscl0uGulnIEmG"
     },
     {
+      "added_at": "2025-12-28 00:01:26",
+      "album": {
+        "name": "Drugged Out",
+        "url": "https://open.spotify.com/album/0cAWpKgEMcbghKrYfk9bUX"
+      },
+      "artists": [
+        {
+          "name": "ERLY",
+          "url": "https://open.spotify.com/artist/2z7Bw7TpA0GEbtU3dJRK6I"
+        }
+      ],
+      "duration_ms": 201528,
+      "name": "Drugged Out",
+      "url": "https://open.spotify.com/track/7A0oIyazUE54vv8DyReLAq"
+    },
+    {
+      "added_at": "2025-12-29 00:00:57",
+      "album": {
+        "name": "21",
+        "url": "https://open.spotify.com/album/1JtKQX1KImh1wy9LIXs5NU"
+      },
+      "artists": [
+        {
+          "name": "Edward Sun",
+          "url": "https://open.spotify.com/artist/7mbrKjLcZg7X6rSMVD4Tae"
+        }
+      ],
+      "duration_ms": 211764,
+      "name": "21",
+      "url": "https://open.spotify.com/track/4HTFtC02xdq7kAPPYbtKrU"
+    },
+    {
+      "added_at": "2025-12-28 06:01:55",
+      "album": {
+        "name": "One of These Days",
+        "url": "https://open.spotify.com/album/50uaLs4YAnD5Nn0VjToYDJ"
+      },
+      "artists": [
+        {
+          "name": "Olaf Blackwood",
+          "url": "https://open.spotify.com/artist/7Fb4bPwUT0mrtDXt2qmJEp"
+        },
+        {
+          "name": "Dillgin",
+          "url": "https://open.spotify.com/artist/2x8XlusUgX2EJ0b428FMsI"
+        }
+      ],
+      "duration_ms": 202727,
+      "name": "One of These Days",
+      "url": "https://open.spotify.com/track/3IhbULMroBoxwryTBFh6qD"
+    },
+    {
+      "added_at": "2025-12-28 12:09:24",
+      "album": {
+        "name": "Same Anymore",
+        "url": "https://open.spotify.com/album/5KtrQEOxIHBjkLzYfalA9k"
+      },
+      "artists": [
+        {
+          "name": "Ariel Marie",
+          "url": "https://open.spotify.com/artist/3iG7MlXx4LYOkqf2p0ntO8"
+        }
+      ],
+      "duration_ms": 131000,
+      "name": "Same Anymore",
+      "url": "https://open.spotify.com/track/5Bm6iBHDIDUSYYv2TN0nf8"
+    },
+    {
       "added_at": "2025-12-27 00:57:31",
       "album": {
         "name": "Open",
@@ -2803,54 +2791,6 @@
       "duration_ms": 176188,
       "name": "Stone Cold",
       "url": "https://open.spotify.com/track/5nhMFNMxM9xqsrpSUseVMo"
-    },
-    {
-      "added_at": "2025-12-17 18:04:15",
-      "album": {
-        "name": "Ra\u00edzes Reimaginadas",
-        "url": "https://open.spotify.com/album/4x8BngdC5cdKdnCy0QZBc2"
-      },
-      "artists": [
-        {
-          "name": "ShAIkh Kev",
-          "url": "https://open.spotify.com/artist/0lJwEmPZW8FERMtXv5TBOB"
-        }
-      ],
-      "duration_ms": 239919,
-      "name": "Primavera das Flores",
-      "url": "https://open.spotify.com/track/6HW8fyca0Qsye1gsR4fkjB"
-    },
-    {
-      "added_at": "2025-12-17 17:48:30",
-      "album": {
-        "name": "Farewell",
-        "url": "https://open.spotify.com/album/17XKm2HhS0APekRN08TPml"
-      },
-      "artists": [
-        {
-          "name": "Joe Kocher",
-          "url": "https://open.spotify.com/artist/25xY4OaaYOptp8H5N9gWiQ"
-        }
-      ],
-      "duration_ms": 271315,
-      "name": "It'll Be Alright (2025 Version)",
-      "url": "https://open.spotify.com/track/5QiIMV5TZytadMaPB1sKzw"
-    },
-    {
-      "added_at": "2025-12-17 18:04:11",
-      "album": {
-        "name": "Say Less",
-        "url": "https://open.spotify.com/album/44uEOK5mfKdiLzTrADmR8f"
-      },
-      "artists": [
-        {
-          "name": "Logan LNXK",
-          "url": "https://open.spotify.com/artist/6O2u0YnGe8CtpHnTC4kD3K"
-        }
-      ],
-      "duration_ms": 214782,
-      "name": "Say Less",
-      "url": "https://open.spotify.com/track/69BfuZQtSF8M8ZZCOMLPJY"
     }
   ],
   "unique_name": "Obama\u2019s Summer Playlist 2025",

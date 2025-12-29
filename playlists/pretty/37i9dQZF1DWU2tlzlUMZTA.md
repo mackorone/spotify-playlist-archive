@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2tlzlUMZTA.md) - [plain]
 
 > Only hits! Cover\- 'Sahiba' by Jasleen Royal and Stebin Ben
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,070 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,104 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

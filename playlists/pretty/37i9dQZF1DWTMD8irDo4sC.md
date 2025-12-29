@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMD8irDo4sC.md) - [plain]
 
 > Chill to these acoustic songs from the Middle East and North Africa\. Cover: Labess.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,768 likes - 70 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,780 likes - 70 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMD8irDo4sC.md) - [plain]
 | 26 | [Sucre](https://open.spotify.com/track/6B9scelTq5dAqEQAhScDQq) | [Ÿuma](https://open.spotify.com/artist/1PRH2VLBHk1kMY2BFI0GQW) | [HANNET LEKLOUB](https://open.spotify.com/album/2puCXbeZ2wvKFPa2MGCsql) | 3:55 |
 | 27 | [Walhani](https://open.spotify.com/track/4y2Zuqfq71h7joKqZmBJLr) | [Apo & the Apostles](https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw) | [Rawquha](https://open.spotify.com/album/2M5Qyikkntj3ly2V6RLyRJ) | 4:34 |
 | 28 | [Mirtaha](https://open.spotify.com/track/2UAeUd6u3zZ4S6y0vpLz0i) | [El Far3i](https://open.spotify.com/artist/5DOOqoefvhVdksKzrvA30t) | [Nas Min Khashab](https://open.spotify.com/album/7tfXtMiU14FZyrWdtDMkjQ) | 2:57 |
-| 29 | [Dalia](https://open.spotify.com/track/7dQTHfMuE5itGnge9oREXI) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Dalia](https://open.spotify.com/album/2pjOROJjvXkkao44OrafiC) | 4:16 |
-| 30 | [Fuqaati \(My Bubble\)](https://open.spotify.com/track/1qvai6uaDWd2z4JeYSlFka) | [Ruba Shamshoum](https://open.spotify.com/artist/2SFD4ndp40N3lL0iy6W9VM) | [Fuqaati \(My Bubble\)](https://open.spotify.com/album/1BhIR1MRcxHmVp53exP61r) | 4:28 |
+| 29 | [Fuqaati \(My Bubble\)](https://open.spotify.com/track/1qvai6uaDWd2z4JeYSlFka) | [Ruba Shamshoum](https://open.spotify.com/artist/2SFD4ndp40N3lL0iy6W9VM) | [Fuqaati \(My Bubble\)](https://open.spotify.com/album/1BhIR1MRcxHmVp53exP61r) | 4:28 |
+| 30 | [Dalia](https://open.spotify.com/track/7dQTHfMuE5itGnge9oREXI) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Dalia](https://open.spotify.com/album/2pjOROJjvXkkao44OrafiC) | 4:16 |
 | 31 | [Enough](https://open.spotify.com/track/4CZ2wKpcjgoQDxGMQNUdqb) | [Maysa Daw](https://open.spotify.com/artist/3oCd1GdkMu8peoq2r9ceI6) | [Between City Walls](https://open.spotify.com/album/0aUGJkdUCaTmBqlB2gD3I0) | 3:41 |
 | 32 | [زهرة رمان](https://open.spotify.com/track/3boWEgROn4eUoNqA4AkKF0) | [Soukayna Jamali](https://open.spotify.com/artist/6HSYK1Uoe0vnjnAwi9nuap) | [زهرة رمان](https://open.spotify.com/album/3suV5ivCydSX1Hl1vPlllf) | 3:26 |
 | 33 | [Albi](https://open.spotify.com/track/5CI4SAR3raAaAu6Rijmpqk) | [Apo & the Apostles](https://open.spotify.com/artist/206CRJTxnXzOKrkZmZm9aw), [Norah Shaqur](https://open.spotify.com/artist/357LwT1uF798pX9P418HhS) | [Ya Zalamez](https://open.spotify.com/album/5KIX5z12W1xilOex7O55fo) | 3:53 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMD8irDo4sC.md) - [plain]
 | 37 | [Baby Baby \- Acoustic Version](https://open.spotify.com/track/3s7QTPgwtWfrOXraMAF3cO) | [Mok Saib](https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW) | [Baby Baby \(Acoustic Version\)](https://open.spotify.com/album/0LriuhHAoi1kknfbUrAq82) | 2:40 |
 | 38 | [Habibi Ta'al](https://open.spotify.com/track/19oH7VGiIr2dBr8tOQxE9Q) | [Amira Kheir](https://open.spotify.com/artist/5WZN5v7MdgFPu29h88MWvh) | [Alsahraa](https://open.spotify.com/album/08aS2e6UrwEoq6BPGyNHe2) | 6:10 |
 | 39 | [Cliché](https://open.spotify.com/track/4RlXofPu1zxJppCftikBxm) | [Meen](https://open.spotify.com/artist/5n1aTk6a8DcuUKUXbmrUm6) | [3arousit Bkeseen](https://open.spotify.com/album/1nYSZVRS5Pz1Fb6cgO1ne8) | 3:02 |
-| 40 | [Warda 7amra \- Live](https://open.spotify.com/track/4abds4zgaIK15x9B3PtWLn) | [Amin Kamal](https://open.spotify.com/artist/0vOIeTt1kAxXxomH6N77os) | [Skizosocial Live](https://open.spotify.com/album/4anbKuPvH0XWqUWCbxvGMf) | 6:50 |
-| 41 | [كيف الحب بنقاس](https://open.spotify.com/track/1ZHa9mMDqVYlkmsOwT17jq) | [Mahasneh](https://open.spotify.com/artist/09mTDBIJQrOEw78vALpnPX) | [كيف الحب بنقاس](https://open.spotify.com/album/2lA87mLUDO7DSKEjOwW5Fk) | 2:44 |
+| 40 | [كيف الحب بنقاس](https://open.spotify.com/track/1ZHa9mMDqVYlkmsOwT17jq) | [Mahasneh](https://open.spotify.com/artist/09mTDBIJQrOEw78vALpnPX) | [كيف الحب بنقاس](https://open.spotify.com/album/2lA87mLUDO7DSKEjOwW5Fk) | 2:44 |
+| 41 | [Warda 7amra \- Live](https://open.spotify.com/track/4abds4zgaIK15x9B3PtWLn) | [Amin Kamal](https://open.spotify.com/artist/0vOIeTt1kAxXxomH6N77os) | [Skizosocial Live](https://open.spotify.com/album/4anbKuPvH0XWqUWCbxvGMf) | 6:50 |
 | 42 | [Memories Of A Palestinian Wound](https://open.spotify.com/track/7EuovX8mMPgIuDjAPECG02) | [Amal Murkus](https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP) | [Checkpoint Rock: Canciones Desde Palestina](https://open.spotify.com/album/5elgS21gSfVxSjz2y22iP8) | 3:09 |
 | 43 | [Munaya \(Dream\)](https://open.spotify.com/track/3bhui3GTdH3kJ4ic6ubmQS) | [Amira Kheir](https://open.spotify.com/artist/5WZN5v7MdgFPu29h88MWvh) | [Mystic Dance](https://open.spotify.com/album/3xQYBIIhwi1Xmts6Y8lgSq) | 5:46 |
 | 44 | [درر](https://open.spotify.com/track/3BPWuKnv4MwaMX5GjQf9KY) | [Roxs9](https://open.spotify.com/artist/6Rk3PNEqDTshVlJ5D3U5Ru) | [دُرَرْ](https://open.spotify.com/album/1ERu5zVIzOLu1lfBNRVOhD) | 4:28 |

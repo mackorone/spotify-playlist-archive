@@ -1,12 +1,12 @@
 {
   "description": "This is El de La Guitarra. The essential tracks, all in one playlist.",
-  "num_followers": 96292,
+  "num_followers": 96307,
   "original_name": "This Is El de La Guitarra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU3QAAAAAAAyAyehfIyJ8QMAEAFr2Hzu",
+  "snapshot_id": "aU8hgAAAAABx1ZH7QSoh7mk6pV36OrY2",
   "tracks": [
     {
       "added_at": null,
@@ -207,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los 3 De Siempre",
-        "url": "https://open.spotify.com/album/2WsYk6pBguIwdPjU0At9DE"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 175777,
-      "name": "Los 3 De Siempre",
-      "url": "https://open.spotify.com/track/3KCMlam3tmXwIcCfvZDstg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Internacional",
         "url": "https://open.spotify.com/album/5lOudBxycPSzUC6GKDQ2Cs"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 159176,
       "name": "La Internacional",
       "url": "https://open.spotify.com/track/6T0FTw6tAOUbeMIvGV7WrX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los 3 De Siempre",
+        "url": "https://open.spotify.com/album/2WsYk6pBguIwdPjU0At9DE"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 175777,
+      "name": "Los 3 De Siempre",
+      "url": "https://open.spotify.com/track/3KCMlam3tmXwIcCfvZDstg"
     },
     {
       "added_at": null,
@@ -435,8 +435,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ni\u00f1as De Revista",
-        "url": "https://open.spotify.com/album/2QmlUOcMPlmTgz6HYKjfak"
+        "name": "Jimmy Humilde Presenta Lo Mejor De Las Calles Vol.2",
+        "url": "https://open.spotify.com/album/7mWhnBQvUXA3CSSMCMt9xg"
       },
       "artists": [
         {
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 147480,
-      "name": "Ni\u00f1as De Revista",
-      "url": "https://open.spotify.com/track/36cIzzlI5ZA9MJUnH7vVG7"
+      "duration_ms": 241444,
+      "name": "Los de La Casa",
+      "url": "https://open.spotify.com/track/6vpPBRAI1dTKIjH4SfGdBe"
     },
     {
       "added_at": null,
@@ -467,8 +467,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jimmy Humilde Presenta Lo Mejor De Las Calles Vol.2",
-        "url": "https://open.spotify.com/album/7mWhnBQvUXA3CSSMCMt9xg"
+        "name": "Ni\u00f1as De Revista",
+        "url": "https://open.spotify.com/album/2QmlUOcMPlmTgz6HYKjfak"
       },
       "artists": [
         {
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 241444,
-      "name": "Los de La Casa",
-      "url": "https://open.spotify.com/track/6vpPBRAI1dTKIjH4SfGdBe"
+      "duration_ms": 147480,
+      "name": "Ni\u00f1as De Revista",
+      "url": "https://open.spotify.com/track/36cIzzlI5ZA9MJUnH7vVG7"
     },
     {
       "added_at": null,
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 186301,
-      "name": "Barrio Xolo",
-      "url": "https://open.spotify.com/track/5gHg03BEF7wM1bPBnbAC7b"
+      "duration_ms": 225226,
+      "name": "Ya Lo Decid\u00ed",
+      "url": "https://open.spotify.com/track/10374Hnq6WMRFsB6DgpbrJ"
     },
     {
       "added_at": null,
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 225226,
-      "name": "Ya Lo Decid\u00ed",
-      "url": "https://open.spotify.com/track/10374Hnq6WMRFsB6DgpbrJ"
+      "duration_ms": 186301,
+      "name": "Barrio Xolo",
+      "url": "https://open.spotify.com/track/5gHg03BEF7wM1bPBnbAC7b"
     },
     {
       "added_at": null,

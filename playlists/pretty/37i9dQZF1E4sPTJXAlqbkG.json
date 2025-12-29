@@ -1,6 +1,6 @@
 {
   "description": "With Sonder, Jhen\u00e9 Aiko, Frank Ocean and more",
-  "num_followers": 94206,
+  "num_followers": 94292,
   "original_name": "PARTYNEXTDOOR Radio",
   "owner": {
     "name": "Spotify",
@@ -315,6 +315,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 307151,
+      "name": "Nights",
+      "url": "https://open.spotify.com/track/7eqoqGkKwgOaWNNHx90uEZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Fuss",
         "url": "https://open.spotify.com/album/2HEjp4r9NGBGLtXxk5TxsA"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 190111,
       "name": "No Fuss",
       "url": "https://open.spotify.com/track/7BAreLM0Yif723pgS8Kydl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blonde",
-        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 307151,
-      "name": "Nights",
-      "url": "https://open.spotify.com/track/7eqoqGkKwgOaWNNHx90uEZ"
     },
     {
       "added_at": null,
@@ -419,18 +419,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "TAKE TIME",
-        "url": "https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C"
+        "name": "channel ORANGE",
+        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
       },
       "artists": [
         {
-          "name": "GIV\u0112ON",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        },
+        {
+          "name": "Andr\u00e9 3000",
+          "url": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6"
         }
       ],
-      "duration_ms": 205663,
-      "name": "The Beach",
-      "url": "https://open.spotify.com/track/2Hd7uGbl8PX0IxyX59VFOg"
+      "duration_ms": 268813,
+      "name": "Pink Matter",
+      "url": "https://open.spotify.com/track/1fOkmYW3ZFkkjIdOZSf596"
     },
     {
       "added_at": null,
@@ -451,26 +455,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "$ome $exy $ongs 4 U",
-        "url": "https://open.spotify.com/album/2v6x8JNW3DdI0IBkKdrBvt"
+        "name": "TAKE TIME",
+        "url": "https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C"
       },
       "artists": [
         {
-          "name": "Pimmie",
-          "url": "https://open.spotify.com/artist/30AbYddXmSkDXhnW6lB0ll"
-        },
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
         }
       ],
-      "duration_ms": 118153,
-      "name": "PIMMIE'S DILEMMA",
-      "url": "https://open.spotify.com/track/4cwyp1aL1q3LfGCteqe8tL"
+      "duration_ms": 205663,
+      "name": "The Beach",
+      "url": "https://open.spotify.com/track/2Hd7uGbl8PX0IxyX59VFOg"
     },
     {
       "added_at": null,
@@ -507,22 +503,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "channel ORANGE",
-        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
+        "name": "$ome $exy $ongs 4 U",
+        "url": "https://open.spotify.com/album/2v6x8JNW3DdI0IBkKdrBvt"
       },
       "artists": [
         {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+          "name": "Pimmie",
+          "url": "https://open.spotify.com/artist/30AbYddXmSkDXhnW6lB0ll"
         },
         {
-          "name": "Andr\u00e9 3000",
-          "url": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6"
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 268813,
-      "name": "Pink Matter",
-      "url": "https://open.spotify.com/track/1fOkmYW3ZFkkjIdOZSf596"
+      "duration_ms": 118153,
+      "name": "PIMMIE'S DILEMMA",
+      "url": "https://open.spotify.com/track/4cwyp1aL1q3LfGCteqe8tL"
     },
     {
       "added_at": null,
@@ -579,22 +579,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nobody But You",
-        "url": "https://open.spotify.com/album/0HaY1bBhaYUEXBOSva6Pf7"
+        "name": "Into",
+        "url": "https://open.spotify.com/album/6N5Gc4oQGNp05JXfZi8E5H"
       },
       "artists": [
         {
           "name": "Sonder",
           "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
-        },
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
         }
       ],
-      "duration_ms": 213214,
-      "name": "Nobody But You",
-      "url": "https://open.spotify.com/track/6VFKuuqSbA1GpMEosUgTwQ"
+      "duration_ms": 232502,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/1uverlfbbG8InEPioAwB8y"
     },
     {
       "added_at": null,
@@ -651,18 +647,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "When It's All Said And Done... Take Time",
-        "url": "https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd"
+        "name": "All I Want Is You",
+        "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
       },
       "artists": [
         {
-          "name": "GIV\u0112ON",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 127807,
-      "name": "All To Me",
-      "url": "https://open.spotify.com/track/5JycxhApZmzbA4xSwvqh6k"
+      "duration_ms": 295920,
+      "name": "All I Want Is You (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/5VA4Ispp52EA1sOqzMz3Av"
     },
     {
       "added_at": null,
@@ -683,18 +683,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Into",
-        "url": "https://open.spotify.com/album/6N5Gc4oQGNp05JXfZi8E5H"
+        "name": "Nobody But You",
+        "url": "https://open.spotify.com/album/0HaY1bBhaYUEXBOSva6Pf7"
       },
       "artists": [
         {
           "name": "Sonder",
           "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
         }
       ],
-      "duration_ms": 232502,
-      "name": "Feel",
-      "url": "https://open.spotify.com/track/1uverlfbbG8InEPioAwB8y"
+      "duration_ms": 213214,
+      "name": "Nobody But You",
+      "url": "https://open.spotify.com/track/6VFKuuqSbA1GpMEosUgTwQ"
     },
     {
       "added_at": null,
@@ -731,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "When It's All Said And Done... Take Time",
+        "url": "https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd"
+      },
+      "artists": [
+        {
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 127807,
+      "name": "All To Me",
+      "url": "https://open.spotify.com/track/5JycxhApZmzbA4xSwvqh6k"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wildheart",
         "url": "https://open.spotify.com/album/6b5WANFyoXhaMTXPqLF6ez"
       },
@@ -759,26 +779,6 @@
       "duration_ms": 219346,
       "name": "Flatline",
       "url": "https://open.spotify.com/track/2GBgiuXwY1KzJMA0gSAr9J"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Freudian",
-        "url": "https://open.spotify.com/album/4E1XUBMTpLO7GpBzUo65Jp"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 278179,
-      "name": "Get You (feat. Kali Uchis)",
-      "url": "https://open.spotify.com/track/2uP6t2J5MEwhr9rDkAAzwh"
     },
     {
       "added_at": null,
@@ -815,18 +815,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sailing Soul(s)",
-        "url": "https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim"
+        "name": "Sail Out",
+        "url": "https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq"
       },
       "artists": [
         {
           "name": "Jhen\u00e9 Aiko",
           "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        },
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
         }
       ],
-      "duration_ms": 152400,
-      "name": "2 seconds - Bonus",
-      "url": "https://open.spotify.com/track/1dnECPoSYg3ni8dr8HhulX"
+      "duration_ms": 256079,
+      "name": "Bed Peace",
+      "url": "https://open.spotify.com/track/5Ck3e6z1bcSCes5gdo0Ddt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Freudian",
+        "url": "https://open.spotify.com/album/4E1XUBMTpLO7GpBzUo65Jp"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 278179,
+      "name": "Get You (feat. Kali Uchis)",
+      "url": "https://open.spotify.com/track/2uP6t2J5MEwhr9rDkAAzwh"
     },
     {
       "added_at": null,
@@ -843,22 +867,6 @@
       "duration_ms": 273111,
       "name": "How Many Drinks?",
       "url": "https://open.spotify.com/track/4LiQ8uAynrXFWY0vimnAa1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "channel ORANGE",
-        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 592920,
-      "name": "Pyramids",
-      "url": "https://open.spotify.com/track/4QhWbupniDd44EDtnh2bFJ"
     }
   ],
   "unique_name": "PARTYNEXTDOOR Radio",

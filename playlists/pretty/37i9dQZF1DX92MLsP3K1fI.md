@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 
 > ¡Sube el volumen y disfruta del pop más chicloso! CD9 en portada 🖤❤️🤍
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,829 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,831 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 24 | [Los Ángeles](https://open.spotify.com/track/7lrMkztvl0MnRSB2i3KRRe) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Los Ángeles](https://open.spotify.com/album/4bPQ9fS8MUFcAfSq0NzBbI) | 2:38 |
 | 25 | [Chance](https://open.spotify.com/track/7HO32nFlwhg1uDC2KZKDN8) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [Chance](https://open.spotify.com/album/6EMUBfbdMpi708BLwQ9Sd9) | 2:36 |
 | 26 | [Siempre Que Lo Beso](https://open.spotify.com/track/7uxUSeO7fa3gVn0mNg2SyR) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Siempre Que Lo Beso](https://open.spotify.com/album/6HZmLJi2vatI1IPmcJ6Y5s) | 2:33 |
-| 27 | [bachata mía](https://open.spotify.com/track/2mVupSW8ElmGAeidSkhLfW) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [María José Llergo](https://open.spotify.com/artist/70GBRlKEGjfueop2lfdQ4Q) | [PALACIO DE LUX](https://open.spotify.com/album/1Zn2LwmWP3ItxW1DIOdg0X) | 3:14 |
-| 28 | [Nunca Volvieron](https://open.spotify.com/track/3vbPFmgM1KBVbnV0Ydwcex) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Nunca Volvieron](https://open.spotify.com/album/6Iqk4LhVsc56yikaL6TCvw) | 3:21 |
+| 27 | [Nunca Volvieron](https://open.spotify.com/track/3vbPFmgM1KBVbnV0Ydwcex) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Nunca Volvieron](https://open.spotify.com/album/6Iqk4LhVsc56yikaL6TCvw) | 3:21 |
+| 28 | [bachata mía](https://open.spotify.com/track/2mVupSW8ElmGAeidSkhLfW) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [María José Llergo](https://open.spotify.com/artist/70GBRlKEGjfueop2lfdQ4Q) | [PALACIO DE LUX](https://open.spotify.com/album/1Zn2LwmWP3ItxW1DIOdg0X) | 3:14 |
 | 29 | [SEGUNDO INTENTO](https://open.spotify.com/track/7KmRozNJiNX1WUwrmNYKbJ) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [SEGUNDO INTENTO](https://open.spotify.com/album/4uNKr16Lt1pTOiqhd4R7Ux) | 3:11 |
 | 30 | [Luna](https://open.spotify.com/track/5cgeK14YrMX2ftrxhsvbp1) | [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [Luna](https://open.spotify.com/album/4NSnbADexvBDh4shBebFh2) | 2:52 |
 | 31 | [PLATONIK](https://open.spotify.com/track/1e2593sU7hA1ndV3noEf0o) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [CHILDSTAR](https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH) | 2:41 |

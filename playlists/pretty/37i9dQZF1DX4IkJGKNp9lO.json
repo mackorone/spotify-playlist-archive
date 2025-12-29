@@ -1,6 +1,6 @@
 {
   "description": "Svenska punkklassiker och hardcore.",
-  "num_followers": 34538,
+  "num_followers": 34543,
   "original_name": "Svensk Punk",
   "owner": {
     "name": "Spotify",
@@ -111,22 +111,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "K\u00e4rlek och uppror",
-        "url": "https://open.spotify.com/album/0n2TPFl1JX4hWzt0iC4Dx0"
-      },
-      "artists": [
-        {
-          "name": "Ebba Gr\u00f6n",
-          "url": "https://open.spotify.com/artist/2gvwV7CcpLmKyaE0fiSKI9"
-        }
-      ],
-      "duration_ms": 227333,
-      "name": "800\u00b0",
-      "url": "https://open.spotify.com/track/3zgJHNEorjbLLThp6TiMhz"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "En s\u00e5n h\u00e4r chans f\u00e5r man bara en g\u00e5ng i livet",
         "url": "https://open.spotify.com/album/4gu1frxTMWmraodGnLnr7s"
       },
@@ -139,38 +123,6 @@
       "duration_ms": 175156,
       "name": "En s\u00e5n h\u00e4r chans f\u00e5r man bara en g\u00e5ng i livet",
       "url": "https://open.spotify.com/track/4c3g4uYQFyvfiNX7cWP24m"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
-        "name": "Grit",
-        "url": "https://open.spotify.com/album/5j376oRcfB6bEovuA5Ssod"
-      },
-      "artists": [
-        {
-          "name": "Mimikry",
-          "url": "https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv"
-        }
-      ],
-      "duration_ms": 137769,
-      "name": "Tid att vara arg",
-      "url": "https://open.spotify.com/track/6aEcYA9k3GAvPRwdAdMwCV"
-    },
-    {
-      "added_at": "2025-08-07 10:21:40",
-      "album": {
-        "name": "Cave World",
-        "url": "https://open.spotify.com/album/2IC2TP7bnwkfl56vjabLQt"
-      },
-      "artists": [
-        {
-          "name": "Viagra Boys",
-          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
-        }
-      ],
-      "duration_ms": 237980,
-      "name": "Punk Rock Loser",
-      "url": "https://open.spotify.com/track/2pqoh1jUQoppztoQRRGyKK"
     },
     {
       "added_at": "2025-08-07 10:21:40",
@@ -207,6 +159,38 @@
     {
       "added_at": "2025-08-07 10:21:40",
       "album": {
+        "name": "Cave World",
+        "url": "https://open.spotify.com/album/2IC2TP7bnwkfl56vjabLQt"
+      },
+      "artists": [
+        {
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+        }
+      ],
+      "duration_ms": 237980,
+      "name": "Punk Rock Loser",
+      "url": "https://open.spotify.com/track/2pqoh1jUQoppztoQRRGyKK"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "K\u00e4rlek och uppror",
+        "url": "https://open.spotify.com/album/0n2TPFl1JX4hWzt0iC4Dx0"
+      },
+      "artists": [
+        {
+          "name": "Ebba Gr\u00f6n",
+          "url": "https://open.spotify.com/artist/2gvwV7CcpLmKyaE0fiSKI9"
+        }
+      ],
+      "duration_ms": 227333,
+      "name": "800\u00b0",
+      "url": "https://open.spotify.com/track/3zgJHNEorjbLLThp6TiMhz"
+    },
+    {
+      "added_at": "2025-08-07 10:21:40",
+      "album": {
         "name": "Gbg Noir",
         "url": "https://open.spotify.com/album/4oRecfEuVaqFzGCcODIis9"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 201991,
       "name": "Psykbrytet",
       "url": "https://open.spotify.com/track/7AfnvF3It7nwZFYKy1BDZx"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Grit",
+        "url": "https://open.spotify.com/album/5j376oRcfB6bEovuA5Ssod"
+      },
+      "artists": [
+        {
+          "name": "Mimikry",
+          "url": "https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv"
+        }
+      ],
+      "duration_ms": 137769,
+      "name": "Tid att vara arg",
+      "url": "https://open.spotify.com/track/6aEcYA9k3GAvPRwdAdMwCV"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -239,34 +239,18 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Ebba Gr\u00f6n",
-        "url": "https://open.spotify.com/album/3fZyzR2Qeu8d5h8FsejF1I"
+        "name": "MNW Klassiker - Imperiet",
+        "url": "https://open.spotify.com/album/5lY7cylovT6hi6h2cTOMS6"
       },
       "artists": [
         {
-          "name": "Ebba Gr\u00f6n",
-          "url": "https://open.spotify.com/artist/2gvwV7CcpLmKyaE0fiSKI9"
+          "name": "Imperiet",
+          "url": "https://open.spotify.com/artist/4uWiErrlBRdqgKn5NrIJjg"
         }
       ],
-      "duration_ms": 244573,
-      "name": "Die Mauer",
-      "url": "https://open.spotify.com/track/524avnOQAmyULv2CjQAmrn"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
-        "name": "Aktion",
-        "url": "https://open.spotify.com/album/6BtyzpnUEoF5iZOdKceke6"
-      },
-      "artists": [
-        {
-          "name": "KSMB",
-          "url": "https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71"
-        }
-      ],
-      "duration_ms": 109800,
-      "name": "En slemmig torsk",
-      "url": "https://open.spotify.com/track/0lHqNKA2IX8MzQwLNPbbY8"
+      "duration_ms": 256079,
+      "name": "Du ska va president",
+      "url": "https://open.spotify.com/track/3ohXW41Z5iU6pL4pfpAMO0"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -283,6 +267,22 @@
       "duration_ms": 214167,
       "name": "Boulder Dash",
       "url": "https://open.spotify.com/track/6Pg9ifIvNc6yOyXuGJI7LA"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Aktion",
+        "url": "https://open.spotify.com/album/6BtyzpnUEoF5iZOdKceke6"
+      },
+      "artists": [
+        {
+          "name": "KSMB",
+          "url": "https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71"
+        }
+      ],
+      "duration_ms": 109800,
+      "name": "En slemmig torsk",
+      "url": "https://open.spotify.com/track/0lHqNKA2IX8MzQwLNPbbY8"
     },
     {
       "added_at": "2025-08-07 10:21:40",
@@ -303,18 +303,22 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "MNW Klassiker - Imperiet",
-        "url": "https://open.spotify.com/album/5lY7cylovT6hi6h2cTOMS6"
+        "name": "Du \u00e4r inte h\u00e4r/F\u00f6r dig",
+        "url": "https://open.spotify.com/album/2nBcarWXSmnEtmU1iWamiQ"
       },
       "artists": [
         {
-          "name": "Imperiet",
-          "url": "https://open.spotify.com/artist/4uWiErrlBRdqgKn5NrIJjg"
+          "name": "Lastkaj 14",
+          "url": "https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI"
+        },
+        {
+          "name": "Mindie",
+          "url": "https://open.spotify.com/artist/2sfb5zlcYxeGoCuwgBmGkY"
         }
       ],
-      "duration_ms": 256079,
-      "name": "Du ska va president",
-      "url": "https://open.spotify.com/track/3ohXW41Z5iU6pL4pfpAMO0"
+      "duration_ms": 188213,
+      "name": "Du \u00e4r inte h\u00e4r",
+      "url": "https://open.spotify.com/track/5f0Ho8ozJSz0DU2uLQqgeL"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -335,22 +339,18 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Du \u00e4r inte h\u00e4r/F\u00f6r dig",
-        "url": "https://open.spotify.com/album/2nBcarWXSmnEtmU1iWamiQ"
+        "name": "Ebba Gr\u00f6n",
+        "url": "https://open.spotify.com/album/3fZyzR2Qeu8d5h8FsejF1I"
       },
       "artists": [
         {
-          "name": "Lastkaj 14",
-          "url": "https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI"
-        },
-        {
-          "name": "Mindie",
-          "url": "https://open.spotify.com/artist/2sfb5zlcYxeGoCuwgBmGkY"
+          "name": "Ebba Gr\u00f6n",
+          "url": "https://open.spotify.com/artist/2gvwV7CcpLmKyaE0fiSKI9"
         }
       ],
-      "duration_ms": 188213,
-      "name": "Du \u00e4r inte h\u00e4r",
-      "url": "https://open.spotify.com/track/5f0Ho8ozJSz0DU2uLQqgeL"
+      "duration_ms": 244573,
+      "name": "Die Mauer",
+      "url": "https://open.spotify.com/track/524avnOQAmyULv2CjQAmrn"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -387,6 +387,22 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
+        "name": "Pengarna eller livet",
+        "url": "https://open.spotify.com/album/5AkRYj8nWPwjcZVoP5MKdD"
+      },
+      "artists": [
+        {
+          "name": "Lastkaj 14",
+          "url": "https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI"
+        }
+      ],
+      "duration_ms": 181680,
+      "name": "Leva loppan",
+      "url": "https://open.spotify.com/track/3a5FtkugQkAfqH1A8Psuwd"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
         "name": "Aktion",
         "url": "https://open.spotify.com/album/6BtyzpnUEoF5iZOdKceke6"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 132800,
       "name": "Tidens tempo",
       "url": "https://open.spotify.com/track/01URoRZKSsMbExgdmiuiwy"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
-        "name": "Ebba Gr\u00f6n 1978 - 1982",
-        "url": "https://open.spotify.com/album/2zP275pJAbZbZFifh5av6R"
-      },
-      "artists": [
-        {
-          "name": "Ebba Gr\u00f6n",
-          "url": "https://open.spotify.com/artist/2gvwV7CcpLmKyaE0fiSKI9"
-        }
-      ],
-      "duration_ms": 156533,
-      "name": "Vad ska du bli?",
-      "url": "https://open.spotify.com/track/4oSOqIFMmaWa56ni5QBuOP"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Pengarna eller livet",
-        "url": "https://open.spotify.com/album/5AkRYj8nWPwjcZVoP5MKdD"
-      },
-      "artists": [
-        {
-          "name": "Lastkaj 14",
-          "url": "https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI"
-        }
-      ],
-      "duration_ms": 181680,
-      "name": "Leva loppan",
-      "url": "https://open.spotify.com/track/3a5FtkugQkAfqH1A8Psuwd"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "Risk p\u00e5 fyllan",
         "url": "https://open.spotify.com/album/5VgurtulNGTe625aNhBIsi"
       },
@@ -463,22 +447,6 @@
       "duration_ms": 177882,
       "name": "Risk p\u00e5 fyllan",
       "url": "https://open.spotify.com/track/2B2KDdeGBBxSTHuRrftDwN"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
-        "name": "MNW Digital Archive 1979",
-        "url": "https://open.spotify.com/album/06H2x5cRaSVly5u1fhHWuV"
-      },
-      "artists": [
-        {
-          "name": "KSMB",
-          "url": "https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71"
-        }
-      ],
-      "duration_ms": 123333,
-      "name": "Abab",
-      "url": "https://open.spotify.com/track/0dy6fTM1ac2mAmkDPUB6xz"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -499,6 +467,38 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
+        "name": "Ebba Gr\u00f6n 1978 - 1982",
+        "url": "https://open.spotify.com/album/2zP275pJAbZbZFifh5av6R"
+      },
+      "artists": [
+        {
+          "name": "Ebba Gr\u00f6n",
+          "url": "https://open.spotify.com/artist/2gvwV7CcpLmKyaE0fiSKI9"
+        }
+      ],
+      "duration_ms": 156533,
+      "name": "Vad ska du bli?",
+      "url": "https://open.spotify.com/track/4oSOqIFMmaWa56ni5QBuOP"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "MNW Digital Archive 1979",
+        "url": "https://open.spotify.com/album/06H2x5cRaSVly5u1fhHWuV"
+      },
+      "artists": [
+        {
+          "name": "KSMB",
+          "url": "https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71"
+        }
+      ],
+      "duration_ms": 123333,
+      "name": "Abab",
+      "url": "https://open.spotify.com/track/0dy6fTM1ac2mAmkDPUB6xz"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
         "name": "Borgerlig begravning",
         "url": "https://open.spotify.com/album/7CrfHrApj1K5LpjSyiSUYH"
       },
@@ -511,22 +511,6 @@
       "duration_ms": 121510,
       "name": "V\u00e4gra",
       "url": "https://open.spotify.com/track/1xKkbE6TAk0fw982WRofnl"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
-        "name": "Ebba Gr\u00f6n 1978 - 1982",
-        "url": "https://open.spotify.com/album/2zP275pJAbZbZFifh5av6R"
-      },
-      "artists": [
-        {
-          "name": "Ebba Gr\u00f6n",
-          "url": "https://open.spotify.com/artist/2gvwV7CcpLmKyaE0fiSKI9"
-        }
-      ],
-      "duration_ms": 203733,
-      "name": "Bev\u00e4pna er",
-      "url": "https://open.spotify.com/track/0Y7fsEyDzWMNfY8affxQcb"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -547,22 +531,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Splitter",
-        "url": "https://open.spotify.com/album/7iP2d6T1gMjhQ9VcAYRgT5"
-      },
-      "artists": [
-        {
-          "name": "Mimikry",
-          "url": "https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv"
-        }
-      ],
-      "duration_ms": 155823,
-      "name": "Dom ljuger",
-      "url": "https://open.spotify.com/track/7kDKH4V4ODRv1KfxX3fmoX"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "F\u00f6r Sverige",
         "url": "https://open.spotify.com/album/1qAOtAfBZwnxpU4n1fVzoS"
       },
@@ -579,6 +547,22 @@
       "duration_ms": 205506,
       "name": "Hela hatet stormar",
       "url": "https://open.spotify.com/track/7KxxR4leTRgoF36DPyeqDD"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Splitter",
+        "url": "https://open.spotify.com/album/7iP2d6T1gMjhQ9VcAYRgT5"
+      },
+      "artists": [
+        {
+          "name": "Mimikry",
+          "url": "https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv"
+        }
+      ],
+      "duration_ms": 155823,
+      "name": "Dom ljuger",
+      "url": "https://open.spotify.com/track/7kDKH4V4ODRv1KfxX3fmoX"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -615,18 +599,18 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Vi \u00c4r Alla Stj\u00e4rnor",
-        "url": "https://open.spotify.com/album/7E2RVJCOJyo0WqyH1b9GNn"
+        "name": "Ebba Gr\u00f6n 1978 - 1982",
+        "url": "https://open.spotify.com/album/2zP275pJAbZbZFifh5av6R"
       },
       "artists": [
         {
-          "name": "Slutstation Tjernobyl",
-          "url": "https://open.spotify.com/artist/7hGagoTcGYInEGKeZdS6wC"
+          "name": "Ebba Gr\u00f6n",
+          "url": "https://open.spotify.com/artist/2gvwV7CcpLmKyaE0fiSKI9"
         }
       ],
-      "duration_ms": 202640,
-      "name": "Till Krig",
-      "url": "https://open.spotify.com/track/2Dm3dpz92r2Ov6ahGrrpDT"
+      "duration_ms": 203733,
+      "name": "Bev\u00e4pna er",
+      "url": "https://open.spotify.com/track/0Y7fsEyDzWMNfY8affxQcb"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -647,6 +631,22 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
+        "name": "Knivhj\u00e4rta",
+        "url": "https://open.spotify.com/album/6EUQZtQHAruBPqWQXOSsRf"
+      },
+      "artists": [
+        {
+          "name": "D\u00f6dsk\u00e4llan",
+          "url": "https://open.spotify.com/artist/6ubVra3DC7sDD6KjSuVjbA"
+        }
+      ],
+      "duration_ms": 195662,
+      "name": "Knivhj\u00e4rta",
+      "url": "https://open.spotify.com/track/1tn6kFlK0sVNWJNu52THfH"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
         "name": "Parasit",
         "url": "https://open.spotify.com/album/2zX4NO879mq7qvcBomEpqK"
       },
@@ -659,6 +659,38 @@
       "duration_ms": 152720,
       "name": "Parasit",
       "url": "https://open.spotify.com/track/1444rqkJkj584AmeUdHEbv"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Vi \u00c4r Alla Stj\u00e4rnor",
+        "url": "https://open.spotify.com/album/7E2RVJCOJyo0WqyH1b9GNn"
+      },
+      "artists": [
+        {
+          "name": "Slutstation Tjernobyl",
+          "url": "https://open.spotify.com/artist/7hGagoTcGYInEGKeZdS6wC"
+        }
+      ],
+      "duration_ms": 202640,
+      "name": "Till Krig",
+      "url": "https://open.spotify.com/track/2Dm3dpz92r2Ov6ahGrrpDT"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Den dagen \u00e4r inte idag",
+        "url": "https://open.spotify.com/album/1yxYMRzEhVFUf3KFQNhHE2"
+      },
+      "artists": [
+        {
+          "name": "\u00c4rkepucko",
+          "url": "https://open.spotify.com/artist/6LkA0guHyb6HPuYilkOYdX"
+        }
+      ],
+      "duration_ms": 186781,
+      "name": "Den dagen \u00e4r inte idag",
+      "url": "https://open.spotify.com/track/3bBOmq9ox4bD1jNT1ojsey"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -679,38 +711,6 @@
       "duration_ms": 208202,
       "name": "Alderland (NO)",
       "url": "https://open.spotify.com/track/1m7AguIMU7bffCcc8j17sK"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
-        "name": "Knivhj\u00e4rta",
-        "url": "https://open.spotify.com/album/6EUQZtQHAruBPqWQXOSsRf"
-      },
-      "artists": [
-        {
-          "name": "D\u00f6dsk\u00e4llan",
-          "url": "https://open.spotify.com/artist/6ubVra3DC7sDD6KjSuVjbA"
-        }
-      ],
-      "duration_ms": 195662,
-      "name": "Knivhj\u00e4rta",
-      "url": "https://open.spotify.com/track/1tn6kFlK0sVNWJNu52THfH"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
-        "name": "Den dagen \u00e4r inte idag",
-        "url": "https://open.spotify.com/album/1yxYMRzEhVFUf3KFQNhHE2"
-      },
-      "artists": [
-        {
-          "name": "\u00c4rkepucko",
-          "url": "https://open.spotify.com/artist/6LkA0guHyb6HPuYilkOYdX"
-        }
-      ],
-      "duration_ms": 186781,
-      "name": "Den dagen \u00e4r inte idag",
-      "url": "https://open.spotify.com/track/3bBOmq9ox4bD1jNT1ojsey"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Med munnen full av hat",
-        "url": "https://open.spotify.com/album/5cC3X7yrOQOTmdqqZYRSb3"
-      },
-      "artists": [
-        {
-          "name": "Vet Hut",
-          "url": "https://open.spotify.com/artist/1hYSAZUsXHo5io3lCKRIXs"
-        }
-      ],
-      "duration_ms": 171332,
-      "name": "Med munnen full av hat",
-      "url": "https://open.spotify.com/track/4Xwxr2b9lxhLwmnuKaj47h"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "Bland tomtar och troll",
         "url": "https://open.spotify.com/album/5qpQHc2lLSL8klOE7Yiyx0"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 202493,
       "name": "Gamla ideal",
       "url": "https://open.spotify.com/track/2xDX2oOUlUJcNhJh7kqKhX"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Med munnen full av hat",
+        "url": "https://open.spotify.com/album/5cC3X7yrOQOTmdqqZYRSb3"
+      },
+      "artists": [
+        {
+          "name": "Vet Hut",
+          "url": "https://open.spotify.com/artist/1hYSAZUsXHo5io3lCKRIXs"
+        }
+      ],
+      "duration_ms": 171332,
+      "name": "Med munnen full av hat",
+      "url": "https://open.spotify.com/track/4Xwxr2b9lxhLwmnuKaj47h"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Vi \u00c4ger Natten",
-        "url": "https://open.spotify.com/album/6PE6UFsbSCTXP96nCaUPHi"
-      },
-      "artists": [
-        {
-          "name": "V\u00e4rlden Brinner",
-          "url": "https://open.spotify.com/artist/6qOb7jx3dXa3oUbCnLSF8g"
-        }
-      ],
-      "duration_ms": 135493,
-      "name": "V\u00e5ga!",
-      "url": "https://open.spotify.com/track/5UVYZ4sGc0myt98mSs9xy7"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "Punkfestival",
         "url": "https://open.spotify.com/album/2dHXmO7yLflqWRsE1O0b5A"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 142184,
       "name": "Punkfestival",
       "url": "https://open.spotify.com/track/2HsOYlJSGyrQoMU5ju4YJ9"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Vi \u00c4ger Natten",
+        "url": "https://open.spotify.com/album/6PE6UFsbSCTXP96nCaUPHi"
+      },
+      "artists": [
+        {
+          "name": "V\u00e4rlden Brinner",
+          "url": "https://open.spotify.com/artist/6qOb7jx3dXa3oUbCnLSF8g"
+        }
+      ],
+      "duration_ms": 135493,
+      "name": "V\u00e5ga!",
+      "url": "https://open.spotify.com/track/5UVYZ4sGc0myt98mSs9xy7"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -927,6 +927,22 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
+        "name": "Vem fan \u00e4r liberal?",
+        "url": "https://open.spotify.com/album/3nS0eCqVJu74EghUIJOMKE"
+      },
+      "artists": [
+        {
+          "name": "Charta 77",
+          "url": "https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq"
+        }
+      ],
+      "duration_ms": 178660,
+      "name": "Vem fan \u00e4r liberal?",
+      "url": "https://open.spotify.com/track/1f07uOacf7BpsHyzBsvDMm"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
         "name": "\u00c4nnu En G\u00e5ng",
         "url": "https://open.spotify.com/album/6E7agzpUqkobH8BXLbct0F"
       },
@@ -943,18 +959,18 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Vem fan \u00e4r liberal?",
-        "url": "https://open.spotify.com/album/3nS0eCqVJu74EghUIJOMKE"
+        "name": "Samling i s\u00e4rklass",
+        "url": "https://open.spotify.com/album/3ToAC3pLqmeHGRBTBmEK9S"
       },
       "artists": [
         {
-          "name": "Charta 77",
-          "url": "https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq"
+          "name": "Krigsstigen",
+          "url": "https://open.spotify.com/artist/5ZF0a9S7KDBjgr5BUZDVHC"
         }
       ],
-      "duration_ms": 178660,
-      "name": "Vem fan \u00e4r liberal?",
-      "url": "https://open.spotify.com/track/1f07uOacf7BpsHyzBsvDMm"
+      "duration_ms": 163080,
+      "name": "Ta st\u00e4llning",
+      "url": "https://open.spotify.com/track/3GENhjdodAEroiioaU01Fv"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1007,22 +1023,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Samling i s\u00e4rklass",
-        "url": "https://open.spotify.com/album/3ToAC3pLqmeHGRBTBmEK9S"
-      },
-      "artists": [
-        {
-          "name": "Krigsstigen",
-          "url": "https://open.spotify.com/artist/5ZF0a9S7KDBjgr5BUZDVHC"
-        }
-      ],
-      "duration_ms": 163080,
-      "name": "Ta st\u00e4llning",
-      "url": "https://open.spotify.com/track/3GENhjdodAEroiioaU01Fv"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "Allting",
         "url": "https://open.spotify.com/album/4TeP1PFOOZ9piaT5K1n6jk"
       },
@@ -1035,6 +1035,22 @@
       "duration_ms": 206707,
       "name": "Allting",
       "url": "https://open.spotify.com/track/3RcOF4HdKHLqFrG0h9Fjcj"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Solidaritet",
+        "url": "https://open.spotify.com/album/3oZ5BccCuonR7hvzAL1PM5"
+      },
+      "artists": [
+        {
+          "name": "Krigsstigen",
+          "url": "https://open.spotify.com/artist/5ZF0a9S7KDBjgr5BUZDVHC"
+        }
+      ],
+      "duration_ms": 160459,
+      "name": "Solidaritet",
+      "url": "https://open.spotify.com/track/3YHnUzkxw8T74vSGWz9AO5"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1103,6 +1119,22 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
+        "name": "R\u00f6sta p\u00e5 idioter",
+        "url": "https://open.spotify.com/album/19L94PymfQ5cxCXUze5wS6"
+      },
+      "artists": [
+        {
+          "name": "J\u00f6nzzonligan",
+          "url": "https://open.spotify.com/artist/24sBUpWpLgfDzwJq03Ph8S"
+        }
+      ],
+      "duration_ms": 72880,
+      "name": "\u00c5t helvete med kungafamiljen",
+      "url": "https://open.spotify.com/track/6aVpTnwr4Z1cSRiUtdgAfI"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
         "name": "Bryter ihop f\u00f6r idag",
         "url": "https://open.spotify.com/album/5MWVgUzeKPg3dcY8u1t8o7"
       },
@@ -1131,38 +1163,6 @@
       "duration_ms": 151545,
       "name": "N\u00e4r broar br\u00e4nns",
       "url": "https://open.spotify.com/track/3AUZ76y1Sg7dsuyVvkgXO5"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
-        "name": "Solidaritet",
-        "url": "https://open.spotify.com/album/3oZ5BccCuonR7hvzAL1PM5"
-      },
-      "artists": [
-        {
-          "name": "Krigsstigen",
-          "url": "https://open.spotify.com/artist/5ZF0a9S7KDBjgr5BUZDVHC"
-        }
-      ],
-      "duration_ms": 160459,
-      "name": "Solidaritet",
-      "url": "https://open.spotify.com/track/3YHnUzkxw8T74vSGWz9AO5"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
-        "name": "R\u00f6sta p\u00e5 idioter",
-        "url": "https://open.spotify.com/album/19L94PymfQ5cxCXUze5wS6"
-      },
-      "artists": [
-        {
-          "name": "J\u00f6nzzonligan",
-          "url": "https://open.spotify.com/artist/24sBUpWpLgfDzwJq03Ph8S"
-        }
-      ],
-      "duration_ms": 72880,
-      "name": "\u00c5t helvete med kungafamiljen",
-      "url": "https://open.spotify.com/track/6aVpTnwr4Z1cSRiUtdgAfI"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "BANG! (Vi s\u00e4nker Close-up-b\u00e5ten)",
-        "url": "https://open.spotify.com/album/1Hy1mW2whKFkWAGPYv5XJt"
-      },
-      "artists": [
-        {
-          "name": "Anal kallsup",
-          "url": "https://open.spotify.com/artist/4b7yq9W7t6Sk5qw7EyVvPE"
-        }
-      ],
-      "duration_ms": 118170,
-      "name": "BANG! (Vi s\u00e4nker Close-up-b\u00e5ten)",
-      "url": "https://open.spotify.com/track/4Sit1AqfvIgnio8QWuT9yt"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "R\u00f6sta p\u00e5 idioter",
         "url": "https://open.spotify.com/album/19L94PymfQ5cxCXUze5wS6"
       },
@@ -1279,18 +1263,18 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Upp till dans",
-        "url": "https://open.spotify.com/album/0HjG8Xv9Q248W8A0VgjPud"
+        "name": "BANG! (Vi s\u00e4nker Close-up-b\u00e5ten)",
+        "url": "https://open.spotify.com/album/1Hy1mW2whKFkWAGPYv5XJt"
       },
       "artists": [
         {
-          "name": "Vidro",
-          "url": "https://open.spotify.com/artist/2PvllJTBKE17fG2ltGAGL8"
+          "name": "Anal kallsup",
+          "url": "https://open.spotify.com/artist/4b7yq9W7t6Sk5qw7EyVvPE"
         }
       ],
-      "duration_ms": 141622,
-      "name": "Upp till dans",
-      "url": "https://open.spotify.com/track/6YnngX00gWOQrY4BMnG08c"
+      "duration_ms": 118170,
+      "name": "BANG! (Vi s\u00e4nker Close-up-b\u00e5ten)",
+      "url": "https://open.spotify.com/track/4Sit1AqfvIgnio8QWuT9yt"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1343,34 +1327,18 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "H\u00e5ll er borta",
-        "url": "https://open.spotify.com/album/21bgNIWT3KRS1SES6CBcQ2"
+        "name": "Upp till dans",
+        "url": "https://open.spotify.com/album/0HjG8Xv9Q248W8A0VgjPud"
       },
       "artists": [
         {
-          "name": "Strikt",
-          "url": "https://open.spotify.com/artist/038TPyCS10QOwQQWOaAOF7"
+          "name": "Vidro",
+          "url": "https://open.spotify.com/artist/2PvllJTBKE17fG2ltGAGL8"
         }
       ],
-      "duration_ms": 196693,
-      "name": "H\u00e5ll er borta",
-      "url": "https://open.spotify.com/track/6Z4AJPLETPWXWiTAJ2jeO3"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
-        "name": "R\u00f6sta p\u00e5 idioter",
-        "url": "https://open.spotify.com/album/19L94PymfQ5cxCXUze5wS6"
-      },
-      "artists": [
-        {
-          "name": "J\u00f6nzzonligan",
-          "url": "https://open.spotify.com/artist/24sBUpWpLgfDzwJq03Ph8S"
-        }
-      ],
-      "duration_ms": 128973,
-      "name": "Idrottsl\u00e4rarn e str\u00e4ng!",
-      "url": "https://open.spotify.com/track/2mNxYWVvBvNUkVT4AlhzQ8"
+      "duration_ms": 141622,
+      "name": "Upp till dans",
+      "url": "https://open.spotify.com/track/6YnngX00gWOQrY4BMnG08c"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1391,6 +1359,22 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
+        "name": "H\u00e5ll er borta",
+        "url": "https://open.spotify.com/album/21bgNIWT3KRS1SES6CBcQ2"
+      },
+      "artists": [
+        {
+          "name": "Strikt",
+          "url": "https://open.spotify.com/artist/038TPyCS10QOwQQWOaAOF7"
+        }
+      ],
+      "duration_ms": 196693,
+      "name": "H\u00e5ll er borta",
+      "url": "https://open.spotify.com/track/6Z4AJPLETPWXWiTAJ2jeO3"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
         "name": "L\u00f6rdag kan bli farlig",
         "url": "https://open.spotify.com/album/7t5iA3DK0JCoZ1ZZaHQOJs"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 96000,
       "name": "L\u00f6rdag kan bli farlig",
       "url": "https://open.spotify.com/track/6lAmB5k8Hjrl5k77f99v3L"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "R\u00f6sta p\u00e5 idioter",
+        "url": "https://open.spotify.com/album/19L94PymfQ5cxCXUze5wS6"
+      },
+      "artists": [
+        {
+          "name": "J\u00f6nzzonligan",
+          "url": "https://open.spotify.com/artist/24sBUpWpLgfDzwJq03Ph8S"
+        }
+      ],
+      "duration_ms": 128973,
+      "name": "Idrottsl\u00e4rarn e str\u00e4ng!",
+      "url": "https://open.spotify.com/track/2mNxYWVvBvNUkVT4AlhzQ8"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Bilan Faller",
-        "url": "https://open.spotify.com/album/3dTPA6G1AQMSlHFSZVb6pb"
-      },
-      "artists": [
-        {
-          "name": "B\u00f6del",
-          "url": "https://open.spotify.com/artist/5iy1KtaKm2jnxU9V1lWENa"
-        }
-      ],
-      "duration_ms": 133277,
-      "name": "Bilan Faller",
-      "url": "https://open.spotify.com/track/21380NKEU260jmXgzIuB2u"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "Rosita",
         "url": "https://open.spotify.com/album/4ub7wQzeA0WWwstboakvmg"
       },
@@ -1455,6 +1439,22 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
+        "name": "Bilan Faller",
+        "url": "https://open.spotify.com/album/3dTPA6G1AQMSlHFSZVb6pb"
+      },
+      "artists": [
+        {
+          "name": "B\u00f6del",
+          "url": "https://open.spotify.com/artist/5iy1KtaKm2jnxU9V1lWENa"
+        }
+      ],
+      "duration_ms": 133277,
+      "name": "Bilan Faller",
+      "url": "https://open.spotify.com/track/21380NKEU260jmXgzIuB2u"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
         "name": "Sisyfos",
         "url": "https://open.spotify.com/album/0lrUafceSqRFy8BLlsl8zk"
       },
@@ -1467,6 +1467,22 @@
       "duration_ms": 182706,
       "name": "Tunneln",
       "url": "https://open.spotify.com/track/3IE3ejZvxHNZ1U02OqzWrD"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Pop & V\u00e5ld",
+        "url": "https://open.spotify.com/album/39wTLSo15d9G8bi3getVhI"
+      },
+      "artists": [
+        {
+          "name": "D\u00d6DS\u00d6GONBLICKET",
+          "url": "https://open.spotify.com/artist/67xMBkNcA99pxBHDJqfZkU"
+        }
+      ],
+      "duration_ms": 96000,
+      "name": "Pop & V\u00e5ld",
+      "url": "https://open.spotify.com/track/1PDEjC3h2SPCkYHasBAnda"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1503,22 +1519,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Bipol\u00e4r & K\u00e4r",
-        "url": "https://open.spotify.com/album/60S14JbrY1QAvPLinywSVz"
-      },
-      "artists": [
-        {
-          "name": "Krispig Botten",
-          "url": "https://open.spotify.com/artist/6nSEM4Qp20aVhFWfjKfPVN"
-        }
-      ],
-      "duration_ms": 185454,
-      "name": "Bipol\u00e4r & K\u00e4r",
-      "url": "https://open.spotify.com/track/6K0sbOwK1P3XPGCxBU6YNO"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "Crippas bar",
         "url": "https://open.spotify.com/album/6R96Kks61SVVG48J2mblAl"
       },
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
+        "name": "Bipol\u00e4r & K\u00e4r",
+        "url": "https://open.spotify.com/album/60S14JbrY1QAvPLinywSVz"
+      },
+      "artists": [
+        {
+          "name": "Krispig Botten",
+          "url": "https://open.spotify.com/artist/6nSEM4Qp20aVhFWfjKfPVN"
+        }
+      ],
+      "duration_ms": 185454,
+      "name": "Bipol\u00e4r & K\u00e4r",
+      "url": "https://open.spotify.com/track/6K0sbOwK1P3XPGCxBU6YNO"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
         "name": "R\u00f6sta p\u00e5 idioter",
         "url": "https://open.spotify.com/album/19L94PymfQ5cxCXUze5wS6"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 141040,
       "name": "Fattigdom suger!",
       "url": "https://open.spotify.com/track/3N95fYz6Eca4qx70rhudiq"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
-        "name": "Pop & V\u00e5ld",
-        "url": "https://open.spotify.com/album/39wTLSo15d9G8bi3getVhI"
-      },
-      "artists": [
-        {
-          "name": "D\u00d6DS\u00d6GONBLICKET",
-          "url": "https://open.spotify.com/artist/67xMBkNcA99pxBHDJqfZkU"
-        }
-      ],
-      "duration_ms": 96000,
-      "name": "Pop & V\u00e5ld",
-      "url": "https://open.spotify.com/track/1PDEjC3h2SPCkYHasBAnda"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
+        "name": "L\u00f6rdag kan bli farlig",
+        "url": "https://open.spotify.com/album/7t5iA3DK0JCoZ1ZZaHQOJs"
+      },
+      "artists": [
+        {
+          "name": "D\u00d6DS\u00d6GONBLICKET",
+          "url": "https://open.spotify.com/artist/67xMBkNcA99pxBHDJqfZkU"
+        }
+      ],
+      "duration_ms": 100000,
+      "name": "Kroatiska Antirassedagen",
+      "url": "https://open.spotify.com/track/67G9uMyw6crZQFmXyE8uDc"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
         "name": "SKRAPADE DR\u00d6MMAR, SARGAT HOPP",
         "url": "https://open.spotify.com/album/4ZPgV9J3PVEdFrsZX0XSYu"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 182397,
       "name": "Mineralhj\u00e4rtat - Live",
       "url": "https://open.spotify.com/track/5KM3HzlTNxiJct8O7RVGvf"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
-        "name": "L\u00f6rdag kan bli farlig",
-        "url": "https://open.spotify.com/album/7t5iA3DK0JCoZ1ZZaHQOJs"
-      },
-      "artists": [
-        {
-          "name": "D\u00d6DS\u00d6GONBLICKET",
-          "url": "https://open.spotify.com/artist/67xMBkNcA99pxBHDJqfZkU"
-        }
-      ],
-      "duration_ms": 100000,
-      "name": "Kroatiska Antirassedagen",
-      "url": "https://open.spotify.com/track/67G9uMyw6crZQFmXyE8uDc"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Tecken i tiden",
-        "url": "https://open.spotify.com/album/41KuCx8jBaZ4jzsFZRonvO"
-      },
-      "artists": [
-        {
-          "name": "Charta 77",
-          "url": "https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq"
-        }
-      ],
-      "duration_ms": 189600,
-      "name": "Lilla Bj\u00f6rn Och Lilla Tiger",
-      "url": "https://open.spotify.com/track/5sgmvV6EOKw66cVmrBVlGy"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "R\u00f6jarskivan",
         "url": "https://open.spotify.com/album/1D6up4qVU32tQYaMTm6lqn"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 212893,
       "name": "Spriten r\u00e4ddad oss fr\u00e5n sporten",
       "url": "https://open.spotify.com/track/2G6fJQND1A3BGy8Upkl33n"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Tecken i tiden",
+        "url": "https://open.spotify.com/album/41KuCx8jBaZ4jzsFZRonvO"
+      },
+      "artists": [
+        {
+          "name": "Charta 77",
+          "url": "https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq"
+        }
+      ],
+      "duration_ms": 189600,
+      "name": "Lilla Bj\u00f6rn Och Lilla Tiger",
+      "url": "https://open.spotify.com/track/5sgmvV6EOKw66cVmrBVlGy"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1975,38 +1975,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Sveriges Humanit\u00e4ra Ruiner",
-        "url": "https://open.spotify.com/album/2l8g1TjEZFsSdPh96Jb6Uo"
-      },
-      "artists": [
-        {
-          "name": "Ett D\u00f6dens Maskineri",
-          "url": "https://open.spotify.com/artist/5OnVR7BCOmGxkkbjZcOQQ7"
-        }
-      ],
-      "duration_ms": 188162,
-      "name": "R\u00f6da stugor med ruttnande knutar",
-      "url": "https://open.spotify.com/track/53Rpz0CH9beiCm7n7OaVja"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
-        "name": "Kallt St\u00e5l, Varmt Blod + I f\u00e4drens sp\u00e5r",
-        "url": "https://open.spotify.com/album/2V8Gu2Ycw8ng6uY5GUmTM6"
-      },
-      "artists": [
-        {
-          "name": "Strebers",
-          "url": "https://open.spotify.com/artist/5SySCVwCUP7piTTeJdlYbZ"
-        }
-      ],
-      "duration_ms": 143560,
-      "name": "Balladen om lilla Elsa",
-      "url": "https://open.spotify.com/track/1lGvRLWhwDUiAokWhx3Kc7"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "Pyramiden",
         "url": "https://open.spotify.com/album/1feSgkNqTaKXXAxgjy6vsK"
       },
@@ -2035,6 +2003,38 @@
       "duration_ms": 169786,
       "name": "Mina polare",
       "url": "https://open.spotify.com/track/4duuMoNTupPnonWGY8B7q0"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Kallt St\u00e5l, Varmt Blod + I f\u00e4drens sp\u00e5r",
+        "url": "https://open.spotify.com/album/2V8Gu2Ycw8ng6uY5GUmTM6"
+      },
+      "artists": [
+        {
+          "name": "Strebers",
+          "url": "https://open.spotify.com/artist/5SySCVwCUP7piTTeJdlYbZ"
+        }
+      ],
+      "duration_ms": 143560,
+      "name": "Balladen om lilla Elsa",
+      "url": "https://open.spotify.com/track/1lGvRLWhwDUiAokWhx3Kc7"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Sveriges Humanit\u00e4ra Ruiner",
+        "url": "https://open.spotify.com/album/2l8g1TjEZFsSdPh96Jb6Uo"
+      },
+      "artists": [
+        {
+          "name": "Ett D\u00f6dens Maskineri",
+          "url": "https://open.spotify.com/artist/5OnVR7BCOmGxkkbjZcOQQ7"
+        }
+      ],
+      "duration_ms": 188162,
+      "name": "R\u00f6da stugor med ruttnande knutar",
+      "url": "https://open.spotify.com/track/53Rpz0CH9beiCm7n7OaVja"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -2071,18 +2071,18 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Sveriges Humanit\u00e4ra Ruiner",
-        "url": "https://open.spotify.com/album/2l8g1TjEZFsSdPh96Jb6Uo"
+        "name": "Pang du \u00e4r d\u00f6d",
+        "url": "https://open.spotify.com/album/1QL4xEdm7uU9MlbtcO6pOX"
       },
       "artists": [
         {
-          "name": "Ett D\u00f6dens Maskineri",
-          "url": "https://open.spotify.com/artist/5OnVR7BCOmGxkkbjZcOQQ7"
+          "name": "Vacum",
+          "url": "https://open.spotify.com/artist/7toGHd2HbxVXuywksD4zwO"
         }
       ],
-      "duration_ms": 135771,
-      "name": "Leviatan",
-      "url": "https://open.spotify.com/track/0ycZqaqz68u8u7nYLUdQaE"
+      "duration_ms": 160200,
+      "name": "Pang du \u00e4r d\u00f6d",
+      "url": "https://open.spotify.com/track/5snjFt767FRhSy2bs8pUpy"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -2119,22 +2119,6 @@
       "duration_ms": 152066,
       "name": "Jag Vill Ha En Slav",
       "url": "https://open.spotify.com/track/0P6UhoZknVBvw7jKzLuwtP"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
-        "name": "Pang du \u00e4r d\u00f6d",
-        "url": "https://open.spotify.com/album/1QL4xEdm7uU9MlbtcO6pOX"
-      },
-      "artists": [
-        {
-          "name": "Vacum",
-          "url": "https://open.spotify.com/artist/7toGHd2HbxVXuywksD4zwO"
-        }
-      ],
-      "duration_ms": 160200,
-      "name": "Pang du \u00e4r d\u00f6d",
-      "url": "https://open.spotify.com/track/5snjFt767FRhSy2bs8pUpy"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -2215,6 +2199,22 @@
       "duration_ms": 135333,
       "name": "Ett tusen punks",
       "url": "https://open.spotify.com/track/6gRdhMKN0VtF25pF9cV9Wg"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Sveriges Humanit\u00e4ra Ruiner",
+        "url": "https://open.spotify.com/album/2l8g1TjEZFsSdPh96Jb6Uo"
+      },
+      "artists": [
+        {
+          "name": "Ett D\u00f6dens Maskineri",
+          "url": "https://open.spotify.com/artist/5OnVR7BCOmGxkkbjZcOQQ7"
+        }
+      ],
+      "duration_ms": 135771,
+      "name": "Leviatan",
+      "url": "https://open.spotify.com/track/0ycZqaqz68u8u7nYLUdQaE"
     },
     {
       "added_at": "2024-08-29 22:00:00",

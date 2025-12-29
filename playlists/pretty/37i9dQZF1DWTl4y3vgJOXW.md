@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTl4y3vgJOXW.md) - [plain]
 
 > Fourth quarter, two minutes left .\. get locked in\. Cover: Jamal Murray and Nikola Jokić
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,836,936 likes - 99 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,837,352 likes - 99 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 460041,
+  "num_followers": 460175,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
@@ -423,22 +423,18 @@
     {
       "added_at": "2025-12-12 05:00:37",
       "album": {
-        "name": "One Mind EP",
-        "url": "https://open.spotify.com/album/6vEeCQvbjq8gK5IlhLOmkm"
+        "name": "Up Down Jumper",
+        "url": "https://open.spotify.com/album/77gAd4MCswYYXswGlBaLbv"
       },
       "artists": [
         {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
-        },
-        {
-          "name": "Amelie Lens",
-          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
         }
       ],
-      "duration_ms": 345605,
-      "name": "One Mind",
-      "url": "https://open.spotify.com/track/2Y2Ydnk6XPTe4IpOTNs5Xh"
+      "duration_ms": 432000,
+      "name": "Up Down Jumper",
+      "url": "https://open.spotify.com/track/0evYoPRWnnQ6ACNC0LJPul"
     },
     {
       "added_at": "2025-12-12 05:00:37",
@@ -463,18 +459,22 @@
     {
       "added_at": "2025-12-12 05:00:37",
       "album": {
-        "name": "Up Down Jumper",
-        "url": "https://open.spotify.com/album/77gAd4MCswYYXswGlBaLbv"
+        "name": "One Mind EP",
+        "url": "https://open.spotify.com/album/6vEeCQvbjq8gK5IlhLOmkm"
       },
       "artists": [
         {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        },
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
         }
       ],
-      "duration_ms": 432000,
-      "name": "Up Down Jumper",
-      "url": "https://open.spotify.com/track/0evYoPRWnnQ6ACNC0LJPul"
+      "duration_ms": 345605,
+      "name": "One Mind",
+      "url": "https://open.spotify.com/track/2Y2Ydnk6XPTe4IpOTNs5Xh"
     },
     {
       "added_at": "2025-12-12 05:00:37",
@@ -555,22 +555,6 @@
     {
       "added_at": "2025-12-12 05:00:37",
       "album": {
-        "name": "Legacy",
-        "url": "https://open.spotify.com/album/3e337N4JrILh8eZsyjAL2b"
-      },
-      "artists": [
-        {
-          "name": "Sara Landry",
-          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
-        }
-      ],
-      "duration_ms": 409000,
-      "name": "Legacy",
-      "url": "https://open.spotify.com/track/0aMonkh8OKgqx1K0viRHRT"
-    },
-    {
-      "added_at": "2025-12-12 05:00:37",
-      "album": {
         "name": "CONTROL YOUR BODY",
         "url": "https://open.spotify.com/album/61k2pkPgF5ky2mjy7ZrBBa"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 216000,
       "name": "CONTROL YOUR BODY",
       "url": "https://open.spotify.com/track/3xTwHPwWKMWrWgyN22Qk2h"
+    },
+    {
+      "added_at": "2025-12-12 05:00:37",
+      "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/3e337N4JrILh8eZsyjAL2b"
+      },
+      "artists": [
+        {
+          "name": "Sara Landry",
+          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+        }
+      ],
+      "duration_ms": 409000,
+      "name": "Legacy",
+      "url": "https://open.spotify.com/track/0aMonkh8OKgqx1K0viRHRT"
     },
     {
       "added_at": "2025-12-12 05:00:37",

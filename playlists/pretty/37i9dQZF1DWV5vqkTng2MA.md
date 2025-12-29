@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 
 > Make it new\. Fresh takes on vintage soul, folk, blues, and roots rock\. Cover: Kokoroko
 
-[Spotify](https://open.spotify.com/user/spotify) - 425,654 likes - 90 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 425,642 likes - 90 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,17 +86,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 | 76 | [Bend](https://open.spotify.com/track/4E6lPUe9p3eq4pqfOLxMK4) | [Jon Muq](https://open.spotify.com/artist/5zAZlJoWriAEhhOlm96vPe) | [Bend](https://open.spotify.com/album/51Z9ct66DoRH7HrJnb0Qkq) | 4:06 |
 | 77 | [Here You Come Again \(with Max Abrams\)](https://open.spotify.com/track/2YLLW5WnSLXgYbChmaP2kJ) | [The Mavericks](https://open.spotify.com/artist/4Ud7lY9V8pOyydumajSW3O), [Max Abrams](https://open.spotify.com/artist/5nniLGuXKnrlNZHQ2VaTD9) | [Here You Come Again \(with Max Abrams\)](https://open.spotify.com/album/71a6eZrAINJtg9PXcp7cWb) | 3:30 |
 | 78 | [Blind Ambition](https://open.spotify.com/track/6axOZ4BSW8rj9KbislTMrx) | [Sophia Bastian](https://open.spotify.com/artist/6K4VObADRbAt5QIPedp2ND) | [Blind Ambition](https://open.spotify.com/album/4puRLm5kd3t9qPZbmwZjX5) | 3:51 |
-| 79 | [When We Were On Fire](https://open.spotify.com/track/6YTWCuGPAYmgKc5jZJ97OJ) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [The Dark Of The Morning EP](https://open.spotify.com/album/6SWg5ON0UMQCNzSHxulEgy) | 3:59 |
-| 80 | [Blown Away](https://open.spotify.com/track/7mHBL0aq8D9DLGchZWMG48) | [Ben Goldsmith](https://open.spotify.com/artist/0PZ37cyRFUP9o9nCdfS8J8) | [Blown Away](https://open.spotify.com/album/2gKCl4Xw662KFd1VjSRjgM) | 3:14 |
-| 81 | [Got Soul](https://open.spotify.com/track/1ipnaANJ3PxKhsZGgMP4LN) | [Robert Randolph & The Family Band](https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR) | [Got Soul](https://open.spotify.com/album/1QoYDxyqJbI1zQN0LfV5mL) | 3:32 |
-| 82 | [Cheap Champagne](https://open.spotify.com/track/6kd0JbGLweEJi7wpsAkSyw) | [Wild Child](https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK) | [Cheap Champagne](https://open.spotify.com/album/1ZXj47ZiDPJMlO7uyhlQ05) | 3:53 |
-| 83 | [Shine Your Light on Me \- Recorded at Electric Lady Studios](https://open.spotify.com/track/3r53RSkovLRgkLFeAWUzHm) | [Natalie Bergman](https://open.spotify.com/artist/6YP6iGwynI5kEyNYxfxVeC) | [Live at Electric Lady](https://open.spotify.com/album/1TVFtJvROCsgKFQZHuBR4M) | 3:57 |
+| 79 | [Blown Away](https://open.spotify.com/track/7mHBL0aq8D9DLGchZWMG48) | [Ben Goldsmith](https://open.spotify.com/artist/0PZ37cyRFUP9o9nCdfS8J8) | [Blown Away](https://open.spotify.com/album/2gKCl4Xw662KFd1VjSRjgM) | 3:14 |
+| 80 | [When We Were On Fire](https://open.spotify.com/track/6YTWCuGPAYmgKc5jZJ97OJ) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [The Dark Of The Morning EP](https://open.spotify.com/album/6SWg5ON0UMQCNzSHxulEgy) | 3:59 |
+| 81 | [Cheap Champagne](https://open.spotify.com/track/6kd0JbGLweEJi7wpsAkSyw) | [Wild Child](https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK) | [Cheap Champagne](https://open.spotify.com/album/1ZXj47ZiDPJMlO7uyhlQ05) | 3:53 |
+| 82 | [Shine Your Light on Me \- Recorded at Electric Lady Studios](https://open.spotify.com/track/3r53RSkovLRgkLFeAWUzHm) | [Natalie Bergman](https://open.spotify.com/artist/6YP6iGwynI5kEyNYxfxVeC) | [Live at Electric Lady](https://open.spotify.com/album/1TVFtJvROCsgKFQZHuBR4M) | 3:57 |
+| 83 | [Got Soul](https://open.spotify.com/track/1ipnaANJ3PxKhsZGgMP4LN) | [Robert Randolph & The Family Band](https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR) | [Got Soul](https://open.spotify.com/album/1QoYDxyqJbI1zQN0LfV5mL) | 3:32 |
 | 84 | [Waterfallin'](https://open.spotify.com/track/1YGmIUqyM926YEPBauYuVM) | [Bobby Bazini](https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth) | [Waterfallin'](https://open.spotify.com/album/4rjZOcK1b0W6JVgCYqjxrq) | 3:44 |
 | 85 | [I Wonder Why](https://open.spotify.com/track/6m0BtKf29IaY6KlxHBJhGZ) | [Kacy & Clayton](https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p), [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [I Wonder Why](https://open.spotify.com/album/23Kl1huMr3rcUyLvkxNBZF) | 2:05 |
 | 86 | [Hang My Head in Shame](https://open.spotify.com/track/7lxHif999XHcMA3ER65kBy) | [Pete Molinari](https://open.spotify.com/artist/4BrRTXokeSeCxUuJcZYq57), [Barrie Cadogan](https://open.spotify.com/artist/43hBfQ8nPDcugjA8L6w1iy) | [Theosophy](https://open.spotify.com/album/1Uiz1myYQrTrmUrwZDQAhs) | 3:45 |
 | 87 | [Don't Please Yourself](https://open.spotify.com/track/2D8C5Zxq4sGwktylVkhSRt) | [Foy Vance](https://open.spotify.com/artist/19KpAubI0RsVw5AZjvnDGk) | [Watermelon Oranges](https://open.spotify.com/album/2Vy5z8CxvtXhim24ZFgAwF) | 3:27 |
 | 88 | [Who's Gonna Love You When I'm Gone](https://open.spotify.com/track/2wBUG8atVqUWfBI1zTGQUw) | [Josh Farrow](https://open.spotify.com/artist/0qPDkDToiabkQi2YhNFt4d) | [Who's Gonna Love You When I'm Gone](https://open.spotify.com/album/3UmOFxs2sglqh0XuFez1iy) | 3:39 |
-| 89 | [Washashore Cowgirl](https://open.spotify.com/track/1qPGCo93IHes6zUAbu2SpK) | [Monica Rizzio](https://open.spotify.com/artist/4mCRKdWxpAxYm80FKNHTT3) | [Washashore Cowgirl](https://open.spotify.com/album/5bVxIQAJkSEpMUJlWNyZxP) | 3:05 |
-| 90 | [Rolling Over Me](https://open.spotify.com/track/4EEsdIs0QGcO5Dc8QQH3Mm) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [Rolling Over Me](https://open.spotify.com/album/63oxuPBkp987wX1y353urb) | 4:49 |
+| 89 | [Rolling Over Me](https://open.spotify.com/track/4EEsdIs0QGcO5Dc8QQH3Mm) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [Rolling Over Me](https://open.spotify.com/album/63oxuPBkp987wX1y353urb) | 4:49 |
+| 90 | [Candid](https://open.spotify.com/track/6cB1RVjwsO9v5quck4NZR3) | [MICKY](https://open.spotify.com/artist/52vHOZO0ka2MTl3zmpB6HH) | [Candid](https://open.spotify.com/album/2GO7e9574zybPdj3bU3Kav) | 3:29 |
 
 Snapshot ID: `AAAAAOCBRMMj93nj4ZdLYk5uyp2mrIOS`

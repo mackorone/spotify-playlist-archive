@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO325LQk.md) - [plain]
 
 > This is SOPHIE\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,903 likes - 39 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,904 likes - 39 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO325LQk.md) - [plain]
 | 26 | [Whole New World \(Sophie and Doss Remix\)](https://open.spotify.com/track/00iumuIHzIc3rDViE1Vh8U) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [OIL OF EVERY PEARL'S UN\-INSIDES NON\-STOP REMIX ALBUM](https://open.spotify.com/album/04N5ZJ3wvbkb2QmkO90HUZ) | 3:30 |
 | 27 | [Forever \- SOPHIE Remix](https://open.spotify.com/track/3Wfxy69tnwong1WWXOEjyW) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [Forever \(SOPHIE Remix\)](https://open.spotify.com/album/5SXIKYD7yyI78tN5b15r6Q) | 3:39 |
 | 28 | [9 \(After Coachella\) \(feat\. MØ & SOPHIE\)](https://open.spotify.com/track/66QK2ov3jneXmdquV0JpZ1) | [Cashmere Cat](https://open.spotify.com/artist/2LZDXcxJWgsJfKXZv9a5eG), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [9](https://open.spotify.com/album/5HR24TLfeGpDT860C7qka9) | 4:32 |
-| 29 | [Live In My Truth \(feat\. BC Kingdom and LIZ\)](https://open.spotify.com/track/2OnQbbTwzHS72bcVjeRZW1) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [BC Kingdom](https://open.spotify.com/artist/7HVp0RVFZQBU8NJFZHe7vP), [LIZ](https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6) | [SOPHIE](https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU) | 4:04 |
+| 29 | [Live In My Truth \(feat\. BC Kingdom & LIZ\)](https://open.spotify.com/track/5lnau4jYpzDIPIavlqQWPy) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [BC Kingdom](https://open.spotify.com/artist/7HVp0RVFZQBU8NJFZHe7vP), [LIZ](https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6) | [SOPHIE](https://open.spotify.com/album/0Oq6SlyCH8N77Ou4o6sDWI) | 4:04 |
 | 30 | [Cold Water](https://open.spotify.com/track/3qNjFM6QCj0eWllhAXSFLy) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES NON\-STOP REMIX ALBUM](https://open.spotify.com/album/04N5ZJ3wvbkb2QmkO90HUZ) | 3:41 |
 | 31 | [clown shit \(up the wall\) \[SOPHIE Remix\]](https://open.spotify.com/track/4fORekngPoCqeJpe3xg6GQ) | [BABYNYMPH](https://open.spotify.com/artist/2ecIs55o71mEFMhkcaUnyB), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [clown shit \(up the wall\) \[SOPHIE Remix\]](https://open.spotify.com/album/0w3ZduXZIPEMktyyVmEAbr) | 6:27 |
 | 32 | [METAL](https://open.spotify.com/track/7afPjxQevZSbFzo77zDO2G) | [JIMMY EDGAR](https://open.spotify.com/artist/3qIRQKST5KCIIKWgmPTY2M), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [CHEETAH BEND](https://open.spotify.com/album/2kVNzMqVeQItTdeebUtWnb) | 3:20 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO325LQk.md) - [plain]
 | 38 | [Do You Wanna Be Alive \(feat\. BIG SISTER\)](https://open.spotify.com/track/04wXkr0ZwuLU4h4qMdv11h) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [BIG SISTER](https://open.spotify.com/artist/47V5PmiM2OZbksll1O7se1) | [SOPHIE](https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU) | 4:10 |
 | 39 | [XTC Acid](https://open.spotify.com/track/3OEWAz5xzGYEBdXhnP65KI) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES NON\-STOP REMIX ALBUM](https://open.spotify.com/album/7vQKfsKKrI0xObMqojazHR) | 3:11 |
 
-Snapshot ID: `aU3QAAAAAAA2q5KuooSVinH84+eu7aB0`
+Snapshot ID: `aU8hgAAAAAD2XTPYwGcPtk/fZUi4Layc`

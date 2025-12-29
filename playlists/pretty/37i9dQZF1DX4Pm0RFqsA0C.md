@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Pm0RFqsA0C.md) - [plain]
 
 > 90년대 댄스를 즐기고 싶은 사람 손!
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,787 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,799 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Pm0RFqsA0C.md) - [plain]
 | 19 | [Full of happiness](https://open.spotify.com/track/2ppv5E2a22qoXwYdL6GjvS) | [H.O.T.](https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS) | [Wolf And Sheep](https://open.spotify.com/album/2RWrsv0kIKreXvm7IrMeYN) | 3:31 |
 | 20 | [White love](https://open.spotify.com/track/3DMDjAQIOltnIUvIyUjUT4) | [TURBO](https://open.spotify.com/artist/3aboSJaljyYlTRXt7pEH0G) | [PERFECT LOVE](https://open.spotify.com/album/5a9jEV89Z6yWa6zxam79of) | 3:20 |
 | 21 | [3!4!](https://open.spotify.com/track/5ZRS1jfampQ4mVfNidYZfk) | [Roo'RA](https://open.spotify.com/artist/7bb3cdFh1kkHdopjeJRgca) | [All System Go](https://open.spotify.com/album/7tyc2JJtnIBo4hKDmhCgjk) | 4:09 |
-| 22 | [White](https://open.spotify.com/track/37Bv9wyQg01DjaMe4uj93a) | [Fin.K.L](https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS) | [Special](https://open.spotify.com/album/4X2WK3i0Gkxv42SedSbWoW) | 3:54 |
-| 23 | [Tears](https://open.spotify.com/track/4NgdVR2U1DJZB80ZQNllbJ) | [소찬휘](https://open.spotify.com/artist/6bl5Yi58zpOeD5JgP8nEdv) | [First Bridge](https://open.spotify.com/album/69x6z028cL1a0boFB82dqK) | 3:56 |
+| 22 | [Tears](https://open.spotify.com/track/4NgdVR2U1DJZB80ZQNllbJ) | [소찬휘](https://open.spotify.com/artist/6bl5Yi58zpOeD5JgP8nEdv) | [First Bridge](https://open.spotify.com/album/69x6z028cL1a0boFB82dqK) | 3:56 |
+| 23 | [White](https://open.spotify.com/track/37Bv9wyQg01DjaMe4uj93a) | [Fin.K.L](https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS) | [Special](https://open.spotify.com/album/4X2WK3i0Gkxv42SedSbWoW) | 3:54 |
 | 24 | [Hope](https://open.spotify.com/track/0LW6E8rEAltX9Svci5M3Z1) | [H.O.T.](https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS) | [Resurrection \- The 3rd Album](https://open.spotify.com/album/0yJ02boB03UsjObzoXJ5O4) | 4:20 |
 | 25 | [To Heaven](https://open.spotify.com/track/4SULy2zFlFpmIPP7KFFTyT) | [Jo Sung Mo](https://open.spotify.com/artist/52IPniXhQmDTYa5xQnoA2K) | [To Heaven](https://open.spotify.com/album/31IqkuM3AcPWni0vIJZvep) | 4:10 |
 | 26 | [한 남자](https://open.spotify.com/track/0KjswKgBYLO65T674Hvldc) | [Kim Jong Kook](https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG) | [Evolution](https://open.spotify.com/album/127CxMmFX7bctgIccMVPib) | 4:18 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Pm0RFqsA0C.md) - [plain]
 | 69 | [Sad Fate](https://open.spotify.com/track/3cgyPqSOEKIjW63CeOyJb1) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7) | [Big 5](https://open.spotify.com/album/1jePHxR3ksfXevvOi2IiiN) | 4:04 |
 | 70 | [Sea Of Love](https://open.spotify.com/track/02AThDf6z3YEYObZdqskyB) | [FLY TO THE SKY](https://open.spotify.com/artist/7rlMZAZYtRkjFg4HHhvYeC) | [Back in Time](https://open.spotify.com/album/7avQrMgx6JDi4gT1KM15zt) | 4:15 |
 | 71 | [Com\` Back](https://open.spotify.com/track/2I0ZI9OGrihh0Dbn8RVSr8) | [SECHSKIES](https://open.spotify.com/artist/6uRyNreOHUvWPNGnKfIo27) | [Com\` Back](https://open.spotify.com/album/3XWtqLXDZycu7Q0BGofhiq) | 3:52 |
-| 72 | [줄래](https://open.spotify.com/track/4FTvU2w2rqzAky3kqmlAbR) | [이정현](https://open.spotify.com/artist/1A3vuBmPryol3FWagK8Tt7) | [너](https://open.spotify.com/album/433LePSBO75zIaAp2Pr2rk) | 3:42 |
-| 73 | [Magic carpet ride](https://open.spotify.com/track/5rtSUuJx5VMaG88z9YEJUa) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [Jaurim, The Wonder Land](https://open.spotify.com/album/5e0Jv8JbDWQxbRZq3xhZE3) | 3:33 |
+| 72 | [Magic carpet ride](https://open.spotify.com/track/5rtSUuJx5VMaG88z9YEJUa) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [Jaurim, The Wonder Land](https://open.spotify.com/album/5e0Jv8JbDWQxbRZq3xhZE3) | 3:33 |
+| 73 | [줄래](https://open.spotify.com/track/4FTvU2w2rqzAky3kqmlAbR) | [이정현](https://open.spotify.com/artist/1A3vuBmPryol3FWagK8Tt7) | [너](https://open.spotify.com/album/433LePSBO75zIaAp2Pr2rk) | 3:42 |
 | 74 | [비밀은 없어](https://open.spotify.com/track/0LRuYG5HETbxUnUwcfjQYf) | [Roo'RA](https://open.spotify.com/artist/7bb3cdFh1kkHdopjeJRgca) | [Roo\`ra Best Album](https://open.spotify.com/album/0Oo0yUuomioW1BfFs6tNMm) | 4:03 |
 | 75 | [The Rose of Betrayal](https://open.spotify.com/track/08NeKzNpojEoIjiGVVZMh4) | [Uhm Jung Hwa](https://open.spotify.com/artist/7xGZWuU7JrDQmJ00L9UzhB) | [All Details](https://open.spotify.com/album/2XTDT3Dae6mzMhyhVKU16Z) | 3:36 |
 | 76 | [째즈 카페](https://open.spotify.com/track/0SwSiNArqc58nd21Zfj1Ow) | [Byun Jin\-Sub](https://open.spotify.com/artist/19TSeYJNZVClzoWb6hUVr7), [Shin Hae Chul](https://open.spotify.com/artist/0X7uU5t8s4p9vXE4PjPvfn) | [신해철](https://open.spotify.com/album/4m0fkoRpLFiJALSqwZ1ibX) | 4:58 |

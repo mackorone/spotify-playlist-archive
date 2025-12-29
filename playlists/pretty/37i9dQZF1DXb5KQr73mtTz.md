@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 
 > 이별, 슬픔, 공허함\. 나의 우울에 공감해보세요
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,927 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,934 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [A Lie That Says I'm Fine](https://open.spotify.com/track/42UMF5PTrHF10go5IRzmFE) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [Dynamite Kiss \(Original Television Soundtrack\), Pt.6](https://open.spotify.com/album/2Mtcqih5r7TMsLnUYMkCn3) | 3:52 |
 | 2 | [Stay with Me](https://open.spotify.com/track/3BFyF2M5Gh3A4X9m5PkKJ5) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [Bon Appetit Your Majesty \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/60SQJ2yJyr5wex5AVtziUJ) | 3:55 |
 | 3 | [Still Here](https://open.spotify.com/track/2el8yRLvLFS5sxdcqjhDLS) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [EXchange4, Pt\. 6 \(Original Soundtrack\)](https://open.spotify.com/album/6DnjKL09yARkT22fUCULgQ) | 3:32 |
-| 4 | [Ending Scene](https://open.spotify.com/track/06EMBzxDm2hueehobAlMtm) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Palette](https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp) | 4:09 |
+| 4 | [Even if you leave,](https://open.spotify.com/track/7sxUb59tfiuzagetBF47AN) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [Even if you leave,](https://open.spotify.com/album/4U0OHQ6lGmBsbY15DAtLGx) | 4:32 |
 | 5 | [Only for You](https://open.spotify.com/track/3vKAAh1JFuC7EakZPtT7ve) | [ZO ZAZZ](https://open.spotify.com/artist/7oefVAcL2YuRdata5VCUzf) | [Only for You \(Original Soundtrack from Last Summer\)](https://open.spotify.com/album/11CI2a9Aif2XJCu9TzxTx1) | 3:37 |
-| 6 | [Even if you leave,](https://open.spotify.com/track/7sxUb59tfiuzagetBF47AN) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [Even if you leave,](https://open.spotify.com/album/4U0OHQ6lGmBsbY15DAtLGx) | 4:32 |
+| 6 | [Ending Scene](https://open.spotify.com/track/06EMBzxDm2hueehobAlMtm) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Palette](https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp) | 4:09 |
 | 7 | [If We Could Meet Again](https://open.spotify.com/track/6m1XkkjDHvc0ig0SZ1YHFF) | [Ha Yea Song](https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3) | [If We Could Meet Again](https://open.spotify.com/album/0FRj5aoIeAtaVzcgke3kIU) | 3:18 |
 | 8 | [Only Then](https://open.spotify.com/track/7mFigNlS2dsKMhcmJyfpeg) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Only Then](https://open.spotify.com/album/4erAMXv1Uin2wnf1vW4Eqq) | 4:08 |
 | 9 | [Without you, to you](https://open.spotify.com/track/6qlrqJaSc0qn8f6q1Vj2Pz) | [2F \(Shin Yong Jae & Kim Won Joo\)](https://open.spotify.com/artist/18eoBXZNSelqRStZ56P0JT) | [Without you, to you](https://open.spotify.com/album/71nMKto6MbcTKkonLC5Vyw) | 3:59 |
@@ -41,22 +41,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5KQr73mtTz.md) - [plain]
 | 31 | [one summer](https://open.spotify.com/track/7EAkXA5TvfYOYE9EzE3mtc) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [one summer](https://open.spotify.com/album/1dSFPUYpKZiSdBb4jonPPK) | 3:59 |
 | 32 | [In your heart](https://open.spotify.com/track/7lgrRhx7ExnO4WBofwYeTR) | [Lim Hyunsik](https://open.spotify.com/artist/0SA2I3s4t7hmv1XVvky9Po) | [In your heart](https://open.spotify.com/album/3BKTYYwjrDoTP3iruSLX0P) | 3:41 |
 | 33 | [Dear you \(Romance 101 X LeeHi\)](https://open.spotify.com/track/3Hl54jMVxsDipnNQXG2xnV) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Dear you \(Romance 101 X LeeHi\)](https://open.spotify.com/album/75Y3SPWFUwaiVnWuwAjMSg) | 3:39 |
-| 34 | [Alone](https://open.spotify.com/track/2Q5mTPRcFn3XBqbqQPJcRP) | [LEECHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [To The Moon, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/5d88TCHNICuw05DwoIzxS1) | 3:54 |
-| 35 | [How about you](https://open.spotify.com/track/6ph9CwuzgnCii8NsJ1JJ0G) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [STAR](https://open.spotify.com/album/1MUyyE12R9UI3ySu6QPBvz) | 4:21 |
+| 34 | [How about you](https://open.spotify.com/track/6ph9CwuzgnCii8NsJ1JJ0G) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [STAR](https://open.spotify.com/album/1MUyyE12R9UI3ySu6QPBvz) | 4:21 |
+| 35 | [Alone](https://open.spotify.com/track/2Q5mTPRcFn3XBqbqQPJcRP) | [LEECHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [To The Moon, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/5d88TCHNICuw05DwoIzxS1) | 3:54 |
 | 36 | [제발](https://open.spotify.com/track/4vWxth95aPGidkuJC8eVEz) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [꽃](https://open.spotify.com/album/63hUBu2nqXg7EoDMHnC7pg) | 4:18 |
 | 37 | [Meaningless](https://open.spotify.com/track/3scpCy6R3B2V8zmD2lBq5u) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Meaningless](https://open.spotify.com/album/2dPStHpSaa9pKPudsLg4Xe) | 2:40 |
 | 38 | [가득 빈 마음에](https://open.spotify.com/track/5wfmGokIYWd3nanQiZhbUE) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [제30회 유재하 음악경연대회](https://open.spotify.com/album/3ZjVQ2syixv8QLunQXYvRO) | 2:57 |
 | 39 | [Star \(Feat\. 10CM\)](https://open.spotify.com/track/42LBHPwYS9g5lDbLxk0LCg) | [DAWN 던](https://open.spotify.com/artist/7DxCK6bwfQC3F2ajZ02R2F), [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Narcissus](https://open.spotify.com/album/3fJW2iurWA0QBCMc3qrFwh) | 3:15 |
 | 40 | [How have you been](https://open.spotify.com/track/0ydUYcJeaUlOaFOFV6o1e1) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [The Dreamest](https://open.spotify.com/album/3WlZ4ckBpoZeZCTVGF7fXV) | 4:30 |
-| 41 | [Last Promise](https://open.spotify.com/track/7LFoFmLJW7WW341o6Lb1TW) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Last Promise](https://open.spotify.com/album/1RjWMmrAfaXvYtwOTfbgsY) | 3:59 |
-| 42 | [Clockwork](https://open.spotify.com/track/09SIbdUVr34sBd7Uwwt63J) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Never Gonna Dance Again : Act 1 \- The 3rd Album](https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf) | 3:47 |
+| 41 | [Clockwork](https://open.spotify.com/track/09SIbdUVr34sBd7Uwwt63J) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Never Gonna Dance Again : Act 1 \- The 3rd Album](https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf) | 3:47 |
+| 42 | [Last Promise](https://open.spotify.com/track/7LFoFmLJW7WW341o6Lb1TW) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Last Promise](https://open.spotify.com/album/1RjWMmrAfaXvYtwOTfbgsY) | 3:59 |
 | 43 | [The season of our beginning](https://open.spotify.com/track/103b4ZkHWGyGJtU4VbWjWF) | [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [My Youth \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/6V8zQCogf0Nxlwm9CakIJu) | 4:09 |
 | 44 | [Peach Tree](https://open.spotify.com/track/1BvWybrWuF4oMpGZC5SQ2L) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Captivating the King, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/22XVg0cCq12J8QT0vOdtDx) | 3:44 |
 | 45 | [Empty](https://open.spotify.com/track/79pnJjoMNfFYAdW90Yd8Fr) | [Lee Seung Gi](https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi) | [Empty](https://open.spotify.com/album/4HEYF3e5FR2nVhlGQ7XQLO) | 3:38 |
 | 46 | [RAINY DAYS](https://open.spotify.com/track/5fmDzAwCLpKYx1AEe9W3ny) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Hierarchy \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0FZw7AB2o6PKKMDXyntdIJ) | 3:34 |
 | 47 | [All Alone](https://open.spotify.com/track/6mAOmvG8Yd9EG8eImGiUZq) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [GOOD BOY \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/6coRsiCmV1xstlSAnk0qVM) | 4:24 |
-| 48 | [Here We Are](https://open.spotify.com/track/1ojMUMVW07SgOFXCiPEbsr) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [My Liberation Notes OST Part 11](https://open.spotify.com/album/44bjY6dv0qG7OghlaiGQ0A) | 4:19 |
-| 49 | [Sunny](https://open.spotify.com/track/3s8c5I3sR7hGy6BfGgnM6T) | [Kim Hyunchang](https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB) | [long to be the garden](https://open.spotify.com/album/1hpg1QLQr7mmyW7XsrxJfq) | 3:12 |
+| 48 | [Sunny](https://open.spotify.com/track/3s8c5I3sR7hGy6BfGgnM6T) | [Kim Hyunchang](https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB) | [long to be the garden](https://open.spotify.com/album/1hpg1QLQr7mmyW7XsrxJfq) | 3:12 |
+| 49 | [Here We Are](https://open.spotify.com/track/1ojMUMVW07SgOFXCiPEbsr) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [My Liberation Notes OST Part 11](https://open.spotify.com/album/44bjY6dv0qG7OghlaiGQ0A) | 4:19 |
 | 50 | [Burden](https://open.spotify.com/track/2tbYDW5Y8jN0XbpT5lPYdt) | [Jo Hyun Ah](https://open.spotify.com/artist/7aVeZFWXIC3g4b0Tn68ZtI) | [Head over Heels, Pt\. 7 \(Original Soundtrack\)](https://open.spotify.com/album/4jMRD0aqyZQDOxz5rke3s1) | 4:46 |
 
 Snapshot ID: `AAAAAK3lwu0pB1sRq3Hp0kvewg+ZJmoE`

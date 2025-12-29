@@ -1,12 +1,12 @@
 {
   "description": "This is Alexander Stewart. The essential tracks, all in one playlist.",
-  "num_followers": 35853,
+  "num_followers": 35848,
   "original_name": "This Is Alexander Stewart",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU3QAAAAAAD5h1dWDLHibp7/Lc+YenX+",
+  "snapshot_id": "aU8hgAAAAADQwl4NsJyyTdJLgdd6sBnp",
   "tracks": [
     {
       "added_at": null,
@@ -47,8 +47,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "bleeding heart",
-        "url": "https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au"
+        "name": "blame's on me",
+        "url": "https://open.spotify.com/album/1dpLDMwavEN9eXN23N7liY"
       },
       "artists": [
         {
@@ -56,9 +56,9 @@
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 138400,
+      "duration_ms": 138374,
       "name": "blame's on me",
-      "url": "https://open.spotify.com/track/6L1kMQmgnMDtjlPKie9MQh"
+      "url": "https://open.spotify.com/track/1veHwv1HPwzOvlhs5jPxeP"
     },
     {
       "added_at": null,
@@ -147,22 +147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Here Again",
-        "url": "https://open.spotify.com/album/6nQqcSZTqkVmCLJ7OAbZiP"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 165533,
-      "name": "Here Again",
-      "url": "https://open.spotify.com/track/7jPJda9RNx6cD5VhsIgGa7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Scared of Myself",
         "url": "https://open.spotify.com/album/6rHizPeJ2LhsHjCI6jv4Ha"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 198400,
       "name": "Scared of Myself",
       "url": "https://open.spotify.com/track/5VbDVHAwEj0rHyQe1PwGTe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Here Again",
+        "url": "https://open.spotify.com/album/6nQqcSZTqkVmCLJ7OAbZiP"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 165533,
+      "name": "Here Again",
+      "url": "https://open.spotify.com/track/7jPJda9RNx6cD5VhsIgGa7"
     },
     {
       "added_at": null,
@@ -403,6 +403,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "His Problem Instead",
+        "url": "https://open.spotify.com/album/5fZOdQPitNTyse0FdA02B7"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 163989,
+      "name": "His Problem Instead",
+      "url": "https://open.spotify.com/track/75UcWeilf2s0ZxzNBJLrJA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Would You Lie",
         "url": "https://open.spotify.com/album/3gcHGmgDIWkXg3ZeBm719V"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 214647,
       "name": "Would You Lie",
       "url": "https://open.spotify.com/track/1M54nLzTxoQFjC0g8H11Bk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "His Problem Instead",
-        "url": "https://open.spotify.com/album/5fZOdQPitNTyse0FdA02B7"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 163989,
-      "name": "His Problem Instead",
-      "url": "https://open.spotify.com/track/75UcWeilf2s0ZxzNBJLrJA"
     },
     {
       "added_at": null,
@@ -639,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "bleeding heart",
+        "url": "https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 214133,
+      "name": "all these years",
+      "url": "https://open.spotify.com/track/0FtwNRIbtna2kdrOKUV5o2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "back to you",
         "url": "https://open.spotify.com/album/64IQBabtZ8YzeZVMuxoS5z"
       },
@@ -655,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "24 Hours",
-        "url": "https://open.spotify.com/album/1huVzctnZbPXdXws24VOwz"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 198333,
-      "name": "24 Hours",
-      "url": "https://open.spotify.com/track/1ZGxwxXbpeydURjPS9mrmL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "if you only knew",
         "url": "https://open.spotify.com/album/4b2PgBQEZbvwkKwNPlqrBy"
       },
@@ -683,6 +683,22 @@
       "duration_ms": 167586,
       "name": "october",
       "url": "https://open.spotify.com/track/65MVDci6jCmNj55alfHx3E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "24 Hours",
+        "url": "https://open.spotify.com/album/1huVzctnZbPXdXws24VOwz"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 198333,
+      "name": "24 Hours",
+      "url": "https://open.spotify.com/track/1ZGxwxXbpeydURjPS9mrmL"
     },
     {
       "added_at": null,

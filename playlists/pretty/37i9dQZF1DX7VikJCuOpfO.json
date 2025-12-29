@@ -1,6 +1,6 @@
 {
   "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: El Fastasma \ud83d\udcf8",
-  "num_followers": 366448,
+  "num_followers": 366452,
   "original_name": "Mariachi 2025",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,6 @@
     {
       "added_at": "2025-11-21 16:19:48",
       "album": {
-        "name": "La Llorona",
-        "url": "https://open.spotify.com/album/1SrgjuCekkVs95avp3jG2I"
-      },
-      "artists": [
-        {
-          "name": "Cuisillos De Arturo Macias",
-          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
-        }
-      ],
-      "duration_ms": 410307,
-      "name": "La Llorona",
-      "url": "https://open.spotify.com/track/1vXiscTkiwtQR9pAE35Qwy"
-    },
-    {
-      "added_at": "2025-11-21 16:19:48",
-      "album": {
         "name": "Bien, \u00bfy t\u00fa?",
         "url": "https://open.spotify.com/album/6LSXEs2Wn7csYdSpDYOjDg"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 180000,
       "name": "Bien, \u00bfy t\u00fa?",
       "url": "https://open.spotify.com/track/1OeX0eRRvPohNW6aaYDeZP"
+    },
+    {
+      "added_at": "2025-11-21 16:19:48",
+      "album": {
+        "name": "La Llorona",
+        "url": "https://open.spotify.com/album/1SrgjuCekkVs95avp3jG2I"
+      },
+      "artists": [
+        {
+          "name": "Cuisillos De Arturo Macias",
+          "url": "https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4"
+        }
+      ],
+      "duration_ms": 410307,
+      "name": "La Llorona",
+      "url": "https://open.spotify.com/track/1vXiscTkiwtQR9pAE35Qwy"
     },
     {
       "added_at": "2025-11-21 16:19:48",
@@ -835,18 +835,22 @@
     {
       "added_at": "2025-11-21 16:19:48",
       "album": {
-        "name": "As\u00ed Son Las Cosas",
-        "url": "https://open.spotify.com/album/3lKiOwzv44vFdJgkKLKRCv"
+        "name": "Veracruz",
+        "url": "https://open.spotify.com/album/6tCecFMuaL2t6XKMEpaik5"
       },
       "artists": [
         {
           "name": "Majo Aguilar",
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        },
+        {
+          "name": "Jos\u00e9 Carrillo",
+          "url": "https://open.spotify.com/artist/3kmTyamfgyWHD7CNRMS7Uz"
         }
       ],
-      "duration_ms": 171529,
-      "name": "As\u00ed Son Las Cosas",
-      "url": "https://open.spotify.com/track/7K0saaGY6hqR1nSnktfDwm"
+      "duration_ms": 222236,
+      "name": "Veracruz",
+      "url": "https://open.spotify.com/track/3PEV3y8RtnPxU90ACL0SIG"
     },
     {
       "added_at": "2025-11-21 16:19:48",
@@ -919,22 +923,18 @@
     {
       "added_at": "2025-11-21 16:19:48",
       "album": {
-        "name": "Veracruz",
-        "url": "https://open.spotify.com/album/6tCecFMuaL2t6XKMEpaik5"
+        "name": "As\u00ed Son Las Cosas",
+        "url": "https://open.spotify.com/album/3lKiOwzv44vFdJgkKLKRCv"
       },
       "artists": [
         {
           "name": "Majo Aguilar",
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        },
-        {
-          "name": "Jos\u00e9 Carrillo",
-          "url": "https://open.spotify.com/artist/3kmTyamfgyWHD7CNRMS7Uz"
         }
       ],
-      "duration_ms": 222236,
-      "name": "Veracruz",
-      "url": "https://open.spotify.com/track/3PEV3y8RtnPxU90ACL0SIG"
+      "duration_ms": 171529,
+      "name": "As\u00ed Son Las Cosas",
+      "url": "https://open.spotify.com/track/7K0saaGY6hqR1nSnktfDwm"
     },
     {
       "added_at": "2025-11-21 16:19:48",
@@ -979,26 +979,18 @@
     {
       "added_at": "2025-11-21 16:19:48",
       "album": {
-        "name": "Los Laureles",
-        "url": "https://open.spotify.com/album/7w2q18216uYakqsqunta9s"
+        "name": "Te Confirmo",
+        "url": "https://open.spotify.com/album/5PiY23sY3DYr3WCoSxYzU8"
       },
       "artists": [
         {
           "name": "Pepe Aguilar",
           "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        },
-        {
-          "name": "Josi Cuen",
-          "url": "https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY"
-        },
-        {
-          "name": "Jorge Medina",
-          "url": "https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf"
         }
       ],
-      "duration_ms": 147521,
-      "name": "Los Laureles",
-      "url": "https://open.spotify.com/track/0LVbuuyK3lvOQefpuvJvP2"
+      "duration_ms": 222130,
+      "name": "Te Confirmo",
+      "url": "https://open.spotify.com/track/5ERptxNHTBkofggIcIcQ9X"
     },
     {
       "added_at": "2025-11-21 16:19:48",
@@ -1067,18 +1059,26 @@
     {
       "added_at": "2025-11-21 16:19:48",
       "album": {
-        "name": "Te Confirmo",
-        "url": "https://open.spotify.com/album/5PiY23sY3DYr3WCoSxYzU8"
+        "name": "Los Laureles",
+        "url": "https://open.spotify.com/album/7w2q18216uYakqsqunta9s"
       },
       "artists": [
         {
           "name": "Pepe Aguilar",
           "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        },
+        {
+          "name": "Josi Cuen",
+          "url": "https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY"
+        },
+        {
+          "name": "Jorge Medina",
+          "url": "https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf"
         }
       ],
-      "duration_ms": 222130,
-      "name": "Te Confirmo",
-      "url": "https://open.spotify.com/track/5ERptxNHTBkofggIcIcQ9X"
+      "duration_ms": 147521,
+      "name": "Los Laureles",
+      "url": "https://open.spotify.com/track/0LVbuuyK3lvOQefpuvJvP2"
     },
     {
       "added_at": "2025-11-21 16:19:48",
@@ -1139,8 +1139,8 @@
     {
       "added_at": "2025-11-21 16:19:48",
       "album": {
-        "name": "No Puedo Dormir Sin Ti",
-        "url": "https://open.spotify.com/album/4UrvWrrtcjHRKkOO0wn2iN"
+        "name": "La Caminera",
+        "url": "https://open.spotify.com/album/7siwCssx8fWnknViHVzggI"
       },
       "artists": [
         {
@@ -1148,9 +1148,9 @@
           "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
         }
       ],
-      "duration_ms": 180373,
-      "name": "No Puedo Dormir Sin Ti",
-      "url": "https://open.spotify.com/track/773beyEPLYvmszoKYz9n2L"
+      "duration_ms": 143306,
+      "name": "La Caminera",
+      "url": "https://open.spotify.com/track/0CxFWDJHtLHKwJe9GPhD7r"
     },
     {
       "added_at": "2025-11-21 16:19:48",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2025-11-21 16:19:48",
       "album": {
-        "name": "Carita de Cielo",
-        "url": "https://open.spotify.com/album/6BMtbEa12nF3mTxpAMSPFX"
-      },
-      "artists": [
-        {
-          "name": "Eugenia Leon",
-          "url": "https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Carita de Cielo",
-      "url": "https://open.spotify.com/track/3mBqYBDWeI3FYstFu2IPtu"
-    },
-    {
-      "added_at": "2025-11-21 16:19:48",
-      "album": {
         "name": "La Corona Es M\u00eda",
         "url": "https://open.spotify.com/album/0DusDv4Kf4GPjtsUwyAA5B"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 167133,
       "name": "Dame un Beso",
       "url": "https://open.spotify.com/track/2zdSBqAr58KRhTBxy4QJqP"
+    },
+    {
+      "added_at": "2025-11-21 16:19:48",
+      "album": {
+        "name": "Carita de Cielo",
+        "url": "https://open.spotify.com/album/6BMtbEa12nF3mTxpAMSPFX"
+      },
+      "artists": [
+        {
+          "name": "Eugenia Leon",
+          "url": "https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Carita de Cielo",
+      "url": "https://open.spotify.com/track/3mBqYBDWeI3FYstFu2IPtu"
     },
     {
       "added_at": "2025-11-21 16:19:48",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2025-11-21 16:19:48",
       "album": {
-        "name": "Chiquitita",
-        "url": "https://open.spotify.com/album/2SlZ9wQQMpi2J4AL2lMpLr"
-      },
-      "artists": [
-        {
-          "name": "Grijalba",
-          "url": "https://open.spotify.com/artist/0jLbMBpFvGSqYLGFQ1Eyed"
-        }
-      ],
-      "duration_ms": 140593,
-      "name": "Chiquitita",
-      "url": "https://open.spotify.com/track/7ysVmGcKGac1HJyVfThJWM"
-    },
-    {
-      "added_at": "2025-11-21 16:19:48",
-      "album": {
         "name": "SE\u00d1ORA HITS",
         "url": "https://open.spotify.com/album/5SLkeWgZdIPK7eGpHav19F"
       },
@@ -1515,18 +1499,18 @@
     {
       "added_at": "2025-11-21 16:19:48",
       "album": {
-        "name": "Si Ya Te Valgo",
-        "url": "https://open.spotify.com/album/0oARXF9EAgJSD7ZZVHXE4r"
+        "name": "Chiquitita",
+        "url": "https://open.spotify.com/album/2SlZ9wQQMpi2J4AL2lMpLr"
       },
       "artists": [
         {
-          "name": "Rubi Canseco",
-          "url": "https://open.spotify.com/artist/4bXV1OuSS59mLTBUIuYq1E"
+          "name": "Grijalba",
+          "url": "https://open.spotify.com/artist/0jLbMBpFvGSqYLGFQ1Eyed"
         }
       ],
-      "duration_ms": 149500,
-      "name": "Si Ya Te Valgo",
-      "url": "https://open.spotify.com/track/1lQqIaZgT1wP1Pftp3f1is"
+      "duration_ms": 140593,
+      "name": "Chiquitita",
+      "url": "https://open.spotify.com/track/7ysVmGcKGac1HJyVfThJWM"
     },
     {
       "added_at": "2025-11-21 16:19:48",
@@ -1547,6 +1531,22 @@
     {
       "added_at": "2025-11-21 16:19:48",
       "album": {
+        "name": "Si Ya Te Valgo",
+        "url": "https://open.spotify.com/album/0oARXF9EAgJSD7ZZVHXE4r"
+      },
+      "artists": [
+        {
+          "name": "Rubi Canseco",
+          "url": "https://open.spotify.com/artist/4bXV1OuSS59mLTBUIuYq1E"
+        }
+      ],
+      "duration_ms": 149500,
+      "name": "Si Ya Te Valgo",
+      "url": "https://open.spotify.com/track/1lQqIaZgT1wP1Pftp3f1is"
+    },
+    {
+      "added_at": "2025-11-21 16:19:48",
+      "album": {
         "name": "#RANCHICAN",
         "url": "https://open.spotify.com/album/7yUCGDx0gG1T0kOH1Po7R0"
       },
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2025-11-21 16:19:48",
       "album": {
-        "name": "No Vuelvo A Enamorarme",
-        "url": "https://open.spotify.com/album/6Bfg2NgnpQCfoeYyPeU2yP"
-      },
-      "artists": [
-        {
-          "name": "Grijalba",
-          "url": "https://open.spotify.com/artist/0jLbMBpFvGSqYLGFQ1Eyed"
-        }
-      ],
-      "duration_ms": 187833,
-      "name": "No Vuelvo A Enamorarme",
-      "url": "https://open.spotify.com/track/29DTBWazMyHbdh3d4iT8nj"
-    },
-    {
-      "added_at": "2025-11-21 16:19:48",
-      "album": {
         "name": "Por Un Amor",
         "url": "https://open.spotify.com/album/63qH4h7v9uiSRyM0gpTlkf"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 193058,
       "name": "Por Un Amor",
       "url": "https://open.spotify.com/track/4rFtWFtLAXsW3bWZUApLwN"
+    },
+    {
+      "added_at": "2025-11-21 16:19:48",
+      "album": {
+        "name": "No Vuelvo A Enamorarme",
+        "url": "https://open.spotify.com/album/6Bfg2NgnpQCfoeYyPeU2yP"
+      },
+      "artists": [
+        {
+          "name": "Grijalba",
+          "url": "https://open.spotify.com/artist/0jLbMBpFvGSqYLGFQ1Eyed"
+        }
+      ],
+      "duration_ms": 187833,
+      "name": "No Vuelvo A Enamorarme",
+      "url": "https://open.spotify.com/track/29DTBWazMyHbdh3d4iT8nj"
     },
     {
       "added_at": "2025-11-21 16:19:48",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2025-11-21 16:19:48",
       "album": {
-        "name": "La Caminera",
-        "url": "https://open.spotify.com/album/7siwCssx8fWnknViHVzggI"
-      },
-      "artists": [
-        {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
-        }
-      ],
-      "duration_ms": 143306,
-      "name": "La Caminera",
-      "url": "https://open.spotify.com/track/0CxFWDJHtLHKwJe9GPhD7r"
-    },
-    {
-      "added_at": "2025-11-21 16:19:48",
-      "album": {
         "name": "Ay\u00fadame A Creer",
         "url": "https://open.spotify.com/album/5vPtj5uWwqhfUbnG4HT7jH"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 214666,
       "name": "Ay\u00fadame A Creer",
       "url": "https://open.spotify.com/track/6H9xYR8UCcVKQhCeJpBoBL"
+    },
+    {
+      "added_at": "2025-11-21 16:19:48",
+      "album": {
+        "name": "No Puedo Dormir Sin Ti",
+        "url": "https://open.spotify.com/album/4UrvWrrtcjHRKkOO0wn2iN"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "duration_ms": 180373,
+      "name": "No Puedo Dormir Sin Ti",
+      "url": "https://open.spotify.com/track/773beyEPLYvmszoKYz9n2L"
     },
     {
       "added_at": "2025-11-21 16:19:48",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 
 > De mooiste muziek: Americana \| Country
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,839 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,836 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 | 31 | [Ain't No Running Around It](https://open.spotify.com/track/5AER6dbu2vF5W1fI8lcpoX) | [Bertolf](https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty), [Nomden](https://open.spotify.com/artist/3gcuehaPKk7YQiNG19k4fX) | [Ain't No Running Around It](https://open.spotify.com/album/4s7TyXJR2VHbobDIIp1JjE) | 2:52 |
 | 32 | [Come Along as One](https://open.spotify.com/track/4izIdsGxr6lPaV8aeEauFU) | [Shane Guerrette](https://open.spotify.com/artist/4xaFqKnLaGscm3y2CU13Qq) | [Come Along](https://open.spotify.com/album/2I2GgjfMffCEszqaxa2kWA) | 3:49 |
 | 33 | [This Night's Alright](https://open.spotify.com/track/75Mp2Ww9Ni8GLRa8u69yYU) | [Tim Knol](https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K) | [Wanderings](https://open.spotify.com/album/5drfnFk0N0p4J4gN9spx5l) | 3:41 |
-| 34 | [Human Mind](https://open.spotify.com/track/3lD9Y6X1tNME5o5x8KoTEd) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [Human Mind](https://open.spotify.com/album/2nuUkgLqKZnDg9Abj22MTc) | 3:12 |
-| 35 | [For Once](https://open.spotify.com/track/5TzvfVBJkKqHKYcVyKlSDB) | [Aäron Koch](https://open.spotify.com/artist/5SJoC7NQtJbwyCOm8ebQ21) | [For Once](https://open.spotify.com/album/4JFKpD8x7FPol9wdWnHnOf) | 3:57 |
+| 34 | [For Once](https://open.spotify.com/track/5TzvfVBJkKqHKYcVyKlSDB) | [Aäron Koch](https://open.spotify.com/artist/5SJoC7NQtJbwyCOm8ebQ21) | [For Once](https://open.spotify.com/album/4JFKpD8x7FPol9wdWnHnOf) | 3:57 |
+| 35 | [Human Mind](https://open.spotify.com/track/3lD9Y6X1tNME5o5x8KoTEd) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [Human Mind](https://open.spotify.com/album/2nuUkgLqKZnDg9Abj22MTc) | 3:12 |
 | 36 | [Good As Gone](https://open.spotify.com/track/3Q7e5lPNK6PJ5PqpqczWnf) | [Koen Vael](https://open.spotify.com/artist/3vLt2bP1seJHs2RGSSZ0jx) | [Good As Gone](https://open.spotify.com/album/5L7K0GaNwfTqHG5XRYjK50) | 3:45 |
 | 37 | [Buckle Down](https://open.spotify.com/track/2B0dpsOLbVaofyXuHBhxsY) | [Melanie Ryan](https://open.spotify.com/artist/1ReNCqNlGVnBM4RGOWkUK4) | [Buckle Down](https://open.spotify.com/album/39YthQpPlhl9T1w28OS8f2) | 2:46 |
 | 38 | [Don't Wanna Be Nervous](https://open.spotify.com/track/437n4zz3tJe3ZIltuGy4Sk) | [MISTER & MRS](https://open.spotify.com/artist/5FO3joAbAp6AwuaTlEAnmS) | [Don't Wanna Be Nervous](https://open.spotify.com/album/2wJcgrBwI5dFwWEQDEXUfW) | 3:00 |

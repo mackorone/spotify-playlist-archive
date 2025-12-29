@@ -1,6 +1,6 @@
 {
   "description": "The classic piano recordings in Jazz. Cover: Oscar Peterson",
-  "num_followers": 137616,
+  "num_followers": 137717,
   "original_name": "Jazz Piano Classics",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "The Complete Savoy Master Takes",
-        "url": "https://open.spotify.com/album/7obNWrtC06yrnbNlovA7H0"
-      },
-      "artists": [
-        {
-          "name": "Erroll Garner",
-          "url": "https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "I'm In The Mood For Love",
-      "url": "https://open.spotify.com/track/50G4bmpZt73jslY5PzymvY"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
         "name": "Song For My Father",
         "url": "https://open.spotify.com/album/4LEnATSqKeANOJ0mLUAuCE"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 438280,
       "name": "Song For My Father",
       "url": "https://open.spotify.com/track/1CDBaGlisZlOJzvx88lL8A"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
+        "name": "The Complete Savoy Master Takes",
+        "url": "https://open.spotify.com/album/7obNWrtC06yrnbNlovA7H0"
+      },
+      "artists": [
+        {
+          "name": "Erroll Garner",
+          "url": "https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "I'm In The Mood For Love",
+      "url": "https://open.spotify.com/track/50G4bmpZt73jslY5PzymvY"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -131,22 +131,6 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "Plays Misty",
-        "url": "https://open.spotify.com/album/5sJxY1pjo8qSUG5pgiMcI9"
-      },
-      "artists": [
-        {
-          "name": "Erroll Garner",
-          "url": "https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Misty",
-      "url": "https://open.spotify.com/track/6oanIhkNbxXnX19RTtkpEL"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
         "name": "The New Classic Trio",
         "url": "https://open.spotify.com/album/4uLeyZYkc0IOZMlqspAHS1"
       },
@@ -163,18 +147,18 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "From Gagarin's Point of View",
-        "url": "https://open.spotify.com/album/4jM7MG25QkVfp0SSkQ6138"
+        "name": "Plays Misty",
+        "url": "https://open.spotify.com/album/5sJxY1pjo8qSUG5pgiMcI9"
       },
       "artists": [
         {
-          "name": "Esbj\u00f6rn Svensson Trio",
-          "url": "https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk"
+          "name": "Erroll Garner",
+          "url": "https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED"
         }
       ],
-      "duration_ms": 243333,
-      "name": "From Gagarin's Point of View",
-      "url": "https://open.spotify.com/track/4JWfPMjVEh4SusNs8V3gt5"
+      "duration_ms": 171000,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/6oanIhkNbxXnX19RTtkpEL"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -191,6 +175,22 @@
       "duration_ms": 237773,
       "name": "Ain't Misbehavin'",
       "url": "https://open.spotify.com/track/3BFRqZFLSrqtQr6cjHbAxU"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
+        "name": "From Gagarin's Point of View",
+        "url": "https://open.spotify.com/album/4jM7MG25QkVfp0SSkQ6138"
+      },
+      "artists": [
+        {
+          "name": "Esbj\u00f6rn Svensson Trio",
+          "url": "https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk"
+        }
+      ],
+      "duration_ms": 243333,
+      "name": "From Gagarin's Point of View",
+      "url": "https://open.spotify.com/track/4JWfPMjVEh4SusNs8V3gt5"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -1283,38 +1283,6 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "Mary Lou Williams Presents Black Christ of the Andes",
-        "url": "https://open.spotify.com/album/35TchegKRAVtmhwSfDA8hy"
-      },
-      "artists": [
-        {
-          "name": "Mary Lou Williams",
-          "url": "https://open.spotify.com/artist/6hrEc1XqVcGLK0Di6zVADR"
-        }
-      ],
-      "duration_ms": 190680,
-      "name": "My Blue Heaven",
-      "url": "https://open.spotify.com/track/6TkNbkFSdxJXm0AoHAgGDd"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
-        "name": "Some More Love Songs",
-        "url": "https://open.spotify.com/album/6wPurNOHdHF5ALTmyc3PPf"
-      },
-      "artists": [
-        {
-          "name": "Marc Copland",
-          "url": "https://open.spotify.com/artist/0msRQHdakME2qVJ7dx76eA"
-        }
-      ],
-      "duration_ms": 447813,
-      "name": "When I Fall in Love",
-      "url": "https://open.spotify.com/track/0LtLxQA6lkxOgCE4iCIThe"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
         "name": "This Here Is Bobby Timmons / Easy Does It",
         "url": "https://open.spotify.com/album/76cd2lOIpE29vAyewtKd4b"
       },
@@ -1339,34 +1307,22 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "The Art Tatum Solo Masterpieces, Vol. 1 [Original Jazz Classics Remasters]",
-        "url": "https://open.spotify.com/album/1tvuzt99vv75fA2SKfLde0"
+        "name": "Crystal Silence",
+        "url": "https://open.spotify.com/album/1bvhjpp45aO2i1d7kjbsjh"
       },
       "artists": [
         {
-          "name": "Art Tatum",
-          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
-        }
-      ],
-      "duration_ms": 178120,
-      "name": "Moonglow",
-      "url": "https://open.spotify.com/track/63dQ8xVOLqecwnTV4NTPng"
-    },
-    {
-      "added_at": "2024-07-08 06:57:40",
-      "album": {
-        "name": "Serenade To \"Laura\"",
-        "url": "https://open.spotify.com/album/19iYq44Yh3H1vDNNr3o1po"
-      },
-      "artists": [
+          "name": "Gary Burton",
+          "url": "https://open.spotify.com/artist/4iovNkf44dsELmo3E7XSKX"
+        },
         {
-          "name": "Erroll Garner",
-          "url": "https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED"
+          "name": "Chick Corea",
+          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
         }
       ],
-      "duration_ms": 160200,
-      "name": "The Man I Love",
-      "url": "https://open.spotify.com/track/5OAEDR0DZegpjuTU3T2zS9"
+      "duration_ms": 238800,
+      "name": "I'm Your Pal",
+      "url": "https://open.spotify.com/track/7FDhbzHunmwye3bx0VHDY5"
     },
     {
       "added_at": "2024-07-08 06:57:40",
@@ -1391,22 +1347,66 @@
     {
       "added_at": "2024-07-08 06:57:40",
       "album": {
-        "name": "Crystal Silence",
-        "url": "https://open.spotify.com/album/1bvhjpp45aO2i1d7kjbsjh"
+        "name": "The Art Tatum Solo Masterpieces, Vol. 1 [Original Jazz Classics Remasters]",
+        "url": "https://open.spotify.com/album/1tvuzt99vv75fA2SKfLde0"
       },
       "artists": [
         {
-          "name": "Gary Burton",
-          "url": "https://open.spotify.com/artist/4iovNkf44dsELmo3E7XSKX"
-        },
-        {
-          "name": "Chick Corea",
-          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
+          "name": "Art Tatum",
+          "url": "https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq"
         }
       ],
-      "duration_ms": 238800,
-      "name": "I'm Your Pal",
-      "url": "https://open.spotify.com/track/7FDhbzHunmwye3bx0VHDY5"
+      "duration_ms": 178120,
+      "name": "Moonglow",
+      "url": "https://open.spotify.com/track/63dQ8xVOLqecwnTV4NTPng"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
+        "name": "Mary Lou Williams Presents Black Christ of the Andes",
+        "url": "https://open.spotify.com/album/35TchegKRAVtmhwSfDA8hy"
+      },
+      "artists": [
+        {
+          "name": "Mary Lou Williams",
+          "url": "https://open.spotify.com/artist/6hrEc1XqVcGLK0Di6zVADR"
+        }
+      ],
+      "duration_ms": 190680,
+      "name": "My Blue Heaven",
+      "url": "https://open.spotify.com/track/6TkNbkFSdxJXm0AoHAgGDd"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
+        "name": "Serenade To \"Laura\"",
+        "url": "https://open.spotify.com/album/19iYq44Yh3H1vDNNr3o1po"
+      },
+      "artists": [
+        {
+          "name": "Erroll Garner",
+          "url": "https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED"
+        }
+      ],
+      "duration_ms": 160200,
+      "name": "The Man I Love",
+      "url": "https://open.spotify.com/track/5OAEDR0DZegpjuTU3T2zS9"
+    },
+    {
+      "added_at": "2024-07-08 06:57:40",
+      "album": {
+        "name": "Some More Love Songs",
+        "url": "https://open.spotify.com/album/6wPurNOHdHF5ALTmyc3PPf"
+      },
+      "artists": [
+        {
+          "name": "Marc Copland",
+          "url": "https://open.spotify.com/artist/0msRQHdakME2qVJ7dx76eA"
+        }
+      ],
+      "duration_ms": 447813,
+      "name": "When I Fall in Love",
+      "url": "https://open.spotify.com/track/0LtLxQA6lkxOgCE4iCIThe"
     },
     {
       "added_at": "2024-07-08 06:57:40",

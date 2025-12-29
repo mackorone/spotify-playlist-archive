@@ -1,12 +1,12 @@
 {
   "description": "This is Rihanna. The essential tracks, all in one playlist.",
-  "num_followers": 3198623,
+  "num_followers": 3198703,
   "original_name": "This Is Rihanna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU3QAAAAAABvrFs0pxwhevFoC/rqOhq4",
+  "snapshot_id": "aU8hgAAAAACXfBdP+6IoR3foNwcpa5nt",
   "tracks": [
     {
       "added_at": null,
@@ -371,26 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unapologetic (Deluxe)",
-        "url": "https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 256320,
-      "name": "Loveeeeeee Song",
-      "url": "https://open.spotify.com/track/5Mk1tgVrSuoWWwPVFNS0jB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ANTI (Deluxe)",
         "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
       },
@@ -407,6 +387,26 @@
       "duration_ms": 219320,
       "name": "Work",
       "url": "https://open.spotify.com/track/72TFWvU3wUYdUuxejTTIzt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unapologetic (Deluxe)",
+        "url": "https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 256320,
+      "name": "Loveeeeeee Song",
+      "url": "https://open.spotify.com/track/5Mk1tgVrSuoWWwPVFNS0jB"
     },
     {
       "added_at": null,

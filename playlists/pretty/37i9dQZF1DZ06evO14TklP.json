@@ -1,12 +1,12 @@
 {
   "description": "This is Ebony. The essential tracks, all in one playlist.",
-  "num_followers": 17794,
+  "num_followers": 17808,
   "original_name": "This Is Ebony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU3QAAAAAAD8gsU2VQG2q2pzNIYO8VbE",
+  "snapshot_id": "aU8hgAAAAADYXnACaoEYV6Jdp2UsxL8E",
   "tracks": [
     {
       "added_at": null,
@@ -815,22 +815,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ca$h Ca$h",
-        "url": "https://open.spotify.com/album/77cE3ZebHOAHnt2xdFJ9l1"
+        "name": "Pra Ver Voc\u00ea Sambar (feat. Ebony)",
+        "url": "https://open.spotify.com/album/24KKVs2nmyeHPHWvk1fn5n"
       },
       "artists": [
         {
-          "name": "BlakkStar",
-          "url": "https://open.spotify.com/artist/0xOEY6ZB9xhdW3SnfmlgvX"
+          "name": "Alligatorz",
+          "url": "https://open.spotify.com/artist/69wxka6JqmMSB5okEEcE1z"
         },
         {
           "name": "Ebony",
           "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "Lucas Santtana",
+          "url": "https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z"
         }
       ],
-      "duration_ms": 184519,
-      "name": "Ca$h Ca$h",
-      "url": "https://open.spotify.com/track/5cIQ6FpIhXXFN3cCpBZQSD"
+      "duration_ms": 175440,
+      "name": "Pra Ver Voc\u00ea Sambar - feat. Ebony",
+      "url": "https://open.spotify.com/track/2DGzqxqUWBzRA7cEMkZ7QN"
     },
     {
       "added_at": null,
@@ -859,26 +863,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pra Ver Voc\u00ea Sambar (feat. Ebony)",
-        "url": "https://open.spotify.com/album/24KKVs2nmyeHPHWvk1fn5n"
+        "name": "Ca$h Ca$h",
+        "url": "https://open.spotify.com/album/77cE3ZebHOAHnt2xdFJ9l1"
       },
       "artists": [
         {
-          "name": "Alligatorz",
-          "url": "https://open.spotify.com/artist/69wxka6JqmMSB5okEEcE1z"
+          "name": "BlakkStar",
+          "url": "https://open.spotify.com/artist/0xOEY6ZB9xhdW3SnfmlgvX"
         },
         {
           "name": "Ebony",
           "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "Lucas Santtana",
-          "url": "https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z"
         }
       ],
-      "duration_ms": 175440,
-      "name": "Pra Ver Voc\u00ea Sambar - feat. Ebony",
-      "url": "https://open.spotify.com/track/2DGzqxqUWBzRA7cEMkZ7QN"
+      "duration_ms": 184519,
+      "name": "Ca$h Ca$h",
+      "url": "https://open.spotify.com/track/5cIQ6FpIhXXFN3cCpBZQSD"
     },
     {
       "added_at": null,

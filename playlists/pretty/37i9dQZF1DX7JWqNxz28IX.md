@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 
 > 𝖋𝖚𝖈𝖐 𝖑𝖔𝖛𝖊
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,337 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,335 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 70 | [bambino perfetto](https://open.spotify.com/track/7dBnuF21ssUjkqUPO8gApy) | [Shama24k](https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm), [SKI](https://open.spotify.com/artist/5tYQ2v9W4IDtLOWNNBsIH3), [Gheb](https://open.spotify.com/artist/5KigfHb4XxYevzO2hAVPAw) | [bambino perfetto](https://open.spotify.com/album/70URwszSHh76Vb3zj6YlEG) | 2:20 |
 | 71 | [Ti maledirò](https://open.spotify.com/track/4X8hvgbVZ8xShUBeqPDwL4) | [Disme](https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p) | [MALA VITA](https://open.spotify.com/album/6UZxACd7DLXdsYbhcIQSpI) | 2:59 |
 | 72 | [Xelisa2 \(feat\. ARIETE\)](https://open.spotify.com/track/0TFwQNQV9TzDRSh05ljlv7) | [Tauro Boys](https://open.spotify.com/artist/3co0PkJ0FkzdkjRPkBf9WM), [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [TauroTape3](https://open.spotify.com/album/3O1hIgLryt4q65Y1YcjXdp) | 2:57 |
-| 73 | [sto bene, a volte](https://open.spotify.com/track/6yCuN6RqkZInyESNtKvOZu) | [Anzj](https://open.spotify.com/artist/2OAmo9IbfDhgPommOAgXqu) | [cloud love](https://open.spotify.com/album/302uCiHcWTHZ1XaX8D2Rvk) | 1:29 |
-| 74 | [Due anni fa](https://open.spotify.com/track/1kSspMQ30u9gHEiRlXvlMm) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Due anni fa](https://open.spotify.com/album/3RB9f0yIzMt3fNDTTT8xx7) | 2:40 |
+| 73 | [Due anni fa](https://open.spotify.com/track/1kSspMQ30u9gHEiRlXvlMm) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Due anni fa](https://open.spotify.com/album/3RB9f0yIzMt3fNDTTT8xx7) | 2:40 |
+| 74 | [sto bene, a volte](https://open.spotify.com/track/6yCuN6RqkZInyESNtKvOZu) | [Anzj](https://open.spotify.com/artist/2OAmo9IbfDhgPommOAgXqu) | [cloud love](https://open.spotify.com/album/302uCiHcWTHZ1XaX8D2Rvk) | 1:29 |
 | 75 | [Hai fatto tardi](https://open.spotify.com/track/1JcIxBJtgklUN9Sl2Rdla2) | [Nisba](https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa) | [Hai fatto tardi](https://open.spotify.com/album/24zYSQ7kCKJix98rGkGn5m) | 2:52 |
 | 76 | [Polmoni](https://open.spotify.com/track/3Dd20QQdcE7zu8S9RDbcWO) | [Tripolare](https://open.spotify.com/artist/4QOWxkUYIKvnV7AcjF4k6w) | [Polmoni](https://open.spotify.com/album/5ebFbxu4orUBH5LBnGSWTV) | 2:03 |
 | 77 | [Autopsia](https://open.spotify.com/track/5wEdC22OgyM7umwe6XeCms) | [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [Autopsia](https://open.spotify.com/album/01bwlYW15thIL49JrwibKC) | 3:28 |
@@ -95,12 +95,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 85 | [Lacrime di sale](https://open.spotify.com/track/4MbFjClHugcdVpFgF5kqPz) | [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [Lacrime di sale](https://open.spotify.com/album/6jVwSsvq7YaoRDaurBBb4A) | 3:15 |
 | 86 | [sfacciati](https://open.spotify.com/track/0NYCPZ8e9TDHDXvptYwtqX) | [UNK](https://open.spotify.com/artist/7hs3MC7AhseBcED6K2bysr) | [sfacciati](https://open.spotify.com/album/5Y7UwTiqVIWLovqPiqkDXD) | 2:25 |
 | 87 | [Sedato e Deluso](https://open.spotify.com/track/531bbjLIkNTtEGtRvWVCxo) | [Shama24k](https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm), [Elan Rood](https://open.spotify.com/artist/3vmujWaYbWHmCNWz76zYxy) | [Sedato e Deluso](https://open.spotify.com/album/7kIEYHH4kTmUmU2r8Uzler) | 3:22 |
-| 88 | [Ceramica](https://open.spotify.com/track/776F1kiWnHUjxuntmvPnt9) | [Nisba](https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa), [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp) | [Ceramica](https://open.spotify.com/album/3UPAnRJrMnjNBE5bxw66BD) | 3:13 |
-| 89 | [Lasciami Qui](https://open.spotify.com/track/2iWJlpfCZpUUx2Pi5KO6Zr) | [Sxrrxwland](https://open.spotify.com/artist/1u55tvBnsxpf2DiFpg5nje) | [Buone Maniere Per Giovani Predatori](https://open.spotify.com/album/1bJeHVSLjPJKGglvWaSDgp) | 3:53 |
-| 90 | [Campi Elisi](https://open.spotify.com/track/4odUYVpvAQi8ilcE2BCTnK) | [FRERO](https://open.spotify.com/artist/0bAPSQOMp1MhjF47XhXrox) | [Campi Elisi](https://open.spotify.com/album/6InYmFNRQalW1mmaTgq3zT) | 2:57 |
-| 91 | [Amsterdam](https://open.spotify.com/track/2BOzEweKLKbBdP6szSatP7) | [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe) | [OSIRIDE](https://open.spotify.com/album/6jmB6f0AiVAAYZRAISXHwq) | 3:20 |
+| 88 | [Lasciami Qui](https://open.spotify.com/track/2iWJlpfCZpUUx2Pi5KO6Zr) | [Sxrrxwland](https://open.spotify.com/artist/1u55tvBnsxpf2DiFpg5nje) | [Buone Maniere Per Giovani Predatori](https://open.spotify.com/album/1bJeHVSLjPJKGglvWaSDgp) | 3:53 |
+| 89 | [Ceramica](https://open.spotify.com/track/776F1kiWnHUjxuntmvPnt9) | [Nisba](https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa), [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp) | [Ceramica](https://open.spotify.com/album/3UPAnRJrMnjNBE5bxw66BD) | 3:13 |
+| 90 | [Amsterdam](https://open.spotify.com/track/2BOzEweKLKbBdP6szSatP7) | [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe) | [OSIRIDE](https://open.spotify.com/album/6jmB6f0AiVAAYZRAISXHwq) | 3:20 |
+| 91 | [Letto grande](https://open.spotify.com/track/3vMQhhXqvmEwAvK5NJKjEn) | [Bipolar](https://open.spotify.com/artist/36CoTQmA5QgZvVpG81y1di), [Fedesse](https://open.spotify.com/artist/5PO87szg98wyej1UyFzMbC) | [Letto grande](https://open.spotify.com/album/4e9kOiXKkq3accbxqLIfhC) | 3:31 |
 | 92 | [Piano e Forte](https://open.spotify.com/track/74NKUib7jQciADIreMyNJZ) | [Shama24k](https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm), [Gheb](https://open.spotify.com/artist/5KigfHb4XxYevzO2hAVPAw) | [Piano e Forte](https://open.spotify.com/album/2u8d07uzF2uLgwCnxioRv2) | 2:38 |
-| 93 | [Letto grande](https://open.spotify.com/track/3vMQhhXqvmEwAvK5NJKjEn) | [Bipolar](https://open.spotify.com/artist/36CoTQmA5QgZvVpG81y1di), [Fedesse](https://open.spotify.com/artist/5PO87szg98wyej1UyFzMbC) | [Letto grande](https://open.spotify.com/album/4e9kOiXKkq3accbxqLIfhC) | 3:31 |
+| 93 | [Campi Elisi](https://open.spotify.com/track/4odUYVpvAQi8ilcE2BCTnK) | [FRERO](https://open.spotify.com/artist/0bAPSQOMp1MhjF47XhXrox) | [Campi Elisi](https://open.spotify.com/album/6InYmFNRQalW1mmaTgq3zT) | 2:57 |
 | 94 | [ALESSIA](https://open.spotify.com/track/2wfjLU8g13JsfNEj7jfrCz) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [CONFESSIONE](https://open.spotify.com/album/0cDiwdOYaCtEc97xbdAxPH) | 2:24 |
 | 95 | [L'effetto che mi fai](https://open.spotify.com/track/3lxnYJ4tMPPYXL7vONxGRi) | [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [L'effetto che mi fai](https://open.spotify.com/album/3yShDUYPfX7h1HSK6Apecx) | 2:54 |
 | 96 | [:RRaGNaTELa](https://open.spotify.com/track/5kI5Dm8y6dV3Aqx9fPJqhN) | [EMMA](https://open.spotify.com/artist/7LmO2BJsbObtMqCPcpjjhq) | [ERA L’INIZIO](https://open.spotify.com/album/2RgzZRAkdstoKe6NgpTrga) | 3:49 |

@@ -12720,6 +12720,24 @@
     {
       "album": {
         "name": "BOO",
+        "url": "https://open.spotify.com/album/6eCKw4JH2vzTXGutRJ2Rhj"
+      },
+      "artists": [
+        {
+          "name": "H3adband",
+          "url": "https://open.spotify.com/artist/3TvL95zdOZWkMbkvfJ8cCk"
+        }
+      ],
+      "date_added": "2025-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138657,
+      "name": "BOO",
+      "url": "https://open.spotify.com/track/5z3lA9udc15kVQ4S4OcTsa"
+    },
+    {
+      "album": {
+        "name": "BOO",
         "url": "https://open.spotify.com/album/39lqXTGWSFVC9Qx0KEnKpD"
       },
       "artists": [
@@ -12730,7 +12748,7 @@
       ],
       "date_added": "2025-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 138657,
       "name": "BOO",
       "url": "https://open.spotify.com/track/6Km8JhmtqvNxQCUlX32PD9"
@@ -43348,7 +43366,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 211453,
       "name": "L'Amore Non Mi Basta",
       "url": "https://open.spotify.com/track/01PuEcSSxP84CO9yaXtsyp"
@@ -67000,7 +67018,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-23",
+      "date_removed": null,
       "duration_ms": 219743,
       "name": "Raindance (feat. Tems)",
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"

@@ -4,7 +4,7 @@
 
 > Embrace all colours with your favourite anthems\. "Let's have a kiki!"
 
-100 songs - 6 hr 44 min
+101 songs - 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [I'm Every Woman](https://open.spotify.com/track/1oFiPGBafH9Woo9AMwgBSl) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Chaka](https://open.spotify.com/album/2lvaLIoEg3hwL2dybu6zTC) | 4:09 | 2025-06-20 |  |
 | [If I Could Turn Back Time](https://open.spotify.com/track/6mYrhCAGWzTdF8QnKuchXM) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Heart Of Stone](https://open.spotify.com/album/3srdrIrP3V7LTmRujRfLhK) | 3:59 | 2025-06-20 |  |
 | [It's Not Right But It's Okay](https://open.spotify.com/track/7861kBrZ5aw7o4NfggcyYW) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [My Love Is Your Love](https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM) | 4:52 | 2025-06-20 |  |
-| [Its A Miracle \- Remastered 2012](https://open.spotify.com/track/0vmbJCS1WCWnj9232fyMrv) | [Culture Club](https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc) | [Colour By Numbers \(Remastered / Expanded Edition\)](https://open.spotify.com/album/51NPMfa9QfxsYtqzcB2VfY) | 3:25 | 2025-06-20 |  |
+| [Its A Miracle \- Remastered 2012](https://open.spotify.com/track/0vmbJCS1WCWnj9232fyMrv) | [Culture Club](https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc) | [Colour By Numbers \(Remastered / Expanded Edition\)](https://open.spotify.com/album/51NPMfa9QfxsYtqzcB2VfY) | 3:25 | 2025-06-20 | 2025-12-29 |
 | [Juice](https://open.spotify.com/track/0k664IuFwVP557Gnx7RhIl) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You](https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL) | 3:15 | 2025-06-20 |  |
 | [King](https://open.spotify.com/track/3AeicLnm55RqcXGBKYQolM) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Communion \(Deluxe\)](https://open.spotify.com/album/0bWYlK9rRmIB68icHx9PNR) | 3:35 | 2025-06-20 |  |
 | [La Vie en rose](https://open.spotify.com/track/5yJrl2r0vr6u9BXqQXZE3V) | [Grace Jones](https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd) | [Portfolio](https://open.spotify.com/album/1omnfUAyi7BQRSLYcf3sZ4) | 7:28 | 2025-06-20 |  |
@@ -69,6 +69,7 @@
 | [Livin' On A Prayer](https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Slippery When Wet](https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t) | 4:09 | 2025-06-20 |  |
 | [Love Again](https://open.spotify.com/track/5CSKbHjpqborGnlzagyaDo) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia \(The Moonlight Edition\)](https://open.spotify.com/album/0JeyP8r2hBxYIoxXv11XiX) | 4:18 | 2025-06-20 |  |
 | [Love at First Sight](https://open.spotify.com/track/0NMUFQdEFjftg0BQnyZCsh) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever](https://open.spotify.com/album/4WnLzmBgzwpotgPqqoIW9t) | 3:58 | 2025-06-20 |  |
+| [Love Me Just a Little Bit More \(Totally Hooked on You\)](https://open.spotify.com/track/1vXlbimYzL1wBy7xgpBoYz) | [Dolly Dots](https://open.spotify.com/artist/7jQDCbxYM9t8bLCd2n8ONI) | [Display](https://open.spotify.com/album/0BP5XDGy7Mgc6VWD77urPh) | 3:32 | 2025-06-20 |  |
 | [Love Shack](https://open.spotify.com/track/4W4wYHtsrgDiivRASVOINL) | [The B\-52's](https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN) | [Cosmic Thing](https://open.spotify.com/album/5BAzAODqIwttjj7wxmlNMS) | 5:20 | 2025-06-20 |  |
 | [Maneater](https://open.spotify.com/track/4wH4dJgrsxONID6KS2tDQM) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 4:18 | 2025-06-20 |  |
 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/67BtfxlNbhBmCDR2L2l8qd) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/album/2Hjcfw8zHN4dJDZJGOzLd6) | 2:17 | 2025-06-20 |  |

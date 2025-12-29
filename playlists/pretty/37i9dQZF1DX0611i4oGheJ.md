@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0611i4oGheJ.md) - [plain]
 
 > Sweet gems to help you slow down and savor your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 510,021 likes - 125 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 510,147 likes - 125 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0611i4oGheJ.md) - [plain]
 | 28 | [Breakers Roar](https://open.spotify.com/track/7rR5X9RKz5VprclstYOLb5) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [A Sailor's Guide to Earth](https://open.spotify.com/album/5I3UdCxtIh6hkQ7rMPUvA4) | 3:32 |
 | 29 | [I Am Not Afraid](https://open.spotify.com/track/5pD6DyYeglUby2x5CXrqfA) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [In the Night](https://open.spotify.com/album/79XBpEmfWK9in4maPa8Kuh) | 2:44 |
 | 30 | [I have more than enough](https://open.spotify.com/track/52TZItSmEl1Cb3Ai55Bwdi) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [I have more than enough](https://open.spotify.com/album/1yxqPXthiboSg3CyB3xOh6) | 5:28 |
-| 31 | [Cherry Wine \- Live](https://open.spotify.com/track/0bZ52QzCCKfrfOqs7za6lI) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 4:00 |
-| 32 | [My Father's Daughter](https://open.spotify.com/track/2LxglhGxGhHF4P11HPEFwu) | [Olivia Vedder](https://open.spotify.com/artist/1cALtYxOIn4uWAfNdwcP4E), [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh), [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [My Father's Daughter \(From The “Flag Day” Original Soundtrack\)](https://open.spotify.com/album/7alk37quFoAf91whDEJ8a1) | 2:50 |
+| 31 | [My Father's Daughter](https://open.spotify.com/track/2LxglhGxGhHF4P11HPEFwu) | [Olivia Vedder](https://open.spotify.com/artist/1cALtYxOIn4uWAfNdwcP4E), [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh), [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [My Father's Daughter \(From The “Flag Day” Original Soundtrack\)](https://open.spotify.com/album/7alk37quFoAf91whDEJ8a1) | 2:50 |
+| 32 | [Cherry Wine \- Live](https://open.spotify.com/track/0bZ52QzCCKfrfOqs7za6lI) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 4:00 |
 | 33 | [Patterns](https://open.spotify.com/track/43wwn1EmqxcMOWYSd0Gk2Z) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Patterns](https://open.spotify.com/album/29MViHy67UeTHm5NrfPBlY) | 4:20 |
 | 34 | [Nothing's Gonna Happen \(Demo\)](https://open.spotify.com/track/4UZOq2XyfLk3Yl5ip4fwm7) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Nothing's Gonna Happen \(Demo\)](https://open.spotify.com/album/77IaIITv6d4uIskRJnIu5U) | 3:56 |
 | 35 | [The Promise](https://open.spotify.com/track/6OV4CbPHRtbqrpJrbEFJfi) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Metamodern Sounds in Country Music](https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag) | 4:17 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0611i4oGheJ.md) - [plain]
 | 69 | [Palace \- Cover](https://open.spotify.com/track/3gkqjWvOpWpFQYX5AzqrY3) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Palace \(Cover\) / Diane](https://open.spotify.com/album/3xEQ2CukZ34BtuhITSjMNS) | 3:49 |
 | 70 | [Crying Over U](https://open.spotify.com/track/4f7tq7M9gHrh9fykTSDU6J) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Crying Over U](https://open.spotify.com/album/5YCO5fV52dmvfcfYVzLjcj) | 3:54 |
 | 71 | [To Learn](https://open.spotify.com/track/63a0svve0p3CIiGx9a9DTy) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [To Learn](https://open.spotify.com/album/5k6lsjpZK4l4J9oMQmBR1l) | 2:17 |
-| 72 | [The Trek](https://open.spotify.com/track/5P4Uaj4mKQpkZYRyt5ceMC) | [Hans Williams](https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj) | [The Trek](https://open.spotify.com/album/71QLGDfkyZqoN8U9LTDmYj) | 4:42 |
-| 73 | [The Meetings of the Waters](https://open.spotify.com/track/2EH99L821vO7FTvKVo5YnJ) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [The Meetings of the Waters](https://open.spotify.com/album/4Z1NVo5nAjUFxL07vgSQkA) | 5:00 |
+| 72 | [The Meetings of the Waters](https://open.spotify.com/track/2EH99L821vO7FTvKVo5YnJ) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [The Meetings of the Waters](https://open.spotify.com/album/4Z1NVo5nAjUFxL07vgSQkA) | 5:00 |
+| 73 | [The Trek](https://open.spotify.com/track/5P4Uaj4mKQpkZYRyt5ceMC) | [Hans Williams](https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj) | [The Trek](https://open.spotify.com/album/71QLGDfkyZqoN8U9LTDmYj) | 4:42 |
 | 74 | [Waves \- Guitar Acoustic](https://open.spotify.com/track/0SUih4u16BlTsIDyB7J0SU) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Waves \(Guitar Acoustic\)](https://open.spotify.com/album/2hrk8YSXUJJrhTnTTF8Bqw) | 4:08 |
 | 75 | [Humble & Kind](https://open.spotify.com/track/4ZBFIzNwC3QUn0pdqIy1JN) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [The Bird & the Rifle](https://open.spotify.com/album/61WR0KS7E4RJV6JC2TZ8Gk) | 4:03 |
 | 76 | [Buffalo Replaced \- Spotify Singles](https://open.spotify.com/track/2Io4hOyIeXESirgQWXMlDB) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Spotify Singles](https://open.spotify.com/album/7424HIQbzV8bI0JSYwTFni) | 2:33 |
@@ -103,11 +103,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0611i4oGheJ.md) - [plain]
 | 93 | [awe](https://open.spotify.com/track/20liuVONukHV5oK7kghgOI) | [Pem](https://open.spotify.com/artist/6JVlf8HzDtyI2xPxq4WIHs) | [awe](https://open.spotify.com/album/1JOPmXuFZzWyAObrU16BUl) | 3:55 |
 | 94 | [The Friary](https://open.spotify.com/track/4ma6fuBfPGNWbAev6w5GdV) | [David Keenan](https://open.spotify.com/artist/4RhFWLvAR5H5uXvjWVmxMG) | [Cobwebs](https://open.spotify.com/album/1LcnviaqzuzuuHkDVnIMXa) | 4:10 |
 | 95 | [Desert Song](https://open.spotify.com/track/1j800qQ0uge8cVdw9BQ3dp) | [säje](https://open.spotify.com/artist/7iitvSs52z6e7UvIo2LCYi) | [Desert Song](https://open.spotify.com/album/01Wmlp4OQ36xv48lqBmDm2) | 3:55 |
-| 96 | [Sun](https://open.spotify.com/track/4zfMvnT7yW5smZg6jDGOmd) | [The National Forest](https://open.spotify.com/artist/5PO6cJgDGDVWtmE7cJ5pws) | [Sun](https://open.spotify.com/album/6h0naf4GxzkRMEdzOZnStm) | 2:32 |
-| 97 | [Unveiled](https://open.spotify.com/track/1JGsfgp6yMzTqTQvDTtXos) | [Loah](https://open.spotify.com/artist/3smkUIA0gfguE46oluw954) | [This Heart](https://open.spotify.com/album/3oo1XkjyxFrqGmwcwiS7hF) | 4:12 |
+| 96 | [Unveiled](https://open.spotify.com/track/1JGsfgp6yMzTqTQvDTtXos) | [Loah](https://open.spotify.com/artist/3smkUIA0gfguE46oluw954) | [This Heart](https://open.spotify.com/album/3oo1XkjyxFrqGmwcwiS7hF) | 4:12 |
+| 97 | [Sun](https://open.spotify.com/track/4zfMvnT7yW5smZg6jDGOmd) | [The National Forest](https://open.spotify.com/artist/5PO6cJgDGDVWtmE7cJ5pws) | [Sun](https://open.spotify.com/album/6h0naf4GxzkRMEdzOZnStm) | 2:32 |
 | 98 | [Salvation Army](https://open.spotify.com/track/2WKH12vONrIi0NWdUsPM5y) | [Harrison Whitford](https://open.spotify.com/artist/2KAaIurA00NK4IAnbC6nB8) | [Afraid of Nothing](https://open.spotify.com/album/6dx3PkUd6rUBC5CaVShL0N) | 3:48 |
-| 99 | [Lavender Girl](https://open.spotify.com/track/5IqPGPAeAru7g6ljnY0dPf) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Lavender Girl](https://open.spotify.com/album/5ChxDXf7pMg4QoVLUO9Lwz) | 3:23 |
-| 100 | [I'll Be Gone](https://open.spotify.com/track/2z4NCsQxVucYfAeUU1ljE2) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [The Only Ones](https://open.spotify.com/album/72jSY4ND11mZ9qeOmIsVJh) | 2:24 |
+| 99 | [I'll Be Gone](https://open.spotify.com/track/2z4NCsQxVucYfAeUU1ljE2) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [The Only Ones](https://open.spotify.com/album/72jSY4ND11mZ9qeOmIsVJh) | 2:24 |
+| 100 | [Lavender Girl](https://open.spotify.com/track/5IqPGPAeAru7g6ljnY0dPf) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Lavender Girl](https://open.spotify.com/album/5ChxDXf7pMg4QoVLUO9Lwz) | 3:23 |
 | 101 | [Mudroom](https://open.spotify.com/track/6UJaQZTvpWUWp7FZDJJUXj) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Mudroom](https://open.spotify.com/album/4z3Lq0ha127elfRFtkbKsc) | 3:59 |
 | 102 | [Mending Song](https://open.spotify.com/track/0YxQPmvo2NupJHW8QHEDNL) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Mending Song](https://open.spotify.com/album/0cETfActVxeesqjmLW1Wwn) | 3:49 |
 | 103 | [i leave early](https://open.spotify.com/track/3v6a2Q4iClZE8a2Qv5g60r) | [Maria Kelly](https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV) | [i leave early](https://open.spotify.com/album/6WM1ihagtD7rboK5Ycy1lX) | 3:13 |

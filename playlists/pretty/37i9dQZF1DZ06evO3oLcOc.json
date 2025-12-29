@@ -1,12 +1,12 @@
 {
   "description": "This is Tyga. The essential tracks, all in one playlist.",
-  "num_followers": 228350,
+  "num_followers": 228359,
   "original_name": "This Is Tyga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU3QAAAAAACGTqK/zkoQ50lcD18Y8yWo",
+  "snapshot_id": "aU8hgAAAAADKYpicUdmxlloNt/dXmvoU",
   "tracks": [
     {
       "added_at": null,
@@ -103,30 +103,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Do It Again",
-        "url": "https://open.spotify.com/album/3kBBntDYL62xlqgnulskwv"
-      },
-      "artists": [
-        {
-          "name": "Pia Mia",
-          "url": "https://open.spotify.com/artist/1BhWF9W2PngtPSyobKg0rP"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 207746,
-      "name": "Do It Again",
-      "url": "https://open.spotify.com/track/72Bz4ciRZPBcVSw0nrZDHi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "F.A.M.E. (Expanded Edition)",
         "url": "https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb"
       },
@@ -147,6 +123,30 @@
       "duration_ms": 276560,
       "name": "Deuces (feat. Tyga & Kevin McCall)",
       "url": "https://open.spotify.com/track/6wN4nT2qy3MQc098yL3Eu9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Do It Again",
+        "url": "https://open.spotify.com/album/3kBBntDYL62xlqgnulskwv"
+      },
+      "artists": [
+        {
+          "name": "Pia Mia",
+          "url": "https://open.spotify.com/artist/1BhWF9W2PngtPSyobKg0rP"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 207746,
+      "name": "Do It Again",
+      "url": "https://open.spotify.com/track/72Bz4ciRZPBcVSw0nrZDHi"
     },
     {
       "added_at": null,
@@ -775,6 +775,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hotel California (Deluxe)",
+        "url": "https://open.spotify.com/album/5PKYeoSKEVQd7ZTnwnWRn7"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        }
+      ],
+      "duration_ms": 221493,
+      "name": "Switch Lanes",
+      "url": "https://open.spotify.com/track/1GMDpf82TUwTVBPYiu0dmR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Legendary",
         "url": "https://open.spotify.com/album/6hHIX3lfGKnZ2ji41YZMVV"
       },
@@ -811,26 +831,6 @@
       "duration_ms": 169119,
       "name": "Let Me Vibe (feat. Tyga & Wiz Khalifa)",
       "url": "https://open.spotify.com/track/36wDLx5QKOZzoW6attS86u"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hotel California (Deluxe)",
-        "url": "https://open.spotify.com/album/5PKYeoSKEVQd7ZTnwnWRn7"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        },
-        {
-          "name": "The Game",
-          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
-        }
-      ],
-      "duration_ms": 221493,
-      "name": "Switch Lanes",
-      "url": "https://open.spotify.com/track/1GMDpf82TUwTVBPYiu0dmR"
     },
     {
       "added_at": null,

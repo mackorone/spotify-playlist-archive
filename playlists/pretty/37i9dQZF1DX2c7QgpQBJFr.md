@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > La nuova scena pop italiana 🇮🇹  cover: Angelica Bove
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,497 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,498 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 | 99 | [quando nessuno ci vede](https://open.spotify.com/track/04QySOhnsckQQbzDRyJXDQ) | [mew](https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU) | [quando nessuno ci vede](https://open.spotify.com/album/7b5L66twDwW0ESfwpFtho8) | 2:48 |
 | 100 | [Così così](https://open.spotify.com/track/0pjqXWOiT5xMh2ua6sq4dl) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [TUTTA VITA \(SEMPRE\)](https://open.spotify.com/album/08SB1CgIS0yVIH7ZV99I6f) | 3:19 |
 
-Snapshot ID: `AAAAAJ6Lv/d/9hAXS+Bduwn/ht4GtpHs`
+Snapshot ID: `AAAAAOt55bzGcmImf46NN9YMIA+aO5xb`

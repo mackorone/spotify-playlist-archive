@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLp5XoPON0wI.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- USA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,930 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,935 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLp5XoPON0wI.md) - [plain]
 | 49 | [Happy Holiday / The Holiday Season](https://open.spotify.com/track/1Wf14bTyb6UeKojy8ykPYm) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [The Andy Williams Christmas Album](https://open.spotify.com/album/30eO7X0doSEWKhDLAFLMuW) | 2:37 |
 | 50 | [Do They Know It's Christmas? \- 1984 Version](https://open.spotify.com/track/4Yg2w0P29BBBMixyeNjDtj) | [Band Aid](https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ) | [Do They Know It’s Christmas?](https://open.spotify.com/album/2WlRAsKdyYOwg2tdBjxVwq) | 3:42 |
 
-Snapshot ID: `MONSqAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MOSkKAAAAAAAAAAAAAAAAAAAAAAAAGVu`

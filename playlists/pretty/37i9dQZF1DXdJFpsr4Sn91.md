@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 
 > Nousussa olevat hitit\. 🌪️
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,143 likes - 80 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,140 likes - 80 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 | 37 | [Sydän on rikki](https://open.spotify.com/track/4ekyr5DV8ZUBQjA25ux0co) | [Aliisa Syrjä](https://open.spotify.com/artist/22MRXgWTSxSeQG9NLCMezd) | [Sydän on rikki](https://open.spotify.com/album/5jcfKaqf0aEMasIpDoxpp2) | 3:01 |
 | 38 | [I Follow Rivers](https://open.spotify.com/track/1aGXmfXBq4koas7v3277P3) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Prismatic: Pack One](https://open.spotify.com/album/7CUOkVn3NrdH1Q6y2hmEQx) | 3:18 |
 | 39 | [Tyttöystävä](https://open.spotify.com/track/6eN4usKcguQrcGwnepHVE9) | [Minttu](https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr) | [Tyttöystävä](https://open.spotify.com/album/5j0Jb4o5pSg8EXCw70Atu8) | 2:57 |
-| 40 | [Yksin tääl \(feat\. Lauri Haav\)](https://open.spotify.com/track/5elZ9A56hUsDtI8KwBSukS) | [Lage](https://open.spotify.com/artist/7zakYXqhliziu6I44dJa9c), [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Yksin tääl \(feat\. Lauri Haav\)](https://open.spotify.com/album/0RXpXtg3Iwuu0yrJWwHWBC) | 2:24 |
-| 41 | [Me, Myself and The Night](https://open.spotify.com/track/7mKy65CyVCmawYMw3JJGPQ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Me, Myself and The Night](https://open.spotify.com/album/7bSQts9CfkAh6MNQ7BkBjy) | 4:11 |
+| 40 | [Me, Myself and The Night](https://open.spotify.com/track/7mKy65CyVCmawYMw3JJGPQ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Me, Myself and The Night](https://open.spotify.com/album/7bSQts9CfkAh6MNQ7BkBjy) | 4:11 |
+| 41 | [Yksin tääl \(feat\. Lauri Haav\)](https://open.spotify.com/track/5elZ9A56hUsDtI8KwBSukS) | [Lage](https://open.spotify.com/artist/7zakYXqhliziu6I44dJa9c), [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Yksin tääl \(feat\. Lauri Haav\)](https://open.spotify.com/album/0RXpXtg3Iwuu0yrJWwHWBC) | 2:24 |
 | 42 | [Aamun kuiskaus \(Vain elämää kausi 16\)](https://open.spotify.com/track/7jvoAK64yth4VDSr51lkQW) | [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh) | [VIIVI \(Vain elämää kausi 16\)](https://open.spotify.com/album/4Kf4e2oaoT9VmhW3wpyit5) | 3:11 |
 | 43 | [Don’t Click Play](https://open.spotify.com/track/5emOdyBZqKrL06yqZsQKFZ) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Don't Click Play](https://open.spotify.com/album/48fwvNa8p0qrqO5RKEnOTI) | 2:28 |
 | 44 | [HOME](https://open.spotify.com/track/6CNQLgGqOSpXpzGtru1JHx) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn), [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [HOME](https://open.spotify.com/album/0EaAIP9mPmRm99Vfq7X34D) | 2:39 |

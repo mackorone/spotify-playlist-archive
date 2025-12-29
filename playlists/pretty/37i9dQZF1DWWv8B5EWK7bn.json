@@ -1,6 +1,6 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 205481,
+  "num_followers": 205489,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
@@ -435,6 +435,22 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
+        "name": "Crispy Skin",
+        "url": "https://open.spotify.com/album/1rCWTAzY2JTdOPCsg03WeA"
+      },
+      "artists": [
+        {
+          "name": "Squid",
+          "url": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
+        }
+      ],
+      "duration_ms": 379400,
+      "name": "Crispy Skin",
+      "url": "https://open.spotify.com/track/2FVdd3s90GiXaWpfJlWLC5"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
         "name": "Organs",
         "url": "https://open.spotify.com/album/76u3zEekWcNipqChvHjTkc"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 378289,
       "name": "Something in the Room She Moves",
       "url": "https://open.spotify.com/track/4q1wNhAe6axDOjReaCmOA3"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
-        "name": "Crispy Skin",
-        "url": "https://open.spotify.com/album/1rCWTAzY2JTdOPCsg03WeA"
-      },
-      "artists": [
-        {
-          "name": "Squid",
-          "url": "https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo"
-        }
-      ],
-      "duration_ms": 379400,
-      "name": "Crispy Skin",
-      "url": "https://open.spotify.com/track/2FVdd3s90GiXaWpfJlWLC5"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -723,22 +723,6 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Robber",
-        "url": "https://open.spotify.com/album/2qx7Ow0ojN6OPb64V5b5t5"
-      },
-      "artists": [
-        {
-          "name": "The Weather Station",
-          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
-        }
-      ],
-      "duration_ms": 320524,
-      "name": "Robber",
-      "url": "https://open.spotify.com/track/2cTLouneODFXlosSyN3sxK"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
         "name": "setar rock",
         "url": "https://open.spotify.com/album/0sLE1MoYzMM6JgwuJR6Nzb"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 240250,
       "name": "setar rock",
       "url": "https://open.spotify.com/track/6MvywXbpxt5tYk1a5cA0rb"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "Robber",
+        "url": "https://open.spotify.com/album/2qx7Ow0ojN6OPb64V5b5t5"
+      },
+      "artists": [
+        {
+          "name": "The Weather Station",
+          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
+        }
+      ],
+      "duration_ms": 320524,
+      "name": "Robber",
+      "url": "https://open.spotify.com/track/2cTLouneODFXlosSyN3sxK"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -775,22 +775,6 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "M\u00fasica do Esquecimento",
-        "url": "https://open.spotify.com/album/3SjN7O4XsEYEuyddLFKXpb"
-      },
-      "artists": [
-        {
-          "name": "Sophia Chablau e Uma Enorme Perda de Tempo",
-          "url": "https://open.spotify.com/artist/7EjCIhe3BMNZIBBNn1n3Uj"
-        }
-      ],
-      "duration_ms": 244826,
-      "name": "Segredo",
-      "url": "https://open.spotify.com/track/3je84JgQJewoLhhWVr2PcJ"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 289461,
       "name": "Army Of Me - Spotify Single",
       "url": "https://open.spotify.com/track/1tE9hcCoX2CcSSqS78MAZt"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "M\u00fasica do Esquecimento",
+        "url": "https://open.spotify.com/album/3SjN7O4XsEYEuyddLFKXpb"
+      },
+      "artists": [
+        {
+          "name": "Sophia Chablau e Uma Enorme Perda de Tempo",
+          "url": "https://open.spotify.com/artist/7EjCIhe3BMNZIBBNn1n3Uj"
+        }
+      ],
+      "duration_ms": 244826,
+      "name": "Segredo",
+      "url": "https://open.spotify.com/track/3je84JgQJewoLhhWVr2PcJ"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -875,22 +875,6 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Evening Mood",
-        "url": "https://open.spotify.com/album/7lR0ukB3rDagjRbrnWALUu"
-      },
-      "artists": [
-        {
-          "name": "Julia Holter",
-          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
-        }
-      ],
-      "duration_ms": 384589,
-      "name": "Evening Mood",
-      "url": "https://open.spotify.com/track/0Pwk9jrn5MfTTFKtsntzIT"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
         "name": "Eno (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3V8Pq41a9O51zH10UfXGUs"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 182926,
       "name": "All Through The Day",
       "url": "https://open.spotify.com/track/1PzCaE03jo2hmMm261h0XP"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "Evening Mood",
+        "url": "https://open.spotify.com/album/7lR0ukB3rDagjRbrnWALUu"
+      },
+      "artists": [
+        {
+          "name": "Julia Holter",
+          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
+        }
+      ],
+      "duration_ms": 384589,
+      "name": "Evening Mood",
+      "url": "https://open.spotify.com/track/0Pwk9jrn5MfTTFKtsntzIT"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "love is not the poison",
-        "url": "https://open.spotify.com/album/0uX7knjn5E5BFaimIbGG2s"
-      },
-      "artists": [
-        {
-          "name": "Astoria",
-          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
-        }
-      ],
-      "duration_ms": 318447,
-      "name": "love is not the poison",
-      "url": "https://open.spotify.com/track/030g6jETCVW8ax0ws9hk4x"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
         "name": "Vallahi Yok / Kirik Cam",
         "url": "https://open.spotify.com/album/5nAQCUYTxmLIvBSdrmOjSf"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 277810,
       "name": "Vallahi Yok",
       "url": "https://open.spotify.com/track/5z9vETzqw2MYykOvfwXYWx"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "love is not the poison",
+        "url": "https://open.spotify.com/album/0uX7knjn5E5BFaimIbGG2s"
+      },
+      "artists": [
+        {
+          "name": "Astoria",
+          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
+        }
+      ],
+      "duration_ms": 318447,
+      "name": "love is not the poison",
+      "url": "https://open.spotify.com/track/030g6jETCVW8ax0ws9hk4x"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "SOMETHING'S ENDING / I'VE BEEN EVIL",
-        "url": "https://open.spotify.com/album/2s12W57AKBVgE05hxm1v6P"
-      },
-      "artists": [
-        {
-          "name": "SPIRIT OF THE BEEHIVE",
-          "url": "https://open.spotify.com/artist/25CgccXK9hJBTuaMF44zeR"
-        }
-      ],
-      "duration_ms": 154910,
-      "name": "I'VE BEEN EVIL",
-      "url": "https://open.spotify.com/track/60cyilVfq8s2pkA2jv82Fq"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
         "name": "True Luck",
         "url": "https://open.spotify.com/album/4Gsf0hLHkHEGr5ooIVCsoJ"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 200625,
       "name": "True Luck",
       "url": "https://open.spotify.com/track/5OWX5oNVa0xfn3VAIPVfJl"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "SOMETHING'S ENDING / I'VE BEEN EVIL",
+        "url": "https://open.spotify.com/album/2s12W57AKBVgE05hxm1v6P"
+      },
+      "artists": [
+        {
+          "name": "SPIRIT OF THE BEEHIVE",
+          "url": "https://open.spotify.com/artist/25CgccXK9hJBTuaMF44zeR"
+        }
+      ],
+      "duration_ms": 154910,
+      "name": "I'VE BEEN EVIL",
+      "url": "https://open.spotify.com/track/60cyilVfq8s2pkA2jv82Fq"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Sans oublier",
-        "url": "https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c"
-      },
-      "artists": [
-        {
-          "name": "Lysandre",
-          "url": "https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh"
-        }
-      ],
-      "duration_ms": 170737,
-      "name": "La Roseraie",
-      "url": "https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
         "name": "Al Sur",
         "url": "https://open.spotify.com/album/73vbx7w0BGj1nBolIC4qqy"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 198773,
       "name": "Al Sur",
       "url": "https://open.spotify.com/track/6mrxKzfu4L3AcDxPwYPjUs"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "Sans oublier",
+        "url": "https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c"
+      },
+      "artists": [
+        {
+          "name": "Lysandre",
+          "url": "https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh"
+        }
+      ],
+      "duration_ms": 170737,
+      "name": "La Roseraie",
+      "url": "https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1467,6 +1467,30 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
+        "name": "A Time To Blossom",
+        "url": "https://open.spotify.com/album/2YZ4RouJ3GNu7xHxWoa30g"
+      },
+      "artists": [
+        {
+          "name": "Modern Cosmology",
+          "url": "https://open.spotify.com/artist/0yxsIy3WjwZlMNjBdvvHXF"
+        },
+        {
+          "name": "Laetitia Sadier",
+          "url": "https://open.spotify.com/artist/5s8mrbpjYHWIuGYUzNTpEb"
+        },
+        {
+          "name": "Momboj\u00f3",
+          "url": "https://open.spotify.com/artist/2pbePWVNtbsPWxUgYg7a79"
+        }
+      ],
+      "duration_ms": 438106,
+      "name": "A Time To Blossom",
+      "url": "https://open.spotify.com/track/4L0npYstL1PDKHV6BdMtIW"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
         "name": "Everything Changes, Nothing Ends",
         "url": "https://open.spotify.com/album/78KuAIcbQQcGnyIkfZgqrO"
       },
@@ -1511,30 +1535,6 @@
       "duration_ms": 227120,
       "name": "Heat!",
       "url": "https://open.spotify.com/track/068k9XLkeTBRsgRppNoGOG"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
-        "name": "A Time To Blossom",
-        "url": "https://open.spotify.com/album/2YZ4RouJ3GNu7xHxWoa30g"
-      },
-      "artists": [
-        {
-          "name": "Modern Cosmology",
-          "url": "https://open.spotify.com/artist/0yxsIy3WjwZlMNjBdvvHXF"
-        },
-        {
-          "name": "Laetitia Sadier",
-          "url": "https://open.spotify.com/artist/5s8mrbpjYHWIuGYUzNTpEb"
-        },
-        {
-          "name": "Momboj\u00f3",
-          "url": "https://open.spotify.com/artist/2pbePWVNtbsPWxUgYg7a79"
-        }
-      ],
-      "duration_ms": 438106,
-      "name": "A Time To Blossom",
-      "url": "https://open.spotify.com/track/4L0npYstL1PDKHV6BdMtIW"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1655,22 +1655,18 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Peculiar Machine (Georgia Anne Muldrow Remix)",
-        "url": "https://open.spotify.com/album/0W2UKYTKWHpWkQnrOZgbCV"
+        "name": "Une Autre Attente",
+        "url": "https://open.spotify.com/album/1ySxaH3vNdGtrDk42suuA9"
       },
       "artists": [
         {
-          "name": "Salami Rose Joe Louis",
-          "url": "https://open.spotify.com/artist/6EHS9kZ9PpeXaJ4wZO3FSX"
-        },
-        {
-          "name": "Georgia Anne Muldrow",
-          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
+          "name": "Laetitia Sadier",
+          "url": "https://open.spotify.com/artist/5s8mrbpjYHWIuGYUzNTpEb"
         }
       ],
-      "duration_ms": 182800,
-      "name": "Peculiar Machine - Georgia Anne Muldrow Remix",
-      "url": "https://open.spotify.com/track/2zHv421xcKeRKkeTU7S042"
+      "duration_ms": 162513,
+      "name": "Une Autre Attente",
+      "url": "https://open.spotify.com/track/7w9ZA5e8wqoFH8vyGUBqoT"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1691,18 +1687,22 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Une Autre Attente",
-        "url": "https://open.spotify.com/album/1ySxaH3vNdGtrDk42suuA9"
+        "name": "Peculiar Machine (Georgia Anne Muldrow Remix)",
+        "url": "https://open.spotify.com/album/0W2UKYTKWHpWkQnrOZgbCV"
       },
       "artists": [
         {
-          "name": "Laetitia Sadier",
-          "url": "https://open.spotify.com/artist/5s8mrbpjYHWIuGYUzNTpEb"
+          "name": "Salami Rose Joe Louis",
+          "url": "https://open.spotify.com/artist/6EHS9kZ9PpeXaJ4wZO3FSX"
+        },
+        {
+          "name": "Georgia Anne Muldrow",
+          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
         }
       ],
-      "duration_ms": 162513,
-      "name": "Une Autre Attente",
-      "url": "https://open.spotify.com/track/7w9ZA5e8wqoFH8vyGUBqoT"
+      "duration_ms": 182800,
+      "name": "Peculiar Machine - Georgia Anne Muldrow Remix",
+      "url": "https://open.spotify.com/track/2zHv421xcKeRKkeTU7S042"
     }
   ],
   "unique_name": "Oblique",

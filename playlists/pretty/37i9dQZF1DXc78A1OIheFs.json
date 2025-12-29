@@ -1,6 +1,6 @@
 {
   "description": "Discover the best in new music from Aotearoa. Cover: Lorde",
-  "num_followers": 19239,
+  "num_followers": 19243,
   "original_name": "The Local List Aotearoa",
   "owner": {
     "name": "Spotify",
@@ -95,6 +95,38 @@
     {
       "added_at": "2025-11-06 13:00:36",
       "album": {
+        "name": "So Cold",
+        "url": "https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs"
+      },
+      "artists": [
+        {
+          "name": "Balu Brigada",
+          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
+        }
+      ],
+      "duration_ms": 201133,
+      "name": "So Cold",
+      "url": "https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv"
+    },
+    {
+      "added_at": "2025-11-06 13:00:36",
+      "album": {
+        "name": "TN's",
+        "url": "https://open.spotify.com/album/6re07313Esj1OipNfjjUdh"
+      },
+      "artists": [
+        {
+          "name": "Lance Savali",
+          "url": "https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd"
+        }
+      ],
+      "duration_ms": 196267,
+      "name": "TN's",
+      "url": "https://open.spotify.com/track/3VMArMhE9WcFyEmcn2PXkh"
+    },
+    {
+      "added_at": "2025-11-06 13:00:36",
+      "album": {
         "name": "Mind Loaded (feat. Caroline Polachek, Lorde & Mustafa)",
         "url": "https://open.spotify.com/album/7eD4M0bxUGIFRCi0wWhkbt"
       },
@@ -123,34 +155,18 @@
     {
       "added_at": "2025-11-06 13:00:36",
       "album": {
-        "name": "TN's",
-        "url": "https://open.spotify.com/album/6re07313Esj1OipNfjjUdh"
+        "name": "Back In My Arms",
+        "url": "https://open.spotify.com/album/1pJWSJkimSU1tBcALRBZvr"
       },
       "artists": [
         {
-          "name": "Lance Savali",
-          "url": "https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd"
+          "name": "Hori Shaw",
+          "url": "https://open.spotify.com/artist/3weDT5G04NSpPg2q1lvcJh"
         }
       ],
-      "duration_ms": 196267,
-      "name": "TN's",
-      "url": "https://open.spotify.com/track/3VMArMhE9WcFyEmcn2PXkh"
-    },
-    {
-      "added_at": "2025-11-06 13:00:36",
-      "album": {
-        "name": "So Cold",
-        "url": "https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs"
-      },
-      "artists": [
-        {
-          "name": "Balu Brigada",
-          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
-        }
-      ],
-      "duration_ms": 201133,
-      "name": "So Cold",
-      "url": "https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv"
+      "duration_ms": 225843,
+      "name": "Back In My Arms",
+      "url": "https://open.spotify.com/track/4g5j7VcONFP64jSNSuLDOK"
     },
     {
       "added_at": "2025-11-06 13:00:36",
@@ -215,22 +231,6 @@
       "duration_ms": 162266,
       "name": "Cinnamon",
       "url": "https://open.spotify.com/track/3snrmj8vx2A3u70Lr5V4R3"
-    },
-    {
-      "added_at": "2025-11-06 13:00:36",
-      "album": {
-        "name": "Back In My Arms",
-        "url": "https://open.spotify.com/album/1pJWSJkimSU1tBcALRBZvr"
-      },
-      "artists": [
-        {
-          "name": "Hori Shaw",
-          "url": "https://open.spotify.com/artist/3weDT5G04NSpPg2q1lvcJh"
-        }
-      ],
-      "duration_ms": 225843,
-      "name": "Back In My Arms",
-      "url": "https://open.spotify.com/track/4g5j7VcONFP64jSNSuLDOK"
     },
     {
       "added_at": "2025-11-06 13:00:36",
@@ -335,6 +335,22 @@
     {
       "added_at": "2025-11-06 13:00:36",
       "album": {
+        "name": "PLEASER",
+        "url": "https://open.spotify.com/album/3DLbNeGEg77U7wyAgIv4pc"
+      },
+      "artists": [
+        {
+          "name": "Vana",
+          "url": "https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T"
+        }
+      ],
+      "duration_ms": 165925,
+      "name": "PLEASER",
+      "url": "https://open.spotify.com/track/57aoIncSQMCTT58Nczu5se"
+    },
+    {
+      "added_at": "2025-11-06 13:00:36",
+      "album": {
         "name": "Missing You",
         "url": "https://open.spotify.com/album/0UtpBQuMhN4yywit3yNb8B"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 166026,
       "name": "Sad Boiii",
       "url": "https://open.spotify.com/track/5LOUGL5zAmtxRQIJBmuUay"
-    },
-    {
-      "added_at": "2025-11-06 13:00:36",
-      "album": {
-        "name": "PLEASER",
-        "url": "https://open.spotify.com/album/3DLbNeGEg77U7wyAgIv4pc"
-      },
-      "artists": [
-        {
-          "name": "Vana",
-          "url": "https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T"
-        }
-      ],
-      "duration_ms": 165925,
-      "name": "PLEASER",
-      "url": "https://open.spotify.com/track/57aoIncSQMCTT58Nczu5se"
     },
     {
       "added_at": "2025-11-06 13:00:36",
@@ -431,6 +431,22 @@
     {
       "added_at": "2025-11-06 13:00:36",
       "album": {
+        "name": "L.A.B VI",
+        "url": "https://open.spotify.com/album/2GgCCAXEdgHQOTlVvyQpfE"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        }
+      ],
+      "duration_ms": 254920,
+      "name": "Give Me That Feeling",
+      "url": "https://open.spotify.com/track/77uJm6AgWF6Esf60O9LAU1"
+    },
+    {
+      "added_at": "2025-11-06 13:00:36",
+      "album": {
         "name": "Hyperreal (Middle of the Night)",
         "url": "https://open.spotify.com/album/2pxGM2WjzQEQ7yowyjbnYc"
       },
@@ -451,22 +467,6 @@
     {
       "added_at": "2025-11-06 13:00:36",
       "album": {
-        "name": "L.A.B VI",
-        "url": "https://open.spotify.com/album/2GgCCAXEdgHQOTlVvyQpfE"
-      },
-      "artists": [
-        {
-          "name": "L.A.B.",
-          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
-        }
-      ],
-      "duration_ms": 254920,
-      "name": "Give Me That Feeling",
-      "url": "https://open.spotify.com/track/77uJm6AgWF6Esf60O9LAU1"
-    },
-    {
-      "added_at": "2025-11-06 13:00:36",
-      "album": {
         "name": "pretend",
         "url": "https://open.spotify.com/album/3DgzMxPjuf3WDXGiOxczaj"
       },
@@ -479,6 +479,22 @@
       "duration_ms": 170676,
       "name": "pretend",
       "url": "https://open.spotify.com/track/3VKW1b4IAxKvNoTki0fLIF"
+    },
+    {
+      "added_at": "2025-11-06 13:00:36",
+      "album": {
+        "name": "Off The Rails",
+        "url": "https://open.spotify.com/album/55SaOAkogbiNQQkrX8gFZw"
+      },
+      "artists": [
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "duration_ms": 107266,
+      "name": "Off The Rails",
+      "url": "https://open.spotify.com/track/0MfseoOUoi3cOT878tC9zv"
     },
     {
       "added_at": "2025-11-06 13:00:36",
@@ -503,22 +519,6 @@
       "duration_ms": 215273,
       "name": "We Belong (feat. Corrella & L.A.B)",
       "url": "https://open.spotify.com/track/0lbtD3G02sIgY1QABgGlvn"
-    },
-    {
-      "added_at": "2025-11-06 13:00:36",
-      "album": {
-        "name": "Off The Rails",
-        "url": "https://open.spotify.com/album/55SaOAkogbiNQQkrX8gFZw"
-      },
-      "artists": [
-        {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
-        }
-      ],
-      "duration_ms": 107266,
-      "name": "Off The Rails",
-      "url": "https://open.spotify.com/track/0MfseoOUoi3cOT878tC9zv"
     },
     {
       "added_at": "2025-11-06 13:00:36",
@@ -627,22 +627,6 @@
     {
       "added_at": "2025-11-06 13:00:36",
       "album": {
-        "name": "Politix",
-        "url": "https://open.spotify.com/album/1sS8uIfmWBrlJIIgXgrODy"
-      },
-      "artists": [
-        {
-          "name": "Balu Brigada",
-          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
-        }
-      ],
-      "duration_ms": 272933,
-      "name": "Politix",
-      "url": "https://open.spotify.com/track/0ipstNSiF9kD4nNResIHtz"
-    },
-    {
-      "added_at": "2025-11-06 13:00:36",
-      "album": {
         "name": "Leisurevision",
         "url": "https://open.spotify.com/album/6o1b7D155gfX6u5SVY0bxf"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 214440,
       "name": "Above Me",
       "url": "https://open.spotify.com/track/3pupSD8tv3IVlORhWH1VM7"
+    },
+    {
+      "added_at": "2025-11-06 13:00:36",
+      "album": {
+        "name": "Politix",
+        "url": "https://open.spotify.com/album/1sS8uIfmWBrlJIIgXgrODy"
+      },
+      "artists": [
+        {
+          "name": "Balu Brigada",
+          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
+        }
+      ],
+      "duration_ms": 272933,
+      "name": "Politix",
+      "url": "https://open.spotify.com/track/0ipstNSiF9kD4nNResIHtz"
     },
     {
       "added_at": "2025-11-06 13:00:36",
@@ -851,22 +851,6 @@
     {
       "added_at": "2025-11-06 13:00:36",
       "album": {
-        "name": "Crazy Dream (Edit)",
-        "url": "https://open.spotify.com/album/7jNrqv4tbjx3tOTFEVBBAR"
-      },
-      "artists": [
-        {
-          "name": "L.A.B.",
-          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
-        }
-      ],
-      "duration_ms": 178062,
-      "name": "Crazy Dream - Edit",
-      "url": "https://open.spotify.com/track/5wfv9l4il8kg4YUeYql3Jx"
-    },
-    {
-      "added_at": "2025-11-06 13:00:36",
-      "album": {
         "name": "Chrysalis",
         "url": "https://open.spotify.com/album/0l0eWxEsoBXZ415CRKDJuB"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 283253,
       "name": "Metal",
       "url": "https://open.spotify.com/track/6KF6TkyYpEWKg6BZ3OYJz7"
+    },
+    {
+      "added_at": "2025-11-06 13:00:36",
+      "album": {
+        "name": "Crazy Dream (Edit)",
+        "url": "https://open.spotify.com/album/7jNrqv4tbjx3tOTFEVBBAR"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        }
+      ],
+      "duration_ms": 178062,
+      "name": "Crazy Dream - Edit",
+      "url": "https://open.spotify.com/track/5wfv9l4il8kg4YUeYql3Jx"
     },
     {
       "added_at": "2025-11-06 13:00:36",
@@ -963,6 +963,22 @@
     {
       "added_at": "2025-11-06 13:00:36",
       "album": {
+        "name": "Make Way For The Sun",
+        "url": "https://open.spotify.com/album/63yVK9jNRYJX26RyIekABQ"
+      },
+      "artists": [
+        {
+          "name": "O & The Mo",
+          "url": "https://open.spotify.com/artist/6BxU8WANw4zXnBceJykdKX"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Icarus",
+      "url": "https://open.spotify.com/track/7n428mAFxpfChekp39tLFT"
+    },
+    {
+      "added_at": "2025-11-06 13:00:36",
+      "album": {
         "name": "Maumahara Noa Ahau",
         "url": "https://open.spotify.com/album/1M03YWeJdRd1OhFD4g0QMp"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 170691,
       "name": "Maumahara Noa Ahau",
       "url": "https://open.spotify.com/track/6425BbzJ8gGY9ossgxcQP4"
-    },
-    {
-      "added_at": "2025-11-06 13:00:36",
-      "album": {
-        "name": "Make Way For The Sun",
-        "url": "https://open.spotify.com/album/63yVK9jNRYJX26RyIekABQ"
-      },
-      "artists": [
-        {
-          "name": "O & The Mo",
-          "url": "https://open.spotify.com/artist/6BxU8WANw4zXnBceJykdKX"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Icarus",
-      "url": "https://open.spotify.com/track/7n428mAFxpfChekp39tLFT"
     },
     {
       "added_at": "2025-11-06 13:00:36",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2025-11-06 13:00:36",
       "album": {
-        "name": "Tief Im Wald",
-        "url": "https://open.spotify.com/album/3VAlGVnh10qltWmjMu6Ioy"
-      },
-      "artists": [
-        {
-          "name": "Kiki Rockwell",
-          "url": "https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F"
-        }
-      ],
-      "duration_ms": 218033,
-      "name": "Tief Im Wald",
-      "url": "https://open.spotify.com/track/2JOieVIEDws6VOe5T0dGpu"
-    },
-    {
-      "added_at": "2025-11-06 13:00:36",
-      "album": {
         "name": "Under One Roof",
         "url": "https://open.spotify.com/album/0NQ9xTtHFwhkSfUN68PAd3"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 254281,
       "name": "Under One Roof",
       "url": "https://open.spotify.com/track/4WyvctqcmQT4ksjZjnfW64"
+    },
+    {
+      "added_at": "2025-11-06 13:00:36",
+      "album": {
+        "name": "Tief Im Wald",
+        "url": "https://open.spotify.com/album/3VAlGVnh10qltWmjMu6Ioy"
+      },
+      "artists": [
+        {
+          "name": "Kiki Rockwell",
+          "url": "https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F"
+        }
+      ],
+      "duration_ms": 218033,
+      "name": "Tief Im Wald",
+      "url": "https://open.spotify.com/track/2JOieVIEDws6VOe5T0dGpu"
     },
     {
       "added_at": "2025-11-06 13:00:36",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2025-11-06 13:00:36",
       "album": {
-        "name": "Done Did It (Revival 2.0)",
-        "url": "https://open.spotify.com/album/6rgVc8pR3ZkwkCH03AbIyR"
-      },
-      "artists": [
-        {
-          "name": "Katchafire",
-          "url": "https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa"
-        }
-      ],
-      "duration_ms": 219622,
-      "name": "Done Did It - Revival 2.0",
-      "url": "https://open.spotify.com/track/4xImn8Ug4PPnNepPt1tMzE"
-    },
-    {
-      "added_at": "2025-11-06 13:00:36",
-      "album": {
         "name": "I Wanna Tell Somebody",
         "url": "https://open.spotify.com/album/3yAHUlU3gXYqYJhTPy0sme"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 358186,
       "name": "I Wanna Tell Somebody",
       "url": "https://open.spotify.com/track/4WwYaHgCT4r1iaPBLL3AzR"
+    },
+    {
+      "added_at": "2025-11-06 13:00:36",
+      "album": {
+        "name": "Done Did It (Revival 2.0)",
+        "url": "https://open.spotify.com/album/6rgVc8pR3ZkwkCH03AbIyR"
+      },
+      "artists": [
+        {
+          "name": "Katchafire",
+          "url": "https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa"
+        }
+      ],
+      "duration_ms": 219622,
+      "name": "Done Did It - Revival 2.0",
+      "url": "https://open.spotify.com/track/4xImn8Ug4PPnNepPt1tMzE"
     },
     {
       "added_at": "2025-11-06 13:00:36",

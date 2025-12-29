@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdjiQ3xtMUy.md) - [plain]
 
 > Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο: LILA
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,428 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,430 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcdjiQ3xtMUy.md) - [plain]
 | 49 | [Leei Leei Leei](https://open.spotify.com/track/5ILUPEjMQHEOi3QTChOIa1) | [Ivi Adamou](https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw) | [Leei Leei Leei](https://open.spotify.com/album/6WjBh4pW5jI97ugVbT8SO1) | 3:09 |
 | 50 | [Kounia Bella](https://open.spotify.com/track/29fkjtxUcfXLYPrrZ0sPoa) | [Sakis Rouvas](https://open.spotify.com/artist/0VuyN0xzSqykiDB2MxihTe), [Fy](https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [Kounia Bella](https://open.spotify.com/album/3fZAhqF8zVjRFMZRD2cFOk) | 2:50 |
 
-Snapshot ID: `AAAAAOUlp2e2WobAhUr7Sdv0ko3+SvVH`
+Snapshot ID: `AAAAAAwZXlNJOuDmfNkPFij3tOmNhLt+`

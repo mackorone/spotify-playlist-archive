@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: Youngboy Never Broke Again
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,253,046 likes - 101 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,253,061 likes - 101 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 100 | [Motion](https://open.spotify.com/track/6tXYuvwZnIuTMnN9QoMw3Z) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Dlow Curry](https://open.spotify.com/album/2KtiNduXFIrpZG2nQuboD4) | 2:00 |
 | 101 | [OUTTA TOWN \(feat\. BossMan Dlow\)](https://open.spotify.com/track/2MzTqKr8Fsu3I5iLUPjLOP) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [SPEAK NOW OR...](https://open.spotify.com/album/3JfTxMny1oIZDmYcBnoHWT) | 2:13 |
 
-Snapshot ID: `AAAAAK8YKRZiwjrGVlloFEaet9s+/q9C`
+Snapshot ID: `AAAAAE+nLhMc6aYzTm7ezXufoGhs/mnS`

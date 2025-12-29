@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MLFaUdXnjA.md) - [plain]
 
 > Sit back and relax to the chillest pop\.  Cover: Alex Warren & Gigi Perez
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,811,445 likes - 105 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,811,273 likes - 105 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MLFaUdXnjA.md) - [plain]
 | 104 | [Who are you?](https://open.spotify.com/track/6jh4GCOZfSXrstZiFKYYx0) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Who are you?](https://open.spotify.com/album/3fi0zt0K8yyyGmfBoSa5hn) | 2:31 |
 | 105 | [I miss you, I’m sorry](https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 2:47 |
 
-Snapshot ID: `AAAAAJaaSp9glhFO+LZhmYhAieB9hdng`
+Snapshot ID: `AAAAAMKeEW4E6MjV3WJPWzfN2+WhJdeZ`

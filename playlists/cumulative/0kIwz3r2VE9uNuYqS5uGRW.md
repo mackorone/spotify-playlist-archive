@@ -4,7 +4,7 @@
 
 > 
 
-129 songs - 6 hr 44 min
+130 songs - 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Como De La Rose](https://open.spotify.com/track/7iiP6jVAweqnI1ldaeSgNS) | [Adam Oyola](https://open.spotify.com/artist/24VmBb43LrEmkEwg3h3sT2) | [Como De La Rose](https://open.spotify.com/album/7iKUccDnDpYjQKdvdIHhYO) | 2:35 | 2025-09-08 |  |
 | [Comozuna](https://open.spotify.com/track/7vRnDHhrIddkQT96Nlda0t) | [Cesar Mar](https://open.spotify.com/artist/5x2wtFnzOEdrM1fH8UomaP), [RubzzZ](https://open.spotify.com/artist/6ALeydrfOfyJcwoRL75Evg) | [Comozuna](https://open.spotify.com/album/7csdKgaN0n4DVZO7TONXX9) | 2:51 | 2025-07-27 |  |
 | [Copper](https://open.spotify.com/track/5WKo5MJKoepRrmXYN5pzGY) | [John Pronto](https://open.spotify.com/artist/5QtUYAAvpQfIFojICPFZuq) | [For the Birds](https://open.spotify.com/album/03ME7K35Ti1du3NWt02j5t) | 3:56 | 2025-12-10 |  |
+| [Crying \(In September\)](https://open.spotify.com/track/6DhVlfBpDjqnGQHx2LhxK2) | [Roses!Hands!](https://open.spotify.com/artist/2IIPLXX4gc8oKR37sOsa9o), [DJ Rozwell](https://open.spotify.com/artist/5ETn9pXrEi2upRr6P87jew) | [MMXXII](https://open.spotify.com/album/6vRRH7PlhC05goJHMlpwGN) | 3:37 | 2025-12-28 |  |
 | [Cueca Vermelha](https://open.spotify.com/track/0psQlXBy3LAWiYGcg2Vz6Y) | [Marcos Yury Dieper](https://open.spotify.com/artist/2NgqmdXxP8paU9uQWL3btf) | [Cueca Vermelha](https://open.spotify.com/album/4hJlPnSql0scw26e7qr0l4) | 3:30 | 2025-06-22 |  |
 | [Cuentame](https://open.spotify.com/track/1ofaTXh8Vp8j8JDjFkcvoN) | [J MART](https://open.spotify.com/artist/4U5QlsisiFasO599Hn5rTK) | [Cuentame](https://open.spotify.com/album/5aPjoYmj0AuOvC3pg6Xzrv) | 1:48 | 2025-08-17 |  |
 | [Desejos](https://open.spotify.com/track/2BhCdMZCJt4Y6IDuJNNMOK) | [Tiago Amorim](https://open.spotify.com/artist/1blXm9FViuataPse8jKebH) | [Desejos](https://open.spotify.com/album/3p3ftOcLj6YGJvVuzYUsYU) | 3:54 | 2025-12-10 |  |

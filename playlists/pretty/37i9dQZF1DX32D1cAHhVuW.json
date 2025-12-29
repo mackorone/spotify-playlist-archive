@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/druski/?hl=en\">Druski</a>",
-  "num_followers": 65098,
+  "num_followers": 65120,
   "original_name": "Druski's Taste",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Certified Lover Boy",
-        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 205721,
-      "name": "Pipe Down",
-      "url": "https://open.spotify.com/track/11pEKMLmavDu8fxOB5QjbQ"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Pink Friday",
         "url": "https://open.spotify.com/album/3LJhoYn4nnHmvPRO3ppbsl"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 279306,
       "name": "Moment 4 Life",
       "url": "https://open.spotify.com/track/1ia019RqDK2o4QiANR1Dyn"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 205721,
+      "name": "Pipe Down",
+      "url": "https://open.spotify.com/track/11pEKMLmavDu8fxOB5QjbQ"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -243,50 +243,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Thats What They All Say",
-        "url": "https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        },
-        {
-          "name": "Static Major",
-          "url": "https://open.spotify.com/artist/3pbi8H08p95NUZ7m6ybxUV"
-        },
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 177190,
-      "name": "Luv Is Dro (feat. Static Major & Bryson Tiller)",
-      "url": "https://open.spotify.com/track/0LcsvJQSFIQo3RjNhPcYqT"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Free Dem Boyz",
-        "url": "https://open.spotify.com/album/4zJiUubJvgUJNq0BVD9Mvs"
-      },
-      "artists": [
-        {
-          "name": "42 Dugg",
-          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 199093,
-      "name": "Maybach (feat. Future)",
-      "url": "https://open.spotify.com/track/2Qt8qG9SWPdtRiaWcPNJRm"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Pray 4 Love (Deluxe)",
         "url": "https://open.spotify.com/album/0pGGvcUT08FrwV0RJIIVA9"
       },
@@ -299,26 +255,6 @@
       "duration_ms": 173893,
       "name": "Letter From Houston",
       "url": "https://open.spotify.com/track/64NX4R1rgHb1LMLDAnNNPp"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Southside",
-        "url": "https://open.spotify.com/album/317R21F7calEn6gpLnHEkb"
-      },
-      "artists": [
-        {
-          "name": "Lloyd",
-          "url": "https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9"
-        },
-        {
-          "name": "Ashanti",
-          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
-        }
-      ],
-      "duration_ms": 277840,
-      "name": "Southside",
-      "url": "https://open.spotify.com/track/7lurcq2Yw96B1K0KOJAHxg"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -367,6 +303,70 @@
       "duration_ms": 235014,
       "name": "Rich Off Pain (feat. Rod Wave)",
       "url": "https://open.spotify.com/track/6MSyik7EzWsHQjTOPLFBrr"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Thats What They All Say",
+        "url": "https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
+        {
+          "name": "Static Major",
+          "url": "https://open.spotify.com/artist/3pbi8H08p95NUZ7m6ybxUV"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 177190,
+      "name": "Luv Is Dro (feat. Static Major & Bryson Tiller)",
+      "url": "https://open.spotify.com/track/0LcsvJQSFIQo3RjNhPcYqT"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Free Dem Boyz",
+        "url": "https://open.spotify.com/album/4zJiUubJvgUJNq0BVD9Mvs"
+      },
+      "artists": [
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 199093,
+      "name": "Maybach (feat. Future)",
+      "url": "https://open.spotify.com/track/2Qt8qG9SWPdtRiaWcPNJRm"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Southside",
+        "url": "https://open.spotify.com/album/317R21F7calEn6gpLnHEkb"
+      },
+      "artists": [
+        {
+          "name": "Lloyd",
+          "url": "https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9"
+        },
+        {
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+        }
+      ],
+      "duration_ms": 277840,
+      "name": "Southside",
+      "url": "https://open.spotify.com/track/7lurcq2Yw96B1K0KOJAHxg"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -431,22 +431,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "SUVs (Black on Black)",
-        "url": "https://open.spotify.com/album/4K3SQSfKMXLcVnyUSFELZw"
+        "name": "SoulFly (Deluxe Version)",
+        "url": "https://open.spotify.com/album/15BnishwaiZhh0ZY3fnxMN"
       },
       "artists": [
         {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
         },
         {
-          "name": "Pooh Shiesty",
-          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         }
       ],
-      "duration_ms": 157675,
-      "name": "SUVs (Black on Black)",
-      "url": "https://open.spotify.com/track/1MIGkQxcdAt2lDx6ySpsc5"
+      "duration_ms": 212063,
+      "name": "Already Won (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/2wOnrN7fkzV4NsLqym2C6O"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -475,26 +475,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "SoulFly (Deluxe Version)",
-        "url": "https://open.spotify.com/album/15BnishwaiZhh0ZY3fnxMN"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 212063,
-      "name": "Already Won (feat. Lil Durk)",
-      "url": "https://open.spotify.com/track/2wOnrN7fkzV4NsLqym2C6O"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "The Voice of the Heroes",
         "url": "https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80"
       },
@@ -515,22 +495,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Young & Turnt 2",
-        "url": "https://open.spotify.com/album/3K7w8ofzG4VpAnL3co76qq"
-      },
-      "artists": [
-        {
-          "name": "42 Dugg",
-          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
-        }
-      ],
-      "duration_ms": 119409,
-      "name": "Been Turnt",
-      "url": "https://open.spotify.com/track/3Bnm2f2khLuWgBT9htSG9h"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Bigger Than Life Or Death",
         "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
       },
@@ -543,6 +507,42 @@
       "duration_ms": 93799,
       "name": "Lick Back",
       "url": "https://open.spotify.com/track/6P5ulGKtC4x6RnFbzfpq8O"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "SUVs (Black on Black)",
+        "url": "https://open.spotify.com/album/4K3SQSfKMXLcVnyUSFELZw"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
+        {
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
+        }
+      ],
+      "duration_ms": 157675,
+      "name": "SUVs (Black on Black)",
+      "url": "https://open.spotify.com/track/1MIGkQxcdAt2lDx6ySpsc5"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Young & Turnt 2",
+        "url": "https://open.spotify.com/album/3K7w8ofzG4VpAnL3co76qq"
+      },
+      "artists": [
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        }
+      ],
+      "duration_ms": 119409,
+      "name": "Been Turnt",
+      "url": "https://open.spotify.com/track/3Bnm2f2khLuWgBT9htSG9h"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -603,6 +603,54 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Gucci Mane Presents: So Icy Summer",
+        "url": "https://open.spotify.com/album/7hEgFnAICf8FqaERqmehOT"
+      },
+      "artists": [
+        {
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
+        }
+      ],
+      "duration_ms": 177110,
+      "name": "7.62 God",
+      "url": "https://open.spotify.com/track/7w77k7yCaDOMe25fYxnzit"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "25",
+        "url": "https://open.spotify.com/album/7AvdSuKYkwzJA8upKuW6zz"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 244329,
+      "name": "2 Chains",
+      "url": "https://open.spotify.com/track/6zpoUJVDLVTDGOqGM356Iq"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Forever Set In Stone",
+        "url": "https://open.spotify.com/album/6Jvc8E7j0031lxlEh0kq8A"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 179997,
+      "name": "Forever Set In Stone",
+      "url": "https://open.spotify.com/track/2eG49TEm56KszFmCLOM5PK"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Scorpion",
         "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
       },
@@ -619,42 +667,6 @@
       "duration_ms": 245786,
       "name": "Don\u2019t Matter To Me (with Michael Jackson)",
       "url": "https://open.spotify.com/track/6G8kHiVZ1jW7vHMPVRNZU0"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Thats What They All Say",
-        "url": "https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 123446,
-      "name": "Face Of My City (feat. Lil Baby)",
-      "url": "https://open.spotify.com/track/6MDdceLYec4AxohmorE4vH"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Gucci Mane Presents: So Icy Summer",
-        "url": "https://open.spotify.com/album/7hEgFnAICf8FqaERqmehOT"
-      },
-      "artists": [
-        {
-          "name": "Pooh Shiesty",
-          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
-        }
-      ],
-      "duration_ms": 177110,
-      "name": "7.62 God",
-      "url": "https://open.spotify.com/track/7w77k7yCaDOMe25fYxnzit"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -679,38 +691,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Forever Set In Stone",
-        "url": "https://open.spotify.com/album/6Jvc8E7j0031lxlEh0kq8A"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 179997,
-      "name": "Forever Set In Stone",
-      "url": "https://open.spotify.com/track/2eG49TEm56KszFmCLOM5PK"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "25",
-        "url": "https://open.spotify.com/album/7AvdSuKYkwzJA8upKuW6zz"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 244329,
-      "name": "2 Chains",
-      "url": "https://open.spotify.com/track/6zpoUJVDLVTDGOqGM356Iq"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "G.I.H.F.",
         "url": "https://open.spotify.com/album/5Oj9ZSzPQOfyTUJDKytirZ"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 276239,
       "name": "Walk (feat. Lil Baby & 42 Dugg)",
       "url": "https://open.spotify.com/track/1qDLTUxg7xyylgtyNleurw"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Thats What They All Say",
+        "url": "https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 123446,
+      "name": "Face Of My City (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/6MDdceLYec4AxohmorE4vH"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -819,26 +819,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "SoulFly (Deluxe Version)",
-        "url": "https://open.spotify.com/album/15BnishwaiZhh0ZY3fnxMN"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        },
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 231771,
-      "name": "Get Ready (feat. Kodak Black)",
-      "url": "https://open.spotify.com/track/04EHa1ZzBl8OPvcnddph4p"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Unfuckwitable (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4TZreMdjJL5LjJmK61oxG6"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 202067,
       "name": "Paperwork Party - Remix",
       "url": "https://open.spotify.com/track/5WOGp3E41juuRbaw4LlQZT"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "SoulFly (Deluxe Version)",
+        "url": "https://open.spotify.com/album/15BnishwaiZhh0ZY3fnxMN"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 231771,
+      "name": "Get Ready (feat. Kodak Black)",
+      "url": "https://open.spotify.com/track/04EHa1ZzBl8OPvcnddph4p"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -907,6 +907,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Haitian Boy Kodak",
+        "url": "https://open.spotify.com/album/4DGNmFH2q7WEtFI88geAmu"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 169401,
+      "name": "Dirty K",
+      "url": "https://open.spotify.com/track/0xAY7oG6h1YBv0Tvc8eUnu"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Time's Up",
         "url": "https://open.spotify.com/album/3N4tO5aWP6z6LH44hPPApi"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 147144,
       "name": "Stay Down",
       "url": "https://open.spotify.com/track/0p3ExMS9gxtT1GMMmrkuak"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Haitian Boy Kodak",
-        "url": "https://open.spotify.com/album/4DGNmFH2q7WEtFI88geAmu"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 169401,
-      "name": "Dirty K",
-      "url": "https://open.spotify.com/track/0xAY7oG6h1YBv0Tvc8eUnu"
     },
     {
       "added_at": "2022-10-01 16:00:00",

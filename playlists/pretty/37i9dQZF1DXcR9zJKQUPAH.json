@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2017. Cover: The xx",
-  "num_followers": 160455,
+  "num_followers": 160499,
   "original_name": "Best of Indie 2017",
   "owner": {
     "name": "Spotify",
@@ -687,18 +687,18 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Don't You Worry, Honey",
-        "url": "https://open.spotify.com/album/5VvCD7gVffRgdPfExxLfF4"
+        "name": "Cooks",
+        "url": "https://open.spotify.com/album/6P5uQurlsYMrmOgGRd3xpz"
       },
       "artists": [
         {
-          "name": "Sir Sly",
-          "url": "https://open.spotify.com/artist/3DFoVPonoAAt4EZ1FEI8ue"
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
         }
       ],
-      "duration_ms": 231896,
-      "name": "High",
-      "url": "https://open.spotify.com/track/17aDyX39gb1iV1ZWvD1ffE"
+      "duration_ms": 174105,
+      "name": "Cooks",
+      "url": "https://open.spotify.com/track/75TDPu9k7Yv3IovdYaNCwk"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -719,18 +719,18 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Cooks",
-        "url": "https://open.spotify.com/album/6P5uQurlsYMrmOgGRd3xpz"
+        "name": "Don't You Worry, Honey",
+        "url": "https://open.spotify.com/album/5VvCD7gVffRgdPfExxLfF4"
       },
       "artists": [
         {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+          "name": "Sir Sly",
+          "url": "https://open.spotify.com/artist/3DFoVPonoAAt4EZ1FEI8ue"
         }
       ],
-      "duration_ms": 174105,
-      "name": "Cooks",
-      "url": "https://open.spotify.com/track/75TDPu9k7Yv3IovdYaNCwk"
+      "duration_ms": 231896,
+      "name": "High",
+      "url": "https://open.spotify.com/track/17aDyX39gb1iV1ZWvD1ffE"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "The Far Field",
-        "url": "https://open.spotify.com/album/5fhDKNsP4aDsSLjd4JLXrz"
-      },
-      "artists": [
-        {
-          "name": "Future Islands",
-          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
-        }
-      ],
-      "duration_ms": 205586,
-      "name": "Ran",
-      "url": "https://open.spotify.com/track/5GxeKtNdjSVAZTfxSsnXhF"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
         "name": "Apricot Princess",
         "url": "https://open.spotify.com/album/2NBVxjZcbH5H1N1Ab2ExDH"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 135706,
       "name": "Untitled",
       "url": "https://open.spotify.com/track/3PbV3ocgAp3Xn0omGFC0cG"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "The Far Field",
+        "url": "https://open.spotify.com/album/5fhDKNsP4aDsSLjd4JLXrz"
+      },
+      "artists": [
+        {
+          "name": "Future Islands",
+          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
+        }
+      ],
+      "duration_ms": 205586,
+      "name": "Ran",
+      "url": "https://open.spotify.com/track/5GxeKtNdjSVAZTfxSsnXhF"
     }
   ],
   "unique_name": "Best of Indie 2017",

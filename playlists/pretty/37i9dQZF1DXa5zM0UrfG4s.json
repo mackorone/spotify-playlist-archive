@@ -1,6 +1,6 @@
 {
   "description": "r\u00f8lp og s\u00e5nt",
-  "num_followers": 116600,
+  "num_followers": 116599,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2025-11-06 23:00:18",
       "album": {
+        "name": "N\u00e5 er det helg",
+        "url": "https://open.spotify.com/album/0YPZCUXaKBeoC2Y5AV7ius"
+      },
+      "artists": [
+        {
+          "name": "Katastrofe",
+          "url": "https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR"
+        }
+      ],
+      "duration_ms": 183958,
+      "name": "N\u00e5 er det helg",
+      "url": "https://open.spotify.com/track/2n7GTFWvs7pyR02eHEjiLp"
+    },
+    {
+      "added_at": "2025-11-06 23:00:18",
+      "album": {
         "name": "GUTTA (feat. Plumbo)",
         "url": "https://open.spotify.com/album/1yypZTOVKtFi9Lnkb08H9x"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 158866,
       "name": "GUTTA (feat. Plumbo)",
       "url": "https://open.spotify.com/track/5DXX1gqh2B9pvK042sb3mE"
-    },
-    {
-      "added_at": "2025-11-06 23:00:18",
-      "album": {
-        "name": "N\u00e5 er det helg",
-        "url": "https://open.spotify.com/album/0YPZCUXaKBeoC2Y5AV7ius"
-      },
-      "artists": [
-        {
-          "name": "Katastrofe",
-          "url": "https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR"
-        }
-      ],
-      "duration_ms": 183958,
-      "name": "N\u00e5 er det helg",
-      "url": "https://open.spotify.com/track/2n7GTFWvs7pyR02eHEjiLp"
     },
     {
       "added_at": "2025-11-06 23:00:18",

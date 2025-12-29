@@ -1,6 +1,6 @@
 {
   "description": "With Bruno Mars, Justin Bieber, Dua Lipa and more",
-  "num_followers": 9336,
+  "num_followers": 9343,
   "original_name": "24K Magic Radio",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "AAAAAF/F0krwqUsqGDGSI/6Q8b5iN/d9",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "24K Magic",
+        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 225983,
+      "name": "24K Magic",
+      "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
+    },
     {
       "added_at": null,
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 269658,
       "name": "Uptown Funk (feat. Bruno Mars)",
       "url": "https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "24K Magic",
-        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 225983,
-      "name": "24K Magic",
-      "url": "https://open.spotify.com/track/6b8Be6ljOzmkOmFslEb23P"
     },
     {
       "added_at": null,
@@ -107,6 +107,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Unorthodox Jukebox",
+        "url": "https://open.spotify.com/album/4xWulj18AGahlyuZPulaGe"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 178560,
+      "name": "Treasure",
+      "url": "https://open.spotify.com/track/4G2Hbfwvn3oH7LxxPXjjGn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MAYHEM",
         "url": "https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Unorthodox Jukebox",
-        "url": "https://open.spotify.com/album/4xWulj18AGahlyuZPulaGe"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 178560,
-      "name": "Treasure",
-      "url": "https://open.spotify.com/track/4G2Hbfwvn3oH7LxxPXjjGn"
     },
     {
       "added_at": null,
@@ -203,6 +203,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "24K Magic",
+        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 206693,
+      "name": "That's What I Like",
+      "url": "https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Evil Genius",
         "url": "https://open.spotify.com/album/5xqQtdlJUY7Fg4BMp13LrX"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 203161,
       "name": "Wake Up in the Sky",
       "url": "https://open.spotify.com/track/2G1tXoGBaEMJ7FKGnkf6ud"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "24K Magic",
-        "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 206693,
-      "name": "That's What I Like",
-      "url": "https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU"
     },
     {
       "added_at": null,
@@ -291,22 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]",
-        "url": "https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        }
-      ],
-      "duration_ms": 289133,
-      "name": "I Gotta Feeling",
-      "url": "https://open.spotify.com/track/4kLLWz7srcuLKA7Et40PQR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unorthodox Jukebox",
         "url": "https://open.spotify.com/album/4xWulj18AGahlyuZPulaGe"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 233653,
       "name": "Locked out of Heaven",
       "url": "https://open.spotify.com/track/5g7sDjBhZ4I3gcFIpkrLuI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]",
+        "url": "https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "duration_ms": 289133,
+      "name": "I Gotta Feeling",
+      "url": "https://open.spotify.com/track/4kLLWz7srcuLKA7Et40PQR"
     },
     {
       "added_at": null,
@@ -371,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Future Nostalgia",
-        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 183290,
-      "name": "Don't Start Now",
-      "url": "https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Doo-Wops & Hooligans",
         "url": "https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 189109,
       "name": "The Lazy Song",
       "url": "https://open.spotify.com/track/386RUes7n1uM1yfzgeUuwp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Future Nostalgia",
+        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 183290,
+      "name": "Don't Start Now",
+      "url": "https://open.spotify.com/track/3PfIrDoz19wz7qK7tYeu62"
     },
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "September (sped up + slowed)",
-        "url": "https://open.spotify.com/album/3p90GIjEg4gXpnLmwGGvzI"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 216022,
-      "name": "September",
-      "url": "https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "24K Magic",
         "url": "https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA"
       },
@@ -476,9 +460,9 @@
           "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 191000,
-      "name": "Finesse",
-      "url": "https://open.spotify.com/track/5XMkENs3GfeRza8MfVAhjK"
+      "duration_ms": 186973,
+      "name": "Chunky",
+      "url": "https://open.spotify.com/track/0mBKv9DkYfQHjdMcw2jdyI"
     },
     {
       "added_at": null,
@@ -499,6 +483,22 @@
       "duration_ms": 227833,
       "name": "Rather Be (feat. Jess Glynne)",
       "url": "https://open.spotify.com/track/61dCUoMCg28qEBzrW6htYM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "September (sped up + slowed)",
+        "url": "https://open.spotify.com/album/3p90GIjEg4gXpnLmwGGvzI"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 216022,
+      "name": "September",
+      "url": "https://open.spotify.com/track/3kXoKlD84c6OmIcOLfrfEs"
     },
     {
       "added_at": null,
@@ -551,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Up All Night",
-        "url": "https://open.spotify.com/album/6cunQQ7YZisYOoiFu2ywIq"
-      },
-      "artists": [
-        {
-          "name": "One Direction",
-          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
-        }
-      ],
-      "duration_ms": 199986,
-      "name": "What Makes You Beautiful",
-      "url": "https://open.spotify.com/track/4cluDES4hQEUhmXj6TXkSo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Finesse (Remix) [feat. Cardi B]",
         "url": "https://open.spotify.com/album/3mumK2ar9b4JPhVOZR0V2p"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 217288,
       "name": "Finesse - Remix; feat. Cardi B",
       "url": "https://open.spotify.com/track/3Vo4wInECJQuz9BIBMOu8i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/6cunQQ7YZisYOoiFu2ywIq"
+      },
+      "artists": [
+        {
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+        }
+      ],
+      "duration_ms": 199986,
+      "name": "What Makes You Beautiful",
+      "url": "https://open.spotify.com/track/4cluDES4hQEUhmXj6TXkSo"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Head Full of Dreams",
-        "url": "https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 263786,
-      "name": "Adventure of a Lifetime",
-      "url": "https://open.spotify.com/track/69uxyAqqPIsUyTO8txoP2M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In The Zone",
         "url": "https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI"
       },
@@ -664,9 +648,25 @@
           "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 186973,
-      "name": "Chunky",
-      "url": "https://open.spotify.com/track/0mBKv9DkYfQHjdMcw2jdyI"
+      "duration_ms": 191000,
+      "name": "Finesse",
+      "url": "https://open.spotify.com/track/5XMkENs3GfeRza8MfVAhjK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Head Full of Dreams",
+        "url": "https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 263786,
+      "name": "Adventure of a Lifetime",
+      "url": "https://open.spotify.com/track/69uxyAqqPIsUyTO8txoP2M"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
       "duration_ms": 173991,
       "name": "Watermelon Sugar",
       "url": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dua Lipa (Complete Edition)",
-        "url": "https://open.spotify.com/album/2wKlXxlwYDByrGY1aAUh6o"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 209320,
-      "name": "New Rules",
-      "url": "https://open.spotify.com/track/2xJCMIJfcNYDc5iR0sAm2O"
     },
     {
       "added_at": null,
@@ -779,6 +763,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dua Lipa (Complete Edition)",
+        "url": "https://open.spotify.com/album/2wKlXxlwYDByrGY1aAUh6o"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 209320,
+      "name": "New Rules",
+      "url": "https://open.spotify.com/track/2xJCMIJfcNYDc5iR0sAm2O"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "My World 2.0",
         "url": "https://open.spotify.com/album/3BmcYMh0KYsimWL6p2gPa9"
       },
@@ -795,22 +795,6 @@
       "duration_ms": 214240,
       "name": "Baby",
       "url": "https://open.spotify.com/track/6epn3r7S14KUqlReYr77hA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Loud",
-        "url": "https://open.spotify.com/album/5QG3tjE5L9F6O2vCAPph38"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 235493,
-      "name": "Only Girl (In The World)",
-      "url": "https://open.spotify.com/track/2ENexcMEMsYk0rVJigVD3i"
     },
     {
       "added_at": null,
@@ -847,6 +831,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Loud",
+        "url": "https://open.spotify.com/album/5QG3tjE5L9F6O2vCAPph38"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 235493,
+      "name": "Only Girl (In The World)",
+      "url": "https://open.spotify.com/track/2ENexcMEMsYk0rVJigVD3i"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hot Pink",
         "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
       },
@@ -859,6 +859,22 @@
       "duration_ms": 237894,
       "name": "Say So",
       "url": "https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Illuminate",
+        "url": "https://open.spotify.com/album/1ne2D0NxoGyZd31gAM4HNd"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 187973,
+      "name": "Treat You Better",
+      "url": "https://open.spotify.com/track/3QGsuHI8jO1Rx4JWLUh9jd"
     },
     {
       "added_at": null,
@@ -879,22 +895,6 @@
       "duration_ms": 269186,
       "name": "I Feel It Coming",
       "url": "https://open.spotify.com/track/5GXAXm5YOmYT0kL5jHvYBt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Illuminate",
-        "url": "https://open.spotify.com/album/1ne2D0NxoGyZd31gAM4HNd"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 187973,
-      "name": "Treat You Better",
-      "url": "https://open.spotify.com/track/3QGsuHI8jO1Rx4JWLUh9jd"
     }
   ],
   "unique_name": "24K Magic Radio",

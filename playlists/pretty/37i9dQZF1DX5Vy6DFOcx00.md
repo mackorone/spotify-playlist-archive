@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Vy6DFOcx00.md) - [plain]
 
 > iykyk
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,151,590 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,151,135 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Vy6DFOcx00.md) - [plain]
 | 74 | [Lover Girl](https://open.spotify.com/track/6dWilYAxP2aJbTTt0UsatK) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Lover Girl](https://open.spotify.com/album/6Qj5rkXFYGlCe7X6VqqoRS) | 2:44 |
 | 75 | [Can You Feel My Heart](https://open.spotify.com/track/16pVm6CEelmu8uUlXEyq0s) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Can You Feel My Heart](https://open.spotify.com/album/1C4aOSd7ekrK5BBcatimCN) | 3:48 |
 
-Snapshot ID: `AAAAAC2d1UPA2/4KXwJGMmr5Mz6I9rdT`
+Snapshot ID: `AAAAAPew0tovwnfyH3BqdZ3g9YZsPCes`

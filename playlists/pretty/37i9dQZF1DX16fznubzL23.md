@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 
 > e don cast
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,901 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,915 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,15 +30,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 | 20 | [October](https://open.spotify.com/track/6BnfAEkQfViLev4GJnbDnO) | [Di'Ja](https://open.spotify.com/artist/6NPhzQsQKDigbNjJInGdCd) | [October](https://open.spotify.com/album/6hVDA0DRhppBtLvxhrTLh2) | 2:33 |
 | 21 | [Last Time](https://open.spotify.com/track/14nSbMQqRo1BxshIjprVDO) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Grit & Lust](https://open.spotify.com/album/4se56vUQlf2nGZHynfAkTZ) | 2:33 |
 | 22 | [10 Kilo](https://open.spotify.com/track/2IOMDdgUZfjlsPYXGeeoaH) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 2:16 |
-| 23 | [Pour Me Water](https://open.spotify.com/track/1DrfpnLvbwndPScRLwbUE0) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Barnabas](https://open.spotify.com/album/0uk18xBtNopYpvMT1t7BCU) | 2:26 |
+| 23 | [Goodbye \(Warm Up\)\(feat\. Asake\)](https://open.spotify.com/track/7vAXxDFUHDPxWzSujxb8jB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 2:43 |
 | 24 | [Bounce](https://open.spotify.com/track/5oaz3L4Ytz4UZpsH613uL8) | [Oiza x Meyi](https://open.spotify.com/artist/06HXi3s2lqAmgpEeOstUTQ) | [Bounce](https://open.spotify.com/album/0WMD6V0S9gLpqZIutA8hL1) | 2:27 |
-| 25 | [Goodbye \(Warm Up\)\(feat\. Asake\)](https://open.spotify.com/track/7vAXxDFUHDPxWzSujxb8jB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 2:43 |
+| 25 | [Pour Me Water](https://open.spotify.com/track/1DrfpnLvbwndPScRLwbUE0) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Barnabas](https://open.spotify.com/album/0uk18xBtNopYpvMT1t7BCU) | 2:26 |
 | 26 | [For Days](https://open.spotify.com/track/7sSpKoxxtecQry1wxVmpIz) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [For Days](https://open.spotify.com/album/0B2ciZrwX6zv2ADSniu4i2) | 2:44 |
 | 27 | [Broken Souls](https://open.spotify.com/track/2oVzb93uUGTqWSOCNdRb9v) | [KTIZO](https://open.spotify.com/artist/4iRmNYPp7K9YaLrQXohMPr), [Tiimie](https://open.spotify.com/artist/0qrPa7IFsPw9t3sLLfotz9) | [Broken Souls](https://open.spotify.com/album/63J8rxYIz90Md1056lJUnp) | 2:37 |
-| 28 | [My Dealer](https://open.spotify.com/track/7IFoyt4ZL7raIETupyDCYM) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [My Dealer](https://open.spotify.com/album/59uwDlcguOL6Pkf5Ln3tGU) | 2:28 |
-| 29 | [Luvaluvah](https://open.spotify.com/track/00uXDC6A3RK2HJlTK6h0Ak) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Olamidé](https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure) | 2:50 |
+| 28 | [Beggie Beggie](https://open.spotify.com/track/6zublRIkZocboXucqc8hgB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [19 & Dangerous](https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv) | 3:28 |
+| 29 | [My Dealer](https://open.spotify.com/track/7IFoyt4ZL7raIETupyDCYM) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [My Dealer](https://open.spotify.com/album/59uwDlcguOL6Pkf5Ln3tGU) | 2:28 |
 | 30 | [PURE HATE](https://open.spotify.com/track/5NAnITwlO7fJtxTplOyFh5) | [X.O](https://open.spotify.com/artist/2zu7sut23i4vR8OZPAxWyJ) | [PURE HATE](https://open.spotify.com/album/3GOCidBpTz6TYfu3MHCk3o) | 2:18 |
-| 31 | [Beggie Beggie](https://open.spotify.com/track/6zublRIkZocboXucqc8hgB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [19 & Dangerous](https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv) | 3:28 |
+| 31 | [Luvaluvah](https://open.spotify.com/track/00uXDC6A3RK2HJlTK6h0Ak) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Olamidé](https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure) | 2:50 |
 | 32 | [hell and back](https://open.spotify.com/track/1v9AZkRJoirN00lAC3Pvd8) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [adedamola](https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A) | 2:41 |
 | 33 | [Not An Angel](https://open.spotify.com/track/4hbadZZrbM08KZIQZomWaI) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Not An Angel](https://open.spotify.com/album/0rWWei7R5XHkr9X4mui55k) | 3:05 |
 | 34 | [Boulevard](https://open.spotify.com/track/6khF6tGGrGcsQIfA4LP7P0) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Freestyle EP](https://open.spotify.com/album/77S4lBoIMeZEYvtWBMH5DO) | 1:52 |

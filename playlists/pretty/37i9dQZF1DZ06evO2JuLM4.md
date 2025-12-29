@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2JuLM4.md) - [plain]
 
 > This is The White Stripes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,597 likes - 45 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,606 likes - 45 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,11 +42,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2JuLM4.md) - [plain]
 | 32 | [Passive Manipulation](https://open.spotify.com/track/6DqmBfQhxbkB6PShaX1t45) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Get Behind Me Satan](https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh) | 0:35 |
 | 33 | [Truth Doesn't Make a Noise](https://open.spotify.com/track/4cuKwDw7T3JELdePWwa3hZ) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [De Stijl](https://open.spotify.com/album/3jqKVacx9hnu47kCAG55T3) | 3:14 |
 | 34 | [One More Cup of Coffee](https://open.spotify.com/track/5xaDPU9lS1ZdaIdTiIuUI6) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [The White Stripes](https://open.spotify.com/album/4Nemfc7fJzJmmqhBQ8khhj) | 3:13 |
-| 35 | [Good To Me](https://open.spotify.com/track/46An5rnGjzodq0IJltXAuU) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Seven Nation Army](https://open.spotify.com/album/2ntSwmOLAM0fMML87wtLKq) | 2:06 |
+| 35 | [Black Jack Davey](https://open.spotify.com/track/2efxKDJEqUD0Psqdo2qATs) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Seven Nation Army](https://open.spotify.com/album/2ntSwmOLAM0fMML87wtLKq) | 5:06 |
 | 36 | [Take, Take, Take](https://open.spotify.com/track/4DDKpCCJPC0A66aGTQv6gH) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Get Behind Me Satan](https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh) | 4:22 |
 | 37 | [Hand Springs](https://open.spotify.com/track/65oZNFPOkwjLQmYze98niK) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Hand Springs](https://open.spotify.com/album/5V5XxYMoaaMR7M0Pty3dPa) | 2:56 |
 | 38 | [Cannon](https://open.spotify.com/track/7npKbWXEH9hapuitQa03ch) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [The White Stripes](https://open.spotify.com/album/4Nemfc7fJzJmmqhBQ8khhj) | 2:31 |
-| 39 | [Black Jack Davey](https://open.spotify.com/track/2efxKDJEqUD0Psqdo2qATs) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Seven Nation Army](https://open.spotify.com/album/2ntSwmOLAM0fMML87wtLKq) | 5:06 |
+| 39 | [Good To Me](https://open.spotify.com/track/46An5rnGjzodq0IJltXAuU) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Seven Nation Army](https://open.spotify.com/album/2ntSwmOLAM0fMML87wtLKq) | 2:06 |
 | 40 | [Lafayette Blues](https://open.spotify.com/track/0r0CvMR0c7qruSek8agaf0) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Lafayette Blues](https://open.spotify.com/album/4jIUncSLmyr6N6ywGIdkRA) | 2:15 |
 | 41 | [Stones In My Passway \- Live at The Aragon Ballroom, July 2, 2003](https://open.spotify.com/track/3eI7N693RsQLLHrwLre1tc) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant \(Deluxe\)](https://open.spotify.com/album/6CcC2RiYVSTsxI73d4lEeB) | 2:40 |
 | 42 | [When I Hear My Name](https://open.spotify.com/track/6MIo2NS5cx125JqauDiFvP) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [The White Stripes](https://open.spotify.com/album/4Nemfc7fJzJmmqhBQ8khhj) | 1:54 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2JuLM4.md) - [plain]
 | 44 | [We Are Going to Be Friends \- Live](https://open.spotify.com/track/0txDgoD88eGv8zFrhYLJF2) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Under Great White Northern Lights \(Live\)](https://open.spotify.com/album/5LUyvB9pUPm4Lrgt1Go53W) | 2:24 |
 | 45 | [Jimmy the Exploder](https://open.spotify.com/track/4BzDfIxPyZOR37XArUhKFK) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [The White Stripes](https://open.spotify.com/album/4Nemfc7fJzJmmqhBQ8khhj) | 2:29 |
 
-Snapshot ID: `aU3QAAAAAABTGhQHpGpMlvKdL3RRpAgD`
+Snapshot ID: `aU8hgAAAAACpBv0zmNEuD+Tfg2S3RWlW`

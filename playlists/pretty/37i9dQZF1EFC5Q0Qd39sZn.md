@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,535 likes - 579 songs - 1 day 16 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,538 likes - 579 songs - 1 day 16 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,8 +120,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 110 | [Soul of My Soul](https://open.spotify.com/track/0uikANAtgIQOI4U3LjpSV9) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [The One Thing](https://open.spotify.com/album/76UFgbtfCFi3mGjckycfvX) | 5:42 |
 | 111 | [Forward Motion \- From The Original Motion Picture “Late Night”](https://open.spotify.com/track/6nsBFtGvc9R5ZuUAhbxxIG) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Forward Motion \(From The Original Motion Picture “Late Night”\)](https://open.spotify.com/album/5EEfa7yCUXXJkaNcLQcZoV) | 3:56 |
 | 112 | [We're Not Makin' Love Anymore](https://open.spotify.com/track/3hGGHB4mdm620E1x89i72n) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn), [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Burnin'](https://open.spotify.com/album/7IAaeP93y9SgYQ6MKWA0hL) | 4:42 |
-| 113 | [Water From The Moon](https://open.spotify.com/track/2kpXktIVu9aoHPnIyXAtoc) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Celine Dion](https://open.spotify.com/album/7C6LFxLn63uasNoDIQ5khO) | 4:39 |
-| 114 | [Some Kind of Miracle](https://open.spotify.com/track/5JeXyH905IWoIuRhTtaNQN) | [Puff Johnson](https://open.spotify.com/artist/4tZuiycQazMlEVhiPXuKLk) | [Miracle](https://open.spotify.com/album/7IMT7fNx7q3gqfecqKjF50) | 6:18 |
+| 113 | [Some Kind of Miracle](https://open.spotify.com/track/5JeXyH905IWoIuRhTtaNQN) | [Puff Johnson](https://open.spotify.com/artist/4tZuiycQazMlEVhiPXuKLk) | [Miracle](https://open.spotify.com/album/7IMT7fNx7q3gqfecqKjF50) | 6:18 |
+| 114 | [Water From The Moon](https://open.spotify.com/track/2kpXktIVu9aoHPnIyXAtoc) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Celine Dion](https://open.spotify.com/album/7C6LFxLn63uasNoDIQ5khO) | 4:39 |
 | 115 | [Silver Lining \(crazy 'bout you\)](https://open.spotify.com/track/27dYgu9SoZY5t3EzC2hSue) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Silver Lining \(crazy 'bout you\)](https://open.spotify.com/album/5OYTmotVhUzSxheuRa6CrV) | 3:53 |
 | 116 | [I'll Be](https://open.spotify.com/track/66ZBkOR0Q2bQEM42Pbj7hQ) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [So Good Together](https://open.spotify.com/album/3MIT6r0IA688BmmtV8USfD) | 4:28 |
 | 117 | [Now That I Found You](https://open.spotify.com/track/1M5sHKA3KvHHhSttsYhWMP) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Time, Love & Tenderness](https://open.spotify.com/album/4wQ6v4Q5YidrpC85KuBlTL) | 4:32 |
@@ -530,8 +530,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 520 | [Healing Hands](https://open.spotify.com/track/45S5Lg9vVbT4algYHRk97K) | [Jennifer Holliday](https://open.spotify.com/artist/2ju2ZxMe9yBOnt1MkWo32t) | [On & On](https://open.spotify.com/album/5F5bq9xgTMfKk9F1gzNsZh) | 6:08 |
 | 521 | [Unchained](https://open.spotify.com/track/0T4Ryrgc36gWWCrKQwaHaQ) | [Silent Rage](https://open.spotify.com/artist/3PC3r6mBJjbYD8MaMoloZs) | [Still Alive](https://open.spotify.com/album/58pkZZiIZsy4qQez8yKLY1) | 4:36 |
 | 522 | [Unspoken Love](https://open.spotify.com/track/30uNcSqhzHitYVrxsPLJKE) | [Paul Michiels](https://open.spotify.com/artist/09kd4GXvKYEHyVRqNGunTB) | [The Inner Child](https://open.spotify.com/album/1uVQjJXQxusnLxun611M9d) | 3:20 |
-| 523 | [The Ones You Love](https://open.spotify.com/track/1UzAqWHz96lIutGzR6aQYw) | [Zendee](https://open.spotify.com/artist/4naOha45BMkEKW6fnTPQ3A) | [I Believe](https://open.spotify.com/album/1JpQ5L6frqPta1oGw2PzhI) | 3:46 |
-| 524 | [Commitment of the Heart](https://open.spotify.com/track/1sOpeHGvOOuhNC3QsTijaL) | [Clive Griffin](https://open.spotify.com/artist/7piYJtFSV6vtj2pK5TyHJI) | [Clive Griffin](https://open.spotify.com/album/0RvuKuxGlbBgXWECCHdw5F) | 5:06 |
+| 523 | [Commitment of the Heart](https://open.spotify.com/track/1sOpeHGvOOuhNC3QsTijaL) | [Clive Griffin](https://open.spotify.com/artist/7piYJtFSV6vtj2pK5TyHJI) | [Clive Griffin](https://open.spotify.com/album/0RvuKuxGlbBgXWECCHdw5F) | 5:06 |
+| 524 | [The Ones You Love](https://open.spotify.com/track/1UzAqWHz96lIutGzR6aQYw) | [Zendee](https://open.spotify.com/artist/4naOha45BMkEKW6fnTPQ3A) | [I Believe](https://open.spotify.com/album/1JpQ5L6frqPta1oGw2PzhI) | 3:46 |
 | 525 | [You Redeem Me](https://open.spotify.com/track/1mm1fuhhCOwm92R3VP0fF6) | [Ace Young](https://open.spotify.com/artist/1yb4zX0BZ7Ohe0lDcULddT) | [Ace Young](https://open.spotify.com/album/2apCW9jexUmIGSzWZbEV9J) | 3:54 |
 | 526 | [I Decide \(made popular by Lindsay Lohan\) \[backing version\]](https://open.spotify.com/track/6lfB9L6kh3c42O2OkfkNFu) | [Party Tyme](https://open.spotify.com/artist/18BHcaFxDHqgfehv4g6vjC) | [Pop Female Hits 4 \- Party Tyme \(Backing Versions\)](https://open.spotify.com/album/0WIhZGCMzisVKfQkkzrkaR) | 3:10 |
 | 527 | [Love Is Like A Drug](https://open.spotify.com/track/52ogSPjOwsAnUddLs1pC26) | [Linda Teodosiu](https://open.spotify.com/artist/3WQjKUnRZKZWFuHQKx6Afh) | [Under Pressure](https://open.spotify.com/album/6Ke46Z5FisAAuMtH7IK8de) | 3:22 |
@@ -588,4 +588,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 578 | [Have You Ever Been Lonely](https://open.spotify.com/track/7MVfFDPFQwI1rE0sH1ntco) | [Raymond Wallbank](https://open.spotify.com/artist/0M0yiAaU5OOxqwKYmkrEy0) | [Easy Listening Organs](https://open.spotify.com/album/5jUrzVWqVclpNKGVMs8DDP) | 0:56 |
 | 579 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 |
 
-Snapshot ID: `AcFYMAAAAAAUL+sV6z7raRhacVlvBvl/`
+Snapshot ID: `AcFd0AAAAABcM6dx4MbHtCtEMClq2nYq`

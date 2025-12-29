@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JcVtdd4I4E.md) - [plain]
 
 > Welcome to the Nordic queendom.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,799 likes - 80 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,797 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,14 +62,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JcVtdd4I4E.md) - [plain]
 | 52 | [wait it out](https://open.spotify.com/track/793pY16A2YqBrsmdyagExY) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [late night thoughts](https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui) | 2:33 |
 | 53 | [Habits \(Stay High\) \- Spotify Singles](https://open.spotify.com/track/3NsqsLwmAxIhduuV9gK7SH) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Habits \(Stay High\) \- Spotify Singles](https://open.spotify.com/album/0M0MROPnqYuHEK5R16YCxk) | 3:31 |
 | 54 | [Beautiful Woman](https://open.spotify.com/track/3awrIDBFGaAgR1NVoUwNjs) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Beautiful Woman](https://open.spotify.com/album/6XH2lCmGJBs3yCUSglARXW) | 3:33 |
-| 55 | [When she holds me](https://open.spotify.com/track/7ELpkrJcANe6KBZi9KitCx) | [Becky and the Birds](https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d) | [Only music makes me cry now](https://open.spotify.com/album/6vHbkd7FkuJkyFZmp7Y8qS) | 4:03 |
-| 56 | [Psycho](https://open.spotify.com/track/7kw7fwv5oOs1jKnx8FfwMU) | [Namelle](https://open.spotify.com/artist/3ptQC4nwq1SuOFiSOSBLj3) | [Psycho](https://open.spotify.com/album/17TD5aiZAItTy2ToJofnDp) | 2:42 |
+| 55 | [Psycho](https://open.spotify.com/track/7kw7fwv5oOs1jKnx8FfwMU) | [Namelle](https://open.spotify.com/artist/3ptQC4nwq1SuOFiSOSBLj3) | [Psycho](https://open.spotify.com/album/17TD5aiZAItTy2ToJofnDp) | 2:42 |
+| 56 | [When she holds me](https://open.spotify.com/track/7ELpkrJcANe6KBZi9KitCx) | [Becky and the Birds](https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d) | [Only music makes me cry now](https://open.spotify.com/album/6vHbkd7FkuJkyFZmp7Y8qS) | 4:03 |
 | 57 | [It Takes a Fool to Remain Sane \- Spotify Singles](https://open.spotify.com/track/4k7JHq7EL9CPPs7AJlVgrZ) | [Cornelia Jakobs](https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4) | [It Takes a Fool to Remain Sane \(Spotify Singles\)](https://open.spotify.com/album/3bL5S50blEY31RLDenDPpf) | 3:48 |
-| 58 | [Growing Pains](https://open.spotify.com/track/7B2MTQj1JrSNRi6oQoAF4O) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Growing Pains](https://open.spotify.com/album/3EkMaLkTVimNeSiA98E1zk) | 3:08 |
-| 59 | [I Hate San Francisco](https://open.spotify.com/track/604ZOG5yxHW5tqxUIFzIJ0) | [Maria Jane Smith](https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u) | [I Hate San Francisco](https://open.spotify.com/album/6pF4utdDeVRkUmHyny2C36) | 3:13 |
+| 58 | [I Hate San Francisco](https://open.spotify.com/track/604ZOG5yxHW5tqxUIFzIJ0) | [Maria Jane Smith](https://open.spotify.com/artist/4WwXZFXWvXCc6cHvgP5m7u) | [I Hate San Francisco](https://open.spotify.com/album/6pF4utdDeVRkUmHyny2C36) | 3:13 |
+| 59 | [Growing Pains](https://open.spotify.com/track/7B2MTQj1JrSNRi6oQoAF4O) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Growing Pains](https://open.spotify.com/album/3EkMaLkTVimNeSiA98E1zk) | 3:08 |
 | 60 | [What It Feels Like](https://open.spotify.com/track/33ejPqwHiMJGVMSqbBmaJc) | [Carlina de Place](https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv) | [What It Feels Like](https://open.spotify.com/album/0Dw2vUpQUBBkNGM85o0ltK) | 2:58 |
-| 61 | [Starvation \- ANNA Remix](https://open.spotify.com/track/7racFB8xJL7gZYMEKi1bPH) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Starvation \(ANNA Remix\)](https://open.spotify.com/album/1tUjq2hEU8AXZRGaFQk7pr) | 3:33 |
-| 62 | [Always Hurts](https://open.spotify.com/track/7fj1Ny96E195t9mKIYYXFy) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Always Hurts](https://open.spotify.com/album/6usyLl3Ji7N9chhotFYZPR) | 3:17 |
+| 61 | [Always Hurts](https://open.spotify.com/track/7fj1Ny96E195t9mKIYYXFy) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Always Hurts](https://open.spotify.com/album/6usyLl3Ji7N9chhotFYZPR) | 3:17 |
+| 62 | [Starvation \- ANNA Remix](https://open.spotify.com/track/7racFB8xJL7gZYMEKi1bPH) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Starvation \(ANNA Remix\)](https://open.spotify.com/album/1tUjq2hEU8AXZRGaFQk7pr) | 3:33 |
 | 63 | [911](https://open.spotify.com/track/6gvuOwQYMw0oz0oe6x7x9O) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [911](https://open.spotify.com/album/7pvGWk5SR5IIMB1GaUL8Mc) | 2:52 |
 | 64 | [Happy Again](https://open.spotify.com/track/6JuYlCjEoV9Sv2fRFqnRIe) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Happy Again](https://open.spotify.com/album/39jSSdovMUWcpGfBztEPay) | 2:34 |
 | 65 | [Drive With Our Eyes Closed](https://open.spotify.com/track/7LSJBkFyVA0XxQR9xAYWfy) | [Bye Bye Brenda](https://open.spotify.com/artist/4xbailSt3mnMLwv8iRY3d0) | [Landmarks](https://open.spotify.com/album/2eQeTTJ8jwC4QgOoKGiLFp) | 3:55 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JcVtdd4I4E.md) - [plain]
 | 76 | [h4msterb0y](https://open.spotify.com/track/6PNDkp573Zsb1yZDd4wjcD) | [Virgin Miri](https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm) | [Live a Little Die a Lot](https://open.spotify.com/album/777Seg8Mc1blsN0SwnWu9l) | 2:48 |
 | 77 | [Drip](https://open.spotify.com/track/1MtWF5FUDx8cZZIDUo7fbw) | [Tamara Mneney](https://open.spotify.com/artist/2UfHLDuOKojtDAWIvnK0yV) | [Drip](https://open.spotify.com/album/3tdrJYHelQjyttVmulOG8R) | 3:50 |
 | 78 | [Fall In Love](https://open.spotify.com/track/1cRdiP6SuwAeTERCSklRz7) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Fall In Love](https://open.spotify.com/album/1LLssMmyL7iBW7kqJS5WET) | 2:23 |
-| 79 | [Love Me](https://open.spotify.com/track/7r7cr1PPSnGip1XdjlVLp2) | [ELIA](https://open.spotify.com/artist/6C7i0F5F27BbECshZENO8G) | [Love Me](https://open.spotify.com/album/7lFSkaGS5qrNBLIFswxn8H) | 2:24 |
-| 80 | [All I need](https://open.spotify.com/track/0DLnqDq2PvM2SNxBUgAnlU) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Desires](https://open.spotify.com/album/5a8vdQ9RT5KvGmwGqWy3jD) | 2:42 |
+| 79 | [top G](https://open.spotify.com/track/6ZJ02ejciOqe5AP6mkkK3b) | [LUJAIN](https://open.spotify.com/artist/6gkdUNajvm1NZbynggJN1G) | [top G](https://open.spotify.com/album/1JVcFthjmAi4KByDMFd1O5) | 2:15 |
+| 80 | [Love Me](https://open.spotify.com/track/7r7cr1PPSnGip1XdjlVLp2) | [ELIA](https://open.spotify.com/artist/6C7i0F5F27BbECshZENO8G) | [Love Me](https://open.spotify.com/album/7lFSkaGS5qrNBLIFswxn8H) | 2:24 |
 
 Snapshot ID: `AAAAANr+4XnZvqTOAnxs18nXCIALzpYZ`

@@ -1,5 +1,5 @@
 {
-  "description": "<a href=spotify:playlist:37i9dQZF1EIXM4KPkLZg29>One Direction</a>, <a href=spotify:playlist:37i9dQZF1EIW8lIRgcQPw5>Aditya Rikhari</a>, <a href=spotify:playlist:37i9dQZF1EIYf6cItAYzfX>The Weeknd</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIYf6cItAYzfX>The Weeknd</a>, <a href=spotify:playlist:37i9dQZF1EIW8lIRgcQPw5>Aditya Rikhari</a>, <a href=spotify:playlist:37i9dQZF1EIYcZwbbjckJd>Radiohead</a> and more",
   "num_followers": 0,
   "original_name": "Chill Mix",
   "owner": {
@@ -11,18 +11,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "FOUR (Deluxe)",
-        "url": "https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY"
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
       },
       "artists": [
         {
-          "name": "One Direction",
-          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
         }
       ],
-      "duration_ms": 226597,
-      "name": "Night Changes",
-      "url": "https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ"
+      "duration_ms": 230453,
+      "name": "Starboy",
+      "url": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB"
     },
     {
       "added_at": null,
@@ -43,26 +47,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Idol Episode 4 (Music from the HBO Original Series)",
-        "url": "https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU"
+        "name": "OK Computer",
+        "url": "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE"
       },
       "artists": [
         {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
-        },
-        {
-          "name": "Lily-Rose Depp",
-          "url": "https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ"
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
         }
       ],
-      "duration_ms": 244684,
-      "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
-      "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
+      "duration_ms": 299560,
+      "name": "Let Down",
+      "url": "https://open.spotify.com/track/2fuYa3Lx06QQJAm0MjztKr"
     },
     {
       "added_at": null,

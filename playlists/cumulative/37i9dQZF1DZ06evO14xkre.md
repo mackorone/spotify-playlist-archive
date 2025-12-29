@@ -4,7 +4,7 @@
 
 > This is Kali Uchis\. The essential tracks, all in one playlist.
 
-102 songs - 5 hr 27 min
+103 songs - 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [MALVADA \(with Kali Uchis & KHEA\)](https://open.spotify.com/track/0oW1upYPuCWkarwMWZD0NK) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [NEON16 TAPE: THE KIDS THAT GREW UP ON REGGAETON](https://open.spotify.com/album/0yYekqi5aLywihK4YtigeN) | 2:20 | 2023-11-10 | 2024-08-13 |
 | [Me Pongo Loca](https://open.spotify.com/track/5mVkTPlTPxlQOn7kEvuM3j) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [ORQUÍDEAS](https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo) | 2:57 | 2024-01-13 | 2024-09-04 |
 | [ME TENGO QUE IR](https://open.spotify.com/track/5AwdJhVYK64TDpfdRa1DyN) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 4:36 | 2023-11-10 | 2025-08-23 |
-| [Melting](https://open.spotify.com/track/2kSb3wYSOV996xA2NSmpck) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Por Vida](https://open.spotify.com/album/6f5gAJpM85TE6aQ81h46T5) | 3:28 | 2023-11-10 |  |
+| [Melting](https://open.spotify.com/track/2kSb3wYSOV996xA2NSmpck) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Por Vida](https://open.spotify.com/album/6f5gAJpM85TE6aQ81h46T5) | 3:28 | 2023-11-10 | 2025-12-29 |
+| [Melting](https://open.spotify.com/track/6lnqe1urLVOV4tn0YgmnIw) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Por Vida](https://open.spotify.com/album/5B2qGlPQNhyiwpQ47QHawn) | 3:28 | 2025-12-29 |  |
 | [Moonlight](https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Moonlight](https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u) | 3:07 | 2023-11-10 | 2024-01-31 |
 | [Moonlight](https://open.spotify.com/track/0JmnkIqdlnUzPaf8sqBRs3) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 3:07 | 2024-01-30 |  |
 | [moonlight \(kali uchis\) \- sped up version](https://open.spotify.com/track/1TL4lgjSoc9SeKKjLhDO1n) | [sped up viral](https://open.spotify.com/artist/3hYgfaELzhbTbvax70GtqM), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [moonlight \(kali uchis\) \[sped up version\]](https://open.spotify.com/album/74aBi8IE2YGBM3BfmpX1R1) | 2:36 | 2023-11-10 |  |

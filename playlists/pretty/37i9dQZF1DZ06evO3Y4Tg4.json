@@ -1,12 +1,12 @@
 {
   "description": "This is Dave. The essential tracks, all in one playlist.",
-  "num_followers": 257323,
+  "num_followers": 257388,
   "original_name": "This Is Dave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU3QAAAAAACKlIhxmphZi5+35m7L6PT0",
+  "snapshot_id": "aU8hgAAAAACQrzKwAgVAs2X5lKF1u+Pb",
   "tracks": [
     {
       "added_at": null,
@@ -51,26 +51,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CAN'T RUSH GREATNESS",
-        "url": "https://open.spotify.com/album/1pnm9zBlblhTRlE46ItLzU"
-      },
-      "artists": [
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        },
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        }
-      ],
-      "duration_ms": 182040,
-      "name": "CRG (feat. Dave)",
-      "url": "https://open.spotify.com/track/5tgSjvWO685Z0mYKefArMI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PSYCHODRAMA",
         "url": "https://open.spotify.com/album/4GrFuXwRmEBJec22p58fsD"
       },
@@ -87,6 +67,26 @@
       "duration_ms": 241293,
       "name": "Location (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/3z4CGd63tpUn9a6oQSG0CI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CAN'T RUSH GREATNESS",
+        "url": "https://open.spotify.com/album/1pnm9zBlblhTRlE46ItLzU"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        },
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "duration_ms": 182040,
+      "name": "CRG (feat. Dave)",
+      "url": "https://open.spotify.com/track/5tgSjvWO685Z0mYKefArMI"
     },
     {
       "added_at": null,
@@ -215,26 +215,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Propeller (feat. Dave & BNXN)",
-        "url": "https://open.spotify.com/album/1HpHd9hLNy77kZx5w07xqD"
+        "name": "Funky Friday",
+        "url": "https://open.spotify.com/album/3CFVTstiXfXZDHF6EeMnGf"
       },
       "artists": [
-        {
-          "name": "JAE5",
-          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
-        },
         {
           "name": "Dave",
           "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
         },
         {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+          "name": "Fredo",
+          "url": "https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z"
         }
       ],
-      "duration_ms": 204440,
-      "name": "Propeller (feat. Dave & BNXN)",
-      "url": "https://open.spotify.com/track/4A7sSA10D35HQUNrSOl5Zo"
+      "duration_ms": 182741,
+      "name": "Funky Friday",
+      "url": "https://open.spotify.com/track/01IQ4aQgOf0Kkq3a273hmO"
     },
     {
       "added_at": null,
@@ -295,22 +291,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Funky Friday",
-        "url": "https://open.spotify.com/album/3CFVTstiXfXZDHF6EeMnGf"
+        "name": "Propeller (feat. Dave & BNXN)",
+        "url": "https://open.spotify.com/album/1HpHd9hLNy77kZx5w07xqD"
       },
       "artists": [
+        {
+          "name": "JAE5",
+          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
+        },
         {
           "name": "Dave",
           "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
         },
         {
-          "name": "Fredo",
-          "url": "https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z"
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 182741,
-      "name": "Funky Friday",
-      "url": "https://open.spotify.com/track/01IQ4aQgOf0Kkq3a273hmO"
+      "duration_ms": 204440,
+      "name": "Propeller (feat. Dave & BNXN)",
+      "url": "https://open.spotify.com/track/4A7sSA10D35HQUNrSOl5Zo"
     },
     {
       "added_at": null,
@@ -347,6 +347,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "We're All Alone In This Together",
+        "url": "https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "duration_ms": 251733,
+      "name": "Clash (feat. Stormzy)",
+      "url": "https://open.spotify.com/track/2zxEc1GCSCxbHIXTfhraRC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Thiago Silva",
         "url": "https://open.spotify.com/album/6JYMpRz7M9T2JlkjKHmsdc"
       },
@@ -363,26 +383,6 @@
       "duration_ms": 201967,
       "name": "Thiago Silva",
       "url": "https://open.spotify.com/track/3DKCTIiJ97bS9TGiqcABjo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "black british music (2025)",
-        "url": "https://open.spotify.com/album/0uqw8DmJjWCODFySYWx47f"
-      },
-      "artists": [
-        {
-          "name": "Jim Legxacy",
-          "url": "https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2"
-        },
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "3x",
-      "url": "https://open.spotify.com/track/3cfQ8cCFhqekaqSsuhKXAj"
     },
     {
       "added_at": null,
@@ -407,26 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "We're All Alone In This Together",
-        "url": "https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
-        }
-      ],
-      "duration_ms": 251733,
-      "name": "Clash (feat. Stormzy)",
-      "url": "https://open.spotify.com/track/2zxEc1GCSCxbHIXTfhraRC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PSYCHODRAMA",
         "url": "https://open.spotify.com/album/4GrFuXwRmEBJec22p58fsD"
       },
@@ -439,42 +419,6 @@
       "duration_ms": 248946,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/0FWAIRd9Uz5uNek7cALYNC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Professor X",
-        "url": "https://open.spotify.com/album/4sHMUXmWtysmNCuPIDhtS1"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        }
-      ],
-      "duration_ms": 217704,
-      "name": "Professor X",
-      "url": "https://open.spotify.com/track/47lPVbZUh9547oTjx6J4ZV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Meridian & Special",
-        "url": "https://open.spotify.com/album/2iz7b9HLy5aQ81tsMyedNn"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
-        }
-      ],
-      "duration_ms": 255160,
-      "name": "Meridian",
-      "url": "https://open.spotify.com/track/09FcXaLu1BdrRNgxyBi6p5"
     },
     {
       "added_at": null,
@@ -495,6 +439,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "black british music (2025)",
+        "url": "https://open.spotify.com/album/0uqw8DmJjWCODFySYWx47f"
+      },
+      "artists": [
+        {
+          "name": "Jim Legxacy",
+          "url": "https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2"
+        },
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "3x",
+      "url": "https://open.spotify.com/track/3cfQ8cCFhqekaqSsuhKXAj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Professor X",
+        "url": "https://open.spotify.com/album/4sHMUXmWtysmNCuPIDhtS1"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "duration_ms": 217704,
+      "name": "Professor X",
+      "url": "https://open.spotify.com/track/47lPVbZUh9547oTjx6J4ZV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PSYCHODRAMA",
         "url": "https://open.spotify.com/album/4GrFuXwRmEBJec22p58fsD"
       },
@@ -507,42 +487,6 @@
       "duration_ms": 205720,
       "name": "Streatham",
       "url": "https://open.spotify.com/track/59PUOc7B0WCNNx8Nr4qaA4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Split Decision",
-        "url": "https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 307973,
-      "name": "Our 25th Birthday",
-      "url": "https://open.spotify.com/track/00ZQQArUJReFfsMnl8dIgd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hangman",
-        "url": "https://open.spotify.com/album/5M13djplqPTZNq7eFBPKdg"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        }
-      ],
-      "duration_ms": 234725,
-      "name": "Hangman",
-      "url": "https://open.spotify.com/track/7r7NTwtWAhPRtzylDu3hnE"
     },
     {
       "added_at": null,
@@ -567,6 +511,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Meridian & Special",
+        "url": "https://open.spotify.com/album/2iz7b9HLy5aQ81tsMyedNn"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "duration_ms": 255160,
+      "name": "Meridian",
+      "url": "https://open.spotify.com/track/09FcXaLu1BdrRNgxyBi6p5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Split Decision",
+        "url": "https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 307973,
+      "name": "Our 25th Birthday",
+      "url": "https://open.spotify.com/track/00ZQQArUJReFfsMnl8dIgd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PSYCHODRAMA",
         "url": "https://open.spotify.com/album/4GrFuXwRmEBJec22p58fsD"
       },
@@ -587,22 +571,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zero Tolerance",
-        "url": "https://open.spotify.com/album/09XgqxfkwCXTMAkIDtrksk"
+        "name": "We're All Alone In This Together",
+        "url": "https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG"
       },
       "artists": [
         {
-          "name": "Giggs",
-          "url": "https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip"
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
         },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 181550,
+      "name": "System (feat. WizKid)",
+      "url": "https://open.spotify.com/track/5gOtq0sKU24ZF8hnXlSp1V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hangman",
+        "url": "https://open.spotify.com/album/5M13djplqPTZNq7eFBPKdg"
+      },
+      "artists": [
         {
           "name": "Dave",
           "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
         }
       ],
-      "duration_ms": 243883,
-      "name": "Incredible Sauce (feat. Dave)",
-      "url": "https://open.spotify.com/track/7jxnHknJtjE1MM8IfUidMF"
+      "duration_ms": 234725,
+      "name": "Hangman",
+      "url": "https://open.spotify.com/track/7r7NTwtWAhPRtzylDu3hnE"
     },
     {
       "added_at": null,
@@ -627,22 +627,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "We're All Alone In This Together",
-        "url": "https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG"
+        "name": "Zero Tolerance",
+        "url": "https://open.spotify.com/album/09XgqxfkwCXTMAkIDtrksk"
       },
       "artists": [
         {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+          "name": "Giggs",
+          "url": "https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip"
         },
         {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
         }
       ],
-      "duration_ms": 181550,
-      "name": "System (feat. WizKid)",
-      "url": "https://open.spotify.com/track/5gOtq0sKU24ZF8hnXlSp1V"
+      "duration_ms": 243883,
+      "name": "Incredible Sauce (feat. Dave)",
+      "url": "https://open.spotify.com/track/7jxnHknJtjE1MM8IfUidMF"
     },
     {
       "added_at": null,
@@ -763,6 +763,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Money Talks (feat. Dave)",
+        "url": "https://open.spotify.com/album/4QonFDxUcxM49sCR7g8ns1"
+      },
+      "artists": [
+        {
+          "name": "Fredo",
+          "url": "https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z"
+        },
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "duration_ms": 273666,
+      "name": "Money Talks (feat. Dave)",
+      "url": "https://open.spotify.com/track/31gzwBma4iEppvk8um5ZGx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Told Them...",
         "url": "https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc"
       },
@@ -803,26 +823,6 @@
       "duration_ms": 200733,
       "name": "Nothing On You (feat. Paulo Londra & Dave)",
       "url": "https://open.spotify.com/track/2qRN7PWiHRLprw4FpDeI9N"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Money Talks (feat. Dave)",
-        "url": "https://open.spotify.com/album/4QonFDxUcxM49sCR7g8ns1"
-      },
-      "artists": [
-        {
-          "name": "Fredo",
-          "url": "https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z"
-        },
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        }
-      ],
-      "duration_ms": 273666,
-      "name": "Money Talks (feat. Dave)",
-      "url": "https://open.spotify.com/track/31gzwBma4iEppvk8um5ZGx"
     },
     {
       "added_at": null,
@@ -887,6 +887,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Titanium & Mercury",
+        "url": "https://open.spotify.com/album/1A0K9zewunqFt9drGNk2W5"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Kamal.",
+          "url": "https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI"
+        }
+      ],
+      "duration_ms": 323000,
+      "name": "Mercury",
+      "url": "https://open.spotify.com/track/1w6Gcw670LjrAnrbAWObqT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Game Over",
         "url": "https://open.spotify.com/album/5QsGJ1tErNh5aWxowJojom"
       },
@@ -915,26 +935,6 @@
       "duration_ms": 280288,
       "name": "Picture Me",
       "url": "https://open.spotify.com/track/7eFZGDVNCjcB6j3WLzHeLR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Titanium & Mercury",
-        "url": "https://open.spotify.com/album/1A0K9zewunqFt9drGNk2W5"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Kamal.",
-          "url": "https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI"
-        }
-      ],
-      "duration_ms": 323000,
-      "name": "Mercury",
-      "url": "https://open.spotify.com/track/1w6Gcw670LjrAnrbAWObqT"
     },
     {
       "added_at": null,

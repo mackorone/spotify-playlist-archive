@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2LPGy4.md) - [plain]
 
 > This is Gerardo Ortiz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 471,071 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 471,100 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2LPGy4.md) - [plain]
 | 49 | [El Primer Ministro](https://open.spotify.com/track/33fgAYNJAmbNoT76SLiOL1) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [El Primer Ministro](https://open.spotify.com/album/1fLCJYEq0kv87PSPdCB0dC) | 1:54 |
 | 50 | [La Noche Es Tuya](https://open.spotify.com/track/0FVVco67xjAExg5OqlQ1gU) | [3BallMTY](https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [América Sierra](https://open.spotify.com/artist/6iK7hlQHfupGjQHrxQIMly) | [Globall](https://open.spotify.com/album/1caIQHGbNF21Ed3X65iEWu) | 3:01 |
 
-Snapshot ID: `aU3QAAAAAADEMY5H4vjKvH/qLtnbY2G8`
+Snapshot ID: `aU8hgAAAAADiXZmtKjb7ZwBxwTIbXwdD`

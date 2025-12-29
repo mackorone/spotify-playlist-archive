@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 
 > beautiful music that you can put on repeat
 
-[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 453 likes - 581 songs - 1 day 5 hr 57 min
+[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 453 likes - 582 songs - 1 day 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -589,5 +589,6 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 | 579 | [BELLA CIAO](https://open.spotify.com/track/3QJjIvhdKmK2GASj4DpxfU) | [SAMMY & LESEN](https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE), [Loona](https://open.spotify.com/artist/7ugN9bU7x54gVI2295brJF), [S & L](https://open.spotify.com/artist/30FC2mjDus2hHWKrXFUlkL) | [BELLA CIAO](https://open.spotify.com/album/7tsfCufi0eGpKu6s8mdDuD) | 2:20 |
 | 580 | [2 Times](https://open.spotify.com/track/2V6M57LUuXyKasAd32WOIm) | [SAMMY & LESEN](https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE), [Gia Koka](https://open.spotify.com/artist/71WExccCBN2mw0klSzfYzz), [TECHNO KING](https://open.spotify.com/artist/4PWjpdBUTvwJ5iO1p8dHqC) | [2 Times](https://open.spotify.com/album/1eT55vAiwenizmz5EeGsNQ) | 2:13 |
 | 581 | [Shutdown](https://open.spotify.com/track/643KZBbba2oeAYd2trgSLx) | [Makeavelli](https://open.spotify.com/artist/6dNdNTpljoD3lw14gr4WRg) | [Shutdown](https://open.spotify.com/album/0aFinGBzDIruoM2vcbwQgF) | 3:06 |
+| 582 | [All Girls Are The Same \- Cover Version](https://open.spotify.com/track/0CZbCAmLMWoFW2EKqyu8mv) | [Andrew Wilson](https://open.spotify.com/artist/7nJeosmDpSeqMG1gjzuRLk), [Joshua Castle](https://open.spotify.com/artist/5VnLKbJys03lqxOo2ZRIyE) | [All Girls Are The Same \(Cover Version\)](https://open.spotify.com/album/5NUi3Mpj2W7v3Wk4VutDGW) | 2:52 |
 
-Snapshot ID: `AAAXZvjeO4rYgC9WcX8e0QZ74cfIKfaM`
+Snapshot ID: `AAAXZ39Tqf5jBVrveQrIxpVIkgpaDyE7`

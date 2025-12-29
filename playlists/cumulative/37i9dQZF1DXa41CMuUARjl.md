@@ -2,7 +2,7 @@
 
 ### [All New Dance](https://open.spotify.com/playlist/37i9dQZF1DXa41CMuUARjl)
 
-> This week's best new <a href="spotify:genre:edm\_dance">dance and electronic releases</a> from bullet tooth, HUGEL, Ely Oaks, & more!
+> This week's best new <a href="spotify:genre:edm\_dance">dance and electronic releases</a> from bullet tooth, HUGEL, & more!
 
 32,624 songs - 82 day 11 hr 47 min
 

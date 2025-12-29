@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EUcyVKIE73.md) - [plain]
 
 > Selections of North Indian classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,877 likes - 50 songs - 13 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,884 likes - 50 songs - 13 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EUcyVKIE73.md) - [plain]
 | 42 | [Meditative Gurjari Todi](https://open.spotify.com/track/1RVbuCSwWwp6PD1UlhopjV) | [Nirali Kartik](https://open.spotify.com/artist/7IZS9jFXr3rC8mZ9Ly2Npc) | [Navyaa](https://open.spotify.com/album/5M0jkj9MotirQVBzBxpK49) | 11:33 |
 | 43 | [Jhama Jham \- Thumri](https://open.spotify.com/track/2pxyb3CvMfCyvYZcnojMZW) | [Girija Devi, Kishan Maharaj, Ramesh Mishra](https://open.spotify.com/artist/2x2lBeqwikK3oXYxtyDlmF) | [The Best Of Girija Deva](https://open.spotify.com/album/1oe93SNJ9tdqrTpkrkz5dH) | 9:02 |
 | 44 | [Raga Mishra Mel Ki Malhar](https://open.spotify.com/track/6ZCh9SU89sivV8AAcnu07R) | [Bismillah Khan](https://open.spotify.com/artist/1mMMhynZ6FbbnKjG7Pd9mQ) | [Bharat Ratna](https://open.spotify.com/album/3krH4l3Zt87BKLdx9NYKge) | 15:00 |
-| 45 | [Jin Ke Man Ram Biraaje \- Raga Malkauns \- Khayal Vilambit \- Ektaal / Angan Aaye Balama \- Raga Malakauns \- Khayal Drut \- Ektaal](https://open.spotify.com/track/0SHJokbf80YliyvxnEzlOO) | [Rajan Mishra](https://open.spotify.com/artist/5ctgUVR3rh12mXvFckKVp9), [Sajan Mishra](https://open.spotify.com/artist/4s03GMsBoEBO7LnPhawd9p) | [Rajan / Sajan Mishra](https://open.spotify.com/album/1PlXFYiSiIviftsPQ3S14m) | 10:03 |
-| 46 | [Raga Jog](https://open.spotify.com/track/3NPx1Llm6Ys8lK77BzcLeI) | [Pandit Bhimsen Joshi](https://open.spotify.com/artist/5MHTQcUQIhxhZdB6Glwmmk) | [Lifestory of a Legend](https://open.spotify.com/album/4Fk777rcuGlOspuSEdGkSh) | 32:17 |
+| 45 | [Raga Jog](https://open.spotify.com/track/3NPx1Llm6Ys8lK77BzcLeI) | [Pandit Bhimsen Joshi](https://open.spotify.com/artist/5MHTQcUQIhxhZdB6Glwmmk) | [Lifestory of a Legend](https://open.spotify.com/album/4Fk777rcuGlOspuSEdGkSh) | 32:17 |
+| 46 | [Jin Ke Man Ram Biraaje \- Raga Malkauns \- Khayal Vilambit \- Ektaal / Angan Aaye Balama \- Raga Malakauns \- Khayal Drut \- Ektaal](https://open.spotify.com/track/0SHJokbf80YliyvxnEzlOO) | [Rajan Mishra](https://open.spotify.com/artist/5ctgUVR3rh12mXvFckKVp9), [Sajan Mishra](https://open.spotify.com/artist/4s03GMsBoEBO7LnPhawd9p) | [Rajan / Sajan Mishra](https://open.spotify.com/album/1PlXFYiSiIviftsPQ3S14m) | 10:03 |
 | 47 | [Raga Shree](https://open.spotify.com/track/7hrScFzMLbCqqMjRVhVGui) | [Kumar Gandharva](https://open.spotify.com/artist/4nZmnoNMkDwdutbWCJhL22) | [Sangeet Sataj Vol\. 1 & 2](https://open.spotify.com/album/3w15CmWb0Wj4HneKR4YAFP) | 31:48 |
 | 48 | [Raga Megh \- Tala Jhaptala and Teentala](https://open.spotify.com/track/1Q0uVQIGVRmsqlTJqC7qVJ) | [Ustad Ghulam Mustafa Khan](https://open.spotify.com/artist/1V7f6RsGUdBFGODotFuirg), [Sultan Niyaz](https://open.spotify.com/artist/0h4dsnJqrhwxiHbhMU0wLx) | [Celebrating the Legend \- Ghulam Mustafa Khan](https://open.spotify.com/album/691DZT9asfZ8GFcdBBY3uK) | 21:27 |
 | 49 | [Raag Jhinjhoti Alaap Jod](https://open.spotify.com/track/7EksNfDGLeyAZ2XznadmHg) | [Ronu Majumdar](https://open.spotify.com/artist/2BtkOvKNQUqyBvK5pnSx3P) | [Raag Jhinjhoti by Ronu Majumdar](https://open.spotify.com/album/7l5QepzzzRX79oT2Yu4qWI) | 19:54 |

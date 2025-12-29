@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,842 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,857 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4jUyNIMkj6N.md) - [plain]
 | 42 | [Feels like That](https://open.spotify.com/track/6odNsNmG4RJbxIkNBe9otp) | [Victor Lundberg](https://open.spotify.com/artist/3aPt0ITiKD1r1GXV3RvOUh) | [Feels like That](https://open.spotify.com/album/74iE9zshOGQsSLWsAtmPlq) | 3:36 |
 | 43 | [Find A Home Out There](https://open.spotify.com/track/1itf9PY59hFYaMVcOXv7l9) | [Alberta Cross](https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq), [L'aupaire](https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE) | [Find A Home Out There](https://open.spotify.com/album/0wrBAVUj6e43iJ0x62h0zp) | 3:26 |
 | 44 | [I Let the Good Ones Go](https://open.spotify.com/track/3Q30mwHAXv4cYoIQFiIWt8) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [A Chosen Family](https://open.spotify.com/album/5edXe34CzaJQps4q5ADGdr) | 3:55 |
-| 45 | [vár](https://open.spotify.com/track/34iSLP2Qs7dH4BZqP0Bj9U) | [Fay Wildhagen](https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P) | [vár](https://open.spotify.com/album/4Fy4CcZQ4WpfmRjfNmQMZF) | 3:51 |
-| 46 | [Wild Geese, Wild Love](https://open.spotify.com/track/6AKLCejap9zRZ4QDKyrmSR) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [Wild Geese, Wild Love / Day 2000 Awake](https://open.spotify.com/album/66GZtWDeK1hpl8runVWZQB) | 5:23 |
+| 45 | [Wild Geese, Wild Love](https://open.spotify.com/track/6AKLCejap9zRZ4QDKyrmSR) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [Wild Geese, Wild Love / Day 2000 Awake](https://open.spotify.com/album/66GZtWDeK1hpl8runVWZQB) | 5:23 |
+| 46 | [vár](https://open.spotify.com/track/34iSLP2Qs7dH4BZqP0Bj9U) | [Fay Wildhagen](https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P) | [vár](https://open.spotify.com/album/4Fy4CcZQ4WpfmRjfNmQMZF) | 3:51 |
 | 47 | [I Miss You, I Do](https://open.spotify.com/track/6Q6DS150kHJ3bigd3EEWh6) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [I Miss You, I Do](https://open.spotify.com/album/29ONymW27lZQsuZc3yKxux) | 4:06 |
 | 48 | [What My Heart Needs](https://open.spotify.com/track/0XYd2DMcwh4P2SDB6ahPNh) | [Isak Benjamin](https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C) | [Never Look Down](https://open.spotify.com/album/3FrIUKSAtIxvyVOiLRwbhm) | 2:53 |
 | 49 | [Pixie's Parasol](https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Pixie's Parasol](https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw) | 3:02 |

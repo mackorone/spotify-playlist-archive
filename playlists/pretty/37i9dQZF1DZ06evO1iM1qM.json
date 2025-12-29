@@ -1,12 +1,12 @@
 {
   "description": "This is John Coltrane. The essential tracks, all in one playlist.",
-  "num_followers": 218739,
+  "num_followers": 218782,
   "original_name": "This Is John Coltrane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU3QAAAAAADCJgAvyM6OAqcEC7Ae6HvM",
+  "snapshot_id": "aU8hgAAAAADg93sanUfltzCtG0PG6kPA",
   "tracks": [
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Impressions",
-        "url": "https://open.spotify.com/album/3Ot8usQajsFawIAsULDrqj"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 249453,
-      "name": "After The Rain",
-      "url": "https://open.spotify.com/track/2JQqfVJhFnNADUJDDPmw63"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blue Train (Expanded Edition)",
         "url": "https://open.spotify.com/album/4vIJFprkZ7vyN6nhcBgQmG"
       },
@@ -711,6 +695,38 @@
       "duration_ms": 644013,
       "name": "Blue Train - Remastered 2003/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/6ZgaUtMlUzUf7SqbUUnfbu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dear Old Stockholm",
+        "url": "https://open.spotify.com/album/6P6XOKteZFhhaCs1duL40k"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 330800,
+      "name": "Dear Lord",
+      "url": "https://open.spotify.com/track/4GibdmpjKroUfLrbBVdWNp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Impressions",
+        "url": "https://open.spotify.com/album/3Ot8usQajsFawIAsULDrqj"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 249453,
+      "name": "After The Rain",
+      "url": "https://open.spotify.com/track/2JQqfVJhFnNADUJDDPmw63"
     },
     {
       "added_at": null,
@@ -731,22 +747,6 @@
       "duration_ms": 262946,
       "name": "Stevie",
       "url": "https://open.spotify.com/track/6Ylpg33fqhQfJrXLwSxnzh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dear Old Stockholm",
-        "url": "https://open.spotify.com/album/6P6XOKteZFhhaCs1duL40k"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 330800,
-      "name": "Dear Lord",
-      "url": "https://open.spotify.com/track/4GibdmpjKroUfLrbBVdWNp"
     },
     {
       "added_at": null,
@@ -779,42 +779,6 @@
       "duration_ms": 462866,
       "name": "A Love Supreme, Pt. I \u2013 Acknowledgement",
       "url": "https://open.spotify.com/track/0CLbmkYmQIWiEwnsbOkLpd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Duke Ellington & John Coltrane",
-        "url": "https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5"
-      },
-      "artists": [
-        {
-          "name": "Duke Ellington",
-          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
-        },
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 267133,
-      "name": "Big Nick",
-      "url": "https://open.spotify.com/track/5PGnB8aUHVm6tvYRHy4i30"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coltrane Jazz",
-        "url": "https://open.spotify.com/album/1rYvimVGwIQgc5IhBwLBuX"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 324493,
-      "name": "Village Blues",
-      "url": "https://open.spotify.com/track/4TxMemoctTNQA185RVwWEo"
     },
     {
       "added_at": null,
@@ -855,6 +819,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Duke Ellington & John Coltrane",
+        "url": "https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 267133,
+      "name": "Big Nick",
+      "url": "https://open.spotify.com/track/5PGnB8aUHVm6tvYRHy4i30"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Kenny Burrell & John Coltrane",
         "url": "https://open.spotify.com/album/4BZcEZub79xqoEJwtVNQoY"
       },
@@ -875,22 +859,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duke Ellington & John Coltrane",
-        "url": "https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5"
+        "name": "Coltrane Jazz",
+        "url": "https://open.spotify.com/album/1rYvimVGwIQgc5IhBwLBuX"
       },
       "artists": [
-        {
-          "name": "Duke Ellington",
-          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
-        },
         {
           "name": "John Coltrane",
           "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
         }
       ],
-      "duration_ms": 282600,
-      "name": "Take The Coltrane",
-      "url": "https://open.spotify.com/track/6aNnVdpAQu8R0qGq5NMXyZ"
+      "duration_ms": 324493,
+      "name": "Village Blues",
+      "url": "https://open.spotify.com/track/4TxMemoctTNQA185RVwWEo"
     },
     {
       "added_at": null,
@@ -911,6 +891,26 @@
       "duration_ms": 321400,
       "name": "Soultrane - Rudy Van Gelder Remaster",
       "url": "https://open.spotify.com/track/1hSoJlHi3q3jGaFcGrtCtB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Duke Ellington & John Coltrane",
+        "url": "https://open.spotify.com/album/1OvmilWKtrabJGEpPRlgK5"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 282600,
+      "name": "Take The Coltrane",
+      "url": "https://open.spotify.com/track/6aNnVdpAQu8R0qGq5NMXyZ"
     },
     {
       "added_at": null,

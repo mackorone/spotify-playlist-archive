@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU3QAAAAAABny6ERAsaSQblWevw97g+k",
+  "snapshot_id": "aU8hgAAAAACNsbMdYPs3klgY8DnweoqG",
   "tracks": [
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
         }
       ],
-      "duration_ms": 151628,
-      "name": "hi fem",
-      "url": "https://open.spotify.com/track/2I8KlAdvU5ZN8VkpwbZm5e"
+      "duration_ms": 129264,
+      "name": "all of that",
+      "url": "https://open.spotify.com/track/1uX94wwKxWLmMZX3MIgiIg"
     },
     {
       "added_at": null,
@@ -304,9 +304,9 @@
           "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
         }
       ],
-      "duration_ms": 129264,
-      "name": "all of that",
-      "url": "https://open.spotify.com/track/1uX94wwKxWLmMZX3MIgiIg"
+      "duration_ms": 151628,
+      "name": "hi fem",
+      "url": "https://open.spotify.com/track/2I8KlAdvU5ZN8VkpwbZm5e"
     },
     {
       "added_at": null,
@@ -447,6 +447,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "TELLY BAG",
+        "url": "https://open.spotify.com/album/40xQNubC2C2X2QcV3GQTTn"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 114484,
+      "name": "TELLY BAG",
+      "url": "https://open.spotify.com/track/2fre7Ba0EuJp578flYyYlO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Push N Pull",
         "url": "https://open.spotify.com/album/6NJUaLB7QJap4J0rTWwYrV"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 162580,
       "name": "Push N Pull",
       "url": "https://open.spotify.com/track/1Ze2YUR6IEAUhfhJgsP6f8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TELLY BAG",
-        "url": "https://open.spotify.com/album/40xQNubC2C2X2QcV3GQTTn"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 114484,
-      "name": "TELLY BAG",
-      "url": "https://open.spotify.com/track/2fre7Ba0EuJp578flYyYlO"
     },
     {
       "added_at": null,

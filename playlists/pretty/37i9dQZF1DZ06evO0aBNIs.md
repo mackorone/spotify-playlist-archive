@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aBNIs.md) - [plain]
 
 > This is Avril Lavigne\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 748,862 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 748,890 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0aBNIs.md) - [plain]
 | 49 | [Hello – Spotify Singles](https://open.spotify.com/track/2yN5ip7YyR19rmFSygnrOD) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Spotify Singles](https://open.spotify.com/album/79OPMp6YweXMi4whs0eJIV) | 4:06 |
 | 50 | [Bad Reputation](https://open.spotify.com/track/58ZYHG6xGz1Lx25FsvVH1A) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Goodbye Lullaby \(Expanded Edition\)](https://open.spotify.com/album/1COPJyU2PpM2Itcob3vhFF) | 2:42 |
 
-Snapshot ID: `aU3QAAAAAAAMr4NL5iznGxyRM9y7w08z`
+Snapshot ID: `aU8hgAAAAAC+H7C6ovWgt+pMlNzvvtGj`

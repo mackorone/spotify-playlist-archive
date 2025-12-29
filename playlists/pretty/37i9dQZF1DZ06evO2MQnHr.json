@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU3QAAAAAADykOedNzadzOZu/aLD4zKw",
+  "snapshot_id": "aU8hgAAAAADaksYnWge0aDBahHLsEtey",
   "tracks": [
     {
       "added_at": null,
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
         }
       ],
-      "duration_ms": 202920,
-      "name": "Good Grief",
-      "url": "https://open.spotify.com/track/3N1TEfHBqbcfltDTJFia3X"
+      "duration_ms": 192373,
+      "name": "Bar Fight",
+      "url": "https://open.spotify.com/track/64QjyKIjRMHjzPjZ3QntWk"
     },
     {
       "added_at": null,
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
         }
       ],
-      "duration_ms": 192373,
-      "name": "Bar Fight",
-      "url": "https://open.spotify.com/track/64QjyKIjRMHjzPjZ3QntWk"
+      "duration_ms": 202920,
+      "name": "Good Grief",
+      "url": "https://open.spotify.com/track/3N1TEfHBqbcfltDTJFia3X"
     },
     {
       "added_at": null,
@@ -562,11 +562,15 @@
         {
           "name": "Madeline Merlo",
           "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
+        },
+        {
+          "name": "Munro Chambers",
+          "url": "https://open.spotify.com/artist/6iQwFHGEHAMlQVxJQGye1d"
         }
       ],
-      "duration_ms": 199196,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/4wIrw2G3Rt2e70EY9UEFrT"
+      "duration_ms": 229165,
+      "name": "Here I Am Gone",
+      "url": "https://open.spotify.com/track/4LEHZIyk29as3lfGq7tS2u"
     },
     {
       "added_at": null,
@@ -578,15 +582,11 @@
         {
           "name": "Madeline Merlo",
           "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
-        },
-        {
-          "name": "Munro Chambers",
-          "url": "https://open.spotify.com/artist/6iQwFHGEHAMlQVxJQGye1d"
         }
       ],
-      "duration_ms": 229165,
-      "name": "Here I Am Gone",
-      "url": "https://open.spotify.com/track/4LEHZIyk29as3lfGq7tS2u"
+      "duration_ms": 199196,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/4wIrw2G3Rt2e70EY9UEFrT"
     },
     {
       "added_at": null,
@@ -616,13 +616,17 @@
       },
       "artists": [
         {
+          "name": "Munro Chambers",
+          "url": "https://open.spotify.com/artist/6iQwFHGEHAMlQVxJQGye1d"
+        },
+        {
           "name": "Madeline Merlo",
           "url": "https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu"
         }
       ],
-      "duration_ms": 260409,
-      "name": "Don't",
-      "url": "https://open.spotify.com/track/5ziCJSpPo7Gjo0yXoGsu4v"
+      "duration_ms": 223289,
+      "name": "Have You Ever Had so Much Fun",
+      "url": "https://open.spotify.com/track/6RLXgDhOcbWP3mhqidBFXD"
     }
   ],
   "unique_name": "This Is Madeline Merlo",

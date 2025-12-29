@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B9HH2fw0SO.md) - [plain]
 
 > The Indie highlights of 2015\. Cover: Tame Impala
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,183 likes - 100 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,214 likes - 100 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6B9HH2fw0SO.md) - [plain]
 | 96 | [Painting Greys](https://open.spotify.com/track/6kUohQ7py1XEcQAhUgf2Zz) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Painting Greys](https://open.spotify.com/album/3HR8LNAashzW2CdEpW0Pct) | 3:47 |
 | 97 | [Multi\-Love](https://open.spotify.com/track/0PEXp5yk0sx9dJ8JzwvjJb) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Multi\-Love](https://open.spotify.com/album/587Clxxo1i5flgjvS52bEC) | 4:10 |
 | 98 | [Young](https://open.spotify.com/track/3u4rIcRR7gSoJdkJIx9zpu) | [Vallis Alps](https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm) | [Vallis Alps](https://open.spotify.com/album/0s2fghAEEk3Uzz1IbGMDlq) | 5:24 |
-| 99 | [Flesh without Blood](https://open.spotify.com/track/4ZcGbQ5dOKX6rJk4yvza9R) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Art Angels](https://open.spotify.com/album/5hB4jVN4ZHpubyiMmW81K1) | 4:24 |
-| 100 | [The Only Thing](https://open.spotify.com/track/6Rt6KwuF7I8ZkdZG2G0bYr) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/0U8DeqqKDgIhIiWOdqiQXE) | 4:44 |
+| 99 | [Loud Places](https://open.spotify.com/track/2sZtaJ4RFbRAAOBKWEeR4H) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [In Colour \- Preview White Label](https://open.spotify.com/album/5jBKTppNIUpcrNKbr8jbsQ) | 4:43 |
+| 100 | [Downtown](https://open.spotify.com/track/5iK8GmW2uiPuUc5CtkZrIK) | [Majical Cloudz](https://open.spotify.com/artist/4BEYBN6NCPrFk3sOLMTby3) | [Are You Alone?](https://open.spotify.com/album/2xF3ioefFdZrOg9zUBU5hb) | 4:09 |
 
 Snapshot ID: `AAAAAAL559UXc4WzA7nTRhc7372qL3uj`

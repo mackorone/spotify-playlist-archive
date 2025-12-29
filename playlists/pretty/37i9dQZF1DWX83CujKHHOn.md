@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX83CujKHHOn.md) - [plain]
 
 > Songs to keep you company.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,321,433 likes - 150 songs - 9 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,321,377 likes - 150 songs - 9 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,9 +133,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX83CujKHHOn.md) - [plain]
 | 123 | [you broke me first](https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [you broke me first](https://open.spotify.com/album/1RWiRfdNZKDe8VXzzf2VEc) | 2:49 |
 | 124 | [Let Her Go](https://open.spotify.com/track/7DFNE7NO0raLIUbgzY2rzm) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [All The Little Lights](https://open.spotify.com/album/2mylGx7w2Q3yhUyN8iEWOF) | 4:12 |
 | 125 | [Rock and A Hard Place](https://open.spotify.com/track/4686eQ81DEswHa90bcdlC9) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Rock and A Hard Place](https://open.spotify.com/album/7Gqqhy2ohX3puChylfkvT0) | 3:27 |
-| 126 | [Without You](https://open.spotify.com/track/1kMOJBmpfWD9fir6st9uqS) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Music Box](https://open.spotify.com/album/2NKxb7pk04CuZab5udkGUl) | 3:33 |
-| 127 | [Jealous](https://open.spotify.com/track/4L2K7JKseFCBoHMZEAszW0) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Jealous](https://open.spotify.com/album/2JgVVnno2fzdmV1BqwdQBi) | 4:47 |
-| 128 | [Too Good At Goodbyes](https://open.spotify.com/track/3VlbOrM6nYPprVvzBZllE5) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK) | 3:21 |
+| 126 | [Too Good At Goodbyes](https://open.spotify.com/track/3VlbOrM6nYPprVvzBZllE5) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK) | 3:21 |
+| 127 | [Without You](https://open.spotify.com/track/1kMOJBmpfWD9fir6st9uqS) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Music Box](https://open.spotify.com/album/2NKxb7pk04CuZab5udkGUl) | 3:33 |
+| 128 | [Jealous](https://open.spotify.com/track/4L2K7JKseFCBoHMZEAszW0) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Jealous](https://open.spotify.com/album/2JgVVnno2fzdmV1BqwdQBi) | 4:47 |
 | 129 | [Sign of the Times](https://open.spotify.com/track/5ELRkzdzz0HvGpMDlfZHkV) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Sign of the Times](https://open.spotify.com/album/6YDkzHVTEzMXZOVd1r5NqR) | 5:40 |
 | 130 | [Truly Madly Deeply](https://open.spotify.com/track/69hwHdKl4Y1HusAutt3W6q) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Savage Garden](https://open.spotify.com/album/73I6LRyJDx4scO2zlMqR8m) | 4:37 |
 | 131 | [I Miss You \(feat\. Julia Michaels\)](https://open.spotify.com/track/2xmrfQpmS2iJExTlklLoAL) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [I Miss You \(feat\. Julia Michaels\)](https://open.spotify.com/album/78zct4Yn5hwMqrlh5uQedB) | 3:25 |
@@ -148,13 +148,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX83CujKHHOn.md) - [plain]
 | 138 | [In My Blood](https://open.spotify.com/track/79jX8RM5CgPqDKdGEKNW9K) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [In My Blood](https://open.spotify.com/album/0OrcP3iH5AnzeEmvlpunlN) | 3:31 |
 | 139 | [Just Give Me a Reason \(feat\. Nate Ruess\)](https://open.spotify.com/track/1qHaLcG3LOeh6ZB8vii5ZZ) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Nate Ruess](https://open.spotify.com/artist/1qUjOF5fzrpoNycD36b2jZ) | [The Truth About Love](https://open.spotify.com/album/2rBb9rAEuMC8VH9uk7js3e) | 4:02 |
 | 140 | [Flightless Bird, American Mouth](https://open.spotify.com/track/6iWwfN1euztxZi1OK38HbU) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [The Shepherd's Dog](https://open.spotify.com/album/6r3zqNcZez592ryTIWUWce) | 4:02 |
-| 141 | [Your Song](https://open.spotify.com/track/54nfzb6wMJPltkh5vQo7Wd) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Bright Lights](https://open.spotify.com/album/6AXqxvuCq4UMmOB1r24mui) | 3:11 |
-| 142 | [Need You Now](https://open.spotify.com/track/48lVHYfNO1TvL54zMNwVnX) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Need You Now \(Remix\)](https://open.spotify.com/album/5nzSVa3uk2ctc4ELkld7mj) | 3:56 |
-| 143 | [How Am I Supposed to Live Without You](https://open.spotify.com/track/4BtHfpTtfi9RrM36dv5Qww) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Eternal Love](https://open.spotify.com/album/0ySpAucBstQ4w51SC7pYfp) | 4:14 |
-| 144 | [Sorry](https://open.spotify.com/track/2DyCLtTrd9f2DRRDq1ngJx) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [hopeless fountain kingdom \(Deluxe\)](https://open.spotify.com/album/1fV3TdIojhb9lQXd72HiPq) | 3:40 |
-| 145 | [Bruises](https://open.spotify.com/track/5KfSsgAJGrZc3VrcPLFVMo) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Bruises](https://open.spotify.com/album/1L78MAHMB04EPgZGoJN2nZ) | 3:38 |
-| 146 | [Never Be Alone](https://open.spotify.com/track/2K4qtTAE8fjFaIUBFTuj1a) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Never Be Alone](https://open.spotify.com/album/0peR91ylvMQsYxyNPP93BR) | 3:35 |
-| 147 | [All I Want](https://open.spotify.com/track/1XczdQt6RKNkEQfPqUsi3q) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [The Kodaline EP](https://open.spotify.com/album/13UF27he6juTSHhQHHjnL1) | 5:06 |
+| 141 | [All I Want](https://open.spotify.com/track/1XczdQt6RKNkEQfPqUsi3q) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [The Kodaline EP](https://open.spotify.com/album/13UF27he6juTSHhQHHjnL1) | 5:06 |
+| 142 | [Bruises](https://open.spotify.com/track/5KfSsgAJGrZc3VrcPLFVMo) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Bruises](https://open.spotify.com/album/1L78MAHMB04EPgZGoJN2nZ) | 3:38 |
+| 143 | [Your Song](https://open.spotify.com/track/54nfzb6wMJPltkh5vQo7Wd) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Bright Lights](https://open.spotify.com/album/6AXqxvuCq4UMmOB1r24mui) | 3:11 |
+| 144 | [Need You Now](https://open.spotify.com/track/48lVHYfNO1TvL54zMNwVnX) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Need You Now \(Remix\)](https://open.spotify.com/album/5nzSVa3uk2ctc4ELkld7mj) | 3:56 |
+| 145 | [How Am I Supposed to Live Without You](https://open.spotify.com/track/4BtHfpTtfi9RrM36dv5Qww) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Eternal Love](https://open.spotify.com/album/0ySpAucBstQ4w51SC7pYfp) | 4:14 |
+| 146 | [Sorry](https://open.spotify.com/track/2DyCLtTrd9f2DRRDq1ngJx) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [hopeless fountain kingdom \(Deluxe\)](https://open.spotify.com/album/1fV3TdIojhb9lQXd72HiPq) | 3:40 |
+| 147 | [Never Be Alone](https://open.spotify.com/track/2K4qtTAE8fjFaIUBFTuj1a) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Never Be Alone](https://open.spotify.com/album/0peR91ylvMQsYxyNPP93BR) | 3:35 |
 | 148 | [Beneath Your Beautiful \(feat\. Emeli Sandé\)](https://open.spotify.com/track/1wVcLKdJ4AFKPhKucNvEpy) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Beneath Your Beautiful](https://open.spotify.com/album/3eXbGItoetZbAKx5gxKcq8) | 4:31 |
 | 149 | [Love You From a Distance](https://open.spotify.com/track/7y8Qy4I0VWGMEbZvZ0C9x7) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Love You From a Distance](https://open.spotify.com/album/2AAt2TLcCV4LNFojyMwOoq) | 3:24 |
 | 150 | [Let Me Down Slowly](https://open.spotify.com/track/2uaiyLKnYvazyfR0Ky3Kbk) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Let Me Down Slowly](https://open.spotify.com/album/0mRjvB3HLxs4Myma1f8vps) | 2:49 |

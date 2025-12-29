@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q8nvtZqrFa.md) - [plain]
 
 > 綺麗事は聞きたくない。本音でつづられた唄。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,345 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,347 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q8nvtZqrFa.md) - [plain]
 | 40 | [べいびーぶれいかー](https://open.spotify.com/track/3ZxuGyczOmQk3b3urUBgIn) | [つきみ](https://open.spotify.com/artist/5CTOLdHtiGvfebSVgrmYgq) | [べいびーぶれいかー](https://open.spotify.com/album/2R0l7B2AaoqXj6cklD4nKc) | 4:33 |
 | 41 | [騙シ愛 \- Damashiai](https://open.spotify.com/track/48N9nuZilWYtqAKqxVPtAR) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [騙シ愛 \- Damashiai](https://open.spotify.com/album/470z0sAlM5eAVSyLNdUvPZ) | 3:56 |
 | 42 | [僕らまた](https://open.spotify.com/track/5hzOyvCqy8sb39xGXUEdpb) | [SG](https://open.spotify.com/artist/216arN9tLMMn2ltwEAxmF5) | [僕らまた](https://open.spotify.com/album/3MxWmcrVWQeZznHKjhpiiE) | 3:17 |
-| 43 | [♡人生♡](https://open.spotify.com/track/6xUSwo6S2euQqUe98Euv6m) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [かわいくしながら待ってるね](https://open.spotify.com/album/1f7rPiizhCQckPMBjrzg2J) | 3:21 |
-| 44 | [紡ぐ](https://open.spotify.com/track/4nnkvTcw7lpS8w9FKpo7yJ) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [紡ぐ](https://open.spotify.com/album/0RVNSXrfFHeI6Bsk3YXLHZ) | 3:51 |
+| 43 | [紡ぐ](https://open.spotify.com/track/4nnkvTcw7lpS8w9FKpo7yJ) | [Tota](https://open.spotify.com/artist/5WIXXPkyVYncLscyUbDrpi) | [紡ぐ](https://open.spotify.com/album/0RVNSXrfFHeI6Bsk3YXLHZ) | 3:51 |
+| 44 | [♡人生♡](https://open.spotify.com/track/6xUSwo6S2euQqUe98Euv6m) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [かわいくしながら待ってるね](https://open.spotify.com/album/1f7rPiizhCQckPMBjrzg2J) | 3:21 |
 | 45 | [クロノスタシス](https://open.spotify.com/track/6Pd73yNBtoVpTRM6xLwOGp) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [クロノスタシス](https://open.spotify.com/album/4upctURy2F1F2rVfltc2P6) | 5:39 |
 | 46 | [ら、のはなし](https://open.spotify.com/track/2tgWF9EZzqiq4Qzdzeow1A) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [瞬間的シックスセンス](https://open.spotify.com/album/7fIqmc4GIaueaiAoDifAaA) | 3:01 |
 | 47 | [優しさに溢れた世界で](https://open.spotify.com/track/2mRMcwDCNyYvBXaoUxmsmE) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [サニーボトル](https://open.spotify.com/album/7BhZH08HyR7jft1VOCvtew) | 4:18 |

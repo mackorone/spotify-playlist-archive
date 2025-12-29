@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJHnPb1f0X3.md) - [plain]
 
 > Upbeat dance pop to keep your heart pumping.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,119,167 likes - 100 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,119,066 likes - 100 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJHnPb1f0X3.md) - [plain]
 | 40 | [Whatever](https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Whatever](https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l) | 2:58 |
 | 41 | [Running Around](https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Running Around](https://open.spotify.com/album/6SgbKsntdtOnmohYEeHi9o) | 2:04 |
 | 42 | [messy](https://open.spotify.com/track/3CPhCNH8rV1czzGSmXm9TH) | [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN) | [messy](https://open.spotify.com/album/4XoiPhxyT8riRh4V2enQZP) | 3:27 |
-| 43 | [yes baby](https://open.spotify.com/track/2Nh1wIvPLDk4wK356m0nQA) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [yes baby](https://open.spotify.com/album/4arOnJKD3OYnk72Q1i7PEL) | 2:55 |
-| 44 | [Sweet Disposition \(a moment, a love\)](https://open.spotify.com/track/0D57lQnn110jGaup4NguSI) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Sweet Disposition \(a moment, a love\)](https://open.spotify.com/album/1gy4lfYIU3RmqcKYucj5tR) | 3:32 |
+| 43 | [Sweet Disposition \(a moment, a love\)](https://open.spotify.com/track/0D57lQnn110jGaup4NguSI) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Sweet Disposition \(a moment, a love\)](https://open.spotify.com/album/1gy4lfYIU3RmqcKYucj5tR) | 3:32 |
+| 44 | [yes baby](https://open.spotify.com/track/2Nh1wIvPLDk4wK356m0nQA) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [yes baby](https://open.spotify.com/album/4arOnJKD3OYnk72Q1i7PEL) | 2:55 |
 | 45 | [Deep Down \(feat\. Never Dull\)](https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA), [Kenny Dope](https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX), [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [Deep Down \(feat\. Never Dull\)](https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI) | 2:45 |
 | 46 | [10:35](https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [10:35](https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO) | 2:52 |
 | 47 | [Forever Young](https://open.spotify.com/track/3bg2qahpZmsg5wV2EMPXIk) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Alphaville](https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Forever Young](https://open.spotify.com/album/5a450MS1eKGQQAsqgvsZ6J) | 2:36 |

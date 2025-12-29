@@ -715,6 +715,24 @@
     },
     {
       "album": {
+        "name": "Brigitte Bardot",
+        "url": "https://open.spotify.com/album/7v2usu1rojLb7zX5sC6yMV"
+      },
+      "artists": [
+        {
+          "name": "Brigitte Bardot",
+          "url": "https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy"
+        }
+      ],
+      "date_added": "2025-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155800,
+      "name": "La madrague",
+      "url": "https://open.spotify.com/track/5nnvTjA5yzhHlmVOVoGT49"
+    },
+    {
+      "album": {
         "name": "Love Me Please Love Me",
         "url": "https://open.spotify.com/album/68clUJF0fZaWSdmcBYKxGH"
       },
@@ -960,7 +978,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 174440,
       "name": "My Guy",
       "url": "https://open.spotify.com/track/4591VqUIXysNlmI5NcAIUd"

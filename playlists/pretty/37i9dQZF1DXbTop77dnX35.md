@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Naira Marley, Ruger, Nektunez, Skales and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,786 likes - 47 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,902 likes - 47 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

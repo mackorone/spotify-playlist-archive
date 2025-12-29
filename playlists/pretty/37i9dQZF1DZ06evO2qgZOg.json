@@ -1,12 +1,12 @@
 {
   "description": "This is Skillet. The essential tracks, all in one playlist.",
-  "num_followers": 319009,
+  "num_followers": 319048,
   "original_name": "This Is Skillet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU3QAAAAAACtWohMff3ZLOrrpjCX+7xZ",
+  "snapshot_id": "aU8hgAAAAABTpiOmuQGI35DOAUoJikzv",
   "tracks": [
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dominion: Day of Destiny",
-        "url": "https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 192307,
-      "name": "Crossfire",
-      "url": "https://open.spotify.com/track/4bwvPbiPCsjyMZc6W4VPA2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unleashed Beyond (Special Edition)",
         "url": "https://open.spotify.com/album/2KKPw3uv39fzhiUTS7zw37"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 229200,
       "name": "Set It Off",
       "url": "https://open.spotify.com/track/6TwT18qPHvu1T3p91MtgyN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dominion: Day of Destiny",
+        "url": "https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "duration_ms": 192307,
+      "name": "Crossfire",
+      "url": "https://open.spotify.com/track/4bwvPbiPCsjyMZc6W4VPA2"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora de tu orgullo. Foto: Sof\u00eda Amores.",
-  "num_followers": 21223,
+  "num_followers": 21227,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -347,6 +347,22 @@
     {
       "added_at": "2025-12-02 23:01:13",
       "album": {
+        "name": "Mocatriz",
+        "url": "https://open.spotify.com/album/5yxi46mo07ZvsIYSHpcYHe"
+      },
+      "artists": [
+        {
+          "name": "Ojete Calor",
+          "url": "https://open.spotify.com/artist/39OG2j99BjXdZbgj9mgF9x"
+        }
+      ],
+      "duration_ms": 237228,
+      "name": "Mocatriz",
+      "url": "https://open.spotify.com/track/4FpRhJ7lOtetHL1zwZSYuP"
+    },
+    {
+      "added_at": "2025-12-02 23:01:13",
+      "album": {
         "name": "El Destello",
         "url": "https://open.spotify.com/album/0gwNvd96sZlBHuI2af1TRD"
       },
@@ -367,22 +383,6 @@
     {
       "added_at": "2025-12-02 23:01:13",
       "album": {
-        "name": "Mocatriz",
-        "url": "https://open.spotify.com/album/5yxi46mo07ZvsIYSHpcYHe"
-      },
-      "artists": [
-        {
-          "name": "Ojete Calor",
-          "url": "https://open.spotify.com/artist/39OG2j99BjXdZbgj9mgF9x"
-        }
-      ],
-      "duration_ms": 237228,
-      "name": "Mocatriz",
-      "url": "https://open.spotify.com/track/4FpRhJ7lOtetHL1zwZSYuP"
-    },
-    {
-      "added_at": "2025-12-02 23:01:13",
-      "album": {
         "name": "CABALLO NEGRO",
         "url": "https://open.spotify.com/album/0QBgvCtVa4h7GJ4om5ai5Q"
       },
@@ -399,22 +399,6 @@
     {
       "added_at": "2025-12-02 23:01:13",
       "album": {
-        "name": "Esa Diva (Benidorm Fest Edit)",
-        "url": "https://open.spotify.com/album/4LLAdoTR6CwQO52KPsKcjQ"
-      },
-      "artists": [
-        {
-          "name": "Melody",
-          "url": "https://open.spotify.com/artist/3muH0fOWJZ2SaxK3agdOMD"
-        }
-      ],
-      "duration_ms": 177874,
-      "name": "Esa Diva - Benidorm Fest Edit",
-      "url": "https://open.spotify.com/track/5MOZUwlA3LPWFVhHNxWCfh"
-    },
-    {
-      "added_at": "2025-12-02 23:01:13",
-      "album": {
         "name": "Pipe dream",
         "url": "https://open.spotify.com/album/20X4FOyFRV6i5pHm7Miztf"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 157952,
       "name": "Pipe dream",
       "url": "https://open.spotify.com/track/6UeLnS7MmYy5ReoVDtw5lQ"
+    },
+    {
+      "added_at": "2025-12-02 23:01:13",
+      "album": {
+        "name": "Esa Diva (Benidorm Fest Edit)",
+        "url": "https://open.spotify.com/album/4LLAdoTR6CwQO52KPsKcjQ"
+      },
+      "artists": [
+        {
+          "name": "Melody",
+          "url": "https://open.spotify.com/artist/3muH0fOWJZ2SaxK3agdOMD"
+        }
+      ],
+      "duration_ms": 177874,
+      "name": "Esa Diva - Benidorm Fest Edit",
+      "url": "https://open.spotify.com/track/5MOZUwlA3LPWFVhHNxWCfh"
     },
     {
       "added_at": "2025-12-02 23:01:13",
@@ -599,22 +599,6 @@
     {
       "added_at": "2025-12-02 23:01:13",
       "album": {
-        "name": "No soy Diosa",
-        "url": "https://open.spotify.com/album/0YyJj0GUJFXhBo6pdjX6uz"
-      },
-      "artists": [
-        {
-          "name": "Luna Ki",
-          "url": "https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M"
-        }
-      ],
-      "duration_ms": 131772,
-      "name": "No soy Diosa",
-      "url": "https://open.spotify.com/track/0vz3RZvT3EsujmA5QdLM7k"
-    },
-    {
-      "added_at": "2025-12-02 23:01:13",
-      "album": {
         "name": "Castigo",
         "url": "https://open.spotify.com/album/0g5VyEMZ6M06tLTHz6133A"
       },
@@ -651,6 +635,22 @@
     {
       "added_at": "2025-12-02 23:01:13",
       "album": {
+        "name": "No soy Diosa",
+        "url": "https://open.spotify.com/album/0YyJj0GUJFXhBo6pdjX6uz"
+      },
+      "artists": [
+        {
+          "name": "Luna Ki",
+          "url": "https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M"
+        }
+      ],
+      "duration_ms": 131772,
+      "name": "No soy Diosa",
+      "url": "https://open.spotify.com/track/0vz3RZvT3EsujmA5QdLM7k"
+    },
+    {
+      "added_at": "2025-12-02 23:01:13",
+      "album": {
         "name": "Cuando acabe el verano",
         "url": "https://open.spotify.com/album/2Y5z8prM08SNZYm8rqhHSW"
       },
@@ -667,22 +667,6 @@
     {
       "added_at": "2025-12-02 23:01:13",
       "album": {
-        "name": "\u00e9chame la culpa <3",
-        "url": "https://open.spotify.com/album/39gNoRM5WwxKHN0ARWHL0h"
-      },
-      "artists": [
-        {
-          "name": "MARLENA",
-          "url": "https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y"
-        }
-      ],
-      "duration_ms": 179138,
-      "name": "\u00e9chame la culpa <3",
-      "url": "https://open.spotify.com/track/1gP1B96HTPu2tl6DOORxHw"
-    },
-    {
-      "added_at": "2025-12-02 23:01:13",
-      "album": {
         "name": "Spawnpoint",
         "url": "https://open.spotify.com/album/4MzfgepEdxmAkKrLzxnDit"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 200040,
       "name": "Me Quedar\u00e9",
       "url": "https://open.spotify.com/track/5IDxa3XZxvivXV7UvWZswG"
+    },
+    {
+      "added_at": "2025-12-02 23:01:13",
+      "album": {
+        "name": "\u00e9chame la culpa <3",
+        "url": "https://open.spotify.com/album/39gNoRM5WwxKHN0ARWHL0h"
+      },
+      "artists": [
+        {
+          "name": "MARLENA",
+          "url": "https://open.spotify.com/artist/1IAwO3v7hVP9ryTQtlzc9y"
+        }
+      ],
+      "duration_ms": 179138,
+      "name": "\u00e9chame la culpa <3",
+      "url": "https://open.spotify.com/track/1gP1B96HTPu2tl6DOORxHw"
     },
     {
       "added_at": "2025-12-02 23:01:13",
@@ -735,6 +735,22 @@
     {
       "added_at": "2025-12-02 23:01:13",
       "album": {
+        "name": "TANTO POR HACER",
+        "url": "https://open.spotify.com/album/4KfthNRkwx8Hs3ohaKnrh4"
+      },
+      "artists": [
+        {
+          "name": "Cari\u00f1o",
+          "url": "https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh"
+        }
+      ],
+      "duration_ms": 192942,
+      "name": "Y Yo Que Pensaba",
+      "url": "https://open.spotify.com/track/17mylzsL9LodcuVLakNWcQ"
+    },
+    {
+      "added_at": "2025-12-02 23:01:13",
+      "album": {
         "name": "PRINCESA PORRO (with HELLOLOLA)",
         "url": "https://open.spotify.com/album/47zHBE2Fnlfezu7ZwX3mTw"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 174080,
       "name": "PRINCESA PORRO (with HELLOLOLA)",
       "url": "https://open.spotify.com/track/4k1copzAL7F5UiEbsq6AYX"
-    },
-    {
-      "added_at": "2025-12-02 23:01:13",
-      "album": {
-        "name": "TANTO POR HACER",
-        "url": "https://open.spotify.com/album/4KfthNRkwx8Hs3ohaKnrh4"
-      },
-      "artists": [
-        {
-          "name": "Cari\u00f1o",
-          "url": "https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh"
-        }
-      ],
-      "duration_ms": 192942,
-      "name": "Y Yo Que Pensaba",
-      "url": "https://open.spotify.com/track/17mylzsL9LodcuVLakNWcQ"
     },
     {
       "added_at": "2025-12-02 23:01:13",
@@ -803,22 +803,6 @@
     {
       "added_at": "2025-12-02 23:01:13",
       "album": {
-        "name": "Si me muero ma\u00f1ana",
-        "url": "https://open.spotify.com/album/4PMkMQqNq63gjMRz5sRWQw"
-      },
-      "artists": [
-        {
-          "name": "David Rees",
-          "url": "https://open.spotify.com/artist/2CQHyfluB4mliyv193Qn2L"
-        }
-      ],
-      "duration_ms": 257250,
-      "name": "Si me muero ma\u00f1ana",
-      "url": "https://open.spotify.com/track/5TxfmcbrqqMnlhKYIpf1ou"
-    },
-    {
-      "added_at": "2025-12-02 23:01:13",
-      "album": {
         "name": "LL\u00c1MAME",
         "url": "https://open.spotify.com/album/2dZblO1hvoesr6hZ6229bo"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 193412,
       "name": "LOKADEM\u00c1S",
       "url": "https://open.spotify.com/track/5ZCQ2vkUFgvFx3ERJSOYOo"
+    },
+    {
+      "added_at": "2025-12-02 23:01:13",
+      "album": {
+        "name": "Si me muero ma\u00f1ana",
+        "url": "https://open.spotify.com/album/4PMkMQqNq63gjMRz5sRWQw"
+      },
+      "artists": [
+        {
+          "name": "David Rees",
+          "url": "https://open.spotify.com/artist/2CQHyfluB4mliyv193Qn2L"
+        }
+      ],
+      "duration_ms": 257250,
+      "name": "Si me muero ma\u00f1ana",
+      "url": "https://open.spotify.com/track/5TxfmcbrqqMnlhKYIpf1ou"
     }
   ],
   "unique_name": "Glow Espa\u00f1a",

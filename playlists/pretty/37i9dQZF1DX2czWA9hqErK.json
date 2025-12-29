@@ -1,6 +1,6 @@
 {
   "description": "Sunday morning whenever you like",
-  "num_followers": 1333366,
+  "num_followers": 1333286,
   "original_name": "Easy",
   "owner": {
     "name": "Spotify",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2025-12-05 04:34:50",
       "album": {
+        "name": "You Are The Morning",
+        "url": "https://open.spotify.com/album/4amlS1zcZeSWkphaXn3lEq"
+      },
+      "artists": [
+        {
+          "name": "jasmine.4.t",
+          "url": "https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm"
+        }
+      ],
+      "duration_ms": 276437,
+      "name": "Guy Fawkes Tesco Dissociation",
+      "url": "https://open.spotify.com/track/6bPvOeqJRytjU4KFl6Wzdy"
+    },
+    {
+      "added_at": "2025-12-05 04:34:50",
+      "album": {
         "name": "One Door Closes (feat. Breland)",
         "url": "https://open.spotify.com/album/5AOYmjNyAFYXsceGhAB6Dr"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 187084,
       "name": "One Door Closes (feat. Breland)",
       "url": "https://open.spotify.com/track/6ExcHgzbMNJEBqnBtaMko6"
-    },
-    {
-      "added_at": "2025-12-05 04:34:50",
-      "album": {
-        "name": "You Are The Morning",
-        "url": "https://open.spotify.com/album/4amlS1zcZeSWkphaXn3lEq"
-      },
-      "artists": [
-        {
-          "name": "jasmine.4.t",
-          "url": "https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm"
-        }
-      ],
-      "duration_ms": 276437,
-      "name": "Guy Fawkes Tesco Dissociation",
-      "url": "https://open.spotify.com/track/6bPvOeqJRytjU4KFl6Wzdy"
     },
     {
       "added_at": "2025-12-05 04:34:50",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2025-12-05 04:34:50",
       "album": {
-        "name": "About U: One Year On",
-        "url": "https://open.spotify.com/album/7HaFj1HOC2Q1viS1lpCAGX"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 291538,
-      "name": "I Know A Place - Acoustic",
-      "url": "https://open.spotify.com/track/7tMc9X5fX4fcEttj2dNLYI"
-    },
-    {
-      "added_at": "2025-12-05 04:34:50",
-      "album": {
         "name": "Save My Heart",
         "url": "https://open.spotify.com/album/6nfMJRyxIK6K3RtTmPXEsL"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 181260,
       "name": "Save My Heart",
       "url": "https://open.spotify.com/track/1ffuj3LkTKRj20507nRwMl"
+    },
+    {
+      "added_at": "2025-12-05 04:34:50",
+      "album": {
+        "name": "About U: One Year On",
+        "url": "https://open.spotify.com/album/7HaFj1HOC2Q1viS1lpCAGX"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 291538,
+      "name": "I Know A Place - Acoustic",
+      "url": "https://open.spotify.com/track/7tMc9X5fX4fcEttj2dNLYI"
     },
     {
       "added_at": "2025-12-05 04:34:50",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2025-12-05 04:34:50",
       "album": {
-        "name": "steal my soul",
-        "url": "https://open.spotify.com/album/7lf7nq3pmpPMEutyzQ4NVH"
+        "name": "Sweet Nothings",
+        "url": "https://open.spotify.com/album/1RIPgsTPa4rOwfVlyG6nMh"
       },
       "artists": [
         {
-          "name": "SOLOMON",
-          "url": "https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4"
+          "name": "Mychelle",
+          "url": "https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71"
         }
       ],
-      "duration_ms": 141320,
-      "name": "steal my soul",
-      "url": "https://open.spotify.com/track/0GCatw5uBoK6elQCmIrriS"
+      "duration_ms": 173000,
+      "name": "Sweet Nothings",
+      "url": "https://open.spotify.com/track/5Lxwdlm1ZBnTwZi7CSudpx"
     }
   ],
   "unique_name": "Easy",

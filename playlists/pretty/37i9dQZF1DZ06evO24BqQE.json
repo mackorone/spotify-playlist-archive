@@ -1,12 +1,12 @@
 {
   "description": "This is BNXN. The essential tracks, all in one playlist.",
-  "num_followers": 43945,
+  "num_followers": 43985,
   "original_name": "This Is BNXN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU3QAAAAAABj2w9WZL/73r244Jpm4OZQ",
+  "snapshot_id": "aU8hgAAAAAAL+mhOM5x94fjTaEHBtv0n",
   "tracks": [
     {
       "added_at": null,
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 154909,
-      "name": "Bae Bae",
-      "url": "https://open.spotify.com/track/5s33nLb8BCeeKep2rfG7To"
+      "duration_ms": 206000,
+      "name": "POE",
+      "url": "https://open.spotify.com/track/52Krs3LCqtcfeiWUvhxncK"
     },
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 206000,
-      "name": "POE",
-      "url": "https://open.spotify.com/track/52Krs3LCqtcfeiWUvhxncK"
+      "duration_ms": 154909,
+      "name": "Bae Bae",
+      "url": "https://open.spotify.com/track/5s33nLb8BCeeKep2rfG7To"
     },
     {
       "added_at": null,
@@ -271,22 +271,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Prince of the Street",
-        "url": "https://open.spotify.com/album/6eAuO5yaH0N9ALkeKtuiaW"
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/3s9e6NFuPRzU2WUdSvLGi6"
       },
       "artists": [
-        {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
-        },
         {
           "name": "BNXN",
           "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 125106,
-      "name": "Oshimiri",
-      "url": "https://open.spotify.com/track/2i5PqDEsME85JezRrq6BJy"
+      "duration_ms": 191976,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/7scINjDU13FTbCakH7bf2E"
     },
     {
       "added_at": null,
@@ -311,18 +307,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/3s9e6NFuPRzU2WUdSvLGi6"
+        "name": "Prince of the Street",
+        "url": "https://open.spotify.com/album/6eAuO5yaH0N9ALkeKtuiaW"
       },
       "artists": [
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        },
         {
           "name": "BNXN",
           "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 191976,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/7scINjDU13FTbCakH7bf2E"
+      "duration_ms": 125106,
+      "name": "Oshimiri",
+      "url": "https://open.spotify.com/track/2i5PqDEsME85JezRrq6BJy"
     },
     {
       "added_at": null,
@@ -555,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sorry I'm Late",
+        "url": "https://open.spotify.com/album/4bwyX8dGHZk71KDKDZU04u"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 200708,
+      "name": "Never Stopped",
+      "url": "https://open.spotify.com/track/3uxhxNWTwL9kYJNbXKRGDm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Feeling",
         "url": "https://open.spotify.com/album/3JtqyAW9kr3vMKWyHlo6wD"
       },
@@ -575,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sorry I'm Late",
-        "url": "https://open.spotify.com/album/4bwyX8dGHZk71KDKDZU04u"
+        "name": "Sincerely, Benson",
+        "url": "https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a"
       },
       "artists": [
         {
@@ -584,9 +600,25 @@
           "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 200708,
-      "name": "Never Stopped",
-      "url": "https://open.spotify.com/track/3uxhxNWTwL9kYJNbXKRGDm"
+      "duration_ms": 231151,
+      "name": "Best Of Me",
+      "url": "https://open.spotify.com/track/3Z19t8pNaAHqlLmz2LuwNa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bad Since '97",
+        "url": "https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 165217,
+      "name": "Loose Emotions",
+      "url": "https://open.spotify.com/track/6PAHjYMVquDNSYAA8nvgkd"
     },
     {
       "added_at": null,
@@ -611,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Since '97",
-        "url": "https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio"
+        "name": "Traboski",
+        "url": "https://open.spotify.com/album/7A0qUYFzVQZGI6IcFebIiN"
       },
       "artists": [
         {
@@ -620,25 +652,9 @@
           "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 165217,
-      "name": "Loose Emotions",
-      "url": "https://open.spotify.com/track/6PAHjYMVquDNSYAA8nvgkd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sincerely, Benson",
-        "url": "https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 231151,
-      "name": "Best Of Me",
-      "url": "https://open.spotify.com/track/3Z19t8pNaAHqlLmz2LuwNa"
+      "duration_ms": 155860,
+      "name": "Traboski",
+      "url": "https://open.spotify.com/track/2woGTVY8Vx46aYuXfMmwwE"
     },
     {
       "added_at": null,
@@ -655,22 +671,6 @@
       "duration_ms": 163042,
       "name": "I Do",
       "url": "https://open.spotify.com/track/3pzAmz9wv1xkzxWWcDh0QR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Traboski",
-        "url": "https://open.spotify.com/album/7A0qUYFzVQZGI6IcFebIiN"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 155860,
-      "name": "Traboski",
-      "url": "https://open.spotify.com/track/2woGTVY8Vx46aYuXfMmwwE"
     },
     {
       "added_at": null,

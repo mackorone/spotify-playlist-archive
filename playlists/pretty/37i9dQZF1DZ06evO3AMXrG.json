@@ -1,12 +1,12 @@
 {
   "description": "This is Cultura Prof\u00e9tica. The essential tracks, all in one playlist.",
-  "num_followers": 246118,
+  "num_followers": 246143,
   "original_name": "This Is Cultura Prof\u00e9tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU3QAAAAAABxxdxXh5yTxIHXF6Fnt3ZV",
+  "snapshot_id": "aU8hgAAAAABldwkWN/JSoQTT5Qxpy1B4",
   "tracks": [
     {
       "added_at": null,
@@ -467,6 +467,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ideas Nuevas",
+        "url": "https://open.spotify.com/album/5QpKkGyhZB4SixED6zbo7R"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 371160,
+      "name": "Ideas Nuevas",
+      "url": "https://open.spotify.com/track/74J7BSwaufXaF1UqObyDAu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lento",
         "url": "https://open.spotify.com/album/4Mpvt6bZfXYAbngcdp6qSB"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 229150,
       "name": "Lento",
       "url": "https://open.spotify.com/track/7HKSD4sgEvIv22zVb3T8xN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ideas Nuevas",
-        "url": "https://open.spotify.com/album/5QpKkGyhZB4SixED6zbo7R"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 371160,
-      "name": "Ideas Nuevas",
-      "url": "https://open.spotify.com/track/74J7BSwaufXaF1UqObyDAu"
     },
     {
       "added_at": null,

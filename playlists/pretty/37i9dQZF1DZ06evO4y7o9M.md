@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4y7o9M.md) - [plain]
 
 > This is Junior H\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 920,100 likes - 47 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 920,289 likes - 47 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4y7o9M.md) - [plain]
 | 46 | [ROMPE LA DOMPE](https://open.spotify.com/track/2OWv3lRR8PtOVuHWzQNRs2) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [ROMPE LA DOMPE](https://open.spotify.com/album/3qmauw54W5zniG20b5q4iJ) | 2:45 |
 | 47 | [En Paris](https://open.spotify.com/track/1Fuc3pBiPFxAeSJoO8tDh5) | [El Chachito](https://open.spotify.com/artist/6OP8Y0UsezppFkU1hZU6EJ), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [En Paris](https://open.spotify.com/album/02t065wNWRCc7Yz9jG0ahR) | 2:42 |
 
-Snapshot ID: `aU3QAAAAAAB6UySRSw0j7hGHIi5vEfYm`
+Snapshot ID: `aU8hgAAAAADCynsMAbpsRVlIbFwB21Go`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > ⁺‧₊˚ ཐིA curated space for the avant\-garde⋆ཋྀ ˚₊‧⁺ Cover: Rico Nasty
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,945 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,967 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 99 | [9\-2\-5](https://open.spotify.com/track/66nIyYOKdy7yu2QjNagnop) | [Boko Yout](https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP) | [9\-2\-5](https://open.spotify.com/album/1SjROMfa8GKI69Q9QH1Xsn) | 3:12 |
 | 100 | [Clap Your Hands](https://open.spotify.com/track/54K9jnCgyW5c6AA5Xy0rpw) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Clap Your Hands](https://open.spotify.com/album/0b7kPvHDTOPqbK6Amuz5if) | 4:35 |
 
-Snapshot ID: `AAAAAKJcHXp6YQDOw+oDH0q8UosLG/Un`
+Snapshot ID: `AAAAAKlY/aidU2MpOcJcLTAgAsCBYV6Y`

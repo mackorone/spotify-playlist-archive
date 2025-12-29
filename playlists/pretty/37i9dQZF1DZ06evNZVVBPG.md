@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZVVBPG.md) - [plain]
 
 > This is Lana Del Rey\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,753,499 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,753,721 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZVVBPG.md) - [plain]
 | 26 | [Dark Paradise](https://open.spotify.com/track/6qqdFWe7C4LsBjWbXQdsHA) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die \- The Paradise Edition](https://open.spotify.com/album/5VoeRuTrGhTbKelUfwymwu) | 4:03 |
 | 27 | [Cherry](https://open.spotify.com/track/1Ym6aMuT5bliaZMC67AmPp) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lust For Life](https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo) | 3:00 |
 | 28 | [How to disappear](https://open.spotify.com/track/4qUtC2BwFC154Ha8YQRrkk) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 3:48 |
-| 29 | [Summertime Sadness \(Lana Del Rey Vs\. Cedric Gervais\) \- Cedric Gervais Remix](https://open.spotify.com/track/6PUIzlqotEmPuBfjbwYWOB) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724) | [Summertime Sadness \(Lana Del Rey Vs\. Cedric Gervais\) \[Cedric Gervais Remix\]](https://open.spotify.com/album/1fXwOvaqIdkhp5F3fiFbCv) | 3:34 |
-| 30 | [Snow On The Beach \(feat\. More Lana Del Rey\)](https://open.spotify.com/track/4zmKGsrXjLmljb5fTaBTot) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Midnights \(The Til Dawn Edition\)](https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A) | 3:49 |
+| 29 | [Snow On The Beach \(feat\. More Lana Del Rey\)](https://open.spotify.com/track/4zmKGsrXjLmljb5fTaBTot) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Midnights \(The Til Dawn Edition\)](https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A) | 3:49 |
+| 30 | [Summertime Sadness \(Lana Del Rey Vs\. Cedric Gervais\) \- Cedric Gervais Remix](https://open.spotify.com/track/6PUIzlqotEmPuBfjbwYWOB) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724) | [Summertime Sadness \(Lana Del Rey Vs\. Cedric Gervais\) \[Cedric Gervais Remix\]](https://open.spotify.com/album/1fXwOvaqIdkhp5F3fiFbCv) | 3:34 |
 | 31 | [Paris, Texas \(feat\. SYML\)](https://open.spotify.com/track/0Oqxt6JixieLHbwMfnJGWO) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 3:26 |
 | 32 | [Norman fucking Rockwell](https://open.spotify.com/track/3RIgHHpnFKj5Rni1shokDj) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 4:08 |
 | 33 | [Dealer](https://open.spotify.com/track/7iqQz931tn59mK6IZ3knRx) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Blue Banisters](https://open.spotify.com/album/2wwCc6fcyhp1tfY3J6Javr) | 4:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZVVBPG.md) - [plain]
 | 49 | [Peppers \(feat\. Tommy Genesis\)](https://open.spotify.com/track/2Rlso2ZNV0PaWwUYeeBYxx) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:08 |
 | 50 | [Season Of The Witch](https://open.spotify.com/track/5DSi7heBC8eTIFROBvttnp) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Season Of The Witch \(From The Motion Picture "Scary Stories To Tell In The Dark"\)](https://open.spotify.com/album/4K7RKXggxezOmccv1Uuviq) | 4:07 |
 
-Snapshot ID: `aU3QAAAAAAD39YK7tGL7+e9/OusoMES8`
+Snapshot ID: `aU8hgAAAAAC26FTu+MoI92ue0KCLLAL3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Frisse Nederlandse pop\. Cover: Samuel Welten
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,305 likes - 75 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,285 likes - 75 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 74 | [Zeg maar niets](https://open.spotify.com/track/5ayQm9rr6dzb4wiTp6Kwib) | [Bibi van Ansem](https://open.spotify.com/artist/0MpQgnQ7AAiqpvXLq5cXVF) | [Zeg maar niets](https://open.spotify.com/album/4wZq7Q7JNZp6oCocTyUQY6) | 2:33 |
 | 75 | [Leerde Van Mijn Vader](https://open.spotify.com/track/3Ab4Cwn4aAfhmtVs2JeK56) | [Elieve](https://open.spotify.com/artist/1baKapVwDaPTbQvH9kCUkf) | [Leerde Van Mijn Vader](https://open.spotify.com/album/7xFHKM3KcfOYzNu3kVVWeg) | 2:17 |
 
-Snapshot ID: `AAAAAAW5UWJbqf0LQedclTg6C9nd/7jO`
+Snapshot ID: `AAAAANI0i5q4LKw29KNu/YtInzMCiLLM`

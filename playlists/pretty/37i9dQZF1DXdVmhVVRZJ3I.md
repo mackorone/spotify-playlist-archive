@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVmhVVRZJ3I.md) - [plain]
 
 > Eletrônico energético para acompanhar a sua malhação diária.
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,014 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,064 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,10 +44,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVmhVVRZJ3I.md) - [plain]
 | 34 | [Dynamite](https://open.spotify.com/track/3HqQpSTLHJRKDhulVacRFb) | [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Dynamite](https://open.spotify.com/album/3PclTvUZ12jHy1bmWecbuW) | 2:05 |
 | 35 | [Last Time](https://open.spotify.com/track/54zJ1SxDe0CQhWRij7E0no) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Last Time](https://open.spotify.com/album/2qizgplRij9zCHIlp5SiXR) | 3:34 |
 | 36 | [My City \(feat\. Katy Tiz\)](https://open.spotify.com/track/5sjvmFMLPjBXDd2XDr9JIm) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Prophecy](https://open.spotify.com/artist/03O6WINYmDJRCE2EUFaykv), [Katy Tiz](https://open.spotify.com/artist/2E19mfEFhCr6UgZUYJGOEW) | [My City \(feat\. Katy Tiz\)](https://open.spotify.com/album/0qmEnrR9K8ho8OrxvS6rKe) | 2:31 |
-| 37 | [Vodka](https://open.spotify.com/track/0NFLot7aYjdkJon2mMN5lG) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Dekho \(MX\)](https://open.spotify.com/artist/4Q4lGYyIw28g7YK5ekAEZM) | [Vodka](https://open.spotify.com/album/3Ni5e9roK3dDrAgSVDqJgd) | 3:02 |
-| 38 | [Dali](https://open.spotify.com/track/2aCHISDYlq4nbKyi195Tac) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht) | [Dali](https://open.spotify.com/album/6UDVIUlB7nvJ4KDNTymxxv) | 2:59 |
-| 39 | [Children](https://open.spotify.com/track/6KXxcGWj6KB5GlW1c2dhY5) | [Selva](https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa), [Kohen](https://open.spotify.com/artist/3Dkul6nShja7zaggvl66rB) | [Children](https://open.spotify.com/album/2alDtRinlIXBcb5bf5DHmn) | 3:58 |
-| 40 | [New Memories](https://open.spotify.com/track/7C9SonafFzEtoheAQDQ2UW) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [New Memories](https://open.spotify.com/album/1aTVxDieuETvXezEvjYmcI) | 3:14 |
+| 37 | [Dali](https://open.spotify.com/track/2aCHISDYlq4nbKyi195Tac) | [Liu](https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht) | [Dali](https://open.spotify.com/album/6UDVIUlB7nvJ4KDNTymxxv) | 2:59 |
+| 38 | [Vodka](https://open.spotify.com/track/0NFLot7aYjdkJon2mMN5lG) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Dekho \(MX\)](https://open.spotify.com/artist/4Q4lGYyIw28g7YK5ekAEZM) | [Vodka](https://open.spotify.com/album/3Ni5e9roK3dDrAgSVDqJgd) | 3:02 |
+| 39 | [New Memories](https://open.spotify.com/track/7C9SonafFzEtoheAQDQ2UW) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [New Memories](https://open.spotify.com/album/1aTVxDieuETvXezEvjYmcI) | 3:14 |
+| 40 | [Children](https://open.spotify.com/track/6KXxcGWj6KB5GlW1c2dhY5) | [Selva](https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa), [Kohen](https://open.spotify.com/artist/3Dkul6nShja7zaggvl66rB) | [Children](https://open.spotify.com/album/2alDtRinlIXBcb5bf5DHmn) | 3:58 |
 | 41 | [Over Here](https://open.spotify.com/track/6MXz4WkjXAW2Wmk3neFtpg) | [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE) | [Over Here](https://open.spotify.com/album/3jkQ3UzZJtHDpNEDWPjguT) | 2:57 |
 | 42 | [Tomorrow \(feat\. 433\)](https://open.spotify.com/track/0uH5ORp6Ai5PP0SUofxoc7) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [433](https://open.spotify.com/artist/2MT1u0GqGp2d8XLjY3F8ln) | [Tomorrow \(feat\. 433\)](https://open.spotify.com/album/6PGjlC64lf5ChodLjQGLlf) | 2:45 |
 | 43 | [Turning Me Up \(Hadal Ahbek\)](https://open.spotify.com/track/4sofJiicQwKsRo3S1vpt39) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r), [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Turning Me Up \(Hadal Ahbek\)](https://open.spotify.com/album/4iVUZYC6NjKXt4jOh14dTb) | 2:24 |

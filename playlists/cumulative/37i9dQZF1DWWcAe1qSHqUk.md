@@ -4,7 +4,7 @@
 
 > 爵士就是一個聲音的紳士，有歌聲動人、有演奏優雅，旋律美妙之餘還濃濃情意！
 
-170 songs - 11 hr 28 min
+171 songs - 11 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Little Paradise](https://open.spotify.com/track/7p3AeUfrHFKdBuyVTXwXKW) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Dance Of Time](https://open.spotify.com/album/3AwETxl8Vf5yYbACae04eP) | 4:59 | 2025-08-11 |  |
 | [Love Forgotten By Love](https://open.spotify.com/track/5B8DHIWdNCcag2FUF1OYge) | [eSNa](https://open.spotify.com/artist/2jfAd4z4B5dR7yhhwTOulQ) | [Love Forgotten By Love](https://open.spotify.com/album/7bhwsozskBjE2gGSxwpQQO) | 4:34 | 2022-10-10 | 2022-11-13 |
 | [Love Is Here To Stay](https://open.spotify.com/track/2bUK1EW5FPfpNDLO42XKqV) | [Curtis Stigers](https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu) | [Hooray For Love](https://open.spotify.com/album/6LrheEX4HOEDjAh5oj4Q9c) | 4:19 | 2022-09-12 |  |
-| [Love On Top](https://open.spotify.com/track/7409tRO6Y8sLLIlSRZyXiu) | [Hailey Tuck](https://open.spotify.com/artist/31xWBejhhuVdm9zRmCQuse) | [Tuck + Cover](https://open.spotify.com/album/3ldm7w3EdQXyMHJHUmizvk) | 3:28 | 2022-09-12 |  |
+| [Love On Top](https://open.spotify.com/track/7409tRO6Y8sLLIlSRZyXiu) | [Hailey Tuck](https://open.spotify.com/artist/31xWBejhhuVdm9zRmCQuse) | [Tuck + Cover](https://open.spotify.com/album/3ldm7w3EdQXyMHJHUmizvk) | 3:28 | 2022-09-12 | 2025-12-29 |
 | [Lover Man \(Oh, Where Can You Be?\)](https://open.spotify.com/track/0R5rHcEKfDpC47txuZrzCc) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [Lover Man \(Oh, Where Can You Be?\)](https://open.spotify.com/album/5sLhFtPxR3dWgIFI7kPcIt) | 3:03 | 2022-09-12 | 2025-12-11 |
 | [Lá Vem a Baiana](https://open.spotify.com/track/1n441XV55b21VveSUSA1SA) | [Jussara Silveira](https://open.spotify.com/artist/59RULa3Jap6Q7Pj1o9tb7T) | [Canções de Caymmi](https://open.spotify.com/album/4cLmwrthVvhIYcOcrVDUaX) | 4:02 | 2022-09-12 | 2024-04-19 |
 | [Make It Last](https://open.spotify.com/track/69Di4YxK4PB1ivkRdeglt5) | [Nicole Henry](https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn) | [The Very Thought of You](https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO) | 5:16 | 2022-09-12 |  |
@@ -172,6 +172,7 @@
 | [Why Try to Change Me Now](https://open.spotify.com/track/7fKA60i4JhkavVw7fQFOHS) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [The Best Is Yet to Come \- The Songs of Cy Coleman](https://open.spotify.com/album/2d6MOVjMtiiFoZNHK9Xk0p) | 5:16 | 2022-09-12 |  |
 | [Wild Is The Wind](https://open.spotify.com/track/5vPHV6iJIotTSqzjf45C3T) | [Kari Kirkland](https://open.spotify.com/artist/7Jeb6sMs1pOvVXeugcoNeU) | [Wild Is The Wind](https://open.spotify.com/album/1MpomkUbmIFOp5vRn9AEMp) | 5:43 | 2024-02-19 | 2025-05-26 |
 | [You Are There](https://open.spotify.com/track/3HweeuM8Tuan2rNoAW2uYY) | [Kate Kortum](https://open.spotify.com/artist/7C9n1omUWXpWDedTBsiI0D) | [You Are There](https://open.spotify.com/album/2SW21s45ctUtS6GIxsVuaM) | 5:45 | 2024-12-23 |  |
+| [You Go To My Head](https://open.spotify.com/track/5r1nL8IUVak9RMqwpvC0Nh) | [Adonis Rose](https://open.spotify.com/artist/5xNCQCeanWkWyBKoGXET9y), [Ryan Hanseler](https://open.spotify.com/artist/524YAzKMvMUURzW34Gtetk), [Lex Warshawsky](https://open.spotify.com/artist/4w8FWjfDaLaHz37ICgCcHV) | [For All We Know](https://open.spotify.com/album/2Uc9iyrRuHRksplRbnDZhP) | 7:24 | 2025-12-29 |  |
 | [You Only Live Twice](https://open.spotify.com/track/6V5laseFT7BWBwwziWQGfc) | [Sarah McKenzie](https://open.spotify.com/artist/4HXtFN7bAZUp0GtsRRpzW2) | [Secrets of My Heart](https://open.spotify.com/album/086KHW1DUXz3QssYk3qXZ5) | 4:39 | 2023-05-08 | 2025-11-11 |
 | [You're Mine, You!](https://open.spotify.com/track/5JRDIhGU31EyE4OSUlDtWI) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Baby Breeze \(Expanded Edition\)](https://open.spotify.com/album/4FwmVb94KamiFQNi2uslNM) | 3:18 | 2022-09-12 | 2024-04-19 |
 | [Young One for Debra](https://open.spotify.com/track/4DE2IwQUZMrEqCZ95D1iIk) | [Jim Hall](https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr), [Jimmy Woode](https://open.spotify.com/artist/7cyVfL1LEXWiLfl25J0bBb), [Daniel Humair](https://open.spotify.com/artist/5khCKDGtTIZreUFp0gayVL) | [It's Nice to Be with You: Jim Hall in Berlin](https://open.spotify.com/album/7nSroQAyDwJ6qpTYdXYZuD) | 4:25 | 2024-12-23 | 2025-10-27 |

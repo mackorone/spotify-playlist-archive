@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-1,146 songs - 3 day 11 hr 40 min
+1,147 songs - 3 day 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -401,7 +401,7 @@
 | [Gemini](https://open.spotify.com/track/7De25QZjlGdOYMB8bdBi3e) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi) | [Stereosonic Festival Anthems 2015](https://open.spotify.com/album/2eiNxpNhOdk2IPu9UMhDB3) | 4:30 | 2019-06-21 | 2020-10-19 |
 | [gems pop like berries in my mouth](https://open.spotify.com/track/4sW84TLkvAurk7yfmEiFNT) | [galen tipton](https://open.spotify.com/artist/4yk43MhqPWsrrzoRyoMZhv) | [clean dreams](https://open.spotify.com/album/6LTRKvYkK03ig1KjNLIdiW) | 2:50 | 2024-10-07 | 2024-11-15 |
 | [Gendèr](https://open.spotify.com/track/73J0XZfBhvGgCloBnkXVCP) | [Makoto San](https://open.spotify.com/artist/5q59mwaDz1bIPUdymI1Qvr) | [Gendèr](https://open.spotify.com/album/3eO8EkqnVpLj4C8nlM0QBa) | 3:58 | 2020-04-22 | 2025-07-06 |
-| [Gentle Hum](https://open.spotify.com/track/7y4dEwmZu6ErfezHluGUEs) | [Ah! Kosmos](https://open.spotify.com/artist/1PtegeWYDiBNTVmbINxtgD), [Hainbach](https://open.spotify.com/artist/3FlXXv8lfSt3ZWk9epMxe7) | [Gentle Hum](https://open.spotify.com/album/2OWosnN4z6RW16UdNnbFPO) | 2:40 | 2024-12-13 | 2025-10-25 |
+| [Gentle Hum](https://open.spotify.com/track/7y4dEwmZu6ErfezHluGUEs) | [Ah! Kosmos](https://open.spotify.com/artist/1PtegeWYDiBNTVmbINxtgD), [Hainbach](https://open.spotify.com/artist/3FlXXv8lfSt3ZWk9epMxe7) | [Gentle Hum](https://open.spotify.com/album/2OWosnN4z6RW16UdNnbFPO) | 2:40 | 2024-12-13 |  |
 | [Ghomrassen](https://open.spotify.com/track/3KLlLHrAQsDUryZc3fMx7P) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Star Wars Headspace](https://open.spotify.com/album/6oJnwRad77TohXQ683Rlw6) | 5:10 | 2019-06-23 | 2022-04-21 |
 | [Ghost](https://open.spotify.com/track/7AQjYCNDaxvnLzajPn6tmd) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t) | [Ghost](https://open.spotify.com/album/6obE8PUQth0vzbAH5IeQnp) | 3:47 | 2019-05-26\* | 2020-08-26 |
 | [Ghost Plant](https://open.spotify.com/track/0l5yzyUkyFbGcFPPdRGLOl) | [High Math](https://open.spotify.com/artist/71fMNJGcp7GFz0ZxBvohtt) | [Ghost Plant](https://open.spotify.com/album/3pUXaUfatJq2Whvk6ECeRp) | 1:16 | 2019-07-26 | 2020-08-26 |
@@ -431,7 +431,7 @@
 | [Half Awake](https://open.spotify.com/track/2UUVwDVZYR5StS7Si0SxrP) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Half Awake](https://open.spotify.com/album/5CvlH1O9kN7HCJVN5pUPw2) | 3:18 | 2020-10-28 | 2023-03-19 |
 | [Half Awake](https://open.spotify.com/track/4ReGLAJLZZKFonhQcRXTRU) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Half Awake](https://open.spotify.com/album/2vhK0Pw1fm7ep0qzq0pZXc) | 3:18 | 2023-06-22 | 2024-04-19 |
 | [Hanging D \- Max Cooper Remix](https://open.spotify.com/track/4X8vyPKnqXurF8tJcgZJUC) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y), [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Hanging D \(Max Cooper Remix\)](https://open.spotify.com/album/1yEeSe2Y3oe91BN2rhWR48) | 5:05 | 2021-07-23 |  |
-| [Happiness](https://open.spotify.com/track/5B3sPlmTPuWqkNIhPks00u) | [Omfeel](https://open.spotify.com/artist/01koLF6f9W9lvfj1EIsSbQ) | [Happiness](https://open.spotify.com/album/1IBs9mhunaMiOGQAOJzpwx) | 3:59 | 2024-06-28 |  |
+| [Happiness](https://open.spotify.com/track/5B3sPlmTPuWqkNIhPks00u) | [Omfeel](https://open.spotify.com/artist/01koLF6f9W9lvfj1EIsSbQ) | [Happiness](https://open.spotify.com/album/1IBs9mhunaMiOGQAOJzpwx) | 3:59 | 2024-06-28 | 2025-12-29 |
 | [Harbour \- Original Mix](https://open.spotify.com/track/2eJTBg24OcjIQbld3libGX) | [Soundprank](https://open.spotify.com/artist/4axjIl2fLU1xnDsC1NB3yI) | [Anjunabeats Chilled Summer](https://open.spotify.com/album/51NvhDH0FMdDqhTtBPhJ02) | 5:08 | 2019-06-22 | 2025-08-10 |
 | [Haul \(Max Cooper Remix\)](https://open.spotify.com/track/6WXXOjaynxjyiyXwD6Wh2g) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Mare Reworks](https://open.spotify.com/album/5bYn4Wb0pXW3NVh0eSlgh4) | 7:15 | 2019-06-19\* | 2022-04-18 |
 | [Head Above The Parakeets](https://open.spotify.com/track/1jK4ngN1uGHVk6x2ae2C5G) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Put Your Head Above The Parakeets](https://open.spotify.com/album/1tp6VBpXpeJ7ZHj4j18KCN) | 7:16 | 2020-11-13 | 2022-04-21 |
@@ -529,6 +529,7 @@
 | [Knows No End](https://open.spotify.com/track/3I0YRqrBMoA4DAlK3MKj34) | [BAILE](https://open.spotify.com/artist/135mViPxje2MED7hOnn2j9), [Haulm](https://open.spotify.com/artist/6a0Kn7yto6kNqngYq9fC21) | [After All This Time](https://open.spotify.com/album/5fQZ7mthdgHZVxmLjuk1Bp) | 5:36 | 2024-01-26 | 2024-02-13 |
 | [Knows No End](https://open.spotify.com/track/3bRHsTDn4w7u2zllW5oiei) | [BAILE](https://open.spotify.com/artist/135mViPxje2MED7hOnn2j9), [Haulm](https://open.spotify.com/artist/6a0Kn7yto6kNqngYq9fC21) | [Knows No End](https://open.spotify.com/album/6iyHGaoFv7ABdWev0JDjy1) | 5:36 | 2021-09-10 | 2022-07-29 |
 | [Kora](https://open.spotify.com/track/6keksRelqpwkzSEjscx8lH) | [Ineffekt](https://open.spotify.com/artist/4gjrK1MHgJnPCESuzMtWXg) | [Kora](https://open.spotify.com/album/4EBhh3bqst5cQVnFkkjWQV) | 4:13 | 2021-07-30 | 2022-07-28 |
+| [Königsforst 1](https://open.spotify.com/track/7joLh1gqRVsHuwccyjILbj) | [GAS](https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX) | [Königsforst](https://open.spotify.com/album/250sWScTPsQKWAY9s7Oufy) | 9:38 | 2025-12-18 |  |
 | [L'architettura Del Mare](https://open.spotify.com/track/3bOEp5lWoea80fO9FDmb0c) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU) | [Stasi](https://open.spotify.com/album/4d6jmHbXzFFVlydwb2vSa1) | 5:04 | 2021-07-23 | 2022-07-28 |
 | [L'Inno delle Oceanine alla Bellezza e alla Fortuna](https://open.spotify.com/track/1imCY3nm7hkJVyRX5KIfvu) | [Francesca Heart](https://open.spotify.com/artist/2kYY2P70sG9kRerK0Oa9qT) | [Eurybia](https://open.spotify.com/album/4ZqTaLiWcfUe2focRp293x) | 3:06 | 2024-03-22 | 2024-08-16 |
 | [La femme d'argent \- Vegyn Version](https://open.spotify.com/track/7jDxY5BblYMlamymg6jqfA) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o), [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Blue Moon Safari](https://open.spotify.com/album/091tPFouQEyjL5Rekipta8) | 4:20 | 2025-04-15 |  |
@@ -582,7 +583,7 @@
 | [Loom \(feat\. Bonobo\)](https://open.spotify.com/track/3Yagxg6rtkwN01AYzA862i) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Loom](https://open.spotify.com/album/2kfPunUS5HqupNVAueFmgM) | 3:46 | 2020-10-22 |  |
 | [Loon E](https://open.spotify.com/track/27WhNUMC7jvvQ6m2zF3FW0) | [Purelink](https://open.spotify.com/artist/2kUrBcfh7PVIivyYGAVjrQ) | [Club Moss](https://open.spotify.com/album/2XpWP3eKFkMNlISF1ApaMm) | 5:51 | 2024-03-15 | 2024-05-01 |
 | [Looped](https://open.spotify.com/track/2bB6iDVgm25WkYv0yBz1BD) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD) | [Kiasmos](https://open.spotify.com/album/7pBDu7nc2KaMsh0SfZMc2d) | 6:00 | 2023-03-24 | 2023-05-04 |
-| [Love](https://open.spotify.com/track/1DPQO6QuHJEVNO1ukVKVdX) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [Love](https://open.spotify.com/album/6OenbU5SkncCjUpzRIQ4Zo) | 4:38 | 2020-10-19 |  |
+| [Love](https://open.spotify.com/track/1DPQO6QuHJEVNO1ukVKVdX) | [Liam Mour](https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0) | [Love](https://open.spotify.com/album/6OenbU5SkncCjUpzRIQ4Zo) | 4:38 | 2020-10-19 | 2025-12-29 |
 | [Love](https://open.spotify.com/track/3VsAxQh5ke9D3UCg7ZnPq2) | [vesky](https://open.spotify.com/artist/2zIECsUpk7rCi0zhXBvF7L) | [Love](https://open.spotify.com/album/6w32IwyhOZUgoU8sEUt3Rq) | 3:56 | 2025-02-12 |  |
 | [Loved](https://open.spotify.com/track/6fUo4GlD0FbvXNTylA4o68) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Loved](https://open.spotify.com/album/7z0gdOZRbERZSAq50rassb) | 4:03 | 2024-01-19 | 2024-02-23 |
 | [Loyalty](https://open.spotify.com/track/4zyYWKv2hYVdAzeVBHeJAv) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq), [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [Loyalty](https://open.spotify.com/album/3JB13d1xqzarAyIUD9BKbV) | 3:18 | 2024-05-24 | 2024-06-14 |

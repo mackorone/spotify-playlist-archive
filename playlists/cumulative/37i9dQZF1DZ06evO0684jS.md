@@ -4,7 +4,7 @@
 
 > This is Nicki Minaj\. The essential tracks, all in one playlist.
 
-89 songs - 5 hr 20 min
+90 songs - 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,9 +26,10 @@
 | [Beep Beep](https://open.spotify.com/track/5iHC401tsNlJRY46ECSYbo) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 1:35 | 2023-12-13 | 2024-08-17 |
 | [Beez In The Trap](https://open.spotify.com/track/4It00tEYLwpjQtAhqnjCPC) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Pink Friday ..\. Roman Reloaded \(Deluxe\)](https://open.spotify.com/album/6fABwONLawdFjkDpLx41j8) | 4:28 | 2025-10-31 |  |
 | [Big Foot](https://open.spotify.com/track/587Ks4sb6Wd2qRVS5i9fdW) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Big Foot](https://open.spotify.com/album/3b80v2noU4EEZmCefjinoO) | 4:22 | 2024-01-30 | 2024-03-25 |
+| [Black Barbies](https://open.spotify.com/track/3y9cCbnBn0zjkJa2YkOj70) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk) | [Black Barbies](https://open.spotify.com/album/0bfNmMmjV6nvDwwhUvL7e8) | 4:14 | 2025-12-29 |  |
 | [Bottoms Up \(feat\. Nicki Minaj\)](https://open.spotify.com/track/4AYX69oFP3UOS1CFmV9UfO) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Passion, Pain & Pleasure \(Deluxe Version\)](https://open.spotify.com/album/3sDoSYf2AKB2IegZmkISGD) | 4:02 | 2023-11-10 |  |
 | [Chun\-Li](https://open.spotify.com/track/1e4rwBPVI32vZtTJu7mJ4J) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Queen](https://open.spotify.com/album/2acDkDTWdNFie1HjcFa4Ny) | 3:11 | 2023-11-10 |  |
-| [Did It On’em](https://open.spotify.com/track/6Slt6WiWnriaqCb8xXb2ZT) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday](https://open.spotify.com/album/3LJhoYn4nnHmvPRO3ppbsl) | 3:32 | 2023-11-10 |  |
+| [Did It On’em](https://open.spotify.com/track/6Slt6WiWnriaqCb8xXb2ZT) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday](https://open.spotify.com/album/3LJhoYn4nnHmvPRO3ppbsl) | 3:32 | 2023-11-10 | 2025-12-29 |
 | [Do You Mind \(feat\. Nicki Minaj, Chris Brown, August Alsina, Jeremih, Future & Rick Ross\)](https://open.spotify.com/track/6ezg5Mm5UEEi3Oqsbb7Cjn) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [August Alsina](https://open.spotify.com/artist/19Fi1Rj7kk8kyiwxpXy3yM), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Major Key](https://open.spotify.com/album/6ZQyMrmlg95L8gy63Pnm33) | 5:25 | 2024-06-24 |  |
 | [Endless Fashion \(feat\. Nicki Minaj\)](https://open.spotify.com/track/41bmnQZoDMQdDh5zyomtW7) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 3:36 | 2023-11-10 | 2024-11-29 |
 | [Everybody \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/5ZJGv7aGdIr9IGpxzSG18T) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 3:00 | 2023-12-13 | 2025-12-23 |

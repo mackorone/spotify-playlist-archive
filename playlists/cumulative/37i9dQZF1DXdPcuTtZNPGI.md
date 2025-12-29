@@ -4,7 +4,7 @@
 
 > 多彩なボカロPの作品に生命を吹き込み、変幻自在なボーカルの表現力で世間を席巻中の新世代女性シンガー、Adoのオールタイム・ベスト。The essential tracks of Ado, all in one playlist.
 
-163 songs - 10 hr 48 min
+164 songs - 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [missing](https://open.spotify.com/track/5COfkrLpT6t2fHliXbc3tl) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [missing](https://open.spotify.com/album/6fxRUp0yEHIE79usuBfVaM) | 3:09 | 2022-10-09 | 2024-04-19 |
 | [Motherland](https://open.spotify.com/track/4mNbJClAJtuwVnBIRlMYJB) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Kyougen](https://open.spotify.com/album/4muEF5biWb506ZojGMfHb7) | 4:20 | 2022-10-09 | 2024-04-19 |
 | [Odo](https://open.spotify.com/track/37bNBNB332HXbSy6079cws) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Kyougen](https://open.spotify.com/album/4muEF5biWb506ZojGMfHb7) | 3:30 | 2022-10-09 | 2024-04-19 |
+| [Odoru Ponpokorin](https://open.spotify.com/track/3pncyVfDzI4m9oErJKLKIo) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Odoru Ponpokorin](https://open.spotify.com/album/2XeKcmluJtZwNDYJmhiDER) | 3:14 | 2025-12-28 |  |
 | [osmanthus](https://open.spotify.com/track/0MJ5wsGpqu0gTJkx53ewxc) | [whaledontsleep](https://open.spotify.com/artist/5lEzAveEBteB85UVvKTanp), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Nerenaiyoruni ka\-tenwoakete](https://open.spotify.com/album/4ZCMR8iFTEAZNOmJdKB9pn) | 2:20 | 2022-10-09 | 2024-04-19 |
 | [osyarebantyou](https://open.spotify.com/track/639m4tI4S2HISJJg6SwW3g) | [Linmu](https://open.spotify.com/artist/7fDKKZH24LisRepejhv0iz), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [osyarebantyou](https://open.spotify.com/album/03lldnDbmbAnn09eBuvRAX) | 4:40 | 2022-10-09 | 2024-04-19 |
 | [Radio Noise](https://open.spotify.com/track/1LBgTD0zhYq2oGAdoQilvb) | [Mikokichi](https://open.spotify.com/artist/6pSYccQdF3qxoSrnmDbq1n), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Radio Noise](https://open.spotify.com/album/3rIUUcpIFGEH1ImFRocpWA) | 4:48 | 2022-10-09 | 2024-04-19 |

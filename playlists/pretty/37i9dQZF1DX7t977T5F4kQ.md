@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 
 > The hottest and recent Ghana party starters\. Cover: Kuami Eugene
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,708 likes - 80 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,743 likes - 80 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 79 | [JEJEREJE \(with Ginton\)](https://open.spotify.com/track/2gCRqpK3AIAUjjrqK1303r) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy) | [JEJEREJE \(with Ginton\)](https://open.spotify.com/album/1B29weDwfx3NtFm4S7PrVJ) | 3:04 |
 | 80 | [Black Coffee](https://open.spotify.com/track/46VDIPUk3Q1i1otgAwhI2k) | [Wendy Shay](https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S) | [Ready](https://open.spotify.com/album/5dptysvoGXZnn2c5m37ijr) | 2:35 |
 
-Snapshot ID: `AAAAALiD7BfZXMBOItNAmmD/aJHoua1m`
+Snapshot ID: `AAAAAHFqtBfbRbYaV7W4PfOnGYxxsFIQ`

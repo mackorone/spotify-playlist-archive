@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0tKTQI.md) - [plain]
 
 > This is Bratty\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,598 likes - 49 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,600 likes - 49 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,15 +47,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0tKTQI.md) - [plain]
 | 37 | [tiempo](https://open.spotify.com/track/0TeOSjjpN80jyyZLc4RiLn) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn \(Deluxe\)](https://open.spotify.com/album/7A0d7VPtIDRo5kLEiZyghH) | 3:51 |
 | 38 | [Cruel](https://open.spotify.com/track/4ZauniOK70YyV27WfhIBYK) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Delusión](https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN) | 3:38 |
 | 39 | [¿Y Cómo?](https://open.spotify.com/track/0LAitaHvVwdyjQcVJYyFAF) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [¿Y Cómo?](https://open.spotify.com/album/65hIp443Zd1Fz3IyL1z8bo) | 3:32 |
-| 40 | [Interlude](https://open.spotify.com/track/6GsDBG00OVi33YA89WJmoP) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Todo Está Cambiando](https://open.spotify.com/album/7BJ6elEow3lvPxOduSlh1g) | 1:23 |
-| 41 | [Voy en Auto](https://open.spotify.com/track/0kVHMFM0cLUU3LVxP3Ps4F) | [Andru](https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Voy en Auto](https://open.spotify.com/album/45VXxqHvTgdEicrCiIBXnu) | 2:58 |
+| 40 | [Voy en Auto](https://open.spotify.com/track/0kVHMFM0cLUU3LVxP3Ps4F) | [Andru](https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Voy en Auto](https://open.spotify.com/album/45VXxqHvTgdEicrCiIBXnu) | 2:58 |
+| 41 | [Interlude](https://open.spotify.com/track/6GsDBG00OVi33YA89WJmoP) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Todo Está Cambiando](https://open.spotify.com/album/7BJ6elEow3lvPxOduSlh1g) | 1:23 |
 | 42 | [u.c.m.c.d.n.](https://open.spotify.com/track/0c6yROB8ARIwEGJXU8w0Dn) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn \(Deluxe\)](https://open.spotify.com/album/7A0d7VPtIDRo5kLEiZyghH) | 2:37 |
 | 43 | [Mi Habitación](https://open.spotify.com/track/7iF9WZqCVKUHV93XykSFgZ) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [Yawners](https://open.spotify.com/artist/5tD6FNrK7Hlxlkt4pbAliC) | [Es Mi Fiesta Y Si Quiero Hago Un EP](https://open.spotify.com/album/1eDAIIm6ZE4FzNSjirEtkt) | 2:35 |
-| 44 | [Hazme Saber](https://open.spotify.com/track/3U4F4pnwzhPFSItQnf5lIb) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Todo Está Cambiando](https://open.spotify.com/album/7BJ6elEow3lvPxOduSlh1g) | 3:32 |
-| 45 | [Sobredósis De Tempra](https://open.spotify.com/track/4UdmlAdIW3JB4qatctbAyx) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Sobredósis De Tempra](https://open.spotify.com/album/04x0I75414tDPIDXPu9rRN) | 2:58 |
+| 44 | [Sobredósis De Tempra](https://open.spotify.com/track/4UdmlAdIW3JB4qatctbAyx) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Sobredósis De Tempra](https://open.spotify.com/album/04x0I75414tDPIDXPu9rRN) | 2:58 |
+| 45 | [Hazme Saber](https://open.spotify.com/track/3U4F4pnwzhPFSItQnf5lIb) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Todo Está Cambiando](https://open.spotify.com/album/7BJ6elEow3lvPxOduSlh1g) | 3:32 |
 | 46 | [ecoducto](https://open.spotify.com/track/5f6eF1GxmwaRm0DLsFdVit) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [tdbn \(Deluxe\)](https://open.spotify.com/album/7A0d7VPtIDRo5kLEiZyghH) | 2:57 |
 | 47 | [Todo Está Cambiando](https://open.spotify.com/track/393RjpfMsWMPSCWLxa8daD) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Todo Está Cambiando](https://open.spotify.com/album/7BJ6elEow3lvPxOduSlh1g) | 3:13 |
 | 48 | [Charlie](https://open.spotify.com/track/3Hb1Nmc4Bil5yyO0g03hLZ) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Todo Está Cambiando](https://open.spotify.com/album/7BJ6elEow3lvPxOduSlh1g) | 2:57 |
 | 49 | [Before Seeing Green](https://open.spotify.com/track/5QUegNZBmf8GbGz1gYWcl3) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Todo Está Cambiando](https://open.spotify.com/album/7BJ6elEow3lvPxOduSlh1g) | 2:35 |
 
-Snapshot ID: `aU3QAAAAAAC9omYGqVhnJORdvq/Rcrkn`
+Snapshot ID: `aU8hgAAAAABhnYA9qGGDJ5PsnYFToGos`

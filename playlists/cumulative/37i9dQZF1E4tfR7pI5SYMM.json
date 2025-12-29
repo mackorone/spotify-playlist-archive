@@ -344,7 +344,7 @@
       ],
       "date_added": "2025-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-27",
+      "date_removed": null,
       "duration_ms": 242796,
       "name": "Borte nu",
       "url": "https://open.spotify.com/track/7qJHIWro691ebJIws46iiC"
@@ -1844,7 +1844,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 344050,
       "name": "Kaldidalur",
       "url": "https://open.spotify.com/track/5RMhZWWoXV6ioZmFXCUh9k"
@@ -2869,6 +2869,24 @@
     },
     {
       "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/1Reb521PcOYXpJEZzxUpPj"
+      },
+      "artists": [
+        {
+          "name": "Toby Judson",
+          "url": "https://open.spotify.com/artist/0T9Ir174EsmDYRxlCYqBJM"
+        }
+      ],
+      "date_added": "2025-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222193,
+      "name": "Pick Me Up",
+      "url": "https://open.spotify.com/track/14tT9kBpmJCTaPgBe934gk"
+    },
+    {
+      "album": {
         "name": "Pigs",
         "url": "https://open.spotify.com/album/2ugUQN61OZCpnUV8OzU9bM"
       },
@@ -3428,7 +3446,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 159380,
       "name": "Stargazer\u2019s Waltz",
       "url": "https://open.spotify.com/track/6G5mfPRbrtShOt7tO73XhB"
@@ -3800,7 +3818,7 @@
       ],
       "date_added": "2025-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 444582,
       "name": "The Sky as We Know It, Pt. 1",
       "url": "https://open.spotify.com/track/1FshPsffi4BeoCmzVLRA0A"
@@ -4010,7 +4028,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-28",
+      "date_removed": null,
       "duration_ms": 306857,
       "name": "Trappen",
       "url": "https://open.spotify.com/track/0WLNy45tLrBZdobrIc0vjG"

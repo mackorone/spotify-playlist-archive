@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra bla\. Bendik og mange fler!🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,140 likes - 55 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,134 likes - 55 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 54 | [Shades On](https://open.spotify.com/track/11sT6ogSSw8waTWBy0BG3z) | [Sam i](https://open.spotify.com/artist/5AUTN6tMncnOnYgJK1VM6K), [Mia Moretti](https://open.spotify.com/artist/508HEnl2cDRksyq8hyQtRh) | [Shades On](https://open.spotify.com/album/2wsbSos56mpRgF8QmJ6x5M) | 3:00 |
 | 55 | [180°](https://open.spotify.com/track/7ckom0ejIcK5XxdoY39iAL) | [Addison Dean](https://open.spotify.com/artist/76q2t3ghKRSAyWww2LZ9Kk) | [180°](https://open.spotify.com/album/42lKdcpikEyCPO87oOHAc9) | 2:49 |
 
-Snapshot ID: `AAAAADSqd1aU3bIYTsyMSuJmrAy0lKfR`
+Snapshot ID: `AAAAAJk4f7p5EOnF40Ve18JgRGaFsDlP`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1mhg4h.md) - [plain]
 
 > This is kessoku band\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,118 likes - 30 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,122 likes - 30 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,10 +27,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1mhg4h.md) - [plain]
 | 17 | [忘れてやらない](https://open.spotify.com/track/5ISHFvPLUqKz2JfDRtwnb2) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 3:43 |
 | 18 | [milky way](https://open.spotify.com/track/3lKpFtBHX0Q17ABO380mhv) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [We will](https://open.spotify.com/album/0r5oazd96lslNQTYaBXd2g) | 3:32 |
 | 19 | [あのバンド \-恒星\- Live ver.](https://open.spotify.com/track/2M4VFiQx8J9z8KjojIXH8t) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンドLIVE\-恒星\- at Zepp Haneda（TOKYO）](https://open.spotify.com/album/02vz6Xm6j8BetyOHMLFBpE) | 4:05 |
-| 20 | [カラカラ \-We will B\- Live ver.](https://open.spotify.com/track/2TeeUxAD3AhHaHmMoIFkDB) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド TOUR “We will B”](https://open.spotify.com/album/2PadFbanHKV06oSqeUelHR) | 4:33 |
+| 20 | [青春コンプレックス \-We will B\- Live ver.](https://open.spotify.com/track/1AVPkWVCIMB7cjHVUjoMgc) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド TOUR “We will B”](https://open.spotify.com/album/2PadFbanHKV06oSqeUelHR) | 3:27 |
 | 21 | [Distortion!!](https://open.spotify.com/track/3l8rIBKJUDQFqQfKvcpQ1w) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 3:23 |
 | 22 | [星座になれたら \-恒星\- Live ver.](https://open.spotify.com/track/3Rtv7KXHFVcjWYlPFOxDvc) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンドLIVE\-恒星\- at Zepp Haneda（TOKYO）](https://open.spotify.com/album/02vz6Xm6j8BetyOHMLFBpE) | 4:41 |
-| 23 | [青春コンプレックス \-We will B\- Live ver.](https://open.spotify.com/track/1AVPkWVCIMB7cjHVUjoMgc) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド TOUR “We will B”](https://open.spotify.com/album/2PadFbanHKV06oSqeUelHR) | 3:27 |
+| 23 | [カラカラ \-We will B\- Live ver.](https://open.spotify.com/track/2TeeUxAD3AhHaHmMoIFkDB) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド TOUR “We will B”](https://open.spotify.com/album/2PadFbanHKV06oSqeUelHR) | 4:33 |
 | 24 | [ギターと孤独と蒼い惑星 \-恒星\- Live ver.](https://open.spotify.com/track/5fwkSQLLk78Jx8neIz6iDP) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンドLIVE\-恒星\- at Zepp Haneda（TOKYO）](https://open.spotify.com/album/02vz6Xm6j8BetyOHMLFBpE) | 4:01 |
 | 25 | [星座になれたら \-We will B\- Live ver.](https://open.spotify.com/track/05FLjHg93uElDdRpXX5ckx) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド TOUR “We will B”](https://open.spotify.com/album/2PadFbanHKV06oSqeUelHR) | 4:34 |
 | 26 | [カラカラ \-恒星\- Live ver.](https://open.spotify.com/track/0BlWCoGxEBkMjq61eVWhOD) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンドLIVE\-恒星\- at Zepp Haneda（TOKYO）](https://open.spotify.com/album/02vz6Xm6j8BetyOHMLFBpE) | 4:34 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1mhg4h.md) - [plain]
 | 29 | [ひとりぼっち東京 \-We will B\- Live ver.](https://open.spotify.com/track/65Nfm9dNhuQDFYExqNCOaP) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド TOUR “We will B”](https://open.spotify.com/album/2PadFbanHKV06oSqeUelHR) | 3:57 |
 | 30 | [Distortion!! \-恒星\- Live ver.](https://open.spotify.com/track/3dcIyoeDzG5ROztf8ErTP3) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンドLIVE\-恒星\- at Zepp Haneda（TOKYO）](https://open.spotify.com/album/02vz6Xm6j8BetyOHMLFBpE) | 3:37 |
 
-Snapshot ID: `aU3QAAAAAAD6M8SL4cuz1HjAGt9rMH61`
+Snapshot ID: `aU8hgAAAAADEK7wu19kQJsy5D96bycEv`

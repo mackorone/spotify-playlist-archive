@@ -1,6 +1,6 @@
 {
   "description": "Dale play y que la m\u00fasica te acompa\u00f1e  \ud83d\udcf8 Indios",
-  "num_followers": 278594,
+  "num_followers": 278589,
   "original_name": "Radio Pop",
   "owner": {
     "name": "Spotify",
@@ -99,18 +99,22 @@
     {
       "added_at": "2025-12-05 16:16:51",
       "album": {
-        "name": "Dance The Night (From Barbie The Album)",
-        "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
+        "name": "Calm Down (with Selena Gomez)",
+        "url": "https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp"
       },
       "artists": [
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
         }
       ],
-      "duration_ms": 176579,
-      "name": "Dance The Night - From Barbie The Album",
-      "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
+      "duration_ms": 239317,
+      "name": "Calm Down (with Selena Gomez)",
+      "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
     },
     {
       "added_at": "2025-12-05 16:16:51",
@@ -135,38 +139,34 @@
     {
       "added_at": "2025-12-05 16:16:51",
       "album": {
-        "name": "Calm Down (with Selena Gomez)",
-        "url": "https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp"
+        "name": "Dance The Night (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
       },
       "artists": [
         {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        },
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 239317,
-      "name": "Calm Down (with Selena Gomez)",
-      "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
+      "duration_ms": 176579,
+      "name": "Dance The Night - From Barbie The Album",
+      "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
     },
     {
       "added_at": "2025-12-05 16:16:51",
       "album": {
-        "name": "The Subway",
-        "url": "https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira"
+        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
       },
       "artists": [
         {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 252276,
-      "name": "The Subway",
-      "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
+      "duration_ms": 221800,
+      "name": "Hasta la Ra\u00edz",
+      "url": "https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf"
     },
     {
       "added_at": "2025-12-05 16:16:51",
@@ -187,18 +187,18 @@
     {
       "added_at": "2025-12-05 16:16:51",
       "album": {
-        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
+        "name": "The Subway",
+        "url": "https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira"
       },
       "artists": [
         {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
         }
       ],
-      "duration_ms": 221800,
-      "name": "Hasta la Ra\u00edz",
-      "url": "https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf"
+      "duration_ms": 252276,
+      "name": "The Subway",
+      "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
     },
     {
       "added_at": "2025-12-05 16:16:51",
@@ -555,46 +555,6 @@
     {
       "added_at": "2025-12-05 16:16:51",
       "album": {
-        "name": "Rebelde",
-        "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
-      },
-      "artists": [
-        {
-          "name": "RBD",
-          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
-        },
-        {
-          "name": "Anah\u00ed",
-          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
-        },
-        {
-          "name": "Dulce Mar\u00eda",
-          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
-        },
-        {
-          "name": "Maite Perroni",
-          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
-        },
-        {
-          "name": "Christian Ch\u00e1vez",
-          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
-        },
-        {
-          "name": "Christopher von Uckermann",
-          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
-        },
-        {
-          "name": "Alfonso Herrera",
-          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
-        }
-      ],
-      "duration_ms": 219520,
-      "name": "S\u00f3lo Qu\u00e9date En Silencio",
-      "url": "https://open.spotify.com/track/2RJ1fg4qf2vgZKifTa4HgA"
-    },
-    {
-      "added_at": "2025-12-05 16:16:51",
-      "album": {
         "name": "Moon Music",
         "url": "https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6"
       },
@@ -639,6 +599,62 @@
       "duration_ms": 233813,
       "name": "Lo Que Ten\u00edas Conmigo",
       "url": "https://open.spotify.com/track/0X6coWomPnfGLXQ6gdi3cI"
+    },
+    {
+      "added_at": "2025-12-05 16:16:51",
+      "album": {
+        "name": "Rebelde",
+        "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
+      },
+      "artists": [
+        {
+          "name": "RBD",
+          "url": "https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs"
+        },
+        {
+          "name": "Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri"
+        },
+        {
+          "name": "Dulce Mar\u00eda",
+          "url": "https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL"
+        },
+        {
+          "name": "Maite Perroni",
+          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
+        },
+        {
+          "name": "Christian Ch\u00e1vez",
+          "url": "https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN"
+        },
+        {
+          "name": "Christopher von Uckermann",
+          "url": "https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo"
+        },
+        {
+          "name": "Alfonso Herrera",
+          "url": "https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN"
+        }
+      ],
+      "duration_ms": 219520,
+      "name": "S\u00f3lo Qu\u00e9date En Silencio",
+      "url": "https://open.spotify.com/track/2RJ1fg4qf2vgZKifTa4HgA"
+    },
+    {
+      "added_at": "2025-12-05 16:16:51",
+      "album": {
+        "name": "el cielo",
+        "url": "https://open.spotify.com/album/4B4pbYnJhKVPT2wuuwp0Pk"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 188671,
+      "name": "el cielo",
+      "url": "https://open.spotify.com/track/2otAnGaeFFFeIDV8nbu5uA"
     },
     {
       "added_at": "2025-12-05 16:16:51",
@@ -691,22 +707,6 @@
       "duration_ms": 199200,
       "name": "Abr\u00e1zame",
       "url": "https://open.spotify.com/track/5RvmmRCoZY1Yupl3PXgZm4"
-    },
-    {
-      "added_at": "2025-12-05 16:16:51",
-      "album": {
-        "name": "el cielo",
-        "url": "https://open.spotify.com/album/4B4pbYnJhKVPT2wuuwp0Pk"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 188671,
-      "name": "el cielo",
-      "url": "https://open.spotify.com/track/2otAnGaeFFFeIDV8nbu5uA"
     },
     {
       "added_at": "2025-12-05 16:16:51",
@@ -927,26 +927,6 @@
     {
       "added_at": "2025-12-05 16:16:51",
       "album": {
-        "name": "Machu Picchu",
-        "url": "https://open.spotify.com/album/7jqXGkhOKZ3wuZuD6IgTYR"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        }
-      ],
-      "duration_ms": 179004,
-      "name": "Machu Picchu",
-      "url": "https://open.spotify.com/track/1LXb70u8SLsvBAPWHMCTMe"
-    },
-    {
-      "added_at": "2025-12-05 16:16:51",
-      "album": {
         "name": "PITADA",
         "url": "https://open.spotify.com/album/5zSmYPGllvnokcYJfKBHYH"
       },
@@ -967,6 +947,26 @@
     {
       "added_at": "2025-12-05 16:16:51",
       "album": {
+        "name": "Machu Picchu",
+        "url": "https://open.spotify.com/album/7jqXGkhOKZ3wuZuD6IgTYR"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        }
+      ],
+      "duration_ms": 179004,
+      "name": "Machu Picchu",
+      "url": "https://open.spotify.com/track/1LXb70u8SLsvBAPWHMCTMe"
+    },
+    {
+      "added_at": "2025-12-05 16:16:51",
+      "album": {
         "name": "ser humano",
         "url": "https://open.spotify.com/album/5ozAm3Z7tSEpQ0uR7u38Mx"
       },
@@ -979,26 +979,6 @@
       "duration_ms": 199384,
       "name": "Plan",
       "url": "https://open.spotify.com/track/1udeZVMClO0LEIgwgnueOx"
-    },
-    {
-      "added_at": "2025-12-05 16:16:51",
-      "album": {
-        "name": "La del Primer Puesto",
-        "url": "https://open.spotify.com/album/17i5gpmOgTjDDHlgnqa5ua"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        },
-        {
-          "name": "Xavi",
-          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
-        }
-      ],
-      "duration_ms": 194080,
-      "name": "La del Primer Puesto",
-      "url": "https://open.spotify.com/track/6sbE3hkY1kRT4CmmdOJDJC"
     },
     {
       "added_at": "2025-12-05 16:16:51",
@@ -1019,6 +999,26 @@
       "duration_ms": 217476,
       "name": "Muero",
       "url": "https://open.spotify.com/track/3duR10TJy7FDaAr65xe4v2"
+    },
+    {
+      "added_at": "2025-12-05 16:16:51",
+      "album": {
+        "name": "La del Primer Puesto",
+        "url": "https://open.spotify.com/album/17i5gpmOgTjDDHlgnqa5ua"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        }
+      ],
+      "duration_ms": 194080,
+      "name": "La del Primer Puesto",
+      "url": "https://open.spotify.com/track/6sbE3hkY1kRT4CmmdOJDJC"
     },
     {
       "added_at": "2025-12-05 16:16:51",
@@ -1171,6 +1171,38 @@
     {
       "added_at": "2025-12-05 16:16:51",
       "album": {
+        "name": "Guerra (+ Sessions Recorded at Abbey Road)",
+        "url": "https://open.spotify.com/album/0sGgHg4QRIBACnetu6z45Z"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        }
+      ],
+      "duration_ms": 217280,
+      "name": "Ser\u00eda M\u00e1s F\u00e1cil",
+      "url": "https://open.spotify.com/track/0cftlm9IYJi4KoN1PDvR2V"
+    },
+    {
+      "added_at": "2025-12-05 16:16:51",
+      "album": {
+        "name": "11",
+        "url": "https://open.spotify.com/album/5dpzYigmd97HcZOxWMpv9h"
+      },
+      "artists": [
+        {
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+        }
+      ],
+      "duration_ms": 221080,
+      "name": "Oncemil",
+      "url": "https://open.spotify.com/track/3y5ahYM9zwyOCt3mieZ0PZ"
+    },
+    {
+      "added_at": "2025-12-05 16:16:51",
+      "album": {
         "name": "+ Te Vale",
         "url": "https://open.spotify.com/album/2IfwhcfV1PJqIOUMNG8Uqs"
       },
@@ -1187,22 +1219,6 @@
       "duration_ms": 144731,
       "name": "+ Te Vale",
       "url": "https://open.spotify.com/track/0XWqcDAa5ZCmyBOYukrRoQ"
-    },
-    {
-      "added_at": "2025-12-05 16:16:51",
-      "album": {
-        "name": "Guerra (+ Sessions Recorded at Abbey Road)",
-        "url": "https://open.spotify.com/album/0sGgHg4QRIBACnetu6z45Z"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
-        }
-      ],
-      "duration_ms": 217280,
-      "name": "Ser\u00eda M\u00e1s F\u00e1cil",
-      "url": "https://open.spotify.com/track/0cftlm9IYJi4KoN1PDvR2V"
     },
     {
       "added_at": "2025-12-05 16:16:51",
@@ -1239,22 +1255,6 @@
       "duration_ms": 243307,
       "name": "Mariposa Traicionera",
       "url": "https://open.spotify.com/track/5YPyuMfaK6GjdFfRaryJak"
-    },
-    {
-      "added_at": "2025-12-05 16:16:51",
-      "album": {
-        "name": "11",
-        "url": "https://open.spotify.com/album/5dpzYigmd97HcZOxWMpv9h"
-      },
-      "artists": [
-        {
-          "name": "Abel Pintos",
-          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
-        }
-      ],
-      "duration_ms": 221080,
-      "name": "Oncemil",
-      "url": "https://open.spotify.com/track/3y5ahYM9zwyOCt3mieZ0PZ"
     },
     {
       "added_at": "2025-12-05 16:16:51",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2025-12-05 16:16:51",
       "album": {
-        "name": "Conv\u00e9ncete",
-        "url": "https://open.spotify.com/album/2ECz8iqicVkgCZr6QAVnoP"
-      },
-      "artists": [
-        {
-          "name": "Princesa Alba",
-          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
-        }
-      ],
-      "duration_ms": 216263,
-      "name": "Conv\u00e9ncete",
-      "url": "https://open.spotify.com/track/5UyH584f99c7qErZifyaHy"
-    },
-    {
-      "added_at": "2025-12-05 16:16:51",
-      "album": {
         "name": "El Problema Del Amor",
         "url": "https://open.spotify.com/album/4dPOxioDl5QyoOukaPtgDv"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 186842,
       "name": "Un Poquito",
       "url": "https://open.spotify.com/track/5pH8g37XIkQej0AnlfQgNS"
+    },
+    {
+      "added_at": "2025-12-05 16:16:51",
+      "album": {
+        "name": "Conv\u00e9ncete",
+        "url": "https://open.spotify.com/album/2ECz8iqicVkgCZr6QAVnoP"
+      },
+      "artists": [
+        {
+          "name": "Princesa Alba",
+          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
+        }
+      ],
+      "duration_ms": 216263,
+      "name": "Conv\u00e9ncete",
+      "url": "https://open.spotify.com/track/5UyH584f99c7qErZifyaHy"
     },
     {
       "added_at": "2025-12-05 16:16:51",
@@ -1847,6 +1847,22 @@
     {
       "added_at": "2025-12-05 16:16:51",
       "album": {
+        "name": "Me Diste la Espalda",
+        "url": "https://open.spotify.com/album/5wN6XsAHgwnlnHVps4Oqu0"
+      },
+      "artists": [
+        {
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+        }
+      ],
+      "duration_ms": 202492,
+      "name": "Me Diste la Espalda",
+      "url": "https://open.spotify.com/track/2yWqxlPpiXTk48aZpfFfhu"
+    },
+    {
+      "added_at": "2025-12-05 16:16:51",
+      "album": {
         "name": "Quiromancia",
         "url": "https://open.spotify.com/album/1KBZbjexyRuJi8ke07XmyY"
       },
@@ -1879,34 +1895,6 @@
       "duration_ms": 195431,
       "name": "Abraz\u00e1ndonos",
       "url": "https://open.spotify.com/track/22eWPYjQKppTSuiWgEhk9w"
-    },
-    {
-      "added_at": "2025-12-05 16:16:51",
-      "album": {
-        "name": "Acar\u00ed\u00f1ame",
-        "url": "https://open.spotify.com/album/5cggbtEsbsZPcxdjumrBo6"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        },
-        {
-          "name": "Juan Ingaramo",
-          "url": "https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2"
-        },
-        {
-          "name": "Jay de la Cueva",
-          "url": "https://open.spotify.com/artist/2PQW0MnXmZd19XKZQyoPgu"
-        }
-      ],
-      "duration_ms": 201293,
-      "name": "Acar\u00ed\u00f1ame",
-      "url": "https://open.spotify.com/track/2kXeAEpGBN874ZKJPV24fr"
     }
   ],
   "unique_name": "Radio Pop",

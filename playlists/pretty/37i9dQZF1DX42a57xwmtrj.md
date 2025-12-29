@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42a57xwmtrj.md) - [plain]
 
 > ¡Lo naco es chido, y que viva el rocanroool! Alex Lora en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,647 likes - 75 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,667 likes - 75 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42a57xwmtrj.md) - [plain]
 | 66 | [Alarmala De Tos](https://open.spotify.com/track/5w2jRK3JTtHT7IUxcZwn89) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Botellita De Jerez](https://open.spotify.com/album/78MN9NUuPR8pxYx7m0WYcg) | 2:56 |
 | 67 | [Tocando el Cielo](https://open.spotify.com/track/3pE3ecB6BsdzovRRtcieRB) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [15 Grandes Éxitos](https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0) | 3:35 |
 | 68 | [Oye Cantinero](https://open.spotify.com/track/2P5ujdnvH3G4MNwWLUY129) | [Three Souls In My Mind](https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R) | [15 Grandes Exitos](https://open.spotify.com/album/4XF4LoXW8gg1wMVLLfJIRR) | 2:42 |
-| 69 | [La Dosis Perfecta](https://open.spotify.com/track/5aLGdqM8EbHC3B1iKWKDIJ) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Un Panteon Muy Vivo](https://open.spotify.com/album/0HgimXrbh89mAHF3nLGsLP) | 6:29 |
-| 70 | [No Tengo Tiempo \(De Cambiar Mi Vida\)](https://open.spotify.com/track/1UTpT97Dn2exMo7tk8GJZg) | [Foco De Atelier](https://open.spotify.com/artist/5GZzO9MK60ZEQ5iiErfs2A), [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [No Tengo Tiempo \(De Cambiar Mi Vida\)](https://open.spotify.com/album/2U3tJnajShO4HccXpReW5M) | 4:32 |
+| 69 | [No Tengo Tiempo \(De Cambiar Mi Vida\)](https://open.spotify.com/track/1UTpT97Dn2exMo7tk8GJZg) | [Foco De Atelier](https://open.spotify.com/artist/5GZzO9MK60ZEQ5iiErfs2A), [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [No Tengo Tiempo \(De Cambiar Mi Vida\)](https://open.spotify.com/album/2U3tJnajShO4HccXpReW5M) | 4:32 |
+| 70 | [La Dosis Perfecta](https://open.spotify.com/track/5aLGdqM8EbHC3B1iKWKDIJ) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Un Panteon Muy Vivo](https://open.spotify.com/album/0HgimXrbh89mAHF3nLGsLP) | 6:29 |
 | 71 | [Silvia](https://open.spotify.com/track/130MYoc4M7pSTEdelFPq6F) | [Sam Sam](https://open.spotify.com/artist/0LRuvIEgEeGnU02JG2Rbcb) | [15 Rolitas de Amor](https://open.spotify.com/album/2zZmPYbtRdix1vDkr2ve21) | 5:36 |
 | 72 | [Metro Balderas \(Estación del metro Balderas\)](https://open.spotify.com/track/3onGkwXY04Neo2WWbkZiUU) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Hurbanistorias](https://open.spotify.com/album/1o8wNJhnLL493SfrM5McrY) | 4:48 |
 | 73 | [Dolor de Madre](https://open.spotify.com/track/5My9wcnFr3dFFEO6yh8VBO) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [15 Éxitos](https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV) | 4:15 |

@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-1,575 songs - 3 day 17 hr 23 min
+1,576 songs - 3 day 17 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -369,7 +369,7 @@
 | [Oka Ramman](https://open.spotify.com/track/52avodY9PZsS9iCOgxJpmJ) | [GARNiDELiA](https://open.spotify.com/artist/7MIbdLkqD1qQE35LSISIM6) | [Oka Ramman](https://open.spotify.com/album/08A305KVRZfXQLg0Z3Ni7r) | 3:50 | 2022-10-18 | 2022-10-26 |
 | [OMAJINAI](https://open.spotify.com/track/4dlSZa7YK7Y878m0i4xlC8) | [KizunaAI](https://open.spotify.com/artist/0PBygVazIp5XN6sBMSa14Y) | [OMAJINAI](https://open.spotify.com/album/5FNP6dkB1DPWn2TeeERYxw) | 3:25 | 2025-09-09 | 2025-09-18 |
 | [Omocha Teikoku](https://open.spotify.com/track/3WpKIipnEpE5hSDbjqTnne) | [NEE](https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH) | [Omocha Teikoku](https://open.spotify.com/album/43wX4DrD0IYYtMhlfiYevx) | 3:02 | 2023-02-14 | 2023-03-25 |
-| [Only Way](https://open.spotify.com/track/5E12ouOnlp1xffpRYtjKtA) | [9Lana](https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ) | [Only Way](https://open.spotify.com/album/6vz2mjuTSHY1TmozSLJWkj) | 2:51 | 2025-12-02 |  |
+| [Only Way](https://open.spotify.com/track/5E12ouOnlp1xffpRYtjKtA) | [9Lana](https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ) | [Only Way](https://open.spotify.com/album/6vz2mjuTSHY1TmozSLJWkj) | 2:51 | 2025-12-02 | 2025-12-29 |
 | [Opp Otaku \- Remix](https://open.spotify.com/track/3TaAKm9aBsFRgp6CuBkSM2) | [Jinmenusagi](https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE), [TOPHAMHAT\-KYO](https://open.spotify.com/artist/2QGB8HqesnKeA5gcLJ0hiZ), [Rapbit](https://open.spotify.com/artist/7qtLoCkVxJO9Kykqnpngi1) | [DONG JING REN \(DELUXE\)](https://open.spotify.com/album/65NDbd6wBrTVIusMP7KYCB) | 3:46 | 2024-07-26 | 2024-09-04 |
 | [Orbital Period](https://open.spotify.com/track/6zG5U3wCnQfYKrMSWWmbD2) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [Orbital Period](https://open.spotify.com/album/2IWdcEFn0nnzGoNlQ0BdoN) | 4:11 | 2025-02-04 | 2025-03-19 |
 | [ORDER](https://open.spotify.com/track/2tKQ8fa5rP0rFXEfFSdfwS) | [CLAN QUEEN](https://open.spotify.com/artist/7MDWmWGdcgGcxawAnA1FUY) | [ORDER](https://open.spotify.com/album/4gSj3yW1GT6SO0kC1RPBqM) | 2:53 | 2025-04-08 | 2025-04-23 |
@@ -1551,6 +1551,7 @@
 | [雨景色](https://open.spotify.com/track/0S4vsLoQPVC46Ctnee2FxG) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [日陰](https://open.spotify.com/album/4dNOcPtSueHQCjKx8FeOjK) | 3:00 | 2025-07-22 | 2025-11-19 |
 | [雨模様](https://open.spotify.com/track/6QXXNAsEEMHodRbWURBZ2C) | [TUYU](https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl) | [雨模様](https://open.spotify.com/album/1HiYotEPD69v7gjl73sY73) | 2:42 | 2022-09-27 | 2022-09-29 |
 | [雨模様](https://open.spotify.com/track/6RR84PQUcY9BnV0T6NpnSX) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK), [Penoreri](https://open.spotify.com/artist/5VFqU47XEVMVYo5n6Ah9AK) | [雨模様](https://open.spotify.com/album/2W3r6Hcbp7hQNHtA3VBHU5) | 2:27 | 2022-06-09 | 2022-07-09 |
+| [雪唄 \- yukiuta](https://open.spotify.com/track/6S7rShWxpKfA7jpDfYSDD2) | [Myuk](https://open.spotify.com/artist/7oVNI7cJUA5f1Qvu8vQlq9) | [雪唄 \- yukiuta](https://open.spotify.com/album/5GLKiEjIlp6vIwMLnGZTUk) | 3:43 | 2025-12-23 |  |
 | [雫](https://open.spotify.com/track/2GlZ3RBOFSVKPQrUpCxDCZ) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [雫](https://open.spotify.com/album/5SGGfrQE7GWyszuzISp8Wa) | 4:36 | 2025-02-25 | 2025-03-26 |
 | [雲を恋う](https://open.spotify.com/track/28mPWAyHiXIBnovrBeWwot) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [雲を恋う/落花流水](https://open.spotify.com/album/3HCB9aNa4oUuAm0pvmZdUK) | 3:33 | 2022-10-06 | 2022-10-28 |
 | [雷櫻](https://open.spotify.com/track/321Act4cJD2NncZYONJlZ6) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [9Lana](https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ), [SAKURAmoti](https://open.spotify.com/artist/2raQe3AjMykp6K4Y890owO) | [雷櫻](https://open.spotify.com/album/4PMYkY5UkCQuLSPWnyNIdP) | 3:38 | 2024-01-18 | 2024-04-17 |

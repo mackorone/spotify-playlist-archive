@@ -1,6 +1,6 @@
 {
   "description": "A fun library of country hits to pass on to the next generation!",
-  "num_followers": 350062,
+  "num_followers": 350121,
   "original_name": "Raised on Country",
   "owner": {
     "name": "Spotify",
@@ -571,22 +571,6 @@
     {
       "added_at": "2025-10-08 18:26:31",
       "album": {
-        "name": "Learn To Live",
-        "url": "https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK"
-      },
-      "artists": [
-        {
-          "name": "Darius Rucker",
-          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
-        }
-      ],
-      "duration_ms": 231920,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/5JlH51YDYsGj2dyEJKKjcN"
-    },
-    {
-      "added_at": "2025-10-08 18:26:31",
-      "album": {
         "name": "Waylon & Willie",
         "url": "https://open.spotify.com/album/6GDs0ZZVR2jDV8n4m11KWO"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 157913,
       "name": "Mammas Don't Let Your Babies Grow up to Be Cowboys",
       "url": "https://open.spotify.com/track/7nVQ8mo77KaUvhUQzh4vMy"
+    },
+    {
+      "added_at": "2025-10-08 18:26:31",
+      "album": {
+        "name": "Learn To Live",
+        "url": "https://open.spotify.com/album/4HJ13QK0o292BbCtqww9BK"
+      },
+      "artists": [
+        {
+          "name": "Darius Rucker",
+          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+        }
+      ],
+      "duration_ms": 231920,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/5JlH51YDYsGj2dyEJKKjcN"
     },
     {
       "added_at": "2025-10-08 18:26:31",
@@ -687,22 +687,6 @@
     {
       "added_at": "2025-10-08 18:26:31",
       "album": {
-        "name": "Taylor Swift",
-        "url": "https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 201106,
-      "name": "Our Song",
-      "url": "https://open.spotify.com/track/15DeqWWQB4dcEWzJg15VrN"
-    },
-    {
-      "added_at": "2025-10-08 18:26:31",
-      "album": {
         "name": "Something Special",
         "url": "https://open.spotify.com/album/7HaYFV1KJiWYXgQwKoIwOK"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 170906,
       "name": "The Chair",
       "url": "https://open.spotify.com/track/4sDiJmHNcm0wLTH8ns65va"
+    },
+    {
+      "added_at": "2025-10-08 18:26:31",
+      "album": {
+        "name": "Taylor Swift",
+        "url": "https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 201106,
+      "name": "Our Song",
+      "url": "https://open.spotify.com/track/15DeqWWQB4dcEWzJg15VrN"
     },
     {
       "added_at": "2025-10-08 18:26:31",
@@ -863,22 +863,6 @@
     {
       "added_at": "2025-10-08 18:26:31",
       "album": {
-        "name": "Buy Me a Boat",
-        "url": "https://open.spotify.com/album/7BYmCd8JAOHpIiHIDJwDW0"
-      },
-      "artists": [
-        {
-          "name": "Chris Janson",
-          "url": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
-        }
-      ],
-      "duration_ms": 179077,
-      "name": "Buy Me a Boat",
-      "url": "https://open.spotify.com/track/2WKLUgklz0VDX5bKTZ3eYD"
-    },
-    {
-      "added_at": "2025-10-08 18:26:31",
-      "album": {
         "name": "I Walk the Line (Original Soundtrack Recording)",
         "url": "https://open.spotify.com/album/2k8N8D3YBi9Xc9iQEmTARx"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 176533,
       "name": "I Walk the Line",
       "url": "https://open.spotify.com/track/7hxZF4jETnE5Q75rKQnMjE"
+    },
+    {
+      "added_at": "2025-10-08 18:26:31",
+      "album": {
+        "name": "Buy Me a Boat",
+        "url": "https://open.spotify.com/album/7BYmCd8JAOHpIiHIDJwDW0"
+      },
+      "artists": [
+        {
+          "name": "Chris Janson",
+          "url": "https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9"
+        }
+      ],
+      "duration_ms": 179077,
+      "name": "Buy Me a Boat",
+      "url": "https://open.spotify.com/track/2WKLUgklz0VDX5bKTZ3eYD"
     },
     {
       "added_at": "2025-10-08 18:26:31",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2025-10-08 18:26:31",
       "album": {
-        "name": "I'm Alright",
-        "url": "https://open.spotify.com/album/4UuS4hlOMP5akz21glTQCL"
+        "name": "Everywhere We Go",
+        "url": "https://open.spotify.com/album/67qNNUSHekqSliS7Q1XZj6"
       },
       "artists": [
         {
-          "name": "Jo Dee Messina",
-          "url": "https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3"
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
         }
       ],
-      "duration_ms": 199840,
-      "name": "Bye-Bye",
-      "url": "https://open.spotify.com/track/5FxgRnXBHMM0q4stwqrjjM"
+      "duration_ms": 248066,
+      "name": "She Thinks My Tractor's Sexy",
+      "url": "https://open.spotify.com/track/3QV7NYkrmV0Q0IHdFJw9hO"
     },
     {
       "added_at": "2025-10-08 18:26:31",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2025-10-08 18:26:31",
       "album": {
-        "name": "Everywhere We Go",
-        "url": "https://open.spotify.com/album/67qNNUSHekqSliS7Q1XZj6"
+        "name": "I'm Alright",
+        "url": "https://open.spotify.com/album/4UuS4hlOMP5akz21glTQCL"
       },
       "artists": [
         {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+          "name": "Jo Dee Messina",
+          "url": "https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3"
         }
       ],
-      "duration_ms": 248066,
-      "name": "She Thinks My Tractor's Sexy",
-      "url": "https://open.spotify.com/track/3QV7NYkrmV0Q0IHdFJw9hO"
+      "duration_ms": 199840,
+      "name": "Bye-Bye",
+      "url": "https://open.spotify.com/track/5FxgRnXBHMM0q4stwqrjjM"
     },
     {
       "added_at": "2025-10-08 18:26:31",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2025-10-08 18:26:31",
       "album": {
-        "name": "T-R-O-U-B-L-E",
-        "url": "https://open.spotify.com/album/1D6c3hHvx5NIfbhuX5VL0D"
-      },
-      "artists": [
-        {
-          "name": "Travis Tritt",
-          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
-        }
-      ],
-      "duration_ms": 180160,
-      "name": "T-R-O-U-B-L-E",
-      "url": "https://open.spotify.com/track/5YY64mW5PL5waJKUsIJIQt"
-    },
-    {
-      "added_at": "2025-10-08 18:26:31",
-      "album": {
         "name": "When I Call Your Name",
         "url": "https://open.spotify.com/album/0jFNLoCH4SxUlCX7DwCauK"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 255133,
       "name": "When I Call Your Name",
       "url": "https://open.spotify.com/track/5g12xHasIIOu6rNGQ933qT"
+    },
+    {
+      "added_at": "2025-10-08 18:26:31",
+      "album": {
+        "name": "T-R-O-U-B-L-E",
+        "url": "https://open.spotify.com/album/1D6c3hHvx5NIfbhuX5VL0D"
+      },
+      "artists": [
+        {
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+        }
+      ],
+      "duration_ms": 180160,
+      "name": "T-R-O-U-B-L-E",
+      "url": "https://open.spotify.com/track/5YY64mW5PL5waJKUsIJIQt"
     },
     {
       "added_at": "2025-10-08 18:26:31",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2025-10-08 18:26:31",
       "album": {
-        "name": "The Very Best of Travis Tritt",
-        "url": "https://open.spotify.com/album/5ZJ2KF1mLhoWzFhwnzgLXx"
-      },
-      "artists": [
-        {
-          "name": "Travis Tritt",
-          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
-        }
-      ],
-      "duration_ms": 213706,
-      "name": "Take It Easy - 2006 Remaster",
-      "url": "https://open.spotify.com/track/1UEKaf3j6eXeNbySz761lc"
-    },
-    {
-      "added_at": "2025-10-08 18:26:31",
-      "album": {
         "name": "Now And Then",
         "url": "https://open.spotify.com/album/53ggnni69yCjLQIboZCc3e"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 205733,
       "name": "Next To You, Next To Me",
       "url": "https://open.spotify.com/track/37KWffCdnLyHqvhugCQNM6"
+    },
+    {
+      "added_at": "2025-10-08 18:26:31",
+      "album": {
+        "name": "The Very Best of Travis Tritt",
+        "url": "https://open.spotify.com/album/5ZJ2KF1mLhoWzFhwnzgLXx"
+      },
+      "artists": [
+        {
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+        }
+      ],
+      "duration_ms": 213706,
+      "name": "Take It Easy - 2006 Remaster",
+      "url": "https://open.spotify.com/track/1UEKaf3j6eXeNbySz761lc"
     },
     {
       "added_at": "2025-10-08 18:26:31",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2025-10-08 18:26:31",
       "album": {
+        "name": "Mama Tried/ Pride In What I Am",
+        "url": "https://open.spotify.com/album/7LmhShcQUdQf0vbfa6VUPn"
+      },
+      "artists": [
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        }
+      ],
+      "duration_ms": 134453,
+      "name": "Mama Tried",
+      "url": "https://open.spotify.com/track/6h3YJ05BovN1Pgk145J3r9"
+    },
+    {
+      "added_at": "2025-10-08 18:26:31",
+      "album": {
         "name": "You Do Your Thing",
         "url": "https://open.spotify.com/album/6yITsogKnqqWkEKqODSrDG"
       },
@@ -1555,22 +1571,6 @@
     {
       "added_at": "2025-10-08 18:26:31",
       "album": {
-        "name": "Mama Tried/ Pride In What I Am",
-        "url": "https://open.spotify.com/album/7LmhShcQUdQf0vbfa6VUPn"
-      },
-      "artists": [
-        {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        }
-      ],
-      "duration_ms": 134453,
-      "name": "Mama Tried",
-      "url": "https://open.spotify.com/track/6h3YJ05BovN1Pgk145J3r9"
-    },
-    {
-      "added_at": "2025-10-08 18:26:31",
-      "album": {
         "name": "No Doubt About It",
         "url": "https://open.spotify.com/album/1zSAYkmDy8ILP7aHvvPEON"
       },
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2025-10-08 18:26:31",
       "album": {
-        "name": "Coat Of Many Colors",
-        "url": "https://open.spotify.com/album/17CT6ru3CyDXAi6xVaSUzg"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 186453,
-      "name": "Coat of Many Colors",
-      "url": "https://open.spotify.com/track/1l2Xmg54EUr3TDzNIaCr1z"
-    },
-    {
-      "added_at": "2025-10-08 18:26:31",
-      "album": {
         "name": "Fancy Free",
         "url": "https://open.spotify.com/album/5B089xYxcKyuZOE2B9jj1J"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 225626,
       "name": "Elvira",
       "url": "https://open.spotify.com/track/0mG66FLhO0iZ6XCAGdjpax"
+    },
+    {
+      "added_at": "2025-10-08 18:26:31",
+      "album": {
+        "name": "Coat Of Many Colors",
+        "url": "https://open.spotify.com/album/17CT6ru3CyDXAi6xVaSUzg"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 186453,
+      "name": "Coat of Many Colors",
+      "url": "https://open.spotify.com/track/1l2Xmg54EUr3TDzNIaCr1z"
     }
   ],
   "unique_name": "Raised on Country",

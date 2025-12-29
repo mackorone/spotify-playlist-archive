@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vYju3i0lNX.md) - [plain]
 
 > Mellow jazz to stay focused or unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 998,786 likes - 250 songs - 14 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 998,886 likes - 250 songs - 14 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vYju3i0lNX.md) - [plain]
 | 249 | [Numerous Occasions](https://open.spotify.com/track/7Cmp85HSefyHtULmgajybL) | [Ben Lively](https://open.spotify.com/artist/4v25mHy55qBXJ4WZg3O7UV) | [Numerous Occasions](https://open.spotify.com/album/4Hn6jU3s5yKVffhJnDr6Et) | 3:31 |
 | 250 | [Fragile](https://open.spotify.com/track/4CzDyivmhcakKRALgJ2fxE) | [Amir Patel](https://open.spotify.com/artist/2IwMjlPYSZLq7oH4YN4WFy) | [Fragile](https://open.spotify.com/album/6KdcjyA5ICwb2SnxntwCDS) | 3:25 |
 
-Snapshot ID: `AAAAAPuEiuuYhGPmo8fd/m5pnO6mUrQS`
+Snapshot ID: `AAAAAItXA+giTWG+NQfZNXl0R2c8WpDB`

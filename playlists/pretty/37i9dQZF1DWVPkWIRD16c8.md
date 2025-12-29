@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 
 > Ranging from your new favorites to familiar classics, let these songs bless you as you're on the road!
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,027 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,100 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 | 24 | [Black Sheep](https://open.spotify.com/track/42AQxbRCvwfGg9L0oRDUR5) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d) | [Black Sheep](https://open.spotify.com/album/1HXCaQmQea8GL5FXUze8oI) | 3:53 |
 | 25 | [Years and Years](https://open.spotify.com/track/0xeJuM5IU0OvtGXrESl6GO) | [Northwest Stories](https://open.spotify.com/artist/5w1g5MrRpY3zWraNx9HMXS) | [Years and Years](https://open.spotify.com/album/7hv5KWjziKJ9RDdJyq6Mlm) | 4:00 |
 | 26 | [No Love For A Sinner](https://open.spotify.com/track/63HWbJOOhgF082RwgEghew) | [Shaya Zamora](https://open.spotify.com/artist/4gmgH3IgZoetXRskbdI02q) | [Eulogize](https://open.spotify.com/album/0KVshV8BH234oVUlRDVaaE) | 3:30 |
-| 27 | [I'll Fly Away \(feat\. Benjamin William Hastings\)](https://open.spotify.com/track/2wyDAbsLjAysWOWr6q5NGB) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2), [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [I'll Fly Away \(feat\. Benjamin William Hastings\)](https://open.spotify.com/album/1G1dXoBVTVsHi8ckSxwl0z) | 3:00 |
-| 28 | [Way back](https://open.spotify.com/track/4vmfvFr3BOExcNIqj5KYl9) | [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [Way back](https://open.spotify.com/album/4cPUhTixpDCnoTsxQjDU8O) | 2:39 |
+| 27 | [Way back](https://open.spotify.com/track/4vmfvFr3BOExcNIqj5KYl9) | [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [Way back](https://open.spotify.com/album/4cPUhTixpDCnoTsxQjDU8O) | 2:39 |
+| 28 | [I'll Fly Away \(feat\. Benjamin William Hastings\)](https://open.spotify.com/track/2wyDAbsLjAysWOWr6q5NGB) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2), [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm) | [I'll Fly Away \(feat\. Benjamin William Hastings\)](https://open.spotify.com/album/1G1dXoBVTVsHi8ckSxwl0z) | 3:00 |
 | 29 | [That's The Thing About Praise](https://open.spotify.com/track/3jWIXPUA6KAHoatVUAaxBv) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm), [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Benjamin William Hastings](https://open.spotify.com/album/1K9dbdsz6jagqTAkrHHSmk) | 3:57 |
 | 30 | [I Got You](https://open.spotify.com/track/0jbludNUb0EqbuTsnRpRmE) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [I Got You](https://open.spotify.com/album/70oL8RgGaLCkwEyMXBEmGu) | 3:04 |
 | 31 | [Heaven On My Mind](https://open.spotify.com/track/00hBntRNlxbvmUa7VX7Woq) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Heaven On My Mind](https://open.spotify.com/album/3QrtYSiDxk8mmKmEy6xQfR) | 3:23 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 | 41 | [a light in me](https://open.spotify.com/track/1LMiE4tPJ49stB7AsHyWZ4) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [a light in me](https://open.spotify.com/album/3tEVEN59Yr9xHBjNNIt5YU) | 3:11 |
 | 42 | [Shackles \(Praise You\)](https://open.spotify.com/track/7BS27vWbRTmCkSEpeFZRRy) | [Coby James](https://open.spotify.com/artist/3DFvLbBG5R981eicF3i31J), [Evvie McKinney](https://open.spotify.com/artist/7G7JWOsGhDMily2HtfzcIZ) | [Shackles \(Praise You\)](https://open.spotify.com/album/3MV9tnmk8JZGXMhNg5rx7m) | 2:38 |
 | 43 | [OOWEE](https://open.spotify.com/track/2S8j7DJfqYEDG7sv74TA4u) | [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD) | [OOWEE](https://open.spotify.com/album/7GOJOlZImisCOmvOTyxLC6) | 2:28 |
-| 44 | [Walk Through Fire](https://open.spotify.com/track/5vF6qbL6WwKGSGxdZiLp6c) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d) | [Walk Through Fire](https://open.spotify.com/album/0eC41NajaOtRYUd1Fezu4t) | 3:13 |
-| 45 | [Can't Lose](https://open.spotify.com/track/2PjC4t9Kp4hIJ2h9DkL5Dp) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Everything Good](https://open.spotify.com/album/0WmDtpLTNOAW1PANlncdBE) | 3:22 |
+| 44 | [Can't Lose](https://open.spotify.com/track/2PjC4t9Kp4hIJ2h9DkL5Dp) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Everything Good](https://open.spotify.com/album/0WmDtpLTNOAW1PANlncdBE) | 3:22 |
+| 45 | [Walk Through Fire](https://open.spotify.com/track/5vF6qbL6WwKGSGxdZiLp6c) | [Ben Fuller](https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d) | [Walk Through Fire](https://open.spotify.com/album/0eC41NajaOtRYUd1Fezu4t) | 3:13 |
 | 46 | [dopamine](https://open.spotify.com/track/1MlwlvguOnqk3vZCAWe168) | [Strings & Heart](https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd) | [dopamine](https://open.spotify.com/album/7s4KNsNzQuHuZLYneTMUEE) | 2:02 |
 | 47 | [So Good](https://open.spotify.com/track/6S5InY8HVnvFYKgeOrnKN0) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [Impossible](https://open.spotify.com/album/3j0Q2UsMetCz0GMPXnr4ai) | 4:15 |
 | 48 | [i still have you](https://open.spotify.com/track/1WrQq6Pnr7QGmXdd51EYu6) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [trustfall](https://open.spotify.com/album/6HGmAgrZHojZ3Urz9OTEyi) | 3:17 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 | 96 | [YOUR WAY](https://open.spotify.com/track/6MmU56aIG5mW3qwvE45rXl) | [Kylie Odetta](https://open.spotify.com/artist/2meUQKRm9yos5hbsWl9TRq) | [YOUR WAY](https://open.spotify.com/album/3gmSMDHYNmLidMIFAChMKH) | 3:50 |
 | 97 | [Give It All](https://open.spotify.com/track/2IEPGJGDOYz8aOaaXZCbUT) | [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1) | [Give It All](https://open.spotify.com/album/01KaHkRWPyHbu9IyJcseZc) | 2:54 |
 | 98 | [Clouds](https://open.spotify.com/track/1MGmRawD6mgoAm3EYR0qBP) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [Clouds](https://open.spotify.com/album/7jQrwGUrql7bigGQtSrEuH) | 2:02 |
-| 99 | [Oceans \(Where Feet May Fail\) \- Radio Version](https://open.spotify.com/track/3CJZVGg64NKFXU4wYbKzXs) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM) | [Oceans](https://open.spotify.com/album/3WvpV7qKTFAWnQDUwfIi0v) | 4:09 |
-| 100 | [Better Things](https://open.spotify.com/track/6BNoldCHXY2BkUvkdtHMwG) | [Reyne L.](https://open.spotify.com/artist/3HpGGXW3yN7H6t67UweHLe), [REYNE](https://open.spotify.com/artist/5Zb2vIUyfZbX15otYc072P) | [Better Things](https://open.spotify.com/album/6EzwjnweQ1MsVCg1OBSURX) | 2:16 |
+| 99 | [Better Things](https://open.spotify.com/track/6BNoldCHXY2BkUvkdtHMwG) | [Reyne L.](https://open.spotify.com/artist/3HpGGXW3yN7H6t67UweHLe), [REYNE](https://open.spotify.com/artist/5Zb2vIUyfZbX15otYc072P) | [Better Things](https://open.spotify.com/album/6EzwjnweQ1MsVCg1OBSURX) | 2:16 |
+| 100 | [Oceans \(Where Feet May Fail\) \- Radio Version](https://open.spotify.com/track/3CJZVGg64NKFXU4wYbKzXs) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM) | [Oceans](https://open.spotify.com/album/3WvpV7qKTFAWnQDUwfIi0v) | 4:09 |
 
 Snapshot ID: `AAAAADRR2i8JrJjfJIgkzeekJuyULe4f`

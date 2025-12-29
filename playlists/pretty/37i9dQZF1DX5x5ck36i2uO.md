@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 
 > 부드럽고 고급스러운 재즈향이 가미된 힙합음악을 즐겨보세요\. \(Enjoy hip\-hop music with a soft, luxurious jazz flavor.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,836 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,837 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 | 18 | [Where It All Started Remix \(Feat\. Verbal Jint, Beenzino\)](https://open.spotify.com/track/6baSXVPXg8OUoXnRt2tGrp) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [Where It All Started Remix](https://open.spotify.com/album/2toAZkTdVUj5LdSdUY9NF2) | 3:43 |
 | 19 | [City Life](https://open.spotify.com/track/3yp1VIzV5AjvvzzrgJ18SM) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [ROOM SERVICE](https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0) | 3:15 |
 | 20 | [Champagne](https://open.spotify.com/track/7mxRhBvxm7zjMzSsO24kIq) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw) | [Epik High Is Here 下 \(Part 2\)](https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh) | 4:06 |
-| 21 | [I Get Lifted X Beenzino](https://open.spotify.com/track/0bf460G9gK1oku2Hsla0SB) | [PEEJAY](https://open.spotify.com/artist/2cIhUulox4Ad0eXDJcWixY) | [WALKIN', Vol\. 1](https://open.spotify.com/album/5Jg3IOAdcdFAnSekbum05E) | 4:17 |
-| 22 | [i \(Feat\. Jung Yup\) \(Prod\. BOYCOLD\)](https://open.spotify.com/track/6lANlfKORDVvUtn7TAODY3) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [Jungyup](https://open.spotify.com/artist/4WMs26vY2z4DWUmWnDVaYP) | [Black & White Film](https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa) | 2:55 |
+| 21 | [i \(Feat\. Jung Yup\) \(Prod\. BOYCOLD\)](https://open.spotify.com/track/6lANlfKORDVvUtn7TAODY3) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [Jungyup](https://open.spotify.com/artist/4WMs26vY2z4DWUmWnDVaYP) | [Black & White Film](https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa) | 2:55 |
+| 22 | [I Get Lifted X Beenzino](https://open.spotify.com/track/0bf460G9gK1oku2Hsla0SB) | [PEEJAY](https://open.spotify.com/artist/2cIhUulox4Ad0eXDJcWixY) | [WALKIN', Vol\. 1](https://open.spotify.com/album/5Jg3IOAdcdFAnSekbum05E) | 4:17 |
 | 23 | [YESMAN \(feat\. Roh Yun Ha\)](https://open.spotify.com/track/31Mq4iNnukk3wngb6ePLgD) | [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz), [Roh Yun Ha](https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy) | [HESITATING](https://open.spotify.com/album/5pk3OUqtuSdIJw6fANGCMz) | 3:09 |
 | 24 | [羊皮先生](https://open.spotify.com/track/3cSxRgG3Wz84Aeigw3Hu6x) | [YELLOW黃宣](https://open.spotify.com/artist/6iUs0Aijnu60VAAf8Aj2YM) | [浮世擊](https://open.spotify.com/album/3vS0CFZxM60af5Y195yu2J) | 3:32 |
 | 25 | [Bad](https://open.spotify.com/track/2T4rkceZUut5d5boEM1iEP) | [LEE SUREEN](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [HAIFHAIF](https://open.spotify.com/artist/5r1cOycfowIRNcVOfRn0AR) | [Net,Trap,Launcher,Capture](https://open.spotify.com/album/6bjhvZBQx8gsVTIHolZGjn) | 2:27 |

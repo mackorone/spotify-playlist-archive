@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: PayGotti
 
-[Spotify](https://open.spotify.com/user/spotify) - 756,472 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 756,468 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 99 | [TAKE IT HIGH](https://open.spotify.com/track/6u2IPsy2UY0AKYv7ONswuV) | [RJMrLA](https://open.spotify.com/artist/6kQWPGBItT0oMCHZy3M9DN), [Lambo4oe](https://open.spotify.com/artist/4UrIphY7uGLwD0rRd6NIi9) | [TAKE IT HIGH](https://open.spotify.com/album/2LhBn0qxB0RSYkD5Nok5uT) | 2:59 |
 | 100 | [Leanin](https://open.spotify.com/track/6iPo21Q3Yw3k2kWuURTNGM) | [Dom Kennedy](https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt) | [Class of 95](https://open.spotify.com/album/52xa6w4IdZ1rq5MklThOUO) | 3:12 |
 
-Snapshot ID: `AAAAAMAfmyrmwnXTVOCH6qUrwfDFA00U`
+Snapshot ID: `AAAAAJdIS1g5GUl1AH/1IKWxcZKFXcgu`

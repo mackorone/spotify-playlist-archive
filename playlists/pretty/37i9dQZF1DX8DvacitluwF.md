@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 
 > The best in South African and international R&B\. Cover: Sasha Keable
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,665 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,666 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 | 23 | [Heart Of A Woman](https://open.spotify.com/track/2oVVaVY0LkzwAYYcyzon6Z) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Heart Of A Woman](https://open.spotify.com/album/2PluIFWJrbEgClMLJoFWzh) | 2:51 |
 | 24 | [Love](https://open.spotify.com/track/4ACbff3fw2FkJ0xtJWilck) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [No Sign of Weakness](https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf) | 2:56 |
 | 25 | [Blame U](https://open.spotify.com/track/7lNFaTHV5IH8xaSXPqllOn) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Lustropolis](https://open.spotify.com/album/6fxMeTRs7F0zyooUfR9YSa) | 2:49 |
-| 26 | [Aweh \[Remix\] \(feat\. Cassper Nyovest\)](https://open.spotify.com/track/7sR4V3QuvyZS8jLzbhUpM2) | [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88), [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP) | [Aweh \[Remix\] \(feat\. Cassper Nyovest\)](https://open.spotify.com/album/5aQWOuuzkvcemieOiW1t7H) | 3:27 |
-| 27 | [Free Fall \(feat\. J\. Cole\)](https://open.spotify.com/track/3cuUZnjDwk4cUJCFinYbAC) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Born in the Wild](https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p) | 3:12 |
+| 26 | [Free Fall \(feat\. J\. Cole\)](https://open.spotify.com/track/3cuUZnjDwk4cUJCFinYbAC) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Born in the Wild](https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p) | 3:12 |
+| 27 | [Aweh \[Remix\] \(feat\. Cassper Nyovest\)](https://open.spotify.com/track/7sR4V3QuvyZS8jLzbhUpM2) | [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88), [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP) | [Aweh \[Remix\] \(feat\. Cassper Nyovest\)](https://open.spotify.com/album/5aQWOuuzkvcemieOiW1t7H) | 3:27 |
 | 28 | [Give Me A Reason \(with Bryson Tiller\)](https://open.spotify.com/track/7uHapC7IlHVLcC3TxVEn7I) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Finally Over It](https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx) | 2:48 |
 | 29 | [It Depends \(The Remix\) \(feat\. Bryson Tiller & USHER\)](https://open.spotify.com/track/3ecZ2CLwfGbj4wkPoFkMFB) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [It Depends \(The Remix\) \(feat\. Bryson Tiller & USHER\)](https://open.spotify.com/album/3RA2fvK0RlvMULmVdG63z7) | 4:54 |
 | 30 | [Have A Baby \(With Me\)](https://open.spotify.com/track/1V0rl8HIvcfn1ztxPuYMFc) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Have A Baby \(With Me\)](https://open.spotify.com/album/0FAHYQcSzpQ41vTTyRHUtm) | 3:45 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 | 42 | [Head in a Jar](https://open.spotify.com/track/0y56rCLTldeTurCf3LugTZ) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Head in a Jar](https://open.spotify.com/album/75JRyqkCNN6DQRdT5et7I3) | 3:16 |
 | 43 | [DYNAMITE](https://open.spotify.com/track/7axVhEmNFXW0Y3Wkb9mUDX) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [WWP](https://open.spotify.com/album/0QM9iRrmunPt34bg8dKy5Q) | 2:57 |
 | 44 | [SEE RIGHT THROUGH ME \(feat\. Kehlani\)](https://open.spotify.com/track/60Y9PpMLjqBnMIAuavkQxn) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [CONCUBANIA](https://open.spotify.com/album/74AFDI4K9GYRixO4areLml) | 4:16 |
-| 45 | [Miss Hot July](https://open.spotify.com/track/5G0D3brLRJ0dJLceAZwlfD) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Heat The Streets](https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB) | 3:21 |
-| 46 | [Venting](https://open.spotify.com/track/7uXMqHAf0bQINryPJ9jsQ4) | [OSA](https://open.spotify.com/artist/13wBNPUEHHtM5rjD9u6BYW) | [Venting](https://open.spotify.com/album/0ayCbGIRjdC1f84McDwNHE) | 3:26 |
+| 45 | [Venting](https://open.spotify.com/track/7uXMqHAf0bQINryPJ9jsQ4) | [OSA](https://open.spotify.com/artist/13wBNPUEHHtM5rjD9u6BYW) | [Venting](https://open.spotify.com/album/0ayCbGIRjdC1f84McDwNHE) | 3:26 |
+| 46 | [Miss Hot July](https://open.spotify.com/track/5G0D3brLRJ0dJLceAZwlfD) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Heat The Streets](https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB) | 3:21 |
 | 47 | [act right](https://open.spotify.com/track/1z0gNe6DiusPKN55RBAvRO) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [act right](https://open.spotify.com/album/6aqhCiscWmMkL7YYS0Cbzz) | 2:53 |
 | 48 | [On Sight](https://open.spotify.com/track/0Tdpdo2ZD1CefcFTTbm0xx) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Why Not More?](https://open.spotify.com/album/3Q1P1nILtihXq0QbwmzQyl) | 4:27 |
 | 49 | [Aweh](https://open.spotify.com/track/66prH4Oa24RKnJbMR1iXzY) | [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88) | [You, Me & The 90's](https://open.spotify.com/album/1q5yRbRx2vbUW1e2yqw5Kd) | 3:04 |

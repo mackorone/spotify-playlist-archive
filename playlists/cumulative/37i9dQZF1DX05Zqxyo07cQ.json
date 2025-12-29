@@ -8901,6 +8901,24 @@
     },
     {
       "album": {
+        "name": "Mid Air",
+        "url": "https://open.spotify.com/album/5F7yS3uaFcoHTzxJ5azc5M"
+      },
+      "artists": [
+        {
+          "name": "Eirwyn North",
+          "url": "https://open.spotify.com/artist/29zgjcMG5XRMfqrwBenRta"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Mid Air",
+      "url": "https://open.spotify.com/track/0o41kWTdmKjuvRlbyxykyI"
+    },
+    {
+      "album": {
         "name": "Midnight Moon",
         "url": "https://open.spotify.com/album/7tk9GZNLTvfKLEFr1m0wWK"
       },
@@ -8912,7 +8930,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 106178,
       "name": "Midnight Moon",
       "url": "https://open.spotify.com/track/5zVbLUQdjjBcbSVeYGsugB"

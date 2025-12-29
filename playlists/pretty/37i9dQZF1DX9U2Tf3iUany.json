@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/stevenvictor/\">Steven Victor</a>",
-  "num_followers": 59066,
+  "num_followers": 59070,
   "original_name": "Steven Victor's Taste",
   "owner": {
     "name": "Spotify",
@@ -395,38 +395,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "On The Radio: Greatest Hits Volumes I & II",
-        "url": "https://open.spotify.com/album/1DeQ0MqQiY2RpMSMFEsILA"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 241506,
-      "name": "On The Radio",
-      "url": "https://open.spotify.com/track/41v23mPw4Se92JKUGvnkmW"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "The College Dropout",
-        "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 278893,
-      "name": "Family Business",
-      "url": "https://open.spotify.com/track/5DBmXF7QO43Cuy9yqva116"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Meet The Woo 2",
         "url": "https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5"
       },
@@ -459,6 +427,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "On The Radio: Greatest Hits Volumes I & II",
+        "url": "https://open.spotify.com/album/1DeQ0MqQiY2RpMSMFEsILA"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 241506,
+      "name": "On The Radio",
+      "url": "https://open.spotify.com/track/41v23mPw4Se92JKUGvnkmW"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Invisible Touch (2007 Remaster)",
         "url": "https://open.spotify.com/album/632b0oXuFpstA4DO2cUKdG"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 285666,
       "name": "Land of Confusion - 2007 Remaster",
       "url": "https://open.spotify.com/track/6twIBPybEvGydyNzNz89FT"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "The College Dropout",
+        "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 278893,
+      "name": "Family Business",
+      "url": "https://open.spotify.com/track/5DBmXF7QO43Cuy9yqva116"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -527,18 +527,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "The Life Of Pablo",
-        "url": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1"
+        "name": "Meet The Woo",
+        "url": "https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf"
       },
       "artists": [
         {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
         }
       ],
-      "duration_ms": 181573,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/3nAq2hCr1oWsIU54tS98pL"
+      "duration_ms": 118800,
+      "name": "Hawk Em",
+      "url": "https://open.spotify.com/track/2ZRdQMMKtmPLdYp9aP5cK5"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -555,6 +555,22 @@
       "duration_ms": 246360,
       "name": "Perkys Calling",
       "url": "https://open.spotify.com/track/05nB8pRwwbKA2fsKK1nOyE"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "The Life Of Pablo",
+        "url": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 181573,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/3nAq2hCr1oWsIU54tS98pL"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -579,22 +595,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Meet The Woo",
-        "url": "https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        }
-      ],
-      "duration_ms": 118800,
-      "name": "Hawk Em",
-      "url": "https://open.spotify.com/track/2ZRdQMMKtmPLdYp9aP5cK5"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Double Up",
         "url": "https://open.spotify.com/album/0DTOpcrISuUBmpHknsAJlW"
       },
@@ -607,30 +607,6 @@
       "duration_ms": 242506,
       "name": "All I Ever Wanted",
       "url": "https://open.spotify.com/track/4TqAoRSW8kOKfO4y5R0GLy"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "The College Dropout",
-        "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "GLC",
-          "url": "https://open.spotify.com/artist/2hZ6jVi1cao5VlJHAEPzU7"
-        },
-        {
-          "name": "Consequence",
-          "url": "https://open.spotify.com/artist/5KkgZ31b9eDwkvo9oMIrSm"
-        }
-      ],
-      "duration_ms": 324226,
-      "name": "Spaceship",
-      "url": "https://open.spotify.com/track/1ko2NuvWlQdxtNRc8QQzmT"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -667,6 +643,26 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Meet The Woo 2",
+        "url": "https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "duration_ms": 160560,
+      "name": "Mannequin (feat. Lil Tjay)",
+      "url": "https://open.spotify.com/track/5eJpwQyirY5EEdNadHKRAM"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Jericho",
         "url": "https://open.spotify.com/album/0RLw5OMSYJ9FNUJvBTfHzU"
       },
@@ -699,6 +695,30 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "The College Dropout",
+        "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "GLC",
+          "url": "https://open.spotify.com/artist/2hZ6jVi1cao5VlJHAEPzU7"
+        },
+        {
+          "name": "Consequence",
+          "url": "https://open.spotify.com/artist/5KkgZ31b9eDwkvo9oMIrSm"
+        }
+      ],
+      "duration_ms": 324226,
+      "name": "Spaceship",
+      "url": "https://open.spotify.com/track/1ko2NuvWlQdxtNRc8QQzmT"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Purple Reign",
         "url": "https://open.spotify.com/album/76G83osdQ4whezYjnYwwq2"
       },
@@ -711,22 +731,6 @@
       "duration_ms": 241800,
       "name": "Purple Reign",
       "url": "https://open.spotify.com/track/3E2i7xoT542yQ59bP2vBbF"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "DAYTONA",
-        "url": "https://open.spotify.com/album/07bIdDDe3I3hhWpxU6tuBp"
-      },
-      "artists": [
-        {
-          "name": "Pusha T",
-          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
-        }
-      ],
-      "duration_ms": 166120,
-      "name": "The Games We Play",
-      "url": "https://open.spotify.com/track/7iEoaTyBCqLaAwJnOP1BTn"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -747,22 +751,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Meet The Woo 2",
-        "url": "https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5"
+        "name": "Meet The Woo",
+        "url": "https://open.spotify.com/album/6d1vGZsr6Uy3h9IigBpPAf"
       },
       "artists": [
         {
           "name": "Pop Smoke",
           "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        },
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
         }
       ],
-      "duration_ms": 160560,
-      "name": "Mannequin (feat. Lil Tjay)",
-      "url": "https://open.spotify.com/track/5eJpwQyirY5EEdNadHKRAM"
+      "duration_ms": 241786,
+      "name": "Scenario",
+      "url": "https://open.spotify.com/track/2T1GbU75iGVtOhNUbZuNqk"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -791,6 +791,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "DAYTONA",
+        "url": "https://open.spotify.com/album/07bIdDDe3I3hhWpxU6tuBp"
+      },
+      "artists": [
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        }
+      ],
+      "duration_ms": 166120,
+      "name": "The Games We Play",
+      "url": "https://open.spotify.com/track/7iEoaTyBCqLaAwJnOP1BTn"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Purple Haze",
         "url": "https://open.spotify.com/album/4k6ci0PJUSV8CeQDTBfm44"
       },
@@ -815,22 +831,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Come Home The Kids Miss You",
-        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 138781,
-      "name": "I Got A Shot",
-      "url": "https://open.spotify.com/track/5hNsSrWcClSp0tg4Jdd4UY"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "So Much Fun",
         "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
       },
@@ -847,18 +847,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Moondance (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7diHYi0CglGJekoM3KaWBK"
+        "name": "Come Home The Kids Miss You",
+        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
       },
       "artists": [
         {
-          "name": "Van Morrison",
-          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         }
       ],
-      "duration_ms": 300800,
-      "name": "Caravan - 2013 Remaster",
-      "url": "https://open.spotify.com/track/1US01PIcb3RFVrcN8mO8CS"
+      "duration_ms": 138781,
+      "name": "I Got A Shot",
+      "url": "https://open.spotify.com/track/5hNsSrWcClSp0tg4Jdd4UY"
     }
   ],
   "unique_name": "Steven Victor's Taste",

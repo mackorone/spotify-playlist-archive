@@ -1,12 +1,12 @@
 {
   "description": "This is Dolly Parton. The essential tracks, all in one playlist.",
-  "num_followers": 254514,
+  "num_followers": 254525,
   "original_name": "This Is Dolly Parton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU3QAAAAAADop/UaK2eh7imdHAlW/p6U",
+  "snapshot_id": "aU8hgAAAAACQTzMFih7IU7d1hdscTdF1",
   "tracks": [
     {
       "added_at": null,
@@ -355,6 +355,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "You Can't Make Old Friends",
+        "url": "https://open.spotify.com/album/1cAujZxQJDEhqXK0EBBNtr"
+      },
+      "artists": [
+        {
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 242680,
+      "name": "You Can't Make Old Friends - Duet with Dolly Parton",
+      "url": "https://open.spotify.com/track/48Xp0fGOluD1NJmHOeYFg5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Complete Trio Collection (Deluxe Edition)",
         "url": "https://open.spotify.com/album/07JRXyOwo8fk5mKuBwpJMa"
       },
@@ -375,26 +395,6 @@
       "duration_ms": 139706,
       "name": "Mr. Sandman",
       "url": "https://open.spotify.com/track/6QGsG9uBrJi1EiYGFPOWlM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You Can't Make Old Friends",
-        "url": "https://open.spotify.com/album/1cAujZxQJDEhqXK0EBBNtr"
-      },
-      "artists": [
-        {
-          "name": "Kenny Rogers",
-          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 242680,
-      "name": "You Can't Make Old Friends - Duet with Dolly Parton",
-      "url": "https://open.spotify.com/track/48Xp0fGOluD1NJmHOeYFg5"
     },
     {
       "added_at": null,
@@ -543,6 +543,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dolly Dolly Dolly",
+        "url": "https://open.spotify.com/album/1zdDoTRBMsZNywgmlin186"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 203026,
+      "name": "Old Flames Can't Hold a Candle to You",
+      "url": "https://open.spotify.com/track/0u1mi4pYlXkx0rxgCbtyqv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Treasures",
         "url": "https://open.spotify.com/album/3tDqwmruXhYiBBVJuoQcGb"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 276133,
       "name": "Just When I Needed You Most",
       "url": "https://open.spotify.com/track/0UKSP1rPdm2DybI4vHk6Iw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dolly Dolly Dolly",
-        "url": "https://open.spotify.com/album/1zdDoTRBMsZNywgmlin186"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 203026,
-      "name": "Old Flames Can't Hold a Candle to You",
-      "url": "https://open.spotify.com/track/0u1mi4pYlXkx0rxgCbtyqv"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In the Good Old Days (When Times Were Bad)",
-        "url": "https://open.spotify.com/album/3UFL86RcSqzBcCLcaJUBRl"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 195556,
-      "name": "Harper Valley PTA",
-      "url": "https://open.spotify.com/track/43vto7McP8RTBjhOK0cyFa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Essential Dolly Parton",
         "url": "https://open.spotify.com/album/57T5WXyeDI1wJzvoGva1GS"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 180906,
       "name": "9 to 5",
       "url": "https://open.spotify.com/track/7ob0221dnx0OOGVSzNZgXO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In the Good Old Days (When Times Were Bad)",
+        "url": "https://open.spotify.com/album/3UFL86RcSqzBcCLcaJUBRl"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 195556,
+      "name": "Harper Valley PTA",
+      "url": "https://open.spotify.com/track/43vto7McP8RTBjhOK0cyFa"
     },
     {
       "added_at": null,

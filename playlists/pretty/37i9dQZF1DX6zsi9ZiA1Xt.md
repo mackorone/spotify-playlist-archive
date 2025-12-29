@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6zsi9ZiA1Xt.md) - [plain]
 
 > Con un poco de buena salsa todo queda limpio y reluciente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,362 likes - 50 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,376 likes - 50 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6zsi9ZiA1Xt.md) - [plain]
 | 28 | [Te conozco bacalao](https://open.spotify.com/track/3UuFzofATsKBzRUggfWigb) | [El Combo Belga](https://open.spotify.com/artist/69vFORDMYL8ZfBGHtAfDve) | [Rompiendo clave](https://open.spotify.com/album/0zzAXAwmZXzeWqrbHiyZ8v) | 4:24 |
 | 29 | [Fuego Y Pa' Lante](https://open.spotify.com/track/5HpLBkDWIhJpehZMNRSKi5) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Latino Con Soul](https://open.spotify.com/album/5BMrkLARvj0c5GkY9aGl8V) | 4:53 |
 | 30 | [Patillero](https://open.spotify.com/track/2oaGtTnoM8jL8Pxouf6GJ1) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Wilson "Saoko" Manyoma](https://open.spotify.com/artist/43zrpWYGTWyHmRAmhE07u0) | [Fruko el Patillero](https://open.spotify.com/album/2XfXsROaksq5IlUCRn0XOR) | 3:27 |
-| 31 | [Yamulemau](https://open.spotify.com/track/3wyKZNE5qs4Etunb0dFrLw) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [Colección Éxitos Joe Arroyo \(Vol\. 2\)](https://open.spotify.com/album/0qGM0WX4GuaRaHWxzi73tX) | 4:28 |
-| 32 | [La Receta](https://open.spotify.com/track/0IPkxdfbTM1m9DM4B6mkIW) | [Johnny Polanco Y Su Conjunto Amistad](https://open.spotify.com/artist/11fm2zDVUIc5c2Y2H2qTle) | [L.A\. Amistad](https://open.spotify.com/album/0BlvFpY2yHLFPaNjJ2oGV3) | 5:03 |
+| 31 | [La Receta](https://open.spotify.com/track/0IPkxdfbTM1m9DM4B6mkIW) | [Johnny Polanco Y Su Conjunto Amistad](https://open.spotify.com/artist/11fm2zDVUIc5c2Y2H2qTle) | [L.A\. Amistad](https://open.spotify.com/album/0BlvFpY2yHLFPaNjJ2oGV3) | 5:03 |
+| 32 | [Yamulemau](https://open.spotify.com/track/3wyKZNE5qs4Etunb0dFrLw) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [Colección Éxitos Joe Arroyo \(Vol\. 2\)](https://open.spotify.com/album/0qGM0WX4GuaRaHWxzi73tX) | 4:28 |
 | 33 | [¿Qué Quiere la Niña?](https://open.spotify.com/track/2NKQcrJalpRqHRJ8e20qxV) | [Kako y Totico](https://open.spotify.com/artist/0vlcfJoJQgepEhvhNSMg0w) | [Siguen Pa' Lante y Pa' Lante](https://open.spotify.com/album/0ggUsuE3sanuha2Ju1DTvm) | 3:53 |
 | 34 | [El Yerbero Del Barrio](https://open.spotify.com/track/0u8lmRThcVenfXivdewmFM) | [Roberto y Su Nuevo Montuno](https://open.spotify.com/artist/3IQ3oRmLQtb71i2TcO5Sxv) | [The Best](https://open.spotify.com/album/7sHJqlDvN5uK8WgcKlkw3e) | 4:54 |
 | 35 | [Candela](https://open.spotify.com/track/4BxlXBQAOeS7Ibt3mjaz0q) | [La Conquistadora](https://open.spotify.com/artist/4vZku8ZYAWFXuHgWoYxxp2) | [Salsa de Barrio, Vol\. 1](https://open.spotify.com/album/0DvKoiscNjaxAyDURcVzOD) | 5:07 |

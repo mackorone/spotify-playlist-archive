@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO361paU.md) - [plain]
 
 > This is Lenny Kravitz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,252 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,295 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO361paU.md) - [plain]
 | 49 | [More Than Anything In This World](https://open.spotify.com/track/1UWyfK84h7uPHMEPf8qba2) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Mama Said](https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks) | 3:28 |
 | 50 | [Little Girl's Eyes](https://open.spotify.com/track/3JvKhMWM71THA9WIX6x8o6) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [5](https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN) | 7:44 |
 
-Snapshot ID: `aU3QAAAAAADTdqTiL6jdRO0HOyZfYr0B`
+Snapshot ID: `aU8hgAAAAABBaltGUEty3Ulmw8rrAXmW`

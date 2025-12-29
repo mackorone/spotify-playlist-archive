@@ -4,7 +4,7 @@
 
 > Welcome to the oil business\. Listen to the music from Landman, now streaming on Paramount+.
 
-93 songs - 5 hr 38 min
+99 songs - 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Blue Collar](https://open.spotify.com/track/4bZdDIc6Lvpw6rDvK3feZD) | [Drayton Farley](https://open.spotify.com/artist/05o2ENqv0CV8aD6BWKEaBD) | [A Hard up Life](https://open.spotify.com/album/4hxny6RxCa9kJjdXkpXlPi) | 2:19 | 2025-01-05 |  |
 | [Boomtown](https://open.spotify.com/track/30Qd2fAamvGXHhoZKAgObe) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [No Vacancy](https://open.spotify.com/album/21fAzUzwhkiSEHCzhtSC2x) | 3:20 | 2024-11-17 |  |
 | [Buona Sera \- Remastered 1991](https://open.spotify.com/track/0DXm5n7SBxCED9ssTvrx2J) | [Louis Prima](https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW) | [Capitol Collectors Series](https://open.spotify.com/album/62NEZstQICTR73eBvw6ZwG) | 3:07 | 2025-11-16 |  |
+| [Burn The Ground](https://open.spotify.com/track/1cnplHgTYMWsAmnR93N2Oz) | [Mason Lively](https://open.spotify.com/artist/2X5y89rFBfI4uWeEm0XMAs) | [Burn The Ground](https://open.spotify.com/album/5vEmZcMq1NXyNRHr7aMB8X) | 3:54 | 2025-12-28 |  |
 | [Change The Game](https://open.spotify.com/track/4RTLkBELy9UNoPeOVmjITc) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Change the Game](https://open.spotify.com/album/4Fjn8d1BEOZhlDIoUyZo8K) | 3:28 | 2024-12-29 |  |
 | [Cheers to Disagree](https://open.spotify.com/track/1V4jv3fGY1oMrXBkb9uNlo) | [Hunter Hicks](https://open.spotify.com/artist/6BEOyviLtjXnOGYdBn0ddd) | [Here’s to You](https://open.spotify.com/album/7BguGaWcG1jelJAKPP7joi) | 4:04 | 2025-11-23 |  |
 | [cowboy friends](https://open.spotify.com/track/3XeCnjiyQkjKSNQtTDOidA) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [hungover](https://open.spotify.com/album/3Fzx4iNVKLcCo7x1yP5q9N) | 2:58 | 2025-11-16 |  |
@@ -33,6 +34,7 @@
 | [Devil's Den](https://open.spotify.com/track/6PV267aIcBwTtpKUklyD3B) | [Clint Black](https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt) | [Devil's Den](https://open.spotify.com/album/6tNyTApcRFDvdYXW8E8chd) | 3:59 | 2025-09-26 |  |
 | [Do It To Myself](https://open.spotify.com/track/4Occbu4aDSZaTqroDgoVXP) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [These Days](https://open.spotify.com/album/5ahjwi58RobjdSbthDocHd) | 2:50 | 2025-11-30 |  |
 | [Do Ya](https://open.spotify.com/track/08g9iSOHHQescaaWuAsQAQ) | [Belle Frantz](https://open.spotify.com/artist/7impCQSfqOMNU2WJPuoGXL) | [Do Ya \(From the Paramount+ Original Series Landman\)](https://open.spotify.com/album/4SVaLazHRMj7v0Oydgrzvm) | 3:39 | 2025-09-26 |  |
+| [Drink Don't Need No Mix \(feat\. BigXthaPlug\)](https://open.spotify.com/track/1WhCAd5sv7rIO78kVgFxIt) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3) | 2:13 | 2025-12-28 |  |
 | [Drink That Strong](https://open.spotify.com/track/0NAi9qwmYJg0urPEgkAqLP) | [Channing Wilson](https://open.spotify.com/artist/5LlJgNc8PgsXsloNEw2uDW) | [Dead Man](https://open.spotify.com/album/24ZU9yEJ7eHsXG6Tht1dyb) | 4:08 | 2025-12-14 |  |
 | [Drunken Sailor](https://open.spotify.com/track/5Su5ILFp6U83cnIXwfmlC5) | [The Irish Rovers](https://open.spotify.com/artist/0tkKwWigaADLYB9HdFCjYo) | [Drunken Sailor](https://open.spotify.com/album/5iyQuCFO65zkVXaqtBYFuo) | 2:56 | 2025-12-14 |  |
 | [Empty As A Drum](https://open.spotify.com/track/2KfEpp0z0v9lDs04ZfQlBA) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Goodbye Normal Street](https://open.spotify.com/album/0bbz2cwhC8oQtyli5tjaqP) | 3:29 | 2024-12-01 |  |
@@ -72,6 +74,8 @@
 | [Nothin But Texas](https://open.spotify.com/track/2Rphg4r8aRkglve2415SAG) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Flyin](https://open.spotify.com/album/6piPOikcjVHKg1JMUAEwfU) | 4:34 | 2025-12-21 |  |
 | [Nothing You Can Do](https://open.spotify.com/track/3RU53XEYB7hILTvCbeNjzx) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [The Price of Admission](https://open.spotify.com/album/0lMU9le9QkLUKR0VFBwxSq) | 3:31 | 2025-11-16 |  |
 | [One for the Road](https://open.spotify.com/track/6kqlkuuSSWdHiQqzjaprvc) | [Hunter Hicks](https://open.spotify.com/artist/6BEOyviLtjXnOGYdBn0ddd) | [One for the Road](https://open.spotify.com/album/42r77gWzVAk6lOOUBSHr9t) | 3:12 | 2025-12-14 |  |
+| [Panhandle Wind](https://open.spotify.com/track/2RAP48hzWSWhG0MPyOi1n3) | [Isaac Hoskins](https://open.spotify.com/artist/7FSF3vuIliCSshbpPAnA7E) | [Bender](https://open.spotify.com/album/6pDo5cqQYdCekqJthJFFBk) | 3:23 | 2025-12-28 |  |
+| [Purple Gas \- Solo](https://open.spotify.com/track/26bmP4LuHnXF0Q8tcQp6HO) | [Noeline Hofmann](https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW) | [Purple Gas](https://open.spotify.com/album/0sI8yTvq1zETWOPhg9KtIk) | 3:24 | 2025-12-28 |  |
 | [Ramblin'](https://open.spotify.com/track/3k057uh5tFgAbWPrQJOTrI) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Made by These Moments](https://open.spotify.com/album/0UQr4EfIUbii2ufru3mnKe) | 2:32 | 2025-11-30 |  |
 | [Ruby Ann](https://open.spotify.com/track/4GCfkYfdogbdZZtFhCpDJ3) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [The Price of Admission](https://open.spotify.com/album/0lMU9le9QkLUKR0VFBwxSq) | 3:10 | 2025-12-21 |  |
 | [Sailing](https://open.spotify.com/track/46fGlKpOb5aiSH6ExSrWPw) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [All Right \(The Worldwide Singles 1980\-1988\)](https://open.spotify.com/album/2DF8OnA4CoaF6LhohfVP2z) | 4:16 | 2025-12-07 |  |
@@ -97,9 +101,11 @@
 | [Walking On Sunshine](https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0) | [Katrina & The Waves](https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3) | [Katrina & The Waves](https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7) | 3:58 | 2025-12-14 |  |
 | [Wasting Time](https://open.spotify.com/track/5CI2BRYoj0600uz0taRh8c) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Made by These Moments](https://open.spotify.com/album/0UQr4EfIUbii2ufru3mnKe) | 3:30 | 2025-12-07 |  |
 | [What's Going On In Your World](https://open.spotify.com/track/5jmpn0ls7fYuxzYlzrr3dL) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Beyond The Blue Neon](https://open.spotify.com/album/3wD2jmspAMaerzfETvT3ZU) | 3:28 | 2025-11-30 |  |
+| [When The Stars Fall](https://open.spotify.com/track/3bD7lxmVRrdHS4RsZhTeJv) | [Danno Simpson](https://open.spotify.com/artist/0tdB2hvSIPxb05Pjqg2DAf) | [The Kill Joy](https://open.spotify.com/album/5gjTLZGdMsAh91EqChb3Jp) | 2:36 | 2025-12-28 |  |
 | [Winner At Losing \- Landman \- Songs From and Inspired by the Paramount+ Original Series \(Volume II\)](https://open.spotify.com/track/6N16M8EzplEuWtozrmddia) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [Winner At Losing \[Landman \- Songs From and Inspired by the Paramount+ Original Series \(Volume II\)\]](https://open.spotify.com/album/5VD6qJylhNuEXU5pe3ShiG) | 3:02 | 2025-12-15 |  |
 | [Wondering Why](https://open.spotify.com/track/1HbzxLqpNVPdiBXvpC7Ovb) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Moment of Truth](https://open.spotify.com/album/1TGX3TzhBOkAOWyoS3TWVF) | 3:52 | 2024-12-22 |  |
 | [Wrecked](https://open.spotify.com/track/79QYGruWwuNp5EZ7ZCo7iJ) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Goodbye Normal Street](https://open.spotify.com/album/0bbz2cwhC8oQtyli5tjaqP) | 4:59 | 2024-12-01 |  |
 | [Wyoming](https://open.spotify.com/track/4TcjHqVEYmFKWMSKRyzH7D) | [Benjamin Tod](https://open.spotify.com/artist/30hVqCpEQ8gBRdNvgWMr20) | [Songs I Swore I'd Never Sing](https://open.spotify.com/album/1GF4Y1duLWnFuLFufy7qXW) | 5:16 | 2025-11-16 |  |
+| [YA VALIÓ](https://open.spotify.com/track/0VNwfyKyDrGw1BW7zxlGeQ) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [YA VALIÓ](https://open.spotify.com/album/4BlW4CMNTGpfIb4aVYNnDr) | 2:31 | 2025-12-28 |  |
 
 \*This playlist was first scraped on 2024-11-19. Prior content cannot be recovered.

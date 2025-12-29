@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 522 likes - 167 songs - 9 hr 24 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 522 likes - 174 songs - 9 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -175,5 +175,12 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 165 | [Dark Gift](https://open.spotify.com/track/4K2mhBOdr1Yx93LLMhZ03s) | [Nempty](https://open.spotify.com/artist/6Fnh4iRaxlyEQdASmWpCSl) | [Dark Gift](https://open.spotify.com/album/5UITfythp3Lzp3nvPVKOjv) | 4:14 |
 | 166 | [make it work \(interlude\)](https://open.spotify.com/track/27riDY0FZMGNIrJE3wjAQB) | [Swízzy](https://open.spotify.com/artist/0UECTvB4F2xASEH91yftgO) | [Melodic Desire II](https://open.spotify.com/album/3zyNtvKFT6Fcgmr3B0APjn) | 2:40 |
 | 167 | [Had Enough](https://open.spotify.com/track/3NgSWWcfCEfqfO0A2G1pDf) | [Rules Man](https://open.spotify.com/artist/0TEGx2fJhFmfpzioHwA4oe) | [Had Enough](https://open.spotify.com/album/243tYzE06VMLKKlSEYSPhC) | 3:28 |
+| 168 | [Paranoia](https://open.spotify.com/track/6CM6qw4O87GLSeB3QN5qNK) | [ADAD Audio](https://open.spotify.com/artist/5E6ZCRSMAyeT15BqrWOdy5) | [Paranoia](https://open.spotify.com/album/2LMkARZTUDgGgbaiexYWsH) | 3:24 |
+| 169 | [My Own World](https://open.spotify.com/track/23hwOGWChFPALZdX4dYFlC) | [Impulse Bangs](https://open.spotify.com/artist/3QbpC7UT2TgsfZ9Qpyvcbp) | [My Own World](https://open.spotify.com/album/38prmH5z5AS3n7yKCXig8m) | 3:50 |
+| 170 | [Better Just Relax](https://open.spotify.com/track/3IVYIsdtWlJ55ikYEZvDYa) | [Max King](https://open.spotify.com/artist/2pRzdE3d9WKYHEQFLsGXYR) | [Better Just Relax](https://open.spotify.com/album/27vTQbtzfTvs2LHSow67pY) | 1:44 |
+| 171 | [beautiful](https://open.spotify.com/track/0HHlGXEynhwIkMLFEXzduC) | [briann](https://open.spotify.com/artist/0iOzH7JDn5rKOLMTuyscWx) | [always you](https://open.spotify.com/album/0rBDqg3aoHRz3TaOElSjfL) | 2:31 |
+| 172 | [Activate](https://open.spotify.com/track/7z8LVNE8KvsW4gOGXLAqRU) | [Torppsbride](https://open.spotify.com/artist/4AajIi9uAigYLb5TuldkdU) | [Activate](https://open.spotify.com/album/61st6LFxSJ2AsSjKDOaws0) | 3:40 |
+| 173 | [Night After Night](https://open.spotify.com/track/1XDirGFSQxJOw7Lt37Plfm) | [Theo Ford](https://open.spotify.com/artist/2ohDR2ERUEVCG3RgeXSS7S) | [Timelapse](https://open.spotify.com/album/71NZkMm8F19VNaLbFDQkYE) | 5:04 |
+| 174 | [LoveFool](https://open.spotify.com/track/7bUmp4xom3geI8bSPuK0tX) | [Delilah Earnshaw](https://open.spotify.com/artist/4GgoJ6xVN57Qb2STzpdgj2) | [LoveFool](https://open.spotify.com/album/0vxN32E176x1p4ayKQcCqI) | 4:29 |
 
-Snapshot ID: `AAACslINocBZdj0JEHA6zCDk3dApganO`
+Snapshot ID: `AAACuYa2vaJTr9yY/mVwy7ViNY4qvF21`

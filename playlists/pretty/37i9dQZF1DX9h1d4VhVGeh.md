@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h1d4VhVGeh.md) - [plain]
 
 > Sabah al khair, start your day with extra cardamom and mellow tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,268 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,294 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,13 +35,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9h1d4VhVGeh.md) - [plain]
 | 25 | [غصن رمان](https://open.spotify.com/track/1ix4JCBW5VtnniwREmyVnv) | [Maryam Shehab](https://open.spotify.com/artist/0y7SRWlTc47DOTfnCFAaSU) | [غصن رمان](https://open.spotify.com/album/2vNjWCygjXwVn1kForeD8k) | 2:30 |
 | 26 | [Bayni Wa Baynak](https://open.spotify.com/track/6fxMxn2BQr1lpdDD9KiPcO) | [Hoda](https://open.spotify.com/artist/7pzIBGIsX1puhih75jGnX3) | [Hoda Collection, Vol\. 4](https://open.spotify.com/album/28MaTReQz0UvddQKn2Gc87) | 2:32 |
 | 27 | [El Waet Hdiye](https://open.spotify.com/track/6lsZjyA5UAA8BYR88rAKNk) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [El Waet Hdiye](https://open.spotify.com/album/2K9R8YE2IyUuwTqQJJzxHi) | 3:16 |
-| 28 | [Wenak](https://open.spotify.com/track/4OLkFHPJsobeRaSe7YU6BG) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Wenak](https://open.spotify.com/album/7FiqZa8hMmvkCuUftjj0br) | 3:00 |
-| 29 | [Ana Bakhaf Min El Commitment](https://open.spotify.com/track/5DJLUHviIEbqG1uXaoNzaq) | [Jadal](https://open.spotify.com/artist/27OeswwNYFziNtyGMIHR0f) | [El Makina](https://open.spotify.com/album/2EIhDyhOzFspLD2nSj79XK) | 4:20 |
+| 28 | [Ana Bakhaf Min El Commitment](https://open.spotify.com/track/5DJLUHviIEbqG1uXaoNzaq) | [Jadal](https://open.spotify.com/artist/27OeswwNYFziNtyGMIHR0f) | [El Makina](https://open.spotify.com/album/2EIhDyhOzFspLD2nSj79XK) | 4:20 |
+| 29 | [Wenak](https://open.spotify.com/track/4OLkFHPJsobeRaSe7YU6BG) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Wenak](https://open.spotify.com/album/7FiqZa8hMmvkCuUftjj0br) | 3:00 |
 | 30 | [Khedni Maak Aa Darb Bi'ldi](https://open.spotify.com/track/6casyhTmAvFtnQ3tRaXR2x) | [Salwa El Katrib](https://open.spotify.com/artist/1rNj11bm4Kdg5qMcD4dcdX) | [Best of Salwa El Katrib, Vol\. 1](https://open.spotify.com/album/7kMpg8lI54ZigyqKCxkvYQ) | 4:14 |
 | 31 | [Fi 7eta Tanya](https://open.spotify.com/track/2PY7SkaaxjjRtxiLMGgc2f) | [Hana Yousry](https://open.spotify.com/artist/7HyRkwolIQ1E23SNrfSbZt) | [Fi 7eta Tanya](https://open.spotify.com/album/1HHTEpym8TUKaM7xJrsX0n) | 3:15 |
 | 32 | [Ya M'safer](https://open.spotify.com/track/2sOg0fznPO0YWKWksIQEmA) | [Ghalia Benali](https://open.spotify.com/artist/7BOI7fetZ2yzDpBUiCMyYy) | [Romeo & Leila](https://open.spotify.com/album/2j4MGjJOs8SBgXL7OyqCFl) | 5:22 |
-| 33 | [Ya Ashikat El Ward](https://open.spotify.com/track/1jskDzkrTIs07bsr0NTkL3) | [Zaki Nassif](https://open.spotify.com/artist/1ck2Isye239BEWAEocqmTT) | [Ya Ashikat El Ward](https://open.spotify.com/album/5A4ErdG0ZBynX0f6h7Vb1w) | 4:34 |
-| 34 | [Bala Wala Chi](https://open.spotify.com/track/0fylgLeNObjVvwhd8caHqX) | [Ziad Rahbani](https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT) | [Houdou Nisbi](https://open.spotify.com/album/1b3FbrjvbVbZMa73KLywXz) | 3:27 |
+| 33 | [Bala Wala Chi](https://open.spotify.com/track/0fylgLeNObjVvwhd8caHqX) | [Ziad Rahbani](https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT) | [Houdou Nisbi](https://open.spotify.com/album/1b3FbrjvbVbZMa73KLywXz) | 3:27 |
+| 34 | [Ya Ashikat El Ward](https://open.spotify.com/track/1jskDzkrTIs07bsr0NTkL3) | [Zaki Nassif](https://open.spotify.com/artist/1ck2Isye239BEWAEocqmTT) | [Ya Ashikat El Ward](https://open.spotify.com/album/5A4ErdG0ZBynX0f6h7Vb1w) | 4:34 |
 | 35 | [Helwa Ya Baladi](https://open.spotify.com/track/6AfnfhQ1eGCnnpOCFFuNgj) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig) | [L'Intégrale Des Enregistrements Orlando](https://open.spotify.com/album/2eOD1woggAOyLtM0UqORrk) | 3:34 |
 | 36 | [رجعنا التقينا](https://open.spotify.com/track/3bWGmpvHjK9GHt9JYXGWH8) | [Bisher بشر](https://open.spotify.com/artist/5aJWiAyj50doGPVR79VDzK) | [رجعنا التقينا](https://open.spotify.com/album/5FoaHEDPP43MWTLXBWCfEl) | 4:01 |
 | 37 | [Ahwak](https://open.spotify.com/track/63GzwMGopLBtxiWPZ6IFgo) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [Elyanna](https://open.spotify.com/album/2J4Yz9I4s0FvFw00Cn0trp) | 1:34 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 
 > A palavra de Jesus embalada pelo ritmo sertanejo\. Foto: Gerson Rufino
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,465 likes - 60 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,520 likes - 60 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 | 25 | [Minha Ilha](https://open.spotify.com/track/0DKrKNKy0Mi7alxkaebj5x) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [Minha Ilha](https://open.spotify.com/album/02Tuv2t5HpJcHCu9bjyrCb) | 4:44 |
 | 26 | [Um Lugar à Mesa](https://open.spotify.com/track/3GzxRfmVOXIcnzpdeFsn1e) | [Eliane Fernandes](https://open.spotify.com/artist/2fZ9WWZXVTh6EOC36LrzAH), [É Gospel Music](https://open.spotify.com/artist/6klBSZzVLZBy0YvbQO6DCm) | [Um Lugar à Mesa](https://open.spotify.com/album/0kf7qdQiYbMYscCt17cBW4) | 4:00 |
 | 27 | [Melhor Herança](https://open.spotify.com/track/5BH8Z8orl7N5g8h4IcovGU) | [Guilherme Franco](https://open.spotify.com/artist/5z66WsjknEwzOu9dZLPWq1), [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Melhor Herança](https://open.spotify.com/album/3skNvqzrC2VlUwrcziueQ5) | 3:52 |
-| 28 | [Você É Especial \- Voz e Violão](https://open.spotify.com/track/7ClfYG4BrlyAP3bbv4Xk1w) | [Daniel & Samuel](https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU) | [Voz e Violão \- Parte 2](https://open.spotify.com/album/64mh0kkVSRHTxCg0gv9Eqk) | 5:24 |
-| 29 | [Oliveira Verdadeira](https://open.spotify.com/track/7u0d3etlKZIj2dGvXvJfXq) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR), [Maximus Records](https://open.spotify.com/artist/1bFepcvSYELb5Oz656krWR) | [Louvor Raíz](https://open.spotify.com/album/2Vu9z0dwmSBVKmXB8mOXPF) | 4:14 |
+| 28 | [Oliveira Verdadeira](https://open.spotify.com/track/7u0d3etlKZIj2dGvXvJfXq) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR), [Maximus Records](https://open.spotify.com/artist/1bFepcvSYELb5Oz656krWR) | [Louvor Raíz](https://open.spotify.com/album/2Vu9z0dwmSBVKmXB8mOXPF) | 4:14 |
+| 29 | [Você É Especial \- Voz e Violão](https://open.spotify.com/track/7ClfYG4BrlyAP3bbv4Xk1w) | [Daniel & Samuel](https://open.spotify.com/artist/2d8TXKlooYDA5nz6A5yFBU) | [Voz e Violão \- Parte 2](https://open.spotify.com/album/64mh0kkVSRHTxCg0gv9Eqk) | 5:24 |
 | 30 | [A Resposta É Deus](https://open.spotify.com/track/3wYqm1QcLqtgxQes7KxvE2) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [A Resposta É Deus](https://open.spotify.com/album/0id1PiZXaaYLPMxLNJVTmE) | 4:16 |
 | 31 | [Vai Ter Recompensa \(Ao Vivo\)](https://open.spotify.com/track/4SAlYwY78DAsRoinY4Kcjv) | [Samuel Sabinno](https://open.spotify.com/artist/1xDmNdivUY6qSQRMyRe5oZ) | [Vai Ter Recompensa \(Ao Vivo\)](https://open.spotify.com/album/6hYHOEeNR5iJejZx3mV2BE) | 5:07 |
 | 32 | [O Segredo da Felicidade](https://open.spotify.com/track/1cqL5ETI4Ik9nnYQfUuuwP) | [Tamy Klaus](https://open.spotify.com/artist/2Zl9rN1av3SmE8V284GXI4), [Louvor Eterno](https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw), [Misael Coelho](https://open.spotify.com/artist/60ThKVjUZ4GrqNu4o7aBtS) | [O Segredo da Felicidade](https://open.spotify.com/album/558l8xXJGcfrhNjn6WIBFv) | 3:20 |

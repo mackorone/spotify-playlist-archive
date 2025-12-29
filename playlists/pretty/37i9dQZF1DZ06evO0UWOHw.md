@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UWOHw.md) - [plain]
 
 > This is Victony\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,392 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,403 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UWOHw.md) - [plain]
 | 17 | [Risk](https://open.spotify.com/track/7ElIoXjT2p1bcDzsUL3X89) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Stubborn](https://open.spotify.com/album/0HAMypn9IWyVZ3ytw6R6qr) | 3:22 |
 | 18 | [Way Home](https://open.spotify.com/track/2JjaZOtnywVuMXWSkJMU4d) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Shorae Moore](https://open.spotify.com/artist/03VxcWyc7o8aYGyiePMYWJ) | [Very Stubborn](https://open.spotify.com/album/4qvBmFi6a3W6Fz5Wvzj6X6) | 3:37 |
 | 19 | [Kolomental](https://open.spotify.com/track/6ve01VVzDgMKldixX6iX0i) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Kolomental](https://open.spotify.com/album/7JgsLKSkDvEaErldrIW37f) | 3:17 |
-| 20 | [Glory](https://open.spotify.com/track/1wQzfGryAzTNKSeDyBcP1z) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Glory](https://open.spotify.com/album/4hT9e7lkQ6lbXP1QHW35pZ) | 2:38 |
-| 21 | [Holy Water \(feat\. Victony & Musa Keys\)](https://open.spotify.com/track/3HdiLzN2f7VpCzBR0Zz3JP) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 3:47 |
+| 20 | [Holy Water \(feat\. Victony & Musa Keys\)](https://open.spotify.com/track/3HdiLzN2f7VpCzBR0Zz3JP) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf) | [5ive](https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8) | 3:47 |
+| 21 | [Glory](https://open.spotify.com/track/1wQzfGryAzTNKSeDyBcP1z) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Glory](https://open.spotify.com/album/4hT9e7lkQ6lbXP1QHW35pZ) | 2:38 |
 | 22 | [Amen](https://open.spotify.com/track/3SdqGKArsHk8bNCUBLVKs7) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Very Stubborn](https://open.spotify.com/album/4qvBmFi6a3W6Fz5Wvzj6X6) | 2:54 |
 | 23 | [Ave Maria](https://open.spotify.com/track/6al03F4hh8LUPRMcnrM3H5) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Ave Maria](https://open.spotify.com/album/5vlT6FIqF6Rh25v1EWZ2Kj) | 3:02 |
 | 24 | [Bebe](https://open.spotify.com/track/1agUOP9cocY7h4gY9t1tYh) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Symbol of Hope](https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK) | 2:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0UWOHw.md) - [plain]
 | 49 | [NAIJA SHAWTY \(feat\. Victony\)](https://open.spotify.com/track/2ZAlI005a5nE5ys5QGOiQr) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Emeka Must Shine](https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj) | 1:48 |
 | 50 | [Selema \(Po Po\) \- Remix](https://open.spotify.com/track/4etb2MbOkYa90Rvf08kMVf) | [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Loui](https://open.spotify.com/artist/53SBWd8nuUmKxJPS9quQi5) | [Selema \(Po Po\) \[Remix\]](https://open.spotify.com/album/4i88bfyHm8i2rgepa4kcrp) | 5:31 |
 
-Snapshot ID: `aU3QAAAAAABkncVpg+v9aWUeiJ4c1rn5`
+Snapshot ID: `aU8hgAAAAADYmP9dUp2SI47Aql6PHHCe`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Drake Milligan
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,326 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,304 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 50 | [Start at the End](https://open.spotify.com/track/08eDkqav6EEKUZDy7dlGWI) | [Clayton Mullen](https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g) | [Start at the End](https://open.spotify.com/album/4d3tswcnN8RBSIeVaDwHH1) | 3:28 |
 | 51 | [A Cat in the Rain](https://open.spotify.com/track/0Zt4KxjqHYswmQvjpnpiPe) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [A Cat in the Rain](https://open.spotify.com/album/3ZynuKh2bwSEi0kBJc7tO8) | 5:17 |
 | 52 | [Two First Names](https://open.spotify.com/track/2e7x4VTgV0faEfG9MwkHFI) | [Jake Worthington](https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp) | [When I Write The Song](https://open.spotify.com/album/0GpuzOYTm6vI23eCZV9GRw) | 4:08 |
-| 53 | [Spinnin'](https://open.spotify.com/track/0k1MIumc7GxFeiQsKgRBys) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Wandering Star](https://open.spotify.com/album/5OClY7oERkbh7dckrDsWab) | 4:13 |
-| 54 | [Change The Game](https://open.spotify.com/track/4RTLkBELy9UNoPeOVmjITc) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Change the Game](https://open.spotify.com/album/4Fjn8d1BEOZhlDIoUyZo8K) | 3:28 |
+| 53 | [Change The Game](https://open.spotify.com/track/4RTLkBELy9UNoPeOVmjITc) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Change the Game](https://open.spotify.com/album/4Fjn8d1BEOZhlDIoUyZo8K) | 3:28 |
+| 54 | [Spinnin'](https://open.spotify.com/track/0k1MIumc7GxFeiQsKgRBys) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Wandering Star](https://open.spotify.com/album/5OClY7oERkbh7dckrDsWab) | 4:13 |
 | 55 | [I Keep Your Memory Around](https://open.spotify.com/track/2mESfK7oU1V1CHr1j78FE8) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [I Keep Your Memory Around](https://open.spotify.com/album/7waJk7mvaaMcC6lauq5KbE) | 3:06 |
 | 56 | [Chipping Mill](https://open.spotify.com/track/1Qn8ffMn79yl99Hs4zurID) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [A Cat in the Rain](https://open.spotify.com/album/3ZynuKh2bwSEi0kBJc7tO8) | 3:20 |
 | 57 | [Worry is a Sickness](https://open.spotify.com/track/2gh1NyPkglSkDxNWE7DsAb) | [Ty Myers](https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO) | [Worry is a Sickness](https://open.spotify.com/album/3UDMgtZQoeXhbPqwUthAjf) | 4:14 |
@@ -70,9 +70,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 60 | [Tennessee Drinkin'](https://open.spotify.com/track/2hxzzKDKEZilB6dVzo6o28) | [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [Here's To You\. Here's To Me.](https://open.spotify.com/album/0RajpG21iVawsEygzQlxxl) | 3:02 |
 | 61 | [If You Were Mine](https://open.spotify.com/track/1GL0nollq8IdnV4tfYtEZT) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [If You Were Mine](https://open.spotify.com/album/0FrbfHvjj5olr9w7dUeDrZ) | 3:39 |
 | 62 | [Shines Through](https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI) | [Dylan Wheeler](https://open.spotify.com/artist/0wt7kveV9BteRyhkkWGj87) | [Times Are Changing](https://open.spotify.com/album/20Q4v43C8afzHFQqFqOHEw) | 3:39 |
-| 63 | [My Love](https://open.spotify.com/track/7KbBJ6PLkFnfO8GQu1R0il) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [My Love](https://open.spotify.com/album/5VOaO6GlmbM6GcPrjl97HQ) | 4:01 |
-| 64 | [Just Call My Number](https://open.spotify.com/track/1bTYabk6wOSvIapt1orxg1) | [Tristan Roberson](https://open.spotify.com/artist/3DciIsSZJFKwH06cc9l9RR) | [Just Call My Number](https://open.spotify.com/album/2skDzLvzYWluEjJkbY7jFb) | 3:14 |
-| 65 | [Destiny](https://open.spotify.com/track/1iS3tR6A5kibt0BInSlzzU) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Destiny](https://open.spotify.com/album/7swt4qXQz75AomZfbJRHxl) | 3:21 |
+| 63 | [Just Call My Number](https://open.spotify.com/track/1bTYabk6wOSvIapt1orxg1) | [Tristan Roberson](https://open.spotify.com/artist/3DciIsSZJFKwH06cc9l9RR) | [Just Call My Number](https://open.spotify.com/album/2skDzLvzYWluEjJkbY7jFb) | 3:14 |
+| 64 | [Destiny](https://open.spotify.com/track/1iS3tR6A5kibt0BInSlzzU) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Destiny](https://open.spotify.com/album/7swt4qXQz75AomZfbJRHxl) | 3:21 |
+| 65 | [My Love](https://open.spotify.com/track/7KbBJ6PLkFnfO8GQu1R0il) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [My Love](https://open.spotify.com/album/5VOaO6GlmbM6GcPrjl97HQ) | 4:01 |
 | 66 | [Coulda Been Love](https://open.spotify.com/track/2K7kaSsyzMKLvXH5MnOgFp) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Coulda Been Love](https://open.spotify.com/album/2SicSV8AnsmIXZk6NmL8G6) | 2:52 |
 | 67 | [The Little Things](https://open.spotify.com/track/0yfPThPvlNrnQaOoeoQMDl) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [The Little Things](https://open.spotify.com/album/62iaYGnhb2PL2kzngNGxjO) | 3:38 |
 | 68 | [Fort Worth](https://open.spotify.com/track/4fsfmBOOxwMOJ7DzibpfU5) | [Kylie Frey](https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4), [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Fort Worth](https://open.spotify.com/album/6UoQs8c0c0F9uiJ73jkYd8) | 3:36 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 73 | [I'm The One \(feat\. Marty Stuart\)](https://open.spotify.com/track/6tMUkiyHP1DMMcoqCS6fkY) | [Jake Worthington](https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp), [Marty Stuart](https://open.spotify.com/artist/3OyGv7XUYQwQgECYSzJhyO) | [I'm The One](https://open.spotify.com/album/31cSwPDJHYe00GhuyOxfvu) | 2:55 |
 | 74 | [Pontiac \(So Tell Me Momma\)](https://open.spotify.com/track/5z8WoQwsdV0ci7GuE4TQND) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [Pontiac \(So Tell Me Momma\)](https://open.spotify.com/album/5jvRzaDo39gKBZG8b7Xzsh) | 3:45 |
 | 75 | [Old Fashioned Feeling](https://open.spotify.com/track/1mlFsqgc3lgTCboLATYHBo) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Old Fashioned Feeling](https://open.spotify.com/album/3ojGoD6lwIzSjHKqgndFD9) | 3:22 |
-| 76 | [When My Baby’s In Boots](https://open.spotify.com/track/7b9KD6zHFdvaxa8esotppL) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [When My Baby’s In Boots](https://open.spotify.com/album/0E0hnTHYem327caHZmgP1Q) | 3:03 |
-| 77 | [Nothin But Texas](https://open.spotify.com/track/2Rphg4r8aRkglve2415SAG) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Flyin](https://open.spotify.com/album/6piPOikcjVHKg1JMUAEwfU) | 4:34 |
+| 76 | [Nothin But Texas](https://open.spotify.com/track/2Rphg4r8aRkglve2415SAG) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Flyin](https://open.spotify.com/album/6piPOikcjVHKg1JMUAEwfU) | 4:34 |
+| 77 | [When My Baby’s In Boots](https://open.spotify.com/track/7b9KD6zHFdvaxa8esotppL) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [When My Baby’s In Boots](https://open.spotify.com/album/0E0hnTHYem327caHZmgP1Q) | 3:03 |
 | 78 | [Hearts Don't](https://open.spotify.com/track/4VBk1mhcQkyPvnZ34cTThr) | [Tristan Roberson](https://open.spotify.com/artist/3DciIsSZJFKwH06cc9l9RR) | [Hearts Don't](https://open.spotify.com/album/0jmlQOEAFUKwmaT6xfMoGz) | 3:38 |
 | 79 | [The Show](https://open.spotify.com/track/11P6OdZlM3Ik8lf82BV1TE) | [Jarrod Morris](https://open.spotify.com/artist/2Y08Tu239xOkg25bPkth9R) | [The Show](https://open.spotify.com/album/4Is8rQeOG1SQeIK5feEhZ6) | 3:28 |
 | 80 | [The Road](https://open.spotify.com/track/3EwrObmGtZsR2ZWfgCnAN9) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Turning Point](https://open.spotify.com/album/75OXnTQWuEJt4HTUgi6F21) | 2:33 |

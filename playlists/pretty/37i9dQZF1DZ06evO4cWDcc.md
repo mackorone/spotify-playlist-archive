@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4cWDcc.md) - [plain]
 
 > This is Jimi Hendrix\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 324,235 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 324,264 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4cWDcc.md) - [plain]
 | 42 | [Farther Up the Road](https://open.spotify.com/track/5JQuN4RkTtkuoHgwx8MUqj) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Lady Studios: A Jimi Hendrix Vision](https://open.spotify.com/album/4TkDrqWkZZXznaJPEtvLe4) | 1:46 |
 | 43 | [Room Full of Mirrors](https://open.spotify.com/track/7uQcSTXM4q7tGzguGVeLtX) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Rainbow Bridge](https://open.spotify.com/album/2et0fTgbRp3w4Izzs4uVtz) | 3:35 |
 | 44 | [Things I Used to Do](https://open.spotify.com/track/2YFfcJF038SQMtHUwOKO6P) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Both Sides of the Sky](https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407) | 3:41 |
-| 45 | [Once I Had a Woman](https://open.spotify.com/track/2AtnrJEq48pGhlpgS59akM) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Blues](https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz) | 7:49 |
-| 46 | [Who Knows \- Live At Fillmore East, 1970 / 50th Anniversary](https://open.spotify.com/track/6uNyTYOEaNOY38r1dgoqAL) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Band Of Gypsys \(50th Anniversary / Live\)](https://open.spotify.com/album/0B0Zwfcy4pAY2JAoxIEkR5) | 9:36 |
+| 45 | [Who Knows \- Live At Fillmore East, 1970 / 50th Anniversary](https://open.spotify.com/track/6uNyTYOEaNOY38r1dgoqAL) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Band Of Gypsys \(50th Anniversary / Live\)](https://open.spotify.com/album/0B0Zwfcy4pAY2JAoxIEkR5) | 9:36 |
+| 46 | [Once I Had a Woman](https://open.spotify.com/track/2AtnrJEq48pGhlpgS59akM) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Blues](https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz) | 7:49 |
 | 47 | [Night Bird Flying](https://open.spotify.com/track/6qKlw6TyxVkaUZrlJYP8xD) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [The Cry of Love](https://open.spotify.com/album/7ykAHaoptbCYaO0HAjpgcL) | 3:52 |
 | 48 | [Killing Floor \- Live At Monterey](https://open.spotify.com/track/2v1DwZai9QYkcq8iuDzeDB) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Live At Monterey](https://open.spotify.com/album/6NdaU4JVYrQAxDOSrG0aPF) | 3:14 |
 | 49 | [Valleys of Neptune](https://open.spotify.com/track/78FgaL6lR2VMWGjqAHT4S2) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Lady Studios: A Jimi Hendrix Vision](https://open.spotify.com/album/4TkDrqWkZZXznaJPEtvLe4) | 3:45 |
 | 50 | [Izabella](https://open.spotify.com/track/4kETOLpw7MYYo37hZSDXLl) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [People, Hell & Angels](https://open.spotify.com/album/4TKeFuhHHiBhRddgUfZEvf) | 3:44 |
 
-Snapshot ID: `aU3QAAAAAAD86W3xAvBPxSXiCJFlZYSs`
+Snapshot ID: `aU8hgAAAAAAYpQLtS8Iz3+harEUUowMr`

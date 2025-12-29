@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83Qd1EZ6qTs.md) - [plain]
 
 > Ease out your mind with the rhythmic Tabla sounds, from Indian maestros & modern geniuses\. Cover : Zakir Hussain
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,581 likes - 47 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,582 likes - 47 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,11 +43,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83Qd1EZ6qTs.md) - [plain]
 | 33 | [Tabla Solo, Pt\. 1](https://open.spotify.com/track/26ZkZdnCJCtUGYftsx1HPl) | [K\. Shruthi Raj](https://open.spotify.com/artist/6zr6WfjrK1ZVWryFpJ3Yog), [A\. Kiran Kumar](https://open.spotify.com/artist/2Shi7KJal6btqCgTCVC3F1), [Saravanan](https://open.spotify.com/artist/4XdHGSJ3fJ8CKvE1fwWjq1) | [Authentic India: Indian Percussion](https://open.spotify.com/album/69wCZZ0ECtKoTJkHxdsGRO) | 2:33 |
 | 34 | [Rhythmic Passion](https://open.spotify.com/track/7sxcB99i4Bm0RJ3qwY3hrl) | [Anuradha Pal](https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT) | [Get Recharged!!!](https://open.spotify.com/album/7uAdx4T1tcIpMMSDFSiwdL) | 5:20 |
 | 35 | [Tabla](https://open.spotify.com/track/3HDTDX3j2qpzGYvy3ELtPh) | [Alla Rakha](https://open.spotify.com/artist/5Y99HxXDOgGQ6diwjV7HDj) | [Ustad Alla Rakha \- The Multifaceted Genius](https://open.spotify.com/album/0RNf0UPZvB8MZKFfDmBkXk) | 10:40 |
-| 36 | [Blue Curry](https://open.spotify.com/track/1H9o3KJZSNhJURgywmZwkS) | [Bhangra Beats](https://open.spotify.com/artist/2BozhfzPEFME4tBKO8PSjv) | [Blue Curry](https://open.spotify.com/album/3KeLxy9vd1vB3N0IRvLqmt) | 2:32 |
+| 36 | [Wander](https://open.spotify.com/track/7j53xRQzT5VXy5hz8WnQLT) | [Ishaan Ghosh](https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL) | [Wander](https://open.spotify.com/album/0NtsRlMtC5jJiPwi8QxlJG) | 3:00 |
 | 37 | [Summing Up](https://open.spotify.com/track/4KRv0WDi7tK9mOjDH8TeNH) | [ARAJ](https://open.spotify.com/artist/0wAk8TZQcBKfo9QSfXr2eD), [Shikhar Naad Qureshi](https://open.spotify.com/artist/7brxpJAKhpBfEHmAzawb1J) | [CHAKRA](https://open.spotify.com/album/7c32y7QchS7ZGN23CIXL8p) | 15:52 |
 | 38 | [Tabla Duo](https://open.spotify.com/track/39YD8JklUkAWbUo1DywryB) | [K\. Shruthi Raj](https://open.spotify.com/artist/6zr6WfjrK1ZVWryFpJ3Yog), [A\. Kiran Kumar](https://open.spotify.com/artist/2Shi7KJal6btqCgTCVC3F1), [Saravanan](https://open.spotify.com/artist/4XdHGSJ3fJ8CKvE1fwWjq1) | [Authentic India: Indian Percussion](https://open.spotify.com/album/69wCZZ0ECtKoTJkHxdsGRO) | 1:02 |
 | 39 | [Ecstasy](https://open.spotify.com/track/3cpUVxVvbZ42OhVC7MF07h) | [Anuradha Pal](https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT) | [Get Recharged!!!](https://open.spotify.com/album/7uAdx4T1tcIpMMSDFSiwdL) | 6:48 |
-| 40 | [Wander](https://open.spotify.com/track/7j53xRQzT5VXy5hz8WnQLT) | [Ishaan Ghosh](https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL) | [Wander](https://open.spotify.com/album/0NtsRlMtC5jJiPwi8QxlJG) | 3:00 |
+| 40 | [Blue Curry](https://open.spotify.com/track/1H9o3KJZSNhJURgywmZwkS) | [Bhangra Beats](https://open.spotify.com/artist/2BozhfzPEFME4tBKO8PSjv) | [Blue Curry](https://open.spotify.com/album/3KeLxy9vd1vB3N0IRvLqmt) | 2:32 |
 | 41 | [Ananta \(Tabla & Sitar\)](https://open.spotify.com/track/6uHNqMTzet8TN8WcQDZyjq) | [Niladri Kumar](https://open.spotify.com/artist/3Qol2r2jehhR5yKbmk1Dg4), [Talvin Singh](https://open.spotify.com/artist/30Y7JOpiNgAGEhnkYPdI1P) | [Top 25 Fusion Ringtunes](https://open.spotify.com/album/1FNe4CLnDIwT9GBfxAIwJ1) | 1:56 |
 | 42 | [LITTLE KRISHNA'S DANCE](https://open.spotify.com/track/1ab08g5dW8AIEJzXcD561V) | [Indraneel Hariharan](https://open.spotify.com/artist/5WPiQNj0DTvWhYBrp1hiIC), [Krishang Hariharan](https://open.spotify.com/artist/0gNWJkcDHN7t3Hg6JEi2hv) | [LITTLE KRISHNA'S DANCE](https://open.spotify.com/album/2WqDvVSYLHj1HgxPhnHysc) | 4:38 |
 | 43 | [Delirio de Ale](https://open.spotify.com/track/7LeCJLskRnBq1Bz0l98tC3) | [Fausto Palma](https://open.spotify.com/artist/6NWmBPZdw4rP461AyF197Q) | [Lagrima](https://open.spotify.com/album/0EphHGiWwMpfirdRG3gp3J) | 2:39 |

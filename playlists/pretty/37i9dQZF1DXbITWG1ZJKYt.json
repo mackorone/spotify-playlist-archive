@@ -1,6 +1,6 @@
 {
   "description": "The best tunes in Jazz history. ",
-  "num_followers": 4818722,
+  "num_followers": 4819707,
   "original_name": "Jazz Classics",
   "owner": {
     "name": "Spotify",
@@ -663,6 +663,22 @@
     {
       "added_at": "2025-11-05 13:16:42",
       "album": {
+        "name": "Sarah Vaughan's Golden Hits",
+        "url": "https://open.spotify.com/album/6pZ5dSsfNRSuMV9RcMyfwU"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 179373,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/7gHFBNy0Qn86xGKJ9OdFTw"
+    },
+    {
+      "added_at": "2025-11-05 13:16:42",
+      "album": {
         "name": "Don't Go To Strangers (Rudy Van Gelder Remaster)",
         "url": "https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 196440,
       "name": "I've Got A Crush On You",
       "url": "https://open.spotify.com/track/5DIVWgTeJ2fPIxaY9e7ZKn"
-    },
-    {
-      "added_at": "2025-11-05 13:16:42",
-      "album": {
-        "name": "Sarah Vaughan's Golden Hits",
-        "url": "https://open.spotify.com/album/6pZ5dSsfNRSuMV9RcMyfwU"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 179373,
-      "name": "Misty",
-      "url": "https://open.spotify.com/track/7gHFBNy0Qn86xGKJ9OdFTw"
     },
     {
       "added_at": "2025-11-05 13:16:42",
@@ -779,22 +779,6 @@
     {
       "added_at": "2025-11-05 13:16:42",
       "album": {
-        "name": "Ballads (Deluxe Edition - Rudy Van Gelder Remaster)",
-        "url": "https://open.spotify.com/album/0Ydakb7npXmyTwFLvKc5qt"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane Quartet",
-          "url": "https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy"
-        }
-      ],
-      "duration_ms": 259812,
-      "name": "Too Young To Go Steady",
-      "url": "https://open.spotify.com/track/1qeO0T3LIqlUvrELz3Gngk"
-    },
-    {
-      "added_at": "2025-11-05 13:16:42",
-      "album": {
         "name": "B. G. In Hi Fi",
         "url": "https://open.spotify.com/album/33oCBSZiLbfqyOnTTQ4Tct"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 195533,
       "name": "Stompin At The Savoy",
       "url": "https://open.spotify.com/track/1xUJ1mdLAysxNBtO9w3J2g"
+    },
+    {
+      "added_at": "2025-11-05 13:16:42",
+      "album": {
+        "name": "Ballads (Deluxe Edition - Rudy Van Gelder Remaster)",
+        "url": "https://open.spotify.com/album/0Ydakb7npXmyTwFLvKc5qt"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane Quartet",
+          "url": "https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy"
+        }
+      ],
+      "duration_ms": 259812,
+      "name": "Too Young To Go Steady",
+      "url": "https://open.spotify.com/track/1qeO0T3LIqlUvrELz3Gngk"
     },
     {
       "added_at": "2025-11-05 13:16:42",
@@ -843,22 +843,6 @@
     {
       "added_at": "2025-11-05 13:16:42",
       "album": {
-        "name": "Blues Walk",
-        "url": "https://open.spotify.com/album/05dECqC2jTJKERNKAOykqk"
-      },
-      "artists": [
-        {
-          "name": "Lou Donaldson",
-          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
-        }
-      ],
-      "duration_ms": 294666,
-      "name": "Autumn Nocturne",
-      "url": "https://open.spotify.com/track/4zPDjRgceGrR0Sm54YDTTf"
-    },
-    {
-      "added_at": "2025-11-05 13:16:42",
-      "album": {
         "name": "Recorded Fall '61",
         "url": "https://open.spotify.com/album/4eujTUUqxbXKR0rSfwyw2h"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 419626,
       "name": "A Nightingale Sang In Berkeley Square",
       "url": "https://open.spotify.com/track/1xaTXPoDk4VOU9XhYX4KJM"
+    },
+    {
+      "added_at": "2025-11-05 13:16:42",
+      "album": {
+        "name": "Blues Walk",
+        "url": "https://open.spotify.com/album/05dECqC2jTJKERNKAOykqk"
+      },
+      "artists": [
+        {
+          "name": "Lou Donaldson",
+          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
+        }
+      ],
+      "duration_ms": 294666,
+      "name": "Autumn Nocturne",
+      "url": "https://open.spotify.com/track/4zPDjRgceGrR0Sm54YDTTf"
     },
     {
       "added_at": "2025-11-05 13:16:42",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2025-11-05 13:16:42",
       "album": {
-        "name": "Mingus Ah Um",
-        "url": "https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA"
-      },
-      "artists": [
-        {
-          "name": "Charles Mingus",
-          "url": "https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H"
-        }
-      ],
-      "duration_ms": 344306,
-      "name": "Goodbye Pork Pie Hat",
-      "url": "https://open.spotify.com/track/3PJMsxg6rz9FOo6xNiASXz"
-    },
-    {
-      "added_at": "2025-11-05 13:16:42",
-      "album": {
         "name": "The Great American Songbook",
         "url": "https://open.spotify.com/album/3AiEMTv9oFDRaDjqv93mOU"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 201466,
       "name": "Mack the Knife",
       "url": "https://open.spotify.com/track/0RNxWy0PC3AyH4ThH3aGK6"
+    },
+    {
+      "added_at": "2025-11-05 13:16:42",
+      "album": {
+        "name": "Mingus Ah Um",
+        "url": "https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA"
+      },
+      "artists": [
+        {
+          "name": "Charles Mingus",
+          "url": "https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H"
+        }
+      ],
+      "duration_ms": 344306,
+      "name": "Goodbye Pork Pie Hat",
+      "url": "https://open.spotify.com/track/3PJMsxg6rz9FOo6xNiASXz"
     },
     {
       "added_at": "2025-11-05 13:16:42",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2025-11-05 13:16:42",
       "album": {
-        "name": "Look Out! (Remastered)",
-        "url": "https://open.spotify.com/album/21YbbJrVCRQIxB5W2EKIbr"
-      },
-      "artists": [
-        {
-          "name": "Stanley Turrentine",
-          "url": "https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP"
-        }
-      ],
-      "duration_ms": 295200,
-      "name": "Journey Into Melody - 2007 Digital Remaster/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/7ysmJhXFQtiBQlk6EZ6sks"
-    },
-    {
-      "added_at": "2025-11-05 13:16:42",
-      "album": {
         "name": "Fat Albert Rotunda",
         "url": "https://open.spotify.com/album/0EfpGDmzg4uuqLW7ucWCyE"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 301866,
       "name": "Tell Me a Bedtime Story",
       "url": "https://open.spotify.com/track/6eimz6jvlZaPwtflDWCTa0"
+    },
+    {
+      "added_at": "2025-11-05 13:16:42",
+      "album": {
+        "name": "Look Out! (Remastered)",
+        "url": "https://open.spotify.com/album/21YbbJrVCRQIxB5W2EKIbr"
+      },
+      "artists": [
+        {
+          "name": "Stanley Turrentine",
+          "url": "https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP"
+        }
+      ],
+      "duration_ms": 295200,
+      "name": "Journey Into Melody - 2007 Digital Remaster/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/7ysmJhXFQtiBQlk6EZ6sks"
     },
     {
       "added_at": "2025-11-05 13:16:42",
@@ -1383,18 +1383,18 @@
     {
       "added_at": "2025-11-05 13:16:42",
       "album": {
-        "name": "The Real McCoy (Remastered / Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/22HoIP0ai6Wikh4R8yM0AX"
+        "name": "Midnight Blue (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/0hMuKAciHKinu4L3R4Ojjl"
       },
       "artists": [
         {
-          "name": "McCoy Tyner",
-          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
+          "name": "Kenny Burrell",
+          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
         }
       ],
-      "duration_ms": 392000,
-      "name": "Search For Peace",
-      "url": "https://open.spotify.com/track/4qRJ7ZJyfzchEd2fjle7Bz"
+      "duration_ms": 330440,
+      "name": "Chitlins Con Carne",
+      "url": "https://open.spotify.com/track/18A1V1vsy5YgHFqb4galTw"
     },
     {
       "added_at": "2025-11-05 13:16:42",
@@ -1415,18 +1415,54 @@
     {
       "added_at": "2025-11-05 13:16:42",
       "album": {
-        "name": "Midnight Blue (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/0hMuKAciHKinu4L3R4Ojjl"
+        "name": "Now He Sings, Now He Sobs (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7wKVcBB5SgqVX3Cj3LPllE"
       },
       "artists": [
         {
-          "name": "Kenny Burrell",
-          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
+          "name": "Chick Corea",
+          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
+        },
+        {
+          "name": "Malcolm Addey",
+          "url": "https://open.spotify.com/artist/4v0dBZBhhgZctlUGPFOGyH"
         }
       ],
-      "duration_ms": 330440,
-      "name": "Chitlins Con Carne",
-      "url": "https://open.spotify.com/track/18A1V1vsy5YgHFqb4galTw"
+      "duration_ms": 214026,
+      "name": "My One And Only Love",
+      "url": "https://open.spotify.com/track/12uL43MR8byTEjtg241Z7m"
+    },
+    {
+      "added_at": "2025-11-05 13:16:42",
+      "album": {
+        "name": "The Real McCoy (Remastered / Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/22HoIP0ai6Wikh4R8yM0AX"
+      },
+      "artists": [
+        {
+          "name": "McCoy Tyner",
+          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
+        }
+      ],
+      "duration_ms": 392000,
+      "name": "Search For Peace",
+      "url": "https://open.spotify.com/track/4qRJ7ZJyfzchEd2fjle7Bz"
+    },
+    {
+      "added_at": "2025-11-05 13:16:42",
+      "album": {
+        "name": "On Time",
+        "url": "https://open.spotify.com/album/5LiPzuR79DTTmyROUm2luC"
+      },
+      "artists": [
+        {
+          "name": "Dave Brubeck",
+          "url": "https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E"
+        }
+      ],
+      "duration_ms": 354573,
+      "name": "Besame Mucho",
+      "url": "https://open.spotify.com/track/1GZD0TZJHmdQaZsucHBmWT"
     },
     {
       "added_at": "2025-11-05 13:16:42",
@@ -1467,22 +1503,6 @@
     {
       "added_at": "2025-11-05 13:16:42",
       "album": {
-        "name": "On Time",
-        "url": "https://open.spotify.com/album/5LiPzuR79DTTmyROUm2luC"
-      },
-      "artists": [
-        {
-          "name": "Dave Brubeck",
-          "url": "https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E"
-        }
-      ],
-      "duration_ms": 354573,
-      "name": "Besame Mucho",
-      "url": "https://open.spotify.com/track/1GZD0TZJHmdQaZsucHBmWT"
-    },
-    {
-      "added_at": "2025-11-05 13:16:42",
-      "album": {
         "name": "Reunion With Chet Baker",
         "url": "https://open.spotify.com/album/25FnmQMWGTGiwTGK8IKFGs"
       },
@@ -1499,26 +1519,6 @@
       "duration_ms": 286133,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/2g1iBv7SXxiXX0IEG4lz2k"
-    },
-    {
-      "added_at": "2025-11-05 13:16:42",
-      "album": {
-        "name": "Now He Sings, Now He Sobs (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7wKVcBB5SgqVX3Cj3LPllE"
-      },
-      "artists": [
-        {
-          "name": "Chick Corea",
-          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
-        },
-        {
-          "name": "Malcolm Addey",
-          "url": "https://open.spotify.com/artist/4v0dBZBhhgZctlUGPFOGyH"
-        }
-      ],
-      "duration_ms": 214026,
-      "name": "My One And Only Love",
-      "url": "https://open.spotify.com/track/12uL43MR8byTEjtg241Z7m"
     },
     {
       "added_at": "2025-11-05 13:16:42",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2025-11-05 13:16:42",
       "album": {
-        "name": "Mingus Mingus Mingus Mingus Mingus",
-        "url": "https://open.spotify.com/album/12DCd8u80PoRIvBgjQrtuH"
-      },
-      "artists": [
-        {
-          "name": "Charles Mingus",
-          "url": "https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H"
-        }
-      ],
-      "duration_ms": 285933,
-      "name": "Mood Indigo",
-      "url": "https://open.spotify.com/track/2Z7ktNuO2YsY2wS5FC62k4"
-    },
-    {
-      "added_at": "2025-11-05 13:16:42",
-      "album": {
         "name": "That Bad Eartha",
         "url": "https://open.spotify.com/album/1B9CLt71zBlS87qDLXqcqQ"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 185466,
       "name": "Let's Do It",
       "url": "https://open.spotify.com/track/67fFApZyHZ9LjsvkUQJShY"
+    },
+    {
+      "added_at": "2025-11-05 13:16:42",
+      "album": {
+        "name": "Mingus Mingus Mingus Mingus Mingus",
+        "url": "https://open.spotify.com/album/12DCd8u80PoRIvBgjQrtuH"
+      },
+      "artists": [
+        {
+          "name": "Charles Mingus",
+          "url": "https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H"
+        }
+      ],
+      "duration_ms": 285933,
+      "name": "Mood Indigo",
+      "url": "https://open.spotify.com/track/2Z7ktNuO2YsY2wS5FC62k4"
     },
     {
       "added_at": "2025-11-05 13:16:42",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2025-11-05 13:16:42",
       "album": {
-        "name": "Wild Is The Wind",
-        "url": "https://open.spotify.com/album/2EYVXfypcucR62WMKJl6Mr"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 235760,
-      "name": "If I Should Lose You",
-      "url": "https://open.spotify.com/track/6YRVj7ZJyFrr6tso0QV15e"
-    },
-    {
-      "added_at": "2025-11-05 13:16:42",
-      "album": {
         "name": "Relaxin' With The Miles Davis Quintet",
         "url": "https://open.spotify.com/album/0dyIXPKoUBt1vFJHX57dqt"
       },
@@ -1907,6 +1891,22 @@
       "duration_ms": 396960,
       "name": "It Could Happen To You",
       "url": "https://open.spotify.com/track/34xixFi5y3I5FIOH1ZWisx"
+    },
+    {
+      "added_at": "2025-11-05 13:16:42",
+      "album": {
+        "name": "Wild Is The Wind",
+        "url": "https://open.spotify.com/album/2EYVXfypcucR62WMKJl6Mr"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 235760,
+      "name": "If I Should Lose You",
+      "url": "https://open.spotify.com/track/6YRVj7ZJyFrr6tso0QV15e"
     },
     {
       "added_at": "2025-11-05 13:16:42",
@@ -2175,22 +2175,6 @@
     {
       "added_at": "2025-11-05 13:16:42",
       "album": {
-        "name": "Ballads",
-        "url": "https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        }
-      ],
-      "duration_ms": 405226,
-      "name": "I'm A Fool To Want You",
-      "url": "https://open.spotify.com/track/3kYrQXSao9IXp3EzMZQt5J"
-    },
-    {
-      "added_at": "2025-11-05 13:16:42",
-      "album": {
         "name": "Speak No Evil (The Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/27Rl7A8jXEQOkIfUKOa6ZU"
       },
@@ -2203,6 +2187,22 @@
       "duration_ms": 503786,
       "name": "Speak No Evil - Remastered1998/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/0qxiaagtTvTeNvzxHHc441"
+    },
+    {
+      "added_at": "2025-11-05 13:16:42",
+      "album": {
+        "name": "Ballads",
+        "url": "https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 405226,
+      "name": "I'm A Fool To Want You",
+      "url": "https://open.spotify.com/track/3kYrQXSao9IXp3EzMZQt5J"
     },
     {
       "added_at": "2025-11-05 13:16:42",
@@ -2427,22 +2427,6 @@
     {
       "added_at": "2025-11-05 13:16:42",
       "album": {
-        "name": "The Hub of Hubbard",
-        "url": "https://open.spotify.com/album/3TFjJOo2ycCrkiIMC0kKZa"
-      },
-      "artists": [
-        {
-          "name": "Freddie Hubbard",
-          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
-        }
-      ],
-      "duration_ms": 439120,
-      "name": "The Things We Did Last Summer",
-      "url": "https://open.spotify.com/track/1cfMdMmJqBlLn4auevv0iB"
-    },
-    {
-      "added_at": "2025-11-05 13:16:42",
-      "album": {
         "name": "Midnight Special (Remastered)",
         "url": "https://open.spotify.com/album/06gaOfTDym5Jf8FZNxwCnZ"
       },
@@ -2455,6 +2439,22 @@
       "duration_ms": 597280,
       "name": "Midnight Special - Remastered 2007/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/6oWhUfePc5h9r5pfw7wvPN"
+    },
+    {
+      "added_at": "2025-11-05 13:16:42",
+      "album": {
+        "name": "The Hub of Hubbard",
+        "url": "https://open.spotify.com/album/3TFjJOo2ycCrkiIMC0kKZa"
+      },
+      "artists": [
+        {
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+        }
+      ],
+      "duration_ms": 439120,
+      "name": "The Things We Did Last Summer",
+      "url": "https://open.spotify.com/track/1cfMdMmJqBlLn4auevv0iB"
     },
     {
       "added_at": "2025-11-05 13:16:42",
@@ -2507,22 +2507,6 @@
     {
       "added_at": "2025-11-05 13:16:42",
       "album": {
-        "name": "F\u00e4bodjazz",
-        "url": "https://open.spotify.com/album/698BkVjPZ6aBbp4OP1jLyW"
-      },
-      "artists": [
-        {
-          "name": "Lars Gullin",
-          "url": "https://open.spotify.com/artist/4gquwMHteaMQ0ZQOMj9CsI"
-        }
-      ],
-      "duration_ms": 338733,
-      "name": "Danny's Dream",
-      "url": "https://open.spotify.com/track/13hLjPatKentvawsFceF9a"
-    },
-    {
-      "added_at": "2025-11-05 13:16:42",
-      "album": {
         "name": "Adam's Apple (Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/4sxvTow8IffB0lisGJWb6Z"
       },
@@ -2535,6 +2519,22 @@
       "duration_ms": 394466,
       "name": "502 Blues (Drinkin' And Drivin') - Rudy Van Gelder Edition/2000 Digital Remaster/24 Bit Mastering",
       "url": "https://open.spotify.com/track/0F8xfPspwyXxRjsiW12mya"
+    },
+    {
+      "added_at": "2025-11-05 13:16:42",
+      "album": {
+        "name": "F\u00e4bodjazz",
+        "url": "https://open.spotify.com/album/698BkVjPZ6aBbp4OP1jLyW"
+      },
+      "artists": [
+        {
+          "name": "Lars Gullin",
+          "url": "https://open.spotify.com/artist/4gquwMHteaMQ0ZQOMj9CsI"
+        }
+      ],
+      "duration_ms": 338733,
+      "name": "Danny's Dream",
+      "url": "https://open.spotify.com/track/13hLjPatKentvawsFceF9a"
     },
     {
       "added_at": "2025-11-05 13:16:42",
@@ -2819,22 +2819,6 @@
     {
       "added_at": "2025-11-05 13:16:42",
       "album": {
-        "name": "The Charlie Parker Story",
-        "url": "https://open.spotify.com/album/2jgWsNu1Nq8H8ZpPgHhYw8"
-      },
-      "artists": [
-        {
-          "name": "Charlie Parker",
-          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
-        }
-      ],
-      "duration_ms": 173733,
-      "name": "Koko - Original Take 2",
-      "url": "https://open.spotify.com/track/0d6m2xfXqMyEKOeRvfL7Ot"
-    },
-    {
-      "added_at": "2025-11-05 13:16:42",
-      "album": {
         "name": "Belonging",
         "url": "https://open.spotify.com/album/6dmq2NJgWAvrzRVrpPwkzv"
       },
@@ -2859,6 +2843,22 @@
       "duration_ms": 370866,
       "name": "'Long As You Know You're Living Yours",
       "url": "https://open.spotify.com/track/5z7deaTe21B7QVPhSDouL1"
+    },
+    {
+      "added_at": "2025-11-05 13:16:42",
+      "album": {
+        "name": "The Charlie Parker Story",
+        "url": "https://open.spotify.com/album/2jgWsNu1Nq8H8ZpPgHhYw8"
+      },
+      "artists": [
+        {
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+        }
+      ],
+      "duration_ms": 173733,
+      "name": "Koko - Original Take 2",
+      "url": "https://open.spotify.com/track/0d6m2xfXqMyEKOeRvfL7Ot"
     },
     {
       "added_at": "2025-11-05 13:16:42",
@@ -2959,22 +2959,6 @@
     {
       "added_at": "2025-11-05 13:16:42",
       "album": {
-        "name": "Something Wonderful",
-        "url": "https://open.spotify.com/album/7HtSgNU7pzv4zeMldVdHav"
-      },
-      "artists": [
-        {
-          "name": "Nancy Wilson",
-          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
-        }
-      ],
-      "duration_ms": 147666,
-      "name": "What A Little Moonlight Can Do - Remastered",
-      "url": "https://open.spotify.com/track/0KDn1UsD2ym34dCT4P9ebj"
-    },
-    {
-      "added_at": "2025-11-05 13:16:42",
-      "album": {
         "name": "Art Pepper + Eleven: Modern Jazz Classics",
         "url": "https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ"
       },
@@ -2987,6 +2971,22 @@
       "duration_ms": 178533,
       "name": "Four Brothers",
       "url": "https://open.spotify.com/track/2cOSF20k8VkEoXllO0PsbG"
+    },
+    {
+      "added_at": "2025-11-05 13:16:42",
+      "album": {
+        "name": "Something Wonderful",
+        "url": "https://open.spotify.com/album/7HtSgNU7pzv4zeMldVdHav"
+      },
+      "artists": [
+        {
+          "name": "Nancy Wilson",
+          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
+        }
+      ],
+      "duration_ms": 147666,
+      "name": "What A Little Moonlight Can Do - Remastered",
+      "url": "https://open.spotify.com/track/0KDn1UsD2ym34dCT4P9ebj"
     },
     {
       "added_at": "2025-11-05 13:16:42",

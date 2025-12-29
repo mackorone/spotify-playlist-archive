@@ -1,12 +1,12 @@
 {
   "description": "This is Big Mama Thornton. The essential tracks, all in one playlist.",
-  "num_followers": 16232,
+  "num_followers": 16251,
   "original_name": "This Is Big Mama Thornton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU3QAAAAAAA5L1UT6WFQwcc8H5GHUpsa",
+  "snapshot_id": "aU8hgAAAAADd/mwJy0v/pWAWi6gKcT6C",
   "tracks": [
     {
       "added_at": null,
@@ -415,6 +415,58 @@
     {
       "added_at": null,
       "album": {
+        "name": "Roots Of Rock & Roll",
+        "url": "https://open.spotify.com/album/361U0QdVGbCscARmmFWU40"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 298666,
+      "name": "Tell Me Baby - Live",
+      "url": "https://open.spotify.com/track/05eznJvVnCAP0O7FaB3Vh9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sassy Mama!",
+        "url": "https://open.spotify.com/album/5sI6pTdHmrMCrTccZUR1uR"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 282066,
+      "name": "Rolling Stone",
+      "url": "https://open.spotify.com/track/4syiVgtW4adOkGLfmPZe2B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Big Mama Thornton with the Muddy Waters Blues Band 1966",
+        "url": "https://open.spotify.com/album/1GhQkAGbg2ciWb6BDNHKIB"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters Blues Band",
+          "url": "https://open.spotify.com/artist/3r8nssufxenC7JoWBfKfNK"
+        },
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 253080,
+      "name": "Big Mama's Bumble Bee",
+      "url": "https://open.spotify.com/track/6KsFxI75KQaDehezuHcdv8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hound Dog / The Peacock Recordings",
         "url": "https://open.spotify.com/album/02B0EXcXyArity4IKXXo5S"
       },
@@ -440,45 +492,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 298666,
-      "name": "Tell Me Baby - Live",
-      "url": "https://open.spotify.com/track/05eznJvVnCAP0O7FaB3Vh9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Big Mama Thornton with the Muddy Waters Blues Band 1966",
-        "url": "https://open.spotify.com/album/1GhQkAGbg2ciWb6BDNHKIB"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters Blues Band",
-          "url": "https://open.spotify.com/artist/3r8nssufxenC7JoWBfKfNK"
-        },
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 253080,
-      "name": "Big Mama's Bumble Bee",
-      "url": "https://open.spotify.com/track/6KsFxI75KQaDehezuHcdv8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sassy Mama!",
-        "url": "https://open.spotify.com/album/5sI6pTdHmrMCrTccZUR1uR"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 282066,
-      "name": "Rolling Stone",
-      "url": "https://open.spotify.com/track/4syiVgtW4adOkGLfmPZe2B"
+      "duration_ms": 366693,
+      "name": "Sweet Little Angel / 3 O'Clock In The Mornin' - Live",
+      "url": "https://open.spotify.com/track/6jcLWtkXwvFoIK5sbXeAFJ"
     },
     {
       "added_at": null,
@@ -499,8 +515,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Roots Of Rock & Roll",
-        "url": "https://open.spotify.com/album/361U0QdVGbCscARmmFWU40"
+        "name": "In Europe",
+        "url": "https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz"
       },
       "artists": [
         {
@@ -508,9 +524,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 366693,
-      "name": "Sweet Little Angel / 3 O'Clock In The Mornin' - Live",
-      "url": "https://open.spotify.com/track/6jcLWtkXwvFoIK5sbXeAFJ"
+      "duration_ms": 155906,
+      "name": "The Place",
+      "url": "https://open.spotify.com/track/3UpeJgzCMu4kT1idGQd98U"
     },
     {
       "added_at": null,
@@ -531,38 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Europe",
-        "url": "https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 155906,
-      "name": "The Place",
-      "url": "https://open.spotify.com/track/3UpeJgzCMu4kT1idGQd98U"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stronger Than Dirt",
-        "url": "https://open.spotify.com/album/5RgBzyz655O88ue7VJyN1l"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 223000,
-      "name": "Ain't Nothin' You Can Do",
-      "url": "https://open.spotify.com/track/5xuRbSGk9NtXOIhLnov3E1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vanguard Visionaries",
         "url": "https://open.spotify.com/album/0stTggxNXyDdU256QF94Z1"
       },
@@ -579,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hound Dog / The Peacock Recordings",
-        "url": "https://open.spotify.com/album/02B0EXcXyArity4IKXXo5S"
+        "name": "Stronger Than Dirt",
+        "url": "https://open.spotify.com/album/5RgBzyz655O88ue7VJyN1l"
       },
       "artists": [
         {
@@ -588,9 +572,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 181066,
-      "name": "Walking Blues",
-      "url": "https://open.spotify.com/track/2JLgnsgTIFbOvDGvbzninQ"
+      "duration_ms": 223000,
+      "name": "Ain't Nothin' You Can Do",
+      "url": "https://open.spotify.com/track/5xuRbSGk9NtXOIhLnov3E1"
     },
     {
       "added_at": null,
@@ -627,8 +611,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Real Cool Cat",
-        "url": "https://open.spotify.com/album/4ZTvUA6m87dAY6tXAYV25p"
+        "name": "Hound Dog / The Peacock Recordings",
+        "url": "https://open.spotify.com/album/02B0EXcXyArity4IKXXo5S"
       },
       "artists": [
         {
@@ -636,9 +620,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 160543,
-      "name": "Laugh, Laugh, Laugh",
-      "url": "https://open.spotify.com/track/2WQlIEjPYuVRqbz3EIbm0y"
+      "duration_ms": 181066,
+      "name": "Walking Blues",
+      "url": "https://open.spotify.com/track/2JLgnsgTIFbOvDGvbzninQ"
     },
     {
       "added_at": null,
@@ -659,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Europe",
-        "url": "https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz"
+        "name": "Real Cool Cat",
+        "url": "https://open.spotify.com/album/4ZTvUA6m87dAY6tXAYV25p"
       },
       "artists": [
         {
@@ -668,9 +652,9 @@
           "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
         }
       ],
-      "duration_ms": 307306,
-      "name": "Chauffeur Blues",
-      "url": "https://open.spotify.com/track/4Gj5Ngw2L6yJxh7L9LmISH"
+      "duration_ms": 160543,
+      "name": "Laugh, Laugh, Laugh",
+      "url": "https://open.spotify.com/track/2WQlIEjPYuVRqbz3EIbm0y"
     },
     {
       "added_at": null,
@@ -703,6 +687,22 @@
       "duration_ms": 357600,
       "name": "Sweet Little Angel / Three O\u2019Clock Blues - 2022 Remaster",
       "url": "https://open.spotify.com/track/360UeRjtmNBPX76fwESnTo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In Europe",
+        "url": "https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 307306,
+      "name": "Chauffeur Blues",
+      "url": "https://open.spotify.com/track/4Gj5Ngw2L6yJxh7L9LmISH"
     },
     {
       "added_at": null,

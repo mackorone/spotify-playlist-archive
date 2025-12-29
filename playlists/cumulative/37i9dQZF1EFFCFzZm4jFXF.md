@@ -4,11 +4,12 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/74wXW513Ovy4ux507Wo67A">Brad Mair</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-128 songs - 7 hr 3 min
+129 songs - 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Adelaide](https://open.spotify.com/track/3pZghavVnbU6iDRPXVRc5v) | [Horxata](https://open.spotify.com/artist/3QkSqgd7THUtqWlJjL4iRn), [Nova Tropics](https://open.spotify.com/artist/5Z20EyBaysJXOw9suCDqsK) | [Adelaide](https://open.spotify.com/album/1nf7jCiBe4AgaUxTp4kQ7e) | 2:15 | 2025-11-23 |  |
+| [Ain't Letting You Down](https://open.spotify.com/track/2U3K7r9F5Ufnj2hkaKwR0M) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Saksham](https://open.spotify.com/artist/0v51lDHIlZBqe2F6yEeskF), [Scott Quinn](https://open.spotify.com/artist/0FlBLkbHEvmCMu2X46Ail1) | [ORIGO](https://open.spotify.com/album/1Fw0y4iPr8b9SF3pohkBic) | 4:21 | 2025-12-28 |  |
 | [Backing Down](https://open.spotify.com/track/69Rnbe26tmlQSQUgRFvneJ) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Volume One](https://open.spotify.com/album/0U2US6liFchgyXBw7nZozm) | 3:48 | 2024-06-13 |  |
 | [Be Somebody](https://open.spotify.com/track/4nIxZavnMBkkxhwG51rxKL) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Be Somebody](https://open.spotify.com/album/33oa00iV73jFXgmKh53U9y) | 2:56 | 2024-06-13 |  |
 | [Beautiful](https://open.spotify.com/track/3nM6TlNmnR7gFmcWB3vojl) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Small Town Boy \(Track By Track\)](https://open.spotify.com/album/4fEgAL4ge9hHhxVDCUZbeF) | 4:17 | 2024-06-13 |  |

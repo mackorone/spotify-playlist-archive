@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Brown. The essential tracks, all in one playlist.",
-  "num_followers": 971294,
+  "num_followers": 971379,
   "original_name": "This Is Chris Brown",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU3QAAAAAADiSw4PVMHOguBxrb8NZlnz",
+  "snapshot_id": "aU8hgAAAAACBVLdTGHDMmYlsfIJ0JQzZ",
   "tracks": [
     {
       "added_at": null,
@@ -327,30 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HEROES & VILLAINS",
-        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
-      },
-      "artists": [
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 182666,
-      "name": "Superhero (Heroes & Villains) [with Future & Chris Brown]",
-      "url": "https://open.spotify.com/track/0vjeOZ3Ft5jvAi9SBFJm1j"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "X (Expanded Edition)",
         "url": "https://open.spotify.com/album/3LByoNjO4gbuX5D0u26LDY"
       },
@@ -371,6 +347,30 @@
       "duration_ms": 244136,
       "name": "New Flame (feat. Usher & Rick Ross)",
       "url": "https://open.spotify.com/track/3fBbfrWZUuWWrMQXFISr7N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HEROES & VILLAINS",
+        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 182666,
+      "name": "Superhero (Heroes & Villains) [with Future & Chris Brown]",
+      "url": "https://open.spotify.com/track/0vjeOZ3Ft5jvAi9SBFJm1j"
     },
     {
       "added_at": null,
@@ -571,30 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Do It Again",
-        "url": "https://open.spotify.com/album/3kBBntDYL62xlqgnulskwv"
-      },
-      "artists": [
-        {
-          "name": "Pia Mia",
-          "url": "https://open.spotify.com/artist/1BhWF9W2PngtPSyobKg0rP"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 207746,
-      "name": "Do It Again",
-      "url": "https://open.spotify.com/track/72Bz4ciRZPBcVSw0nrZDHi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "F.A.M.E. (Expanded Edition)",
         "url": "https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb"
       },
@@ -615,6 +591,30 @@
       "duration_ms": 276560,
       "name": "Deuces (feat. Tyga & Kevin McCall)",
       "url": "https://open.spotify.com/track/6wN4nT2qy3MQc098yL3Eu9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Do It Again",
+        "url": "https://open.spotify.com/album/3kBBntDYL62xlqgnulskwv"
+      },
+      "artists": [
+        {
+          "name": "Pia Mia",
+          "url": "https://open.spotify.com/artist/1BhWF9W2PngtPSyobKg0rP"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 207746,
+      "name": "Do It Again",
+      "url": "https://open.spotify.com/track/72Bz4ciRZPBcVSw0nrZDHi"
     },
     {
       "added_at": null,
@@ -783,26 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Easy (Remix)",
-        "url": "https://open.spotify.com/album/07oupZyy8xBQq0RQmXmg5z"
-      },
-      "artists": [
-        {
-          "name": "DaniLeigh",
-          "url": "https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 186586,
-      "name": "Easy - Remix",
-      "url": "https://open.spotify.com/track/4CMrdHWqic0usIZfTrKoI3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "F.A.M.E. (Expanded Edition)",
         "url": "https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 222586,
       "name": "Look At Me Now (feat. Lil' Wayne & Busta Rhymes)",
       "url": "https://open.spotify.com/track/3hsmbFKT5Cujb5GQjqEU39"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Easy (Remix)",
+        "url": "https://open.spotify.com/album/07oupZyy8xBQq0RQmXmg5z"
+      },
+      "artists": [
+        {
+          "name": "DaniLeigh",
+          "url": "https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 186586,
+      "name": "Easy - Remix",
+      "url": "https://open.spotify.com/track/4CMrdHWqic0usIZfTrKoI3"
     },
     {
       "added_at": null,
@@ -871,6 +871,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "F.A.M.E. (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        }
+      ],
+      "duration_ms": 266306,
+      "name": "Wet The Bed (feat. Ludacris)",
+      "url": "https://open.spotify.com/track/2xRGPubKBTHX6iyrpQvtCy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fan of A Fan The Album (Expanded Edition)",
         "url": "https://open.spotify.com/album/4neocSMt40stXKK2B8Sy2G"
       },
@@ -891,26 +911,6 @@
       "duration_ms": 286372,
       "name": "Lights Out (feat. Fat Trel)",
       "url": "https://open.spotify.com/track/77ZhzP75wx1qzhFG4P7vyt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "F.A.M.E. (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Ludacris",
-          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
-        }
-      ],
-      "duration_ms": 266306,
-      "name": "Wet The Bed (feat. Ludacris)",
-      "url": "https://open.spotify.com/track/2xRGPubKBTHX6iyrpQvtCy"
     },
     {
       "added_at": null,

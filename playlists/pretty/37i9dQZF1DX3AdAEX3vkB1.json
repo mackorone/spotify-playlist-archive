@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1960s.",
-  "num_followers": 321510,
+  "num_followers": 321657,
   "original_name": "60s Party",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Hold On, I'm Comin'",
-        "url": "https://open.spotify.com/album/2PBsbww0MYw9F1JzyYWIEO"
-      },
-      "artists": [
-        {
-          "name": "Sam & Dave",
-          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
-        }
-      ],
-      "duration_ms": 155706,
-      "name": "Hold On, I'm Comin'",
-      "url": "https://open.spotify.com/track/6PgVDY8GTkxF3GmhVGPzoB"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "The Supremes A' Go-Go (Expanded Edition)",
         "url": "https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 167933,
       "name": "You Can't Hurry Love",
       "url": "https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Hold On, I'm Comin'",
+        "url": "https://open.spotify.com/album/2PBsbww0MYw9F1JzyYWIEO"
+      },
+      "artists": [
+        {
+          "name": "Sam & Dave",
+          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
+        }
+      ],
+      "duration_ms": 155706,
+      "name": "Hold On, I'm Comin'",
+      "url": "https://open.spotify.com/track/6PgVDY8GTkxF3GmhVGPzoB"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "A's, B's & EP's",
-        "url": "https://open.spotify.com/album/1GocNvETatEei10ng7bpJ9"
-      },
-      "artists": [
-        {
-          "name": "Herman's Hermits",
-          "url": "https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V"
-        }
-      ],
-      "duration_ms": 174333,
-      "name": "No Milk Today - Mono Version",
-      "url": "https://open.spotify.com/track/02Y0CtzmhTLjTOg0cWvAhq"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Heat Wave",
         "url": "https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 163053,
       "name": "(Love Is Like A) Heat Wave",
       "url": "https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "A's, B's & EP's",
+        "url": "https://open.spotify.com/album/1GocNvETatEei10ng7bpJ9"
+      },
+      "artists": [
+        {
+          "name": "Herman's Hermits",
+          "url": "https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V"
+        }
+      ],
+      "duration_ms": 174333,
+      "name": "No Milk Today - Mono Version",
+      "url": "https://open.spotify.com/track/02Y0CtzmhTLjTOg0cWvAhq"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1149,22 +1149,6 @@
       "url": "https://open.spotify.com/track/0i7O5MtSTXvR4BEY7stpjF"
     },
     {
-      "added_at": "2023-05-30 09:14:29",
-      "album": {
-        "name": "The Complete Johnny Kidd Vol 1 & 2",
-        "url": "https://open.spotify.com/album/34pUE4ZtTaXTdvZ5l39OL1"
-      },
-      "artists": [
-        {
-          "name": "Johnny Kidd & The Pirates",
-          "url": "https://open.spotify.com/artist/52y1cRHUkI0kQqIXCg6JuZ"
-        }
-      ],
-      "duration_ms": 141960,
-      "name": "Shakin' All Over",
-      "url": "https://open.spotify.com/track/6Xv160PuntxAtb67Ed4t4I"
-    },
-    {
       "added_at": "2022-06-16 22:02:00",
       "album": {
         "name": "Take Two",
@@ -1183,6 +1167,22 @@
       "duration_ms": 177666,
       "name": "It Takes Two",
       "url": "https://open.spotify.com/track/0UERoCKd24PKovd4BwRzBQ"
+    },
+    {
+      "added_at": "2023-05-30 09:14:29",
+      "album": {
+        "name": "The Complete Johnny Kidd Vol 1 & 2",
+        "url": "https://open.spotify.com/album/34pUE4ZtTaXTdvZ5l39OL1"
+      },
+      "artists": [
+        {
+          "name": "Johnny Kidd & The Pirates",
+          "url": "https://open.spotify.com/artist/52y1cRHUkI0kQqIXCg6JuZ"
+        }
+      ],
+      "duration_ms": 141960,
+      "name": "Shakin' All Over",
+      "url": "https://open.spotify.com/track/6Xv160PuntxAtb67Ed4t4I"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Pat Boone's Greatest Hits (Reissue)",
-        "url": "https://open.spotify.com/album/4UfDMjg8GFc3RZx5KILDlZ"
-      },
-      "artists": [
-        {
-          "name": "Pat Boone",
-          "url": "https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu"
-        }
-      ],
-      "duration_ms": 153093,
-      "name": "Speedy Gonzales",
-      "url": "https://open.spotify.com/track/3TmnUIbelFiDzrhZqavHU0"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Collections",
         "url": "https://open.spotify.com/album/7s1t3zA17RfNVhMYv2v52o"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 136266,
       "name": "Breaking Up Is Hard to Do",
       "url": "https://open.spotify.com/track/7utoClKnLShFg6u6dZ20gp"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Pat Boone's Greatest Hits (Reissue)",
+        "url": "https://open.spotify.com/album/4UfDMjg8GFc3RZx5KILDlZ"
+      },
+      "artists": [
+        {
+          "name": "Pat Boone",
+          "url": "https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu"
+        }
+      ],
+      "duration_ms": 153093,
+      "name": "Speedy Gonzales",
+      "url": "https://open.spotify.com/track/3TmnUIbelFiDzrhZqavHU0"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Things & Other Things",
-        "url": "https://open.spotify.com/album/7wyMqH6vUeHYT09iaWhtx3"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 151413,
-      "name": "Things",
-      "url": "https://open.spotify.com/track/5hgei65n0pGJ9uUHo8v2en"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Helen Shapiro",
         "url": "https://open.spotify.com/album/4D3i5fQz4JOYHndcmflSqz"
       },
@@ -1475,18 +1459,18 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/6J4iMx3rWJ0lFmSPdI14Io"
+        "name": "Things & Other Things",
+        "url": "https://open.spotify.com/album/7wyMqH6vUeHYT09iaWhtx3"
       },
       "artists": [
         {
-          "name": "Gary Puckett & The Union Gap",
-          "url": "https://open.spotify.com/artist/4asCC4oxQcDzFXhCth2SgQ"
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
         }
       ],
-      "duration_ms": 191266,
-      "name": "Young Girl",
-      "url": "https://open.spotify.com/track/28E3Hw3po6GAA83aB9vHSz"
+      "duration_ms": 151413,
+      "name": "Things",
+      "url": "https://open.spotify.com/track/5hgei65n0pGJ9uUHo8v2en"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1503,6 +1487,22 @@
       "duration_ms": 157026,
       "name": "Happy Birthday, Sweet Sixteen",
       "url": "https://open.spotify.com/track/5ttys6S3vGWCgOpiuB5axN"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/6J4iMx3rWJ0lFmSPdI14Io"
+      },
+      "artists": [
+        {
+          "name": "Gary Puckett & The Union Gap",
+          "url": "https://open.spotify.com/artist/4asCC4oxQcDzFXhCth2SgQ"
+        }
+      ],
+      "duration_ms": 191266,
+      "name": "Young Girl",
+      "url": "https://open.spotify.com/track/28E3Hw3po6GAA83aB9vHSz"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Playboy",
-        "url": "https://open.spotify.com/album/0XuV6U9ee6UB1faItAbEic"
-      },
-      "artists": [
-        {
-          "name": "The Marvelettes",
-          "url": "https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH"
-        }
-      ],
-      "duration_ms": 164840,
-      "name": "Playboy",
-      "url": "https://open.spotify.com/track/5jsxE1nDuRrEgN9gmbWWYS"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "The Dimension Dolls",
         "url": "https://open.spotify.com/album/6zur7suYuG3M6dFXxUbGE9"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 148626,
       "name": "The Loco-Motion - Single Version",
       "url": "https://open.spotify.com/track/1hClDWPgajpLIFjLOkFuau"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Playboy",
+        "url": "https://open.spotify.com/album/0XuV6U9ee6UB1faItAbEic"
+      },
+      "artists": [
+        {
+          "name": "The Marvelettes",
+          "url": "https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH"
+        }
+      ],
+      "duration_ms": 164840,
+      "name": "Playboy",
+      "url": "https://open.spotify.com/track/5jsxE1nDuRrEgN9gmbWWYS"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1803,6 +1803,38 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "Needles & Pins",
+        "url": "https://open.spotify.com/album/0i2VaiznHnihFRJq7iHRG0"
+      },
+      "artists": [
+        {
+          "name": "The Searchers",
+          "url": "https://open.spotify.com/artist/4QmkLL9JOqM9dusHS1Hghe"
+        }
+      ],
+      "duration_ms": 131360,
+      "name": "Needles and Pins - Mono",
+      "url": "https://open.spotify.com/track/0zABw1PtGYHsU4VDpDZsra"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Groovin' with Manfred Mann",
+        "url": "https://open.spotify.com/album/24uIWywoZqArplgomqtvfW"
+      },
+      "artists": [
+        {
+          "name": "Manfred Mann",
+          "url": "https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ"
+        }
+      ],
+      "duration_ms": 143400,
+      "name": "Do Wah Diddy Diddy",
+      "url": "https://open.spotify.com/track/7gEpTMp9MQc1uJwivtL37R"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "United",
         "url": "https://open.spotify.com/album/6sbZYwwQB15bt5TgkPFAdb"
       },
@@ -1839,22 +1871,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/2LTIOQBvQt6ubWJQiQSxS9"
-      },
-      "artists": [
-        {
-          "name": "The Easybeats",
-          "url": "https://open.spotify.com/artist/1pJEZXU2hJApJW3rM7LmMu"
-        }
-      ],
-      "duration_ms": 163293,
-      "name": "Friday on My Mind",
-      "url": "https://open.spotify.com/track/2CT08rpgdut8qQs7IAzMGi"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Up-Tight Everything's Alright",
         "url": "https://open.spotify.com/album/79jRgkYwwfQjxkB1qd5mAP"
       },
@@ -1871,6 +1887,22 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/2LTIOQBvQt6ubWJQiQSxS9"
+      },
+      "artists": [
+        {
+          "name": "The Easybeats",
+          "url": "https://open.spotify.com/artist/1pJEZXU2hJApJW3rM7LmMu"
+        }
+      ],
+      "duration_ms": 163293,
+      "name": "Friday on My Mind",
+      "url": "https://open.spotify.com/track/2CT08rpgdut8qQs7IAzMGi"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "Rhino Hi-Five: Arthur Conley",
         "url": "https://open.spotify.com/album/6dYQhuDC49jXh7YvTtb0oT"
       },
@@ -1883,22 +1915,6 @@
       "duration_ms": 141066,
       "name": "Sweet Soul Music",
       "url": "https://open.spotify.com/track/0pvA063uNyGQFp7DNtmk0P"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "Needles & Pins",
-        "url": "https://open.spotify.com/album/0i2VaiznHnihFRJq7iHRG0"
-      },
-      "artists": [
-        {
-          "name": "The Searchers",
-          "url": "https://open.spotify.com/artist/4QmkLL9JOqM9dusHS1Hghe"
-        }
-      ],
-      "duration_ms": 131360,
-      "name": "Needles and Pins - Mono",
-      "url": "https://open.spotify.com/track/0zABw1PtGYHsU4VDpDZsra"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1935,18 +1951,18 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Groovin' with Manfred Mann",
-        "url": "https://open.spotify.com/album/24uIWywoZqArplgomqtvfW"
+        "name": "Along Came Tom Jones",
+        "url": "https://open.spotify.com/album/4qhk3MMtFC8V29bUn9GB5g"
       },
       "artists": [
         {
-          "name": "Manfred Mann",
-          "url": "https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ"
+          "name": "Tom Jones",
+          "url": "https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5"
         }
       ],
-      "duration_ms": 143400,
-      "name": "Do Wah Diddy Diddy",
-      "url": "https://open.spotify.com/track/7gEpTMp9MQc1uJwivtL37R"
+      "duration_ms": 119800,
+      "name": "It's Not Unusual",
+      "url": "https://open.spotify.com/track/67csrS6po7IyXfwds4azjr"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1967,22 +1983,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Along Came Tom Jones",
-        "url": "https://open.spotify.com/album/4qhk3MMtFC8V29bUn9GB5g"
-      },
-      "artists": [
-        {
-          "name": "Tom Jones",
-          "url": "https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5"
-        }
-      ],
-      "duration_ms": 119800,
-      "name": "It's Not Unusual",
-      "url": "https://open.spotify.com/track/67csrS6po7IyXfwds4azjr"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "More Hits By The Supremes - Expanded Edition",
         "url": "https://open.spotify.com/album/5Z9hrH7aGLMT9s6lNYx2HH"
       },
@@ -1995,6 +1995,26 @@
       "duration_ms": 172933,
       "name": "Stop! In The Name Of Love",
       "url": "https://open.spotify.com/track/5yfrc6CGOXxDWx3nGUDcNj"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "The 50th Anniversary Collection",
+        "url": "https://open.spotify.com/album/6qjdgmUrq3X20R9mB5goM8"
+      },
+      "artists": [
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        },
+        {
+          "name": "James Brown & The Famous Flames",
+          "url": "https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr"
+        }
+      ],
+      "duration_ms": 166053,
+      "name": "I Got You (I Feel Good)",
+      "url": "https://open.spotify.com/track/7E8VSUdBkRURoqzEQ7jQgb"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -2155,26 +2175,6 @@
       "duration_ms": 154946,
       "name": "I Only Want To Be With You",
       "url": "https://open.spotify.com/track/0FlITClPKfKqQxVHzFD3iF"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "The 50th Anniversary Collection",
-        "url": "https://open.spotify.com/album/6qjdgmUrq3X20R9mB5goM8"
-      },
-      "artists": [
-        {
-          "name": "James Brown",
-          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
-        },
-        {
-          "name": "James Brown & The Famous Flames",
-          "url": "https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr"
-        }
-      ],
-      "duration_ms": 166053,
-      "name": "I Got You (I Feel Good)",
-      "url": "https://open.spotify.com/track/7E8VSUdBkRURoqzEQ7jQgb"
     },
     {
       "added_at": "2022-06-16 22:02:00",

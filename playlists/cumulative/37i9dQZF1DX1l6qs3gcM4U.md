@@ -4,7 +4,7 @@
 
 > Fall in love with the sensual sounds of Kizomba! Cover: DENNYH
 
-628 songs - 1 day 12 hr 8 min
+629 songs - 1 day 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -312,6 +312,7 @@
 | [Maya](https://open.spotify.com/track/76lnq6raCPupukROLdLmwG) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Voyage \(Part III\)](https://open.spotify.com/album/2YxiYrbic25u1RdERSPmoa) | 3:30 | 2024-11-08 | 2025-10-03 |
 | [MAZ UM BEIJO](https://open.spotify.com/track/5jm17DxeJ0u5wgqpBOrweD) | [DENNYH](https://open.spotify.com/artist/3hfYUtuERUNyMTi8OKvE5u) | [MAZ UM BEIJO](https://open.spotify.com/album/0FpmtHrC2cjAp44hVMTeDq) | 3:01 | 2025-02-14 | 2025-11-14 |
 | [Maz um Bez](https://open.spotify.com/track/3i51mGFIPlxIMr8XfNMZkT) | [Mr\. Carly](https://open.spotify.com/artist/4BofeMOqLTsJy8xcSQaJzE), [Flavia](https://open.spotify.com/artist/0As0WODg9QYtHKWGb1eMNR) | [Maz um Bez](https://open.spotify.com/album/2txbkYlDryHQ8EXwwD35It) | 3:40 | 2022-06-16 | 2022-06-29 |
+| [Mbina](https://open.spotify.com/track/1RsifgY1c5nNm4SxN8cbLw) | [Nice Life](https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ), [Dj Snakes](https://open.spotify.com/artist/37Whw4C8AvrtIhjj2TLM1o) | [Mbina](https://open.spotify.com/album/4KI4Ktmw73oktGdiIToc58) | 4:18 | 2025-12-19 |  |
 | [Me Agarra So' No Uhm!](https://open.spotify.com/track/5nUSHjOlAyF6a6AaEuq6k5) | [Landrick](https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU) | [Mais Kizomba Hits](https://open.spotify.com/album/5SVQJF5cnfUR2qlAnFmslB) | 3:40 | 2022-03-25 | 2022-04-18 |
 | [Me Dão Na Cara](https://open.spotify.com/track/1lvAa1i6csI91Qu8I6pRjp) | [Yudi Fox](https://open.spotify.com/artist/3nv6fTNnQNbSDGxU9f9oSG), [Jenny Brown](https://open.spotify.com/artist/7d7gQ2vrrYzj2lgmGtvGtY) | [O Outro Lado](https://open.spotify.com/album/7DQMiAp7BZiJQaMYTnMeY6) | 3:28 | 2021-12-10 | 2022-07-25 |
 | [Me Leva Contigo](https://open.spotify.com/track/1iRDn08Im0yWFH1b7oZ6E5) | [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa) | [Me Leva Contigo](https://open.spotify.com/album/7lBcm5RypJALhpWxsjh7sM) | 4:18 | 2021-12-10 | 2024-09-27 |
@@ -544,7 +545,7 @@
 | [Teu Corpo](https://open.spotify.com/track/0iMMM4RZlHlAzO6SUoTZem) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Teu Corpo](https://open.spotify.com/album/6glIpMZ4hkezv8VuF80j63) | 2:50 | 2023-01-13 | 2025-09-13 |
 | [Teu Ego](https://open.spotify.com/track/2ZQdBUpl0oLp97sZ1F5vdQ) | [Ivan Alekxei](https://open.spotify.com/artist/4kR1QWyFVV4vr0JxkWv7EC), [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa) | [Teu Ego](https://open.spotify.com/album/2Q1f06VzUef6eeyAwa4QKa) | 4:46 | 2021-12-10 |  |
 | [the baddest chick](https://open.spotify.com/track/1t55U66XG9MawctYvk5yU7) | [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy), [Elizio](https://open.spotify.com/artist/3CgDThuyfOl91zIAzg8TX7) | [the baddest chick](https://open.spotify.com/album/0TKgn8pazEe4KrpvfMivtm) | 3:52 | 2025-01-31 | 2025-02-21 |
-| [The Best](https://open.spotify.com/track/0iSoRQn44pm6j5JOM1LKww) | [Halison Paixão](https://open.spotify.com/artist/1lNVs3gqrX6Qw01FqnP12N) | [The Best](https://open.spotify.com/album/5jUjS2T7cQaGWQXKHJP72b) | 2:44 | 2025-06-20 |  |
+| [The Best](https://open.spotify.com/track/0iSoRQn44pm6j5JOM1LKww) | [Halison Paixão](https://open.spotify.com/artist/1lNVs3gqrX6Qw01FqnP12N) | [The Best](https://open.spotify.com/album/5jUjS2T7cQaGWQXKHJP72b) | 2:44 | 2025-06-20 | 2025-12-29 |
 | [Ti Ki Manxi](https://open.spotify.com/track/1pBDxTDBUBWT3nGaxNok1X) | [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7) | [Oceans](https://open.spotify.com/album/0azV0VJOOb69QpmqUjy7ku) | 4:29 | 2024-08-01 | 2024-08-16 |
 | [Ti Matar](https://open.spotify.com/track/6jahSkpRrPt4PRzlVViMtN) | [Nice Life](https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ), [Delio Tala](https://open.spotify.com/artist/5dJVFpMbbup478DAWzBRZS) | [Ti Matar](https://open.spotify.com/album/4DTsQogJqwObqLwjmJPNSQ) | 3:46 | 2022-07-22 | 2024-05-15 |
 | [Tipo Louco](https://open.spotify.com/track/22i5x1cpezxFnjCYxWaNFG) | [Boy Teddy](https://open.spotify.com/artist/14W9ZwBj7ccu21CPJtenCh) | [Adsum II EP](https://open.spotify.com/album/4LY6XD9teeBGFz6r28V5w0) | 3:39 | 2025-06-05 | 2025-08-09 |

@@ -1,6 +1,6 @@
 {
   "description": "Your ultimate gym playlist featuring upbeat Marathi tracks.",
-  "num_followers": 34999,
+  "num_followers": 35017,
   "original_name": "Marathi Workout",
   "owner": {
     "name": "Spotify",
@@ -367,6 +367,34 @@
     {
       "added_at": "2025-12-09 11:43:07",
       "album": {
+        "name": "Majhi Navri",
+        "url": "https://open.spotify.com/album/37mQ476fRfiAiBl2cW1LbT"
+      },
+      "artists": [
+        {
+          "name": "Sonali Sonawane",
+          "url": "https://open.spotify.com/artist/4SG93C6umdFmpTKj9glUh3"
+        },
+        {
+          "name": "Keval Walanj",
+          "url": "https://open.spotify.com/artist/6Wswgu5myN8iTStK7FoGh4"
+        },
+        {
+          "name": "Vishnupriya",
+          "url": "https://open.spotify.com/artist/02tdlcWysk429Q3xMT62L7"
+        },
+        {
+          "name": "Sai Patil",
+          "url": "https://open.spotify.com/artist/4t3ZUbQcJRgD7O6UYU70TI"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Majhi Navri",
+      "url": "https://open.spotify.com/track/35h2x2FdA82bUs90mP8S7Q"
+    },
+    {
+      "added_at": "2025-12-09 11:43:07",
+      "album": {
         "name": "Mi Naadkhula",
         "url": "https://open.spotify.com/album/6m3N9YsnIcuut4zpsxKv2l"
       },
@@ -395,34 +423,6 @@
       "duration_ms": 259894,
       "name": "Mi Naadkhula",
       "url": "https://open.spotify.com/track/2hbmcE3ajWAh66EH9s2P29"
-    },
-    {
-      "added_at": "2025-12-09 11:43:07",
-      "album": {
-        "name": "Majhi Navri",
-        "url": "https://open.spotify.com/album/37mQ476fRfiAiBl2cW1LbT"
-      },
-      "artists": [
-        {
-          "name": "Sonali Sonawane",
-          "url": "https://open.spotify.com/artist/4SG93C6umdFmpTKj9glUh3"
-        },
-        {
-          "name": "Keval Walanj",
-          "url": "https://open.spotify.com/artist/6Wswgu5myN8iTStK7FoGh4"
-        },
-        {
-          "name": "Vishnupriya",
-          "url": "https://open.spotify.com/artist/02tdlcWysk429Q3xMT62L7"
-        },
-        {
-          "name": "Sai Patil",
-          "url": "https://open.spotify.com/artist/4t3ZUbQcJRgD7O6UYU70TI"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Majhi Navri",
-      "url": "https://open.spotify.com/track/35h2x2FdA82bUs90mP8S7Q"
     },
     {
       "added_at": "2025-12-09 11:43:07",

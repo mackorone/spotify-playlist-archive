@@ -1,6 +1,6 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 70977,
+  "num_followers": 70981,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
@@ -847,6 +847,26 @@
     {
       "added_at": "2024-06-24 11:19:01",
       "album": {
+        "name": "L\u00e5t oss leva",
+        "url": "https://open.spotify.com/album/7eZiMT7X683E3WsO5PoMOk"
+      },
+      "artists": [
+        {
+          "name": "Lani Mo",
+          "url": "https://open.spotify.com/artist/45hO5u8evtwIpSYefQHW8P"
+        },
+        {
+          "name": "Allyawan",
+          "url": "https://open.spotify.com/artist/5Pcez7u1H2Po6e2LmMdF3f"
+        }
+      ],
+      "duration_ms": 220527,
+      "name": "L\u00e5t oss leva",
+      "url": "https://open.spotify.com/track/30rJhrVMHZtStKYxWoJfZf"
+    },
+    {
+      "added_at": "2024-06-24 11:19:01",
+      "album": {
         "name": "Ska vi",
         "url": "https://open.spotify.com/album/7oWzSnb9fMgx3qo9e4Omz9"
       },
@@ -867,26 +887,6 @@
       "duration_ms": 195000,
       "name": "Ska vi",
       "url": "https://open.spotify.com/track/5yzm25tJbuTnbmK9hjNiH6"
-    },
-    {
-      "added_at": "2024-06-24 11:19:01",
-      "album": {
-        "name": "L\u00e5t oss leva",
-        "url": "https://open.spotify.com/album/7eZiMT7X683E3WsO5PoMOk"
-      },
-      "artists": [
-        {
-          "name": "Lani Mo",
-          "url": "https://open.spotify.com/artist/45hO5u8evtwIpSYefQHW8P"
-        },
-        {
-          "name": "Allyawan",
-          "url": "https://open.spotify.com/artist/5Pcez7u1H2Po6e2LmMdF3f"
-        }
-      ],
-      "duration_ms": 220527,
-      "name": "L\u00e5t oss leva",
-      "url": "https://open.spotify.com/track/30rJhrVMHZtStKYxWoJfZf"
     },
     {
       "added_at": "2024-06-24 11:19:01",

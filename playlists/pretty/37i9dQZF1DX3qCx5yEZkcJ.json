@@ -1,6 +1,6 @@
 {
   "description": "Stay relaxed with these low-key beats and instrumentals.",
-  "num_followers": 1479935,
+  "num_followers": 1479886,
   "original_name": "Mellow Beats",
   "owner": {
     "name": "Spotify",
@@ -91,6 +91,22 @@
     {
       "added_at": "2025-12-12 05:26:43",
       "album": {
+        "name": "Cadillac Mountain",
+        "url": "https://open.spotify.com/album/5QXqoXTxCW99EXlAn64Kul"
+      },
+      "artists": [
+        {
+          "name": "Brock Berrigan",
+          "url": "https://open.spotify.com/artist/39sPWwRyNp4NNMyWzN7I0o"
+        }
+      ],
+      "duration_ms": 103255,
+      "name": "Secret",
+      "url": "https://open.spotify.com/track/0z3u3kPRF6GMGJtzI3dJmz"
+    },
+    {
+      "added_at": "2025-12-12 05:26:43",
+      "album": {
         "name": "Scene",
         "url": "https://open.spotify.com/album/6YcPnmN692PwIMCe7RcCor"
       },
@@ -107,22 +123,6 @@
       "duration_ms": 192705,
       "name": "Moon",
       "url": "https://open.spotify.com/track/2XilllM3LNVQPvCrOX749W"
-    },
-    {
-      "added_at": "2025-12-12 05:26:43",
-      "album": {
-        "name": "Cadillac Mountain",
-        "url": "https://open.spotify.com/album/5QXqoXTxCW99EXlAn64Kul"
-      },
-      "artists": [
-        {
-          "name": "Brock Berrigan",
-          "url": "https://open.spotify.com/artist/39sPWwRyNp4NNMyWzN7I0o"
-        }
-      ],
-      "duration_ms": 103255,
-      "name": "Secret",
-      "url": "https://open.spotify.com/track/0z3u3kPRF6GMGJtzI3dJmz"
     },
     {
       "added_at": "2025-12-12 05:26:43",
@@ -155,26 +155,6 @@
     {
       "added_at": "2025-12-12 05:26:43",
       "album": {
-        "name": "Far Away",
-        "url": "https://open.spotify.com/album/1SUebSHdAuvfEHSPu9BScz"
-      },
-      "artists": [
-        {
-          "name": "Leavv",
-          "url": "https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE"
-        },
-        {
-          "name": "dcxv",
-          "url": "https://open.spotify.com/artist/0joMqsMoTtZ8blx2CHKMj1"
-        }
-      ],
-      "duration_ms": 208192,
-      "name": "Far Away",
-      "url": "https://open.spotify.com/track/1bW8IKNqSmC4RHihpGaYoc"
-    },
-    {
-      "added_at": "2025-12-12 05:26:43",
-      "album": {
         "name": "Consider The Flowers",
         "url": "https://open.spotify.com/album/2ZNJfoU9GAX4xxEkPHU4yy"
       },
@@ -191,22 +171,22 @@
     {
       "added_at": "2025-12-12 05:26:43",
       "album": {
-        "name": "Carefree",
-        "url": "https://open.spotify.com/album/1t0tGWj576akBoj8m9VpXX"
+        "name": "Far Away",
+        "url": "https://open.spotify.com/album/1SUebSHdAuvfEHSPu9BScz"
       },
       "artists": [
         {
-          "name": "Toshiki Soejima",
-          "url": "https://open.spotify.com/artist/6IqHDslsV3usaxCdciL3XO"
+          "name": "Leavv",
+          "url": "https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE"
         },
         {
-          "name": "edbl",
-          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
+          "name": "dcxv",
+          "url": "https://open.spotify.com/artist/0joMqsMoTtZ8blx2CHKMj1"
         }
       ],
-      "duration_ms": 121833,
-      "name": "Cove",
-      "url": "https://open.spotify.com/track/5uRkzJn0E5snSTGcvfSegC"
+      "duration_ms": 208192,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/1bW8IKNqSmC4RHihpGaYoc"
     },
     {
       "added_at": "2025-12-12 05:26:43",
@@ -231,6 +211,26 @@
     {
       "added_at": "2025-12-12 05:26:43",
       "album": {
+        "name": "Carefree",
+        "url": "https://open.spotify.com/album/1t0tGWj576akBoj8m9VpXX"
+      },
+      "artists": [
+        {
+          "name": "Toshiki Soejima",
+          "url": "https://open.spotify.com/artist/6IqHDslsV3usaxCdciL3XO"
+        },
+        {
+          "name": "edbl",
+          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
+        }
+      ],
+      "duration_ms": 121833,
+      "name": "Cove",
+      "url": "https://open.spotify.com/track/5uRkzJn0E5snSTGcvfSegC"
+    },
+    {
+      "added_at": "2025-12-12 05:26:43",
+      "album": {
         "name": "Zoning Out Vol. 2",
         "url": "https://open.spotify.com/album/5otufrAYStK1GqtwpRyTTn"
       },
@@ -243,6 +243,22 @@
       "duration_ms": 125474,
       "name": "Please Chill",
       "url": "https://open.spotify.com/track/1ndEnRNcXCZWJIz8x6YEQH"
+    },
+    {
+      "added_at": "2025-12-12 05:26:43",
+      "album": {
+        "name": "BIG BLUE",
+        "url": "https://open.spotify.com/album/5N20fAevDwj4glrtlKdCzl"
+      },
+      "artists": [
+        {
+          "name": "Yakkle",
+          "url": "https://open.spotify.com/artist/3mjx8PSsyldIILTLtw2Nap"
+        }
+      ],
+      "duration_ms": 166392,
+      "name": "BIG BLUE",
+      "url": "https://open.spotify.com/track/5EWpiLgQ6WYrvp7DbYhj70"
     },
     {
       "added_at": "2025-12-12 05:26:43",
@@ -267,22 +283,6 @@
       "duration_ms": 181880,
       "name": "At\u00e9lier",
       "url": "https://open.spotify.com/track/4Tf7IW0WioSsChyDMy5EIJ"
-    },
-    {
-      "added_at": "2025-12-12 05:26:43",
-      "album": {
-        "name": "BIG BLUE",
-        "url": "https://open.spotify.com/album/5N20fAevDwj4glrtlKdCzl"
-      },
-      "artists": [
-        {
-          "name": "Yakkle",
-          "url": "https://open.spotify.com/artist/3mjx8PSsyldIILTLtw2Nap"
-        }
-      ],
-      "duration_ms": 166392,
-      "name": "BIG BLUE",
-      "url": "https://open.spotify.com/track/5EWpiLgQ6WYrvp7DbYhj70"
     },
     {
       "added_at": "2025-12-12 05:26:43",
@@ -739,6 +739,26 @@
     {
       "added_at": "2025-12-12 05:26:43",
       "album": {
+        "name": "Syn Fonia I",
+        "url": "https://open.spotify.com/album/0LprKxhCl7cBBkQHzBbWRU"
+      },
+      "artists": [
+        {
+          "name": "EVISBEATS",
+          "url": "https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc"
+        },
+        {
+          "name": "Kazuhiko Maeda",
+          "url": "https://open.spotify.com/artist/1bBgJ0Q6qVnnx23ZtpCSMZ"
+        }
+      ],
+      "duration_ms": 228750,
+      "name": "Space Orgazm",
+      "url": "https://open.spotify.com/track/5BxPmRFKVf9bMGr2q9ZmEA"
+    },
+    {
+      "added_at": "2025-12-12 05:26:43",
+      "album": {
         "name": "Paris Nights",
         "url": "https://open.spotify.com/album/2td1WP2YHS2pieTpm3uqCQ"
       },
@@ -767,26 +787,6 @@
       "duration_ms": 204000,
       "name": "Raincoat",
       "url": "https://open.spotify.com/track/2RfOBk0HoyAKNQMX6gWbDW"
-    },
-    {
-      "added_at": "2025-12-12 05:26:43",
-      "album": {
-        "name": "Syn Fonia I",
-        "url": "https://open.spotify.com/album/0LprKxhCl7cBBkQHzBbWRU"
-      },
-      "artists": [
-        {
-          "name": "EVISBEATS",
-          "url": "https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc"
-        },
-        {
-          "name": "Kazuhiko Maeda",
-          "url": "https://open.spotify.com/artist/1bBgJ0Q6qVnnx23ZtpCSMZ"
-        }
-      ],
-      "duration_ms": 228750,
-      "name": "Space Orgazm",
-      "url": "https://open.spotify.com/track/5BxPmRFKVf9bMGr2q9ZmEA"
     },
     {
       "added_at": "2025-12-12 05:26:43",
@@ -879,22 +879,6 @@
     {
       "added_at": "2025-12-12 05:26:43",
       "album": {
-        "name": "zero",
-        "url": "https://open.spotify.com/album/0nVdaf3JEWpctIcv0nyFQz"
-      },
-      "artists": [
-        {
-          "name": "invisible design",
-          "url": "https://open.spotify.com/artist/0PGLAS23Jf5WcA4xaCmxLM"
-        }
-      ],
-      "duration_ms": 147695,
-      "name": "zero",
-      "url": "https://open.spotify.com/track/3g8uAk8FFwlOlFp90Lwxw4"
-    },
-    {
-      "added_at": "2025-12-12 05:26:43",
-      "album": {
         "name": "Veluwe",
         "url": "https://open.spotify.com/album/5SKoZTRUgunUdcWHDonBfv"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 163593,
       "name": "Lavender",
       "url": "https://open.spotify.com/track/5GaHYRLnydKc7artfB8zKb"
+    },
+    {
+      "added_at": "2025-12-12 05:26:43",
+      "album": {
+        "name": "zero",
+        "url": "https://open.spotify.com/album/0nVdaf3JEWpctIcv0nyFQz"
+      },
+      "artists": [
+        {
+          "name": "invisible design",
+          "url": "https://open.spotify.com/artist/0PGLAS23Jf5WcA4xaCmxLM"
+        }
+      ],
+      "duration_ms": 147695,
+      "name": "zero",
+      "url": "https://open.spotify.com/track/3g8uAk8FFwlOlFp90Lwxw4"
     },
     {
       "added_at": "2025-12-12 05:26:43",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2025-12-12 05:26:43",
       "album": {
-        "name": "Whatsreal",
-        "url": "https://open.spotify.com/album/0orlhyvabLSgFZMzDAoy0T"
-      },
-      "artists": [
-        {
-          "name": "Psalm Trees",
-          "url": "https://open.spotify.com/artist/5pmXkV6A8yQdoa64xzvZ0S"
-        }
-      ],
-      "duration_ms": 148124,
-      "name": "Whatsreal",
-      "url": "https://open.spotify.com/track/61lsEaRkz1gXrfEoQ5yUzt"
-    },
-    {
-      "added_at": "2025-12-12 05:26:43",
-      "album": {
         "name": "Hip Shop",
         "url": "https://open.spotify.com/album/0KRl72v3V3cZHeGVlRqDvC"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 123008,
       "name": "Hip Shop",
       "url": "https://open.spotify.com/track/169xT0Be1P2Hgjd9hq5Lk1"
+    },
+    {
+      "added_at": "2025-12-12 05:26:43",
+      "album": {
+        "name": "Whatsreal",
+        "url": "https://open.spotify.com/album/0orlhyvabLSgFZMzDAoy0T"
+      },
+      "artists": [
+        {
+          "name": "Psalm Trees",
+          "url": "https://open.spotify.com/artist/5pmXkV6A8yQdoa64xzvZ0S"
+        }
+      ],
+      "duration_ms": 148124,
+      "name": "Whatsreal",
+      "url": "https://open.spotify.com/track/61lsEaRkz1gXrfEoQ5yUzt"
     },
     {
       "added_at": "2025-12-12 05:26:43",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2025-12-12 05:26:43",
       "album": {
-        "name": "michi",
-        "url": "https://open.spotify.com/album/5Oy3je8laT66B2xqOipppP"
-      },
-      "artists": [
-        {
-          "name": "Shimon Hoshino",
-          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
-        }
-      ],
-      "duration_ms": 158197,
-      "name": "michi",
-      "url": "https://open.spotify.com/track/6XrkDfGxdMs1BLBfGALhaF"
-    },
-    {
-      "added_at": "2025-12-12 05:26:43",
-      "album": {
         "name": "CELEBRATION OF JAY 3",
         "url": "https://open.spotify.com/album/1syUvpgwFvqWYj1axPFgRo"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 135529,
       "name": "Rostrum",
       "url": "https://open.spotify.com/track/0j9atepn6jhrLlu0ETAxMx"
+    },
+    {
+      "added_at": "2025-12-12 05:26:43",
+      "album": {
+        "name": "michi",
+        "url": "https://open.spotify.com/album/5Oy3je8laT66B2xqOipppP"
+      },
+      "artists": [
+        {
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+        }
+      ],
+      "duration_ms": 158197,
+      "name": "michi",
+      "url": "https://open.spotify.com/track/6XrkDfGxdMs1BLBfGALhaF"
     },
     {
       "added_at": "2025-12-12 05:26:43",
@@ -1471,22 +1471,18 @@
     {
       "added_at": "2025-12-12 05:26:43",
       "album": {
-        "name": "Colibri",
-        "url": "https://open.spotify.com/album/1PiE5MBRBD0fSuXETvn81S"
+        "name": "Lofi Loyal Caf\u00e9 Customer",
+        "url": "https://open.spotify.com/album/6LWEslIGErcBYOhQS6Hiwu"
       },
       "artists": [
         {
-          "name": "NOA NOA",
-          "url": "https://open.spotify.com/artist/1PXxhTpoWDxbQKCpEgUev0"
-        },
-        {
-          "name": "Iori Kimura",
-          "url": "https://open.spotify.com/artist/3uaby7kqnBFvf4mXlPjrvO"
+          "name": "Single Friend",
+          "url": "https://open.spotify.com/artist/5R18HPWho6b4BMhMlKHETL"
         }
       ],
-      "duration_ms": 212000,
-      "name": "Colibri",
-      "url": "https://open.spotify.com/track/1QxAi7Vgm10DBiLij4dGnZ"
+      "duration_ms": 168000,
+      "name": "Lofi Loyal Caf\u00e9 Customer",
+      "url": "https://open.spotify.com/track/3Ogkpd8w9mr1zK10U1TjPX"
     }
   ],
   "unique_name": "Mellow Beats",

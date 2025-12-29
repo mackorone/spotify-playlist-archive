@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Ossb6.md) - [plain]
 
 > This is Alejandro Fernández\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 847,046 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 847,101 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Ossb6.md) - [plain]
 | 31 | [Tantita Pena](https://open.spotify.com/track/35EkiksXJbSPuOdMdjZvb0) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Orígenes](https://open.spotify.com/album/7BV29ZA45jWvqMY9CuRNvl) | 3:28 |
 | 32 | [Procuro Olvidarte](https://open.spotify.com/track/5Lv81PNCTruefbpa07Dvcm) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Confidencias](https://open.spotify.com/album/3g2uS0IsIdaKqRiBSFrbBk) | 4:06 |
 | 33 | [Yo Nací para Amarte](https://open.spotify.com/track/5p8opxv39V6rEBiRFFZfQJ) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Me Estoy Enamorando](https://open.spotify.com/album/63mrlnJgtofj8Ur7Q7Xh9P) | 4:26 |
-| 34 | [La Mitad Que Me Faltaba](https://open.spotify.com/track/1LV1VwcmwEYt7aHYfiPtbv) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Que Seas Muy Feliz](https://open.spotify.com/album/23nJ7gZDubv8GuPeuukHuu) | 3:25 |
-| 35 | [Cascos Ligeros](https://open.spotify.com/track/5hMA0vhvm20GDIn5OyfJz7) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Piel De Niña](https://open.spotify.com/album/0V7reyIZlLGrhgC4Jdv7wp) | 2:05 |
+| 34 | [Cascos Ligeros](https://open.spotify.com/track/5hMA0vhvm20GDIn5OyfJz7) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Piel De Niña](https://open.spotify.com/album/0V7reyIZlLGrhgC4Jdv7wp) | 2:05 |
+| 35 | [La Mitad Que Me Faltaba](https://open.spotify.com/track/1LV1VwcmwEYt7aHYfiPtbv) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Que Seas Muy Feliz](https://open.spotify.com/album/23nJ7gZDubv8GuPeuukHuu) | 3:25 |
 | 36 | [Tu Maniquí](https://open.spotify.com/track/3TPsk3yeRWWJibDY8dKzU7) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [1800 Noches](https://open.spotify.com/album/0kwzWsmJGDlHG0Vv0vf9rG) | 2:34 |
 | 37 | [Dos Corazones, Dos Historias \(Dos Corações E Uma Historia\)](https://open.spotify.com/track/18jTvvrVfLe5DsipBvZect) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Noche De Cuatro Lunas](https://open.spotify.com/album/4E1xep41OlMAv6wD4FgzyX) | 3:55 |
 | 38 | [Quiero Que Vuelvas](https://open.spotify.com/track/6DO6RhWMkNezxS5PD44SJT) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Rompiendo Fronteras](https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp) | 2:37 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Ossb6.md) - [plain]
 | 44 | [No Se Me Hace Fácil](https://open.spotify.com/track/0c6xdgPkihXqWFGx0CpVkU) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Viento A Favor](https://open.spotify.com/album/3NVqlZlYMlFCbBMuZvxyor) | 3:45 |
 | 45 | [Si Tú No Vuelves](https://open.spotify.com/track/36R1CyVJGuQSR8YwlRW3zv) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Orígenes](https://open.spotify.com/album/7BV29ZA45jWvqMY9CuRNvl) | 3:14 |
 | 46 | [Niña Amada Mía](https://open.spotify.com/track/7AKMsgK6JGV4KEA4n6Bh1k) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Niña Amada Mia](https://open.spotify.com/album/2GCLOzEBbVYcFCCHbh7pCu) | 3:12 |
-| 47 | [Eso Y Más](https://open.spotify.com/track/4uV2q5BTVqsNU1oF5tT6q1) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Eso Y Más](https://open.spotify.com/album/3ej22uBC7EecBlN1GOg06U) | 2:46 |
-| 48 | [Contigo Aprendí](https://open.spotify.com/track/1Ifm0tGm582UZuOHcfAuTM) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Piel De Niña](https://open.spotify.com/album/0V7reyIZlLGrhgC4Jdv7wp) | 3:24 |
+| 47 | [Contigo Aprendí](https://open.spotify.com/track/1Ifm0tGm582UZuOHcfAuTM) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Piel De Niña](https://open.spotify.com/album/0V7reyIZlLGrhgC4Jdv7wp) | 3:24 |
+| 48 | [Eso Y Más](https://open.spotify.com/track/4uV2q5BTVqsNU1oF5tT6q1) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Eso Y Más](https://open.spotify.com/album/3ej22uBC7EecBlN1GOg06U) | 2:46 |
 | 49 | [La Cumbia Triste](https://open.spotify.com/track/2sAFBZ8a7uTT7tsAsjoUzo) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [La Cumbia Triste](https://open.spotify.com/album/7DSLHSjqV7CCjNa1NxKi2P) | 3:30 |
 | 50 | [Contigo Siempre](https://open.spotify.com/track/17LxkTp8UNbPcYrDrI6UOq) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Contigo Siempre](https://open.spotify.com/album/1DuXr4GCQLue0kTKvI6Txa) | 3:21 |
 
-Snapshot ID: `aU3QAAAAAABINqDd+wbXFsdoHiXxMEWb`
+Snapshot ID: `aU8hgAAAAACKEHLLfqIhHa5iKCrHcY6W`

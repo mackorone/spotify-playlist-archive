@@ -2,7 +2,7 @@
 
 ### [DePitcha Radio](https://open.spotify.com/playlist/37i9dQZF1E4vUDR7p3pzuy)
 
-> With Rob Harrowven, Golem Dance Cult, JUST LIZZY and more
+> With Rob Harrowven, Golem Dance Cult, Splitter Conspiracy and more
 
 234 songs - 14 hr 57 min
 
@@ -97,7 +97,7 @@
 | [Heart\-Shaped Box](https://open.spotify.com/track/4zR3I8wrWs1lW3wHW507qU) | [Yellow Jam](https://open.spotify.com/artist/6nis8jlqzngHly0plz6OPU) | [Heart\-Shaped Box](https://open.spotify.com/album/7gWGEWCqsDw7fdxGtj6roA) | 4:16 | 2025-11-22 | 2025-12-14 |
 | [Hit The Floor](https://open.spotify.com/track/7EaSx7Ic0H101Hfy4D2EgO) | [Ten Million Lights](https://open.spotify.com/artist/0yyD1fpbYeADcyqm72wq2e) | [Hit The Floor](https://open.spotify.com/album/6QljszzGUK8HaXFUnnlher) | 5:34 | 2025-12-26 |  |
 | [Hole In The Picture](https://open.spotify.com/track/6al3XURd4S7Fx0oCHQwFOK) | [NASTYJOE](https://open.spotify.com/artist/670gKdLPnnsJjyiy9HzvaV) | [Hole In The Picture](https://open.spotify.com/album/295Y9jHsFUdRZu462wylYn) | 2:45 | 2025-12-19 | 2025-12-20 |
-| [Honey Pack](https://open.spotify.com/track/1es2PvB66QrF9CbNcuGA1q) | [Soft Kill](https://open.spotify.com/artist/58rIPw8uw8LW01eQH7Mi7m) | [TNT](https://open.spotify.com/album/4VDe62hAuCLycn6opr0H9G) | 3:19 | 2025-12-24 |  |
+| [Honey Pack](https://open.spotify.com/track/1es2PvB66QrF9CbNcuGA1q) | [Soft Kill](https://open.spotify.com/artist/58rIPw8uw8LW01eQH7Mi7m) | [TNT](https://open.spotify.com/album/4VDe62hAuCLycn6opr0H9G) | 3:19 | 2025-12-24 | 2025-12-29 |
 | [Humanity Disorder](https://open.spotify.com/track/4sJpHchX5ggFTpJffSi0rO) | [R\-an\-D](https://open.spotify.com/artist/5rE3TNGJCNmMjcMHb6azrL) | [Humanity Disorder](https://open.spotify.com/album/5pgC6UwCsGN5ZL3pcuIBq1) | 3:01 | 2025-11-19 | 2025-11-25 |
 | [Humble Eyes](https://open.spotify.com/track/5O8cbA7QABRF8VN9QiYpAt) | [PREYRS](https://open.spotify.com/artist/50cyf9blkoQibSMlwvwQeH) | [The Wounded Healer](https://open.spotify.com/album/3dr4beXJvfhLrSy9hX5bfi) | 1:36 | 2025-11-25 | 2025-11-26 |
 | [I Don't Bleed](https://open.spotify.com/track/2aD1FaM5wXo3az8bC28uCt) | [Marc Schuster](https://open.spotify.com/artist/6yHvSo7nxlU27sOBX4XyWA) | [I Don’t Bleed](https://open.spotify.com/album/56cbUV4i2RjQwpQx1ifXoq) | 4:12 | 2025-12-08 | 2025-12-17 |
@@ -121,7 +121,7 @@
 | [Justified](https://open.spotify.com/track/1z1CuhZjWHSdAjueoC5PzT) | [Blunt Blade](https://open.spotify.com/artist/40XRT2BHeN7k9H605BnWMf) | [Forgiveness](https://open.spotify.com/album/0DrzOBmXjyNjaQRyOIAyxk) | 4:45 | 2025-11-25 | 2025-12-02 |
 | [Keep The Light On](https://open.spotify.com/track/4PAMXOS9J5INQckpSZ8w4u) | [DePitcha](https://open.spotify.com/artist/3hpbeTr7Si1QSiuedag8Hz), [JUST LIZZY](https://open.spotify.com/artist/6tYGjj89ayCTVopRtNF9ST) | [Keep The Light On](https://open.spotify.com/album/19MAVwshUMivL9dc7RSLu1) | 3:36 | 2025-11-26 | 2025-11-28 |
 | [Kill Cave](https://open.spotify.com/track/7AmgEbUvDmUCsPMhM2u6eU) | [Corlyx](https://open.spotify.com/artist/2K8LJm6DxnMVU6fQklN5Z5), [Suzi Sabotage](https://open.spotify.com/artist/4Xg5IOdSKG15oMi05Xf1yn) | [Purple Pain](https://open.spotify.com/album/5p8ArHFTxDnWWoiaI7DyB8) | 4:10 | 2025-12-09 | 2025-12-10 |
-| [Kill the Beat](https://open.spotify.com/track/0C4rH4BkiRm8AIAeIgFmqD) | [Trenton Green](https://open.spotify.com/artist/1CIVoqF4LHrBKC8AnsJLFd) | [Kill the Beat](https://open.spotify.com/album/6OXleFUayDl4kkOIJSfTuU) | 3:26 | 2025-12-20 |  |
+| [Kill the Beat](https://open.spotify.com/track/0C4rH4BkiRm8AIAeIgFmqD) | [Trenton Green](https://open.spotify.com/artist/1CIVoqF4LHrBKC8AnsJLFd) | [Kill the Beat](https://open.spotify.com/album/6OXleFUayDl4kkOIJSfTuU) | 3:26 | 2025-12-20 | 2025-12-29 |
 | [Kiss of Death](https://open.spotify.com/track/0B7crPVHaDZRhV0FsHQBWq) | [Black Angel](https://open.spotify.com/artist/2nRqpGvZYydx4778sPDPfu) | [Coronet](https://open.spotify.com/album/5siQjlkTpfmu7wnkNlo1RG) | 5:33 | 2025-12-14 |  |
 | [Kiss The Dog](https://open.spotify.com/track/7cUxvxockigPMHy9qGJKZZ) | [Crack The Sky](https://open.spotify.com/artist/2oVy65ms3RMMhwnAPUEisV) | [Blessed](https://open.spotify.com/album/6m4vu74gakK8xXvKFA4mZC) | 4:24 | 2025-12-05 | 2025-12-07 |
 | [Land of Confusion](https://open.spotify.com/track/2x45NimJc5F5W1BnkobHLb) | [AL1CE](https://open.spotify.com/artist/0OEswCup9P8ou9tFbOUSE5) | [The Thirteenth Hour](https://open.spotify.com/album/2Y1pCIhpIlHpf1jJR2gkwD) | 4:38 | 2025-11-19 | 2025-11-29 |
@@ -165,7 +165,7 @@
 | [Psycho Killer](https://open.spotify.com/track/1CjgOByLIycURaTJP9AcJv) | [TUBE AMP'D](https://open.spotify.com/artist/2HCH65ifrLyZKPG0Op0iN9) | [Psycho Killer](https://open.spotify.com/album/5MgerM46FHMnfrZ46i2s0H) | 4:18 | 2025-12-02 | 2025-12-06 |
 | [Queen of Codependency](https://open.spotify.com/track/53VjOVF0jUG3ueScsJ75AO) | [Amulet](https://open.spotify.com/artist/0MIXqJTzEdqxtggC1GsfHy) | [Electronic Saviors: Industrial Music to Cure Cancer, Vol\. 7 ReUnion](https://open.spotify.com/album/0Ljr0IB6gYI5tcoggCymGT) | 3:58 | 2025-11-19 | 2025-12-14 |
 | [Queens of the Electro Show](https://open.spotify.com/track/2lVjEjYyXyPkEJx6cXg2CN) | [Fused](https://open.spotify.com/artist/5jns7kisdne3HvnYrFoJFF) | [The Silicon Queens](https://open.spotify.com/album/3aUw1b1No5iZBi83Uey6ER) | 3:56 | 2025-12-07 | 2025-12-14 |
-| [Quiet Ones](https://open.spotify.com/track/7nkhh20RXO5pCuXepkosz5) | [Breakaway\-NE](https://open.spotify.com/artist/41xvSQQalPMUEEMESzNnxo) | [Quiet Ones](https://open.spotify.com/album/4xTvdnJX2znAjHZgR2iJgO) | 3:10 | 2025-12-26 | 2025-12-27 |
+| [Quiet Ones](https://open.spotify.com/track/7nkhh20RXO5pCuXepkosz5) | [Breakaway\-NE](https://open.spotify.com/artist/41xvSQQalPMUEEMESzNnxo) | [Quiet Ones](https://open.spotify.com/album/4xTvdnJX2znAjHZgR2iJgO) | 3:10 | 2025-12-26 |  |
 | [Rainbirds](https://open.spotify.com/track/3XGvss1e9fx0B1Hry04ONn) | [Nattradio](https://open.spotify.com/artist/6g17KvcvEfyXUztJt90qlA) | [The Longest Night](https://open.spotify.com/album/6znBHOV394g0kmo6FO99d7) | 4:51 | 2025-12-19 | 2025-12-20 |
 | [Reach for the Sky](https://open.spotify.com/track/4Oa8g0EOkilmRpbvVYcnpO) | [Daph Veil](https://open.spotify.com/artist/309PYvFPBmAKwqJ5zFsUUu) | [Reach for the Sky](https://open.spotify.com/album/17UBJSBMD5Vb8ul7Y0806C) | 3:50 | 2025-11-23 | 2025-11-24 |
 | [Record Store \- ADRML Remix](https://open.spotify.com/track/3aGLe8a1Rb9ftDqV89jjfe) | [The FMs](https://open.spotify.com/artist/14AK0vEixOsIW5ltuE1eRj), [Admrl](https://open.spotify.com/artist/2I6Fxjv0aryXNlAcwOsfS4) | [Record Store \(ADRML Remix\)](https://open.spotify.com/album/2Zy0i8BnB9t520LNodoIvS) | 3:22 | 2025-12-06 | 2025-12-08 |
@@ -215,7 +215,7 @@
 | [Threats](https://open.spotify.com/track/1cvyjW2mE3WVNBMFF2day4) | [Bellhead](https://open.spotify.com/artist/2kG1HBhqba49nSNiN92pVg) | [Threats](https://open.spotify.com/album/44Z7Gf8lHHBUq66SaDDYIT) | 4:11 | 2025-11-26 | 2025-11-27 |
 | [Through The Looking Glass](https://open.spotify.com/track/2VChgOUgrKcZ7poZHsQTqe) | [Lewis Tivey](https://open.spotify.com/artist/6rMQpa1tR5sI8xGboy8mXR) | [Through The Looking Glass](https://open.spotify.com/album/1LP2k580115ie2Za9u7tdx) | 3:10 | 2025-12-20 | 2025-12-24 |
 | [Through The Sand \- LP Edition](https://open.spotify.com/track/2FNoeqF9xXuLHSRyKXItO7) | [DanielTidwell14](https://open.spotify.com/artist/3KAA7RvgIRc1KagYTCCw8e) | [All Geared Up](https://open.spotify.com/album/3jXpY7wUHMPara6PtDVITL) | 3:12 | 2025-12-18 | 2025-12-19 |
-| [Throwaway](https://open.spotify.com/track/53KQdJR9d6tw2p8Jmgzobx) | [Siren Section](https://open.spotify.com/artist/0RnTKd7dLzpmajuKd0XnUY) | [All We Want All at Once](https://open.spotify.com/album/1GEtz9yxnB21lYYPZhNpOr) | 3:01 | 2025-12-14 | 2025-12-28 |
+| [Throwaway](https://open.spotify.com/track/53KQdJR9d6tw2p8Jmgzobx) | [Siren Section](https://open.spotify.com/artist/0RnTKd7dLzpmajuKd0XnUY) | [All We Want All at Once](https://open.spotify.com/album/1GEtz9yxnB21lYYPZhNpOr) | 3:01 | 2025-12-14 |  |
 | [Tied to the Shore](https://open.spotify.com/track/5ycUs5ortovDDRlHs3jbu6) | [Siren Section](https://open.spotify.com/artist/0RnTKd7dLzpmajuKd0XnUY) | [All We Want All at Once](https://open.spotify.com/album/1GEtz9yxnB21lYYPZhNpOr) | 4:08 | 2025-12-17 | 2025-12-18 |
 | [Time](https://open.spotify.com/track/6E2d2GMw6cAp9Tla3V9VRM) | [SCHANZ](https://open.spotify.com/artist/65PEcXFkSyxz0r9p5c6xT8) | [AD/2](https://open.spotify.com/album/5YBWxvQe74eyaWCTJUf6wB) | 4:13 | 2025-12-15 |  |
 | [To Believe In Something \- 2025 Remaster](https://open.spotify.com/track/2lU9QgyPgqlZ7BtRGk7XFO) | [The Eden House](https://open.spotify.com/artist/44RZDLBmH5RPBIo4Tmfumv), [Monica Richards](https://open.spotify.com/artist/0VAjZRwjHiYpeYZHxrYME7) | [Smoke & Mirrors + Other Ghosts \(2025 Expanded Remaster\)](https://open.spotify.com/album/1imOO9BuzwPiMvxK9VfXl9) | 5:32 | 2025-12-14 |  |

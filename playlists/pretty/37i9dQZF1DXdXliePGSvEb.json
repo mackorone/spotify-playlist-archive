@@ -1,6 +1,6 @@
 {
   "description": "Our favourite electronic songs from around the world this year. Cover: KI/KI",
-  "num_followers": 76532,
+  "num_followers": 76578,
   "original_name": "Editors' picks: Best Electronic Songs of 2025",
   "owner": {
     "name": "Spotify",
@@ -959,6 +959,22 @@
     {
       "added_at": "2025-12-03 12:15:55",
       "album": {
+        "name": "Music Can Hear Us",
+        "url": "https://open.spotify.com/album/6Jq7lj2FjFmUuTjQllSTL0"
+      },
+      "artists": [
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        }
+      ],
+      "duration_ms": 516815,
+      "name": "Buschtaxi",
+      "url": "https://open.spotify.com/track/1GLWfcqdlEedcZ0KywSrf9"
+    },
+    {
+      "added_at": "2025-12-03 12:15:55",
+      "album": {
         "name": "A Tropical Entropy",
         "url": "https://open.spotify.com/album/2nzRzw1h5j5Kr6QTjlR3es"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 248730,
       "name": "Ghost Orchid",
       "url": "https://open.spotify.com/track/69XAj1JQEIsziJbLR8B7AD"
-    },
-    {
-      "added_at": "2025-12-03 12:15:55",
-      "album": {
-        "name": "Music Can Hear Us",
-        "url": "https://open.spotify.com/album/6Jq7lj2FjFmUuTjQllSTL0"
-      },
-      "artists": [
-        {
-          "name": "DJ Koze",
-          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
-        }
-      ],
-      "duration_ms": 516815,
-      "name": "Buschtaxi",
-      "url": "https://open.spotify.com/track/1GLWfcqdlEedcZ0KywSrf9"
     },
     {
       "added_at": "2025-12-03 12:15:55",

@@ -1,12 +1,12 @@
 {
   "description": "This is Cassiane. The essential tracks, all in one playlist.",
-  "num_followers": 37538,
+  "num_followers": 37543,
   "original_name": "This Is Cassiane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU3QAAAAAADzgYj0y9BARk1O691w5AMR",
+  "snapshot_id": "aU8hgAAAAABezHZE4mpsQDs0LqJrEwSu",
   "tracks": [
     {
       "added_at": null,
@@ -611,6 +611,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nada Pode Calar Um Adorador + Com Muito Louvor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3kXK7gxzL8DPU3L8LTCATy"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 373933,
+      "name": "Nada Pode Calar Um Adorador + Com Muito Louvor (Ao Vivo)",
+      "url": "https://open.spotify.com/track/7kSlSqgTbzEnsVYJLiDpru"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Harpa Vol.2",
         "url": "https://open.spotify.com/album/5SUEVRCx1ccyoeWunYiZ9r"
       },
@@ -643,22 +663,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nada Pode Calar Um Adorador + Com Muito Louvor (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3kXK7gxzL8DPU3L8LTCATy"
+        "name": "Sementes da F\u00e9",
+        "url": "https://open.spotify.com/album/0UOBWc8dG9coIpFx4HVTmp"
       },
       "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
         {
           "name": "Cassiane",
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 373933,
-      "name": "Nada Pode Calar Um Adorador + Com Muito Louvor (Ao Vivo)",
-      "url": "https://open.spotify.com/track/7kSlSqgTbzEnsVYJLiDpru"
+      "duration_ms": 322478,
+      "name": "Louve Sempre",
+      "url": "https://open.spotify.com/track/1N4x73O2k5C2PNOxf4UCQk"
     },
     {
       "added_at": null,
@@ -679,8 +695,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sementes da F\u00e9",
-        "url": "https://open.spotify.com/album/0UOBWc8dG9coIpFx4HVTmp"
+        "name": "A Cura",
+        "url": "https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP"
       },
       "artists": [
         {
@@ -688,9 +704,9 @@
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 322478,
-      "name": "Louve Sempre",
-      "url": "https://open.spotify.com/track/1N4x73O2k5C2PNOxf4UCQk"
+      "duration_ms": 411364,
+      "name": "A Cura",
+      "url": "https://open.spotify.com/track/7hX6Ctm6PJiAJdOBMoryJl"
     },
     {
       "added_at": null,
@@ -707,22 +723,6 @@
       "duration_ms": 237586,
       "name": "Ele Tem Poder",
       "url": "https://open.spotify.com/track/0fzmCMwvPCJKLWK7oyvJuY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Cura",
-        "url": "https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 411364,
-      "name": "A Cura",
-      "url": "https://open.spotify.com/track/7hX6Ctm6PJiAJdOBMoryJl"
     },
     {
       "added_at": null,

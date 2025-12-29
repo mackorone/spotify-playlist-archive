@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 
 > Uma playlist de pura alma pop! Foto: Bandidos do Cante, António Zambujo
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,468 likes - 71 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,467 likes - 71 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 | 70 | [Cinco e Meia](https://open.spotify.com/track/6KGVT9dt9Avdo3uKXWt2me) | [Khiaro](https://open.spotify.com/artist/1F9fj23YI3lhbe8IX5mHRb), [ÁTOA](https://open.spotify.com/artist/2IK559MuWjlwxUj6zuikU7) | [Cinco e Meia](https://open.spotify.com/album/1gelKP5jeCV5HzqPOp9TWH) | 2:40 |
 | 71 | [Saudade](https://open.spotify.com/track/1xoubW0lb0QniLQB1Y8zf5) | [TT](https://open.spotify.com/artist/4QUbv90mL5E8TqNKyRkrG0), [Emanuel e Toy Matos](https://open.spotify.com/artist/19XWBFp1y3cArgld1TSvZu) | [Saudade](https://open.spotify.com/album/4fQQ9JtLpmIFQHb84cq9ep) | 3:30 |
 
-Snapshot ID: `AAAAAKqzRszEaqkDZSNrmLkCbpojmY1+`
+Snapshot ID: `AAAAAJVKu2gsqre4HfR8HBEEHXGn+/mp`

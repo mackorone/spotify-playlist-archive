@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QGRbOBzabD.md) - [plain]
 
 > Music from Nishio Ishin Anime project based on his popular light novels.（C）西尾維新／講談社・アニプレックス・シャフト
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,458 likes - 41 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,461 likes - 41 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

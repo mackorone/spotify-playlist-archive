@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xeFWM.md) - [plain]
 
 > This is Bastille\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,216 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,226 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,12 +37,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xeFWM.md) - [plain]
 | 27 | [Laura Palmer](https://open.spotify.com/track/0V8W7phYnepJBNeSMp8fGd) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 3:06 |
 | 28 | [Eurydice \- Dan's Demo](https://open.spotify.com/track/63VenSVwLaeGjG54WM5nYg) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [KAOS \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0pR2sxAtndmhMDOysq0x5j) | 3:29 |
 | 29 | [The Answer](https://open.spotify.com/track/3WnAo7d6JUBrtDL9KZbbgw) | [Energies](https://open.spotify.com/artist/2JGt2NB6hOe8BXhe7uI3sm), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m), [Rittipo](https://open.spotify.com/artist/6LgqEPFOAHk2KpfLZFBh7N) | [The Answer](https://open.spotify.com/album/5kGjspBIeXZWFZpdOTs6UP) | 3:23 |
-| 30 | [Those Nights](https://open.spotify.com/track/4R06uQw0yBQXWmatdIOlch) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Doom Days](https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF) | 4:30 |
-| 31 | [Blue Sky & The Painter](https://open.spotify.com/track/1g1rFaOD5cQXY2cbP5V8F1) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [“&” \(Ampersand\)](https://open.spotify.com/album/5jGm5pF4v30t5lUWBrNO37) | 3:52 |
+| 30 | [Blue Sky & The Painter](https://open.spotify.com/track/1g1rFaOD5cQXY2cbP5V8F1) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [“&” \(Ampersand\)](https://open.spotify.com/album/5jGm5pF4v30t5lUWBrNO37) | 3:52 |
+| 31 | [Those Nights](https://open.spotify.com/track/4R06uQw0yBQXWmatdIOlch) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Doom Days](https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF) | 4:30 |
 | 32 | [Grip](https://open.spotify.com/track/0UazJzfJFyh8904WFxFkr6) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Sad in Scandinavia](https://open.spotify.com/album/116cozWS2DlOUFwYDSCovA) | 3:18 |
 | 33 | [Thelma + Louise](https://open.spotify.com/track/2BzVkisodhQOPOPVJ9UKEI) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Give Me The Future](https://open.spotify.com/album/2A3BFOsrRHn0VQuafW2zYs) | 2:17 |
-| 34 | [Bad Decisions](https://open.spotify.com/track/4OAxg8dC0yvuTp2A6vHrPF) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Doom Days](https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF) | 3:09 |
-| 35 | [Good Grief \- Live At Capitol Studios, Los Angeles / 2016](https://open.spotify.com/track/22byEqX8buZheWfPKki5MW) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Roots Of ReOrchestrated](https://open.spotify.com/album/6F7mN2nWYIj4sAwTTOEFZY) | 3:31 |
+| 34 | [Good Grief \- Live At Capitol Studios, Los Angeles / 2016](https://open.spotify.com/track/22byEqX8buZheWfPKki5MW) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Roots Of ReOrchestrated](https://open.spotify.com/album/6F7mN2nWYIj4sAwTTOEFZY) | 3:31 |
+| 35 | [Bad Decisions](https://open.spotify.com/track/4OAxg8dC0yvuTp2A6vHrPF) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Doom Days](https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF) | 3:09 |
 | 36 | [Planet Earth III Suite](https://open.spotify.com/track/6WXdn8gwGfdjLtE4wXuCoH) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Jacob Shea](https://open.spotify.com/artist/0ZjUUrNDmi4N4Ey5UTMebc), [Sara Barone](https://open.spotify.com/artist/1OHACW7s48L2ZIn7PUpt8y), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Planet Earth III \(Original Television Soundtrack\)](https://open.spotify.com/album/2yiyCryQfCMScX04EdWbDu) | 5:09 |
 | 37 | [Glory](https://open.spotify.com/track/5WpNa4vUaruzh0KISY4NkN) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Wild World \(Complete Edition\)](https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE) | 4:41 |
 | 38 | [Shut Off The Lights](https://open.spotify.com/track/6Au9UDzjeGFen7qMEDKju7) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Shut Off The Lights](https://open.spotify.com/album/3tCwAtRvtyPDYQnKPXnJD7) | 3:07 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xeFWM.md) - [plain]
 | 45 | [Warmth](https://open.spotify.com/track/4hVJIlulH29qKVYGCT6cky) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Wild World \(Complete Edition\)](https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE) | 3:49 |
 | 46 | [Liar Liar \(Feat\. Bastille\)](https://open.spotify.com/track/3CGAtMSboRN65Jo4wb3eOH) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Liar Liar \(Feat\. Bastille\)](https://open.spotify.com/album/1Z63CEuNOQf5UIZ1LoI9fP) | 2:54 |
 | 47 | [Won't Let You Go](https://open.spotify.com/track/70F7cMgI25aFyipi4HsjoJ) | [FRENSHIP](https://open.spotify.com/artist/7xEFii6utZmQ61kX59HmLH), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Vacation](https://open.spotify.com/album/08RH5oSOsDss5CuJBzaPzz) | 3:54 |
-| 48 | [Mademoiselle & The Nunnery Blaze](https://open.spotify.com/track/58tyzBvsTPDzNuhu87MEqU) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [“&” \(Ampersand\)](https://open.spotify.com/album/5jGm5pF4v30t5lUWBrNO37) | 3:59 |
+| 48 | [Million Pieces](https://open.spotify.com/track/7DjnfQNHk36aiMK4aLucMa) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Doom Days](https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF) | 4:11 |
 | 49 | [Fake It](https://open.spotify.com/track/5OALp7wDh1vM2nza1qDArn) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Wild World \(Complete Edition\)](https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE) | 4:04 |
-| 50 | [Million Pieces](https://open.spotify.com/track/7DjnfQNHk36aiMK4aLucMa) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Doom Days](https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF) | 4:11 |
+| 50 | [Seasons & Narcissus](https://open.spotify.com/track/5sxjvIHglYNkOyEPRTHTOv) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [“&” \(Ampersand\)](https://open.spotify.com/album/5jGm5pF4v30t5lUWBrNO37) | 3:32 |
 
-Snapshot ID: `aU3QAAAAAABpFSy1fIwP/N5YkZYQ294c`
+Snapshot ID: `aU8hgAAAAADa7AoV8KjoT7IjJ5zxl0r8`

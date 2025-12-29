@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjCOHYzGCXB.md) - [plain]
 
 > i was never as far away as you thought 🌙
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,241 likes - 60 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,220 likes - 60 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjCOHYzGCXB.md) - [plain]
 | 40 | [silent treatment](https://open.spotify.com/track/4T5bTjkZ5Ig3SPJnovf5GN) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn) | [silent treatment](https://open.spotify.com/album/0Hkt9Zqu1AHn51EBjh5mpt) | 2:22 |
 | 41 | [Rich Man](https://open.spotify.com/track/2lzb0dgTFAfrHfzlZA9Hxw) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Rich Man \- The 6th Mini Album](https://open.spotify.com/album/3rUhGAdzBVzicwTPAVQjXu) | 3:17 |
 | 42 | [Guess featuring billie eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring billie eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 |
-| 43 | [Tennis](https://open.spotify.com/track/6WQsY2YMdIQWoOm9MyZMWR) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [West End Girl](https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn) | 2:30 |
-| 44 | [yes baby](https://open.spotify.com/track/2Nh1wIvPLDk4wK356m0nQA) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [yes baby](https://open.spotify.com/album/4arOnJKD3OYnk72Q1i7PEL) | 2:55 |
+| 43 | [yes baby](https://open.spotify.com/track/2Nh1wIvPLDk4wK356m0nQA) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [yes baby](https://open.spotify.com/album/4arOnJKD3OYnk72Q1i7PEL) | 2:55 |
+| 44 | [Tennis](https://open.spotify.com/track/6WQsY2YMdIQWoOm9MyZMWR) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [West End Girl](https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn) | 2:30 |
 | 45 | [d£aler](https://open.spotify.com/track/2MZeoO5my5Z2opiQHm150R) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [d£aler](https://open.spotify.com/album/7ikoTkIbCm6jpWOHa9Cwde) | 2:40 |
 | 46 | [Primadonna](https://open.spotify.com/track/4sOX1nhpKwFWPvoMMExi3q) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Electra Heart \(Deluxe\)](https://open.spotify.com/album/49kf7gWWtReFwPcCNsvyUf) | 3:41 |
 | 47 | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/album/5ADTbFCyP8cFAu59i4idiC) | 3:51 |
@@ -62,9 +62,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjCOHYzGCXB.md) - [plain]
 | 52 | [Bluest Flame](https://open.spotify.com/track/6vuVCtwukUA57ioTnKKeuL) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [I Said I Love You First](https://open.spotify.com/album/6NKinHXUZJNCmVejJfYJKC) | 2:42 |
 | 53 | [SexOnTheBeat](https://open.spotify.com/track/4MpketOLD5KhtgWWOBuk9w) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [The Provocateur](https://open.spotify.com/album/7LWxUjVO8rhvEUQu2cyVgd) | 2:46 |
 | 54 | [Eurosummer](https://open.spotify.com/track/2EhJHJV7itLmFGH1CQoK3i) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/0nte5x6fXd37Nt7jALSmx0) | 2:52 |
-| 55 | [Super Graphic Ultra Modern Girl](https://open.spotify.com/track/4OLiPTQPgksvrf7eJTtYA3) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0XKconI47eiBP6qPYHsx9f) | 3:03 |
+| 55 | [Nasty](https://open.spotify.com/track/7wCWK3AapKQoHZbghyIrP4) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Quantum Baby](https://open.spotify.com/album/6lCHEpHcYgC24XO87InJjZ) | 2:56 |
 | 56 | [The Louvre](https://open.spotify.com/track/5q4BpnMrYEFzLO0dYODj6J) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 4:31 |
-| 57 | [Nasty](https://open.spotify.com/track/7wCWK3AapKQoHZbghyIrP4) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Quantum Baby](https://open.spotify.com/album/6lCHEpHcYgC24XO87InJjZ) | 2:56 |
+| 57 | [Super Graphic Ultra Modern Girl](https://open.spotify.com/track/4OLiPTQPgksvrf7eJTtYA3) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0XKconI47eiBP6qPYHsx9f) | 3:03 |
 | 58 | [All I Ever Asked \(with sombr\)](https://open.spotify.com/track/3h1SACNX5U6CytntiBHEZn) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [All I Ever Asked \(with sombr\)](https://open.spotify.com/album/5QJmeE6V1Rs9CdYvt7II8x) | 3:37 |
 | 59 | [Kiss It Kiss It](https://open.spotify.com/track/0kvklDSNAkcENUPfEvQNvC) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 2:52 |
 | 60 | [Brick By Brick](https://open.spotify.com/track/3LN7i6dp0VlW9rD5H5uDOJ) | [Say Now](https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn) | [Brick By Brick](https://open.spotify.com/album/4GAfWtz9zZoJhu4jAzNPx5) | 2:39 |

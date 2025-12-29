@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to nov\-dec 2025
 
-[margeaux](https://open.spotify.com/user/1220511975) - 23,720 likes - 68 songs - 4 hr 10 min
+[margeaux](https://open.spotify.com/user/1220511975) - 23,726 likes - 69 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,5 +76,6 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 66 | [Violent Jubilee](https://open.spotify.com/track/7HsV8OYfMry5VaY0oAxrhV) | [Fust](https://open.spotify.com/artist/70kEs7OMlk8egbrVvRlOIv) | [Genevieve](https://open.spotify.com/album/2yCQ4DLqD50tTYiszcVR6o) | 5:09 |
 | 67 | [Mr\. Chill](https://open.spotify.com/track/4nWuo3JijyNAyHSzdftaoU) | [Friendship](https://open.spotify.com/artist/3IxsVnysqUrIyJ3eKdpugA) | [Love the Stranger](https://open.spotify.com/album/4o57TCoYfoKGnbUeD3Rnpx) | 3:11 |
 | 68 | [Drunk and High](https://open.spotify.com/track/2midSSQ3FZsR9J8EfWCbMu) | [Florry](https://open.spotify.com/artist/5b1DzFl2lTpE9v5fjAZ9kn) | [The Holey Bible](https://open.spotify.com/album/028b1SjRJpiDteFXEVUl10) | 2:19 |
+| 69 | [Timeless](https://open.spotify.com/track/1nMge5njZEFQ4m9oESnBSJ) | [Oregon](https://open.spotify.com/artist/0CyVUjy6HZzEXgGA0ydd3t) | [Friends](https://open.spotify.com/album/1fNj64kRg1OAF5LNLuPnKT) | 8:21 |
 
-Snapshot ID: `AAANuv/YIWSPMb+bX+BhOkGF3OzKvrYm`
+Snapshot ID: `AAANu80iLr2C6yGjYdCHYnG9coXrJKcP`

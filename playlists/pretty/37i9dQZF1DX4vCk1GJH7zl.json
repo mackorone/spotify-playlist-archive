@@ -1,12 +1,12 @@
 {
   "description": "Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Samuel Rosa, DUDA BEAT",
-  "num_followers": 151478,
+  "num_followers": 151543,
   "original_name": "Rock Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN1lmCSl8U8yJA3H9qSqg704tp75",
+  "snapshot_id": "AAAAACxvAJt0ij2Ri6ETINYTeLTz7U+P",
   "tracks": [
     {
       "added_at": "2025-12-19 03:03:20",
@@ -483,22 +483,6 @@
     {
       "added_at": "2025-12-19 03:03:20",
       "album": {
-        "name": "Rosa",
-        "url": "https://open.spotify.com/album/6DV3tGb5DBxry07vXqQAng"
-      },
-      "artists": [
-        {
-          "name": "Samuel Rosa",
-          "url": "https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa"
-        }
-      ],
-      "duration_ms": 236535,
-      "name": "Rio Dentro do Mar",
-      "url": "https://open.spotify.com/track/3Ouigy15CzZ6mwsvl5OQCT"
-    },
-    {
-      "added_at": "2025-12-19 03:03:20",
-      "album": {
         "name": "Fica um Pouco Mais",
         "url": "https://open.spotify.com/album/1RIX9DAwLw8fNWNpVkLgYE"
       },
@@ -515,22 +499,18 @@
     {
       "added_at": "2025-12-19 03:03:20",
       "album": {
-        "name": "vale nada",
-        "url": "https://open.spotify.com/album/04CCQjIuuirv55khPHFD8B"
+        "name": "Rosa",
+        "url": "https://open.spotify.com/album/6DV3tGb5DBxry07vXqQAng"
       },
       "artists": [
         {
-          "name": "Tupi & Os Crocodilos de Marte",
-          "url": "https://open.spotify.com/artist/7FjKCOgWeJVYiCnDJAkYet"
-        },
-        {
-          "name": "Tupi",
-          "url": "https://open.spotify.com/artist/4VPfdVmQ3Lm86SOPgaCsCf"
+          "name": "Samuel Rosa",
+          "url": "https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa"
         }
       ],
-      "duration_ms": 182828,
-      "name": "vale nada",
-      "url": "https://open.spotify.com/track/7qZpO1kTmzl2NfOHf6FORY"
+      "duration_ms": 236535,
+      "name": "Rio Dentro do Mar",
+      "url": "https://open.spotify.com/track/3Ouigy15CzZ6mwsvl5OQCT"
     },
     {
       "added_at": "2025-12-19 03:03:20",
@@ -551,6 +531,26 @@
       "duration_ms": 250133,
       "name": "N\u00e3o Diga Nada",
       "url": "https://open.spotify.com/track/1T1xneWDmxbb9rcgB0Svz8"
+    },
+    {
+      "added_at": "2025-12-19 03:03:20",
+      "album": {
+        "name": "vale nada",
+        "url": "https://open.spotify.com/album/04CCQjIuuirv55khPHFD8B"
+      },
+      "artists": [
+        {
+          "name": "Tupi & Os Crocodilos de Marte",
+          "url": "https://open.spotify.com/artist/7FjKCOgWeJVYiCnDJAkYet"
+        },
+        {
+          "name": "Tupi",
+          "url": "https://open.spotify.com/artist/4VPfdVmQ3Lm86SOPgaCsCf"
+        }
+      ],
+      "duration_ms": 182828,
+      "name": "vale nada",
+      "url": "https://open.spotify.com/track/7qZpO1kTmzl2NfOHf6FORY"
     },
     {
       "added_at": "2025-12-19 03:03:20",
@@ -815,6 +815,38 @@
     {
       "added_at": "2025-12-19 03:03:20",
       "album": {
+        "name": "Nada Mudou",
+        "url": "https://open.spotify.com/album/0hIJR1ky8OCbMhXVQp8Jjr"
+      },
+      "artists": [
+        {
+          "name": "Leo Jaime",
+          "url": "https://open.spotify.com/artist/2TjzEhCBd9s3YPWKPwKZYo"
+        }
+      ],
+      "duration_ms": 196457,
+      "name": "Nada Mudou",
+      "url": "https://open.spotify.com/track/4Vz23w4xQ6uSIRCLLLeEaR"
+    },
+    {
+      "added_at": "2025-12-19 03:03:20",
+      "album": {
+        "name": "Tudo Fica Bem (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/3ELasphaer4uFY996px5iC"
+      },
+      "artists": [
+        {
+          "name": "Tianastacia",
+          "url": "https://open.spotify.com/artist/3ucYi2JRu3j12lHbfqms9u"
+        }
+      ],
+      "duration_ms": 165489,
+      "name": "Tudo Fica Bem - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5IQiul9hH6sL4WNm8QS397"
+    },
+    {
+      "added_at": "2025-12-19 03:03:20",
+      "album": {
         "name": "Sweet Virginia / Across the Universe",
         "url": "https://open.spotify.com/album/5Tp6LVqSOfc5BBV0GjQYn6"
       },
@@ -835,22 +867,6 @@
       "duration_ms": 273089,
       "name": "Sweet Virginia",
       "url": "https://open.spotify.com/track/3S088c3IBFwMRuVBX8NFhT"
-    },
-    {
-      "added_at": "2025-12-19 03:03:20",
-      "album": {
-        "name": "Tudo Fica Bem (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/3ELasphaer4uFY996px5iC"
-      },
-      "artists": [
-        {
-          "name": "Tianastacia",
-          "url": "https://open.spotify.com/artist/3ucYi2JRu3j12lHbfqms9u"
-        }
-      ],
-      "duration_ms": 165489,
-      "name": "Tudo Fica Bem - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5IQiul9hH6sL4WNm8QS397"
     },
     {
       "added_at": "2025-12-19 03:03:20",
@@ -883,22 +899,6 @@
       "duration_ms": 228920,
       "name": "Hoje eu n\u00e3o vim falar de Amor",
       "url": "https://open.spotify.com/track/6anYWyiQuRfLFrVWP5Gc8R"
-    },
-    {
-      "added_at": "2025-12-19 03:03:20",
-      "album": {
-        "name": "Nada Mudou",
-        "url": "https://open.spotify.com/album/0hIJR1ky8OCbMhXVQp8Jjr"
-      },
-      "artists": [
-        {
-          "name": "Leo Jaime",
-          "url": "https://open.spotify.com/artist/2TjzEhCBd9s3YPWKPwKZYo"
-        }
-      ],
-      "duration_ms": 196457,
-      "name": "Nada Mudou",
-      "url": "https://open.spotify.com/track/4Vz23w4xQ6uSIRCLLLeEaR"
     },
     {
       "added_at": "2025-12-19 03:03:20",

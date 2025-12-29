@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7MyIrSeade.md) - [plain]
 
 > Cele mai bune piese pop ale anului 2025\. Cover: Delia
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,165 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,172 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70zl2mz7vvV.md) - [plain]
 
 > The essential tracks from the label VP Records\. Cover: Beenie Man
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,808 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,834 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70zl2mz7vvV.md) - [plain]
 | 42 | [Put Down The Weapon \(feat\. Capleton\)](https://open.spotify.com/track/4UPNMTYRckH4PCrnTzNwpl) | [Yami Bolo](https://open.spotify.com/artist/6K4qT7qjaR6q5SqwQ1oA3o), [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf) | [Jah Love](https://open.spotify.com/album/2lC2ZgJcDOxOlHroVLcCbG) | 4:01 |
 | 43 | [Hold You](https://open.spotify.com/track/6oBhPRIctSuiSA01i7bnzT) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Down In Jamaica: 40 Years of VP Records](https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn) | 3:52 |
 | 44 | [Babylon Too Rough](https://open.spotify.com/track/4qGgtuLYPCf3rApEDs7tgz) | [Gregory Isaacs](https://open.spotify.com/artist/4MRDjHgHTne2Ft2oA8JO2x) | [Reggae Anthology: Joe Gibbs \- Scorchers From The Mighty Two](https://open.spotify.com/album/5x9vcngxMjklHd0DOhvml9) | 2:55 |
-| 45 | [Budy Bye](https://open.spotify.com/track/3rUJa4wsM02woMtokBARO1) | [Johnny Osbourne](https://open.spotify.com/artist/5TUTGRG0FlRoYTZ4GEdOVO) | [Mr\. Budy Bye](https://open.spotify.com/album/4l0VLGx0zkJpLF5AEdNchw) | 4:04 |
-| 46 | [Trueversation \(feat\. Damian Marley\)](https://open.spotify.com/track/1NrhydZEnKzzrf4Q1UFdIq) | [Queen Ifrica](https://open.spotify.com/artist/5SK75gxwqKq5Zc1mdLfwv9), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Climb](https://open.spotify.com/album/4nc9KnE9TK5ObJXkxYWk0z) | 3:39 |
+| 45 | [Trueversation \(feat\. Damian Marley\)](https://open.spotify.com/track/1NrhydZEnKzzrf4Q1UFdIq) | [Queen Ifrica](https://open.spotify.com/artist/5SK75gxwqKq5Zc1mdLfwv9), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Climb](https://open.spotify.com/album/4nc9KnE9TK5ObJXkxYWk0z) | 3:39 |
+| 46 | [Budy Bye](https://open.spotify.com/track/3rUJa4wsM02woMtokBARO1) | [Johnny Osbourne](https://open.spotify.com/artist/5TUTGRG0FlRoYTZ4GEdOVO) | [Mr\. Budy Bye](https://open.spotify.com/album/4l0VLGx0zkJpLF5AEdNchw) | 4:04 |
 | 47 | [Splashing Dashing](https://open.spotify.com/track/0Cenbvs1uDQvTLhnCXw9zv) | [Garnett Silk](https://open.spotify.com/artist/4xDC3G6OUck11fSodF11jI) | [Reggae Anthology: Music Is The Rod](https://open.spotify.com/album/3JIyyQ4Re9JW5BB706adXk) | 3:19 |
 | 48 | [Footprints](https://open.spotify.com/track/6LjGQGrhPUtHLECjlWVTaa) | [T.O.K](https://open.spotify.com/artist/06JH3wcXkJg7eoxZVMO1UX) | [Down In Jamaica: 40 Years of VP Records](https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn) | 3:31 |
 | 49 | [Unity We Need \(feat\. Chronixx\)](https://open.spotify.com/track/5LHsnh2rrAunWXUSI7xqtO) | [Richie Spice](https://open.spotify.com/artist/3PqSrKPGZXefu4krgFCZSP), [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Together We Stand](https://open.spotify.com/album/1eUOFuDvLbju6Dbqj2KqlK) | 4:25 |

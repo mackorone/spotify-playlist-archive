@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 
 > Los temas esenciales de la escena independiente nacional\. Furland en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,949 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,976 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,16 +81,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qIBASHIrI.md) - [plain]
 | 71 | [Amorfos](https://open.spotify.com/track/2DmZbYnCLusQ1m20awqYnm) | [Disco Ruido](https://open.spotify.com/artist/6kfY9q7lPItE7Azxtzz3xH) | [Sistema Solar](https://open.spotify.com/album/59yujuM8E3OSYdjiWFIRRi) | 4:09 |
 | 72 | [Los Bajos Fondos](https://open.spotify.com/track/4LX270g9HEBkA0qYtGAel8) | [No Somos Marineros](https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP) | [D'arcy](https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu) | 2:53 |
 | 73 | [Tú Estás Más](https://open.spotify.com/track/3F9DzDNfF2qRBZ7rMmfNtE) | [Canseco](https://open.spotify.com/artist/4FiUcS3nZ5bfUOVAIC3Up5) | [El Tiempo y la Ciudad](https://open.spotify.com/album/3e8mntdTH7cBTooN1OqzwK) | 4:07 |
-| 74 | [Épocas](https://open.spotify.com/track/3izZ5EFLybEdk8q5dCh1eD) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [Épocas](https://open.spotify.com/album/5K42C7VGWtFP2MtH5wwP7M) | 3:41 |
-| 75 | [Lluvia](https://open.spotify.com/track/2I9OiNVmN2VyRXyd6b3iXI) | [Baltazar](https://open.spotify.com/artist/3bCoSxfUHJwe7ztAkZN7NW) | [Lluvia](https://open.spotify.com/album/07g3BVeM6QhWXfdLvRLlvy) | 4:14 |
+| 74 | [Lluvia](https://open.spotify.com/track/2I9OiNVmN2VyRXyd6b3iXI) | [Baltazar](https://open.spotify.com/artist/3bCoSxfUHJwe7ztAkZN7NW) | [Lluvia](https://open.spotify.com/album/07g3BVeM6QhWXfdLvRLlvy) | 4:14 |
+| 75 | [Épocas](https://open.spotify.com/track/3izZ5EFLybEdk8q5dCh1eD) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [Épocas](https://open.spotify.com/album/5K42C7VGWtFP2MtH5wwP7M) | 3:41 |
 | 76 | [Dejé de Ser Yo](https://open.spotify.com/track/3r9rdMjTGT9BFv4lhg3UY6) | [Torreblanca](https://open.spotify.com/artist/5sy13x4wGzkhvLeHr4HPEE) | [Bella Época](https://open.spotify.com/album/7HJRr6o6Efu5XJCFNPKtHd) | 2:54 |
 | 77 | [La Flotadera](https://open.spotify.com/track/0ZEsdBqaPVsfdmdn6SR0WJ) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [Arunima](https://open.spotify.com/album/5niZ3fPZnNq0HELNUqmvqT) | 4:25 |
 | 78 | [Sentado Aquí](https://open.spotify.com/track/7w6hhryYUd8U75m4whPw5w) | [Canseco](https://open.spotify.com/artist/4FiUcS3nZ5bfUOVAIC3Up5) | [Sentado Aquí](https://open.spotify.com/album/07RCNt8nAEOaetIOiuLvNp) | 4:20 |
 | 79 | [Miente](https://open.spotify.com/track/6EN1O6MTvo7QdSivuDy7pR) | [Los Marty](https://open.spotify.com/artist/5seqHZItOVyRw65m6CgiNx) | [Historias De Un Cowboy](https://open.spotify.com/album/3heymgUjbF6Z9o8CGKC8Kg) | 2:46 |
 | 80 | [Marginado](https://open.spotify.com/track/0DRqAaqeBsDh8m7RyVsckz) | [KOKÔ CECÊ](https://open.spotify.com/artist/4MAPWlyF0tOgw8djPFLU9V) | [Marginado](https://open.spotify.com/album/4giyZ5g7d0mLParNcnd5GF) | 3:24 |
-| 81 | [No Puedo Parar](https://open.spotify.com/track/7cgKezuhwPqno56de3WkZC) | [Meme del Real](https://open.spotify.com/artist/0HkMgxowXkwqDN3Z0s7kAB) | [No Puedo Parar](https://open.spotify.com/album/0rdaTkt5Qb4uZR6ESr408q) | 4:25 |
-| 82 | [Ja Ja Ja](https://open.spotify.com/track/4uFn00BDEN9SFt1Ow93yBn) | [Los Fancy Free](https://open.spotify.com/artist/2fEk73iGQuzvW93I9Tp1bt) | [Never Greens, Vol\. 1](https://open.spotify.com/album/4MV8h1smFlnTbQtgD3RxKh) | 4:01 |
-| 83 | [24 Horas](https://open.spotify.com/track/4rPPEiwF4MlBHEVMokts8v) | [60 Tigres](https://open.spotify.com/artist/0peet3zSweSxBCXSaGedVV) | [Animal](https://open.spotify.com/album/6Xs7IL8Aljl4uslAKzA5M1) | 4:15 |
+| 81 | [Ja Ja Ja](https://open.spotify.com/track/4uFn00BDEN9SFt1Ow93yBn) | [Los Fancy Free](https://open.spotify.com/artist/2fEk73iGQuzvW93I9Tp1bt) | [Never Greens, Vol\. 1](https://open.spotify.com/album/4MV8h1smFlnTbQtgD3RxKh) | 4:01 |
+| 82 | [24 Horas](https://open.spotify.com/track/4rPPEiwF4MlBHEVMokts8v) | [60 Tigres](https://open.spotify.com/artist/0peet3zSweSxBCXSaGedVV) | [Animal](https://open.spotify.com/album/6Xs7IL8Aljl4uslAKzA5M1) | 4:15 |
+| 83 | [No Puedo Parar](https://open.spotify.com/track/7cgKezuhwPqno56de3WkZC) | [Meme del Real](https://open.spotify.com/artist/0HkMgxowXkwqDN3Z0s7kAB) | [No Puedo Parar](https://open.spotify.com/album/0rdaTkt5Qb4uZR6ESr408q) | 4:25 |
 | 84 | [Todo](https://open.spotify.com/track/5fAArZM8ZLQPTwIvJLYacv) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [Todo](https://open.spotify.com/album/5noph1AdprfKF6MZuLJyVO) | 3:39 |
 | 85 | [Mi Chica](https://open.spotify.com/track/7tIFZKrcPgzNUKBEU3Dvkc) | [Los Reyes del Falsete](https://open.spotify.com/artist/3fSY3Q7ElfLbI1cR3RyOXd) | [La Fiesta de la Forma](https://open.spotify.com/album/5HRqHWTveNLtgJ1jOqmDey) | 6:51 |
 | 86 | [Alexander](https://open.spotify.com/track/5udE6XUnhzUvoC80bsYEMR) | [Rey Pila](https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW) | [The Future Sugar](https://open.spotify.com/album/3JFTJTZLNG2B0ZJpxcUBOt) | 3:30 |

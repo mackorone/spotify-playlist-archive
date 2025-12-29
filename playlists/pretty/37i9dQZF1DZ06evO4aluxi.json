@@ -1,12 +1,12 @@
 {
   "description": "This is Amy Grant. The essential tracks, all in one playlist.",
-  "num_followers": 18934,
+  "num_followers": 18938,
   "original_name": "This Is Amy Grant",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU3QAAAAAABZ6ESAPHFEV9dcZqblFNzO",
+  "snapshot_id": "aU8hgAAAAAAsi2iULD47HfpVw/ze/Nl3",
   "tracks": [
     {
       "added_at": null,
@@ -259,6 +259,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Age To Age",
+        "url": "https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 197106,
+      "name": "Sing Your Praise To The Lord",
+      "url": "https://open.spotify.com/track/6jvqADVH0zeozvLzJtgtil"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Come You Unfaithful (feat. Amy Grant)",
         "url": "https://open.spotify.com/album/2GB8RJEEcvyVyUt0YA3Uue"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 224516,
       "name": "Come You Unfaithful (feat. Amy Grant)",
       "url": "https://open.spotify.com/track/5GOut0CTS0tDTrmT0YSWZ1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Age To Age",
-        "url": "https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 197106,
-      "name": "Sing Your Praise To The Lord",
-      "url": "https://open.spotify.com/track/6jvqADVH0zeozvLzJtgtil"
     },
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Legacy...Hymns & Faith",
-        "url": "https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 210493,
-      "name": "What A Friend We Have In Jesus/Old Rugged Cross/How Great Thou Art - Medley",
-      "url": "https://open.spotify.com/track/6MVujIIaaERsNUJWBywK4n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Prince Of Egypt (Music From The Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5l7lj9nJbbTs0vCHhV0hVA"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 236800,
       "name": "River Lullaby",
       "url": "https://open.spotify.com/track/5jsQqMxW1EhBfr700ahC1v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Legacy...Hymns & Faith",
+        "url": "https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 294693,
+      "name": "It Is Well With My Soul/The River's Gonna Keep On Rolling - Medley",
+      "url": "https://open.spotify.com/track/3UFkUw2BMQRgwaqv1GLXHW"
     },
     {
       "added_at": null,
@@ -487,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Legacy...Hymns & Faith",
-        "url": "https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 294693,
-      "name": "It Is Well With My Soul/The River's Gonna Keep On Rolling - Medley",
-      "url": "https://open.spotify.com/track/3UFkUw2BMQRgwaqv1GLXHW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Age To Age",
         "url": "https://open.spotify.com/album/4VMXOQ84AZcpGJNwbkWD53"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 262880,
       "name": "In A Little While",
       "url": "https://open.spotify.com/track/7hLYRFeLsLfAcSo96EMbtx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Legacy...Hymns & Faith",
+        "url": "https://open.spotify.com/album/4JY1aDHyqitr24pkk4MeEs"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 210493,
+      "name": "What A Friend We Have In Jesus/Old Rugged Cross/How Great Thou Art - Medley",
+      "url": "https://open.spotify.com/track/6MVujIIaaERsNUJWBywK4n"
     },
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Father's Eyes",
-        "url": "https://open.spotify.com/album/7EJzRX6PB2SySpeD4wdb6S"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 246226,
-      "name": "Father's Eyes",
-      "url": "https://open.spotify.com/track/39dCwla9fnPt3RQHjwPQ5s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rock Of Ages...Hymns & Faith",
         "url": "https://open.spotify.com/album/4kw9LCGUCFSBHiKXk8gTwi"
       },
@@ -647,6 +631,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "My Father's Eyes",
+        "url": "https://open.spotify.com/album/7EJzRX6PB2SySpeD4wdb6S"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 246226,
+      "name": "Father's Eyes",
+      "url": "https://open.spotify.com/track/39dCwla9fnPt3RQHjwPQ5s"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Straight Ahead (Remastered)",
         "url": "https://open.spotify.com/album/1WPeYTE7GEqRzDNyRQQj28"
       },
@@ -659,6 +659,26 @@
       "duration_ms": 194986,
       "name": "Doubly Good To You - Remastered",
       "url": "https://open.spotify.com/track/0d7Vaa81BKaaFNh0loZLKT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Duets: Friends & Legends",
+        "url": "https://open.spotify.com/album/6BaLWbrpawEf3ZqO9xgtWd"
+      },
+      "artists": [
+        {
+          "name": "Anne Murray",
+          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
+        },
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 198546,
+      "name": "Could I Have This Dance",
+      "url": "https://open.spotify.com/track/0eXpvoN6ReEXq8jAMDOxxD"
     },
     {
       "added_at": null,
@@ -719,26 +739,6 @@
       "duration_ms": 194226,
       "name": "Thank You for Being You",
       "url": "https://open.spotify.com/track/6b7xNBl42iQIoB3bR2sK4h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Duets: Friends & Legends",
-        "url": "https://open.spotify.com/album/6BaLWbrpawEf3ZqO9xgtWd"
-      },
-      "artists": [
-        {
-          "name": "Anne Murray",
-          "url": "https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E"
-        },
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 198546,
-      "name": "Could I Have This Dance",
-      "url": "https://open.spotify.com/track/0eXpvoN6ReEXq8jAMDOxxD"
     },
     {
       "added_at": null,

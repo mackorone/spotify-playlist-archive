@@ -4,7 +4,7 @@
 
 > This is $uicideboy$\. The essential tracks, all in one playlist.
 
-84 songs - 3 hr 36 min
+85 songs - 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Kill Yourself \(Part IV\)](https://open.spotify.com/track/3LLYTletE6uiRZ0hgMSrCN) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Kill Yourself \(Part IV\)](https://open.spotify.com/album/2lWXXZ9VyzighDLU1Z4D0t) | 1:53 | 2024-04-06 |  |
 | [Leviticus](https://open.spotify.com/track/2QesOhDm8RV7gQ3xbu41xm) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [THY WILL BE DONE](https://open.spotify.com/album/7jtViL0H9WMUkCrsafE4xo) | 2:04 | 2025-12-28 |  |
 | [Lone Wolf Hysteria](https://open.spotify.com/track/1rjvXhfeSpVVqERzW8qhRw) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [New World Depression](https://open.spotify.com/album/1lKWIQuLHxdlifTuudutTl) | 1:47 | 2024-06-17 | 2025-12-28 |
-| [LTE](https://open.spotify.com/track/6GB3N6bDucdHThFVDCBcCv) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [YUNGDEATHLILLIFE](https://open.spotify.com/album/4CUUYKJvxsH5E18kkPQofa) | 2:13 | 2024-04-06 |  |
+| [LTE](https://open.spotify.com/track/6GB3N6bDucdHThFVDCBcCv) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [YUNGDEATHLILLIFE](https://open.spotify.com/album/4CUUYKJvxsH5E18kkPQofa) | 2:13 | 2024-04-06 | 2025-12-29 |
 | [Matte Black](https://open.spotify.com/track/0hPRWztAIbNkt6GcFcLiqF) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Sing Me a Lullaby, My Sweet Temptation](https://open.spotify.com/album/3elJRIffdqvypuxoDND2Q3) | 3:58 | 2024-04-06 |  |
 | [Memoirs of a Gorilla](https://open.spotify.com/track/32B4HyegZNlYIWhENs8FcZ) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Getter](https://open.spotify.com/artist/3QryVD03gGZOLQQXjy3EoA) | [Radical $uicide](https://open.spotify.com/album/1W7VBnHCvLa2cG9yWZT52t) | 2:02 | 2024-04-06 |  |
 | [Mental Clarity Is a Luxury I Can't Afford](https://open.spotify.com/track/0JcD5qI9SxWqdEWmRjUX9X) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [New World Depression](https://open.spotify.com/album/1lKWIQuLHxdlifTuudutTl) | 2:25 | 2024-06-17 | 2024-07-13 |
@@ -72,6 +72,7 @@
 | [Now I'm Up to My Neck with Offers](https://open.spotify.com/track/5ClnW65Z82Mqu4QFwf69YU) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [KILL YOURSELF Part XX: The Infinity Saga](https://open.spotify.com/album/1sbKmnLvYSP6o6iPCjmCVd) | 2:47 | 2024-04-06 | 2025-08-03 |
 | [O Pana!](https://open.spotify.com/track/0cQvicmQo8syJ2Zv8aYDfN) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Eternal Grey](https://open.spotify.com/album/2hAoB9uIsHVFABuuOREFmB) | 2:08 | 2024-04-06 |  |
 | [Oh, What a Wretched Man I Am!](https://open.spotify.com/track/6LCGD2bl7itBHHayQ4ltPc) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [THY KINGDOM COME](https://open.spotify.com/album/7HxLze2RiYrM9f2un8HZUp) | 2:39 | 2025-08-03 |  |
+| [Old Addicts, New Habits](https://open.spotify.com/track/5AxlVw8DrwxmQxB7F7U8LE) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [THY WILL BE DONE](https://open.spotify.com/album/7jtViL0H9WMUkCrsafE4xo) | 2:52 | 2025-12-29 |  |
 | [Paris](https://open.spotify.com/track/6tO5bxNnMuh1c3cziSpecA) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Now the Moon's Rising](https://open.spotify.com/album/12RWpV5WUjYo4SisuFWMNK) | 1:51 | 2024-04-06 |  |
 | [Putrid Pride](https://open.spotify.com/track/4x3vJJYSW9fZWIubv5mmww) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Stop Staring At the Shadows](https://open.spotify.com/album/7rKmLxCFlmtIxGpX4HYgs4) | 1:46 | 2024-04-06 |  |
 | [Runnin' Thru the 7th with My Woadies](https://open.spotify.com/track/1tm7c4V0kqLiN0XPVnoUcT) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY) | [$outh $ide $uicide](https://open.spotify.com/album/1p8YahLiju8skFYWBJTEOl) | 3:25 | 2024-04-06 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Unforgettable love songs from the 1960s.",
-  "num_followers": 252853,
+  "num_followers": 252914,
   "original_name": "60s Love Songs",
   "owner": {
     "name": "Spotify",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-07-14 11:25:03",
       "album": {
-        "name": "The Very Best of The Everly Brothers",
-        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
-      },
-      "artists": [
-        {
-          "name": "The Everly Brothers",
-          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
-        }
-      ],
-      "duration_ms": 146066,
-      "name": "('Til) I Kissed You",
-      "url": "https://open.spotify.com/track/2erTdgDOZmjJNaNhjhWXhJ"
-    },
-    {
-      "added_at": "2024-07-14 11:25:03",
-      "album": {
         "name": "You've Lost That Lovin' Feelin'",
         "url": "https://open.spotify.com/album/2709noR52E7iVM5zNTsfXL"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 224000,
       "name": "You've Lost That Lovin' Feelin' - Single Version",
       "url": "https://open.spotify.com/track/3no0tiiQldD3LnsxwVtnnk"
+    },
+    {
+      "added_at": "2024-07-14 11:25:03",
+      "album": {
+        "name": "The Very Best of The Everly Brothers",
+        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
+      },
+      "artists": [
+        {
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+        }
+      ],
+      "duration_ms": 146066,
+      "name": "('Til) I Kissed You",
+      "url": "https://open.spotify.com/track/2erTdgDOZmjJNaNhjhWXhJ"
     },
     {
       "added_at": "2024-07-14 11:25:03",

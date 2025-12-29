@@ -1,6 +1,6 @@
 {
   "description": "Big rap for big reps. You got this.",
-  "num_followers": 2532824,
+  "num_followers": 2533092,
   "original_name": "Rap Workout",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,22 @@
     {
       "added_at": "2025-11-04 12:39:57",
       "album": {
+        "name": "Not Like Us",
+        "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 274192,
+      "name": "Not Like Us",
+      "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
+    },
+    {
+      "added_at": "2025-11-04 12:39:57",
+      "album": {
         "name": "$ome $exy $ongs 4 U",
         "url": "https://open.spotify.com/album/6Rl6YoCarF2GHPSQmmFjuR"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 243836,
       "name": "goosebumps",
       "url": "https://open.spotify.com/track/6gBFPUFcJLzWGx4lenP6h2"
-    },
-    {
-      "added_at": "2025-11-04 12:39:57",
-      "album": {
-        "name": "Not Like Us",
-        "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 274192,
-      "name": "Not Like Us",
-      "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
     },
     {
       "added_at": "2025-11-04 12:39:57",
@@ -267,6 +267,26 @@
     {
       "added_at": "2025-11-04 12:39:57",
       "album": {
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 191700,
+      "name": "FE!N (feat. Playboi Carti)",
+      "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
+    },
+    {
+      "added_at": "2025-11-04 12:39:57",
+      "album": {
         "name": "The Massacre",
         "url": "https://open.spotify.com/album/2pidzXTaHV4WaIJYRxKDCH"
       },
@@ -295,26 +315,6 @@
       "duration_ms": 144000,
       "name": "one of wun",
       "url": "https://open.spotify.com/track/4Na2HfNSr58chvfX69fy36"
-    },
-    {
-      "added_at": "2025-11-04 12:39:57",
-      "album": {
-        "name": "UTOPIA",
-        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 191700,
-      "name": "FE!N (feat. Playboi Carti)",
-      "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
     },
     {
       "added_at": "2025-11-04 12:39:57",
@@ -407,6 +407,42 @@
     {
       "added_at": "2025-11-04 12:39:57",
       "album": {
+        "name": "HIGHEST IN THE ROOM",
+        "url": "https://open.spotify.com/album/2uDTi1PlpSpvAv7IRAoAEU"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 175720,
+      "name": "HIGHEST IN THE ROOM",
+      "url": "https://open.spotify.com/track/3eekarcy7kvN4yt5ZFzltW"
+    },
+    {
+      "added_at": "2025-11-04 12:39:57",
+      "album": {
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "duration_ms": 291175,
+      "name": "Fair Trade (with Travis Scott)",
+      "url": "https://open.spotify.com/track/40iJIUlhi6renaREYGeIDS"
+    },
+    {
+      "added_at": "2025-11-04 12:39:57",
+      "album": {
         "name": "CHROMAKOPIA",
         "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
       },
@@ -435,22 +471,6 @@
     {
       "added_at": "2025-11-04 12:39:57",
       "album": {
-        "name": "HIGHEST IN THE ROOM",
-        "url": "https://open.spotify.com/album/2uDTi1PlpSpvAv7IRAoAEU"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 175720,
-      "name": "HIGHEST IN THE ROOM",
-      "url": "https://open.spotify.com/track/3eekarcy7kvN4yt5ZFzltW"
-    },
-    {
-      "added_at": "2025-11-04 12:39:57",
-      "album": {
         "name": "GNX",
         "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
       },
@@ -463,26 +483,6 @@
       "duration_ms": 157992,
       "name": "squabble up",
       "url": "https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb"
-    },
-    {
-      "added_at": "2025-11-04 12:39:57",
-      "album": {
-        "name": "Certified Lover Boy",
-        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 291175,
-      "name": "Fair Trade (with Travis Scott)",
-      "url": "https://open.spotify.com/track/40iJIUlhi6renaREYGeIDS"
     },
     {
       "added_at": "2025-11-04 12:39:57",
@@ -559,6 +559,22 @@
     {
       "added_at": "2025-11-04 12:39:57",
       "album": {
+        "name": "Lovin On Me",
+        "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 138411,
+      "name": "Lovin On Me",
+      "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
+    },
+    {
+      "added_at": "2025-11-04 12:39:57",
+      "album": {
         "name": "Honestly, Nevermind",
         "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
       },
@@ -579,22 +595,6 @@
     {
       "added_at": "2025-11-04 12:39:57",
       "album": {
-        "name": "Lovin On Me",
-        "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 138411,
-      "name": "Lovin On Me",
-      "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
-    },
-    {
-      "added_at": "2025-11-04 12:39:57",
-      "album": {
         "name": "wgft (feat. Burna Boy)",
         "url": "https://open.spotify.com/album/5LgGFj0CG4iJ1MynD791hi"
       },
@@ -611,26 +611,6 @@
       "duration_ms": 184440,
       "name": "wgft (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/4kCkgD1ITALBjzBwGsf6tW"
-    },
-    {
-      "added_at": "2025-11-04 12:39:57",
-      "album": {
-        "name": "Sprinter",
-        "url": "https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 229133,
-      "name": "Sprinter",
-      "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
     },
     {
       "added_at": "2025-11-04 12:39:57",
@@ -663,6 +643,42 @@
       "duration_ms": 139196,
       "name": "LIL DEMON",
       "url": "https://open.spotify.com/track/3aCPResPDNae3pXTocGpYe"
+    },
+    {
+      "added_at": "2025-11-04 12:39:57",
+      "album": {
+        "name": "Sprinter",
+        "url": "https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 229133,
+      "name": "Sprinter",
+      "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
+    },
+    {
+      "added_at": "2025-11-04 12:39:57",
+      "album": {
+        "name": "What Did I Miss?",
+        "url": "https://open.spotify.com/album/0bNfrGST1xSPZ3V3g5jjHT"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 194324,
+      "name": "What Did I Miss?",
+      "url": "https://open.spotify.com/track/57GsLpRtEtrzcPGPop20rS"
     },
     {
       "added_at": "2025-11-04 12:39:57",
@@ -735,22 +751,6 @@
       "duration_ms": 161342,
       "name": "Whatever She Wants",
       "url": "https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ"
-    },
-    {
-      "added_at": "2025-11-04 12:39:57",
-      "album": {
-        "name": "What Did I Miss?",
-        "url": "https://open.spotify.com/album/0bNfrGST1xSPZ3V3g5jjHT"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 194324,
-      "name": "What Did I Miss?",
-      "url": "https://open.spotify.com/track/57GsLpRtEtrzcPGPop20rS"
     },
     {
       "added_at": "2025-11-04 12:39:57",
@@ -947,26 +947,6 @@
     {
       "added_at": "2025-11-04 12:39:57",
       "album": {
-        "name": "DON'T TAP THE GLASS",
-        "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        }
-      ],
-      "duration_ms": 182401,
-      "name": "Big Poe (feat. Sk8brd)",
-      "url": "https://open.spotify.com/track/4sLvxpKLvagQ4lZHUpymza"
-    },
-    {
-      "added_at": "2025-11-04 12:39:57",
-      "album": {
         "name": "Life Is Good (feat. Drake)",
         "url": "https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 237735,
       "name": "Life Is Good (feat. Drake)",
       "url": "https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc"
+    },
+    {
+      "added_at": "2025-11-04 12:39:57",
+      "album": {
+        "name": "DON'T TAP THE GLASS",
+        "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "duration_ms": 182401,
+      "name": "Big Poe (feat. Sk8brd)",
+      "url": "https://open.spotify.com/track/4sLvxpKLvagQ4lZHUpymza"
     },
     {
       "added_at": "2025-11-04 12:39:57",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2025-11-04 12:39:57",
       "album": {
-        "name": "GNX",
-        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 317092,
-      "name": "wacced out murals",
-      "url": "https://open.spotify.com/track/5gOfC9UzZQzTyShqPMrpjT"
-    },
-    {
-      "added_at": "2025-11-04 12:39:57",
-      "album": {
         "name": "It's Dark And Hell Is Hot",
         "url": "https://open.spotify.com/album/2xIhksIizs6gWdRBYdiTLc"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 214440,
       "name": "Ruff Ryders' Anthem",
       "url": "https://open.spotify.com/track/1BKT2I9x4RGKaKqW4up34s"
+    },
+    {
+      "added_at": "2025-11-04 12:39:57",
+      "album": {
+        "name": "GNX",
+        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 317092,
+      "name": "wacced out murals",
+      "url": "https://open.spotify.com/track/5gOfC9UzZQzTyShqPMrpjT"
     },
     {
       "added_at": "2025-11-04 12:39:57",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2025-11-04 12:39:57",
       "album": {
-        "name": "him all along",
-        "url": "https://open.spotify.com/album/5HoNV9xqGbGufrIFH271dR"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 158666,
-      "name": "him all along",
-      "url": "https://open.spotify.com/track/2EKL77lwxvo615Ga7VjEUl"
-    },
-    {
-      "added_at": "2025-11-04 12:39:57",
-      "album": {
         "name": "Motley Crew",
         "url": "https://open.spotify.com/album/4tokbQaFXRrq8keVGBD9vb"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 184213,
       "name": "Motley Crew",
       "url": "https://open.spotify.com/track/40uMIn2zJLAQhNXghRjBed"
+    },
+    {
+      "added_at": "2025-11-04 12:39:57",
+      "album": {
+        "name": "him all along",
+        "url": "https://open.spotify.com/album/5HoNV9xqGbGufrIFH271dR"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 158666,
+      "name": "him all along",
+      "url": "https://open.spotify.com/track/2EKL77lwxvo615Ga7VjEUl"
     },
     {
       "added_at": "2025-11-04 12:39:57",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2025-11-04 12:39:57",
       "album": {
-        "name": "GOT DAMN",
-        "url": "https://open.spotify.com/album/6HO6ObAHr6Yf03scMOWFec"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 156800,
-      "name": "GOT DAMN",
-      "url": "https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP"
-    },
-    {
-      "added_at": "2025-11-04 12:39:57",
-      "album": {
         "name": "ART (feat. Latto)",
         "url": "https://open.spotify.com/album/7L9Eju0apmugn3ThyzNiNc"
       },
@@ -1487,6 +1471,22 @@
     {
       "added_at": "2025-11-04 12:39:57",
       "album": {
+        "name": "Sugar Honey Iced Tea",
+        "url": "https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 217613,
+      "name": "Brokey",
+      "url": "https://open.spotify.com/track/1JF8LkQWZ8grXb2emqrNKn"
+    },
+    {
+      "added_at": "2025-11-04 12:39:57",
+      "album": {
         "name": "Life of a DON",
         "url": "https://open.spotify.com/album/2WmJ5wp5wKBlIJE6FDAIBJ"
       },
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2025-11-04 12:39:57",
       "album": {
-        "name": "Sugar Honey Iced Tea",
-        "url": "https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp"
+        "name": "GOT DAMN",
+        "url": "https://open.spotify.com/album/6HO6ObAHr6Yf03scMOWFec"
       },
       "artists": [
         {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 217613,
-      "name": "Brokey",
-      "url": "https://open.spotify.com/track/1JF8LkQWZ8grXb2emqrNKn"
+      "duration_ms": 156800,
+      "name": "GOT DAMN",
+      "url": "https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP"
     },
     {
       "added_at": "2025-11-04 12:39:57",
@@ -1567,42 +1567,6 @@
     {
       "added_at": "2025-11-04 12:39:57",
       "album": {
-        "name": "Split Decision",
-        "url": "https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 198026,
-      "name": "UK Rap",
-      "url": "https://open.spotify.com/track/2VjOTvl50tscmc0RDjPdr2"
-    },
-    {
-      "added_at": "2025-11-04 12:39:57",
-      "album": {
-        "name": "My 21st Century Blues",
-        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 201373,
-      "name": "Flip A Switch.",
-      "url": "https://open.spotify.com/track/252ZECHopILLs10pMfE76N"
-    },
-    {
-      "added_at": "2025-11-04 12:39:57",
-      "album": {
         "name": "Slime Language 2",
         "url": "https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC"
       },
@@ -1639,6 +1603,42 @@
       "duration_ms": 184634,
       "name": "Thot Shit",
       "url": "https://open.spotify.com/track/5zNW5ARjYhJQJz1AChP33n"
+    },
+    {
+      "added_at": "2025-11-04 12:39:57",
+      "album": {
+        "name": "My 21st Century Blues",
+        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 201373,
+      "name": "Flip A Switch.",
+      "url": "https://open.spotify.com/track/252ZECHopILLs10pMfE76N"
+    },
+    {
+      "added_at": "2025-11-04 12:39:57",
+      "album": {
+        "name": "Split Decision",
+        "url": "https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 198026,
+      "name": "UK Rap",
+      "url": "https://open.spotify.com/track/2VjOTvl50tscmc0RDjPdr2"
     },
     {
       "added_at": "2025-11-04 12:39:57",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2025-11-04 12:39:57",
       "album": {
-        "name": "Titanium & Mercury",
-        "url": "https://open.spotify.com/album/1A0K9zewunqFt9drGNk2W5"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        }
-      ],
-      "duration_ms": 127750,
-      "name": "Titanium",
-      "url": "https://open.spotify.com/track/2qzW5AK8ldKUOWUETwAkZY"
-    },
-    {
-      "added_at": "2025-11-04 12:39:57",
-      "album": {
         "name": "Who is Nardo Wick?? (Deluxe)",
         "url": "https://open.spotify.com/album/47Thm1tltjJVofuRumhfmi"
       },
@@ -1907,22 +1891,34 @@
     {
       "added_at": "2025-11-04 12:39:57",
       "album": {
-        "name": "Legends (with Lil Baby)",
-        "url": "https://open.spotify.com/album/4m0CbLFqZMcBEA8ChPOPmh"
+        "name": "Evicted",
+        "url": "https://open.spotify.com/album/3OhdKF1s2F5ZwXNd3UXYaP"
       },
       "artists": [
         {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
         }
       ],
-      "duration_ms": 181448,
-      "name": "Legends (with Lil Baby)",
-      "url": "https://open.spotify.com/track/4LRxmoIbLJDcvEhqFgSF29"
+      "duration_ms": 161118,
+      "name": "Evicted",
+      "url": "https://open.spotify.com/track/7fa52ALD2bCARSLj7R0BUw"
+    },
+    {
+      "added_at": "2025-11-04 12:39:57",
+      "album": {
+        "name": "Ball If I Want To",
+        "url": "https://open.spotify.com/album/6N9oICOUm4QT2YpWdKwUlu"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 112546,
+      "name": "Ball If I Want To",
+      "url": "https://open.spotify.com/track/0cu0rhnlCnJ7JIeHRiLpj3"
     }
   ],
   "unique_name": "Rap Workout",

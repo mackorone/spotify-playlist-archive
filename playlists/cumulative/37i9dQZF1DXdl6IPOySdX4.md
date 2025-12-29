@@ -4,7 +4,7 @@
 
 > you up?
 
-547 songs - 1 day 6 hr 33 min
+548 songs - 1 day 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Agora Hills](https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 4:25 | 2023-09-22 |  |
 | [Ain’t Safe \(feat\. Don Toliver\)](https://open.spotify.com/track/6ja11GoXgF75QkEVqqAadn) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Ain’t Safe \(feat\. Don Toliver\)](https://open.spotify.com/album/2XlxXuumhYX4lIU2nXoUXw) | 2:46 | 2022-10-28 | 2023-01-29 |
 | [ALL I SAW WAS YOU \(feat\. Jessica Baio\)](https://open.spotify.com/track/4wheipzDTRRuxDeTfjeeDE) | [Johnny Huynh](https://open.spotify.com/artist/7qX6R9NU7sWD66KLlYKnju), [Jessica Baio](https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95) | [ALL I SAW WAS YOU \(feat\. Jessica Baio\)](https://open.spotify.com/album/4NgDWmNwmNjKXp3pppJjsp) | 3:05 | 2025-11-21 | 2025-12-26 |
-| [ALL I WANT IS YOU](https://open.spotify.com/track/77Fi5t6oOR6mdAHD2WA08Z) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [ALL I WANT IS YOU](https://open.spotify.com/album/1ZZTPaYWIlSf2fto9DSsSl) | 2:15 | 2025-06-06 |  |
+| [ALL I WANT IS YOU](https://open.spotify.com/track/77Fi5t6oOR6mdAHD2WA08Z) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [ALL I WANT IS YOU](https://open.spotify.com/album/1ZZTPaYWIlSf2fto9DSsSl) | 2:15 | 2025-06-06 | 2025-12-29 |
 | [ALL MINE](https://open.spotify.com/track/3XgGQ1wjo5khvq2UImjyNF) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:36 | 2022-07-08 |  |
 | [All Night \(feat\. Trippie Redd\)](https://open.spotify.com/track/0RW7ykDvCSTMF5FT4lIFfL) | [S\-X](https://open.spotify.com/artist/0JYmighF3zbuA81Di54CZN), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [All Night \(feat\. Trippie Redd\)](https://open.spotify.com/album/5GUgoPG9hrtOyix0u2tG37) | 3:07 | 2022-04-01 | 2022-04-20 |
 | [All The Time](https://open.spotify.com/track/7nyOUQbRoDts90BhAgzapi) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Natasha Mosley](https://open.spotify.com/artist/1fYdgyGBrMIEML5cuo5FpZ) | [American Honey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0FqLgj2sag3iodr9f0Zaxd) | 4:25 | 2022-03-25 | 2022-04-17 |
@@ -501,6 +501,7 @@
 | [Thinkin Bout You](https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:20 | 2022-03-25 |  |
 | [Thinking Bout You](https://open.spotify.com/track/0J8TS2cS0IWff5DPLJJQi8) | [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Thinking Bout You](https://open.spotify.com/album/4weAfakv01b0hrO7i9Cacu) | 3:10 | 2022-05-27 | 2022-07-30 |
 | [THRU THE NIGHT \(feat\. Bryson Tiller\)](https://open.spotify.com/track/1AgSUWSzmza5jF6ER5R68v) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Confetti](https://open.spotify.com/album/7xfcihbsBamUi6sezd0oOG) | 2:08 | 2022-03-25 | 2022-04-21 |
+| [time alone w u](https://open.spotify.com/track/5l8XXqPtwQQ28ThnjaDUh5) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [time alone w u](https://open.spotify.com/album/0hJGN8c6ZDBsYWf2roeBCR) | 2:12 | 2025-12-25 |  |
 | [TiO](https://open.spotify.com/track/7jKdgYPDj6AxVU2wk9muN1) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Mind Of Mine \(Deluxe Edition\)](https://open.spotify.com/album/5amj9zNeZ3B2EdpBgXrOZ0) | 2:58 | 2022-03-25 | 2022-04-21 |
 | [Too Fast](https://open.spotify.com/track/42QRyJd5x6e2TFR1S41g2p) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW) | [Too Fast](https://open.spotify.com/album/3VOtFn4nuS6eOiwBMnEY2j) | 5:08 | 2022-03-25 | 2022-04-21 |
 | [TOUCH](https://open.spotify.com/track/7mZ19pGoinaWwanIDq0JTY) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [TOUCH](https://open.spotify.com/album/58QltYKAAcCgYSoyzDsCP7) | 3:25 | 2022-02-11 | 2022-07-29 |

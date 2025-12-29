@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 435192,
+  "num_followers": 435243,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2025-12-04 23:00:16",
       "album": {
-        "name": "You Are My Sunshine",
-        "url": "https://open.spotify.com/album/5ueNN8xbGK6BMFnLjeiXUM"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Thompson",
-          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
-        }
-      ],
-      "duration_ms": 157868,
-      "name": "You Are My Sunshine",
-      "url": "https://open.spotify.com/track/5qMjtrGnezsafpH4oqg7oU"
-    },
-    {
-      "added_at": "2025-12-04 23:00:16",
-      "album": {
         "name": "BBY ROMEO",
         "url": "https://open.spotify.com/album/6MNveBkoPPQgHQfM560Zcz"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 219960,
       "name": "I'm Like A Bird - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2JtSnwYNKOphDrshYL8n4p"
+    },
+    {
+      "added_at": "2025-12-04 23:00:16",
+      "album": {
+        "name": "Blood",
+        "url": "https://open.spotify.com/album/6yoGOJsTjU7w2amKcUUX7S"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 238666,
+      "name": "Song For You",
+      "url": "https://open.spotify.com/track/0BfLvshnvJldGROufmYCrv"
     },
     {
       "added_at": "2025-12-04 23:00:16",
@@ -283,18 +283,18 @@
     {
       "added_at": "2025-12-04 23:00:16",
       "album": {
-        "name": "Blood",
-        "url": "https://open.spotify.com/album/6yoGOJsTjU7w2amKcUUX7S"
+        "name": "You Are My Sunshine",
+        "url": "https://open.spotify.com/album/5ueNN8xbGK6BMFnLjeiXUM"
       },
       "artists": [
         {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+          "name": "Jasmine Thompson",
+          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
         }
       ],
-      "duration_ms": 238666,
-      "name": "Song For You",
-      "url": "https://open.spotify.com/track/0BfLvshnvJldGROufmYCrv"
+      "duration_ms": 157868,
+      "name": "You Are My Sunshine",
+      "url": "https://open.spotify.com/track/5qMjtrGnezsafpH4oqg7oU"
     },
     {
       "added_at": "2025-12-04 23:00:16",
@@ -755,18 +755,22 @@
     {
       "added_at": "2025-12-04 23:00:16",
       "album": {
-        "name": "Otro Culito",
-        "url": "https://open.spotify.com/album/3t5c0UXgnZDIxpMy6JE75m"
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/3D4uWbaadwTFrOgddwKnGW"
       },
       "artists": [
         {
-          "name": "Natalia Lacunza",
-          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
+          "name": "Hannes",
+          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
+        },
+        {
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
         }
       ],
-      "duration_ms": 203929,
-      "name": "Otro Culito",
-      "url": "https://open.spotify.com/track/5GbsTPypLz8xm3Y8jK8vk5"
+      "duration_ms": 199746,
+      "name": "Wish",
+      "url": "https://open.spotify.com/track/4SDclRHhC2Nf2qoYjeyvtk"
     },
     {
       "added_at": "2025-12-04 23:00:16",
@@ -791,38 +795,18 @@
     {
       "added_at": "2025-12-04 23:00:16",
       "album": {
-        "name": "Wish",
-        "url": "https://open.spotify.com/album/3D4uWbaadwTFrOgddwKnGW"
+        "name": "Otro Culito",
+        "url": "https://open.spotify.com/album/3t5c0UXgnZDIxpMy6JE75m"
       },
       "artists": [
         {
-          "name": "Hannes",
-          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
-        },
-        {
-          "name": "waterbaby",
-          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
+          "name": "Natalia Lacunza",
+          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
         }
       ],
-      "duration_ms": 199746,
-      "name": "Wish",
-      "url": "https://open.spotify.com/track/4SDclRHhC2Nf2qoYjeyvtk"
-    },
-    {
-      "added_at": "2025-12-04 23:00:16",
-      "album": {
-        "name": "Unchained Melody",
-        "url": "https://open.spotify.com/album/7BKTOFQtwCo78sCpM7woOG"
-      },
-      "artists": [
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Unchained Melody",
-      "url": "https://open.spotify.com/track/2eH4LAMhD20bl8tQseKckb"
+      "duration_ms": 203929,
+      "name": "Otro Culito",
+      "url": "https://open.spotify.com/track/5GbsTPypLz8xm3Y8jK8vk5"
     },
     {
       "added_at": "2025-12-04 23:00:16",
@@ -839,6 +823,22 @@
       "duration_ms": 326206,
       "name": "I Don't Want to Change You",
       "url": "https://open.spotify.com/track/2WOpBtXX02RS4UCzBholDq"
+    },
+    {
+      "added_at": "2025-12-04 23:00:16",
+      "album": {
+        "name": "Unchained Melody",
+        "url": "https://open.spotify.com/album/7BKTOFQtwCo78sCpM7woOG"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Unchained Melody",
+      "url": "https://open.spotify.com/track/2eH4LAMhD20bl8tQseKckb"
     },
     {
       "added_at": "2025-12-04 23:00:16",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2025-12-04 23:00:16",
       "album": {
-        "name": "FAN\u00c1TICA",
-        "url": "https://open.spotify.com/album/2RYZVAoIgf1UuMuah4CNVq"
-      },
-      "artists": [
-        {
-          "name": "LUSILLON",
-          "url": "https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up"
-        }
-      ],
-      "duration_ms": 206538,
-      "name": "Tu VIP",
-      "url": "https://open.spotify.com/track/7dpiIyazo7prnbxzse5zxk"
-    },
-    {
-      "added_at": "2025-12-04 23:00:16",
-      "album": {
         "name": "RID\u00cdCULO",
         "url": "https://open.spotify.com/album/3nQzkiCIGfJxfe4hNoV9gJ"
       },
@@ -1147,22 +1131,18 @@
     {
       "added_at": "2025-12-04 23:00:16",
       "album": {
-        "name": "EL CORAZ\u00d3N MANDA",
-        "url": "https://open.spotify.com/album/2am6bidvxhxkCd2iHwjR3V"
+        "name": "FAN\u00c1TICA",
+        "url": "https://open.spotify.com/album/2RYZVAoIgf1UuMuah4CNVq"
       },
       "artists": [
         {
-          "name": "Nico Miseria",
-          "url": "https://open.spotify.com/artist/79ff28apoBUFLfPJQoTfro"
-        },
-        {
-          "name": "alba calva",
-          "url": "https://open.spotify.com/artist/4PPFJLJG8yQDVOA8q3Wll9"
+          "name": "LUSILLON",
+          "url": "https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up"
         }
       ],
-      "duration_ms": 123874,
-      "name": "EL CORAZ\u00d3N MANDA",
-      "url": "https://open.spotify.com/track/4qCmpBzCKRvvvfLtcS9JTm"
+      "duration_ms": 206538,
+      "name": "Tu VIP",
+      "url": "https://open.spotify.com/track/7dpiIyazo7prnbxzse5zxk"
     },
     {
       "added_at": "2025-12-04 23:00:16",
@@ -1179,6 +1159,26 @@
       "duration_ms": 195882,
       "name": "Amor del bueno",
       "url": "https://open.spotify.com/track/1Qc4t3ahDAy9Bpkx8ZZtid"
+    },
+    {
+      "added_at": "2025-12-04 23:00:16",
+      "album": {
+        "name": "EL CORAZ\u00d3N MANDA",
+        "url": "https://open.spotify.com/album/2am6bidvxhxkCd2iHwjR3V"
+      },
+      "artists": [
+        {
+          "name": "Nico Miseria",
+          "url": "https://open.spotify.com/artist/79ff28apoBUFLfPJQoTfro"
+        },
+        {
+          "name": "alba calva",
+          "url": "https://open.spotify.com/artist/4PPFJLJG8yQDVOA8q3Wll9"
+        }
+      ],
+      "duration_ms": 123874,
+      "name": "EL CORAZ\u00d3N MANDA",
+      "url": "https://open.spotify.com/track/4qCmpBzCKRvvvfLtcS9JTm"
     },
     {
       "added_at": "2025-12-04 23:00:16",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2025-12-04 23:00:16",
       "album": {
+        "name": "My Ideal",
+        "url": "https://open.spotify.com/album/4SfFruFJG1n6riQqC9FVT4"
+      },
+      "artists": [
+        {
+          "name": "Mei Semones",
+          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
+        }
+      ],
+      "duration_ms": 283500,
+      "name": "My Ideal",
+      "url": "https://open.spotify.com/track/2B8BmgVUQKTWIOwWGr13Mh"
+    },
+    {
+      "added_at": "2025-12-04 23:00:16",
+      "album": {
         "name": "SANGRE SUCIA",
         "url": "https://open.spotify.com/album/5IJdvt0teywA092QRwMSJM"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 213563,
       "name": "Mandela Place",
       "url": "https://open.spotify.com/track/1SqupVv0WUtDM1LeKsKkw5"
-    },
-    {
-      "added_at": "2025-12-04 23:00:16",
-      "album": {
-        "name": "My Ideal",
-        "url": "https://open.spotify.com/album/4SfFruFJG1n6riQqC9FVT4"
-      },
-      "artists": [
-        {
-          "name": "Mei Semones",
-          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
-        }
-      ],
-      "duration_ms": 283500,
-      "name": "My Ideal",
-      "url": "https://open.spotify.com/track/2B8BmgVUQKTWIOwWGr13Mh"
     },
     {
       "added_at": "2025-12-04 23:00:16",
@@ -1603,30 +1603,6 @@
     {
       "added_at": "2025-12-04 23:00:16",
       "album": {
-        "name": "Todo Este Amor (Cap\u00edtulo IV: Hu\u00edda)",
-        "url": "https://open.spotify.com/album/2W0qGvu9m4cRR918XTA1f4"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Monte",
-          "url": "https://open.spotify.com/artist/3091wSOSRYaP4DUHhP1OHf"
-        },
-        {
-          "name": "nosoymeri",
-          "url": "https://open.spotify.com/artist/6cF5Ndv7Q40DEc9Fxgxt4Z"
-        },
-        {
-          "name": "STEGA",
-          "url": "https://open.spotify.com/artist/54FIZzRLP1L5KDxc8wqSxd"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Todo Este Amor (Cap\u00edtulo IV: Hu\u00edda)",
-      "url": "https://open.spotify.com/track/4ZFCQHDbp3V5d4TyN6wmPu"
-    },
-    {
-      "added_at": "2025-12-04 23:00:16",
-      "album": {
         "name": "Me Vas A Matar",
         "url": "https://open.spotify.com/album/47p8ezM1oipFKpKu8Vtesj"
       },
@@ -1679,6 +1655,30 @@
     {
       "added_at": "2025-12-04 23:00:16",
       "album": {
+        "name": "Todo Este Amor (Cap\u00edtulo IV: Hu\u00edda)",
+        "url": "https://open.spotify.com/album/2W0qGvu9m4cRR918XTA1f4"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Monte",
+          "url": "https://open.spotify.com/artist/3091wSOSRYaP4DUHhP1OHf"
+        },
+        {
+          "name": "nosoymeri",
+          "url": "https://open.spotify.com/artist/6cF5Ndv7Q40DEc9Fxgxt4Z"
+        },
+        {
+          "name": "STEGA",
+          "url": "https://open.spotify.com/artist/54FIZzRLP1L5KDxc8wqSxd"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Todo Este Amor (Cap\u00edtulo IV: Hu\u00edda)",
+      "url": "https://open.spotify.com/track/4ZFCQHDbp3V5d4TyN6wmPu"
+    },
+    {
+      "added_at": "2025-12-04 23:00:16",
+      "album": {
         "name": "Ada Road",
         "url": "https://open.spotify.com/album/5h6B6cj1OcnPAaXB1GBcwn"
       },
@@ -1691,6 +1691,26 @@
       "duration_ms": 278373,
       "name": "Ada Road",
       "url": "https://open.spotify.com/track/5u2P6O7vHPtmW8fEU3zsXH"
+    },
+    {
+      "added_at": "2025-12-04 23:00:16",
+      "album": {
+        "name": "em plou a dins",
+        "url": "https://open.spotify.com/album/0DFdJNoTmWgcWyYYvik6n0"
+      },
+      "artists": [
+        {
+          "name": "Judit Neddermann",
+          "url": "https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE"
+        },
+        {
+          "name": "Pau Figueres",
+          "url": "https://open.spotify.com/artist/2YNR9b0CIIKRkNqzWRaIMy"
+        }
+      ],
+      "duration_ms": 176288,
+      "name": "em plou a dins",
+      "url": "https://open.spotify.com/track/5kSmltnJRvLfQzvVDhizsA"
     },
     {
       "added_at": "2025-12-04 23:00:16",
@@ -1727,26 +1747,6 @@
     {
       "added_at": "2025-12-04 23:00:16",
       "album": {
-        "name": "em plou a dins",
-        "url": "https://open.spotify.com/album/0DFdJNoTmWgcWyYYvik6n0"
-      },
-      "artists": [
-        {
-          "name": "Judit Neddermann",
-          "url": "https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE"
-        },
-        {
-          "name": "Pau Figueres",
-          "url": "https://open.spotify.com/artist/2YNR9b0CIIKRkNqzWRaIMy"
-        }
-      ],
-      "duration_ms": 176288,
-      "name": "em plou a dins",
-      "url": "https://open.spotify.com/track/5kSmltnJRvLfQzvVDhizsA"
-    },
-    {
-      "added_at": "2025-12-04 23:00:16",
-      "album": {
         "name": "Demian",
         "url": "https://open.spotify.com/album/6FRwKu5JqXnUCQRcbfENI8"
       },
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2025-12-04 23:00:16",
       "album": {
-        "name": "A la muerte",
-        "url": "https://open.spotify.com/album/5qZV3Ux7bedYirvSmfMt4L"
-      },
-      "artists": [
-        {
-          "name": "Hidrogenesse",
-          "url": "https://open.spotify.com/artist/2vJ1aFdCPa1wYLqrlTvKuY"
-        }
-      ],
-      "duration_ms": 295500,
-      "name": "A la muerte",
-      "url": "https://open.spotify.com/track/0zsn2IzGuRZoC5s2jgqJDN"
-    },
-    {
-      "added_at": "2025-12-04 23:00:16",
-      "album": {
         "name": "Temblor (Acoustic)",
         "url": "https://open.spotify.com/album/5oGici7sHKSYRUA43Tq3aZ"
       },
@@ -1811,6 +1795,38 @@
       "duration_ms": 189000,
       "name": "Temblor - Acoustic",
       "url": "https://open.spotify.com/track/0aumVHW0j8EjIrKeUedEcE"
+    },
+    {
+      "added_at": "2025-12-04 23:00:16",
+      "album": {
+        "name": "A la muerte",
+        "url": "https://open.spotify.com/album/5qZV3Ux7bedYirvSmfMt4L"
+      },
+      "artists": [
+        {
+          "name": "Hidrogenesse",
+          "url": "https://open.spotify.com/artist/2vJ1aFdCPa1wYLqrlTvKuY"
+        }
+      ],
+      "duration_ms": 295500,
+      "name": "A la muerte",
+      "url": "https://open.spotify.com/track/0zsn2IzGuRZoC5s2jgqJDN"
+    },
+    {
+      "added_at": "2025-12-04 23:00:16",
+      "album": {
+        "name": "C\u00edrculo de Luz / Un Hogar Acogedor",
+        "url": "https://open.spotify.com/album/2EdM84zZvTBx6UoOZTV3qD"
+      },
+      "artists": [
+        {
+          "name": "Roy Borland",
+          "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
+        }
+      ],
+      "duration_ms": 162774,
+      "name": "C\u00edrculo de Luz / Un Hogar Acogedor",
+      "url": "https://open.spotify.com/track/0eQHNYQuheNBqIZ2i9qMuP"
     },
     {
       "added_at": "2025-12-04 23:00:16",
@@ -1851,22 +1867,6 @@
       "duration_ms": 153687,
       "name": "xulejudetu",
       "url": "https://open.spotify.com/track/1ktaKmoxKp3WB1ardeRIhi"
-    },
-    {
-      "added_at": "2025-12-04 23:00:16",
-      "album": {
-        "name": "C\u00edrculo de Luz / Un Hogar Acogedor",
-        "url": "https://open.spotify.com/album/2EdM84zZvTBx6UoOZTV3qD"
-      },
-      "artists": [
-        {
-          "name": "Roy Borland",
-          "url": "https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7"
-        }
-      ],
-      "duration_ms": 162774,
-      "name": "C\u00edrculo de Luz / Un Hogar Acogedor",
-      "url": "https://open.spotify.com/track/0eQHNYQuheNBqIZ2i9qMuP"
     },
     {
       "added_at": "2025-12-04 23:00:16",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2025-12-04 23:00:16",
       "album": {
-        "name": "Unbothered",
-        "url": "https://open.spotify.com/album/7G9rmRRlnmeS7i8wzjTqZw"
-      },
-      "artists": [
-        {
-          "name": "Marta Knight",
-          "url": "https://open.spotify.com/artist/1bTVf9uk7d4iU9rcWfWj5S"
-        }
-      ],
-      "duration_ms": 183217,
-      "name": "Killing Time - Acoustic Version",
-      "url": "https://open.spotify.com/track/0XKs0GqvtMEACEwdTPBXVL"
-    },
-    {
-      "added_at": "2025-12-04 23:00:16",
-      "album": {
         "name": "5AM",
         "url": "https://open.spotify.com/album/2MY27JscZjr0d01jDMISv4"
       },
@@ -1991,6 +1975,22 @@
     {
       "added_at": "2025-12-04 23:00:16",
       "album": {
+        "name": "Unbothered",
+        "url": "https://open.spotify.com/album/7G9rmRRlnmeS7i8wzjTqZw"
+      },
+      "artists": [
+        {
+          "name": "Marta Knight",
+          "url": "https://open.spotify.com/artist/1bTVf9uk7d4iU9rcWfWj5S"
+        }
+      ],
+      "duration_ms": 183217,
+      "name": "Killing Time - Acoustic Version",
+      "url": "https://open.spotify.com/track/0XKs0GqvtMEACEwdTPBXVL"
+    },
+    {
+      "added_at": "2025-12-04 23:00:16",
+      "album": {
         "name": "Algo F\u00edsico",
         "url": "https://open.spotify.com/album/4yF6s3q899p66cBNkXfqpI"
       },
@@ -2003,22 +2003,6 @@
       "duration_ms": 167386,
       "name": "Algo F\u00edsico",
       "url": "https://open.spotify.com/track/4APkyHgmXLWdS0NKP4Ejnm"
-    },
-    {
-      "added_at": "2025-12-04 23:00:16",
-      "album": {
-        "name": "Me Tienes Aqu\u00ed",
-        "url": "https://open.spotify.com/album/2QOyRlNU81eSsC3hbFhduc"
-      },
-      "artists": [
-        {
-          "name": "Maifr\u00e9n",
-          "url": "https://open.spotify.com/artist/571t1AKbmBJnGZY3NdNGCI"
-        }
-      ],
-      "duration_ms": 161250,
-      "name": "Me Tienes Aqu\u00ed",
-      "url": "https://open.spotify.com/track/6cfbA0Hd5uaX0qk9HC6tES"
     },
     {
       "added_at": "2025-12-04 23:00:16",
@@ -2043,22 +2027,18 @@
     {
       "added_at": "2025-12-04 23:00:16",
       "album": {
-        "name": "Lejos De M\u00e1s",
-        "url": "https://open.spotify.com/album/0mCsBuqrZ6P2iflcesQysf"
+        "name": "Me Tienes Aqu\u00ed",
+        "url": "https://open.spotify.com/album/2QOyRlNU81eSsC3hbFhduc"
       },
       "artists": [
         {
-          "name": "pablopablo",
-          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
-        },
-        {
-          "name": "Helado Negro",
-          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
+          "name": "Maifr\u00e9n",
+          "url": "https://open.spotify.com/artist/571t1AKbmBJnGZY3NdNGCI"
         }
       ],
-      "duration_ms": 246720,
-      "name": "Lejos De M\u00e1s",
-      "url": "https://open.spotify.com/track/3rATXD9GvA54CsDZRNPi6W"
+      "duration_ms": 161250,
+      "name": "Me Tienes Aqu\u00ed",
+      "url": "https://open.spotify.com/track/6cfbA0Hd5uaX0qk9HC6tES"
     },
     {
       "added_at": "2025-12-04 23:00:16",
@@ -2075,6 +2055,26 @@
       "duration_ms": 201441,
       "name": "No quiero olvidar",
       "url": "https://open.spotify.com/track/3TQsgWjUstxYOHnX45kG6j"
+    },
+    {
+      "added_at": "2025-12-04 23:00:16",
+      "album": {
+        "name": "Lejos De M\u00e1s",
+        "url": "https://open.spotify.com/album/0mCsBuqrZ6P2iflcesQysf"
+      },
+      "artists": [
+        {
+          "name": "pablopablo",
+          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
+        },
+        {
+          "name": "Helado Negro",
+          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
+        }
+      ],
+      "duration_ms": 246720,
+      "name": "Lejos De M\u00e1s",
+      "url": "https://open.spotify.com/track/3rATXD9GvA54CsDZRNPi6W"
     },
     {
       "added_at": "2025-12-04 23:00:16",
@@ -2131,22 +2131,6 @@
     {
       "added_at": "2025-12-04 23:00:16",
       "album": {
-        "name": "Caras no lume",
-        "url": "https://open.spotify.com/album/6qbKrvxATF1kRlikDTkIjP"
-      },
-      "artists": [
-        {
-          "name": "Lontras",
-          "url": "https://open.spotify.com/artist/0j2x8ml2wI7AdqVPvbQ50X"
-        }
-      ],
-      "duration_ms": 156629,
-      "name": "D\u00faas lontras",
-      "url": "https://open.spotify.com/track/6KDvcwRVwACBLOLlaqDFzo"
-    },
-    {
-      "added_at": "2025-12-04 23:00:16",
-      "album": {
         "name": "La jugada maestra",
         "url": "https://open.spotify.com/album/46HNGax06gtSaaHdXqEgFn"
       },
@@ -2159,6 +2143,22 @@
       "duration_ms": 328960,
       "name": "La jugada maestra",
       "url": "https://open.spotify.com/track/4xutN2gHS4wl4kXZNAhP3A"
+    },
+    {
+      "added_at": "2025-12-04 23:00:16",
+      "album": {
+        "name": "Caras no lume",
+        "url": "https://open.spotify.com/album/6qbKrvxATF1kRlikDTkIjP"
+      },
+      "artists": [
+        {
+          "name": "Lontras",
+          "url": "https://open.spotify.com/artist/0j2x8ml2wI7AdqVPvbQ50X"
+        }
+      ],
+      "duration_ms": 156629,
+      "name": "D\u00faas lontras",
+      "url": "https://open.spotify.com/track/6KDvcwRVwACBLOLlaqDFzo"
     },
     {
       "added_at": "2025-12-04 23:00:16",

@@ -1,6 +1,6 @@
 {
   "description": "Run to the world of R&B and hip-hop.",
-  "num_followers": 955670,
+  "num_followers": 955726,
   "original_name": "Run This Town",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2023-01-03 14:49:24",
       "album": {
-        "name": "Life After Death (2014 Remastered Edition)",
-        "url": "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
-      },
-      "artists": [
-        {
-          "name": "The Notorious B.I.G.",
-          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        }
-      ],
-      "duration_ms": 229826,
-      "name": "Hypnotize - 2014 Remaster",
-      "url": "https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j"
-    },
-    {
-      "added_at": "2023-01-03 14:49:24",
-      "album": {
         "name": "Get Rich Or Die Tryin'",
         "url": "https://open.spotify.com/album/5G5rgQHzdQnw32SI0WjIo5"
       },
@@ -73,20 +57,20 @@
       "url": "https://open.spotify.com/track/7iL6o9tox1zgHpKUfh9vuC"
     },
     {
-      "added_at": "2023-02-10 12:45:32",
+      "added_at": "2023-01-03 14:49:24",
       "album": {
-        "name": "channel ORANGE",
-        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
+        "name": "Life After Death (2014 Remastered Edition)",
+        "url": "https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB"
       },
       "artists": [
         {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+          "name": "The Notorious B.I.G.",
+          "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
         }
       ],
-      "duration_ms": 234093,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723"
+      "duration_ms": 229826,
+      "name": "Hypnotize - 2014 Remaster",
+      "url": "https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j"
     },
     {
       "added_at": "2023-01-03 14:49:24",
@@ -107,6 +91,22 @@
       "duration_ms": 270586,
       "name": "Still D.R.E.",
       "url": "https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep"
+    },
+    {
+      "added_at": "2023-02-10 12:45:32",
+      "album": {
+        "name": "channel ORANGE",
+        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 234093,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723"
     },
     {
       "added_at": "2023-01-03 14:49:24",

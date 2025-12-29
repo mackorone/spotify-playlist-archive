@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU3QAAAAAAB4tT4l1cl2h12tFAMpqzc0",
+  "snapshot_id": "aU8hgAAAAADcNAer9MfJlwmlhWORYgZW",
   "tracks": [
     {
       "added_at": null,
@@ -179,22 +179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Te Contaron Mal",
-        "url": "https://open.spotify.com/album/3fu62wzox7RDVQV87lokIm"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "No Te Contaron Mal",
-      "url": "https://open.spotify.com/track/6PZSOXSEUGR0kKxffxccLU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Qu\u00edtame ese Hombre",
         "url": "https://open.spotify.com/album/63wfPXkXzSQXAb413lGXCg"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 196874,
       "name": "Qu\u00edtame Ese Hombre",
       "url": "https://open.spotify.com/track/3bTQCOV78Zy2Rg276elgkM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Te Contaron Mal",
+        "url": "https://open.spotify.com/album/3fu62wzox7RDVQV87lokIm"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "No Te Contaron Mal",
+      "url": "https://open.spotify.com/track/6PZSOXSEUGR0kKxffxccLU"
     },
     {
       "added_at": null,
@@ -243,22 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Fuimos",
-        "url": "https://open.spotify.com/album/6rh0MIedi2ywwZ1HpVGCYE"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 166346,
-      "name": "No Fuimos",
-      "url": "https://open.spotify.com/track/4kGkxso0MzCbSYvVjZmCAx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Entre la Guerra y el Amor",
         "url": "https://open.spotify.com/album/4dGWpZzWmzh35ofyU6GqzO"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 178826,
       "name": "Entre la Guerra y el Amor",
       "url": "https://open.spotify.com/track/1EV0IQkQqklR3vPQhjW3cU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Fuimos",
+        "url": "https://open.spotify.com/album/6rh0MIedi2ywwZ1HpVGCYE"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 166346,
+      "name": "No Fuimos",
+      "url": "https://open.spotify.com/track/4kGkxso0MzCbSYvVjZmCAx"
     },
     {
       "added_at": null,
@@ -416,9 +416,9 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 192827,
-      "name": "Hoy Dame el Gusto",
-      "url": "https://open.spotify.com/track/49IgNGUL6SDq2OQGvg4q2m"
+      "duration_ms": 221554,
+      "name": "Qu\u00e9 Tanto Es Tantito?",
+      "url": "https://open.spotify.com/track/5Qm6PxMTwB7KAz6BFnKhtJ"
     },
     {
       "added_at": null,
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 221554,
-      "name": "Qu\u00e9 Tanto Es Tantito?",
-      "url": "https://open.spotify.com/track/5Qm6PxMTwB7KAz6BFnKhtJ"
+      "duration_ms": 192827,
+      "name": "Hoy Dame el Gusto",
+      "url": "https://open.spotify.com/track/49IgNGUL6SDq2OQGvg4q2m"
     },
     {
       "added_at": null,
@@ -539,22 +539,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Desde Tijuana",
-        "url": "https://open.spotify.com/album/115RR5wcAhaupZF8E3mlM8"
+        "name": "Nada Nuevo",
+        "url": "https://open.spotify.com/album/4IaKqKnEWL4b4TZNVoJVFl"
       },
       "artists": [
-        {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
-        },
         {
           "name": "Adriana R\u00edos",
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 230230,
-      "name": "Qu\u00e9 Me Vas A Dar Si Vuelvo",
-      "url": "https://open.spotify.com/track/5zsTl6ShHa4JyvkJZeDM0L"
+      "duration_ms": 179427,
+      "name": "Nada Nuevo",
+      "url": "https://open.spotify.com/track/2zWBJ3xT76pLwfMxBpdFWK"
     },
     {
       "added_at": null,
@@ -575,6 +571,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Vivo Desde Tijuana",
+        "url": "https://open.spotify.com/album/115RR5wcAhaupZF8E3mlM8"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        },
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 230230,
+      "name": "Qu\u00e9 Me Vas A Dar Si Vuelvo",
+      "url": "https://open.spotify.com/track/5zsTl6ShHa4JyvkJZeDM0L"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "D\u00f3nde Est\u00e1n?",
         "url": "https://open.spotify.com/album/1l8xElIHmWNIOiJUHaVaMW"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 253147,
       "name": "D\u00f3nde Est\u00e1n?",
       "url": "https://open.spotify.com/track/08HWZEfo0P149Y5TGIt89E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nada Nuevo",
-        "url": "https://open.spotify.com/album/4IaKqKnEWL4b4TZNVoJVFl"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 179427,
-      "name": "Nada Nuevo",
-      "url": "https://open.spotify.com/track/2zWBJ3xT76pLwfMxBpdFWK"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
       "duration_ms": 152768,
       "name": "Le Cale A Quien Le Cale",
       "url": "https://open.spotify.com/track/3YqCO55lqjeSnF9WPWgRqd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Azules Reflejos (En Vivo)",
-        "url": "https://open.spotify.com/album/650mFzQHW866meTGyp3ToF"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 207644,
-      "name": "Chapul\u00edn - En Vivo",
-      "url": "https://open.spotify.com/track/5zhcglne5hkFPmBGgaGV7R"
     },
     {
       "added_at": null,
@@ -691,6 +675,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Azules Reflejos (En Vivo)",
+        "url": "https://open.spotify.com/album/650mFzQHW866meTGyp3ToF"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 207644,
+      "name": "Chapul\u00edn - En Vivo",
+      "url": "https://open.spotify.com/track/5zhcglne5hkFPmBGgaGV7R"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Bohemia (En Vivo)",
         "url": "https://open.spotify.com/album/5znVweMoWctX8y4H9P74vH"
       },
@@ -707,22 +707,6 @@
       "duration_ms": 214801,
       "name": "Le\u00f1a de Pirul - En Vivo",
       "url": "https://open.spotify.com/track/4VC6BTGsrpshU0GK8Jp3mS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Azules Reflejos (En Vivo)",
-        "url": "https://open.spotify.com/album/650mFzQHW866meTGyp3ToF"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 231971,
-      "name": "Empiezo a Recordarte - En Vivo",
-      "url": "https://open.spotify.com/track/3iawLDTWR4hKiDCzoMYP4V"
     },
     {
       "added_at": null,
@@ -759,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Azules Reflejos (En Vivo)",
+        "url": "https://open.spotify.com/album/650mFzQHW866meTGyp3ToF"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 231971,
+      "name": "Empiezo a Recordarte - En Vivo",
+      "url": "https://open.spotify.com/track/3iawLDTWR4hKiDCzoMYP4V"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Bohemia (En Vivo)",
         "url": "https://open.spotify.com/album/5znVweMoWctX8y4H9P74vH"
       },
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Azules Reflejos (En Vivo)",
-        "url": "https://open.spotify.com/album/650mFzQHW866meTGyp3ToF"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 201286,
-      "name": "As\u00ed No Te Amar\u00e1 Jam\u00e1s - En Vivo",
-      "url": "https://open.spotify.com/track/4HLhIrvznHufTVU4fqpLrn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Donde Esta Tu Amor",
         "url": "https://open.spotify.com/album/0C60HIYcf2KDRljFvwkcuY"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 169429,
       "name": "En Donde Esta Tu Amor",
       "url": "https://open.spotify.com/track/16AlHdYaxkQ6FwpGpy6Nz6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Azules Reflejos (En Vivo)",
+        "url": "https://open.spotify.com/album/650mFzQHW866meTGyp3ToF"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 201286,
+      "name": "As\u00ed No Te Amar\u00e1 Jam\u00e1s - En Vivo",
+      "url": "https://open.spotify.com/track/4HLhIrvznHufTVU4fqpLrn"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is M\u00e5neskin. The essential tracks, all in one playlist.",
-  "num_followers": 958628,
+  "num_followers": 958604,
   "original_name": "This Is M\u00e5neskin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU3QAAAAAADO8AB9vHYBX6QNaMpYWRfO",
+  "snapshot_id": "aU8hgAAAAADjqgLoU4jFeG9KtGDd6gIK",
   "tracks": [
     {
       "added_at": null,
@@ -88,9 +88,9 @@
           "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
         }
       ],
-      "duration_ms": 188136,
-      "name": "THE DRIVER",
-      "url": "https://open.spotify.com/track/0sZHxhoBaK0YEvvMV8blr6"
+      "duration_ms": 149835,
+      "name": "OFF MY FACE",
+      "url": "https://open.spotify.com/track/0cyQuiFTVaHM70y8xRsOWA"
     },
     {
       "added_at": null,
@@ -152,9 +152,9 @@
           "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
         }
       ],
-      "duration_ms": 149835,
-      "name": "OFF MY FACE",
-      "url": "https://open.spotify.com/track/0cyQuiFTVaHM70y8xRsOWA"
+      "duration_ms": 188136,
+      "name": "THE DRIVER",
+      "url": "https://open.spotify.com/track/0sZHxhoBaK0YEvvMV8blr6"
     },
     {
       "added_at": null,
@@ -479,6 +479,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "RUSH! (ARE U COMING?)",
+        "url": "https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 163177,
+      "name": "KOOL KIDS",
+      "url": "https://open.spotify.com/track/0JlowC3ck7YYDm1mACwHwF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rockstar (Deluxe)",
         "url": "https://open.spotify.com/album/337iOvlhWakFamgb6x2vKN"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 192000,
       "name": "Jolene",
       "url": "https://open.spotify.com/track/3iWSfaHoiphVIBMIwJHzpJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "RUSH! (ARE U COMING?)",
-        "url": "https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 163177,
-      "name": "KOOL KIDS",
-      "url": "https://open.spotify.com/track/0JlowC3ck7YYDm1mACwHwF"
     },
     {
       "added_at": null,

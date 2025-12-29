@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKktnMCmHx1.md) - [plain]
 
 > Tecnica, stile e talento: MVP starter pack, nel rap come nel gaming 🎮
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,299 likes - 80 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,304 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKktnMCmHx1.md) - [plain]
 | 76 | [fuck 3x](https://open.spotify.com/track/5YxP1CkunbhUQVvctFOHa7) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [23 6451](https://open.spotify.com/album/42wflBbrb9OchJfd3qiGRO) | 2:41 |
 | 77 | [ALYX \(feat\. Capo Plaza\)](https://open.spotify.com/track/5ifarM7jfplX1EqkqMHlDq) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [J](https://open.spotify.com/album/4vCqEvwOICd6NwnsuhWzUO) | 3:03 |
 | 78 | [ELEGANTE \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/7qADAhkEs9vv3ll4hP8ybC) | [DrefGold](https://open.spotify.com/artist/6jwzGu5VdkR5tsRROYuxso), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [ELO](https://open.spotify.com/album/0vp8LbPMJ0tAlqz2wjWRJa) | 3:40 |
-| 79 | [Only You Freestyle](https://open.spotify.com/track/4OENnoidV0h8gJV6bhrw7r) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Only You Freestyle](https://open.spotify.com/album/5L6DR2YmRLRZ4CmR91l3Z4) | 4:08 |
-| 80 | [La Bellavita \(feat\. Jul\)](https://open.spotify.com/track/62YtBUOYuyW9qelDb7tFWX) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Salvatore Vive](https://open.spotify.com/album/1VSve1RDkpnGq2J1VL1Ux4) | 3:14 |
+| 79 | [La Bellavita \(feat\. Jul\)](https://open.spotify.com/track/62YtBUOYuyW9qelDb7tFWX) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Salvatore Vive](https://open.spotify.com/album/1VSve1RDkpnGq2J1VL1Ux4) | 3:14 |
+| 80 | [Only You Freestyle](https://open.spotify.com/track/4OENnoidV0h8gJV6bhrw7r) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Only You Freestyle](https://open.spotify.com/album/5L6DR2YmRLRZ4CmR91l3Z4) | 4:08 |
 
 Snapshot ID: `AAAAAB+zGPZvpjOla98uN+F0U2DlCmPi`

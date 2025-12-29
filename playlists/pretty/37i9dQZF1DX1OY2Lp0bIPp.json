@@ -1,6 +1,6 @@
 {
   "description": "Giving motivation to your Monday. You got this!",
-  "num_followers": 640005,
+  "num_followers": 639970,
   "original_name": "Monday Motivation",
   "owner": {
     "name": "Spotify",
@@ -295,22 +295,18 @@
     {
       "added_at": "2024-03-20 18:24:49",
       "album": {
-        "name": "Don't You Worry Child",
-        "url": "https://open.spotify.com/album/3RKhRsifs4RWrqvWV1YpPY"
+        "name": "Whitney",
+        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
       },
       "artists": [
         {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "John Martin",
-          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         }
       ],
-      "duration_ms": 212862,
-      "name": "Don't You Worry Child - Radio Edit",
-      "url": "https://open.spotify.com/track/2V65y3PX4DkRhy1djlxd9p"
+      "duration_ms": 292875,
+      "name": "I Wanna Dance with Somebody (Who Loves Me)",
+      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
     },
     {
       "added_at": "2024-03-20 18:24:49",
@@ -331,6 +327,26 @@
     {
       "added_at": "2024-03-20 18:24:49",
       "album": {
+        "name": "Don't You Worry Child",
+        "url": "https://open.spotify.com/album/3RKhRsifs4RWrqvWV1YpPY"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "John Martin",
+          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
+        }
+      ],
+      "duration_ms": 212862,
+      "name": "Don't You Worry Child - Radio Edit",
+      "url": "https://open.spotify.com/track/2V65y3PX4DkRhy1djlxd9p"
+    },
+    {
+      "added_at": "2024-03-20 18:24:49",
+      "album": {
         "name": "Fanmail",
         "url": "https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 214400,
       "name": "No Scrubs",
       "url": "https://open.spotify.com/track/1KGi9sZVMeszgZOWivFpxs"
-    },
-    {
-      "added_at": "2024-03-20 18:24:49",
-      "album": {
-        "name": "Whitney",
-        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 292875,
-      "name": "I Wanna Dance with Somebody (Who Loves Me)",
-      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
     },
     {
       "added_at": "2024-03-20 18:24:49",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-03-20 18:24:49",
       "album": {
-        "name": "Recovery",
-        "url": "https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 248133,
-      "name": "Not Afraid",
-      "url": "https://open.spotify.com/track/7Ie9W94M7OjPoZVV216Xus"
-    },
-    {
-      "added_at": "2024-03-20 18:24:49",
-      "album": {
         "name": "Wild Ones",
         "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 248133,
       "name": "Good Feeling",
       "url": "https://open.spotify.com/track/2LEF1A8DOZ9wRYikWgVlZ8"
+    },
+    {
+      "added_at": "2024-03-20 18:24:49",
+      "album": {
+        "name": "Recovery",
+        "url": "https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 248133,
+      "name": "Not Afraid",
+      "url": "https://open.spotify.com/track/7Ie9W94M7OjPoZVV216Xus"
     },
     {
       "added_at": "2024-03-20 18:24:49",
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-03-20 18:24:49",
       "album": {
-        "name": "Oh, What A Life",
-        "url": "https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv"
-      },
-      "artists": [
-        {
-          "name": "American Authors",
-          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
-        }
-      ],
-      "duration_ms": 194240,
-      "name": "Best Day Of My Life",
-      "url": "https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP"
-    },
-    {
-      "added_at": "2024-03-20 18:24:49",
-      "album": {
         "name": "Diana Ross Presents The Jackson 5",
         "url": "https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 176333,
       "name": "I Want You Back",
       "url": "https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S"
+    },
+    {
+      "added_at": "2024-03-20 18:24:49",
+      "album": {
+        "name": "Oh, What A Life",
+        "url": "https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv"
+      },
+      "artists": [
+        {
+          "name": "American Authors",
+          "url": "https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3"
+        }
+      ],
+      "duration_ms": 194240,
+      "name": "Best Day Of My Life",
+      "url": "https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP"
     },
     {
       "added_at": "2024-03-20 18:24:49",
@@ -919,26 +919,6 @@
     {
       "added_at": "2024-03-20 18:24:49",
       "album": {
-        "name": "Take Care (Deluxe)",
-        "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 181573,
-      "name": "The Motto",
-      "url": "https://open.spotify.com/track/4Kz4RdRCceaA9VgTqBhBfa"
-    },
-    {
-      "added_at": "2024-03-20 18:24:49",
-      "album": {
         "name": "Head & Heart (feat. MNEK)",
         "url": "https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 166028,
       "name": "Head & Heart (feat. MNEK)",
       "url": "https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9"
+    },
+    {
+      "added_at": "2024-03-20 18:24:49",
+      "album": {
+        "name": "Take Care (Deluxe)",
+        "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 181573,
+      "name": "The Motto",
+      "url": "https://open.spotify.com/track/4Kz4RdRCceaA9VgTqBhBfa"
     },
     {
       "added_at": "2024-03-20 18:24:49",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2024-03-20 18:24:49",
       "album": {
+        "name": "Lift Your Spirit",
+        "url": "https://open.spotify.com/album/5fTxUo4VVLBlU9nVGXiHEF"
+      },
+      "artists": [
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+        }
+      ],
+      "duration_ms": 255906,
+      "name": "The Man",
+      "url": "https://open.spotify.com/track/4e6ZN0EcEqYx74BTC5xQzy"
+    },
+    {
+      "added_at": "2024-03-20 18:24:49",
+      "album": {
         "name": "Runnin' (Lose It All)",
         "url": "https://open.spotify.com/album/2YnYgyx7N8MkgQHCcRYfKP"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 213019,
       "name": "Runnin' (Lose It All)",
       "url": "https://open.spotify.com/track/5yZvaUVyuXfSVUaMumFi6l"
-    },
-    {
-      "added_at": "2024-03-20 18:24:49",
-      "album": {
-        "name": "Lift Your Spirit",
-        "url": "https://open.spotify.com/album/5fTxUo4VVLBlU9nVGXiHEF"
-      },
-      "artists": [
-        {
-          "name": "Aloe Blacc",
-          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
-        }
-      ],
-      "duration_ms": 255906,
-      "name": "The Man",
-      "url": "https://open.spotify.com/track/4e6ZN0EcEqYx74BTC5xQzy"
     },
     {
       "added_at": "2024-03-20 18:24:49",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-03-20 18:24:49",
       "album": {
-        "name": "These Streets",
-        "url": "https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl"
-      },
-      "artists": [
-        {
-          "name": "Paolo Nutini",
-          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
-        }
-      ],
-      "duration_ms": 203653,
-      "name": "New Shoes",
-      "url": "https://open.spotify.com/track/265Anh9hGoozFigjUVLUeD"
-    },
-    {
-      "added_at": "2024-03-20 18:24:49",
-      "album": {
         "name": "1989 (Taylor's Version)",
         "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 212600,
       "name": "Welcome To New York (Taylor's Version)",
       "url": "https://open.spotify.com/track/1hR8BSuEqPCCZfv93zzzz9"
+    },
+    {
+      "added_at": "2024-03-20 18:24:49",
+      "album": {
+        "name": "These Streets",
+        "url": "https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl"
+      },
+      "artists": [
+        {
+          "name": "Paolo Nutini",
+          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
+        }
+      ],
+      "duration_ms": 203653,
+      "name": "New Shoes",
+      "url": "https://open.spotify.com/track/265Anh9hGoozFigjUVLUeD"
     },
     {
       "added_at": "2024-03-20 18:24:49",
@@ -1563,26 +1563,6 @@
     {
       "added_at": "2024-03-20 18:24:49",
       "album": {
-        "name": "LM5 (Deluxe)",
-        "url": "https://open.spotify.com/album/7Ho8gAx4haSxv1eFLQwvTj"
-      },
-      "artists": [
-        {
-          "name": "Little Mix",
-          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 229720,
-      "name": "Woman Like Me (feat. Nicki Minaj)",
-      "url": "https://open.spotify.com/track/222B3aljXx6fFwKmFjuBED"
-    },
-    {
-      "added_at": "2024-03-20 18:24:49",
-      "album": {
         "name": "Invincible",
         "url": "https://open.spotify.com/album/6rwT7u32X6CdrOCClbowiW"
       },
@@ -1599,6 +1579,26 @@
       "duration_ms": 198066,
       "name": "Keep On Movin'",
       "url": "https://open.spotify.com/track/0MjMqYIYzcCteAs4c0BZGy"
+    },
+    {
+      "added_at": "2024-03-20 18:24:49",
+      "album": {
+        "name": "LM5 (Deluxe)",
+        "url": "https://open.spotify.com/album/7Ho8gAx4haSxv1eFLQwvTj"
+      },
+      "artists": [
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 229720,
+      "name": "Woman Like Me (feat. Nicki Minaj)",
+      "url": "https://open.spotify.com/track/222B3aljXx6fFwKmFjuBED"
     },
     {
       "added_at": "2024-03-20 18:24:49",

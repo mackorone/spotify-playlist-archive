@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 
 > Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: Juju B\. Goode\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,769 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,751 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,12 +29,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 | 19 | [My Love](https://open.spotify.com/track/3B60EkZSvq0tuY7xzjb9Fu) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 2:54 |
 | 20 | [Let Me Know](https://open.spotify.com/track/1SPDWTBH7qcjbZ8zMRXlQ9) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [Let Me Know](https://open.spotify.com/album/1x7V4e67JZoCpJWXSb8Yw1) | 3:08 |
 | 21 | [Dear my X](https://open.spotify.com/track/0UnOf7i44YK0ULpkEGHe4R) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Dear my X](https://open.spotify.com/album/5BOrfMmeO7t7pDqhZNIhej) | 3:07 |
-| 22 | [Epilogue](https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:49 |
+| 22 | [Through the Night](https://open.spotify.com/track/1Bb6jVrsg8cXxMCBxIWJUn) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Through the Night](https://open.spotify.com/album/1zQnkQc68sQj2Ns5GIuxld) | 4:13 |
 | 23 | [Wait](https://open.spotify.com/track/1gyhtYG9OWOZvhZzDVF6lq) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [LOVE SHOT– The 5th Album Repackage](https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq) | 4:08 |
 | 24 | [My Dear](https://open.spotify.com/track/2wlBxUpVGnp1M7ZDLXaeB5) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [BLOSSOM \- THE 3RD MINI ALBUM](https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk) | 2:20 |
 | 25 | [The night we parted](https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA) | [The night we parted](https://open.spotify.com/album/3ziY8tTralGg3ew6bTTJGD) | 3:49 |
 | 26 | [A story that will turn into a poem](https://open.spotify.com/track/7IXlFjVlJ8LuiTfMkPKEnA) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [A story that will turn into a poem](https://open.spotify.com/album/4pwFaLkL7sfjhD1O6IZPqF) | 3:55 |
-| 27 | [Through the Night](https://open.spotify.com/track/1Bb6jVrsg8cXxMCBxIWJUn) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Through the Night](https://open.spotify.com/album/1zQnkQc68sQj2Ns5GIuxld) | 4:13 |
+| 27 | [Epilogue](https://open.spotify.com/track/6rcwrRWKyjaFyUL8b8GlIJ) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:49 |
 | 28 | [Ring My Bell](https://open.spotify.com/track/3MdJSXjBarAYuuJ7rjJLDk) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) | [Uncontrollably Fond OST Part.1](https://open.spotify.com/album/6n9ISr3T3HIRLCp97PFY8c) | 3:25 |
 | 29 | [Sunny Days, Summer Nights](https://open.spotify.com/track/4fi9IIcjYzxRTRwJUyFO6Q) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Sun And Moon](https://open.spotify.com/album/0AsQlY5YENtlvd8SLnrSxX) | 4:09 |
 | 30 | [Tomorrow](https://open.spotify.com/track/1kOIM9LKyTlqdtsLRS7RUR) | [CHANYEOL](https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5) | [Tomorrow \- SM STATION](https://open.spotify.com/album/5sPtM10mGhGGEUIkTkNMhm) | 2:25 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wdZM1FEz79.md) - [plain]
 | 45 | [NEO EUI HYANG GI](https://open.spotify.com/track/3lkgebBeuOGpGWUPqCYXwD) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic) | [You and Everything Else \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3rHzuNNcPOTmmrsn8JjAdq) | 3:54 |
 | 46 | [What I want to say](https://open.spotify.com/track/4door6xOPf2auseb5Foc9f) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA), [Han\-All](https://open.spotify.com/artist/0Cg4DBZWJ3MQsxJOjIbDiB) | [What I want to say](https://open.spotify.com/album/3X1pv6uPPiNc9hR2XyGbY1) | 3:33 |
 | 47 | [Stupid love song \(with Crush\)](https://open.spotify.com/track/66NRKCEurE3Oq12BViuqAQ) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:08 |
-| 48 | [4Seasons](https://open.spotify.com/track/6HnloutgoztTP3JihNhWIH) | [dori](https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7) | [4Seasons](https://open.spotify.com/album/2MoILlgDR44UdKEh5UAEjL) | 2:39 |
-| 49 | [Galaxy](https://open.spotify.com/track/41O17Xo25mbbvay3AOHC8C) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [What Do I Call You \- The 4th Mini Album](https://open.spotify.com/album/70XJeDlFe1LmZo1lyFKyq3) | 3:46 |
+| 48 | [Galaxy](https://open.spotify.com/track/41O17Xo25mbbvay3AOHC8C) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [What Do I Call You \- The 4th Mini Album](https://open.spotify.com/album/70XJeDlFe1LmZo1lyFKyq3) | 3:46 |
+| 49 | [4Seasons](https://open.spotify.com/track/6HnloutgoztTP3JihNhWIH) | [dori](https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7) | [4Seasons](https://open.spotify.com/album/2MoILlgDR44UdKEh5UAEjL) | 2:39 |
 | 50 | [Life goes on](https://open.spotify.com/track/2svtm7O8mhNGflEdsxsZtt) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Journey](https://open.spotify.com/album/2ZiNV3uCWEno9JIDtCaSaP) | 3:43 |
 
-Snapshot ID: `AAAAALn1dRYEW2ueFnw3H9kY96EFRNzs`
+Snapshot ID: `AAAAAJBbbfAow4LyXqItzrsEYRTuUUdD`

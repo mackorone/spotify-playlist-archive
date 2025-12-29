@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 
 > พบคนคลั่งรักหลายอัตราที่เพลย์ลิสต์นี้
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,334 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,348 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 | 38 | [ใจสมใจ](https://open.spotify.com/track/7CM0OhKIeDodf450PiVEhB) | [TheChanisara](https://open.spotify.com/artist/5h3gT12qsHsSQhWo2mRqox) | [ใจสมใจ](https://open.spotify.com/album/2E3NsLtnddsqzTAXGy58BI) | 3:16 |
 | 39 | [โต๊ะริม](https://open.spotify.com/track/1WxjAWMYO1niMIB5ascmvG) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [โต๊ะริม](https://open.spotify.com/album/3lZ9JGvJLqDQNO1oWLd95x) | 4:07 |
 | 40 | [เเฟนผมน่ารัก](https://open.spotify.com/track/0GJHuhvKkuAnocAGNJvNw5) | [Bow Maylada](https://open.spotify.com/artist/6ncWdDNCY4fQHIaGdfme4d), [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC) | [เเฟนผมน่ารัก](https://open.spotify.com/album/2rFDr7JyK6wHOM0ou28ncj) | 3:20 |
-| 41 | [จริงๆนะ](https://open.spotify.com/track/3y7wWYnla4CN0dhqUkvLER) | [The 38 Years Ago](https://open.spotify.com/artist/2SA48aCaiOpXDVgoLQNWX8) | [จริงๆนะ](https://open.spotify.com/album/3W0ub1BH8vz3mFc9P2YZJo) | 3:30 |
-| 42 | [จันทร์อังคารพุธพฤหัสศุกร์เสาร์อาทิตย์ \(Everyday\)](https://open.spotify.com/track/5l3HFThm3Xlv8c9mmiTUgT) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [จันทร์อังคารพุธพฤหัสศุกร์เสาร์อาทิตย์ \(Everyday\)](https://open.spotify.com/album/636T1GeuPpgrtj9qcULq3I) | 3:02 |
+| 41 | [จันทร์อังคารพุธพฤหัสศุกร์เสาร์อาทิตย์ \(Everyday\)](https://open.spotify.com/track/5l3HFThm3Xlv8c9mmiTUgT) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [จันทร์อังคารพุธพฤหัสศุกร์เสาร์อาทิตย์ \(Everyday\)](https://open.spotify.com/album/636T1GeuPpgrtj9qcULq3I) | 3:02 |
+| 42 | [จริงๆนะ](https://open.spotify.com/track/3y7wWYnla4CN0dhqUkvLER) | [The 38 Years Ago](https://open.spotify.com/artist/2SA48aCaiOpXDVgoLQNWX8) | [จริงๆนะ](https://open.spotify.com/album/3W0ub1BH8vz3mFc9P2YZJo) | 3:30 |
 | 43 | [เหตุผลของการมีชีวิตอยู่ คือการได้พบกับเธอ](https://open.spotify.com/track/54LxQgugCAhs7ob7tXcefp) | [No One Else](https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ) | [TWO OF A KIND](https://open.spotify.com/album/0SQz6m3XQIWrMqIluvyhNv) | 3:58 |
 | 44 | [เบาเบา \(Tender\)](https://open.spotify.com/track/1D82eR1hzKmiujw4fk0EYj) | [Singular](https://open.spotify.com/artist/5uxiKslHBfPTjs7RigWrL8) | [The White Room](https://open.spotify.com/album/3F4FahVAunMLCSbnLdoXiQ) | 4:03 |
 | 45 | [แนะนำให้เป็นแฟนเรา](https://open.spotify.com/track/32QmhtvBdGRbgijNhpLlOu) | [Bow Maylada](https://open.spotify.com/artist/6ncWdDNCY4fQHIaGdfme4d), [GUYGEEGEE](https://open.spotify.com/artist/5CgO7BuOZ6fOpsLSEvzDsj) | [แนะนำให้เป็นแฟนเรา](https://open.spotify.com/album/2XWxn9NFOs09U5PjNi85DF) | 3:32 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 | 52 | [ฝันหวานอายจูบ](https://open.spotify.com/track/10DSYghyBjAYJa8iCvdRDv) | [Stamp](https://open.spotify.com/artist/4e3QCzBNkr0t3GGqo86Ofl), [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [SKY](https://open.spotify.com/album/0IJBIXei1Tk5B2LAJG88uM) | 3:24 |
 | 53 | [เธอเชื่อเรื่องพรหมลิขิตหรือเปล่า \[Destiny\]](https://open.spotify.com/track/1vZPPkCUwCejpoPt9tzAFK) | [Catchy](https://open.spotify.com/artist/4Rl3VVYfy6fvCyubmwyMat) | [เธอเชื่อเรื่องพรหมลิขิตหรือเปล่า \[Destiny\]](https://open.spotify.com/album/4ezYCgWj2GJL2IWo8ahwVc) | 3:49 |
 | 54 | [รักแฟน](https://open.spotify.com/track/1tZ1fODJMdqjDnAifdz56Z) | [BENT](https://open.spotify.com/artist/6RrR7MGPFBSx59TPwAOGki) | [รักแฟน](https://open.spotify.com/album/3Z2Gn3JQM16Qf5xbvxpyN7) | 2:34 |
-| 55 | [ต้องชอบแค่ไหน \(First Love\)](https://open.spotify.com/track/5MZwRe4ZpXTuhpM8hhhsv8) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [ต้องชอบแค่ไหน \(First Love\)](https://open.spotify.com/album/0r44ojXJL6dDQdd0istDQF) | 4:06 |
-| 56 | [ขอจองได้ไหม](https://open.spotify.com/track/2ExrckON3Z1e95sxU9il2z) | [เอ๋ยเอ้ย](https://open.spotify.com/artist/2eh6aBpW7umSFj4rFz1d0j) | [ขอจองได้ไหม](https://open.spotify.com/album/5hNXs9FYsmfYhe377gdCcF) | 3:21 |
+| 55 | [ขอจองได้ไหม](https://open.spotify.com/track/2ExrckON3Z1e95sxU9il2z) | [เอ๋ยเอ้ย](https://open.spotify.com/artist/2eh6aBpW7umSFj4rFz1d0j) | [ขอจองได้ไหม](https://open.spotify.com/album/5hNXs9FYsmfYhe377gdCcF) | 3:21 |
+| 56 | [ต้องชอบแค่ไหน \(First Love\)](https://open.spotify.com/track/5MZwRe4ZpXTuhpM8hhhsv8) | [PRETZELLE](https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7) | [ต้องชอบแค่ไหน \(First Love\)](https://open.spotify.com/album/0r44ojXJL6dDQdd0istDQF) | 4:06 |
 | 57 | [ถ้าเธออยากไปทะเลฉันพร้อม...\(Talay\)](https://open.spotify.com/track/4okZRD6ad0o8kxzrkvYFLP) | [JAOKHUN](https://open.spotify.com/artist/0vF6ptBD4n9wYG9G9mHHP8) | [ถ้าเธออยากไปทะเลฉันพร้อม...\(Talay\)](https://open.spotify.com/album/2hrDOy5wsZ6kKJ3LLNU4LB) | 3:12 |
 | 58 | [ฉลามชอบงับคุณ Feat.IIVY B](https://open.spotify.com/track/1NEBh01Wwtak3R1eCxlwrJ) | [bonnadol](https://open.spotify.com/artist/19IYWJFjZPv3INWYpkavTc) | [ฉลามชอบงับคุณ Feat.IIVY B](https://open.spotify.com/album/7nzdc88JydSq90v212jrfU) | 3:55 |
 | 59 | [ระยะหัวใจ](https://open.spotify.com/track/1ZvxQC3jxMuceMdoFo0Cor) | [FLUKIE](https://open.spotify.com/artist/3dR2IRGHNpZ5CBbxOQN03t) | [ระยะหัวใจ](https://open.spotify.com/album/2QfNggOnaDCmeUgF2dKCYX) | 3:03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: Tohpati, Nadhif Basalamah
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,482,915 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,483,052 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 | 99 | [Multo](https://open.spotify.com/track/5tlb0AxuzsMWL2GtEppXGX) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Silakbo](https://open.spotify.com/album/2WOyuTsNHF90SryrS3kmIN) | 3:57 |
 | 100 | [Let Down](https://open.spotify.com/track/2fuYa3Lx06QQJAm0MjztKr) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 4:59 |
 
-Snapshot ID: `AAAAAHB2WoReMjxKj7s9NXsTgSHv8Vvj`
+Snapshot ID: `AAAAAHrmy+Wm64eKlpeTZ9txUFNQGIsY`

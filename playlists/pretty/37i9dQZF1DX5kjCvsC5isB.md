@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 
 > the bold women of rock & alternative today\. Cover: The Warning
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,987 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,994 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,12 +39,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 | 29 | [House Of Self\-Undoing](https://open.spotify.com/track/6dle7FaD5ZRhbHHk6zZsWX) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [She Reaches Out To She Reaches Out To She](https://open.spotify.com/album/4uJMF1xAEk9IgPA5UbwNA6) | 4:23 |
 | 30 | [Window](https://open.spotify.com/track/6eMPkhwJpkBPagyC54s8wo) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Window](https://open.spotify.com/album/5PtBmayc1Rf9a9bqrj43cW) | 3:03 |
 | 31 | [Nothing Matters](https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Nothing Matters](https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3) | 3:01 |
-| 32 | [Hypocrite](https://open.spotify.com/track/4UM0WAccdPzvZIHCcxWDf0) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH) | [Hypocrite](https://open.spotify.com/album/0b7M1yTWCB0lCDtIhBn01N) | 1:48 |
-| 33 | [Opening Night](https://open.spotify.com/track/1hf9bnNxtokh6t6pT8pnva) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Opening Night](https://open.spotify.com/album/7BDvfsNZv6e5LqgqPppEuy) | 2:07 |
-| 34 | [I Just Needed You To Know](https://open.spotify.com/track/1LCovl7CSqDuKJRlFQEA5V) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [I Just Needed You To Know](https://open.spotify.com/album/2Xhvdg9rLRGvhlcOznttch) | 4:35 |
-| 35 | [Afterglow](https://open.spotify.com/track/61Wb1e1WDS5FtXQ9Wc6Efs) | [chokecherry](https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT) | [Afterglow](https://open.spotify.com/album/1jJIwhz4U3GCRJnCXo8pTz) | 4:22 |
-| 36 | [Holy Touch](https://open.spotify.com/track/4OX2oCV4aZHnmCf1Woh0FG) | [Suzy Clue](https://open.spotify.com/artist/0gohQ3t7I3QY3fjr7DJtUK) | [Holy Touch](https://open.spotify.com/album/1Ew7k7kcMCmJ19GoDntcrN) | 3:44 |
-| 37 | [Feel It All The Time](https://open.spotify.com/track/5hfu9r4JcERCBwimhrPIUN) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Sometimes, Forever](https://open.spotify.com/album/3VXLdJpzeaAyX9Tbm0i0zn) | 3:15 |
+| 32 | [Opening Night](https://open.spotify.com/track/1hf9bnNxtokh6t6pT8pnva) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Opening Night](https://open.spotify.com/album/7BDvfsNZv6e5LqgqPppEuy) | 2:07 |
+| 33 | [I Just Needed You To Know](https://open.spotify.com/track/1LCovl7CSqDuKJRlFQEA5V) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [I Just Needed You To Know](https://open.spotify.com/album/2Xhvdg9rLRGvhlcOznttch) | 4:35 |
+| 34 | [Afterglow](https://open.spotify.com/track/61Wb1e1WDS5FtXQ9Wc6Efs) | [chokecherry](https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT) | [Afterglow](https://open.spotify.com/album/1jJIwhz4U3GCRJnCXo8pTz) | 4:22 |
+| 35 | [Holy Touch](https://open.spotify.com/track/4OX2oCV4aZHnmCf1Woh0FG) | [Suzy Clue](https://open.spotify.com/artist/0gohQ3t7I3QY3fjr7DJtUK) | [Holy Touch](https://open.spotify.com/album/1Ew7k7kcMCmJ19GoDntcrN) | 3:44 |
+| 36 | [Feel It All The Time](https://open.spotify.com/track/5hfu9r4JcERCBwimhrPIUN) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Sometimes, Forever](https://open.spotify.com/album/3VXLdJpzeaAyX9Tbm0i0zn) | 3:15 |
+| 37 | [Hypocrite](https://open.spotify.com/track/4UM0WAccdPzvZIHCcxWDf0) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH) | [Hypocrite](https://open.spotify.com/album/0b7M1yTWCB0lCDtIhBn01N) | 1:48 |
 | 38 | [Violet](https://open.spotify.com/track/3gJFkBZKhWTgW7PfMIduyB) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Streetwise](https://open.spotify.com/album/3TniPIO2mohmWrKnUv51dW) | 2:43 |
 | 39 | [And They All Fall Down](https://open.spotify.com/track/4kfPFH4eobdyzyqEJd6sMo) | [Saint Agnes](https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL) | [And They All Fall Down](https://open.spotify.com/album/47ZajOVfTx4ybpStTat8mm) | 2:20 |
 | 40 | [Big Time Nothing](https://open.spotify.com/track/6xlagfcOInH0YuFDTtRvt1) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Big Time Nothing](https://open.spotify.com/album/5Cn1ahgwgul033qDq87n1X) | 2:58 |
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 | 43 | [Raw Raw](https://open.spotify.com/track/3sBofbRnJphNVu5SdBxzKQ) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Raw Raw](https://open.spotify.com/album/2EichogWsvmDmpN6tdZov0) | 2:57 |
 | 44 | [T.M.I](https://open.spotify.com/track/3Gmzz9nQJHhtDSqLZhBgrt) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Past // Present // Future](https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve) | 2:45 |
 | 45 | [Call Me Later](https://open.spotify.com/track/6Uc7A8PeGszMyQ9XPvR6ZT) | [The Foxies](https://open.spotify.com/artist/02Gz7Nb7bIi0oxLIXYELYd) | [Call Me Later](https://open.spotify.com/album/526HT2ENrJdZsyqoxe6zm6) | 3:00 |
-| 46 | [Over The Threshold](https://open.spotify.com/track/77tCZA3Fnj8OEateXdr2l3) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [Over The Threshold](https://open.spotify.com/album/6j7try3OyUBLLNd0PfvWXU) | 4:09 |
-| 47 | [Honda Civic](https://open.spotify.com/track/0JHjsGwxzK7xzpceRcoMbB) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [Honda Civic](https://open.spotify.com/album/0VDkmKaedGsW1Eots7DEJM) | 2:50 |
-| 48 | [rot in love](https://open.spotify.com/track/7oj0HfhX4PY8zmUR4kBxfe) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [why aren't you laughing?](https://open.spotify.com/album/2cx46nqqjNyqDzu1teQGUh) | 4:13 |
+| 46 | [Honda Civic](https://open.spotify.com/track/0JHjsGwxzK7xzpceRcoMbB) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [Honda Civic](https://open.spotify.com/album/0VDkmKaedGsW1Eots7DEJM) | 2:50 |
+| 47 | [rot in love](https://open.spotify.com/track/7oj0HfhX4PY8zmUR4kBxfe) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [why aren't you laughing?](https://open.spotify.com/album/2cx46nqqjNyqDzu1teQGUh) | 4:13 |
+| 48 | [Over The Threshold](https://open.spotify.com/track/77tCZA3Fnj8OEateXdr2l3) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [Over The Threshold](https://open.spotify.com/album/6j7try3OyUBLLNd0PfvWXU) | 4:09 |
 | 49 | [Like I Say \(I runaway\)](https://open.spotify.com/track/2D3oVAd8nHrqJH8UAfvtTT) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Like I Say \(I runaway\)](https://open.spotify.com/album/3jdwbGosiLl00nmhwpxFIx) | 2:57 |
 | 50 | [She’s So Cool \(with Pale Waves\)](https://open.spotify.com/track/2ma25BxbSTq90j64a0SP60) | [BRUSES](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y), [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [She’s So Cool \(with Pale Waves\)](https://open.spotify.com/album/3XLcU3IGsgZ6JwIApfrTmJ) | 2:26 |
 | 51 | [Stray](https://open.spotify.com/track/2X7osutibLRVpphKnfHjz7) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Afraid of Tomorrows](https://open.spotify.com/album/2WjX0yaIGO8Yl9qnp4vm7G) | 3:36 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5kjCvsC5isB.md) - [plain]
 | 76 | [Roadkill](https://open.spotify.com/track/10jugZSxm3weVkTSSO8LFR) | [Starcrawler](https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i) | [Roadkill](https://open.spotify.com/album/4kvhcTgta9vq0hsjVfrHVJ) | 2:22 |
 | 77 | [Welcome to My House](https://open.spotify.com/track/0q1EgphEnjNphQaiG1wHnw) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Welcome to My House](https://open.spotify.com/album/07UT7tQ1llvdiYSdhz1brM) | 3:27 |
 | 78 | [Self Doubt](https://open.spotify.com/track/3hFTRq1u29M7V4Vz84UfPc) | [Ava Maybee](https://open.spotify.com/artist/56XHwBrYEOBDDGKr7BLDv9) | [Self Doubt](https://open.spotify.com/album/1VPDRTa6I8QIsWcuCO1Eyt) | 2:54 |
-| 79 | [Baggage](https://open.spotify.com/track/2ikmBwZKZr0ahGcX4x8qtj) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [When Everything Went Dark](https://open.spotify.com/album/1D7U3UMynyEmdEn7uJj31v) | 3:03 |
-| 80 | [Why Am I Like This?](https://open.spotify.com/track/6gnNNTPxIPjgvGlWw98Bwc) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Why Am I Like This? / Ipecac](https://open.spotify.com/album/5CRI8TgzFDrBGmgMoC0hVq) | 2:26 |
+| 79 | [Why Am I Like This?](https://open.spotify.com/track/6gnNNTPxIPjgvGlWw98Bwc) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Why Am I Like This? / Ipecac](https://open.spotify.com/album/5CRI8TgzFDrBGmgMoC0hVq) | 2:26 |
+| 80 | [Baggage](https://open.spotify.com/track/2ikmBwZKZr0ahGcX4x8qtj) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [When Everything Went Dark](https://open.spotify.com/album/1D7U3UMynyEmdEn7uJj31v) | 3:03 |
 | 81 | [Downhill](https://open.spotify.com/track/4z1gtOYAOwCQjTgiDsEYQy) | [Pom Pom Squad](https://open.spotify.com/artist/1yhTALwId0bpL1U1XRT3Zs) | [Downhill](https://open.spotify.com/album/5WHOjQs1oIFghKGMqJpfN4) | 3:05 |
 | 82 | [Kiss Kiss Bang Bang](https://open.spotify.com/track/3kFoZcKkIUsKBoWYHvMkUQ) | [LYELL](https://open.spotify.com/artist/3aDih8lIm5GOfAaorpUg5Y) | [Kiss Kiss Bang Bang](https://open.spotify.com/album/7ADrQj9OGll4kiXcCSdcqI) | 2:53 |
 | 83 | [Jabberwocky](https://open.spotify.com/track/20Z3wEq4zdirEQgnB3K5EU) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI) | [Jabberwocky](https://open.spotify.com/album/6wbBWQ7nQX7IzB9u6kJaoA) | 3:12 |

@@ -1,6 +1,6 @@
 {
   "description": "Canciones que marcaron la d\u00e9cada de los 80s en Argentina.",
-  "num_followers": 303285,
+  "num_followers": 303322,
   "original_name": "Los 80 Argentina",
   "owner": {
     "name": "Spotify",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-06-12 23:29:42",
       "album": {
-        "name": "El Ritual De La Banana / Los Pericos",
-        "url": "https://open.spotify.com/album/6sN1L8SbguregFdB6slLWU"
-      },
-      "artists": [
-        {
-          "name": "Los Pericos",
-          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
-        }
-      ],
-      "duration_ms": 211426,
-      "name": "Nada que perder",
-      "url": "https://open.spotify.com/track/6UlD0JgjMvVXGB4J61w6hW"
-    },
-    {
-      "added_at": "2024-06-12 23:29:42",
-      "album": {
         "name": "La Dicha En Movimiento",
         "url": "https://open.spotify.com/album/0JHPihaWP6y9O28ILSY8Jo"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 149560,
       "name": "Cleopatra, La Reina Del Twist",
       "url": "https://open.spotify.com/track/6XxKFdLiQG5g4xPfnBV1H5"
+    },
+    {
+      "added_at": "2024-06-12 23:29:42",
+      "album": {
+        "name": "El Ritual De La Banana / Los Pericos",
+        "url": "https://open.spotify.com/album/6sN1L8SbguregFdB6slLWU"
+      },
+      "artists": [
+        {
+          "name": "Los Pericos",
+          "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
+        }
+      ],
+      "duration_ms": 211426,
+      "name": "Nada que perder",
+      "url": "https://open.spotify.com/track/6UlD0JgjMvVXGB4J61w6hW"
     },
     {
       "added_at": "2024-06-12 23:29:42",

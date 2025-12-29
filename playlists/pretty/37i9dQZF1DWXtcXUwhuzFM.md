@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musaa tarjoilevat Kube..\. ja moni muu  🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,536 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,527 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 49 | [Clap Song](https://open.spotify.com/track/1b7w4UuUfq9iPoDstsrT2u) | [Dolly Style](https://open.spotify.com/artist/0D00AEI0IWmoBtdIH75zXs) | [Clap Song](https://open.spotify.com/album/7LAapowXY9JaobinDNkO20) | 2:35 |
 | 50 | [Make Me Believe](https://open.spotify.com/track/13L1dRs0fJhfDi5zBHxchB) | [V\. Christie](https://open.spotify.com/artist/63sAE1NYTAlj2Oi77mMDmm) | [Make Me Believe](https://open.spotify.com/album/6eujvQJlOJZjQTAAlk0mM5) | 4:20 |
 
-Snapshot ID: `AAAAACAUrEfnFGywxhiW7sOhF14oW7hc`
+Snapshot ID: `AAAAADr8xGf58VsINH3mZaANW/T2way0`

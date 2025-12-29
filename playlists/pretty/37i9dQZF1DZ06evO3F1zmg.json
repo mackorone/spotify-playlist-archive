@@ -1,12 +1,12 @@
 {
   "description": "This is Saweetie. The essential tracks, all in one playlist.",
-  "num_followers": 42354,
+  "num_followers": 42352,
   "original_name": "This Is Saweetie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU3QAAAAAADb9o85svPZruDD7xigVeWR",
+  "snapshot_id": "aU8hgAAAAACi2v0/0yPC+1X92KP53mFd",
   "tracks": [
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HELLA PRESSURE",
-        "url": "https://open.spotify.com/album/1dG31Tcl0pmtn9vtFWw13d"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 162708,
-      "name": "pressure",
-      "url": "https://open.spotify.com/track/3hlJXtUKYF4AZUoKtLZeve"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Players Holiday '25 (feat. Larry June, Kamaiyah, Saweetie, LaRussell, G-Eazy, th\u1ee7y & Ymtk)",
         "url": "https://open.spotify.com/album/71hd0wuPQtBxuEjphSGEVy"
       },
@@ -667,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "HELLA PRESSURE",
+        "url": "https://open.spotify.com/album/1dG31Tcl0pmtn9vtFWw13d"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 162708,
+      "name": "pressure",
+      "url": "https://open.spotify.com/track/3hlJXtUKYF4AZUoKtLZeve"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Money Mouf",
         "url": "https://open.spotify.com/album/6dn11fbycq7fhBCfS8GBRG"
       },
@@ -691,22 +691,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "CORINIAN",
-        "url": "https://open.spotify.com/album/4qtAux5nQUxDiKr7YE12RW"
+        "name": "Destined 2 Win",
+        "url": "https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ"
       },
       "artists": [
         {
-          "name": "TiaCorine",
-          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
         },
         {
           "name": "Saweetie",
           "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
         }
       ],
-      "duration_ms": 212571,
-      "name": "Pretty (feat. Saweetie)",
-      "url": "https://open.spotify.com/track/1ALk8Otxy5aSYUvJeoZtlo"
+      "duration_ms": 214536,
+      "name": "Move (feat. Saweetie)",
+      "url": "https://open.spotify.com/track/0DcjZHcCkc8DlRnZI0hagv"
     },
     {
       "added_at": null,
@@ -731,26 +735,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Destined 2 Win",
-        "url": "https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ"
+        "name": "CORINIAN",
+        "url": "https://open.spotify.com/album/4qtAux5nQUxDiKr7YE12RW"
       },
       "artists": [
         {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+          "name": "TiaCorine",
+          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
         },
         {
           "name": "Saweetie",
           "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
         }
       ],
-      "duration_ms": 214536,
-      "name": "Move (feat. Saweetie)",
-      "url": "https://open.spotify.com/track/0DcjZHcCkc8DlRnZI0hagv"
+      "duration_ms": 212571,
+      "name": "Pretty (feat. Saweetie)",
+      "url": "https://open.spotify.com/track/1ALk8Otxy5aSYUvJeoZtlo"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 
 > A collection of Industrial Metal \- fresh and old tunes\. Cover: Fear Factory
 
-[Spotify](https://open.spotify.com/user/spotify) - 365,115 likes - 100 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 365,151 likes - 100 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,9 +83,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 | 73 | [D4TM](https://open.spotify.com/track/6S4Q0HDqHDsdcmfFNvyc8y) | [Oddko](https://open.spotify.com/artist/1UVYxhc5UIS5VLvUXrSo81) | [Digital Gods](https://open.spotify.com/album/2dhSJeHtfSCcpEwyQCikfc) | 3:26 |
 | 74 | [I Am Nothing](https://open.spotify.com/track/3AbsnquyVPrryreclU5fvx) | [Stabbing Westward](https://open.spotify.com/artist/5daXMUbrPh8oX9Nd4CnToG) | [Chasing Ghosts](https://open.spotify.com/album/0xUiYomjFBfg1qbOuSn37E) | 4:03 |
 | 75 | [Suffering You](https://open.spotify.com/track/0HzbDl381rdXtSOaJk20eH) | [16Volt](https://open.spotify.com/artist/4xhhi5wPHqN5vcYhUq1Jim) | [FullBlackHabit](https://open.spotify.com/album/4dy8WNRSh2TFjkHroqThz9) | 3:07 |
-| 76 | [Out For Blood](https://open.spotify.com/track/3Lq6gNTGCu9SOChMq8ZZfY) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [Out For Blood](https://open.spotify.com/album/3x5nuvzBBCBsORW1Jrl0ZT) | 3:40 |
-| 77 | [Black Lipstick](https://open.spotify.com/track/0jXfVK691dITawcnze17h2) | [Powerman 5000](https://open.spotify.com/artist/5imUS9dQyCbAjUEJJ9QyWC) | [Black Lipstick](https://open.spotify.com/album/4sZ7rJiz0mmGjVFK8cC7ql) | 3:23 |
-| 78 | [Hengitä](https://open.spotify.com/track/0aRyEPEkEpzUTztEtasDVj) | [Turmion Kätilöt](https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg) | [Hengitä](https://open.spotify.com/album/4Jkym58PA9Nhe96FjI3Ox7) | 3:10 |
+| 76 | [Black Lipstick](https://open.spotify.com/track/0jXfVK691dITawcnze17h2) | [Powerman 5000](https://open.spotify.com/artist/5imUS9dQyCbAjUEJJ9QyWC) | [Black Lipstick](https://open.spotify.com/album/4sZ7rJiz0mmGjVFK8cC7ql) | 3:23 |
+| 77 | [Hengitä](https://open.spotify.com/track/0aRyEPEkEpzUTztEtasDVj) | [Turmion Kätilöt](https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg) | [Hengitä](https://open.spotify.com/album/4Jkym58PA9Nhe96FjI3Ox7) | 3:10 |
+| 78 | [Out For Blood](https://open.spotify.com/track/3Lq6gNTGCu9SOChMq8ZZfY) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [Out For Blood](https://open.spotify.com/album/3x5nuvzBBCBsORW1Jrl0ZT) | 3:40 |
 | 79 | [Haunted](https://open.spotify.com/track/1XwC7lFWY9R8s2qO8iiXxx) | [Ludovico Technique](https://open.spotify.com/artist/1QLq3DjHn8KdTfUig43wP1) | [Haunted](https://open.spotify.com/album/0f2GeuwtgobWCjVFPGHLOX) | 3:38 |
 | 80 | [Recharger](https://open.spotify.com/track/3C5jj2rhMP5Qw7AiKyMoWQ) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Re\-Industrialized](https://open.spotify.com/album/3dbC9oQ5is3z8VR4Ninpuv) | 4:09 |
 | 81 | [In League](https://open.spotify.com/track/6N09DiGe5l8xB8YfCSn2Gx) | [Bile](https://open.spotify.com/artist/7rBp0ChNSds53ArYsOJNSj) | [Sex Reflex \(Remastered\)](https://open.spotify.com/album/0n2vWbnlL0dOAmiY6hRVOK) | 4:52 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29LQDcJ6Xy7.md) - [plain]
 | 89 | [Endzeit](https://open.spotify.com/track/3YwmrqN6NMxPL5HyjojEOi) | [Schwarzer Engel](https://open.spotify.com/artist/15g7I4KWNHNSPdcCtm6dpk) | [Sieben](https://open.spotify.com/album/3nnX9wWAHFLYun9ylDAhUJ) | 4:10 |
 | 90 | [Disobey \- Disruptor Remix](https://open.spotify.com/track/5ovhDF3buYTpIgwgqhIwxf) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX), [Zardonic](https://open.spotify.com/artist/7BqEidErPMNiUXCRE0dV2n) | [Disobey \(Disruptor Remix\)](https://open.spotify.com/album/6qeYZ9eiG9uMyvlR3n5pK6) | 3:28 |
 | 91 | [Small World](https://open.spotify.com/track/0cSd01K5jeFTDLSrD95dEb) | [Skold](https://open.spotify.com/artist/71Yh3iYxx17VectgWOMvUr) | [Never Is Now](https://open.spotify.com/album/4a42neJMlka7MRKNKwYsJb) | 4:56 |
-| 92 | [Therapy](https://open.spotify.com/track/59xf0j7TD8NOsY4gmS2UcZ) | [The Hunger](https://open.spotify.com/artist/1TzYfIDcBPrD2ICroUPv5H) | [The Hunger](https://open.spotify.com/album/6hJdzDHfOpML4CmTv86gOI) | 4:32 |
-| 93 | [PRESIDENT X](https://open.spotify.com/track/3YlXqeGh10AADlm9tt7bbK) | [3TEETH](https://open.spotify.com/artist/4GHi4xklo0FT0l2CNuLFh2) | [PRESIDENT X](https://open.spotify.com/album/2nEO7xItffDVSNZo4XOIJU) | 3:40 |
+| 92 | [PRESIDENT X](https://open.spotify.com/track/3YlXqeGh10AADlm9tt7bbK) | [3TEETH](https://open.spotify.com/artist/4GHi4xklo0FT0l2CNuLFh2) | [PRESIDENT X](https://open.spotify.com/album/2nEO7xItffDVSNZo4XOIJU) | 3:40 |
+| 93 | [Therapy](https://open.spotify.com/track/59xf0j7TD8NOsY4gmS2UcZ) | [The Hunger](https://open.spotify.com/artist/1TzYfIDcBPrD2ICroUPv5H) | [The Hunger](https://open.spotify.com/album/6hJdzDHfOpML4CmTv86gOI) | 4:32 |
 | 94 | [Burn Everything](https://open.spotify.com/track/3TnHNsSdOYdqQdXyivAmuH) | [Ludovico Technique](https://open.spotify.com/artist/1QLq3DjHn8KdTfUig43wP1) | [Burn Everything](https://open.spotify.com/album/3YVOIopHaBdAnj3dBe97od) | 4:23 |
 | 95 | [Come Back to Life](https://open.spotify.com/track/4D1ucjSLckZ74e0rUfdFMg) | [Lock The Basement](https://open.spotify.com/artist/1zSnVk8QCuI5kAaNsfOQpi) | [Come Back to Life](https://open.spotify.com/album/7auksAd2OUTBNWgYFTmHCx) | 3:28 |
 | 96 | [Vision 2020 Vision](https://open.spotify.com/track/13VbFEZvg3etUT8vz4YIhI) | [Die Krupps](https://open.spotify.com/artist/0iDagYU2nu7gTWMdtCxzxW) | [Vision 2020 Vision](https://open.spotify.com/album/1MDfKtOfNFOlkUwa3GM8QZ) | 4:23 |

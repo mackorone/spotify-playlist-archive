@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17JzNU.md) - [plain]
 
 > This is Los Gemelos De Sinaloa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,024 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,025 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17JzNU.md) - [plain]
 | 16 | [Soy de Accion](https://open.spotify.com/track/0AK5p4gjgDOgNNKCvH4Zlm) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Hay Que Prender](https://open.spotify.com/album/3WXxHr2o8XZeZuL8CrdlEH) | 3:11 |
 | 17 | [Black Jack](https://open.spotify.com/track/2hkAZ2LM0zqrnWRvb1YP8S) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Corridos Chakalosos](https://open.spotify.com/album/1SwvH2qJLpvB8CiGEsZU9l) | 3:05 |
 | 18 | [Y Es Que Contigo](https://open.spotify.com/track/1x87m5qOQDngRadEcIPVhX) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Corridos y Sentimientos \(Vol 2\)](https://open.spotify.com/album/0ywgnvhlgNb1zDnUCewG0s) | 2:10 |
-| 19 | [Conexión](https://open.spotify.com/track/6nVaSyHHv07obQYrVuWQFa) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Conexión](https://open.spotify.com/album/3LzrPKfe2norm7MRc2vZmD) | 2:26 |
-| 20 | [El Michoacano](https://open.spotify.com/track/1ltZxfoujP63Bp8RYFhgd5) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [El Michoacano](https://open.spotify.com/album/4H7g82BTMoAHZXCYYXQWNw) | 3:47 |
+| 19 | [El Michoacano](https://open.spotify.com/track/1ltZxfoujP63Bp8RYFhgd5) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [El Michoacano](https://open.spotify.com/album/4H7g82BTMoAHZXCYYXQWNw) | 3:47 |
+| 20 | [Conexión](https://open.spotify.com/track/6nVaSyHHv07obQYrVuWQFa) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Conexión](https://open.spotify.com/album/3LzrPKfe2norm7MRc2vZmD) | 2:26 |
 | 21 | [Pase De Pescado](https://open.spotify.com/track/1gl2RrnBeJ5OkgAhAAAPkz) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Pase De Pescado](https://open.spotify.com/album/2fpjalLXszEIPq9UZnBEBL) | 3:33 |
 | 22 | [Suerte No Fue](https://open.spotify.com/track/4tFuWIXeyNN9mkg0uC3d7s) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8), [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Suerte No Fue](https://open.spotify.com/album/4EjJmdzXfSG6h788Tb1PFi) | 3:11 |
 | 23 | [Ahora Piden Paros](https://open.spotify.com/track/5QfjZFXqcHkIFPPh1gevNI) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Ahora Piden Paros](https://open.spotify.com/album/5rKEVR1pa9iVTLIGQaTosD) | 2:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17JzNU.md) - [plain]
 | 49 | [NOS TORCIERON](https://open.spotify.com/track/6zfSZmIlUIYTQQaygXQ3Dm) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [EXCENTRICON](https://open.spotify.com/album/0e4tkubc3hq9zfOOJzBkIH) | 3:22 |
 | 50 | [Diablo CMG](https://open.spotify.com/track/1GfnkaVOmfgAv5i5ab5ZNg) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Corridos y Sentimientos](https://open.spotify.com/album/6rcVo1GNdKxs6JDwHth5QH) | 3:02 |
 
-Snapshot ID: `aU3QAAAAAADmJRpgX2kJZKa4JDLoDEPE`
+Snapshot ID: `aU8hgAAAAADpqSUv1e/c1sQQFJOyobX9`

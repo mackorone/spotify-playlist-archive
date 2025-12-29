@@ -1,6 +1,6 @@
 {
   "description": "Hit the dance floor with your favorite bops!",
-  "num_followers": 576933,
+  "num_followers": 577158,
   "original_name": "Dance Pop Hits",
   "owner": {
     "name": "Spotify",
@@ -727,6 +727,26 @@
     {
       "added_at": "2025-10-05 23:11:45",
       "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 196613,
+      "name": "Perfect Strangers",
+      "url": "https://open.spotify.com/track/3P3pw6C19j31Rnzgo3JG7o"
+    },
+    {
+      "added_at": "2025-10-05 23:11:45",
+      "album": {
         "name": "Addicted",
         "url": "https://open.spotify.com/album/7yO1vbedliKtwQ65jAjBQr"
       },
@@ -747,26 +767,6 @@
       "duration_ms": 152250,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM"
-    },
-    {
-      "added_at": "2025-10-05 23:11:45",
-      "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        }
-      ],
-      "duration_ms": 196613,
-      "name": "Perfect Strangers",
-      "url": "https://open.spotify.com/track/3P3pw6C19j31Rnzgo3JG7o"
     },
     {
       "added_at": "2025-10-05 23:11:45",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2025-10-05 23:11:45",
       "album": {
+        "name": "The Business",
+        "url": "https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "The Business",
+      "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
+    },
+    {
+      "added_at": "2025-10-05 23:11:45",
+      "album": {
         "name": "Sweet Disposition (a moment, a love)",
         "url": "https://open.spotify.com/album/1gy4lfYIU3RmqcKYucj5tR"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 212209,
       "name": "Sweet Disposition (a moment, a love)",
       "url": "https://open.spotify.com/track/0D57lQnn110jGaup4NguSI"
-    },
-    {
-      "added_at": "2025-10-05 23:11:45",
-      "album": {
-        "name": "The Business",
-        "url": "https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "The Business",
-      "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
     },
     {
       "added_at": "2025-10-05 23:11:45",
@@ -1379,26 +1379,6 @@
     {
       "added_at": "2025-10-05 23:11:45",
       "album": {
-        "name": "Intense",
-        "url": "https://open.spotify.com/album/5ZsK5SUsZilbAJ4B0vRVxF"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Trevor Guthrie",
-          "url": "https://open.spotify.com/artist/6NXk2pLFocS2OkNdT7ncBt"
-        }
-      ],
-      "duration_ms": 204360,
-      "name": "This Is What It Feels Like",
-      "url": "https://open.spotify.com/track/5GjnIpUlLGEIYk052ISOw9"
-    },
-    {
-      "added_at": "2025-10-05 23:11:45",
-      "album": {
         "name": "Nothing but the Beat 2.0",
         "url": "https://open.spotify.com/album/5aprcHwM1KJhaY9Kbxkfkn"
       },
@@ -1419,6 +1399,26 @@
     {
       "added_at": "2025-10-05 23:11:45",
       "album": {
+        "name": "Intense",
+        "url": "https://open.spotify.com/album/5ZsK5SUsZilbAJ4B0vRVxF"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Trevor Guthrie",
+          "url": "https://open.spotify.com/artist/6NXk2pLFocS2OkNdT7ncBt"
+        }
+      ],
+      "duration_ms": 204360,
+      "name": "This Is What It Feels Like",
+      "url": "https://open.spotify.com/track/5GjnIpUlLGEIYk052ISOw9"
+    },
+    {
+      "added_at": "2025-10-05 23:11:45",
+      "album": {
         "name": "Heaven & Hell",
         "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
       },
@@ -1431,26 +1431,6 @@
       "duration_ms": 174760,
       "name": "My Head & My Heart",
       "url": "https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm"
-    },
-    {
-      "added_at": "2025-10-05 23:11:45",
-      "album": {
-        "name": "Glide",
-        "url": "https://open.spotify.com/album/6AMsv6QlrSfVozxMKqczKx"
-      },
-      "artists": [
-        {
-          "name": "NEIKED",
-          "url": "https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f"
-        },
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 184405,
-      "name": "Glide",
-      "url": "https://open.spotify.com/track/1CSAUEapYQQOD50ardFG0K"
     },
     {
       "added_at": "2025-10-05 23:11:45",
@@ -1475,22 +1455,22 @@
     {
       "added_at": "2025-10-05 23:11:45",
       "album": {
-        "name": "Higher Love",
-        "url": "https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE"
+        "name": "Glide",
+        "url": "https://open.spotify.com/album/6AMsv6QlrSfVozxMKqczKx"
       },
       "artists": [
         {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+          "name": "NEIKED",
+          "url": "https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f"
         },
         {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
         }
       ],
-      "duration_ms": 228267,
-      "name": "Higher Love",
-      "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
+      "duration_ms": 184405,
+      "name": "Glide",
+      "url": "https://open.spotify.com/track/1CSAUEapYQQOD50ardFG0K"
     },
     {
       "added_at": "2025-10-05 23:11:45",
@@ -1519,6 +1499,26 @@
       "duration_ms": 212500,
       "name": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)",
       "url": "https://open.spotify.com/track/4w8niZpiMy6qz1mntFA5uM"
+    },
+    {
+      "added_at": "2025-10-05 23:11:45",
+      "album": {
+        "name": "Higher Love",
+        "url": "https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 228267,
+      "name": "Higher Love",
+      "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
     },
     {
       "added_at": "2025-10-05 23:11:45",
@@ -1743,30 +1743,6 @@
     {
       "added_at": "2025-10-05 23:11:45",
       "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1"
-      },
-      "artists": [
-        {
-          "name": "Regard",
-          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
-        },
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        },
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 233386,
-      "name": "You",
-      "url": "https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE"
-    },
-    {
-      "added_at": "2025-10-05 23:11:45",
-      "album": {
         "name": "The Lockdown Sessions",
         "url": "https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om"
       },
@@ -1787,6 +1763,30 @@
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/7rglLriMNBPAyuJOMGwi39"
+    },
+    {
+      "added_at": "2025-10-05 23:11:45",
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1"
+      },
+      "artists": [
+        {
+          "name": "Regard",
+          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
+        },
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        },
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 233386,
+      "name": "You",
+      "url": "https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE"
     },
     {
       "added_at": "2025-10-05 23:11:45",
@@ -1939,6 +1939,22 @@
     {
       "added_at": "2025-10-05 23:11:45",
       "album": {
+        "name": "Tension (Deluxe)",
+        "url": "https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 166266,
+      "name": "Padam Padam",
+      "url": "https://open.spotify.com/track/44MuEHdlociG8KjhPhOVw5"
+    },
+    {
+      "added_at": "2025-10-05 23:11:45",
+      "album": {
         "name": "Only Human (Deluxe)",
         "url": "https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf"
       },
@@ -1955,22 +1971,6 @@
       "duration_ms": 222889,
       "name": "Dancing On My Own - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/2EHVjRFRSsXQaHAsys74Us"
-    },
-    {
-      "added_at": "2025-10-05 23:11:45",
-      "album": {
-        "name": "Tension (Deluxe)",
-        "url": "https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 166266,
-      "name": "Padam Padam",
-      "url": "https://open.spotify.com/track/44MuEHdlociG8KjhPhOVw5"
     },
     {
       "added_at": "2025-10-05 23:11:45",

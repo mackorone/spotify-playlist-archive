@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxk55r8Lbgr.md) - [plain]
 
 > 蘑菇濃湯來了！快點快點快點呦！和寶貝一起快樂唱唱跳跳吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,257 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,262 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxk55r8Lbgr.md) - [plain]
 | 43 | [娃娃國](https://open.spotify.com/track/2uC8oCq0lZAfLO9gXk6XAm) | [銀河小歌星](https://open.spotify.com/artist/75IopNfhJarTwkkpN06iU4) | [100首可愛的童謠, Vol\. 1（上集）](https://open.spotify.com/album/0OJiAIBfqKpMZM2AyNhAed) | 2:05 |
 | 44 | [我愛洗澡洗刷刷](https://open.spotify.com/track/2hXCzF6xBN70VPX5Df1H0J) | [香蕉人](https://open.spotify.com/artist/3A4EykJG22um1n4h9iYWBk) | [香蕉人](https://open.spotify.com/album/6MC4t6Sz0EtOh5YbMRLoqJ) | 3:45 |
 | 45 | [青蛙王子](https://open.spotify.com/track/5a7nfqWLnwdhmpPeDrszTm) | [幼福姊姊說故事](https://open.spotify.com/artist/3SyuLvZ0aQmyYmrb8ownWo) | [Kid's童話屋: 格林童話](https://open.spotify.com/album/59hu6MVIipdfQN91XxMabL) | 6:59 |
-| 46 | [拍拍手](https://open.spotify.com/track/38hqL719iAugPd7FRRCsLM) | [圈圈寶貝](https://open.spotify.com/artist/1Giu7rHJqraf75o6fAOHEw) | [寶貝 我的家](https://open.spotify.com/album/0dvVDfgDRxhZESdpdqVAIR) | 2:50 |
+| 46 | [媽咪](https://open.spotify.com/track/5tgilrUUpEbCfyJE5NqIsZ) | [圈圈寶貝](https://open.spotify.com/artist/1Giu7rHJqraf75o6fAOHEw), [小蜜桃姐姐](https://open.spotify.com/artist/75MNXkfWwDHZreCpFIRLcw) | [媽咪](https://open.spotify.com/album/43MNIFYWKszER35lAwYrGK) | 2:24 |
 | 47 | [咕嚕咕嚕](https://open.spotify.com/track/3S9zq7HSMgFLe21azI9tLu) | [miki施孟琪](https://open.spotify.com/artist/6TuF5P2WJtAqlJy0Wim7jt) | [miki's LUCKY](https://open.spotify.com/album/1V6Vh4rbaLF3xjapDNMB8W) | 0:54 |
 | 48 | [拔蘿蔔](https://open.spotify.com/track/3OsgWGL6sJ20yUbM9wq1OV) | [銀河小歌星](https://open.spotify.com/artist/75IopNfhJarTwkkpN06iU4) | [100首可愛的童謠, Vol\. 2（下集）](https://open.spotify.com/album/5wbHj4TaXibGy3GascDqrx) | 2:00 |
-| 49 | [英雄爸爸](https://open.spotify.com/track/7aJijQbBOr4MOMvAuaKkdd) | [愛好好聽](https://open.spotify.com/artist/0mNR0QVE8U7DI4pZsEGlhC) | [英雄爸爸](https://open.spotify.com/album/5hlZCLbYMyPG8NNXHzb0b8) | 3:43 |
+| 49 | [為我勇敢的媽媽](https://open.spotify.com/track/7jqWrB702nGEtKe98aKYh8) | [愛好好聽](https://open.spotify.com/artist/0mNR0QVE8U7DI4pZsEGlhC) | [為我勇敢的媽媽](https://open.spotify.com/album/5dayGo2aXytPfI1wl9a3Xw) | 4:03 |
 | 50 | [嗶嗶哩巴嗶哩布 \- 小公視愛唱歌系列\_\_為寶貝唱一首歌](https://open.spotify.com/track/15UPCpdfAwpYKx4NWj7Tqa) | [Lulu Huang Lu Zi Yin](https://open.spotify.com/artist/1Qx9W9TY2vPox7BS9urTlK) | [嗶嗶哩巴嗶哩布](https://open.spotify.com/album/5zjraf8Q01eqa8OsqWa1MJ) | 2:59 |
 
 Snapshot ID: `AAAAAC3S7AnNkyTCNRTq0ZgjPRpCjEf7`

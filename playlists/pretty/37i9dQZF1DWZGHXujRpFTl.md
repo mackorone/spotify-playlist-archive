@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGHXujRpFTl.md) - [plain]
 
 > Dream BIG\. Tracks that inspired the Marty Supreme soundtrack, curated by director Josh Safdie—plus the original soundtrack and score\. In theaters now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,874 likes - 70 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,094 likes - 70 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

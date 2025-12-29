@@ -1,12 +1,12 @@
 {
   "description": "This is Rashid. The essential tracks, all in one playlist.",
-  "num_followers": 46093,
+  "num_followers": 46092,
   "original_name": "This Is Rashid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU3QAAAAAAChoM7hWfBilbCvZ0AxOaM7",
+  "snapshot_id": "aU8hgAAAAAB2BTGn0c576YFTGvNGajLp",
   "tracks": [
     {
       "added_at": null,
@@ -935,6 +935,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hora de Acordar",
+        "url": "https://open.spotify.com/album/4RvBZPPj3WDzsqjgltbCqS"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 162066,
+      "name": "Linhas Inimigas",
+      "url": "https://open.spotify.com/track/3O3gCy30cJFdbyN9VN6gtB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "N\u00e3o H\u00e1 Lugar Melhor no Mundo Que o Nosso Lugar",
         "url": "https://open.spotify.com/album/7bYnQUD414GPThjcNicv3C"
       },
@@ -963,22 +979,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hora de Acordar",
-        "url": "https://open.spotify.com/album/4RvBZPPj3WDzsqjgltbCqS"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 162066,
-      "name": "Linhas Inimigas",
-      "url": "https://open.spotify.com/track/3O3gCy30cJFdbyN9VN6gtB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Confundindo S\u00e1bios",
         "url": "https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU"
       },
@@ -986,19 +986,11 @@
         {
           "name": "Rashid",
           "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "DJ Mr Brown",
-          "url": "https://open.spotify.com/artist/17dJnYNrUDbyUIqXnoF0hu"
         }
       ],
-      "duration_ms": 238515,
-      "name": "Confundindo S\u00e1bios",
-      "url": "https://open.spotify.com/track/64VGENNsyTXX2KwSSzuQww"
+      "duration_ms": 206982,
+      "name": "A Fila Anda",
+      "url": "https://open.spotify.com/track/0LewYp7T0K8wpkPBprMpEK"
     },
     {
       "added_at": null,
@@ -1043,38 +1035,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "T\u00e3o Real",
-        "url": "https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 255274,
-      "name": "T\u00e3o Real",
-      "url": "https://open.spotify.com/track/2wC1oh2ag0oBcdSSqheGx8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Confundindo S\u00e1bios",
-        "url": "https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 206982,
-      "name": "A Fila Anda",
-      "url": "https://open.spotify.com/track/0LewYp7T0K8wpkPBprMpEK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Que Assim Seja",
         "url": "https://open.spotify.com/album/4nj991HPkSVfoyNYqI5Sgu"
       },
@@ -1087,6 +1047,46 @@
       "duration_ms": 265896,
       "name": "Tudo Ou Nada",
       "url": "https://open.spotify.com/track/5GTavkrnIWZmNXlFO8Qm7L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Confundindo S\u00e1bios",
+        "url": "https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "DJ Mr Brown",
+          "url": "https://open.spotify.com/artist/17dJnYNrUDbyUIqXnoF0hu"
+        }
+      ],
+      "duration_ms": 238515,
+      "name": "Confundindo S\u00e1bios",
+      "url": "https://open.spotify.com/track/64VGENNsyTXX2KwSSzuQww"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "T\u00e3o Real",
+        "url": "https://open.spotify.com/album/083NpzlPOa5Q2mWOEkEaGw"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 255274,
+      "name": "T\u00e3o Real",
+      "url": "https://open.spotify.com/track/2wC1oh2ag0oBcdSSqheGx8"
     },
     {
       "added_at": null,
@@ -1135,22 +1135,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hora de Acordar",
-        "url": "https://open.spotify.com/album/4RvBZPPj3WDzsqjgltbCqS"
+        "name": "Que Assim Seja",
+        "url": "https://open.spotify.com/album/4nj991HPkSVfoyNYqI5Sgu"
       },
       "artists": [
         {
           "name": "Rashid",
           "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Luiz Guima",
-          "url": "https://open.spotify.com/artist/4AyjqXHOB3D1eHD4mNtCjZ"
         }
       ],
-      "duration_ms": 282053,
-      "name": "Hora de Acordar",
-      "url": "https://open.spotify.com/track/4RBXdmsItgDjYh2dHprfhI"
+      "duration_ms": 240176,
+      "name": "Eu Te Avisei",
+      "url": "https://open.spotify.com/track/3dPygQx0ohogo6TwFCiJR3"
     }
   ],
   "unique_name": "This Is Rashid",

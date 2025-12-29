@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > 스포티파이 뮤직 에디터가 선정한 2025 베스트 트랙입니다\. \(Cover: can’t be blue\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,184 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,182 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,29 +1,13 @@
 {
   "description": "This is Ramon Ayala Y Sus Bravos Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 84301,
+  "num_followers": 84325,
   "original_name": "This Is Ramon Ayala Y Sus Bravos Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU3QAAAAAADRC90Mdtf0l9qGGHZhR9x+",
+  "snapshot_id": "aU8hgAAAAAA3h71BxmzmOwNiuMcMAjQu",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Ram\u00f3n Ayala y Sus Bravos del Norte",
-        "url": "https://open.spotify.com/album/7uLhxdfPeAkZ9BmfRHJTiN"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 263466,
-      "name": "Casas de Madera",
-      "url": "https://open.spotify.com/track/6aBQBHd6G9tX287t88CcL0"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 161253,
       "name": "Tragos Amargos",
       "url": "https://open.spotify.com/track/3hqlTqu571M1MqRWX6ZX0x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Ram\u00f3n Ayala y Sus Bravos del Norte",
+        "url": "https://open.spotify.com/album/7uLhxdfPeAkZ9BmfRHJTiN"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 263466,
+      "name": "Casas de Madera",
+      "url": "https://open.spotify.com/track/6aBQBHd6G9tX287t88CcL0"
     },
     {
       "added_at": null,
@@ -363,6 +363,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mi Piquito De Oro",
+        "url": "https://open.spotify.com/album/2HgZcYF9GN2rhgyVuBuzJu"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 129066,
+      "name": "Mi Piquito De Oro",
+      "url": "https://open.spotify.com/track/0w6iI2pCqX2beV22BqXFCz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Qu\u00e9 Casualidad",
         "url": "https://open.spotify.com/album/48MmKDBvYTuFZMdzgfER9w"
       },
@@ -427,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MI PIQUITO DE ORO (Grabaci\u00f3n Original Remasterizada)",
-        "url": "https://open.spotify.com/album/5K7VhZJ9ZgC97mkNxuiLCr"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 128773,
-      "name": "Mi Piquito De Oro",
-      "url": "https://open.spotify.com/track/3GhDnfO7J3zLTswYYrQFnP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quisiera Tener Alas",
         "url": "https://open.spotify.com/album/6kGpgDXcKl9Di09YYek92q"
       },
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "40 \u00c9xitos",
-        "url": "https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 226360,
-      "name": "Un Pu\u00f1o De Tierra",
-      "url": "https://open.spotify.com/track/466JLm2qQmjOzfbee0PIg6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pero Yo No La Conozco",
         "url": "https://open.spotify.com/album/6cXxPPrINk8uJBNnvOYLqP"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 173120,
       "name": "Y Lloro Por Ella Mi Gorri\u00f3n",
       "url": "https://open.spotify.com/track/0ZjZPINvCCjbARJfesaiQT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "40 \u00c9xitos",
+        "url": "https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 226360,
+      "name": "Un Pu\u00f1o De Tierra",
+      "url": "https://open.spotify.com/track/466JLm2qQmjOzfbee0PIg6"
     },
     {
       "added_at": null,
@@ -715,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gaviota",
+        "url": "https://open.spotify.com/album/4Pd7fV6rbTXjW5SGzy16Iy"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 154493,
+      "name": "Hasta Que Te Perd\u00ed",
+      "url": "https://open.spotify.com/track/5RHnofPA7oYmF4L6jEdpcf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PURA MUSICA DE CANTINA",
         "url": "https://open.spotify.com/album/17S07IHyOj067N2Q7ffz4Z"
       },
@@ -747,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gaviota",
-        "url": "https://open.spotify.com/album/4Pd7fV6rbTXjW5SGzy16Iy"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 154493,
-      "name": "Hasta Que Te Perd\u00ed",
-      "url": "https://open.spotify.com/track/5RHnofPA7oYmF4L6jEdpcf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "15 \u00c9xitos",
         "url": "https://open.spotify.com/album/5xA3Oq6EdroHpAW6gBZBsJ"
       },
@@ -779,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gaviota",
+        "url": "https://open.spotify.com/album/4Pd7fV6rbTXjW5SGzy16Iy"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 215400,
+      "name": "Me Puso El Dedo",
+      "url": "https://open.spotify.com/track/1iCVU73Xs9tj0tZI0j4Tun"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "40 \u00c9xitos",
         "url": "https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 198533,
       "name": "Baraja De Oro",
       "url": "https://open.spotify.com/track/4vxGRxWgmTtaVOJlVV1TjC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FREDDIE RECORDS PRESENTA EL DIA DE LAS MADRES",
-        "url": "https://open.spotify.com/album/1lrpWHUZEI6Kgmqi7Aw4kp"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 167133,
-      "name": "Te Traigo Estas Flores A Dueto Con Freddie Martinez",
-      "url": "https://open.spotify.com/track/3Xt34CsfQLiNfbluq5fTWO"
     }
   ],
   "unique_name": "This Is Ramon Ayala Y Sus Bravos Del Norte",

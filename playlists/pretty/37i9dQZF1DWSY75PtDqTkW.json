@@ -1,6 +1,6 @@
 {
   "description": "Extra van je vrije tijd genieten voor jong en oud.",
-  "num_followers": 116191,
+  "num_followers": 116211,
   "original_name": "Quality Time",
   "owner": {
     "name": "Spotify",
@@ -175,6 +175,22 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
+        "name": "Blood Sugar Sex Magik (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 264306,
+      "name": "Under the Bridge",
+      "url": "https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
         "name": "Tracy Chapman",
         "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 252239,
       "name": "A Horse with No Name",
       "url": "https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
-        "name": "Blood Sugar Sex Magik (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 264306,
-      "name": "Under the Bridge",
-      "url": "https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -359,22 +359,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "If You Can Believe Your Eyes & Ears",
-        "url": "https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF"
-      },
-      "artists": [
-        {
-          "name": "The Mamas & The Papas",
-          "url": "https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN"
-        }
-      ],
-      "duration_ms": 162373,
-      "name": "California Dreamin' - Single Version",
-      "url": "https://open.spotify.com/track/4s6LhHAV5SEsOV0lC2tjvJ"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "Eagles (2013 Remaster)",
         "url": "https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 211577,
       "name": "Take It Easy - 2013 Remaster",
       "url": "https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "If You Can Believe Your Eyes & Ears",
+        "url": "https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF"
+      },
+      "artists": [
+        {
+          "name": "The Mamas & The Papas",
+          "url": "https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN"
+        }
+      ],
+      "duration_ms": 162373,
+      "name": "California Dreamin' - Single Version",
+      "url": "https://open.spotify.com/track/4s6LhHAV5SEsOV0lC2tjvJ"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -631,18 +631,18 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Coming Home (Deluxe)",
-        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
+        "name": "Full Moon Fever",
+        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
       },
       "artists": [
         {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
         }
       ],
-      "duration_ms": 206386,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/65GbQI9VDTs7vo6MJL2iJA"
+      "duration_ms": 256000,
+      "name": "Free Fallin'",
+      "url": "https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -679,18 +679,18 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Full Moon Fever",
-        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
+        "name": "Coming Home (Deluxe)",
+        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
       },
       "artists": [
         {
-          "name": "Tom Petty",
-          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
         }
       ],
-      "duration_ms": 256000,
-      "name": "Free Fallin'",
-      "url": "https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv"
+      "duration_ms": 206386,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/65GbQI9VDTs7vo6MJL2iJA"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Tattoo You (2009 Re-Mastered)",
-        "url": "https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 213066,
-      "name": "Start Me Up - Remastered 2009",
-      "url": "https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "At Last!",
         "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 179693,
       "name": "At Last",
       "url": "https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Tattoo You (2009 Re-Mastered)",
+        "url": "https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 213066,
+      "name": "Start Me Up - Remastered 2009",
+      "url": "https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Seal",
-        "url": "https://open.spotify.com/album/1mSECpFqHRW6leG4idqTE1"
-      },
-      "artists": [
-        {
-          "name": "Seal",
-          "url": "https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv"
-        }
-      ],
-      "duration_ms": 288426,
-      "name": "Kiss from a Rose",
-      "url": "https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "No Secrets",
         "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 258411,
       "name": "You're So Vain",
       "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Seal",
+        "url": "https://open.spotify.com/album/1mSECpFqHRW6leG4idqTE1"
+      },
+      "artists": [
+        {
+          "name": "Seal",
+          "url": "https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv"
+        }
+      ],
+      "duration_ms": 288426,
+      "name": "Kiss from a Rose",
+      "url": "https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "You Gotta Go There To Come Back",
-        "url": "https://open.spotify.com/album/65ekRZTdz7ufM6yULqgjo8"
-      },
-      "artists": [
-        {
-          "name": "Stereophonics",
-          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
-        }
-      ],
-      "duration_ms": 272946,
-      "name": "Maybe Tomorrow",
-      "url": "https://open.spotify.com/track/6SXy02aTZU3ysoGUixYCz0"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "The Way It Is",
         "url": "https://open.spotify.com/album/243jhZJtyIZtEkrD6vhRLn"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 297847,
       "name": "The Way It Is",
       "url": "https://open.spotify.com/track/6V50MyHPGhEmwYu0Wdyf0t"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "You Gotta Go There To Come Back",
+        "url": "https://open.spotify.com/album/65ekRZTdz7ufM6yULqgjo8"
+      },
+      "artists": [
+        {
+          "name": "Stereophonics",
+          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
+        }
+      ],
+      "duration_ms": 272946,
+      "name": "Maybe Tomorrow",
+      "url": "https://open.spotify.com/track/6SXy02aTZU3ysoGUixYCz0"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -1179,38 +1179,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Foreigner (Expanded)",
-        "url": "https://open.spotify.com/album/1OU7zJvUfgxxPHgkTClt1M"
-      },
-      "artists": [
-        {
-          "name": "Foreigner",
-          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
-        }
-      ],
-      "duration_ms": 203133,
-      "name": "Cold as Ice",
-      "url": "https://open.spotify.com/track/7vidktgNZFQylTgH1GEnMs"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
-        "name": "Strange Days",
-        "url": "https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 130173,
-      "name": "People Are Strange",
-      "url": "https://open.spotify.com/track/1Jmqubf9kGkWeYQXQKImL5"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "Dusty In Memphis",
         "url": "https://open.spotify.com/album/5FRB5oQaHxlDNe6gMGuzu2"
       },
@@ -1243,18 +1211,34 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Tracy Chapman",
-        "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
+        "name": "Strange Days",
+        "url": "https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf"
       },
       "artists": [
         {
-          "name": "Tracy Chapman",
-          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
         }
       ],
-      "duration_ms": 161600,
-      "name": "Talkin' Bout a Revolution",
-      "url": "https://open.spotify.com/track/0YMFcrMtBowDdD5bPz0cgy"
+      "duration_ms": 130173,
+      "name": "People Are Strange",
+      "url": "https://open.spotify.com/track/1Jmqubf9kGkWeYQXQKImL5"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Foreigner (Expanded)",
+        "url": "https://open.spotify.com/album/1OU7zJvUfgxxPHgkTClt1M"
+      },
+      "artists": [
+        {
+          "name": "Foreigner",
+          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
+        }
+      ],
+      "duration_ms": 203133,
+      "name": "Cold as Ice",
+      "url": "https://open.spotify.com/track/7vidktgNZFQylTgH1GEnMs"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -1271,6 +1255,22 @@
       "duration_ms": 161533,
       "name": "Jolene",
       "url": "https://open.spotify.com/track/5fdhThPDe6jQQDqCyWrdAn"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Tracy Chapman",
+        "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
+      },
+      "artists": [
+        {
+          "name": "Tracy Chapman",
+          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
+        }
+      ],
+      "duration_ms": 161600,
+      "name": "Talkin' Bout a Revolution",
+      "url": "https://open.spotify.com/track/0YMFcrMtBowDdD5bPz0cgy"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Call Me Irresponsible",
-        "url": "https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 212373,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/4T6HLdP6OcAtqC6tGnQelG"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "More of The Monkees (Deluxe Edition)",
         "url": "https://open.spotify.com/album/50zHjIiTOZM232gnWvOydX"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 189432,
       "name": "The Sound of Silence - Acoustic Version",
       "url": "https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Call Me Irresponsible",
+        "url": "https://open.spotify.com/album/3h4pyWRJIB9ZyRKXChbX22"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 212373,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/4T6HLdP6OcAtqC6tGnQelG"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "She's So Unusual: A 30th Anniversary Celebration (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4pox3k0CGuwwAknR9GtcoX"
-      },
-      "artists": [
-        {
-          "name": "Cyndi Lauper",
-          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
-        }
-      ],
-      "duration_ms": 243066,
-      "name": "Time After Time",
-      "url": "https://open.spotify.com/track/1Jj6MF0xDOMA3Ut2Z368Bx"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "Woodface",
         "url": "https://open.spotify.com/album/1QSoW668F9DVj8Rk9azF7h"
       },
@@ -1499,18 +1483,18 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Wheels Of Fire",
-        "url": "https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9"
+        "name": "She's So Unusual: A 30th Anniversary Celebration (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4pox3k0CGuwwAknR9GtcoX"
       },
       "artists": [
         {
-          "name": "Cream",
-          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
         }
       ],
-      "duration_ms": 298333,
-      "name": "White Room",
-      "url": "https://open.spotify.com/track/3Xls4cNOwy01dtrNXb1inG"
+      "duration_ms": 243066,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/1Jj6MF0xDOMA3Ut2Z368Bx"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -1527,6 +1511,22 @@
       "duration_ms": 266133,
       "name": "Superstition",
       "url": "https://open.spotify.com/track/4N0TP4Rmj6QQezWV88ARNJ"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Wheels Of Fire",
+        "url": "https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9"
+      },
+      "artists": [
+        {
+          "name": "Cream",
+          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+        }
+      ],
+      "duration_ms": 298333,
+      "name": "White Room",
+      "url": "https://open.spotify.com/track/3Xls4cNOwy01dtrNXb1inG"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Close To You",
-        "url": "https://open.spotify.com/album/5z8MFnoVUIfVo6MQW0uIul"
-      },
-      "artists": [
-        {
-          "name": "Carpenters",
-          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
-        }
-      ],
-      "duration_ms": 273933,
-      "name": "(They Long To Be) Close To You",
-      "url": "https://open.spotify.com/track/2kyVQg00pphEufGT59M2XH"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "1 (Remastered)",
         "url": "https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 425653,
       "name": "Hey Jude - Remastered 2015",
       "url": "https://open.spotify.com/track/0aym2LBJBk9DAYuHHutrIl"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Close To You",
+        "url": "https://open.spotify.com/album/5z8MFnoVUIfVo6MQW0uIul"
+      },
+      "artists": [
+        {
+          "name": "Carpenters",
+          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
+        }
+      ],
+      "duration_ms": 273933,
+      "name": "(They Long To Be) Close To You",
+      "url": "https://open.spotify.com/track/2kyVQg00pphEufGT59M2XH"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -1691,6 +1691,22 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
+        "name": "The Freewheelin' Bob Dylan",
+        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 220888,
+      "name": "Don't Think Twice, It's All Right",
+      "url": "https://open.spotify.com/track/2WOjLF83vqjit2Zh4B69V3"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
         "name": "Chinese Wall",
         "url": "https://open.spotify.com/album/1F6HoOK69lMDIb3ujvwlTX"
       },
@@ -1711,18 +1727,18 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "The Freewheelin' Bob Dylan",
-        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
+        "name": "When a Man Loves a Woman",
+        "url": "https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M"
       },
       "artists": [
         {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+          "name": "Percy Sledge",
+          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
         }
       ],
-      "duration_ms": 220888,
-      "name": "Don't Think Twice, It's All Right",
-      "url": "https://open.spotify.com/track/2WOjLF83vqjit2Zh4B69V3"
+      "duration_ms": 173866,
+      "name": "When a Man Loves a Woman",
+      "url": "https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -1739,22 +1755,6 @@
       "duration_ms": 196986,
       "name": "Out Of Reach",
       "url": "https://open.spotify.com/track/0HKD13PLq2WicViBBhSrOl"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
-        "name": "When a Man Loves a Woman",
-        "url": "https://open.spotify.com/album/0lj5tDBUt1i1b1Llobu23M"
-      },
-      "artists": [
-        {
-          "name": "Percy Sledge",
-          "url": "https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO"
-        }
-      ],
-      "duration_ms": 173866,
-      "name": "When a Man Loves a Woman",
-      "url": "https://open.spotify.com/track/51FpzuGkRYXFgsE2zXt9av"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Ray of Light",
-        "url": "https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 367333,
-      "name": "Frozen",
-      "url": "https://open.spotify.com/track/2II03llydk4YnkBBvoYB3B"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "Are You Experienced",
         "url": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 210160,
       "name": "Hey Joe",
       "url": "https://open.spotify.com/track/0NWPxcsf5vdjdiFUI8NgkP"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Ray of Light",
+        "url": "https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 367333,
+      "name": "Frozen",
+      "url": "https://open.spotify.com/track/2II03llydk4YnkBBvoYB3B"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -2295,22 +2295,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Tapestry",
-        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
-      },
-      "artists": [
-        {
-          "name": "Carole King",
-          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
-        }
-      ],
-      "duration_ms": 309520,
-      "name": "You've Got a Friend",
-      "url": "https://open.spotify.com/track/1qhp5owrFGeZ5Jgin28nwR"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "The Collection (Standard Edition)",
         "url": "https://open.spotify.com/album/4N7LuZYpstQrtcHIoOKzqg"
       },
@@ -2323,6 +2307,22 @@
       "duration_ms": 228573,
       "name": "Ironic",
       "url": "https://open.spotify.com/track/29YBihzQOmat0U74k4ukdx"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Tapestry",
+        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "duration_ms": 309520,
+      "name": "You've Got a Friend",
+      "url": "https://open.spotify.com/track/1qhp5owrFGeZ5Jgin28nwR"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -2651,22 +2651,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Absolute Beginners",
-        "url": "https://open.spotify.com/album/4YfMtOTb3PcIbv5VI6zibX"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 337666,
-      "name": "Absolute Beginners - 2002 Remaster",
-      "url": "https://open.spotify.com/track/5PBFhuXB9tgBaP31nfbkS5"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "This Girl's in Love with You",
         "url": "https://open.spotify.com/album/5TGmpcEuZsVIoxDWnJIan5"
       },
@@ -2679,6 +2663,22 @@
       "duration_ms": 199266,
       "name": "Son of a Preacher Man",
       "url": "https://open.spotify.com/track/4uCbetXW9LStYPUjCpBVp9"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Absolute Beginners",
+        "url": "https://open.spotify.com/album/4YfMtOTb3PcIbv5VI6zibX"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 337666,
+      "name": "Absolute Beginners - 2002 Remaster",
+      "url": "https://open.spotify.com/track/5PBFhuXB9tgBaP31nfbkS5"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -3083,22 +3083,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Celebrate (Greatest Hits)",
-        "url": "https://open.spotify.com/album/7dKQCCQnnkqgRQFxKRDqkJ"
-      },
-      "artists": [
-        {
-          "name": "Simple Minds",
-          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
-        }
-      ],
-      "duration_ms": 263973,
-      "name": "Don't You (Forget About Me) - Remastered",
-      "url": "https://open.spotify.com/track/0A4PZuepTcIQVvA5m7R0M1"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "Wanted on Voyage",
         "url": "https://open.spotify.com/album/5tF2lAa2rh2kU2xIiBzWia"
       },
@@ -3111,6 +3095,22 @@
       "duration_ms": 200720,
       "name": "Budapest",
       "url": "https://open.spotify.com/track/7GJClzimvMSghjcrKxuf1M"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Celebrate (Greatest Hits)",
+        "url": "https://open.spotify.com/album/7dKQCCQnnkqgRQFxKRDqkJ"
+      },
+      "artists": [
+        {
+          "name": "Simple Minds",
+          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+        }
+      ],
+      "duration_ms": 263973,
+      "name": "Don't You (Forget About Me) - Remastered",
+      "url": "https://open.spotify.com/track/0A4PZuepTcIQVvA5m7R0M1"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -3147,18 +3147,18 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "I Do Not Want What I Haven't Got",
-        "url": "https://open.spotify.com/album/34hQFIwGTLf03BZQmGL0iy"
+        "name": "(What's The Story) Morning Glory? (Deluxe Edition) [Remastered]",
+        "url": "https://open.spotify.com/album/6ozp33PI3p9AdddB6ZL3xQ"
       },
       "artists": [
         {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 280040,
-      "name": "Nothing Compares 2 U",
-      "url": "https://open.spotify.com/track/3nvuPQTw2zuFAVuLsC9IYQ"
+      "duration_ms": 258732,
+      "name": "Wonderwall (Remastered)",
+      "url": "https://open.spotify.com/track/5wj4E6IsrVtn8IBJQOd0Cl"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -3179,34 +3179,18 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "(What's The Story) Morning Glory? (Deluxe Edition) [Remastered]",
-        "url": "https://open.spotify.com/album/6ozp33PI3p9AdddB6ZL3xQ"
+        "name": "I Do Not Want What I Haven't Got",
+        "url": "https://open.spotify.com/album/34hQFIwGTLf03BZQmGL0iy"
       },
       "artists": [
         {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
         }
       ],
-      "duration_ms": 258732,
-      "name": "Wonderwall (Remastered)",
-      "url": "https://open.spotify.com/track/5wj4E6IsrVtn8IBJQOd0Cl"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
-        "name": "Tango In The Night",
-        "url": "https://open.spotify.com/album/1W5YP0TlKjFtb2UZJThLpV"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 222733,
-      "name": "Everywhere",
-      "url": "https://open.spotify.com/track/6i8ecOsx4J2Px1maiqzqoG"
+      "duration_ms": 280040,
+      "name": "Nothing Compares 2 U",
+      "url": "https://open.spotify.com/track/3nvuPQTw2zuFAVuLsC9IYQ"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -3239,6 +3223,22 @@
       "duration_ms": 216014,
       "name": "New Light",
       "url": "https://open.spotify.com/track/3bH4HzoZZFq8UpZmI2AMgV"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Tango In The Night",
+        "url": "https://open.spotify.com/album/1W5YP0TlKjFtb2UZJThLpV"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 222733,
+      "name": "Everywhere",
+      "url": "https://open.spotify.com/track/6i8ecOsx4J2Px1maiqzqoG"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -3371,18 +3371,18 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Little Girl Blue (2013 Remastered Version)",
-        "url": "https://open.spotify.com/album/58gOQaPc4RCw8eWdTDRes7"
+        "name": "Brothers In Arms",
+        "url": "https://open.spotify.com/album/15J400U0rEpgE64UQgtvLs"
       },
       "artists": [
         {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
         }
       ],
-      "duration_ms": 215746,
-      "name": "My Baby Just Cares for Me - 2013 Remastered Version",
-      "url": "https://open.spotify.com/track/6VTbbVjKOC2qWagIDbkJrC"
+      "duration_ms": 424000,
+      "name": "Brothers In Arms",
+      "url": "https://open.spotify.com/track/0CzeAbfKFnxnWjwo5iYiCG"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -3403,18 +3403,34 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Brothers In Arms",
-        "url": "https://open.spotify.com/album/15J400U0rEpgE64UQgtvLs"
+        "name": "Little Girl Blue (2013 Remastered Version)",
+        "url": "https://open.spotify.com/album/58gOQaPc4RCw8eWdTDRes7"
       },
       "artists": [
         {
-          "name": "Dire Straits",
-          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         }
       ],
-      "duration_ms": 424000,
-      "name": "Brothers In Arms",
-      "url": "https://open.spotify.com/track/0CzeAbfKFnxnWjwo5iYiCG"
+      "duration_ms": 215746,
+      "name": "My Baby Just Cares for Me - 2013 Remastered Version",
+      "url": "https://open.spotify.com/track/6VTbbVjKOC2qWagIDbkJrC"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Buena Vista Social Club",
+        "url": "https://open.spotify.com/album/6DPdEaZ0KDBCCgXyy4q8bi"
+      },
+      "artists": [
+        {
+          "name": "Buena Vista Social Club",
+          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
+        }
+      ],
+      "duration_ms": 256653,
+      "name": "Chan Chan",
+      "url": "https://open.spotify.com/track/5sbw5zIz9ck2pOEDXUR0QU"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -3451,22 +3467,6 @@
       "duration_ms": 345840,
       "name": "Broken Wings",
       "url": "https://open.spotify.com/track/63nVsCAdxu9OdeRhe58wiE"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
-        "name": "Buena Vista Social Club",
-        "url": "https://open.spotify.com/album/6DPdEaZ0KDBCCgXyy4q8bi"
-      },
-      "artists": [
-        {
-          "name": "Buena Vista Social Club",
-          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
-        }
-      ],
-      "duration_ms": 256653,
-      "name": "Chan Chan",
-      "url": "https://open.spotify.com/track/5sbw5zIz9ck2pOEDXUR0QU"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -3519,6 +3519,22 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
+        "name": "Sweet Baby James",
+        "url": "https://open.spotify.com/album/2NEQ5Q4sBbUHVVx3Wf8TEZ"
+      },
+      "artists": [
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "duration_ms": 200579,
+      "name": "Fire and Rain",
+      "url": "https://open.spotify.com/track/3LcYYV9ozePfgYYmXv0P3r"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
         "name": "Fickle Heart (Plus Two Bonus Cuts)",
         "url": "https://open.spotify.com/album/0sXMbAJXXbkoJDbrbIiQgo"
       },
@@ -3535,18 +3551,18 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Sweet Baby James",
-        "url": "https://open.spotify.com/album/2NEQ5Q4sBbUHVVx3Wf8TEZ"
+        "name": "Boys & Girls",
+        "url": "https://open.spotify.com/album/0YcQyzstsSbcnLCk4h7AUh"
       },
       "artists": [
         {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
         }
       ],
-      "duration_ms": 200579,
-      "name": "Fire and Rain",
-      "url": "https://open.spotify.com/track/3LcYYV9ozePfgYYmXv0P3r"
+      "duration_ms": 226186,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/1gGY6qfslDtJ4OoWQGKtkE"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -3583,18 +3599,18 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Boys & Girls",
-        "url": "https://open.spotify.com/album/0YcQyzstsSbcnLCk4h7AUh"
+        "name": "Playlist: 90s Pop",
+        "url": "https://open.spotify.com/album/6DUy5QdkKXI15NFbk3pYAZ"
       },
       "artists": [
         {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+          "name": "Charles & Eddie",
+          "url": "https://open.spotify.com/artist/5rIhaCHkbFVvLJpKHWwOJD"
         }
       ],
-      "duration_ms": 226186,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/1gGY6qfslDtJ4OoWQGKtkE"
+      "duration_ms": 204386,
+      "name": "Would I Lie To You?",
+      "url": "https://open.spotify.com/track/62R1MRux3R0v2cngA2xdJn"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -3611,6 +3627,22 @@
       "duration_ms": 178266,
       "name": "Annie's Song",
       "url": "https://open.spotify.com/track/5qxFudz7A6PGptviHsz4Yd"
+    },
+    {
+      "added_at": "2024-11-13 17:10:11",
+      "album": {
+        "name": "Ice On Fire (Remastered With Bonus Tracks)",
+        "url": "https://open.spotify.com/album/77IyyuuRV7IDN1ri7mBEuI"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 343240,
+      "name": "Nikita",
+      "url": "https://open.spotify.com/track/5lBI9isMBEHRn5Wxde058W"
     },
     {
       "added_at": "2024-11-13 17:10:11",
@@ -3655,22 +3687,6 @@
     {
       "added_at": "2024-11-13 17:10:11",
       "album": {
-        "name": "Playlist: 90s Pop",
-        "url": "https://open.spotify.com/album/6DUy5QdkKXI15NFbk3pYAZ"
-      },
-      "artists": [
-        {
-          "name": "Charles & Eddie",
-          "url": "https://open.spotify.com/artist/5rIhaCHkbFVvLJpKHWwOJD"
-        }
-      ],
-      "duration_ms": 204386,
-      "name": "Would I Lie To You?",
-      "url": "https://open.spotify.com/track/62R1MRux3R0v2cngA2xdJn"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
         "name": "MTV Unplugged In New York",
         "url": "https://open.spotify.com/album/5pbjLidJuoty9QUOy6X682"
       },
@@ -3683,22 +3699,6 @@
       "duration_ms": 217199,
       "name": "About A Girl",
       "url": "https://open.spotify.com/track/2a8pQLSuhloP8ywoy5Or5i"
-    },
-    {
-      "added_at": "2024-11-13 17:10:11",
-      "album": {
-        "name": "Ice On Fire (Remastered With Bonus Tracks)",
-        "url": "https://open.spotify.com/album/77IyyuuRV7IDN1ri7mBEuI"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 343240,
-      "name": "Nikita",
-      "url": "https://open.spotify.com/track/5lBI9isMBEHRn5Wxde058W"
     },
     {
       "added_at": "2024-11-13 17:10:11",

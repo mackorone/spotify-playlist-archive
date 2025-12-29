@@ -1,12 +1,12 @@
 {
   "description": "This is John Williamson. The essential tracks, all in one playlist.",
-  "num_followers": 22154,
+  "num_followers": 22160,
   "original_name": "This Is John Williamson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU3QAAAAAAD9odNI49CawPXfDZ7vISug",
+  "snapshot_id": "aU8hgAAAAAB6iQko4Tk79CHDGlgmkZpD",
   "tracks": [
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Big Red",
-        "url": "https://open.spotify.com/album/3iBPheKv7XaNVu9B197jRK"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 176426,
-      "name": "Prairie Hotel Parachilna",
-      "url": "https://open.spotify.com/track/1ermlRf4ZAH6d4efJNi1yO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "How Many Songs",
         "url": "https://open.spotify.com/album/4cptc9RVwUSQ4UgoBqIzAI"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 165013,
       "name": "Beautiful Words (Come From You)",
       "url": "https://open.spotify.com/track/1JfTPxJEv6mF8t8e3qmRm9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Big Red",
+        "url": "https://open.spotify.com/album/3iBPheKv7XaNVu9B197jRK"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 176426,
+      "name": "Prairie Hotel Parachilna",
+      "url": "https://open.spotify.com/track/1ermlRf4ZAH6d4efJNi1yO"
     },
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Hell of a Career",
-        "url": "https://open.spotify.com/album/1rSRKlpirQ4R9DwwYc9Swn"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 212680,
-      "name": "I Can't Feel Those Chains Any Longer - Live",
-      "url": "https://open.spotify.com/track/6BasQoqS5PIPzbJ5QfCDc9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "J.W.'s Family Album",
         "url": "https://open.spotify.com/album/2N3uKW1fQpsk7R33wHXsaC"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 210253,
       "name": "Goodbye Blinky Bill",
       "url": "https://open.spotify.com/track/1ec2wAxjnu7cr5WHqPHJTD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Hell of a Career",
+        "url": "https://open.spotify.com/album/1rSRKlpirQ4R9DwwYc9Swn"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 212680,
+      "name": "I Can't Feel Those Chains Any Longer - Live",
+      "url": "https://open.spotify.com/track/6BasQoqS5PIPzbJ5QfCDc9"
     },
     {
       "added_at": null,
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
         }
       ],
-      "duration_ms": 202560,
-      "name": "Dingo",
-      "url": "https://open.spotify.com/track/4RkZxYF4v9mQLsr0bLGGnP"
+      "duration_ms": 192240,
+      "name": "Amazing Day",
+      "url": "https://open.spotify.com/track/4WqwsO0HkaLFNb6rdWt7FR"
     },
     {
       "added_at": null,
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
         }
       ],
-      "duration_ms": 192240,
-      "name": "Amazing Day",
-      "url": "https://open.spotify.com/track/4WqwsO0HkaLFNb6rdWt7FR"
+      "duration_ms": 202560,
+      "name": "Dingo",
+      "url": "https://open.spotify.com/track/4RkZxYF4v9mQLsr0bLGGnP"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "How Many Songs",
-        "url": "https://open.spotify.com/album/4cptc9RVwUSQ4UgoBqIzAI"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 159786,
-      "name": "If You Wanna Be An Aussie",
-      "url": "https://open.spotify.com/track/0t2JQxdUJi1BksoQw5xfA5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Waratah St.",
         "url": "https://open.spotify.com/album/67oWpbbiJmI38ps3SLi0GN"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 158866,
       "name": "Wobbly Boot Hotel",
       "url": "https://open.spotify.com/track/3V4BAoJgTMrOP39LIXhf7Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "How Many Songs",
+        "url": "https://open.spotify.com/album/4cptc9RVwUSQ4UgoBqIzAI"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 159786,
+      "name": "If You Wanna Be An Aussie",
+      "url": "https://open.spotify.com/track/0t2JQxdUJi1BksoQw5xfA5"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "How Many Songs",
-        "url": "https://open.spotify.com/album/4cptc9RVwUSQ4UgoBqIzAI"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 131682,
-      "name": "Uluru Forever",
-      "url": "https://open.spotify.com/track/53jttpBPM4UqkpkNIUIxRJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hillbilly Road",
         "url": "https://open.spotify.com/album/5aHA8o7BxsjRQFflSG8RII"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 184906,
       "name": "Hillbilly Road",
       "url": "https://open.spotify.com/track/70Mqf5i7Rdo8uw2r6UfsaO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "How Many Songs",
+        "url": "https://open.spotify.com/album/4cptc9RVwUSQ4UgoBqIzAI"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 131682,
+      "name": "Uluru Forever",
+      "url": "https://open.spotify.com/track/53jttpBPM4UqkpkNIUIxRJ"
     },
     {
       "added_at": null,

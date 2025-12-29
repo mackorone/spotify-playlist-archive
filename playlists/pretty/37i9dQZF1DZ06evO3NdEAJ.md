@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3NdEAJ.md) - [plain]
 
 > This is La Fiera de Ojinaga\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,917 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,925 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3NdEAJ.md) - [plain]
 | 36 | [Todo Que Ver](https://open.spotify.com/track/5BbVN7lNgaUq00J1cCPwnR) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Todo Que Ver](https://open.spotify.com/album/0kts0H5wVXKiZAxdTCX1qt) | 2:27 |
 | 37 | [Equivócate](https://open.spotify.com/track/6OXyxuhCCDlSua9AtR47jZ) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Equivócate](https://open.spotify.com/album/5DpbtwxV4sqyZkuqpM0oPd) | 2:45 |
 | 38 | [No Sé Tú](https://open.spotify.com/track/6N271rSS177egQnJBDkq4F) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [No Sé Tú](https://open.spotify.com/album/5TzoaMI27c1GGdfuvjShWt) | 2:38 |
-| 39 | [Me Derrumbé a Tus Pies](https://open.spotify.com/track/6wA9irSsOpsIwoVz1rnt7O) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2), [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp) | [Me Derrumbé a Tus Pies](https://open.spotify.com/album/5BapJqjEnc9bRomteNgQtC) | 3:24 |
-| 40 | [Duele](https://open.spotify.com/track/0ryQ7XtLxVMXPZ9VY94y8J) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Jalas o No Jalas](https://open.spotify.com/album/1D1JE18eOkgQEaYqsf83nV) | 3:09 |
+| 39 | [Duele](https://open.spotify.com/track/0ryQ7XtLxVMXPZ9VY94y8J) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Jalas o No Jalas](https://open.spotify.com/album/1D1JE18eOkgQEaYqsf83nV) | 3:09 |
+| 40 | [Me Derrumbé a Tus Pies](https://open.spotify.com/track/6wA9irSsOpsIwoVz1rnt7O) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2), [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp) | [Me Derrumbé a Tus Pies](https://open.spotify.com/album/5BapJqjEnc9bRomteNgQtC) | 3:24 |
 | 41 | [10/10](https://open.spotify.com/track/5ArAErzK5A6Tgn1cO9G4jq) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [10/10](https://open.spotify.com/album/0kGyBvtwZXCcZK4kTdXuQb) | 3:05 |
 | 42 | [Directo Al Corazón](https://open.spotify.com/track/3MzG7wBDkP0K7mwCFxbP2W) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Directo Al Corazón](https://open.spotify.com/album/2MjM2y9U7GXuJAEeiaQRRF) | 2:46 |
 | 43 | [Olvidarte ¿Cómo?](https://open.spotify.com/track/6qoLoLaw4zC48XERFdTBgN) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Retro & Hits](https://open.spotify.com/album/3ofMeo9ODqJDAnqKBHsScj) | 3:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3NdEAJ.md) - [plain]
 | 49 | [Dile](https://open.spotify.com/track/0qnpUfpIedBqtJSx6lR0Bh) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Dile](https://open.spotify.com/album/5n32MK19ShFwMXMuZaCdv3) | 2:53 |
 | 50 | [Si Nos Tenemos](https://open.spotify.com/track/7rTiu4B2mEDq8zFKne2VSG) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Si Nos Tenemos](https://open.spotify.com/album/3rIk3R4uEJPbp4G03m3gJh) | 2:23 |
 
-Snapshot ID: `aU3QAAAAAAAsD6CoBGSmnDxU9ymMEcrV`
+Snapshot ID: `aU8hgAAAAACOhuzuqHqFhdfx1GB7281V`

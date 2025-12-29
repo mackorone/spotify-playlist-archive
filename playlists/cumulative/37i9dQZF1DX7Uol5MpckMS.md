@@ -4,7 +4,7 @@
 
 > Le meilleur des années 60 en 60 titres.
 
-81 songs - 3 hr 50 min
+82 songs - 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Itsi bitsi petit bikini](https://open.spotify.com/track/58d1Duljvjx8bwG4nlLgK6) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig) | [Les Annees Barclay](https://open.spotify.com/album/3bbpQ0vU7DZUADemJgig1n) | 2:16 | 2023-02-03 |  |
 | [J'aime les filles](https://open.spotify.com/track/196fYCjVMKAQb8uwOWxpUo) | [Jacques Dutronc](https://open.spotify.com/artist/3ayds6VIVBx3CU5NSNCDbq) | [En Vogue](https://open.spotify.com/album/2nGL73TqdduRKepdcwJvdm) | 2:57 | 2023-02-03 |  |
 | [La Bamba \- Single Version](https://open.spotify.com/track/2aEeghgUcnu75tzcolFMfs) | [Ritchie Valens](https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P) | [Ritchie Valens](https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W) | 2:06 | 2023-02-03 |  |
+| [La madrague](https://open.spotify.com/track/5nnvTjA5yzhHlmVOVoGT49) | [Brigitte Bardot](https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy) | [Brigitte Bardot](https://open.spotify.com/album/7v2usu1rojLb7zX5sC6yMV) | 2:35 | 2025-12-28 |  |
 | [La poupée qui fait non](https://open.spotify.com/track/245la2fLeLCOpBWDjgE8rj) | [Michel Polnareff](https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT) | [Love Me Please Love Me](https://open.spotify.com/album/68clUJF0fZaWSdmcBYKxGH) | 3:13 | 2023-02-03 |  |
 | [Land of 1000 Dances](https://open.spotify.com/track/76ICmoJ4PcoMWoooaTxnQs) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [The Exciting Wilson Pickett](https://open.spotify.com/album/3fxWzXNMhTz01uShzMARnm) | 2:26 | 2023-02-03 |  |
 | [Le pénitencier](https://open.spotify.com/track/6phMPtxOkjdXR8ax9xoCJ9) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [Le pénitencier](https://open.spotify.com/album/6BIYQZuFPkhbkCl2PHPcj6) | 4:05 | 2023-02-03 |  |
@@ -60,7 +61,7 @@
 | [Mrs\. Robinson \- From "The Graduate" Soundtrack](https://open.spotify.com/track/0iOZM63lendWRTTeKhZBSC) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bookends](https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2) | 4:04 | 2023-02-03 | 2024-04-19 |
 | [My Girl](https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [The Temptations Sing Smokey](https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw) | 2:45 | 2023-02-03 | 2024-04-19 |
 | [My Girl](https://open.spotify.com/track/1WWbqYAzu1N216ngniTLNq) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Motown: The Complete No\. 1's](https://open.spotify.com/album/78kJS9OWjuPrYccf3E54yb) | 2:58 | 2023-12-20 |  |
-| [My Guy](https://open.spotify.com/track/4591VqUIXysNlmI5NcAIUd) | [Mary Wells](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) | [Mary Wells Sings My Guy](https://open.spotify.com/album/6pUoPt9A6P1G8YJ5vw6GBP) | 2:54 | 2023-02-03 |  |
+| [My Guy](https://open.spotify.com/track/4591VqUIXysNlmI5NcAIUd) | [Mary Wells](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) | [Mary Wells Sings My Guy](https://open.spotify.com/album/6pUoPt9A6P1G8YJ5vw6GBP) | 2:54 | 2023-02-03 | 2025-12-29 |
 | [No Milk Today](https://open.spotify.com/track/1bas9EMFNPwEolxIMMRWWH) | [Herman's Hermits](https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V) | [Herman's Hermits Retrospective](https://open.spotify.com/album/6TbZXMXvUGFqx3opETEAuW) | 2:56 | 2023-02-03 | 2023-12-21 |
 | [Oh Happy Day](https://open.spotify.com/track/34yIb7hw5SuR80au1BHTtt) | [The Edwin Hawkins Singers](https://open.spotify.com/artist/0lEzfSVcNRLDUKdI7fBDD3) | [Oh Happy Day: The Best Of The Edwin Hawkins Singers](https://open.spotify.com/album/4ZIuHLkXVaiAcEaMWzTKcF) | 5:08 | 2023-02-03 |  |
 | [Oh, Pretty Woman](https://open.spotify.com/track/52HAHV1j93s5B8GoTNI7DJ) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [The Essential Roy Orbison](https://open.spotify.com/album/48CvRZSBT0FbOHKLFfHy0n) | 2:56 | 2023-02-03 |  |

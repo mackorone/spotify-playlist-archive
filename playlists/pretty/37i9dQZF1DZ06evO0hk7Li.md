@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hk7Li.md) - [plain]
 
 > This is Jacob Banks\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,042 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,044 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hk7Li.md) - [plain]
 | 31 | [Monster 2.0](https://open.spotify.com/track/7H76Ppe3o34VeU2yRi5xao) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV), [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6) | [Monster 2.0](https://open.spotify.com/album/7y5HRc18PtRswUkWMusITX) | 3:37 |
 | 32 | [Only Way Is Up](https://open.spotify.com/track/2CQQQfax1YLcMbU0V5oTuQ) | [Gaël Faye](https://open.spotify.com/artist/69irZ4R8OsrLHjr6VmMmMg), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Lundi Méchant](https://open.spotify.com/album/42QybsqCIxCc1H2SEskAiv) | 3:51 |
 | 33 | [Be Good To Me \(feat\. Seinabo Sey\)](https://open.spotify.com/track/7juealXfkel1kLInjvY4W8) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV), [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Village](https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9) | 4:10 |
-| 34 | [Thorns](https://open.spotify.com/track/2y3mVK20NpiMwMeADn38we) | [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [All The Flowers Have Bloomed](https://open.spotify.com/album/1GzZOyOEu5fepoX5rySrdO) | 6:23 |
-| 35 | [In The Name Of Love \- From The Motion Picture The Equalizer 2](https://open.spotify.com/track/79WjeGL4IR8svbAVC2FF0I) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [In The Name Of Love \(From The Motion Picture The Equalizer 2\)](https://open.spotify.com/album/0KA7H5EiLI2uPwXSw3dJpf) | 3:24 |
+| 34 | [In The Name Of Love \- From The Motion Picture The Equalizer 2](https://open.spotify.com/track/79WjeGL4IR8svbAVC2FF0I) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [In The Name Of Love \(From The Motion Picture The Equalizer 2\)](https://open.spotify.com/album/0KA7H5EiLI2uPwXSw3dJpf) | 3:24 |
+| 35 | [Thorns](https://open.spotify.com/track/2y3mVK20NpiMwMeADn38we) | [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [All The Flowers Have Bloomed](https://open.spotify.com/album/1GzZOyOEu5fepoX5rySrdO) | 6:23 |
 | 36 | [Black N White](https://open.spotify.com/track/4OCGJrXkPgYBtud4iSV395) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [For My Friends](https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0) | 2:38 |
 | 37 | [You Might Find Me](https://open.spotify.com/track/0QTOw32h1G2LD8EFExxedV) | [Ludwig Göransson](https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Creed II \(Score & Music from the Original Motion Picture\)](https://open.spotify.com/album/4VODNHZZp8qxuMLJQK2G4u) | 2:27 |
 | 38 | [Something Beautiful](https://open.spotify.com/track/3NAgVeM0Lr6GPh8tsQUhiK) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Monologue](https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj) | 3:28 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hk7Li.md) - [plain]
 | 44 | [Mexico](https://open.spotify.com/track/6sL9r9439ijWhZhtLHFBbm) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Village](https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9) | 3:40 |
 | 45 | [The Descent](https://open.spotify.com/track/54bqtn4yFAPD9OoIecweDA) | [Other People's Heartache](https://open.spotify.com/artist/5gXNY1o9BtajaZfYJVXQrv), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Lily Moore](https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS), [Moss Kena](https://open.spotify.com/artist/2u6jNcpusijFS6ZzuWRwMv), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Other People’s Heartache \(Pt\. 4\)](https://open.spotify.com/album/3cGGFGQJ027VtMknlIHNNi) | 5:42 |
 | 46 | [You Like It I Love It](https://open.spotify.com/track/78sI81RifcXgUp2YBiZb2q) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Yonder](https://open.spotify.com/album/14MjVmY1arLhtuDYRfqISx) | 2:57 |
-| 47 | [All Aboard](https://open.spotify.com/track/1ZZ5SgBFOQj1e7bV7ZsSzX) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Yonder: Book II](https://open.spotify.com/album/0glRKCnBK7HVqaaeu04vmA) | 2:10 |
-| 48 | [Hostage](https://open.spotify.com/track/6FwlaG3vag0IHp8McdVY0C) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Monologue](https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj) | 4:53 |
+| 47 | [Hostage](https://open.spotify.com/track/6FwlaG3vag0IHp8McdVY0C) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Monologue](https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj) | 4:53 |
+| 48 | [All Aboard](https://open.spotify.com/track/1ZZ5SgBFOQj1e7bV7ZsSzX) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Yonder: Book II](https://open.spotify.com/album/0glRKCnBK7HVqaaeu04vmA) | 2:10 |
 | 49 | [Parachute](https://open.spotify.com/track/1zDC7bs9jmXzBReD5JvpHn) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Lies About The War](https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv) | 3:11 |
 | 50 | [Something New](https://open.spotify.com/track/7DPtl7u2BjY3osM13SBkJQ) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Yonder](https://open.spotify.com/album/14MjVmY1arLhtuDYRfqISx) | 3:19 |
 
-Snapshot ID: `aU3QAAAAAABCfCqOIxjIFbWrlDIv4XY1`
+Snapshot ID: `aU8hgAAAAAAVUQRRrOxrmKq5reNcyBAi`

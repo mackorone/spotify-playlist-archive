@@ -1,12 +1,12 @@
 {
   "description": "This is Coi Leray. The essential tracks, all in one playlist.",
-  "num_followers": 18892,
+  "num_followers": 18897,
   "original_name": "This Is Coi Leray",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU3QAAAAAAAg4vTLXtDyh5Ttg1H9k9PN",
+  "snapshot_id": "aU8hgAAAAAAy1B7YoocVfSjI86RDzXoL",
   "tracks": [
     {
       "added_at": null,
@@ -167,26 +167,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flip A Switch. (feat. Coi Leray) [Remix]",
-        "url": "https://open.spotify.com/album/6il1IQ2A2yvZaGPgcqXDBd"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 201360,
-      "name": "Flip A Switch. (feat. Coi Leray) - Remix",
-      "url": "https://open.spotify.com/track/72b7GzsnUAjsk5I56hLkjp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "B.I.B.L.E.",
         "url": "https://open.spotify.com/album/6np2Ix6RidhSseqw2dZovP"
       },
@@ -207,6 +187,26 @@
       "duration_ms": 201398,
       "name": "What\u2019s My Name (with Queen Naija & Coi Leray)",
       "url": "https://open.spotify.com/track/5m4TMhR7wQQGxelJa7lToQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Flip A Switch. (feat. Coi Leray) [Remix]",
+        "url": "https://open.spotify.com/album/6il1IQ2A2yvZaGPgcqXDBd"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 201360,
+      "name": "Flip A Switch. (feat. Coi Leray) - Remix",
+      "url": "https://open.spotify.com/track/72b7GzsnUAjsk5I56hLkjp"
     },
     {
       "added_at": null,

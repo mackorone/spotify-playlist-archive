@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3NkkHT.md) - [plain]
 
 > This is BigXthaPlug\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,485 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,557 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3NkkHT.md) - [plain]
 | 49 | [I Hope You're Happy \(feat\. Darius Rucker\)](https://open.spotify.com/track/5W7KycBW97fBZoXtsFX3Gz) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [I Hope You're Happy](https://open.spotify.com/album/4llPc4sijqW69zcet6TAEC) | 3:05 |
 | 50 | [Climate \(feat\. Offset\)](https://open.spotify.com/track/1c7MITQmNJTrvfbDSzWT6x) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [THE BIGGEST](https://open.spotify.com/album/2EZ8JL3dtb54VXi3k6E7k6) | 2:50 |
 
-Snapshot ID: `aU3QAAAAAACS7x6WPSZBOwH2gdRIT8CT`
+Snapshot ID: `aU8hgAAAAAAd40EtgcBbnRfKiPAMDros`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mddl0YFaZZ.md) - [plain]
 
 > Que comience la fiesta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,635 likes - 50 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,659 likes - 50 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,19 +24,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mddl0YFaZZ.md) - [plain]
 | 14 | [Píntame](https://open.spotify.com/track/7gNI9f8NTCU6hLV0pLkTT7) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Pintame](https://open.spotify.com/album/1JyYGBfd7EIVXtKyaOcyLB) | 4:19 |
 | 15 | [La Bilirrubina \- En Vivo Estadio Olímpico De República Dominicana/2012](https://open.spotify.com/track/1GT0Q2ZTeKtIBueYKr4vhr) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Asondeguerra Tour \(En Vivo Estadio Olímpico De República Dominicana/2012\)](https://open.spotify.com/album/43lcnoRo7YBAYHEztiDRrG) | 3:52 |
 | 16 | [Otra Noche \(Another Night\)](https://open.spotify.com/track/2lROtguCNiJcyZxol9aTKi) | [Proyecto Uno](https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu) | [In Da House](https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe) | 5:30 |
-| 17 | [Ay Amor](https://open.spotify.com/track/3IIcfSqWExqdjypo8HlMq8) | [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW) | [La Orquesta Que Impone El Ritmo](https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1) | 4:03 |
+| 17 | [Agüita 'e Coco](https://open.spotify.com/track/5KIIx001g9DeBGUH5eCc83) | [Los Fantasmas del Caribe](https://open.spotify.com/artist/3h3fPrG6WOJ38FUUpgAiha) | [Lo Mejor de Los Fantasmas del caribe](https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f) | 4:07 |
 | 18 | [OTLP](https://open.spotify.com/track/2I0sc3YbC9UdiWGiQ40AST) | [Yari M](https://open.spotify.com/artist/05NI8pRITNyOdNYQAG0Ogf) | [Momentos](https://open.spotify.com/album/05mwN2Yt9c7xo96FkuvjG3) | 2:18 |
-| 19 | [Agüita 'e Coco](https://open.spotify.com/track/5KIIx001g9DeBGUH5eCc83) | [Los Fantasmas del Caribe](https://open.spotify.com/artist/3h3fPrG6WOJ38FUUpgAiha) | [Lo Mejor de Los Fantasmas del caribe](https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f) | 4:07 |
+| 19 | [Ay Amor](https://open.spotify.com/track/3IIcfSqWExqdjypo8HlMq8) | [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW) | [La Orquesta Que Impone El Ritmo](https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1) | 4:03 |
 | 20 | [El Cepillo](https://open.spotify.com/track/2EWZswsvSERfAWzXPE2trG) | [Fulanito](https://open.spotify.com/artist/0hD97064k3LBUrRvfT42SE) | [Greatest Hits](https://open.spotify.com/album/2se2DHy9J2L20JV02zwQHx) | 3:26 |
 | 21 | [La Hora De Bailar](https://open.spotify.com/track/2bsW096eoys2fLL8YZAkLn) | [Sandy & Papo](https://open.spotify.com/artist/5F8vogyroqA36mExBfM52B) | [Sandy & Papo MC](https://open.spotify.com/album/6W81jH29u4tqW0Yrvdhe88) | 4:50 |
-| 22 | [Mi Corazón](https://open.spotify.com/track/6l0xwRuI7LrQ7xfBx4YLwi) | [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW) | [La Orquesta Que Impone El Ritmo](https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1) | 4:08 |
-| 23 | [El Taqui Taqui \- Original Mix](https://open.spotify.com/track/20jvgYvnqySWnNCsHQZnXk) | [Ilegales](https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z) | [Rebotando](https://open.spotify.com/album/5aAR4JhNb2bA0r6uPHlhYz) | 4:23 |
-| 24 | [Nuestra Cancion](https://open.spotify.com/track/2yB721Szta49XabGt5FQ0u) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Suavemente](https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os) | 3:28 |
+| 22 | [El Taqui Taqui \- Original Mix](https://open.spotify.com/track/20jvgYvnqySWnNCsHQZnXk) | [Ilegales](https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z) | [Rebotando](https://open.spotify.com/album/5aAR4JhNb2bA0r6uPHlhYz) | 4:23 |
+| 23 | [Nuestra Cancion](https://open.spotify.com/track/2yB721Szta49XabGt5FQ0u) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Suavemente](https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os) | 3:28 |
+| 24 | [Mi Corazón](https://open.spotify.com/track/6l0xwRuI7LrQ7xfBx4YLwi) | [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW) | [La Orquesta Que Impone El Ritmo](https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1) | 4:08 |
 | 25 | [Muchacho malo](https://open.spotify.com/track/58MAh1fboa0lvwaX2JS0B1) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Mujer De Fuego](https://open.spotify.com/album/4VV3JWcUvnRNE0OhuRkugJ) | 4:27 |
 | 26 | [El Alacrán](https://open.spotify.com/track/0rI6R1Bf2q6e2SwSc2KdhD) | [Sandy & Papo](https://open.spotify.com/artist/5F8vogyroqA36mExBfM52B) | [Otra Vez](https://open.spotify.com/album/0uvSlEKM2qrg3ZGqNvryKb) | 4:02 |
-| 27 | [Enhorabuena](https://open.spotify.com/track/6Js2Fy0gdSAkpD780TYJGu) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Enhorabuena](https://open.spotify.com/album/1p2JgxJxYfju0cSvAnfuPo) | 2:48 |
-| 28 | [Como Un Trueno](https://open.spotify.com/track/5NuGimnwSMQwBKgCCy7wIn) | [Ilegales](https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z) | [Rebotando](https://open.spotify.com/album/5aAR4JhNb2bA0r6uPHlhYz) | 4:06 |
-| 29 | [Luna Llena](https://open.spotify.com/track/7zOqkF9TUdUPREtkIf1v4Q) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Suavemente](https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os) | 4:25 |
+| 27 | [Como Un Trueno](https://open.spotify.com/track/5NuGimnwSMQwBKgCCy7wIn) | [Ilegales](https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z) | [Rebotando](https://open.spotify.com/album/5aAR4JhNb2bA0r6uPHlhYz) | 4:06 |
+| 28 | [Luna Llena](https://open.spotify.com/track/7zOqkF9TUdUPREtkIf1v4Q) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Suavemente](https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os) | 4:25 |
+| 29 | [Enhorabuena](https://open.spotify.com/track/6Js2Fy0gdSAkpD780TYJGu) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Enhorabuena](https://open.spotify.com/album/1p2JgxJxYfju0cSvAnfuPo) | 2:48 |
 | 30 | [Las Avispas](https://open.spotify.com/track/1oInQX1RuH1TcHuDv8Gvw3) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Coleccion Cristiana](https://open.spotify.com/album/4u3f2d7j7SUlPh5dGaJf1v) | 3:15 |
 | 31 | [Cachamba](https://open.spotify.com/track/2HFfwhwTbpGq8Ebi3Nkdwv) | [Kinito Mendez](https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT) | [El Hombre Merengue](https://open.spotify.com/album/2pQywjfiQQQQnjRGrxjHwd) | 4:43 |
 | 32 | [Como Olvidar \- Merengue Versión](https://open.spotify.com/track/7gT6BKjzmmZM0FkYJjPSqv) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE), [Ronnie Torres](https://open.spotify.com/artist/2QUD4hlzyYf6n1Fd9Kda1A) | [100% Merengue](https://open.spotify.com/album/341ZS1EddJkPqUYVa8mBoI) | 4:39 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mddl0YFaZZ.md) - [plain]
 | 41 | [Por una Lágrima](https://open.spotify.com/track/2vxemUwuFetliyrL6OSOSN) | [Los Fantasmas del Caribe](https://open.spotify.com/artist/3h3fPrG6WOJ38FUUpgAiha) | [Lo Mejor de Los Fantasmas del caribe](https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f) | 4:09 |
 | 42 | [Latinos](https://open.spotify.com/track/6RpkUBv1KKsJBWf3gmQ1R9) | [Proyecto Uno](https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu) | [Latinos](https://open.spotify.com/album/4X2X6pUs1ToRCn4pz501PP) | 5:29 |
 | 43 | [Fiesta Caliente](https://open.spotify.com/track/37EJvPSMOhOs46HEyweZNW) | [Ilegales](https://open.spotify.com/artist/1hMa6SwU2t8eUEETAAbk9z) | [Ilegales](https://open.spotify.com/album/3zYFvSvwwb52XuXf25rtCg) | 4:40 |
-| 44 | [La Fiesta](https://open.spotify.com/track/7yEzrqSsvmAQGpEQtl1UYp) | [Sandy & Papo](https://open.spotify.com/artist/5F8vogyroqA36mExBfM52B) | [Otra Vez](https://open.spotify.com/album/0uvSlEKM2qrg3ZGqNvryKb) | 4:40 |
-| 45 | [Como Yo](https://open.spotify.com/track/6lukSvy0Oh4oImuY0ihOvH) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [La Llave De Mi Corazon](https://open.spotify.com/album/1xdl8xYY54gDXuTVhOxNSc) | 3:25 |
+| 44 | [Como Yo](https://open.spotify.com/track/6lukSvy0Oh4oImuY0ihOvH) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [La Llave De Mi Corazon](https://open.spotify.com/album/1xdl8xYY54gDXuTVhOxNSc) | 3:25 |
+| 45 | [La Fiesta](https://open.spotify.com/track/7yEzrqSsvmAQGpEQtl1UYp) | [Sandy & Papo](https://open.spotify.com/artist/5F8vogyroqA36mExBfM52B) | [Otra Vez](https://open.spotify.com/album/0uvSlEKM2qrg3ZGqNvryKb) | 4:40 |
 | 46 | [Feliz Cumbé](https://open.spotify.com/track/1CvYdv3AwrsTt90owD32VB) | [Fernando Villalona](https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu) | [El Gran Mayimbe](https://open.spotify.com/album/3YcXVczErplYfnXgiNNCjg) | 3:13 |
 | 47 | [Tra Tra](https://open.spotify.com/track/7m8n9cq3ooZiZbLSv7MFx5) | [Mala Fe](https://open.spotify.com/artist/4oVcPiYDvfGxamTzwvnKtp) | [La Vaca](https://open.spotify.com/album/362VvoXxnrHRg6FLhwRdHC) | 4:06 |
 | 48 | [Linda Eh](https://open.spotify.com/track/42huCGPeBRGBRMmc72ZWsE) | [Grupo Mania](https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp) | [Originales](https://open.spotify.com/album/0iYfoInNEmGbbEIksf1PCu) | 4:10 |

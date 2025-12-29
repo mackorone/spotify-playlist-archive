@@ -4,7 +4,7 @@
 
 > Relive your favourite K\-Drama moments with these classic soundtracks\. \(그 시절 그 때의 감성이 담겨 있는 OST 명곡들을 만나보세요.\)
 
-310 songs - 20 hr 0 min
+311 songs - 20 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Dream](https://open.spotify.com/track/0l4pyN2tKhS3ryLv4vUmWM) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [The King: Eternal Monarch \(Original Television Soundtrack\), Pt\. 8](https://open.spotify.com/album/7JnGiyyrBZ1wnbfNuf9L2b) | 4:03 | 2022-05-11 | 2022-07-29 |
 | [Epiphany](https://open.spotify.com/track/6L88EH68XwlaXwvChlTS41) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) | 4:00 | 2024-04-03 | 2024-04-19 |
 | [Eternal Love](https://open.spotify.com/track/0HIr8uSRGF14DHO1sckYx0) | [Michael Learns To Rock](https://open.spotify.com/artist/7zMVPOJPs5jgU8NorRxqJe) | [Healer \(Original Television Soundtrack\)](https://open.spotify.com/album/0EQJ8RXISHsoZafV3PgUFv) | 4:16 | 2024-04-04 |  |
+| [Etude of Memory](https://open.spotify.com/track/3YpiZu52TdVbNKExZpZAWW) | [Exhibition](https://open.spotify.com/artist/2oHNNPMZJYPoiP9Pmm76bJ) | [Exhibition](https://open.spotify.com/album/5lH78eRxZ9J5M6wlTPS9Gj) | 5:13 | 2024-10-10 |  |
 | [Every day, Every Moment](https://open.spotify.com/track/3Ml2s37uS9jqRM2R3bfDiB) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Should We Kiss First? \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/1UVybcE4gGXIlRjkMPM17U) | 3:30 | 2022-05-11 |  |
 | [Every moment of you](https://open.spotify.com/track/2tY05I4MCH2eKnWTITUspC) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [My Love From the Star Part 7](https://open.spotify.com/album/76Ke9tCgKmlQTG2Nb810O0) | 4:03 | 2024-04-03 | 2024-04-19 |
 | [Everyday With You](https://open.spotify.com/track/4FpNWU5qCPCZR7LkuyuJr7) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [KING THE LAND \(Original Television Soundtrack\), Pt.9](https://open.spotify.com/album/1RbPDmimZAOVVbyHyjwXhq) | 2:50 | 2024-04-03 |  |
@@ -216,7 +217,7 @@
 | [Run to You](https://open.spotify.com/track/5PiAz4IM5l7aetXIOVpufS) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [The Great Shaman Ga Doo Shim OST Part.1](https://open.spotify.com/album/5cvOQB1vP7IGW4ZnEIMAIR) | 3:45 | 2022-05-11 | 2022-06-04 |
 | [Running](https://open.spotify.com/track/3t0Dw9zYFXK4ezJxbM3rbj) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [START\-UP \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/49kRt17UwsJeOAekAn84Ib) | 3:29 | 2022-06-24 | 2023-06-04 |
 | [Running](https://open.spotify.com/track/6IcVM9iHTsX4sm0Xj54MBF) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [START\-UP \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/6S327htVJnBi9GGZjUInui) | 3:29 | 2023-03-13 | 2024-04-19 |
-| [Say Goodbye](https://open.spotify.com/track/4PVlgqnAacGP0ppxbgkvzZ) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Uncontrollably Fond OST Part.3](https://open.spotify.com/album/38OAXj0vgluZuiHo4o6Ml6) | 4:09 | 2024-04-04 |  |
+| [Say Goodbye](https://open.spotify.com/track/4PVlgqnAacGP0ppxbgkvzZ) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Uncontrollably Fond OST Part.3](https://open.spotify.com/album/38OAXj0vgluZuiHo4o6Ml6) | 4:09 | 2024-04-04 | 2025-12-29 |
 | [Say Yes](https://open.spotify.com/track/27zrFrtUtWl2urlvjOn5xc) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Moonlovers \- Scarlet Heart Ryeo \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/68xTLBWjoRADRf86WYmTmy) | 3:38 | 2024-04-03 |  |
 | [Scent](https://open.spotify.com/track/3fsSllNzpsBOiQZcrpICnL) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Search: WWW \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/6YrDG16bMhL1SwLDhHR5Jq) | 3:58 | 2022-10-06 | 2023-03-14 |
 | [Shine Bright](https://open.spotify.com/track/4eBUVeGUelbA7hJKfo4z8n) | [Lee Soo Young](https://open.spotify.com/artist/6GrRqCT2aRWjPMUmPY8oR5) | [Kkondae Intern \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/38qslXFiGuokbX73CCHhew) | 4:25 | 2022-06-24 | 2022-08-03 |

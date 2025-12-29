@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 
 > The home of Canadian country music\. Cover: Kelsi Mayne
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,394 likes - 109 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,396 likes - 109 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 | 108 | [As Long As There's A Bar](https://open.spotify.com/track/06L3jDgNDAuyQfLYTNS0KO) | [Gord Bamford](https://open.spotify.com/artist/1w9VjfHGE5qPLJQy3dKups) | [As Long As There's A Bar](https://open.spotify.com/album/16YteVMDYXfVk8oAe70u5B) | 2:57 |
 | 109 | [Drink Around](https://open.spotify.com/track/6ZoXthYEqorEbtFMbUMWEv) | [Dean Brody](https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak) | [Drink Around](https://open.spotify.com/album/283gVczi9bFI73NZxn4z3k) | 2:28 |
 
-Snapshot ID: `AAAAAOaUUIIQH+pXpWbPBgU9hLYhYKFp`
+Snapshot ID: `AAAAAAuOYDyCfXnpzV1bdr7Af7dQMYBE`

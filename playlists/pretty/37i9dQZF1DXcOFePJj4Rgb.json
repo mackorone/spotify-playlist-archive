@@ -1,6 +1,6 @@
 {
   "description": "The pop hits you just can't get enough of. Cover: Tyla",
-  "num_followers": 278693,
+  "num_followers": 278718,
   "original_name": "Pop Favourites",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,22 @@
     {
       "added_at": "2025-12-16 16:39:37",
       "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 178426,
+      "name": "Cruel Summer",
+      "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
+    },
+    {
+      "added_at": "2025-12-16 16:39:37",
+      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/0rSLgV8p5FzfnqlEk4GzxE"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 244960,
       "name": "Closer",
       "url": "https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw"
-    },
-    {
-      "added_at": "2025-12-16 16:39:37",
-      "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 178426,
-      "name": "Cruel Summer",
-      "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
     },
     {
       "added_at": "2025-12-16 16:39:37",
@@ -707,22 +707,6 @@
     {
       "added_at": "2025-12-16 16:39:37",
       "album": {
-        "name": "Safe Haven",
-        "url": "https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52"
-      },
-      "artists": [
-        {
-          "name": "Ruth B.",
-          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
-        }
-      ],
-      "duration_ms": 233720,
-      "name": "Dandelions",
-      "url": "https://open.spotify.com/track/2eAvDnpXP5W0cVtiI0PUxV"
-    },
-    {
-      "added_at": "2025-12-16 16:39:37",
-      "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 200255,
       "name": "Water",
       "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
+    },
+    {
+      "added_at": "2025-12-16 16:39:37",
+      "album": {
+        "name": "Safe Haven",
+        "url": "https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52"
+      },
+      "artists": [
+        {
+          "name": "Ruth B.",
+          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
+        }
+      ],
+      "duration_ms": 233720,
+      "name": "Dandelions",
+      "url": "https://open.spotify.com/track/2eAvDnpXP5W0cVtiI0PUxV"
     },
     {
       "added_at": "2025-12-16 16:39:37",
@@ -787,22 +787,6 @@
     {
       "added_at": "2025-12-16 16:39:37",
       "album": {
-        "name": "TIT FOR TAT",
-        "url": "https://open.spotify.com/album/1ks1k7zln4TyBjn1CF3vCz"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 177208,
-      "name": "TIT FOR TAT",
-      "url": "https://open.spotify.com/track/04a44cx2PJthIbN2aLMXhl"
-    },
-    {
-      "added_at": "2025-12-16 16:39:37",
-      "album": {
         "name": "Evolve",
         "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
       },
@@ -819,18 +803,18 @@
     {
       "added_at": "2025-12-16 16:39:37",
       "album": {
-        "name": "Chosen",
-        "url": "https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw"
+        "name": "TIT FOR TAT",
+        "url": "https://open.spotify.com/album/1ks1k7zln4TyBjn1CF3vCz"
       },
       "artists": [
         {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 211560,
-      "name": "Beggin'",
-      "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e"
+      "duration_ms": 177208,
+      "name": "TIT FOR TAT",
+      "url": "https://open.spotify.com/track/04a44cx2PJthIbN2aLMXhl"
     },
     {
       "added_at": "2025-12-16 16:39:37",
@@ -847,6 +831,22 @@
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52"
+    },
+    {
+      "added_at": "2025-12-16 16:39:37",
+      "album": {
+        "name": "Chosen",
+        "url": "https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 211560,
+      "name": "Beggin'",
+      "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e"
     },
     {
       "added_at": "2025-12-16 16:39:37",
@@ -979,6 +979,22 @@
     {
       "added_at": "2025-12-16 16:39:37",
       "album": {
+        "name": "Fine Line",
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 173991,
+      "name": "Watermelon Sugar",
+      "url": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"
+    },
+    {
+      "added_at": "2025-12-16 16:39:37",
+      "album": {
         "name": "SWAG",
         "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 163648,
       "name": "Nonsense",
       "url": "https://open.spotify.com/track/6dgUya35uo964z7GZXM07g"
-    },
-    {
-      "added_at": "2025-12-16 16:39:37",
-      "album": {
-        "name": "Fine Line",
-        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 173991,
-      "name": "Watermelon Sugar",
-      "url": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"
     },
     {
       "added_at": "2025-12-16 16:39:37",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2025-12-16 16:39:37",
       "album": {
-        "name": "LUX",
-        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 130506,
-      "name": "Dios Es Un Stalker",
-      "url": "https://open.spotify.com/track/6FdOGTRYvLCJ79d55YtGgZ"
-    },
-    {
-      "added_at": "2025-12-16 16:39:37",
-      "album": {
         "name": "Mystical Magical",
         "url": "https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 165746,
       "name": "Mystical Magical",
       "url": "https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT"
+    },
+    {
+      "added_at": "2025-12-16 16:39:37",
+      "album": {
+        "name": "LUX",
+        "url": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 130506,
+      "name": "Dios Es Un Stalker",
+      "url": "https://open.spotify.com/track/6FdOGTRYvLCJ79d55YtGgZ"
     },
     {
       "added_at": "2025-12-16 16:39:37",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2025-12-16 16:39:37",
       "album": {
+        "name": "Midnights",
+        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 200690,
+      "name": "Anti-Hero",
+      "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
+    },
+    {
+      "added_at": "2025-12-16 16:39:37",
+      "album": {
         "name": "Berghain",
         "url": "https://open.spotify.com/album/0avVU24xBfXW7ItE0xtzN2"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 178853,
       "name": "Berghain",
       "url": "https://open.spotify.com/track/6V4ntlX6608rd3Ec5SpVhj"
-    },
-    {
-      "added_at": "2025-12-16 16:39:37",
-      "album": {
-        "name": "Midnights",
-        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 200690,
-      "name": "Anti-Hero",
-      "url": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu"
     },
     {
       "added_at": "2025-12-16 16:39:37",

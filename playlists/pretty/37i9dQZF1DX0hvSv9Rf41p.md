@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 
 > All things <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">bass</a>  🚀🚀 with GriZ\. Happy GriZmas!
 
-[Spotify](https://open.spotify.com/user/spotify) - 989,908 likes - 101 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 989,914 likes - 101 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 | 100 | [One Last Breath \- Remix](https://open.spotify.com/track/3ekLXHhFW8qI6FZDE6Xx9l) | [ATLiens](https://open.spotify.com/artist/74RET4rCZPTGzhsLjD0i3g) | [One Last Breath \(ATLiens Remix\)](https://open.spotify.com/album/1UvilbdKcolkZtf24KYYDc) | 2:57 |
 | 101 | [Drop In](https://open.spotify.com/track/0FXEclPDVfUNHYDiyAPXYP) | [Mary Droppinz](https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS) | [Drop In](https://open.spotify.com/album/7of9M04MHeLqQQ1j8SaC47) | 2:29 |
 
-Snapshot ID: `AAAAACVp0QDBHF/IhcOlWr3kMNTP62cG`
+Snapshot ID: `AAAAALfjD4KsyZ7uT3IF6ZF3EaLE94WF`

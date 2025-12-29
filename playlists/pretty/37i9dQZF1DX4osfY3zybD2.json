@@ -1,6 +1,6 @@
 {
   "description": "Up for a nostalgic running session?",
-  "num_followers": 981533,
+  "num_followers": 981811,
   "original_name": "Retro Running",
   "owner": {
     "name": "Spotify",
@@ -115,6 +115,22 @@
     {
       "added_at": "2024-07-12 16:44:55",
       "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 245296,
+      "name": "Dancing In the Dark",
+      "url": "https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE"
+    },
+    {
+      "added_at": "2024-07-12 16:44:55",
+      "album": {
         "name": "An Innocent Man",
         "url": "https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 216053,
       "name": "Summer Of '69",
       "url": "https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3"
-    },
-    {
-      "added_at": "2024-07-12 16:44:55",
-      "album": {
-        "name": "Born In The U.S.A.",
-        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 245296,
-      "name": "Dancing In the Dark",
-      "url": "https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE"
     },
     {
       "added_at": "2024-07-12 16:44:55",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-07-12 16:44:55",
       "album": {
-        "name": "Ghost In The Machine (Remastered 2003)",
-        "url": "https://open.spotify.com/album/5jkwdY6jS1Hzi8epr6HW7h"
-      },
-      "artists": [
-        {
-          "name": "The Police",
-          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
-        }
-      ],
-      "duration_ms": 260573,
-      "name": "Every Little Thing She Does Is Magic",
-      "url": "https://open.spotify.com/track/44aTAUBF0g6sMkMNE8I5kd"
-    },
-    {
-      "added_at": "2024-07-12 16:44:55",
-      "album": {
         "name": "Speak and Spell (Deluxe)",
         "url": "https://open.spotify.com/album/0Zp2eVzR9FW6lKX05lRpcu"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 220893,
       "name": "Just Can't Get Enough",
       "url": "https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT"
+    },
+    {
+      "added_at": "2024-07-12 16:44:55",
+      "album": {
+        "name": "Ghost In The Machine (Remastered 2003)",
+        "url": "https://open.spotify.com/album/5jkwdY6jS1Hzi8epr6HW7h"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "duration_ms": 260573,
+      "name": "Every Little Thing She Does Is Magic",
+      "url": "https://open.spotify.com/track/44aTAUBF0g6sMkMNE8I5kd"
     },
     {
       "added_at": "2024-07-12 16:44:55",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-07-12 16:44:55",
       "album": {
-        "name": "Please Please Me (Remastered)",
-        "url": "https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 155226,
-      "name": "Twist And Shout - Remastered 2009",
-      "url": "https://open.spotify.com/track/5ZBeML7Lf3FMEVviTyvi8l"
-    },
-    {
-      "added_at": "2024-07-12 16:44:55",
-      "album": {
         "name": "Parade - Music from the Motion Picture Under the Cherry Moon",
         "url": "https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 226240,
       "name": "Kiss",
       "url": "https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05"
+    },
+    {
+      "added_at": "2024-07-12 16:44:55",
+      "album": {
+        "name": "Please Please Me (Remastered)",
+        "url": "https://open.spotify.com/album/3KzAvEXcqJKBF97HrXwlgf"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 155226,
+      "name": "Twist And Shout - Remastered 2009",
+      "url": "https://open.spotify.com/track/5ZBeML7Lf3FMEVviTyvi8l"
     },
     {
       "added_at": "2024-07-12 16:44:55",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-07-12 16:44:55",
       "album": {
-        "name": "Discovery",
-        "url": "https://open.spotify.com/album/1CvVSn2MtKDBR6aWMkNkem"
-      },
-      "artists": [
-        {
-          "name": "Electric Light Orchestra",
-          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
-        }
-      ],
-      "duration_ms": 243132,
-      "name": "Don't Bring Me Down",
-      "url": "https://open.spotify.com/track/72ahyckBJfTigJCFCviVN7"
-    },
-    {
-      "added_at": "2024-07-12 16:44:55",
-      "album": {
         "name": "Discography - Complete Singles Collection",
         "url": "https://open.spotify.com/album/0Jt2LzWgtGxy3GZH5i2Kcy"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 234906,
       "name": "Always on My Mind",
       "url": "https://open.spotify.com/track/07ABETRdek3ACMpRPvQuaT"
+    },
+    {
+      "added_at": "2024-07-12 16:44:55",
+      "album": {
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/1CvVSn2MtKDBR6aWMkNkem"
+      },
+      "artists": [
+        {
+          "name": "Electric Light Orchestra",
+          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
+        }
+      ],
+      "duration_ms": 243132,
+      "name": "Don't Bring Me Down",
+      "url": "https://open.spotify.com/track/72ahyckBJfTigJCFCviVN7"
     },
     {
       "added_at": "2024-07-12 16:44:55",

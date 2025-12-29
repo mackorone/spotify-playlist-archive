@@ -4,7 +4,7 @@
 
 > This is Arsenal Efectivo\. The essential tracks, all in one playlist.
 
-34 songs - 1 hr 43 min
+35 songs - 1 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Sacando El Polvo](https://open.spotify.com/track/4XlYZ7xckZy2Vz1eXg4IFy) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0), [Omar Ruiz](https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC) | [Sacando El Polvo](https://open.spotify.com/album/3x9bpEr5yOvsJgH22RQllP) | 4:01 | 2025-01-19 |  |
 | [Sea Donde Sea](https://open.spotify.com/track/1a55CiM5pSJir39PNVPv2a) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Seguiremos Trabajando](https://open.spotify.com/album/0flR15FFQkQ4jo7PDIUJk4) | 2:40 | 2024-01-29 | 2024-04-28 |
 | [Seguiremos Trabajando](https://open.spotify.com/track/2IIM3kOZaaGAKbmhTbeBiF) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Seguiremos Trabajando](https://open.spotify.com/album/0flR15FFQkQ4jo7PDIUJk4) | 3:02 | 2024-01-29 |  |
-| [Soy Ayon](https://open.spotify.com/track/59R6ch1PRI9YY7aGHGiOc0) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Vida Peligrosa](https://open.spotify.com/album/45hVcJdR56XnHg2Phvb7WY) | 2:57 | 2024-01-29 |  |
+| [Soy Ayon](https://open.spotify.com/track/1RoXiUyEb8DZsw6uAcGPiJ) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Vida Peligrosa](https://open.spotify.com/album/4huwqIi9UfY9D3DtGwo4di) | 2:57 | 2025-12-29 |  |
+| [Soy Ayon](https://open.spotify.com/track/59R6ch1PRI9YY7aGHGiOc0) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Vida Peligrosa](https://open.spotify.com/album/45hVcJdR56XnHg2Phvb7WY) | 2:57 | 2024-01-29 | 2025-12-29 |
 | [Soy De Ambiente](https://open.spotify.com/track/0Zu3mHd7Oq5tCTctYlmBwJ) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [En La Fuga](https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq) | 2:46 | 2024-01-29 |  |
 | [Tali 50](https://open.spotify.com/track/7FNL3TSmusZoSBrgYW4r2M) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Vida Peligrosa](https://open.spotify.com/album/45hVcJdR56XnHg2Phvb7WY) | 2:33 | 2024-01-29 |  |
 | [Vida Peligrosa](https://open.spotify.com/track/4v6WOK8r1KH3DkHVeo0g3D) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Vida Peligrosa](https://open.spotify.com/album/4huwqIi9UfY9D3DtGwo4di) | 3:04 | 2025-12-28 |  |

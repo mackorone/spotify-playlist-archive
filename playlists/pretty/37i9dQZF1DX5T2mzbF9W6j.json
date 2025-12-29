@@ -1,12 +1,12 @@
 {
   "description": "Wyzwania, cele, zadania, spotkania, dedlajny\u2026 ale najpierw kawa.",
-  "num_followers": 112120,
+  "num_followers": 112109,
   "original_name": "... ale najpierw kawa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFLl6ozdC/tKJFka5CrB9d/xB5cY",
+  "snapshot_id": "AAAAAC8plM/0wy92xudwUZaOegY3jfKX",
   "tracks": [
     {
       "added_at": "2025-12-19 14:55:23",
@@ -775,6 +775,22 @@
     {
       "added_at": "2025-12-19 14:55:23",
       "album": {
+        "name": "Wracam",
+        "url": "https://open.spotify.com/album/4TabkmEusGSAl53UzIhyOR"
+      },
+      "artists": [
+        {
+          "name": "Jeremi Sikorski",
+          "url": "https://open.spotify.com/artist/72wQxesjJ9hTkk1hGA4tBw"
+        }
+      ],
+      "duration_ms": 185880,
+      "name": "Wracam",
+      "url": "https://open.spotify.com/track/5GYd7snaxD4knd8vPfHMDB"
+    },
+    {
+      "added_at": "2025-12-19 14:55:23",
+      "album": {
         "name": "Dziwna (feat. Artur Rojek)",
         "url": "https://open.spotify.com/album/66lJWCfqFbOFmU0zoc1s9z"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 161724,
       "name": "Dziwna (feat. Artur Rojek)",
       "url": "https://open.spotify.com/track/4pscA7I0aNoAYs3z56EDGS"
-    },
-    {
-      "added_at": "2025-12-19 14:55:23",
-      "album": {
-        "name": "Wracam",
-        "url": "https://open.spotify.com/album/4TabkmEusGSAl53UzIhyOR"
-      },
-      "artists": [
-        {
-          "name": "Jeremi Sikorski",
-          "url": "https://open.spotify.com/artist/72wQxesjJ9hTkk1hGA4tBw"
-        }
-      ],
-      "duration_ms": 185880,
-      "name": "Wracam",
-      "url": "https://open.spotify.com/track/5GYd7snaxD4knd8vPfHMDB"
     },
     {
       "added_at": "2025-12-19 14:55:23",
@@ -867,22 +867,6 @@
     {
       "added_at": "2025-12-19 14:55:23",
       "album": {
-        "name": "Co noc",
-        "url": "https://open.spotify.com/album/4f1bC5xpaa9WEr87Wum7Bd"
-      },
-      "artists": [
-        {
-          "name": "Oskar Cyms",
-          "url": "https://open.spotify.com/artist/2fcIazWMq5XONzkuCwSSEr"
-        }
-      ],
-      "duration_ms": 159428,
-      "name": "Co noc",
-      "url": "https://open.spotify.com/track/5GElBQDxiLNF991NLcuGje"
-    },
-    {
-      "added_at": "2025-12-19 14:55:23",
-      "album": {
         "name": "Brightest Light",
         "url": "https://open.spotify.com/album/4RiEtMATsrsD2IqEkzGq3h"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 180691,
       "name": "Brightest Light",
       "url": "https://open.spotify.com/track/1X4Kx55UM4DAJeT959ygCp"
+    },
+    {
+      "added_at": "2025-12-19 14:55:23",
+      "album": {
+        "name": "Co noc",
+        "url": "https://open.spotify.com/album/4f1bC5xpaa9WEr87Wum7Bd"
+      },
+      "artists": [
+        {
+          "name": "Oskar Cyms",
+          "url": "https://open.spotify.com/artist/2fcIazWMq5XONzkuCwSSEr"
+        }
+      ],
+      "duration_ms": 159428,
+      "name": "Co noc",
+      "url": "https://open.spotify.com/track/5GElBQDxiLNF991NLcuGje"
     },
     {
       "added_at": "2025-12-19 14:55:23",

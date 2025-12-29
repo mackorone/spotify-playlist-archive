@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 
 > The ultimate seasonal \(indie\) playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,197 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,137 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 | 71 | [Santa Baby \- Recorded at Strongroom Studios London](https://open.spotify.com/track/5QF4h9dKGHWdP6cwRORG5h) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Santa Baby \(Recorded at Strongroom Studios London\)](https://open.spotify.com/album/0vBVY4SjwxY6jECqJKTlrJ) | 2:43 |
 | 72 | [Darling I Do](https://open.spotify.com/track/4HQPftni948NDA17ajheQQ) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [Darling I Do](https://open.spotify.com/album/0BeGOenR0eXIrFxmgQnt2j) | 3:01 |
 | 73 | [White Winter Hymnal](https://open.spotify.com/track/4NCBDTOYQmBmXXQEs3pUDB) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [White Winter Hymnal](https://open.spotify.com/album/5jBXk71cVw1kRlyaQ1kbO5) | 2:14 |
-| 74 | [Christmas Eve \(Soul Purpose\)](https://open.spotify.com/track/6aX7uTfG9blCOFjNkbPn7F) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Christmas Eve \(Soul Purpose\) / It’s Going To Be A Cold Winter](https://open.spotify.com/album/59LBLGqfxMTSXuLmMmGsIT) | 3:45 |
-| 75 | [Christmas In April](https://open.spotify.com/track/0Af4dYxE130GzSUNMvkQty) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [HARK!](https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad) | 3:31 |
+| 74 | [Christmas In April](https://open.spotify.com/track/0Af4dYxE130GzSUNMvkQty) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [HARK!](https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad) | 3:31 |
+| 75 | [Christmas Eve \(Soul Purpose\)](https://open.spotify.com/track/6aX7uTfG9blCOFjNkbPn7F) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Christmas Eve \(Soul Purpose\) / It’s Going To Be A Cold Winter](https://open.spotify.com/album/59LBLGqfxMTSXuLmMmGsIT) | 3:45 |
 
 Snapshot ID: `AAAAANSm03ud3HSMDGYwoOy+sGln7KfA`

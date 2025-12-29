@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LYxFep0J7E.md) - [plain]
 
 > Our editors' top picks for the best Jazz songs of the year\. Cover: Theo Croker
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,966 likes - 50 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,026 likes - 50 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

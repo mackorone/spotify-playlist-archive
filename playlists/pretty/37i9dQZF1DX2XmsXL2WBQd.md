@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 
 > Anthems from the early days of recorded rap music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 442,853 likes - 70 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,900 likes - 70 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 | 31 | [Top Billin \- Acapella](https://open.spotify.com/track/59vYYvb9JS5IQAp8xpf0CY) | [Audio Two](https://open.spotify.com/artist/10toSzLMkc2zIYiiAemHt1) | [What More Can I Say](https://open.spotify.com/album/4ULe1bx6XkffNvsbB9DHr6) | 2:55 |
 | 32 | [Colors \- 2014 Remaster](https://open.spotify.com/track/7CMww2nlc2THVjJeLOYBrk) | [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Greatest Hits](https://open.spotify.com/album/13AED1HGzWlkxETo6aquK1) | 4:26 |
 | 33 | [Wild Wild West](https://open.spotify.com/track/0fmjCC6ItD4vixqwLTNGfg) | [Kool Moe Dee](https://open.spotify.com/artist/2RE8NwNxsOyuNZDD0jRxHP) | [How Ya Like Me Now \(Expanded Edition\)](https://open.spotify.com/album/0V3b2bczRgZ4qrGq1L5BVI) | 4:40 |
-| 34 | [I'm Bad](https://open.spotify.com/track/77nTnRGCyI8NNZUcgjShjg) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [All World](https://open.spotify.com/album/75oGBjE0TVxgdiXhU6J20M) | 4:39 |
-| 35 | [Buffalo Gals](https://open.spotify.com/track/4gCo2r1gCEw70OAq9cF1uW) | [Malcolm McLaren](https://open.spotify.com/artist/4ihCM8I0fpWodgjo0mTlhZ) | [Duck Rock](https://open.spotify.com/album/6S4f7yDtJlS0iQMEuCtIF0) | 4:19 |
+| 34 | [Buffalo Gals](https://open.spotify.com/track/4gCo2r1gCEw70OAq9cF1uW) | [Malcolm McLaren](https://open.spotify.com/artist/4ihCM8I0fpWodgjo0mTlhZ) | [Duck Rock](https://open.spotify.com/album/6S4f7yDtJlS0iQMEuCtIF0) | 4:19 |
+| 35 | [I'm Bad](https://open.spotify.com/track/77nTnRGCyI8NNZUcgjShjg) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [All World](https://open.spotify.com/album/75oGBjE0TVxgdiXhU6J20M) | 4:39 |
 | 36 | [Vapors](https://open.spotify.com/track/73lzOeqHJSH8ddRls5GonC) | [Biz Markie](https://open.spotify.com/artist/22282KfMxDo2PMjnBc82I4) | [Biz's Baddest Beats: The Best of Biz Markie](https://open.spotify.com/album/2OKf5WlgqFgszrDsxMq07t) | 6:02 |
 | 37 | [Get into It](https://open.spotify.com/track/6nAFR5Ea3zGboy2d9CfWFp) | [Tony Scott](https://open.spotify.com/artist/29quhjruC6v2FTYLozD3zO) | [The Chief](https://open.spotify.com/album/56PlLnNFleTL1SVLycjrXa) | 3:17 |
 | 38 | [Friends](https://open.spotify.com/track/72tgSpiP5XkgxT8rEbDJXN) | [Whodini](https://open.spotify.com/artist/4dBOV77d0Fy9KcTZkieXcu) | [The Collection](https://open.spotify.com/album/1MBp9PBjgcjojxprBh69m5) | 4:39 |

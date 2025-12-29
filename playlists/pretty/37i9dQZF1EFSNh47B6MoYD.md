@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 14 | [Me Falta Un Pecado](https://open.spotify.com/track/4pI1jddE9zk3jHOMWGGiAb) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [La Reunión \(Deluxe\)](https://open.spotify.com/album/3yIX4FmlUxf2E1UK2fURll) | 3:13 |
 | 15 | [Mujer Maravilla](https://open.spotify.com/track/4Fhow7Gjagr9vtwtp4vUVx) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [De Película](https://open.spotify.com/album/18p26t1RNPSqnIPPBHAi6w) | 3:44 |
 | 16 | [Te Necesito](https://open.spotify.com/track/3jZZ2SlQTFJ5yKDp3FOQNB) | [OV7](https://open.spotify.com/artist/5zaT4Qu9otu6z4oyWjRqM2) | [Punto](https://open.spotify.com/album/55OVAEUt48foMS6JrUDit9) | 4:16 |
-| 17 | [Crucigrama](https://open.spotify.com/track/3USeLFGPeeu2d0C8ULDWfn) | [Dvicio](https://open.spotify.com/artist/2KxjMGXFgX1vt9grpbD3xI) | [Justo Ahora](https://open.spotify.com/album/2t9TlsYchqDdr0n2TTF6s0) | 3:33 |
-| 18 | [Abreme la Puerta](https://open.spotify.com/track/7jvU6ZxbwoGtIkE9Z7DnnN) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Abreme la Puerta \(New Edition\)](https://open.spotify.com/album/1iIseStXM2EpYcP6NcuGvA) | 3:37 |
+| 17 | [Abreme la Puerta](https://open.spotify.com/track/7jvU6ZxbwoGtIkE9Z7DnnN) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Abreme la Puerta \(New Edition\)](https://open.spotify.com/album/1iIseStXM2EpYcP6NcuGvA) | 3:37 |
+| 18 | [Crucigrama](https://open.spotify.com/track/3USeLFGPeeu2d0C8ULDWfn) | [Dvicio](https://open.spotify.com/artist/2KxjMGXFgX1vt9grpbD3xI) | [Justo Ahora](https://open.spotify.com/album/2t9TlsYchqDdr0n2TTF6s0) | 3:33 |
 | 19 | [Boom Boom \(feat\. Anitta\)](https://open.spotify.com/track/6RcaOBWQpur8uJ5jlVc9b0) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [El Negreeto](https://open.spotify.com/album/1TSHFiGwKadtL6zMLa4zA5) | 2:32 |
 | 20 | [Demasiado Frágiles](https://open.spotify.com/track/2yA56Cz8BOhx8HjhW8UxSH) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Isla Divina](https://open.spotify.com/album/1FxUlBMrBoLOVb57QXtKcn) | 3:47 |
 | 21 | [Ay Mama](https://open.spotify.com/track/3x7w1y7WLU7lpCSh39VSrZ) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Simplemente](https://open.spotify.com/album/5ktMfzQRYlQawZcnmIB1VW) | 3:43 |
@@ -156,4 +156,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 146 | [A Punto de Naufragar](https://open.spotify.com/track/0CMlI2cENOzR1xsBohRovm) | [Fernando Acosta](https://open.spotify.com/artist/4nTDn2UoT14TUvuNn05NM5) | [Entre el Piano y el Amor](https://open.spotify.com/album/5zPHOmWSNzyncdUinKCVZJ) | 4:29 |
 | 147 | [Cuarto Menguante](https://open.spotify.com/track/0jn4mbofhTz8M5iWAKFc51) | [LIZZIE BLASINI](https://open.spotify.com/artist/3U6BxnObGblB6VI1f5lvpH) | [Cuarto Menguante](https://open.spotify.com/album/3FoNl5uOXTrmILe49C1aN7) | 4:22 |
 
-Snapshot ID: `AcFYCAAAAABrbQCjx35wsS5AIcTds+9V`
+Snapshot ID: `AcFdqAAAAAC2uPfyfziIO6FChki67dEu`

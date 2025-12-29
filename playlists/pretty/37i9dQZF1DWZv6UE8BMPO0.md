@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZv6UE8BMPO0.md) - [plain]
 
 > Instrumental Christmas favorites to set the perfect mood for your swinging cocktail party this holiday season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 515,513 likes - 100 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 515,614 likes - 100 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZv6UE8BMPO0.md) - [plain]
 | 99 | [Dance of the Sugar Plum Fairy](https://open.spotify.com/track/7h4Ayplz18fKgoPUIWfaJd) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Frosty The Snowman](https://open.spotify.com/album/008Ifp6NdPVfUafKcraamu) | 1:54 |
 | 100 | [Ave Maria](https://open.spotify.com/track/4Ed2ZWI33fojtD1FRhVk29) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [That Christmas Feel](https://open.spotify.com/album/1eRIaiBeErayP8Cfve02kJ) | 3:54 |
 
-Snapshot ID: `AAAAAEv6d881zSLpclOqenptTjdj78uC`
+Snapshot ID: `AAAAACF0FNuxoqqYrakQsSDXlXtaq/Mj`

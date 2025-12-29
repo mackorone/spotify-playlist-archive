@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU3QAAAAAAD1WGAm7g+lu5j2+6ernefo",
+  "snapshot_id": "aU8hgAAAAABnij8dbfYzaZ/El4TA3AoI",
   "tracks": [
     {
       "added_at": null,
@@ -243,22 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Still Love",
-        "url": "https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d"
-      },
-      "artists": [
-        {
-          "name": "Teenage Wrist",
-          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
-        }
-      ],
-      "duration_ms": 224214,
-      "name": "Cold Case",
-      "url": "https://open.spotify.com/track/5G3IvLAzd5V4CzMhh8EBBc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chrome Neon Jesus",
         "url": "https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 238588,
       "name": "Black Flamingo",
       "url": "https://open.spotify.com/track/44OapuhaxBVQqdXQYeTKPs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Still Love",
+        "url": "https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d"
+      },
+      "artists": [
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        }
+      ],
+      "duration_ms": 226886,
+      "name": "Digital Self",
+      "url": "https://open.spotify.com/track/1NGiJCk7ca274tEp0xiwmt"
     },
     {
       "added_at": null,
@@ -307,22 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Still Love",
-        "url": "https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d"
-      },
-      "artists": [
-        {
-          "name": "Teenage Wrist",
-          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
-        }
-      ],
-      "duration_ms": 226886,
-      "name": "Digital Self",
-      "url": "https://open.spotify.com/track/1NGiJCk7ca274tEp0xiwmt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chrome Neon Jesus",
         "url": "https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw"
       },
@@ -339,8 +323,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dazed (2025 Remaster)",
-        "url": "https://open.spotify.com/album/1j1bXCYdHvtqEBQQ3ntInH"
+        "name": "Still Love",
+        "url": "https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d"
       },
       "artists": [
         {
@@ -348,9 +332,25 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 302376,
-      "name": "Summer (Remastered)",
-      "url": "https://open.spotify.com/track/5Sjjk1pNHyIewQUAzQtcYZ"
+      "duration_ms": 224214,
+      "name": "Cold Case",
+      "url": "https://open.spotify.com/track/5G3IvLAzd5V4CzMhh8EBBc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Counting Flies",
+        "url": "https://open.spotify.com/album/1cMUO53ujhy2sdSZdRAQvD"
+      },
+      "artists": [
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        }
+      ],
+      "duration_ms": 339212,
+      "name": "Sparkle / Fade",
+      "url": "https://open.spotify.com/track/54pcxTH4RzzfvTq7f2vWem"
     },
     {
       "added_at": null,
@@ -367,6 +367,22 @@
       "duration_ms": 194978,
       "name": "Yellowbelly",
       "url": "https://open.spotify.com/track/1k9Iq0HDhuadenPEBv7VUQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chrome Neon Jesus",
+        "url": "https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw"
+      },
+      "artists": [
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        }
+      ],
+      "duration_ms": 223875,
+      "name": "Chrome Neon Jesus",
+      "url": "https://open.spotify.com/track/5sGU6CsPHoY0xngEjsBPkQ"
     },
     {
       "added_at": null,
@@ -391,8 +407,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chrome Neon Jesus",
-        "url": "https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw"
+        "name": "Dazed (2025 Remaster)",
+        "url": "https://open.spotify.com/album/1j1bXCYdHvtqEBQQ3ntInH"
       },
       "artists": [
         {
@@ -400,9 +416,9 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 223875,
-      "name": "Chrome Neon Jesus",
-      "url": "https://open.spotify.com/track/5sGU6CsPHoY0xngEjsBPkQ"
+      "duration_ms": 302376,
+      "name": "Summer (Remastered)",
+      "url": "https://open.spotify.com/track/5Sjjk1pNHyIewQUAzQtcYZ"
     },
     {
       "added_at": null,
@@ -416,25 +432,9 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 339212,
-      "name": "Sparkle / Fade",
-      "url": "https://open.spotify.com/track/54pcxTH4RzzfvTq7f2vWem"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dazed (2025 Remaster)",
-        "url": "https://open.spotify.com/album/1j1bXCYdHvtqEBQQ3ntInH"
-      },
-      "artists": [
-        {
-          "name": "Teenage Wrist",
-          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
-        }
-      ],
-      "duration_ms": 277038,
-      "name": "Bloom (Remastered)",
-      "url": "https://open.spotify.com/track/1g299OyEF4WpiZ2DIq32u3"
+      "duration_ms": 213953,
+      "name": "Believe In The Wrong Things",
+      "url": "https://open.spotify.com/track/45CZwozIAJgbWlIzEjCRf5"
     },
     {
       "added_at": null,
@@ -455,8 +455,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Counting Flies",
-        "url": "https://open.spotify.com/album/1cMUO53ujhy2sdSZdRAQvD"
+        "name": "Dazed (2025 Remaster)",
+        "url": "https://open.spotify.com/album/1j1bXCYdHvtqEBQQ3ntInH"
       },
       "artists": [
         {
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
         }
       ],
-      "duration_ms": 213953,
-      "name": "Believe In The Wrong Things",
-      "url": "https://open.spotify.com/track/45CZwozIAJgbWlIzEjCRf5"
+      "duration_ms": 277038,
+      "name": "Bloom (Remastered)",
+      "url": "https://open.spotify.com/track/1g299OyEF4WpiZ2DIq32u3"
     }
   ],
   "unique_name": "This Is Teenage Wrist",

@@ -4,7 +4,7 @@
 
 > Tous les plus grands succès de la chanson française des années 60\. Photo : Claude François
 
-77 songs - 3 hr 50 min
+79 songs - 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Aline](https://open.spotify.com/track/7Jqh8o6yV7EeFokJX5gQsa) | [Christophe](https://open.spotify.com/artist/6MmRTVIPIe35OsFqWgRKQJ) | [Original Album Classics](https://open.spotify.com/album/2AIYwfhUGyroQaXLRXxZm2) | 2:50 | 2023-09-22 | 2023-12-07 |
 | [Armstrong](https://open.spotify.com/track/1mR2KQy1rN55wbCr0rfAqN) | [Claude Nougaro](https://open.spotify.com/artist/115Iq0OjPxUUyWOIiF2pIR) | [Sa Majesté Le Jazz](https://open.spotify.com/album/0vTAUALKHMjkO2kVzxIqZB) | 3:17 | 2023-09-22 |  |
 | [Armstrong](https://open.spotify.com/track/1V021MMTOGURDZxkDBMaG9) | [Claude Nougaro](https://open.spotify.com/artist/115Iq0OjPxUUyWOIiF2pIR) | [Jazz Et Java](https://open.spotify.com/album/0Becl0XzJp8Z1zunK1vdrn) | 3:17 | 2023-09-22 | 2024-04-19 |
+| [Belles! Belles! Belles!](https://open.spotify.com/track/7wYpB83H0dKcV7yw8tlwId) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ) | [En avant les yéyés](https://open.spotify.com/album/2ZMAOqWb5XF4O8lGWei5lD) | 2:14 | 2025-12-28 |  |
 | [Bonnie And Clyde](https://open.spotify.com/track/1bQEtxhbN45ZIiwcJiU1Lw) | [Brigitte Bardot](https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy), [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [Initials B.B.](https://open.spotify.com/album/6kU0UT8xklbfy6Z5pXDtSU) | 4:16 | 2023-09-22 |  |
 | [Capri c'est fini](https://open.spotify.com/track/0PIAMCcvkLZ6P2YwWZ1e5H) | [Hervé Vilard](https://open.spotify.com/artist/1HkC0LOaynhYSGcNklyIcd) | [Capri C'Est Fini](https://open.spotify.com/album/6ZsIMeATSXlD60nK0kADB7) | 3:37 | 2023-09-22 |  |
 | [Chez Laurette](https://open.spotify.com/track/5wFRjYT36LES0ks92OeXyD) | [Michel Delpech](https://open.spotify.com/artist/4T795JhhCZMWM01DLcX98p) | [Chez Laurette](https://open.spotify.com/album/0Jk7WSIVTnppDevKYjEpOv) | 3:29 | 2023-09-22 |  |
@@ -63,6 +64,7 @@
 | [Le métèque](https://open.spotify.com/track/2TjuDrTCg04AIad0p6021c) | [Georges Moustaki](https://open.spotify.com/artist/0P4PF0pSB8hBeL1keuPwdG) | [Gold](https://open.spotify.com/album/4GbqCRXpTh9LMuVWn7F0Eo) | 2:29 | 2023-09-22 | 2024-01-30 |
 | [Le métèque](https://open.spotify.com/track/7kCzEpWWPpsnB9CiukqiCC) | [Georges Moustaki](https://open.spotify.com/artist/0P4PF0pSB8hBeL1keuPwdG) | [l'essentiel 2003](https://open.spotify.com/album/1qbiDd5YS7O8clvFlJL4j8) | 2:31 | 2023-09-22 |  |
 | [Le métèque](https://open.spotify.com/track/2s87dcsw2KjuhDnVqJ98Cu) | [Georges Moustaki](https://open.spotify.com/artist/0P4PF0pSB8hBeL1keuPwdG) | [Le métèque](https://open.spotify.com/album/3VONguYy652EV7N4KFH4LF) | 2:33 | 2023-09-22 | 2024-04-19 |
+| [Le téléfon](https://open.spotify.com/track/5MkRyZiEyNnosHTAYs23Mx) | [Nino Ferrer](https://open.spotify.com/artist/3THqHCN7gq2Z9hLleof9uv) | [Nino Ferrer](https://open.spotify.com/album/5M6ImA7adD4TpBV5wFq7DG) | 2:47 | 2025-12-28 |  |
 | [Les Champs\-Elysées](https://open.spotify.com/track/4VWbPQUPvLes814r6T11Jz) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [Les Champs\-Elysées](https://open.spotify.com/album/70VszGJ7SagYgjotM7zvrX) | 2:37 | 2023-09-22 |  |
 | [Les copains d'abord](https://open.spotify.com/track/2tsW3Lr6LatRZz7Bbe3CBK) | [Georges Brassens](https://open.spotify.com/artist/5UWyW1PcEM8coxeqg3RIHr) | [Georges Brassens N°10](https://open.spotify.com/album/0y9YoYaHJNk6f9mUP7jhvR) | 4:01 | 2023-09-22 |  |
 | [Les copains d'abord](https://open.spotify.com/track/5MRyPM2k1lvwt3noWp0GXJ) | [Georges Brassens](https://open.spotify.com/artist/5UWyW1PcEM8coxeqg3RIHr) | [Les Copains D'Abord](https://open.spotify.com/album/4lQ45mAu5gYotfGJrgDuJn) | 4:01 | 2023-09-22 | 2024-04-19 |
@@ -77,13 +79,13 @@
 | [Poupée de cire, poupée de son](https://open.spotify.com/track/0e3LOEZR3NwbbHFGPYr3uQ) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [Chansons Françaises](https://open.spotify.com/album/4o970crCLaxSZo18jDN7eo) | 2:33 | 2023-09-22 |  |
 | [Poupée de cire, poupée de son](https://open.spotify.com/track/26tXIAnv90FCv1eJiCUusH) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [Hits chanson française](https://open.spotify.com/album/3skN1JzAWSzzeeXe6Kxvna) | 2:33 | 2023-09-22 | 2024-04-19 |
 | [Santiano](https://open.spotify.com/track/5xacwJHf9yLJKCn5JjSiRz) | [Hugues Aufray](https://open.spotify.com/artist/6TOGbRYHQizlf3adIyugol) | [Santiano](https://open.spotify.com/album/6onOMFxBc1HP3Oq75NF8a5) | 2:12 | 2023-09-22 |  |
-| [Stewball](https://open.spotify.com/track/6VWex3iRJFdsKeY18uI67E) | [Hugues Aufray](https://open.spotify.com/artist/6TOGbRYHQizlf3adIyugol) | [Santiano](https://open.spotify.com/album/6onOMFxBc1HP3Oq75NF8a5) | 2:52 | 2024-06-20 |  |
+| [Stewball](https://open.spotify.com/track/6VWex3iRJFdsKeY18uI67E) | [Hugues Aufray](https://open.spotify.com/artist/6TOGbRYHQizlf3adIyugol) | [Santiano](https://open.spotify.com/album/6onOMFxBc1HP3Oq75NF8a5) | 2:52 | 2024-06-20 | 2025-12-29 |
 | [Tombe la neige](https://open.spotify.com/track/6NVx24kOU2B8IZ0HsY2fUz) | [Salvatore Adamo](https://open.spotify.com/artist/37r3ZUhErh0QPJENMsAPBG) | [Mes plus belles chansons d'amour](https://open.spotify.com/album/0iptDBG98BUELZzglvwUSc) | 2:57 | 2023-09-22 |  |
 | [Tombe La Neige](https://open.spotify.com/track/3d7EDEz4PLcXP9pufWVu6Y) | [Salvatore Adamo](https://open.spotify.com/artist/37r3ZUhErh0QPJENMsAPBG) | [Adamo \- studio 1](https://open.spotify.com/album/5UR5XXp6YVvI9kRRUgdNtl) | 3:02 | 2023-09-22 | 2024-04-19 |
 | [Toulouse](https://open.spotify.com/track/4Ose68cyLGiTCCsJ6iLp2z) | [Claude Nougaro](https://open.spotify.com/artist/115Iq0OjPxUUyWOIiF2pIR) | [Toulouse 1965\-1968](https://open.spotify.com/album/13Cr79G98YMqz6n7msaJhX) | 4:21 | 2024-06-20 |  |
 | [Tous les garçons et les filles \- Stereo Mix](https://open.spotify.com/track/0Yg1hSAUgd2AAneReFOVzS) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g) | [Tous les garçons et les filles](https://open.spotify.com/album/0TcP4beTgxQmREuHJ7BBY2) | 3:07 | 2023-09-22 |  |
 | [Toute la pluie tombe sur moi](https://open.spotify.com/track/199J8Nvx5oDmOKwAhtt9f1) | [Sacha Distel](https://open.spotify.com/artist/1si0MhutSLRlQbxiBV08tz) | [Sacha Distel: Crooner](https://open.spotify.com/album/1HioIbajn5pHxM7A0uMpKV) | 3:00 | 2023-09-22 |  |
 | [Vesoul](https://open.spotify.com/track/2F94KDtJjCdzZYCQWBliRC) | [Jacques Brel](https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs) | [J'Arrive \(Vol.12\)](https://open.spotify.com/album/75JBZy6ctvayGftnldYMzZ) | 3:06 | 2023-09-22 |  |
-| [Vous les copains](https://open.spotify.com/track/0iBuBfrOhxRgOWS0OS5GfP) | [Sheila](https://open.spotify.com/artist/5fhRcv2KU96vbXqNE2FEdu) | [Écoute ce disque](https://open.spotify.com/album/7bpj2WDFw6pukdOPDEbFwp) | 2:13 | 2023-09-22 |  |
+| [Vous les copains](https://open.spotify.com/track/0iBuBfrOhxRgOWS0OS5GfP) | [Sheila](https://open.spotify.com/artist/5fhRcv2KU96vbXqNE2FEdu) | [Écoute ce disque](https://open.spotify.com/album/7bpj2WDFw6pukdOPDEbFwp) | 2:13 | 2023-09-22 | 2025-12-29 |
 
 \*This playlist was first scraped on 2023-09-29. Prior content cannot be recovered.

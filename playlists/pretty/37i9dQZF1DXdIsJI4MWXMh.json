@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A gastar la suela con lo mejor de la ranchera chilena! Foto: Grupo Z\u00fambale Primo, & Coraz\u00f3n Serrano.",
-  "num_followers": 78197,
+  "num_followers": 78236,
   "original_name": "Ranchera Chilena",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,6 @@
     {
       "added_at": "2025-09-18 20:11:00",
       "album": {
-        "name": "Sue\u00f1o Su Boca",
-        "url": "https://open.spotify.com/album/73aIXXhkTKeQ4fz72gVcrr"
-      },
-      "artists": [
-        {
-          "name": "Peregrinos del Amor",
-          "url": "https://open.spotify.com/artist/5xuReDWUr32LPHVtCXE6gM"
-        }
-      ],
-      "duration_ms": 217375,
-      "name": "Ya No Siento Nada",
-      "url": "https://open.spotify.com/track/4p1jnv8tDRg7e3XvQuesbX"
-    },
-    {
-      "added_at": "2025-09-18 20:11:00",
-      "album": {
         "name": "Vuelve la Mezcla Perfecta",
         "url": "https://open.spotify.com/album/2BPdd9wGkShuGrRClT60ou"
       },
@@ -471,22 +455,18 @@
     {
       "added_at": "2025-09-18 20:11:00",
       "album": {
-        "name": "Nacieron para Triunfar, Vol. 1",
-        "url": "https://open.spotify.com/album/37wrVwHHXeP8fHf8E8dPw0"
+        "name": "Sue\u00f1o Su Boca",
+        "url": "https://open.spotify.com/album/73aIXXhkTKeQ4fz72gVcrr"
       },
       "artists": [
         {
-          "name": "Los Chacales del Maule",
-          "url": "https://open.spotify.com/artist/3JwCj883t6VDr4EXsn0UYN"
-        },
-        {
-          "name": "Zona Ranchera",
-          "url": "https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ"
+          "name": "Peregrinos del Amor",
+          "url": "https://open.spotify.com/artist/5xuReDWUr32LPHVtCXE6gM"
         }
       ],
-      "duration_ms": 279840,
-      "name": "Por Debajo del Agua",
-      "url": "https://open.spotify.com/track/3QPfTAedVVyalXRfplJIKY"
+      "duration_ms": 217375,
+      "name": "Ya No Siento Nada",
+      "url": "https://open.spotify.com/track/4p1jnv8tDRg7e3XvQuesbX"
     },
     {
       "added_at": "2025-09-18 20:11:00",
@@ -503,6 +483,26 @@
       "duration_ms": 256489,
       "name": "Me Quisiste Jugar A La Mala",
       "url": "https://open.spotify.com/track/46PIRSCePoQ6iJ8cFeZtAi"
+    },
+    {
+      "added_at": "2025-09-18 20:11:00",
+      "album": {
+        "name": "Nacieron para Triunfar, Vol. 1",
+        "url": "https://open.spotify.com/album/37wrVwHHXeP8fHf8E8dPw0"
+      },
+      "artists": [
+        {
+          "name": "Los Chacales del Maule",
+          "url": "https://open.spotify.com/artist/3JwCj883t6VDr4EXsn0UYN"
+        },
+        {
+          "name": "Zona Ranchera",
+          "url": "https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ"
+        }
+      ],
+      "duration_ms": 279840,
+      "name": "Por Debajo del Agua",
+      "url": "https://open.spotify.com/track/3QPfTAedVVyalXRfplJIKY"
     },
     {
       "added_at": "2025-09-18 20:11:00",
@@ -559,6 +559,22 @@
     {
       "added_at": "2025-09-18 20:11:00",
       "album": {
+        "name": "La Nueva Fiesta de los Charros",
+        "url": "https://open.spotify.com/album/7KD3IwiAS6qxvq8O29PDHv"
+      },
+      "artists": [
+        {
+          "name": "Los Charros De Lumaco",
+          "url": "https://open.spotify.com/artist/6diRAnbJMBmn4MXIS4IHYk"
+        }
+      ],
+      "duration_ms": 221680,
+      "name": "Charros para Rato",
+      "url": "https://open.spotify.com/track/2zVkQBc220Acc5Ie41uR40"
+    },
+    {
+      "added_at": "2025-09-18 20:11:00",
+      "album": {
         "name": "Nacieron para Triunfar, Vol. 1",
         "url": "https://open.spotify.com/album/37wrVwHHXeP8fHf8E8dPw0"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 169466,
       "name": "Sombrero Vaquero",
       "url": "https://open.spotify.com/track/3dNAZRp5BnwVuKa7NDjGfE"
-    },
-    {
-      "added_at": "2025-09-18 20:11:00",
-      "album": {
-        "name": "La Nueva Fiesta de los Charros",
-        "url": "https://open.spotify.com/album/7KD3IwiAS6qxvq8O29PDHv"
-      },
-      "artists": [
-        {
-          "name": "Los Charros De Lumaco",
-          "url": "https://open.spotify.com/artist/6diRAnbJMBmn4MXIS4IHYk"
-        }
-      ],
-      "duration_ms": 221680,
-      "name": "Charros para Rato",
-      "url": "https://open.spotify.com/track/2zVkQBc220Acc5Ie41uR40"
     },
     {
       "added_at": "2025-09-18 20:11:00",
@@ -651,6 +651,22 @@
     {
       "added_at": "2025-09-18 20:11:00",
       "album": {
+        "name": "La Nueva Fiesta de los Charros",
+        "url": "https://open.spotify.com/album/7KD3IwiAS6qxvq8O29PDHv"
+      },
+      "artists": [
+        {
+          "name": "Los Charros De Lumaco",
+          "url": "https://open.spotify.com/artist/6diRAnbJMBmn4MXIS4IHYk"
+        }
+      ],
+      "duration_ms": 316240,
+      "name": "C\u00f3mo Dejar de Amarte y Otros",
+      "url": "https://open.spotify.com/track/53u3hNXGUNCYLjKnnC3Sji"
+    },
+    {
+      "added_at": "2025-09-18 20:11:00",
+      "album": {
         "name": "La Noche Perfecta",
         "url": "https://open.spotify.com/album/5BcggGB8QbXUArz5JXHl5K"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 265789,
       "name": "La Noche Perfecta",
       "url": "https://open.spotify.com/track/3FZnUqmNQNYUH4wvrcCfZT"
-    },
-    {
-      "added_at": "2025-09-18 20:11:00",
-      "album": {
-        "name": "La Nueva Fiesta de los Charros",
-        "url": "https://open.spotify.com/album/7KD3IwiAS6qxvq8O29PDHv"
-      },
-      "artists": [
-        {
-          "name": "Los Charros De Lumaco",
-          "url": "https://open.spotify.com/artist/6diRAnbJMBmn4MXIS4IHYk"
-        }
-      ],
-      "duration_ms": 316240,
-      "name": "C\u00f3mo Dejar de Amarte y Otros",
-      "url": "https://open.spotify.com/track/53u3hNXGUNCYLjKnnC3Sji"
     },
     {
       "added_at": "2025-09-18 20:11:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2025-09-18 20:11:00",
       "album": {
-        "name": "Con M\u00e1s Sed, Sed, Sed",
-        "url": "https://open.spotify.com/album/36JZENel0gYjI758f7wdDL"
-      },
-      "artists": [
-        {
-          "name": "La Banda Tropikal de Vallenar",
-          "url": "https://open.spotify.com/artist/61S5D7HbBCFMHFV77354nD"
-        }
-      ],
-      "duration_ms": 211022,
-      "name": "Tenemos Sed",
-      "url": "https://open.spotify.com/track/3tUZSfOxeROwCicMofYeew"
-    },
-    {
-      "added_at": "2025-09-18 20:11:00",
-      "album": {
         "name": "La Carta N\u00b0 3",
         "url": "https://open.spotify.com/album/4qxiaha02ksLXnX6Gbomm3"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 181026,
       "name": "La Carta N\u00b03 - 1986 Digital Remaster",
       "url": "https://open.spotify.com/track/4pBSj32cmoESOE2np5lKmQ"
+    },
+    {
+      "added_at": "2025-09-18 20:11:00",
+      "album": {
+        "name": "Con M\u00e1s Sed, Sed, Sed",
+        "url": "https://open.spotify.com/album/36JZENel0gYjI758f7wdDL"
+      },
+      "artists": [
+        {
+          "name": "La Banda Tropikal de Vallenar",
+          "url": "https://open.spotify.com/artist/61S5D7HbBCFMHFV77354nD"
+        }
+      ],
+      "duration_ms": 211022,
+      "name": "Tenemos Sed",
+      "url": "https://open.spotify.com/track/3tUZSfOxeROwCicMofYeew"
     },
     {
       "added_at": "2025-09-18 20:11:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2025-09-18 20:11:00",
       "album": {
-        "name": "Para Nuestra Gente",
-        "url": "https://open.spotify.com/album/0GrlpcJCnQtifPuKcJaKMK"
-      },
-      "artists": [
-        {
-          "name": "Los tremendos laureles",
-          "url": "https://open.spotify.com/artist/6kj1gcKlqrvaKAMbBNgp2U"
-        }
-      ],
-      "duration_ms": 200100,
-      "name": "Sin Coronas Ni Reinas",
-      "url": "https://open.spotify.com/track/4lH1QljMIcW8Au5WksCpxP"
-    },
-    {
-      "added_at": "2025-09-18 20:11:00",
-      "album": {
         "name": "Amor Traicionero",
         "url": "https://open.spotify.com/album/1rBNGTq5QjIQNAQPoCMaei"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 256346,
       "name": "Amor Traicionero",
       "url": "https://open.spotify.com/track/0wR0jWstWqLdQvjdalQIKM"
+    },
+    {
+      "added_at": "2025-09-18 20:11:00",
+      "album": {
+        "name": "Para Nuestra Gente",
+        "url": "https://open.spotify.com/album/0GrlpcJCnQtifPuKcJaKMK"
+      },
+      "artists": [
+        {
+          "name": "Los tremendos laureles",
+          "url": "https://open.spotify.com/artist/6kj1gcKlqrvaKAMbBNgp2U"
+        }
+      ],
+      "duration_ms": 200100,
+      "name": "Sin Coronas Ni Reinas",
+      "url": "https://open.spotify.com/track/4lH1QljMIcW8Au5WksCpxP"
     },
     {
       "added_at": "2025-09-18 20:11:00",
@@ -899,8 +899,8 @@
     {
       "added_at": "2025-09-18 20:11:00",
       "album": {
-        "name": "18 Exitos",
-        "url": "https://open.spotify.com/album/0wYu6VATuQ9vuMvrZzXf2c"
+        "name": "Tengo Que Olvidar",
+        "url": "https://open.spotify.com/album/16xfSSoDDHPQccvkyP3BF1"
       },
       "artists": [
         {
@@ -908,9 +908,9 @@
           "url": "https://open.spotify.com/artist/6r90tCIVqGvSHLouiTUhQW"
         }
       ],
-      "duration_ms": 253960,
-      "name": "Mujer Traicionera",
-      "url": "https://open.spotify.com/track/470NyufWXbCRyJTh35n4Go"
+      "duration_ms": 303902,
+      "name": "Tengo Que Olvidar",
+      "url": "https://open.spotify.com/track/1bulmqK7DEFoD39t3Oh7Wv"
     },
     {
       "added_at": "2025-09-18 20:11:00",
@@ -987,8 +987,8 @@
     {
       "added_at": "2025-09-18 20:11:00",
       "album": {
-        "name": "Tengo Que Olvidar",
-        "url": "https://open.spotify.com/album/16xfSSoDDHPQccvkyP3BF1"
+        "name": "18 Exitos",
+        "url": "https://open.spotify.com/album/0wYu6VATuQ9vuMvrZzXf2c"
       },
       "artists": [
         {
@@ -996,9 +996,9 @@
           "url": "https://open.spotify.com/artist/6r90tCIVqGvSHLouiTUhQW"
         }
       ],
-      "duration_ms": 303902,
-      "name": "Tengo Que Olvidar",
-      "url": "https://open.spotify.com/track/1bulmqK7DEFoD39t3Oh7Wv"
+      "duration_ms": 253960,
+      "name": "Mujer Traicionera",
+      "url": "https://open.spotify.com/track/470NyufWXbCRyJTh35n4Go"
     },
     {
       "added_at": "2025-09-18 20:11:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2025-09-18 20:11:00",
       "album": {
-        "name": "Lo Mejor 25 \u00c9xitos",
-        "url": "https://open.spotify.com/album/2aXbc0E0847VqiSWrbsVc4"
-      },
-      "artists": [
-        {
-          "name": "Rene Inostroza",
-          "url": "https://open.spotify.com/artist/3D3id8MJojsRORQb64SG3O"
-        }
-      ],
-      "duration_ms": 154746,
-      "name": "La Guaracha del Fay Fay",
-      "url": "https://open.spotify.com/track/3HaboMKL38YA8iHQZSejKt"
-    },
-    {
-      "added_at": "2025-09-18 20:11:00",
-      "album": {
         "name": "Entre el Amor y el Odio",
         "url": "https://open.spotify.com/album/5gjgNFQSFUxRa0Bi5DuKCo"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 188577,
       "name": "Mi Complice",
       "url": "https://open.spotify.com/track/2ZpdaHko5m2cehTqfLFMIs"
+    },
+    {
+      "added_at": "2025-09-18 20:11:00",
+      "album": {
+        "name": "Lo Mejor 25 \u00c9xitos",
+        "url": "https://open.spotify.com/album/2aXbc0E0847VqiSWrbsVc4"
+      },
+      "artists": [
+        {
+          "name": "Rene Inostroza",
+          "url": "https://open.spotify.com/artist/3D3id8MJojsRORQb64SG3O"
+        }
+      ],
+      "duration_ms": 154746,
+      "name": "La Guaracha del Fay Fay",
+      "url": "https://open.spotify.com/track/3HaboMKL38YA8iHQZSejKt"
     },
     {
       "added_at": "2025-09-18 20:11:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2025-09-18 20:11:00",
       "album": {
-        "name": "La Diuca",
-        "url": "https://open.spotify.com/album/7xzyEyU06MNtW4VlOVH9E7"
-      },
-      "artists": [
-        {
-          "name": "Zumba Ranchera",
-          "url": "https://open.spotify.com/artist/7yqVm4qWAFjxvtw5R9HHLu"
-        }
-      ],
-      "duration_ms": 200248,
-      "name": "La Diuca",
-      "url": "https://open.spotify.com/track/1MPLrlcAb3gQ89tffm0kXD"
-    },
-    {
-      "added_at": "2025-09-18 20:11:00",
-      "album": {
         "name": "Siempre Villanos",
         "url": "https://open.spotify.com/album/14yl58zWBYJ70CziQoaA6E"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 220203,
       "name": "Maldita Sea la Primera Vez",
       "url": "https://open.spotify.com/track/3lMCr3w4Z1wnugLe1TMaQ4"
+    },
+    {
+      "added_at": "2025-09-18 20:11:00",
+      "album": {
+        "name": "La Diuca",
+        "url": "https://open.spotify.com/album/7xzyEyU06MNtW4VlOVH9E7"
+      },
+      "artists": [
+        {
+          "name": "Zumba Ranchera",
+          "url": "https://open.spotify.com/artist/7yqVm4qWAFjxvtw5R9HHLu"
+        }
+      ],
+      "duration_ms": 200248,
+      "name": "La Diuca",
+      "url": "https://open.spotify.com/track/1MPLrlcAb3gQ89tffm0kXD"
     },
     {
       "added_at": "2025-09-18 20:11:00",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2025-09-18 20:11:00",
       "album": {
-        "name": "Escribiendo Nuestra Historia",
-        "url": "https://open.spotify.com/album/6QoONIyh3A2VhSXtuLcncS"
+        "name": "Golero Emparamao",
+        "url": "https://open.spotify.com/album/35DKFImacmTdYePcu2utI7"
       },
       "artists": [
         {
-          "name": "Los Bohemios de Chile",
-          "url": "https://open.spotify.com/artist/093pBQ2Jix4lhkhgMg5ye4"
+          "name": "Koky y su banda tropical ranchera",
+          "url": "https://open.spotify.com/artist/0NsSi0eIkQ5z2CDDQ9RGGf"
         }
       ],
-      "duration_ms": 252651,
-      "name": "Deja de Llorar",
-      "url": "https://open.spotify.com/track/6uFhH3AMgjOfIbMmnH7XA2"
+      "duration_ms": 268324,
+      "name": "Golero Emparamao",
+      "url": "https://open.spotify.com/track/6gOBJrl6mbrtr5NUFaTbYj"
     },
     {
       "added_at": "2025-09-18 20:11:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2025-09-18 20:11:00",
       "album": {
-        "name": "Golero Emparamao",
-        "url": "https://open.spotify.com/album/35DKFImacmTdYePcu2utI7"
-      },
-      "artists": [
-        {
-          "name": "Koky y su banda tropical ranchera",
-          "url": "https://open.spotify.com/artist/0NsSi0eIkQ5z2CDDQ9RGGf"
-        }
-      ],
-      "duration_ms": 268324,
-      "name": "Golero Emparamao",
-      "url": "https://open.spotify.com/track/6gOBJrl6mbrtr5NUFaTbYj"
-    },
-    {
-      "added_at": "2025-09-18 20:11:00",
-      "album": {
         "name": "Cumbias",
         "url": "https://open.spotify.com/album/3mPPWnzitqTU3DnKj6njLY"
       },
@@ -1299,6 +1283,38 @@
       "duration_ms": 235994,
       "name": "El Chorito de Violeta",
       "url": "https://open.spotify.com/track/3vNVMRiqxnmrUobBOMpzaW"
+    },
+    {
+      "added_at": "2025-09-18 20:11:00",
+      "album": {
+        "name": "Me Voy a Emborrachar",
+        "url": "https://open.spotify.com/album/6TnjtS7lx7GB4Ku22NX8ZW"
+      },
+      "artists": [
+        {
+          "name": "Ram\u00f3n Rimac",
+          "url": "https://open.spotify.com/artist/6d6QJqFsGRZmm8boMVAALN"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "El \u00daltimo Trago",
+      "url": "https://open.spotify.com/track/3jQOI7vNZXMWy3ETXHVCGR"
+    },
+    {
+      "added_at": "2025-09-18 20:11:00",
+      "album": {
+        "name": "Escribiendo Nuestra Historia",
+        "url": "https://open.spotify.com/album/6QoONIyh3A2VhSXtuLcncS"
+      },
+      "artists": [
+        {
+          "name": "Los Bohemios de Chile",
+          "url": "https://open.spotify.com/artist/093pBQ2Jix4lhkhgMg5ye4"
+        }
+      ],
+      "duration_ms": 252651,
+      "name": "Deja de Llorar",
+      "url": "https://open.spotify.com/track/6uFhH3AMgjOfIbMmnH7XA2"
     },
     {
       "added_at": "2025-09-18 20:11:00",
@@ -1335,22 +1351,6 @@
     {
       "added_at": "2025-09-18 20:11:00",
       "album": {
-        "name": "Me Voy a Emborrachar",
-        "url": "https://open.spotify.com/album/6TnjtS7lx7GB4Ku22NX8ZW"
-      },
-      "artists": [
-        {
-          "name": "Ram\u00f3n Rimac",
-          "url": "https://open.spotify.com/artist/6d6QJqFsGRZmm8boMVAALN"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "El \u00daltimo Trago",
-      "url": "https://open.spotify.com/track/3jQOI7vNZXMWy3ETXHVCGR"
-    },
-    {
-      "added_at": "2025-09-18 20:11:00",
-      "album": {
         "name": "Puro Sur Puro Chile",
         "url": "https://open.spotify.com/album/5YWjUPIjgoWkKHKgdHBNIG"
       },
@@ -1363,26 +1363,6 @@
       "duration_ms": 210693,
       "name": "Mil Cantinas",
       "url": "https://open.spotify.com/track/4RqPXmm4yUUgDxSIbu4nOf"
-    },
-    {
-      "added_at": "2025-09-18 20:11:00",
-      "album": {
-        "name": "La Nueva Cumbia del Pueblo",
-        "url": "https://open.spotify.com/album/2kzejhpjHj1v40pl7m72h2"
-      },
-      "artists": [
-        {
-          "name": "Los Lumaquinos Alegres",
-          "url": "https://open.spotify.com/artist/1XfppfgRosYjV7yZfLPUH0"
-        },
-        {
-          "name": "Zona Ranchera",
-          "url": "https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ"
-        }
-      ],
-      "duration_ms": 202400,
-      "name": "Mar\u00eda Elena",
-      "url": "https://open.spotify.com/track/4ZfLKMRWeAIhPhPlkIDLNv"
     },
     {
       "added_at": "2025-09-18 20:11:00",
@@ -1403,6 +1383,26 @@
       "duration_ms": 196662,
       "name": "Pecado de Amor",
       "url": "https://open.spotify.com/track/1o4te8zmQt1mE2yxoXXoAz"
+    },
+    {
+      "added_at": "2025-09-18 20:11:00",
+      "album": {
+        "name": "La Nueva Cumbia del Pueblo",
+        "url": "https://open.spotify.com/album/2kzejhpjHj1v40pl7m72h2"
+      },
+      "artists": [
+        {
+          "name": "Los Lumaquinos Alegres",
+          "url": "https://open.spotify.com/artist/1XfppfgRosYjV7yZfLPUH0"
+        },
+        {
+          "name": "Zona Ranchera",
+          "url": "https://open.spotify.com/artist/7Cl7eiETaiSr1HrZ4PhmaZ"
+        }
+      ],
+      "duration_ms": 202400,
+      "name": "Mar\u00eda Elena",
+      "url": "https://open.spotify.com/track/4ZfLKMRWeAIhPhPlkIDLNv"
     },
     {
       "added_at": "2025-09-18 20:11:00",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2025-09-18 20:11:00",
       "album": {
+        "name": "Todos a la Pista",
+        "url": "https://open.spotify.com/album/4BVbDeIBlFIHn59PGam34e"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Sandoval De Calbuco",
+          "url": "https://open.spotify.com/artist/3pSbDa9T4z7Rz51MKXXaLm"
+        }
+      ],
+      "duration_ms": 270883,
+      "name": "Como Quisiera Poder",
+      "url": "https://open.spotify.com/track/7qWb5LYBem5C41FDqql1ae"
+    },
+    {
+      "added_at": "2025-09-18 20:11:00",
+      "album": {
         "name": "La Nueva Cumbia del Pueblo",
         "url": "https://open.spotify.com/album/2kzejhpjHj1v40pl7m72h2"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 191920,
       "name": "Sufriendo por Tu Amor",
       "url": "https://open.spotify.com/track/2Nyi9cEtUdRvtxJ3WG09ik"
-    },
-    {
-      "added_at": "2025-09-18 20:11:00",
-      "album": {
-        "name": "Todos a la Pista",
-        "url": "https://open.spotify.com/album/4BVbDeIBlFIHn59PGam34e"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Sandoval De Calbuco",
-          "url": "https://open.spotify.com/artist/3pSbDa9T4z7Rz51MKXXaLm"
-        }
-      ],
-      "duration_ms": 270883,
-      "name": "Como Quisiera Poder",
-      "url": "https://open.spotify.com/track/7qWb5LYBem5C41FDqql1ae"
     },
     {
       "added_at": "2025-09-18 20:11:00",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2025-09-18 20:11:00",
       "album": {
+        "name": "\u00c9xitos Inolvidables",
+        "url": "https://open.spotify.com/album/750F3BvETRBIM13YvhQXpq"
+      },
+      "artists": [
+        {
+          "name": "Los Reales del Valle",
+          "url": "https://open.spotify.com/artist/6PMVAKrQsE450lfX25uEgO"
+        }
+      ],
+      "duration_ms": 213529,
+      "name": "El Amante Apasionado",
+      "url": "https://open.spotify.com/track/72zI9fJ5NLz9TG7Q0XTXXS"
+    },
+    {
+      "added_at": "2025-09-18 20:11:00",
+      "album": {
         "name": "La Nueva Cumbia del Pueblo",
         "url": "https://open.spotify.com/album/2kzejhpjHj1v40pl7m72h2"
       },
@@ -1571,22 +1587,6 @@
     {
       "added_at": "2025-09-18 20:11:00",
       "album": {
-        "name": "\u00c9xitos Inolvidables",
-        "url": "https://open.spotify.com/album/750F3BvETRBIM13YvhQXpq"
-      },
-      "artists": [
-        {
-          "name": "Los Reales del Valle",
-          "url": "https://open.spotify.com/artist/6PMVAKrQsE450lfX25uEgO"
-        }
-      ],
-      "duration_ms": 213529,
-      "name": "El Amante Apasionado",
-      "url": "https://open.spotify.com/track/72zI9fJ5NLz9TG7Q0XTXXS"
-    },
-    {
-      "added_at": "2025-09-18 20:11:00",
-      "album": {
         "name": "Galantes y Caballeros",
         "url": "https://open.spotify.com/album/2Chfx3gyFuWYb7NfjM9pW2"
       },
@@ -1599,6 +1599,22 @@
       "duration_ms": 152816,
       "name": "Galantes y Caballeros",
       "url": "https://open.spotify.com/track/41d9HYA4qgfQ51sc5Vvyjg"
+    },
+    {
+      "added_at": "2025-09-18 20:11:00",
+      "album": {
+        "name": "Entre el Amor y el Odio",
+        "url": "https://open.spotify.com/album/5gjgNFQSFUxRa0Bi5DuKCo"
+      },
+      "artists": [
+        {
+          "name": "Lupita Aguilar",
+          "url": "https://open.spotify.com/artist/3Hn4kMDi1EFK7690fnMMyb"
+        }
+      ],
+      "duration_ms": 194481,
+      "name": "Como T\u00fa Decidas",
+      "url": "https://open.spotify.com/track/52HGHPj6pZPmcHJTI8pgK7"
     },
     {
       "added_at": "2025-09-18 20:11:00",
@@ -1619,22 +1635,6 @@
       "duration_ms": 188156,
       "name": "Dame Tu Pelo Ni\u00f1a",
       "url": "https://open.spotify.com/track/4ht12mGJ4B7wf7cJ4wmxuI"
-    },
-    {
-      "added_at": "2025-09-18 20:11:00",
-      "album": {
-        "name": "Entre el Amor y el Odio",
-        "url": "https://open.spotify.com/album/5gjgNFQSFUxRa0Bi5DuKCo"
-      },
-      "artists": [
-        {
-          "name": "Lupita Aguilar",
-          "url": "https://open.spotify.com/artist/3Hn4kMDi1EFK7690fnMMyb"
-        }
-      ],
-      "duration_ms": 194481,
-      "name": "Como T\u00fa Decidas",
-      "url": "https://open.spotify.com/track/52HGHPj6pZPmcHJTI8pgK7"
     },
     {
       "added_at": "2025-09-18 20:11:00",

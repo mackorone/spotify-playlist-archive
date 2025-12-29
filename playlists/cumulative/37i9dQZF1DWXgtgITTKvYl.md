@@ -2,7 +2,7 @@
 
 ### [Prog Rock](https://open.spotify.com/playlist/37i9dQZF1DWXgtgITTKvYl)
 
-> A collection of best Prog Rock tracks\. Cover: Dream Theater
+> A collection of the best recent Prog Rock tracks\. Cover: Weather Systems
 
 483 songs - 1 day 18 hr 54 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0zub2o.md) - [plain]
 
 > This is Pantera\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 318,962 likes - 40 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 318,986 likes - 40 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0zub2o.md) - [plain]
 | 39 | [Avoid the Light](https://open.spotify.com/track/7BkWSwQXa1hSa3c2fqBjwu) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Reinventing the Steel \(20th Anniversary Edition\)](https://open.spotify.com/album/6OuB0VXwf8uJQdRTxfzsH3) | 6:26 |
 | 40 | [Uplift](https://open.spotify.com/track/2aVoFviZYOZ10L19Bc7zdd) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Reinventing the Steel](https://open.spotify.com/album/7sEY94y1wQACVwMgeE62hd) | 3:45 |
 
-Snapshot ID: `aU3QAAAAAAAvZ0nzg7b0MdckL5AS8PFu`
+Snapshot ID: `aU8hgAAAAAClOkjMnLOrLoHAlwRf1N/1`

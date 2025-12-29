@@ -4,7 +4,7 @@
 
 > This is Ryan Adams\. The essential tracks, all in one playlist.
 
-276 songs - 16 hr 50 min
+277 songs - 16 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Fantasy File](https://open.spotify.com/track/5dSlrUiUVTPDAbH5GE0Gll) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [FM](https://open.spotify.com/album/2nyRzNE9J2uZmJUgJGeO6d) | 3:21 | 2022-08-30 | 2022-10-28 |
 | [Firecracker](https://open.spotify.com/track/27FB2JgWXsWWwU5FKHaS4m) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Gold](https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc) | 2:51 | 2022-01-12 |  |
 | [Flicker in the Fade](https://open.spotify.com/track/0JCXykmQ7NQxQHE8skH8xL) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Chris](https://open.spotify.com/album/1MMiRTfDofw1aZpg91ls5X) | 3:50 | 2022-04-08 | 2022-04-30 |
+| [Fools Game](https://open.spotify.com/track/2PbXkkeNg2vHci3JDiCv6n) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Self Portrait](https://open.spotify.com/album/4J03eL5elU6NiNV2C41YVl) | 3:38 | 2025-12-29 |  |
 | [For The Sun](https://open.spotify.com/track/2bpEmw2NIgls7IrCIEayrv) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [BLACKHOLE](https://open.spotify.com/album/1MoCKOv0WAsaLq01voKMAD) | 2:24 | 2024-12-08 | 2025-02-24 |
 | [Free Bird \- Live from Brussels, Belgium\. 2023](https://open.spotify.com/track/1SvonsO64oFlCKvbh91aGX) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Candy Says \(Live from Brussels, Belgium\. 2023\)](https://open.spotify.com/album/2kspNWSth47GH6DwITiDVq) | 3:08 | 2024-10-28 | 2024-11-15 |
 | [Free Your Self](https://open.spotify.com/track/13P1ibb6Q290L4Z5gq55Ec) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Devolver](https://open.spotify.com/album/1C5CVsW4oyntbxWjsd1e1h) | 2:59 | 2022-11-20 | 2023-02-17 |
@@ -216,7 +217,7 @@
 | [So Lost](https://open.spotify.com/track/3onoAfOvc9c2FrmvWb9shy) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Star Sign](https://open.spotify.com/album/2x8DeimfQt0UaXeBRDxpAS) | 3:41 | 2024-01-05 | 2024-04-29 |
 | [Some Might Say](https://open.spotify.com/track/7x6ABBb79YOYtEAxTMzsal) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Morning Glory](https://open.spotify.com/album/7IlQpxt7VLEUVgh4eSRFAO) | 4:08 | 2023-04-17 | 2023-07-28 |
 | [Someday](https://open.spotify.com/track/5cDkShsp5scmWw4gc2z3lX) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [FM](https://open.spotify.com/album/2nyRzNE9J2uZmJUgJGeO6d) | 3:09 | 2022-08-21 | 2022-10-31 |
-| [Someone On my Mind](https://open.spotify.com/track/3V123jeAM3oXRebk3YL93u) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Self Portrait](https://open.spotify.com/album/4J03eL5elU6NiNV2C41YVl) | 2:24 | 2025-12-03 |  |
+| [Someone On my Mind](https://open.spotify.com/track/3V123jeAM3oXRebk3YL93u) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Self Portrait](https://open.spotify.com/album/4J03eL5elU6NiNV2C41YVl) | 2:24 | 2025-12-03 | 2025-12-29 |
 | [Somethings Missing](https://open.spotify.com/track/0VbtIu7vYixBGAfh8GxzRv) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Romeo & Juliet](https://open.spotify.com/album/18PHfu6JEvh0iRaTVOdsvw) | 2:17 | 2022-05-16 | 2024-11-01 |
 | [Speeding Car](https://open.spotify.com/track/74wT3PlIHz8txEw5wHtzF1) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Star Sign](https://open.spotify.com/album/2x8DeimfQt0UaXeBRDxpAS) | 3:27 | 2024-01-04 | 2024-08-15 |
 | [Spinning Wheel](https://open.spotify.com/track/1xVQRTGM6LQJ0Ft9NIohrT) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Chris](https://open.spotify.com/album/1MMiRTfDofw1aZpg91ls5X) | 2:38 | 2022-04-07 | 2022-10-13 |

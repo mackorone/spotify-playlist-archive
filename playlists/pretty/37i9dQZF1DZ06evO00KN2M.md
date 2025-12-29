@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00KN2M.md) - [plain]
 
 > This is Fleetwood Mac\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,141,362 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,141,575 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00KN2M.md) - [plain]
 | 49 | [I Loved Another Woman](https://open.spotify.com/track/1bElCb3PUzvfpxEPCA6fmY) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/45i41n53udGyswkJ9uR8pB) | 2:55 |
 | 50 | [Oh Diane \- 2016 Remaster](https://open.spotify.com/track/5JNOmrqg6hee3mtWMwYMPN) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mirage \(2016 Remaster\)](https://open.spotify.com/album/2962eYkQa0R7EnIGZqeARS) | 2:38 |
 
-Snapshot ID: `aU3QAAAAAAAtkNSoyycfaMDmD6yEGaCy`
+Snapshot ID: `aU8hgAAAAAAZmVgS2cibrxqfuz3XpJ22`

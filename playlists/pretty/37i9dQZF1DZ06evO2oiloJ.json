@@ -1,12 +1,12 @@
 {
   "description": "This is Rod Wave. The essential tracks, all in one playlist.",
-  "num_followers": 246393,
+  "num_followers": 246433,
   "original_name": "This Is Rod Wave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU3QAAAAAACMrNaxvioIUpcExTPBC2rS",
+  "snapshot_id": "aU8hgAAAAABXl9NbA2oDt2lciArYf6hh",
   "tracks": [
     {
       "added_at": null,
@@ -479,22 +479,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Last Slimeto",
-        "url": "https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw"
+        "name": "Ghetto Gospel",
+        "url": "https://open.spotify.com/album/1ft5RivOWEdZT3nfqThV7K"
       },
       "artists": [
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        },
         {
           "name": "Rod Wave",
           "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
         }
       ],
-      "duration_ms": 141166,
-      "name": "Home Ain't Home (feat. Rod Wave)",
-      "url": "https://open.spotify.com/track/0oPpchtgx4hZ2J246g5mqn"
+      "duration_ms": 144960,
+      "name": "Dark Conversation",
+      "url": "https://open.spotify.com/track/5lQvcmJHBcCHMFEusim8bH"
     },
     {
       "added_at": null,
@@ -515,18 +511,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ghetto Gospel",
-        "url": "https://open.spotify.com/album/1ft5RivOWEdZT3nfqThV7K"
+        "name": "The Last Slimeto",
+        "url": "https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw"
       },
       "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        },
         {
           "name": "Rod Wave",
           "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
         }
       ],
-      "duration_ms": 144960,
-      "name": "Dark Conversation",
-      "url": "https://open.spotify.com/track/5lQvcmJHBcCHMFEusim8bH"
+      "duration_ms": 141166,
+      "name": "Home Ain't Home (feat. Rod Wave)",
+      "url": "https://open.spotify.com/track/0oPpchtgx4hZ2J246g5mqn"
     },
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SoulFly",
-        "url": "https://open.spotify.com/album/7q5xGp0tEnJ8s1ZumqiRSk"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 180705,
-      "name": "Changing",
-      "url": "https://open.spotify.com/track/4vUGwPNjByeo5nFuyxZoy0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SoulFly (Deluxe Version)",
         "url": "https://open.spotify.com/album/15BnishwaiZhh0ZY3fnxMN"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 205714,
       "name": "2019",
       "url": "https://open.spotify.com/track/5uDCagy7HnW0b3qBHfaOAO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SoulFly",
+        "url": "https://open.spotify.com/album/7q5xGp0tEnJ8s1ZumqiRSk"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 180705,
+      "name": "Changing",
+      "url": "https://open.spotify.com/track/4vUGwPNjByeo5nFuyxZoy0"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tw5tib6ZrB.md) - [plain]
 
 > Monster Hiphop anthems to unlock your day\. Tracks from Polo G, J Hus, 21 Savage and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,658 likes - 60 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,699 likes - 60 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tw5tib6ZrB.md) - [plain]
 | 59 | [Somebody](https://open.spotify.com/track/1GpslorH7Gi64x8uodyvfO) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Somebody](https://open.spotify.com/album/39jgucp2ZAo3pYpG3AcUY1) | 3:22 |
 | 60 | [DUMBO](https://open.spotify.com/track/1rQEgtQNsj63xIUzEmKbML) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 3:58 |
 
-Snapshot ID: `AAAAAOSMfVqptmbjrOd6SyyWikjFmTiL`
+Snapshot ID: `AAAAAFfDcI/BVlks/tMJvGI/1mGOON2n`

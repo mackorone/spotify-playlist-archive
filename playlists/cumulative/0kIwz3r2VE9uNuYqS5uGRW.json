@@ -477,6 +477,28 @@
     },
     {
       "album": {
+        "name": "MMXXII",
+        "url": "https://open.spotify.com/album/6vRRH7PlhC05goJHMlpwGN"
+      },
+      "artists": [
+        {
+          "name": "Roses!Hands!",
+          "url": "https://open.spotify.com/artist/2IIPLXX4gc8oKR37sOsa9o"
+        },
+        {
+          "name": "DJ Rozwell",
+          "url": "https://open.spotify.com/artist/5ETn9pXrEi2upRr6P87jew"
+        }
+      ],
+      "date_added": "2025-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217107,
+      "name": "Crying (In September)",
+      "url": "https://open.spotify.com/track/6DhVlfBpDjqnGQHx2LhxK2"
+    },
+    {
+      "album": {
         "name": "Cueca Vermelha",
         "url": "https://open.spotify.com/album/4hJlPnSql0scw26e7qr0l4"
       },

@@ -1,6 +1,6 @@
 {
   "description": "Fantastiske viser fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 80338,
+  "num_followers": 80339,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2025-10-16 22:00:35",
       "album": {
-        "name": "Bestevenn (Bonus Version)",
-        "url": "https://open.spotify.com/album/7M0cXZCjiZ4tjewFs25Nwy"
-      },
-      "artists": [
-        {
-          "name": "Odd Nordstoga",
-          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
-        }
-      ],
-      "duration_ms": 225800,
-      "name": "Ein farfar i livet",
-      "url": "https://open.spotify.com/track/0J5d8MHv2n0QmyJwkcHN2f"
-    },
-    {
-      "added_at": "2025-10-16 22:00:35",
-      "album": {
         "name": "Godmorgen, s\u00f8ster",
         "url": "https://open.spotify.com/album/2io6ZizFfn0SkBpw1oRa4G"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 270693,
       "name": "Tir n'a Noir",
       "url": "https://open.spotify.com/track/34OsKR8YdiZol46Ny1bjjA"
+    },
+    {
+      "added_at": "2025-10-16 22:00:35",
+      "album": {
+        "name": "Bestevenn (Bonus Version)",
+        "url": "https://open.spotify.com/album/7M0cXZCjiZ4tjewFs25Nwy"
+      },
+      "artists": [
+        {
+          "name": "Odd Nordstoga",
+          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
+        }
+      ],
+      "duration_ms": 225800,
+      "name": "Ein farfar i livet",
+      "url": "https://open.spotify.com/track/0J5d8MHv2n0QmyJwkcHN2f"
     },
     {
       "added_at": "2025-10-16 22:00:35",
@@ -223,22 +223,6 @@
     {
       "added_at": "2025-10-16 22:00:35",
       "album": {
-        "name": "Bestevenn (Bonus Version)",
-        "url": "https://open.spotify.com/album/7M0cXZCjiZ4tjewFs25Nwy"
-      },
-      "artists": [
-        {
-          "name": "Odd Nordstoga",
-          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
-        }
-      ],
-      "duration_ms": 244120,
-      "name": "Bestevenn",
-      "url": "https://open.spotify.com/track/0bQLTkISNpcZ70TbGGisTA"
-    },
-    {
-      "added_at": "2025-10-16 22:00:35",
-      "album": {
         "name": "Liten fuggel (Med kommentarer)",
         "url": "https://open.spotify.com/album/2rPi9btQoagJ9Kzv6Hg8tr"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 191173,
       "name": "Liten fuggel",
       "url": "https://open.spotify.com/track/5ZCHRkU8DiInkWQmzpfckE"
+    },
+    {
+      "added_at": "2025-10-16 22:00:35",
+      "album": {
+        "name": "Bestevenn (Bonus Version)",
+        "url": "https://open.spotify.com/album/7M0cXZCjiZ4tjewFs25Nwy"
+      },
+      "artists": [
+        {
+          "name": "Odd Nordstoga",
+          "url": "https://open.spotify.com/artist/64zdCzD7lOFBTIpQBSH8Uv"
+        }
+      ],
+      "duration_ms": 244120,
+      "name": "Bestevenn",
+      "url": "https://open.spotify.com/track/0bQLTkISNpcZ70TbGGisTA"
     },
     {
       "added_at": "2025-10-16 22:00:35",
@@ -483,18 +483,18 @@
     {
       "added_at": "2025-10-16 22:00:35",
       "album": {
-        "name": "Bru over m\u00f8rke b\u00f8lger",
-        "url": "https://open.spotify.com/album/6XUfS1htXyTvLsxZDKLyY4"
+        "name": "De N\u00e6re Ting",
+        "url": "https://open.spotify.com/album/1AGrD04xDQrvxRamd8m9ih"
       },
       "artists": [
         {
-          "name": "Trygve Skaug",
-          "url": "https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n"
+          "name": "Ingrid Olava",
+          "url": "https://open.spotify.com/artist/31QXbjGMTpXUWhhAFtIkmQ"
         }
       ],
-      "duration_ms": 299333,
-      "name": "Bru over m\u00f8rke b\u00f8lger",
-      "url": "https://open.spotify.com/track/0BX8d3ykK2rTOI3W5ZMdaf"
+      "duration_ms": 138412,
+      "name": "De N\u00e6re Ting",
+      "url": "https://open.spotify.com/track/0k9J6f4A22q8JXqU8atMuz"
     },
     {
       "added_at": "2025-10-16 22:00:35",
@@ -515,18 +515,18 @@
     {
       "added_at": "2025-10-16 22:00:35",
       "album": {
-        "name": "De N\u00e6re Ting",
-        "url": "https://open.spotify.com/album/1AGrD04xDQrvxRamd8m9ih"
+        "name": "Bru over m\u00f8rke b\u00f8lger",
+        "url": "https://open.spotify.com/album/6XUfS1htXyTvLsxZDKLyY4"
       },
       "artists": [
         {
-          "name": "Ingrid Olava",
-          "url": "https://open.spotify.com/artist/31QXbjGMTpXUWhhAFtIkmQ"
+          "name": "Trygve Skaug",
+          "url": "https://open.spotify.com/artist/1Vd2c4IrEtcO5mrIwbep6n"
         }
       ],
-      "duration_ms": 138412,
-      "name": "De N\u00e6re Ting",
-      "url": "https://open.spotify.com/track/0k9J6f4A22q8JXqU8atMuz"
+      "duration_ms": 299333,
+      "name": "Bru over m\u00f8rke b\u00f8lger",
+      "url": "https://open.spotify.com/track/0BX8d3ykK2rTOI3W5ZMdaf"
     },
     {
       "added_at": "2025-10-16 22:00:35",
@@ -579,26 +579,6 @@
     {
       "added_at": "2025-10-16 22:00:35",
       "album": {
-        "name": "De Beste",
-        "url": "https://open.spotify.com/album/5Fad9LPUjww4yGt13jITUe"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f8rn Eidsv\u00e5g",
-          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
-        },
-        {
-          "name": "Lisa Nilsson",
-          "url": "https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG"
-        }
-      ],
-      "duration_ms": 239586,
-      "name": "Mysteriet deg",
-      "url": "https://open.spotify.com/track/4Mwc191AVTn2cnlgTJYVrq"
-    },
-    {
-      "added_at": "2025-10-16 22:00:35",
-      "album": {
         "name": "Badebussen",
         "url": "https://open.spotify.com/album/3EmJ7JUoTy85Ah0ITqQ7UX"
       },
@@ -619,6 +599,26 @@
     {
       "added_at": "2025-10-16 22:00:35",
       "album": {
+        "name": "De Beste",
+        "url": "https://open.spotify.com/album/5Fad9LPUjww4yGt13jITUe"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f8rn Eidsv\u00e5g",
+          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
+        },
+        {
+          "name": "Lisa Nilsson",
+          "url": "https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG"
+        }
+      ],
+      "duration_ms": 239586,
+      "name": "Mysteriet deg",
+      "url": "https://open.spotify.com/track/4Mwc191AVTn2cnlgTJYVrq"
+    },
+    {
+      "added_at": "2025-10-16 22:00:35",
+      "album": {
         "name": "Ta Meg Med",
         "url": "https://open.spotify.com/album/3pWcFE43bLCUJhpuziIvHP"
       },
@@ -635,22 +635,6 @@
     {
       "added_at": "2025-10-16 22:00:35",
       "album": {
-        "name": "Kr\u00e5keviks Songbok",
-        "url": "https://open.spotify.com/album/5SdOIn61IrYoS5xg5sejzf"
-      },
-      "artists": [
-        {
-          "name": "Herborg Kr\u00e5kevik",
-          "url": "https://open.spotify.com/artist/5uvwGfXbw7uUF9JI0KqKK5"
-        }
-      ],
-      "duration_ms": 178760,
-      "name": "Den Fyrste Song",
-      "url": "https://open.spotify.com/track/2enwSZWWEhMxCoGaWke2Qe"
-    },
-    {
-      "added_at": "2025-10-16 22:00:35",
-      "album": {
         "name": "Paus synger Paus",
         "url": "https://open.spotify.com/album/1DjWqnJPoObQzAbb8dPwts"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 202000,
       "name": "Mitt lille land",
       "url": "https://open.spotify.com/track/24bYCEcem3tzo3raOOwh01"
+    },
+    {
+      "added_at": "2025-10-16 22:00:35",
+      "album": {
+        "name": "Kr\u00e5keviks Songbok",
+        "url": "https://open.spotify.com/album/5SdOIn61IrYoS5xg5sejzf"
+      },
+      "artists": [
+        {
+          "name": "Herborg Kr\u00e5kevik",
+          "url": "https://open.spotify.com/artist/5uvwGfXbw7uUF9JI0KqKK5"
+        }
+      ],
+      "duration_ms": 178760,
+      "name": "Den Fyrste Song",
+      "url": "https://open.spotify.com/track/2enwSZWWEhMxCoGaWke2Qe"
     },
     {
       "added_at": "2025-10-16 22:00:35",

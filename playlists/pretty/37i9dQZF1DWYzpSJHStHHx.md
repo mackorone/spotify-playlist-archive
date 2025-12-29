@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 
 > All the sunny surf rock you need.
 
-[Spotify](https://open.spotify.com/user/spotify) - 485,048 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 485,030 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 17 | [Oily Heart](https://open.spotify.com/track/066xsSchUAaztnetPLMlVG) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Oily Heart](https://open.spotify.com/album/6C1mqifjEehsmLTMTuYwWC) | 2:14 |
 | 18 | [Border On Border](https://open.spotify.com/track/7yhVm87pJ2vxvK9gntVcxm) | [Night Moves](https://open.spotify.com/artist/6Pled8lBAODAviS574l1Q4) | [Pennied Days](https://open.spotify.com/album/6E06hCaPnbNSR2KhVTa7CJ) | 3:34 |
 | 19 | [Blue](https://open.spotify.com/track/1aabE9A354aSNLZpRWBYPC) | [Famous Friend](https://open.spotify.com/artist/6DaO8J2AaSwUHCRFBQNL9L) | [Blue](https://open.spotify.com/album/0v5gD5ubdVDupIxEPIfeum) | 2:34 |
-| 20 | [Fish on the Sand](https://open.spotify.com/track/3Zd1APgfAFCQXpXYsz5rT5) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Fish on the Sand](https://open.spotify.com/album/4nlrPQBvNN2iygMNk46lCJ) | 3:38 |
-| 21 | [Ballad of the Texas King](https://open.spotify.com/track/3Lm2Em6yWbpOVEX8WDJ92j) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Cut Worms](https://open.spotify.com/album/2RcDC3U0dfYCrniJkBbtE2) | 3:03 |
+| 20 | [Ballad of the Texas King](https://open.spotify.com/track/3Lm2Em6yWbpOVEX8WDJ92j) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Cut Worms](https://open.spotify.com/album/2RcDC3U0dfYCrniJkBbtE2) | 3:03 |
+| 21 | [Fish on the Sand](https://open.spotify.com/track/3Zd1APgfAFCQXpXYsz5rT5) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Fish on the Sand](https://open.spotify.com/album/4nlrPQBvNN2iygMNk46lCJ) | 3:38 |
 | 22 | [Carpop](https://open.spotify.com/track/3ZpJQim8bB9FmqkLch1DGV) | [Daydream Twins](https://open.spotify.com/artist/0qiwAEM4qq3FsocTUgAK0O) | [Daydream Twins](https://open.spotify.com/album/2HvWvA8NGrxcCwgdYZRxIO) | 6:02 |
 | 23 | [Poppies](https://open.spotify.com/track/4oiZ494M5fJgMhdqew0n8p) | [La Luz](https://open.spotify.com/artist/6QRlkjrHz5A62mqeNZz7t3) | [News of the Universe](https://open.spotify.com/album/1GUFHInzictK6bRxCdRUft) | 3:32 |
 | 24 | [Southerly](https://open.spotify.com/track/5DpYq9kUygUHOOR3LKXuYv) | [King Stingray](https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb) | [For The Dreams](https://open.spotify.com/album/408SgNp6BOa0lUetUrnkT1) | 3:45 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 43 | [Valley Girl](https://open.spotify.com/track/7cYuXEJSfRLZUrekVDh6jh) | [The Burkharts](https://open.spotify.com/artist/0zvND4IqnGShzA7X47MIkp) | [Valley Girl](https://open.spotify.com/album/5uHWX7eFyS8dvJq251V8BH) | 3:31 |
 | 44 | [Bangkok](https://open.spotify.com/track/3uftd8akSKkvvja3pD1igZ) | [Alaaska](https://open.spotify.com/artist/2PSFokfsBvr1A9gwgf7QrK) | [Bangkok](https://open.spotify.com/album/2uDorWul1FLNgKtZUMpqtv) | 3:32 |
 | 45 | [Hometown](https://open.spotify.com/track/0mFRpxD2a8hGgvXLIeCGgA) | [Great Gable](https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1) | [Small Fry](https://open.spotify.com/album/2ZxvQr6jlEWSmiCmMpE9VR) | 3:26 |
-| 46 | [Sunday Scaries](https://open.spotify.com/track/67b2q2wgvtlWxiG6ldoJNz) | [LAZY GHOST](https://open.spotify.com/artist/46tdza9HtvQ3nCEU7LRTKz) | [Sunday Scaries](https://open.spotify.com/album/3LqdEUjaPqXbzqlcIQufLY) | 2:52 |
-| 47 | [Obsession](https://open.spotify.com/track/6nOyxthqenZOOl1sWNeg2v) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [Mushroom](https://open.spotify.com/album/2B2c7Sr3eEaEYyM5qrwYyu) | 3:25 |
+| 46 | [Obsession](https://open.spotify.com/track/6nOyxthqenZOOl1sWNeg2v) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [Mushroom](https://open.spotify.com/album/2B2c7Sr3eEaEYyM5qrwYyu) | 3:25 |
+| 47 | [Sunday Scaries](https://open.spotify.com/track/67b2q2wgvtlWxiG6ldoJNz) | [LAZY GHOST](https://open.spotify.com/artist/46tdza9HtvQ3nCEU7LRTKz) | [Sunday Scaries](https://open.spotify.com/album/3LqdEUjaPqXbzqlcIQufLY) | 2:52 |
 | 48 | [Naga Damai](https://open.spotify.com/track/67JfEpAFRL9ODmfh0LI1Yf) | [Cocobolo](https://open.spotify.com/artist/2KL4LWA8Ed7B5SscFbaLsu) | [Naga Damai](https://open.spotify.com/album/1eEyJyPSx9PLnkm6K9qyBo) | 3:37 |
 | 49 | [Right or Wrong](https://open.spotify.com/track/3iblchfWSkursOZywc1MyH) | [Mild Orange](https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf) | [Right or Wrong](https://open.spotify.com/album/1ZcPZPxmi8IS60QSCWfRXK) | 3:27 |
 | 50 | [Sweet Tooth](https://open.spotify.com/track/4AV9YngrMvCchNw5d4lGzw) | [Surfer Girl](https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS) | [Sweet Tooth](https://open.spotify.com/album/27SFSbCBAE0bbvJEO7vQvL) | 2:04 |
@@ -64,22 +64,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 54 | [LCD](https://open.spotify.com/track/2uR01tcAXfzD99eaKQJvBT) | [Ghost Care](https://open.spotify.com/artist/5kbK7MXSEO00Bw9AVTmXdy) | [LCD](https://open.spotify.com/album/7JiblL6oSzGZfiTAin8t4Y) | 3:31 |
 | 55 | [Peace In Me](https://open.spotify.com/track/3WEFEaXOPlC9aYA6bf5yaH) | [Bones and Jones](https://open.spotify.com/artist/5gJ35QfLWXsCmfleo8gPz4) | [In Colour](https://open.spotify.com/album/5DCOPvYMwUPv0UCoFVD1hl) | 4:35 |
 | 56 | [The Way You Talk](https://open.spotify.com/track/7siQxKPvmCuMnXxJ5Hw1ZW) | [The Red Pears](https://open.spotify.com/artist/3FRYBFCNEBWMjk6kvwjHQT) | [The Way You Talk](https://open.spotify.com/album/4Awmos0hQb07Xwdacie1Oq) | 3:18 |
-| 57 | [Never Going Home](https://open.spotify.com/track/0lc5eQRMfsJxV457Yw5GvN) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Just Give In / Never Going Home](https://open.spotify.com/album/0WkcZDizu9ugjmFldcxO3C) | 3:56 |
-| 58 | [Bali Nights](https://open.spotify.com/track/0DbCQ19qemrwPFPeoXsZRP) | [Summer Thieves](https://open.spotify.com/artist/4WCnYYTO46t5FujuWKOc4W) | [Cigarettes In Space](https://open.spotify.com/album/6j0YmnGZ7Qm2ZdtPMT1Gxu) | 3:30 |
-| 59 | [Welcome Back \(To The//Glow\)](https://open.spotify.com/track/3DvyfmtCzjLs01uMqLo7zR) | [Mild Orange](https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf) | [Welcome Back \(To The//Glow\)](https://open.spotify.com/album/7ipoFGqpEQExYVMkOmdZHp) | 4:45 |
+| 57 | [Welcome Back \(To The//Glow\)](https://open.spotify.com/track/3DvyfmtCzjLs01uMqLo7zR) | [Mild Orange](https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf) | [Welcome Back \(To The//Glow\)](https://open.spotify.com/album/7ipoFGqpEQExYVMkOmdZHp) | 4:45 |
+| 58 | [Never Going Home](https://open.spotify.com/track/0lc5eQRMfsJxV457Yw5GvN) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Just Give In / Never Going Home](https://open.spotify.com/album/0WkcZDizu9ugjmFldcxO3C) | 3:56 |
+| 59 | [Bali Nights](https://open.spotify.com/track/0DbCQ19qemrwPFPeoXsZRP) | [Summer Thieves](https://open.spotify.com/artist/4WCnYYTO46t5FujuWKOc4W) | [Cigarettes In Space](https://open.spotify.com/album/6j0YmnGZ7Qm2ZdtPMT1Gxu) | 3:30 |
 | 60 | [Stargazer](https://open.spotify.com/track/3NguJRn6XA8XHaBkIy5VB1) | [Yellow The Sun](https://open.spotify.com/artist/2SMU4gn77Tx3f2b5Lodrag) | [Stargazer](https://open.spotify.com/album/1lepumZo22mVAqL0BbH9ID) | 3:02 |
 | 61 | [Simpin'](https://open.spotify.com/track/1Pb4lLhmdKfTgODHT72ngq) | [LAZY GHOST](https://open.spotify.com/artist/46tdza9HtvQ3nCEU7LRTKz) | [Simpin'](https://open.spotify.com/album/493qZRGlg8auYOJGtj81Ze) | 3:33 |
 | 62 | [Keep on](https://open.spotify.com/track/2xmAT9gY7qZJlEStkbwT9j) | [Lavalove](https://open.spotify.com/artist/3rqzavMb2twmjVAqvDyqq9) | [Love Sick](https://open.spotify.com/album/5PjKhLXDH9qKWcAv4Y8GqK) | 3:07 |
 | 63 | [The Beach](https://open.spotify.com/track/46EDkHBHvcrbvb6sCjGCwF) | [Warbaby](https://open.spotify.com/artist/5l7abo4Er8M2z34HTCczEK) | [The Beach](https://open.spotify.com/album/6G5mImkruaSprUxjInD0jY) | 3:15 |
 | 64 | [Couch Sex](https://open.spotify.com/track/1BGUuiiz8NZZmx7uuuUtuU) | [Gerf](https://open.spotify.com/artist/1HNfkzcazWiwgcfTRiVFaB) | [Can You See The Sunshine? \(EP\)](https://open.spotify.com/album/2dJIYB8giFNwvgCTKMc5wC) | 3:25 |
 | 65 | [Postcode Lover](https://open.spotify.com/track/7CRxgl5YJ2mkhM1Nyq6s8d) | [Dear Sunday](https://open.spotify.com/artist/05GArk2WAfXphqEqjwVAN1) | [Postcode Lover](https://open.spotify.com/album/6lg0c3lhHOYHnJREaycKre) | 2:45 |
-| 66 | [Tommy Bahama](https://open.spotify.com/track/0rAzw6N1msr3fNzqmOLLU9) | [Sebimor](https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH) | [Tommy Bahama](https://open.spotify.com/album/28rGVwaeWzeUOlwaew40FW) | 3:49 |
-| 67 | [MOVING ON](https://open.spotify.com/track/52gV8gK6iG1QXBbAZmrskz) | [Velvet Trip](https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK) | [MOVING ON](https://open.spotify.com/album/2PaJHZzyi7UZJBX57mdbMW) | 4:08 |
+| 66 | [MOVING ON](https://open.spotify.com/track/52gV8gK6iG1QXBbAZmrskz) | [Velvet Trip](https://open.spotify.com/artist/0YFqlnAFjvDH5a6CxineVK) | [MOVING ON](https://open.spotify.com/album/2PaJHZzyi7UZJBX57mdbMW) | 4:08 |
+| 67 | [Tommy Bahama](https://open.spotify.com/track/0rAzw6N1msr3fNzqmOLLU9) | [Sebimor](https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH) | [Tommy Bahama](https://open.spotify.com/album/28rGVwaeWzeUOlwaew40FW) | 3:49 |
 | 68 | [Hideaway](https://open.spotify.com/track/6MoD2aTX0Yc2YjHjG7CxXf) | [Sunsick Daisy](https://open.spotify.com/artist/2lm7q6k1zAICmhLjKLCRo1) | [Hideaway](https://open.spotify.com/album/5vM64OxKlY55VcAfFEJEra) | 3:06 |
 | 69 | [Spice It Up](https://open.spotify.com/track/4Fytcp4IWboBp8s30t8geH) | [Surf Trash](https://open.spotify.com/artist/78DoiOUHouyEPI7aNgqkkm) | [Spice It Up](https://open.spotify.com/album/6faUT2X35btnRYBSxklheZ) | 2:26 |
 | 70 | [Malibu Sunset](https://open.spotify.com/track/6l3pBPNbQK70J740rv5hSi) | [The Travelers](https://open.spotify.com/artist/6vayW66astvaRgv4llGBff) | [Malibu Sunset b/w Hang On](https://open.spotify.com/album/6OpoZzqXgasgMAsqb6n6ol) | 2:08 |
-| 71 | [Cold Summers](https://open.spotify.com/track/4YabnnOnPOl4O9kxy5jsud) | [Crepes](https://open.spotify.com/artist/12yjnt2kvKe5RpkvcUd4fh) | [Cold Summers EP](https://open.spotify.com/album/7Mpey35fVNBAXODN0efPpj) | 2:54 |
-| 72 | [Lara](https://open.spotify.com/track/0ufK29CoMI8H6aWV7BXXbl) | [Blanco Tranco](https://open.spotify.com/artist/4YGf4vtFvFBhfkjKNiLoJH) | [Lara](https://open.spotify.com/album/0Y2mQu3eGq3dry8Ko9A74Q) | 3:05 |
+| 71 | [Lara](https://open.spotify.com/track/0ufK29CoMI8H6aWV7BXXbl) | [Blanco Tranco](https://open.spotify.com/artist/4YGf4vtFvFBhfkjKNiLoJH) | [Lara](https://open.spotify.com/album/0Y2mQu3eGq3dry8Ko9A74Q) | 3:05 |
+| 72 | [Cold Summers](https://open.spotify.com/track/4YabnnOnPOl4O9kxy5jsud) | [Crepes](https://open.spotify.com/artist/12yjnt2kvKe5RpkvcUd4fh) | [Cold Summers EP](https://open.spotify.com/album/7Mpey35fVNBAXODN0efPpj) | 2:54 |
 | 73 | [Ceviche](https://open.spotify.com/track/5HCF5NaxKCb0CniAsqvzAE) | [The Audio Visual Drop Kicks](https://open.spotify.com/artist/0eCbFQwL3GpvgaW1wrjLSI) | [Ceviche](https://open.spotify.com/album/15vi8YHbu0Lfl3o1IGI80i) | 4:05 |
 | 74 | [Midnight Man](https://open.spotify.com/track/31vk2M79Pww97MfuEtpJ2l) | [Tiger Print](https://open.spotify.com/artist/3fpqo6msQ6GSVYTZZBvx1p) | [Midnight Man](https://open.spotify.com/album/3z1IMUXAroeDblsW08xuw7) | 2:39 |
 | 75 | [Floating By](https://open.spotify.com/track/1GecdBfUVVohc8wdSaHvtg) | [Dawson James](https://open.spotify.com/artist/07SRAC48eP073ob1v7iEuL) | [Floating By](https://open.spotify.com/album/1yYbgy37ZesTj0feuFkzJT) | 2:40 |

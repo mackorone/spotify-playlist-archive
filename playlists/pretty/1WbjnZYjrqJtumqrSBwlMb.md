@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,189 songs - 3 day 1 hr 5 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,193 songs - 3 day 1 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1197,5 +1197,9 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 1187 | [You Are](https://open.spotify.com/track/3UCwh3iDpoU68SQMvJHmqU) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [I Heard That Noise](https://open.spotify.com/album/3hXswlXaEoYMiBQ9TZN2wR) | 9:42 |
 | 1188 | [Irish](https://open.spotify.com/track/4X5p1DUnLczYBBMXeAV0yb) | [Sugar Cherry](https://open.spotify.com/artist/0XL4FAwlMdPd4UxmPnTPUd) | [Land of Pine](https://open.spotify.com/album/0mMyd6IDLycxlDihDuOIaM) | 3:13 |
 | 1189 | [Find Your Love](https://open.spotify.com/track/18PSaTJMLkFNWnW0NWdOAW) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Thank Me Later \(Int'l Version\)](https://open.spotify.com/album/6agmeioaDOBupymziJihgB) | 3:28 |
+| 1190 | [Sensitive](https://open.spotify.com/track/6M2qAVElwA5Opyvbur8DqU) | [rozey](https://open.spotify.com/artist/20fOKcudXS3Yyl6ifwXf2u) | [Anything Instead of Anything](https://open.spotify.com/album/6qNzNPw1bqfazXkIxb70Eu) | 4:22 |
+| 1191 | [Get Your Wish](https://open.spotify.com/track/4Mn9mcuSPHfvKy2BSAYxcV) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Nurture](https://open.spotify.com/album/3QITXlmmt93E176jzVqKUb) | 3:38 |
+| 1192 | [Look at the Sky](https://open.spotify.com/track/7LMajLn4v2ZWmLcfE1a7DY) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Nurture](https://open.spotify.com/album/3QITXlmmt93E176jzVqKUb) | 5:09 |
+| 1193 | [Crying, Laughing, Loving, Lying](https://open.spotify.com/track/4QOqvhGpIbEKvQVJAqQa3L) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [Y’all](https://open.spotify.com/album/3QliGTfl4dbkKLI17VkbVl) | 2:23 |
 
-Snapshot ID: `AAAJk63OSAZF3zrJij18WOkKkT1O0X+m`
+Snapshot ID: `AAAJl8oiCMEN2J0FqPyQzrpgzFMUnPpn`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RenIs.md) - [plain]
 
 > This is Phoenix\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,336 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,341 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RenIs.md) - [plain]
 | 7 | [Too Young](https://open.spotify.com/track/2THkQauDWMvJgXFGPY4iKB) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [United](https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68) | 3:17 |
 | 8 | [Entertainment](https://open.spotify.com/track/3kTVKRzfYb7zqz56thbKrj) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Bankrupt!](https://open.spotify.com/album/0NVvSmy2su8nXkCjK0zuWg) | 3:39 |
 | 9 | [Fences](https://open.spotify.com/track/4N7159SXtxwObOFhimCLGW) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/7g4qoHjkYvfFkXJEZCjtc1) | 3:44 |
-| 10 | [Everything Is Everything](https://open.spotify.com/track/3pzJXZ1PW3l3B69PoTx5lC) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alphabetical](https://open.spotify.com/album/0q1YbH7gLkklLFxNBLRKHD) | 2:58 |
-| 11 | [Long Distance Call](https://open.spotify.com/track/7dGubYmPavaI9YNansq9TW) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [It's Never Been Like That \(Deluxe Version\)](https://open.spotify.com/album/2STZqJIh4Kf0OIU5yVgYGV) | 3:06 |
+| 10 | [Long Distance Call](https://open.spotify.com/track/7dGubYmPavaI9YNansq9TW) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [It's Never Been Like That \(Deluxe Version\)](https://open.spotify.com/album/2STZqJIh4Kf0OIU5yVgYGV) | 3:06 |
+| 11 | [Everything Is Everything](https://open.spotify.com/track/3pzJXZ1PW3l3B69PoTx5lC) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alphabetical](https://open.spotify.com/album/0q1YbH7gLkklLFxNBLRKHD) | 2:58 |
 | 12 | [After Midnight \(feat\. Clairo\)](https://open.spotify.com/track/0KIpuVYhKUUUpjo6H5NvBY) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [After Midnight \(feat\. Clairo\)](https://open.spotify.com/album/6xsvkBbeMsrk6HPDBsJEwS) | 3:08 |
 | 13 | [Lasso](https://open.spotify.com/track/3LENMSJJU0LLqcdVgf4JVW) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Wolfgang Amadeus Phoenix](https://open.spotify.com/album/7g4qoHjkYvfFkXJEZCjtc1) | 2:47 |
 | 14 | [Chloroform](https://open.spotify.com/track/0LucKGxWYkj2d0SHdx2WBh) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Bankrupt!](https://open.spotify.com/album/0NVvSmy2su8nXkCjK0zuWg) | 4:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RenIs.md) - [plain]
 | 49 | [My Elixir](https://open.spotify.com/track/0pd2VPSs38dIGQAcPrVydc) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alpha Zulu](https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv) | 3:32 |
 | 50 | [Definitive Breaks](https://open.spotify.com/track/1BfKwzPvTyt45fXq7zUQPZ) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [United](https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68) | 1:40 |
 
-Snapshot ID: `aU3QAAAAAAAR0/wqoWUfbZzws6Ob5JvK`
+Snapshot ID: `aU8hgAAAAABGtKMidhBm+PFztBpmkbr+`

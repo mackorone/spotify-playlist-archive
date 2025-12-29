@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8VyhWnVrn9d.md) - [plain]
 
 > Bailando de caballito, aunque se enoje tu mamá\. Mi Banda El Mexicano en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,352 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 344,467 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8VyhWnVrn9d.md) - [plain]
 | 7 | [El Caderazo](https://open.spotify.com/track/3wDOgYbD6jdtKduk1DScJu) | [Banda Wane Wane](https://open.spotify.com/artist/6HXl6JRLKop2NycFmoHLDD) | [Mi México Lindo](https://open.spotify.com/album/5ZiqSgSrkMyUNMvFwITXGx) | 3:01 |
 | 8 | [La cuca](https://open.spotify.com/track/7xnM2mrHUyb1Lr8gUhj4j7) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [En grande](https://open.spotify.com/album/5J6wDtwCGok12ta08ixCsA) | 2:55 |
 | 9 | [Si Tu Boquita Fuera](https://open.spotify.com/track/4MeagrXRJb7XjSE8FK0n75) | [Banda R\-15](https://open.spotify.com/artist/5l0ZjUz8rAAFVm616in8YR) | [15 Grandes Exitos](https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC) | 2:58 |
-| 10 | [El Llanero Solitario \- Guillermo Tell](https://open.spotify.com/track/3NUYbovgQcsNGE3O3IYHtz) | [Banda Rodeo de Morelos](https://open.spotify.com/artist/3DEQJ5z6j6scYrOHNfbPpu) | [Lo Mejor De..\. \(18 Exitos\)](https://open.spotify.com/album/6nAtdGbuJzkgMTsz1ZYsHj) | 3:39 |
-| 11 | [Caliente Caliente](https://open.spotify.com/track/3wERA0j49lmCJkguFtHWUJ) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Caliente, Caliente](https://open.spotify.com/album/6tTgXH5EBY6FFV37ATLoUR) | 3:14 |
+| 10 | [Caliente Caliente](https://open.spotify.com/track/3wERA0j49lmCJkguFtHWUJ) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Caliente, Caliente](https://open.spotify.com/album/6tTgXH5EBY6FFV37ATLoUR) | 3:14 |
+| 11 | [El Llanero Solitario \- Guillermo Tell](https://open.spotify.com/track/3NUYbovgQcsNGE3O3IYHtz) | [Banda Rodeo de Morelos](https://open.spotify.com/artist/3DEQJ5z6j6scYrOHNfbPpu) | [Lo Mejor De..\. \(18 Exitos\)](https://open.spotify.com/album/6nAtdGbuJzkgMTsz1ZYsHj) | 3:39 |
 | 12 | [El alacrán](https://open.spotify.com/track/0CAVx6y8GAgMDzX9NCW0DI) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Fiesta Mexicana Con La Banda](https://open.spotify.com/album/6X49e9OtUqhMVIpre31k8K) | 2:33 |
 | 13 | [Tenis mágicos](https://open.spotify.com/track/0ZWwLz1hWOiDkjU5Iop5ep) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Tenis Mágicos](https://open.spotify.com/album/3TIOaRXflNZnZWgYjcCK1D) | 2:34 |
 | 14 | [Arreando La Mula](https://open.spotify.com/track/7qX0Ca5ShfAMDjSogZ2Bxu) | [Banda R\-15](https://open.spotify.com/artist/5l0ZjUz8rAAFVm616in8YR) | [15 Grandes Exitos](https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC) | 3:03 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8VyhWnVrn9d.md) - [plain]
 | 30 | [Casimira](https://open.spotify.com/track/10XZJDjzbhIeD8sx409f0N) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [25 Bandazos de Machos \(Vol\. 1\) \[USA\]](https://open.spotify.com/album/641IjGwd385qV3RVouieUv) | 2:52 |
 | 31 | [El Baile de la Cachucha](https://open.spotify.com/track/5ZLMLSXFdSZnADxDoneQ2w) | [Banda Pelillos](https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE) | [El Baile de la Cachucha](https://open.spotify.com/album/5BWPqyh4hndM0qUl6huZKl) | 2:55 |
 | 32 | [No necesitas a Carlo](https://open.spotify.com/track/6aU1ObNgHpMX4CzcNA8O1I) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [25 Bandazos de Pequeños Musical \(Vol\. 1\) \[USA\]](https://open.spotify.com/album/7g3IdcuzbSoWHVKWfKIY2x) | 3:08 |
-| 33 | [El Baile Nuevo](https://open.spotify.com/track/5YHH72zZA62ZsqBMLQMa2l) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Con La No\. 1: Del Pueblo...y Para El Pueblo](https://open.spotify.com/album/67KfLdhQa8X7kI1XM8eJaw) | 2:53 |
-| 34 | [El Gato y Yo](https://open.spotify.com/track/6iNAKM878gy83Y3ZuXYyyQ) | [Super Banda Radar](https://open.spotify.com/artist/1nSIbeSfS5HTPrYDiPza0e) | [El Gato y Yo](https://open.spotify.com/album/5ZmXWGOZmCIK1mcUC9IWKk) | 3:01 |
+| 33 | [El Gato y Yo](https://open.spotify.com/track/6iNAKM878gy83Y3ZuXYyyQ) | [Super Banda Radar](https://open.spotify.com/artist/1nSIbeSfS5HTPrYDiPza0e) | [El Gato y Yo](https://open.spotify.com/album/5ZmXWGOZmCIK1mcUC9IWKk) | 3:01 |
+| 34 | [El Baile Nuevo](https://open.spotify.com/track/5YHH72zZA62ZsqBMLQMa2l) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Con La No\. 1: Del Pueblo...y Para El Pueblo](https://open.spotify.com/album/67KfLdhQa8X7kI1XM8eJaw) | 2:53 |
 | 35 | [Muévete morena](https://open.spotify.com/track/7c4YD4Gr5vmemSYgsujpDN) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Gracias Mujer](https://open.spotify.com/album/1rOawSf0a7ArflNIvebvMr) | 2:58 |
 | 36 | [El Bigotón](https://open.spotify.com/track/2cG5hI7Zwuee0Trkwlvxah) | [Banda Movil](https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK) | [Íconos 25 Éxitos](https://open.spotify.com/album/7MxfcnVjT4jO4WmVrIUP22) | 2:47 |
 | 37 | [Hotel California](https://open.spotify.com/track/3h2HTBcEqFAlHsY8gJJrGn) | [Banda Zeta](https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL) | [Grandes Bandas](https://open.spotify.com/album/6DejTyQTl57yvFotq3l4xg) | 4:17 |

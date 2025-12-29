@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 
 > Bring the festival vibes to wherever you are with these dance bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,228 likes - 70 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,242 likes - 70 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 | 59 | [Both Of Us \- Edit](https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Both Of Us](https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA) | 3:49 |
 | 60 | [My Humps](https://open.spotify.com/track/3BbD2sqk7P7Rc9V0KF9o4s) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip) | [My Humps](https://open.spotify.com/album/4mnGRL7lErjyRJsoCwgJT4) | 3:06 |
 | 61 | [Fine Night](https://open.spotify.com/track/5BoA4ehsprvSzDBuFOPgdA) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Fine Night](https://open.spotify.com/album/43Hg8uG1b3ZpSeP4y8Novn) | 2:41 |
-| 62 | [If Your Girl](https://open.spotify.com/track/17CXft3kDo4QNrO491EFOv) | [Ben Hemsley](https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ), [Gaskin](https://open.spotify.com/artist/17uIxPZilMlZt3g31mL4sm) | [If Your Girl](https://open.spotify.com/album/1N29DkWu39gZjMsU19Kn9k) | 3:50 |
-| 63 | [Reckless \(2024\)](https://open.spotify.com/track/6R3CxqaSQqIQnnpPkm5sno) | [Azari & III](https://open.spotify.com/artist/2DC2KJDKwTf5RGfuWCzAkc), [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc) | [Reckless \(2024\)](https://open.spotify.com/album/5xMk0r8Jr3J66evlcUTMEi) | 2:10 |
+| 62 | [Reckless \(2024\)](https://open.spotify.com/track/6R3CxqaSQqIQnnpPkm5sno) | [Azari & III](https://open.spotify.com/artist/2DC2KJDKwTf5RGfuWCzAkc), [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc) | [Reckless \(2024\)](https://open.spotify.com/album/5xMk0r8Jr3J66evlcUTMEi) | 2:10 |
+| 63 | [If Your Girl](https://open.spotify.com/track/17CXft3kDo4QNrO491EFOv) | [Ben Hemsley](https://open.spotify.com/artist/366L4EjZXBPYbHs9XDQILZ), [Gaskin](https://open.spotify.com/artist/17uIxPZilMlZt3g31mL4sm) | [If Your Girl](https://open.spotify.com/album/1N29DkWu39gZjMsU19Kn9k) | 3:50 |
 | 64 | [Baiana](https://open.spotify.com/track/0xEbe8QpLVSBX6E0wxeS5l) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [CHRSTPHR](https://open.spotify.com/artist/6yu6ruPHJXpEtX3eQpZTCz), [Barbatuques](https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD) | [Baiana](https://open.spotify.com/album/2s8PZkaN35LVwWMoUVEExE) | 1:56 |
 | 65 | [Kimbara](https://open.spotify.com/track/3iHrGCUXfZ4BoOy615Ydbk) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Kimbara](https://open.spotify.com/album/2lrh7eGF5BhF70i5VPJ3Nu) | 3:09 |
 | 66 | [My Head Is A Jungle \- MK Remix / Radio Edit](https://open.spotify.com/track/4NbvIwYcwx8dNGYfUX2bKB) | [Wankelmut](https://open.spotify.com/artist/01e2lCvLZ4fLUIRy68nptH), [Emma Louise](https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [My Head Is A Jungle \(MK Remix / Radio Edit\)](https://open.spotify.com/album/2zOqNJBZAqp57WXXhE4zpn) | 3:25 |

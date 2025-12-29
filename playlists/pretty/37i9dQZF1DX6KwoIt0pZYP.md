@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 
 > soft, chewy & good for the soul\. uwu
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,458 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,486 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,24 +60,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 | 50 | [butterflies](https://open.spotify.com/track/30qPjijrLuNwcGD00Rdj07) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [butterflies](https://open.spotify.com/album/28yz3AHpQ40A1GXQfE5qSv) | 3:32 |
 | 51 | [Wedding Dress](https://open.spotify.com/track/2NO4CA2TFvhGeg7XMz8PmT) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [Solar](https://open.spotify.com/album/2rV8MCYJTfvuvXHZsBH12Z) | 4:02 |
 | 52 | [W.H.U.T](https://open.spotify.com/track/4dtmj7X21gunWoQf98hW5L) | [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy) | [W.H.U.T \(Wanna Hold U Tight\)](https://open.spotify.com/album/33hKzdCUtE6qkQJrJaDuck) | 2:54 |
-| 53 | [I WANT YOU](https://open.spotify.com/track/16GGH8OF6LiSUTTbm8421f) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [PAGTATAG!](https://open.spotify.com/album/7svCelXfTenSbzFXKj3zGF) | 3:43 |
-| 54 | [love you twice](https://open.spotify.com/track/0GLXQAdrh4tdvz0JLw8DX8) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [love you twice](https://open.spotify.com/album/03NnLJWmvbNiDAk8l8W3b4) | 2:52 |
+| 53 | [love you twice](https://open.spotify.com/track/0GLXQAdrh4tdvz0JLw8DX8) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [love you twice](https://open.spotify.com/album/03NnLJWmvbNiDAk8l8W3b4) | 2:52 |
+| 54 | [I WANT YOU](https://open.spotify.com/track/16GGH8OF6LiSUTTbm8421f) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [PAGTATAG!](https://open.spotify.com/album/7svCelXfTenSbzFXKj3zGF) | 3:43 |
 | 55 | [Room For You](https://open.spotify.com/track/7G2om18d9kfV3aNtNfQkzA) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe), [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [Room For You](https://open.spotify.com/album/6NbgKBujDaLM236wpFEwOu) | 3:03 |
 | 56 | [shoot](https://open.spotify.com/track/1lpXnyjEKDzExVyVS1AT1Q) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [shoot](https://open.spotify.com/album/7C3cWsNbYPO76a5qIq8fPM) | 3:34 |
-| 57 | [when the rain stops](https://open.spotify.com/track/3GmdapszNp6FVKA07EtUD2) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [when the rain stopped following me](https://open.spotify.com/album/1PofmLWLes72yEnDBj4dmU) | 3:21 |
-| 58 | [Would You Mind](https://open.spotify.com/track/5kbvcxWFMPNY1zPI3y0wHa) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Making Steak](https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6) | 3:22 |
+| 57 | [Would You Mind](https://open.spotify.com/track/5kbvcxWFMPNY1zPI3y0wHa) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Making Steak](https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6) | 3:22 |
+| 58 | [when the rain stops](https://open.spotify.com/track/3GmdapszNp6FVKA07EtUD2) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [when the rain stopped following me](https://open.spotify.com/album/1PofmLWLes72yEnDBj4dmU) | 3:21 |
 | 59 | [Green Tea & Honey](https://open.spotify.com/track/25kxJg4ykcvM1wphY0yIwt) | [Dane Amar](https://open.spotify.com/artist/5S68VYXiXt6oq30pKqQAuV), [Jereena Montemayor](https://open.spotify.com/artist/45iYm4bGYfT8nY4RxNBhlr) | [East Daygo Popstar](https://open.spotify.com/album/6rDWteiCSfMDHms9Rbx0Wi) | 3:42 |
 | 60 | [Temporary Love](https://open.spotify.com/track/6IbHr3NKr1EXe2Im2cnVZx) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor) | [Temporary Love](https://open.spotify.com/album/08bgugAl607EFEit8Fot7c) | 2:43 |
 | 61 | [INDIGO \(with u\)](https://open.spotify.com/track/1X9BHY12mpgKejetEtMYrx) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [KOLORCOASTER](https://open.spotify.com/album/1LbK9faGw5Fn3WiX4NoA5a) | 2:46 |
 | 62 | [the space between us](https://open.spotify.com/track/4s0m05iPPuTeFlJxAQivGy) | [siopaolo](https://open.spotify.com/artist/4dXBBVDuriULFiOyu5E8Kf) | [the space between us](https://open.spotify.com/album/3MW0W3uEDPpMQyzdVJ9xAx) | 4:13 |
 | 63 | [put it on me](https://open.spotify.com/track/3WSGp3kqtSEbVKLzCWvGGQ) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [put it on me](https://open.spotify.com/album/7ISjczr1BMdAZrrMkxnjhz) | 2:11 |
-| 64 | [Tell Me The Name](https://open.spotify.com/track/2hFpbQpaRHlZhtrYlXIltT) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Tell Me The Name](https://open.spotify.com/album/770EzwgJTG2oM0U6pX1B11) | 3:05 |
-| 65 | [The Way You Look At Me](https://open.spotify.com/track/2EcDqJGlgodoLW0l9EnWa5) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [The Way You Look At Me](https://open.spotify.com/album/0AhITlFtQQGB3X5KAqf7Ng) | 4:11 |
+| 64 | [The Way You Look At Me](https://open.spotify.com/track/2EcDqJGlgodoLW0l9EnWa5) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [The Way You Look At Me](https://open.spotify.com/album/0AhITlFtQQGB3X5KAqf7Ng) | 4:11 |
+| 65 | [Tell Me The Name](https://open.spotify.com/track/2hFpbQpaRHlZhtrYlXIltT) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Tell Me The Name](https://open.spotify.com/album/770EzwgJTG2oM0U6pX1B11) | 3:05 |
 | 66 | [hey, i'm tired](https://open.spotify.com/track/1vkTwwAwzVVin3wqye5w1k) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM) | [life update](https://open.spotify.com/album/2N4ErYoIxBSIXOTMp7sYtf) | 4:05 |
 | 67 | [Zero Pressure](https://open.spotify.com/track/4xWZwHrIn5uS3Nft08Rk5O) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [BINIverse](https://open.spotify.com/album/0N41GI4E4w6irltx8mJhY5) | 2:50 |
 | 68 | [A Room Up In The Sky \(feat\. The Marías\)](https://open.spotify.com/track/2b6tGpbflP62TnzKx9TSDu) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [A Room Up In The Sky \(feat\. The Marías\)](https://open.spotify.com/album/0S4c1T8qWm1ZnCUj9edQq2) | 2:45 |
-| 69 | [Why Don't You Stay \(WorldTour Ver.\)](https://open.spotify.com/track/5zav9TbX94CL4JScexrMmf) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Why Don't You Stay \(WorldTour Ver.\)](https://open.spotify.com/album/66zUgJ1HeZL7C6ric4SYp0) | 4:16 |
-| 70 | [Run Back To You](https://open.spotify.com/track/0W6cB9dPUnsL5iKOpxuSAK) | [LAY](https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Run Back To You](https://open.spotify.com/album/1OEWnZJ9NPQ1U5mpWLPLza) | 3:08 |
+| 69 | [Run Back To You](https://open.spotify.com/track/0W6cB9dPUnsL5iKOpxuSAK) | [LAY](https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Run Back To You](https://open.spotify.com/album/1OEWnZJ9NPQ1U5mpWLPLza) | 3:08 |
+| 70 | [Why Don't You Stay \(WorldTour Ver.\)](https://open.spotify.com/track/5zav9TbX94CL4JScexrMmf) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Why Don't You Stay \(WorldTour Ver.\)](https://open.spotify.com/album/66zUgJ1HeZL7C6ric4SYp0) | 4:16 |
 | 71 | [i hope my cat loves me](https://open.spotify.com/track/3t586kGSELrw77TZvHSvIp) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [stay with the ocean, i'll find you](https://open.spotify.com/album/0brUx2wHWvdatPXvctPYg5) | 3:19 |
 | 72 | [keepyousafe](https://open.spotify.com/track/3Sbova9DAY3pc9GTAACT4b) | [Yahya](https://open.spotify.com/artist/2x49HGCVPqbRxecj0PZq2R) | [keepyousafe](https://open.spotify.com/album/1ay9XEArx0arC0VBJ5hUn9) | 4:21 |
 | 73 | [talk to me](https://open.spotify.com/track/4m1Qw2bLggqiXjasXVp28N) | [starfall](https://open.spotify.com/artist/6h0Wppb5dQnlGpY2zuGstd) | [talk to me](https://open.spotify.com/album/1IVucKXEFoi7YTwrBNBA9b) | 2:40 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 | 97 | [the alternative](https://open.spotify.com/track/4ylj6KTRlC25nhizGTlFPA) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [to love in the 21st century](https://open.spotify.com/album/18pzJc8GyrVQmunRXrY3ch) | 3:03 |
 | 98 | [grateful](https://open.spotify.com/track/7mMzlK2pYVbgkUL1zaGGyV) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 4:01 |
 | 99 | [Steal The Show](https://open.spotify.com/track/2xGRrcajSvRlBbAXds2l7u) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358), [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Steal The Show](https://open.spotify.com/album/33wEkd2cvVdHa8dS3gusji) | 3:00 |
-| 100 | [sad face :\(](https://open.spotify.com/track/3St17urGIaCTW6PD0rgyI5) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [sad face :\(](https://open.spotify.com/album/346wFaSt5f7TfNJfXMKE78) | 3:28 |
+| 100 | [Let Me Know](https://open.spotify.com/track/1SPDWTBH7qcjbZ8zMRXlQ9) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [Let Me Know](https://open.spotify.com/album/1x7V4e67JZoCpJWXSb8Yw1) | 3:08 |
 
 Snapshot ID: `AAAAAPtLYJucm5JacH8SP+lMApqyYf4F`

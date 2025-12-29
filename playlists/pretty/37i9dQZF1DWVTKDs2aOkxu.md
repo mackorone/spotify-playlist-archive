@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 
 > The best indie music of the moment\. Cover: This Is Lorelei
 
-[Spotify](https://open.spotify.com/user/spotify) - 712,901 likes - 80 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 712,854 likes - 80 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 | 79 | [Enough](https://open.spotify.com/track/4ZdyFU2nKBz4rxhxmAjiPM) | [PVA](https://open.spotify.com/artist/2d2ElnqC2cMPp7zcSyv3yG) | [Enough](https://open.spotify.com/album/24VBPyigibEdH27qnaxrqo) | 3:13 |
 | 80 | [Creature](https://open.spotify.com/track/43LXBwC89xoSUGnsMXalIj) | [The Man The Myth The Meatslab](https://open.spotify.com/artist/3uhjejTsZkmlshdJwNP35x) | [Creature](https://open.spotify.com/album/2XbPoShUeTYrHU2R76fDkJ) | 2:43 |
 
-Snapshot ID: `AAAAAGgaZkkIr4u0nPJcuh2Odau74a78`
+Snapshot ID: `AAAAACEdnhignf6XI0LHR5j5zxjjLAWH`

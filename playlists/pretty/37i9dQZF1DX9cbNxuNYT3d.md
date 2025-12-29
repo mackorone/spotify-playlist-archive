@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cbNxuNYT3d.md) - [plain]
 
 > Some of the biggest french touch classics! Cover: Daft Punk
 
-[Spotify](https://open.spotify.com/user/spotify) - 477,257 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 477,341 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cbNxuNYT3d.md) - [plain]
 | 49 | [Rocking Music \(Edit\)](https://open.spotify.com/track/6y5tyuZF4Wyo4pMlfUseXs) | [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl) | [Rocking Music](https://open.spotify.com/album/1iGqmQkFg3TVlB0NuAdn6h) | 3:42 |
 | 50 | [Skatesteak](https://open.spotify.com/track/4QwhvLfdH0gbjeRZgwTBrO) | [Sébastien Tellier](https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z), [Mr\. Oizo](https://open.spotify.com/artist/0b9ukmbg0MO5eMlorcgOwz), [SebastiAn](https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU) | [Steak](https://open.spotify.com/album/6a4wMqczzcvMjgiGWLAI0e) | 2:10 |
 
-Snapshot ID: `AAAAAHmcraFyp/NOKvMt3IdmV7elpore`
+Snapshot ID: `AAAAAGkFz5G+mhU5ZV034EHm5r1wN+Qi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 
 > Det bästa från den svenska reggaescenen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,977 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,981 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 | 45 | [Vända Trend](https://open.spotify.com/track/76ojAV1jvCHGr4kjERxAvD) | [Kiihjano](https://open.spotify.com/artist/028hbxJ2me0XInwSpPsFsT) | [Vända Trend](https://open.spotify.com/album/2gjkIVufFubK1AFtxuE3Pg) | 2:59 |
 | 46 | [Orginalo](https://open.spotify.com/track/5EsssUXKQWbRPSZ7M1i9kN) | [Kaliffa](https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY) | [Orginalo](https://open.spotify.com/album/0a1g53YRYvik2nmVEKqBZq) | 3:06 |
 | 47 | [Vår Dans](https://open.spotify.com/track/0akrglttILrVEe2ncifHsH) | [Antonio D](https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG), [Admiral P](https://open.spotify.com/artist/2P87oRX5tCFl1PYQRbPCPD) | [Vår Dans](https://open.spotify.com/album/2BVFkcAdtAu3vAQZ3jLUS6) | 3:01 |
-| 48 | [Ska vi](https://open.spotify.com/track/5yzm25tJbuTnbmK9hjNiH6) | [Moncho](https://open.spotify.com/artist/6L1yXwZajCFJsGZcCIRuTc), [Lance\-a\-Lot](https://open.spotify.com/artist/2FdlSFwGHTJ6k8rcJpET0L), [Governor Andy](https://open.spotify.com/artist/6jMfbm9y64CESMB5wFtgZx) | [Ska vi](https://open.spotify.com/album/7oWzSnb9fMgx3qo9e4Omz9) | 3:15 |
-| 49 | [Låt oss leva](https://open.spotify.com/track/30rJhrVMHZtStKYxWoJfZf) | [Lani Mo](https://open.spotify.com/artist/45hO5u8evtwIpSYefQHW8P), [Allyawan](https://open.spotify.com/artist/5Pcez7u1H2Po6e2LmMdF3f) | [Låt oss leva](https://open.spotify.com/album/7eZiMT7X683E3WsO5PoMOk) | 3:40 |
+| 48 | [Låt oss leva](https://open.spotify.com/track/30rJhrVMHZtStKYxWoJfZf) | [Lani Mo](https://open.spotify.com/artist/45hO5u8evtwIpSYefQHW8P), [Allyawan](https://open.spotify.com/artist/5Pcez7u1H2Po6e2LmMdF3f) | [Låt oss leva](https://open.spotify.com/album/7eZiMT7X683E3WsO5PoMOk) | 3:40 |
+| 49 | [Ska vi](https://open.spotify.com/track/5yzm25tJbuTnbmK9hjNiH6) | [Moncho](https://open.spotify.com/artist/6L1yXwZajCFJsGZcCIRuTc), [Lance\-a\-Lot](https://open.spotify.com/artist/2FdlSFwGHTJ6k8rcJpET0L), [Governor Andy](https://open.spotify.com/artist/6jMfbm9y64CESMB5wFtgZx) | [Ska vi](https://open.spotify.com/album/7oWzSnb9fMgx3qo9e4Omz9) | 3:15 |
 | 50 | [I mitt hjärta där bor gud](https://open.spotify.com/track/78br2t9sZ5MP5am2TaHDMo) | [Efia Abu](https://open.spotify.com/artist/71sThNzmzZMPkGWPwnNLBy), [Drömbandet](https://open.spotify.com/artist/48wSRq26bDKQnf9hPTXLGW) | [Kärlek & Verkan](https://open.spotify.com/album/2kshyxJqohs7VpPEjTHP4I) | 5:13 |
 
 Snapshot ID: `AAAAAIG/BnjsF39YYER6V33mdFD2x8US`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 
 > a playlist without boundaries, featuring liang lawrence & annika kilkenny✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,968 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,934 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 | 99 | [the kids don't go outside](https://open.spotify.com/track/5TgYFWyGOrlI2on5sL1lh1) | [FJ Law](https://open.spotify.com/artist/5aQanH4qoE1dG9qscoBjpj) | [the kids don't go outside](https://open.spotify.com/album/1eNHAARIdGYKMwfoQHGw0T) | 2:55 |
 | 100 | [Here](https://open.spotify.com/track/10xBkGQDsDJbv5HzZ5J8VM) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Here](https://open.spotify.com/album/2wKXQrkosiXkUQ4ivANjBS) | 3:57 |
 
-Snapshot ID: `AAAAAJ99gssY90NLSoNHgqiIRqbgR3l0`
+Snapshot ID: `AAAAAAK7HLens+HfirqRXx1vyHIcJrCy`

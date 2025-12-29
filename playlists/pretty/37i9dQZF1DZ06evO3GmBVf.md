@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmBVf.md) - [plain]
 
 > This is Lefty Sm\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,907 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,964 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3GmBVf.md) - [plain]
 | 49 | [Voy Por El Oro](https://open.spotify.com/track/5C3siAP7m7PCQgxFaDFYNR) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1) | [Voy Por El Oro](https://open.spotify.com/album/758TpUvJbvcx7esTYZZcz9) | 5:10 |
 | 50 | [Don Tan](https://open.spotify.com/track/2B38Yqihpc3i28Uf4WlRf8) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Don Tan](https://open.spotify.com/album/1IJ0pZPxux1IynJDH0pNJP) | 4:12 |
 
-Snapshot ID: `aU3QAAAAAAAAZxeI0prhWC993Z4edVM0`
+Snapshot ID: `aU8hgAAAAAAwNZtLaBS6gFnvoWsfZvll`

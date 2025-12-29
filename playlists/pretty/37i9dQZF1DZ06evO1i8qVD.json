@@ -1,12 +1,12 @@
 {
   "description": "This is Buddy Guy. The essential tracks, all in one playlist.",
-  "num_followers": 37775,
+  "num_followers": 37790,
   "original_name": "This Is Buddy Guy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU3QAAAAAABbXmy3OxspoBhrL5mOi58B",
+  "snapshot_id": "aU8hgAAAAAAVj4NYGAdAU23NIrH8UkK9",
   "tracks": [
     {
       "added_at": null,
@@ -471,6 +471,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Damn Right, I've Got The Blues",
+        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 418880,
+      "name": "Rememberin' Stevie",
+      "url": "https://open.spotify.com/track/4LGjbJo0qtnuL8O5x7NbkT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hoodoo Man Blues",
         "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
       },
@@ -491,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Damn Right, I've Got The Blues",
-        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
+        "name": "Blues Chase The Blues Away",
+        "url": "https://open.spotify.com/album/6dvnLC5c0ISNbZWJuoALhx"
       },
       "artists": [
         {
@@ -500,29 +516,9 @@
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         }
       ],
-      "duration_ms": 418880,
-      "name": "Rememberin' Stevie",
-      "url": "https://open.spotify.com/track/4LGjbJo0qtnuL8O5x7NbkT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ain't Done With The Blues",
-        "url": "https://open.spotify.com/album/2MIp3zMbggiFAgOOLUgU50"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "Christone \"Kingfish\" Ingram",
-          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
-        }
-      ],
-      "duration_ms": 242274,
-      "name": "Where U At (feat. Christone \"Kingfish\" Ingram)",
-      "url": "https://open.spotify.com/track/2xsb3EAIxVcKOroNRqd0Ka"
+      "duration_ms": 289603,
+      "name": "Blues Chase The Blues Away",
+      "url": "https://open.spotify.com/track/6dDpAO5lP55K0T78HQF3ZS"
     },
     {
       "added_at": null,
@@ -539,22 +535,6 @@
       "duration_ms": 152600,
       "name": "Mary Had A Little Lamb",
       "url": "https://open.spotify.com/track/6TNNss0QAjTi14I5CVfMpJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blues Chase The Blues Away",
-        "url": "https://open.spotify.com/album/6dvnLC5c0ISNbZWJuoALhx"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 289603,
-      "name": "Blues Chase The Blues Away",
-      "url": "https://open.spotify.com/track/6dDpAO5lP55K0T78HQF3ZS"
     },
     {
       "added_at": null,
@@ -579,6 +559,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ain't Done With The Blues",
+        "url": "https://open.spotify.com/album/2MIp3zMbggiFAgOOLUgU50"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
+        }
+      ],
+      "duration_ms": 242274,
+      "name": "Where U At (feat. Christone \"Kingfish\" Ingram)",
+      "url": "https://open.spotify.com/track/2xsb3EAIxVcKOroNRqd0Ka"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Blues Is Alive And Well",
         "url": "https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk"
       },
@@ -599,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Buddy's Baddest: The Best Of Buddy Guy",
-        "url": "https://open.spotify.com/album/1XHcMcEFuTbPQS3ulriFx5"
+        "name": "Rhythm & Blues",
+        "url": "https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM"
       },
       "artists": [
         {
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         }
       ],
-      "duration_ms": 390533,
-      "name": "Miss Ida B",
-      "url": "https://open.spotify.com/track/6sEi4jQuygl91z4gQbSbSh"
+      "duration_ms": 255600,
+      "name": "I Go By Feel",
+      "url": "https://open.spotify.com/track/599KFVKTx45bNXIYhdVCxn"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rhythm & Blues",
-        "url": "https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM"
+        "name": "Buddy's Baddest: The Best Of Buddy Guy",
+        "url": "https://open.spotify.com/album/1XHcMcEFuTbPQS3ulriFx5"
       },
       "artists": [
         {
@@ -644,29 +644,9 @@
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         }
       ],
-      "duration_ms": 255600,
-      "name": "I Go By Feel",
-      "url": "https://open.spotify.com/track/599KFVKTx45bNXIYhdVCxn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ain't Done With The Blues",
-        "url": "https://open.spotify.com/album/2MIp3zMbggiFAgOOLUgU50"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 282792,
-      "name": "Dry Stick (feat. Joe Bonamassa)",
-      "url": "https://open.spotify.com/track/1OYL19WV8Gf1Gx42AS45Xw"
+      "duration_ms": 390533,
+      "name": "Miss Ida B",
+      "url": "https://open.spotify.com/track/6sEi4jQuygl91z4gQbSbSh"
     },
     {
       "added_at": null,
@@ -687,26 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Born To Play Guitar",
-        "url": "https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "Joss Stone",
-          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
-        }
-      ],
-      "duration_ms": 197813,
-      "name": "(Baby) You Got What It Takes (feat. Joss Stone)",
-      "url": "https://open.spotify.com/track/31dzIMOW5SH3UejDcmY6Ws"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rhythm & Blues",
         "url": "https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM"
       },
@@ -723,26 +683,6 @@
       "duration_ms": 224280,
       "name": "One Day Away (feat. Keith Urban)",
       "url": "https://open.spotify.com/track/15e3leRc1c26oStnjjiex6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hoodoo Man Blues",
-        "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
-      },
-      "artists": [
-        {
-          "name": "Junior Wells",
-          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
-        },
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 126933,
-      "name": "Hoodoo Man Blues",
-      "url": "https://open.spotify.com/track/7dVUGBGYrYBJakUw1JKhrq"
     },
     {
       "added_at": null,
@@ -772,13 +712,53 @@
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         },
         {
-          "name": "Peter Frampton",
-          "url": "https://open.spotify.com/artist/0543y7yrvny4KymoaneT4W"
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 176974,
-      "name": "It Keeps Me Young (feat. Peter Frampton)",
-      "url": "https://open.spotify.com/track/2pZANYwnL6wilk3BySvfML"
+      "duration_ms": 282792,
+      "name": "Dry Stick (feat. Joe Bonamassa)",
+      "url": "https://open.spotify.com/track/1OYL19WV8Gf1Gx42AS45Xw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hoodoo Man Blues",
+        "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
+      },
+      "artists": [
+        {
+          "name": "Junior Wells",
+          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
+        },
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 126933,
+      "name": "Hoodoo Man Blues",
+      "url": "https://open.spotify.com/track/7dVUGBGYrYBJakUw1JKhrq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Born To Play Guitar",
+        "url": "https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Joss Stone",
+          "url": "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
+        }
+      ],
+      "duration_ms": 197813,
+      "name": "(Baby) You Got What It Takes (feat. Joss Stone)",
+      "url": "https://open.spotify.com/track/31dzIMOW5SH3UejDcmY6Ws"
     },
     {
       "added_at": null,
@@ -803,6 +783,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ain't Done With The Blues",
+        "url": "https://open.spotify.com/album/2MIp3zMbggiFAgOOLUgU50"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Peter Frampton",
+          "url": "https://open.spotify.com/artist/0543y7yrvny4KymoaneT4W"
+        }
+      ],
+      "duration_ms": 176974,
+      "name": "It Keeps Me Young (feat. Peter Frampton)",
+      "url": "https://open.spotify.com/track/2pZANYwnL6wilk3BySvfML"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hoodoo Man Blues",
         "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
       },
@@ -823,22 +823,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Born To Play Guitar",
-        "url": "https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W"
+        "name": "Heavy Love",
+        "url": "https://open.spotify.com/album/5ihjiZb9879Hd3MjOBaxRu"
       },
       "artists": [
         {
           "name": "Buddy Guy",
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "Billy F Gibbons",
-          "url": "https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw"
         }
       ],
-      "duration_ms": 210533,
-      "name": "Wear You Out (feat. Billy Gibbons)",
-      "url": "https://open.spotify.com/track/41DyUcEAiyVtNCrWElC32R"
+      "duration_ms": 317226,
+      "name": "I Need You Tonight",
+      "url": "https://open.spotify.com/track/3zMdVdZtvJ5wN3onnAecsq"
     },
     {
       "added_at": null,
@@ -863,6 +859,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Born To Play Guitar",
+        "url": "https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Billy F Gibbons",
+          "url": "https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw"
+        }
+      ],
+      "duration_ms": 210533,
+      "name": "Wear You Out (feat. Billy Gibbons)",
+      "url": "https://open.spotify.com/track/41DyUcEAiyVtNCrWElC32R"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ain't Done With The Blues",
         "url": "https://open.spotify.com/album/2MIp3zMbggiFAgOOLUgU50"
       },
@@ -872,25 +888,9 @@
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         }
       ],
-      "duration_ms": 297239,
-      "name": "Blues On Top",
-      "url": "https://open.spotify.com/track/7cmKth6LRPrrTAk76PQ5d3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heavy Love",
-        "url": "https://open.spotify.com/album/5ihjiZb9879Hd3MjOBaxRu"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 317226,
-      "name": "I Need You Tonight",
-      "url": "https://open.spotify.com/track/3zMdVdZtvJ5wN3onnAecsq"
+      "duration_ms": 229409,
+      "name": "Love On A Budget",
+      "url": "https://open.spotify.com/track/2PHyfhg9Eqdkm6gMMsfy43"
     },
     {
       "added_at": null,
@@ -939,18 +939,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ain't Done With The Blues",
-        "url": "https://open.spotify.com/album/2MIp3zMbggiFAgOOLUgU50"
+        "name": "The Blues Don't Lie",
+        "url": "https://open.spotify.com/album/4l9eneOLKyG0u5W4bkDQwp"
       },
       "artists": [
         {
           "name": "Buddy Guy",
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
         }
       ],
-      "duration_ms": 229409,
-      "name": "Love On A Budget",
-      "url": "https://open.spotify.com/track/2PHyfhg9Eqdkm6gMMsfy43"
+      "duration_ms": 221995,
+      "name": "Follow The Money (feat. James Taylor)",
+      "url": "https://open.spotify.com/track/0BjPesQ5R1GbeAqziScKAs"
     }
   ],
   "unique_name": "This Is Buddy Guy",

@@ -1,12 +1,12 @@
 {
   "description": "This is Grouper. The essential tracks, all in one playlist.",
-  "num_followers": 7849,
+  "num_followers": 7851,
   "original_name": "This Is Grouper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU3QAAAAAADx2j8jlTmNHllVgbz2P4Ga",
+  "snapshot_id": "aU8hgAAAAADrg/j81svp8xvP7FfrESij",
   "tracks": [
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 168560,
-      "name": "A Cover Over",
-      "url": "https://open.spotify.com/track/0wFYNeVAVjp7VXxYTLK5yF"
+      "duration_ms": 231800,
+      "name": "Fishing Bird (Empty Gutted in the Evening Breeze)",
+      "url": "https://open.spotify.com/track/637sViSUUQTBice1wmz5id"
     },
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 231800,
-      "name": "Fishing Bird (Empty Gutted in the Evening Breeze)",
-      "url": "https://open.spotify.com/track/637sViSUUQTBice1wmz5id"
+      "duration_ms": 168560,
+      "name": "A Cover Over",
+      "url": "https://open.spotify.com/track/0wFYNeVAVjp7VXxYTLK5yF"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wide",
-        "url": "https://open.spotify.com/album/3iLSxt5fh8f0vN89861WnE"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 186946,
-      "name": "Little Boat/Bone Dance (Audrey)",
-      "url": "https://open.spotify.com/track/1718RopWJWeMuWg93vdbZz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shade",
         "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 231125,
       "name": "Unclean mind",
       "url": "https://open.spotify.com/track/1KoXckcdNDUFPu0MPMIG9Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hold / Sick - Single",
+        "url": "https://open.spotify.com/album/2ZeEvU0R5ZE0Pgr1xRy6IE"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 330373,
+      "name": "Hold",
+      "url": "https://open.spotify.com/track/5khRdxp5670i4gUmJoVxKH"
     },
     {
       "added_at": null,
@@ -715,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hold / Sick - Single",
-        "url": "https://open.spotify.com/album/2ZeEvU0R5ZE0Pgr1xRy6IE"
+        "name": "Wide",
+        "url": "https://open.spotify.com/album/3iLSxt5fh8f0vN89861WnE"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 330373,
-      "name": "Hold",
-      "url": "https://open.spotify.com/track/5khRdxp5670i4gUmJoVxKH"
+      "duration_ms": 186946,
+      "name": "Little Boat/Bone Dance (Audrey)",
+      "url": "https://open.spotify.com/track/1718RopWJWeMuWg93vdbZz"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wide",
-        "url": "https://open.spotify.com/album/3iLSxt5fh8f0vN89861WnE"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 119733,
-      "name": "Make Me Over",
-      "url": "https://open.spotify.com/track/4OlY6a2c0sF9uE1RzSdzsO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shade",
         "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 317749,
       "name": "Basement Mix",
       "url": "https://open.spotify.com/track/19Frh8I9RkXJBwfI2v7cVd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wide",
+        "url": "https://open.spotify.com/album/3iLSxt5fh8f0vN89861WnE"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 119733,
+      "name": "Make Me Over",
+      "url": "https://open.spotify.com/track/4OlY6a2c0sF9uE1RzSdzsO"
     },
     {
       "added_at": null,

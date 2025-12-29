@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53wq0WYtg5L.md) - [plain]
 
 > Celebremos el orgullo mexicano con estas alegres canciones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 553,270 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 553,248 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX53wq0WYtg5L.md) - [plain]
 | 29 | [Huapangos: La Noche y Tú / Tres Consejos / La del Rebozo Blanco / La Verdolaga](https://open.spotify.com/track/7yntezTde0vZ1ZWjUnCp4R) | [Fernando De La Mora](https://open.spotify.com/artist/7n0DgT7oELfGWb30YlRatt), [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Rancheras](https://open.spotify.com/album/66CJEl4OlSPTwff6xnx8s0) | 7:05 |
 | 30 | [El Cascabel](https://open.spotify.com/track/7gkwuWZqsoyEZ23ZdmZWxY) | [Mariachi America](https://open.spotify.com/artist/0WfxYVGBDHnF1C989scou2) | [Negra Linda](https://open.spotify.com/album/39YlKYk1kXF46NhElJNyId) | 6:29 |
 | 31 | [Virgencita de Zapopan](https://open.spotify.com/track/3aKGVttskmuUXIvewY5Tca) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Las 100 Clasicas Vol\. 1](https://open.spotify.com/album/1i8CmdQ0aYkeP9nlNuyQ1Y) | 3:35 |
-| 32 | [La Vaquilla Colorada](https://open.spotify.com/track/1dkkL8fnCxpWtbiem9wuDN) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Pepe Aguilar con Tambora](https://open.spotify.com/album/7bjdQ2of917fzGwSlME5z9) | 2:17 |
-| 33 | [El Herradero \- Remastered](https://open.spotify.com/track/6ymFvQN3Tfd3CXpyJvIok3) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [La Voz de México \(Remastered\)](https://open.spotify.com/album/54UWox3ZbHcH8mREa1uJdE) | 3:13 |
+| 32 | [El Herradero \- Remastered](https://open.spotify.com/track/6ymFvQN3Tfd3CXpyJvIok3) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [La Voz de México \(Remastered\)](https://open.spotify.com/album/54UWox3ZbHcH8mREa1uJdE) | 3:13 |
+| 33 | [La Vaquilla Colorada](https://open.spotify.com/track/1dkkL8fnCxpWtbiem9wuDN) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Pepe Aguilar con Tambora](https://open.spotify.com/album/7bjdQ2of917fzGwSlME5z9) | 2:17 |
 | 34 | [El Son De La Negra](https://open.spotify.com/track/5JCIcyxuL6pcwBHWA8U1cO) | [Mariachi Premier](https://open.spotify.com/artist/3zUi6YMPFd66AglMtvVoea) | [Recuerdos De Mi Tierra](https://open.spotify.com/album/7qrXv6WJLfQF6msl1m4ZBe) | 3:01 |
 | 35 | [La petenera: La petenera /Tata Dios / La Cecilia](https://open.spotify.com/track/3P0TvGizbuE8uZvIUwjGKo) | [Mariachi Los Camperos](https://open.spotify.com/artist/7vPYT79nMovLYmO2M3nTe5), [Nati Cano](https://open.spotify.com/artist/2wZV9EanphfWimUHQri3qw) | [Tradición, Arte y Pasión](https://open.spotify.com/album/3UeGxT4MIkqxp1kJxvOS2f) | 6:16 |
 | 36 | [La Vaquilla \(El Son De La Vaquilla\)](https://open.spotify.com/track/6t3WZj3a8HC39fw57SqQEz) | [Mariachi America](https://open.spotify.com/artist/0WfxYVGBDHnF1C989scou2) | [Negra Linda](https://open.spotify.com/album/39YlKYk1kXF46NhElJNyId) | 2:34 |

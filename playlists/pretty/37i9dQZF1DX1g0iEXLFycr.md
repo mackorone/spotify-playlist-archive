@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1g0iEXLFycr.md) - [plain]
 
 > Uplifting anthems to power you through 'til the weekend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,072,023 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,071,980 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1g0iEXLFycr.md) - [plain]
 | 55 | [Super Duper Love](https://open.spotify.com/track/30yn7KuCLbXGCXxjsB0C8K) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [The Soul Sessions](https://open.spotify.com/album/188TILSlxecPremJwHDkk7) | 4:20 |
 | 56 | [Sweet Lovin' \- Radio Edit](https://open.spotify.com/track/1qp0ptMXNg9hqLH8sk7cc2) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Bryn Christopher](https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv) | [Brighter Days](https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11) | 3:21 |
 | 57 | [Movin' on Up](https://open.spotify.com/track/67ncFJWaIbJdqZl1bpEppz) | [Primal Scream](https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze) | [Screamadelica](https://open.spotify.com/album/5PORx6PL7CdOywSJuGVrnc) | 3:48 |
-| 58 | [Work from Home \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/1JsUAmsjNz6oGuRTFG93qH) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [7/27 \(Deluxe\)](https://open.spotify.com/album/24L75CzM3lqg3yAm4oTIVR) | 3:36 |
-| 59 | [Moving on Up](https://open.spotify.com/track/6vGW3d8X48CBaLdU0PQbey) | [M People](https://open.spotify.com/artist/3lcbKPLl0ci2mKRdcP5Etf) | [The Best Of M People](https://open.spotify.com/album/1AUt6QIAn6HmaNhTCmKQ1D) | 3:35 |
+| 58 | [Moving on Up](https://open.spotify.com/track/6vGW3d8X48CBaLdU0PQbey) | [M People](https://open.spotify.com/artist/3lcbKPLl0ci2mKRdcP5Etf) | [The Best Of M People](https://open.spotify.com/album/1AUt6QIAn6HmaNhTCmKQ1D) | 3:35 |
+| 59 | [Work from Home \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/1JsUAmsjNz6oGuRTFG93qH) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [7/27 \(Deluxe\)](https://open.spotify.com/album/24L75CzM3lqg3yAm4oTIVR) | 3:36 |
 | 60 | [Like Sugar](https://open.spotify.com/track/0lWEatZXBBYUzEQX5aMeSj) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Hello Happiness](https://open.spotify.com/album/1QRhPsupQCDlD9EwTWumSA) | 3:59 |
 | 61 | [Freedom! '90 \- Remastered](https://open.spotify.com/track/3tyTt5pEWblt96j1HsXiV5) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice / MTV Unplugged \(Deluxe\)](https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj) | 6:30 |
 | 62 | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/track/4wosxLl0mAqhneDzya2MfY) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Head & Heart \(feat\. MNEK\)](https://open.spotify.com/album/4w554Y1ts3lmzhn7hpfLBJ) | 2:46 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1g0iEXLFycr.md) - [plain]
 | 90 | [Busy Earnin'](https://open.spotify.com/track/3g86N0SqyfxEVNMHlmW3RE) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Jungle](https://open.spotify.com/album/6IH6co1QUS7uXoyPDv0rIr) | 3:01 |
 | 91 | [Happiness](https://open.spotify.com/track/2zX22RoaGg8KGuNCzSBwBP) | [Alexis Jordan](https://open.spotify.com/artist/5LmYIx9kSWBJOWbP4xAxb1) | [Happiness](https://open.spotify.com/album/7InaLclfE0Cs1BK4HqAvJr) | 4:02 |
 | 92 | [Toast](https://open.spotify.com/track/7sd72KZS8D59g5NmhxyHpJ) | [Original Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Rapture EP](https://open.spotify.com/album/0v1VLjgwVun46wA13DWUJI) | 3:11 |
-| 93 | [Shake It Off](https://open.spotify.com/track/7n9Q6bXSjm74uCtajkddPt) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Shake It Off](https://open.spotify.com/album/2Z51EnLF4Nps4LmulSQPnn) | 3:39 |
-| 94 | [Send My Love \(To Your New Lover\)](https://open.spotify.com/track/3KZcrZ36LW9RnChK1iIkth) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/7uwTHXmFa1Ebi5flqBosig) | 3:43 |
+| 93 | [Send My Love \(To Your New Lover\)](https://open.spotify.com/track/3KZcrZ36LW9RnChK1iIkth) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [25](https://open.spotify.com/album/7uwTHXmFa1Ebi5flqBosig) | 3:43 |
+| 94 | [Shake It Off](https://open.spotify.com/track/7n9Q6bXSjm74uCtajkddPt) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Shake It Off](https://open.spotify.com/album/2Z51EnLF4Nps4LmulSQPnn) | 3:39 |
 | 95 | [Classic](https://open.spotify.com/track/5x9VIW2fS21JMswOt6AORI) | [MKTO](https://open.spotify.com/artist/2l35CQqtYRh3d8ZIiBep4v) | [Classic](https://open.spotify.com/album/7adKFzloRhHyoBN2JnhHN5) | 2:55 |
 | 96 | [Problem](https://open.spotify.com/track/3cySlItpiPiIAzU3NyHCJf) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) | [Problem](https://open.spotify.com/album/5A6pzfa725ZA3rhDllmX58) | 3:13 |
 | 97 | [Best Day Of My Life](https://open.spotify.com/track/44AXd3UVaaVYsSQqBpnYO2) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [American Authors](https://open.spotify.com/album/0nPacNPgSycLGJdd2JnH9C) | 3:14 |

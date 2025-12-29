@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 
 > Remixed pop and <a href="spotify:genre:edm\_dance">dance</a> collabs\. Cover: RAYE
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,038,072 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,037,822 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 | 49 | [Feeling Good \- Austin Millz Remix](https://open.spotify.com/track/5DQFUDNNpdu2l3ZyE8GHON) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO), [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k) | [Feeling Good \(Austin Millz Remix\)](https://open.spotify.com/album/0eTPfsYOTE2BTta03N3CM6) | 2:30 |
 | 50 | [Stay High](https://open.spotify.com/track/7LXimIqTYO76Utly8VFABu) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Stay High](https://open.spotify.com/album/3E3JRB0gGzHuc56GB3hUPJ) | 3:08 |
 | 51 | [Satisfaction](https://open.spotify.com/track/6k5DKQMC96daK6fSvAxdQv) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6) | [Satisfaction](https://open.spotify.com/album/62hlQlBO241sKpVTPgwAOi) | 2:35 |
-| 52 | [About Damn Time \- Purple Disco Machine Remix](https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [About Damn Time \(Purple Disco Machine Remix\)](https://open.spotify.com/album/5sJDNPqLeEUPnod5ovf5h6) | 3:38 |
-| 53 | [like JENNIE \- Peggy Gou Remix](https://open.spotify.com/track/41JiYRL2Ahnbjy0WRExDge) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [like JENNIE](https://open.spotify.com/album/2PxwTnSJW1mXpnb1HO2Tsf) | 3:28 |
+| 52 | [like JENNIE \- Peggy Gou Remix](https://open.spotify.com/track/41JiYRL2Ahnbjy0WRExDge) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [like JENNIE](https://open.spotify.com/album/2PxwTnSJW1mXpnb1HO2Tsf) | 3:28 |
+| 53 | [About Damn Time \- Purple Disco Machine Remix](https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [About Damn Time \(Purple Disco Machine Remix\)](https://open.spotify.com/album/5sJDNPqLeEUPnod5ovf5h6) | 3:38 |
 | 54 | [she got a thing about her \- lucø remix](https://open.spotify.com/track/3LFUE8ko7EEOaMiWWAZ6sb) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq), [LUCØ](https://open.spotify.com/artist/7AZz7NIZYmsop1ipI6009w) | [she got a thing about her \(lucø remix\)](https://open.spotify.com/album/3pzFxS9OX1g1AK9YJgsrth) | 2:46 |
 | 55 | [Aquamarine / Arcamarine](https://open.spotify.com/track/5Ay8JjpPx5LUauY9G0FMuV) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP), [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Aquamarine / Arcamarine](https://open.spotify.com/album/1rZqd8GKPidOGirnCmU9WN) | 3:14 |
 | 56 | [Hide Away \- Alan Walker Remix](https://open.spotify.com/track/2hTlaUQWoevROx9V9oYt7f) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Hide Away \(Alan Walker Remix\)](https://open.spotify.com/album/2nJlv1pIys7dtM2vhiUL2N) | 2:17 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDD7cfEKhW.md) - [plain]
 | 74 | [Numb \- Alok Remix](https://open.spotify.com/track/7nwEab6Y4LXbKUZDNofOag) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Numb \(Alok Remix\)](https://open.spotify.com/album/3wtLFXAFurtpmgn1whn7Uf) | 2:52 |
 | 75 | [Whatever \(with Ava Max\) \- Tiësto Remix](https://open.spotify.com/track/2e0Lsi6FfpmjKtdKkaZHuO) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Whatever \(The Remixes\)](https://open.spotify.com/album/4wqObiiJfSvC0W52YG1X0s) | 2:45 |
 
-Snapshot ID: `AAAAAOtoaQGDQLvR25eBqR2U/qokyBnQ`
+Snapshot ID: `AAAAABNFXH2ID2yXsbQR6RCMLjxpGkfl`

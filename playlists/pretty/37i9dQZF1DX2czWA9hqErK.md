@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 
 > Sunday morning whenever you like
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,333,366 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,333,286 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 | 78 | [Caroline](https://open.spotify.com/track/1SNB5tolDTBIT2ygSthC8d) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Patterns in Repeat](https://open.spotify.com/album/11Y2eh6LX6am0lYyjfCW3W) | 3:20 |
 | 79 | [Be Still](https://open.spotify.com/track/5iRAP5qArzW7EjLGyLpPza) | [Sebastian Schub](https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS) | [Be Still](https://open.spotify.com/album/6CI0Mg4tlEUOFAVdZwmtDg) | 4:01 |
 | 80 | [Teenage Love](https://open.spotify.com/track/3fgMHs4LZNPrMV2AFqma3F) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [Teenage Love](https://open.spotify.com/album/1TQuSNnGJGfX80HQE7HBcl) | 4:21 |
-| 81 | [One Door Closes \(feat\. Breland\)](https://open.spotify.com/track/6ExcHgzbMNJEBqnBtaMko6) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [One Door Closes \(feat\. Breland\)](https://open.spotify.com/album/5AOYmjNyAFYXsceGhAB6Dr) | 3:07 |
-| 82 | [Guy Fawkes Tesco Dissociation](https://open.spotify.com/track/6bPvOeqJRytjU4KFl6Wzdy) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [You Are The Morning](https://open.spotify.com/album/4amlS1zcZeSWkphaXn3lEq) | 4:36 |
+| 81 | [Guy Fawkes Tesco Dissociation](https://open.spotify.com/track/6bPvOeqJRytjU4KFl6Wzdy) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [You Are The Morning](https://open.spotify.com/album/4amlS1zcZeSWkphaXn3lEq) | 4:36 |
+| 82 | [One Door Closes \(feat\. Breland\)](https://open.spotify.com/track/6ExcHgzbMNJEBqnBtaMko6) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [One Door Closes \(feat\. Breland\)](https://open.spotify.com/album/5AOYmjNyAFYXsceGhAB6Dr) | 3:07 |
 | 83 | [walking on air](https://open.spotify.com/track/1rDRnm0ZnCe9sMaMbXLxpU) | [Martin Luke Brown](https://open.spotify.com/artist/7L2rePM60cIztWZ7cLlskE) | [damn, look at the view !](https://open.spotify.com/album/28jKFEY7mlMSnRS9i6Ryu8) | 3:37 |
 | 84 | [backwards loving](https://open.spotify.com/track/0YXpXUlsDBIbHZMIrSyHym) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [backwards loving](https://open.spotify.com/album/0zUmHIH9PEE2SICrIppPe4) | 3:52 |
 | 85 | [Lucky](https://open.spotify.com/track/4FsxBPxqq3pN5UkpqMz6js) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Lucky](https://open.spotify.com/album/1JEUHMVkly5YTMeNgz46Js) | 2:28 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 | 90 | [The Seize](https://open.spotify.com/track/00opIKNQBtGqhfVOYIvaDj) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [The Seize](https://open.spotify.com/album/4pfXByIKcM1TyS1fFNqgw3) | 3:34 |
 | 91 | [Someone That's Better](https://open.spotify.com/track/1nzvnKMBBV2meHZT1sgkJx) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Someone That's Better](https://open.spotify.com/album/4MMCQOnubHdewVOnUqm1j8) | 2:13 |
 | 92 | [Scary Movie](https://open.spotify.com/track/2UoRPtgf3YTbv9DJ1h2ikI) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Chloe Qisha](https://open.spotify.com/album/5VOSQ0i2JMwIILQOSl5RMM) | 2:44 |
-| 93 | [I Know A Place \- Acoustic](https://open.spotify.com/track/7tMc9X5fX4fcEttj2dNLYI) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U: One Year On](https://open.spotify.com/album/7HaFj1HOC2Q1viS1lpCAGX) | 4:51 |
-| 94 | [Save My Heart](https://open.spotify.com/track/1ffuj3LkTKRj20507nRwMl) | [Bradley Marshall](https://open.spotify.com/artist/41l2yNxDG4VydqE4lvbm1y) | [Save My Heart](https://open.spotify.com/album/6nfMJRyxIK6K3RtTmPXEsL) | 3:01 |
+| 93 | [Save My Heart](https://open.spotify.com/track/1ffuj3LkTKRj20507nRwMl) | [Bradley Marshall](https://open.spotify.com/artist/41l2yNxDG4VydqE4lvbm1y) | [Save My Heart](https://open.spotify.com/album/6nfMJRyxIK6K3RtTmPXEsL) | 3:01 |
+| 94 | [I Know A Place \- Acoustic](https://open.spotify.com/track/7tMc9X5fX4fcEttj2dNLYI) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U: One Year On](https://open.spotify.com/album/7HaFj1HOC2Q1viS1lpCAGX) | 4:51 |
 | 95 | [All Seven Seasons](https://open.spotify.com/track/6wLgm4hQHsmWbI5MhBa7W2) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [How to Win At Solitaire](https://open.spotify.com/album/6hN3MhjvsymOTftrScwGR3) | 4:28 |
 | 96 | [Running Out Of Time](https://open.spotify.com/track/3H5cGzWfaWla53nt7Craeh) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Running Out Of Time](https://open.spotify.com/album/4c24YVXh460XLcuAcro3Z0) | 3:34 |
 | 97 | [HEADPHONES](https://open.spotify.com/track/0DZdO8klTXwwiCgHRlTiqx) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [HEADPHONES](https://open.spotify.com/album/38k0yC1M2tFqhodt0nMKu2) | 3:16 |
 | 98 | [Little Miss Sunshine](https://open.spotify.com/track/4ALTbG2KpqPEHo4r8OtrRy) | [Charlie Noordewier](https://open.spotify.com/artist/0SDfEluak7Z8ML7o1K2Ljk) | [Little Miss Sunshine](https://open.spotify.com/album/28Y1YHAmV6ZaqFRZa52F2v) | 5:15 |
 | 99 | [collarbone](https://open.spotify.com/track/4lLpORG43iVNYzgQRmYS2G) | [Orlando](https://open.spotify.com/artist/2YpPBfgJthYvaI0zwIkLFy) | [collarbone](https://open.spotify.com/album/3ILfK12zJwCkJCc1zls5qP) | 3:09 |
-| 100 | [steal my soul](https://open.spotify.com/track/0GCatw5uBoK6elQCmIrriS) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [steal my soul](https://open.spotify.com/album/7lf7nq3pmpPMEutyzQ4NVH) | 2:21 |
+| 100 | [Sweet Nothings](https://open.spotify.com/track/5Lxwdlm1ZBnTwZi7CSudpx) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Sweet Nothings](https://open.spotify.com/album/1RIPgsTPa4rOwfVlyG6nMh) | 2:53 |
 
 Snapshot ID: `AAAAAJs2+SlN3W30ltOkpn8G9IBvr8r9`

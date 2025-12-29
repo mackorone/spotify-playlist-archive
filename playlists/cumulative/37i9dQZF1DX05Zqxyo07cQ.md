@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-906 songs - 1 day 19 hr 39 min
+907 songs - 1 day 19 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -502,7 +502,8 @@
 | [Memoirs](https://open.spotify.com/track/36Z3iyI0tvkdGq0iW0NFis) | [Felix Vidal](https://open.spotify.com/artist/4VyiaHiDw8tZ2RB8gLW51A) | [Memoirs](https://open.spotify.com/album/3MWO8fmjTgGp4Uv2Kh6myK) | 2:50 | 2023-03-23 | 2024-05-05 |
 | [Memora](https://open.spotify.com/track/6MIDE10PhyPWZncOrRr7QL) | [Edge of Dreams](https://open.spotify.com/artist/5MhtcKdd5DHUpE0FvQFrBF) | [Memora](https://open.spotify.com/album/22wt5wTHhH8iq8zTM4gUMk) | 2:52 | 2025-09-23 |  |
 | [Memory Status](https://open.spotify.com/track/0azOIWOPJ5msxrEAU4L88U) | [Pillow Dalliance](https://open.spotify.com/artist/6DM6WLvwOHMENEbAd4jbFN) | [Memory Status](https://open.spotify.com/album/575CZ4LTrkyqRVfrAkDzJ0) | 3:05 | 2024-05-04 | 2025-02-05 |
-| [Midnight Moon](https://open.spotify.com/track/5zVbLUQdjjBcbSVeYGsugB) | [Owen Stiller](https://open.spotify.com/artist/6ewlHDDdGjZgNp4sHUhPeZ) | [Midnight Moon](https://open.spotify.com/album/7tk9GZNLTvfKLEFr1m0wWK) | 1:46 | 2025-07-17 |  |
+| [Mid Air](https://open.spotify.com/track/0o41kWTdmKjuvRlbyxykyI) | [Eirwyn North](https://open.spotify.com/artist/29zgjcMG5XRMfqrwBenRta) | [Mid Air](https://open.spotify.com/album/5F7yS3uaFcoHTzxJ5azc5M) | 3:16 | 2025-12-17 |  |
+| [Midnight Moon](https://open.spotify.com/track/5zVbLUQdjjBcbSVeYGsugB) | [Owen Stiller](https://open.spotify.com/artist/6ewlHDDdGjZgNp4sHUhPeZ) | [Midnight Moon](https://open.spotify.com/album/7tk9GZNLTvfKLEFr1m0wWK) | 1:46 | 2025-07-17 | 2025-12-29 |
 | [Midst of Everything](https://open.spotify.com/track/2UScMXkAslXCfMcRx2Wlr7) | [Tora Summer](https://open.spotify.com/artist/59RVWpGZwBN5H2S4yHsxD9) | [Midst of Everything](https://open.spotify.com/album/1RmiiLCKVetsg26CP2b9wM) | 2:46 | 2023-03-23 | 2024-05-05 |
 | [Migla](https://open.spotify.com/track/0AY2x7N94uTmkYruyZDPKu) | [Adelina Palm](https://open.spotify.com/artist/5EUJpZPU6Oo6v9E5I21qFe) | [Migla](https://open.spotify.com/album/1ImyklVXN9AtfPPDfRNYEH) | 2:00 | 2023-03-23 | 2024-03-21 |
 | [Mind](https://open.spotify.com/track/7DvR34weBiIehUpND2sN6O) | [From Alfie](https://open.spotify.com/artist/6lqr9FKlo45VgiWOu6P6kT) | [The Thread](https://open.spotify.com/album/7zwuCg5viRTfN5xKAYgmSU) | 2:31 | 2023-03-23 | 2024-02-09 |

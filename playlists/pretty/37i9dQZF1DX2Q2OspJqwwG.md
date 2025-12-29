@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 
 > Un playlist \(foarte\) divers, cu tot ce e viral și trending în România
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,966 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,979 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 | 64 | [Again](https://open.spotify.com/track/3ESSGgWzRf1xvP7G5hHMhB) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [Fetty Wap \(Deluxe\)](https://open.spotify.com/album/2gKQvajkEEaDtkqJ8FJ4uw) | 5:12 |
 | 65 | [Zombie](https://open.spotify.com/track/42GKyvz5KBsHTBaLpo3cqJ) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Idols](https://open.spotify.com/album/19PD2IPfceDn9fLAa05TFE) | 4:06 |
 | 66 | [Y Que Fue?](https://open.spotify.com/track/2wAmparvQdtQemzY9I8PKv) | [Don Miguelo](https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf) | [EMDP \(The Last Album\)](https://open.spotify.com/album/2G4T745eynlKnJdhDj3bAB) | 2:43 |
-| 67 | [Rah Tah Tah](https://open.spotify.com/track/5RePVWy39tLpHH0WwXgBsK) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 2:45 |
-| 68 | [Polaroid Love](https://open.spotify.com/track/5elW2CKSoqjYoJ32AGDxf1) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : ANSWER](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) | 3:04 |
+| 67 | [Polaroid Love](https://open.spotify.com/track/5elW2CKSoqjYoJ32AGDxf1) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : ANSWER](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) | 3:04 |
+| 68 | [Rah Tah Tah](https://open.spotify.com/track/5RePVWy39tLpHH0WwXgBsK) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 2:45 |
 | 69 | [Dame Un Grrr](https://open.spotify.com/track/7ih7pYSRZgWCTXuOmrnXjX) | [Fantomel](https://open.spotify.com/artist/5KSiZki8gCESiSq0z35Ald), [Kate Linn](https://open.spotify.com/artist/2b01rwtcqW5LyfVBMzIFQ4) | [Dame Un Grrr](https://open.spotify.com/album/1QJWpxXcEr1AH3BLeI0s65) | 2:13 |
 | 70 | [Everything is romantic featuring caroline polachek](https://open.spotify.com/track/4cCnCDJZDLGDIdnxRfOUBn) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Everything is romantic featuring caroline polachek](https://open.spotify.com/album/0ZdvmKuGdMusb7B0qqVEio) | 3:23 |
 | 71 | [Steve's Lava Chicken](https://open.spotify.com/track/2n5sAzeWh5LqnV9cGBjgGr) | [Jack Black](https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T) | [A Minecraft Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4KAwAiWDby2biJHljhMxWd) | 0:34 |

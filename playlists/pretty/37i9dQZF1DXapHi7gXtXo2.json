@@ -1,6 +1,6 @@
 {
   "description": "Dale play y d\u00e9jate llevar por estas finas melod\u00edas Indie.",
-  "num_followers": 92392,
+  "num_followers": 92407,
   "original_name": "Radio Indie",
   "owner": {
     "name": "Spotify",
@@ -111,22 +111,6 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Me Diste la Espalda",
-        "url": "https://open.spotify.com/album/5wN6XsAHgwnlnHVps4Oqu0"
-      },
-      "artists": [
-        {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
-        }
-      ],
-      "duration_ms": 202492,
-      "name": "Me Diste la Espalda",
-      "url": "https://open.spotify.com/track/2yWqxlPpiXTk48aZpfFfhu"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
         "name": "Nafta",
         "url": "https://open.spotify.com/album/4yl3UNCVcTf287qlknLxVl"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 253161,
       "name": "La Carta",
       "url": "https://open.spotify.com/track/0H351Cn5b1uS4E4Cg1Jxb5"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
+        "name": "Me Diste la Espalda",
+        "url": "https://open.spotify.com/album/5wN6XsAHgwnlnHVps4Oqu0"
+      },
+      "artists": [
+        {
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+        }
+      ],
+      "duration_ms": 202492,
+      "name": "Me Diste la Espalda",
+      "url": "https://open.spotify.com/track/2yWqxlPpiXTk48aZpfFfhu"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -387,6 +387,22 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
+        "name": "Mi Primer D\u00eda Triste",
+        "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 225264,
+      "name": "Desnuda",
+      "url": "https://open.spotify.com/track/0drLaDtp4SxzUJoLwEpNe1"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
         "name": "La Mexicana - Single",
         "url": "https://open.spotify.com/album/4uJT1I6IOjTQoXRgvK5OQy"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 201661,
       "name": "El Momento Perfecto",
       "url": "https://open.spotify.com/track/4OGw9dLKXsntDtdG1GLORh"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
-        "name": "Mi Primer D\u00eda Triste",
-        "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 225264,
-      "name": "Desnuda",
-      "url": "https://open.spotify.com/track/0drLaDtp4SxzUJoLwEpNe1"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -527,18 +527,22 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Ganas",
-        "url": "https://open.spotify.com/album/7hjSVz7TryKxWe8Y4AHZe0"
+        "name": "Otro Lado",
+        "url": "https://open.spotify.com/album/4lZqShlTketzCTHWnUMX1K"
       },
       "artists": [
         {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+          "name": "Rosario Ortega",
+          "url": "https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB"
+        },
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
         }
       ],
-      "duration_ms": 254135,
-      "name": "Ganas",
-      "url": "https://open.spotify.com/track/1Sr0zBbzovJTg5yxd41CcQ"
+      "duration_ms": 237456,
+      "name": "Otro Lado",
+      "url": "https://open.spotify.com/track/5CW1lIQkzMj5SjFZgM40iE"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -559,22 +563,18 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Otro Lado",
-        "url": "https://open.spotify.com/album/4lZqShlTketzCTHWnUMX1K"
+        "name": "Ganas",
+        "url": "https://open.spotify.com/album/7hjSVz7TryKxWe8Y4AHZe0"
       },
       "artists": [
         {
-          "name": "Rosario Ortega",
-          "url": "https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB"
-        },
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
         }
       ],
-      "duration_ms": 237456,
-      "name": "Otro Lado",
-      "url": "https://open.spotify.com/track/5CW1lIQkzMj5SjFZgM40iE"
+      "duration_ms": 254135,
+      "name": "Ganas",
+      "url": "https://open.spotify.com/track/1Sr0zBbzovJTg5yxd41CcQ"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -655,38 +655,6 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "La Gata Bajo la Lluvia",
-        "url": "https://open.spotify.com/album/6u6M74UiYA4AFgy9tlhkEw"
-      },
-      "artists": [
-        {
-          "name": "FrioLento",
-          "url": "https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn"
-        }
-      ],
-      "duration_ms": 154087,
-      "name": "La Gata Bajo la Lluvia",
-      "url": "https://open.spotify.com/track/6hFZ0KFUAz1bcwp4mmkGYH"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
-        "name": "El camino de la libertad",
-        "url": "https://open.spotify.com/album/45kxaX47xoKq4Pnlth6fU1"
-      },
-      "artists": [
-        {
-          "name": "Gauchito Club",
-          "url": "https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj"
-        }
-      ],
-      "duration_ms": 207610,
-      "name": "Charlat\u00e1n",
-      "url": "https://open.spotify.com/track/7K8x1lyhqVvgRL7WbkfFqi"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
         "name": "En Vivo en el Gran Rex",
         "url": "https://open.spotify.com/album/1u1xLl9ra1AI0SP5q8uYvn"
       },
@@ -707,6 +675,22 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
+        "name": "La Gata Bajo la Lluvia",
+        "url": "https://open.spotify.com/album/6u6M74UiYA4AFgy9tlhkEw"
+      },
+      "artists": [
+        {
+          "name": "FrioLento",
+          "url": "https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn"
+        }
+      ],
+      "duration_ms": 154087,
+      "name": "La Gata Bajo la Lluvia",
+      "url": "https://open.spotify.com/track/6hFZ0KFUAz1bcwp4mmkGYH"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
         "name": "Portales",
         "url": "https://open.spotify.com/album/6UtZXhgIDo8ydcMCo2zZWd"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 197506,
       "name": "Cuando Estamos los Dos",
       "url": "https://open.spotify.com/track/0qbYbugP6J7esmnRJpDThd"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
+        "name": "El camino de la libertad",
+        "url": "https://open.spotify.com/album/45kxaX47xoKq4Pnlth6fU1"
+      },
+      "artists": [
+        {
+          "name": "Gauchito Club",
+          "url": "https://open.spotify.com/artist/58gIcdW6E0jd0846aI1sVj"
+        }
+      ],
+      "duration_ms": 207610,
+      "name": "Charlat\u00e1n",
+      "url": "https://open.spotify.com/track/7K8x1lyhqVvgRL7WbkfFqi"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -791,6 +791,22 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
+        "name": "Pura Casualidad",
+        "url": "https://open.spotify.com/album/1CI8cT4oEq98rnekmrwT3a"
+      },
+      "artists": [
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        }
+      ],
+      "duration_ms": 277573,
+      "name": "La Declaraci\u00f3n",
+      "url": "https://open.spotify.com/track/0iTBcOPQPO2K49vnmZYZe6"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
         "name": "Destellos",
         "url": "https://open.spotify.com/album/2X4swA3UkpqAS8bbXYgP9k"
       },
@@ -827,18 +843,18 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Pura Casualidad",
-        "url": "https://open.spotify.com/album/1CI8cT4oEq98rnekmrwT3a"
+        "name": "CURSI",
+        "url": "https://open.spotify.com/album/6dDjxXIvrepv9EzWe4pwnd"
       },
       "artists": [
         {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
         }
       ],
-      "duration_ms": 277573,
-      "name": "La Declaraci\u00f3n",
-      "url": "https://open.spotify.com/track/0iTBcOPQPO2K49vnmZYZe6"
+      "duration_ms": 181813,
+      "name": "CURSI",
+      "url": "https://open.spotify.com/track/0r5ELTxAzJ0JtfVTYSqrBK"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -891,18 +907,18 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "CURSI",
-        "url": "https://open.spotify.com/album/6dDjxXIvrepv9EzWe4pwnd"
+        "name": "Todo Lamento",
+        "url": "https://open.spotify.com/album/4dHpeoII8QA3LaOXTYnCgm"
       },
       "artists": [
         {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+          "name": "Natalia Lacunza",
+          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
         }
       ],
-      "duration_ms": 181813,
-      "name": "CURSI",
-      "url": "https://open.spotify.com/track/0r5ELTxAzJ0JtfVTYSqrBK"
+      "duration_ms": 155675,
+      "name": "Todo Lamento",
+      "url": "https://open.spotify.com/track/3e8haeh6alXHp8bwLhk4Vc"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -919,22 +935,6 @@
       "duration_ms": 207809,
       "name": "Duele",
       "url": "https://open.spotify.com/track/5aS8Tp9ewqjjKzdhqdgjaK"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
-        "name": "Todo Lamento",
-        "url": "https://open.spotify.com/album/4dHpeoII8QA3LaOXTYnCgm"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lacunza",
-          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
-        }
-      ],
-      "duration_ms": 155675,
-      "name": "Todo Lamento",
-      "url": "https://open.spotify.com/track/3e8haeh6alXHp8bwLhk4Vc"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Musikita del Cielo",
-        "url": "https://open.spotify.com/album/29ZPGvp5WB9BGPA2jleMoz"
-      },
-      "artists": [
-        {
-          "name": "Marki",
-          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
-        },
-        {
-          "name": "Axel Fiks",
-          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
-        }
-      ],
-      "duration_ms": 180500,
-      "name": "Musikita del Cielo",
-      "url": "https://open.spotify.com/track/1MXRVVSP19x3zTkqmD2MzF"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
         "name": "C\u00f3mo Te Extra\u00f1o Mi Amor",
         "url": "https://open.spotify.com/album/4BmqOdFP8fsrpVMe3LcHp9"
       },
@@ -1451,18 +1431,22 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "El Club",
-        "url": "https://open.spotify.com/album/4WTDpgb2hxYeqaOtcsUOVh"
+        "name": "Musikita del Cielo",
+        "url": "https://open.spotify.com/album/29ZPGvp5WB9BGPA2jleMoz"
       },
       "artists": [
         {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+          "name": "Marki",
+          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
+        },
+        {
+          "name": "Axel Fiks",
+          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
         }
       ],
-      "duration_ms": 159453,
-      "name": "El Club",
-      "url": "https://open.spotify.com/track/0vDfod7HBva0Kr0R4tEIpD"
+      "duration_ms": 180500,
+      "name": "Musikita del Cielo",
+      "url": "https://open.spotify.com/track/1MXRVVSP19x3zTkqmD2MzF"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1479,6 +1463,22 @@
       "duration_ms": 201187,
       "name": "Casi Algo",
       "url": "https://open.spotify.com/track/3uFUFTdWpuBDyHV8PpL6aV"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
+        "name": "El Club",
+        "url": "https://open.spotify.com/album/4WTDpgb2hxYeqaOtcsUOVh"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 159453,
+      "name": "El Club",
+      "url": "https://open.spotify.com/track/0vDfod7HBva0Kr0R4tEIpD"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "Oler A Ti",
-        "url": "https://open.spotify.com/album/0dgD8Uj4j7dPMFoRFX6cZ5"
-      },
-      "artists": [
-        {
-          "name": "F\u00e1rmacos",
-          "url": "https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M"
-        }
-      ],
-      "duration_ms": 225013,
-      "name": "Oler A Ti",
-      "url": "https://open.spotify.com/track/77aF6rwctQaadtAXQOrpjr"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
         "name": "Quemarropa",
         "url": "https://open.spotify.com/album/5EOlfoHmwgfn6N5Vz74ss9"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 180891,
       "name": "Porque",
       "url": "https://open.spotify.com/track/50mMnSKjwWAvkL3OwUiVhS"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
+        "name": "Oler A Ti",
+        "url": "https://open.spotify.com/album/0dgD8Uj4j7dPMFoRFX6cZ5"
+      },
+      "artists": [
+        {
+          "name": "F\u00e1rmacos",
+          "url": "https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M"
+        }
+      ],
+      "duration_ms": 225013,
+      "name": "Oler A Ti",
+      "url": "https://open.spotify.com/track/77aF6rwctQaadtAXQOrpjr"
     },
     {
       "added_at": "2024-09-20 03:00:00",
@@ -1635,30 +1635,6 @@
     {
       "added_at": "2024-09-20 03:00:00",
       "album": {
-        "name": "\u00bfSi Le Doy Zoom, Puedo Ver \u00c1frica?",
-        "url": "https://open.spotify.com/album/6L2odQpZmWgUVCWNTd03ox"
-      },
-      "artists": [
-        {
-          "name": "Kanaku y El Tigre",
-          "url": "https://open.spotify.com/artist/27GzlZraldlAG0k7oBqmUS"
-        },
-        {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
-        },
-        {
-          "name": "wiranda johansen",
-          "url": "https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX"
-        }
-      ],
-      "duration_ms": 160900,
-      "name": "Quiero Saber Qui\u00e9n Es Tu Novi@",
-      "url": "https://open.spotify.com/track/3rFT4nxLLLpABC29tvk6vO"
-    },
-    {
-      "added_at": "2024-09-20 03:00:00",
-      "album": {
         "name": "el gil",
         "url": "https://open.spotify.com/album/5floVE8LEUynVJ14Pr9EHD"
       },
@@ -1687,6 +1663,30 @@
       "duration_ms": 183973,
       "name": "Tiempo",
       "url": "https://open.spotify.com/track/6NOrzjlq99joQdEySY7Dtt"
+    },
+    {
+      "added_at": "2024-09-20 03:00:00",
+      "album": {
+        "name": "\u00bfSi Le Doy Zoom, Puedo Ver \u00c1frica?",
+        "url": "https://open.spotify.com/album/6L2odQpZmWgUVCWNTd03ox"
+      },
+      "artists": [
+        {
+          "name": "Kanaku y El Tigre",
+          "url": "https://open.spotify.com/artist/27GzlZraldlAG0k7oBqmUS"
+        },
+        {
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+        },
+        {
+          "name": "wiranda johansen",
+          "url": "https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX"
+        }
+      ],
+      "duration_ms": 160900,
+      "name": "Quiero Saber Qui\u00e9n Es Tu Novi@",
+      "url": "https://open.spotify.com/track/3rFT4nxLLLpABC29tvk6vO"
     },
     {
       "added_at": "2024-09-20 03:00:00",

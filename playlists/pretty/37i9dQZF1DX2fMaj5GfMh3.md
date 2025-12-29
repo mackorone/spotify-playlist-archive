@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 
 > De nieuwste pop songs\. Cover: Sienna Spiro
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,448 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,442 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 | 99 | [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:49 |
 | 100 | [Rocket Scientist](https://open.spotify.com/track/2F7vIBvNBXQnQpE9HNQQL6) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Perrie](https://open.spotify.com/album/40D8mOfQknlA99Q7QpLJEC) | 3:27 |
 
-Snapshot ID: `AAAAADlHXcGij7pGVjc/LROaUe9v/W9w`
+Snapshot ID: `AAAAAD7MapZHBYWQ0lNsDOwApBxD3MOS`

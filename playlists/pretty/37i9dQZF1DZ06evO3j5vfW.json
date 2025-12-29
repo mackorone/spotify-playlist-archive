@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU3QAAAAAADiiQlWH6GFJYHibBEGebFH",
+  "snapshot_id": "aU8hgAAAAAAnc2l1Y6PQF2J4fnZlccTt",
   "tracks": [
     {
       "added_at": null,
@@ -227,6 +227,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Euphoria (with Alok) [Remixes]",
+        "url": "https://open.spotify.com/album/6GtBFfPxRTQSOWUz6Pta2O"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Norma Jean Martine",
+          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
+        },
+        {
+          "name": "LAWRENT",
+          "url": "https://open.spotify.com/artist/0O9m6ZuAAvUOhT6OgbtAmI"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "duration_ms": 226153,
+      "name": "Euphoria (with Alok) - Nicky Romero Remix",
+      "url": "https://open.spotify.com/track/6d0duxbMzPZJ4t0510fqhI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fine Day",
         "url": "https://open.spotify.com/album/4Et38i4TF8kD2x1hAV8JOV"
       },
@@ -323,34 +355,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Euphoria (with Alok) [Remixes]",
-        "url": "https://open.spotify.com/album/6GtBFfPxRTQSOWUz6Pta2O"
+        "name": "Here We Go Again",
+        "url": "https://open.spotify.com/album/23cx1JMOhR0pHRZ0uQT8od"
       },
       "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Norma Jean Martine",
-          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
-        },
-        {
-          "name": "LAWRENT",
-          "url": "https://open.spotify.com/artist/0O9m6ZuAAvUOhT6OgbtAmI"
-        },
         {
           "name": "Nicky Romero",
           "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
         },
         {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "GESES",
+          "url": "https://open.spotify.com/artist/7ahE8B8ZhWe3fgVxLaVAXR"
         }
       ],
-      "duration_ms": 226153,
-      "name": "Euphoria (with Alok) - Nicky Romero Remix",
-      "url": "https://open.spotify.com/track/6d0duxbMzPZJ4t0510fqhI"
+      "duration_ms": 167194,
+      "name": "Here We Go Again",
+      "url": "https://open.spotify.com/track/2NlTJMj84ewpinOR5kKIEu"
     },
     {
       "added_at": null,
@@ -379,30 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Here We Go Again",
-        "url": "https://open.spotify.com/album/23cx1JMOhR0pHRZ0uQT8od"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "GESES",
-          "url": "https://open.spotify.com/artist/7ahE8B8ZhWe3fgVxLaVAXR"
-        }
-      ],
-      "duration_ms": 167194,
-      "name": "Here We Go Again",
-      "url": "https://open.spotify.com/track/2NlTJMj84ewpinOR5kKIEu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sometimes",
         "url": "https://open.spotify.com/album/1vuWqrCgIqeiaTUJnbAF40"
       },
@@ -427,26 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Legacy",
-        "url": "https://open.spotify.com/album/1HbbLX5HgVZS3l3JADKBg7"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 195706,
-      "name": "Legacy - Radio Edit",
-      "url": "https://open.spotify.com/track/4IWLawtdMznqdOnbOR9cWW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Okay",
         "url": "https://open.spotify.com/album/7d5FKzrSPqpKczy9IP5zOE"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 151312,
       "name": "Okay",
       "url": "https://open.spotify.com/track/71H8k9qe7DersxR6KyhUnI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/1HbbLX5HgVZS3l3JADKBg7"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 195706,
+      "name": "Legacy - Radio Edit",
+      "url": "https://open.spotify.com/track/4IWLawtdMznqdOnbOR9cWW"
     },
     {
       "added_at": null,
@@ -515,6 +515,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nights With You",
+        "url": "https://open.spotify.com/album/1z2gtZ1VigtVV6UVNqQAuq"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 149200,
+      "name": "Nights With You",
+      "url": "https://open.spotify.com/track/1Gx6oQEiS4h5e7ltUDN1jc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Higher Off The Ground",
         "url": "https://open.spotify.com/album/3MN43OG1psXq1XMGDCGF4a"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 210307,
       "name": "Day & Night",
       "url": "https://open.spotify.com/track/0shxu0SFg40gUiYMWzBMbe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nights With You",
-        "url": "https://open.spotify.com/album/1z2gtZ1VigtVV6UVNqQAuq"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 149200,
-      "name": "Nights With You",
-      "url": "https://open.spotify.com/track/1Gx6oQEiS4h5e7ltUDN1jc"
     },
     {
       "added_at": null,
@@ -603,30 +603,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Now I See You",
-        "url": "https://open.spotify.com/album/1bO09VShyl7ZOeYZnHERXY"
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/4GRth1z0snfAbeLoZXtnpk"
       },
       "artists": [
         {
-          "name": "Monocule",
-          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
-        },
-        {
-          "name": "LE\u00d8N",
-          "url": "https://open.spotify.com/artist/6WZbz166GpLmnIRWrQxGYB"
-        },
-        {
-          "name": "Aeni",
-          "url": "https://open.spotify.com/artist/1VBgJ5HRetfyv7SW8PQdEF"
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
         },
         {
           "name": "Nicky Romero",
           "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
         }
       ],
-      "duration_ms": 167336,
-      "name": "Now I See You",
-      "url": "https://open.spotify.com/track/01ipvqWQEz6Xr5LVQLCNmA"
+      "duration_ms": 162924,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/4LSkEJ5P5MV0y3PZqw7guJ"
     },
     {
       "added_at": null,
@@ -655,22 +647,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sober",
-        "url": "https://open.spotify.com/album/4GRth1z0snfAbeLoZXtnpk"
+        "name": "Now I See You",
+        "url": "https://open.spotify.com/album/1bO09VShyl7ZOeYZnHERXY"
       },
       "artists": [
         {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+          "name": "Monocule",
+          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
+        },
+        {
+          "name": "LE\u00d8N",
+          "url": "https://open.spotify.com/artist/6WZbz166GpLmnIRWrQxGYB"
+        },
+        {
+          "name": "Aeni",
+          "url": "https://open.spotify.com/artist/1VBgJ5HRetfyv7SW8PQdEF"
         },
         {
           "name": "Nicky Romero",
           "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
         }
       ],
-      "duration_ms": 162924,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/4LSkEJ5P5MV0y3PZqw7guJ"
+      "duration_ms": 167336,
+      "name": "Now I See You",
+      "url": "https://open.spotify.com/track/01ipvqWQEz6Xr5LVQLCNmA"
     },
     {
       "added_at": null,
@@ -867,46 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'll Follow You",
-        "url": "https://open.spotify.com/album/6n8A62fT6vLTMrwuVDQAIp"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Joe Jury",
-          "url": "https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer"
-        }
-      ],
-      "duration_ms": 219374,
-      "name": "I'll Follow You",
-      "url": "https://open.spotify.com/track/3Ijf2SBZguZPkom811NZTd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hot Summer Nights",
-        "url": "https://open.spotify.com/album/33tjn6gH8k3IbAFzCqGrRQ"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "W&W",
-          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
-        }
-      ],
-      "duration_ms": 158671,
-      "name": "Hot Summer Nights",
-      "url": "https://open.spotify.com/track/5pNXsc6Vu9pY33RN5FoMGc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sparks (Turn Off Your Mind) (Atmozfears & Audiotricz Remix)",
         "url": "https://open.spotify.com/album/0L0FpVSbtev9gdi2wIgjlD"
       },
@@ -935,6 +895,46 @@
       "duration_ms": 169404,
       "name": "Sparks (Turn Off Your Mind) - Atmozfears & Audiotricz Radio Mix",
       "url": "https://open.spotify.com/track/3I70IwAiyXo2RewHZVyvje"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hot Summer Nights",
+        "url": "https://open.spotify.com/album/33tjn6gH8k3IbAFzCqGrRQ"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        }
+      ],
+      "duration_ms": 158671,
+      "name": "Hot Summer Nights",
+      "url": "https://open.spotify.com/track/5pNXsc6Vu9pY33RN5FoMGc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I'll Follow You",
+        "url": "https://open.spotify.com/album/6n8A62fT6vLTMrwuVDQAIp"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Joe Jury",
+          "url": "https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer"
+        }
+      ],
+      "duration_ms": 219374,
+      "name": "I'll Follow You",
+      "url": "https://open.spotify.com/track/3Ijf2SBZguZPkom811NZTd"
     },
     {
       "added_at": null,

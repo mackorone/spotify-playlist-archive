@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 
 > If your workout doubles as an outlet for your aggression, this is the playlist for you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,493,625 likes - 100 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,493,690 likes - 100 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 | 80 | [AFRAID TO DIE](https://open.spotify.com/track/70XQAZsck714xP80hqeUsj) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU), [Tatiana Shmayluk](https://open.spotify.com/artist/4jUJBAkaX0Foc8fjhuyfpa), [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [VERITAS](https://open.spotify.com/album/3A12nZnNwruBUgmEMbaZO7) | 3:04 |
 | 81 | [River Of Sorrows](https://open.spotify.com/track/2X9xNcQnRPNLa9fUvl218u) | [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [CURSED](https://open.spotify.com/album/2ic9y0c0Y7goGxrre1ud7Q) | 4:02 |
 | 82 | [4 Words \(To Choke Upon\)](https://open.spotify.com/track/6wxLzoQOePEa1hZjVJsIh8) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison](https://open.spotify.com/album/42QVkdlfEk9uaG0NboeKpq) | 3:43 |
-| 83 | [Oblivion](https://open.spotify.com/track/3Ct6hcluVSYrD2fbUmaRyg) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Oblivion](https://open.spotify.com/album/13aY7BdznZ2GAPiZLwcb1X) | 8:19 |
-| 84 | [Take Out the Gunman](https://open.spotify.com/track/5I1ueVGJA6VZRkgkMyiHcP) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [La Gárgola](https://open.spotify.com/album/6ctiVzuLDrwlsHkgsatIqg) | 4:18 |
+| 83 | [Take Out the Gunman](https://open.spotify.com/track/5I1ueVGJA6VZRkgkMyiHcP) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [La Gárgola](https://open.spotify.com/album/6ctiVzuLDrwlsHkgsatIqg) | 4:18 |
+| 84 | [Oblivion](https://open.spotify.com/track/3Ct6hcluVSYrD2fbUmaRyg) | [Lorna Shore](https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF) | [Oblivion](https://open.spotify.com/album/13aY7BdznZ2GAPiZLwcb1X) | 8:19 |
 | 85 | [Nu Delhi](https://open.spotify.com/track/4AFqxUgTjluFRfjPLuoZ0a) | [Bloodywood](https://open.spotify.com/artist/4HFpzehKjow2WqU4EJ6Wy9) | [Nu Delhi](https://open.spotify.com/album/3JTGK3Rm4G03OcK6wI1bJa) | 4:28 |
 | 86 | [Perfect Soul](https://open.spotify.com/track/7FjRNlmPtWb1ra46t14rUN) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Perfect Soul](https://open.spotify.com/album/6trbYqn0Og2FEmucGshPg5) | 3:59 |
 | 87 | [Halo](https://open.spotify.com/track/1QixTwDZCcfBzA7QMyont0) | [Soil](https://open.spotify.com/artist/4PoYwGOztIrPpBfRIlMSxP) | [Scars \(Expanded Edition\)](https://open.spotify.com/album/2XLiRCMRy5WuuF373tKBZ8) | 3:15 |

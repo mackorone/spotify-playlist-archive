@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,102 songs - 20 day 14 hr 14 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,103 songs - 20 day 14 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8110,5 +8110,6 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8100 | [君の夜をくれ \(feat\. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&巡音ルカ\)](https://open.spotify.com/track/2vHBuAazYaiRSx9fTdb575) | [25時、ナイトコードで。](https://open.spotify.com/artist/1VMXuPyhNldYomz8ojLKP7) | [君の夜をくれ/Iなんです](https://open.spotify.com/album/2ggwhasiXzqsm4LF0lb1zW) | 3:53 |
 | 8101 | [ステラ \(feat\. 星乃一歌&天馬咲希&望月穂波&日野森志歩&初音ミク\)](https://open.spotify.com/track/22vyFWBbPhh9PcfrF15qPW) | [Leo/need](https://open.spotify.com/artist/7CXyP7IN0L3ySUeIQ6Ymu1) | [needLe/ステラ](https://open.spotify.com/album/3CS1J0v32fSdQvP2ByT75N) | 5:23 |
 | 8102 | [better for you](https://open.spotify.com/track/2fxoRz7eUFbo5RoHSvXqQh) | [siopaolo](https://open.spotify.com/artist/4dXBBVDuriULFiOyu5E8Kf) | [better for you](https://open.spotify.com/album/19YZ17zw3p3FBz4B1eoGCm) | 4:49 |
+| 8103 | [Catch Me If You Can](https://open.spotify.com/track/2bl5DiPxfhjC14eH1J80CP) | [Wuthering Waves](https://open.spotify.com/artist/4NJxtQzTTeO3ObGlBcxVAh), [Eileen Marine](https://open.spotify.com/artist/6sllXM0TOq7Dxzsl4Q6NdA) | [Catch Me If You Can \(Original Game Soundtrack\)](https://open.spotify.com/album/1FVBY8hpZv4jaJB5lkMAod) | 3:07 |
 
-Snapshot ID: `AAAKKYzC0OzQWAY6ngm0vB5WqQomQOaF`
+Snapshot ID: `AAAKKhxekEjYXEqApZb8iyeJq1/zLm8d`

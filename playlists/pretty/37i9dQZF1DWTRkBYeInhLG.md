@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRkBYeInhLG.md) - [plain]
 
 > Lagu\-lagu Pop untuk teman bersantai.
 
-[Spotify](https://open.spotify.com/user/spotify) - 499,354 likes - 80 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 499,360 likes - 80 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRkBYeInhLG.md) - [plain]
 | 41 | [Sewindu](https://open.spotify.com/track/0nXXgjpcisM0bheuDZHAub) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Tulus](https://open.spotify.com/album/2dnIPDYfh7enZ6JqI9COsk) | 4:00 |
 | 42 | [Bermuara](https://open.spotify.com/track/2EijGQoEilhHWlQWMoS9Jc) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku), [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Bermuara](https://open.spotify.com/album/14CzP48sGOaDXL2aTwUUgd) | 4:47 |
 | 43 | [Badai Telah Berlalu](https://open.spotify.com/track/2zZgfxFyDHDHJzGrs4b9es) | [Diskoria](https://open.spotify.com/artist/4Z9pg3LzMfuuSgl3hMDYuG), [Laleilmanino](https://open.spotify.com/artist/3Wf4i7kB01QI2wQlEgxKFm), [Bunga Citra Lestari](https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9) | [Badai Telah Berlalu](https://open.spotify.com/album/1p2jwOWf4I5rYGswXLKJR9) | 4:55 |
-| 44 | [Serba Salah](https://open.spotify.com/track/3jMXORZIqN8biiXVJXP3vk) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Raisa](https://open.spotify.com/album/5oCsnT2SMuNZ4mVZBbvxWD) | 4:22 |
-| 45 | [Walking Back Home](https://open.spotify.com/track/43A8VtuqZuJHn8CCtnSL2l) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Walking Back Home](https://open.spotify.com/album/103U1ni9LPA8TkD4Q7U1q3) | 2:12 |
+| 44 | [Walking Back Home](https://open.spotify.com/track/43A8VtuqZuJHn8CCtnSL2l) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Walking Back Home](https://open.spotify.com/album/103U1ni9LPA8TkD4Q7U1q3) | 2:12 |
+| 45 | [Serba Salah](https://open.spotify.com/track/3jMXORZIqN8biiXVJXP3vk) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Raisa](https://open.spotify.com/album/5oCsnT2SMuNZ4mVZBbvxWD) | 4:22 |
 | 46 | [Di Atas Meja](https://open.spotify.com/track/1MDVXlgY8Of2n2otw57hw0) | [Payung Teduh](https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ) | [Ruang Tunggu](https://open.spotify.com/album/1lp7ziYXZH8Z2r28FiUPWX) | 5:29 |
 | 47 | [Satu Yang Tak Bisa Lepas](https://open.spotify.com/track/1dmndEbqNwm4dv7ZDSmXaq) | [Reza Artamevia](https://open.spotify.com/artist/6ZKqWNmLTzV5kMwIh3VeVF) | [Keajaiban](https://open.spotify.com/album/57qz9fO792T8n6ndrprJ5j) | 5:25 |
 | 48 | [Rayu](https://open.spotify.com/track/4rAWADK2zYdjx2ar2Hp1C8) | [Marion Jola](https://open.spotify.com/artist/5Bh3L78YDNSWljRR1JO5C5), [Laleilmanino](https://open.spotify.com/artist/3Wf4i7kB01QI2wQlEgxKFm) | [Marion](https://open.spotify.com/album/0YDzTzUpaEBrltZExIKqKz) | 3:41 |

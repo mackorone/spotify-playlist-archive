@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 
 > TURNSTILE SUMMER
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,245 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,238 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 | 21 | [Neon Pill](https://open.spotify.com/track/0cgyeBU54kjmI54TflMANg) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Neon Pill](https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd) | 3:21 |
 | 22 | [S!CK](https://open.spotify.com/track/1V0zZKhkSJL8GUOERCZmxf) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Keep Me Fed](https://open.spotify.com/album/1rYHznqLeJVXuy0YqwERGv) | 3:12 |
 | 23 | [Billy \(Yeah Yeah Yeah\)](https://open.spotify.com/track/7JqmQovsdmO6kEqIeQv6R3) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Open Wide](https://open.spotify.com/album/0BOPVh2yWYPZLXbHRQtib1) | 4:05 |
-| 24 | [BIRDS](https://open.spotify.com/track/0k9JIBszlCqCa4SpXI353F) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [SEEIN’ STARS / BIRDS](https://open.spotify.com/album/75bLGYFnRRlH7wn33WnGdX) | 2:26 |
+| 24 | [Goodnight](https://open.spotify.com/track/4mYALBEaw2EEyuxJ2PhYwG) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Fall Back](https://open.spotify.com/album/1TZuXKic3BlDGc8rt39H8l) | 3:13 |
 | 25 | [Silver](https://open.spotify.com/track/09bThZXhtWY4oPvAThoLvj) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Midas](https://open.spotify.com/album/4bH0EjYwaCI4UmjBkq6ScT) | 3:16 |
-| 26 | [Goodnight](https://open.spotify.com/track/4mYALBEaw2EEyuxJ2PhYwG) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Fall Back](https://open.spotify.com/album/1TZuXKic3BlDGc8rt39H8l) | 3:13 |
+| 26 | [BIRDS](https://open.spotify.com/track/0k9JIBszlCqCa4SpXI353F) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [SEEIN’ STARS / BIRDS](https://open.spotify.com/album/75bLGYFnRRlH7wn33WnGdX) | 2:26 |
 | 27 | [Smile](https://open.spotify.com/track/0mjOx4zUlL5t4rF1xnrfvi) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1zt521PK0lam6J79DNMIJi) | 3:16 |
 | 28 | [Dopamine](https://open.spotify.com/track/6iox0DMrowvaE2BwqJ0mnd) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Heaven :x: Hell](https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF) | 3:06 |
 | 29 | [You Hear Yes](https://open.spotify.com/track/3XSCsuqhAqaVoYkYHHFrNC) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5), [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9), [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Funeral Soundtrack \#4](https://open.spotify.com/album/612gMZhBmHiDyWwA5phdZl) | 2:43 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Rico Nasty. The essential tracks, all in one playlist.",
-  "num_followers": 20031,
+  "num_followers": 20032,
   "original_name": "This Is Rico Nasty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU3QAAAAAADRyhz2QeZF+pOoLqHDfDw2",
+  "snapshot_id": "aU8hgAAAAABSCM+eRcHrLr6vb3L/EsSt",
   "tracks": [
     {
       "added_at": null,
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
         }
       ],
-      "duration_ms": 157466,
-      "name": "PRETEA",
-      "url": "https://open.spotify.com/track/0FGmiYt607UXBrInNFXtpU"
+      "duration_ms": 118000,
+      "name": "STUNNA",
+      "url": "https://open.spotify.com/track/13gAKY859qFzAzpxzWsEjO"
     },
     {
       "added_at": null,
@@ -416,9 +416,9 @@
           "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
         }
       ],
-      "duration_ms": 118000,
-      "name": "STUNNA",
-      "url": "https://open.spotify.com/track/13gAKY859qFzAzpxzWsEjO"
+      "duration_ms": 157466,
+      "name": "PRETEA",
+      "url": "https://open.spotify.com/track/0FGmiYt607UXBrInNFXtpU"
     },
     {
       "added_at": null,
@@ -775,18 +775,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nightmare Vacation",
-        "url": "https://open.spotify.com/album/6mlRdEExXqk8Git4nghBSL"
+        "name": "Money (feat. Flo Milli)",
+        "url": "https://open.spotify.com/album/5u9dBzQdVd9YDblzgtxOlD"
       },
       "artists": [
         {
           "name": "Rico Nasty",
           "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
         }
       ],
-      "duration_ms": 136829,
-      "name": "STFU",
-      "url": "https://open.spotify.com/track/01793uMHGj38bP3ZtXeeeL"
+      "duration_ms": 150652,
+      "name": "Money (feat. Flo Milli)",
+      "url": "https://open.spotify.com/track/2xo2fUrwrdOruV2zdNtWoP"
     },
     {
       "added_at": null,
@@ -807,22 +811,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Money (feat. Flo Milli)",
-        "url": "https://open.spotify.com/album/5u9dBzQdVd9YDblzgtxOlD"
+        "name": "Nightmare Vacation",
+        "url": "https://open.spotify.com/album/6mlRdEExXqk8Git4nghBSL"
       },
       "artists": [
         {
           "name": "Rico Nasty",
           "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        },
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
         }
       ],
-      "duration_ms": 150652,
-      "name": "Money (feat. Flo Milli)",
-      "url": "https://open.spotify.com/track/2xo2fUrwrdOruV2zdNtWoP"
+      "duration_ms": 136829,
+      "name": "STFU",
+      "url": "https://open.spotify.com/track/01793uMHGj38bP3ZtXeeeL"
     },
     {
       "added_at": null,
@@ -916,9 +916,9 @@
           "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
         }
       ],
-      "duration_ms": 181796,
-      "name": "Key Lime OG",
-      "url": "https://open.spotify.com/track/23bqONDHbIwWZI1hQ75f4n"
+      "duration_ms": 167090,
+      "name": "Poppin",
+      "url": "https://open.spotify.com/track/2EniaQpyAdPbOt6irqXSpN"
     },
     {
       "added_at": null,

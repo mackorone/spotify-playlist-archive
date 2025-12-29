@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU3QAAAAAAD2ZZx85JVrcAK+Ja3MEpa4",
+  "snapshot_id": "aU8hgAAAAAAp2x95cG4VON3/bFxZMRJv",
   "tracks": [
     {
       "added_at": null,
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 220373,
-      "name": "Aconcagua",
-      "url": "https://open.spotify.com/track/0FYSaSJEndxvjuIEKprPuy"
+      "duration_ms": 230133,
+      "name": "Takirari del Puerto",
+      "url": "https://open.spotify.com/track/1BHHR8y6keQDMdTdiXyxdl"
     },
     {
       "added_at": null,
@@ -216,9 +216,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 230133,
-      "name": "Takirari del Puerto",
-      "url": "https://open.spotify.com/track/1BHHR8y6keQDMdTdiXyxdl"
+      "duration_ms": 220373,
+      "name": "Aconcagua",
+      "url": "https://open.spotify.com/track/0FYSaSJEndxvjuIEKprPuy"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canci\u00f3n del Sur",
-        "url": "https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 205680,
-      "name": "Canci\u00f3n para los P\u00e1jaros",
-      "url": "https://open.spotify.com/track/2zzg9kZeDPOv2QR7F4EE4C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Si T\u00fa No Est\u00e1s",
         "url": "https://open.spotify.com/album/5oX1Jjge7MwrMgYuCKjmxv"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 225093,
       "name": "Si T\u00fa No Est\u00e1s",
       "url": "https://open.spotify.com/track/32R26AXFfke6v6eSEive5q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Canci\u00f3n del Sur",
+        "url": "https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 205680,
+      "name": "Canci\u00f3n para los P\u00e1jaros",
+      "url": "https://open.spotify.com/track/2zzg9kZeDPOv2QR7F4EE4C"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canci\u00f3n del Sur",
-        "url": "https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 179015,
-      "name": "Bebida M\u00e1gica",
-      "url": "https://open.spotify.com/track/2LBpm2M9rwdheZz6mARVfu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Arrebol",
         "url": "https://open.spotify.com/album/6G6mZ0b2SzKv3391GZYdb0"
       },
@@ -747,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trilog\u00eda el Rencuentro",
-        "url": "https://open.spotify.com/album/0INTpo6ighKQ7lGmK0FWsH"
+        "name": "Canci\u00f3n del Sur",
+        "url": "https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA"
       },
       "artists": [
         {
@@ -756,9 +740,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 302560,
-      "name": "Cholito Pantal\u00f3n Blanco",
-      "url": "https://open.spotify.com/track/20SP3B4f0aXF4MVVsFAtty"
+      "duration_ms": 179015,
+      "name": "Bebida M\u00e1gica",
+      "url": "https://open.spotify.com/track/2LBpm2M9rwdheZz6mARVfu"
     },
     {
       "added_at": null,
@@ -775,6 +759,22 @@
       "duration_ms": 257760,
       "name": "Ni\u00f1a Serrana",
       "url": "https://open.spotify.com/track/5RuS5afTt26XtXfbnAoyv7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trilog\u00eda el Rencuentro",
+        "url": "https://open.spotify.com/album/0INTpo6ighKQ7lGmK0FWsH"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 302560,
+      "name": "Cholito Pantal\u00f3n Blanco",
+      "url": "https://open.spotify.com/track/20SP3B4f0aXF4MVVsFAtty"
     },
     {
       "added_at": null,

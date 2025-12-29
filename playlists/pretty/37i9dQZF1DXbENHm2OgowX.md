@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 
 > wandering the forest as the fog floats through the trees
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,519 likes - 69 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,701 likes - 69 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 | 46 | [A Place To Sleep](https://open.spotify.com/track/3IRjaJfl3lNubGbRGXL7et) | [air hunger](https://open.spotify.com/artist/40UUOCP3GVEKusB4RZ50W0) | [A Place To Sleep](https://open.spotify.com/album/7wfuhwQqnIm5ojXsAxfV48) | 6:38 |
 | 47 | [Full Moon](https://open.spotify.com/track/0mvKgaXtpEmvG4jkMpVcG1) | [Tomasz Mreńca](https://open.spotify.com/artist/3gBqZAeUL6W6ygL5SkkaUX), [Tomasz Bednarczyk](https://open.spotify.com/artist/3OBZFNaAHGXOZ7PWgbkwPT) | [Full Moon](https://open.spotify.com/album/7Bd9UwK9eH8oyFymkMt0fN) | 4:22 |
 | 48 | [a mother's daughter](https://open.spotify.com/track/5J0vNzIHn2ruZ8wPEAfdPN) | [Mieke](https://open.spotify.com/artist/4fkw2l0onbOteLSmeSTcW4) | [a mother's daughter](https://open.spotify.com/album/4fpCCi45NumQGmKMBSIWsS) | 2:48 |
-| 49 | [From a Convenient Grass](https://open.spotify.com/track/1qBeGOBEXjKni2QNFB0XSQ) | [Snorri Hallgrímsson](https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs) | [The Importance of Birds](https://open.spotify.com/album/5qvmvLyQNzfsnlUVmwq0j9) | 3:39 |
-| 50 | [Shall We Begin](https://open.spotify.com/track/7cOyWm2g0GNZMbsFIiR2J6) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Shall We Begin](https://open.spotify.com/album/6fAc71Y6Z2tPdEmYeVE9Jg) | 3:27 |
+| 49 | [Shall We Begin](https://open.spotify.com/track/7cOyWm2g0GNZMbsFIiR2J6) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Shall We Begin](https://open.spotify.com/album/6fAc71Y6Z2tPdEmYeVE9Jg) | 3:27 |
+| 50 | [From a Convenient Grass](https://open.spotify.com/track/1qBeGOBEXjKni2QNFB0XSQ) | [Snorri Hallgrímsson](https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs) | [The Importance of Birds](https://open.spotify.com/album/5qvmvLyQNzfsnlUVmwq0j9) | 3:39 |
 | 51 | [fly high](https://open.spotify.com/track/2MZ5LDS1QzKIEWhkUPiyvp) | [ambit.](https://open.spotify.com/artist/1OXRInYKrZWZ3z6f099iaB) | [fly high](https://open.spotify.com/album/7g2YMNuWZaOxXLffXGa2v3) | 1:47 |
 | 52 | [Matèl](https://open.spotify.com/track/6d81er1G1FqItrbdX2Ta5E) | [Ginevra Nervi](https://open.spotify.com/artist/1D0bKzmxdExazYDP4ahsBj) | [Matèl \(original motion picture soundtrack\)](https://open.spotify.com/album/6Uu2aSnnskKHLs0mriQfcT) | 3:24 |
 | 53 | [DOROTHEA’S BED](https://open.spotify.com/track/54vTE49dv8MDAz0yE2e4Ja) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [PHANTOM BRICKWORKS \(LP II\)](https://open.spotify.com/album/1GJ2vLnz8Tz8bdyjORnUCt) | 5:25 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbENHm2OgowX.md) - [plain]
 | 59 | [Solar Nights](https://open.spotify.com/track/4m0A9IhXFzCG04iJKoxA0o) | [Juha Mäki\-Patola](https://open.spotify.com/artist/6UMvXeBrLr04seUgcTvlxK) | [Solar Nights](https://open.spotify.com/album/2NtvvyLV9jKjsxVeVd0RFl) | 2:43 |
 | 60 | [Still Numbers](https://open.spotify.com/track/5USNS4qU4tmfTIhfYje4Sq) | [Ekin Fil](https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda) | [Heavy](https://open.spotify.com/album/0WsgCDRCCQwrGjXTBTkJmm) | 4:49 |
 | 61 | [4AM ambient version](https://open.spotify.com/track/3oatMSu9wjDbbPEFGRIdk0) | [Late Era](https://open.spotify.com/artist/6SRj6cRWRVlDvFB0gHHVkN) | [4AM ambient version](https://open.spotify.com/album/7zqFBx5CG4RNcY09Y2PWCn) | 1:52 |
-| 62 | [Maple Seed](https://open.spotify.com/track/0rZa2GnKCs1p622yxAnYs5) | [Benoît Pioulard](https://open.spotify.com/artist/77SQlBEZyyJ7neYnlp0cDl) | [Eidetic](https://open.spotify.com/album/3QvrGTCnM05jkjuqp8g1AI) | 2:21 |
-| 63 | [\#bfbfbf \(12:20:00pm \- 05:07:53pm\)](https://open.spotify.com/track/0Xx2Wd7PnL9SrbW0cFiQsF) | [Jun Futamata](https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW) | [\#bfbfbf \(12:20:00pm \- 05:07:53pm\)](https://open.spotify.com/album/1dqlAOTcIraLdy4oYUTGDm) | 4:47 |
+| 62 | [\#bfbfbf \(12:20:00pm \- 05:07:53pm\)](https://open.spotify.com/track/0Xx2Wd7PnL9SrbW0cFiQsF) | [Jun Futamata](https://open.spotify.com/artist/1gpvbGT0Zs5ClF9dcnH7fW) | [\#bfbfbf \(12:20:00pm \- 05:07:53pm\)](https://open.spotify.com/album/1dqlAOTcIraLdy4oYUTGDm) | 4:47 |
+| 63 | [Maple Seed](https://open.spotify.com/track/0rZa2GnKCs1p622yxAnYs5) | [Benoît Pioulard](https://open.spotify.com/artist/77SQlBEZyyJ7neYnlp0cDl) | [Eidetic](https://open.spotify.com/album/3QvrGTCnM05jkjuqp8g1AI) | 2:21 |
 | 64 | [The Promise of Snakes](https://open.spotify.com/track/46WOO9GoPEsmv4MwC9FK1D) | [The Angelic Process](https://open.spotify.com/artist/4nQSh4CawJC9OZSqwNDS8W) | [Weighing Souls With Sand](https://open.spotify.com/album/74wImGbm2f19lrSbMLuTnl) | 9:32 |
 | 65 | [haunted, but it's ambient](https://open.spotify.com/track/7gQ4JFzIS4CcwbPntsVDsN) | [MADEBYGODES](https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc), [Sedogy Bedam](https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt) | [haunted, but it's ambient](https://open.spotify.com/album/3cC0MalFj3LK0x2V5UZHgl) | 2:16 |
 | 66 | [cry \- Slowed](https://open.spotify.com/track/3mMI0ZM6VM2qmWb75kbgzY) | [vowl.](https://open.spotify.com/artist/5Q0sv5SeMZln6szEW49dHL), [Kol](https://open.spotify.com/artist/0U6V8CeBBv9tQPBLBCircp) | [cry](https://open.spotify.com/album/3ZuOU00dKlfWPcK5maio5I) | 2:26 |

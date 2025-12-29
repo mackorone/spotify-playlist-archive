@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUu64dvFdPQk.md) - [plain]
 
 > seamless, soft, soulful.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,283 likes - 80 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,280 likes - 80 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUu64dvFdPQk.md) - [plain]
 | 40 | [Run](https://open.spotify.com/track/29YCXYGQo3YU7lx3g2EgLI) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Run](https://open.spotify.com/album/5IUgE3F3cSm9JWAWZVTiHM) | 3:36 |
 | 41 | [Reach Out And Kiss Me](https://open.spotify.com/track/59Qv0E4uhUEdJIElLFiN8N) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Reach Out And Kiss Me](https://open.spotify.com/album/1QWOmlkjOJFF7f39IAsRUX) | 3:30 |
 | 42 | [If You Say the Word](https://open.spotify.com/track/3pmSHIHtJC289ImufO7uor) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [If You Say the Word](https://open.spotify.com/album/0SvYW67Kes52rOZziDO9uC) | 4:20 |
-| 43 | [Ozu](https://open.spotify.com/track/0fym4mro3A1876ysJ7ulJQ) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y) | [Diego E.P.](https://open.spotify.com/album/6jBUi3Hjp0GihmvfNMmeGI) | 3:41 |
-| 44 | [Courage](https://open.spotify.com/track/6WVWglJZaFth6NbuMFC81c) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Lianne La Havas](https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV) | 3:38 |
+| 43 | [Courage](https://open.spotify.com/track/6WVWglJZaFth6NbuMFC81c) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Lianne La Havas](https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV) | 3:38 |
+| 44 | [Ozu](https://open.spotify.com/track/0fym4mro3A1876ysJ7ulJQ) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y) | [Diego E.P.](https://open.spotify.com/album/6jBUi3Hjp0GihmvfNMmeGI) | 3:41 |
 | 45 | [Pool Party](https://open.spotify.com/track/6g2lOCDWFDjYLscHr6LCoM) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [Pool Party](https://open.spotify.com/album/4xlTP2MmCppLdneOt3QGgN) | 2:58 |
 | 46 | [STEREO DRIVER](https://open.spotify.com/track/3ndgTTYs0dGZQPLHkVxGHl) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Soul,PRESENT](https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6) | 3:51 |
 | 47 | [Four Long Years](https://open.spotify.com/track/3HSsitVWr2v52sq6C2o9fz) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Small Changes](https://open.spotify.com/album/6dM03QWc4fgMFHqn2Qhrww) | 4:40 |
-| 48 | [The Feels](https://open.spotify.com/track/70UDDqd7iNr8oEEkIRsPBe) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [The Feels](https://open.spotify.com/album/5ykVDy6GFzq8KhpKaUoFQa) | 2:56 |
-| 49 | [Homerun 2021](https://open.spotify.com/track/4JZSfAfaOHxDOqVo76l2KL) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [Homerun 2021](https://open.spotify.com/album/3eso9JkXxZyMBrjzUbsBxR) | 3:21 |
+| 48 | [Homerun 2021](https://open.spotify.com/track/4JZSfAfaOHxDOqVo76l2KL) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [Homerun 2021](https://open.spotify.com/album/3eso9JkXxZyMBrjzUbsBxR) | 3:21 |
+| 49 | [The Feels](https://open.spotify.com/track/70UDDqd7iNr8oEEkIRsPBe) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [The Feels](https://open.spotify.com/album/5ykVDy6GFzq8KhpKaUoFQa) | 2:56 |
 | 50 | [ROCKMAN](https://open.spotify.com/track/63ABAnFKJCp28TAyqf2cGL) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [ROCKMAN](https://open.spotify.com/album/6IhX5HhXNXC8l0vv7QCrrK) | 2:59 |
 | 51 | [I'll Be There](https://open.spotify.com/track/4fIw0XD56hLGb7MCEqSs0K) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [Sun Outside My Window](https://open.spotify.com/album/3njJDE85untcXnz7ZEhs4a) | 4:10 |
 | 52 | [Confirmation \(SSBD\)](https://open.spotify.com/track/0gcNTflElPYcxajA1LelYd) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [Your Hero Is Not Dead](https://open.spotify.com/album/45gjNMd3mAP0zyTQMOQdGk) | 4:18 |
@@ -80,10 +80,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUu64dvFdPQk.md) - [plain]
 | 70 | [Magic \(feat\. Emily King\)](https://open.spotify.com/track/3VSYrw22mDac2h1bqr8pmg) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [Djesse Vol\. 4 \(Deluxe\)](https://open.spotify.com/album/0ieeyOsOoSmd2b906MrlRO) | 3:59 |
 | 71 | [I Need Nothing From You](https://open.spotify.com/track/7MRVvdYpEt0hdVigHOys6k) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077), [BEA1991](https://open.spotify.com/artist/6F93aFbWjhUtjRKXYmtr1Z) | [Romeo](https://open.spotify.com/album/0dXxoVKkKfIFVgGO2FUu2u) | 3:38 |
 | 72 | [Alone](https://open.spotify.com/track/6t5cacQjKUVzNqN4kJSaV2) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [The Shave Experiment \(Director's Cut\)](https://open.spotify.com/album/6Q3iHNU0fOwOxoCvyteue0) | 2:15 |
-| 73 | [Elevate](https://open.spotify.com/track/5iWNskrPocMh7z8CwUBSRe) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Elevate](https://open.spotify.com/album/1g3eES9s4NjqIYbdhmqXVr) | 3:05 |
-| 74 | [Assis](https://open.spotify.com/track/2VKjLsx5fsMxXPPI8hhwd8) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Assis](https://open.spotify.com/album/71DiQ82ms9jVguDKqdx1UD) | 2:41 |
-| 75 | [Break My Own Heart](https://open.spotify.com/track/3nkMwpRcRrVtWiuTfPMK2P) | [Ruti](https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE) | [Break My Own Heart](https://open.spotify.com/album/0yXm3Hvv1s6D17Fg2jZiei) | 3:35 |
-| 76 | [ALIEN LOVE CALL](https://open.spotify.com/track/3qSIZ6BhlD8s1A8Hnnr3b8) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [ALIEN LOVE CALL](https://open.spotify.com/album/2nERlBSy1rzIWoTgnezW6M) | 2:56 |
+| 73 | [Assis](https://open.spotify.com/track/2VKjLsx5fsMxXPPI8hhwd8) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Assis](https://open.spotify.com/album/71DiQ82ms9jVguDKqdx1UD) | 2:41 |
+| 74 | [Elevate](https://open.spotify.com/track/5iWNskrPocMh7z8CwUBSRe) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Elevate](https://open.spotify.com/album/1g3eES9s4NjqIYbdhmqXVr) | 3:05 |
+| 75 | [ALIEN LOVE CALL](https://open.spotify.com/track/3qSIZ6BhlD8s1A8Hnnr3b8) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [ALIEN LOVE CALL](https://open.spotify.com/album/2nERlBSy1rzIWoTgnezW6M) | 2:56 |
+| 76 | [Break My Own Heart](https://open.spotify.com/track/3nkMwpRcRrVtWiuTfPMK2P) | [Ruti](https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE) | [Break My Own Heart](https://open.spotify.com/album/0yXm3Hvv1s6D17Fg2jZiei) | 3:35 |
 | 77 | [Tell Me](https://open.spotify.com/track/4Z1olDl8aym5xZYZAat672) | [Rahill](https://open.spotify.com/artist/0a0L1YLGhMT64hsSh9M9aM) | [Flowers At Your Feet](https://open.spotify.com/album/2SAtIfz2jFRAn36xCUT8xd) | 2:41 |
 | 78 | [CHARLES JEFFREY](https://open.spotify.com/track/618BwYUA98PyOVoCbckluW) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [CHARLES JEFFREY](https://open.spotify.com/album/1inYWUi6rRiaUyrfzl6qnj) | 2:27 |
 | 79 | [All the Difference](https://open.spotify.com/track/2KxVEwlxExzVHI2N5GIYZI) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Some Nights I Dream of Doors](https://open.spotify.com/album/4b5bbOFp8eUd5QxQJ6jFs3) | 3:19 |

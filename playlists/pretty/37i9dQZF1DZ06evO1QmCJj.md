@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1QmCJj.md) - [plain]
 
 > This is Lola Indigo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,159 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,157 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1QmCJj.md) - [plain]
 | 33 | [Mujer Bruja](https://open.spotify.com/track/2o2PFz6MLkKXVDYlzDAVH7) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Akelarre](https://open.spotify.com/album/5OcwnNamdhVLQTcpXS2bK9) | 3:22 |
 | 34 | [KOMBOLEWA \- Remix](https://open.spotify.com/track/1mLTFke4DR2dwAkDORrrvq) | [Suzete](https://open.spotify.com/artist/2JXeQeL8WjIbo6GIiCJjea), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [KOMBOLEWA \(Remix\)](https://open.spotify.com/album/5CYQvAzeyM6VYqBINgo5ST) | 2:51 |
 | 35 | [SI TE VAS](https://open.spotify.com/track/5SUgwQeo9vZoDBMm0q20yD) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Mimi](https://open.spotify.com/artist/2Md83aAf213B23IHGVhrtj) | [GRX](https://open.spotify.com/album/2ORVtNDtwoBtJ1uTzRJogx) | 2:35 |
-| 36 | [Mamisuki](https://open.spotify.com/track/2Br42Z1UoDdGLJNVEdkipn) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Tu Maliante Bebé](https://open.spotify.com/album/52T60B8J8WEemm5JgBIkEq) | 2:12 |
-| 37 | [LA TIRITA](https://open.spotify.com/track/63sYEorZidLgvYjQFpmDxL) | [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [SUPERPOP](https://open.spotify.com/album/4Qdq0j2UNhLId7hHVBPgSH) | 2:52 |
+| 36 | [LA TIRITA](https://open.spotify.com/track/63sYEorZidLgvYjQFpmDxL) | [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [SUPERPOP](https://open.spotify.com/album/4Qdq0j2UNhLId7hHVBPgSH) | 2:52 |
+| 37 | [Mamisuki](https://open.spotify.com/track/2Br42Z1UoDdGLJNVEdkipn) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Tu Maliante Bebé](https://open.spotify.com/album/52T60B8J8WEemm5JgBIkEq) | 2:12 |
 | 38 | [Me Quedo](https://open.spotify.com/track/6Nqi1fWKYXrVXmF3RtQbSf) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Spoiler](https://open.spotify.com/album/0UMkp3B0Dqf3t0HkLmoX0j) | 2:54 |
 | 39 | [Toy Story](https://open.spotify.com/track/2Y9W6qcN9COH0XyeYApQOE) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Toy Story](https://open.spotify.com/album/0qQYLpHzoKsP2dFrdvOpOj) | 2:59 |
 | 40 | [Romeo Y Julieta](https://open.spotify.com/track/1rJat7yJE9fHXLuoaJfoND) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8) | [Romeo Y Julieta](https://open.spotify.com/album/3xWDkfHl65CP2OgF488trX) | 2:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1QmCJj.md) - [plain]
 | 49 | [KILLA \(ring ring\)](https://open.spotify.com/track/4HC176Wwwle6QcTAxNPfBV) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [La Niña](https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme) | 3:32 |
 | 50 | [Ya No Quiero Ná](https://open.spotify.com/track/2A2Q4CYBcVvBF2OqgJ3OWX) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Ya No Quiero Ná](https://open.spotify.com/album/0qvWm5gyv7jLuRwj4Ioaob) | 3:12 |
 
-Snapshot ID: `aU3QAAAAAABkyDdJZmTPvu4gc/9GH0To`
+Snapshot ID: `aU8hgAAAAAAigS0TB08x/IwlGyreWQ3i`

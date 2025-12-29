@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 
 > Let's go! 💪
 
-[Spotify](https://open.spotify.com/user/spotify) - 771,153 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 771,121 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 | 29 | [Crusade \- Club Edit](https://open.spotify.com/track/0jPHJDzPCT5tGkqnb0aeDo) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Crusade](https://open.spotify.com/album/0m0Gyk4zUNfLc5kfZKomPQ) | 2:59 |
 | 30 | [Rhyme Dust](https://open.spotify.com/track/59QDyqLww2pxyg9ijOPO7f) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Rhyme Dust](https://open.spotify.com/album/1vSO4N7cwo4pBywCSGF5BR) | 3:01 |
 | 31 | [Key To My Heart](https://open.spotify.com/track/2LEFdBlzEJQRKTjI47oHSS) | [BOVSKI](https://open.spotify.com/artist/3MWeawb18cHiDxt4ip7GY9) | [Key To My Heart](https://open.spotify.com/album/4t5Nw9T47UroEticHcuuF5) | 2:12 |
-| 32 | [It's My Life \- Techno Remix](https://open.spotify.com/track/0zJWxs9N1pkwF1eKOepZFq) | [Nic Johnston](https://open.spotify.com/artist/573SWshgzKIZpBwaiDZdat), [Jawny Sparklez](https://open.spotify.com/artist/3HE0SOvitff8FZZm15jLvi) | [It's My Life \(Techno Remix\)](https://open.spotify.com/album/4tNO3b3hoOnZMoKqg7Z7Y2) | 2:54 |
-| 33 | [Breakin' Dishes](https://open.spotify.com/track/3rTvXpSq6fDU1PitJlmnhm) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Breakin' Dishes](https://open.spotify.com/album/45DVKreI7RJd1QX49dRJOS) | 2:13 |
+| 32 | [Breakin' Dishes](https://open.spotify.com/track/3rTvXpSq6fDU1PitJlmnhm) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Breakin' Dishes](https://open.spotify.com/album/45DVKreI7RJd1QX49dRJOS) | 2:13 |
+| 33 | [It's My Life \- Techno Remix](https://open.spotify.com/track/0zJWxs9N1pkwF1eKOepZFq) | [Nic Johnston](https://open.spotify.com/artist/573SWshgzKIZpBwaiDZdat), [Jawny Sparklez](https://open.spotify.com/artist/3HE0SOvitff8FZZm15jLvi) | [It's My Life \(Techno Remix\)](https://open.spotify.com/album/4tNO3b3hoOnZMoKqg7Z7Y2) | 2:54 |
 | 34 | [Would You \(go to bed with me?\)](https://open.spotify.com/track/2N8gR2yftrHbZR53U5kYnX) | [Campbell](https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK), [Alcemist](https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0) | [Would You \(go to bed with me?\)](https://open.spotify.com/album/41f0FqPlL8qM5Dx5LS57j1) | 2:00 |
 | 35 | [Around The World](https://open.spotify.com/track/47KhhDku9RLDsWIJjYaXDs) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [René Miller](https://open.spotify.com/artist/6ngF3kF5I0prOoapltjAps) | [Around The World](https://open.spotify.com/album/6DJnx2cTEn3txXXK4Xo2Tf) | 2:20 |
 | 36 | [Set Me Free](https://open.spotify.com/track/2DgQUPTincZnoRT5CJxTKi) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [Set Me Free](https://open.spotify.com/album/2oRqHz1SKj1CcccfeyASOF) | 3:04 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 | 46 | [Disconnect](https://open.spotify.com/track/602d2gJewoiF1FivuOMMwE) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Disconnect](https://open.spotify.com/album/3H9K8wtrhvkSSqnkevhaHA) | 2:44 |
 | 47 | [Turn All The Lights On](https://open.spotify.com/track/3AxoLYBDzx5hTCSJR2W4i9) | [Valexus](https://open.spotify.com/artist/7bzKgx8PQw6TCVDSD43pc1) | [Turn All The Lights On](https://open.spotify.com/album/2So8QRALJzGvefJp86htBu) | 2:17 |
 | 48 | [Poker Face](https://open.spotify.com/track/6aFUMn7oUmcHKFnx1WPcJt) | [Lupage](https://open.spotify.com/artist/5MazkeVWAqayflCjldHhs3), [Joe Kox](https://open.spotify.com/artist/0aN6ilg8tbD71OTn12qx1G) | [Poker Face](https://open.spotify.com/album/6J3PjOxzJIi3swdqbXklDA) | 2:37 |
-| 49 | [A Love Confessed](https://open.spotify.com/track/5eRDeqewn5no4JaPiCwW2l) | [The Hitmen](https://open.spotify.com/artist/44de5I8rbCwTAjBF1xYv75) | [A Love Confessed](https://open.spotify.com/album/2rzgkzqBPaVf9ResZ329K1) | 3:56 |
-| 50 | [La La La](https://open.spotify.com/track/4lqXHIlyWwiOhLeLg5UbVv) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [La La La](https://open.spotify.com/album/1vvIQmbcJHJG1jO1Fn5ZuA) | 2:17 |
+| 49 | [La La La](https://open.spotify.com/track/4lqXHIlyWwiOhLeLg5UbVv) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [La La La](https://open.spotify.com/album/1vvIQmbcJHJG1jO1Fn5ZuA) | 2:17 |
+| 50 | [A Love Confessed](https://open.spotify.com/track/5eRDeqewn5no4JaPiCwW2l) | [The Hitmen](https://open.spotify.com/artist/44de5I8rbCwTAjBF1xYv75) | [A Love Confessed](https://open.spotify.com/album/2rzgkzqBPaVf9ResZ329K1) | 3:56 |
 
-Snapshot ID: `AAAAAHrl1SwPD6fG2QsQryssd8AsSM0+`
+Snapshot ID: `AAAAAERTxUqi4swo+1O3tYAlMJREJl1z`

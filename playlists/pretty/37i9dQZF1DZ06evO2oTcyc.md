@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oTcyc.md) - [plain]
 
 > This is Kodak Black\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,552 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,583 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oTcyc.md) - [plain]
 | 11 | [Roll in Peace \(feat\. XXXTENTACION\)](https://open.spotify.com/track/40oKW22ZNNkEdZLJTScaQI) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Project Baby 2: All Grown Up](https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i) | 3:33 |
 | 12 | [HVN ON EARTH \(with Kodak Black\)](https://open.spotify.com/track/4CIyxiObT9G35HrSItAblR) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [TEC](https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE) | 3:08 |
 | 13 | [Institution](https://open.spotify.com/track/2G6PeWL4JanUge47LNdFtJ) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Institution](https://open.spotify.com/album/4J5QtgOhv6tPCsxxifVskj) | 2:56 |
-| 14 | [BROTHER STONE \(FEAT\. KODAK BLACK\)](https://open.spotify.com/track/093MlZS93ZKlHpGkmb3k3W) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 3:22 |
-| 15 | [There He Go](https://open.spotify.com/track/6canmpFnLHVUzvVWAodifz) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Painting Pictures](https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96) | 3:16 |
+| 14 | [There He Go](https://open.spotify.com/track/6canmpFnLHVUzvVWAodifz) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Painting Pictures](https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96) | 3:16 |
+| 15 | [BROTHER STONE \(FEAT\. KODAK BLACK\)](https://open.spotify.com/track/093MlZS93ZKlHpGkmb3k3W) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 3:22 |
 | 16 | [Unexplainable](https://open.spotify.com/track/6X5x6uOKio6vBiHyptfkGV) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Project Baby 2: All Grown Up](https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i) | 2:30 |
 | 17 | [What It Is \(Block Boy\) \(with Kodak Black\)](https://open.spotify.com/track/1O8zCu3dLLPxkbGfIsbRgE) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [What It Is \(Block Boy\) \(with Kodak Black\)](https://open.spotify.com/album/1O9xrX782LqLx4Z60528Ih) | 3:43 |
 | 18 | [Walk](https://open.spotify.com/track/7kZKCghLgg9t0vvugqPXDV) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Kutthroat Bill: Vol\. 1](https://open.spotify.com/album/3QA68hsAUFPxoys8NGNtjs) | 2:46 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oTcyc.md) - [plain]
 | 47 | [Gave It All I Got](https://open.spotify.com/track/7Kbf1qDeDqshPsG2eSonFy) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Lil Big Pac](https://open.spotify.com/album/6dAUCUgPdEiorKV7101AtE) | 3:33 |
 | 48 | [Coolin and Booted](https://open.spotify.com/track/1Nh5WUisukhSNgwXLRoyZf) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Painting Pictures](https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96) | 3:34 |
 | 49 | [Shootin Craps \(feat\. Lil Yachty\)](https://open.spotify.com/track/77IoxXrzRvWNBpedy6HR8a) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Just Getting Started](https://open.spotify.com/album/29CRmHA3hsGk1nwoRnjbxC) | 2:32 |
-| 50 | [Angel Pt\. 1 \(feat\. Jimin of BTS, JVKE & Muni Long\) \- Trailer Version](https://open.spotify.com/track/5qyjy0xfsHNzWxvXkHVB85) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Angel Pt\. 1 \(feat\. Jimin of BTS, JVKE & Muni Long\) \[Trailer Version\]](https://open.spotify.com/album/6aHHJHhyAt6fBWwc7baiCw) | 1:02 |
+| 50 | [On Everything](https://open.spotify.com/track/3SgWgfBoO5JCJnpCwKd9DM) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Back For Everything](https://open.spotify.com/album/7sX9VE0I4zbslanrLXR5aR) | 3:12 |
 
-Snapshot ID: `aU3QAAAAAAB3DrjmhKS0pNjYSJ8IaK4w`
+Snapshot ID: `aU8hgAAAAACmHs+oQciBkAdikhKiOTkR`

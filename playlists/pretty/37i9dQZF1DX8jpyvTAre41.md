@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 
 > The best rock songs of the moment\. Cover: Softcult
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,276 likes - 107 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,274 likes - 107 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8jpyvTAre41.md) - [plain]
 | 106 | [Burn in Heaven](https://open.spotify.com/track/3JouCwLvnyyKE58ZYJqdxQ) | [TRAITRS](https://open.spotify.com/artist/3r7VhSKMedZrOa3zCD3e7X) | [Burn in Heaven](https://open.spotify.com/album/2Cr1h80WAj2HPKA2G9jc0k) | 3:17 |
 | 107 | [come around](https://open.spotify.com/track/3edjiwGzN2je2P4wAK4fjl) | [Cam Kahin](https://open.spotify.com/artist/1RZPdKEZaw9Mz2r0HNYiSw) | [come around](https://open.spotify.com/album/4M3HGuQOeW02F1EryOHozx) | 3:23 |
 
-Snapshot ID: `AAAAAJFW7aRESrBfR1rFv+eDMvNDhK67`
+Snapshot ID: `AAAAAPCl3g8k8VcYH63ikVHtaCJo1iab`

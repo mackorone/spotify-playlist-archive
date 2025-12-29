@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtUil6LVy3L.md) - [plain]
 
 > Cozy Christmas jazz tunes for your shopping, wrapping, cooking, studying or relaxing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,666 likes - 80 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,902 likes - 80 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtUil6LVy3L.md) - [plain]
 | 9 | [Somewhere In My Memory](https://open.spotify.com/track/2okeg8ZIf25wcY5QGCjZAz) | [Ron Bladworth](https://open.spotify.com/artist/0BqBNOQfrBTClJMq6n03Mf) | [Somewhere In My Memory](https://open.spotify.com/album/3xVrlYjcB3OKVvfdvzMbCX) | 3:22 |
 | 10 | [The Winter Song](https://open.spotify.com/track/0uo9UAJQ9o4O1U8wxR7Ipj) | [Vendla](https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu) | [Christmas Kiss](https://open.spotify.com/album/1ZGCxC05Xyfe9PW1ZQkEPc) | 2:31 |
 | 11 | [The greatest gift we've got](https://open.spotify.com/track/7kKeIMx30LYBbdXx3a2WFQ) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [The greatest gift we've got](https://open.spotify.com/album/28xA0XgYaLhtGl9z3XMQjr) | 3:37 |
-| 12 | [Christmas Is Coming](https://open.spotify.com/track/149nYuNSxKF3rPGpReOjtv) | [Isac Solo Trio](https://open.spotify.com/artist/0PQJ8CW64ZpCQTXIWvpkUN) | [Christmas Is Coming](https://open.spotify.com/album/6wilsjE6jfGO0ggnBV5QUU) | 3:04 |
-| 13 | [Please come home for christmas](https://open.spotify.com/track/4CjsInvWGmHOxxVQ2sS9F4) | [Jeff Laine & Co](https://open.spotify.com/artist/4i2Ps9G6SHd16reEGA5xva) | [Please come home for christmas](https://open.spotify.com/album/5r2ZzaDZhyqzORtTWnbYPM) | 2:33 |
+| 12 | [Please come home for christmas](https://open.spotify.com/track/4CjsInvWGmHOxxVQ2sS9F4) | [Jeff Laine & Co](https://open.spotify.com/artist/4i2Ps9G6SHd16reEGA5xva) | [Please come home for christmas](https://open.spotify.com/album/5r2ZzaDZhyqzORtTWnbYPM) | 2:33 |
+| 13 | [Christmas Is Coming](https://open.spotify.com/track/149nYuNSxKF3rPGpReOjtv) | [Isac Solo Trio](https://open.spotify.com/artist/0PQJ8CW64ZpCQTXIWvpkUN) | [Christmas Is Coming](https://open.spotify.com/album/6wilsjE6jfGO0ggnBV5QUU) | 3:04 |
 | 14 | [The First Noel](https://open.spotify.com/track/4pVxflK7JBEAzj4pEY8G8e) | [Flatland Park](https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd) | [The First Noel](https://open.spotify.com/album/0UykYUfd6JfL0WXXqbKGiX) | 2:30 |
 | 15 | [Lost in the Stars](https://open.spotify.com/track/5Q9vFxDdswixkE6GtM4Se4) | [UWS Jazz Trio](https://open.spotify.com/artist/2hWsHcobGML6Rr9HAdY44K) | [Lost in the Stars](https://open.spotify.com/album/4RrIEi9MX1i5IOq9g6leA7) | 3:25 |
 | 16 | [Here Comes Santa Claus](https://open.spotify.com/track/5J47ZMg53bfHMH1xChF7Go) | [Nordic Light Trio](https://open.spotify.com/artist/2BcQKRbEFJJaMcad1CRZ35) | [Here Comes Santa Claus](https://open.spotify.com/album/6ENVnAPjnAitIUGlyS72Jj) | 2:20 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtUil6LVy3L.md) - [plain]
 | 50 | [Dance of the Sugar Plum Fairy](https://open.spotify.com/track/7h4Ayplz18fKgoPUIWfaJd) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Frosty The Snowman](https://open.spotify.com/album/008Ifp6NdPVfUafKcraamu) | 1:54 |
 | 51 | [Angels from the Realms of Glory](https://open.spotify.com/track/4AHihkbxRhNCsOnJdy8NBC) | [Trois Amis](https://open.spotify.com/artist/19hT5DHNATnRhmkR5LevK7) | [Angels from the Realms of Glory](https://open.spotify.com/album/614xnvrnOoO8hojPMk5RUC) | 1:45 |
 | 52 | [Go Tell It On The Mountain](https://open.spotify.com/track/2IHJbBiT7v4oR4WXt63yVZ) | [Eltingvilles](https://open.spotify.com/artist/7qYYtUCPSVXspwRs4wiQ9R) | [Go Tell It On The Mountain](https://open.spotify.com/album/7IbDqi94MtPmiq4eLlZf6i) | 2:30 |
-| 53 | [This Night](https://open.spotify.com/track/3Afjdam5d5Fm0aPON2jZ6g) | [Bruce Willmington & Co](https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y) | [This Night](https://open.spotify.com/album/4nSqqilp2xNmXQzmanAqpH) | 2:59 |
-| 54 | [Up on the Housetop](https://open.spotify.com/track/2vGxnEVP4CQXSij7f2Bil9) | [Dan Evans\-Parker](https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4) | [Christmas Time](https://open.spotify.com/album/4O0xBHOwwopsTrx6Jo3MRt) | 1:13 |
+| 53 | [Up on the Housetop](https://open.spotify.com/track/2vGxnEVP4CQXSij7f2Bil9) | [Dan Evans\-Parker](https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4) | [Christmas Time](https://open.spotify.com/album/4O0xBHOwwopsTrx6Jo3MRt) | 1:13 |
+| 54 | [This Night](https://open.spotify.com/track/3Afjdam5d5Fm0aPON2jZ6g) | [Bruce Willmington & Co](https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y) | [This Night](https://open.spotify.com/album/4nSqqilp2xNmXQzmanAqpH) | 2:59 |
 | 55 | [Do you hear what I hear](https://open.spotify.com/track/6vjR177b1q4PVztpoOssHM) | [Norberg](https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy) | [Do you hear what I hear](https://open.spotify.com/album/0SXTCFp6pNWWHv3OgZl4w5) | 2:08 |
 | 56 | [Ave Maria](https://open.spotify.com/track/4Ed2ZWI33fojtD1FRhVk29) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [That Christmas Feel](https://open.spotify.com/album/1eRIaiBeErayP8Cfve02kJ) | 3:54 |
 | 57 | [Winter Serenade](https://open.spotify.com/track/0RjianjAK0XaKKeKzFKDIJ) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [Winter Serenade](https://open.spotify.com/album/6xvffKzCHUeklqySxTdK7V) | 3:07 |

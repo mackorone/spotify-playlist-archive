@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTlcGPMirK8.md) - [plain]
 
 > The biggest pop hits to come from the land down under.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,442 likes - 70 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,460 likes - 70 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTlcGPMirK8.md) - [plain]
 | 28 | [Angels Brought Me Here](https://open.spotify.com/track/6lzIABwQGhMa3Xbspb098s) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Just As I Am](https://open.spotify.com/album/5e055E2MQy4SspHknPO3Km) | 3:59 |
 | 29 | [Don't Call Me Baby](https://open.spotify.com/track/4fazGt0v2v2zkzddQOcDZD) | [Madison Avenue](https://open.spotify.com/artist/6otgz5gkB40UnWFwTy0VDh) | [Don't Call Me Baby](https://open.spotify.com/album/5L0SjLio3BQhFfvLxS5Eg7) | 3:48 |
 | 30 | [Hoops](https://open.spotify.com/track/3Q4DweD43ffeuELklLMKQk) | [The Rubens](https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI) | [Hoops](https://open.spotify.com/album/09nqIkoFAKnf77GEPBY6x1) | 2:38 |
-| 31 | [Tightrope](https://open.spotify.com/track/69kz02an0zTBl2NQdshqnB) | [Illy](https://open.spotify.com/artist/6NFyaN9PMCDZ3LKxGwHAXt) | [Cinematic](https://open.spotify.com/album/0AVD0hJCteRdN51sXiAEOz) | 4:52 |
-| 32 | [I Like The Way \- Radio Edit](https://open.spotify.com/track/0reKGVcWLVvl1FzjZ6TACy) | [Bodyrockers](https://open.spotify.com/artist/5GJmQjUNRyNQ2VZ4HOIx1C) | [Bodyrockers](https://open.spotify.com/album/4trfDRFU3Fd2P0jnuCKFaY) | 3:20 |
+| 31 | [I Like The Way \- Radio Edit](https://open.spotify.com/track/0reKGVcWLVvl1FzjZ6TACy) | [Bodyrockers](https://open.spotify.com/artist/5GJmQjUNRyNQ2VZ4HOIx1C) | [Bodyrockers](https://open.spotify.com/album/4trfDRFU3Fd2P0jnuCKFaY) | 3:20 |
+| 32 | [Tightrope](https://open.spotify.com/track/69kz02an0zTBl2NQdshqnB) | [Illy](https://open.spotify.com/artist/6NFyaN9PMCDZ3LKxGwHAXt) | [Cinematic](https://open.spotify.com/album/0AVD0hJCteRdN51sXiAEOz) | 4:52 |
 | 33 | [Resolution](https://open.spotify.com/track/76QK6gTaW2bBV47FDe3RPK) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Resolution \- EP](https://open.spotify.com/album/22aja1RtjRSzdKRuwx0Aog) | 4:16 |
 | 34 | [Can't Get You out of My Head](https://open.spotify.com/track/7m2g1kKuF7Tre2PzjK3Lnh) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever](https://open.spotify.com/album/6FTq1YhYJLetfJQrq02gdv) | 3:50 |
 | 35 | [Cheap Thrills](https://open.spotify.com/track/5QdHCXznWUKcKpUmU7Gguz) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting](https://open.spotify.com/album/64X210CD0I2zxCXT9xpYtw) | 3:31 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTlcGPMirK8.md) - [plain]
 | 61 | [Do You Remember](https://open.spotify.com/track/5V53dAjgNInfXNlz2cryvd) | [Jarryd James](https://open.spotify.com/artist/23IZADrJHPStZ6aMxJVq3s) | [Thirty One](https://open.spotify.com/album/4kZKz4ZQCnuKWV6MqOR2H2) | 3:54 |
 | 62 | [Tommy and Krista](https://open.spotify.com/track/4h64azBMSFV2yRFpavLtqY) | [Thirsty Merc](https://open.spotify.com/artist/0tTLmQvo0tn8vYlpJpA2no) | [Mousetrap Heart](https://open.spotify.com/album/0QvmRTObBV5FfYFTnO8qP7) | 3:52 |
 | 63 | [Pictures](https://open.spotify.com/track/2mNKIuM4xmeTNwe02NOem8) | [Sneaky Sound System](https://open.spotify.com/artist/6ieVhWXtOmK6DO6dmX7Eko) | [Sneaky Sound System](https://open.spotify.com/album/3POXlpDv0cikb180eu6k5j) | 3:16 |
-| 64 | [Boom Boom](https://open.spotify.com/track/0UmXSUCoE2I67n8ERd0Hdi) | [Justice Crew](https://open.spotify.com/artist/07Q9n9pbwR6jQ8xH4SA46b) | [Live By The Words](https://open.spotify.com/album/4kc6vrABh87kQ4onFSDPLq) | 3:07 |
-| 65 | [What About Me](https://open.spotify.com/track/3BUdRr4VGmNajx2wLWlGzl) | [Shannon Noll](https://open.spotify.com/artist/2JQme5IJ3U7SRVQqHGN2fG) | [That's What I'm Talking About](https://open.spotify.com/album/5wAoxrSVetP84EXgr4Tp3z) | 3:21 |
+| 64 | [What About Me](https://open.spotify.com/track/3BUdRr4VGmNajx2wLWlGzl) | [Shannon Noll](https://open.spotify.com/artist/2JQme5IJ3U7SRVQqHGN2fG) | [That's What I'm Talking About](https://open.spotify.com/album/5wAoxrSVetP84EXgr4Tp3z) | 3:21 |
+| 65 | [Boom Boom](https://open.spotify.com/track/0UmXSUCoE2I67n8ERd0Hdi) | [Justice Crew](https://open.spotify.com/artist/07Q9n9pbwR6jQ8xH4SA46b) | [Live By The Words](https://open.spotify.com/album/4kc6vrABh87kQ4onFSDPLq) | 3:07 |
 | 66 | [Shiver](https://open.spotify.com/track/2ZudaDYcCTgqqYPV0TrNn8) | [Natalie Imbruglia](https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP) | [Counting Down The Days](https://open.spotify.com/album/1PD3hNs0PRMtOeU11DPpim) | 3:42 |
 | 67 | [Lost Without You](https://open.spotify.com/track/1w0JL6vJdl82xqyRW30HrK) | [Delta Goodrem](https://open.spotify.com/artist/2g6fa86fL6oLcoDqanBbuR) | [Innocent Eyes](https://open.spotify.com/album/26h1O5W89WLiEzxTztbGfu) | 4:10 |
 | 68 | [The Fighter](https://open.spotify.com/track/7EAFj7eJcMF5koWSRJVZcL) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Ripcord \(Australian Tour Edition\)](https://open.spotify.com/album/1r7ABqzNXQnUPAH3ZjrHMn) | 3:04 |

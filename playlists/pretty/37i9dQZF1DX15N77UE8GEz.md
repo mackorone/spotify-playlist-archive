@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15N77UE8GEz.md) - [plain]
 
 > ¡Escucha los éxitos de hoy!<br/>Foto: Young Cister
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,330 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,322 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

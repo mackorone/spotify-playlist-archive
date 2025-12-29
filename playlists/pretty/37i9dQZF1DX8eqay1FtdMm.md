@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eqay1FtdMm.md) - [plain]
 
 > Meet the best Korean vocalists who will melt your eardrums! \(Cover: Klozer, Danny Koo\) 여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 416,688 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 416,653 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,16 +87,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eqay1FtdMm.md) - [plain]
 | 77 | [All Our Days](https://open.spotify.com/track/6SCzQNXZpExdFIJ5vsX04y) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [Family by Choice \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/4lZPOXajtPXz2lOvpzLPNT) | 4:48 |
 | 78 | [Broken Party](https://open.spotify.com/track/7C9YOYpERtlL1kRfiS4LMf) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [Broken Party](https://open.spotify.com/album/7aST6feyEV5Ugu74CPquXL) | 2:57 |
 | 79 | [When flowering spring comes](https://open.spotify.com/track/1P5Ijjvm4fIpFs1hyArWSW) | [BMK](https://open.spotify.com/artist/6Eu0E62DUJquPQIdgaGO5O) | [SOUL FOOD](https://open.spotify.com/album/00Rkb4GSR346Tbb3xvMv9Q) | 4:44 |
-| 80 | [Days without you](https://open.spotify.com/track/14xiv5uhzoRdqd3cxHiBbw) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [&10](https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF) | 4:33 |
-| 81 | [Even for a moment](https://open.spotify.com/track/1nS7nL6Kyh8p0DOglJTdfD) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc), [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Even for a moment](https://open.spotify.com/album/19rjRXOhUh0ZzOLIbWAyK2) | 4:53 |
+| 80 | [Even for a moment](https://open.spotify.com/track/1nS7nL6Kyh8p0DOglJTdfD) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc), [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Even for a moment](https://open.spotify.com/album/19rjRXOhUh0ZzOLIbWAyK2) | 4:53 |
+| 81 | [Days without you](https://open.spotify.com/track/14xiv5uhzoRdqd3cxHiBbw) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [&10](https://open.spotify.com/album/1LO8EUUBv1ZdacxIx1KoWF) | 4:33 |
 | 82 | [Complications \(ft\. SOLE\)](https://open.spotify.com/track/1XGtdNHscboubm98Ajuh7R) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [dopamine](https://open.spotify.com/album/7FOdOoz6j0vcY8UlIbft76) | 2:52 |
 | 83 | [미워요 I Hate You](https://open.spotify.com/track/4s5j8hpy5nbgvVU0VLBNtt) | [Jung In](https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM) | [정인 Jung In from Andromeda](https://open.spotify.com/album/1vaWpmAMtq5MuKCAna7afD) | 3:22 |
 | 84 | [It′s My Life](https://open.spotify.com/track/01zMJ3mp9nqZmJTCeb3lLl) | [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [HOSPITAL PLAYLIST Season2, Pt\. 10 \(Original Television Soundtrack\)](https://open.spotify.com/album/36VmbKKMtbSt0GUcQkwRV8) | 4:16 |
 | 85 | [17](https://open.spotify.com/track/7dQEQaqSRFRApHDl2avlT3) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [17](https://open.spotify.com/album/6ap1HVFEbkAkMurMVg3zXM) | 2:50 |
 | 86 | [Miss You](https://open.spotify.com/track/6TPJUSTwkXVJTdJJZDn8Kf) | [BANG YEDAM](https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X) | [Miss You](https://open.spotify.com/album/5KikwWA1Iu4wRvp8HYfCnD) | 3:06 |
 | 87 | [Bluebird](https://open.spotify.com/track/7JC9LqrsGddVUm1s1kkVtM) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Bluebird](https://open.spotify.com/album/0vfXAOcQKcNCJJNRbY6tbj) | 2:59 |
-| 88 | [one summer](https://open.spotify.com/track/7EAkXA5TvfYOYE9EzE3mtc) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [one summer](https://open.spotify.com/album/1dSFPUYpKZiSdBb4jonPPK) | 3:59 |
-| 89 | [Because of You](https://open.spotify.com/track/5jZYTT8lSXiVzkpiBTQGTj) | [Chancellor](https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx) | [Rookie Cops \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/3Ra3w8SYFm3Oaou3Per5bn) | 3:32 |
+| 88 | [Because of You](https://open.spotify.com/track/5jZYTT8lSXiVzkpiBTQGTj) | [Chancellor](https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx) | [Rookie Cops \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/3Ra3w8SYFm3Oaou3Per5bn) | 3:32 |
+| 89 | [one summer](https://open.spotify.com/track/7EAkXA5TvfYOYE9EzE3mtc) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [one summer](https://open.spotify.com/album/1dSFPUYpKZiSdBb4jonPPK) | 3:59 |
 | 90 | [Holding hands or walking together.](https://open.spotify.com/track/0DXnSV98JM6bwf4fWiUyKb) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Trip: Tape \#01](https://open.spotify.com/album/5S8wLJic0Vn1PoyCxzShVM) | 3:14 |
 | 91 | [Ode To The Stars](https://open.spotify.com/track/1pFgar9U2S5FfrNdnSVOJK) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j), [LEE RAON](https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane) | [Ode To The Stars](https://open.spotify.com/album/5AYHR2HOnxZuZJnXTvJaGA) | 4:42 |
 | 92 | [Burn Like A Star](https://open.spotify.com/track/0eB4NVRmmtO99SKfvBU56O) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs), [Woo Ye Rin](https://open.spotify.com/artist/4fwMfZcOMGXSgZvw5F28UL) | [Burn Like A Star](https://open.spotify.com/album/36xIARKjnu1X4NijtbBpMQ) | 3:08 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eqay1FtdMm.md) - [plain]
 | 96 | [The Eternal Moment](https://open.spotify.com/track/3K7dk2oIAmxJnhv8i24ak8) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [Red Moon: Beyond The Light](https://open.spotify.com/album/5Id1UecoJT2agC8uag0jL6) | 4:04 |
 | 97 | [Alley \(with SUNG SI KYUNG\)](https://open.spotify.com/track/2Qp3RHSP5f9csqFhhFgPrC) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Alley](https://open.spotify.com/album/1klgaObg00RhXIsKmVysk4) | 4:45 |
 | 98 | [Solo Christmas](https://open.spotify.com/track/68EjlUiUE17axlrQSOrmfC) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF), [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [Solo Christmas](https://open.spotify.com/album/3GnhJ2bDR3nR95f0y4UV5h) | 3:36 |
-| 99 | [Perfect](https://open.spotify.com/track/5fI0JERjR9jDo8JFLS2KyI) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Love Playlist3 Part.1](https://open.spotify.com/album/7v83AxfLka9IiTGEv4d9DI) | 3:57 |
-| 100 | [Spring day goes](https://open.spotify.com/track/4qg4R296ne1vu0Mlsdtg99) | [Kim Yuna](https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea) | [Shadow Of Your Smile](https://open.spotify.com/album/5En3Hjv2Vvyp4xDp2CiK7E) | 4:33 |
+| 99 | [Spring day goes](https://open.spotify.com/track/4qg4R296ne1vu0Mlsdtg99) | [Kim Yuna](https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea) | [Shadow Of Your Smile](https://open.spotify.com/album/5En3Hjv2Vvyp4xDp2CiK7E) | 4:33 |
+| 100 | [Perfect](https://open.spotify.com/track/5fI0JERjR9jDo8JFLS2KyI) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Love Playlist3 Part.1](https://open.spotify.com/album/7v83AxfLka9IiTGEv4d9DI) | 3:57 |
 
 Snapshot ID: `AAAAAAlP8jR+O1qizByXEFYqUIZ9Qr0r`

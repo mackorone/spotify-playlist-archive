@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 
 > Wekelijkse update! Cover: Anyma & EJAE
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,141 likes - 105 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,139 likes - 105 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Lilly Palmer, Danny Avila
 
-[Spotify](https://open.spotify.com/user/spotify) - 734,425 likes - 90 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 734,468 likes - 90 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [Time Modulation\-Graviton Pulse](https://open.spotify.com/track/1YdYtR922ValZwjX6xYggI) | [Dopplereffekt](https://open.spotify.com/artist/2w3mvReNNIQ7S44MAr89zu) | [Metasymmetry](https://open.spotify.com/album/0N2eCKy3yMURz6tYkrtcub) | 5:41 |
 | 90 | [Perla \- Extended Mix](https://open.spotify.com/track/1J4BwqPCGTCQOgpJmAoHhp) | [Nico Stojan](https://open.spotify.com/artist/1SuKmGtjsRRJcGhTspfUnd), [Tooker](https://open.spotify.com/artist/4g8ii7UNqIRzb5NDJmjjqT) | [Perla](https://open.spotify.com/album/4n5fqMsAiHfTGGwdqTEabp) | 6:12 |
 
-Snapshot ID: `AAAAAM5fcSdP73xgCTDlCXLspYUvrlUQ`
+Snapshot ID: `AAAAAMrxc5I6+PRblFlpVYEAPoqGXhdb`

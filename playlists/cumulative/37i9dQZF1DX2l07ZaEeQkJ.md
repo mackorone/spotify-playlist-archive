@@ -2,7 +2,7 @@
 
 ### [traka](https://open.spotify.com/playlist/37i9dQZF1DX2l07ZaEeQkJ)
 
-> ké? traka..\. de mujer 🎀💅🏽💕🌸
+> trakas hdsptm 👿👹🍻🍾🫡💸
 
 305 songs - 15 hr 56 min
 

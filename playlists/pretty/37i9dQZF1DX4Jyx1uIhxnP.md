@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Jyx1uIhxnP.md) - [plain]
 
 > Iconic indie tunes from your favourite films.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,153 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,172 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Jyx1uIhxnP.md) - [plain]
 | 13 | [Stuck on the puzzle](https://open.spotify.com/track/3cUxncrTWSA9lhlQbuIwUY) | [Alex Turner](https://open.spotify.com/artist/1ctkBmvz80MGyi72Ix055S) | [Submarine \- Original Songs From The Film By Alex Turner](https://open.spotify.com/album/3OqRGywivnQ0IeClUeUa4n) | 3:31 |
 | 14 | [Lust For Life](https://open.spotify.com/track/21YxK0klhpfLW8budkJaMF) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz) | 5:13 |
 | 15 | [The Only Living Boy in New York](https://open.spotify.com/track/5MbXzXGbqobR8xPVPs8OXA) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 4:01 |
-| 16 | [Magic Man](https://open.spotify.com/track/4sUlsy0tPv9n5nqrqeA0lE) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Dreamboat Annie](https://open.spotify.com/album/2N0AgtWbCmVoNUl2GN1opH) | 5:28 |
-| 17 | [Mystery of Love \(From the Original Motion Picture “Call Me by Your Name”\)](https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Mystery of Love \(From the Original Motion Picture “Call Me by Your Name”\)](https://open.spotify.com/album/2uMaCzN7a35J3I3qceso0c) | 4:08 |
+| 16 | [Mystery of Love \(From the Original Motion Picture “Call Me by Your Name”\)](https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Mystery of Love \(From the Original Motion Picture “Call Me by Your Name”\)](https://open.spotify.com/album/2uMaCzN7a35J3I3qceso0c) | 4:08 |
+| 17 | [Magic Man](https://open.spotify.com/track/4sUlsy0tPv9n5nqrqeA0lE) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Dreamboat Annie](https://open.spotify.com/album/2N0AgtWbCmVoNUl2GN1opH) | 5:28 |
 | 18 | [Mykonos](https://open.spotify.com/track/7H71gZwWs3xPWnHM30NDUp) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [First Collection: 2006\-2009](https://open.spotify.com/album/2m7zr13OtqMWyPkO32WRo0) | 4:35 |
 | 19 | [Too Young](https://open.spotify.com/track/2THkQauDWMvJgXFGPY4iKB) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [United](https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68) | 3:17 |
 | 20 | [Temptation](https://open.spotify.com/track/7j5Q3zhjvpQvMeoPSZwdsa) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Substance](https://open.spotify.com/album/6iHuSGy6pq4tNGFV3ZVPtl) | 6:59 |

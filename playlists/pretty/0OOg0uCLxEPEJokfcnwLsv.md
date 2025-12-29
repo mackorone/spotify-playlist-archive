@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 568 likes - 85 songs - 5 hr 11 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 574 likes - 87 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,5 +93,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 83 | [Stay With You](https://open.spotify.com/track/0itsoBycSDpBi8OoaKj5CY) | [ToloV](https://open.spotify.com/artist/4t3awapuIDzb4fGOMWR35Q) | [Stay With You](https://open.spotify.com/album/4RWd149IxtWI1XcOHuYHQe) | 2:46 |
 | 84 | [Away](https://open.spotify.com/track/2tm4WMB9krMVIFdbKfMw14) | [The Dead Hearts](https://open.spotify.com/artist/2s9mLTL8FL7NWqACzxXrwO) | [Plight Goes On](https://open.spotify.com/album/7C005ZPm1M5yhw4pEWE2lX) | 3:32 |
 | 85 | [The Poorest Man](https://open.spotify.com/track/2vD6arZnrJGMuj6C977t0o) | [Brassard](https://open.spotify.com/artist/27AIl8w2zVXZM9z6YpNU27) | [Marathon](https://open.spotify.com/album/03fIWOLe2bwngeOwGnIJW2) | 4:04 |
+| 86 | [Oh Lord \- DEMO](https://open.spotify.com/track/5B7Z958xoP5tSH4PAP0zwF) | [Lucy Benedetti](https://open.spotify.com/artist/1WKuen7Let4lgNPiKDVfl7) | [Oh Lord \(DEMO\)](https://open.spotify.com/album/3MNsjdaUPWdVKKMPXgj70g) | 3:36 |
+| 87 | [My Body Says](https://open.spotify.com/track/6h0BrrBxPrdQzgwQGol7HZ) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [My Body Says](https://open.spotify.com/album/2MhAQxt52HGrv0ExsdLFcE) | 3:55 |
 
-Snapshot ID: `AAAETMsh1Fv0Dv9exOklcG8rss4taep2`
+Snapshot ID: `AAAETvNUPyh+9sIx7WCCdKO2fSqp7tu5`

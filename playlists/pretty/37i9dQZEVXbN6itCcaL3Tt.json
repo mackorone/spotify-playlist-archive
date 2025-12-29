@@ -1,15 +1,55 @@
 {
   "description": "Your daily update of the most played tracks right now - Poland.",
-  "num_followers": 273773,
+  "num_followers": 273864,
   "original_name": "Top 50 - Poland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MONVAAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MOSkKAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-12-27 14:29:23",
+      "added_at": "2025-12-28 13:45:53",
+      "album": {
+        "name": "ZA KOGO MNIE MASZ?",
+        "url": "https://open.spotify.com/album/3kz1EtZRcplOc8iCrQw4bY"
+      },
+      "artists": [
+        {
+          "name": "Sobel",
+          "url": "https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH"
+        },
+        {
+          "name": "francis",
+          "url": "https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko"
+        },
+        {
+          "name": "SHD\u00d8W",
+          "url": "https://open.spotify.com/artist/1k4FU2VP9e8I3yY9tz3Stt"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "ZA KOGO MNIE MASZ?",
+      "url": "https://open.spotify.com/track/2uWl1FzqmmA3hGdjlHp8mR"
+    },
+    {
+      "added_at": "2025-12-28 13:45:53",
+      "album": {
+        "name": "B\u0118D\u0118 PREZYDENTEM :)",
+        "url": "https://open.spotify.com/album/2Wydw9B4D0ZIlblUv0fXO7"
+      },
+      "artists": [
+        {
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "B\u0118D\u0118 PREZYDENTEM :)",
+      "url": "https://open.spotify.com/track/1yWCdDFV6kdML8EeUpyzhd"
+    },
+    {
+      "added_at": "2025-12-28 13:45:53",
       "album": {
         "name": "LATARNIE WSZ\u0118DZIE DAWNO ZGAS\u0141Y",
         "url": "https://open.spotify.com/album/6sIS875clsC3HlnRhIzXWL"
@@ -33,23 +73,7 @@
       "url": "https://open.spotify.com/track/6F9Xu5kvOMQNCPFkoa2yST"
     },
     {
-      "added_at": "2025-12-27 14:29:23",
-      "album": {
-        "name": "B\u0118D\u0118 PREZYDENTEM :)",
-        "url": "https://open.spotify.com/album/2Wydw9B4D0ZIlblUv0fXO7"
-      },
-      "artists": [
-        {
-          "name": "Mata",
-          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "B\u0118D\u0118 PREZYDENTEM :)",
-      "url": "https://open.spotify.com/track/1yWCdDFV6kdML8EeUpyzhd"
-    },
-    {
-      "added_at": "2025-12-27 14:29:23",
+      "added_at": "2025-12-28 13:45:53",
       "album": {
         "name": "LATARNIE WSZ\u0118DZIE DAWNO ZGAS\u0141Y",
         "url": "https://open.spotify.com/album/6sIS875clsC3HlnRhIzXWL"
@@ -73,7 +97,27 @@
       "url": "https://open.spotify.com/track/46A0vSoknm8uAX8h313zuo"
     },
     {
-      "added_at": "2025-12-27 14:29:23",
+      "added_at": "2025-12-28 13:45:53",
+      "album": {
+        "name": "LATARNIE WSZ\u0118DZIE DAWNO ZGAS\u0141Y",
+        "url": "https://open.spotify.com/album/6sIS875clsC3HlnRhIzXWL"
+      },
+      "artists": [
+        {
+          "name": "Taco Hemingway",
+          "url": "https://open.spotify.com/artist/7CJgLPEqiIRuneZSolpawQ"
+        },
+        {
+          "name": "@atutowy",
+          "url": "https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a"
+        }
+      ],
+      "duration_ms": 167693,
+      "name": "TRAMWAJE",
+      "url": "https://open.spotify.com/track/32haRInUgsVtp0ftdH05eF"
+    },
+    {
+      "added_at": "2025-12-28 13:45:53",
       "album": {
         "name": "LATARNIE WSZ\u0118DZIE DAWNO ZGAS\u0141Y",
         "url": "https://open.spotify.com/album/6sIS875clsC3HlnRhIzXWL"
@@ -97,43 +141,7 @@
       "url": "https://open.spotify.com/track/38Jen8MKWIwtRDOhbxFCzG"
     },
     {
-      "added_at": "2025-12-27 14:29:23",
-      "album": {
-        "name": "LATARNIE WSZ\u0118DZIE DAWNO ZGAS\u0141Y",
-        "url": "https://open.spotify.com/album/6sIS875clsC3HlnRhIzXWL"
-      },
-      "artists": [
-        {
-          "name": "Taco Hemingway",
-          "url": "https://open.spotify.com/artist/7CJgLPEqiIRuneZSolpawQ"
-        },
-        {
-          "name": "@atutowy",
-          "url": "https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a"
-        }
-      ],
-      "duration_ms": 167693,
-      "name": "TRAMWAJE",
-      "url": "https://open.spotify.com/track/32haRInUgsVtp0ftdH05eF"
-    },
-    {
-      "added_at": "2025-12-27 14:29:23",
-      "album": {
-        "name": "LAST CHRISTMAS",
-        "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
-      },
-      "artists": [
-        {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
-        }
-      ],
-      "duration_ms": 262960,
-      "name": "Last Christmas",
-      "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
-    },
-    {
-      "added_at": "2025-12-27 14:29:23",
+      "added_at": "2025-12-28 13:45:53",
       "album": {
         "name": "LATARNIE WSZ\u0118DZIE DAWNO ZGAS\u0141Y",
         "url": "https://open.spotify.com/album/6sIS875clsC3HlnRhIzXWL"
@@ -157,39 +165,7 @@
       "url": "https://open.spotify.com/track/3ZUQepwP4DaUlUmup5nBgr"
     },
     {
-      "added_at": "2025-12-27 14:29:23",
-      "album": {
-        "name": "Merry Christmas",
-        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 241562,
-      "name": "All I Want for Christmas Is You",
-      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
-    },
-    {
-      "added_at": "2025-12-27 14:29:23",
-      "album": {
-        "name": "Merry Christmas From Brenda Lee",
-        "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
-      },
-      "artists": [
-        {
-          "name": "Brenda Lee",
-          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
-        }
-      ],
-      "duration_ms": 126266,
-      "name": "Rockin' Around The Christmas Tree",
-      "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
-    },
-    {
-      "added_at": "2025-12-27 14:29:23",
+      "added_at": "2025-12-28 13:45:53",
       "album": {
         "name": "LATARNIE WSZ\u0118DZIE DAWNO ZGAS\u0141Y",
         "url": "https://open.spotify.com/album/6sIS875clsC3HlnRhIzXWL"
@@ -209,23 +185,7 @@
       "url": "https://open.spotify.com/track/34EvfmBvF8Aexxx7R8uBkD"
     },
     {
-      "added_at": "2025-12-27 14:29:23",
-      "album": {
-        "name": "Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol)",
-        "url": "https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT"
-      },
-      "artists": [
-        {
-          "name": "Bobby Helms",
-          "url": "https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC"
-        }
-      ],
-      "duration_ms": 130973,
-      "name": "Jingle Bell Rock",
-      "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
-    },
-    {
-      "added_at": "2025-12-27 14:29:23",
+      "added_at": "2025-12-28 13:45:53",
       "album": {
         "name": "Halo tu Londyn",
         "url": "https://open.spotify.com/album/2wQaqkTFkT6X9IuUPayjKS"
@@ -241,7 +201,27 @@
       "url": "https://open.spotify.com/track/7o0s4eVw14M1QjfmbLGtuI"
     },
     {
-      "added_at": "2025-12-27 14:29:23",
+      "added_at": "2025-12-28 13:45:53",
+      "album": {
+        "name": "Kamie\u0144 z serca",
+        "url": "https://open.spotify.com/album/16Y90TWEQCrFeTvstYa8ti"
+      },
+      "artists": [
+        {
+          "name": "Bedoes 2115",
+          "url": "https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74"
+        },
+        {
+          "name": "Kubi Producent",
+          "url": "https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht"
+        }
+      ],
+      "duration_ms": 409600,
+      "name": "Kamie\u0144 z serca",
+      "url": "https://open.spotify.com/track/0A96peS7MFS4qNDFPGGQe2"
+    },
+    {
+      "added_at": "2025-12-28 13:45:53",
       "album": {
         "name": "LATARNIE WSZ\u0118DZIE DAWNO ZGAS\u0141Y",
         "url": "https://open.spotify.com/album/6sIS875clsC3HlnRhIzXWL"
@@ -265,63 +245,7 @@
       "url": "https://open.spotify.com/track/5ZzqEM2c3z0EV1fXjOdIAY"
     },
     {
-      "added_at": "2025-12-27 14:29:23",
-      "album": {
-        "name": "Kamie\u0144 z serca",
-        "url": "https://open.spotify.com/album/16Y90TWEQCrFeTvstYa8ti"
-      },
-      "artists": [
-        {
-          "name": "Bedoes 2115",
-          "url": "https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74"
-        },
-        {
-          "name": "Kubi Producent",
-          "url": "https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht"
-        }
-      ],
-      "duration_ms": 409600,
-      "name": "Kamie\u0144 z serca",
-      "url": "https://open.spotify.com/track/0A96peS7MFS4qNDFPGGQe2"
-    },
-    {
-      "added_at": "2025-12-27 14:29:23",
-      "album": {
-        "name": "Everyday Is Christmas (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 165900,
-      "name": "Snowman",
-      "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
-    },
-    {
-      "added_at": "2025-12-27 14:29:23",
-      "album": {
-        "name": "LATARNIE WSZ\u0118DZIE DAWNO ZGAS\u0141Y",
-        "url": "https://open.spotify.com/album/6sIS875clsC3HlnRhIzXWL"
-      },
-      "artists": [
-        {
-          "name": "Taco Hemingway",
-          "url": "https://open.spotify.com/artist/7CJgLPEqiIRuneZSolpawQ"
-        },
-        {
-          "name": "Rumak",
-          "url": "https://open.spotify.com/artist/0SHA3sB1gMMWcphYond5y3"
-        }
-      ],
-      "duration_ms": 259760,
-      "name": "OSTATNI?",
-      "url": "https://open.spotify.com/track/3a51UOTGkYqS33tMHPCmnf"
-    },
-    {
-      "added_at": "2025-12-27 14:29:23",
+      "added_at": "2025-12-28 13:45:53",
       "album": {
         "name": "LATARNIE WSZ\u0118DZIE DAWNO ZGAS\u0141Y",
         "url": "https://open.spotify.com/album/6sIS875clsC3HlnRhIzXWL"
@@ -345,7 +269,27 @@
       "url": "https://open.spotify.com/track/2hSt1qI3QToqpaylO4NHBd"
     },
     {
-      "added_at": "2025-12-27 14:29:23",
+      "added_at": "2025-12-28 13:45:53",
+      "album": {
+        "name": "LATARNIE WSZ\u0118DZIE DAWNO ZGAS\u0141Y",
+        "url": "https://open.spotify.com/album/6sIS875clsC3HlnRhIzXWL"
+      },
+      "artists": [
+        {
+          "name": "Taco Hemingway",
+          "url": "https://open.spotify.com/artist/7CJgLPEqiIRuneZSolpawQ"
+        },
+        {
+          "name": "Rumak",
+          "url": "https://open.spotify.com/artist/0SHA3sB1gMMWcphYond5y3"
+        }
+      ],
+      "duration_ms": 259760,
+      "name": "OSTATNI?",
+      "url": "https://open.spotify.com/track/3a51UOTGkYqS33tMHPCmnf"
+    },
+    {
+      "added_at": "2025-12-28 13:45:53",
       "album": {
         "name": "Plain Jane",
         "url": "https://open.spotify.com/album/1HfaMal3Pyq9XkLc9SnnBP"
@@ -361,7 +305,27 @@
       "url": "https://open.spotify.com/track/5FgLtqCQ4uy59ubcTVgS03"
     },
     {
-      "added_at": "2025-12-27 14:29:23",
+      "added_at": "2025-12-28 13:45:53",
+      "album": {
+        "name": "Rura musi yeah",
+        "url": "https://open.spotify.com/album/0IJG6vKh4cB5f2fkEspyJj"
+      },
+      "artists": [
+        {
+          "name": "Tax Free",
+          "url": "https://open.spotify.com/artist/1TdOWV3JFAGmZ1466aKbg5"
+        },
+        {
+          "name": "CUZCO$",
+          "url": "https://open.spotify.com/artist/5YX5w3ApI8if9LJHhh8tei"
+        }
+      ],
+      "duration_ms": 148800,
+      "name": "Rura musi yeah",
+      "url": "https://open.spotify.com/track/0pcDPL1VAaCYECzx8PMhMe"
+    },
+    {
+      "added_at": "2025-12-28 13:45:53",
       "album": {
         "name": "LATARNIE WSZ\u0118DZIE DAWNO ZGAS\u0141Y",
         "url": "https://open.spotify.com/album/6sIS875clsC3HlnRhIzXWL"
@@ -385,23 +349,7 @@
       "url": "https://open.spotify.com/track/5BuBJpjdOByZGbHWcTy2wj"
     },
     {
-      "added_at": "2025-12-27 14:29:23",
-      "album": {
-        "name": "NEXT",
-        "url": "https://open.spotify.com/album/2WO3Kt3oLo4ApWcy6nFkQo"
-      },
-      "artists": [
-        {
-          "name": "javier",
-          "url": "https://open.spotify.com/artist/7cLA1cTY8dCn9Kb8r8JdKY"
-        }
-      ],
-      "duration_ms": 113089,
-      "name": "SIE KLEI",
-      "url": "https://open.spotify.com/track/6hTcG0znsgf33wBAnf8P8y"
-    },
-    {
-      "added_at": "2025-12-27 14:29:23",
+      "added_at": "2025-12-28 13:45:53",
       "album": {
         "name": "LATARNIE WSZ\u0118DZIE DAWNO ZGAS\u0141Y",
         "url": "https://open.spotify.com/album/6sIS875clsC3HlnRhIzXWL"
@@ -425,139 +373,7 @@
       "url": "https://open.spotify.com/track/7Irx82ZzAsYeVnkLKB8CGC"
     },
     {
-      "added_at": "2025-12-27 14:29:23",
-      "album": {
-        "name": "Merry Christmas Everyone",
-        "url": "https://open.spotify.com/album/2jCRKrNZVbG2lGMs0S9Opa"
-      },
-      "artists": [
-        {
-          "name": "Shakin' Stevens",
-          "url": "https://open.spotify.com/artist/0wi4yTYlGtEnbGo4ltZTib"
-        }
-      ],
-      "duration_ms": 220160,
-      "name": "Merry Christmas Everyone",
-      "url": "https://open.spotify.com/track/2TE4xW3ImvpltVU0cPcKUn"
-    },
-    {
-      "added_at": "2025-12-27 14:29:23",
-      "album": {
-        "name": "Baciata",
-        "url": "https://open.spotify.com/album/2Swgs4e19ysNnoRo0HC3Ru"
-      },
-      "artists": [
-        {
-          "name": "Malik Montana",
-          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Baciata",
-      "url": "https://open.spotify.com/track/58JXOkFJ9P50s2L1pEOdPF"
-    },
-    {
-      "added_at": "2025-12-27 14:29:23",
-      "album": {
-        "name": "A Winter Romance",
-        "url": "https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 117146,
-      "name": "Let It Snow! Let It Snow! Let It Snow!",
-      "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
-    },
-    {
-      "added_at": "2025-12-27 14:29:23",
-      "album": {
-        "name": "LATARNIE WSZ\u0118DZIE DAWNO ZGAS\u0141Y",
-        "url": "https://open.spotify.com/album/6sIS875clsC3HlnRhIzXWL"
-      },
-      "artists": [
-        {
-          "name": "Taco Hemingway",
-          "url": "https://open.spotify.com/artist/7CJgLPEqiIRuneZSolpawQ"
-        },
-        {
-          "name": "@atutowy",
-          "url": "https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a"
-        },
-        {
-          "name": "Borucci",
-          "url": "https://open.spotify.com/artist/6g2jl1lzwac64Q6pAI2PEt"
-        },
-        {
-          "name": "The Returners",
-          "url": "https://open.spotify.com/artist/4zO6WqG8mu49ek0ZDIptTk"
-        }
-      ],
-      "duration_ms": 202666,
-      "name": "FOTOMODELKI",
-      "url": "https://open.spotify.com/track/2LBD44rqa3ZTodKecAayaa"
-    },
-    {
-      "added_at": "2025-12-27 14:29:23",
-      "album": {
-        "name": "Santa Tell Me",
-        "url": "https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 204093,
-      "name": "Santa Tell Me",
-      "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
-    },
-    {
-      "added_at": "2025-12-27 14:29:23",
-      "album": {
-        "name": "Christmas",
-        "url": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 206639,
-      "name": "It's Beginning to Look a Lot like Christmas",
-      "url": "https://open.spotify.com/track/0lLdorYw7lVrJydTINhWdI"
-    },
-    {
-      "added_at": "2025-12-27 14:29:23",
-      "album": {
-        "name": "2039: Z\u0141OTE PIASKI",
-        "url": "https://open.spotify.com/album/0kOoe3zE19AKMyYcCEFubt"
-      },
-      "artists": [
-        {
-          "name": "Mata",
-          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
-        },
-        {
-          "name": "Skolim",
-          "url": "https://open.spotify.com/artist/3RJrimoFyTK3SoTF4TaDSA"
-        },
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        }
-      ],
-      "duration_ms": 182850,
-      "name": "KAMIKAZE",
-      "url": "https://open.spotify.com/track/5tCxCYuFA57AhVtHqxP7kr"
-    },
-    {
-      "added_at": "2025-12-27 14:29:23",
+      "added_at": "2025-12-28 13:45:53",
       "album": {
         "name": "dop\u00f3ki si\u0119 nie zn\u00fcdzisz",
         "url": "https://open.spotify.com/album/1o1JLfKESFIoGR6ssuy8Pl"
@@ -585,23 +401,63 @@
       "url": "https://open.spotify.com/track/4WU8ZRMoonGLw00lXLOvpY"
     },
     {
-      "added_at": "2025-12-27 14:29:23",
+      "added_at": "2025-12-28 13:45:53",
       "album": {
-        "name": "Dancing with Strangers (Deluxe Edition, 2019 Remaster)",
-        "url": "https://open.spotify.com/album/5tR0alqUd1KMW37vPnsOC4"
+        "name": "2039: Z\u0141OTE PIASKI",
+        "url": "https://open.spotify.com/album/0kOoe3zE19AKMyYcCEFubt"
       },
       "artists": [
         {
-          "name": "Chris Rea",
-          "url": "https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2"
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
+        },
+        {
+          "name": "Skolim",
+          "url": "https://open.spotify.com/artist/3RJrimoFyTK3SoTF4TaDSA"
+        },
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
         }
       ],
-      "duration_ms": 241626,
-      "name": "Driving Home for Christmas - 2019 Remaster",
-      "url": "https://open.spotify.com/track/27qAMKrDdKEs8HDXcvR24R"
+      "duration_ms": 182850,
+      "name": "KAMIKAZE",
+      "url": "https://open.spotify.com/track/5tCxCYuFA57AhVtHqxP7kr"
     },
     {
-      "added_at": "2025-12-27 14:29:23",
+      "added_at": "2025-12-28 13:45:53",
+      "album": {
+        "name": "Baciata",
+        "url": "https://open.spotify.com/album/2Swgs4e19ysNnoRo0HC3Ru"
+      },
+      "artists": [
+        {
+          "name": "Malik Montana",
+          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Baciata",
+      "url": "https://open.spotify.com/track/58JXOkFJ9P50s2L1pEOdPF"
+    },
+    {
+      "added_at": "2025-12-28 13:45:53",
+      "album": {
+        "name": "NEXT",
+        "url": "https://open.spotify.com/album/2WO3Kt3oLo4ApWcy6nFkQo"
+      },
+      "artists": [
+        {
+          "name": "javier",
+          "url": "https://open.spotify.com/artist/7cLA1cTY8dCn9Kb8r8JdKY"
+        }
+      ],
+      "duration_ms": 113089,
+      "name": "SIE KLEI",
+      "url": "https://open.spotify.com/track/6hTcG0znsgf33wBAnf8P8y"
+    },
+    {
+      "added_at": "2025-12-28 13:45:53",
       "album": {
         "name": "to nieprawda, \u017ce nie lubisz r\u00f3\u017c ;**",
         "url": "https://open.spotify.com/album/034bX2fFpFwsAnRsY0TKkg"
@@ -621,23 +477,7 @@
       "url": "https://open.spotify.com/track/5xskLtosDcTGusD4WZ4TFc"
     },
     {
-      "added_at": "2025-12-27 14:29:23",
-      "album": {
-        "name": "Sleigh Ride",
-        "url": "https://open.spotify.com/album/3aYOF3HVkIr1IzhePfQS7s"
-      },
-      "artists": [
-        {
-          "name": "The Ronettes",
-          "url": "https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo"
-        }
-      ],
-      "duration_ms": 181266,
-      "name": "Sleigh Ride",
-      "url": "https://open.spotify.com/track/7fUYUcWy853HS8YJn0b3Sr"
-    },
-    {
-      "added_at": "2025-12-27 14:29:23",
+      "added_at": "2025-12-28 13:45:53",
       "album": {
         "name": "Muzyka Popularna",
         "url": "https://open.spotify.com/album/4gkNKj0RfEpaiT7D9tAvEU"
@@ -669,23 +509,7 @@
       "url": "https://open.spotify.com/track/0TfBoSPyJlGOGYtFXeGQnH"
     },
     {
-      "added_at": "2025-12-27 14:29:23",
-      "album": {
-        "name": "The Andy Williams Christmas Album",
-        "url": "https://open.spotify.com/album/30eO7X0doSEWKhDLAFLMuW"
-      },
-      "artists": [
-        {
-          "name": "Andy Williams",
-          "url": "https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9"
-        }
-      ],
-      "duration_ms": 151000,
-      "name": "It's the Most Wonderful Time of the Year",
-      "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
-    },
-    {
-      "added_at": "2025-12-27 14:29:23",
+      "added_at": "2025-12-28 13:45:53",
       "album": {
         "name": "Zabior\u0119 Ci\u0119 Tam",
         "url": "https://open.spotify.com/album/1G1oz4LW7AloRrSn2EQ90B"
@@ -705,7 +529,67 @@
       "url": "https://open.spotify.com/track/6LrArcAWVYhqtl68a7Wt1U"
     },
     {
-      "added_at": "2025-12-27 14:29:23",
+      "added_at": "2025-12-28 13:45:53",
+      "album": {
+        "name": "LATARNIE WSZ\u0118DZIE DAWNO ZGAS\u0141Y",
+        "url": "https://open.spotify.com/album/6sIS875clsC3HlnRhIzXWL"
+      },
+      "artists": [
+        {
+          "name": "Taco Hemingway",
+          "url": "https://open.spotify.com/artist/7CJgLPEqiIRuneZSolpawQ"
+        },
+        {
+          "name": "@atutowy",
+          "url": "https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a"
+        },
+        {
+          "name": "Borucci",
+          "url": "https://open.spotify.com/artist/6g2jl1lzwac64Q6pAI2PEt"
+        },
+        {
+          "name": "The Returners",
+          "url": "https://open.spotify.com/artist/4zO6WqG8mu49ek0ZDIptTk"
+        }
+      ],
+      "duration_ms": 202666,
+      "name": "FOTOMODELKI",
+      "url": "https://open.spotify.com/track/2LBD44rqa3ZTodKecAayaa"
+    },
+    {
+      "added_at": "2025-12-28 13:45:53",
+      "album": {
+        "name": "The Life of a Showgirl",
+        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 226073,
+      "name": "The Fate of Ophelia",
+      "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
+    },
+    {
+      "added_at": "2025-12-28 13:45:53",
+      "album": {
+        "name": "BOKS STOP",
+        "url": "https://open.spotify.com/album/3faDZddVkbrr8vH77eUDm2"
+      },
+      "artists": [
+        {
+          "name": "Bungee",
+          "url": "https://open.spotify.com/artist/5zGqNbkY4vQhWk57uUDbEZ"
+        }
+      ],
+      "duration_ms": 158117,
+      "name": "FIKU MIKU",
+      "url": "https://open.spotify.com/track/6MkpcMuHGd0cRBeRNOSWdy"
+    },
+    {
+      "added_at": "2025-12-28 13:45:53",
       "album": {
         "name": "LATARNIE WSZ\u0118DZIE DAWNO ZGAS\u0141Y",
         "url": "https://open.spotify.com/album/6sIS875clsC3HlnRhIzXWL"
@@ -725,55 +609,7 @@
       "url": "https://open.spotify.com/track/7M3MMseAOMKabh7jxScy4b"
     },
     {
-      "added_at": "2025-12-27 14:29:23",
-      "album": {
-        "name": "Wrapped In Red",
-        "url": "https://open.spotify.com/album/7Jahqd1kx9Qau0E9x9iZj6"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 229638,
-      "name": "Underneath the Tree",
-      "url": "https://open.spotify.com/track/3YZE5qDV7u1ZD1gZc47ZeR"
-    },
-    {
-      "added_at": "2025-12-27 14:29:23",
-      "album": {
-        "name": "BOKS STOP",
-        "url": "https://open.spotify.com/album/3faDZddVkbrr8vH77eUDm2"
-      },
-      "artists": [
-        {
-          "name": "Bungee",
-          "url": "https://open.spotify.com/artist/5zGqNbkY4vQhWk57uUDbEZ"
-        }
-      ],
-      "duration_ms": 158117,
-      "name": "FIKU MIKU",
-      "url": "https://open.spotify.com/track/6MkpcMuHGd0cRBeRNOSWdy"
-    },
-    {
-      "added_at": "2025-12-27 14:29:23",
-      "album": {
-        "name": "Dzie\u0144 jeden w roku",
-        "url": "https://open.spotify.com/album/5fWXtZtTHHlIIUtV6ZD4Sr"
-      },
-      "artists": [
-        {
-          "name": "Czerwone Gitary",
-          "url": "https://open.spotify.com/artist/4wck1fvaBpmJNFaeDT1Laa"
-        }
-      ],
-      "duration_ms": 147781,
-      "name": "Dzie\u0144 jeden w roku",
-      "url": "https://open.spotify.com/track/5YeWMDlueFQ2727lVfGaIg"
-    },
-    {
-      "added_at": "2025-12-27 14:29:23",
+      "added_at": "2025-12-28 13:45:53",
       "album": {
         "name": "LATARNIE WSZ\u0118DZIE DAWNO ZGAS\u0141Y",
         "url": "https://open.spotify.com/album/6sIS875clsC3HlnRhIzXWL"
@@ -793,75 +629,23 @@
       "url": "https://open.spotify.com/track/4IILq5INvyFDuGcE0S6EF5"
     },
     {
-      "added_at": "2025-12-27 14:29:23",
+      "added_at": "2025-12-28 13:45:53",
       "album": {
-        "name": "Christmas",
-        "url": "https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un"
+        "name": "LAST CHRISTMAS",
+        "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
       },
       "artists": [
         {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
         }
       ],
-      "duration_ms": 119786,
-      "name": "Holly Jolly Christmas",
-      "url": "https://open.spotify.com/track/6tjituizSxwSmBB5vtgHZE"
+      "duration_ms": 262960,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
     },
     {
-      "added_at": "2025-12-27 14:29:23",
-      "album": {
-        "name": "Feliz Navidad",
-        "url": "https://open.spotify.com/album/3No96PtEFyRfX1oELmZTPu"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Feliciano",
-          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
-        }
-      ],
-      "duration_ms": 181794,
-      "name": "Feliz Navidad",
-      "url": "https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972"
-    },
-    {
-      "added_at": "2025-12-27 14:29:23",
-      "album": {
-        "name": "DZY\u0143 DZY\u0143 DZY\u0143",
-        "url": "https://open.spotify.com/album/2kaawxgJ0SsyYuXqtzqtk5"
-      },
-      "artists": [
-        {
-          "name": "Bungee",
-          "url": "https://open.spotify.com/artist/5zGqNbkY4vQhWk57uUDbEZ"
-        },
-        {
-          "name": "Tuszol",
-          "url": "https://open.spotify.com/artist/2NupdKQTai02YaVo2umpDW"
-        }
-      ],
-      "duration_ms": 151058,
-      "name": "DZY\u0143 DZY\u0143 DZY\u0143",
-      "url": "https://open.spotify.com/track/6eoQnSlZBUzCnEujWNYAQL"
-    },
-    {
-      "added_at": "2025-12-27 14:29:23",
-      "album": {
-        "name": "Kol\u0119dy",
-        "url": "https://open.spotify.com/album/6BLl56nSFlXIMzByC4Nrzk"
-      },
-      "artists": [
-        {
-          "name": "Arka Noego",
-          "url": "https://open.spotify.com/artist/70yuMiCWHzG48ilOFrz5VE"
-        }
-      ],
-      "duration_ms": 212373,
-      "name": "\u015aWIE\u0106 GWIAZDECZKO \u015aWIE\u0106",
-      "url": "https://open.spotify.com/track/6oF1c2zqWjb1MiLDLuJev1"
-    },
-    {
-      "added_at": "2025-12-27 14:29:23",
+      "added_at": "2025-12-28 13:45:53",
       "album": {
         "name": "LATARNIE WSZ\u0118DZIE DAWNO ZGAS\u0141Y",
         "url": "https://open.spotify.com/album/6sIS875clsC3HlnRhIzXWL"
@@ -881,27 +665,7 @@
       "url": "https://open.spotify.com/track/68et5skJyH8vZSFkptwz6T"
     },
     {
-      "added_at": "2025-12-27 14:29:23",
-      "album": {
-        "name": "LATARNIE WSZ\u0118DZIE DAWNO ZGAS\u0141Y",
-        "url": "https://open.spotify.com/album/6sIS875clsC3HlnRhIzXWL"
-      },
-      "artists": [
-        {
-          "name": "Taco Hemingway",
-          "url": "https://open.spotify.com/artist/7CJgLPEqiIRuneZSolpawQ"
-        },
-        {
-          "name": "Rumak",
-          "url": "https://open.spotify.com/artist/0SHA3sB1gMMWcphYond5y3"
-        }
-      ],
-      "duration_ms": 65493,
-      "name": "AKT III: \u201eS\u0141OWIA\u0143SKI NIEPOK\u00d3J\u201d",
-      "url": "https://open.spotify.com/track/3lQkAAih6dNPxQP58C9h25"
-    },
-    {
-      "added_at": "2025-12-27 14:29:23",
+      "added_at": "2025-12-28 13:45:53",
       "album": {
         "name": "Bailando 2",
         "url": "https://open.spotify.com/album/3QSFzU7mADdhIIHUKp5j78"
@@ -933,26 +697,238 @@
       "url": "https://open.spotify.com/track/3gHv7T9VFEvW84sAVqvUvI"
     },
     {
-      "added_at": "2025-12-27 14:29:23",
+      "added_at": "2025-12-28 13:45:53",
       "album": {
-        "name": "The Life of a Showgirl",
-        "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+        "name": "LATARNIE WSZ\u0118DZIE DAWNO ZGAS\u0141Y",
+        "url": "https://open.spotify.com/album/6sIS875clsC3HlnRhIzXWL"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Taco Hemingway",
+          "url": "https://open.spotify.com/artist/7CJgLPEqiIRuneZSolpawQ"
+        },
+        {
+          "name": "Rumak",
+          "url": "https://open.spotify.com/artist/0SHA3sB1gMMWcphYond5y3"
         }
       ],
-      "duration_ms": 226073,
-      "name": "The Fate of Ophelia",
-      "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
+      "duration_ms": 65493,
+      "name": "AKT III: \u201eS\u0141OWIA\u0143SKI NIEPOK\u00d3J\u201d",
+      "url": "https://open.spotify.com/track/3lQkAAih6dNPxQP58C9h25"
     },
     {
-      "added_at": "2025-12-27 14:29:23",
+      "added_at": "2025-12-28 13:45:53",
       "album": {
-        "name": "ZA KOGO MNIE MASZ?",
-        "url": "https://open.spotify.com/album/3kz1EtZRcplOc8iCrQw4bY"
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 241562,
+      "name": "All I Want for Christmas Is You",
+      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
+    },
+    {
+      "added_at": "2025-12-28 13:45:53",
+      "album": {
+        "name": "Belly Dance",
+        "url": "https://open.spotify.com/album/2we9uL36F3x5YpxCCTdbpu"
+      },
+      "artists": [
+        {
+          "name": "Malik Montana",
+          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+        }
+      ],
+      "duration_ms": 151500,
+      "name": "Belly Dance",
+      "url": "https://open.spotify.com/track/2NDY6DWsQCQFuccgid7rvE"
+    },
+    {
+      "added_at": "2025-12-28 13:45:53",
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 200646,
+      "name": "Lush Life",
+      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
+    },
+    {
+      "added_at": "2025-12-28 13:45:53",
+      "album": {
+        "name": "DZY\u0143 DZY\u0143 DZY\u0143",
+        "url": "https://open.spotify.com/album/2kaawxgJ0SsyYuXqtzqtk5"
+      },
+      "artists": [
+        {
+          "name": "Bungee",
+          "url": "https://open.spotify.com/artist/5zGqNbkY4vQhWk57uUDbEZ"
+        },
+        {
+          "name": "Tuszol",
+          "url": "https://open.spotify.com/artist/2NupdKQTai02YaVo2umpDW"
+        }
+      ],
+      "duration_ms": 151058,
+      "name": "DZY\u0143 DZY\u0143 DZY\u0143",
+      "url": "https://open.spotify.com/track/6eoQnSlZBUzCnEujWNYAQL"
+    },
+    {
+      "added_at": "2025-12-28 13:45:53",
+      "album": {
+        "name": "Merry Christmas From Brenda Lee",
+        "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
+      },
+      "artists": [
+        {
+          "name": "Brenda Lee",
+          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
+        }
+      ],
+      "duration_ms": 126266,
+      "name": "Rockin' Around The Christmas Tree",
+      "url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97"
+    },
+    {
+      "added_at": "2025-12-28 13:45:53",
+      "album": {
+        "name": "WHERE IS MY HUSBAND!",
+        "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 196795,
+      "name": "WHERE IS MY HUSBAND!",
+      "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
+    },
+    {
+      "added_at": "2025-12-28 13:45:53",
+      "album": {
+        "name": "Nie dla wszystkich",
+        "url": "https://open.spotify.com/album/2awboAOCpvqxoPYy7FmVqQ"
+      },
+      "artists": [
+        {
+          "name": "Majki",
+          "url": "https://open.spotify.com/artist/3e8V8NqZf6jsUjDEI6rwst"
+        },
+        {
+          "name": "Major SPZ",
+          "url": "https://open.spotify.com/artist/5iM4dDbBN6a4OqxKPuxgS6"
+        }
+      ],
+      "duration_ms": 188750,
+      "name": "Kalinka",
+      "url": "https://open.spotify.com/track/3P2qFkM8UwAXSzvylWQuXn"
+    },
+    {
+      "added_at": "2025-12-28 13:45:53",
+      "album": {
+        "name": "I Barely Know Her",
+        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 242903,
+      "name": "12 to 12",
+      "url": "https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W"
+    },
+    {
+      "added_at": "2025-12-28 13:45:53",
+      "album": {
+        "name": "Hugo Bucc 2",
+        "url": "https://open.spotify.com/album/5npFYbsJRwfs4QACjaw36z"
+      },
+      "artists": [
+        {
+          "name": "Kaz Ba\u0142agane",
+          "url": "https://open.spotify.com/artist/2GzZAv52VCMdVli7QzkteT"
+        },
+        {
+          "name": "DMN",
+          "url": "https://open.spotify.com/artist/3I2TrNuMnizOVgZzlG8myL"
+        }
+      ],
+      "duration_ms": 165483,
+      "name": "Kulig",
+      "url": "https://open.spotify.com/track/4vhYckF7yzomDdqoHb3dIl"
+    },
+    {
+      "added_at": "2025-12-28 13:45:53",
+      "album": {
+        "name": "Everyday Is Christmas (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 165900,
+      "name": "Snowman",
+      "url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq"
+    },
+    {
+      "added_at": "2025-12-28 13:45:53",
+      "album": {
+        "name": "Rebel",
+        "url": "https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug"
+      },
+      "artists": [
+        {
+          "name": "EsDeeKid",
+          "url": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy"
+        },
+        {
+          "name": "Rico Ace",
+          "url": "https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o"
+        }
+      ],
+      "duration_ms": 109759,
+      "name": "Phantom",
+      "url": "https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf"
+    },
+    {
+      "added_at": "2025-12-28 13:45:53",
+      "album": {
+        "name": "Jingle Bell Rock/Captain Santa Claus (And His Reindeer Space Patrol)",
+        "url": "https://open.spotify.com/album/3wivyOdotHWZ9dcuXMjPKT"
+      },
+      "artists": [
+        {
+          "name": "Bobby Helms",
+          "url": "https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC"
+        }
+      ],
+      "duration_ms": 130973,
+      "name": "Jingle Bell Rock",
+      "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
+    },
+    {
+      "added_at": "2025-12-28 13:45:53",
+      "album": {
+        "name": "NAPISZ JAK B\u0118DZIESZ",
+        "url": "https://open.spotify.com/album/3GT8nm2EifN5XETCqz1ILe"
       },
       "artists": [
         {
@@ -964,33 +940,89 @@
           "url": "https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko"
         },
         {
-          "name": "SHD\u00d8W",
-          "url": "https://open.spotify.com/artist/1k4FU2VP9e8I3yY9tz3Stt"
+          "name": "Deemz",
+          "url": "https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt"
         }
       ],
-      "duration_ms": 140000,
-      "name": "ZA KOGO MNIE MASZ?",
-      "url": "https://open.spotify.com/track/2uWl1FzqmmA3hGdjlHp8mR"
+      "duration_ms": 152386,
+      "name": "KOCHASZ?",
+      "url": "https://open.spotify.com/track/2XjSsK9NKNcojJwzmLdIWG"
     },
     {
-      "added_at": "2025-12-27 14:29:23",
+      "added_at": "2025-12-28 13:45:53",
       "album": {
-        "name": "Rura musi yeah",
-        "url": "https://open.spotify.com/album/0IJG6vKh4cB5f2fkEspyJj"
+        "name": "BOKS STOP",
+        "url": "https://open.spotify.com/album/3faDZddVkbrr8vH77eUDm2"
       },
       "artists": [
         {
-          "name": "Tax Free",
-          "url": "https://open.spotify.com/artist/1TdOWV3JFAGmZ1466aKbg5"
+          "name": "Bungee",
+          "url": "https://open.spotify.com/artist/5zGqNbkY4vQhWk57uUDbEZ"
         },
         {
-          "name": "CUZCO$",
-          "url": "https://open.spotify.com/artist/5YX5w3ApI8if9LJHhh8tei"
+          "name": "Tuszol",
+          "url": "https://open.spotify.com/artist/2NupdKQTai02YaVo2umpDW"
         }
       ],
-      "duration_ms": 148800,
-      "name": "Rura musi yeah",
-      "url": "https://open.spotify.com/track/0pcDPL1VAaCYECzx8PMhMe"
+      "duration_ms": 179142,
+      "name": "TAK TO LATA (feat. Tuszol)",
+      "url": "https://open.spotify.com/track/5xaw9oxlWsTl6FHe8sTguH"
+    },
+    {
+      "added_at": "2025-12-28 13:45:53",
+      "album": {
+        "name": "King Sento 2",
+        "url": "https://open.spotify.com/album/1cEs5ryOm6c9s3IIjYUHT1"
+      },
+      "artists": [
+        {
+          "name": "Sentino",
+          "url": "https://open.spotify.com/artist/6DAQjwwMGZ9QgqHhIkU7H0"
+        },
+        {
+          "name": "BNP",
+          "url": "https://open.spotify.com/artist/3w9a7uUj9JYKQfJ1XuZQ7P"
+        }
+      ],
+      "duration_ms": 217850,
+      "name": "CASABLANCA",
+      "url": "https://open.spotify.com/track/1U7ZU4sJsMDzHSA7n333BJ"
+    },
+    {
+      "added_at": "2025-12-28 13:45:53",
+      "album": {
+        "name": "Muzyka Komercyjna (Deluxe)",
+        "url": "https://open.spotify.com/album/0btfWeG02knwyMwwTjySgo"
+      },
+      "artists": [
+        {
+          "name": "Pezet",
+          "url": "https://open.spotify.com/artist/4z93wkjfGntA0XFqnv4wj7"
+        },
+        {
+          "name": "Auer",
+          "url": "https://open.spotify.com/artist/4oRFYtb8Wfcsbaga2VqR1N"
+        }
+      ],
+      "duration_ms": 195704,
+      "name": "Dom Nad Wod\u0105",
+      "url": "https://open.spotify.com/track/3fsukGRaCYqfoQ010VQGcC"
+    },
+    {
+      "added_at": "2025-12-28 13:45:53",
+      "album": {
+        "name": "Synchronicity (Remastered 2003)",
+        "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "duration_ms": 253920,
+      "name": "Every Breath You Take",
+      "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
     }
   ],
   "unique_name": "Top 50 - Poland",

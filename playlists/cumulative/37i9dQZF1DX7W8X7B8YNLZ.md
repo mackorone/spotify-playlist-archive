@@ -4,7 +4,7 @@
 
 > Les plus grands tubes français des années 70\. Photo : Dalida
 
-90 songs - 5 hr 34 min
+91 songs - 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Amoureux de ma femme](https://open.spotify.com/track/3PiB9JW5oXOLl0vgayks7W) | [Richard Anthony](https://open.spotify.com/artist/6fhXbgrtC1AffxqI32lPwz) | [Amoureux de ma femme](https://open.spotify.com/album/7J4ADzAFtmjdImTv9IbUgi) | 2:43 | 2022-06-01 | 2024-04-19 |
 | [Amoureux de ma femme](https://open.spotify.com/track/6cT38LHvaN11gThHVVkDee) | [Richard Anthony](https://open.spotify.com/artist/6fhXbgrtC1AffxqI32lPwz) | [Les plus grandes chansons](https://open.spotify.com/album/4F6NYEBMBCvvIuj1RQv2vh) | 2:43 | 2022-06-01 | 2025-07-19 |
 | [Besoin de personne](https://open.spotify.com/track/2EdqnePuFG7FDPsiy5YGov) | [Véronique Sanson](https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D) | [Exclusivement féminin](https://open.spotify.com/album/40ab89bLPpUS6kmt44vNjS) | 2:47 | 2022-06-01 | 2025-07-05 |
-| [C'est ma prière](https://open.spotify.com/track/2fedLC8wZso3sTSSFnURvj) | [Mike Brant](https://open.spotify.com/artist/1u9tovPnCMYuZiV3EMZqDV) | [20eme anniversaire](https://open.spotify.com/album/45feqbqIXi45boCrjlo0cV) | 3:06 | 2025-07-18 |  |
+| [C'est ma prière](https://open.spotify.com/track/2fedLC8wZso3sTSSFnURvj) | [Mike Brant](https://open.spotify.com/artist/1u9tovPnCMYuZiV3EMZqDV) | [20eme anniversaire](https://open.spotify.com/album/45feqbqIXi45boCrjlo0cV) | 3:06 | 2025-07-18 | 2025-12-29 |
 | [C'est moi](https://open.spotify.com/track/6GGTIbx1HkiJybU8yaRqZX) | [C\. Jérôme](https://open.spotify.com/artist/4tJSPijz99rQ8cNtr7DYMH) | [Baby Boy](https://open.spotify.com/album/1rvuEe2N58ujU6CjRRTUni) | 2:52 | 2022-06-01 |  |
 | [Ca Plane Pour Moi](https://open.spotify.com/track/4sf4Lq52b2iCoAgpge7a9g) | [Plastic Bertrand](https://open.spotify.com/artist/1KeIof0zqga5ojkmOKg88P) | [Plastic Bertrand](https://open.spotify.com/album/1hbQEk8Dpx3OS6MrZZ4wbq) | 3:02 | 2025-07-18 |  |
 | [Ce n'est rien](https://open.spotify.com/track/0klbnFP6UwMYpUuKjhleKT) | [Julien Clerc](https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs) | [Niagara](https://open.spotify.com/album/4PXN6s7jgy76nUzLdPFGvU) | 3:34 | 2022-06-01 |  |
@@ -56,6 +56,7 @@
 | [Le chasseur \(Les oies sauvages\)](https://open.spotify.com/track/1cbEUq5Rwe9LLFQyPKxurl) | [Michel Delpech](https://open.spotify.com/artist/4T795JhhCZMWM01DLcX98p) | [Le Chasseur](https://open.spotify.com/album/6cmLF1Ryo6jQTLLSyREabH) | 3:04 | 2022-06-01 |  |
 | [Le coeur grenadine](https://open.spotify.com/track/2OWUD3BSV3yyuYYSpDBhwb) | [Laurent Voulzy](https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z) | [Le coeur grenadine](https://open.spotify.com/album/1Rk16GLTOxgDyfJkUDWFot) | 5:47 | 2022-06-01 |  |
 | [Le Loir\-et\-Cher](https://open.spotify.com/track/4bqzWAxQdzwW8BGjFI02CJ) | [Michel Delpech](https://open.spotify.com/artist/4T795JhhCZMWM01DLcX98p) | [CD Story](https://open.spotify.com/album/3vlu5v98oGi4Qgj1XvwEgH) | 2:46 | 2025-07-18 |  |
+| [Le mal aimé](https://open.spotify.com/track/36JTsxq9ywTGHpBjg3Wf4J) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ) | [Le mal aimé / Le téléphone pleure](https://open.spotify.com/album/2nNfGK1Gcwie6YAiwZ1chD) | 2:39 | 2025-12-28 |  |
 | [Le sud](https://open.spotify.com/track/7zjkSx1EUums3s1Yg2jPJD) | [Nino Ferrer](https://open.spotify.com/artist/3THqHCN7gq2Z9hLleof9uv) | [Nino Ferrer](https://open.spotify.com/album/5M6ImA7adD4TpBV5wFq7DG) | 4:35 | 2022-06-01 |  |
 | [Le sud](https://open.spotify.com/track/6HOgSZ5PQqNFJEYg67WpKi) | [Nino Ferrer](https://open.spotify.com/artist/3THqHCN7gq2Z9hLleof9uv) | [Dandy](https://open.spotify.com/album/53ibqYJpRGoOJ8m7QFfmRi) | 4:37 | 2022-06-01 | 2024-01-29 |
 | [Le téléphone pleure](https://open.spotify.com/track/4cAeq0pjjvWxFfy7NL3XSD) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ), [Frédérique](https://open.spotify.com/artist/38dqh4zX6r6OBMW0cjtjSI) | [Le mal aimé / Le téléphone pleure](https://open.spotify.com/album/2nNfGK1Gcwie6YAiwZ1chD) | 4:05 | 2022-06-01 |  |

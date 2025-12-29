@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyoKpr8bHNc.md) - [plain]
 
 > Timeless & classic Arabic songs\. Cover: Warda
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,353 likes - 90 songs - 14 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,489 likes - 90 songs - 14 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyoKpr8bHNc.md) - [plain]
 | 10 | [Ana Baashaak](https://open.spotify.com/track/4meyL6OvN5WhJ9JNEsZSeN) | [Mayada El Hennawy](https://open.spotify.com/artist/4KEnL3MuGqQHnaIKdZ1pYz) | [Ana Baashaak](https://open.spotify.com/album/3TBiRcV5BVsFTaqot77WpG) | 37:02 |
 | 11 | [Zay Elasal](https://open.spotify.com/track/6WL468M0cawkNfDIXMsjPK) | [Sabah](https://open.spotify.com/artist/1sA9ybX80IVJ00sdbm5kB9) | [Sabah](https://open.spotify.com/album/5ewdGO8RViJxkGMVGx4KdP) | 8:31 |
 | 12 | [Haramt Ahebak](https://open.spotify.com/track/14XBdaGIR0iIaLHquiUWr5) | [Warda](https://open.spotify.com/artist/3myefQO8upDe4aNxjTFddr) | [Haramt Ahebak](https://open.spotify.com/album/47QmEHiw3P8huVwZ0jHeUo) | 7:56 |
-| 13 | [Bala Wala Chi](https://open.spotify.com/track/0fylgLeNObjVvwhd8caHqX) | [Ziad Rahbani](https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT) | [Houdou Nisbi](https://open.spotify.com/album/1b3FbrjvbVbZMa73KLywXz) | 3:27 |
+| 13 | [Ana Bashaa El Bahr](https://open.spotify.com/track/55HS624LYOCR3QwOUxWbMJ) | [Najat Al Saghira](https://open.spotify.com/artist/00Kj91nF1l4o35fAtfDAjW) | [Eyoun El Alb](https://open.spotify.com/album/3pnuPZ8nUMMLwHJSvNLrO0) | 5:29 |
 | 14 | [Siret El Hob](https://open.spotify.com/track/1PkyJNFqmxHhwGhphkcy5y) | [Umm Kulthum](https://open.spotify.com/artist/52lsD82iOqGtyfEMqWgk4f) | [Umm Kulthum 3](https://open.spotify.com/album/015VImtXnHnaJ06FjJcxfy) | 39:13 |
-| 15 | [Ana Bashaa El Bahr](https://open.spotify.com/track/55HS624LYOCR3QwOUxWbMJ) | [Najat Al Saghira](https://open.spotify.com/artist/00Kj91nF1l4o35fAtfDAjW) | [Eyoun El Alb](https://open.spotify.com/album/3pnuPZ8nUMMLwHJSvNLrO0) | 5:29 |
+| 15 | [Bala Wala Chi](https://open.spotify.com/track/0fylgLeNObjVvwhd8caHqX) | [Ziad Rahbani](https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT) | [Houdou Nisbi](https://open.spotify.com/album/1b3FbrjvbVbZMa73KLywXz) | 3:27 |
 | 16 | [Betlomouny Leih](https://open.spotify.com/track/2VwqTz304YseLtNW8RjoyG) | [Abdel Halim Hafez](https://open.spotify.com/artist/6IW026WCYU8L1WF79dfwss) | [Aghany Film Hekayet Hob](https://open.spotify.com/album/1dAYSuj4f2djYrKHSlLpSS) | 8:29 |
 | 17 | [Baddi Choufik Koul Yom](https://open.spotify.com/track/4f4Z7WfFepkjUV9tvMwWLT) | [Mohamed Jamal](https://open.spotify.com/artist/6DvyWbIhN6sQwsUs1RYfug) | [Best of Mohamed Jamal, Vol\. 2](https://open.spotify.com/album/2yEU2JDWvca5jux4iHTGHU) | 4:32 |
 | 18 | [Fouq annakhl](https://open.spotify.com/track/5TLnM9z7xmVMf8ZTrZmz6n) | [Sabah Fakhri](https://open.spotify.com/artist/2rm6vleqjlsZRsxQm3umpg) | [Rawae'a Sabah Fakhri](https://open.spotify.com/album/4ApaCr7XP2xblaNjyh34Tg) | 6:14 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyoKpr8bHNc.md) - [plain]
 | 59 | [Ya Marek Al Tawahine](https://open.spotify.com/track/3oQrFEnC6rVqs9dhmwCJVw) | [Nasri Shamseddine](https://open.spotify.com/artist/1WST6nXZrdhBeSPO2yGYQT) | [Best Of Nasri Shamseddine 1](https://open.spotify.com/album/7czqfjO0jjfK7yY1TImbEe) | 2:45 |
 | 60 | [Ya Samra Ya Tamr Hindi](https://open.spotify.com/track/4WwOrlzRUa0ENdJd3CetJx) | [Issam Raggi](https://open.spotify.com/artist/0fmsWX4FzxBaUgznwZm4fD) | [Issam Raggi](https://open.spotify.com/album/4L41rtbbP7WVUTnQIqJeeq) | 5:25 |
 | 61 | [Etuel Omrak 2](https://open.spotify.com/track/6kLj4NqXvD9vraba7ZXSZY) | [Azar Habib](https://open.spotify.com/artist/1WFcnIsCqBkVYOjqNtZ5xX) | [The Best of Azar Habib](https://open.spotify.com/album/75K9b6RIaQDITEOuVvZULV) | 5:29 |
-| 62 | [Yess'idli Sabahou](https://open.spotify.com/track/6RI8xt9epvjxKNYhi2G9wX) | [Mohamed Jamal](https://open.spotify.com/artist/6DvyWbIhN6sQwsUs1RYfug) | [Best of Mohamed Jamal, Vol\. 1](https://open.spotify.com/album/2lRFOdkICZbdSiFgMaGD6a) | 4:25 |
-| 63 | [Alloulou al\-Mamdood / Loulou Bi Loulou](https://open.spotify.com/track/5W9KJkUcyLchbT3fV0kX8l) | [Sabah Fakhri](https://open.spotify.com/artist/2rm6vleqjlsZRsxQm3umpg) | [Master of Andalusian Folklore: Traditional Syrian Songs](https://open.spotify.com/album/3vnpDLv3yONaJBcs3Du2HN) | 11:06 |
+| 62 | [Alloulou al\-Mamdood / Loulou Bi Loulou](https://open.spotify.com/track/5W9KJkUcyLchbT3fV0kX8l) | [Sabah Fakhri](https://open.spotify.com/artist/2rm6vleqjlsZRsxQm3umpg) | [Master of Andalusian Folklore: Traditional Syrian Songs](https://open.spotify.com/album/3vnpDLv3yONaJBcs3Du2HN) | 11:06 |
+| 63 | [Yess'idli Sabahou](https://open.spotify.com/track/6RI8xt9epvjxKNYhi2G9wX) | [Mohamed Jamal](https://open.spotify.com/artist/6DvyWbIhN6sQwsUs1RYfug) | [Best of Mohamed Jamal, Vol\. 1](https://open.spotify.com/album/2lRFOdkICZbdSiFgMaGD6a) | 4:25 |
 | 64 | [Ya Miyet Halla](https://open.spotify.com/track/3gJrHg4YpvfsaNkIlW1YMM) | [Salwa El Katrib](https://open.spotify.com/artist/1rNj11bm4Kdg5qMcD4dcdX) | [Best of Salwa El Katrib, Vol\. 1](https://open.spotify.com/album/7kMpg8lI54ZigyqKCxkvYQ) | 3:07 |
 | 65 | [Habayebna Hawalayna](https://open.spotify.com/track/3mJetRKi2uyhXGE1j8NnF9) | [Zaki Nassif](https://open.spotify.com/artist/1ck2Isye239BEWAEocqmTT) | [Shta'na Aa Lebnan](https://open.spotify.com/album/68MPtU6JYWEq0kc7WWszOd) | 4:10 |
 | 66 | [Habibi](https://open.spotify.com/track/1VSLxZvSN0RAeION7bK8AL) | [Samir Yazbeck](https://open.spotify.com/artist/0Qhp1TqNwChWMV2nXHufeV) | [Habibi](https://open.spotify.com/album/1fcbJS5Ous4vC0Sdx0GrdK) | 5:27 |

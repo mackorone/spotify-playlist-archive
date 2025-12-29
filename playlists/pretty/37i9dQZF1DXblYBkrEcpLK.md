@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 
 > Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: Ado
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,456 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,486 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [MAGIC](https://open.spotify.com/track/6hsBxoVdj9mg9m4tHlYE5K) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [MAGIC](https://open.spotify.com/album/2wzfAqKAR8tXWovPNbjqLM) | 2:52 |
+| 1 | [Odoru Ponpokorin](https://open.spotify.com/track/3pncyVfDzI4m9oErJKLKIo) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Odoru Ponpokorin](https://open.spotify.com/album/2XeKcmluJtZwNDYJmhiDER) | 3:14 |
 | 2 | [ウォーアイニー](https://open.spotify.com/track/4JuGfoVTxBosFrjnE1MFh2) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [可愛女子](https://open.spotify.com/album/5GyItnBLvUZ59iEQRbuuaM) | 3:53 |
 | 3 | [愛♡スクリ～ム！](https://open.spotify.com/track/2BBIUV8wIBbqc7HXObzdgH) | [AiScReam](https://open.spotify.com/artist/5cW1SVDUXXzsj3eFT7Gmta) | [愛♡スクリ～ム！](https://open.spotify.com/album/1l4SKYcXWUhCQ1jiasP9XZ) | 4:22 |
 | 4 | [すずめ](https://open.spotify.com/track/1huqzMaPdQkXuOJaLxrC2s) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [すずめ](https://open.spotify.com/album/3zisC3dWvvbDMHGVrxmaBF) | 3:56 |
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 7 | [LET'S JUST CRASH](https://open.spotify.com/track/759ghsR0JU5ykaiCDbB6li) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [LET'S JUST CRASH](https://open.spotify.com/album/0WWJ7uJzQaaPjFaDXBKKUD) | 3:15 |
 | 8 | [革命道中 \- On The Way](https://open.spotify.com/track/1oFqKeepmT5S8BCGqJl7Ar) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [革命道中 \- On The Way](https://open.spotify.com/album/6uBwz7fKYpTHQqEvbpRMQu) | 3:17 |
 | 9 | [晴る](https://open.spotify.com/track/5eY7692tmgHB9dbmq6wa2M) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [晴る](https://open.spotify.com/album/4O53dhmIctih3p2suAAgga) | 4:30 |
-| 10 | [CAT'S EYE](https://open.spotify.com/track/5lzjvTvybxPQLlGO3SVm5l) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [CAT'S EYE](https://open.spotify.com/album/3SEAcawf6EhTRl42ulumyd) | 3:00 |
+| 10 | [MAGIC](https://open.spotify.com/track/6hsBxoVdj9mg9m4tHlYE5K) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [MAGIC](https://open.spotify.com/album/2wzfAqKAR8tXWovPNbjqLM) | 2:52 |
 | 11 | [残酷な夜に輝け \- Shine in the Cruel Night](https://open.spotify.com/track/2OhStQJiQ1CFGvCZKMaItL) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [残酷な夜に輝け \- Shine in the Cruel Night](https://open.spotify.com/album/4ki9QfpDQ1Y0GTwbMzIFIw) | 6:23 |
 | 12 | [Little Bouquet](https://open.spotify.com/track/29Sb3j5voU0UKCeSO4Vami) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Little Bouquet](https://open.spotify.com/album/46ReMNAksbtI2HIfe0SDPm) | 4:11 |
 | 13 | [恋愛サーキュレーション](https://open.spotify.com/track/5P8lyudWE7HQxb4ludLbEm) | [物語シリーズ](https://open.spotify.com/artist/0NT8fqhPoKJrd038u1Qumz) | [Utamonogatari Special Edition \(Original Soundtrack\)](https://open.spotify.com/album/0Wibr4Xn7la0V69fnnujJw) | 4:15 |
@@ -44,19 +44,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 34 | [ハレの日に \- Harenohini](https://open.spotify.com/track/41bU6Anbt3NPBdGLzpEcal) | [汐れいら](https://open.spotify.com/artist/6GVsZoMbMt0jmqwcvz1a1F) | [ハレの日に \- Harenohini](https://open.spotify.com/album/3aaRYkHau7tGCBcVMAlTWY) | 4:37 |
 | 35 | [Kawaii Kaiwai](https://open.spotify.com/track/4uV4yldTUrYvHat6LiRZHl) | [PiKi](https://open.spotify.com/artist/0k24bjTbB2IUhV74mvSv4T) | [Kawaii Kaiwai](https://open.spotify.com/album/1XHqGyZQTFzkomOfVttZtm) | 2:33 |
 | 36 | [Stay Gold \- from BEYBLADE X](https://open.spotify.com/track/65hfbURMDstZkt5FDt0Tbd) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Stay Gold \(from BEYBLADE X\)](https://open.spotify.com/album/5qyh3mcLstnqZhlmlY7njI) | 3:26 |
-| 37 | [相思相愛](https://open.spotify.com/track/01vIbnKIo9QDYeqSc7ecoi) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [相思相愛](https://open.spotify.com/album/7tkIHnzxBW5oulTr2ak1jl) | 4:20 |
-| 38 | [アオとキラメキ](https://open.spotify.com/track/4eZ6wXfhx6N9KgNUJEH2t2) | [スピラ・スピカ](https://open.spotify.com/artist/3ncARjIEl4SrcrnpOIV5CO) | [アオとキラメキ](https://open.spotify.com/album/1CgpeKofwhA6D2ar9XWs7V) | 3:37 |
-| 39 | [ハッピーラッキーチャッピー](https://open.spotify.com/track/5Gb4sEeI5iitQlGaVbEcxX) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [BONE BORN BOMB](https://open.spotify.com/album/0KzrfbyL2GmX4fARXOY7pC) | 3:04 |
-| 40 | [六等星](https://open.spotify.com/track/60d17t7XsJ2zPfwiPno21s) | [ざらめ](https://open.spotify.com/artist/79S25nNlhtMOOMLV30SvHM) | [六等星](https://open.spotify.com/album/5Yi9AAcp5IUSpHJV2fCzAv) | 4:14 |
-| 41 | [「僕は...」](https://open.spotify.com/track/5uJOkhUYFa6kkDrlEmZk3D) | [Atarayo](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [「僕は...」](https://open.spotify.com/album/4OBBoUQEAzQJw5IjxNdQ5s) | 3:59 |
-| 42 | [Burning](https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Burning](https://open.spotify.com/album/5ASAZ96MqDUBXSpa5pwCyc) | 3:51 |
-| 43 | [ネオラダイト](https://open.spotify.com/track/2P9e9zkpqTLyHzpCq9CfR4) | [9Lana](https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ) | [ネオラダイト](https://open.spotify.com/album/0qrP4ztyiLy8sa9nEICOgX) | 3:23 |
-| 44 | [プラットフォーム](https://open.spotify.com/track/5V9LT2rCDDoIv1pB6bzlza) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [プラットフォーム](https://open.spotify.com/album/1fiO9LItKQZ6ZKnPnLBh12) | 3:30 |
-| 45 | [Pastoral](https://open.spotify.com/track/3RbQ3XXydlQsimEB1jcQlO) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Pastoral](https://open.spotify.com/album/3yyduz9YQvGBbtTl1jwIL8) | 4:05 |
-| 46 | [Reweave](https://open.spotify.com/track/1biDb1M2wIXtweXwY4Huhi) | [Konomi Suzuki](https://open.spotify.com/artist/3O0kLS5sLZ41XZRxjBKmLF) | [Reweave](https://open.spotify.com/album/5yRwrdOi9JkgYTU1NRrc7B) | 3:57 |
-| 47 | [悪魔の子](https://open.spotify.com/track/2TVFbLCdzrX0RdhWNWJmdp) | [Ai Higuchi](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [悪魔の子](https://open.spotify.com/album/2WGPb8eZJ2Jl4X52hBG6xg) | 3:47 |
-| 48 | [インフェリア](https://open.spotify.com/track/1TPZq8RupVFSB2sSt5dxav) | [シユイ](https://open.spotify.com/artist/3EKiz61ZCQs4LK3O96mt5O) | [インフェリア](https://open.spotify.com/album/5VECDMfN7ZA9T5LaBmhy7z) | 3:38 |
-| 49 | [スノウドロップ](https://open.spotify.com/track/7pfswWE0zmNze4HnPtvJzl) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [スノウドロップ](https://open.spotify.com/album/42M8N9jUgF0L5uIQPvBoqn) | 2:59 |
-| 50 | [生きて、燦々](https://open.spotify.com/track/1syODzS05DNwO7hiFjwn5z) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [生きて、燦々](https://open.spotify.com/album/2hRKTBG9RvaUklnfa9ouip) | 4:08 |
+| 37 | [CAT'S EYE](https://open.spotify.com/track/5lzjvTvybxPQLlGO3SVm5l) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [CAT'S EYE](https://open.spotify.com/album/3SEAcawf6EhTRl42ulumyd) | 3:00 |
+| 38 | [相思相愛](https://open.spotify.com/track/01vIbnKIo9QDYeqSc7ecoi) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [相思相愛](https://open.spotify.com/album/7tkIHnzxBW5oulTr2ak1jl) | 4:20 |
+| 39 | [アオとキラメキ](https://open.spotify.com/track/4eZ6wXfhx6N9KgNUJEH2t2) | [スピラ・スピカ](https://open.spotify.com/artist/3ncARjIEl4SrcrnpOIV5CO) | [アオとキラメキ](https://open.spotify.com/album/1CgpeKofwhA6D2ar9XWs7V) | 3:37 |
+| 40 | [ハッピーラッキーチャッピー](https://open.spotify.com/track/5Gb4sEeI5iitQlGaVbEcxX) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [BONE BORN BOMB](https://open.spotify.com/album/0KzrfbyL2GmX4fARXOY7pC) | 3:04 |
+| 41 | [六等星](https://open.spotify.com/track/60d17t7XsJ2zPfwiPno21s) | [ざらめ](https://open.spotify.com/artist/79S25nNlhtMOOMLV30SvHM) | [六等星](https://open.spotify.com/album/5Yi9AAcp5IUSpHJV2fCzAv) | 4:14 |
+| 42 | [「僕は...」](https://open.spotify.com/track/5uJOkhUYFa6kkDrlEmZk3D) | [Atarayo](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [「僕は...」](https://open.spotify.com/album/4OBBoUQEAzQJw5IjxNdQ5s) | 3:59 |
+| 43 | [Burning](https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Burning](https://open.spotify.com/album/5ASAZ96MqDUBXSpa5pwCyc) | 3:51 |
+| 44 | [ネオラダイト](https://open.spotify.com/track/2P9e9zkpqTLyHzpCq9CfR4) | [9Lana](https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ) | [ネオラダイト](https://open.spotify.com/album/0qrP4ztyiLy8sa9nEICOgX) | 3:23 |
+| 45 | [プラットフォーム](https://open.spotify.com/track/5V9LT2rCDDoIv1pB6bzlza) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [プラットフォーム](https://open.spotify.com/album/1fiO9LItKQZ6ZKnPnLBh12) | 3:30 |
+| 46 | [Pastoral](https://open.spotify.com/track/3RbQ3XXydlQsimEB1jcQlO) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Pastoral](https://open.spotify.com/album/3yyduz9YQvGBbtTl1jwIL8) | 4:05 |
+| 47 | [Reweave](https://open.spotify.com/track/1biDb1M2wIXtweXwY4Huhi) | [Konomi Suzuki](https://open.spotify.com/artist/3O0kLS5sLZ41XZRxjBKmLF) | [Reweave](https://open.spotify.com/album/5yRwrdOi9JkgYTU1NRrc7B) | 3:57 |
+| 48 | [悪魔の子](https://open.spotify.com/track/2TVFbLCdzrX0RdhWNWJmdp) | [Ai Higuchi](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [悪魔の子](https://open.spotify.com/album/2WGPb8eZJ2Jl4X52hBG6xg) | 3:47 |
+| 49 | [インフェリア](https://open.spotify.com/track/1TPZq8RupVFSB2sSt5dxav) | [シユイ](https://open.spotify.com/artist/3EKiz61ZCQs4LK3O96mt5O) | [インフェリア](https://open.spotify.com/album/5VECDMfN7ZA9T5LaBmhy7z) | 3:38 |
+| 50 | [スノウドロップ](https://open.spotify.com/track/7pfswWE0zmNze4HnPtvJzl) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [スノウドロップ](https://open.spotify.com/album/42M8N9jUgF0L5uIQPvBoqn) | 2:59 |
 
-Snapshot ID: `AAAAAAMboUm8GLHLY02uHQeZmwgO6BNC`
+Snapshot ID: `AAAAAHIqZpSTHFJsXkgseuvAi+2JiMJV`

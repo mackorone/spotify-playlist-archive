@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WiXBXnxjSY.md) - [plain]
 
 > Dream away with sleep sounds of nature and green noise frequencies \- water, ocean sounds and breaking waves.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,385 likes - 145 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,404 likes - 145 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WiXBXnxjSY.md) - [plain]
 | 144 | [Green Noise Deep Sleep](https://open.spotify.com/track/2u4dw8dB6tSFeXH4KaCSTn) | [JBE Noise Factory](https://open.spotify.com/artist/4s7Ydghmi9eEHS0gjp8zk1), [White Noise for Babies](https://open.spotify.com/artist/4ZfEELHfyKd4odAb6YfDFw), [Noise Recordings](https://open.spotify.com/artist/7EpGwOsih4h9r58T2FnGWQ) | [Green Noise](https://open.spotify.com/album/7ed4GStbSffE9Lqo0uS7Uk) | 2:39 |
 | 145 | [Sweeping Wind Green Noise](https://open.spotify.com/track/7m3l03xWqFd5t3zwSvrxz3) | [Seismic Dolphin](https://open.spotify.com/artist/31kwIRtITwKwn4NoRdbukb) | [Green Noise for Breathing](https://open.spotify.com/album/55eTWbfcmsMvtspcHTis0A) | 2:26 |
 
-Snapshot ID: `AAAAAHdh4s0V+wAmgTTiH8E7k+HURhEG`
+Snapshot ID: `AAAAAB9PLUD+K6PzwlTE+2FTTTQX5ZlD`

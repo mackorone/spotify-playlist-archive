@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2B3xivNXPeb.md) - [plain]
 
 > Music for enjoying your space
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,368 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,458 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2B3xivNXPeb.md) - [plain]
 | 85 | [Hearts Break and People Change](https://open.spotify.com/track/6HpyiTjKHVSSsgL6yCFbLc) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Hearts Break and People Change](https://open.spotify.com/album/7jcAisouiCZza66ewku13M) | 3:29 |
 | 86 | [Filthy Rich](https://open.spotify.com/track/6InkM0NaTWi7PJ3utfUzlM) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Filthy Rich](https://open.spotify.com/album/4EZKTohECt4rz0GL4LShK2) | 2:52 |
 | 87 | [Small Talk](https://open.spotify.com/track/64YlBjot2BfgtQElfOKN3D) | [Hope Winter](https://open.spotify.com/artist/0z6HuSgeJW8svCflyICYN6) | [Small Talk](https://open.spotify.com/album/2V5ZSRBGvmyHmlLGNC6Nt0) | 3:08 |
-| 88 | [Stick Fight](https://open.spotify.com/track/1ASiGhAE5VkYHBGYDKxVkQ) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Stick Fight](https://open.spotify.com/album/6W6TbVxDoqdETkx3zvHbzU) | 3:22 |
-| 89 | [coming around](https://open.spotify.com/track/2aNCgj2Px3flyBD5kqS2WJ) | [fliss](https://open.spotify.com/artist/7r0tZaKpCOZ9oA0LQGKZyX) | [coming around](https://open.spotify.com/album/0oIJvYf11xCllbEOuS1Suq) | 3:42 |
+| 88 | [coming around](https://open.spotify.com/track/2aNCgj2Px3flyBD5kqS2WJ) | [fliss](https://open.spotify.com/artist/7r0tZaKpCOZ9oA0LQGKZyX) | [coming around](https://open.spotify.com/album/0oIJvYf11xCllbEOuS1Suq) | 3:42 |
+| 89 | [Stick Fight](https://open.spotify.com/track/1ASiGhAE5VkYHBGYDKxVkQ) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Stick Fight](https://open.spotify.com/album/6W6TbVxDoqdETkx3zvHbzU) | 3:22 |
 | 90 | [Time to Love](https://open.spotify.com/track/4VIeoEMJltbvXeheuWAMIe) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Time to Love](https://open.spotify.com/album/311c0D09KypPSsR28imdzd) | 3:58 |
 | 91 | [Miss You](https://open.spotify.com/track/5zHB3dyXGTS00HuvgSnBUj) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [Miss You](https://open.spotify.com/album/2lNL8dWOB8s3RpJ8RcmNqZ) | 3:51 |
 | 92 | [Aw, Shoot!](https://open.spotify.com/track/4D7db0sTmEWYf9aAzCJl9c) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Aw, Shoot!](https://open.spotify.com/album/2MrVs5OGnY7RGn33GiB2pu) | 3:28 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2B3xivNXPeb.md) - [plain]
 | 96 | [Bittersweet](https://open.spotify.com/track/4uawMXx8VZ7WMrjAVOaCMe) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Lianne La Havas](https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV) | 4:52 |
 | 97 | [Peaceful Place](https://open.spotify.com/track/2OiJ2pEQlLPnOywokPkG4N) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Peaceful Place](https://open.spotify.com/album/6ZJwX0ETt1mAZReAEDbI3X) | 4:15 |
 | 98 | [Life 2](https://open.spotify.com/track/5iqDZV5Sxez6KtPBgDw2da) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Life 2](https://open.spotify.com/album/52zCUvXPgc6cOEqMrKVH0e) | 3:23 |
-| 99 | [Bruised One](https://open.spotify.com/track/7bVuadBTbyQG4udyRFpwUl) | [Mackenzy Mackay](https://open.spotify.com/artist/28WNtilgFPn1mdz3h0FjHl) | [Bruised One](https://open.spotify.com/album/7D3177ySIsW3EfuaLqJRJQ) | 3:00 |
-| 100 | [HERicane](https://open.spotify.com/track/64fITmtln0OJqcxPf09vnY) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [HERicane](https://open.spotify.com/album/4YQ8O3PQb7cZnnLeqNPaa1) | 3:47 |
+| 99 | [HERicane](https://open.spotify.com/track/64fITmtln0OJqcxPf09vnY) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [HERicane](https://open.spotify.com/album/4YQ8O3PQb7cZnnLeqNPaa1) | 3:47 |
+| 100 | [Bruised One](https://open.spotify.com/track/7bVuadBTbyQG4udyRFpwUl) | [Mackenzy Mackay](https://open.spotify.com/artist/28WNtilgFPn1mdz3h0FjHl) | [Bruised One](https://open.spotify.com/album/7D3177ySIsW3EfuaLqJRJQ) | 3:00 |
 
 Snapshot ID: `AAAAAJTmwS2EPyT3JfQTdjxycJSfKmVE`

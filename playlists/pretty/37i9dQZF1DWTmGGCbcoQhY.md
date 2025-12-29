@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmGGCbcoQhY.md) - [plain]
 
 > ¡Un sa\-sa\-saludo a todos los amantes de la cu\-cu\-cumbia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,387,486 likes - 125 songs - 8 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,387,624 likes - 125 songs - 8 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmGGCbcoQhY.md) - [plain]
 | 38 | [Cumbia Del Chinito](https://open.spotify.com/track/761FhLirwe3hFnJKgHUN8y) | [Super Grupo Colombia](https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi) | [Super Grupo Colombia](https://open.spotify.com/album/16b1llxcevVntDsf1HLbtK) | 4:12 |
 | 39 | [Donde Estas?](https://open.spotify.com/track/5JKrQ2hLkjh6V8zh1MgaS5) | [Alcalde La Sonora](https://open.spotify.com/artist/6sXu0pNqYJNlS46xqSwKxZ) | [Donde Estas?](https://open.spotify.com/album/3qn9IYBLGqTUNGHfV4BaeX) | 4:50 |
 | 40 | [Cumbia de Marisol](https://open.spotify.com/track/3S03VuRu7nAkPHisVB87ma) | [Supergrupo Son Tepito](https://open.spotify.com/artist/2OsVjQ6haJx589IpLmpYBp) | [Cumbia de Marisol](https://open.spotify.com/album/61sd5yEb8gDv6Ey9vHi0nE) | 4:13 |
-| 41 | [La Danza de los Mirlos \(Cumbia de los Pajaritos\)](https://open.spotify.com/track/0AnwIwxt96ERVRohy7hcnU) | [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh) | [Cumbia Amazonica](https://open.spotify.com/album/3Almc0ajaT7YXLxpn18QBL) | 2:49 |
-| 42 | [Ya No Me Perteneces](https://open.spotify.com/track/48L8HvDBfUHndCSewBMT2L) | [Grupo Quintanna](https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc), [Black Power](https://open.spotify.com/artist/7lej6X2O5ME5i1k2ZOgE8O) | [Ya No Me Perteneces](https://open.spotify.com/album/4MIY2d9KNaW3IZxQ5eVFZ2) | 4:29 |
+| 41 | [Ya No Me Perteneces](https://open.spotify.com/track/48L8HvDBfUHndCSewBMT2L) | [Grupo Quintanna](https://open.spotify.com/artist/17jlmfAaFHbfrauHk2HiNc), [Black Power](https://open.spotify.com/artist/7lej6X2O5ME5i1k2ZOgE8O) | [Ya No Me Perteneces](https://open.spotify.com/album/4MIY2d9KNaW3IZxQ5eVFZ2) | 4:29 |
+| 42 | [La Danza de los Mirlos \(Cumbia de los Pajaritos\)](https://open.spotify.com/track/0AnwIwxt96ERVRohy7hcnU) | [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh) | [Cumbia Amazonica](https://open.spotify.com/album/3Almc0ajaT7YXLxpn18QBL) | 2:49 |
 | 43 | [Ven a Mi](https://open.spotify.com/track/0taanVJBn0nEAYU7qz69fl) | [Grupo Kachimba](https://open.spotify.com/artist/7p6rCOCEPeP1K4QQ8MwtKS) | [Que Te Vaya Mal](https://open.spotify.com/album/5pvpAvUiTk2slwnMDSp4A6) | 5:27 |
 | 44 | [La Triste Despedida](https://open.spotify.com/track/6mfl8ppmtBBtmv2sSPVkif) | [Grupo Ju\-Juy](https://open.spotify.com/artist/1pTAkO3OrwVOKUh3bfGv5m) | [Un Monton De Estrellas](https://open.spotify.com/album/42oEsxcnZj483G6zXYWpcH) | 4:43 |
 | 45 | [Por Un Rato](https://open.spotify.com/track/1tuNezfWG1gxqSiyOOQhDt) | [Aroma](https://open.spotify.com/artist/0IZ9yCkg8kUjJNwMA8SHYX) | [Enamoradas](https://open.spotify.com/album/3ZLUqvji6GFOP3sAw04gJA) | 2:57 |
@@ -83,9 +83,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmGGCbcoQhY.md) - [plain]
 | 73 | [Ya No Me Perteneces](https://open.spotify.com/track/6RPz8HwaPvZcAYrKbWeUwK) | [Black Power](https://open.spotify.com/artist/7lej6X2O5ME5i1k2ZOgE8O) | [Black Power](https://open.spotify.com/album/1PEDqdQ95BzfHpQT8TnVv0) | 4:27 |
 | 74 | [El Reo Ausente](https://open.spotify.com/track/3G1MeI4VeHNhDimzvY22V0) | [Nery Pedraza](https://open.spotify.com/artist/2auNLhntCTSNSUhsN0MCQ0), [Los Guraperos de la Cumbia](https://open.spotify.com/artist/2qzwx9X95HrGfehodiubOs) | [Que Te Vaya Bien](https://open.spotify.com/album/5k783HWe7on8tcK6W8jtyG) | 5:52 |
 | 75 | [Ya No Estàs Aquì](https://open.spotify.com/track/6hoGyBraWOkZ5XunICrx7E) | [Grupo Cumbia Nova](https://open.spotify.com/artist/5mLkGiQbe2XJD2fwDLq7Bw) | [Ya No Estàs Aquì](https://open.spotify.com/album/7ABWSjRh6gp8dVjnFIRvgE) | 4:22 |
-| 76 | [Amapola](https://open.spotify.com/track/1NTJqSvw0dWzU68EQPfKNs) | [Alcalde La Sonora](https://open.spotify.com/artist/6sXu0pNqYJNlS46xqSwKxZ) | [Amapola](https://open.spotify.com/album/4wQyFooTbXzKtuQcFY9nCD) | 3:30 |
+| 76 | [Pa' La Paloma](https://open.spotify.com/track/43XGRyQnciCfaoVSTrDpYT) | [Alquimia La Sonora Del XXI](https://open.spotify.com/artist/7Ei7ZObFHFq1YOGoYcDIPS) | [Éxitos de la Sonora Matancera: Pa' la Paloma](https://open.spotify.com/album/5556xQBMMaLxeXEflSM9qZ) | 6:06 |
 | 77 | [Pobre Corazon](https://open.spotify.com/track/6VPPUqxI3ZLN24e645MwNo) | [Chucho Ponce Los Daddys de Chinantla](https://open.spotify.com/artist/5Jvzp2OQHVKVVRNwrIJ9im) | [Solo Exitos](https://open.spotify.com/album/5gGkPK9scAgvwiCwC1c0Bg) | 4:07 |
-| 78 | [Pa' La Paloma](https://open.spotify.com/track/43XGRyQnciCfaoVSTrDpYT) | [Alquimia La Sonora Del XXI](https://open.spotify.com/artist/7Ei7ZObFHFq1YOGoYcDIPS) | [Éxitos de la Sonora Matancera: Pa' la Paloma](https://open.spotify.com/album/5556xQBMMaLxeXEflSM9qZ) | 6:06 |
+| 78 | [Amapola](https://open.spotify.com/track/1NTJqSvw0dWzU68EQPfKNs) | [Alcalde La Sonora](https://open.spotify.com/artist/6sXu0pNqYJNlS46xqSwKxZ) | [Amapola](https://open.spotify.com/album/4wQyFooTbXzKtuQcFY9nCD) | 3:30 |
 | 79 | [El Viejo Panzón](https://open.spotify.com/track/3Dj3PRVWbPlCSaWeA0DBRM) | [Grupo G](https://open.spotify.com/artist/4zKNSiS1LD7OT0z3hTqRE8) | [Triste y Vacía](https://open.spotify.com/album/2bPp7IIAG9esCZClq0l6yV) | 3:14 |
 | 80 | [Sin Ella](https://open.spotify.com/track/6UvJvZ5asLHazFpCxhHTVM) | [Los Marios](https://open.spotify.com/artist/1A5MEaeDJeABkpcW9crr8z) | [El Toque Tropical del Barrio Vol\. 3](https://open.spotify.com/album/6TWE8uxJLDv912MqhXnxP1) | 4:04 |
 | 81 | [Tú Eres La Razón \- Electrocumbia Remake](https://open.spotify.com/track/3ZPIjIpVU6vh5gf3DvSV3a) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Tú Eres La Razón \(Electrocumbia Remake\)](https://open.spotify.com/album/2Ym9wv4J5XWjnkeWmG5r3w) | 3:15 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmGGCbcoQhY.md) - [plain]
 | 89 | [Que Dolor](https://open.spotify.com/track/7gbXqohYAdWbcUEoznCrqO) | [Los Marios](https://open.spotify.com/artist/1A5MEaeDJeABkpcW9crr8z) | [El Campeon](https://open.spotify.com/album/0CtZ6ma3A8N1bcpzjpXT3U) | 3:25 |
 | 90 | [Espacial](https://open.spotify.com/track/1empPjAI5SfG0Qk8RXzHj8) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Espacial](https://open.spotify.com/album/6mYE2ausodzviCR5y7xPtZ) | 3:35 |
 | 91 | [Embrujo de Cumbia](https://open.spotify.com/track/4RHwuJ7oskqoI0LqMY9RfD) | [Pepe Gomez Jr\. y su Grupo Union 82](https://open.spotify.com/artist/3aiiZsdJHqXrPkYOBQI0Uo) | [Vaya Que Sabor!!](https://open.spotify.com/album/5ekGtbNe6EW4omlCEKZBSL) | 3:19 |
-| 92 | [Antes](https://open.spotify.com/track/5Dsm8etm3LDJaGLUFvWjIi) | [ICC](https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF) | [Antes](https://open.spotify.com/album/1YyRxwLv0wWtzoGCFoJU6f) | 3:58 |
-| 93 | [Reyna de Mi Vida](https://open.spotify.com/track/6e6YWWoNxZMly762fyBIwb) | [Grupo Macao de Alex y Jhonny](https://open.spotify.com/artist/2GAmpY3SIeEIjNjP8AjP2Z) | [La Potencia Quiero y Deseo y Mas Exitos](https://open.spotify.com/album/0Baw8MaU4fhJoS7YHjJ8yE) | 3:54 |
+| 92 | [Reyna de Mi Vida](https://open.spotify.com/track/6e6YWWoNxZMly762fyBIwb) | [Grupo Macao de Alex y Jhonny](https://open.spotify.com/artist/2GAmpY3SIeEIjNjP8AjP2Z) | [La Potencia Quiero y Deseo y Mas Exitos](https://open.spotify.com/album/0Baw8MaU4fhJoS7YHjJ8yE) | 3:54 |
+| 93 | [Antes](https://open.spotify.com/track/5Dsm8etm3LDJaGLUFvWjIi) | [ICC](https://open.spotify.com/artist/66UyAOM9ECEDzsfUm9UXeF) | [Antes](https://open.spotify.com/album/1YyRxwLv0wWtzoGCFoJU6f) | 3:58 |
 | 94 | [Cervecita](https://open.spotify.com/track/1N30BehuFIvGKwx5q5Swew) | [Kumbia Flow](https://open.spotify.com/artist/4q8TCRvhHjZ1dRpOQDsxBW) | [Cervecita](https://open.spotify.com/album/4os30d5A9kIChPAztcYqIv) | 3:51 |
 | 95 | [Mi Otra Mitad](https://open.spotify.com/track/0xCANaLk8F91mIUdOm3ljG) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Mi Otra Mitad](https://open.spotify.com/album/0gtkL0OqqDGkXlqqDDk2JM) | 4:14 |
 | 96 | [Tu y yo](https://open.spotify.com/track/778AFISUlRVyMbzmASfOBx) | [Grupo Konfusion](https://open.spotify.com/artist/3xYkx6c8tr6YewKD3xqpH4) | [Tu y Yo](https://open.spotify.com/album/6kzuObrtfdIgQqWzknrE4q) | 4:31 |

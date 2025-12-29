@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wfQutivYYr.md) - [plain]
 
 > Emma sulla cover della playlist più grande in Italia 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,727,931 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,727,893 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

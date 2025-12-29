@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2EFRC0.md) - [plain]
 
 > This is Marcos Witt\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,373 likes - 50 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,376 likes - 50 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2EFRC0.md) - [plain]
 | 49 | [Cristo es Mi Señor](https://open.spotify.com/track/2xPa83ocADIZydAdeB9M6G) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Poderoso](https://open.spotify.com/album/3ZpqmdCzScCDTslbgxPUkn) | 5:06 |
 | 50 | [Dios Ha Sido Bueno \- En Vivo desde el Auditorio Nacional](https://open.spotify.com/track/2E4OmIhuppQYuBomMV37lx) | [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Un Corazón \(En Vivo desde el Auditorio Nacional\)](https://open.spotify.com/album/4T4uX4tt64Zhn3Ig2lcuNU) | 1:33 |
 
-Snapshot ID: `aU3QAAAAAACBnnt5vb6uk9bDWavyjENh`
+Snapshot ID: `aU8hgAAAAAA+67yBdQMVmV/fze5UnpbT`

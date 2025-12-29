@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 
 > Live fast, die awesome! A great mix of the best rockabilly tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 544,481 likes - 60 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 544,488 likes - 60 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 | 43 | [Promised Land](https://open.spotify.com/track/11Kio5fnxAzzNLWTgTOla6) | [John Lindberg Trio](https://open.spotify.com/artist/1WycSxPCDVrFmadezeD8sO) | [Promised Land](https://open.spotify.com/album/407XfX8OgTkRIYvPXuieRo) | 3:08 |
 | 44 | [My Little Sister Gotta Motorbike](https://open.spotify.com/track/3jdD1a7GJXh3Q9pMYxLagY) | [Crazy Cavan](https://open.spotify.com/artist/1GpRTQRruGUoxhRYV0RtEv), [The Rhythm Rockers](https://open.spotify.com/artist/2vUb000rRvIR0OySDVJSat) | [Our Own Way Of Rockin'](https://open.spotify.com/album/3Tig4FmFOmfxWrwwQhN1DO) | 2:45 |
 | 45 | [Love You To Death](https://open.spotify.com/track/2Ibsm42tOiFzlMIKyDsAQc) | [Screamin' Sins](https://open.spotify.com/artist/5TbvUklHVsA9ckRCb9WhQO), [Jen Blackwood](https://open.spotify.com/artist/6GInh8N8tyz8W1ebQR7wQ1) | [Love You To Death](https://open.spotify.com/album/1SuhxLmkkd8B2ePP5PkWaD) | 3:04 |
-| 46 | [Redneck Rock](https://open.spotify.com/track/1UH6UAeMdL5k8hJe8dNrk8) | [Jerry Jaye](https://open.spotify.com/artist/34LPrj2jJHyeenP4sURa7N) | [One More Time](https://open.spotify.com/album/5nT4fJpMylZufxoYnB1Pbl) | 2:15 |
+| 46 | [Jungle Rock](https://open.spotify.com/track/6dA1oRPKhfAm1hHO6sKrGy) | [Hank Mizell](https://open.spotify.com/artist/3RGF93b8Qtz77GLJBgdBH6) | [Windy City Bop \- Chicago Rockabilly 1945\-1958](https://open.spotify.com/album/1cqS5uzgVFJLhGuP7G089N) | 2:46 |
 | 47 | [Leave My Heart Alone](https://open.spotify.com/track/0GDUQ7NS4nLjjSxjKA5ugt) | [Deke Dickerson](https://open.spotify.com/artist/6Uhcb4YBtQmZJKL3jBpPX4), [Whistle Bait](https://open.spotify.com/artist/7dFvgbU1cSYcwUQ6lLRFhI) | [Deke Dickerson Meets The Whistle Bait](https://open.spotify.com/album/4meqFQHC5aYxp3X6q6uuyX) | 3:03 |
-| 48 | [Jungle Rock](https://open.spotify.com/track/6dA1oRPKhfAm1hHO6sKrGy) | [Hank Mizell](https://open.spotify.com/artist/3RGF93b8Qtz77GLJBgdBH6) | [Windy City Bop \- Chicago Rockabilly 1945\-1958](https://open.spotify.com/album/1cqS5uzgVFJLhGuP7G089N) | 2:46 |
+| 48 | [Redneck Rock](https://open.spotify.com/track/1UH6UAeMdL5k8hJe8dNrk8) | [Jerry Jaye](https://open.spotify.com/artist/34LPrj2jJHyeenP4sURa7N) | [One More Time](https://open.spotify.com/album/5nT4fJpMylZufxoYnB1Pbl) | 2:15 |
 | 49 | [Bad News From Pretty Red Lips](https://open.spotify.com/track/1jy0EJerJqjpwdGHkUrZQd) | [Fatboy](https://open.spotify.com/artist/5vK6yZH3E1wOYY93NHZwJT) | [Overdrive](https://open.spotify.com/album/1PfyEOST0PpaP4c258vF0E) | 2:46 |
 | 50 | [Rockabilly Rebel](https://open.spotify.com/track/2x8crqLADWUdP27pFsF8JT) | [Hillbilly Hellcats](https://open.spotify.com/artist/11m1eWZOcuGHyNnE2m32SB) | [Our Brand](https://open.spotify.com/album/2x4X3CEv2XmPvNBVd309pz) | 2:29 |
 | 51 | [Rock 'n' Roll Ruby](https://open.spotify.com/track/5mDMTTHohxXChAaN7w0ROs) | [Warren Smith](https://open.spotify.com/artist/3EPmCVUm7QNc1fSrLsXGq5) | [Rock 'n' Roll Ruby / I'd Rather Be Safe Than Sorry](https://open.spotify.com/album/1gpiATxAWaQu0Kdzk72Izn) | 2:50 |
@@ -63,9 +63,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 | 53 | [Rockabilly Guy](https://open.spotify.com/track/3vrRAugNjfi7UkW4Ktxxyl) | [The Polecats](https://open.spotify.com/artist/0ySLj2XiEOFtixInK1GAD4) | [Rockabilly Cats](https://open.spotify.com/album/2FYlqHuVW1L4jnyU8eYJO2) | 2:32 |
 | 54 | [Black Slacks](https://open.spotify.com/track/0nRR6eQMDYkIFmn8c9Rwga) | [Joe Bennett & The Sparkletones](https://open.spotify.com/artist/7jXrEnMAd3ExygGvV3ZGhP) | [1957\-1959](https://open.spotify.com/album/5jRYbndM2M3Z5tzDJDLzNp) | 2:09 |
 | 55 | [King Of Love](https://open.spotify.com/track/3mxjg9uRfR9LXVkuwepexN) | [Dave Edmunds](https://open.spotify.com/artist/65Gh3BfK84aTIugiRCgLBA) | [The Best Of The EMI Years](https://open.spotify.com/album/7gdnNeLNm05j7gzB3qEB90) | 3:09 |
-| 56 | [We the Boys Will Rock Ya](https://open.spotify.com/track/5X0Bw8bVxSm274py1RyosM) | [The Big Six](https://open.spotify.com/artist/3yBtTnMApmLbCCRUWq0bgP) | [We Will Rock You](https://open.spotify.com/album/73Wnm7tH3Potmwl8dQSPdB) | 3:32 |
-| 57 | [Good Rockin' Boogie](https://open.spotify.com/track/7yV2BSU9Nmnw1xv1ldozhJ) | [Sleepy LaBeef](https://open.spotify.com/artist/4TWlhLMKfoIXqJOYxwKhdf) | [Rockabilly 1977](https://open.spotify.com/album/6wCq4bDPpN1sr9KtXq3vYf) | 1:52 |
-| 58 | [American Music](https://open.spotify.com/track/0NsEEXFLXDNjpgBwRZ143g) | [The Blasters](https://open.spotify.com/artist/5dr7fkIRO4K14g7U8SCue5) | [The Blasters](https://open.spotify.com/album/4RifE9ClJmHaP0j0Qtux3B) | 2:07 |
+| 56 | [Good Rockin' Boogie](https://open.spotify.com/track/7yV2BSU9Nmnw1xv1ldozhJ) | [Sleepy LaBeef](https://open.spotify.com/artist/4TWlhLMKfoIXqJOYxwKhdf) | [Rockabilly 1977](https://open.spotify.com/album/6wCq4bDPpN1sr9KtXq3vYf) | 1:52 |
+| 57 | [American Music](https://open.spotify.com/track/0NsEEXFLXDNjpgBwRZ143g) | [The Blasters](https://open.spotify.com/artist/5dr7fkIRO4K14g7U8SCue5) | [The Blasters](https://open.spotify.com/album/4RifE9ClJmHaP0j0Qtux3B) | 2:07 |
+| 58 | [We the Boys Will Rock Ya](https://open.spotify.com/track/5X0Bw8bVxSm274py1RyosM) | [The Big Six](https://open.spotify.com/artist/3yBtTnMApmLbCCRUWq0bgP) | [We Will Rock You](https://open.spotify.com/album/73Wnm7tH3Potmwl8dQSPdB) | 3:32 |
 | 59 | [Drinking Wine Spo\-Dee\-O\-Dee \- Single Version](https://open.spotify.com/track/2kfSF4imGkVpJXR4MSKccm) | [Johnny Burnette & The Rock 'N' Roll Trio](https://open.spotify.com/artist/1neKWNZP74NEuvHZmvMS58) | [Tear It Up: The Complete Legedary Coral Recordings](https://open.spotify.com/album/5EEZg4wJpSRVqRi1nxwKL6) | 2:12 |
 | 60 | [Wild Saxophone](https://open.spotify.com/track/31K9keedgi9MaFaLRkvJJU) | [Stray Cats](https://open.spotify.com/artist/2ibPkysx2PXqWLmxFD7jSg) | [Stray Cats](https://open.spotify.com/album/1EKPvDwIw66YEBF2TjOQn8) | 3:01 |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 
 > Classic songs that built the foundations of punk\. Cover: The Damned from DB Burkeman's <a href="https://www.blurringbooks.com/book/crash"> Crash Bang</a>, a book filled with photos & culture from the late ’70s/early ’80s New York, LA & London punk scenes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,601,286 likes - 100 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,601,293 likes - 100 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 | 61 | [Raw Power \[2023 Remaster\] \- Iggy Mix](https://open.spotify.com/track/3BnVqaDfgKyI4CFCfozors) | [The Stooges](https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3) | [Raw Power \(Iggy Mix \- 2023 Remaster\)](https://open.spotify.com/album/6mxbG8KrOTZIxlP4gzaliM) | 4:16 |
 | 62 | [Pills](https://open.spotify.com/track/0EvHaC4YFOFxeDMYXK2QFk) | [New York Dolls](https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx) | [New York Dolls](https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr) | 2:47 |
 | 63 | [I Love Livin' in the City](https://open.spotify.com/track/0qHt7KGw9LPm4Ms4qUZlSd) | [Fear](https://open.spotify.com/artist/0hPU1czS0JdstuT8VRtBPS) | [The Record](https://open.spotify.com/album/5n0IOSvGqBJf92LorDWvRE) | 2:05 |
-| 64 | [That's Progress](https://open.spotify.com/track/3RNUaNZ4ATaPXfQusDGyGd) | [D.O.A.](https://open.spotify.com/artist/3g92p1YpivbOqVLiYVd4Yk) | [Last Scream of the Missing Neighbors](https://open.spotify.com/album/4SXVG1SPGjA5ofm3CQsPnc) | 3:13 |
-| 65 | [Stiff Little Fingers](https://open.spotify.com/track/73RUE4WBDyKp8jE2CL3eBc) | [The Vibrators](https://open.spotify.com/artist/0DkpQq8B7ZAKebZEjlzVmd) | [Pure Mania](https://open.spotify.com/album/1FSQBoO0bABGyl4nQssw2E) | 2:16 |
+| 64 | [Stiff Little Fingers](https://open.spotify.com/track/73RUE4WBDyKp8jE2CL3eBc) | [The Vibrators](https://open.spotify.com/artist/0DkpQq8B7ZAKebZEjlzVmd) | [Pure Mania](https://open.spotify.com/album/1FSQBoO0bABGyl4nQssw2E) | 2:16 |
+| 65 | [That's Progress](https://open.spotify.com/track/3RNUaNZ4ATaPXfQusDGyGd) | [D.O.A.](https://open.spotify.com/artist/3g92p1YpivbOqVLiYVd4Yk) | [Last Scream of the Missing Neighbors](https://open.spotify.com/album/4SXVG1SPGjA5ofm3CQsPnc) | 3:13 |
 | 66 | [Dean's Dream](https://open.spotify.com/track/65ZK2zk1YFTnaD7D4deD37) | [The Dead Milkmen](https://open.spotify.com/artist/2fhngmJMaaKcdhXHCa4cPK) | [Big Lizard In My Back Yard](https://open.spotify.com/album/4idwu1NCDTQ6V6CumtfW93) | 1:49 |
 | 67 | [Radio, Radio](https://open.spotify.com/track/68zMm2sG8wCavafCFFYRPg) | [Elvis Costello & The Attractions](https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH) | [The Best Of The First 10 Years](https://open.spotify.com/album/5ydDN9dDjtwauLG2vLVpsw) | 3:06 |
 | 68 | [Riot](https://open.spotify.com/track/7G3kh6Vtoc46aTS5GztTMD) | [U.K\. Subs](https://open.spotify.com/artist/4wsg78KGu80m8Xk37PY2uG) | [Complete Riot](https://open.spotify.com/album/6XNbcUWRawIjcIpAlW99Bd) | 2:46 |
@@ -90,12 +90,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 | 80 | [Ever Fallen in Love \(With Someone You Shouldn't've?\) \- 1996 Remastered Version](https://open.spotify.com/track/0bHm2wFL0m7qZIlhO7PQu5) | [Buzzcocks](https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y) | [Love Bites \(Special Edition\)](https://open.spotify.com/album/7p6Nh183RUdsEM5wltdv9Q) | 2:43 |
 | 81 | [Wild in the Streets](https://open.spotify.com/track/4BZLAm5rqqChHZlBlHuSMV) | [Circle Jerks](https://open.spotify.com/artist/4ubY8RYfXkcEqgjEMDuLYl) | [Wild in the Streets](https://open.spotify.com/album/1LaoxOUvYzBdQleyW03Keh) | 2:35 |
 | 82 | [Minor Threat](https://open.spotify.com/track/6yIaRcvzhIrukxS4VVhil0) | [Minor Threat](https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf) | [First Two Seven Inches](https://open.spotify.com/album/29cV9KKP4Wr07poFUHBsbC) | 1:31 |
-| 83 | [Maxwell Murder](https://open.spotify.com/track/0vNGbGK1pl5SrV6SHUh06H) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...And Out Come The Wolves](https://open.spotify.com/album/1HisV3ZKLs9It3KlGcPki5) | 1:25 |
+| 83 | [Hong Kong Garden](https://open.spotify.com/track/4HkyBXACJ87bAHp7Z8UB2y) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [The Scream](https://open.spotify.com/album/2mrlf8926IqaXziX4YomV5) | 2:55 |
 | 84 | [Holiday in Cambodia](https://open.spotify.com/track/6n7DUOZGILo0dU9pwjQsbA) | [Dead Kennedys](https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV) | [Fresh Fruit for Rotting Vegetables](https://open.spotify.com/album/5cADwrInLLhrjsXSmEPE3E) | 4:37 |
-| 85 | [Rock 'N' Roll High School \- Remastered](https://open.spotify.com/track/0CZPjc07HBHxmZVvVnnHWx) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Loud, Fast, Ramones: Their Toughest Hits](https://open.spotify.com/album/0Me9wrzxQGN7vZDudzlI4t) | 2:17 |
-| 86 | [Hurry Up Harry](https://open.spotify.com/track/38UXdVUPvx0dHbrotdg3Bl) | [Sham 69](https://open.spotify.com/artist/6zT1pRlsrr211UohEL7tj1) | [Angels With Dirty Faces](https://open.spotify.com/album/2aVVGfoDoo5I8IRcNAVToY) | 3:26 |
-| 87 | [Bad Mouth](https://open.spotify.com/track/44qEQsgGIiKEE6oYwOGo2s) | [Fugazi](https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G) | [13 Songs](https://open.spotify.com/album/21wERoyBas2JCRCgysPDJX) | 2:35 |
-| 88 | [Hong Kong Garden](https://open.spotify.com/track/4HkyBXACJ87bAHp7Z8UB2y) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [The Scream](https://open.spotify.com/album/2mrlf8926IqaXziX4YomV5) | 2:55 |
+| 85 | [Maxwell Murder](https://open.spotify.com/track/0vNGbGK1pl5SrV6SHUh06H) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [...And Out Come The Wolves](https://open.spotify.com/album/1HisV3ZKLs9It3KlGcPki5) | 1:25 |
+| 86 | [Rock 'N' Roll High School \- Remastered](https://open.spotify.com/track/0CZPjc07HBHxmZVvVnnHWx) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Loud, Fast, Ramones: Their Toughest Hits](https://open.spotify.com/album/0Me9wrzxQGN7vZDudzlI4t) | 2:17 |
+| 87 | [Hurry Up Harry](https://open.spotify.com/track/38UXdVUPvx0dHbrotdg3Bl) | [Sham 69](https://open.spotify.com/artist/6zT1pRlsrr211UohEL7tj1) | [Angels With Dirty Faces](https://open.spotify.com/album/2aVVGfoDoo5I8IRcNAVToY) | 3:26 |
+| 88 | [Bad Mouth](https://open.spotify.com/track/44qEQsgGIiKEE6oYwOGo2s) | [Fugazi](https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G) | [13 Songs](https://open.spotify.com/album/21wERoyBas2JCRCgysPDJX) | 2:35 |
 | 89 | [Identity](https://open.spotify.com/track/7xvIF8xmq2HsN2jvNcrEiv) | [X\-Ray Spex](https://open.spotify.com/artist/5BgWMOdEUJYdUBH3WXfMWt) | [Germ Free Adolescents: The Anthology](https://open.spotify.com/album/0eafkMUkZUVKr02M9F4te9) | 2:25 |
 | 90 | [Add It Up \- 2002 Remastered Version](https://open.spotify.com/track/7oyxaCjnv7P1F68DDXU7y7) | [Violent Femmes](https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy) | [Violent Femmes](https://open.spotify.com/album/2G9onFLGqlMJd1ThYf0vIB) | 4:43 |
 | 91 | [I Wanna Be Sedated](https://open.spotify.com/track/0weTorJ7HSAdi874qIFCXM) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Rhino Hi\-Five: Ramones](https://open.spotify.com/album/5J9I5RkAe6EMWb4aZxAKYl) | 2:30 |

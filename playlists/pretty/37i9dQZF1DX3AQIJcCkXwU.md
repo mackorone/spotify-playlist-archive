@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AQIJcCkXwU.md) - [plain]
 
 > Sitar, flute, and sounds inspired by India.
 
-[Spotify](https://open.spotify.com/user/spotify) - 591,277 likes - 147 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 591,365 likes - 147 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -156,4 +156,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AQIJcCkXwU.md) - [plain]
 | 146 | [Healing Garden](https://open.spotify.com/track/6x7xECuEr6vwoNf3j7wb1z) | [Aman Nandi](https://open.spotify.com/artist/6xc1xUCBEBFTkpn6czPe10) | [Healing Garden](https://open.spotify.com/album/5SpMwisr4L8bZYSrlPD32X) | 4:32 |
 | 147 | [Aum](https://open.spotify.com/track/142JeUf0yewGiafhVEVZAQ) | [Ricky Kej](https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl) | [Relaxing Music From Around The World: Music for Meditation, Sleep and Working](https://open.spotify.com/album/5QU0YYRzu0pzxfNESLOECe) | 5:23 |
 
-Snapshot ID: `AAAAAKSlNNLCclk53PwjkpzS5EmyBr6y`
+Snapshot ID: `AAAAAJ3P4Fn0cUBZ3WaW2Xzn8MYLPumV`

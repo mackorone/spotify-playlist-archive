@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wB72P2sVsT.md) - [plain]
 
 > Sound Of Legend au top des bangers dance/electro du moment !
 
-[Spotify](https://open.spotify.com/user/spotify) - 430,397 likes - 40 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 430,387 likes - 40 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wB72P2sVsT.md) - [plain]
 | 39 | [Ocean](https://open.spotify.com/track/3gKRTlHyCDpttUD2FHEE6W) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Ocean](https://open.spotify.com/album/753wJ2eTLNNW7GswPY6DmF) | 3:39 |
 | 40 | [Don't Leave \- Kylie](https://open.spotify.com/track/3TcF1tFvOdhTUMIaCRBFbN) | [Akcent](https://open.spotify.com/artist/57Pw3FSi1qi2fOY4wKOKjK), [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE), [Misha Miller](https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp) | [Don't Leave \(Kylie\)](https://open.spotify.com/album/3fr8O4xvV0CCAipaAkF8ZS) | 3:08 |
 
-Snapshot ID: `AAAAAEEeHC3JCGKiI6unJdpkPRdXDrLV`
+Snapshot ID: `AAAAACcoqzSPytqpsKjh/Otowh7zNPOj`

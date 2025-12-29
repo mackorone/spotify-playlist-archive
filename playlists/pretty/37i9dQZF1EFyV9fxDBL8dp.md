@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyV9fxDBL8dp.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5F6lyb9cFqB4nUBjCeerIa">Luiz de Assis</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 355 likes - 59 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 354 likes - 59 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyV9fxDBL8dp.md) - [plain]
 | 58 | [Vítima](https://open.spotify.com/track/7jMUhDGu6D02gtw5WgLfrz) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/3UkWdgm7zfxjyGBWYobQZy) | 4:03 |
 | 59 | [Rasta Commander](https://open.spotify.com/track/5a6pFkwgYuw7SgJ2QanIJG) | [Luiz de Assis](https://open.spotify.com/artist/6GsSCLHySnPTdaS82mgMir), [Cedric Myton](https://open.spotify.com/artist/0WYnbwHtJwlgq4kZ8wv5Y3), [Átila Santana](https://open.spotify.com/artist/3xZplycz3ZHKYoIUM9wwnS) | [Rasta Commander](https://open.spotify.com/album/3aGP9FKhuvuqnbkUuFISnC) | 4:20 |
 
-Snapshot ID: `AcFX/gAAAAAmfFaIiV5ae1lWOFF5GXWB`
+Snapshot ID: `AcFd0AAAAABY9QR9oOngjWSkcB9gV6EI`

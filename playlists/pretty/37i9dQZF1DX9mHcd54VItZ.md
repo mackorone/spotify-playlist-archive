@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best new and classic South African Rock\. Cover: Barto & Zaan Sonnekus
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,134 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,151 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,12 +37,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 27 | [Hande](https://open.spotify.com/track/2HHKOscq7nDWDW5uJhr8LD) | [Vancoet](https://open.spotify.com/artist/2AT751CV7Ass28MqGa0CCG) | [Hande](https://open.spotify.com/album/6qWCTzgMxRljgvDE7KVSUr) | 3:32 |
 | 28 | [Hemel Op Die Platteland](https://open.spotify.com/track/5I3Az6oo2LaU1P8yvRk22d) | [Fokofpolisiekar](https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x) | [As Jy Met Vuur Speel Sal Jy Brand](https://open.spotify.com/album/5gSfDHZrqgG02WCE30NRvM) | 2:39 |
 | 29 | [Kies](https://open.spotify.com/track/3pVRMjiLei68ZftaCnAHXH) | [Riana Nel](https://open.spotify.com/artist/6Skl2RueCJYKBBm1Yr6BBQ) | [Kies](https://open.spotify.com/album/3SjkIeXyLQ4lkpc85KslZs) | 3:28 |
-| 30 | [Fire Sign](https://open.spotify.com/track/4jVcAoaUgre6U4Gf0KX4Uw) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [Pink Hell \(Deluxe\)](https://open.spotify.com/album/6Qt5oL1K6Rbegs1Cy8Wmu5) | 3:05 |
-| 31 | [By Jou](https://open.spotify.com/track/4C8xraIkYwd4Iq1Na4jx6q) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [By Jou](https://open.spotify.com/album/3WBPVjsyDeQabBrLz4c0gi) | 3:20 |
-| 32 | [Die Liedjie Oor Die Meisie \(Ek Wil Jou Hê\)](https://open.spotify.com/track/0MshehIqq1LGLiTrIawSo2) | [Glaskas](https://open.spotify.com/artist/3mbYAsXro0k8Rvi9GrMPPn) | [Revolusie, Romantiek, Ruk en Rol](https://open.spotify.com/album/528vOlag3lv4aOPia804bY) | 2:55 |
+| 30 | [By Jou](https://open.spotify.com/track/4C8xraIkYwd4Iq1Na4jx6q) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [By Jou](https://open.spotify.com/album/3WBPVjsyDeQabBrLz4c0gi) | 3:20 |
+| 31 | [Die Liedjie Oor Die Meisie \(Ek Wil Jou Hê\)](https://open.spotify.com/track/0MshehIqq1LGLiTrIawSo2) | [Glaskas](https://open.spotify.com/artist/3mbYAsXro0k8Rvi9GrMPPn) | [Revolusie, Romantiek, Ruk en Rol](https://open.spotify.com/album/528vOlag3lv4aOPia804bY) | 2:55 |
+| 32 | [Fire Sign](https://open.spotify.com/track/4jVcAoaUgre6U4Gf0KX4Uw) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [Pink Hell \(Deluxe\)](https://open.spotify.com/album/6Qt5oL1K6Rbegs1Cy8Wmu5) | 3:05 |
 | 33 | [Agtergelaat](https://open.spotify.com/track/09Qgw5YbAg6lGejFfQDDHO) | [Kristi Steyn](https://open.spotify.com/artist/4KoEmYiPvlvX3qExVzlsqU) | [Agtergelaat](https://open.spotify.com/album/30s0bQFjfh7e9320ZF6zXZ) | 3:50 |
-| 34 | [Foxglove](https://open.spotify.com/track/3TdFgirqLH4lELwbutbZoS) | [Babble Hume](https://open.spotify.com/artist/0MNTYPj8oFIXGQf7R6d4VP) | [Mulberry Tree](https://open.spotify.com/album/4WsaHzVCLsK0Pu2k7m5qr9) | 3:29 |
-| 35 | [Hey Jack](https://open.spotify.com/track/4NOH87zWncLh9FvLDzq7K9) | [Babette](https://open.spotify.com/artist/4U4ZzduTBxu3bSKxWo3DJa) | [Hey Jack](https://open.spotify.com/album/220IRwEjL95kR3Qxi0HV8W) | 2:54 |
+| 34 | [Hey Jack](https://open.spotify.com/track/4NOH87zWncLh9FvLDzq7K9) | [Babette](https://open.spotify.com/artist/4U4ZzduTBxu3bSKxWo3DJa) | [Hey Jack](https://open.spotify.com/album/220IRwEjL95kR3Qxi0HV8W) | 2:54 |
+| 35 | [Foxglove](https://open.spotify.com/track/3TdFgirqLH4lELwbutbZoS) | [Babble Hume](https://open.spotify.com/artist/0MNTYPj8oFIXGQf7R6d4VP) | [Mulberry Tree](https://open.spotify.com/album/4WsaHzVCLsK0Pu2k7m5qr9) | 3:29 |
 | 36 | [Soet Somer](https://open.spotify.com/track/3yqvZAb4ezEvaypkouKsFm) | [NORRA](https://open.spotify.com/artist/0fW5uAPKjN6BOHvkIGprtw) | [Soet Somer](https://open.spotify.com/album/6XrkwsBEE1DJnujF7qfg5m) | 4:34 |
 | 37 | [Kenia](https://open.spotify.com/track/2WOlxHBzvjKXGRjQqxKbyK) | [GSTRiNG](https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5) | [Kenia](https://open.spotify.com/album/1DgmNIxRVa63FY9MiMJKW2) | 3:45 |
 | 38 | [Lego](https://open.spotify.com/track/7nyB4Ld3JW9cTC0zv3v3nJ) | [Sonder Onderbroeke](https://open.spotify.com/artist/3KKSiu6TyRnyTue7MDKvrx) | [Lego](https://open.spotify.com/album/4l1TvdGZXxYmCOHJyhgCf1) | 2:31 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 
 > als het woud een playlist zou zijn
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,824 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,823 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 | 26 | [Follow On](https://open.spotify.com/track/3Qlk110ZID5OoWwjv5eUcj) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Follow On](https://open.spotify.com/album/1ulTuIbasaEcvtUs9BBBKq) | 3:48 |
 | 27 | [All Night All Day](https://open.spotify.com/track/56PuaVhEQzQ57PnREmTCuI) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [All Night All Day](https://open.spotify.com/album/1Q11CbPzG4porUhAtAD9RN) | 4:48 |
 | 28 | [Crown](https://open.spotify.com/track/7xTplcuSNquTW0mpuikq1E) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Crown](https://open.spotify.com/album/07gjkxd6XpuPOYPjx11iDY) | 2:22 |
-| 29 | [Underwear](https://open.spotify.com/track/10zG0Yamj5zQoWcRCnQI7Z) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Underwear](https://open.spotify.com/album/2bLVEtFJZFX94OZ2oeUa9Y) | 3:27 |
+| 29 | [Another Year Will Pass](https://open.spotify.com/track/2kK1NHAOsnl4WmRf4Zlv9B) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Another Year Will Pass](https://open.spotify.com/album/5upyUvc97PJ25cRb1vLLDI) | 3:15 |
 | 30 | [Suzanne](https://open.spotify.com/track/2L93TdW2GMue1H2zlkt30F) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Songs Of Leonard Cohen](https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5) | 3:49 |
-| 31 | [Another Year Will Pass](https://open.spotify.com/track/2kK1NHAOsnl4WmRf4Zlv9B) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Another Year Will Pass](https://open.spotify.com/album/5upyUvc97PJ25cRb1vLLDI) | 3:15 |
+| 31 | [Underwear](https://open.spotify.com/track/10zG0Yamj5zQoWcRCnQI7Z) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Underwear](https://open.spotify.com/album/2bLVEtFJZFX94OZ2oeUa9Y) | 3:27 |
 | 32 | [Shake Off the Rain](https://open.spotify.com/track/0gVBrNtip58FmG1JlGwATM) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Shake Off the Rain](https://open.spotify.com/album/4zOqdbkSSn2PX7KMwdHxdh) | 4:42 |
 | 33 | [Small Hours \(feat\. Isabel Pless\)](https://open.spotify.com/track/4pGpa879o8xiiHSJyhiMMZ) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC), [Isabel Pless](https://open.spotify.com/artist/4lOW9vOCRgeh8peyg1mw1b) | [Small Hours \(feat\. Isabel Pless\)](https://open.spotify.com/album/1HmFzWDqZsky5phafS74qD) | 3:18 |
 | 34 | [The Surface](https://open.spotify.com/track/4329XA7OGxcJXruj4nirnn) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [The Surface](https://open.spotify.com/album/08x9Txl6jTNKIgfL64iwaG) | 3:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 | 49 | [Speaking of You](https://open.spotify.com/track/4a4BqvfGcEh2PwRdFVwiMM) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Speaking of You](https://open.spotify.com/album/1VRsxPMJdQ1LgeKhNb5Kv1) | 4:25 |
 | 50 | [happiness \- live](https://open.spotify.com/track/43zJRyV2RM1Zk9FIw9xx74) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [happiness \(live\)](https://open.spotify.com/album/5ZBOV5VfT8r4TU17gKOYX0) | 3:28 |
 
-Snapshot ID: `AAAAAHr0zc+gThcLX+G/wKJJ4/XPvDBV`
+Snapshot ID: `AAAAAFV3tm1bmNW+66XFL1wrEAIYxvNK`

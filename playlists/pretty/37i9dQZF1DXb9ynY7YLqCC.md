@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 
 > Canciones directas y banderas al viento\. Foto: reybruja
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,698 likes - 70 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,721 likes - 70 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,16 +37,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 | 27 | [Cruz de Sal](https://open.spotify.com/track/3wSEaw1s73DTuS1iNPaK4G) | [La 25](https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc) | [El Origen](https://open.spotify.com/album/0S6egWzUaW2gR2MX16UKHb) | 6:15 |
 | 28 | [Nadie Cree en Mi Canción](https://open.spotify.com/track/33fq6yez7xTPhIYsv3vLZs) | [Los Gardelitos](https://open.spotify.com/artist/1WXAndtMSMymA6qMXyvoXV) | [Gardeliando](https://open.spotify.com/album/4hCEfpe6nzek67R3G1ktt3) | 3:42 |
 | 29 | [La Razón Que Te Demora](https://open.spotify.com/track/0ljyHIWERJQp8O5LKgKm1l) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Detonador de Sueños](https://open.spotify.com/album/7hHY77bNkcPikVZpC91hvZ) | 4:24 |
-| 30 | [De La Guitarra](https://open.spotify.com/track/26lG5q6s0MG3GK44rmYmFg) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [No Es Solo Rock And Roll](https://open.spotify.com/album/1KYkaepx3oUWJRDR8ypzxH) | 5:12 |
+| 30 | [Señor Kioskero](https://open.spotify.com/track/4lK6lXhFBHIQQyF9Kdck4d) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [Otro Día en el Planeta Tierra](https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC) | 3:18 |
 | 31 | [Desearia](https://open.spotify.com/track/0o7skuAa4pFEximHqk8anA) | [Kapanga](https://open.spotify.com/artist/2MLiASzGQHVMyORIApRGsp) | [¡Esta!](https://open.spotify.com/album/73gBcYaL37xI0SXqaZQq3K) | 3:23 |
-| 32 | [La ilusión que me condena](https://open.spotify.com/track/0AP4CI592TMd5YktR6XINJ) | [Pier](https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog) | [Alucinados como la primera vez](https://open.spotify.com/album/7HcdNaR29l7Ia06pPjz9SD) | 5:00 |
-| 33 | [Nunca me enseñaste](https://open.spotify.com/track/41i7cqPXQj5zkMJK6V6RNf) | [Jóvenes Pordioseros](https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4) | [Vicio](https://open.spotify.com/album/5GhW2V4FEHOHEeVydU7TxS) | 3:28 |
+| 32 | [Nunca me enseñaste](https://open.spotify.com/track/41i7cqPXQj5zkMJK6V6RNf) | [Jóvenes Pordioseros](https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4) | [Vicio](https://open.spotify.com/album/5GhW2V4FEHOHEeVydU7TxS) | 3:28 |
+| 33 | [La ilusión que me condena](https://open.spotify.com/track/0AP4CI592TMd5YktR6XINJ) | [Pier](https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog) | [Alucinados como la primera vez](https://open.spotify.com/album/7HcdNaR29l7Ia06pPjz9SD) | 5:00 |
 | 34 | [Carolina](https://open.spotify.com/track/3dHDEm95M3UJb6KBuDufvK) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [A Cielo Abierto \- El año del tigre](https://open.spotify.com/album/6flD95j521iLXh4JVL3BNq) | 3:14 |
 | 35 | [¿Qué Vas A Hacer Tan Sola Hoy? \- Spotify Singles](https://open.spotify.com/track/65Qjvcf4RFQPwwkz7T6l76) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [¿Qué Vas A Hacer Tan Sola Hoy? \- Spotify Singles](https://open.spotify.com/album/0pz6Qn6QKcJmdTwsGDcVBW) | 3:11 |
 | 36 | [Ventana](https://open.spotify.com/track/0eZFAjtqZSw5cXVb4vmxVx) | [Cielo Razzo](https://open.spotify.com/artist/7EgR8MOSpxSytMngVCVGEu) | [Tierra Nueva](https://open.spotify.com/album/3TAG7YqTx1HWro5apt2FWe) | 2:58 |
-| 37 | [Sacrificio y Rock N' Roll](https://open.spotify.com/track/5tdt8ArbR4hg828ySKUFrD) | [Pier](https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog) | [Gladiadores del rock](https://open.spotify.com/album/753PebEMtBEDIt8PyP5Snp) | 4:29 |
-| 38 | [¿A dónde vas?](https://open.spotify.com/track/0T28vJFKjxSscEEavTeR4R) | [El Bordo](https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg) | [Historias Perdidas](https://open.spotify.com/album/4QWS9kxQIVo6eHtuYaBfnX) | 3:43 |
-| 39 | [Imposible](https://open.spotify.com/track/2Yl65F569JNarqLpr4oYNj) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Incompleto \- 20 Rocanroles 20](https://open.spotify.com/album/4wCc0oARR0CTG3plo4Zgnn) | 4:07 |
+| 37 | [Imposible](https://open.spotify.com/track/2Yl65F569JNarqLpr4oYNj) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Incompleto \- 20 Rocanroles 20](https://open.spotify.com/album/4wCc0oARR0CTG3plo4Zgnn) | 4:07 |
+| 38 | [Sacrificio y Rock N' Roll](https://open.spotify.com/track/5tdt8ArbR4hg828ySKUFrD) | [Pier](https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog) | [Gladiadores del rock](https://open.spotify.com/album/753PebEMtBEDIt8PyP5Snp) | 4:29 |
+| 39 | [¿A dónde vas?](https://open.spotify.com/track/0T28vJFKjxSscEEavTeR4R) | [El Bordo](https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg) | [Historias Perdidas](https://open.spotify.com/album/4QWS9kxQIVo6eHtuYaBfnX) | 3:43 |
 | 40 | [Seremos](https://open.spotify.com/track/2PEiV0Dl5Z70afQEW2wxDg) | [Salta La Banca](https://open.spotify.com/artist/4JathQD0aoyE5WwaIB2JxC) | [Seremos](https://open.spotify.com/album/1FiHP8cmZtVmK74SqjEdop) | 3:28 |
 | 41 | [Ultraliviano](https://open.spotify.com/track/5YxKjA5ucbct0NveO3OlU4) | [Cielo Razzo](https://open.spotify.com/artist/7EgR8MOSpxSytMngVCVGEu) | [El Día Fuera Del Tiempo](https://open.spotify.com/album/7m4xVZzJ2B32BwchIPFvI0) | 4:30 |
 | 42 | [Lobo](https://open.spotify.com/track/6ZV5I5GntRTLOSNvSHQ1ia) | [Jóvenes Pordioseros](https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4) | [Pánico](https://open.spotify.com/album/1T53gREvUUPSwN2dP1SZRy) | 2:42 |
@@ -71,12 +71,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 | 61 | [Certezas de cartón](https://open.spotify.com/track/70C1X4mE6cIgXyg5WsuCHI) | [El Bordo](https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg), [Ricardo Mollo](https://open.spotify.com/artist/7M6qgWRcVoBqgkczMPT1x7) | [Irreal](https://open.spotify.com/album/4oX28XEb23WndGHhKBY8Pk) | 3:38 |
 | 62 | [No Me Dejes Caer](https://open.spotify.com/track/7wCalELbatgVcdYWHB6ybd) | [Pier](https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog) | [No Me Dejes Caer](https://open.spotify.com/album/1JiB6fCMmdvt0qyHWK04fR) | 4:18 |
 | 63 | [Anguilita](https://open.spotify.com/track/468PxWHH3BwWwqQQ5t5VJG) | [De La Gran Piñata](https://open.spotify.com/artist/0gxy0foaJsRc1tfpByJWCK) | [Miércoles](https://open.spotify.com/album/6H15jq7KmVKCSo6RvPuIjK) | 4:42 |
-| 64 | [En otra vida](https://open.spotify.com/track/29lDXSXYcHIbcD6rasVEXO) | [Luceros el Ojo Daltónico](https://open.spotify.com/artist/7aDsgRYwyCrJDUT0u1kyUV) | [El disco maldito](https://open.spotify.com/album/3FFUbuEYfvgPQIR32bLXLN) | 3:51 |
-| 65 | [Perdido en Buenos Aires](https://open.spotify.com/track/101sToXKkcLpZKmnri9XH2) | [Rolo Sartorio](https://open.spotify.com/artist/04qwrwU0fxN1TJ1hbfR5cv) | [Perdido en Buenos Aires](https://open.spotify.com/album/3DxE5lXge6XVcAMWWjLiIJ) | 4:31 |
+| 64 | [Perdido en Buenos Aires](https://open.spotify.com/track/101sToXKkcLpZKmnri9XH2) | [Rolo Sartorio](https://open.spotify.com/artist/04qwrwU0fxN1TJ1hbfR5cv) | [Perdido en Buenos Aires](https://open.spotify.com/album/3DxE5lXge6XVcAMWWjLiIJ) | 4:31 |
+| 65 | [En otra vida](https://open.spotify.com/track/29lDXSXYcHIbcD6rasVEXO) | [Luceros el Ojo Daltónico](https://open.spotify.com/artist/7aDsgRYwyCrJDUT0u1kyUV) | [El disco maldito](https://open.spotify.com/album/3FFUbuEYfvgPQIR32bLXLN) | 3:51 |
 | 66 | [Paciencia](https://open.spotify.com/track/51eCvEz5gqQWWQvejliy2Q) | [Ojos locos](https://open.spotify.com/artist/2qMYZt6h1KkH2OxwI2tOo6) | [Al filo del abismo](https://open.spotify.com/album/2D6YBzqSQMWltoe3GcNmZj) | 4:15 |
 | 67 | [Calavera](https://open.spotify.com/track/051m0yMunQHD5Zxc1P1FvZ) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04), [Manuel Moretti](https://open.spotify.com/artist/2OHC8FLow0MAt62MoMRzZk) | [Calavera](https://open.spotify.com/album/6pRRRIq4SoYqXZZTBCF5xV) | 3:37 |
 | 68 | [Reflejo](https://open.spotify.com/track/1RaYc8dytOsWlmL2bEuG2I) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Reflejo](https://open.spotify.com/album/6FsAipsUvB2WP4o6ho5u2i) | 4:19 |
-| 69 | [Mesita del Miravalles](https://open.spotify.com/track/6SmnXXBm7YncpNWmUujfJY) | [Luceros el Ojo Daltónico](https://open.spotify.com/artist/7aDsgRYwyCrJDUT0u1kyUV) | [Mesita del Miravalles](https://open.spotify.com/album/0XzpwQu58Mfsddh1O405wA) | 3:23 |
-| 70 | [Lo Que Nunca Te Dije](https://open.spotify.com/track/2qOZlmuakVosc9cQRHMJLt) | [La Perra Que Los Parió](https://open.spotify.com/artist/3sVVMPMbALoko1Iub9ADj7) | [Cómo Evitar Que Sangremos](https://open.spotify.com/album/2MuxY6SrvgQpk8oa8nyyt5) | 5:13 |
+| 69 | [Lo Que Nunca Te Dije](https://open.spotify.com/track/2qOZlmuakVosc9cQRHMJLt) | [La Perra Que Los Parió](https://open.spotify.com/artist/3sVVMPMbALoko1Iub9ADj7) | [Cómo Evitar Que Sangremos](https://open.spotify.com/album/2MuxY6SrvgQpk8oa8nyyt5) | 5:13 |
+| 70 | [Mesita del Miravalles](https://open.spotify.com/track/6SmnXXBm7YncpNWmUujfJY) | [Luceros el Ojo Daltónico](https://open.spotify.com/artist/7aDsgRYwyCrJDUT0u1kyUV) | [Mesita del Miravalles](https://open.spotify.com/album/0XzpwQu58Mfsddh1O405wA) | 3:23 |
 
 Snapshot ID: `AAAAAK+3EJoVM+sUHO0hNxY9fcM6NblQ`

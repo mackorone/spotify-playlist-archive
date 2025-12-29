@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rUSgDt83Z2.md) - [plain]
 
 > Fijn voor thuis of op werk\. Helemaal van eigen bodem 🇳🇱
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,766 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,768 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rUSgDt83Z2.md) - [plain]
 | 27 | [Ik Mis Je Nu Wel Hier](https://open.spotify.com/track/3My7OXHwp10NwgbCoR3KRt) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA) | [Ik Mis Je Nu Wel Hier](https://open.spotify.com/album/0SUcRdL1V8ddBXH3MKjkf6) | 3:01 |
 | 28 | [Yuppentent \(feat\. Ruben Annink\)](https://open.spotify.com/track/2dohF6KwQqz9oGPm0oXvaj) | [Danique](https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0), [Ruben Annink](https://open.spotify.com/artist/0qZWRrQj38rwkxeRQ3HowZ) | [Yuppentent \(feat\. Ruben Annink\)](https://open.spotify.com/album/51a4KaNOPyKDtEWfyjGUsE) | 2:50 |
 | 29 | [Nu Jij Hier Niet Meer Bent](https://open.spotify.com/track/2kDciEprIhpMKgJxsCMXpn) | [Kimberly Fransens](https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk) | [Nu Jij Hier Niet Meer Bent](https://open.spotify.com/album/0IEqWsZp8XYUW8eqHxdLe6) | 4:10 |
-| 30 | [Ik Zeg Niets](https://open.spotify.com/track/2gmXfe301S1Hpla35JYzBw) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Ik Zeg Niets](https://open.spotify.com/album/7drCcFtZkN6zxdXmehJHSM) | 3:07 |
-| 31 | [Echte Liefde](https://open.spotify.com/track/2TNoer9mGPTcEApGkgeov2) | [Maxim Froger](https://open.spotify.com/artist/1DBS9sxZ31hPIcJmdH16te) | [Echte Liefde](https://open.spotify.com/album/5X6HJfWLdfrVBOroYScrVD) | 2:35 |
+| 30 | [Echte Liefde](https://open.spotify.com/track/2TNoer9mGPTcEApGkgeov2) | [Maxim Froger](https://open.spotify.com/artist/1DBS9sxZ31hPIcJmdH16te) | [Echte Liefde](https://open.spotify.com/album/5X6HJfWLdfrVBOroYScrVD) | 2:35 |
+| 31 | [Ik Zeg Niets](https://open.spotify.com/track/2gmXfe301S1Hpla35JYzBw) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Ik Zeg Niets](https://open.spotify.com/album/7drCcFtZkN6zxdXmehJHSM) | 3:07 |
 | 32 | [Half Open](https://open.spotify.com/track/6eta0oe0t2clgw0CujrVI7) | [Jasmijn Torrico](https://open.spotify.com/artist/5SIrXx5lWESWersjGYRywZ) | [Half Open](https://open.spotify.com/album/2jpBFxyKm365TUV0z3XAEc) | 2:29 |
 | 33 | [Zuidas Jimmy](https://open.spotify.com/track/3YqsML7aILH28qx53cMJvQ) | [De Troubadours](https://open.spotify.com/artist/5l378viimrYiecbgbs1nVq) | [Zuidas Jimmy](https://open.spotify.com/album/2CeH2PT1LLHIbaa7BuTpE2) | 2:57 |
 | 34 | [Mes In M'n Rug](https://open.spotify.com/track/4GZd9XVEm3YxbTtll982i1) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2024 \(Aflevering 4\- SERA\)](https://open.spotify.com/album/0hrDw65YQjmEmM38cBHF1V) | 2:57 |

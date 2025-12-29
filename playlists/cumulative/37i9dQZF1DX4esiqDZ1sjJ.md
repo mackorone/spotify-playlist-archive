@@ -4,7 +4,7 @@
 
 > Release your inner jock with these badass jams.
 
-175 songs - 11 hr 24 min
+176 songs - 11 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [Remember the Name \(feat\. Styles of Beyond\)](https://open.spotify.com/track/6ndmKwWqMozN2tcZqzCX4K) | [Fort Minor](https://open.spotify.com/artist/7dWYWUbO68rXJOcyA7SpJk), [Styles Of Beyond](https://open.spotify.com/artist/5bf6yYgHODBW5EreBZshpX) | [The Rising Tied](https://open.spotify.com/album/5v4Vx9loqMQCS3J7OmP9pa) | 3:50 | 2022-01-05 | 2023-12-18 |
 | [Right Thurr](https://open.spotify.com/track/0l3GEbH3CviUytD6iX4wzg) | [Chingy](https://open.spotify.com/artist/3s2wTjWxK8NOX09dmsvVOh) | [Jackpot](https://open.spotify.com/album/0Hv5X7RRaM7F3hfAq0YmzB) | 4:10 | 2022-09-07 |  |
 | [Riot Maker](https://open.spotify.com/track/6SB0tAvQXaVMzBT6gAFog2) | [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos), [Snug Brim](https://open.spotify.com/artist/4qoda7nfDZu2VPP9MWPx2h), [Skatterman](https://open.spotify.com/artist/7j737JHxqSvr0ELJXhHgNq) | [The Box Set](https://open.spotify.com/album/2awFzXtI2kddQBCmpxkzi1) | 5:31 | 2016-06-15 | 2022-07-29 |
-| [Rock And Roll All Nite](https://open.spotify.com/track/6KTv0Z8BmVqM7DPxbGzpVC) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dressed To Kill](https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF) | 2:48 | 2021-12-21 |  |
+| [Rock And Roll All Nite](https://open.spotify.com/track/6KTv0Z8BmVqM7DPxbGzpVC) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dressed To Kill](https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF) | 2:48 | 2021-12-21 | 2025-12-29 |
 | [rockstar \(feat\. 21 Savage\)](https://open.spotify.com/track/0e7ipj03S05BNilyu5bRzt) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [beerbongs & bentleys](https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR) | 3:38 | 2021-12-21 | 2022-09-09 |
 | [Roxanne](https://open.spotify.com/track/3EYOJ48Et32uATr9ZmLnAo) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Outlandos D'Amour \(Remastered 2003\)](https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf) | 3:11 | 2022-01-05 | 2024-04-19 |
 | [Roxanne \- Remastered 2003](https://open.spotify.com/track/0SYRVn2YF7HBscQEmlkpTI) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Outlandos D'Amour](https://open.spotify.com/album/6EW7DSC8rjwBJIeAc1d7uQ) | 3:11 | 2021-12-21 | 2022-04-21 |
@@ -167,6 +167,7 @@
 | [Till I Collapse](https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [The Eminem Show](https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo) | 4:57 | 2016-06-15 |  |
 | [Tipsy \- Club Mix](https://open.spotify.com/track/0jSMveIWvnhDIvzqN74Uc7) | [J\-Kwon](https://open.spotify.com/artist/1Zz5UxfKSSqc6hpa3xJPCw) | [Hood Hop](https://open.spotify.com/album/4yTlfDLsW1dK2kG1qoNsrv) | 4:03 | 2024-03-22 |  |
 | [Tom Sawyer](https://open.spotify.com/track/3QZ7uX97s82HFYSmQUAN1D) | [Rush](https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq) | [Moving Pictures \(2011 Remaster\)](https://open.spotify.com/album/2xg7iIKoSqaDNpDbJnyCjY) | 4:36 | 2021-12-21 |  |
+| [Touch It](https://open.spotify.com/track/3HVJbdz0V402U5YggQK4Ao) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [The Big Bang](https://open.spotify.com/album/3lT0XTcteJfBbPNoPAmNRq) | 3:34 | 2024-07-15 |  |
 | [Trophies](https://open.spotify.com/track/4DXTwvIbilf8AUncEjgg9W) | [Young Money](https://open.spotify.com/artist/5OrB6Jhhrl9y2PK0pSV4VP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Rise Of An Empire](https://open.spotify.com/album/3FTlw7Neeg4UXOZexmBbGX) | 3:08 | 2021-12-21 | 2022-07-29 |
 | [Uprising](https://open.spotify.com/track/4VqPOruhp5EdPBeR92t6lQ) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Resistance](https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM) | 5:04 | 2021-12-21 |  |
 | [Vertigo](https://open.spotify.com/track/1gVVSmhWjci8l9Vrsl6HaS) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [How To Dismantle An Atomic Bomb](https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB) | 3:13 | 2021-12-21 | 2022-04-20 |

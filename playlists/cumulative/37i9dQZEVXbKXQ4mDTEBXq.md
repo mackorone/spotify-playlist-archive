@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Japan.
 
-705 songs - 1 day 19 hr 27 min
+706 songs - 1 day 19 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,8 +176,8 @@
 | [JUMP](https://open.spotify.com/track/4TbkhyiZjLS2srPUVez9Fm) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/5t3RN1l5dn414E49qTe6UC) | 2:44 | 2025-07-12 | 2025-09-22 |
 | [JUMP](https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [JUMP](https://open.spotify.com/album/3hzoZlx2KwtvJEUl9piPWr) | 2:44 | 2025-07-13 | 2025-09-29 |
 | [Kaiju](https://open.spotify.com/track/7sMRDjjwsB7wQEBOkdfg0i) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [Kaiju](https://open.spotify.com/album/1DiL7gwSuEhg2y0SvgQhlS) | 4:12 | 2025-02-20 |  |
-| [Kaiju no Hanauta](https://open.spotify.com/track/1pCcNaCodPssCc8Aq68gPS) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/6492Fh2wgnINBq0srX9phJ) | 3:44 | 2024-08-13 |  |
-| [Kaiju no Hanauta](https://open.spotify.com/track/3gQ19Wo6CbBpdHYmt2GVt0) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/4dKFBa0YCH4636ZtY4L2p7) | 3:44 | 2023-10-04 | 2025-12-26 |
+| [Kaiju no Hanauta](https://open.spotify.com/track/1pCcNaCodPssCc8Aq68gPS) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/6492Fh2wgnINBq0srX9phJ) | 3:44 | 2024-08-13 | 2025-12-29 |
+| [Kaiju no Hanauta](https://open.spotify.com/track/3gQ19Wo6CbBpdHYmt2GVt0) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/4dKFBa0YCH4636ZtY4L2p7) | 3:44 | 2023-10-04 |  |
 | [Kaikai Kitan](https://open.spotify.com/track/6y4GYuZszeXNOXuBFsJlos) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Kaikai Kitan / Ao No Waltz](https://open.spotify.com/album/6BZjN6j79mjz7PJfGmvCR1) | 3:41 | 2021-03-27\* | 2022-05-08 |
 | [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 | 2022-10-12 | 2023-09-17 |
 | [KICK BACK](https://open.spotify.com/track/7oYCBKvdjrqp5vDbhDBuac) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [LOST CORNER](https://open.spotify.com/album/2HfY1kPSmmYfR13OSKYH5T) | 3:14 | 2025-09-23 | 2025-11-21 |
@@ -307,7 +307,7 @@
 | [Same Blue](https://open.spotify.com/track/3tRgmNTaFYgtbt7XCy6Les) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Same Blue](https://open.spotify.com/album/7Mq690kTHBMnLHdi8WWlUF) | 3:57 | 2024-10-11 | 2025-03-02 |
 | [Sanitizer](https://open.spotify.com/track/4PW1UIxUZUPkeyXb5vHcBe) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Sanitizer](https://open.spotify.com/album/1fWluh1iIw7roMuGLPBlEY) | 5:04 | 2025-12-06 | 2025-12-14 |
 | [Sanitizer](https://open.spotify.com/track/4eCYeVfzGsS6jq8aX43yDr) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Sanitizer](https://open.spotify.com/album/0GjrgVnOjXqHxy7KtHQYnY) | 5:04 | 2025-12-08 | 2025-12-24 |
-| [Santa Tell Me](https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Santa Tell Me](https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97) | 3:24 | 2021-12-25 |  |
+| [Santa Tell Me](https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Santa Tell Me](https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97) | 3:24 | 2021-12-25 | 2025-12-29 |
 | [Save Yourself](https://open.spotify.com/track/1B04DTxiZUA5QW9Zxe1IEJ) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Save Yourself](https://open.spotify.com/album/00h2yL9yVQdjxPqC3n3Qqw) | 3:17 | 2022-06-25 | 2022-07-17 |
 | [Secret Garden](https://open.spotify.com/track/3GnJI7OWCMANWYzdnfvb2B) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Secret Garden](https://open.spotify.com/album/6oTo8KY02bgxBoTRaoQ6Pd) | 3:32 | 2025-08-26 | 2025-09-30 |
 | [Seven \(feat\. Latto\) \(Explicit Ver.\)](https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:03 | 2023-11-04 | 2025-01-28 |
@@ -420,6 +420,7 @@
 | [ただ君に晴れ](https://open.spotify.com/track/3wJHCry960drNlAUGrJLmz) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [負け犬にアンコールはいらない](https://open.spotify.com/album/4jEsFbcpgjHiu0rsTdlaOy) | 3:18 | 2021-03-27\* | 2025-05-28 |
 | [たぶん](https://open.spotify.com/track/398dL22bDbKbAmiOnPaq7o) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK](https://open.spotify.com/album/1xhO0GSoezdPJcSuNe1ySv) | 4:16 | 2021-03-27\* | 2021-08-19 |
 | [だから僕は音楽を辞めた](https://open.spotify.com/track/5j7ixaLeGTGSv4DzKs0pCM) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [だから僕は音楽を辞めた](https://open.spotify.com/album/4b9nOSXSf1LROzgfYFxdxI) | 4:02 | 2024-09-26 | 2024-10-03 |
+| [とくべチュ、して](https://open.spotify.com/track/2XS2jEncSJsetNZdVtlpeo) | [=LOVE](https://open.spotify.com/artist/1j2WhcTW00Zd2SjFYsJVc6) | [とくべチュ、して](https://open.spotify.com/album/24Dtqr6jj4RLFDtsKt5HiH) | 3:59 | 2025-12-28 |  |
 | [なんでもないよ、](https://open.spotify.com/track/2PFzK3kMDDYKhGnugvNYf1) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [なんでもないよ、](https://open.spotify.com/album/3N9QmFGY4WUAJCf7gyvC2S) | 3:38 | 2021-11-17 | 2022-01-14 |
 | [なんでもないよ、](https://open.spotify.com/track/5W7Y92LB4jWvu9NeEQ0GZl) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [ハッピーエンドへの期待は](https://open.spotify.com/album/2pJn8hcJhOliBQipPHKsaz) | 3:39 | 2022-01-13 | 2025-11-12 |
 | [ねっこ](https://open.spotify.com/track/4btYb7Tfjw5bQazC6bQXpl) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [ねっこ](https://open.spotify.com/album/4NA5TeCtuhkYhIZ75JGACR) | 3:59 | 2024-10-22 | 2025-02-08 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Col\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 86269,
+  "num_followers": 86294,
   "original_name": "This Is Willie Col\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU3QAAAAAACGWyMuvogyzK+yzzN+316o",
+  "snapshot_id": "aU8hgAAAAAAJTV+zZxFcYmqzdCVOejnw",
   "tracks": [
     {
       "added_at": null,
@@ -727,26 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crime Pays",
-        "url": "https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 338013,
-      "name": "Juana Pe\u00f1a",
-      "url": "https://open.spotify.com/track/4GBxHI71GOyv9umXPnbs0z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "49 Minutes",
         "url": "https://open.spotify.com/album/1T4b8OHo82V9mr8UdMTJ72"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 497640,
       "name": "Timbalero",
       "url": "https://open.spotify.com/track/52Bo07jYDz6FkKnOL07x3Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Crime Pays",
+        "url": "https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 338013,
+      "name": "Juana Pe\u00f1a",
+      "url": "https://open.spotify.com/track/4GBxHI71GOyv9umXPnbs0z"
     },
     {
       "added_at": null,
@@ -831,22 +831,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cosa Nuestra",
-        "url": "https://open.spotify.com/album/2ta1doHAXdTOtLLoc02fZf"
+        "name": "A Man And His Music: The Player",
+        "url": "https://open.spotify.com/album/2ZUUOq0b4wMipAz9TUSqGg"
       },
       "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        },
         {
           "name": "Willie Col\u00f3n",
           "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
         }
       ],
-      "duration_ms": 295480,
-      "name": "Te Conozco",
-      "url": "https://open.spotify.com/track/4QQSXJaG5mh3dGBHqXaft1"
+      "duration_ms": 354600,
+      "name": "Paname\u00f1a",
+      "url": "https://open.spotify.com/track/2v6JSAgQcMqr0hQwUsbGF8"
     },
     {
       "added_at": null,
@@ -871,18 +867,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Man And His Music: The Player",
-        "url": "https://open.spotify.com/album/2ZUUOq0b4wMipAz9TUSqGg"
+        "name": "Cosa Nuestra",
+        "url": "https://open.spotify.com/album/2ta1doHAXdTOtLLoc02fZf"
       },
       "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        },
         {
           "name": "Willie Col\u00f3n",
           "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
         }
       ],
-      "duration_ms": 354600,
-      "name": "Paname\u00f1a",
-      "url": "https://open.spotify.com/track/2v6JSAgQcMqr0hQwUsbGF8"
+      "duration_ms": 295480,
+      "name": "Te Conozco",
+      "url": "https://open.spotify.com/track/4QQSXJaG5mh3dGBHqXaft1"
     },
     {
       "added_at": null,

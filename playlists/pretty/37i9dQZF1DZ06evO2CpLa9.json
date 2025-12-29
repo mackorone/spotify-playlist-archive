@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU3QAAAAAACgz5dfku3z2N/UWwG4M7wh",
+  "snapshot_id": "aU8hgAAAAABmZFIHNGfmWTof3KP54VLb",
   "tracks": [
     {
       "added_at": null,
@@ -663,26 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Necesidad",
-        "url": "https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 292000,
-      "name": "Mi Decepci\u00f3n",
-      "url": "https://open.spotify.com/track/0n5T7FP05NC2ikWM8Bivkp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Liga Malandra 2",
         "url": "https://open.spotify.com/album/46phNOwy2WSnRWYvOBzjTZ"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 240000,
       "name": "Liga Malandra 2",
       "url": "https://open.spotify.com/track/0cthSQfXnR3JOCOg0CfX0B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Necesidad",
+        "url": "https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 292000,
+      "name": "Mi Decepci\u00f3n",
+      "url": "https://open.spotify.com/track/0n5T7FP05NC2ikWM8Bivkp"
     },
     {
       "added_at": null,
@@ -803,6 +803,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "TODO",
+        "url": "https://open.spotify.com/album/1ga2yneTMtHivfc7wDKl1W"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Algo m\u00e1s",
+      "url": "https://open.spotify.com/track/6FE1NAMYwkuNJDNPEZ8xez"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bendecidos",
         "url": "https://open.spotify.com/album/4UoVuTXXewpiz2fJWiosZH"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 527000,
       "name": "Bendecidos",
       "url": "https://open.spotify.com/track/2QEkingmea3KHdvw0dy9K3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TODO",
-        "url": "https://open.spotify.com/album/1ga2yneTMtHivfc7wDKl1W"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Algo m\u00e1s",
-      "url": "https://open.spotify.com/track/6FE1NAMYwkuNJDNPEZ8xez"
     },
     {
       "added_at": null,
@@ -1083,26 +1083,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "VIVIR PA' QUEDARSE",
-        "url": "https://open.spotify.com/album/7KyQI0HwUtbq5tmH6yMaHt"
-      },
-      "artists": [
-        {
-          "name": "JC Reyes",
-          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 180512,
-      "name": "ESC\u00c1PATE",
-      "url": "https://open.spotify.com/track/3GZOE8uZZXXdo0uK56NTSG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Y Si Nos Vamos",
         "url": "https://open.spotify.com/album/49XyV9pc6KkimnDrVzrgdI"
       },
@@ -1155,18 +1135,74 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Ser\u00e9 Qui\u00e9n Canta",
-        "url": "https://open.spotify.com/album/4JANnrrOzgDNKfpQeTjQ2v"
+        "name": "Si Preguntan por M\u00ed",
+        "url": "https://open.spotify.com/album/4POHA2ZskfSfw9s2zqRtKY"
       },
       "artists": [
         {
+          "name": "Rich Vagos",
+          "url": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Jay Romero",
+          "url": "https://open.spotify.com/artist/4VECwDIJ0DYczPqCyP85kQ"
+        },
+        {
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+        },
+        {
           "name": "Santa Fe Klan",
           "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
         }
       ],
-      "duration_ms": 250661,
-      "name": "No Ser\u00e9 Qui\u00e9n Canta",
-      "url": "https://open.spotify.com/track/2jw4qfV4ub019PiCre7ZvS"
+      "duration_ms": 228500,
+      "name": "Si Preguntan por M\u00ed",
+      "url": "https://open.spotify.com/track/4BHysBnR9QD9cSDlx0hC5s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Si Aqu\u00ed Estuvieras",
+        "url": "https://open.spotify.com/album/2BpP4gT2GjPzHNHwlZqlmU"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Jay Romero",
+          "url": "https://open.spotify.com/artist/4VECwDIJ0DYczPqCyP85kQ"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Lich Weezy",
+          "url": "https://open.spotify.com/artist/4XiMUcMQp7CjjUX0728Bqu"
+        }
+      ],
+      "duration_ms": 321000,
+      "name": "Si Aqu\u00ed Estuvieras",
+      "url": "https://open.spotify.com/track/2uH7BbKKG9bzVBuHdL5TB2"
     }
   ],
   "unique_name": "This Is Santa Fe Klan",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 
 > Lazy slow lofi beats for laid\-back moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 991,627 likes - 200 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 991,861 likes - 200 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 199 | [Aqua](https://open.spotify.com/track/7ArMWsBYI59MmStLmWAYHj) | [Hevi](https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb) | [Aqua](https://open.spotify.com/album/5prd1riQ0u3Cv0qjBLpbuu) | 1:41 |
 | 200 | [the clearing](https://open.spotify.com/track/3oY2RXnYoPhtf6r552KfbN) | [Zoe Reed](https://open.spotify.com/artist/4mZWwBPYRI8NSMUBAH8WFE) | [the clearing](https://open.spotify.com/album/4KtXivGbPCcyyzs8mb54CJ) | 2:28 |
 
-Snapshot ID: `AAAAAGAQUlSdFEcg2k+RiUO3yn75WGC4`
+Snapshot ID: `AAAAABoPO+DkcxOGo2vhuZXdrbpshRLd`

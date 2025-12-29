@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwsewzfZ9YU.md) - [plain]
 
 > the best in hardcore\. open the pit w/ Blood For Blood
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,049 likes - 100 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,088 likes - 100 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

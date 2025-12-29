@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07sewTBuMpX.md) - [plain]
 
 > De beste tunes op repeat\. Cover: Jonna Fraser & Lil Kleine
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,469 likes - 90 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,474 likes - 90 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07sewTBuMpX.md) - [plain]
 | 79 | [Stemgeluid](https://open.spotify.com/track/1HFFfvXM13DA5hYt6SjhZj) | [Vlins](https://open.spotify.com/artist/3qV1LDx1ZWWJVdnLuVXAB5), [Laura Yasmin](https://open.spotify.com/artist/2ifdw2Mu8P2fCey9VLhuu2) | [Stemgeluid](https://open.spotify.com/album/31q5PSjc9lvGbg6glT3dsk) | 2:55 |
 | 80 | [Deim Van Je](https://open.spotify.com/track/4xyLHd9CyBt3ky2BxtwDxL) | [Chivv](https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg), [Diquenza](https://open.spotify.com/artist/3DIhZ8xOvMa1KpXPV6BZXV), [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN), [Geechi](https://open.spotify.com/artist/30TCJAB49OXPfotwqvvB8W) | [Deim Van Je](https://open.spotify.com/album/4t4eaa2CdjvOj0E0ojRqZu) | 2:36 |
 | 81 | [Love = Scary](https://open.spotify.com/track/39gFgXRPPZjv8HebmbT6rW) | [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Love = Scary](https://open.spotify.com/album/34mLUrlEQ8vjRYyDAXT4A8) | 2:27 |
-| 82 | [Loro Piana](https://open.spotify.com/track/11sTBZXqq6nKIFHFRDBKnu) | [Glades](https://open.spotify.com/artist/2IrIxkfver7SZcOsFC0l6Q), [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El), [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx) | [Loro Piana](https://open.spotify.com/album/0egHLSkTArwzqumnOHzejS) | 3:08 |
-| 83 | [Wild West](https://open.spotify.com/track/2CYGxsaBYLQFV0AeesbsmP) | [Yssine](https://open.spotify.com/artist/70pnzZahqft8hk7I4vlTy1) | [Wild West](https://open.spotify.com/album/6O6dmpJvHCCXp06tK1MjSw) | 2:41 |
+| 82 | [Wild West](https://open.spotify.com/track/2CYGxsaBYLQFV0AeesbsmP) | [Yssine](https://open.spotify.com/artist/70pnzZahqft8hk7I4vlTy1) | [Wild West](https://open.spotify.com/album/6O6dmpJvHCCXp06tK1MjSw) | 2:41 |
+| 83 | [Loro Piana](https://open.spotify.com/track/11sTBZXqq6nKIFHFRDBKnu) | [Glades](https://open.spotify.com/artist/2IrIxkfver7SZcOsFC0l6Q), [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El), [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx) | [Loro Piana](https://open.spotify.com/album/0egHLSkTArwzqumnOHzejS) | 3:08 |
 | 84 | [Noncha](https://open.spotify.com/track/0eAi8M0qEFxa9EfCAuemKk) | [Dubbel R](https://open.spotify.com/artist/2k7e8KVpfI8vSlhhC2quhR), [Jinho 9](https://open.spotify.com/artist/3gPtUdMiLkJgmQIxFpEhAk), [GEM\-Z](https://open.spotify.com/artist/3P7ZxTeZ8t4ZfWNxQOyYfp) | [Noncha](https://open.spotify.com/album/24JYo2Oexp5FVyvSpFVWNQ) | 3:18 |
 | 85 | [180](https://open.spotify.com/track/3rKD53F1KpVjCg5MZQabq9) | [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm), [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx) | [180](https://open.spotify.com/album/3JziZ02K6CPyI83kKOQbHj) | 3:31 |
 | 86 | [Ik Kijk Soms Naar Jou](https://open.spotify.com/track/7jBqqJNT5aOCkuyvrd7scH) | [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [Ik Kijk Soms Naar Jou](https://open.spotify.com/album/3GjyYmdr4NyQStCXM3iyWx) | 3:02 |

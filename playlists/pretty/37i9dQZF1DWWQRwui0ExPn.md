@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 
 > chill beats, lofi vibes, new tracks every week...
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,463,319 likes - 200 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,463,264 likes - 200 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 | 34 | [in your eyes](https://open.spotify.com/track/3gkzMvcWmGcGormR0DwWnR) | [Slowday](https://open.spotify.com/artist/4twRiTv6fnJpXOReoe8bmz) | [in your eyes](https://open.spotify.com/album/3faUWU1jsN6V8KIzSusgt6) | 2:28 |
 | 35 | [The Quiet Kind](https://open.spotify.com/track/27MYjBobSHlWMaE0MslyAD) | [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX), [morningtime](https://open.spotify.com/artist/7xwOP2sBEig4hhduDiYwHS), [Fugee](https://open.spotify.com/artist/6xtxoTYp3AgomC2pfUKl8Q) | [The Quiet Kind](https://open.spotify.com/album/1qLXw57VMnPHOoeg7p2538) | 2:02 |
 | 36 | [come with me](https://open.spotify.com/track/79II8QZ08SaeS7QWfi7iSS) | [Theo Aabel](https://open.spotify.com/artist/6yxMxVw1MRLoB9EJWO5XVe), [marsquake](https://open.spotify.com/artist/7JHsA8iL2mnUsAteuzehsb) | [come with me](https://open.spotify.com/album/6PtFJBDw8ilr6VIUZpYrJG) | 2:40 |
-| 37 | [Every Step Holds Freedom](https://open.spotify.com/track/5aG94YFOXv9ThCM9VmNuYA) | [The Notorious CPU](https://open.spotify.com/artist/0oNKkdrAeLRQROSkaFCrym), [H.1](https://open.spotify.com/artist/3azKf6nXrUCI1RLZkX4Aj6), [The Yume Collective](https://open.spotify.com/artist/7Kdl3c6JU2v41pmXkG31Q7) | [Every Step Holds Freedom](https://open.spotify.com/album/667NU4HyG2Uyj0rTHWTzsp) | 2:27 |
+| 37 | [Every Step Holds Freedom](https://open.spotify.com/track/5aG94YFOXv9ThCM9VmNuYA) | [The Notorious CPU](https://open.spotify.com/artist/1UE4irzu5yP6iWTG49Dyqd), [H.1](https://open.spotify.com/artist/3azKf6nXrUCI1RLZkX4Aj6), [The Yume Collective](https://open.spotify.com/artist/7Kdl3c6JU2v41pmXkG31Q7) | [Every Step Holds Freedom](https://open.spotify.com/album/667NU4HyG2Uyj0rTHWTzsp) | 2:27 |
 | 38 | [Daydream](https://open.spotify.com/track/1CjvMJLfD32MguI84cPCIS) | [Hoogway](https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ), [amies](https://open.spotify.com/artist/2zNmlxTlRfyMAAifd2f71Q) | [Daydream](https://open.spotify.com/album/5kFg7jgJSfh77ZVrIvkFC8) | 2:55 |
 | 39 | [fleeting moments](https://open.spotify.com/track/23VG7LQdQUxsxF6YsyudeP) | [Lenny Loops](https://open.spotify.com/artist/6MvnyPinXRQbUCMsPoymhR), [iomoo](https://open.spotify.com/artist/1nCanHmL8zMpzm84QvyHuo) | [fleeting moments](https://open.spotify.com/album/6jShYCzXPZWpBO7IrIFv2S) | 2:32 |
 | 40 | [foam](https://open.spotify.com/track/11j0qQhHzDxOiItPenCc7e) | [new vibe](https://open.spotify.com/artist/4opkbCiRUcXTOudZGFZAeo) | [foam](https://open.spotify.com/album/3O7iHjbCvoe1Oc2kzjvTxE) | 2:18 |

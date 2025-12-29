@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-4,548 songs - 10 day 3 hr 15 min
+4,549 songs - 10 day 3 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -623,7 +623,8 @@
 | [BOLO \(feat\. YDG\)](https://open.spotify.com/track/77ILSQGJhqDVOfeWdtEexk) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY), [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi) | [Organic](https://open.spotify.com/album/56WOBbnm0qft9uNzGA4YWJ) | 2:51 | 2025-01-08 | 2025-01-22 |
 | [BON TON \(feat\. Lazza, Blanco, Sfera Ebbasta & Michelangelo\)](https://open.spotify.com/track/6tP2AFUZkz4PuUfssawUBn) | [Drillionaire](https://open.spotify.com/artist/0qts5zYDAeK8dBmrdF2Zwq), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Michelangelo](https://open.spotify.com/artist/1K7IC4qha4KEXySo6yZmnH) | [10](https://open.spotify.com/album/4buUBHrLMnqUFtwWCfq1pb) | 3:58 | 2023-07-18 | 2023-07-26 |
 | [Bonde do Brunao](https://open.spotify.com/track/4qq6hXPo7V884lU5Pa7JEe) | [Sviral.](https://open.spotify.com/artist/401CMJmFM4bqpbSzkCAeyE) | [Bonde do Brunao](https://open.spotify.com/album/0BF9ojBgGgYH3jg7cCvgEa) | 1:44 | 2025-01-01 | 2025-01-04 |
-| [BOO](https://open.spotify.com/track/6Km8JhmtqvNxQCUlX32PD9) | [H3adband](https://open.spotify.com/artist/3TvL95zdOZWkMbkvfJ8cCk) | [BOO](https://open.spotify.com/album/39lqXTGWSFVC9Qx0KEnKpD) | 2:18 | 2025-12-24 |  |
+| [BOO](https://open.spotify.com/track/5z3lA9udc15kVQ4S4OcTsa) | [H3adband](https://open.spotify.com/artist/3TvL95zdOZWkMbkvfJ8cCk) | [BOO](https://open.spotify.com/album/6eCKw4JH2vzTXGutRJ2Rhj) | 2:18 | 2025-12-28 |  |
+| [BOO](https://open.spotify.com/track/6Km8JhmtqvNxQCUlX32PD9) | [H3adband](https://open.spotify.com/artist/3TvL95zdOZWkMbkvfJ8cCk) | [BOO](https://open.spotify.com/album/39lqXTGWSFVC9Qx0KEnKpD) | 2:18 | 2025-12-24 | 2025-12-29 |
 | [BOO](https://open.spotify.com/track/00AyaBkTC57eh8mprdNtbs) | [H3adband](https://open.spotify.com/artist/3TvL95zdOZWkMbkvfJ8cCk) | [BOO](https://open.spotify.com/album/7CDgeHewrX5y3pkFtU3DHG) | 2:18 | 2025-12-16 | 2025-12-25 |
 | [Boogieman](https://open.spotify.com/track/7Mg5CBO37Rifk2RyDJ8fzd) | [EBK Jaaybo](https://open.spotify.com/artist/7iKgSlIINjat3bsCYiNMYX) | [Boogieman](https://open.spotify.com/album/75XYL9gBsRC8wWbmbtzQHh) | 2:11 | 2024-05-14 | 2024-05-22 |
 | [BOP BOP!](https://open.spotify.com/track/3FNuG1PjKcOu7tAqZKB4kZ) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 1st Mini Album 'Beam Of Prism'](https://open.spotify.com/album/1SO45pKRdNI74Rdx7Hynh2) | 3:39 | 2022-03-08 | 2022-03-16 |
@@ -2114,7 +2115,7 @@
 | [Küle Dönmüşsün](https://open.spotify.com/track/2CZzw0He9fzyi2FkBkn4Bk) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp), [Doğu Swag](https://open.spotify.com/artist/0uHvlWnhRpaomF4e9IZHLy) | [Küle Dönmüşsün](https://open.spotify.com/album/69XrCiTVTxzFDxvk6RorEG) | 2:22 | 2024-07-02 | 2024-07-08 |
 | [L](https://open.spotify.com/track/66SBpMfdxpe7B2UF0hq4DR) | [Hal](https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu) | [Perspektif](https://open.spotify.com/album/7KUfHZL0mIQunr64Tqy5mq) | 3:40 | 2022-07-23 | 2022-08-06 |
 | [L$d](https://open.spotify.com/track/6f7jHMkHBJ9HVat7wjfkOr) | [Luclover](https://open.spotify.com/artist/6ehZYiWgZXXxjTbziiKj60) | [Deaf 2 Society](https://open.spotify.com/album/3ETv6ySY65z1GlHde1TGby) | 1:43 | 2022-07-29 | 2022-08-24 |
-| [L'Amore Non Mi Basta](https://open.spotify.com/track/01PuEcSSxP84CO9yaXtsyp) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [Schiena](https://open.spotify.com/album/3Wn6SpnPf6JDvk3ED4AcuJ) | 3:31 | 2025-12-19 |  |
+| [L'Amore Non Mi Basta](https://open.spotify.com/track/01PuEcSSxP84CO9yaXtsyp) | [Emma](https://open.spotify.com/artist/0gzwXezN4IUHAwLufA6YcX) | [Schiena](https://open.spotify.com/album/3Wn6SpnPf6JDvk3ED4AcuJ) | 3:31 | 2025-12-19 | 2025-12-29 |
 | [L'appuntamento](https://open.spotify.com/track/5PnEkOUOFnk0wMI71JwddQ) | [Ornella Vanoni](https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv) | [Del Mio Meglio](https://open.spotify.com/album/6zP8t0J8Ue5YpWl4vAEEYm) | 4:34 | 2025-11-29 | 2025-12-01 |
 | [L'ULTIMA POESIA](https://open.spotify.com/track/0vjcqQVb6nhk1A4lvW6ytN) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [L'ULTIMA POESIA](https://open.spotify.com/album/5ikSXCKTvR5dkvbKLEfFTG) | 3:48 | 2024-04-09 | 2024-04-17 |
 | [La Bachata](https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Bachata](https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2) | 2:42 | 2022-07-15 | 2022-09-24 |
@@ -3254,7 +3255,7 @@
 | [Rah Tah Tah](https://open.spotify.com/track/5RePVWy39tLpHH0WwXgBsK) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 2:45 | 2024-11-12 | 2024-11-15 |
 | [Rahmatun Lil’Alameen](https://open.spotify.com/track/4gcQ4sBOIX8s510XrNZQUA) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz) | [Rahmatun Lil’Alameen](https://open.spotify.com/album/0XDt4wF7I0dpj6ii47DQoF) | 3:50 | 2023-03-28 | 2023-04-05 |
 | [Railin Oligal \- From "Blue Star"](https://open.spotify.com/track/5Y7Y315vZkOZbesJ22jXkK) | [Govind Vasantha](https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB), [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6), [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP) | [Railin Oligal \(From "Blue Star"\)](https://open.spotify.com/album/6SgtjBVtmhTI84jWMyQlFC) | 2:37 | 2023-10-03 | 2023-10-24 |
-| [Raindance \(feat\. Tems\)](https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:39 | 2025-11-11 | 2025-11-23 |
+| [Raindance \(feat\. Tems\)](https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:39 | 2025-11-11 |  |
 | [Rainfall](https://open.spotify.com/track/1M8t1j3Kv2qp97bdq5q4Vl) | [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ) | [Rainfall](https://open.spotify.com/album/4VanY5i4E59Mhz52qznJ95) | 2:46 | 2022-04-17 | 2022-05-11 |
 | [Raining In Manila](https://open.spotify.com/track/0mtkRIAOueeXqHpyahIbtJ) | [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI) | [Raining In Manila](https://open.spotify.com/album/3F0QPdZE5LgQuJgSpiWsvy) | 4:51 | 2023-07-11 | 2023-08-16 |
 | [Rainy Days](https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 2:59 | 2023-09-06 | 2023-09-20 |

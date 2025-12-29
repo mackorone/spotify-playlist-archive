@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Tayna, Ninho, Kiddo and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,608 likes - 70 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,602 likes - 70 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 69 | [With or Without Her](https://open.spotify.com/track/1uqpfYvgmiBbmEFeknLkxm) | [Conor Burns](https://open.spotify.com/artist/2ZoDOJ7d8rchLJwYU42x2J) | [With or Without Her](https://open.spotify.com/album/1MsL1dBi7QIaPbmN9md0wA) | 3:55 |
 | 70 | [WHERE U ARE](https://open.spotify.com/track/0aztQxrrQdiD57rkYPcksn) | [ARRIE](https://open.spotify.com/artist/37D1KGtq2dx0DEzDJZjJ6A) | [WHERE U ARE](https://open.spotify.com/album/0YiaExdPkAlxnNxNo4guDY) | 2:17 |
 
-Snapshot ID: `AAAAAJIlo+A8DsdPBlyDPB6PIm/7HkXM`
+Snapshot ID: `AAAAADxPZvPLIX+uH0XvshuFVJUr5War`

@@ -1,12 +1,12 @@
 {
   "description": "This is Intocable. The essential tracks, all in one playlist.",
-  "num_followers": 556623,
+  "num_followers": 556716,
   "original_name": "This Is Intocable",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU3QAAAAAABXeCIIKW3Fb9y3MKpp468T",
+  "snapshot_id": "aU8hgAAAAACD7Zwy3yV1DEEjz+By0mtd",
   "tracks": [
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crossroads: Cruce De Caminos",
-        "url": "https://open.spotify.com/album/7EFhuR6QqqpZdllkobOCGf"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 243346,
-      "name": "Por Ella (Poco A Poco)",
-      "url": "https://open.spotify.com/track/4WWITxzEgGZJcB1JyzPvbc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nuestro Destino Estaba Escrito",
         "url": "https://open.spotify.com/album/5XlC9twRLfKfmO0hMJAsmB"
       },
@@ -447,8 +431,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "XX Aniversario (En Vivo)",
-        "url": "https://open.spotify.com/album/6HWYb1m1FiMVQpvTRLi5Vr"
+        "name": "Crossroads: Cruce De Caminos",
+        "url": "https://open.spotify.com/album/7EFhuR6QqqpZdllkobOCGf"
       },
       "artists": [
         {
@@ -456,9 +440,9 @@
           "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
         }
       ],
-      "duration_ms": 183093,
-      "name": "Cajita De Cart\u00f3n - bonus track",
-      "url": "https://open.spotify.com/track/16qXGrutTAIaZqMTTwR8XR"
+      "duration_ms": 243346,
+      "name": "Por Ella (Poco A Poco)",
+      "url": "https://open.spotify.com/track/4WWITxzEgGZJcB1JyzPvbc"
     },
     {
       "added_at": null,
@@ -475,6 +459,22 @@
       "duration_ms": 182666,
       "name": "El Poder De Tus Manos",
       "url": "https://open.spotify.com/track/4ZhvLAPvtgJkk6RBBqJCUq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "XX Aniversario (En Vivo)",
+        "url": "https://open.spotify.com/album/6HWYb1m1FiMVQpvTRLi5Vr"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 183093,
+      "name": "Cajita De Cart\u00f3n - bonus track",
+      "url": "https://open.spotify.com/track/16qXGrutTAIaZqMTTwR8XR"
     },
     {
       "added_at": null,

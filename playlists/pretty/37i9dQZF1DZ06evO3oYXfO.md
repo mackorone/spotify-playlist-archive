@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oYXfO.md) - [plain]
 
 > This is Black Sabbath\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 494,347 likes - 50 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 494,409 likes - 50 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oYXfO.md) - [plain]
 | 49 | [Falling Off the Edge of the World](https://open.spotify.com/track/0DM1udZOnmevrATzQRg6ss) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Mob Rules](https://open.spotify.com/album/4VmdHqsa6hhQW7EEKlmFly) | 5:03 |
 | 50 | [Cornucopia \- 2009 Remaster](https://open.spotify.com/track/327Ec0FooWSZMtVd7zPng2) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Vol\. 4](https://open.spotify.com/album/61j7phQkxuKzcoFsi0XtkQ) | 3:51 |
 
-Snapshot ID: `aU3QAAAAAAB+gqAHt5Z8xQJY8JE8ecUt`
+Snapshot ID: `aU8hgAAAAABjXTFlEXoDgkWa//szyNlh`

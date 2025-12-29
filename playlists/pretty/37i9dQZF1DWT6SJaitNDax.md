@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6SJaitNDax.md) - [plain]
 
 > Afro sounds crossing borders\. Cover: Tems
 
-[Spotify](https://open.spotify.com/user/spotify) - 749,270 likes - 104 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 749,448 likes - 104 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6SJaitNDax.md) - [plain]
 | 103 | [Active](https://open.spotify.com/track/1qxKva4IzWde7m2jLpZvDU) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Lungu Boy](https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW) | 2:52 |
 | 104 | [Essence \(feat\. Tems\)](https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:09 |
 
-Snapshot ID: `AAAAAGr4eXe2e/W0JJqX98kRMvWgs9tc`
+Snapshot ID: `AAAAAMxBZK8wdjm6w3lL3WIMA47DKsqh`

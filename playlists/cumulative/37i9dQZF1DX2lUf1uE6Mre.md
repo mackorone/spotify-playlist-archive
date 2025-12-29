@@ -4,7 +4,7 @@
 
 > Die Playlist zur Wasserpfeife\. Cover: Amo, Aymen
 
-413 songs - 17 hr 30 min
+414 songs - 17 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [Drama](https://open.spotify.com/track/2Eoa4NYwOkVOc2fgOfuvb6) | [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp) | [Drama](https://open.spotify.com/album/1cOvy0q3RBQyHV0BGPZhE5) | 2:50 | 2025-10-23 |  |
 | [DRECKIGE DOLLARS](https://open.spotify.com/track/6GIj6hLaBpqOoMQ3F1v17x) | [Kurdo](https://open.spotify.com/artist/1yIifIA91WgmfzBcjbQB8i), [Zuna](https://open.spotify.com/artist/2otUckChxWf2cp6UP2cD6e) | [LAYLA WA LAYLA](https://open.spotify.com/album/7jB1urmBEU0thqfFiPzH0H) | 2:30 | 2025-11-20 |  |
 | [drop body](https://open.spotify.com/track/3rVlMJrODgRKxoELRjgh4i) | [Erda](https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7), [MENJU](https://open.spotify.com/artist/0LEXmZvtgBqS9MZgqpLU6f) | [drop body](https://open.spotify.com/album/699ao1hhKCVsnfnzlJKUmV) | 2:20 | 2025-09-18 |  |
-| [DRÜCK](https://open.spotify.com/track/1uuoGSlD4EZaarIEekY9bF) | [Eno](https://open.spotify.com/artist/3GBBxBdoolb0B5YizZq9bF) | [DRÜCK](https://open.spotify.com/album/31BNLxCRX0yXo90fgSgWa4) | 2:14 | 2025-07-17 |  |
+| [DRÜCK](https://open.spotify.com/track/1uuoGSlD4EZaarIEekY9bF) | [Eno](https://open.spotify.com/artist/3GBBxBdoolb0B5YizZq9bF) | [DRÜCK](https://open.spotify.com/album/31BNLxCRX0yXo90fgSgWa4) | 2:14 | 2025-07-17 | 2025-12-29 |
 | [Dschungelbuch](https://open.spotify.com/track/31hngzxYLPCNJEUaYvHVQb) | [SHABAB](https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO) | [Dschungelbuch](https://open.spotify.com/album/2btc4wUHco7gn7bTIMyfCN) | 3:04 | 2025-04-10 | 2025-10-24 |
 | [DU FEHLST](https://open.spotify.com/track/4Vna11o1Sw268jgcsXLace) | [Kurdo](https://open.spotify.com/artist/1yIifIA91WgmfzBcjbQB8i), [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN) | [DU FEHLST](https://open.spotify.com/album/2YqbtzJH5XlaYVkDv9r4Yi) | 2:43 | 2025-11-14 |  |
 | [Dunya](https://open.spotify.com/track/4eIdT2bW2gaTDdJnMgt7Ue) | [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh) | [Dunya](https://open.spotify.com/album/2w6QNteaT1zNP0BgCNZ7ji) | 2:47 | 2025-03-24 | 2025-05-28 |
@@ -295,6 +295,7 @@
 | [Pech & Schwefel](https://open.spotify.com/track/6yKRxSyDyKXcYA9DGkG5Aq) | [Aymo](https://open.spotify.com/artist/4dFsxc7SFDOmkzNLKILGUq), [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N), [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh) | [Pech & Schwefel](https://open.spotify.com/album/4lv03w3mhu2o1NOZX24z9R) | 3:07 | 2025-10-02 |  |
 | [Phantom](https://open.spotify.com/track/5rn9vfJYZasysVpGfg1uhb) | [DANO](https://open.spotify.com/artist/0Yu9Wl3q10ZvjBaRN82LIr) | [Phantom](https://open.spotify.com/album/50fYMShGrQyKJ4DUwDth9v) | 2:33 | 2025-11-27 |  |
 | [Pistoleta](https://open.spotify.com/track/7ciTcePUxWjBbaouXk7Bvf) | [Olexesh](https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl), [Ataypapi](https://open.spotify.com/artist/6vRKWcwC6OphUNy3Ds5O0U), [ilo 7araga](https://open.spotify.com/artist/6yljBnmcExcQrkUMJOhgga), [CHEKAA](https://open.spotify.com/artist/61vhXXSO0lkbxFvnXHx8QP) | [Pistoleta](https://open.spotify.com/album/2vMOUzUPeNqSZl3P0Ib3fU) | 2:13 | 2024-06-28 | 2025-11-07 |
+| [Planet Vegeta](https://open.spotify.com/track/5yc8bnBQ4c8uNBNVkYQFJb) | [Ché Salah](https://open.spotify.com/artist/6WOkXoxrbPnZXLHVcNqJCT), [Orco](https://open.spotify.com/artist/0fu2mSZ27dPE5OElHvgQP7) | [Planet Vegeta](https://open.spotify.com/album/5tjI8eVQxXXCu3mUng3pcO) | 2:21 | 2025-12-19 |  |
 | [PLAYBOYBUNNIES](https://open.spotify.com/track/77p59nG1oU5pzd20rPxBwC) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Miksu / Macloud](https://open.spotify.com/artist/76dRoxKtDwYkgCQePok9cU) | [PLAYBOYBUNNIES](https://open.spotify.com/album/4lDrSQvca6n6iTHqY60Px3) | 2:27 | 2024-10-10 | 2025-08-08 |
 | [Plug](https://open.spotify.com/track/5XlJP2J81wF20QariDKRJW) | [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N) | [Plug](https://open.spotify.com/album/62eD2OVzhG6S8jZtHR4D2z) | 2:32 | 2025-04-10 | 2025-07-29 |
 | [Plug](https://open.spotify.com/track/1apdrrO6QhgdZ5IFPsrXwl) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw), [Morpheuz](https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf) | [Plug](https://open.spotify.com/album/1T5ftJvgOHmUnaXw5GLwoK) | 2:55 | 2025-11-20 |  |

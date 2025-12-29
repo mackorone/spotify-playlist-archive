@@ -1,6 +1,6 @@
 {
   "description": "Sabrina Carpenter. Period.",
-  "num_followers": 4201285,
+  "num_followers": 4201318,
   "original_name": "Confidence Boost",
   "owner": {
     "name": "Spotify",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 190360,
-      "name": "The Man",
-      "url": "https://open.spotify.com/track/3RauEVgRgj1IuWdJ9fDs70"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Zootopia (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3X6netsswLt0U97Doga56C"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 196853,
       "name": "Try Everything",
       "url": "https://open.spotify.com/track/1N3dZ7TTWO6VcD4Y3hHYLZ"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 190360,
+      "name": "The Man",
+      "url": "https://open.spotify.com/track/3RauEVgRgj1IuWdJ9fDs70"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/0mFDIOqypzHp6Xd0el1hoT"
-      },
-      "artists": [
-        {
-          "name": "Rachel Platten",
-          "url": "https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq"
-        }
-      ],
-      "duration_ms": 204013,
-      "name": "Fight Song",
-      "url": "https://open.spotify.com/track/37f4ITSlgPX81ad2EvmVQr"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "Love. Angel. Music. Baby.",
         "url": "https://open.spotify.com/album/34y7m68F7rN9ou6m5GWohR"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 236213,
       "name": "Rich Girl",
       "url": "https://open.spotify.com/track/2oxtQ84p1j5GmyzmD50Lq0"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/0mFDIOqypzHp6Xd0el1hoT"
+      },
+      "artists": [
+        {
+          "name": "Rachel Platten",
+          "url": "https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq"
+        }
+      ],
+      "duration_ms": 204013,
+      "name": "Fight Song",
+      "url": "https://open.spotify.com/track/37f4ITSlgPX81ad2EvmVQr"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
-        "name": "Cheers to the Fall",
-        "url": "https://open.spotify.com/album/6Blubl1glavmervPJa3QVs"
-      },
-      "artists": [
-        {
-          "name": "Andra Day",
-          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
-        }
-      ],
-      "duration_ms": 253342,
-      "name": "Rise Up",
-      "url": "https://open.spotify.com/track/0tV8pOpiNsKqUys0ilUcXz"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
         "name": "yes, and?",
         "url": "https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 214994,
       "name": "yes, and?",
       "url": "https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG"
+    },
+    {
+      "added_at": "2024-08-23 04:00:00",
+      "album": {
+        "name": "Cheers to the Fall",
+        "url": "https://open.spotify.com/album/6Blubl1glavmervPJa3QVs"
+      },
+      "artists": [
+        {
+          "name": "Andra Day",
+          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
+        }
+      ],
+      "duration_ms": 253342,
+      "name": "Rise Up",
+      "url": "https://open.spotify.com/track/0tV8pOpiNsKqUys0ilUcXz"
     },
     {
       "added_at": "2025-02-21 05:00:18",

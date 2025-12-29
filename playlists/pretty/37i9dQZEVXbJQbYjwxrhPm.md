@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,355 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,357 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 22 | [Без коз](https://open.spotify.com/track/2mFSFpS0LqeTMfuD6X8KVo) | [Kiara](https://open.spotify.com/artist/3J4l3yj3cNs6TifveDvk9Z), [Andrea](https://open.spotify.com/artist/3Q71N3lHz2pijhljCNqOqw) | [Без коз](https://open.spotify.com/album/7HRRf2utcUo5GsxQRnP4aI) | 3:04 |
 | 23 | [КУ\-КУ](https://open.spotify.com/track/5DhNN329T0nLSSE1mkjGmW) | [Djordan](https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls) | [КУ\-КУ](https://open.spotify.com/album/5tJ4cUWEqiErYLpsr0hgAC) | 3:19 |
 | 24 | [Тази дискотека](https://open.spotify.com/track/4ZMpVZ52QE7EMJ35F5ReN2) | [Galin](https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai), [Azis](https://open.spotify.com/artist/1vAwQYTE1k5MBhNsvqphp1) | [Тази дискотека](https://open.spotify.com/album/4BKWSEifxxparI4dOCRrcq) | 3:33 |
-| 25 | [Underneath the Tree](https://open.spotify.com/track/3YZE5qDV7u1ZD1gZc47ZeR) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Wrapped In Red](https://open.spotify.com/album/7Jahqd1kx9Qau0E9x9iZj6) | 3:49 |
+| 25 | [Underneath the Tree](https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Wrapped In Red](https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ) | 3:49 |
 | 26 | [Holly Jolly Christmas](https://open.spotify.com/track/6tjituizSxwSmBB5vtgHZE) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas](https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un) | 1:59 |
 | 27 | [Danoto kopay](https://open.spotify.com/track/3Z0bGsiJF9ErQF1iMHsa1G) | [Emanuela](https://open.spotify.com/artist/1lxHE7dVKOVaIjGOIu8svG), [Tedi Aleksandrova](https://open.spotify.com/artist/3CcA9m1Ivpp5XmLt8SxUpn) | [Danoto kopay](https://open.spotify.com/album/4BGy2DxZmw8dLyu1OYEeyT) | 4:08 |
 | 28 | [Маниак](https://open.spotify.com/track/4kbhl4YnKVwN0ElFNm3TdW) | [Djordan](https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls) | [Маниак](https://open.spotify.com/album/6o8NqpmemMBy0tqLnyZZQ3) | 3:44 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 32 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [The Andy Williams Christmas Album](https://open.spotify.com/album/30eO7X0doSEWKhDLAFLMuW) | 2:31 |
 | 33 | [Hasta La Vista Baby](https://open.spotify.com/track/3vhDg4065joVp9xyBUPo4o) | [Tedi Aleksandrova](https://open.spotify.com/artist/3CcA9m1Ivpp5XmLt8SxUpn), [Silver](https://open.spotify.com/artist/6JzjHqstcEDuJs6Hlqe0M5) | [Hasta La Vista Baby](https://open.spotify.com/album/6hoAUKIABNpNi6M3IeyNgU) | 3:22 |
 | 34 | [300](https://open.spotify.com/track/1okw6YoXeaI78BQDt7TckF) | [Dimoff](https://open.spotify.com/artist/0lWhRqKSRYsM6QpHaFuZXP) | [300](https://open.spotify.com/album/5XfkqyxVFbVaGuJKuLgObv) | 2:04 |
-| 35 | [It's Beginning to Look a Lot like Christmas](https://open.spotify.com/track/0lLdorYw7lVrJydTINhWdI) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas](https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un) | 3:26 |
+| 35 | [It's Beginning to Look a Lot like Christmas](https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K) | 3:27 |
 | 36 | [Правена в България](https://open.spotify.com/track/2BPBJe9D4sSYmidE1OX6FO) | [Djordan](https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls) | [Правена в България](https://open.spotify.com/album/2JAJHyFPLlM2DyxuvQ6FDk) | 3:00 |
 | 37 | [Все по живота](https://open.spotify.com/track/0S708VDmTF0V7y6HIfPVNq) | [Galena](https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355), [Tsvetelina Yaneva](https://open.spotify.com/artist/4AZihrM3P96d5mA9kvsxxH) | [Все по живота](https://open.spotify.com/album/7hw30PUDaQpOD6ZTSTt6c8) | 3:10 |
 | 38 | [Ще ме търсиш](https://open.spotify.com/track/4DxdsSAzo1IVE2PRg0WsG8) | [Medi](https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq) | [Ще ме търсиш](https://open.spotify.com/album/07jRWauI3LME1RONMB6kLI) | 3:10 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 45 | [Sleigh Ride](https://open.spotify.com/track/7fUYUcWy853HS8YJn0b3Sr) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [Sleigh Ride](https://open.spotify.com/album/3aYOF3HVkIr1IzhePfQS7s) | 3:01 |
 | 46 | [Любов за психолог](https://open.spotify.com/track/78fpG4dsdHW6O1WcTGoRuk) | [Dessita](https://open.spotify.com/artist/1WOWylyMYTYIkDJmKLeSpQ), [Ilian Boyd](https://open.spotify.com/artist/1LLZb3EzxafwHumGvgwy5u) | [Любов за психолог](https://open.spotify.com/album/4mHf2MxcNPOYOowj7oCRtK) | 3:03 |
 | 47 | [S men da varvish](https://open.spotify.com/track/1P0Fu36ZP4Hg6zPvtwpyKt) | [Djena](https://open.spotify.com/artist/07aV940tBFh4TthmbcjR3g), [Galin](https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai) | [Da ti bada korona](https://open.spotify.com/album/4Y6emNYvaVKOwU5AFL40nM) | 4:12 |
-| 48 | [Feliz Navidad](https://open.spotify.com/track/0oPdaY4dXtc3ZsaG17V972) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [Feliz Navidad](https://open.spotify.com/album/3No96PtEFyRfX1oELmZTPu) | 3:01 |
+| 48 | [Feliz Navidad](https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [My Name Is José Feliciano](https://open.spotify.com/album/6leYmQzvQjlUtmpNIL9XYQ) | 3:02 |
 | 49 | [За награда](https://open.spotify.com/track/5W0xf9BdxvxpLNbj6M8k5W) | [Galena](https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355), [Preslava](https://open.spotify.com/artist/2Dj0euYPa8eiI6Ee5VLBwg) | [За награда](https://open.spotify.com/album/1FMtuvnjI9MYqnGtQsL0lN) | 3:58 |
 | 50 | [Грешници](https://open.spotify.com/track/6W2jsJG6MPPJ6xTWcNEeHr) | [Lidia](https://open.spotify.com/artist/4FTXvsvz433gZR67rhxFfN), [Konstantin](https://open.spotify.com/artist/4v8n02xVhZK4CmdUAuipHn) | [Грешници](https://open.spotify.com/album/5dcFrXa9bC6CKElQiQo777) | 4:08 |
 
-Snapshot ID: `MONSqAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MOSkKAAAAAAAAAAAAAAAAAAAAAAAAGVu`

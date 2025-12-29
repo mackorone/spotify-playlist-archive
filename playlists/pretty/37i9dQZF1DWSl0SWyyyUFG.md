@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSl0SWyyyUFG.md) - [plain]
 
 > Recordando a los ídolos de la música de banda\. Julio Preciado en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 403,975 likes - 150 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,145 likes - 150 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,11 +12,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSl0SWyyyUFG.md) - [plain]
 | 2 | [El Indio Enamorado](https://open.spotify.com/track/77Yhcsal6ceWoLqYbDCeaZ) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [El Indio Enamorado](https://open.spotify.com/album/4JwwVngWxV6EDq7lC3wUBt) | 3:08 |
 | 3 | [Mil Cartas](https://open.spotify.com/track/43X0I9YHv8Nxkq5fJ1CD1K) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Al Ataque](https://open.spotify.com/album/3CEKMRCbGdxOnCohDapTcv) | 3:21 |
 | 4 | [Seis Pies Abajo](https://open.spotify.com/track/6oiKbZIaQ8A0Rnsq9jMJ1E) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [De Mexico para el Mundo](https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ) | 2:56 |
-| 5 | [Una Aventura](https://open.spotify.com/track/3EpoG9wonOCsp9ImNkz8cw) | [Banda La Costeña](https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7) | [Una Aventura](https://open.spotify.com/album/6XTRRRYyMfJZHqOcy3Hanu) | 3:35 |
+| 5 | [Un Puño De Tierra](https://open.spotify.com/track/6a5GOVslUy8aYnXrk2yiMb) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar Con Tambora, Vol\. 2](https://open.spotify.com/album/69YwhTINpm6QzCUz6ZwZUd) | 3:08 |
 | 6 | [La Otra Cara De La Moneda](https://open.spotify.com/track/6hwTRoFaQzmkbvh4tOoVpV) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [La Otra Cara De La Moneda](https://open.spotify.com/album/7vbP6s1SYmqvGxa1wiccAC) | 4:05 |
 | 7 | [Música Romántica](https://open.spotify.com/track/6ikzzpUSP2DAb10ThgzRIa) | [Jorge Luis Cabrera con Banda Tierra Blanca](https://open.spotify.com/artist/3z5x6g8Vdhann3CHdeLZLr) | [Música Romántica](https://open.spotify.com/album/67rnAlCx3BKN52eyACQKmD) | 3:52 |
 | 8 | [En La Barra](https://open.spotify.com/track/1SHmwHA6wc5IBECjCoFn8C) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [Para Vivir Contigo](https://open.spotify.com/album/2a9iYk1aBjr7hExMNr2ZDe) | 2:35 |
-| 9 | [Un Puño De Tierra](https://open.spotify.com/track/6a5GOVslUy8aYnXrk2yiMb) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar Con Tambora, Vol\. 2](https://open.spotify.com/album/69YwhTINpm6QzCUz6ZwZUd) | 3:08 |
+| 9 | [Una Aventura](https://open.spotify.com/track/3EpoG9wonOCsp9ImNkz8cw) | [Banda La Costeña](https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7) | [Una Aventura](https://open.spotify.com/album/6XTRRRYyMfJZHqOcy3Hanu) | 3:35 |
 | 10 | [Te Vas Amor](https://open.spotify.com/track/7fcVZh28nkdUNWbFLroxWK) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [La Historia](https://open.spotify.com/album/4Txi7EuXuO1w8AnxRi6eZU) | 2:23 |
 | 11 | [Tu Historia Fue Conmigo](https://open.spotify.com/track/3E3HYSdWWnQ2b964rTHKJg) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Todo Depende De Ti](https://open.spotify.com/album/2pPGfPv8AKkeFyTtgHTOUr) | 3:17 |
 | 12 | [Anda Borracho El Buey](https://open.spotify.com/track/4fCBHIPstTkPivVYoPMZ5d) | [Banda Guadalajara Express](https://open.spotify.com/artist/3OVWawJdrDHvvuFuOfwOcN) | [California Adiós](https://open.spotify.com/album/3UePWSFrp52fyNLW0jVVfl) | 2:46 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSl0SWyyyUFG.md) - [plain]
 | 45 | [Un indio quiere llorar](https://open.spotify.com/track/4cnm9F3YGOW6ydiyo3LdrW) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [16 Reales hits](https://open.spotify.com/album/5ZnGp62Dx8qN5TascIvItr) | 2:49 |
 | 46 | [Caliente Caliente](https://open.spotify.com/track/3wERA0j49lmCJkguFtHWUJ) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Caliente, Caliente](https://open.spotify.com/album/6tTgXH5EBY6FFV37ATLoUR) | 3:14 |
 | 47 | [Aventurero Y Loco](https://open.spotify.com/track/5lF5XniaT9e3EJMnDmSUsA) | [Banda La Pirinola](https://open.spotify.com/artist/5PTt3pmQAnQwYOBVEAFU0Y) | [Banda La Pirinola](https://open.spotify.com/album/2B1eN4sLg3mjruRkO0X5G5) | 3:27 |
-| 48 | [Cuando Nadie Te Quiera](https://open.spotify.com/track/6oRP3CKIpSqVsJKYrxiYHp) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Banda Sinaloense los Recoditos](https://open.spotify.com/album/5HXSJxEDbdOBjaRcHZm4wy) | 2:30 |
-| 49 | [Qué Puedo Hacer por Ti](https://open.spotify.com/track/0QqFvqQ9Lujnc7QaYBEw09) | [Julio Preciado Y Su Banda Perla Del Pacifico](https://open.spotify.com/artist/1skKkfQtM2dprTwRld9p3p) | [16 Bandazos de Oro](https://open.spotify.com/album/3vvyIFJn2hM6I2L5A2WdWg) | 3:27 |
+| 48 | [Qué Puedo Hacer por Ti](https://open.spotify.com/track/0QqFvqQ9Lujnc7QaYBEw09) | [Julio Preciado Y Su Banda Perla Del Pacifico](https://open.spotify.com/artist/1skKkfQtM2dprTwRld9p3p) | [16 Bandazos de Oro](https://open.spotify.com/album/3vvyIFJn2hM6I2L5A2WdWg) | 3:27 |
+| 49 | [Cuando Nadie Te Quiera](https://open.spotify.com/track/6oRP3CKIpSqVsJKYrxiYHp) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Banda Sinaloense los Recoditos](https://open.spotify.com/album/5HXSJxEDbdOBjaRcHZm4wy) | 2:30 |
 | 50 | [Batelo Morena](https://open.spotify.com/track/0AI7onDE7WBxDRjuFLX6iQ) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Banda Cuisillos](https://open.spotify.com/album/38q7dgG8vDm5FGaC1HC6Ww) | 3:02 |
 | 51 | [Arreando La Mula](https://open.spotify.com/track/7qX0Ca5ShfAMDjSogZ2Bxu) | [Banda R\-15](https://open.spotify.com/artist/5l0ZjUz8rAAFVm616in8YR) | [15 Grandes Exitos](https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC) | 3:03 |
 | 52 | [A Gozar](https://open.spotify.com/track/6PVeZNxyYK1ta2qmbJJRaT) | [Banda Torera Del Valle](https://open.spotify.com/artist/7hiqN2yRNPbpMIZ2giCZX5) | [Nos Pertenecemos](https://open.spotify.com/album/2yOe1iSolv9Fe9ZhlvJsF4) | 4:36 |

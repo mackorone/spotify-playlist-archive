@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: LVCAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 483,534 likes - 75 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 483,507 likes - 75 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 74 | [Seja Quem Você Quiser](https://open.spotify.com/track/1uMkN9lKqPE2HymaAM0IVm) | [O Grilo](https://open.spotify.com/artist/22KEpOwThQ5q1DGochfayO) | [Seja Quem Você Quiser](https://open.spotify.com/album/0TFiaL4ItKp7ELM5Jo7GAT) | 3:57 |
 | 75 | [O Verso](https://open.spotify.com/track/1mSQL3MqWKAMLioKgzlt4T) | [Paulo Ricardo](https://open.spotify.com/artist/07V0GWuWYmgheREejBORmk) | [O Verso](https://open.spotify.com/album/22y2h1DtG2jmYXD9LFQI2C) | 3:30 |
 
-Snapshot ID: `AAAAAPNWEw5UAOeZUzFIAA9r7lEf28Wz`
+Snapshot ID: `AAAAAFkUoaJ5K6KU4Bet4usJRmcK9qXr`

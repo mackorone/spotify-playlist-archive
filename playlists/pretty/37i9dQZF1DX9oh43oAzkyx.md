@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oh43oAzkyx.md) - [plain]
 
 > Energy tracks to get your beast mode on.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,829,091 likes - 76 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,829,265 likes - 76 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oh43oAzkyx.md) - [plain]
 | 36 | [family ties \(with Kendrick Lamar\)](https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [family ties \(with Kendrick Lamar\)](https://open.spotify.com/album/3HqmX8hGcbbQZODgayNEYx) | 4:12 |
 | 37 | [Ramen & OJ](https://open.spotify.com/track/4TIqzdAssasqx3DAe6cG9J) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Ramen & OJ](https://open.spotify.com/album/48ahZJLcagb8VTgRAuv6WQ) | 3:38 |
 | 38 | [Up](https://open.spotify.com/track/1XXimziG1uhM0eDNCZCrUl) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Up](https://open.spotify.com/album/5BNrcvfbLyADks4RXPW7VP) | 2:36 |
-| 39 | [UK Rap](https://open.spotify.com/track/2VjOTvl50tscmc0RDjPdr2) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Split Decision](https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog) | 3:18 |
-| 40 | [Run It Up](https://open.spotify.com/track/3sZQ8L4aptFDJXBqdVdvO8) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp) | [Run It Up](https://open.spotify.com/album/444Yv0TGl5HeJA0Dg4YdFz) | 2:53 |
+| 39 | [Run It Up](https://open.spotify.com/track/3sZQ8L4aptFDJXBqdVdvO8) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp) | [Run It Up](https://open.spotify.com/album/444Yv0TGl5HeJA0Dg4YdFz) | 2:53 |
+| 40 | [UK Rap](https://open.spotify.com/track/2VjOTvl50tscmc0RDjPdr2) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Split Decision](https://open.spotify.com/album/0On7uutIu9rZRvP9aJbMog) | 3:18 |
 | 41 | [Not Finished](https://open.spotify.com/track/2A0G0bPmlkUXUbvWqrAXzg) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:43 |
 | 42 | [Dua Lipa](https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:15 |
 | 43 | [Magnet](https://open.spotify.com/track/7dHblXsJTRemgyIvFNJE7t) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [AM I THE DRAMA?](https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ) | 2:58 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9oh43oAzkyx.md) - [plain]
 | 63 | [Big League](https://open.spotify.com/track/0zhocF7DYymbHSdwdOCyMq) | [Grafh](https://open.spotify.com/artist/4rKPpij2gIDKsZsfjCfk1U), [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [Big League](https://open.spotify.com/album/48CmbANm0zAaBpD4wjd6m0) | 3:09 |
 | 64 | [In & Out](https://open.spotify.com/track/3Z5wZZvyvfaAKyUO7KYd7Q) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [In & Out](https://open.spotify.com/album/0ifJzok52AVKVixKEw4lDI) | 1:52 |
 | 65 | [F\*ckwithmeyouknowigotit](https://open.spotify.com/track/3PBC860LAeS4utDAqlqIe2) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Magna Carta..\. Holy Grail](https://open.spotify.com/album/0OTjYdGtP7AbwOwbYsGhyi) | 4:03 |
-| 66 | [Stutter](https://open.spotify.com/track/2D4EMFpcXjfQfjxNM5RP96) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Stutter](https://open.spotify.com/album/2nJr8dGQ9LAJ8GJ7LkkCs8) | 2:49 |
-| 67 | [Mad Max](https://open.spotify.com/track/2i2qDe3dnTl6maUE31FO7c) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Lil Durk Presents: Loyal Bros 2](https://open.spotify.com/album/4lXLULUDQvqV1yHtLW5fyL) | 2:33 |
+| 66 | [Mad Max](https://open.spotify.com/track/2i2qDe3dnTl6maUE31FO7c) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Lil Durk Presents: Loyal Bros 2](https://open.spotify.com/album/4lXLULUDQvqV1yHtLW5fyL) | 2:33 |
+| 67 | [Stutter](https://open.spotify.com/track/2D4EMFpcXjfQfjxNM5RP96) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Stutter](https://open.spotify.com/album/2nJr8dGQ9LAJ8GJ7LkkCs8) | 2:49 |
 | 68 | [FTCU \(feat\. Travis Scott, Chris Brown & Sexyy Red\) \- SLEEZEMIX](https://open.spotify.com/track/2oTFuT1tKLHlTJsnBSJJiN) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [FTCU \(SLEEZEMIX\)](https://open.spotify.com/album/71bR0ikZ38YGg6RDwhYiU2) | 3:59 |
 | 69 | [Waiting On This](https://open.spotify.com/track/5VlI5lLyZWdaS6kIn1CyJs) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [Not Now I'm Busy](https://open.spotify.com/album/3nk0Fqc9VCCNbfMJcF8pM2) | 3:28 |
 | 70 | [BROAD DAY \(feat\. Future\)](https://open.spotify.com/track/6Qc90FMwNUjJ2M893RdYUg) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [SET IT OFF](https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E) | 2:48 |

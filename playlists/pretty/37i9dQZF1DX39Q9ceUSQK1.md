@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 
 > Nieuwe alternative & rock releases\. Cover: Thomas Raggi
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,141 likes - 90 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,140 likes - 90 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 | 89 | [Dog](https://open.spotify.com/track/3VHI9MP58SXN2NIJSGqCzR) | [Robin Kester](https://open.spotify.com/artist/43FIX6vzpqRHK1VXQmRlKE) | [Dark Sky Reserve](https://open.spotify.com/album/6g6bUo6UVWTOU7AamVvS1m) | 3:09 |
 | 90 | [Modern Living](https://open.spotify.com/track/2uCzx9FvjG1dQjmYv0kxmI) | [Texoprint](https://open.spotify.com/artist/3Crxw3x5GQwDrhY51BNcMi) | [Modern Living](https://open.spotify.com/album/7Ev2W1U2EPJK5fbhYuPoP4) | 3:44 |
 
-Snapshot ID: `AAAAAJqxUrKVVTEI3IzwuJgP5PHGgs/y`
+Snapshot ID: `AAAAANZMuVyIWqd3O/5fieP2oyJpjlPV`

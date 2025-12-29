@@ -1,6 +1,6 @@
 {
   "description": "2019\u5e74\u306b\u5e55\u3092\u958b\u3051\u305f\u4ee4\u548c\u3002\u30b9\u30c8\u30ea\u30fc\u30df\u30f3\u30b0\u3084\u52d5\u753b\u30b5\u30a4\u30c8\u3067\u306e\u30d0\u30a4\u30e9\u30eb\u304c\u5f71\u97ff\u529b\u3092\u5897\u3057\u3001\u793e\u4f1a\u60c5\u52e2\u3084\u4fa1\u5024\u89b3\u304c\u6fc0\u52d5\u3057\u3066\u3044\u308b\"\u30cb\u30e5\u30fc\u30ce\u30fc\u30de\u30eb\"\u306a\u6642\u4ee3\u306e\u30dd\u30c3\u30d7\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3002",
-  "num_followers": 363392,
+  "num_followers": 363562,
   "original_name": "\u4ee4\u548c\u30dd\u30c3\u30d7\u30b9",
   "owner": {
     "name": "Spotify",
@@ -455,6 +455,22 @@
     {
       "added_at": "2025-12-26 15:00:36",
       "album": {
+        "name": "\u30a2\u30a4\u30c9\u30eb",
+        "url": "https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "duration_ms": 213233,
+      "name": "\u30a2\u30a4\u30c9\u30eb",
+      "url": "https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt"
+    },
+    {
+      "added_at": "2025-12-26 15:00:36",
+      "album": {
         "name": "\u7e54\u59eb\u3068BABY",
         "url": "https://open.spotify.com/album/3kDCegnvxc2zbSHrghMhQD"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 222826,
       "name": "\u7e54\u59eb\u3068BABY",
       "url": "https://open.spotify.com/track/2RMBCQdXkfFArpX3NIuuNm"
-    },
-    {
-      "added_at": "2025-12-26 15:00:36",
-      "album": {
-        "name": "\u30a2\u30a4\u30c9\u30eb",
-        "url": "https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a"
-      },
-      "artists": [
-        {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
-        }
-      ],
-      "duration_ms": 213233,
-      "name": "\u30a2\u30a4\u30c9\u30eb",
-      "url": "https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt"
     },
     {
       "added_at": "2025-12-26 15:00:36",
@@ -651,6 +651,22 @@
     {
       "added_at": "2025-12-26 15:00:36",
       "album": {
+        "name": "ROSE",
+        "url": "https://open.spotify.com/album/42rJ9A3HW7S2hWnkMNZIwk"
+      },
+      "artists": [
+        {
+          "name": "HANA",
+          "url": "https://open.spotify.com/artist/7fmXV2O48buswss04YetaN"
+        }
+      ],
+      "duration_ms": 190080,
+      "name": "Tiger",
+      "url": "https://open.spotify.com/track/20VZXnRzvcS0qVMOThjjmM"
+    },
+    {
+      "added_at": "2025-12-26 15:00:36",
+      "album": {
         "name": "hope",
         "url": "https://open.spotify.com/album/5kArccOTc9R98l8GF1D0bF"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 200219,
       "name": "\u604b\u4eba\u3054\u3063\u3053",
       "url": "https://open.spotify.com/track/2SihT7AVMiI2VtaAyVIcnO"
-    },
-    {
-      "added_at": "2025-12-26 15:00:36",
-      "album": {
-        "name": "\u3060\u304b\u3089\u50d5\u306f\u97f3\u697d\u3092\u8f9e\u3081\u305f",
-        "url": "https://open.spotify.com/album/4b9nOSXSf1LROzgfYFxdxI"
-      },
-      "artists": [
-        {
-          "name": "\u30e8\u30eb\u30b7\u30ab",
-          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
-        }
-      ],
-      "duration_ms": 242912,
-      "name": "\u3060\u304b\u3089\u50d5\u306f\u97f3\u697d\u3092\u8f9e\u3081\u305f",
-      "url": "https://open.spotify.com/track/5j7ixaLeGTGSv4DzKs0pCM"
     },
     {
       "added_at": "2025-12-26 15:00:36",
@@ -699,18 +699,18 @@
     {
       "added_at": "2025-12-26 15:00:36",
       "album": {
-        "name": "ROSE",
-        "url": "https://open.spotify.com/album/42rJ9A3HW7S2hWnkMNZIwk"
+        "name": "\u3060\u304b\u3089\u50d5\u306f\u97f3\u697d\u3092\u8f9e\u3081\u305f",
+        "url": "https://open.spotify.com/album/4b9nOSXSf1LROzgfYFxdxI"
       },
       "artists": [
         {
-          "name": "HANA",
-          "url": "https://open.spotify.com/artist/7fmXV2O48buswss04YetaN"
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
         }
       ],
-      "duration_ms": 190080,
-      "name": "Tiger",
-      "url": "https://open.spotify.com/track/20VZXnRzvcS0qVMOThjjmM"
+      "duration_ms": 242912,
+      "name": "\u3060\u304b\u3089\u50d5\u306f\u97f3\u697d\u3092\u8f9e\u3081\u305f",
+      "url": "https://open.spotify.com/track/5j7ixaLeGTGSv4DzKs0pCM"
     },
     {
       "added_at": "2025-12-26 15:00:36",
@@ -767,22 +767,6 @@
     {
       "added_at": "2025-12-26 15:00:36",
       "album": {
-        "name": "Plazma",
-        "url": "https://open.spotify.com/album/3fEm98bR4ojbm2GBqzhTGp"
-      },
-      "artists": [
-        {
-          "name": "Kenshi Yonezu",
-          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
-        }
-      ],
-      "duration_ms": 180832,
-      "name": "Plazma",
-      "url": "https://open.spotify.com/track/1KLg01cjnRsENoFhJWUTSd"
-    },
-    {
-      "added_at": "2025-12-26 15:00:36",
-      "album": {
         "name": "Burning Flower",
         "url": "https://open.spotify.com/album/163oByKktJZI76tPDx5iHx"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 177898,
       "name": "Burning Flower",
       "url": "https://open.spotify.com/track/20mMzqcOAO1J5qmM7Q6sP0"
+    },
+    {
+      "added_at": "2025-12-26 15:00:36",
+      "album": {
+        "name": "Plazma",
+        "url": "https://open.spotify.com/album/3fEm98bR4ojbm2GBqzhTGp"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "duration_ms": 180832,
+      "name": "Plazma",
+      "url": "https://open.spotify.com/track/1KLg01cjnRsENoFhJWUTSd"
     },
     {
       "added_at": "2025-12-26 15:00:36",
@@ -831,22 +831,6 @@
     {
       "added_at": "2025-12-26 15:00:36",
       "album": {
-        "name": "SEVENTEEN 4th Album 'Face the Sun'",
-        "url": "https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht"
-      },
-      "artists": [
-        {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
-        }
-      ],
-      "duration_ms": 197586,
-      "name": "HOT",
-      "url": "https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd"
-    },
-    {
-      "added_at": "2025-12-26 15:00:36",
-      "album": {
         "name": "\u30ab\u30fc\u30c6\u30f3\u30b3\u30fc\u30eb",
         "url": "https://open.spotify.com/album/11GFYcT1N05hLyrWABo9BK"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 243026,
       "name": "\u30ab\u30fc\u30c6\u30f3\u30b3\u30fc\u30eb",
       "url": "https://open.spotify.com/track/1nysdCpKAh6yif4JkmoiNy"
+    },
+    {
+      "added_at": "2025-12-26 15:00:36",
+      "album": {
+        "name": "SEVENTEEN 4th Album 'Face the Sun'",
+        "url": "https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "duration_ms": 197586,
+      "name": "HOT",
+      "url": "https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd"
     },
     {
       "added_at": "2025-12-26 15:00:36",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2025-12-26 15:00:36",
       "album": {
-        "name": "BOW AND ARROW",
-        "url": "https://open.spotify.com/album/4iCLx6HHi8QSfeMloqtsPh"
+        "name": "strobo",
+        "url": "https://open.spotify.com/album/4gsij82NzREEwKhC0dTvHE"
       },
       "artists": [
         {
-          "name": "Kenshi Yonezu",
-          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
         }
       ],
-      "duration_ms": 175727,
-      "name": "BOW AND ARROW",
-      "url": "https://open.spotify.com/track/0NHu2Lo9MWkvhOggEy1bYg"
+      "duration_ms": 200241,
+      "name": "\u4e0d\u53ef\u5e78\u529b",
+      "url": "https://open.spotify.com/track/6AncLCxf4U7ivJEaqih9zA"
     },
     {
       "added_at": "2025-12-26 15:00:36",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2025-12-26 15:00:36",
       "album": {
-        "name": "\u7d76\u5bfe\u96f6\u5ea6",
-        "url": "https://open.spotify.com/album/4cAgsEZlaDdg3PSH3IAgEy"
+        "name": "BOW AND ARROW",
+        "url": "https://open.spotify.com/album/4iCLx6HHi8QSfeMloqtsPh"
       },
       "artists": [
         {
-          "name": "natori",
-          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
         }
       ],
-      "duration_ms": 198483,
-      "name": "\u7d76\u5bfe\u96f6\u5ea6",
-      "url": "https://open.spotify.com/track/389rEslJY9vh7TZemIA4y7"
+      "duration_ms": 175727,
+      "name": "BOW AND ARROW",
+      "url": "https://open.spotify.com/track/0NHu2Lo9MWkvhOggEy1bYg"
     },
     {
       "added_at": "2025-12-26 15:00:36",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2025-12-26 15:00:36",
       "album": {
+        "name": "\u7d76\u5bfe\u96f6\u5ea6",
+        "url": "https://open.spotify.com/album/4cAgsEZlaDdg3PSH3IAgEy"
+      },
+      "artists": [
+        {
+          "name": "natori",
+          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
+        }
+      ],
+      "duration_ms": 198483,
+      "name": "\u7d76\u5bfe\u96f6\u5ea6",
+      "url": "https://open.spotify.com/track/389rEslJY9vh7TZemIA4y7"
+    },
+    {
+      "added_at": "2025-12-26 15:00:36",
+      "album": {
         "name": "Love&Letter repackage album",
         "url": "https://open.spotify.com/album/7mP7AFehQDonPKEQiXvpvB"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 192092,
       "name": "VERY NICE",
       "url": "https://open.spotify.com/track/1Rrj7KyS2R6SP9CQMDJW1w"
-    },
-    {
-      "added_at": "2025-12-26 15:00:36",
-      "album": {
-        "name": "strobo",
-        "url": "https://open.spotify.com/album/4gsij82NzREEwKhC0dTvHE"
-      },
-      "artists": [
-        {
-          "name": "Vaundy",
-          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
-        }
-      ],
-      "duration_ms": 200241,
-      "name": "\u4e0d\u53ef\u5e78\u529b",
-      "url": "https://open.spotify.com/track/6AncLCxf4U7ivJEaqih9zA"
     },
     {
       "added_at": "2025-12-26 15:00:36",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2025-12-26 15:00:36",
       "album": {
+        "name": "\u30d5\u30a1\u30f3\u30d5\u30a1\u30fc\u30ec",
+        "url": "https://open.spotify.com/album/59e5bf9rKTEJkr6wsAccQE"
+      },
+      "artists": [
+        {
+          "name": "Koji Tamaki",
+          "url": "https://open.spotify.com/artist/5KLvrcsAUwqMOqxErwSJmD"
+        }
+      ],
+      "duration_ms": 221840,
+      "name": "\u30d5\u30a1\u30f3\u30d5\u30a1\u30fc\u30ec",
+      "url": "https://open.spotify.com/track/29nEadzf4CqeLYzcf44zub"
+    },
+    {
+      "added_at": "2025-12-26 15:00:36",
+      "album": {
         "name": "NEW DANCE",
         "url": "https://open.spotify.com/album/5iBG5tDegPYWxpzmgYs4KK"
       },
@@ -1327,22 +1343,6 @@
     {
       "added_at": "2025-12-26 15:00:36",
       "album": {
-        "name": "\u30d5\u30a1\u30f3\u30d5\u30a1\u30fc\u30ec",
-        "url": "https://open.spotify.com/album/59e5bf9rKTEJkr6wsAccQE"
-      },
-      "artists": [
-        {
-          "name": "Koji Tamaki",
-          "url": "https://open.spotify.com/artist/5KLvrcsAUwqMOqxErwSJmD"
-        }
-      ],
-      "duration_ms": 221840,
-      "name": "\u30d5\u30a1\u30f3\u30d5\u30a1\u30fc\u30ec",
-      "url": "https://open.spotify.com/track/29nEadzf4CqeLYzcf44zub"
-    },
-    {
-      "added_at": "2025-12-26 15:00:36",
-      "album": {
         "name": "\u597d\u304d\u3060\u304b\u3089\u3002",
         "url": "https://open.spotify.com/album/0Yp3xThk83SwBN8yP2IaTS"
       },
@@ -1355,6 +1355,22 @@
       "duration_ms": 298663,
       "name": "\u597d\u304d\u3060\u304b\u3089\u3002",
       "url": "https://open.spotify.com/track/02xwA3Ej9NPetftp9V7VZ3"
+    },
+    {
+      "added_at": "2025-12-26 15:00:36",
+      "album": {
+        "name": "more than words",
+        "url": "https://open.spotify.com/album/6fdrt4Aa8bJIHb5L0GTn7V"
+      },
+      "artists": [
+        {
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+        }
+      ],
+      "duration_ms": 289720,
+      "name": "more than words",
+      "url": "https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk"
     },
     {
       "added_at": "2025-12-26 15:00:36",
@@ -1383,38 +1399,6 @@
     {
       "added_at": "2025-12-26 15:00:36",
       "album": {
-        "name": "more than words",
-        "url": "https://open.spotify.com/album/6fdrt4Aa8bJIHb5L0GTn7V"
-      },
-      "artists": [
-        {
-          "name": "Hitsujibungaku",
-          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
-        }
-      ],
-      "duration_ms": 289720,
-      "name": "more than words",
-      "url": "https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk"
-    },
-    {
-      "added_at": "2025-12-26 15:00:36",
-      "album": {
-        "name": "\u30ab\u30f3\u30c8\u30ea\u30fc\u30ed\u30fc\u30c9",
-        "url": "https://open.spotify.com/album/4mlpCoeuWxeKEWuKnDUJ5y"
-      },
-      "artists": [
-        {
-          "name": "Saucy Dog",
-          "url": "https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN"
-        }
-      ],
-      "duration_ms": 274871,
-      "name": "\u3044\u3064\u304b",
-      "url": "https://open.spotify.com/track/0v3iUTe5rskRsxbUhboRlT"
-    },
-    {
-      "added_at": "2025-12-26 15:00:36",
-      "album": {
         "name": "I wonder",
         "url": "https://open.spotify.com/album/2Pwsp7jElXMU0fUwzHo1je"
       },
@@ -1431,18 +1415,18 @@
     {
       "added_at": "2025-12-26 15:00:36",
       "album": {
-        "name": "No.\u2161 (Deluxe)",
-        "url": "https://open.spotify.com/album/0iqpmtNFxdR3LZc5Hb6Gzu"
+        "name": "\u30ab\u30f3\u30c8\u30ea\u30fc\u30ed\u30fc\u30c9",
+        "url": "https://open.spotify.com/album/4mlpCoeuWxeKEWuKnDUJ5y"
       },
       "artists": [
         {
-          "name": "Number_i",
-          "url": "https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN"
+          "name": "Saucy Dog",
+          "url": "https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN"
         }
       ],
-      "duration_ms": 192603,
-      "name": "LAVALAVA",
-      "url": "https://open.spotify.com/track/3h2mAlbVjRrRtBwAmIwOgD"
+      "duration_ms": 274871,
+      "name": "\u3044\u3064\u304b",
+      "url": "https://open.spotify.com/track/0v3iUTe5rskRsxbUhboRlT"
     },
     {
       "added_at": "2025-12-26 15:00:36",
@@ -1507,6 +1491,22 @@
       "duration_ms": 248653,
       "name": "CITRUS",
       "url": "https://open.spotify.com/track/2IL2asrtx7XM1y8fu2RMnR"
+    },
+    {
+      "added_at": "2025-12-26 15:00:36",
+      "album": {
+        "name": "No.\u2161 (Deluxe)",
+        "url": "https://open.spotify.com/album/0iqpmtNFxdR3LZc5Hb6Gzu"
+      },
+      "artists": [
+        {
+          "name": "Number_i",
+          "url": "https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN"
+        }
+      ],
+      "duration_ms": 192603,
+      "name": "LAVALAVA",
+      "url": "https://open.spotify.com/track/3h2mAlbVjRrRtBwAmIwOgD"
     },
     {
       "added_at": "2025-12-26 15:00:36",

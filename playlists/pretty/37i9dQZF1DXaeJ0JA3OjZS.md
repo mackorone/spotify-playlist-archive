@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaeJ0JA3OjZS.md) - [plain]
 
 > Bailadores y afamados, los cuacos que con su galope hicieron historia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,683 likes - 70 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,819 likes - 70 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,17 +42,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaeJ0JA3OjZS.md) - [plain]
 | 32 | [La Huesos](https://open.spotify.com/track/2pgTy7Jh1b8k46fjKmhrol) | [Cuarto de Milla](https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe) | [Agarró Camino](https://open.spotify.com/album/2LFzmjuaHpQIzJJ7jUxyyh) | 3:04 |
 | 33 | [El Texano y el Machete](https://open.spotify.com/track/5SnCAD0jeqqKKQoi7iiyHt) | [Los Herederos De Nuevo León](https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI) | [Corridos de Caballos Pura Sangre](https://open.spotify.com/album/3XR6y0bpNfJxuXuEzg5pZW) | 3:19 |
 | 34 | [El Moro De Cumpas](https://open.spotify.com/track/0aHdkEGGQNXrPyRfldFSUy) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Corridos De Caballos Famosos](https://open.spotify.com/album/3vgps3Egv98mrUtRtkz90V) | 4:06 |
-| 35 | [Oak Tree Special](https://open.spotify.com/track/1rsSDPPOODrFc9K1PkB24f) | [Impostores De Nuevo Leon](https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI) | [Corridos de Caballos](https://open.spotify.com/album/5kXoqUH7dnPoWFEuHQCNgI) | 4:34 |
-| 36 | [El Quemado](https://open.spotify.com/track/5otHFBlYtJntssUdLSGeJH) | [Beto Peña](https://open.spotify.com/artist/4dMcbyCa0TCT5rfhBAJJtl) | [El Quemado](https://open.spotify.com/album/7BoKxPrMe4FXjC80Dhpy6i) | 2:18 |
+| 35 | [El Quemado](https://open.spotify.com/track/5otHFBlYtJntssUdLSGeJH) | [Beto Peña](https://open.spotify.com/artist/4dMcbyCa0TCT5rfhBAJJtl) | [El Quemado](https://open.spotify.com/album/7BoKxPrMe4FXjC80Dhpy6i) | 2:18 |
+| 36 | [Oak Tree Special](https://open.spotify.com/track/1rsSDPPOODrFc9K1PkB24f) | [Impostores De Nuevo Leon](https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI) | [Corridos de Caballos](https://open.spotify.com/album/5kXoqUH7dnPoWFEuHQCNgI) | 4:34 |
 | 37 | [El Rey De Los Coleaderos](https://open.spotify.com/track/73Y7E1RiTt1DGsaIi7BSkw) | [El Nono y Su Banda Reina de Jerez](https://open.spotify.com/artist/6koqQSKPGrPcFLjJvFHRxG) | [El Rey De Los Coleaderos](https://open.spotify.com/album/2KhFlDzt77frAazmQOguEv) | 3:05 |
 | 38 | [Un Frisian Llamado El Centenario \- En Vivo](https://open.spotify.com/track/0kTsX5yfHhdg4nK7t4pbzz) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [En Vivo Desde Mi Ranchito](https://open.spotify.com/album/22Ovk2DIKkjtoEDWZ6AaTs) | 4:30 |
-| 39 | [Señorita de a Caballo](https://open.spotify.com/track/71TYBH5L2qbNlQvbmi0u2X) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Señorita de a Caballo](https://open.spotify.com/album/3sFEqREI20uKdNCNl8JY5A) | 3:42 |
-| 40 | [El Demonio](https://open.spotify.com/track/61waA2BQrQPABpCimEJb8t) | [Los Herederos De Nuevo León](https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI) | [Corridos de Caballos Pura Sangre](https://open.spotify.com/album/3XR6y0bpNfJxuXuEzg5pZW) | 3:06 |
+| 39 | [El Demonio](https://open.spotify.com/track/61waA2BQrQPABpCimEJb8t) | [Los Herederos De Nuevo León](https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI) | [Corridos de Caballos Pura Sangre](https://open.spotify.com/album/3XR6y0bpNfJxuXuEzg5pZW) | 3:06 |
+| 40 | [Señorita de a Caballo](https://open.spotify.com/track/71TYBH5L2qbNlQvbmi0u2X) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Señorita de a Caballo](https://open.spotify.com/album/3sFEqREI20uKdNCNl8JY5A) | 3:42 |
 | 41 | [Cuadra los Parientes \- En Vivo](https://open.spotify.com/track/2PSeJYq44rsMTqcJ8i8cfl) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Dio Vuelta la Moneda \(En Vivo\)](https://open.spotify.com/album/2voNK949lqZy11l6U52x58) | 2:55 |
 | 42 | [El Pulmòn](https://open.spotify.com/track/7pCq5BIgSQtbCeE4XwBHlR) | [Contrafuego](https://open.spotify.com/artist/4fIgrneRiDbwrGD3AE722x), [Alex Ramirez Y Su Grupo Profetas](https://open.spotify.com/artist/60MZiJnAYJd1QOj1woIm0R) | [El Pulmón](https://open.spotify.com/album/5elWI9k1RB0IJo1uWG1Ihu) | 3:32 |
 | 43 | [Caballito De Otate \- En Vivo Desde El Rancho](https://open.spotify.com/track/71OGhd0HAEQvQzrOPTIJ1j) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [En Vivo Desde El Rancho](https://open.spotify.com/album/0MhHMBaSyymJS9CslAtVxI) | 2:28 |
-| 44 | [El cantador \- En vivo](https://open.spotify.com/track/2cidQAJb7tlZqWSmUbkLgr) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El cantador \(En vivo\)](https://open.spotify.com/album/214cTuturC6CHUNgH5P9E3) | 3:20 |
-| 45 | [El Profeta](https://open.spotify.com/track/5iPlnUCTFRRdnBmH51GZi5) | [Los Herederos De Nuevo León](https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI) | [Corridos de Caballos Pura Sangre](https://open.spotify.com/album/3XR6y0bpNfJxuXuEzg5pZW) | 4:36 |
+| 44 | [El Profeta](https://open.spotify.com/track/5iPlnUCTFRRdnBmH51GZi5) | [Los Herederos De Nuevo León](https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI) | [Corridos de Caballos Pura Sangre](https://open.spotify.com/album/3XR6y0bpNfJxuXuEzg5pZW) | 4:36 |
+| 45 | [El cantador \- En vivo](https://open.spotify.com/track/2cidQAJb7tlZqWSmUbkLgr) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El cantador \(En vivo\)](https://open.spotify.com/album/214cTuturC6CHUNgH5P9E3) | 3:20 |
 | 46 | [Caballo R\-15 \- En Vivo](https://open.spotify.com/track/3jhRsmwoJnL8wVB66FPOtU) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [En Vivo Desde las Cañas](https://open.spotify.com/album/55jSMGuJVYVcRV3TyIrNhx) | 2:44 |
 | 47 | [Caballos de la Cordada](https://open.spotify.com/track/4qqkZvg2z6saQ2yhaWADUl) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [El Puente Roto](https://open.spotify.com/album/4C7e9hq4CH3hm0qhjLryjF) | 2:40 |
 | 48 | [Caballo De Patas Blancas](https://open.spotify.com/track/2snAmWK7MqZMLHlAb0fu7f) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Puros Corridos](https://open.spotify.com/album/7ydDpPVpV2VviGIIc5uYG1) | 1:42 |

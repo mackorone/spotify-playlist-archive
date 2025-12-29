@@ -1,12 +1,12 @@
 {
   "description": "This is Ximena Sari\u00f1ana. The essential tracks, all in one playlist.",
-  "num_followers": 64941,
+  "num_followers": 64939,
   "original_name": "This Is Ximena Sari\u00f1ana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU3QAAAAAAAq6jlUQnv3PxlrLlN/XXW2",
+  "snapshot_id": "aU8hgAAAAACtUXWwCH6oGit69D07pCyK",
   "tracks": [
     {
       "added_at": null,
@@ -491,26 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Voy a Volver",
-        "url": "https://open.spotify.com/album/57CJ8jeEFUi6Xh8dS4FzAb"
-      },
-      "artists": [
-        {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 235786,
-      "name": "Voy a Volver",
-      "url": "https://open.spotify.com/track/6OFOeuN0AZ0SER0Hglxi7P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ruzzicovers",
         "url": "https://open.spotify.com/album/6lPwJVOofbiHP27GRbyOay"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 219086,
       "name": "Cari\u00f1ito",
       "url": "https://open.spotify.com/track/5gggypCmKpoSsCEd1tyfI8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Voy a Volver",
+        "url": "https://open.spotify.com/album/57CJ8jeEFUi6Xh8dS4FzAb"
+      },
+      "artists": [
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 235786,
+      "name": "Voy a Volver",
+      "url": "https://open.spotify.com/track/6OFOeuN0AZ0SER0Hglxi7P"
     },
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Es Igual",
-        "url": "https://open.spotify.com/album/1gQ9pDMmLrEC6GHEKNzBBZ"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 225594,
-      "name": "No Es Igual",
-      "url": "https://open.spotify.com/track/4ud4Zl2oRVgKspR7te8NFx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Feliz Breakup",
         "url": "https://open.spotify.com/album/135jQqOPLRvdSdk5fFN4e0"
       },
@@ -795,22 +779,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Malcriado",
-        "url": "https://open.spotify.com/album/7cqCTMBfcNv0JBVIMBHwu3"
+        "name": "No Es Igual",
+        "url": "https://open.spotify.com/album/1gQ9pDMmLrEC6GHEKNzBBZ"
       },
       "artists": [
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        },
         {
           "name": "Ximena Sari\u00f1ana",
           "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
         }
       ],
-      "duration_ms": 195075,
-      "name": "Fetiche",
-      "url": "https://open.spotify.com/track/0x1QQhfXdWPv8GizKQuEgm"
+      "duration_ms": 225594,
+      "name": "No Es Igual",
+      "url": "https://open.spotify.com/track/4ud4Zl2oRVgKspR7te8NFx"
     },
     {
       "added_at": null,
@@ -831,6 +811,26 @@
       "duration_ms": 209220,
       "name": "N.I.T.",
       "url": "https://open.spotify.com/track/1PE7FaEownPL5NTipf0PYC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Malcriado",
+        "url": "https://open.spotify.com/album/7cqCTMBfcNv0JBVIMBHwu3"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 195075,
+      "name": "Fetiche",
+      "url": "https://open.spotify.com/track/0x1QQhfXdWPv8GizKQuEgm"
     },
     {
       "added_at": null,
@@ -947,26 +947,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nuevos Aires",
-        "url": "https://open.spotify.com/album/1pmuUGKQdl3yIAIMZucjKu"
-      },
-      "artists": [
-        {
-          "name": "Girl Ultra",
-          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 212894,
-      "name": "fuckhim (feat. Ximena Sari\u00f1ana)",
-      "url": "https://open.spotify.com/track/0D2JmflHSZwCVqle0RqxAz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Que Se Va",
         "url": "https://open.spotify.com/album/5D7TVjx5cphnUYDw6FZpbW"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 208803,
       "name": "Lo Que Se Va",
       "url": "https://open.spotify.com/track/4PogjAS9lDLn8L5KmqOrft"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nuevos Aires",
+        "url": "https://open.spotify.com/album/1pmuUGKQdl3yIAIMZucjKu"
+      },
+      "artists": [
+        {
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 212894,
+      "name": "fuckhim (feat. Ximena Sari\u00f1ana)",
+      "url": "https://open.spotify.com/track/0D2JmflHSZwCVqle0RqxAz"
     },
     {
       "added_at": null,

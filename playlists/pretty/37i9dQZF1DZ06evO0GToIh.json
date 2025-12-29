@@ -1,12 +1,12 @@
 {
   "description": "This is Eden Mu\u00f1oz. The essential tracks, all in one playlist.",
-  "num_followers": 332503,
+  "num_followers": 332692,
   "original_name": "This Is Eden Mu\u00f1oz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU3QAAAAAABJSXcRF9ap1MJV8LaJ3JAv",
+  "snapshot_id": "aU8hgAAAAAA2k+WQdKDS6ooKdJBPPGkt",
   "tracks": [
     {
       "added_at": null,
@@ -650,15 +650,11 @@
         {
           "name": "Eden Mu\u00f1oz",
           "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        },
-        {
-          "name": "Manny Cruz",
-          "url": "https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA"
         }
       ],
-      "duration_ms": 293611,
-      "name": "Procura",
-      "url": "https://open.spotify.com/track/5yyiRmayiyuI7R9i7PNeca"
+      "duration_ms": 236562,
+      "name": "Tu Cari\u00f1ito",
+      "url": "https://open.spotify.com/track/60Q6p6nH92omdBlYILHpYm"
     },
     {
       "added_at": null,
@@ -730,11 +726,15 @@
         {
           "name": "Eden Mu\u00f1oz",
           "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        },
+        {
+          "name": "Manny Cruz",
+          "url": "https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA"
         }
       ],
-      "duration_ms": 236562,
-      "name": "Tu Cari\u00f1ito",
-      "url": "https://open.spotify.com/track/60Q6p6nH92omdBlYILHpYm"
+      "duration_ms": 293611,
+      "name": "Procura",
+      "url": "https://open.spotify.com/track/5yyiRmayiyuI7R9i7PNeca"
     },
     {
       "added_at": null,
@@ -811,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piedras a la Luna",
-        "url": "https://open.spotify.com/album/31p2i3SWxfOaoI70jPMfNI"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 212641,
-      "name": "Aprovecha",
-      "url": "https://open.spotify.com/track/14IFxN2AyzgRhFNTzOou1Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eden",
         "url": "https://open.spotify.com/album/2Mhh5KI8hfKMkpHs7xkWBt"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 204246,
       "name": "Traigo Saldo y Ganas de Rogar",
       "url": "https://open.spotify.com/track/00j3Zw2inmVD3T0YJLNRvu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Piedras a la Luna",
+        "url": "https://open.spotify.com/album/31p2i3SWxfOaoI70jPMfNI"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 212641,
+      "name": "Aprovecha",
+      "url": "https://open.spotify.com/track/14IFxN2AyzgRhFNTzOou1Z"
     },
     {
       "added_at": null,
@@ -883,8 +883,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Invito a Ser Feliz",
-        "url": "https://open.spotify.com/album/7ukaZijb4JKauWNUYv8ddm"
+        "name": "Los Prohibidos en Concierto (En Vivo)",
+        "url": "https://open.spotify.com/album/3gzdYEAAQztvZRwOHcWFR6"
       },
       "artists": [
         {
@@ -892,9 +892,9 @@
           "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 196406,
-      "name": "Te Invito a Ser Feliz",
-      "url": "https://open.spotify.com/track/3bUzFhNuke83LHTBw0XhYr"
+      "duration_ms": 158933,
+      "name": "C\u00f3mo Me Duele - En Vivo",
+      "url": "https://open.spotify.com/track/1uiTRczUXLbN8aR4SXzlPv"
     }
   ],
   "unique_name": "This Is Eden Mu\u00f1oz",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygx34a8k2z.md) - [plain]
 
 > dig through the record bin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,694 likes - 100 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,796 likes - 100 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygx34a8k2z.md) - [plain]
 | 12 | [The Distance](https://open.spotify.com/track/0xMEF2WiqKWTIG7Krjungw) | [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV) | [Fashion Nugget](https://open.spotify.com/album/57lJNxlrPSin9SySEnerNb) | 2:59 |
 | 13 | [Ladykillers](https://open.spotify.com/track/64RQTM5ih8kx5rl8fxbRVv) | [Lush](https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg) | [Lovelife](https://open.spotify.com/album/7GENDDN5PnnAF9e8NbuMIT) | 3:13 |
 | 14 | [Pictures Of Success](https://open.spotify.com/track/0emIKBmjUMB5AXxbIU2e7P) | [Rilo Kiley](https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA) | [Take Offs And Landings](https://open.spotify.com/album/22XOtHa5uhifgMJr5KaIXN) | 6:51 |
-| 15 | [Song 2 \- 2012 Remaster](https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur \(Special Edition\)](https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q) | 2:01 |
-| 16 | [Glory Box](https://open.spotify.com/track/3Ty7OTBNSigGEpeW2PqcsC) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Dummy](https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno) | 5:08 |
-| 17 | [Karma Police](https://open.spotify.com/track/63OQupATfueTdZMWTxW03A) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 4:24 |
+| 15 | [Karma Police](https://open.spotify.com/track/63OQupATfueTdZMWTxW03A) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 4:24 |
+| 16 | [Song 2 \- 2012 Remaster](https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur \(Special Edition\)](https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q) | 2:01 |
+| 17 | [Glory Box](https://open.spotify.com/track/3Ty7OTBNSigGEpeW2PqcsC) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Dummy](https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno) | 5:08 |
 | 18 | [Buddy Holly](https://open.spotify.com/track/3mwvKOyMmG77zZRunnxp9E) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 2:39 |
 | 19 | [Sex & Candy](https://open.spotify.com/track/669UUGJqllYeW8SoL7lxmB) | [Marcy Playground](https://open.spotify.com/artist/7AQzXO3NPNQsI7oNu5rC3r) | [Sex And Candy](https://open.spotify.com/album/4pyyHKijB2gcv3L26Hn4YC) | 2:55 |
 | 20 | [Bullet With Butterfly Wings \- Remastered 2012](https://open.spotify.com/track/6GtX0jaNL8IjVQfrDBx81z) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Deluxe Edition\)](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) | 4:18 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygx34a8k2z.md) - [plain]
 | 34 | [Pepper](https://open.spotify.com/track/1ng36571Iyov4HBxUClySn) | [Butthole Surfers](https://open.spotify.com/artist/62BcWP4fzR8axESibNQEhs) | [Electriclarryland](https://open.spotify.com/album/7nawZF1eeyTGbrL9OsOCwz) | 4:57 |
 | 35 | [Common People \- Full Length Version](https://open.spotify.com/track/2fXKyAyPrEa24c6PJyqznF) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Different Class](https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x) | 5:51 |
 | 36 | [Grace](https://open.spotify.com/track/64SIlhd3BaHCCMSfajXG7l) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS) | 5:22 |
-| 37 | [Alison](https://open.spotify.com/track/33HRECrmuelZxOpid6XTNX) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Souvlaki](https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z) | 3:50 |
-| 38 | [Ocean Man](https://open.spotify.com/track/6M14BiCN00nOsba4JaYsHW) | [Ween](https://open.spotify.com/artist/3u1ulLq00Y3bfmq9FfjsPu) | [The Mollusk](https://open.spotify.com/album/1yfJqxKKXG320vhqLfUEeC) | 2:06 |
+| 37 | [Ocean Man](https://open.spotify.com/track/6M14BiCN00nOsba4JaYsHW) | [Ween](https://open.spotify.com/artist/3u1ulLq00Y3bfmq9FfjsPu) | [The Mollusk](https://open.spotify.com/album/1yfJqxKKXG320vhqLfUEeC) | 2:06 |
+| 38 | [Alison](https://open.spotify.com/track/33HRECrmuelZxOpid6XTNX) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Souvlaki](https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z) | 3:50 |
 | 39 | [In the Meantime](https://open.spotify.com/track/02lTDOxHeXTHsdwXoz6lpC) | [Spacehog](https://open.spotify.com/artist/3NZE8jDD2cCzd4vUyZ5CQQ) | [Resident Alien](https://open.spotify.com/album/6vOmA5zWeFeKvuRBxaO59A) | 4:59 |
 | 40 | [Coffee & TV](https://open.spotify.com/track/5eSllZgRWCIJsDTAqFRwQw) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [13](https://open.spotify.com/album/5YuZ4DjvtZBywtIbHIqtGJ) | 5:58 |
 | 41 | [Heaven Beside You](https://open.spotify.com/track/1DCdIWCE5UFiObCsTSpKFv) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Alice In Chains](https://open.spotify.com/album/49R4Qye4UUwzjPPQhtCkRe) | 5:27 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygx34a8k2z.md) - [plain]
 | 94 | [Soul And Fire](https://open.spotify.com/track/72WzLBoSQggMZ0S5hm95VH) | [Sebadoh](https://open.spotify.com/artist/2wrhBKGC3DTNNNDRJPaxW6) | [Bubble & Scrape](https://open.spotify.com/album/541PK5WDS4QQL2yqT1ic6H) | 3:46 |
 | 95 | [Son Of A Gun](https://open.spotify.com/track/7FQcCVNK4AttPgYjQbetL8) | [The Vaselines](https://open.spotify.com/artist/4wWQkHhmUNlXvhbHRUSqZW) | [Enter The Vaselines \(Deluxe Edition\)](https://open.spotify.com/album/630p98oUEIBRflGJRRInCt) | 3:45 |
 | 96 | [Cold Blooded Old Times](https://open.spotify.com/track/5PvqFnDaO9L2BTOY8HLVk8) | [Smog](https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko) | [Knock Knock](https://open.spotify.com/album/3XzbVl7oibSdnmpCGzCK6A) | 4:14 |
-| 97 | [What’s The Frequency, Kenneth? \- Remastered 2013](https://open.spotify.com/track/2ElyyOi86SHyMKcUrv2f8e) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Monster \(Remastered\)](https://open.spotify.com/album/17mS71JVgCCYLVdVcG0aUT) | 4:00 |
-| 98 | [Enter Laughing](https://open.spotify.com/track/3c0g53v6fO1r5uWE69zj5A) | [Electrelane](https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY) | [The Power Out](https://open.spotify.com/album/2OI1JgWQRcAiNZJGTBeCk7) | 3:42 |
+| 97 | [Enter Laughing](https://open.spotify.com/track/3c0g53v6fO1r5uWE69zj5A) | [Electrelane](https://open.spotify.com/artist/7ulIMfVKiXh8ecEpAVHIAY) | [The Power Out](https://open.spotify.com/album/2OI1JgWQRcAiNZJGTBeCk7) | 3:42 |
+| 98 | [What’s The Frequency, Kenneth? \- Remastered 2013](https://open.spotify.com/track/2ElyyOi86SHyMKcUrv2f8e) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Monster \(Remastered\)](https://open.spotify.com/album/17mS71JVgCCYLVdVcG0aUT) | 4:00 |
 | 99 | [That's When I Reach for My Revolver](https://open.spotify.com/track/3bSKHihztyH9D1ZyQsoqzI) | [Mission Of Burma](https://open.spotify.com/artist/5UMQV83wwZCCvRSQCVjZw6) | [Signals, Calls and Marches](https://open.spotify.com/album/3MylADAiyOAf5ddH6iiflo) | 3:53 |
 | 100 | [I'm Shakin'](https://open.spotify.com/track/6pfdB0WcH6y22C3enLfFrq) | [Rooney](https://open.spotify.com/artist/78inRkIIF0n9R9I2HPoWP7) | [Rooney](https://open.spotify.com/album/5LuGotW9TOicW2o2Q7iO50) | 3:34 |
 

@@ -1,12 +1,12 @@
 {
   "description": "This is MC Davo. The essential tracks, all in one playlist.",
-  "num_followers": 227728,
+  "num_followers": 227740,
   "original_name": "This Is MC Davo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU3QAAAAAAA3XyVUsWlyohLEuaa/Y9oY",
+  "snapshot_id": "aU8hgAAAAACXRmMfMuNsEsSpJ6ZXaEbL",
   "tracks": [
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Dominio",
-        "url": "https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 180053,
-      "name": "Debes de saber",
-      "url": "https://open.spotify.com/track/06T04xn5eDNWfzblgZ88P8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Psicosis",
         "url": "https://open.spotify.com/album/5lcnpD0QZeTjxvf6o3X50p"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 201733,
       "name": "Adi\u00f3s",
       "url": "https://open.spotify.com/track/5Axt9lZg5tqQir8U12ocQU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Dominio",
+        "url": "https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 180053,
+      "name": "Debes de saber",
+      "url": "https://open.spotify.com/track/06T04xn5eDNWfzblgZ88P8"
     },
     {
       "added_at": null,
@@ -595,26 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Acostumbraste",
-        "url": "https://open.spotify.com/album/5EkipqfG0SB3Rph3JfPf0U"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "Sandro Malandro",
-          "url": "https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS"
-        }
-      ],
-      "duration_ms": 182168,
-      "name": "Te Acostumbraste",
-      "url": "https://open.spotify.com/track/1ftjXBuN56PNoY3qj80zdf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Canciones Mamalonas 2",
         "url": "https://open.spotify.com/album/7xnmeQ4HtgTkXq8lzpMqLX"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 148351,
       "name": "La Que Dec\u00eda Que No",
       "url": "https://open.spotify.com/track/3eK1cGd1tYOV64neq82IKu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Te Acostumbraste",
+        "url": "https://open.spotify.com/album/5EkipqfG0SB3Rph3JfPf0U"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "Sandro Malandro",
+          "url": "https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS"
+        }
+      ],
+      "duration_ms": 182168,
+      "name": "Te Acostumbraste",
+      "url": "https://open.spotify.com/track/1ftjXBuN56PNoY3qj80zdf"
     },
     {
       "added_at": null,
@@ -1031,22 +1031,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Psicosis",
-        "url": "https://open.spotify.com/album/5lcnpD0QZeTjxvf6o3X50p"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 179120,
-      "name": "La Historia De Un Olvido",
-      "url": "https://open.spotify.com/track/7mq5HftjAklgdNT4SljJtr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Psicosis 2",
         "url": "https://open.spotify.com/album/26oLxndnV80RQoaFokDTCO"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 225978,
       "name": "Vive La Vida",
       "url": "https://open.spotify.com/track/1kvTvzhNUjbKjI7PCcuTFj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Psicosis",
+        "url": "https://open.spotify.com/album/5lcnpD0QZeTjxvf6o3X50p"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 179120,
+      "name": "La Historia De Un Olvido",
+      "url": "https://open.spotify.com/track/7mq5HftjAklgdNT4SljJtr"
     },
     {
       "added_at": null,

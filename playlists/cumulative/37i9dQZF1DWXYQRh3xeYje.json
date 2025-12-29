@@ -1153,6 +1153,24 @@
     },
     {
       "album": {
+        "name": "\u547c\u3073\u58f0",
+        "url": "https://open.spotify.com/album/3RhkGySFESW5d50IlNWuP1"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "date_added": "2025-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "\u547c\u3073\u58f0",
+      "url": "https://open.spotify.com/track/3kQf453SpkwX7ALdgzNSNY"
+    },
+    {
+      "album": {
         "name": "replica",
         "url": "https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn"
       },

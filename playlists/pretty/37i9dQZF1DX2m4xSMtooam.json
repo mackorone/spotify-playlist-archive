@@ -1,6 +1,6 @@
 {
   "description": "Relax to the sweet and soothing sound of Bossa nova.",
-  "num_followers": 315285,
+  "num_followers": 315422,
   "original_name": "Bossa Chill",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2025-12-09 10:26:56",
       "album": {
-        "name": "Night Lights (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1uJ9OJIgmgj4ta8xjq9nEJ"
-      },
-      "artists": [
-        {
-          "name": "Gerry Mulligan Sextet",
-          "url": "https://open.spotify.com/artist/6tzN9Ew9w6JB0UQr8culs1"
-        }
-      ],
-      "duration_ms": 256533,
-      "name": "Prelude In E Minor",
-      "url": "https://open.spotify.com/track/17OHsQ5RBrU6b9lTaPP0vh"
-    },
-    {
-      "added_at": "2025-12-09 10:26:56",
-      "album": {
         "name": "The Look Of Love",
         "url": "https://open.spotify.com/album/4nmjBh2Td9I9x9JDncrQr3"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 268760,
       "name": "'S Wonderful",
       "url": "https://open.spotify.com/track/3VZwP7d1U7tuQjb9JZrSRF"
+    },
+    {
+      "added_at": "2025-12-09 10:26:56",
+      "album": {
+        "name": "Night Lights (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1uJ9OJIgmgj4ta8xjq9nEJ"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan Sextet",
+          "url": "https://open.spotify.com/artist/6tzN9Ew9w6JB0UQr8culs1"
+        }
+      ],
+      "duration_ms": 256533,
+      "name": "Prelude In E Minor",
+      "url": "https://open.spotify.com/track/17OHsQ5RBrU6b9lTaPP0vh"
     },
     {
       "added_at": "2025-12-09 10:26:56",
@@ -539,22 +539,6 @@
     {
       "added_at": "2025-12-09 10:26:56",
       "album": {
-        "name": "Way Down Low",
-        "url": "https://open.spotify.com/album/0QYQcbZ8cNGQxH198kfycR"
-      },
-      "artists": [
-        {
-          "name": "Kat Edmonson",
-          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
-        }
-      ],
-      "duration_ms": 284426,
-      "name": "What Else Can I Do",
-      "url": "https://open.spotify.com/track/1u9dkvRtjzkL8ritczRXsX"
-    },
-    {
-      "added_at": "2025-12-09 10:26:56",
-      "album": {
         "name": "day by day",
         "url": "https://open.spotify.com/album/4mQSSzdJ4EdKxRNx5wF9nB"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 259933,
       "name": "Day by day",
       "url": "https://open.spotify.com/track/4Wa359eOBiLxHlz5W6Czp6"
+    },
+    {
+      "added_at": "2025-12-09 10:26:56",
+      "album": {
+        "name": "Way Down Low",
+        "url": "https://open.spotify.com/album/0QYQcbZ8cNGQxH198kfycR"
+      },
+      "artists": [
+        {
+          "name": "Kat Edmonson",
+          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
+        }
+      ],
+      "duration_ms": 284426,
+      "name": "What Else Can I Do",
+      "url": "https://open.spotify.com/track/1u9dkvRtjzkL8ritczRXsX"
     },
     {
       "added_at": "2025-12-09 10:26:56",
@@ -639,22 +639,6 @@
     {
       "added_at": "2025-12-09 10:26:56",
       "album": {
-        "name": "Sobre o oceano",
-        "url": "https://open.spotify.com/album/6u92erX7J21BjD75dEGuHx"
-      },
-      "artists": [
-        {
-          "name": "Mart\u00edn Lima",
-          "url": "https://open.spotify.com/artist/5e3qpW081a7wvT7G2EIj51"
-        }
-      ],
-      "duration_ms": 170259,
-      "name": "Sobre o oceano",
-      "url": "https://open.spotify.com/track/1hfWhiIqyNu3Qr5jGMNif9"
-    },
-    {
-      "added_at": "2025-12-09 10:26:56",
-      "album": {
         "name": "Braziliana",
         "url": "https://open.spotify.com/album/5DQ6UgivtsZ5T68umwvdST"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 133093,
       "name": "Cavaquinho",
       "url": "https://open.spotify.com/track/74NnN3kzceUrtu1XgSNwxa"
+    },
+    {
+      "added_at": "2025-12-09 10:26:56",
+      "album": {
+        "name": "Sobre o oceano",
+        "url": "https://open.spotify.com/album/6u92erX7J21BjD75dEGuHx"
+      },
+      "artists": [
+        {
+          "name": "Mart\u00edn Lima",
+          "url": "https://open.spotify.com/artist/5e3qpW081a7wvT7G2EIj51"
+        }
+      ],
+      "duration_ms": 170259,
+      "name": "Sobre o oceano",
+      "url": "https://open.spotify.com/track/1hfWhiIqyNu3Qr5jGMNif9"
     },
     {
       "added_at": "2025-12-09 10:26:56",
@@ -831,22 +831,6 @@
     {
       "added_at": "2025-12-09 10:26:56",
       "album": {
-        "name": "Just Chill and Breathe",
-        "url": "https://open.spotify.com/album/5CUrICr5idsitMLUdupNTA"
-      },
-      "artists": [
-        {
-          "name": "Filip Benedetto",
-          "url": "https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7"
-        }
-      ],
-      "duration_ms": 191156,
-      "name": "Just Chill and Breathe",
-      "url": "https://open.spotify.com/track/1IibcoE7Dfr7n8AmdnW2EN"
-    },
-    {
-      "added_at": "2025-12-09 10:26:56",
-      "album": {
         "name": "Studio Rio Presents: The Brazil Connection",
         "url": "https://open.spotify.com/album/7C0b904Xo4njmQPI0gvcfw"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 293280,
       "name": "I Wish I Knew How It Would Feel to be Free - Studio Rio Version",
       "url": "https://open.spotify.com/track/3k1t0MMGMXf0C3I5YSyMwu"
+    },
+    {
+      "added_at": "2025-12-09 10:26:56",
+      "album": {
+        "name": "Just Chill and Breathe",
+        "url": "https://open.spotify.com/album/5CUrICr5idsitMLUdupNTA"
+      },
+      "artists": [
+        {
+          "name": "Filip Benedetto",
+          "url": "https://open.spotify.com/artist/1x6GlAVo5qvLhm45bgtlp7"
+        }
+      ],
+      "duration_ms": 191156,
+      "name": "Just Chill and Breathe",
+      "url": "https://open.spotify.com/track/1IibcoE7Dfr7n8AmdnW2EN"
     },
     {
       "added_at": "2025-12-09 10:26:56",
@@ -899,22 +899,6 @@
     {
       "added_at": "2025-12-09 10:26:56",
       "album": {
-        "name": "P\u00e3o de A\u00e7\u00facar",
-        "url": "https://open.spotify.com/album/5qz7sVtLSdqQatSiYUpJWM"
-      },
-      "artists": [
-        {
-          "name": "El Equipo Del Norte",
-          "url": "https://open.spotify.com/artist/3NlkrQ9iKKw6VZlWr0lk0U"
-        }
-      ],
-      "duration_ms": 222402,
-      "name": "P\u00e3o de A\u00e7\u00facar",
-      "url": "https://open.spotify.com/track/07ZdqvJ37JIGrbybE2iVPZ"
-    },
-    {
-      "added_at": "2025-12-09 10:26:56",
-      "album": {
         "name": "Copacabana",
         "url": "https://open.spotify.com/album/1pYAD1swqhNE2RDLvJgWIE"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 215160,
       "name": "Copacabana",
       "url": "https://open.spotify.com/track/3PWnbNejd7twqp0kIXffHd"
+    },
+    {
+      "added_at": "2025-12-09 10:26:56",
+      "album": {
+        "name": "P\u00e3o de A\u00e7\u00facar",
+        "url": "https://open.spotify.com/album/5qz7sVtLSdqQatSiYUpJWM"
+      },
+      "artists": [
+        {
+          "name": "El Equipo Del Norte",
+          "url": "https://open.spotify.com/artist/3NlkrQ9iKKw6VZlWr0lk0U"
+        }
+      ],
+      "duration_ms": 222402,
+      "name": "P\u00e3o de A\u00e7\u00facar",
+      "url": "https://open.spotify.com/track/07ZdqvJ37JIGrbybE2iVPZ"
     },
     {
       "added_at": "2025-12-09 10:26:56",
@@ -1091,6 +1091,38 @@
     {
       "added_at": "2025-12-09 10:26:56",
       "album": {
+        "name": "Quarteto Jobim Morelenbaum",
+        "url": "https://open.spotify.com/album/7yjltYU5q9KQKZLfI2JZEY"
+      },
+      "artists": [
+        {
+          "name": "Quarteto Jobim-Morelenbaum",
+          "url": "https://open.spotify.com/artist/1WxunfiOh9Ws0uu2JoDmjL"
+        }
+      ],
+      "duration_ms": 233499,
+      "name": "S\u00f3 Tinha de Ser Com Voc\u00ea",
+      "url": "https://open.spotify.com/track/1U2yKTVqJASLKLSCzrwxi7"
+    },
+    {
+      "added_at": "2025-12-09 10:26:56",
+      "album": {
+        "name": "Ao Mar e ao Vento",
+        "url": "https://open.spotify.com/album/6eZpekST8g6b2qWWffKX5V"
+      },
+      "artists": [
+        {
+          "name": "Marcio Philomena",
+          "url": "https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2"
+        }
+      ],
+      "duration_ms": 312716,
+      "name": "Ao Mar e ao Vento",
+      "url": "https://open.spotify.com/track/1ELY4E0azE57lSuw5K55YJ"
+    },
+    {
+      "added_at": "2025-12-09 10:26:56",
+      "album": {
         "name": "Brazil",
         "url": "https://open.spotify.com/album/4ZfijPsvkBtwZWiGScdvOs"
       },
@@ -1127,38 +1159,6 @@
       "duration_ms": 264584,
       "name": "Valle, M / Valle, P: So nice",
       "url": "https://open.spotify.com/track/4evGIySLSVBJD90LrDkTcO"
-    },
-    {
-      "added_at": "2025-12-09 10:26:56",
-      "album": {
-        "name": "Ao Mar e ao Vento",
-        "url": "https://open.spotify.com/album/6eZpekST8g6b2qWWffKX5V"
-      },
-      "artists": [
-        {
-          "name": "Marcio Philomena",
-          "url": "https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2"
-        }
-      ],
-      "duration_ms": 312716,
-      "name": "Ao Mar e ao Vento",
-      "url": "https://open.spotify.com/track/1ELY4E0azE57lSuw5K55YJ"
-    },
-    {
-      "added_at": "2025-12-09 10:26:56",
-      "album": {
-        "name": "Quarteto Jobim Morelenbaum",
-        "url": "https://open.spotify.com/album/7yjltYU5q9KQKZLfI2JZEY"
-      },
-      "artists": [
-        {
-          "name": "Quarteto Jobim-Morelenbaum",
-          "url": "https://open.spotify.com/artist/1WxunfiOh9Ws0uu2JoDmjL"
-        }
-      ],
-      "duration_ms": 233499,
-      "name": "S\u00f3 Tinha de Ser Com Voc\u00ea",
-      "url": "https://open.spotify.com/track/1U2yKTVqJASLKLSCzrwxi7"
     },
     {
       "added_at": "2025-12-09 10:26:56",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2025-12-09 10:26:56",
       "album": {
-        "name": "I Mean To Say",
-        "url": "https://open.spotify.com/album/3zPx8FFBdTdMDI91doYfa8"
-      },
-      "artists": [
-        {
-          "name": "Mornington",
-          "url": "https://open.spotify.com/artist/1oC6eOjjixPdeV0HvUAviS"
-        }
-      ],
-      "duration_ms": 217194,
-      "name": "I Mean To Say",
-      "url": "https://open.spotify.com/track/7w2wEyWPyUg7NhB2YARJB0"
-    },
-    {
-      "added_at": "2025-12-09 10:26:56",
-      "album": {
         "name": "Black Orpheus",
         "url": "https://open.spotify.com/album/1uIZcgp7yorDXZFTY7Eh53"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 295533,
       "name": "Night and Day",
       "url": "https://open.spotify.com/track/73LhDgmupOzN8RPljjgzie"
+    },
+    {
+      "added_at": "2025-12-09 10:26:56",
+      "album": {
+        "name": "I Mean To Say",
+        "url": "https://open.spotify.com/album/3zPx8FFBdTdMDI91doYfa8"
+      },
+      "artists": [
+        {
+          "name": "Mornington",
+          "url": "https://open.spotify.com/artist/1oC6eOjjixPdeV0HvUAviS"
+        }
+      ],
+      "duration_ms": 217194,
+      "name": "I Mean To Say",
+      "url": "https://open.spotify.com/track/7w2wEyWPyUg7NhB2YARJB0"
     },
     {
       "added_at": "2025-12-09 10:26:56",
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2025-12-09 10:26:56",
       "album": {
-        "name": "Lonely Desires",
-        "url": "https://open.spotify.com/album/6SYo8TS6PN3OIVqSfmUqW1"
+        "name": "Bossa Carioca",
+        "url": "https://open.spotify.com/album/5WfEnzMAxpWRjUOLPqS9Ig"
       },
       "artists": [
         {
-          "name": "Amir Patel",
-          "url": "https://open.spotify.com/artist/2IwMjlPYSZLq7oH4YN4WFy"
+          "name": "Central Park Quartet",
+          "url": "https://open.spotify.com/artist/6ZGwKgclCob8U2bd1x0Kr4"
         }
       ],
-      "duration_ms": 161860,
-      "name": "Lonely Desires",
-      "url": "https://open.spotify.com/track/6FgLJ7dCQMjgvqrKnYP1Q6"
+      "duration_ms": 218874,
+      "name": "Bossa Carioca",
+      "url": "https://open.spotify.com/track/5xbU8R70DaX0eSXgMYiGwc"
     },
     {
       "added_at": "2025-12-09 10:26:56",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2025-12-09 10:26:56",
       "album": {
-        "name": "Bossa Carioca",
-        "url": "https://open.spotify.com/album/5WfEnzMAxpWRjUOLPqS9Ig"
-      },
-      "artists": [
-        {
-          "name": "Central Park Quartet",
-          "url": "https://open.spotify.com/artist/6ZGwKgclCob8U2bd1x0Kr4"
-        }
-      ],
-      "duration_ms": 218874,
-      "name": "Bossa Carioca",
-      "url": "https://open.spotify.com/track/5xbU8R70DaX0eSXgMYiGwc"
-    },
-    {
-      "added_at": "2025-12-09 10:26:56",
-      "album": {
         "name": "Above the Clouds",
         "url": "https://open.spotify.com/album/2JayXGwZRkOf2d8800ymf4"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 240072,
       "name": "Above the Clouds",
       "url": "https://open.spotify.com/track/3LScC8PsoWhfG3IvoQ0VoC"
+    },
+    {
+      "added_at": "2025-12-09 10:26:56",
+      "album": {
+        "name": "Lonely Desires",
+        "url": "https://open.spotify.com/album/6SYo8TS6PN3OIVqSfmUqW1"
+      },
+      "artists": [
+        {
+          "name": "Amir Patel",
+          "url": "https://open.spotify.com/artist/2IwMjlPYSZLq7oH4YN4WFy"
+        }
+      ],
+      "duration_ms": 161860,
+      "name": "Lonely Desires",
+      "url": "https://open.spotify.com/track/6FgLJ7dCQMjgvqrKnYP1Q6"
     },
     {
       "added_at": "2025-12-09 10:26:56",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2025-12-09 10:26:56",
       "album": {
-        "name": "Telecoteco",
-        "url": "https://open.spotify.com/album/3vo7Rw9T48cuSkQWHMLnSb"
-      },
-      "artists": [
-        {
-          "name": "Paula Morelenbaum",
-          "url": "https://open.spotify.com/artist/7EFkAxz0BUzUJ7ZmAdBmSN"
-        }
-      ],
-      "duration_ms": 218346,
-      "name": "Teleco-Teco",
-      "url": "https://open.spotify.com/track/7nZARKu6tzkTBkuCVXWaZa"
-    },
-    {
-      "added_at": "2025-12-09 10:26:56",
-      "album": {
         "name": "Keep Me In Your Heart For A While: The Best Of Madeleine Peyroux (International Edition)",
         "url": "https://open.spotify.com/album/4pkakYztIDn7LnsuNIGz4m"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 262887,
       "name": "Half The Perfect World",
       "url": "https://open.spotify.com/track/3lkbJzh2kPBJHuuYKF48Qs"
+    },
+    {
+      "added_at": "2025-12-09 10:26:56",
+      "album": {
+        "name": "Telecoteco",
+        "url": "https://open.spotify.com/album/3vo7Rw9T48cuSkQWHMLnSb"
+      },
+      "artists": [
+        {
+          "name": "Paula Morelenbaum",
+          "url": "https://open.spotify.com/artist/7EFkAxz0BUzUJ7ZmAdBmSN"
+        }
+      ],
+      "duration_ms": 218346,
+      "name": "Teleco-Teco",
+      "url": "https://open.spotify.com/track/7nZARKu6tzkTBkuCVXWaZa"
     },
     {
       "added_at": "2025-12-09 10:26:56",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2025-12-09 10:26:56",
       "album": {
-        "name": "Santa Tereza",
-        "url": "https://open.spotify.com/album/7qiZlKHt1z0FCPz3RuyRFM"
-      },
-      "artists": [
-        {
-          "name": "Joao Silva Olivieira",
-          "url": "https://open.spotify.com/artist/73JoEuxW6Q8dYPQ9oseUmX"
-        }
-      ],
-      "duration_ms": 226924,
-      "name": "Zephyr",
-      "url": "https://open.spotify.com/track/47Bm8HKITZFcEi3WmmpJlG"
-    },
-    {
-      "added_at": "2025-12-09 10:26:56",
-      "album": {
         "name": "Hello",
         "url": "https://open.spotify.com/album/1Ky9OOOReMN8OfFwohWK32"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 262869,
       "name": "\u00c9 Preciso Perdoar",
       "url": "https://open.spotify.com/track/4wauUZpotzqJuZBULcI8vt"
+    },
+    {
+      "added_at": "2025-12-09 10:26:56",
+      "album": {
+        "name": "Santa Tereza",
+        "url": "https://open.spotify.com/album/7qiZlKHt1z0FCPz3RuyRFM"
+      },
+      "artists": [
+        {
+          "name": "Joao Silva Olivieira",
+          "url": "https://open.spotify.com/artist/73JoEuxW6Q8dYPQ9oseUmX"
+        }
+      ],
+      "duration_ms": 226924,
+      "name": "Zephyr",
+      "url": "https://open.spotify.com/track/47Bm8HKITZFcEi3WmmpJlG"
     }
   ],
   "unique_name": "Bossa Chill",

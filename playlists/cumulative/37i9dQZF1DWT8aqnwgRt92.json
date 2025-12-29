@@ -13037,6 +13037,24 @@
     },
     {
       "album": {
+        "name": "Make Me Wonder",
+        "url": "https://open.spotify.com/album/0AoL7HrfWRz6fDeYn15V19"
+      },
+      "artists": [
+        {
+          "name": "OFFICIAL HIGE DANDISM",
+          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
+        }
+      ],
+      "date_added": "2025-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232973,
+      "name": "Make Me Wonder",
+      "url": "https://open.spotify.com/track/1uHZMrbvOHTmMBDrnu4UBg"
+    },
+    {
+      "album": {
         "name": "MAKUAKE",
         "url": "https://open.spotify.com/album/3tNymmxYrHn9qMZu4m2P8b"
       },
@@ -15520,6 +15538,24 @@
       "duration_ms": 177731,
       "name": "odd:I",
       "url": "https://open.spotify.com/track/1MnJPiY2LT0noxGco8UsRC"
+    },
+    {
+      "album": {
+        "name": "Odoru Ponpokorin",
+        "url": "https://open.spotify.com/album/2XeKcmluJtZwNDYJmhiDER"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2025-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194530,
+      "name": "Odoru Ponpokorin",
+      "url": "https://open.spotify.com/track/3pncyVfDzI4m9oErJKLKIo"
     },
     {
       "album": {
@@ -34676,7 +34712,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 318561,
       "name": "\u30ed\u30de\u30f3\u30c6\u30a3\u30b9\u30c8\u30fb\u30ad\u30e9\u30fc",
       "url": "https://open.spotify.com/track/22ZbFYOkUr8fZaRNPTSNiN"

@@ -1,6 +1,6 @@
 {
   "description": "Where afrobeats meets amapiano.\nCover:  TxC",
-  "num_followers": 80963,
+  "num_followers": 81048,
   "original_name": "afro-piano",
   "owner": {
     "name": "Spotify",
@@ -307,6 +307,30 @@
     {
       "added_at": "2025-12-19 00:01:13",
       "album": {
+        "name": "ENJOYMENT",
+        "url": "https://open.spotify.com/album/6XeFNGknKUSeZh7Gboegur"
+      },
+      "artists": [
+        {
+          "name": "Poco Lee",
+          "url": "https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc"
+        },
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        },
+        {
+          "name": "Diamond Boy",
+          "url": "https://open.spotify.com/artist/2Mr8ln1UwCpIFb1KeeS5TE"
+        }
+      ],
+      "duration_ms": 175714,
+      "name": "ENJOYMENT",
+      "url": "https://open.spotify.com/track/54ZS9DcCVy0jcsTqHSFLyi"
+    },
+    {
+      "added_at": "2025-12-19 00:01:13",
+      "album": {
         "name": "WHY LOVE",
         "url": "https://open.spotify.com/album/5bQKiaMHTdJcn4fxPs9MCk"
       },
@@ -335,30 +359,6 @@
       "duration_ms": 165296,
       "name": "Shakabulizzy",
       "url": "https://open.spotify.com/track/1Yf58S4QQwxqYSJZm5JxmA"
-    },
-    {
-      "added_at": "2025-12-19 00:01:13",
-      "album": {
-        "name": "ENJOYMENT",
-        "url": "https://open.spotify.com/album/6XeFNGknKUSeZh7Gboegur"
-      },
-      "artists": [
-        {
-          "name": "Poco Lee",
-          "url": "https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc"
-        },
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        },
-        {
-          "name": "Diamond Boy",
-          "url": "https://open.spotify.com/artist/2Mr8ln1UwCpIFb1KeeS5TE"
-        }
-      ],
-      "duration_ms": 175714,
-      "name": "ENJOYMENT",
-      "url": "https://open.spotify.com/track/54ZS9DcCVy0jcsTqHSFLyi"
     },
     {
       "added_at": "2025-12-19 00:01:13",
@@ -395,18 +395,22 @@
     {
       "added_at": "2025-12-19 00:01:13",
       "album": {
-        "name": "Jiggy Forever",
-        "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
+        "name": "Dangbana Riddim",
+        "url": "https://open.spotify.com/album/0xDIG4BwF9QgxdKVNwee9D"
       },
       "artists": [
         {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
         }
       ],
-      "duration_ms": 141818,
-      "name": "Stronger",
-      "url": "https://open.spotify.com/track/4KZMoDuxwSYP63bhbnMqe3"
+      "duration_ms": 160587,
+      "name": "Dangbana Riddim",
+      "url": "https://open.spotify.com/track/07eJSSPcNlkR34wVlkrCcY"
     },
     {
       "added_at": "2025-12-19 00:01:13",
@@ -431,26 +435,6 @@
     {
       "added_at": "2025-12-19 00:01:13",
       "album": {
-        "name": "Dangbana Riddim",
-        "url": "https://open.spotify.com/album/0xDIG4BwF9QgxdKVNwee9D"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        },
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        }
-      ],
-      "duration_ms": 160587,
-      "name": "Dangbana Riddim",
-      "url": "https://open.spotify.com/track/07eJSSPcNlkR34wVlkrCcY"
-    },
-    {
-      "added_at": "2025-12-19 00:01:13",
-      "album": {
         "name": "HAUSAPIANO (Remix)",
         "url": "https://open.spotify.com/album/2vXERVitZkqH0B3YIjlhtJ"
       },
@@ -467,6 +451,30 @@
       "duration_ms": 137844,
       "name": "HAUSAPIANO - Remix",
       "url": "https://open.spotify.com/track/3H2bLX6U4kNuv04iTkCrSp"
+    },
+    {
+      "added_at": "2025-12-19 00:01:13",
+      "album": {
+        "name": "Happiness (feat. Asake & Gunna)",
+        "url": "https://open.spotify.com/album/0D5fIo40wr5QpfUQ2l26vf"
+      },
+      "artists": [
+        {
+          "name": "Sarz",
+          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 174743,
+      "name": "Happiness (feat. Asake & Gunna)",
+      "url": "https://open.spotify.com/track/6rOqLUy3kp0PVQQEtNPpbQ"
     },
     {
       "added_at": "2025-12-19 00:01:13",
@@ -511,6 +519,22 @@
     {
       "added_at": "2025-12-19 00:01:13",
       "album": {
+        "name": "Jiggy Forever",
+        "url": "https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 141818,
+      "name": "Stronger",
+      "url": "https://open.spotify.com/track/4KZMoDuxwSYP63bhbnMqe3"
+    },
+    {
+      "added_at": "2025-12-19 00:01:13",
+      "album": {
         "name": "Mr. Money With The Vibe",
         "url": "https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI"
       },
@@ -523,26 +547,6 @@
       "duration_ms": 153103,
       "name": "Peace Be Unto You (PBUY)",
       "url": "https://open.spotify.com/track/6ewsOjbC1jWAZcjAhVxDs0"
-    },
-    {
-      "added_at": "2025-12-19 00:01:13",
-      "album": {
-        "name": "Speed",
-        "url": "https://open.spotify.com/album/5I386VD2f5rXpvuKwzmxBo"
-      },
-      "artists": [
-        {
-          "name": "Teni",
-          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 174812,
-      "name": "Speed",
-      "url": "https://open.spotify.com/track/5NzJQcALCxkwV8BUrFUtDS"
     },
     {
       "added_at": "2025-12-19 00:01:13",
@@ -567,26 +571,22 @@
     {
       "added_at": "2025-12-19 00:01:13",
       "album": {
-        "name": "Happiness (feat. Asake & Gunna)",
-        "url": "https://open.spotify.com/album/0D5fIo40wr5QpfUQ2l26vf"
+        "name": "Speed",
+        "url": "https://open.spotify.com/album/5I386VD2f5rXpvuKwzmxBo"
       },
       "artists": [
         {
-          "name": "Sarz",
-          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
         },
         {
           "name": "Gunna",
           "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 174743,
-      "name": "Happiness (feat. Asake & Gunna)",
-      "url": "https://open.spotify.com/track/6rOqLUy3kp0PVQQEtNPpbQ"
+      "duration_ms": 174812,
+      "name": "Speed",
+      "url": "https://open.spotify.com/track/5NzJQcALCxkwV8BUrFUtDS"
     },
     {
       "added_at": "2025-12-19 00:01:13",
@@ -627,26 +627,22 @@
     {
       "added_at": "2025-12-19 00:01:13",
       "album": {
-        "name": "1 WORK (Remix)",
-        "url": "https://open.spotify.com/album/7yezfWrnSRLPRkHIM0nvls"
+        "name": "Hello Hello",
+        "url": "https://open.spotify.com/album/2MemAGSs6AwHzhHRr4FezH"
       },
       "artists": [
         {
-          "name": "Zhus Jdo",
-          "url": "https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv"
+          "name": "Kashcoming",
+          "url": "https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI"
         },
         {
-          "name": "Famous Pluto",
-          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
-        },
-        {
-          "name": "Smur Lee",
-          "url": "https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A"
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
         }
       ],
-      "duration_ms": 136693,
-      "name": "1 WORK - Remix",
-      "url": "https://open.spotify.com/track/5LDB1Cal2PnHN3Ioy84SdN"
+      "duration_ms": 155789,
+      "name": "Hello Hello",
+      "url": "https://open.spotify.com/track/2Ee6WFlAauCqC241KOe4xq"
     },
     {
       "added_at": "2025-12-19 00:01:13",
@@ -667,22 +663,26 @@
     {
       "added_at": "2025-12-19 00:01:13",
       "album": {
-        "name": "Hello Hello",
-        "url": "https://open.spotify.com/album/2MemAGSs6AwHzhHRr4FezH"
+        "name": "1 WORK (Remix)",
+        "url": "https://open.spotify.com/album/7yezfWrnSRLPRkHIM0nvls"
       },
       "artists": [
         {
-          "name": "Kashcoming",
-          "url": "https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI"
+          "name": "Zhus Jdo",
+          "url": "https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv"
         },
         {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
+        },
+        {
+          "name": "Smur Lee",
+          "url": "https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A"
         }
       ],
-      "duration_ms": 155789,
-      "name": "Hello Hello",
-      "url": "https://open.spotify.com/track/2Ee6WFlAauCqC241KOe4xq"
+      "duration_ms": 136693,
+      "name": "1 WORK - Remix",
+      "url": "https://open.spotify.com/track/5LDB1Cal2PnHN3Ioy84SdN"
     },
     {
       "added_at": "2025-12-19 00:01:13",
@@ -863,6 +863,22 @@
     {
       "added_at": "2025-12-19 00:01:13",
       "album": {
+        "name": "Shakespopi",
+        "url": "https://open.spotify.com/album/3DLGqqI7dfoKvk9EIpwpm4"
+      },
+      "artists": [
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "duration_ms": 172560,
+      "name": "100",
+      "url": "https://open.spotify.com/track/7g1KHFtfJF1Xhp3QNIoEfH"
+    },
+    {
+      "added_at": "2025-12-19 00:01:13",
+      "album": {
         "name": "RnB",
         "url": "https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu"
       },
@@ -899,42 +915,6 @@
       "duration_ms": 172628,
       "name": "Awuke",
       "url": "https://open.spotify.com/track/6e0YUaVAfDxUabmybOjguy"
-    },
-    {
-      "added_at": "2025-12-19 00:01:13",
-      "album": {
-        "name": "Shakespopi",
-        "url": "https://open.spotify.com/album/3DLGqqI7dfoKvk9EIpwpm4"
-      },
-      "artists": [
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        }
-      ],
-      "duration_ms": 172560,
-      "name": "100",
-      "url": "https://open.spotify.com/track/7g1KHFtfJF1Xhp3QNIoEfH"
-    },
-    {
-      "added_at": "2025-12-19 00:01:13",
-      "album": {
-        "name": "Mr Caesar",
-        "url": "https://open.spotify.com/album/0gohIAnWN1vnyFrZbXBzt1"
-      },
-      "artists": [
-        {
-          "name": "Smur Lee",
-          "url": "https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A"
-        },
-        {
-          "name": "Big Fearless",
-          "url": "https://open.spotify.com/artist/6HBrHz0msvztD26a6R4qaO"
-        }
-      ],
-      "duration_ms": 139285,
-      "name": "Mr Caesar",
-      "url": "https://open.spotify.com/track/7K0fqtBIqGvnQXjnbUp6kb"
     },
     {
       "added_at": "2025-12-19 00:01:13",
@@ -995,6 +975,26 @@
     {
       "added_at": "2025-12-19 00:01:13",
       "album": {
+        "name": "Mr Caesar",
+        "url": "https://open.spotify.com/album/0gohIAnWN1vnyFrZbXBzt1"
+      },
+      "artists": [
+        {
+          "name": "Smur Lee",
+          "url": "https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A"
+        },
+        {
+          "name": "Big Fearless",
+          "url": "https://open.spotify.com/artist/6HBrHz0msvztD26a6R4qaO"
+        }
+      ],
+      "duration_ms": 139285,
+      "name": "Mr Caesar",
+      "url": "https://open.spotify.com/track/7K0fqtBIqGvnQXjnbUp6kb"
+    },
+    {
+      "added_at": "2025-12-19 00:01:13",
+      "album": {
         "name": "BENIN BOYS",
         "url": "https://open.spotify.com/album/3xk9IBb6oVwJw28grBKWnT"
       },
@@ -1011,6 +1011,34 @@
       "duration_ms": 169879,
       "name": "BENIN BOYS",
       "url": "https://open.spotify.com/track/5GX1wsJfvSXUobjDJgrVBD"
+    },
+    {
+      "added_at": "2025-12-19 00:01:13",
+      "album": {
+        "name": "Feel D Mood",
+        "url": "https://open.spotify.com/album/0t6AQDnfc459I7m4NebGiv"
+      },
+      "artists": [
+        {
+          "name": "Outsyd DJ",
+          "url": "https://open.spotify.com/artist/0sc02G8bEK5K2jNeevd8II"
+        },
+        {
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
+        },
+        {
+          "name": "Outsyd Eddie",
+          "url": "https://open.spotify.com/artist/34GVjsEo3lNh6lBfcg6cV8"
+        },
+        {
+          "name": "Tega Boi Dc",
+          "url": "https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M"
+        }
+      ],
+      "duration_ms": 133172,
+      "name": "Feel D Mood",
+      "url": "https://open.spotify.com/track/5V24zNpUfkiMx5eWYXXCHN"
     },
     {
       "added_at": "2025-12-19 00:01:13",
@@ -1047,34 +1075,6 @@
       "duration_ms": 149243,
       "name": "If You Leave",
       "url": "https://open.spotify.com/track/2eknBYpfzA4Mp5zWHMGac5"
-    },
-    {
-      "added_at": "2025-12-19 00:01:13",
-      "album": {
-        "name": "Feel D Mood",
-        "url": "https://open.spotify.com/album/0t6AQDnfc459I7m4NebGiv"
-      },
-      "artists": [
-        {
-          "name": "Outsyd DJ",
-          "url": "https://open.spotify.com/artist/0sc02G8bEK5K2jNeevd8II"
-        },
-        {
-          "name": "Famous Pluto",
-          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
-        },
-        {
-          "name": "Outsyd Eddie",
-          "url": "https://open.spotify.com/artist/34GVjsEo3lNh6lBfcg6cV8"
-        },
-        {
-          "name": "Tega Boi Dc",
-          "url": "https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M"
-        }
-      ],
-      "duration_ms": 133172,
-      "name": "Feel D Mood",
-      "url": "https://open.spotify.com/track/5V24zNpUfkiMx5eWYXXCHN"
     },
     {
       "added_at": "2025-12-19 00:01:13",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2025-12-19 00:01:13",
       "album": {
-        "name": "Be There Still",
-        "url": "https://open.spotify.com/album/5VcdmNX0QGqDLPscRygfeL"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 195789,
-      "name": "Be There Still",
-      "url": "https://open.spotify.com/track/5hohPxxNfGRbW0PG2R0mhd"
-    },
-    {
-      "added_at": "2025-12-19 00:01:13",
-      "album": {
         "name": "Giddem",
         "url": "https://open.spotify.com/album/6gcDQQWUvBBKFAwrJrIRGH"
       },
@@ -1351,26 +1335,6 @@
     {
       "added_at": "2025-12-19 00:01:13",
       "album": {
-        "name": "Jujupiano La Presido",
-        "url": "https://open.spotify.com/album/2KeqBy1snU9zaG9zz1ewgg"
-      },
-      "artists": [
-        {
-          "name": "Smur Lee",
-          "url": "https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A"
-        },
-        {
-          "name": "Richiemusic",
-          "url": "https://open.spotify.com/artist/6z955aeEwVArjBleLgPLwG"
-        }
-      ],
-      "duration_ms": 129231,
-      "name": "Jujupiano",
-      "url": "https://open.spotify.com/track/60Rdrz0jHgjziwqpMtgHCk"
-    },
-    {
-      "added_at": "2025-12-19 00:01:13",
-      "album": {
         "name": "RnB",
         "url": "https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu"
       },
@@ -1403,6 +1367,22 @@
       "duration_ms": 168421,
       "name": "Ojapiano",
       "url": "https://open.spotify.com/track/6WZVnqQ9OZRSGZmXyHHlV3"
+    },
+    {
+      "added_at": "2025-12-19 00:01:13",
+      "album": {
+        "name": "Be There Still",
+        "url": "https://open.spotify.com/album/5VcdmNX0QGqDLPscRygfeL"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 195789,
+      "name": "Be There Still",
+      "url": "https://open.spotify.com/track/5hohPxxNfGRbW0PG2R0mhd"
     },
     {
       "added_at": "2025-12-19 00:01:13",
@@ -1443,6 +1423,26 @@
       "duration_ms": 165000,
       "name": "Lifestyle",
       "url": "https://open.spotify.com/track/1iCRehvlN08yk0BWYWUVrD"
+    },
+    {
+      "added_at": "2025-12-19 00:01:13",
+      "album": {
+        "name": "Jujupiano La Presido",
+        "url": "https://open.spotify.com/album/2KeqBy1snU9zaG9zz1ewgg"
+      },
+      "artists": [
+        {
+          "name": "Smur Lee",
+          "url": "https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A"
+        },
+        {
+          "name": "Richiemusic",
+          "url": "https://open.spotify.com/artist/6z955aeEwVArjBleLgPLwG"
+        }
+      ],
+      "duration_ms": 129231,
+      "name": "Jujupiano",
+      "url": "https://open.spotify.com/track/60Rdrz0jHgjziwqpMtgHCk"
     },
     {
       "added_at": "2025-12-19 00:01:13",
@@ -1607,18 +1607,30 @@
     {
       "added_at": "2025-12-19 00:01:13",
       "album": {
-        "name": "Aquafina",
-        "url": "https://open.spotify.com/album/3mMVoC6HJ8mqcq9qd5GmUC"
+        "name": "From The Soil (Deluxe)",
+        "url": "https://open.spotify.com/album/59SDRCS6J3z8NouM1PRHDO"
       },
       "artists": [
         {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+          "name": "Jubed",
+          "url": "https://open.spotify.com/artist/1cRKqHdKhNPTdouuF6HcbC"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        },
+        {
+          "name": "Yemi Alade",
+          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
+        },
+        {
+          "name": "Prince Mk Baagi",
+          "url": "https://open.spotify.com/artist/5XjKFOEIxrR3zRZcVHFYfT"
         }
       ],
-      "duration_ms": 168103,
-      "name": "Aquafina",
-      "url": "https://open.spotify.com/track/59sAr7NvZDeH7oYrkiyZcQ"
+      "duration_ms": 183050,
+      "name": "Ruwa II",
+      "url": "https://open.spotify.com/track/28R9kqOIrgZ088NsPziz9S"
     }
   ],
   "unique_name": "afro-piano",

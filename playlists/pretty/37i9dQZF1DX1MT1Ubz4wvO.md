@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de rock en español\. 📸: Drugos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,896 likes - 49 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,899 likes - 49 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 48 | [Mala suerte](https://open.spotify.com/track/63wiK3BdfqXERZ0wiH7jfc) | [arrecí0](https://open.spotify.com/artist/7q8u6C6inUWxNOA4ZPPxHT) | [Mala suerte](https://open.spotify.com/album/67EJ2Maf6pOhHl1Sy5IRKw) | 2:54 |
 | 49 | [La era artificial](https://open.spotify.com/track/6ZOVMOEXAhqQxyMV8NY43Y) | [Cometa](https://open.spotify.com/artist/58yfk7XJoZidLuHKYK3ZxI) | [La era artificial](https://open.spotify.com/album/7o5A2i2IZKj2gwjqzNRUXD) | 4:16 |
 
-Snapshot ID: `AAAAANiIAOcaWyUyJPYIw6sbshsTYm0q`
+Snapshot ID: `AAAAAECT7ea9nuxhDA5BNK7pS6q5hgAZ`

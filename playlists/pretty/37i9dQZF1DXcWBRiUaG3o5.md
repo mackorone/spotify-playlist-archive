@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 
 > Keep your night easy and light with this acoustic mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,148,450 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,148,292 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 | 7 | [Anyways, I Love You](https://open.spotify.com/track/6VnosvUghW97WXBPTWHDet) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Never Better](https://open.spotify.com/album/6jOix6QfFFmpNXx3to7Sct) | 3:46 |
 | 8 | [Here with Me](https://open.spotify.com/track/6IF2P93LkyW4GqDQu1yS7H) | [Susie Suh](https://open.spotify.com/artist/6zDFhpdu4WUVVGTz0JSLMh), [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI) | [Here with Me](https://open.spotify.com/album/4pdMeK0Lb79nwLFGqholxm) | 3:58 |
 | 9 | [Everyone's A Winner](https://open.spotify.com/track/0Gf2hEQEVBcwgy40JyO9LK) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [This Is Really Going To Hurt](https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0) | 3:29 |
-| 10 | [I'll Be out Here](https://open.spotify.com/track/7tkOm1ZNcIg4lKu0XCQgCq) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf) | [Mick Flannery](https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls) | 3:22 |
+| 10 | [Song For The Thankful](https://open.spotify.com/track/2nYnAcwmnOe4zr4WVmIefC) | [Avi Kaplan](https://open.spotify.com/artist/179MtpbgyNgeNnwNVqnn4p) | [Song For The Thankful](https://open.spotify.com/album/0Q1YKEQ4XgNjQm5B31YjHM) | 3:54 |
 | 11 | [Machines](https://open.spotify.com/track/5mpLws6etPwTax7PedZc1V) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Are You Happy Now?](https://open.spotify.com/album/5NaLnnKsTGdzPuSZceQpa9) | 4:31 |
-| 12 | [Song For The Thankful](https://open.spotify.com/track/2nYnAcwmnOe4zr4WVmIefC) | [Avi Kaplan](https://open.spotify.com/artist/179MtpbgyNgeNnwNVqnn4p) | [Song For The Thankful](https://open.spotify.com/album/0Q1YKEQ4XgNjQm5B31YjHM) | 3:54 |
+| 12 | [I'll Be out Here](https://open.spotify.com/track/7tkOm1ZNcIg4lKu0XCQgCq) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf) | [Mick Flannery](https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls) | 3:22 |
 | 13 | [Drinking Song](https://open.spotify.com/track/5KkoM9rbevlWf8EePOrwfS) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [I Need to Start a Garden](https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B) | 3:15 |
 | 14 | [Doomsday](https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Doomsday](https://open.spotify.com/album/5U3mu1u7g2igAERT5ZDLTF) | 3:09 |
 | 15 | [Nothing’s Gonna Happen](https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl) | 3:36 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 | 41 | [Dancefloor](https://open.spotify.com/track/2jcGfz4bpHaOCvrcd9IHn9) | [Mary Glenn](https://open.spotify.com/artist/2ffB2Wk1UD0wQ7fJZDXEH0) | [Mary Glenn](https://open.spotify.com/album/3mqZniFwoADxKEz4QETQTR) | 5:22 |
 | 42 | [Maybe Tomorrow](https://open.spotify.com/track/7xObdqm0oTTUyerRM4EB1N) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Maybe Tomorrow](https://open.spotify.com/album/5UfmWpaxxhLd6f0ZdKnHaT) | 3:45 |
 | 43 | [Wild Parts](https://open.spotify.com/track/3RG5SUMbOTOEaQoOuCBSgG) | [Maddie Medley](https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3) | [Wild Parts](https://open.spotify.com/album/7kTYlYTFHfIrL9kplUnRam) | 3:59 |
-| 44 | [Soft Line](https://open.spotify.com/track/34UBnCWhUMlGEsMr8MfenE) | [Lucy Wainwright Roche](https://open.spotify.com/artist/7wozU91V443wj9l0YlISmE) | [Little Beast](https://open.spotify.com/album/3Ni8Q9514Uxct5WoI2dLyh) | 4:19 |
-| 45 | [Resin](https://open.spotify.com/track/2uzItOYNxVizwKjXELbVdv) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [Last Line](https://open.spotify.com/album/3WO6fZZkHAVj9F0kMfQ6SU) | 3:23 |
+| 44 | [Resin](https://open.spotify.com/track/2uzItOYNxVizwKjXELbVdv) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [Last Line](https://open.spotify.com/album/3WO6fZZkHAVj9F0kMfQ6SU) | 3:23 |
+| 45 | [Soft Line](https://open.spotify.com/track/34UBnCWhUMlGEsMr8MfenE) | [Lucy Wainwright Roche](https://open.spotify.com/artist/7wozU91V443wj9l0YlISmE) | [Little Beast](https://open.spotify.com/album/3Ni8Q9514Uxct5WoI2dLyh) | 4:19 |
 | 46 | [Waiting](https://open.spotify.com/track/5vnEI7lOTPqulXqBuV7o3w) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Waiting](https://open.spotify.com/album/1mtoKw1qiU13YdQkz5vgEe) | 3:32 |
 | 47 | [Hummingbird](https://open.spotify.com/track/2eZZZSbd7OQ6g2m9ww9MXH) | [John Smith](https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2) | [Hummingbird](https://open.spotify.com/album/3E5U6w1a0Zw9BDFAzo3giD) | 5:17 |
 | 48 | [Ain't No Grave \(Sparse\)](https://open.spotify.com/track/2aSP07jHAlACdY9tphgkA8) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Ain't No Grave](https://open.spotify.com/album/599qJxheGI6EVVZE2LD2nj) | 3:18 |
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 | 51 | [Patchwork Heart](https://open.spotify.com/track/3ZfHhFVluSjgm9CNyuRvfp) | [Justin Wade Tam](https://open.spotify.com/artist/2kxKYNPzruEZEDD7ccBrLi) | [Patchwork Heart](https://open.spotify.com/album/74fsUTkt92NugL0NSAN9Wk) | 3:59 |
 | 52 | [The Bells](https://open.spotify.com/track/0Lrw2If9v68OrhrOw1FV3C) | [From Indian Lakes](https://open.spotify.com/artist/3YvQkjWJ5ykJVUNP7YbTy9) | [Acoustic EP](https://open.spotify.com/album/7qrefGYj0VGyK601YKgxsx) | 4:44 |
 | 53 | [Ballroom](https://open.spotify.com/track/5cJukjG0TQDW3sfW5d7NO2) | [Mary Glenn](https://open.spotify.com/artist/2ffB2Wk1UD0wQ7fJZDXEH0) | [Mary Glenn](https://open.spotify.com/album/3mqZniFwoADxKEz4QETQTR) | 4:06 |
-| 54 | [Wilderness](https://open.spotify.com/track/2qw3TJxd8Wn2ZVGHkf8YaW) | [Maya De Vitry](https://open.spotify.com/artist/183NiypM74rwjSbeava1pq) | [Adaptations](https://open.spotify.com/album/75KCEmU9IxlwClwPnM4KEC) | 3:26 |
-| 55 | [I Should Live in Salt \- The National Cover \- Live from Spotify, London](https://open.spotify.com/track/1LF3VWJhOqD2VuuruLMSmu) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Spotify Live](https://open.spotify.com/album/315m5F9Xqwhfptakbs0fG8) | 4:12 |
+| 54 | [I Should Live in Salt \- The National Cover \- Live from Spotify, London](https://open.spotify.com/track/1LF3VWJhOqD2VuuruLMSmu) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Spotify Live](https://open.spotify.com/album/315m5F9Xqwhfptakbs0fG8) | 4:12 |
+| 55 | [Wilderness](https://open.spotify.com/track/2qw3TJxd8Wn2ZVGHkf8YaW) | [Maya De Vitry](https://open.spotify.com/artist/183NiypM74rwjSbeava1pq) | [Adaptations](https://open.spotify.com/album/75KCEmU9IxlwClwPnM4KEC) | 3:26 |
 | 56 | [I Wish I Knew](https://open.spotify.com/track/4s0mvp3ewGOiPt4Ie8wGBt) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [I Wish I Knew](https://open.spotify.com/album/55MEStsCnRChtFW0bCnz1N) | 3:49 |
 | 57 | [Some Kind of Heaven](https://open.spotify.com/track/2lObD7vBRT6ZjyORWDIzLD) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Some Kind of Heaven](https://open.spotify.com/album/6XeaMbpgFQXOvE0QtQOIhH) | 5:10 |
-| 58 | [Millionaire](https://open.spotify.com/track/3NTgl4lHbIJw8p3bDanEa0) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Granny Music](https://open.spotify.com/album/725p6TJKBuQ5CPK6pT9S2Q) | 3:34 |
-| 59 | [Let's Go Outside \- Campfire Version](https://open.spotify.com/track/6TTY6RUXmtl8VgKzm5szBO) | [The National Parks](https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6) | [Campfire, Vol\. 1](https://open.spotify.com/album/5iAggKoFENKm9glKjYBivz) | 3:25 |
+| 58 | [Let's Go Outside \- Campfire Version](https://open.spotify.com/track/6TTY6RUXmtl8VgKzm5szBO) | [The National Parks](https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6) | [Campfire, Vol\. 1](https://open.spotify.com/album/5iAggKoFENKm9glKjYBivz) | 3:25 |
+| 59 | [Millionaire](https://open.spotify.com/track/3NTgl4lHbIJw8p3bDanEa0) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Granny Music](https://open.spotify.com/album/725p6TJKBuQ5CPK6pT9S2Q) | 3:34 |
 | 60 | [Smoke \- Acoustic](https://open.spotify.com/track/5ND2EmYyhWRJq6iCdENkgZ) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [There's Always Glimmer \(Deluxe Version\)](https://open.spotify.com/album/3tWAl6LlBWM46Ck9bA9A6y) | 2:32 |
 | 61 | [The Last Time I Saw Adrianne](https://open.spotify.com/track/3wmyO7epB7HGP2HOsAWtPW) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [The Wilds](https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA) | 3:36 |
 | 62 | [The Wolves \(Reprise\)](https://open.spotify.com/track/4o9p6bikPh105sEZLM3OzK) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [The Breach EP](https://open.spotify.com/album/62rRQnbxkzsFxFYHQSXSwR) | 4:30 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > TEED delivers his gorgeous new album 🦕 all the best indie dance tracks of the moment
 
-[Spotify](https://open.spotify.com/user/spotify) - 878,441 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 878,372 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 99 | [Stars Above](https://open.spotify.com/track/36vtpWkQyA2wTxkH8taIHg) | [Swoosh](https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG), [bad tuner](https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm) | [Stars Above](https://open.spotify.com/album/2fg5mQkGQRT3ELk0KZeu6B) | 3:10 |
 | 100 | [Sailing Away](https://open.spotify.com/track/6LkwvXgYfM5qoW198vlIn8) | [Antoine Bourachot](https://open.spotify.com/artist/24bH0ZMlrOkri5XncEL7Oy) | [Sailing Away](https://open.spotify.com/album/0l13ZlBmEjGIGRjzToTiSn) | 4:41 |
 
-Snapshot ID: `AAAAAO2TdexZCXjW6skO+1UhNKtap0yZ`
+Snapshot ID: `AAAAAOTZqKa8AZYJfwUSXqtHJjDt+hHk`

@@ -4,7 +4,7 @@
 
 > Where afrobeats meets amapiano.<br/>Cover:  TxC
 
-115 songs - 5 hr 41 min
+116 songs - 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Afa Kennedy](https://open.spotify.com/track/1cPjMTC13YffZgEKpGjTTK) | [Outsyd Eddie](https://open.spotify.com/artist/34GVjsEo3lNh6lBfcg6cV8), [JNR ELDER](https://open.spotify.com/artist/0UmWf1Lbo9fIxboAMdBxnx), [Outsyd DJ](https://open.spotify.com/artist/0sc02G8bEK5K2jNeevd8II) | [Afa Kennedy](https://open.spotify.com/album/5q2Cvu4srKnEaGchcNW6hx) | 2:36 | 2025-10-24 | 2025-11-24 |
 | [AMA](https://open.spotify.com/track/5lSDdHPmeqsDJcqiMYtUHN) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [FUJI MOTO](https://open.spotify.com/album/0hFlRO0BYOF3WySD9jEhMT) | 2:37 | 2025-11-14 |  |
 | [APALA DISCO](https://open.spotify.com/track/1SiBHQQkkySXWZfARVr6Pz) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Terry Apala](https://open.spotify.com/artist/0lHE0lpGvHJWcbieicn5wM) | [APALA DISCO](https://open.spotify.com/album/1ROJjosRKvnMA5nz06c2jX) | 5:01 | 2025-12-05 | 2025-12-19 |
-| [Aquafina](https://open.spotify.com/track/59sAr7NvZDeH7oYrkiyZcQ) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Aquafina](https://open.spotify.com/album/3mMVoC6HJ8mqcq9qd5GmUC) | 2:48 | 2025-12-05 |  |
+| [Aquafina](https://open.spotify.com/track/59sAr7NvZDeH7oYrkiyZcQ) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Aquafina](https://open.spotify.com/album/3mMVoC6HJ8mqcq9qd5GmUC) | 2:48 | 2025-12-05 | 2025-12-29 |
 | [Awuke](https://open.spotify.com/track/6e0YUaVAfDxUabmybOjguy) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [Awuke](https://open.spotify.com/album/6t9A9CaPsaknVT4WgCPuXL) | 2:52 | 2025-10-24 |  |
 | [Back Outside](https://open.spotify.com/track/3AmcpUoHdrnK7NfhPTG7QE) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM) | [Full Time Job](https://open.spotify.com/album/0VtcGxV1o8WCUz7YBX3EtX) | 3:05 | 2025-10-24 |  |
 | [Back to Back](https://open.spotify.com/track/2qdwZPTNCHb8DXfQin53WK) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [Back to Back](https://open.spotify.com/album/0BmVStHOqEVBwsxVO1H1Cj) | 2:26 | 2025-10-24 |  |
@@ -106,6 +106,7 @@
 | [Puff & Pass \(Remix\)](https://open.spotify.com/track/7CIhImlbs2RtT58oKnvROT) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Puff & Pass \(Remix\)](https://open.spotify.com/album/6FFmkwtLjXZm8jTKUsxp5p) | 2:41 | 2025-10-24 |  |
 | [Ring](https://open.spotify.com/track/1uREOYREV020F3QOGENSMI) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [Ring](https://open.spotify.com/album/3rlRxf9KHAJ1OWjRbCQ5vg) | 2:35 | 2025-10-24 |  |
 | [Run](https://open.spotify.com/track/08LjUrT7qr7yCxilesFIyU) | [Monaky](https://open.spotify.com/artist/3pUdWI84GUyM40TiEKXR6Q) | [ZaZa Fest](https://open.spotify.com/album/5cVnPrNQ4UZm2mniwOR9mu) | 2:20 | 2025-11-21 | 2025-12-05 |
+| [Ruwa II](https://open.spotify.com/track/28R9kqOIrgZ088NsPziz9S) | [Jubed](https://open.spotify.com/artist/1cRKqHdKhNPTdouuF6HcbC), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW), [Prince Mk Baagi](https://open.spotify.com/artist/5XjKFOEIxrR3zRZcVHFYfT) | [From The Soil \(Deluxe\)](https://open.spotify.com/album/59SDRCS6J3z8NouM1PRHDO) | 3:03 | 2025-12-19 |  |
 | [Seedy](https://open.spotify.com/track/1fIvn2nWi30rf1a7aBPNXZ) | [Chella](https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI) | [CHELLA CHANT](https://open.spotify.com/album/51Ges1TwmyOb5ZTThiIjlA) | 2:15 | 2025-11-28 |  |
 | [Shakabulizzy](https://open.spotify.com/track/1Yf58S4QQwxqYSJZm5JxmA) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Shakabulizzy](https://open.spotify.com/album/3C9TWb7MPEM0gOJOmEk54s) | 2:45 | 2025-10-24 |  |
 | [Shona Phantsi / On Da Floor](https://open.spotify.com/track/0F4NG5PvVdTMB5YV4j0fQa) | [CIZA](https://open.spotify.com/artist/71hPkbyih5bdlHVPBgav33), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [ZVRI](https://open.spotify.com/artist/1or4sxcSSFThb2p8VuK8Sn), [Ney The Bae](https://open.spotify.com/artist/2ejPIS2ocEAjCNhqkEtblo), [Smilo](https://open.spotify.com/artist/23l0XAl8H66TddrdGFVYQL) | [Shona Phantsi / On Da Floor](https://open.spotify.com/album/2cM4DYlvErJdKVeQcEPKlG) | 5:57 | 2025-12-05 |  |

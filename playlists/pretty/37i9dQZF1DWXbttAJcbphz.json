@@ -1,6 +1,6 @@
 {
   "description": "The most essential R&B songs from the 2010s. Cover: Summer Walker",
-  "num_followers": 1771133,
+  "num_followers": 1771339,
   "original_name": "I Love My '10s R&B",
   "owner": {
     "name": "Spotify",
@@ -265,6 +265,22 @@
       "url": "https://open.spotify.com/track/5tqZJUHEuqdN12RZVq2l9p"
     },
     {
+      "added_at": "2020-10-02 17:39:19",
+      "album": {
+        "name": "Views",
+        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 267066,
+      "name": "Hotline Bling",
+      "url": "https://open.spotify.com/track/0wwPcA6wtMf6HUMpIRdeP7"
+    },
+    {
       "added_at": "2022-08-21 21:13:22",
       "album": {
         "name": "Aquarius",
@@ -283,22 +299,6 @@
       "duration_ms": 227000,
       "name": "2 On (feat. ScHoolboy Q)",
       "url": "https://open.spotify.com/track/3jVtllWS5CFFWLQng8sKsr"
-    },
-    {
-      "added_at": "2020-10-02 17:39:19",
-      "album": {
-        "name": "Views",
-        "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 267066,
-      "name": "Hotline Bling",
-      "url": "https://open.spotify.com/track/0wwPcA6wtMf6HUMpIRdeP7"
     },
     {
       "added_at": "2022-08-21 21:13:22",
@@ -519,22 +519,6 @@
     {
       "added_at": "2022-08-21 21:13:22",
       "album": {
-        "name": "What You Heard",
-        "url": "https://open.spotify.com/album/10WCcQKzXZot04kzENu62Z"
-      },
-      "artists": [
-        {
-          "name": "Sonder",
-          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
-        }
-      ],
-      "duration_ms": 238242,
-      "name": "What You Heard",
-      "url": "https://open.spotify.com/track/3a3dQOO19moXPeTt2PomoT"
-    },
-    {
-      "added_at": "2022-08-21 21:13:22",
-      "album": {
         "name": "Ctrl",
         "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 231257,
       "name": "Broken Clocks",
       "url": "https://open.spotify.com/track/2fXwCWkh6YG5zU1IyvQrbs"
+    },
+    {
+      "added_at": "2022-08-21 21:13:22",
+      "album": {
+        "name": "What You Heard",
+        "url": "https://open.spotify.com/album/10WCcQKzXZot04kzENu62Z"
+      },
+      "artists": [
+        {
+          "name": "Sonder",
+          "url": "https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW"
+        }
+      ],
+      "duration_ms": 238242,
+      "name": "What You Heard",
+      "url": "https://open.spotify.com/track/3a3dQOO19moXPeTt2PomoT"
     },
     {
       "added_at": "2022-08-21 21:13:22",
@@ -835,22 +835,6 @@
     {
       "added_at": "2020-10-02 17:39:19",
       "album": {
-        "name": "Ctrl",
-        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 272193,
-      "name": "The Weekend",
-      "url": "https://open.spotify.com/track/6gU9OKjOE7ghfEd55oRO57"
-    },
-    {
-      "added_at": "2020-10-02 17:39:19",
-      "album": {
         "name": "BEYONC\u00c9 [Platinum Edition]",
         "url": "https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 323480,
       "name": "Drunk in Love (feat. JAY-Z)",
       "url": "https://open.spotify.com/track/6jG2YzhxptolDzLHTGLt7S"
+    },
+    {
+      "added_at": "2020-10-02 17:39:19",
+      "album": {
+        "name": "Ctrl",
+        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 272193,
+      "name": "The Weekend",
+      "url": "https://open.spotify.com/track/6gU9OKjOE7ghfEd55oRO57"
     },
     {
       "added_at": "2020-10-02 17:39:19",
@@ -1147,26 +1147,6 @@
     {
       "added_at": "2020-10-02 17:39:19",
       "album": {
-        "name": "Free Spirit",
-        "url": "https://open.spotify.com/album/6KT8x5oqZJl9CcnM66hddo"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        },
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        }
-      ],
-      "duration_ms": 197573,
-      "name": "Talk (feat. Disclosure)",
-      "url": "https://open.spotify.com/track/6TqXcAFInzjp0bODyvrWEq"
-    },
-    {
-      "added_at": "2020-10-02 17:39:19",
-      "album": {
         "name": "Here I Am (Deluxe Version)",
         "url": "https://open.spotify.com/album/673D6VTmxJquUg31Wq1j0S"
       },
@@ -1183,6 +1163,26 @@
       "duration_ms": 230560,
       "name": "Motivation",
       "url": "https://open.spotify.com/track/6rbhWExtuchhpLC5fHnB8n"
+    },
+    {
+      "added_at": "2020-10-02 17:39:19",
+      "album": {
+        "name": "Free Spirit",
+        "url": "https://open.spotify.com/album/6KT8x5oqZJl9CcnM66hddo"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "duration_ms": 197573,
+      "name": "Talk (feat. Disclosure)",
+      "url": "https://open.spotify.com/track/6TqXcAFInzjp0bODyvrWEq"
     },
     {
       "added_at": "2022-08-21 21:13:22",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2022-08-21 21:13:22",
       "album": {
-        "name": "Ctrl",
-        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
+        "name": "Sailing Soul(s)",
+        "url": "https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim"
       },
       "artists": [
         {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
         }
       ],
-      "duration_ms": 198160,
-      "name": "20 Something",
-      "url": "https://open.spotify.com/track/4h6ViRoztTBpWcJ1zFT9Zg"
+      "duration_ms": 241773,
+      "name": "my mine",
+      "url": "https://open.spotify.com/track/2B8Y5LaNSEkuB3LA9okArd"
     },
     {
       "added_at": "2022-08-21 21:13:22",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2022-08-21 21:13:22",
       "album": {
-        "name": "Sailing Soul(s)",
-        "url": "https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim"
+        "name": "Ctrl",
+        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
       },
       "artists": [
         {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 241773,
-      "name": "my mine",
-      "url": "https://open.spotify.com/track/2B8Y5LaNSEkuB3LA9okArd"
+      "duration_ms": 198160,
+      "name": "20 Something",
+      "url": "https://open.spotify.com/track/4h6ViRoztTBpWcJ1zFT9Zg"
     },
     {
       "added_at": "2020-10-02 17:39:19",

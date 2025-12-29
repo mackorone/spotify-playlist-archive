@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pbeEjdF4tQ.md) - [plain]
 
 > Super mega hits of 2025! Foto: Taylor Swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,281 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,343 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmr8GM6X0hs.md) - [plain]
 
 > El inolvidable sonido del amor nunca había estado tan cerca de ti.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,751 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,775 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmr8GM6X0hs.md) - [plain]
 | 40 | [Ese Bolero Es Mío](https://open.spotify.com/track/37gfxVderzFMP4zRiFdSPa) | [Felipe Pirela](https://open.spotify.com/artist/6PbZObu8NuIhiU6L0OzkZN) | [El Bolerista De América](https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT) | 2:53 |
 | 41 | [La Última Copa](https://open.spotify.com/track/7JtkNGrjQcIH972Ij06TYb) | [Daniel Santos](https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2) | [Daniel Santos](https://open.spotify.com/album/6f9UqC7zgujSSLTW5fMmkc) | 2:01 |
 | 42 | [Si No Estás para Mi](https://open.spotify.com/track/3hGqPor9JKVGAMn2GSHyfn) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Aguerrida](https://open.spotify.com/album/45WFleOFs1vRsZ6M3ba1W6) | 3:26 |
-| 43 | [Busco Tu Recuerdo](https://open.spotify.com/track/2GGnD1MQHcIzFqaSuVoNLh) | [Charlie Figueroa](https://open.spotify.com/artist/775LHjObPigWuiQn78ojJS), [La Sonora Malecón Club](https://open.spotify.com/artist/54X5g4szxWMk0W8gIAxCTJ) | [Mis Mejores Éxitos](https://open.spotify.com/album/55TCdVzDnHXf8lYKV72V7u) | 2:42 |
-| 44 | [Kio](https://open.spotify.com/track/3ns4FKqAax76kulOxWSZdC) | [Pedrito Otiniano](https://open.spotify.com/artist/6wRjkV95z5xfzG7Yd9eOvG) | [Pedrito Otiniano y Sus Exitos](https://open.spotify.com/album/37tYAxmi3FWqBFjVl46F75) | 2:51 |
+| 43 | [Kio](https://open.spotify.com/track/3ns4FKqAax76kulOxWSZdC) | [Pedrito Otiniano](https://open.spotify.com/artist/6wRjkV95z5xfzG7Yd9eOvG) | [Pedrito Otiniano y Sus Exitos](https://open.spotify.com/album/37tYAxmi3FWqBFjVl46F75) | 2:51 |
+| 44 | [Busco Tu Recuerdo](https://open.spotify.com/track/2GGnD1MQHcIzFqaSuVoNLh) | [Charlie Figueroa](https://open.spotify.com/artist/775LHjObPigWuiQn78ojJS), [La Sonora Malecón Club](https://open.spotify.com/artist/54X5g4szxWMk0W8gIAxCTJ) | [Mis Mejores Éxitos](https://open.spotify.com/album/55TCdVzDnHXf8lYKV72V7u) | 2:42 |
 | 45 | [El mago y la publicidad](https://open.spotify.com/track/1dYQvx0h201E8yoDtVfpRJ) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk), [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [El mago y la publicidad](https://open.spotify.com/album/49QkpDAcrh01KUfKqljh1o) | 2:20 |
 | 46 | [Trompo de Juguete](https://open.spotify.com/track/26YLEP0iOR8C8Ub38m7je1) | [Nacho Sanabria](https://open.spotify.com/artist/78JOr5y1zeRRDqcIJWmw4G) | [14 Grandes Exitos de Nacho Sanabria](https://open.spotify.com/album/7MkZgWtVL5mhtSASyFB51T) | 4:25 |
 | 47 | [Cruel Condena](https://open.spotify.com/track/5AQ5R9Aub1g5b8ZGapJtSX) | [Franklin Cabrejos](https://open.spotify.com/artist/2P2hO7D86NyPtMfxThbisN) | [Grandes del Bolero](https://open.spotify.com/album/0tazysjvIraPaJRG2StAjw) | 2:49 |

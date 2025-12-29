@@ -1,6 +1,6 @@
 {
   "description": "Classic rock to get your motor running. Cover: AC/DC",
-  "num_followers": 1240413,
+  "num_followers": 1240652,
   "original_name": "Classic Rock Drive",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2021-03-02 18:13:49",
       "album": {
-        "name": "Pronounced' Leh-'Nerd 'Skin-'Nerd",
-        "url": "https://open.spotify.com/album/6DExt1eX4lflLacVjHHbOs"
-      },
-      "artists": [
-        {
-          "name": "Lynyrd Skynyrd",
-          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
-        }
-      ],
-      "duration_ms": 356626,
-      "name": "Simple Man",
-      "url": "https://open.spotify.com/track/1ju7EsSGvRybSNEsRvc7qY"
-    },
-    {
-      "added_at": "2021-03-02 18:13:49",
-      "album": {
         "name": "Boston",
         "url": "https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 285133,
       "name": "More Than a Feeling",
       "url": "https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF"
+    },
+    {
+      "added_at": "2021-03-02 18:13:49",
+      "album": {
+        "name": "Pronounced' Leh-'Nerd 'Skin-'Nerd",
+        "url": "https://open.spotify.com/album/6DExt1eX4lflLacVjHHbOs"
+      },
+      "artists": [
+        {
+          "name": "Lynyrd Skynyrd",
+          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
+        }
+      ],
+      "duration_ms": 356626,
+      "name": "Simple Man",
+      "url": "https://open.spotify.com/track/1ju7EsSGvRybSNEsRvc7qY"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -601,22 +601,6 @@
       "url": "https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f"
     },
     {
-      "added_at": "2024-03-26 13:19:07",
-      "album": {
-        "name": "Toys In The Attic",
-        "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 274088,
-      "name": "Sweet Emotion",
-      "url": "https://open.spotify.com/track/73TxYZd0lBCVRrHawrAglA"
-    },
-    {
       "added_at": "2021-03-02 18:13:49",
       "album": {
         "name": "Night Moves",
@@ -631,6 +615,22 @@
       "duration_ms": 324422,
       "name": "Night Moves",
       "url": "https://open.spotify.com/track/6UBjSnyP1O5W5ndJoO9vUk"
+    },
+    {
+      "added_at": "2024-03-26 13:19:07",
+      "album": {
+        "name": "Toys In The Attic",
+        "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 274088,
+      "name": "Sweet Emotion",
+      "url": "https://open.spotify.com/track/73TxYZd0lBCVRrHawrAglA"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -911,22 +911,6 @@
     {
       "added_at": "2021-03-02 18:13:49",
       "album": {
-        "name": "4 (Expanded)",
-        "url": "https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu"
-      },
-      "artists": [
-        {
-          "name": "Foreigner",
-          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
-        }
-      ],
-      "duration_ms": 259799,
-      "name": "Juke Box Hero",
-      "url": "https://open.spotify.com/track/00qOE7OjRl0BpYiCiweZB2"
-    },
-    {
-      "added_at": "2021-03-02 18:13:49",
-      "album": {
         "name": "Slowhand 35th Anniversary",
         "url": "https://open.spotify.com/album/0GBrlPh90D25SQ6EJu4VtT"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 221640,
       "name": "Cocaine",
       "url": "https://open.spotify.com/track/2udGjDmpK1dH9VGyw7nrei"
+    },
+    {
+      "added_at": "2021-03-02 18:13:49",
+      "album": {
+        "name": "4 (Expanded)",
+        "url": "https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu"
+      },
+      "artists": [
+        {
+          "name": "Foreigner",
+          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
+        }
+      ],
+      "duration_ms": 259799,
+      "name": "Juke Box Hero",
+      "url": "https://open.spotify.com/track/00qOE7OjRl0BpYiCiweZB2"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2021-03-02 18:13:49",
       "album": {
-        "name": "Pieces Of Eight",
-        "url": "https://open.spotify.com/album/294yFGYq9SBXWR4g6dK63D"
-      },
-      "artists": [
-        {
-          "name": "Styx",
-          "url": "https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh"
-        }
-      ],
-      "duration_ms": 257226,
-      "name": "Renegade",
-      "url": "https://open.spotify.com/track/1CQqupcyMg7176PPmIVmSj"
-    },
-    {
-      "added_at": "2021-03-02 18:13:49",
-      "album": {
         "name": "American Fool",
         "url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 218960,
       "name": "Hurts So Good",
       "url": "https://open.spotify.com/track/67eX1ovaHyVPUinMHeUtIM"
+    },
+    {
+      "added_at": "2021-03-02 18:13:49",
+      "album": {
+        "name": "Pieces Of Eight",
+        "url": "https://open.spotify.com/album/294yFGYq9SBXWR4g6dK63D"
+      },
+      "artists": [
+        {
+          "name": "Styx",
+          "url": "https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh"
+        }
+      ],
+      "duration_ms": 257226,
+      "name": "Renegade",
+      "url": "https://open.spotify.com/track/1CQqupcyMg7176PPmIVmSj"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2021-03-02 18:13:49",
       "album": {
-        "name": "Van Halen (Remastered)",
-        "url": "https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ"
+        "name": "The Second",
+        "url": "https://open.spotify.com/album/2Y5GORWYwVAZ8msuEuh5FN"
       },
       "artists": [
         {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+          "name": "Steppenwolf",
+          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
         }
       ],
-      "duration_ms": 214960,
-      "name": "Runnin' with the Devil - 2015 Remaster",
-      "url": "https://open.spotify.com/track/3KhF2YiNpJvGpfiCW45R6D"
+      "duration_ms": 271573,
+      "name": "Magic Carpet Ride",
+      "url": "https://open.spotify.com/track/4c4jJJoaiY21t2TyRZgdWS"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -1311,34 +1311,18 @@
     {
       "added_at": "2021-03-02 18:13:49",
       "album": {
-        "name": "The Second",
-        "url": "https://open.spotify.com/album/2Y5GORWYwVAZ8msuEuh5FN"
+        "name": "Van Halen (Remastered)",
+        "url": "https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ"
       },
       "artists": [
         {
-          "name": "Steppenwolf",
-          "url": "https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m"
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
         }
       ],
-      "duration_ms": 271573,
-      "name": "Magic Carpet Ride",
-      "url": "https://open.spotify.com/track/4c4jJJoaiY21t2TyRZgdWS"
-    },
-    {
-      "added_at": "2021-03-02 18:13:49",
-      "album": {
-        "name": "Damn The Torpedoes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 201693,
-      "name": "Refugee",
-      "url": "https://open.spotify.com/track/4mcZYzoGwPRDdhWVlygiHf"
+      "duration_ms": 214960,
+      "name": "Runnin' with the Devil - 2015 Remaster",
+      "url": "https://open.spotify.com/track/3KhF2YiNpJvGpfiCW45R6D"
     },
     {
       "added_at": "2022-04-08 19:07:59",
@@ -1359,18 +1343,18 @@
     {
       "added_at": "2021-03-02 18:13:49",
       "album": {
-        "name": "1984 (Remastered)",
-        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
+        "name": "Damn The Torpedoes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
       },
       "artists": [
         {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 282746,
-      "name": "Hot for Teacher - 2015 Remaster",
-      "url": "https://open.spotify.com/track/6QDbGdbJ57Mtkflsg42WV5"
+      "duration_ms": 201693,
+      "name": "Refugee",
+      "url": "https://open.spotify.com/track/4mcZYzoGwPRDdhWVlygiHf"
     },
     {
       "added_at": "2022-06-29 15:35:49",
@@ -1403,6 +1387,22 @@
       "duration_ms": 223613,
       "name": "Go Your Own Way - 2004 Remaster",
       "url": "https://open.spotify.com/track/4xh7W7tlNMIczFhupCPniY"
+    },
+    {
+      "added_at": "2021-03-02 18:13:49",
+      "album": {
+        "name": "1984 (Remastered)",
+        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 282746,
+      "name": "Hot for Teacher - 2015 Remaster",
+      "url": "https://open.spotify.com/track/6QDbGdbJ57Mtkflsg42WV5"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2021-03-02 18:13:49",
       "album": {
-        "name": "Reservoir Dogs (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4pFfvZt1riTaIWzkHFfmsF"
-      },
-      "artists": [
-        {
-          "name": "Stealers Wheel",
-          "url": "https://open.spotify.com/artist/7bPU7cvfoD20ixGD9Qnqki"
-        }
-      ],
-      "duration_ms": 203893,
-      "name": "Stuck In The Middle With You",
-      "url": "https://open.spotify.com/track/1b7LMtXCXGc2EwOIplI35z"
-    },
-    {
-      "added_at": "2021-03-02 18:13:49",
-      "album": {
         "name": "Electric Warrior [Expanded & Remastered]",
         "url": "https://open.spotify.com/album/6k1iylSzWOs7SgavxlJ8kt"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 267000,
       "name": "Bang a Gong (Get It On) - 2003 Remaster",
       "url": "https://open.spotify.com/track/6FsQrRpBLgsrFeAeiQqytm"
+    },
+    {
+      "added_at": "2021-03-02 18:13:49",
+      "album": {
+        "name": "Reservoir Dogs (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4pFfvZt1riTaIWzkHFfmsF"
+      },
+      "artists": [
+        {
+          "name": "Stealers Wheel",
+          "url": "https://open.spotify.com/artist/7bPU7cvfoD20ixGD9Qnqki"
+        }
+      ],
+      "duration_ms": 203893,
+      "name": "Stuck In The Middle With You",
+      "url": "https://open.spotify.com/track/1b7LMtXCXGc2EwOIplI35z"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -1837,22 +1837,6 @@
       "url": "https://open.spotify.com/track/3L60Vu9qmY6fg2QroRIxgi"
     },
     {
-      "added_at": "2021-03-02 18:13:49",
-      "album": {
-        "name": "Dressed To Kill",
-        "url": "https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 168840,
-      "name": "Rock And Roll All Nite",
-      "url": "https://open.spotify.com/track/6KTv0Z8BmVqM7DPxbGzpVC"
-    },
-    {
       "added_at": "2022-04-08 19:07:59",
       "album": {
         "name": "Boston",
@@ -1867,6 +1851,22 @@
       "duration_ms": 261385,
       "name": "Smokin'",
       "url": "https://open.spotify.com/track/5u5qlnyVaewWugJIjzilIc"
+    },
+    {
+      "added_at": "2021-03-02 18:13:49",
+      "album": {
+        "name": "Dressed To Kill",
+        "url": "https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 168840,
+      "name": "Rock And Roll All Nite",
+      "url": "https://open.spotify.com/track/6KTv0Z8BmVqM7DPxbGzpVC"
     },
     {
       "added_at": "2022-06-08 19:19:44",
@@ -2077,10 +2077,10 @@
       "url": "https://open.spotify.com/track/5aYVqxyetmT5OYmvZCA90X"
     },
     {
-      "added_at": "2021-03-02 18:13:49",
+      "added_at": "2022-06-08 19:19:44",
       "album": {
-        "name": "The Long Versions - Part One",
-        "url": "https://open.spotify.com/album/2qZLEQ9KsfExIhQKJF3VkD"
+        "name": "Moontan",
+        "url": "https://open.spotify.com/album/2Npk7lWupjix8NIkm7MiQH"
       },
       "artists": [
         {
@@ -2088,9 +2088,9 @@
           "url": "https://open.spotify.com/artist/1iTlOqIrZy8DlvCPJY2sjS"
         }
       ],
-      "duration_ms": 478106,
-      "name": "Twilight Zone",
-      "url": "https://open.spotify.com/track/3ztKHejzVoxJRKSZHFFMdJ"
+      "duration_ms": 385893,
+      "name": "Radar Love",
+      "url": "https://open.spotify.com/track/20aASiwfsbiLlaJxLiC0PQ"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -2157,10 +2157,10 @@
       "url": "https://open.spotify.com/track/1A3OA6zON5HHueFm4ejrRF"
     },
     {
-      "added_at": "2022-06-08 19:19:44",
+      "added_at": "2021-03-02 18:13:49",
       "album": {
-        "name": "Moontan",
-        "url": "https://open.spotify.com/album/2Npk7lWupjix8NIkm7MiQH"
+        "name": "The Long Versions - Part One",
+        "url": "https://open.spotify.com/album/2qZLEQ9KsfExIhQKJF3VkD"
       },
       "artists": [
         {
@@ -2168,9 +2168,9 @@
           "url": "https://open.spotify.com/artist/1iTlOqIrZy8DlvCPJY2sjS"
         }
       ],
-      "duration_ms": 385893,
-      "name": "Radar Love",
-      "url": "https://open.spotify.com/track/20aASiwfsbiLlaJxLiC0PQ"
+      "duration_ms": 478106,
+      "name": "Twilight Zone",
+      "url": "https://open.spotify.com/track/3ztKHejzVoxJRKSZHFFMdJ"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -2303,22 +2303,6 @@
     {
       "added_at": "2021-03-02 18:13:49",
       "album": {
-        "name": "Tres Hombres (Expanded 2006 Remaster)",
-        "url": "https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 230480,
-      "name": "La Grange - 2005 Remaster",
-      "url": "https://open.spotify.com/track/70YvYr2hGlS01bKRIho1HM"
-    },
-    {
-      "added_at": "2021-03-02 18:13:49",
-      "album": {
         "name": "Toys In The Attic",
         "url": "https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B"
       },
@@ -2331,6 +2315,22 @@
       "duration_ms": 220400,
       "name": "Walk This Way",
       "url": "https://open.spotify.com/track/5SZ6zX4rOrEQferfFC2MfP"
+    },
+    {
+      "added_at": "2021-03-02 18:13:49",
+      "album": {
+        "name": "Tres Hombres (Expanded 2006 Remaster)",
+        "url": "https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 230480,
+      "name": "La Grange - 2005 Remaster",
+      "url": "https://open.spotify.com/track/70YvYr2hGlS01bKRIho1HM"
     },
     {
       "added_at": "2021-03-02 18:13:49",
@@ -2383,22 +2383,6 @@
     {
       "added_at": "2021-03-02 18:13:49",
       "album": {
-        "name": "Eliminator",
-        "url": "https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 258026,
-      "name": "Sharp Dressed Man - 2008 Remaster",
-      "url": "https://open.spotify.com/track/1UBQ5GK8JaQjm5VbkBZY66"
-    },
-    {
-      "added_at": "2021-03-02 18:13:49",
-      "album": {
         "name": "Aerosmith",
         "url": "https://open.spotify.com/album/19lEZSnCCbVEkKchoPQWDZ"
       },
@@ -2411,6 +2395,22 @@
       "duration_ms": 266960,
       "name": "Dream On",
       "url": "https://open.spotify.com/track/5MxNLUsfh7uzROypsoO5qe"
+    },
+    {
+      "added_at": "2021-03-02 18:13:49",
+      "album": {
+        "name": "Eliminator",
+        "url": "https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 258026,
+      "name": "Sharp Dressed Man - 2008 Remaster",
+      "url": "https://open.spotify.com/track/1UBQ5GK8JaQjm5VbkBZY66"
     }
   ],
   "unique_name": "Classic Rock Drive",

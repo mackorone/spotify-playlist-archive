@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wtU1K.md) - [plain]
 
 > This is Tasha Cobbs Leonard\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,040 likes - 50 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,045 likes - 50 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wtU1K.md) - [plain]
 | 45 | [Wonderful Grace](https://open.spotify.com/track/2USmhOGKSID1Zs7f13hwWC) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Heart\. Passion\. Pursuit.](https://open.spotify.com/album/39UpQWkYwByspw53CTZDis) | 6:49 |
 | 46 | [Smile \- Live](https://open.spotify.com/track/5XFYRxSFLFnxJOCFqXRLc9) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Grace \(Live/Deluxe\)](https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5) | 5:47 |
 | 47 | [Blessings \(feat\. Tasha Cobbs Leonard\)](https://open.spotify.com/track/0USJzZsIiPDbr6ZXgXik7B) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 3:34 |
-| 48 | [Won't Be Too Long](https://open.spotify.com/track/1pzMdPsWwGSOOJxqFz7d7Y) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [TASHA](https://open.spotify.com/album/6MN5JNWHd9PYF1gtnl0ccP) | 2:43 |
-| 49 | [Together \(We'll Get Through This\)](https://open.spotify.com/track/2tw1U7sV7kvAeAGLU6pFkt) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot), [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Together \(We'll Get Through This\)](https://open.spotify.com/album/5Dzgbis6hGQ5btWlMDnoK3) | 3:24 |
+| 48 | [Together \(We'll Get Through This\)](https://open.spotify.com/track/2tw1U7sV7kvAeAGLU6pFkt) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot), [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Together \(We'll Get Through This\)](https://open.spotify.com/album/5Dzgbis6hGQ5btWlMDnoK3) | 3:24 |
+| 49 | [Won't Be Too Long](https://open.spotify.com/track/1pzMdPsWwGSOOJxqFz7d7Y) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [TASHA](https://open.spotify.com/album/6MN5JNWHd9PYF1gtnl0ccP) | 2:43 |
 | 50 | [Grace \- Live](https://open.spotify.com/track/5ahLgNl6MprCkvnYWRPq59) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Grace \(Live/Deluxe\)](https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5) | 6:09 |
 
-Snapshot ID: `aU3QAAAAAABLDJJV4pZri+S6KMrE6YvT`
+Snapshot ID: `aU8hgAAAAABbHzHAVfCc4NuV3qwjp0YV`

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU3QAAAAAAANSiy2yZyobr2HtBlAj87A",
+  "snapshot_id": "aU8hgAAAAACH2llAmwXJ8FjeOGVIOH2K",
   "tracks": [
     {
       "added_at": null,
@@ -1287,26 +1287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "At\u00e9 o Mundo Acabar",
-        "url": "https://open.spotify.com/album/3wse1sgsXwXB74OhpxCKgm"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "L\u00e9o Casa 1",
-          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
-        }
-      ],
-      "duration_ms": 204520,
-      "name": "At\u00e9 o Mundo Acabar",
-      "url": "https://open.spotify.com/track/258gDjrmgUzuWkNXqdIAQP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fake",
         "url": "https://open.spotify.com/album/4fEC71BOGRnogGbdfkiLkd"
       },
@@ -1323,6 +1303,26 @@
       "duration_ms": 156000,
       "name": "Fake",
       "url": "https://open.spotify.com/track/1r2k4WRXadA4VmkaK9tLQH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "At\u00e9 o Mundo Acabar",
+        "url": "https://open.spotify.com/album/3wse1sgsXwXB74OhpxCKgm"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "L\u00e9o Casa 1",
+          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
+        }
+      ],
+      "duration_ms": 204520,
+      "name": "At\u00e9 o Mundo Acabar",
+      "url": "https://open.spotify.com/track/258gDjrmgUzuWkNXqdIAQP"
     },
     {
       "added_at": null,
@@ -1347,6 +1347,26 @@
       "duration_ms": 173553,
       "name": "Tudo Vai Mudar",
       "url": "https://open.spotify.com/track/2OXY2pkzwIBWxE8vPMB829"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Convida ao Vivo",
+        "url": "https://open.spotify.com/album/1TU3f23Am000jp2EWmGSGS"
+      },
+      "artists": [
+        {
+          "name": "Ponto De Equil\u00edbrio",
+          "url": "https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        }
+      ],
+      "duration_ms": 327028,
+      "name": "Estar Com Voc\u00ea",
+      "url": "https://open.spotify.com/track/4kv1rgv2FbVcj0R0xnOISh"
     },
     {
       "added_at": null,
@@ -1391,26 +1411,6 @@
       "duration_ms": 556662,
       "name": "Poetisas No Topo 2",
       "url": "https://open.spotify.com/track/00LRPoVKWNm7OxeX4TvC8y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Convida ao Vivo",
-        "url": "https://open.spotify.com/album/1TU3f23Am000jp2EWmGSGS"
-      },
-      "artists": [
-        {
-          "name": "Ponto De Equil\u00edbrio",
-          "url": "https://open.spotify.com/artist/6crUnfFtxFx7u9OGE1AHZo"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        }
-      ],
-      "duration_ms": 327028,
-      "name": "Estar Com Voc\u00ea",
-      "url": "https://open.spotify.com/track/4kv1rgv2FbVcj0R0xnOISh"
     },
     {
       "added_at": null,

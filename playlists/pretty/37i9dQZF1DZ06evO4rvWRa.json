@@ -1,12 +1,12 @@
 {
   "description": "This is Alan Walker. The essential tracks, all in one playlist.",
-  "num_followers": 1638245,
+  "num_followers": 1638242,
   "original_name": "This Is Alan Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU3QAAAAAAD2906AOkqWNpzMEoI/P0c8",
+  "snapshot_id": "aU8hgAAAAABeMgGBLTU5Awt/8f2WR4ra",
   "tracks": [
     {
       "added_at": null,
@@ -651,6 +651,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Neon Nights",
+        "url": "https://open.spotify.com/album/2PMUDyTcZRL0kMKibFgHKT"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "bludnymph",
+          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+        }
+      ],
+      "duration_ms": 167855,
+      "name": "Beautiful Nightmare",
+      "url": "https://open.spotify.com/track/5bUGTPa2WYYS9P49MzAljd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fire! (feat. YUQI ((G)I-DLE), JVKE)",
         "url": "https://open.spotify.com/album/5uI3nK40uWp8fRu9Cvk71w"
       },
@@ -679,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Neon Nights",
-        "url": "https://open.spotify.com/album/2PMUDyTcZRL0kMKibFgHKT"
+        "name": "Walker Racing League",
+        "url": "https://open.spotify.com/album/4pOEwzaAsyQwh40tCEEcVV"
       },
       "artists": [
         {
@@ -688,13 +708,13 @@
           "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         },
         {
-          "name": "bludnymph",
-          "url": "https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX"
+          "name": "Jamie Miller",
+          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
         }
       ],
-      "duration_ms": 167855,
-      "name": "Beautiful Nightmare",
-      "url": "https://open.spotify.com/track/5bUGTPa2WYYS9P49MzAljd"
+      "duration_ms": 136563,
+      "name": "Running Out Of Roses",
+      "url": "https://open.spotify.com/track/1KR9TkyhxqqpOk45WAm7bM"
     },
     {
       "added_at": null,
@@ -723,8 +743,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Walker Racing League",
-        "url": "https://open.spotify.com/album/4pOEwzaAsyQwh40tCEEcVV"
+        "name": "Tired",
+        "url": "https://open.spotify.com/album/1q1ayQAYMOacFE2fkXbkv2"
       },
       "artists": [
         {
@@ -732,13 +752,13 @@
           "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         },
         {
-          "name": "Jamie Miller",
-          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
         }
       ],
-      "duration_ms": 136563,
-      "name": "Running Out Of Roses",
-      "url": "https://open.spotify.com/track/1KR9TkyhxqqpOk45WAm7bM"
+      "duration_ms": 192111,
+      "name": "Tired",
+      "url": "https://open.spotify.com/track/3b5Li4QKDVBx1x7fQuu54a"
     },
     {
       "added_at": null,
@@ -759,26 +779,6 @@
       "duration_ms": 156937,
       "name": "Dancing in love",
       "url": "https://open.spotify.com/track/5KMVvlczBJnxDJJe3U4Tbn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tired",
-        "url": "https://open.spotify.com/album/1q1ayQAYMOacFE2fkXbkv2"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
-        }
-      ],
-      "duration_ms": 192111,
-      "name": "Tired",
-      "url": "https://open.spotify.com/track/3b5Li4QKDVBx1x7fQuu54a"
     },
     {
       "added_at": null,
@@ -823,26 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Walkerworld 2.0",
-        "url": "https://open.spotify.com/album/1R9fympoRsZJGpgNvMcJr2"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Anne Gudrun",
-          "url": "https://open.spotify.com/artist/4CjmulKe83Ymzhud7vD0i5"
-        }
-      ],
-      "duration_ms": 136421,
-      "name": "Avalon",
-      "url": "https://open.spotify.com/track/2bhBxdo4dqqjCBvErJBZW7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "(MORE) Unsponsored Content",
         "url": "https://open.spotify.com/album/6hEPrm5WGWe8GK029l31Ye"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 152214,
       "name": "PS5",
       "url": "https://open.spotify.com/track/3YQkC6dE9YE9sH1751qqEr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Walkerworld 2.0",
+        "url": "https://open.spotify.com/album/1R9fympoRsZJGpgNvMcJr2"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Anne Gudrun",
+          "url": "https://open.spotify.com/artist/4CjmulKe83Ymzhud7vD0i5"
+        }
+      ],
+      "duration_ms": 136421,
+      "name": "Avalon",
+      "url": "https://open.spotify.com/track/2bhBxdo4dqqjCBvErJBZW7"
     },
     {
       "added_at": null,
@@ -1047,6 +1047,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/2lqGGudTqfh9zLgx0CWiSU"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "duration_ms": 155409,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/3eClq9oJiACXJZuCsErmWr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Endless Summer",
         "url": "https://open.spotify.com/album/6heWsbxEvCnXbHcw4xlKmE"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 187040,
       "name": "Endless Summer",
       "url": "https://open.spotify.com/track/2DVvsgWrZ4rUjupdRGYEXK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dreamer",
-        "url": "https://open.spotify.com/album/2lqGGudTqfh9zLgx0CWiSU"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        }
-      ],
-      "duration_ms": 155409,
-      "name": "Dreamer",
-      "url": "https://open.spotify.com/track/3eClq9oJiACXJZuCsErmWr"
     }
   ],
   "unique_name": "This Is Alan Walker",

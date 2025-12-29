@@ -1,6 +1,6 @@
 {
   "description": "\u5bd2\u3044\u51ac\u306f\u5fc3\u3092\u6696\u3081\u308b\u30cf\u30fc\u30c8\u30d5\u30eb\u306a\u697d\u66f2\u3092\u304a\u4f9b\u306b\u3002\u3042\u306a\u305f\u306e\u65e5\u3005\u306b\u97f3\u697d\u3092\u3002",
-  "num_followers": 26770,
+  "num_followers": 26826,
   "original_name": "\u51ac\u306e\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
   "owner": {
     "name": "Spotify",
@@ -265,20 +265,20 @@
       "url": "https://open.spotify.com/track/2Os0vzke5CakbU3dkSHckx"
     },
     {
-      "added_at": "2025-03-11 22:40:18",
+      "added_at": "2025-10-23 13:55:51",
       "album": {
-        "name": "\u51ac\u3068\u6625",
-        "url": "https://open.spotify.com/album/58cT2BXPIvkR4kFP4b6xaN"
+        "name": "Super Best Records -15th Celebration-",
+        "url": "https://open.spotify.com/album/6HDgwZwj73QuaWubxCFyE8"
       },
       "artists": [
         {
-          "name": "back number",
-          "url": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g"
+          "name": "MISIA",
+          "url": "https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk"
         }
       ],
-      "duration_ms": 256786,
-      "name": "\u51ac\u3068\u6625",
-      "url": "https://open.spotify.com/track/6nIoYpfSvie3Ln46dyi8FC"
+      "duration_ms": 420920,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/6bkJ4p6uSKmSnKxYpmB4aG"
     },
     {
       "added_at": "2025-10-24 07:45:46",
@@ -297,20 +297,20 @@
       "url": "https://open.spotify.com/track/4NnxwvoD3dboEG0MdYBEbB"
     },
     {
-      "added_at": "2025-10-23 13:55:51",
+      "added_at": "2025-03-11 22:40:18",
       "album": {
-        "name": "Super Best Records -15th Celebration-",
-        "url": "https://open.spotify.com/album/6HDgwZwj73QuaWubxCFyE8"
+        "name": "\u51ac\u3068\u6625",
+        "url": "https://open.spotify.com/album/58cT2BXPIvkR4kFP4b6xaN"
       },
       "artists": [
         {
-          "name": "MISIA",
-          "url": "https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk"
+          "name": "back number",
+          "url": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g"
         }
       ],
-      "duration_ms": 420920,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/6bkJ4p6uSKmSnKxYpmB4aG"
+      "duration_ms": 256786,
+      "name": "\u51ac\u3068\u6625",
+      "url": "https://open.spotify.com/track/6nIoYpfSvie3Ln46dyi8FC"
     },
     {
       "added_at": "2025-03-11 22:40:18",
@@ -393,22 +393,6 @@
       "url": "https://open.spotify.com/track/5SDVaYU4nfaIV0rNSlWSCa"
     },
     {
-      "added_at": "2025-10-23 13:55:51",
-      "album": {
-        "name": "Expressions",
-        "url": "https://open.spotify.com/album/5mWaVGsfJhuHPOharCmGjU"
-      },
-      "artists": [
-        {
-          "name": "Mariya Takeuchi",
-          "url": "https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N"
-        }
-      ],
-      "duration_ms": 277426,
-      "name": "\u3059\u3066\u304d\u306a\u30db\u30ea\u30c7\u30a4",
-      "url": "https://open.spotify.com/track/42KsMmJ8sbWrfy6WMNWySo"
-    },
-    {
       "added_at": "2025-10-24 07:45:46",
       "album": {
         "name": "1999",
@@ -423,6 +407,22 @@
       "duration_ms": 289060,
       "name": "1999",
       "url": "https://open.spotify.com/track/5664npiyyvli6veD4VINZ1"
+    },
+    {
+      "added_at": "2025-10-23 13:55:51",
+      "album": {
+        "name": "Expressions",
+        "url": "https://open.spotify.com/album/5mWaVGsfJhuHPOharCmGjU"
+      },
+      "artists": [
+        {
+          "name": "Mariya Takeuchi",
+          "url": "https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N"
+        }
+      ],
+      "duration_ms": 277426,
+      "name": "\u3059\u3066\u304d\u306a\u30db\u30ea\u30c7\u30a4",
+      "url": "https://open.spotify.com/track/42KsMmJ8sbWrfy6WMNWySo"
     },
     {
       "added_at": "2025-10-24 07:45:46",
@@ -609,22 +609,6 @@
       "url": "https://open.spotify.com/track/5LstOEABicwr6nDmWdZ9ms"
     },
     {
-      "added_at": "2025-03-11 22:40:18",
-      "album": {
-        "name": "\u604b\u4eba\u3058\u3083\u306a\u304f\u306a\u3063\u305f\u65e5",
-        "url": "https://open.spotify.com/album/0E6KtMRFXw2LDyV38I3nNQ"
-      },
-      "artists": [
-        {
-          "name": "Yuuri",
-          "url": "https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W"
-        }
-      ],
-      "duration_ms": 224027,
-      "name": "\u604b\u4eba\u3058\u3083\u306a\u304f\u306a\u3063\u305f\u65e5",
-      "url": "https://open.spotify.com/track/7fQYRdNX6y8BpfmHvWVPm8"
-    },
-    {
       "added_at": "2025-12-11 02:28:39",
       "album": {
         "name": "\u30b9\u30bf\u30fc\u30b5\u30a4\u30f3",
@@ -641,22 +625,6 @@
       "url": "https://open.spotify.com/track/7LsVLiojCVPKSjb7n5uwMj"
     },
     {
-      "added_at": "2025-10-24 07:45:46",
-      "album": {
-        "name": "\u5e78\u305b\u306a\u7d50\u672b",
-        "url": "https://open.spotify.com/album/0THQJwnRlNNmlxtoDMp5Rf"
-      },
-      "artists": [
-        {
-          "name": "\u5927\u6edd\u8a60\u4e00",
-          "url": "https://open.spotify.com/artist/0cFJWqLH2LZPzuTGS1ljV0"
-        }
-      ],
-      "duration_ms": 276866,
-      "name": "\u5e78\u305b\u306a\u7d50\u672b",
-      "url": "https://open.spotify.com/track/5osxC77ZVAIXIE5Q3DMUuu"
-    },
-    {
       "added_at": "2025-03-11 22:40:18",
       "album": {
         "name": "\u30d7\u30ec\u30bc\u30f3\u30c8",
@@ -671,6 +639,38 @@
       "duration_ms": 248551,
       "name": "\u30d7\u30ec\u30bc\u30f3\u30c8",
       "url": "https://open.spotify.com/track/3qEFqbP7UiyJZx6g5C3LSd"
+    },
+    {
+      "added_at": "2025-03-11 22:40:18",
+      "album": {
+        "name": "\u604b\u4eba\u3058\u3083\u306a\u304f\u306a\u3063\u305f\u65e5",
+        "url": "https://open.spotify.com/album/0E6KtMRFXw2LDyV38I3nNQ"
+      },
+      "artists": [
+        {
+          "name": "Yuuri",
+          "url": "https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W"
+        }
+      ],
+      "duration_ms": 224027,
+      "name": "\u604b\u4eba\u3058\u3083\u306a\u304f\u306a\u3063\u305f\u65e5",
+      "url": "https://open.spotify.com/track/7fQYRdNX6y8BpfmHvWVPm8"
+    },
+    {
+      "added_at": "2025-10-24 07:45:46",
+      "album": {
+        "name": "\u5e78\u305b\u306a\u7d50\u672b",
+        "url": "https://open.spotify.com/album/0THQJwnRlNNmlxtoDMp5Rf"
+      },
+      "artists": [
+        {
+          "name": "\u5927\u6edd\u8a60\u4e00",
+          "url": "https://open.spotify.com/artist/0cFJWqLH2LZPzuTGS1ljV0"
+        }
+      ],
+      "duration_ms": 276866,
+      "name": "\u5e78\u305b\u306a\u7d50\u672b",
+      "url": "https://open.spotify.com/track/5osxC77ZVAIXIE5Q3DMUuu"
     },
     {
       "added_at": "2025-10-24 07:45:46",
@@ -707,22 +707,6 @@
     {
       "added_at": "2025-10-24 07:45:46",
       "album": {
-        "name": "TEAM ROCK",
-        "url": "https://open.spotify.com/album/0FJnTE821z9cp6edHW1pxB"
-      },
-      "artists": [
-        {
-          "name": "Quruli",
-          "url": "https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4"
-        }
-      ],
-      "duration_ms": 301106,
-      "name": "\u3070\u3089\u306e\u82b1",
-      "url": "https://open.spotify.com/track/6iyKwsCmtdXvs19uKyBFfS"
-    },
-    {
-      "added_at": "2025-10-24 07:45:46",
-      "album": {
         "name": "First Love (2022 Mix)",
         "url": "https://open.spotify.com/album/1TwR0thoGz0hCk0ot73xID"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 261122,
       "name": "First Love - 2022 Mix",
       "url": "https://open.spotify.com/track/0PvuVoqa1IHCnTrNnltS70"
+    },
+    {
+      "added_at": "2025-10-24 07:45:46",
+      "album": {
+        "name": "TEAM ROCK",
+        "url": "https://open.spotify.com/album/0FJnTE821z9cp6edHW1pxB"
+      },
+      "artists": [
+        {
+          "name": "Quruli",
+          "url": "https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4"
+        }
+      ],
+      "duration_ms": 301106,
+      "name": "\u3070\u3089\u306e\u82b1",
+      "url": "https://open.spotify.com/track/6iyKwsCmtdXvs19uKyBFfS"
     },
     {
       "added_at": "2025-10-24 07:45:46",
@@ -967,22 +967,6 @@
     {
       "added_at": "2025-10-24 07:45:46",
       "album": {
-        "name": "Shout Out to Jesus",
-        "url": "https://open.spotify.com/album/2yV4BrChz6M45ht4dJMJSI"
-      },
-      "artists": [
-        {
-          "name": "Kvi Baba",
-          "url": "https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs"
-        }
-      ],
-      "duration_ms": 204264,
-      "name": "City Love City Love City Love",
-      "url": "https://open.spotify.com/track/1iggXYj6rRrHjPG12bmQPj"
-    },
-    {
-      "added_at": "2025-10-24 07:45:46",
-      "album": {
         "name": "Gen",
         "url": "https://open.spotify.com/album/1s9TxbeBWAbz939OHhl3ch"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 248666,
       "name": "Why",
       "url": "https://open.spotify.com/track/1v8JIAvZLQXgqhVer4ira5"
+    },
+    {
+      "added_at": "2025-10-24 07:45:46",
+      "album": {
+        "name": "Shout Out to Jesus",
+        "url": "https://open.spotify.com/album/2yV4BrChz6M45ht4dJMJSI"
+      },
+      "artists": [
+        {
+          "name": "Kvi Baba",
+          "url": "https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs"
+        }
+      ],
+      "duration_ms": 204264,
+      "name": "City Love City Love City Love",
+      "url": "https://open.spotify.com/track/1iggXYj6rRrHjPG12bmQPj"
     },
     {
       "added_at": "2025-10-23 13:55:51",
@@ -1043,6 +1043,38 @@
       "duration_ms": 193587,
       "name": "\u304a\u5225\u308c\u306e\u6b4c",
       "url": "https://open.spotify.com/track/0VwZq35ff2SvvMWOFNrEDc"
+    },
+    {
+      "added_at": "2025-12-24 00:34:11",
+      "album": {
+        "name": "bestie",
+        "url": "https://open.spotify.com/album/4P2jmODvTntdqNI7e5isfb"
+      },
+      "artists": [
+        {
+          "name": "muque",
+          "url": "https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t"
+        }
+      ],
+      "duration_ms": 259903,
+      "name": "bestie",
+      "url": "https://open.spotify.com/track/3LlShzvjsM4nem8uADXWvn"
+    },
+    {
+      "added_at": "2025-12-24 00:34:11",
+      "album": {
+        "name": "You Got This",
+        "url": "https://open.spotify.com/album/5uN2MpBZUHi1lrOvZYJNta"
+      },
+      "artists": [
+        {
+          "name": "m-flo",
+          "url": "https://open.spotify.com/artist/4UhiMIdxKqQxmzdE9nYe6O"
+        }
+      ],
+      "duration_ms": 255603,
+      "name": "You Got This",
+      "url": "https://open.spotify.com/track/4ZQtHM0XoIJuuyy2Njg2Pw"
     },
     {
       "added_at": "2025-10-24 07:45:46",
@@ -1111,38 +1143,6 @@
       "duration_ms": 209639,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/20oWyi2kyCBXvgmD41XYEm"
-    },
-    {
-      "added_at": "2025-12-24 00:34:11",
-      "album": {
-        "name": "You Got This",
-        "url": "https://open.spotify.com/album/5uN2MpBZUHi1lrOvZYJNta"
-      },
-      "artists": [
-        {
-          "name": "m-flo",
-          "url": "https://open.spotify.com/artist/4UhiMIdxKqQxmzdE9nYe6O"
-        }
-      ],
-      "duration_ms": 255603,
-      "name": "You Got This",
-      "url": "https://open.spotify.com/track/4ZQtHM0XoIJuuyy2Njg2Pw"
-    },
-    {
-      "added_at": "2025-12-24 00:34:11",
-      "album": {
-        "name": "bestie",
-        "url": "https://open.spotify.com/album/4P2jmODvTntdqNI7e5isfb"
-      },
-      "artists": [
-        {
-          "name": "muque",
-          "url": "https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t"
-        }
-      ],
-      "duration_ms": 259903,
-      "name": "bestie",
-      "url": "https://open.spotify.com/track/3LlShzvjsM4nem8uADXWvn"
     },
     {
       "added_at": "2025-10-23 13:55:51",
@@ -1317,22 +1317,6 @@
       "url": "https://open.spotify.com/track/23keEnxeTVoQv1gWsPkPFj"
     },
     {
-      "added_at": "2025-12-11 02:28:39",
-      "album": {
-        "name": "AFTER TASTE",
-        "url": "https://open.spotify.com/album/1rJGujcwxdGCnfoqcMzZO9"
-      },
-      "artists": [
-        {
-          "name": "DURDN",
-          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
-        }
-      ],
-      "duration_ms": 247968,
-      "name": "AFTER TASTE",
-      "url": "https://open.spotify.com/track/0nZf4KRecUg0rVC6vKi7Bo"
-    },
-    {
       "added_at": "2025-03-11 22:40:18",
       "album": {
         "name": "\u305d\u3046\u304b\u306a",
@@ -1347,6 +1331,22 @@
       "duration_ms": 263866,
       "name": "\u307e\u3063\u767d",
       "url": "https://open.spotify.com/track/1Wy03yAj72MppXCDNYWNYv"
+    },
+    {
+      "added_at": "2025-12-11 02:28:39",
+      "album": {
+        "name": "AFTER TASTE",
+        "url": "https://open.spotify.com/album/1rJGujcwxdGCnfoqcMzZO9"
+      },
+      "artists": [
+        {
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+        }
+      ],
+      "duration_ms": 247968,
+      "name": "AFTER TASTE",
+      "url": "https://open.spotify.com/track/0nZf4KRecUg0rVC6vKi7Bo"
     },
     {
       "added_at": "2025-03-11 22:40:18",
@@ -1401,6 +1401,38 @@
       "url": "https://open.spotify.com/track/2NOeS29mW1tNJ9oEuw0njn"
     },
     {
+      "added_at": "2025-12-16 15:00:32",
+      "album": {
+        "name": "Winterboy",
+        "url": "https://open.spotify.com/album/0JtDeyFmNGaAk2eTYj49bA"
+      },
+      "artists": [
+        {
+          "name": "the shes gone",
+          "url": "https://open.spotify.com/artist/689D5sYXTKmpBXqAkAu0H7"
+        }
+      ],
+      "duration_ms": 274733,
+      "name": "Winterboy",
+      "url": "https://open.spotify.com/track/6em5Z6ju1rH6A4FCpcGt5z"
+    },
+    {
+      "added_at": "2025-12-24 00:34:11",
+      "album": {
+        "name": "\u6c34\u4e2d\u306e\u30e1\u30c8\u30ed",
+        "url": "https://open.spotify.com/album/5FlD12dyWeEKRXhNIzRZpM"
+      },
+      "artists": [
+        {
+          "name": "Ohashi Trio",
+          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
+        }
+      ],
+      "duration_ms": 261865,
+      "name": "\u6c34\u4e2d\u306e\u30e1\u30c8\u30ed",
+      "url": "https://open.spotify.com/track/2rPZULJJqeYbJAwO7PyVcX"
+    },
+    {
       "added_at": "2025-12-05 00:27:18",
       "album": {
         "name": "shiro",
@@ -1431,22 +1463,6 @@
       "duration_ms": 184266,
       "name": "\u6cab\u96ea",
       "url": "https://open.spotify.com/track/43wA7GO59hkeojRFu6jU4n"
-    },
-    {
-      "added_at": "2025-12-16 15:00:32",
-      "album": {
-        "name": "Winterboy",
-        "url": "https://open.spotify.com/album/0JtDeyFmNGaAk2eTYj49bA"
-      },
-      "artists": [
-        {
-          "name": "the shes gone",
-          "url": "https://open.spotify.com/artist/689D5sYXTKmpBXqAkAu0H7"
-        }
-      ],
-      "duration_ms": 274733,
-      "name": "Winterboy",
-      "url": "https://open.spotify.com/track/6em5Z6ju1rH6A4FCpcGt5z"
     },
     {
       "added_at": "2025-10-24 07:45:46",
@@ -1495,22 +1511,6 @@
       "duration_ms": 232760,
       "name": "\u30df\u30eb\u30af",
       "url": "https://open.spotify.com/track/3tFY3KX0w4DwynMKepKkUU"
-    },
-    {
-      "added_at": "2025-12-24 00:34:11",
-      "album": {
-        "name": "\u6c34\u4e2d\u306e\u30e1\u30c8\u30ed",
-        "url": "https://open.spotify.com/album/5FlD12dyWeEKRXhNIzRZpM"
-      },
-      "artists": [
-        {
-          "name": "Ohashi Trio",
-          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
-        }
-      ],
-      "duration_ms": 261865,
-      "name": "\u6c34\u4e2d\u306e\u30e1\u30c8\u30ed",
-      "url": "https://open.spotify.com/track/2rPZULJJqeYbJAwO7PyVcX"
     },
     {
       "added_at": "2025-03-11 22:40:18",

@@ -423,6 +423,24 @@
     },
     {
       "album": {
+        "name": "Miscellaneous",
+        "url": "https://open.spotify.com/album/3suDk3EaTehsxRL6yoEx5s"
+      },
+      "artists": [
+        {
+          "name": "Miscellaneous",
+          "url": "https://open.spotify.com/artist/4lVq1XJ7brnkOBuzOzznHi"
+        }
+      ],
+      "date_added": "2025-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190615,
+      "name": "Destinos Cruzados",
+      "url": "https://open.spotify.com/track/4tFkEuIWIZIKDPfaJhUyrP"
+    },
+    {
+      "album": {
         "name": "Devil With The Black Dress On",
         "url": "https://open.spotify.com/album/1McZnjNxg94UudFY94fRzo"
       },

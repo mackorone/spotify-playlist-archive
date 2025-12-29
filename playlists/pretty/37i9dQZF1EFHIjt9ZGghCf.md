@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHIjt9ZGghCf.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3NlRvdl2SCY3eryvhXXrAa">Dante Bowe</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 821 likes - 136 songs - 15 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 822 likes - 136 songs - 15 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHIjt9ZGghCf.md) - [plain]
 | 12 | [Move Your Heart \(feat\. Dante Bowe & Elyssa Smith\)](https://open.spotify.com/track/66yilG6117AXfAjtzjtxk7) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Elyssa Figueroa](https://open.spotify.com/artist/0u6BP0u3FLrJrlWU3XwC8l) | [Move Your Heart](https://open.spotify.com/album/5cqTGnTR7shuPCA2FqyFtR) | 10:21 |
 | 13 | [joyful](https://open.spotify.com/track/2Tfsbvgx1DU079zTKu1rlS) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [circles](https://open.spotify.com/album/50MKBgGOAoA3NQhIaUrKCC) | 2:16 |
 | 14 | [You Keep on Getting Better \(feat\. Majesty Rose\)](https://open.spotify.com/track/3Y4aH6l6mGwnlu6fQm80b4) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Majesty Rose](https://open.spotify.com/artist/02EQJ0mRKStgr0uN1qBfYz) | [Maverick City, Vol\. 2](https://open.spotify.com/album/5knnLqGsFigRxNqFsj3XN1) | 10:29 |
-| 15 | [Lift You High \- Live](https://open.spotify.com/track/39ssH6XDc7GGq6FDnENkjf) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Kirby Kaple](https://open.spotify.com/artist/54P5WwDNRFfSzPEZ7p6Io1), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Housefires + Friends \(Live\)](https://open.spotify.com/album/0fz0bRd6luFI3J8jqiM5Ma) | 7:57 |
-| 16 | [The Blood \(Live\)](https://open.spotify.com/track/71cDTlRal4bmGUcu213rYt) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [David Funk](https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc) | [Moments: Wait \(Live\)](https://open.spotify.com/album/7rNKbK8wratEtlqtVeGvVL) | 5:12 |
+| 15 | [The Blood \(Live\)](https://open.spotify.com/track/71cDTlRal4bmGUcu213rYt) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [David Funk](https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc) | [Moments: Wait \(Live\)](https://open.spotify.com/album/7rNKbK8wratEtlqtVeGvVL) | 5:12 |
+| 16 | [Lift You High \- Live](https://open.spotify.com/track/39ssH6XDc7GGq6FDnENkjf) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Kirby Kaple](https://open.spotify.com/artist/54P5WwDNRFfSzPEZ7p6Io1), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Housefires + Friends \(Live\)](https://open.spotify.com/album/0fz0bRd6luFI3J8jqiM5Ma) | 7:57 |
 | 17 | [Take Me Back \(feat\. Dante Bowe\)](https://open.spotify.com/track/0qsEmBu3AYhf5JuLjDHGe7) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Maverick City, Vol\. 2](https://open.spotify.com/album/5knnLqGsFigRxNqFsj3XN1) | 9:23 |
 | 18 | [I Need A Ghost](https://open.spotify.com/track/5tQMnCLmd2mma6JdDgVXV4) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [House Of Miracles](https://open.spotify.com/album/0eilJ5RLh3X6KlC9uXEwwC) | 3:39 |
 | 19 | [Thank You \(feat\. Steffany Gretzinger & Chandler Moore\)](https://open.spotify.com/track/0tI27jZrVAIKhpT5koEU7V) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Maverick City Music, Vol\. 3: Pt\. 1](https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq) | 7:29 |
@@ -145,4 +145,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHIjt9ZGghCf.md) - [plain]
 | 135 | [We Win](https://open.spotify.com/track/1s5hLtSYY4OxWvaVgxoSRK) | [Christina Bell](https://open.spotify.com/artist/3qNDQQUVRmXjr8wRuRUuI0) | [Still Faithful](https://open.spotify.com/album/5UWqdrtfkYqIYczMQn0W9M) | 6:36 |
 | 136 | [Champion / Gratitude \- Live](https://open.spotify.com/track/6Hl7epJmkcupgahn180OjU) | [Worship House](https://open.spotify.com/artist/1yb4c9TLpJymMCeNLLqpT4), [Providence Worship](https://open.spotify.com/artist/1j2p84LEkDWKRyOU4bMQcN), [Jordan & Cami Herndon](https://open.spotify.com/artist/5iJbYMlo3IuO4ZBMZBu1FS) | [Moments \(Live\)](https://open.spotify.com/album/5ZXS46Wu7hSsNILdDgJyGJ) | 10:46 |
 
-Snapshot ID: `AcFYCAAAAADFmeZ1EWuIo0iCgK/mpS+j`
+Snapshot ID: `AcFdqAAAAACtuLn8UIawI0N/Q9wAn8T7`

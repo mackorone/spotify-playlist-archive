@@ -1010,7 +1010,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-25",
+      "date_removed": null,
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
@@ -9772,7 +9772,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 159686,
       "name": "LOOK AT ME",
       "url": "https://open.spotify.com/track/5iFbKoNv7Jc5Arpbf8D90B"
@@ -11396,7 +11396,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 216442,
       "name": "number one girl",
       "url": "https://open.spotify.com/track/1lcBt7LoEikqYmhUoa2cez"
@@ -12448,7 +12448,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 195409,
       "name": "PSYCHO",
       "url": "https://open.spotify.com/track/491ca80N1C63tpoLvAsLKb"
@@ -12466,7 +12466,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-27",
+      "date_removed": null,
       "duration_ms": 195409,
       "name": "PSYCHO",
       "url": "https://open.spotify.com/track/7jp2VW62Yt2bDOaRas3hR6"
@@ -12766,7 +12766,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 197578,
       "name": "Rich Man",
       "url": "https://open.spotify.com/track/1sUjTLLCJzcxC15GUBrOlg"
@@ -12784,7 +12784,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-19",
+      "date_removed": null,
       "duration_ms": 197578,
       "name": "Rich Man",
       "url": "https://open.spotify.com/track/2lzb0dgTFAfrHfzlZA9Hxw"
@@ -14152,7 +14152,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-28",
+      "date_removed": null,
       "duration_ms": 150686,
       "name": "Soda Pop",
       "url": "https://open.spotify.com/track/02sy7FAs8dkDNYsHp4Ul3f"
@@ -16920,7 +16920,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 186973,
       "name": "WE GO UP",
       "url": "https://open.spotify.com/track/1tonXoW6dcb7GGNpec3PTl"
@@ -16938,7 +16938,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-27",
+      "date_removed": null,
       "duration_ms": 186973,
       "name": "WE GO UP",
       "url": "https://open.spotify.com/track/49DTiFx70EuJLV7hDsCo6z"
@@ -20552,6 +20552,24 @@
       "duration_ms": 333628,
       "name": "\u5609\u5bbe",
       "url": "https://open.spotify.com/track/1IVj6CsBbTgOEpo0W6hgwN"
+    },
+    {
+      "album": {
+        "name": "\u5609\u8cd3",
+        "url": "https://open.spotify.com/album/0HaCElSmKQ9J4Ty06CYwvC"
+      },
+      "artists": [
+        {
+          "name": "\u5f20\u8fdc",
+          "url": "https://open.spotify.com/artist/4Q6r8rqOodVCDkbAYm7F18"
+        }
+      ],
+      "date_added": "2025-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333628,
+      "name": "\u5609\u8cd3",
+      "url": "https://open.spotify.com/track/5jAmIkIpskwu2hRz2YaEHi"
     },
     {
       "album": {
@@ -25072,7 +25090,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 256333,
       "name": "\u73ca\u745a\u6d77",
       "url": "https://open.spotify.com/track/3Qj9Fy8BPbWmICTiNkuqB7"

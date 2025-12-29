@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNneCA2cLkH.md) - [plain]
 
 > These are the eclectic sounds of now\. Cover: Nick Cave & Warren Ellis
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,335 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,336 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNneCA2cLkH.md) - [plain]
 | 99 | [Stepping On A Rake](https://open.spotify.com/track/4j7xEmmnHVhhJfmCSfRc6W) | [Tropical Fuck Storm](https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL) | [Fairyland Codex](https://open.spotify.com/album/2SCljWoTOQQORfiWbtGL5j) | 3:47 |
 | 100 | [Mercury Rising](https://open.spotify.com/track/4920cbLMZHpXzoZqBbmhQf) | [Cousin Tony's Brand New Firebird](https://open.spotify.com/artist/5pIq6fF01sXUwFjTAVDgDI) | [Mercury Rising](https://open.spotify.com/album/3gU2dNjRlQMezxyglVFKZm) | 3:48 |
 
-Snapshot ID: `AAAAAAqlHeWzgKGgYaYUSbSuL0lz8bvq`
+Snapshot ID: `AAAAAIS6LJi8ih2i3gcWkoQC6fUiokX3`

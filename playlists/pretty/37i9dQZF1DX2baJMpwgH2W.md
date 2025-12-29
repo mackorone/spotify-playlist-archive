@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2baJMpwgH2W.md) - [plain]
 
 > Ballads from the best shows, from the West End and beyond.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,978 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,982 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

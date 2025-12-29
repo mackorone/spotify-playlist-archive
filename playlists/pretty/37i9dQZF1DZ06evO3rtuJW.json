@@ -1,12 +1,12 @@
 {
   "description": "This is G Herbo. The essential tracks, all in one playlist.",
-  "num_followers": 35388,
+  "num_followers": 35390,
   "original_name": "This Is G Herbo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU3QAAAAAADW5EYoRIj/ffmuT04s9hBl",
+  "snapshot_id": "aU8hgAAAAACbFRZRNtKNlef5+NWDomT9",
   "tracks": [
     {
       "added_at": null,
@@ -211,6 +211,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Strictly 4 My Fans",
+        "url": "https://open.spotify.com/album/5XLw4dnwqajOACwT2MN2d0"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 208422,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/4QgtGpNXs1v2UFz1VuCvWB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Feet On Land",
         "url": "https://open.spotify.com/album/1liqhZLxTPYloAgky8FjuJ"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 152658,
       "name": "Feet On Land",
       "url": "https://open.spotify.com/track/50RFfEjzKnTAzzYkmPb6DO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Strictly 4 My Fans",
-        "url": "https://open.spotify.com/album/5XLw4dnwqajOACwT2MN2d0"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 208422,
-      "name": "Pull Up",
-      "url": "https://open.spotify.com/track/4QgtGpNXs1v2UFz1VuCvWB"
     },
     {
       "added_at": null,
@@ -663,26 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whatever U Want",
-        "url": "https://open.spotify.com/album/3l1DeSYWct9O73WratRh1v"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
-        }
-      ],
-      "duration_ms": 149578,
-      "name": "Whatever U Want (feat. Jeremih)",
-      "url": "https://open.spotify.com/track/7AubN0uneHfFsEfPLAcG3K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You Can't Kill God With Bullets",
         "url": "https://open.spotify.com/album/01Vxh3LuDbJb2jLAlJYoyG"
       },
@@ -703,34 +683,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Rapper Alive",
-        "url": "https://open.spotify.com/album/4vN5GfZbDJsghl5XISGKo8"
+        "name": "Whatever U Want",
+        "url": "https://open.spotify.com/album/3l1DeSYWct9O73WratRh1v"
       },
       "artists": [
         {
           "name": "G Herbo",
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 128951,
-      "name": "One Blood",
-      "url": "https://open.spotify.com/track/7AVzn85H57FXmyaQm6uOd9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lil Herb",
-        "url": "https://open.spotify.com/album/5eIkANEEOacfzG6Jv3mU9f"
-      },
-      "artists": [
+        },
         {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
         }
       ],
-      "duration_ms": 144000,
-      "name": "Every Night",
-      "url": "https://open.spotify.com/track/4mPG2ZrIPbEMe2KIkjrig9"
+      "duration_ms": 149578,
+      "name": "Whatever U Want (feat. Jeremih)",
+      "url": "https://open.spotify.com/track/7AubN0uneHfFsEfPLAcG3K"
     },
     {
       "added_at": null,
@@ -751,6 +719,38 @@
       "duration_ms": 175729,
       "name": "Onna Come Up (feat. G Herbo) [Remix]",
       "url": "https://open.spotify.com/track/05WPbN0RZeYj62c4VGpldv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lil Herb",
+        "url": "https://open.spotify.com/album/5eIkANEEOacfzG6Jv3mU9f"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Every Night",
+      "url": "https://open.spotify.com/track/4mPG2ZrIPbEMe2KIkjrig9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Rapper Alive",
+        "url": "https://open.spotify.com/album/4vN5GfZbDJsghl5XISGKo8"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 128951,
+      "name": "One Blood",
+      "url": "https://open.spotify.com/track/7AVzn85H57FXmyaQm6uOd9"
     },
     {
       "added_at": null,

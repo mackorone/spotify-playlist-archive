@@ -1,6 +1,6 @@
 {
   "description": "Tem Sertanejo! Tem Funk! Tem Pagode! A melhor trilha pra embalar o seu churrasco.",
-  "num_followers": 860461,
+  "num_followers": 860627,
   "original_name": "Sol e Churrasco",
   "owner": {
     "name": "Spotify",
@@ -655,6 +655,26 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
+        "name": "Dona Maria",
+        "url": "https://open.spotify.com/album/1uqofIktCiIpJZBitA6aur"
+      },
+      "artists": [
+        {
+          "name": "Thiago Brava",
+          "url": "https://open.spotify.com/artist/1LGh5vyaoQP9bgTwLSMTyW"
+        },
+        {
+          "name": "Jorge",
+          "url": "https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ"
+        }
+      ],
+      "duration_ms": 187998,
+      "name": "Dona Maria",
+      "url": "https://open.spotify.com/track/0dGqIEsFN3KakdPCMkgjre"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
         "name": "Liberdade (Quando o Grave Bate Forte)",
         "url": "https://open.spotify.com/album/0x28JzvWpaqtzw2YWKubKR"
       },
@@ -675,26 +695,6 @@
       "duration_ms": 150461,
       "name": "Liberdade (Quando o Grave Bate Forte)",
       "url": "https://open.spotify.com/track/2QLbRVzixE282JSQjBz2DG"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
-        "name": "Dona Maria",
-        "url": "https://open.spotify.com/album/1uqofIktCiIpJZBitA6aur"
-      },
-      "artists": [
-        {
-          "name": "Thiago Brava",
-          "url": "https://open.spotify.com/artist/1LGh5vyaoQP9bgTwLSMTyW"
-        },
-        {
-          "name": "Jorge",
-          "url": "https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ"
-        }
-      ],
-      "duration_ms": 187998,
-      "name": "Dona Maria",
-      "url": "https://open.spotify.com/track/0dGqIEsFN3KakdPCMkgjre"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -803,6 +803,26 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
+        "name": "Amor da Despedida",
+        "url": "https://open.spotify.com/album/2E5eG2FJ0VAkg4rVmLlX1i"
+      },
+      "artists": [
+        {
+          "name": "Os Bar\u00f5es Da Pisadinha",
+          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
+        },
+        {
+          "name": "Fernando & Sorocaba",
+          "url": "https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8"
+        }
+      ],
+      "duration_ms": 169773,
+      "name": "Amor da Despedida",
+      "url": "https://open.spotify.com/track/0WlmiIK5qFQ4dAB4mCA4sI"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
         "name": "Hit Contagiante",
         "url": "https://open.spotify.com/album/5da8Quq01mGKZvEpBRfFZh"
       },
@@ -827,26 +847,6 @@
       "duration_ms": 137125,
       "name": "Hit Contagiante",
       "url": "https://open.spotify.com/track/5dKesZwp6deuhEeW8F1UEi"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
-        "name": "Amor da Despedida",
-        "url": "https://open.spotify.com/album/2E5eG2FJ0VAkg4rVmLlX1i"
-      },
-      "artists": [
-        {
-          "name": "Os Bar\u00f5es Da Pisadinha",
-          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
-        },
-        {
-          "name": "Fernando & Sorocaba",
-          "url": "https://open.spotify.com/artist/1oSgjdbgLYULVmEBojPRw8"
-        }
-      ],
-      "duration_ms": 169773,
-      "name": "Amor da Despedida",
-      "url": "https://open.spotify.com/track/0WlmiIK5qFQ4dAB4mCA4sI"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
-        "name": "ASSIM NASCE UM B\u00caBADO",
-        "url": "https://open.spotify.com/album/4eSeT6FOFd9VmN4tCyyQc3"
-      },
-      "artists": [
-        {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
-        }
-      ],
-      "duration_ms": 223374,
-      "name": "ASSIM NASCE UM B\u00caBADO",
-      "url": "https://open.spotify.com/track/3p3iOpzsKOGMeNBaexBXXR"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
         "name": "De Volta Pro Amanh\u00e3, Vol. 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/6AlWBOYX2xk7rgOx4ylI8E"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 119304,
       "name": "Assim Voc\u00ea Mata o Papai - Ao Vivo",
       "url": "https://open.spotify.com/track/5bPMvKwUuGG9LD9j5ufVkB"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
+        "name": "ASSIM NASCE UM B\u00caBADO",
+        "url": "https://open.spotify.com/album/4eSeT6FOFd9VmN4tCyyQc3"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "duration_ms": 223374,
+      "name": "ASSIM NASCE UM B\u00caBADO",
+      "url": "https://open.spotify.com/track/3p3iOpzsKOGMeNBaexBXXR"
     },
     {
       "added_at": "2024-07-09 12:43:17",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-07-09 12:43:17",
       "album": {
-        "name": "Manifesto Musical (Ao Vivo)",
-        "url": "https://open.spotify.com/album/44apM3pC4x6oLt5ULbtV3j"
-      },
-      "artists": [
-        {
-          "name": "Henrique & Juliano",
-          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
-        }
-      ],
-      "duration_ms": 148151,
-      "name": "Ficamento - Ao Vivo",
-      "url": "https://open.spotify.com/track/4GnJbKg09MLvUtf85SCevB"
-    },
-    {
-      "added_at": "2024-07-09 12:43:17",
-      "album": {
         "name": "Duetos (Ao Vivo)",
         "url": "https://open.spotify.com/album/659HNwQlvbAt8vGOPDJspp"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 176426,
       "name": "Aquele 1% - Ao Vivo",
       "url": "https://open.spotify.com/track/0Eu1DRLKILhNqsYh48a2DP"
+    },
+    {
+      "added_at": "2024-07-09 12:43:17",
+      "album": {
+        "name": "Manifesto Musical (Ao Vivo)",
+        "url": "https://open.spotify.com/album/44apM3pC4x6oLt5ULbtV3j"
+      },
+      "artists": [
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "duration_ms": 148151,
+      "name": "Ficamento - Ao Vivo",
+      "url": "https://open.spotify.com/track/4GnJbKg09MLvUtf85SCevB"
     },
     {
       "added_at": "2024-07-09 12:43:17",

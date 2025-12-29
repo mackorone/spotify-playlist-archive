@@ -1,6 +1,6 @@
 {
   "description": "The perfect backdrop to an evening spent relaxing in solitude.",
-  "num_followers": 2178674,
+  "num_followers": 2178752,
   "original_name": "Late Night Jazz",
   "owner": {
     "name": "Spotify",
@@ -111,6 +111,30 @@
     {
       "added_at": "2025-12-12 08:25:08",
       "album": {
+        "name": "Red Garland's Piano",
+        "url": "https://open.spotify.com/album/1Lrt5saApIz6z8dGmyKB7d"
+      },
+      "artists": [
+        {
+          "name": "Red Garland",
+          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
+        },
+        {
+          "name": "Paul Chambers",
+          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
+        },
+        {
+          "name": "Art Taylor",
+          "url": "https://open.spotify.com/artist/3CsHGnB9qK3KYH7xmyGAGX"
+        }
+      ],
+      "duration_ms": 287613,
+      "name": "I Know Why (And So Do You)",
+      "url": "https://open.spotify.com/track/3DsIu9DB0AZufrQHR4yJKL"
+    },
+    {
+      "added_at": "2025-12-12 08:25:08",
+      "album": {
         "name": "Candy",
         "url": "https://open.spotify.com/album/4OdGL0Uq7YZmrxsIYKUbrU"
       },
@@ -143,30 +167,6 @@
       "duration_ms": 269702,
       "name": "On Late Nights",
       "url": "https://open.spotify.com/track/4kGuyWcUz59MVQB3Z9021D"
-    },
-    {
-      "added_at": "2025-12-12 08:25:08",
-      "album": {
-        "name": "Red Garland's Piano",
-        "url": "https://open.spotify.com/album/1Lrt5saApIz6z8dGmyKB7d"
-      },
-      "artists": [
-        {
-          "name": "Red Garland",
-          "url": "https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9"
-        },
-        {
-          "name": "Paul Chambers",
-          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
-        },
-        {
-          "name": "Art Taylor",
-          "url": "https://open.spotify.com/artist/3CsHGnB9qK3KYH7xmyGAGX"
-        }
-      ],
-      "duration_ms": 287613,
-      "name": "I Know Why (And So Do You)",
-      "url": "https://open.spotify.com/track/3DsIu9DB0AZufrQHR4yJKL"
     },
     {
       "added_at": "2025-12-12 08:25:08",
@@ -427,6 +427,22 @@
     {
       "added_at": "2025-12-12 08:25:08",
       "album": {
+        "name": "Omega",
+        "url": "https://open.spotify.com/album/2MxcrtQBHD4YbrPdCJaAY0"
+      },
+      "artists": [
+        {
+          "name": "Immanuel Wilkins",
+          "url": "https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG"
+        }
+      ],
+      "duration_ms": 217800,
+      "name": "The Dreamer",
+      "url": "https://open.spotify.com/track/2UqYwWfjMDyCRnJc1Eebnn"
+    },
+    {
+      "added_at": "2025-12-12 08:25:08",
+      "album": {
         "name": "Ambivalence",
         "url": "https://open.spotify.com/album/6aWBplHlxJd0wIi52KsHvS"
       },
@@ -443,18 +459,18 @@
     {
       "added_at": "2025-12-12 08:25:08",
       "album": {
-        "name": "Omega",
-        "url": "https://open.spotify.com/album/2MxcrtQBHD4YbrPdCJaAY0"
+        "name": "A Nightingale Sang In Berkeley Square",
+        "url": "https://open.spotify.com/album/26aj13BUEGult7sBwx0Ivi"
       },
       "artists": [
         {
-          "name": "Immanuel Wilkins",
-          "url": "https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG"
+          "name": "Hans Ulrik",
+          "url": "https://open.spotify.com/artist/1SdvVqfeIalD1XCYMO9HsF"
         }
       ],
-      "duration_ms": 217800,
-      "name": "The Dreamer",
-      "url": "https://open.spotify.com/track/2UqYwWfjMDyCRnJc1Eebnn"
+      "duration_ms": 380444,
+      "name": "A Nightingale Sang In Berkeley Square",
+      "url": "https://open.spotify.com/track/3ospmAgXO287SaBU6RV4Gw"
     },
     {
       "added_at": "2025-12-12 08:25:08",
@@ -475,22 +491,6 @@
       "duration_ms": 184562,
       "name": "Flox Gade",
       "url": "https://open.spotify.com/track/4G7L7Iw2s1zNHU11lj0Jul"
-    },
-    {
-      "added_at": "2025-12-12 08:25:08",
-      "album": {
-        "name": "A Nightingale Sang In Berkeley Square",
-        "url": "https://open.spotify.com/album/26aj13BUEGult7sBwx0Ivi"
-      },
-      "artists": [
-        {
-          "name": "Hans Ulrik",
-          "url": "https://open.spotify.com/artist/1SdvVqfeIalD1XCYMO9HsF"
-        }
-      ],
-      "duration_ms": 380444,
-      "name": "A Nightingale Sang In Berkeley Square",
-      "url": "https://open.spotify.com/track/3ospmAgXO287SaBU6RV4Gw"
     },
     {
       "added_at": "2025-12-12 08:25:08",
@@ -579,6 +579,22 @@
     {
       "added_at": "2025-12-12 08:25:08",
       "album": {
+        "name": "Bright Sparkling Light",
+        "url": "https://open.spotify.com/album/1odgphm2RtahCSL2ksCrn9"
+      },
+      "artists": [
+        {
+          "name": "Matthew Halsall",
+          "url": "https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46"
+        }
+      ],
+      "duration_ms": 603920,
+      "name": "The Tide and the Moon",
+      "url": "https://open.spotify.com/track/4M9T3aWVBKglVwWCMOvVKX"
+    },
+    {
+      "added_at": "2025-12-12 08:25:08",
+      "album": {
         "name": "Opal",
         "url": "https://open.spotify.com/album/1aVsQPp7PGfHFLAWivIbly"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 249573,
       "name": "Opal",
       "url": "https://open.spotify.com/track/60ELJe2Bp0gCAnAINQz1Zj"
-    },
-    {
-      "added_at": "2025-12-12 08:25:08",
-      "album": {
-        "name": "Bright Sparkling Light",
-        "url": "https://open.spotify.com/album/1odgphm2RtahCSL2ksCrn9"
-      },
-      "artists": [
-        {
-          "name": "Matthew Halsall",
-          "url": "https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46"
-        }
-      ],
-      "duration_ms": 603920,
-      "name": "The Tide and the Moon",
-      "url": "https://open.spotify.com/track/4M9T3aWVBKglVwWCMOvVKX"
     },
     {
       "added_at": "2025-12-12 08:25:08",
@@ -875,6 +875,22 @@
     {
       "added_at": "2025-12-12 08:25:08",
       "album": {
+        "name": "Standard time volume 3: The revolution of romance",
+        "url": "https://open.spotify.com/album/3WOJZqHEK5CyxP1Jwxb2z0"
+      },
+      "artists": [
+        {
+          "name": "Wynton Marsalis",
+          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
+        }
+      ],
+      "duration_ms": 168666,
+      "name": "Where or When",
+      "url": "https://open.spotify.com/track/7xUbHoSHkdV7mb9UN1fuzL"
+    },
+    {
+      "added_at": "2025-12-12 08:25:08",
+      "album": {
         "name": "Uncle John's Band",
         "url": "https://open.spotify.com/album/0cuf7NewVpKv3jZmU43mpY"
       },
@@ -899,22 +915,6 @@
     {
       "added_at": "2025-12-12 08:25:08",
       "album": {
-        "name": "Standard time volume 3: The revolution of romance",
-        "url": "https://open.spotify.com/album/3WOJZqHEK5CyxP1Jwxb2z0"
-      },
-      "artists": [
-        {
-          "name": "Wynton Marsalis",
-          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
-        }
-      ],
-      "duration_ms": 168666,
-      "name": "Where or When",
-      "url": "https://open.spotify.com/track/7xUbHoSHkdV7mb9UN1fuzL"
-    },
-    {
-      "added_at": "2025-12-12 08:25:08",
-      "album": {
         "name": "Stream",
         "url": "https://open.spotify.com/album/4pH0Oy0jxql2EanMDhiMde"
       },
@@ -927,22 +927,6 @@
       "duration_ms": 423813,
       "name": "Stream",
       "url": "https://open.spotify.com/track/16w6mm1Wg1dD9Nqkl720O0"
-    },
-    {
-      "added_at": "2025-12-12 08:25:08",
-      "album": {
-        "name": "Tales of Utopia",
-        "url": "https://open.spotify.com/album/31gxlLdI53OZvFYHj8yi28"
-      },
-      "artists": [
-        {
-          "name": "Shalosh",
-          "url": "https://open.spotify.com/artist/519anAuR84lP1B6ykrGSNX"
-        }
-      ],
-      "duration_ms": 390400,
-      "name": "Three Sisters",
-      "url": "https://open.spotify.com/track/4ha7ENBPFcNMz4IFdR2jPd"
     },
     {
       "added_at": "2025-12-12 08:25:08",
@@ -963,6 +947,22 @@
       "duration_ms": 174680,
       "name": "A Prayer for Peace",
       "url": "https://open.spotify.com/track/5R3e5tMI5Ugr2HCzH90hpx"
+    },
+    {
+      "added_at": "2025-12-12 08:25:08",
+      "album": {
+        "name": "Tales of Utopia",
+        "url": "https://open.spotify.com/album/31gxlLdI53OZvFYHj8yi28"
+      },
+      "artists": [
+        {
+          "name": "Shalosh",
+          "url": "https://open.spotify.com/artist/519anAuR84lP1B6ykrGSNX"
+        }
+      ],
+      "duration_ms": 390400,
+      "name": "Three Sisters",
+      "url": "https://open.spotify.com/track/4ha7ENBPFcNMz4IFdR2jPd"
     },
     {
       "added_at": "2025-12-12 08:25:08",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2025-12-12 08:25:08",
       "album": {
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/1eT0iJYVpe8NEqSj9u6Yoo"
+      },
+      "artists": [
+        {
+          "name": "Sean Mason",
+          "url": "https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z"
+        }
+      ],
+      "duration_ms": 219961,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/0XEzkY36A838Jy1Nam64Mm"
+    },
+    {
+      "added_at": "2025-12-12 08:25:08",
+      "album": {
         "name": "Playing The Room",
         "url": "https://open.spotify.com/album/3Uh0OBXUvooc3z8IgqO5US"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 221000,
       "name": "Azalea",
       "url": "https://open.spotify.com/track/2Lz03NspvyxfiCjgdtpEVR"
-    },
-    {
-      "added_at": "2025-12-12 08:25:08",
-      "album": {
-        "name": "Lullaby",
-        "url": "https://open.spotify.com/album/1eT0iJYVpe8NEqSj9u6Yoo"
-      },
-      "artists": [
-        {
-          "name": "Sean Mason",
-          "url": "https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z"
-        }
-      ],
-      "duration_ms": 219961,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/0XEzkY36A838Jy1Nam64Mm"
     },
     {
       "added_at": "2025-12-12 08:25:08",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2025-12-12 08:25:08",
       "album": {
+        "name": "ARTEMIS",
+        "url": "https://open.spotify.com/album/2NHS9RKnUaFqVU13hHgDAP"
+      },
+      "artists": [
+        {
+          "name": "ARTEMIS",
+          "url": "https://open.spotify.com/artist/7kjwuPH9RX2FaR1R0Tde4W"
+        }
+      ],
+      "duration_ms": 327379,
+      "name": "Nocturno",
+      "url": "https://open.spotify.com/track/5DHU96HUvat8gddLT8IhFO"
+    },
+    {
+      "added_at": "2025-12-12 08:25:08",
+      "album": {
         "name": "Fifth Winter",
         "url": "https://open.spotify.com/album/1nE1ClsJHPJzUVwng0TOZw"
       },
@@ -1551,18 +1567,18 @@
     {
       "added_at": "2025-12-12 08:25:08",
       "album": {
-        "name": "ARTEMIS",
-        "url": "https://open.spotify.com/album/2NHS9RKnUaFqVU13hHgDAP"
+        "name": "Street Of Dreams",
+        "url": "https://open.spotify.com/album/61y1rgjqARtBJxEn4WEPPr"
       },
       "artists": [
         {
-          "name": "ARTEMIS",
-          "url": "https://open.spotify.com/artist/7kjwuPH9RX2FaR1R0Tde4W"
+          "name": "Bill Charlap Trio",
+          "url": "https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja"
         }
       ],
-      "duration_ms": 327379,
-      "name": "Nocturno",
-      "url": "https://open.spotify.com/track/5DHU96HUvat8gddLT8IhFO"
+      "duration_ms": 320373,
+      "name": "Street Of Dreams",
+      "url": "https://open.spotify.com/track/6lpUeTYRtxreTFCUkUHYxr"
     },
     {
       "added_at": "2025-12-12 08:25:08",
@@ -1583,22 +1599,6 @@
       "duration_ms": 319468,
       "name": "When October Goes - Live",
       "url": "https://open.spotify.com/track/51H9eZYkK0tMAlySURutTJ"
-    },
-    {
-      "added_at": "2025-12-12 08:25:08",
-      "album": {
-        "name": "Street Of Dreams",
-        "url": "https://open.spotify.com/album/61y1rgjqARtBJxEn4WEPPr"
-      },
-      "artists": [
-        {
-          "name": "Bill Charlap Trio",
-          "url": "https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja"
-        }
-      ],
-      "duration_ms": 320373,
-      "name": "Street Of Dreams",
-      "url": "https://open.spotify.com/track/6lpUeTYRtxreTFCUkUHYxr"
     },
     {
       "added_at": "2025-12-12 08:25:08",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2025-12-12 08:25:08",
       "album": {
-        "name": "Le plus longtemps possible",
-        "url": "https://open.spotify.com/album/6oFRYToccdph6cswkqZ9Y8"
-      },
-      "artists": [
-        {
-          "name": "Flash Pig",
-          "url": "https://open.spotify.com/artist/4Y4kajp5iogqKMfKnN5sj4"
-        }
-      ],
-      "duration_ms": 208896,
-      "name": "Voyageur",
-      "url": "https://open.spotify.com/track/032TdyRKD7KcYvpdw8mx4u"
-    },
-    {
-      "added_at": "2025-12-12 08:25:08",
-      "album": {
         "name": "I Can't Escape from You",
         "url": "https://open.spotify.com/album/27Ma3265McuCUApZ7wijtk"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 278266,
       "name": "I Can't Escape from You",
       "url": "https://open.spotify.com/track/38gqh7JEnwNxaKAzGpXB8i"
+    },
+    {
+      "added_at": "2025-12-12 08:25:08",
+      "album": {
+        "name": "Le plus longtemps possible",
+        "url": "https://open.spotify.com/album/6oFRYToccdph6cswkqZ9Y8"
+      },
+      "artists": [
+        {
+          "name": "Flash Pig",
+          "url": "https://open.spotify.com/artist/4Y4kajp5iogqKMfKnN5sj4"
+        }
+      ],
+      "duration_ms": 208896,
+      "name": "Voyageur",
+      "url": "https://open.spotify.com/track/032TdyRKD7KcYvpdw8mx4u"
     },
     {
       "added_at": "2025-12-12 08:25:08",
@@ -1899,30 +1899,6 @@
     {
       "added_at": "2025-12-12 08:25:08",
       "album": {
-        "name": "The Rocket",
-        "url": "https://open.spotify.com/album/4yMHUAidQFFojQk5D7kFSo"
-      },
-      "artists": [
-        {
-          "name": "Svante S\u00f6derqvist",
-          "url": "https://open.spotify.com/artist/1dLXnfFWsftCVP7eNMg9bf"
-        },
-        {
-          "name": "Adam Forkelid",
-          "url": "https://open.spotify.com/artist/3WcxxtroBeJy2PPN5s6CRW"
-        },
-        {
-          "name": "Tuulikki Bartosik",
-          "url": "https://open.spotify.com/artist/7axlscQPz3DMimClh92oaS"
-        }
-      ],
-      "duration_ms": 310800,
-      "name": "The Third One",
-      "url": "https://open.spotify.com/track/6qI9oEHMOjlqDTuOaCZK6w"
-    },
-    {
-      "added_at": "2025-12-12 08:25:08",
-      "album": {
         "name": "Alone Together",
         "url": "https://open.spotify.com/album/0bTuaMPPREoKbTZixGGIpO"
       },
@@ -1951,6 +1927,30 @@
       "duration_ms": 341797,
       "name": "Opaque",
       "url": "https://open.spotify.com/track/4u5mFoRNJAOP1h2MedgInP"
+    },
+    {
+      "added_at": "2025-12-12 08:25:08",
+      "album": {
+        "name": "The Rocket",
+        "url": "https://open.spotify.com/album/4yMHUAidQFFojQk5D7kFSo"
+      },
+      "artists": [
+        {
+          "name": "Svante S\u00f6derqvist",
+          "url": "https://open.spotify.com/artist/1dLXnfFWsftCVP7eNMg9bf"
+        },
+        {
+          "name": "Adam Forkelid",
+          "url": "https://open.spotify.com/artist/3WcxxtroBeJy2PPN5s6CRW"
+        },
+        {
+          "name": "Tuulikki Bartosik",
+          "url": "https://open.spotify.com/artist/7axlscQPz3DMimClh92oaS"
+        }
+      ],
+      "duration_ms": 310800,
+      "name": "The Third One",
+      "url": "https://open.spotify.com/track/6qI9oEHMOjlqDTuOaCZK6w"
     },
     {
       "added_at": "2025-12-12 08:25:08",
@@ -2043,22 +2043,6 @@
     {
       "added_at": "2025-12-12 08:25:08",
       "album": {
-        "name": "When Sunny Smiles",
-        "url": "https://open.spotify.com/album/4GKxdtLpmCZ9EvxOE7mCcl"
-      },
-      "artists": [
-        {
-          "name": "Cecilie Strange",
-          "url": "https://open.spotify.com/artist/2lrzzOXM4gAi8bxrBn4BBy"
-        }
-      ],
-      "duration_ms": 464160,
-      "name": "When Sunny Smiles",
-      "url": "https://open.spotify.com/track/1jKJ6fCBWyKCnEh8MdkcVC"
-    },
-    {
-      "added_at": "2025-12-12 08:25:08",
-      "album": {
         "name": "Precarious Towers",
         "url": "https://open.spotify.com/album/3Bp4pMlXLvl0FiI0PwX5Lu"
       },
@@ -2075,6 +2059,22 @@
       "duration_ms": 284333,
       "name": "Try To Remember",
       "url": "https://open.spotify.com/track/0x5FmQTsgtZqTrj9RwPJVT"
+    },
+    {
+      "added_at": "2025-12-12 08:25:08",
+      "album": {
+        "name": "When Sunny Smiles",
+        "url": "https://open.spotify.com/album/4GKxdtLpmCZ9EvxOE7mCcl"
+      },
+      "artists": [
+        {
+          "name": "Cecilie Strange",
+          "url": "https://open.spotify.com/artist/2lrzzOXM4gAi8bxrBn4BBy"
+        }
+      ],
+      "duration_ms": 464160,
+      "name": "When Sunny Smiles",
+      "url": "https://open.spotify.com/track/1jKJ6fCBWyKCnEh8MdkcVC"
     },
     {
       "added_at": "2025-12-12 08:25:08",
@@ -2159,26 +2159,6 @@
     {
       "added_at": "2025-12-12 08:25:08",
       "album": {
-        "name": "In the Mountains",
-        "url": "https://open.spotify.com/album/08ZNmk25bNcrUQ9Yj6VSr4"
-      },
-      "artists": [
-        {
-          "name": "Espen Eriksen Trio",
-          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
-        },
-        {
-          "name": "Andy Sheppard",
-          "url": "https://open.spotify.com/artist/3xMyc3x1YAI2LmA2X5IQHD"
-        }
-      ],
-      "duration_ms": 521080,
-      "name": "Perfectly Unhappy",
-      "url": "https://open.spotify.com/track/5gyifUjBAt2XPhmCj70jGR"
-    },
-    {
-      "added_at": "2025-12-12 08:25:08",
-      "album": {
         "name": "This Is The Day",
         "url": "https://open.spotify.com/album/2V7ta4NX9vlQVxzyCHfIG2"
       },
@@ -2195,22 +2175,22 @@
     {
       "added_at": "2025-12-12 08:25:08",
       "album": {
-        "name": "Glimmer Of Hope",
-        "url": "https://open.spotify.com/album/4HAq8zTLcUsbBMM7WOAtcu"
+        "name": "In the Mountains",
+        "url": "https://open.spotify.com/album/08ZNmk25bNcrUQ9Yj6VSr4"
       },
       "artists": [
         {
-          "name": "Marcin Wasilewski Trio",
-          "url": "https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL"
+          "name": "Espen Eriksen Trio",
+          "url": "https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST"
         },
         {
-          "name": "Joe Lovano",
-          "url": "https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf"
+          "name": "Andy Sheppard",
+          "url": "https://open.spotify.com/artist/3xMyc3x1YAI2LmA2X5IQHD"
         }
       ],
-      "duration_ms": 513293,
-      "name": "Glimmer Of Hope",
-      "url": "https://open.spotify.com/track/5c83f2kFIeNNch1hvyNwGj"
+      "duration_ms": 521080,
+      "name": "Perfectly Unhappy",
+      "url": "https://open.spotify.com/track/5gyifUjBAt2XPhmCj70jGR"
     },
     {
       "added_at": "2025-12-12 08:25:08",
@@ -2239,6 +2219,26 @@
       "duration_ms": 349802,
       "name": "Last Decade",
       "url": "https://open.spotify.com/track/6kw0TP5KGTilTx0ZdorCun"
+    },
+    {
+      "added_at": "2025-12-12 08:25:08",
+      "album": {
+        "name": "Glimmer Of Hope",
+        "url": "https://open.spotify.com/album/4HAq8zTLcUsbBMM7WOAtcu"
+      },
+      "artists": [
+        {
+          "name": "Marcin Wasilewski Trio",
+          "url": "https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL"
+        },
+        {
+          "name": "Joe Lovano",
+          "url": "https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf"
+        }
+      ],
+      "duration_ms": 513293,
+      "name": "Glimmer Of Hope",
+      "url": "https://open.spotify.com/track/5c83f2kFIeNNch1hvyNwGj"
     },
     {
       "added_at": "2025-12-12 08:25:08",
@@ -2423,6 +2423,26 @@
     {
       "added_at": "2025-12-12 08:25:08",
       "album": {
+        "name": "Apr\u00e8s Un R\u00eave",
+        "url": "https://open.spotify.com/album/7FnjWJUJzbL8LHXRaqX6ql"
+      },
+      "artists": [
+        {
+          "name": "Helge Lien Trio",
+          "url": "https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY"
+        },
+        {
+          "name": "Tore Brunborg",
+          "url": "https://open.spotify.com/artist/5TqxBHPsl5JnkRqPiZALxh"
+        }
+      ],
+      "duration_ms": 268565,
+      "name": "Apr\u00e8s Un R\u00eave",
+      "url": "https://open.spotify.com/track/5o4ftrH2OwHtzupdxp622o"
+    },
+    {
+      "added_at": "2025-12-12 08:25:08",
+      "album": {
         "name": "Familiar Route",
         "url": "https://open.spotify.com/album/6NaqAOB06PtpwTLyVxPBLd"
       },
@@ -2455,26 +2475,6 @@
       "duration_ms": 274760,
       "name": "Familiar Route",
       "url": "https://open.spotify.com/track/5PRynZnjxSqRUpVn0XeAor"
-    },
-    {
-      "added_at": "2025-12-12 08:25:08",
-      "album": {
-        "name": "Apr\u00e8s Un R\u00eave",
-        "url": "https://open.spotify.com/album/7FnjWJUJzbL8LHXRaqX6ql"
-      },
-      "artists": [
-        {
-          "name": "Helge Lien Trio",
-          "url": "https://open.spotify.com/artist/4kWBvU5JdoohnGYl7SMlfY"
-        },
-        {
-          "name": "Tore Brunborg",
-          "url": "https://open.spotify.com/artist/5TqxBHPsl5JnkRqPiZALxh"
-        }
-      ],
-      "duration_ms": 268565,
-      "name": "Apr\u00e8s Un R\u00eave",
-      "url": "https://open.spotify.com/track/5o4ftrH2OwHtzupdxp622o"
     },
     {
       "added_at": "2025-12-12 08:25:08",
@@ -2527,6 +2527,30 @@
     {
       "added_at": "2025-12-12 08:25:08",
       "album": {
+        "name": "Remember to Remember",
+        "url": "https://open.spotify.com/album/5yhJAfAe6B1c1hDJPEX9MR"
+      },
+      "artists": [
+        {
+          "name": "Claudio Cusmano",
+          "url": "https://open.spotify.com/artist/7thE1lsL7tjjjkEI2YnP9L"
+        },
+        {
+          "name": "Nello Toscano",
+          "url": "https://open.spotify.com/artist/7qNdCsWwiixOoPiRbq3ZTR"
+        },
+        {
+          "name": "Enzo Zirilli",
+          "url": "https://open.spotify.com/artist/2lZ6o7yrgffZNMIFlvkbk6"
+        }
+      ],
+      "duration_ms": 331423,
+      "name": "Tom Traubert's Blues",
+      "url": "https://open.spotify.com/track/02kIA1zbFyjUmsKJwG2rDV"
+    },
+    {
+      "added_at": "2025-12-12 08:25:08",
+      "album": {
         "name": "Ugly Beauty",
         "url": "https://open.spotify.com/album/4yu3nVYm8FQQJRTQulC6gD"
       },
@@ -2567,26 +2591,34 @@
     {
       "added_at": "2025-12-12 08:25:08",
       "album": {
-        "name": "Remember to Remember",
-        "url": "https://open.spotify.com/album/5yhJAfAe6B1c1hDJPEX9MR"
+        "name": "Winter Rose",
+        "url": "https://open.spotify.com/album/23yajgtCvy40lAZQswKdLr"
       },
       "artists": [
         {
-          "name": "Claudio Cusmano",
-          "url": "https://open.spotify.com/artist/7thE1lsL7tjjjkEI2YnP9L"
+          "name": "Mathias Heise",
+          "url": "https://open.spotify.com/artist/5VDMcXFNkMZ3bB9bt9jRFW"
         },
         {
-          "name": "Nello Toscano",
-          "url": "https://open.spotify.com/artist/7qNdCsWwiixOoPiRbq3ZTR"
+          "name": "Jacob Christoffersen",
+          "url": "https://open.spotify.com/artist/3ljK3UprmcWotHs686486V"
         },
         {
-          "name": "Enzo Zirilli",
-          "url": "https://open.spotify.com/artist/2lZ6o7yrgffZNMIFlvkbk6"
+          "name": "Pelle von B\u00fclow",
+          "url": "https://open.spotify.com/artist/1Aus8Zf6zCyZBhbv2CqSGg"
+        },
+        {
+          "name": "Thomas Fonnesb\u00e6k",
+          "url": "https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph"
+        },
+        {
+          "name": "Jeppe Gram",
+          "url": "https://open.spotify.com/artist/6HwPDkSUPabzWB8PyTPXdo"
         }
       ],
-      "duration_ms": 331423,
-      "name": "Tom Traubert's Blues",
-      "url": "https://open.spotify.com/track/02kIA1zbFyjUmsKJwG2rDV"
+      "duration_ms": 412573,
+      "name": "Winter Rose",
+      "url": "https://open.spotify.com/track/181M7BzqRfNNcTB8uHDmyZ"
     },
     {
       "added_at": "2025-12-12 08:25:08",
@@ -2627,38 +2659,6 @@
     {
       "added_at": "2025-12-12 08:25:08",
       "album": {
-        "name": "Winter Rose",
-        "url": "https://open.spotify.com/album/23yajgtCvy40lAZQswKdLr"
-      },
-      "artists": [
-        {
-          "name": "Mathias Heise",
-          "url": "https://open.spotify.com/artist/5VDMcXFNkMZ3bB9bt9jRFW"
-        },
-        {
-          "name": "Jacob Christoffersen",
-          "url": "https://open.spotify.com/artist/3ljK3UprmcWotHs686486V"
-        },
-        {
-          "name": "Pelle von B\u00fclow",
-          "url": "https://open.spotify.com/artist/1Aus8Zf6zCyZBhbv2CqSGg"
-        },
-        {
-          "name": "Thomas Fonnesb\u00e6k",
-          "url": "https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph"
-        },
-        {
-          "name": "Jeppe Gram",
-          "url": "https://open.spotify.com/artist/6HwPDkSUPabzWB8PyTPXdo"
-        }
-      ],
-      "duration_ms": 412573,
-      "name": "Winter Rose",
-      "url": "https://open.spotify.com/track/181M7BzqRfNNcTB8uHDmyZ"
-    },
-    {
-      "added_at": "2025-12-12 08:25:08",
-      "album": {
         "name": "Four",
         "url": "https://open.spotify.com/album/0GhCs8GREBNY1uUZhHQuYr"
       },
@@ -2671,22 +2671,6 @@
       "duration_ms": 309733,
       "name": "Lookout for Hope",
       "url": "https://open.spotify.com/track/0MN9n3I4Hicx8rbb1CqvaH"
-    },
-    {
-      "added_at": "2025-12-12 08:25:08",
-      "album": {
-        "name": "The Past Is What Changes The Most",
-        "url": "https://open.spotify.com/album/45BE8DHFlNKhNborMY1080"
-      },
-      "artists": [
-        {
-          "name": "Peace Flag Ensemble",
-          "url": "https://open.spotify.com/artist/3osiBkb0uSyLyMuWkWxjlU"
-        }
-      ],
-      "duration_ms": 225206,
-      "name": "The Past Is What Changes The Most",
-      "url": "https://open.spotify.com/track/6wJpJyoDAPr5wQ7w0hapGx"
     },
     {
       "added_at": "2025-12-12 08:25:08",
@@ -2715,6 +2699,22 @@
       "duration_ms": 384560,
       "name": "Monet",
       "url": "https://open.spotify.com/track/4Fi55jZVjXPYU26m5BR15J"
+    },
+    {
+      "added_at": "2025-12-12 08:25:08",
+      "album": {
+        "name": "The Past Is What Changes The Most",
+        "url": "https://open.spotify.com/album/45BE8DHFlNKhNborMY1080"
+      },
+      "artists": [
+        {
+          "name": "Peace Flag Ensemble",
+          "url": "https://open.spotify.com/artist/3osiBkb0uSyLyMuWkWxjlU"
+        }
+      ],
+      "duration_ms": 225206,
+      "name": "The Past Is What Changes The Most",
+      "url": "https://open.spotify.com/track/6wJpJyoDAPr5wQ7w0hapGx"
     },
     {
       "added_at": "2025-12-12 08:25:08",
@@ -2815,30 +2815,6 @@
     {
       "added_at": "2025-12-12 08:25:08",
       "album": {
-        "name": "Waltz for an Absent Lover",
-        "url": "https://open.spotify.com/album/7eeM5Bv1i8Rnb1Egus1RJX"
-      },
-      "artists": [
-        {
-          "name": "Christophe Marguet",
-          "url": "https://open.spotify.com/artist/6PHK8F7tvsMt0LlgNKpIrZ"
-        },
-        {
-          "name": "Guillaume De Chassy",
-          "url": "https://open.spotify.com/artist/2SbiqsyR4YDxZ4QVsMxaQ3"
-        },
-        {
-          "name": "Thomas Savy",
-          "url": "https://open.spotify.com/artist/1Bhjk9ozaPEoGohTuvErI1"
-        }
-      ],
-      "duration_ms": 244040,
-      "name": "Waltz for an Absent Lover",
-      "url": "https://open.spotify.com/track/3NOaSvn1vaUuKMZ6r6kJfX"
-    },
-    {
-      "added_at": "2025-12-12 08:25:08",
-      "album": {
         "name": "Afflicted",
         "url": "https://open.spotify.com/album/4v06oJOfNl5gZ6nOjb33VA"
       },
@@ -2859,6 +2835,30 @@
       "duration_ms": 261573,
       "name": "Afflicted",
       "url": "https://open.spotify.com/track/56wFHooGMqGDkEW9KggC8f"
+    },
+    {
+      "added_at": "2025-12-12 08:25:08",
+      "album": {
+        "name": "Waltz for an Absent Lover",
+        "url": "https://open.spotify.com/album/7eeM5Bv1i8Rnb1Egus1RJX"
+      },
+      "artists": [
+        {
+          "name": "Christophe Marguet",
+          "url": "https://open.spotify.com/artist/6PHK8F7tvsMt0LlgNKpIrZ"
+        },
+        {
+          "name": "Guillaume De Chassy",
+          "url": "https://open.spotify.com/artist/2SbiqsyR4YDxZ4QVsMxaQ3"
+        },
+        {
+          "name": "Thomas Savy",
+          "url": "https://open.spotify.com/artist/1Bhjk9ozaPEoGohTuvErI1"
+        }
+      ],
+      "duration_ms": 244040,
+      "name": "Waltz for an Absent Lover",
+      "url": "https://open.spotify.com/track/3NOaSvn1vaUuKMZ6r6kJfX"
     },
     {
       "added_at": "2025-12-12 08:25:08",
@@ -3007,6 +3007,22 @@
     {
       "added_at": "2025-12-12 08:25:08",
       "album": {
+        "name": "The Deep",
+        "url": "https://open.spotify.com/album/4QzD6FhbxRYxBLrIgixMN7"
+      },
+      "artists": [
+        {
+          "name": "Juraj Stanik Trio",
+          "url": "https://open.spotify.com/artist/6Jp6aGQeBuerxiL0Mq7wra"
+        }
+      ],
+      "duration_ms": 176871,
+      "name": "Close Enough for Love",
+      "url": "https://open.spotify.com/track/6AeSkcai2NrmpJkSltzYsS"
+    },
+    {
+      "added_at": "2025-12-12 08:25:08",
+      "album": {
         "name": "Valleys & Mountains",
         "url": "https://open.spotify.com/album/4tnbCSnePSEWvTejqy5nTu"
       },
@@ -3035,22 +3051,6 @@
       "duration_ms": 369060,
       "name": "What Are You Doing for the Rest of Your Life",
       "url": "https://open.spotify.com/track/3DhFy161BJDOR5KcvtSmY7"
-    },
-    {
-      "added_at": "2025-12-12 08:25:08",
-      "album": {
-        "name": "The Deep",
-        "url": "https://open.spotify.com/album/4QzD6FhbxRYxBLrIgixMN7"
-      },
-      "artists": [
-        {
-          "name": "Juraj Stanik Trio",
-          "url": "https://open.spotify.com/artist/6Jp6aGQeBuerxiL0Mq7wra"
-        }
-      ],
-      "duration_ms": 176871,
-      "name": "Close Enough for Love",
-      "url": "https://open.spotify.com/track/6AeSkcai2NrmpJkSltzYsS"
     },
     {
       "added_at": "2025-12-12 08:25:08",
@@ -3359,6 +3359,22 @@
     {
       "added_at": "2025-12-12 08:25:08",
       "album": {
+        "name": "Round Midnight",
+        "url": "https://open.spotify.com/album/4LgeBu2FmDL9nakgrReCuH"
+      },
+      "artists": [
+        {
+          "name": "The Mellowtones",
+          "url": "https://open.spotify.com/artist/00Riinu1dD4y04vDPULBE6"
+        }
+      ],
+      "duration_ms": 301109,
+      "name": "Round Midnight",
+      "url": "https://open.spotify.com/track/5DlGJh3S6jYf0wZAiESvwA"
+    },
+    {
+      "added_at": "2025-12-12 08:25:08",
+      "album": {
         "name": "It Never Entered My Mind",
         "url": "https://open.spotify.com/album/5lorPM42rAyHXCrnMecPmP"
       },
@@ -3375,18 +3391,54 @@
     {
       "added_at": "2025-12-12 08:25:08",
       "album": {
-        "name": "Round Midnight",
-        "url": "https://open.spotify.com/album/4LgeBu2FmDL9nakgrReCuH"
+        "name": "Wall",
+        "url": "https://open.spotify.com/album/6zIThZOKiiFFhMTfhPNoQ9"
       },
       "artists": [
         {
-          "name": "The Mellowtones",
-          "url": "https://open.spotify.com/artist/00Riinu1dD4y04vDPULBE6"
+          "name": "Richard Andersson",
+          "url": "https://open.spotify.com/artist/7gUUsqJ2B9OBcmlcisjscK"
+        },
+        {
+          "name": "\u00d3skar Gu\u00f0j\u00f3nsson",
+          "url": "https://open.spotify.com/artist/3ngZoLWB98itd0iXhKtl9N"
+        },
+        {
+          "name": "Hilmar Jensson",
+          "url": "https://open.spotify.com/artist/37X7xED7KUb9gHjqbh8PJy"
+        },
+        {
+          "name": "Matthias Hemstock",
+          "url": "https://open.spotify.com/artist/6NiwLnm8sGjwVbbHFPHqGU"
         }
       ],
-      "duration_ms": 301109,
-      "name": "Round Midnight",
-      "url": "https://open.spotify.com/track/5DlGJh3S6jYf0wZAiESvwA"
+      "duration_ms": 299090,
+      "name": "Wall",
+      "url": "https://open.spotify.com/track/0g4Cc7PPAJmCwpdwv1bw6a"
+    },
+    {
+      "added_at": "2025-12-12 08:25:08",
+      "album": {
+        "name": "Links",
+        "url": "https://open.spotify.com/album/44rq9Oqk7prhdYXyGALbvn"
+      },
+      "artists": [
+        {
+          "name": "Armel Dupas Trio",
+          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
+        },
+        {
+          "name": "Jules Bill\u00e9",
+          "url": "https://open.spotify.com/artist/4NUgmHU1FIREvBXLDDFhng"
+        },
+        {
+          "name": "Christophe Piot",
+          "url": "https://open.spotify.com/artist/1bQocL3Muez9zJLuA4JjVx"
+        }
+      ],
+      "duration_ms": 232559,
+      "name": "Links",
+      "url": "https://open.spotify.com/track/36Xd81l2gCMOIv3uLJYSJh"
     },
     {
       "added_at": "2025-12-12 08:25:08",
@@ -3467,34 +3519,6 @@
     {
       "added_at": "2025-12-12 08:25:08",
       "album": {
-        "name": "Wall",
-        "url": "https://open.spotify.com/album/6zIThZOKiiFFhMTfhPNoQ9"
-      },
-      "artists": [
-        {
-          "name": "Richard Andersson",
-          "url": "https://open.spotify.com/artist/7gUUsqJ2B9OBcmlcisjscK"
-        },
-        {
-          "name": "\u00d3skar Gu\u00f0j\u00f3nsson",
-          "url": "https://open.spotify.com/artist/3ngZoLWB98itd0iXhKtl9N"
-        },
-        {
-          "name": "Hilmar Jensson",
-          "url": "https://open.spotify.com/artist/37X7xED7KUb9gHjqbh8PJy"
-        },
-        {
-          "name": "Matthias Hemstock",
-          "url": "https://open.spotify.com/artist/6NiwLnm8sGjwVbbHFPHqGU"
-        }
-      ],
-      "duration_ms": 299090,
-      "name": "Wall",
-      "url": "https://open.spotify.com/track/0g4Cc7PPAJmCwpdwv1bw6a"
-    },
-    {
-      "added_at": "2025-12-12 08:25:08",
-      "album": {
         "name": "In A Sentimental Mood",
         "url": "https://open.spotify.com/album/2BPqCjx9YoBSTfOaECF76s"
       },
@@ -3527,30 +3551,6 @@
     {
       "added_at": "2025-12-12 08:25:08",
       "album": {
-        "name": "Links",
-        "url": "https://open.spotify.com/album/44rq9Oqk7prhdYXyGALbvn"
-      },
-      "artists": [
-        {
-          "name": "Armel Dupas Trio",
-          "url": "https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU"
-        },
-        {
-          "name": "Jules Bill\u00e9",
-          "url": "https://open.spotify.com/artist/4NUgmHU1FIREvBXLDDFhng"
-        },
-        {
-          "name": "Christophe Piot",
-          "url": "https://open.spotify.com/artist/1bQocL3Muez9zJLuA4JjVx"
-        }
-      ],
-      "duration_ms": 232559,
-      "name": "Links",
-      "url": "https://open.spotify.com/track/36Xd81l2gCMOIv3uLJYSJh"
-    },
-    {
-      "added_at": "2025-12-12 08:25:08",
-      "album": {
         "name": "Nancy (with the Laughing Face)",
         "url": "https://open.spotify.com/album/2Lj7miVFzrkyI0d3dbc1aO"
       },
@@ -3563,30 +3563,6 @@
       "duration_ms": 378197,
       "name": "Nancy (with the Laughing Face)",
       "url": "https://open.spotify.com/track/6TKM3SZVfwS7G0qsqyWfzk"
-    },
-    {
-      "added_at": "2025-12-12 08:25:08",
-      "album": {
-        "name": "Melody At Night",
-        "url": "https://open.spotify.com/album/2ZJefc9NERyNMMhndARgxl"
-      },
-      "artists": [
-        {
-          "name": "Copenhagen Jazzexperience",
-          "url": "https://open.spotify.com/artist/4JEWCpMIrw4HJgsAlkblBo"
-        },
-        {
-          "name": "Claus Waidtl\u00f8w",
-          "url": "https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D"
-        },
-        {
-          "name": "Jacob Christoffersen",
-          "url": "https://open.spotify.com/artist/3ljK3UprmcWotHs686486V"
-        }
-      ],
-      "duration_ms": 271547,
-      "name": "Melody At Night",
-      "url": "https://open.spotify.com/track/6H8Kb2KHTCOhMBRifugOKj"
     },
     {
       "added_at": "2025-12-12 08:25:08",
@@ -3611,6 +3587,30 @@
       "duration_ms": 499328,
       "name": "Alfie",
       "url": "https://open.spotify.com/track/6WiOLR12myN6odhdOcwC9P"
+    },
+    {
+      "added_at": "2025-12-12 08:25:08",
+      "album": {
+        "name": "Melody At Night",
+        "url": "https://open.spotify.com/album/2ZJefc9NERyNMMhndARgxl"
+      },
+      "artists": [
+        {
+          "name": "Copenhagen Jazzexperience",
+          "url": "https://open.spotify.com/artist/4JEWCpMIrw4HJgsAlkblBo"
+        },
+        {
+          "name": "Claus Waidtl\u00f8w",
+          "url": "https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D"
+        },
+        {
+          "name": "Jacob Christoffersen",
+          "url": "https://open.spotify.com/artist/3ljK3UprmcWotHs686486V"
+        }
+      ],
+      "duration_ms": 271547,
+      "name": "Melody At Night",
+      "url": "https://open.spotify.com/track/6H8Kb2KHTCOhMBRifugOKj"
     },
     {
       "added_at": "2025-12-12 08:25:08",
@@ -3683,30 +3683,6 @@
     {
       "added_at": "2025-12-12 08:25:08",
       "album": {
-        "name": "We'll Be Together Again",
-        "url": "https://open.spotify.com/album/1bzgX2nMfXveMPGZOYNzZ7"
-      },
-      "artists": [
-        {
-          "name": "Copenhagen Jazzexperience",
-          "url": "https://open.spotify.com/artist/4JEWCpMIrw4HJgsAlkblBo"
-        },
-        {
-          "name": "Jacob Christoffersen",
-          "url": "https://open.spotify.com/artist/3ljK3UprmcWotHs686486V"
-        },
-        {
-          "name": "Claus Waidtl\u00f8w",
-          "url": "https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D"
-        }
-      ],
-      "duration_ms": 308193,
-      "name": "We'll Be Together Again",
-      "url": "https://open.spotify.com/track/7a4Pzn2ppZP1GNLyrgL4J8"
-    },
-    {
-      "added_at": "2025-12-12 08:25:08",
-      "album": {
         "name": "Solitude",
         "url": "https://open.spotify.com/album/6dg81LClJnOYRrxsQMKrw3"
       },
@@ -3727,6 +3703,30 @@
       "duration_ms": 198709,
       "name": "Solitude",
       "url": "https://open.spotify.com/track/6arlOMZlYZZffIyRh3brB8"
+    },
+    {
+      "added_at": "2025-12-12 08:25:08",
+      "album": {
+        "name": "We'll Be Together Again",
+        "url": "https://open.spotify.com/album/1bzgX2nMfXveMPGZOYNzZ7"
+      },
+      "artists": [
+        {
+          "name": "Copenhagen Jazzexperience",
+          "url": "https://open.spotify.com/artist/4JEWCpMIrw4HJgsAlkblBo"
+        },
+        {
+          "name": "Jacob Christoffersen",
+          "url": "https://open.spotify.com/artist/3ljK3UprmcWotHs686486V"
+        },
+        {
+          "name": "Claus Waidtl\u00f8w",
+          "url": "https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D"
+        }
+      ],
+      "duration_ms": 308193,
+      "name": "We'll Be Together Again",
+      "url": "https://open.spotify.com/track/7a4Pzn2ppZP1GNLyrgL4J8"
     },
     {
       "added_at": "2025-12-12 08:25:08",

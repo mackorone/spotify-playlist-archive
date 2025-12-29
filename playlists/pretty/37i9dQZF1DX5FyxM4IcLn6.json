@@ -1,6 +1,6 @@
 {
   "description": "Listen to selected nominees for the 68th GRAMMY Awards.",
-  "num_followers": 152204,
+  "num_followers": 152195,
   "original_name": "The GRAMMYs Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -191,6 +191,22 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
+        "name": "Folded",
+        "url": "https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 238120,
+      "name": "Folded",
+      "url": "https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
         "name": "Cosa Nuestra",
         "url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
       },
@@ -211,18 +227,22 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "Folded",
-        "url": "https://open.spotify.com/album/5enIvPn8EEPWMGxzBzxvcm"
+        "name": "APT.",
+        "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
       },
       "artists": [
         {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 238120,
-      "name": "Folded",
-      "url": "https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA"
+      "duration_ms": 169917,
+      "name": "APT.",
+      "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -243,26 +263,6 @@
       "duration_ms": 142550,
       "name": "Just Keep Watching (From F1\u00ae The Movie)",
       "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
-        "name": "APT.",
-        "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
-      },
-      "artists": [
-        {
-          "name": "ROS\u00c9",
-          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 169917,
-      "name": "APT.",
-      "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -303,22 +303,6 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "The Subway",
-        "url": "https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 252276,
-      "name": "The Subway",
-      "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
         "name": "I've Tried Everything But Therapy (Part 2)",
         "url": "https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 212002,
       "name": "ME JALO",
       "url": "https://open.spotify.com/track/3D24ErT1MMmUfXWotSj2A2"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
+        "name": "The Subway",
+        "url": "https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 252276,
+      "name": "The Subway",
+      "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -539,6 +539,22 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
+        "name": "The Emptiness Machine",
+        "url": "https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 190427,
+      "name": "The Emptiness Machine",
+      "url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
         "name": "Wicked: The Soundtrack",
         "url": "https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 459766,
       "name": "Defying Gravity",
       "url": "https://open.spotify.com/track/5QMrH5nszZZR3nefIj6Mar"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
-        "name": "The Emptiness Machine",
-        "url": "https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 190427,
-      "name": "The Emptiness Machine",
-      "url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -763,6 +763,22 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
+        "name": "moisturizer",
+        "url": "https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 204475,
+      "name": "mangetout",
+      "url": "https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
         "name": "Gimme Dat",
         "url": "https://open.spotify.com/album/16yWMD5lpeu1DOUxApwK3V"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 225500,
       "name": "Gimme Dat (feat. Wizkid)",
       "url": "https://open.spotify.com/track/1k51Q6GFWBbsaWlBB2gnzo"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
-        "name": "moisturizer",
-        "url": "https://open.spotify.com/album/3YVnHpyms4rLr3fXS0ROQy"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 204475,
-      "name": "mangetout",
-      "url": "https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -879,22 +879,6 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "Deadbeat",
-        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 432566,
-      "name": "End Of Summer",
-      "url": "https://open.spotify.com/track/3McBKxKZLXbE4czUezk5QG"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
         "name": "Where I've Been, Isn't Where I'm Going: The Complete Edition",
         "url": "https://open.spotify.com/album/7h7fjoD137eLq9B3KHWXtW"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 197403,
       "name": "Amen",
       "url": "https://open.spotify.com/track/2iSfSJrho5XkU2NmAnZ9ZV"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
+        "name": "Deadbeat",
+        "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 432566,
+      "name": "End Of Summer",
+      "url": "https://open.spotify.com/track/3McBKxKZLXbE4czUezk5QG"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "Ego Death At A Bachelorette Party",
-        "url": "https://open.spotify.com/album/7yuacKJrB2f9uISasjM0Kv"
-      },
-      "artists": [
-        {
-          "name": "Hayley Williams",
-          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
-        }
-      ],
-      "duration_ms": 220101,
-      "name": "Parachute",
-      "url": "https://open.spotify.com/track/2hUGBM8wOKu0W1yFxdKzWb"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
         "name": "LOVE ON DIGITAL",
         "url": "https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 236635,
       "name": "KISSING IN PUBLIC",
       "url": "https://open.spotify.com/track/6sJR82bgpwFPjzB1DHzGw8"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
+        "name": "Ego Death At A Bachelorette Party",
+        "url": "https://open.spotify.com/album/7yuacKJrB2f9uISasjM0Kv"
+      },
+      "artists": [
+        {
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+        }
+      ],
+      "duration_ms": 220101,
+      "name": "Parachute",
+      "url": "https://open.spotify.com/track/2hUGBM8wOKu0W1yFxdKzWb"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "Glum",
-        "url": "https://open.spotify.com/album/4cVwrr3LtOc7GEJ4LHZEsk"
-      },
-      "artists": [
-        {
-          "name": "Hayley Williams",
-          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
-        }
-      ],
-      "duration_ms": 191379,
-      "name": "Glum",
-      "url": "https://open.spotify.com/track/0kpB9iZJ9eMPQiMU9W6ouD"
-    },
-    {
-      "added_at": "2025-11-12 17:50:29",
-      "album": {
         "name": "Parasomnia",
         "url": "https://open.spotify.com/album/0ER7sdwIe6mfM63TbWcHmd"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 595160,
       "name": "Night Terror",
       "url": "https://open.spotify.com/track/2eEY3SOjaDoZmx6mC2QTLU"
+    },
+    {
+      "added_at": "2025-11-12 17:50:29",
+      "album": {
+        "name": "Glum",
+        "url": "https://open.spotify.com/album/4cVwrr3LtOc7GEJ4LHZEsk"
+      },
+      "artists": [
+        {
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+        }
+      ],
+      "duration_ms": 191379,
+      "name": "Glum",
+      "url": "https://open.spotify.com/track/0kpB9iZJ9eMPQiMU9W6ouD"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -1915,22 +1915,22 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "\u00bfY ahora qu\u00e9?",
-        "url": "https://open.spotify.com/album/4idEUGJW1xj2VMK8EWYYMI"
+        "name": "Cowboys And Dreamers",
+        "url": "https://open.spotify.com/album/1ny6U0ma4yGHppI1HuQ7gJ"
       },
       "artists": [
         {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
         },
         {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 153706,
-      "name": "Hoy no me siento bien",
-      "url": "https://open.spotify.com/track/05qgnj05ISVHo82ODxqgqs"
+      "duration_ms": 189746,
+      "name": "Honky Tonk Hall Of Fame",
+      "url": "https://open.spotify.com/track/3ETCVKhAVXx0a8ohAeSP7d"
     },
     {
       "added_at": "2025-11-12 17:50:29",
@@ -1955,22 +1955,22 @@
     {
       "added_at": "2025-11-12 17:50:29",
       "album": {
-        "name": "Cowboys And Dreamers",
-        "url": "https://open.spotify.com/album/1ny6U0ma4yGHppI1HuQ7gJ"
+        "name": "\u00bfY ahora qu\u00e9?",
+        "url": "https://open.spotify.com/album/4idEUGJW1xj2VMK8EWYYMI"
       },
       "artists": [
         {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
         },
         {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         }
       ],
-      "duration_ms": 189746,
-      "name": "Honky Tonk Hall Of Fame",
-      "url": "https://open.spotify.com/track/3ETCVKhAVXx0a8ohAeSP7d"
+      "duration_ms": 153706,
+      "name": "Hoy no me siento bien",
+      "url": "https://open.spotify.com/track/05qgnj05ISVHo82ODxqgqs"
     },
     {
       "added_at": "2025-11-12 17:50:29",

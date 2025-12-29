@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 
 > Les plus belles ballades de la chanson française d'hier et d'aujourd'hui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,388 likes - 75 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,416 likes - 75 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 | 72 | [Les p'tites jolies choses](https://open.spotify.com/track/79X8l247aT8r4cKON18nMX) | [Joyce Jonathan](https://open.spotify.com/artist/25eQCECJH4VTpBYV9jhpyE) | [Les p'tites jolies choses](https://open.spotify.com/album/4bQJbVYzrX2HuPdmvcYg7S) | 3:27 |
 | 73 | [L’Épine](https://open.spotify.com/track/10lnnY7ld9xjYY6pl75zTp) | [Juliette Armanet](https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa) | [Brûler le Feu 2](https://open.spotify.com/album/4cpqnqV7914MH1bGNqbS0t) | 2:57 |
 | 74 | [Ici et là](https://open.spotify.com/track/72RNGuGXnvNhVrxi6OgjBz) | [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x) | [Âme fifties](https://open.spotify.com/album/47muEu6fz7NIvfr5Ancw85) | 3:05 |
-| 75 | [Si j'avais su \- Acoustique](https://open.spotify.com/track/6JWxvM4BAy4YCGneIdJ4Lp) | [Claudio Capéo](https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz) | [Rose des vents \(Version deluxe\)](https://open.spotify.com/album/3Aex91qb2mhCvvcMlwMAwj) | 3:36 |
+| 75 | [La nuit \- Version acoustique](https://open.spotify.com/track/5oMxSGCH3VN6WGmQFfWalA) | [Piedbois](https://open.spotify.com/artist/6du4xPxjM9fbB5pUBTZjea) | [La nuit \(Version acoustique\)](https://open.spotify.com/album/0wstgbk3ju0NhMX2CiqA7S) | 3:51 |
 
 Snapshot ID: `AAAAAJyKZB6G/hP8b9MjpZX9779myDWY`

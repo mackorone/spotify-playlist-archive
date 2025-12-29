@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 
 > Where everything is lovely and snuggly <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 746,663 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 746,673 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 | 33 | [Cigarettes and Coffee](https://open.spotify.com/track/4PFiLGx8jAzcAJxwPLUeZ9) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Soul Album](https://open.spotify.com/album/3YKQkIPHtWGuvkBeVNIMhg) | 4:00 |
 | 34 | [Naked as We Came](https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days \(Deluxe Edition\)](https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m) | 2:32 |
 | 35 | [La Lune](https://open.spotify.com/track/0DwaOWI1kC2s98qLj0LTDd) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Writing of Blues and Yellows \(Deluxe Version\)](https://open.spotify.com/album/3WHmv6ghPoM7oA0rP6jMkT) | 3:07 |
-| 36 | [Oh No](https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Oh No / Liahr](https://open.spotify.com/album/1w2W9vCxa8rEZQc13qjE3f) | 2:44 |
-| 37 | [Such A Simple Thing](https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Part Of The Light](https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f) | 4:58 |
+| 36 | [Such A Simple Thing](https://open.spotify.com/track/4PuUa8e5s7P3Zv1IdCGIsa) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Part Of The Light](https://open.spotify.com/album/7dozbeo4NF2OyFayHPKI1f) | 4:58 |
+| 37 | [Oh No](https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Oh No / Liahr](https://open.spotify.com/album/1w2W9vCxa8rEZQc13qjE3f) | 2:44 |
 | 38 | [cold/mess](https://open.spotify.com/track/7uhINGViZPygI2AljxO8KN) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [cold/mess](https://open.spotify.com/album/6FzicG6wlKHogiRaGAbvBK) | 4:41 |
 | 39 | [Astronomy](https://open.spotify.com/track/0KmgJyW4GDgonqsoyx0CZ3) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Astronomy](https://open.spotify.com/album/4vs2JiaS6RjyxMcl0MvxLk) | 4:03 |
 | 40 | [When I Get My Hands On You](https://open.spotify.com/track/4Fs6KJzg4d0xrGZt7wrC0M) | [The New Basement Tapes](https://open.spotify.com/artist/2oQpz9DEfhuSbuT8hjhTDK) | [Lost On The River](https://open.spotify.com/album/0P08GE8Ep1eBK9dOnaYdRq) | 3:10 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 | 50 | [If We Make It Through December](https://open.spotify.com/track/2TbmStBMTF3Nhwf7Jullfe) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [So Much Wine](https://open.spotify.com/album/42iPQ0sFMyNdjTTPsEbjEC) | 2:59 |
 | 51 | [White Roses](https://open.spotify.com/track/5xxHfQuaXGEBHtsGbSXwI7) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu), [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [White Roses](https://open.spotify.com/album/01vINTMNqHsxWYTo9HZVJk) | 3:26 |
 | 52 | [Brooklyn Baby \- Spotify Singles](https://open.spotify.com/track/7oPy7n1yowiREvMyypIBEC) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Brooklyn Baby \- Spotify Singles](https://open.spotify.com/album/3BVT8znNQvlb22E3ZMu6Uc) | 5:45 |
-| 53 | [Don't Let Me Down \- Demo](https://open.spotify.com/track/1VwPTHAfPvcL1ZubK6qabL) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Don't Let Me Down \(Demo\)](https://open.spotify.com/album/7GWow8Uxx2X9Moop7GD3KR) | 3:15 |
-| 54 | [Sheep](https://open.spotify.com/track/7412fpVfB2PSSb1nENQczC) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Sheep](https://open.spotify.com/album/5a09nRt0ZS75T2PpjP1W0c) | 3:35 |
+| 53 | [Sheep](https://open.spotify.com/track/7412fpVfB2PSSb1nENQczC) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Sheep](https://open.spotify.com/album/5a09nRt0ZS75T2PpjP1W0c) | 3:35 |
+| 54 | [Don't Let Me Down \- Demo](https://open.spotify.com/track/1VwPTHAfPvcL1ZubK6qabL) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Don't Let Me Down \(Demo\)](https://open.spotify.com/album/7GWow8Uxx2X9Moop7GD3KR) | 3:15 |
 | 55 | [You Send Me](https://open.spotify.com/track/5aivQ5CkXXHJoMLy0o92HL) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Man Who Invented Soul](https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY) | 2:42 |
 | 56 | [Twinkle](https://open.spotify.com/track/0HYx2H2vKfC3CqwdsmDWcf) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Sticky Thumb](https://open.spotify.com/album/5fRFL33mS6f2EtH9RjOz68) | 3:14 |
 | 57 | [Sexy Weekend](https://open.spotify.com/track/3tjnCI2F64MOrRzi3NgXCA) | [Scoundrels](https://open.spotify.com/artist/4gk4lhkLjXnM1P7DT0TSuj) | [Sexy Weekend EP](https://open.spotify.com/album/0ELpN09jwSKKGQAtMTvdcY) | 4:11 |
@@ -71,16 +71,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 | 61 | [to be held](https://open.spotify.com/track/3eWCJgGDuUYVvMByy44MBE) | [Abby Powledge](https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ) | [to be held](https://open.spotify.com/album/5iJ7YzsoiOO1r1qh3v4aGI) | 3:54 |
 | 62 | [Honey Dove](https://open.spotify.com/track/1emxi7e5EWFsJmwSKTuUDH) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K), [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [My World](https://open.spotify.com/album/7ElHdWPD6YbkbltJQgCiDc) | 4:06 |
 | 63 | [Sapling](https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Sapling / Signs Of Life](https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH) | 4:17 |
-| 64 | [Quite Like You](https://open.spotify.com/track/46zMfAycgHfH8mq7cm25zX) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [The Party](https://open.spotify.com/album/35FWLG8Ysjj1BF3sx4F6zM) | 3:25 |
-| 65 | [Sunblind](https://open.spotify.com/track/308prODCCD0O660tIktbUi) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 4:13 |
+| 64 | [Sunblind](https://open.spotify.com/track/308prODCCD0O660tIktbUi) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 4:13 |
+| 65 | [Quite Like You](https://open.spotify.com/track/46zMfAycgHfH8mq7cm25zX) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [The Party](https://open.spotify.com/album/35FWLG8Ysjj1BF3sx4F6zM) | 3:25 |
 | 66 | [Two Trees](https://open.spotify.com/track/64jxwV2kklovj7ldPsPsXF) | [Ben L'Oncle Soul](https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK) | [Addicted To You](https://open.spotify.com/album/03mQWhCkJ77Hq9aP8dD21r) | 4:10 |
 | 67 | [Ayayai](https://open.spotify.com/track/5Ia9AtWXI3DjcfVdlfczRl) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Tamale](https://open.spotify.com/album/03qMGEbUXMypieuFY8xOsn) | 2:50 |
 | 68 | [Is There a Place I Can Go](https://open.spotify.com/track/1wR6F2NFDjBlDAYEHnAPS9) | [Trudy and the Romance](https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou) | [Junkyard Jazz](https://open.spotify.com/album/1MBaEeGuZFixWVTARJ4amP) | 4:38 |
-| 69 | [Malleable](https://open.spotify.com/track/4InJveZw3lD1gYUKEO4FtH) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [All For Something](https://open.spotify.com/album/5oOtwx1qgZoWzvqu1pvmZm) | 4:01 |
+| 69 | [Debbie Darling](https://open.spotify.com/track/1T13ZqrqIEppYk5zEMh2Lc) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [No Way To Relax When You Are On Fire](https://open.spotify.com/album/50nvPOvceq4QENvfPhSEoC) | 3:48 |
 | 70 | [Crescent Moon](https://open.spotify.com/track/2mC6CRPtuIZ97WZh4rJ2Pq) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M), [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Crescent Moon](https://open.spotify.com/album/30LwxW0bx1QYmIpkBhGcSS) | 3:19 |
-| 71 | [Debbie Darling](https://open.spotify.com/track/1T13ZqrqIEppYk5zEMh2Lc) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [No Way To Relax When You Are On Fire](https://open.spotify.com/album/50nvPOvceq4QENvfPhSEoC) | 3:48 |
-| 72 | [Lucky](https://open.spotify.com/track/0mYslGmbnkbxuyr0ISIYtB) | [Choker](https://open.spotify.com/artist/5XQRfs0gXs30aWUn1Umves) | [Forever & A Few](https://open.spotify.com/album/1NHlnn47gB3IrP9fwahcjF) | 4:11 |
-| 73 | [Out Of The Blue](https://open.spotify.com/track/3aV4xJGmhJHnyRhnzx5iHE) | [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Expectations](https://open.spotify.com/album/1v30ZLtb2nYIWqDto4GuIP) | 5:12 |
+| 71 | [Malleable](https://open.spotify.com/track/4InJveZw3lD1gYUKEO4FtH) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [All For Something](https://open.spotify.com/album/5oOtwx1qgZoWzvqu1pvmZm) | 4:01 |
+| 72 | [Out Of The Blue](https://open.spotify.com/track/3aV4xJGmhJHnyRhnzx5iHE) | [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Expectations](https://open.spotify.com/album/1v30ZLtb2nYIWqDto4GuIP) | 5:12 |
+| 73 | [Lucky](https://open.spotify.com/track/0mYslGmbnkbxuyr0ISIYtB) | [Choker](https://open.spotify.com/artist/5XQRfs0gXs30aWUn1Umves) | [Forever & A Few](https://open.spotify.com/album/1NHlnn47gB3IrP9fwahcjF) | 4:11 |
 | 74 | [Baby Where You Are](https://open.spotify.com/track/7tZwFmarYtM2Yxy8IRW8wb) | [Mountain Man](https://open.spotify.com/artist/5kmPNusdo1mCTyz4u1uEGm) | [Magic Ship](https://open.spotify.com/album/26ahuw4JsKSGyNN1PCZe83) | 2:49 |
 | 75 | [How many miles](https://open.spotify.com/track/5zL6U9C5mmeaJSks7H4Xmw) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Candy / How many miles](https://open.spotify.com/album/1bxCJT77jNW4aIwOsJoN1T) | 2:21 |
 | 76 | [Curse The Man](https://open.spotify.com/track/5rLh6WWpAbDcJrT9qwmSM3) | [The Army, The Navy](https://open.spotify.com/artist/4MAnvDgzeM6bAVUVUbUeFI) | [Sugar For Bugs](https://open.spotify.com/album/6ENuJHPuWUCIogsF4rNwaD) | 3:34 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tTW0xDxScH.md) - [plain]
 | 97 | [Under Control](https://open.spotify.com/track/1bb6gTCP4Va0ZGufhsj5W4) | [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [Under Control](https://open.spotify.com/album/329Nx0MeGialRb8cIBdalI) | 3:17 |
 | 98 | [As You Are](https://open.spotify.com/track/7CTmqJH6JmlT16HJP3Amet) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Scout](https://open.spotify.com/album/6gZWk2mfNHb7jxZhlGTBnQ) | 2:21 |
 | 99 | [Sinister](https://open.spotify.com/track/2MQUsbqX5jwI8cGyznd1wJ) | [Mallory Merk](https://open.spotify.com/artist/5GHFapUxfP2H2xxuMytwaF) | [Sinister](https://open.spotify.com/album/2OgpoK5t7jV7OdG1VFIh9V) | 2:36 |
-| 100 | [Wrapped Inside Of Your Arms](https://open.spotify.com/track/0FbwvLi22mcuZjxk0BwHmK) | [The Greeting Committee](https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm) | [Dandelion](https://open.spotify.com/album/3VUCu7FabxaBsNopxsLIkG) | 3:12 |
+| 100 | [I Love That Sound](https://open.spotify.com/track/2RHpwBpMYILsFRxbwp8t8E) | [Michael Bernard Fitzgerald](https://open.spotify.com/artist/7qugSH6OA23DE6I5v4kpdv) | [I Love That Sound](https://open.spotify.com/album/2tgJc41zUNeeBlocD34nRW) | 3:02 |
 
 Snapshot ID: `AAAAAJ2QCM0RpBcRWaYRkdiynR+wdpq/`

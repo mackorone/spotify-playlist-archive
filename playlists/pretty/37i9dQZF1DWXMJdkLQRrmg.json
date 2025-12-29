@@ -1,6 +1,6 @@
 {
   "description": "Rock unplugged. ",
-  "num_followers": 360951,
+  "num_followers": 360980,
   "original_name": "Stripped Down",
   "owner": {
     "name": "Spotify",
@@ -335,22 +335,6 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
-        "name": "Patience",
-        "url": "https://open.spotify.com/album/6EEv3516e4dH7sAPPUq9oo"
-      },
-      "artists": [
-        {
-          "name": "Chris Cornell",
-          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
-        }
-      ],
-      "duration_ms": 253120,
-      "name": "Patience",
-      "url": "https://open.spotify.com/track/7n3u7RrzdXGVcclBEp9aSa"
-    },
-    {
-      "added_at": "2024-07-05 19:40:49",
-      "album": {
         "name": "mainstream sellout (life in pink deluxe)",
         "url": "https://open.spotify.com/album/5mj5NblnMMm5G3n1cugGH7"
       },
@@ -371,22 +355,6 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
-        "name": "Broken Machine (Deluxe)",
-        "url": "https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 214421,
-      "name": "Sorry - Acoustic",
-      "url": "https://open.spotify.com/track/0Akytll1e5KvwNKvhqIZFn"
-    },
-    {
-      "added_at": "2024-07-05 19:40:49",
-      "album": {
         "name": "B-Sides & Rarities",
         "url": "https://open.spotify.com/album/3hBCkMqaYnCmJciEUKqyfC"
       },
@@ -399,6 +367,38 @@
       "duration_ms": 316293,
       "name": "Change (In the House of Flies) - Acoustic; 2005 Remaster",
       "url": "https://open.spotify.com/track/0ovy04t3RUHvnkijp62ITq"
+    },
+    {
+      "added_at": "2024-07-05 19:40:49",
+      "album": {
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/6EEv3516e4dH7sAPPUq9oo"
+      },
+      "artists": [
+        {
+          "name": "Chris Cornell",
+          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
+        }
+      ],
+      "duration_ms": 253120,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/7n3u7RrzdXGVcclBEp9aSa"
+    },
+    {
+      "added_at": "2024-07-05 19:40:49",
+      "album": {
+        "name": "Broken Machine (Deluxe)",
+        "url": "https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 214421,
+      "name": "Sorry - Acoustic",
+      "url": "https://open.spotify.com/track/0Akytll1e5KvwNKvhqIZFn"
     },
     {
       "added_at": "2024-07-05 19:40:49",
@@ -843,6 +843,22 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
+        "name": "Hard To Be Alone",
+        "url": "https://open.spotify.com/album/17YtufgEFZfCK0qhSZ2K14"
+      },
+      "artists": [
+        {
+          "name": "Barns Courtney",
+          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
+        }
+      ],
+      "duration_ms": 182053,
+      "name": "Hard To Be Alone",
+      "url": "https://open.spotify.com/track/14NNdJ03Vt6QfrY99FpmE5"
+    },
+    {
+      "added_at": "2024-07-05 19:40:49",
+      "album": {
         "name": "YOU DON\u2019T KNOW WHAT LOVE MEANS (feat. Taylor Acorn) [Piano Version]",
         "url": "https://open.spotify.com/album/62wf2rnKI9Tdet34h5jduw"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 163120,
       "name": "Synchronize - Acoustic Version",
       "url": "https://open.spotify.com/track/3PIs1vosCm2jxHX3E7Q1M0"
-    },
-    {
-      "added_at": "2024-07-05 19:40:49",
-      "album": {
-        "name": "Hard To Be Alone",
-        "url": "https://open.spotify.com/album/17YtufgEFZfCK0qhSZ2K14"
-      },
-      "artists": [
-        {
-          "name": "Barns Courtney",
-          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
-        }
-      ],
-      "duration_ms": 182053,
-      "name": "Hard To Be Alone",
-      "url": "https://open.spotify.com/track/14NNdJ03Vt6QfrY99FpmE5"
     },
     {
       "added_at": "2024-07-05 19:40:49",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU3QAAAAAAAmWp/07ARjDakESm09FytJ",
+  "snapshot_id": "aU8hgAAAAADRm8VPFF7WUgrGThDA+p/L",
   "tracks": [
     {
       "added_at": null,
@@ -239,6 +239,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blame It On Eve",
+        "url": "https://open.spotify.com/album/7m3qvKAyHoJWjwM16COHHu"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "duration_ms": 190253,
+      "name": "Get On Down The Road",
+      "url": "https://open.spotify.com/track/4ra4IVBB0W3w9ssFLU7Ovl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Our Church",
         "url": "https://open.spotify.com/album/4B4LxUhDgy2eBRaT3UQFxX"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 219000,
       "name": "Our Church",
       "url": "https://open.spotify.com/track/1Y4dvnpSu7lLWnM571HWJV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blame It On Eve",
-        "url": "https://open.spotify.com/album/7m3qvKAyHoJWjwM16COHHu"
-      },
-      "artists": [
-        {
-          "name": "Adam Brand",
-          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
-        }
-      ],
-      "duration_ms": 190253,
-      "name": "Get On Down The Road",
-      "url": "https://open.spotify.com/track/4ra4IVBB0W3w9ssFLU7Ovl"
     },
     {
       "added_at": null,
@@ -512,25 +512,9 @@
           "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
         }
       ],
-      "duration_ms": 158095,
-      "name": "Still the One",
-      "url": "https://open.spotify.com/track/2ceH3rP6AaMxeic16vZTA9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hell Of A Ride",
-        "url": "https://open.spotify.com/album/3jr1KlG1KMAwn0DdrdKdlD"
-      },
-      "artists": [
-        {
-          "name": "Adam Brand",
-          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
-        }
-      ],
-      "duration_ms": 235773,
-      "name": "Ready For Love",
-      "url": "https://open.spotify.com/track/3heRmurvgVqyQ6ehWF8LfA"
+      "duration_ms": 191979,
+      "name": "I'm Coming Home",
+      "url": "https://open.spotify.com/track/6Ju9JvPsdTo89SRBAc13DC"
     },
     {
       "added_at": null,
@@ -551,28 +535,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Speed of Life",
-        "url": "https://open.spotify.com/album/3839iZRfCQ9mZgkCrAeLng"
-      },
-      "artists": [
-        {
-          "name": "Adam Brand",
-          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
-        },
-        {
-          "name": "Casey Donovan",
-          "url": "https://open.spotify.com/artist/64NYtjmJ1onMOgQ2F40d6X"
-        }
-      ],
-      "duration_ms": 205022,
-      "name": "You Are Not Alone",
-      "url": "https://open.spotify.com/track/5mP1Lr0EfB2rj2BAfYaZag"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All or Nothing",
-        "url": "https://open.spotify.com/album/6mrv40a43iC5ocTZXkFOjX"
+        "name": "Hell Of A Ride",
+        "url": "https://open.spotify.com/album/3jr1KlG1KMAwn0DdrdKdlD"
       },
       "artists": [
         {
@@ -580,9 +544,9 @@
           "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
         }
       ],
-      "duration_ms": 191979,
-      "name": "I'm Coming Home",
-      "url": "https://open.spotify.com/track/6Ju9JvPsdTo89SRBAc13DC"
+      "duration_ms": 235773,
+      "name": "Ready For Love",
+      "url": "https://open.spotify.com/track/3heRmurvgVqyQ6ehWF8LfA"
     },
     {
       "added_at": null,
@@ -603,6 +567,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "All or Nothing",
+        "url": "https://open.spotify.com/album/6mrv40a43iC5ocTZXkFOjX"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "duration_ms": 158095,
+      "name": "Still the One",
+      "url": "https://open.spotify.com/track/2ceH3rP6AaMxeic16vZTA9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Adam Brand (Special Bonus Tour Edition)",
         "url": "https://open.spotify.com/album/6gbQrmthnmtDT6soaOitlD"
       },
@@ -619,6 +599,22 @@
       "duration_ms": 218666,
       "name": "Love Away The Night",
       "url": "https://open.spotify.com/track/2K5fjFQdfp8YK0Z0kEmZ1a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Get On Your Feet",
+        "url": "https://open.spotify.com/album/4VdAuCZjhP4kjQCiJuVvwX"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "duration_ms": 180533,
+      "name": "Get on Your Feet",
+      "url": "https://open.spotify.com/track/1gBuPJ2nGN3uIC9cgy0QFe"
     },
     {
       "added_at": null,
@@ -655,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get On Your Feet",
-        "url": "https://open.spotify.com/album/4VdAuCZjhP4kjQCiJuVvwX"
-      },
-      "artists": [
-        {
-          "name": "Adam Brand",
-          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
-        }
-      ],
-      "duration_ms": 200293,
-      "name": "Drunk",
-      "url": "https://open.spotify.com/track/3PvLDkx6Xz934xsrSk6pqO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Built For Speed",
         "url": "https://open.spotify.com/album/3lHKHRM23ctBS8tJjISrJZ"
       },
@@ -687,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "What a Life",
-        "url": "https://open.spotify.com/album/53KjiiG7QDqJhoikHHpnPD"
+        "name": "Get On Your Feet",
+        "url": "https://open.spotify.com/album/4VdAuCZjhP4kjQCiJuVvwX"
       },
       "artists": [
         {
@@ -696,9 +676,9 @@
           "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
         }
       ],
-      "duration_ms": 243026,
-      "name": "That Changes Everything",
-      "url": "https://open.spotify.com/track/182cBcdeEOT7dpyHPvqqPB"
+      "duration_ms": 200293,
+      "name": "Drunk",
+      "url": "https://open.spotify.com/track/3PvLDkx6Xz934xsrSk6pqO"
     },
     {
       "added_at": null,
@@ -723,8 +703,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get On Your Feet",
-        "url": "https://open.spotify.com/album/4VdAuCZjhP4kjQCiJuVvwX"
+        "name": "Speed of Life",
+        "url": "https://open.spotify.com/album/3839iZRfCQ9mZgkCrAeLng"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        },
+        {
+          "name": "Casey Donovan",
+          "url": "https://open.spotify.com/artist/64NYtjmJ1onMOgQ2F40d6X"
+        }
+      ],
+      "duration_ms": 205022,
+      "name": "You Are Not Alone",
+      "url": "https://open.spotify.com/track/5mP1Lr0EfB2rj2BAfYaZag"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What a Life",
+        "url": "https://open.spotify.com/album/53KjiiG7QDqJhoikHHpnPD"
       },
       "artists": [
         {
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
         }
       ],
-      "duration_ms": 180533,
-      "name": "Get on Your Feet",
-      "url": "https://open.spotify.com/track/1gBuPJ2nGN3uIC9cgy0QFe"
+      "duration_ms": 243026,
+      "name": "That Changes Everything",
+      "url": "https://open.spotify.com/track/182cBcdeEOT7dpyHPvqqPB"
     },
     {
       "added_at": null,
@@ -751,6 +751,22 @@
       "duration_ms": 193000,
       "name": "Gettin' There",
       "url": "https://open.spotify.com/track/4PI3yDy1ozrZXiefoNTe0W"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Get On Your Feet",
+        "url": "https://open.spotify.com/album/4VdAuCZjhP4kjQCiJuVvwX"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "duration_ms": 248746,
+      "name": "If Heaven Has a Soundtrack",
+      "url": "https://open.spotify.com/track/4PDqTf0wLEsF9UgVaiNoHb"
     },
     {
       "added_at": null,
@@ -791,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get On Your Feet",
-        "url": "https://open.spotify.com/album/4VdAuCZjhP4kjQCiJuVvwX"
-      },
-      "artists": [
-        {
-          "name": "Adam Brand",
-          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
-        }
-      ],
-      "duration_ms": 248746,
-      "name": "If Heaven Has a Soundtrack",
-      "url": "https://open.spotify.com/track/4PDqTf0wLEsF9UgVaiNoHb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Adam Brand and The Outlaws",
         "url": "https://open.spotify.com/album/4T2RGByox3Mf1gy23ZlE0h"
       },
@@ -843,22 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get Loud",
-        "url": "https://open.spotify.com/album/79nJV2y658fgNuiZL3Lbv8"
-      },
-      "artists": [
-        {
-          "name": "Adam Brand",
-          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
-        }
-      ],
-      "duration_ms": 281840,
-      "name": "Just Drive",
-      "url": "https://open.spotify.com/track/0xIDNsqh5vgRClu4t31F7b"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Good Friends",
         "url": "https://open.spotify.com/album/2K37cfIrnYl9iTWzugmGyz"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 216200,
       "name": "When I Get My Wheels",
       "url": "https://open.spotify.com/track/128zWWtr1fYyxJNLi0bFYh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Get Loud",
+        "url": "https://open.spotify.com/album/79nJV2y658fgNuiZL3Lbv8"
+      },
+      "artists": [
+        {
+          "name": "Adam Brand",
+          "url": "https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia"
+        }
+      ],
+      "duration_ms": 281840,
+      "name": "Just Drive",
+      "url": "https://open.spotify.com/track/0xIDNsqh5vgRClu4t31F7b"
     },
     {
       "added_at": null,

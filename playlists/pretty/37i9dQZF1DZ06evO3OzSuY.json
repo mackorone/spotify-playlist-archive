@@ -1,12 +1,12 @@
 {
   "description": "This is Zendaya. The essential tracks, all in one playlist.",
-  "num_followers": 24809,
+  "num_followers": 24811,
   "original_name": "This Is Zendaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU3QAAAAAACyYxAV2NfMZWyTTTM08MJ8",
+  "snapshot_id": "aU8hgAAAAADei8FDkYJ+APPpiyP1Mbdw",
   "tracks": [
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shake It Up: I <3 Dance",
-        "url": "https://open.spotify.com/album/1eYsH5gyuJJaHdNg5inMff"
-      },
-      "artists": [
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "duration_ms": 196026,
-      "name": "Beat Of My Drum",
-      "url": "https://open.spotify.com/track/3kQof6BTRSz9eo0e8E0mSU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shake It Up: Made In Japan (Original Soundtrack)",
         "url": "https://open.spotify.com/album/5TUn50U2OFVerctibxueCs"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 176560,
       "name": "Made In Japan",
       "url": "https://open.spotify.com/track/6MVd0fiTvnNySVpKcxox6I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shake It Up: I <3 Dance",
+        "url": "https://open.spotify.com/album/1eYsH5gyuJJaHdNg5inMff"
+      },
+      "artists": [
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        }
+      ],
+      "duration_ms": 196026,
+      "name": "Beat Of My Drum",
+      "url": "https://open.spotify.com/track/3kQof6BTRSz9eo0e8E0mSU"
     },
     {
       "added_at": null,
@@ -587,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Disney Fairies: Faith, Trust and Pixie Dust",
+        "url": "https://open.spotify.com/album/7CteF40ZbCHjLYBYyYpAAJ"
+      },
+      "artists": [
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        }
+      ],
+      "duration_ms": 182093,
+      "name": "Dig Down Deeper",
+      "url": "https://open.spotify.com/track/3r0TVEiVGNFI5nuX87nstb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shake It Up: I <3 Dance",
         "url": "https://open.spotify.com/album/1eYsH5gyuJJaHdNg5inMff"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 187813,
       "name": "This is My Dance Floor",
       "url": "https://open.spotify.com/track/6A4t0Qss5Azkt2D7n0XbFJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Disney Fairies: Faith, Trust and Pixie Dust",
-        "url": "https://open.spotify.com/album/7CteF40ZbCHjLYBYyYpAAJ"
-      },
-      "artists": [
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "duration_ms": 182093,
-      "name": "Dig Down Deeper",
-      "url": "https://open.spotify.com/track/3r0TVEiVGNFI5nuX87nstb"
     },
     {
       "added_at": null,

@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/1GFGwBXuIq1cn2TJ4K1awu.md) - [plain]
 
 > Ten or eleven songs a week\. Updated every Sunday\. Enjoy.
 
-[royva06](https://open.spotify.com/user/royva06) - 30 likes - 11 songs - 36 min 55 sec
+[royva06](https://open.spotify.com/user/royva06) - 30 likes - 11 songs - 38 min 4 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Kiss the Bottle](https://open.spotify.com/track/3l0ppvuWDg3wfmGAwYJ1m9) | [Lucero](https://open.spotify.com/artist/1MspPfENB9nzFGaagXmF7R) | [The Attic Tapes](https://open.spotify.com/album/5aHUM56H4zGh0QPTJ86hEF) | 3:43 |
-| 2 | [The Price Of Smokes](https://open.spotify.com/track/5b10YgbraRyefVi5DcvacM) | [The Chats](https://open.spotify.com/artist/1aQ7P3HtKOQFW16ebjiks1) | [Get Fucked](https://open.spotify.com/album/2TgXc0KeZDRjb9AsnSED7M) | 3:42 |
-| 3 | [You're Too Weird](https://open.spotify.com/track/5UcAW3tygU6dN6YTGhVYvS) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Tripper](https://open.spotify.com/album/1T3Cs0BLSZbyk0G62lvPtD) | 3:46 |
-| 4 | [Ray Gun](https://open.spotify.com/track/0IzR5fjY9gSy3nWxXosrQc) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [Sour Soul](https://open.spotify.com/album/7gP4vkln7Qmbycgx8WwTzL) | 3:07 |
-| 5 | [Sour Patch Kids](https://open.spotify.com/track/5DJNyvuMmZfsfvdTpMMmUq) | [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [Lazy Fair](https://open.spotify.com/album/08IW6sUfN9fRYG8Xlgm4oC) | 4:12 |
-| 6 | [Lies of Summer](https://open.spotify.com/track/2dUkDuxEhzuJ4Y9eCYgW7F) | [Aimee Mann](https://open.spotify.com/artist/3UpIbyXfGzmHG6TMH4dJEk) | [Mental Illness](https://open.spotify.com/album/0rwd3CfF5cJS46VB7kgBpG) | 2:42 |
-| 7 | [Dancing with your eyes closed](https://open.spotify.com/track/1XD4K4CGAKTIBmFpvuaFru) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Revengeseekerz](https://open.spotify.com/album/21b4cDNse2AMpj94ykfuON) | 3:50 |
-| 8 | [Trouble Blues](https://open.spotify.com/track/6bwfkwNkX4lkKK9pFmXQoI) | [Charles Brown](https://open.spotify.com/artist/3trsSEaKM3UM2R9RBJwdtJ) | [Trouble Blues](https://open.spotify.com/album/3nNx2ocb7TKmeRgh2obePY) | 2:21 |
-| 9 | [Set\-Up](https://open.spotify.com/track/53yNQW9DR49Sd6ME8EXSRw) | [Au Pairs](https://open.spotify.com/artist/5nGQE2ehuRkkK1iNUQQthd) | [Stepping Out of Line \- The Anthology](https://open.spotify.com/album/2vurTwlVL3loAEGFN5p6z0) | 3:18 |
-| 10 | [High By The Beach](https://open.spotify.com/track/7g3htkaLz4ETFn0cifwM3y) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Honeymoon](https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw) | 4:17 |
-| 11 | [Have Fun](https://open.spotify.com/track/4jQCJchULcVfb3LTjJ5rn1) | [Bleeding Knees Club](https://open.spotify.com/artist/3EMKuFv3kcl9wyKHepeWoF) | [Virginity](https://open.spotify.com/album/41hvvSqjpZEek559YRpYvR) | 1:52 |
+| 1 | [The Storm in You](https://open.spotify.com/track/0DAU6wRp2rtmeDAAzUbSLR) | [Ruen Brothers](https://open.spotify.com/artist/0CBu2ZuF5503TaauGVk1Go) | [ULTRAMODERN](https://open.spotify.com/album/5SL4ovEUi2N976NrZa7nhO) | 3:41 |
+| 2 | [How Do I Live](https://open.spotify.com/track/7BD50ATrF3Vab5FQy7vtK8) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Greatest Hits](https://open.spotify.com/album/5GIEvyzVeUKAs6Uf2EeoqD) | 4:26 |
+| 3 | [My Babe](https://open.spotify.com/track/2KoQiXDyIz2pnd33oukKEw) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Lucifer On The Sofa](https://open.spotify.com/album/1szMY4QqnQZgNuyLBC4jUQ) | 3:47 |
+| 4 | [Buttercup](https://open.spotify.com/track/6iCJCZqDJjmBxt07Oid6FI) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Landmark](https://open.spotify.com/album/0vb1g018puu47StlIi9wxC) | 3:46 |
+| 5 | [Moonwalking in Calabasas](https://open.spotify.com/track/3U5eLgmyGEAFEGjDQBcHEh) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [Moonwalking in Calabasas](https://open.spotify.com/album/50eadnl7DiIOL9lSFhrZBe) | 2:43 |
+| 6 | [Wild](https://open.spotify.com/track/5eBiYzceGrZTcXxxHM8Cc9) | [Screaming Females](https://open.spotify.com/artist/3pZ666b6CyO1KGpVYirY0t) | [Castle Talk](https://open.spotify.com/album/5xPSi0aOjs3cbObM9ZTOd1) | 3:40 |
+| 7 | [Love Is Only a Feeling](https://open.spotify.com/track/7umZiitjVsEjMQ6HNddpUI) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Love Is Only a Feeling](https://open.spotify.com/album/5e82uQW57EpmAOCJvLKMpr) | 2:32 |
+| 8 | [The First Taste](https://open.spotify.com/track/21Xc8hEIzv81jwiftI4hJB) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Tidal](https://open.spotify.com/album/5gVBXH8MT6zfdRkjp7qT18) | 4:46 |
+| 9 | [I Leave Again](https://open.spotify.com/track/5lPPvhs361e1ZoFh3OaAAC) | [Shannon & The Clams](https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE) | [Onion](https://open.spotify.com/album/33q5Lnqw87FHgKa2F6YB5W) | 3:09 |
+| 10 | [If This Tour Doesn't Kill You, I Will](https://open.spotify.com/track/273GJ8gvmeGI4LXKlcbBGJ) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [The Dream Is Over](https://open.spotify.com/album/3l94HZBpKFTn1plZ1WWQPf) | 2:18 |
+| 11 | [EARFQUAKE](https://open.spotify.com/track/5hVghJ4KaYES3BFUATCYn0) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 3:10 |
 
-Snapshot ID: `AAAI3jWNE4TUgrmeEReTakl0MRHi/1L2`
+Snapshot ID: `AAAI9H4zEXy7q4aiMltCFm05nNZkmtNT`

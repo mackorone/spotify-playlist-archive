@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZeHVf.md) - [plain]
 
 > This is CeCe Winans\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,872 likes - 50 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,888 likes - 50 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Goodness Of God \- Live](https://open.spotify.com/track/59uuKDpLFhHtCWwMudospF) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It](https://open.spotify.com/album/5UXG9YjxHZu7l4tTNjwIYX) | 4:57 |
+| 1 | [Worthy Of It All \- Live](https://open.spotify.com/track/5mkn0uyPYSIftszMBExMM4) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It](https://open.spotify.com/album/5UXG9YjxHZu7l4tTNjwIYX) | 5:29 |
 | 2 | [Holy Forever](https://open.spotify.com/track/45UENol7XHzhtasaMlCXVf) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Holy Forever](https://open.spotify.com/album/3lEsF7vsvyhRuP0MTjCuj4) | 9:43 |
 | 3 | [Holy Forever \(Live\)](https://open.spotify.com/track/5txryUrKT15O1BCxIo88LR) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Holy Forever \(Live\)](https://open.spotify.com/album/7MwpCdsgZQTHDlDzqmVYuM) | 10:42 |
 | 4 | [I Know A Name \(with Cece Winans\)](https://open.spotify.com/track/1r8WQfbxvLiyxBjY1jgKIW) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [King Of Hearts](https://open.spotify.com/album/39sqUPX1iGhkoubpTi9ORw) | 5:39 |
-| 5 | [Worthy Of It All \- Live](https://open.spotify.com/track/5mkn0uyPYSIftszMBExMM4) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It](https://open.spotify.com/album/5UXG9YjxHZu7l4tTNjwIYX) | 5:29 |
+| 5 | [Goodness Of God \- Live](https://open.spotify.com/track/59uuKDpLFhHtCWwMudospF) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It](https://open.spotify.com/album/5UXG9YjxHZu7l4tTNjwIYX) | 4:57 |
 | 6 | [That's My King](https://open.spotify.com/track/7HyTL3DCYAjRiPwWcWaT8x) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [More Than This](https://open.spotify.com/album/0zvZ25UkgLXQDZLQDxpwPw) | 4:11 |
 | 7 | [How Great Is Our God/How Great Thou Art \- Medley](https://open.spotify.com/track/4giHNYioIQoM2zGvDaAZ2S) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [CeCe Winans Presents Pure Worship](https://open.spotify.com/album/30KEIO6pQIvgHF3bpvhj6f) | 5:27 |
 | 8 | [Oh My Soul \(Psalm 103\) \(with Cece Winans\)](https://open.spotify.com/track/1MU67Dpv5XcjfMkEyFMtSv) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Oh My Soul \(Psalm 103\) \(with Cece Winans\)](https://open.spotify.com/album/5KuMeQiOo5QsYsKdUxoYaW) | 3:44 |
@@ -38,10 +38,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZeHVf.md) - [plain]
 | 28 | [Hallelujah To The King \- Intro](https://open.spotify.com/track/76NJYRHzTRjBqkS87nBCQv) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Throne Room \(Gold Edition\)](https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz) | 1:09 |
 | 29 | [He's Not On His Knees Yet](https://open.spotify.com/track/3AhG2xpFa39bulk3v24sjy) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Alabaster Box](https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK) | 3:10 |
 | 30 | [Just To Be Close To You \- Live](https://open.spotify.com/track/19n835mWp3BVGtHWBjhY4B) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It](https://open.spotify.com/album/5UXG9YjxHZu7l4tTNjwIYX) | 3:32 |
-| 31 | [More Than This](https://open.spotify.com/track/2kmucvuH6lJzDpvd5QXHWG) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [More Than This](https://open.spotify.com/album/2lsb6BmwfbVswn64kaLgcy) | 8:19 |
+| 31 | [Count On Me \- from "Waiting to Exhale" \- Original Soundtrack](https://open.spotify.com/track/7mVV7fepIMUAE4FDyihupV) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Waiting To Exhale](https://open.spotify.com/album/2EHFZkzTbRFDt1tomCBToM) | 4:26 |
 | 32 | [Come Fill My Heart](https://open.spotify.com/track/6ooJQCVtJdIdUJTX7MP0Bg) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Throne Room \(Gold Edition\)](https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz) | 4:48 |
 | 33 | [It Wasn't Easy](https://open.spotify.com/track/2ZxY2iNJs1rPWw1PrzHmKy) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Alabaster Box](https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK) | 4:48 |
-| 34 | [Count On Me \- from "Waiting to Exhale" \- Original Soundtrack](https://open.spotify.com/track/7mVV7fepIMUAE4FDyihupV) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Waiting To Exhale](https://open.spotify.com/album/2EHFZkzTbRFDt1tomCBToM) | 4:26 |
+| 34 | [More Than This](https://open.spotify.com/track/2kmucvuH6lJzDpvd5QXHWG) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [More Than This](https://open.spotify.com/album/2lsb6BmwfbVswn64kaLgcy) | 8:19 |
 | 35 | [King of Glory \- Live](https://open.spotify.com/track/7CyRF25QZlsZmFtFPnQSTF) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It](https://open.spotify.com/album/5UXG9YjxHZu7l4tTNjwIYX) | 10:35 |
 | 36 | [No One](https://open.spotify.com/track/2bpk4L2kxnIJRY8dPfkpZ3) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [CeCe Winans](https://open.spotify.com/album/0rJg3QtLoMmkkK91BOH69P) | 4:20 |
 | 37 | [I've Got Joy](https://open.spotify.com/track/6tbDvXVbqENripiP4beZpj) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Believe For It \(Deluxe Edition\)](https://open.spotify.com/album/40svdUPxmIoge1BkDNWSDw) | 3:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZeHVf.md) - [plain]
 | 49 | [Bless His Holy Name](https://open.spotify.com/track/4DVfAjlA3pAHPjv0DLVk2J) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Thy Kingdom Come](https://open.spotify.com/album/4wmO83yKXBEaAKME5PGOaF) | 4:31 |
 | 50 | [Looking Back At You](https://open.spotify.com/track/4bG7zbyd6ijoCm6P1Tin6g) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [CeCe Winans](https://open.spotify.com/album/0rJg3QtLoMmkkK91BOH69P) | 3:48 |
 
-Snapshot ID: `aU3QAAAAAADLhOPV3IIE0w+a7V+FyDbr`
+Snapshot ID: `aU8hgAAAAAB7dio+nDvrMmGnPLYhGnY8`

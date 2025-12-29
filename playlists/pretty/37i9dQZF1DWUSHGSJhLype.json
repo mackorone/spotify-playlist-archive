@@ -1,6 +1,6 @@
 {
   "description": "aqui tem feijoada hot dog com pur\u00ea sushi moqueca a\u00e7a\u00ed cm peixe frito mta coisa / Foto: Pedro Sampaio, Melody, MC Meno K",
-  "num_followers": 749785,
+  "num_followers": 750290,
   "original_name": "Puro Suco do Brasil",
   "owner": {
     "name": "Spotify",
@@ -599,6 +599,26 @@
     {
       "added_at": "2025-12-21 03:00:22",
       "album": {
+        "name": "Tardezinha Pela Vida Inteira (Ao Vivo)",
+        "url": "https://open.spotify.com/album/78YlYXuLBrzdmpi6AxaOPQ"
+      },
+      "artists": [
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        },
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        }
+      ],
+      "duration_ms": 243129,
+      "name": "Como Nunca Amei Ningu\u00e9m / Por T\u00e3o Pouco - Ao Vivo",
+      "url": "https://open.spotify.com/track/7HS03vpAYoQuZxeXSpzGbM"
+    },
+    {
+      "added_at": "2025-12-21 03:00:22",
+      "album": {
         "name": "BOA NOITE (CHEGUEI)",
         "url": "https://open.spotify.com/album/5lV41TU5XhMIQHa2aCViUR"
       },
@@ -623,26 +643,6 @@
       "duration_ms": 159777,
       "name": "BOA NOITE (CHEGUEI)",
       "url": "https://open.spotify.com/track/7gqB5ul2pZhMA80pX1orVZ"
-    },
-    {
-      "added_at": "2025-12-21 03:00:22",
-      "album": {
-        "name": "Tardezinha Pela Vida Inteira (Ao Vivo)",
-        "url": "https://open.spotify.com/album/78YlYXuLBrzdmpi6AxaOPQ"
-      },
-      "artists": [
-        {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
-        },
-        {
-          "name": "Sorriso Maroto",
-          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
-        }
-      ],
-      "duration_ms": 243129,
-      "name": "Como Nunca Amei Ningu\u00e9m / Por T\u00e3o Pouco - Ao Vivo",
-      "url": "https://open.spotify.com/track/7HS03vpAYoQuZxeXSpzGbM"
     },
     {
       "added_at": "2025-12-21 03:00:22",
@@ -723,26 +723,6 @@
     {
       "added_at": "2025-12-21 03:00:22",
       "album": {
-        "name": "DEBAIXO DO MEU CHAP\u00c9U, Vol. 2",
-        "url": "https://open.spotify.com/album/4k1l6rmHL1FL5rURdvJ5Kg"
-      },
-      "artists": [
-        {
-          "name": "Luan Pereira",
-          "url": "https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl"
-        },
-        {
-          "name": "Felipe Amorim",
-          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
-        }
-      ],
-      "duration_ms": 159082,
-      "name": "DENTRO DA LAND ROVER - Ao Vivo",
-      "url": "https://open.spotify.com/track/5BI4zdNsBNEBSPzYkO2EXZ"
-    },
-    {
-      "added_at": "2025-12-21 03:00:22",
-      "album": {
         "name": "Estilo Nattanzinho (Ao Vivo em S\u00e3o Paulo)",
         "url": "https://open.spotify.com/album/2NZDGGCTDkmll9tzbbddEO"
       },
@@ -759,22 +739,6 @@
       "duration_ms": 157557,
       "name": "\u00daltima Noite",
       "url": "https://open.spotify.com/track/6Ap9SM1WkmI4b4Mo2Cpa6f"
-    },
-    {
-      "added_at": "2025-12-21 03:00:22",
-      "album": {
-        "name": "Instinto (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1OkPtneB7ahh3BTiLG6dle"
-      },
-      "artists": [
-        {
-          "name": "Gamadinho",
-          "url": "https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt"
-        }
-      ],
-      "duration_ms": 213559,
-      "name": "Instinto - Ao Vivo",
-      "url": "https://open.spotify.com/track/7izihBeq9rmGYnierSTjv8"
     },
     {
       "added_at": "2025-12-21 03:00:22",
@@ -799,6 +763,42 @@
       "duration_ms": 129090,
       "name": "GOSTOSIN",
       "url": "https://open.spotify.com/track/2s4nhrlWTnmzSnGFH5pyAM"
+    },
+    {
+      "added_at": "2025-12-21 03:00:22",
+      "album": {
+        "name": "DEBAIXO DO MEU CHAP\u00c9U, Vol. 2",
+        "url": "https://open.spotify.com/album/4k1l6rmHL1FL5rURdvJ5Kg"
+      },
+      "artists": [
+        {
+          "name": "Luan Pereira",
+          "url": "https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl"
+        },
+        {
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+        }
+      ],
+      "duration_ms": 159082,
+      "name": "DENTRO DA LAND ROVER - Ao Vivo",
+      "url": "https://open.spotify.com/track/5BI4zdNsBNEBSPzYkO2EXZ"
+    },
+    {
+      "added_at": "2025-12-21 03:00:22",
+      "album": {
+        "name": "Instinto (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1OkPtneB7ahh3BTiLG6dle"
+      },
+      "artists": [
+        {
+          "name": "Gamadinho",
+          "url": "https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt"
+        }
+      ],
+      "duration_ms": 213559,
+      "name": "Instinto - Ao Vivo",
+      "url": "https://open.spotify.com/track/7izihBeq9rmGYnierSTjv8"
     },
     {
       "added_at": "2025-12-21 03:00:22",
@@ -847,6 +847,30 @@
     {
       "added_at": "2025-12-21 03:00:22",
       "album": {
+        "name": "Ensaios Da Anitta",
+        "url": "https://open.spotify.com/album/1h9SJU080omTqqqDf68qc9"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Mc Danny",
+          "url": "https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk"
+        },
+        {
+          "name": "HITMAKER",
+          "url": "https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg"
+        }
+      ],
+      "duration_ms": 160846,
+      "name": "Sei Que Tu Me Odeia",
+      "url": "https://open.spotify.com/track/77HhVmRv7IxDqkyMxElSrK"
+    },
+    {
+      "added_at": "2025-12-21 03:00:22",
+      "album": {
         "name": "Resenha do Arrocha 4.0",
         "url": "https://open.spotify.com/album/2T7BeLGczS8r3xcwPzzfGU"
       },
@@ -883,26 +907,26 @@
     {
       "added_at": "2025-12-21 03:00:22",
       "album": {
-        "name": "Ensaios Da Anitta",
-        "url": "https://open.spotify.com/album/1h9SJU080omTqqqDf68qc9"
+        "name": "Superfantasticamente (Superfantastico)",
+        "url": "https://open.spotify.com/album/59XAzmjcRnHQhErsREuAY8"
       },
       "artists": [
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "Henry Freitas",
+          "url": "https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM"
         },
         {
-          "name": "Mc Danny",
-          "url": "https://open.spotify.com/artist/3PZTvUS5fUUhV3EKAjqdZk"
+          "name": "Nuzio Medeiros",
+          "url": "https://open.spotify.com/artist/55tbxmVOI2mQ5eBWXPK7tL"
         },
         {
-          "name": "HITMAKER",
-          "url": "https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg"
+          "name": "Kadu Martins",
+          "url": "https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK"
         }
       ],
-      "duration_ms": 160846,
-      "name": "Sei Que Tu Me Odeia",
-      "url": "https://open.spotify.com/track/77HhVmRv7IxDqkyMxElSrK"
+      "duration_ms": 151136,
+      "name": "Superfantasticamente (Superfantastico)",
+      "url": "https://open.spotify.com/track/7fFXRzdVsW8nNIjgYwL5Pf"
     },
     {
       "added_at": "2025-12-21 03:00:22",
@@ -947,30 +971,6 @@
       "duration_ms": 193432,
       "name": "Do Job",
       "url": "https://open.spotify.com/track/3TnSAp3TfGMYptOqv234uK"
-    },
-    {
-      "added_at": "2025-12-21 03:00:22",
-      "album": {
-        "name": "Superfantasticamente (Superfantastico)",
-        "url": "https://open.spotify.com/album/59XAzmjcRnHQhErsREuAY8"
-      },
-      "artists": [
-        {
-          "name": "Henry Freitas",
-          "url": "https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM"
-        },
-        {
-          "name": "Nuzio Medeiros",
-          "url": "https://open.spotify.com/artist/55tbxmVOI2mQ5eBWXPK7tL"
-        },
-        {
-          "name": "Kadu Martins",
-          "url": "https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK"
-        }
-      ],
-      "duration_ms": 151136,
-      "name": "Superfantasticamente (Superfantastico)",
-      "url": "https://open.spotify.com/track/7fFXRzdVsW8nNIjgYwL5Pf"
     },
     {
       "added_at": "2025-12-21 03:00:22",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2025-12-21 03:00:22",
       "album": {
+        "name": "Deixa Alagar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/250tsNZsWLB0G8tEoid4UD"
+      },
+      "artists": [
+        {
+          "name": "Grupo Revela\u00e7\u00e3o",
+          "url": "https://open.spotify.com/artist/7yQrcdkLdBAkV7yY9fF2Hw"
+        }
+      ],
+      "duration_ms": 166413,
+      "name": "Deixa Alagar - Ao Vivo",
+      "url": "https://open.spotify.com/track/5pjMyFs9BW8jbrss4fbnU9"
+    },
+    {
+      "added_at": "2025-12-21 03:00:22",
+      "album": {
         "name": "Cama Embrasa",
         "url": "https://open.spotify.com/album/4AhQtALj74gYj252jZGkwI"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 178000,
       "name": "Cama Embrasa",
       "url": "https://open.spotify.com/track/6p6ohOKSzL4JaIRzSeOmWx"
-    },
-    {
-      "added_at": "2025-12-21 03:00:22",
-      "album": {
-        "name": "Deixa Alagar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/250tsNZsWLB0G8tEoid4UD"
-      },
-      "artists": [
-        {
-          "name": "Grupo Revela\u00e7\u00e3o",
-          "url": "https://open.spotify.com/artist/7yQrcdkLdBAkV7yY9fF2Hw"
-        }
-      ],
-      "duration_ms": 166413,
-      "name": "Deixa Alagar - Ao Vivo",
-      "url": "https://open.spotify.com/track/5pjMyFs9BW8jbrss4fbnU9"
     },
     {
       "added_at": "2025-12-21 03:00:22",
@@ -1183,6 +1183,26 @@
     {
       "added_at": "2025-12-21 03:00:22",
       "album": {
+        "name": "Menina",
+        "url": "https://open.spotify.com/album/1AhiTTbdGAym3xzYflP3fa"
+      },
+      "artists": [
+        {
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        },
+        {
+          "name": "L\u00e9o Foguete",
+          "url": "https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08"
+        }
+      ],
+      "duration_ms": 158060,
+      "name": "Menina",
+      "url": "https://open.spotify.com/track/1BKs3X4E6Oc0iM3BxnzyXQ"
+    },
+    {
+      "added_at": "2025-12-21 03:00:22",
+      "album": {
         "name": "NEM S\u00d3 DE MALUQUICE VIVE O HOMEM",
         "url": "https://open.spotify.com/album/3lHprza8hVWcc19Ouj48jy"
       },
@@ -1271,22 +1291,22 @@
     {
       "added_at": "2025-12-21 03:00:22",
       "album": {
-        "name": "Menina",
-        "url": "https://open.spotify.com/album/1AhiTTbdGAym3xzYflP3fa"
+        "name": "Voc\u00ea \u00e9 Meu M\u00f4 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4bsjYoFGICBWIC84T8IUFf"
       },
       "artists": [
         {
-          "name": "DENNIS",
-          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+          "name": "Kamisa 10",
+          "url": "https://open.spotify.com/artist/39VceBo0jXir85LCeAmAIs"
         },
         {
-          "name": "L\u00e9o Foguete",
-          "url": "https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08"
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
         }
       ],
-      "duration_ms": 158060,
-      "name": "Menina",
-      "url": "https://open.spotify.com/track/1BKs3X4E6Oc0iM3BxnzyXQ"
+      "duration_ms": 146186,
+      "name": "Voc\u00ea \u00e9 Meu M\u00f4 - Ao Vivo",
+      "url": "https://open.spotify.com/track/4kB3EvXt9ZyFibpUWvUpo0"
     },
     {
       "added_at": "2025-12-21 03:00:22",
@@ -1323,26 +1343,6 @@
       "duration_ms": 163208,
       "name": "Sorri, Sou Rei",
       "url": "https://open.spotify.com/track/0u6xEmvDwwVOLIywwu6xKN"
-    },
-    {
-      "added_at": "2025-12-21 03:00:22",
-      "album": {
-        "name": "Voc\u00ea \u00e9 Meu M\u00f4 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4bsjYoFGICBWIC84T8IUFf"
-      },
-      "artists": [
-        {
-          "name": "Kamisa 10",
-          "url": "https://open.spotify.com/artist/39VceBo0jXir85LCeAmAIs"
-        },
-        {
-          "name": "Grupo Menos \u00c9 Mais",
-          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
-        }
-      ],
-      "duration_ms": 146186,
-      "name": "Voc\u00ea \u00e9 Meu M\u00f4 - Ao Vivo",
-      "url": "https://open.spotify.com/track/4kB3EvXt9ZyFibpUWvUpo0"
     },
     {
       "added_at": "2025-12-21 03:00:22",

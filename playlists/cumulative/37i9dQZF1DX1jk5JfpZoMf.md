@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [3am rain](https://open.spotify.com/track/1ylGvrRIddMub56gKjmkoN) | [pluvia](https://open.spotify.com/artist/2L0WmgzvOHv3xAbc3NY3K6) | [rain in oslo](https://open.spotify.com/album/13U4QiRMlsWftosdvI17ho) | 3:28 | 2023-06-16 |  |
+| [3am rain](https://open.spotify.com/track/1ylGvrRIddMub56gKjmkoN) | [pluvia](https://open.spotify.com/artist/2L0WmgzvOHv3xAbc3NY3K6) | [rain in oslo](https://open.spotify.com/album/13U4QiRMlsWftosdvI17ho) | 3:28 | 2023-06-16 | 2025-12-29 |
 | [3D Rain](https://open.spotify.com/track/3PHJojTKJBt5uqWdq38lHd) | [Rain In Spain](https://open.spotify.com/artist/5eDzrKBgV4C8kovSd9vup9) | [Part Two](https://open.spotify.com/album/3kvMpN08jpYtQB1cr1Y93a) | 3:49 | 2023-06-16 |  |
 | [A Relaxing View](https://open.spotify.com/track/63Yy8FYoqW8XZXRRbjSO8J) | [Rainy Windows](https://open.spotify.com/artist/32EhyFcKSpZ2akw9gwrnWo) | [A Relaxing View](https://open.spotify.com/album/5I6htfiNbnj4qyqztQrXKw) | 2:31 | 2023-06-16 |  |
 | [Abstract Rain](https://open.spotify.com/track/2FPTU93d4laMXksmiJ9OR6) | [Sams Sampling](https://open.spotify.com/artist/0l3BC2nHquksROX70Y9c8S) | [Urban Rain For Dreams](https://open.spotify.com/album/1zdi48TyXAEfP64z053T5m) | 2:41 | 2023-06-16 |  |
@@ -46,7 +46,7 @@
 | [Chasing Rain](https://open.spotify.com/track/5fd6LDKbz2mIDEeBJRW9KD) | [Precip](https://open.spotify.com/artist/2MvLKa31qeJOBzobqE10FX) | [Chasing Rain](https://open.spotify.com/album/6u3snLx1jBzwTpL02dcsq2) | 3:28 | 2023-06-16 |  |
 | [Chill Summer Rain](https://open.spotify.com/track/51yBX5feHREH4CQB3z4Mk0) | [All Rain](https://open.spotify.com/artist/0Whrxu3qzfYHtEnnztpdVQ) | [Chill Summer Rain](https://open.spotify.com/album/4xThZFSz5zpljbvsr7x83f) | 2:17 | 2023-06-16 |  |
 | [City Drencher](https://open.spotify.com/track/0PmFJejR2xSdSDR2jMw7cF) | [The Weather Company](https://open.spotify.com/artist/2ZrgWpi8ujislf7Zg2OeD2) | [City Drencher](https://open.spotify.com/album/0NLK0JdePfhT6R0Lu9T13B) | 2:46 | 2023-06-16 |  |
-| [Cold English Rain](https://open.spotify.com/track/6c2Wf3iPgGTiiroHBW208K) | [Stardust Vibes](https://open.spotify.com/artist/1XcbmsczGDkYqrqIy8K89H) | [Rain & Thunderstorms: Best Of, Vol\. 3](https://open.spotify.com/album/6FTYA2kT7Xs2A4W2mJAYvj) | 9:51 | 2024-06-11 | 2025-12-20 |
+| [Cold English Rain](https://open.spotify.com/track/6c2Wf3iPgGTiiroHBW208K) | [Stardust Vibes](https://open.spotify.com/artist/1XcbmsczGDkYqrqIy8K89H) | [Rain & Thunderstorms: Best Of, Vol\. 3](https://open.spotify.com/album/6FTYA2kT7Xs2A4W2mJAYvj) | 9:51 | 2024-06-11 |  |
 | [Consistent Rain](https://open.spotify.com/track/7hleOo6zmfPQVT4GHtLLco) | [Noise and Nature](https://open.spotify.com/artist/2hcGTRaH2FXoKel4UTGWJ0) | [Tranquil Rain Sounds](https://open.spotify.com/album/34eXFqczELpudpgS6M5QTS) | 2:06 | 2023-06-16 |  |
 | [Consistent Rain](https://open.spotify.com/track/1RqxfnREk3NfdYmHpALdrc) | [Wrap Yourself Up](https://open.spotify.com/artist/6rTbOh5Nm1CCGtOuVXl0Td) | [Consistent Rain](https://open.spotify.com/album/11wLvp7lKyBLSo6csOmJCo) | 2:22 | 2023-06-16 |  |
 | [Continuous Rain](https://open.spotify.com/track/4SCFLXNIkUw33S38huavYv) | [Memory of Water](https://open.spotify.com/artist/1FW2BedCLxA60sKXqqecLu) | [Rain Maps](https://open.spotify.com/album/38Zg5FBRwYaKFGtS4hXBe4) | 3:12 | 2023-06-16 | 2025-07-29 |

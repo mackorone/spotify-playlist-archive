@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 
 > Wyzwania, cele, zadania, spotkania, dedlajny… ale najpierw kawa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,120 likes - 60 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,109 likes - 60 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,13 +51,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 41 | [Pali się niebo](https://open.spotify.com/track/4tIcfOdcIaZAn3KnkJkXyh) | [Dawid Kwiatkowski](https://open.spotify.com/artist/0hwjSlN7w3WWQY3mLdogAC) | [Pali się niebo](https://open.spotify.com/album/3Peq37g9q2t8aBEE5aAWvl) | 2:36 |
 | 42 | [Maybe I Just Have Anxiety](https://open.spotify.com/track/5jOACvYdcvyYIKG1H8icqV) | [UNKLFNKL](https://open.spotify.com/artist/4TJMkm9ul4Xp17Altl41RW), [Katarina](https://open.spotify.com/artist/3amBXwL0iDxRaME6BY25v0) | [Maybe I Just Have Anxiety](https://open.spotify.com/album/7mtr9Nb1LdQ46rJK7eLJFE) | 3:03 |
 | 43 | [Oj, dziewczyno!](https://open.spotify.com/track/4962ajMOnZSbhN80G0Ogk4) | [Wiktoria Kida](https://open.spotify.com/artist/6EuekoOKebcHJWIqHuBK0H), [Księga Żywiołów](https://open.spotify.com/artist/1TqYSOMq3DVt2cUERdU4v5) | [Oj, dziewczyno!](https://open.spotify.com/album/2W9qJtY9eFjT5P2iJpbUqw) | 2:38 |
-| 44 | [Dziwna \(feat\. Artur Rojek\)](https://open.spotify.com/track/4pscA7I0aNoAYs3z56EDGS) | [Daria Zawiałow](https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx), [Artur Rojek](https://open.spotify.com/artist/2wmdMX0w131ZumU30P5WZH) | [Dziwna \(feat\. Artur Rojek\)](https://open.spotify.com/album/66lJWCfqFbOFmU0zoc1s9z) | 2:41 |
-| 45 | [Wracam](https://open.spotify.com/track/5GYd7snaxD4knd8vPfHMDB) | [Jeremi Sikorski](https://open.spotify.com/artist/72wQxesjJ9hTkk1hGA4tBw) | [Wracam](https://open.spotify.com/album/4TabkmEusGSAl53UzIhyOR) | 3:05 |
+| 44 | [Wracam](https://open.spotify.com/track/5GYd7snaxD4knd8vPfHMDB) | [Jeremi Sikorski](https://open.spotify.com/artist/72wQxesjJ9hTkk1hGA4tBw) | [Wracam](https://open.spotify.com/album/4TabkmEusGSAl53UzIhyOR) | 3:05 |
+| 45 | [Dziwna \(feat\. Artur Rojek\)](https://open.spotify.com/track/4pscA7I0aNoAYs3z56EDGS) | [Daria Zawiałow](https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx), [Artur Rojek](https://open.spotify.com/artist/2wmdMX0w131ZumU30P5WZH) | [Dziwna \(feat\. Artur Rojek\)](https://open.spotify.com/album/66lJWCfqFbOFmU0zoc1s9z) | 2:41 |
 | 46 | [Nie mówię tak, nie mówię nie](https://open.spotify.com/track/35zrCdjDsVSuTvqjz1wrzA) | [Wiktor Dyduła](https://open.spotify.com/artist/7FauNoLr3HWvWfsaBlFPhs), [Kasia Sienkiewicz](https://open.spotify.com/artist/3YFGEKxRqRSBCW6sSv2FJH) | [Nie mówię tak, nie mówię nie](https://open.spotify.com/album/3p5a6AcHEnFJS9Fl0EQMRd) | 2:39 |
 | 47 | [proszę pana](https://open.spotify.com/track/3S3ayOhVEJSZZP1tgeKEOB) | [Lanberry](https://open.spotify.com/artist/2t3aJxThQrMWaNJgqjMcU8) | [proszę pana](https://open.spotify.com/album/4Atcfix3A3u1PefLTIW0j7) | 2:10 |
 | 48 | [Naiwna ja](https://open.spotify.com/track/4x9GZTzFsErAMCDBNw6C6v) | [Wiktoria Kida](https://open.spotify.com/artist/6EuekoOKebcHJWIqHuBK0H), [Księga Żywiołów](https://open.spotify.com/artist/1TqYSOMq3DVt2cUERdU4v5) | [Naiwna ja](https://open.spotify.com/album/4XxHDMDdBKMF2paNzIrAdz) | 2:20 |
-| 49 | [Co noc](https://open.spotify.com/track/5GElBQDxiLNF991NLcuGje) | [Oskar Cyms](https://open.spotify.com/artist/2fcIazWMq5XONzkuCwSSEr) | [Co noc](https://open.spotify.com/album/4f1bC5xpaa9WEr87Wum7Bd) | 2:39 |
-| 50 | [Brightest Light](https://open.spotify.com/track/1X4Kx55UM4DAJeT959ygCp) | [Marianna Kłos](https://open.spotify.com/artist/1LzuKwjwmNPQWitkdaqtUc) | [Brightest Light](https://open.spotify.com/album/4RiEtMATsrsD2IqEkzGq3h) | 3:00 |
+| 49 | [Brightest Light](https://open.spotify.com/track/1X4Kx55UM4DAJeT959ygCp) | [Marianna Kłos](https://open.spotify.com/artist/1LzuKwjwmNPQWitkdaqtUc) | [Brightest Light](https://open.spotify.com/album/4RiEtMATsrsD2IqEkzGq3h) | 3:00 |
+| 50 | [Co noc](https://open.spotify.com/track/5GElBQDxiLNF991NLcuGje) | [Oskar Cyms](https://open.spotify.com/artist/2fcIazWMq5XONzkuCwSSEr) | [Co noc](https://open.spotify.com/album/4f1bC5xpaa9WEr87Wum7Bd) | 2:39 |
 | 51 | [SEN](https://open.spotify.com/track/1Gc4ROFZUlEupmjMGKLSe2) | [nocotyania](https://open.spotify.com/artist/5Gld6PqiwJc9phNIDoddOl), [Paulina Chmura](https://open.spotify.com/artist/4nq9i2sLDlG3BrVvEvwnH7), [20tune](https://open.spotify.com/artist/6n5vxeBa60Rm5Bv2QNUtEZ), [SZAJUR](https://open.spotify.com/artist/253rVwZnTeAXcpYSFwy13A) | [SEN](https://open.spotify.com/album/0cpR457cV80VWCBN46aFDS) | 3:01 |
 | 52 | [Więcej nas](https://open.spotify.com/track/0pN5F4nvvnB2ZYb9AhKMJ4) | [Kuba i Kuba](https://open.spotify.com/artist/43i9C47bAIVm8jKgEKYPfh), [EMO](https://open.spotify.com/artist/0ORYVI6HcOBBPflrE4EcQM) | [Więcej nas](https://open.spotify.com/album/6f0unjJ3i3i2jCOoCvsIvx) | 3:01 |
 | 53 | [Po blady świt](https://open.spotify.com/track/66JVsDHnnrvcbDci9qLYMO) | [Wiktoria Kida](https://open.spotify.com/artist/6EuekoOKebcHJWIqHuBK0H), [Księga Żywiołów](https://open.spotify.com/artist/1TqYSOMq3DVt2cUERdU4v5) | [Po blady świt](https://open.spotify.com/album/33CEjHlVgmCZ6CHbIGSwUc) | 2:36 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T2mzbF9W6j.md) - [plain]
 | 59 | [JESZCZE RAZ](https://open.spotify.com/track/2kmAL60P7mgqNtK87FfB9T) | [Kinny Zimmer](https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC), [Kaptur](https://open.spotify.com/artist/4NJA8jbfxc4daVM2wi9ybd) | [JESZCZE RAZ](https://open.spotify.com/album/3jDSstZMLjYCVkrhBZ0COb) | 3:26 |
 | 60 | [sticky rice](https://open.spotify.com/track/11pYSQjxJ57i6tsu1OIzOk) | [Fausti](https://open.spotify.com/artist/6A1ynRvP3mW9mlLkWcSnlx), [clearmind](https://open.spotify.com/artist/7KYseTkErcYMRvcIqacxUq) | [sticky rice](https://open.spotify.com/album/7sfA7avZWjCLToSLhteWBF) | 3:07 |
 
-Snapshot ID: `AAAAAFLl6ozdC/tKJFka5CrB9d/xB5cY`
+Snapshot ID: `AAAAAC8plM/0wy92xudwUZaOegY3jfKX`

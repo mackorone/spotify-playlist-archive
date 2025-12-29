@@ -1,6 +1,6 @@
 {
   "description": "\ud83c\udfae Dein Soundtrack zum Zocken \ud83c\udfae",
-  "num_followers": 148661,
+  "num_followers": 148655,
   "original_name": "Game Zone",
   "owner": {
     "name": "Spotify",
@@ -279,6 +279,22 @@
     {
       "added_at": "2025-12-19 20:18:58",
       "album": {
+        "name": "Encore (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 250760,
+      "name": "Mockingbird",
+      "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
+    },
+    {
+      "added_at": "2025-12-19 20:18:58",
+      "album": {
         "name": "The Days (NOTION Remix)",
         "url": "https://open.spotify.com/album/15gT6ikjvzrlIxQ5eTpqLJ"
       },
@@ -315,22 +331,6 @@
     {
       "added_at": "2025-12-19 20:18:58",
       "album": {
-        "name": "Encore (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 250760,
-      "name": "Mockingbird",
-      "url": "https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s"
-    },
-    {
-      "added_at": "2025-12-19 20:18:58",
-      "album": {
         "name": "I'm Good (Blue)",
         "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
       },
@@ -363,6 +363,22 @@
       "duration_ms": 153190,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
+    },
+    {
+      "added_at": "2025-12-19 20:18:58",
+      "album": {
+        "name": "The Marshall Mathers LP",
+        "url": "https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 284200,
+      "name": "The Real Slim Shady",
+      "url": "https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR"
     },
     {
       "added_at": "2025-12-19 20:18:58",
@@ -427,22 +443,6 @@
     {
       "added_at": "2025-12-19 20:18:58",
       "album": {
-        "name": "Goodbye & Good Riddance",
-        "url": "https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 239835,
-      "name": "Lucid Dreams",
-      "url": "https://open.spotify.com/track/285pBltuF7vW8TeWk8hdRR"
-    },
-    {
-      "added_at": "2025-12-19 20:18:58",
-      "album": {
         "name": "This Wasn't Meant For You Anyway",
         "url": "https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U"
       },
@@ -455,6 +455,22 @@
       "duration_ms": 284066,
       "name": "Messy",
       "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
+    },
+    {
+      "added_at": "2025-12-19 20:18:58",
+      "album": {
+        "name": "Goodbye & Good Riddance",
+        "url": "https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 239835,
+      "name": "Lucid Dreams",
+      "url": "https://open.spotify.com/track/285pBltuF7vW8TeWk8hdRR"
     },
     {
       "added_at": "2025-12-19 20:18:58",
@@ -475,22 +491,6 @@
       "duration_ms": 272373,
       "name": "Escapism.",
       "url": "https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp"
-    },
-    {
-      "added_at": "2025-12-19 20:18:58",
-      "album": {
-        "name": "The Marshall Mathers LP",
-        "url": "https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 284200,
-      "name": "The Real Slim Shady",
-      "url": "https://open.spotify.com/track/3yfqSUWxFvZELEM4PmlwIR"
     },
     {
       "added_at": "2025-12-19 20:18:58",
@@ -531,18 +531,38 @@
     {
       "added_at": "2025-12-19 20:18:58",
       "album": {
-        "name": "Goodbye & Good Riddance",
-        "url": "https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ"
+        "name": "Please Excuse Me for Being Antisocial",
+        "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
       },
       "artists": [
         {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
         }
       ],
-      "duration_ms": 165819,
-      "name": "All Girls Are The Same",
-      "url": "https://open.spotify.com/track/4VXIryQMWpIdGgYR4TrjT1"
+      "duration_ms": 196652,
+      "name": "The Box",
+      "url": "https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I"
+    },
+    {
+      "added_at": "2025-12-19 20:18:58",
+      "album": {
+        "name": "The Eminem Show",
+        "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+        }
+      ],
+      "duration_ms": 297786,
+      "name": "Till I Collapse",
+      "url": "https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS"
     },
     {
       "added_at": "2025-12-19 20:18:58",
@@ -559,22 +579,6 @@
       "duration_ms": 116072,
       "name": "PASSO BEM SOLTO - Slowed",
       "url": "https://open.spotify.com/track/4sTlQPMyoFMPdhAJvErBN3"
-    },
-    {
-      "added_at": "2025-12-19 20:18:58",
-      "album": {
-        "name": "Please Excuse Me for Being Antisocial",
-        "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
-      },
-      "artists": [
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 196652,
-      "name": "The Box",
-      "url": "https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I"
     },
     {
       "added_at": "2025-12-19 20:18:58",
@@ -615,6 +619,22 @@
     {
       "added_at": "2025-12-19 20:18:58",
       "album": {
+        "name": "Goodbye & Good Riddance",
+        "url": "https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 165819,
+      "name": "All Girls Are The Same",
+      "url": "https://open.spotify.com/track/4VXIryQMWpIdGgYR4TrjT1"
+    },
+    {
+      "added_at": "2025-12-19 20:18:58",
+      "album": {
         "name": "Stories",
         "url": "https://open.spotify.com/album/7dqftJ3kas6D0VAdmt3k3V"
       },
@@ -627,6 +647,22 @@
       "duration_ms": 230613,
       "name": "Waiting For Love",
       "url": "https://open.spotify.com/track/2P4OICZRVAQcYAV2JReRfj"
+    },
+    {
+      "added_at": "2025-12-19 20:18:58",
+      "album": {
+        "name": "?",
+        "url": "https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 110886,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/2ZRo7axmMPeSVUvDbGkJah"
     },
     {
       "added_at": "2025-12-19 20:18:58",
@@ -647,26 +683,6 @@
     {
       "added_at": "2025-12-19 20:18:58",
       "album": {
-        "name": "The Eminem Show",
-        "url": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo"
-      },
-      "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "Nate Dogg",
-          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
-        }
-      ],
-      "duration_ms": 297786,
-      "name": "Till I Collapse",
-      "url": "https://open.spotify.com/track/4xkOaSrkexMciUUogZKVTS"
-    },
-    {
-      "added_at": "2025-12-19 20:18:58",
-      "album": {
         "name": "American Beauty/American Psycho",
         "url": "https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 228360,
       "name": "Centuries",
       "url": "https://open.spotify.com/track/04aAxqtGp5pv12UXAg4pkq"
-    },
-    {
-      "added_at": "2025-12-19 20:18:58",
-      "album": {
-        "name": "?",
-        "url": "https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 110886,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/2ZRo7axmMPeSVUvDbGkJah"
     },
     {
       "added_at": "2025-12-19 20:18:58",
@@ -763,22 +763,6 @@
     {
       "added_at": "2025-12-19 20:18:58",
       "album": {
-        "name": "17",
-        "url": "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 120026,
-      "name": "Revenge",
-      "url": "https://open.spotify.com/track/5TXDeTFVRVY7Cvt0Dw4vWW"
-    },
-    {
-      "added_at": "2025-12-19 20:18:58",
-      "album": {
         "name": "Music To Be Murdered By",
         "url": "https://open.spotify.com/album/4otkd9As6YaxxEkIjXPiZ6"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 202533,
       "name": "Hall of Fame (feat. will.i.am)",
       "url": "https://open.spotify.com/track/7wMq5n8mYSKlQIGECKUgTX"
+    },
+    {
+      "added_at": "2025-12-19 20:18:58",
+      "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 120026,
+      "name": "Revenge",
+      "url": "https://open.spotify.com/track/5TXDeTFVRVY7Cvt0Dw4vWW"
     },
     {
       "added_at": "2025-12-19 20:18:58",
@@ -1287,22 +1287,22 @@
     {
       "added_at": "2025-12-19 20:18:58",
       "album": {
-        "name": "Where Are You Now",
-        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
+        "name": "The Bigger Artist",
+        "url": "https://open.spotify.com/album/3HHp5I6Q6SEyU5bkvoCtnV"
       },
       "artists": [
         {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
         },
         {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
         }
       ],
-      "duration_ms": 148197,
-      "name": "Where Are You Now",
-      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
+      "duration_ms": 209269,
+      "name": "Drowning (feat. Kodak Black)",
+      "url": "https://open.spotify.com/track/1f5cbQtDrykjarZVrShaDI"
     }
   ],
   "unique_name": "Game Zone",

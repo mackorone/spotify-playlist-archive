@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: Cash Cobain
 
-[Spotify](https://open.spotify.com/user/spotify) - 456,282 likes - 100 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 456,275 likes - 100 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 99 | [ILMB \(feat\. Travis Scott\)](https://open.spotify.com/track/697mqzUk9iIdnY3yHLXYEt) | [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ILMB \(feat\. Travis Scott\)](https://open.spotify.com/album/0OORiZ1arhRjbiSzNq9itT) | 3:04 |
 | 100 | [No Heziii](https://open.spotify.com/track/2XRQ46oYaE5bNkdAJSLjfk) | [Izay](https://open.spotify.com/artist/3JtWGPhgfE0hrGqNYOHH7a), [Temi](https://open.spotify.com/artist/3OFWCYlGW7Xols9sJFHhQY) | [No Heziii](https://open.spotify.com/album/7BMkfo1DCArqRhoaiOMSe6) | 0:59 |
 
-Snapshot ID: `AAAAAPoakonpUQb6Ccdq5gNyEaFl7ByH`
+Snapshot ID: `AAAAALcEixMS8/pb0+zYH/Q2Poh0E1fZ`

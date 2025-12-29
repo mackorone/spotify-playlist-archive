@@ -1,6 +1,6 @@
 {
   "description": "Home is where the main stage is \ud83d\udc99 with AFROJACK, Martin Garrix, David Guetta, and Am\u00e9l",
-  "num_followers": 447938,
+  "num_followers": 448344,
   "original_name": "EDM 2026",
   "owner": {
     "name": "Spotify",
@@ -1199,6 +1199,26 @@
     {
       "added_at": "2025-12-26 05:00:19",
       "album": {
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/0T84ITkYkKp7x3vxWpvSCf"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "AR/CO",
+          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
+        }
+      ],
+      "duration_ms": 196923,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/6jhAJgaS9OttFwP5Cn8WII"
+    },
+    {
+      "added_at": "2025-12-26 05:00:19",
+      "album": {
         "name": "Perfect (Exceeder)",
         "url": "https://open.spotify.com/album/2eScJnMQTMY0WYPz2MXWsp"
       },
@@ -1219,26 +1239,6 @@
       "duration_ms": 151929,
       "name": "Perfect (Exceeder)",
       "url": "https://open.spotify.com/track/7jY6W92bLfnXnevTa7JKHi"
-    },
-    {
-      "added_at": "2025-12-26 05:00:19",
-      "album": {
-        "name": "Ocean",
-        "url": "https://open.spotify.com/album/0T84ITkYkKp7x3vxWpvSCf"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        },
-        {
-          "name": "AR/CO",
-          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
-        }
-      ],
-      "duration_ms": 196923,
-      "name": "Ocean",
-      "url": "https://open.spotify.com/track/6jhAJgaS9OttFwP5Cn8WII"
     },
     {
       "added_at": "2025-12-26 05:00:19",
@@ -1279,26 +1279,6 @@
     {
       "added_at": "2025-12-26 05:00:19",
       "album": {
-        "name": "Cash Out",
-        "url": "https://open.spotify.com/album/3JijfF3CowsE5EUUmQQftR"
-      },
-      "artists": [
-        {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
-        },
-        {
-          "name": "Bobby Shmurda",
-          "url": "https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO"
-        }
-      ],
-      "duration_ms": 182225,
-      "name": "Cash Out",
-      "url": "https://open.spotify.com/track/7qHSfKzilTsXJuuWcjX1vZ"
-    },
-    {
-      "added_at": "2025-12-26 05:00:19",
-      "album": {
         "name": "Danza Kuduro (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/6Kd4z1ibE3aDC6lXOs3eMV"
       },
@@ -1319,6 +1299,26 @@
       "duration_ms": 219047,
       "name": "Danza Kuduro - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/7mdDd1a4TtNGqDW1lXc14o"
+    },
+    {
+      "added_at": "2025-12-26 05:00:19",
+      "album": {
+        "name": "Cash Out",
+        "url": "https://open.spotify.com/album/3JijfF3CowsE5EUUmQQftR"
+      },
+      "artists": [
+        {
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        },
+        {
+          "name": "Bobby Shmurda",
+          "url": "https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO"
+        }
+      ],
+      "duration_ms": 182225,
+      "name": "Cash Out",
+      "url": "https://open.spotify.com/track/7qHSfKzilTsXJuuWcjX1vZ"
     },
     {
       "added_at": "2025-12-26 05:00:19",

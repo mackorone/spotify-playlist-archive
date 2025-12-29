@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLcZxJO5zyf.md) - [plain]
 
 > Ouça todas as novidades e hits do pop br aqui e agora! Foto: IZA, Jota.pê
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,302,070 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,301,941 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLcZxJO5zyf.md) - [plain]
 | 49 | [Dano Sarrada](https://open.spotify.com/track/1vtXEy3Ii46hL6wML8H5He) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Vício Inerente](https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr) | 3:25 |
 | 50 | [real valor](https://open.spotify.com/track/78wYB2vQHXCGW5UwKlFlob) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0) | [REVERSA \[in\]ato](https://open.spotify.com/album/6N8AgBQAGm79BZLojct5J7) | 3:40 |
 
-Snapshot ID: `AAAAAD4ms6/wNwuPoHgWfOo71b3EtNuE`
+Snapshot ID: `AAAAADLUft6CTRFlhHcyBoiGgPiJ9j0s`

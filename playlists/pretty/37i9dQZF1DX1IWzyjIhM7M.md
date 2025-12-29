@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWzyjIhM7M.md) - [plain]
 
 > Our editors' picks of best tracks of 2023 by independent, developing artists from around the world\. Cover: Searows
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,908 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,909 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1IWzyjIhM7M.md) - [plain]
 | 88 | [A Bowl of Unripe Fruit](https://open.spotify.com/track/7KITXnfw8N8OKFJX1zZ7PD) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [A Bowl of Unripe Fruit](https://open.spotify.com/album/4fNncV3kbiDqfmJ6KBUR5d) | 3:22 |
 | 89 | [Indigo](https://open.spotify.com/track/7mlGKWXA5ZV6HZibmRruqD) | [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4) | [Indigo](https://open.spotify.com/album/1eGowsUsY6D99t8NsxpRK7) | 3:20 |
 | 90 | [Maddest Hoes](https://open.spotify.com/track/2JOAClTouRjLpemnmAutOV) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [SHOW N PROVE](https://open.spotify.com/artist/0w2Ehjy06vmXNTs3e3NQIU) | [Maddest Hoes](https://open.spotify.com/album/0zXtM0yyZaWZh2gYu0GFwU) | 2:34 |
-| 91 | [My Mistake](https://open.spotify.com/track/141LKU6Shr5ogV6hDYQeuf) | [BKAYE](https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9) | [My Mistake](https://open.spotify.com/album/2qq3PW9es1FCLr2CFKgqJN) | 3:15 |
-| 92 | [No Nein](https://open.spotify.com/track/040IEiMlCYxNYcW5Sd8L5Z) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4), [Mietze Conte](https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN) | [It's Very Loud](https://open.spotify.com/album/6IERtDEcLcMkt23FEueAH7) | 2:31 |
+| 91 | [No Nein](https://open.spotify.com/track/040IEiMlCYxNYcW5Sd8L5Z) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4), [Mietze Conte](https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN) | [It's Very Loud](https://open.spotify.com/album/6IERtDEcLcMkt23FEueAH7) | 2:31 |
+| 92 | [My Mistake](https://open.spotify.com/track/141LKU6Shr5ogV6hDYQeuf) | [BKAYE](https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9) | [My Mistake](https://open.spotify.com/album/2qq3PW9es1FCLr2CFKgqJN) | 3:15 |
 | 93 | [styrofoam](https://open.spotify.com/track/1ZakuNLOHhoPOlMjCNG5w9) | [harper](https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK) | [styrofoam](https://open.spotify.com/album/0gSptDCMS0E8RuYLGr7WML) | 3:04 |
 | 94 | [No Way In](https://open.spotify.com/track/1OWabcOniKhLI5TATHvZgL) | [JJUUJJUU](https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ) | [No Way In](https://open.spotify.com/album/3Q2i3qZQs0Mzpioerp8qb2) | 4:06 |
 | 95 | [Noche](https://open.spotify.com/track/0Tnq2OrBNLgwHVeGq6yob6) | [Fuensanta](https://open.spotify.com/artist/5Tda1L0VLxqMBAThEKFIjD) | [Noche](https://open.spotify.com/album/5eeIYt9yUyqyQuHhZw91ph) | 3:57 |

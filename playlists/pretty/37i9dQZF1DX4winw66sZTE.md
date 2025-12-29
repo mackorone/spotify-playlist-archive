@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4winw66sZTE.md) - [plain]
 
 > 2010년대를 수 놓았던 명곡들을 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,537 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,565 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4winw66sZTE.md) - [plain]
 | 30 | [Loner](https://open.spotify.com/track/7wqBDFp7JZfWp3aPaC4gHQ) | [CNBLUE](https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi) | [Bluetory](https://open.spotify.com/album/6uXXlobOpwaecX1eNZtW4O) | 3:37 |
 | 31 | [I](https://open.spotify.com/track/5ZkITfPpcNPnyYGTibkO6m) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu), [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [I \- The 1st Mini Album](https://open.spotify.com/album/4e7kLQu7SKBUiMtV5WH3A1) | 3:26 |
 | 32 | [Shine](https://open.spotify.com/track/7nkp1uuSbKkoxMvEs8cSw0) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [Positive](https://open.spotify.com/album/1ZRmLzZWvOkSqWePzFeekO) | 3:18 |
-| 33 | [Ma Boy](https://open.spotify.com/track/1CkTEh21SLHbiAj2qy8wc1) | [SISTAR19](https://open.spotify.com/artist/5Q0U6ogBrMX2oxmxy5OTzU) | [Ma Boy](https://open.spotify.com/album/76EJZHFfzKIOrf97HE4at7) | 3:16 |
-| 34 | [HER](https://open.spotify.com/track/4jQDaI7FRGaDB0llURpnNf) | [Block B](https://open.spotify.com/artist/4RnezwRV7VBJUCI1S0AE5u) | [HER](https://open.spotify.com/album/5wHs7NGuapCYtY4wWsYMi3) | 2:59 |
+| 33 | [HER](https://open.spotify.com/track/4jQDaI7FRGaDB0llURpnNf) | [Block B](https://open.spotify.com/artist/4RnezwRV7VBJUCI1S0AE5u) | [HER](https://open.spotify.com/album/5wHs7NGuapCYtY4wWsYMi3) | 2:59 |
+| 34 | [Ma Boy](https://open.spotify.com/track/1CkTEh21SLHbiAj2qy8wc1) | [SISTAR19](https://open.spotify.com/artist/5Q0U6ogBrMX2oxmxy5OTzU) | [Ma Boy](https://open.spotify.com/album/76EJZHFfzKIOrf97HE4at7) | 3:16 |
 | 35 | [Every day, Every Moment](https://open.spotify.com/track/3Ml2s37uS9jqRM2R3bfDiB) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Should We Kiss First? \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/1UVybcE4gGXIlRjkMPM17U) | 3:30 |
 | 36 | [I GOT A BOY](https://open.spotify.com/track/2WkPfNd237yc0l5KewCDpp) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [I GOT A BOY \- The 4th Album](https://open.spotify.com/album/3uhihQCm9aSvdJmDXcVrvi) | 4:31 |
 | 37 | [COME BACK HOME](https://open.spotify.com/track/63J1RStsmoVKXNTCHRNxii) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [CRUSH](https://open.spotify.com/album/4OviNx5CqaeGhARVtHYtDL) | 3:49 |
@@ -57,12 +57,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4winw66sZTE.md) - [plain]
 | 47 | [A Little Girl](https://open.spotify.com/track/1N9TrsZZXX8GQvOvD3PV23) | [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [Reply 1988 \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/6KKR9GZN6wnhQmBCFvoTMM) | 3:46 |
 | 48 | [Last Goodbye](https://open.spotify.com/track/0x50cQ1pZeV4xl737GhKBk) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [WINTER](https://open.spotify.com/album/0xrAlQfw3MZ5QGhw2NptQt) | 4:43 |
 | 49 | [Alone](https://open.spotify.com/track/40gUfKHwCNLpXowFN9Hvsu) | [SISTAR](https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP) | [ALONE](https://open.spotify.com/album/5PXVRXQIPAXH0j78MfeDrV) | 3:26 |
-| 50 | [Peter Pan](https://open.spotify.com/track/0FF1qj8n4vZEzY54Kt5qh1) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [The 1st Album 'XOXO' \(Repackage\)](https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA) | 3:54 |
+| 50 | [Wolf](https://open.spotify.com/track/7n0D1iLva5zp4JcnlIMeVa) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [The 1st Album 'XOXO' \(Repackage\)](https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA) | 3:50 |
 | 51 | [History](https://open.spotify.com/track/3AmxvnqctdvnJnyNPaHTbv) | [EXO\-K](https://open.spotify.com/artist/6wPBIyIIMxoqgux29bGF8I) | [Mama \- The 1st Mini Album](https://open.spotify.com/album/6W3V8bPlayCUbCDRoIRWuc) | 3:29 |
 | 52 | [NoNoNo](https://open.spotify.com/track/5SusX17QvBBkH7WfMbTU0j) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [Secret Garden](https://open.spotify.com/album/03GKVqpdr6Fi24DeAbgDRs) | 3:40 |
 | 53 | [Electric Shock](https://open.spotify.com/track/7tMN6iGJMulMFpSCeU7pmU) | [f\(x\)](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) | [Electric Shock \- The 2nd Mini Album](https://open.spotify.com/album/7LVMjDwcyhVhDTHddKPjIs) | 3:16 |
 | 54 | [광화문에서 \(At Gwanghwamun\)](https://open.spotify.com/track/1YqGY2dW0a9ocyxaB5PtrR) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [광화문에서 At Gwanghwamun \- The 1st Mini Album](https://open.spotify.com/album/0hfvOkRJnV2eVhdy41bbvv) | 4:42 |
-| 55 | [Wolf](https://open.spotify.com/track/7n0D1iLva5zp4JcnlIMeVa) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [The 1st Album 'XOXO' \(Repackage\)](https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA) | 3:50 |
+| 55 | [Peter Pan](https://open.spotify.com/track/0FF1qj8n4vZEzY54Kt5qh1) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [The 1st Album 'XOXO' \(Repackage\)](https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA) | 3:54 |
 | 56 | [기대해](https://open.spotify.com/track/4p1mcA5wVKjzUfdxPoxSax) | [Girl's Day](https://open.spotify.com/artist/13kJgvU22LHMsJtGWLmx7W) | [기대](https://open.spotify.com/album/2YxJHDVzL2rWt5ZoXPv0FM) | 3:16 |
 | 57 | [Bubble Pop!](https://open.spotify.com/track/59JkwCdGIMTZYb0j75vebU) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [Bubble Pop!](https://open.spotify.com/album/3ejtzmi1xzQMl8JtJruZPp) | 3:32 |
 | 58 | [첫 사랑니 \(Rum Pum Pum Pum\)](https://open.spotify.com/track/22sIPXiQzcPydCC6skPPPq) | [f\(x\)](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) | [Pink Tape \- The 2nd Album](https://open.spotify.com/album/62tuEHFtjk3L6Xjdkzyt4z) | 3:17 |
@@ -84,11 +84,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4winw66sZTE.md) - [plain]
 | 74 | [Hard To Love](https://open.spotify.com/track/4J5FI3nckt6wiZhTl9RM8N) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Full Album RED PLANET](https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL) | 3:39 |
 | 75 | [Darling](https://open.spotify.com/track/63M8a0AXYVBoZZfZmJbt6O) | [Girl's Day](https://open.spotify.com/artist/13kJgvU22LHMsJtGWLmx7W) | [Girl's Day Love Second Album](https://open.spotify.com/album/6bf0r561nSUanYZ9ej56Me) | 3:13 |
 | 76 | [ME](https://open.spotify.com/track/7w3mCZJZbfXzNebD5vktMI) | [CLC](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) | [ME](https://open.spotify.com/album/3STCVlFXF9KGz3ATBo56a3) | 3:13 |
-| 77 | [Severely](https://open.spotify.com/track/55IWnmlg29mY9EiLhH514C) | [FTISLAND](https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ) | [Grown\-Up](https://open.spotify.com/album/2sL1ldelPgWvckBsnI3wBx) | 4:10 |
-| 78 | [Red Light](https://open.spotify.com/track/4ML3iXqwb35FHG0SW1HVGc) | [f\(x\)](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) | [Red Light \- The 3rd Album](https://open.spotify.com/album/6T9SFwLGHVU75jRAjUJn3W) | 3:31 |
+| 77 | [Red Light](https://open.spotify.com/track/4ML3iXqwb35FHG0SW1HVGc) | [f\(x\)](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) | [Red Light \- The 3rd Album](https://open.spotify.com/album/6T9SFwLGHVU75jRAjUJn3W) | 3:31 |
+| 78 | [Severely](https://open.spotify.com/track/55IWnmlg29mY9EiLhH514C) | [FTISLAND](https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ) | [Grown\-Up](https://open.spotify.com/album/2sL1ldelPgWvckBsnI3wBx) | 4:10 |
 | 79 | [Hate](https://open.spotify.com/track/3Hd6zm1J4bVeu4VXwaDQL3) | [4Minute](https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv) | [Act\. 7](https://open.spotify.com/album/2QGDdrZDuxK7VBmcJZxi1B) | 3:36 |
-| 80 | [NEVER](https://open.spotify.com/track/095rDYLjAHYmis3vU8gRxo) | [Sons of People](https://open.spotify.com/artist/2xNpeMJT0QrDfs4CFHygYi) | [PRODUCE 101 \- 35 Boys 5 Concepts](https://open.spotify.com/album/1cXSov8tF5PietO9VICqDI) | 3:16 |
-| 81 | [Lupin](https://open.spotify.com/track/3RmwOvD5VBSsqSES1GsFX6) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [Lupin](https://open.spotify.com/album/0z3NBMOUlrNI3gLdy1V28s) | 3:12 |
+| 80 | [Lupin](https://open.spotify.com/track/3RmwOvD5VBSsqSES1GsFX6) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [Lupin](https://open.spotify.com/album/0z3NBMOUlrNI3gLdy1V28s) | 3:12 |
+| 81 | [NEVER](https://open.spotify.com/track/095rDYLjAHYmis3vU8gRxo) | [Sons of People](https://open.spotify.com/artist/2xNpeMJT0QrDfs4CFHygYi) | [PRODUCE 101 \- 35 Boys 5 Concepts](https://open.spotify.com/album/1cXSov8tF5PietO9VICqDI) | 3:16 |
 | 82 | [Nitpicking](https://open.spotify.com/track/1kODSVImpAKU1bbZvlNX2s) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Nitpicking](https://open.spotify.com/album/5bB2nClfkdlG1ekRQGw8zT) | 3:33 |
 | 83 | [Time And Fallen Leaves](https://open.spotify.com/track/5Qy4FxZ6FtNwWmRaLi6Fcu) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [Time And Fallen Leaves](https://open.spotify.com/album/3rF55htTUDmzgxJ5CT3XQC) | 4:07 |
 | 84 | [Volume Up](https://open.spotify.com/track/2RKgRT8O8K3DXfsGfnbNWx) | [4Minute](https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv) | [Volume Up](https://open.spotify.com/album/392dpAiWwgaZBrc7iexjtT) | 3:50 |

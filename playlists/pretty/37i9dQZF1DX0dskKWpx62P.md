@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 
 > ¡Con todo el sentimiento andino! Foto: William Luna
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,201 likes - 60 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,236 likes - 60 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 | 15 | [Nuestra Promesa](https://open.spotify.com/track/2z6PQ65b5pTBnI8lqMMwrR) | [William Luna](https://open.spotify.com/artist/0iw0Jy3qkvqcDpGJvIRFRw), [Magaly Solier](https://open.spotify.com/artist/2XftZLqhgVPUlCn4g0uBZ6) | [Nuestra Promesa](https://open.spotify.com/album/1y5FGSrv0xgzhqJRSkvFob) | 4:50 |
 | 16 | [Benditas las Madres](https://open.spotify.com/track/1Vm5LVuCAyBB3rsWee4ZIz) | [Ernesto Sanchez Fajardo](https://open.spotify.com/artist/3aPmMxqcg0JkCW3Em1SSzC) | [El Jilguero de Huascarán](https://open.spotify.com/album/5SS2SwafKqEmXuU5uuP0S5) | 3:01 |
 | 17 | [Valicha](https://open.spotify.com/track/1RxVbw47XHuwtibKprzX3I) | [Sentimiento Andino](https://open.spotify.com/artist/24ekejeYKRsI7YE26PczBs) | [Caminando Y Cantando](https://open.spotify.com/album/5qiNMwmbj1mzo925QVkHGI) | 3:35 |
-| 18 | [Serenata Condemayta](https://open.spotify.com/track/7rPxPZBc4FD4SwdA6rYjus) | [Conjunto Condemayta de Acomayo](https://open.spotify.com/artist/7fNXiMybRyHV5Wr8itLWKD) | [Conjunto Condemayta de Acomayo](https://open.spotify.com/album/5eKzkcckQddTWQ4T14kckx) | 2:53 |
-| 19 | [Granadita](https://open.spotify.com/track/7KU47DKSR3mZVPCHYoQnQw) | [Tupay](https://open.spotify.com/artist/0AMd5Lv1a9CTAdLfbIkf8F) | [Folklore](https://open.spotify.com/album/1muX3zfFprVt4WLCxrXF0h) | 3:48 |
+| 18 | [Granadita](https://open.spotify.com/track/7KU47DKSR3mZVPCHYoQnQw) | [Tupay](https://open.spotify.com/artist/0AMd5Lv1a9CTAdLfbIkf8F) | [Folklore](https://open.spotify.com/album/1muX3zfFprVt4WLCxrXF0h) | 3:48 |
+| 19 | [Serenata Condemayta](https://open.spotify.com/track/7rPxPZBc4FD4SwdA6rYjus) | [Conjunto Condemayta de Acomayo](https://open.spotify.com/artist/7fNXiMybRyHV5Wr8itLWKD) | [Conjunto Condemayta de Acomayo](https://open.spotify.com/album/5eKzkcckQddTWQ4T14kckx) | 2:53 |
 | 20 | [Después de Mi Qué Importa](https://open.spotify.com/track/0kGI5wzDxnh8sz42sb9H7g) | [Raúl Arquínigo](https://open.spotify.com/artist/0Fai0nBdLeTWPHpSMeVzfO) | [Bodas de Plata: Concierto en Vivo](https://open.spotify.com/album/0PpRiM2ur6dZKZ48z5e5te) | 3:57 |
 | 21 | [Vas a Llorar](https://open.spotify.com/track/2MprqfkZ99YxetGfp8gZ6W) | [Flor Sinqueña](https://open.spotify.com/artist/3Wpp2yCFRITdmRVsDracBe) | [Selección de Huaynos: Centro \- Sur](https://open.spotify.com/album/1EnGdpyue1EVF0XlGdhmeO) | 2:40 |
 | 22 | [Triste Enamorado](https://open.spotify.com/track/5mrUmA5jojltZRbWp6FTRK) | [El Comunero de Los Andes](https://open.spotify.com/artist/0fMWProJcP684kUSl4mFWR) | [Selección de Huaynos: Centro \- Sur](https://open.spotify.com/album/1EnGdpyue1EVF0XlGdhmeO) | 2:39 |

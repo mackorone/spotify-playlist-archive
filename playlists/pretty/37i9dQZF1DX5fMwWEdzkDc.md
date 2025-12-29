@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5fMwWEdzkDc.md) - [plain]
 
 > 2000년대를 수 놓았던 명곡들을 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,262 likes - 100 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,281 likes - 100 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,12 +58,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5fMwWEdzkDc.md) - [plain]
 | 48 | [잠시만 안녕](https://open.spotify.com/track/7fyEwJts3Fv2D4MIt5I1M9) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [M.C The Max! Vol.1](https://open.spotify.com/album/0FPzOi7YqDtrJAqnfq3O4T) | 6:48 |
 | 49 | [...사랑했잖아...](https://open.spotify.com/track/6dKKY7BZi4yXS3vwuR6Dmt) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [Can U See The Bright](https://open.spotify.com/album/1p7Z2lphOJegFArqh8eMw5) | 4:03 |
 | 50 | [With Coffee…](https://open.spotify.com/track/7svHY5rTJ1Aotj6sDsDgdV) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Brown Eyes](https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA) | 3:35 |
-| 51 | [My Lecon](https://open.spotify.com/track/3pVvsgtpCoSajYhDKavuXm) | [JTL](https://open.spotify.com/artist/1QxDhdpQDAxevRaOWUDjPC) | [Enter The Dragon](https://open.spotify.com/album/1XhlvC8ZkjEu5gsUCtWRfR) | 3:26 |
-| 52 | [챔피언](https://open.spotify.com/track/6h0DkyZqIuWFFdWRo7n8l2) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [Psy 3](https://open.spotify.com/album/7cEeYqp2ltesGDkU2niTtL) | 3:06 |
-| 53 | [감사](https://open.spotify.com/track/6vL9tLXg2XnsYXndqpIUQS) | [Kim Dong Ryul](https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV) | [기억속의 멜로디](https://open.spotify.com/album/3bQEUGF2WB3YyIucl9rGKi) | 4:45 |
-| 54 | [\(′Cause\) I′m Your Girl](https://open.spotify.com/track/5I8mg57tDvhGGGC3x14mIZ) | [S.E.S.](https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM) | [S.E.S\. \- The 1st Album](https://open.spotify.com/album/795tqw58HZUK0Gro9GvneZ) | 3:45 |
-| 55 | [행복하지말아요](https://open.spotify.com/track/5XyvfAC8S62CHQL2Z3BVYP) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [Mc The Max \- Solitude Love…](https://open.spotify.com/album/07h13PO2OlSAnrYYPRb133) | 5:58 |
-| 56 | [체념](https://open.spotify.com/track/2GQNIuqbHbsSJPjvp91AJg) | [BIG MAMA](https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ) | [Like The Bible](https://open.spotify.com/album/4eBXK4EXrxjzSaAonbyRSe) | 4:59 |
+| 51 | [챔피언](https://open.spotify.com/track/6h0DkyZqIuWFFdWRo7n8l2) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [Psy 3](https://open.spotify.com/album/7cEeYqp2ltesGDkU2niTtL) | 3:06 |
+| 52 | [My Lecon](https://open.spotify.com/track/3pVvsgtpCoSajYhDKavuXm) | [JTL](https://open.spotify.com/artist/1QxDhdpQDAxevRaOWUDjPC) | [Enter The Dragon](https://open.spotify.com/album/1XhlvC8ZkjEu5gsUCtWRfR) | 3:26 |
+| 53 | [\(′Cause\) I′m Your Girl](https://open.spotify.com/track/5I8mg57tDvhGGGC3x14mIZ) | [S.E.S.](https://open.spotify.com/artist/61HUG80Xma4rnXsqfZkzeM) | [S.E.S\. \- The 1st Album](https://open.spotify.com/album/795tqw58HZUK0Gro9GvneZ) | 3:45 |
+| 54 | [감사](https://open.spotify.com/track/6vL9tLXg2XnsYXndqpIUQS) | [Kim Dong Ryul](https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV) | [기억속의 멜로디](https://open.spotify.com/album/3bQEUGF2WB3YyIucl9rGKi) | 4:45 |
+| 55 | [체념](https://open.spotify.com/track/2GQNIuqbHbsSJPjvp91AJg) | [BIG MAMA](https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ) | [Like The Bible](https://open.spotify.com/album/4eBXK4EXrxjzSaAonbyRSe) | 4:59 |
+| 56 | [행복하지말아요](https://open.spotify.com/track/5XyvfAC8S62CHQL2Z3BVYP) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [Mc The Max \- Solitude Love…](https://open.spotify.com/album/07h13PO2OlSAnrYYPRb133) | 5:58 |
 | 57 | [Pretty Girl](https://open.spotify.com/track/28GE60KLxobidYzuUHW6iI) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [Pretty Girl \(2nd Mini Album\)](https://open.spotify.com/album/0Y4MIec7qzGbGSu1uRAGPH) | 3:29 |
 | 58 | [아로하](https://open.spotify.com/track/1uRB9bYGCSvLSsF4e65UYj) | [COOL](https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9) | [Cool Best](https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA) | 4:25 |
 | 59 | [파도](https://open.spotify.com/track/66Ea5DkLH0Ok6wR2zuqZcM) | [Un](https://open.spotify.com/artist/2k3wogLJyPnkEpb2pn3GLk) | [Traveling You](https://open.spotify.com/album/7uxUZh3iA2IAvMIlSPxZV2) | 4:11 |
@@ -97,16 +97,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5fMwWEdzkDc.md) - [plain]
 | 87 | [Hug](https://open.spotify.com/track/3fB6z972xZddHD2SBKYCMc) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [Hug](https://open.spotify.com/album/3cSN60IWlvmvzwiRzvjmpf) | 3:48 |
 | 88 | [Like A Child \(feat\. ALEX\)](https://open.spotify.com/track/6ANNMivJIkzYXzh8u76IsE) | [Kim Dong Ryul](https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV), [ALEX](https://open.spotify.com/artist/2nEKRTE6la5urCEnpNnMKZ) | [Monologue](https://open.spotify.com/album/2vdtU1KZ2owCBxjBC5WebE) | 3:33 |
 | 89 | [Seulpun honjatmal](https://open.spotify.com/track/0JRVGUATX7IKaKVwsgExmj) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [Gugip: C.J.2002](https://open.spotify.com/album/706OvChSHJpCoIeyfpZQEs) | 4:20 |
-| 90 | [Saturday Night](https://open.spotify.com/track/4Y5IS0sbhbm7Yrc0EFnHuj) | [Son Dam Bi](https://open.spotify.com/artist/3cCbcs6r1Lma7MfEjyfCGU) | [Type B \(1\)](https://open.spotify.com/album/017upK3dMmJeQygGsuJyzC) | 3:42 |
-| 91 | [사랑은 봄비처럼...이별은 겨울비처럼](https://open.spotify.com/track/2cCC4S226r1tws0d2vDDdO) | [Lim Hyun Jung](https://open.spotify.com/artist/7qUALZhWSQIwqTw1auwwCc) | [A Year Out...In The Island](https://open.spotify.com/album/1dBnTVRHXXPUsDch7FIkV8) | 4:40 |
+| 90 | [사랑은 봄비처럼...이별은 겨울비처럼](https://open.spotify.com/track/2cCC4S226r1tws0d2vDDdO) | [Lim Hyun Jung](https://open.spotify.com/artist/7qUALZhWSQIwqTw1auwwCc) | [A Year Out...In The Island](https://open.spotify.com/album/1dBnTVRHXXPUsDch7FIkV8) | 4:40 |
+| 91 | [Saturday Night](https://open.spotify.com/track/4Y5IS0sbhbm7Yrc0EFnHuj) | [Son Dam Bi](https://open.spotify.com/artist/3cCbcs6r1Lma7MfEjyfCGU) | [Type B \(1\)](https://open.spotify.com/album/017upK3dMmJeQygGsuJyzC) | 3:42 |
 | 92 | [I drink again](https://open.spotify.com/track/68SpcwzDfyFYaM6dMSEtRk) | [VIBE](https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI) | [Re \- Feel](https://open.spotify.com/album/027uEuNqUt0SUZ5GKfiW3w) | 4:05 |
-| 93 | [미인](https://open.spotify.com/track/68fLjAO2M0FuG7OPXZDg9U) | [Lee Ki\-chan](https://open.spotify.com/artist/06lmDAKbe4tXjN9m7bRaQj) | [Para Ti](https://open.spotify.com/album/18lNhdkcBXHKkCG4HFnNZo) | 3:38 |
-| 94 | [Nothing Better](https://open.spotify.com/track/1c3YKD6HDervPsw0nHxlhh) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [The Wind, The Sea, The Rain](https://open.spotify.com/album/51NQxu89Z3tkaiLN4GX3lL) | 4:23 |
+| 93 | [Nothing Better](https://open.spotify.com/track/1c3YKD6HDervPsw0nHxlhh) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [The Wind, The Sea, The Rain](https://open.spotify.com/album/51NQxu89Z3tkaiLN4GX3lL) | 4:23 |
+| 94 | [미인](https://open.spotify.com/track/68fLjAO2M0FuG7OPXZDg9U) | [Lee Ki\-chan](https://open.spotify.com/artist/06lmDAKbe4tXjN9m7bRaQj) | [Para Ti](https://open.spotify.com/album/18lNhdkcBXHKkCG4HFnNZo) | 3:38 |
 | 95 | [You Don't Know Men](https://open.spotify.com/track/5HlhynrLSnGBWfZaTOXkGc) | [BUZZ](https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2) | [fuzz \. Buzz](https://open.spotify.com/album/0gLmRYm4KjIRmYM9jUcEux) | 4:13 |
 | 96 | [Wild Eyes](https://open.spotify.com/track/5uvNlHJPu9mOcYT64rxRbl) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [HEY, COME ON! \- The 4th Album](https://open.spotify.com/album/7dmeb1HMweJy5bvrTQPmul) | 3:21 |
 | 97 | [So Fresh](https://open.spotify.com/track/7h2JM9Sp1lAtXXyOpBiHMR) | [MC MONG](https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD) | [So Fresh](https://open.spotify.com/album/697XKzYvrKSG7K5G1kqYSi) | 4:04 |
 | 98 | [In dreams](https://open.spotify.com/track/1hNYiYh10zoFl4L6RrLDHq) | [Lena Park](https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD) | [Op\. 4](https://open.spotify.com/album/54OnWD6Ei0QGcjwsDBkS8F) | 5:37 |
-| 99 | [Descent of Warriors](https://open.spotify.com/track/0HiKR0bVxA7VJCShQ6HrUC) | [H.O.T.](https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS) | [We Hate All Kinds of Violence..\. \- The 1st Album](https://open.spotify.com/album/23Xh3YpgzRuJ2DAW5X7MsP) | 4:24 |
-| 100 | [Missing you](https://open.spotify.com/track/0OnYYBxChwtrOcb9xWdhfS) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [Longing](https://open.spotify.com/album/5HOLb1Hdf9asv3tWWiUkva) | 3:52 |
+| 99 | [Missing you](https://open.spotify.com/track/0OnYYBxChwtrOcb9xWdhfS) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [Longing](https://open.spotify.com/album/5HOLb1Hdf9asv3tWWiUkva) | 3:52 |
+| 100 | [Descent of Warriors](https://open.spotify.com/track/0HiKR0bVxA7VJCShQ6HrUC) | [H.O.T.](https://open.spotify.com/artist/5JrfgZAgqAMywJpLpJM0eS) | [We Hate All Kinds of Violence..\. \- The 1st Album](https://open.spotify.com/album/23Xh3YpgzRuJ2DAW5X7MsP) | 4:24 |
 
 Snapshot ID: `AAAAAPsjE+459MNsx+Z90kuDFa/uKwwA`

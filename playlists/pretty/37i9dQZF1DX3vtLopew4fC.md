@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vtLopew4fC.md) - [plain]
 
 > Highlights of 2025..\. listen to Canadian women at full volume! Cover: Jade LeMac
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,542 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,544 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

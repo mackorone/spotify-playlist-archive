@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o1khY.md) - [plain]
 
 > This is GloRilla\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,632 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,641 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o1khY.md) - [plain]
 | 25 | [HOW I LOOK \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/5JeRMplL0U8IWbC3ZTaxLX) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [GLORIOUS](https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0) | 1:58 |
 | 26 | [F.N.F\. \(Let's Go\)](https://open.spotify.com/track/1vrFJDrysqmsNAgyjBzx4f) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [F.N.F\. \(Let's Go\)](https://open.spotify.com/album/1FkcZKerCfWg4nUItVHf9B) | 2:17 |
 | 27 | [Lick Or Sum](https://open.spotify.com/track/132Yd321hAG0oOz3lbiqig) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Lick Or Sum](https://open.spotify.com/album/2W4jWUc0pUCWdqJFAMvddR) | 2:21 |
-| 28 | [know about me \(feat\. GloRilla\)](https://open.spotify.com/track/6ThcmoM9ZXYyNDm7AqtGTY) | [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [love?..\. or something like it](https://open.spotify.com/album/25zj1hLmeA7012yPvjstNy) | 4:01 |
-| 29 | [NEVER FIND \(feat\. K Carbon\)](https://open.spotify.com/track/059ND5uzljir164IZK7yHa) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [K Carbon](https://open.spotify.com/artist/5LxoXQBUoD5oftz6xQLv9y) | [GLORIOUS \(BONUS TRACK EDITION\)](https://open.spotify.com/album/30U4ER7EKDECmVSxsFYRQc) | 2:49 |
+| 28 | [NEVER FIND \(feat\. K Carbon\)](https://open.spotify.com/track/059ND5uzljir164IZK7yHa) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [K Carbon](https://open.spotify.com/artist/5LxoXQBUoD5oftz6xQLv9y) | [GLORIOUS \(BONUS TRACK EDITION\)](https://open.spotify.com/album/30U4ER7EKDECmVSxsFYRQc) | 2:49 |
+| 29 | [know about me \(feat\. GloRilla\)](https://open.spotify.com/track/6ThcmoM9ZXYyNDm7AqtGTY) | [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [love?..\. or something like it](https://open.spotify.com/album/25zj1hLmeA7012yPvjstNy) | 4:01 |
 | 30 | [Special](https://open.spotify.com/track/2OoZxVdnY6OFoxkSEYjSWL) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Special](https://open.spotify.com/album/4Ki7E4d6KY3ZjEHvMZli8B) | 2:31 |
 | 31 | [Bad Kids \(feat\. GloRilla\)](https://open.spotify.com/track/0ZiBuLalszaqnmfQ7XrfZn) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [HOOD POET](https://open.spotify.com/album/4Pl5cYTxBkbhMXxFZxuZLW) | 2:36 |
 | 32 | [Lay Down \(feat\. GloRilla\) \- Remix](https://open.spotify.com/track/65XnjGELsYIUOLsEYZKwKn) | [OMB Peezy](https://open.spotify.com/artist/1QdCkPulANBEZiaiAyLkak), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Lay Down \(feat\. GloRilla\) \[Remix\]](https://open.spotify.com/album/1o6b0z1PJwMSPcPXfQQHir) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1o1khY.md) - [plain]
 | 49 | [No More Love](https://open.spotify.com/track/4LDsVBEtxW7Y2liU2wJokp) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Anyways, Life’s Great…](https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC) | 3:10 |
 | 50 | [Hell Woods 2](https://open.spotify.com/track/7pMzAZYQRvoyylbqUCyBdc) | [Queen Key](https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Hell Woods 2](https://open.spotify.com/album/1Z3vzcUeRkjeDIGuH3ocic) | 3:10 |
 
-Snapshot ID: `aU3QAAAAAABYg4OlFQeGLM04ey/WnrP2`
+Snapshot ID: `aU8hgAAAAAA40BErmdcDZfHP2vbg8XkU`

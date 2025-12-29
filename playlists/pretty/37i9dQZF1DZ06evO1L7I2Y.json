@@ -1,12 +1,12 @@
 {
   "description": "This is N.I.N.A. The essential tracks, all in one playlist.",
-  "num_followers": 3581,
+  "num_followers": 3583,
   "original_name": "This Is N.I.N.A",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU3QAAAAAACwZSwkX0Db3/XojywtvfUX",
+  "snapshot_id": "aU8hgAAAAAC18CWwLRkrEExd3pMrGCwu",
   "tracks": [
     {
       "added_at": null,
@@ -423,26 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Campo",
-        "url": "https://open.spotify.com/album/50NjgRzafjAnmQ4IAzx8mN"
-      },
-      "artists": [
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Terra",
-          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
-        }
-      ],
-      "duration_ms": 210461,
-      "name": "No Campo",
-      "url": "https://open.spotify.com/track/3BhTOhqh1ec85TFAaxEXkJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bom Mesmo \u00e9 Estar Debaixo D'\u00c1gua Deluxe",
         "url": "https://open.spotify.com/album/1ygSTGeglAKt0UwfnZhfdm"
       },
@@ -459,6 +439,26 @@
       "duration_ms": 301182,
       "name": "Met\u00e1fora",
       "url": "https://open.spotify.com/track/3ROiMsqkU7jbW29l2e8SEX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Campo",
+        "url": "https://open.spotify.com/album/50NjgRzafjAnmQ4IAzx8mN"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Terra",
+          "url": "https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW"
+        }
+      ],
+      "duration_ms": 210461,
+      "name": "No Campo",
+      "url": "https://open.spotify.com/track/3BhTOhqh1ec85TFAaxEXkJ"
     },
     {
       "added_at": null,
@@ -939,30 +939,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FUTURO III",
-        "url": "https://open.spotify.com/album/6fWpatyirDjjjRhU6T38CR"
-      },
-      "artists": [
-        {
-          "name": "Attlanta",
-          "url": "https://open.spotify.com/artist/62sBXKsvsgkuSZ93cQHDzr"
-        },
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Ogrand",
-          "url": "https://open.spotify.com/artist/72NITGQvWXHKgIDILDufBe"
-        }
-      ],
-      "duration_ms": 139591,
-      "name": "VIM DE L\u00c1",
-      "url": "https://open.spotify.com/track/48e962A7BqrinOw2mWYpxD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trono de Vidro",
         "url": "https://open.spotify.com/album/5478asny0EoVp8jWQ0DAX7"
       },
@@ -987,6 +963,30 @@
       "duration_ms": 161896,
       "name": "Paz Terr\u00edvel",
       "url": "https://open.spotify.com/track/7vpLD8SnpMWi3D6WJc0hme"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FUTURO III",
+        "url": "https://open.spotify.com/album/6fWpatyirDjjjRhU6T38CR"
+      },
+      "artists": [
+        {
+          "name": "Attlanta",
+          "url": "https://open.spotify.com/artist/62sBXKsvsgkuSZ93cQHDzr"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Ogrand",
+          "url": "https://open.spotify.com/artist/72NITGQvWXHKgIDILDufBe"
+        }
+      ],
+      "duration_ms": 139591,
+      "name": "VIM DE L\u00c1",
+      "url": "https://open.spotify.com/track/48e962A7BqrinOw2mWYpxD"
     },
     {
       "added_at": null,

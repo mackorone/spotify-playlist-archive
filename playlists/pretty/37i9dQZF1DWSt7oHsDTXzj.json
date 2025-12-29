@@ -1,6 +1,6 @@
 {
   "description": "The ultimate seasonal (indie) playlist. ",
-  "num_followers": 279197,
+  "num_followers": 279137,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
-        "name": "Christmas Eve (Soul Purpose) / It\u2019s Going To Be A Cold Winter",
-        "url": "https://open.spotify.com/album/59LBLGqfxMTSXuLmMmGsIT"
-      },
-      "artists": [
-        {
-          "name": "Blossoms",
-          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
-        }
-      ],
-      "duration_ms": 225022,
-      "name": "Christmas Eve (Soul Purpose)",
-      "url": "https://open.spotify.com/track/6aX7uTfG9blCOFjNkbPn7F"
-    },
-    {
-      "added_at": "2025-12-17 22:42:18",
-      "album": {
         "name": "HARK!",
         "url": "https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 211346,
       "name": "Christmas In April",
       "url": "https://open.spotify.com/track/0Af4dYxE130GzSUNMvkQty"
+    },
+    {
+      "added_at": "2025-12-17 22:42:18",
+      "album": {
+        "name": "Christmas Eve (Soul Purpose) / It\u2019s Going To Be A Cold Winter",
+        "url": "https://open.spotify.com/album/59LBLGqfxMTSXuLmMmGsIT"
+      },
+      "artists": [
+        {
+          "name": "Blossoms",
+          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
+        }
+      ],
+      "duration_ms": 225022,
+      "name": "Christmas Eve (Soul Purpose)",
+      "url": "https://open.spotify.com/track/6aX7uTfG9blCOFjNkbPn7F"
     }
   ],
   "unique_name": "Indie Christmas",

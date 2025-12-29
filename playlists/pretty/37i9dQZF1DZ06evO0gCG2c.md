@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 
 > This is Akon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,948 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,999 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 | 30 | [All Up 2 You \(feat\. Akon, Wisin & Yandel\)](https://open.spotify.com/track/48FsqSKpgoZZFr6aS1IDK5) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [The Last](https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe) | 3:38 |
 | 31 | [Kush \- Main](https://open.spotify.com/track/1U8Ho1nOzKXYDvfigOuHG4) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Kush](https://open.spotify.com/album/7r3ZRX5UIxKteuTMu7vL7B) | 3:55 |
 | 32 | [Akon's Beautiful Day](https://open.spotify.com/track/5z7l1HQ9KzqT8yLcViRG1L) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Akon's Beautiful Day](https://open.spotify.com/album/3XA6fev8Ssr6jAfR8kd7Wa) | 2:37 |
-| 33 | [Drunk Right Now \(Na Na Na\) with Akon](https://open.spotify.com/track/3985LK4rWojPPqJVFzCy6e) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Drunk Right Now \(Na Na Na\) with Akon](https://open.spotify.com/album/2sAMTwbecMT8kpn4d6d6VV) | 3:18 |
-| 34 | [Boom Body](https://open.spotify.com/track/1atpCysr9qowW7g0DDZDYE) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Aidonia](https://open.spotify.com/artist/5mYWkDD4b1eM4ZjFq5axxs) | [Boom Body](https://open.spotify.com/album/5TbciqP7OQzdHpJoF5ozDN) | 3:05 |
+| 33 | [Boom Body](https://open.spotify.com/track/1atpCysr9qowW7g0DDZDYE) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Aidonia](https://open.spotify.com/artist/5mYWkDD4b1eM4ZjFq5axxs) | [Boom Body](https://open.spotify.com/album/5TbciqP7OQzdHpJoF5ozDN) | 3:05 |
+| 34 | [Drunk Right Now \(Na Na Na\) with Akon](https://open.spotify.com/track/3985LK4rWojPPqJVFzCy6e) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Drunk Right Now \(Na Na Na\) with Akon](https://open.spotify.com/album/2sAMTwbecMT8kpn4d6d6VV) | 3:18 |
 | 35 | [Bananza \(Belly Dancer\)](https://open.spotify.com/track/3BwkldhE22DdxOcXegF2Kv) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Trouble Deluxe Edition](https://open.spotify.com/album/77eKpEVxmSr1RhqMlirlTF) | 3:58 |
 | 36 | [Dangerous](https://open.spotify.com/track/0b0jmVQZ0rxs69RGq2WCu2) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Dangerous](https://open.spotify.com/album/09hwTvcIp4AK8nKDDHZppF) | 3:53 |
 | 37 | [I Wanna Love You \- Album Version \(Edited\)](https://open.spotify.com/track/2PAfPeJPLytM6ssug0njKi) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Tha Blue Carpet Treatment](https://open.spotify.com/album/5Q1K1mEiR2F9MHzMbdBX3i) | 2:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 | 49 | [What's Love \(feat\. Akon\)](https://open.spotify.com/track/4g63oKy2o7tK5tbfY0o5dW) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Intoxication](https://open.spotify.com/album/7l8mmwJiGmke1ojsDdOt4t) | 3:07 |
 | 50 | [Clap Again](https://open.spotify.com/track/23Ry2Uwy68rkHdZx0GwfML) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Right Now \(Na Na Na\)](https://open.spotify.com/album/2Gv0lXUOkmvH7yK44lxmqy) | 5:10 |
 
-Snapshot ID: `aU3QAAAAAAA2OYuX6FTZLefgcPAGb0Fb`
+Snapshot ID: `aU8hgAAAAADBgiL6lEg+eVIi0elsIzS/`

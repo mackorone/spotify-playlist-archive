@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BDEbdcUkP2.md) - [plain]
 
 > The songs of the 1960s that will make you dance all summer long!
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,439 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,455 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,13 +40,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BDEbdcUkP2.md) - [plain]
 | 30 | [Get Back \- Remastered 2009](https://open.spotify.com/track/4MLBqAEzNN89o2M9h92Z26) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Let It Be \(Remastered\)](https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5) | 3:09 |
 | 31 | [Under the Boardwalk](https://open.spotify.com/track/65jrjEhWfAvysKfnojk1i0) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [Under the Boardwalk](https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM) | 2:41 |
 | 32 | [I Walk the Line](https://open.spotify.com/track/7hxZF4jETnE5Q75rKQnMjE) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [I Walk the Line \(Original Soundtrack Recording\)](https://open.spotify.com/album/2k8N8D3YBi9Xc9iQEmTARx) | 2:56 |
-| 33 | [Wouldn't It Be Nice](https://open.spotify.com/track/2Gy7qnDwt8Z3MNxqat4CsK) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds \(Original Mono & Stereo Mix\)](https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8) | 2:33 |
-| 34 | [With A Little Help From My Friends](https://open.spotify.com/track/0YZ3J8xzGwLOg4yEgST1YK) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [With A Little Help From My Friends](https://open.spotify.com/album/74sIm8QdXqFwYeDS7OfYVw) | 5:12 |
+| 33 | [With A Little Help From My Friends](https://open.spotify.com/track/0YZ3J8xzGwLOg4yEgST1YK) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [With A Little Help From My Friends](https://open.spotify.com/album/74sIm8QdXqFwYeDS7OfYVw) | 5:12 |
+| 34 | [Wouldn't It Be Nice](https://open.spotify.com/track/2Gy7qnDwt8Z3MNxqat4CsK) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds \(Original Mono & Stereo Mix\)](https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8) | 2:33 |
 | 35 | [The Letter](https://open.spotify.com/track/6RJK553YhstRzyKA4mug09) | [The Box Tops](https://open.spotify.com/artist/3KGQvnOoqUHi3KxKQMZtXr) | [The Letter/Neon Rainbow](https://open.spotify.com/album/08mPxuP35Db56jUUgRvGFs) | 1:52 |
-| 36 | [Do You Believe in Magic?](https://open.spotify.com/track/1udKn1oNKYQSQ9OmiIWCMu) | [The Lovin' Spoonful](https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe) | [Do you Believe In Magic](https://open.spotify.com/album/5bx2ZHa0KUDMD5T0r9V030) | 2:05 |
-| 37 | [Sugar, Sugar](https://open.spotify.com/track/3iSws76HjaU7k49EqJVTfF) | [The Archies](https://open.spotify.com/artist/33QmoCkSqADuQEtMCysYLh) | [The Very Best Of "The Archies"](https://open.spotify.com/album/7spOTrIPTM8RrMIAhCjLJi) | 2:47 |
-| 38 | [I Get Around \(Mono\)](https://open.spotify.com/track/3v9xlH6BpmRbqL7hgNJhfT) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [All Summer Long \(Mono & Stereo\)](https://open.spotify.com/album/6GnzWMUyNEETCq6eftD98v) | 2:14 |
-| 39 | [San Francisco \(Be Sure to Wear Flowers in Your Hair\) \- Single Version](https://open.spotify.com/track/6vcNJUWtUPB0hKC6VbZriY) | [Scott McKenzie](https://open.spotify.com/artist/7d7AZ3CQC457bFhK0wHpSO) | [San Francisco](https://open.spotify.com/album/0JxUYNJnYnCeA9kwBRK4ez) | 2:58 |
+| 36 | [Sugar, Sugar](https://open.spotify.com/track/3iSws76HjaU7k49EqJVTfF) | [The Archies](https://open.spotify.com/artist/33QmoCkSqADuQEtMCysYLh) | [The Very Best Of "The Archies"](https://open.spotify.com/album/7spOTrIPTM8RrMIAhCjLJi) | 2:47 |
+| 37 | [Do You Believe in Magic?](https://open.spotify.com/track/1udKn1oNKYQSQ9OmiIWCMu) | [The Lovin' Spoonful](https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe) | [Do you Believe In Magic](https://open.spotify.com/album/5bx2ZHa0KUDMD5T0r9V030) | 2:05 |
+| 38 | [San Francisco \(Be Sure to Wear Flowers in Your Hair\) \- Single Version](https://open.spotify.com/track/6vcNJUWtUPB0hKC6VbZriY) | [Scott McKenzie](https://open.spotify.com/artist/7d7AZ3CQC457bFhK0wHpSO) | [San Francisco](https://open.spotify.com/album/0JxUYNJnYnCeA9kwBRK4ez) | 2:58 |
+| 39 | [I Get Around \(Mono\)](https://open.spotify.com/track/3v9xlH6BpmRbqL7hgNJhfT) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [All Summer Long \(Mono & Stereo\)](https://open.spotify.com/album/6GnzWMUyNEETCq6eftD98v) | 2:14 |
 | 40 | [Runaway](https://open.spotify.com/track/45Szkclj1lt4ubm7RFK68t) | [Del Shannon](https://open.spotify.com/artist/3c8WoNjBfyLJhFObE6RHgs) | [Runaway with Del Shannon](https://open.spotify.com/album/6dWi04y7CwB5M0XvzAewKT) | 2:17 |
 | 41 | [It's My Party](https://open.spotify.com/track/1Pq47iFLC5U7j8xeNiNcuS) | [Lesley Gore](https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ) | [I'll Cry If I Want To](https://open.spotify.com/album/7KSrseQi4wJDUfMT4mxNo8) | 2:20 |
 | 42 | [Son of a Preacher Man](https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Dusty In Memphis \[Deluxe Edition\]](https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg) | 2:29 |

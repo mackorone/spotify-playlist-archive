@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2am4qZ.md) - [plain]
 
 > This is Baby Tate\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,046 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,045 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2am4qZ.md) - [plain]
 | 40 | [Mean Girl \(feat\. Queen Key & Asian Doll\)](https://open.spotify.com/track/61HXix5FqC7fuqty8sQJ0r) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Queen Key](https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR), [Asian Doll](https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J) | [GIRLS Deluxe](https://open.spotify.com/album/1Qj0GLSG3jwLnwDP36nDkZ) | 4:22 |
 | 41 | [Ain’t No Love \(feat\. 2 Chainz\)](https://open.spotify.com/track/4I8BPrBeb1LjE4QHFYBJvP) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Mani/Pedi](https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh) | 3:04 |
 | 42 | [Luv Everybody](https://open.spotify.com/track/2tnBlh7oMnqaTsHlejsaHM) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Baby Tate Presents \- Sexploration: The Musical](https://open.spotify.com/album/6e0e1fGkJxHGyKpqZPw9Qb) | 2:42 |
-| 43 | [Dirty Girl \(with Baby Tate\)](https://open.spotify.com/track/7uaf9grGM3ICiLAWv3dcTJ) | [Siena Liggins](https://open.spotify.com/artist/5DLTBcpdWQsAPeN1t8PZv9), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Ms\. Out Tonight](https://open.spotify.com/album/5dlGTLkjRhY4xpkrAZTKUq) | 3:29 |
-| 44 | [Fine](https://open.spotify.com/track/1crxMZzlCfCFMcuBID0Exf) | [Izye](https://open.spotify.com/artist/73fhQEN7dIjU6svM8ez3yv), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Fine](https://open.spotify.com/album/73UsWRce52p5IBTy8gDf4M) | 2:51 |
+| 43 | [Fine](https://open.spotify.com/track/1crxMZzlCfCFMcuBID0Exf) | [Izye](https://open.spotify.com/artist/73fhQEN7dIjU6svM8ez3yv), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Fine](https://open.spotify.com/album/73UsWRce52p5IBTy8gDf4M) | 2:51 |
+| 44 | [Dirty Girl \(with Baby Tate\)](https://open.spotify.com/track/7uaf9grGM3ICiLAWv3dcTJ) | [Siena Liggins](https://open.spotify.com/artist/5DLTBcpdWQsAPeN1t8PZv9), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Ms\. Out Tonight](https://open.spotify.com/album/5dlGTLkjRhY4xpkrAZTKUq) | 3:29 |
 | 45 | [Differences](https://open.spotify.com/track/7fMwzEtUwvaV45uArYs2Uv) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Mani/Pedi](https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh) | 3:16 |
 | 46 | [Wig](https://open.spotify.com/track/1Vx3GtCAj9Hl5tajqA7McX) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Baby Tate Presents \- Sexploration: The Musical](https://open.spotify.com/album/6e0e1fGkJxHGyKpqZPw9Qb) | 2:42 |
 | 47 | [Hey Ladies](https://open.spotify.com/track/0S4HeVwCfMx41pAIgqKgGI) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Stoppa](https://open.spotify.com/artist/0XM0fHfVDa2UgDJOrE1woZ) | [WukiWorld](https://open.spotify.com/album/523y2Ub7mQPON9romO2APM) | 2:48 |
-| 48 | [What's Love](https://open.spotify.com/track/7mu9vxVH3VJVvSGepIay0q) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [What's Love / Sl\*t Him Out](https://open.spotify.com/album/1nJEmFZiNByDdugR0gOeb9) | 4:10 |
-| 49 | [Olipop](https://open.spotify.com/track/5YhmPL3vhBGSMKt39oCwWH) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Tate Tuesday, Vol\. 1](https://open.spotify.com/album/4ezlRpZgswWGCfOK1pkYJR) | 1:44 |
-| 50 | [Rich Girl](https://open.spotify.com/track/6OKo3DVbM2tjl3sS83sTfi) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [GIRLS Deluxe](https://open.spotify.com/album/1Qj0GLSG3jwLnwDP36nDkZ) | 2:48 |
+| 48 | [Olipop](https://open.spotify.com/track/5YhmPL3vhBGSMKt39oCwWH) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Tate Tuesday, Vol\. 1](https://open.spotify.com/album/4ezlRpZgswWGCfOK1pkYJR) | 1:44 |
+| 49 | [Rich Girl](https://open.spotify.com/track/6OKo3DVbM2tjl3sS83sTfi) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [GIRLS Deluxe](https://open.spotify.com/album/1Qj0GLSG3jwLnwDP36nDkZ) | 2:48 |
+| 50 | [What's Love](https://open.spotify.com/track/7mu9vxVH3VJVvSGepIay0q) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [What's Love / Sl\*t Him Out](https://open.spotify.com/album/1nJEmFZiNByDdugR0gOeb9) | 4:10 |
 
-Snapshot ID: `aU3QAAAAAAAm0h8Ssc8dHxuu68OaU2p5`
+Snapshot ID: `aU8hgAAAAAD7OVNuWFE2TSXIYIZwyprQ`

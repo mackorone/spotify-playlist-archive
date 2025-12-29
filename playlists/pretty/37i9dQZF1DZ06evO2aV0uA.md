@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2aV0uA.md) - [plain]
 
 > This is Lamb of God\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,412 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,417 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,22 +41,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2aV0uA.md) - [plain]
 | 31 | [Grace](https://open.spotify.com/track/3A5zeEH2eLW3uMYXoBj9Tq) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath \(Special Edition\)](https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU) | 3:56 |
 | 32 | [Another Nail For Your Coffin \(Feat\. Kublai Khan TX & Malevolence\)](https://open.spotify.com/track/7uGFpRMtsb7CGdUgjEeSsk) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2), [Kublai Khan TX](https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4), [Malevolence](https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk) | [Another Nail For Your Coffin \(Feat\. Kublai Khan TX & Malevolence\)](https://open.spotify.com/album/40CyQnSxAz9rmB9ZcJIwE7) | 4:00 |
 | 33 | [COLD BLOOD](https://open.spotify.com/track/50iNloLV9uEyEvVzuwl6kz) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [DISCO4 :: PART II](https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ) | 5:26 |
-| 34 | [Vanishing](https://open.spotify.com/track/7jrkBLvhjeNs7X86wL3jKf) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Omens](https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc) | 4:48 |
+| 34 | [Checkmate](https://open.spotify.com/track/1iqj7vNKGuT0AIGJ11Kojy) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Lamb of God](https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV) | 4:30 |
 | 35 | [In Your Words](https://open.spotify.com/track/7LhpHlUSDLTiK5FZLUKEYY) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath \(Special Edition\)](https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU) | 5:24 |
-| 36 | [Checkmate](https://open.spotify.com/track/1iqj7vNKGuT0AIGJ11Kojy) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Lamb of God](https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV) | 4:30 |
+| 36 | [Vanishing](https://open.spotify.com/track/7jrkBLvhjeNs7X86wL3jKf) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Omens](https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc) | 4:48 |
 | 37 | [As The Palaces Burn](https://open.spotify.com/track/2KjmnyVafBbq4VEnrJ5rra) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [As The Palaces Burn](https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa) | 2:24 |
-| 38 | [Nevermore](https://open.spotify.com/track/0YHuruiHL4Vzna7jeOdfJt) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Omens](https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc) | 4:35 |
+| 38 | [Gears](https://open.spotify.com/track/5GwPTFXjE3WLJevK6KLMyc) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Lamb of God](https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV) | 3:55 |
 | 39 | [Dead Seeds](https://open.spotify.com/track/6pUIxt8QTqXrAr24oet0dW) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath \(Special Edition\)](https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU) | 3:41 |
-| 40 | [Gears](https://open.spotify.com/track/5GwPTFXjE3WLJevK6KLMyc) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Lamb of God](https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV) | 3:55 |
+| 40 | [Nevermore](https://open.spotify.com/track/0YHuruiHL4Vzna7jeOdfJt) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Omens](https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc) | 4:35 |
 | 41 | [Black Label](https://open.spotify.com/track/18tzenBUBfhF6Z15SGiGPk) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [New American Gospel](https://open.spotify.com/album/53U3R5G1IvQbdl7ZCa052t) | 4:52 |
 | 42 | [Embers](https://open.spotify.com/track/5EP6OcWKPVTFgKH0cFFtys) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [VII: Sturm und Drang](https://open.spotify.com/album/3MnHIi1Nbk2TaHSE2dMVM0) | 4:56 |
-| 43 | [For Your Malice](https://open.spotify.com/track/3jH1c9em3bdzwkc2JjYJwY) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [As The Palaces Burn](https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa) | 3:43 |
-| 44 | [Contractor](https://open.spotify.com/track/7HYsxZZCd45AXjhHch1HEB) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath \(Special Edition\)](https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU) | 3:22 |
-| 45 | [To The Grave](https://open.spotify.com/track/6Q88Xw5D2syb9X5rZd3TLz) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Omens](https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc) | 3:43 |
+| 43 | [Contractor](https://open.spotify.com/track/7HYsxZZCd45AXjhHch1HEB) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath \(Special Edition\)](https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU) | 3:22 |
+| 44 | [For Your Malice](https://open.spotify.com/track/3jH1c9em3bdzwkc2JjYJwY) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [As The Palaces Burn](https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa) | 3:43 |
+| 45 | [Grayscale](https://open.spotify.com/track/2Uyda5UuQnxkdYkECw3F8C) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Omens](https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc) | 3:59 |
 | 46 | [Still Echoes](https://open.spotify.com/track/2MgcmZ2DnI6ZTUSf5ytjo9) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [VII: Sturm und Drang](https://open.spotify.com/album/3MnHIi1Nbk2TaHSE2dMVM0) | 4:22 |
-| 47 | [Purified](https://open.spotify.com/track/1cQS0BcV8HIVSWLeWunEp4) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [As The Palaces Burn](https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa) | 3:10 |
-| 48 | [Broken Hands](https://open.spotify.com/track/3WJaypEGPAc0GH4l9ouoww) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath \(Special Edition\)](https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU) | 3:53 |
-| 49 | [Grayscale](https://open.spotify.com/track/2Uyda5UuQnxkdYkECw3F8C) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Omens](https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc) | 3:59 |
+| 47 | [Broken Hands](https://open.spotify.com/track/3WJaypEGPAc0GH4l9ouoww) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath \(Special Edition\)](https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU) | 3:53 |
+| 48 | [Purified](https://open.spotify.com/track/1cQS0BcV8HIVSWLeWunEp4) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [As The Palaces Burn](https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa) | 3:10 |
+| 49 | [To The Grave](https://open.spotify.com/track/6Q88Xw5D2syb9X5rZd3TLz) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Omens](https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc) | 3:43 |
 | 50 | [Reality Bath](https://open.spotify.com/track/0GwyDNEcUavoLYdK0oDDSI) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Lamb of God](https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV) | 4:32 |
 
-Snapshot ID: `aU3QAAAAAABSGpOAFkjooyOuZqKlSUuc`
+Snapshot ID: `aU8hgAAAAABbSjmOUBEXbucB+1QRwdCu`

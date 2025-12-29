@@ -1,12 +1,12 @@
 {
   "description": "This is LEGADO 7. The essential tracks, all in one playlist.",
-  "num_followers": 100849,
+  "num_followers": 100865,
   "original_name": "This Is LEGADO 7",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU3QAAAAAAAKqJqzgV/UXEAzSgRBZPPK",
+  "snapshot_id": "aU8hgAAAAACqzlRhLjT+Rc2mKcbaIEzJ",
   "tracks": [
     {
       "added_at": null,
@@ -591,26 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "F\u00e1cil no Fue",
-        "url": "https://open.spotify.com/album/7iDmmYU7GgNkR7AmVlSIZ7"
-      },
-      "artists": [
-        {
-          "name": "LOS DOS DE TAMAULIPAS",
-          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
-        },
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 194929,
-      "name": "Chevrolet 4X4",
-      "url": "https://open.spotify.com/track/6kZs6GbMlGVkMpf6jWPGnq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Magic, Vol.1",
         "url": "https://open.spotify.com/album/4MEuvVVOvDnERcJKrZxct2"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 191843,
       "name": "Pateando Latas",
       "url": "https://open.spotify.com/track/2z7N2urXPNsYHSA4kks2Dv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "F\u00e1cil no Fue",
+        "url": "https://open.spotify.com/album/7iDmmYU7GgNkR7AmVlSIZ7"
+      },
+      "artists": [
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        },
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 194929,
+      "name": "Chevrolet 4X4",
+      "url": "https://open.spotify.com/track/6kZs6GbMlGVkMpf6jWPGnq"
     },
     {
       "added_at": null,
@@ -879,6 +879,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chambeando Recio",
+        "url": "https://open.spotify.com/album/5iYuRSAA6tEhTDAOBhTDff"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 157749,
+      "name": "Chambeando Recio",
+      "url": "https://open.spotify.com/track/5GUn6oyW713HWxE9F1Xp0T"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Niveleando Cuh II",
         "url": "https://open.spotify.com/album/6cv2m2oP3oGq5fSnGjcG07"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 164790,
       "name": "De Bajo Perfil",
       "url": "https://open.spotify.com/track/0HdjNLqCcm0weqqmH8sYNu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chambeando Recio",
-        "url": "https://open.spotify.com/album/5iYuRSAA6tEhTDAOBhTDff"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 157749,
-      "name": "Chambeando Recio",
-      "url": "https://open.spotify.com/track/5GUn6oyW713HWxE9F1Xp0T"
     },
     {
       "added_at": null,

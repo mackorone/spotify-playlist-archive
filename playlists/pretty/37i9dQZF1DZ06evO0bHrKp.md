@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bHrKp.md) - [plain]
 
 > This is Sum 41\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,704 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,713 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bHrKp.md) - [plain]
 | 49 | [Sleep Now In The Fire \- Spotify Singles](https://open.spotify.com/track/5mMjqL7JI1BQQWBVFevFsN) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Spotify Singles](https://open.spotify.com/album/37mPOJFmLSgqIE90CdAsT6) | 3:20 |
 | 50 | [The New Sensation](https://open.spotify.com/track/66rEcw8rK6iCc0UesDdqxs) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Order In Decline](https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD) | 3:50 |
 
-Snapshot ID: `aU3QAAAAAAADRT92o2+h23cekj/yFHWM`
+Snapshot ID: `aU8hgAAAAAD3tLcDL1xx9w6RftG9xHna`

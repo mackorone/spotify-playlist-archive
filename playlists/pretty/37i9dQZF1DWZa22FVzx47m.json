@@ -1,6 +1,6 @@
 {
   "description": "Canciones te inspiran a ti y a todas las mam\u00e1s.",
-  "num_followers": 434170,
+  "num_followers": 434235,
   "original_name": "Las Rom\u00e1nticas de Mam\u00e1",
   "owner": {
     "name": "Spotify",
@@ -371,6 +371,22 @@
     {
       "added_at": "2025-10-25 02:09:46",
       "album": {
+        "name": "Stop",
+        "url": "https://open.spotify.com/album/4BI3oXrWF0YvtWpfYWUxeX"
+      },
+      "artists": [
+        {
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+        }
+      ],
+      "duration_ms": 238160,
+      "name": "T\u00fa de Qu\u00e9 Vas",
+      "url": "https://open.spotify.com/track/66iygyOSvvoQQsKJ1vEXfT"
+    },
+    {
+      "added_at": "2025-10-25 02:09:46",
+      "album": {
         "name": "Por Primera Vez",
         "url": "https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 177791,
       "name": "La Mitad",
       "url": "https://open.spotify.com/track/63Zaf8Rci6eOUPqDQ4fUFx"
-    },
-    {
-      "added_at": "2025-10-25 02:09:46",
-      "album": {
-        "name": "Stop",
-        "url": "https://open.spotify.com/album/4BI3oXrWF0YvtWpfYWUxeX"
-      },
-      "artists": [
-        {
-          "name": "Franco De Vita",
-          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
-        }
-      ],
-      "duration_ms": 238160,
-      "name": "T\u00fa de Qu\u00e9 Vas",
-      "url": "https://open.spotify.com/track/66iygyOSvvoQQsKJ1vEXfT"
     },
     {
       "added_at": "2025-10-25 02:09:46",
@@ -503,22 +503,6 @@
     {
       "added_at": "2025-10-25 02:09:46",
       "album": {
-        "name": "Atado a Tu Amor",
-        "url": "https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i"
-      },
-      "artists": [
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        }
-      ],
-      "duration_ms": 284466,
-      "name": "Dejar\u00eda Todo",
-      "url": "https://open.spotify.com/track/79mdw3IznNCFsF7R9O2KGz"
-    },
-    {
-      "added_at": "2025-10-25 02:09:46",
-      "album": {
         "name": "El Mismo Aire (con Pablo Albor\u00e1n)",
         "url": "https://open.spotify.com/album/3E3coJkwv6rbqUTiw1qLZ6"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 188213,
       "name": "El Mismo Aire - con Pablo Albor\u00e1n",
       "url": "https://open.spotify.com/track/5EbtodsuLbxrFDH6j5avVS"
+    },
+    {
+      "added_at": "2025-10-25 02:09:46",
+      "album": {
+        "name": "Atado a Tu Amor",
+        "url": "https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "duration_ms": 284466,
+      "name": "Dejar\u00eda Todo",
+      "url": "https://open.spotify.com/track/79mdw3IznNCFsF7R9O2KGz"
     },
     {
       "added_at": "2025-10-25 02:09:46",
@@ -587,22 +587,6 @@
     {
       "added_at": "2025-10-25 02:09:46",
       "album": {
-        "name": "Chayanne",
-        "url": "https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN"
-      },
-      "artists": [
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        }
-      ],
-      "duration_ms": 281026,
-      "name": "Un Siglo Sin Ti",
-      "url": "https://open.spotify.com/track/5NSJ0qoxwbO26tVvqpL4N2"
-    },
-    {
-      "added_at": "2025-10-25 02:09:46",
-      "album": {
         "name": "Revoluci\u00f3n De Amor (2020 Remasterizado)",
         "url": "https://open.spotify.com/album/4bP1H8sP05Bvu4LB2RbyC2"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 262925,
       "name": "Mariposa Traicionera - 2020 Remasterizado",
       "url": "https://open.spotify.com/track/2zLLGT8WWT1dl73TlVL9qs"
+    },
+    {
+      "added_at": "2025-10-25 02:09:46",
+      "album": {
+        "name": "Chayanne",
+        "url": "https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "duration_ms": 281026,
+      "name": "Un Siglo Sin Ti",
+      "url": "https://open.spotify.com/track/5NSJ0qoxwbO26tVvqpL4N2"
     },
     {
       "added_at": "2025-10-25 02:09:46",
@@ -667,22 +667,6 @@
     {
       "added_at": "2025-10-25 02:09:46",
       "album": {
-        "name": "Quisiera",
-        "url": "https://open.spotify.com/album/3v2sq3JspM5Kny8Hz6ElyH"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel",
-          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
-        }
-      ],
-      "duration_ms": 331360,
-      "name": "La Chica de Humo",
-      "url": "https://open.spotify.com/track/0GZ8UVlhn2tjHPpngzoLJk"
-    },
-    {
-      "added_at": "2025-10-25 02:09:46",
-      "album": {
         "name": "Amar Es Combatir",
         "url": "https://open.spotify.com/album/6XrpkEuQyfilUHMduKDeuB"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 264720,
       "name": "Bendita Tu Luz",
       "url": "https://open.spotify.com/track/2JBs412fpVUuzIaIp3CyIs"
+    },
+    {
+      "added_at": "2025-10-25 02:09:46",
+      "album": {
+        "name": "Quisiera",
+        "url": "https://open.spotify.com/album/3v2sq3JspM5Kny8Hz6ElyH"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel",
+          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
+        }
+      ],
+      "duration_ms": 331360,
+      "name": "La Chica de Humo",
+      "url": "https://open.spotify.com/track/0GZ8UVlhn2tjHPpngzoLJk"
     },
     {
       "added_at": "2025-10-25 02:09:46",
@@ -995,22 +995,6 @@
     {
       "added_at": "2025-10-25 02:09:46",
       "album": {
-        "name": "Vuelve",
-        "url": "https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 308389,
-      "name": "Vuelve",
-      "url": "https://open.spotify.com/track/3OK8WgNRmp4F3ahXe6XX6l"
-    },
-    {
-      "added_at": "2025-10-25 02:09:46",
-      "album": {
         "name": "Sus 16 Grandes Exitos",
         "url": "https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 219106,
       "name": "La Gata Bajo la Lluvia",
       "url": "https://open.spotify.com/track/2kfSFdq2h0xLXq01em1zc7"
+    },
+    {
+      "added_at": "2025-10-25 02:09:46",
+      "album": {
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 308389,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/3OK8WgNRmp4F3ahXe6XX6l"
     },
     {
       "added_at": "2025-10-25 02:09:46",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2025-10-25 02:09:46",
       "album": {
-        "name": "HA-ASH",
-        "url": "https://open.spotify.com/album/0DzhgRe9ovRl6trAcHMUO8"
-      },
-      "artists": [
-        {
-          "name": "Ha*Ash",
-          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
-        }
-      ],
-      "duration_ms": 241160,
-      "name": "Est\u00e9s Donde Est\u00e9s",
-      "url": "https://open.spotify.com/track/7pZzzxLTZepcPfHIHI7JlG"
-    },
-    {
-      "added_at": "2025-10-25 02:09:46",
-      "album": {
         "name": "Te Lo Agradezco",
         "url": "https://open.spotify.com/album/4b54nXTn2X4aRFgUnCaMGE"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 183667,
       "name": "Te Lo Agradezco",
       "url": "https://open.spotify.com/track/0NnbCdowqhKtgtNEQ9oeBX"
+    },
+    {
+      "added_at": "2025-10-25 02:09:46",
+      "album": {
+        "name": "HA-ASH",
+        "url": "https://open.spotify.com/album/0DzhgRe9ovRl6trAcHMUO8"
+      },
+      "artists": [
+        {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        }
+      ],
+      "duration_ms": 241160,
+      "name": "Est\u00e9s Donde Est\u00e9s",
+      "url": "https://open.spotify.com/track/7pZzzxLTZepcPfHIHI7JlG"
     },
     {
       "added_at": "2025-10-25 02:09:46",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2025-10-25 02:09:46",
       "album": {
+        "name": "Voy",
+        "url": "https://open.spotify.com/album/2WwacEFBdZJezRAgBMqPWR"
+      },
+      "artists": [
+        {
+          "name": "Alexander Acha",
+          "url": "https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh"
+        }
+      ],
+      "duration_ms": 233493,
+      "name": "Te amo",
+      "url": "https://open.spotify.com/track/2jFglF0pDwhrrXmeWZvmKY"
+    },
+    {
+      "added_at": "2025-10-25 02:09:46",
+      "album": {
         "name": "Papitwo (Deluxe)",
         "url": "https://open.spotify.com/album/6mgs9ywhBqW5QSCMyYPC3g"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 248049,
       "name": "Aire soy (feat. Ximena Sari\u00f1ana)",
       "url": "https://open.spotify.com/track/1ORb6uGvpjsFwZK8FUpzWy"
-    },
-    {
-      "added_at": "2025-10-25 02:09:46",
-      "album": {
-        "name": "Voy",
-        "url": "https://open.spotify.com/album/2WwacEFBdZJezRAgBMqPWR"
-      },
-      "artists": [
-        {
-          "name": "Alexander Acha",
-          "url": "https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh"
-        }
-      ],
-      "duration_ms": 233493,
-      "name": "Te amo",
-      "url": "https://open.spotify.com/track/2jFglF0pDwhrrXmeWZvmKY"
     },
     {
       "added_at": "2025-10-25 02:09:46",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2025-10-25 02:09:46",
       "album": {
-        "name": "Enrique Iglesias",
-        "url": "https://open.spotify.com/album/18FB0rct42g5hNr14l70GK"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        }
-      ],
-      "duration_ms": 244026,
-      "name": "Por Amarte",
-      "url": "https://open.spotify.com/track/3nTP1d8K9jHFHiozzXGVDF"
-    },
-    {
-      "added_at": "2025-10-25 02:09:46",
-      "album": {
         "name": "Tierra De Nadie",
         "url": "https://open.spotify.com/album/3gV3uvJ1HSYVM88Tsh1DHi"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 227600,
       "name": "Simplemente Amigos",
       "url": "https://open.spotify.com/track/10PwPpr7BBxYon3pwS7k5G"
+    },
+    {
+      "added_at": "2025-10-25 02:09:46",
+      "album": {
+        "name": "Enrique Iglesias",
+        "url": "https://open.spotify.com/album/18FB0rct42g5hNr14l70GK"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        }
+      ],
+      "duration_ms": 244026,
+      "name": "Por Amarte",
+      "url": "https://open.spotify.com/track/3nTP1d8K9jHFHiozzXGVDF"
     },
     {
       "added_at": "2025-10-25 02:09:46",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2025-10-25 02:09:46",
       "album": {
-        "name": "Cosas Del Amor",
-        "url": "https://open.spotify.com/album/3DWm5mRGgDkBBQ8BH4TYIB"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        }
-      ],
-      "duration_ms": 264160,
-      "name": "Nunca Te Olvidar\u00e9",
-      "url": "https://open.spotify.com/track/0UjtkXe54YuY5SMwXYjkvq"
-    },
-    {
-      "added_at": "2025-10-25 02:09:46",
-      "album": {
         "name": "Mi Reflejo",
         "url": "https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 265733,
       "name": "Pero Me Acuerdo de T\u00ed",
       "url": "https://open.spotify.com/track/4B1sb2YVO03sBmyR8bvzEB"
+    },
+    {
+      "added_at": "2025-10-25 02:09:46",
+      "album": {
+        "name": "Cosas Del Amor",
+        "url": "https://open.spotify.com/album/3DWm5mRGgDkBBQ8BH4TYIB"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        }
+      ],
+      "duration_ms": 264160,
+      "name": "Nunca Te Olvidar\u00e9",
+      "url": "https://open.spotify.com/track/0UjtkXe54YuY5SMwXYjkvq"
     },
     {
       "added_at": "2025-10-25 02:09:46",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2025-10-25 02:09:46",
       "album": {
-        "name": "Thalia En Primera Fila",
-        "url": "https://open.spotify.com/album/1gquXke1WKYRz3VSxlZDxa"
-      },
-      "artists": [
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        }
-      ],
-      "duration_ms": 244440,
-      "name": "Equivocada - Live Version",
-      "url": "https://open.spotify.com/track/4ToSegPTNl2894LRte8ice"
-    },
-    {
-      "added_at": "2025-10-25 02:09:46",
-      "album": {
         "name": "Vida Loca",
         "url": "https://open.spotify.com/album/11lYdxQdsgkvKfDjX0nTHa"
       },
@@ -1587,6 +1571,22 @@
     {
       "added_at": "2025-10-25 02:09:46",
       "album": {
+        "name": "Thalia En Primera Fila",
+        "url": "https://open.spotify.com/album/1gquXke1WKYRz3VSxlZDxa"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        }
+      ],
+      "duration_ms": 244440,
+      "name": "Equivocada - Live Version",
+      "url": "https://open.spotify.com/track/4ToSegPTNl2894LRte8ice"
+    },
+    {
+      "added_at": "2025-10-25 02:09:46",
+      "album": {
         "name": "Me Estoy Enamorando",
         "url": "https://open.spotify.com/album/63mrlnJgtofj8Ur7Q7Xh9P"
       },
@@ -1599,22 +1599,6 @@
       "duration_ms": 261106,
       "name": "No S\u00e9 Olvidar",
       "url": "https://open.spotify.com/track/3T9vhAX8yaBAdEFJa4yy2b"
-    },
-    {
-      "added_at": "2025-10-25 02:09:46",
-      "album": {
-        "name": "A Medio Vivir",
-        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 335773,
-      "name": "Fuego de Noche, Nieve de D\u00eda",
-      "url": "https://open.spotify.com/track/1f6XyjXx6wUb7zdk9JWzl9"
     },
     {
       "added_at": "2025-10-25 02:09:46",
@@ -1647,6 +1631,22 @@
       "duration_ms": 217360,
       "name": "Piel de Az\u00facar",
       "url": "https://open.spotify.com/track/4yQYtOS4WKsemq83DEj8ie"
+    },
+    {
+      "added_at": "2025-10-25 02:09:46",
+      "album": {
+        "name": "A Medio Vivir",
+        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 335773,
+      "name": "Fuego de Noche, Nieve de D\u00eda",
+      "url": "https://open.spotify.com/track/1f6XyjXx6wUb7zdk9JWzl9"
     }
   ],
   "unique_name": "Las Rom\u00e1nticas de Mam\u00e1",

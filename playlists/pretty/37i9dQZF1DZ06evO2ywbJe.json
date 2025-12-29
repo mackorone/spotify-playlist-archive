@@ -1,12 +1,12 @@
 {
   "description": "This is Zlatan. The essential tracks, all in one playlist.",
-  "num_followers": 6976,
+  "num_followers": 6981,
   "original_name": "This Is Zlatan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU3QAAAAAADSMbw2oYsQOYD4SGPEavxu",
+  "snapshot_id": "aU8hgAAAAABgGcfJidIhE9wypez6oZE1",
   "tracks": [
     {
       "added_at": null,
@@ -343,22 +343,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Uncle K: Lemon Chase",
-        "url": "https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF"
+        "name": "Good Life {Freestyle}",
+        "url": "https://open.spotify.com/album/18a1PIlmP8RoxvPJcgLF6o"
       },
       "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        },
         {
           "name": "Zlatan",
           "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
         }
       ],
-      "duration_ms": 139666,
-      "name": "Secure",
-      "url": "https://open.spotify.com/track/0esYF9xrVgLdKPVAN0mrN4"
+      "duration_ms": 92589,
+      "name": "Good Life {Freestyle}",
+      "url": "https://open.spotify.com/track/1XwGGXSgu5UpWr8rdaRRG0"
     },
     {
       "added_at": null,
@@ -379,18 +375,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Life {Freestyle}",
-        "url": "https://open.spotify.com/album/18a1PIlmP8RoxvPJcgLF6o"
+        "name": "Uncle K: Lemon Chase",
+        "url": "https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF"
       },
       "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        },
         {
           "name": "Zlatan",
           "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
         }
       ],
-      "duration_ms": 92589,
-      "name": "Good Life {Freestyle}",
-      "url": "https://open.spotify.com/track/1XwGGXSgu5UpWr8rdaRRG0"
+      "duration_ms": 139666,
+      "name": "Secure",
+      "url": "https://open.spotify.com/track/0esYF9xrVgLdKPVAN0mrN4"
     },
     {
       "added_at": null,
@@ -463,26 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Last Son of a Widow",
-        "url": "https://open.spotify.com/album/5ggCK28dJNwpH58dNI8BFr"
-      },
-      "artists": [
-        {
-          "name": "Ayox",
-          "url": "https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 148375,
-      "name": "Walking Dead",
-      "url": "https://open.spotify.com/track/4LOd05CKYkYe08idPgp7wy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/0X0hFVPZ4GfWlY9Gr6tSst"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 153174,
       "name": "Account Balance",
       "url": "https://open.spotify.com/track/5C6r3u5SjqyBcE4ex7WqrS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Last Son of a Widow",
+        "url": "https://open.spotify.com/album/5ggCK28dJNwpH58dNI8BFr"
+      },
+      "artists": [
+        {
+          "name": "Ayox",
+          "url": "https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 148375,
+      "name": "Walking Dead",
+      "url": "https://open.spotify.com/track/4LOd05CKYkYe08idPgp7wy"
     },
     {
       "added_at": null,
@@ -887,6 +887,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Spiritual",
+        "url": "https://open.spotify.com/album/5uDtFBGVxqNjXrr9SFqQCh"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 208917,
+      "name": "Spiritual",
+      "url": "https://open.spotify.com/track/22R1JmzACsM3jz4zLZxpqk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SABALI",
         "url": "https://open.spotify.com/album/1jIpg7Fckr3AsMUUSZLAYs"
       },
@@ -907,26 +927,6 @@
       "duration_ms": 227663,
       "name": "El Sucio Guapo",
       "url": "https://open.spotify.com/track/4q81vRYZVQnL818YhWghzn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Spiritual",
-        "url": "https://open.spotify.com/album/5uDtFBGVxqNjXrr9SFqQCh"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 208917,
-      "name": "Spiritual",
-      "url": "https://open.spotify.com/track/22R1JmzACsM3jz4zLZxpqk"
     },
     {
       "added_at": null,

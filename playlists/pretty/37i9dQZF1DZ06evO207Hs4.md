@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO207Hs4.md) - [plain]
 
 > This is Jimmy Cliff\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,258 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,274 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO207Hs4.md) - [plain]
 | 23 | [Come Into My Life \- Single Version](https://open.spotify.com/track/0Gms0Ad9iBfwoInbDbSoLn) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Wonderful World, Beautiful People](https://open.spotify.com/album/3RiXb242oLrGNRtc0Va4Fd) | 2:55 |
 | 24 | [Lonely Streets](https://open.spotify.com/track/7G67Uu20crxihu3LaAlBQ6) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Give Thanx](https://open.spotify.com/album/2fxpPZnUQrYgjax8z9t4UB) | 4:21 |
 | 25 | [Treat the Youths Right](https://open.spotify.com/track/0wdGFydtOYUrQhcYChzImr) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Special](https://open.spotify.com/album/7DThjcUUrZYmpcELciIu2w) | 3:40 |
-| 26 | [Sooner Or Later](https://open.spotify.com/track/25KfJuZGPem108WcMlajr8) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Best Of Jimmy Cliff](https://open.spotify.com/album/6Y39RwVpNbgahWevQ0KENh) | 5:15 |
-| 27 | [Now and Forever](https://open.spotify.com/track/2c5lal94wgFhRkSdOUt2Xg) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Cliff Hanger](https://open.spotify.com/album/4jDYIT8hRGwGxDmTd6c9tN) | 4:54 |
+| 26 | [Now and Forever](https://open.spotify.com/track/2c5lal94wgFhRkSdOUt2Xg) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Cliff Hanger](https://open.spotify.com/album/4jDYIT8hRGwGxDmTd6c9tN) | 4:54 |
+| 27 | [Sooner Or Later](https://open.spotify.com/track/25KfJuZGPem108WcMlajr8) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Best Of Jimmy Cliff](https://open.spotify.com/album/6Y39RwVpNbgahWevQ0KENh) | 5:15 |
 | 28 | [Miss Jamaica](https://open.spotify.com/track/7LsFKGyHBuBUyczlkuNk02) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Rebel Light](https://open.spotify.com/album/3516ELRm8YLYO18q9ePzUI) | 2:24 |
 | 29 | [Roots Radical](https://open.spotify.com/track/4oCAJnGSJ5yeG2cCl0oQ1n) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Special](https://open.spotify.com/album/7DThjcUUrZYmpcELciIu2w) | 4:22 |
 | 30 | [Love Solution](https://open.spotify.com/track/2JMBM4nrck1Uq45Kzs8qVy) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Power And The Glory](https://open.spotify.com/album/6NAU01DHEdx0vyioca0Pcs) | 3:58 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO207Hs4.md) - [plain]
 | 45 | [Mother and Child Reunion \(with Jimmy Cliff\) \- Live at Hyde Park, London, UK \- July 2012](https://open.spotify.com/track/4fCRtHg9p2Tt2lBPKBDluO) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI), [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Concert in Hyde Park](https://open.spotify.com/album/1gC1DUPevviDhQ7hnmTZ89) | 3:43 |
 | 46 | [John Crow](https://open.spotify.com/track/63CePn4RnA7iH6I2OoW82w) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf), [Oneness Band](https://open.spotify.com/artist/48p7x7OPQCyMlI7JWx3b3i), [Steven Seagal](https://open.spotify.com/artist/1jgRWeREJTbx96zhcn8vgx) | [Marked For Death \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2vWg5H7yPW7oYfosL0AFil) | 3:47 |
 | 47 | [Stand Up and Fight Back](https://open.spotify.com/track/16yPyYg8xpvhDYeZNMN830) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Give Thanx](https://open.spotify.com/album/2fxpPZnUQrYgjax8z9t4UB) | 3:16 |
-| 48 | [Baby Let Me Feel It](https://open.spotify.com/track/36iR1iNaoaqV5z640aoBJ5) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Have Fun On Christmas With Reggae](https://open.spotify.com/album/4g0WFtV86mRFJk7oZgeUBV) | 4:12 |
-| 49 | [Hakuna Matata](https://open.spotify.com/track/1VdQkGrUNJTqMkWlROP8mS) | [Lebo M.](https://open.spotify.com/artist/0zp9qNDSeYi3QEodhcKAAA), [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Rhythm Of The Pride Lands](https://open.spotify.com/album/38WcqhsXCL0TE86lTK2FHj) | 4:24 |
+| 48 | [Hakuna Matata](https://open.spotify.com/track/1VdQkGrUNJTqMkWlROP8mS) | [Lebo M.](https://open.spotify.com/artist/0zp9qNDSeYi3QEodhcKAAA), [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Rhythm Of The Pride Lands](https://open.spotify.com/album/38WcqhsXCL0TE86lTK2FHj) | 4:24 |
+| 49 | [Baby Let Me Feel It](https://open.spotify.com/track/36iR1iNaoaqV5z640aoBJ5) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Have Fun On Christmas With Reggae](https://open.spotify.com/album/4g0WFtV86mRFJk7oZgeUBV) | 4:12 |
 | 50 | [No Justice](https://open.spotify.com/track/5BBHmCVN14sReJgd9ueVuT) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Marked For Death \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2vWg5H7yPW7oYfosL0AFil) | 4:01 |
 
-Snapshot ID: `aU3QAAAAAACh1z2eqesmzoD3N5j3lbpz`
+Snapshot ID: `aU8hgAAAAAAFR8Yhn1OaTThLT+9JLcEw`

@@ -540,7 +540,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-14",
+      "date_removed": null,
       "duration_ms": 144224,
       "name": "2007 (Fontana)",
       "url": "https://open.spotify.com/track/0McNg79tsCnzI54mfJVxNZ"
@@ -1888,7 +1888,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-02",
+      "date_removed": null,
       "duration_ms": 145733,
       "name": "Alle vil til himmelen",
       "url": "https://open.spotify.com/track/2HrQbrT7N3VcV3PmZIy9Wq"
@@ -3138,7 +3138,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-07",
+      "date_removed": null,
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
@@ -11570,7 +11570,7 @@
       ],
       "date_added": "2025-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-08",
+      "date_removed": null,
       "duration_ms": 205454,
       "name": "Eli",
       "url": "https://open.spotify.com/track/5iw7PzTQdsg2FVhR14cgGw"
@@ -11958,7 +11958,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-05",
+      "date_removed": null,
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -13146,7 +13146,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 266328,
       "name": "Falle til ro (From the Original Netflix Series \"Home For Christmas\")",
       "url": "https://open.spotify.com/track/6oJLgaS6Py1tSKAJTKSe5K"
@@ -13788,7 +13788,7 @@
       ],
       "date_added": "2021-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 182306,
       "name": "Feliz Navidad",
       "url": "https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId"
@@ -18978,7 +18978,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 121526,
       "name": "Holly Jolly Christmas",
       "url": "https://open.spotify.com/track/6rqn19AqjcM5wgI1hCYciJ"
@@ -22294,7 +22294,7 @@
       ],
       "date_added": "2021-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-24",
+      "date_removed": null,
       "duration_ms": 206639,
       "name": "It's Beginning to Look a Lot like Christmas",
       "url": "https://open.spotify.com/track/0lLdorYw7lVrJydTINhWdI"
@@ -22330,7 +22330,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 207199,
       "name": "It's Beginning to Look a Lot like Christmas",
       "url": "https://open.spotify.com/track/3it2BvJfyhPEWF3kD2TZJ1"
@@ -22366,7 +22366,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 151000,
       "name": "It's the Most Wonderful Time of the Year",
       "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
@@ -23578,7 +23578,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 232106,
       "name": "Jula Hjemme (feat. Trygve Skaug)",
       "url": "https://open.spotify.com/track/47G1D6ZRAkj37PsONIqs8h"
@@ -25880,7 +25880,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 117146,
       "name": "Let It Snow! Let It Snow! Let It Snow!",
       "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
@@ -28236,7 +28236,7 @@
       ],
       "date_added": "2025-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-02",
+      "date_removed": null,
       "duration_ms": 183529,
       "name": "Maskulin",
       "url": "https://open.spotify.com/track/771dXT0ppsiSU8frVIDWJL"
@@ -31104,7 +31104,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-27",
+      "date_removed": null,
       "duration_ms": 163994,
       "name": "No Broke Boys",
       "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj"
@@ -35401,6 +35401,28 @@
     },
     {
       "album": {
+        "name": "The Boy Who Played the Harp",
+        "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "date_added": "2025-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219743,
+      "name": "Raindance (feat. Tems)",
+      "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
+    },
+    {
+      "album": {
         "name": "Marchand de sable",
         "url": "https://open.spotify.com/album/6CWb2cr93FdkcNNraD3E0b"
       },
@@ -38206,6 +38228,24 @@
     {
       "album": {
         "name": "Siste Dans (fra Sn\u00f8s\u00f8steren)",
+        "url": "https://open.spotify.com/album/4mP2HDyY7pv04Jy44nut7W"
+      },
+      "artists": [
+        {
+          "name": "Delara",
+          "url": "https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg"
+        }
+      ],
+      "date_added": "2025-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218030,
+      "name": "Siste Dans - fra Sn\u00f8s\u00f8steren",
+      "url": "https://open.spotify.com/track/2gX0sb7gpRIMbj8eZjwI7d"
+    },
+    {
+      "album": {
+        "name": "Siste Dans (fra Sn\u00f8s\u00f8steren)",
         "url": "https://open.spotify.com/album/6G4GX3mlwWrPWqBy9Vm5vz"
       },
       "artists": [
@@ -38216,7 +38256,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 218030,
       "name": "Siste Dans - fra Sn\u00f8s\u00f8steren",
       "url": "https://open.spotify.com/track/6YSq1MHTG61D0p489GqcLA"
@@ -40628,7 +40668,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 212625,
       "name": "Stjernesludd",
       "url": "https://open.spotify.com/track/4jImfl3tXqF41rcTElShrM"
@@ -41512,7 +41552,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 156906,
       "name": "Svingensongen",
       "url": "https://open.spotify.com/track/4SxcFcdTrSpYPvANjtdlWY"
@@ -42938,7 +42978,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 190973,
       "name": "The Christmas Song (Merry Christmas To You)",
       "url": "https://open.spotify.com/track/5humEOJehpAwMJEJmb0JJ2"
@@ -43484,7 +43524,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-22",
+      "date_removed": null,
       "duration_ms": 208226,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/5yJaXWIErrrsjQ3J0eR5aK"
@@ -45052,7 +45092,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-22",
+      "date_removed": null,
       "duration_ms": 177386,
       "name": "Turn The Lights Off (feat. Jon)",
       "url": "https://open.spotify.com/track/0wHayguZd1CeQDLYohXNMS"
@@ -45550,7 +45590,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 229638,
       "name": "Underneath the Tree",
       "url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5"

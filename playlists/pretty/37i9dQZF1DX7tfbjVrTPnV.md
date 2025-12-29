@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 
 > Enjoy new and classic releases from icons of folk and Americana\. Cover: Shelby Lynne
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,095 likes - 150 songs - 9 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,120 likes - 150 songs - 9 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 | 40 | [Can't Let Go](https://open.spotify.com/track/1KI016Hog5kWTGaKN3nZJS) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Car Wheels On A Gravel Road](https://open.spotify.com/album/074Kr9hvgYLxCWiVhcWT7x) | 3:28 |
 | 41 | [Merely Avoiding](https://open.spotify.com/track/6mtJ9NK0YjqMDvSv15N1T1) | [Greensky Bluegrass](https://open.spotify.com/artist/33bzrYoIWLx5uox3y0VtHn) | [Shouted, Written Down & Quoted](https://open.spotify.com/album/5JblYQTb7RXHoqP9JQZK6L) | 3:27 |
 | 42 | [Calling Me Home \(with Francesco Turrisi\)](https://open.spotify.com/track/2C6qZqsYHMFuY0GopknQRr) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM), [Francesco Turrisi](https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC) | [They're Calling Me Home \(with Francesco Turrisi\)](https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms) | 3:49 |
-| 43 | [The Rock and the Hill](https://open.spotify.com/track/1J3vn9vwq2pyC9iYlEUFEH) | [Allison Moorer](https://open.spotify.com/artist/1Fp2fNrv2udkdpOqFWn8IY) | [Blood](https://open.spotify.com/album/1wBCGpLEYgfDPG3mm7kH72) | 3:39 |
-| 44 | [The Medicine Man \[Feat\. Old Crow Medicine Show\]](https://open.spotify.com/track/1SlXBA2DcPeBN9beZ9u4QX) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F), [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [The Medicine Man](https://open.spotify.com/album/4lSXxyaYcDLGpCcF3d21Ii) | 3:38 |
+| 43 | [The Medicine Man \[Feat\. Old Crow Medicine Show\]](https://open.spotify.com/track/1SlXBA2DcPeBN9beZ9u4QX) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F), [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [The Medicine Man](https://open.spotify.com/album/4lSXxyaYcDLGpCcF3d21Ii) | 3:38 |
+| 44 | [The Rock and the Hill](https://open.spotify.com/track/1J3vn9vwq2pyC9iYlEUFEH) | [Allison Moorer](https://open.spotify.com/artist/1Fp2fNrv2udkdpOqFWn8IY) | [Blood](https://open.spotify.com/album/1wBCGpLEYgfDPG3mm7kH72) | 3:39 |
 | 45 | [You Are My Sunshine \(with Chris Stapleton\)](https://open.spotify.com/track/0JqHPXj2YlV0oIbWleZjDS) | [Morgane Stapleton](https://open.spotify.com/artist/2NMDcLqpSDPcPA3OMitdnX), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh), [Southern Family](https://open.spotify.com/artist/6AQnRGiSkXiVUvqz9Owe4x) | [Southern Family](https://open.spotify.com/album/2cKzkXbgcoQjaFMCPbJDdi) | 6:13 |
 | 46 | [Things That I Lean On](https://open.spotify.com/track/16D7vwG8vCEWferlmVZbEP) | [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [Wynonna & The Big Noise](https://open.spotify.com/album/7Fuk4zDnEJxnSGtjihpWOA) | 3:40 |
 | 47 | [The Traveling Kind](https://open.spotify.com/track/5OHTqUeUeV09qhqszxS541) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP), [Rodney Crowell](https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY) | [The Traveling Kind](https://open.spotify.com/album/2lyBmILucpN3Wxy1Cna2Ch) | 3:40 |

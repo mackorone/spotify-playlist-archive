@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJXCbmtHVHV.md) - [plain]
 
 > Top country hits you know and love! Cover: Shaboozey
 
-[Spotify](https://open.spotify.com/user/spotify) - 666,185 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 666,220 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJXCbmtHVHV.md) - [plain]
 | 34 | ['Til You Can't](https://open.spotify.com/track/4k3lPl8YTKuY8c1HelVnm3) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Human The Double Album](https://open.spotify.com/album/3og8X1LYiVq3nPdMxpM9Wb) | 3:44 |
 | 35 | [Miles On It](https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Miles On It](https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM) | 2:48 |
 | 36 | [A Lot More Free](https://open.spotify.com/track/3i86MS9vF1VCf0h2IEpKWY) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Wandering \(Love Me Back\)](https://open.spotify.com/album/3DEtpqVl2R2gEe9fLCa1DE) | 3:18 |
-| 37 | [Bloodline](https://open.spotify.com/track/0qmhTHMVxnXRmT5N92wTD9) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Bloodline](https://open.spotify.com/album/2KoAn4MyptQWG1qBx7mu01) | 3:02 |
-| 38 | [Buy Dirt](https://open.spotify.com/track/69AIpwGNLxr4qS1X5ynx60) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Buy Dirt](https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO) | 2:47 |
+| 37 | [Buy Dirt](https://open.spotify.com/track/69AIpwGNLxr4qS1X5ynx60) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Buy Dirt](https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO) | 2:47 |
+| 38 | [Bloodline](https://open.spotify.com/track/0qmhTHMVxnXRmT5N92wTD9) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Bloodline](https://open.spotify.com/album/2KoAn4MyptQWG1qBx7mu01) | 3:02 |
 | 39 | [Dirt Cheap](https://open.spotify.com/track/48X5k2vce5rXckgDAnXMsa) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Leather](https://open.spotify.com/album/5CLwcVp4tfZqwxHLr77dnY) | 3:59 |
 | 40 | [Porch Light](https://open.spotify.com/track/43SoxERu5UlXAgt4Es1VQU) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Porch Light](https://open.spotify.com/album/2t0vbfmG9x5kKI8MqaxQKA) | 3:04 |
 | 41 | [Lonely Road \(with Jelly Roll\)](https://open.spotify.com/track/3Rfre3qkrhwdZZ7dyznwbN) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Lonely Road \(with Jelly Roll\)](https://open.spotify.com/album/4tU0FNnuiBD1P6IRTARHww) | 3:09 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJXCbmtHVHV.md) - [plain]
 | 61 | [What Kinda Man](https://open.spotify.com/track/2K6T1iKa7coghsISspjPv8) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [What Kinda Man](https://open.spotify.com/album/53HiQCmdwiT4e7SHX74XdM) | 4:19 |
 | 62 | [Sweet Lady](https://open.spotify.com/track/6DhE7v3FS4DlHHBHToieiC) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Sweet Lady](https://open.spotify.com/album/0kEMsyo87L9rno89g4rBRM) | 2:59 |
 | 63 | [Save Me \- with Lainey Wilson](https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whitsitt Chapel](https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ) | 3:57 |
-| 64 | [Bad State of Mind](https://open.spotify.com/track/01QN0DfaIrazVmGEfZ5RVX) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [Bad State of Mind](https://open.spotify.com/album/7yPorglELKJoIBGGkgHSLg) | 4:21 |
-| 65 | [Losers \(Feat\. Jelly Roll\)](https://open.spotify.com/track/0gucUyFMFRMlUiVn9US4YX) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [F\-1 Trillion](https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx) | 3:29 |
+| 64 | [Losers \(Feat\. Jelly Roll\)](https://open.spotify.com/track/0gucUyFMFRMlUiVn9US4YX) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [F\-1 Trillion](https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx) | 3:29 |
+| 65 | [Bad State of Mind](https://open.spotify.com/track/01QN0DfaIrazVmGEfZ5RVX) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [Bad State of Mind](https://open.spotify.com/album/7yPorglELKJoIBGGkgHSLg) | 4:21 |
 | 66 | [Think I'm In Love With You](https://open.spotify.com/track/65M92JpTbAdHmTQm4jGaDa) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Think I’m In Love With You](https://open.spotify.com/album/52lLryGmbfkDOayypXEhhR) | 3:42 |
 | 67 | [smoke & a light](https://open.spotify.com/track/1QvDl9tBq6PsMVE7Bf2ZOV) | [Ole 60](https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O) | [three twenty four](https://open.spotify.com/album/1KTvTGon7YPfnAAEGnSHBc) | 3:09 |
 | 68 | [After All The Bars Are Closed](https://open.spotify.com/track/0oBbkZuDLkT8DY9DK67kfr) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [After All The Bars Are Closed](https://open.spotify.com/album/07gfJHUBVX2VxXovVuUGjA) | 3:11 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJXCbmtHVHV.md) - [plain]
 | 96 | [Chevrolet \(feat\. Jelly Roll\)](https://open.spotify.com/track/7FKAVg9SA7QYLxdVRLnKjd) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Killed The Cowboy](https://open.spotify.com/album/7qOcM822LYEaTksCBUImpb) | 3:04 |
 | 97 | [Hell Of A View](https://open.spotify.com/track/4mXGooManGPH6xAWRAtRJU) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Soul](https://open.spotify.com/album/4MRgsu0MBuBHzMhTLBgnNz) | 2:55 |
 | 98 | [What Don't Belong To Me](https://open.spotify.com/track/0lJNSfWnwJMIh94Dv9jQUt) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [F\-1 Trillion](https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx) | 3:27 |
-| 99 | [Somethin’ ‘Bout A Woman \(feat\. Teddy Swims\)](https://open.spotify.com/track/1dHUB7GIbSk3MdL6a6KGvc) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Somethin’ ‘Bout A Woman \(feat\. Teddy Swims\)](https://open.spotify.com/album/2ijhcwHBggjxTuiZTjFPbe) | 3:27 |
-| 100 | [If He Wanted To He Would](https://open.spotify.com/track/3nei8eHEdiwwSfyoOCHPZI) | [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV) | [P.S.](https://open.spotify.com/album/5HLVKjqh4u4a3NQhnxpz7i) | 2:54 |
+| 99 | [If He Wanted To He Would](https://open.spotify.com/track/3nei8eHEdiwwSfyoOCHPZI) | [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV) | [P.S.](https://open.spotify.com/album/5HLVKjqh4u4a3NQhnxpz7i) | 2:54 |
+| 100 | [Somethin’ ‘Bout A Woman \(feat\. Teddy Swims\)](https://open.spotify.com/track/1dHUB7GIbSk3MdL6a6KGvc) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Somethin’ ‘Bout A Woman \(feat\. Teddy Swims\)](https://open.spotify.com/album/2ijhcwHBggjxTuiZTjFPbe) | 3:27 |
 
-Snapshot ID: `AAAAAMJNcRGW65PxP0ifHppUwMSe4RGD`
+Snapshot ID: `AAAAAOOoeFMj4r64eGvW1G52hwpIl2UE`

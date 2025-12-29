@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKPTKrnFPD0G.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Argentina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,066 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,100 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKPTKrnFPD0G.md) - [plain]
 | 49 | [No Podrás \- En Vivo](https://open.spotify.com/track/3X8jKI7kHrbhqgLboG14tw) | [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc), [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d), [La banda de Carlitos](https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo) | [De Córdoba Pal Mundo \(En Vivo\)](https://open.spotify.com/album/4FRH841tSgQ6iNwKlcNGf3) | 4:32 |
 | 50 | [Shiny](https://open.spotify.com/track/72aGCwuSwD5Qb3tHvXBoX3) | [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O), [Dysbit](https://open.spotify.com/artist/2WcCTeyPFxpiGwlntz0X2V) | [I'M PART](https://open.spotify.com/album/2FaWRcWNTc2EhVJniu4t69) | 2:38 |
 
-Snapshot ID: `MONSqAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MOSkKAAAAAAAAAAAAAAAAAAAAAAAAGVu`

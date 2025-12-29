@@ -1,12 +1,12 @@
 {
   "description": "This is Little Walter. The essential tracks, all in one playlist.",
-  "num_followers": 7143,
+  "num_followers": 7142,
   "original_name": "This Is Little Walter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU3QAAAAAADhb81PdkpcqWUnYwaaw4qy",
+  "snapshot_id": "aU8hgAAAAACeBRj/lfUPcbJ2qrTxbW2Q",
   "tracks": [
     {
       "added_at": null,
@@ -188,9 +188,9 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 179920,
-      "name": "Don't Have To Hunt No More",
-      "url": "https://open.spotify.com/track/0TMbL2oiVtqaB9QXKI9e9S"
+      "duration_ms": 132146,
+      "name": "Evans Shuffle",
+      "url": "https://open.spotify.com/track/7qMbcPfEJFEltXDsLs3DXc"
     },
     {
       "added_at": null,
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 132146,
-      "name": "Evans Shuffle",
-      "url": "https://open.spotify.com/track/7qMbcPfEJFEltXDsLs3DXc"
+      "duration_ms": 179920,
+      "name": "Don't Have To Hunt No More",
+      "url": "https://open.spotify.com/track/0TMbL2oiVtqaB9QXKI9e9S"
     },
     {
       "added_at": null,
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Confessin' The Blues",
-        "url": "https://open.spotify.com/album/7BvtYMIphGtQKTLgUHelUL"
+        "name": "The Complete Chess Masters (1950 - 1967)",
+        "url": "https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 172666,
-      "name": "One More Chance With You",
-      "url": "https://open.spotify.com/track/7IB7kU4E7YesUiqPqmBG1e"
+      "duration_ms": 183000,
+      "name": "Hate To See You Go - Extended",
+      "url": "https://open.spotify.com/track/3stgNDeoJuRr3HB4GVHQF4"
     },
     {
       "added_at": null,
@@ -503,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Complete Chess Masters (1950 - 1967)",
-        "url": "https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Hate To See You Go - Extended",
-      "url": "https://open.spotify.com/track/3stgNDeoJuRr3HB4GVHQF4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Confessin' The Blues",
         "url": "https://open.spotify.com/album/7BvtYMIphGtQKTLgUHelUL"
       },
@@ -559,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Of Little Walter",
-        "url": "https://open.spotify.com/album/2yIkYQJevVxZADVieZX1Bx"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 196173,
-      "name": "Blue Light - Single Version",
-      "url": "https://open.spotify.com/track/5KR5hJ3y1evtGt5MeEHU8l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Complete Chess Masters (1950 - 1967)",
         "url": "https://open.spotify.com/album/3xRh7E2R2WdxFYeQFakVbr"
       },
@@ -591,6 +559,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Best Of Little Walter",
+        "url": "https://open.spotify.com/album/2yIkYQJevVxZADVieZX1Bx"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 196173,
+      "name": "Blue Light - Single Version",
+      "url": "https://open.spotify.com/track/5KR5hJ3y1evtGt5MeEHU8l"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Confessin' The Blues",
         "url": "https://open.spotify.com/album/7BvtYMIphGtQKTLgUHelUL"
       },
@@ -600,9 +584,9 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 147600,
-      "name": "Mean Old Frisco",
-      "url": "https://open.spotify.com/track/2x2LPXCxlDLkT80kbjBAMR"
+      "duration_ms": 172666,
+      "name": "One More Chance With You",
+      "url": "https://open.spotify.com/track/7IB7kU4E7YesUiqPqmBG1e"
     },
     {
       "added_at": null,
@@ -647,6 +631,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Confessin' The Blues",
+        "url": "https://open.spotify.com/album/7BvtYMIphGtQKTLgUHelUL"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 147600,
+      "name": "Mean Old Frisco",
+      "url": "https://open.spotify.com/track/2x2LPXCxlDLkT80kbjBAMR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Super Blues",
         "url": "https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s"
       },
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 254506,
-      "name": "Who Do You Love",
-      "url": "https://open.spotify.com/track/1BaGFTIPeL32MpF9eUVguh"
+      "duration_ms": 250800,
+      "name": "You Don't Love Me",
+      "url": "https://open.spotify.com/track/2mk91c3gWWezEG8UPN3LWq"
     },
     {
       "added_at": null,
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
         }
       ],
-      "duration_ms": 250800,
-      "name": "You Don't Love Me",
-      "url": "https://open.spotify.com/track/2mk91c3gWWezEG8UPN3LWq"
+      "duration_ms": 254506,
+      "name": "Who Do You Love",
+      "url": "https://open.spotify.com/track/1BaGFTIPeL32MpF9eUVguh"
     },
     {
       "added_at": null,

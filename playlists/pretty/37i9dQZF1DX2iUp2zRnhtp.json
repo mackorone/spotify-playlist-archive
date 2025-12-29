@@ -1,6 +1,6 @@
 {
   "description": "vi leker ikke hits!",
-  "num_followers": 194551,
+  "num_followers": 194542,
   "original_name": "Hits Don't Lie",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2025-12-18 23:00:12",
       "album": {
-        "name": "The Dead Dance",
-        "url": "https://open.spotify.com/album/1KdrtZn2AmuQPHKIr3h4e6"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 228518,
-      "name": "The Dead Dance",
-      "url": "https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh"
-    },
-    {
-      "added_at": "2025-12-18 23:00:12",
-      "album": {
         "name": "Fancy Some More?",
         "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 184761,
       "name": "Stateside + Zara Larsson",
       "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
+    },
+    {
+      "added_at": "2025-12-18 23:00:12",
+      "album": {
+        "name": "The Dead Dance",
+        "url": "https://open.spotify.com/album/1KdrtZn2AmuQPHKIr3h4e6"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 228518,
+      "name": "The Dead Dance",
+      "url": "https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh"
     },
     {
       "added_at": "2025-12-18 23:00:12",
@@ -403,26 +403,6 @@
     {
       "added_at": "2025-12-18 23:00:12",
       "album": {
-        "name": "Priceless (feat. LISA)",
-        "url": "https://open.spotify.com/album/0JfWflwFS8yOSELbH7bDbQ"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        },
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 163352,
-      "name": "Priceless (feat. LISA)",
-      "url": "https://open.spotify.com/track/5MI9rnOsAayuxi7pKVydNg"
-    },
-    {
-      "added_at": "2025-12-18 23:00:12",
-      "album": {
         "name": "Where I've Been, Isn't Where I'm Going: The Complete Edition",
         "url": "https://open.spotify.com/album/7h7fjoD137eLq9B3KHWXtW"
       },
@@ -439,6 +419,26 @@
       "duration_ms": 197403,
       "name": "Amen",
       "url": "https://open.spotify.com/track/2iSfSJrho5XkU2NmAnZ9ZV"
+    },
+    {
+      "added_at": "2025-12-18 23:00:12",
+      "album": {
+        "name": "Priceless (feat. LISA)",
+        "url": "https://open.spotify.com/album/0JfWflwFS8yOSELbH7bDbQ"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        },
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 163352,
+      "name": "Priceless (feat. LISA)",
+      "url": "https://open.spotify.com/track/5MI9rnOsAayuxi7pKVydNg"
     },
     {
       "added_at": "2025-12-18 23:00:12",
@@ -691,22 +691,6 @@
     {
       "added_at": "2025-12-18 23:00:12",
       "album": {
-        "name": "Breathe",
-        "url": "https://open.spotify.com/album/4x5UzbvkvyvBPBfF3h6t9h"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        }
-      ],
-      "duration_ms": 218440,
-      "name": "The Cure",
-      "url": "https://open.spotify.com/track/6cHmI8DzAJthaPWHLxv9OM"
-    },
-    {
-      "added_at": "2025-12-18 23:00:12",
-      "album": {
         "name": "Invincible (from Kaiju No. 8)",
         "url": "https://open.spotify.com/album/5x84R5uZh6o8FvlIYhu14p"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 155495,
       "name": "Invincible - from Kaiju No. 8",
       "url": "https://open.spotify.com/track/2ndG3pjTjbUWaJxFo9dWi8"
+    },
+    {
+      "added_at": "2025-12-18 23:00:12",
+      "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/4x5UzbvkvyvBPBfF3h6t9h"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        }
+      ],
+      "duration_ms": 218440,
+      "name": "The Cure",
+      "url": "https://open.spotify.com/track/6cHmI8DzAJthaPWHLxv9OM"
     },
     {
       "added_at": "2025-12-18 23:00:12",
@@ -959,26 +959,6 @@
     {
       "added_at": "2025-12-18 23:00:12",
       "album": {
-        "name": "DEPRESSED (feat. Lauren Spencer Smith)",
-        "url": "https://open.spotify.com/album/4ekqyZgR8jXUgT42PlQUJ6"
-      },
-      "artists": [
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        },
-        {
-          "name": "Lauren Spencer Smith",
-          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
-        }
-      ],
-      "duration_ms": 138338,
-      "name": "DEPRESSED (feat. Lauren Spencer Smith)",
-      "url": "https://open.spotify.com/track/0nNNeXIcPpTydVjcqqjsnU"
-    },
-    {
-      "added_at": "2025-12-18 23:00:12",
-      "album": {
         "name": "T\u00c6T P\u00c5 (feat. Delara)",
         "url": "https://open.spotify.com/album/2EJfw8c22rvYkdhdH9RIKx"
       },
@@ -999,6 +979,26 @@
     {
       "added_at": "2025-12-18 23:00:12",
       "album": {
+        "name": "DEPRESSED (feat. Lauren Spencer Smith)",
+        "url": "https://open.spotify.com/album/4ekqyZgR8jXUgT42PlQUJ6"
+      },
+      "artists": [
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        },
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "duration_ms": 138338,
+      "name": "DEPRESSED (feat. Lauren Spencer Smith)",
+      "url": "https://open.spotify.com/track/0nNNeXIcPpTydVjcqqjsnU"
+    },
+    {
+      "added_at": "2025-12-18 23:00:12",
+      "album": {
         "name": "H\u00c6?",
         "url": "https://open.spotify.com/album/1Sbtt9rQIOdwNT2RxvstDp"
       },
@@ -1011,6 +1011,22 @@
       "duration_ms": 152923,
       "name": "H\u00c6?",
       "url": "https://open.spotify.com/track/2q5ndRxFsCsDMUY0MjbXAZ"
+    },
+    {
+      "added_at": "2025-12-18 23:00:12",
+      "album": {
+        "name": "Helvete! (Spotify Singles)",
+        "url": "https://open.spotify.com/album/49YYvins0j1bpJ4cYp1oZq"
+      },
+      "artists": [
+        {
+          "name": "Ida-Lova",
+          "url": "https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO"
+        }
+      ],
+      "duration_ms": 217120,
+      "name": "Helvete! - Spotify Singles",
+      "url": "https://open.spotify.com/track/1yNcbAs2AyjhdWLqx1P7ar"
     },
     {
       "added_at": "2025-12-18 23:00:12",
@@ -1059,38 +1075,6 @@
     {
       "added_at": "2025-12-18 23:00:12",
       "album": {
-        "name": "Helvete! (Spotify Singles)",
-        "url": "https://open.spotify.com/album/49YYvins0j1bpJ4cYp1oZq"
-      },
-      "artists": [
-        {
-          "name": "Ida-Lova",
-          "url": "https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO"
-        }
-      ],
-      "duration_ms": 217120,
-      "name": "Helvete! - Spotify Singles",
-      "url": "https://open.spotify.com/track/1yNcbAs2AyjhdWLqx1P7ar"
-    },
-    {
-      "added_at": "2025-12-18 23:00:12",
-      "album": {
-        "name": "There\u2019s Always More That I Could Say",
-        "url": "https://open.spotify.com/album/3lWtOvOTvEWxEjkVCbWyir"
-      },
-      "artists": [
-        {
-          "name": "Sigrid",
-          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
-        }
-      ],
-      "duration_ms": 164303,
-      "name": "Hush Baby, Hurry Slowly",
-      "url": "https://open.spotify.com/track/20fkA1ahV9WxHTt03calHi"
-    },
-    {
-      "added_at": "2025-12-18 23:00:12",
-      "album": {
         "name": "Forever (with Kid Cudi)",
         "url": "https://open.spotify.com/album/4D6sxB4kldq1PNm43cMyul"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 251693,
       "name": "Forever (with Kid Cudi)",
       "url": "https://open.spotify.com/track/0TryO56AxrMAMmGSng6z9C"
+    },
+    {
+      "added_at": "2025-12-18 23:00:12",
+      "album": {
+        "name": "There\u2019s Always More That I Could Say",
+        "url": "https://open.spotify.com/album/3lWtOvOTvEWxEjkVCbWyir"
+      },
+      "artists": [
+        {
+          "name": "Sigrid",
+          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
+        }
+      ],
+      "duration_ms": 164303,
+      "name": "Hush Baby, Hurry Slowly",
+      "url": "https://open.spotify.com/track/20fkA1ahV9WxHTt03calHi"
     },
     {
       "added_at": "2025-12-18 23:00:12",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2025-12-18 23:00:12",
       "album": {
-        "name": "St. Tropez",
-        "url": "https://open.spotify.com/album/1VMuWJQJoR0S8fcsXyRLVe"
+        "name": "I Could Miss You Forever",
+        "url": "https://open.spotify.com/album/3wakAMVNSBt9CTCdnoUEmx"
       },
       "artists": [
         {
-          "name": "Bausa",
-          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
+          "name": "SKAAR",
+          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
         }
       ],
-      "duration_ms": 142660,
-      "name": "St. Tropez",
-      "url": "https://open.spotify.com/track/37p6tirLRljcRz2XhR9G4X"
+      "duration_ms": 217908,
+      "name": "I Could Miss You Forever",
+      "url": "https://open.spotify.com/track/3F81PYqkx4j3pFX9aQORg0"
     },
     {
       "added_at": "2025-12-18 23:00:12",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2025-12-18 23:00:12",
       "album": {
-        "name": "I Could Miss You Forever",
-        "url": "https://open.spotify.com/album/3wakAMVNSBt9CTCdnoUEmx"
+        "name": "St. Tropez",
+        "url": "https://open.spotify.com/album/1VMuWJQJoR0S8fcsXyRLVe"
       },
       "artists": [
         {
-          "name": "SKAAR",
-          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
         }
       ],
-      "duration_ms": 217908,
-      "name": "I Could Miss You Forever",
-      "url": "https://open.spotify.com/track/3F81PYqkx4j3pFX9aQORg0"
+      "duration_ms": 142660,
+      "name": "St. Tropez",
+      "url": "https://open.spotify.com/track/37p6tirLRljcRz2XhR9G4X"
     },
     {
       "added_at": "2025-12-18 23:00:12",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2025-12-18 23:00:12",
       "album": {
-        "name": "\u00c4ldsta Barnet",
-        "url": "https://open.spotify.com/album/6mZAkeuzLJcNI0RvQIGGCV"
-      },
-      "artists": [
-        {
-          "name": "Peg Parnevik",
-          "url": "https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6"
-        }
-      ],
-      "duration_ms": 143973,
-      "name": "Spelar ingen roll",
-      "url": "https://open.spotify.com/track/0Jh6IuuW5PtUk2nHtbMxJS"
-    },
-    {
-      "added_at": "2025-12-18 23:00:12",
-      "album": {
         "name": "Oslo",
         "url": "https://open.spotify.com/album/7uTUU9hnwypL51eEv8qwyH"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 151800,
       "name": "Oslo",
       "url": "https://open.spotify.com/track/4rfYHi76AIktWXmeb7ycjN"
+    },
+    {
+      "added_at": "2025-12-18 23:00:12",
+      "album": {
+        "name": "\u00c4ldsta Barnet",
+        "url": "https://open.spotify.com/album/6mZAkeuzLJcNI0RvQIGGCV"
+      },
+      "artists": [
+        {
+          "name": "Peg Parnevik",
+          "url": "https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6"
+        }
+      ],
+      "duration_ms": 143973,
+      "name": "Spelar ingen roll",
+      "url": "https://open.spotify.com/track/0Jh6IuuW5PtUk2nHtbMxJS"
     },
     {
       "added_at": "2025-12-18 23:00:12",
@@ -1667,6 +1667,26 @@
     {
       "added_at": "2025-12-18 23:00:12",
       "album": {
+        "name": "So cool",
+        "url": "https://open.spotify.com/album/2FUJFXPzPIpKeSzadgmz6U"
+      },
+      "artists": [
+        {
+          "name": "Highasakite",
+          "url": "https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T"
+        },
+        {
+          "name": "Miriam Bryant",
+          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
+        }
+      ],
+      "duration_ms": 222546,
+      "name": "So cool",
+      "url": "https://open.spotify.com/track/4OTbRLkWT2kzCyzsoDMbcC"
+    },
+    {
+      "added_at": "2025-12-18 23:00:12",
+      "album": {
         "name": "FUNNY little FEARS (DREAMS)",
         "url": "https://open.spotify.com/album/3TZONvyRaehRSxPangnoG5"
       },
@@ -1687,26 +1707,6 @@
       "duration_ms": 193502,
       "name": "Talk to Me (feat. Tyla, Nile Rodgers)",
       "url": "https://open.spotify.com/track/2S8LwZ3Jdjq4R1U2PHxBhn"
-    },
-    {
-      "added_at": "2025-12-18 23:00:12",
-      "album": {
-        "name": "So cool",
-        "url": "https://open.spotify.com/album/2FUJFXPzPIpKeSzadgmz6U"
-      },
-      "artists": [
-        {
-          "name": "Highasakite",
-          "url": "https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T"
-        },
-        {
-          "name": "Miriam Bryant",
-          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
-        }
-      ],
-      "duration_ms": 222546,
-      "name": "So cool",
-      "url": "https://open.spotify.com/track/4OTbRLkWT2kzCyzsoDMbcC"
     },
     {
       "added_at": "2025-12-18 23:00:12",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2025-12-18 23:00:12",
       "album": {
-        "name": "Two Years",
-        "url": "https://open.spotify.com/album/7vU5EsVxO1ermbSGIRifkn"
-      },
-      "artists": [
-        {
-          "name": "Sigrid",
-          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
-        }
-      ],
-      "duration_ms": 172889,
-      "name": "Two Years",
-      "url": "https://open.spotify.com/track/2a9A4x3SfWSztDTMaUkNAG"
-    },
-    {
-      "added_at": "2025-12-18 23:00:12",
-      "album": {
         "name": "Alle Kjenner Alle",
         "url": "https://open.spotify.com/album/193c6iWuamNnQ73j2XaU8g"
       },
@@ -1923,6 +1907,22 @@
     {
       "added_at": "2025-12-18 23:00:12",
       "album": {
+        "name": "Two Years",
+        "url": "https://open.spotify.com/album/7vU5EsVxO1ermbSGIRifkn"
+      },
+      "artists": [
+        {
+          "name": "Sigrid",
+          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
+        }
+      ],
+      "duration_ms": 172889,
+      "name": "Two Years",
+      "url": "https://open.spotify.com/track/2a9A4x3SfWSztDTMaUkNAG"
+    },
+    {
+      "added_at": "2025-12-18 23:00:12",
+      "album": {
         "name": "Bl\u00e5\u00f6gd",
         "url": "https://open.spotify.com/album/1nxYAabZgRXCzGo14eBYWv"
       },
@@ -1935,6 +1935,22 @@
       "duration_ms": 215834,
       "name": "Bl\u00e5\u00f6gd",
       "url": "https://open.spotify.com/track/4JAjSsZO4DX0tWYjMjppdM"
+    },
+    {
+      "added_at": "2025-12-18 23:00:12",
+      "album": {
+        "name": "Leve",
+        "url": "https://open.spotify.com/album/2bI2phAdwdvfV1diBsGUFG"
+      },
+      "artists": [
+        {
+          "name": "Tigergutt101",
+          "url": "https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K"
+        }
+      ],
+      "duration_ms": 129083,
+      "name": "Leve",
+      "url": "https://open.spotify.com/track/2QzDftiT7zPmyuwlXmPqFO"
     },
     {
       "added_at": "2025-12-18 23:00:12",
@@ -1955,22 +1971,6 @@
       "duration_ms": 158225,
       "name": "Dette er livet (feat. OnklP)",
       "url": "https://open.spotify.com/track/07i2PdaFfEclgdsnT4WKEk"
-    },
-    {
-      "added_at": "2025-12-18 23:00:12",
-      "album": {
-        "name": "Leve",
-        "url": "https://open.spotify.com/album/2bI2phAdwdvfV1diBsGUFG"
-      },
-      "artists": [
-        {
-          "name": "Tigergutt101",
-          "url": "https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K"
-        }
-      ],
-      "duration_ms": 129083,
-      "name": "Leve",
-      "url": "https://open.spotify.com/track/2QzDftiT7zPmyuwlXmPqFO"
     },
     {
       "added_at": "2025-12-18 23:00:12",
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2025-12-18 23:00:12",
       "album": {
-        "name": "Medicine",
-        "url": "https://open.spotify.com/album/4XfNUSWZR51KBqKr81Rf1e"
-      },
-      "artists": [
-        {
-          "name": "SKAAR",
-          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
-        }
-      ],
-      "duration_ms": 229151,
-      "name": "Medicine",
-      "url": "https://open.spotify.com/track/5SxRXZaje5yxa72HCCerHN"
-    },
-    {
-      "added_at": "2025-12-18 23:00:12",
-      "album": {
         "name": "FULL FYR",
         "url": "https://open.spotify.com/album/2dfh0gZs8T3ir5puEVjfJn"
       },
@@ -2055,6 +2039,22 @@
       "duration_ms": 229361,
       "name": "Bare kom",
       "url": "https://open.spotify.com/track/6ofEiPfpIHBp0EvMOqEvlC"
+    },
+    {
+      "added_at": "2025-12-18 23:00:12",
+      "album": {
+        "name": "Medicine",
+        "url": "https://open.spotify.com/album/4XfNUSWZR51KBqKr81Rf1e"
+      },
+      "artists": [
+        {
+          "name": "SKAAR",
+          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
+        }
+      ],
+      "duration_ms": 229151,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/5SxRXZaje5yxa72HCCerHN"
     },
     {
       "added_at": "2025-12-18 23:00:12",
@@ -2131,22 +2131,6 @@
     {
       "added_at": "2025-12-18 23:00:12",
       "album": {
-        "name": "Miss Me Vendetta",
-        "url": "https://open.spotify.com/album/5WuxJ5z2dRAVEvy3Jzm5p6"
-      },
-      "artists": [
-        {
-          "name": "Magnus Ferrell",
-          "url": "https://open.spotify.com/artist/5CljSCTqoS1Yu0tNJZJcKe"
-        }
-      ],
-      "duration_ms": 183695,
-      "name": "Miss Me Vendetta",
-      "url": "https://open.spotify.com/track/0gxTKWnU4Nw96sA4na2xUN"
-    },
-    {
-      "added_at": "2025-12-18 23:00:12",
-      "album": {
         "name": "Nobody Gets Me",
         "url": "https://open.spotify.com/album/3JDKvnr04WNWqqLqGlP0pl"
       },
@@ -2159,6 +2143,22 @@
       "duration_ms": 163915,
       "name": "Nobody Gets Me",
       "url": "https://open.spotify.com/track/0PNB53urpkoZ7XJ05d1eOz"
+    },
+    {
+      "added_at": "2025-12-18 23:00:12",
+      "album": {
+        "name": "Miss Me Vendetta",
+        "url": "https://open.spotify.com/album/5WuxJ5z2dRAVEvy3Jzm5p6"
+      },
+      "artists": [
+        {
+          "name": "Magnus Ferrell",
+          "url": "https://open.spotify.com/artist/5CljSCTqoS1Yu0tNJZJcKe"
+        }
+      ],
+      "duration_ms": 183695,
+      "name": "Miss Me Vendetta",
+      "url": "https://open.spotify.com/track/0gxTKWnU4Nw96sA4na2xUN"
     },
     {
       "added_at": "2025-12-18 23:00:12",
@@ -2503,22 +2503,6 @@
     {
       "added_at": "2025-12-18 23:00:12",
       "album": {
-        "name": "Last Forever",
-        "url": "https://open.spotify.com/album/0xzaK6giuwC8NCK554OXWg"
-      },
-      "artists": [
-        {
-          "name": "LANY",
-          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
-        }
-      ],
-      "duration_ms": 223080,
-      "name": "Last Forever",
-      "url": "https://open.spotify.com/track/18YaxBAxzZmCkgZsZk9D6C"
-    },
-    {
-      "added_at": "2025-12-18 23:00:12",
-      "album": {
         "name": "Meir",
         "url": "https://open.spotify.com/album/2YNBmv3PoUpJkhPAQY2VLQ"
       },
@@ -2531,6 +2515,22 @@
       "duration_ms": 145226,
       "name": "Meir",
       "url": "https://open.spotify.com/track/0GO4Q0m6UwrTA49jZaNqJi"
+    },
+    {
+      "added_at": "2025-12-18 23:00:12",
+      "album": {
+        "name": "Last Forever",
+        "url": "https://open.spotify.com/album/0xzaK6giuwC8NCK554OXWg"
+      },
+      "artists": [
+        {
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ],
+      "duration_ms": 223080,
+      "name": "Last Forever",
+      "url": "https://open.spotify.com/track/18YaxBAxzZmCkgZsZk9D6C"
     },
     {
       "added_at": "2025-12-18 23:00:12",
@@ -2551,6 +2551,22 @@
     {
       "added_at": "2025-12-18 23:00:12",
       "album": {
+        "name": "Vant til det",
+        "url": "https://open.spotify.com/album/7ptjOgIv2FidOtmcAu7TNI"
+      },
+      "artists": [
+        {
+          "name": "Nossan",
+          "url": "https://open.spotify.com/artist/56oCqjZTfwPSfbjrsolBGT"
+        }
+      ],
+      "duration_ms": 128571,
+      "name": "Vant til det",
+      "url": "https://open.spotify.com/track/6HQXqcM17N4d2KcP9kyjMH"
+    },
+    {
+      "added_at": "2025-12-18 23:00:12",
+      "album": {
         "name": "Ta meg med",
         "url": "https://open.spotify.com/album/2nnmxYjfjS6gNlhFRGMtEm"
       },
@@ -2567,22 +2583,6 @@
       "duration_ms": 241573,
       "name": "Ta meg med",
       "url": "https://open.spotify.com/track/5pf6hLdo2MOoaZ57prW0fh"
-    },
-    {
-      "added_at": "2025-12-18 23:00:12",
-      "album": {
-        "name": "Vant til det",
-        "url": "https://open.spotify.com/album/7ptjOgIv2FidOtmcAu7TNI"
-      },
-      "artists": [
-        {
-          "name": "Nossan",
-          "url": "https://open.spotify.com/artist/56oCqjZTfwPSfbjrsolBGT"
-        }
-      ],
-      "duration_ms": 128571,
-      "name": "Vant til det",
-      "url": "https://open.spotify.com/track/6HQXqcM17N4d2KcP9kyjMH"
     },
     {
       "added_at": "2025-12-18 23:00:12",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbWHkfjljXoE.md) - [plain]
 
 > Melodies of the movement\. Cover: Carl Carlton
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,469 likes - 68 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,495 likes - 68 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

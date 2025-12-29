@@ -1,12 +1,12 @@
 {
   "description": "This is Ziggy Marley. The essential tracks, all in one playlist.",
-  "num_followers": 34833,
+  "num_followers": 34836,
   "original_name": "This Is Ziggy Marley",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU3QAAAAAACnVvFcDtHAVZOstYqTClVu",
+  "snapshot_id": "aU8hgAAAAAAHChuIMMEfRjZnp1WCSdaW",
   "tracks": [
     {
       "added_at": null,
@@ -663,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rebellion Rises",
+        "url": "https://open.spotify.com/album/4GEhidr20hYZgYhk6eH2ZO"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 206013,
+      "name": "Rebellion Rises",
+      "url": "https://open.spotify.com/track/6trgRnzKxMtj4EHRhjrOJV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Remixes",
         "url": "https://open.spotify.com/album/1UPInuHMWkRodfsDYPyhYx"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 188668,
       "name": "Sunshine (feat. RUSL) - RUSL Remix",
       "url": "https://open.spotify.com/track/7ljp7KHGbCoXSWB8rq6g76"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rebellion Rises",
-        "url": "https://open.spotify.com/album/4GEhidr20hYZgYhk6eH2ZO"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 206013,
-      "name": "Rebellion Rises",
-      "url": "https://open.spotify.com/track/6trgRnzKxMtj4EHRhjrOJV"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 
 > 15 Years of timeless music by Flavour
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,845 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,926 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 | 41 | [Party No Dey Stop](https://open.spotify.com/track/0Em4eY10PGyiBlmjWxcav3) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Party No Dey Stop](https://open.spotify.com/album/6LFrJCjt9PDLQRdLpHiLeq) | 2:48 |
 | 42 | [Million Pound Girl \(Badder Than Bad\)](https://open.spotify.com/track/3h7pI8oM2CpXiNSZbQuEtV) | [Fuse ODG](https://open.spotify.com/artist/374sWpAJsbZckf98df2jJJ) | [T.I.N.A.](https://open.spotify.com/album/3v9NqDh72DLPjhPVBo4oh1) | 4:06 |
 | 43 | [Caro](https://open.spotify.com/track/7vECrNzGTrvUSAl2pT9Oft) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Ayo](https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq) | 4:06 |
-| 44 | [Ilashe](https://open.spotify.com/track/1kW728xFsRBvunN1yiTsNf) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [RnB](https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu) | 2:40 |
-| 45 | [Buga \(Lo Lo Lo\)](https://open.spotify.com/track/4eZZofkV1OQ9GDqAgHqNpA) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Buga \(Lo Lo Lo\)](https://open.spotify.com/album/0nNEQYgoVlVYZEOrAC2D3h) | 3:03 |
+| 44 | [Buga \(Lo Lo Lo\)](https://open.spotify.com/track/4eZZofkV1OQ9GDqAgHqNpA) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Buga \(Lo Lo Lo\)](https://open.spotify.com/album/0nNEQYgoVlVYZEOrAC2D3h) | 3:03 |
+| 45 | [Ilashe](https://open.spotify.com/track/1kW728xFsRBvunN1yiTsNf) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [RnB](https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu) | 2:40 |
 | 46 | [Dance For Me \(Eugy X Mr Eazi\)](https://open.spotify.com/track/6prqX1SW2MMH8hAOIzKQ3Z) | [Eugy Official](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Dance For Me \(Eugy X Mr Eazi\)](https://open.spotify.com/album/0SwJftCsa4HhuNWT11cIlJ) | 3:24 |
 | 47 | [Yori Yori](https://open.spotify.com/track/1zPbuWCj1bx0MyDUdFnTF8) | [Bracket](https://open.spotify.com/artist/6yd6lB5T20BZjUVkSlwojA) | [Least Expected](https://open.spotify.com/album/0CHBnB0nEDMhjNe1izWpoc) | 3:38 |
 | 48 | [In My Mind](https://open.spotify.com/track/1IiNgs5RGEYyGQFLXJvte5) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Bad Since '97](https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio) | 2:18 |
@@ -77,9 +77,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 | 67 | [Loaded](https://open.spotify.com/track/3J5IO8OLj05dRaZjHBHS8D) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Loaded](https://open.spotify.com/album/1bz4MGZBxnYFjmCXf9lm0g) | 2:35 |
 | 68 | [Ozumba Mbadiwe](https://open.spotify.com/track/4NLFnAPoMAiuuK8iXnit6W) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [Ozumba Mbadiwe](https://open.spotify.com/album/6oYKhPbYdaaYGGnqZIqlNs) | 3:32 |
 | 69 | [Kiss Your Hand \(feat\. Wande Coal\)](https://open.spotify.com/track/0TDFU3SY7Z7l74c7M7kJFO) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Da Revolution](https://open.spotify.com/album/7ktDNtO5MfU9eRaVd9xQt4) | 4:28 |
-| 70 | [Amapiano](https://open.spotify.com/track/3GMdp6clyAh7wZWVYOtoS9) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Amapiano](https://open.spotify.com/album/6SS3BYYRmatpgcIrmRCuI6) | 2:45 |
-| 71 | [Ojapiano](https://open.spotify.com/track/6WZVnqQ9OZRSGZmXyHHlV3) | [KCee](https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG) | [Ojapiano](https://open.spotify.com/album/1j2D58Awo2MGDL1nAwdF3e) | 2:48 |
-| 72 | [Karolina](https://open.spotify.com/track/0tjRxRv1JonYbxX0RD1Smw) | [Awilo Longomba](https://open.spotify.com/artist/0WDUZIWwoxCyAfT7NFFSFT) | [Mondongo](https://open.spotify.com/album/4xnSuFuoJNfg0c2n6tZuMc) | 4:32 |
+| 70 | [Karolina](https://open.spotify.com/track/0tjRxRv1JonYbxX0RD1Smw) | [Awilo Longomba](https://open.spotify.com/artist/0WDUZIWwoxCyAfT7NFFSFT) | [Mondongo](https://open.spotify.com/album/4xnSuFuoJNfg0c2n6tZuMc) | 4:32 |
+| 71 | [Amapiano](https://open.spotify.com/track/3GMdp6clyAh7wZWVYOtoS9) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Amapiano](https://open.spotify.com/album/6SS3BYYRmatpgcIrmRCuI6) | 2:45 |
+| 72 | [Ojapiano](https://open.spotify.com/track/6WZVnqQ9OZRSGZmXyHHlV3) | [KCee](https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG) | [Ojapiano](https://open.spotify.com/album/1j2D58Awo2MGDL1nAwdF3e) | 2:48 |
 | 73 | [Certified Loner \(No Competition\)](https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Certified Loner \(No Competition\)](https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz) | 2:45 |
 | 74 | [On Top Your Matter](https://open.spotify.com/track/5dmzKrF5dzyjsLh85JFUZT) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Ayo](https://open.spotify.com/album/3K4CaKaEcLuJkJZ3lATzrq) | 4:44 |
 | 75 | [Normally](https://open.spotify.com/track/4cPKw3rzgmaU4zixJe6wge) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Body & Soul](https://open.spotify.com/album/1TGcgugu0CxUp5rhS7SyCW) | 3:24 |

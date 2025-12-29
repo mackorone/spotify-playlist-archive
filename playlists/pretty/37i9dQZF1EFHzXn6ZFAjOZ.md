@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1EOn1bt5GXJPBxrZZ7SUlg">RAYE</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,845 likes - 130 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,850 likes - 130 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 | 74 | [The Line](https://open.spotify.com/track/3Kdpyh94Xz8DeUgMCnVYy1) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [The Line](https://open.spotify.com/album/2X4QZ0VwRGl7mgNe4G55PG) | 3:19 |
 | 75 | [Default](https://open.spotify.com/track/5AEJyckUMzLqIyBxZNmGFW) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Life Support](https://open.spotify.com/album/1TKYO9znkrY14VayHze05r) | 1:56 |
 | 76 | [Midnight Cowboy](https://open.spotify.com/track/4zrnaKcJWGYVfGZqmCOELM) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY!](https://open.spotify.com/album/4Q1Rf1xZ5OiQcCFnSAHdeE) | 3:31 |
-| 77 | [How We Do It \(feat\. Pia Mia\)](https://open.spotify.com/track/6x5IZU1qDXFPYxxMJ1cvaC) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Pia Mia](https://open.spotify.com/artist/1BhWF9W2PngtPSyobKg0rP) | [Scorcha](https://open.spotify.com/album/1hVo8fqEJffd9IjV8gHjQ5) | 3:02 |
-| 78 | [WHERE IS MY HUSBAND! \- Remix](https://open.spotify.com/track/0vYSTV1Lye2Z2zktF6P39C) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7) | [WHERE IS MY HUSBAND! \(Remix\)](https://open.spotify.com/album/0v51IyQgTnzyfKP4yBg0AC) | 2:33 |
+| 77 | [WHERE IS MY HUSBAND! \- Remix](https://open.spotify.com/track/0vYSTV1Lye2Z2zktF6P39C) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7) | [WHERE IS MY HUSBAND! \(Remix\)](https://open.spotify.com/album/0v51IyQgTnzyfKP4yBg0AC) | 2:33 |
+| 78 | [How We Do It \(feat\. Pia Mia\)](https://open.spotify.com/track/6x5IZU1qDXFPYxxMJ1cvaC) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Pia Mia](https://open.spotify.com/artist/1BhWF9W2PngtPSyobKg0rP) | [Scorcha](https://open.spotify.com/album/1hVo8fqEJffd9IjV8gHjQ5) | 3:02 |
 | 79 | [Body Dysmorphia.](https://open.spotify.com/track/7FYTCG4IXEtar8f2zmd3jk) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 2:33 |
 | 80 | [Up In Here](https://open.spotify.com/track/1xX9Po48ORssfN8MXeBLj9) | [5 After Midnight](https://open.spotify.com/artist/3x9IfYx4a2FPsxqrTV5FgP) | [Up In Here](https://open.spotify.com/album/5lN3LcDWXPVgQsZVvmStQT) | 3:21 |
 | 81 | [Buss It Down.](https://open.spotify.com/track/08fvAoeVAl6DAOT3nilvQN) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 2:36 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 | 129 | [Don’t Cry \(feat\. Aida Lae\)](https://open.spotify.com/track/3aXsMhbTt3SQTD4iz3ptcc) | [Preditah](https://open.spotify.com/artist/5qYCZ5FQuzZSjOnesvuYiD), [Aida Lae](https://open.spotify.com/artist/6O3zNHRRBNy1fVMuFsuJwc) | [Don’t Cry \(feat\. Aida Lae\)](https://open.spotify.com/album/20fw7LGasmONYZDICD2cUD) | 2:49 |
 | 130 | [Magic](https://open.spotify.com/track/6Is9lEdN1IJQcD6sfFJiTo) | [Rachel Alejandro](https://open.spotify.com/artist/4oMk1QJuMWUWrNmchRJGWL) | [Heart's Desire](https://open.spotify.com/album/2hx6aKJg9nktlobIjmFiW8) | 3:12 |
 
-Snapshot ID: `AcFX/gAAAABJhMzQEypg101i7i/XJWT8`
+Snapshot ID: `AcFdngAAAAAvJYgQS0sZmkZ837k7zIwk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35oM5SPECmN.md) - [plain]
 
 > Uplifting and uptempo indie folk and roots rock, guaranteed to open your stride.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,171,191 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,170,906 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35oM5SPECmN.md) - [plain]
 | 29 | [Hold out Your Hand](https://open.spotify.com/track/0xpKRzMR9x53jKSdugItan) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By the Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 4:22 |
 | 30 | [How Low](https://open.spotify.com/track/0WLJjIjP8YBCyLZIClsmKW) | [Heartless Bastards](https://open.spotify.com/artist/2wwMTLM2da1sa2JcJslf8W) | [A Beautiful Life](https://open.spotify.com/album/0F2pKTWsWxkd0RfW59EV49) | 4:04 |
 | 31 | [Hideaway](https://open.spotify.com/track/3bAgQ4fNuTVf98RtiVgKRv) | [MAGIC GIANT](https://open.spotify.com/artist/7eaa5bidliPI0djFYv166f) | [In The Wind](https://open.spotify.com/album/7tSccVmXBn6RyHKoeKgKIv) | 4:10 |
-| 32 | [Lay It on Me](https://open.spotify.com/track/7MUNNBJKYo3cdokp06wEOB) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Lay It on Me](https://open.spotify.com/album/47NwFzyKpP2MlT7lRMt0kY) | 3:34 |
-| 33 | [Own Alone](https://open.spotify.com/track/2wSJmOCCeO3Nvq1eRqJuTD) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Sad Hunk](https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br) | 3:15 |
+| 32 | [Own Alone](https://open.spotify.com/track/2wSJmOCCeO3Nvq1eRqJuTD) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Sad Hunk](https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br) | 3:15 |
+| 33 | [Lay It on Me](https://open.spotify.com/track/7MUNNBJKYo3cdokp06wEOB) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Lay It on Me](https://open.spotify.com/album/47NwFzyKpP2MlT7lRMt0kY) | 3:34 |
 | 34 | [Crumbled](https://open.spotify.com/track/5daoW1nT2JllZjmSKg0lnn) | [Little Quirks](https://open.spotify.com/artist/6l6nwL0mxcwiSwa8WOebCx) | [Crumbled](https://open.spotify.com/album/0JBgcEn8eL5ptwsHBV50mA) | 3:13 |
 | 35 | [Edge of Seventeen](https://open.spotify.com/track/42HGl10TZF0LLfLgMWNtfw) | [The Wind and The Wave](https://open.spotify.com/artist/5GMZzcgmUwopsHBB7TyCsy) | [Covers One](https://open.spotify.com/album/34WkSeCkKh4wMsz7AFtU0F) | 5:27 |
 | 36 | [Ocean Bed](https://open.spotify.com/track/53dyuOtRb9WMz5puNHodZN) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Ocean Bed](https://open.spotify.com/album/2xCrzpspW5gU2hkMENVexR) | 4:00 |

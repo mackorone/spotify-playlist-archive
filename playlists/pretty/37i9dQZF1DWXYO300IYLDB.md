@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 
 > アコースティック・メロディーズ。ゆったりとしたアコースティックサウンドでリラックスしませんか？
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,573 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,575 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 | 40 | [We Can't Stop](https://open.spotify.com/track/6owKuyHxUqidcAA6fPKSyy) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv), [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [Cover Sessions, Vol\. 3](https://open.spotify.com/album/1DpZ3jGqyRCTQ8Eoas1MP4) | 3:42 |
 | 41 | [True Colors](https://open.spotify.com/track/2ORrgw8M0ZbrFlm5cpaKCv) | [Anna Kendrick](https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [True Colors](https://open.spotify.com/album/7M83W7iXqtZ2qjYCOXvgWj) | 4:03 |
 | 42 | [Untitled](https://open.spotify.com/track/5qCYsAzh1ICtujiR1iuy6S) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [BRANDY SENKI](https://open.spotify.com/album/69NkNuMIrI7oeiuM47pOnF) | 1:40 |
-| 43 | [そっけない](https://open.spotify.com/track/1r1BKnCK7XTcYmRciPYtKB) | [Hanare Gumi](https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte) | [Dear Jubilee \-RADWIMPS TRIBUTE\-](https://open.spotify.com/album/6Gru76yWx8iMVWkTqkKU4I) | 6:49 |
-| 44 | [Say My Name \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/0HFlesrysd5cO5m2Y5aB9H) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Spotify Singles](https://open.spotify.com/album/668E64E2CaJWuH8F4zg7Uj) | 4:27 |
+| 43 | [Say My Name \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/0HFlesrysd5cO5m2Y5aB9H) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Spotify Singles](https://open.spotify.com/album/668E64E2CaJWuH8F4zg7Uj) | 4:27 |
+| 44 | [そっけない](https://open.spotify.com/track/1r1BKnCK7XTcYmRciPYtKB) | [Hanare Gumi](https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte) | [Dear Jubilee \-RADWIMPS TRIBUTE\-](https://open.spotify.com/album/6Gru76yWx8iMVWkTqkKU4I) | 6:49 |
 | 45 | [Stay With Me \- Live From Spotify Berlin](https://open.spotify.com/track/2GiYPEgOA7hb7sqsEWX8df) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Spotify Sessions](https://open.spotify.com/album/3E3RbNL43xqu0o5KggHJBU) | 2:54 |
 | 46 | [Soft Spot \- Acoustic](https://open.spotify.com/track/7FB6Nx7TK8y1Ke8dY6ROpQ) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Soft Spot \(Alternate Versions\)](https://open.spotify.com/album/54QpKvhFEDWb9U0NhSeZVe) | 3:28 |
 | 47 | [Somewhere Only We Know](https://open.spotify.com/track/3DDGhkxq3FeUorZppSgeLE) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Somewhere Only We Know](https://open.spotify.com/album/2BWTPrj9yBBC79fCByZ2Tv) | 3:28 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 | 60 | [Mr\. Brightside](https://open.spotify.com/track/6gSXDd3P1nIjuM1v1ZQqi6) | [Bailey Jehl](https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus) | [Mr\. Brightside](https://open.spotify.com/album/4KawaUrdB0FiEsseoniy3z) | 3:35 |
 | 61 | [Tears](https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Tears](https://open.spotify.com/album/14jFnlreJb9BsKpaCAWEm0) | 2:30 |
 | 62 | [Bloom](https://open.spotify.com/track/1cIXqC75Zx6nwoYOfFyCae) | [LULLANAS](https://open.spotify.com/artist/3b8jXMWK6VSV8FlQ4hbVkd) | [Bloom](https://open.spotify.com/album/5fNY7SfLdlrlLPJB5H7oYY) | 2:53 |
-| 63 | [As It Was](https://open.spotify.com/track/6Cvti10W0AzmzG9D1tpuKp) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [As It Was](https://open.spotify.com/album/10UH2kVhtrXJ60nqlSap2V) | 2:56 |
-| 64 | [花 \- Ballad](https://open.spotify.com/track/4wmioqSrmIUAqqEKnZgvCf) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [花](https://open.spotify.com/album/7DgOPJO8Lk4NUrfAjxtDCR) | 4:07 |
+| 63 | [花 \- Ballad](https://open.spotify.com/track/4wmioqSrmIUAqqEKnZgvCf) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [花](https://open.spotify.com/album/7DgOPJO8Lk4NUrfAjxtDCR) | 4:07 |
+| 64 | [As It Was](https://open.spotify.com/track/6Cvti10W0AzmzG9D1tpuKp) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [As It Was](https://open.spotify.com/album/10UH2kVhtrXJ60nqlSap2V) | 2:56 |
 | 65 | [One Life](https://open.spotify.com/track/5DXKvETa1xppOmd4CDxs9S) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [= \(Tour Edition\)](https://open.spotify.com/album/2CIOGAByaHyjQ1EO55JSzC) | 3:51 |
 | 66 | [晩餐歌 \(弾き語りver\) \- Bansanka \(Acoustic ver\)](https://open.spotify.com/track/1tS8mrZW46pZCvAH3YKVZk) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [晩餐歌 \(弾き語りver\) \- Bansanka \(Acoustic ver\)](https://open.spotify.com/album/584MY8PaexqwpscL7MTKD7) | 3:49 |
 | 67 | [Like Real People Do](https://open.spotify.com/track/7K6LFPfjdnN6QqvGzhvpRO) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq) | 3:18 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYO300IYLDB.md) - [plain]
 | 96 | [卒業写真](https://open.spotify.com/track/30oGazXdD7pezhc5pRFU22) | [Miki Imai](https://open.spotify.com/artist/64Y8hjY7esLUC8ucjtHYwZ) | [Dialogue －Miki Imai Sings Yuming Classics－](https://open.spotify.com/album/0I5Q4lnNVonZL4H4OL8LKq) | 3:14 |
 | 97 | [Basement beds](https://open.spotify.com/track/0wonMnl5a1ufy8UKTfAyid) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Basement beds](https://open.spotify.com/album/0FmNalyo8dk0LX7BU4XhX7) | 4:21 |
 | 98 | [The Seize](https://open.spotify.com/track/00opIKNQBtGqhfVOYIvaDj) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [The Seize](https://open.spotify.com/album/4pfXByIKcM1TyS1fFNqgw3) | 3:34 |
-| 99 | [\_you never really get that far\_ \(Coldplay cover\)](https://open.spotify.com/track/3LadbhRQVnK6UTtK2YzzlZ) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA) | [caroline 2 \(deluxe\)](https://open.spotify.com/album/1p8ZZz8jeRlQDUlpyxma4C) | 3:57 |
-| 100 | [Oranges](https://open.spotify.com/track/2aZIwDwhKIozdoBtvDkzKZ) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Oranges](https://open.spotify.com/album/2ErdKW5WK2JSgLMaIUsVlo) | 2:52 |
+| 99 | [Oranges](https://open.spotify.com/track/2aZIwDwhKIozdoBtvDkzKZ) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Oranges](https://open.spotify.com/album/2ErdKW5WK2JSgLMaIUsVlo) | 2:52 |
+| 100 | [\_you never really get that far\_ \(Coldplay cover\)](https://open.spotify.com/track/3LadbhRQVnK6UTtK2YzzlZ) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA) | [caroline 2 \(deluxe\)](https://open.spotify.com/album/1p8ZZz8jeRlQDUlpyxma4C) | 3:57 |
 
 Snapshot ID: `AAAAAAAlWOzY6u3nmtIc3YpUmTe6yA/0`

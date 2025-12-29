@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVP71DYelp29.md) - [plain]
 
 > The hits you know like you’ve never heard before\. Cover: Alessia Cara
 
-[Spotify](https://open.spotify.com/user/spotify) - 734,840 likes - 125 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 734,826 likes - 125 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,16 +67,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVP71DYelp29.md) - [plain]
 | 57 | [Stan \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6H98N10OCmld8m5XyyulO3) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Spotify Singles](https://open.spotify.com/album/3t6qlpHjZ5sqv49NbUB5Rn) | 3:22 |
 | 58 | [Don't Start Now](https://open.spotify.com/track/4RftloQV6tARnLrBuXKzMr) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Spotify Singles](https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS) | 3:11 |
 | 59 | [WITHOUT YOU \- Spotify Singles](https://open.spotify.com/track/4vztZvxyCfrct6XQanbo4S) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Spotify Singles](https://open.spotify.com/album/5NAZBw4kl4CLl8N14lGxQy) | 2:51 |
-| 60 | [thank u, next \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/1bmixG6Y4C1T8CXyE3nFDF) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Spotify Singles](https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ) | 3:37 |
-| 61 | [Feel It Still \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5Xh97PTcc1LxMF8sc8Xhis) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Spotify Singles](https://open.spotify.com/album/7iDdb2gzMIVZEV0ZSlXu83) | 2:49 |
+| 60 | [Feel It Still \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5Xh97PTcc1LxMF8sc8Xhis) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Spotify Singles](https://open.spotify.com/album/7iDdb2gzMIVZEV0ZSlXu83) | 2:49 |
+| 61 | [thank u, next \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/1bmixG6Y4C1T8CXyE3nFDF) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Spotify Singles](https://open.spotify.com/album/5W98NMXBBTBjrAQMY9lyAZ) | 3:37 |
 | 62 | [Life is Like a Dice Game \- Spotify Singles](https://open.spotify.com/track/5iBEUyRJL5fV0Hl5L5AqoR) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Life is Like a Dice Game \- Spotify Singles](https://open.spotify.com/album/07XItOn4L2uyxBeZBOAwVt) | 4:44 |
 | 63 | [Bad At Love \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/1kTugNMVMbaQep1srMua2q) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Spotify Singles](https://open.spotify.com/album/0AwgzJZxt4sf2teqdEjxwV) | 3:01 |
 | 64 | [Teenage Dirtbag \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0P9RpXoU2UnYmjzrEMlupy) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Spotify Singles](https://open.spotify.com/album/6vJ831b419D1qjX1clMjk6) | 4:06 |
 | 65 | [Lost In Japan \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/2Q1f6exzZ9iYrv4IICnzVx) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Spotify Singles](https://open.spotify.com/album/0FbO77jrZy4CcXbtR0hqIE) | 3:19 |
 | 66 | [Cry Me a River \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/3pRtmEYL0hN9Lgn0IkNOra) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Spotify Singles](https://open.spotify.com/album/0AsNH8uuIf5hLbreW4zQSc) | 5:01 |
 | 67 | [American Boy \- Spotify Singles](https://open.spotify.com/track/5ey77lEIBo0I8XztudXKGP) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Spotify Singles](https://open.spotify.com/album/5Pn6UVgFupbLC1wgrUHlWO) | 3:19 |
-| 68 | [Sign Of The Times \- Spotify Studios NYC](https://open.spotify.com/track/0830WmzxBqOp9C93j8m9sN) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Spotify Singles](https://open.spotify.com/album/10Z7dmb3iAiwk16I2FibDT) | 5:19 |
-| 69 | [Castle On The Hill \- Recorded at Sound Stage Nashville](https://open.spotify.com/track/71R7NckyIlOd8fJzoZIJfR) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Spotify Singles](https://open.spotify.com/album/5txz8rm3pM2peZ3K8oPNd3) | 4:15 |
+| 68 | [Castle On The Hill \- Recorded at Sound Stage Nashville](https://open.spotify.com/track/71R7NckyIlOd8fJzoZIJfR) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Spotify Singles](https://open.spotify.com/album/5txz8rm3pM2peZ3K8oPNd3) | 4:15 |
+| 69 | [Sign Of The Times \- Spotify Studios NYC](https://open.spotify.com/track/0830WmzxBqOp9C93j8m9sN) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Spotify Singles](https://open.spotify.com/album/10Z7dmb3iAiwk16I2FibDT) | 5:19 |
 | 70 | [Smalltown Boy \- Spotify Singles](https://open.spotify.com/track/2UyJBtpLTxB5D4M0Apvu7e) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Smalltown Boy \(Spotify Singles\)](https://open.spotify.com/album/6O29X2hJNBL6TE2SSKQnmL) | 5:17 |
 | 71 | [Day ‘n’ Nite \- Spotify Singles](https://open.spotify.com/track/6M0tj2hONdMEveSWg3JdQG) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Spotify Singles](https://open.spotify.com/album/5WSVBLmTp6Fgjm2Dwyu3vr) | 4:18 |
 | 72 | [bad guy \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/66wi6NRfwsula1n68bJEod) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Spotify Singles](https://open.spotify.com/album/3xKhnVSlIEGG4MFnackt9M) | 2:47 |
@@ -132,6 +132,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVP71DYelp29.md) - [plain]
 | 122 | [Thinking of You \(Spotify Singles\)](https://open.spotify.com/track/0Muqa8sNqVvjEQo4yfBKXw) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Thinking of You \(Spotify Singles\)](https://open.spotify.com/album/4TOyAu2CWO1kPitP0AxAZV) | 4:32 |
 | 123 | [All Night Long \(All Night\) \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/5LKNumPGm1bEyVroDE4rcZ) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Spotify Singles](https://open.spotify.com/album/0xpF1XxmYVSY6V9fiRiho2) | 3:08 |
 | 124 | [Location \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7jwZYPS8reDirsT4Mvqpui) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [Spotify Singles](https://open.spotify.com/album/3wTu31uEBJ7CFl0HstePX0) | 2:58 |
-| 125 | [Stay \- Spotify Singles](https://open.spotify.com/track/2mKGjVCoxL8Um9GkNhhyto) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Spotify Singles](https://open.spotify.com/album/6lsdqhAPgBr4zykC1SXhW5) | 2:55 |
+| 125 | [Man in the Mirror \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/4olvbCz8avPRUGi5l6hz7b) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Spotify Singles](https://open.spotify.com/album/0eEpAjX1A8PhmqDrDvWP4b) | 4:19 |
 
 Snapshot ID: `AAAAAOBi2hGEbGUZ/vFDepzwjESLojDm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXAHZTiX76o.md) - [plain]
 
 > Las mujeres que la rompieron este año con su música\. Cazzu en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 348,896 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,935 likes - 60 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXAHZTiX76o.md) - [plain]
 | 26 | [Dilemas da vida moderna](https://open.spotify.com/track/6TKBDgjEsyB2AGprNMpZyy) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [No Escuro, Quem É Você?](https://open.spotify.com/album/5RibeqZd7ps8S6bhOVHuDk) | 2:28 |
 | 27 | [iGO](https://open.spotify.com/track/6E9kUXTTx2JMv4BtTF29vz) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [CÓDiGOS DE MUÑEKA](https://open.spotify.com/album/6E8dYhNdpnk83fjNHzsrrE) | 2:13 |
 | 28 | [TOTO DE LOCA](https://open.spotify.com/track/3uSN0SuaW9gMtWGUK7FPup) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy) | [TOTO DE LOCA](https://open.spotify.com/album/2NskudT1sgEVLPqmJ39JPn) | 3:00 |
-| 29 | [MEJOR QUE VOS](https://open.spotify.com/track/36x1AGih4bK9cnPjbbChgG) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [NO VAYAS A ATENDER CUANDO EL DEMONIO LLAMA I](https://open.spotify.com/album/56BPpEYgadIVVXYLabO5Je) | 2:46 |
-| 30 | [Antología \- Spotify Anniversary Version](https://open.spotify.com/track/7hXvUF9b5saD4GK7d1H9LX) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Spotify Anniversary \| Oral Fixation \(20th\) and Pies Descalzos \(30th\) LIVE](https://open.spotify.com/album/3MPdhBdbgE1pNvIANARIfL) | 3:44 |
+| 29 | [Antología \- Spotify Anniversary Version](https://open.spotify.com/track/7hXvUF9b5saD4GK7d1H9LX) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Spotify Anniversary \| Oral Fixation \(20th\) and Pies Descalzos \(30th\) LIVE](https://open.spotify.com/album/3MPdhBdbgE1pNvIANARIfL) | 3:44 |
+| 30 | [MEJOR QUE VOS](https://open.spotify.com/track/36x1AGih4bK9cnPjbbChgG) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [NO VAYAS A ATENDER CUANDO EL DEMONIO LLAMA I](https://open.spotify.com/album/56BPpEYgadIVVXYLabO5Je) | 2:46 |
 | 31 | [Tengo Un Pensamiento](https://open.spotify.com/track/1PrL6L3z5m4QfQpZJhe5d1) | [Amaia](https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX) | [Si Abro Los Ojos No Es Real](https://open.spotify.com/album/5hdd9BcMltcCZpAgcjXtCT) | 2:45 |
 | 32 | [MOJA1TA](https://open.spotify.com/track/5HPNYgjgYWdpB7x6rNDWCM) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [MOJA1TA](https://open.spotify.com/album/62inXmrayK1vAwbclJtp0D) | 2:24 |
 | 33 | [Dejándolo Pasar](https://open.spotify.com/track/7xIo66YiwRlfh0LLweE8XT) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Dejándolo Pasar](https://open.spotify.com/album/3mDPKeyZroYjXuIzSUImbL) | 2:59 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXAHZTiX76o.md) - [plain]
 | 57 | [GRANADA](https://open.spotify.com/track/5STqdnPzPB9EgFtoACYPzP) | [Letón Pé](https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO) | [GRANADA](https://open.spotify.com/album/5LlrIYufVG0v5C8dEYmf81) | 2:19 |
 | 58 | [Yo Juraré](https://open.spotify.com/track/7KXYHnbv4tA0AhYhNbhbND) | [Vale Garzón](https://open.spotify.com/artist/24fjoKudgR9S4p2flzJuzJ), [Jules](https://open.spotify.com/artist/1FCMSevL19uHKsMEPcTwfU) | [Yo Juraré](https://open.spotify.com/album/6WK40xeKl43KrMPVDUcyFS) | 2:55 |
 | 59 | [la de arca](https://open.spotify.com/track/4qIMKCnsasl6wE7aT6YZDi) | [Rubí](https://open.spotify.com/artist/0DA4L4QIuO2hKNrMURuEHJ) | [la de arca](https://open.spotify.com/album/6SrlJq78kG6BQmUYdcq3Mu) | 2:29 |
-| 60 | [Indecisa](https://open.spotify.com/track/6J3LSNRHLDxHTZRXiRhRIf) | [Susana Cala](https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB) | [Indecisa](https://open.spotify.com/album/5dPuGA5JVHtbrGvenykZNl) | 2:22 |
+| 60 | [Locura Automática](https://open.spotify.com/track/6bBQaJ14zJooV1zvISFYEX) | [Janeth Valenzuela](https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G) | [Osa Mayor](https://open.spotify.com/album/1xQZbA4mChm7D0X81X6yCc) | 3:47 |
 
 Snapshot ID: `AAAAADxnjlYct93CQ8dnKtMFuVn5735M`

@@ -4,13 +4,14 @@
 
 > 試著拋開所有煩惱，配上一點特意的小確幸，這一刻只屬於你...
 
-381 songs - 21 hr 27 min
+383 songs - 21 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1000 Scars](https://open.spotify.com/track/0Sf4rStnY3H87N9kD1jFaD) | [Red Roses Realm](https://open.spotify.com/artist/204teSA5ZiRMpFo3krWkYv) | [1000 Scars](https://open.spotify.com/album/00WJvu7GZxqmf47amfohBC) | 3:27 | 2022-06-06 | 2022-07-27 |
 | [2021](https://open.spotify.com/track/5DlXq40tjFwd3SFp55AfKp) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [2021](https://open.spotify.com/album/0wsQ9WVVhr3P9xZBEgdaPG) | 3:15 | 2022-06-06 | 2022-10-13 |
-| [8](https://open.spotify.com/track/3OahKSfN3hNGn1KL72urlY) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [8](https://open.spotify.com/album/0IFjmftqt1Cvy96H2IzNVe) | 4:50 | 2025-11-10 |  |
+| [8](https://open.spotify.com/track/140l3V3IpQ0PLTvlGzeQIG) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Metalepsis \(10th Anniversary Edition\)](https://open.spotify.com/album/5N85k43iV7UKANFLklXkYL) | 4:50 | 2025-12-29 |  |
+| [8](https://open.spotify.com/track/3OahKSfN3hNGn1KL72urlY) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [8](https://open.spotify.com/album/0IFjmftqt1Cvy96H2IzNVe) | 4:50 | 2025-11-10 | 2025-12-29 |
 | [A day in the water](https://open.spotify.com/track/4LChcN9DKBz08NgEkxjF8o) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [A day in the water](https://open.spotify.com/album/0XixzPHKM6AIqekkbGNzFH) | 4:01 | 2023-06-12 | 2023-06-15 |
 | [A day in the water](https://open.spotify.com/track/5GGLwBHZvoiub0mYt5OUSt) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [PARANOÏA, ANGELS, TRUE LOVE](https://open.spotify.com/album/2Yg3Rha1y4PDlIWh5vy6rJ) | 4:01 | 2023-06-12 | 2024-04-19 |
 | [A Moment Of Mystery \(feat\. Toro y Moi\)](https://open.spotify.com/track/5OmzLQz8dsXSvEcZ2gSsQ4) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [V I N C E N T](https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw) | 3:25 | 2022-07-25 | 2022-11-13 |
@@ -151,6 +152,7 @@
 | [Good & Plenty](https://open.spotify.com/track/1VAKnb1btGrQXcVZVSRkPe) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Good & Plenty](https://open.spotify.com/album/53FhNZMrcBim6Ec9mp8ifl) | 3:24 | 2022-07-25 |  |
 | [goodnight, don’t wait](https://open.spotify.com/track/4TfFa0wkZiHR8TGbYpELna) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [willow tree](https://open.spotify.com/album/12vbr4MN4nwzxxLgh3VfiH) | 3:23 | 2024-06-09 | 2024-08-01 |
 | [Grateful](https://open.spotify.com/track/7mvma3mO5hSyhVbJDXxtFz) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Grateful](https://open.spotify.com/album/2PLznXIZ3amppNBiPoMFvs) | 3:05 | 2022-07-25 |  |
+| [HARDLY EVER SMILE\(without you\)](https://open.spotify.com/track/6dwCn6DV1Fbw46BC7VDZqp) | [POiSON GiRL FRiEND](https://open.spotify.com/artist/5Yur3Z4Wrte4GfVCAbxObl) | [MELTING MOMENT](https://open.spotify.com/album/6asP1OdgPUjc7fSTvZxnaM) | 6:54 | 2025-12-29 |  |
 | [He Don't Love Me](https://open.spotify.com/track/1WOhefCemfefOtVkTLh6bl) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Island of the Sun](https://open.spotify.com/album/09ueWCq40PyJSmgxxMqIVD) | 3:30 | 2022-07-25 | 2024-01-17 |
 | [Headphones On](https://open.spotify.com/track/3H6xZgwRZx8McVUJzmMxWe) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 4:00 | 2025-09-29 |  |
 | [Headspace](https://open.spotify.com/track/734yyCxl7ZrRPTnRqbjB4q) | [liesl\-mae](https://open.spotify.com/artist/2PSBYmtNWEm9f8VOSCFFX0) | [Headspace](https://open.spotify.com/album/1jydzncxz7Doio6O1OccUv) | 3:07 | 2022-06-06 | 2025-08-01 |
@@ -258,7 +260,7 @@
 | [One Conversation](https://open.spotify.com/track/0SGZVoQsEuOeEeKaeQpoZt) | [Yung Bright](https://open.spotify.com/artist/0YnURC4kKD8ivGRxGKN5Hz) | [One Conversation](https://open.spotify.com/album/4zxn58VwU6cymtbP3zdGw7) | 2:56 | 2022-06-13 | 2022-07-26 |
 | [only in the night \(feat\. Sarcastic Sounds\)](https://open.spotify.com/track/3BFHMSEppgXLsFYpI61A4Z) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [only in the night \(feat\. Sarcastic Sounds\)](https://open.spotify.com/album/67bP9ZjrlpDrNFGMpf8rVn) | 2:10 | 2022-08-15 | 2022-10-30 |
 | [Only You](https://open.spotify.com/track/7Fo4FSLIXIQ71RSzzrQEPq) | [Fern.](https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF) | [Only You](https://open.spotify.com/album/27bRSjzXQUyYBFNstOtWHv) | 3:41 | 2022-06-06 | 2022-07-26 |
-| [Our Time](https://open.spotify.com/track/4ZcnCqkX0wn3uDY0sGUteG) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [Our Time is Blue](https://open.spotify.com/album/6y85v8s3kgIelDBcYroJgE) | 3:38 | 2022-06-06 |  |
+| [Our Time](https://open.spotify.com/track/4ZcnCqkX0wn3uDY0sGUteG) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [Our Time is Blue](https://open.spotify.com/album/6y85v8s3kgIelDBcYroJgE) | 3:38 | 2022-06-06 | 2025-12-29 |
 | [Out Loud \(feat\. Kehlani\)](https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Broken Hearts Club](https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y) | 3:23 | 2022-07-11 |  |
 | [Out of My Mind](https://open.spotify.com/track/5NfVKqJQhRIluNHXvgtWNK) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Wasting Away](https://open.spotify.com/album/5HcEKDA1oqtglt9Llh69KD) | 2:48 | 2024-11-29 | 2025-07-25 |
 | [Outgrown](https://open.spotify.com/track/4FhHveCp4LekuCDGPJxAhp) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Amniotic \(Deluxe Version\)](https://open.spotify.com/album/0t4Ik0UYACGKrHBQ74S3U7) | 4:34 | 2022-07-25 |  |

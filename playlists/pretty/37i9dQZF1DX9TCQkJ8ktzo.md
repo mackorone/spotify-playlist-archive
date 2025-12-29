@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TCQkJ8ktzo.md) - [plain]
 
 > The Latin soundtrack of the 60s! Cover: Armando Manzanero
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,204 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,219 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Te He Prometido](https://open.spotify.com/track/7Et3UkjbCjRhRaACPBXRQg) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Canta Trovador](https://open.spotify.com/album/5N2NkUNtknVxG1BtWy45U8) | 3:07 |
-| 2 | [Sabor a Mí](https://open.spotify.com/track/0Hja9zlVQHC768PsPjWscW) | [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z), [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Canta En Español Con Los Panchos](https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w) | 2:48 |
-| 3 | [La Bamba \- Single Version](https://open.spotify.com/track/2aEeghgUcnu75tzcolFMfs) | [Ritchie Valens](https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P) | [Ritchie Valens](https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W) | 2:06 |
+| 2 | [La Bamba \- Single Version](https://open.spotify.com/track/2aEeghgUcnu75tzcolFMfs) | [Ritchie Valens](https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P) | [Ritchie Valens](https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W) | 2:06 |
+| 3 | [Sabor a Mí](https://open.spotify.com/track/0Hja9zlVQHC768PsPjWscW) | [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z), [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Canta En Español Con Los Panchos](https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w) | 2:48 |
 | 4 | [Mi gran noche](https://open.spotify.com/track/6Tnnk7MAnZiDx67DJN2hnx) | [Raphael](https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8) | [Digan Lo Que Digan: Banda Sonora Original De La Pe](https://open.spotify.com/album/1JrwqW8FRXsKH8GqS19uhJ) | 3:00 |
 | 5 | [El Loco](https://open.spotify.com/track/4srM8XuNfNMFXKgU4ybkrP) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Javier Solis Con Acoo De Mariachi](https://open.spotify.com/album/0mo4FKlS0n0NtMAQw8SdNn) | 2:54 |
 | 6 | [Amada Amante](https://open.spotify.com/track/1EjTQ72d5YuDI3yD3n5e4a) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Un Gato En La Oscuridad](https://open.spotify.com/album/6QehPjFB3Q8uH2btA35cQm) | 4:20 |
@@ -41,12 +41,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TCQkJ8ktzo.md) - [plain]
 | 31 | [La Guarachera](https://open.spotify.com/track/7kWdf24d03AheJu4KF4mo3) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Cuba y Puerto Rico](https://open.spotify.com/album/1P7Ucst33FwWbnoCj0TlNw) | 2:44 |
 | 32 | [Entrega Total](https://open.spotify.com/track/6aeFjCaoAx6hKbdie8avjV) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Serie De Coleccion 15 Autenticos](https://open.spotify.com/album/48lUrzO92SmHoSfpqNkbbl) | 2:30 |
 | 33 | [Muchacha Bonita](https://open.spotify.com/track/1NHgA6aEhQmy9lnrEuGHy2) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Las 100 Clasicas Vol\. 2](https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG) | 2:21 |
-| 34 | [Somos Novios](https://open.spotify.com/track/5S768Vsh3sh6bMtDwVF9by) | [Armando Manzanero Y Su Piano](https://open.spotify.com/artist/3RLrmzOMJMwWVGm2MLiNwq) | [Armando Manzanero, Su Piano y Su Música](https://open.spotify.com/album/1d4stNciFHtWTc7Qc3uHXy) | 2:37 |
+| 34 | [Esta Tarde Vi Llover](https://open.spotify.com/track/7wOlTX3Bg1Am9gEHt8Gnwh) | [Armando Manzanero Y Su Piano](https://open.spotify.com/artist/3RLrmzOMJMwWVGm2MLiNwq) | [Armando Manzanero, Su Piano y Su Música](https://open.spotify.com/album/1d4stNciFHtWTc7Qc3uHXy) | 2:40 |
 | 35 | [Felicidad](https://open.spotify.com/track/2JXbqC4UlzqC8TGJtUMNPp) | [Armando Manzanero](https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT) | [A Mi Amor Con Mi Amor](https://open.spotify.com/album/2UER4o2CMFxJ0qEG662gcu) | 2:08 |
 | 36 | [El Gran Tomás \(Norman\)](https://open.spotify.com/track/6VCBvR4ciiZrvHgn7KbapE) | [Mayte Gaos](https://open.spotify.com/artist/2nWZrWrYWk8Y9gBtprx8Hb) | [RCA 100 Años de Música](https://open.spotify.com/album/5BbFGTn3ycNbdhVxL4etdm) | 2:16 |
 | 37 | [El Malquerido](https://open.spotify.com/track/6sP6YiDnY71afIuQfv7XOD) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Romance](https://open.spotify.com/album/40pP8IKxab6pbid1u0fdbP) | 2:43 |
 | 38 | [Tengo Diecisiete Años \- Remastered](https://open.spotify.com/track/2b0dpNwJbqjf5BF8D5FHh3) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Lo Mejor De \(Remastered\)](https://open.spotify.com/album/3SKhjtGcCYGzPKIDFH8Uom) | 3:01 |
-| 39 | [Esta Tarde Vi Llover](https://open.spotify.com/track/7wOlTX3Bg1Am9gEHt8Gnwh) | [Armando Manzanero Y Su Piano](https://open.spotify.com/artist/3RLrmzOMJMwWVGm2MLiNwq) | [Armando Manzanero, Su Piano y Su Música](https://open.spotify.com/album/1d4stNciFHtWTc7Qc3uHXy) | 2:40 |
+| 39 | [Somos Novios](https://open.spotify.com/track/5S768Vsh3sh6bMtDwVF9by) | [Armando Manzanero Y Su Piano](https://open.spotify.com/artist/3RLrmzOMJMwWVGm2MLiNwq) | [Armando Manzanero, Su Piano y Su Música](https://open.spotify.com/album/1d4stNciFHtWTc7Qc3uHXy) | 2:37 |
 | 40 | [Más Allá](https://open.spotify.com/track/58cW9R0YKli1aXJZ9QwluZ) | [Los Tres Diamantes](https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1) | [Trios de Oro, Vol\. 1](https://open.spotify.com/album/0mSdcs38g8JWVrMmfLdHBR) | 2:37 |
 | 41 | [Para Cuando Regreses](https://open.spotify.com/track/05cbnq62uq1PjQiEeikJmf) | [Armando Manzanero](https://open.spotify.com/artist/5lODCkFdEtpPn3YxfmyLfT) | [Para Mi Siempre Amor...](https://open.spotify.com/album/2EOS3hY24pspJcNHu6CHpj) | 1:55 |
 | 42 | [El Rock de la Cárcel \- Jailhouse Rock](https://open.spotify.com/track/378st4sJlIIFz9IqA2uJJz) | [Los Teen Tops](https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy) | [Personalidad](https://open.spotify.com/album/4fVeZv12kCMzF72ve0HwWZ) | 2:10 |

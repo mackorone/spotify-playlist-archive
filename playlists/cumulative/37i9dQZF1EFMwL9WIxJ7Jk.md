@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3wlYs23A2Ma5v7mAwIBJsR">Meghan Trainor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-230 songs - 12 hr 0 min
+231 songs - 12 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Genetics](https://open.spotify.com/track/2FOwRoyI2TTujfAGmHgEJP) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Genetics](https://open.spotify.com/album/3tdsdSwWtAGr1eouGR8mS6) | 2:57 | 2023-12-30 | 2025-07-12 |
 | [Genetics \(feat\. Pussycat Dolls\)](https://open.spotify.com/track/59F7idTDMJppMZgR6YFy4P) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) | [TREAT MYSELF](https://open.spotify.com/album/766Hr0WDvATeOSIo41JvNs) | 2:57 | 2025-01-09 | 2025-04-12 |
 | [Get Some](https://open.spotify.com/track/3jvLOq1pFRGjD2cn9WOYDr) | [Tenelle](https://open.spotify.com/artist/2oJQFkb7sJm7uNNH7HITYs) | [Get Some](https://open.spotify.com/album/3Lj2MiaSUpmy5ahGGS6VAT) | 2:49 | 2023-12-30 | 2025-07-12 |
+| [Gifts For Me](https://open.spotify.com/track/0nhpTFbJ3uX4qqL9qaQj5B) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Gifts For Me](https://open.spotify.com/album/1koxpBaSddYY1xd5YmEeN2) | 2:30 | 2025-12-28 |  |
 | [Good Mornin' \(feat\. Gary Trainor\)](https://open.spotify.com/track/4hJ66Ebt5fh6xSWoqGrZCC) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Gary Trainor](https://open.spotify.com/artist/5keCYPArJwg1eu4rdMKFL8) | [The Love Train](https://open.spotify.com/album/0kPe8FDWUOInMERIeolerd) | 3:26 | 2023-12-30 | 2025-07-12 |
 | [Good To Be Alive](https://open.spotify.com/track/7ntZyhD4hguDJicIokQ9xW) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Thank You \(Japan Version\)](https://open.spotify.com/album/2LVxnBboz7pOnj9ZkibGUN) | 3:48 | 2023-12-30 | 2025-07-12 |
 | [Goosebumps](https://open.spotify.com/track/0ARJ4NYM8yxmT09U8mTSfp) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Thank You \(Japan Version\)](https://open.spotify.com/album/2LVxnBboz7pOnj9ZkibGUN) | 3:41 | 2023-12-30 | 2025-07-12 |
@@ -127,7 +128,7 @@
 | [Like I'm Gonna Lose You](https://open.spotify.com/track/2pV8RpdLemcyMWko8dASVt) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Like I'm Gonna Lose You](https://open.spotify.com/album/2RspE8aftXJ96d8HLWOc58) | 3:52 | 2025-07-09 |  |
 | [Like I'm Gonna Lose You](https://open.spotify.com/track/2EJwxob7gpbWLzr5FhEAk4) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Like I'm Gonna Lose You \(Official Music Video\)](https://open.spotify.com/album/3eGYlBiey7oowDv1Or4RY4) | 3:47 | 2023-12-31 | 2024-02-02 |
 | [Like I'm Gonna Lose You \(feat\. John Legend\)](https://open.spotify.com/track/2YlZnw2ikdb837oKMKjBkW) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Title \(Deluxe\)](https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE) | 3:45 | 2023-12-30 | 2025-03-30 |
-| [Like I'm Gonna Lose You \(feat\. John Legend\)](https://open.spotify.com/track/7MjKAV0mFiEID9WhDSSzaW) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Title \(Expanded Edition\)](https://open.spotify.com/album/7m2Gzfu5nMgHTiMbNDwPr7) | 3:45 | 2025-03-29 |  |
+| [Like I'm Gonna Lose You \(feat\. John Legend\)](https://open.spotify.com/track/7MjKAV0mFiEID9WhDSSzaW) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Title \(Expanded Edition\)](https://open.spotify.com/album/7m2Gzfu5nMgHTiMbNDwPr7) | 3:45 | 2025-03-29 | 2025-12-29 |
 | [Lips Are Movin](https://open.spotify.com/track/3fNaQSMgFrYTkTshRX7J1u) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Title \(Expanded Edition\)](https://open.spotify.com/album/7m2Gzfu5nMgHTiMbNDwPr7) | 3:01 | 2025-03-29 | 2025-07-12 |
 | [Lips Are Movin](https://open.spotify.com/track/6gj08XDlv9Duc2fPOxUmVD) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Title \(Deluxe\)](https://open.spotify.com/album/5W98Ab4VvQEuFEE4TIe5fE) | 3:02 | 2024-01-01 | 2025-03-30 |
 | [Lips Are Movin](https://open.spotify.com/track/5dbmMcsRYQ7RiKeNzq7oyT) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Lips Are Movin \(Official Music Video\)](https://open.spotify.com/album/6V4bZzTmEU9sw8JQ26H2MC) | 3:05 | 2023-12-30 | 2024-01-31 |

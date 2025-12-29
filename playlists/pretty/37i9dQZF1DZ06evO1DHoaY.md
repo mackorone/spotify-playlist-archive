@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DHoaY.md) - [plain]
 
 > This is Bob Marley & The Wailers\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,069,192 likes - 49 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,069,304 likes - 49 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,10 +26,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DHoaY.md) - [plain]
 | 16 | [Africa Unite](https://open.spotify.com/track/2qmHhaOmlcKDeGfipGhF1j) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Survival](https://open.spotify.com/album/09Df7mUZBQwbDYgvE0t30r) | 2:55 |
 | 17 | [Forever Loving Jah](https://open.spotify.com/track/1CAEHafiiJKjp6t9hfYX7f) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Uprising](https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX) | 4:02 |
 | 18 | [One Love / People Get Ready](https://open.spotify.com/track/7oNgPClUYdscWWHa5PF1gT) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/655KljKIXl42fiNDMKivbY) | 2:52 |
-| 19 | [Iron Lion Zion \- 7" Mix](https://open.spotify.com/track/5iRPNyWioH9Km8gi58As4V) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Iron Lion Zion](https://open.spotify.com/album/06O9GpgtDESYZkUfhKpFcK) | 3:22 |
+| 19 | [Easy Skanking](https://open.spotify.com/track/1efuoLEUL1K0D96d63svRO) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \- The Best Of Bob Marley And The Wailers](https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn) | 2:57 |
 | 20 | [Ride Natty Ride](https://open.spotify.com/track/5cTsXX5qwa6zmG80OCz4hR) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Survival](https://open.spotify.com/album/09Df7mUZBQwbDYgvE0t30r) | 3:51 |
 | 21 | [Coming In From The Cold](https://open.spotify.com/track/6lmLUNd7mcyYqKcg6EIAOu) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Uprising](https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX) | 4:31 |
-| 22 | [Easy Skanking](https://open.spotify.com/track/1efuoLEUL1K0D96d63svRO) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \- The Best Of Bob Marley And The Wailers](https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn) | 2:57 |
+| 22 | [Iron Lion Zion \- 7" Mix](https://open.spotify.com/track/5iRPNyWioH9Km8gi58As4V) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Iron Lion Zion](https://open.spotify.com/album/06O9GpgtDESYZkUfhKpFcK) | 3:22 |
 | 23 | [No Woman, No Cry \- Live At The Lyceum, London/1975](https://open.spotify.com/track/423hwXFgoN8RYmqLoLuVvY) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Live!](https://open.spotify.com/album/5mvQHYARofQRsOE2cqBzik) | 7:07 |
 | 24 | [Zimbabwe](https://open.spotify.com/track/5ApfJDLibIoWL0mRZ5uOKu) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Survival](https://open.spotify.com/album/09Df7mUZBQwbDYgvE0t30r) | 3:51 |
 | 25 | [Rat Race](https://open.spotify.com/track/6EmP97fPXI3aiHnrsHuj08) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Rastaman Vibration](https://open.spotify.com/album/6Gdf5vvFmoEwcsEV61tXiT) | 2:50 |
@@ -38,12 +38,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DHoaY.md) - [plain]
 | 28 | [Get Up, Stand Up](https://open.spotify.com/track/0q5giEtY4wsFTwjWqswLwx) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \- The Best Of Bob Marley And The Wailers](https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn) | 3:17 |
 | 29 | [Who The Cap Fit](https://open.spotify.com/track/2cYAd7BJIOj4Y0pU5Pyesc) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Rastaman Vibration](https://open.spotify.com/album/6Gdf5vvFmoEwcsEV61tXiT) | 4:43 |
 | 30 | [So Much Things To Say](https://open.spotify.com/track/2ULRNZ4FbMQj4FVpFkUmNM) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/655KljKIXl42fiNDMKivbY) | 3:08 |
-| 31 | [Ambush In The Night](https://open.spotify.com/track/6kAye2WmX9RVnheY3QmF54) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Survival](https://open.spotify.com/album/09Df7mUZBQwbDYgvE0t30r) | 3:12 |
-| 32 | [Stiff Necked Fools](https://open.spotify.com/track/1eN3VT6F8JNkjF9b4AMhzd) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Confrontation](https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun) | 3:25 |
+| 31 | [Stiff Necked Fools](https://open.spotify.com/track/1eN3VT6F8JNkjF9b4AMhzd) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Confrontation](https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun) | 3:25 |
+| 32 | [Ambush In The Night](https://open.spotify.com/track/6kAye2WmX9RVnheY3QmF54) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Survival](https://open.spotify.com/album/09Df7mUZBQwbDYgvE0t30r) | 3:12 |
 | 33 | [War](https://open.spotify.com/track/1TLTUhEUYOyORxufZlCOWj) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Rastaman Vibration](https://open.spotify.com/album/6Gdf5vvFmoEwcsEV61tXiT) | 3:36 |
 | 34 | [Sun Is Shining](https://open.spotify.com/track/2pZJhvpin385eqAFRp3ASJ) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Kaya](https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a) | 4:58 |
-| 35 | [I Shot The Sheriff](https://open.spotify.com/track/5uBKhKWTJ4E47rcLQqu3YH) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Burnin' \(Deluxe Edition\)](https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe) | 4:39 |
-| 36 | [Blackman Redemption](https://open.spotify.com/track/6jI6sujyu6aHmnAOZTvqz3) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Confrontation](https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun) | 3:33 |
+| 35 | [Blackman Redemption](https://open.spotify.com/track/6jI6sujyu6aHmnAOZTvqz3) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Confrontation](https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun) | 3:33 |
+| 36 | [I Shot The Sheriff](https://open.spotify.com/track/5uBKhKWTJ4E47rcLQqu3YH) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Burnin' \(Deluxe Edition\)](https://open.spotify.com/album/5EZMcYc3xK0rlru83kHpUe) | 4:39 |
 | 37 | [Crazy Baldhead](https://open.spotify.com/track/1zWr2alhnYrRBy1M28d3z7) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Rastaman Vibration](https://open.spotify.com/album/1FictwFMH9Uv1LE8zw4pZu) | 3:11 |
 | 38 | [She's Gone](https://open.spotify.com/track/6MFWhzNSsLdW3WtsuBZsOg) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Kaya](https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a) | 2:25 |
 | 39 | [Them Belly Full \(But We Hungry\)](https://open.spotify.com/track/2Ezmm08Oy4772SkEoC18Kt) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Natty Dread](https://open.spotify.com/album/1d8lF3nZpEIFeEbWmAt9Ey) | 3:13 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DHoaY.md) - [plain]
 | 48 | [Higher Place](https://open.spotify.com/track/6jQB97LaIftgb81KhkisXl) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Higher Place](https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr) | 3:23 |
 | 49 | [Lively Up Yourself](https://open.spotify.com/track/2Xr3NXOz1qg5Jddkm8k4fr) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Natty Dread](https://open.spotify.com/album/1d8lF3nZpEIFeEbWmAt9Ey) | 5:10 |
 
-Snapshot ID: `aU3QAAAAAABGKRYfVqfd3363aG0Wrlo/`
+Snapshot ID: `aU8hgAAAAACpd0aybETU3NvW58JhqIRR`

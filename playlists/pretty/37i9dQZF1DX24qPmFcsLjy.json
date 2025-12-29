@@ -1,6 +1,6 @@
 {
   "description": "Allerbeste songs van de 80's! Cover: U2",
-  "num_followers": 139375,
+  "num_followers": 139398,
   "original_name": "80's Allerbeste",
   "owner": {
     "name": "Spotify",
@@ -115,6 +115,22 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 245296,
+      "name": "Dancing In the Dark",
+      "url": "https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
         "name": "An Innocent Man",
         "url": "https://open.spotify.com/album/3R3x4zIabsvpD3yxqLaUpc"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 216053,
       "name": "Summer Of '69",
       "url": "https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
-        "name": "Born In The U.S.A.",
-        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 245296,
-      "name": "Dancing In the Dark",
-      "url": "https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "The Seventh One",
-        "url": "https://open.spotify.com/album/7LVxCg18peWcBBdu7Xr6r3"
-      },
-      "artists": [
-        {
-          "name": "TOTO",
-          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
-        }
-      ],
-      "duration_ms": 269114,
-      "name": "Stop Loving You",
-      "url": "https://open.spotify.com/track/73bzcsDjx9FqzqKWcPLMiH"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
         "name": "Simply the Best",
         "url": "https://open.spotify.com/album/1ZFC0iOKUp4M16eHXVaeG4"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 255936,
       "name": "The Best - Edit",
       "url": "https://open.spotify.com/track/2W2ieVidLIx9TDvxu0ZT6F"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
+        "name": "The Seventh One",
+        "url": "https://open.spotify.com/album/7LVxCg18peWcBBdu7Xr6r3"
+      },
+      "artists": [
+        {
+          "name": "TOTO",
+          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+        }
+      ],
+      "duration_ms": 269114,
+      "name": "Stop Loving You",
+      "url": "https://open.spotify.com/track/73bzcsDjx9FqzqKWcPLMiH"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "De Jonge Jaren van Doe Maar - 50 jaar Nederpop",
-        "url": "https://open.spotify.com/album/2B9dyhwM3qcaQZJc1xKnXu"
-      },
-      "artists": [
-        {
-          "name": "Doe Maar",
-          "url": "https://open.spotify.com/artist/58hFVpwYRp8sQdtANcMpiE"
-        }
-      ],
-      "duration_ms": 200891,
-      "name": "Sinds 1 Dag Of 2 (32 Jaar)",
-      "url": "https://open.spotify.com/track/3IbkWFHKCQp1Y7oLjeQgGv"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
         "name": "Niemand In De Stad",
         "url": "https://open.spotify.com/album/5KPMgi5lSNycOM0Mhdve8H"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 238733,
       "name": "Ik Kan Het Niet Alleen",
       "url": "https://open.spotify.com/track/20kvV0pVt7BMlW9mZQBzsT"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
+        "name": "De Jonge Jaren van Doe Maar - 50 jaar Nederpop",
+        "url": "https://open.spotify.com/album/2B9dyhwM3qcaQZJc1xKnXu"
+      },
+      "artists": [
+        {
+          "name": "Doe Maar",
+          "url": "https://open.spotify.com/artist/58hFVpwYRp8sQdtANcMpiE"
+        }
+      ],
+      "duration_ms": 200891,
+      "name": "Sinds 1 Dag Of 2 (32 Jaar)",
+      "url": "https://open.spotify.com/track/3IbkWFHKCQp1Y7oLjeQgGv"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "Greatest Hits: 40 Trips Around The Sun",
-        "url": "https://open.spotify.com/album/5ChYBNgy8o2ps5716s1GH2"
-      },
-      "artists": [
-        {
-          "name": "TOTO",
-          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
-        }
-      ],
-      "duration_ms": 332645,
-      "name": "Rosanna",
-      "url": "https://open.spotify.com/track/65vEK65KeqeH11s3Ym8BWO"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
         "name": "Monsterhits",
         "url": "https://open.spotify.com/album/5qmW8BY18VtDOBhYDSFwY5"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 285333,
       "name": "Suzanne",
       "url": "https://open.spotify.com/track/3MrtadqfvO2VrIfiCCBVo6"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
+        "name": "Greatest Hits: 40 Trips Around The Sun",
+        "url": "https://open.spotify.com/album/5ChYBNgy8o2ps5716s1GH2"
+      },
+      "artists": [
+        {
+          "name": "TOTO",
+          "url": "https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF"
+        }
+      ],
+      "duration_ms": 332645,
+      "name": "Rosanna",
+      "url": "https://open.spotify.com/track/65vEK65KeqeH11s3Ym8BWO"
     },
     {
       "added_at": "2024-07-09 16:44:07",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-07-09 16:44:07",
       "album": {
-        "name": "Het Allerbeste Van Toontje Lager (Top 20)",
-        "url": "https://open.spotify.com/album/2QCZ4pO343CgpVyvUNgYNf"
-      },
-      "artists": [
-        {
-          "name": "Toontje Lager",
-          "url": "https://open.spotify.com/artist/7isSKzkNHe3Tsmht2ar6Ai"
-        }
-      ],
-      "duration_ms": 217600,
-      "name": "Stiekem Gedanst",
-      "url": "https://open.spotify.com/track/3EWjSWS4t4VKsOn6ASlmZx"
-    },
-    {
-      "added_at": "2024-07-09 16:44:07",
-      "album": {
         "name": "Hit Story",
         "url": "https://open.spotify.com/album/2J1TbXAta6c4XDQTmzRArs"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 229146,
       "name": "She's a Liar",
       "url": "https://open.spotify.com/track/2WoozePgluOVStfhp6jKsD"
+    },
+    {
+      "added_at": "2024-07-09 16:44:07",
+      "album": {
+        "name": "Het Allerbeste Van Toontje Lager (Top 20)",
+        "url": "https://open.spotify.com/album/2QCZ4pO343CgpVyvUNgYNf"
+      },
+      "artists": [
+        {
+          "name": "Toontje Lager",
+          "url": "https://open.spotify.com/artist/7isSKzkNHe3Tsmht2ar6Ai"
+        }
+      ],
+      "duration_ms": 217600,
+      "name": "Stiekem Gedanst",
+      "url": "https://open.spotify.com/track/3EWjSWS4t4VKsOn6ASlmZx"
     },
     {
       "added_at": "2024-07-09 16:44:07",

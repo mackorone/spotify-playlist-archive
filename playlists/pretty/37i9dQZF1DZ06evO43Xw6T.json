@@ -1,12 +1,12 @@
 {
   "description": "This is Gabito Ballesteros. The essential tracks, all in one playlist.",
-  "num_followers": 178757,
+  "num_followers": 178776,
   "original_name": "This Is Gabito Ballesteros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU3QAAAAAABsc2V4zTMfthlCH03q9vP5",
+  "snapshot_id": "aU8hgAAAAACoqUC3S0gFJVnioYLHP5SU",
   "tracks": [
     {
       "added_at": null,
@@ -431,26 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Viernes",
-        "url": "https://open.spotify.com/album/0MKiLFZDfMtcE3Rm0q97np"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 158146,
-      "name": "Viernes",
-      "url": "https://open.spotify.com/track/65XrIEcTcp5AshJT4Q3LOm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mood Malandro",
         "url": "https://open.spotify.com/album/6x60IHS4WQeKN2xSxPSJbr"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 191558,
       "name": "Mood Malandro",
       "url": "https://open.spotify.com/track/0zhymr6RqNuvp0RMIvdpdA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Viernes",
+        "url": "https://open.spotify.com/album/0MKiLFZDfMtcE3Rm0q97np"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 158146,
+      "name": "Viernes",
+      "url": "https://open.spotify.com/track/65XrIEcTcp5AshJT4Q3LOm"
     },
     {
       "added_at": null,
@@ -831,30 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya No Se Llevan Serenatas (Deluxe)",
-        "url": "https://open.spotify.com/album/6lcbUFZ3ws3Qjf9swuakMO"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Pabblo",
-          "url": "https://open.spotify.com/artist/352qR89UvJCYHGnCSUwMqw"
-        },
-        {
-          "name": "Jorsshh",
-          "url": "https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG"
-        }
-      ],
-      "duration_ms": 186853,
-      "name": "WAXHA",
-      "url": "https://open.spotify.com/track/3D00WFXnh4PNMC3PvSTEKK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "XV Recargado",
         "url": "https://open.spotify.com/album/47pZ8cK6ufjFgX1RNObRLd"
       },
@@ -875,6 +851,30 @@
       "duration_ms": 162617,
       "name": "El Gabacho",
       "url": "https://open.spotify.com/track/0dIwmk8DVs9cTTAIw5aqmM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ya No Se Llevan Serenatas (Deluxe)",
+        "url": "https://open.spotify.com/album/6lcbUFZ3ws3Qjf9swuakMO"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Pabblo",
+          "url": "https://open.spotify.com/artist/352qR89UvJCYHGnCSUwMqw"
+        },
+        {
+          "name": "Jorsshh",
+          "url": "https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG"
+        }
+      ],
+      "duration_ms": 186853,
+      "name": "WAXHA",
+      "url": "https://open.spotify.com/track/3D00WFXnh4PNMC3PvSTEKK"
     },
     {
       "added_at": null,
@@ -915,6 +915,26 @@
       "duration_ms": 155560,
       "name": "La Pelinegra",
       "url": "https://open.spotify.com/track/4kVrTtUI2bVYk25HcoHFHt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THE GB",
+        "url": "https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 190500,
+      "name": "Sin Yolanda",
+      "url": "https://open.spotify.com/track/21NvSNOb9eqlRwFeqreHmM"
     },
     {
       "added_at": null,
@@ -967,26 +987,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE GB",
-        "url": "https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 190500,
-      "name": "Sin Yolanda",
-      "url": "https://open.spotify.com/track/21NvSNOb9eqlRwFeqreHmM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MONTHS",
         "url": "https://open.spotify.com/album/2xBj81KVZYlkDE89zqvtD4"
       },
@@ -1027,22 +1027,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "E$ENCIA",
-        "url": "https://open.spotify.com/album/5LNnHcNU0pQPjCPxRCbKMm"
+        "name": "Ya No Se Llevan Serenatas",
+        "url": "https://open.spotify.com/album/6MRvPbmvRXntgB8DiDsIT6"
       },
       "artists": [
-        {
-          "name": "Victor Cibrian",
-          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
-        },
         {
           "name": "Gabito Ballesteros",
           "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         }
       ],
-      "duration_ms": 222000,
-      "name": "Cuando Me Veas Con Alguien",
-      "url": "https://open.spotify.com/track/0s7JOp1ffdjxquSyMuNW0v"
+      "duration_ms": 216525,
+      "name": "PICASSO",
+      "url": "https://open.spotify.com/track/0uGbZpw3WJBtLAnVqBVBpi"
     }
   ],
   "unique_name": "This Is Gabito Ballesteros",

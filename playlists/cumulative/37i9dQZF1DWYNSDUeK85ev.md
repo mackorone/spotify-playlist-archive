@@ -4,7 +4,7 @@
 
 > La playlist que prende la fiesta.
 
-491 songs - 1 day 4 hr 39 min
+492 songs - 1 day 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Ahi Ahi](https://open.spotify.com/track/5O9IqFNUVtjRlDpdKex3YH) | [El negro tecla](https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75) | [Ahi Ahi](https://open.spotify.com/album/10b8qKyITW4qsKqatPr8q3) | 2:56 | 2023-09-26 |  |
 | [Ahí Ahí \(feat\. L\-Gante y La T y la M\) \- Remix](https://open.spotify.com/track/1FNdZuZ02FowKC6NrwG9CL) | [El negro tecla](https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75), [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Pablo Lescano](https://open.spotify.com/artist/6pztqmUqWADMZQKrrmGWGx), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Ahí Ahí \(feat\. L\-Gante y La T y la M\) \[Remix\]](https://open.spotify.com/album/5FFJnLghKYOcGmovytmUGy) | 4:13 | 2024-01-24 |  |
 | [ALEJO ISAKK \| DJ TAO Turreo Sessions \#14](https://open.spotify.com/track/5OZ4ske7GzEE6fOy9qjWdh) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Alejo Isakk](https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ) | [ALEJO ISAKK \| DJ TAO Turreo Sessions \#14](https://open.spotify.com/album/0keCqTJB00DAwHML5qknRH) | 2:40 | 2022-09-23 |  |
-| [Alza las Manos](https://open.spotify.com/track/11Np353ExW9cTo1HxI1Pfe) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [El Bonaerense](https://open.spotify.com/album/5A0jz6qj9yuxVpQxahbC0x) | 3:33 | 2025-11-20 |  |
+| [Alza las Manos](https://open.spotify.com/track/11Np353ExW9cTo1HxI1Pfe) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [El Bonaerense](https://open.spotify.com/album/5A0jz6qj9yuxVpQxahbC0x) | 3:33 | 2025-11-20 | 2025-12-29 |
 | [AM](https://open.spotify.com/track/2dNhNlpZAtV4lwAFW45LIv) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Flow La Movie](https://open.spotify.com/artist/2oT7xd9iTO2ejLsNGIMa5f) | [AM](https://open.spotify.com/album/3dGUvydBX9qhg2YBMsVope) | 3:02 | 2022-05-13 | 2025-07-04 |
 | [AM Remix](https://open.spotify.com/track/05bfbizlM5AX6Mf1RRyMho) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [AM Remix](https://open.spotify.com/album/1jTRS4KS666BesH1GUHyEV) | 4:21 | 2022-05-13 | 2025-11-21 |
 | [Amigo Remix](https://open.spotify.com/track/3J3yRkO999AgZT4LMum1Yc) | [El Villano](https://open.spotify.com/artist/6nEgkeR03q2qtKZmrVq100), [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx) | [Amigo Remix](https://open.spotify.com/album/14t7REZzfSQYODT3If4Ti3) | 2:21 | 2023-08-15 | 2024-09-28 |
@@ -220,6 +220,7 @@
 | [LA T Y LA M \| DJ TAO Turreo Sessions \#16](https://open.spotify.com/track/06lBXefqaA4ZUhJCNKkhIv) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [LA T Y LA M \| DJ TAO Turreo Sessions \#16](https://open.spotify.com/album/4mvqMbo0qR6NJZV8oCapIm) | 2:20 | 2023-03-18 |  |
 | [La Triple T](https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [La Triple T](https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv) | 2:47 | 2022-05-13 |  |
 | [La Tóxica](https://open.spotify.com/track/15OjBeqNX3bShsGYQbteRv) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [La Tóxica](https://open.spotify.com/album/1R0ocprmeDu8ZkZn29xYFx) | 3:00 | 2022-05-13 | 2022-07-29 |
+| [La Ventanita](https://open.spotify.com/track/3LfPiuzPyCoa3Ja3QrJIZv) | [Grupo Sombras](https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae) | [20 Grandes Exitos](https://open.spotify.com/album/0GmgH6t627664pQxUiEjbt) | 4:07 | 2025-11-20 |  |
 | [Lassie](https://open.spotify.com/track/4d9T4bHs1vFSyk1EeB075m) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Lassie](https://open.spotify.com/album/3SRAiuLJXatdGT0SUX4MCe) | 2:52 | 2022-05-13 | 2022-06-05 |
 | [LATI2](https://open.spotify.com/track/3s0CTts1TlRgJztG3gErvJ) | [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni) | [LATI2](https://open.spotify.com/album/6aksfRpRyzjh0Hdz2Mp3am) | 3:24 | 2023-06-09 |  |
 | [Le Gustan lo' Flaites](https://open.spotify.com/track/1smRP4zRit7A6ZDQXkFJWC) | [El Joan](https://open.spotify.com/artist/4d7tFHxzWvzfsgCqPAEOSQ), [Celso El Potente](https://open.spotify.com/artist/7psSmcUfVtqIeuWKKd8Md2) | [Le Gustan lo' Flaites](https://open.spotify.com/album/7F0QdDugWW1NkQBtQXhFkx) | 3:03 | 2023-11-24 | 2024-08-24 |

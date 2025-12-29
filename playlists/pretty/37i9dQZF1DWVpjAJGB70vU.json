@@ -1,6 +1,6 @@
 {
   "description": "The country that made country cool. Cover: George Strait",
-  "num_followers": 2128344,
+  "num_followers": 2128782,
   "original_name": "90s Country",
   "owner": {
     "name": "Spotify",
@@ -523,22 +523,6 @@
     {
       "added_at": "2025-10-08 18:39:08",
       "album": {
-        "name": "American Pride",
-        "url": "https://open.spotify.com/album/2Rn1tjI9H6vZp9ZlxAZKce"
-      },
-      "artists": [
-        {
-          "name": "Alabama",
-          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
-        }
-      ],
-      "duration_ms": 168640,
-      "name": "I'm in a Hurry (And Don't Know Why)",
-      "url": "https://open.spotify.com/track/1N9GGOUf8TQqsaPDByZzEF"
-    },
-    {
-      "added_at": "2025-10-08 18:39:08",
-      "album": {
         "name": "No Ordinary Man",
         "url": "https://open.spotify.com/album/53g8c9eM74nQkKXDEE5tlu"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 181973,
       "name": "Watermelon Crawl",
       "url": "https://open.spotify.com/track/3Q9t1A12iUemHTAWnH7PjD"
+    },
+    {
+      "added_at": "2025-10-08 18:39:08",
+      "album": {
+        "name": "American Pride",
+        "url": "https://open.spotify.com/album/2Rn1tjI9H6vZp9ZlxAZKce"
+      },
+      "artists": [
+        {
+          "name": "Alabama",
+          "url": "https://open.spotify.com/artist/6rJqqRce0Kvo2dJUXoHleC"
+        }
+      ],
+      "duration_ms": 168640,
+      "name": "I'm in a Hurry (And Don't Know Why)",
+      "url": "https://open.spotify.com/track/1N9GGOUf8TQqsaPDByZzEF"
     },
     {
       "added_at": "2025-10-08 18:39:08",
@@ -923,6 +923,22 @@
     {
       "added_at": "2025-10-08 18:39:08",
       "album": {
+        "name": "This Time",
+        "url": "https://open.spotify.com/album/1LjKIkzKmvRTfURcwcTr50"
+      },
+      "artists": [
+        {
+          "name": "Dwight Yoakam",
+          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
+        }
+      ],
+      "duration_ms": 285200,
+      "name": "Fast as You",
+      "url": "https://open.spotify.com/track/6FevJcaJvt5EvsHnuJHBnb"
+    },
+    {
+      "added_at": "2025-10-08 18:39:08",
+      "album": {
         "name": "I Will Stand",
         "url": "https://open.spotify.com/album/5ciyHwetCfRiFA4BS7SMKO"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 205093,
       "name": "She's Got It All",
       "url": "https://open.spotify.com/track/4l8u5h7OjkZo2UmyUoeKYJ"
-    },
-    {
-      "added_at": "2025-10-08 18:39:08",
-      "album": {
-        "name": "Wide Open Spaces",
-        "url": "https://open.spotify.com/album/11Rni6y5dnNo6NRVuxltIj"
-      },
-      "artists": [
-        {
-          "name": "The Chicks",
-          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
-        }
-      ],
-      "duration_ms": 193064,
-      "name": "There's Your Trouble",
-      "url": "https://open.spotify.com/track/69m9WDPBvemwujQwdONslk"
     },
     {
       "added_at": "2025-10-08 18:39:08",
@@ -975,18 +975,18 @@
     {
       "added_at": "2025-10-08 18:39:08",
       "album": {
-        "name": "This Time",
-        "url": "https://open.spotify.com/album/1LjKIkzKmvRTfURcwcTr50"
+        "name": "Wide Open Spaces",
+        "url": "https://open.spotify.com/album/11Rni6y5dnNo6NRVuxltIj"
       },
       "artists": [
         {
-          "name": "Dwight Yoakam",
-          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
+          "name": "The Chicks",
+          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
         }
       ],
-      "duration_ms": 285200,
-      "name": "Fast as You",
-      "url": "https://open.spotify.com/track/6FevJcaJvt5EvsHnuJHBnb"
+      "duration_ms": 193064,
+      "name": "There's Your Trouble",
+      "url": "https://open.spotify.com/track/69m9WDPBvemwujQwdONslk"
     },
     {
       "added_at": "2025-10-08 18:39:08",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2025-10-08 18:39:08",
       "album": {
-        "name": "Six Days On The Road",
-        "url": "https://open.spotify.com/album/6d2GhPWhRwb1KcfHFR0wXX"
-      },
-      "artists": [
-        {
-          "name": "Sawyer Brown",
-          "url": "https://open.spotify.com/artist/50hFWG3MaUUX5phNrrVc97"
-        }
-      ],
-      "duration_ms": 172080,
-      "name": "Six Days On The Road",
-      "url": "https://open.spotify.com/track/4OCFCX4RSZl8esUMtt3muO"
-    },
-    {
-      "added_at": "2025-10-08 18:39:08",
-      "album": {
         "name": "Everywhere We Go",
         "url": "https://open.spotify.com/album/67qNNUSHekqSliS7Q1XZj6"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 188173,
       "name": "How Forever Feels",
       "url": "https://open.spotify.com/track/2HmMklpgK8vGCpJmPpz1yG"
+    },
+    {
+      "added_at": "2025-10-08 18:39:08",
+      "album": {
+        "name": "Six Days On The Road",
+        "url": "https://open.spotify.com/album/6d2GhPWhRwb1KcfHFR0wXX"
+      },
+      "artists": [
+        {
+          "name": "Sawyer Brown",
+          "url": "https://open.spotify.com/artist/50hFWG3MaUUX5phNrrVc97"
+        }
+      ],
+      "duration_ms": 172080,
+      "name": "Six Days On The Road",
+      "url": "https://open.spotify.com/track/4OCFCX4RSZl8esUMtt3muO"
     },
     {
       "added_at": "2025-10-08 18:39:08",
@@ -2247,22 +2247,6 @@
     {
       "added_at": "2025-10-08 18:39:08",
       "album": {
-        "name": "From the Heart",
-        "url": "https://open.spotify.com/album/36m9tDH81Nn65T9qoGqWdl"
-      },
-      "artists": [
-        {
-          "name": "Doug Stone",
-          "url": "https://open.spotify.com/artist/4epBFW4UHEmgjIK5xOrBhk"
-        }
-      ],
-      "duration_ms": 191840,
-      "name": "Why Didn't I Think of That",
-      "url": "https://open.spotify.com/track/3w3oF0IAR3A14cnKhecsNV"
-    },
-    {
-      "added_at": "2025-10-08 18:39:08",
-      "album": {
         "name": "Homeward Looking Angel",
         "url": "https://open.spotify.com/album/1NNsm5qebMGEW6Fn7DazXS"
       },
@@ -2275,6 +2259,22 @@
       "duration_ms": 187733,
       "name": "Shake The Sugar Tree",
       "url": "https://open.spotify.com/track/1UWAhFXMAebtKo904MuEhp"
+    },
+    {
+      "added_at": "2025-10-08 18:39:08",
+      "album": {
+        "name": "From the Heart",
+        "url": "https://open.spotify.com/album/36m9tDH81Nn65T9qoGqWdl"
+      },
+      "artists": [
+        {
+          "name": "Doug Stone",
+          "url": "https://open.spotify.com/artist/4epBFW4UHEmgjIK5xOrBhk"
+        }
+      ],
+      "duration_ms": 191840,
+      "name": "Why Didn't I Think of That",
+      "url": "https://open.spotify.com/track/3w3oF0IAR3A14cnKhecsNV"
     },
     {
       "added_at": "2025-10-08 18:39:08",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 
 > O melhor do sertanejo em uma só playlist! Foto: Danilo e Davi
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,060,673 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,062,182 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 49 | [Não, Mas Quase \- Ao Vivo](https://open.spotify.com/track/0lTCXzpd3WL5FsPsrO2W4W) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Memórias \- Parte 1 \(Ao Vivo\)](https://open.spotify.com/album/1VpjNIveluI9560oRm8oYA) | 2:49 |
 | 50 | [Vagabundo](https://open.spotify.com/track/1mnMkTvrPi4iTblXaRvOoi) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Vagabundo](https://open.spotify.com/album/2DsQiOZyalrytAD9Xi0IO8) | 3:27 |
 
-Snapshot ID: `AAAAAPmhkF5MwC6pa1yuPoUr7rtUQNVy`
+Snapshot ID: `AAAAAKU2e4DTaXsSpo2uSg/miaXeTbxR`

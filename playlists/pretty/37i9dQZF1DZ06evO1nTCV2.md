@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1nTCV2.md) - [plain]
 
 > This is Ryan Adams\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,057 likes - 48 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,059 likes - 48 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1nTCV2.md) - [plain]
 | 27 | [Prisoner](https://open.spotify.com/track/3namvPHEYY9nstuEAivJuE) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Prisoner](https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH) | 3:11 |
 | 28 | [Bad Blood](https://open.spotify.com/track/0Pq0pa6k5m7D3mUG1nFQwi) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup) | 3:55 |
 | 29 | [The Battle \(feat\. Ryan Adams\)](https://open.spotify.com/track/6hFUNjqM0SGL5a1WKmgW2y) | [Caitlin Cary](https://open.spotify.com/artist/2lMw9KHEs2ymoFBRuSrMHk), [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [The Battle](https://open.spotify.com/album/333avvdsp2cuhEWyhlrLVS) | 3:00 |
-| 30 | [Someone On my Mind](https://open.spotify.com/track/3V123jeAM3oXRebk3YL93u) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Self Portrait](https://open.spotify.com/album/4J03eL5elU6NiNV2C41YVl) | 2:24 |
+| 30 | [Fools Game](https://open.spotify.com/track/2PbXkkeNg2vHci3JDiCv6n) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Self Portrait](https://open.spotify.com/album/4J03eL5elU6NiNV2C41YVl) | 3:38 |
 | 31 | [Nuclear](https://open.spotify.com/track/3rZtJBEvgcG2yZlkaTH9TD) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Demolition](https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q) | 3:24 |
 | 32 | [Shake It Off](https://open.spotify.com/track/7bH22jtBtUuWLZ7MGxHI69) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [1989](https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup) | 4:06 |
 | 33 | [Hotel Chelsea Nights](https://open.spotify.com/track/45EnbdDSEyfNd4xbGSLaBM) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Love Is Hell](https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2) | 5:10 |
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1nTCV2.md) - [plain]
 | 42 | [Amy](https://open.spotify.com/track/7qzqcfLHBAUherRXgW4Ul7) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heartbreaker](https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn) | 3:46 |
 | 43 | [Fuck The Rain](https://open.spotify.com/track/08O1D1vlxPG0NStXrWkWsS) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Big Colors](https://open.spotify.com/album/7IKoFG0yRzDmqalNLJpw6y) | 3:33 |
 | 44 | [Chin Up, Cheer Up](https://open.spotify.com/track/4SBUErshKs7VyfKtXdmcTz) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Demolition](https://open.spotify.com/album/748GLnbrpsibJyQ5HvxV8q) | 2:58 |
-| 45 | [Oh My God, Whatever, Etc.](https://open.spotify.com/track/3o68rZVgCzV5ln4ug2RpUc) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Easy Tiger](https://open.spotify.com/album/3ZlWIevUkfKkrjpYw5VdjE) | 2:31 |
-| 46 | [This House Is Not For Sale](https://open.spotify.com/track/67ftTHCuUcUt5DlNO3dUQR) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Love Is Hell](https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2) | 3:53 |
+| 45 | [This House Is Not For Sale](https://open.spotify.com/track/67ftTHCuUcUt5DlNO3dUQR) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Love Is Hell](https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2) | 3:53 |
+| 46 | [Oh My God, Whatever, Etc.](https://open.spotify.com/track/3o68rZVgCzV5ln4ug2RpUc) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Easy Tiger](https://open.spotify.com/album/3ZlWIevUkfKkrjpYw5VdjE) | 2:31 |
 | 47 | [Doomsday](https://open.spotify.com/track/70PPbwGrPBpQ1hRBuuSirh) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Prisoner](https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH) | 3:01 |
 | 48 | [Haunted House](https://open.spotify.com/track/60gqIHYxfFNfAF2ljsx2xq) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Prisoner](https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH) | 2:42 |
 
-Snapshot ID: `aU3QAAAAAAB4dAZaRPyJrJUOP2BAjq6z`
+Snapshot ID: `aU8hgAAAAAC/rJwMe2xslINwCK9NrItY`

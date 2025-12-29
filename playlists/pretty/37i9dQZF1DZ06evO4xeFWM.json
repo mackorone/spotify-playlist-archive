@@ -1,12 +1,12 @@
 {
   "description": "This is Bastille. The essential tracks, all in one playlist.",
-  "num_followers": 220216,
+  "num_followers": 220226,
   "original_name": "This Is Bastille",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU3QAAAAAABpFSy1fIwP/N5YkZYQ294c",
+  "snapshot_id": "aU8hgAAAAADa7AoV8KjoT7IjJ5zxl0r8",
   "tracks": [
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Doom Days",
-        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 270254,
-      "name": "Those Nights",
-      "url": "https://open.spotify.com/track/4R06uQw0yBQXWmatdIOlch"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u201c&\u201d (Ampersand)",
         "url": "https://open.spotify.com/album/5jGm5pF4v30t5lUWBrNO37"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 232506,
       "name": "Blue Sky & The Painter",
       "url": "https://open.spotify.com/track/1g1rFaOD5cQXY2cbP5V8F1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Doom Days",
+        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 270254,
+      "name": "Those Nights",
+      "url": "https://open.spotify.com/track/4R06uQw0yBQXWmatdIOlch"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Doom Days",
-        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 189728,
-      "name": "Bad Decisions",
-      "url": "https://open.spotify.com/track/4OAxg8dC0yvuTp2A6vHrPF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Roots Of ReOrchestrated",
         "url": "https://open.spotify.com/album/6F7mN2nWYIj4sAwTTOEFZY"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 211746,
       "name": "Good Grief - Live At Capitol Studios, Los Angeles / 2016",
       "url": "https://open.spotify.com/track/22byEqX8buZheWfPKki5MW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Doom Days",
+        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 189728,
+      "name": "Bad Decisions",
+      "url": "https://open.spotify.com/track/4OAxg8dC0yvuTp2A6vHrPF"
     },
     {
       "added_at": null,
@@ -907,8 +907,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u201c&\u201d (Ampersand)",
-        "url": "https://open.spotify.com/album/5jGm5pF4v30t5lUWBrNO37"
+        "name": "Doom Days",
+        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
       },
       "artists": [
         {
@@ -916,9 +916,9 @@
           "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 239946,
-      "name": "Mademoiselle & The Nunnery Blaze",
-      "url": "https://open.spotify.com/track/58tyzBvsTPDzNuhu87MEqU"
+      "duration_ms": 251658,
+      "name": "Million Pieces",
+      "url": "https://open.spotify.com/track/7DjnfQNHk36aiMK4aLucMa"
     },
     {
       "added_at": null,
@@ -939,8 +939,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Doom Days",
-        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
+        "name": "\u201c&\u201d (Ampersand)",
+        "url": "https://open.spotify.com/album/5jGm5pF4v30t5lUWBrNO37"
       },
       "artists": [
         {
@@ -948,9 +948,9 @@
           "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 251658,
-      "name": "Million Pieces",
-      "url": "https://open.spotify.com/track/7DjnfQNHk36aiMK4aLucMa"
+      "duration_ms": 212186,
+      "name": "Seasons & Narcissus",
+      "url": "https://open.spotify.com/track/5sxjvIHglYNkOyEPRTHTOv"
     }
   ],
   "unique_name": "This Is Bastille",

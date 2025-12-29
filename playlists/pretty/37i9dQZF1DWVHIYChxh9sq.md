@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHIYChxh9sq.md) - [plain]
 
 > Música en vivo de tus artistas favoritos de la Música Mexicana\. Portada: Linea Personal, Fuerza Regida, Angel Tumbado
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,774 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,781 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHIYChxh9sq.md) - [plain]
 | 80 | [El Beneficio De La Duda \(En Vivo\)](https://open.spotify.com/track/3yIoIPMrHQ5uZoTFaPQgB3) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Beneficio De La Duda \(En Vivo\)](https://open.spotify.com/album/7w82mNnGvXaO6XI728hz3a) | 4:34 |
 | 81 | [Barba Negra \(feat\. Tito Torbellino Jr.\)](https://open.spotify.com/track/1RhGQa1M4GbUuon7dbgUgU) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Tito Torbellino Jr.](https://open.spotify.com/artist/6Ye7eLauOTGfK8Vx9TWwKR) | [En Vivo con Tololoche Vol\. 1](https://open.spotify.com/album/6qUgwVEuv48l4qe2ZQrvOg) | 2:49 |
 | 82 | [Cómo Este Loco \(En Vivo\)](https://open.spotify.com/track/2lfOKHw5PZ6oSRBM1LdWpd) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [Julio Preciado](https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3) | [Yakifest Oasis Vol\. 5 \(En Vivo\)](https://open.spotify.com/album/5iJMnRlnUcuN9GTlGrgJgP) | 4:22 |
-| 83 | [El Karma \- Live](https://open.spotify.com/track/5bUOyzMveALWJtMzGOSrBv) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Recordando Ariel Camacho \(Live\)](https://open.spotify.com/album/68m4BXWynI34UtRpglzFcq) | 2:58 |
-| 84 | [Aguanta Corazon](https://open.spotify.com/track/0jH7epDEcUS9n8Wcnx0aaX) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pisteando Con La Regida \(Vol\. 3\)](https://open.spotify.com/album/43VJC0wCb2qkm1KrIdRYqc) | 2:17 |
+| 83 | [Aguanta Corazon](https://open.spotify.com/track/0jH7epDEcUS9n8Wcnx0aaX) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pisteando Con La Regida \(Vol\. 3\)](https://open.spotify.com/album/43VJC0wCb2qkm1KrIdRYqc) | 2:17 |
+| 84 | [El Karma \- Live](https://open.spotify.com/track/5bUOyzMveALWJtMzGOSrBv) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Recordando Ariel Camacho \(Live\)](https://open.spotify.com/album/68m4BXWynI34UtRpglzFcq) | 2:58 |
 | 85 | [Que Me Falto \- En vivo](https://open.spotify.com/track/1nFSmF0g3tO3c5Y1FbTBsE) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Despegando el Vuelo \(En vivo\)](https://open.spotify.com/album/3Ftnxdxa5fGWKuMMrncCNF) | 3:41 |
 | 86 | [El Pickles](https://open.spotify.com/track/1xcFgv2NqLU17sc2ri5TTG) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [El Pickles](https://open.spotify.com/album/2zJwQTD8HeEMsnxVIa4ssq) | 3:02 |
 | 87 | [El Rey Del Pop \(En Vivo\)](https://open.spotify.com/track/1D5KDcr6BB3bHtK3NiBTye) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [La Cruda Deluxe \(En Vivo\)](https://open.spotify.com/album/7FULQRQbO2j0c3uqpr4N5u) | 3:42 |

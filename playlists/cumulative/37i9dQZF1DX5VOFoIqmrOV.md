@@ -4,7 +4,7 @@
 
 > The finest set of Telugu music from the past 10 years\. <br/>Cover : Pushpa 2
 
-263 songs - 17 hr 30 min
+264 songs - 17 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,7 @@
 | [Laahe Laahe](https://open.spotify.com/track/6rcTPn1CwOyuskilY12IqL) | [Mani Sharma](https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss), [Harika Narayan](https://open.spotify.com/artist/6BWLgCuwDlaTKrZvgMmghn), [Sahithi Chaganti](https://open.spotify.com/artist/01dP5AXWzqsUZj4VIcUSDM) | [Acharya](https://open.spotify.com/album/66WP95DcFzhmAyVXhG8UvG) | 4:07 | 2021-12-16 |  |
 | [Leharaayi](https://open.spotify.com/track/0pCXbJ3lbtinCZnwg1CYDC) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Most Eligible Bachelor](https://open.spotify.com/album/67FATbnVWtXgD9TF6OGb3P) | 4:05 | 2022-07-24 | 2025-01-21 |
 | [Leharaayi](https://open.spotify.com/track/6DFXFqK5PTGqTzTbdj47uV) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Most Eligible Bachelor](https://open.spotify.com/album/22hFErJbDz0TB3xUMTpsAf) | 4:05 | 2021-12-16 | 2022-07-25 |
-| [Life Of Ram](https://open.spotify.com/track/0i5KYCaQs1xY7z9MWCFoXW) | [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6) | [Jaanu](https://open.spotify.com/album/76Gn7WA0mvH8Ke4yjGlveG) | 6:04 | 2023-05-04 |  |
+| [Life Of Ram](https://open.spotify.com/track/0i5KYCaQs1xY7z9MWCFoXW) | [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6) | [Jaanu](https://open.spotify.com/album/76Gn7WA0mvH8Ke4yjGlveG) | 6:04 | 2023-05-04 | 2025-12-29 |
 | [Love Me Again](https://open.spotify.com/track/3OmarYHeUC6ZWPX9tkBrDv) | [Sooraj Santhosh](https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB) | [Nannaku Prematho](https://open.spotify.com/album/7Cz9TMxapJs5HgAP3QHBJo) | 4:06 | 2023-08-07 |  |
 | [Love Me Again \(From "Nannaku Prematho"\)](https://open.spotify.com/track/4BJ6zSWlqPee7mPxfD11pB) | [Sooraj Santhosh](https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB) | [Nannaku Prematho & Other Hits](https://open.spotify.com/album/3i26jbTyRKQAbXCySskhNU) | 4:06 | 2023-08-07 | 2023-10-26 |
 | [Ma Ma Mahesha](https://open.spotify.com/track/4o0fdLdeKc0KHTs0ouiUpi) | [Sri Krishna](https://open.spotify.com/artist/06V3WlbxMpgl639AJoFH7C), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Sarkaru Vaari Paata \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4k1eyhV232FplXyv3nnv9q) | 4:06 | 2022-07-24 | 2022-11-13 |
@@ -194,6 +194,7 @@
 | [OMG Daddy](https://open.spotify.com/track/1WBA3KunNN2GGpHghfwnNE) | [Roll Rida](https://open.spotify.com/artist/6xikG2kDoIZnB78TBPXlkj), [Rahul Nambiar](https://open.spotify.com/artist/5a2WF7juQ5oilpZCqikRtP), [Lady Kash](https://open.spotify.com/artist/2a1ts2wPvq6Vif1x7KJV7a), [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn) | [Ala Vaikunthapurramuloo](https://open.spotify.com/album/3lnOgTbiGMIvcZhvqBkHDa) | 3:48 | 2021-12-16 | 2023-10-06 |
 | [Oo Aadapilla](https://open.spotify.com/track/6KJyZlCGIeGoyj6QKxUUBC) | [Jay Krish](https://open.spotify.com/artist/3Yz04XcMjC097xmoo1VYob), [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj), [Ananta Sriram](https://open.spotify.com/artist/0yzw4DhGyaUCd87BFCPjel) | [Ashoka Vanamlo Arjuna Kalyanam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7pocDFnAWVLjSwp7biK2Le) | 4:57 | 2022-07-24 | 2023-08-08 |
 | [Oo Antava Oo Oo Antava \(From "Pushpa \- The Rise"\)\(Telugu\)](https://open.spotify.com/track/3szxldqiYs7nkvtmooRod8) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Indravathi Chauhan](https://open.spotify.com/artist/1cNcHeOmjm7yKUYWhrmjMM), [Chandra Bose](https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK) | [Oo Antava Oo Oo Antava \(From "Pushpa \- The Rise"\)\(Telugu\)](https://open.spotify.com/album/4tXcR4YBqi96HgZlMCBY7v) | 3:43 | 2021-12-16 |  |
+| [Oohalu Oorege Gaalanthaa](https://open.spotify.com/track/5c22snIfXnckNXV4FkLVfs) | [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Keerthana](https://open.spotify.com/artist/3F3Y5Y6PsKkXftDYVL6ON7) | [Sammohanam](https://open.spotify.com/album/3OUStgGMbZTFPGpzQDLST2) | 4:49 | 2025-12-16 |  |
 | [Oosupodu](https://open.spotify.com/track/0xNiDPK4YdZ51ALxSid0QV) | [Hemachandra Vedala](https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN) | [Fidaa](https://open.spotify.com/album/2OPvJhDyy9YvHJT3xt7Zwh) | 4:33 | 2023-08-07 |  |
 | [Padi Padi Leche](https://open.spotify.com/track/7tXaDnRF8OVbcecl0KurVn) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Sinduri Vishal](https://open.spotify.com/artist/6KjiNHnbm1CNrIN0z7wJtO) | [Padi Padi Leche Manasu](https://open.spotify.com/album/5yaWNdlJB8FoxwbngILePz) | 3:23 | 2021-12-16 | 2022-07-25 |
 | [Pareshanura](https://open.spotify.com/track/0UipbyZ94eKrCm1Vcydvl3) | [Padmalatha Vishnu Priya](https://open.spotify.com/artist/7txK3ILyvvPyNhFJ8BzG8R) | [Dhruva](https://open.spotify.com/album/2mutIulE85wKAHrrP0oCuM) | 3:13 | 2023-08-07 |  |

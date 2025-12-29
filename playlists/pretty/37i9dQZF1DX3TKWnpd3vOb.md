@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 
 > Encuentra un mix de clásicos y nuevos talentos\. Foto: Beto Cuevas
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,300 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,299 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,14 +43,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 | 33 | [Caballo sin dueño](https://open.spotify.com/track/2RQbZvq8nqZJF2AvhM0l5X) | [Pettinellis](https://open.spotify.com/artist/2UqwAwxVtnr9MyQ96yNoGD) | [Caballo sin dueño](https://open.spotify.com/album/0QFXBy5wBY5jUagOv9fWJz) | 3:37 |
 | 34 | [Mis Hermanos Sueñan Despiertos](https://open.spotify.com/track/4zkPhAfJssqmudOKotu0vr) | [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg) | [Mis Hermanos Sueñan Despiertos](https://open.spotify.com/album/5eSV2mQOF7eUBcyc59i4kg) | 3:24 |
 | 35 | [Hojas de Té \- 2023](https://open.spotify.com/track/4IEX5xveQUzxKFau8euNK0) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [Hojas de Té \(2023\)](https://open.spotify.com/album/7FRwcTiH6qSLJ1qzsqUZRe) | 3:29 |
-| 36 | [Somos amigos](https://open.spotify.com/track/6V3zMRLRCSOQtAJG8wVybk) | [Tomo Como Rey](https://open.spotify.com/artist/7DGQ1BwG33jSlcQC6krZLD) | [Somos amigos](https://open.spotify.com/album/1CQJiErOJUYIbdh3ZcHqxJ) | 3:10 |
-| 37 | [Un Día por Concepción](https://open.spotify.com/track/4VhvatqWWBgHHwqJmFx8x2) | [Billy Norton](https://open.spotify.com/artist/1UfRX7LoEjVtkiVgykLgCb) | [Un Día por Concepción](https://open.spotify.com/album/5bh1wyxjcC5CzXjKo0eaTw) | 3:03 |
+| 36 | [Un Día por Concepción](https://open.spotify.com/track/4VhvatqWWBgHHwqJmFx8x2) | [Billy Norton](https://open.spotify.com/artist/1UfRX7LoEjVtkiVgykLgCb) | [Un Día por Concepción](https://open.spotify.com/album/5bh1wyxjcC5CzXjKo0eaTw) | 3:03 |
+| 37 | [Somos amigos](https://open.spotify.com/track/6V3zMRLRCSOQtAJG8wVybk) | [Tomo Como Rey](https://open.spotify.com/artist/7DGQ1BwG33jSlcQC6krZLD) | [Somos amigos](https://open.spotify.com/album/1CQJiErOJUYIbdh3ZcHqxJ) | 3:10 |
 | 38 | [Arauco Tiene una Pena](https://open.spotify.com/track/2cBNm3iPJeD0nLiE6KB4Dc) | [Pettinellis](https://open.spotify.com/artist/2UqwAwxVtnr9MyQ96yNoGD), [Juanita Parra](https://open.spotify.com/artist/1cHf0iGXPhUQLfdkoE29Cj) | [Arauco Tiene una Pena](https://open.spotify.com/album/4WI0nDxBevacGtx4K2NFW9) | 5:48 |
 | 39 | [Solo de Ti](https://open.spotify.com/track/01pHsM5mHXLRT01w9wt1JT) | [Hermanos Ilabaca](https://open.spotify.com/artist/0PyhxG9e14b5UvwUH0X3Qd) | [Solo de Ti](https://open.spotify.com/album/29MnwmnbfpgL9AqH4FDzBF) | 3:57 |
 | 40 | [Únete A Mi Ser](https://open.spotify.com/track/1Sfe6sTE6E3pkW1wjSmLRS) | [Kuervos del Sur](https://open.spotify.com/artist/6BYwseleN4FiZvX4dFirBj) | [De La Luz](https://open.spotify.com/album/7Aum3NoxOUSKlD0fzjGdp0) | 4:41 |
 | 41 | [Fantasmas](https://open.spotify.com/track/1uqgJz87jIFsYdHDCbmTgT) | [BBS Paranoicos](https://open.spotify.com/artist/3m6rsPYI2szH1eab4Gu74U) | [Fantasmas](https://open.spotify.com/album/6FIXBpcKzb14AXzKo9Tx9L) | 3:52 |
-| 42 | [El Viento Escapó](https://open.spotify.com/track/6hz4y1GdHiiud66cAML3Hs) | [Electrodomésticos](https://open.spotify.com/artist/1jW8O5TTQQUb1G05GLxSEn) | [Mirar La Luz](https://open.spotify.com/album/6Yjmxngg0nEBFR49QtpIbV) | 4:30 |
-| 43 | [La vida mi vida se vive así \- Radio Edit](https://open.spotify.com/track/4KiadmrJu0p0LYGPshd7kB) | [Valija Diplomatica](https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV) | [La vida mi vida se vive así \(Radio Edit\)](https://open.spotify.com/album/6d8HeRuWTKAoDDWxzeoRGS) | 2:54 |
+| 42 | [La vida mi vida se vive así \- Radio Edit](https://open.spotify.com/track/4KiadmrJu0p0LYGPshd7kB) | [Valija Diplomatica](https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV) | [La vida mi vida se vive así \(Radio Edit\)](https://open.spotify.com/album/6d8HeRuWTKAoDDWxzeoRGS) | 2:54 |
+| 43 | [El Viento Escapó](https://open.spotify.com/track/6hz4y1GdHiiud66cAML3Hs) | [Electrodomésticos](https://open.spotify.com/artist/1jW8O5TTQQUb1G05GLxSEn) | [Mirar La Luz](https://open.spotify.com/album/6Yjmxngg0nEBFR49QtpIbV) | 4:30 |
 | 44 | [Se Aleja el Tren](https://open.spotify.com/track/043AiQhetJSAQWiHI7Tz63) | [Hermanos Ilabaca](https://open.spotify.com/artist/0PyhxG9e14b5UvwUH0X3Qd), [Maria Jose Quintanilla](https://open.spotify.com/artist/13N9NShchIr3m8hgyVqrRg) | [Se Aleja el Tren](https://open.spotify.com/album/5nF2JwPZV8GGwV0JdNq0ss) | 4:06 |
 | 45 | [Let Me Fly](https://open.spotify.com/track/1mf0JSb8GiZd8yFzLodBUh) | [Cigarbox Man](https://open.spotify.com/artist/6KvYkMetRUoKfIjEt9A0QV) | [Blue Dalom](https://open.spotify.com/album/7rrdkE6Jr2xkS2H0wiATV8) | 3:42 |
 | 46 | [Vacaciones de Invierno \- acústico](https://open.spotify.com/track/2BsKJQ3GZMEf5FFNSqLgM3) | [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN), [Sueño A Marte](https://open.spotify.com/artist/6pz3M7ma5C5yKRjN5gaatN) | [Vacaciones de Invierno \(acústico\)](https://open.spotify.com/album/64s6CIsbBLV2OLWHWrBzS2) | 3:02 |

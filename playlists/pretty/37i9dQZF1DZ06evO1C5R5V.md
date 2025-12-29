@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C5R5V.md) - [plain]
 
 > This is El Haragán y Compañía\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,969 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,978 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C5R5V.md) - [plain]
 | 38 | [Alejandro](https://open.spotify.com/track/6mDSvFRgZzQDVrXA9vBuMC) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [A Capella, Vol\. 2](https://open.spotify.com/album/4siYcuv9UwlJ9zBTwZmFXk) | 3:50 |
 | 39 | [Tuve un Sueño](https://open.spotify.com/track/7l8tTy0AtaLKTXrv2ZYTAT) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [15 Éxitos de Colección](https://open.spotify.com/album/4gsU1aTVPZJFuNfRduqKg7) | 3:12 |
 | 40 | [El Trabajo del Hombre](https://open.spotify.com/track/3lAwswdOC4L8ng6X6VJy9p) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [El Trabajo del Hombre](https://open.spotify.com/album/2fe3rIIOfAZ1goUT1Q7lb4) | 3:59 |
-| 41 | [Tengo un Acoholico en Mi Casa](https://open.spotify.com/track/6aSZWceWgE6cMlKRvLn6yL) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Rock Que Se Comparte](https://open.spotify.com/album/1YGn8RT3a96aeZWgZJr97Q) | 3:32 |
-| 42 | [El Camino del Corazón \- Acústico](https://open.spotify.com/track/4WzOYzaJTMigSoeAStr3M2) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Sesiones Acústicas \(Acústico\)](https://open.spotify.com/album/1Ac1Kb7MCxIoWlBEM3C2Fr) | 4:27 |
+| 41 | [El Camino del Corazón \- Acústico](https://open.spotify.com/track/4WzOYzaJTMigSoeAStr3M2) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Sesiones Acústicas \(Acústico\)](https://open.spotify.com/album/1Ac1Kb7MCxIoWlBEM3C2Fr) | 4:27 |
+| 42 | [Tengo un Acoholico en Mi Casa](https://open.spotify.com/track/6aSZWceWgE6cMlKRvLn6yL) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Rock Que Se Comparte](https://open.spotify.com/album/1YGn8RT3a96aeZWgZJr97Q) | 3:32 |
 | 43 | [Un Día A La Vez](https://open.spotify.com/track/0XW8HrbqM5zRQ0zUvwWdQu) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [El Mas Grande Homenaje A Los Tigres Del Norte \(Reissue\)](https://open.spotify.com/album/2CV4KdKMJ4fNq29HLmGmri) | 5:06 |
 | 44 | [En los Años 30 \- En Vivo](https://open.spotify.com/track/6i0Bd62X1NRfkdroWlwvo3) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Acústico en Vivo](https://open.spotify.com/album/4zu2N7oBqda4o0lMGk9Hgl) | 5:26 |
 | 45 | [Barata y Descontón](https://open.spotify.com/track/12zpKVqLAQ7x547zRwICeZ) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx), [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Barata y Descontón](https://open.spotify.com/album/0VugzwalsfV7TB8kJnrx5u) | 4:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C5R5V.md) - [plain]
 | 49 | [Trenes y Gatos](https://open.spotify.com/track/73mBTnRE0oejrVRVcFL3sB) | [Los Gatos Rockabilly](https://open.spotify.com/artist/44g8mCTOmHpdeZFuaj9hS3), [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Trenes y Gatos](https://open.spotify.com/album/0HSSCXp1CGTQFOIQMP2bjV) | 3:05 |
 | 50 | [Igual](https://open.spotify.com/track/1yk2zZ5imHnK1pCSsjVId4) | [Kerigma](https://open.spotify.com/artist/7t3VRQukdpeWyhKTgodDxB), [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Igual](https://open.spotify.com/album/6CU4rWaqP6Jr2rAw3PanKm) | 3:39 |
 
-Snapshot ID: `aU3QAAAAAAAW+QkknNMSvpz2LH9v9rvf`
+Snapshot ID: `aU8hgAAAAAAtkisxSwwfpRbprCsOQa8U`

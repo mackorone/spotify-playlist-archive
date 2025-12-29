@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaMD6NdSui3.md) - [plain]
 
 > Texas Blues at its best.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,989 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,031 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXeaMD6NdSui3.md) - [plain]
 | 13 | [Honest I Do \(feat\. Gary Clark, Jr.\)](https://open.spotify.com/track/7FmfpB1TgA8hi3etdffflO) | [Omar and The Howlers](https://open.spotify.com/artist/70PvPWG9nD4ZujibB1onsO), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Too Much is not enough](https://open.spotify.com/album/4nBTViXrq2BhHlvnJOE5HD) | 2:21 |
 | 14 | [Rolling With The Punches](https://open.spotify.com/track/0ECyZFXS02fUPW1AxMCUBQ) | [Johnny Copeland](https://open.spotify.com/artist/641QgCXSYTbRm9kigj0ABL) | [Catch Up With The Blues](https://open.spotify.com/album/7j9s4SGnWipClu5teWbqqV) | 6:34 |
 | 15 | [Let The Good Times Roll](https://open.spotify.com/track/5Qxhlc1J70CpnJAz02FWdU) | [Pee Wee Crayton](https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA) | [Things I Used To Do](https://open.spotify.com/album/0Xuzshv4pdWf8NXA7xM2mA) | 2:53 |
-| 16 | [Me And My Guitar](https://open.spotify.com/track/0QpxUzXEI3ZjJeo6dDFgV7) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [The Best Of Freddie King: The Shelter Years](https://open.spotify.com/album/4gpyOtOO0Ws6zhvcp4ASMY) | 4:04 |
-| 17 | [My Way Down](https://open.spotify.com/track/2VZYQKBRyGQdVMrzUhRf7J) | [Chris Duarte](https://open.spotify.com/artist/1W3SfQdOetqQqjsBCRpBqN) | [Texas Sugar Strat Magik](https://open.spotify.com/album/6nsMGqPX8iHHB7FN8XaO6p) | 4:36 |
+| 16 | [My Way Down](https://open.spotify.com/track/2VZYQKBRyGQdVMrzUhRf7J) | [Chris Duarte](https://open.spotify.com/artist/1W3SfQdOetqQqjsBCRpBqN) | [Texas Sugar Strat Magik](https://open.spotify.com/album/6nsMGqPX8iHHB7FN8XaO6p) | 4:36 |
+| 17 | [Me And My Guitar](https://open.spotify.com/track/0QpxUzXEI3ZjJeo6dDFgV7) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [The Best Of Freddie King: The Shelter Years](https://open.spotify.com/album/4gpyOtOO0Ws6zhvcp4ASMY) | 4:04 |
 | 18 | [I Gotta Let You Go \(feat\. Gary Clark, Jr.\)](https://open.spotify.com/track/5fuMwHFFrme5gzjYRf5cI9) | [Omar and The Howlers](https://open.spotify.com/artist/70PvPWG9nD4ZujibB1onsO), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Too Much is not enough](https://open.spotify.com/album/4nBTViXrq2BhHlvnJOE5HD) | 3:09 |
 | 19 | [Shake](https://open.spotify.com/track/4hB2r4trPkpdHTVinASchh) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [The Story of Sonny Boy Slim](https://open.spotify.com/album/5gRwx5vpeXUA75GmuqwByn) | 3:17 |
 | 20 | [Gotta Serve Somebody](https://open.spotify.com/track/5XErREyoO37cJdsXAJVu1J) | [Denny Freeman](https://open.spotify.com/artist/2sCGPaXs1se0qKtGeXAgcv) | [Diggin' On Dylan](https://open.spotify.com/album/1sOAiVbChDBc1SyQf1rCIh) | 4:48 |

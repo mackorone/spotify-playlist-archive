@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 243 likes - 1,745 songs - 4 day 9 hr 48 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 243 likes - 1,759 songs - 4 day 10 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1753,5 +1753,19 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 1743 | [Split](https://open.spotify.com/track/3D4U2FQsMZ0jJpwnts4BYT) | [Monzarc](https://open.spotify.com/artist/4lmG1YXfns7Fi9VR0DBNeG) | [Split](https://open.spotify.com/album/6utV4kr5ZpWo2iK1Hw9Dqf) | 5:21 |
 | 1744 | [POLE POLE](https://open.spotify.com/track/1slDFbODGFm4ztv7XlysSg) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [POLE POLE](https://open.spotify.com/album/6ZTsDoZzJxI2LBMuFC5zF7) | 2:42 |
 | 1745 | [Ich hass euch](https://open.spotify.com/track/4XZtr4ZnGYGLtgJo5LB719) | [BadWolf0709](https://open.spotify.com/artist/5TBEhmePsob9MISV9guvdP) | [Ich hass euch](https://open.spotify.com/album/4h79xrEQteEbeRPbmWZPxR) | 3:05 |
+| 1746 | [Enigmas](https://open.spotify.com/track/2Wya6iAvu5GmToZh9xioDY) | [Lenoise](https://open.spotify.com/artist/1zbtdItCDLhQLlyL3ASTZG) | [Tornasol](https://open.spotify.com/album/0LPohpqvg6wkGEioAs7aaC) | 3:26 |
+| 1747 | [Viajando](https://open.spotify.com/track/0uAveBsjd9FEQvCfrEokCM) | [Lenoise](https://open.spotify.com/artist/1zbtdItCDLhQLlyL3ASTZG) | [Tornasol](https://open.spotify.com/album/0LPohpqvg6wkGEioAs7aaC) | 3:59 |
+| 1748 | [Disfraz](https://open.spotify.com/track/6px55UKbJjmJkd5tvN3If6) | [Lenoise](https://open.spotify.com/artist/1zbtdItCDLhQLlyL3ASTZG) | [Tornasol](https://open.spotify.com/album/0LPohpqvg6wkGEioAs7aaC) | 3:10 |
+| 1749 | [Señal](https://open.spotify.com/track/0YHztkvQIx2OJWRtuX6i9d) | [Lenoise](https://open.spotify.com/artist/1zbtdItCDLhQLlyL3ASTZG) | [Claroscuro](https://open.spotify.com/album/3w4KZQa7mGwhjPhuFAWR8P) | 4:42 |
+| 1750 | [Adrenalina](https://open.spotify.com/track/7hv5ailZtPpueev6NDhWpu) | [Lenoise](https://open.spotify.com/artist/1zbtdItCDLhQLlyL3ASTZG) | [Claroscuro](https://open.spotify.com/album/3w4KZQa7mGwhjPhuFAWR8P) | 3:40 |
+| 1751 | [Desvelo](https://open.spotify.com/track/6rNtTePkYs4dwUmQSLpLFG) | [Lenoise](https://open.spotify.com/artist/1zbtdItCDLhQLlyL3ASTZG) | [Claroscuro](https://open.spotify.com/album/3w4KZQa7mGwhjPhuFAWR8P) | 3:54 |
+| 1752 | [Pulso](https://open.spotify.com/track/5Vlk1ypp1dpvD33R760CAP) | [Lenoise](https://open.spotify.com/artist/1zbtdItCDLhQLlyL3ASTZG) | [Claroscuro](https://open.spotify.com/album/3w4KZQa7mGwhjPhuFAWR8P) | 3:05 |
+| 1753 | [Estallas](https://open.spotify.com/track/5jY3OIxir9gMfeU01BvsXR) | [Lenoise](https://open.spotify.com/artist/1zbtdItCDLhQLlyL3ASTZG) | [Fractal](https://open.spotify.com/album/6DBdgU939bZqH9lEJnczSO) | 3:21 |
+| 1754 | [Souvenir](https://open.spotify.com/track/3gWOuj8bFBxxwzsmY2DnmB) | [Lenoise](https://open.spotify.com/artist/1zbtdItCDLhQLlyL3ASTZG) | [Fractal](https://open.spotify.com/album/6DBdgU939bZqH9lEJnczSO) | 3:47 |
+| 1755 | [Astros](https://open.spotify.com/track/23USLP01Sb9lL29bkMdGNe) | [Lenoise](https://open.spotify.com/artist/1zbtdItCDLhQLlyL3ASTZG) | [Supernova](https://open.spotify.com/album/1cEtLyqdkRlTsxn3ldfGot) | 4:03 |
+| 1756 | [Luna](https://open.spotify.com/track/7zjEbjiwsr25Aiow2V1290) | [Lenoise](https://open.spotify.com/artist/1zbtdItCDLhQLlyL3ASTZG) | [Supernova](https://open.spotify.com/album/1cEtLyqdkRlTsxn3ldfGot) | 3:20 |
+| 1757 | [Alas Caen](https://open.spotify.com/track/3p4mwOyOG9iim4nW37vt9t) | [Lenoise](https://open.spotify.com/artist/1zbtdItCDLhQLlyL3ASTZG) | [Supernova](https://open.spotify.com/album/1cEtLyqdkRlTsxn3ldfGot) | 3:07 |
+| 1758 | [Un Solo Segundo](https://open.spotify.com/track/0I0m9UYzULy8gMBkY05QMa) | [Lenoise](https://open.spotify.com/artist/1zbtdItCDLhQLlyL3ASTZG) | [Supernova](https://open.spotify.com/album/1cEtLyqdkRlTsxn3ldfGot) | 3:21 |
+| 1759 | [Clandestino](https://open.spotify.com/track/4txnUawp5wQYgwDBmwvJf0) | [Lenoise](https://open.spotify.com/artist/1zbtdItCDLhQLlyL3ASTZG) | [Supernova](https://open.spotify.com/album/1cEtLyqdkRlTsxn3ldfGot) | 3:55 |
 
-Snapshot ID: `AAAHoq5DiVd2VJZD/U6RTEYNdOGCoPQ+`
+Snapshot ID: `AAAHsGp9sEgp85tsub/KK0uEuW6P+ImW`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 
 > Get cozy and relax to these laid\-back festive sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,371 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,370 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 | 56 | [A Dreamer's Holiday](https://open.spotify.com/track/61Z8rVzYJ1NHgTlI8Q5yIC) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [A Dreamer's Holiday](https://open.spotify.com/album/6A9z2Vf7QPQVUNuJg0Jq8E) | 3:00 |
 | 57 | [The Little Drummer Boy](https://open.spotify.com/track/3PS3si74boOaOC6zxf858B) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ), [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [The Little Drummer Boy](https://open.spotify.com/album/31DWNerPyDK7QIpaT3FAWF) | 2:56 |
 | 58 | [Give Love on Christmas Day \(Piano Version\) \- Recorded Live at Spotify Studios NYC](https://open.spotify.com/track/2bhUuihxnwHia4kXN0Tx6m) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Give Love on Christmas Day \(Piano Version\) \[Recorded Live at Spotify Studios NYC\]](https://open.spotify.com/album/3oRUIETu6Lclw9xQdif183) | 3:45 |
-| 59 | [christmas morning](https://open.spotify.com/track/2SAoJ45i8qWirGdSmCoabR) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [christmas morning](https://open.spotify.com/album/7CDTHxK6bLW45oOxRk5PJv) | 3:52 |
-| 60 | [Together In Electric Dreams](https://open.spotify.com/track/54T9q6T1LyWJrSMYOVDV58) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Together In Electric Dreams](https://open.spotify.com/album/5LT3id7rPUZCZvAZMZSjzy) | 3:21 |
+| 59 | [Together In Electric Dreams](https://open.spotify.com/track/54T9q6T1LyWJrSMYOVDV58) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Together In Electric Dreams](https://open.spotify.com/album/5LT3id7rPUZCZvAZMZSjzy) | 3:21 |
+| 60 | [christmas morning](https://open.spotify.com/track/2SAoJ45i8qWirGdSmCoabR) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [christmas morning](https://open.spotify.com/album/7CDTHxK6bLW45oOxRk5PJv) | 3:52 |
 | 61 | [The Magic Of Christmas](https://open.spotify.com/track/0J60y4thRnADY1AtEtxhCr) | [LYRA](https://open.spotify.com/artist/0yZG22ntdDqVCFIulOTc8x) | [The Magic Of Christmas](https://open.spotify.com/album/6mSquMNOjmr49rmLMW0p08) | 3:27 |
 | 62 | [Make It Home](https://open.spotify.com/track/3xLDkntD4YvBcVwX6EK7SU) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Make It Home](https://open.spotify.com/album/3tUsy9oBx3XXxtNlv1p92g) | 2:59 |
 | 63 | [The Christmas Song \(Chestnuts Roasting On An Open Fire\)](https://open.spotify.com/track/6NBEjaO6uf9ZCxjylkazqh) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Holidays Rule](https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ) | 3:35 |

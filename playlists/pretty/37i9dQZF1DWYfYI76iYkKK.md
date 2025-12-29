@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,538 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,552 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,13 +27,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 | 17 | [人醒著不過一萬多天](https://open.spotify.com/track/2M3RZZVaDI606gFCf8mQ00) | [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [人醒著不過一萬多天](https://open.spotify.com/album/6ElA3UsQyvUYOWYycmtAGq) | 4:33 |
 | 18 | [如果不是我的 \- 電影《女孩》主題曲](https://open.spotify.com/track/1BicVGrtJTih4Vlqg8o9I0) | [Cyndi Wang](https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP) | [如果不是我的 \(電影《女孩》主題曲\)](https://open.spotify.com/album/2D3KOGicdefBP8iPlOW9F5) | 3:38 |
 | 19 | [梅雨季](https://open.spotify.com/track/73MgEB0jHzTU0RE7wWcBf6) | [Zhang Zhen Yue](https://open.spotify.com/artist/6PNEi9i2MxUgRufqYr76Xt) | [跟著感覺走](https://open.spotify.com/album/2evA9z2timYQLrCtfmsTe1) | 4:11 |
-| 20 | [最美的遺憾](https://open.spotify.com/track/7xLHcay4KRCdl9MqXnyrW0) | [Sam Lee](https://open.spotify.com/artist/7ya3wFqG9X35S7L7XSrE2i) | [Face II 真・裏](https://open.spotify.com/album/6vIFkhNrnRaYLIJOW81PW4) | 4:29 |
-| 21 | [再見的時候 \- 電影〈陽光女子合唱團〉主題曲\-再見版](https://open.spotify.com/track/3IBYp3fKyydZ5dDtirLY6P) | [Pei\-Yu Hung](https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs) | [再見的時候 \(電影〈陽光女子合唱團〉主題曲\-再見版\)](https://open.spotify.com/album/6a1qQ7TMu8Gwj3yijI5xHF) | 3:54 |
+| 20 | [再見的時候 \- 電影〈陽光女子合唱團〉主題曲\-再見版](https://open.spotify.com/track/3IBYp3fKyydZ5dDtirLY6P) | [Pei\-Yu Hung](https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs) | [再見的時候 \(電影〈陽光女子合唱團〉主題曲\-再見版\)](https://open.spotify.com/album/6a1qQ7TMu8Gwj3yijI5xHF) | 3:54 |
+| 21 | [最美的遺憾](https://open.spotify.com/track/7xLHcay4KRCdl9MqXnyrW0) | [Sam Lee](https://open.spotify.com/artist/7ya3wFqG9X35S7L7XSrE2i) | [Face II 真・裏](https://open.spotify.com/album/6vIFkhNrnRaYLIJOW81PW4) | 4:29 |
 | 22 | [大人](https://open.spotify.com/track/6UXPAEteXJEyxcA0MAo8Zf) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [麋鹿](https://open.spotify.com/album/3stIJfcy7gwLRdrxipRwp0) | 3:54 |
 | 23 | [让浪漫作主](https://open.spotify.com/track/4AJWlnFYUgSi153Sb52u3X) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [DEPART](https://open.spotify.com/album/14irQNOtPlopyjODP2SH8R) | 4:10 |
 | 24 | [決定不想你](https://open.spotify.com/track/5Ps2mIW2fcPJRsNw5HGdd6) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [Sent](https://open.spotify.com/album/2iBv70St1bvzcoiD00UJ2D) | 4:01 |
-| 25 | [左邊的人](https://open.spotify.com/track/1n6zzsU50f2nGCvCD7UMx6) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [左邊的人](https://open.spotify.com/album/4J9l1jwAMA1M6rQ1qb2MVq) | 3:36 |
-| 26 | [不佔地方](https://open.spotify.com/track/4l9N4XgueomoOoYe3us98d) | [Pei\-Yu Hung](https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs) | [不佔地方](https://open.spotify.com/album/5tv6XsgJYFkTp39m61b7Fm) | 4:39 |
+| 25 | [不佔地方](https://open.spotify.com/track/4l9N4XgueomoOoYe3us98d) | [Pei\-Yu Hung](https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs) | [不佔地方](https://open.spotify.com/album/5tv6XsgJYFkTp39m61b7Fm) | 4:39 |
+| 26 | [左邊的人](https://open.spotify.com/track/1n6zzsU50f2nGCvCD7UMx6) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [左邊的人](https://open.spotify.com/album/4J9l1jwAMA1M6rQ1qb2MVq) | 3:36 |
 | 27 | [一萬公里外的你 \(Acoustic\)](https://open.spotify.com/track/552mGoI859GSkBonycZohA) | [Juice Boy](https://open.spotify.com/artist/2PRHe0bqimdQP9pSORGE6H), [PIZZALI](https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7) | [一萬公里外的你 \(Acoustic\)](https://open.spotify.com/album/38Qh0wQ32ixfQ8V5rx7jmt) | 2:44 |
 | 28 | [芬蘭距離](https://open.spotify.com/track/1OvQbBToQ5gMPs7bwqUbbz) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [《不夠善良的我們 : 戲劇音樂設計專輯》](https://open.spotify.com/album/0pH2VtQLa0T3G3ZoHSFgeC) | 5:49 |
 | 29 | [等待你那天](https://open.spotify.com/track/7EXbutggsR2KP5klyOZeE0) | [呂允](https://open.spotify.com/artist/0IOTVYHqENzrhSgJQmIkE9) | [等待你那天](https://open.spotify.com/album/5UqskmXa3TihM95voWWhTw) | 4:00 |

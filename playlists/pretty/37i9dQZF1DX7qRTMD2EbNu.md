@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover: Kweku Smoke
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,034 likes - 70 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,060 likes - 70 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 69 | [Good Girl \(Evandy Girl\)](https://open.spotify.com/track/0S7PJaI9wUdua6uafHV9Xh) | [DJ Vyrusky](https://open.spotify.com/artist/20uZPZ6EXItffkdLevoEdV), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Shaker](https://open.spotify.com/artist/5I1G1MSxXh3zrZsVZCPzZj) | [Good Girl \(Evandy Girl\)](https://open.spotify.com/album/0qP1Ep1na1g15udNUiIXOo) | 2:09 |
 | 70 | [Grenade](https://open.spotify.com/track/0nWYAK1qFKvHbgxrFTk9K2) | [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [Grenade](https://open.spotify.com/album/0OiEbUGg5kepKCT4CAVpmW) | 3:13 |
 
-Snapshot ID: `AAAAAG/tFsqYV7SUoHTYVz7+6x/Hnxor`
+Snapshot ID: `AAAAANcJtiYvzRftFN5VKvC4gxWPUhQN`

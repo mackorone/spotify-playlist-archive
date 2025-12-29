@@ -1,12 +1,12 @@
 {
   "description": "This is Bruce Springsteen. The essential tracks, all in one playlist.",
-  "num_followers": 660136,
+  "num_followers": 660164,
   "original_name": "This Is Bruce Springsteen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU3QAAAAAAAsNwxFE5fcjq2rH4zSCgWq",
+  "snapshot_id": "aU8hgAAAAAAPV7dc7ni53IO/2PWkXiox",
   "tracks": [
     {
       "added_at": null,
@@ -799,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Letter To You",
-        "url": "https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 209306,
-      "name": "I'll See You In My Dreams",
-      "url": "https://open.spotify.com/track/2uI2KlfpxGGVnLnpNWdhHS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Only the Strong Survive",
         "url": "https://open.spotify.com/album/4XJaXh57G3rZtAzqeVZSfn"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 147040,
       "name": "Do I Love You (Indeed I Do)",
       "url": "https://open.spotify.com/track/0NdXIfsa0zFZDcCVpUfHQi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Letter To You",
+        "url": "https://open.spotify.com/album/5devPxQnSKVF2Ed0CVwQZh"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 209306,
+      "name": "I'll See You In My Dreams",
+      "url": "https://open.spotify.com/track/2uI2KlfpxGGVnLnpNWdhHS"
     }
   ],
   "unique_name": "This Is Bruce Springsteen",

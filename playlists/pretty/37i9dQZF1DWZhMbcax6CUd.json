@@ -1,6 +1,6 @@
 {
   "description": "Explore the great works of Maurice Ravel.",
-  "num_followers": 71768,
+  "num_followers": 71781,
   "original_name": "This Is Ravel",
   "owner": {
     "name": "Spotify",
@@ -407,26 +407,6 @@
     {
       "added_at": "2025-12-22 11:30:42",
       "album": {
-        "name": "Ravel: Fragments",
-        "url": "https://open.spotify.com/album/2dEZ88vUwYQVA8cv3UMeQk"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Bertrand Chamayou",
-          "url": "https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp"
-        }
-      ],
-      "duration_ms": 77600,
-      "name": "Ravel: Chanson de la mari\u00e9e",
-      "url": "https://open.spotify.com/track/6tdE3qCLXbRBiqRGiYwXLU"
-    },
-    {
-      "added_at": "2025-12-22 11:30:42",
-      "album": {
         "name": "Ravel: Berceuse sur le nom de Gabriel Faur\u00e9",
         "url": "https://open.spotify.com/album/25tKiRUbUwyTlioCEkUlJa"
       },
@@ -447,8 +427,8 @@
     {
       "added_at": "2025-12-22 11:30:42",
       "album": {
-        "name": "Scarlatti, Chopin, Liszt, Ravel, Grieg & Schubert: Piano Works",
-        "url": "https://open.spotify.com/album/41FxpHotQ6ig4nsbjUTOmD"
+        "name": "Ravel: Fragments",
+        "url": "https://open.spotify.com/album/2dEZ88vUwYQVA8cv3UMeQk"
       },
       "artists": [
         {
@@ -456,13 +436,13 @@
           "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
         },
         {
-          "name": "Lucas Debargue",
-          "url": "https://open.spotify.com/artist/3gGFrz3hjzLPTKFwjzfm3n"
+          "name": "Bertrand Chamayou",
+          "url": "https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp"
         }
       ],
-      "duration_ms": 416786,
-      "name": "Gaspard de la Nuit, M. 55: 1. Ondine - Live",
-      "url": "https://open.spotify.com/track/4GrQ7WEfpye1LcTNEuc5KC"
+      "duration_ms": 77600,
+      "name": "Ravel: Chanson de la mari\u00e9e",
+      "url": "https://open.spotify.com/track/6tdE3qCLXbRBiqRGiYwXLU"
     },
     {
       "added_at": "2025-12-22 11:30:42",
@@ -483,6 +463,26 @@
       "duration_ms": 611466,
       "name": "Gaspard de la Nuit, M. 55: 3. Scarbo - Live",
       "url": "https://open.spotify.com/track/2TWGl3huamXIEmBzHQAszr"
+    },
+    {
+      "added_at": "2025-12-22 11:30:42",
+      "album": {
+        "name": "Scarlatti, Chopin, Liszt, Ravel, Grieg & Schubert: Piano Works",
+        "url": "https://open.spotify.com/album/41FxpHotQ6ig4nsbjUTOmD"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Lucas Debargue",
+          "url": "https://open.spotify.com/artist/3gGFrz3hjzLPTKFwjzfm3n"
+        }
+      ],
+      "duration_ms": 416786,
+      "name": "Gaspard de la Nuit, M. 55: 1. Ondine - Live",
+      "url": "https://open.spotify.com/track/4GrQ7WEfpye1LcTNEuc5KC"
     },
     {
       "added_at": "2025-12-22 11:30:42",
@@ -591,6 +591,30 @@
     {
       "added_at": "2025-12-22 11:30:42",
       "album": {
+        "name": "Mikko Franck Plays Ravel",
+        "url": "https://open.spotify.com/album/6c3oGoxumzF4FILKCMwWUy"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Mikko Franck",
+          "url": "https://open.spotify.com/artist/4NDdDDmlbZ0CNT7rxKUPGq"
+        },
+        {
+          "name": "Orchestre Philharmonique de Radio France",
+          "url": "https://open.spotify.com/artist/2Mwa328GasJUju1YNDLSXd"
+        }
+      ],
+      "duration_ms": 149693,
+      "name": "L'enfant et les sortil\u00e8ges, M. 71, Tab. I: \"J'ai pas envie de faire ma page\" (L'enfant)",
+      "url": "https://open.spotify.com/track/2SN7i9WR8xdfgzWioHMfFK"
+    },
+    {
+      "added_at": "2025-12-22 11:30:42",
+      "album": {
         "name": "Saint-Sa\u00ebns, Ravel & Gershwin: Piano Concertos",
         "url": "https://open.spotify.com/album/6VSsWHlosgJ4sVTJxir9ve"
       },
@@ -615,30 +639,6 @@
       "duration_ms": 563960,
       "name": "Ravel: Piano Concerto in G Major, M. 83: II. Adagio assai",
       "url": "https://open.spotify.com/track/290yNtxtichwwjU8n7NEGm"
-    },
-    {
-      "added_at": "2025-12-22 11:30:42",
-      "album": {
-        "name": "Mikko Franck Plays Ravel",
-        "url": "https://open.spotify.com/album/6c3oGoxumzF4FILKCMwWUy"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Mikko Franck",
-          "url": "https://open.spotify.com/artist/4NDdDDmlbZ0CNT7rxKUPGq"
-        },
-        {
-          "name": "Orchestre Philharmonique de Radio France",
-          "url": "https://open.spotify.com/artist/2Mwa328GasJUju1YNDLSXd"
-        }
-      ],
-      "duration_ms": 149693,
-      "name": "L'enfant et les sortil\u00e8ges, M. 71, Tab. I: \"J'ai pas envie de faire ma page\" (L'enfant)",
-      "url": "https://open.spotify.com/track/2SN7i9WR8xdfgzWioHMfFK"
     },
     {
       "added_at": "2025-12-22 11:30:42",
@@ -791,26 +791,6 @@
     {
       "added_at": "2025-12-22 11:30:42",
       "album": {
-        "name": "Ravel: Piano Works",
-        "url": "https://open.spotify.com/album/5phrFBt57B9GJnJzp14HMq"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Pascal Rog\u00e9",
-          "url": "https://open.spotify.com/artist/5X5cGjYEmKnuihYXEePQcs"
-        }
-      ],
-      "duration_ms": 440333,
-      "name": "Miroirs, M. 43: III. Une barque sur l'oc\u00e9an",
-      "url": "https://open.spotify.com/track/3vHTIkYy6i07T0xO1TzpqD"
-    },
-    {
-      "added_at": "2025-12-22 11:30:42",
-      "album": {
         "name": "Ravel: String Quartet, Violin Sonata & Piano Trio",
         "url": "https://open.spotify.com/album/6HmzLIkB5r7UXsaWQQqMFm"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 294666,
       "name": "Piano Trio, M. 67: IV. Final. Anim\u00e9",
       "url": "https://open.spotify.com/track/6OGBzp88a83KLh1TmYzUai"
+    },
+    {
+      "added_at": "2025-12-22 11:30:42",
+      "album": {
+        "name": "Ravel: Piano Works",
+        "url": "https://open.spotify.com/album/5phrFBt57B9GJnJzp14HMq"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Pascal Rog\u00e9",
+          "url": "https://open.spotify.com/artist/5X5cGjYEmKnuihYXEePQcs"
+        }
+      ],
+      "duration_ms": 440333,
+      "name": "Miroirs, M. 43: III. Une barque sur l'oc\u00e9an",
+      "url": "https://open.spotify.com/track/3vHTIkYy6i07T0xO1TzpqD"
     },
     {
       "added_at": "2025-12-22 11:30:42",
@@ -1199,26 +1199,6 @@
     {
       "added_at": "2025-12-22 11:30:42",
       "album": {
-        "name": "Ravel: Piano Concerto in G; Gaspard de la Nuit; Sonatine",
-        "url": "https://open.spotify.com/album/6J1hCTGDIUwP4kSQVCQWxu"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Martha Argerich",
-          "url": "https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4"
-        }
-      ],
-      "duration_ms": 217533,
-      "name": "Sonatine, M. 40: III. Anim\u00e9",
-      "url": "https://open.spotify.com/track/2q0eEwj3Eq82Yhg7Doxost"
-    },
-    {
-      "added_at": "2025-12-22 11:30:42",
-      "album": {
         "name": "Ravel: Le tombeau de Couperin, M. 68: I. Pr\u00e9lude",
         "url": "https://open.spotify.com/album/4OE4jCTEkXvvUmxd9Wr2BN"
       },
@@ -1235,6 +1215,26 @@
       "duration_ms": 194440,
       "name": "Le tombeau de Couperin, M. 68: I. Pr\u00e9lude",
       "url": "https://open.spotify.com/track/5ixybLqj9SxEB9mPvlHfET"
+    },
+    {
+      "added_at": "2025-12-22 11:30:42",
+      "album": {
+        "name": "Ravel: Piano Concerto in G; Gaspard de la Nuit; Sonatine",
+        "url": "https://open.spotify.com/album/6J1hCTGDIUwP4kSQVCQWxu"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Martha Argerich",
+          "url": "https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4"
+        }
+      ],
+      "duration_ms": 217533,
+      "name": "Sonatine, M. 40: III. Anim\u00e9",
+      "url": "https://open.spotify.com/track/2q0eEwj3Eq82Yhg7Doxost"
     },
     {
       "added_at": "2025-12-22 11:30:42",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2025-12-22 11:30:42",
       "album": {
-        "name": "Ravel: Complete Works for Solo Piano",
-        "url": "https://open.spotify.com/album/5Ui8Uj9oHn2yT7Duo0welM"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Bertrand Chamayou",
-          "url": "https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp"
-        }
-      ],
-      "duration_ms": 366333,
-      "name": "Ravel: Miroirs, M. 43: V. La vall\u00e9e des cloches",
-      "url": "https://open.spotify.com/track/1vRDKkxMscAH1o8emcDbcw"
-    },
-    {
-      "added_at": "2025-12-22 11:30:42",
-      "album": {
         "name": "Ravel: Ma M\u00e8re L'Oye; Bol\u00e9ro etc.",
         "url": "https://open.spotify.com/album/6nOlQ6TzBqM52Gqh3i16p4"
       },
@@ -1343,6 +1323,26 @@
       "duration_ms": 209000,
       "name": "Ma m\u00e8re l'oye, Ballet, M. 62: XI. Apoth\u00e9ose. Le jardin f\u00e9erique",
       "url": "https://open.spotify.com/track/6xEBSvLDWaFinm8v3NZQCX"
+    },
+    {
+      "added_at": "2025-12-22 11:30:42",
+      "album": {
+        "name": "Ravel: Complete Works for Solo Piano",
+        "url": "https://open.spotify.com/album/5Ui8Uj9oHn2yT7Duo0welM"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Bertrand Chamayou",
+          "url": "https://open.spotify.com/artist/28Bn2PxtmXD8UbBSM968Fp"
+        }
+      ],
+      "duration_ms": 366333,
+      "name": "Ravel: Miroirs, M. 43: V. La vall\u00e9e des cloches",
+      "url": "https://open.spotify.com/track/1vRDKkxMscAH1o8emcDbcw"
     },
     {
       "added_at": "2025-12-22 11:30:42",

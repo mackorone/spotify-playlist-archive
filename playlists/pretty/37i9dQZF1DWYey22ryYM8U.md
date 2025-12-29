@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYey22ryYM8U.md) - [plain]
 
 > Las más pegadas\. Cover: Alleh & Yorghaki
 
-[Spotify](https://open.spotify.com/user/spotify) - 695,327 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 695,319 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYey22ryYM8U.md) - [plain]
 | 15 | [Conteo Regresivo \- Salsa Version](https://open.spotify.com/track/37nXsqE1XW0cxOQvIMsmFc) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Contraste](https://open.spotify.com/album/00LOUiA5823qxkOcHiio0W) | 4:26 |
 | 16 | [Vagabundo](https://open.spotify.com/track/1MB8kTH7VKvAMfL9SHgJmG) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Vagabundo](https://open.spotify.com/album/0Rl1vI3oOOh3rylfBLiemc) | 3:35 |
 | 17 | [El Merengue](https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [El Merengue](https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP) | 3:09 |
-| 18 | [QUE HACES](https://open.spotify.com/track/4ad3yFpPEMFLnvCtvbman5) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [QUE HACES](https://open.spotify.com/album/4QXhhpipr4vVZz8gmlXceJ) | 2:51 |
-| 19 | [Con otra](https://open.spotify.com/track/38EGs4h8GqgrS1HT344SCQ) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Con otra](https://open.spotify.com/album/2waOhmvYhyi4AAlS3mLLaD) | 3:51 |
+| 18 | [Con otra](https://open.spotify.com/track/38EGs4h8GqgrS1HT344SCQ) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Con otra](https://open.spotify.com/album/2waOhmvYhyi4AAlS3mLLaD) | 3:51 |
+| 19 | [QUE HACES](https://open.spotify.com/track/4ad3yFpPEMFLnvCtvbman5) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [QUE HACES](https://open.spotify.com/album/4QXhhpipr4vVZz8gmlXceJ) | 2:51 |
 | 20 | [Bachata En Fukuoka](https://open.spotify.com/track/6IfMD01z39P15HKezjdaMP) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Asondeguerra](https://open.spotify.com/album/2LqYd5gIJxEvG5md8kGeyL) | 3:11 |
 | 21 | [Ven Devórame Otra Vez](https://open.spotify.com/track/2HbmLkHkkI15eES8kpWRuI) | [Lalo Rodriguez](https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U) | [Oro Salsero](https://open.spotify.com/album/21W5Yp75UyOaWI2QALA7PS) | 5:11 |
 | 22 | [Hoy](https://open.spotify.com/track/0SoBfYjQHvL6cuWHtPUYnq) | [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Hoy](https://open.spotify.com/album/4ENi7P1IV01E2jzbHZeKxn) | 3:18 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYey22ryYM8U.md) - [plain]
 | 37 | [SI ES AMOR](https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [@dannocean](https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA) | 3:32 |
 | 38 | [Tu Sonrisa](https://open.spotify.com/track/3IS5IWZuDJJdqBJ9XVqpbh) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Suavemente](https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os) | 4:34 |
 | 39 | [Arranca \(feat\. Omega\)](https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [Arranca \(feat\. Omega\)](https://open.spotify.com/album/3d0XlD9jrpNetVgDfsErG4) | 2:46 |
-| 40 | [Qué Pecao](https://open.spotify.com/track/456U68M8lIymkz56Zroxh8) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Qué Pecao](https://open.spotify.com/album/753zWh3I26DZ8pCOfJFZfA) | 3:50 |
-| 41 | [HOLA PERDIDA REMIX](https://open.spotify.com/track/2FqTbwiogEVvZnkarPf5BV) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [HOLA PERDIDA REMIX](https://open.spotify.com/album/5s4gYQChmlp8YwoNj3Vwi2) | 3:21 |
+| 40 | [HOLA PERDIDA REMIX](https://open.spotify.com/track/2FqTbwiogEVvZnkarPf5BV) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [HOLA PERDIDA REMIX](https://open.spotify.com/album/5s4gYQChmlp8YwoNj3Vwi2) | 3:21 |
+| 41 | [Qué Pecao](https://open.spotify.com/track/456U68M8lIymkz56Zroxh8) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Qué Pecao](https://open.spotify.com/album/753zWh3I26DZ8pCOfJFZfA) | 3:50 |
 | 42 | [LA CAPI](https://open.spotify.com/track/68OXeY9CUQebrOAAh3b3Jw) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 3:22 |
 | 43 | [COCO LOCO](https://open.spotify.com/track/3kmWIej9tXjSWWYc9tPjJk) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [COCO LOCO](https://open.spotify.com/album/21HEULXdjdbOsXoR0ajBeB) | 2:46 |
 | 44 | [La Boda](https://open.spotify.com/track/4vj6sWvmBLMhoF8AWQSeHX) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [cuatro](https://open.spotify.com/album/1IwCEfVYg8KlEankYmqeP7) | 4:09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VmDYs.md) - [plain]
 
 > This is Weezer\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,441 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,467 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VmDYs.md) - [plain]
 | 38 | [Don't Let Go](https://open.spotify.com/track/7HFC0t4r97pMHDRrv7lo7k) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 2:59 |
 | 39 | [Keep Fishin'](https://open.spotify.com/track/1ljTFrbwY1ojpfd6bAmPTZ) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Maladroit](https://open.spotify.com/album/274YHaMmctXWht39Olh8ub) | 2:52 |
 | 40 | [Mr\. Blue Sky](https://open.spotify.com/track/7ptKh9V0xt8CjLn0Z7ZgYd) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(Teal Album\)](https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN) | 4:46 |
-| 41 | [Feels Like Summer](https://open.spotify.com/track/2jz1bw1p0WQj0PDnVDP0uY) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pacific Daydream](https://open.spotify.com/album/3EwfQtjvyRAXsPWAKO5FDP) | 3:15 |
+| 41 | [Waiting On You](https://open.spotify.com/track/3ovTVlWIAzB1XGG8dWPtFl) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pinkerton \- Deluxe Edition](https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz) | 4:11 |
 | 42 | [Knockdown Dragout](https://open.spotify.com/track/1cm3a22bsdWVpHlGJO7yl2) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 2:08 |
 | 43 | [Dope Nose](https://open.spotify.com/track/741oLronOsunwlx4MSZ6YY) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Maladroit](https://open.spotify.com/album/274YHaMmctXWht39Olh8ub) | 2:17 |
-| 44 | [Waiting On You](https://open.spotify.com/track/3ovTVlWIAzB1XGG8dWPtFl) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pinkerton \- Deluxe Edition](https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz) | 4:11 |
+| 44 | [Feels Like Summer](https://open.spotify.com/track/2jz1bw1p0WQj0PDnVDP0uY) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pacific Daydream](https://open.spotify.com/album/3EwfQtjvyRAXsPWAKO5FDP) | 3:15 |
 | 45 | [A Little Bit of Love](https://open.spotify.com/track/0eLXFaZoGjVbzNmMd4LpmA) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [A Little Bit of Love](https://open.spotify.com/album/5PN3w2kkPaP3ZDVUtwebge) | 2:44 |
-| 46 | [Memories](https://open.spotify.com/track/4nyW57HDLKNziNAwl15jKz) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Hurley \(Deluxe Edition\)](https://open.spotify.com/album/1FXneUyo0D1lnMZ0Nv3sw8) | 3:14 |
-| 47 | [Do You Wanna Get High?](https://open.spotify.com/track/5IJ6rniX2mkT2ITklBSx6a) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(White Album\)](https://open.spotify.com/album/6StNTJJ7Yq3Hf121kLvPBz) | 3:27 |
-| 48 | [You Won't Get With Me Tonight](https://open.spotify.com/track/2ywyHcaPWCOHopio9QsWmE) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pinkerton \- Deluxe Edition](https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz) | 3:29 |
+| 46 | [You Won't Get With Me Tonight](https://open.spotify.com/track/2ywyHcaPWCOHopio9QsWmE) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pinkerton \- Deluxe Edition](https://open.spotify.com/album/56LtTJnIBlgf4obkP13Skz) | 3:29 |
+| 47 | [Memories](https://open.spotify.com/track/4nyW57HDLKNziNAwl15jKz) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Hurley \(Deluxe Edition\)](https://open.spotify.com/album/1FXneUyo0D1lnMZ0Nv3sw8) | 3:14 |
+| 48 | [Do You Wanna Get High?](https://open.spotify.com/track/5IJ6rniX2mkT2ITklBSx6a) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(White Album\)](https://open.spotify.com/album/6StNTJJ7Yq3Hf121kLvPBz) | 3:27 |
 | 49 | [Dark Enough to See the Stars](https://open.spotify.com/track/2qp9ar5F0369WhoBgEZfZF) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [SZNZ: Winter](https://open.spotify.com/album/2WJsNhU7H0rZQzWdMVQ4NV) | 2:36 |
 | 50 | [This Is Such A Pity](https://open.spotify.com/track/1Gg2fM3kis2b3egi64bsDd) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Make Believe](https://open.spotify.com/album/4D8A8M0NJjEdQhusawyeDz) | 3:25 |
 
-Snapshot ID: `aU3QAAAAAADyaJepEec7W29P1/5f4RQw`
+Snapshot ID: `aU8hgAAAAAB/5gGDfg5pChLRQZxBgfux`

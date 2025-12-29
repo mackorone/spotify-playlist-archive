@@ -2786,7 +2786,7 @@
       ],
       "date_added": "2025-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-28",
+      "date_removed": null,
       "duration_ms": 132170,
       "name": "At\u00e9 Quebrar a Cama 2.0",
       "url": "https://open.spotify.com/track/7aOv4uSAmiB9XKnkibqSdo"
@@ -7456,7 +7456,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-20",
+      "date_removed": null,
       "duration_ms": 216837,
       "name": "Cirug\u00eda",
       "url": "https://open.spotify.com/track/0uFRDicafe9Gto0v2pk3kT"
@@ -12596,7 +12596,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 322680,
       "name": "En Su Nota",
       "url": "https://open.spotify.com/track/7DWgF6bsbk9ITB91GfGK6N"
@@ -12618,7 +12618,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 243409,
       "name": "En Tu Lugar",
       "url": "https://open.spotify.com/track/0yXVHnHLmcx1KI7oqLQhtQ"
@@ -13498,7 +13498,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 141600,
       "name": "Everything Is Romantic",
       "url": "https://open.spotify.com/track/7250RSp7sakMDZoeXuywlx"
@@ -13684,7 +13684,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 128230,
       "name": "Facto tras Facto",
       "url": "https://open.spotify.com/track/3pXeSwZgE5kkHrb70AkkKd"
@@ -16072,7 +16072,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 113513,
       "name": "GOZALO",
       "url": "https://open.spotify.com/track/7hl1REazG2eMQwYLEsMhhz"
@@ -18292,7 +18292,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-27",
+      "date_removed": null,
       "duration_ms": 245440,
       "name": "in the pool",
       "url": "https://open.spotify.com/track/1AvuBt1hrjsHeBxFX91Rn6"
@@ -20174,6 +20174,24 @@
       "duration_ms": 214668,
       "name": "LE PED\u00cd A DIOS",
       "url": "https://open.spotify.com/track/0u5j4aF91HDisFFExlgtdi"
+    },
+    {
+      "album": {
+        "name": "CORRIDOS NIVEL 13",
+        "url": "https://open.spotify.com/album/3yXzfeE70ltHxwtvCRiwA5"
+      },
+      "artists": [
+        {
+          "name": "NACHO CASTILLO",
+          "url": "https://open.spotify.com/artist/3gInyXc0GJS9jFvlRXEc3H"
+        }
+      ],
+      "date_added": "2025-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164959,
+      "name": "Le pregunte al tiempo",
+      "url": "https://open.spotify.com/track/0AYrNVZh3JMeBS5kY5wXhO"
     },
     {
       "album": {
@@ -24194,7 +24212,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 105437,
       "name": "mirrors demo",
       "url": "https://open.spotify.com/track/5Jh7Gc5aF6leolD64pNRD5"
@@ -28112,7 +28130,7 @@
       ],
       "date_added": "2025-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 250960,
       "name": "Oh Lord",
       "url": "https://open.spotify.com/track/5iJU96441eAZ2VdWgxdyJa"
@@ -31118,7 +31136,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-25",
+      "date_removed": null,
       "duration_ms": 139578,
       "name": "Pu\u00f1aladas",
       "url": "https://open.spotify.com/track/4AL4EamHEBKPpdcFRkYdXN"
@@ -31814,6 +31832,24 @@
       "duration_ms": 107076,
       "name": "Rabet\u00e3o De Terremoto",
       "url": "https://open.spotify.com/track/4swtnATsndB7VJVq0n4EQE"
+    },
+    {
+      "album": {
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/6LhMCZ3grywqUzh5LH2CND"
+      },
+      "artists": [
+        {
+          "name": "Bershy",
+          "url": "https://open.spotify.com/artist/6iW8bv3aUP8Dte1KnMBH8c"
+        }
+      ],
+      "date_added": "2025-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201853,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/6jppHdy8EW9ghHlOCpGBEr"
     },
     {
       "album": {
@@ -35698,6 +35734,24 @@
       "duration_ms": 137000,
       "name": "Sou Baiana",
       "url": "https://open.spotify.com/track/2jOOrtPppgKV7ELxy4KmpD"
+    },
+    {
+      "album": {
+        "name": "Soy Favela",
+        "url": "https://open.spotify.com/album/1S3ANUh7napknhM3pqConG"
+      },
+      "artists": [
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "date_added": "2025-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Soy Favela",
+      "url": "https://open.spotify.com/track/3TfRpsYPQSXqqramSoWlNg"
     },
     {
       "album": {

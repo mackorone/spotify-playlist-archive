@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5CWXyjHfBmLsy0Cm7g20uO.md) - [plain]
 
 > Dive into the heart of indie and alternative rock with our handpicked playlist\. Discover raw energy, powerful riffs, and the soulful essence of independent rock music\. Rock on!
 
-[Indie Music](https://open.spotify.com/user/eqiomkuuw0lc4nplre0xyx9dg) - 777 likes - 140 songs - 8 hr 43 min
+[Indie Music](https://open.spotify.com/user/eqiomkuuw0lc4nplre0xyx9dg) - 776 likes - 140 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

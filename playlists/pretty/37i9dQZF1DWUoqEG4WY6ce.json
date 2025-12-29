@@ -1,6 +1,6 @@
 {
   "description": "Hop in.",
-  "num_followers": 1169990,
+  "num_followers": 1170055,
   "original_name": "Indie Rock Road Trip",
   "owner": {
     "name": "Spotify",
@@ -383,6 +383,22 @@
     {
       "added_at": "2025-06-23 14:31:12",
       "album": {
+        "name": "The Slow Rush",
+        "url": "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 249586,
+      "name": "Lost In Yesterday",
+      "url": "https://open.spotify.com/track/5JWPUEov2wlX7c0jhYZpeB"
+    },
+    {
+      "added_at": "2025-06-23 14:31:12",
+      "album": {
         "name": "Fever To Tell (Deluxe Remastered)",
         "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 140178,
       "name": "We're Going to Be Friends",
       "url": "https://open.spotify.com/track/13lZDbwonGhOflQLQIfdtZ"
-    },
-    {
-      "added_at": "2025-06-23 14:31:12",
-      "album": {
-        "name": "The Slow Rush",
-        "url": "https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 249586,
-      "name": "Lost In Yesterday",
-      "url": "https://open.spotify.com/track/5JWPUEov2wlX7c0jhYZpeB"
     },
     {
       "added_at": "2025-06-23 14:31:12",
@@ -463,22 +463,6 @@
     {
       "added_at": "2025-06-23 14:31:12",
       "album": {
-        "name": "This Is All Yours",
-        "url": "https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a"
-      },
-      "artists": [
-        {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
-        }
-      ],
-      "duration_ms": 173630,
-      "name": "Left Hand Free",
-      "url": "https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN"
-    },
-    {
-      "added_at": "2025-06-23 14:31:12",
-      "album": {
         "name": "Boys",
         "url": "https://open.spotify.com/album/00CYAyKNYKcxoszMmhAI6G"
       },
@@ -495,34 +479,18 @@
     {
       "added_at": "2025-06-23 14:31:12",
       "album": {
-        "name": "Cub",
-        "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
+        "name": "This Is All Yours",
+        "url": "https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a"
       },
       "artists": [
         {
-          "name": "Wunderhorse",
-          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
         }
       ],
-      "duration_ms": 202653,
-      "name": "Purple",
-      "url": "https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz"
-    },
-    {
-      "added_at": "2025-06-23 14:31:12",
-      "album": {
-        "name": "Brothers",
-        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 191800,
-      "name": "Howlin' for You",
-      "url": "https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4"
+      "duration_ms": 173630,
+      "name": "Left Hand Free",
+      "url": "https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN"
     },
     {
       "added_at": "2025-06-23 14:31:12",
@@ -543,18 +511,34 @@
     {
       "added_at": "2025-06-23 14:31:12",
       "album": {
-        "name": "People Watching",
-        "url": "https://open.spotify.com/album/6Abecbed8BYAdHy9RaVoY7"
+        "name": "Brothers",
+        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
       },
       "artists": [
         {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 234560,
-      "name": "Little Bit Closer",
-      "url": "https://open.spotify.com/track/3y6DzVmGrnOEftEgBKb3fq"
+      "duration_ms": 191800,
+      "name": "Howlin' for You",
+      "url": "https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4"
+    },
+    {
+      "added_at": "2025-06-23 14:31:12",
+      "album": {
+        "name": "Cub",
+        "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
+      },
+      "artists": [
+        {
+          "name": "Wunderhorse",
+          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
+        }
+      ],
+      "duration_ms": 202653,
+      "name": "Purple",
+      "url": "https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz"
     },
     {
       "added_at": "2025-06-23 14:31:12",
@@ -571,6 +555,22 @@
       "duration_ms": 218786,
       "name": "Hang Me Up To Dry",
       "url": "https://open.spotify.com/track/3IXRdLsQib8m0hBbQpe7T8"
+    },
+    {
+      "added_at": "2025-06-23 14:31:12",
+      "album": {
+        "name": "People Watching",
+        "url": "https://open.spotify.com/album/6Abecbed8BYAdHy9RaVoY7"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 234560,
+      "name": "Little Bit Closer",
+      "url": "https://open.spotify.com/track/3y6DzVmGrnOEftEgBKb3fq"
     },
     {
       "added_at": "2025-06-23 14:31:12",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2025-06-23 14:31:12",
       "album": {
-        "name": "More More More",
-        "url": "https://open.spotify.com/album/2gVSL0UNZknT1leTnK46Pz"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 192753,
-      "name": "More More More",
-      "url": "https://open.spotify.com/track/3l8t8MTOomTwvN7I4dc0LZ"
-    },
-    {
-      "added_at": "2025-06-23 14:31:12",
-      "album": {
         "name": "Stella Brown",
         "url": "https://open.spotify.com/album/5eCpoxWpC7zBCXLDbVyIzc"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 187415,
       "name": "Stella Brown",
       "url": "https://open.spotify.com/track/4gwltSjdrzKtKz9dlk2Wja"
+    },
+    {
+      "added_at": "2025-06-23 14:31:12",
+      "album": {
+        "name": "More More More",
+        "url": "https://open.spotify.com/album/2gVSL0UNZknT1leTnK46Pz"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 192753,
+      "name": "More More More",
+      "url": "https://open.spotify.com/track/3l8t8MTOomTwvN7I4dc0LZ"
     },
     {
       "added_at": "2025-06-23 14:31:12",

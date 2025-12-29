@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 
 > The Country Coffeehouse is open! Grab a cup and lean back to some low\-key country.
 
-[Spotify](https://open.spotify.com/user/spotify) - 735,682 likes - 75 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 735,684 likes - 75 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 | 25 | [Sunday Drive](https://open.spotify.com/track/2TIdEu4aruzo33MTEUDGcf) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Sunday Drive](https://open.spotify.com/album/5am18BIdjp6lOvt9KjKbSd) | 4:53 |
 | 26 | [Leave Me Again](https://open.spotify.com/track/5r4sq0H3vzRIqnI7yystIo) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat](https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH) | 2:58 |
 | 27 | [Love You To Death](https://open.spotify.com/track/5xQTEPjGsLuvwnnvyK3fAA) | [Chord Overstreet](https://open.spotify.com/artist/5D3muNJhYYunbRkh3FKgX0) | [Love You To Death](https://open.spotify.com/album/4vP2ZDfafpuIZoAI9rofKv) | 3:19 |
-| 28 | [Pack My Hometown](https://open.spotify.com/track/7IAmh4baSztXaPd0gncWwK) | [Eli Winders](https://open.spotify.com/artist/1FrotTX0L8LcXNxuigzB0w) | [Pack My Hometown](https://open.spotify.com/album/7hqgRwJjA5rjc4XL61T20i) | 3:11 |
-| 29 | [Far From Home](https://open.spotify.com/track/54tkmrvf1ejo3ejAHuVgq1) | [Aubrie Sellers](https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u) | [Far from Home](https://open.spotify.com/album/6EgZXWhzIYtXFo1vhKg5Ch) | 3:07 |
+| 28 | [Far From Home](https://open.spotify.com/track/54tkmrvf1ejo3ejAHuVgq1) | [Aubrie Sellers](https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u) | [Far from Home](https://open.spotify.com/album/6EgZXWhzIYtXFo1vhKg5Ch) | 3:07 |
+| 29 | [Pack My Hometown](https://open.spotify.com/track/7IAmh4baSztXaPd0gncWwK) | [Eli Winders](https://open.spotify.com/artist/1FrotTX0L8LcXNxuigzB0w) | [Pack My Hometown](https://open.spotify.com/album/7hqgRwJjA5rjc4XL61T20i) | 3:11 |
 | 30 | [MARILYN](https://open.spotify.com/track/6XKJyrLsAJh65mQCWttTtg) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [SUBJECT TO CHANGE](https://open.spotify.com/album/6twfTQ122kNcHAUXjFbe8a) | 3:26 |
 | 31 | [Dreams \- The Campfire Sessions](https://open.spotify.com/track/0dZeiSrApr5SAkrH5rQaRH) | [Sarah Darling](https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX) | [Dreams \(The Campfire Sessions\)](https://open.spotify.com/album/1of3ww3gH47OlImOLsDAgb) | 3:46 |
 | 32 | [Wild Honey](https://open.spotify.com/track/2ekYJOliaYZ2zUb3XlLs5V) | [Anna Vaus](https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1) | [Wild Honey](https://open.spotify.com/album/26BCtlHD1X80TZqJ5O2Mrc) | 3:33 |

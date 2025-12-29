@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0J2sZQ1dV6f.md) - [plain]
 
 > Bien alucin con el electro, la nueva ola de la fiesta\. Cover: Jimmy Guzman, Alan Arrieta
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,726 likes - 104 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,728 likes - 104 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0J2sZQ1dV6f.md) - [plain]
 | 103 | [DURO](https://open.spotify.com/track/7D2pw1k24KdVVRkD2RzXoV) | [Sangre X Sangre](https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew), [Millonario](https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD), [Joe Parra](https://open.spotify.com/artist/4LNplGwxBLbTCrVdxnTmOR) | [DURO](https://open.spotify.com/album/7s3uEJa4VwAiij9v3N0DMW) | 2:45 |
 | 104 | [En El Audi](https://open.spotify.com/track/0gTkZI5TnR1OeNyjTPlccA) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [En El Audi](https://open.spotify.com/album/56FMJya9buOQo6JOlL3s9C) | 3:18 |
 
-Snapshot ID: `AAAAAH8qvBHy8as74FMO/k9O1aA2ciHr`
+Snapshot ID: `AAAAAHZ4JAtVq1OI+ffyWDrwEg9rLtNz`

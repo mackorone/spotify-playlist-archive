@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs of the 1960s. Cover: Aretha Franklin",
-  "num_followers": 3192254,
+  "num_followers": 3192328,
   "original_name": "All Out 60s",
   "owner": {
     "name": "Spotify",
@@ -511,22 +511,6 @@
     {
       "added_at": "2025-03-02 04:45:52",
       "album": {
-        "name": "Strange Days",
-        "url": "https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 130173,
-      "name": "People Are Strange",
-      "url": "https://open.spotify.com/track/1Jmqubf9kGkWeYQXQKImL5"
-    },
-    {
-      "added_at": "2025-03-02 04:45:52",
-      "album": {
         "name": "In The Groove",
         "url": "https://open.spotify.com/album/36VMWZPLjg9rucvMxdA2Pz"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 194293,
       "name": "I Heard It Through The Grapevine",
       "url": "https://open.spotify.com/track/1tqT6DhmsrtQgyCKUwotiw"
+    },
+    {
+      "added_at": "2025-03-02 04:45:52",
+      "album": {
+        "name": "Strange Days",
+        "url": "https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 130173,
+      "name": "People Are Strange",
+      "url": "https://open.spotify.com/track/1Jmqubf9kGkWeYQXQKImL5"
     },
     {
       "added_at": "2025-03-02 04:45:52",
@@ -655,22 +655,6 @@
     {
       "added_at": "2025-03-02 04:45:52",
       "album": {
-        "name": "The Freewheelin' Bob Dylan",
-        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 168756,
-      "name": "Blowin' in the Wind",
-      "url": "https://open.spotify.com/track/18GiV1BaXzPVYpp9rmOg0E"
-    },
-    {
-      "added_at": "2025-03-02 04:45:52",
-      "album": {
         "name": "Wheels Of Fire",
         "url": "https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 298333,
       "name": "White Room",
       "url": "https://open.spotify.com/track/3Xls4cNOwy01dtrNXb1inG"
+    },
+    {
+      "added_at": "2025-03-02 04:45:52",
+      "album": {
+        "name": "The Freewheelin' Bob Dylan",
+        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 168756,
+      "name": "Blowin' in the Wind",
+      "url": "https://open.spotify.com/track/18GiV1BaXzPVYpp9rmOg0E"
     },
     {
       "added_at": "2025-03-02 04:45:52",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2025-03-02 04:45:52",
       "album": {
-        "name": "Electric Ladyland",
-        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
+        "name": "The Birds, The Bees, & The Monkees",
+        "url": "https://open.spotify.com/album/2Ov6zb7NfgDh3EXSIIWrb2"
       },
       "artists": [
         {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+          "name": "The Monkees",
+          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
         }
       ],
-      "duration_ms": 313373,
-      "name": "Voodoo Child (Slight Return)",
-      "url": "https://open.spotify.com/track/2AxCeJ6PSsBYiTckM0HLY7"
+      "duration_ms": 179613,
+      "name": "Daydream Believer",
+      "url": "https://open.spotify.com/track/7uEcCGtM1FBBGIhPozhJjv"
     },
     {
       "added_at": "2025-03-02 04:45:52",
@@ -1039,34 +1039,18 @@
     {
       "added_at": "2025-03-02 04:45:52",
       "album": {
-        "name": "The Birds, The Bees, & The Monkees",
-        "url": "https://open.spotify.com/album/2Ov6zb7NfgDh3EXSIIWrb2"
+        "name": "Electric Ladyland",
+        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
       },
       "artists": [
         {
-          "name": "The Monkees",
-          "url": "https://open.spotify.com/artist/320EPCSEezHt1rtbfwH6Ck"
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 179613,
-      "name": "Daydream Believer",
-      "url": "https://open.spotify.com/track/7uEcCGtM1FBBGIhPozhJjv"
-    },
-    {
-      "added_at": "2025-03-02 04:45:52",
-      "album": {
-        "name": "Under the Boardwalk",
-        "url": "https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM"
-      },
-      "artists": [
-        {
-          "name": "The Drifters",
-          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
-        }
-      ],
-      "duration_ms": 161960,
-      "name": "Under the Boardwalk",
-      "url": "https://open.spotify.com/track/65jrjEhWfAvysKfnojk1i0"
+      "duration_ms": 313373,
+      "name": "Voodoo Child (Slight Return)",
+      "url": "https://open.spotify.com/track/2AxCeJ6PSsBYiTckM0HLY7"
     },
     {
       "added_at": "2025-03-02 04:45:52",
@@ -1087,6 +1071,22 @@
     {
       "added_at": "2025-03-02 04:45:52",
       "album": {
+        "name": "Under the Boardwalk",
+        "url": "https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM"
+      },
+      "artists": [
+        {
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+        }
+      ],
+      "duration_ms": 161960,
+      "name": "Under the Boardwalk",
+      "url": "https://open.spotify.com/track/65jrjEhWfAvysKfnojk1i0"
+    },
+    {
+      "added_at": "2025-03-02 04:45:52",
+      "album": {
         "name": "Showcase",
         "url": "https://open.spotify.com/album/54Ykk8Gg8TuHjLbYvErsKh"
       },
@@ -1103,6 +1103,22 @@
       "duration_ms": 164573,
       "name": "Crazy - Single Version",
       "url": "https://open.spotify.com/track/3zpj9dvJABiyMrmLCPw6i8"
+    },
+    {
+      "added_at": "2025-03-02 04:45:52",
+      "album": {
+        "name": "Where Did Our Love Go",
+        "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
+      },
+      "artists": [
+        {
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+        }
+      ],
+      "duration_ms": 158040,
+      "name": "Baby Love",
+      "url": "https://open.spotify.com/track/5uES1C2NgkdrNHiCwf9jRr"
     },
     {
       "added_at": "2025-03-02 04:45:52",
@@ -1139,22 +1155,6 @@
     {
       "added_at": "2025-03-02 04:45:52",
       "album": {
-        "name": "Where Did Our Love Go",
-        "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
-      },
-      "artists": [
-        {
-          "name": "The Supremes",
-          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
-        }
-      ],
-      "duration_ms": 158040,
-      "name": "Baby Love",
-      "url": "https://open.spotify.com/track/5uES1C2NgkdrNHiCwf9jRr"
-    },
-    {
-      "added_at": "2025-03-02 04:45:52",
-      "album": {
         "name": "The Letter/Neon Rainbow",
         "url": "https://open.spotify.com/album/08mPxuP35Db56jUUgRvGFs"
       },
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2025-03-02 04:45:52",
       "album": {
-        "name": "Nashville Skyline",
-        "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 201387,
-      "name": "Lay, Lady, Lay",
-      "url": "https://open.spotify.com/track/4uYwlMp841PLJmj1gJJwIq"
-    },
-    {
-      "added_at": "2025-03-02 04:45:52",
-      "album": {
         "name": "The Capitol Years",
         "url": "https://open.spotify.com/album/6bpCpvLc2xHLN1Qnx6rzaI"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 145800,
       "name": "Ain't That A Kick In The Head",
       "url": "https://open.spotify.com/track/3ZpTyU4mF3PR9jLpFA3AAC"
+    },
+    {
+      "added_at": "2025-03-02 04:45:52",
+      "album": {
+        "name": "Nashville Skyline",
+        "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 201387,
+      "name": "Lay, Lady, Lay",
+      "url": "https://open.spotify.com/track/4uYwlMp841PLJmj1gJJwIq"
     },
     {
       "added_at": "2025-03-02 04:45:52",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2025-03-02 04:45:52",
       "album": {
-        "name": "Do you Believe In Magic",
-        "url": "https://open.spotify.com/album/5bx2ZHa0KUDMD5T0r9V030"
-      },
-      "artists": [
-        {
-          "name": "The Lovin' Spoonful",
-          "url": "https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe"
-        }
-      ],
-      "duration_ms": 125826,
-      "name": "Do You Believe in Magic?",
-      "url": "https://open.spotify.com/track/1udKn1oNKYQSQ9OmiIWCMu"
-    },
-    {
-      "added_at": "2025-03-02 04:45:52",
-      "album": {
         "name": "Parsley, Sage, Rosemary And Thyme",
         "url": "https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 185626,
       "name": "I Just Want To Make Love To You - Single Version",
       "url": "https://open.spotify.com/track/3QnHWkNMY2mpy494Bis0ly"
+    },
+    {
+      "added_at": "2025-03-02 04:45:52",
+      "album": {
+        "name": "Do you Believe In Magic",
+        "url": "https://open.spotify.com/album/5bx2ZHa0KUDMD5T0r9V030"
+      },
+      "artists": [
+        {
+          "name": "The Lovin' Spoonful",
+          "url": "https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe"
+        }
+      ],
+      "duration_ms": 125826,
+      "name": "Do You Believe in Magic?",
+      "url": "https://open.spotify.com/track/1udKn1oNKYQSQ9OmiIWCMu"
     },
     {
       "added_at": "2025-03-02 04:45:52",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2025-03-02 04:45:52",
       "album": {
-        "name": "Diana Ross Presents The Jackson 5",
-        "url": "https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1"
-      },
-      "artists": [
-        {
-          "name": "The Jackson 5",
-          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
-        }
-      ],
-      "duration_ms": 235640,
-      "name": "Who's Lovin' You",
-      "url": "https://open.spotify.com/track/6cZrsaNb4Zo9E5KHk7gcz5"
-    },
-    {
-      "added_at": "2025-03-02 04:45:52",
-      "album": {
         "name": "The Velvet Underground & Nico 45th Anniversary",
         "url": "https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV"
       },
@@ -1419,6 +1403,22 @@
     {
       "added_at": "2025-03-02 04:45:52",
       "album": {
+        "name": "Diana Ross Presents The Jackson 5",
+        "url": "https://open.spotify.com/album/51uoKRa8vT5SULrlF8s2t1"
+      },
+      "artists": [
+        {
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+        }
+      ],
+      "duration_ms": 235640,
+      "name": "Who's Lovin' You",
+      "url": "https://open.spotify.com/track/6cZrsaNb4Zo9E5KHk7gcz5"
+    },
+    {
+      "added_at": "2025-03-02 04:45:52",
+      "album": {
         "name": "Gettin' Ready (Expanded Edition)",
         "url": "https://open.spotify.com/album/3RE8NUULcBzFvVtCmlI4lb"
       },
@@ -1431,6 +1431,22 @@
       "duration_ms": 156173,
       "name": "Ain't Too Proud To Beg",
       "url": "https://open.spotify.com/track/4CoGNqLap7UGU5Q3VdKug0"
+    },
+    {
+      "added_at": "2025-03-02 04:45:52",
+      "album": {
+        "name": "Green, Green Grass Of Home",
+        "url": "https://open.spotify.com/album/15QRC2FhT659a5YJIS0Nff"
+      },
+      "artists": [
+        {
+          "name": "Tom Jones",
+          "url": "https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5"
+        }
+      ],
+      "duration_ms": 184893,
+      "name": "Green Green Grass Of Home",
+      "url": "https://open.spotify.com/track/5BFWQXNGPYadZxNKxY1UfU"
     },
     {
       "added_at": "2025-03-02 04:45:52",
@@ -1463,22 +1479,6 @@
       "duration_ms": 146973,
       "name": "Land of 1000 Dances",
       "url": "https://open.spotify.com/track/76ICmoJ4PcoMWoooaTxnQs"
-    },
-    {
-      "added_at": "2025-03-02 04:45:52",
-      "album": {
-        "name": "Green, Green Grass Of Home",
-        "url": "https://open.spotify.com/album/15QRC2FhT659a5YJIS0Nff"
-      },
-      "artists": [
-        {
-          "name": "Tom Jones",
-          "url": "https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5"
-        }
-      ],
-      "duration_ms": 184893,
-      "name": "Green Green Grass Of Home",
-      "url": "https://open.spotify.com/track/5BFWQXNGPYadZxNKxY1UfU"
     },
     {
       "added_at": "2025-03-02 04:45:52",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2025-03-02 04:45:52",
       "album": {
+        "name": "The Bang Years 1966-1968 (The 23 Original Mono Recordings)",
+        "url": "https://open.spotify.com/album/512ipXtdhwJF52NTT2yryo"
+      },
+      "artists": [
+        {
+          "name": "Neil Diamond",
+          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
+        }
+      ],
+      "duration_ms": 180253,
+      "name": "Girl, You'll Be A Woman Soon",
+      "url": "https://open.spotify.com/track/1BmVQ5RGqqtF5cnsv6cQYu"
+    },
+    {
+      "added_at": "2025-03-02 04:45:52",
+      "album": {
         "name": "Dock of the Bay Sessions",
         "url": "https://open.spotify.com/album/3mdKPgJ2hyDF9ToznWuCn1"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 147759,
       "name": "Only the Lonely",
       "url": "https://open.spotify.com/track/0PkBTqRtN25z3oKasWoKlj"
-    },
-    {
-      "added_at": "2025-03-02 04:45:52",
-      "album": {
-        "name": "The Bang Years 1966-1968 (The 23 Original Mono Recordings)",
-        "url": "https://open.spotify.com/album/512ipXtdhwJF52NTT2yryo"
-      },
-      "artists": [
-        {
-          "name": "Neil Diamond",
-          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
-        }
-      ],
-      "duration_ms": 180253,
-      "name": "Girl, You'll Be A Woman Soon",
-      "url": "https://open.spotify.com/track/1BmVQ5RGqqtF5cnsv6cQYu"
     },
     {
       "added_at": "2025-03-02 04:45:52",
@@ -2075,6 +2075,22 @@
     {
       "added_at": "2025-03-02 04:45:52",
       "album": {
+        "name": "Mr. Tambourine Man",
+        "url": "https://open.spotify.com/album/0pkrqPjeq9K5KD0hFqAKNa"
+      },
+      "artists": [
+        {
+          "name": "The Byrds",
+          "url": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+        }
+      ],
+      "duration_ms": 149466,
+      "name": "Mr. Tambourine Man",
+      "url": "https://open.spotify.com/track/2HCaIYjkvWSZzaSKUoOh3d"
+    },
+    {
+      "added_at": "2025-03-02 04:45:52",
+      "album": {
         "name": "In Dreams",
         "url": "https://open.spotify.com/album/5OpNbQPffWNtVhWCF6GziB"
       },
@@ -2103,22 +2119,6 @@
       "duration_ms": 181640,
       "name": "Nowhere To Run",
       "url": "https://open.spotify.com/track/1WPqawIF9HCKfSOt7mN6X0"
-    },
-    {
-      "added_at": "2025-03-02 04:45:52",
-      "album": {
-        "name": "Mr. Tambourine Man",
-        "url": "https://open.spotify.com/album/0pkrqPjeq9K5KD0hFqAKNa"
-      },
-      "artists": [
-        {
-          "name": "The Byrds",
-          "url": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
-        }
-      ],
-      "duration_ms": 149466,
-      "name": "Mr. Tambourine Man",
-      "url": "https://open.spotify.com/track/2HCaIYjkvWSZzaSKUoOh3d"
     },
     {
       "added_at": "2025-03-02 04:45:52",
@@ -2235,22 +2235,6 @@
     {
       "added_at": "2025-03-02 04:45:52",
       "album": {
-        "name": "A's, B's & EP's",
-        "url": "https://open.spotify.com/album/1GocNvETatEei10ng7bpJ9"
-      },
-      "artists": [
-        {
-          "name": "Herman's Hermits",
-          "url": "https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V"
-        }
-      ],
-      "duration_ms": 174333,
-      "name": "No Milk Today - Mono Version",
-      "url": "https://open.spotify.com/track/02Y0CtzmhTLjTOg0cWvAhq"
-    },
-    {
-      "added_at": "2025-03-02 04:45:52",
-      "album": {
         "name": "Heat Wave",
         "url": "https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK"
       },
@@ -2263,6 +2247,22 @@
       "duration_ms": 163053,
       "name": "(Love Is Like A) Heat Wave",
       "url": "https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF"
+    },
+    {
+      "added_at": "2025-03-02 04:45:52",
+      "album": {
+        "name": "A's, B's & EP's",
+        "url": "https://open.spotify.com/album/1GocNvETatEei10ng7bpJ9"
+      },
+      "artists": [
+        {
+          "name": "Herman's Hermits",
+          "url": "https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V"
+        }
+      ],
+      "duration_ms": 174333,
+      "name": "No Milk Today - Mono Version",
+      "url": "https://open.spotify.com/track/02Y0CtzmhTLjTOg0cWvAhq"
     },
     {
       "added_at": "2025-03-02 04:45:52",
@@ -2331,22 +2331,6 @@
     {
       "added_at": "2025-03-02 04:45:52",
       "album": {
-        "name": "Hey! Baby (Deluxe Edition Remastered)",
-        "url": "https://open.spotify.com/album/09YAng6bZ2wJVcL3MWVCri"
-      },
-      "artists": [
-        {
-          "name": "Bruce Channel",
-          "url": "https://open.spotify.com/artist/5Do19ow5oRPYYU46jqdkwh"
-        }
-      ],
-      "duration_ms": 143627,
-      "name": "Hey! Baby - Remastered",
-      "url": "https://open.spotify.com/track/0obIo2GEab6qqms6t3JaMY"
-    },
-    {
-      "added_at": "2025-03-02 04:45:52",
-      "album": {
         "name": "The Very Best Of The Righteous Brothers - Unchained Melody",
         "url": "https://open.spotify.com/album/5CFmNamq1ceXn8RFJ9i7p6"
       },
@@ -2359,6 +2343,22 @@
       "duration_ms": 225426,
       "name": "You've Lost That Lovin' Feelin'",
       "url": "https://open.spotify.com/track/5GMw6X6BbCDGO9gApQYRSa"
+    },
+    {
+      "added_at": "2025-03-02 04:45:52",
+      "album": {
+        "name": "Hey! Baby (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/09YAng6bZ2wJVcL3MWVCri"
+      },
+      "artists": [
+        {
+          "name": "Bruce Channel",
+          "url": "https://open.spotify.com/artist/5Do19ow5oRPYYU46jqdkwh"
+        }
+      ],
+      "duration_ms": 143627,
+      "name": "Hey! Baby - Remastered",
+      "url": "https://open.spotify.com/track/0obIo2GEab6qqms6t3JaMY"
     },
     {
       "added_at": "2025-03-02 04:45:52",

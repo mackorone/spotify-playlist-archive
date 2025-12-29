@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bwDxS.md) - [plain]
 
 > This is Sabrina Carpenter\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 669,950 likes - 40 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 670,416 likes - 40 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bwDxS.md) - [plain]
 | 39 | [Exhale](https://open.spotify.com/track/6CagMrZXJUdGGIw6Eaepos) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Singular Act II](https://open.spotify.com/album/19KilSbbeHRFFZM7ChwTdP) | 2:44 |
 | 40 | [Paris](https://open.spotify.com/track/359HNzfOXhCMHB1pNKhyfH) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Singular Act I](https://open.spotify.com/album/29mlGxS6kxq1EHxlX1EAZK) | 3:38 |
 
-Snapshot ID: `aU3QAAAAAADxAK5REwtw296xLXbbPfjX`
+Snapshot ID: `aU8hgAAAAADQCYX2q0fGFFHO7nuB74PO`

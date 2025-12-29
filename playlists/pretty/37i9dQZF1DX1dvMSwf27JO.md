@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 
 > music to get fly to ft\. Erykah Badu
 
-[Spotify](https://open.spotify.com/user/spotify) - 560,167 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 560,136 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 | 13 | [BEST INTEREST](https://open.spotify.com/track/3jHdKaLCkuNEkWcLVmQPCX) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [BEST INTEREST](https://open.spotify.com/album/5iUwaD3wFVwfaAfs9Z0eCh) | 2:07 |
 | 14 | [Didn't Cha Know](https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 3:58 |
 | 15 | [Not My Problem](https://open.spotify.com/track/1T6dUV1mqXyA2bSP3lK0IZ) | [Laila!](https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t) | [Not My Problem \(Flyer Than U\)](https://open.spotify.com/album/6G6eCUDFNO5A8rgWrxKddR) | 2:39 |
-| 16 | [DEVIL IS A LIE](https://open.spotify.com/track/6jlG8gBPNAgBgoivw2Ig09) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [DEVIL IS A LIE](https://open.spotify.com/album/4WvcBQIZXspq4MYyEPNem2) | 2:10 |
-| 17 | [Mamushi \(feat\. Yuki Chiba\)](https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 2:36 |
-| 18 | [Roses](https://open.spotify.com/track/6bUNEbXT7HovLW6BgPCBsb) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 6:09 |
+| 16 | [Mamushi \(feat\. Yuki Chiba\)](https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 2:36 |
+| 17 | [Roses](https://open.spotify.com/track/6bUNEbXT7HovLW6BgPCBsb) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 6:09 |
+| 18 | [DEVIL IS A LIE](https://open.spotify.com/track/6jlG8gBPNAgBgoivw2Ig09) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [DEVIL IS A LIE](https://open.spotify.com/album/4WvcBQIZXspq4MYyEPNem2) | 2:10 |
 | 19 | [B.O.T.A\. \(Baddest Of Them All\) \- Edit](https://open.spotify.com/track/39JofJHEtg8I4fSyo7Imft) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [B.O.T.A\. \(Baddest Of Them All\)](https://open.spotify.com/album/2lQgd3Svp1ZWAzZPLobAPK) | 3:46 |
 | 20 | [Timeless \(feat\. Playboi Carti\)](https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Timeless](https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn) | 4:16 |
 | 21 | [SUGAR](https://open.spotify.com/track/6U0FIYXCQ3TGrk4tFpLrEA) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [GINGER](https://open.spotify.com/album/1jToVugwBEzcak8gJNZG2f) | 3:24 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 | 86 | [60 Seconds](https://open.spotify.com/track/1NNwTBL6vDgSw14UDGWOte) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Coven Music Session, Vol\. 1](https://open.spotify.com/album/5eXvrU5hvCyxZmOdVDVRSc) | 0:58 |
 | 87 | [Star Girl](https://open.spotify.com/track/15iOxEc0Zvnn0wMbK2uhPc) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [Star Girl](https://open.spotify.com/album/3njJmSyA76HMuYzDRBOYYW) | 3:00 |
 | 88 | [Just Sayin' Shit](https://open.spotify.com/track/3bV45mBTw4x0O8XNr361KE) | [Flower in Bloom](https://open.spotify.com/artist/0Qo3BPiai9OuVq6zojWALA) | [Just Sayin' Shit](https://open.spotify.com/album/1BC0dos6H10bWxenRB3baa) | 1:01 |
-| 89 | [Toronto Funhouse](https://open.spotify.com/track/2u1ioR9wjR4FqSPLPoeQvb) | [TyriqueOrDie](https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE) | [Toronto Funhouse](https://open.spotify.com/album/4HFfB5ovi0fmCt4LrHRzAV) | 2:00 |
-| 90 | [CÉLINE](https://open.spotify.com/track/3PDph58rpbRHraKLXaC2ZG) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Kyu Steed](https://open.spotify.com/artist/7KDgQWTOnYMsPqI61gxVUy), [6](https://open.spotify.com/artist/3iF2oCv5pVQ19uwoaBK9qW) | [THE ANGEL YOU DON'T KNOW](https://open.spotify.com/album/1cceIhCQ8R79pwy8jbZFqE) | 3:00 |
+| 89 | [CÉLINE](https://open.spotify.com/track/3PDph58rpbRHraKLXaC2ZG) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Kyu Steed](https://open.spotify.com/artist/7KDgQWTOnYMsPqI61gxVUy), [6](https://open.spotify.com/artist/3iF2oCv5pVQ19uwoaBK9qW) | [THE ANGEL YOU DON'T KNOW](https://open.spotify.com/album/1cceIhCQ8R79pwy8jbZFqE) | 3:00 |
+| 90 | [Toronto Funhouse](https://open.spotify.com/track/2u1ioR9wjR4FqSPLPoeQvb) | [TyriqueOrDie](https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE) | [Toronto Funhouse](https://open.spotify.com/album/4HFfB5ovi0fmCt4LrHRzAV) | 2:00 |
 | 91 | [Wake up Jacob](https://open.spotify.com/track/0Gr1QWlPlbdA4n8hTMAXcy) | [Sitcom](https://open.spotify.com/artist/1AHWalyPZ4Zx1s7BampY8C), [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Be the One You Love](https://open.spotify.com/album/4vnVALee891bV599C0I6rI) | 3:43 |
 | 92 | [Conveniency](https://open.spotify.com/track/0hneE3CWTOFd9PC3qKfJcU) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Conveniency](https://open.spotify.com/album/0lXN4MXvk2ix9IOfJdLDwY) | 2:22 |
 | 93 | [Oranges](https://open.spotify.com/track/1sfLRmfnsHo4HwTAGK6u1k) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Oranges](https://open.spotify.com/album/7v6sybbsm7QVp6P3qS2v7p) | 1:43 |

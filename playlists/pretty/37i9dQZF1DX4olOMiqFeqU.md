@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 
 > 100% Pinoy hits from your favorite artists!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,486,024 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,486,077 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4olOMiqFeqU.md) - [plain]
 | 37 | [Pauwi Nako](https://open.spotify.com/track/2tzAN1L07SNwnOdgOEeuQr) | [PDL](https://open.spotify.com/artist/1Dlwdk88pCDKkHvThkSdqc), [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc), [Jnske](https://open.spotify.com/artist/0uD1WQbTE0pNDiJe0iGEaU), [Bullet D](https://open.spotify.com/artist/5MfvrLwRcs98YwS3C9Uf1u), [Yuridope](https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY), [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh) | [Pauwi Nako](https://open.spotify.com/album/33qqYIFSFSVYO3wCkc1Ksh) | 5:41 |
 | 38 | [Magkabilang Mundo](https://open.spotify.com/track/5AjbSv7nkr78wzmuHEfjg0) | [Jireh Lim](https://open.spotify.com/artist/6urxZktbtGcTIIqxQZ1d8q) | [Love And Soul](https://open.spotify.com/album/1e0Tqcfn0eqgFicrFFYNMl) | 3:56 |
 | 39 | [Magbalik](https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE) | [Callalily](https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01) | [Destination XYZ](https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6) | 5:26 |
-| 40 | [Dalangin](https://open.spotify.com/track/2cIxxsxXNvOXNFVvDJpF3x) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [Dalangin](https://open.spotify.com/album/5HEC19abEhLQQ7IuNuKixV) | 4:12 |
+| 40 | [Nahanap Kita](https://open.spotify.com/track/0GD9U8EM8xcPvuaA50Wzpe) | [Amiel Sol](https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g) | [Nahanap Kita](https://open.spotify.com/album/6fPUiSWRHRKn1Gk9d5h6PW) | 5:17 |
 | 41 | [Sagip](https://open.spotify.com/track/0hC02vQEEYV2T3MHkbcNSY) | [Jan Roberts](https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge) | [Sagip](https://open.spotify.com/album/1awEJdrevX9kTQDbG7ATmO) | 3:52 |
-| 42 | [Nahanap Kita](https://open.spotify.com/track/0GD9U8EM8xcPvuaA50Wzpe) | [Amiel Sol](https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g) | [Nahanap Kita](https://open.spotify.com/album/6fPUiSWRHRKn1Gk9d5h6PW) | 5:17 |
+| 42 | [Dalangin](https://open.spotify.com/track/2cIxxsxXNvOXNFVvDJpF3x) | [Earl Agustin](https://open.spotify.com/artist/48veLPCIJh5NVQxhyNRKCm) | [Dalangin](https://open.spotify.com/album/5HEC19abEhLQQ7IuNuKixV) | 4:12 |
 | 43 | [Nobela](https://open.spotify.com/track/3vGkyQlCw8LklNip0ZUELC) | [Join The Club](https://open.spotify.com/artist/70ljCILl0aVXitf3K39YvT) | [Nobela](https://open.spotify.com/album/7kzETZloUVbyQLuqDnLPVV) | 4:51 |
 | 44 | [Sila](https://open.spotify.com/track/2IMODbij0lZ5CuAjZi0IDE) | [SUD](https://open.spotify.com/artist/0jKQrxK2zHqxyOAyIMrUQt) | [Sila](https://open.spotify.com/album/0qwujayb77utSpftsXjdP3) | 5:26 |
 | 45 | [Sinta](https://open.spotify.com/track/0aCmjkogiWIRu7205eZK6I) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Sinta](https://open.spotify.com/album/0LAPQm2tSDLFDDpCfpw5DO) | 5:16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2x3RAa.md) - [plain]
 
 > This is Sonny Okosun\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 548 likes - 43 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 548 likes - 44 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2x3RAa.md) - [plain]
 | 6 | [Hosannah](https://open.spotify.com/track/6iE186vS1mrhl06TXiqUJw) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Celebrate & Worship In Caribbean Rhythms](https://open.spotify.com/album/2eqsqnbyAc1bdskmINSAHq) | 5:12 |
 | 7 | [Wait](https://open.spotify.com/track/7CN44w01pcU7rqWMqmvKgR) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Ozziddi For Sale](https://open.spotify.com/album/4nqdN4uSiIFoVf0tO7Pf5k) | 6:10 |
 | 8 | [Agbara esu 'Wo \(Yoruba\)](https://open.spotify.com/track/0vewn9FP9CYcnl3YAYlaUm) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Revival](https://open.spotify.com/album/2c16fK4wKxcnX6snFH6jw2) | 1:54 |
-| 9 | [Doctor Jesus / Draw Me Nearer](https://open.spotify.com/track/1MC25qWvvfBRpqoHVRLokI) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [The Crown](https://open.spotify.com/album/4dh2T0Dc3HAsryLmmN4Wbv) | 8:20 |
+| 9 | [Amen Amen](https://open.spotify.com/track/38mVByC9CdaVvw2DXg4aWR) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [51 Lex Presents: Arise](https://open.spotify.com/album/4M1JVqohTqHghNEgqEtMUl) | 4:28 |
 | 10 | [Save Our Souls](https://open.spotify.com/track/3Urr4x9oGYuaDd9wKd2Fk5) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Celebrate & Worship In Caribbean Rhythms](https://open.spotify.com/album/2eqsqnbyAc1bdskmINSAHq) | 3:04 |
-| 11 | [Amen Amen](https://open.spotify.com/track/38mVByC9CdaVvw2DXg4aWR) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [51 Lex Presents: Arise](https://open.spotify.com/album/4M1JVqohTqHghNEgqEtMUl) | 4:28 |
+| 11 | [Doctor Jesus / Draw Me Nearer](https://open.spotify.com/track/1MC25qWvvfBRpqoHVRLokI) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [The Crown](https://open.spotify.com/album/4dh2T0Dc3HAsryLmmN4Wbv) | 8:20 |
 | 12 | [The Day Jesus Was Crucufied](https://open.spotify.com/track/4oRGgB1hGbVMLWFqH3C0OH) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Revival](https://open.spotify.com/album/2c16fK4wKxcnX6snFH6jw2) | 3:49 |
 | 13 | [Fire In Soweto](https://open.spotify.com/track/2FzRgmksG8ZTUkYFCQ76TE) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Fly African Eagle: The Best Of African Reggae](https://open.spotify.com/album/0ZaWEsLFBTZUGPxPrdkfS1) | 7:08 |
 | 14 | [Great Change/God's Army](https://open.spotify.com/track/1mybp5XQMqKYPyaUaq9GnX) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Celebrate & Worship In Caribbean Rhythms](https://open.spotify.com/album/2eqsqnbyAc1bdskmINSAHq) | 4:29 |
@@ -35,21 +35,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2x3RAa.md) - [plain]
 | 25 | [Oba Erediauwa](https://open.spotify.com/track/6VbCJuwFUJl5XDdFjqsuTI) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Soul Jazz Records presents Nigeria Soul Power 70 \- Afro\-Funk, Afro\-Rock, Afro\-Disco](https://open.spotify.com/album/3nQJY0Ypqafw4YWoY8lxcV) | 6:17 |
 | 26 | [Festival Of The Hunters](https://open.spotify.com/track/0Fm2iZEvHUxZVS2a1tJP9v) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Ozziddi For Sale](https://open.spotify.com/album/4nqdN4uSiIFoVf0tO7Pf5k) | 11:24 |
 | 27 | [Rain](https://open.spotify.com/track/7I3GWoZxnIlvg6Ql6JIXjn) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Papa's Land](https://open.spotify.com/album/04Sl9MBUWL41KI56OwnTJz) | 5:11 |
-| 28 | [Highlife \- Goren Anderssen Dub Version](https://open.spotify.com/track/4keKZ1aq6pYF5mXuq7cRPY) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [The Sound of Love International](https://open.spotify.com/album/5vBP6gUQ5xAVpITOHlpcFU) | 5:45 |
-| 29 | [Liberation](https://open.spotify.com/track/2yJH5xhyOLuZaOPa7Caa44) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Fire In Soweto](https://open.spotify.com/album/0q6k5AAbBzKgIWeIMR0Rhy) | 7:59 |
-| 30 | [No More Wars](https://open.spotify.com/track/2H8qHZrSSNvn36Zb5LfywA) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [51 Lex Presents: O'Nambia](https://open.spotify.com/album/1F5VvYwkbNwF1TQqTnNg5E) | 8:08 |
+| 28 | [Liberation](https://open.spotify.com/track/2yJH5xhyOLuZaOPa7Caa44) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Fire In Soweto](https://open.spotify.com/album/0q6k5AAbBzKgIWeIMR0Rhy) | 7:59 |
+| 29 | [Highlife \- Goren Anderssen Dub Version](https://open.spotify.com/track/4keKZ1aq6pYF5mXuq7cRPY) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [The Sound of Love International](https://open.spotify.com/album/5vBP6gUQ5xAVpITOHlpcFU) | 5:45 |
+| 30 | [Tell Them](https://open.spotify.com/track/2SYvKEq3Y004WBsFbKVYe8) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [3rd World](https://open.spotify.com/album/5OaZVrFg7EniD0OoPY88fE) | 9:28 |
 | 31 | [Chant Of The Slaves Let My People Go](https://open.spotify.com/track/5TNMhY9CQmZgCcNlrgetCt) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Ozziddi For Sale](https://open.spotify.com/album/4nqdN4uSiIFoVf0tO7Pf5k) | 15:13 |
-| 32 | [Tell Them](https://open.spotify.com/track/2SYvKEq3Y004WBsFbKVYe8) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [3rd World](https://open.spotify.com/album/5OaZVrFg7EniD0OoPY88fE) | 9:28 |
-| 33 | [War of Nations](https://open.spotify.com/track/75BtBiVuQQUx6hxpwUrliI) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Holy Wars](https://open.spotify.com/album/5aJleqa0jPmMRMXoJHwMhI) | 6:58 |
-| 34 | [We're In Love](https://open.spotify.com/track/1hZouejgq7j3WfonImzf1S) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [The Gospel Of Ozziddi](https://open.spotify.com/album/3cchvmfihgV7H5wEETAwmv) | 7:43 |
-| 35 | [My Cherie Koko](https://open.spotify.com/track/1Kpx7BlMbrAnHxpMEPNZwx) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Mother & Child](https://open.spotify.com/album/6rfYSK1V4XimuCOKWy1JdQ) | 5:37 |
-| 36 | [Carnival](https://open.spotify.com/track/1ECNL67v28kSomKEsK37C5) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [51 Lex Presents: O'Nambia](https://open.spotify.com/album/1F5VvYwkbNwF1TQqTnNg5E) | 9:16 |
+| 32 | [My Cherie Koko](https://open.spotify.com/track/1Kpx7BlMbrAnHxpMEPNZwx) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Mother & Child](https://open.spotify.com/album/6rfYSK1V4XimuCOKWy1JdQ) | 5:37 |
+| 33 | [We're In Love](https://open.spotify.com/track/1hZouejgq7j3WfonImzf1S) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [The Gospel Of Ozziddi](https://open.spotify.com/album/3cchvmfihgV7H5wEETAwmv) | 7:43 |
+| 34 | [War of Nations](https://open.spotify.com/track/75BtBiVuQQUx6hxpwUrliI) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Holy Wars](https://open.spotify.com/album/5aJleqa0jPmMRMXoJHwMhI) | 6:58 |
+| 35 | [No More Wars](https://open.spotify.com/track/2H8qHZrSSNvn36Zb5LfywA) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [51 Lex Presents: O'Nambia](https://open.spotify.com/album/1F5VvYwkbNwF1TQqTnNg5E) | 8:08 |
+| 36 | [Mohammed](https://open.spotify.com/track/67I3LlIvgexE0QGIl26Oeb) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Wind Of Change](https://open.spotify.com/album/2mGBmoVvEmVS2fV1zZMisz) | 6:57 |
 | 37 | [Revolution](https://open.spotify.com/track/0MaN8WY843OfeLUTH0L8lV) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Fire In Soweto](https://open.spotify.com/album/0q6k5AAbBzKgIWeIMR0Rhy) | 6:40 |
-| 38 | [Mohammed](https://open.spotify.com/track/67I3LlIvgexE0QGIl26Oeb) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Wind Of Change](https://open.spotify.com/album/2mGBmoVvEmVS2fV1zZMisz) | 6:57 |
-| 39 | [3rd World](https://open.spotify.com/track/1DXU71tYbpeCoM8CKyWjdh) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [3rd World](https://open.spotify.com/album/5OaZVrFg7EniD0OoPY88fE) | 8:21 |
-| 40 | [Holy Mass](https://open.spotify.com/track/7uf07GH8XwMAvccfXGhN68) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Holy Wars](https://open.spotify.com/album/5aJleqa0jPmMRMXoJHwMhI) | 6:17 |
-| 41 | [Dance Of The Elephants](https://open.spotify.com/track/454HXjanABWQRKtxRHCLk6) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Soul Jazz Records presents Nigeria Soul Power 70 \- Afro\-Funk, Afro\-Rock, Afro\-Disco](https://open.spotify.com/album/3nQJY0Ypqafw4YWoY8lxcV) | 7:28 |
-| 42 | [Jesus King Of Kings](https://open.spotify.com/track/5Xla03XVxaDwQNkFR1Hgb6) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Wind Of Change](https://open.spotify.com/album/2mGBmoVvEmVS2fV1zZMisz) | 4:49 |
-| 43 | [Jungle Beat](https://open.spotify.com/track/2VUnGWTBarTkRomYEHbEic) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Papa's Land](https://open.spotify.com/album/04Sl9MBUWL41KI56OwnTJz) | 6:59 |
+| 38 | [Jungle Beat](https://open.spotify.com/track/2VUnGWTBarTkRomYEHbEic) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Papa's Land](https://open.spotify.com/album/04Sl9MBUWL41KI56OwnTJz) | 6:59 |
+| 39 | [Carnival](https://open.spotify.com/track/1ECNL67v28kSomKEsK37C5) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [51 Lex Presents: O'Nambia](https://open.spotify.com/album/1F5VvYwkbNwF1TQqTnNg5E) | 9:16 |
+| 40 | [3rd World](https://open.spotify.com/track/1DXU71tYbpeCoM8CKyWjdh) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [3rd World](https://open.spotify.com/album/5OaZVrFg7EniD0OoPY88fE) | 8:21 |
+| 41 | [Holy Mass](https://open.spotify.com/track/7uf07GH8XwMAvccfXGhN68) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Holy Wars](https://open.spotify.com/album/5aJleqa0jPmMRMXoJHwMhI) | 6:17 |
+| 42 | [Dance Of The Elephants](https://open.spotify.com/track/454HXjanABWQRKtxRHCLk6) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Soul Jazz Records presents Nigeria Soul Power 70 \- Afro\-Funk, Afro\-Rock, Afro\-Disco](https://open.spotify.com/album/3nQJY0Ypqafw4YWoY8lxcV) | 7:28 |
+| 43 | [Sound Of Music \(Wonderful Jah\)](https://open.spotify.com/track/79K9qfkTfNgVnPWr2rMtbf) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Mother & Child](https://open.spotify.com/album/6rfYSK1V4XimuCOKWy1JdQ) | 5:35 |
+| 44 | [Jesus King Of Kings](https://open.spotify.com/track/5Xla03XVxaDwQNkFR1Hgb6) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [Wind Of Change](https://open.spotify.com/album/2mGBmoVvEmVS2fV1zZMisz) | 4:49 |
 
-Snapshot ID: `aU3QAAAAAADPAQ1vE4a5B6rLw39nNogy`
+Snapshot ID: `aU8hgAAAAAAF86RaUMK2ECbXILwtb12i`

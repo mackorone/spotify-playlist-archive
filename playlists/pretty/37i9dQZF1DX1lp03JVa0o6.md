@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 
 > Today's biggest dance hits! Cover: Disclosure, Leon Thomas
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,944 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,928 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 | 74 | [Infohazard](https://open.spotify.com/track/51e5r0rQraYmN6zflHv9mN) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Infohazard](https://open.spotify.com/album/4BKbfIYLYdEWatTBcXtogQ) | 4:29 |
 | 75 | [Back To Me \(with Jess Glynne\)](https://open.spotify.com/track/493FTCCY5sMAlb10ICFAtJ) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Back To Me \(with Jess Glynne\)](https://open.spotify.com/album/0moJ5HyyeYr64SH8o17Hvf) | 2:39 |
 
-Snapshot ID: `AAAAAOUdgY6+nzW671QOygUv6Rikj9v1`
+Snapshot ID: `AAAAAKAWOApdt04ultKeMUfmTdlxbs1z`

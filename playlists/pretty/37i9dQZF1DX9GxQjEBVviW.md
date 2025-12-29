@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 
 > ​Boogie along to doo\-wop's greatest hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,010 likes - 50 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,021 likes - 50 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,10 +52,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 | 42 | [Don't Ask Me to Be Lonely](https://open.spotify.com/track/0AFnv5nhaov4aiWyl81Yb6) | [The Dubs](https://open.spotify.com/artist/33rjua7RFjy9GwqKWnbnGJ) | [The Dubs Meet The Shells](https://open.spotify.com/album/66OAMu3Uhm62dda1U22OZQ) | 2:19 |
 | 43 | [I Wanna Be the Leader](https://open.spotify.com/track/3PRCqig60uovdGVM7Lzi7d) | [The Marcels](https://open.spotify.com/artist/1JQYskbOoudT9cylam24a3) | [The Best Of The Marcels](https://open.spotify.com/album/3rgajlw95Z2hWWggHCUkRa) | 2:20 |
 | 44 | [Lily Maebelle](https://open.spotify.com/track/0MQCvlztZS867JqudUmAML) | [The Valentines](https://open.spotify.com/artist/6gO9O0Iss2ipZuskVnmA9a) | [The Best Of The Valentines](https://open.spotify.com/album/5MDFQiAuvmYVJfhmN8jOTP) | 2:18 |
-| 45 | [You Belong To Me](https://open.spotify.com/track/1bgKnEPujoiQzz0pc6gdt7) | [The Duprees](https://open.spotify.com/artist/6nYTjfJFNic9m83TROYHUS) | [For Collectors Only](https://open.spotify.com/album/0pcBefwnYyOH6eaRAQYIRZ) | 2:50 |
-| 46 | [Since I Don't Have You](https://open.spotify.com/track/5zgzOyEZPoeQwmXFzW0bPn) | [The Skyliners](https://open.spotify.com/artist/4JeG1IusHcsL2owYnsJ7wk) | [Since I Don't Have You \- Pennies From Heaven](https://open.spotify.com/album/720l9qVPyWsc95YUwR01HE) | 2:36 |
-| 47 | [There Goes My Baby \- Rerecorded](https://open.spotify.com/track/3ntA3FI3FR18yPO9snKvZ3) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [20 Best of Doo Wop](https://open.spotify.com/album/7q4HXnmWEyMJLQIqnGZTH5) | 2:14 |
-| 48 | [Love Potion No\. 9](https://open.spotify.com/track/4Frd6VT1lsdjiwfAQaSldS) | [The Clovers](https://open.spotify.com/artist/0ckkj0a9CvIJr4h84B0OlN) | [United Artists Black Singles 1959\-1967: ''Motor City To Central Park''](https://open.spotify.com/album/0QIsqKfh4h5dWicuHWSxOC) | 1:52 |
+| 45 | [Since I Don't Have You](https://open.spotify.com/track/5zgzOyEZPoeQwmXFzW0bPn) | [The Skyliners](https://open.spotify.com/artist/4JeG1IusHcsL2owYnsJ7wk) | [Since I Don't Have You \- Pennies From Heaven](https://open.spotify.com/album/720l9qVPyWsc95YUwR01HE) | 2:36 |
+| 46 | [Love Potion No\. 9](https://open.spotify.com/track/4Frd6VT1lsdjiwfAQaSldS) | [The Clovers](https://open.spotify.com/artist/0ckkj0a9CvIJr4h84B0OlN) | [United Artists Black Singles 1959\-1967: ''Motor City To Central Park''](https://open.spotify.com/album/0QIsqKfh4h5dWicuHWSxOC) | 1:52 |
+| 47 | [You Belong To Me](https://open.spotify.com/track/1bgKnEPujoiQzz0pc6gdt7) | [The Duprees](https://open.spotify.com/artist/6nYTjfJFNic9m83TROYHUS) | [For Collectors Only](https://open.spotify.com/album/0pcBefwnYyOH6eaRAQYIRZ) | 2:50 |
+| 48 | [There Goes My Baby \- Rerecorded](https://open.spotify.com/track/3ntA3FI3FR18yPO9snKvZ3) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [20 Best of Doo Wop](https://open.spotify.com/album/7q4HXnmWEyMJLQIqnGZTH5) | 2:14 |
 | 49 | [Earth Angel](https://open.spotify.com/track/75Mwp7YsQRk0ZBq1lOdL2T) | [The Penguins](https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR) | [The Original Hit Recording \- Earth Angel](https://open.spotify.com/album/42sz9A7lXIP7qmMkFh3sOQ) | 2:58 |
 | 50 | [My True Story \- Digitally Remastered](https://open.spotify.com/track/3V3FNxI4qfqtJUN6NYfE81) | [The Jive Five](https://open.spotify.com/artist/2HWsf577KqaPhXyBFzei7L) | [Collectors Gold Series](https://open.spotify.com/album/1fP6tO7l2L2z68myCVAaE4) | 2:35 |
 

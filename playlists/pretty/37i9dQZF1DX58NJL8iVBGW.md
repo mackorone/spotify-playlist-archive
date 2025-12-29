@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 
 > Deep, dark, dramatic\. Roots rock, folk, and Americana—with a gothic soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 803,109 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 803,147 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,12 +33,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 | 23 | [Hades Pleads](https://open.spotify.com/track/2Yf3wwS48rkAoBRXNJ34kz) | [Parker Millsap](https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur) | [The Very Last Day](https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T) | 2:36 |
 | 24 | [Bobby Reid](https://open.spotify.com/track/10WBKR8tDk416oDMm6wshS) | [Lucette](https://open.spotify.com/artist/1OlzK1kHcdTcduXcdXHYXn) | [Black Is the Color](https://open.spotify.com/album/0Gx2t3sH5mQbHDLI5fuEXY) | 2:18 |
 | 25 | [Sons & Daughters](https://open.spotify.com/track/42r1v4tT0xfteQq0pNMaf9) | [The American Spirit](https://open.spotify.com/artist/3x6If6dI3TOVEN4aUukab3) | [Spaces](https://open.spotify.com/album/5EfF28rTF2MACFCf9yVZ1j) | 4:02 |
-| 26 | [Get Right Church](https://open.spotify.com/track/5qX4r5vT9bY8xMsiKuZhQn) | [Ben Miller Band](https://open.spotify.com/artist/692LYMl7s0bV6X3iduX5rG) | [Heavy Load](https://open.spotify.com/album/1BgJCVNqPuzwbGD0e27dCx) | 3:44 |
-| 27 | [Devil's Backbone](https://open.spotify.com/track/4qoD4IJbbir3hsAu4IowiG) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [The Civil Wars](https://open.spotify.com/album/5r0Xd2wqRkTE0BqbeYlnFN) | 2:29 |
+| 26 | [Devil's Backbone](https://open.spotify.com/track/4qoD4IJbbir3hsAu4IowiG) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [The Civil Wars](https://open.spotify.com/album/5r0Xd2wqRkTE0BqbeYlnFN) | 2:29 |
+| 27 | [Get Right Church](https://open.spotify.com/track/5qX4r5vT9bY8xMsiKuZhQn) | [Ben Miller Band](https://open.spotify.com/artist/692LYMl7s0bV6X3iduX5rG) | [Heavy Load](https://open.spotify.com/album/1BgJCVNqPuzwbGD0e27dCx) | 3:44 |
 | 28 | [Old Time Religion](https://open.spotify.com/track/4zm37YNRt5XrbFOTPk0jBp) | [Parker Millsap](https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur) | [Parker Millsap](https://open.spotify.com/album/3puqTC6ZIfItLMY4q0wr4e) | 3:54 |
 | 29 | [Work Song](https://open.spotify.com/track/5szmwG86IFASvYrca21MEz) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [From Eden EP](https://open.spotify.com/album/0FubRTC6GUFPUg4y2Xuxs0) | 3:49 |
-| 30 | [Bottom of the River](https://open.spotify.com/track/279D0iY34aVyZWTxsAPYUd) | [Delta Rae](https://open.spotify.com/artist/0iidQFemlPhkoHqFroz2my) | [Bottom of the River](https://open.spotify.com/album/2FXmlkD0prW5bIzO2MpAED) | 3:21 |
-| 31 | [Go Dig My Grave](https://open.spotify.com/track/21gCYJP9C9GUNI4jCZhheZ) | [Lankum](https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z) | [False Lankum](https://open.spotify.com/album/2lu7c86G1ptjMJVL9upG1H) | 8:38 |
+| 30 | [Go Dig My Grave](https://open.spotify.com/track/21gCYJP9C9GUNI4jCZhheZ) | [Lankum](https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z) | [False Lankum](https://open.spotify.com/album/2lu7c86G1ptjMJVL9upG1H) | 8:38 |
+| 31 | [Bottom of the River](https://open.spotify.com/track/279D0iY34aVyZWTxsAPYUd) | [Delta Rae](https://open.spotify.com/artist/0iidQFemlPhkoHqFroz2my) | [Bottom of the River](https://open.spotify.com/album/2FXmlkD0prW5bIzO2MpAED) | 3:21 |
 | 32 | [Hy\-Brasil](https://open.spotify.com/track/2OeMJJ4QlZKW0mjpbIckiq) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Outside Child](https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw) | 5:35 |
 | 33 | [Chairkickers](https://open.spotify.com/track/0O0T1NHzuTa12tNZ1hZ7db) | [Brown Bird](https://open.spotify.com/artist/5zzbSFZMVpvxSlWAkqqtHP) | [Salt For Salt](https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC) | 3:18 |
 | 34 | [Things That Scare Me](https://open.spotify.com/track/1GMphu4rFfW80ME1EN8IJo) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Blacklisted](https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU) | 2:30 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 | 68 | [Stuck In The South](https://open.spotify.com/track/2OWs4IaG1vWTcxEKvANwTX) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Stuck In The South](https://open.spotify.com/album/28nGrVJh9r3leGrLKiuplA) | 3:07 |
 | 69 | [Sun to Sun](https://open.spotify.com/track/0ocOl2Z35YlNbPRRMEgpd2) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Sorrow Bound](https://open.spotify.com/album/0myjOWBNRcumLchBSeZCDj) | 2:04 |
 | 70 | [You Don't Fool Me](https://open.spotify.com/track/5QJ5ICpA44RUm2l6mJtwGD) | [Hestina](https://open.spotify.com/artist/2xsuzWkZTxU0WpWgCGDOG4) | [Blossom Talk](https://open.spotify.com/album/33H4WbY7m8jy1HLedmUlWN) | 3:33 |
-| 71 | [Fire in the Dark](https://open.spotify.com/track/1WsfcbU8ZHTn6qWEXnRWyD) | [Gary Nichols](https://open.spotify.com/artist/11GSfBFOgLlE2iiVVY4z1n) | [Fire in the Dark](https://open.spotify.com/album/1EpaMDey2DOQao6DIXKWI1) | 3:06 |
-| 72 | [What Does It Matter Now?](https://open.spotify.com/track/4DpNmLojUrA9RqvdGLTr2M) | [Micah P\. Hinson](https://open.spotify.com/artist/6M5FR3JkFFVDkgwtO6Vtz6) | [What Does It Matter Now?](https://open.spotify.com/album/6MoxDbETwqsHJHg0T3GTmR) | 4:35 |
+| 71 | [What Does It Matter Now?](https://open.spotify.com/track/4DpNmLojUrA9RqvdGLTr2M) | [Micah P\. Hinson](https://open.spotify.com/artist/6M5FR3JkFFVDkgwtO6Vtz6) | [What Does It Matter Now?](https://open.spotify.com/album/6MoxDbETwqsHJHg0T3GTmR) | 4:35 |
+| 72 | [Fire in the Dark](https://open.spotify.com/track/1WsfcbU8ZHTn6qWEXnRWyD) | [Gary Nichols](https://open.spotify.com/artist/11GSfBFOgLlE2iiVVY4z1n) | [Fire in the Dark](https://open.spotify.com/album/1EpaMDey2DOQao6DIXKWI1) | 3:06 |
 | 73 | [The River's Will](https://open.spotify.com/track/1bIqCUUEIHmbkHrpkKy7VZ) | [Kendl Winter](https://open.spotify.com/artist/32iM5mg9ke0SyutYzWwkbM) | [Stumbler's Business](https://open.spotify.com/album/3IUX21sPPxhNpIcZBoalvc) | 4:03 |
 | 74 | [Conman Coming](https://open.spotify.com/track/6DyVRSZzPC67XnsXJR2XIq) | [Monica Heldal](https://open.spotify.com/artist/0OzR8yVFsezkr01beN2ec0) | [Boy From The North \(ADA / USA\)](https://open.spotify.com/album/0eERK7tiVyl5Q2gSurm3gH) | 3:16 |
 | 75 | [Dig](https://open.spotify.com/track/3CFhdCcuagfQGxjQMzmRBs) | [Hestina](https://open.spotify.com/artist/2xsuzWkZTxU0WpWgCGDOG4) | [Blossom Talk](https://open.spotify.com/album/33H4WbY7m8jy1HLedmUlWN) | 2:15 |

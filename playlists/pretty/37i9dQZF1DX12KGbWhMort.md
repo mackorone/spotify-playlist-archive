@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX12KGbWhMort.md) - [plain]
 
 > Dale play, y que el amor no pare.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,156 likes - 100 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,166 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX12KGbWhMort.md) - [plain]
 | 96 | [Desde el Principio](https://open.spotify.com/track/2zQW4cVDdtx6ILz9rNdPLD) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Libre](https://open.spotify.com/album/6gHHe4wRRfwGbhBTk7hDEx) | 3:04 |
 | 97 | [Usted / Hasta Que Me Olvides / La Incondicional](https://open.spotify.com/track/1xeWnd2n7JY4fRZI1PhsFP) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [Usted / Hasta Que Me Olvides / La Incondicional](https://open.spotify.com/album/0jQRoKdHFt1wHOAC4E8OZK) | 8:18 |
 | 98 | [Lo Que Son las Cosas](https://open.spotify.com/track/6TanzeHh5Ffh5EP2AJnGD3) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Lo Que Son las Cosas](https://open.spotify.com/album/7LiVEl4UrNRnVAydhYjCfl) | 3:52 |
-| 99 | [El Problema](https://open.spotify.com/track/5UJsYyBi0CdSJl0ul5aTgO) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Santo Pecado](https://open.spotify.com/album/7jlpMHgMoGjy2mc0CwzCjf) | 5:30 |
+| 99 | [Fuiste Tú \(feat\. Gaby Moreno\)](https://open.spotify.com/track/29csiYMOfBmLmGwxmISrMy) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD), [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Independiente + Demos](https://open.spotify.com/album/3LrWQfyoO7cEc7ZGkWqHgy) | 4:25 |
 | 100 | [Oye](https://open.spotify.com/track/09nSCeCs6eYfAIJVfye1CE) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Oye](https://open.spotify.com/album/1xwUFsb21qbGugy09vdd7O) | 2:53 |
 
 Snapshot ID: `AAAAACDtYZCwA9Hxdqj2kqQ3d18V+imG`

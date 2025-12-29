@@ -4,7 +4,7 @@
 
 > El ritmo cumbiero que te mueve el corazón\. <br/>Foto: Leo Mattioli.
 
-240 songs - 14 hr 9 min
+241 songs - 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Amor Clandestino](https://open.spotify.com/track/4RSaGC1QwScf0lDMzx9T6I) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Le Doy Gracias a la Vida \(Y a Todos\)](https://open.spotify.com/album/3xJjfD2BUmlX8Tpe1afUup) | 3:11 | 2022-06-03 |  |
 | [Amor De Chat](https://open.spotify.com/track/0Yjs4dV82xl4GF63wrXm7i) | [Grupo Cali](https://open.spotify.com/artist/4R5IzlNSizG1oT8Gs4HH6k) | [Identidad](https://open.spotify.com/album/1e17k7bGNSUu5x8LHsZs05) | 4:35 | 2022-04-15 |  |
 | [Antes](https://open.spotify.com/track/2WkYydyAY8QsFhy16KgsCY) | [Cumbia Viva](https://open.spotify.com/artist/0jc8WcEimrh9qGACBMNOYS), [Walter Encina](https://open.spotify.com/artist/7B3kLf1ZWaepQ3ts6Adlkp) | [Cumbia Viva Sesion \#13 Walter Encina](https://open.spotify.com/album/2aPJEbhBwr52NO4yLre2pd) | 1:52 | 2025-12-01 |  |
+| [Apaga La Tele](https://open.spotify.com/track/17OogyvdcPn6PWaIi7vyGC) | [Nico Mattioli](https://open.spotify.com/artist/6WVAHhEnELJ0NI11yZu9j1) | [Apaga La Tele](https://open.spotify.com/album/516Bdm6YI9yiG7OCCl6TZy) | 2:54 | 2025-12-01 |  |
 | [Así Era Ella](https://open.spotify.com/track/26ykEHxWfZU1UfupwrHp4K) | [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Así Era Ella](https://open.spotify.com/album/3NdIjdU9Zp7FquEfnZsFtA) | 3:06 | 2023-03-03 | 2023-05-17 |
 | [Atrapado en Tus Redes](https://open.spotify.com/track/2ztRpiApkVtZrYHZKDgaLH) | [Marcos Castelló Kaniche](https://open.spotify.com/artist/1g31gW7m6FH9LljAfobGh8) | [100% Kaniche](https://open.spotify.com/album/3yb8Z14IRr5lbdr8uV85fF) | 3:23 | 2022-04-15 | 2022-07-29 |
 | [Azulito Y Bonito](https://open.spotify.com/track/7JRYyQ2yCzvC5wBaEBIwS4) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Bombón Asesino 2x1](https://open.spotify.com/album/0AXRHei4oJG0laULFbGAMe) | 3:20 | 2025-03-14 | 2025-12-14 |
@@ -140,7 +141,7 @@
 | [Me Dediqué a Perderte \- En Vivo](https://open.spotify.com/track/2m4nocjuXlAjrfuSqXEo46) | [Sergio Torres](https://open.spotify.com/artist/42duZ4KIXcWBEobTPLzHzg), [El Dipy](https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw) | [Todo a Su Tiempo \(En Vivo\)](https://open.spotify.com/album/5QiDj5pvq28cO1s4oupY53) | 4:15 | 2022-04-15 | 2022-07-29 |
 | [Me Dediqué a Perderte \- En Vivo](https://open.spotify.com/track/7JiYdbPQK2G4sDskpcrtC2) | [Sergio Torres](https://open.spotify.com/artist/42duZ4KIXcWBEobTPLzHzg), [El Dipy](https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw) | [Todo a Su Tiempo \(En Vivo\)](https://open.spotify.com/album/6ncnLdG9zt1XlpewOBSqJl) | 4:15 | 2022-07-15 | 2024-04-19 |
 | [Me Parece Que](https://open.spotify.com/track/1zHorxcby7HrNwHzctcvAZ) | [Grupo Alegria de Santa Fe](https://open.spotify.com/artist/0uITrMC16Eg9bbPu0PNfzk) | [Me Parece Que](https://open.spotify.com/album/7cVuyvwraUEOrCydXVFPqd) | 2:41 | 2022-09-09 | 2022-10-11 |
-| [Mejor Perderla Que Encontrarla](https://open.spotify.com/track/3E50uUWb93FrCF7tYJFid0) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [20 Grandes Éxitos](https://open.spotify.com/album/1y6ODDrdp8f3kFQ4GLCXS3) | 2:15 | 2022-06-10 |  |
+| [Mejor Perderla Que Encontrarla](https://open.spotify.com/track/3E50uUWb93FrCF7tYJFid0) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [20 Grandes Éxitos](https://open.spotify.com/album/1y6ODDrdp8f3kFQ4GLCXS3) | 2:15 | 2022-06-10 | 2025-12-29 |
 | [Mi Historia Entre Tus Dedos](https://open.spotify.com/track/0NK3UhMD7kNwOfuoL0jk8R) | [Nico Mattioli](https://open.spotify.com/artist/6WVAHhEnELJ0NI11yZu9j1), [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Mi Historia Entre Tus Dedos](https://open.spotify.com/album/5Dso9GcL2HzHbt5s35t5vs) | 4:55 | 2024-04-26 |  |
 | [Mil preguntas](https://open.spotify.com/track/1sWSkjycfa70S1zcn0zWA3) | [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [Mil preguntas](https://open.spotify.com/album/7lza5ZZmSVr77GQhfiSgjs) | 3:09 | 2024-05-24 |  |
 | [Mojada Por Dentro \- En Vivo](https://open.spotify.com/track/1NdkMO63A4XFTzLlvRQ36K) | [Sin Miedo](https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY), [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Uriel Lozano: Sin Miedo Session \#44 \(Lado S\) \- En Vivo](https://open.spotify.com/album/1BH1jWCMkBBwB7h45mXck7) | 1:20 | 2024-05-03 | 2024-10-18 |

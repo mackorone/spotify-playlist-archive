@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMwmF30ppw50.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- United Kingdom.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,217 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,222 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMwmF30ppw50.md) - [plain]
 | 49 | [It Feels Like Christmas \(Spotify Singles Holiday\)](https://open.spotify.com/track/34sUWOEjFKrj8Rzk1HHicq) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [It Feels Like Christmas \(Spotify Singles Holiday\)](https://open.spotify.com/album/00rjYYXmDIrf2SlTBU2vCn) | 2:14 |
 | 50 | [Stop The Cavalry](https://open.spotify.com/track/2bPQuniBB9x0fRtxDly0kr) | [Jona Lewie](https://open.spotify.com/artist/3nohf4qILMr5aUSOsolwxB) | [Heart Skips Beat](https://open.spotify.com/album/5IWeqnBDLYy5YdnsKOxh2n) | 2:56 |
 
-Snapshot ID: `MONVAAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MOSkKAAAAAAAAAAAAAAAAAAAAAAAAGVu`

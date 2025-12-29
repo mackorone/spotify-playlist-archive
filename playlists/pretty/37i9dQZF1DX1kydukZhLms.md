@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 
 > Throw your lighters in the air and wave them like you don't care\. Cover: Guns N' Roses
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,526,288 likes - 100 songs - 8 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,526,433 likes - 100 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 | 36 | [Burden](https://open.spotify.com/track/7EqkvBTdhYPTd91mN2DmcA) | [Opeth](https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E) | [Watershed \(Special Edition\)](https://open.spotify.com/album/0fayDgcekIaW0yQtUQ8CDm) | 7:41 |
 | 37 | [Ordinary Man \(feat\. Elton John\)](https://open.spotify.com/track/6eEYGGFfFbtKHCgJM4uh9v) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Ordinary Man \(feat\. Elton John\)](https://open.spotify.com/album/39yp6JEfOhqVEpCiy6i6M3) | 5:01 |
 | 38 | [Enjoy the Silence \- cover version](https://open.spotify.com/track/71KtwiEpzcn9WxwlaS7ZJY) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Karmacode](https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT) | 4:05 |
-| 39 | [Gone Away](https://open.spotify.com/track/73P5wYuZ1bsz0ZjsZiaSw2) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [And Justice for None \(Deluxe\)](https://open.spotify.com/album/2IA9d7atwNgtiS6Tpv9WKt) | 4:35 |
-| 40 | [Return to Serenity](https://open.spotify.com/track/5awljpWNO5TpXCyjpvCBbs) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [The Ritual](https://open.spotify.com/album/6YXf0vbjFhURCPUewYhVWE) | 6:30 |
+| 39 | [Return to Serenity](https://open.spotify.com/track/5awljpWNO5TpXCyjpvCBbs) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [The Ritual](https://open.spotify.com/album/6YXf0vbjFhURCPUewYhVWE) | 6:30 |
+| 40 | [Gone Away](https://open.spotify.com/track/73P5wYuZ1bsz0ZjsZiaSw2) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [And Justice for None \(Deluxe\)](https://open.spotify.com/album/2IA9d7atwNgtiS6Tpv9WKt) | 4:35 |
 | 41 | [I Won't Forget You \- 2003 Remaster](https://open.spotify.com/track/6WmVgLj2htklkU3SZOsItg) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Look What The Cat Dragged In \- 20th Anniversary Edition](https://open.spotify.com/album/2SkbSj0eZ2H5uqKYEnMmIe) | 3:34 |
 | 42 | [Heart of Steel](https://open.spotify.com/track/4YXhOackOMOlQTMAwsDHo6) | [Manowar](https://open.spotify.com/artist/4CzUzn54Cp9TQr6a7JIlMZ) | [Kings of Metal](https://open.spotify.com/album/7lZkD6ntnGAhmWowltbOYB) | 5:10 |
 | 43 | [Open Your Heart](https://open.spotify.com/track/4cPE441DlsfXRh57rl1PAX) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [Wings Of Tomorrow](https://open.spotify.com/album/0xvqPhWUfdiLly1cdR4WVx) | 4:06 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 | 79 | [Don't Cry \(Original\)](https://open.spotify.com/track/0ZEhlT9v8CdOKu55zhYGv9) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion I](https://open.spotify.com/album/4L5pz06MVlsWaTEjSQPN8h) | 4:44 |
 | 80 | [Home Sweet Home](https://open.spotify.com/track/4zXvB4MoQD8onk0NCZbeHG) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Theatre of Pain](https://open.spotify.com/album/18fYN6Hlig5t7ObBfQYUPe) | 4:00 |
 | 81 | [Love Hurts \- Single Edit](https://open.spotify.com/track/5g1rzUEyVFNr2i4ifEjlVN) | [Nazareth](https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP) | [Hair of the Dog](https://open.spotify.com/album/5naYBHiMro7E0MVPmhhYHP) | 3:52 |
-| 82 | [Tears of the Dragon \- 2001 Remastered Version](https://open.spotify.com/track/1fvlJQrm3yoN2TpKH5FgiR) | [Bruce Dickinson](https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9) | [Balls To Picasso \(2001 Remastered Version\)](https://open.spotify.com/album/6Jbj3GyCsicdHpMDlMchN8) | 6:24 |
-| 83 | [Cryin'](https://open.spotify.com/track/3Yls95V4qCzVfR20gr8cOW) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip \(Reissue \- Remaster\)](https://open.spotify.com/album/6BZNF93Ac0zqWD1n9TgFOq) | 5:08 |
+| 82 | [Cryin'](https://open.spotify.com/track/3Yls95V4qCzVfR20gr8cOW) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip \(Reissue \- Remaster\)](https://open.spotify.com/album/6BZNF93Ac0zqWD1n9TgFOq) | 5:08 |
+| 83 | [Tears of the Dragon \- 2001 Remastered Version](https://open.spotify.com/track/1fvlJQrm3yoN2TpKH5FgiR) | [Bruce Dickinson](https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9) | [Balls To Picasso \(2001 Remastered Version\)](https://open.spotify.com/album/6Jbj3GyCsicdHpMDlMchN8) | 6:24 |
 | 84 | [Miles Away](https://open.spotify.com/track/3Bzh1AtiViTIaZV6yqySZH) | [Winger](https://open.spotify.com/artist/2qQeKHrQJHLLbvDAOSO874) | [In The Heart Of The Young](https://open.spotify.com/album/2P5MIQaEXsyDtiXXChyijs) | 4:12 |
 | 85 | [A Tale That Wasn't Right](https://open.spotify.com/track/6Fd53Af2royyl5btFfgzlB) | [Helloween](https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY) | [Keeper of the Seven Keys, Pt\. I \(Expanded Edition\)](https://open.spotify.com/album/2UHFdmz05GmEY0J0ZbuMBp) | 4:43 |
 | 86 | [Bed Of Roses](https://open.spotify.com/track/5Ac8sOEk91RTzD06ViNzqf) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Keep The Faith \(Remastered\)](https://open.spotify.com/album/7LE04w5XSg8wIpIubDkqZr) | 6:34 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 | 95 | [Amazing](https://open.spotify.com/track/2YswrtCvqzD5k8AWT7irnS) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Get A Grip \(Reissue \- Remaster\)](https://open.spotify.com/album/6BZNF93Ac0zqWD1n9TgFOq) | 5:56 |
 | 96 | [Givin' Yourself Away](https://open.spotify.com/track/066s12j61ZlXnMDtnUiDbP) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [Detonator](https://open.spotify.com/album/1I8TqSMkoRvF4xZSvuFDiq) | 5:26 |
 | 97 | [You're All I Need](https://open.spotify.com/track/4n4W0yJsGYXzFwStMYMLxj) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Girls, Girls, Girls](https://open.spotify.com/album/0Tnve4bDxyiBCRaj03qO8z) | 4:35 |
-| 98 | [I Don't Care \(feat\. Adam Gontier\)](https://open.spotify.com/track/7KRnJW2x33Mb84NavoKmbh) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I), [Adam Gontier](https://open.spotify.com/artist/2NkpmkcWNxbWydBaETRfqT) | [Worlds Collide](https://open.spotify.com/album/0rr0bj60VA1iBM0T6s34mL) | 3:57 |
-| 99 | [Forever and One \(Neverland\)](https://open.spotify.com/track/0B6qYQS41EcbC66r7c4DBB) | [Helloween](https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY) | [The Time of the Oath](https://open.spotify.com/album/5hx4UkhFj4gaUA0mjNr9D4) | 3:54 |
+| 98 | [Promises](https://open.spotify.com/track/0kAocIIQ0FP9NIKASAjVH5) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [The World Needs a Hero](https://open.spotify.com/album/5YFrdrFUHGgAvK8iXFxULa) | 4:28 |
+| 99 | [I Don't Care \(feat\. Adam Gontier\)](https://open.spotify.com/track/7KRnJW2x33Mb84NavoKmbh) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I), [Adam Gontier](https://open.spotify.com/artist/2NkpmkcWNxbWydBaETRfqT) | [Worlds Collide](https://open.spotify.com/album/0rr0bj60VA1iBM0T6s34mL) | 3:57 |
 | 100 | [I Don't Want to Miss a Thing \- From "Armageddon" Soundtrack](https://open.spotify.com/track/6NSiHTnuDB3vwgJQF3bqJh) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [The Essential Aerosmith](https://open.spotify.com/album/0YlgzYfI3a1OrGBBN0wWTG) | 4:58 |
 
 Snapshot ID: `AAAAAM+deCwUhT19r8htZ2+lfHHArf3e`

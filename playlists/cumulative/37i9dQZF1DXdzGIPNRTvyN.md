@@ -4,7 +4,7 @@
 
 > Wander into the magical mix of music, water, birds, and calmness.
 
-377 songs - 17 hr 50 min
+378 songs - 17 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -317,9 +317,10 @@
 | [Silva](https://open.spotify.com/track/5MMZaDi79Qma47pWO6Uotv) | [Songlark](https://open.spotify.com/artist/2UHdn1PjYe05hpiNNm91oK) | [Silva](https://open.spotify.com/album/5BlwN0E9wy8Ky4DvYcbaJk) | 2:28 | 2024-06-03 | 2025-11-14 |
 | [Silva Fabula](https://open.spotify.com/track/2nkAMyppbrCEwr6W0ObGDT) | [Baltasar Thorgimson](https://open.spotify.com/artist/7AvjGwRVcZebryU03FobZt) | [Silva Fabula](https://open.spotify.com/album/28gLeF0gUVTBRbtJczNWUn) | 3:10 | 2023-02-13 | 2024-07-17 |
 | [Silver & Gold](https://open.spotify.com/track/4OrQu62Uv8X5xW5nJ0Hhfr) | [Ljusnan](https://open.spotify.com/artist/6kprss883ebiMmbGqz4ZMe) | [Silver & Gold](https://open.spotify.com/album/75MIeBFvynPkb13J6kjDmr) | 3:36 | 2025-04-29 |  |
-| [Silver Stream](https://open.spotify.com/track/7ronX32OxGSCOgHisHxtEc) | [Collected Dreams](https://open.spotify.com/artist/663shNr1wUnWbD1TQ5v8Sx) | [Silver Stream](https://open.spotify.com/album/24AS9jxs2y2z9nLwr4MmjX) | 2:34 | 2024-12-20 |  |
+| [Silver Stream](https://open.spotify.com/track/7ronX32OxGSCOgHisHxtEc) | [Collected Dreams](https://open.spotify.com/artist/663shNr1wUnWbD1TQ5v8Sx) | [Silver Stream](https://open.spotify.com/album/24AS9jxs2y2z9nLwr4MmjX) | 2:34 | 2024-12-20 | 2025-12-29 |
 | [Skoog](https://open.spotify.com/track/51Z0L8e5Wk1EUHfHHBY8lu) | [Calmative](https://open.spotify.com/artist/4jdsVahXLyNHILghPDbeQt) | [Skoog](https://open.spotify.com/album/73Jo8b1BCPoWAVetF4H52N) | 3:27 | 2024-12-04 |  |
 | [Skyflow](https://open.spotify.com/track/42yRPwqN8zHcaOj6tsyGS8) | [Ra Kuyou](https://open.spotify.com/artist/6JaXnzBNg8E8Z6kVDP1GXR) | [Skyflow](https://open.spotify.com/album/01rre0E5ZuPhFZ0v9FJ2ob) | 2:51 | 2025-02-10 |  |
+| [Slow Drifting](https://open.spotify.com/track/7kXKkgCB1u4mzXO2P9LsUP) | [Deepest Minds](https://open.spotify.com/artist/52ErOF8aEknX03YCwcj6Vp) | [Slow Drifting](https://open.spotify.com/album/39V8Sj52MNmbsCViIj67gr) | 2:25 | 2025-12-18 |  |
 | [Slow Stream](https://open.spotify.com/track/43slau8Y2GhKBA3itVEvlz) | [Tonal Topographies](https://open.spotify.com/artist/7F6XWc2t17ADSbXAzwzQF8) | [Slow Stream](https://open.spotify.com/album/3ZowFm97ZG9gFRpFxty9eQ) | 3:24 | 2025-04-01 |  |
 | [Slowly Stream](https://open.spotify.com/track/3K5TE2OlvFLnXbRLarLlBd) | [Mystisse](https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp) | [Slowly](https://open.spotify.com/album/2zKxxUDZeLSpm6whXgcnGo) | 3:11 | 2023-12-18 |  |
 | [Sogno Illuminum](https://open.spotify.com/track/0xAvs3yyfYZOmzJorbPIwq) | [Enchanted Feel](https://open.spotify.com/artist/6Rfx3Kq2IphTcrtkQRejYX) | [Sogno Illuminum](https://open.spotify.com/album/51zrublZgSNFIMIrjM7Kjd) | 2:29 | 2023-04-06 | 2025-10-02 |

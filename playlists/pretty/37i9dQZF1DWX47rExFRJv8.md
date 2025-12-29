@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX47rExFRJv8.md) - [plain]
 
 > The biggest songs in Latin America in 2018\. Cover: Bad Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,543 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,568 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX47rExFRJv8.md) - [plain]
 | 29 | [NI BIEN NI MAL](https://open.spotify.com/track/278kSqsZIiYp8p3QjYAqa8) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 3:56 |
 | 30 | [Clandestino](https://open.spotify.com/track/7DrluKkTviBwCc8AV3VGmf) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Clandestino](https://open.spotify.com/album/1h1hnfRyc45IIDnxUCaGIf) | 3:51 |
 | 31 | [La Forma en Que Me Miras](https://open.spotify.com/track/6t94PGXYAuo9GbJEnMpPcW) | [Super Yei](https://open.spotify.com/artist/6HqgxkTt9KGyt27zYrwVan), [Sammy Baby](https://open.spotify.com/artist/47YyZs6zl7kuFE1yw85O6z), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [La Forma en Que Me Miras](https://open.spotify.com/album/4C1RvpT7vJ7H8j21larWQU) | 5:07 |
-| 32 | [Celoso](https://open.spotify.com/track/33zcmmElV1YbRZe57biUjg) | [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx) | [Celoso](https://open.spotify.com/album/0gXUZc4bTQzNqLvIyeObHm) | 2:59 |
-| 33 | [Ya No Tiene Novio](https://open.spotify.com/track/7uQmJ1jgNzBpATSoWKSPFu) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Ya No Tiene Novio](https://open.spotify.com/album/7yFrNYBdjgAeUKflMGtU8l) | 3:18 |
+| 32 | [Ya No Tiene Novio](https://open.spotify.com/track/7uQmJ1jgNzBpATSoWKSPFu) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Ya No Tiene Novio](https://open.spotify.com/album/7yFrNYBdjgAeUKflMGtU8l) | 3:18 |
+| 33 | [Celoso](https://open.spotify.com/track/33zcmmElV1YbRZe57biUjg) | [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx) | [Celoso](https://open.spotify.com/album/0gXUZc4bTQzNqLvIyeObHm) | 2:59 |
 | 34 | [A Solas \(Remix\)](https://open.spotify.com/track/1fXEkSum1vbTa3w0yvYzYW) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4) | [Épico](https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT) | 4:33 |
 | 35 | [Loca \- Remix](https://open.spotify.com/track/2ECIwi1a7mfokdDkkJ08Ne) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Loca Remix](https://open.spotify.com/album/5EuK2rW0iPINmt21KPbIUQ) | 5:46 |
 | 36 | [Mala Mía](https://open.spotify.com/track/62o8KoI44JfN7aYxgTnPvh) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Mala Mía](https://open.spotify.com/album/3Bj8Yd9ANO4KufZkqOmG0W) | 3:03 |

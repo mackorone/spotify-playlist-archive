@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 
 > \#fyp
 
-[Spotify](https://open.spotify.com/user/spotify) - 840,080 likes - 90 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 840,288 likes - 90 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Le mal aimé](https://open.spotify.com/track/36JTsxq9ywTGHpBjg3Wf4J) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ) | [Le mal aimé / Le téléphone pleure](https://open.spotify.com/album/2nNfGK1Gcwie6YAiwZ1chD) | 2:39 |
-| 2 | [Génération impolie](https://open.spotify.com/track/1REP1cQ1YarUEvQ5krpO53) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Génération impolie](https://open.spotify.com/album/6DQlLPdz0HCOL2U3CNtQOk) | 2:21 |
-| 3 | [LOVE YOU](https://open.spotify.com/track/35eK52MQkpWLxwyIAGKKXT) | [Nono La Grinta](https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN) | [LOVE YOU](https://open.spotify.com/album/3m0dYhTtuAIIwlaTofJlkq) | 2:27 |
-| 4 | [Ballon D'or](https://open.spotify.com/track/3zs1RJzrhgt0JsNsPopubX) | [Le Crime](https://open.spotify.com/artist/00edlcHg3ILdHtrYL54bxX), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Après La Vague](https://open.spotify.com/album/3EcOZjpLJXsdISZVDaeGFM) | 3:26 |
-| 5 | [MON BÉBÉ](https://open.spotify.com/track/1yGJ40k7HLF3odITZPoQs4) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc) | [MON BÉBÉ](https://open.spotify.com/album/6p7H7G0xpnDvlDdsh7IbM8) | 2:10 |
-| 6 | [Phantom](https://open.spotify.com/track/6jUtvXa9NwN1Rh0PkLJHOz) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy), [Rico Ace](https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o) | [Phantom](https://open.spotify.com/album/4KKAIvHLWvTJgGiADIHqnn) | 1:49 |
-| 7 | [melodrama](https://open.spotify.com/track/5Y8C6KjzBRKvcT3Aln1Bc4) | [disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g), [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [melodrama](https://open.spotify.com/album/5wFsZ4iXAggxIVNZRJogvr) | 2:56 |
-| 8 | [MATHÉMATIQUE](https://open.spotify.com/track/1k2MSLuxyPxJbM47VrVVIq) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [iDS](https://open.spotify.com/artist/6FIkk8GqVuqCHg2vMKWKqm), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [THUG CEREMONY](https://open.spotify.com/album/1jfB93ugt4JRQlGPtsa6E0) | 2:33 |
-| 9 | [Toute la nuit](https://open.spotify.com/track/4kzHds1mgNB0kuCLHeOGiV) | [GP Explorer](https://open.spotify.com/artist/70uVwDuiOTyZqm8Ik2rk7O), [Anyme023](https://open.spotify.com/artist/2XoNHBh5o3I1Niqsr5uA3P) | [Toute la nuit](https://open.spotify.com/album/0GNUPfnVUIn0Pbm3KLB8NS) | 3:18 |
-| 10 | [OG](https://open.spotify.com/track/4MhWzQysa4cZ2enHOyzs87) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [OG](https://open.spotify.com/album/4859Y9IWnv38DK6CwWITtb) | 2:44 |
+| 1 | [Génération impolie](https://open.spotify.com/track/1REP1cQ1YarUEvQ5krpO53) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Génération impolie](https://open.spotify.com/album/6DQlLPdz0HCOL2U3CNtQOk) | 2:21 |
+| 2 | [LOVE YOU](https://open.spotify.com/track/35eK52MQkpWLxwyIAGKKXT) | [Nono La Grinta](https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN) | [LOVE YOU](https://open.spotify.com/album/3m0dYhTtuAIIwlaTofJlkq) | 2:27 |
+| 3 | [MATHÉMATIQUE](https://open.spotify.com/track/1k2MSLuxyPxJbM47VrVVIq) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [iDS](https://open.spotify.com/artist/6FIkk8GqVuqCHg2vMKWKqm), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [THUG CEREMONY](https://open.spotify.com/album/1jfB93ugt4JRQlGPtsa6E0) | 2:33 |
+| 4 | [MON BÉBÉ](https://open.spotify.com/track/1yGJ40k7HLF3odITZPoQs4) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc) | [MON BÉBÉ](https://open.spotify.com/album/6p7H7G0xpnDvlDdsh7IbM8) | 2:10 |
+| 5 | [OG](https://open.spotify.com/track/4MhWzQysa4cZ2enHOyzs87) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [OG](https://open.spotify.com/album/4859Y9IWnv38DK6CwWITtb) | 2:44 |
+| 6 | [Le mal aimé](https://open.spotify.com/track/36JTsxq9ywTGHpBjg3Wf4J) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ) | [Le mal aimé / Le téléphone pleure](https://open.spotify.com/album/2nNfGK1Gcwie6YAiwZ1chD) | 2:39 |
+| 7 | [Ballon D'or](https://open.spotify.com/track/3zs1RJzrhgt0JsNsPopubX) | [Le Crime](https://open.spotify.com/artist/00edlcHg3ILdHtrYL54bxX), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Après La Vague](https://open.spotify.com/album/3EcOZjpLJXsdISZVDaeGFM) | 3:26 |
+| 8 | [melodrama](https://open.spotify.com/track/5Y8C6KjzBRKvcT3Aln1Bc4) | [disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g), [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [melodrama](https://open.spotify.com/album/5wFsZ4iXAggxIVNZRJogvr) | 2:56 |
+| 9 | [Phantom](https://open.spotify.com/track/6jUtvXa9NwN1Rh0PkLJHOz) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy), [Rico Ace](https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o) | [Phantom](https://open.spotify.com/album/4KKAIvHLWvTJgGiADIHqnn) | 1:49 |
+| 10 | [Toute la nuit](https://open.spotify.com/track/4kzHds1mgNB0kuCLHeOGiV) | [GP Explorer](https://open.spotify.com/artist/70uVwDuiOTyZqm8Ik2rk7O), [Anyme023](https://open.spotify.com/artist/2XoNHBh5o3I1Niqsr5uA3P) | [Toute la nuit](https://open.spotify.com/album/0GNUPfnVUIn0Pbm3KLB8NS) | 3:18 |
 | 11 | [Tour du monde](https://open.spotify.com/track/3JzeDkdvorMWUvaAnU7BCX) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Tour du monde](https://open.spotify.com/album/0S05qjbRcOueLjoZZDgVZO) | 2:51 |
 | 12 | [Vérité](https://open.spotify.com/track/1O1EqgvgRyj1ejZPUxI0UX) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Jefe](https://open.spotify.com/album/0RBanMMBVaRdM7SOwgAmaK) | 3:19 |
 | 13 | [BTRD](https://open.spotify.com/track/2hndzMd89P8nEG4jTRurPk) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc) | [BTRD](https://open.spotify.com/album/3W3X5NelHHpoxgoGg8V9CB) | 2:20 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 | 89 | [Caliente](https://open.spotify.com/track/26Z2FQ9KFswyX2x7LxhQKs) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Party Never Ends, Part 1 \(Deluxe Edition\)](https://open.spotify.com/album/45WWiybURSpC7tslSxGnrf) | 3:21 |
 | 90 | [LO QUE LE PASÓ A HAWAii](https://open.spotify.com/track/1Hg0e997pObvZ91w1FCPFk) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:49 |
 
-Snapshot ID: `AAAAAHvMYaCJ06T/96387uy2vlLlrdfY`
+Snapshot ID: `AAAAAP7+lz8yUDtay6/5Sb5yEl9K5ldK`

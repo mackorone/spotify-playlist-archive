@@ -9,8 +9,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Lost on You](https://open.spotify.com/track/40x5K8xyIWVmSeUrYjj0os) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost On You](https://open.spotify.com/album/2IdswGlDALRu7hjWi3Nu7f) | 4:28 |
-| 2 | [When We're High](https://open.spotify.com/track/4jPYg9dHCUElQzDCXoaTxE) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost On You](https://open.spotify.com/album/1PZZJGNY5VDtAQmNqP1f4U) | 3:57 |
-| 3 | [I'll Do It](https://open.spotify.com/track/3RpCFxfsccNPDTWd3ALMaB) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG) | [Superficial](https://open.spotify.com/album/0MHyAAVcnhmU76kko43Cax) | 3:30 |
+| 2 | [I'll Do It](https://open.spotify.com/track/3RpCFxfsccNPDTWd3ALMaB) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG) | [Superficial](https://open.spotify.com/album/0MHyAAVcnhmU76kko43Cax) | 3:30 |
+| 3 | [When We're High](https://open.spotify.com/track/4jPYg9dHCUElQzDCXoaTxE) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost On You](https://open.spotify.com/album/1PZZJGNY5VDtAQmNqP1f4U) | 3:57 |
 | 4 | [Cheers \(Drink To That\)](https://open.spotify.com/track/3DDBW9yeXc0RQUAOBeKYti) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Loud](https://open.spotify.com/album/5QG3tjE5L9F6O2vCAPph38) | 4:21 |
 | 5 | [Other People](https://open.spotify.com/track/32f4hFMwHkw3Ooeqf0hbnK) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Lost On You](https://open.spotify.com/album/2IdswGlDALRu7hjWi3Nu7f) | 4:04 |
 | 6 | [Girls Go Wild](https://open.spotify.com/track/6V2kixFwpkPuJVuPjyMvHU) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart to Mouth](https://open.spotify.com/album/4OjeNKUsZFgD6dnQbd3pM9) | 3:43 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 | 84 | [Afraid To Sleep \- The Voice Performance](https://open.spotify.com/track/06Km3ZJ7x5Bbw6BzwvKNgq) | [Vicci Martinez](https://open.spotify.com/artist/1sxu3pxg9icRUHpyWpDxz2) | [Afraid To Sleep \(The Voice Performance\)](https://open.spotify.com/album/1ZXYmRM2sYpVMXRHYvSezX) | 3:20 |
 | 85 | [Pedestal](https://open.spotify.com/track/2uuG0q0NJCODSZxo3Q3RX8) | [EMIN](https://open.spotify.com/artist/0sKY9AcBdiGx4FbFbQsXoX) | [Good Love](https://open.spotify.com/album/0fetHuPcxKROz43WYu3J31) | 3:25 |
 
-Snapshot ID: `AcFYCAAAAADPs3pzPeNr+zcoZQDIVNyt`
+Snapshot ID: `AcFdqAAAAABg/DAaJvlFttOWmQu4xD6k`

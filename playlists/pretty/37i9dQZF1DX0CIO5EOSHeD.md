@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 
 > Slacker jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 502,930 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 502,932 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 77 | [at least, I tried](https://open.spotify.com/track/1EznNhpm2q1HaAFxIO8k2h) | [Heroe](https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1) | [at least, I tried](https://open.spotify.com/album/1QnA67cEEW7GV8izg8ZGwT) | 3:14 |
 | 78 | [That's What They Wanted](https://open.spotify.com/track/61hQMSDPEyMduIoZ6BwkO2) | [canless valley](https://open.spotify.com/artist/4Px3YntOJS8Ba8uxa0ppIj) | [That's What They Wanted](https://open.spotify.com/album/6ixZ1mCoJtFwwSMqufEfZC) | 1:56 |
 | 79 | [Escape From The Killer 2008](https://open.spotify.com/track/0E3C9ry5VM5YqCZLdcE0Fj) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Escape From The Killer](https://open.spotify.com/album/3f8J1FJdPioQfUEG3FL2PG) | 3:26 |
-| 80 | [Black Tar](https://open.spotify.com/track/1Ipu45jQi7z03PSi3ce35h) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Makes Me Sick Makes Me Smile](https://open.spotify.com/album/44qJ7WYmUyZo4J93o4oDsx) | 2:57 |
-| 81 | [PIERCED ARROWS](https://open.spotify.com/track/2wEYO3Vg0gv5xK4iAMfHBz) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [LIFE ON EARTH](https://open.spotify.com/album/5oHaiGt9cgATxsrv409jP3) | 4:02 |
+| 80 | [PIERCED ARROWS](https://open.spotify.com/track/2wEYO3Vg0gv5xK4iAMfHBz) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [LIFE ON EARTH](https://open.spotify.com/album/5oHaiGt9cgATxsrv409jP3) | 4:02 |
+| 81 | [Black Tar](https://open.spotify.com/track/1Ipu45jQi7z03PSi3ce35h) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Makes Me Sick Makes Me Smile](https://open.spotify.com/album/44qJ7WYmUyZo4J93o4oDsx) | 2:57 |
 | 82 | [The only conscious being in the universe](https://open.spotify.com/track/7iEwvFYCKssQmV1Zz6WPam) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [The Tw\*ts](https://open.spotify.com/album/5N3ROnE45uWHTrgf2XiiQy) | 3:18 |
 | 83 | [Maybe the Problem Is Me](https://open.spotify.com/track/5gPRsdhEoR53H4eSRBXnzh) | [dexter in the newsagent](https://open.spotify.com/artist/1ey2ESMWC5HEj2CmxvD7Mp), [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Maybe the Problem Is Me](https://open.spotify.com/album/0SsPfnh3JLRz8mKRjKD4BB) | 2:13 |
 | 84 | [Gums](https://open.spotify.com/track/1SPkDEDUnOZqMfcRPPMYgu) | [Blue Mena](https://open.spotify.com/artist/0OVCaaj4RxjhMe7vHsPPCa) | [gums](https://open.spotify.com/album/5WIoze1Mah2RAPGwWefQOa) | 3:38 |
@@ -101,9 +101,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 91 | [Attempt](https://open.spotify.com/track/0a7RXqXcCSNeo7WxynoNka) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4) | [Attempt](https://open.spotify.com/album/5E28eyKT4NRsWuFY1o0yau) | 4:41 |
 | 92 | [Sofia](https://open.spotify.com/track/7B3z0ySL9Rr0XvZEAjWZzM) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:08 |
 | 93 | [Sun Outside My Window](https://open.spotify.com/track/2N1KZRaNtW6amPcBKb31MV) | [Strawberry Guy](https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc) | [Sun Outside My Window](https://open.spotify.com/album/3glwsPmD4tuQ1k5Qnh7O6i) | 3:21 |
-| 94 | [Makeup](https://open.spotify.com/track/1vTNp2KQzVM5GkQ7sd2GOp) | [Oberhofer](https://open.spotify.com/artist/5zb7wVUx1vTXLB6HX26EnX) | [Makeup](https://open.spotify.com/album/4pBMcr7cjlbsB7MkMiuA0H) | 3:28 |
-| 95 | [Solid Door](https://open.spotify.com/track/2Cv5RfiMkCTgrYKxkYqLAo) | [Nature TV](https://open.spotify.com/artist/43oBGBlKaDxrti8m7QiQrC) | [Lady Luck EP](https://open.spotify.com/album/5HeAzBZmmQl3hbfVCODU24) | 3:51 |
-| 96 | [home:so long](https://open.spotify.com/track/37xgjn1tD4UqEC49kLpAYC) | [lavender](https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY) | [home:so long](https://open.spotify.com/album/1xevyPZYmndyAGc7PS4JrX) | 1:25 |
+| 94 | [home:so long](https://open.spotify.com/track/37xgjn1tD4UqEC49kLpAYC) | [lavender](https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY) | [home:so long](https://open.spotify.com/album/1xevyPZYmndyAGc7PS4JrX) | 1:25 |
+| 95 | [Makeup](https://open.spotify.com/track/1vTNp2KQzVM5GkQ7sd2GOp) | [Oberhofer](https://open.spotify.com/artist/5zb7wVUx1vTXLB6HX26EnX) | [Makeup](https://open.spotify.com/album/4pBMcr7cjlbsB7MkMiuA0H) | 3:28 |
+| 96 | [Solid Door](https://open.spotify.com/track/2Cv5RfiMkCTgrYKxkYqLAo) | [Nature TV](https://open.spotify.com/artist/43oBGBlKaDxrti8m7QiQrC) | [Lady Luck EP](https://open.spotify.com/album/5HeAzBZmmQl3hbfVCODU24) | 3:51 |
 | 97 | [August 19](https://open.spotify.com/track/4c8x6c7l31Hvd4iZNztEuK) | [HighSchool](https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb) | [August 19](https://open.spotify.com/album/1h4VJe5AfMPD7jAr2fLZYP) | 2:35 |
 | 98 | [Warning Sign \- Alt Version](https://open.spotify.com/track/1rIols5fQBAIwsCuN4kFXG) | [Far Caspian](https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4), [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Warning Sign \(Alt Version\)](https://open.spotify.com/album/622AyvYosXOdxnbW2CprMx) | 2:59 |
 | 99 | [Reason](https://open.spotify.com/track/1vKQ7iMGxPdPhuWTjHKzQh) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [Reason](https://open.spotify.com/album/7ld5mYxqaguckkRX9bW7Vs) | 3:40 |

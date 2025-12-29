@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 
 > Songs to soundtrack your love story, from butterflies and first kisses to bittersweet memories and everything in between.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,615,111 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,614,922 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 | 40 | [Build Me Up From Bones](https://open.spotify.com/track/1I9dSqB5XSdwOfn9M8zpRg) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Build Me Up From Bones](https://open.spotify.com/album/3WgIxB4vFl8i5ZHCypubIK) | 3:36 |
 | 41 | [Gold](https://open.spotify.com/track/3iTi975Q6qnoRKrBL1FNsl) | [Matt Hartke](https://open.spotify.com/artist/6OkqAt7MtIDPOadHr1gEkz), [Maggie Peake](https://open.spotify.com/artist/6NCA2AVIHGles0udtwuoqN) | [Gold](https://open.spotify.com/album/2pnxUdbJT2pwi44f54iCbE) | 4:16 |
 | 42 | [Stay With Me \- Live From Spotify Berlin](https://open.spotify.com/track/6itWAD2WxmAVQgWuk85yXx) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Spotify Sessions](https://open.spotify.com/album/5ota1DtixKfUcrsiazzgcK) | 2:54 |
-| 43 | [Lover / / Over the Moon](https://open.spotify.com/track/5hGzYOXKT3YxJu2qcDTc44) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Glow](https://open.spotify.com/album/17bMGqdO2UxbHHgiE9mX6X) | 3:27 |
-| 44 | [There's A Place](https://open.spotify.com/track/1dNDxVM1HDpdKgon58QvtU) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Pacific](https://open.spotify.com/album/3zjU4Uu8DvEBpnsHbLDvyQ) | 6:08 |
+| 43 | [There's A Place](https://open.spotify.com/track/1dNDxVM1HDpdKgon58QvtU) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Pacific](https://open.spotify.com/album/3zjU4Uu8DvEBpnsHbLDvyQ) | 6:08 |
+| 44 | [Lover / / Over the Moon](https://open.spotify.com/track/5hGzYOXKT3YxJu2qcDTc44) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Glow](https://open.spotify.com/album/17bMGqdO2UxbHHgiE9mX6X) | 3:27 |
 | 45 | [We'll Make It Through](https://open.spotify.com/track/4WzQEkUYTBzo0DRnJfYPls) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [MONOVISION](https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE) | 6:03 |
 | 46 | [My Lover](https://open.spotify.com/track/3PgZ3mM7KT9YubwfrYqb7H) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [My Lover](https://open.spotify.com/album/1XNcrrRz2cCXzYXLfuK3TQ) | 4:29 |
 | 47 | [Halleluya](https://open.spotify.com/track/1eiSkx4vQiHJ2tzMDDjL01) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Halleluya](https://open.spotify.com/album/4ZDbn99PxmBpj3UtcDXWWx) | 3:54 |
@@ -71,11 +71,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlwBojgQEcN.md) - [plain]
 | 61 | [Winners](https://open.spotify.com/track/24iNTcDw03qMYCS3mJaq5f) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Wild Animals](https://open.spotify.com/album/1DcI1ob0G4cNKIyFhrR35S) | 5:14 |
 | 62 | [Love You Anyway](https://open.spotify.com/track/31QplXgQf5ZZzk6mbx5KHr) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH) | [Love You Anyway](https://open.spotify.com/album/3yDRYiQJHgrzUxztqO5hrG) | 3:47 |
 | 63 | [Sail on the Water](https://open.spotify.com/track/7gYiZXvvD8H6f0lEvLUQHD) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Sail on the Water](https://open.spotify.com/album/0RiF9qA2En4shWcPAC5Pz5) | 4:21 |
-| 64 | [All the Beds I've Made \(Acoustic\)](https://open.spotify.com/track/10jrqgyC1u81RhIgtLUfdR) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [All the Beds I've Made \(Acoustic\)](https://open.spotify.com/album/3WAsH27vQcwla1TNOYFEua) | 3:33 |
-| 65 | [Somebody To Love](https://open.spotify.com/track/5n0zsZHAP1lUwc9cGuwxhr) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' Against A Stone](https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ) | 3:32 |
-| 66 | [After Dark](https://open.spotify.com/track/039NLDI1UZZlXtLB0Kog6W) | [Tori Harper](https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i) | [After Dark](https://open.spotify.com/album/6ruIiJQxN1oHeJKq24M4Rn) | 4:08 |
-| 67 | [Sunflower, Vol\. 6](https://open.spotify.com/track/535qfjYWFpQBjvIpWNG1ZG) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [...but i'd rather be with you](https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy) | 3:55 |
-| 68 | [Roll](https://open.spotify.com/track/0nXQJBEDzMLVaMOvtXGYSX) | [Ethan Parker](https://open.spotify.com/artist/6M7eKplcEZB8f87r2FMo3l) | [Roll](https://open.spotify.com/album/3zaxYdzgmoxxps2lC8sfOH) | 3:25 |
+| 64 | [Somebody To Love](https://open.spotify.com/track/5n0zsZHAP1lUwc9cGuwxhr) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' Against A Stone](https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ) | 3:32 |
+| 65 | [Roll](https://open.spotify.com/track/0nXQJBEDzMLVaMOvtXGYSX) | [Ethan Parker](https://open.spotify.com/artist/6M7eKplcEZB8f87r2FMo3l) | [Roll](https://open.spotify.com/album/3zaxYdzgmoxxps2lC8sfOH) | 3:25 |
+| 66 | [All the Beds I've Made \(Acoustic\)](https://open.spotify.com/track/10jrqgyC1u81RhIgtLUfdR) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [All the Beds I've Made \(Acoustic\)](https://open.spotify.com/album/3WAsH27vQcwla1TNOYFEua) | 3:33 |
+| 67 | [After Dark](https://open.spotify.com/track/039NLDI1UZZlXtLB0Kog6W) | [Tori Harper](https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i) | [After Dark](https://open.spotify.com/album/6ruIiJQxN1oHeJKq24M4Rn) | 4:08 |
+| 68 | [Sunflower, Vol\. 6](https://open.spotify.com/track/535qfjYWFpQBjvIpWNG1ZG) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [...but i'd rather be with you](https://open.spotify.com/album/1Misn812Z5W216eNI7NuIy) | 3:55 |
 | 69 | [How We Used to Love](https://open.spotify.com/track/6XkChVvxj0Cakfae17NaK3) | [Siv Jakobsen](https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl) | [The Lingering](https://open.spotify.com/album/3dmPz4j1JhjGi9NXlbrK6S) | 3:03 |
 | 70 | [Love You Anyway \[Feat\. Sammy Rae & The Friends\]](https://open.spotify.com/track/3wSMril9YOcKdoeAuPLNH3) | [Devon Gilfillian](https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH), [Sammy Rae & The Friends](https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn) | [Love You Anyway \[Feat\. Sammy Rae & The Friends\]](https://open.spotify.com/album/4pGdjWWFkaIWX7f6RxrX0t) | 3:58 |
 | 71 | [Machine](https://open.spotify.com/track/5bd7amccz6nBtODT3TgAZE) | [Scott Helman](https://open.spotify.com/artist/2LgklPXmvWVOQfzPVkuChg) | [Augusta](https://open.spotify.com/album/0f76y2SetY65asEqyesJed) | 2:53 |

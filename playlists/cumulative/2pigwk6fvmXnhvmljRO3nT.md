@@ -4,7 +4,7 @@
 
 > 
 
-8,244 songs - 20 day 22 hr 39 min
+8,245 songs - 20 day 22 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1118,6 +1118,7 @@
 | [Cat Cafe](https://open.spotify.com/track/0FVNutqCSpNkFMwADm6v8h) | [Tsundere Twintails](https://open.spotify.com/artist/4Rpi0HMTWTc9EQFdOPbRzY) | [Cat Cafe](https://open.spotify.com/album/121XsXDqHvPHsLZ7f8IIHf) | 3:05 | 2025-03-08 |  |
 | [Catallena](https://open.spotify.com/track/5fWKr5p15BTazjflJ6HX5j) | [Orange Caramel](https://open.spotify.com/artist/2QHTtUsN6Q13w3QHdfRqsK) | [THE THIRD SINGLE CATALLENA](https://open.spotify.com/album/3FeATTUjZWvmXW2kP9CHWY) | 3:13 | 2025-07-22 |  |
 | [Cataracts](https://open.spotify.com/track/4SN5Kkig8iJ8vdwsOoP7IO) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf) | [Bandana](https://open.spotify.com/album/31KbO7WnDp2AjPdmRTJzdf) | 3:39 | 2025-01-03 |  |
+| [Catch Me If You Can](https://open.spotify.com/track/2bl5DiPxfhjC14eH1J80CP) | [Wuthering Waves](https://open.spotify.com/artist/4NJxtQzTTeO3ObGlBcxVAh), [Eileen Marine](https://open.spotify.com/artist/6sllXM0TOq7Dxzsl4Q6NdA) | [Catch Me If You Can \(Original Game Soundtrack\)](https://open.spotify.com/album/1FVBY8hpZv4jaJB5lkMAod) | 3:07 | 2025-12-28 |  |
 | [Catch the Moment](https://open.spotify.com/track/13sxKGMd5RDQYavHyZ8Flw) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Little Devil Parade](https://open.spotify.com/album/30hcGiYGwfXGBjYJzAcAZ2) | 4:42 | 2025-01-03 |  |
 | [Catch up, latency](https://open.spotify.com/track/1OS3kgxIBgYqkCfUCkfakM) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [UNISON SQUARE GARDEN The 1st Collection for streaming](https://open.spotify.com/album/6Rm9rTuxsvukGVowLHP93c) | 4:45 | 2025-01-15 |  |
 | [Caught Their Eyes](https://open.spotify.com/track/71oM9w2BbJxzTpxzWIE0lw) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [4:44](https://open.spotify.com/album/7GoZNNb7Yl74fpk8Z6I2cv) | 3:26 | 2025-01-03 |  |

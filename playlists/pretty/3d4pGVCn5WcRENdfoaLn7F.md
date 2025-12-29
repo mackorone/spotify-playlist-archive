@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 387 likes - 70 songs - 4 hr 11 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 389 likes - 72 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,5 +78,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 68 | [Broken Souls](https://open.spotify.com/track/1QI8qHeZM2D9CjukHziaoo) | [Malcolm E Ormond](https://open.spotify.com/artist/37IitdXWKngXiu1htFAgMG) | [Broken Souls](https://open.spotify.com/album/3HyteMRqp1h4fag2Nukpd6) | 5:35 |
 | 69 | [Stay With You](https://open.spotify.com/track/0itsoBycSDpBi8OoaKj5CY) | [ToloV](https://open.spotify.com/artist/4t3awapuIDzb4fGOMWR35Q) | [Stay With You](https://open.spotify.com/album/4RWd149IxtWI1XcOHuYHQe) | 2:46 |
 | 70 | [December Fields \(Distribution\)](https://open.spotify.com/track/4bddpe4brO09lyHpE7lb9N) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [December Fields](https://open.spotify.com/album/2aRIUc4AfB3f7FKwqH7MZq) | 4:06 |
+| 71 | [Oh Lord \- DEMO](https://open.spotify.com/track/5B7Z958xoP5tSH4PAP0zwF) | [Lucy Benedetti](https://open.spotify.com/artist/1WKuen7Let4lgNPiKDVfl7) | [Oh Lord \(DEMO\)](https://open.spotify.com/album/3MNsjdaUPWdVKKMPXgj70g) | 3:36 |
+| 72 | [Message Through Time](https://open.spotify.com/track/4BPrHDgqGxnWANdMphAbNQ) | [Groove Vultures](https://open.spotify.com/artist/4mxU5Dnd342CsqAS6viJuj) | [Message Through Time](https://open.spotify.com/album/45LoKgIdcZiDUrx7V5HbuC) | 5:21 |
 
-Snapshot ID: `AAACNsRQ5InxpN7TOtwWL/FGLXdbWWaS`
+Snapshot ID: `AAACOAcagwreJuaV2DrPWn6kmv8DTU1/`

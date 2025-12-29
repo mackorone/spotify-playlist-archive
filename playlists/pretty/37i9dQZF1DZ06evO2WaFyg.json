@@ -1,12 +1,12 @@
 {
   "description": "This is Young Thug. The essential tracks, all in one playlist.",
-  "num_followers": 263785,
+  "num_followers": 263814,
   "original_name": "This Is Young Thug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU3QAAAAAAD5EoomgF4CoR8NJcC8zDsJ",
+  "snapshot_id": "aU8hgAAAAADKVSvYbTKAvhW65UfTuWGy",
   "tracks": [
     {
       "added_at": null,
@@ -211,30 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FRANCHISE (feat. Young Thug & M.I.A.)",
-        "url": "https://open.spotify.com/album/4Bp7LKA5Afo1PRoXuQe8qZ"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "M.I.A.",
-          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
-        }
-      ],
-      "duration_ms": 202794,
-      "name": "FRANCHISE (feat. Young Thug & M.I.A.)",
-      "url": "https://open.spotify.com/track/4jVBIpuOiMj1crqd8LoCrJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "So Much Fun (Deluxe)",
         "url": "https://open.spotify.com/album/24jAbLMFzCTlIv3kQ94HwK"
       },
@@ -255,6 +231,30 @@
       "duration_ms": 279906,
       "name": "Hot (Remix) [feat. Gunna and Travis Scott]",
       "url": "https://open.spotify.com/track/4ea9w8c4ROqiZpJVhfBA3m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FRANCHISE (feat. Young Thug & M.I.A.)",
+        "url": "https://open.spotify.com/album/4Bp7LKA5Afo1PRoXuQe8qZ"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "M.I.A.",
+          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
+        }
+      ],
+      "duration_ms": 202794,
+      "name": "FRANCHISE (feat. Young Thug & M.I.A.)",
+      "url": "https://open.spotify.com/track/4jVBIpuOiMj1crqd8LoCrJ"
     },
     {
       "added_at": null,

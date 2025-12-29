@@ -1,12 +1,12 @@
 {
   "description": "This is Sof\u00eda Reyes. The essential tracks, all in one playlist.",
-  "num_followers": 43397,
+  "num_followers": 43401,
   "original_name": "This Is Sof\u00eda Reyes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU3QAAAAAADo+Qp/h+a+4sI0oAlFx3N8",
+  "snapshot_id": "aU8hgAAAAAB6fmkl8hGrqQx7wZiQiALu",
   "tracks": [
     {
       "added_at": null,
@@ -431,26 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Malcriado",
-        "url": "https://open.spotify.com/album/7cqCTMBfcNv0JBVIMBHwu3"
-      },
-      "artists": [
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 158207,
-      "name": "Siempre Llegas Tarde",
-      "url": "https://open.spotify.com/track/0v0FEykw2BenGpzJnt7kY0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dancing On Dangerous (feat. Sof\u00eda Reyes)",
         "url": "https://open.spotify.com/album/2JxYl1wEAY8SUgZdUMYQ6Z"
       },
@@ -471,6 +451,26 @@
       "duration_ms": 123428,
       "name": "Dancing On Dangerous (feat. Sof\u00eda Reyes)",
       "url": "https://open.spotify.com/track/6OYZvwKN8GaauTrJS1TuuH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Malcriado",
+        "url": "https://open.spotify.com/album/7cqCTMBfcNv0JBVIMBHwu3"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 158207,
+      "name": "Siempre Llegas Tarde",
+      "url": "https://open.spotify.com/track/0v0FEykw2BenGpzJnt7kY0"
     },
     {
       "added_at": null,
@@ -659,26 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fama De Ingrata",
-        "url": "https://open.spotify.com/album/0Gkerz0nQtgjTLhcwEVyqZ"
-      },
-      "artists": [
-        {
-          "name": "Ingratax",
-          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 204907,
-      "name": "Daisy",
-      "url": "https://open.spotify.com/track/38xulhBGamZ1dqT8P2WfQ6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Esa Parte de M\u00ed",
         "url": "https://open.spotify.com/album/1fzcF6XsOj2O9UfxJm0LZd"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 215200,
       "name": "Esa Parte de M\u00ed",
       "url": "https://open.spotify.com/track/5zE2XYc6zON8lIYgDi6ZvP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fama De Ingrata",
+        "url": "https://open.spotify.com/album/0Gkerz0nQtgjTLhcwEVyqZ"
+      },
+      "artists": [
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 204907,
+      "name": "Daisy",
+      "url": "https://open.spotify.com/track/38xulhBGamZ1dqT8P2WfQ6"
     },
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "IDIOTA",
-        "url": "https://open.spotify.com/album/5HLaq4AONQkCMvFVHswg85"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 205013,
-      "name": "IDIOTA",
-      "url": "https://open.spotify.com/track/0Wk3MRrKRn6EPG7B83nKSJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gotta Be Patient",
         "url": "https://open.spotify.com/album/6zqf7sIi51QWskNvkEYaA7"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 160318,
       "name": "Gotta Be Patient",
       "url": "https://open.spotify.com/track/2Nb2SSUnGfThgDyG9ZOAkS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "IDIOTA",
+        "url": "https://open.spotify.com/album/5HLaq4AONQkCMvFVHswg85"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 205013,
+      "name": "IDIOTA",
+      "url": "https://open.spotify.com/track/0Wk3MRrKRn6EPG7B83nKSJ"
     },
     {
       "added_at": null,
@@ -803,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MILAMORES",
-        "url": "https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 133051,
-      "name": "HOY ME PORTO MAL",
-      "url": "https://open.spotify.com/track/4EVCjLBekvH0x7ogVgHtXN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mal De Amores",
         "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
       },
@@ -835,6 +819,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "MILAMORES",
+        "url": "https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 133051,
+      "name": "HOY ME PORTO MAL",
+      "url": "https://open.spotify.com/track/4EVCjLBekvH0x7ogVgHtXN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Louder!.",
         "url": "https://open.spotify.com/album/7tPQLOpoHALuSuHcDFUgB8"
       },
@@ -847,22 +847,6 @@
       "duration_ms": 198384,
       "name": "Conmigo (Rest of Your Life)",
       "url": "https://open.spotify.com/track/5B8qZ2uzB58fj4kAPdMDqv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "IDGAF ERA",
-        "url": "https://open.spotify.com/album/045qBqjV98Y6TlpCx0hq3V"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 149760,
-      "name": "BI",
-      "url": "https://open.spotify.com/track/4sd1CaJPlMi8WGDhyVaOro"
     },
     {
       "added_at": null,
@@ -907,6 +891,22 @@
       "duration_ms": 219628,
       "name": "Palo Santo",
       "url": "https://open.spotify.com/track/4IXRQXyRATa71cMCL8aPqu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "IDGAF ERA",
+        "url": "https://open.spotify.com/album/045qBqjV98Y6TlpCx0hq3V"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 149760,
+      "name": "BI",
+      "url": "https://open.spotify.com/track/4sd1CaJPlMi8WGDhyVaOro"
     },
     {
       "added_at": null,

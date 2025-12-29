@@ -1,12 +1,12 @@
 {
   "description": "This is Zach Bryan. The essential tracks, all in one playlist.",
-  "num_followers": 633367,
+  "num_followers": 633633,
   "original_name": "This Is Zach Bryan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU3QAAAAAADqZ2H9I1HUsShk8pXS214p",
+  "snapshot_id": "aU8hgAAAAACfS+Yyoc+K0vBFIfaa+aR2",
   "tracks": [
     {
       "added_at": null,
@@ -351,18 +351,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quiet, Heavy Dreams",
-        "url": "https://open.spotify.com/album/70KAbDjO08A8nfTLShbraZ"
+        "name": "Sarah's Place (feat. Noah Kahan)",
+        "url": "https://open.spotify.com/album/4nCpzKTB9VoZF1hsogANQi"
       },
       "artists": [
         {
           "name": "Zach Bryan",
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
         }
       ],
-      "duration_ms": 197211,
-      "name": "Traveling Man",
-      "url": "https://open.spotify.com/track/1cfi4ewXF9ifZ7it025zDK"
+      "duration_ms": 214056,
+      "name": "Sarah's Place (feat. Noah Kahan)",
+      "url": "https://open.spotify.com/track/1fvC3CmNAbsx0V9ULMU8NB"
     },
     {
       "added_at": null,
@@ -387,22 +391,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sarah's Place (feat. Noah Kahan)",
-        "url": "https://open.spotify.com/album/4nCpzKTB9VoZF1hsogANQi"
+        "name": "Quiet, Heavy Dreams",
+        "url": "https://open.spotify.com/album/70KAbDjO08A8nfTLShbraZ"
       },
       "artists": [
         {
           "name": "Zach Bryan",
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        },
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
         }
       ],
-      "duration_ms": 214056,
-      "name": "Sarah's Place (feat. Noah Kahan)",
-      "url": "https://open.spotify.com/track/1fvC3CmNAbsx0V9ULMU8NB"
+      "duration_ms": 197211,
+      "name": "Traveling Man",
+      "url": "https://open.spotify.com/track/1cfi4ewXF9ifZ7it025zDK"
     },
     {
       "added_at": null,

@@ -721,6 +721,24 @@
     },
     {
       "album": {
+        "name": "Ik Kan Niet Meer Praten",
+        "url": "https://open.spotify.com/album/6nAs2gHf1ARRvHt25y5Z4v"
+      },
+      "artists": [
+        {
+          "name": "De Losse Flodders",
+          "url": "https://open.spotify.com/artist/2qXygCiNjwZZdrcBQfor46"
+        }
+      ],
+      "date_added": "2025-10-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "Ik Kan Niet Meer Praten",
+      "url": "https://open.spotify.com/track/323AXi99MfhxMmAlsrH3ni"
+    },
+    {
+      "album": {
         "name": "Ik Kom Eraan",
         "url": "https://open.spotify.com/album/0z6kz1hB1jRnz925cvMnJi"
       },
@@ -1134,7 +1152,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 184329,
       "name": "Pizza Met Ananas - Outsiders Remix",
       "url": "https://open.spotify.com/track/4fFtFlbyZWo6h94v035TNu"

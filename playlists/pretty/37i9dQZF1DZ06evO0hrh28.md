@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hrh28.md) - [plain]
 
 > This is Emilia\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,682 likes - 49 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,719 likes - 49 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hrh28.md) - [plain]
 | 48 | [Esto Recién Empieza](https://open.spotify.com/track/2jiGBz8zHMvfKCWXI1WBmb) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Temporada de Reggaetón 2](https://open.spotify.com/album/6anO6Uh11TivGpTI56aKCH) | 2:52 |
 | 49 | [Perreito Salvaje](https://open.spotify.com/track/4hs52wFSucGnS5dYryIZ4F) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Perreito Salvaje](https://open.spotify.com/album/2nEyfN6oPzU8bVd3639TSK) | 2:51 |
 
-Snapshot ID: `aU3QAAAAAADVtriKy3iRX7IgbJydjPVo`
+Snapshot ID: `aU8hgAAAAABl94oRB1KDZb9QBEeGUccX`

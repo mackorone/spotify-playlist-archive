@@ -2636,7 +2636,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-27",
+      "date_removed": null,
       "duration_ms": 212000,
       "name": "A Couple Minutes",
       "url": "https://open.spotify.com/track/312z6PZ8wwREck8613PkJk"
@@ -11348,7 +11348,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-30",
+      "date_removed": null,
       "duration_ms": 138657,
       "name": "BOO",
       "url": "https://open.spotify.com/track/5z3lA9udc15kVQ4S4OcTsa"
@@ -11366,7 +11366,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 138657,
       "name": "BOO",
       "url": "https://open.spotify.com/track/6Km8JhmtqvNxQCUlX32PD9"
@@ -31636,7 +31636,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 230137,
       "name": "gravity",
       "url": "https://open.spotify.com/track/2NSGXSn3phBbGnEnWQyyx8"
@@ -40028,7 +40028,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 209942,
       "name": "Images of Love (with Dominic Fike)",
       "url": "https://open.spotify.com/track/1Vj11Vm95STtBEL7hSB5Sh"
@@ -55468,7 +55468,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-20",
+      "date_removed": null,
       "duration_ms": 125480,
       "name": "Never Ending Story",
       "url": "https://open.spotify.com/track/7r6xGsyES2DTacyP6O585i"
@@ -87638,10 +87638,28 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 241559,
       "name": "We Carry The Flame",
       "url": "https://open.spotify.com/track/5OvlrhfIBU1mHHHndkNVsa"
+    },
+    {
+      "album": {
+        "name": "We Carry The Flame",
+        "url": "https://open.spotify.com/album/639jxnSva9bdYYwLMNSFp9"
+      },
+      "artists": [
+        {
+          "name": "Spalexma",
+          "url": "https://open.spotify.com/artist/0br7BhK6Vr2Bx8IEg0PEn3"
+        }
+      ],
+      "date_added": "2025-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241567,
+      "name": "We Carry The Flame",
+      "url": "https://open.spotify.com/track/65Bker7Dj5lWlrO6AtadAv"
     },
     {
       "album": {

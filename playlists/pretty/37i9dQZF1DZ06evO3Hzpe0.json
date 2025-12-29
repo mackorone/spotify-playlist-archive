@@ -1,12 +1,12 @@
 {
   "description": "This is Carl Carlton. The essential tracks, all in one playlist.",
-  "num_followers": 732,
+  "num_followers": 736,
   "original_name": "This Is Carl Carlton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU3QAAAAAACdDEw/LyKCPHNXxH47Xt4A",
+  "snapshot_id": "aU8hgAAAAABwJR3fLcoVte9w6BWrXcIF",
   "tracks": [
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
         }
       ],
-      "duration_ms": 378907,
-      "name": "Spend the Night",
-      "url": "https://open.spotify.com/track/7GfdXWpwnUeqAtzDXsCV0i"
+      "duration_ms": 313721,
+      "name": "Universal Girl",
+      "url": "https://open.spotify.com/track/4O2N9wZ1KvvfjIGlM786K7"
     },
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
         }
       ],
-      "duration_ms": 211490,
-      "name": "You've Been So Good to Me",
-      "url": "https://open.spotify.com/track/5KqvCWNr7WMMVuD4GtTiL1"
+      "duration_ms": 378907,
+      "name": "Spend the Night",
+      "url": "https://open.spotify.com/track/7GfdXWpwnUeqAtzDXsCV0i"
     },
     {
       "added_at": null,
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
         }
       ],
-      "duration_ms": 313721,
-      "name": "Universal Girl",
-      "url": "https://open.spotify.com/track/4O2N9wZ1KvvfjIGlM786K7"
+      "duration_ms": 211490,
+      "name": "You've Been So Good to Me",
+      "url": "https://open.spotify.com/track/5KqvCWNr7WMMVuD4GtTiL1"
     },
     {
       "added_at": null,
@@ -491,6 +491,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hellhound On My Trail: Songs Of Robert Johnson",
+        "url": "https://open.spotify.com/album/7GFGlwLu3F4PCYDPp7qxex"
+      },
+      "artists": [
+        {
+          "name": "Robert Palmer",
+          "url": "https://open.spotify.com/artist/530Sdm7eqqzWBdDmILMgnu"
+        },
+        {
+          "name": "Carl Carlton",
+          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
+        },
+        {
+          "name": "Mauro Spina",
+          "url": "https://open.spotify.com/artist/0nGkRxiGqBiWZV5urBExfx"
+        }
+      ],
+      "duration_ms": 144440,
+      "name": "Milkcow's Calf Blues",
+      "url": "https://open.spotify.com/track/4k6scv5YKwtx79gh2c1Xo4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Don't You Need a Boy Like Me",
         "url": "https://open.spotify.com/album/3slEt5DjLk1aBN9owomaXM"
       },
@@ -503,22 +527,6 @@
       "duration_ms": 116888,
       "name": "Don't You Need a Boy Like Me",
       "url": "https://open.spotify.com/track/3zLEgjXLFNp9ucP5003ZNQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Saturday",
-        "url": "https://open.spotify.com/album/064WgfCRzGQpkYR62DFe4U"
-      },
-      "artists": [
-        {
-          "name": "Carl Carlton",
-          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
-        }
-      ],
-      "duration_ms": 280640,
-      "name": "Saturday",
-      "url": "https://open.spotify.com/track/1kwHC09McmaYlj2U6vbZRZ"
     },
     {
       "added_at": null,
@@ -555,6 +563,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Saturday",
+        "url": "https://open.spotify.com/album/064WgfCRzGQpkYR62DFe4U"
+      },
+      "artists": [
+        {
+          "name": "Carl Carlton",
+          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
+        }
+      ],
+      "duration_ms": 280640,
+      "name": "Saturday",
+      "url": "https://open.spotify.com/track/1kwHC09McmaYlj2U6vbZRZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Private Revibe",
         "url": "https://open.spotify.com/album/0Ae4jrAHXyNKxD91BY4ZW4"
       },
@@ -571,30 +595,6 @@
       "duration_ms": 293623,
       "name": "Private Revibe",
       "url": "https://open.spotify.com/track/0HoxL5hk97ccPyrS50ccAb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hellhound On My Trail: Songs Of Robert Johnson",
-        "url": "https://open.spotify.com/album/7GFGlwLu3F4PCYDPp7qxex"
-      },
-      "artists": [
-        {
-          "name": "Robert Palmer",
-          "url": "https://open.spotify.com/artist/530Sdm7eqqzWBdDmILMgnu"
-        },
-        {
-          "name": "Carl Carlton",
-          "url": "https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P"
-        },
-        {
-          "name": "Mauro Spina",
-          "url": "https://open.spotify.com/artist/0nGkRxiGqBiWZV5urBExfx"
-        }
-      ],
-      "duration_ms": 144440,
-      "name": "Milkcow's Calf Blues",
-      "url": "https://open.spotify.com/track/4k6scv5YKwtx79gh2c1Xo4"
     },
     {
       "added_at": null,

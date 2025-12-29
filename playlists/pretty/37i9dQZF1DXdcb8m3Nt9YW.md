@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcb8m3Nt9YW.md) - [plain]
 
 > Pura pieza en vivo para destapar un bote y sentirte como si estuvieras ahí\. Max Peraza en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,462 likes - 135 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,546 likes - 135 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdcb8m3Nt9YW.md) - [plain]
 | 134 | [La Farsante](https://open.spotify.com/track/64iXvXF27Kf02B2Q6Wdr9N) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Amanecida Con Todo Y Con Todos](https://open.spotify.com/album/2KAiIn3T5KHdbHOdzNsFvV) | 3:35 |
 | 135 | [El Estrés](https://open.spotify.com/track/5MsVbEhkVyVUf6YeIp0WAk) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Los Dos Carnales Con Sax](https://open.spotify.com/album/0h2aKd80PYoq8U4oP3iAlo) | 3:47 |
 
-Snapshot ID: `AAAAAD6BbUY66gYUSCo7AaGwcSR2sBXj`
+Snapshot ID: `AAAAAGhU9EwavHBrdFkxAbYlvi1w0gUk`

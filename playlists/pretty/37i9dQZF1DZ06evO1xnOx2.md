@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1xnOx2.md) - [plain]
 
 > This is Hozier\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 623,767 likes - 45 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 623,827 likes - 45 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1xnOx2.md) - [plain]
 | 44 | [The Parting Glass \- Live from the Late Late Show](https://open.spotify.com/track/782her82K8V3a1JAL6LBbJ) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [The Parting Glass \(Live from the Late Late Show\)](https://open.spotify.com/album/53AzSufY9kjmbz1BELRn2A) | 2:15 |
 | 45 | [Fare Well](https://open.spotify.com/track/6Jj9X88wug8sfLXjkxdqtb) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unaired](https://open.spotify.com/album/0OWvUsVTHFXXnGiGht96K4) | 3:08 |
 
-Snapshot ID: `aU3QAAAAAAA0p4s2A5FsrYxeGyxItHVp`
+Snapshot ID: `aU8hgAAAAABrMPMZ0XQwq++SPTw1ROTK`

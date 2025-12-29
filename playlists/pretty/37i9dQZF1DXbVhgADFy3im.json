@@ -1,12 +1,12 @@
 {
   "description": "Every track you're listening/should be listening to ;) ",
-  "num_followers": 1170487,
+  "num_followers": 1172042,
   "original_name": "Trending Now India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAqVnwNDDVsEdBtdqKczcBoixuul",
+  "snapshot_id": "AAAAALP8zh790ClS6iB6zoEHm26hCFsm",
   "tracks": [
     {
       "added_at": "2025-12-19 07:05:39",
@@ -751,6 +751,30 @@
     {
       "added_at": "2025-12-19 07:05:39",
       "album": {
+        "name": "Sitaare (From \"Ikkis\")",
+        "url": "https://open.spotify.com/album/2tEc5YZxGIMLRamt8ZmRUL"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "White Noise Collectives",
+          "url": "https://open.spotify.com/artist/73vvjIbxF9MP8VZG3tthUC"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "duration_ms": 242916,
+      "name": "Sitaare (From \"Ikkis\")",
+      "url": "https://open.spotify.com/track/6WlARP6h4CDVOcY386wW0W"
+    },
+    {
+      "added_at": "2025-12-19 07:05:39",
+      "album": {
         "name": "Dooron Dooron",
         "url": "https://open.spotify.com/album/1wGfxu2U33P3c9fAmJbUe6"
       },
@@ -795,30 +819,6 @@
       "duration_ms": 318217,
       "name": "Tum Ho Toh (From \"Saiyaara\")",
       "url": "https://open.spotify.com/track/6G8vN5EUtcDxOXOXadF6kp"
-    },
-    {
-      "added_at": "2025-12-19 07:05:39",
-      "album": {
-        "name": "Sitaare (From \"Ikkis\")",
-        "url": "https://open.spotify.com/album/2tEc5YZxGIMLRamt8ZmRUL"
-      },
-      "artists": [
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "name": "White Noise Collectives",
-          "url": "https://open.spotify.com/artist/73vvjIbxF9MP8VZG3tthUC"
-        },
-        {
-          "name": "Amitabh Bhattacharya",
-          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
-        }
-      ],
-      "duration_ms": 242916,
-      "name": "Sitaare (From \"Ikkis\")",
-      "url": "https://open.spotify.com/track/6WlARP6h4CDVOcY386wW0W"
     },
     {
       "added_at": "2025-12-19 07:05:39",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2025-12-19 07:05:39",
       "album": {
+        "name": "One Love",
+        "url": "https://open.spotify.com/album/3tNH9Fp4dm3qa3Kr4cv5uJ"
+      },
+      "artists": [
+        {
+          "name": "Shubh",
+          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
+        }
+      ],
+      "duration_ms": 159222,
+      "name": "One Love",
+      "url": "https://open.spotify.com/track/5ZLkihi6DVsHwDL3B8ym1t"
+    },
+    {
+      "added_at": "2025-12-19 07:05:39",
+      "album": {
         "name": "Tere Ishk Mein (From \"Tere Ishk Mein\")",
         "url": "https://open.spotify.com/album/3abedjI3sFEqUI7hNu0yzF"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 350069,
       "name": "Tere Ishk Mein (From \"Tere Ishk Mein\")",
       "url": "https://open.spotify.com/track/39aHB0LHPLDZNwVhMf3DNH"
-    },
-    {
-      "added_at": "2025-12-19 07:05:39",
-      "album": {
-        "name": "One Love",
-        "url": "https://open.spotify.com/album/3tNH9Fp4dm3qa3Kr4cv5uJ"
-      },
-      "artists": [
-        {
-          "name": "Shubh",
-          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
-        }
-      ],
-      "duration_ms": 159222,
-      "name": "One Love",
-      "url": "https://open.spotify.com/track/5ZLkihi6DVsHwDL3B8ym1t"
     },
     {
       "added_at": "2025-12-19 07:05:39",
@@ -1247,30 +1247,6 @@
     {
       "added_at": "2025-12-19 07:05:39",
       "album": {
-        "name": "Andaaz e Karam",
-        "url": "https://open.spotify.com/album/1gff8T3LglEcMh0ow2VwdO"
-      },
-      "artists": [
-        {
-          "name": "Madhur Sharma",
-          "url": "https://open.spotify.com/artist/2kfi47LWmlXzQ3p3kWonfQ"
-        },
-        {
-          "name": "Moin",
-          "url": "https://open.spotify.com/artist/7xgtUknw8tyUhWkSnMjhti"
-        },
-        {
-          "name": "ER",
-          "url": "https://open.spotify.com/artist/7uhWXYh7CNH1M9Dwko8qll"
-        }
-      ],
-      "duration_ms": 437679,
-      "name": "Andaaz e Karam",
-      "url": "https://open.spotify.com/track/0qheD9ZwdmVKu5ktHXFbb0"
-    },
-    {
-      "added_at": "2025-12-19 07:05:39",
-      "album": {
         "name": "Mann Mera (Original Version)",
         "url": "https://open.spotify.com/album/3KR9QiP7RuCpAhXwFOE9vR"
       },
@@ -1299,6 +1275,30 @@
       "duration_ms": 260536,
       "name": "Dil Diyan Gallan",
       "url": "https://open.spotify.com/track/0FBQ4NrrHUbR9kus7rzrOj"
+    },
+    {
+      "added_at": "2025-12-19 07:05:39",
+      "album": {
+        "name": "Andaaz e Karam",
+        "url": "https://open.spotify.com/album/1gff8T3LglEcMh0ow2VwdO"
+      },
+      "artists": [
+        {
+          "name": "Madhur Sharma",
+          "url": "https://open.spotify.com/artist/2kfi47LWmlXzQ3p3kWonfQ"
+        },
+        {
+          "name": "Moin",
+          "url": "https://open.spotify.com/artist/7xgtUknw8tyUhWkSnMjhti"
+        },
+        {
+          "name": "ER",
+          "url": "https://open.spotify.com/artist/7uhWXYh7CNH1M9Dwko8qll"
+        }
+      ],
+      "duration_ms": 437679,
+      "name": "Andaaz e Karam",
+      "url": "https://open.spotify.com/track/0qheD9ZwdmVKu5ktHXFbb0"
     },
     {
       "added_at": "2025-12-19 07:05:39",
@@ -1367,26 +1367,6 @@
     {
       "added_at": "2025-12-19 07:05:39",
       "album": {
-        "name": "Kaise Hua (From \"Kabir Singh\")",
-        "url": "https://open.spotify.com/album/1ncyKqyZae6DoyjYaV9LmS"
-      },
-      "artists": [
-        {
-          "name": "Vishal Mishra",
-          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
-        },
-        {
-          "name": "Manoj Muntashir",
-          "url": "https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP"
-        }
-      ],
-      "duration_ms": 234722,
-      "name": "Kaise Hua (From \"Kabir Singh\")",
-      "url": "https://open.spotify.com/track/1y1rQTkWmrZdJmjwuK07GC"
-    },
-    {
-      "added_at": "2025-12-19 07:05:39",
-      "album": {
         "name": "Best of Romance: Atif Aslam & Pritam",
         "url": "https://open.spotify.com/album/3vDIjYB1eatEoGlVoZWUFs"
       },
@@ -1403,6 +1383,26 @@
       "duration_ms": 279826,
       "name": "Tere Liye",
       "url": "https://open.spotify.com/track/0xlWd9o8yjKpJ02WJy79kZ"
+    },
+    {
+      "added_at": "2025-12-19 07:05:39",
+      "album": {
+        "name": "Kaise Hua (From \"Kabir Singh\")",
+        "url": "https://open.spotify.com/album/1ncyKqyZae6DoyjYaV9LmS"
+      },
+      "artists": [
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Manoj Muntashir",
+          "url": "https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP"
+        }
+      ],
+      "duration_ms": 234722,
+      "name": "Kaise Hua (From \"Kabir Singh\")",
+      "url": "https://open.spotify.com/track/1y1rQTkWmrZdJmjwuK07GC"
     },
     {
       "added_at": "2025-12-19 07:05:39",
@@ -1479,6 +1479,26 @@
     {
       "added_at": "2025-12-19 07:05:39",
       "album": {
+        "name": "O Saathi (From \"Baaghi 2\")",
+        "url": "https://open.spotify.com/album/23L9JSXD0RrynRb71ZfL9A"
+      },
+      "artists": [
+        {
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        },
+        {
+          "name": "Arko",
+          "url": "https://open.spotify.com/artist/6jf2eKjiPT6P18RbOSLzf0"
+        }
+      ],
+      "duration_ms": 251818,
+      "name": "O Saathi",
+      "url": "https://open.spotify.com/track/6fScgF2Y63ScU73nYju0ny"
+    },
+    {
+      "added_at": "2025-12-19 07:05:39",
+      "album": {
         "name": "Blood Money (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5K0rFYotIyeCXpmNVzWpfn"
       },
@@ -1499,26 +1519,6 @@
       "duration_ms": 306173,
       "name": "Jo Tere Sang",
       "url": "https://open.spotify.com/track/0kYBzFJ5a2Jozi6cI4y9Bp"
-    },
-    {
-      "added_at": "2025-12-19 07:05:39",
-      "album": {
-        "name": "O Saathi (From \"Baaghi 2\")",
-        "url": "https://open.spotify.com/album/23L9JSXD0RrynRb71ZfL9A"
-      },
-      "artists": [
-        {
-          "name": "Atif Aslam",
-          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
-        },
-        {
-          "name": "Arko",
-          "url": "https://open.spotify.com/artist/6jf2eKjiPT6P18RbOSLzf0"
-        }
-      ],
-      "duration_ms": 251818,
-      "name": "O Saathi",
-      "url": "https://open.spotify.com/track/6fScgF2Y63ScU73nYju0ny"
     },
     {
       "added_at": "2025-12-19 07:05:39",
@@ -1631,22 +1631,30 @@
     {
       "added_at": "2025-12-19 07:05:39",
       "album": {
-        "name": "Yeh Jawaani Hai Deewani",
-        "url": "https://open.spotify.com/album/2Lxoc72vRTGdQfMvj7Ovi1"
+        "name": "Malang Sajna",
+        "url": "https://open.spotify.com/album/7khRLZe8P6XcUoRgOa3nnf"
       },
       "artists": [
         {
-          "name": "Pritam",
-          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+          "name": "Sachet Tandon",
+          "url": "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG"
         },
         {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+          "name": "Parampara Tandon",
+          "url": "https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        },
+        {
+          "name": "Sachet-Parampara",
+          "url": "https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25"
         }
       ],
-      "duration_ms": 228982,
-      "name": "Ilahi",
-      "url": "https://open.spotify.com/track/5cgKosPPj5Cs9a2JQufUc1"
+      "duration_ms": 161041,
+      "name": "Malang Sajna",
+      "url": "https://open.spotify.com/track/73K33p4Vyz9koXGqmL5eFs"
     }
   ],
   "unique_name": "Trending Now India",

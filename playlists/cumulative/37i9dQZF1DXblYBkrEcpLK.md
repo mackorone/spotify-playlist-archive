@@ -4,7 +4,7 @@
 
 > Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: Ado
 
-803 songs - 2 day 5 hr 3 min
+804 songs - 2 day 5 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,6 +259,7 @@
 | [Nocturne](https://open.spotify.com/track/6rIiTCNRFSNpFER8R1chAC) | [Hinano](https://open.spotify.com/artist/5YWTfW6V637AZqljGfrWoI) | [nocturne](https://open.spotify.com/album/5kVXzT1Mx2dgSrYnSMBhhc) | 4:29 | 2022-06-09 | 2022-06-11 |
 | [Not as Dramatic As...](https://open.spotify.com/track/2GW9aPk5YhY247H8G5UV45) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [Not as Dramatic As...](https://open.spotify.com/album/2Om7Uwqh3tLBAu2iSKdZkR) | 4:22 | 2023-01-10 | 2023-02-15 |
 | [O.C\. ～Optimum Combination～ \-Side by Side\-](https://open.spotify.com/track/0ceVOccR5DDrVBp1oyHs6G) | [レイ\(CV.芹澤優\)](https://open.spotify.com/artist/7lASCV34WzEVlaueaflV6q), [クレア\(CV.奈波果林\)](https://open.spotify.com/artist/60S3tmlIQt6Kn8HPIicBFe) | [レイジョアハンズ!! ～Raise Y/Our Hands!!～/O.C\. ～Optimum Combination～ <TVアニメ「私の推しは悪役令嬢。」OP/ED主題歌>](https://open.spotify.com/album/3gollbbYhL6QDjzfrxBRrM) | 4:01 | 2023-11-16 | 2024-01-19 |
+| [Odoru Ponpokorin](https://open.spotify.com/track/3pncyVfDzI4m9oErJKLKIo) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Odoru Ponpokorin](https://open.spotify.com/album/2XeKcmluJtZwNDYJmhiDER) | 3:14 | 2025-12-28 |  |
 | [OEDOEDO](https://open.spotify.com/track/6ycTuJTx7hc7UniM9YZZpG) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [OEDOEDO](https://open.spotify.com/album/2dLi9wKKi2QaC7kyBF4WnS) | 2:40 | 2024-04-16 | 2024-05-29 |
 | [Omoideshiritori](https://open.spotify.com/track/0FnA6x9CTUsZRlYzKJ8pG6) | [DIALOGUE+](https://open.spotify.com/artist/2edEpSuGIPWwl7QJF3hXM0) | [DIALOGUE+1](https://open.spotify.com/album/2LYWVRbZGHUuXeMqVmtt2w) | 4:23 | 2022-06-09 | 2022-06-15 |
 | [Omoikaze \(from "The Apothecary Diaries" Soundtrack\)](https://open.spotify.com/track/0l49ZGMryYreBuCYjb9v5q) | [Yuiko Ohara](https://open.spotify.com/artist/6Ms9K6GofUbmyph3tETnp5), [Alisa Okehazama](https://open.spotify.com/artist/6VMGyvtQPQ1uPvkaSm73aR) | [Omoikaze \(from "The Apothecary Diaries" Soundtrack\)](https://open.spotify.com/album/6dIi4IChOkvoc4UDv1kp2S) | 2:28 | 2023-11-07 | 2023-12-22 |
@@ -740,7 +741,7 @@
 | [燦々デイズ](https://open.spotify.com/track/4CebKGVZUJw18tnDzsjv2d) | [スピラ・スピカ](https://open.spotify.com/artist/3ncARjIEl4SrcrnpOIV5CO) | [燦々デイズ](https://open.spotify.com/album/0NnGObV44jyw4aJwz4nfAF) | 3:52 | 2022-06-09 | 2023-01-11 |
 | [狂信者のパレード \- The Parade of Battlers](https://open.spotify.com/track/2eag5tepAFxHgvyM5DNed5) | [音羽\-otoha\-](https://open.spotify.com/artist/0FWjVS3rnr70HEuhNl0JjR) | [狂信者のパレード \- The Parade of Battlers](https://open.spotify.com/album/6Rql8tyfUXkJWq5tlzVMjP) | 4:11 | 2024-04-23 | 2024-07-27 |
 | [独創収差](https://open.spotify.com/track/1TDNF588GS7ijlkGB57o0f) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [独創収差](https://open.spotify.com/album/6sqC5pyp0EFFxysVHJFcWo) | 4:35 | 2022-09-20 | 2022-10-04 |
-| [生きて、燦々](https://open.spotify.com/track/1syODzS05DNwO7hiFjwn5z) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [生きて、燦々](https://open.spotify.com/album/2hRKTBG9RvaUklnfa9ouip) | 4:08 | 2025-11-19 |  |
+| [生きて、燦々](https://open.spotify.com/track/1syODzS05DNwO7hiFjwn5z) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [生きて、燦々](https://open.spotify.com/album/2hRKTBG9RvaUklnfa9ouip) | 4:08 | 2025-11-19 | 2025-12-29 |
 | [生命換装](https://open.spotify.com/track/6XhPqqciCUQLWZHxbO2mcG) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [生命換装](https://open.spotify.com/album/0FKrcF7rp480YBzAcM9WPo) | 5:40 | 2025-09-09 |  |
 | [生命線](https://open.spotify.com/track/4Ut1yVtaTsq0Mp6F2V2yJC) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [月姫 \-A piece of blue glass moon\- THEME SONG E.P.](https://open.spotify.com/album/25lcvkvNjoSlU07gs1M3hi) | 4:15 | 2022-06-09 | 2022-07-28 |
 | [白い雪のプリンセスは \- from CrosSing](https://open.spotify.com/track/6r6rI9OtzyCMTGa15gobsy) | [藤田咲](https://open.spotify.com/artist/0Su3XhLar720uSpX1mGSBD) | [白い雪のプリンセスは \- from CrosSing](https://open.spotify.com/album/4tvOivGCX5TQcZWZJyM1hl) | 4:21 | 2025-01-21 | 2025-01-31 |

@@ -4,7 +4,7 @@
 
 > it's just one of those days w/ Algernon Cadwallader
 
-294 songs - 16 hr 19 min
+295 songs - 16 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Fruit Wine](https://open.spotify.com/track/6L9Tqzg22pocScyeXI6FTh) | [Origami Angel](https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY) | [Fruit Wine](https://open.spotify.com/album/4mtAM1eBl3NtU8heHBbDEF) | 2:51 | 2024-05-14 | 2024-07-27 |
 | [Full Speed Ahead](https://open.spotify.com/track/1UyoYp34XuQEfW7Id7q4Vy) | [Combat](https://open.spotify.com/artist/5ltJmbw0BHIzssTLOznjLx) | [Stay Golden](https://open.spotify.com/album/3eOka6weED6Atrxap8V15u) | 2:34 | 2024-12-18 |  |
 | [Funny Face](https://open.spotify.com/track/7ons0lEC6ucxkg01qNCjLV) | [Arm's Length](https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD) | [Funny Face](https://open.spotify.com/album/4qIrgQeD5wthdEzvh8Ggqz) | 2:47 | 2025-02-14 |  |
+| [Gardeners Rest](https://open.spotify.com/track/2TZHu7OhhJOIGgbhmy07Jd) | [Jetski](https://open.spotify.com/artist/7caLQqT0aT6F4uexmHpLSI) | [Gardeners Rest](https://open.spotify.com/album/4TnueZBqcDAUHRzLXcAEWN) | 2:56 | 2025-09-12 |  |
 | [Giant's Despair](https://open.spotify.com/track/2cklyNPEa1SQ03OsC7bk9e) | [One Step Closer](https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb) | [Giant's Despair](https://open.spotify.com/album/39SxqEswZM29iCSaJ0jKpz) | 3:40 | 2024-04-19 | 2024-10-12 |
 | [Glass](https://open.spotify.com/track/5M7liVdPj4B9X0ZJncErme) | [Forest Green](https://open.spotify.com/artist/63lRjOZ8TCzjHaxZr1ZToc) | [Glass](https://open.spotify.com/album/6JlxrE8fN5jwEYmMYEflsc) | 4:43 | 2023-02-11 |  |
 | [goin' for the garbage plate](https://open.spotify.com/track/2mH0I08tBUW5ZdgGrGrMT7) | [CLIFFDIVER](https://open.spotify.com/artist/3yYFfLWWw90qPAloqOGM7x), [Carpool](https://open.spotify.com/artist/1GfHrs9bbnqkN3ektKmGit) | [goin' for the garbage plate](https://open.spotify.com/album/1FoVLF5NnbJBlZPkXork3J) | 4:02 | 2024-07-12 | 2025-08-08 |
@@ -282,7 +283,7 @@
 | [Weekend Fever](https://open.spotify.com/track/7nOTJuYsNzXGDRDYStxAvA) | [Nihilistic Easyrider](https://open.spotify.com/artist/7kKoxT5gbBKVP3Na9BaQnq) | [DELUXE EDITION](https://open.spotify.com/album/6xRvwAmYLGaQnxjolg9bgw) | 3:26 | 2025-08-08 |  |
 | [What Are You, A Cop?](https://open.spotify.com/track/2L8eTF6iQtez7xsduIK3DN) | [Carly Cosgrove](https://open.spotify.com/artist/4h3DxZa1JxZhSB1a64ziKx) | [The Cleanest of Houses Are Empty](https://open.spotify.com/album/0Hi2pmAq0O2siNQ5cwpcOI) | 4:11 | 2024-12-18 |  |
 | [What I'm Feeling](https://open.spotify.com/track/34A5x3oPuiysfF2DD2YAvy) | [Mint Green](https://open.spotify.com/artist/5ivuVlLA09RcBnLFkOza7C) | [All Girls Go to Heaven](https://open.spotify.com/album/0dU3VxFjynVOH4jjv7CySV) | 4:02 | 2022-11-25 | 2025-04-15 |
-| [What Tomorrow Brings / Requiem \- Acoustic](https://open.spotify.com/track/5YWaODOtb3dzApL0bKwTr0) | [Youth Fountain](https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD) | [Together In Lonesome \(Acoustic EP\)](https://open.spotify.com/album/2SSiObfXtuimULGI8LtG7j) | 3:24 | 2025-02-14 |  |
+| [What Tomorrow Brings / Requiem \- Acoustic](https://open.spotify.com/track/5YWaODOtb3dzApL0bKwTr0) | [Youth Fountain](https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD) | [Together In Lonesome \(Acoustic EP\)](https://open.spotify.com/album/2SSiObfXtuimULGI8LtG7j) | 3:24 | 2025-02-14 | 2025-12-29 |
 | [When I Come East](https://open.spotify.com/track/0Sl6b0H7zHJdAtaNZW72ZM) | [Thank You, I'm Sorry](https://open.spotify.com/artist/1SQbSVOGU3m2YlQQVV88QU) | [When I Come East](https://open.spotify.com/album/428XEEgSSBIndzwdGwdj1p) | 2:51 | 2024-06-21 |  |
 | [Where Blue Light Blooms](https://open.spotify.com/track/5JK1baqYwbfNQaLkwaLEdX) | [Origami Angel](https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY) | [Feeling Not Found](https://open.spotify.com/album/4tljXNTOiaHaXiKMhqLdyj) | 3:20 | 2024-12-18 |  |
 | [Where I Lay](https://open.spotify.com/track/24Qin8f6WgJZG9TnS93G3J) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Where I Lay](https://open.spotify.com/album/7FKhST9uk8FRl4yVnVH6Fh) | 3:36 | 2025-03-28 |  |

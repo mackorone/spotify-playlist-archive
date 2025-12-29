@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZlYzzoHCEv.md) - [plain]
 
 > musica per quando non sai insomma come
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,095 likes - 75 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,097 likes - 75 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,11 +49,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZlYzzoHCEv.md) - [plain]
 | 39 | [Montagem Mysterious Game](https://open.spotify.com/track/7vOmSP2647oNUGGEhWd1cr) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK) | [Montagem Mysterious Game](https://open.spotify.com/album/1l8if9zQ8F0MEHVWYrMREe) | 1:43 |
 | 40 | [Boy's a liar Pt\. 2](https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Boy's a liar Pt\. 2](https://open.spotify.com/album/6cVfHBcp3AdpYY0bBglkLN) | 2:11 |
 | 41 | [Glue](https://open.spotify.com/track/2aJDlirz6v2a4HREki98cP) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Bicep](https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo) | 4:29 |
-| 42 | [WASTE](https://open.spotify.com/track/4NgherJDfCXWBZBYheM4jK) | [KXLLSWXTCH](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [DISORDER](https://open.spotify.com/album/3yKGB4IYu6MeLkhFJFn9eI) | 2:00 |
-| 43 | [FUNKED UP \- SLOWED](https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp), [isq](https://open.spotify.com/artist/6JjQbtAO09K7qBEW2pdX5s) | [FUNKED UP](https://open.spotify.com/album/4FRxgE6LA2UGJ5yz8diaI9) | 1:55 |
+| 42 | [FUNKED UP \- SLOWED](https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp), [isq](https://open.spotify.com/artist/6JjQbtAO09K7qBEW2pdX5s) | [FUNKED UP](https://open.spotify.com/album/4FRxgE6LA2UGJ5yz8diaI9) | 1:55 |
+| 43 | [WASTE](https://open.spotify.com/track/4NgherJDfCXWBZBYheM4jK) | [KXLLSWXTCH](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [DISORDER](https://open.spotify.com/album/3yKGB4IYu6MeLkhFJFn9eI) | 2:00 |
 | 44 | [RAVE](https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL) | [Dxrk ダーク](https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA) | [RAVE](https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T) | 2:49 |
-| 45 | [Static](https://open.spotify.com/track/4OmfWzukSVD140NiAIEjem) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 2:36 |
-| 46 | [CUTE DEPRESSED](https://open.spotify.com/track/06PqeO7IInus2yvzsZwZhf) | [Dyan Dxddy](https://open.spotify.com/artist/12Swjg82MNiUOfl1GB3XFx) | [CUTE DEPRESSED](https://open.spotify.com/album/5qaY84OJqYT635rMGeWBzJ) | 1:36 |
+| 45 | [CUTE DEPRESSED](https://open.spotify.com/track/06PqeO7IInus2yvzsZwZhf) | [Dyan Dxddy](https://open.spotify.com/artist/12Swjg82MNiUOfl1GB3XFx) | [CUTE DEPRESSED](https://open.spotify.com/album/5qaY84OJqYT635rMGeWBzJ) | 1:36 |
+| 46 | [Static](https://open.spotify.com/track/4OmfWzukSVD140NiAIEjem) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 2:36 |
 | 47 | [Drugs From Amsterdam](https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo) | 3:55 |
 | 48 | [Close Eyes](https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Close Eyes](https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF) | 2:12 |
 | 49 | [Collide \(feat\. Tyga\)](https://open.spotify.com/track/22I3h5AOENlH4CqXJsEbFR) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Collide \(feat\. Tyga\)](https://open.spotify.com/album/2LbrGt2oc08xV8IDJvLzYi) | 4:20 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZlYzzoHCEv.md) - [plain]
 | 69 | [MASHA ULTRAFUNK](https://open.spotify.com/track/5VZ0soW5syQfefCUj603DW) | [HISTED](https://open.spotify.com/artist/5Z56BMrvQB2rBAa5kffTPD), [TXVSTERPLAYA](https://open.spotify.com/artist/4Rd0aHKGS9BdLYSXVvFjv5) | [MASHA ULTRAFUNK](https://open.spotify.com/album/43DSGSYCywacjEkdeSv4DC) | 1:33 |
 | 70 | [MONTAGEM \- PR FUNK](https://open.spotify.com/track/6njJR3OIp3oA0Kc4aC9Tzf) | [S3BZS](https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [Mc Menor Do Alvorada](https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH) | [MONTAGEM \- PR FUNK](https://open.spotify.com/album/2HuMAoXpr6HDryNHipbCpB) | 1:01 |
 | 71 | [I Know \- PR1SVX Edit](https://open.spotify.com/track/3vcLw8QA3yCOkrj9oLSZNs) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [PR1ISVX](https://open.spotify.com/artist/0QdSoQy4EwwOACmhZobTQu) | [I Know \(PR1SVX Edit\)](https://open.spotify.com/album/0U2gygUYvl2y1aPQiQZg1h) | 2:13 |
-| 72 | [i'm yours sped up](https://open.spotify.com/track/4sFGNz4MYpGoz53ZGCwsiE) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [i'm yours](https://open.spotify.com/album/3Q25UtV9pHu7onNcKwmmZ3) | 2:07 |
-| 73 | [Moulaga](https://open.spotify.com/track/5BfCoUcWNXcpyJfjXRIeyC) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Moulaga](https://open.spotify.com/album/2k7vGyQFY5ILNhRf6Ia68J) | 2:59 |
+| 72 | [Moulaga](https://open.spotify.com/track/5BfCoUcWNXcpyJfjXRIeyC) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Moulaga](https://open.spotify.com/album/2k7vGyQFY5ILNhRf6Ia68J) | 2:59 |
+| 73 | [i'm yours sped up](https://open.spotify.com/track/4sFGNz4MYpGoz53ZGCwsiE) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [i'm yours](https://open.spotify.com/album/3Q25UtV9pHu7onNcKwmmZ3) | 2:07 |
 | 74 | [Queen of Kings](https://open.spotify.com/track/14LdhxElpZS0rKVV4nxtdA) | [Alessandra](https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw) | [Queen of Kings](https://open.spotify.com/album/6Fkp68IAnNvIRJ8rm1MxhB) | 2:27 |
 | 75 | [Little Things x Gypsy Woman \- L BEATS MASHUP](https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things x Gypsy Woman \(L BEATS MASHUP\)](https://open.spotify.com/album/052c03LAr2euUtLKgvOKae) | 2:11 |
 

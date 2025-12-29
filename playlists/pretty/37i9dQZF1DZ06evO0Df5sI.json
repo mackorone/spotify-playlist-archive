@@ -1,12 +1,12 @@
 {
   "description": "This is Alkaline Trio. The essential tracks, all in one playlist.",
-  "num_followers": 23433,
+  "num_followers": 23438,
   "original_name": "This Is Alkaline Trio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU3QAAAAAADIM3Z6gIOCrMBIfzbW6qjy",
+  "snapshot_id": "aU8hgAAAAABT3MMxHqvRgBffL7nTNR7r",
   "tracks": [
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Shame Is True (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/47ooGYp4iWw3HqEYpMPMIV"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 187480,
-      "name": "I Wanna Be A Warhol",
-      "url": "https://open.spotify.com/track/0YCFg0xT3mu189q1KmhjO6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Split",
         "url": "https://open.spotify.com/album/7d7Kr9pgXTuYx6buE5kcHw"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 237813,
       "name": "Queen Of Pain",
       "url": "https://open.spotify.com/track/38F8SEbblEVwEm8HByJ0yE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Shame Is True (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/47ooGYp4iWw3HqEYpMPMIV"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 187480,
+      "name": "I Wanna Be A Warhol",
+      "url": "https://open.spotify.com/track/0YCFg0xT3mu189q1KmhjO6"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Dizzy & Y4ska, Greczula och Dolly Style med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,080 likes - 73 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,063 likes - 73 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 72 | [Dark Skin Girl](https://open.spotify.com/track/1EMhBmEv65xyBIIB6Cfrgi) | [Skeete](https://open.spotify.com/artist/7vwwjn0kTEsI82Gj6HGypO) | [Dark Skin Girl](https://open.spotify.com/album/4Y7skuU0oFJNg870UIMLrW) | 2:24 |
 | 73 | [Elden över](https://open.spotify.com/track/27qJ609V5mZokUwAgTkXDL) | [Dirty Jens](https://open.spotify.com/artist/1re0NOBZGoyheVxR4tLev7), [Antonia Vai](https://open.spotify.com/artist/5847veqMua8u2rRExUaTX6) | [Elden över](https://open.spotify.com/album/3MNlFab20Fb3z9HjuqSyt0) | 5:04 |
 
-Snapshot ID: `AAAAAJkF7IX9vWsd98mc5MJTB/e1H7A4`
+Snapshot ID: `AAAAADZaY8T9pJXyWrXiWcX4Waiza3Gx`

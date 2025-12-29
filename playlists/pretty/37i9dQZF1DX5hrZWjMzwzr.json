@@ -1,6 +1,6 @@
 {
   "description": "Popkillery rozdane! Pos\u0142uchaj zwyci\u0119zc\u00f3w i wszystkich nominowanych utwor\u00f3w w kategorii singiel roku.",
-  "num_followers": 10644,
+  "num_followers": 10642,
   "original_name": "Popkillery 2025: Singiel Roku",
   "owner": {
     "name": "Spotify",
@@ -487,26 +487,6 @@
     {
       "added_at": "2025-04-24 21:35:46",
       "album": {
-        "name": "GENERACJA CUZI",
-        "url": "https://open.spotify.com/album/7MpO4bytCpfT8pg8mssXxU"
-      },
-      "artists": [
-        {
-          "name": "Kronkel Dom",
-          "url": "https://open.spotify.com/artist/1dkyORGHN0TOmjzu5qCO45"
-        },
-        {
-          "name": "Deemz",
-          "url": "https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt"
-        }
-      ],
-      "duration_ms": 113333,
-      "name": "GENERACJA CUZI",
-      "url": "https://open.spotify.com/track/7HmxLVR4lFzDg2zzFqyHHY"
-    },
-    {
-      "added_at": "2025-04-24 21:35:46",
-      "album": {
         "name": "HERO",
         "url": "https://open.spotify.com/album/1vOaLJCm2BLllrARLrFQuo"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 164895,
       "name": "HERO",
       "url": "https://open.spotify.com/track/5lwu9g10m5ghkp9XWl65YZ"
+    },
+    {
+      "added_at": "2025-04-24 21:35:46",
+      "album": {
+        "name": "GENERACJA CUZI",
+        "url": "https://open.spotify.com/album/7MpO4bytCpfT8pg8mssXxU"
+      },
+      "artists": [
+        {
+          "name": "Kronkel Dom",
+          "url": "https://open.spotify.com/artist/1dkyORGHN0TOmjzu5qCO45"
+        },
+        {
+          "name": "Deemz",
+          "url": "https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt"
+        }
+      ],
+      "duration_ms": 113333,
+      "name": "GENERACJA CUZI",
+      "url": "https://open.spotify.com/track/7HmxLVR4lFzDg2zzFqyHHY"
     },
     {
       "added_at": "2025-04-24 21:35:46",

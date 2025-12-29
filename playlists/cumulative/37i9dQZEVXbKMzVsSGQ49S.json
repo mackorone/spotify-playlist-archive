@@ -12542,7 +12542,7 @@
       ],
       "date_added": "2023-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-16",
+      "date_removed": null,
       "duration_ms": 257800,
       "name": "Dreams - 2004 Remaster",
       "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
@@ -12730,7 +12730,7 @@
       ],
       "date_added": "2021-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 241626,
       "name": "Driving Home for Christmas - 2019 Remaster",
       "url": "https://open.spotify.com/track/27qAMKrDdKEs8HDXcvR24R"
@@ -12882,7 +12882,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 238249,
       "name": "DUMBO",
       "url": "https://open.spotify.com/track/7y6RcmZyMDZ49yVupz7JdO"
@@ -14406,7 +14406,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-19",
+      "date_removed": null,
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -15234,6 +15234,24 @@
       "duration_ms": 167255,
       "name": "Every Angel is Terrifying",
       "url": "https://open.spotify.com/track/3vJcz8exedHCjQ9ed95NqU"
+    },
+    {
+      "album": {
+        "name": "Synchronicity (Remastered 2003)",
+        "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2025-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253920,
+      "name": "Every Breath You Take",
+      "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
     },
     {
       "album": {
@@ -16538,7 +16556,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 145750,
       "name": "Fimm m\u00edn\u00fatur \u00ed j\u00f3l",
       "url": "https://open.spotify.com/track/3YfwW6TI3Rkzb61LtYWuYs"
@@ -21148,7 +21166,7 @@
       ],
       "date_added": "2021-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 214333,
       "name": "Happy Xmas (War Is Over) - Remastered 2010",
       "url": "https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b"
@@ -25918,7 +25936,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 151000,
       "name": "It's the Most Wonderful Time of the Year",
       "url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A"
@@ -26204,7 +26222,7 @@
       ],
       "date_added": "2021-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 130973,
       "name": "Jingle Bell Rock",
       "url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya"
@@ -28102,7 +28120,7 @@
       ],
       "date_added": "2022-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 253979,
       "name": "K\u00f3s\u00edheit par exelans",
       "url": "https://open.spotify.com/track/3XukFNF4RBUOLAEiTIbMhV"
@@ -29004,7 +29022,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 117146,
       "name": "Let It Snow! Let It Snow! Let It Snow!",
       "url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg"
@@ -30793,6 +30811,24 @@
     },
     {
       "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "date_added": "2025-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200646,
+      "name": "Lush Life",
+      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
+    },
+    {
+      "album": {
         "name": "GNX",
         "url": "https://open.spotify.com/album/1Ss0ArMRr91m83mOgRBjSZ"
       },
@@ -30862,7 +30898,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-08",
+      "date_removed": null,
       "duration_ms": 212520,
       "name": "LXS",
       "url": "https://open.spotify.com/track/68DUVQdRVFQYj0Xr2V5YTm"
@@ -31068,7 +31104,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-05",
+      "date_removed": null,
       "duration_ms": 182704,
       "name": "L\u00edfsst\u00edll",
       "url": "https://open.spotify.com/track/62QdlgpmodJ6D5hSm5ZTrd"
@@ -32778,7 +32814,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 182946,
       "name": "Mistletoe",
       "url": "https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA"
@@ -34502,7 +34538,7 @@
       ],
       "date_added": "2022-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 215109,
       "name": "Nei, nei, ekki um j\u00f3lin",
       "url": "https://open.spotify.com/track/2Oh97IIdGSJ8jrIeIAPwMO"
@@ -36046,7 +36082,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 251982,
       "name": "N\u00fa mega j\u00f3lin koma fyrir m\u00e9r",
       "url": "https://open.spotify.com/track/6sbHBOpV0FLdwvr82MJkHT"
@@ -37120,7 +37156,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-30",
+      "date_removed": null,
       "duration_ms": 186964,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
@@ -38348,7 +38384,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-01",
+      "date_removed": null,
       "duration_ms": 109759,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf"
@@ -40194,6 +40230,28 @@
       "duration_ms": 60823,
       "name": "Rain Sounds, Pt. 1",
       "url": "https://open.spotify.com/track/65Efku3iYGVXQjkFBAajzq"
+    },
+    {
+      "album": {
+        "name": "The Boy Who Played the Harp",
+        "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "date_added": "2025-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219743,
+      "name": "Raindance (feat. Tems)",
+      "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
     },
     {
       "album": {
@@ -42292,7 +42350,7 @@
       ],
       "date_added": "2021-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 204093,
       "name": "Santa Tell Me",
       "url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb"
@@ -44714,7 +44772,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-01",
+      "date_removed": null,
       "duration_ms": 169000,
       "name": "So Easy (To Fall In Love)",
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
@@ -47576,7 +47634,7 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-13",
+      "date_removed": null,
       "duration_ms": 107050,
       "name": "Superman",
       "url": "https://open.spotify.com/track/3mQsB2BR4o4kASOsN3LhuX"
@@ -48770,7 +48828,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-20",
+      "date_removed": null,
       "duration_ms": 323813,
       "name": "Tala minn sk\u00edt",
       "url": "https://open.spotify.com/track/08gGODSrgb09P0yyl9Hx7B"
@@ -49602,7 +49660,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 190973,
       "name": "The Christmas Song (Merry Christmas To You)",
       "url": "https://open.spotify.com/track/5humEOJehpAwMJEJmb0JJ2"
@@ -54164,7 +54222,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-08",
+      "date_removed": null,
       "duration_ms": 200106,
       "name": "Vopn",
       "url": "https://open.spotify.com/track/7fc5fotKDfgeD8v0NPEG3g"

@@ -4,7 +4,7 @@
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-707 songs - 1 day 14 hr 55 min
+712 songs - 1 day 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Can't Get Away](https://open.spotify.com/track/5aqARSatL1aREW9uOg7Tep) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Can't Get Away](https://open.spotify.com/album/2NYgUG3tE6DeADKHBH3qnz) | 3:04 | 2025-12-03 |  |
 | [Can't Stay The Same](https://open.spotify.com/track/699YB1MVINHgwMyJH7kjfR) | [Collbu](https://open.spotify.com/artist/4hybYMTf3XAQmcZaxK5kGO) | [Head Staples](https://open.spotify.com/album/49Ojh2lxlquxy0g3jJOA37) | 3:30 | 2025-11-16 | 2025-12-19 |
 | [Can't Stop Smiling](https://open.spotify.com/track/1kPfgvriOwem5fhgf4Q82V) | [Koko Marz](https://open.spotify.com/artist/5NjPSmnnxmBZL60TOGz3eY) | [Can't Stop Smiling](https://open.spotify.com/album/1zwxHfYJNZB8Plb7Wfp3Fu) | 2:57 | 2025-12-16 |  |
+| [Caroline \(sunset mix\)](https://open.spotify.com/track/46zW6iGU3sst36NmRFj01z) | [Ernst + Graham](https://open.spotify.com/artist/0rt2PXAHbjDsvJ0LQrHTaJ) | [Caroline](https://open.spotify.com/album/68JJWlIKr6Oa32gX23Cw6u) | 2:14 | 2025-12-28 |  |
 | [Carry Me](https://open.spotify.com/track/3HlzhD5JzCOl28ZyYaBMl7) | [ORA BLU](https://open.spotify.com/artist/6W85vCct2BUhK4mX1H1Flh) | [Carry Me](https://open.spotify.com/album/4CsWROryalOsNgDTZGV2ct) | 3:18 | 2025-12-07 |  |
 | [Chance It](https://open.spotify.com/track/2Zo3WV1uxQtpecOW90meze) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Chance It](https://open.spotify.com/album/4RRJetrxk1v6h5an2w83fH) | 2:56 | 2025-10-21 | 2025-11-23 |
 | [chandelier](https://open.spotify.com/track/77ho7KSzYoU7bTYa1dnz9t) | [Gwammz](https://open.spotify.com/artist/61M7qdbyweH4aLzPmRGy3b) | [Lavenderlight](https://open.spotify.com/album/6O9Ke55bG1MnKrqqroA5eW) | 3:38 | 2025-11-10 | 2025-12-11 |
@@ -244,9 +245,11 @@
 | [Going to Take You Higher](https://open.spotify.com/track/0jfVoa1bv14eIFuh4oTQ1c) | [Calypso31](https://open.spotify.com/artist/3hVlyEHOGaORtOsTQZd4ET) | [Esoteric](https://open.spotify.com/album/3DbLkDLZK7Vy2jW1ArKLy2) | 3:40 | 2025-12-04 |  |
 | [Golden Hour](https://open.spotify.com/track/4Zx0XTjVGEd5CBxcFjJrCP) | [elefa](https://open.spotify.com/artist/6gthsilX3yi8gmE55ho116), [St Henri](https://open.spotify.com/artist/3e3LkLyrblZgimWqfgmZsK) | [Golden Hour](https://open.spotify.com/album/2bqNm94Rldcbm6L7QPhs36) | 3:48 | 2025-10-27 | 2025-11-29 |
 | [Golden Tears](https://open.spotify.com/track/0lGKrAxNFwJfVD6hme01Hj) | [Lena Balkin](https://open.spotify.com/artist/1TD97XfsDLJ22jHMeETXek) | [Golden Tears](https://open.spotify.com/album/0wdtBSVOCid9W14pUyFQmg) | 2:54 | 2025-11-07 | 2025-12-08 |
+| [Good Girl](https://open.spotify.com/track/24vomCD1o8pYmrjUjPG1S6) | [CR33PIA](https://open.spotify.com/artist/0qyYZ1jH3kYBdWUpJNGukG) | [Good Girl](https://open.spotify.com/album/7z8jH3mrNlEJ1xVwqw5HBu) | 2:57 | 2025-12-28 |  |
 | [Good Girls](https://open.spotify.com/track/6KX9HMQKDopocRdfubFYB5) | [Erica Reese](https://open.spotify.com/artist/4GF3w9XtfV3McsKUia7W8G) | [Good Girls](https://open.spotify.com/album/1api3C97LHE5W9YV22BEof) | 3:36 | 2025-11-06 | 2025-12-07 |
 | [Goodnight Song](https://open.spotify.com/track/4rtDCyA3TtkAZNEQ8RmT1X) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Goodnight Song](https://open.spotify.com/album/4wd1FGFihVt0lXoJy3104f) | 3:21 | 2025-11-08 | 2025-12-11 |
 | [Gracious Fields](https://open.spotify.com/track/5cYMaxsusR8FPcJzxsiJ8s) | [FabofaWo](https://open.spotify.com/artist/7miAoTJuBk3eAe2HOSWFju) | [Gracious Fields](https://open.spotify.com/album/5FRZuHpxdvqODrN1l1vySa) | 2:37 | 2025-10-31 | 2025-12-01 |
+| [Grateful For You](https://open.spotify.com/track/5gIoyxR6yAa2zVJpsCAmmw) | [A Vibrational Boost](https://open.spotify.com/artist/562rbYfcYKIgltrldsEajA) | [One Vibe \(Beats of Joy, Roots of Love\)](https://open.spotify.com/album/4Eso6vxvoaz485RLs31WuN) | 3:54 | 2025-12-28 |  |
 | [Gratitude](https://open.spotify.com/track/30bElNhKgSkElHWDHJNXa3) | [Gliss](https://open.spotify.com/artist/49BVYCTwKB9sADS8tO2Tc5) | [Gratitude](https://open.spotify.com/album/5EGu8uuRoKMokt8bio5fq4) | 3:36 | 2025-12-09 |  |
 | [Grave](https://open.spotify.com/track/0Te52R0CCGrBgH2pOfAYXe) | [GŁOWA](https://open.spotify.com/artist/7uYJbXkQ0M7ipmJWICdLl9) | [Singular Moments in Time](https://open.spotify.com/album/0xyI8aoYYvYmv3bXs8ZE8X) | 3:17 | 2025-11-25 | 2025-12-28 |
 | [Greatness Abandoned](https://open.spotify.com/track/5kRxQQyqbe9VyFMgO3Iw4i) | [The Burying Game](https://open.spotify.com/artist/6XHIzQUMkkyXIsXn3XPnnK) | [Greatness Abandoned](https://open.spotify.com/album/3w98QK5DiwTtQtfwnGHxNo) | 3:50 | 2025-11-21 | 2025-12-23 |
@@ -496,6 +499,7 @@
 | [Rainbow Eyes](https://open.spotify.com/track/0MfSlR26pT9XLhfOCopd6Q) | [WUHA](https://open.spotify.com/artist/2Xa5A0dIwmZt8OBZrTv4qQ) | [Rainbow Eyes](https://open.spotify.com/album/0CkBTvg99uxGiUUSiNbb2h) | 3:42 | 2025-10-20 | 2025-11-23 |
 | [Rainlight](https://open.spotify.com/track/1UnLlenOIo7a2NQbDF9ACa) | [Gliss](https://open.spotify.com/artist/49BVYCTwKB9sADS8tO2Tc5) | [Rainlight](https://open.spotify.com/album/1rGZvzIU1JroxM8Zc8gUGx) | 3:21 | 2025-11-06 | 2025-12-07 |
 | [Rainy Daze \- Sped and Reverbed](https://open.spotify.com/track/5bGLkTWNYkfGQwyiMkTZPM) | [Freddy Angel](https://open.spotify.com/artist/59JcUEGuPvu186HbTEOFPd), [Nu Décor](https://open.spotify.com/artist/4kms45n332DYrkjsUuoLrY) | [ASMR](https://open.spotify.com/album/55WfeH0X0xsujv7doK5Nae) | 2:46 | 2025-11-18 | 2025-12-20 |
+| [Ramsey's Gift \(Twin Figures\)](https://open.spotify.com/track/4DqyRQ1hMb3q7xOpHMpRv1) | [Fausts' Eternal Desire](https://open.spotify.com/artist/48HsxooncwW6bDoLIr7wM8) | [Ramsey's Gift \(Twin Figures\)](https://open.spotify.com/album/4eXAnkrVB2YpdfQb3fTPJW) | 5:40 | 2025-12-28 |  |
 | [Ravage](https://open.spotify.com/track/4gdRJh4dJVw2erZssPRplR) | [Harmon](https://open.spotify.com/artist/5tBAhHbRM5eqxs963VJ4rC) | [Nightfall](https://open.spotify.com/album/3SJf54GW7dTCNsGgzJrE1W) | 3:21 | 2025-10-31 | 2025-12-01 |
 | [RE\-32](https://open.spotify.com/track/3XosVKvImINmqMa82dbX2p) | [fragile construct](https://open.spotify.com/artist/1ekV2LHZWLMtnJk8gXNeyA) | [Underwater](https://open.spotify.com/album/7dDRFeBjGPxeS6shq1THBd) | 1:50 | 2025-12-15 |  |
 | [Real Enough](https://open.spotify.com/track/0B1qb2UMgASlHt3pPFEp0d) | [Queen Anne](https://open.spotify.com/artist/2BpcZGwpd2C95Nn109Fj7x) | [Real Enough](https://open.spotify.com/album/555498Yzyq2v7JeZL7cWHT) | 2:52 | 2025-12-23 |  |
@@ -665,6 +669,7 @@
 | [Venom](https://open.spotify.com/track/123fITFBUeEY2TZthQumRM) | [Jenasis](https://open.spotify.com/artist/1m5tM87HoGL5ePg8IddymH) | [Venom](https://open.spotify.com/album/6EufUlmb84DvL4NHd6od4b) | 2:55 | 2025-10-23 | 2025-11-24 |
 | [Venom](https://open.spotify.com/track/5lr1O5jLSGnifzxwwMnwoY) | [Paytra](https://open.spotify.com/artist/2OG7pww56UaYyXIf6Agpeg) | [Venom](https://open.spotify.com/album/7aIBqtPzDT6oABeZr1uUfb) | 3:04 | 2025-12-08 |  |
 | [VIENNA WHISPER \(VICE\)](https://open.spotify.com/track/09FPNtlUfHNkRdQks6uWOv) | [Christina Best](https://open.spotify.com/artist/5qjkAdMqpXlAjvhI9YuCg2) | [WILD TYPE](https://open.spotify.com/album/7lrzBhmvK7eKUAdNzp4uNP) | 3:07 | 2025-12-04 |  |
+| [VILLAIN](https://open.spotify.com/track/2xkE8nmoQJObtgxOmsKf9G) | [A'Maria Imani](https://open.spotify.com/artist/0SvNczAhQ3pyWP6jceyPpC) | [CYNICISM](https://open.spotify.com/album/4XVnvJWIxsgLBJsfvh3cia) | 3:26 | 2025-12-28 |  |
 | [Waist](https://open.spotify.com/track/6gWYJb9O9SPaAgrW8kZtCt) | [Maxine](https://open.spotify.com/artist/3m7b61n7lAtR554KpBx5y9) | [Waist](https://open.spotify.com/album/634TyUFhrkZ97mvTQj7iI5) | 3:12 | 2025-10-28 | 2025-11-30 |
 | [Waiting](https://open.spotify.com/track/7x5KQAu1vq0c5AvLGC7yXd) | [Ajalo](https://open.spotify.com/artist/5HcFZoHcvzAngRTTnCxEox) | [Waiting](https://open.spotify.com/album/5abycP4Ic6xdXGmbRn56qt) | 2:57 | 2025-12-16 |  |
 | [WAITING](https://open.spotify.com/track/5ye9ksJ0I3fjOv5oRskAYz) | [BRADLEY](https://open.spotify.com/artist/7FTHkjnUKEfp1zZi5WN1rX) | [WAITING](https://open.spotify.com/album/6QyF6hrVnWByHSaXDRT7Ll) | 2:20 | 2025-12-13 |  |

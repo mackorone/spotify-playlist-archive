@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 
 > I brani italiani che abbiamo on repeat  🔁  Pinguini Tattici Nucleari in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 633,802 likes - 65 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 633,833 likes - 65 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 | 64 | [VA TUTTO BENE \(con Sayf\)](https://open.spotify.com/track/7jFnIzqqRPcSLLAzBnMg80) | [Sala](https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM), [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB) | [OGNI MUSICA](https://open.spotify.com/album/0AoCmT68sVhw2VQlHWR7yQ) | 2:57 |
 | 65 | [SE FINISSE L'AMORE](https://open.spotify.com/track/7zAub2y3CBN6flSbXHE28f) | [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [DISCORDIA, ARMONIA E ALTRI STATI D'ANIMO](https://open.spotify.com/album/69mCnKvD4x8fWENzqUbGdU) | 2:46 |
 
-Snapshot ID: `AAAAAEIkUBWuZ55daD4dSRN7D7r8XUbF`
+Snapshot ID: `AAAAACH78ahi0n3O45BRPOVMrKPYyCt1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6tJtr4qeot.md) - [plain]
 
 > All the of punk rock that you need in your life.
 
-[Spotify](https://open.spotify.com/user/spotify) - 914,078 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 914,064 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,14 +36,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6tJtr4qeot.md) - [plain]
 | 26 | [God Save The Queen](https://open.spotify.com/track/2mHchPRtQWet3iIS3jANr1) | [Sex Pistols](https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR) | [Never Mind The Bollocks, Here’s The Sex Pistols](https://open.spotify.com/album/6ggO3YVhyonYuFWUPBRyIv) | 3:19 |
 | 27 | [Dancing Barefoot](https://open.spotify.com/track/4kPSjEg8u1U4pg2dHHMmtf) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Wave](https://open.spotify.com/album/5Azni9In90zMkWAFgWh6RE) | 4:16 |
 | 28 | [Story of My Life](https://open.spotify.com/track/4Q4w8aRdfhIIEhBututktL) | [Social Distortion](https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI) | [Social Distortion](https://open.spotify.com/album/46nX6hzuIb6wEia7OQ2viS) | 5:46 |
-| 29 | [Pretend We're Dead](https://open.spotify.com/track/3z5ggGtcs4t8pizW521gW9) | [L7](https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h) | [Bricks Are Heavy](https://open.spotify.com/album/0z7Dc7FRsDH7E4kj32mKyM) | 3:55 |
-| 30 | [Crosstown Traffic](https://open.spotify.com/track/1ntxpzIUbSsizvuAy6lTYY) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 2:26 |
-| 31 | [I Was A Teenage Werewolf \- Remastered 1989](https://open.spotify.com/track/3sEQf5AuiphddGXRIWBcO9) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Songs The Lord Taught Us](https://open.spotify.com/album/6S9rbimtTmC0v6UBWqSpay) | 3:03 |
+| 29 | [I Was A Teenage Werewolf \- Remastered 1989](https://open.spotify.com/track/3sEQf5AuiphddGXRIWBcO9) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Songs The Lord Taught Us](https://open.spotify.com/album/6S9rbimtTmC0v6UBWqSpay) | 3:03 |
+| 30 | [Pretend We're Dead](https://open.spotify.com/track/3z5ggGtcs4t8pizW521gW9) | [L7](https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h) | [Bricks Are Heavy](https://open.spotify.com/album/0z7Dc7FRsDH7E4kj32mKyM) | 3:55 |
+| 31 | [Crosstown Traffic](https://open.spotify.com/track/1ntxpzIUbSsizvuAy6lTYY) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Electric Ladyland](https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ) | 2:26 |
 | 32 | [All My Best Friends Are Metalheads](https://open.spotify.com/track/1hh4GY1zM7SUAyM3a2ziH5) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Hello Rockview](https://open.spotify.com/album/2F9QXXQKnqqyzI1u4UK1Ss) | 3:31 |
 | 33 | [I'm Waiting For The Man](https://open.spotify.com/track/3fElupNRLRJ0tbUDahPrAb) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC), [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [The Velvet Underground & Nico 45th Anniversary](https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV) | 4:39 |
-| 34 | [Sell Out](https://open.spotify.com/track/6SJ1hWFVBIiUgGgHKvwXCQ) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [Turn The Radio Off](https://open.spotify.com/album/5nO5x1Qgnf7zwmO83qrHRn) | 3:47 |
-| 35 | [Carousel](https://open.spotify.com/track/3gVXAW2pduBl7tzjAGUVRb) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Cheshire Cat](https://open.spotify.com/album/6uTjljlshthbtA2U7V6u83) | 3:14 |
-| 36 | [Human Fly](https://open.spotify.com/track/0ElRzK07sc9eszyk1ea9Ab) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Off The Bone](https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi) | 2:16 |
+| 34 | [Human Fly](https://open.spotify.com/track/0ElRzK07sc9eszyk1ea9Ab) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Off The Bone](https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi) | 2:16 |
+| 35 | [Sell Out](https://open.spotify.com/track/6SJ1hWFVBIiUgGgHKvwXCQ) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [Turn The Radio Off](https://open.spotify.com/album/5nO5x1Qgnf7zwmO83qrHRn) | 3:47 |
+| 36 | [Carousel](https://open.spotify.com/track/3gVXAW2pduBl7tzjAGUVRb) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Cheshire Cat](https://open.spotify.com/album/6uTjljlshthbtA2U7V6u83) | 3:14 |
 | 37 | [Rip It Up](https://open.spotify.com/track/5tHFPtV7dT01fxDe2AhKjD) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [Here's Little Richard \(Deluxe Edition\)](https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8) | 2:21 |
 | 38 | [Rebel Girl](https://open.spotify.com/track/0XyjtybwqSdqMAFfBEkmZf) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [The Punk Singer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DoTlKAupC8rNAdb0tNmZ2) | 2:37 |
 | 39 | [Thrash Unreal](https://open.spotify.com/track/3c3XnCPwxGhQEHFxxjQcWe) | [Against Me!](https://open.spotify.com/artist/29lz7gs8edwnnfuXW4FhMl) | [New Wave \(U.S\. Version\)](https://open.spotify.com/album/08IrBeiM2LU3HAqAaHQcQq) | 4:14 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6tJtr4qeot.md) - [plain]
 | 41 | [Holiday in Cambodia \- Single Version](https://open.spotify.com/track/6ZR7gzHIvcj4qvo5q4kqXN) | [Dead Kennedys](https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV) | [Fresh Fruit For Rotting Vegetables \(Expanded Edition\)](https://open.spotify.com/album/41ZBxW5kNgSlZeVvXpkJWG) | 3:46 |
 | 42 | [Have Love Will Travel](https://open.spotify.com/track/2uXkW8uJcOIhlbUatEPLPs) | [The Sonics](https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy) | [Here Are the Sonics](https://open.spotify.com/album/4vqaqoTEbNyeeSHJA6KpdM) | 2:40 |
 | 43 | [Celebration Song](https://open.spotify.com/track/1uDhHTNIBF5BJQWTjKnCoa) | [Unwritten Law](https://open.spotify.com/artist/30h6MvMZfHQ8yzYCbfHMMT) | [Here's To The Mourning](https://open.spotify.com/album/1RfWXKUSOPbeggQ04lXABC) | 3:40 |
-| 44 | [Send Me A Postcard](https://open.spotify.com/track/6EXOSA4BWBM1AUsXxKwYDT) | [Shocking Blue](https://open.spotify.com/artist/5WimOFbBnCU5wI6t5PPpEk) | [Scorpio's Dance](https://open.spotify.com/album/0JqylHtd5MjYXBG2zypr0T) | 2:40 |
-| 45 | [Vicious](https://open.spotify.com/track/4A48NL57P16zSRaq3yoYry) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Transformer](https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St) | 2:59 |
+| 44 | [Vicious](https://open.spotify.com/track/4A48NL57P16zSRaq3yoYry) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Transformer](https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St) | 2:59 |
+| 45 | [Send Me A Postcard](https://open.spotify.com/track/6EXOSA4BWBM1AUsXxKwYDT) | [Shocking Blue](https://open.spotify.com/artist/5WimOFbBnCU5wI6t5PPpEk) | [Scorpio's Dance](https://open.spotify.com/album/0JqylHtd5MjYXBG2zypr0T) | 2:40 |
 | 46 | [Last Caress](https://open.spotify.com/track/0S8LgLoseDB6W2HWd1ym6P) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey), [Glenn Danzig](https://open.spotify.com/artist/71OjDxLFjWGQFpzU1VpN5d) | [Collection 2](https://open.spotify.com/album/7dUrduNuWHYQ8pdDKtBedD) | 1:59 |
 | 47 | [Superman](https://open.spotify.com/track/6cL7NCFSvqWrBH5r4mkvVV) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [The Best Of Goldfinger](https://open.spotify.com/album/2Fhk8LPPX8d14HwEKjmJ1O) | 3:05 |
-| 48 | [The Hell Song](https://open.spotify.com/track/1hPftDY3fsBXQuZvzShMYA) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Does This Look Infected?](https://open.spotify.com/album/7yhuYfoxQIer3OcxPLfebA) | 3:20 |
-| 49 | [Josie](https://open.spotify.com/track/5IKqS0Kmme9uVOVjulysEV) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Dude Ranch](https://open.spotify.com/album/0RADUK8yTUBidzBke6Eszq) | 3:19 |
+| 48 | [Josie](https://open.spotify.com/track/5IKqS0Kmme9uVOVjulysEV) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Dude Ranch](https://open.spotify.com/album/0RADUK8yTUBidzBke6Eszq) | 3:19 |
+| 49 | [The Hell Song](https://open.spotify.com/track/1hPftDY3fsBXQuZvzShMYA) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Does This Look Infected?](https://open.spotify.com/album/7yhuYfoxQIer3OcxPLfebA) | 3:20 |
 | 50 | [Alone Again Or \- 2015 Remaster](https://open.spotify.com/track/1XuccRABkfUVB4FjSVhjL1) | [Love](https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk) | [Forever Changes \(2015 Remaster\)](https://open.spotify.com/album/2amHBpP8C0EUy6yBNy6nN6) | 3:17 |
 
 Snapshot ID: `AAAAAEwSK/Rsa6qpVPklrSw4NMouDx8P`

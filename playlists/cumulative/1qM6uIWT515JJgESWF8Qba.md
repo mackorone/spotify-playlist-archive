@@ -4,7 +4,7 @@
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-102 songs - 6 hr 14 min
+103 songs - 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Crazy Horse](https://open.spotify.com/track/638G4U3oabQAQHKi43XbUj) | [Automatic Kafka](https://open.spotify.com/artist/2MxUQ6VUpXfDov3Fyz7Wnm) | [Crazy Horse](https://open.spotify.com/album/5zgycbyhmN5ROkDD6CXMRZ) | 4:52 | 2025-11-27 | 2025-12-28 |
 | [Cut the Music](https://open.spotify.com/track/0kub1ztt7OU6gzch4MpEjU) | [Evan Rotella](https://open.spotify.com/artist/01UvushZJthpdyuMbDFpDS) | [Cut the Music](https://open.spotify.com/album/6nM5cckt3LOiNghAkXu6Xv) | 4:06 | 2025-12-16 |  |
 | [Desde Que Te Vi](https://open.spotify.com/track/4zRfPFZQJ3FgXY6fYPVyee) | [El Mr.](https://open.spotify.com/artist/0UTWj8L8tNSJ2DC9E1by91) | [Desde Que Te Vi](https://open.spotify.com/album/0BeMj6uXo1D1ew6FgT9210) | 4:10 | 2025-10-30 | 2025-12-28 |
+| [Destinos Cruzados](https://open.spotify.com/track/4tFkEuIWIZIKDPfaJhUyrP) | [Miscellaneous](https://open.spotify.com/artist/4lVq1XJ7brnkOBuzOzznHi) | [Miscellaneous](https://open.spotify.com/album/3suDk3EaTehsxRL6yoEx5s) | 3:10 | 2025-12-28 |  |
 | [Devil With The Black Dress On](https://open.spotify.com/track/6vYQkUxIR0CpiJk5qg1Uwn) | [Sarah & The Silent Poets](https://open.spotify.com/artist/13K8ORHx1WpF9cCTQwQVcB) | [Devil With The Black Dress On](https://open.spotify.com/album/1McZnjNxg94UudFY94fRzo) | 2:27 | 2025-10-25 | 2025-12-28 |
 | [Diane \- Demo Version](https://open.spotify.com/track/5xiZ1UJ3CFjvcXNJNO7plw) | [Ceramic Doves](https://open.spotify.com/artist/0znhkYLZ7d6otsW91943i2) | [Diane \(Demo Version\)](https://open.spotify.com/album/6DBiT8SsreCrtgUgTsMxCc) | 4:11 | 2025-10-17 |  |
 | [El Arte de Perderse](https://open.spotify.com/track/1lQ1oIQJjfIRnT16EBx4yU) | [normandía](https://open.spotify.com/artist/0KSutzhXRytRGdfEsGWN1M) | [El Arte de Perderse](https://open.spotify.com/album/1feLfZkAWelzbUVsaoyux2) | 2:50 | 2025-12-20 |  |

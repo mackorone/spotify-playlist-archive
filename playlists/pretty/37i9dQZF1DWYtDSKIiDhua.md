@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > R&B and good vibe tracks for your current mood\. Cover: JUNNY
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,444 likes - 95 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,451 likes - 95 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 94 | [Moonlight](https://open.spotify.com/track/3BZkqCUSLzozgQuvR5MW3q) | [WIM](https://open.spotify.com/artist/5cHJ17GlywtrrS6ax9xqQz) | [Moonlight](https://open.spotify.com/album/5zAYhgGJ1e3MopvwahvFQZ) | 2:33 |
 | 95 | [Easy \(feat\. Justin Vasquez\)](https://open.spotify.com/track/0KiYhC8ZFrA8UwbUDdlqhe) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F), [Justin Vasquez](https://open.spotify.com/artist/1juIpte4oHJ5ngVLPTUPuJ), [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO) | [Easy \(feat\. Justin Vasquez\)](https://open.spotify.com/album/3hQ2DM2aDSv6J60OBKvCc2) | 2:36 |
 
-Snapshot ID: `AAAAAAhBSnLg7YpfmvY/1H9MYCqiZD/e`
+Snapshot ID: `AAAAAPQEvetD6Jt5GHaiQF6bFJw86u1P`

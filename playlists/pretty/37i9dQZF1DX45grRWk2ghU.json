@@ -1,6 +1,6 @@
 {
   "description": "My name is pink ",
-  "num_followers": 791986,
+  "num_followers": 792075,
   "original_name": "Hot Pink",
   "owner": {
     "name": "Spotify",
@@ -535,22 +535,6 @@
     {
       "added_at": "2024-08-03 15:31:45",
       "album": {
-        "name": "Animal (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F"
-      },
-      "artists": [
-        {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
-        }
-      ],
-      "duration_ms": 187133,
-      "name": "Your Love Is My Drug",
-      "url": "https://open.spotify.com/track/6vc2Jq2vaGu8z326kSrw92"
-    },
-    {
-      "added_at": "2024-08-03 15:31:45",
-      "album": {
         "name": "Aquarium (Special Edition)",
         "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 197960,
       "name": "Barbie Girl",
       "url": "https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr"
+    },
+    {
+      "added_at": "2024-08-03 15:31:45",
+      "album": {
+        "name": "Animal (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "duration_ms": 187133,
+      "name": "Your Love Is My Drug",
+      "url": "https://open.spotify.com/track/6vc2Jq2vaGu8z326kSrw92"
     },
     {
       "added_at": "2024-08-03 15:31:45",

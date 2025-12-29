@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Buffalo Traffic Jam
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,226 likes - 101 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,222 likes - 101 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 
 > ciao auguri dagli editor di Spotify 🎁 ricominciamo ad aggiornare la playlist il 2/1, intanto: coez in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,342 likes - 78 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,345 likes - 78 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

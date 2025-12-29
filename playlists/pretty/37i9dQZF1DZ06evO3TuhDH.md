@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 
 > This is Coi Leray\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,892 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,897 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 | 6 | [Happy Fools \(feat\. Coi Leray\)](https://open.spotify.com/track/77LZvE2XLYn2AW55UxIG8H) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [The Name Chapter: TEMPTATION](https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg) | 2:35 |
 | 7 | [Attachments \(feat\. Coi Leray\)](https://open.spotify.com/track/4nyRXQQkM69kmaxiyCKMCr) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Attachments \(feat\. Coi Leray\)](https://open.spotify.com/album/6CMpc5ukVsV1HJUWwLMHBJ) | 2:51 |
 | 8 | [We Time](https://open.spotify.com/track/1LR9G0wTclqlagmp8Q3RHN) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Lemon Cars](https://open.spotify.com/album/4fpd2D289N4Ma0jxG3zzSm) | 2:57 |
-| 9 | [Flip A Switch\. \(feat\. Coi Leray\) \- Remix](https://open.spotify.com/track/72b7GzsnUAjsk5I56hLkjp) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Flip A Switch\. \(feat\. Coi Leray\) \[Remix\]](https://open.spotify.com/album/6il1IQ2A2yvZaGPgcqXDBd) | 3:21 |
-| 10 | [What’s My Name \(with Queen Naija & Coi Leray\)](https://open.spotify.com/track/5m4TMhR7wQQGxelJa7lToQ) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [B.I.B.L.E.](https://open.spotify.com/album/6np2Ix6RidhSseqw2dZovP) | 3:21 |
+| 9 | [What’s My Name \(with Queen Naija & Coi Leray\)](https://open.spotify.com/track/5m4TMhR7wQQGxelJa7lToQ) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [B.I.B.L.E.](https://open.spotify.com/album/6np2Ix6RidhSseqw2dZovP) | 3:21 |
+| 10 | [Flip A Switch\. \(feat\. Coi Leray\) \- Remix](https://open.spotify.com/track/72b7GzsnUAjsk5I56hLkjp) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Flip A Switch\. \(feat\. Coi Leray\) \[Remix\]](https://open.spotify.com/album/6il1IQ2A2yvZaGPgcqXDBd) | 3:21 |
 | 11 | [Save The Day \(feat\. Coi Leray & LouGotCash\)](https://open.spotify.com/track/0vkzRCT7wzqWCFJw5TN1MQ) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry), [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [LouGotCash](https://open.spotify.com/artist/1Sz0VZ2PxcZPD2qRIX9GSK) | [Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)](https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs) | 2:58 |
 | 12 | [Lick Back \(feat\. Skrilla\) \- Remix](https://open.spotify.com/track/4KcQw2rMOQO06sZ6Bkic8j) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Skrilla](https://open.spotify.com/artist/3qdQnBjEBHrk5nZYxXdV1U) | [Lick Back \(feat\. Skrilla\) \[Remix\]](https://open.spotify.com/album/4Gi58kfGwjjXIOURUQ6SVo) | 2:13 |
 | 13 | [Pretty Girls Walk \(with Coi Leray\) \- Remix](https://open.spotify.com/track/2g9dhCaJiK7D0FOgZ9vJlR) | [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Pretty Girls Walk \(Remix\)](https://open.spotify.com/album/3jmmKIPtYmaC8XsDmVIO1W) | 2:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 | 49 | [I Like \(feat\. Karlae & Coi Leray\)](https://open.spotify.com/track/1OuwfVcdn99T9SPBHaVTNn) | [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Karlae](https://open.spotify.com/artist/6RY7kT6PGGzAA3TG3s4Qmp), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Slime Language 2](https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC) | 3:09 |
 | 50 | [The One \(Sprite Limelight\)](https://open.spotify.com/track/22Xi8off2rIqT1kwTZXKPW) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [The One \(Sprite Limelight\)](https://open.spotify.com/album/6UF46ZzBvi3EiXDZmtwyXV) | 2:15 |
 
-Snapshot ID: `aU3QAAAAAAAg4vTLXtDyh5Ttg1H9k9PN`
+Snapshot ID: `aU8hgAAAAAAy1B7YoocVfSjI86RDzXoL`

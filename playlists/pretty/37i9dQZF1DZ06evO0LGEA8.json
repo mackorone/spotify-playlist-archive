@@ -1,12 +1,12 @@
 {
   "description": "This is La Santa Grifa. The essential tracks, all in one playlist.",
-  "num_followers": 304162,
+  "num_followers": 304232,
   "original_name": "This Is La Santa Grifa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU3QAAAAAADh3OYJiVcHM67IeqyHORCJ",
+  "snapshot_id": "aU8hgAAAAAD60Fbrmf8YxndzCDFdEHMP",
   "tracks": [
     {
       "added_at": null,
@@ -247,6 +247,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u00c9xitos, Vol. 2",
+        "url": "https://open.spotify.com/album/5MhpEW1P1Lpu4NLrLB34x7"
+      },
+      "artists": [
+        {
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        }
+      ],
+      "duration_ms": 278544,
+      "name": "Como Me Encula Esa Dama",
+      "url": "https://open.spotify.com/track/1mFXcxBVvvmB0j3MlogCAh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "CRISTIAN",
         "url": "https://open.spotify.com/album/1g5DtpsRYh0UzdkxHEZY4F"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 227911,
       "name": "LLEVARTE",
       "url": "https://open.spotify.com/track/7olLAAPSwNTbMes8uH8B5x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u00c9xitos, Vol. 2",
-        "url": "https://open.spotify.com/album/5MhpEW1P1Lpu4NLrLB34x7"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 278544,
-      "name": "Como Me Encula Esa Dama",
-      "url": "https://open.spotify.com/track/1mFXcxBVvvmB0j3MlogCAh"
     },
     {
       "added_at": null,
@@ -611,26 +611,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Mexico Song",
-        "url": "https://open.spotify.com/album/5Fiig4Q85kNWPm4aSztfBy"
+        "name": "Las Chidas Pal Cuarto",
+        "url": "https://open.spotify.com/album/6eOtwUDg5pVryf6Ry2RH9C"
       },
       "artists": [
         {
           "name": "La Santa Grifa",
           "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        },
-        {
-          "name": "Bear Busby",
-          "url": "https://open.spotify.com/artist/18u6URN38HiDhEhYqfUmiz"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
         }
       ],
-      "duration_ms": 213812,
-      "name": "De Mexico Song",
-      "url": "https://open.spotify.com/track/6xMZFpORmifhj8lbB5RGH9"
+      "duration_ms": 315419,
+      "name": "Mi Necesidad",
+      "url": "https://open.spotify.com/track/63bxC1JHzLGAlWfTSnnCPH"
     },
     {
       "added_at": null,
@@ -655,18 +647,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Chidas Pal Cuarto",
-        "url": "https://open.spotify.com/album/6eOtwUDg5pVryf6Ry2RH9C"
+        "name": "De Mexico Song",
+        "url": "https://open.spotify.com/album/5Fiig4Q85kNWPm4aSztfBy"
       },
       "artists": [
         {
           "name": "La Santa Grifa",
           "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        },
+        {
+          "name": "Bear Busby",
+          "url": "https://open.spotify.com/artist/18u6URN38HiDhEhYqfUmiz"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
         }
       ],
-      "duration_ms": 315419,
-      "name": "Mi Necesidad",
-      "url": "https://open.spotify.com/track/63bxC1JHzLGAlWfTSnnCPH"
+      "duration_ms": 213812,
+      "name": "De Mexico Song",
+      "url": "https://open.spotify.com/track/6xMZFpORmifhj8lbB5RGH9"
     },
     {
       "added_at": null,

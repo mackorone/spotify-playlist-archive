@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 
 > Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Samuel Rosa, DUDA BEAT
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,478 likes - 65 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,543 likes - 65 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,10 +34,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 | 24 | [Só Hoje \- Strings Orchestra](https://open.spotify.com/track/1WMoGAaApDZWppKKSjdP9h) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6) | [Só Hoje \(Strings Orchestra\)](https://open.spotify.com/album/2bDZbub5i4W1JE4sEg6tOq) | 3:29 |
 | 25 | [Alquimia](https://open.spotify.com/track/4NmZEzKC42IGwAZAyFoid1) | [Dnaipes](https://open.spotify.com/artist/5M2uhgdUkJclA49HogSCae) | [Alquimia](https://open.spotify.com/album/1Lta0vnybMxH2473GXUPIt) | 3:46 |
 | 26 | [Pra Você Guardei o Amor](https://open.spotify.com/track/3SMhMfrSXYqIgqwViduXnv) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy), [Colomy](https://open.spotify.com/artist/3cZPhYBGxe9nqWRe3xAlmp) | [Pra Você Guardei o Amor](https://open.spotify.com/album/4aOptqsyZ2qudQGtdPucdQ) | 4:59 |
-| 27 | [Rio Dentro do Mar](https://open.spotify.com/track/3Ouigy15CzZ6mwsvl5OQCT) | [Samuel Rosa](https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa) | [Rosa](https://open.spotify.com/album/6DV3tGb5DBxry07vXqQAng) | 3:56 |
-| 28 | [Fica um Pouco Mais](https://open.spotify.com/track/1eNPv3mdG8YqOMKpkbWm3m) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Fica um Pouco Mais](https://open.spotify.com/album/1RIX9DAwLw8fNWNpVkLgYE) | 3:04 |
-| 29 | [vale nada](https://open.spotify.com/track/7qZpO1kTmzl2NfOHf6FORY) | [Tupi & Os Crocodilos de Marte](https://open.spotify.com/artist/7FjKCOgWeJVYiCnDJAkYet), [Tupi](https://open.spotify.com/artist/4VPfdVmQ3Lm86SOPgaCsCf) | [vale nada](https://open.spotify.com/album/04CCQjIuuirv55khPHFD8B) | 3:02 |
-| 30 | [Não Diga Nada](https://open.spotify.com/track/1T1xneWDmxbb9rcgB0Svz8) | [Pedro Mariano](https://open.spotify.com/artist/3flF2SJ6De8yPikxEI5bpY), [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v) | [Não Diga Nada](https://open.spotify.com/album/3kf71hYy9zqknjwKGyi2mj) | 4:10 |
+| 27 | [Fica um Pouco Mais](https://open.spotify.com/track/1eNPv3mdG8YqOMKpkbWm3m) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Fica um Pouco Mais](https://open.spotify.com/album/1RIX9DAwLw8fNWNpVkLgYE) | 3:04 |
+| 28 | [Rio Dentro do Mar](https://open.spotify.com/track/3Ouigy15CzZ6mwsvl5OQCT) | [Samuel Rosa](https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa) | [Rosa](https://open.spotify.com/album/6DV3tGb5DBxry07vXqQAng) | 3:56 |
+| 29 | [Não Diga Nada](https://open.spotify.com/track/1T1xneWDmxbb9rcgB0Svz8) | [Pedro Mariano](https://open.spotify.com/artist/3flF2SJ6De8yPikxEI5bpY), [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v) | [Não Diga Nada](https://open.spotify.com/album/3kf71hYy9zqknjwKGyi2mj) | 4:10 |
+| 30 | [vale nada](https://open.spotify.com/track/7qZpO1kTmzl2NfOHf6FORY) | [Tupi & Os Crocodilos de Marte](https://open.spotify.com/artist/7FjKCOgWeJVYiCnDJAkYet), [Tupi](https://open.spotify.com/artist/4VPfdVmQ3Lm86SOPgaCsCf) | [vale nada](https://open.spotify.com/album/04CCQjIuuirv55khPHFD8B) | 3:02 |
 | 31 | [Começa Tudo Outra Vez](https://open.spotify.com/track/6h0ASQ97OHyTyY8AfcCfAN) | [Humberto Gessinger](https://open.spotify.com/artist/4A4HpNHrbu2nzPyIGFTaJ5) | [Quatro Cantos de Um Mundo Redondo](https://open.spotify.com/album/5xBXM2fP2SkEEttijLCtGB) | 3:28 |
 | 32 | [Tela Quente \- Acústico](https://open.spotify.com/track/1PvGWfUNdGceuhwKR5ruha) | [Maglore](https://open.spotify.com/artist/24me6m3bV7l2rnUwaXV0Tj) | [Acústico](https://open.spotify.com/album/62ZewpKcRoXUCdOcSJuWkR) | 3:13 |
 | 33 | [Eu não sou mais o mesmo](https://open.spotify.com/track/7ggCFNp07eR7nfpIbuHZQi) | [Pe Lu](https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD) | [Eu não sou mais o mesmo](https://open.spotify.com/album/0FRCbWvGvqxHWhcnxLu0DF) | 2:07 |
@@ -54,11 +54,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 | 44 | [Vida Real](https://open.spotify.com/track/2WZpf1SuDwLWtu5rFFd9il) | [Esteban Tavares](https://open.spotify.com/artist/3IokbxGxDtjuk6wPdisQ6o) | [Vida Real](https://open.spotify.com/album/7pfiQUMW4GxfeLDaIZPKcE) | 3:50 |
 | 45 | [Estive com Stevie](https://open.spotify.com/track/0gBsFURSrkTWWrIaZnYo9D) | [Blitz](https://open.spotify.com/artist/1POsQml4E21Ku75BirHFMQ) | [Supernova](https://open.spotify.com/album/2g26BC7k5JvYrsKMIZjogr) | 3:36 |
 | 46 | [Dragon](https://open.spotify.com/track/2MGoRGsL1Q4kUL5ggkFOlC) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [Dragon](https://open.spotify.com/album/42UhCrnOFpM7IekWMorsV1) | 3:05 |
-| 47 | [Sweet Virginia](https://open.spotify.com/track/3S088c3IBFwMRuVBX8NFhT) | [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT), [Martin Mendonça](https://open.spotify.com/artist/3suzN6t3svbUxpSxecrQ4b), [Agridoce](https://open.spotify.com/artist/4SyWhCnXrV0FDnGw1ISMJI) | [Sweet Virginia / Across the Universe](https://open.spotify.com/album/5Tp6LVqSOfc5BBV0GjQYn6) | 4:33 |
+| 47 | [Nada Mudou](https://open.spotify.com/track/4Vz23w4xQ6uSIRCLLLeEaR) | [Leo Jaime](https://open.spotify.com/artist/2TjzEhCBd9s3YPWKPwKZYo) | [Nada Mudou](https://open.spotify.com/album/0hIJR1ky8OCbMhXVQp8Jjr) | 3:16 |
 | 48 | [Tudo Fica Bem \- Acústico](https://open.spotify.com/track/5IQiul9hH6sL4WNm8QS397) | [Tianastacia](https://open.spotify.com/artist/3ucYi2JRu3j12lHbfqms9u) | [Tudo Fica Bem \(Acústico\)](https://open.spotify.com/album/3ELasphaer4uFY996px5iC) | 2:45 |
-| 49 | [VOU ESTAR AQUI](https://open.spotify.com/track/68a7d2NiPRLsKaKZ5qPPSU) | [A Outra Margem](https://open.spotify.com/artist/0A3D5f6K0YALdFkm7t7o4Y) | [Polaroid Sonora](https://open.spotify.com/album/5TwD7OmBjWZRhiyODTvEwb) | 4:16 |
-| 50 | [Hoje eu não vim falar de Amor](https://open.spotify.com/track/6anYWyiQuRfLFrVWP5Gc8R) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Hoje eu não vim falar de Amor](https://open.spotify.com/album/4oc0QwQpt6HcT0TAArIwH7) | 3:48 |
-| 51 | [Nada Mudou](https://open.spotify.com/track/4Vz23w4xQ6uSIRCLLLeEaR) | [Leo Jaime](https://open.spotify.com/artist/2TjzEhCBd9s3YPWKPwKZYo) | [Nada Mudou](https://open.spotify.com/album/0hIJR1ky8OCbMhXVQp8Jjr) | 3:16 |
+| 49 | [Sweet Virginia](https://open.spotify.com/track/3S088c3IBFwMRuVBX8NFhT) | [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT), [Martin Mendonça](https://open.spotify.com/artist/3suzN6t3svbUxpSxecrQ4b), [Agridoce](https://open.spotify.com/artist/4SyWhCnXrV0FDnGw1ISMJI) | [Sweet Virginia / Across the Universe](https://open.spotify.com/album/5Tp6LVqSOfc5BBV0GjQYn6) | 4:33 |
+| 50 | [VOU ESTAR AQUI](https://open.spotify.com/track/68a7d2NiPRLsKaKZ5qPPSU) | [A Outra Margem](https://open.spotify.com/artist/0A3D5f6K0YALdFkm7t7o4Y) | [Polaroid Sonora](https://open.spotify.com/album/5TwD7OmBjWZRhiyODTvEwb) | 4:16 |
+| 51 | [Hoje eu não vim falar de Amor](https://open.spotify.com/track/6anYWyiQuRfLFrVWP5Gc8R) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Hoje eu não vim falar de Amor](https://open.spotify.com/album/4oc0QwQpt6HcT0TAArIwH7) | 3:48 |
 | 52 | [Wake Me Up \- Ao Vivo](https://open.spotify.com/track/2iY03xBQP66ShlxLe6h70V) | [Dr\. Sin](https://open.spotify.com/artist/4YtYp2wFYIgdNsLWo6rM3D) | [Acustico Dr\. Sin 1 \(Ao Vivo\)](https://open.spotify.com/album/64pzulPMXejjXaT7OnDlXm) | 4:34 |
 | 53 | [Moletom](https://open.spotify.com/track/6sYEvTZfUFDo9IY02b1DD1) | [Ondastral](https://open.spotify.com/artist/1PLVBYQrlY7TUtoyRspbuV) | [Moletom](https://open.spotify.com/album/5yVc8jYrfoQy007gd3teKt) | 2:53 |
 | 54 | [Quanto é Muito? \(Atravessar\)](https://open.spotify.com/track/4JpxLYN0FbxVBin0LaGm9m) | [Chella](https://open.spotify.com/artist/0PfKBDzVqAXKEnTQvHvT5a) | [Quanto é Muito? \(Atravessar\)](https://open.spotify.com/album/4k4LWyZ69kQQlgVfx0HZtd) | 3:25 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 | 64 | [Na Sua Estante \- Ao Vivo](https://open.spotify.com/track/4GifjoggvmG2sYEGE2PsIu) | [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT), [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [PITTYNANDO – As Suas, As Minhas e As Nossas \(Ao Vivo\)](https://open.spotify.com/album/5GXMquIjfejiBifabM0Tny) | 5:22 |
 | 65 | [Stonehenge \- Live](https://open.spotify.com/track/6BcpYt1509EnqN4TR9CVzw) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Quarto dos Livros \(20 Anos\) \[Live\]](https://open.spotify.com/album/4XQComL0rKCH9NwRf75xH6) | 4:12 |
 
-Snapshot ID: `AAAAAN1lmCSl8U8yJA3H9qSqg704tp75`
+Snapshot ID: `AAAAACxvAJt0ij2Ri6ETINYTeLTz7U+P`

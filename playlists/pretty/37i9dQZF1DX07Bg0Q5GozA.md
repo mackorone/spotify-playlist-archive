@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Moglii
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,352 likes - 75 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,315 likes - 75 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [Someone Else is Calling](https://open.spotify.com/track/4z2RUWtRja1oXP9KyE599Q) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W), [Hips & Lips](https://open.spotify.com/artist/2xaQZsblWFPXPtlsNGgO3Q) | [Someone Else Is Calling](https://open.spotify.com/album/7nwvtVqd8zTrE231FC9dCN) | 5:22 |
 | 75 | [Stitches \- Romy Remix](https://open.spotify.com/track/1o7ZhwiE86QL36V8zsXQct) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Stitches \(Romy Remix\)](https://open.spotify.com/album/558IG2B7fNDP0wSXeBhc13) | 4:27 |
 
-Snapshot ID: `AAAAAOboJmSLxDGDMEMFdLvKoPSDIoYE`
+Snapshot ID: `AAAAAIiLNO1jn7sgf9kLiHfRPfyMdoqb`

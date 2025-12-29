@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWDeQ3zOW6J.md) - [plain]
 
 > ¡Nada le gana a una comida hecha con buena salsa!
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,374 likes - 60 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,395 likes - 60 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,14 +48,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWDeQ3zOW6J.md) - [plain]
 | 38 | [Quiéreme Siempre](https://open.spotify.com/track/3cOjwAd2qUFlXG71620G6C) | [Orquesta Aragón](https://open.spotify.com/artist/2jXlqT8v9XIJnKQYRgLvSr) | [Mosaicos Tropicales](https://open.spotify.com/album/11OAMNwtwOQZnGpJzBNn3C) | 2:59 |
 | 39 | [Máximo Chamorro](https://open.spotify.com/track/4KARXeRqsfk8ZbyrRhqKc5) | [Lalo Rodriguez](https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U) | [Simplemente..\. Lalo](https://open.spotify.com/album/02BFzeqsPhtq8r9mEdrl2E) | 7:38 |
 | 40 | [Que Bueno Baila Usted](https://open.spotify.com/track/5c2JVgFOORbNCtaMS0myWY) | [Beny Moré](https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw) | [The Very Best Of Beny More Vol\. 1](https://open.spotify.com/album/45tO9TmvTvtAFWqWqB89hq) | 3:14 |
-| 41 | [Melao De Caña](https://open.spotify.com/track/7yHleQZ0QlKXBcSC6fnxie) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Songs](https://open.spotify.com/album/0KQGOYXK7YdTavxcfDtcmI) | 2:52 |
+| 41 | [Watermelon Man](https://open.spotify.com/track/5V9djIv8jwAw5pKhpT1HLb) | [Mongo Santamaria](https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0) | [Mongo Santamaria's Greatest Hits](https://open.spotify.com/album/3lqIpvffQl5O56AZpdB5PU) | 3:14 |
 | 42 | [Patillero](https://open.spotify.com/track/2oaGtTnoM8jL8Pxouf6GJ1) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Wilson "Saoko" Manyoma](https://open.spotify.com/artist/43zrpWYGTWyHmRAmhE07u0) | [Fruko el Patillero](https://open.spotify.com/album/2XfXsROaksq5IlUCRn0XOR) | 3:27 |
-| 43 | [Watermelon Man](https://open.spotify.com/track/5V9djIv8jwAw5pKhpT1HLb) | [Mongo Santamaria](https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0) | [Mongo Santamaria's Greatest Hits](https://open.spotify.com/album/3lqIpvffQl5O56AZpdB5PU) | 3:14 |
+| 43 | [Melao De Caña](https://open.spotify.com/track/7yHleQZ0QlKXBcSC6fnxie) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Songs](https://open.spotify.com/album/0KQGOYXK7YdTavxcfDtcmI) | 2:52 |
 | 44 | [Te conozco bacalao](https://open.spotify.com/track/3UuFzofATsKBzRUggfWigb) | [El Combo Belga](https://open.spotify.com/artist/69vFORDMYL8ZfBGHtAfDve) | [Rompiendo clave](https://open.spotify.com/album/0zzAXAwmZXzeWqrbHiyZ8v) | 4:24 |
 | 45 | [Fuego Y Pa' Lante](https://open.spotify.com/track/5HpLBkDWIhJpehZMNRSKi5) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Latino Con Soul](https://open.spotify.com/album/5BMrkLARvj0c5GkY9aGl8V) | 4:53 |
 | 46 | [El Bodeguero](https://open.spotify.com/track/5KWXFC6zIKvAzGSxD0Z537) | [Orquesta Aragón De Cuba](https://open.spotify.com/artist/2OLihLtYOqpRtNddqyLWsG) | [Antología de la Música Cubana](https://open.spotify.com/album/1v0ts1bkcJc8tzs68G1nLt) | 3:01 |
-| 47 | [Yamulemau](https://open.spotify.com/track/3wyKZNE5qs4Etunb0dFrLw) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [Colección Éxitos Joe Arroyo \(Vol\. 2\)](https://open.spotify.com/album/0qGM0WX4GuaRaHWxzi73tX) | 4:28 |
-| 48 | [La Receta](https://open.spotify.com/track/0IPkxdfbTM1m9DM4B6mkIW) | [Johnny Polanco Y Su Conjunto Amistad](https://open.spotify.com/artist/11fm2zDVUIc5c2Y2H2qTle) | [L.A\. Amistad](https://open.spotify.com/album/0BlvFpY2yHLFPaNjJ2oGV3) | 5:03 |
+| 47 | [La Receta](https://open.spotify.com/track/0IPkxdfbTM1m9DM4B6mkIW) | [Johnny Polanco Y Su Conjunto Amistad](https://open.spotify.com/artist/11fm2zDVUIc5c2Y2H2qTle) | [L.A\. Amistad](https://open.spotify.com/album/0BlvFpY2yHLFPaNjJ2oGV3) | 5:03 |
+| 48 | [Yamulemau](https://open.spotify.com/track/3wyKZNE5qs4Etunb0dFrLw) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [Colección Éxitos Joe Arroyo \(Vol\. 2\)](https://open.spotify.com/album/0qGM0WX4GuaRaHWxzi73tX) | 4:28 |
 | 49 | [¿Qué Quiere la Niña?](https://open.spotify.com/track/2NKQcrJalpRqHRJ8e20qxV) | [Kako y Totico](https://open.spotify.com/artist/0vlcfJoJQgepEhvhNSMg0w) | [Siguen Pa' Lante y Pa' Lante](https://open.spotify.com/album/0ggUsuE3sanuha2Ju1DTvm) | 3:53 |
 | 50 | [El Yerbero Del Barrio](https://open.spotify.com/track/0u8lmRThcVenfXivdewmFM) | [Roberto y Su Nuevo Montuno](https://open.spotify.com/artist/3IQ3oRmLQtb71i2TcO5Sxv) | [The Best](https://open.spotify.com/album/7sHJqlDvN5uK8WgcKlkw3e) | 4:54 |
 | 51 | [Juancito Trucupey](https://open.spotify.com/track/2Xr2pWBvV4ofRkheeleKIf) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Antología de la Música Cubana](https://open.spotify.com/album/1v0ts1bkcJc8tzs68G1nLt) | 2:43 |

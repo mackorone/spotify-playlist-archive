@@ -1,6 +1,6 @@
 {
   "description": "\uc720\uc800\ubcc4 \ub9de\ucda4\uc73c\ub85c \ucd94\ucc9c\ub418\ub294 \ud799\ud55c \ub178\ub798\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694!",
-  "num_followers": 125217,
+  "num_followers": 125272,
   "original_name": "\ub108 \ud799 \ub3fc?",
   "owner": {
     "name": "Spotify",
@@ -211,30 +211,6 @@
     {
       "added_at": "2025-03-24 09:53:27",
       "album": {
-        "name": "The Forever Story (Extended Version)",
-        "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g"
-      },
-      "artists": [
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 229938,
-      "name": "Surround Sound (feat. 21 Savage & Baby Tate)",
-      "url": "https://open.spotify.com/track/1udwFobQ1JoOdWPQrp2b6u"
-    },
-    {
-      "added_at": "2025-03-24 09:53:27",
-      "album": {
         "name": "WE DON'T TRUST YOU",
         "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
       },
@@ -259,6 +235,30 @@
       "duration_ms": 228266,
       "name": "Type Shit",
       "url": "https://open.spotify.com/track/28drn6tQo95MRvO0jQEo5C"
+    },
+    {
+      "added_at": "2025-03-24 09:53:27",
+      "album": {
+        "name": "The Forever Story (Extended Version)",
+        "url": "https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g"
+      },
+      "artists": [
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 229938,
+      "name": "Surround Sound (feat. 21 Savage & Baby Tate)",
+      "url": "https://open.spotify.com/track/1udwFobQ1JoOdWPQrp2b6u"
     },
     {
       "added_at": "2025-03-24 09:53:27",
@@ -455,22 +455,6 @@
     {
       "added_at": "2025-03-24 09:53:27",
       "album": {
-        "name": "Search & Rescue",
-        "url": "https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 272112,
-      "name": "Search & Rescue",
-      "url": "https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G"
-    },
-    {
-      "added_at": "2025-03-24 09:53:27",
-      "album": {
         "name": "Ghetto Fabulous",
         "url": "https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT"
       },
@@ -503,22 +487,34 @@
     {
       "added_at": "2025-03-24 09:53:27",
       "album": {
-        "name": "good kid, m.A.A.d city (Deluxe)",
-        "url": "https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w"
+        "name": "Fine Ho, Stay",
+        "url": "https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i"
       },
       "artists": [
         {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 125901,
+      "name": "Never Lose Me",
+      "url": "https://open.spotify.com/track/2x2olWuWXpqjoeE4bO1NFS"
+    },
+    {
+      "added_at": "2025-03-24 09:53:27",
+      "album": {
+        "name": "Search & Rescue",
+        "url": "https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW"
+      },
+      "artists": [
         {
           "name": "Drake",
           "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 300160,
-      "name": "Poetic Justice",
-      "url": "https://open.spotify.com/track/2P3SLxeQHPqh8qKB6gtJY2"
+      "duration_ms": 272112,
+      "name": "Search & Rescue",
+      "url": "https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G"
     },
     {
       "added_at": "2025-03-24 09:53:27",
@@ -539,18 +535,22 @@
     {
       "added_at": "2025-03-24 09:53:27",
       "album": {
-        "name": "Fine Ho, Stay",
-        "url": "https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i"
+        "name": "good kid, m.A.A.d city (Deluxe)",
+        "url": "https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w"
       },
       "artists": [
         {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 125901,
-      "name": "Never Lose Me",
-      "url": "https://open.spotify.com/track/2x2olWuWXpqjoeE4bO1NFS"
+      "duration_ms": 300160,
+      "name": "Poetic Justice",
+      "url": "https://open.spotify.com/track/2P3SLxeQHPqh8qKB6gtJY2"
     },
     {
       "added_at": "2025-03-24 09:53:27",
@@ -607,22 +607,22 @@
     {
       "added_at": "2025-03-24 09:53:27",
       "album": {
-        "name": "For All The Dogs",
-        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
+        "name": "Ehhthang Ehhthang",
+        "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         },
         {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         }
       ],
-      "duration_ms": 247444,
-      "name": "First Person Shooter (feat. J. Cole)",
-      "url": "https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU"
+      "duration_ms": 156444,
+      "name": "Wanna Be (with Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/7mOC6phfrfz3jfigg1aGsE"
     },
     {
       "added_at": "2025-03-24 09:53:27",
@@ -647,26 +647,6 @@
       "duration_ms": 220584,
       "name": "n\u00e9e-nah",
       "url": "https://open.spotify.com/track/2yUzr8Sr6ldG8vmHhZwTnz"
-    },
-    {
-      "added_at": "2025-03-24 09:53:27",
-      "album": {
-        "name": "Ehhthang Ehhthang",
-        "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 156444,
-      "name": "Wanna Be (with Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/7mOC6phfrfz3jfigg1aGsE"
     },
     {
       "added_at": "2025-03-24 09:53:27",
@@ -707,18 +687,22 @@
     {
       "added_at": "2025-03-24 09:53:27",
       "album": {
-        "name": "Push Ups",
-        "url": "https://open.spotify.com/album/06me0leRR3AuF4IFiEytml"
+        "name": "For All The Dogs",
+        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
       },
       "artists": [
         {
           "name": "Drake",
           "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 232774,
-      "name": "Push Ups",
-      "url": "https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ"
+      "duration_ms": 247444,
+      "name": "First Person Shooter (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU"
     },
     {
       "added_at": "2025-03-24 09:53:27",
@@ -855,22 +839,6 @@
     {
       "added_at": "2025-03-24 09:53:27",
       "album": {
-        "name": "Family Matters",
-        "url": "https://open.spotify.com/album/3qwCuSISrIUpyt6sB5edmQ"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 456933,
-      "name": "Family Matters",
-      "url": "https://open.spotify.com/track/1wFFFzJ5EsKbBWZriAcubN"
-    },
-    {
-      "added_at": "2025-03-24 09:53:27",
-      "album": {
         "name": "Get It Sexyy",
         "url": "https://open.spotify.com/album/3ahxhuhmGJiN0CWLOff9Sw"
       },
@@ -903,6 +871,22 @@
     {
       "added_at": "2025-03-24 09:53:27",
       "album": {
+        "name": "Push Ups",
+        "url": "https://open.spotify.com/album/06me0leRR3AuF4IFiEytml"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 232774,
+      "name": "Push Ups",
+      "url": "https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ"
+    },
+    {
+      "added_at": "2025-03-24 09:53:27",
+      "album": {
         "name": "Bandit",
         "url": "https://open.spotify.com/album/0jSSRlhYuZmtLMrYB8pjzC"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 114135,
       "name": "soak city (do it)",
       "url": "https://open.spotify.com/track/779jpZikRmH99DiSVpwCHD"
+    },
+    {
+      "added_at": "2025-03-24 09:53:27",
+      "album": {
+        "name": "Overdose",
+        "url": "https://open.spotify.com/album/1ieXthJ9zXRWqTU8ROAeJa"
+      },
+      "artists": [
+        {
+          "name": "natori",
+          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
+        }
+      ],
+      "duration_ms": 197093,
+      "name": "Overdose",
+      "url": "https://open.spotify.com/track/2Dzzhb1oV5ckgOjWZLraIB"
     }
   ],
   "unique_name": "\ub108 \ud799 \ub3fc?",

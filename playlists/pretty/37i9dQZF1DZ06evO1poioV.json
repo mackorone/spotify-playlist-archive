@@ -1,12 +1,12 @@
 {
   "description": "This is Brandi Carlile. The essential tracks, all in one playlist.",
-  "num_followers": 119613,
+  "num_followers": 119623,
   "original_name": "This Is Brandi Carlile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU3QAAAAAAAFjzQrghkyxTr0qJQ81Fh3",
+  "snapshot_id": "aU8hgAAAAADBoCM1RORE29P3wHgipiRS",
   "tracks": [
     {
       "added_at": null,
@@ -639,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bear Creek",
+        "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 248240,
+      "name": "Raise Hell",
+      "url": "https://open.spotify.com/track/4TWn4YeBaTqDURrYLd6k0a"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Saturn Return",
         "url": "https://open.spotify.com/album/536F4ddnWYRRNtZfy7L980"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 207600,
       "name": "Water Witch",
       "url": "https://open.spotify.com/track/7rG9EzNhAh759qgRRc33pe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bear Creek",
-        "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 248240,
-      "name": "Raise Hell",
-      "url": "https://open.spotify.com/track/4TWn4YeBaTqDURrYLd6k0a"
     },
     {
       "added_at": null,
@@ -715,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Onward (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5GVC60ITCVDwfUGjblfsst"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 213732,
+      "name": "Carried Me With You",
+      "url": "https://open.spotify.com/track/0HL3y3bsKSARBSP0qaImwb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Highwomen",
         "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 142840,
       "name": "Loose Change",
       "url": "https://open.spotify.com/track/2cWVBN3jm1gm9ztho9Ca1E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Onward (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5GVC60ITCVDwfUGjblfsst"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 213732,
-      "name": "Carried Me With You",
-      "url": "https://open.spotify.com/track/0HL3y3bsKSARBSP0qaImwb"
     },
     {
       "added_at": null,

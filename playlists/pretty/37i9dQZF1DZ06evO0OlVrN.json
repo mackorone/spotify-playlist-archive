@@ -1,12 +1,12 @@
 {
   "description": "This is Los Relampagos Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 8028,
+  "num_followers": 8034,
   "original_name": "This Is Los Relampagos Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU3QAAAAAAAdJycefgyeiLas5TbG8Sg7",
+  "snapshot_id": "aU8hgAAAAADvcSDdxcI5qYVLR8mCqvxx",
   "tracks": [
     {
       "added_at": null,
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 184052,
-      "name": "Por El Amor A Mi Madre",
-      "url": "https://open.spotify.com/track/2tNH25WlzOdld1e1060LQO"
+      "duration_ms": 234382,
+      "name": "Con La Tinta De Mi Sangre",
+      "url": "https://open.spotify.com/track/0a8yGyvn2l0Tl80LJ8e6Y7"
     },
     {
       "added_at": null,
@@ -156,9 +156,9 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 234382,
-      "name": "Con La Tinta De Mi Sangre",
-      "url": "https://open.spotify.com/track/0a8yGyvn2l0Tl80LJ8e6Y7"
+      "duration_ms": 184052,
+      "name": "Por El Amor A Mi Madre",
+      "url": "https://open.spotify.com/track/2tNH25WlzOdld1e1060LQO"
     },
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "20 Relampagazos",
-        "url": "https://open.spotify.com/album/6lRVsaNHrszXSdA7ZfKtpE"
+        "name": "22 Exitos de Oro, vol. 2",
+        "url": "https://open.spotify.com/album/7fdVdewhOZLXhbgilHdNAU"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
         }
       ],
-      "duration_ms": 173975,
-      "name": "Ahnelo",
-      "url": "https://open.spotify.com/track/2wKZmiRVteowF30QqLLBel"
+      "duration_ms": 210066,
+      "name": "Ausencia",
+      "url": "https://open.spotify.com/track/1SUuCE9XCSGKDNKHzf46o1"
     },
     {
       "added_at": null,
@@ -419,6 +419,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "20 Relampagazos",
+        "url": "https://open.spotify.com/album/6lRVsaNHrszXSdA7ZfKtpE"
+      },
+      "artists": [
+        {
+          "name": "Los Relampagos Del Norte",
+          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
+        }
+      ],
+      "duration_ms": 173975,
+      "name": "Ahnelo",
+      "url": "https://open.spotify.com/track/2wKZmiRVteowF30QqLLBel"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "20 Exitos de los Rel\u00e1mpagos del Norte",
         "url": "https://open.spotify.com/album/0nIs6UOzLblEot6U3JhkYF"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 147733,
       "name": "Caminar, caminar",
       "url": "https://open.spotify.com/track/5vOemEnYcjCF3HEL6Sn0Kr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "22 Exitos de Oro, vol. 2",
-        "url": "https://open.spotify.com/album/7fdVdewhOZLXhbgilHdNAU"
-      },
-      "artists": [
-        {
-          "name": "Los Relampagos Del Norte",
-          "url": "https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw"
-        }
-      ],
-      "duration_ms": 210066,
-      "name": "Ausencia",
-      "url": "https://open.spotify.com/track/1SUuCE9XCSGKDNKHzf46o1"
     },
     {
       "added_at": null,

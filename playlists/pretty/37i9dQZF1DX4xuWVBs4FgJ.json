@@ -1,6 +1,6 @@
 {
   "description": "The perfect soundtrack to those long nights over dinner",
-  "num_followers": 1823125,
+  "num_followers": 1823245,
   "original_name": "Dinner with Friends",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2025-10-07 16:14:02",
       "album": {
-        "name": "Nice To Each Other",
-        "url": "https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Nice To Each Other",
-      "url": "https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l"
-    },
-    {
-      "added_at": "2025-10-07 16:14:02",
-      "album": {
         "name": "Zach Bryan",
         "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
       },
@@ -195,18 +179,18 @@
     {
       "added_at": "2025-10-07 16:14:02",
       "album": {
-        "name": "Plastic Beach",
-        "url": "https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8"
+        "name": "Nice To Each Other",
+        "url": "https://open.spotify.com/album/74sFrKGdI7ZBBVKrT9jtdV"
       },
       "artists": [
         {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
         }
       ],
-      "duration_ms": 233866,
-      "name": "On Melancholy Hill",
-      "url": "https://open.spotify.com/track/0q6LuUqGLUiCPP1cbdwFs3"
+      "duration_ms": 209000,
+      "name": "Nice To Each Other",
+      "url": "https://open.spotify.com/track/7gKxCvTDWwV9wBhdeBbr3l"
     },
     {
       "added_at": "2025-10-07 16:14:02",
@@ -227,6 +211,22 @@
     {
       "added_at": "2025-10-07 16:14:02",
       "album": {
+        "name": "Plastic Beach",
+        "url": "https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ],
+      "duration_ms": 233866,
+      "name": "On Melancholy Hill",
+      "url": "https://open.spotify.com/track/0q6LuUqGLUiCPP1cbdwFs3"
+    },
+    {
+      "added_at": "2025-10-07 16:14:02",
+      "album": {
         "name": "Messy",
         "url": "https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh"
       },
@@ -239,6 +239,38 @@
       "duration_ms": 284068,
       "name": "Messy",
       "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
+    },
+    {
+      "added_at": "2025-10-07 16:14:02",
+      "album": {
+        "name": "Something in the Orange",
+        "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 228013,
+      "name": "Something in the Orange",
+      "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
+    },
+    {
+      "added_at": "2025-10-24 04:00:13",
+      "album": {
+        "name": "The Art of Loving",
+        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "A Couple Minutes",
+      "url": "https://open.spotify.com/track/312z6PZ8wwREck8613PkJk"
     },
     {
       "added_at": "2025-10-07 16:14:02",
@@ -279,38 +311,6 @@
       "duration_ms": 265284,
       "name": "Fast Car",
       "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
-    },
-    {
-      "added_at": "2025-10-07 16:14:02",
-      "album": {
-        "name": "Something in the Orange",
-        "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 228013,
-      "name": "Something in the Orange",
-      "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
-    },
-    {
-      "added_at": "2025-10-24 04:00:13",
-      "album": {
-        "name": "The Art of Loving",
-        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "A Couple Minutes",
-      "url": "https://open.spotify.com/track/312z6PZ8wwREck8613PkJk"
     },
     {
       "added_at": "2025-10-07 16:14:02",
@@ -395,6 +395,22 @@
     {
       "added_at": "2025-10-07 16:14:02",
       "album": {
+        "name": "Chicago X",
+        "url": "https://open.spotify.com/album/4asBn7hzIq2Ka7rDzJN24P"
+      },
+      "artists": [
+        {
+          "name": "Chicago",
+          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
+        }
+      ],
+      "duration_ms": 235373,
+      "name": "If You Leave Me Now",
+      "url": "https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT"
+    },
+    {
+      "added_at": "2025-10-07 16:14:02",
+      "album": {
         "name": "Until I Found You (Em Beihold Version)",
         "url": "https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 176440,
       "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
       "url": "https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN"
-    },
-    {
-      "added_at": "2025-10-07 16:14:02",
-      "album": {
-        "name": "Chicago X",
-        "url": "https://open.spotify.com/album/4asBn7hzIq2Ka7rDzJN24P"
-      },
-      "artists": [
-        {
-          "name": "Chicago",
-          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
-        }
-      ],
-      "duration_ms": 235373,
-      "name": "If You Leave Me Now",
-      "url": "https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT"
     },
     {
       "added_at": "2025-10-07 16:14:02",
@@ -567,22 +567,6 @@
     {
       "added_at": "2025-10-07 16:14:02",
       "album": {
-        "name": "Woodland",
-        "url": "https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        }
-      ],
-      "duration_ms": 210080,
-      "name": "Bloom - Bonus Track",
-      "url": "https://open.spotify.com/track/1HMQmOWrkieKYWlFsjUP3D"
-    },
-    {
-      "added_at": "2025-10-07 16:14:02",
-      "album": {
         "name": "Texas Sun",
         "url": "https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 252811,
       "name": "Texas Sun",
       "url": "https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY"
+    },
+    {
+      "added_at": "2025-10-07 16:14:02",
+      "album": {
+        "name": "Woodland",
+        "url": "https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "duration_ms": 210080,
+      "name": "Bloom - Bonus Track",
+      "url": "https://open.spotify.com/track/1HMQmOWrkieKYWlFsjUP3D"
     },
     {
       "added_at": "2025-10-07 16:14:02",
@@ -731,22 +731,6 @@
     {
       "added_at": "2025-10-07 16:14:02",
       "album": {
-        "name": "MUTT",
-        "url": "https://open.spotify.com/album/0b64yYszabe2wxhG1PiSQo"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "MUTT",
-      "url": "https://open.spotify.com/track/1mh9eHVRdNhzryG43PXdW1"
-    },
-    {
-      "added_at": "2025-10-07 16:14:02",
-      "album": {
         "name": "Feels Like Home",
         "url": "https://open.spotify.com/album/7GaAXgbFSpcJOiLlFGYyOL"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 200626,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/7zkLpY72g6lKQbiHDqri1S"
+    },
+    {
+      "added_at": "2025-10-07 16:14:02",
+      "album": {
+        "name": "MUTT",
+        "url": "https://open.spotify.com/album/0b64yYszabe2wxhG1PiSQo"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "MUTT",
+      "url": "https://open.spotify.com/track/1mh9eHVRdNhzryG43PXdW1"
     },
     {
       "added_at": "2025-10-07 16:14:02",
@@ -879,22 +879,6 @@
     {
       "added_at": "2025-10-07 16:14:02",
       "album": {
-        "name": "Charm",
-        "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 205263,
-      "name": "Add Up My Love",
-      "url": "https://open.spotify.com/track/6FcDxtnGfsYHOcGkXN2OIG"
-    },
-    {
-      "added_at": "2025-10-07 16:14:02",
-      "album": {
         "name": "Stay Alive (From The Secret Life Of Walter Mitty)",
         "url": "https://open.spotify.com/album/1bOzvOad5Oirmr1ewGlnKs"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 266906,
       "name": "Stay Alive - From \"The Secret Life of Walter Mitty\" Soundtrack",
       "url": "https://open.spotify.com/track/0ZNYGrmcehorhh9JOeg5Iv"
+    },
+    {
+      "added_at": "2025-10-07 16:14:02",
+      "album": {
+        "name": "Charm",
+        "url": "https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 205263,
+      "name": "Add Up My Love",
+      "url": "https://open.spotify.com/track/6FcDxtnGfsYHOcGkXN2OIG"
     },
     {
       "added_at": "2025-10-07 16:14:02",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2025-10-07 16:14:02",
       "album": {
-        "name": "Odyss\u00e9e - EP",
-        "url": "https://open.spotify.com/album/346ZDnGgJudDau17EEyWWA"
-      },
-      "artists": [
-        {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        }
-      ],
-      "duration_ms": 248892,
-      "name": "Agitations tropicales",
-      "url": "https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz"
-    },
-    {
-      "added_at": "2025-10-07 16:14:02",
-      "album": {
         "name": "Golden Hour",
         "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 246133,
       "name": "Slow Burn",
       "url": "https://open.spotify.com/track/6ET9kf9riLETWs9lePUEAI"
+    },
+    {
+      "added_at": "2025-10-07 16:14:02",
+      "album": {
+        "name": "Odyss\u00e9e - EP",
+        "url": "https://open.spotify.com/album/346ZDnGgJudDau17EEyWWA"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        }
+      ],
+      "duration_ms": 248892,
+      "name": "Agitations tropicales",
+      "url": "https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz"
     },
     {
       "added_at": "2025-10-07 16:14:02",
@@ -1199,26 +1199,6 @@
     {
       "added_at": "2025-10-07 16:14:02",
       "album": {
-        "name": "Dear August",
-        "url": "https://open.spotify.com/album/6gaOMLivdMhiFaTuPqTmgj"
-      },
-      "artists": [
-        {
-          "name": "PJ Harding",
-          "url": "https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP"
-        },
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        }
-      ],
-      "duration_ms": 200940,
-      "name": "Dear August",
-      "url": "https://open.spotify.com/track/16gW9O8A4rIMx5OOVlzsSn"
-    },
-    {
-      "added_at": "2025-10-07 16:14:02",
-      "album": {
         "name": "3 Feet High and Rising",
         "url": "https://open.spotify.com/album/34LxHI9x14qXUOS8AWRrYD"
       },
@@ -1235,6 +1215,26 @@
       "duration_ms": 252671,
       "name": "Eye Know",
       "url": "https://open.spotify.com/track/4xQMFoD33vx6stB1UzfA6s"
+    },
+    {
+      "added_at": "2025-10-07 16:14:02",
+      "album": {
+        "name": "Dear August",
+        "url": "https://open.spotify.com/album/6gaOMLivdMhiFaTuPqTmgj"
+      },
+      "artists": [
+        {
+          "name": "PJ Harding",
+          "url": "https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP"
+        },
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 200940,
+      "name": "Dear August",
+      "url": "https://open.spotify.com/track/16gW9O8A4rIMx5OOVlzsSn"
     },
     {
       "added_at": "2025-10-07 16:14:02",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2025-10-07 16:14:02",
       "album": {
-        "name": "Falling Asleep At The Wheel",
-        "url": "https://open.spotify.com/album/359BMiYkEMDC70gvpCVljg"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 203247,
-      "name": "Falling Asleep At The Wheel",
-      "url": "https://open.spotify.com/track/5rqQv5jUcg58xsi1nuZDl9"
-    },
-    {
-      "added_at": "2025-10-07 16:14:02",
-      "album": {
         "name": "I Got You",
         "url": "https://open.spotify.com/album/2JmTTmTc2j0xWYba6DzqsX"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 192000,
       "name": "I Got You",
       "url": "https://open.spotify.com/track/58CA5g0ZdqNs8muUjJOOBt"
+    },
+    {
+      "added_at": "2025-10-07 16:14:02",
+      "album": {
+        "name": "Falling Asleep At The Wheel",
+        "url": "https://open.spotify.com/album/359BMiYkEMDC70gvpCVljg"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 203247,
+      "name": "Falling Asleep At The Wheel",
+      "url": "https://open.spotify.com/track/5rqQv5jUcg58xsi1nuZDl9"
     },
     {
       "added_at": "2025-10-10 04:00:47",

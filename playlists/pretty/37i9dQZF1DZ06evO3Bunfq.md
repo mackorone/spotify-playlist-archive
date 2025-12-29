@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bunfq.md) - [plain]
 
 > This is Dharius\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,005 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,020 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bunfq.md) - [plain]
 | 27 | [Te Gustan Malos](https://open.spotify.com/track/6VexUh4HjrQOBEGhLKspoS) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Mala Fama, Buena Vidha](https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V) | 4:06 |
 | 28 | [MSD](https://open.spotify.com/track/6NKoySwuX4k0UivbwQ9DyY) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [MSD](https://open.spotify.com/album/2wdRzxF9wnFKapjvdrNPpb) | 2:49 |
 | 29 | [Recia](https://open.spotify.com/track/1BXba3d3aIzvM4wgn8hSVC) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Recia](https://open.spotify.com/album/2lCjZdvsSzI9W79U5nmp5p) | 3:57 |
-| 30 | [Para Olvidarme De Tus Besos](https://open.spotify.com/track/4CB7M0J9NNubspCy0WDlNL) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Una Historia Mal Contada](https://open.spotify.com/album/5lYcalORluIjuBEKJflc88) | 3:17 |
-| 31 | [Mentiras](https://open.spotify.com/track/2wUmYFiVDBPem4AfPGscsM) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Mentiras](https://open.spotify.com/album/2OppjQEXGEldFhZA7PZwPK) | 4:43 |
+| 30 | [Mentiras](https://open.spotify.com/track/2wUmYFiVDBPem4AfPGscsM) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Mentiras](https://open.spotify.com/album/2OppjQEXGEldFhZA7PZwPK) | 4:43 |
+| 31 | [Para Olvidarme De Tus Besos](https://open.spotify.com/track/4CB7M0J9NNubspCy0WDlNL) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Una Historia Mal Contada](https://open.spotify.com/album/5lYcalORluIjuBEKJflc88) | 3:17 |
 | 32 | [Espejismo](https://open.spotify.com/track/5SddVjDLzloefDoqO2xXJp) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Cuando Todo Acaba](https://open.spotify.com/album/1lSYxwcLpWyqM7pD5N1fAU) | 3:09 |
 | 33 | [El Diablo, La Muerte y Yo](https://open.spotify.com/track/175Ot7nFFqxNIZ34C0wcfw) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [El Diablo, La Muerte y Yo](https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj) | 3:25 |
 | 34 | [16 Toneladas](https://open.spotify.com/track/2zbrhonzYrXKiUbVx2czQt) | [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [16 Toneladas](https://open.spotify.com/album/38IwbkRgxq4eMIAR6MLU8j) | 3:26 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bunfq.md) - [plain]
 | 36 | [Hipocresía](https://open.spotify.com/track/4OElCXKZqbE8MhHvhrKX1z) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Cuando Todo Acaba](https://open.spotify.com/album/1lSYxwcLpWyqM7pD5N1fAU) | 4:11 |
 | 37 | [No te puedo olvidar](https://open.spotify.com/track/1CGKE1aNJ9gW2jRsfD0mZv) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [El Diablo, La Muerte y Yo](https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj) | 3:34 |
 | 38 | [El Bolsón](https://open.spotify.com/track/56BnSpQ60kTtOt415JTRoD) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [El Bolsón](https://open.spotify.com/album/6krHFxbelvtQ4IJ33MLtRe) | 3:51 |
-| 39 | [Retumbando en la Ciudad](https://open.spotify.com/track/6uIrdmew2YEk5jB3d5IjMb) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Retumbando en la Ciudad](https://open.spotify.com/album/3HycyMwJORsbF4tAwgYP36) | 3:34 |
-| 40 | [El After Porky](https://open.spotify.com/track/0floU1nPyzIRi2QaEvm4Bu) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Directo Hasta Arriba](https://open.spotify.com/album/15StyDArmT6s2A3zaiI552) | 3:43 |
+| 39 | [El After Porky](https://open.spotify.com/track/0floU1nPyzIRi2QaEvm4Bu) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Directo Hasta Arriba](https://open.spotify.com/album/15StyDArmT6s2A3zaiI552) | 3:43 |
+| 40 | [Retumbando en la Ciudad](https://open.spotify.com/track/6uIrdmew2YEk5jB3d5IjMb) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Retumbando en la Ciudad](https://open.spotify.com/album/3HycyMwJORsbF4tAwgYP36) | 3:34 |
 | 41 | [Tony Montana \(feat\. Tornillo\)](https://open.spotify.com/track/1gY3TMlLkEujxg0g5vSlTw) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL) | [El Diablo, La Muerte y Yo](https://open.spotify.com/album/5S1xpCaPIqh72xLdFRGNvj) | 3:47 |
 | 42 | [Bien Loco](https://open.spotify.com/track/67iARlR1cb2fAovBwluJLA) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [D\-Sides](https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl) | [Bien Loco](https://open.spotify.com/album/4ZmFdjdojnPfXISVRDgCeA) | 2:49 |
 | 43 | [Mecha Corta](https://open.spotify.com/track/0eOv02uWpROIogqqzGLGyH) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Mecha Corta](https://open.spotify.com/album/08U3yHqqKgyDm0LLwH0gAA) | 3:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bunfq.md) - [plain]
 | 49 | [Sin Escapatoria](https://open.spotify.com/track/6cemBZSbpNTZVHIcYoPhEL) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Sin Escapatoria](https://open.spotify.com/album/0CykID0bWBhpZHVjqUlx4B) | 3:25 |
 | 50 | [Inhala](https://open.spotify.com/track/19U70d6IpR3x8XRBfGMXXI) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Yayo](https://open.spotify.com/artist/74ygGK6cTqo0Q7UadJytEJ) | [Inhala](https://open.spotify.com/album/5BC1qGaUadJLd5y4QIhhJS) | 4:05 |
 
-Snapshot ID: `aU3QAAAAAABB1Ek9CaTVh81ha4JVZ1+q`
+Snapshot ID: `aU8hgAAAAAD7OURkviPKKfFA9MqP+Wbw`

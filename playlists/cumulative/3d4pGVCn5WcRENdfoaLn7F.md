@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear.
 
-133 songs - 8 hr 4 min
+135 songs - 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Lifespan](https://open.spotify.com/track/061iJoemR1JeGwFZa0339j) | [Cormac O Caoimh](https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt) | [Lifespan](https://open.spotify.com/album/3wOlsRSBN05i4lfp9zYhBy) | 2:22 | 2025-10-10 |  |
 | [Lost](https://open.spotify.com/track/3i6p5Xd3KUc6wVqE0oeWLp) | [Pushing Pluto](https://open.spotify.com/artist/0uTUjIAw0qQDX1thZoEQFQ), [Otonomi](https://open.spotify.com/artist/1m6cQu7gwgCJ9trZ5cgoNV) | [Lost](https://open.spotify.com/album/1NEkjw7DnsLK3i6xtXohyE) | 3:37 | 2025-11-20 | 2025-12-12 |
 | [Mead](https://open.spotify.com/track/3tdiSnYYRWia0X54OkAtZT) | [Hickory](https://open.spotify.com/artist/16K67XvCafdi0d8GTvXbwg) | [Kickin' It Down the Road](https://open.spotify.com/album/1nurE6IMVjUP1Y1kx2Qvs1) | 3:13 | 2025-12-22 |  |
+| [Message Through Time](https://open.spotify.com/track/4BPrHDgqGxnWANdMphAbNQ) | [Groove Vultures](https://open.spotify.com/artist/4mxU5Dnd342CsqAS6viJuj) | [Message Through Time](https://open.spotify.com/album/45LoKgIdcZiDUrx7V5HbuC) | 5:21 | 2025-12-28 |  |
 | [Minimal Life](https://open.spotify.com/track/5wwqaDdBRzWOPzzrXyVEB2) | [Waiting for the Sun](https://open.spotify.com/artist/6FBHO9VpDvTirqGAR7mEiA) | [Minimal Life](https://open.spotify.com/album/3JoINj8K0gm9zBjt0SNpzB) | 5:43 | 2025-11-27 | 2025-12-16 |
 | [Mother of Time](https://open.spotify.com/track/2q0rnBYEAkjWnkKRXv2M7a) | [FourJN](https://open.spotify.com/artist/5JGuRETSauFw2ur3SlobHY) | [Mother of Time](https://open.spotify.com/album/5HaWf762zb0lF6udfxXp86) | 5:02 | 2025-09-25 | 2025-12-16 |
 | [Mountainside](https://open.spotify.com/track/67pdwschvXYd3FnxYtvc5s) | [Shepherd Bridge](https://open.spotify.com/artist/7IWPSLFSNkPvI3upDX39f1) | [Lucy and the Voyager](https://open.spotify.com/album/7jHjn4K2XURXATynQZkrEv) | 3:43 | 2025-11-20 | 2025-12-12 |
@@ -89,6 +90,7 @@
 | [No Rules](https://open.spotify.com/track/32BWKxssN2iziIF4WDZQxJ) | [S E B A S T I E N](https://open.spotify.com/artist/0m4wcDJ60vbHFh7UdkP8lz) | [No Rules](https://open.spotify.com/album/3KDyUV7Mw2Desfa0acNlog) | 3:59 | 2025-12-13 |  |
 | [No Time](https://open.spotify.com/track/5vCvWmImr0Vr7YH0C0AyX2) | [Samuel y los Rezagados](https://open.spotify.com/artist/2x8GEMtyjX8bnJhNcNsJrW), [enma alvear](https://open.spotify.com/artist/6xvChSW0aFmkQ7WDjsKmne) | [Back In Business](https://open.spotify.com/album/3mLkSHu7tPitznqB6SnOPQ) | 4:48 | 2025-11-21 | 2025-12-12 |
 | [Nothing As It Seems](https://open.spotify.com/track/5Lfwc986dZdmvBEQs3eCdv) | [Bellhead](https://open.spotify.com/artist/2kG1HBhqba49nSNiN92pVg) | [Dead Lights](https://open.spotify.com/album/73utoxGp8vesfCMwFvgQGX) | 3:29 | 2025-12-22 |  |
+| [Oh Lord \- DEMO](https://open.spotify.com/track/5B7Z958xoP5tSH4PAP0zwF) | [Lucy Benedetti](https://open.spotify.com/artist/1WKuen7Let4lgNPiKDVfl7) | [Oh Lord \(DEMO\)](https://open.spotify.com/album/3MNsjdaUPWdVKKMPXgj70g) | 3:36 | 2025-12-28 |  |
 | [Old Sweat](https://open.spotify.com/track/17RHFuUZb9CrGjB4y8h4KJ) | [Manitou](https://open.spotify.com/artist/36i9KKE23xsb5zr83GjfXS) | [Old Sweat](https://open.spotify.com/album/4lsnFTfPKk4YwTGGiBdRKe) | 3:05 | 2025-11-08 | 2025-12-06 |
 | [One Shot](https://open.spotify.com/track/2uQ5bMY5E0cflJbbGQcpgJ) | [Courtney Nord](https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX) | [One Shot](https://open.spotify.com/album/21nnXiPD8UoiWD4c6ydkAo) | 2:34 | 2025-08-31 |  |
 | [ostracized myself](https://open.spotify.com/track/4kedkU5YfOg9aP3Rhaqh8Y) | [Władek Sheen](https://open.spotify.com/artist/5elwcM1iBIib16jSGK1SQe) | [ostracized myself](https://open.spotify.com/album/7zzcYFc64KJdA2Hd1AB7Fm) | 2:50 | 2025-12-03 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Canciones inmortales, sentimientos a flor de piel y figuras gigantescas de nuestra m\u00fasica. Foto: Roc\u00edo Jurado",
-  "num_followers": 104143,
+  "num_followers": 104173,
   "original_name": "Reinas de la Canci\u00f3n Espa\u00f1ola",
   "owner": {
     "name": "Spotify",
@@ -359,6 +359,22 @@
     {
       "added_at": "2025-03-13 23:00:12",
       "album": {
+        "name": "Lola Lolita Lola",
+        "url": "https://open.spotify.com/album/4NLreQcjpcQESB7yvGU8RY"
+      },
+      "artists": [
+        {
+          "name": "Lolita",
+          "url": "https://open.spotify.com/artist/1Jl0XzEt7csnco2FUybCrK"
+        }
+      ],
+      "duration_ms": 240133,
+      "name": "Sarandonga",
+      "url": "https://open.spotify.com/track/2zNDRGoRkNEkMhO5fcGTMv"
+    },
+    {
+      "added_at": "2025-03-13 23:00:12",
+      "album": {
         "name": "Ahora",
         "url": "https://open.spotify.com/album/03jfAsOja8CyyOmPgOqzNe"
       },
@@ -391,18 +407,18 @@
     {
       "added_at": "2025-03-13 23:00:12",
       "album": {
-        "name": "Lola Lolita Lola",
-        "url": "https://open.spotify.com/album/4NLreQcjpcQESB7yvGU8RY"
+        "name": "Se acabo",
+        "url": "https://open.spotify.com/album/4UoCMapaoydM9D71jdg9Hn"
       },
       "artists": [
         {
-          "name": "Lolita",
-          "url": "https://open.spotify.com/artist/1Jl0XzEt7csnco2FUybCrK"
+          "name": "Mar\u00eda Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/3xg8yTZPuoRF0uFGl1O0FS"
         }
       ],
-      "duration_ms": 240133,
-      "name": "Sarandonga",
-      "url": "https://open.spotify.com/track/2zNDRGoRkNEkMhO5fcGTMv"
+      "duration_ms": 182466,
+      "name": "Se acab\u00f3",
+      "url": "https://open.spotify.com/track/7pIfwKV8EOPmJlConSHk2E"
     },
     {
       "added_at": "2025-03-13 23:00:12",
@@ -419,22 +435,6 @@
       "duration_ms": 201386,
       "name": "Un a\u00f1o de amor",
       "url": "https://open.spotify.com/track/7EANhLnU0DW0SZf8e4dPDm"
-    },
-    {
-      "added_at": "2025-03-13 23:00:12",
-      "album": {
-        "name": "Se acabo",
-        "url": "https://open.spotify.com/album/4UoCMapaoydM9D71jdg9Hn"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/3xg8yTZPuoRF0uFGl1O0FS"
-        }
-      ],
-      "duration_ms": 182466,
-      "name": "Se acab\u00f3",
-      "url": "https://open.spotify.com/track/7pIfwKV8EOPmJlConSHk2E"
     },
     {
       "added_at": "2025-03-13 23:00:12",
@@ -519,6 +519,22 @@
     {
       "added_at": "2025-03-13 23:00:12",
       "album": {
+        "name": "Mis Recuerdos",
+        "url": "https://open.spotify.com/album/62UaBhe2SrSualZdmfXE0h"
+      },
+      "artists": [
+        {
+          "name": "Lolita",
+          "url": "https://open.spotify.com/artist/1Jl0XzEt7csnco2FUybCrK"
+        }
+      ],
+      "duration_ms": 230186,
+      "name": "Amor, Amor",
+      "url": "https://open.spotify.com/track/6lGrDctccq26IsZ2MDTxZU"
+    },
+    {
+      "added_at": "2025-03-13 23:00:12",
+      "album": {
         "name": "Otra Piel",
         "url": "https://open.spotify.com/album/7CHgktzIpDDgEYwQ9jrEnQ"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 246840,
       "name": "Devuelveme la Vida (with Antonio Orozco)",
       "url": "https://open.spotify.com/track/3F6QDKtaBlaEfI6TLjLIQw"
-    },
-    {
-      "added_at": "2025-03-13 23:00:12",
-      "album": {
-        "name": "Mis Recuerdos",
-        "url": "https://open.spotify.com/album/62UaBhe2SrSualZdmfXE0h"
-      },
-      "artists": [
-        {
-          "name": "Lolita",
-          "url": "https://open.spotify.com/artist/1Jl0XzEt7csnco2FUybCrK"
-        }
-      ],
-      "duration_ms": 230186,
-      "name": "Amor, Amor",
-      "url": "https://open.spotify.com/track/6lGrDctccq26IsZ2MDTxZU"
     },
     {
       "added_at": "2025-03-13 23:00:12",
@@ -619,18 +619,22 @@
     {
       "added_at": "2025-03-13 23:00:12",
       "album": {
-        "name": "20 A\u00f1os De Amor",
-        "url": "https://open.spotify.com/album/0KduP5O1M4iAwubhBzFs9A"
+        "name": "Gracias A Vosotros",
+        "url": "https://open.spotify.com/album/0U2kCRus4ANRCL4SoDkNRO"
       },
       "artists": [
         {
-          "name": "Tamara",
-          "url": "https://open.spotify.com/artist/1BY90fgPEPLRdSrdIV9zrz"
+          "name": "Maria Dolores Pradera",
+          "url": "https://open.spotify.com/artist/58LNn3iNPmmHusH1EkyBm4"
+        },
+        {
+          "name": "Diego El Cigala",
+          "url": "https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi"
         }
       ],
-      "duration_ms": 266986,
-      "name": "Si No Te Hubieras Ido",
-      "url": "https://open.spotify.com/track/0qSlVX5N1OCTIjQhI6uc8F"
+      "duration_ms": 225512,
+      "name": "Lagrimas Negras (with Diego \"El Cigala\")",
+      "url": "https://open.spotify.com/track/2pg2VDBleQisqlEEkdJM5q"
     },
     {
       "added_at": "2025-03-13 23:00:12",
@@ -651,22 +655,18 @@
     {
       "added_at": "2025-03-13 23:00:12",
       "album": {
-        "name": "Gracias A Vosotros",
-        "url": "https://open.spotify.com/album/0U2kCRus4ANRCL4SoDkNRO"
+        "name": "20 A\u00f1os De Amor",
+        "url": "https://open.spotify.com/album/0KduP5O1M4iAwubhBzFs9A"
       },
       "artists": [
         {
-          "name": "Maria Dolores Pradera",
-          "url": "https://open.spotify.com/artist/58LNn3iNPmmHusH1EkyBm4"
-        },
-        {
-          "name": "Diego El Cigala",
-          "url": "https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi"
+          "name": "Tamara",
+          "url": "https://open.spotify.com/artist/1BY90fgPEPLRdSrdIV9zrz"
         }
       ],
-      "duration_ms": 225512,
-      "name": "Lagrimas Negras (with Diego \"El Cigala\")",
-      "url": "https://open.spotify.com/track/2pg2VDBleQisqlEEkdJM5q"
+      "duration_ms": 266986,
+      "name": "Si No Te Hubieras Ido",
+      "url": "https://open.spotify.com/track/0qSlVX5N1OCTIjQhI6uc8F"
     },
     {
       "added_at": "2025-03-13 23:00:12",

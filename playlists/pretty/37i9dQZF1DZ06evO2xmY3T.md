@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2xmY3T.md) - [plain]
 
 > This is Cardi B\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 688,372 likes - 42 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 688,420 likes - 42 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2xmY3T.md) - [plain]
 | 15 | [Safe \(feat\. Kehlani\)](https://open.spotify.com/track/5q9I5RmmrLC4U2mW2BnF3K) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [AM I THE DRAMA?](https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ) | 2:57 |
 | 16 | [Puntería](https://open.spotify.com/track/2dYXrWkNO40NXy2Q3IYLRc) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 3:01 |
 | 17 | [Ring \(feat\. Kehlani\)](https://open.spotify.com/track/5DfWF0jqMgZDCiu9zJENTA) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 2:57 |
-| 18 | [Up](https://open.spotify.com/track/1XXimziG1uhM0eDNCZCrUl) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Up](https://open.spotify.com/album/5BNrcvfbLyADks4RXPW7VP) | 2:36 |
+| 18 | [Up](https://open.spotify.com/track/3tNTSlc98zRMRAV4ooy6fT) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [AM I THE DRAMA? \(Beat Edition\)](https://open.spotify.com/album/68qkDEJOnNepRvHL1SkVDi) | 2:36 |
 | 19 | [Check Please](https://open.spotify.com/track/7mo71jiMK8N3I0A2HucGEE) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [AM I THE DRAMA?](https://open.spotify.com/album/1LsNb6mVitbLZCxnRsbCDJ) | 2:01 |
 | 20 | [Money](https://open.spotify.com/track/2GGMabyHXnJmjY6CXhhB2e) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Money](https://open.spotify.com/album/2drqVzCt52KiDxKgl0Rq0P) | 3:03 |
 | 21 | [Be Careful](https://open.spotify.com/track/2Yl4OmDby9iitgNWZPwxkd) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 3:30 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2xmY3T.md) - [plain]
 | 41 | [Like What \(Freestyle\)](https://open.spotify.com/track/3ytbtkmMnkfwMrBi32a7FD) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Like What \(Freestyle\)](https://open.spotify.com/album/5lkEeOxdNc0SYt91lz7miv) | 2:16 |
 | 42 | [Twerk \(feat\. Cardi B\)](https://open.spotify.com/track/0RRm4OS5ymfZryXBuj0G2m) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Girl Code](https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ) | 2:46 |
 
-Snapshot ID: `aU3QAAAAAAAjGp/jNfRXi1Mjz8OJK6w1`
+Snapshot ID: `aU8hgAAAAAAGrkdXvXtso0HAsUCy9url`

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Uruguay.
 
-1,245 songs - 2 day 17 hr 56 min
+1,246 songs - 2 day 17 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -509,6 +509,7 @@
 | [intoxicao](https://open.spotify.com/track/2Znff2J1fAgQhXXEMW7y5V) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [intoxicao](https://open.spotify.com/album/0Oe35eRgVyLthOLW1vurye) | 2:48 | 2022-06-01 | 2022-06-03 |
 | [intoxicao](https://open.spotify.com/track/67Wqby5IjOMMpIYwqmCYOG) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Tú crees en mí?](https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo) | 2:48 | 2022-06-02 | 2022-09-28 |
 | [I’ll Be There](https://open.spotify.com/track/2SR0alFA2oWYXSoePGTj0V) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Happy \- :D \(Remixes\)](https://open.spotify.com/album/6MNt88F7umrtkwUPcOgG69) | 3:01 | 2024-12-02 | 2024-12-04 |
+| [J Balvin: Bzrp Music Sessions, Vol\. 62/66](https://open.spotify.com/track/04YMLAsyIAe1sLb6RO5YcC) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [J Balvin: Bzrp Music Sessions, Vol\. 62/66](https://open.spotify.com/album/2Ejibc9F2I0mMo32HXDD9Y) | 3:10 | 2025-12-28 |  |
 | [Jagger.mp3](https://open.spotify.com/track/2iNmegOcdmt4peYrh9S8qI) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Jagger.mp3](https://open.spotify.com/album/6Ti9115Odt4vwKJTCdG5WN) | 2:35 | 2023-04-01 | 2023-07-30 |
 | [Jagger.mp3](https://open.spotify.com/track/5XUWO8VqwE4PEkLYAtt7h7) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [.mp3](https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp) | 2:35 | 2023-11-04 | 2023-11-07 |
 | [JEFES DEL SUDOESTE](https://open.spotify.com/track/1AnmoOrnlOea9GEUSnIqvR) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Antes de Ameri](https://open.spotify.com/album/2A7S80QXLWlzw41LwkRYRU) | 2:27 | 2023-06-24 | 2023-06-30 |
@@ -771,7 +772,7 @@
 | [NUEVAYoL](https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:03 | 2025-01-07 | 2025-04-18 |
 | [Numero 1](https://open.spotify.com/track/6HXvazdtAr9hy0kThzxrE3) | [Oscu](https://open.spotify.com/artist/5iDqEobZRSTiBSAk6jLp4A), [Nobeat](https://open.spotify.com/artist/3TKS1JzWOLAnicuOCOyVlW) | [Numero 1](https://open.spotify.com/album/5QK2JiVGO67uLi0vqi9Wg6) | 2:44 | 2022-04-13 | 2022-09-15 |
 | [Nunca Lo Olvides](https://open.spotify.com/track/4581iSIX0QZNNzAQRysF3k) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [El Club de la Pelea I](https://open.spotify.com/album/2tS4bTMTcGhnQSFp4rmflf) | 4:59 | 2025-07-28 | 2025-08-01 |
-| [Obsesionario en La Mayor](https://open.spotify.com/track/2YNMRnIJMCxDQWYfXRxJmB) | [Tan Bionica](https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU) | [Obsesionario](https://open.spotify.com/album/1vALPYnFhuoeFte9ZHIc7j) | 4:26 | 2025-03-22 |  |
+| [Obsesionario en La Mayor](https://open.spotify.com/track/2YNMRnIJMCxDQWYfXRxJmB) | [Tan Bionica](https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU) | [Obsesionario](https://open.spotify.com/album/1vALPYnFhuoeFte9ZHIc7j) | 4:26 | 2025-03-22 | 2025-12-29 |
 | [Obsesión](https://open.spotify.com/track/5Dor1ZjCnBYmC136ytDzJp) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [LALI](https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3) | 3:11 | 2023-04-15 | 2023-04-25 |
 | [offline](https://open.spotify.com/track/7s4emXHJwAuo5VvGBXmnBL) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [att.](https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h) | 3:21 | 2024-04-18 | 2024-09-09 |
 | [Ohnana](https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Ohnana](https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo) | 2:36 | 2024-08-07 | 2024-11-19 |

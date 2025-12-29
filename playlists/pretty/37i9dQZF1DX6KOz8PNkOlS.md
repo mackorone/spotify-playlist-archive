@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KOz8PNkOlS.md) - [plain]
 
 > Transform your workspace into a cozy retreat with gentle tunes and warm vibes
 
-[Spotify](https://open.spotify.com/user/spotify) - 581,177 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 581,200 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KOz8PNkOlS.md) - [plain]
 | 34 | [Relationships](https://open.spotify.com/track/22Ui43i51sAALwtapObKmQ) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Relationships](https://open.spotify.com/album/4IveZaLBOjYALIg00gMVEK) | 3:22 |
 | 35 | [Addicted](https://open.spotify.com/track/778x5bolqJeICcrtSBNrko) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Be Right Back](https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi) | 3:24 |
 | 36 | [Life 2](https://open.spotify.com/track/5iqDZV5Sxez6KtPBgDw2da) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Life 2](https://open.spotify.com/album/52zCUvXPgc6cOEqMrKVH0e) | 3:23 |
-| 37 | [I'll Come Too](https://open.spotify.com/track/6EvUAsfncetT0RcWshHCbl) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Assume Form](https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L) | 3:42 |
-| 38 | [Picture Window](https://open.spotify.com/track/02olsPYJypEE0IyuaGS4K4) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [For Melancholy Brunettes \(& sad women\)](https://open.spotify.com/album/4qqdOkr3Ff3kN8GxoxvRES) | 2:58 |
+| 37 | [Picture Window](https://open.spotify.com/track/02olsPYJypEE0IyuaGS4K4) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [For Melancholy Brunettes \(& sad women\)](https://open.spotify.com/album/4qqdOkr3Ff3kN8GxoxvRES) | 2:58 |
+| 38 | [I'll Come Too](https://open.spotify.com/track/6EvUAsfncetT0RcWshHCbl) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Assume Form](https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L) | 3:42 |
 | 39 | [Eat You Alive](https://open.spotify.com/track/1GnhDPcve5uOz4K8StzHtX) | [Tokyo Tea Room](https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD) | [Eat You Alive](https://open.spotify.com/album/4kQXEvj4Q6FLfgmkGgBwPf) | 3:10 |
 | 40 | [Peace Talk](https://open.spotify.com/track/4c1GHCAXEFa08WHckJ6txh) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC) | [Hallucinating Love](https://open.spotify.com/album/6NyoU5F25y1I7V9fqbKqy9) | 3:30 |
 | 41 | [I Can Only Whisper \(feat\. BADBADNOTGOOD\)](https://open.spotify.com/track/5qXwFOkT3lrEonTzsYCeZ1) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [ALPHA](https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K) | 2:44 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KOz8PNkOlS.md) - [plain]
 | 61 | [The Surface](https://open.spotify.com/track/4329XA7OGxcJXruj4nirnn) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [The Surface](https://open.spotify.com/album/08x9Txl6jTNKIgfL64iwaG) | 3:55 |
 | 62 | [Pray for Me](https://open.spotify.com/track/78SFRnKmI86Hyq0pdO7j9f) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Acts of Faith](https://open.spotify.com/album/0m8G0dSYf4rc8SRftPjZXU) | 7:14 |
 | 63 | [you loved me like a fool](https://open.spotify.com/track/63XHC6Djfms8EIj0sYn74n) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr), [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [you loved me like a fool](https://open.spotify.com/album/7KQlh5j0jNYc44xwUGbOBJ) | 3:34 |
-| 64 | [Hope](https://open.spotify.com/track/6m5g6mY0EqyPW6Snc6n749) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Hope](https://open.spotify.com/album/2cqVLSrisNHPR6Q1Q4HsBp) | 4:30 |
-| 65 | [Where Do You Go](https://open.spotify.com/track/3pil7DXQmpnQcImkoF4wz1) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Where Do You Go](https://open.spotify.com/album/74SSHu09e4vyHHMGKfw2CL) | 3:57 |
+| 64 | [Where Do You Go](https://open.spotify.com/track/3pil7DXQmpnQcImkoF4wz1) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Where Do You Go](https://open.spotify.com/album/74SSHu09e4vyHHMGKfw2CL) | 3:57 |
+| 65 | [Hope](https://open.spotify.com/track/6m5g6mY0EqyPW6Snc6n749) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Hope](https://open.spotify.com/album/2cqVLSrisNHPR6Q1Q4HsBp) | 4:30 |
 | 66 | [Pulsar](https://open.spotify.com/track/3K7nejs3TJyyAbgf2RqHAo) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Pulsar](https://open.spotify.com/album/1I2vgUWhcovQKIgQK0jHPB) | 4:13 |
 | 67 | [Love Hope Change](https://open.spotify.com/track/4xHul0lZ8qC7nNDgBjsJSM) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [1995](https://open.spotify.com/album/4Quvgrx92Y7qwsnLj2ht7l) | 4:41 |
 | 68 | [Wait on You](https://open.spotify.com/track/5LxSIqwKj8HAFsn2yZVm8O) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Notes from a Quiet Life](https://open.spotify.com/album/4HYukOf0RGN2YotkEsMCue) | 2:56 |

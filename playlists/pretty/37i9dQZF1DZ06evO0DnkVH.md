@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DnkVH.md) - [plain]
 
 > This is Kate Bush\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,676 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,742 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DnkVH.md) - [plain]
 | 40 | [Experiment IV \- Remastered 2025](https://open.spotify.com/track/6DL2DNCbzQiqQ8DhKqgRrf) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Best Of The Other Sides](https://open.spotify.com/album/2b5xbQveJPnV8ingqoTpgz) | 4:54 |
 | 41 | [Prelude \- 2018 Remaster](https://open.spotify.com/track/2Z6ynWKfXbp66zGf5GSbyD) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Aerial \(2018 Remaster\)](https://open.spotify.com/album/6EK8l8rFuMpAn27TNOCwsH) | 1:25 |
 | 42 | [Night Of The Swallow](https://open.spotify.com/track/0GxUznsPADwZOXwluZTHnj) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Dreaming](https://open.spotify.com/album/2dR2ZmzPqVoBK9vxHNjEUo) | 5:23 |
-| 43 | [Wild Man](https://open.spotify.com/track/0XCWo7RVAkJXMD9fiK0bFZ) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [50 Words for Snow](https://open.spotify.com/album/0CnpU8D00V1mfJeOt7tsqB) | 7:16 |
-| 44 | [You Want Alchemy? \- Remastered 2025](https://open.spotify.com/track/7CaLGgsH90UmCaRxgPXPkc) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Best Of The Other Sides](https://open.spotify.com/album/2b5xbQveJPnV8ingqoTpgz) | 3:57 |
+| 43 | [Misty](https://open.spotify.com/track/3c83rYyHasVxLP2NunP2B0) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [50 Words for Snow](https://open.spotify.com/album/0CnpU8D00V1mfJeOt7tsqB) | 13:32 |
+| 44 | [Moments Of Pleasure \- 2011 Remastered Version](https://open.spotify.com/track/6MNhr7oVi9UrnnKlB1TqGx) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Red Shoes](https://open.spotify.com/album/1YFk4j3zQGogLjOC5YZ19i) | 5:17 |
 | 45 | [Prologue \- 2018 Remaster](https://open.spotify.com/track/1xcKLHQ4KcI5rtFOsZusTv) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Aerial \(2018 Remaster\)](https://open.spotify.com/album/6EK8l8rFuMpAn27TNOCwsH) | 5:41 |
-| 46 | [Moments Of Pleasure \- 2011 Remastered Version](https://open.spotify.com/track/6MNhr7oVi9UrnnKlB1TqGx) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Red Shoes](https://open.spotify.com/album/1YFk4j3zQGogLjOC5YZ19i) | 5:17 |
-| 47 | [Misty](https://open.spotify.com/track/3c83rYyHasVxLP2NunP2B0) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [50 Words for Snow](https://open.spotify.com/album/0CnpU8D00V1mfJeOt7tsqB) | 13:32 |
+| 46 | [You Want Alchemy? \- Remastered 2025](https://open.spotify.com/track/7CaLGgsH90UmCaRxgPXPkc) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Best Of The Other Sides](https://open.spotify.com/album/2b5xbQveJPnV8ingqoTpgz) | 3:57 |
+| 47 | [Wild Man](https://open.spotify.com/track/0XCWo7RVAkJXMD9fiK0bFZ) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [50 Words for Snow](https://open.spotify.com/album/0CnpU8D00V1mfJeOt7tsqB) | 7:16 |
 | 48 | [The Fog \- 2018 Remaster](https://open.spotify.com/track/3rK7yfxpPDOZnZlXf2XEag) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Sensual World \(2018 Remaster\)](https://open.spotify.com/album/5EyDvOit9McsAc9ao1QROt) | 5:06 |
 | 49 | [Houdini \- 2018 Remaster](https://open.spotify.com/track/18hSVEiQxA9mbIq23fyNfz) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Dreaming \(2018 Remaster\)](https://open.spotify.com/album/2cRwYvvGigsHqk63ZGfuI2) | 3:49 |
 | 50 | [Rubberband Girl \- 2018 Remaster](https://open.spotify.com/track/0BYdxsa0Ct2GH83cNaEkq1) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Red Shoes \(2018 Remaster\)](https://open.spotify.com/album/27TbJTUMdvnorsqXZzVQP6) | 4:43 |
 
-Snapshot ID: `aU3QAAAAAABZxAYZTa5WAQgLOmV9Fas0`
+Snapshot ID: `aU8hgAAAAAAr8u9zMC3xyw9/62gRYC2b`

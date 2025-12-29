@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 
 > rølp og sånt
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,600 likes - 70 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,599 likes - 70 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 54 | [Svensk i kväll](https://open.spotify.com/track/0C2UfLRDNB0oOt8nYyJRYu) | [Helene Olafsen](https://open.spotify.com/artist/74LbOioJUqae6mkQ9wDiDN), [Norges Nye Megahit](https://open.spotify.com/artist/35kBMx0nauaGZIhWESWrc5) | [Svensk i kväll](https://open.spotify.com/album/4XdVxdRjQoooI2KSapG1YX) | 2:04 |
 | 55 | [Aleine over fjell](https://open.spotify.com/track/3hTueanE6FImv3heUnvow8) | [Bråtabrann](https://open.spotify.com/artist/1bD5LkNlc55CxV32PopG71) | [Aleine over fjell](https://open.spotify.com/album/6ghHjXoE6aZUBNa8xRp6QL) | 2:53 |
 | 56 | [Bara vara med dig](https://open.spotify.com/track/6XyttiDC9XtzILqteIADau) | [Kevin Boine](https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu) | [Bara vara med dig](https://open.spotify.com/album/19crRDKzeSR2trs3X5DBXY) | 2:41 |
-| 57 | [GUTTA \(feat\. Plumbo\)](https://open.spotify.com/track/5DXX1gqh2B9pvK042sb3mE) | [Ole Hartz](https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI), [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [GUTTA \(feat\. Plumbo\)](https://open.spotify.com/album/1yypZTOVKtFi9Lnkb08H9x) | 2:38 |
-| 58 | [Nå er det helg](https://open.spotify.com/track/2n7GTFWvs7pyR02eHEjiLp) | [Katastrofe](https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR) | [Nå er det helg](https://open.spotify.com/album/0YPZCUXaKBeoC2Y5AV7ius) | 3:03 |
+| 57 | [Nå er det helg](https://open.spotify.com/track/2n7GTFWvs7pyR02eHEjiLp) | [Katastrofe](https://open.spotify.com/artist/48XeauxB5rhLPXPtACuuUR) | [Nå er det helg](https://open.spotify.com/album/0YPZCUXaKBeoC2Y5AV7ius) | 3:03 |
+| 58 | [GUTTA \(feat\. Plumbo\)](https://open.spotify.com/track/5DXX1gqh2B9pvK042sb3mE) | [Ole Hartz](https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI), [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [GUTTA \(feat\. Plumbo\)](https://open.spotify.com/album/1yypZTOVKtFi9Lnkb08H9x) | 2:38 |
 | 59 | [Her og nå](https://open.spotify.com/track/6MUNgJiHbzHPKwMzLseH5X) | [River](https://open.spotify.com/artist/4za0lLxhPWR2RTvDVmlVy5) | [Her og nå](https://open.spotify.com/album/2oZjPro9gaPNlzECFyFy9e) | 2:16 |
 | 60 | [29 tonn](https://open.spotify.com/track/1pSEXjBnrgZiHHs45k6pEI) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [29 tonn](https://open.spotify.com/album/5xURrIcRE2TPM5BNmNoYcv) | 3:18 |
 | 61 | [Naboen har operert kona si](https://open.spotify.com/track/6zDhN3XzZWfrnOoueF33ZS) | [Børse](https://open.spotify.com/artist/62RvsqaxYtpDuCSwc0w5dl) | [Naboen har operert kona si](https://open.spotify.com/album/19ud7C7KPT3xnbdH5EvZwE) | 2:30 |

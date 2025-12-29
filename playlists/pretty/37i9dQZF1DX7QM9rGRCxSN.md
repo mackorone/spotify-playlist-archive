@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 
 > Belleza y distorsión imaginada por bandas iberoamericanas\. Sueño A Marte en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,651 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,658 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,11 +34,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 24 | [Hasta Que el Tiempo No Nos Separe](https://open.spotify.com/track/2mJdsxOhueWeg3vtiOyQkD) | [Celest](https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl) | [Cielos Desconocidos](https://open.spotify.com/album/0seWnTPky0KP5OxP7Qh5tt) | 5:28 |
 | 25 | [Lo Bonito de la Muerte](https://open.spotify.com/track/2nAIfmQAygqNH6SV01bNsD) | [Austin TV](https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR) | [Rizoma](https://open.spotify.com/album/51ABCq7no09mPcnuPY7kP2) | 6:22 |
 | 26 | [Hazy Youth](https://open.spotify.com/track/1HXLeO8G18z1LLxk3FbqWD) | [Trementina](https://open.spotify.com/artist/0DM3M5xGKVaO7MNFBH3K0X) | [Almost Reach the Sun](https://open.spotify.com/album/58kWM6VvTn5gc3iiAVqKNS) | 3:02 |
-| 27 | [violeta](https://open.spotify.com/track/1v0kFBmouOBzmOiNQfwswb) | [te vi en un planetario](https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm) | [violeta](https://open.spotify.com/album/5W3qIQqIHXeWUXMyQhIveI) | 2:45 |
-| 28 | [D'arcy](https://open.spotify.com/track/6YyPd58tmsmHbkT1eHf2in) | [No Somos Marineros](https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP) | [D'arcy](https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu) | 6:35 |
+| 27 | [D'arcy](https://open.spotify.com/track/6YyPd58tmsmHbkT1eHf2in) | [No Somos Marineros](https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP) | [D'arcy](https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu) | 6:35 |
+| 28 | [violeta](https://open.spotify.com/track/1v0kFBmouOBzmOiNQfwswb) | [te vi en un planetario](https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm) | [violeta](https://open.spotify.com/album/5W3qIQqIHXeWUXMyQhIveI) | 2:45 |
 | 29 | [Osa Polar](https://open.spotify.com/track/1h9pmGilzK1WAIMDbhSsCG) | [Melenas](https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f) | [Osa Polar](https://open.spotify.com/album/6t05m4JxBdRonMD5T1hYys) | 4:42 |
-| 30 | [Duramos Más Cuando Menos Nos Conocemos](https://open.spotify.com/track/4bFLWgZkJuPoa1Js25VQU8) | [Coma Pony](https://open.spotify.com/artist/6CoQb7w1IH2ZGgJZV0HaC9) | [Duramos Más Cuando Menos Nos Conocemos](https://open.spotify.com/album/5RwW7blxdp4AtsWPKJ9Qk2) | 3:08 |
-| 31 | [Portal](https://open.spotify.com/track/1ufpOeDERnDjc27jLRFDp7) | [Juan Son](https://open.spotify.com/artist/0KMvNa9hacj7I16cmapuGG), [Simone Pace](https://open.spotify.com/artist/6uO0MwL8aRtn5r4rEyOCeo) | [Portal](https://open.spotify.com/album/36rdTGwMgq7jOhVYegLaKO) | 3:32 |
+| 30 | [Portal](https://open.spotify.com/track/1ufpOeDERnDjc27jLRFDp7) | [Juan Son](https://open.spotify.com/artist/0KMvNa9hacj7I16cmapuGG), [Simone Pace](https://open.spotify.com/artist/6uO0MwL8aRtn5r4rEyOCeo) | [Portal](https://open.spotify.com/album/36rdTGwMgq7jOhVYegLaKO) | 3:32 |
+| 31 | [Duramos Más Cuando Menos Nos Conocemos](https://open.spotify.com/track/4bFLWgZkJuPoa1Js25VQU8) | [Coma Pony](https://open.spotify.com/artist/6CoQb7w1IH2ZGgJZV0HaC9) | [Duramos Más Cuando Menos Nos Conocemos](https://open.spotify.com/album/5RwW7blxdp4AtsWPKJ9Qk2) | 3:08 |
 | 32 | [BILLY](https://open.spotify.com/track/1g4B7jOmIU52X1PzEiKqST) | [Dominiko](https://open.spotify.com/artist/0XKJA6syL4JLUeXqEh8qfD) | [BILLY](https://open.spotify.com/album/1ivkMDnb2NCYgRUtNmwrk7) | 4:12 |
 | 33 | [Cielo Negro](https://open.spotify.com/track/6bfIZ0JqHp8Co0ZWXfCj3h) | [Mauro Samaniego](https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L) | [Simona](https://open.spotify.com/album/3R1eGvEJH9v8UKF4fKPLRq) | 3:48 |
 | 34 | [La Carretera](https://open.spotify.com/track/4eSXJnfSowWSP9kefNFiww) | [Celest](https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl) | [La Carretera](https://open.spotify.com/album/6pCTij28fog7AIWLFsdtko) | 4:11 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 44 | [Shallow](https://open.spotify.com/track/7mrG4CWCjYiWWfSiYLdoxg) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Flash Memory](https://open.spotify.com/album/1z264tIT1BVy9CgA9hJkv1) | 2:15 |
 | 45 | [Cosas Invisibles](https://open.spotify.com/track/33R9nKgwAP04xQfPh0HZ56) | [Celest](https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl) | [Cosas Invisibles](https://open.spotify.com/album/2dKZE2m8hRSWHPoPZpXFGf) | 4:00 |
 | 46 | [El Tiempo](https://open.spotify.com/track/2uKO2bIP3AtFxCZrUDmGlC) | [Flores](https://open.spotify.com/artist/25Wl3sHyhxXW8BsgcbpYSt) | [El Tiempo](https://open.spotify.com/album/0tchM8Ti4qw4TU7VjQC5Su) | 4:37 |
-| 47 | [No Sé a Quién Matar](https://open.spotify.com/track/2GblwI1Lhuwxd4bMkENMem) | [No sé a quién matar](https://open.spotify.com/artist/4FVmReIogKhsocFmvBPLAV) | [No Sé a Quién Matar](https://open.spotify.com/album/0X7ZQoSMpEiDJHHBo0otkS) | 3:39 |
-| 48 | [más tiempo](https://open.spotify.com/track/0Z0CnfVm3VSHD9jtiemuRe) | [Policias y Ladrones](https://open.spotify.com/artist/6Y9quCNVfxgIE308HSMpEd) | [más tiempo](https://open.spotify.com/album/5ZLljWH8uDb0oJBYpXJKfX) | 3:27 |
+| 47 | [más tiempo](https://open.spotify.com/track/0Z0CnfVm3VSHD9jtiemuRe) | [Policias y Ladrones](https://open.spotify.com/artist/6Y9quCNVfxgIE308HSMpEd) | [más tiempo](https://open.spotify.com/album/5ZLljWH8uDb0oJBYpXJKfX) | 3:27 |
+| 48 | [No Sé a Quién Matar](https://open.spotify.com/track/2GblwI1Lhuwxd4bMkENMem) | [No sé a quién matar](https://open.spotify.com/artist/4FVmReIogKhsocFmvBPLAV) | [No Sé a Quién Matar](https://open.spotify.com/album/0X7ZQoSMpEiDJHHBo0otkS) | 3:39 |
 | 49 | [casa de espejos](https://open.spotify.com/track/5S9LIPJ2RCaowPdxDIByRp) | [te vi en un planetario](https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm) | [casa de espejos](https://open.spotify.com/album/5mURp5KUNgHFfOLcQ42brK) | 2:21 |
 | 50 | [Alferez Provisional](https://open.spotify.com/track/6Ln6afHVcfQrIIOUfA00uq) | [Los Punsetes](https://open.spotify.com/artist/1jr0mAgIhKtTeKTZwk0HjF) | [Una Montaña Es una Montaña](https://open.spotify.com/album/7aGqYlkPS1N3yyyFSP2Jrr) | 3:30 |
 

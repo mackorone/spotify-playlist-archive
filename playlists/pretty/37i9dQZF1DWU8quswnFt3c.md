@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Highlights from EQUAL in 2025, listen to women at full volume\. Cover: Halsey
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,054,423 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,054,386 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,15 +37,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 27 | [Menjaga Jodoh Orang Lain](https://open.spotify.com/track/2CneKWpjKErzqZhHID0avV) | [Ara Johari](https://open.spotify.com/artist/0xuL8l2qakTAyURbZb1gtc) | [Menjaga Jodoh Orang Lain](https://open.spotify.com/album/2uL5VfwFoXV4C0Xtn01sVQ) | 4:32 |
 | 28 | [No Audience](https://open.spotify.com/track/5YIhyQTdOcuwn0VMeVwvAp) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [No Audience](https://open.spotify.com/album/0Jv292eM7KSnohNy5Yvt7t) | 2:53 |
 | 29 | [First Luv](https://open.spotify.com/track/0qHbCeNAPB7EaKxWiyaAMP) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [First Luv](https://open.spotify.com/album/6hR079yVpoqUG4sOswANT4) | 2:56 |
-| 30 | [ANH LÀ THẰNG TỒI](https://open.spotify.com/track/6GPcbZOX4h9MWert6xWpYw) | [Phùng Khánh Linh](https://open.spotify.com/artist/23Gbd21nBxC1kCtcG2Cd0C) | [GIỮA MỘT VẠN NGƯỜI](https://open.spotify.com/album/74mqLtK9JQryMAJXt5Bcas) | 3:20 |
-| 31 | [Bukan Lagi Kita](https://open.spotify.com/track/3v0kDUI2OMYefvcgJYssUv) | [Nadeera](https://open.spotify.com/artist/4KMw2UKyEd9miV1F3uRQXB) | [Bukan Lagi Kita](https://open.spotify.com/album/1K8IO5SGFca4ot9mPyngjv) | 3:32 |
+| 30 | [Bukan Lagi Kita](https://open.spotify.com/track/3v0kDUI2OMYefvcgJYssUv) | [Nadeera](https://open.spotify.com/artist/4KMw2UKyEd9miV1F3uRQXB) | [Bukan Lagi Kita](https://open.spotify.com/album/1K8IO5SGFca4ot9mPyngjv) | 3:32 |
+| 31 | [ANH LÀ THẰNG TỒI](https://open.spotify.com/track/6GPcbZOX4h9MWert6xWpYw) | [Phùng Khánh Linh](https://open.spotify.com/artist/23Gbd21nBxC1kCtcG2Cd0C) | [GIỮA MỘT VẠN NGƯỜI](https://open.spotify.com/album/74mqLtK9JQryMAJXt5Bcas) | 3:20 |
 | 32 | [Ups and downs](https://open.spotify.com/track/2n9P4AL6xPVnoE1deBxHat) | [Sara Rikas](https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo) | [Ja, Sára](https://open.spotify.com/album/4nv3fKGDfVWJEbIiSYkZte) | 2:15 |
 | 33 | [節約用愛](https://open.spotify.com/track/5ZOwYh8V6YIYeklb3TUPB2) | [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [節約用愛](https://open.spotify.com/album/1e19rU3OJ7pKuhLzIwSvuK) | 4:05 |
 | 34 | [Let Me Love You](https://open.spotify.com/track/74HEWnUuj2GIb1jb1BcO0G) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Pretty Idea](https://open.spotify.com/album/5OKVgysqIZvSUMVdEmilCu) | 3:32 |
 | 35 | [Él No Es Tuyo](https://open.spotify.com/track/5i9CVrrJKPeF4qsUAR0kEw) | [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH) | [De Chava](https://open.spotify.com/album/44pDDIFsx4YTZkKPErlEtn) | 3:36 |
 | 36 | [Adagio](https://open.spotify.com/track/3Ex4tGyBZsmbxzlyZyzdsX) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Adagio](https://open.spotify.com/album/3TAhlJxvOBskHFd0J1YRmq) | 2:56 |
-| 37 | [Baby Tee](https://open.spotify.com/track/0YRvcIlETPNLdasQYkJabY) | [GALCHANIE](https://open.spotify.com/artist/3ymVAMnF6CJaSM8IwAcfoa) | [Baby Tee](https://open.spotify.com/album/2AgNQHS5SSwt7JyJaH7YGj) | 3:48 |
-| 38 | [All I Am](https://open.spotify.com/track/3CbF4eluvVhJ9v0axMj2Rk) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [I Love My Computer](https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ) | 3:02 |
+| 37 | [All I Am](https://open.spotify.com/track/3CbF4eluvVhJ9v0axMj2Rk) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [I Love My Computer](https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ) | 3:02 |
+| 38 | [Baby Tee](https://open.spotify.com/track/0YRvcIlETPNLdasQYkJabY) | [GALCHANIE](https://open.spotify.com/artist/3ymVAMnF6CJaSM8IwAcfoa) | [Baby Tee](https://open.spotify.com/album/2AgNQHS5SSwt7JyJaH7YGj) | 3:48 |
 | 39 | [Så længe jeg er sexy.](https://open.spotify.com/track/0fFMt9cc1EEQDIWLGDcqKd) | [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg) | [Så længe jeg er sexy.](https://open.spotify.com/album/2d9nhH2AHzxAf1Bo2PfCs9) | 2:30 |
 | 40 | [Break](https://open.spotify.com/track/7fr4AUYWGcrzxJZJc7My4U) | [Misha Omar](https://open.spotify.com/artist/5cpxHc2y6L3Jn3FWY3z94Q) | [Break](https://open.spotify.com/album/4vyh6vlmj9iZwRHYwT00l8) | 4:16 |
 | 41 | [bad bunnies](https://open.spotify.com/track/39NCr7OXwTxYSZYRxHwA8s) | [Zsá Zsá](https://open.spotify.com/artist/2tV5iP4TyDyLFU9WmfXMLZ), [Replay Okay](https://open.spotify.com/artist/2pWTB3Q2GjoZpznmktG6uC) | [Thirst Trap](https://open.spotify.com/album/056QpAsaTtFIdYwGyEKPFd) | 2:17 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 50 | [Dirty Work \(feat\. Flo Milli\)](https://open.spotify.com/track/6kBtuFVssWq2rORvq2ssXS) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Dirty Work](https://open.spotify.com/album/3L7i2VqeznnAqX5BG6gm3H) | 3:00 |
 | 51 | [ELA ELA](https://open.spotify.com/track/3lQC1Q8BHxKLe8lFXR7idT) | [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ), [Saske](https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p) | [POP TOO](https://open.spotify.com/album/7rCuHJjGvaBNKMbPiUavHw) | 2:56 |
 | 52 | [MWA!](https://open.spotify.com/track/3IIHUIzolxO8OmFsUkT8w2) | [DOLLA](https://open.spotify.com/artist/3SRXsr6dPMvVGSSpccDWjO) | [MWA!](https://open.spotify.com/album/6EzWTrfOQPvSUVkSUjGLOr) | 2:09 |
-| 53 | [Feel my love](https://open.spotify.com/track/0GxPpzPbK1m7aDt2ajkBbG) | [Sara Rikas](https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo) | [Ja, Sára](https://open.spotify.com/album/4nv3fKGDfVWJEbIiSYkZte) | 2:28 |
-| 54 | [Earthstar](https://open.spotify.com/track/0SC0WzJk80snenOopsPzvM) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2) | 4:03 |
+| 53 | [Earthstar](https://open.spotify.com/track/0SC0WzJk80snenOopsPzvM) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2) | 4:03 |
+| 54 | [Feel my love](https://open.spotify.com/track/0GxPpzPbK1m7aDt2ajkBbG) | [Sara Rikas](https://open.spotify.com/artist/4TwaN115hEDGfkAtJG0USo) | [Ja, Sára](https://open.spotify.com/album/4nv3fKGDfVWJEbIiSYkZte) | 2:28 |
 | 55 | [你已經替我決定了 \(《命中註定那頭鵝》電影主題曲\)](https://open.spotify.com/track/2PDdcf9HyMU93mqgNvJiVZ) | [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [你已經替我決定了 \(《命中註定那頭鵝》電影主題曲\)](https://open.spotify.com/album/2wsKWIVEbeFEvqvjWsAfig) | 3:49 |
 | 56 | [DEAD GIRL WALKING](https://open.spotify.com/track/7MzYunk9yPyDsJjSPTppuH) | [RØRY](https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI) | [DEAD GIRL WALKING](https://open.spotify.com/album/6R64PFVwmrQhursPSFi2u2) | 3:29 |
 | 57 | [kiss me blue](https://open.spotify.com/track/2sC6GuRvSFgHJerlWqrRYf) | [pami](https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8) | [puffette](https://open.spotify.com/album/0EgK8AZDWXirHjaYi9l2z4) | 3:08 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 59 | [denkst du an mich?](https://open.spotify.com/track/1jo4sl7NyZwq5yYAZfWvdD) | [lovehead](https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce) | [denkst du an mich?](https://open.spotify.com/album/0Q1p5tfm0E3YhP9shvGxWs) | 3:17 |
 | 60 | [Hati Yang Rindu](https://open.spotify.com/track/5yIG4C47lCjlNdvTnQK1en) | [Dato' Sri Siti Nurhaliza](https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU) | [Gema Bumantara](https://open.spotify.com/album/3f1zSqkzyCUUbN1m6w9BW2) | 4:24 |
 | 61 | [日落](https://open.spotify.com/track/6PHyNPr7hwdYwiDnesWsyb) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [日落](https://open.spotify.com/album/7pTK57Zq3LQk1fUSpoO0HY) | 4:09 |
-| 62 | [一早知道的情歌](https://open.spotify.com/track/4K4snJBIU7lLZIPXnL14Xx) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [一早知道的情歌](https://open.spotify.com/album/60FZ46pW3mW02hVtQ2Zs2l) | 3:40 |
-| 63 | [是那麼聲勢浩大 LOUD & PROUD](https://open.spotify.com/track/5ysyYcp5Czk2cisdkr5Spl) | [JACE](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [是那麼聲勢浩大 LOUD & PROUD](https://open.spotify.com/album/5gI35OdhpjrAjUjOAk9Y4h) | 3:37 |
+| 62 | [是那麼聲勢浩大 LOUD & PROUD](https://open.spotify.com/track/5ysyYcp5Czk2cisdkr5Spl) | [JACE](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [是那麼聲勢浩大 LOUD & PROUD](https://open.spotify.com/album/5gI35OdhpjrAjUjOAk9Y4h) | 3:37 |
+| 63 | [一早知道的情歌](https://open.spotify.com/track/4K4snJBIU7lLZIPXnL14Xx) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [一早知道的情歌](https://open.spotify.com/album/60FZ46pW3mW02hVtQ2Zs2l) | 3:40 |
 | 64 | [Mirza](https://open.spotify.com/track/4t4Lszg4CvWbm3YrX6Bk5l) | [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM), [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II) | [Mirza](https://open.spotify.com/album/4Rhh8R5mQv3VMv7qRWzhXD) | 3:02 |
 | 65 | [TANGA](https://open.spotify.com/track/35XFkYrc5OH9pPlkIwzbJX) | [KAIA](https://open.spotify.com/artist/5UWPjwwieMFFohWLHe4Usy) | [TANGA](https://open.spotify.com/album/3y88lcUSISH0jDysmWfvE4) | 2:26 |
 | 66 | [some days](https://open.spotify.com/track/5JIkh281D7WEwWZNmIC5aW) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [some days](https://open.spotify.com/album/1UbgSoMftakwqLl0jJC5K0) | 3:17 |

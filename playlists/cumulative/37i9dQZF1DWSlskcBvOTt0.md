@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-1,046 songs - 3 day 14 hr 57 min
+1,047 songs - 3 day 15 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [Closer \(feat\. Bantu\)](https://open.spotify.com/track/46qondUDqflcac1ufdqAlZ) | [Wakyin](https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ), [Bantu](https://open.spotify.com/artist/6tt0iYnpHERj05WATWRiom) | [Closer \(feat\. Bantu\)](https://open.spotify.com/album/3EICRU6TnGigdorbZwKqOl) | 3:01 | 2024-08-16 | 2025-08-16 |
 | [Closer To The Floor](https://open.spotify.com/track/4QJlAQMKDP2d3UZjSu5OYu) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [Ankhoï](https://open.spotify.com/artist/43e2hWOoYxog3ebw4YUnL4) | [Closer To The Floor](https://open.spotify.com/album/323n1CA6aMpqOu8jfQMwi4) | 2:42 | 2025-04-25 |  |
 | [Closing Doors \- Edit](https://open.spotify.com/track/72kB1jI3G6H3zv33Qwmmhe) | [Khen](https://open.spotify.com/artist/7M7DUxK3f7hR03EwfwldZQ) | [Closing Doors / Burgundy](https://open.spotify.com/album/5covQ2LXbpXw98ICHdjMq9) | 3:48 | 2021-10-01 | 2022-04-21 |
+| [Closure](https://open.spotify.com/track/2Pn7BSdmNTxtq0borL4VlK) | [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp), [Grigoré](https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX), [Serve Cold](https://open.spotify.com/artist/0jkLg9cCRdKYTay0hte9xm), [Ninae](https://open.spotify.com/artist/5aTBULJ6efMF1VyzcxMXa6) | [Closure](https://open.spotify.com/album/24C38FMJuX5fUczY9HzqkK) | 3:22 | 2025-12-19 |  |
 | [Closure](https://open.spotify.com/track/7wIKkTSDGMVNjANcT0pPaK) | [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Closure](https://open.spotify.com/album/78AkFHYlMZAaoUCF2TKTr1) | 4:19 | 2025-04-11 | 2025-05-15 |
 | [Cola \- ARTBAT Remix](https://open.spotify.com/track/58caScGqKTQIDDJQ7QnJU8) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [Cola \(ARTBAT Remix\)](https://open.spotify.com/album/3iLdjCAbObHpiYqZCvdByJ) | 3:08 | 2025-08-08 |  |
 | [Colibria](https://open.spotify.com/track/4mrkRBRhahbgcfimPihZVN) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Prender el Alma](https://open.spotify.com/album/7Mz3hUKPxQMZco25qZ6sQF) | 7:59 | 2021-12-13 | 2022-04-21 |
@@ -776,7 +777,7 @@
 | [Riga](https://open.spotify.com/track/4J0gDIw2chzeWkzkOZphHX) | [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW), [Marc Werner](https://open.spotify.com/artist/3LzUh1HW5SPWW2vElaLenr) | [Riga](https://open.spotify.com/album/3puESyF040eq4WYWJPSG4S) | 5:15 | 2025-01-17 |  |
 | [Rintintin](https://open.spotify.com/track/1VZup2QEUlkzPTfQ08S371) | [MËSTIZA](https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n) | [Rintintin](https://open.spotify.com/album/1I4YDAPuikk1BrhVJRmV73) | 2:43 | 2025-08-22 | 2025-12-17 |
 | [Roads Of Gold](https://open.spotify.com/track/0QNzmM3G7YUm81329OwCHF) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo), [Redward Martin](https://open.spotify.com/artist/2WnWBVe8DzF0qpstAxddn2) | [Roads Of Gold](https://open.spotify.com/album/6buk9gBgZX5FGqLc1PIvXo) | 8:58 | 2023-08-25 | 2023-11-09 |
-| [Rolling Thunder](https://open.spotify.com/track/6s7dLjVizkile3eKaqt4db) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [Rolling Thunder](https://open.spotify.com/album/341NSo0xEGEeSpTTggK7vu) | 2:46 | 2025-07-11 |  |
+| [Rolling Thunder](https://open.spotify.com/track/6s7dLjVizkile3eKaqt4db) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [Rolling Thunder](https://open.spotify.com/album/341NSo0xEGEeSpTTggK7vu) | 2:46 | 2025-07-11 | 2025-12-29 |
 | [Romance](https://open.spotify.com/track/0j17YePnS81vgykhzZuz1B) | [ARYMÉ](https://open.spotify.com/artist/5zdOlKWTERNvDJXkwMYRX6), [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx) | [Romance](https://open.spotify.com/album/46U5yGeTP1Gl406GQLJ2dT) | 4:36 | 2025-09-05 | 2025-11-15 |
 | [Ronaparde](https://open.spotify.com/track/2NXEzL65lzjOTfMztPa3h1) | [Ron Flatter](https://open.spotify.com/artist/0HZ3FXXgXyKoMHKwKSZOpq) | [Ronaparde](https://open.spotify.com/album/0LkJgzIaYoBcjmr7rj131J) | 6:57 | 2022-09-16 | 2022-10-20 |
 | [ronju](https://open.spotify.com/track/26LNp0rYhFNLNh1I2fpaEA) | [Yimeeka](https://open.spotify.com/artist/0yGRgPiwbWQcQsMf7H7DmK), [Black Culture](https://open.spotify.com/artist/2331I1TOUrGnlIbG8Vs1gp), [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA) | [INÓ](https://open.spotify.com/album/5dKIhVTuAY4nhSDXroKMbw) | 3:18 | 2024-11-15 | 2024-12-12 |

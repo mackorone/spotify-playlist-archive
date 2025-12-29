@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNXZO9xCM0N.md) - [plain]
 
 > Para subir la temperatura\. Foto: Lebrón Brothers
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,795 likes - 50 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,855 likes - 50 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNXZO9xCM0N.md) - [plain]
 | 20 | [La Cartera](https://open.spotify.com/track/1mpKcP8f2gQrInkh2FLb1N) | [Orquesta Harlow](https://open.spotify.com/artist/7tR38XlRHmElbNAWRiHb9W), [Larry Harlow](https://open.spotify.com/artist/2PGJmP6AvSCQ7pKBOjrg8J), [Junior Gonzalez](https://open.spotify.com/artist/7cRTfuZ5VJhWfVjuN3XGyY) | [Salsa](https://open.spotify.com/album/5Q5kjxNsrkZ2ImkRUi7w3c) | 6:26 |
 | 21 | [Zumbale](https://open.spotify.com/track/6M5z2Pca6OuN4l5n5kId3E) | [Henry Fiol](https://open.spotify.com/artist/3mnx8ehcNQEYMFSGXWOaVB) | [Creativo](https://open.spotify.com/album/6tN89OXbeSQoc0YU1zBOlq) | 5:05 |
 | 22 | [Sigue Tu Camino](https://open.spotify.com/track/6SZrhuLGjIzsliOLEG7Y7O) | [La Dimensión Latina](https://open.spotify.com/artist/5wb8MfrYdUEBSg71SKD0A5) | [Una Dimensión De Éxitos](https://open.spotify.com/album/5uDlRcsa6B0am5CssuZcXV) | 3:49 |
-| 23 | [Tu Loco Loco Y Yo Tranquilo](https://open.spotify.com/track/41mW3afagMuz7pn3IkpWdm) | [Roberto Roena Y Su Apollo Sound](https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry) | [Roberto Roena Y Su Apollo Sound](https://open.spotify.com/album/3Y3cbnD9PJnWOWodxnxENU) | 3:19 |
-| 24 | [Vámonos Pa'l Monte](https://open.spotify.com/track/65kCIrgNhXeufeG2WVmHId) | [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Vámonos Pa'l Monte](https://open.spotify.com/album/4fIT7FtkFbq19m1lZyExAK) | 7:06 |
+| 23 | [Vámonos Pa'l Monte](https://open.spotify.com/track/65kCIrgNhXeufeG2WVmHId) | [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Vámonos Pa'l Monte](https://open.spotify.com/album/4fIT7FtkFbq19m1lZyExAK) | 7:06 |
+| 24 | [Tu Loco Loco Y Yo Tranquilo](https://open.spotify.com/track/41mW3afagMuz7pn3IkpWdm) | [Roberto Roena Y Su Apollo Sound](https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry) | [Roberto Roena Y Su Apollo Sound](https://open.spotify.com/album/3Y3cbnD9PJnWOWodxnxENU) | 3:19 |
 | 25 | [Oh Qué Será?](https://open.spotify.com/track/737IZvQey0ZKjtEe3pJzeK) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Anthology](https://open.spotify.com/album/1uvrsZTTwKbWGpaZGFAwoT) | 5:04 |
 | 26 | [Yambeque](https://open.spotify.com/track/1FbwbKzs9Qrg9ZXaYlP164) | [Sonora Ponceña](https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa) | [Determination](https://open.spotify.com/album/3mK3WV1mMPficcGR6WmhCK) | 6:23 |
 | 27 | [Quitate La Máscara](https://open.spotify.com/track/7AhoOwG8qWE5RK7GS1XA6w) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Barretto Power](https://open.spotify.com/album/5RxIBMJ5ZrQo1YmD1bk9k7) | 4:30 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNXZO9xCM0N.md) - [plain]
 | 39 | [Merecumbe](https://open.spotify.com/track/23MB2MkXV9IFn4S2rJPDWw) | [Johnny Colon](https://open.spotify.com/artist/4IQvRKcRuA2mzB6lc2E5Pm) | [Hot! Hot! Hot! Caliente De Vicio](https://open.spotify.com/album/0gNgzhxvQzJAn4mKgr8kph) | 6:21 |
 | 40 | [Soy Feliz](https://open.spotify.com/track/5x0psqrizkI9QJzKTcrlJs) | [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [Soy Feliz](https://open.spotify.com/album/5iVXSLKvzfUHUr67JXBlQi) | 3:12 |
 | 41 | [Déjala Que Siga](https://open.spotify.com/track/1M97ayCQqyCCsiSs2OIBb9) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Reventó](https://open.spotify.com/album/1NFazvS6xURLqpqQVuGXBD) | 6:27 |
-| 42 | [Mi Ritmo Es Bueno](https://open.spotify.com/track/5hSGXZRFbpKLbxyBXRKoye) | [Bobby Valentin](https://open.spotify.com/artist/7nJ3uKCT4lPwDJSRZzBlss) | [Rey del Bajo](https://open.spotify.com/album/5I1FDwQtq5bG1QXcRJBsb6) | 5:46 |
-| 43 | [Agua De Clavelito](https://open.spotify.com/track/5AWbnZ1k5cMwUAJ3uIIdcl) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Hector Casanova](https://open.spotify.com/artist/1xAyYU2KQcA4QaNvVqVdu4) | [Los Amigos](https://open.spotify.com/album/2ijH9wDqj60doCygkf1ieY) | 6:22 |
+| 42 | [Agua De Clavelito](https://open.spotify.com/track/5AWbnZ1k5cMwUAJ3uIIdcl) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Hector Casanova](https://open.spotify.com/artist/1xAyYU2KQcA4QaNvVqVdu4) | [Los Amigos](https://open.spotify.com/album/2ijH9wDqj60doCygkf1ieY) | 6:22 |
+| 43 | [Mi Ritmo Es Bueno](https://open.spotify.com/track/5hSGXZRFbpKLbxyBXRKoye) | [Bobby Valentin](https://open.spotify.com/artist/7nJ3uKCT4lPwDJSRZzBlss) | [Rey del Bajo](https://open.spotify.com/album/5I1FDwQtq5bG1QXcRJBsb6) | 5:46 |
 | 44 | [Dime](https://open.spotify.com/track/43Ste93jKi3inP498OAXP8) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Siembra](https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy) | 7:02 |
 | 45 | [Un Verano en Nueva York](https://open.spotify.com/track/1hvyKYOS7m6msSUbXS7reP) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu), [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v) | [Aqui Esta el Reencuentro](https://open.spotify.com/album/2Vpk4g41LQN5eD4A7G48ld) | 4:57 |
 | 46 | [Las Caras Lindas](https://open.spotify.com/track/1C74E6b4NrjC4a2TblWWIa) | [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [Maelo...El Único](https://open.spotify.com/album/1v14JDuh5QOUu1KVqfPwx7) | 7:11 |
-| 47 | [Cuando Te Vea](https://open.spotify.com/track/30S64zhYXqFL3D5FLHrZ5z) | [Bobby Valentin](https://open.spotify.com/artist/7nJ3uKCT4lPwDJSRZzBlss) | [Rey del Bajo](https://open.spotify.com/album/5I1FDwQtq5bG1QXcRJBsb6) | 5:27 |
-| 48 | [Sin Tu Cariño](https://open.spotify.com/track/1hEkAQTsDCnPX0zpo22Z5F) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Bohemio y Poeta](https://open.spotify.com/album/08zXnylrEGWXgMcFI5eBm4) | 6:30 |
-| 49 | [Quimbara](https://open.spotify.com/track/6ydEhrdfzhI29D2NBAqUY1) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Celia & Johnny](https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1) | 4:51 |
-| 50 | [Tal Vez Vuelvas a Llamarme](https://open.spotify.com/track/6tEovPZnOeNMvELOhmWAxn) | [Son 14](https://open.spotify.com/artist/0O4bXqUZGYZQj5ztLrDDht), [Adalberto Alvarez](https://open.spotify.com/artist/4DD1MuIOSWjkD1DmUbWZn0) | [Tumi Cuba Classics Volume 4: Son](https://open.spotify.com/album/1UKOkRav56nHZ5v3SgfxqS) | 6:05 |
+| 47 | [Sin Tu Cariño](https://open.spotify.com/track/1hEkAQTsDCnPX0zpo22Z5F) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Bohemio y Poeta](https://open.spotify.com/album/08zXnylrEGWXgMcFI5eBm4) | 6:30 |
+| 48 | [Cuando Te Vea](https://open.spotify.com/track/30S64zhYXqFL3D5FLHrZ5z) | [Bobby Valentin](https://open.spotify.com/artist/7nJ3uKCT4lPwDJSRZzBlss) | [Rey del Bajo](https://open.spotify.com/album/5I1FDwQtq5bG1QXcRJBsb6) | 5:27 |
+| 49 | [Tal Vez Vuelvas a Llamarme](https://open.spotify.com/track/6tEovPZnOeNMvELOhmWAxn) | [Son 14](https://open.spotify.com/artist/0O4bXqUZGYZQj5ztLrDDht), [Adalberto Alvarez](https://open.spotify.com/artist/4DD1MuIOSWjkD1DmUbWZn0) | [Tumi Cuba Classics Volume 4: Son](https://open.spotify.com/album/1UKOkRav56nHZ5v3SgfxqS) | 6:05 |
+| 50 | [Quimbara](https://open.spotify.com/track/6ydEhrdfzhI29D2NBAqUY1) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Celia & Johnny](https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1) | 4:51 |
 
 Snapshot ID: `AAAAAJt0i3DEZIy5RhmDLS4+br0WrLCg`

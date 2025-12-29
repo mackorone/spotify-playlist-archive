@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 
 > Throwbacks you can catch a wine to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 749,879 likes - 80 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 750,030 likes - 80 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,19 +74,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 | 64 | [Pull Up to Mi Bumper](https://open.spotify.com/track/1b8dZ28ofSZaPeRGfEtW2J) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [J Capri](https://open.spotify.com/artist/6rgMAmoutpto9ded7xYd20) | [Pull Up to Mi Bumper \- Single](https://open.spotify.com/album/12fmnacVnfrplDqHUh1XJp) | 2:30 |
 | 65 | [Bedroom Bully](https://open.spotify.com/track/3KiVsbXehlQmO8ob18EL6B) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [IT \(Incomparable Talent\)](https://open.spotify.com/album/0L0sXJEat24OuHrAFRyBqd) | 2:45 |
 | 66 | [Gimme the Light](https://open.spotify.com/track/3SCVtAJq8li6HlKfM4M08u) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Dutty Rock](https://open.spotify.com/album/3nAwSh2fcp3M8voQKZS2as) | 3:48 |
-| 67 | [Wine and Jiggle](https://open.spotify.com/track/1eeKTJd1LvONWC8WTV5KF8) | [I\-Octane](https://open.spotify.com/artist/2T5FHRvBN0LYvlvDoU89dS), [Seanizzle](https://open.spotify.com/artist/4WYP9l7S3oTiE2Pb8awwOX) | [Wine and Jiggle](https://open.spotify.com/album/0KxLXkWpZwKTLfLl9QabMV) | 2:31 |
-| 68 | [Summer Time](https://open.spotify.com/track/3bpOaamnFP5260EVqP9GhR) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Vybz Kartel \- Colouring Book EP](https://open.spotify.com/album/6inQiTYFGDcPcprh0syxXh) | 2:44 |
-| 69 | [Kotch](https://open.spotify.com/track/3iUVSvuZ5LDJNztVjsOKiV) | [RDX](https://open.spotify.com/artist/4GpVRyxDYccJrbQkO3KWws) | [Kotch \- Single](https://open.spotify.com/album/32sdKebjCUVWU89Vz1E0VO) | 3:15 |
-| 70 | [Dutty Wine](https://open.spotify.com/track/1P62HRhImwoMT0QG3skOCE) | [Tony Matterhorn](https://open.spotify.com/artist/6taesTUSevB9eK8bm5Y7b9) | [Dutty Wine](https://open.spotify.com/album/7n4bzCw5PPdLJsxhtbrSnv) | 3:03 |
+| 67 | [Gyal Bruk Out](https://open.spotify.com/track/3oeicU1vhOHoySeNBhSUFv) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [123 EP](https://open.spotify.com/album/483JiX4ZWY8w1TS2EyaaFM) | 2:41 |
+| 68 | [Wine and Jiggle](https://open.spotify.com/track/1eeKTJd1LvONWC8WTV5KF8) | [I\-Octane](https://open.spotify.com/artist/2T5FHRvBN0LYvlvDoU89dS), [Seanizzle](https://open.spotify.com/artist/4WYP9l7S3oTiE2Pb8awwOX) | [Wine and Jiggle](https://open.spotify.com/album/0KxLXkWpZwKTLfLl9QabMV) | 2:31 |
+| 69 | [Summer Time](https://open.spotify.com/track/3bpOaamnFP5260EVqP9GhR) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Vybz Kartel \- Colouring Book EP](https://open.spotify.com/album/6inQiTYFGDcPcprh0syxXh) | 2:44 |
+| 70 | [Kotch](https://open.spotify.com/track/3iUVSvuZ5LDJNztVjsOKiV) | [RDX](https://open.spotify.com/artist/4GpVRyxDYccJrbQkO3KWws) | [Kotch \- Single](https://open.spotify.com/album/32sdKebjCUVWU89Vz1E0VO) | 3:15 |
 | 71 | [Get Busy](https://open.spotify.com/track/2PAur5UdDtOOYq234rqZRD) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Reggae Gold 2003](https://open.spotify.com/album/76Ln6U1PHLVU8Zc10xXAnF) | 3:30 |
-| 72 | [Gal a Bubble \- Raw](https://open.spotify.com/track/2bvFZtQc3JbD5ZSA6cwvjq) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Gal a Bubble](https://open.spotify.com/album/78ye6DakWA48XtSsBDD86O) | 3:30 |
-| 73 | [Gyal Bruk Out](https://open.spotify.com/track/3oeicU1vhOHoySeNBhSUFv) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [123 EP](https://open.spotify.com/album/483JiX4ZWY8w1TS2EyaaFM) | 2:41 |
-| 74 | [Bend Ova](https://open.spotify.com/track/7LC5sCPdYJPgKiUXdnIlYe) | [RDX](https://open.spotify.com/artist/4GpVRyxDYccJrbQkO3KWws) | [Kotch EP](https://open.spotify.com/album/4IGhZkAU6HHyOMgtfc9Atq) | 3:09 |
-| 75 | [Worthless Bwoy](https://open.spotify.com/track/2m1vofswv8bhNwFpO5DD1j) | [Bounty Killer](https://open.spotify.com/artist/6UuT0BJZ9vF8Y1sxXnJl2s) | [Nah No Mercy \- The Warlord Scrolls](https://open.spotify.com/album/61skmM7sbrVaMEfyAYqVMG) | 2:42 |
-| 76 | [Party Shot](https://open.spotify.com/track/4NYzZeQsY0wA2Z1Q0gKCj7) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Phantom 2](https://open.spotify.com/album/6Wi7jtuBGit2o5D1SpZWNI) | 3:50 |
-| 77 | [Settle Down \(Destiny\)](https://open.spotify.com/track/7v3cWjR0s7OGMwFUKNGxhy) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu) | [Settle Down \(Destiny\)](https://open.spotify.com/album/7EtA6cQCbAhsPDN6eqp01J) | 3:09 |
-| 78 | [On Fleek \(Love You Everything\)](https://open.spotify.com/track/5tGLXqxNmzeXcK050Lw5Ou) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [On Fleek \(Love You Everything\) \- Single](https://open.spotify.com/album/0yReupj5PtIMxd8RpwORv8) | 2:45 |
-| 79 | [Life \(Is What You Make of It\)](https://open.spotify.com/track/5fqE1rQxoS8D4plG8ZKMn5) | [Frighty](https://open.spotify.com/artist/3sJ4PdcDMz8f54s58xsNzt), [Colonel Mite](https://open.spotify.com/artist/3uKvf6v8ivXfxa3UrJx738) | [Life](https://open.spotify.com/album/6brBB1nDTrEbxJV8G5X9OQ) | 3:32 |
-| 80 | [Gasolina](https://open.spotify.com/track/4D1eJ4MRs8Ky0DlBTbFGRp) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [The Playlist \- Carnival](https://open.spotify.com/album/3yZRGphKhDplZip42iTTbO) | 3:12 |
+| 72 | [Dutty Wine](https://open.spotify.com/track/1P62HRhImwoMT0QG3skOCE) | [Tony Matterhorn](https://open.spotify.com/artist/6taesTUSevB9eK8bm5Y7b9) | [Dutty Wine](https://open.spotify.com/album/7n4bzCw5PPdLJsxhtbrSnv) | 3:03 |
+| 73 | [Gal a Bubble \- Raw](https://open.spotify.com/track/2bvFZtQc3JbD5ZSA6cwvjq) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Gal a Bubble](https://open.spotify.com/album/78ye6DakWA48XtSsBDD86O) | 3:30 |
+| 74 | [On Fleek \(Love You Everything\)](https://open.spotify.com/track/5tGLXqxNmzeXcK050Lw5Ou) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [On Fleek \(Love You Everything\) \- Single](https://open.spotify.com/album/0yReupj5PtIMxd8RpwORv8) | 2:45 |
+| 75 | [Bend Ova](https://open.spotify.com/track/7LC5sCPdYJPgKiUXdnIlYe) | [RDX](https://open.spotify.com/artist/4GpVRyxDYccJrbQkO3KWws) | [Kotch EP](https://open.spotify.com/album/4IGhZkAU6HHyOMgtfc9Atq) | 3:09 |
+| 76 | [Worthless Bwoy](https://open.spotify.com/track/2m1vofswv8bhNwFpO5DD1j) | [Bounty Killer](https://open.spotify.com/artist/6UuT0BJZ9vF8Y1sxXnJl2s) | [Nah No Mercy \- The Warlord Scrolls](https://open.spotify.com/album/61skmM7sbrVaMEfyAYqVMG) | 2:42 |
+| 77 | [Party Shot](https://open.spotify.com/track/4NYzZeQsY0wA2Z1Q0gKCj7) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Phantom 2](https://open.spotify.com/album/6Wi7jtuBGit2o5D1SpZWNI) | 3:50 |
+| 78 | [Settle Down \(Destiny\)](https://open.spotify.com/track/7v3cWjR0s7OGMwFUKNGxhy) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu) | [Settle Down \(Destiny\)](https://open.spotify.com/album/7EtA6cQCbAhsPDN6eqp01J) | 3:09 |
+| 79 | [Things Mi Love](https://open.spotify.com/track/7ngQpwjJbosWoSd1S44Jbb) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Things Mi Love](https://open.spotify.com/album/6ZgEelUaADj0mfsJ8YoclI) | 3:26 |
+| 80 | [Life \(Is What You Make of It\)](https://open.spotify.com/track/5fqE1rQxoS8D4plG8ZKMn5) | [Frighty](https://open.spotify.com/artist/3sJ4PdcDMz8f54s58xsNzt), [Colonel Mite](https://open.spotify.com/artist/3uKvf6v8ivXfxa3UrJx738) | [Life](https://open.spotify.com/album/6brBB1nDTrEbxJV8G5X9OQ) | 3:32 |
 
 Snapshot ID: `AAAAAA55+FtoU7fz72bXO6udsn6AG09u`

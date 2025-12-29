@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49poIUZYXp7.md) - [plain]
 
 > The extraordinary women making great country music today\. Cover: Megan Moroney
 
-[Spotify](https://open.spotify.com/user/spotify) - 518,640 likes - 142 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 518,626 likes - 142 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

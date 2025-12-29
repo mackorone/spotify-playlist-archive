@@ -1,12 +1,12 @@
 {
   "description": "This is Kali Uchis. The essential tracks, all in one playlist.",
-  "num_followers": 295104,
+  "num_followers": 295200,
   "original_name": "This Is Kali Uchis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU3QAAAAAADMKCwU0TrDKbAaNiwsjI0t",
+  "snapshot_id": "aU8hgAAAAADZ6HQSjJc4AY4DQ0nDFAm7",
   "tracks": [
     {
       "added_at": null,
@@ -207,6 +207,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Por Vida",
+        "url": "https://open.spotify.com/album/5B2qGlPQNhyiwpQ47QHawn"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 208853,
+      "name": "Melting",
+      "url": "https://open.spotify.com/track/6lnqe1urLVOV4tn0YgmnIw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
         "url": "https://open.spotify.com/album/4q4rHdKxyCzxuQrPcdjPyC"
       },
@@ -287,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Vida",
-        "url": "https://open.spotify.com/album/6f5gAJpM85TE6aQ81h46T5"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 208853,
-      "name": "Melting",
-      "url": "https://open.spotify.com/track/2kSb3wYSOV996xA2NSmpck"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Red Moon In Venus",
         "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
       },
@@ -339,22 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sincerely,",
-        "url": "https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 193288,
-      "name": "For: You",
-      "url": "https://open.spotify.com/track/6L1xZIyw9U8kICunpmDvq4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Isolation",
         "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 186181,
       "name": "Your Teeth In My Neck",
       "url": "https://open.spotify.com/track/54IbnYEdA3ymfxv07WgN3b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sincerely,",
+        "url": "https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 193288,
+      "name": "For: You",
+      "url": "https://open.spotify.com/track/6L1xZIyw9U8kICunpmDvq4"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sincerely,",
-        "url": "https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 180015,
-      "name": "It's Just Us",
-      "url": "https://open.spotify.com/track/78oIDxTChs1EJrQwUc931r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sin Miedo (del Amor y Otros Demonios) \u221e [Deluxe Version]",
         "url": "https://open.spotify.com/album/64SrjXrYNfYvQcccFmYEHu"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 230964,
       "name": "fue mejor (feat. SZA)",
       "url": "https://open.spotify.com/track/4AIiCP2scA6jt6jAKfkvTX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sincerely,",
+        "url": "https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 180015,
+      "name": "It's Just Us",
+      "url": "https://open.spotify.com/track/78oIDxTChs1EJrQwUc931r"
     },
     {
       "added_at": null,
@@ -487,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sincerely,",
-        "url": "https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 184871,
-      "name": "Sugar! Honey! Love!",
-      "url": "https://open.spotify.com/track/0iIut6VJ8lIT5di5ejg78O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
         "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 222383,
       "name": "quiero sentirme bien",
       "url": "https://open.spotify.com/track/1xP2jdihnPfoqPNVHHhKnm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sincerely,",
+        "url": "https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 184871,
+      "name": "Sugar! Honey! Love!",
+      "url": "https://open.spotify.com/track/0iIut6VJ8lIT5di5ejg78O"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sincerely,",
-        "url": "https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 356146,
-      "name": "Lose My Cool,",
-      "url": "https://open.spotify.com/track/54Z2Nr6JA67vqyNAWVYlBD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BUBBA",
         "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 186680,
       "name": "10% (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sincerely,",
+        "url": "https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 356146,
+      "name": "Lose My Cool,",
+      "url": "https://open.spotify.com/track/54Z2Nr6JA67vqyNAWVYlBD"
     },
     {
       "added_at": null,
@@ -627,6 +627,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "moonlight (kali uchis) [sped up version]",
+        "url": "https://open.spotify.com/album/74aBi8IE2YGBM3BfmpX1R1"
+      },
+      "artists": [
+        {
+          "name": "sped up viral",
+          "url": "https://open.spotify.com/artist/3hYgfaELzhbTbvax70GtqM"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 156436,
+      "name": "moonlight (kali uchis) - sped up version",
+      "url": "https://open.spotify.com/track/1TL4lgjSoc9SeKKjLhDO1n"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sincerely,",
         "url": "https://open.spotify.com/album/2XhNukk6jDysbSRL7VsqYb"
       },
@@ -659,22 +679,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "moonlight (kali uchis) [sped up version]",
-        "url": "https://open.spotify.com/album/74aBi8IE2YGBM3BfmpX1R1"
+        "name": "Isolation",
+        "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
       },
       "artists": [
         {
-          "name": "sped up viral",
-          "url": "https://open.spotify.com/artist/3hYgfaELzhbTbvax70GtqM"
-        },
-        {
           "name": "Kali Uchis",
           "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
         }
       ],
-      "duration_ms": 156436,
-      "name": "moonlight (kali uchis) - sped up version",
-      "url": "https://open.spotify.com/track/1TL4lgjSoc9SeKKjLhDO1n"
+      "duration_ms": 177697,
+      "name": "Just A Stranger (feat. Steve Lacy)",
+      "url": "https://open.spotify.com/track/1HA2V2EfAgJUBVOju4YfiB"
     },
     {
       "added_at": null,
@@ -699,42 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Isolation",
-        "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 177697,
-      "name": "Just A Stranger (feat. Steve Lacy)",
-      "url": "https://open.spotify.com/track/1HA2V2EfAgJUBVOju4YfiB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Red Moon In Venus",
-        "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 155083,
-      "name": "Love Between...",
-      "url": "https://open.spotify.com/track/128I36bDgYHU9l2QcgEGcd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ORQU\u00cdDEAS",
         "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 188268,
       "name": "No Hay Ley Parte 2 (with Rauw Alejandro)",
       "url": "https://open.spotify.com/track/16pNGHrUDtUq5Qg4LnueIi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Red Moon In Venus",
+        "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 155083,
+      "name": "Love Between...",
+      "url": "https://open.spotify.com/track/128I36bDgYHU9l2QcgEGcd"
     },
     {
       "added_at": null,
@@ -787,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TO FEEL ALIVE EP",
-        "url": "https://open.spotify.com/album/2qn5Z50z9x2qAIyWV5lt9E"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 143225,
-      "name": "angel",
-      "url": "https://open.spotify.com/track/5exEU6LbxN4T4sY1nV5NfV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ORQU\u00cdDEAS",
         "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 215666,
       "name": "Dame Beso // Mu\u00e9vete",
       "url": "https://open.spotify.com/track/21RAJfkAbaq85RWJQWoxkx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TO FEEL ALIVE EP",
+        "url": "https://open.spotify.com/album/2qn5Z50z9x2qAIyWV5lt9E"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 143225,
+      "name": "angel",
+      "url": "https://open.spotify.com/track/5exEU6LbxN4T4sY1nV5NfV"
     },
     {
       "added_at": null,
@@ -859,22 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ORQU\u00cdDEAS PARTE 2 (Deluxe)",
-        "url": "https://open.spotify.com/album/1quQQFsx3AcBBotzj9UXfS"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 202123,
-      "name": "Simple",
-      "url": "https://open.spotify.com/track/2xQIb4ZLQLAiWAZejlmOoR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ORQU\u00cdDEAS",
         "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
       },
@@ -891,8 +875,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sincerely: P.S.",
-        "url": "https://open.spotify.com/album/0lnZiBZPbGiBuNrMy25Yux"
+        "name": "ORQU\u00cdDEAS PARTE 2 (Deluxe)",
+        "url": "https://open.spotify.com/album/1quQQFsx3AcBBotzj9UXfS"
       },
       "artists": [
         {
@@ -900,9 +884,9 @@
           "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         }
       ],
-      "duration_ms": 223052,
-      "name": "All of the Good",
-      "url": "https://open.spotify.com/track/6PWhKZWaezQ22Hg756oCOG"
+      "duration_ms": 202123,
+      "name": "Simple",
+      "url": "https://open.spotify.com/track/2xQIb4ZLQLAiWAZejlmOoR"
     },
     {
       "added_at": null,
@@ -931,6 +915,22 @@
       "duration_ms": 179042,
       "name": "FIND YOUR WINGS (feat. Roy Ayers, Sydney Bennett & Kali Uchis)",
       "url": "https://open.spotify.com/track/7er0EUMY653mxZ1NVD9mwQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sincerely: P.S.",
+        "url": "https://open.spotify.com/album/0lnZiBZPbGiBuNrMy25Yux"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 223052,
+      "name": "All of the Good",
+      "url": "https://open.spotify.com/track/6PWhKZWaezQ22Hg756oCOG"
     }
   ],
   "unique_name": "This Is Kali Uchis",

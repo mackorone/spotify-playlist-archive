@@ -1,12 +1,12 @@
 {
   "description": "This is Billie Holiday. The essential tracks, all in one playlist.",
-  "num_followers": 147722,
+  "num_followers": 147736,
   "original_name": "This Is Billie Holiday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU3QAAAAAAAOu7o2ZXIaB7VIcxAcaccU",
+  "snapshot_id": "aU8hgAAAAADrniRDU/mIW09WdYUdfkOb",
   "tracks": [
     {
       "added_at": null,
@@ -627,26 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Blues Are Brewin'",
-        "url": "https://open.spotify.com/album/3mkCRtRSj88ggrbkTCbEUQ"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        },
-        {
-          "name": "Billy Kyle and His Trio",
-          "url": "https://open.spotify.com/artist/2Ru6Dj5tdUgAzLrXcXje7q"
-        }
-      ],
-      "duration_ms": 193053,
-      "name": "Baby, I Don't Cry Over You",
-      "url": "https://open.spotify.com/track/5gXoSVnLyvxRFdvIhUElXS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Billie Holiday's Greatest Hits",
         "url": "https://open.spotify.com/album/6CqXthOJBMMmagymEEa8pl"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 269146,
       "name": "Speak Low",
       "url": "https://open.spotify.com/track/17SIqmKU86yUoUq41MyklH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Blues Are Brewin'",
+        "url": "https://open.spotify.com/album/3mkCRtRSj88ggrbkTCbEUQ"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        },
+        {
+          "name": "Billy Kyle and His Trio",
+          "url": "https://open.spotify.com/artist/2Ru6Dj5tdUgAzLrXcXje7q"
+        }
+      ],
+      "duration_ms": 193053,
+      "name": "Baby, I Don't Cry Over You",
+      "url": "https://open.spotify.com/track/5gXoSVnLyvxRFdvIhUElXS"
     },
     {
       "added_at": null,
@@ -779,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Billie Holiday's Greatest Hits",
+        "url": "https://open.spotify.com/album/6CqXthOJBMMmagymEEa8pl"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 165933,
+      "name": "No More",
+      "url": "https://open.spotify.com/track/75yWDS1C4ZXKoJscUK1cdg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lady Day: The Complete Billie Holiday On Columbia (1933-1944)",
         "url": "https://open.spotify.com/album/7pBwUBRsdgtIyX7tGOmaoy"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 190800,
       "name": "Gloomy Sunday (with Teddy Wilson & His Orchestra) - Take 1",
       "url": "https://open.spotify.com/track/41CHb7F7SXcmkj0h8wekeF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Billie Holiday's Greatest Hits",
-        "url": "https://open.spotify.com/album/6CqXthOJBMMmagymEEa8pl"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 165933,
-      "name": "No More",
-      "url": "https://open.spotify.com/track/75yWDS1C4ZXKoJscUK1cdg"
     },
     {
       "added_at": null,

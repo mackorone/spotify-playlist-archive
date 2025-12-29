@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1j3jZdCWOQ.md) - [plain]
 
 > Spain minus the S =
 
-[Spotify](https://open.spotify.com/user/spotify) - 575,300 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 575,356 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1j3jZdCWOQ.md) - [plain]
 | 34 | [Scotty Doesn't Know](https://open.spotify.com/track/1LkoYGxmYpO6QSEvY5C0Zl) | [Lustra](https://open.spotify.com/artist/3IJ770I1QPmwVp7yug0eJ4) | [Left for Dead](https://open.spotify.com/album/3MCqjuNms0vjGyUDQ92Ivs) | 2:55 |
 | 35 | [brutal](https://open.spotify.com/track/6SRsiMl7w1USE4mFqrOhHC) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:23 |
 | 36 | [In Too Deep](https://open.spotify.com/track/1HNE2PX70ztbEl6MLxrpNL) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [All Killer, No Filler](https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim) | 3:27 |
-| 37 | [Stacy's Mom](https://open.spotify.com/track/27L8sESb3KR79asDUBu8nW) | [Fountains Of Wayne](https://open.spotify.com/artist/1pgtr4nhBQjp9oCUBPyYWh) | [Welcome Interstate Managers](https://open.spotify.com/album/6TZp52tXShLQbq8yNMxqNT) | 3:17 |
-| 38 | [Misery Business](https://open.spotify.com/track/6SpLc7EXZIPpy0sVko0aoU) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc) | 3:31 |
+| 37 | [Misery Business](https://open.spotify.com/track/6SpLc7EXZIPpy0sVko0aoU) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc) | 3:31 |
+| 38 | [Stacy's Mom](https://open.spotify.com/track/27L8sESb3KR79asDUBu8nW) | [Fountains Of Wayne](https://open.spotify.com/artist/1pgtr4nhBQjp9oCUBPyYWh) | [Welcome Interstate Managers](https://open.spotify.com/album/6TZp52tXShLQbq8yNMxqNT) | 3:17 |
 | 39 | [Just A Girl](https://open.spotify.com/track/5lWRaa0fBxDE5yU91npPq7) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8) | 3:29 |
 | 40 | [The Drug In Me Is You](https://open.spotify.com/track/1mB7dCUM7sPyNab6R43nlj) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [The Drug In Me Is You](https://open.spotify.com/album/1KwwS07TEbKS8r1rU4UUe4) | 3:38 |
 | 41 | [The Anthem](https://open.spotify.com/track/0BRHnOFm6sjxN1i9LJrUDu) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [The Young and The Hopeless](https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc) | 2:55 |
@@ -93,9 +93,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1j3jZdCWOQ.md) - [plain]
 | 83 | [ANGELS & DEMONS](https://open.spotify.com/track/3mkz6eI4Sram8UhO3teU76) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Tell Me About Tomorrow](https://open.spotify.com/album/11xZPFzFKdaLz2BTS1d48T) | 2:40 |
 | 84 | [Right Now](https://open.spotify.com/track/3iwsyTZzOWHZbHffBEyi1N) | [SR\-71](https://open.spotify.com/artist/7fTcs8dn9y6XuB2IqZMzBq) | [Now You See Inside](https://open.spotify.com/album/1eDNzJLCxus27R8ZC2hS3z) | 2:47 |
 | 85 | [zombie](https://open.spotify.com/track/5h8mMDgymYYbKfdqhrdwZY) | [Max Fry](https://open.spotify.com/artist/3P01oaWiEJ2uI7ZwUuaMNy) | [zombie](https://open.spotify.com/album/4nsvLdAnnhP2lEc5JCsDQS) | 2:11 |
-| 86 | [Leave Her](https://open.spotify.com/track/4AbYZMzeVqGE8Ys4wbI0PT) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Withering](https://open.spotify.com/album/1EX0HxNyID0uOOiKeYF9wG) | 2:44 |
-| 87 | [Be My Escape](https://open.spotify.com/track/5eK5xQl8EGzR5zYkxaDCAn) | [Relient K](https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN) | [Mmhmm](https://open.spotify.com/album/4UZTjODd6CvRN1Lx8g6hBV) | 4:00 |
-| 88 | [sTraNgeRs](https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [sTraNgeRs](https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc) | 3:15 |
+| 86 | [sTraNgeRs](https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [sTraNgeRs](https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc) | 3:15 |
+| 87 | [Leave Her](https://open.spotify.com/track/4AbYZMzeVqGE8Ys4wbI0PT) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Withering](https://open.spotify.com/album/1EX0HxNyID0uOOiKeYF9wG) | 2:44 |
+| 88 | [Be My Escape](https://open.spotify.com/track/5eK5xQl8EGzR5zYkxaDCAn) | [Relient K](https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN) | [Mmhmm](https://open.spotify.com/album/4UZTjODd6CvRN1Lx8g6hBV) | 4:00 |
 | 89 | [Loud Bark](https://open.spotify.com/track/4iaSz388a4iRMNRJZSClVG) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [I Got Heaven](https://open.spotify.com/album/5ROzqM7rbMYoKbQIw4i7fp) | 3:03 |
 | 90 | [I Miss Having Sex But At Least I Don't Wanna Die Anymore](https://open.spotify.com/track/2Rmw7J0krEU75ffhkaK93D) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [FANDOM](https://open.spotify.com/album/6W5NAcsq5dV2vMcxPFWXTb) | 2:13 |
 | 91 | [We Don't Wanna Talk](https://open.spotify.com/track/7Gzs6HvJBEBSxsNkXwBqay) | [Friday Pilots Club](https://open.spotify.com/artist/3PgEvPJKRuil74QPX8wtXY) | [Nowhere](https://open.spotify.com/album/52g4ptmJZyzP2q33EnVaOO) | 2:39 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1j3jZdCWOQ.md) - [plain]
 | 94 | [Leave Me Alone](https://open.spotify.com/track/1cIi1x8ANjMO97wH5OfYO1) | [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [RAZZMATAZZ](https://open.spotify.com/album/7q8hYYZgsIQCXibLzwiPll) | 3:35 |
 | 95 | [SPINE](https://open.spotify.com/track/6Stz1dIY7OD61gU7SdVR22) | [WesGhost](https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ) | [SPINE](https://open.spotify.com/album/0Cid17L0G17hI9bmEuR5G2) | 3:00 |
 | 96 | [The News](https://open.spotify.com/track/59RjIhWIpthNpwrlChUvXm) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:07 |
-| 97 | [Turbulent](https://open.spotify.com/track/4ig3DcNoj3UfPdhL2Rw9J1) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [FANDOM](https://open.spotify.com/album/6W5NAcsq5dV2vMcxPFWXTb) | 2:42 |
-| 98 | [Pink Panther](https://open.spotify.com/track/32ljWqOxw3ckyuaUc882F6) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Bimbocore](https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0) | 2:22 |
-| 99 | [Candy Coated Lie$](https://open.spotify.com/track/5Xr1q4GLTnNZu6c4K9rsNh) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [Candy Coated Lie$](https://open.spotify.com/album/2hqp0oGlkPppaDtmROiUmN) | 2:57 |
-| 100 | [obsessed](https://open.spotify.com/track/0pWB4X7xxFaTyQYdXXXpYw) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS \(spilled\)](https://open.spotify.com/album/0AGTYuKIZpklJih6pEmoWp) | 2:50 |
+| 97 | [Pink Panther](https://open.spotify.com/track/32ljWqOxw3ckyuaUc882F6) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Bimbocore](https://open.spotify.com/album/40yJpavMZdcV1lhGNwWJZ0) | 2:22 |
+| 98 | [Candy Coated Lie$](https://open.spotify.com/track/5Xr1q4GLTnNZu6c4K9rsNh) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [Candy Coated Lie$](https://open.spotify.com/album/2hqp0oGlkPppaDtmROiUmN) | 2:57 |
+| 99 | [obsessed](https://open.spotify.com/track/0pWB4X7xxFaTyQYdXXXpYw) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS \(spilled\)](https://open.spotify.com/album/0AGTYuKIZpklJih6pEmoWp) | 2:50 |
+| 100 | [Turbulent](https://open.spotify.com/track/4ig3DcNoj3UfPdhL2Rw9J1) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [FANDOM](https://open.spotify.com/album/6W5NAcsq5dV2vMcxPFWXTb) | 2:42 |
 
 Snapshot ID: `AAAAAO3oy2s0UO2fumcLI/hWbt1WE3ot`

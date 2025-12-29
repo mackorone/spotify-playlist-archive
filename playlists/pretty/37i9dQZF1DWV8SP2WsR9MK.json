@@ -1,6 +1,6 @@
 {
   "description": "The classic Jazz guitarists and their finest pieces. Cover: Grant Green",
-  "num_followers": 121235,
+  "num_followers": 121276,
   "original_name": "Jazz Guitar Classics",
   "owner": {
     "name": "Spotify",
@@ -203,6 +203,22 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
+        "name": "Ellis In Wonderland",
+        "url": "https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP"
+      },
+      "artists": [
+        {
+          "name": "Herb Ellis",
+          "url": "https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz"
+        }
+      ],
+      "duration_ms": 224320,
+      "name": "It Could Happen To You",
+      "url": "https://open.spotify.com/track/7ns8zu3jKepR1oed6TvglA"
+    },
+    {
+      "added_at": "2025-09-10 12:20:14",
+      "album": {
         "name": "Kessel Plays Standards",
         "url": "https://open.spotify.com/album/5ppBTIkGP1apH4P9Rc1Wjc"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 188333,
       "name": "A Foggy Day",
       "url": "https://open.spotify.com/track/6uddYxVxC6qX5PSPzAylid"
-    },
-    {
-      "added_at": "2025-09-10 12:20:14",
-      "album": {
-        "name": "Ellis In Wonderland",
-        "url": "https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP"
-      },
-      "artists": [
-        {
-          "name": "Herb Ellis",
-          "url": "https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz"
-        }
-      ],
-      "duration_ms": 224320,
-      "name": "It Could Happen To You",
-      "url": "https://open.spotify.com/track/7ns8zu3jKepR1oed6TvglA"
     },
     {
       "added_at": "2025-09-10 12:20:14",
@@ -359,22 +359,6 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
-        "name": "Incredible Jazz Guitar",
-        "url": "https://open.spotify.com/album/74kBIzv8E0CG5V6qx5ytm2"
-      },
-      "artists": [
-        {
-          "name": "Wes Montgomery",
-          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
-        }
-      ],
-      "duration_ms": 291640,
-      "name": "In Your Own Sweet Way",
-      "url": "https://open.spotify.com/track/392OK8Qdmos0wNDrduiwy0"
-    },
-    {
-      "added_at": "2025-09-10 12:20:14",
-      "album": {
         "name": "Djangology 49",
         "url": "https://open.spotify.com/album/7JHX9w5tOLvxZQDqXIaBlq"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 256000,
       "name": "Beyond The Sea (La Mer)",
       "url": "https://open.spotify.com/track/1iqYqVkzPJAQ6Kgc0Kn2I5"
+    },
+    {
+      "added_at": "2025-09-10 12:20:14",
+      "album": {
+        "name": "Incredible Jazz Guitar",
+        "url": "https://open.spotify.com/album/74kBIzv8E0CG5V6qx5ytm2"
+      },
+      "artists": [
+        {
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+        }
+      ],
+      "duration_ms": 291640,
+      "name": "In Your Own Sweet Way",
+      "url": "https://open.spotify.com/track/392OK8Qdmos0wNDrduiwy0"
     },
     {
       "added_at": "2025-09-10 12:20:14",
@@ -535,22 +535,6 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
-        "name": "The Best Of Grant Green",
-        "url": "https://open.spotify.com/album/6DJNcDFC9fT8Ll1WnX4oq7"
-      },
-      "artists": [
-        {
-          "name": "Grant Green",
-          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
-        }
-      ],
-      "duration_ms": 897626,
-      "name": "Idle Moments",
-      "url": "https://open.spotify.com/track/6bY9atW7iC0JMy7nx4eT0Y"
-    },
-    {
-      "added_at": "2025-09-10 12:20:14",
-      "album": {
         "name": "Kaleidoscope",
         "url": "https://open.spotify.com/album/4HpPxBDSrsPQfcM69FME8z"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 209053,
       "name": "My Foolish Heart",
       "url": "https://open.spotify.com/track/0gqWIxTMmUQPucykcPb6IH"
+    },
+    {
+      "added_at": "2025-09-10 12:20:14",
+      "album": {
+        "name": "The Best Of Grant Green",
+        "url": "https://open.spotify.com/album/6DJNcDFC9fT8Ll1WnX4oq7"
+      },
+      "artists": [
+        {
+          "name": "Grant Green",
+          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
+        }
+      ],
+      "duration_ms": 897626,
+      "name": "Idle Moments",
+      "url": "https://open.spotify.com/track/6bY9atW7iC0JMy7nx4eT0Y"
     },
     {
       "added_at": "2025-09-10 12:20:14",
@@ -619,6 +619,22 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
+        "name": "Cream",
+        "url": "https://open.spotify.com/album/6R8qLTLbNFxzfBoavYUCXy"
+      },
+      "artists": [
+        {
+          "name": "Pat Martino",
+          "url": "https://open.spotify.com/artist/4DlMMgnldzX6OkCskmeGKz"
+        }
+      ],
+      "duration_ms": 628186,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/6xHcMss02s14r2EdXLEqhk"
+    },
+    {
+      "added_at": "2025-09-10 12:20:14",
+      "album": {
         "name": "Alive! (Live At The Cliche' Lounge, Newark, New Jersey, 1970 / Remastered 2000)",
         "url": "https://open.spotify.com/album/4NL6PN6GkMqI7Ztz4iGPU6"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 658333,
       "name": "Sookie Sookie - Live At The Cliche' Lounge, Newark, New Jersey, 1970 / Remastered 2000",
       "url": "https://open.spotify.com/track/6i9Uhx8fUHQu9aHXCjiu7B"
-    },
-    {
-      "added_at": "2025-09-10 12:20:14",
-      "album": {
-        "name": "Cream",
-        "url": "https://open.spotify.com/album/6R8qLTLbNFxzfBoavYUCXy"
-      },
-      "artists": [
-        {
-          "name": "Pat Martino",
-          "url": "https://open.spotify.com/artist/4DlMMgnldzX6OkCskmeGKz"
-        }
-      ],
-      "duration_ms": 628186,
-      "name": "Sunny",
-      "url": "https://open.spotify.com/track/6xHcMss02s14r2EdXLEqhk"
     },
     {
       "added_at": "2025-09-10 12:20:14",
@@ -703,22 +703,6 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
-        "name": "Retrospective",
-        "url": "https://open.spotify.com/album/5MYLIllbgBg8tdvThOe9XE"
-      },
-      "artists": [
-        {
-          "name": "Grant Green",
-          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
-        }
-      ],
-      "duration_ms": 484493,
-      "name": "Joshua Fit De Battle Of Jericho",
-      "url": "https://open.spotify.com/track/7M2stwcE97dpVizQHsGJpA"
-    },
-    {
-      "added_at": "2025-09-10 12:20:14",
-      "album": {
         "name": "The Sound Of Johnny Smith",
         "url": "https://open.spotify.com/album/1zeJkPpy0WkLnTQo9TUEeh"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 328800,
       "name": "Misty - 2001 Remaster",
       "url": "https://open.spotify.com/track/5fQFn9MwQFgh1MRIl4eg7u"
+    },
+    {
+      "added_at": "2025-09-10 12:20:14",
+      "album": {
+        "name": "Retrospective",
+        "url": "https://open.spotify.com/album/5MYLIllbgBg8tdvThOe9XE"
+      },
+      "artists": [
+        {
+          "name": "Grant Green",
+          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
+        }
+      ],
+      "duration_ms": 484493,
+      "name": "Joshua Fit De Battle Of Jericho",
+      "url": "https://open.spotify.com/track/7M2stwcE97dpVizQHsGJpA"
     },
     {
       "added_at": "2025-09-10 12:20:14",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
-        "name": "Good Pickin's",
-        "url": "https://open.spotify.com/album/0CVGXahh2o0Wg4asysJ9OS"
-      },
-      "artists": [
-        {
-          "name": "Howard Roberts",
-          "url": "https://open.spotify.com/artist/1E4UIKgZgGsuAZ4CFS0Cel"
-        }
-      ],
-      "duration_ms": 255280,
-      "name": "When The Sun Comes Out",
-      "url": "https://open.spotify.com/track/6AVztYjd9LnVjXtDHK73NU"
-    },
-    {
-      "added_at": "2025-09-10 12:20:14",
-      "album": {
         "name": "The Shape Of Things To Come",
         "url": "https://open.spotify.com/album/5104eCHmSmfLDol9ZDQn0B"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 347413,
       "name": "Shape Of Things That Are And Were",
       "url": "https://open.spotify.com/track/62AZ6ukR1dxo5F2sbfFQ1L"
+    },
+    {
+      "added_at": "2025-09-10 12:20:14",
+      "album": {
+        "name": "Good Pickin's",
+        "url": "https://open.spotify.com/album/0CVGXahh2o0Wg4asysJ9OS"
+      },
+      "artists": [
+        {
+          "name": "Howard Roberts",
+          "url": "https://open.spotify.com/artist/1E4UIKgZgGsuAZ4CFS0Cel"
+        }
+      ],
+      "duration_ms": 255280,
+      "name": "When The Sun Comes Out",
+      "url": "https://open.spotify.com/track/6AVztYjd9LnVjXtDHK73NU"
     },
     {
       "added_at": "2025-09-10 12:20:14",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
+        "name": "Heritage",
+        "url": "https://open.spotify.com/album/09y9mx5jM6g9pqqrFnUoXy"
+      },
+      "artists": [
+        {
+          "name": "Lionel Loueke",
+          "url": "https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig"
+        }
+      ],
+      "duration_ms": 280333,
+      "name": "Freedom Dance",
+      "url": "https://open.spotify.com/track/3wSD488adiUFtKzxHb8fmi"
+    },
+    {
+      "added_at": "2025-09-10 12:20:14",
+      "album": {
         "name": "Deep Song",
         "url": "https://open.spotify.com/album/61ABrp2sjUlG2QhJr0LaZ8"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 267800,
       "name": "Let's Say We Did",
       "url": "https://open.spotify.com/track/301YnLmQmSX7mURPKvWOy5"
-    },
-    {
-      "added_at": "2025-09-10 12:20:14",
-      "album": {
-        "name": "Heritage",
-        "url": "https://open.spotify.com/album/09y9mx5jM6g9pqqrFnUoXy"
-      },
-      "artists": [
-        {
-          "name": "Lionel Loueke",
-          "url": "https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig"
-        }
-      ],
-      "duration_ms": 280333,
-      "name": "Freedom Dance",
-      "url": "https://open.spotify.com/track/3wSD488adiUFtKzxHb8fmi"
     },
     {
       "added_at": "2025-09-10 12:20:14",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
-        "name": "Heartcore",
-        "url": "https://open.spotify.com/album/0zVWcCYxijtR8JcX5bBJfZ"
-      },
-      "artists": [
-        {
-          "name": "Kurt Rosenwinkel",
-          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
-        }
-      ],
-      "duration_ms": 371200,
-      "name": "Blue Line",
-      "url": "https://open.spotify.com/track/3IsWXJIIp1Z9T22rVDLLgk"
-    },
-    {
-      "added_at": "2025-09-10 12:20:14",
-      "album": {
         "name": "Free Flying",
         "url": "https://open.spotify.com/album/1Qvqde6pj6KPoRnKxdOsvO"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 384413,
       "name": "Monk's Dream",
       "url": "https://open.spotify.com/track/6CeJnR7HphMYbazmHYZEtA"
+    },
+    {
+      "added_at": "2025-09-10 12:20:14",
+      "album": {
+        "name": "Heartcore",
+        "url": "https://open.spotify.com/album/0zVWcCYxijtR8JcX5bBJfZ"
+      },
+      "artists": [
+        {
+          "name": "Kurt Rosenwinkel",
+          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
+        }
+      ],
+      "duration_ms": 371200,
+      "name": "Blue Line",
+      "url": "https://open.spotify.com/track/3IsWXJIIp1Z9T22rVDLLgk"
     },
     {
       "added_at": "2025-09-10 12:20:14",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
-        "name": "The Best of Billy Bauer",
-        "url": "https://open.spotify.com/album/6VXcwfXihKz3qHQdLs1ZY9"
-      },
-      "artists": [
-        {
-          "name": "Billy Bauer",
-          "url": "https://open.spotify.com/artist/2Stsu7b2rXjs8idU9wjQgf"
-        }
-      ],
-      "duration_ms": 253693,
-      "name": "It's A Blue World - Original",
-      "url": "https://open.spotify.com/track/6VUzfooRLz88SbiBAeRf6v"
-    },
-    {
-      "added_at": "2025-09-10 12:20:14",
-      "album": {
         "name": "What We Do",
         "url": "https://open.spotify.com/album/60rpQDTCR4ZtfJ9o5YMzT7"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 396360,
       "name": "Little Walk",
       "url": "https://open.spotify.com/track/4nYrj53C7CgDWJtKHFgKx6"
+    },
+    {
+      "added_at": "2025-09-10 12:20:14",
+      "album": {
+        "name": "The Best of Billy Bauer",
+        "url": "https://open.spotify.com/album/6VXcwfXihKz3qHQdLs1ZY9"
+      },
+      "artists": [
+        {
+          "name": "Billy Bauer",
+          "url": "https://open.spotify.com/artist/2Stsu7b2rXjs8idU9wjQgf"
+        }
+      ],
+      "duration_ms": 253693,
+      "name": "It's A Blue World - Original",
+      "url": "https://open.spotify.com/track/6VUzfooRLz88SbiBAeRf6v"
     },
     {
       "added_at": "2025-09-10 12:20:14",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
-        "name": "Django Reinhardt: Legendary Recordings",
-        "url": "https://open.spotify.com/album/3RCsS8ichdIB9arRJFicaf"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        }
-      ],
-      "duration_ms": 168720,
-      "name": "Brazil",
-      "url": "https://open.spotify.com/track/3ctsORVoVEDUxLpQAL0zOC"
-    },
-    {
-      "added_at": "2025-09-10 12:20:14",
-      "album": {
         "name": "Past Present",
         "url": "https://open.spotify.com/album/5ob5jEthhcZI9lLlEH2Tit"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 321866,
       "name": "Enjoy The Future !",
       "url": "https://open.spotify.com/track/1dWktJdLblH6Vt0SkX2ZoE"
+    },
+    {
+      "added_at": "2025-09-10 12:20:14",
+      "album": {
+        "name": "Django Reinhardt: Legendary Recordings",
+        "url": "https://open.spotify.com/album/3RCsS8ichdIB9arRJFicaf"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        }
+      ],
+      "duration_ms": 168720,
+      "name": "Brazil",
+      "url": "https://open.spotify.com/track/3ctsORVoVEDUxLpQAL0zOC"
     },
     {
       "added_at": "2025-09-10 12:20:14",

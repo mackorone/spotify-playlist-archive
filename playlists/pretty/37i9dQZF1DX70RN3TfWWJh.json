@@ -1,6 +1,6 @@
 {
   "description": "Pop hits to keep your workout fresh",
-  "num_followers": 4739627,
+  "num_followers": 4739415,
   "original_name": "Workout",
   "owner": {
     "name": "Spotify",
@@ -143,26 +143,6 @@
     {
       "added_at": "2025-09-27 21:12:54",
       "album": {
-        "name": "Just Keep Watching (From F1\u00ae The Movie)",
-        "url": "https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        },
-        {
-          "name": "F1 The Album",
-          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
-        }
-      ],
-      "duration_ms": 142550,
-      "name": "Just Keep Watching (From F1\u00ae The Movie)",
-      "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
-    },
-    {
-      "added_at": "2025-09-27 21:12:54",
-      "album": {
         "name": "APT.",
         "url": "https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD"
       },
@@ -179,6 +159,26 @@
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
+    },
+    {
+      "added_at": "2025-09-27 21:12:54",
+      "album": {
+        "name": "Just Keep Watching (From F1\u00ae The Movie)",
+        "url": "https://open.spotify.com/album/5aWEjuULckx3nnpAM9w6gY"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        },
+        {
+          "name": "F1 The Album",
+          "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
+        }
+      ],
+      "duration_ms": 142550,
+      "name": "Just Keep Watching (From F1\u00ae The Movie)",
+      "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
     },
     {
       "added_at": "2025-09-27 21:12:54",
@@ -235,22 +235,6 @@
     {
       "added_at": "2025-09-27 21:12:54",
       "album": {
-        "name": "greedy",
-        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 131872,
-      "name": "greedy",
-      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
-    },
-    {
-      "added_at": "2025-09-27 21:12:54",
-      "album": {
         "name": "Planet Her",
         "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 208666,
       "name": "Kiss Me More (feat. SZA)",
       "url": "https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz"
+    },
+    {
+      "added_at": "2025-09-27 21:12:54",
+      "album": {
+        "name": "greedy",
+        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 131872,
+      "name": "greedy",
+      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
     },
     {
       "added_at": "2025-09-27 21:12:54",
@@ -563,22 +563,6 @@
     {
       "added_at": "2025-09-27 21:12:54",
       "album": {
-        "name": "Dance The Night (From Barbie The Album)",
-        "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 176579,
-      "name": "Dance The Night - From Barbie The Album",
-      "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
-    },
-    {
-      "added_at": "2025-09-27 21:12:54",
-      "album": {
         "name": "Calm Down (with Selena Gomez)",
         "url": "https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 239317,
       "name": "Calm Down (with Selena Gomez)",
       "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
+    },
+    {
+      "added_at": "2025-09-27 21:12:54",
+      "album": {
+        "name": "Dance The Night (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 176579,
+      "name": "Dance The Night - From Barbie The Album",
+      "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
     },
     {
       "added_at": "2025-09-27 21:12:54",
@@ -803,22 +803,6 @@
     {
       "added_at": "2025-09-27 21:12:54",
       "album": {
-        "name": "IS IT",
-        "url": "https://open.spotify.com/album/2aCXRL0HlDr9XWpJ0EXv0C"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 164206,
-      "name": "IS IT",
-      "url": "https://open.spotify.com/track/6NiiHhJPTeSaJR2TfDzpPz"
-    },
-    {
-      "added_at": "2025-09-27 21:12:54",
-      "album": {
         "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
         "url": "https://open.spotify.com/album/40LbnfieVTWtHrK24WQeEB"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 236001,
       "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
       "url": "https://open.spotify.com/track/6JV2JOEocMgcZxYSZelKcc"
+    },
+    {
+      "added_at": "2025-09-27 21:12:54",
+      "album": {
+        "name": "IS IT",
+        "url": "https://open.spotify.com/album/2aCXRL0HlDr9XWpJ0EXv0C"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 164206,
+      "name": "IS IT",
+      "url": "https://open.spotify.com/track/6NiiHhJPTeSaJR2TfDzpPz"
     },
     {
       "added_at": "2025-09-27 21:12:54",
@@ -851,22 +851,6 @@
     {
       "added_at": "2025-09-27 21:12:54",
       "album": {
-        "name": "Bones",
-        "url": "https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 165264,
-      "name": "Bones",
-      "url": "https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G"
-    },
-    {
-      "added_at": "2025-09-27 21:12:54",
-      "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 190360,
       "name": "The Man",
       "url": "https://open.spotify.com/track/3RauEVgRgj1IuWdJ9fDs70"
+    },
+    {
+      "added_at": "2025-09-27 21:12:54",
+      "album": {
+        "name": "Bones",
+        "url": "https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 165264,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G"
     },
     {
       "added_at": "2025-09-27 21:12:54",
@@ -931,6 +931,22 @@
     {
       "added_at": "2025-09-27 21:12:54",
       "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 138213,
+      "name": "Rockstar",
+      "url": "https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa"
+    },
+    {
+      "added_at": "2025-09-27 21:12:54",
+      "album": {
         "name": "Enemy (with JID) [from the series Arcane League of Legends]",
         "url": "https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 173381,
       "name": "Enemy (with JID) - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
-    },
-    {
-      "added_at": "2025-09-27 21:12:54",
-      "album": {
-        "name": "Rockstar",
-        "url": "https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 138213,
-      "name": "Rockstar",
-      "url": "https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa"
     },
     {
       "added_at": "2025-09-27 21:12:54",
@@ -1235,26 +1235,6 @@
     {
       "added_at": "2025-09-27 21:12:54",
       "album": {
-        "name": "Higher Love",
-        "url": "https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 228267,
-      "name": "Higher Love",
-      "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
-    },
-    {
-      "added_at": "2025-09-27 21:12:54",
-      "album": {
         "name": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)",
         "url": "https://open.spotify.com/album/0ZHyvPke0EcVt6rYA8Ins3"
       },
@@ -1279,6 +1259,26 @@
       "duration_ms": 212500,
       "name": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)",
       "url": "https://open.spotify.com/track/4w8niZpiMy6qz1mntFA5uM"
+    },
+    {
+      "added_at": "2025-09-27 21:12:54",
+      "album": {
+        "name": "Higher Love",
+        "url": "https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 228267,
+      "name": "Higher Love",
+      "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
     },
     {
       "added_at": "2025-09-27 21:12:54",

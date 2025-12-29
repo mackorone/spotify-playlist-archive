@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-268 songs - 15 hr 2 min
+275 songs - 15 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [A Merry Jingle](https://open.spotify.com/track/31csQY8zl1aJGe8VISxq9e) | [Forge Hounds](https://open.spotify.com/artist/6528HmKaqCaf9tu3qdj70d) | [A Merry Jingle](https://open.spotify.com/album/4ZoDxu4sPUzk4QCqTwk8Qp) | 3:08 | 2025-12-23 |  |
 | [A Moment](https://open.spotify.com/track/5aMPoMGGjFRnqHr2vRW58s) | [Dawn Muzik Legionnaires](https://open.spotify.com/artist/0PoD2dNSuiKzEst4CfIwOl) | [A Moment](https://open.spotify.com/album/5aeAUQQ0g5l7aRy9LjSTyP) | 3:22 | 2025-11-17 |  |
 | [A New Year's Wish](https://open.spotify.com/track/5lucHdCCRBRyUI1TLtQzCm) | [Amelina](https://open.spotify.com/artist/2KB8CcoEbyUA0hP58619Iu) | [A New Year's Wish](https://open.spotify.com/album/64tDh5YS9ykrr9YyfGUJb3) | 2:58 | 2025-11-17 |  |
+| [Activate](https://open.spotify.com/track/7z8LVNE8KvsW4gOGXLAqRU) | [Torppsbride](https://open.spotify.com/artist/4AajIi9uAigYLb5TuldkdU) | [Activate](https://open.spotify.com/album/61st6LFxSJ2AsSjKDOaws0) | 3:40 | 2025-12-28 |  |
 | [After After Party](https://open.spotify.com/track/14cqxwBO5l313iuxce8zsh) | [Rique Riq](https://open.spotify.com/artist/3mVXAbJ1VvEs1DpdC6tHLT) | [No Rest 'Til Sunrise](https://open.spotify.com/album/3c7ImHtPFFtTTZTM7DbaWp) | 2:44 | 2025-11-17 |  |
 | [Agony](https://open.spotify.com/track/0DEQ43RK58T3EkmKP9q2KF) | [N£GRA](https://open.spotify.com/artist/3mL5x6RnF0pJ8dBSU1beSW) | [Voices/Agony](https://open.spotify.com/album/2aqLQJUqJTafF3BVEjXpke) | 2:01 | 2025-12-24 |  |
 | [Algo en Tu Manera de Actuar](https://open.spotify.com/track/1ELDTs0rLA7WRNGonS8OwQ) | [GOE](https://open.spotify.com/artist/4SrGQeETnkwVwPiLg81ywM), [Landeau](https://open.spotify.com/artist/0otWBEumpSn8AuuEA2ckEO) | [Algo en Tu Manera de Actuar](https://open.spotify.com/album/4TVYEYJAf4CT2NIPjY9x8x) | 2:51 | 2025-11-01 | 2025-12-01 |
@@ -41,8 +42,10 @@
 | [Banana Trees And Heart Deals](https://open.spotify.com/track/4hgHjUTRvAm4qAKYmkHvUN) | [Matty Mannant](https://open.spotify.com/artist/7Md4vnO1EzzzwN716kEXtR) | [Banana Trees And Heart Deals](https://open.spotify.com/album/68m2WfcBHGBgA4rkWRYwFX) | 3:59 | 2025-11-17 |  |
 | [Bangkok Jam](https://open.spotify.com/track/3bt6ASkwDUQOcIrQf4ufFS) | [John Taratsas](https://open.spotify.com/artist/4VkfNtbWEZMiOMm4NjNPnf) | [Bangkok Jam](https://open.spotify.com/album/2lldcVHNQyPzeWFrNZo0Oq) | 3:05 | 2025-11-08 | 2025-12-01 |
 | [Basic](https://open.spotify.com/track/4qdJ0mJWPcCPa1RRb60rRh) | [Slŷer](https://open.spotify.com/artist/0Uh5rHqSoGYI2ofi8Rg2Kl), [Sageyfløw](https://open.spotify.com/artist/3UxbWeCiwFa7OacJ9kBo1I) | [Basic](https://open.spotify.com/album/1GPw5LjkmlNd2ai8cXccfo) | 3:40 | 2025-12-23 |  |
+| [beautiful](https://open.spotify.com/track/0HHlGXEynhwIkMLFEXzduC) | [briann](https://open.spotify.com/artist/0iOzH7JDn5rKOLMTuyscWx) | [always you](https://open.spotify.com/album/0rBDqg3aoHRz3TaOElSjfL) | 2:31 | 2025-12-28 |  |
 | [Beautiful Girl](https://open.spotify.com/track/0GAPwPYqnrNZSHQLVkvSJd) | [RayNay](https://open.spotify.com/artist/0ggALYAP0ou6MOkFBDWNBg) | [Beautiful Girl](https://open.spotify.com/album/5IVREI1bhPqSeTug9WM9k9) | 3:00 | 2025-11-01 | 2025-12-01 |
 | [Bet that](https://open.spotify.com/track/18qtR7u4LsdxpE5klxjSDk) | [Kolé](https://open.spotify.com/artist/5VDjK8aCkf2lBzHEolVdsd) | [Bet that](https://open.spotify.com/album/56z9uaeTezKa2eK4gnMUxW) | 1:45 | 2025-11-13 |  |
+| [Better Just Relax](https://open.spotify.com/track/3IVYIsdtWlJ55ikYEZvDYa) | [Max King](https://open.spotify.com/artist/2pRzdE3d9WKYHEQFLsGXYR) | [Better Just Relax](https://open.spotify.com/album/27vTQbtzfTvs2LHSow67pY) | 1:44 | 2025-12-28 |  |
 | [Big Momma's Door](https://open.spotify.com/track/4Ly3A5E1Bq2pKhODzTPO7z) | [CHOCA BLUES](https://open.spotify.com/artist/3cCPBFA3njtllaTGO7Av2W) | [Big Momma's Door](https://open.spotify.com/album/4ocODwLGtZNiHIVZqrSgsj) | 5:13 | 2025-12-22 |  |
 | [Black Butterfly](https://open.spotify.com/track/1ayzm5eskvnKXY9aqL927Y) | [Rafael Vidal Lykova](https://open.spotify.com/artist/7jFo2dnzVJ2XpI3e9AcDWA) | [Black Butterfly](https://open.spotify.com/album/0t79bLTGTN3IjGFmusISln) | 2:22 | 2025-12-04 |  |
 | [Blue Pill](https://open.spotify.com/track/0ipO5eSuRjb8jWRuKHk2La) | [PAOLA](https://open.spotify.com/artist/2sk7Ti4LsPXdgjRWJ5k6Ny) | [Blue Pill](https://open.spotify.com/album/3mIVDAuuN0hAZOSDLWnbHx) | 2:50 | 2025-12-04 |  |
@@ -159,6 +162,7 @@
 | [Love is](https://open.spotify.com/track/47fnHzZbyVzoun68XD6ZV0) | [K W Hoffman](https://open.spotify.com/artist/11NQwwc952s3dgAPbR5VPD) | [Love is](https://open.spotify.com/album/7xboQruZ4Wj5ypbkTR3ZQT) | 2:24 | 2025-11-11 | 2025-12-01 |
 | [Love Tonight](https://open.spotify.com/track/24LroYc70p1LPRPopx3aHE) | [NVRLOST](https://open.spotify.com/artist/0yYG6VreNZ9fejgZJ6E4mp) | [Love Tonight](https://open.spotify.com/album/6qJheHApTmfSSEZll1zYiC) | 3:25 | 2025-11-17 |  |
 | [LOVEBOMB](https://open.spotify.com/track/6bfOFAwjQ6I4hYOZsRRnUs) | [Pablopatodo](https://open.spotify.com/artist/14owTErTcmgIPS30z27tBA) | [LOVEBOMB](https://open.spotify.com/album/0JZTsRbdWFw66wIWymC6wD) | 3:10 | 2025-11-01 | 2025-12-01 |
+| [LoveFool](https://open.spotify.com/track/7bUmp4xom3geI8bSPuK0tX) | [Delilah Earnshaw](https://open.spotify.com/artist/4GgoJ6xVN57Qb2STzpdgj2) | [LoveFool](https://open.spotify.com/album/0vxN32E176x1p4ayKQcCqI) | 4:29 | 2025-12-28 |  |
 | [Lovekomotive](https://open.spotify.com/track/5ca7KsClrlVTDjnximVi7Z) | [ANNAPURNA](https://open.spotify.com/artist/024P13nvZpteU80GYonzzQ) | [Lovekomotive](https://open.spotify.com/album/7oi4Z60udYyTT4UnREzG9L) | 3:33 | 2025-11-08 | 2025-12-01 |
 | [Lullaby](https://open.spotify.com/track/0xlQiqmo1CwSh91tdZJEcX) | [Malsi](https://open.spotify.com/artist/5OoYbo66Y6ME5Wz2kfTLQe) | [Lullaby](https://open.spotify.com/album/3OBBl1ToG3HODWBWQ6802q) | 5:25 | 2025-12-23 |  |
 | [Límite \- Remix](https://open.spotify.com/track/6nJU2atw4dO9QUrWUbTwtA) | [Javzye](https://open.spotify.com/artist/1AM71cIOWu0sM8D6yju4xX), [Insi](https://open.spotify.com/artist/3EM8X2biSQbmXUiC1WmfsD) | [Límite \(Remix\)](https://open.spotify.com/album/5xUQ1y5NYqmxUlPuS1mfl3) | 3:03 | 2025-11-11 | 2025-12-01 |
@@ -172,9 +176,11 @@
 | [Month of Sundays](https://open.spotify.com/track/3X94qBZxPJTmftEscfOpOr) | [Echomatica](https://open.spotify.com/artist/75uNvdIOOLgUT6Gs2hkRVQ) | [Month of Sundays](https://open.spotify.com/album/2aJDiRQCdqr0P7ZDjuPS55) | 3:57 | 2025-11-01 | 2025-12-01 |
 | [MORE](https://open.spotify.com/track/7b67qEURJqOSa37ZLTga6a) | [Poppa Wafer](https://open.spotify.com/artist/6pdp6ZiucSXbdIF3Uu7kRU) | [Righteous Revelation 4](https://open.spotify.com/album/3H9OZxrzKPQ0jpNAphEdRB) | 2:10 | 2025-11-24 |  |
 | [My Gs](https://open.spotify.com/track/50yx93SX2bty8HVLCeCqSS) | [AME LDN](https://open.spotify.com/artist/2vIktnk8ayfNgBq1dhU4ZD) | [My Gs](https://open.spotify.com/album/5zEXp03VqQXy0TCvwnCS6U) | 2:30 | 2025-11-10 | 2025-12-01 |
+| [My Own World](https://open.spotify.com/track/23hwOGWChFPALZdX4dYFlC) | [Impulse Bangs](https://open.spotify.com/artist/3QbpC7UT2TgsfZ9Qpyvcbp) | [My Own World](https://open.spotify.com/album/38prmH5z5AS3n7yKCXig8m) | 3:50 | 2025-12-28 |  |
 | [My Wings](https://open.spotify.com/track/4uvvxklqvcOxTrNdvnZTco) | [Bliss On The Stars](https://open.spotify.com/artist/6mVn8YjdSG1C5PxcksAeiU) | [My Wings](https://open.spotify.com/album/5YBEL7PVdJsWTwPOBxlpCQ) | 4:24 | 2025-11-03 | 2025-12-01 |
 | [Nebular \- Radio Edit](https://open.spotify.com/track/315OXgioK5tVKmhQkcWPQL) | [Aniderev](https://open.spotify.com/artist/46FaRfT6nNVUzxhZrCBJ9z) | [Nebular \(Radio Edit\)](https://open.spotify.com/album/3U7EGF3H1xi7wKx4RTOiGD) | 3:00 | 2025-11-17 |  |
 | [Need To Know](https://open.spotify.com/track/0BOkxcQkVnyudtX8g5RSVi) | [Tha Reason Bars](https://open.spotify.com/artist/272hEekCAPlTWpqM4Mv6D1) | [Time Trials](https://open.spotify.com/album/3KNPBIJpxFh4uh1dYkKwcx) | 2:56 | 2025-11-03 | 2025-12-01 |
+| [Night After Night](https://open.spotify.com/track/1XDirGFSQxJOw7Lt37Plfm) | [Theo Ford](https://open.spotify.com/artist/2ohDR2ERUEVCG3RgeXSS7S) | [Timelapse](https://open.spotify.com/album/71NZkMm8F19VNaLbFDQkYE) | 5:04 | 2025-12-28 |  |
 | [No puedo pensar](https://open.spotify.com/track/2QWqsVpYnzMgUeIl2JCvNC) | [Carles Giuliani](https://open.spotify.com/artist/0mIqIlApPH7AVy5DO1Q3A0), [Caro Norte](https://open.spotify.com/artist/4wYRZ47TgRCFTlGuP27e2t) | [No puedo pensar](https://open.spotify.com/album/05DkJnHEO5uj6HRavpncNw) | 2:35 | 2025-11-17 |  |
 | [Nocturne](https://open.spotify.com/track/0nBPCrqxDHWR8leTgH7aFk) | [ASHE](https://open.spotify.com/artist/5xTp3xrqM94mOTJdfOAUP8) | [Nocturne / Wintermute](https://open.spotify.com/album/1fBhQYKqo508kLWAxpFoGm) | 3:28 | 2025-11-08 | 2025-12-01 |
 | [Not a Moment](https://open.spotify.com/track/3xJfZkI3APO8NYKKGCPiZu) | [Rob De Santis](https://open.spotify.com/artist/6u32qUBZnBH6bZFxm0kemC) | [Not a Moment](https://open.spotify.com/album/6Bn0R6sA52tNWW2P4eRpPU) | 2:26 | 2025-11-01 | 2025-12-01 |
@@ -185,6 +191,7 @@
 | [online](https://open.spotify.com/track/3BzxQivN0x4x3JuLfYFkWi) | [Derkio](https://open.spotify.com/artist/6xAtLIBTpWdHrQczoHef7W) | [online](https://open.spotify.com/album/17gqNoTRTvng56g69iwHQ7) | 1:45 | 2025-11-22 |  |
 | [Oración](https://open.spotify.com/track/4U1IuXpV9IQaLJ5tOObnpG) | [Ziara](https://open.spotify.com/artist/0obWSB8D1Q4TnshJIvXW4p) | [Oración](https://open.spotify.com/album/42PcjhcW1EaV2V2rX2CpND) | 2:39 | 2025-12-22 |  |
 | [Out of My Head](https://open.spotify.com/track/5qAl5Z38toPiMucpIJr20z) | [TERRYBYLE](https://open.spotify.com/artist/7K2VzqINjhPCownMrZ9Hr4) | [Out of My Head](https://open.spotify.com/album/5Z3RNFwJKXBuRLwbciu0hC) | 2:57 | 2025-12-09 |  |
+| [Paranoia](https://open.spotify.com/track/6CM6qw4O87GLSeB3QN5qNK) | [ADAD Audio](https://open.spotify.com/artist/5E6ZCRSMAyeT15BqrWOdy5) | [Paranoia](https://open.spotify.com/album/2LMkARZTUDgGgbaiexYWsH) | 3:24 | 2025-12-28 |  |
 | [Perdu dans ma toile](https://open.spotify.com/track/7MrFMCAUuaOe2qDvzAJJMH) | [Deladjaya trio](https://open.spotify.com/artist/4LDCQbS3K5R9uKaSFtcB2r) | [Album, No\. 1](https://open.spotify.com/album/1lIQtgbBGZasEbhnF7JtbD) | 3:43 | 2025-12-23 |  |
 | [Persephone](https://open.spotify.com/track/54bU2JvnZ03zsHNaNaU98v) | [The Night Herons](https://open.spotify.com/artist/4L6aCmOtfPzMjIfCNukBK0) | [Persephone](https://open.spotify.com/album/4jwuM7kTSJEE7IHelVBVnw) | 4:08 | 2025-11-17 |  |
 | [Picket Fences On Fire](https://open.spotify.com/track/7wTmXJVVrhDYpYXceSNupJ) | [Crooked Cat Adams](https://open.spotify.com/artist/3bJ6ZrdsE17kTt9hqQV42i) | [Hernando County, F.L.A](https://open.spotify.com/album/0bTEZg0TQmkwnBwG73LRiW) | 5:04 | 2025-11-24 |  |

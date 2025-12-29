@@ -899,6 +899,38 @@
     {
       "added_at": "2025-12-23 16:05:06",
       "album": {
+        "name": "\u5171\u72af\u8005",
+        "url": "https://open.spotify.com/album/0xqedXwS4p3NdG7NNS0n0i"
+      },
+      "artists": [
+        {
+          "name": "\u540d\u8a89\u4f1d\u8aac",
+          "url": "https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD"
+        }
+      ],
+      "duration_ms": 150833,
+      "name": "\u5171\u72af\u8005",
+      "url": "https://open.spotify.com/track/3L02mPxuIbCb0HIT1ACVYF"
+    },
+    {
+      "added_at": "2025-12-23 16:05:06",
+      "album": {
+        "name": "Romance",
+        "url": "https://open.spotify.com/album/7qwqc4f7y6idyzVO8V7V22"
+      },
+      "artists": [
+        {
+          "name": "\u30de\u30eb\u30b7\u30a3",
+          "url": "https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV"
+        }
+      ],
+      "duration_ms": 187746,
+      "name": "Romance",
+      "url": "https://open.spotify.com/track/0qEDgqxgkPprdzzKxa0Bh6"
+    },
+    {
+      "added_at": "2025-12-23 16:05:06",
+      "album": {
         "name": "UPDATE",
         "url": "https://open.spotify.com/album/53aecon3Jd1aqr46eM6gQs"
       },
@@ -923,38 +955,6 @@
       "duration_ms": 157223,
       "name": "UPDATE",
       "url": "https://open.spotify.com/track/71tc4YLi11GNRWf9Zxd31f"
-    },
-    {
-      "added_at": "2025-12-23 16:05:06",
-      "album": {
-        "name": "Romance",
-        "url": "https://open.spotify.com/album/7qwqc4f7y6idyzVO8V7V22"
-      },
-      "artists": [
-        {
-          "name": "\u30de\u30eb\u30b7\u30a3",
-          "url": "https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV"
-        }
-      ],
-      "duration_ms": 187746,
-      "name": "Romance",
-      "url": "https://open.spotify.com/track/0qEDgqxgkPprdzzKxa0Bh6"
-    },
-    {
-      "added_at": "2025-12-23 16:05:06",
-      "album": {
-        "name": "\u5171\u72af\u8005",
-        "url": "https://open.spotify.com/album/0xqedXwS4p3NdG7NNS0n0i"
-      },
-      "artists": [
-        {
-          "name": "\u540d\u8a89\u4f1d\u8aac",
-          "url": "https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD"
-        }
-      ],
-      "duration_ms": 150833,
-      "name": "\u5171\u72af\u8005",
-      "url": "https://open.spotify.com/track/3L02mPxuIbCb0HIT1ACVYF"
     },
     {
       "added_at": "2025-12-23 16:05:06",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2025-12-23 16:05:06",
       "album": {
-        "name": "\u93e1\u3088\u93e1",
-        "url": "https://open.spotify.com/album/4VxZf7TIjbjt3zzQzGcesI"
-      },
-      "artists": [
-        {
-          "name": "YUTORI-SEDAI",
-          "url": "https://open.spotify.com/artist/74ZODUscO84OjAiQwj4V9G"
-        }
-      ],
-      "duration_ms": 252620,
-      "name": "\u93e1\u3088\u93e1",
-      "url": "https://open.spotify.com/track/1uwKym8nRJTOth3KYqU5Ja"
-    },
-    {
-      "added_at": "2025-12-23 16:05:06",
-      "album": {
         "name": "Funky Lovely Girl",
         "url": "https://open.spotify.com/album/7AjNWrJY5Psf79navIAE1p"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 167159,
       "name": "\u6570%\u306e\u30cf\u30c3\u30d4\u30fc\u30a8\u30f3\u30c9",
       "url": "https://open.spotify.com/track/2wFmqdthegwo0W1KDS92mG"
+    },
+    {
+      "added_at": "2025-12-23 16:05:06",
+      "album": {
+        "name": "\u93e1\u3088\u93e1",
+        "url": "https://open.spotify.com/album/4VxZf7TIjbjt3zzQzGcesI"
+      },
+      "artists": [
+        {
+          "name": "YUTORI-SEDAI",
+          "url": "https://open.spotify.com/artist/74ZODUscO84OjAiQwj4V9G"
+        }
+      ],
+      "duration_ms": 252620,
+      "name": "\u93e1\u3088\u93e1",
+      "url": "https://open.spotify.com/track/1uwKym8nRJTOth3KYqU5Ja"
     },
     {
       "added_at": "2025-12-23 16:05:06",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2025-12-23 16:05:06",
       "album": {
-        "name": "\u7d76\u547d",
-        "url": "https://open.spotify.com/album/7JPyPAGHYOuc1NL5VhxYbz"
-      },
-      "artists": [
-        {
-          "name": "\u795e\u304c\u6b8b\u3057\u305f\u5922\u3092\u55b0\u3046\u3002",
-          "url": "https://open.spotify.com/artist/0tWJYjocqKq3vZ1EL2Yc0o"
-        }
-      ],
-      "duration_ms": 276705,
-      "name": "\u7d76\u547d",
-      "url": "https://open.spotify.com/track/2vVl8HMaKTH4iv3HD70JjP"
-    },
-    {
-      "added_at": "2025-12-23 16:05:06",
-      "album": {
         "name": "\u611b\u3057\u3066\u308b\u3063\u3066\u5618\u3064\u3044\u305f",
         "url": "https://open.spotify.com/album/6tGdCjC6xKBAHg2o2LKWss"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 170602,
       "name": "\u611b\u3057\u3066\u308b\u3063\u3066\u5618\u3064\u3044\u305f",
       "url": "https://open.spotify.com/track/5IPSx9FDU5qvx9rZVj6vdv"
+    },
+    {
+      "added_at": "2025-12-23 16:05:06",
+      "album": {
+        "name": "\u7d76\u547d",
+        "url": "https://open.spotify.com/album/7JPyPAGHYOuc1NL5VhxYbz"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u304c\u6b8b\u3057\u305f\u5922\u3092\u55b0\u3046\u3002",
+          "url": "https://open.spotify.com/artist/0tWJYjocqKq3vZ1EL2Yc0o"
+        }
+      ],
+      "duration_ms": 276705,
+      "name": "\u7d76\u547d",
+      "url": "https://open.spotify.com/track/2vVl8HMaKTH4iv3HD70JjP"
     },
     {
       "added_at": "2025-12-23 16:05:06",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2025-12-23 16:05:06",
       "album": {
-        "name": "\u7247\u60f3\u3044\u30c8\u30ea\u30c3\u30d7",
-        "url": "https://open.spotify.com/album/63Sxmw5ldkRVOk5yiRARBn"
-      },
-      "artists": [
-        {
-          "name": "berry meet",
-          "url": "https://open.spotify.com/artist/59LkGYlqNpJJislvdaOi7m"
-        }
-      ],
-      "duration_ms": 176506,
-      "name": "\u7247\u60f3\u3044\u30c8\u30ea\u30c3\u30d7",
-      "url": "https://open.spotify.com/track/69ZuItVMLZ5SHpiYEW6Fca"
-    },
-    {
-      "added_at": "2025-12-23 16:05:06",
-      "album": {
         "name": "kurayamisaka yori ai wo komete",
         "url": "https://open.spotify.com/album/3k5hd3HIF4JDYfxQICHnhP"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 238250,
       "name": "metro",
       "url": "https://open.spotify.com/track/5HwvwLQCtv2BTAHSC1mCgP"
+    },
+    {
+      "added_at": "2025-12-23 16:05:06",
+      "album": {
+        "name": "\u7247\u60f3\u3044\u30c8\u30ea\u30c3\u30d7",
+        "url": "https://open.spotify.com/album/63Sxmw5ldkRVOk5yiRARBn"
+      },
+      "artists": [
+        {
+          "name": "berry meet",
+          "url": "https://open.spotify.com/artist/59LkGYlqNpJJislvdaOi7m"
+        }
+      ],
+      "duration_ms": 176506,
+      "name": "\u7247\u60f3\u3044\u30c8\u30ea\u30c3\u30d7",
+      "url": "https://open.spotify.com/track/69ZuItVMLZ5SHpiYEW6Fca"
     },
     {
       "added_at": "2025-12-23 16:05:06",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2025-12-23 16:05:06",
       "album": {
-        "name": "\u30e9\u30d7\u30bd\u30c7\u30a3",
-        "url": "https://open.spotify.com/album/3pXLBsa2XGNPNGwRlhqV4I"
-      },
-      "artists": [
-        {
-          "name": "BILLY BOO",
-          "url": "https://open.spotify.com/artist/22RzKvEl3GXukiDDKub9Ey"
-        }
-      ],
-      "duration_ms": 221471,
-      "name": "\u30e9\u30d7\u30bd\u30c7\u30a3",
-      "url": "https://open.spotify.com/track/1UELk4WT2YPMrjFGttcBHR"
-    },
-    {
-      "added_at": "2025-12-23 16:05:06",
-      "album": {
         "name": "Underclass HERO",
         "url": "https://open.spotify.com/album/3yPtvypfL1CxNnxeztlNQh"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 218840,
       "name": "Underclass HERO",
       "url": "https://open.spotify.com/track/0tWhtN7KksQk7HzzxMawVY"
+    },
+    {
+      "added_at": "2025-12-23 16:05:06",
+      "album": {
+        "name": "\u30e9\u30d7\u30bd\u30c7\u30a3",
+        "url": "https://open.spotify.com/album/3pXLBsa2XGNPNGwRlhqV4I"
+      },
+      "artists": [
+        {
+          "name": "BILLY BOO",
+          "url": "https://open.spotify.com/artist/22RzKvEl3GXukiDDKub9Ey"
+        }
+      ],
+      "duration_ms": 221471,
+      "name": "\u30e9\u30d7\u30bd\u30c7\u30a3",
+      "url": "https://open.spotify.com/track/1UELk4WT2YPMrjFGttcBHR"
     },
     {
       "added_at": "2025-12-23 16:05:06",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2025-12-23 16:05:06",
       "album": {
-        "name": "Trooper Salute 2",
-        "url": "https://open.spotify.com/album/5r9Ysu2h2WSv26ArIAzX5j"
-      },
-      "artists": [
-        {
-          "name": "Trooper Salute",
-          "url": "https://open.spotify.com/artist/7mPU5YS06Msig34yoAHBHL"
-        }
-      ],
-      "duration_ms": 387538,
-      "name": "\u5fd8\u308c\u3066\u3057\u307e\u3044\u305d\u3046",
-      "url": "https://open.spotify.com/track/7ANRDMXL1yKnJ5pGwuvXAU"
-    },
-    {
-      "added_at": "2025-12-23 16:05:06",
-      "album": {
         "name": "Law of Luv",
         "url": "https://open.spotify.com/album/0NBzsGGKXGhz8KmKqT3TBP"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 202266,
       "name": "Law of Luv",
       "url": "https://open.spotify.com/track/53lpqhUS0T6J1N3TmIRt1r"
+    },
+    {
+      "added_at": "2025-12-23 16:05:06",
+      "album": {
+        "name": "Trooper Salute 2",
+        "url": "https://open.spotify.com/album/5r9Ysu2h2WSv26ArIAzX5j"
+      },
+      "artists": [
+        {
+          "name": "Trooper Salute",
+          "url": "https://open.spotify.com/artist/7mPU5YS06Msig34yoAHBHL"
+        }
+      ],
+      "duration_ms": 387538,
+      "name": "\u5fd8\u308c\u3066\u3057\u307e\u3044\u305d\u3046",
+      "url": "https://open.spotify.com/track/7ANRDMXL1yKnJ5pGwuvXAU"
     },
     {
       "added_at": "2025-12-23 16:05:06",

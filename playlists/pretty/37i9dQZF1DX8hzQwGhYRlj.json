@@ -1,6 +1,6 @@
 {
   "description": "A collection of Grieg's finest songs, symphonies and suites.",
-  "num_followers": 39158,
+  "num_followers": 39168,
   "original_name": "This Is Grieg",
   "owner": {
     "name": "Spotify",
@@ -459,6 +459,26 @@
     {
       "added_at": "2025-12-15 11:39:00",
       "album": {
+        "name": "Gerhard Oppitz Plays Grieg",
+        "url": "https://open.spotify.com/album/2TEq61StuXFLgKnRdwogrV"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Gerhard Oppitz",
+          "url": "https://open.spotify.com/artist/6aldsrorHXbSzvcLUnqweo"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Lyrische St\u00fccke Op. 62 (Band/Volume VII): Hjemad/Heimw\u00e4rts/Homeward",
+      "url": "https://open.spotify.com/track/6z6h8KMepdWCnhUor7sSlB"
+    },
+    {
+      "added_at": "2025-12-15 11:39:00",
+      "album": {
         "name": "Sibelius: Karelia Suite; Swan of Tuonela/Grieg: Holberg Suite",
         "url": "https://open.spotify.com/album/0UEtCD7OMAWij6pzFxjbz8"
       },
@@ -483,26 +503,6 @@
       "duration_ms": 243000,
       "name": "Holberg Suite, Op. 40: 5. Rigaudon (Allegro con brio)",
       "url": "https://open.spotify.com/track/2fPsJT9Q1d5ferqW3brhQP"
-    },
-    {
-      "added_at": "2025-12-15 11:39:00",
-      "album": {
-        "name": "Gerhard Oppitz Plays Grieg",
-        "url": "https://open.spotify.com/album/2TEq61StuXFLgKnRdwogrV"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Gerhard Oppitz",
-          "url": "https://open.spotify.com/artist/6aldsrorHXbSzvcLUnqweo"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Lyrische St\u00fccke Op. 62 (Band/Volume VII): Hjemad/Heimw\u00e4rts/Homeward",
-      "url": "https://open.spotify.com/track/6z6h8KMepdWCnhUor7sSlB"
     },
     {
       "added_at": "2025-12-15 11:39:00",
@@ -623,26 +623,6 @@
     {
       "added_at": "2025-12-15 11:39:00",
       "album": {
-        "name": "The Long, Long Winter Night",
-        "url": "https://open.spotify.com/album/7Acie5cNav6oF3DpHw0GmO"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Leif Ove Andsnes",
-          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
-        }
-      ],
-      "duration_ms": 71773,
-      "name": "Grieg: Norwegian Peasant Dances, Op. 72: No. 6, Gangar",
-      "url": "https://open.spotify.com/track/7eZ7nqIC6eP9e3H234aOP7"
-    },
-    {
-      "added_at": "2025-12-15 11:39:00",
-      "album": {
         "name": "Grieg: Lyric Pieces; Sonata; Fugues",
         "url": "https://open.spotify.com/album/17YxMaI0YHCEWsmoslhZt8"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 181506,
       "name": "Lyric Pieces, Op. 43: VI. To the Spring",
       "url": "https://open.spotify.com/track/7FdTdDt7bRTFo4x4hmdadD"
+    },
+    {
+      "added_at": "2025-12-15 11:39:00",
+      "album": {
+        "name": "The Long, Long Winter Night",
+        "url": "https://open.spotify.com/album/7Acie5cNav6oF3DpHw0GmO"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Leif Ove Andsnes",
+          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
+        }
+      ],
+      "duration_ms": 71773,
+      "name": "Grieg: Norwegian Peasant Dances, Op. 72: No. 6, Gangar",
+      "url": "https://open.spotify.com/track/7eZ7nqIC6eP9e3H234aOP7"
     },
     {
       "added_at": "2025-12-15 11:39:00",
@@ -751,26 +751,6 @@
     {
       "added_at": "2025-12-15 11:39:00",
       "album": {
-        "name": "Grieg: Piano, Orchestral & Vocal Works, Chamber Music",
-        "url": "https://open.spotify.com/album/37zUluscLmlk6u8RqrO6Cl"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Leif Ove Andsnes",
-          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
-        }
-      ],
-      "duration_ms": 151320,
-      "name": "Grieg: Moods, Op. 73: No. 4, Folk Song",
-      "url": "https://open.spotify.com/track/1Gto2d2iJfpjeP8BAJSDKq"
-    },
-    {
-      "added_at": "2025-12-15 11:39:00",
-      "album": {
         "name": "Grieg: Piano Concerto, 6 Lyric Pieces - Liszt: Piano Concerto No. 2",
         "url": "https://open.spotify.com/album/1jcvJYlu0jBIIpk6oEFbJ8"
       },
@@ -791,8 +771,8 @@
     {
       "added_at": "2025-12-15 11:39:00",
       "album": {
-        "name": "Grieg: Lyric Pieces",
-        "url": "https://open.spotify.com/album/09HVxdeBom5icaAZMD0HcB"
+        "name": "Grieg: Piano, Orchestral & Vocal Works, Chamber Music",
+        "url": "https://open.spotify.com/album/37zUluscLmlk6u8RqrO6Cl"
       },
       "artists": [
         {
@@ -804,9 +784,9 @@
           "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
         }
       ],
-      "duration_ms": 90800,
-      "name": "Grieg: Lyric Pieces, Book 1, Op. 12: No. 5, Popular Melody",
-      "url": "https://open.spotify.com/track/4Hzok2BRQl1SGHHbMLJTuH"
+      "duration_ms": 151320,
+      "name": "Grieg: Moods, Op. 73: No. 4, Folk Song",
+      "url": "https://open.spotify.com/track/1Gto2d2iJfpjeP8BAJSDKq"
     },
     {
       "added_at": "2025-12-15 11:39:00",
@@ -827,6 +807,26 @@
       "duration_ms": 188000,
       "name": "Lyric Pieces Book V, Op. 54: VI. Bellringing",
       "url": "https://open.spotify.com/track/5qcM4MqtNkPQZoKncxM4NW"
+    },
+    {
+      "added_at": "2025-12-15 11:39:00",
+      "album": {
+        "name": "Grieg: Lyric Pieces",
+        "url": "https://open.spotify.com/album/09HVxdeBom5icaAZMD0HcB"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Leif Ove Andsnes",
+          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
+        }
+      ],
+      "duration_ms": 90800,
+      "name": "Grieg: Lyric Pieces, Book 1, Op. 12: No. 5, Popular Melody",
+      "url": "https://open.spotify.com/track/4Hzok2BRQl1SGHHbMLJTuH"
     },
     {
       "added_at": "2025-12-15 11:39:00",
@@ -1024,9 +1024,9 @@
           "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
         }
       ],
-      "duration_ms": 52560,
-      "name": "Grieg: Lyric Pieces, Book 1, Op. 12: No. 6, Norwegian Melody",
-      "url": "https://open.spotify.com/track/4Sm3AzwkclMn60ABCbOOjm"
+      "duration_ms": 123040,
+      "name": "Grieg: Lyric Pieces, Book 1, Op. 12: No. 2, Waltz",
+      "url": "https://open.spotify.com/track/33dThKUU3l6iWmefKLfe0I"
     },
     {
       "added_at": "2025-12-15 11:39:00",
@@ -1044,9 +1044,9 @@
           "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
         }
       ],
-      "duration_ms": 123040,
-      "name": "Grieg: Lyric Pieces, Book 1, Op. 12: No. 2, Waltz",
-      "url": "https://open.spotify.com/track/33dThKUU3l6iWmefKLfe0I"
+      "duration_ms": 52560,
+      "name": "Grieg: Lyric Pieces, Book 1, Op. 12: No. 6, Norwegian Melody",
+      "url": "https://open.spotify.com/track/4Sm3AzwkclMn60ABCbOOjm"
     },
     {
       "added_at": "2025-12-15 11:39:00",

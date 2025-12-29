@@ -1,12 +1,12 @@
 {
   "description": "This is T.I BLAZE. The essential tracks, all in one playlist.",
-  "num_followers": 8195,
+  "num_followers": 8219,
   "original_name": "This Is T.I BLAZE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU3QAAAAAAA6BFVgh4S7YIbHRXJiG0Ls",
+  "snapshot_id": "aU8hgAAAAAD/HBzEJiw7bBvQkyqVoEU5",
   "tracks": [
     {
       "added_at": null,
@@ -283,22 +283,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sanity",
-        "url": "https://open.spotify.com/album/7EkD7BdTnfOHdh2nJR4Nry"
+        "name": "The Fresh Prince Of Lagos",
+        "url": "https://open.spotify.com/album/2TW9HhvTA2KZaPufW4XVoc"
       },
       "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        },
         {
           "name": "T.I BLAZE",
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         }
       ],
-      "duration_ms": 141674,
-      "name": "Run from God",
-      "url": "https://open.spotify.com/track/6mQ1sg28qoWd5Oa5dxzaZX"
+      "duration_ms": 133773,
+      "name": "Try",
+      "url": "https://open.spotify.com/track/5oMNkVjx1SEKvSUhL9It75"
     },
     {
       "added_at": null,
@@ -335,18 +331,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Fresh Prince Of Lagos",
-        "url": "https://open.spotify.com/album/2TW9HhvTA2KZaPufW4XVoc"
+        "name": "Sanity",
+        "url": "https://open.spotify.com/album/7EkD7BdTnfOHdh2nJR4Nry"
       },
       "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
         {
           "name": "T.I BLAZE",
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         }
       ],
-      "duration_ms": 133773,
-      "name": "Try",
-      "url": "https://open.spotify.com/track/5oMNkVjx1SEKvSUhL9It75"
+      "duration_ms": 141674,
+      "name": "Run from God",
+      "url": "https://open.spotify.com/track/6mQ1sg28qoWd5Oa5dxzaZX"
     },
     {
       "added_at": null,

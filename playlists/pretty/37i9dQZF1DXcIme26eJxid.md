@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIme26eJxid.md) - [plain]
 
 > The most known Afro\-pop classics, all in one place! Cover: Lijadu Sisters
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,714 likes - 40 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,761 likes - 40 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,13 +22,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIme26eJxid.md) - [plain]
 | 12 | [Happy Birthday](https://open.spotify.com/track/6GkCK4jJhwQDOnGKXxmvmN) | [Evi\-Edna Ogholi](https://open.spotify.com/artist/0anRNdIauPbIhAdygRLJVL) | [Happy Birthday](https://open.spotify.com/album/02FKQ2rc5f7XmB03EcFN4m) | 5:39 |
 | 13 | [Scatterlings Of Africa](https://open.spotify.com/track/4KYClqpx2nuv8BAiRLxGrn) | [Savuka](https://open.spotify.com/artist/3UDSQSzFctmDSlmY75BWV7), [Johnny Clegg](https://open.spotify.com/artist/7idPv1alc0mcEhEsKlMV2O) | [Rain Man: Original Motion Picture Soundtrack](https://open.spotify.com/album/12xXxQA56OgFFYlNc9ATJi) | 4:05 |
 | 14 | [Mother & Child](https://open.spotify.com/track/6orRF4wapRI8DM9ty9yxld) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl), [\)zzidi](https://open.spotify.com/artist/2ubZia1eKGp2eiMIEAJ36C) | [Ivory Music Classics, Vol\. 2](https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ) | 6:50 |
-| 15 | [Guitar Boy](https://open.spotify.com/track/2Sj8A8FS3wiv0B5pIFklg9) | [Sir Victor Uwaifo](https://open.spotify.com/artist/2hCi6vXJyyTG9szd63b4LU), [His Titibitis](https://open.spotify.com/artist/76SmGMAqB730ySrA79c6hm) | [The Best Of Victor Uwaifo, Vol\. 1](https://open.spotify.com/album/6J90hIcZh9EsJZmQa1YfLD) | 5:53 |
-| 16 | [Ja Funmi](https://open.spotify.com/track/7LLyEy0GVYBpziR5O06ZZv) | [King Sunny Ade](https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1) | [Juju Music](https://open.spotify.com/album/4BsMW0J2DUx9R9fP5TAEYs) | 7:08 |
+| 15 | [Ja Funmi](https://open.spotify.com/track/7LLyEy0GVYBpziR5O06ZZv) | [King Sunny Ade](https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1) | [Juju Music](https://open.spotify.com/album/4BsMW0J2DUx9R9fP5TAEYs) | 7:08 |
+| 16 | [Guitar Boy](https://open.spotify.com/track/2Sj8A8FS3wiv0B5pIFklg9) | [Sir Victor Uwaifo](https://open.spotify.com/artist/2hCi6vXJyyTG9szd63b4LU), [His Titibitis](https://open.spotify.com/artist/76SmGMAqB730ySrA79c6hm) | [The Best Of Victor Uwaifo, Vol\. 1](https://open.spotify.com/album/6J90hIcZh9EsJZmQa1YfLD) | 5:53 |
 | 17 | [Africa](https://open.spotify.com/track/3UiNahTo7xKY5qFY6Fgr0b) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | ["Folon".....The Past](https://open.spotify.com/album/1ban68aN7UrIS3MTKKp7SV) | 5:59 |
 | 18 | [I Like Your Style](https://open.spotify.com/track/7b0bir8Z4KyyBwQfBIjmYY) | [Tony Wilson](https://open.spotify.com/artist/0oe8eDAfRL99ncmLCQesif) | [I Like Your Style](https://open.spotify.com/album/3N9BeN0UCTwyHADo59PI0g) | 3:05 |
 | 19 | [Living Music](https://open.spotify.com/track/2e8OoF7KghSpQ1MdsX7sJd) | [Onyeka Onwenu](https://open.spotify.com/artist/0AsoglRr6rQ8DZEKWnBPz7) | [Ivory Music Classics, Vol\. 2](https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ) | 6:04 |
-| 20 | [Invitation Highlife](https://open.spotify.com/track/2B6kXQao1fw0ZOevX5fOA2) | [Victor Olaiya](https://open.spotify.com/artist/4VKeh6oDfqhDLx0MME7R7f) | [Three Decades Of Highlife \- The Best Of...](https://open.spotify.com/album/0HBRw1nvPUbFgkwnjwU9cB) | 3:22 |
-| 21 | [Ma Jaiye Oni](https://open.spotify.com/track/47ZKAaOco4DebMlGRzcvUn) | [King Sunny Ade](https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1) | [Juju Music](https://open.spotify.com/album/4BsMW0J2DUx9R9fP5TAEYs) | 5:07 |
+| 20 | [Ma Jaiye Oni](https://open.spotify.com/track/47ZKAaOco4DebMlGRzcvUn) | [King Sunny Ade](https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1) | [Juju Music](https://open.spotify.com/album/4BsMW0J2DUx9R9fP5TAEYs) | 5:07 |
+| 21 | [Invitation Highlife](https://open.spotify.com/track/2B6kXQao1fw0ZOevX5fOA2) | [Victor Olaiya](https://open.spotify.com/artist/4VKeh6oDfqhDLx0MME7R7f) | [Three Decades Of Highlife \- The Best Of...](https://open.spotify.com/album/0HBRw1nvPUbFgkwnjwU9cB) | 3:22 |
 | 22 | [Ohun Oju Ri Laye Medley, Pt\. 1](https://open.spotify.com/track/6gq9ZlCF97t0v9z3wH7Kez) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [51 Lex Presents Ohun Oju Ri Laye](https://open.spotify.com/album/03sTFyroMQHRK97zXQFgTL) | 17:06 |
 | 23 | [Baby Kilode](https://open.spotify.com/track/0PYDivZavH4ndRJB6E5iUu) | [Dizzy K Falola](https://open.spotify.com/artist/4QebwA96fgRFgzeXzx9dmj) | [Ivory Music Classics, Vol\. 2](https://open.spotify.com/album/0Vhl9WUTA5hBUWy6L6MsmQ) | 4:25 |
 | 24 | [Tire Ni Oluwa](https://open.spotify.com/track/5uHK9zXW1KGWnw9fRYLyq0) | [Sonny Okosun](https://open.spotify.com/artist/4ksts9wd24Oj0ReBiegoXl) | [3rd World](https://open.spotify.com/album/5OaZVrFg7EniD0OoPY88fE) | 8:21 |
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIme26eJxid.md) - [plain]
 | 33 | [Nkosi Sikelel' iAfrika \(Shosholoza Mix\)](https://open.spotify.com/track/4aMIL5JKiu1S4KwKbxRHsW) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [In Harmony](https://open.spotify.com/album/1WhjbycsaQwSF00lQbGEAr) | 3:30 |
 | 34 | [In Your Eyes](https://open.spotify.com/track/3MjmFVzp41XxLlKpkhfn4q) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I), [Youssou N'Dour](https://open.spotify.com/artist/77zlytAFjPFjUKda8TNIDY) | [Fatteliku \(Live in Athens 1987\)](https://open.spotify.com/album/2fGQaoN3YJJ2dU1YifNiqv) | 10:43 |
 | 35 | [Zombie](https://open.spotify.com/track/11GDQVqIEKAB4QKOcIVOvG) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR), [Afrika 70](https://open.spotify.com/artist/5lhLOXDLaw0yjEXd6xTasV) | [Zombie](https://open.spotify.com/album/4CGGf13zt9Jva2ia4CKQi6) | 12:25 |
-| 36 | [Orere\-Elejigbo](https://open.spotify.com/track/7Mi1P2r04F6iyOzrB3IOlR) | [The Lijadu Sisters](https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ) | [Horizon Unlimted](https://open.spotify.com/album/6NfAHT2xusXUA4E7WMj8HY) | 4:16 |
-| 37 | [Soul Makossa](https://open.spotify.com/track/4JaOd0NUBTckYFZMguuY7M) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Anthology](https://open.spotify.com/album/7uA2tEXRCXua5P7rcpEWLa) | 4:24 |
-| 38 | [Pata Pata](https://open.spotify.com/track/6rFHmnI9Vd2zUasDXuw59j) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Reflections](https://open.spotify.com/album/23nI37GDlJScXONSCGJo4r) | 3:02 |
-| 39 | [Disco Dancer](https://open.spotify.com/track/1np1H7mh6iUZhdBhkh3QIo) | [Kiki Gyan](https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy) | [24 Hours in a Disco 1978\-82](https://open.spotify.com/album/2f2AauWieTBpHDodyHYOcB) | 6:56 |
+| 36 | [Heaven](https://open.spotify.com/track/6lx5aHjUesS2XEyLxXknLQ) | [Ebo Taylor](https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI) | [Life Stories](https://open.spotify.com/album/5vf9w7uDuKx6FbaC82TlYg) | 6:05 |
+| 37 | [Orere\-Elejigbo](https://open.spotify.com/track/7Mi1P2r04F6iyOzrB3IOlR) | [The Lijadu Sisters](https://open.spotify.com/artist/1iElGdidl4zFXOpaaem4wZ) | [Horizon Unlimted](https://open.spotify.com/album/6NfAHT2xusXUA4E7WMj8HY) | 4:16 |
+| 38 | [Soul Makossa](https://open.spotify.com/track/4JaOd0NUBTckYFZMguuY7M) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Anthology](https://open.spotify.com/album/7uA2tEXRCXua5P7rcpEWLa) | 4:24 |
+| 39 | [Pata Pata](https://open.spotify.com/track/6rFHmnI9Vd2zUasDXuw59j) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Reflections](https://open.spotify.com/album/23nI37GDlJScXONSCGJo4r) | 3:02 |
 | 40 | [Expensive Shit](https://open.spotify.com/track/2g72QoX5ZZlEqQpKfnOdrj) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [The Best Of The Black President 2](https://open.spotify.com/album/5Nx9r4mbuWkfPsVZIvqWx2) | 13:13 |
 
 Snapshot ID: `AAAAANUJPc9LhO5lFkE03l5ZhdXljHvz`

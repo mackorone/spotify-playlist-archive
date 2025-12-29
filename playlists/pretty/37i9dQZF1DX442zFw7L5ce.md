@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX442zFw7L5ce.md) - [plain]
 
 > Get ready to these songs that'll make you feel like you're the QUEEEEN! <br/>Cover : Pooja Hegde
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,374 likes - 50 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,397 likes - 50 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX442zFw7L5ce.md) - [plain]
 | 23 | [Adireti](https://open.spotify.com/track/5lsstDSoCsN8SRh5NxwGcK) | [Swarnalatha](https://open.spotify.com/artist/7N0SBLJFpCyQSsv4MfRJ5d) | [Bharateeyudu](https://open.spotify.com/album/5wbNqlJ4LukhEsQcqty9Po) | 5:51 |
 | 24 | [Idhedho Bagundhe](https://open.spotify.com/track/4AuRsGcSsNqslLywUCWhAG) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Anitha](https://open.spotify.com/artist/6tD1jwHStbobn96I2vbMxc) | [Mirchi](https://open.spotify.com/album/0U9GjYJr2K1CK8tOax7Hrf) | 4:26 |
 | 25 | [Angana](https://open.spotify.com/track/3nfTyBrp0YaGdsLRCcXYZc) | [Manisha Eerabathini](https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC) | [Angana](https://open.spotify.com/album/4cd0KliADTNGuHrdLXiOgv) | 3:40 |
-| 26 | [Akasam Ammayaithe](https://open.spotify.com/track/14I31bbtEZVADFi1uCcxcu) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Gopika Poornima](https://open.spotify.com/artist/5Rj7UMjxB4u5OZnS5c1rXF) | [Gabbar Singh](https://open.spotify.com/album/57x6HaiiJdeTg9yhfoMcSr) | 4:51 |
-| 27 | [Ladiyo](https://open.spotify.com/track/2QFFI5i22rkoF14Qpwwok3) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [I \- Manoharudu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0PqDwbg5QiH6S0uZTPWJR8) | 4:41 |
+| 26 | [Ladiyo](https://open.spotify.com/track/2QFFI5i22rkoF14Qpwwok3) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [I \- Manoharudu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0PqDwbg5QiH6S0uZTPWJR8) | 4:41 |
+| 27 | [Akasam Ammayaithe](https://open.spotify.com/track/14I31bbtEZVADFi1uCcxcu) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Gopika Poornima](https://open.spotify.com/artist/5Rj7UMjxB4u5OZnS5c1rXF) | [Gabbar Singh](https://open.spotify.com/album/57x6HaiiJdeTg9yhfoMcSr) | 4:51 |
 | 28 | [Ohho Puththadi Bommaa](https://open.spotify.com/track/3WaggvoQP7BjMXTeIQp8mV) | [Suresh Bobbili](https://open.spotify.com/artist/4TR1GJuGfGfrCLjNCI44eZ), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Thika Maka Thanda \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1hsMB3LBXnEB9yHTvN0Qa2) | 3:35 |
 | 29 | [Oy..Oy..](https://open.spotify.com/track/7o20g3bZRdwy6MtiUP9pOx) | [Siddharth](https://open.spotify.com/artist/4K42hgH9ltvSq74hcOC85P), [Prasanthini](https://open.spotify.com/artist/1EAoBVsvTYarQhO6i9zAG9) | [Oye](https://open.spotify.com/album/4I7t128bqln9m45RZlMJU8) | 4:42 |
 | 30 | [Jenniper Lopez](https://open.spotify.com/track/7DogGBT86sbjsNWQSIGLtB) | [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Priya](https://open.spotify.com/artist/6sseiKkl0ugvHy2WH0GCTR) | [Jalsa](https://open.spotify.com/album/4TmtWuheIr8ejxIjBpLU2u) | 4:18 |

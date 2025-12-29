@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRPjCBAuFj3.md) - [plain]
 
 > Brani virali e trend, rap e urban 📈  Shiva in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,458 likes - 116 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,507 likes - 116 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

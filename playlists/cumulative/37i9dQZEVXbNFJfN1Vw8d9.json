@@ -662,7 +662,7 @@
       ],
       "date_added": "2025-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 175280,
       "name": "444",
       "url": "https://open.spotify.com/track/1o4xkdBe0RjSf2u6VXi4OI"
@@ -1564,7 +1564,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 241562,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
@@ -7726,7 +7726,7 @@
       ],
       "date_added": "2025-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-23",
+      "date_removed": null,
       "duration_ms": 145506,
       "name": "Da Me",
       "url": "https://open.spotify.com/track/4ppQIsBpwNRKjOPPBZTgd0"
@@ -9162,7 +9162,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-25",
+      "date_removed": null,
       "duration_ms": 237117,
       "name": "DtMF",
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
@@ -9348,7 +9348,7 @@
       ],
       "date_added": "2025-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-21",
+      "date_removed": null,
       "duration_ms": 254941,
       "name": "Duro Ma",
       "url": "https://open.spotify.com/track/0Ze1qv8LIgg5Y7Bu4jzXIo"
@@ -10096,7 +10096,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 213960,
       "name": "EL MUNDO SE VA A ACABAR",
       "url": "https://open.spotify.com/track/2ickiFDq9U1MKG94SSg30n"
@@ -13412,7 +13412,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 181261,
       "name": "HALO",
       "url": "https://open.spotify.com/track/58ldPuiCULxm08TCZ8qX4D"
@@ -14652,6 +14652,28 @@
       "duration_ms": 222458,
       "name": "Ivonny Bonita",
       "url": "https://open.spotify.com/track/6Sv0CzVqzydd7NYQgAG70c"
+    },
+    {
+      "album": {
+        "name": "J Balvin: Bzrp Music Sessions, Vol. 62/66",
+        "url": "https://open.spotify.com/album/2Ejibc9F2I0mMo32HXDD9Y"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "date_added": "2025-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190384,
+      "name": "J Balvin: Bzrp Music Sessions, Vol. 62/66",
+      "url": "https://open.spotify.com/track/04YMLAsyIAe1sLb6RO5YcC"
     },
     {
       "album": {
@@ -16998,7 +17020,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 262960,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
@@ -23264,7 +23286,7 @@
       ],
       "date_added": "2025-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-29",
       "duration_ms": 171733,
       "name": "Palillos y Panderos",
       "url": "https://open.spotify.com/track/57ND119bD1fI0pkxH8sH05"

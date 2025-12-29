@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbND4ZYa46PaA.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belgium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,100 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,103 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,10 +20,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbND4ZYa46PaA.md) - [plain]
 | 10 | [Sleigh Ride](https://open.spotify.com/track/7fUYUcWy853HS8YJn0b3Sr) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [Sleigh Ride](https://open.spotify.com/album/3aYOF3HVkIr1IzhePfQS7s) | 3:01 |
 | 11 | [Feliz Navidad](https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [My Name Is José Feliciano](https://open.spotify.com/album/6leYmQzvQjlUtmpNIL9XYQ) | 3:02 |
 | 12 | [Santa Tell Me](https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Santa Tell Me](https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97) | 3:24 |
-| 13 | [It's Beginning to Look a Lot like Christmas](https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K) | 3:27 |
+| 13 | [It's Beginning to Look a Lot like Christmas](https://open.spotify.com/track/3it2BvJfyhPEWF3kD2TZJ1) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe 10th Anniversary Edition\)](https://open.spotify.com/album/6UuaXwIIaIaNSGrpPE1vFt) | 3:27 |
 | 14 | [MON BÉBÉ](https://open.spotify.com/track/1yGJ40k7HLF3odITZPoQs4) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc) | [MON BÉBÉ](https://open.spotify.com/album/6p7H7G0xpnDvlDdsh7IbM8) | 2:10 |
 | 15 | [The Fate of Ophelia](https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:46 |
-| 16 | [Holly Jolly Christmas](https://open.spotify.com/track/6tjituizSxwSmBB5vtgHZE) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas](https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un) | 1:59 |
+| 16 | [Holly Jolly Christmas](https://open.spotify.com/track/6rqn19AqjcM5wgI1hCYciJ) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe 10th Anniversary Edition\)](https://open.spotify.com/album/6UuaXwIIaIaNSGrpPE1vFt) | 2:01 |
 | 17 | [Driving Home for Christmas \- 2019 Remaster](https://open.spotify.com/track/27qAMKrDdKEs8HDXcvR24R) | [Chris Rea](https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2) | [Dancing with Strangers \(Deluxe Edition, 2019 Remaster\)](https://open.spotify.com/album/5tR0alqUd1KMW37vPnsOC4) | 4:01 |
 | 18 | [Happy Xmas \(War Is Over\) \- Remastered 2010](https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H), [Yoko Ono](https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ) | [Signature Box](https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v) | 3:34 |
 | 19 | [Mistletoe](https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Under The Mistletoe \(Deluxe Edition\)](https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p) | 3:02 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbND4ZYa46PaA.md) - [plain]
 | 40 | [Génération impolie](https://open.spotify.com/track/7EyB1sN9IUO1YXIoHTyZRk) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Aura X G\-wave](https://open.spotify.com/album/19oWIQY8EuiAaxbS7Atbga) | 2:21 |
 | 41 | [Hallelujah](https://open.spotify.com/track/550rQQCGkrTzvp4SfpOPzx) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [A Pentatonix Christmas](https://open.spotify.com/album/3oXvzShPN8iY2P1UYl3WVJ) | 4:28 |
 | 42 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/3PIDciSFdrQxSQSihim3hN) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 2:35 |
-| 43 | [Winter Wonderland](https://open.spotify.com/track/6eODMWDVi22dpEZJoqg5h7) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday](https://open.spotify.com/album/0uQi9pGprBB8IEQgjkP1AS) | 2:12 |
+| 43 | [Winter Wonderland](https://open.spotify.com/track/4MQOInul4Fa1ymK6ocq0jM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Very Laufey Holiday](https://open.spotify.com/album/32gqZfrZ51UMunez3CZDJZ) | 2:12 |
 | 44 | [Santa, Can’t You Hear Me](https://open.spotify.com/track/2O3MQ6H3gjrIWDcpeTrikT) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [When Christmas Comes Around...](https://open.spotify.com/album/5sVFXIMrFRKBtDOexVlBBU) | 4:02 |
 | 45 | [Blue Christmas](https://open.spotify.com/track/3QiAAp20rPC3dcAtKtMaqQ) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Christmas Album](https://open.spotify.com/album/6zk4RKl6JFlgLCV4Z7DQ7N) | 2:10 |
 | 46 | [White Christmas \- 1947 Version](https://open.spotify.com/track/3XsaSIPWvM61RIFfeb0BBR) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Ken Darby Singers](https://open.spotify.com/artist/69UfPJgUmFFAVT740qGVZi), [John Scott Trotter & His Orchestra](https://open.spotify.com/artist/735L650pvygCZZlPMyHqsN) | [White Christmas](https://open.spotify.com/album/42KK3F8HTm1dyv5iFsCXdw) | 3:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbND4ZYa46PaA.md) - [plain]
 | 49 | [Santa Claus Is Comin' to Town \- Live at C.W\. Post College, Greenvale, NY \- December 1975](https://open.spotify.com/track/6s2wpWPFPAgKg2LXxi1Oee) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Santa Claus Is Comin' to Town \(Live at C.W\. Post College, Greenvale, NY \- December 1975\)](https://open.spotify.com/album/6SEtGOi92yZM5TyAGlXlpZ) | 4:27 |
 | 50 | [I Run](https://open.spotify.com/track/1WwQ714xuznu44tEnkem2g) | [HAVEN.](https://open.spotify.com/artist/7ouEqUl1PCVPlNninecdcz), [Kaitlin Aragon](https://open.spotify.com/artist/29G5je6tT7As2ZFY72CdXs) | [I Run](https://open.spotify.com/album/6gePAokYlEquPQ4LDVc1ri) | 2:09 |
 
-Snapshot ID: `MONVAAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MOSkKAAAAAAAAAAAAAAAAAAAAAAAAGVu`

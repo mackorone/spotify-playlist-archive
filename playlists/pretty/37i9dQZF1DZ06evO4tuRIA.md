@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4tuRIA.md) - [plain]
 
 > This is LEGADO 7\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,849 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,865 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4tuRIA.md) - [plain]
 | 28 | [En La Bola \(feat\. El De La Guitarra\)](https://open.spotify.com/track/1MKSWLFVyxgdLKE8YUby50) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Pura Lumbre](https://open.spotify.com/album/5kyGKlaPLJ3SQB8KfZCcbz) | 2:50 |
 | 29 | [ABUNDANCIA](https://open.spotify.com/track/2eDoBIOHmUpXzQAaeDFaLf) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [ABUNDANCIA](https://open.spotify.com/album/3DuWQG0xMssV1elPEUYqgC) | 2:47 |
 | 30 | [MIKE TYSON](https://open.spotify.com/track/1iMecXQc0ajPS2by6Bzp5B) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [L7X](https://open.spotify.com/album/4mJCWEIyFuWVG0gNqtb8Eo) | 2:48 |
-| 31 | [Chevrolet 4X4](https://open.spotify.com/track/6kZs6GbMlGVkMpf6jWPGnq) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Fácil no Fue](https://open.spotify.com/album/7iDmmYU7GgNkR7AmVlSIZ7) | 3:14 |
-| 32 | [Pateando Latas](https://open.spotify.com/track/2z7N2urXPNsYHSA4kks2Dv) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [The Magic, Vol.1](https://open.spotify.com/album/4MEuvVVOvDnERcJKrZxct2) | 3:11 |
+| 31 | [Pateando Latas](https://open.spotify.com/track/2z7N2urXPNsYHSA4kks2Dv) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [The Magic, Vol.1](https://open.spotify.com/album/4MEuvVVOvDnERcJKrZxct2) | 3:11 |
+| 32 | [Chevrolet 4X4](https://open.spotify.com/track/6kZs6GbMlGVkMpf6jWPGnq) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Fácil no Fue](https://open.spotify.com/album/7iDmmYU7GgNkR7AmVlSIZ7) | 3:14 |
 | 33 | [Pancho Conos](https://open.spotify.com/track/5NNu8DfB4Db1cbr4BSeUsu) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [En Vivo con Tololoche Vol\. 1](https://open.spotify.com/album/6qUgwVEuv48l4qe2ZQrvOg) | 2:54 |
 | 34 | [El Ranchero](https://open.spotify.com/track/4UxemidpNmPXjC7CaycnFs) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Pa Que Se Motiven](https://open.spotify.com/album/7DNy735fYZw62qx3CHTtJL) | 3:55 |
 | 35 | [EL QUE LA MUEVE](https://open.spotify.com/track/4a5YwKIrdNsNeiJXsS4yJE) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Ya No Se Llevan Serenatas \(Deluxe\)](https://open.spotify.com/album/6lcbUFZ3ws3Qjf9swuakMO) | 2:27 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4tuRIA.md) - [plain]
 | 43 | [SOLDADO BLANCO \- En Vivo desde Los Ángeles](https://open.spotify.com/track/3r2kOgyTJ7ECwh6zr62BVL) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [PISTEANDO DESDE LOS ANGELES \(En Vivo\)](https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL) | 3:11 |
 | 44 | [El Disney](https://open.spotify.com/track/7s6HTRJUUZ9WCY9gPDhjdj) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [El Disney](https://open.spotify.com/album/71pONzODuum62WjG779fN1) | 2:29 |
 | 45 | [Bien Tumbado](https://open.spotify.com/track/21TM6acDWDZOzvamVZnlsD) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Duetos Con La Clika](https://open.spotify.com/album/5EV8DzL0vYdtHCOuZ2JDUq) | 2:06 |
-| 46 | [De Bajo Perfil](https://open.spotify.com/track/0HdjNLqCcm0weqqmH8sYNu) | [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Niveleando Cuh II](https://open.spotify.com/album/6cv2m2oP3oGq5fSnGjcG07) | 2:44 |
-| 47 | [Chambeando Recio](https://open.spotify.com/track/5GUn6oyW713HWxE9F1Xp0T) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Chambeando Recio](https://open.spotify.com/album/5iYuRSAA6tEhTDAOBhTDff) | 2:37 |
+| 46 | [Chambeando Recio](https://open.spotify.com/track/5GUn6oyW713HWxE9F1Xp0T) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Chambeando Recio](https://open.spotify.com/album/5iYuRSAA6tEhTDAOBhTDff) | 2:37 |
+| 47 | [De Bajo Perfil](https://open.spotify.com/track/0HdjNLqCcm0weqqmH8sYNu) | [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Niveleando Cuh II](https://open.spotify.com/album/6cv2m2oP3oGq5fSnGjcG07) | 2:44 |
 | 48 | [MAKABELICOS](https://open.spotify.com/track/0mGa1uq1JPqmTvFzN1fMpF) | [Daniel Garcia](https://open.spotify.com/artist/5i2Jd6V3K4WdpXAqvQtCrE), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [MAKABELICOS](https://open.spotify.com/album/4P1pjWEiQGkzBap2NLa0ei) | 3:07 |
 | 49 | [LOS ESPAÑOLES](https://open.spotify.com/track/4jZT0NW8huOQWBbtmdsNuY) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Victor Valverde](https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf) | [L7X](https://open.spotify.com/album/4mJCWEIyFuWVG0gNqtb8Eo) | 2:39 |
 | 50 | [Reyes Magos](https://open.spotify.com/track/4FdSA59Wyl2p5FOW3lrNkX) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [JOP](https://open.spotify.com/artist/7ob0holUszbJOSSotPiyba) | [Reyes Magos](https://open.spotify.com/album/607kkbEXNd4v5AOE5CnttF) | 2:08 |
 
-Snapshot ID: `aU3QAAAAAAAKqJqzgV/UXEAzSgRBZPPK`
+Snapshot ID: `aU8hgAAAAACqzlRhLjT+Rc2mKcbaIEzJ`

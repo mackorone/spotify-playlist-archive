@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to nov\-dec 2025
 
-865 songs - 2 day 3 hr 44 min
+866 songs - 2 day 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -777,6 +777,7 @@
 | [Time \(Clock Of The Heart\)](https://open.spotify.com/track/7J2Oy8QVCd5DWMMnBuDzd0) | [Culture Club](https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc) | [The Best Of Culture Club](https://open.spotify.com/album/1gL7IEAcSnVOAoJnxq2MTG) | 3:43 | 2024-11-20 | 2025-01-12 |
 | [Time Flies By](https://open.spotify.com/track/6w2tUMivtLWAv1VHEXCAjL) | [Vetiver](https://open.spotify.com/artist/7ACSlU8kTcQIbvpwLWze8E) | [Complete Strangers](https://open.spotify.com/album/6srmxhLGiICTqSM433MXgj) | 3:14 | 2025-07-09 | 2025-07-14 |
 | [Time For Slurp](https://open.spotify.com/track/753EklH444D0oZj4ClafLc) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [SHHHHHHH!](https://open.spotify.com/album/4KyU3E5Xw6TVBz2yCuUfeW) | 1:57 | 2024-06-20 | 2024-07-12 |
+| [Timeless](https://open.spotify.com/track/1nMge5njZEFQ4m9oESnBSJ) | [Oregon](https://open.spotify.com/artist/0CyVUjy6HZzEXgGA0ydd3t) | [Friends](https://open.spotify.com/album/1fNj64kRg1OAF5LNLuPnKT) | 8:21 | 2025-12-29 |  |
 | [Tired of Waiting for You \(Bonus Track\)](https://open.spotify.com/track/7lLRwdsiYMqXFPYLaVydJE) | [Nancy Sinatra](https://open.spotify.com/artist/3IZrrNonYELubLPJmqOci2), [Lee Hazlewood](https://open.spotify.com/artist/2aVHDjRHRM7dcFkGwahXLG) | [Nancy & Lee](https://open.spotify.com/album/4XI8r5L0ewd7VMsF64YcIl) | 3:37 | 2024-07-12 | 2024-09-08 |
 | [Today](https://open.spotify.com/track/0yuEk58hIetzfjofRMXUtK) | [The Innocence Mission](https://open.spotify.com/artist/4VcTmgGKGuJn56Ac2zNhiH) | [Small Planes](https://open.spotify.com/album/1iyTLD4EXY7G9gHYb7MZRQ) | 3:40 | 2025-05-27 | 2025-07-04 |
 | [Today Or Tomorrow](https://open.spotify.com/track/1XqvZaj7UvnR8SFGwAZmFh) | [Karate](https://open.spotify.com/artist/6U26vGPwnCQcNDr9Dpj0Y0) | [In Place Of Real Insight](https://open.spotify.com/album/3Zlq4jLSKwaPekmVFR7BcD) | 1:58 | 2024-03-09 | 2024-05-16 |

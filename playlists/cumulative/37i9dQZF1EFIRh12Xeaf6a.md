@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-345 songs - 17 hr 38 min
+346 songs - 17 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,6 +187,7 @@
 | [Make the Night a Little Longer](https://open.spotify.com/track/11XXkGv4pof3CTz6c3dmMx) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Baby It's You](https://open.spotify.com/album/1uCxbnVYLbYGToExqSqWw9) | 2:29 | 2023-12-30 |  |
 | [Mexican Divorce \- Single Version](https://open.spotify.com/track/11riJrU1R8Mx2okH11JRxd) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [Save the Last Dance for Me](https://open.spotify.com/album/6sWL3HHXGkqlST0rfWXvBU) | 2:35 | 2023-12-30 | 2025-12-19 |
 | [Michael](https://open.spotify.com/track/5zDVmuTRgRBD1N0uYwTVQn) | [The Highwaymen](https://open.spotify.com/artist/42zQWH4QjEPz9xO4tJpgjZ) | [The Highwaymen](https://open.spotify.com/album/6ryogWsABhSoIfcWUIjPql) | 2:46 | 2023-12-30 | 2024-05-27 |
+| [Mona Lisa](https://open.spotify.com/track/5dae01pKNjRQtgOeAkFzPY) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Unforgettable](https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm) | 3:14 | 2025-12-28 |  |
 | [Morning Sun](https://open.spotify.com/track/2uddedLRPsf3pdOvCtP4A6) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Welcome Home](https://open.spotify.com/album/2JwpAbXZe3BAl8PObQMacv) | 4:32 | 2023-12-30 | 2025-07-26 |
 | [Morning Sun \- Mono](https://open.spotify.com/track/6bJ9jvOZJjMhy7Gv3MyKbN) | [Marianne Faithfull](https://open.spotify.com/artist/7mlge4peaoNgzTsY6M32RB) | [Come And Stay With Me: The UK 45s 1964\-1969](https://open.spotify.com/album/3poqeypm6c69muWwccyoz8) | 3:06 | 2025-07-25 |  |
 | [Move Lightly](https://open.spotify.com/track/28i8a4TY5EQbUWb8BwuR2a) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Touch the Sky](https://open.spotify.com/album/4zWaxKSpJTVw8J6qsRi4es) | 4:57 | 2023-12-30 |  |
@@ -199,7 +200,7 @@
 | [My Simple Humble Neighborhood](https://open.spotify.com/track/2oVm7hqwMCrmYTnDHNpwSg) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Really Rosie](https://open.spotify.com/album/2fknQru3D4hvsU7BDfgbSd) | 3:08 | 2025-05-31 |  |
 | [Nightingale](https://open.spotify.com/track/2RHjNgxFQMTrCLacGKEJwE) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Wrap Around Joy](https://open.spotify.com/album/0u0ehiEE6XSZcWScJ9hVtz) | 3:36 | 2023-12-30 |  |
 | [No Easy Way Down](https://open.spotify.com/track/3iJYyYkOzpYdfleBqfoYEG) | [Na Allen](https://open.spotify.com/artist/0iKnncJJIq8jxp0gN0B8gN) | [No Easy Way Down: Rare Soul Sides](https://open.spotify.com/album/7r3dGwgZLV10X7iBTg4kwa) | 2:53 | 2023-12-30 |  |
-| [No One Ever Tells You](https://open.spotify.com/track/1Z4lNPJfSpbqN3V5j7YQEa) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [Twist Uptown](https://open.spotify.com/album/1u6OEiAZAyZPCLE9frkKBZ) | 2:19 | 2023-12-30 |  |
+| [No One Ever Tells You](https://open.spotify.com/track/1Z4lNPJfSpbqN3V5j7YQEa) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [Twist Uptown](https://open.spotify.com/album/1u6OEiAZAyZPCLE9frkKBZ) | 2:19 | 2023-12-30 | 2025-12-29 |
 | [No Sad Song](https://open.spotify.com/track/4GAu46qbdEu21ScQ10BkPZ) | [Helen Reddy](https://open.spotify.com/artist/0Sq7oGrYEe0BDmb13wgjOO) | [Helen Reddy](https://open.spotify.com/album/5JcT9BxkqS2CQmMkg16lgR) | 3:11 | 2023-12-30 |  |
 | [Nobody's Perfect \- Remastered](https://open.spotify.com/track/2xM7zSjKT06SCSe98acN51) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Anthology: Her Early Hits \(Remastered\)](https://open.spotify.com/album/3IAVorUAVQ6bTMgwcLEYY3) | 2:16 | 2025-09-10 |  |
 | [On This Side Of Goodbye \- Single Version](https://open.spotify.com/track/1tx5zJ6WPOhsrtqCF36CY5) | [The Righteous Brothers](https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX) | [All Time Greats](https://open.spotify.com/album/24CbH0PK4BnVUWP59klvom) | 3:04 | 2023-12-30 |  |

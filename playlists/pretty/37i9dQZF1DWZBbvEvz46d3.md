@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 
 > Nowe przeboje i ponadczasowe klasyki o  miłości\. Tylko po polsku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,016 likes - 75 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,025 likes - 75 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,11 +55,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBbvEvz46d3.md) - [plain]
 | 45 | [O nich, o Tobie](https://open.spotify.com/track/129VFFHvkAzwpYHqTrmtKB) | [Sylwia Grzeszczak](https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS) | [O nich, o Tobie](https://open.spotify.com/album/08ViqDYKABc3OpTCh4Ng5r) | 2:27 |
 | 46 | [Kocham cię jak irlandię](https://open.spotify.com/track/4fJGiLOU3etMQTOE3HFIEz) | [Kobranocka](https://open.spotify.com/artist/55bqpWJMazkqj8A3iziuuF) | [Póki to nie zabronione \(The Best\)](https://open.spotify.com/album/7xCZKYPaLXg3G23Ci7a71V) | 4:54 |
 | 47 | [Nie kłam że mnie kochasz](https://open.spotify.com/track/0Xj3MeniDBK33I1YZcqlqP) | [Ewelina Flinta](https://open.spotify.com/artist/3gd9XZQnyJXTVfLZh1BF6v), [Łukasz Zagrobelny](https://open.spotify.com/artist/1AnN7D0tGyWS5d3l38oqR0) | [Nie kłam że mnie kochasz](https://open.spotify.com/album/4E8A1oe3EKWx8AFeFJ0Fz0) | 3:06 |
-| 48 | [Miales Byc](https://open.spotify.com/track/7aKwFVDQG0MUBX41I5esiU) | [Brodka](https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY) | [Album](https://open.spotify.com/album/4oZuI7SK8SQekemwxiX71E) | 3:29 |
+| 48 | [W Glowie](https://open.spotify.com/track/5xIwk3q4x3ptb6oedWlKf0) | [Ania Dąbrowska](https://open.spotify.com/artist/7008bv4QLo6eziuxszbjqO) | [Dla Naiwnych Marzycieli](https://open.spotify.com/album/0oGiggXuV7aZA3omAELhiR) | 3:25 |
 | 49 | [Nic dwa razy \(W\. Szymborska\)](https://open.spotify.com/track/6C5A0xV8tvW8NqzLUb2xt1) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Nic dwa razy \(W\. Szymborska\)](https://open.spotify.com/album/3gZB6h09sZvWlhzZaqtf6t) | 3:09 |
-| 50 | [Nie Płacz Ewka](https://open.spotify.com/track/73YaDW2z8ZXgDvJUoQg9Bm) | [Perfect](https://open.spotify.com/artist/16UXmC2zY5ECiptfegWxFQ) | [Perfect](https://open.spotify.com/album/0Nh6afUMDBSCrWLdd1RuB8) | 5:42 |
-| 51 | [W Glowie](https://open.spotify.com/track/5xIwk3q4x3ptb6oedWlKf0) | [Ania Dąbrowska](https://open.spotify.com/artist/7008bv4QLo6eziuxszbjqO) | [Dla Naiwnych Marzycieli](https://open.spotify.com/album/0oGiggXuV7aZA3omAELhiR) | 3:25 |
-| 52 | [Nie Kłami](https://open.spotify.com/track/3FwWzOCkDwhu1RWTz3CSxJ) | [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW) | [Małomiasteczkowy](https://open.spotify.com/album/00hXe7ttZI4gjjWYqKAdMX) | 3:15 |
+| 50 | [Miales Byc](https://open.spotify.com/track/7aKwFVDQG0MUBX41I5esiU) | [Brodka](https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY) | [Album](https://open.spotify.com/album/4oZuI7SK8SQekemwxiX71E) | 3:29 |
+| 51 | [Nie Kłami](https://open.spotify.com/track/3FwWzOCkDwhu1RWTz3CSxJ) | [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW) | [Małomiasteczkowy](https://open.spotify.com/album/00hXe7ttZI4gjjWYqKAdMX) | 3:15 |
+| 52 | [Nie Płacz Ewka](https://open.spotify.com/track/73YaDW2z8ZXgDvJUoQg9Bm) | [Perfect](https://open.spotify.com/artist/16UXmC2zY5ECiptfegWxFQ) | [Perfect](https://open.spotify.com/album/0Nh6afUMDBSCrWLdd1RuB8) | 5:42 |
 | 53 | [Każdego Dnia](https://open.spotify.com/track/2NijO1M41mbMTFUJYyX8mx) | [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH), [Piotrek Lewandowski](https://open.spotify.com/artist/2F9grKyrjes3vaNiPIvyWg) | [KONTRAST](https://open.spotify.com/album/446qQKwnnSoeQmcrZOKtry) | 3:05 |
 | 54 | [Zostań](https://open.spotify.com/track/4Pslf0rV8BsQVYmXjdei37) | [Kortez](https://open.spotify.com/artist/6o7xoNMeAUgi1SVl9rHYNk) | [Bumerang](https://open.spotify.com/album/1dXikLZ5jGqZ3y3dfR0ugt) | 4:06 |
 | 55 | [Będziesz moją panią](https://open.spotify.com/track/34BMY6d2POkFLERCJPOrlS) | [Marek Grechuta](https://open.spotify.com/artist/0MGE7m2KV6Db6jOZFy93aD), [Anawa](https://open.spotify.com/artist/6bbsYS6Md0rRnPuIUCyMZ8) | [Marek Grechuta \- 40 piosenek](https://open.spotify.com/album/08N6LcpBklQjvbUHTghAvR) | 1:44 |
