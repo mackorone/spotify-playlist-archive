@@ -375,6 +375,28 @@
     },
     {
       "album": {
+        "name": "Super Negro Vol.1",
+        "url": "https://open.spotify.com/album/59Z3pymUOfVG6vhNifn84p"
+      },
+      "artists": [
+        {
+          "name": "okie",
+          "url": "https://open.spotify.com/artist/7cPUUMttmnzfRdM8smHaVZ"
+        },
+        {
+          "name": "Arthurzinho",
+          "url": "https://open.spotify.com/artist/3k5mp3imY0h00XDaal3ELP"
+        }
+      ],
+      "date_added": "2025-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156424,
+      "name": "ADO aADO",
+      "url": "https://open.spotify.com/track/1jaLswTSnOmawTzDH8SeBq"
+    },
+    {
+      "album": {
         "name": "A Vida De Um G\u00e2ngster",
         "url": "https://open.spotify.com/album/40r2yxY7QDckz6rJfhJq77"
       },
@@ -9120,7 +9142,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-30",
       "duration_ms": 165000,
       "name": "Porque n\u00e3o",
       "url": "https://open.spotify.com/track/4D2qQTotc3wObIKKtPNfEi"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover:  Nina Shezz
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,534 likes - 97 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,561 likes - 97 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 8 | [Miracle No Dey Tire Jesus II](https://open.spotify.com/track/6UuJxBhMTM3LaKYpKSMTYW) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Pelumi Deborah](https://open.spotify.com/artist/4UEAcfckZercWHlnw0jdOx) | [Miracle No Dey Tire Jesus II](https://open.spotify.com/album/22dCKvtEeDtDQFM00sRe7u) | 7:46 |
 | 9 | [Egwu Ekele](https://open.spotify.com/track/3a97jGMCmStmeoU7ckHJr4) | [That Voice](https://open.spotify.com/artist/3HE6xQTjAMyM3ASXdn1d81) | [Egwu Ekele](https://open.spotify.com/album/4hsLDCh4JdDqX8woFYvDJ3) | 3:18 |
 | 10 | [Phakade NeNkosi](https://open.spotify.com/track/7DVHzYbVAPiNsS6CEMxB4J) | [Londiwe Sphe Nxumalo](https://open.spotify.com/artist/0T1PttE74glDfZNF0LA8yi), [Dr Timothy Myeni](https://open.spotify.com/artist/7jxNgwuFkEfLwANCfVauW5) | [Phakade NeNkosi](https://open.spotify.com/album/34EHQHyVfTIAPuW2hvzyPE) | 6:16 |
-| 11 | [Don't Worry Be Happy \- Osadandaula \(Gospel Cover\)](https://open.spotify.com/track/5sa0OZkL9IuJDHudk6rQn9) | [Nathaniel Chaluchalu](https://open.spotify.com/artist/0xlxcrciibiWqrtdrYoy18), [Annette Nandine](https://open.spotify.com/artist/0euQcM7EekIFq5VcIRyyrt) | [Don't Worry Be Happy \- Osadandaula \(Gospel Cover\)](https://open.spotify.com/album/2jxG8W8Gw0ojAYLF7OoCbH) | 2:57 |
+| 11 | [Don't Worry Be Happy \- Osadandaula \(Gospel Cover\)](https://open.spotify.com/track/5sa0OZkL9IuJDHudk6rQn9) | [Annette Nandine](https://open.spotify.com/artist/0euQcM7EekIFq5VcIRyyrt), [Nathaniel Chaluchalu](https://open.spotify.com/artist/0xlxcrciibiWqrtdrYoy18) | [Don't Worry Be Happy \- Osadandaula \(Gospel Cover\)](https://open.spotify.com/album/2jxG8W8Gw0ojAYLF7OoCbH) | 2:57 |
 | 12 | [Good God](https://open.spotify.com/track/3sj94nxEe8RNwUtew2FvFq) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Good God](https://open.spotify.com/album/7deIkmtEUfNPRRHUNmXTI4) | 14:49 |
 | 13 | [Daddy](https://open.spotify.com/track/1aL6Hva1YkMxBcaH3QOcpV) | [Stanley Ifenna](https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA), [Brave Dyakkoh](https://open.spotify.com/artist/0mPUxo9RlPxbssjTPg46KI) | [Daddy](https://open.spotify.com/album/0En8BSDOyVVVhQXWjuKvJn) | 2:59 |
 | 14 | [Belong to Christ Jesus](https://open.spotify.com/track/090xsRHDbZGaU0WKrLdbg5) | [Mayor Boss](https://open.spotify.com/artist/5SG33RwNDk7t92dRUKyLUZ) | [Belong to Christ Jesus](https://open.spotify.com/album/5w9pf72R1X4mVi6n7jboNk) | 2:40 |

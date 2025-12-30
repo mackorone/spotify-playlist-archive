@@ -1,6 +1,6 @@
 {
   "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: BOJ",
-  "num_followers": 109985,
+  "num_followers": 109997,
   "original_name": "Alt\u00e9 Cruise",
   "owner": {
     "name": "Spotify",
@@ -412,7 +412,7 @@
           "url": "https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt"
         }
       ],
-      "duration_ms": 206924,
+      "duration_ms": 199487,
       "name": "PRETTY WOMAN (WICKED)",
       "url": "https://open.spotify.com/track/747fcCBqT47Mx2V40WFQOd"
     },
@@ -467,22 +467,6 @@
     {
       "added_at": "2025-12-19 00:01:12",
       "album": {
-        "name": "SORE LOSER",
-        "url": "https://open.spotify.com/album/6Tu7is64Q8AV8UPKEUI72d"
-      },
-      "artists": [
-        {
-          "name": "tg.blk",
-          "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
-        }
-      ],
-      "duration_ms": 126226,
-      "name": "SORE LOSER",
-      "url": "https://open.spotify.com/track/6paTU1UcsB6fLsygUYZpQ4"
-    },
-    {
-      "added_at": "2025-12-19 00:01:12",
-      "album": {
         "name": "Somebody Like You",
         "url": "https://open.spotify.com/album/4SOJzMweqeghqe8UzKl4Om"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 173023,
       "name": "Somebody Like You",
       "url": "https://open.spotify.com/track/0dEnWro42n8g51OVojqFSX"
+    },
+    {
+      "added_at": "2025-12-19 00:01:12",
+      "album": {
+        "name": "SORE LOSER",
+        "url": "https://open.spotify.com/album/6Tu7is64Q8AV8UPKEUI72d"
+      },
+      "artists": [
+        {
+          "name": "tg.blk",
+          "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
+        }
+      ],
+      "duration_ms": 126226,
+      "name": "SORE LOSER",
+      "url": "https://open.spotify.com/track/6paTU1UcsB6fLsygUYZpQ4"
     },
     {
       "added_at": "2025-12-19 00:01:12",
@@ -627,6 +627,22 @@
     {
       "added_at": "2025-12-19 00:01:12",
       "album": {
+        "name": "FRIENDS",
+        "url": "https://open.spotify.com/album/3y1nLsqq6RbF22AaJPzJdS"
+      },
+      "artists": [
+        {
+          "name": "Bolu Ajibade",
+          "url": "https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg"
+        }
+      ],
+      "duration_ms": 158537,
+      "name": "ROCK & SLIDE",
+      "url": "https://open.spotify.com/track/1MiinqNShZaTkB2QA1Budc"
+    },
+    {
+      "added_at": "2025-12-19 00:01:12",
+      "album": {
         "name": "Normally",
         "url": "https://open.spotify.com/album/416GBquOnS63wjc41I2aA8"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 235703,
       "name": "Normally",
       "url": "https://open.spotify.com/track/1HFWDB5E1JY0XdezP2DPkf"
-    },
-    {
-      "added_at": "2025-12-19 00:01:12",
-      "album": {
-        "name": "FRIENDS",
-        "url": "https://open.spotify.com/album/3y1nLsqq6RbF22AaJPzJdS"
-      },
-      "artists": [
-        {
-          "name": "Bolu Ajibade",
-          "url": "https://open.spotify.com/artist/44HFYth2ExH9jiZrlLjxTg"
-        }
-      ],
-      "duration_ms": 158537,
-      "name": "ROCK & SLIDE",
-      "url": "https://open.spotify.com/track/1MiinqNShZaTkB2QA1Budc"
     },
     {
       "added_at": "2025-12-19 00:01:12",
@@ -731,26 +731,6 @@
     {
       "added_at": "2025-12-19 00:01:12",
       "album": {
-        "name": "Cashmere",
-        "url": "https://open.spotify.com/album/6d3vky3CklWPy6Bi0TOlVn"
-      },
-      "artists": [
-        {
-          "name": "Kofee Bean",
-          "url": "https://open.spotify.com/artist/59mXEixRJuNUOOmCichSyV"
-        },
-        {
-          "name": "La So\u00fclchyld",
-          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
-        }
-      ],
-      "duration_ms": 187317,
-      "name": "Cashmere",
-      "url": "https://open.spotify.com/track/76a86qKvu0AOlsPkY4bEEb"
-    },
-    {
-      "added_at": "2025-12-19 00:01:12",
-      "album": {
         "name": "By Any Minz",
         "url": "https://open.spotify.com/album/48nHgN9M9JO1ic95yWLhJP"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 192031,
       "name": "f.u.",
       "url": "https://open.spotify.com/track/7cTUvwei61Gfa6PKPczdfu"
+    },
+    {
+      "added_at": "2025-12-19 00:01:12",
+      "album": {
+        "name": "Cashmere",
+        "url": "https://open.spotify.com/album/6d3vky3CklWPy6Bi0TOlVn"
+      },
+      "artists": [
+        {
+          "name": "Kofee Bean",
+          "url": "https://open.spotify.com/artist/59mXEixRJuNUOOmCichSyV"
+        },
+        {
+          "name": "La So\u00fclchyld",
+          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
+        }
+      ],
+      "duration_ms": 187317,
+      "name": "Cashmere",
+      "url": "https://open.spotify.com/track/76a86qKvu0AOlsPkY4bEEb"
     },
     {
       "added_at": "2025-12-19 00:01:12",
@@ -891,6 +891,22 @@
     {
       "added_at": "2025-12-19 00:01:12",
       "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/0btdloHfWQPFpK9UEn1GgE"
+      },
+      "artists": [
+        {
+          "name": "Sam Opoku",
+          "url": "https://open.spotify.com/artist/5NDzGl3leOCXxfUcyQC0sv"
+        }
+      ],
+      "duration_ms": 207157,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/4BOIp4SgirfXxcZltWzllK"
+    },
+    {
+      "added_at": "2025-12-19 00:01:12",
+      "album": {
         "name": "Ah Well",
         "url": "https://open.spotify.com/album/1PZMEss8Vhv50mIZKu6jho"
       },
@@ -915,38 +931,6 @@
     {
       "added_at": "2025-12-19 00:01:12",
       "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/0btdloHfWQPFpK9UEn1GgE"
-      },
-      "artists": [
-        {
-          "name": "Sam Opoku",
-          "url": "https://open.spotify.com/artist/5NDzGl3leOCXxfUcyQC0sv"
-        }
-      ],
-      "duration_ms": 207157,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/4BOIp4SgirfXxcZltWzllK"
-    },
-    {
-      "added_at": "2025-12-19 00:01:12",
-      "album": {
-        "name": "In A Matter of Time",
-        "url": "https://open.spotify.com/album/16GsCGOVvtXRarRIFKR00H"
-      },
-      "artists": [
-        {
-          "name": "thatboykwame",
-          "url": "https://open.spotify.com/artist/5ywIxMaX80lDjSzzj7wqto"
-        }
-      ],
-      "duration_ms": 155628,
-      "name": "prIDe",
-      "url": "https://open.spotify.com/track/5yk928rSjhlkCVLKVSNGtX"
-    },
-    {
-      "added_at": "2025-12-19 00:01:12",
-      "album": {
         "name": "Road To Fuego",
         "url": "https://open.spotify.com/album/3lMjAgltdk3MBExAXTw7Ux"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 171073,
       "name": "Azonto Fiesta (feat. Amaarae & Mugeez)",
       "url": "https://open.spotify.com/track/3Da3TZJ0EhJIAPJC5rxwZw"
+    },
+    {
+      "added_at": "2025-12-19 00:01:12",
+      "album": {
+        "name": "In A Matter of Time",
+        "url": "https://open.spotify.com/album/16GsCGOVvtXRarRIFKR00H"
+      },
+      "artists": [
+        {
+          "name": "thatboykwame",
+          "url": "https://open.spotify.com/artist/5ywIxMaX80lDjSzzj7wqto"
+        }
+      ],
+      "duration_ms": 155628,
+      "name": "prIDe",
+      "url": "https://open.spotify.com/track/5yk928rSjhlkCVLKVSNGtX"
     },
     {
       "added_at": "2025-12-19 00:01:12",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2025-12-19 00:01:12",
       "album": {
-        "name": "CLUB NOIR",
-        "url": "https://open.spotify.com/album/7zk2IGOMWrJ2xzKxXyFqAj"
-      },
-      "artists": [
-        {
-          "name": "Noir",
-          "url": "https://open.spotify.com/artist/0jOcWEjwKDMzSfi2Yeyjd4"
-        }
-      ],
-      "duration_ms": 148074,
-      "name": "BESTFRNDS",
-      "url": "https://open.spotify.com/track/2kpYJO7RYhImav7qbK9aoq"
-    },
-    {
-      "added_at": "2025-12-19 00:01:12",
-      "album": {
         "name": "PUFF PUFF",
         "url": "https://open.spotify.com/album/31PqWyE2sNdjg83d5YKIhm"
       },
@@ -1123,6 +1107,22 @@
     {
       "added_at": "2025-12-19 00:01:12",
       "album": {
+        "name": "CLUB NOIR",
+        "url": "https://open.spotify.com/album/7zk2IGOMWrJ2xzKxXyFqAj"
+      },
+      "artists": [
+        {
+          "name": "Noir",
+          "url": "https://open.spotify.com/artist/0jOcWEjwKDMzSfi2Yeyjd4"
+        }
+      ],
+      "duration_ms": 148074,
+      "name": "BESTFRNDS",
+      "url": "https://open.spotify.com/track/2kpYJO7RYhImav7qbK9aoq"
+    },
+    {
+      "added_at": "2025-12-19 00:01:12",
+      "album": {
         "name": "Tattoo",
         "url": "https://open.spotify.com/album/6YOb8QKtwiEQwQj9n1kJuW"
       },
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2025-12-19 00:01:12",
       "album": {
-        "name": "Realign",
-        "url": "https://open.spotify.com/album/650zxNU9Z5rX6IKhRoaXqu"
-      },
-      "artists": [
-        {
-          "name": "IkeN",
-          "url": "https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0"
-        }
-      ],
-      "duration_ms": 220363,
-      "name": "Realign",
-      "url": "https://open.spotify.com/track/7yLYmP8jdEuTQiJD2qlDch"
-    },
-    {
-      "added_at": "2025-12-19 00:01:12",
-      "album": {
         "name": "Sinatanale",
         "url": "https://open.spotify.com/album/7w8DlQ2JXdkRBp38TgBeVZ"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 214956,
       "name": "Sinatanale",
       "url": "https://open.spotify.com/track/1sJFubUbBqTkJKyymeJ7Us"
+    },
+    {
+      "added_at": "2025-12-19 00:01:12",
+      "album": {
+        "name": "Realign",
+        "url": "https://open.spotify.com/album/650zxNU9Z5rX6IKhRoaXqu"
+      },
+      "artists": [
+        {
+          "name": "IkeN",
+          "url": "https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0"
+        }
+      ],
+      "duration_ms": 220363,
+      "name": "Realign",
+      "url": "https://open.spotify.com/track/7yLYmP8jdEuTQiJD2qlDch"
     },
     {
       "added_at": "2025-12-19 00:01:12",
@@ -1215,26 +1215,6 @@
     {
       "added_at": "2025-12-19 00:01:12",
       "album": {
-        "name": "What You Want",
-        "url": "https://open.spotify.com/album/3gUojms7owZ051gB5AWlTG"
-      },
-      "artists": [
-        {
-          "name": "Uche B",
-          "url": "https://open.spotify.com/artist/31pQP1G762IF86wGrd2f3v"
-        },
-        {
-          "name": "Mangodance",
-          "url": "https://open.spotify.com/artist/4ZHLtUjqMxXhA05qiDgnH1"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "What You Want",
-      "url": "https://open.spotify.com/track/5HqJICWJomytoiIFnAsw0A"
-    },
-    {
-      "added_at": "2025-12-19 00:01:12",
-      "album": {
         "name": "Designer Baby",
         "url": "https://open.spotify.com/album/1Ke1d51iQOvKKqmQ4O3Z1W"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 142138,
       "name": "Designer Baby",
       "url": "https://open.spotify.com/track/6N24qh0lNjPDph0rdWDxKK"
+    },
+    {
+      "added_at": "2025-12-19 00:01:12",
+      "album": {
+        "name": "What You Want",
+        "url": "https://open.spotify.com/album/3gUojms7owZ051gB5AWlTG"
+      },
+      "artists": [
+        {
+          "name": "Uche B",
+          "url": "https://open.spotify.com/artist/31pQP1G762IF86wGrd2f3v"
+        },
+        {
+          "name": "Mangodance",
+          "url": "https://open.spotify.com/artist/4ZHLtUjqMxXhA05qiDgnH1"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "What You Want",
+      "url": "https://open.spotify.com/track/5HqJICWJomytoiIFnAsw0A"
     },
     {
       "added_at": "2025-12-19 00:01:12",
@@ -1383,26 +1383,6 @@
     {
       "added_at": "2025-12-19 00:01:12",
       "album": {
-        "name": "Bounce",
-        "url": "https://open.spotify.com/album/4OmRGgT3q2bdlk3Ikd9R6r"
-      },
-      "artists": [
-        {
-          "name": "OS\u00c1",
-          "url": "https://open.spotify.com/artist/5aAEuygCKLNC6RmKotyGpl"
-        },
-        {
-          "name": "MAUIM\u00d8ON",
-          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
-        }
-      ],
-      "duration_ms": 125581,
-      "name": "Bounce",
-      "url": "https://open.spotify.com/track/0WxcWcoxl59hd7pLZuUxeW"
-    },
-    {
-      "added_at": "2025-12-19 00:01:12",
-      "album": {
         "name": "Yaa Abrefi",
         "url": "https://open.spotify.com/album/1zDyM2RYqhIcQmgVhN7uab"
       },
@@ -1419,6 +1399,26 @@
       "duration_ms": 170738,
       "name": "Yaa Abrefi",
       "url": "https://open.spotify.com/track/4cQc9TQpdFRtxLrw8LcOgo"
+    },
+    {
+      "added_at": "2025-12-19 00:01:12",
+      "album": {
+        "name": "Bounce",
+        "url": "https://open.spotify.com/album/4OmRGgT3q2bdlk3Ikd9R6r"
+      },
+      "artists": [
+        {
+          "name": "OS\u00c1",
+          "url": "https://open.spotify.com/artist/5aAEuygCKLNC6RmKotyGpl"
+        },
+        {
+          "name": "MAUIM\u00d8ON",
+          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
+        }
+      ],
+      "duration_ms": 125581,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/0WxcWcoxl59hd7pLZuUxeW"
     },
     {
       "added_at": "2025-12-19 00:01:12",

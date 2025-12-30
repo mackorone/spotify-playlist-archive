@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafe70fv9ymc.md) - [plain]
 
 > NSFW
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,191 likes - 60 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,192 likes - 60 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafe70fv9ymc.md) - [plain]
 | 20 | [Love Me Slowly](https://open.spotify.com/track/6TyZaUTAQqncq94k5g461a) | [Elaine](https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx) | [Stone Cold Heart](https://open.spotify.com/album/5Tt1C3F4r6awYC7mHmRszf) | 4:29 |
 | 21 | [Compromise](https://open.spotify.com/track/6wVEuSE1LpdkJjGOfcHDof) | [Rukmani](https://open.spotify.com/artist/4lz2CgyavcVw3XfnvID7FV), [Kemuel](https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH) | [3XL](https://open.spotify.com/album/0gpV00scuKXAA6m5GH6wvd) | 2:41 |
 | 22 | [After Hours](https://open.spotify.com/track/3is6Q8mrAvLC1gF2TFnYDq) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Shana / After Hours](https://open.spotify.com/album/0cQk9my70QfKEYMJuAr9UQ) | 2:32 |
-| 23 | [Dulling](https://open.spotify.com/track/630Q5KyfUDsJ6H8cRkZl7p) | [Ajesings](https://open.spotify.com/artist/0ZWskTAdA6A0Y83znKqSDF), [Liya](https://open.spotify.com/artist/2mq44nCfRU63sGf70HAPi0) | [Dulling](https://open.spotify.com/album/3g48YWJoo6A5CIhWVzWJ3L) | 2:54 |
+| 23 | [Dulling](https://open.spotify.com/track/630Q5KyfUDsJ6H8cRkZl7p) | [Ajesings](https://open.spotify.com/artist/0ZWskTAdA6A0Y83znKqSDF), [Liya](https://open.spotify.com/artist/6dXCI98qS6ePwijP7KSMgV) | [Dulling](https://open.spotify.com/album/3g48YWJoo6A5CIhWVzWJ3L) | 2:54 |
 | 24 | [Sexual Healing](https://open.spotify.com/track/5UlIQlThsFv7qCEhQbR5EG) | [Eli Jae](https://open.spotify.com/artist/6dBO8lveHpWKwMEMXnWIjQ) | [Sexual Healing](https://open.spotify.com/album/0B3HUlpNETv0FAF7grb0Sd) | 2:55 |
 | 25 | [Failing Together](https://open.spotify.com/track/73zD4vLARiNHzTB7EHqptA) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN), [Zowie Kengocha](https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci) | [Mombasa's Lover Boy](https://open.spotify.com/album/3dCGhikw2kksr8OMi9HPft) | 2:40 |
 | 26 | [Slow](https://open.spotify.com/track/51vTd5iLJvD6qdZuyKXcCN) | [Tee\-Jay](https://open.spotify.com/artist/484jRW0FSFscts8vhmUYBP) | [Slow](https://open.spotify.com/album/5xNUdev3SKlyKdEtocpXaB) | 2:16 |

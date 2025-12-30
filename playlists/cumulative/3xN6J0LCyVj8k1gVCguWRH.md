@@ -4,7 +4,7 @@
 
 > Obama&\#x27;s favorite music of 2025\. Includes Summer 2024 and bonus tracks.
 
-5,568 songs - 12 day 23 hr 17 min
+5,570 songs - 12 day 23 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1654,6 +1654,7 @@
 | [Firefly](https://open.spotify.com/track/0pn19uG6B1oU4YOOYe63O2) | [Arianna Tsar](https://open.spotify.com/artist/5kui2MaTfVCYOyaLdE0iFV) | [Firefly](https://open.spotify.com/album/6s9erImz1DedV4pU7LFlq4) | 2:55 | 2024-10-04 | 2024-11-07 |
 | [First](https://open.spotify.com/track/61e6RuiuvaUwmpC0oNLgmI) | [Jungle House Records](https://open.spotify.com/artist/6IVCwIzr2nwE3OTildQtFx) | [First](https://open.spotify.com/album/3FBnEjGoGX8MgV2XInKzHJ) | 2:53 | 2020-12-25 | 2021-01-09 |
 | [First Class \(Esperame\)](https://open.spotify.com/track/35L74hFZtL2i9VGxzhXPsA) | [BrakaBeats](https://open.spotify.com/artist/3P3dfmAlq6T6UCcSRzsKje) | [First Class \(Esperame\)](https://open.spotify.com/album/58lbmEg3NM8YnpH5ODi8SQ) | 3:55 | 2025-07-30 | 2025-08-10 |
+| [FIRST DAY OF AUTUMN](https://open.spotify.com/track/5A4ZfTLxKMkuzvMyWLb6pt) | [SECCONDS](https://open.spotify.com/artist/7tItLsl2R7hskSXD4vBU3P) | [FIRST DAY OF AUTUMN](https://open.spotify.com/album/5eXVG2anuIsOGXHsNlkxy3) | 2:18 | 2025-12-29 |  |
 | [First in Line](https://open.spotify.com/track/3iG6x2yVIUc7Qzn825U7xW) | [Partial Sum](https://open.spotify.com/artist/1CTt2Zy8O0dyxviUr2wJ4w) | [First in Line](https://open.spotify.com/album/21ActYFVm8KqcLvZDFbNMd) | 2:47 | 2022-02-11 | 2022-05-08 |
 | [First Time In Forever](https://open.spotify.com/track/5xuqO4eaU92gzXfj1KEuiA) | [Mars Lasar](https://open.spotify.com/artist/1Y5juAYDcY3pv167EIBwlk), [SlidV](https://open.spotify.com/artist/6UYUBOw0pUtH0cBNBYWubY) | [First Time In Forever](https://open.spotify.com/album/4faselaJ3EgwSoB1zIRG0I) | 3:47 | 2024-12-31 | 2025-01-11 |
 | [Fishbowl](https://open.spotify.com/track/5iFfqKG6ZLNO0twq9Bpl76) | [King Raw Dogg](https://open.spotify.com/artist/0UvojalTPmwLKuuT4WAfeD) | [Fishbowl](https://open.spotify.com/album/2hzmn5vtLvcSKMOCQuzuQF) | 2:30 | 2021-04-10 | 2021-04-26 |
@@ -5401,6 +5402,7 @@
 | [Wild](https://open.spotify.com/track/5X32g7xtJOlgmX6hNXebXa) | [Baba Jenkins](https://open.spotify.com/artist/1cxWflvijU9B2d7x5SMhez) | [Wild](https://open.spotify.com/album/6GvNg6DywdIaWDTLaDFG1e) | 3:39 | 2022-12-02 | 2022-12-24 |
 | [Wild Girl](https://open.spotify.com/track/3IqwOIVNLdBs7av6n8Plrt) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Wild Girl](https://open.spotify.com/album/5gjaKIotnXLPTsb9lvp5vT) | 3:14 | 2020-02-27 | 2020-03-11 |
 | [Wildfire](https://open.spotify.com/track/4FJEw0qNeSEhVlGLo7v2PV) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez), [August Charles](https://open.spotify.com/artist/36Lyedrxvj4wAPFvBK5O1S) | [Wildfire](https://open.spotify.com/album/6ZA1Cxe3FccC6if4Uj2Q4V) | 3:24 | 2025-11-07 | 2025-12-06 |
+| [Wildfire](https://open.spotify.com/track/4fIyeZdoBzGbiM55qu6sqn) | [shakambo](https://open.spotify.com/artist/3nSa4FPPtXIgPgS0OEyzdK), [Alice Chahbazian](https://open.spotify.com/artist/760DzrccQcStjJpW2xyM4U) | [Inner Eyes](https://open.spotify.com/album/1nYAmC0vXbGbDGtkAtpxaM) | 3:08 | 2025-12-29 |  |
 | [Wildfire](https://open.spotify.com/track/4GalnNOEej1AryUPkYnCgK) | [ZZ](https://open.spotify.com/artist/3yMB5SRUewrVIC4RiWR02V), [Thorii](https://open.spotify.com/artist/1rFT3bXNpN4YYQdCpsdWx8) | [Wildfire](https://open.spotify.com/album/7strTihQY7Hoe4PAc0Ztp3) | 2:36 | 2020-03-08 | 2020-04-04 |
 | [Wildflower](https://open.spotify.com/track/21jX31TUsYoVFD0jH6m5nx) | [Rob Autio](https://open.spotify.com/artist/4mrC4xKd9dglss42iEuXAK) | [Wildflower](https://open.spotify.com/album/0Kzu9bTEhOyePy2Zp9bCya) | 2:45 | 2022-12-01 | 2023-01-03 |
 | [Wind\-Up Bird](https://open.spotify.com/track/17WvP1BbmMIDAhXE19WSAZ) | [Anemoia](https://open.spotify.com/artist/1BDIEp7ezAYfcchzXDQuUC) | [Wind\-Up Bird](https://open.spotify.com/album/6AAHdOewGsI7JR1elpw7lu) | 4:04 | 2021-10-05 | 2021-10-21 |

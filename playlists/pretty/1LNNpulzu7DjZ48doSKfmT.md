@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 
 > beautiful music that you can put on repeat
 
-[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 453 likes - 582 songs - 1 day 6 hr 0 min
+[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 455 likes - 604 songs - 1 day 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -590,5 +590,27 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 | 580 | [2 Times](https://open.spotify.com/track/2V6M57LUuXyKasAd32WOIm) | [SAMMY & LESEN](https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE), [Gia Koka](https://open.spotify.com/artist/71WExccCBN2mw0klSzfYzz), [TECHNO KING](https://open.spotify.com/artist/4PWjpdBUTvwJ5iO1p8dHqC) | [2 Times](https://open.spotify.com/album/1eT55vAiwenizmz5EeGsNQ) | 2:13 |
 | 581 | [Shutdown](https://open.spotify.com/track/643KZBbba2oeAYd2trgSLx) | [Makeavelli](https://open.spotify.com/artist/6dNdNTpljoD3lw14gr4WRg) | [Shutdown](https://open.spotify.com/album/0aFinGBzDIruoM2vcbwQgF) | 3:06 |
 | 582 | [All Girls Are The Same \- Cover Version](https://open.spotify.com/track/0CZbCAmLMWoFW2EKqyu8mv) | [Andrew Wilson](https://open.spotify.com/artist/7nJeosmDpSeqMG1gjzuRLk), [Joshua Castle](https://open.spotify.com/artist/5VnLKbJys03lqxOo2ZRIyE) | [All Girls Are The Same \(Cover Version\)](https://open.spotify.com/album/5NUi3Mpj2W7v3Wk4VutDGW) | 2:52 |
+| 583 | [About a Girl](https://open.spotify.com/track/6osg5L0yTjCa4ExGLYa9Tm) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [About a Girl](https://open.spotify.com/album/3C6PoM9SZ4OwNjpZReQxNB) | 2:45 |
+| 584 | [No Pressure \- Freestyle](https://open.spotify.com/track/02gqR29nn6ChC15pjfPyno) | [Kweku Jamel](https://open.spotify.com/artist/62rjwofCBBZESUIsJguH7i) | [No Pressure \(Freestyle\)](https://open.spotify.com/album/5O2NBVlx1HnoRSN1YfkkXE) | 2:26 |
+| 585 | [Movin On](https://open.spotify.com/track/0gF8aVYru7GfxSKk9zxlA7) | [Avorra](https://open.spotify.com/artist/2AKj4BH3WLEG16rMhb19aA) | [Movin On](https://open.spotify.com/album/7zB1hbcXXVUAUSES5BEjmk) | 2:50 |
+| 586 | [Fountain](https://open.spotify.com/track/5L6DTMCdiz4BBmh3xweyrJ) | [Skiii](https://open.spotify.com/artist/0ZEcn782e3S6O9XgaSFHnU) | [Fountain](https://open.spotify.com/album/6NJdM5ZPBS0IHkK8XBNeX2) | 2:12 |
+| 587 | [try again](https://open.spotify.com/track/0Vo2KBc9kdvG9bbOYf00rX) | [Christine Nguyen](https://open.spotify.com/artist/1G31AYHzFwvwyYUhlZ8OoJ) | [try again](https://open.spotify.com/album/7eHuduqjDcbkB4a7hAoi85) | 3:03 |
+| 588 | [Summer days](https://open.spotify.com/track/62kvla2cqvJWEIDckj5bAD) | [Jivarp](https://open.spotify.com/artist/0BGkkx9kCUionEhgkwekU8) | [Summer days](https://open.spotify.com/album/1t1UpetlINbJ71govZlfUx) | 2:50 |
+| 589 | [LaLaLa](https://open.spotify.com/track/6xJR0E2PP9J71zRaxyHVSw) | [PeGie](https://open.spotify.com/artist/54TYnbAQnkrjI6ry4eUU6X) | [LaLaLa](https://open.spotify.com/album/5YGvKnaFByyXubKNIKtfyI) | 3:11 |
+| 590 | [Domenica mattina](https://open.spotify.com/track/0l3BjpYgBsWqS73T2PyDhV) | [Social Six](https://open.spotify.com/artist/4NAshWdxgeqcFG6kioF8eq) | [Domenica mattina](https://open.spotify.com/album/2bZjKSpBeuBPvVm3BbHzLX) | 3:41 |
+| 591 | [It's Only A Life \- Single Version](https://open.spotify.com/track/6lR99bylAwIzaYw2oA2h6n) | [Elysium](https://open.spotify.com/artist/2NC1GXUAZDH9D8uu809kXg) | [It's Only A Life](https://open.spotify.com/album/2Ei69RHOXey3yIzfuXSajC) | 5:19 |
+| 592 | [Beating of Your Heart](https://open.spotify.com/track/03LygV2CraRHLkfxwEYJrv) | [Axel Blaze](https://open.spotify.com/artist/1L9MiTxPnQhSgTRC7ZKsEF), [Khaino](https://open.spotify.com/artist/3Cu7fUV3xvZHRJrDlYBmdA) | [Beating of Your Heart](https://open.spotify.com/album/4eIVQXWlljrQyYULRYvbak) | 2:02 |
+| 593 | [Guia del Alba](https://open.spotify.com/track/1xZ0dE3fQBW2vhPHYaj8TS) | [Leonardo Gabriel Garcia](https://open.spotify.com/artist/2NSjf7BxGj8QIzVZjcgFIc) | [All These Songs 3](https://open.spotify.com/album/3DdkvLyT7eu2Vs2ObAhAav) | 3:01 |
+| 594 | [EGO](https://open.spotify.com/track/5UAicDeeNU13YWGWbq03qZ) | [Di$mal](https://open.spotify.com/artist/5C4tP26eo1N8ak3J3KaomB) | [EGO](https://open.spotify.com/album/01P9HVcRSxiXZgZE5iHYWK) | 2:38 |
+| 595 | [crashyowhipmusic](https://open.spotify.com/track/7lGb5Bmj6t2Fl0AXxQBviU) | [Yngm Tae 2x](https://open.spotify.com/artist/4oSNEdyYtTWBV0MNBEzy95), [Prod\. ih8h8aden](https://open.spotify.com/artist/2x9LlfLSdoqTAtMzN0A0tK) | [Tae's World](https://open.spotify.com/album/7DTM3qmZc4wxDE0t5SvBPI) | 2:52 |
+| 596 | [Otra Vez](https://open.spotify.com/track/5rwUs97FbADrR9rDJmSSYw) | [invitro](https://open.spotify.com/artist/6v9l6q6Dbj7wjztHEIVsaM) | [Sueño Artificial](https://open.spotify.com/album/3ojaiSsI1EvSkZUKqlyef8) | 3:34 |
+| 597 | [CONFUSA](https://open.spotify.com/track/4y2Q0NITBafpTsq0A8btcO) | [Seba Space](https://open.spotify.com/artist/47gWcVZefFfUUj5HZueC1M), [Yiorblezz](https://open.spotify.com/artist/5V9C3emtv3S2Ms4gMLaY3D), [Retumblica](https://open.spotify.com/artist/5IpY0FeS3sh14WkSbg5PUl) | [CONFUSA](https://open.spotify.com/album/1JDwNmVE506Bil82PLQoIz) | 2:42 |
+| 598 | [Black Mamba](https://open.spotify.com/track/4NCVAuYOzxXPaakOvgKN4D) | [Autran](https://open.spotify.com/artist/3WJPaWNNErCsuJ4AsZuaQF) | [Black Mamba](https://open.spotify.com/album/4AD6WSHCKbXRx2taIWZel0) | 3:36 |
+| 599 | [Winnin](https://open.spotify.com/track/2HPCqbMp7VDmYhUrS2gbjk) | [Zaya Love](https://open.spotify.com/artist/7MBtJesquNBluPqKJyW6W1), [Mark Holiday](https://open.spotify.com/artist/0c2te8OzhhVjiqXaAku4Hx) | [TRENDSETTER](https://open.spotify.com/album/6JWcKuOYeKNlp9h8MPYJNg) | 2:12 |
+| 600 | [How It Goes](https://open.spotify.com/track/0FJB8bHbON9QFB3OM0m2y6) | [Nyla Dream](https://open.spotify.com/artist/6HBZYlcOVJtP2vuht1HQnj) | [Two Sides Of A Dream](https://open.spotify.com/album/6NfYTmTgd7ylMee0ldhlIE) | 4:18 |
+| 601 | [The Journey Ends Inside](https://open.spotify.com/track/4NxfXqPua0qJaljpLEewOp) | [Cobalt Wave](https://open.spotify.com/artist/0q2NZhxugZY6CDgo5yD89A) | [The Journey Ends Inside](https://open.spotify.com/album/0guhzwD9akBuQ0nElc3AX2) | 8:00 |
+| 602 | [learn to dance](https://open.spotify.com/track/7xrB2n3kik9ROWZkkbzcf5) | [vic hagen](https://open.spotify.com/artist/7iPpuV8sPw5MU1iJvLx8CU) | [learn to dance](https://open.spotify.com/album/4QQUVUc4n9YXn45OBqeT3z) | 4:12 |
+| 603 | [Slow Motion](https://open.spotify.com/track/1CV3zdjR73oQ90IucPeQ3Q) | [Godlike](https://open.spotify.com/artist/0kuTW17DYHIcpweehulGYw) | [Slow Motion](https://open.spotify.com/album/2VPZNOCIQ7FXvKz2BZxy5G) | 2:58 |
+| 604 | [Sermon on the Mount](https://open.spotify.com/track/03cBIiGSDr0OCM59g96ZmK) | [Messenger The Choosen](https://open.spotify.com/artist/7HRuEzRAcxxoo1gyPo9Asv) | [Ancient Echoes, Modern Jungle](https://open.spotify.com/album/5tthKI0qf0p85ukZNLq3Et) | 5:47 |
 
-Snapshot ID: `AAAXZ39Tqf5jBVrveQrIxpVIkgpaDyE7`
+Snapshot ID: `AAAXfdh7/vWf39gJj5M3cmDRYuE4fZEB`

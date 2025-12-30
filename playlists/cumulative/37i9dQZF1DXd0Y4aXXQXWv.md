@@ -2,7 +2,7 @@
 
 ### [Culture Tubes](https://open.spotify.com/playlist/37i9dQZF1DXd0Y4aXXQXWv)
 
-> Les plus grands tubes de variété française d'hier et d'aujourd'hui\. Photo : Jean\-Jacques Goldman
+> Les plus grands tubes de variété française d'hier et d'aujourd'hui\. Photo : Céline Dion
 
 123 songs - 7 hr 51 min
 

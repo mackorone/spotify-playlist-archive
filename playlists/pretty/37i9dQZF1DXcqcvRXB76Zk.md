@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcqcvRXB76Zk.md) - [plain]
 
 > 아직 끝나지 않은<a href="https://mkt.naver.com/spotify?dtm\_detail=1128&dtm\_source=brand\_main&dtm\_medium=mktatrb&dtm\_campaign=2511\-bimpact\-001&pcode=brand\_main\_1128&campaign\_id=2511\-bimpact\-001&channel\_id=brand\_main&material=1128"> NAVER × Spotify </a>  파티! 필릭스의 솔로곡과 세 아티스트의 셋리스트로 파티의 설렘과 여운을 다시 느껴보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,580 likes - 22 songs - 1 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,658 likes - 22 songs - 1 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcqcvRXB76Zk.md) - [plain]
 | 21 | [Maria](https://open.spotify.com/track/0ZeGfEAL5Rl4pd5LZBGuEK) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [María](https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3) | 3:19 |
 | 22 | [Good Goodbye](https://open.spotify.com/track/3cLXrotzCjYCkN73PewALM) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [Good Goodbye](https://open.spotify.com/album/2L8UNlNXyAD3cJBPimHbhu) | 3:43 |
 
-Snapshot ID: `AAAAAA0d1lumlBdX1ivUJNP47O8tQTz/`
+Snapshot ID: `AAAAAOrpEpbkAM13QhqN6TSWkM5WmTKW`

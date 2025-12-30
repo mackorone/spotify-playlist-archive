@@ -1,12 +1,12 @@
 {
   "description": "Un playlist (foarte) divers, cu tot ce e viral \u0219i trending \u00een Rom\u00e2nia ",
-  "num_followers": 35979,
+  "num_followers": 35985,
   "original_name": "Viral \u00een Rom\u00e2nia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEM3qa9jGcS0Pi9J8L38qxJZR7PI",
+  "snapshot_id": "AAAAAIgjeAUKvaoWFDA9fsLr6qg3a0za",
   "tracks": [
     {
       "added_at": "2025-12-22 15:40:01",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2025-12-22 15:40:01",
       "album": {
-        "name": "Brasileiro",
-        "url": "https://open.spotify.com/album/2gPF15vJyaU8QErbQlvki7"
-      },
-      "artists": [
-        {
-          "name": "Babasha",
-          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "Brasileiro",
-      "url": "https://open.spotify.com/track/5QxrwYi8HokaPKgApOhoDN"
-    },
-    {
-      "added_at": "2025-12-22 15:40:01",
-      "album": {
         "name": "Doar La Ea, Ba La Ea",
         "url": "https://open.spotify.com/album/6CTs4VrA2TCwvjM4x7hmIG"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 148500,
       "name": "Doar La Ea, Ba La Ea",
       "url": "https://open.spotify.com/track/4loUiQ8a84Lu4Ar8KQlPb9"
+    },
+    {
+      "added_at": "2025-12-22 15:40:01",
+      "album": {
+        "name": "Brasileiro",
+        "url": "https://open.spotify.com/album/2gPF15vJyaU8QErbQlvki7"
+      },
+      "artists": [
+        {
+          "name": "Babasha",
+          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Brasileiro",
+      "url": "https://open.spotify.com/track/5QxrwYi8HokaPKgApOhoDN"
     },
     {
       "added_at": "2025-12-22 15:40:01",

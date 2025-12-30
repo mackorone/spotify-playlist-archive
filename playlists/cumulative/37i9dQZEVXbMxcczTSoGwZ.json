@@ -21908,7 +21908,7 @@
       ],
       "date_added": "2025-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-30",
       "duration_ms": 180093,
       "name": "Kersantti Karoliina",
       "url": "https://open.spotify.com/track/2JQlsdVy9bB9Otx8lxsFKn"
@@ -40317,6 +40317,28 @@
     },
     {
       "album": {
+        "name": "The Boy Who Played the Harp",
+        "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "date_added": "2025-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219743,
+      "name": "Raindance (feat. Tems)",
+      "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
+    },
+    {
+      "album": {
         "name": "Raitis mies",
         "url": "https://open.spotify.com/album/5PVYX6qp9lkCrv6HfcSfZI"
       },
@@ -48434,7 +48456,7 @@
       ],
       "date_added": "2025-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-29",
+      "date_removed": null,
       "duration_ms": 221933,
       "name": "Tahdotko Mut Tosiaan",
       "url": "https://open.spotify.com/track/5G5sJcaGLU9Equzq5NgN9z"
@@ -48452,7 +48474,7 @@
       ],
       "date_added": "2025-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-30",
       "duration_ms": 222160,
       "name": "Tahdotko Mut Tosiaan",
       "url": "https://open.spotify.com/track/5F4aDPLL4bO2ODkAZAKZdH"

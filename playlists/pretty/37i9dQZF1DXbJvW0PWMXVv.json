@@ -1,6 +1,6 @@
 {
   "description": "Os indicados na maior celebra\u00e7\u00e3o da m\u00fasica latina em 2025.",
-  "num_followers": 78085,
+  "num_followers": 78079,
   "original_name": "Os Indicados",
   "owner": {
     "name": "Spotify",
@@ -795,6 +795,22 @@
     {
       "added_at": "2025-09-17 15:00:09",
       "album": {
+        "name": "Onde Guardamos as Flores?",
+        "url": "https://open.spotify.com/album/0lIYF35w3Bkiw8zKx3lG6z"
+      },
+      "artists": [
+        {
+          "name": "Resgate",
+          "url": "https://open.spotify.com/artist/1Kaf4B6XHMA4agtMO1wzrf"
+        }
+      ],
+      "duration_ms": 287487,
+      "name": "N\u00e3o Sou Mais Eu",
+      "url": "https://open.spotify.com/track/5FbprHnY0bdQuslqVkUCdK"
+    },
+    {
+      "added_at": "2025-09-17 15:00:09",
+      "album": {
         "name": "CAJU",
         "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 431494,
       "name": "AO TEU LADO",
       "url": "https://open.spotify.com/track/5veL5yeni75MC7zZ8ne1gS"
-    },
-    {
-      "added_at": "2025-09-17 15:00:09",
-      "album": {
-        "name": "Onde Guardamos as Flores?",
-        "url": "https://open.spotify.com/album/0lIYF35w3Bkiw8zKx3lG6z"
-      },
-      "artists": [
-        {
-          "name": "Resgate",
-          "url": "https://open.spotify.com/artist/1Kaf4B6XHMA4agtMO1wzrf"
-        }
-      ],
-      "duration_ms": 287487,
-      "name": "N\u00e3o Sou Mais Eu",
-      "url": "https://open.spotify.com/track/5FbprHnY0bdQuslqVkUCdK"
     },
     {
       "added_at": "2025-09-17 15:00:09",

@@ -1,6 +1,6 @@
 {
   "description": "Die beste country musiek. Omslag: Bella",
-  "num_followers": 42127,
+  "num_followers": 42150,
   "original_name": "Country Musiek",
   "owner": {
     "name": "Spotify",
@@ -821,22 +821,6 @@
       "url": "https://open.spotify.com/track/0woFVeQqieB6EIH2Lm2lrQ"
     },
     {
-      "added_at": "2025-07-25 08:00:42",
-      "album": {
-        "name": "Snipe Hunter",
-        "url": "https://open.spotify.com/album/00rssxYxFqqdbuO1lz1Gxa"
-      },
-      "artists": [
-        {
-          "name": "Tyler Childers",
-          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
-        }
-      ],
-      "duration_ms": 285466,
-      "name": "Eatin' Big Time",
-      "url": "https://open.spotify.com/track/6b77gsnwtmE0mY1Xkv3Tyn"
-    },
-    {
       "added_at": "2025-05-22 22:00:25",
       "album": {
         "name": "Stay in Your Lane",
@@ -855,6 +839,22 @@
       "duration_ms": 209417,
       "name": "Stay in Your Lane",
       "url": "https://open.spotify.com/track/5SItFgOQ4TKzfT8PQyosJd"
+    },
+    {
+      "added_at": "2025-07-25 08:00:42",
+      "album": {
+        "name": "Snipe Hunter",
+        "url": "https://open.spotify.com/album/00rssxYxFqqdbuO1lz1Gxa"
+      },
+      "artists": [
+        {
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+        }
+      ],
+      "duration_ms": 285466,
+      "name": "Eatin' Big Time",
+      "url": "https://open.spotify.com/track/6b77gsnwtmE0mY1Xkv3Tyn"
     },
     {
       "added_at": "2025-05-22 22:00:25",

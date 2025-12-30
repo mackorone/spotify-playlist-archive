@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,117 likes - 201 songs - 11 hr 58 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,125 likes - 210 songs - 12 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,5 +209,14 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 199 | [Wine](https://open.spotify.com/track/0y1bwmgoGdG8DvryqmBR3K) | [Ou Yu](https://open.spotify.com/artist/5qPvi8fvZMu4sJGSoA6nH6), [framesound](https://open.spotify.com/artist/2rc2L0vG15AyrlJrIhsIXs) | [Wine](https://open.spotify.com/album/23Saj01VUpK7zGkcDX3mrd) | 2:51 |
 | 200 | [The End of the World or Whatever](https://open.spotify.com/track/7bEuh53WskcUxLGmjil4nQ) | [Nell Davies](https://open.spotify.com/artist/3T37olDofWUEnGxDPrTVgL) | [The End of the World or Whatever](https://open.spotify.com/album/2KnWPPJRwhUocc1yLm5Loa) | 3:12 |
 | 201 | [Manifest Your Dream](https://open.spotify.com/track/09hg5iYA66wpCUmmx0RACr) | [Diana Vibes Earth](https://open.spotify.com/artist/0QC7leTBU5trqgGkJpJz49) | [Manifest Your Dream](https://open.spotify.com/album/6GpYq7kNP48UelTMQNEiiC) | 2:15 |
+| 202 | [Marsy](https://open.spotify.com/track/5RguEb0BlI88ZqxsNLlWdj) | [DISSONANT](https://open.spotify.com/artist/3XYNgEne3ULFkzHdtXXUpl) | [Marsy](https://open.spotify.com/album/4Ve0AHpwDXIg01doQcpQKK) | 2:57 |
+| 203 | [Ti aspetterò per anni \- Demo](https://open.spotify.com/track/67FrejNz20wZwatCbcnSwa) | [Michele Blasco](https://open.spotify.com/artist/0LsldhiLiieaUY63tH9QfW) | [Ti aspetterò per anni \(Demo\)](https://open.spotify.com/album/5FTqGok8ZgiualuvwjjfrF) | 3:21 |
+| 204 | [Volevo Essere Un Duro](https://open.spotify.com/track/0ys9Y9jiKL99HJtJjhZqjM) | [Michele Blasco](https://open.spotify.com/artist/0LsldhiLiieaUY63tH9QfW) | [Volevo Essere Un Duro](https://open.spotify.com/album/4kJhiE1uP9r78mRJtiJ3cD) | 3:07 |
+| 205 | [J'veux du cash](https://open.spotify.com/track/0sXb1kv3MuS4o0ae1ElGlB) | [Glad](https://open.spotify.com/artist/02JizfSPTHzoiZUJDRXjIf) | [J'veux du cash](https://open.spotify.com/album/1cQU8FPCKoQC1s0OfySyQk) | 2:40 |
+| 206 | [Ojalá](https://open.spotify.com/track/4PGvvV8Ny4L7d95Pd7dQc0) | [Salva Merino](https://open.spotify.com/artist/0yXBaiTj2LM4ZqAJKeHnDJ), [The Insomnia Night](https://open.spotify.com/artist/1kf6je9RrHLLxg5ocFLVbD) | [Ojalá](https://open.spotify.com/album/0zn0W9uUfdzYFFwKkjfC6V) | 3:39 |
+| 207 | [UNPREDICTABLE](https://open.spotify.com/track/7sYqRny0YCdeTPTZ4cdFb4) | [Chicka Tikka Masala](https://open.spotify.com/artist/1itNEUHvXnRTI9iCL5KGCt) | [UNPREDICTABLE](https://open.spotify.com/album/0yCsT2thys4cYqlQ63A7j6) | 4:04 |
+| 208 | [Echoes of Amy](https://open.spotify.com/track/6UiwIJQxIK1x6gqXmKlHKU) | [Ab ashford](https://open.spotify.com/artist/4g9FR7ZZIljvUkcL4iT6ln) | [Echoes of Amy](https://open.spotify.com/album/66EFLSHLGGHvRZGMSRyR5l) | 5:04 |
+| 209 | [Thick Skin](https://open.spotify.com/track/6bAOcas8mawFPFcarx8AWm) | [Denny Haze](https://open.spotify.com/artist/4otN1ZekQ3YABzwrSLPsT1) | [Thick Skin](https://open.spotify.com/album/4odoTWJI9DFyvxYszQO0Vx) | 3:08 |
+| 210 | [Thoughts](https://open.spotify.com/track/5GqkfBgYOw8PlmwFIzEvyb) | [Marc Ocram](https://open.spotify.com/artist/6nIiuaM9vwePMOtklXfagK) | [Thoughts](https://open.spotify.com/album/6ZROzn85yQKVuHrmvKKbSy) | 5:19 |
 
-Snapshot ID: `AAAObf7COxTyDVpdPIH7X2d6V7KXrzPE`
+Snapshot ID: `AAAOdtJTORo68XjvbRnnvOFSSjZBdQkU`

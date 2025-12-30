@@ -1,6 +1,6 @@
 {
   "description": "\bTrendy & Chill Korean R&B music. (Cover: \nBabylon, Drake)",
-  "num_followers": 1094278,
+  "num_followers": 1094192,
   "original_name": "TrenChill K-R&B",
   "owner": {
     "name": "Spotify",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2025-12-18 10:23:17",
       "album": {
-        "name": "Lucky (Korean Ver.)",
-        "url": "https://open.spotify.com/album/27Kg4RNGzT2vIQ6OvXUjt5"
-      },
-      "artists": [
-        {
-          "name": "KISS OF LIFE",
-          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Lucky (Korean Ver.)",
-      "url": "https://open.spotify.com/track/5PD4iehNUhZQsmM9E5Vznt"
-    },
-    {
-      "added_at": "2025-12-18 10:23:17",
-      "album": {
         "name": "LOVE VIRUS Pt.1",
         "url": "https://open.spotify.com/album/1wMPSnMWI5JE47n8GHrK19"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 223199,
       "name": "Love Virus (Feat. I.M)",
       "url": "https://open.spotify.com/track/5jgXg4Sen0qi02jDf68RSA"
+    },
+    {
+      "added_at": "2025-12-18 10:23:17",
+      "album": {
+        "name": "Lucky (Korean Ver.)",
+        "url": "https://open.spotify.com/album/27Kg4RNGzT2vIQ6OvXUjt5"
+      },
+      "artists": [
+        {
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Lucky (Korean Ver.)",
+      "url": "https://open.spotify.com/track/5PD4iehNUhZQsmM9E5Vznt"
     },
     {
       "added_at": "2025-12-18 10:23:17",

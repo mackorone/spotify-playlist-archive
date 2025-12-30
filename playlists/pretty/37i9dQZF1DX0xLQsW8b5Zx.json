@@ -1,6 +1,6 @@
 {
   "description": "Live fast, die awesome! A great mix of the best rockabilly tracks.",
-  "num_followers": 544488,
+  "num_followers": 544494,
   "original_name": "Rockabilly Mania",
   "owner": {
     "name": "Spotify",
@@ -831,22 +831,6 @@
     {
       "added_at": "2025-10-24 14:43:53",
       "album": {
-        "name": "Rock 'n' Roll Ruby / I'd Rather Be Safe Than Sorry",
-        "url": "https://open.spotify.com/album/1gpiATxAWaQu0Kdzk72Izn"
-      },
-      "artists": [
-        {
-          "name": "Warren Smith",
-          "url": "https://open.spotify.com/artist/3EPmCVUm7QNc1fSrLsXGq5"
-        }
-      ],
-      "duration_ms": 170084,
-      "name": "Rock 'n' Roll Ruby",
-      "url": "https://open.spotify.com/track/5mDMTTHohxXChAaN7w0ROs"
-    },
-    {
-      "added_at": "2025-10-24 14:43:53",
-      "album": {
         "name": "Rockabilly Portrait",
         "url": "https://open.spotify.com/album/0O2LfyOYGw2sbFYt26NMse"
       },
@@ -863,18 +847,18 @@
     {
       "added_at": "2025-10-24 14:43:53",
       "album": {
-        "name": "Rockabilly Cats",
-        "url": "https://open.spotify.com/album/2FYlqHuVW1L4jnyU8eYJO2"
+        "name": "Rock 'n' Roll Ruby / I'd Rather Be Safe Than Sorry",
+        "url": "https://open.spotify.com/album/1gpiATxAWaQu0Kdzk72Izn"
       },
       "artists": [
         {
-          "name": "The Polecats",
-          "url": "https://open.spotify.com/artist/0ySLj2XiEOFtixInK1GAD4"
+          "name": "Warren Smith",
+          "url": "https://open.spotify.com/artist/3EPmCVUm7QNc1fSrLsXGq5"
         }
       ],
-      "duration_ms": 152026,
-      "name": "Rockabilly Guy",
-      "url": "https://open.spotify.com/track/3vrRAugNjfi7UkW4Ktxxyl"
+      "duration_ms": 170084,
+      "name": "Rock 'n' Roll Ruby",
+      "url": "https://open.spotify.com/track/5mDMTTHohxXChAaN7w0ROs"
     },
     {
       "added_at": "2025-10-24 14:43:53",
@@ -891,6 +875,22 @@
       "duration_ms": 129026,
       "name": "Black Slacks",
       "url": "https://open.spotify.com/track/0nRR6eQMDYkIFmn8c9Rwga"
+    },
+    {
+      "added_at": "2025-10-24 14:43:53",
+      "album": {
+        "name": "Rockabilly Cats",
+        "url": "https://open.spotify.com/album/2FYlqHuVW1L4jnyU8eYJO2"
+      },
+      "artists": [
+        {
+          "name": "The Polecats",
+          "url": "https://open.spotify.com/artist/0ySLj2XiEOFtixInK1GAD4"
+        }
+      ],
+      "duration_ms": 152026,
+      "name": "Rockabilly Guy",
+      "url": "https://open.spotify.com/track/3vrRAugNjfi7UkW4Ktxxyl"
     },
     {
       "added_at": "2025-10-24 14:43:53",
@@ -959,22 +959,6 @@
     {
       "added_at": "2025-10-24 14:43:53",
       "album": {
-        "name": "Tear It Up: The Complete Legedary Coral Recordings",
-        "url": "https://open.spotify.com/album/5EEZg4wJpSRVqRi1nxwKL6"
-      },
-      "artists": [
-        {
-          "name": "Johnny Burnette & The Rock 'N' Roll Trio",
-          "url": "https://open.spotify.com/artist/1neKWNZP74NEuvHZmvMS58"
-        }
-      ],
-      "duration_ms": 132400,
-      "name": "Drinking Wine Spo-Dee-O-Dee - Single Version",
-      "url": "https://open.spotify.com/track/2kfSF4imGkVpJXR4MSKccm"
-    },
-    {
-      "added_at": "2025-10-24 14:43:53",
-      "album": {
         "name": "Stray Cats",
         "url": "https://open.spotify.com/album/1EKPvDwIw66YEBF2TjOQn8"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 181493,
       "name": "Wild Saxophone",
       "url": "https://open.spotify.com/track/31K9keedgi9MaFaLRkvJJU"
+    },
+    {
+      "added_at": "2025-10-24 14:43:53",
+      "album": {
+        "name": "Tear It Up: The Complete Legedary Coral Recordings",
+        "url": "https://open.spotify.com/album/5EEZg4wJpSRVqRi1nxwKL6"
+      },
+      "artists": [
+        {
+          "name": "Johnny Burnette & The Rock 'N' Roll Trio",
+          "url": "https://open.spotify.com/artist/1neKWNZP74NEuvHZmvMS58"
+        }
+      ],
+      "duration_ms": 132400,
+      "name": "Drinking Wine Spo-Dee-O-Dee - Single Version",
+      "url": "https://open.spotify.com/track/2kfSF4imGkVpJXR4MSKccm"
     }
   ],
   "unique_name": "Rockabilly Mania",

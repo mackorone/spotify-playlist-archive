@@ -5104,7 +5104,7 @@
       ],
       "date_added": "2025-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-23",
+      "date_removed": null,
       "duration_ms": 212640,
       "name": "Anjos",
       "url": "https://open.spotify.com/track/3tHfEsbQsvAdGQ2CUFeEx0"
@@ -5712,7 +5712,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-30",
       "duration_ms": 133733,
       "name": "Aqui Tem Um Bando de Louco (Louco Por Ti, Corinthians)",
       "url": "https://open.spotify.com/track/5dGUhngmuWILrOFubZgWOW"
@@ -7128,7 +7128,7 @@
       ],
       "date_added": "2025-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-03",
+      "date_removed": null,
       "duration_ms": 174053,
       "name": "Automotivo Vem Preparada",
       "url": "https://open.spotify.com/track/37YvfFzPRGl51ocdJAlPYy"
@@ -15192,7 +15192,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-30",
       "duration_ms": 161298,
       "name": "Cheiro De Culpado - Ao Vivo",
       "url": "https://open.spotify.com/track/6bor3RIvmpmz5c435liCs9"
@@ -25086,7 +25086,7 @@
       ],
       "date_added": "2025-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-30",
       "duration_ms": 204040,
       "name": "Epit\u00e1fio Corinthiano",
       "url": "https://open.spotify.com/track/5VwDDxO6ifRBejgpwAXJGy"
@@ -33060,7 +33060,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-30",
       "duration_ms": 298197,
       "name": "Gritos de arquibancada e incentivo ao Corinthians",
       "url": "https://open.spotify.com/track/3Z3JpUmc6JG16hQzNcoHvh"
@@ -34294,7 +34294,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-30",
       "duration_ms": 108808,
       "name": "Hino do Corinthians (Campe\u00e3o dos Campe\u00f5es)",
       "url": "https://open.spotify.com/track/4PSQVuM4gfPd8P8NOt9Fqn"
@@ -40026,7 +40026,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-24",
+      "date_removed": null,
       "duration_ms": 66874,
       "name": "LET THE WORLD BURN - TikTok Guitar Cover x Hoodtrap Mashup",
       "url": "https://open.spotify.com/track/5ngKfcia7Xyjr4kYv97dbJ"
@@ -42040,7 +42040,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-29",
+      "date_removed": null,
       "duration_ms": 158066,
       "name": "L\u00c1 L\u00c1 L\u00c1 L\u00c1 L\u00c1L\u00c1L\u00c1 EM MENOS DE DEZ SEGUNDOS",
       "url": "https://open.spotify.com/track/57kR1FsptHTGZIIYu4gvmr"
@@ -55854,7 +55854,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-24",
+      "date_removed": null,
       "duration_ms": 242999,
       "name": "O Lamento de Israel - Jazz,Groove",
       "url": "https://open.spotify.com/track/5yUO5wO6gDaFHizBG0M7Kt"
@@ -60272,7 +60272,7 @@
       ],
       "date_added": "2025-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-30",
       "duration_ms": 245500,
       "name": "Peita do Coring\u00e3o",
       "url": "https://open.spotify.com/track/3efFIMPgqOhupP9mpk9DHG"
@@ -68620,7 +68620,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-24",
+      "date_removed": null,
       "duration_ms": 305322,
       "name": "Santo Pra Sempre - Alter. - Groove Worship",
       "url": "https://open.spotify.com/track/2qJuxrWUVf2M8FMiYwuLec"
@@ -71042,7 +71042,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-30",
       "duration_ms": 111428,
       "name": "Ser\u00e1 Que Vai Ter Gol do Rayan Hoje",
       "url": "https://open.spotify.com/track/13SrSwghNUyGnRBx2GTT7M"
@@ -78138,6 +78138,24 @@
       "duration_ms": 226073,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
+    },
+    {
+      "album": {
+        "name": "The Fate of Ophelia (Piano Version)",
+        "url": "https://open.spotify.com/album/515lvR7PK928KCKOkobnB8"
+      },
+      "artists": [
+        {
+          "name": "Piano Dreamer",
+          "url": "https://open.spotify.com/artist/3dHKwjbapTGZG7k1swwHfq"
+        }
+      ],
+      "date_added": "2025-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225725,
+      "name": "The Fate of Ophelia (Piano Version)",
+      "url": "https://open.spotify.com/track/2QSUUtZEKp2KMybQiTEig9"
     },
     {
       "album": {

@@ -531,6 +531,24 @@
     },
     {
       "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/1Reb521PcOYXpJEZzxUpPj"
+      },
+      "artists": [
+        {
+          "name": "Toby Judson",
+          "url": "https://open.spotify.com/artist/0T9Ir174EsmDYRxlCYqBJM"
+        }
+      ],
+      "date_added": "2025-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261873,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/2T5RPu1t5GbJkrT1GfVJJE"
+    },
+    {
+      "album": {
         "name": "Coronet",
         "url": "https://open.spotify.com/album/5siQjlkTpfmu7wnkNlo1RG"
       },
@@ -1754,7 +1772,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-24",
+      "date_removed": null,
       "duration_ms": 299655,
       "name": "IO",
       "url": "https://open.spotify.com/track/78IlRY43O1FTXkXQFEKCU1"
@@ -1938,6 +1956,24 @@
       "duration_ms": 212819,
       "name": "Lady",
       "url": "https://open.spotify.com/track/3eAOMeyAK4p2NmCvTNK61P"
+    },
+    {
+      "album": {
+        "name": "Lambs",
+        "url": "https://open.spotify.com/album/4YOJDz1BFT6Qd676eB8CA3"
+      },
+      "artists": [
+        {
+          "name": "In Feathers",
+          "url": "https://open.spotify.com/artist/2LH46D4HKMgYmmgI1Gf8Jj"
+        }
+      ],
+      "date_added": "2025-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252004,
+      "name": "Lambs",
+      "url": "https://open.spotify.com/track/5SLaKUk2t9C57MlHHgS5Z3"
     },
     {
       "album": {
@@ -2880,7 +2916,7 @@
       ],
       "date_added": "2025-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-30",
       "duration_ms": 222193,
       "name": "Pick Me Up",
       "url": "https://open.spotify.com/track/14tT9kBpmJCTaPgBe934gk"
@@ -3916,7 +3952,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-30",
       "duration_ms": 174481,
       "name": "The Year Of The Snake",
       "url": "https://open.spotify.com/track/3H4GFRUJlKdpf09kvj2YUW"
@@ -4028,7 +4064,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-30",
       "duration_ms": 306857,
       "name": "Trappen",
       "url": "https://open.spotify.com/track/0WLNy45tLrBZdobrIc0vjG"

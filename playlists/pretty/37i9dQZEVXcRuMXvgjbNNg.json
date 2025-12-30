@@ -6,294 +6,234 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aUjQUAAAAAAVIQLLDaOkdh6/rjVPmSkW",
+  "snapshot_id": "aVIK0AAAAAC5zgFX9VJ69nlHD5d4i2mm",
   "tracks": [
     {
-      "added_at": "2025-12-22 05:00:00",
+      "added_at": "2025-12-29 05:00:00",
       "album": {
-        "name": "A Walk Through the Sky",
-        "url": "https://open.spotify.com/album/2qcouameQm61TRf9zHFfSl"
+        "name": "Summer Melodies, Pt. I",
+        "url": "https://open.spotify.com/album/0fz0RHy7ov3vIry1r3sIWm"
       },
       "artists": [
         {
-          "name": "Kainbeats",
-          "url": "https://open.spotify.com/artist/4n9z9czt00gzw36hdoVU3G"
+          "name": "Alan Gogoll",
+          "url": "https://open.spotify.com/artist/7MOxmVjcx5HWoEu9pBWXT3"
         }
       ],
-      "duration_ms": 141396,
-      "name": "A Walk Through the Sky",
-      "url": "https://open.spotify.com/track/5dy5dK65KyLp4Kji4MjwZF"
+      "duration_ms": 214183,
+      "name": "Melody One",
+      "url": "https://open.spotify.com/track/4OYRZ4bbiyiSTR02WkrNLX"
     },
     {
-      "added_at": "2025-12-22 05:00:00",
+      "added_at": "2025-12-29 05:00:00",
       "album": {
-        "name": "Memories We Made",
-        "url": "https://open.spotify.com/album/1cubLMFrawGVDCLftKLDwv"
+        "name": "Lord of The Rings but it's lofi beats",
+        "url": "https://open.spotify.com/album/2MsWRLN5ESmSfmxphL794S"
       },
       "artists": [
         {
-          "name": "No Spirit",
-          "url": "https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX"
+          "name": "Bits & Hits",
+          "url": "https://open.spotify.com/artist/2BMmryAcDdRy8GQq89hrqF"
         }
       ],
-      "duration_ms": 227532,
-      "name": "Memories We Made",
-      "url": "https://open.spotify.com/track/5Py0Esfix2HSh3G6Cv6dfi"
+      "duration_ms": 148235,
+      "name": "The Fellowship of the Ring - lofi version",
+      "url": "https://open.spotify.com/track/1kWkf0peH8Hj8saQY3KoPq"
     },
     {
-      "added_at": "2025-12-22 05:00:00",
+      "added_at": "2025-12-29 05:00:00",
       "album": {
-        "name": "Tales of the Magic Tree (12 Pieces for String Orchestra)",
-        "url": "https://open.spotify.com/album/28uOHnJohmhE5klQa229Xe"
+        "name": "The Mandalorian: Season 2 - Vol. 2 (Chapters 13-16) [Original Score]",
+        "url": "https://open.spotify.com/album/4xUXCZfINYIV1DdZKomeVx"
       },
       "artists": [
         {
-          "name": "Alexander Litvinovsky",
-          "url": "https://open.spotify.com/artist/28yzshAIS5oCBCAhVR5vpJ"
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        }
+      ],
+      "duration_ms": 223356,
+      "name": "Ahsoka Lives",
+      "url": "https://open.spotify.com/track/7Gq4mTdhrYlY5dHy2UooRH"
+    },
+    {
+      "added_at": "2025-12-29 05:00:00",
+      "album": {
+        "name": "Feels Like This",
+        "url": "https://open.spotify.com/album/37dKlvajGi2mmHLPgWBvLj"
+      },
+      "artists": [
+        {
+          "name": "Sean Angus Watson",
+          "url": "https://open.spotify.com/artist/2kiSeGQsztzTrVXlIZOoBn"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "I'm Happy",
+      "url": "https://open.spotify.com/track/1wK9k0LsPYvSkQ4hxxbmMt"
+    },
+    {
+      "added_at": "2025-12-29 05:00:00",
+      "album": {
+        "name": "From Fields, From Forests, From Far",
+        "url": "https://open.spotify.com/album/5CFiBp6RnvH1DBCK76QCTH"
+      },
+      "artists": [
+        {
+          "name": "Ethan Hibbs",
+          "url": "https://open.spotify.com/artist/68HDLnp9oeBFmkT6trhkza"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "From Fields, From Forests, From Far",
+      "url": "https://open.spotify.com/track/2ZUrify1iNYCVgkNGLZl6t"
+    },
+    {
+      "added_at": "2025-12-29 05:00:00",
+      "album": {
+        "name": "The Light of the Moon",
+        "url": "https://open.spotify.com/album/52hiFslg8yvvuU9CB4y2K0"
+      },
+      "artists": [
+        {
+          "name": "Gnoss",
+          "url": "https://open.spotify.com/artist/4QwjOokQ9W6ZEjk3b9Rplj"
+        }
+      ],
+      "duration_ms": 177699,
+      "name": "Adelaide's",
+      "url": "https://open.spotify.com/track/7DcGjJNMSe6DxqCiso4GJD"
+    },
+    {
+      "added_at": "2025-12-29 05:00:00",
+      "album": {
+        "name": "The Seafarer",
+        "url": "https://open.spotify.com/album/7rsOqzHQgd3AZFfF3sIfL6"
+      },
+      "artists": [
+        {
+          "name": "Peter Belec",
+          "url": "https://open.spotify.com/artist/012xNfNlm7MiRwB2DuLaAu"
+        }
+      ],
+      "duration_ms": 176588,
+      "name": "The Seafarer",
+      "url": "https://open.spotify.com/track/5T9Fe9dZ3Sw6X2TkwZ1AAI"
+    },
+    {
+      "added_at": "2025-12-29 05:00:00",
+      "album": {
+        "name": "Shortcut",
+        "url": "https://open.spotify.com/album/62cmsvHJ3ujV0I2W6nyrGj"
+      },
+      "artists": [
+        {
+          "name": "oakwhisper",
+          "url": "https://open.spotify.com/artist/1SNWW6LUqF0uJxbnSgJcQr"
+        }
+      ],
+      "duration_ms": 142125,
+      "name": "Shortcut",
+      "url": "https://open.spotify.com/track/3RVvakb2wJVqirFMCRiMkG"
+    },
+    {
+      "added_at": "2025-12-29 05:00:00",
+      "album": {
+        "name": "Recomposed By Max Richter: Vivaldi, The Four Seasons",
+        "url": "https://open.spotify.com/album/0JBT8Sw5eGWC86DCrobOfY"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
         },
         {
-          "name": "Metamorphose String Orchestra",
-          "url": "https://open.spotify.com/artist/4G2W8xOZ8D0KRJX4GIETWe"
+          "name": "Daniel Hope",
+          "url": "https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur"
         },
         {
-          "name": "Pavel Lyubomudrov",
-          "url": "https://open.spotify.com/artist/2P4DEqPDDyGY3cHfEWkRIE"
-        }
-      ],
-      "duration_ms": 179733,
-      "name": "Tales of the Magic Tree: III. Steps Upward",
-      "url": "https://open.spotify.com/track/29QXsj3BQ76NR0dqdnEEt9"
-    },
-    {
-      "added_at": "2025-12-22 05:00:00",
-      "album": {
-        "name": "Luca (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/62coFwzQrIGBhkVFYv5xPa"
-      },
-      "artists": [
-        {
-          "name": "Dan Romer",
-          "url": "https://open.spotify.com/artist/5ppJZFMF0gAfrHfZTGuHe4"
-        }
-      ],
-      "duration_ms": 166146,
-      "name": "Telescope",
-      "url": "https://open.spotify.com/track/7nEyry1XTeLdc5nqs1uFWH"
-    },
-    {
-      "added_at": "2025-12-22 05:00:00",
-      "album": {
-        "name": "Cloud Prism",
-        "url": "https://open.spotify.com/album/4FwzurD1K4rFSCA6fgFW0r"
-      },
-      "artists": [
-        {
-          "name": "Adriel Fair",
-          "url": "https://open.spotify.com/artist/7jU9KNOUS9FqDvHCUiRqZN"
-        }
-      ],
-      "duration_ms": 129824,
-      "name": "The Expedition",
-      "url": "https://open.spotify.com/track/1ZR8fOBnOpGTe7IiLxm1iI"
-    },
-    {
-      "added_at": "2025-12-22 05:00:00",
-      "album": {
-        "name": "Stardew & Chill 2",
-        "url": "https://open.spotify.com/album/4zZW9nVlJPuuc0f84Lg6LT"
-      },
-      "artists": [
-        {
-          "name": "Coffee Date",
-          "url": "https://open.spotify.com/artist/74ZWzuwsxGAt05s2sWtq0j"
+          "name": "Raphael Alpermann",
+          "url": "https://open.spotify.com/artist/23Z0TsB54gPf1Zo2KLeak9"
         },
         {
-          "name": "GameChops",
-          "url": "https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Ancient",
-      "url": "https://open.spotify.com/track/1Khjv3Q7vHS5BHUL7bP9kL"
-    },
-    {
-      "added_at": "2025-12-22 05:00:00",
-      "album": {
-        "name": "Hogwarts Legacy (Original Video Game Soundtrack)",
-        "url": "https://open.spotify.com/album/7zh839yQHDgZJASAuDmnpi"
-      },
-      "artists": [
-        {
-          "name": "J Scott Rakozy",
-          "url": "https://open.spotify.com/artist/5QsqtbrHN65994pLwOyp5N"
+          "name": "Konzerthaus Kammerorchester Berlin",
+          "url": "https://open.spotify.com/artist/19z3Is8jPDFmLphrQ2w2Du"
         },
         {
-          "name": "Hogwarts Legacy",
-          "url": "https://open.spotify.com/artist/3he1hJlJoHsQOzaDlNptC2"
+          "name": "Andre de Ridder",
+          "url": "https://open.spotify.com/artist/1pNP4idjNnhPXDLi0Jz12R"
         }
       ],
-      "duration_ms": 168600,
-      "name": "The Halls of Hogwarts",
-      "url": "https://open.spotify.com/track/6xdTcuZpLGDEiz05NFA4xo"
+      "duration_ms": 104800,
+      "name": "Autumn 3 - 2012",
+      "url": "https://open.spotify.com/track/3mlGh8Kfo8mtb4sTzuizNl"
     },
     {
-      "added_at": "2025-12-22 05:00:00",
+      "added_at": "2025-12-29 05:00:00",
       "album": {
-        "name": "Higher. Further. Faster. Together. (Lofi Girl x Thaehan Lofi Remix) [From \"The Marvels\"]",
-        "url": "https://open.spotify.com/album/1d4nWQ1OGXS5qEIExfahL4"
+        "name": "Through My Window",
+        "url": "https://open.spotify.com/album/1PfvqvXQmItxifyjsgSYHE"
       },
       "artists": [
         {
-          "name": "Laura Karpman",
-          "url": "https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD"
-        },
-        {
-          "name": "Thaehan",
-          "url": "https://open.spotify.com/artist/2n0sjgdrfHYJT6B39cdvWW"
-        },
-        {
-          "name": "Lofi Girl",
-          "url": "https://open.spotify.com/artist/1eDIWVJt7ZWKsrXw5WVNsN"
+          "name": "Vincenzo Greco",
+          "url": "https://open.spotify.com/artist/683wrDLNE8qLhRhVcuYig5"
         }
       ],
-      "duration_ms": 180360,
-      "name": "Higher. Further. Faster. Together. (Lofi Girl x Thaehan Lofi Remix) - From \"The Marvels\"",
-      "url": "https://open.spotify.com/track/2u1K929oTMdB6OyQk9YeOu"
+      "duration_ms": 138305,
+      "name": "Airwaves",
+      "url": "https://open.spotify.com/track/5oktcSx5vNQY2ujlOTVloc"
     },
     {
-      "added_at": "2025-12-22 05:00:00",
+      "added_at": "2025-12-29 05:00:00",
       "album": {
-        "name": "Reprise - EP",
-        "url": "https://open.spotify.com/album/7bt0wAr8t3OVcOFoDpJGRS"
+        "name": "Notos",
+        "url": "https://open.spotify.com/album/5S0FcLxoJ9jjk8s13hfwTZ"
       },
       "artists": [
         {
-          "name": "Marcus Warner",
-          "url": "https://open.spotify.com/artist/44HQ4cmv8MKMNHkPtXwZbQ"
+          "name": "The Oh Hellos",
+          "url": "https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR"
         }
       ],
-      "duration_ms": 286467,
-      "name": "First Flight",
-      "url": "https://open.spotify.com/track/49YILyh8VHnePjxlZrD6cq"
+      "duration_ms": 142800,
+      "name": "Mandatory Evac / Counting Cars",
+      "url": "https://open.spotify.com/track/0pblwIpBbWTPnIAe9fTjh8"
     },
     {
-      "added_at": "2025-12-22 05:00:00",
+      "added_at": "2025-12-29 05:00:00",
       "album": {
-        "name": "Acoustic Guitar Covers, Vol. 4",
-        "url": "https://open.spotify.com/album/3QIQXD2qMFfmRR2fu7A5LT"
+        "name": "Serpentine Stone",
+        "url": "https://open.spotify.com/album/4k9BTHvpyy9UahNVxemgLm"
       },
       "artists": [
         {
-          "name": "Guus Dielissen",
-          "url": "https://open.spotify.com/artist/2lBxgKTiYd4kpfnAnFyI1P"
+          "name": "Paul Alan Morris",
+          "url": "https://open.spotify.com/artist/1TNiz4tR70en7oaBGZ2L9M"
         }
       ],
-      "duration_ms": 218403,
-      "name": "Fireflies - Acoustic Instrumental",
-      "url": "https://open.spotify.com/track/4AOzlzurXcIJc6dfk2r6mf"
+      "duration_ms": 125424,
+      "name": "Serpentine Stone",
+      "url": "https://open.spotify.com/track/03iPxf9T7n4uxUtymea6Do"
     },
     {
-      "added_at": "2025-12-22 05:00:00",
+      "added_at": "2025-12-29 05:00:00",
       "album": {
-        "name": "Origins",
-        "url": "https://open.spotify.com/album/54uQbhDGITsGbuvY4vjn7S"
+        "name": "Guardians of the Galaxy (Original Score)",
+        "url": "https://open.spotify.com/album/3KxwtSwqC6Ed49laQpSlJM"
       },
       "artists": [
         {
-          "name": "Austin Fray",
-          "url": "https://open.spotify.com/artist/6uQUVNwgLKs0M1GxBzZSAd"
+          "name": "Tyler Bates",
+          "url": "https://open.spotify.com/artist/75fIuwXxhZ1atNzWLMrgF0"
         }
       ],
-      "duration_ms": 275008,
-      "name": "Kindred",
-      "url": "https://open.spotify.com/track/39PBNcyYuFWe9GoLxb8dn5"
+      "duration_ms": 172040,
+      "name": "To the Stars",
+      "url": "https://open.spotify.com/track/2vRG5cWpLCKKzYtHavb2Sr"
     },
     {
-      "added_at": "2025-12-22 05:00:00",
-      "album": {
-        "name": "Kingdoms of Amalur: Reckoning (Original Game Soundtrack)",
-        "url": "https://open.spotify.com/album/6K7C3iYb8G8UEVcwhAaJ4G"
-      },
-      "artists": [
-        {
-          "name": "Grant Kirkhope",
-          "url": "https://open.spotify.com/artist/52kyuqw6IKrI3kzllwYcvd"
-        }
-      ],
-      "duration_ms": 249800,
-      "name": "Dalentarth",
-      "url": "https://open.spotify.com/track/1UPkUGMiCcPzfbj49lcFjz"
-    },
-    {
-      "added_at": "2025-12-22 05:00:00",
-      "album": {
-        "name": "Video Game LoFi: Skyrim",
-        "url": "https://open.spotify.com/album/71IBZ9uxtolR9VNQ7v5XP9"
-      },
-      "artists": [
-        {
-          "name": "High Tide Lofi",
-          "url": "https://open.spotify.com/artist/1lCzRZihuoEjivi0DFiazr"
-        },
-        {
-          "name": "LoFi VGM",
-          "url": "https://open.spotify.com/artist/5xB4GL8c3mmj6U1gSRl2gD"
-        }
-      ],
-      "duration_ms": 219574,
-      "name": "The Streets of Whiterun (from \"The Elder Scrolls V: Skyrim\") - Lo-Fi Edit",
-      "url": "https://open.spotify.com/track/6YozJkOLvMbbOM0nW2PGNN"
-    },
-    {
-      "added_at": "2025-12-22 05:00:00",
-      "album": {
-        "name": "Alto's Odyssey (Original Game Soundtrack)",
-        "url": "https://open.spotify.com/album/6cSKoN9FYxH3tRfM6AkAKE"
-      },
-      "artists": [
-        {
-          "name": "Todd Baker",
-          "url": "https://open.spotify.com/artist/2RfwvVMJyYSZNtzYu67LL4"
-        }
-      ],
-      "duration_ms": 340413,
-      "name": "An Endless Desert",
-      "url": "https://open.spotify.com/track/7KOZqkcLlzldiaGjb5uARk"
-    },
-    {
-      "added_at": "2025-12-22 05:00:00",
-      "album": {
-        "name": "If We Don't Wake Up",
-        "url": "https://open.spotify.com/album/06OBlFQ0wiIxYJsayBtP4b"
-      },
-      "artists": [
-        {
-          "name": "Kiernan Tollefson",
-          "url": "https://open.spotify.com/artist/7xUAXohTtb2o2saEb2OE3n"
-        }
-      ],
-      "duration_ms": 277849,
-      "name": "If We Don't Wake Up",
-      "url": "https://open.spotify.com/track/5eo62EZPlAO4K14Hk1PGnp"
-    },
-    {
-      "added_at": "2025-12-22 05:00:00",
-      "album": {
-        "name": "Romantique",
-        "url": "https://open.spotify.com/album/3xVSVdqG95Q0RHHdaHYlhl"
-      },
-      "artists": [
-        {
-          "name": "Jordan Critz",
-          "url": "https://open.spotify.com/artist/37eAVTi0h4cxTkScarLPFC"
-        }
-      ],
-      "duration_ms": 178044,
-      "name": "Rivi\u00e8re",
-      "url": "https://open.spotify.com/track/77PT66jmy4TsJU3WIKcdrC"
-    },
-    {
-      "added_at": "2025-12-22 05:00:00",
+      "added_at": "2025-12-29 05:00:00",
       "album": {
         "name": "MADE IN ABYSS ORIGINAL SOUNDTRACK",
         "url": "https://open.spotify.com/album/6rvlFG08LZ2psOoOSWEbMv"
@@ -304,47 +244,123 @@
           "url": "https://open.spotify.com/artist/4S33gEeiCjwfD1FJKfMT3Y"
         }
       ],
-      "duration_ms": 145293,
-      "name": "Welcome to my World",
-      "url": "https://open.spotify.com/track/7esii3QZVRz9XXjg3j836T"
+      "duration_ms": 109466,
+      "name": "Days in the Sun",
+      "url": "https://open.spotify.com/track/6RHGMGjhUyzSAu4wzm7slM"
     },
     {
-      "added_at": "2025-12-22 05:00:00",
+      "added_at": "2025-12-29 05:00:00",
       "album": {
-        "name": "Pocket Horizons",
-        "url": "https://open.spotify.com/album/78f25VUcJNgfgGQ1tAtue4"
+        "name": "Back to Marie",
+        "url": "https://open.spotify.com/album/71b7kOOuQ8lJXS98ozR3pZ"
       },
       "artists": [
         {
-          "name": "HoopsandHipHop",
-          "url": "https://open.spotify.com/artist/6doBPcAt2vxQmvbcmNxMmc"
+          "name": "Deborah Offenhauser",
+          "url": "https://open.spotify.com/artist/3jaIRgjqIO4ZciAM2KmIlH"
         }
       ],
-      "duration_ms": 239202,
-      "name": "Nuvema Town (From \"Pok\u00e9mon Black and White\")",
-      "url": "https://open.spotify.com/track/4GJHJvtOaE0ArHf6amw0Wl"
+      "duration_ms": 238529,
+      "name": "Back to Marie",
+      "url": "https://open.spotify.com/track/2oercdyHQ1er67eu3SaPS9"
     },
     {
-      "added_at": "2025-12-22 05:00:00",
+      "added_at": "2025-12-29 05:00:00",
       "album": {
-        "name": "The Road Most Travelled - Morrowind lofi",
-        "url": "https://open.spotify.com/album/0q4Xm8DhlwTpe2Szr5zI1v"
+        "name": "Legendarium",
+        "url": "https://open.spotify.com/album/3i33XxbD0Ux5StIt9zblYw"
       },
       "artists": [
         {
-          "name": "Bits & Hits",
-          "url": "https://open.spotify.com/artist/2BMmryAcDdRy8GQq89hrqF"
+          "name": "Marcus Warner",
+          "url": "https://open.spotify.com/artist/44HQ4cmv8MKMNHkPtXwZbQ"
         }
       ],
-      "duration_ms": 168666,
-      "name": "The Road Most Travelled - Morrowind lofi",
-      "url": "https://open.spotify.com/track/7Mm54I5jHlB1BXgc56r1Xf"
+      "duration_ms": 215810,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/1y0t2p2QB3ZCXIIcY9QTE7"
     },
     {
-      "added_at": "2025-12-22 05:00:00",
+      "added_at": "2025-12-29 05:00:00",
       "album": {
-        "name": "Still Are",
-        "url": "https://open.spotify.com/album/51nkCp7r9wCBgXKmPEotIY"
+        "name": "Stardew & Chill",
+        "url": "https://open.spotify.com/album/25QMvYJB064UrmDqzdyHJk"
+      },
+      "artists": [
+        {
+          "name": "Coffee Date",
+          "url": "https://open.spotify.com/artist/74ZWzuwsxGAt05s2sWtq0j"
+        },
+        {
+          "name": "Dj Cutman",
+          "url": "https://open.spotify.com/artist/1IwzmBTWI4CzUNsZM7Zqd8"
+        },
+        {
+          "name": "GameChops",
+          "url": "https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp"
+        }
+      ],
+      "duration_ms": 184924,
+      "name": "Stardew Valley Overture",
+      "url": "https://open.spotify.com/track/2Yy55JmhpfCVKLFjzQxfeW"
+    },
+    {
+      "added_at": "2025-12-29 05:00:00",
+      "album": {
+        "name": "Nocturnal Reveries",
+        "url": "https://open.spotify.com/album/5mltQvECcpPEouuVG6xwJ9"
+      },
+      "artists": [
+        {
+          "name": "Tibeauthetraveler",
+          "url": "https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb"
+        },
+        {
+          "name": "\u00d8utgrown",
+          "url": "https://open.spotify.com/artist/3Mqo6hd9UQljzHJTJETjsU"
+        }
+      ],
+      "duration_ms": 159040,
+      "name": "i'm alone out here",
+      "url": "https://open.spotify.com/track/3Kvlt95kJXpEzxi01mC2WW"
+    },
+    {
+      "added_at": "2025-12-29 05:00:00",
+      "album": {
+        "name": "It Gets Easier",
+        "url": "https://open.spotify.com/album/5Pb4WXB4gIDGcLAI7Nco45"
+      },
+      "artists": [
+        {
+          "name": "Andrew Gialanella",
+          "url": "https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg"
+        }
+      ],
+      "duration_ms": 169263,
+      "name": "Lost and Found",
+      "url": "https://open.spotify.com/track/5oyY3vA7JFhZdIdvOWV2Ho"
+    },
+    {
+      "added_at": "2025-12-29 05:00:00",
+      "album": {
+        "name": "Path to Shing",
+        "url": "https://open.spotify.com/album/0kCEYu7SEGtekFTMmwFNaD"
+      },
+      "artists": [
+        {
+          "name": "Kainbeats",
+          "url": "https://open.spotify.com/artist/4n9z9czt00gzw36hdoVU3G"
+        }
+      ],
+      "duration_ms": 139687,
+      "name": "With Each Step",
+      "url": "https://open.spotify.com/track/0IeTQqDXGgQgLVsdGyzC5c"
+    },
+    {
+      "added_at": "2025-12-29 05:00:00",
+      "album": {
+        "name": "The Core",
+        "url": "https://open.spotify.com/album/7iCGHg43jaZcHw2xNgdiq4"
       },
       "artists": [
         {
@@ -352,173 +368,157 @@
           "url": "https://open.spotify.com/artist/1gu7CrdnoVqZKicUZlyhoa"
         }
       ],
-      "duration_ms": 147777,
-      "name": "Still Are",
-      "url": "https://open.spotify.com/track/79w0F9LUYgW66cRiw5uTr1"
+      "duration_ms": 144727,
+      "name": "All We Need",
+      "url": "https://open.spotify.com/track/0eQhugEx2f7dOWOSnsN30j"
     },
     {
-      "added_at": "2025-12-22 05:00:00",
+      "added_at": "2025-12-29 05:00:00",
       "album": {
-        "name": "Middle-Earth & Chill",
-        "url": "https://open.spotify.com/album/56SdskwNIRVy2ZbVTpT5Gu"
+        "name": "I Didn't Get Your Name",
+        "url": "https://open.spotify.com/album/021KHJOWw3QWHHlZKZzBdG"
+      },
+      "artists": [
+        {
+          "name": "Sherwood Roberts",
+          "url": "https://open.spotify.com/artist/5ZJlaXaFNMdz0VsZyzPNjD"
+        }
+      ],
+      "duration_ms": 92500,
+      "name": "I Didn't Get Your Name",
+      "url": "https://open.spotify.com/track/3ZlJ8uIeuEHp45iQBzITJF"
+    },
+    {
+      "added_at": "2025-12-29 05:00:00",
+      "album": {
+        "name": "10",
+        "url": "https://open.spotify.com/album/1Zky97zfugw0DZQzKPkWFB"
+      },
+      "artists": [
+        {
+          "name": "The Piano Guys",
+          "url": "https://open.spotify.com/artist/0jW6R8CVyVohuUJVcuweDI"
+        }
+      ],
+      "duration_ms": 206600,
+      "name": "Someone To You",
+      "url": "https://open.spotify.com/track/4myZBpamPz9I9kAsLjIMOD"
+    },
+    {
+      "added_at": "2025-12-29 05:00:00",
+      "album": {
+        "name": "Omoiyari",
+        "url": "https://open.spotify.com/album/7efrHmcFVWTB733vfDt9ey"
+      },
+      "artists": [
+        {
+          "name": "Kishi Bashi",
+          "url": "https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0"
+        }
+      ],
+      "duration_ms": 213586,
+      "name": "Penny Rabbit and Summer Bear",
+      "url": "https://open.spotify.com/track/2DD9LNVKrcw1wt7m2dG4pS"
+    },
+    {
+      "added_at": "2025-12-29 05:00:00",
+      "album": {
+        "name": "Luca (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/62coFwzQrIGBhkVFYv5xPa"
+      },
+      "artists": [
+        {
+          "name": "Dan Romer",
+          "url": "https://open.spotify.com/artist/5ppJZFMF0gAfrHfZTGuHe4"
+        }
+      ],
+      "duration_ms": 104653,
+      "name": "Take Me, Gravity",
+      "url": "https://open.spotify.com/track/7pfDiHoNYGWZphw7fmBrXD"
+    },
+    {
+      "added_at": "2025-12-29 05:00:00",
+      "album": {
+        "name": "Kaelyn",
+        "url": "https://open.spotify.com/album/5lTjGbTDkbn0eD0Ai94i5l"
+      },
+      "artists": [
+        {
+          "name": "a sound for you",
+          "url": "https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI"
+        }
+      ],
+      "duration_ms": 129888,
+      "name": "Kaelyn",
+      "url": "https://open.spotify.com/track/1gjaqScZGsobRdXQv4WzUq"
+    },
+    {
+      "added_at": "2025-12-29 05:00:00",
+      "album": {
+        "name": "Zelda & Chill II",
+        "url": "https://open.spotify.com/album/0N0noai9OQs1rYEaS47vJw"
       },
       "artists": [
         {
           "name": "Mikel",
           "url": "https://open.spotify.com/artist/5MboRLcEpLbsshOx64OdA6"
-        }
-      ],
-      "duration_ms": 212523,
-      "name": "The Breaking of the Fellowship",
-      "url": "https://open.spotify.com/track/3fzUHtWEFeihKWhQIiIbFf"
-    },
-    {
-      "added_at": "2025-12-22 05:00:00",
-      "album": {
-        "name": "A Sky Full of Stars",
-        "url": "https://open.spotify.com/album/3UwtpIVAn7qz3AeHKFOo2B"
-      },
-      "artists": [
-        {
-          "name": "Daniel Padim",
-          "url": "https://open.spotify.com/artist/0txvlIPmV4NkDYi7qRBKsB"
-        }
-      ],
-      "duration_ms": 260344,
-      "name": "A Sky Full of Stars",
-      "url": "https://open.spotify.com/track/62K1Sar8YEfCwl0JqOgIRC"
-    },
-    {
-      "added_at": "2025-12-22 05:00:00",
-      "album": {
-        "name": "Ballads of Hyrule III",
-        "url": "https://open.spotify.com/album/1RoIIGEPIJnh7ryq9cRje4"
-      },
-      "artists": [
-        {
-          "name": "ROZEN",
-          "url": "https://open.spotify.com/artist/1uca08INg3Te4jR7g1khYN"
-        }
-      ],
-      "duration_ms": 212662,
-      "name": "Kakariko Village (Sunrise)",
-      "url": "https://open.spotify.com/track/2hxdOjZHOQ0sTGb4snmIiL"
-    },
-    {
-      "added_at": "2025-12-22 05:00:00",
-      "album": {
-        "name": "Beyond",
-        "url": "https://open.spotify.com/album/3XjDHkGScoegoIZzg9J2U8"
-      },
-      "artists": [
-        {
-          "name": "Million Eyes",
-          "url": "https://open.spotify.com/artist/2sXnk24vARe4jxHbd1HbEq"
-        }
-      ],
-      "duration_ms": 186959,
-      "name": "Birds on the Roof",
-      "url": "https://open.spotify.com/track/4j0Chq04YWS89X8dj01QqT"
-    },
-    {
-      "added_at": "2025-12-22 05:00:00",
-      "album": {
-        "name": "Stratus",
-        "url": "https://open.spotify.com/album/7GKB4NNvr31q8dr0D5JNNz"
-      },
-      "artists": [
-        {
-          "name": "Ethan Hibbs",
-          "url": "https://open.spotify.com/artist/68HDLnp9oeBFmkT6trhkza"
-        }
-      ],
-      "duration_ms": 221592,
-      "name": "Stratus",
-      "url": "https://open.spotify.com/track/1aJEnXSbnOs7NNctpPiDcN"
-    },
-    {
-      "added_at": "2025-12-22 05:00:00",
-      "album": {
-        "name": "The Lord of the Rings: The Rings of Power (Season One: Amazon Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/1zCtGVGxobce9FJXXLe1V2"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 169697,
-      "name": "Nori Brandyfoot",
-      "url": "https://open.spotify.com/track/0yQAqMvw9tFOEli7EpFBLT"
-    },
-    {
-      "added_at": "2025-12-22 05:00:00",
-      "album": {
-        "name": "Brooklyn Sessions 12",
-        "url": "https://open.spotify.com/album/1YZqxQ3AQvSLENd5OtjfSE"
-      },
-      "artists": [
-        {
-          "name": "Brooklyn Duo",
-          "url": "https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R"
-        }
-      ],
-      "duration_ms": 236222,
-      "name": "vampire",
-      "url": "https://open.spotify.com/track/1F2toOQowUwI9Ax1uzdEMb"
-    },
-    {
-      "added_at": "2025-12-22 05:00:00",
-      "album": {
-        "name": "Sid Meier's Civilization VI (Original Game Soundtrack)",
-        "url": "https://open.spotify.com/album/1JCtcMqTcc3WAP3NuXOIv2"
-      },
-      "artists": [
-        {
-          "name": "Christopher Tin",
-          "url": "https://open.spotify.com/artist/60B2BBjn6yEQEl8XLYMZU2"
-        }
-      ],
-      "duration_ms": 231692,
-      "name": "Sogno di Volare (The Dream of Flight)",
-      "url": "https://open.spotify.com/track/7jRrMJQ0j8xSUnM9SYR4N6"
-    },
-    {
-      "added_at": "2025-12-22 05:00:00",
-      "album": {
-        "name": "Call the Herd",
-        "url": "https://open.spotify.com/album/4fE45M3ETuMtzHPpNfmV5o"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Grace",
-          "url": "https://open.spotify.com/artist/3z6E6ZPwJ7l0mp3HHcOfd2"
-        }
-      ],
-      "duration_ms": 188578,
-      "name": "The Norman Kings",
-      "url": "https://open.spotify.com/track/7tXoC0hKQy1TTv9XA8gofz"
-    },
-    {
-      "added_at": "2025-12-22 05:00:00",
-      "album": {
-        "name": "Downton Abbey - The Ultimate Collection (Music From The Original TV Series)",
-        "url": "https://open.spotify.com/album/6xjWiCK1NwsZr7GtP2EWeP"
-      },
-      "artists": [
-        {
-          "name": "John Lunn",
-          "url": "https://open.spotify.com/artist/5Zly5j72BTO6psXGz12qSt"
         },
         {
-          "name": "The Chamber Orchestra Of London",
-          "url": "https://open.spotify.com/artist/2IS9rTtWwEfUEY4u3mecIT"
+          "name": "GameChops",
+          "url": "https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp"
         }
       ],
-      "duration_ms": 221426,
-      "name": "Damaged - From \u201cDownton Abbey\u201d Soundtrack",
-      "url": "https://open.spotify.com/track/0LKTa2v3ACmnTuyyiSMKM8"
+      "duration_ms": 186352,
+      "name": "Zelda's Lullaby",
+      "url": "https://open.spotify.com/track/2k7wZ8NThVb0ufHMnvmhc5"
+    },
+    {
+      "added_at": "2025-12-29 05:00:00",
+      "album": {
+        "name": "The Musical Journey",
+        "url": "https://open.spotify.com/album/31OHls9lzIoMpCRRcMCnxZ"
+      },
+      "artists": [
+        {
+          "name": "Jonas B. Ingebretsen",
+          "url": "https://open.spotify.com/artist/2jgWys0fCJxVjc8zJjRuq6"
+        }
+      ],
+      "duration_ms": 158198,
+      "name": "Call to Adventure",
+      "url": "https://open.spotify.com/track/1fcvcn2RuZKq99dWg0ETvS"
+    },
+    {
+      "added_at": "2025-12-29 05:00:00",
+      "album": {
+        "name": "Littleroot Town",
+        "url": "https://open.spotify.com/album/1Teq9H6ZTHrdDY3H74GJZF"
+      },
+      "artists": [
+        {
+          "name": "Mipsick",
+          "url": "https://open.spotify.com/artist/7ysUAzUBgOC4KPXklQO3bG"
+        }
+      ],
+      "duration_ms": 149812,
+      "name": "Littleroot Town",
+      "url": "https://open.spotify.com/track/1WZWVPzUnC7aqXsBCvDbwL"
+    },
+    {
+      "added_at": "2025-12-29 05:00:00",
+      "album": {
+        "name": "Andor: Vol. 3 (Episodes 9-12) [Original Score]",
+        "url": "https://open.spotify.com/album/12sIChYxTgbZVVYJfPFBNi"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Britell",
+          "url": "https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni"
+        }
+      ],
+      "duration_ms": 133445,
+      "name": "Manifesto",
+      "url": "https://open.spotify.com/track/4ZlHtMw76EYawEdwfALrVd"
     }
   ],
   "unique_name": "Discover Weekly (@mackorone)",

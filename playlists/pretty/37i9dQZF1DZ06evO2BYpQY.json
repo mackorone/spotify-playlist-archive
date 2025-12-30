@@ -1,12 +1,12 @@
 {
   "description": "This is Sin\u00e9ad O'Connor. The essential tracks, all in one playlist.",
-  "num_followers": 80393,
+  "num_followers": 80386,
   "original_name": "This Is Sin\u00e9ad O'Connor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU8hgAAAAAAxkcBsk4LjbT3gKglErLSd",
+  "snapshot_id": "aVBzAAAAAAAAz59rsIjmi4fcFEEHP2KC",
   "tracks": [
     {
       "added_at": null,
@@ -339,6 +339,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Faith and Courage",
+        "url": "https://open.spotify.com/album/0ITyzBRmAMnwt8FwtkSu0d"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 255586,
+      "name": "Jealous",
+      "url": "https://open.spotify.com/track/2nC2C0GNE78vi2v3ZPeJWy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Conjure One",
         "url": "https://open.spotify.com/album/0oUVb36vRs7xH3M6Gu2OUB"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 257893,
       "name": "Tears From The Moon",
       "url": "https://open.spotify.com/track/4nBzwUdPBNuKiFfLTeG2sV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Faith and Courage",
-        "url": "https://open.spotify.com/album/0ITyzBRmAMnwt8FwtkSu0d"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 255586,
-      "name": "Jealous",
-      "url": "https://open.spotify.com/track/2nC2C0GNE78vi2v3ZPeJWy"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thank You for Hearing Me",
-        "url": "https://open.spotify.com/album/1IRGD7Q4rBHAJrWgDwdujG"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 252640,
-      "name": "Streets of London",
-      "url": "https://open.spotify.com/track/2REVdfWC59yWAzWFai0AVg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I'm Not Bossy, I'm the Boss (Deluxe Version)",
         "url": "https://open.spotify.com/album/7DYDA9YjcBUsVrcwR2Xaek"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 206880,
       "name": "8 Good Reasons",
       "url": "https://open.spotify.com/track/1rR5AIcFxtDFTfXIdHU7FN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thank You for Hearing Me",
+        "url": "https://open.spotify.com/album/1IRGD7Q4rBHAJrWgDwdujG"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 252640,
+      "name": "Streets of London",
+      "url": "https://open.spotify.com/track/2REVdfWC59yWAzWFai0AVg"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Enjoy music & episodes of "SPY×FAMILY"! ©遠藤達哉／集英社・SPY×FAMILY製作委員会
 
-225 songs - 16 hr 8 min
+226 songs - 16 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Bondman](https://open.spotify.com/track/1JOBdK2yf2X7srMa9EGS9d) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [TVアニメ『SPY×FAMILY』オリジナル・サウンドトラック \(Vol.1\)](https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL) | 1:41 | 2022-06-25 |  |
 | [Bondman](https://open.spotify.com/track/75oYpYVq6NJBKMxE5LoX8p) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [SPY x FAMILY Soundtrack Vol\. 1 \(Music from the Original TV Series\)](https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r) | 1:41 | 2022-06-25 | 2024-04-19 |
 | [Boozy Bonkers](https://open.spotify.com/track/01eTswMnADHSaowQNUupOY) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [TVアニメ『SPY×FAMILY』Season 3 オリジナル･サウンドトラック](https://open.spotify.com/album/2gW6rxx6y241oaRe54Vvd4) | 1:42 | 2025-10-03 |  |
+| [Break a Neck](https://open.spotify.com/track/7vYELRbTkycmvfZhE0ZWv5) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A), [\(K\)NoW\_NAME:Ayaka Tachibana](https://open.spotify.com/artist/5vuVwUJtfN6bELEOhpb0a9) | [Animation『SPY×FAMILY』Season 3 Original Soundtrack Complete Version](https://open.spotify.com/album/0xgWBfWTvr3Pc6h06jEbfW) | 3:02 | 2025-12-29 |  |
 | [Breeze \- insert song from SPY x FAMILY \(Original Television Soundtrack\)](https://open.spotify.com/track/5FTyvoW0szvB83VY5lQPgP) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [Breeze \- insert song from SPY x FAMILY \(Original Television Soundtrack\)](https://open.spotify.com/album/3HoxvfHDsMRrRNMcx8rljY) | 3:24 | 2022-11-13 |  |
 | [Cecile Hall](https://open.spotify.com/track/5JZ1hlRauEImYgN6rtSsDv) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [TVアニメ『SPY×FAMILY』オリジナル・サウンドトラック \(Vol.1\)](https://open.spotify.com/album/4Tun5Ibl0lRYCv9K7LCzqL) | 2:15 | 2022-06-25 | 2025-10-05 |
 | [Cecile Hall](https://open.spotify.com/track/5eTNSg4xXJdtVweGK9Cjp0) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [SPY x FAMILY Soundtrack Vol\. 1 \(Music from the Original TV Series\)](https://open.spotify.com/album/7e4jxoNaSmYXIWq7qQfQ0r) | 2:15 | 2022-06-25 | 2024-04-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 
 > SPINGERE
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,541 likes - 100 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,572 likes - 100 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY5glQ3K3VV.md) - [plain]
 | 99 | [Tequila](https://open.spotify.com/track/0GA3Q6sDJKFyFTuOD08fOn) | [Matt Kush](https://open.spotify.com/artist/5B9ZPuAybSaWKxW5Ehf4iP), [Ayo Tyno](https://open.spotify.com/artist/2OjbBWyCK2DBjhxkTNvS0N) | [Tequila](https://open.spotify.com/album/52VHqcYCHd3V8Ei8QYA2Cs) | 2:34 |
 | 100 | [HARD TECH](https://open.spotify.com/track/47CKxzkqTc8erp0UiuxN6o) | [Axel Cooper](https://open.spotify.com/artist/1adz07qkurydHDZRSePFhI), [Ame 2.0](https://open.spotify.com/artist/1XlwE6XhQCFKpTmZWEDY96) | [HARD TECH](https://open.spotify.com/album/5sy8YaOuCsuJl1EOH34XBq) | 1:54 |
 
-Snapshot ID: `AAAAACj03FUrX9HsTyGfnIzQkL7glcXN`
+Snapshot ID: `AAAAALvcxylAwUw9l9pO74vIF6MESGod`

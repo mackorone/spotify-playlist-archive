@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 
 > Some nights aren’t meant to be streamed; this is one of them\. Cover: 3P
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,925 likes - 28 songs - 1 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,918 likes - 28 songs - 1 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 | 27 | [SHABU SHABU](https://open.spotify.com/track/5IN0whu3AIbbXG8jsB7vIc) | [Kevin Ong](https://open.spotify.com/artist/6ssB4iiKmoICBJoFG8T6Vp), [3P](https://open.spotify.com/artist/3NSGCBkfj6hEhXQhytRg4D) | [鑫](https://open.spotify.com/album/3GCmzhIjI8bNZgjEzDgiFw) | 3:09 |
 | 28 | [小白雲](https://open.spotify.com/track/1nREpjbvKCLyJjcqonVaWH) | [Danny Lee](https://open.spotify.com/artist/1jOIdGa500qLK6LcmUmakH), [3P](https://open.spotify.com/artist/3NSGCBkfj6hEhXQhytRg4D) | [鑫](https://open.spotify.com/album/3GCmzhIjI8bNZgjEzDgiFw) | 4:00 |
 
-Snapshot ID: `AAAAACtNVmo+2CRTkczJXNOzNxZCvOKr`
+Snapshot ID: `AAAAADFvy+9xplj3yFwwol9eBuT3h2pM`

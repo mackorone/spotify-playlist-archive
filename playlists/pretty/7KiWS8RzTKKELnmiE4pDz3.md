@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 430 songs - 1 day 1 hr 22 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 436 songs - 1 day 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -438,5 +438,11 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 428 | [Airborne Aquarium](https://open.spotify.com/track/71vuS1nprefkBeCK344TEL) | [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Pilot Talk: Trilogy](https://open.spotify.com/album/5ydx8HEoTmJrxZuPKcTU4V) | 2:51 |
 | 429 | [Lettin' Em Know](https://open.spotify.com/track/63968gO1eyp0MfoS0MyAvV) | [Scarface](https://open.spotify.com/artist/19KwjzvIL92r29IINtlPNP) | [The World Is Yours](https://open.spotify.com/album/6iYx1zYXN4nJQfCA01D0CH) | 5:16 |
 | 430 | [Till The Angels Come \(feat\. Freddie Gibbs & Prodigy\)](https://open.spotify.com/track/4UlrlRkFZtVJCIocWLJxy3) | [Domo Genesis](https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Prodigy](https://open.spotify.com/artist/1GwxXgEc6oxCKQ5wykWXFs) | [No Idols](https://open.spotify.com/album/3GncI0ExXYyWnIzZe9oxRQ) | 4:34 |
+| 431 | [Good Life](https://open.spotify.com/track/4YBjcmSkH6n7jVaTHsNguq) | [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT), [Exile](https://open.spotify.com/artist/0XBPjgCUeBLeZEnz0J3W6m), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl), [Joseph](https://open.spotify.com/artist/1o78uxvWqkKcMs2EVUjw1F) | [Below the Heavens](https://open.spotify.com/album/2OnNdRdzqs0Xe6VU2uGdPe) | 5:23 |
+| 432 | [Next Time](https://open.spotify.com/track/4Bf0UDkIOkCCZmbSzaPZna) | [Gang Starr](https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ) | [Moment Of Truth](https://open.spotify.com/album/5f6Nz2v1DESbpu1NerEql2) | 3:06 |
+| 433 | [Swank Sinatra](https://open.spotify.com/track/1kCsiTpjlKFayPVWRnfi6V) | [DyMe\-A\-DuZiN](https://open.spotify.com/artist/7zL88MvOpaSJhQeZZs9GnO), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Capital Steez](https://open.spotify.com/artist/0oQuXVLDJB7J4wNff4F99l), [CJ Fly](https://open.spotify.com/artist/41yEdWozNYEzA2RfgYQHgr) | [A Portrait Of Donnovan](https://open.spotify.com/album/6uoPduoc5lK5ugn8XVdakY) | 3:44 |
+| 434 | [Fly \(Song of Liberation\)](https://open.spotify.com/track/5JJVckUmZlcMVdsIJYGpYD) | [Exile](https://open.spotify.com/artist/4r4XYZJUeeKCcrkvi7voDP), [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT) | [Dirty Science](https://open.spotify.com/album/5ZC9NHU7bWeXnTD8sx3m4E) | 4:09 |
+| 435 | [Eclipse \(feat\. Substantial\)](https://open.spotify.com/track/7mEPuj0XW6eK14Unu6IUc1) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ), [Substantial](https://open.spotify.com/artist/5FmThJ74ycmeBdQnu4Cfcw) | [Modal Soul](https://open.spotify.com/album/6nVACH6a27eOWiumAJhDWS) | 3:34 |
+| 436 | [Stress Off The Chest](https://open.spotify.com/track/3rknRtghzrvPvc175inFq3) | [Blu & Exile](https://open.spotify.com/artist/567CChDKZrtF4rnk2r5JeP) | [In The Beginning: Before The Heavens](https://open.spotify.com/album/493jNMqrlOYhzQ0aoYU03s) | 3:01 |
 
-Snapshot ID: `AAAfdxYAxHi4OA4WPn69xsw+w3AtE6zq`
+Snapshot ID: `AAAffbhxWbxPK3WAZ5R2605Fd+UtuDpc`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Wale
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,393,691 likes - 101 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,393,710 likes - 101 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 100 | [Let's Talk About It](https://open.spotify.com/track/3CqKtcxQ9JsXkJFvifxV5B) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Let's Talk About It](https://open.spotify.com/album/71VHehXnjoRuQ4jqxhtkL7) | 3:37 |
 | 101 | [31 Days](https://open.spotify.com/track/5F2rFJ5cV8DxB5QubLdpSJ) | [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [The Pilot](https://open.spotify.com/album/2fchM7sxsLkLCsxsHTBZP8) | 2:54 |
 
-Snapshot ID: `AAAAAGcCsXhTm8HghQi0T0e0O8lEZ1u1`
+Snapshot ID: `AAAAAGKsoat/dCnvpndF1apff/oDh9Yf`

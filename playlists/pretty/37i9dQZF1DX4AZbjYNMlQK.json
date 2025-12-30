@@ -1,6 +1,6 @@
 {
   "description": "Fresh & new Christmas songs para los d\u00edas festivos. Cover: Camilo & Evaluna Montaner",
-  "num_followers": 281208,
+  "num_followers": 281199,
   "original_name": "Feliz Navidad",
   "owner": {
     "name": "Spotify",
@@ -619,22 +619,6 @@
     {
       "added_at": "2025-12-12 05:00:40",
       "album": {
-        "name": "Volvernos a Encontrar",
-        "url": "https://open.spotify.com/album/6oIN2uymnjEuWbrgMzE4X1"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 186130,
-      "name": "Volvernos a Encontrar",
-      "url": "https://open.spotify.com/track/2rvfoWKvT0axDiXB96X4jO"
-    },
-    {
-      "added_at": "2025-12-12 05:00:40",
-      "album": {
         "name": "Navidad Contigo",
         "url": "https://open.spotify.com/album/5Vdnt5rT8LC0UYUCTpgFL1"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 123333,
       "name": "Navidad Contigo",
       "url": "https://open.spotify.com/track/3lmv1OZdUikricAhXJa2Pv"
+    },
+    {
+      "added_at": "2025-12-12 05:00:40",
+      "album": {
+        "name": "Volvernos a Encontrar",
+        "url": "https://open.spotify.com/album/6oIN2uymnjEuWbrgMzE4X1"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 186130,
+      "name": "Volvernos a Encontrar",
+      "url": "https://open.spotify.com/track/2rvfoWKvT0axDiXB96X4jO"
     },
     {
       "added_at": "2025-12-12 05:00:40",
@@ -1327,18 +1327,22 @@
     {
       "added_at": "2025-12-12 05:00:40",
       "album": {
-        "name": "Por Ti - Spotify Sad Sierre\u00f1o Holiday Singles",
-        "url": "https://open.spotify.com/album/5ZTmLuIoFiDxFAmfHNKBqt"
+        "name": "Navidad de la Casa",
+        "url": "https://open.spotify.com/album/4bB4B7b3B7qQoHeAc8kBtH"
       },
       "artists": [
         {
-          "name": "Los Aptos",
-          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+          "name": "Daniel Vengo",
+          "url": "https://open.spotify.com/artist/3nZfp3ZXgYSYspFsZI6VAW"
+        },
+        {
+          "name": "Gilberto Daza",
+          "url": "https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a"
         }
       ],
-      "duration_ms": 206000,
-      "name": "Por Ti - Spotify Sad Sierre\u00f1o Holiday Singles",
-      "url": "https://open.spotify.com/track/49NNSyz1YPHIYmtfNdJ9zT"
+      "duration_ms": 203109,
+      "name": "Lleg\u00f3 Navidad",
+      "url": "https://open.spotify.com/track/3AknclWyWPLqIyUEyLPmKi"
     }
   ],
   "unique_name": "Feliz Navidad",

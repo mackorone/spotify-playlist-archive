@@ -4,7 +4,7 @@
 
 > 
 
-2,300 songs - 5 day 3 hr 37 min
+2,301 songs - 5 day 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -949,6 +949,7 @@
 | [Human Target Practice](https://open.spotify.com/track/3jDVar2NVIarj5O0ALmeUR) | [Hail The Sun](https://open.spotify.com/artist/0XblvrTo6mnHOxWIP1t5T6) | [Wake](https://open.spotify.com/album/1SxgmIfy6JhZ0DNmsiIRXd) | 3:54 | 2023-06-06 |  |
 | [HUMBLE.](https://open.spotify.com/track/7ujx3NYtwO2LkmKGz59mXp) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/7wbJhbCvhPfbK1CLAkpq25) | 2:57 | 2025-01-01 | 2025-01-14 |
 | [Hungry Hippo](https://open.spotify.com/track/0WpDeBJ22LcwF4QoERQOTv) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [Whack World](https://open.spotify.com/album/3ogNAkUhvQy0cFOfLoR6Y8) | 1:00 | 2021-08-05 |  |
+| [HUNNIDDOLLA](https://open.spotify.com/track/4cOdRhWoQg8wrtggw6YZLY) | [MadeinTYO](https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ) | [HUNNIDDOLLA](https://open.spotify.com/album/2Zd7deeqEMClIaUCo19aIc) | 2:16 | 2025-12-29 |  |
 | [HURT](https://open.spotify.com/track/067hayOg89adiLyGpC6Ox6) | [1 800 PAIN](https://open.spotify.com/artist/7BT9qietxZuylsjyWGYBUR) | [HURT](https://open.spotify.com/album/3wpSPPVxf7OgZToA2KWCzO) | 2:53 | 2021-08-05 |  |
 | [Hush](https://open.spotify.com/track/4zXZ5Mq2L6jnsOsTssgRh8) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [CINEMA](https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v) | 3:01 | 2021-11-14 |  |
 | [HUSHH](https://open.spotify.com/track/6Jb7UPWUXDOrgdI0XnBSp5) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [Hushh](https://open.spotify.com/album/3zrEXbxVZJJ5Y9Ih06oxUP) | 3:00 | 2021-08-05 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1950s. Cover: Frank Sinatra.",
-  "num_followers": 434969,
+  "num_followers": 435080,
   "original_name": "Soft 50s",
   "owner": {
     "name": "Spotify",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
+        "name": "Modern Sounds in Country and Western Music, Vols 1 & 2",
+        "url": "https://open.spotify.com/album/4j4w5DDWMKD7ePStAl19OF"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 196920,
+      "name": "You Don't Know Me",
+      "url": "https://open.spotify.com/track/6LahUh0U4umx6hDFfVWlGi"
+    },
+    {
+      "added_at": "2022-05-30 12:59:00",
+      "album": {
         "name": "The Platters Golden Hits",
         "url": "https://open.spotify.com/album/7l3vhUqMYbu62TIKSocf4B"
       },
@@ -1151,18 +1167,18 @@
     {
       "added_at": "2022-05-30 12:59:00",
       "album": {
-        "name": "Modern Sounds in Country and Western Music, Vols 1 & 2",
-        "url": "https://open.spotify.com/album/4j4w5DDWMKD7ePStAl19OF"
+        "name": "Songs Our Daddy Taught Us",
+        "url": "https://open.spotify.com/album/6TChmXsRtOQXNZQPrI2yGy"
       },
       "artists": [
         {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
         }
       ],
-      "duration_ms": 196920,
-      "name": "You Don't Know Me",
-      "url": "https://open.spotify.com/track/6LahUh0U4umx6hDFfVWlGi"
+      "duration_ms": 184666,
+      "name": "Down In The Willow Garden",
+      "url": "https://open.spotify.com/track/7F4z7VV5aVWX72YK4bM9HB"
     },
     {
       "added_at": "2022-05-30 12:59:00",
@@ -1179,22 +1195,6 @@
       "duration_ms": 157293,
       "name": "Smoke Gets In Your Eyes",
       "url": "https://open.spotify.com/track/307XEC1IUwUs9ojlEFwH7f"
-    },
-    {
-      "added_at": "2022-05-30 12:59:00",
-      "album": {
-        "name": "Songs Our Daddy Taught Us",
-        "url": "https://open.spotify.com/album/6TChmXsRtOQXNZQPrI2yGy"
-      },
-      "artists": [
-        {
-          "name": "The Everly Brothers",
-          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
-        }
-      ],
-      "duration_ms": 184666,
-      "name": "Down In The Willow Garden",
-      "url": "https://open.spotify.com/track/7F4z7VV5aVWX72YK4bM9HB"
     },
     {
       "added_at": "2022-05-30 12:59:00",

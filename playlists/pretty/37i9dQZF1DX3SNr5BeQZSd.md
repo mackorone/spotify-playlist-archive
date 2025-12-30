@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 
 > the freshest trending lofi beats for chill, focus, or study vibes
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,293 likes - 100 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,306 likes - 100 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Every Step Holds Freedom](https://open.spotify.com/track/5aG94YFOXv9ThCM9VmNuYA) | [The Notorious CPU](https://open.spotify.com/artist/1UE4irzu5yP6iWTG49Dyqd), [H.1](https://open.spotify.com/artist/3azKf6nXrUCI1RLZkX4Aj6), [The Yume Collective](https://open.spotify.com/artist/7Kdl3c6JU2v41pmXkG31Q7) | [Every Step Holds Freedom](https://open.spotify.com/album/667NU4HyG2Uyj0rTHWTzsp) | 2:27 |
+| 1 | [Every Step Holds Freedom](https://open.spotify.com/track/5aG94YFOXv9ThCM9VmNuYA) | [The Notorious CPU](https://open.spotify.com/artist/0oNKkdrAeLRQROSkaFCrym), [H.1](https://open.spotify.com/artist/3azKf6nXrUCI1RLZkX4Aj6), [The Yume Collective](https://open.spotify.com/artist/7Kdl3c6JU2v41pmXkG31Q7) | [Every Step Holds Freedom](https://open.spotify.com/album/667NU4HyG2Uyj0rTHWTzsp) | 2:27 |
 | 2 | [Between Breaths](https://open.spotify.com/track/5lDoQvfspiCnKQQRFfrLrz) | [Swink](https://open.spotify.com/artist/1pvbdPT4qv8egDvkcOhBN0), [aprilflowr](https://open.spotify.com/artist/2LtGFBnmNR62BLNwCH49x7) | [Between Breaths](https://open.spotify.com/album/0YdTvR4GYPlJBC1DaONYf6) | 1:56 |
 | 3 | [falling in reverse](https://open.spotify.com/track/7zK3KxQG2lTEEllBzUvNIA) | [yvwn.](https://open.spotify.com/artist/4nKqGQ0oFqlfBmXxiMPEO1) | [falling in reverse](https://open.spotify.com/album/6jCpB2Z7B6svxluaWih6VD) | 1:32 |
 | 4 | [Feels Like Home](https://open.spotify.com/track/7sA569taESXToIAvRiPTfh) | [Jikuru](https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp) | [Feels Like Home](https://open.spotify.com/album/7oEAFqWFRmtQJvfIRZW9Xu) | 2:16 |

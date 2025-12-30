@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62HvDmsP7Md.md) - [plain]
 
 ### [Bling Era](https://open.spotify.com/playlist/37i9dQZF1DX62HvDmsP7Md)
 
-> Party like it's the early 2000s\. ✨
+> Party like it's the early 2000s\. ✨ Mixed by Spotify Editors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,537 likes - 60 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,938 likes - 60 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62HvDmsP7Md.md) - [plain]
 | 59 | [B R Right \(feat\. Ludacris\)](https://open.spotify.com/track/7iKXO3oCFiiZRniwAJaGa4) | [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Diamond Princess](https://open.spotify.com/album/6AMevGHBKW3lUyZcd017QZ) | 4:21 |
 | 60 | [Is That Yo Bitch](https://open.spotify.com/track/5PhUfEu7VYoIFgJQh1KprV) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Vol\. 3..\. Life And Times Of S\. Carter](https://open.spotify.com/album/3rWJsuu7ukoZZhp7YYkjNZ) | 4:34 |
 
-Snapshot ID: `AAAAAIcNyNvsvYObVHHzgjYYNz+FJyMK`
+Snapshot ID: `AAAAACNk8cHxT3LBOdUkNmrOmMfnpH7X`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,274 songs - 5 day 1 hr 58 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,275 songs - 5 day 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2282,5 +2282,6 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2272 | [Cosy in the Rocket \(From "Grey's Anatomy"\)](https://open.spotify.com/track/1yXmxP5gB3x7ut0G3p6R9R) | [KnightsBridge](https://open.spotify.com/artist/0pldXaMyJUzrlzYn7uXped) | [Meredith Grey Playlist \(Soundtrack Inspired from TV Series Grey's Anatomy\)](https://open.spotify.com/album/3iiSiLpVOCATwk2TtPCqqk) | 4:25 |
 | 2273 | [Pain \- LSDXOXO Remix](https://open.spotify.com/track/4p7euivNtllV68CZSbso2I) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [to hell with it \(Remixes\)](https://open.spotify.com/album/3KP55PNM7vdlrIm1LavDzb) | 2:27 |
 | 2274 | [Stairs](https://open.spotify.com/track/0l3kMJXLcw4yaSOIU39Sq6) | [Design19](https://open.spotify.com/artist/3U09lzgkM9iGAHE1ESbRO8) | [Trigger](https://open.spotify.com/album/7o5z9uEOAZkfZJAV26Lv1j) | 3:56 |
+| 2275 | [HUNNIDDOLLA](https://open.spotify.com/track/4cOdRhWoQg8wrtggw6YZLY) | [MadeinTYO](https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ) | [HUNNIDDOLLA](https://open.spotify.com/album/2Zd7deeqEMClIaUCo19aIc) | 2:16 |
 
-Snapshot ID: `AAAE3ZTANZ9VbDtkMYudfYekbTmmCPqF`
+Snapshot ID: `AAAE3mFUOkU3Ia+J6NaUdyiA30HvO2Jo`

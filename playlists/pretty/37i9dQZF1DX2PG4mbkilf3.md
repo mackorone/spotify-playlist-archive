@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > Your guide to R&B in Canada, with Sage Harris from Toronto, ON.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,409 likes - 75 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,495 likes - 75 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Raw](https://open.spotify.com/track/4gVpr6S2aYVuNlfHg7iCrh) | [Sage Harris](https://open.spotify.com/artist/0oIjVtSreeU9ldQZFdQZn2), [Vandalizm](https://open.spotify.com/artist/1sTxSvbJ4mbDDZ77k391gt) | [Raw](https://open.spotify.com/album/7CjdYyY2OGDiB4ufweQR3R) | 3:03 |
-| 2 | [PRETTY WOMAN \(WICKED\)](https://open.spotify.com/track/747fcCBqT47Mx2V40WFQOd) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [PRETTY WOMAN \(WICKED\)](https://open.spotify.com/album/34G6OJqIpUFe3aU1SjD3xj) | 3:26 |
+| 2 | [PRETTY WOMAN \(WICKED\)](https://open.spotify.com/track/747fcCBqT47Mx2V40WFQOd) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [PRETTY WOMAN \(WICKED\)](https://open.spotify.com/album/34G6OJqIpUFe3aU1SjD3xj) | 3:19 |
 | 3 | [Keep Tryin](https://open.spotify.com/track/2xgOt4NSJaydG1TftMsA7N) | [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH), [High Klassified](https://open.spotify.com/artist/4V5f0tr4dGBGUvW5HsR22O) | [Keep Tryin](https://open.spotify.com/album/0HMPePWQ4J5vv4Ki3FTt9r) | 2:24 |
 | 4 | [High Road](https://open.spotify.com/track/70gjgZ9hREB49y3JnKMzAi) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [High Road](https://open.spotify.com/album/0LeC7dAH6ISyiqLzCVMkzO) | 3:26 |
 | 5 | [Supposed To Be My Lover](https://open.spotify.com/track/7iwpe1CwPKju1KYZhfvBnG) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Flower City Heartbreak](https://open.spotify.com/album/4r3eoK1hWHYrsiBJUkCCeB) | 2:30 |

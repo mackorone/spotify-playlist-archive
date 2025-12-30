@@ -1,6 +1,6 @@
 {
   "description": "Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario. Foto: Franco Masciarelli y Sofia Macchi.",
-  "num_followers": 192647,
+  "num_followers": 192656,
   "original_name": "Modo Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -839,6 +839,22 @@
     {
       "added_at": "2025-11-25 20:35:07",
       "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/3xB3SzIEkry77YmregfUHZ"
+      },
+      "artists": [
+        {
+          "name": "Diego Torres",
+          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
+        }
+      ],
+      "duration_ms": 250573,
+      "name": "Deja de Pedir Perd\u00f3n - MTV Unplugged",
+      "url": "https://open.spotify.com/track/2pRfK1DH705B1NL48C31ka"
+    },
+    {
+      "added_at": "2025-11-25 20:35:07",
+      "album": {
         "name": "Ac\u00fastico",
         "url": "https://open.spotify.com/album/2wGbH2fkkMEmj1QtiKoqDf"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 220375,
       "name": "Todo Es Perfecto",
       "url": "https://open.spotify.com/track/3kow098wMsKCVyKSyiNEuO"
-    },
-    {
-      "added_at": "2025-11-25 20:35:07",
-      "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/3xB3SzIEkry77YmregfUHZ"
-      },
-      "artists": [
-        {
-          "name": "Diego Torres",
-          "url": "https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh"
-        }
-      ],
-      "duration_ms": 250573,
-      "name": "Deja de Pedir Perd\u00f3n - MTV Unplugged",
-      "url": "https://open.spotify.com/track/2pRfK1DH705B1NL48C31ka"
     },
     {
       "added_at": "2025-11-25 20:35:07",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2025-11-25 20:35:07",
       "album": {
-        "name": "El Filo",
-        "url": "https://open.spotify.com/album/7rpkACLfv20YSPSkS4rS2d"
-      },
-      "artists": [
-        {
-          "name": "Molok0",
-          "url": "https://open.spotify.com/artist/7zrKyjlv5C1kp9eoJwG01J"
-        }
-      ],
-      "duration_ms": 162714,
-      "name": "El Temporal",
-      "url": "https://open.spotify.com/track/0pQ4aQ1g6lll9evj3yTiZh"
-    },
-    {
-      "added_at": "2025-11-25 20:35:07",
-      "album": {
         "name": "Fin de Fiesta",
         "url": "https://open.spotify.com/album/4sui0UO1NPlOUeRC9zvKy5"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 101818,
       "name": "Fin de Fiesta",
       "url": "https://open.spotify.com/track/0ZzNRgWM8LkgiHXbr3gfuq"
+    },
+    {
+      "added_at": "2025-11-25 20:35:07",
+      "album": {
+        "name": "El Filo",
+        "url": "https://open.spotify.com/album/7rpkACLfv20YSPSkS4rS2d"
+      },
+      "artists": [
+        {
+          "name": "Molok0",
+          "url": "https://open.spotify.com/artist/7zrKyjlv5C1kp9eoJwG01J"
+        }
+      ],
+      "duration_ms": 162714,
+      "name": "El Temporal",
+      "url": "https://open.spotify.com/track/0pQ4aQ1g6lll9evj3yTiZh"
     },
     {
       "added_at": "2025-11-25 20:35:07",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2025-11-25 20:35:07",
       "album": {
-        "name": "2020",
-        "url": "https://open.spotify.com/album/3lNiAuo6RZ845kJrwOnQTN"
-      },
-      "artists": [
-        {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
-        }
-      ],
-      "duration_ms": 186207,
-      "name": "2020",
-      "url": "https://open.spotify.com/track/6TzKMyI4e0JT9tiVNS9v3b"
-    },
-    {
-      "added_at": "2025-11-25 20:35:07",
-      "album": {
         "name": "V\u00edctimas del Cielo (En Casa)",
         "url": "https://open.spotify.com/album/091ZOngC8UF9JAk0fICMcT"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 243605,
       "name": "V\u00edctimas del Cielo",
       "url": "https://open.spotify.com/track/46hRbN7XUKEwcoXB9InpeL"
+    },
+    {
+      "added_at": "2025-11-25 20:35:07",
+      "album": {
+        "name": "2020",
+        "url": "https://open.spotify.com/album/3lNiAuo6RZ845kJrwOnQTN"
+      },
+      "artists": [
+        {
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+        }
+      ],
+      "duration_ms": 186207,
+      "name": "2020",
+      "url": "https://open.spotify.com/track/6TzKMyI4e0JT9tiVNS9v3b"
     },
     {
       "added_at": "2025-11-25 20:35:07",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2025-11-25 20:35:07",
       "album": {
-        "name": "EN EL ESPACIO",
-        "url": "https://open.spotify.com/album/4VAaIM6RfM6TWOINp47XoZ"
-      },
-      "artists": [
-        {
-          "name": "Mica Sotera",
-          "url": "https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "Por una cabeza",
-      "url": "https://open.spotify.com/track/3KNDHdOUmzWIqKYodnFX5C"
-    },
-    {
-      "added_at": "2025-11-25 20:35:07",
-      "album": {
         "name": "La G\u00e9nesis",
         "url": "https://open.spotify.com/album/7INDQXcbx1ybFp6flr2bah"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 225373,
       "name": "Viento Dile a la Lluvia",
       "url": "https://open.spotify.com/track/5YdXKg8juylmVbtCMheEtl"
+    },
+    {
+      "added_at": "2025-11-25 20:35:07",
+      "album": {
+        "name": "EN EL ESPACIO",
+        "url": "https://open.spotify.com/album/4VAaIM6RfM6TWOINp47XoZ"
+      },
+      "artists": [
+        {
+          "name": "Mica Sotera",
+          "url": "https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "Por una cabeza",
+      "url": "https://open.spotify.com/track/3KNDHdOUmzWIqKYodnFX5C"
     }
   ],
   "unique_name": "Modo Ac\u00fastico",

@@ -1,6 +1,6 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: Meridian Brothers",
-  "num_followers": 344743,
+  "num_followers": 344722,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
@@ -647,6 +647,22 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
+        "name": "Dub de Gaita",
+        "url": "https://open.spotify.com/album/7aFGsX83VM3UQBtUk3S6Gk"
+      },
+      "artists": [
+        {
+          "name": "Los Gaiteros de San Jacinto",
+          "url": "https://open.spotify.com/artist/0nZ1Yf0Njy6v5HNrl4TMbO"
+        }
+      ],
+      "duration_ms": 346280,
+      "name": "Fuego de Cumbia / Dub de Sangre Pura - Dub Mix",
+      "url": "https://open.spotify.com/track/4o5CcQ1vD1Ikr0yeEcb9s6"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
         "name": "La Que Es",
         "url": "https://open.spotify.com/album/1m14JbxGEi0s1vktDhdlwt"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 194531,
       "name": "La Que Es",
       "url": "https://open.spotify.com/track/3MO2Ym7qBnmNEAtjPwOxXE"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
-        "name": "Dub de Gaita",
-        "url": "https://open.spotify.com/album/7aFGsX83VM3UQBtUk3S6Gk"
-      },
-      "artists": [
-        {
-          "name": "Los Gaiteros de San Jacinto",
-          "url": "https://open.spotify.com/artist/0nZ1Yf0Njy6v5HNrl4TMbO"
-        }
-      ],
-      "duration_ms": 346280,
-      "name": "Fuego de Cumbia / Dub de Sangre Pura - Dub Mix",
-      "url": "https://open.spotify.com/track/4o5CcQ1vD1Ikr0yeEcb9s6"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Baquin\u00e9",
-        "url": "https://open.spotify.com/album/3tEpnzOPwroGkPUIdAHoUG"
-      },
-      "artists": [
-        {
-          "name": "Ampersan",
-          "url": "https://open.spotify.com/artist/5A7ayYKcSsydP31DqS4vQW"
-        }
-      ],
-      "duration_ms": 272427,
-      "name": "Baquin\u00e9",
-      "url": "https://open.spotify.com/track/790wrIpx3y6WieD6FR7xh2"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
         "name": "Corriente EP",
         "url": "https://open.spotify.com/album/17BOLG1QS5Fc9SuBPZDgql"
       },
@@ -1031,22 +1015,18 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Y el Sexteto Gamerano",
-        "url": "https://open.spotify.com/album/5qJRbRpZBOgVAY5qOborfy"
+        "name": "Baquin\u00e9",
+        "url": "https://open.spotify.com/album/3tEpnzOPwroGkPUIdAHoUG"
       },
       "artists": [
         {
-          "name": "Mag\u00edn D\u00edaz",
-          "url": "https://open.spotify.com/artist/0JbbDhJoc73ayvSC79VwEl"
-        },
-        {
-          "name": "Dengue Dengue Dengue",
-          "url": "https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG"
+          "name": "Ampersan",
+          "url": "https://open.spotify.com/artist/5A7ayYKcSsydP31DqS4vQW"
         }
       ],
-      "duration_ms": 240500,
-      "name": "La rama de tamarindo (Dengue Dengue Dengue Remix)",
-      "url": "https://open.spotify.com/track/6bkE3qGiflQeDI08XrXzVY"
+      "duration_ms": 272427,
+      "name": "Baquin\u00e9",
+      "url": "https://open.spotify.com/track/790wrIpx3y6WieD6FR7xh2"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -1067,6 +1047,26 @@
       "duration_ms": 186818,
       "name": "Amanecer\u00e1 - Bial Hclap Remix",
       "url": "https://open.spotify.com/track/6xr1SVBNWy2ZCZIk4CPf8j"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "Y el Sexteto Gamerano",
+        "url": "https://open.spotify.com/album/5qJRbRpZBOgVAY5qOborfy"
+      },
+      "artists": [
+        {
+          "name": "Mag\u00edn D\u00edaz",
+          "url": "https://open.spotify.com/artist/0JbbDhJoc73ayvSC79VwEl"
+        },
+        {
+          "name": "Dengue Dengue Dengue",
+          "url": "https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG"
+        }
+      ],
+      "duration_ms": 240500,
+      "name": "La rama de tamarindo (Dengue Dengue Dengue Remix)",
+      "url": "https://open.spotify.com/track/6bkE3qGiflQeDI08XrXzVY"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -1103,22 +1103,34 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Chureito en la Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/5B9smDQD7JTx7n6XPhqD6V"
+        "name": "La A\u00f1oranza",
+        "url": "https://open.spotify.com/album/49DEsTEzSegrybm3Npzedj"
       },
       "artists": [
         {
-          "name": "Cerrero",
-          "url": "https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6"
+          "name": "Daniel Haaksman",
+          "url": "https://open.spotify.com/artist/7w5ZA1uFcsyDEi2ndiPL8r"
         },
         {
-          "name": "Bejuco",
-          "url": "https://open.spotify.com/artist/4zlSN95eTYn6VD5wtWFkTk"
+          "name": "Dengue Dengue Dengue",
+          "url": "https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG"
+        },
+        {
+          "name": "Coco Maria",
+          "url": "https://open.spotify.com/artist/5aC4E0zUYjfN871T66NHge"
+        },
+        {
+          "name": "Ori Kaplan",
+          "url": "https://open.spotify.com/artist/76MCkY2zAOXC3uvSJsJMOu"
+        },
+        {
+          "name": "Will Love",
+          "url": "https://open.spotify.com/artist/5TpDq3GBovae0G1IkXqLqu"
         }
       ],
-      "duration_ms": 278528,
-      "name": "Chureito en la ma\u00f1ana",
-      "url": "https://open.spotify.com/track/1mRkO12GcDopMRRW9o4p5c"
+      "duration_ms": 223207,
+      "name": "La A\u00f1oranza - Original Version",
+      "url": "https://open.spotify.com/track/1BPGUDaMurblePgyZddR1G"
     }
   ],
   "unique_name": "El\u00e9ctrica Selv\u00e1tica",

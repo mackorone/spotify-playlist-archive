@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring KhoslaRaghu, Arpit Bala, and other exciting artists.
 
-1,284 songs - 2 day 22 hr 22 min
+1,285 songs - 2 day 22 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Adhure Hum](https://open.spotify.com/track/2xXOMe2ruzyAww4PddXPtv) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Adhure Hum](https://open.spotify.com/album/0Zyh4LQzmjQrOLBBpm5kvX) | 3:32 | 2024-03-01 | 2024-04-27 |
 | [Adorable](https://open.spotify.com/track/5p0g3E7EWCS9ggqu4YEWCA) | [Pulkit Arora](https://open.spotify.com/artist/2z0yNxAp5m9eZDHARjHwhQ) | [Adorable](https://open.spotify.com/album/0tdXyZnhsGXDE6ZnAxB9PP) | 3:11 | 2023-07-28 | 2023-08-25 |
 | [Ae Bandey](https://open.spotify.com/track/0eVEI23kHZob5VL93Iy6cI) | [Shubham Kabra](https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy) | [Ae Bandey](https://open.spotify.com/album/2QvEclNhlVvllLkRhRr1LT) | 3:04 | 2024-01-05 | 2024-02-11 |
-| [Ae Dil](https://open.spotify.com/track/0B686kMUgkRjlVaDBcgJ5Q) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Aakhri Baat](https://open.spotify.com/album/6Tu6MbdX4QKjAD1SwxwwpM) | 2:40 | 2025-12-19 |  |
+| [Ae Dil](https://open.spotify.com/track/0B686kMUgkRjlVaDBcgJ5Q) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Aakhri Baat](https://open.spotify.com/album/6Tu6MbdX4QKjAD1SwxwwpM) | 2:40 | 2025-12-19 | 2025-12-30 |
 | [ahar atbooD](https://open.spotify.com/track/47p9K7Cj7Dke2luwJpKXTM) | [Aryan Katoch](https://open.spotify.com/artist/4gAmleqQJI116NpfqkMxha) | [ahar atbooD](https://open.spotify.com/album/10ULrht24zAcLg7mlfFOJE) | 3:54 | 2024-09-27 | 2024-11-23 |
 | [ahista](https://open.spotify.com/track/1mxLwT8SQWz67LrWRkIKV4) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [rang](https://open.spotify.com/album/4GPA5RIUlzvOfyK9WNwwP7) | 3:29 | 2025-09-26 | 2025-12-05 |
 | [Ain't Like Me](https://open.spotify.com/track/11Ecuz9pbeML5CuluIw088) | [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14), [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H) | [Ain't Like Me](https://open.spotify.com/album/0otiNZRoLLu0VLkBvdzpqj) | 2:02 | 2024-05-31 | 2024-07-06 |
@@ -166,6 +166,7 @@
 | [Bekarar](https://open.spotify.com/track/2zjPudofsLEpr92tKZnADA) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN), [Shor](https://open.spotify.com/artist/3S8X8QIU0sGRzRKYHDiXDX) | [Bekarar](https://open.spotify.com/album/624Izr9FzLuHAa9t89lkeE) | 2:21 | 2023-10-27 | 2023-12-02 |
 | [Bekhabar](https://open.spotify.com/track/3eUNJxtPr0KPBOUV95rMj2) | [Advait Sawant](https://open.spotify.com/artist/5mhT19r58fZAT8ZKB8dGGr), [Hriday Gattani](https://open.spotify.com/artist/0xWGBvlwCBHAgXyR7TmPwp) | [Bekhabar](https://open.spotify.com/album/6PiVJRyk0AIMLfZxB7uac0) | 3:04 | 2023-04-14 | 2023-06-17 |
 | [BEKHUDI](https://open.spotify.com/track/6Qw5OaHOMKLNaT1CvZ0ER5) | [Dr\. Braja Deori](https://open.spotify.com/artist/0LSp29MEKWvothu4AfAJtz), [Anindita Paul](https://open.spotify.com/artist/0UY5kkWZ5sBrXNv6rIaVWp) | [BEKHUDI](https://open.spotify.com/album/3wFgSXcKLtQtoDX3j8rZlw) | 3:34 | 2024-12-06 | 2025-02-15 |
+| [Bekhudi](https://open.spotify.com/track/6e17QkGSkLlFoxZgDv5n0N) | [YXTO](https://open.spotify.com/artist/4Nhl3LGtmf1UEZjlNG5nyI), [Trivekza](https://open.spotify.com/artist/3Zdry70AZZtyu3TqCC3YUG), [CJ CHIRAG](https://open.spotify.com/artist/5FcuZLglRfOZQMF0tDPxDV), [Raib Ansari M](https://open.spotify.com/artist/74ze9NQTCrCKZDRJ5GXeQC) | [Izhaar](https://open.spotify.com/album/7MC8Onu5LOsmekmDcQwSEC) | 2:49 | 2025-12-19 |  |
 | [Bemausam Baarish](https://open.spotify.com/track/28m7rFpkY7bLmDjVWYRzh1) | [Ashwin Adwani](https://open.spotify.com/artist/5kiwICyQNDmCtwOPLvgY04) | [Bemausam Baarish](https://open.spotify.com/album/0xBbItufW99JKgkNiFG937) | 3:34 | 2024-06-21 | 2024-08-03 |
 | [bemausam toofaan](https://open.spotify.com/track/1gAkNWoo9H21OkYvVuZZ9D) | [Sagar Verma](https://open.spotify.com/artist/18lQZ09TgoILbt94KdrBpO), [Meera](https://open.spotify.com/artist/1a74S7m7Ce1IRYAC61gXfv) | [bemausam toofaan](https://open.spotify.com/album/0sqdKeIj5qhJGue2IvcAdJ) | 4:05 | 2025-07-04 | 2025-07-12 |
 | [Bemisaal](https://open.spotify.com/track/4eLeuvFq325pSNzr8PiOl3) | [Samad Khan](https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW), [Bharath](https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT), [yungsta](https://open.spotify.com/artist/4HQz6xUrKEKQ8nmMKsfvkB) | [Bemisaal](https://open.spotify.com/album/25WKYYzTCHCyuYyKGpu6R9) | 3:12 | 2025-01-31 | 2025-05-09 |

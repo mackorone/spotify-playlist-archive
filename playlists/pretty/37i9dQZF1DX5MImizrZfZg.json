@@ -1,6 +1,6 @@
 {
   "description": "The smoothest jazz of the 2000s. Cover: Rick Braun",
-  "num_followers": 83427,
+  "num_followers": 83445,
   "original_name": "Smooth Jazz 2000",
   "owner": {
     "name": "Spotify",
@@ -675,6 +675,22 @@
     {
       "added_at": "2020-08-19 19:15:51",
       "album": {
+        "name": "Midnight Love",
+        "url": "https://open.spotify.com/album/2LMziPDUaak6ktGPokKhls"
+      },
+      "artists": [
+        {
+          "name": "Walter Beasley",
+          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
+        }
+      ],
+      "duration_ms": 221466,
+      "name": "Do You Wanna Dance",
+      "url": "https://open.spotify.com/track/1uDomLpzVMPDh3yTRPHGwd"
+    },
+    {
+      "added_at": "2020-08-19 19:15:51",
+      "album": {
         "name": "Tequila Moon",
         "url": "https://open.spotify.com/album/5m4EAIIS14jJMOQyhNo3UH"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 285893,
       "name": "Stone Groove",
       "url": "https://open.spotify.com/track/6hJ2hxampO4cZQN5bTO4p1"
-    },
-    {
-      "added_at": "2020-08-19 19:15:51",
-      "album": {
-        "name": "My Inspiration",
-        "url": "https://open.spotify.com/album/5aldZnsN6RAMd5YOn4bdXW"
-      },
-      "artists": [
-        {
-          "name": "Everette Harp",
-          "url": "https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ"
-        }
-      ],
-      "duration_ms": 307506,
-      "name": "All Jazzed Up (And Nowhere To Go)",
-      "url": "https://open.spotify.com/track/05VQbLH0fV9y6XEf8fF4sp"
     }
   ],
   "unique_name": "Smooth Jazz 2000",

@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-1,694 songs - 4 day 6 hr 38 min
+1,697 songs - 4 day 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Bem Aqui](https://open.spotify.com/track/58cEG9zXBPnEy7foqoer2I) | [Gabriel Cruz](https://open.spotify.com/artist/4ZBZ58sfWD2sYhVM1aiBKS) | [Bem Aqui](https://open.spotify.com/album/6bvmVgRYu7lAw0sNXlPIYi) | 3:53 | 2025-09-07 |  |
 | [Berlin Nights](https://open.spotify.com/track/0BPqgw7zdhIrZ09wlmLH3Q) | [Neel Yuvraj](https://open.spotify.com/artist/50A5woLmFEZowAznz7g59s) | [Berlin Nights](https://open.spotify.com/album/12xsiBP8dARKCNYqlA88f8) | 2:15 | 2024-07-08 |  |
 | [Better Galaxy](https://open.spotify.com/track/5jT5xwr7YWe4dEXi9UItAI) | [Rastaveli Mc](https://open.spotify.com/artist/6ICkNtvRDTnwfm8gMZgn3s), [Step Machine](https://open.spotify.com/artist/4sLUxPIQ9OqymZeigsre0v) | [Better Galaxy](https://open.spotify.com/album/1frHm2VlRkHAlLQZALh4q3) | 4:25 | 2025-05-11 |  |
+| [Better Judgement](https://open.spotify.com/track/3UrHhQ4lxAwfhhG3IudMA0) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Wish You Hell \- The 2nd Mini Album](https://open.spotify.com/album/5nn0a3x9rolzWFtiZLejzA) | 2:49 | 2025-12-29 |  |
 | [Better Off Alone](https://open.spotify.com/track/0gGJR8Unyalz5HkphteJzu) | [SYLIVEX](https://open.spotify.com/artist/7L3EQgCSw4laBXnbs3UObJ) | [Better Off Alone](https://open.spotify.com/album/0sm5UWciKMtk7IpeYgjhAD) | 3:18 | 2025-05-22 |  |
 | [Beyond The Olive Trees](https://open.spotify.com/track/367QZGLcmVsawAbwi9FIMR) | [caveau](https://open.spotify.com/artist/6nBYceEDCCiItPV56dIeVo) | [Beyond The Olive Trees](https://open.spotify.com/album/1JCmEZx4w2lZQpK8CuhVB2) | 2:35 | 2025-11-08 |  |
 | [Bhangra Electronica](https://open.spotify.com/track/6eNmWed8ilS2dHsebVs6Bu) | [Neel Yuvraj](https://open.spotify.com/artist/50A5woLmFEZowAznz7g59s) | [Bhangra Electronica](https://open.spotify.com/album/1MDLjvDNcXlN8lqpxsYngE) | 1:52 | 2024-07-08 |  |
@@ -433,6 +434,7 @@
 | [Emmanuel Dub](https://open.spotify.com/track/2rZdzdPKTpSSYPxfkiehlm) | [Muflon Dub Soundsystem](https://open.spotify.com/artist/2Ezu1DrYA7N80DduUwUnE1), [Karolina](https://open.spotify.com/artist/5UCcU04GZsZJY2g2qmisNp), [Muflon Man](https://open.spotify.com/artist/0VeWs0QhnTT7hKeo5D0DlV) | [Moc](https://open.spotify.com/album/0ujTermjf1TD2P0Ea9GoEE) | 4:42 | 2024-05-04 |  |
 | [Empty Classroom](https://open.spotify.com/track/7Boz1534rldo6Pr4Cwun0I) | [Buurd](https://open.spotify.com/artist/17YkHPSmF4I6I2jOgLSCh4) | [The Lofi Tape Vol 2](https://open.spotify.com/album/0tOrDAjykvsIiqMzQiaM22) | 2:11 | 2025-09-21 |  |
 | [Empty Echoes](https://open.spotify.com/track/6TYpfgqFKYjAfcto0cFsVO) | [Edren](https://open.spotify.com/artist/60dVRzJKHt26v1lJLTszSG) | [Empty Echoes](https://open.spotify.com/album/6Wb2yT3In6O036xnY5Cmi5) | 2:12 | 2025-08-26 |  |
+| [Empty pages](https://open.spotify.com/track/21UOuzfRmxNVUr5Jq5FDKh) | [Taboout](https://open.spotify.com/artist/3TtYIdQNhUPpFoobB9X6FD) | [Lost my ears](https://open.spotify.com/album/7LphVGdXnt8EjdE17BMzAF) | 4:43 | 2025-12-29 |  |
 | [Empty Throne](https://open.spotify.com/track/3UEk3j2pMcEqZylMLU02CY) | [J&J vocals](https://open.spotify.com/artist/6uHI6VGdtHbXFWY5STBSSr) | [Empty Throne](https://open.spotify.com/album/7DiX78iL5AVcU05Cos49A2) | 2:49 | 2025-06-23 |  |
 | [Endless Summer](https://open.spotify.com/track/21uZSg6TxNJHpbCO1ciDKY) | [Bruno S](https://open.spotify.com/artist/4c5rMVTHu7llZIxlX0OfVK) | [Endless Summer](https://open.spotify.com/album/3NvGRhHHSZBtCqEkdSBvYm) | 4:53 | 2025-05-30 |  |
 | [Energy](https://open.spotify.com/track/61IRHgTF3YRfeTSfvFtXWd) | [Radio\-Activity](https://open.spotify.com/artist/4xGqrEzme9UDHKeX4r7xbq) | [Energy](https://open.spotify.com/album/3cCoFwt1OBAudWSENtZtcB) | 8:57 | 2024-06-21 |  |
@@ -526,6 +528,7 @@
 | [Funhouse](https://open.spotify.com/track/4m6VBoUCpDWr8Yuiyojq8Z) | [Courtney Nord](https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX) | [Funhouse](https://open.spotify.com/album/5ltRL03O6pdOjNULvek3pq) | 3:48 | 2025-05-06 |  |
 | [Fuochi di Neve](https://open.spotify.com/track/2EjTRMilUxuGH4rM9mmKkj) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Fuochi di Neve](https://open.spotify.com/album/4rxg2lMcacOkPGmJCw6zKU) | 1:44 | 2025-12-17 |  |
 | [Fuori Posto](https://open.spotify.com/track/3SprsFpyMaQpE5avbGc2Oy) | [Nessi Nessi](https://open.spotify.com/artist/55Kwcqi2oU6hqN9WpH8EnD) | [Fuori Posto](https://open.spotify.com/album/21RUXO4mSDQrqHg8ht33VG) | 4:03 | 2025-08-02 |  |
+| [Fury of the Corsairs](https://open.spotify.com/track/4fiCsuBqRrCJnzhTb5qciU) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Fury of the Corsairs](https://open.spotify.com/album/2TuteoDyNS8vuER4IYPZaF) | 2:44 | 2025-12-30 |  |
 | [Future Alaska](https://open.spotify.com/track/1Ry9FOpYWIxyhhvByq0mpC) | [Nostalgia Falls](https://open.spotify.com/artist/744HFtrZeUzglhohYA1V9A) | [Future Alaska](https://open.spotify.com/album/6QK4CahID0qf4kvT9xcEvv) | 2:36 | 2025-11-07 |  |
 | [Fyah Fi Babylon](https://open.spotify.com/track/3LR6PctnIFNjnbZNoZh1qL) | [Hermit Dubz](https://open.spotify.com/artist/0nHH3n6c05s27skeVPxZbf), [Knati P](https://open.spotify.com/artist/26Zbmi23b2LUfjRwg3bP1v) | [Fyah Fi Babylon](https://open.spotify.com/album/6S2l1zxJDtOaT3XezJFpNk) | 3:34 | 2024-03-23 |  |
 | [G.A.T.B.](https://open.spotify.com/track/0NkNDh8NHOLh7TjU1WFPiy) | [Ross Collins](https://open.spotify.com/artist/18qv8HVXzYCudw94D4wbUn) | [G.A.T.B.](https://open.spotify.com/album/2VEicUCCUre3WCUWCyLDDo) | 2:46 | 2025-07-15 |  |

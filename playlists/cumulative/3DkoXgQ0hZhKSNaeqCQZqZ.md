@@ -4,7 +4,7 @@
 
 > FurryRadio.com, made for furs, by furs.
 
-451 songs - 23 hr 52 min
+452 songs - 23 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Chatting](https://open.spotify.com/track/1h346SoBer9poh6xDUN8VJ) | [Rowan Bailey](https://open.spotify.com/artist/2S2nLlaVZc0uAJNhfz2m5R) | [Bun Bakery Jams](https://open.spotify.com/album/0jqawai6WtvvNr5KopOWgA) | 1:33 | 2024-03-06 |  |
 | [Chemicals](https://open.spotify.com/track/4L1HEkwQW2OEbN3g1rHbio) | [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2) | [russelbuck](https://open.spotify.com/album/2bgUsX7DFr4VdUB35TMoUP) | 2:47 | 2023-06-27 |  |
 | [CHIPCRUSH](https://open.spotify.com/track/1oaG4aYIMQwt8Q6nbJejAX) | [UrvTek](https://open.spotify.com/artist/3YRcEMe1SRTPBGYbiRtBGh), [la.la.thc](https://open.spotify.com/artist/4W1YH9rAlkSEFpIPAevqeZ) | [CHIPCRUSH](https://open.spotify.com/album/4ihkCUw40mGKUsiYE5Zi4i) | 2:30 | 2025-05-20 |  |
+| [Circles](https://open.spotify.com/track/6IAiYnT6M2OJUKdhCUaDwQ) | [Betu](https://open.spotify.com/artist/0dYq8H010ccHgXjYBQtoq7) | [Circles](https://open.spotify.com/album/2jJrEDynU7xdr4mv1XqvjB) | 3:12 | 2025-12-29 |  |
 | [Circuit Bent](https://open.spotify.com/track/314vr3XssUuliX2QAb5GvY) | [STOMACH BOOK](https://open.spotify.com/artist/079cEjjSpv5dOLH5xsGdvN) | [Circuit Bent](https://open.spotify.com/album/6T2tskWsZCC8KK5np7e5mK) | 3:55 | 2024-11-18 |  |
 | [Close To Me](https://open.spotify.com/track/0EPmZRJ9Z8N2Dm9g43ofwX) | [Verplex](https://open.spotify.com/artist/18ntTe4n8s186NjAUNvxX4) | [Close To Me](https://open.spotify.com/album/19MyXPg4jNlPDBThiHIsZU) | 3:02 | 2023-06-14 |  |
 | [Coffee](https://open.spotify.com/track/5sAm0D4dCMjKjcm2xjoetv) | [Daniel Shaye](https://open.spotify.com/artist/2QBCZee5isY0iQEJMlredF) | [Coffee](https://open.spotify.com/album/4EBDDCnrkTESaPPmI9lb0U) | 3:19 | 2025-11-28 |  |

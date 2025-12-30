@@ -1,6 +1,6 @@
 {
   "description": "las mejores canciones del internet en 2025 \ud83d\udd25",
-  "num_followers": 1400207,
+  "num_followers": 1400114,
   "original_name": "Lo Mejor de Hits de Internet 2025",
   "owner": {
     "name": "Spotify",
@@ -239,6 +239,22 @@
     {
       "added_at": "2025-12-03 12:15:45",
       "album": {
+        "name": "111XPANTIA",
+        "url": "https://open.spotify.com/album/1JpJzuM4uncCfCimVozkmy"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 188064,
+      "name": "Por Esos Ojos",
+      "url": "https://open.spotify.com/track/77pDO4WZPIdkwFve0iHWnb"
+    },
+    {
+      "added_at": "2025-12-03 12:15:45",
+      "album": {
         "name": "LA CIUDAD",
         "url": "https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 173858,
       "name": "capaz (merengueton)",
       "url": "https://open.spotify.com/track/4DnrAI8WyUY6gkOwl8GlPN"
-    },
-    {
-      "added_at": "2025-12-03 12:15:45",
-      "album": {
-        "name": "111XPANTIA",
-        "url": "https://open.spotify.com/album/1JpJzuM4uncCfCimVozkmy"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 188064,
-      "name": "Por Esos Ojos",
-      "url": "https://open.spotify.com/track/77pDO4WZPIdkwFve0iHWnb"
     },
     {
       "added_at": "2025-12-03 12:15:45",
@@ -579,30 +579,6 @@
     {
       "added_at": "2025-12-03 12:15:45",
       "album": {
-        "name": "POLARIZADOS",
-        "url": "https://open.spotify.com/album/2dKRTrgdXxyIgNWMEF4OgY"
-      },
-      "artists": [
-        {
-          "name": "Alan Arrieta",
-          "url": "https://open.spotify.com/artist/6raQ4bhFk0JuTS7i3nZBXr"
-        },
-        {
-          "name": "\u00c1ngel Galv\u00e1n",
-          "url": "https://open.spotify.com/artist/6IuOEyhdhzyjHeHmnpofW7"
-        },
-        {
-          "name": "Gheef",
-          "url": "https://open.spotify.com/artist/1eC6KPyQBE2eYoV7JWCNDz"
-        }
-      ],
-      "duration_ms": 134722,
-      "name": "POLARIZADOS",
-      "url": "https://open.spotify.com/track/53M0vEX1HG6jGsaDk5ZamF"
-    },
-    {
-      "added_at": "2025-12-03 12:15:45",
-      "album": {
         "name": "Mentiras: La Serie (Music from the Original TV Series)",
         "url": "https://open.spotify.com/album/1mYfYqddIFTDc1ptq0HkDg"
       },
@@ -627,18 +603,26 @@
     {
       "added_at": "2025-12-03 12:15:45",
       "album": {
-        "name": "WEEKND",
-        "url": "https://open.spotify.com/album/5EaUYCfbpl9FBTq22eD5HI"
+        "name": "POLARIZADOS",
+        "url": "https://open.spotify.com/album/2dKRTrgdXxyIgNWMEF4OgY"
       },
       "artists": [
         {
-          "name": "Bohemio",
-          "url": "https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH"
+          "name": "Alan Arrieta",
+          "url": "https://open.spotify.com/artist/6raQ4bhFk0JuTS7i3nZBXr"
+        },
+        {
+          "name": "\u00c1ngel Galv\u00e1n",
+          "url": "https://open.spotify.com/artist/6IuOEyhdhzyjHeHmnpofW7"
+        },
+        {
+          "name": "Gheef",
+          "url": "https://open.spotify.com/artist/1eC6KPyQBE2eYoV7JWCNDz"
         }
       ],
-      "duration_ms": 203333,
-      "name": "WEEKND",
-      "url": "https://open.spotify.com/track/5NbFWZiEj9WATXs6F1HxGZ"
+      "duration_ms": 134722,
+      "name": "POLARIZADOS",
+      "url": "https://open.spotify.com/track/53M0vEX1HG6jGsaDk5ZamF"
     },
     {
       "added_at": "2025-12-03 12:15:45",
@@ -659,6 +643,22 @@
       "duration_ms": 198211,
       "name": "+ Perra + Bitch",
       "url": "https://open.spotify.com/track/2Lncru2yyoYqC0RZfIm9gU"
+    },
+    {
+      "added_at": "2025-12-03 12:15:45",
+      "album": {
+        "name": "WEEKND",
+        "url": "https://open.spotify.com/album/5EaUYCfbpl9FBTq22eD5HI"
+      },
+      "artists": [
+        {
+          "name": "Bohemio",
+          "url": "https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH"
+        }
+      ],
+      "duration_ms": 203333,
+      "name": "WEEKND",
+      "url": "https://open.spotify.com/track/5NbFWZiEj9WATXs6F1HxGZ"
     },
     {
       "added_at": "2025-12-03 12:15:45",
@@ -771,22 +771,6 @@
     {
       "added_at": "2025-12-03 12:15:45",
       "album": {
-        "name": "A Minecraft Movie (Songs from the Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/78TxL9TbTSn0HDIVjVPvSq"
-      },
-      "artists": [
-        {
-          "name": "Jack Black",
-          "url": "https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T"
-        }
-      ],
-      "duration_ms": 34400,
-      "name": "Steve's Lava Chicken",
-      "url": "https://open.spotify.com/track/78HOAddeAcXmcuhoanspry"
-    },
-    {
-      "added_at": "2025-12-03 12:15:45",
-      "album": {
         "name": "SENDA",
         "url": "https://open.spotify.com/album/3lxP0GZQgzJIEUFYvL2IRh"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 244887,
       "name": "SENDA",
       "url": "https://open.spotify.com/track/0SI2PdREZzZkqNTHLctnNG"
+    },
+    {
+      "added_at": "2025-12-03 12:15:45",
+      "album": {
+        "name": "A Minecraft Movie (Songs from the Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/78TxL9TbTSn0HDIVjVPvSq"
+      },
+      "artists": [
+        {
+          "name": "Jack Black",
+          "url": "https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T"
+        }
+      ],
+      "duration_ms": 34400,
+      "name": "Steve's Lava Chicken",
+      "url": "https://open.spotify.com/track/78HOAddeAcXmcuhoanspry"
     },
     {
       "added_at": "2025-12-03 12:15:45",
@@ -887,22 +887,6 @@
     {
       "added_at": "2025-12-03 12:15:45",
       "album": {
-        "name": "Porque Quise",
-        "url": "https://open.spotify.com/album/7Li5d7RHE3DkHzi9KoeHBM"
-      },
-      "artists": [
-        {
-          "name": "FLVCKKA",
-          "url": "https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN"
-        }
-      ],
-      "duration_ms": 115961,
-      "name": "So what we get drunk?",
-      "url": "https://open.spotify.com/track/4syuf5oCm8QzvVVraRC8ah"
-    },
-    {
-      "added_at": "2025-12-03 12:15:45",
-      "album": {
         "name": "MONCHI",
         "url": "https://open.spotify.com/album/2TklXDFi4BGQ6HTQy0o5Mg"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 212222,
       "name": "DUE\u00d1O DE TI",
       "url": "https://open.spotify.com/track/72x2PO7XxA6tDMf26rlJqW"
+    },
+    {
+      "added_at": "2025-12-03 12:15:45",
+      "album": {
+        "name": "Porque Quise",
+        "url": "https://open.spotify.com/album/7Li5d7RHE3DkHzi9KoeHBM"
+      },
+      "artists": [
+        {
+          "name": "FLVCKKA",
+          "url": "https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN"
+        }
+      ],
+      "duration_ms": 115961,
+      "name": "So what we get drunk?",
+      "url": "https://open.spotify.com/track/4syuf5oCm8QzvVVraRC8ah"
     },
     {
       "added_at": "2025-12-03 12:15:45",

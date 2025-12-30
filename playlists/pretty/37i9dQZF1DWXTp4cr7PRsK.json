@@ -407,6 +407,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Barnacles",
+        "url": "https://open.spotify.com/album/1oETzMX4n5eWGZhrBbjNgw"
+      },
+      "artists": [
+        {
+          "name": "SahBabii",
+          "url": "https://open.spotify.com/artist/7GuUYiGZOzQwq4L6gAfy1T"
+        }
+      ],
+      "duration_ms": 138926,
+      "name": "Barnacles",
+      "url": "https://open.spotify.com/track/7zHsmufvSqrrYJkDhbkW1T"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Detroit 2",
         "url": "https://open.spotify.com/album/6slkiHeFK3wW2D1mao0TX3"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 207243,
       "name": "Respect It (with Hit-Boy feat. Young Thug)",
       "url": "https://open.spotify.com/track/4QqTDl0Po7cbaZMcGsZmBg"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Barnacles",
-        "url": "https://open.spotify.com/album/1oETzMX4n5eWGZhrBbjNgw"
-      },
-      "artists": [
-        {
-          "name": "SahBabii",
-          "url": "https://open.spotify.com/artist/7GuUYiGZOzQwq4L6gAfy1T"
-        }
-      ],
-      "duration_ms": 138926,
-      "name": "Barnacles",
-      "url": "https://open.spotify.com/track/7zHsmufvSqrrYJkDhbkW1T"
     },
     {
       "added_at": "2022-10-01 16:00:00",

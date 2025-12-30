@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1UAAXbCUqhTWG7W1XehHbK.md) - [plain]
 
 > &quot;Indie Essentials&quot; is the ultimate playlist for indie music fans\. It features tracks from influential and iconic indie artists, showcasing the diversity and creativity of the genre\. Discover new and old classics in the indie spirit.
 
-[Indie Music](https://open.spotify.com/user/eqiomkuuw0lc4nplre0xyx9dg) - 585 likes - 90 songs - 5 hr 18 min
+[Indie Music](https://open.spotify.com/user/eqiomkuuw0lc4nplre0xyx9dg) - 586 likes - 91 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,5 +98,6 @@ pretty - [cumulative](/playlists/cumulative/1UAAXbCUqhTWG7W1XehHbK.md) - [plain]
 | 88 | [Love Song](https://open.spotify.com/track/0JWENUKGs4umfJXDGjLWgt) | [Elsie James](https://open.spotify.com/artist/1XnjpLYi1xOZpPCR7V75dY) | [Love Song](https://open.spotify.com/album/5WrEZeKjk6Esle5BZ2bofl) | 3:05 |
 | 89 | [Old Ancient Tree](https://open.spotify.com/track/6ZI4Ucss1ZhgVrQRcnfjO3) | [Shepherd Bridge](https://open.spotify.com/artist/7IWPSLFSNkPvI3upDX39f1) | [Lucy and the Voyager](https://open.spotify.com/album/7jHjn4K2XURXATynQZkrEv) | 4:20 |
 | 90 | [El Último Te Amo](https://open.spotify.com/track/40UIMV9iL8ZJcPCPWm4eEB) | [Ictiandro](https://open.spotify.com/artist/0365tcdDwVM8LlpEBnVWvD) | [El Último Te Amo](https://open.spotify.com/album/2XhAsiav3xMp7EQDyuoli4) | 4:43 |
+| 91 | [Puppets Know](https://open.spotify.com/track/0VwH13oGDjk5biSprNZHZH) | [Evil Level Live](https://open.spotify.com/artist/17Vx9T9t73p6DolImgRoqe) | [Puppets Know](https://open.spotify.com/album/5wmSnx6DHERdTs3YBS1gFy) | 5:12 |
 
-Snapshot ID: `AAADr1DlpI9MmS5VCyLTFylnj10noU2c`
+Snapshot ID: `AAADsA58IrFGu7vO7zMpZMGgTae+SfCG`

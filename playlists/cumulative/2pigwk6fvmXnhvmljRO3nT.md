@@ -4,7 +4,7 @@
 
 > 
 
-8,245 songs - 20 day 22 hr 43 min
+8,249 songs - 20 day 22 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2258,6 +2258,7 @@
 | [Funeral](https://open.spotify.com/track/2CNaYt7KbFqUrATbZZPY21) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Faces](https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY) | 3:43 | 2025-01-04 |  |
 | [Funeral \(with slowthai\)](https://open.spotify.com/track/1gf4Ez9r1h74QZiTFcb3wy) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [Friends That Break Your Heart \(Bonus\)](https://open.spotify.com/album/33GolaWGqgLY4fB5IPwxjq) | 2:35 | 2025-01-03 |  |
 | [Funky Ho'$](https://open.spotify.com/track/1rZvU5sb2E8LuJTAqEdAiw) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [1999](https://open.spotify.com/album/5ra51AaWF3iVebyhlZ1aqq) | 4:29 | 2025-01-03 |  |
+| [Funkytown](https://open.spotify.com/track/0KQh7AuuZvpTKWhcJa8Pbr) | [Lipps Inc.](https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ) | [Casablanca Records Greatest Hits](https://open.spotify.com/album/2a9NqNKkXva9vZanCUmOjc) | 3:59 | 2025-12-29 |  |
 | [Funny Papers](https://open.spotify.com/track/4pu58kqegTnOxPNJpY3kr9) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Balloonerism](https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY) | 4:23 | 2025-12-08 |  |
 | [Furthest Thing](https://open.spotify.com/track/6E1ILfm6wNkA6kautk3mQP) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Nothing Was The Same \(Deluxe\)](https://open.spotify.com/album/5mz0mJxb80gqJIcRf9LGHJ) | 4:27 | 2025-01-03 |  |
 | [FUSHIGI](https://open.spotify.com/track/3dPpQeLTWjCjEbSevDMQfW) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [FUSHIGI](https://open.spotify.com/album/0DgaDZNp5WTWVpCS8jYI5M) | 4:50 | 2025-01-03 |  |
@@ -5238,6 +5239,7 @@
 | [Runnin Outta Time](https://open.spotify.com/track/4q7y1JFDBJSBSLqXVgcI51) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 3:25 | 2025-01-03 |  |
 | [Runnin' \(Dying To Live\)](https://open.spotify.com/track/1ZlVEstPFrKs3alKIejN6I) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Runnin' \(Dying To Live\)](https://open.spotify.com/album/0BwYq5h0gwbULEfhE10iA7) | 3:51 | 2024-12-05 |  |
 | [Running Around \(feat\. Fousheé\)](https://open.spotify.com/track/7ltvxs2OBCccy0p7Ka4PIj) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Bando Stone and The New World](https://open.spotify.com/album/4yUqNSK6jMi7Y6eWl03U5r) | 2:34 | 2024-12-14 |  |
+| [Running In The 90's](https://open.spotify.com/track/0QTz3EXxXp8ucQyRKTh0NR) | [Max Coveri](https://open.spotify.com/artist/4aFf48VQYRT631OJGgVwUv) | [Initial Delta Eurobeat Soundtrack Vol\. 1](https://open.spotify.com/album/6zZBJgwt3ZY16gKyD0ee3Y) | 4:43 | 2025-12-29 |  |
 | [running on the sky](https://open.spotify.com/track/6ogV0x5m4yw8rvca4m3NxY) | [Lee Juck](https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa) | [Lee Juck](https://open.spotify.com/album/6dF9B175I1PeHj9HboDQiD) | 4:22 | 2025-01-03 |  |
 | [RUNNING OUT OF TIME](https://open.spotify.com/track/5QvBXUm5MglLJ3iBfTX2Wo) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 2:57 | 2025-01-15 |  |
 | [Rush](https://open.spotify.com/track/2PXnV9PBUGW4v5u6WJpCjG) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa) | [COWBOY BEBOP \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1XoE7ZirQ3gjxq8HIzTJU9) | 3:34 | 2025-01-19 |  |
@@ -7418,6 +7420,7 @@
 | [チェリボム](https://open.spotify.com/track/5KhTHcY2WuCHy21jhxTFAP) | [SILENT SIREN](https://open.spotify.com/artist/11FVEsg4m3QWzNfaK7vykQ) | [Silent Siren Selection](https://open.spotify.com/album/5VguY79HKEmjk7vllN0li5) | 4:05 | 2025-10-02 |  |
 | [チューリップ](https://open.spotify.com/track/1X8frTk9CAPyDiJOOwMo2z) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [チューリップ](https://open.spotify.com/album/2WuejptJWtRfdd0rGeBeeV) | 4:35 | 2025-01-03 |  |
 | [チューリップ](https://open.spotify.com/track/3I4ZGHj2H3Vl99i4biNCz0) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [夜行秘密](https://open.spotify.com/album/2d9hEC8Sv1GG9AxQf4cGdp) | 4:35 | 2025-01-03 |  |
+| [チヨノオーのお悩み相談室のうた](https://open.spotify.com/track/1Sj2bxP0asJccLFWuFQMWR) | [サクラチヨノオー \(CV\. 野口瑠璃子\)](https://open.spotify.com/artist/3nmPhZtuGpChr7Rvb0UAfr) | [『ウマ娘 プリティーダービー』WINNING LIVE 12](https://open.spotify.com/album/6dL0OlZaULuXMBGz2fypO9) | 0:22 | 2025-12-29 |  |
 | [チルドレンレコード](https://open.spotify.com/track/21NqRGXnSsLatQ7WlY7kZQ) | [小豆沢こはね](https://open.spotify.com/artist/5afq7P9YZtGvtUjBxaQzIp), [東雲彰人](https://open.spotify.com/artist/5iUcWpImiyRXhdNVOQZIVI) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク　アナザーボーカルアルバム Vivid BAD SQUAD](https://open.spotify.com/album/48MQNNlnAKmE9wXxaEuGpz) | 3:01 | 2025-12-07 |  |
 | [チルドレンレコード](https://open.spotify.com/track/4DeJXKQCGxAUKOJbszuiBw) | [白石杏](https://open.spotify.com/artist/5oXXCRHHBgr8JbziVHev34), [青柳冬弥](https://open.spotify.com/artist/0EntB8BeMF852I18Dk4SOc) | [プロジェクトセカイ カラフルステージ！ feat\. 初音ミク　アナザーボーカルアルバム Vivid BAD SQUAD](https://open.spotify.com/album/48MQNNlnAKmE9wXxaEuGpz) | 3:01 | 2025-12-07 |  |
 | [チームの地力](https://open.spotify.com/track/0H5GCiZwJHZv8kdgwNCB3i) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「ハイキュー!!」 オリジナルサウンドトラック 2](https://open.spotify.com/album/1aO6rB7SrbcwStQuaC0X78) | 2:58 | 2025-05-09 |  |
@@ -7805,6 +7808,7 @@
 | [花占い](https://open.spotify.com/track/4X34YVOtNvldHeEt6aLYDW) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [花占い](https://open.spotify.com/album/0IaFYBVyPUJ77uq6PEhnWG) | 3:27 | 2025-01-15 |  |
 | [花束](https://open.spotify.com/track/3QIAwtEEDOrv0g5NKCGrXZ) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [スーパースター](https://open.spotify.com/album/4x70QIHYGdMgV9rRgByZbI) | 4:46 | 2024-12-10 |  |
 | [花火](https://open.spotify.com/track/25XqyPPpj3bxBHeIVdgQuo) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [センチメートル](https://open.spotify.com/album/6wHQWAf5j4nE5t6Woc2KDA) | 4:53 | 2025-05-17 |  |
+| [花痕 \-shirushi\-](https://open.spotify.com/track/0nqUJCetfzmwCHoZrkhL67) | [河野 マリナ](https://open.spotify.com/artist/6TjVG6wqWm9knFPmZcUwBS) | [Utamonogatari Special Edition \(Original Soundtrack\)](https://open.spotify.com/album/0Wibr4Xn7la0V69fnnujJw) | 4:32 | 2025-12-29 |  |
 | [芽ぐみの雨](https://open.spotify.com/track/4HA1sEBxctHZ2POsElevf4) | [yanaginagi](https://open.spotify.com/artist/15MlyDyZofFYpLb5MrLKVo) | [芽ぐみの雨](https://open.spotify.com/album/2JeSedA7zFRa1e6IABKIHk) | 4:41 | 2025-01-15 |  |
 | [若者のすべて](https://open.spotify.com/track/5dH4asCl80Mvbsoz6zJVyZ) | [Fujifabric](https://open.spotify.com/artist/2QgdUzpKFNxey5IuwvsGBL) | [TEENAGER](https://open.spotify.com/album/1m6tvZ9MycDDVxyGyZwb2d) | 4:56 | 2025-01-03 |  |
 | [茜色の街\(2012 Version\)](https://open.spotify.com/track/5C8qnIU1tX70NvF2Y7Qufu) | [KATE](https://open.spotify.com/artist/1kHLKBFBmwip3x5aAiKBeq) | [Fate/stay night \[Realta Nua\] Soundtrack Reproduction](https://open.spotify.com/album/5EfoCdBxPfGkXwmnMiZ3Xf) | 2:02 | 2025-08-10 |  |
@@ -8155,7 +8159,7 @@
 | [왼손잡이](https://open.spotify.com/track/6CxKEnUDyLNPVC4IBE1L4Z) | [Panic](https://open.spotify.com/artist/13bWD4s098qRgPVlHcbgCU) | [Panic](https://open.spotify.com/album/7pKdoYutb9dlj1eFaVbHFg) | 2:30 | 2025-01-15 |  |
 | [우리는](https://open.spotify.com/track/7bON6VDJ5ndO6EAxCrjVj2) | [DEUX](https://open.spotify.com/artist/64RfnYDHtR3ZaLdtxAjPDA) | [Deuxism](https://open.spotify.com/album/5Q5YrEMnQmNxtivzl4j8hM) | 3:33 | 2025-01-03 |  |
 | [우산 \(feat\. 윤하\)](https://open.spotify.com/track/1VnjByC7TUx5A73A4qtgoo) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [Pieces, Part One](https://open.spotify.com/album/1xepnoe8Uet49Nh0nv20lO) | 5:01 | 2025-01-03 |  |
-| [우연 \(우울한 우연\)](https://open.spotify.com/track/5OBXA0nZ8ANfS8w2ZVWh6X) | [Baby V.O.X](https://open.spotify.com/artist/7H5LMtjHqkyH4U8dpLR4lo) | [Baby V.O.X Special Album](https://open.spotify.com/album/0SEOmCDuKkiXZR2v5jnmd9) | 3:58 | 2024-12-10 |  |
+| [우연 \(우울한 우연\)](https://open.spotify.com/track/5OBXA0nZ8ANfS8w2ZVWh6X) | [Baby V.O.X](https://open.spotify.com/artist/7H5LMtjHqkyH4U8dpLR4lo) | [Baby V.O.X Special Album](https://open.spotify.com/album/0SEOmCDuKkiXZR2v5jnmd9) | 3:58 | 2024-12-10 | 2025-12-30 |
 | [우울한 편지](https://open.spotify.com/track/4E4SKuXRymd7aEYbFPfJHv) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Back To The Soul Flight](https://open.spotify.com/album/26nzz1WN0qn4C3B6zcm93u) | 4:07 | 2025-01-04 |  |
 | [운명](https://open.spotify.com/track/3BhXBoIr4YcQcf9mMVhoOG) | [COOL](https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9) | [Cool Best](https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA) | 3:45 | 2024-12-14 |  |
 | [유리의 성 \#Story 3](https://open.spotify.com/track/578HuRRS0tFvtYhs3t8vwc) | [KIM sung myun](https://open.spotify.com/artist/5svaD2IpOu7m6NB8k6k1Kp) | [VOCALIST](https://open.spotify.com/album/1gtjK8tx9l5vt5QooJcy6N) | 4:56 | 2025-01-03 |  |

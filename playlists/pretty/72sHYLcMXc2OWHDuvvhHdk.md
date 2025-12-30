@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 553 likes - 2,138 songs - 5 day 5 hr 14 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 553 likes - 2,149 songs - 5 day 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2146,5 +2146,16 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2136 | [Anybody Out There](https://open.spotify.com/track/4Dulb3Cng8qV360NJFtEBr) | [Ludwig Jonsson](https://open.spotify.com/artist/6pWJeM6v6cLKjblDNWYNdx) | [Anybody Out There](https://open.spotify.com/album/0cVV8otUnb6rE5SisKVgUk) | 3:21 |
 | 2137 | [Kiss Me Deadly](https://open.spotify.com/track/2S3zeYcxOMcjrdVLZWSeUJ) | [Ken Tizzard and Music for Goats](https://open.spotify.com/artist/61WoSnXBrkPMvoiTHmHG3a) | [Kiss Me Deadly](https://open.spotify.com/album/3xiDe0BHQ75UNk6FPHALbY) | 4:12 |
 | 2138 | [Infinity Life](https://open.spotify.com/track/1IwAAaBpIe5DnUTvdIWvCI) | [Fuse Mind](https://open.spotify.com/artist/0m888cJPAkYjR6VeUY95sF) | [Infinity Life](https://open.spotify.com/album/12mqZDxOPhD3RRD49egSCK) | 4:32 |
+| 2139 | [Preoccupied](https://open.spotify.com/track/1kkp9xBNAm2PXrhZGOPf5w) | [Garrett Alden](https://open.spotify.com/artist/0T5bh425SYZUxjFzxhTzRS) | [Preoccupied](https://open.spotify.com/album/0tz2K1G2TcgSUzkHOOIfwK) | 3:58 |
+| 2140 | [Sessiz Sessiz](https://open.spotify.com/track/0ixPXWW5jeFOfXe2cI0WO5) | [Simsek Music](https://open.spotify.com/artist/7GQEWTVVKbKskQJma6ur5L) | [Sessiz Sessiz](https://open.spotify.com/album/3syHs5aRZLbr8VdA7IWBFY) | 3:29 |
+| 2141 | [A\|\| 0vr the Place](https://open.spotify.com/track/6ya5WcHhu3pJNJ1kvh9qAF) | [Agent7543](https://open.spotify.com/artist/2SMKWswWwSBu1Q57b9wYJ7) | [Everything, All at once](https://open.spotify.com/album/4fbRunnM8Tk6eEGBfKWK8Y) | 3:22 |
+| 2142 | [Sweet Melody](https://open.spotify.com/track/0MLsdQnchzHAq6KHgGNOkC) | [Yassa](https://open.spotify.com/artist/6aGUkNV9IZ4w1Ue7RhIbZG) | [Sweet Melody](https://open.spotify.com/album/403dWTLb3nw5a0k60R2xHE) | 2:25 |
+| 2143 | [Wake Me](https://open.spotify.com/track/79VEA2wF65Igb7ZzkyPqub) | [OdoBangs](https://open.spotify.com/artist/04gUqOXG2LTsnef3y4IRgm) | [Wake Me](https://open.spotify.com/album/14rUNYbYCdtnzwZsqjzBJi) | 2:30 |
+| 2144 | [Past, Present And Future](https://open.spotify.com/track/3WUIOnoNjRrRJVJwbgr1wp) | [Synthetic Broadcast](https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ) | [Nomads](https://open.spotify.com/album/3poDscUob4x5S9Gu9RlTlm) | 3:53 |
+| 2145 | [Titanium](https://open.spotify.com/track/68ZVSBWI4xsWV2DP3feLSr) | [Eduardo Robles](https://open.spotify.com/artist/2qwNSIP0Jyv5mstU2i5wwm), [Nox Quartet](https://open.spotify.com/artist/4PyleKtYj9aWfygn3BCSbF) | [Ghost Town and Haunted Love](https://open.spotify.com/album/0jL0TKspnlMs5F4zlEBm2c) | 4:16 |
+| 2146 | [Let Me Be with You](https://open.spotify.com/track/6DYRv1LJmhTkrTu5NfFbC2) | [Marios Papalexis](https://open.spotify.com/artist/4LVxkX59xWHTrIhwI78A6K) | [Love Paths \(Remastered\)](https://open.spotify.com/album/3NuIHFKN8mPdjOgKCOSINd) | 4:13 |
+| 2147 | [Slow Motion](https://open.spotify.com/track/0HMdlUyqI2DBWypxiNgYdC) | [Mantinø](https://open.spotify.com/artist/3VJKPyX6vzH0xc4qHaJM4a) | [Slow Motion](https://open.spotify.com/album/58NgB3KNwM9fCPw8yBEPu2) | 2:18 |
+| 2148 | [Oggi Non Ti Lascerò Dormire](https://open.spotify.com/track/1DuZkoXjGsgiwjhlht5Gx4) | [Carlos Santti](https://open.spotify.com/artist/5Jh9ICtoNtOI0HNf47vCP1) | [Si Tratta di Amore](https://open.spotify.com/album/4x4nnr48YtAVt2stvXdk5a) | 3:47 |
+| 2149 | [faith](https://open.spotify.com/track/6OJFUOp9lfGBVpuhU6W2Fk) | [liam vee](https://open.spotify.com/artist/77zlFkyzNmuNZ5CXGfkVLw) | [faith](https://open.spotify.com/album/79ikQliZCMZ8ZCEHnXRE7O) | 3:53 |
 
-Snapshot ID: `AAAI70ICQMsErIZUOwfAVlySlxqnK9e3`
+Snapshot ID: `AAAI+s56/BYwY+/X89d81y8QfyqZwIdD`

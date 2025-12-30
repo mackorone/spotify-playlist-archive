@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 
 > Welcome to the dark side of the club.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,646,709 likes - 100 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,646,835 likes - 100 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 | 99 | [Post Punk](https://open.spotify.com/track/0ENwCtcM4AMJMacQRSUjGl) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Elements of Dance EP](https://open.spotify.com/album/37vDo1xuSYq0krqPsEO75w) | 3:30 |
 | 100 | [Get Up](https://open.spotify.com/track/5o8U7JLG1JRqE4GRLIijEM) | [Patrick Scuro](https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB), [The Post Brothers](https://open.spotify.com/artist/7ltZPdxAvYDkb3dqstX4sn) | [Get Up](https://open.spotify.com/album/3FeWl6ywFsdfxcu5ndSgjr) | 4:30 |
 
-Snapshot ID: `AAAAAOs249HKFsk7gU1rO+RATjcEXU3K`
+Snapshot ID: `AAAAANfxVzVWILDDgvVYm5Q06UeEubtc`

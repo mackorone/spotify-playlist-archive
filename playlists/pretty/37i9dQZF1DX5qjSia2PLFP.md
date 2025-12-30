@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > They got next and now\. Cover: <a href="spotify:artist:79NDEw5QWlDC9KaIbogNhS">PlaqueBoyMax</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,146 likes - 85 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,180 likes - 85 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 28 | [Independent](https://open.spotify.com/track/1Yf9x4U5nRlOhe4DHcCARB) | [Kocky Ka](https://open.spotify.com/artist/3XQ18LnZPy6tiOElsC93dU), [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [Street Therapy](https://open.spotify.com/album/688hxsV9pdQ92k7tGJE4Tg) | 2:55 |
 | 29 | [Aweh \[Remix\] \(feat\. Cassper Nyovest\)](https://open.spotify.com/track/7sR4V3QuvyZS8jLzbhUpM2) | [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88), [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP) | [Aweh \[Remix\] \(feat\. Cassper Nyovest\)](https://open.spotify.com/album/5aQWOuuzkvcemieOiW1t7H) | 3:27 |
 | 30 | [DND](https://open.spotify.com/track/0T1rQV6AKYpktPNXArEqmz) | [AKIA](https://open.spotify.com/artist/4TiHWoAwePhDOFuPpcls06) | [DUMBCRAZY](https://open.spotify.com/album/0EVrJ2VEFhjMeuYa0UC7LW) | 2:53 |
-| 31 | [PRETTY WOMAN \(WICKED\)](https://open.spotify.com/track/747fcCBqT47Mx2V40WFQOd) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [PRETTY WOMAN \(WICKED\)](https://open.spotify.com/album/34G6OJqIpUFe3aU1SjD3xj) | 3:26 |
+| 31 | [PRETTY WOMAN \(WICKED\)](https://open.spotify.com/track/747fcCBqT47Mx2V40WFQOd) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [PRETTY WOMAN \(WICKED\)](https://open.spotify.com/album/34G6OJqIpUFe3aU1SjD3xj) | 3:19 |
 | 32 | [Fly](https://open.spotify.com/track/2AaDINmyHvzElSXWQ0tmrb) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [Fly](https://open.spotify.com/album/6Yz1hJu1dIcIlTHmuNZkkY) | 3:06 |
 | 33 | [Gas Station Love](https://open.spotify.com/track/05u9J0N4u9dduKObvvYzFI) | [EJ Jones](https://open.spotify.com/artist/1Ub0AUonKoIZuFvy1WZbIC) | [Gas Station Love](https://open.spotify.com/album/6B1jPIaWfQ2UuHXy814c3W) | 4:05 |
 | 34 | [Coming of Age](https://open.spotify.com/track/7pvSteyWYiQoqCnGEkBgMT) | [ziploq bag](https://open.spotify.com/artist/6JzIk06l66NVoAsqIYR9i8) | [Linger ii / Coming of Age](https://open.spotify.com/album/0ZLNRwFwBMktlcsRlJ7UMh) | 2:29 |

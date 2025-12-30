@@ -1,12 +1,12 @@
 {
   "description": "This is Aline Barros. The essential tracks, all in one playlist.",
-  "num_followers": 162442,
+  "num_followers": 162443,
   "original_name": "This Is Aline Barros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU8hgAAAAACeWaZzBx2ogzYUu+4TMdvX",
+  "snapshot_id": "aVBzAAAAAADdRGkb/2fARKFCn9JdS8lM",
   "tracks": [
     {
       "added_at": null,
@@ -767,30 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aline Barros e Cia Tim- Tim por Tim- Tim",
-        "url": "https://open.spotify.com/album/7gLii9nd4WFKyj5MIarXka"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        },
-        {
-          "name": "ImaginAline",
-          "url": "https://open.spotify.com/artist/1LAIQWBGrbEFFMnkSnDXHN"
-        },
-        {
-          "name": "Maria Catherine",
-          "url": "https://open.spotify.com/artist/6NpFsyKn2cKsz0ClJIrwIA"
-        }
-      ],
-      "duration_ms": 216608,
-      "name": "Casinha de Jesus (feat. Maria Catherine)",
-      "url": "https://open.spotify.com/track/1125p0Bk6yVijF1eV4Q8wo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Minha Ora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/389BcZL9PPZK0m4sSkIDH5"
       },
@@ -803,6 +779,22 @@
       "duration_ms": 307250,
       "name": "Refinador (Refiner)",
       "url": "https://open.spotify.com/track/2zMg5jNFn6cv6imFPrYuBR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Som de Adoradores",
+        "url": "https://open.spotify.com/album/44c0Ejf6sz9GAy5n00Cyb9"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 340172,
+      "name": "Casa de Deus",
+      "url": "https://open.spotify.com/track/4PWM6JVp0UMaZnHMOzH7q4"
     },
     {
       "added_at": null,
@@ -839,22 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Som de Adoradores",
-        "url": "https://open.spotify.com/album/44c0Ejf6sz9GAy5n00Cyb9"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 340172,
-      "name": "Casa de Deus",
-      "url": "https://open.spotify.com/track/4PWM6JVp0UMaZnHMOzH7q4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aline Barros e Cia",
         "url": "https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4"
       },
@@ -867,6 +843,22 @@
       "duration_ms": 177818,
       "name": "Louvar \u00e9 Bom Demais",
       "url": "https://open.spotify.com/track/52bR6NwdMWJUc8rXuWwxjh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Caminho de Milagres",
+        "url": "https://open.spotify.com/album/28aJm8Sn0MLMUXi20GMk7u"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 259366,
+      "name": "Vou Te Alegrar",
+      "url": "https://open.spotify.com/track/3Y5ofuQLJolVcXYjCmoeSA"
     }
   ],
   "unique_name": "This Is Aline Barros",

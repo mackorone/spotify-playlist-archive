@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan terbaru tiap pekannya akan kembali di 9 Januari 2026\. Selamat natal dan tahun baru!
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,364 likes - 53 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,396 likes - 53 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

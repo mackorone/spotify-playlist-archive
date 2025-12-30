@@ -1,6 +1,6 @@
 {
   "description": "de sfeer van 6 uur in de ochtend in de buitenlucht",
-  "num_followers": 191559,
+  "num_followers": 191555,
   "original_name": "rustig aan",
   "owner": {
     "name": "Spotify",
@@ -119,6 +119,22 @@
     {
       "added_at": "2025-12-18 23:00:10",
       "album": {
+        "name": "The Truth Can Wait",
+        "url": "https://open.spotify.com/album/65WxuSDxI1t7CsChCPUGlh"
+      },
+      "artists": [
+        {
+          "name": "Lum\u00ef",
+          "url": "https://open.spotify.com/artist/4YVmec1RYeLcalC4yvHv2T"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "The Truth Can Wait",
+      "url": "https://open.spotify.com/track/1gDi26EdEsBA6P9XqMODAb"
+    },
+    {
+      "added_at": "2025-12-18 23:00:10",
+      "album": {
         "name": "Blurrr",
         "url": "https://open.spotify.com/album/5WhOeAAZdZNuVPd0owQ88D"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 195999,
       "name": "Gown",
       "url": "https://open.spotify.com/track/2qDjzlewG9Dx3rC1M2OWXh"
-    },
-    {
-      "added_at": "2025-12-18 23:00:10",
-      "album": {
-        "name": "The Truth Can Wait",
-        "url": "https://open.spotify.com/album/65WxuSDxI1t7CsChCPUGlh"
-      },
-      "artists": [
-        {
-          "name": "Lum\u00ef",
-          "url": "https://open.spotify.com/artist/4YVmec1RYeLcalC4yvHv2T"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "The Truth Can Wait",
-      "url": "https://open.spotify.com/track/1gDi26EdEsBA6P9XqMODAb"
     },
     {
       "added_at": "2025-12-18 23:00:10",
@@ -267,22 +267,6 @@
     {
       "added_at": "2025-12-18 23:00:10",
       "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/6080Ueecr7AVcjohNEO8su"
-      },
-      "artists": [
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 275686,
-      "name": "Into My Arms",
-      "url": "https://open.spotify.com/track/4sA3EIk4BlutdVGJ7hY4Uk"
-    },
-    {
-      "added_at": "2025-12-18 23:00:10",
-      "album": {
         "name": "Bird Song (Acoustic)",
         "url": "https://open.spotify.com/album/47UIzMPuChT62FODlRH5sF"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 193038,
       "name": "Bird Song - Acoustic",
       "url": "https://open.spotify.com/track/6mqy5To9aDKB7pNLFwMQms"
+    },
+    {
+      "added_at": "2025-12-18 23:00:10",
+      "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/6080Ueecr7AVcjohNEO8su"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 275686,
+      "name": "Into My Arms",
+      "url": "https://open.spotify.com/track/4sA3EIk4BlutdVGJ7hY4Uk"
     },
     {
       "added_at": "2025-12-18 23:00:10",
@@ -459,22 +459,6 @@
     {
       "added_at": "2025-12-18 23:00:10",
       "album": {
-        "name": "Dissolve",
-        "url": "https://open.spotify.com/album/1mgbZRf594n36YBlmldrAw"
-      },
-      "artists": [
-        {
-          "name": "Tamino",
-          "url": "https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH"
-        }
-      ],
-      "duration_ms": 403787,
-      "name": "Dissolve",
-      "url": "https://open.spotify.com/track/0xM73Y61yIuNSy1SdsmwZg"
-    },
-    {
-      "added_at": "2025-12-18 23:00:10",
-      "album": {
         "name": "Nightwood (Feat. Tine Reymer) Radio edit [Radio Edit]",
         "url": "https://open.spotify.com/album/6PoU9sVRrfr7sbEIfJY06q"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 219106,
       "name": "Nightwood (Feat. Tine Reymer) Radio Edit",
       "url": "https://open.spotify.com/track/5dKV3esDsQ5fHWb4XLK5P7"
+    },
+    {
+      "added_at": "2025-12-18 23:00:10",
+      "album": {
+        "name": "Dissolve",
+        "url": "https://open.spotify.com/album/1mgbZRf594n36YBlmldrAw"
+      },
+      "artists": [
+        {
+          "name": "Tamino",
+          "url": "https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH"
+        }
+      ],
+      "duration_ms": 403787,
+      "name": "Dissolve",
+      "url": "https://open.spotify.com/track/0xM73Y61yIuNSy1SdsmwZg"
     },
     {
       "added_at": "2025-12-18 23:00:10",
@@ -543,26 +543,6 @@
     {
       "added_at": "2025-12-18 23:00:10",
       "album": {
-        "name": "Richardson (feat. Cassandra Jenkins)",
-        "url": "https://open.spotify.com/album/72T10FajAmf5Wu0M9scOpp"
-      },
-      "artists": [
-        {
-          "name": "Shura",
-          "url": "https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT"
-        },
-        {
-          "name": "Cassandra Jenkins",
-          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
-        }
-      ],
-      "duration_ms": 224093,
-      "name": "Richardson - feat. Cassandra Jenkins",
-      "url": "https://open.spotify.com/track/4Jrstw4tzEoFCE5hZMug96"
-    },
-    {
-      "added_at": "2025-12-18 23:00:10",
-      "album": {
         "name": "Waving",
         "url": "https://open.spotify.com/album/7619CH9KMaa94tUXGHiibs"
       },
@@ -579,6 +559,26 @@
       "duration_ms": 253919,
       "name": "Waving",
       "url": "https://open.spotify.com/track/1TiYTnuokSCxFDc7KRNauZ"
+    },
+    {
+      "added_at": "2025-12-18 23:00:10",
+      "album": {
+        "name": "Richardson (feat. Cassandra Jenkins)",
+        "url": "https://open.spotify.com/album/72T10FajAmf5Wu0M9scOpp"
+      },
+      "artists": [
+        {
+          "name": "Shura",
+          "url": "https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT"
+        },
+        {
+          "name": "Cassandra Jenkins",
+          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
+        }
+      ],
+      "duration_ms": 224093,
+      "name": "Richardson - feat. Cassandra Jenkins",
+      "url": "https://open.spotify.com/track/4Jrstw4tzEoFCE5hZMug96"
     },
     {
       "added_at": "2025-12-18 23:00:10",
@@ -623,6 +623,22 @@
     {
       "added_at": "2025-12-18 23:00:10",
       "album": {
+        "name": "Shape Of The Dunes",
+        "url": "https://open.spotify.com/album/0iJBWKAPrHKMncHoYuGwPe"
+      },
+      "artists": [
+        {
+          "name": "Liza Weald",
+          "url": "https://open.spotify.com/artist/4pE0J1Lxb3hXti8fOrmt9C"
+        }
+      ],
+      "duration_ms": 193445,
+      "name": "Shape Of The Dunes",
+      "url": "https://open.spotify.com/track/3O5ryOKDo5ua9qQgFZxRe9"
+    },
+    {
+      "added_at": "2025-12-18 23:00:10",
+      "album": {
         "name": "Dark Sky Reserve",
         "url": "https://open.spotify.com/album/6g6bUo6UVWTOU7AamVvS1m"
       },
@@ -655,18 +671,18 @@
     {
       "added_at": "2025-12-18 23:00:10",
       "album": {
-        "name": "Shape Of The Dunes",
-        "url": "https://open.spotify.com/album/0iJBWKAPrHKMncHoYuGwPe"
+        "name": "Whiskey",
+        "url": "https://open.spotify.com/album/0w0uFnPjS2HDBYuzRtO45g"
       },
       "artists": [
         {
-          "name": "Liza Weald",
-          "url": "https://open.spotify.com/artist/4pE0J1Lxb3hXti8fOrmt9C"
+          "name": "GOODWIN",
+          "url": "https://open.spotify.com/artist/0jHZBFB1WUFnfEv1FgNo7l"
         }
       ],
-      "duration_ms": 193445,
-      "name": "Shape Of The Dunes",
-      "url": "https://open.spotify.com/track/3O5ryOKDo5ua9qQgFZxRe9"
+      "duration_ms": 183760,
+      "name": "Whiskey",
+      "url": "https://open.spotify.com/track/4c3bVxNMA6DJNiDzhg6kEk"
     },
     {
       "added_at": "2025-12-18 23:00:10",
@@ -699,22 +715,6 @@
       "duration_ms": 282000,
       "name": "Bright Belief",
       "url": "https://open.spotify.com/track/4GJzoqPOhCylLzM7mtMQbw"
-    },
-    {
-      "added_at": "2025-12-18 23:00:10",
-      "album": {
-        "name": "Whiskey",
-        "url": "https://open.spotify.com/album/0w0uFnPjS2HDBYuzRtO45g"
-      },
-      "artists": [
-        {
-          "name": "GOODWIN",
-          "url": "https://open.spotify.com/artist/0jHZBFB1WUFnfEv1FgNo7l"
-        }
-      ],
-      "duration_ms": 183760,
-      "name": "Whiskey",
-      "url": "https://open.spotify.com/track/4c3bVxNMA6DJNiDzhg6kEk"
     },
     {
       "added_at": "2025-12-18 23:00:10",
@@ -803,22 +803,6 @@
     {
       "added_at": "2025-12-18 23:00:10",
       "album": {
-        "name": "At The Party",
-        "url": "https://open.spotify.com/album/5vnuxacWPnc7oQ1UZtNfSm"
-      },
-      "artists": [
-        {
-          "name": "CHARLOT",
-          "url": "https://open.spotify.com/artist/4jwyHfEELByxcUm6JEP5yC"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "At The Party",
-      "url": "https://open.spotify.com/track/0eD9nDx3ZdZt5wzLOOUtxy"
-    },
-    {
-      "added_at": "2025-12-18 23:00:10",
-      "album": {
         "name": "My Child, My Friend - Anchor",
         "url": "https://open.spotify.com/album/63nOrTo9E93yU00AZvnCLD"
       },
@@ -831,22 +815,6 @@
       "duration_ms": 152146,
       "name": "My Child, My Friend",
       "url": "https://open.spotify.com/track/4fJ1qHYvlGZVtCWkIbO7hQ"
-    },
-    {
-      "added_at": "2025-12-18 23:00:10",
-      "album": {
-        "name": "U&I",
-        "url": "https://open.spotify.com/album/38ke3Rhd86DdDcdnXYNqHB"
-      },
-      "artists": [
-        {
-          "name": "Isaac Roux",
-          "url": "https://open.spotify.com/artist/7tPhoEe9VD1m37VqUiC6hA"
-        }
-      ],
-      "duration_ms": 153164,
-      "name": "U&I",
-      "url": "https://open.spotify.com/track/05NozMI1lUuXSdZrnXW1wi"
     },
     {
       "added_at": "2025-12-18 23:00:10",
@@ -871,6 +839,22 @@
     {
       "added_at": "2025-12-18 23:00:10",
       "album": {
+        "name": "U&I",
+        "url": "https://open.spotify.com/album/38ke3Rhd86DdDcdnXYNqHB"
+      },
+      "artists": [
+        {
+          "name": "Isaac Roux",
+          "url": "https://open.spotify.com/artist/7tPhoEe9VD1m37VqUiC6hA"
+        }
+      ],
+      "duration_ms": 153164,
+      "name": "U&I",
+      "url": "https://open.spotify.com/track/05NozMI1lUuXSdZrnXW1wi"
+    },
+    {
+      "added_at": "2025-12-18 23:00:10",
+      "album": {
         "name": "Mother",
         "url": "https://open.spotify.com/album/3XMCVhIHXHKrKaI2YL88Qy"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 194000,
       "name": "Mother",
       "url": "https://open.spotify.com/track/5DRhpU3EnIGQFqyUCNBHZP"
+    },
+    {
+      "added_at": "2025-12-18 23:00:10",
+      "album": {
+        "name": "At The Party",
+        "url": "https://open.spotify.com/album/5vnuxacWPnc7oQ1UZtNfSm"
+      },
+      "artists": [
+        {
+          "name": "CHARLOT",
+          "url": "https://open.spotify.com/artist/4jwyHfEELByxcUm6JEP5yC"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "At The Party",
+      "url": "https://open.spotify.com/track/0eD9nDx3ZdZt5wzLOOUtxy"
     },
     {
       "added_at": "2025-12-18 23:00:10",
@@ -915,6 +915,22 @@
       "duration_ms": 220543,
       "name": "You",
       "url": "https://open.spotify.com/track/4iyMFaZq5EYehqeZo0VPhJ"
+    },
+    {
+      "added_at": "2025-12-18 23:00:10",
+      "album": {
+        "name": "Leaving - Reminisce",
+        "url": "https://open.spotify.com/album/2R1cDeLDQthyEMIlSZnPiZ"
+      },
+      "artists": [
+        {
+          "name": "Annelie",
+          "url": "https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC"
+        }
+      ],
+      "duration_ms": 324453,
+      "name": "Leaving",
+      "url": "https://open.spotify.com/track/2BlK3gDtP5pgK11lVk3MsE"
     },
     {
       "added_at": "2025-12-18 23:00:10",
@@ -955,22 +971,6 @@
     {
       "added_at": "2025-12-18 23:00:10",
       "album": {
-        "name": "Time Drifts",
-        "url": "https://open.spotify.com/album/4rySmePDloJBmc1nEYDk61"
-      },
-      "artists": [
-        {
-          "name": "I Am Oak",
-          "url": "https://open.spotify.com/artist/3rkCcFVpbFYCvnNKTT7LUe"
-        }
-      ],
-      "duration_ms": 237635,
-      "name": "Embers",
-      "url": "https://open.spotify.com/track/3QDvbfhuz5KyCbpEava0vw"
-    },
-    {
-      "added_at": "2025-12-18 23:00:10",
-      "album": {
         "name": "Try Try Try (Acoustic Version)",
         "url": "https://open.spotify.com/album/0hcMwG9nEiYXMlm5o15Rff"
       },
@@ -987,22 +987,6 @@
     {
       "added_at": "2025-12-18 23:00:10",
       "album": {
-        "name": "Leaving - Reminisce",
-        "url": "https://open.spotify.com/album/2R1cDeLDQthyEMIlSZnPiZ"
-      },
-      "artists": [
-        {
-          "name": "Annelie",
-          "url": "https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC"
-        }
-      ],
-      "duration_ms": 324453,
-      "name": "Leaving",
-      "url": "https://open.spotify.com/track/2BlK3gDtP5pgK11lVk3MsE"
-    },
-    {
-      "added_at": "2025-12-18 23:00:10",
-      "album": {
         "name": "Sunflower Sunset",
         "url": "https://open.spotify.com/album/2ViF7zmhrLihawIK3rJ9u2"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 308963,
       "name": "Sunflower Sunset",
       "url": "https://open.spotify.com/track/6PIsXGxWSZj7p2VqmrUbbq"
+    },
+    {
+      "added_at": "2025-12-18 23:00:10",
+      "album": {
+        "name": "Time Drifts",
+        "url": "https://open.spotify.com/album/4rySmePDloJBmc1nEYDk61"
+      },
+      "artists": [
+        {
+          "name": "I Am Oak",
+          "url": "https://open.spotify.com/artist/3rkCcFVpbFYCvnNKTT7LUe"
+        }
+      ],
+      "duration_ms": 237635,
+      "name": "Embers",
+      "url": "https://open.spotify.com/track/3QDvbfhuz5KyCbpEava0vw"
     },
     {
       "added_at": "2025-12-18 23:00:10",

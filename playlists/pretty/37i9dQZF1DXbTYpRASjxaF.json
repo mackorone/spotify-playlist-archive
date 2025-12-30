@@ -1,6 +1,6 @@
 {
   "description": "todos pro alto, cada um com o seu. Foto: F\u00faria, Muse Maya",
-  "num_followers": 135016,
+  "num_followers": 135008,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -83,6 +83,22 @@
     {
       "added_at": "2025-12-26 16:10:26",
       "album": {
+        "name": "ISSO \u00c9 TRAP",
+        "url": "https://open.spotify.com/album/1OFfFTFjfF5NLcbJTgLXLC"
+      },
+      "artists": [
+        {
+          "name": "Brand\u00e3o85",
+          "url": "https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse"
+        }
+      ],
+      "duration_ms": 168960,
+      "name": "NOITE PERFEITA",
+      "url": "https://open.spotify.com/track/555rmZC4fMJDkVavXReVf7"
+    },
+    {
+      "added_at": "2025-12-26 16:10:26",
+      "album": {
         "name": "THE BOX MEDLEY 10",
         "url": "https://open.spotify.com/album/5SgslEzgfpXXwrpnFeUHiL"
       },
@@ -139,22 +155,6 @@
       "duration_ms": 336000,
       "name": "THE BOX MEDLEY 10",
       "url": "https://open.spotify.com/track/3GXnIt9ELJUYtxtkfiVx2j"
-    },
-    {
-      "added_at": "2025-12-26 16:10:26",
-      "album": {
-        "name": "ISSO \u00c9 TRAP",
-        "url": "https://open.spotify.com/album/1OFfFTFjfF5NLcbJTgLXLC"
-      },
-      "artists": [
-        {
-          "name": "Brand\u00e3o85",
-          "url": "https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse"
-        }
-      ],
-      "duration_ms": 168960,
-      "name": "NOITE PERFEITA",
-      "url": "https://open.spotify.com/track/555rmZC4fMJDkVavXReVf7"
     },
     {
       "added_at": "2025-12-26 16:10:26",
@@ -615,26 +615,6 @@
     {
       "added_at": "2025-12-26 16:10:26",
       "album": {
-        "name": "MIXTAPE - BIG G",
-        "url": "https://open.spotify.com/album/1IHVSWOgod1smB2RH7YgJ3"
-      },
-      "artists": [
-        {
-          "name": "MC GP",
-          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
-        },
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
-        }
-      ],
-      "duration_ms": 134736,
-      "name": "CORA\u00c7\u00c3O TATUADO",
-      "url": "https://open.spotify.com/track/6Sn3XT0E6OgXeIsdh605ra"
-    },
-    {
-      "added_at": "2025-12-26 16:10:26",
-      "album": {
         "name": "BANDIDO COM BANDIDA",
         "url": "https://open.spotify.com/album/0FwDR2gJSyI6ltEEzMPPFZ"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 171774,
       "name": "BANDIDO COM BANDIDA",
       "url": "https://open.spotify.com/track/6OhoPRkz6McaAkBb01N4GM"
+    },
+    {
+      "added_at": "2025-12-26 16:10:26",
+      "album": {
+        "name": "MIXTAPE - BIG G",
+        "url": "https://open.spotify.com/album/1IHVSWOgod1smB2RH7YgJ3"
+      },
+      "artists": [
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        }
+      ],
+      "duration_ms": 134736,
+      "name": "CORA\u00c7\u00c3O TATUADO",
+      "url": "https://open.spotify.com/track/6Sn3XT0E6OgXeIsdh605ra"
     },
     {
       "added_at": "2025-12-26 16:10:26",
@@ -1075,30 +1075,6 @@
     {
       "added_at": "2025-12-26 16:10:26",
       "album": {
-        "name": "Vou Nessa",
-        "url": "https://open.spotify.com/album/4huR5dw6AO0rq92G6xMdcq"
-      },
-      "artists": [
-        {
-          "name": "Portugal No Beat",
-          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
-        },
-        {
-          "name": "Bielzin",
-          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
-        },
-        {
-          "name": "Mc Kadu",
-          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
-        }
-      ],
-      "duration_ms": 226875,
-      "name": "Vou Nessa",
-      "url": "https://open.spotify.com/track/3tXT3n0NHFJo0MswFlzJAl"
-    },
-    {
-      "added_at": "2025-12-26 16:10:26",
-      "album": {
         "name": "YeYeYe / N\u00e3o Solta Minha M\u00e3o",
         "url": "https://open.spotify.com/album/69jfklmT8EO7ECOy5HkX7R"
       },
@@ -1123,26 +1099,26 @@
     {
       "added_at": "2025-12-26 16:10:26",
       "album": {
-        "name": "Marketing de Favela",
-        "url": "https://open.spotify.com/album/3rTtqp9GS8cNJUaM63TUk8"
+        "name": "Vou Nessa",
+        "url": "https://open.spotify.com/album/4huR5dw6AO0rq92G6xMdcq"
       },
       "artists": [
         {
-          "name": "Mc Luki",
-          "url": "https://open.spotify.com/artist/3I44LJGCaI0gSPPz3n16xn"
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
         },
         {
-          "name": "Rincon Sapi\u00eancia",
-          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
+          "name": "Bielzin",
+          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
         },
         {
-          "name": "DJ Hyago",
-          "url": "https://open.spotify.com/artist/0QywoHqU6vOuwNwCgapgPf"
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
         }
       ],
-      "duration_ms": 202919,
-      "name": "Tecnologia do Gueto",
-      "url": "https://open.spotify.com/track/1dqocTcib7nOJqzYaPDsks"
+      "duration_ms": 226875,
+      "name": "Vou Nessa",
+      "url": "https://open.spotify.com/track/3tXT3n0NHFJo0MswFlzJAl"
     },
     {
       "added_at": "2025-12-26 16:10:26",
@@ -1179,6 +1155,30 @@
       "duration_ms": 175448,
       "name": "Pula Pula",
       "url": "https://open.spotify.com/track/2bv3MjBOFgMgf1VPGLT5py"
+    },
+    {
+      "added_at": "2025-12-26 16:10:26",
+      "album": {
+        "name": "Marketing de Favela",
+        "url": "https://open.spotify.com/album/3rTtqp9GS8cNJUaM63TUk8"
+      },
+      "artists": [
+        {
+          "name": "Mc Luki",
+          "url": "https://open.spotify.com/artist/3I44LJGCaI0gSPPz3n16xn"
+        },
+        {
+          "name": "Rincon Sapi\u00eancia",
+          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
+        },
+        {
+          "name": "DJ Hyago",
+          "url": "https://open.spotify.com/artist/0QywoHqU6vOuwNwCgapgPf"
+        }
+      ],
+      "duration_ms": 202919,
+      "name": "Tecnologia do Gueto",
+      "url": "https://open.spotify.com/track/1dqocTcib7nOJqzYaPDsks"
     },
     {
       "added_at": "2025-12-26 16:10:26",

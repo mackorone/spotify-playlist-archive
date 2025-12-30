@@ -445,6 +445,24 @@
     },
     {
       "album": {
+        "name": "GROWING",
+        "url": "https://open.spotify.com/album/1oIE9MRFPl6IZdZFQESkcW"
+      },
+      "artists": [
+        {
+          "name": "Lupo Prospero",
+          "url": "https://open.spotify.com/artist/2oW8dDaeHsnelFSYrnhs5J"
+        }
+      ],
+      "date_added": "2025-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169734,
+      "name": "GROWING",
+      "url": "https://open.spotify.com/track/7zbLzzH7GOOAKcNtnr3hcR"
+    },
+    {
+      "album": {
         "name": "Washed Away",
         "url": "https://open.spotify.com/album/7FVNnbmjeSSrcKGSoErBre"
       },
@@ -712,6 +730,24 @@
       "duration_ms": 62778,
       "name": "Only You",
       "url": "https://open.spotify.com/track/3B6AKdVGauMT11fwUWJ8Ga"
+    },
+    {
+      "album": {
+        "name": "Open Mind (Radio Edit)",
+        "url": "https://open.spotify.com/album/6sMLueYKYIsJE6aa5JBvVh"
+      },
+      "artists": [
+        {
+          "name": "Pol Sembrano",
+          "url": "https://open.spotify.com/artist/5n6eyDpDiKTKxG9BTPAC00"
+        }
+      ],
+      "date_added": "2025-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220211,
+      "name": "Open Mind - Radio Edit",
+      "url": "https://open.spotify.com/track/1Th8P3kgdtBbjkrkUmLRfY"
     },
     {
       "album": {

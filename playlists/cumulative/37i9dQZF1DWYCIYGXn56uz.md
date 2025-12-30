@@ -4,7 +4,7 @@
 
 > ⚡️ qui un sacco di musica giovane ⚡️ Cover: Bresh
 
-940 songs - 1 day 19 hr 34 min
+941 songs - 1 day 19 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -393,6 +393,7 @@
 | [INVINCIBILE](https://open.spotify.com/track/2iK36adf6eXRrWZOq3IvFZ) | [Lortex](https://open.spotify.com/artist/0ItmqfCN0IYX9N8LcDHj45) | [INVINCIBILE](https://open.spotify.com/album/1K8Qd3cm3JOjTym37m0j8v) | 2:15 | 2024-05-16 | 2024-06-14 |
 | [IO & TU](https://open.spotify.com/track/5MBwzWnikF3EMS9wBagvM9) | [Giaime](https://open.spotify.com/artist/3sC3sCpqSYClSdKez9Rs6k), [Smookid](https://open.spotify.com/artist/2mLQ8JfGyC8pFZTNIhejPR), [4TheNight](https://open.spotify.com/artist/523cP8Y8ivlsc3sLEgdNTH) | [IO & TU](https://open.spotify.com/album/0jKl6eCdgu5cM9fqNH9NIs) | 2:18 | 2025-10-02 | 2025-11-07 |
 | [Io Non Lo So](https://open.spotify.com/track/2eHOxOoWWj0is98NlvUoqd) | [Romeo & Drill](https://open.spotify.com/artist/58R2c9Zopp6mfar9rKXbEm) | [Io Non Lo So](https://open.spotify.com/album/6idUEOKJZ3dkR1f1DrbNe1) | 2:29 | 2023-04-20 | 2023-05-19 |
+| [Io non sento niente](https://open.spotify.com/track/5Iust9wFkcYrCJuFagdFpn) | [CHANDIE](https://open.spotify.com/artist/7x7GichhdGuPorBJYghR5S) | [Io non sento niente](https://open.spotify.com/album/7fv13X0AXKpJqaQ5vQgTUE) | 3:36 | 2025-12-29 |  |
 | [Io sono qui](https://open.spotify.com/track/3ecm97gYyNfG04buI3MNzx) | [Anto Paga](https://open.spotify.com/artist/2EdLV4ftq7Ks8dR7roTHrq) | [Io sono qui](https://open.spotify.com/album/39VpLFBNocdoARqHY7FRLp) | 2:06 | 2023-03-23 | 2023-04-14 |
 | [Io ti conosco](https://open.spotify.com/track/7A9fo9j49DRPLPOGnfE2Ud) | [gIANMARIA](https://open.spotify.com/artist/3lxINiPO2Mtk6VqtUSd5t1), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [Io ti conosco](https://open.spotify.com/album/0bdyF5AN6DdgwCAEvBrmqW) | 3:06 | 2023-11-23 | 2023-12-16 |
 | [IO VOLEVO](https://open.spotify.com/track/5YWf3XfMbWdcd3eQqwjcTW) | [Nyno](https://open.spotify.com/artist/19Ii0dXgTYPulG9y9NaxTP) | [IO VOLEVO](https://open.spotify.com/album/7gXxccDicstPL11QGub92e) | 2:53 | 2025-03-06 | 2025-04-18 |
@@ -459,7 +460,7 @@
 | [MA CHE IDEA RMX](https://open.spotify.com/track/3NX8uz8ollJtkfa5IQczm1) | [JXN](https://open.spotify.com/artist/3MYT2UTOP4RHngspyochga), [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw), [Pino D'Angiò](https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6) | [MA CHE IDEA RMX](https://open.spotify.com/album/3wUrUcYjwY1uLfvB0bHC4e) | 2:57 | 2025-07-31 | 2025-10-03 |
 | [MA TU CI PENSI A ME?](https://open.spotify.com/track/6LvtUulxb6zQpOzXaq4tc8) | [GionnyScandal](https://open.spotify.com/artist/7EyPI6TWLhz3XUpxkbyCV2) | [MA TU CI PENSI A ME?](https://open.spotify.com/album/1i4Cwr875BKs1pFbGqYlDJ) | 2:57 | 2024-06-13 | 2024-07-19 |
 | [MADAME LABELLE \(feat\. Ascanio\)](https://open.spotify.com/track/3ilAKwvylFO5zwqiBuEUtX) | [The Breakfast Club](https://open.spotify.com/artist/61rUPiLnxXN6Zo6R0UPpvL), [Ascanio](https://open.spotify.com/artist/4OrY83Csdp97sYybqjZTzI) | [MADAME LABELLE \(feat\. Ascanio\)](https://open.spotify.com/album/3HMbsKNrmGCefl7KdFpLlC) | 2:32 | 2025-12-18 |  |
-| [Made In Italy](https://open.spotify.com/track/10Iylq9yuPMOIiUhRRnBnl) | [Glauco](https://open.spotify.com/artist/6zRPngg8Akh7YyNy18Pkm4) | [RGB](https://open.spotify.com/album/1aMfwAQYzhtsn4m0uRkmTk) | 2:57 | 2025-12-11 |  |
+| [Made In Italy](https://open.spotify.com/track/10Iylq9yuPMOIiUhRRnBnl) | [Glauco](https://open.spotify.com/artist/6zRPngg8Akh7YyNy18Pkm4) | [RGB](https://open.spotify.com/album/1aMfwAQYzhtsn4m0uRkmTk) | 2:57 | 2025-12-11 | 2025-12-30 |
 | [MADE IN ITALY](https://open.spotify.com/track/35BICD5dEJLVicj9cV0jhe) | [Rosa Chemical](https://open.spotify.com/artist/5gYADZXuZoaJwrwfAPbKuH), [Bdope](https://open.spotify.com/artist/3SGb7Dlm2pmV7qIQHUzRtB) | [MADE IN ITALY](https://open.spotify.com/album/0miArJPcQRJwlfZ6OGs2WJ) | 2:58 | 2023-03-23 | 2023-05-05 |
 | [MADRID](https://open.spotify.com/track/5sbU31CmaRePrVYr8bARhE) | [SENZA CRI](https://open.spotify.com/artist/73yuykr68rP33twpiNpIoX) | [MADRID](https://open.spotify.com/album/6W1uDUWHc2fI4hlTI9HCxo) | 2:34 | 2024-11-14 | 2025-05-16 |
 | [Mai Banale](https://open.spotify.com/track/2TzMBeONrRkBT0d2P05Mmv) | [Will](https://open.spotify.com/artist/7qIrqNF6i1kRLkGLgGXuZq) | [Mai Banale](https://open.spotify.com/album/4DDZ6E8HKdBCSDuwiH2H8n) | 2:55 | 2024-07-18 | 2024-10-18 |

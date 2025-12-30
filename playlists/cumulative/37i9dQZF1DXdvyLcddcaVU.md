@@ -4,7 +4,7 @@
 
 > \#fyp
 
-979 songs - 2 day 2 hr 50 min
+980 songs - 2 day 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Astronaute](https://open.spotify.com/track/4bodTYPSNBkMGyiGm7xxMF) | [An'Om](https://open.spotify.com/artist/3rF2ZcZCcwYluO3h9wRP22), [Vayn](https://open.spotify.com/artist/41CySalxZ2GST1n69SqsZ1) | [Astronaute](https://open.spotify.com/album/764bunz9RYN2s5psCI2MH6) | 7:18 | 2024-01-12 | 2024-05-04 |
 | [Aucune attache](https://open.spotify.com/track/3KZN01EuBoqh04jyGXpnxr) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Aucune attache](https://open.spotify.com/album/2u9Mg8knLxFwiEsALkFslI) | 2:41 | 2024-02-09 | 2024-09-21 |
 | [Avec classe \(feat\. Aya Nakamura & Trinix\)](https://open.spotify.com/track/2RqZ8JUBXP4C0nzttGnTL1) | [Corneille](https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [Avec classe \(feat\. Aya Nakamura & Trinix\)](https://open.spotify.com/album/2PeOwsFqU4M5IabYcuMnAL) | 3:06 | 2024-02-16 | 2024-04-06 |
+| [Aventadoré](https://open.spotify.com/track/0jMh5CUDXCHhUoLJntKyHW) | [HT](https://open.spotify.com/artist/50pqrGq4DqUlNmsaCfRexx) | [Aventadoré / Cardio](https://open.spotify.com/album/4sFh5XFaItICHzVQeaArTj) | 2:16 | 2025-12-29 |  |
 | [Awa](https://open.spotify.com/track/6WWOAUl2LhG9PG9UcQPVUi) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [NYXIA\. Tome III](https://open.spotify.com/album/2INTNqaYSOSAwmNLV925Ca) | 3:21 | 2023-06-02 | 2023-09-10 |
 | [AZAMAN](https://open.spotify.com/track/4K5lYtD8r6OFRbzWc6MwCS) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [HEIS](https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H) | 2:28 | 2024-09-27 | 2024-11-16 |
 | [Azul](https://open.spotify.com/track/2lCkncy6bIB0LTMT7kvrD1) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Colores](https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis) | 3:25 | 2025-02-27 | 2025-06-21 |
@@ -664,7 +665,7 @@
 | [NUMBER ONE \(feat\. Minz\)](https://open.spotify.com/track/2REbaRuhstqXHA06wtdOMb) | [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [BIG AKA 4 AKA KAI](https://open.spotify.com/album/2Sp3t61MrPQUPn71nv6QZm) | 4:03 | 2025-05-29 | 2025-11-04 |
 | [N°1](https://open.spotify.com/track/4MO9FQjvq19aQYHzwPS0EK) | [Booska\-P](https://open.spotify.com/artist/49mOLAzenRv6kDrr4Akajh), [BB NOYAA](https://open.spotify.com/artist/5K3zqOMrHMocBFB5q9AG8I) | [N°1](https://open.spotify.com/album/3vo1DGBT0rnIMoEmlzy1jq) | 1:01 | 2025-03-14 | 2025-04-11 |
 | [obligé](https://open.spotify.com/track/72CwufbasYHuLPmK4Sc8Fb) | [wilsko](https://open.spotify.com/artist/1d38UPGn8PJ9XekumcIBha), [Jogga](https://open.spotify.com/artist/6kByPyGr60aeCsb8TGOWav), [7ia](https://open.spotify.com/artist/7736wQOIPocKi5hEg7l3hG) | [obligé](https://open.spotify.com/album/3OfclnCE5699252hpAuVWt) | 3:04 | 2023-09-22 | 2023-11-11 |
-| [OCCUPÉ](https://open.spotify.com/track/3hTmafgikfeMjyK8wT0ouq) | [JIMB0](https://open.spotify.com/artist/3upnuqxkk8p1HUcCmzsy0f), [TimalZed](https://open.spotify.com/artist/2ovfY6qLSO2GPeIC534vNK) | [OCCUPÉ](https://open.spotify.com/album/2iJUkmf3dzaj78SJdmkB2m) | 3:06 | 2025-09-11 |  |
+| [OCCUPÉ](https://open.spotify.com/track/3hTmafgikfeMjyK8wT0ouq) | [JIMB0](https://open.spotify.com/artist/3upnuqxkk8p1HUcCmzsy0f), [TimalZed](https://open.spotify.com/artist/2ovfY6qLSO2GPeIC534vNK) | [OCCUPÉ](https://open.spotify.com/album/2iJUkmf3dzaj78SJdmkB2m) | 3:06 | 2025-09-11 | 2025-12-30 |
 | [ocean eyes](https://open.spotify.com/track/7hDVYcQq6MxkdJGweuCtl9) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [dont smile at me](https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU) | 3:20 | 2025-09-19 | 2025-10-11 |
 | [OG](https://open.spotify.com/track/4MhWzQysa4cZ2enHOyzs87) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [OG](https://open.spotify.com/album/4859Y9IWnv38DK6CwWITtb) | 2:44 | 2025-12-23 |  |
 | [Oh Baby](https://open.spotify.com/track/4udjRyc7ZdL2FBxHvXEG6p) | [Kima](https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS) | [La Cour des Grands](https://open.spotify.com/album/65hZGLxilKXe8PP1UPdPGp) | 2:53 | 2025-01-17 | 2025-03-08 |

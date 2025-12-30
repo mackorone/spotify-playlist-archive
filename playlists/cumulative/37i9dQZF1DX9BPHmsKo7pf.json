@@ -199,6 +199,24 @@
     },
     {
       "album": {
+        "name": "Aladam",
+        "url": "https://open.spotify.com/album/1Z3urgmnh6CcrQVJU6xLtQ"
+      },
+      "artists": [
+        {
+          "name": "Bogdan DLP",
+          "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
+        }
+      ],
+      "date_added": "2025-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132892,
+      "name": "Aladam",
+      "url": "https://open.spotify.com/track/0M1WfCxDACdVUqPYk4nCNf"
+    },
+    {
+      "album": {
         "name": "Alarmant",
         "url": "https://open.spotify.com/album/3f6zhU9sXclPRjKSTSKvsK"
       },
@@ -572,7 +590,7 @@
       ],
       "date_added": "2025-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-30",
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
@@ -1006,6 +1024,28 @@
       "duration_ms": 192000,
       "name": "CATWALK",
       "url": "https://open.spotify.com/track/1e4njXWgyhXbD1Yb7BEzaR"
+    },
+    {
+      "album": {
+        "name": "CE FRIG E/DUBLU R",
+        "url": "https://open.spotify.com/album/610ODoyzMvnaditF7pT4tW"
+      },
+      "artists": [
+        {
+          "name": "AdelinMM",
+          "url": "https://open.spotify.com/artist/6QAHe9M8Tp7mSnS9tupSHU"
+        },
+        {
+          "name": "RAVA",
+          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
+        }
+      ],
+      "date_added": "2025-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267347,
+      "name": "CE FRIG E/DUBLU R",
+      "url": "https://open.spotify.com/track/5A6UyiJrp37A8Omkd4gG9f"
     },
     {
       "album": {
@@ -4142,7 +4182,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-30",
       "duration_ms": 176965,
       "name": "Show Me Love",
       "url": "https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa"

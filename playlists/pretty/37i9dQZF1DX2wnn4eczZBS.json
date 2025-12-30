@@ -1,6 +1,6 @@
 {
   "description": "indie & indiepop in het Nederlands. Cover: Elmer",
-  "num_followers": 11079,
+  "num_followers": 11081,
   "original_name": "indie.nl",
   "owner": {
     "name": "Spotify",
@@ -639,22 +639,6 @@
     {
       "added_at": "2025-12-18 23:00:20",
       "album": {
-        "name": "Dansen met de dood",
-        "url": "https://open.spotify.com/album/3iKTDcSlzjaUlLfYENtrW7"
-      },
-      "artists": [
-        {
-          "name": "Sophie Straat",
-          "url": "https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw"
-        }
-      ],
-      "duration_ms": 204770,
-      "name": "Dansen met de dood",
-      "url": "https://open.spotify.com/track/4l9mEd8BcksX3maLREZaX5"
-    },
-    {
-      "added_at": "2025-12-18 23:00:20",
-      "album": {
         "name": "kleine auto, grote hot wheel",
         "url": "https://open.spotify.com/album/4GlbfflO4JRp5ku5zOcPBP"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 265997,
       "name": "dichtbij, veraf",
       "url": "https://open.spotify.com/track/0LpX3MyGISnvbR3pAhoECF"
+    },
+    {
+      "added_at": "2025-12-18 23:00:20",
+      "album": {
+        "name": "Dansen met de dood",
+        "url": "https://open.spotify.com/album/3iKTDcSlzjaUlLfYENtrW7"
+      },
+      "artists": [
+        {
+          "name": "Sophie Straat",
+          "url": "https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw"
+        }
+      ],
+      "duration_ms": 204770,
+      "name": "Dansen met de dood",
+      "url": "https://open.spotify.com/track/4l9mEd8BcksX3maLREZaX5"
     },
     {
       "added_at": "2025-12-18 23:00:20",

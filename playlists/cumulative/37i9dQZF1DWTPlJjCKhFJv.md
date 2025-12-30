@@ -2,7 +2,7 @@
 
 ### [Spring Clean](https://open.spotify.com/playlist/37i9dQZF1DWTPlJjCKhFJv)
 
-> You can clean in summer too, don't sweat it
+> Don't wait for spring to spruce things up
 
 103 songs - 6 hr 28 min
 

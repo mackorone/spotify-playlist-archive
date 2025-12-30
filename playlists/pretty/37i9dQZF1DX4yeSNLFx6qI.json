@@ -1,6 +1,6 @@
 {
   "description": "Sad songs 4 sad days.",
-  "num_followers": 1704906,
+  "num_followers": 1704643,
   "original_name": "sad latino",
   "owner": {
     "name": "Spotify",
@@ -139,26 +139,6 @@
     {
       "added_at": "2025-09-05 04:48:26",
       "album": {
-        "name": "En Otra Vida",
-        "url": "https://open.spotify.com/album/2YB2eziTKgn9bnRz7prmoP"
-      },
-      "artists": [
-        {
-          "name": "Yami Safdie",
-          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
-        },
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        }
-      ],
-      "duration_ms": 153609,
-      "name": "En Otra Vida",
-      "url": "https://open.spotify.com/track/0EhmTBq33eARyOz3SIi4P2"
-    },
-    {
-      "added_at": "2025-09-05 04:48:26",
-      "album": {
         "name": "Extra\u00f1\u00e1ndote",
         "url": "https://open.spotify.com/album/5wyMJ9XYRHetHFcu8tOowP"
       },
@@ -175,6 +155,26 @@
       "duration_ms": 183157,
       "name": "Extra\u00f1\u00e1ndote",
       "url": "https://open.spotify.com/track/6pTKWN96v1dpEaBMzDYlww"
+    },
+    {
+      "added_at": "2025-09-05 04:48:26",
+      "album": {
+        "name": "En Otra Vida",
+        "url": "https://open.spotify.com/album/2YB2eziTKgn9bnRz7prmoP"
+      },
+      "artists": [
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        },
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "duration_ms": 153609,
+      "name": "En Otra Vida",
+      "url": "https://open.spotify.com/track/0EhmTBq33eARyOz3SIi4P2"
     },
     {
       "added_at": "2025-09-05 04:48:26",
@@ -579,22 +579,6 @@
     {
       "added_at": "2025-09-05 04:48:26",
       "album": {
-        "name": "tus manias",
-        "url": "https://open.spotify.com/album/4GY58zCDUjHq9H0QrUI39T"
-      },
-      "artists": [
-        {
-          "name": "mafalda cardenal",
-          "url": "https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "tus manias",
-      "url": "https://open.spotify.com/track/5GSYRjrn12Wdh1V38b8hVR"
-    },
-    {
-      "added_at": "2025-09-05 04:48:26",
-      "album": {
         "name": "Romancera",
         "url": "https://open.spotify.com/album/427UD26U4IkJqIUicqVMZ9"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 232493,
       "name": "Romancera",
       "url": "https://open.spotify.com/track/4HED7T9WqduhZ6TgMl7ugE"
+    },
+    {
+      "added_at": "2025-09-05 04:48:26",
+      "album": {
+        "name": "tus manias",
+        "url": "https://open.spotify.com/album/4GY58zCDUjHq9H0QrUI39T"
+      },
+      "artists": [
+        {
+          "name": "mafalda cardenal",
+          "url": "https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "tus manias",
+      "url": "https://open.spotify.com/track/5GSYRjrn12Wdh1V38b8hVR"
     },
     {
       "added_at": "2025-09-05 04:48:26",
@@ -823,18 +823,18 @@
     {
       "added_at": "2025-09-05 04:48:26",
       "album": {
-        "name": "escrita",
-        "url": "https://open.spotify.com/album/41DOXn1SuBBmm57gPTyb5E"
+        "name": "YA NO NOS CONOCEMOS",
+        "url": "https://open.spotify.com/album/6JWSpmDfqteGUHQNoiVcA0"
       },
       "artists": [
         {
-          "name": "nic",
-          "url": "https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph"
+          "name": "Guzmen",
+          "url": "https://open.spotify.com/artist/7hF6UMdXdBUOtQbYJtxGtd"
         }
       ],
-      "duration_ms": 202282,
-      "name": "m\u00e1s y menos",
-      "url": "https://open.spotify.com/track/5RxXLXdfznLfRGMfEPyt0a"
+      "duration_ms": 197255,
+      "name": "YA NO NOS CONOCEMOS",
+      "url": "https://open.spotify.com/track/59bM6aWjUPN8rKT5u2WaJA"
     }
   ],
   "unique_name": "sad latino",

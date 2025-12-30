@@ -1,12 +1,12 @@
 {
   "description": "It&#x27;s 5 o&#x27;clock somewhere and best believe there&#x27;s a local band there ready to rock when the sun goes down.",
-  "num_followers": 272,
+  "num_followers": 279,
   "original_name": "Local Rock Bands",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAA7W2iegOznMFVQJKZS35VTVDJs5cm",
+  "snapshot_id": "AAAA8NmcntlylEs8ump0aGUWFwTL/6VE",
   "tracks": [
     {
       "added_at": "2025-09-16 13:19:37",
@@ -831,6 +831,54 @@
       "duration_ms": 190615,
       "name": "Destinos Cruzados",
       "url": "https://open.spotify.com/track/4tFkEuIWIZIKDPfaJhUyrP"
+    },
+    {
+      "added_at": "2025-12-29 16:07:15",
+      "album": {
+        "name": "Dayglo / Shadow Artist",
+        "url": "https://open.spotify.com/album/6n9uicDXaGs7NpVLA5VCSA"
+      },
+      "artists": [
+        {
+          "name": "Silver Shores",
+          "url": "https://open.spotify.com/artist/7laeihpH4jaoYZhJtZ25Kd"
+        }
+      ],
+      "duration_ms": 243560,
+      "name": "Shadow Artist",
+      "url": "https://open.spotify.com/track/6wHFJkSrpW7MRoLx4Wgmvn"
+    },
+    {
+      "added_at": "2025-12-29 16:32:08",
+      "album": {
+        "name": "Turn Past Tomorrow",
+        "url": "https://open.spotify.com/album/3jWcJlU5XrV1b381It9xUw"
+      },
+      "artists": [
+        {
+          "name": "Hat Pin Panic",
+          "url": "https://open.spotify.com/artist/77f1HkjJ9kj51sNjprGklj"
+        }
+      ],
+      "duration_ms": 204387,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/206t9kiN5fvPUOCzIayQuV"
+    },
+    {
+      "added_at": "2025-12-29 21:31:09",
+      "album": {
+        "name": "Liminal Space",
+        "url": "https://open.spotify.com/album/1UR9SA5kOX7Ogx6pRhPdiq"
+      },
+      "artists": [
+        {
+          "name": "Regina",
+          "url": "https://open.spotify.com/artist/4ed2jHmlm4FWzcKrYyzRKL"
+        }
+      ],
+      "duration_ms": 235746,
+      "name": "Dethroned",
+      "url": "https://open.spotify.com/track/23tye9xrSpAZ1j5pSIh2a2"
     }
   ],
   "unique_name": "Local Rock Bands",

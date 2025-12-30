@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-658 songs - 2 day 6 hr 13 min
+659 songs - 2 day 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [been here before](https://open.spotify.com/track/5LwAKCJlEo30A3DcObcRgW) | [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01), [Dylan Yem](https://open.spotify.com/artist/40a0aZCzsqU7fIi6nmoZrs) | [been here before](https://open.spotify.com/album/67vURYRTpK2n6hKtcq31nG) | 3:19 | 2024-04-12 |  |
 | [Berlin](https://open.spotify.com/track/7417sWBafxcD9NxZ7DbSMW) | [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [Berlin](https://open.spotify.com/album/0Ec1kkdXl9Sxc5XB7SDt1W) | 3:22 | 2025-10-10 |  |
 | [Big Trip Believing](https://open.spotify.com/track/3xe8P71ZbZ7fc6UQbb8lfh) | [Mano Le Tough](https://open.spotify.com/artist/04KmByEP6icXVY0PvJaMMp), [Matador](https://open.spotify.com/artist/1UcYY5JDPe05nqjODiVkx1) | [Big Trip Believing](https://open.spotify.com/album/78eOlGIDGq0f0ZiAUzWN22) | 3:42 | 2024-11-22 |  |
-| [Birdsong](https://open.spotify.com/track/15M45gEcIKFSLJqdEHrL6R) | [Calcou](https://open.spotify.com/artist/7ddylNYaeb9AurS9NqllUc) | [Murmuration](https://open.spotify.com/album/7adyZcz9U5o44Q7sn1umNl) | 3:42 | 2024-07-12 |  |
+| [Birdsong](https://open.spotify.com/track/15M45gEcIKFSLJqdEHrL6R) | [Calcou](https://open.spotify.com/artist/7ddylNYaeb9AurS9NqllUc) | [Murmuration](https://open.spotify.com/album/7adyZcz9U5o44Q7sn1umNl) | 3:42 | 2024-07-12 | 2025-12-30 |
 | [Blasphemy](https://open.spotify.com/track/1VFP7rkQB2dkEqWj9hBZym) | [Moullinex](https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr), [GPU Panic](https://open.spotify.com/artist/1kClYC29n6M4YTALilSyY3), [MXGPU](https://open.spotify.com/artist/7LHpDayfzUPdd5DGAJIrko) | [Blasphemy](https://open.spotify.com/album/7cfkhtRdWjxknBT7Khj1HW) | 3:09 | 2023-10-28 | 2025-09-06 |
 | [Blissda](https://open.spotify.com/track/6cOie6oyMHzoVHLmpLfHN4) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [MY DEAR](https://open.spotify.com/album/7M6tHZFOENnFOzFeeUokS1) | 5:43 | 2023-03-03 | 2025-02-01 |
 | [Blossom](https://open.spotify.com/track/5kAv0wk38BRqdMPbaGbKQe) | [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf) | [Colorize 2023 Spring Sampler](https://open.spotify.com/album/2RQiB9SPWqSLQETVpLVacO) | 4:00 | 2023-04-07 |  |
@@ -96,6 +96,7 @@
 | [Call My Name](https://open.spotify.com/track/4vI94CkCfDXotFMcSPujvK) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [Rae Morris](https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst) | [Call My Name](https://open.spotify.com/album/2AATjcwyMv4RDwKvXZyBn4) | 4:25 | 2023-08-04 |  |
 | [Calm](https://open.spotify.com/track/254ovkt2YPJeMAHdvuz5oe) | [Midnight Pass](https://open.spotify.com/artist/2F8qRDc5o9tYPuRiT4cvN6), [Ruffnux](https://open.spotify.com/artist/2PEL3r75V90kt2VxLPdkxf) | [Calm](https://open.spotify.com/album/78IwPOkrLSxRINhZS6iSKg) | 3:18 | 2024-07-12 | 2025-01-11 |
 | [Cameo](https://open.spotify.com/track/1xltPGjeNgtjO8zLHZ6mCf) | [Guy Gerber](https://open.spotify.com/artist/3bqBkAzdPwEDe1JUvb7ZeC) | [Cameo](https://open.spotify.com/album/67yxzpLfTndtBK2RD2yGvp) | 5:17 | 2021-12-08 | 2023-07-29 |
+| [Can a Man Paint Better Than God?](https://open.spotify.com/track/5cyKuW9rBFWSjKPij0bd2Z) | [Loverground](https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z) | [A Long Time to Build, A Moment to Vanish \(Extended Edition\)](https://open.spotify.com/album/589NNNdlgEK3yFBo9q9hcN) | 3:48 | 2025-12-19 |  |
 | [Canvey Island](https://open.spotify.com/track/5h9PBWm5EZmOORfkFGnMpv) | [Wayward](https://open.spotify.com/artist/6QzNZv95Ql8TJ7PsHvOvZS) | [Waiting For The World](https://open.spotify.com/album/0CLJNPrkoE2czy7go4sdZA) | 5:43 | 2021-12-08 | 2023-04-09 |
 | [Can’t Quite Understand](https://open.spotify.com/track/5cZhGl84mK2JzltfSzqJR9) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [Lore EP](https://open.spotify.com/album/1DCXlz2JvEcTUOZqgn5tDB) | 3:29 | 2021-12-08 | 2022-12-04 |
 | [Captivated](https://open.spotify.com/track/3pNnSLPQUHxUrLMoiMNN6d) | [LTN](https://open.spotify.com/artist/2IK99qf3aYxFWkgCkc7kQ3), [Ghostbeat](https://open.spotify.com/artist/6HM5cyDWiTq4ijhdsaRZiS), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Captivated](https://open.spotify.com/album/4vVmbCnag2aKDlEiB4iy6G) | 3:07 | 2021-12-08 | 2024-07-13 |

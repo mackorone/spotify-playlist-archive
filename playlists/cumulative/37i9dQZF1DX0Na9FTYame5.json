@@ -183,6 +183,24 @@
     },
     {
       "album": {
+        "name": "4:30",
+        "url": "https://open.spotify.com/album/1LWzvRKoiXyUAzmbA9IUQy"
+      },
+      "artists": [
+        {
+          "name": "Eddin",
+          "url": "https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170868,
+      "name": "4:30",
+      "url": "https://open.spotify.com/track/2jzNTyPpenfoZ6qeQzhn9d"
+    },
+    {
+      "album": {
         "name": "6 Kugeln",
         "url": "https://open.spotify.com/album/1oUIROs1hGFj45271O2h0T"
       },
@@ -3201,6 +3219,24 @@
     },
     {
       "album": {
+        "name": "Lila",
+        "url": "https://open.spotify.com/album/2uaOR6BiKSs3LQivT3kjoG"
+      },
+      "artists": [
+        {
+          "name": "Rosc",
+          "url": "https://open.spotify.com/artist/4vEIMa1vuh2eKBryiepN8c"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170373,
+      "name": "Lila",
+      "url": "https://open.spotify.com/track/4D6P7YK4vvETiWPyCST7JT"
+    },
+    {
+      "album": {
         "name": "Ljubim te",
         "url": "https://open.spotify.com/album/2zzuR8Lo7vAQa1BIOv56dt"
       },
@@ -3684,7 +3720,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-30",
       "duration_ms": 153500,
       "name": "Mit dir",
       "url": "https://open.spotify.com/track/4yABFkdkOPeHMDsXMBcwra"
@@ -3946,7 +3982,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-26",
+      "date_removed": null,
       "duration_ms": 179000,
       "name": "Nie wieder",
       "url": "https://open.spotify.com/track/2biArscoLJQm00Xy26kVOu"
@@ -5096,7 +5132,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-30",
       "duration_ms": 171130,
       "name": "Spiegel",
       "url": "https://open.spotify.com/track/6EHPSOkUXafB6YEPnB6vGy"
@@ -6232,7 +6268,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-30",
       "duration_ms": 150217,
       "name": "Zwischenphase",
       "url": "https://open.spotify.com/track/5svicODBSeMb67wuBeqW5T"

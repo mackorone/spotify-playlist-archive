@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKOGt2rVvOT.md) - [plain]
 
 > 這些華語歌還很紅也！一年了？兩年了？真的假的？高人氣金曲讓你一路聽下去！Cover: Karencici
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,800 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,805 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKOGt2rVvOT.md) - [plain]
 | 49 | [你還是你嗎](https://open.spotify.com/track/0uzGIrqzEG1Nb7p5sEAJc0) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [珍珠刑](https://open.spotify.com/album/6q1WgJJeGOllNgkJPJcjG9) | 5:36 |
 | 50 | [我還能怎麼伴](https://open.spotify.com/track/5lhtEnWhmWfvECzPcC1qFd) | [Show Luo](https://open.spotify.com/artist/33ApZ6LzfimooQNIKqf4jo) | [舞狀元](https://open.spotify.com/album/2M28Qhgb7On9XGAtm9LNsj) | 4:22 |
 
-Snapshot ID: `AAAAAGBf4ehp3eQi0fp94MbulJSbb3qx`
+Snapshot ID: `AAAAALIGn/RapsbYhsJa5X+yx92c/n6t`

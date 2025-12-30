@@ -1,6 +1,6 @@
 {
   "description": "Journey through the sounds of South African Jazz. Cover: giuliette price",
-  "num_followers": 12607,
+  "num_followers": 12610,
   "original_name": "Jazz NXT",
   "owner": {
     "name": "Spotify",
@@ -163,18 +163,22 @@
     {
       "added_at": "2025-11-07 00:07:51",
       "album": {
-        "name": "The Beyond",
-        "url": "https://open.spotify.com/album/5xTKYO7RjVCdaROa9kvBcN"
+        "name": "Sankofa",
+        "url": "https://open.spotify.com/album/5y7tFgFLl0d5AKExJC8Rsy"
       },
       "artists": [
         {
-          "name": "Shane Cooper",
-          "url": "https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ"
+          "name": "Thandiswa",
+          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
+        },
+        {
+          "name": "Thandi Ntuli",
+          "url": "https://open.spotify.com/artist/1g7pneoNO9Thq5oYQyR5Dy"
         }
       ],
-      "duration_ms": 105500,
-      "name": "The Beyond",
-      "url": "https://open.spotify.com/track/1CFaQyXq0nSHSBQ9AAALDQ"
+      "duration_ms": 243046,
+      "name": "xandibona wena feat. Thandi Ntuli",
+      "url": "https://open.spotify.com/track/2i34qxXLo879bdRYDwyhQN"
     },
     {
       "added_at": "2025-11-07 00:07:51",
@@ -195,22 +199,18 @@
     {
       "added_at": "2025-11-07 00:07:51",
       "album": {
-        "name": "Sankofa",
-        "url": "https://open.spotify.com/album/5y7tFgFLl0d5AKExJC8Rsy"
+        "name": "The Beyond",
+        "url": "https://open.spotify.com/album/5xTKYO7RjVCdaROa9kvBcN"
       },
       "artists": [
         {
-          "name": "Thandiswa",
-          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
-        },
-        {
-          "name": "Thandi Ntuli",
-          "url": "https://open.spotify.com/artist/1g7pneoNO9Thq5oYQyR5Dy"
+          "name": "Shane Cooper",
+          "url": "https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ"
         }
       ],
-      "duration_ms": 243046,
-      "name": "xandibona wena feat. Thandi Ntuli",
-      "url": "https://open.spotify.com/track/2i34qxXLo879bdRYDwyhQN"
+      "duration_ms": 105500,
+      "name": "The Beyond",
+      "url": "https://open.spotify.com/track/1CFaQyXq0nSHSBQ9AAALDQ"
     },
     {
       "added_at": "2025-11-07 00:07:51",
@@ -371,26 +371,22 @@
     {
       "added_at": "2025-11-07 00:07:51",
       "album": {
-        "name": "Stories",
-        "url": "https://open.spotify.com/album/1wVinI9Qa8ZyLTIAxahFjU"
+        "name": "Reawakening",
+        "url": "https://open.spotify.com/album/6kXVFaMcxjNoB9X11MhxOb"
       },
       "artists": [
         {
-          "name": "Tutu Puoane",
-          "url": "https://open.spotify.com/artist/3I5CBcpfValsWh6o5ciuWH"
+          "name": "Keenan Meyer",
+          "url": "https://open.spotify.com/artist/0JZcAWFy9viaXUHqu08nFG"
         },
         {
-          "name": "Metropole Orkest",
-          "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
-        },
-        {
-          "name": "Jacomo Bairos",
-          "url": "https://open.spotify.com/artist/2NgN8L3qHI04lOWzGCKmo3"
+          "name": "Muneyi",
+          "url": "https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM"
         }
       ],
-      "duration_ms": 416493,
-      "name": "Stories",
-      "url": "https://open.spotify.com/track/0n5t2zl44qijvYM7sVrAvH"
+      "duration_ms": 449112,
+      "name": "A Fallist's Prayer",
+      "url": "https://open.spotify.com/track/5ezGQd7f7t9FgSdGobmIEw"
     },
     {
       "added_at": "2025-11-07 00:07:51",
@@ -411,22 +407,26 @@
     {
       "added_at": "2025-11-07 00:07:51",
       "album": {
-        "name": "Reawakening",
-        "url": "https://open.spotify.com/album/6kXVFaMcxjNoB9X11MhxOb"
+        "name": "Stories",
+        "url": "https://open.spotify.com/album/1wVinI9Qa8ZyLTIAxahFjU"
       },
       "artists": [
         {
-          "name": "Keenan Meyer",
-          "url": "https://open.spotify.com/artist/0JZcAWFy9viaXUHqu08nFG"
+          "name": "Tutu Puoane",
+          "url": "https://open.spotify.com/artist/3I5CBcpfValsWh6o5ciuWH"
         },
         {
-          "name": "Muneyi",
-          "url": "https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM"
+          "name": "Metropole Orkest",
+          "url": "https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI"
+        },
+        {
+          "name": "Jacomo Bairos",
+          "url": "https://open.spotify.com/artist/2NgN8L3qHI04lOWzGCKmo3"
         }
       ],
-      "duration_ms": 449112,
-      "name": "A Fallist's Prayer",
-      "url": "https://open.spotify.com/track/5ezGQd7f7t9FgSdGobmIEw"
+      "duration_ms": 416493,
+      "name": "Stories",
+      "url": "https://open.spotify.com/track/0n5t2zl44qijvYM7sVrAvH"
     },
     {
       "added_at": "2025-11-07 00:07:51",
@@ -603,26 +603,6 @@
     {
       "added_at": "2025-11-07 00:07:51",
       "album": {
-        "name": "kulungile",
-        "url": "https://open.spotify.com/album/2Z7VkHwAezY18EJ9wHPeR9"
-      },
-      "artists": [
-        {
-          "name": "Thandiswa",
-          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
-        },
-        {
-          "name": "Nduduzo Makhathini",
-          "url": "https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft"
-        }
-      ],
-      "duration_ms": 346924,
-      "name": "kulungile",
-      "url": "https://open.spotify.com/track/5IMyRcJrykW4EQKUEwOIrC"
-    },
-    {
-      "added_at": "2025-11-07 00:07:51",
-      "album": {
         "name": "The Y-Factor Project",
         "url": "https://open.spotify.com/album/6RFLbolbRVLiQwcn2yXk5s"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 258920,
       "name": "Elusive Freedom",
       "url": "https://open.spotify.com/track/0WWQOyWlBzOvAq8XQdQ9Y3"
+    },
+    {
+      "added_at": "2025-11-07 00:07:51",
+      "album": {
+        "name": "kulungile",
+        "url": "https://open.spotify.com/album/2Z7VkHwAezY18EJ9wHPeR9"
+      },
+      "artists": [
+        {
+          "name": "Thandiswa",
+          "url": "https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N"
+        },
+        {
+          "name": "Nduduzo Makhathini",
+          "url": "https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft"
+        }
+      ],
+      "duration_ms": 346924,
+      "name": "kulungile",
+      "url": "https://open.spotify.com/track/5IMyRcJrykW4EQKUEwOIrC"
     },
     {
       "added_at": "2025-11-07 00:07:51",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 243 likes - 1,759 songs - 4 day 10 hr 39 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 243 likes - 1,762 songs - 4 day 10 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1767,5 +1767,8 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 1757 | [Alas Caen](https://open.spotify.com/track/3p4mwOyOG9iim4nW37vt9t) | [Lenoise](https://open.spotify.com/artist/1zbtdItCDLhQLlyL3ASTZG) | [Supernova](https://open.spotify.com/album/1cEtLyqdkRlTsxn3ldfGot) | 3:07 |
 | 1758 | [Un Solo Segundo](https://open.spotify.com/track/0I0m9UYzULy8gMBkY05QMa) | [Lenoise](https://open.spotify.com/artist/1zbtdItCDLhQLlyL3ASTZG) | [Supernova](https://open.spotify.com/album/1cEtLyqdkRlTsxn3ldfGot) | 3:21 |
 | 1759 | [Clandestino](https://open.spotify.com/track/4txnUawp5wQYgwDBmwvJf0) | [Lenoise](https://open.spotify.com/artist/1zbtdItCDLhQLlyL3ASTZG) | [Supernova](https://open.spotify.com/album/1cEtLyqdkRlTsxn3ldfGot) | 3:55 |
+| 1760 | [Empty pages](https://open.spotify.com/track/21UOuzfRmxNVUr5Jq5FDKh) | [Taboout](https://open.spotify.com/artist/3TtYIdQNhUPpFoobB9X6FD) | [Lost my ears](https://open.spotify.com/album/7LphVGdXnt8EjdE17BMzAF) | 4:43 |
+| 1761 | [Better Judgement](https://open.spotify.com/track/3UrHhQ4lxAwfhhG3IudMA0) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Wish You Hell \- The 2nd Mini Album](https://open.spotify.com/album/5nn0a3x9rolzWFtiZLejzA) | 2:49 |
+| 1762 | [Fury of the Corsairs](https://open.spotify.com/track/4fiCsuBqRrCJnzhTb5qciU) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Fury of the Corsairs](https://open.spotify.com/album/2TuteoDyNS8vuER4IYPZaF) | 2:44 |
 
-Snapshot ID: `AAAHsGp9sEgp85tsub/KK0uEuW6P+ImW`
+Snapshot ID: `AAAHs+AlWH6Mi6qBXrW3cXLEaDCnmIyV`

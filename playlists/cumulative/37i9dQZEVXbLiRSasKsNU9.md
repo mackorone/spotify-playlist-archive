@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-4,549 songs - 10 day 3 hr 18 min
+4,550 songs - 10 day 3 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1645,6 +1645,7 @@
 | [Hatıran Yeter](https://open.spotify.com/track/05MvdMKvVahOp9X64639DN) | [Ferdi Tayfur](https://open.spotify.com/artist/6WLkcqDXHgfe80TNMH1C5z) | [Hoşçakal](https://open.spotify.com/album/5GtVQ7Akf89tLbeO4VkcjN) | 4:47 | 2025-01-05 | 2025-01-12 |
 | [Haunted](https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n) | [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6) | [Haunted](https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O) | 1:42 | 2022-01-22 | 2022-02-06 |
 | [HAVHAVHAV](https://open.spotify.com/track/0126WdGxnrNEqzgUb1wgQH) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [HAVHAVHAV](https://open.spotify.com/album/1fmxQwyTIL74PrfZQwg6nu) | 2:06 | 2025-02-11 | 2025-02-18 |
+| [Hawa Hawa](https://open.spotify.com/track/6Pe1RlCZRrIRMuBhYxSnKF) | [Hassan Jahangir](https://open.spotify.com/artist/094dSvDutGvcs0L3mZzJEj) | [Hawa Hawa](https://open.spotify.com/album/3Qs3K1mqhpLu9BSFbs6QCS) | 6:16 | 2025-12-29 |  |
 | [Hawaiian Roller Coaster Ride](https://open.spotify.com/track/5coZgMb9D2sypM21bwEOAq) | [Iam Tongi](https://open.spotify.com/artist/4HRMz0O4zNGfvgpDWYNiS3), [Kamehameha Schools Children's Chorus](https://open.spotify.com/artist/5uOO6CI45847UsjUQsd2iS), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Lilo & Stitch \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/682Q92eLz5C2AjMv5oYt4V) | 3:29 | 2025-05-27 | 2025-06-11 |
 | [HAY LUPITA](https://open.spotify.com/track/5jFA0f4ZDGLbQP4nxzL8D4) | [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [HAY LUPITA](https://open.spotify.com/album/2VOwmlyJzRjfMfofsNHTtR) | 1:45 | 2024-05-09 | 2024-08-01 |
 | [Hay Lupita](https://open.spotify.com/track/7gRtmiCn86Vr1ifw5FDuIL) | [LOMIIEL](https://open.spotify.com/artist/4AyvUpNnpfEs1kGoB0DZH8) | [Hay Lupita](https://open.spotify.com/album/1nqVSn4sTJVmUe29CIDNND) | 1:48 | 2024-05-05 | 2024-05-10 |
@@ -1941,7 +1942,7 @@
 | [Jam Inside Your Love \(feat\. Carla Monroe\)](https://open.spotify.com/track/1xFrwpp4li4MFpMr9KpTEK) | [Sam Green](https://open.spotify.com/artist/4Dvxcj9zZyKbzuwRG4lzSR), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [Jam Inside Your Love \(feat\. Carla Monroe\)](https://open.spotify.com/album/7CfLWKrEPYYsJ46kWTKtUA) | 2:27 | 2023-04-25 | 2023-04-27 |
 | [JANE DOE](https://open.spotify.com/track/4oE7MyJhqSD3BaHRpNs8Nl) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB), [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [JANE DOE](https://open.spotify.com/album/381FouVeKunSg1WZTnmryL) | 3:55 | 2025-10-07 | 2025-11-05 |
 | [Janiye \(from the Netflix Film "Chor Nikal Ke Bhaga"\)](https://open.spotify.com/track/0645eBDehHcqfiF15hscQV) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J) | [Janiye \(from the Netflix Film "Chor Nikal Ke Bhaga"\)](https://open.spotify.com/album/0kZKLq2WZQWvXvbxvK6YoC) | 3:43 | 2023-07-13 | 2023-09-05 |
-| [JAPONÊS](https://open.spotify.com/track/6JH5wCoto58vgqa61jvazc) | [Brandão85](https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse), [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [JAPONÊS](https://open.spotify.com/album/6XAPZm3B8QGc0QKe1sSob7) | 3:12 | 2025-12-16 |  |
+| [JAPONÊS](https://open.spotify.com/track/6JH5wCoto58vgqa61jvazc) | [Brandão85](https://open.spotify.com/artist/2KwQkyJzT9r6Hh56jtfuse), [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [JAPONÊS](https://open.spotify.com/album/6XAPZm3B8QGc0QKe1sSob7) | 3:12 | 2025-12-16 | 2025-12-30 |
 | [Je M'appelle](https://open.spotify.com/track/6A3SB2C4U6JtCavQOXLYNN) | [Benzz](https://open.spotify.com/artist/2GYIFLUsVVHPPUzOfJndRh) | [Je M'appelle](https://open.spotify.com/album/6T6uWGOSAUhvoZfLlIyDuJ) | 2:19 | 2022-05-17 | 2022-06-22 |
 | [Jealous](https://open.spotify.com/track/3htu3gsrxm2SluQk3WXnXA) | [Shimmer](https://open.spotify.com/artist/1WLgLNSzeuOhkhfEZbSXM3) | [Jealous](https://open.spotify.com/album/4n8O1tXANbXBaSMuADmJCa) | 3:33 | 2024-05-23 | 2024-05-29 |
 | [Jealous Type](https://open.spotify.com/track/1IfGOnXoMBkiKC9xljlSfa) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Jealous Type](https://open.spotify.com/album/5faw0b6BBJiTHGNl9aaoc5) | 2:43 | 2025-09-10 | 2025-09-17 |
@@ -2685,8 +2686,8 @@
 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2023-10-03 | 2023-12-27 |
 | [My Money Don't Jiggle Jiggle, It Folds](https://open.spotify.com/track/09lRJM0hgXwwXCjNaIvcbs) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV) | [My Money Don't Jiggle Jiggle, It Folds](https://open.spotify.com/album/03hhqOR7ZYPn3zpcOJds7S) | 1:36 | 2022-05-13 | 2022-05-15 |
 | [my money dont jiggle jiggle, it falls](https://open.spotify.com/track/4suCwJOOBSCCyaFkcqmUb7) | [SOULGRABBER](https://open.spotify.com/artist/6tuN5TDLCTbsmyE1FJMA2Q) | [my money dont jiggle jiggle, it falls](https://open.spotify.com/album/2mB553VJJ46D5lO9yGWkPf) | 1:36 | 2022-05-12 | 2022-05-14 |
-| [My Moon My Man](https://open.spotify.com/track/4fQVQKIiidREPI0MhFEuDn) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/27Y2wm3WcFThQocgjLI5wF) | 3:48 | 2025-12-24 |  |
-| [My Moon My Man](https://open.spotify.com/track/5FFQbvn7055P1DvgJDdCBP) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z) | 3:48 | 2025-12-25 | 2025-12-28 |
+| [My Moon My Man](https://open.spotify.com/track/4fQVQKIiidREPI0MhFEuDn) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/27Y2wm3WcFThQocgjLI5wF) | 3:48 | 2025-12-24 | 2025-12-30 |
+| [My Moon My Man](https://open.spotify.com/track/5FFQbvn7055P1DvgJDdCBP) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z) | 3:48 | 2025-12-25 |  |
 | [My Old Ways](https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 4:58 | 2025-11-04 | 2025-11-12 |
 | [My Queen](https://open.spotify.com/track/13rpNJeBF33EgVtQDoItKk) | [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0), [Swara](https://open.spotify.com/artist/0GUPMORsfn5FMphCJyl4eF) | [My Queen](https://open.spotify.com/album/2ypH9IgalwuZJQLHX2L9oM) | 3:03 | 2024-04-06 | 2024-04-14 |
 | [My Sister's Crown](https://open.spotify.com/track/59md7R7fW5LjSbZITzzn3n) | [Vesna](https://open.spotify.com/artist/44kmUe319y8RNgOU2deqX6) | [My Sister's Crown](https://open.spotify.com/album/6nF3kWl5zcDPLqEgxLTRJp) | 2:56 | 2023-05-12 | 2023-05-26 |

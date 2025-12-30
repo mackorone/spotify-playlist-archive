@@ -1,6 +1,6 @@
 {
   "description": "Romance a la antig\u00fcita con Tornillo y Tony Aguirre en portada.",
-  "num_followers": 547548,
+  "num_followers": 547537,
   "original_name": "Boleros Pop",
   "owner": {
     "name": "Spotify",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2025-12-19 06:00:07",
       "album": {
+        "name": "Nuestro Primer Disco / Nuestro Amor",
+        "url": "https://open.spotify.com/album/1kX0gTg7fRJEXT0Pa4gZUG"
+      },
+      "artists": [
+        {
+          "name": "Los Tri-O",
+          "url": "https://open.spotify.com/artist/4PK8uCiKRILtXKQXABBvBC"
+        }
+      ],
+      "duration_ms": 209040,
+      "name": "Para Que Pides Perdon (Bonus Track)",
+      "url": "https://open.spotify.com/track/5UacxPvzsx6J9pcib7gGuM"
+    },
+    {
+      "added_at": "2025-12-19 06:00:07",
+      "album": {
         "name": "Despertamos a los Vecinos",
         "url": "https://open.spotify.com/album/2Ks9UudtAE0DsrxQySynpF"
       },
@@ -1091,38 +1107,6 @@
       "duration_ms": 207296,
       "name": "La Apuesta",
       "url": "https://open.spotify.com/track/6jfErD7qRP00pXqzZhFyr0"
-    },
-    {
-      "added_at": "2025-12-19 06:00:07",
-      "album": {
-        "name": "Nuestro Primer Disco / Nuestro Amor",
-        "url": "https://open.spotify.com/album/1kX0gTg7fRJEXT0Pa4gZUG"
-      },
-      "artists": [
-        {
-          "name": "Los Tri-O",
-          "url": "https://open.spotify.com/artist/4PK8uCiKRILtXKQXABBvBC"
-        }
-      ],
-      "duration_ms": 209040,
-      "name": "Para Que Pides Perdon (Bonus Track)",
-      "url": "https://open.spotify.com/track/5UacxPvzsx6J9pcib7gGuM"
-    },
-    {
-      "added_at": "2025-12-19 06:00:07",
-      "album": {
-        "name": "Tiza",
-        "url": "https://open.spotify.com/album/6x4sQOXwYw8JdEdMCfXvjs"
-      },
-      "artists": [
-        {
-          "name": "Zuaraz",
-          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
-        }
-      ],
-      "duration_ms": 165642,
-      "name": "Muy Agradecido",
-      "url": "https://open.spotify.com/track/7aQGORkdFvIqmMCYyFVK1X"
     },
     {
       "added_at": "2025-12-19 06:00:07",
@@ -1163,6 +1147,22 @@
       "duration_ms": 161000,
       "name": "Farolito (with Gilberto Gil)",
       "url": "https://open.spotify.com/track/30CNJpVV1qtEisIeunne7j"
+    },
+    {
+      "added_at": "2025-12-19 06:00:07",
+      "album": {
+        "name": "Tiza",
+        "url": "https://open.spotify.com/album/6x4sQOXwYw8JdEdMCfXvjs"
+      },
+      "artists": [
+        {
+          "name": "Zuaraz",
+          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+        }
+      ],
+      "duration_ms": 165642,
+      "name": "Muy Agradecido",
+      "url": "https://open.spotify.com/track/7aQGORkdFvIqmMCYyFVK1X"
     },
     {
       "added_at": "2025-12-19 06:00:07",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2025-12-19 06:00:07",
       "album": {
-        "name": "Piel Canela",
-        "url": "https://open.spotify.com/album/25afOwevhL6aXlRax8SNBd"
-      },
-      "artists": [
-        {
-          "name": "Tufic",
-          "url": "https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV"
-        },
-        {
-          "name": "Suset",
-          "url": "https://open.spotify.com/artist/0E2CCbvyNgIvGjbRPPlg95"
-        }
-      ],
-      "duration_ms": 178909,
-      "name": "Piel Canela",
-      "url": "https://open.spotify.com/track/1OZGO5DOqey2Rbes8x38lS"
-    },
-    {
-      "added_at": "2025-12-19 06:00:07",
-      "album": {
         "name": "Como Quisiera Quererte",
         "url": "https://open.spotify.com/album/1zyxtpEhfxsb5QfpDzLReB"
       },
@@ -1263,6 +1243,26 @@
       "duration_ms": 258036,
       "name": "Como Quisiera Quererte",
       "url": "https://open.spotify.com/track/4r6OwScTgTeq1ugHGeqsT4"
+    },
+    {
+      "added_at": "2025-12-19 06:00:07",
+      "album": {
+        "name": "Piel Canela",
+        "url": "https://open.spotify.com/album/25afOwevhL6aXlRax8SNBd"
+      },
+      "artists": [
+        {
+          "name": "Tufic",
+          "url": "https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV"
+        },
+        {
+          "name": "Suset",
+          "url": "https://open.spotify.com/artist/0E2CCbvyNgIvGjbRPPlg95"
+        }
+      ],
+      "duration_ms": 178909,
+      "name": "Piel Canela",
+      "url": "https://open.spotify.com/track/1OZGO5DOqey2Rbes8x38lS"
     },
     {
       "added_at": "2025-12-19 06:00:07",
@@ -1387,26 +1387,6 @@
     {
       "added_at": "2025-12-19 06:00:07",
       "album": {
-        "name": "Vu\u00e9lveme a Besar",
-        "url": "https://open.spotify.com/album/3qDEmh2LqhM3wAHr4ANqSB"
-      },
-      "artists": [
-        {
-          "name": "Comisario Pantera",
-          "url": "https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR"
-        },
-        {
-          "name": "Fabiola Roudha",
-          "url": "https://open.spotify.com/artist/1zy1aRv5QcHeNCA3jyTp71"
-        }
-      ],
-      "duration_ms": 163306,
-      "name": "Vu\u00e9lveme a Besar",
-      "url": "https://open.spotify.com/track/3jtP57fo4iuQfOPK4zuO0a"
-    },
-    {
-      "added_at": "2025-12-19 06:00:07",
-      "album": {
         "name": "Bolero Estelar",
         "url": "https://open.spotify.com/album/5m0fMRnEneLg8pZaoL9F4E"
       },
@@ -1435,6 +1415,26 @@
       "duration_ms": 136667,
       "name": "Mil Vidas",
       "url": "https://open.spotify.com/track/17QkvWlyeD6r3ubmqYUUtc"
+    },
+    {
+      "added_at": "2025-12-19 06:00:07",
+      "album": {
+        "name": "Vu\u00e9lveme a Besar",
+        "url": "https://open.spotify.com/album/3qDEmh2LqhM3wAHr4ANqSB"
+      },
+      "artists": [
+        {
+          "name": "Comisario Pantera",
+          "url": "https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR"
+        },
+        {
+          "name": "Fabiola Roudha",
+          "url": "https://open.spotify.com/artist/1zy1aRv5QcHeNCA3jyTp71"
+        }
+      ],
+      "duration_ms": 163306,
+      "name": "Vu\u00e9lveme a Besar",
+      "url": "https://open.spotify.com/track/3jtP57fo4iuQfOPK4zuO0a"
     },
     {
       "added_at": "2025-12-19 06:00:07",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2025-12-19 06:00:07",
       "album": {
-        "name": "Celebrando Al Pr\u00edncipe",
-        "url": "https://open.spotify.com/album/2HZkh6ay4cVKa8lxMvDfol"
-      },
-      "artists": [
-        {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
-        }
-      ],
-      "duration_ms": 242293,
-      "name": "Almohada",
-      "url": "https://open.spotify.com/track/3lL5AiJtpdGe7AYCIwJ5cI"
-    },
-    {
-      "added_at": "2025-12-19 06:00:07",
-      "album": {
         "name": "Apasionadamente",
         "url": "https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 180588,
       "name": "Apasionadamente",
       "url": "https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel"
+    },
+    {
+      "added_at": "2025-12-19 06:00:07",
+      "album": {
+        "name": "Celebrando Al Pr\u00edncipe",
+        "url": "https://open.spotify.com/album/2HZkh6ay4cVKa8lxMvDfol"
+      },
+      "artists": [
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "duration_ms": 242293,
+      "name": "Almohada",
+      "url": "https://open.spotify.com/track/3lL5AiJtpdGe7AYCIwJ5cI"
     },
     {
       "added_at": "2025-12-19 06:00:07",

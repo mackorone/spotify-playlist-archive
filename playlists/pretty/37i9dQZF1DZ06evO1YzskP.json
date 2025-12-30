@@ -1,12 +1,12 @@
 {
   "description": "This is La Receta. The essential tracks, all in one playlist.",
-  "num_followers": 63667,
+  "num_followers": 63689,
   "original_name": "This Is La Receta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU8hgAAAAAAxzkgGCM9uMnfFQUh1RZpc",
+  "snapshot_id": "aVBzAAAAAABNizJMQF1ps6BtCdRGh2ZA",
   "tracks": [
     {
       "added_at": null,
@@ -547,42 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bateando Duro",
-        "url": "https://open.spotify.com/album/2CEgRKTs2YfHiOHlOE77yh"
-      },
-      "artists": [
-        {
-          "name": "Reynaldos de la Sierra",
-          "url": "https://open.spotify.com/artist/13rTu0fmZMKFl0oB2JC1oe"
-        },
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 146522,
-      "name": "Sal De Tu Casa",
-      "url": "https://open.spotify.com/track/0z2aeRd5lDuk7wm4M6I7PI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Receta Del Corrido",
-        "url": "https://open.spotify.com/album/7KqUhSZkcFOtZzVZlQZjBr"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 142133,
-      "name": "Mcklein (Comanches)",
-      "url": "https://open.spotify.com/track/5KvLgaZcsX7Rd2VugqcT9j"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "REGRESA",
         "url": "https://open.spotify.com/album/3G0KlYGP9XSLGIX63NT2xr"
       },
@@ -599,18 +563,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Asombrerados",
-        "url": "https://open.spotify.com/album/0IiFbYVzN1ekVu1j3S1uh9"
+        "name": "Bateando Duro",
+        "url": "https://open.spotify.com/album/2CEgRKTs2YfHiOHlOE77yh"
       },
       "artists": [
+        {
+          "name": "Reynaldos de la Sierra",
+          "url": "https://open.spotify.com/artist/13rTu0fmZMKFl0oB2JC1oe"
+        },
         {
           "name": "La Receta",
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
         }
       ],
-      "duration_ms": 167321,
-      "name": "No Voy Con Rodeos",
-      "url": "https://open.spotify.com/track/2V8YzvtchoXnYLXufC8Jtu"
+      "duration_ms": 146522,
+      "name": "Sal De Tu Casa",
+      "url": "https://open.spotify.com/track/0z2aeRd5lDuk7wm4M6I7PI"
     },
     {
       "added_at": null,
@@ -635,22 +603,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi m\u00e1s grande error",
-        "url": "https://open.spotify.com/album/5VavgMSlwoK93M5vSMJmDG"
+        "name": "La Receta Del Corrido",
+        "url": "https://open.spotify.com/album/7KqUhSZkcFOtZzVZlQZjBr"
       },
       "artists": [
         {
           "name": "La Receta",
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        },
-        {
-          "name": "Kevin AMF",
-          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
         }
       ],
-      "duration_ms": 143162,
-      "name": "Mi m\u00e1s grande error",
-      "url": "https://open.spotify.com/track/5g7ohfHLulYM39b6mkiURy"
+      "duration_ms": 142133,
+      "name": "Mcklein (Comanches)",
+      "url": "https://open.spotify.com/track/5KvLgaZcsX7Rd2VugqcT9j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos Asombrerados",
+        "url": "https://open.spotify.com/album/0IiFbYVzN1ekVu1j3S1uh9"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 167321,
+      "name": "No Voy Con Rodeos",
+      "url": "https://open.spotify.com/track/2V8YzvtchoXnYLXufC8Jtu"
     },
     {
       "added_at": null,
@@ -667,6 +647,26 @@
       "duration_ms": 162378,
       "name": "Canelo",
       "url": "https://open.spotify.com/track/1eaTDsdG9rfpvXrQw8rct7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi m\u00e1s grande error",
+        "url": "https://open.spotify.com/album/5VavgMSlwoK93M5vSMJmDG"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        },
+        {
+          "name": "Kevin AMF",
+          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
+        }
+      ],
+      "duration_ms": 143162,
+      "name": "Mi m\u00e1s grande error",
+      "url": "https://open.spotify.com/track/5g7ohfHLulYM39b6mkiURy"
     },
     {
       "added_at": null,
@@ -703,26 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Aesthetic",
-        "url": "https://open.spotify.com/album/0RzAd6HUJ3wRbgUedKYMZ1"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        },
-        {
-          "name": "Luis Mexia",
-          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
-        }
-      ],
-      "duration_ms": 191680,
-      "name": "LALA",
-      "url": "https://open.spotify.com/track/1pUxlPdbbGm55yvLCxlG2e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "REGRESA",
         "url": "https://open.spotify.com/album/3G0KlYGP9XSLGIX63NT2xr"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 187008,
       "name": "Mi pareja en turno",
       "url": "https://open.spotify.com/track/6F6PRX5lKN7sbXnlfx2Q0N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos Aesthetic",
+        "url": "https://open.spotify.com/album/0RzAd6HUJ3wRbgUedKYMZ1"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        },
+        {
+          "name": "Luis Mexia",
+          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
+        }
+      ],
+      "duration_ms": 191680,
+      "name": "LALA",
+      "url": "https://open.spotify.com/track/1pUxlPdbbGm55yvLCxlG2e"
     },
     {
       "added_at": null,
@@ -779,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "REGRESA",
+        "url": "https://open.spotify.com/album/3G0KlYGP9XSLGIX63NT2xr"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 229642,
+      "name": "Ante la gente",
+      "url": "https://open.spotify.com/track/3X10K4WsoLqqbrMomStv4W"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Me Dejaron Como 100pre",
         "url": "https://open.spotify.com/album/4f7OO4Z04tIGrCOeyx50Rv"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 172760,
       "name": "Me Dejaron Como 100pre",
       "url": "https://open.spotify.com/track/2qWuXhI0PW4QuVmyXqqyRp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "REGRESA",
-        "url": "https://open.spotify.com/album/3G0KlYGP9XSLGIX63NT2xr"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 229992,
-      "name": "Ante la gente",
-      "url": "https://open.spotify.com/track/3X10K4WsoLqqbrMomStv4W"
     },
     {
       "added_at": null,
@@ -847,6 +847,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "REGRESA",
+        "url": "https://open.spotify.com/album/3G0KlYGP9XSLGIX63NT2xr"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 131200,
+      "name": "Mariposas",
+      "url": "https://open.spotify.com/track/6XaMlamWqmjH9uhme80MNX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Somos Mayiza",
         "url": "https://open.spotify.com/album/76oTb9XZQqKwiXa8U8UxoW"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 192600,
       "name": "Somos Mayiza",
       "url": "https://open.spotify.com/track/4M6GLOcjYod234PrPPat4r"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "REGRESA",
-        "url": "https://open.spotify.com/album/3G0KlYGP9XSLGIX63NT2xr"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 131392,
-      "name": "Mariposas",
-      "url": "https://open.spotify.com/track/6XaMlamWqmjH9uhme80MNX"
     },
     {
       "added_at": null,

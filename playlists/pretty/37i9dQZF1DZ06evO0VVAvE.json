@@ -1,12 +1,12 @@
 {
   "description": "This is T.I BLAZE. The essential tracks, all in one playlist.",
-  "num_followers": 8219,
+  "num_followers": 8232,
   "original_name": "This Is T.I BLAZE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU8hgAAAAAD/HBzEJiw7bBvQkyqVoEU5",
+  "snapshot_id": "aVBzAAAAAAApJ+Zl1A3L6XPt0/0B8DeC",
   "tracks": [
     {
       "added_at": null,
@@ -639,50 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ali (Remix)",
-        "url": "https://open.spotify.com/album/0HRj4FUcySLhPhwG9tuqmv"
-      },
-      "artists": [
-        {
-          "name": "Steven Adeoye",
-          "url": "https://open.spotify.com/artist/0mXiMVr0qnRXZDogkEPgF6"
-        },
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        },
-        {
-          "name": "Portable",
-          "url": "https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe"
-        }
-      ],
-      "duration_ms": 202301,
-      "name": "Ali (Remix)",
-      "url": "https://open.spotify.com/track/3LuGbLJYZi0A4QJPADyQjg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Major",
-        "url": "https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        },
-        {
-          "name": "FAVE",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "Play (feat. Fave)",
-      "url": "https://open.spotify.com/track/4xPlMmtY9OD2wbvaK11FjO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jogo (Smoke Up)",
         "url": "https://open.spotify.com/album/3HndRgBEhbGXfbG0H2wBjr"
       },
@@ -707,6 +663,50 @@
       "duration_ms": 169195,
       "name": "Jogo (Smoke Up)",
       "url": "https://open.spotify.com/track/3VxCbXh5pCsSviROdexcOJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Major",
+        "url": "https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        },
+        {
+          "name": "FAVE",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "Play (feat. Fave)",
+      "url": "https://open.spotify.com/track/4xPlMmtY9OD2wbvaK11FjO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ali (Remix)",
+        "url": "https://open.spotify.com/album/0HRj4FUcySLhPhwG9tuqmv"
+      },
+      "artists": [
+        {
+          "name": "Steven Adeoye",
+          "url": "https://open.spotify.com/artist/0mXiMVr0qnRXZDogkEPgF6"
+        },
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        },
+        {
+          "name": "Portable",
+          "url": "https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe"
+        }
+      ],
+      "duration_ms": 202301,
+      "name": "Ali (Remix)",
+      "url": "https://open.spotify.com/track/3LuGbLJYZi0A4QJPADyQjg"
     },
     {
       "added_at": null,

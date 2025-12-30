@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 60583,
+  "num_followers": 60585,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -431,6 +431,22 @@
     {
       "added_at": "2025-12-25 23:00:20",
       "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/7eWjZeQ2CRshbGtYCMTR6Z"
+      },
+      "artists": [
+        {
+          "name": "Dione",
+          "url": "https://open.spotify.com/artist/7KDUMWHH2AF8xfp5HV79aK"
+        }
+      ],
+      "duration_ms": 202171,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/5e0yJMuuP2AjH7zwkEybKA"
+    },
+    {
+      "added_at": "2025-12-25 23:00:20",
+      "album": {
         "name": "I Rymden Finns Inga T\u00e5rar",
         "url": "https://open.spotify.com/album/53vNOMnb7XNn6cM0dyKi3Z"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 169608,
       "name": "Forgive, Forget",
       "url": "https://open.spotify.com/track/72gpoH9hjA3uJJBG64nEVv"
-    },
-    {
-      "added_at": "2025-12-25 23:00:20",
-      "album": {
-        "name": "On My Mind",
-        "url": "https://open.spotify.com/album/7eWjZeQ2CRshbGtYCMTR6Z"
-      },
-      "artists": [
-        {
-          "name": "Dione",
-          "url": "https://open.spotify.com/artist/7KDUMWHH2AF8xfp5HV79aK"
-        }
-      ],
-      "duration_ms": 202171,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/5e0yJMuuP2AjH7zwkEybKA"
     },
     {
       "added_at": "2025-12-25 23:00:20",
@@ -531,22 +531,6 @@
     {
       "added_at": "2025-12-25 23:00:20",
       "album": {
-        "name": "A Place I Recognise",
-        "url": "https://open.spotify.com/album/5LsAU4Qec8ZSU9SS4bZTmS"
-      },
-      "artists": [
-        {
-          "name": "Elina",
-          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
-        }
-      ],
-      "duration_ms": 211171,
-      "name": "Waiting Room",
-      "url": "https://open.spotify.com/track/4gktEWeIYylrlrVfpfZEVr"
-    },
-    {
-      "added_at": "2025-12-25 23:00:20",
-      "album": {
         "name": "500 kr",
         "url": "https://open.spotify.com/album/3geXWI7QW7FOg6MNSJ07CE"
       },
@@ -583,6 +567,22 @@
     {
       "added_at": "2025-12-25 23:00:20",
       "album": {
+        "name": "A Place I Recognise",
+        "url": "https://open.spotify.com/album/5LsAU4Qec8ZSU9SS4bZTmS"
+      },
+      "artists": [
+        {
+          "name": "Elina",
+          "url": "https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9"
+        }
+      ],
+      "duration_ms": 211171,
+      "name": "Waiting Room",
+      "url": "https://open.spotify.com/track/4gktEWeIYylrlrVfpfZEVr"
+    },
+    {
+      "added_at": "2025-12-25 23:00:20",
+      "album": {
         "name": "Feelings You Don't Say Out Loud",
         "url": "https://open.spotify.com/album/5O7hIdvsWAgt2DnphqZfQP"
       },
@@ -615,22 +615,6 @@
     {
       "added_at": "2025-12-25 23:00:20",
       "album": {
-        "name": "Steep Hills",
-        "url": "https://open.spotify.com/album/0G3wnAeXMgPqWvE4ZyH4AS"
-      },
-      "artists": [
-        {
-          "name": "ORKID",
-          "url": "https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG"
-        }
-      ],
-      "duration_ms": 187135,
-      "name": "Steep Hills",
-      "url": "https://open.spotify.com/track/6Ie9IKWu7PRwW80gTbSxKP"
-    },
-    {
-      "added_at": "2025-12-25 23:00:20",
-      "album": {
         "name": "Som i en dr\u00f6m",
         "url": "https://open.spotify.com/album/2YDfyyMmwnKaGVHUBn08cM"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 145568,
       "name": "Fr\u00e5n & med nu",
       "url": "https://open.spotify.com/track/4xpRrrshnyEM4UMiAOMOzG"
+    },
+    {
+      "added_at": "2025-12-25 23:00:20",
+      "album": {
+        "name": "Steep Hills",
+        "url": "https://open.spotify.com/album/0G3wnAeXMgPqWvE4ZyH4AS"
+      },
+      "artists": [
+        {
+          "name": "ORKID",
+          "url": "https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG"
+        }
+      ],
+      "duration_ms": 187135,
+      "name": "Steep Hills",
+      "url": "https://open.spotify.com/track/6Ie9IKWu7PRwW80gTbSxKP"
     },
     {
       "added_at": "2025-12-25 23:00:20",
@@ -743,22 +743,6 @@
     {
       "added_at": "2025-12-25 23:00:20",
       "album": {
-        "name": "Bl\u00e5ljus",
-        "url": "https://open.spotify.com/album/2iKJ2xzW2SfwrTX873AaiF"
-      },
-      "artists": [
-        {
-          "name": "Ida-Lova",
-          "url": "https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO"
-        }
-      ],
-      "duration_ms": 207349,
-      "name": "Bl\u00e5ljus",
-      "url": "https://open.spotify.com/track/3mguts4vYZgOGob4aGBVjO"
-    },
-    {
-      "added_at": "2025-12-25 23:00:20",
-      "album": {
         "name": "Dominos",
         "url": "https://open.spotify.com/album/3zmDn72AZRPZ5V9IieOtmg"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 160601,
       "name": "Dominos",
       "url": "https://open.spotify.com/track/7wI92IXumenyQgway6FaKs"
+    },
+    {
+      "added_at": "2025-12-25 23:00:20",
+      "album": {
+        "name": "Bl\u00e5ljus",
+        "url": "https://open.spotify.com/album/2iKJ2xzW2SfwrTX873AaiF"
+      },
+      "artists": [
+        {
+          "name": "Ida-Lova",
+          "url": "https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO"
+        }
+      ],
+      "duration_ms": 207349,
+      "name": "Bl\u00e5ljus",
+      "url": "https://open.spotify.com/track/3mguts4vYZgOGob4aGBVjO"
     },
     {
       "added_at": "2025-12-25 23:00:20",
@@ -971,22 +971,6 @@
     {
       "added_at": "2025-12-25 23:00:20",
       "album": {
-        "name": "sunday night",
-        "url": "https://open.spotify.com/album/3XhRy1r95xpExil6yAHUre"
-      },
-      "artists": [
-        {
-          "name": ".blank",
-          "url": "https://open.spotify.com/artist/6CIY504cTi6MgI1ZHaxd7w"
-        }
-      ],
-      "duration_ms": 167569,
-      "name": "sunday night",
-      "url": "https://open.spotify.com/track/2Sn2zG2argohDp2lm0c0vk"
-    },
-    {
-      "added_at": "2025-12-25 23:00:20",
-      "album": {
         "name": "Hittat hem",
         "url": "https://open.spotify.com/album/3LRL5ylunpeHB352pVmmOE"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 184315,
       "name": "Hittat hem",
       "url": "https://open.spotify.com/track/2hAHrzFTAZh28fg6Y5awC7"
+    },
+    {
+      "added_at": "2025-12-25 23:00:20",
+      "album": {
+        "name": "sunday night",
+        "url": "https://open.spotify.com/album/3XhRy1r95xpExil6yAHUre"
+      },
+      "artists": [
+        {
+          "name": ".blank",
+          "url": "https://open.spotify.com/artist/6CIY504cTi6MgI1ZHaxd7w"
+        }
+      ],
+      "duration_ms": 167569,
+      "name": "sunday night",
+      "url": "https://open.spotify.com/track/2Sn2zG2argohDp2lm0c0vk"
     },
     {
       "added_at": "2025-12-25 23:00:20",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2025-12-25 23:00:20",
       "album": {
-        "name": "Acoustics & Hood Psychedelia",
-        "url": "https://open.spotify.com/album/1Tg2i1ApWQgEv1UezbcWMl"
-      },
-      "artists": [
-        {
-          "name": "Bav\u00e9",
-          "url": "https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM"
-        }
-      ],
-      "duration_ms": 168947,
-      "name": "Lover's Rock",
-      "url": "https://open.spotify.com/track/1ydF1ecJCuFITwrElczHq8"
-    },
-    {
-      "added_at": "2025-12-25 23:00:20",
-      "album": {
         "name": "Damned",
         "url": "https://open.spotify.com/album/1rKX1Fsy3e8H1dpFt1BFXn"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 154340,
       "name": "Damned",
       "url": "https://open.spotify.com/track/4aSqI2QSyfmnCBmKqaExz0"
+    },
+    {
+      "added_at": "2025-12-25 23:00:20",
+      "album": {
+        "name": "Acoustics & Hood Psychedelia",
+        "url": "https://open.spotify.com/album/1Tg2i1ApWQgEv1UezbcWMl"
+      },
+      "artists": [
+        {
+          "name": "Bav\u00e9",
+          "url": "https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM"
+        }
+      ],
+      "duration_ms": 168947,
+      "name": "Lover's Rock",
+      "url": "https://open.spotify.com/track/1ydF1ecJCuFITwrElczHq8"
     },
     {
       "added_at": "2025-12-25 23:00:20",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2025-12-25 23:00:20",
       "album": {
-        "name": "Same Kids",
-        "url": "https://open.spotify.com/album/07s6cD5W72Kxf31gHu2hIE"
-      },
-      "artists": [
-        {
-          "name": "Girl Scout",
-          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
-        }
-      ],
-      "duration_ms": 211360,
-      "name": "Same Kids",
-      "url": "https://open.spotify.com/track/0THMUz0ygpsYVijF1DIkLm"
-    },
-    {
-      "added_at": "2025-12-25 23:00:20",
-      "album": {
         "name": "Han vill ha dig",
         "url": "https://open.spotify.com/album/4H9LJsjpxU9m2F6plJrp5a"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 208845,
       "name": "Han vill ha dig",
       "url": "https://open.spotify.com/track/3ZkBKXprXJkxTgnB0dihHG"
+    },
+    {
+      "added_at": "2025-12-25 23:00:20",
+      "album": {
+        "name": "Same Kids",
+        "url": "https://open.spotify.com/album/07s6cD5W72Kxf31gHu2hIE"
+      },
+      "artists": [
+        {
+          "name": "Girl Scout",
+          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
+        }
+      ],
+      "duration_ms": 211360,
+      "name": "Same Kids",
+      "url": "https://open.spotify.com/track/0THMUz0ygpsYVijF1DIkLm"
     },
     {
       "added_at": "2025-12-25 23:00:20",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2025-12-25 23:00:20",
       "album": {
-        "name": "Missing Out",
-        "url": "https://open.spotify.com/album/51AhhH21LzBtgrCbLXrST0"
-      },
-      "artists": [
-        {
-          "name": "SKAAR",
-          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
-        }
-      ],
-      "duration_ms": 182051,
-      "name": "Missing Out",
-      "url": "https://open.spotify.com/track/5w1F0iEvlqRHm3uZt9ZejA"
-    },
-    {
-      "added_at": "2025-12-25 23:00:20",
-      "album": {
         "name": "...being mad bad sad (DSM-5)",
         "url": "https://open.spotify.com/album/3Z76JHYpa1PC8sIVLhqnmA"
       },
@@ -1251,6 +1235,22 @@
     {
       "added_at": "2025-12-25 23:00:20",
       "album": {
+        "name": "Missing Out",
+        "url": "https://open.spotify.com/album/51AhhH21LzBtgrCbLXrST0"
+      },
+      "artists": [
+        {
+          "name": "SKAAR",
+          "url": "https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ"
+        }
+      ],
+      "duration_ms": 182051,
+      "name": "Missing Out",
+      "url": "https://open.spotify.com/track/5w1F0iEvlqRHm3uZt9ZejA"
+    },
+    {
+      "added_at": "2025-12-25 23:00:20",
+      "album": {
         "name": "Dina fula skor",
         "url": "https://open.spotify.com/album/32avdeLOrRCjugz8bB3fIX"
       },
@@ -1263,6 +1263,22 @@
       "duration_ms": 138187,
       "name": "Dina fula skor",
       "url": "https://open.spotify.com/track/3A5ECccn0LQaSPG29KC9Gw"
+    },
+    {
+      "added_at": "2025-12-25 23:00:20",
+      "album": {
+        "name": "Stockholm City",
+        "url": "https://open.spotify.com/album/2pw15Ool1F0Eq85FcfSH6L"
+      },
+      "artists": [
+        {
+          "name": "Adrian Mac\u00e9us",
+          "url": "https://open.spotify.com/artist/1znCudkO8pApRUyRijRN2g"
+        }
+      ],
+      "duration_ms": 160465,
+      "name": "Stockholm City",
+      "url": "https://open.spotify.com/track/7Kk0drc1rrjfTgUGbjvl2S"
     },
     {
       "added_at": "2025-12-25 23:00:20",
@@ -1299,22 +1315,6 @@
     {
       "added_at": "2025-12-25 23:00:20",
       "album": {
-        "name": "Stockholm City",
-        "url": "https://open.spotify.com/album/2pw15Ool1F0Eq85FcfSH6L"
-      },
-      "artists": [
-        {
-          "name": "Adrian Mac\u00e9us",
-          "url": "https://open.spotify.com/artist/1znCudkO8pApRUyRijRN2g"
-        }
-      ],
-      "duration_ms": 160465,
-      "name": "Stockholm City",
-      "url": "https://open.spotify.com/track/7Kk0drc1rrjfTgUGbjvl2S"
-    },
-    {
-      "added_at": "2025-12-25 23:00:20",
-      "album": {
         "name": "Andra Sidan",
         "url": "https://open.spotify.com/album/2chjQ3wm2FBXiDhu2pgTcv"
       },
@@ -1347,18 +1347,18 @@
     {
       "added_at": "2025-12-25 23:00:20",
       "album": {
-        "name": "airbnb",
-        "url": "https://open.spotify.com/album/20UCFy6Ao03mynhw2oEqOo"
+        "name": "YAKO",
+        "url": "https://open.spotify.com/album/1vlc3DYzszyNxqKZ3PX8oT"
       },
       "artists": [
         {
-          "name": "TANTAN",
-          "url": "https://open.spotify.com/artist/1cievhIWm14RMdJPC57gYi"
+          "name": "Christian Nanou",
+          "url": "https://open.spotify.com/artist/2BQUPbMBCJF16dUMMnaVQu"
         }
       ],
-      "duration_ms": 173759,
-      "name": "airbnb",
-      "url": "https://open.spotify.com/track/0jI4rRanywrjRGZ11kCH6A"
+      "duration_ms": 158117,
+      "name": "Fel",
+      "url": "https://open.spotify.com/track/4z3g7zdbHKJ4JFqjZ8UmcV"
     },
     {
       "added_at": "2025-12-25 23:00:20",
@@ -1379,34 +1379,18 @@
     {
       "added_at": "2025-12-25 23:00:20",
       "album": {
-        "name": "24/7",
-        "url": "https://open.spotify.com/album/5emD6veRgAKrGIf31AoyI5"
+        "name": "airbnb",
+        "url": "https://open.spotify.com/album/20UCFy6Ao03mynhw2oEqOo"
       },
       "artists": [
         {
-          "name": "Adrian Mac\u00e9us",
-          "url": "https://open.spotify.com/artist/1znCudkO8pApRUyRijRN2g"
+          "name": "TANTAN",
+          "url": "https://open.spotify.com/artist/1cievhIWm14RMdJPC57gYi"
         }
       ],
-      "duration_ms": 132500,
-      "name": "24/7",
-      "url": "https://open.spotify.com/track/29wEVD99X1HJvWXuEmTTxm"
-    },
-    {
-      "added_at": "2025-12-25 23:00:20",
-      "album": {
-        "name": "YAKO",
-        "url": "https://open.spotify.com/album/1vlc3DYzszyNxqKZ3PX8oT"
-      },
-      "artists": [
-        {
-          "name": "Christian Nanou",
-          "url": "https://open.spotify.com/artist/2BQUPbMBCJF16dUMMnaVQu"
-        }
-      ],
-      "duration_ms": 158117,
-      "name": "Fel",
-      "url": "https://open.spotify.com/track/4z3g7zdbHKJ4JFqjZ8UmcV"
+      "duration_ms": 173759,
+      "name": "airbnb",
+      "url": "https://open.spotify.com/track/0jI4rRanywrjRGZ11kCH6A"
     },
     {
       "added_at": "2025-12-25 23:00:20",
@@ -1427,22 +1411,6 @@
     {
       "added_at": "2025-12-25 23:00:20",
       "album": {
-        "name": "I want you to be happy",
-        "url": "https://open.spotify.com/album/73hoSlv8YWoYsLOo8TdoLu"
-      },
-      "artists": [
-        {
-          "name": "Ida Fiona",
-          "url": "https://open.spotify.com/artist/0P1ms6USIpLYgcCZ9s1Xbm"
-        }
-      ],
-      "duration_ms": 165998,
-      "name": "I want you to be happy",
-      "url": "https://open.spotify.com/track/7dIohPKdV2O4wXxCfgXTzn"
-    },
-    {
-      "added_at": "2025-12-25 23:00:20",
-      "album": {
         "name": "Solros",
         "url": "https://open.spotify.com/album/00ImPIP0ISklhkv9UvNwoT"
       },
@@ -1455,6 +1423,38 @@
       "duration_ms": 161597,
       "name": "Solros",
       "url": "https://open.spotify.com/track/1VgZrgml86gvvb4HAgDJP5"
+    },
+    {
+      "added_at": "2025-12-25 23:00:20",
+      "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/5emD6veRgAKrGIf31AoyI5"
+      },
+      "artists": [
+        {
+          "name": "Adrian Mac\u00e9us",
+          "url": "https://open.spotify.com/artist/1znCudkO8pApRUyRijRN2g"
+        }
+      ],
+      "duration_ms": 132500,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/29wEVD99X1HJvWXuEmTTxm"
+    },
+    {
+      "added_at": "2025-12-25 23:00:20",
+      "album": {
+        "name": "i miss you",
+        "url": "https://open.spotify.com/album/1aIRhAhNJgLuyXQd22Lk1J"
+      },
+      "artists": [
+        {
+          "name": "flora cash",
+          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "i miss you",
+      "url": "https://open.spotify.com/track/12EeH9djL7vD0lbkRvu21G"
     },
     {
       "added_at": "2025-12-25 23:00:20",
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2025-12-25 23:00:20",
       "album": {
-        "name": "i miss you",
-        "url": "https://open.spotify.com/album/1aIRhAhNJgLuyXQd22Lk1J"
+        "name": "I want you to be happy",
+        "url": "https://open.spotify.com/album/73hoSlv8YWoYsLOo8TdoLu"
       },
       "artists": [
         {
-          "name": "flora cash",
-          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+          "name": "Ida Fiona",
+          "url": "https://open.spotify.com/artist/0P1ms6USIpLYgcCZ9s1Xbm"
         }
       ],
-      "duration_ms": 205000,
-      "name": "i miss you",
-      "url": "https://open.spotify.com/track/12EeH9djL7vD0lbkRvu21G"
+      "duration_ms": 165998,
+      "name": "I want you to be happy",
+      "url": "https://open.spotify.com/track/7dIohPKdV2O4wXxCfgXTzn"
     }
   ],
   "unique_name": "p\u00e5 repeat",

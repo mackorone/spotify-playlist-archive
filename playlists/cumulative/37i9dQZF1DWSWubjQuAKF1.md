@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Paula Biskup
 
-682 songs - 1 day 9 hr 22 min
+683 songs - 1 day 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,8 +53,9 @@
 | [Before](https://open.spotify.com/track/56pAra1kohtrmO3AYNjrOo) | [JOA](https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9) | [Before](https://open.spotify.com/album/2u9L6k6ZDl5CQkDVW2Spre) | 2:39 | 2025-11-11 |  |
 | [Bejbe!](https://open.spotify.com/track/4UMGJx9tYGwFbVnVD2f2bQ) | [Matt Wysota](https://open.spotify.com/artist/4Z4ROJCkbpDmpx7sWsV3Yg) | [Bejbe!](https://open.spotify.com/album/0adt1bbqThqFji1PwChQME) | 1:55 | 2025-01-09 | 2025-01-24 |
 | [Beksa](https://open.spotify.com/track/3GIpWdKdTlQ22HC7DuxHdL) | [Matt Wysota](https://open.spotify.com/artist/4Z4ROJCkbpDmpx7sWsV3Yg) | [Beksa](https://open.spotify.com/album/6NPa7CgLqZaNkF1UkRiWpd) | 2:50 | 2025-02-27 | 2025-03-14 |
-| [Berek](https://open.spotify.com/track/4RPlGO0EwiakrTylOD0U9Z) | [Odet](https://open.spotify.com/artist/6NluCdkugeqhK6bjknJbLl), [ZORZA](https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX) | [Berek](https://open.spotify.com/album/1Rl1CSns9BvYAva33KH1bX) | 3:36 | 2025-08-26 |  |
+| [Berek](https://open.spotify.com/track/4RPlGO0EwiakrTylOD0U9Z) | [Odet](https://open.spotify.com/artist/6NluCdkugeqhK6bjknJbLl), [ZORZA](https://open.spotify.com/artist/6PelNgdyZOM6atJKx5YoQX) | [Berek](https://open.spotify.com/album/1Rl1CSns9BvYAva33KH1bX) | 3:36 | 2025-08-26 | 2025-12-30 |
 | [Berlin](https://open.spotify.com/track/5mLaWguaVU2VrtVsqd2hQi) | [Lackluster](https://open.spotify.com/artist/4pRNijkEptvEeyfVWSfOaY) | [spędzam dni sam](https://open.spotify.com/album/25JZmZuK6jEsRG5df0Zgsd) | 2:28 | 2024-06-28 | 2024-07-19 |
+| [BEST FRIEND](https://open.spotify.com/track/7xwzf2kWSUGvwXEATTQ0hI) | [Yulia](https://open.spotify.com/artist/7qDriwH0EP469oQTiTrWpl), [julek ploski](https://open.spotify.com/artist/33LaRQzDVWBWqEYXtSqcb3) | [BEST FRIEND](https://open.spotify.com/album/1PvFeTVPlmucz09GyeDA3N) | 2:08 | 2025-12-18 |  |
 | [Bestie, Move On](https://open.spotify.com/track/0YVWlJfAtGWsJgA7fa37xU) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Bestie, Move On](https://open.spotify.com/album/7JfiqynEeDKQQVJaAQRgLR) | 3:31 | 2024-07-25 | 2024-10-12 |
 | [Bestie, Move On](https://open.spotify.com/track/5RCo8gwmcHB8cRyKrOVOOk) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [girl's notes](https://open.spotify.com/album/5B7o8hfihsxIBPjk03uyI8) | 3:31 | 2025-01-23 | 2025-05-16 |
 | [Bez](https://open.spotify.com/track/4a6NXd5qrJv6AJrKlkZg04) | [maks.tachasiuk](https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz) | [Bez](https://open.spotify.com/album/2GVXwKnRnPkdKdxCfrb3kG) | 3:52 | 2025-05-01 | 2025-08-27 |

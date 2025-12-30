@@ -4,7 +4,7 @@
 
 > &quot;Indie Essentials&quot; is the ultimate playlist for indie music fans\. It features tracks from influential and iconic indie artists, showcasing the diversity and creativity of the genre\. Discover new and old classics in the indie spirit.
 
-147 songs - 8 hr 38 min
+148 songs - 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Pain Without A Cause \- Remix](https://open.spotify.com/track/1pFzM8ZrizfvpaHZlpEFJT) | [Daniel Joseph Chiasson](https://open.spotify.com/artist/75rcoZN43VsmGiFeqewZnK) | [Pain Without A Cause \(Remix\)](https://open.spotify.com/album/5rc0VPZofD3SIz7xOrPXfU) | 3:04 | 2025-11-13 |  |
 | [Pale Ghost in a Chrome Bed](https://open.spotify.com/track/1ZBWzJEHU22ABK1ykSaASn) | [Vincent Coomans](https://open.spotify.com/artist/2Cyheo9UBds3X4lHvL3kUg) | [Pale Ghost in a Chrome Bed](https://open.spotify.com/album/02c7ijM3Alx3w7NKcYBUAu) | 3:59 | 2025-11-18 |  |
 | [Picture](https://open.spotify.com/track/3ZgFdfKBrD643K2BrKNsEH) | [Alla Igityan](https://open.spotify.com/artist/3LPpadMH7fmELWrIbagKon) | [Picture](https://open.spotify.com/album/4i6l5QvEXRRaof4SQFfWmH) | 3:20 | 2024-09-09 |  |
+| [Puppets Know](https://open.spotify.com/track/0VwH13oGDjk5biSprNZHZH) | [Evil Level Live](https://open.spotify.com/artist/17Vx9T9t73p6DolImgRoqe) | [Puppets Know](https://open.spotify.com/album/5wmSnx6DHERdTs3YBS1gFy) | 5:12 | 2025-12-29 |  |
 | [Pygmalion](https://open.spotify.com/track/3q5iE5DGjm52i3KawsnbNe) | [SoliAres](https://open.spotify.com/artist/2y5fGjgsbruMPGTfrh2S7B) | [Pygmalion](https://open.spotify.com/album/4XRfovNWHvvqmBc8O3uXiI) | 3:18 | 2025-12-02 |  |
 | [Qué](https://open.spotify.com/track/0lUqFiMk0tBvz4RpWnvC1V) | [«nila»](https://open.spotify.com/artist/2m4t4EiUFYIY811xfsZN8L) | [Acto I](https://open.spotify.com/album/07e5UtPSZL1Mq5FT9kUqvS) | 4:02 | 2025-08-27 |  |
 | [Rainbow Eyes](https://open.spotify.com/track/0MfSlR26pT9XLhfOCopd6Q) | [WUHA](https://open.spotify.com/artist/2Xa5A0dIwmZt8OBZrTv4qQ) | [Rainbow Eyes](https://open.spotify.com/album/0CkBTvg99uxGiUUSiNbb2h) | 3:42 | 2025-11-11 |  |

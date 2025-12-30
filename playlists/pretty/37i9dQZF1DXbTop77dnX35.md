@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Naira Marley, Ruger, Nektunez, Skales and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,902 likes - 47 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,975 likes - 47 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 31 | [Gratitude](https://open.spotify.com/track/2d8UR9MBoZ5gkvkfi4bk97) | [Wonderboi](https://open.spotify.com/artist/0GSuJShfLYIPtq5bsaOG5Y), [Portable](https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe) | [Gratitude](https://open.spotify.com/album/4QRNjBupFNSS7fUCAGY220) | 2:50 |
 | 32 | [E Don Burst](https://open.spotify.com/track/1FBTnz5cZSVVf3YAKIxxuR) | [Kaptain](https://open.spotify.com/artist/7ML0FG7erVlQvCsfktO4EH) | [E Don Burst](https://open.spotify.com/album/6Zjm7zq03qmOyp26jBpTyQ) | 2:23 |
 | 33 | [Shakira](https://open.spotify.com/track/3bmvru095aLu7EDYp1mBFA) | [SubLife](https://open.spotify.com/artist/6PZjd0IGgGy8f1kVfKp7sc), [Ghenda](https://open.spotify.com/artist/3516SzT2YG6CVKFfrSFeoF), [Jujuboy](https://open.spotify.com/artist/3L5xJkOr7jAd1ji5Hrdl8a) | [Shakira](https://open.spotify.com/album/1Owc9Ygu0V2Mu0EdtVkTYW) | 3:09 |
-| 34 | [Dulling](https://open.spotify.com/track/630Q5KyfUDsJ6H8cRkZl7p) | [Ajesings](https://open.spotify.com/artist/0ZWskTAdA6A0Y83znKqSDF), [Liya](https://open.spotify.com/artist/2mq44nCfRU63sGf70HAPi0) | [Dulling](https://open.spotify.com/album/3g48YWJoo6A5CIhWVzWJ3L) | 2:54 |
+| 34 | [Dulling](https://open.spotify.com/track/630Q5KyfUDsJ6H8cRkZl7p) | [Ajesings](https://open.spotify.com/artist/0ZWskTAdA6A0Y83znKqSDF), [Liya](https://open.spotify.com/artist/6dXCI98qS6ePwijP7KSMgV) | [Dulling](https://open.spotify.com/album/3g48YWJoo6A5CIhWVzWJ3L) | 2:54 |
 | 35 | [Amsterdam](https://open.spotify.com/track/4CDY1Lx0Pn4rEyG0srJ8a5) | [Nsikak David](https://open.spotify.com/artist/68rNpsuXK5ie82VFFuJZJy) | [Amsterdam](https://open.spotify.com/album/57vji5ZAPiH5nYzBFnXBZw) | 2:48 |
 | 36 | [Loe](https://open.spotify.com/track/1MAj41iZtnMRrKI17xWcpR) | [Mutul](https://open.spotify.com/artist/6cxCP62KLOXo16w4drNYcr), [Stevo Atambire](https://open.spotify.com/artist/6gbEfMzGr0anNu4sKlXZye) | [Loe](https://open.spotify.com/album/099P8xrnXbXZJb8BjD96fX) | 5:51 |
 | 37 | [Chilling Cooling](https://open.spotify.com/track/4vxi8HloFeoI6NXLrHO7X4) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [King Jerry](https://open.spotify.com/artist/3tlf7tzNgQEDeIyYYnB1Ft) | [Chilling Cooling](https://open.spotify.com/album/16Iv5G914fEFP0q3mFNQPs) | 2:37 |

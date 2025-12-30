@@ -1,6 +1,6 @@
 {
   "description": "I brani eseguiti durante la serata dei duetti e le interpretazioni uscite su Spotify \ud83c\udfa4",
-  "num_followers": 3064,
+  "num_followers": 3063,
   "original_name": "Sanremo: Le Cover",
   "owner": {
     "name": "Spotify",
@@ -363,18 +363,22 @@
     {
       "added_at": "2025-03-03 09:30:09",
       "album": {
-        "name": "Rossetto e caff\u00e8",
-        "url": "https://open.spotify.com/album/0emUWUzKXXzwcJdStSQdIM"
+        "name": "Rossetto e caff\u00e8 (con The Kolors)",
+        "url": "https://open.spotify.com/album/6ai2ol4B5RhqzTBaM2Dgws"
       },
       "artists": [
         {
           "name": "Sal Da Vinci",
           "url": "https://open.spotify.com/artist/7cdIY4mDfM1dbjgl7s2fGR"
+        },
+        {
+          "name": "The Kolors",
+          "url": "https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR"
         }
       ],
-      "duration_ms": 192989,
-      "name": "Rossetto e caff\u00e8",
-      "url": "https://open.spotify.com/track/1nLGeFQuY7PFxrou3ezEvP"
+      "duration_ms": 189174,
+      "name": "Rossetto e caff\u00e8 (con The Kolors)",
+      "url": "https://open.spotify.com/track/0S5T2u9kPFvq9TyqJbXmcl"
     },
     {
       "added_at": "2025-03-03 09:30:09",
@@ -443,22 +447,18 @@
     {
       "added_at": "2025-03-03 09:30:09",
       "album": {
-        "name": "Rossetto e caff\u00e8 (con The Kolors)",
-        "url": "https://open.spotify.com/album/6ai2ol4B5RhqzTBaM2Dgws"
+        "name": "Rossetto e caff\u00e8",
+        "url": "https://open.spotify.com/album/0emUWUzKXXzwcJdStSQdIM"
       },
       "artists": [
         {
           "name": "Sal Da Vinci",
           "url": "https://open.spotify.com/artist/7cdIY4mDfM1dbjgl7s2fGR"
-        },
-        {
-          "name": "The Kolors",
-          "url": "https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR"
         }
       ],
-      "duration_ms": 189174,
-      "name": "Rossetto e caff\u00e8 (con The Kolors)",
-      "url": "https://open.spotify.com/track/0S5T2u9kPFvq9TyqJbXmcl"
+      "duration_ms": 192989,
+      "name": "Rossetto e caff\u00e8",
+      "url": "https://open.spotify.com/track/1nLGeFQuY7PFxrou3ezEvP"
     },
     {
       "added_at": "2025-03-03 09:30:09",

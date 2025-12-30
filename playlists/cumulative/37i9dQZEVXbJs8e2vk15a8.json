@@ -32486,7 +32486,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-30",
       "duration_ms": 170747,
       "name": "Jingle Oficial (Vota 5 Vota Kast)",
       "url": "https://open.spotify.com/track/4XzQAjsOXn17qV0uSmIPJH"
@@ -54723,6 +54723,28 @@
     },
     {
       "album": {
+        "name": "Que Te Quieran Bonito",
+        "url": "https://open.spotify.com/album/6m8V9wAhAL3jqlzIKGQwmx"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        }
+      ],
+      "date_added": "2025-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162211,
+      "name": "Que Te Quieran Bonito",
+      "url": "https://open.spotify.com/track/3YV73DlP8kB6sOACXeiACW"
+    },
+    {
+      "album": {
         "name": "Que Te Vaya Bien",
         "url": "https://open.spotify.com/album/1OrDwd1kFtbDwlyv6LQ3qB"
       },
@@ -71914,10 +71936,28 @@
       ],
       "date_added": "2025-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-30",
       "duration_ms": 145500,
       "name": "Voyage Voyage",
       "url": "https://open.spotify.com/track/20y6xEtoOj2ZBCS4NJNzuS"
+    },
+    {
+      "album": {
+        "name": "Voyage Voyage",
+        "url": "https://open.spotify.com/album/16ayCmILiovTksjEG47GlN"
+      },
+      "artists": [
+        {
+          "name": "NOVEMBER KID",
+          "url": "https://open.spotify.com/artist/4gFiVj1eoR6KQPQyFZgXRM"
+        }
+      ],
+      "date_added": "2025-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145500,
+      "name": "Voyage Voyage",
+      "url": "https://open.spotify.com/track/5dy0ZEDh2Lxvza4bK6GR8w"
     },
     {
       "album": {

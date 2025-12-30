@@ -2,7 +2,7 @@
 
 ### [NIGHT TRAVELER Radio](https://open.spotify.com/playlist/37i9dQZF1E4kTD46HZNyiq)
 
-> With Rhineland, Laureline, The Wild Wind and more
+> With Rhineland, The Wild Wind, VICTORS and more
 
 1,434 songs - 3 day 19 hr 58 min
 
@@ -91,7 +91,7 @@
 | [Always You](https://open.spotify.com/track/1a9SCQmc4Eq4uwAVOfktIZ) | [Dave Thomas Junior](https://open.spotify.com/artist/0mUIey7n1U90IScto35rX7) | [Always You](https://open.spotify.com/album/5zJk9EXxxTl8teh253lDld) | 4:19 | 2022-06-03 | 2023-07-04 |
 | [Amelia, Virginia](https://open.spotify.com/track/2hN8eyxucCwGP81xHupSrQ) | [Rhineland](https://open.spotify.com/artist/4vMdQrvTXjEPjscJjTnp0a) | [Amelia, Virginia](https://open.spotify.com/album/6MGOE5K6dZ4BMyE8JQKqZC) | 3:05 | 2025-06-30 | 2025-07-01 |
 | [American Dream](https://open.spotify.com/track/0M8fDs18QIQTM2zWb62zdD) | [The Strike](https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj) | [American Dream](https://open.spotify.com/album/0iwsBgZZ0btY4CDOTpZfAk) | 3:24 | 2024-10-02 | 2024-10-07 |
-| [American Dream](https://open.spotify.com/track/6u1HWxWAVGYb3FDkyMeLsy) | [The Strike](https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj) | [A Dream Through Open Eyes](https://open.spotify.com/album/4Z0FjhnrOADyJNLhxv3tUQ) | 3:24 | 2024-10-27 |  |
+| [American Dream](https://open.spotify.com/track/6u1HWxWAVGYb3FDkyMeLsy) | [The Strike](https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj) | [A Dream Through Open Eyes](https://open.spotify.com/album/4Z0FjhnrOADyJNLhxv3tUQ) | 3:24 | 2024-10-27 | 2025-12-30 |
 | [American Dream Come True](https://open.spotify.com/track/516H4IMc7VwxkoThXrbXT1) | [Young Mister](https://open.spotify.com/artist/4NuiDXtUaaclXGNEPQYBBx) | [Young Mister](https://open.spotify.com/album/0S5aw61RjWIoRCeeDuPdp4) | 3:19 | 2022-04-01 | 2022-11-12 |
 | [American Sweetheart](https://open.spotify.com/track/2egkOSoVtJdIEJfcf6VAQD) | [Allan Miles](https://open.spotify.com/artist/0m836cYaaRUTZejijONnAO) | [American Sweetheart](https://open.spotify.com/album/5x01fcoPcmOA5tUdLtTjD6) | 3:39 | 2022-05-20 | 2022-06-18 |
 | [Anew](https://open.spotify.com/track/1irbTMG2ULyD9mmr3fpSk5) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Moments](https://open.spotify.com/album/1AdV0dbxTNI6ihLCJYyE96) | 5:13 | 2022-10-10 | 2024-04-11 |
@@ -341,7 +341,7 @@
 | [Dorothy](https://open.spotify.com/track/6q8mbi2hdFvbVN5C1gZrC3) | [Hayden Kaye](https://open.spotify.com/artist/5ysxWIsFhoJZttrZkexNhk) | [Time & Space](https://open.spotify.com/album/0zJX4hsDeifabiQOTdSUnL) | 5:06 | 2022-05-15 | 2022-05-27 |
 | [Down To Earth](https://open.spotify.com/track/067rgocjN13QCum5cbVN6Q) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Wake](https://open.spotify.com/album/2GW5H0LObDv7faLyzGgMQi) | 3:09 | 2022-10-07 | 2022-10-08 |
 | [Downtown Lights](https://open.spotify.com/track/41fgMr2SXvOHUlIe9fMDoJ) | [Rhineland](https://open.spotify.com/artist/4vMdQrvTXjEPjscJjTnp0a) | [Heard It in a Dream, Love](https://open.spotify.com/album/0G0952x5VWLLsNLOYKj5gI) | 3:57 | 2022-04-09 |  |
-| [Dream](https://open.spotify.com/track/26PwqBf8y4mRjWieTYS2Jg) | [The Wild Wind](https://open.spotify.com/artist/377Knb6HRXkcDKafzqtt5y) | [Young and in Love](https://open.spotify.com/album/38rzj4uWKuXZFXZNr8cUEo) | 3:36 | 2024-01-06 | 2025-12-28 |
+| [Dream](https://open.spotify.com/track/26PwqBf8y4mRjWieTYS2Jg) | [The Wild Wind](https://open.spotify.com/artist/377Knb6HRXkcDKafzqtt5y) | [Young and in Love](https://open.spotify.com/album/38rzj4uWKuXZFXZNr8cUEo) | 3:36 | 2024-01-06 |  |
 | [dreamin'](https://open.spotify.com/track/267QMIjVTwU5HvH2lJmrFW) | [pink roses](https://open.spotify.com/artist/4KPrvW0HmBDFKs8PsXRwyp) | [dreamin'](https://open.spotify.com/album/2za9qJ9pvZZdOdBDa0O83S) | 2:50 | 2022-03-12 | 2022-10-06 |
 | [Dreaming of You](https://open.spotify.com/track/1EznFxaScgoxbnDmYPL2NJ) | [By The Coast](https://open.spotify.com/artist/2iewjEprGDCLtGNGLHSdqm) | [Twist of Fate](https://open.spotify.com/album/2cl2zVVSzvV2QMEFpe3wYY) | 4:52 | 2022-06-30 | 2022-07-07 |
 | [Dreams](https://open.spotify.com/track/4AcwVewGZyVTycghkVzZaN) | [Wanderer](https://open.spotify.com/artist/4wRTp2nXTcEpbJy9MQh0GX) | [Dreams](https://open.spotify.com/album/5lR62AQRfoHtDVDoocRTpS) | 4:26 | 2022-04-14 | 2022-08-08 |
@@ -479,7 +479,7 @@
 | [Georgetown](https://open.spotify.com/track/1LJXg27KpKvIWQCo1xGlia) | [The Bad Dreamers](https://open.spotify.com/artist/71Char2jLgXkG97fBjqNNY) | [Space and Time \(Deluxe Edition\)](https://open.spotify.com/album/6kHxPKAWHgv7wVaM2qcKlV) | 3:47 | 2022-02-18 | 2022-08-11 |
 | [Get a Grip](https://open.spotify.com/track/6kLhi6C5tXB5ILppo8BZhF) | [Patternist](https://open.spotify.com/artist/1n5JefcusF9c1qITJSp6Ms) | [I Don't Know What I'm Doing Here](https://open.spotify.com/album/4xmrb6kQ1X0ftdb2Xe3Cwd) | 1:11 | 2022-05-29 | 2024-02-20 |
 | [Get Better](https://open.spotify.com/track/0Cz5KFXVY2bM0X4ebyIGrR) | [Laureline](https://open.spotify.com/artist/6NLvlpFHjAedoPwWoPfGgK) | [Everything Ends Up Ending](https://open.spotify.com/album/5NZ0kjAcKNZQc9RYmOuzCa) | 3:26 | 2022-09-19 | 2022-09-21 |
-| [Get Better](https://open.spotify.com/track/63a8sFZAZ6HgskOUatU7Ye) | [Laureline](https://open.spotify.com/artist/6NLvlpFHjAedoPwWoPfGgK) | [Everything Ends Up Ending](https://open.spotify.com/album/1HVXjoZFj8r8KA6pNw4FjB) | 3:26 | 2023-12-14 |  |
+| [Get Better](https://open.spotify.com/track/63a8sFZAZ6HgskOUatU7Ye) | [Laureline](https://open.spotify.com/artist/6NLvlpFHjAedoPwWoPfGgK) | [Everything Ends Up Ending](https://open.spotify.com/album/1HVXjoZFj8r8KA6pNw4FjB) | 3:26 | 2023-12-14 | 2025-12-30 |
 | [Get Better](https://open.spotify.com/track/7JkdM2lpq22LeRtiSev3jC) | [Laureline](https://open.spotify.com/artist/6NLvlpFHjAedoPwWoPfGgK) | [Everything Ends Up Ending](https://open.spotify.com/album/2dsxWOvOPWcVg0rIBSOo1n) | 3:26 | 2022-05-06 | 2022-09-10 |
 | [Get Here](https://open.spotify.com/track/3Lo0dE8PtdTyVm7I8o4S4U) | [Bootstraps](https://open.spotify.com/artist/0x5TKpXlF0dsnMNB2xOYXz) | [Homage: Deluxe Reissue](https://open.spotify.com/album/1A7lsYGDV8WPGHhE1rECro) | 3:31 | 2022-05-02 | 2023-06-10 |
 | [Get You Out](https://open.spotify.com/track/3fdSUF8i5E6rWIqBjNqJ6F) | [Antigon](https://open.spotify.com/artist/3YPPVZi2rGfFGvd0YS5nwA) | [Get You Out](https://open.spotify.com/album/4pCLAH44OAcqoMC0Pq26N4) | 3:12 | 2022-04-13 | 2022-04-14 |
@@ -1161,7 +1161,7 @@
 | [Still](https://open.spotify.com/track/505wizT78c7Kf57u8NhXEc) | [Hayden Everett](https://open.spotify.com/artist/6sIPNR4ZDctKr2OSiAVtBc) | [Kennecott](https://open.spotify.com/album/6IlbfTJbVX9CzYw7O1YKqV) | 3:56 | 2023-04-16 | 2023-04-17 |
 | [Still Here](https://open.spotify.com/track/32ARuoM83wdAdEBvHyyrBP) | [Dylan Dunlap](https://open.spotify.com/artist/7CanUos0itnFLMrCiT839W) | [Still Here](https://open.spotify.com/album/6iClfOMlWRmoZLfJs6BesF) | 3:17 | 2024-02-12 | 2024-02-13 |
 | [Still in Motion](https://open.spotify.com/track/3Um28z0anQUy4SuKpYS2zH) | [The Panic Division](https://open.spotify.com/artist/2xDBejSFIOwBMMgXYvfmaQ) | [Touch](https://open.spotify.com/album/4hJpojEL36hf7K1yjUU3XQ) | 3:01 | 2022-05-23 | 2022-05-24 |
-| [Still Thinking About You](https://open.spotify.com/track/5sIdAQhsVsX8W6qmjadnVY) | [Mike Edel](https://open.spotify.com/artist/2slZ64SaMOJ1EXEi3W9PTI) | [En Masse](https://open.spotify.com/album/2rBTBvbPLnR0M64UrLTy6Z) | 3:27 | 2022-03-10 | 2025-12-27 |
+| [Still Thinking About You](https://open.spotify.com/track/5sIdAQhsVsX8W6qmjadnVY) | [Mike Edel](https://open.spotify.com/artist/2slZ64SaMOJ1EXEi3W9PTI) | [En Masse](https://open.spotify.com/album/2rBTBvbPLnR0M64UrLTy6Z) | 3:27 | 2022-03-10 |  |
 | [Still Young](https://open.spotify.com/track/2ASxiGTpgNUXsgQlyWrTTx) | [Young Mister](https://open.spotify.com/artist/4NuiDXtUaaclXGNEPQYBBx) | [Still Young](https://open.spotify.com/album/4FEaIcwAyQQRpWT3atOPHI) | 3:25 | 2022-07-08 | 2024-10-08 |
 | [Stone Throw](https://open.spotify.com/track/6NlrsPFg85TcCswFx6WMlC) | [Bootstraps](https://open.spotify.com/artist/0x5TKpXlF0dsnMNB2xOYXz) | [Stone Throw](https://open.spotify.com/album/051x88ICaigHnCOpgLXYuz) | 3:43 | 2022-05-07 | 2022-05-08 |
 | [Stop It \(Stripped\)](https://open.spotify.com/track/6yOpWAcocVSBFzURLfd5sH) | [Sleeping Lion](https://open.spotify.com/artist/4sBiA3ARQSDSGUqI2mbWgf) | [Stop It \(Stripped\)](https://open.spotify.com/album/2yNz5qVnlDNF6E5VSnsVHE) | 3:30 | 2023-04-12 | 2023-04-29 |

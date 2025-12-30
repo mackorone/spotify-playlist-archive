@@ -1427,6 +1427,24 @@
     },
     {
       "album": {
+        "name": "Charming Black Noise",
+        "url": "https://open.spotify.com/album/0oqJR0uGCERvFvL2eSxwMA"
+      },
+      "artists": [
+        {
+          "name": "Dream Son",
+          "url": "https://open.spotify.com/artist/6Tl4693vgmUKDblSuqOKoo"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263871,
+      "name": "Charming Black Noise",
+      "url": "https://open.spotify.com/track/7tzor0BPgvWvqFqfPC1iO1"
+    },
+    {
+      "album": {
         "name": "Close Your Eyes To Black Noise",
         "url": "https://open.spotify.com/album/34NQgOeuoKjZKAhbnDihFe"
       },
@@ -2490,7 +2508,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-30",
       "duration_ms": 144805,
       "name": "MKG Black Noise",
       "url": "https://open.spotify.com/track/4OMvHV3bHcuiWVs7QY2JdB"

@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica navide\u00f1a para celebrar el nacimiento de nuestro Salvador. Portada: Marcos Witt",
-  "num_followers": 41395,
+  "num_followers": 41398,
   "original_name": "Navidad Cristiana",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,22 @@
     {
       "added_at": "2025-12-12 05:00:50",
       "album": {
+        "name": "Pa'que Mi Pueblo Cante",
+        "url": "https://open.spotify.com/album/0uTPvbfXN8GYo4TprS2gBR"
+      },
+      "artists": [
+        {
+          "name": "Ren\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/65cuDgm56bv2MhCytEVRRF"
+        }
+      ],
+      "duration_ms": 209600,
+      "name": "V\u00edstete",
+      "url": "https://open.spotify.com/track/5ahFUDSscWFscL0NwbcHRO"
+    },
+    {
+      "added_at": "2025-12-12 05:00:50",
+      "album": {
         "name": "Rey de Gloria",
         "url": "https://open.spotify.com/album/5SUjOmUzooZIDIEm0O5WKB"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 202674,
       "name": "Rey de Gloria",
       "url": "https://open.spotify.com/track/6lb6QojMr4vItM2sUPbpaM"
-    },
-    {
-      "added_at": "2025-12-12 05:00:50",
-      "album": {
-        "name": "Pa'que Mi Pueblo Cante",
-        "url": "https://open.spotify.com/album/0uTPvbfXN8GYo4TprS2gBR"
-      },
-      "artists": [
-        {
-          "name": "Ren\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/65cuDgm56bv2MhCytEVRRF"
-        }
-      ],
-      "duration_ms": 209600,
-      "name": "V\u00edstete",
-      "url": "https://open.spotify.com/track/5ahFUDSscWFscL0NwbcHRO"
     },
     {
       "added_at": "2025-12-12 05:00:50",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2025-12-12 05:00:50",
       "album": {
-        "name": "Nada Especial",
-        "url": "https://open.spotify.com/album/4r8GDTAjA4Xw2HpqFL4QSQ"
-      },
-      "artists": [
-        {
-          "name": "Coalo Zamorano",
-          "url": "https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b"
-        }
-      ],
-      "duration_ms": 359625,
-      "name": "Nada Especial",
-      "url": "https://open.spotify.com/track/6F73IITnJ0EI468Mr0MdCz"
-    },
-    {
-      "added_at": "2025-12-12 05:00:50",
-      "album": {
         "name": "Pesebre",
         "url": "https://open.spotify.com/album/3n832SITcEq5y3IALMeeLP"
       },
@@ -1183,22 +1167,18 @@
     {
       "added_at": "2025-12-12 05:00:50",
       "album": {
-        "name": "Noche Anunciada",
-        "url": "https://open.spotify.com/album/0jTHO6zEdpvHomb51qltMd"
+        "name": "Nada Especial",
+        "url": "https://open.spotify.com/album/4r8GDTAjA4Xw2HpqFL4QSQ"
       },
       "artists": [
         {
-          "name": "Aldana Canale",
-          "url": "https://open.spotify.com/artist/5NOcG6isbHqwrftUVkl6Uk"
-        },
-        {
-          "name": "Pablo Cifuentes",
-          "url": "https://open.spotify.com/artist/0e3gPGSlQZEcsaohevhUMt"
+          "name": "Coalo Zamorano",
+          "url": "https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b"
         }
       ],
-      "duration_ms": 157012,
-      "name": "Noche Anunciada",
-      "url": "https://open.spotify.com/track/1uYRow4KBWyZ9MgZ8o1zR5"
+      "duration_ms": 359625,
+      "name": "Nada Especial",
+      "url": "https://open.spotify.com/track/6F73IITnJ0EI468Mr0MdCz"
     },
     {
       "added_at": "2025-12-12 05:00:50",
@@ -1219,6 +1199,26 @@
       "duration_ms": 211960,
       "name": "Venid Adoremos",
       "url": "https://open.spotify.com/track/0Ukh2IsNxpbrUqCeklCZ7c"
+    },
+    {
+      "added_at": "2025-12-12 05:00:50",
+      "album": {
+        "name": "Noche Anunciada",
+        "url": "https://open.spotify.com/album/0jTHO6zEdpvHomb51qltMd"
+      },
+      "artists": [
+        {
+          "name": "Aldana Canale",
+          "url": "https://open.spotify.com/artist/5NOcG6isbHqwrftUVkl6Uk"
+        },
+        {
+          "name": "Pablo Cifuentes",
+          "url": "https://open.spotify.com/artist/0e3gPGSlQZEcsaohevhUMt"
+        }
+      ],
+      "duration_ms": 157012,
+      "name": "Noche Anunciada",
+      "url": "https://open.spotify.com/track/1uYRow4KBWyZ9MgZ8o1zR5"
     },
     {
       "added_at": "2025-12-12 05:00:50",
@@ -1951,22 +1951,6 @@
     {
       "added_at": "2025-12-12 05:00:50",
       "album": {
-        "name": "Santa La Noche",
-        "url": "https://open.spotify.com/album/468Aq4om61oFd8b3MzN6nl"
-      },
-      "artists": [
-        {
-          "name": "Carla Vidal",
-          "url": "https://open.spotify.com/artist/7678ZEojikl9vWH7huaoHi"
-        }
-      ],
-      "duration_ms": 253125,
-      "name": "Santa La Noche",
-      "url": "https://open.spotify.com/track/3xa0oZcnczpZhNppU61yui"
-    },
-    {
-      "added_at": "2025-12-12 05:00:50",
-      "album": {
         "name": "Es Navidad",
         "url": "https://open.spotify.com/album/4e75ZbIGeE1kZwyyLSfM5b"
       },
@@ -1979,6 +1963,22 @@
       "duration_ms": 254887,
       "name": "Gracias Por Nacer (Merengue)",
       "url": "https://open.spotify.com/track/666DxqwGNd74D9p2a4ifiS"
+    },
+    {
+      "added_at": "2025-12-12 05:00:50",
+      "album": {
+        "name": "Santa La Noche",
+        "url": "https://open.spotify.com/album/468Aq4om61oFd8b3MzN6nl"
+      },
+      "artists": [
+        {
+          "name": "Carla Vidal",
+          "url": "https://open.spotify.com/artist/7678ZEojikl9vWH7huaoHi"
+        }
+      ],
+      "duration_ms": 253125,
+      "name": "Santa La Noche",
+      "url": "https://open.spotify.com/track/3xa0oZcnczpZhNppU61yui"
     },
     {
       "added_at": "2025-12-12 05:00:50",
@@ -2087,22 +2087,6 @@
     {
       "added_at": "2025-12-12 05:00:50",
       "album": {
-        "name": "Luz de Bel\u00e9n",
-        "url": "https://open.spotify.com/album/0BnR5ui1ch5ZTWgx5aeFef"
-      },
-      "artists": [
-        {
-          "name": "Omar Oropesa",
-          "url": "https://open.spotify.com/artist/4sBl73S8GoWdWH0ORiZCno"
-        }
-      ],
-      "duration_ms": 199999,
-      "name": "Luz de Bel\u00e9n",
-      "url": "https://open.spotify.com/track/52TxRkIYz3KjdeIYKkjNIG"
-    },
-    {
-      "added_at": "2025-12-12 05:00:50",
-      "album": {
         "name": "Jes\u00fas Es Navidad",
         "url": "https://open.spotify.com/album/1fHJNI9MAx68kI8mdHflR6"
       },
@@ -2115,6 +2099,22 @@
       "duration_ms": 157833,
       "name": "Jes\u00fas Es Navidad",
       "url": "https://open.spotify.com/track/1AssfTmTgyrnOwmqjZVsJB"
+    },
+    {
+      "added_at": "2025-12-12 05:00:50",
+      "album": {
+        "name": "Luz de Bel\u00e9n",
+        "url": "https://open.spotify.com/album/0BnR5ui1ch5ZTWgx5aeFef"
+      },
+      "artists": [
+        {
+          "name": "Omar Oropesa",
+          "url": "https://open.spotify.com/artist/4sBl73S8GoWdWH0ORiZCno"
+        }
+      ],
+      "duration_ms": 199999,
+      "name": "Luz de Bel\u00e9n",
+      "url": "https://open.spotify.com/track/52TxRkIYz3KjdeIYKkjNIG"
     },
     {
       "added_at": "2025-12-12 05:00:50",
@@ -2183,6 +2183,22 @@
     {
       "added_at": "2025-12-12 05:00:50",
       "album": {
+        "name": "Cuan Gran Amor",
+        "url": "https://open.spotify.com/album/1lhXRDxeKylK9Ljidc9dCN"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Rosario",
+          "url": "https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE"
+        }
+      ],
+      "duration_ms": 248813,
+      "name": "Que Se Llene Tu Casa",
+      "url": "https://open.spotify.com/track/3fJc3GDymadn48CQjhIrxF"
+    },
+    {
+      "added_at": "2025-12-12 05:00:50",
+      "album": {
         "name": "Acaso No Estoy Yo Aqu\u00ed (Mariachi)",
         "url": "https://open.spotify.com/album/2MG4IIRY5tzMmViyY8cFYW"
       },
@@ -2231,22 +2247,6 @@
       "duration_ms": 193282,
       "name": "Es Navidad (feat. Marcos Witt)",
       "url": "https://open.spotify.com/track/6Gz8X07dOszrxiPoTVmKnk"
-    },
-    {
-      "added_at": "2025-12-12 05:00:50",
-      "album": {
-        "name": "Cuan Gran Amor",
-        "url": "https://open.spotify.com/album/1lhXRDxeKylK9Ljidc9dCN"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Rosario",
-          "url": "https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE"
-        }
-      ],
-      "duration_ms": 248813,
-      "name": "Que Se Llene Tu Casa",
-      "url": "https://open.spotify.com/track/3fJc3GDymadn48CQjhIrxF"
     },
     {
       "added_at": "2025-12-12 05:00:50",

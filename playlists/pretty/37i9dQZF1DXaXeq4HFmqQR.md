@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres a todo volumen, con Rosario Alfonso en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,865 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,866 likes - 60 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,13 +60,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 50 | [Jardín Psíquico](https://open.spotify.com/track/65Egxnzf4PkvUdAdr541bn) | [PASKURANA](https://open.spotify.com/artist/6KPH59ozerG7RActaNjZIJ) | [Parajes Oníricos](https://open.spotify.com/album/4BDxBaFeURDdwnvyCbrxbd) | 3:05 |
 | 51 | [Pequeñas esperanzas](https://open.spotify.com/track/4COpnbZlDeDeSo9gEiql6U) | [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Las Cosas Lento](https://open.spotify.com/album/6FmvVxbiZ0LuYe4qwFVngj) | 3:21 |
 | 52 | [Suave Brisa](https://open.spotify.com/track/4hq7jmr2TYLx8lvhek9Snb) | [Martina Montaldo](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo) | [Ermitar](https://open.spotify.com/album/1teK0pQdTvLCHBM4J2zLYy) | 5:15 |
-| 53 | [Las palabras que no sientes](https://open.spotify.com/track/0L35bVS6euGPgrVPPYW8wW) | [Mora Lucay](https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L) | [Las palabras que no sientes](https://open.spotify.com/album/4lZuwyxexe4p1YPxtgUmuR) | 2:28 |
-| 54 | [Claro](https://open.spotify.com/track/6g43xhqjwevtafVL5xVT6y) | [Laurela](https://open.spotify.com/artist/6fw8yY5PcFEUHwCXH5dsHP) | [Brazos rojos](https://open.spotify.com/album/3rPBVHr8nPsVudEvpRULJl) | 1:18 |
+| 53 | [Claro](https://open.spotify.com/track/6g43xhqjwevtafVL5xVT6y) | [Laurela](https://open.spotify.com/artist/6fw8yY5PcFEUHwCXH5dsHP) | [Brazos rojos](https://open.spotify.com/album/3rPBVHr8nPsVudEvpRULJl) | 1:18 |
+| 54 | [Las palabras que no sientes](https://open.spotify.com/track/0L35bVS6euGPgrVPPYW8wW) | [Mora Lucay](https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L) | [Las palabras que no sientes](https://open.spotify.com/album/4lZuwyxexe4p1YPxtgUmuR) | 2:28 |
 | 55 | [Vital](https://open.spotify.com/track/3yryakFXVMb3pEzriB7vgm) | [Paz Quintana](https://open.spotify.com/artist/6KqJXtmKvduINRUUk74bBT) | [Vital](https://open.spotify.com/album/0eI4IUvAragR1mQTu8pDVf) | 4:16 |
 | 56 | [Estas Calles](https://open.spotify.com/track/2OvvDXJATXSCxwgAWwVw26) | [Salares](https://open.spotify.com/artist/0RhqBfkTtUA96ucZsbjzXL) | [Mejor así](https://open.spotify.com/album/1G5fOJe0hFFaZHsCce7dWV) | 2:45 |
 | 57 | [Hoy Soñé](https://open.spotify.com/track/1Fc1OHnVMXVhkJTgAZtKM9) | [I.O.](https://open.spotify.com/artist/0W7i4dR3G2zB88NtkMkVgf), [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Altar](https://open.spotify.com/album/5Of6u6hOh4T6cSfvPss2A1) | 4:04 |
 | 58 | [Que me des tu cariño](https://open.spotify.com/track/2AriviHSlVkYrEPDpyiCk4) | [LAIA](https://open.spotify.com/artist/1eFDWuVJ8q3nSbmG2MArz5) | [Un cariño y más sentires](https://open.spotify.com/album/79HS1c7pH3T6OFHMZD9rsk) | 3:30 |
-| 59 | [Sin miedo a estar solos](https://open.spotify.com/track/4wTWN6bYeH65z1jteMaBRA) | [Laurela](https://open.spotify.com/artist/6fw8yY5PcFEUHwCXH5dsHP) | [Terracota](https://open.spotify.com/album/5MtnxpR2ErMUS785q1GuJJ) | 3:25 |
-| 60 | [paterson](https://open.spotify.com/track/1YYNT9UmBUCgfBEyas1HWv) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx), [Martina Montaldo](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo) | [quién llama a esta hora \(versión deluxe\)](https://open.spotify.com/album/2KYh73tnSooxmHciXtswtN) | 4:42 |
+| 59 | [paterson](https://open.spotify.com/track/1YYNT9UmBUCgfBEyas1HWv) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx), [Martina Montaldo](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo) | [quién llama a esta hora \(versión deluxe\)](https://open.spotify.com/album/2KYh73tnSooxmHciXtswtN) | 4:42 |
+| 60 | [Sin miedo a estar solos](https://open.spotify.com/track/4wTWN6bYeH65z1jteMaBRA) | [Laurela](https://open.spotify.com/artist/6fw8yY5PcFEUHwCXH5dsHP) | [Terracota](https://open.spotify.com/album/5MtnxpR2ErMUS785q1GuJJ) | 3:25 |
 
 Snapshot ID: `AAAAANDJztCE/EmfREyo6kEFEqn5Hp9I`

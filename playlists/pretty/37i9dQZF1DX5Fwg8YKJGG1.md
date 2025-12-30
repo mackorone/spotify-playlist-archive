@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Fwg8YKJGG1.md) - [plain]
 
 > Christmas favourites played on music box and glockenspiel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,995 likes - 44 songs - 1 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,012 likes - 44 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Fwg8YKJGG1.md) - [plain]
 | 43 | [Frosty The Snowman](https://open.spotify.com/track/2bLAuycDOuVSGj9YaIrf1Q) | [Yuletide Delight](https://open.spotify.com/artist/1nNVa4ARNnIqK1xb4vHGmI) | [Frosty The Snowman](https://open.spotify.com/album/00TwcqkwlGwBu7idKVn9aU) | 1:41 |
 | 44 | [Away In A Manger \(Bells Lullaby Cover\)](https://open.spotify.com/track/11RLczo5NwXVkH98tqNa9V) | [Jolly Starlings](https://open.spotify.com/artist/34fFFb8Tq5nqhqa03Qjg2h) | [Away In A Manger \(Bells Lullaby Cover\)](https://open.spotify.com/album/2DMPLRZcGsQ5ePYSAidglq) | 3:33 |
 
-Snapshot ID: `AAAAAEpAby6sAqIxhDvsZbsAPxb4SgQE`
+Snapshot ID: `AAAAAByD9teZSryXBo3jeet6LdqZTCnj`

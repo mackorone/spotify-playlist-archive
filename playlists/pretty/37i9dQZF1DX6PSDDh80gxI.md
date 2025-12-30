@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PSDDh80gxI.md) - [plain]
 
 ### [Indie Italia](https://open.spotify.com/playlist/37i9dQZF1DX6PSDDh80gxI)
 
-> ciao auguri dagli editor di Spotify 🎁 ricominciamo ad aggiornare la playlist il 2/1, intanto: coez in cover
+> ciao auguri dagli editor di Spotify 🎁 ricominciamo ad aggiornare la playlist il 2/1, intanto: fulminacci in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,345 likes - 78 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,346 likes - 78 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

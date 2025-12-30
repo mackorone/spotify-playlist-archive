@@ -13191,6 +13191,24 @@
     },
     {
       "album": {
+        "name": "A Song for All Seasons",
+        "url": "https://open.spotify.com/album/7Lrn2mUxwj6X7NFUNmuaQl"
+      },
+      "artists": [
+        {
+          "name": "Renaissance",
+          "url": "https://open.spotify.com/artist/4MERAVAHX04B50JOnasmWf"
+        }
+      ],
+      "date_added": "2025-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255893,
+      "name": "Opening Out",
+      "url": "https://open.spotify.com/track/39AAohgvtgo3xJlypPoLho"
+    },
+    {
+      "album": {
         "name": "You Don't Mess Around With Jim",
         "url": "https://open.spotify.com/album/0dZaHQ0OJlIyVrEuvnXmS9"
       },

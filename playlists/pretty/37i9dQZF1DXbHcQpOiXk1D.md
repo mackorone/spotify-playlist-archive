@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHcQpOiXk1D.md) - [plain]
 
 > The best from Britain's vibrant scene\. Cover: <br/>oreglo
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,931 likes - 75 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,930 likes - 75 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,22 +66,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHcQpOiXk1D.md) - [plain]
 | 56 | [It Could Be](https://open.spotify.com/track/65k36tJQgts8gqSMnWx47m) | [Amanda Whiting](https://open.spotify.com/artist/6PGBkPJLeNHQQTM3wvlVv5) | [Can You See Me Now?](https://open.spotify.com/album/4NuVAezhA18lt3V9wG75qs) | 3:17 |
 | 57 | [Love Is Like A Movie](https://open.spotify.com/track/5va9bIPu28T4tBERLnmc3M) | [Ashley Henry](https://open.spotify.com/artist/64bpQRbx4Nw2r7oIg1SAzw), [Judi Jackson](https://open.spotify.com/artist/6cc4nTPbOmmi0oWqMKL6fU) | [Who We Are](https://open.spotify.com/album/1104vnzxmRlJSJplPf25Xz) | 4:34 |
 | 58 | [Agave Flute](https://open.spotify.com/track/0QFqGiwrunHgwpflzQhgmQ) | [Marco Bernardis](https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv) | [Wu Wei](https://open.spotify.com/album/6vpHWq7UHPBQ5ohdU31VnM) | 1:36 |
-| 59 | [Need a Moment](https://open.spotify.com/track/0XlkTuDHqNSfKd2MnjQ4GE) | [Kyra](https://open.spotify.com/artist/4IVDPbJrdHe1RQ4crCReBW) | [Need a Moment](https://open.spotify.com/album/0Rh1CSVMLEfnTOXEL4uPJu) | 3:29 |
-| 60 | [Landlord blues](https://open.spotify.com/track/4wiIAWolI7HefrUgehfAx6) | [SELL EVERYTHING](https://open.spotify.com/artist/3U5BOUTIws5YtSMemhKY87) | [Landlord blues](https://open.spotify.com/album/5RPLrYO2Xvp9r3jpquJilH) | 2:03 |
+| 59 | [Landlord blues](https://open.spotify.com/track/4wiIAWolI7HefrUgehfAx6) | [SELL EVERYTHING](https://open.spotify.com/artist/3U5BOUTIws5YtSMemhKY87) | [Landlord blues](https://open.spotify.com/album/5RPLrYO2Xvp9r3jpquJilH) | 2:03 |
+| 60 | [Need a Moment](https://open.spotify.com/track/0XlkTuDHqNSfKd2MnjQ4GE) | [Kyra](https://open.spotify.com/artist/4IVDPbJrdHe1RQ4crCReBW) | [Need a Moment](https://open.spotify.com/album/0Rh1CSVMLEfnTOXEL4uPJu) | 3:29 |
 | 61 | [Day x2 \(feat\. MIKE & Marco Bernardis\)](https://open.spotify.com/track/0IHLe0jsqkQokL1At1vwBS) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU), [Marco Bernardis](https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv) | [Day x2 \(feat\. MIKE & Marco Bernardis\)](https://open.spotify.com/album/11BEsLzTeQyffuSXa3W6Fe) | 3:19 |
 | 62 | [Got a Lil Luv](https://open.spotify.com/track/0RS89gLDcUVs441ZUAVuA0) | [Isabelle Mettle](https://open.spotify.com/artist/0wzicZBrVg1SpiMsZzNmFC) | [Changes Deluxe](https://open.spotify.com/album/0nIMJVYQ41dBMDASeQ3mWc) | 2:32 |
 | 63 | [Yearning](https://open.spotify.com/track/6f1jwxWoobdY2q9zrq28nY) | [Sâlo](https://open.spotify.com/artist/1Jxb2XyHKir8W0oZrdsCpN) | [Yearning](https://open.spotify.com/album/1PexTdqHu6pScyHcvDrFyZ) | 3:27 |
 | 64 | [Blame](https://open.spotify.com/track/0O343Jy6qgeeZUmxIriCCF) | [Arjuna Oakes](https://open.spotify.com/artist/724Bei6TsAHJYvnLHGdEAF) | [Blame](https://open.spotify.com/album/47Ej3YAV40mRK7LFS76iFH) | 3:37 |
-| 65 | [Old Friend; The Sea](https://open.spotify.com/track/6GBvm9H1J9pIIfDWcaF3Pp) | [Vega Trails](https://open.spotify.com/artist/0gbsttCxz1wkYMjN64WCgR) | [Sierra Tracks](https://open.spotify.com/album/7HLOgO7dhpJ3gQYQnbczKJ) | 4:37 |
-| 66 | [9 Months](https://open.spotify.com/track/5ytyIX649Ky20J20yVJUbh) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Avoid The Drones & 9 Months](https://open.spotify.com/album/48h66y6JPTB4ie6wMDl9Lc) | 3:34 |
-| 67 | [We're Not Free](https://open.spotify.com/track/715GdTHoLH2FOLfZ3GCvi9) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [We're Not Free](https://open.spotify.com/album/7nsFzOZtsC433KokTp75Hm) | 4:51 |
-| 68 | [No Others](https://open.spotify.com/track/3xuYB0Utwmn2KFxAWrKDe7) | [Momoko Gill](https://open.spotify.com/artist/1j3dtntfKtyjvsyr7TpzoF) | [No Others / When Palestine Is Free](https://open.spotify.com/album/3YREK1AXnlQLgmgt9kmRwW) | 4:26 |
+| 65 | [No Others](https://open.spotify.com/track/3xuYB0Utwmn2KFxAWrKDe7) | [Momoko Gill](https://open.spotify.com/artist/1j3dtntfKtyjvsyr7TpzoF) | [No Others / When Palestine Is Free](https://open.spotify.com/album/3YREK1AXnlQLgmgt9kmRwW) | 4:26 |
+| 66 | [Old Friend; The Sea](https://open.spotify.com/track/6GBvm9H1J9pIIfDWcaF3Pp) | [Vega Trails](https://open.spotify.com/artist/0gbsttCxz1wkYMjN64WCgR) | [Sierra Tracks](https://open.spotify.com/album/7HLOgO7dhpJ3gQYQnbczKJ) | 4:37 |
+| 67 | [9 Months](https://open.spotify.com/track/5ytyIX649Ky20J20yVJUbh) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Avoid The Drones & 9 Months](https://open.spotify.com/album/48h66y6JPTB4ie6wMDl9Lc) | 3:34 |
+| 68 | [We're Not Free](https://open.spotify.com/track/715GdTHoLH2FOLfZ3GCvi9) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [We're Not Free](https://open.spotify.com/album/7nsFzOZtsC433KokTp75Hm) | 4:51 |
 | 69 | [Marina del Rey](https://open.spotify.com/track/2yfu7ZjxePK3fu1aN0YO0f) | [Koteri](https://open.spotify.com/artist/0erbhWanedxZ9LCnxIKMEI) | [Marina del Rey](https://open.spotify.com/album/3nniGvnsSMTfUAJbFwFam5) | 2:13 |
 | 70 | [Change](https://open.spotify.com/track/2uv3a1ldsRDax1xAldu0Tw) | [CROOKS INC.](https://open.spotify.com/artist/50HRK8mAnUhlSOOp7MgZxp) | [Kismet](https://open.spotify.com/album/49H3UEmVZXpJwCIEg7eq48) | 3:08 |
 | 71 | [Breeze](https://open.spotify.com/track/46MSjCl56neKwW4Rlhx6sl) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [Aziza Jaye](https://open.spotify.com/artist/0tHJp3y1T8uA9oWhEOMRzE) | [Breeze](https://open.spotify.com/album/6KI58XTMpXQCMRqAQXeAGL) | 4:27 |
 | 72 | [Tempest](https://open.spotify.com/track/7qDBCXw48fj85AaJDvyLD9) | [Steam Down](https://open.spotify.com/artist/2dOnTAoXrpBwYAo1qIbemO), [Afronaut Zu](https://open.spotify.com/artist/7bToOjUrX6hknJQDN9NSsJ), [Ahnansé](https://open.spotify.com/artist/2Jz6SJ8o8G8lvZLB1U2Pfl) | [Tempest](https://open.spotify.com/album/0JCVaWFdfzUEvOBMAfJzXI) | 4:56 |
-| 73 | [Lonely](https://open.spotify.com/track/617iJNSnWz4F4qez3b304m) | [Malan](https://open.spotify.com/artist/4lTwsxnU59QAenYUzJteBl) | [Lonely](https://open.spotify.com/album/6DQrLzlM7XwodvAaZkK9P5) | 3:10 |
-| 74 | [Let Go](https://open.spotify.com/track/5BoznWsDzJJrqjoqZZ2qiN) | [Myles Sanko](https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G) | [Let It Unfold](https://open.spotify.com/album/0jPTgYOgxpyQkrjLxfAe5O) | 4:13 |
-| 75 | [Never Let Me Go](https://open.spotify.com/track/1iz5M5tGpcwW1jfNCIdIa5) | [Tar Blanche](https://open.spotify.com/artist/7bEipnF8YKYRRIga66A6Xl) | [Never Let Me Go](https://open.spotify.com/album/4pU5Fe1cVJLRj8BqDyRSJx) | 3:51 |
+| 73 | [Let Go](https://open.spotify.com/track/5BoznWsDzJJrqjoqZZ2qiN) | [Myles Sanko](https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G) | [Let It Unfold](https://open.spotify.com/album/0jPTgYOgxpyQkrjLxfAe5O) | 4:13 |
+| 74 | [Lonely](https://open.spotify.com/track/617iJNSnWz4F4qez3b304m) | [Malan](https://open.spotify.com/artist/4lTwsxnU59QAenYUzJteBl) | [Lonely](https://open.spotify.com/album/6DQrLzlM7XwodvAaZkK9P5) | 3:10 |
+| 75 | [Higher Spirit](https://open.spotify.com/track/0DNIOOSHcqdZLe9v1DlZCq) | [Sol Paradise](https://open.spotify.com/artist/5PihhSgYPtIRL4I0spglII) | [Higher Spirit](https://open.spotify.com/album/79QWCx9INcnPfwoR2qRKPL) | 4:06 |
 
 Snapshot ID: `AAAAAOtebxdN9uGP7GSJClSt9r1y2m7Y`

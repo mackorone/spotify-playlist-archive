@@ -60,7 +60,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-12",
+      "date_removed": null,
       "duration_ms": 246893,
       "name": "1.9.82.",
       "url": "https://open.spotify.com/track/22xYHv2QEdKYKQO7jSAPM1"
@@ -3101,6 +3101,24 @@
     },
     {
       "album": {
+        "name": "Derribo",
+        "url": "https://open.spotify.com/album/11NbZLxIjzjgghjwvUqhiz"
+      },
+      "artists": [
+        {
+          "name": "Poncho K",
+          "url": "https://open.spotify.com/artist/4fi2id2V1djZTVkPBLwaUz"
+        }
+      ],
+      "date_added": "2025-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213252,
+      "name": "Derribo",
+      "url": "https://open.spotify.com/track/3YcsJ1yZYTqkCWbnDdUidw"
+    },
+    {
+      "album": {
         "name": "Deseando ver la luz",
         "url": "https://open.spotify.com/album/40OhE5LijpvgkRcJFvD5tx"
       },
@@ -5384,7 +5402,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-24",
+      "date_removed": null,
       "duration_ms": 218801,
       "name": "Flores de mentira",
       "url": "https://open.spotify.com/track/5ufhJV6z7END5mOa6vypvu"
@@ -5454,7 +5472,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-19",
+      "date_removed": null,
       "duration_ms": 180032,
       "name": "Fotos felices",
       "url": "https://open.spotify.com/track/5PAi9AU6U4nt6hEVl8MUBD"
@@ -6594,7 +6612,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-30",
       "duration_ms": 238353,
       "name": "La estaci\u00f3n",
       "url": "https://open.spotify.com/track/0UlMQ9DkbAYqd68OAyTFFj"
@@ -7196,7 +7214,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-30",
       "duration_ms": 201401,
       "name": "La Voz",
       "url": "https://open.spotify.com/track/0e7CW8YYg37nCqmpER3Diy"
@@ -9874,7 +9892,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-30",
       "duration_ms": 164633,
       "name": "Ojos superocho",
       "url": "https://open.spotify.com/track/2CejnEJpDjJYWFIGkB4Lr1"
@@ -10360,7 +10378,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-30",
       "duration_ms": 173533,
       "name": "Pongamos Que Hablo de Madrid",
       "url": "https://open.spotify.com/track/6RVCZgNqZQQSRDFtE7zFwt"
@@ -10938,7 +10956,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-28",
+      "date_removed": null,
       "duration_ms": 218146,
       "name": "Qu\u00e9 M\u00e1s Quisieras",
       "url": "https://open.spotify.com/track/3r6hdxFuzTFg9lch7ewbhU"
@@ -13448,7 +13466,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-30",
       "duration_ms": 299997,
       "name": "Ven vestida de nube",
       "url": "https://open.spotify.com/track/74TWQB7q5hylTdakpjznaZ"

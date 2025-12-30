@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM1V9WPOWLF2.md) - [plain]
 | 49 | [CLICKBAIT](https://open.spotify.com/track/6FwABBfhb4zp7DpNJltDzI) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [KM0](https://open.spotify.com/album/2eQtbaGUFOZ0NdWv5XBoPq) | 2:40 |
 | 50 | [TNT](https://open.spotify.com/track/74h5MxKFLCzHFnscai2nbY) | [Diego Smith](https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6), [WANDA ORIGINAL](https://open.spotify.com/artist/2H8Dwb3Tbgux2nJixSW6LD) | [COLABORACIONES](https://open.spotify.com/album/117GlVLvuRPiZFLprhE61n) | 2:05 |
 | 51 | [Another day in America \(with Ozuna\)](https://open.spotify.com/track/0SRBovIdW5xMxuw7ZR9pHz) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Another day in America \(with Ozuna\)](https://open.spotify.com/album/5xeu1LWvPrYWnWuyLXRcRW) | 2:47 |
-| 52 | [Temporary](https://open.spotify.com/track/28zcTRqgD2iVOE4KEKCAxi) | [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU) | [Temporary](https://open.spotify.com/album/4q8Lf22VusXiVGManncPJY) | 3:24 |
-| 53 | [Cosas Por Decir](https://open.spotify.com/track/1MpE4mrrhYWAIzp87lM00i) | [Nashy\-Nashai](https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx) | [OTRA CANCIÓN DE AMOR](https://open.spotify.com/album/0jQHnHYaEr5VvhWV52TeBy) | 1:39 |
+| 52 | [Cosas Por Decir](https://open.spotify.com/track/1MpE4mrrhYWAIzp87lM00i) | [Nashy\-Nashai](https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx) | [OTRA CANCIÓN DE AMOR](https://open.spotify.com/album/0jQHnHYaEr5VvhWV52TeBy) | 1:39 |
+| 53 | [Temporary](https://open.spotify.com/track/28zcTRqgD2iVOE4KEKCAxi) | [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU) | [Temporary](https://open.spotify.com/album/4q8Lf22VusXiVGManncPJY) | 3:24 |
 | 54 | [XKITTLEZ](https://open.spotify.com/track/34xwrlGOKbe09IxtdnPHmV) | [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [XKITTLEZ](https://open.spotify.com/album/2cy31kZE0h37TABVT21pKl) | 3:53 |
 | 55 | [Profesora](https://open.spotify.com/track/19oN7fnXXZUyXE7jzLBalc) | [Diego Smith](https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6) | [LA BÚSQUEDA](https://open.spotify.com/album/1hX9GX9ot3bkOFXsvpQdAP) | 1:34 |
 | 56 | [Xplicit Content](https://open.spotify.com/track/36ohb6o1C589APsOXrxYek) | [RMAND](https://open.spotify.com/artist/168fXFOgXniYN0j9XVMdOK) | [Xplicit Content](https://open.spotify.com/album/2iV5pcGbjFdQnHLzcYWyuW) | 2:24 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM1V9WPOWLF2.md) - [plain]
 | 96 | [Terrifying](https://open.spotify.com/track/2ANynrvIPu167ZHz2DJ3xk) | [Awgust](https://open.spotify.com/artist/0cC1TGgq52GNhAhed6SHj6) | [Terrifying](https://open.spotify.com/album/732sY0DgQ57NUeH5wNSDL4) | 3:24 |
 | 97 | [Its Weird](https://open.spotify.com/track/4S9pwJF1RwFY9rjuyVlTOB) | [Awgust](https://open.spotify.com/artist/0cC1TGgq52GNhAhed6SHj6) | [Its Weird](https://open.spotify.com/album/4XqWvGatggpkv5iGNmgp0T) | 2:59 |
 
-Snapshot ID: `AcFdxgAAAAChGZEQsBF0rFo3ZEj7wHsq`
+Snapshot ID: `AcFjXAAAAACoCZ2/WxtT6MeYKGSkl0nP`

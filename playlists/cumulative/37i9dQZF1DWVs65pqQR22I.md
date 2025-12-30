@@ -4,7 +4,7 @@
 
 > Dark noise to keep you sharp and focused during your study session.
 
-202 songs - 9 hr 10 min
+203 songs - 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Calming Black Noise](https://open.spotify.com/track/6bFsSsNF56OHRYqjzflEOW) | [Dreams of Dreams](https://open.spotify.com/artist/0KY8omZ7aQCodbxcCNlamA) | [Tranquil Black Noise](https://open.spotify.com/album/7uQIqVmUs8BKNKlxXc7cQ6) | 2:01 | 2023-06-01 |  |
 | [Calming Black Noise](https://open.spotify.com/track/25xWNfk4rIKBqig425Nb3C) | [Vizzionz](https://open.spotify.com/artist/3VU6EADz81WPaKVs9mP30w) | [Black Noise Serenade](https://open.spotify.com/album/0wZLfU9UB14vFGGmxbDmND) | 2:26 | 2023-03-10 | 2023-08-12 |
 | [Calming Black Noise \(Remastered\)](https://open.spotify.com/track/0xXLoqrSDiUzfDOgt5WcUY) | [MKG Sound Library](https://open.spotify.com/artist/4w6WFLprJAqxXhKCWfxnHN) | [Black Noise For Focus](https://open.spotify.com/album/0ZeBeelX0WMyx58X4MnYJg) | 2:39 | 2023-04-21 | 2023-08-12 |
+| [Charming Black Noise](https://open.spotify.com/track/7tzor0BPgvWvqFqfPC1iO1) | [Dream Son](https://open.spotify.com/artist/6Tl4693vgmUKDblSuqOKoo) | [Charming Black Noise](https://open.spotify.com/album/0oqJR0uGCERvFvL2eSxwMA) | 4:23 | 2025-12-19 |  |
 | [Close Your Eyes To Black Noise](https://open.spotify.com/track/4WOtxDTW0KnW0t0QVFmi8F) | [BGVV](https://open.spotify.com/artist/2ZZmOU69olG4AWM3c3LX1T) | [Close Your Eyes To Black Noise](https://open.spotify.com/album/34NQgOeuoKjZKAhbnDihFe) | 1:56 | 2023-03-10 | 2023-06-20 |
 | [Coal Echoes](https://open.spotify.com/track/06CZdio4eDdkdTPEZeFfiZ) | [Dream Fuzz](https://open.spotify.com/artist/5g15r7gI0JATorLiQduRkF) | [Coal Echoes](https://open.spotify.com/album/2PZtXdEG5eM6FPA8Ztontj) | 4:47 | 2024-02-13 |  |
 | [Coal Whispers](https://open.spotify.com/track/2l3sVtG5YjEIVqCgU82Vcn) | [White Noise Android](https://open.spotify.com/artist/11AY1VUDrlYvE0skhsjZQd) | [Coal Whispers](https://open.spotify.com/album/6n96ZPOecgJMDFd7IDUwxK) | 5:37 | 2025-04-09 |  |
@@ -143,7 +144,7 @@
 | [Mellow Black Noise](https://open.spotify.com/track/1cmjf6zGYLnacOrfgj2TeU) | [Inscription](https://open.spotify.com/artist/0MlpjV25yBPHGlsGnsWVYy) | [Nights with Black Noise](https://open.spotify.com/album/387f3DHivXw4c8o0Si7Q0i) | 2:37 | 2023-03-10 | 2023-06-20 |
 | [Midnight Silence](https://open.spotify.com/track/2xVm2H30XJhlUDLfAr9EeE) | [The Inceptionists](https://open.spotify.com/artist/6paFuX94JPUGBwVheWFqhT) | [Midnight Silence](https://open.spotify.com/album/7rRW3i0emEEVql5gOt5Sf1) | 4:57 | 2024-02-13 | 2025-02-27 |
 | [Midnight Zzz's](https://open.spotify.com/track/1KiNy0FQoX4BMdHHvIVXIR) | [Likko Sol](https://open.spotify.com/artist/2Or8PQp1nSscZ2gnIkx17E) | [Midnight Zzz's](https://open.spotify.com/album/5NXEF9Qu8f7b9e8lyXyn1X) | 4:27 | 2025-02-26 |  |
-| [MKG Black Noise](https://open.spotify.com/track/4OMvHV3bHcuiWVs7QY2JdB) | [MKG Sound Library](https://open.spotify.com/artist/4w6WFLprJAqxXhKCWfxnHN) | [Black Noise For Focus](https://open.spotify.com/album/0ZeBeelX0WMyx58X4MnYJg) | 2:24 | 2023-04-21 |  |
+| [MKG Black Noise](https://open.spotify.com/track/4OMvHV3bHcuiWVs7QY2JdB) | [MKG Sound Library](https://open.spotify.com/artist/4w6WFLprJAqxXhKCWfxnHN) | [Black Noise For Focus](https://open.spotify.com/album/0ZeBeelX0WMyx58X4MnYJg) | 2:24 | 2023-04-21 | 2025-12-30 |
 | [Muffled Black Noise](https://open.spotify.com/track/6qUMzKaMLPggQSUKg78H9H) | [Black Noise Sleep](https://open.spotify.com/artist/5gnlBkStMHgnqjgbSYapI4), [Black Noise Loops](https://open.spotify.com/artist/0Q2hxC2pZhRThqgGjuU9gp) | [Black Noise Sleeping](https://open.spotify.com/album/26yzjC9wR53fDffpBr8BIh) | 1:30 | 2023-03-10 | 2023-04-22 |
 | [Nefarious Black Noise](https://open.spotify.com/track/31GE7CWNk8ZBlLpPxJoz07) | [Atmospheric Rivers](https://open.spotify.com/artist/3szZThecJLcLc88TcXALuU) | [Black Noise Ritual](https://open.spotify.com/album/2xLJSlC4ZJiC41LbQui8Nq) | 3:08 | 2023-03-31 | 2025-12-11 |
 | [Nights with Black Noise](https://open.spotify.com/track/5MkScpVqQ53sGNXMzGhSl0) | [Inscription](https://open.spotify.com/artist/0MlpjV25yBPHGlsGnsWVYy) | [Nights with Black Noise](https://open.spotify.com/album/387f3DHivXw4c8o0Si7Q0i) | 2:45 | 2023-03-10 | 2023-07-06 |

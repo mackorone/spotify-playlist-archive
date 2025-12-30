@@ -1,6 +1,6 @@
 {
   "description": "\u5343\u79a7\u5f8c\u7b2c\u4e00\u500b\u5341\u5e74\uff0c\u8b93\u6211\u5011\u85c9\u8457\u65cb\u5f8b\u56de\u5473...Cover: \u8521\u4f9d\u6797 (JOLIN)",
-  "num_followers": 250102,
+  "num_followers": 250136,
   "original_name": "2000\u5e74\u4ee3\u83ef\u8a9e\u91d1\u66f2",
   "owner": {
     "name": "Spotify",
@@ -415,6 +415,22 @@
     {
       "added_at": "2025-12-29 02:36:20",
       "album": {
+        "name": "\u9006\u5149",
+        "url": "https://open.spotify.com/album/6mBrt99J1sFWMQ9LzPHLGw"
+      },
+      "artists": [
+        {
+          "name": "Stefanie Sun",
+          "url": "https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn"
+        }
+      ],
+      "duration_ms": 294026,
+      "name": "\u9006\u5149",
+      "url": "https://open.spotify.com/track/4x1hB3Yg01Aq6J6q0deS9M"
+    },
+    {
+      "added_at": "2025-12-29 02:36:20",
+      "album": {
         "name": "\u600e\u6a23",
         "url": "https://open.spotify.com/album/5wBnaUSaYmG7PH39bRIr1H"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 242440,
       "name": "\u4f60\u8981\u7684\u611b",
       "url": "https://open.spotify.com/track/2AwYywTNbeiWqQcLqt8UwP"
-    },
-    {
-      "added_at": "2025-12-29 02:36:20",
-      "album": {
-        "name": "\u60f3\u592a\u591a",
-        "url": "https://open.spotify.com/album/6b73bBAKBXFOSZMti87QyE"
-      },
-      "artists": [
-        {
-          "name": "Nicky Lee",
-          "url": "https://open.spotify.com/artist/6DuHQk8gJbyVlhajer8IuF"
-        }
-      ],
-      "duration_ms": 216607,
-      "name": "\u60f3\u592a\u591a",
-      "url": "https://open.spotify.com/track/7IiSESHLOtsoEXTlXa0bjJ"
     },
     {
       "added_at": "2025-12-29 02:36:20",
@@ -463,18 +463,18 @@
     {
       "added_at": "2025-12-29 02:36:20",
       "album": {
-        "name": "\u9006\u5149",
-        "url": "https://open.spotify.com/album/6mBrt99J1sFWMQ9LzPHLGw"
+        "name": "\u60f3\u592a\u591a",
+        "url": "https://open.spotify.com/album/6b73bBAKBXFOSZMti87QyE"
       },
       "artists": [
         {
-          "name": "Stefanie Sun",
-          "url": "https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn"
+          "name": "Nicky Lee",
+          "url": "https://open.spotify.com/artist/6DuHQk8gJbyVlhajer8IuF"
         }
       ],
-      "duration_ms": 294026,
-      "name": "\u9006\u5149",
-      "url": "https://open.spotify.com/track/4x1hB3Yg01Aq6J6q0deS9M"
+      "duration_ms": 216607,
+      "name": "\u60f3\u592a\u591a",
+      "url": "https://open.spotify.com/track/7IiSESHLOtsoEXTlXa0bjJ"
     },
     {
       "added_at": "2025-12-29 02:36:20",

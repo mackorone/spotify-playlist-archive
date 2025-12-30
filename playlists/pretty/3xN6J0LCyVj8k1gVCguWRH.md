@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > Obama&\#x27;s favorite music of 2025\. Includes Summer 2024 and bonus tracks.
 
-[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 132,366 likes - 159 songs - 9 hr 29 min
+[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 132,360 likes - 161 songs - 9 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -153,19 +153,21 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 143 | [The Devil I Know](https://open.spotify.com/track/7FvHEqbqeG3hoNZBBUjkVC) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [The Devil I Know](https://open.spotify.com/album/7KrfaP20vnFpy3NLOQkEpr) | 3:07 |
 | 144 | [Love & Hate](https://open.spotify.com/track/7oOEFDLSQscl0uGulnIEmG) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Love & Hate](https://open.spotify.com/album/0qxsfpy2VU0i4eDR9RTaAU) | 7:07 |
 | 145 | [Drugged Out](https://open.spotify.com/track/7A0oIyazUE54vv8DyReLAq) | [ERLY](https://open.spotify.com/artist/2z7Bw7TpA0GEbtU3dJRK6I) | [Drugged Out](https://open.spotify.com/album/0cAWpKgEMcbghKrYfk9bUX) | 3:21 |
-| 146 | [21](https://open.spotify.com/track/4HTFtC02xdq7kAPPYbtKrU) | [Edward Sun](https://open.spotify.com/artist/7mbrKjLcZg7X6rSMVD4Tae) | [21](https://open.spotify.com/album/1JtKQX1KImh1wy9LIXs5NU) | 3:31 |
-| 147 | [One of These Days](https://open.spotify.com/track/3IhbULMroBoxwryTBFh6qD) | [Olaf Blackwood](https://open.spotify.com/artist/7Fb4bPwUT0mrtDXt2qmJEp), [Dillgin](https://open.spotify.com/artist/2x8XlusUgX2EJ0b428FMsI) | [One of These Days](https://open.spotify.com/album/50uaLs4YAnD5Nn0VjToYDJ) | 3:22 |
-| 148 | [Same Anymore](https://open.spotify.com/track/5Bm6iBHDIDUSYYv2TN0nf8) | [Ariel Marie](https://open.spotify.com/artist/3iG7MlXx4LYOkqf2p0ntO8) | [Same Anymore](https://open.spotify.com/album/5KtrQEOxIHBjkLzYfalA9k) | 2:11 |
-| 149 | [Open](https://open.spotify.com/track/14sDCw3S0JDCZ4XaBoU1D2) | [ERLY](https://open.spotify.com/artist/2z7Bw7TpA0GEbtU3dJRK6I) | [Open](https://open.spotify.com/album/0ZIVRIn9rEXuIQQmVkZ1P7) | 2:31 |
-| 150 | [Prototype](https://open.spotify.com/track/73TuwDKpisKrec29FeTVY6) | [Chizuko](https://open.spotify.com/artist/7aMeiY0WImBZ68czDFq2H3) | [Prototype](https://open.spotify.com/album/6Tb2vlc3BLNLErsS6mCyZE) | 3:06 |
-| 151 | [I Am Absolutely and Without a Doubt I’m Almost Sure](https://open.spotify.com/track/3Usds5Xfwl6SblDnn5uj4x) | [Gabe Lopez](https://open.spotify.com/artist/2MlP8ZN4cRAtowcIUz3rDn) | [I Am Absolutely and Without a Doubt I’m Almost Sure](https://open.spotify.com/album/3cnsMBiTASrdQFcHr5PFw8) | 3:38 |
-| 152 | [High 4 U](https://open.spotify.com/track/7nN66IfwAnARgtEbY1fY65) | [Gabe Lopez](https://open.spotify.com/artist/2MlP8ZN4cRAtowcIUz3rDn) | [High 4 U](https://open.spotify.com/album/75FeseHBlIROd916vvOO95) | 3:44 |
-| 153 | [Famous](https://open.spotify.com/track/2QKRw7FCHQlf5BnyzfqP7Z) | [ERLY](https://open.spotify.com/artist/2z7Bw7TpA0GEbtU3dJRK6I) | [Famous](https://open.spotify.com/album/6wdgS4Kf0SeJYj94dGnHfC) | 2:54 |
-| 154 | [MERKAVÁ](https://open.spotify.com/track/6lv3CY0BItKVXV42uhGbSG) | [Kibbutz Paradiso](https://open.spotify.com/artist/21vbXHIW0qY3qchdDPmAmB) | [MERKAVÁ](https://open.spotify.com/album/5TvvDO3PiMc1kfoRblhIy9) | 3:09 |
-| 155 | [Long Road](https://open.spotify.com/track/2gPEhLllYJk4TJEImgepZo) | [Gabe Lopez](https://open.spotify.com/artist/2MlP8ZN4cRAtowcIUz3rDn) | [Long Road](https://open.spotify.com/album/59M2qLszFxLN5iaZs4z069) | 4:34 |
-| 156 | [Right Where You Are](https://open.spotify.com/track/2307yeehd1mnWpkp61zVsl) | [Jah Gordy](https://open.spotify.com/artist/7vhU9v9k5lKGnq7It37m7e) | [Right Where You Are](https://open.spotify.com/album/5OHTZkWxOvhQqmbL8XBn4U) | 3:12 |
-| 157 | [Vidas Encima](https://open.spotify.com/track/5wf12p0gBoVgadS11Om8HP) | [Mila Mores](https://open.spotify.com/artist/5tSv00kcb2Ecjk0RPfuhR1), [Nebulosa](https://open.spotify.com/artist/1vFTHtuByTvVIo6T6bfxww) | [Vidas Encima](https://open.spotify.com/album/4L3il88jy1KvgFL42OJd0r) | 2:32 |
-| 158 | [Summer Haze](https://open.spotify.com/track/0VvjNKaNygEcp14lV5a0rW) | [BETHY](https://open.spotify.com/artist/2AMYoSyrndaS01IOijAuhP) | [Summer Haze](https://open.spotify.com/album/4yE34Y8GLsFTh2fX7nfQsQ) | 4:03 |
-| 159 | [Stone Cold](https://open.spotify.com/track/5nhMFNMxM9xqsrpSUseVMo) | [Journee](https://open.spotify.com/artist/3tr38dT5o6Kk5WO5OtmPoa) | [Stone Cold](https://open.spotify.com/album/0T5HJxaYyU7bYD7fV4Jd3q) | 2:56 |
+| 146 | [FIRST DAY OF AUTUMN](https://open.spotify.com/track/5A4ZfTLxKMkuzvMyWLb6pt) | [SECCONDS](https://open.spotify.com/artist/7tItLsl2R7hskSXD4vBU3P) | [FIRST DAY OF AUTUMN](https://open.spotify.com/album/5eXVG2anuIsOGXHsNlkxy3) | 2:18 |
+| 147 | [Wildfire](https://open.spotify.com/track/4fIyeZdoBzGbiM55qu6sqn) | [shakambo](https://open.spotify.com/artist/3nSa4FPPtXIgPgS0OEyzdK), [Alice Chahbazian](https://open.spotify.com/artist/760DzrccQcStjJpW2xyM4U) | [Inner Eyes](https://open.spotify.com/album/1nYAmC0vXbGbDGtkAtpxaM) | 3:08 |
+| 148 | [21](https://open.spotify.com/track/4HTFtC02xdq7kAPPYbtKrU) | [Edward Sun](https://open.spotify.com/artist/7mbrKjLcZg7X6rSMVD4Tae) | [21](https://open.spotify.com/album/1JtKQX1KImh1wy9LIXs5NU) | 3:31 |
+| 149 | [One of These Days](https://open.spotify.com/track/3IhbULMroBoxwryTBFh6qD) | [Olaf Blackwood](https://open.spotify.com/artist/7Fb4bPwUT0mrtDXt2qmJEp), [Dillgin](https://open.spotify.com/artist/2x8XlusUgX2EJ0b428FMsI) | [One of These Days](https://open.spotify.com/album/50uaLs4YAnD5Nn0VjToYDJ) | 3:22 |
+| 150 | [Same Anymore](https://open.spotify.com/track/5Bm6iBHDIDUSYYv2TN0nf8) | [Ariel Marie](https://open.spotify.com/artist/3iG7MlXx4LYOkqf2p0ntO8) | [Same Anymore](https://open.spotify.com/album/5KtrQEOxIHBjkLzYfalA9k) | 2:11 |
+| 151 | [Open](https://open.spotify.com/track/14sDCw3S0JDCZ4XaBoU1D2) | [ERLY](https://open.spotify.com/artist/2z7Bw7TpA0GEbtU3dJRK6I) | [Open](https://open.spotify.com/album/0ZIVRIn9rEXuIQQmVkZ1P7) | 2:31 |
+| 152 | [Prototype](https://open.spotify.com/track/73TuwDKpisKrec29FeTVY6) | [Chizuko](https://open.spotify.com/artist/7aMeiY0WImBZ68czDFq2H3) | [Prototype](https://open.spotify.com/album/6Tb2vlc3BLNLErsS6mCyZE) | 3:06 |
+| 153 | [I Am Absolutely and Without a Doubt I’m Almost Sure](https://open.spotify.com/track/3Usds5Xfwl6SblDnn5uj4x) | [Gabe Lopez](https://open.spotify.com/artist/2MlP8ZN4cRAtowcIUz3rDn) | [I Am Absolutely and Without a Doubt I’m Almost Sure](https://open.spotify.com/album/3cnsMBiTASrdQFcHr5PFw8) | 3:38 |
+| 154 | [High 4 U](https://open.spotify.com/track/7nN66IfwAnARgtEbY1fY65) | [Gabe Lopez](https://open.spotify.com/artist/2MlP8ZN4cRAtowcIUz3rDn) | [High 4 U](https://open.spotify.com/album/75FeseHBlIROd916vvOO95) | 3:44 |
+| 155 | [Famous](https://open.spotify.com/track/2QKRw7FCHQlf5BnyzfqP7Z) | [ERLY](https://open.spotify.com/artist/2z7Bw7TpA0GEbtU3dJRK6I) | [Famous](https://open.spotify.com/album/6wdgS4Kf0SeJYj94dGnHfC) | 2:54 |
+| 156 | [MERKAVÁ](https://open.spotify.com/track/6lv3CY0BItKVXV42uhGbSG) | [Kibbutz Paradiso](https://open.spotify.com/artist/21vbXHIW0qY3qchdDPmAmB) | [MERKAVÁ](https://open.spotify.com/album/5TvvDO3PiMc1kfoRblhIy9) | 3:09 |
+| 157 | [Long Road](https://open.spotify.com/track/2gPEhLllYJk4TJEImgepZo) | [Gabe Lopez](https://open.spotify.com/artist/2MlP8ZN4cRAtowcIUz3rDn) | [Long Road](https://open.spotify.com/album/59M2qLszFxLN5iaZs4z069) | 4:34 |
+| 158 | [Right Where You Are](https://open.spotify.com/track/2307yeehd1mnWpkp61zVsl) | [Jah Gordy](https://open.spotify.com/artist/7vhU9v9k5lKGnq7It37m7e) | [Right Where You Are](https://open.spotify.com/album/5OHTZkWxOvhQqmbL8XBn4U) | 3:12 |
+| 159 | [Vidas Encima](https://open.spotify.com/track/5wf12p0gBoVgadS11Om8HP) | [Mila Mores](https://open.spotify.com/artist/5tSv00kcb2Ecjk0RPfuhR1), [Nebulosa](https://open.spotify.com/artist/1vFTHtuByTvVIo6T6bfxww) | [Vidas Encima](https://open.spotify.com/album/4L3il88jy1KvgFL42OJd0r) | 2:32 |
+| 160 | [Summer Haze](https://open.spotify.com/track/0VvjNKaNygEcp14lV5a0rW) | [BETHY](https://open.spotify.com/artist/2AMYoSyrndaS01IOijAuhP) | [Summer Haze](https://open.spotify.com/album/4yE34Y8GLsFTh2fX7nfQsQ) | 4:03 |
+| 161 | [Stone Cold](https://open.spotify.com/track/5nhMFNMxM9xqsrpSUseVMo) | [Journee](https://open.spotify.com/artist/3tr38dT5o6Kk5WO5OtmPoa) | [Stone Cold](https://open.spotify.com/album/0T5HJxaYyU7bYD7fV4Jd3q) | 2:56 |
 
-Snapshot ID: `AAA2gsTlTVEbh9+jGt+beQOiDehPr+Bg`
+Snapshot ID: `AAA2huG/59vNM8/5mLMIoaD/xh3hfju2`

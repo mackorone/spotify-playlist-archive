@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Enjoy the freshest K-Pop new releases (Cover: \uc8fc\ud5cc (JOOHONEY)) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Enjoy the freshest K-Pop new releases (Cover: SAY MY NAME (\uc138\uc774\ub9c8\uc774\ub124\uc784)) (\uad6d\ub0b4 \ucd5c\uc2e0\uace1\uc744 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\ub85c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "All New K-Pop (\uad6d\ub0b4 \ucd5c\uc2e0 \uac00\uc694)",
   "tracks": [
     {
@@ -56,6 +56,32 @@
       "duration_ms": 219426,
       "name": "#000000",
       "url": "https://open.spotify.com/track/0u3kHLmxNdplGvVKcQLghr"
+    },
+    {
+      "album": {
+        "name": "#2025 : YOU",
+        "url": "https://open.spotify.com/album/4VUhvfXJVRckcqmxHQlR7h"
+      },
+      "artists": [
+        {
+          "name": "Minit",
+          "url": "https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m"
+        },
+        {
+          "name": "YOUHA",
+          "url": "https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan"
+        },
+        {
+          "name": "cyd",
+          "url": "https://open.spotify.com/artist/7kwuHFUXxIXw1mC7CZ4q7N"
+        }
+      ],
+      "date_added": "2025-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149302,
+      "name": "#2025 : YOU",
+      "url": "https://open.spotify.com/track/5tQfy72NJrNgxO7p2HbZI1"
     },
     {
       "album": {
@@ -30648,6 +30674,24 @@
       "duration_ms": 194086,
       "name": "Born To Be",
       "url": "https://open.spotify.com/track/3RD6gqy2YmBA3fSPYVpPCj"
+    },
+    {
+      "album": {
+        "name": "Borrow your night (Original Soundtrack from Even If This Love Disappears Tonight)",
+        "url": "https://open.spotify.com/album/2dJ3DN0Xk7LZ7LUAMf7ILZ"
+      },
+      "artists": [
+        {
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
+        }
+      ],
+      "date_added": "2025-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Borrow your night",
+      "url": "https://open.spotify.com/track/09AlOqeaIaKCiNrbXRGjJp"
     },
     {
       "album": {
@@ -95400,7 +95444,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-30",
       "duration_ms": 221422,
       "name": "Hiding in the corner again",
       "url": "https://open.spotify.com/track/0zETk3W0dsZ1YfmVpQC10V"
@@ -97224,7 +97268,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-30",
       "duration_ms": 196499,
       "name": "home",
       "url": "https://open.spotify.com/track/6HICMp4ZI9Uzxkgtoy06Ts"
@@ -107552,7 +107596,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-30",
       "duration_ms": 211000,
       "name": "I Still Love You(Prod.RocoBerry)",
       "url": "https://open.spotify.com/track/7BH7bQ7sUAFayKSgBvgXkC"
@@ -120415,6 +120459,24 @@
     },
     {
       "album": {
+        "name": "Jane",
+        "url": "https://open.spotify.com/album/3wMvmlcytfe6HtGtATPKe1"
+      },
+      "artists": [
+        {
+          "name": "Vincent Blue",
+          "url": "https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ"
+        }
+      ],
+      "date_added": "2025-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167853,
+      "name": "Jane",
+      "url": "https://open.spotify.com/track/6Xpwz0VwmEJHxNiTIPx6QN"
+    },
+    {
+      "album": {
         "name": "Jane.",
         "url": "https://open.spotify.com/album/6z4IJIFHHEg1Cka8fWBC3E"
       },
@@ -121020,7 +121082,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-30",
       "duration_ms": 133795,
       "name": "Jingle Berry",
       "url": "https://open.spotify.com/track/6oKFLR3QcAN0n7chs51JHV"
@@ -188667,6 +188729,24 @@
     },
     {
       "album": {
+        "name": "PLANET C : HOME RACE",
+        "url": "https://open.spotify.com/album/0n4RlgdBqwDOFLQ4JoJYNO"
+      },
+      "artists": [
+        {
+          "name": "PLANET C : HOME RACE",
+          "url": "https://open.spotify.com/artist/05XmoJ9gnPg4EQ3422nVoJ"
+        }
+      ],
+      "date_added": "2025-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185333,
+      "name": "REVENANT - All 12 ver.",
+      "url": "https://open.spotify.com/track/7pDLauRzcac6jxhV17Ac83"
+    },
+    {
+      "album": {
         "name": "\uc57d\ud55c\uc601\uc6c5 Class 2 OST from the Netflix Series",
         "url": "https://open.spotify.com/album/4eMZcBs2MfyN4CYKv1UakK"
       },
@@ -225216,7 +225296,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-30",
       "duration_ms": 183299,
       "name": "Thank You, My Love",
       "url": "https://open.spotify.com/track/4h3PMPECdCqdagoYt4ufNH"
@@ -226538,7 +226618,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-30",
       "duration_ms": 296000,
       "name": "THE CHRISTMAS SONG",
       "url": "https://open.spotify.com/track/3uelQTzMtqO2wP8CALVYGS"
@@ -228148,7 +228228,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-30",
       "duration_ms": 243216,
       "name": "The Last Letter to You (Feat. Lee Jang Woo)",
       "url": "https://open.spotify.com/track/23qMnS5JuPBofAitnnntMl"
@@ -229342,6 +229422,24 @@
       "duration_ms": 197720,
       "name": "The One",
       "url": "https://open.spotify.com/track/6ZF0Oxm2KfL246sIELngSZ"
+    },
+    {
+      "album": {
+        "name": "The One I Fell for at First Sight",
+        "url": "https://open.spotify.com/album/4k3gmpkG99sMMbJbTgHZUn"
+      },
+      "artists": [
+        {
+          "name": "Seo Jin Park",
+          "url": "https://open.spotify.com/artist/4TD60P0u4yAHb4fSY3TvSG"
+        }
+      ],
+      "date_added": "2025-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "The One I Fell for at First Sight",
+      "url": "https://open.spotify.com/track/2jw7OMBMFZu1FBi9Kju2Nw"
     },
     {
       "album": {
@@ -241909,6 +242007,24 @@
     },
     {
       "album": {
+        "name": "&Our Vibe",
+        "url": "https://open.spotify.com/album/52f4wYBg1SDSaMMwZ5u3OF"
+      },
+      "artists": [
+        {
+          "name": "SAY MY NAME",
+          "url": "https://open.spotify.com/artist/1YPfjEiECyLURKu09GfilS"
+        }
+      ],
+      "date_added": "2025-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "UFO (ATTENT!ON)",
+      "url": "https://open.spotify.com/track/0u5b93C2mDGVfCsMGCdH6T"
+    },
+    {
+      "album": {
         "name": "IN THE GREEN",
         "url": "https://open.spotify.com/album/0ToiLbwfQN4Vo8iGMiGRxR"
       },
@@ -243802,6 +243918,24 @@
       "duration_ms": 194093,
       "name": "UNTOUCHABLE",
       "url": "https://open.spotify.com/track/2HQALWSN6IF4BYrSADMJ0w"
+    },
+    {
+      "album": {
+        "name": "unveil",
+        "url": "https://open.spotify.com/album/0BIAqguwVanHkVwo2zZOly"
+      },
+      "artists": [
+        {
+          "name": "Darin",
+          "url": "https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W"
+        }
+      ],
+      "date_added": "2025-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234634,
+      "name": "unveil",
+      "url": "https://open.spotify.com/track/77SopjIoX4QGTAWpQnp7fT"
     },
     {
       "album": {
@@ -269376,6 +269510,24 @@
       "duration_ms": 234093,
       "name": "\uac00\ub85c\ub4f1",
       "url": "https://open.spotify.com/track/30IgCzG2PsGmI4oIF0sINN"
+    },
+    {
+      "album": {
+        "name": "\uac00\uc2b4\ub9cc \uc54c\uc8e0",
+        "url": "https://open.spotify.com/album/2F0EZbitDufQw90KcNHnJW"
+      },
+      "artists": [
+        {
+          "name": "\ubc30\uadf8\ub098",
+          "url": "https://open.spotify.com/artist/7Gz2aLwyBcZdS9WqpvBk0p"
+        }
+      ],
+      "date_added": "2025-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224327,
+      "name": "\uac00\uc2b4\ub9cc \uc54c\uc8e0",
+      "url": "https://open.spotify.com/track/44wtAFaSW92GCmTDulV73J"
     },
     {
       "album": {

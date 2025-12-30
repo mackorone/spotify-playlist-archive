@@ -697,6 +697,24 @@
     },
     {
       "album": {
+        "name": "If It Won't Talk of Rain",
+        "url": "https://open.spotify.com/album/3Me2QlgUzw6VbhhbZZPIhl"
+      },
+      "artists": [
+        {
+          "name": "Imogen and the Knife",
+          "url": "https://open.spotify.com/artist/4nfBa9tw0IWAdtirqqmrbY"
+        }
+      ],
+      "date_added": "2024-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218268,
+      "name": "If It Won't Talk of Rain",
+      "url": "https://open.spotify.com/track/7qyPbn5UzBAoFwxg7IMPIl"
+    },
+    {
+      "album": {
         "name": "Four\u00b0 In Winter (Deluxe)",
         "url": "https://open.spotify.com/album/3G1jxG3M4rwWm3CZG4S1Wq"
       },
@@ -888,7 +906,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-30",
       "duration_ms": 233111,
       "name": "Meet Me At The Record Store",
       "url": "https://open.spotify.com/track/1J08Qpd5e0TgwlmhHrBHQY"

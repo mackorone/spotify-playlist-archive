@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > Best of this year's RADAR class\. Cover: Gigi Perez
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,403 likes - 49 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,465 likes - 49 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 38 | [Unknown Island](https://open.spotify.com/track/73r8oPLdOs4IzFpzoNyCVB) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Jupiter=](https://open.spotify.com/album/6ezMwJgOVFFHQYFy3YgZE2) | 4:16 |
 | 39 | [Malakas](https://open.spotify.com/track/5F2HTYUiHQIt4nVgsUwJaE) | [Young Blood Neet](https://open.spotify.com/artist/0Vl8gbpWPr8B6N7g5UtPSU), [Kiyo](https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd) | [Malakas](https://open.spotify.com/album/3YwYxIwy1rItrhCOd56dW9) | 3:03 |
 | 40 | [รักนะเด็กโง่ \(Stupid Girl\)](https://open.spotify.com/track/7mfVUEp99L4yUzNfrq8Iym) | [PONCHET](https://open.spotify.com/artist/0BRKLnTK2MmWWQ2RXJAHQr) | [รักนะเด็กโง่ \(Stupid Girl\)](https://open.spotify.com/album/20rgWspabRP8RksEeQn6Tp) | 4:01 |
-| 41 | [BLACK N’ WHITE](https://open.spotify.com/track/463Qg3HAd8KjE1YrSHgm6X) | [Dilaw](https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL) | [BLACK N’ WHITE](https://open.spotify.com/album/5RgURAiikPG10alZtMwltX) | 3:16 |
-| 42 | [COCINE Y COCINE](https://open.spotify.com/track/022iMnAwAf64XrD6DcFfwd) | [Doony Graff](https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0), [Onemillionkisses](https://open.spotify.com/artist/6VFfbiFmNQ9pmbUxHL7F1c) | [NO ACEPTEN IMITACIONES](https://open.spotify.com/album/2mGO4bU7bgrFwEtcusFoIj) | 2:35 |
+| 41 | [COCINE Y COCINE](https://open.spotify.com/track/022iMnAwAf64XrD6DcFfwd) | [Doony Graff](https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0), [Onemillionkisses](https://open.spotify.com/artist/6VFfbiFmNQ9pmbUxHL7F1c) | [NO ACEPTEN IMITACIONES](https://open.spotify.com/album/2mGO4bU7bgrFwEtcusFoIj) | 2:35 |
+| 42 | [BLACK N’ WHITE](https://open.spotify.com/track/463Qg3HAd8KjE1YrSHgm6X) | [Dilaw](https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL) | [BLACK N’ WHITE](https://open.spotify.com/album/5RgURAiikPG10alZtMwltX) | 3:16 |
 | 43 | [Vui Đét](https://open.spotify.com/track/5e1kUuII1bqgwu8fjuFNxE) | [CoolKid](https://open.spotify.com/artist/1Qia4CTwh6x0CZbD0079zi), [RHYDER](https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ), [BAN](https://open.spotify.com/artist/0CO1IZAPmgTbkfXvcRCLsL), [Duy B](https://open.spotify.com/artist/5PMctPa8RxN3yzRVm93SI0), [Trix](https://open.spotify.com/artist/6n5eDbbT3ErAGFipwc9DEg) | [Vui Đét](https://open.spotify.com/album/6UmKSgtvHaQ62A2LHDQyuB) | 3:12 |
 | 44 | [Kehdo Na](https://open.spotify.com/track/5UNN2SnmrqvYMFpREy7vZz) | [JANI](https://open.spotify.com/artist/63L8XYlQRWRGlg1d4ujXDc), [Rithmetic](https://open.spotify.com/artist/3cX78aMow7ykBLA6cTnB3a) | [Kehdo Na](https://open.spotify.com/album/7zWYyvK6weW41BYS5vd7hV) | 3:03 |
 | 45 | [Wst Lmraya](https://open.spotify.com/track/2MMMwRctD1NszGJAVxmkTH) | [Kawtar](https://open.spotify.com/artist/4B9s73FXhLx5FXLabyWa2m) | [Wst Lmraya](https://open.spotify.com/album/626dTAFiyQb5tfevK8pVv3) | 2:54 |

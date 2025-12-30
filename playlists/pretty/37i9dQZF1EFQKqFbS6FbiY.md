@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQKqFbS6FbiY.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v">Waleria Leão</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 309 likes - 476 songs - 23 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 310 likes - 476 songs - 23 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -172,8 +172,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQKqFbS6FbiY.md) - [plain]
 | 162 | [Mil Corações \- Ao Vivo](https://open.spotify.com/track/6ndNvy3bDKHEha7j7zSFC9) | [Bruno & Barretto](https://open.spotify.com/artist/70x9rYb58QCNNeNxuO3StS) | [Buteco Raiz \(Só As Derramadas\) \[Ao Vivo\]](https://open.spotify.com/album/2QUwcnKuQauMomrEftu2Ai) | 3:16 |
 | 163 | [Melhor Amigo](https://open.spotify.com/track/48ifnGiLHzn8JoMMvpbUxb) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB) | [Eu & Vocês](https://open.spotify.com/album/1f8YCAl0luu06wsqgr9cns) | 3:42 |
 | 164 | [Pedra E Água](https://open.spotify.com/track/0pN7UDsCwLGkaa8w2K6wuM) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y), [Paula Fernandes](https://open.spotify.com/artist/1nca3OA1kKCpP6aPJcBL92) | [Natural](https://open.spotify.com/album/6Kz30EyV9GDxUnOnANY3p4) | 2:57 |
-| 165 | [Bloqueia Desbloqueia](https://open.spotify.com/track/79VvHTQvov4VxxLlferepm) | [Avine Vinny](https://open.spotify.com/artist/4KDxYlnGZEiS60pAnfZf4W), [Gabi Martins](https://open.spotify.com/artist/3bMxoALDz4DJM8pJG0bnvs) | [Naturalmente](https://open.spotify.com/album/7bDfs6Kve80q3rNgBJ0vff) | 2:46 |
-| 166 | [Doeu \- Acústico](https://open.spotify.com/track/7MSZYf8ie1nwrc2DMQuJjc) | [Eduardo Costa](https://open.spotify.com/artist/2OUgs5INWK2UEvZ6amWiJr) | [Eduardo Costa Acústico](https://open.spotify.com/album/5HY8HeLi0GBplaz4quxK9S) | 3:09 |
+| 165 | [Doeu \- Acústico](https://open.spotify.com/track/7MSZYf8ie1nwrc2DMQuJjc) | [Eduardo Costa](https://open.spotify.com/artist/2OUgs5INWK2UEvZ6amWiJr) | [Eduardo Costa Acústico](https://open.spotify.com/album/5HY8HeLi0GBplaz4quxK9S) | 3:09 |
+| 166 | [Bloqueia Desbloqueia](https://open.spotify.com/track/79VvHTQvov4VxxLlferepm) | [Avine Vinny](https://open.spotify.com/artist/4KDxYlnGZEiS60pAnfZf4W), [Gabi Martins](https://open.spotify.com/artist/3bMxoALDz4DJM8pJG0bnvs) | [Naturalmente](https://open.spotify.com/album/7bDfs6Kve80q3rNgBJ0vff) | 2:46 |
 | 167 | [Sofrendo No Mercado](https://open.spotify.com/track/5f3Um6a4Euj9j5dXrRM2bp) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB) | [Outros 500](https://open.spotify.com/album/1ZIB0ralycQip2gjNJ1iTC) | 2:44 |
 | 168 | [Toca Aqui \- Ao Vivo](https://open.spotify.com/track/6nSfaqKke7PrDgPdL2hXjD) | [Gabriel Diniz](https://open.spotify.com/artist/3WQ1s2QFvL6crxBvrVhwzj) | [Gabriel Diniz Na Ilha \(Ao Vivo\)](https://open.spotify.com/album/6byjd01Gc7WfKauc1zJfWp) | 2:36 |
 | 169 | [De Amor Virei Amante \(feat\. César Menotti & Fabiano\) \- Ao Vivo](https://open.spotify.com/track/7heAgXjqhJ0BHmkIhPIfiA) | [Diego & Arnaldo](https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft), [César Menotti & Fabiano](https://open.spotify.com/artist/08yxJfM5RnFAjJvMJIFnvh) | [Ao Vivo em Goiânia](https://open.spotify.com/album/2lFI0KAX7HvEa82V3BoDRP) | 3:29 |
@@ -477,12 +477,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQKqFbS6FbiY.md) - [plain]
 | 467 | [Pezin na Rua](https://open.spotify.com/track/1DpHkJ32dBZStaZaNtLjyC) | [Bonde Dos PlayBoys E Sucesso E Moral](https://open.spotify.com/artist/7F2sxEYl0pDlaEoMNJy6mC), [Jucimar Fraga](https://open.spotify.com/artist/5Dq3HA6ZdnRhQDdNhOYa3K) | [A Pizadinha dos Vaqueiros](https://open.spotify.com/album/3N4L0bQPkQTCc6A6LozQMC) | 3:17 |
 | 468 | [Ex do Atual](https://open.spotify.com/track/1cggpuByVzRuAmZIDHGbva) | [Baile da Sofrência](https://open.spotify.com/artist/77JIVmVElb2R95S2rPwxwk) | [Atualizou Vei 2](https://open.spotify.com/album/13RGuRxJweYjHRYaMVYmB6) | 3:18 |
 | 469 | [Amorzinho Meia Boca](https://open.spotify.com/track/64qDlct5yxqcZQkfSm7F8Q) | [Guto e Rafael](https://open.spotify.com/artist/0YzQuhhZMbqDepWhuSANAp) | [Ao Vivo em Goiânia](https://open.spotify.com/album/0OFyjM0idm1n0AmVRaw9q6) | 2:43 |
-| 470 | [To Indo](https://open.spotify.com/track/0GfxOemm4Tk5Cb8nvZOpHo) | [Leozinho Imperador](https://open.spotify.com/artist/6ZsRxwmi4QfJZGKxZ7iUnA) | [Seresta 3..0](https://open.spotify.com/album/2ot0sxu7VXV0gTV0qpvpeW) | 3:12 |
-| 471 | [Marmitinha](https://open.spotify.com/track/3cdflOSboPlrgqI0PMNE8a) | [Gutta dos teclados](https://open.spotify.com/artist/5yWCuE0xJrDFBUH6PKg2ks), [Bonde Sertanejo](https://open.spotify.com/artist/0vN8FZVUDJbBXRs1YLwYkH) | [Marmitinha](https://open.spotify.com/album/0B5lobwO5JHIOwGCFlpK0v) | 2:36 |
+| 470 | [Marmitinha](https://open.spotify.com/track/3cdflOSboPlrgqI0PMNE8a) | [Gutta dos teclados](https://open.spotify.com/artist/5yWCuE0xJrDFBUH6PKg2ks), [Bonde Sertanejo](https://open.spotify.com/artist/0vN8FZVUDJbBXRs1YLwYkH) | [Marmitinha](https://open.spotify.com/album/0B5lobwO5JHIOwGCFlpK0v) | 2:36 |
+| 471 | [To Indo](https://open.spotify.com/track/0GfxOemm4Tk5Cb8nvZOpHo) | [Leozinho Imperador](https://open.spotify.com/artist/6ZsRxwmi4QfJZGKxZ7iUnA) | [Seresta 3..0](https://open.spotify.com/album/2ot0sxu7VXV0gTV0qpvpeW) | 3:12 |
 | 472 | [Insubstituível](https://open.spotify.com/track/47okPEuAduPfgjuQcztMwi) | [Rogério & Vinicius](https://open.spotify.com/artist/242npdM1FeToWKENN5PVmn) | [Fazendinha](https://open.spotify.com/album/3J2YtXqpEVUPYdOggCrKij) | 3:46 |
 | 473 | [Grau de Maluca](https://open.spotify.com/track/3aOrCKBQwKKYyduOfWt9Kl) | [Banda Real Som Oficial De MT](https://open.spotify.com/artist/4nhdf1JFBVHE7WkTKzlsrH), [LAMBADÃO 100% TOP DAS TOP](https://open.spotify.com/artist/1fxGzvSW8Ailwj0ZDVRUu3) | [Grau de Maluca](https://open.spotify.com/album/5mwVA36hr5CsF9IlmrQNfO) | 2:47 |
 | 474 | [Alvo do Momento](https://open.spotify.com/track/3rXT5CneW37V8CSsEZg54b) | [Alan Leone](https://open.spotify.com/artist/32WmuufLEw06IjhxQugF2J) | [Alvo do Momento](https://open.spotify.com/album/3YptyQwgcEpZytla1PGwkg) | 3:32 |
 | 475 | [Atriz](https://open.spotify.com/track/1MQpRk7UufrJcbGaZz0bAO) | [Raffaow](https://open.spotify.com/artist/0sKN6JacROezQegp6odXKB), [DJ mussa](https://open.spotify.com/artist/2pCvidAw5BIyIdpaYJose1) | [Atriz](https://open.spotify.com/album/2nhQW4WrGNgKN9XIhbLEY4) | 2:16 |
 | 476 | [Tudo em Minha Volta](https://open.spotify.com/track/0u2JYPHwIoYCZV52UxDEIN) | [Ronny e Ronney](https://open.spotify.com/artist/6ITm7OZvd7ogcjDsQghri5) | [Tudo em Minha Volta](https://open.spotify.com/album/7G0Vbn40xoQtM4cc9hmPde) | 2:25 |
 
-Snapshot ID: `AcFd0AAAAAAnorgWc4KOW+hX/iwJ+M7s`
+Snapshot ID: `AcFjcAAAAADZRt0iZAHEgVbRQ6dUN7Uv`

@@ -2,7 +2,7 @@
 
 ### [Kittydog Radio](https://open.spotify.com/playlist/37i9dQZF1E4qAjSdPy5fYi)
 
-> With UrvTek, STYXVII, Joshua Lanuarii and more
+> With STYXVII, UrvTek, Joshua Lanuarii and more
 
 259 songs - 11 hr 14 min
 
@@ -117,7 +117,7 @@
 | [HOW TO FORGET YOU \(destroy you\)](https://open.spotify.com/track/0fSMq4iJJXWK65V1H5umyb) | [STYXVII](https://open.spotify.com/artist/6GLOrqLFhWmv13y61JRXjU) | [WHAT HAPPENS WHEN 2 STARS COLLIDE & FINDING OUT THE HARD WAY](https://open.spotify.com/album/7EN6kUGBPG0pRywaOKCjjL) | 2:54 | 2025-02-13 |  |
 | [I Don't Wanna](https://open.spotify.com/track/3urfoYovXzyQNvuMkyiswv) | [milkypossum](https://open.spotify.com/artist/4QmgIxc22zXAvaooVw3AtX) | [「THE NEET EP」](https://open.spotify.com/album/0m9s6cp0EllCZrtPLFeru5) | 1:49 | 2025-09-22 | 2025-09-23 |
 | [i love u vro!](https://open.spotify.com/track/3az3CmGD2sWLsoIQZrVZi5) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [i love u vro!](https://open.spotify.com/album/6CtOfCm189PvKTXotY1GVD) | 2:46 | 2025-05-28 | 2025-05-30 |
-| [I Need Coffee \- Remix](https://open.spotify.com/track/10hQaGJs4fnENxawWcwkPL) | [WoopDoo](https://open.spotify.com/artist/6AQxB8licfD7NCm3tM5mwO), [Yuugen Vinny](https://open.spotify.com/artist/1nvB0StZyH1YkYZZ1IE7dE), [K.C.](https://open.spotify.com/artist/5TsA4C4tFtjDx096u6iJEJ) | [I Need Coffee \(Remix\)](https://open.spotify.com/album/274hzi9o9McMjY6x97RZw0) | 3:21 | 2025-02-13 |  |
+| [I Need Coffee \- Remix](https://open.spotify.com/track/10hQaGJs4fnENxawWcwkPL) | [WoopDoo](https://open.spotify.com/artist/6AQxB8licfD7NCm3tM5mwO), [Yuugen Vinny](https://open.spotify.com/artist/1nvB0StZyH1YkYZZ1IE7dE), [K.C.](https://open.spotify.com/artist/5TsA4C4tFtjDx096u6iJEJ) | [I Need Coffee \(Remix\)](https://open.spotify.com/album/274hzi9o9McMjY6x97RZw0) | 3:21 | 2025-02-13 | 2025-12-30 |
 | [I NEED THAT](https://open.spotify.com/track/6iNN3A4TUf8mRNXg8Wv3hw) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [DIRECTIONS](https://open.spotify.com/album/5HxRt4TfOBAXICEvozEFvu) | 2:17 | 2025-07-12 | 2025-07-13 |
 | [i only got one](https://open.spotify.com/track/78lrxMDObspPOaFyLYgzoL) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [i only got one](https://open.spotify.com/album/3c7bZRslufiDbDTjsyV2w7) | 1:10 | 2024-12-14 | 2025-05-30 |
 | [I REALLY REALLY REALLY HATE THE WORLD BUT THAT'S OK AT LEAST I'VE GOT MY GABBER DRUM](https://open.spotify.com/track/0dBffLuyZ97YHFTbTWby2D) | [MAILPUP](https://open.spotify.com/artist/1YXXjmAQ98z6jyry7yj3Mk) | [MAILPUP](https://open.spotify.com/album/3JW5phtrelhiFkkZic6j7o) | 2:12 | 2025-09-13 | 2025-09-14 |
@@ -129,7 +129,7 @@
 | [I'm Just Fucking With You \- Yes, You Specifically!](https://open.spotify.com/track/2DTOLPmI1jtSIzITEhlPaW) | [4lung](https://open.spotify.com/artist/0OJS9aMfVg5cd30ZXyHU9L) | [The New 4lung Album](https://open.spotify.com/album/22c09N3mhbcRXuk7QGzfxe) | 2:51 | 2025-12-05 | 2025-12-15 |
 | [I'm Your Baby](https://open.spotify.com/track/2Xku3AcjgS3XdegLcFg6Z4) | [Daxbak](https://open.spotify.com/artist/0vZWStLrUoq98j8cRH2Adv) | [I'm Your Baby](https://open.spotify.com/album/7fZ48NMjXmSMRC12cPBkr8) | 2:19 | 2025-02-14 | 2025-05-28 |
 | [ICE CREAM PARTY](https://open.spotify.com/track/3SvmZCUGalhWSHFaNVOkhn) | [Daxbak](https://open.spotify.com/artist/0vZWStLrUoq98j8cRH2Adv), [EwMakl](https://open.spotify.com/artist/2n7Xh46sy6OyqtyxzZq6mv) | [ICE CREAM PARTY](https://open.spotify.com/album/0Uy3K5JuxOgclVo0QkYbU7) | 2:13 | 2024-12-19 | 2025-12-22 |
-| [IDK](https://open.spotify.com/track/0SF9NvnC6FIxeePYEMD93k) | [little purr man](https://open.spotify.com/artist/2EtVScBCzjWga2zZeg3IHn) | [IDK](https://open.spotify.com/album/1A2J8rZmQaAHVFBWzW3I5v) | 1:39 | 2024-12-16 | 2025-12-24 |
+| [IDK](https://open.spotify.com/track/0SF9NvnC6FIxeePYEMD93k) | [little purr man](https://open.spotify.com/artist/2EtVScBCzjWga2zZeg3IHn) | [IDK](https://open.spotify.com/album/1A2J8rZmQaAHVFBWzW3I5v) | 1:39 | 2024-12-16 |  |
 | [IDOLiZER](https://open.spotify.com/track/3ubsCWDJ0AJW9mb4NTgJS6) | [STYXVII](https://open.spotify.com/artist/6GLOrqLFhWmv13y61JRXjU) | [WHAT HAPPENS WHEN 2 STARS COLLIDE & FINDING OUT THE HARD WAY](https://open.spotify.com/album/7EN6kUGBPG0pRywaOKCjjL) | 2:33 | 2024-12-14 |  |
 | [im part of the PAWblem​!​!](https://open.spotify.com/track/5eNXQgN4mtfLuMkBtYbB0l) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [im part of the PAWblem​!​!](https://open.spotify.com/album/660oyPv15JOys26fZXNdE7) | 1:40 | 2025-02-17 | 2025-07-29 |
 | [imaginary friend](https://open.spotify.com/track/4BwnBxo64tb5FXsGfUEpWR) | [little purr man](https://open.spotify.com/artist/2EtVScBCzjWga2zZeg3IHn) | [imaginary friend](https://open.spotify.com/album/017ucwQN1BKdBnv8LUXeuK) | 1:00 | 2024-12-14 | 2025-02-13 |
@@ -204,8 +204,8 @@
 | [Poison](https://open.spotify.com/track/4BTQE2k73nlnLIGixrfOgF) | [LuLuYam](https://open.spotify.com/artist/4TAg5ckpTlxXLPTJW4eDMo) | [Poison](https://open.spotify.com/album/49NXGz55zTSV1fWkuiFTwW) | 4:17 | 2025-02-18 | 2025-09-01 |
 | [ppl go blush](https://open.spotify.com/track/1ch58lPqUtYxKgoehzJ0WY) | [Kittydog](https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v) | [ppl go blush](https://open.spotify.com/album/0zAC29aLHjP0Qg0Tq237bd) | 1:13 | 2024-12-16 | 2025-05-30 |
 | [pretty boys in pretty skirts](https://open.spotify.com/track/5ZDBaavUKppyIbim097YC2) | [SPARKLEWOLF RADIO](https://open.spotify.com/artist/1qIh3IaG7woULdhZ919jL0) | [adhd & attachment issues](https://open.spotify.com/album/5CLtHc5xDGdSU1dblmA4Iu) | 2:53 | 2024-12-14 | 2025-10-06 |
-| [PROTECC ATTACC SEXYBACC](https://open.spotify.com/track/5OV6z8zXnqheKOUmNeBskw) | [MAILPUP](https://open.spotify.com/artist/1YXXjmAQ98z6jyry7yj3Mk) | [MAILPUP](https://open.spotify.com/album/3JW5phtrelhiFkkZic6j7o) | 2:27 | 2025-04-01 |  |
-| [PUPPY TF](https://open.spotify.com/track/7Mf4WiQGRUBhWhDjiYjbLt) | [Ida Deerz](https://open.spotify.com/artist/5sfvNysQqGIyLAyd2CxHnO) | [idaidaida](https://open.spotify.com/album/2MH0snsDzFgboLpkp3eKyI) | 1:25 | 2024-12-14 | 2025-12-23 |
+| [PROTECC ATTACC SEXYBACC](https://open.spotify.com/track/5OV6z8zXnqheKOUmNeBskw) | [MAILPUP](https://open.spotify.com/artist/1YXXjmAQ98z6jyry7yj3Mk) | [MAILPUP](https://open.spotify.com/album/3JW5phtrelhiFkkZic6j7o) | 2:27 | 2025-04-01 | 2025-12-30 |
+| [PUPPY TF](https://open.spotify.com/track/7Mf4WiQGRUBhWhDjiYjbLt) | [Ida Deerz](https://open.spotify.com/artist/5sfvNysQqGIyLAyd2CxHnO) | [idaidaida](https://open.spotify.com/album/2MH0snsDzFgboLpkp3eKyI) | 1:25 | 2024-12-14 |  |
 | [PUPPYPLAY!](https://open.spotify.com/track/0RdfDzFw6NHp3nUX99cOr4) | [MAILPUP](https://open.spotify.com/artist/1YXXjmAQ98z6jyry7yj3Mk), [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180), [sixwing](https://open.spotify.com/artist/5sWRqo85wbqXVUAw3c6FTV) | [PUPPYPLAY!](https://open.spotify.com/album/6cQzQgCOSGauQVoR7aD8uP) | 2:52 | 2025-10-21 | 2025-11-27 |
 | [Raccoon Tails & Knotted Dicks](https://open.spotify.com/track/64opscMZGO282zh8UwINxp) | [4lung](https://open.spotify.com/artist/0OJS9aMfVg5cd30ZXyHU9L) | [The New 4lung Album](https://open.spotify.com/album/22c09N3mhbcRXuk7QGzfxe) | 3:14 | 2025-12-13 | 2025-12-14 |
 | [rainbowz x3!!!](https://open.spotify.com/track/1ywjkcrMyYbXBbV2I235C1) | [SPARKLEWOLF RADIO](https://open.spotify.com/artist/1qIh3IaG7woULdhZ919jL0) | [rainbowz x3!!!](https://open.spotify.com/album/28OPrD4yG1r0b1rGDwiHUf) | 2:40 | 2024-12-14 | 2025-10-06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdBREWaHui4o.md) - [plain]
 
 > Editors pick the best songs from Anime Now in 2025\.  2025年にプレイリスト「Anime Now」で聴かれた楽曲を総まとめ。cover: Aina the End アイナ・ジ・エンド
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,681 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,790 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

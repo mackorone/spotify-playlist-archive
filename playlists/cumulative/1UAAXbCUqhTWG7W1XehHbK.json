@@ -1737,6 +1737,24 @@
     },
     {
       "album": {
+        "name": "Puppets Know",
+        "url": "https://open.spotify.com/album/5wmSnx6DHERdTs3YBS1gFy"
+      },
+      "artists": [
+        {
+          "name": "Evil Level Live",
+          "url": "https://open.spotify.com/artist/17Vx9T9t73p6DolImgRoqe"
+        }
+      ],
+      "date_added": "2025-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312076,
+      "name": "Puppets Know",
+      "url": "https://open.spotify.com/track/0VwH13oGDjk5biSprNZHZH"
+    },
+    {
+      "album": {
         "name": "Pygmalion",
         "url": "https://open.spotify.com/album/4XRfovNWHvvqmBc8O3uXiI"
       },

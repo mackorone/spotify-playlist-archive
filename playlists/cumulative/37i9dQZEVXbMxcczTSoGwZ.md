@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-2,987 songs - 6 day 12 hr 53 min
+2,988 songs - 6 day 12 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1114,7 +1114,7 @@
 | [Kerran sadassa vuodessa](https://open.spotify.com/track/4W8bgGfdz0LFgWfEeAIWzu) | [KUUMAA](https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr) | [Pisara meressä](https://open.spotify.com/album/3fTUkVNp5a3EgCh9Q4NpXA) | 3:17 | 2024-04-20 | 2024-05-02 |
 | [Kerro mulle](https://open.spotify.com/track/2a7TN2TT1wJqZgkTZSbwD3) | [YOUNGHEARTED](https://open.spotify.com/artist/6FJu9BhZBw8ZWFtFR3c9uX) | [Kerro mulle](https://open.spotify.com/album/2Y0ACTy2R9ZGlH1Nxc98AH) | 2:41 | 2025-05-24 | 2025-05-26 |
 | [Kerron sulle kaiken](https://open.spotify.com/track/0hKdhAM8Uvf1rAzbOFnG5h) | [ELLIMEI](https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra) | [Kerron sulle kaiken](https://open.spotify.com/album/3nz9F7b8AhTLWMbtwyNKB1) | 2:53 | 2024-06-29 | 2024-07-01 |
-| [Kersantti Karoliina](https://open.spotify.com/track/2JQlsdVy9bB9Otx8lxsFKn) | [Popeda](https://open.spotify.com/artist/2bEPloIrEwXQwm9myrXW2P) | [Svoboda](https://open.spotify.com/album/58uNQTvTsjbCSnE8ThYWh1) | 3:00 | 2025-12-27 |  |
+| [Kersantti Karoliina](https://open.spotify.com/track/2JQlsdVy9bB9Otx8lxsFKn) | [Popeda](https://open.spotify.com/artist/2bEPloIrEwXQwm9myrXW2P) | [Svoboda](https://open.spotify.com/album/58uNQTvTsjbCSnE8ThYWh1) | 3:00 | 2025-12-27 | 2025-12-30 |
 | [Kertoimia Vastaan](https://open.spotify.com/track/4QfhwWVpaIaXihhpweCuRi) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf) | [Kertoimia Vastaan](https://open.spotify.com/album/4MAXw4hnzob9pRMyfLS3E4) | 3:17 | 2023-09-01 | 2024-01-07 |
 | [Kesken](https://open.spotify.com/track/1rv6MexjciSFCGVbLNxrHh) | [SANNI](https://open.spotify.com/artist/7meg3neLTT2WR1LDjL8jze) | [Kesken](https://open.spotify.com/album/0MsTy2l9S3AWFAqaDMe1t8) | 3:34 | 2021-10-10 | 2021-11-28 |
 | [Keskiyön Cowboy](https://open.spotify.com/track/2kBkIwAtwn2Y6pjuoEfWLK) | [Lauri Tähkä](https://open.spotify.com/artist/2ZyR5hOnG5pyMrbqJTXgtN) | [Keskiyön Cowboy](https://open.spotify.com/album/62A72GOapg8ibPDcRG12P9) | 3:11 | 2021-08-29 | 2021-09-12 |
@@ -2048,6 +2048,7 @@
 | [R.E.S.P.E.C.T.](https://open.spotify.com/track/5gD9kf2QGNUaYXElN4nhX5) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [R.E.S.P.E.C.T.](https://open.spotify.com/album/2MMV8GzondHik3fodFhOZG) | 2:12 | 2022-08-06 | 2022-08-23 |
 | [R.E.S.P.E.C.T.](https://open.spotify.com/track/78P8mP7LWZ1bx7pllu9xsH) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Tykkäät kummiski](https://open.spotify.com/album/715VRR7Xw2Y4rSxEMH8X5n) | 2:12 | 2022-08-27 | 2022-09-01 |
 | [Rah Tah Tah](https://open.spotify.com/track/5RePVWy39tLpHH0WwXgBsK) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 2:45 | 2024-10-29 | 2024-10-31 |
+| [Raindance \(feat\. Tems\)](https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:39 | 2025-12-29 |  |
 | [Raitis mies](https://open.spotify.com/track/7C9v1wtuvDC0xu0W63cDGD) | [Elias Gould](https://open.spotify.com/artist/2vMYb9ojrYEFFcz0IRF2b3) | [Raitis mies](https://open.spotify.com/album/5PVYX6qp9lkCrv6HfcSfZI) | 2:50 | 2024-04-13 | 2024-04-15 |
 | [Rajal \(feat\. ibe, Ares & Elastinen\)](https://open.spotify.com/track/5grPmKSW7p7wxMzaje5SRP) | [MD$](https://open.spotify.com/artist/0bYIAEOrNahTLQkecy5944), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA), [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI) | [Rajal \(feat\. ibe, Ares & Elastinen\)](https://open.spotify.com/album/43jsrZfxsf5FYf20772F3t) | 3:05 | 2023-10-21 | 2023-11-05 |
 | [Rakasta mua, rakasta mua, rakasta](https://open.spotify.com/track/6bALO8Bm07OPy15XYp6Ojb) | [Sara Siipola](https://open.spotify.com/artist/0cv9YYFgE0vLVgTjMrOZup) | [Rakasta mua, rakasta mua, rakasta](https://open.spotify.com/album/07CBnYfIo4ry5oiumvV81z) | 3:04 | 2024-09-07 | 2024-11-03 |
@@ -2463,8 +2464,8 @@
 | [Tahdon](https://open.spotify.com/track/6uH0ZNvrGpJ9YNcQgeydmw) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Älä pelkää elämää](https://open.spotify.com/album/6CHpJofiGTiA1GjaKbqpfo) | 4:05 | 2021-09-12 | 2021-09-26 |
 | [Tahdon rakastella sinua \(Vain elämää kausi 16\)](https://open.spotify.com/track/1gYpt8o3CRcYaQrr3NIRim) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Tahdon rakastella sinua \(Vain elämää kausi 16\)](https://open.spotify.com/album/2JPj6V2mtr2DNOYIrJ2HQE) | 2:33 | 2025-10-15 | 2025-10-18 |
 | [Tahdon rakastella sinua \(Vain elämää kausi 16\)](https://open.spotify.com/track/2P4WCxlGWpJiHacsAUBxZj) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Tahdon rakastella sinua \(Vain elämää kausi 16\)](https://open.spotify.com/album/2Vd1PcIQvuM04BCeKPKdZs) | 2:33 | 2025-09-27 | 2025-10-16 |
-| [Tahdotko Mut Tosiaan](https://open.spotify.com/track/5G5sJcaGLU9Equzq5NgN9z) | [Popeda](https://open.spotify.com/artist/2bEPloIrEwXQwm9myrXW2P) | [H.Ö.N.Ö.](https://open.spotify.com/album/3JYUQxBNq3b4GxZxkf5b9n) | 3:41 | 2025-12-27 | 2025-12-29 |
-| [Tahdotko Mut Tosiaan](https://open.spotify.com/track/5F4aDPLL4bO2ODkAZAKZdH) | [Popeda](https://open.spotify.com/artist/2bEPloIrEwXQwm9myrXW2P) | [Hittejä, Kersantti Karoliina](https://open.spotify.com/album/4QLAIxBoNqxLAxOAh0R89D) | 3:42 | 2025-12-28 |  |
+| [Tahdotko Mut Tosiaan](https://open.spotify.com/track/5G5sJcaGLU9Equzq5NgN9z) | [Popeda](https://open.spotify.com/artist/2bEPloIrEwXQwm9myrXW2P) | [H.Ö.N.Ö.](https://open.spotify.com/album/3JYUQxBNq3b4GxZxkf5b9n) | 3:41 | 2025-12-27 |  |
+| [Tahdotko Mut Tosiaan](https://open.spotify.com/track/5F4aDPLL4bO2ODkAZAKZdH) | [Popeda](https://open.spotify.com/artist/2bEPloIrEwXQwm9myrXW2P) | [Hittejä, Kersantti Karoliina](https://open.spotify.com/album/4QLAIxBoNqxLAxOAh0R89D) | 3:42 | 2025-12-28 | 2025-12-30 |
 | [Taikuri](https://open.spotify.com/track/7fdNCtxfZArtOZK3hLqqm3) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [ROADMAN](https://open.spotify.com/album/77h9rh1J6b9OE8z8wAQF4m) | 2:56 | 2024-09-21 | 2025-12-07 |
 | [Taiteilijaelämää](https://open.spotify.com/track/3lEjNgLQHxbHxqjtSzTgZQ) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK), [VilleGalle](https://open.spotify.com/artist/6VVSjZwPAHNbkKeMhTI2bb) | [Taiteilijaelämää](https://open.spotify.com/album/6D1XhJr47eKtF0og4rv380) | 3:12 | 2023-07-22 | 2023-10-08 |
 | [Taivaisiin \- Vain elämää kausi 15](https://open.spotify.com/track/7MSCTPlw8HlljZFheARdFF) | [Eini](https://open.spotify.com/artist/6yTTkPtwPo2PEkQF4SScwM), [Portion Boys](https://open.spotify.com/artist/04UpsyroM3wyQYwhYd9mSv) | [Taivaisiin \(Vain elämää kausi 15\)](https://open.spotify.com/album/5LG3lMMeNl7F9jnvVqJDG3) | 3:29 | 2024-10-13 | 2024-10-24 |

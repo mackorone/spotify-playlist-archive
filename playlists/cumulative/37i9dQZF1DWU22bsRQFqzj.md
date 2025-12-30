@@ -2,7 +2,7 @@
 
 ### [Hit Per Correre](https://open.spotify.com/playlist/37i9dQZF1DWU22bsRQFqzj)
 
-> Sei nella tua running era e stai preparando a tua prossima mezza maratona 🏃🏻
+> Sei talmente nella tua running era da correre anche il 31 dicembre ed il 1 gennaio 🏃🏻
 
 164 songs - 7 hr 58 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Girlfriend
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,109,524 likes - 300 songs - 14 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,109,531 likes - 300 songs - 14 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 64 | [Idea \#5](https://open.spotify.com/track/1WQ1DsGnAbVhSzhvVfDITL) | [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1) | [Not Everyone Can Go \(Deluxe\)](https://open.spotify.com/album/6iieFjF7ntXUDXDCZo0YGW) | 3:56 |
 | 65 | [Paper Hearts](https://open.spotify.com/track/6blDyivJwVm0UsolyO3mnD) | [Richard Saunders](https://open.spotify.com/artist/6NxhqqHlwIyEBuLpdO0kZB) | [Proof of Your Love](https://open.spotify.com/album/24xyGdTLTGqmqr24TWJzC5) | 3:33 |
 | 66 | [Blessings](https://open.spotify.com/track/6gnBph4YxYhytTAwfZi6TE) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Blessings](https://open.spotify.com/album/55V4fiGjaQdSEshPbZL7Ij) | 2:54 |
-| 67 | [PRETTY WOMAN \(WICKED\)](https://open.spotify.com/track/747fcCBqT47Mx2V40WFQOd) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [PRETTY WOMAN \(WICKED\)](https://open.spotify.com/album/34G6OJqIpUFe3aU1SjD3xj) | 3:26 |
+| 67 | [PRETTY WOMAN \(WICKED\)](https://open.spotify.com/track/747fcCBqT47Mx2V40WFQOd) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [PRETTY WOMAN \(WICKED\)](https://open.spotify.com/album/34G6OJqIpUFe3aU1SjD3xj) | 3:19 |
 | 68 | [Believe](https://open.spotify.com/track/4GBsWEP6x2zsMiyNmkjcq8) | [Lily Massie](https://open.spotify.com/artist/2kQ4RPZzQ5YVAcWNC162x9), [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc) | [Believe](https://open.spotify.com/album/20QbPI59jQa5q7kGoxEBP1) | 3:06 |
 | 69 | [24HRS \- Acoustic](https://open.spotify.com/track/5lrtJGxswNUHomvQDNoc2W) | [Osé](https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj) | [THE AFTERHOURS \(24HRS REMIX BUNDLE\)](https://open.spotify.com/album/1PeKXYEl4kDFH2adMyhOTW) | 2:53 |
 | 70 | [Healing Water](https://open.spotify.com/track/1OT6X8rSMTJDLTpooBfBuv) | [Luck](https://open.spotify.com/artist/7DYPs6H8VJGxvuGu0FaV3M), [Jordan Hawkins](https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY) | [Healing Water](https://open.spotify.com/album/0RKbHzgdwOZQ8Fcw0wOlFg) | 3:50 |

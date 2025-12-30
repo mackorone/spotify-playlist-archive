@@ -1201,6 +1201,24 @@
     },
     {
       "album": {
+        "name": "Aventador\u00e9 / Cardio",
+        "url": "https://open.spotify.com/album/4sFh5XFaItICHzVQeaArTj"
+      },
+      "artists": [
+        {
+          "name": "HT",
+          "url": "https://open.spotify.com/artist/50pqrGq4DqUlNmsaCfRexx"
+        }
+      ],
+      "date_added": "2025-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136653,
+      "name": "Aventador\u00e9",
+      "url": "https://open.spotify.com/track/0jMh5CUDXCHhUoLJntKyHW"
+    },
+    {
+      "album": {
         "name": "NYXIA. Tome III",
         "url": "https://open.spotify.com/album/2INTNqaYSOSAwmNLV925Ca"
       },
@@ -13004,7 +13022,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-30",
       "duration_ms": 186268,
       "name": "OCCUP\u00c9",
       "url": "https://open.spotify.com/track/3hTmafgikfeMjyK8wT0ouq"

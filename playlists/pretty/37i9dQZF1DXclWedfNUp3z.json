@@ -1,6 +1,6 @@
 {
   "description": "Mellow vibrations for green leaves, green thumbs and green ears.",
-  "num_followers": 267519,
+  "num_followers": 267567,
   "original_name": "Music for Plants",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,22 @@
     {
       "added_at": "2025-11-21 14:36:15",
       "album": {
+        "name": "Comme \u00e7a",
+        "url": "https://open.spotify.com/album/55YrEqkp3Qrnue9WXHXo8t"
+      },
+      "artists": [
+        {
+          "name": "Domenique Dumont",
+          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
+        }
+      ],
+      "duration_ms": 245418,
+      "name": "Le ch\u00e2teau de corail",
+      "url": "https://open.spotify.com/track/5JPlGsRGCUyFvWzAE0n7Ch"
+    },
+    {
+      "added_at": "2025-11-21 14:36:15",
+      "album": {
         "name": "searching",
         "url": "https://open.spotify.com/album/2cmVsjln1umP4LzUmn9DbK"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 279935,
       "name": "searching",
       "url": "https://open.spotify.com/track/7JI8f3m5ur75iRRWZpj8sm"
-    },
-    {
-      "added_at": "2025-11-21 14:36:15",
-      "album": {
-        "name": "Comme \u00e7a",
-        "url": "https://open.spotify.com/album/55YrEqkp3Qrnue9WXHXo8t"
-      },
-      "artists": [
-        {
-          "name": "Domenique Dumont",
-          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
-        }
-      ],
-      "duration_ms": 245418,
-      "name": "Le ch\u00e2teau de corail",
-      "url": "https://open.spotify.com/track/5JPlGsRGCUyFvWzAE0n7Ch"
     },
     {
       "added_at": "2025-11-21 14:36:15",
@@ -703,26 +703,6 @@
     {
       "added_at": "2025-11-21 14:36:15",
       "album": {
-        "name": "The Box Tree",
-        "url": "https://open.spotify.com/album/0GLlwTGHxAZpOTPLMFFaCH"
-      },
-      "artists": [
-        {
-          "name": "Sk\u00fali Sverrisson",
-          "url": "https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh"
-        },
-        {
-          "name": "\u00d3skar Gu\u00f0j\u00f3nsson",
-          "url": "https://open.spotify.com/artist/3ngZoLWB98itd0iXhKtl9N"
-        }
-      ],
-      "duration_ms": 235973,
-      "name": "For Seconds at a Time",
-      "url": "https://open.spotify.com/track/6dSo66w4jxsSL7d8bWHR33"
-    },
-    {
-      "added_at": "2025-11-21 14:36:15",
-      "album": {
         "name": "Soft Power",
         "url": "https://open.spotify.com/album/1cUsfDaLr0anAeEds3t1p5"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 359480,
       "name": "Future Sand",
       "url": "https://open.spotify.com/track/4iURuJPltHSQ8DNaKNc2lS"
+    },
+    {
+      "added_at": "2025-11-21 14:36:15",
+      "album": {
+        "name": "The Box Tree",
+        "url": "https://open.spotify.com/album/0GLlwTGHxAZpOTPLMFFaCH"
+      },
+      "artists": [
+        {
+          "name": "Sk\u00fali Sverrisson",
+          "url": "https://open.spotify.com/artist/78kBVKyMQy7r9mEul6sXoh"
+        },
+        {
+          "name": "\u00d3skar Gu\u00f0j\u00f3nsson",
+          "url": "https://open.spotify.com/artist/3ngZoLWB98itd0iXhKtl9N"
+        }
+      ],
+      "duration_ms": 235973,
+      "name": "For Seconds at a Time",
+      "url": "https://open.spotify.com/track/6dSo66w4jxsSL7d8bWHR33"
     },
     {
       "added_at": "2025-11-21 14:36:15",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2025-11-21 14:36:15",
       "album": {
-        "name": "Music for Tomato Plants",
-        "url": "https://open.spotify.com/album/4UvdKF7LlJmxCh3U3VWjKb"
-      },
-      "artists": [
-        {
-          "name": "Loris S. Sarid",
-          "url": "https://open.spotify.com/artist/0gYheMncGk0zhnDEwpRidl"
-        }
-      ],
-      "duration_ms": 266277,
-      "name": "Orizzontale Verticale",
-      "url": "https://open.spotify.com/track/0rpFR0DN8k47KPO4q1hT02"
-    },
-    {
-      "added_at": "2025-11-21 14:36:15",
-      "album": {
         "name": "Legends",
         "url": "https://open.spotify.com/album/0Hy3urqOl5IArDdoycKlJP"
       },
@@ -1255,6 +1239,22 @@
     {
       "added_at": "2025-11-21 14:36:15",
       "album": {
+        "name": "Music for Tomato Plants",
+        "url": "https://open.spotify.com/album/4UvdKF7LlJmxCh3U3VWjKb"
+      },
+      "artists": [
+        {
+          "name": "Loris S. Sarid",
+          "url": "https://open.spotify.com/artist/0gYheMncGk0zhnDEwpRidl"
+        }
+      ],
+      "duration_ms": 266277,
+      "name": "Orizzontale Verticale",
+      "url": "https://open.spotify.com/track/0rpFR0DN8k47KPO4q1hT02"
+    },
+    {
+      "added_at": "2025-11-21 14:36:15",
+      "album": {
         "name": "Doff",
         "url": "https://open.spotify.com/album/2PBu3e1YFNWRZHLdozFIyL"
       },
@@ -1267,6 +1267,26 @@
       "duration_ms": 184120,
       "name": "Doff",
       "url": "https://open.spotify.com/track/0gitxF5eauet5HwgtSiLjB"
+    },
+    {
+      "added_at": "2025-11-21 14:36:15",
+      "album": {
+        "name": "ocean tales",
+        "url": "https://open.spotify.com/album/0ENr07q7h0vsydKinh36FM"
+      },
+      "artists": [
+        {
+          "name": "santpoort",
+          "url": "https://open.spotify.com/artist/7KtVS0f2RQoEhjxDcSGBtJ"
+        },
+        {
+          "name": "Tennyson",
+          "url": "https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8"
+        }
+      ],
+      "duration_ms": 152901,
+      "name": "eons away",
+      "url": "https://open.spotify.com/track/3CMzipkTzyGP4g0YaEeuNd"
     },
     {
       "added_at": "2025-11-21 14:36:15",
@@ -1295,26 +1315,6 @@
     {
       "added_at": "2025-11-21 14:36:15",
       "album": {
-        "name": "ocean tales",
-        "url": "https://open.spotify.com/album/0ENr07q7h0vsydKinh36FM"
-      },
-      "artists": [
-        {
-          "name": "santpoort",
-          "url": "https://open.spotify.com/artist/7KtVS0f2RQoEhjxDcSGBtJ"
-        },
-        {
-          "name": "Tennyson",
-          "url": "https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8"
-        }
-      ],
-      "duration_ms": 152901,
-      "name": "eons away",
-      "url": "https://open.spotify.com/track/3CMzipkTzyGP4g0YaEeuNd"
-    },
-    {
-      "added_at": "2025-11-21 14:36:15",
-      "album": {
         "name": "Pantano Lontano",
         "url": "https://open.spotify.com/album/1rWoQDBXjsjQ4famyZsqpE"
       },
@@ -1327,6 +1327,38 @@
       "duration_ms": 341621,
       "name": "Sin\u00fa",
       "url": "https://open.spotify.com/track/3qtKG3CgbZrmMrmPjNk1N6"
+    },
+    {
+      "added_at": "2025-11-21 14:36:15",
+      "album": {
+        "name": "Parallel",
+        "url": "https://open.spotify.com/album/1xrXrgQDQzTlGrDYhX8ikT"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 435070,
+      "name": "Parallel 9",
+      "url": "https://open.spotify.com/track/7v5OpWQsjk8EVecwnHpNIj"
+    },
+    {
+      "added_at": "2025-11-21 14:36:15",
+      "album": {
+        "name": "Ten Tales For The MTV Generation",
+        "url": "https://open.spotify.com/album/6Ro7MgoEuwxYLbafgwnGbU"
+      },
+      "artists": [
+        {
+          "name": "Colin McSloy",
+          "url": "https://open.spotify.com/artist/4l1job1otNmcXIkSN3oVNy"
+        }
+      ],
+      "duration_ms": 168210,
+      "name": "Instrumental",
+      "url": "https://open.spotify.com/track/3Hxes5uYUnKwT7CVAiL2Zm"
     },
     {
       "added_at": "2025-11-21 14:36:15",
@@ -1351,38 +1383,6 @@
     {
       "added_at": "2025-11-21 14:36:15",
       "album": {
-        "name": "Ten Tales For The MTV Generation",
-        "url": "https://open.spotify.com/album/6Ro7MgoEuwxYLbafgwnGbU"
-      },
-      "artists": [
-        {
-          "name": "Colin McSloy",
-          "url": "https://open.spotify.com/artist/4l1job1otNmcXIkSN3oVNy"
-        }
-      ],
-      "duration_ms": 168210,
-      "name": "Instrumental",
-      "url": "https://open.spotify.com/track/3Hxes5uYUnKwT7CVAiL2Zm"
-    },
-    {
-      "added_at": "2025-11-21 14:36:15",
-      "album": {
-        "name": "Parallel",
-        "url": "https://open.spotify.com/album/1xrXrgQDQzTlGrDYhX8ikT"
-      },
-      "artists": [
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 435070,
-      "name": "Parallel 9",
-      "url": "https://open.spotify.com/track/7v5OpWQsjk8EVecwnHpNIj"
-    },
-    {
-      "added_at": "2025-11-21 14:36:15",
-      "album": {
         "name": "FOREVERANDEVERNOMORE",
         "url": "https://open.spotify.com/album/1fsGRseH9xCUSiO1MDSB7W"
       },
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2025-11-21 14:36:15",
       "album": {
-        "name": "Inner Roads and Outer Paths",
-        "url": "https://open.spotify.com/album/7zbAxpPRQbSmbxbkcAU8Z4"
-      },
-      "artists": [
-        {
-          "name": "Vic Mars",
-          "url": "https://open.spotify.com/artist/2tYp7DE60TXJCdsdZVw1ph"
-        }
-      ],
-      "duration_ms": 155653,
-      "name": "Following The River",
-      "url": "https://open.spotify.com/track/0rrzl2wTpwlNBAnVkYfhQE"
-    },
-    {
-      "added_at": "2025-11-21 14:36:15",
-      "album": {
         "name": "@0",
         "url": "https://open.spotify.com/album/0lzZgKs9XvoMHjPpBLWYA3"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 454576,
       "name": "Another Dream",
       "url": "https://open.spotify.com/track/6ZUTsxms7QYaG06q37VRZp"
+    },
+    {
+      "added_at": "2025-11-21 14:36:15",
+      "album": {
+        "name": "Inner Roads and Outer Paths",
+        "url": "https://open.spotify.com/album/7zbAxpPRQbSmbxbkcAU8Z4"
+      },
+      "artists": [
+        {
+          "name": "Vic Mars",
+          "url": "https://open.spotify.com/artist/2tYp7DE60TXJCdsdZVw1ph"
+        }
+      ],
+      "duration_ms": 155653,
+      "name": "Following The River",
+      "url": "https://open.spotify.com/track/0rrzl2wTpwlNBAnVkYfhQE"
     },
     {
       "added_at": "2025-11-21 14:36:15",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2025-11-21 14:36:15",
       "album": {
-        "name": "Les Marie Louise",
-        "url": "https://open.spotify.com/album/5r3RoboaUhWsHvNEvg0EbZ"
-      },
-      "artists": [
-        {
-          "name": "Blundetto",
-          "url": "https://open.spotify.com/artist/3bWxjvKUe8YV0VkI5d3I1Y"
-        }
-      ],
-      "duration_ms": 163866,
-      "name": "Les Marie Louise",
-      "url": "https://open.spotify.com/track/11V5U9PIzSjIdpJmDi35B6"
-    },
-    {
-      "added_at": "2025-11-21 14:36:15",
-      "album": {
         "name": "Nausea",
         "url": "https://open.spotify.com/album/4nwc9ShqSEBItmnmiJkDtj"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 186634,
       "name": "In My Mind",
       "url": "https://open.spotify.com/track/0XQoOGwbUn930qZGji0885"
+    },
+    {
+      "added_at": "2025-11-21 14:36:15",
+      "album": {
+        "name": "Les Marie Louise",
+        "url": "https://open.spotify.com/album/5r3RoboaUhWsHvNEvg0EbZ"
+      },
+      "artists": [
+        {
+          "name": "Blundetto",
+          "url": "https://open.spotify.com/artist/3bWxjvKUe8YV0VkI5d3I1Y"
+        }
+      ],
+      "duration_ms": 163866,
+      "name": "Les Marie Louise",
+      "url": "https://open.spotify.com/track/11V5U9PIzSjIdpJmDi35B6"
     },
     {
       "added_at": "2025-11-21 14:36:15",
@@ -1683,18 +1683,18 @@
     {
       "added_at": "2025-11-21 14:36:15",
       "album": {
-        "name": "Breath",
-        "url": "https://open.spotify.com/album/4C2zeEXXBDgrV95B7UQEmZ"
+        "name": "Northern Spirit",
+        "url": "https://open.spotify.com/album/3z9ysNmG6n81nNSaziusQL"
       },
       "artists": [
         {
-          "name": "INFINITY",
-          "url": "https://open.spotify.com/artist/12pPh6VvLwN3gbBl1LXMPg"
+          "name": "Alyas",
+          "url": "https://open.spotify.com/artist/0RRYSk01k1iJQbsi83Oh2S"
         }
       ],
-      "duration_ms": 644500,
-      "name": "Awakening",
-      "url": "https://open.spotify.com/track/0iqTeRwJinozkLa4PzNYQ4"
+      "duration_ms": 246000,
+      "name": "Northern Spirit",
+      "url": "https://open.spotify.com/track/723CVJbxvyZCQlGCVQkXCJ"
     }
   ],
   "unique_name": "Music for Plants",

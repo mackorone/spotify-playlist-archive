@@ -1,12 +1,12 @@
 {
   "description": "This is Slipmami. The essential tracks, all in one playlist.",
-  "num_followers": 8587,
+  "num_followers": 8593,
   "original_name": "This Is Slipmami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aU8hgAAAAAC8FznqmCZjtQ017icNbKoC",
+  "snapshot_id": "aVBzAAAAAAABpvzHEVzKpV/6tlqmoyJn",
   "tracks": [
     {
       "added_at": null,
@@ -631,30 +631,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slipmami On The Radar Freestyle",
-        "url": "https://open.spotify.com/album/6frAHNzX2l0rZuiq9HG3Lz"
+        "name": "Gostosa Posturada",
+        "url": "https://open.spotify.com/album/0wAogaPUucF4zLQUUzW2Je"
       },
       "artists": [
-        {
-          "name": "On The Radar",
-          "url": "https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz"
-        },
         {
           "name": "Slipmami",
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
         },
         {
-          "name": "Vhulto",
-          "url": "https://open.spotify.com/artist/7jG8QiCKXdGdRIsCTiQYdB"
-        },
-        {
-          "name": "OG Bahia",
-          "url": "https://open.spotify.com/artist/5sWSh5DCUgwN223DmJ1He1"
+          "name": "Rafu",
+          "url": "https://open.spotify.com/artist/2wrb1WRmxjvwtnyjPXOnvk"
         }
       ],
-      "duration_ms": 76363,
-      "name": "Slipmami On The Radar Freestyle",
-      "url": "https://open.spotify.com/track/5nKndDZkMVKB5lSAHRX1mz"
+      "duration_ms": 195600,
+      "name": "Novinho",
+      "url": "https://open.spotify.com/track/2SjuOuO0otxPJahfA3H7SV"
     },
     {
       "added_at": null,
@@ -679,22 +671,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gostosa Posturada",
-        "url": "https://open.spotify.com/album/0wAogaPUucF4zLQUUzW2Je"
+        "name": "Slipmami On The Radar Freestyle",
+        "url": "https://open.spotify.com/album/6frAHNzX2l0rZuiq9HG3Lz"
       },
       "artists": [
+        {
+          "name": "On The Radar",
+          "url": "https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz"
+        },
         {
           "name": "Slipmami",
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
         },
         {
-          "name": "Rafu",
-          "url": "https://open.spotify.com/artist/2wrb1WRmxjvwtnyjPXOnvk"
+          "name": "Vhulto",
+          "url": "https://open.spotify.com/artist/7jG8QiCKXdGdRIsCTiQYdB"
+        },
+        {
+          "name": "OG Bahia",
+          "url": "https://open.spotify.com/artist/5sWSh5DCUgwN223DmJ1He1"
         }
       ],
-      "duration_ms": 195600,
-      "name": "Novinho",
-      "url": "https://open.spotify.com/track/2SjuOuO0otxPJahfA3H7SV"
+      "duration_ms": 76363,
+      "name": "Slipmami On The Radar Freestyle",
+      "url": "https://open.spotify.com/track/5nKndDZkMVKB5lSAHRX1mz"
     },
     {
       "added_at": null,

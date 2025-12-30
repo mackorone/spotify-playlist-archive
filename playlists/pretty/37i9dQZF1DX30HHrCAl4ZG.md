@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > Explore all things indie rock right now\. Featuring music from Geese
 
-[Spotify](https://open.spotify.com/user/spotify) - 810,412 likes - 160 songs - 9 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 810,385 likes - 160 songs - 9 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 159 | [Remember! \- English Version](https://open.spotify.com/track/347if8tvr8272DRw4hf9kW) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [Remember!](https://open.spotify.com/album/1pkh8XlmejFjGDICQRDHJb) | 3:32 |
 | 160 | [Save me now](https://open.spotify.com/track/2LmbUvytNsuPZLG0clEcah) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Save me now](https://open.spotify.com/album/7GaqxJpgadYFnuUFpqBPr6) | 3:01 |
 
-Snapshot ID: `AAAAAAcYLxO3Bf3yM+BBmUFMfo/ovcvR`
+Snapshot ID: `AAAAAGKOTqOKEZnZ9Z8G4a/t9Rpa14fM`

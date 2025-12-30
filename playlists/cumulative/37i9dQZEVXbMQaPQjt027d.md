@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Netherlands.
 
-681 songs - 1 day 11 hr 2 min
+682 songs - 1 day 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,7 +212,7 @@
 | [Gangsta's Paradise \- Blues Cover](https://open.spotify.com/track/1KOycm3BH4V0HVe1ZR4cQF) | [If Rappers Made Blues](https://open.spotify.com/artist/3g0w81kdSfkROLuH4DTSkx) | [Gangsta's Paradise \(Blues Cover\)](https://open.spotify.com/album/6FF1WuV8qxtJwt6iWjxuYw) | 2:22 | 2025-10-28 | 2025-11-01 |
 | [Gangsterchick](https://open.spotify.com/track/3w4LWcb5smE2GUlVOEAhF8) | [Driess](https://open.spotify.com/artist/1oCIudG8pNordgzuLjTMNP), [Lef](https://open.spotify.com/artist/1MUxYVrXFiMh1wmP74mfu7) | [Gangsterchick](https://open.spotify.com/album/6gabI7gywMBN9DHt6sC67T) | 2:52 | 2025-07-19 | 2025-08-10 |
 | [Gangsterchick \- Remix](https://open.spotify.com/track/7BawAG17pjGzSqCX8sHfBo) | [Driess](https://open.spotify.com/artist/1oCIudG8pNordgzuLjTMNP), [Lef](https://open.spotify.com/artist/1MUxYVrXFiMh1wmP74mfu7), [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE) | [Gangsterchick \(Remix\)](https://open.spotify.com/album/6NdXX3k4vqXlNEMjbFael1) | 3:30 | 2025-07-22 | 2025-07-31 |
-| [Gaudete \(wij verheugen ons\)](https://open.spotify.com/track/38Tnd1uA3ioxRZjO9qblcW) | [Sela](https://open.spotify.com/artist/39qqiOIe3rCLPgoRwAgkcW) | [Gaudete \(wij verheugen ons\)](https://open.spotify.com/album/5jstVlGxWvqgxKamSOAjV8) | 3:43 | 2025-12-20 |  |
+| [Gaudete \(wij verheugen ons\)](https://open.spotify.com/track/38Tnd1uA3ioxRZjO9qblcW) | [Sela](https://open.spotify.com/artist/39qqiOIe3rCLPgoRwAgkcW) | [Gaudete \(wij verheugen ons\)](https://open.spotify.com/album/5jstVlGxWvqgxKamSOAjV8) | 3:43 | 2025-12-20 | 2025-12-30 |
 | [Gedaan Wat Ik Moest](https://open.spotify.com/track/4HQZstbU4gMqgVfiW4kvtY) | [Shab0570](https://open.spotify.com/artist/30TP10H7hGRrrRuLg2VXhn) | [Gedaan Wat Ik Moest](https://open.spotify.com/album/4rLqpqTujNDd2bUKany6EL) | 2:54 | 2025-11-26 | 2025-12-17 |
 | [Geldmaat](https://open.spotify.com/track/7c8jgMl2dwVBnC4RvBZHtm) | [Rijck](https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ), [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx) | [Geldmaat](https://open.spotify.com/album/3ZbovTolXgET9q8sQkomEN) | 2:36 | 2025-09-23 | 2025-10-01 |
 | [Gelukkig](https://open.spotify.com/track/54IC3MsaaeBkxY4GXKUixY) | [Marlous](https://open.spotify.com/artist/5Eld7TocuB1kAsvOnssFUf) | [Gelukkig](https://open.spotify.com/album/1tgndivifoeWt6Ierx1meq) | 3:24 | 2025-10-28 | 2025-11-03 |
@@ -402,6 +402,7 @@
 | [Mr\. Crowley](https://open.spotify.com/track/2ov8L95QD25TLpZAZPYWXL) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Blizzard Of Ozz \(40th Anniversary Expanded Edition\)](https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS) | 5:02 | 2025-07-25 | 2025-08-01 |
 | [MUEVELOU](https://open.spotify.com/track/27gcAFVOnixwd1Kd7q428C) | [VAD BOYZ](https://open.spotify.com/artist/6L9j8pEAo7qqQ9RqkdlN2W) | [MUEVELOU](https://open.spotify.com/album/6XhOBWkP7QpAbFBvJEsvjR) | 2:15 | 2025-11-12 | 2025-11-19 |
 | [My Girlfriend Is a Witch](https://open.spotify.com/track/39PWLJrvfBCrfe4NX9aGZD) | [October Country](https://open.spotify.com/artist/39vhAmLwYOIzrPkvVYNdq9) | [October Country \(Expanded Edition\)](https://open.spotify.com/album/5iKomMyesK7JZtbNIecTGX) | 2:06 | 2025-11-03 | 2025-11-05 |
+| [My Moon My Man](https://open.spotify.com/track/5FFQbvn7055P1DvgJDdCBP) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z) | 3:48 | 2025-12-29 |  |
 | [My Old Ways](https://open.spotify.com/track/4whkhyXTrTgHKZzkUvdwoq) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 4:58 | 2025-11-04 | 2025-11-12 |
 | [Nachtenlang](https://open.spotify.com/track/2Z3zbhR3DuwzXKoG5aN936) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [Nachtenlang](https://open.spotify.com/album/4OBRKixGsaU3xxK0tAZKkh) | 2:55 | 2025-07-22 | 2025-08-13 |
 | [Nachtje In London](https://open.spotify.com/track/6FwUG96ssCzgNZzEZvYvS0) | [247Loosey](https://open.spotify.com/artist/6uaH5YMYW84lVDWbBFWk2x) | [Nachtje In London](https://open.spotify.com/album/0gMRRAlsGLLOaoldCTuaYw) | 2:31 | 2025-12-16 | 2025-12-24 |

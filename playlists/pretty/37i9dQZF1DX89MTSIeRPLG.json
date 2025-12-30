@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/funnymarco/\">Funny Marco</a>",
-  "num_followers": 23655,
+  "num_followers": 23663,
   "original_name": "Funny Marco's Taste",
   "owner": {
     "name": "Spotify",
@@ -243,6 +243,22 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
+        "name": "WUNNA (Deluxe)",
+        "url": "https://open.spotify.com/album/6FfYIKA59pCFs2d1FB79Pq"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 152386,
+      "name": "DO BETTER",
+      "url": "https://open.spotify.com/track/3BOosbDTBZKTOwTbfaQmHY"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
         "name": "MOVIE",
         "url": "https://open.spotify.com/album/4d9fUkdY8BOJK0awqObMs6"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 172391,
       "name": "My Terms (feat. PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/4PjrqJ7IHDgb6CWHVQqsfM"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
-        "name": "WUNNA (Deluxe)",
-        "url": "https://open.spotify.com/album/6FfYIKA59pCFs2d1FB79Pq"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 152386,
-      "name": "DO BETTER",
-      "url": "https://open.spotify.com/track/3BOosbDTBZKTOwTbfaQmHY"
     },
     {
       "added_at": "2022-10-01 20:31:11",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
-        "name": "Basement",
-        "url": "https://open.spotify.com/album/6rF4NnGkaNcE9nwjgXr0vI"
-      },
-      "artists": [
-        {
-          "name": "Jazz Cartier",
-          "url": "https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ"
-        }
-      ],
-      "duration_ms": 146341,
-      "name": "Basement",
-      "url": "https://open.spotify.com/track/5O0aOOM4de60hINma1AB0k"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
         "name": "12/31",
         "url": "https://open.spotify.com/album/1JCrDXVsnCHZT4HdssPKP5"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 121217,
       "name": "Stay Ballin'",
       "url": "https://open.spotify.com/track/265lAH6iZlYiVvOIN18V6w"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
+        "name": "Basement",
+        "url": "https://open.spotify.com/album/6rF4NnGkaNcE9nwjgXr0vI"
+      },
+      "artists": [
+        {
+          "name": "Jazz Cartier",
+          "url": "https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ"
+        }
+      ],
+      "duration_ms": 146341,
+      "name": "Basement",
+      "url": "https://open.spotify.com/track/5O0aOOM4de60hINma1AB0k"
     },
     {
       "added_at": "2022-10-01 20:31:11",

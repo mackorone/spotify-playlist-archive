@@ -4,7 +4,7 @@
 
 > La nuova scena pop italiana 🇮🇹  cover: Angelica Bove
 
-1,025 songs - 2 day 0 hr 31 min
+1,026 songs - 2 day 0 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -438,6 +438,7 @@
 | [invidiosa](https://open.spotify.com/track/6cygIx1k0KcUjGlJXY65Ra) | [Grace Cambria](https://open.spotify.com/artist/7a60FDqnS9Qx2xTbDvEd73) | [invidiosa](https://open.spotify.com/album/4h8OEFdmS8Oj3XQdyPdp42) | 2:41 | 2024-06-27 | 2024-07-05 |
 | [IO E TE](https://open.spotify.com/track/0hrWina0tYsrrvmYYULQst) | [LYSA](https://open.spotify.com/artist/1KcTkBvL86LqPDfxwHrTA5) | [Ricordo Nostalgia](https://open.spotify.com/album/2NS3qe7DwJqDrPwF3BebAz) | 3:08 | 2025-06-12 | 2025-07-18 |
 | [io fotografo i miei amici](https://open.spotify.com/track/6kNX91Tg8gkUB68TylGemI) | [RIP](https://open.spotify.com/artist/5ZI5zyGSJMzgm4Yr41I3HM) | [io fotografo i miei amici](https://open.spotify.com/album/7zfNvN6DiGe6hlCJx8kRny) | 2:46 | 2025-01-09 | 2025-02-12 |
+| [Io non sento niente](https://open.spotify.com/track/5Iust9wFkcYrCJuFagdFpn) | [CHANDIE](https://open.spotify.com/artist/7x7GichhdGuPorBJYghR5S) | [Io non sento niente](https://open.spotify.com/album/7fv13X0AXKpJqaQ5vQgTUE) | 3:36 | 2025-12-29 |  |
 | [IO VOLEVO](https://open.spotify.com/track/5YWf3XfMbWdcd3eQqwjcTW) | [Nyno](https://open.spotify.com/artist/19Ii0dXgTYPulG9y9NaxTP) | [IO VOLEVO](https://open.spotify.com/album/7gXxccDicstPL11QGub92e) | 2:53 | 2025-03-06 | 2025-04-18 |
 | [IO X LEI](https://open.spotify.com/track/36f2RAAEUU6mfZkiY0je48) | [MATILDE](https://open.spotify.com/artist/3fefLfPrUjeLE1EVbVCdtJ), [Germo67](https://open.spotify.com/artist/2g8pbTKAMaUasFKyC3GrK1) | [IO X LEI](https://open.spotify.com/album/1wFNbu08aXhGpJsJ8d845K) | 2:14 | 2024-08-01 | 2024-09-06 |
 | [ioeio](https://open.spotify.com/track/1rOcxaBilVIV0Nigg1YKKS) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [caramé](https://open.spotify.com/album/2quUnR742DXfpRAEUiq6le) | 3:24 | 2025-10-16 |  |
@@ -934,7 +935,7 @@
 | [ti amo](https://open.spotify.com/track/6DcjeQjrg5zhGxiIZJsVbK) | [prima stanza a destra](https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5) | [ti amo](https://open.spotify.com/album/0Xh1rWxeQHKFkpi7MrJdps) | 2:18 | 2024-11-14 | 2025-01-24 |
 | [Ti Fidavi \(feat\. Capo Plaza\)](https://open.spotify.com/track/4FdRVbXlQTdmfDCQPNZYVp) | [Gaia](https://open.spotify.com/artist/3AVx3OBPIk4pJQllAXoVs1), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [rosa dei venti](https://open.spotify.com/album/1hrC8WmoDqNoIm9wY7vTYj) | 2:11 | 2025-03-20 | 2025-06-20 |
 | [Ti penso](https://open.spotify.com/track/3dffFDUu2lOiOfsEhAiIdi) | [Venerus](https://open.spotify.com/artist/49faW2w8eguUIAG5c85KcD) | [Ti penso](https://open.spotify.com/album/7fWSuZhKMmKcZhpbKF0S2B) | 2:51 | 2025-04-03 | 2025-08-01 |
-| [Ti Penso \- Sam Ruffillo Version](https://open.spotify.com/track/6ZqMMXKF7o84CZL43RBVoV) | [ELASI](https://open.spotify.com/artist/3C8AlXFIhzxJ4BCKxNQJJ6), [Sam Ruffillo](https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy) | [Ti Penso \(Sam Ruffillo Version\)](https://open.spotify.com/album/6QrNWPk0r8ppTd9rMaoLdp) | 3:06 | 2025-12-11 |  |
+| [Ti Penso \- Sam Ruffillo Version](https://open.spotify.com/track/6ZqMMXKF7o84CZL43RBVoV) | [ELASI](https://open.spotify.com/artist/3C8AlXFIhzxJ4BCKxNQJJ6), [Sam Ruffillo](https://open.spotify.com/artist/22x2iswjXGmDEkCJcUKYiy) | [Ti Penso \(Sam Ruffillo Version\)](https://open.spotify.com/album/6QrNWPk0r8ppTd9rMaoLdp) | 3:06 | 2025-12-11 | 2025-12-30 |
 | [Ti perdono di tutto \(a la playa\)](https://open.spotify.com/track/1rFJWfWeR3m6aOPM6ECFGC) | [KAPUT](https://open.spotify.com/artist/38F18Z9miixWwRSOpycFyt) | [Ti perdono di tutto \(a la playa\)](https://open.spotify.com/album/5wXlXpwoMuddCegQ5MPqpE) | 3:01 | 2024-06-27 | 2024-07-05 |
 | [Ti ricorderai di noi](https://open.spotify.com/track/26BQgK82HfjraWwtEuaguL) | [Tommy Indaco](https://open.spotify.com/artist/7k5IhSViCRasY6a7LWhgx5) | [Ti ricorderai di noi](https://open.spotify.com/album/0b2D5zLJ3bwDxsNs01pJ6C) | 3:01 | 2025-02-27 | 2025-04-11 |
 | [Ti scorderai di me](https://open.spotify.com/track/3669AI1VHHptnYqXwe5kqh) | [TOMMY DALI](https://open.spotify.com/artist/0dus12DVjr0hoFaUDOz9B5), [Joe Viegas](https://open.spotify.com/artist/0Yrfr8QlFUtMfIEM94VLPJ) | [Ti scorderai di me](https://open.spotify.com/album/6QZvm9fRVesxcfNvFfe3sy) | 2:56 | 2024-12-05 | 2025-02-14 |

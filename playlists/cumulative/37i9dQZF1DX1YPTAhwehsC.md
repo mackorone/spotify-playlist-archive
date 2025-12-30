@@ -4,7 +4,7 @@
 
 > Up and down I\-95\. Cover: Cash Cobain
 
-1,880 songs - 3 day 13 hr 10 min
+1,881 songs - 3 day 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1393,7 +1393,7 @@
 | [redflag!](https://open.spotify.com/track/6dmDzVtQLfCKOhbYnYDWJV) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL), [Vontee the Singer](https://open.spotify.com/artist/0f2wqzUtXEyqDUHwLxc57a) | [redflag!](https://open.spotify.com/album/1u4jmXTXuHrOVOGi1hnXgC) | 2:49 | 2025-07-04 | 2025-07-26 |
 | [REEKYOD](https://open.spotify.com/track/4PpnDYRLipOJnxlT2Ewl6a) | [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [Your Old Droog](https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp) | [REEKYOD](https://open.spotify.com/album/51gVU7RqmDPn2suWlglhyy) | 2:36 | 2024-05-03 | 2024-05-11 |
 | [Reflections \(feat\. Toosii\)](https://open.spotify.com/track/3fPjjfF6iU3uklTplZOKTw) | [Dustystaytrue](https://open.spotify.com/artist/5MIXBzwGNeUeFAS0o3XBXL), [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [Talk More Soon](https://open.spotify.com/album/3Vg8Ol5x9bUzhLk42ABXnc) | 2:49 | 2023-04-28 | 2023-08-12 |
-| [Regular](https://open.spotify.com/track/3NZ3oBrDN9D2Bi1hykwXHb) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Regular](https://open.spotify.com/album/1xtnpw9zgawd67Q5AVdPqX) | 2:26 | 2025-12-05 |  |
+| [Regular](https://open.spotify.com/track/3NZ3oBrDN9D2Bi1hykwXHb) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Regular](https://open.spotify.com/album/1xtnpw9zgawd67Q5AVdPqX) | 2:26 | 2025-12-05 | 2025-12-30 |
 | [Regular Type \(feat\. Chow Lee\)](https://open.spotify.com/track/1pqswmjvnS3xr7JdA4gD2x) | [Nino Paid](https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H), [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [Regular Type \(feat\. Chow Lee\)](https://open.spotify.com/album/7jIpISYSxVcKBPdLt0vmBr) | 2:46 | 2025-04-11 | 2025-05-03 |
 | [Relapse](https://open.spotify.com/track/1rqK157myRkURNm2M4mGOH) | [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h) | [Young & Restless Vol\. 1 Baby Don](https://open.spotify.com/album/5Vsv12liWYcEYcX0ryvAaa) | 2:36 | 2022-06-24 | 2022-07-23 |
 | [Relapse](https://open.spotify.com/track/11KEGU90jqzG2jS58emvmj) | [Nino Paid](https://open.spotify.com/artist/0WqsT2a4CBuQ0LC7vrJD0H) | [Relapse](https://open.spotify.com/album/1fOFNY6KQQjpMjCLOPoy0P) | 2:24 | 2024-09-13 | 2025-05-17 |
@@ -1809,6 +1809,7 @@
 | [What You Like](https://open.spotify.com/track/55R5ND8blGFjU46ZZ76Kod) | [LouGotCash](https://open.spotify.com/artist/1Sz0VZ2PxcZPD2qRIX9GSK), [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM) | [What You Like](https://open.spotify.com/album/33OsUHRjqTZLYeUUaosPod) | 2:22 | 2022-04-01 | 2022-04-09 |
 | [WHAT YOU NEED](https://open.spotify.com/track/1rmnTmLl06RQLJmEpe36ve) | [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [UNTAMED](https://open.spotify.com/album/1LM4qNXzxeL4ptfUOeUQwV) | 2:55 | 2021-12-03 | 2022-03-05 |
 | [What You On \(feat\. AC Zoe & B\-Lovee\)](https://open.spotify.com/track/3MbHZa5wuipqRsYsigpDwt) | [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu), [AC Zoe](https://open.spotify.com/artist/6PQU88Q9Qn4xALNNlwCelI), [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y) | [Make America Flock Again](https://open.spotify.com/album/3JisYU4bjyIr5m310qQ3Xj) | 2:36 | 2024-09-20 | 2024-10-19 |
+| [What You Saying](https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [What You Saying](https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly) | 2:11 | 2025-12-29 |  |
 | [What You Want](https://open.spotify.com/track/7xxC9gJ4X443aqVGQ4lX1q) | [Flipp Dinero](https://open.spotify.com/artist/2HUwZ0kumzCSlhFcjFZfpp) | [What You Want](https://open.spotify.com/album/3IhEHIp04NUIyNONhOOHK0) | 2:11 | 2025-04-11 | 2025-04-19 |
 | [What You Want](https://open.spotify.com/track/7ekZQdTEbFA3GElh4WVv3x) | [Kai Ca$h](https://open.spotify.com/artist/52Y9y31PT8sgDxNNmUIDUG) | [What You Want](https://open.spotify.com/album/1vtUDVP5fIl57KHOJkVahm) | 2:57 | 2025-03-28 | 2025-04-05 |
 | [WHAT!!!](https://open.spotify.com/track/5jfUWuG1r9jy4NYd057B3k) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [iight bet!](https://open.spotify.com/album/7eeKZCUXa6fxPOCGaCPqfY) | 2:33 | 2025-11-15 |  |

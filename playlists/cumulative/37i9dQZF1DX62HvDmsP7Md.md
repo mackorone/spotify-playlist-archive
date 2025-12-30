@@ -2,7 +2,7 @@
 
 ### [Bling Era](https://open.spotify.com/playlist/37i9dQZF1DX62HvDmsP7Md)
 
-> Party like it's the early 2000s\. ✨
+> Party like it's the early 2000s\. ✨ Mixed by Spotify Editors.
 
 158 songs - 10 hr 51 min
 

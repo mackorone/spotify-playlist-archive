@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7icshDizO3x.md) - [plain]
 
 > \[LIVE Blu\-ray『Stray Kids Fan Connecting 2024 “SKZ TOY WORLD”』発売記念\]<br/>最終日の一部MC音声入りセットリストを公開！
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,652 likes - 24 songs - 56 min 44 sec
+[Spotify](https://open.spotify.com/user/spotify) - 83,662 likes - 24 songs - 56 min 44 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
