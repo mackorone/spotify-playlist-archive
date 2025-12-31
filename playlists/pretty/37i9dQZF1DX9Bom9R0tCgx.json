@@ -1,6 +1,6 @@
 {
   "description": "All the stuff that will blow your speakers!",
-  "num_followers": 445619,
+  "num_followers": 445688,
   "original_name": "Bass Explosion",
   "owner": {
     "name": "Spotify",
@@ -555,30 +555,6 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "Pedro",
-        "url": "https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1"
-      },
-      "artists": [
-        {
-          "name": "Jaxomy",
-          "url": "https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq"
-        },
-        {
-          "name": "Agatino Romero",
-          "url": "https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r"
-        },
-        {
-          "name": "Raffaella Carr\u00e0",
-          "url": "https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85"
-        }
-      ],
-      "duration_ms": 144562,
-      "name": "Pedro",
-      "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
         "name": "Mockingbird",
         "url": "https://open.spotify.com/album/22dOSFgcI8e3gJbHpG5gYg"
       },
@@ -599,6 +575,30 @@
       "duration_ms": 154838,
       "name": "Mockingbird",
       "url": "https://open.spotify.com/track/2x4JC9TxW2LACuuxbsncfG"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
+        "name": "Pedro",
+        "url": "https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1"
+      },
+      "artists": [
+        {
+          "name": "Jaxomy",
+          "url": "https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq"
+        },
+        {
+          "name": "Agatino Romero",
+          "url": "https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r"
+        },
+        {
+          "name": "Raffaella Carr\u00e0",
+          "url": "https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85"
+        }
+      ],
+      "duration_ms": 144562,
+      "name": "Pedro",
+      "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1279,22 +1279,26 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "I Feel",
-        "url": "https://open.spotify.com/album/6ZaXuqLxGYtBJoKePPSnNb"
+        "name": "Day 'N' Nite",
+        "url": "https://open.spotify.com/album/6dcsjHmG76mqILvU5tQVfa"
       },
       "artists": [
         {
-          "name": "ZAPRAVKA",
-          "url": "https://open.spotify.com/artist/4oCaLmRVMM4Ck4VGrmh4VC"
+          "name": "Faustix",
+          "url": "https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd"
         },
         {
-          "name": "CERES",
-          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+          "name": "Badjack",
+          "url": "https://open.spotify.com/artist/40oI86vaTUHgkSGlYkEiLM"
+        },
+        {
+          "name": "Acid Boyz",
+          "url": "https://open.spotify.com/artist/1K078F4kwAcsOerdCs4m8a"
         }
       ],
-      "duration_ms": 140468,
-      "name": "I Feel",
-      "url": "https://open.spotify.com/track/03neM3HWo29PTZ4OVVUyv3"
+      "duration_ms": 133000,
+      "name": "Day 'N' Nite",
+      "url": "https://open.spotify.com/track/7t7OC0F1LpOFyRIJNgPkQo"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1319,26 +1323,22 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
-        "name": "Day 'N' Nite",
-        "url": "https://open.spotify.com/album/6dcsjHmG76mqILvU5tQVfa"
+        "name": "I Feel",
+        "url": "https://open.spotify.com/album/6ZaXuqLxGYtBJoKePPSnNb"
       },
       "artists": [
         {
-          "name": "Faustix",
-          "url": "https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd"
+          "name": "ZAPRAVKA",
+          "url": "https://open.spotify.com/artist/4oCaLmRVMM4Ck4VGrmh4VC"
         },
         {
-          "name": "Badjack",
-          "url": "https://open.spotify.com/artist/40oI86vaTUHgkSGlYkEiLM"
-        },
-        {
-          "name": "Acid Boyz",
-          "url": "https://open.spotify.com/artist/1K078F4kwAcsOerdCs4m8a"
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
         }
       ],
-      "duration_ms": 133000,
-      "name": "Day 'N' Nite",
-      "url": "https://open.spotify.com/track/7t7OC0F1LpOFyRIJNgPkQo"
+      "duration_ms": 140468,
+      "name": "I Feel",
+      "url": "https://open.spotify.com/track/03neM3HWo29PTZ4OVVUyv3"
     },
     {
       "added_at": "2025-06-26 22:00:24",
@@ -1971,6 +1971,30 @@
     {
       "added_at": "2025-06-26 22:00:24",
       "album": {
+        "name": "Hey Ya",
+        "url": "https://open.spotify.com/album/1SKAksw9ZJqIoLAOS5MKQF"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Vini Vici",
+          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
+        },
+        {
+          "name": "Tiscore",
+          "url": "https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI"
+        }
+      ],
+      "duration_ms": 134749,
+      "name": "Hey Ya",
+      "url": "https://open.spotify.com/track/2sEaL74YW1e5qUY1Y3ljYH"
+    },
+    {
+      "added_at": "2025-06-26 22:00:24",
+      "album": {
         "name": "Explode",
         "url": "https://open.spotify.com/album/2QryHAeKDPpFc5gww7Of3o"
       },
@@ -1999,30 +2023,6 @@
       "duration_ms": 159483,
       "name": "Explode",
       "url": "https://open.spotify.com/track/04ErJiS734u76JgX5JQayC"
-    },
-    {
-      "added_at": "2025-06-26 22:00:24",
-      "album": {
-        "name": "Hey Ya",
-        "url": "https://open.spotify.com/album/1SKAksw9ZJqIoLAOS5MKQF"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "Vini Vici",
-          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
-        },
-        {
-          "name": "Tiscore",
-          "url": "https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI"
-        }
-      ],
-      "duration_ms": 134749,
-      "name": "Hey Ya",
-      "url": "https://open.spotify.com/track/2sEaL74YW1e5qUY1Y3ljYH"
     },
     {
       "added_at": "2025-06-26 22:00:24",

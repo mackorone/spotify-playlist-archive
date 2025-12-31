@@ -1,12 +1,12 @@
 {
   "description": "This is Glassjaw. The essential tracks, all in one playlist.",
-  "num_followers": 2511,
+  "num_followers": 2513,
   "original_name": "This Is Glassjaw",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVBzAAAAAADI+D2anRmU86x/GFHDAaOv",
+  "snapshot_id": "aVHEgAAAAACUGTvTlthJFul3FTotMKDk",
   "tracks": [
     {
       "added_at": null,
@@ -263,6 +263,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Everything You Ever Wanted To Know About Silence",
+        "url": "https://open.spotify.com/album/5To08K1gE25vpF62QfywQY"
+      },
+      "artists": [
+        {
+          "name": "Glassjaw",
+          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
+        }
+      ],
+      "duration_ms": 249466,
+      "name": "Lovebites and Razorlines",
+      "url": "https://open.spotify.com/track/3TZrBEUWCkRzFQs5FJME4b"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Material Control",
         "url": "https://open.spotify.com/album/3Z9dDwHYs6mPAW2BHoT4JZ"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 237960,
       "name": "shira",
       "url": "https://open.spotify.com/track/0HykTfW0Y0FmjzEJuA7H8U"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coloring Book",
-        "url": "https://open.spotify.com/album/2X1G1CjQbDTYVPHzmacsry"
-      },
-      "artists": [
-        {
-          "name": "Glassjaw",
-          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
-        }
-      ],
-      "duration_ms": 221946,
-      "name": "Miracles in Inches",
-      "url": "https://open.spotify.com/track/5JkaxviT0dFs9hbScnAPwX"
     },
     {
       "added_at": null,
@@ -320,9 +320,25 @@
           "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
         }
       ],
-      "duration_ms": 249480,
-      "name": "Lovebites and Razorblades - 2009 Remaster",
-      "url": "https://open.spotify.com/track/1QVIkU9GNUiIqciY2mJphl"
+      "duration_ms": 298640,
+      "name": "Piano - 2009 Remaster",
+      "url": "https://open.spotify.com/track/03SO85UVkV11h83YU8qJa5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coloring Book",
+        "url": "https://open.spotify.com/album/2X1G1CjQbDTYVPHzmacsry"
+      },
+      "artists": [
+        {
+          "name": "Glassjaw",
+          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
+        }
+      ],
+      "duration_ms": 221946,
+      "name": "Miracles in Inches",
+      "url": "https://open.spotify.com/track/5JkaxviT0dFs9hbScnAPwX"
     },
     {
       "added_at": null,
@@ -339,22 +355,6 @@
       "duration_ms": 307309,
       "name": "Jesus Glue",
       "url": "https://open.spotify.com/track/1aLd9GXy4kOZzCJsyIfTZT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coloring Book",
-        "url": "https://open.spotify.com/album/2X1G1CjQbDTYVPHzmacsry"
-      },
-      "artists": [
-        {
-          "name": "Glassjaw",
-          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
-        }
-      ],
-      "duration_ms": 322106,
-      "name": "Daytona White",
-      "url": "https://open.spotify.com/track/5tFZsDPwf4WNkIxq5i18Od"
     },
     {
       "added_at": null,
@@ -384,9 +384,25 @@
           "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
         }
       ],
-      "duration_ms": 298640,
-      "name": "Piano - 2009 Remaster",
-      "url": "https://open.spotify.com/track/03SO85UVkV11h83YU8qJa5"
+      "duration_ms": 240546,
+      "name": "Majour - 2009 Remaster",
+      "url": "https://open.spotify.com/track/06NFqnO8Ulg0GUliWf3Wh1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coloring Book",
+        "url": "https://open.spotify.com/album/2X1G1CjQbDTYVPHzmacsry"
+      },
+      "artists": [
+        {
+          "name": "Glassjaw",
+          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
+        }
+      ],
+      "duration_ms": 322106,
+      "name": "Daytona White",
+      "url": "https://open.spotify.com/track/5tFZsDPwf4WNkIxq5i18Od"
     },
     {
       "added_at": null,

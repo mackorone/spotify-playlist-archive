@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 
 > 
 
-[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,603 likes - 801 songs - 2 day 2 hr 16 min
+[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,604 likes - 808 songs - 2 day 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -809,5 +809,12 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 | 799 | [Post Teens](https://open.spotify.com/track/5tjZ91tbeZIssQRgaHnG3r) | [Antillectual](https://open.spotify.com/artist/1Z2XrFvat8f47ZaRfjTgZL) | [Post Teens](https://open.spotify.com/album/7lqpOdUkBqgjko7FTFOyq3) | 3:56 |
 | 800 | [My Favourite Game](https://open.spotify.com/track/3wtoIz1I01y40GFnIrl3p2) | [Byron's Brigades](https://open.spotify.com/artist/5yV3z5bTUMGEIE4E6WxPrf) | [My Favourite Game](https://open.spotify.com/album/0g2Zx81Nbu9ywAXriXYh7b) | 3:06 |
 | 801 | [Welt aus Papier](https://open.spotify.com/track/55n7QKGMwlKgcuhfFzCdY6) | [Echoes](https://open.spotify.com/artist/2GWVNTXG7FrVBtb2mCrnPd) | [Impartments](https://open.spotify.com/album/4WVCTDY3bZDiTnK5246kRT) | 6:00 |
+| 802 | [Piove](https://open.spotify.com/track/69r6QZSgWhYau51KMPxQwM) | [Dingo](https://open.spotify.com/artist/6GOHIe6YuljpICrbzPtP7z) | [Piove](https://open.spotify.com/album/1Ml6RgMTDa6yzFzWiu0pPX) | 3:28 |
+| 803 | [Pretty When I'm Wicked](https://open.spotify.com/track/02hZHCp57yAqyrb3mSRDs7) | [Rose Dunn Music](https://open.spotify.com/artist/0VWOHUs4vZqLNyLe8I4Oa9) | [Pretty When I'm Wicked](https://open.spotify.com/album/6AyTFtNA5vpnDuOQPVZaFI) | 6:00 |
+| 804 | [Storm The Castle](https://open.spotify.com/track/5fgmSdZasnBozSkgcw5yQK) | [Dangerous Times for the Dead](https://open.spotify.com/artist/3oYyw3Wy4IuN27X2eIFVWD) | [Storm The Castle](https://open.spotify.com/album/4hB4aK6vwxjHlWP1umA8ON) | 3:42 |
+| 805 | [NUMB VISION](https://open.spotify.com/track/5yo5ztbdpoKISbfiQxbZYe) | [Lowhill](https://open.spotify.com/artist/7i6h22ezHqGU7V6vQCCfE3) | [DENIAL](https://open.spotify.com/album/70AsrxF2MiaQPKdXoM86sc) | 3:07 |
+| 806 | [Skapokalypse Now](https://open.spotify.com/track/46OHYaEK2fSFKL3HjnQ3Ru) | [ArneB](https://open.spotify.com/artist/76B0pivpAcHhfEeIRpaZL7) | [Sonntagsrevolte](https://open.spotify.com/album/068kde1sjRgpCAuJHbIMUB) | 2:27 |
+| 807 | [Sign Of The Horns](https://open.spotify.com/track/65GKZJPncKvGka5X4dTsO9) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [Sign Of The Horns](https://open.spotify.com/album/7hGuCzOqXqKtKPt2FvKjz4) | 3:07 |
+| 808 | [Blown \- 2025 Version](https://open.spotify.com/track/1CRpWK8hLrjtalSNvty39D) | [Wingfish](https://open.spotify.com/artist/3DjzJDs4wgf6jxZEYaeRBd) | [Dyads](https://open.spotify.com/album/3ZnsbkR1KQvQArM6RCBVCW) | 5:07 |
 
-Snapshot ID: `AAADO/95sjDyfOMmp/t6ufm0ChRwZ1LF`
+Snapshot ID: `AAADQy7ncHR2rYiuc6nVp2wpRGKlAxsD`

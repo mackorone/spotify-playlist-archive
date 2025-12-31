@@ -2,7 +2,7 @@
 
 ### [Indie Italia](https://open.spotify.com/playlist/37i9dQZF1DX6PSDDh80gxI)
 
-> ciao auguri dagli editor di Spotify 🎁 ricominciamo ad aggiornare la playlist il 2/1, intanto: fulminacci in cover
+> ciao auguri dagli editor di Spotify 🎁 ricominciamo ad aggiornare la playlist il 2/1, intanto: i ptn in cover
 
 440 songs - 23 hr 32 min
 

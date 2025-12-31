@@ -379,6 +379,24 @@
     },
     {
       "album": {
+        "name": "100/10",
+        "url": "https://open.spotify.com/album/1nwTWGhfS2GZBzhjuUr9Ww"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "date_added": "2025-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158634,
+      "name": "100/10",
+      "url": "https://open.spotify.com/track/50uT8pGi81UxJQTersXOgF"
+    },
+    {
+      "album": {
         "name": "SAYONARA",
         "url": "https://open.spotify.com/album/7kfPf285KnlWUTbqaB1jnI"
       },
@@ -4980,7 +4998,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 249482,
       "name": "ASHWAGANDHA",
       "url": "https://open.spotify.com/track/6hqYGhMPXkcwB9iyJli3OK"
@@ -10736,7 +10754,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 284644,
       "name": "CARRUSEL",
       "url": "https://open.spotify.com/track/479NIpJTkQaCyBpFTWicqa"
@@ -11460,6 +11478,28 @@
       "duration_ms": 282497,
       "name": "Changes - 2013 Remaster",
       "url": "https://open.spotify.com/track/3b7wNR330iKhql9dEdbNci"
+    },
+    {
+      "album": {
+        "name": "Street Mob Live",
+        "url": "https://open.spotify.com/album/7stG01sMWxZYo69cvGiOGl"
+      },
+      "artists": [
+        {
+          "name": "Street Mob",
+          "url": "https://open.spotify.com/artist/1kzLXra2oMAQtlJvQKHPzk"
+        },
+        {
+          "name": "Chuyin",
+          "url": "https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo"
+        }
+      ],
+      "date_added": "2025-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143180,
+      "name": "Changuito Me Apodaron",
+      "url": "https://open.spotify.com/track/4c2zq4HTSVLQP7esFifI0M"
     },
     {
       "album": {
@@ -13361,6 +13401,28 @@
     },
     {
       "album": {
+        "name": "Street Mob Live",
+        "url": "https://open.spotify.com/album/7stG01sMWxZYo69cvGiOGl"
+      },
+      "artists": [
+        {
+          "name": "Street Mob",
+          "url": "https://open.spotify.com/artist/1kzLXra2oMAQtlJvQKHPzk"
+        },
+        {
+          "name": "MauXo",
+          "url": "https://open.spotify.com/artist/0NH0VtfGCgs3ArcnjvsVMs"
+        }
+      ],
+      "date_added": "2025-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177598,
+      "name": "Como Ves (Bonus)",
+      "url": "https://open.spotify.com/track/1KMVf3agTyKbIYie0BE1E5"
+    },
+    {
+      "album": {
         "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
         "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
       },
@@ -14676,6 +14738,36 @@
       "duration_ms": 211084,
       "name": "Cuando No Era Cantante",
       "url": "https://open.spotify.com/track/44xDy4h27s4ENaC8fKnCoC"
+    },
+    {
+      "album": {
+        "name": "Cuando No Era Cantante (Remix)",
+        "url": "https://open.spotify.com/album/544ufGb3kucRiYrB93cteJ"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Yung Beef",
+          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
+        }
+      ],
+      "date_added": "2025-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327488,
+      "name": "Cuando No Era Cantante - Remix",
+      "url": "https://open.spotify.com/track/2pbSCYzxrG0wa6qcj8IyiE"
     },
     {
       "album": {
@@ -26816,7 +26908,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 192897,
       "name": "HARRY STAMPER",
       "url": "https://open.spotify.com/track/54oMTaZ94z2bwgQccWfc15"
@@ -31546,7 +31638,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 242573,
       "name": "LA CANCI\u00d3N",
       "url": "https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18"
@@ -33261,6 +33353,32 @@
     },
     {
       "album": {
+        "name": "HOPI SEND\u00c9",
+        "url": "https://open.spotify.com/album/0Xe21PnOMP2JbgaUXZkyNM"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        },
+        {
+          "name": "Gangsta",
+          "url": "https://open.spotify.com/artist/5ayJu41CsIbLfnMldF6bj3"
+        }
+      ],
+      "date_added": "2025-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192111,
+      "name": "LA VILLA",
+      "url": "https://open.spotify.com/track/2ZyrAym0sRLwt4PhGotHuI"
+    },
+    {
+      "album": {
         "name": "La V\u00edctima",
         "url": "https://open.spotify.com/album/30KJEN3ICjhYsZ1NgunRCr"
       },
@@ -33722,6 +33840,24 @@
       "duration_ms": 172755,
       "name": "LAst dAy oN EaRTh",
       "url": "https://open.spotify.com/track/0fVDu1evgjX9CFD0cmuRrM"
+    },
+    {
+      "album": {
+        "name": "Late Mi Nombre En Tu Piel",
+        "url": "https://open.spotify.com/album/1o4apB2S367xOmUYzpESKr"
+      },
+      "artists": [
+        {
+          "name": "JERRY'S SOUND ROOM",
+          "url": "https://open.spotify.com/artist/0tuO2DDZTKEQ6t6RT47WKH"
+        }
+      ],
+      "date_added": "2025-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227199,
+      "name": "Late Mi Nombre En Tu Piel",
+      "url": "https://open.spotify.com/track/1by2nui77V92VcqSOrVbzA"
     },
     {
       "album": {
@@ -41728,7 +41864,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 492434,
       "name": "MURALLAS",
       "url": "https://open.spotify.com/track/6vAdKhF0MrtHo32J0rRySQ"
@@ -43576,6 +43712,24 @@
       "duration_ms": 281898,
       "name": "No Me Conformo",
       "url": "https://open.spotify.com/track/6t8OjozDxyWUprWqIB58IT"
+    },
+    {
+      "album": {
+        "name": "No Me Debes Nada",
+        "url": "https://open.spotify.com/album/6DPJieG975akEr4ZmVDlZa"
+      },
+      "artists": [
+        {
+          "name": "JERRY'S SOUND ROOM",
+          "url": "https://open.spotify.com/artist/0tuO2DDZTKEQ6t6RT47WKH"
+        }
+      ],
+      "date_added": "2025-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256199,
+      "name": "No Me Debes Nada",
+      "url": "https://open.spotify.com/track/3PW8d0bzitfiyeNwsG1MQb"
     },
     {
       "album": {
@@ -47654,6 +47808,28 @@
     {
       "album": {
         "name": "Pase y Toque",
+        "url": "https://open.spotify.com/album/6jJPYY36xdnHzRkT6Dfbj3"
+      },
+      "artists": [
+        {
+          "name": "BeatBoy",
+          "url": "https://open.spotify.com/artist/5UBcT8h31eT62kHEsNaW3X"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        }
+      ],
+      "date_added": "2025-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Pase y Toque",
+      "url": "https://open.spotify.com/track/2MzaScXAL8wrSU9tlEijo6"
+    },
+    {
+      "album": {
+        "name": "Pase y Toque",
         "url": "https://open.spotify.com/album/0ZV9e0ldua8Z1uO5r9f42s"
       },
       "artists": [
@@ -48544,7 +48720,7 @@
       ],
       "date_added": "2025-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 109759,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf"
@@ -61352,7 +61528,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 249866,
       "name": "Te Veo a la Vuelta",
       "url": "https://open.spotify.com/track/2EKHUoHLEHYIGhvi4s05nj"
@@ -64326,7 +64502,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 238000,
       "name": "Tu Tanta Falta De Querer",
       "url": "https://open.spotify.com/track/3VWctqWDNcCx8fIsjlWQHB"

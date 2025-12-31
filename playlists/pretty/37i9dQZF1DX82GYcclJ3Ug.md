@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Arkells
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,199,592 likes - 130 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,199,510 likes - 130 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

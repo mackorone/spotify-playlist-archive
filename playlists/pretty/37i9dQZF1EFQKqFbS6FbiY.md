@@ -209,8 +209,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQKqFbS6FbiY.md) - [plain]
 | 199 | [Trair É Bom Mas É Pecado \- Ao Vivo](https://open.spotify.com/track/5aRA3zBexBnqBKF0zERjVY) | [Edson & Hudson](https://open.spotify.com/artist/6zpNfYJcPavd1pqLXKiSvl) | [Eu E Você De Novo \(Ao Vivo\)](https://open.spotify.com/album/4eQySBYcXPvtkYXkbsGpin) | 2:23 |
 | 200 | [Desbloqueou](https://open.spotify.com/track/67qOvgqFrhQh5m6PzcjNqn) | [Danilo Bottrel](https://open.spotify.com/artist/3dbCf6Y9R7lzKi3B2jfv9I) | [Desbloqueou](https://open.spotify.com/album/16e9JW971iBB0Yk7687fy8) | 2:34 |
 | 201 | [Minha Cama, Minhas Regras \- Ao Vivo](https://open.spotify.com/track/6GjfPp5EQ6eSA1X1YJh4BH) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [SIM \(Ao Vivo\)](https://open.spotify.com/album/6kszUny79kdRIfzTCEYnHK) | 2:37 |
-| 202 | [Vem Beber na Minha Casa \- Ao Vivo](https://open.spotify.com/track/1ozGmoGA6fOmxnOwNbp2BD) | [Diego & Arnaldo](https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft) | [Ao Vivo em Goiânia](https://open.spotify.com/album/2lFI0KAX7HvEa82V3BoDRP) | 2:47 |
-| 203 | [Sem Vergonha](https://open.spotify.com/track/6iaMEVDUzPACPmAayeQJB4) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Termômetro](https://open.spotify.com/album/6zw5gasuMMyY7fqTDUX2xq) | 2:37 |
+| 202 | [Sem Vergonha](https://open.spotify.com/track/6iaMEVDUzPACPmAayeQJB4) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Termômetro](https://open.spotify.com/album/6zw5gasuMMyY7fqTDUX2xq) | 2:37 |
+| 203 | [Vem Beber na Minha Casa \- Ao Vivo](https://open.spotify.com/track/1ozGmoGA6fOmxnOwNbp2BD) | [Diego & Arnaldo](https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft) | [Ao Vivo em Goiânia](https://open.spotify.com/album/2lFI0KAX7HvEa82V3BoDRP) | 2:47 |
 | 204 | [Cha na Na \- Ao Vivo](https://open.spotify.com/track/5ZYJcTYsVLMaIbOJRss06Q) | [Tayrone](https://open.spotify.com/artist/2T1se5h5FRkw7ZfR7yxdlm) | [Tayrone: Ao Vivo 2019](https://open.spotify.com/album/5e0QpR9TQYiTzH2cIFKwUX) | 3:10 |
 | 205 | [Exclusividade Desse Neném](https://open.spotify.com/track/6DcHsnGLpmIapW4VsgcNqC) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Natural](https://open.spotify.com/album/6Kz30EyV9GDxUnOnANY3p4) | 2:28 |
 | 206 | [Amor dos Amores \- Ao Vivo](https://open.spotify.com/track/5MWRTzqdlUA6nDvNlR4Qdf) | [Ícaro e Gilmar](https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC) | [Ao Vivo em Campo Grande, Completo](https://open.spotify.com/album/4NAFB9Hhk68QnMBL2kbgIJ) | 3:16 |
@@ -485,4 +485,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQKqFbS6FbiY.md) - [plain]
 | 475 | [Atriz](https://open.spotify.com/track/1MQpRk7UufrJcbGaZz0bAO) | [Raffaow](https://open.spotify.com/artist/0sKN6JacROezQegp6odXKB), [DJ mussa](https://open.spotify.com/artist/2pCvidAw5BIyIdpaYJose1) | [Atriz](https://open.spotify.com/album/2nhQW4WrGNgKN9XIhbLEY4) | 2:16 |
 | 476 | [Tudo em Minha Volta](https://open.spotify.com/track/0u2JYPHwIoYCZV52UxDEIN) | [Ronny e Ronney](https://open.spotify.com/artist/6ITm7OZvd7ogcjDsQghri5) | [Tudo em Minha Volta](https://open.spotify.com/album/7G0Vbn40xoQtM4cc9hmPde) | 2:25 |
 
-Snapshot ID: `AcFjcAAAAADZRt0iZAHEgVbRQ6dUN7Uv`
+Snapshot ID: `AcFpBgAAAAB5FeITr1F6OgEcLDxjli7V`

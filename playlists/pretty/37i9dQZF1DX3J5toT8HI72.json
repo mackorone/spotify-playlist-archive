@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 pros apaixonados",
-  "num_followers": 781576,
+  "num_followers": 781596,
   "original_name": "Amor I Love You",
   "owner": {
     "name": "Spotify",
@@ -179,22 +179,6 @@
     {
       "added_at": "2025-11-25 18:54:59",
       "album": {
-        "name": "Lulu Ac\u00fastico",
-        "url": "https://open.spotify.com/album/14xCfgcBE9uCrwwR36NoVB"
-      },
-      "artists": [
-        {
-          "name": "Lulu Santos",
-          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
-        }
-      ],
-      "duration_ms": 218266,
-      "name": "Apenas Mais uma de Amor",
-      "url": "https://open.spotify.com/track/6YNCE5qtrTa7YcnAOAEsDQ"
-    },
-    {
-      "added_at": "2025-11-25 18:54:59",
-      "album": {
         "name": "Deixa (feat. Ana Gabriela)",
         "url": "https://open.spotify.com/album/5y1vdBmkTHZNGCz5qswQzM"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 176025,
       "name": "Deixa (feat. Ana Gabriela)",
       "url": "https://open.spotify.com/track/3fLqmaO4vvZpFZSZy52VMp"
+    },
+    {
+      "added_at": "2025-11-25 18:54:59",
+      "album": {
+        "name": "Lulu Ac\u00fastico",
+        "url": "https://open.spotify.com/album/14xCfgcBE9uCrwwR36NoVB"
+      },
+      "artists": [
+        {
+          "name": "Lulu Santos",
+          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
+        }
+      ],
+      "duration_ms": 218266,
+      "name": "Apenas Mais uma de Amor",
+      "url": "https://open.spotify.com/track/6YNCE5qtrTa7YcnAOAEsDQ"
     },
     {
       "added_at": "2025-11-25 18:54:59",
@@ -311,6 +311,22 @@
     {
       "added_at": "2025-11-25 18:54:59",
       "album": {
+        "name": "Piloto",
+        "url": "https://open.spotify.com/album/0Yzslwaxztdnw9nQX0oDdU"
+      },
+      "artists": [
+        {
+          "name": "Flora Matos",
+          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
+        }
+      ],
+      "duration_ms": 197538,
+      "name": "Piloto",
+      "url": "https://open.spotify.com/track/07DskqQ1NbTiotX1WIV7ob"
+    },
+    {
+      "added_at": "2025-11-25 18:54:59",
+      "album": {
         "name": "Varrendo a Lua (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0cUBCO5cOvR80fKEDJ18TJ"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 190960,
       "name": "De Janeiro a Janeiro",
       "url": "https://open.spotify.com/track/27Es7REkNYsWCMBoIbmwCW"
-    },
-    {
-      "added_at": "2025-11-25 18:54:59",
-      "album": {
-        "name": "Piloto",
-        "url": "https://open.spotify.com/album/0Yzslwaxztdnw9nQX0oDdU"
-      },
-      "artists": [
-        {
-          "name": "Flora Matos",
-          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
-        }
-      ],
-      "duration_ms": 197538,
-      "name": "Piloto",
-      "url": "https://open.spotify.com/track/07DskqQ1NbTiotX1WIV7ob"
     },
     {
       "added_at": "2025-11-25 18:54:59",
@@ -999,22 +999,6 @@
     {
       "added_at": "2025-11-25 18:54:59",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/2FJ0GVWlaNzsTmc1YnFFyc"
-      },
-      "artists": [
-        {
-          "name": "Stefano",
-          "url": "https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/0Aqtdx2KAgRCRQYYbJnKsh"
-    },
-    {
-      "added_at": "2025-11-25 18:54:59",
-      "album": {
         "name": "Ao Vivo Em Lisboa",
         "url": "https://open.spotify.com/album/6FQczUJwjqNAjBVTnwsn0k"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 256155,
       "name": "Bem Que Se Quis - Ao Vivo",
       "url": "https://open.spotify.com/track/1nGI6ent4Eb8jmE4cnq3Gy"
+    },
+    {
+      "added_at": "2025-11-25 18:54:59",
+      "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/2FJ0GVWlaNzsTmc1YnFFyc"
+      },
+      "artists": [
+        {
+          "name": "Stefano",
+          "url": "https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/0Aqtdx2KAgRCRQYYbJnKsh"
     },
     {
       "added_at": "2025-11-25 18:54:59",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2025-11-25 18:54:59",
       "album": {
+        "name": "Monomania",
+        "url": "https://open.spotify.com/album/5149Vq1d7rrpgN9LucKu99"
+      },
+      "artists": [
+        {
+          "name": "Clarice Falc\u00e3o",
+          "url": "https://open.spotify.com/artist/1wFTlPjO7zRtvylmu5pm1d"
+        }
+      ],
+      "duration_ms": 217431,
+      "name": "Eu Me Lembro (feat. Silva)",
+      "url": "https://open.spotify.com/track/7opN62oy6MZBaGgnKdHtng"
+    },
+    {
+      "added_at": "2025-11-25 18:54:59",
+      "album": {
         "name": "Cortejo",
         "url": "https://open.spotify.com/album/61yXu0dB7zgnJE613AJQCF"
       },
@@ -1671,22 +1687,6 @@
       "duration_ms": 299333,
       "name": "Voce E Linda",
       "url": "https://open.spotify.com/track/23ztZ0wgb5cNLZsziJWoRB"
-    },
-    {
-      "added_at": "2025-11-25 18:54:59",
-      "album": {
-        "name": "Monomania",
-        "url": "https://open.spotify.com/album/5149Vq1d7rrpgN9LucKu99"
-      },
-      "artists": [
-        {
-          "name": "Clarice Falc\u00e3o",
-          "url": "https://open.spotify.com/artist/1wFTlPjO7zRtvylmu5pm1d"
-        }
-      ],
-      "duration_ms": 217431,
-      "name": "Eu Me Lembro (feat. Silva)",
-      "url": "https://open.spotify.com/track/7opN62oy6MZBaGgnKdHtng"
     },
     {
       "added_at": "2025-11-25 18:54:59",

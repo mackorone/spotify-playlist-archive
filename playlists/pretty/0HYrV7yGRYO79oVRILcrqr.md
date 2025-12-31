@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,654 likes - 58 songs - 3 hr 42 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,656 likes - 60 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,5 +66,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 56 | [Princesa de Noche](https://open.spotify.com/track/7MIANoT9Z4Fen2OVxkUPHB) | [Salva Merino](https://open.spotify.com/artist/0yXBaiTj2LM4ZqAJKeHnDJ), [The Insomnia Night](https://open.spotify.com/artist/1kf6je9RrHLLxg5ocFLVbD) | [Princesa de Noche](https://open.spotify.com/album/1gc6uSi9f5jisAR41OGf5Y) | 4:06 |
 | 57 | [Soak It Up in Soap Lake](https://open.spotify.com/track/2qulAVfQ7s8GUg9XposEFw) | [Soap Lake Better Together](https://open.spotify.com/artist/4SDAWGysmZrEJJrHFGPAhh) | [Soak It Up in Soap Lake](https://open.spotify.com/album/29cVnImqP6FSLlVJ9nU0Po) | 3:12 |
 | 58 | [Goblin Knight](https://open.spotify.com/track/2ubz5puXCEXgeyk0xIj4lC) | [Digiplayer.13](https://open.spotify.com/artist/32yRrtY4Az7zXL2a2nf9gk), [Zona.13](https://open.spotify.com/artist/5bRr4E3eT9fn7FGxK730YU), [Twilight.13](https://open.spotify.com/artist/4N1jpZDATwsCAU75B8Bh99) | [Goblin Knight](https://open.spotify.com/album/0i6ImkD3jN1XI1Iw0OvcJK) | 2:53 |
+| 59 | [Run Run Rudolf](https://open.spotify.com/track/2DOb4zdUX9Y2i82w2M0g2Y) | [Amelina](https://open.spotify.com/artist/2KB8CcoEbyUA0hP58619Iu) | [Season of Joy](https://open.spotify.com/album/7eu9Q8J8RkTsB2NwbrhL94) | 2:26 |
+| 60 | [Caminhos de Paz](https://open.spotify.com/track/0S28V1639JxeR58ByJYUF8) | [De Santtis](https://open.spotify.com/artist/2HnzHLy6N3v8egi2chpYmN) | [Caminhos de Paz](https://open.spotify.com/album/1HgyvbF4rQJ3pvO4IGqVFM) | 3:38 |
 
-Snapshot ID: `AAAKSc+hdrnTh/Gby1fz/XMkQZhplxIc`
+Snapshot ID: `AAAKTVtViMh5PqzJFEBlQ4kK+z9Iugjf`

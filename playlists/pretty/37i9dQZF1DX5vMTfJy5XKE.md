@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 > 'Tis the season! All new holiday releases\. Cover: The Pretty Reckless
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,205 likes - 241 songs - 12 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,152 likes - 241 songs - 12 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -250,4 +250,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 240 | [The Christmas Song \- Cheery & Bright](https://open.spotify.com/track/0hode0HJru0rWthIlCLSUK) | [Elysia Biro](https://open.spotify.com/artist/1Hf13BeholAGi7Ontz4P5L) | [The Christmas Song](https://open.spotify.com/album/1nHulRk2NK7CFmJ4SZCH6I) | 2:47 |
 | 241 | [Holiday Dream](https://open.spotify.com/track/0kRLJXQOxLBWIn7H4vG9cA) | [Jamra](https://open.spotify.com/artist/5s8r3DCYb7AhwXrQNFoyh8) | [Holiday Dream](https://open.spotify.com/album/5hGhLXk2pz1G0ROuRKPPs0) | 3:02 |
 
-Snapshot ID: `AAAAAKhiv2TRRjfOn5zlMwivzgQiWVA+`
+Snapshot ID: `AAAAAEfn9iBTdEnjjWrpeD5gdKM5Xp8k`

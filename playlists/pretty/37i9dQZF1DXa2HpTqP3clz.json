@@ -1,6 +1,6 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Rhiannon Giddens & Justin Robinson",
-  "num_followers": 167284,
+  "num_followers": 167279,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
@@ -451,22 +451,6 @@
     {
       "added_at": "2025-11-21 05:00:31",
       "album": {
-        "name": "Small Towns",
-        "url": "https://open.spotify.com/album/5M2xYmYWURBE2Ysf9Os1Ik"
-      },
-      "artists": [
-        {
-          "name": "Stillhouse Junkies",
-          "url": "https://open.spotify.com/artist/4D6vB1CQKyNX0zh7MM0IFj"
-        }
-      ],
-      "duration_ms": 228186,
-      "name": "Colorado Bound",
-      "url": "https://open.spotify.com/track/3b0Yprz0kBXiZOcuPqMq6g"
-    },
-    {
-      "added_at": "2025-11-21 05:00:31",
-      "album": {
         "name": "Wake Me When It's Over",
         "url": "https://open.spotify.com/album/0TagfK04olSVvnfHtWbhJz"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 258393,
       "name": "Wake Me When It's Over",
       "url": "https://open.spotify.com/track/0J10lTnQV1rosvX0jYYX5J"
+    },
+    {
+      "added_at": "2025-11-21 05:00:31",
+      "album": {
+        "name": "Small Towns",
+        "url": "https://open.spotify.com/album/5M2xYmYWURBE2Ysf9Os1Ik"
+      },
+      "artists": [
+        {
+          "name": "Stillhouse Junkies",
+          "url": "https://open.spotify.com/artist/4D6vB1CQKyNX0zh7MM0IFj"
+        }
+      ],
+      "duration_ms": 228186,
+      "name": "Colorado Bound",
+      "url": "https://open.spotify.com/track/3b0Yprz0kBXiZOcuPqMq6g"
     },
     {
       "added_at": "2025-11-21 05:00:31",
@@ -591,6 +591,42 @@
     {
       "added_at": "2025-11-21 05:00:31",
       "album": {
+        "name": "Happy Valley",
+        "url": "https://open.spotify.com/album/4llhhUoj1OoUvwXeWOY3nV"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Ellis",
+          "url": "https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB"
+        },
+        {
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
+        }
+      ],
+      "duration_ms": 218500,
+      "name": "Grassy Cove",
+      "url": "https://open.spotify.com/track/3aSvpbflrV8PCqENiZIuD5"
+    },
+    {
+      "added_at": "2025-11-21 05:00:31",
+      "album": {
+        "name": "Knee Deep in Bluegrass",
+        "url": "https://open.spotify.com/album/1DwPW07YVEUjtv6g3Q2lfC"
+      },
+      "artists": [
+        {
+          "name": "Ashby Frank",
+          "url": "https://open.spotify.com/artist/1Z3CpFgkHqQNA8F73CgkqT"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Knee Deep in Bluegrass",
+      "url": "https://open.spotify.com/track/1OUD7ceuWPD2DHFXly0voV"
+    },
+    {
+      "added_at": "2025-11-21 05:00:31",
+      "album": {
         "name": "Never Losing Me",
         "url": "https://open.spotify.com/album/23MHdoOY8YrvORHbpPEQl7"
       },
@@ -615,42 +651,6 @@
     {
       "added_at": "2025-11-21 05:00:31",
       "album": {
-        "name": "Knee Deep in Bluegrass",
-        "url": "https://open.spotify.com/album/1DwPW07YVEUjtv6g3Q2lfC"
-      },
-      "artists": [
-        {
-          "name": "Ashby Frank",
-          "url": "https://open.spotify.com/artist/1Z3CpFgkHqQNA8F73CgkqT"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Knee Deep in Bluegrass",
-      "url": "https://open.spotify.com/track/1OUD7ceuWPD2DHFXly0voV"
-    },
-    {
-      "added_at": "2025-11-21 05:00:31",
-      "album": {
-        "name": "Happy Valley",
-        "url": "https://open.spotify.com/album/4llhhUoj1OoUvwXeWOY3nV"
-      },
-      "artists": [
-        {
-          "name": "Wyatt Ellis",
-          "url": "https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB"
-        },
-        {
-          "name": "Sierra Hull",
-          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
-        }
-      ],
-      "duration_ms": 218500,
-      "name": "Grassy Cove",
-      "url": "https://open.spotify.com/track/3aSvpbflrV8PCqENiZIuD5"
-    },
-    {
-      "added_at": "2025-11-21 05:00:31",
-      "album": {
         "name": "Songs from Horizon",
         "url": "https://open.spotify.com/album/0DbpxbSAqwkEQPinJCyxjq"
       },
@@ -671,22 +671,6 @@
     {
       "added_at": "2025-11-21 05:00:31",
       "album": {
-        "name": "Dan Tyminski: Live From The Ryman",
-        "url": "https://open.spotify.com/album/1Hz94xWUWl3t2WIc0oUjzh"
-      },
-      "artists": [
-        {
-          "name": "Dan Tyminski",
-          "url": "https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8"
-        }
-      ],
-      "duration_ms": 256877,
-      "name": "Whiskey Drinking Man - Live",
-      "url": "https://open.spotify.com/track/46a8OV5xLREGgIymvImALp"
-    },
-    {
-      "added_at": "2025-11-21 05:00:31",
-      "album": {
         "name": "Smoky Mountain DNA: Family, Faith and Fables",
         "url": "https://open.spotify.com/album/28bVqBO08O6jcgirj9Yj0l"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 179389,
       "name": "My Tennessee Mountain Home",
       "url": "https://open.spotify.com/track/6NtjZAMX3jjuzNqHKMFCu8"
+    },
+    {
+      "added_at": "2025-11-21 05:00:31",
+      "album": {
+        "name": "Dan Tyminski: Live From The Ryman",
+        "url": "https://open.spotify.com/album/1Hz94xWUWl3t2WIc0oUjzh"
+      },
+      "artists": [
+        {
+          "name": "Dan Tyminski",
+          "url": "https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8"
+        }
+      ],
+      "duration_ms": 256877,
+      "name": "Whiskey Drinking Man - Live",
+      "url": "https://open.spotify.com/track/46a8OV5xLREGgIymvImALp"
     },
     {
       "added_at": "2025-11-21 05:00:31",
@@ -983,26 +983,18 @@
     {
       "added_at": "2025-11-21 05:00:31",
       "album": {
-        "name": "Living In A Song",
-        "url": "https://open.spotify.com/album/6OBDoOanDakhw9QyyB5wau"
+        "name": "Wanderers Like Me",
+        "url": "https://open.spotify.com/album/4Nw9ao8aprPdx3dItTNn4Y"
       },
       "artists": [
         {
-          "name": "Rob Ickes & Trey Hensley",
-          "url": "https://open.spotify.com/artist/1N33O43FnAJtlHh8Nna68C"
-        },
-        {
-          "name": "Rob Ickes",
-          "url": "https://open.spotify.com/artist/484t62XnzdAjOXvx7IQWDd"
-        },
-        {
-          "name": "Trey Hensley",
-          "url": "https://open.spotify.com/artist/4Rk9tPJMkej36GtfYGjtSa"
+          "name": "The Po' Ramblin' Boys",
+          "url": "https://open.spotify.com/artist/65XZgRZMfuSawjuSFrnz0o"
         }
       ],
-      "duration_ms": 236213,
-      "name": "Living In A Song",
-      "url": "https://open.spotify.com/track/2xedIPhAxW5H0IGWM9J29L"
+      "duration_ms": 189887,
+      "name": "Wanderers Like Me",
+      "url": "https://open.spotify.com/track/226vIwdko5ZDk7Wm7zqlCp"
     },
     {
       "added_at": "2025-11-21 05:00:31",
@@ -1027,18 +1019,26 @@
     {
       "added_at": "2025-11-21 05:00:31",
       "album": {
-        "name": "Wanderers Like Me",
-        "url": "https://open.spotify.com/album/4Nw9ao8aprPdx3dItTNn4Y"
+        "name": "Living In A Song",
+        "url": "https://open.spotify.com/album/6OBDoOanDakhw9QyyB5wau"
       },
       "artists": [
         {
-          "name": "The Po' Ramblin' Boys",
-          "url": "https://open.spotify.com/artist/65XZgRZMfuSawjuSFrnz0o"
+          "name": "Rob Ickes & Trey Hensley",
+          "url": "https://open.spotify.com/artist/1N33O43FnAJtlHh8Nna68C"
+        },
+        {
+          "name": "Rob Ickes",
+          "url": "https://open.spotify.com/artist/484t62XnzdAjOXvx7IQWDd"
+        },
+        {
+          "name": "Trey Hensley",
+          "url": "https://open.spotify.com/artist/4Rk9tPJMkej36GtfYGjtSa"
         }
       ],
-      "duration_ms": 189887,
-      "name": "Wanderers Like Me",
-      "url": "https://open.spotify.com/track/226vIwdko5ZDk7Wm7zqlCp"
+      "duration_ms": 236213,
+      "name": "Living In A Song",
+      "url": "https://open.spotify.com/track/2xedIPhAxW5H0IGWM9J29L"
     },
     {
       "added_at": "2025-11-21 05:00:31",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2025-11-21 05:00:31",
       "album": {
+        "name": "Kentucky Highway",
+        "url": "https://open.spotify.com/album/1MxjkNcs20cCVFvCyjN1ET"
+      },
+      "artists": [
+        {
+          "name": "Williamson Branch",
+          "url": "https://open.spotify.com/artist/4iX67MvaviUQqfP6j9JWxN"
+        }
+      ],
+      "duration_ms": 219493,
+      "name": "Kentucky Highway",
+      "url": "https://open.spotify.com/track/1N21yfPTidop9tkz3P5Kul"
+    },
+    {
+      "added_at": "2025-11-21 05:00:31",
+      "album": {
         "name": "No Matter Where It Goes from Here",
         "url": "https://open.spotify.com/album/6ufi2rWxnAnHf103FKlZl5"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 223586,
       "name": "I'll Blame It on the Rain",
       "url": "https://open.spotify.com/track/3RGxcycEc2SxZ15PqjIeUc"
-    },
-    {
-      "added_at": "2025-11-21 05:00:31",
-      "album": {
-        "name": "Kentucky Highway",
-        "url": "https://open.spotify.com/album/1MxjkNcs20cCVFvCyjN1ET"
-      },
-      "artists": [
-        {
-          "name": "Williamson Branch",
-          "url": "https://open.spotify.com/artist/4iX67MvaviUQqfP6j9JWxN"
-        }
-      ],
-      "duration_ms": 219493,
-      "name": "Kentucky Highway",
-      "url": "https://open.spotify.com/track/1N21yfPTidop9tkz3P5Kul"
     },
     {
       "added_at": "2025-11-21 05:00:31",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2025-11-21 05:00:31",
       "album": {
-        "name": "Railroadin' & Gamblin'",
-        "url": "https://open.spotify.com/album/6d7fThh2fKSgxBt4UelCeb"
-      },
-      "artists": [
-        {
-          "name": "East Nash Grass",
-          "url": "https://open.spotify.com/artist/4RlN3jngfM6H70icTCCPjl"
-        }
-      ],
-      "duration_ms": 173237,
-      "name": "Railroadin' & Gamblin'",
-      "url": "https://open.spotify.com/track/2wjADzzkroggaVRBQj20Tm"
-    },
-    {
-      "added_at": "2025-11-21 05:00:31",
-      "album": {
         "name": "Georgia Rain",
         "url": "https://open.spotify.com/album/1BFRKYgiqWRHl2FVHSLXzg"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 195000,
       "name": "Georgia Rain",
       "url": "https://open.spotify.com/track/6kM1cbK4b9MPzIDKvzXJHu"
+    },
+    {
+      "added_at": "2025-11-21 05:00:31",
+      "album": {
+        "name": "Railroadin' & Gamblin'",
+        "url": "https://open.spotify.com/album/6d7fThh2fKSgxBt4UelCeb"
+      },
+      "artists": [
+        {
+          "name": "East Nash Grass",
+          "url": "https://open.spotify.com/artist/4RlN3jngfM6H70icTCCPjl"
+        }
+      ],
+      "duration_ms": 173237,
+      "name": "Railroadin' & Gamblin'",
+      "url": "https://open.spotify.com/track/2wjADzzkroggaVRBQj20Tm"
     },
     {
       "added_at": "2025-11-21 05:00:31",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2025-11-21 05:00:31",
       "album": {
+        "name": "Keepers of the Flame",
+        "url": "https://open.spotify.com/album/4JpiWeHXlKxVLbqgA7eh9w"
+      },
+      "artists": [
+        {
+          "name": "Lorraine Jordan & Carolina Road",
+          "url": "https://open.spotify.com/artist/6dxPXJaSKfiMQktSMb0ihw"
+        }
+      ],
+      "duration_ms": 175835,
+      "name": "Keepers of the Flame",
+      "url": "https://open.spotify.com/track/3juh17WUSc9M17xaqDrR6g"
+    },
+    {
+      "added_at": "2025-11-21 05:00:31",
+      "album": {
         "name": "Dovetail Cabin",
         "url": "https://open.spotify.com/album/4NjaFWxCAdlf9b4DWLKk5u"
       },
@@ -1579,22 +1595,6 @@
     {
       "added_at": "2025-11-21 05:00:31",
       "album": {
-        "name": "Big Wheels",
-        "url": "https://open.spotify.com/album/12Tpf1U4kQWUiSoquJcfRL"
-      },
-      "artists": [
-        {
-          "name": "Authentic Unlimited",
-          "url": "https://open.spotify.com/artist/5jZqMnM9mgPBcqLPx1tXqO"
-        }
-      ],
-      "duration_ms": 175946,
-      "name": "Big Wheels",
-      "url": "https://open.spotify.com/track/0ZLXEtd3zuVXzP3sW2WGXm"
-    },
-    {
-      "added_at": "2025-11-21 05:00:31",
-      "album": {
         "name": "Bury Me Beneath the Willow",
         "url": "https://open.spotify.com/album/7udN0NdG7MCc8j5ud1XDt5"
       },
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2025-11-21 05:00:31",
       "album": {
+        "name": "Big Wheels",
+        "url": "https://open.spotify.com/album/12Tpf1U4kQWUiSoquJcfRL"
+      },
+      "artists": [
+        {
+          "name": "Authentic Unlimited",
+          "url": "https://open.spotify.com/artist/5jZqMnM9mgPBcqLPx1tXqO"
+        }
+      ],
+      "duration_ms": 175946,
+      "name": "Big Wheels",
+      "url": "https://open.spotify.com/track/0ZLXEtd3zuVXzP3sW2WGXm"
+    },
+    {
+      "added_at": "2025-11-21 05:00:31",
+      "album": {
         "name": "This Sad Song (Single Version) [Live]",
         "url": "https://open.spotify.com/album/7iSdWGN9Q4U6zKeGDM9XuJ"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 138534,
       "name": "This Sad Song (Single Version) [Live]",
       "url": "https://open.spotify.com/track/6YKGPjcii1mJRMaY1hWFGh"
-    },
-    {
-      "added_at": "2025-11-21 05:00:31",
-      "album": {
-        "name": "Keepers of the Flame",
-        "url": "https://open.spotify.com/album/4JpiWeHXlKxVLbqgA7eh9w"
-      },
-      "artists": [
-        {
-          "name": "Lorraine Jordan & Carolina Road",
-          "url": "https://open.spotify.com/artist/6dxPXJaSKfiMQktSMb0ihw"
-        }
-      ],
-      "duration_ms": 175835,
-      "name": "Keepers of the Flame",
-      "url": "https://open.spotify.com/track/3juh17WUSc9M17xaqDrR6g"
     },
     {
       "added_at": "2025-11-21 05:00:31",
@@ -1747,22 +1747,18 @@
     {
       "added_at": "2025-11-21 05:00:31",
       "album": {
-        "name": "Far Away With You",
-        "url": "https://open.spotify.com/album/0DGzXfo9DLJOzhI8iJtLc9"
+        "name": "Let It Fall",
+        "url": "https://open.spotify.com/album/4PUo10KAVp8UYAUXRvVZq2"
       },
       "artists": [
         {
-          "name": "Woody Platt",
-          "url": "https://open.spotify.com/artist/7fWVcDi14a93bylRRHvUp3"
-        },
-        {
-          "name": "Tim O'Brien",
-          "url": "https://open.spotify.com/artist/2nJQCVut36kUzDfy3eUZCM"
+          "name": "Tina Adair",
+          "url": "https://open.spotify.com/artist/2YCut5KatUQQWryPQYPQZS"
         }
       ],
-      "duration_ms": 237529,
-      "name": "Toe The Line",
-      "url": "https://open.spotify.com/track/5JpB4chcqKKQherHTNtGfw"
+      "duration_ms": 213360,
+      "name": "Let It Fall",
+      "url": "https://open.spotify.com/track/0JC6wfQJn8GyFwgscOLNoM"
     },
     {
       "added_at": "2025-11-21 05:00:31",
@@ -1787,18 +1783,22 @@
     {
       "added_at": "2025-11-21 05:00:31",
       "album": {
-        "name": "Radio John: Songs of John Hartford",
-        "url": "https://open.spotify.com/album/7FOxa6jWM5Q08r303wqJCV"
+        "name": "Far Away With You",
+        "url": "https://open.spotify.com/album/0DGzXfo9DLJOzhI8iJtLc9"
       },
       "artists": [
         {
-          "name": "Sam Bush",
-          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
+          "name": "Woody Platt",
+          "url": "https://open.spotify.com/artist/7fWVcDi14a93bylRRHvUp3"
+        },
+        {
+          "name": "Tim O'Brien",
+          "url": "https://open.spotify.com/artist/2nJQCVut36kUzDfy3eUZCM"
         }
       ],
-      "duration_ms": 198493,
-      "name": "I'm Still Here",
-      "url": "https://open.spotify.com/track/7kb2VDW8ENEIsQRUnia0if"
+      "duration_ms": 237529,
+      "name": "Toe The Line",
+      "url": "https://open.spotify.com/track/5JpB4chcqKKQherHTNtGfw"
     }
   ],
   "unique_name": "Grass Roots",

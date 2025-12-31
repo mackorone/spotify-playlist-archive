@@ -4,7 +4,7 @@
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-910 songs - 1 day 19 hr 50 min
+912 songs - 1 day 19 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -623,7 +623,7 @@
 | [Positive Outcome](https://open.spotify.com/track/59HagQwQZ3qOviU1m1gOHx) | [Sonic Waterfall](https://open.spotify.com/artist/3dYazD43M85TR46lQcHzyO) | [Positive Outcome](https://open.spotify.com/album/4p76z1YbqcjFp3vsBaKFn4) | 2:58 | 2025-12-17 |  |
 | [Predetermined](https://open.spotify.com/track/50ugrXieNRkklm9dVwOCEY) | [Luune](https://open.spotify.com/artist/7CPclBDt5moKFAwjPTvLRM) | [Predetermined](https://open.spotify.com/album/5gitXZTrajp0xyWUkojeTB) | 2:35 | 2025-06-17 |  |
 | [Presence](https://open.spotify.com/track/3IooKSGurp7bwCnK5odZEZ) | [Arietis](https://open.spotify.com/artist/03NS5oA1PstBjCg4kwn6lH) | [Presence](https://open.spotify.com/album/37Izr0igRkZEUUto8T2OC6) | 2:55 | 2025-03-05 | 2025-06-26 |
-| [Presence](https://open.spotify.com/track/7a4gDM13MJvGcxkfDqbzIw) | [Calming Eyes](https://open.spotify.com/artist/32QebOlHD4A8nInyCK0wvf) | [Presence](https://open.spotify.com/album/6uOJ38UQCPi167LHTWirvX) | 3:31 | 2025-06-25 |  |
+| [Presence](https://open.spotify.com/track/7a4gDM13MJvGcxkfDqbzIw) | [Calming Eyes](https://open.spotify.com/artist/32QebOlHD4A8nInyCK0wvf) | [Presence](https://open.spotify.com/album/6uOJ38UQCPi167LHTWirvX) | 3:31 | 2025-06-25 | 2025-12-31 |
 | [Primrose](https://open.spotify.com/track/5tIbsGFsbxljVv1KxUUXKV) | [Joan Magana](https://open.spotify.com/artist/0WZH1ZpG77XFRS44A8lL5R) | [Primrose](https://open.spotify.com/album/2T22dTQnkNLOFlfsqv8kd4) | 3:38 | 2023-03-23 | 2024-02-09 |
 | [Principles](https://open.spotify.com/track/0UZxzrNs4vNcBVVWCPc1q5) | [Domi Nova](https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz) | [Principles](https://open.spotify.com/album/6eudpeH8qXukuMMmwntRjA) | 2:37 | 2025-12-03 |  |
 | [Prismatic](https://open.spotify.com/track/4CzH17y6ZqsfL44KIcBPQY) | [Chandeller](https://open.spotify.com/artist/0LzWeBGGtEazh0mJmyxFXi) | [Prismatic](https://open.spotify.com/album/1HxZqb63mQDqGPnPADJ8Us) | 2:51 | 2025-02-26 | 2025-11-17 |
@@ -676,6 +676,7 @@
 | [Retriever](https://open.spotify.com/track/1IA54D0vDanvQu9vU1sH09) | [Rannar Sillard](https://open.spotify.com/artist/3WIjOR36QpKStT6hfxguh5) | [Retriever](https://open.spotify.com/album/15qOfc2nRAZG9AVfw4SPVX) | 2:51 | 2024-02-08 | 2024-10-15 |
 | [Retrospect](https://open.spotify.com/track/4RpF62shn8RYyf3DBk3fD7) | [Aveniós](https://open.spotify.com/artist/4DUA5cmKWH8fIMmPIQhWY1) | [Retrospect](https://open.spotify.com/album/1FzOrekTb5ucVOISuozDmT) | 3:04 | 2023-12-01 | 2024-07-10 |
 | [Return Home](https://open.spotify.com/track/2d0qDRQAsyxsEPr6671Y9X) | [Puddle of Head](https://open.spotify.com/artist/1PKiNVaiRPXCXRF3gqbMqi) | [Return Home](https://open.spotify.com/album/0cyoMdXb1G4J9pBfY0y0ML) | 3:03 | 2024-07-15 | 2025-07-05 |
+| [Revelation](https://open.spotify.com/track/7wQsmSxIPL8pN4hIKwmqQg) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Revelation](https://open.spotify.com/album/695Onhfl8t9WTtHUn9P8Kx) | 2:58 | 2025-12-17 |  |
 | [Revival](https://open.spotify.com/track/28sltBUJ0po8xXWfTrFPe2) | [Brenda Latro](https://open.spotify.com/artist/0mHX6nwLN0iQCEGTNUkpFC) | [Revival](https://open.spotify.com/album/2I4Gb4vBDlszTW1sHT7MDT) | 3:28 | 2023-03-23 | 2024-02-09 |
 | [Rippling](https://open.spotify.com/track/5NeVNbd1n8nNSNbNxUsAzL) | [August Parks](https://open.spotify.com/artist/3qMOfxCeQP5i24x2yOGnof) | [Simpler](https://open.spotify.com/album/04OQuL4urHrYZKc7716UVL) | 3:29 | 2023-03-23 | 2024-05-05 |
 | [Rituals](https://open.spotify.com/track/6ijjVhsdUDrHWTkciKq0nD) | [Lorelle Paredes](https://open.spotify.com/artist/6ivO0lqiz77mOwRgh9UNev) | [Rituals](https://open.spotify.com/album/54PzqjmnzQhv0ylYYUSA6A) | 2:24 | 2023-03-23 | 2024-04-06 |
@@ -815,7 +816,7 @@
 | [Ta chaleur](https://open.spotify.com/track/1svn4a7lSTz623VTmqZKSi) | [Cara Bergé](https://open.spotify.com/artist/0Fgwr7BVpbWeMTLwV973mw) | [Ta chaleur](https://open.spotify.com/album/4ubcU6RHfY7adsUB4xED4O) | 3:00 | 2023-03-23 | 2024-03-21 |
 | [Tantric Life](https://open.spotify.com/track/6TMCj9pbXE0PmopzQdhiZw) | [Neotantra](https://open.spotify.com/artist/1VlwdDnFdsyCA3fLc9D6Gi) | [Tantric Life](https://open.spotify.com/album/0UCujJiEfJKAJ78EUaUEwt) | 3:12 | 2023-03-23 | 2023-05-06 |
 | [Te Urewera](https://open.spotify.com/track/5phPjqe0T4phCAXczNnYgS) | [Jay Belshaw](https://open.spotify.com/artist/5g3sUkuQbNRfpCCKsmJGl0) | [Te Urewera](https://open.spotify.com/album/6tFLZ7gy4Hdn224gUYvkAy) | 3:04 | 2023-03-23 | 2024-02-09 |
-| [Temporal Drowsing](https://open.spotify.com/track/1L2NrXYDrr1E2wfTFdqbee) | [Whispering Dunes](https://open.spotify.com/artist/5v1HNa0v5ZP8ME4E8rxhGN) | [Temporal Drowsing](https://open.spotify.com/album/5PuEvkGd3taUYcyoYmI0As) | 3:17 | 2025-06-25 |  |
+| [Temporal Drowsing](https://open.spotify.com/track/1L2NrXYDrr1E2wfTFdqbee) | [Whispering Dunes](https://open.spotify.com/artist/5v1HNa0v5ZP8ME4E8rxhGN) | [Temporal Drowsing](https://open.spotify.com/album/5PuEvkGd3taUYcyoYmI0As) | 3:17 | 2025-06-25 | 2025-12-31 |
 | [Terra Nova](https://open.spotify.com/track/7aPjlboH22kTdOj6iu4Uhd) | [David Bengloff](https://open.spotify.com/artist/68dr8j57cUoepznTIrbHcm) | [Terra Nova](https://open.spotify.com/album/1Kn4YVvS8pafeyOFK0kiqX) | 2:44 | 2024-03-06 | 2025-02-13 |
 | [Textures](https://open.spotify.com/track/5Z9FEOYBnrYPThpIuvgi5P) | [Moontonic](https://open.spotify.com/artist/2aQ11bG4kZ5Tf45FpsvrwO) | [Textures](https://open.spotify.com/album/5KJVBVLLzcsPVmUAufJZaK) | 2:20 | 2025-07-01 |  |
 | [Thankful](https://open.spotify.com/track/3lg0FcUIHr382sEe5fWuZw) | [Nathaniel Rembrandt](https://open.spotify.com/artist/42o9XvYCWagpauD2sbHOPY) | [Thankful](https://open.spotify.com/album/30JXAmmvqLOTxPSafb9l1V) | 2:41 | 2025-02-14 | 2025-10-30 |
@@ -897,6 +898,7 @@
 | [Way of Shadows](https://open.spotify.com/track/71mN9aVMlm4vBZ6YzKPKeR) | [Astral Shade](https://open.spotify.com/artist/42c3aLrVih68JMreBuRe8m) | [Cloudless Night](https://open.spotify.com/album/2PNoGpXnFx0qIxy5VXJboe) | 2:55 | 2023-03-23 | 2023-10-05 |
 | [Weightless Dreams](https://open.spotify.com/track/3ruyqcT2OOhu1RjNRxdvt5) | [Moon Lit](https://open.spotify.com/artist/75jx9HI2w6eOB1ZcWLky5D) | [Weightless Dreams](https://open.spotify.com/album/3d2qBapHwvc0BVRDzyicWL) | 3:13 | 2025-07-09 |  |
 | [Weightless Hours](https://open.spotify.com/track/0co6X6NlJx2knESquaPjnS) | [Dreamhaven](https://open.spotify.com/artist/2LzHq1MhzyPCKQnzfk1R5Z) | [Weightless Hours](https://open.spotify.com/album/0CW9ihaepJWNxQci3niiHr) | 2:35 | 2025-07-24 | 2025-10-03 |
+| [Well of Light](https://open.spotify.com/track/1S0KCoelHmhj1GMFJDwflR) | [Tom Schiller](https://open.spotify.com/artist/6BxwLDTDUg7sDUQFATt4wZ) | [Well of Light](https://open.spotify.com/album/0foZ95FxbFjITQu2XRRE5D) | 2:42 | 2025-12-17 |  |
 | [What's Best For You](https://open.spotify.com/track/3YPMSEyEJkYpvQB1kcs5Rl) | [Esmay Gouin](https://open.spotify.com/artist/7FmXiPBaufqqZHoBmGEiCx) | [What's Best For You](https://open.spotify.com/album/2k0IJZavMYJ2Pi3ZRymD86) | 3:38 | 2023-03-23 | 2024-02-09 |
 | [When I am with thee](https://open.spotify.com/track/3bBGo3Le7RDVWYqA7xkwgy) | [IGRAINE](https://open.spotify.com/artist/12J6IQCCPzkgAa28w9sZeb) | [When I am with thee](https://open.spotify.com/album/2kyX5xQGvjkrJACDbeGH0U) | 2:55 | 2023-03-23 | 2023-05-06 |
 | [When we looked at the stars](https://open.spotify.com/track/2P8PPvipvkSK2iHsuqR27H) | [Maddox JR](https://open.spotify.com/artist/4IOVtDNRfRnXC3xvPHWTyr) | [Placidity](https://open.spotify.com/album/75ivkKwsC8iTZMcvbI7BeS) | 3:21 | 2023-03-23 | 2024-03-21 |

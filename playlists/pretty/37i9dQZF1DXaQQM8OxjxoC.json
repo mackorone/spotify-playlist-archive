@@ -1,6 +1,6 @@
 {
   "description": "Discover the music of Brahms.",
-  "num_followers": 126501,
+  "num_followers": 126531,
   "original_name": "This Is Brahms",
   "owner": {
     "name": "Spotify",
@@ -1015,6 +1015,26 @@
     {
       "added_at": "2025-12-23 12:26:25",
       "album": {
+        "name": "Brahms: Fantasien, Op. 116, Intermezzi, Op. 117, Klavierst\u00fccke, Op. 118 & 119",
+        "url": "https://open.spotify.com/album/0uaisnbddhMuJBXkHXyw7J"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Nicholas Angelich",
+          "url": "https://open.spotify.com/artist/1yTwwVZPzT44dkQYwitq7E"
+        }
+      ],
+      "duration_ms": 112440,
+      "name": "Brahms: 6 Klavierst\u00fccke, Op. 118: No. 1, Intermezzo in A Minor",
+      "url": "https://open.spotify.com/track/4gkmI0WOmRID6XnVJsNa1i"
+    },
+    {
+      "added_at": "2025-12-23 12:26:25",
+      "album": {
         "name": "Rachmaninoff & Brahms",
         "url": "https://open.spotify.com/album/2TmNwznrmQXjSqx4SPOb1e"
       },
@@ -1039,26 +1059,6 @@
       "duration_ms": 261173,
       "name": "Clarinet Trio in A Minor, Op. 114: IV. Allegro",
       "url": "https://open.spotify.com/track/4nb7T8NQsLEkk7jCUkwSSi"
-    },
-    {
-      "added_at": "2025-12-23 12:26:25",
-      "album": {
-        "name": "Brahms: Fantasien, Op. 116, Intermezzi, Op. 117, Klavierst\u00fccke, Op. 118 & 119",
-        "url": "https://open.spotify.com/album/0uaisnbddhMuJBXkHXyw7J"
-      },
-      "artists": [
-        {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
-        },
-        {
-          "name": "Nicholas Angelich",
-          "url": "https://open.spotify.com/artist/1yTwwVZPzT44dkQYwitq7E"
-        }
-      ],
-      "duration_ms": 112440,
-      "name": "Brahms: 6 Klavierst\u00fccke, Op. 118: No. 1, Intermezzo in A Minor",
-      "url": "https://open.spotify.com/track/4gkmI0WOmRID6XnVJsNa1i"
     },
     {
       "added_at": "2025-12-23 12:26:25",
@@ -1151,6 +1151,30 @@
     {
       "added_at": "2025-12-23 12:26:25",
       "album": {
+        "name": "Brahms: The Symphonies",
+        "url": "https://open.spotify.com/album/0D8FPBeT77NdsjiwuSd103"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Gewandhausorchester",
+          "url": "https://open.spotify.com/artist/0SlNRZ8zBLAgyB1lsoYxAa"
+        },
+        {
+          "name": "Riccardo Chailly",
+          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
+        }
+      ],
+      "duration_ms": 563773,
+      "name": "Academic Festival Overture, Op. 80",
+      "url": "https://open.spotify.com/track/2luhnBAxsk3TYQa8yzP0Yz"
+    },
+    {
+      "added_at": "2025-12-23 12:26:25",
+      "album": {
         "name": "Brahms: Piano Quartets Nos. 2 & 3",
         "url": "https://open.spotify.com/album/5AZZoHYUHd5SPS3ikhFdTE"
       },
@@ -1179,30 +1203,6 @@
       "duration_ms": 701813,
       "name": "Piano Quartet No. 2 in A Major, Op. 26: II. Poco adagio",
       "url": "https://open.spotify.com/track/3ZujvWm4Ho9UMfpoNZcezQ"
-    },
-    {
-      "added_at": "2025-12-23 12:26:25",
-      "album": {
-        "name": "Brahms: The Symphonies",
-        "url": "https://open.spotify.com/album/0D8FPBeT77NdsjiwuSd103"
-      },
-      "artists": [
-        {
-          "name": "Johannes Brahms",
-          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
-        },
-        {
-          "name": "Gewandhausorchester",
-          "url": "https://open.spotify.com/artist/0SlNRZ8zBLAgyB1lsoYxAa"
-        },
-        {
-          "name": "Riccardo Chailly",
-          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
-        }
-      ],
-      "duration_ms": 563773,
-      "name": "Academic Festival Overture, Op. 80",
-      "url": "https://open.spotify.com/track/2luhnBAxsk3TYQa8yzP0Yz"
     },
     {
       "added_at": "2025-12-23 12:26:25",

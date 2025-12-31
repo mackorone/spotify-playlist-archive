@@ -13070,7 +13070,7 @@
       ],
       "date_added": "2025-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-22",
+      "date_removed": null,
       "duration_ms": 157674,
       "name": "E Wow",
       "url": "https://open.spotify.com/track/3EejJyGv6Dj3V0R28gq3lg"
@@ -15448,7 +15448,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 227021,
       "name": "Foca",
       "url": "https://open.spotify.com/track/3plHE4mbRjz3uOQ9P6MOMG"
@@ -22070,7 +22070,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 186923,
       "name": "KIM K",
       "url": "https://open.spotify.com/track/4WRdEbfgaTrVgpJ2M4u21p"
@@ -28354,7 +28354,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 198720,
       "name": "Nikki beach - Live",
       "url": "https://open.spotify.com/track/3gH3LMIJc33Ti95LZgESa6"
@@ -30922,7 +30922,7 @@
       ],
       "date_added": "2025-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 107234,
       "name": "PARANOIA",
       "url": "https://open.spotify.com/track/6Jqms41dkO5rEzbHGnZotB"
@@ -38003,6 +38003,24 @@
     },
     {
       "album": {
+        "name": "Sparge case",
+        "url": "https://open.spotify.com/album/6i1JRxuakKxvWEmj1v7sbi"
+      },
+      "artists": [
+        {
+          "name": "Edy Talent",
+          "url": "https://open.spotify.com/artist/1f2Y1i56FYEzsiRdrAYjsq"
+        }
+      ],
+      "date_added": "2025-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197961,
+      "name": "Sparge case",
+      "url": "https://open.spotify.com/track/1tNJcix1I4XyIaywTduDVk"
+    },
+    {
+      "album": {
         "name": "Special/Hulk",
         "url": "https://open.spotify.com/album/5ys5NDnY6nSJHhuT5sbNxL"
       },
@@ -39408,7 +39426,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-30",
+      "date_removed": null,
       "duration_ms": 188418,
       "name": "Sunt Cu Tzanca Intrun Club Inconjurat De Gagici",
       "url": "https://open.spotify.com/track/4dmFtc69vlPRm6zsDqhtWu"
@@ -45958,7 +45976,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 234895,
       "name": "Winter Ahead (with PARK HYO SHIN)",
       "url": "https://open.spotify.com/track/7G7mSV4BebkoHWwKTDvXu9"

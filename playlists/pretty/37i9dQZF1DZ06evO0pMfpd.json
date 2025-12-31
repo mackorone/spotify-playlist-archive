@@ -1,12 +1,12 @@
 {
   "description": "This is Mi Banda El Mexicano. The essential tracks, all in one playlist.",
-  "num_followers": 77498,
+  "num_followers": 77504,
   "original_name": "This Is Mi Banda El Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVBzAAAAAADgK9Sgr2cSJcooIvZj+x0G",
+  "snapshot_id": "aVHEgAAAAAAJuAn7gBwx1GwN63r7GCxE",
   "tracks": [
     {
       "added_at": null,
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
         }
       ],
-      "duration_ms": 207737,
-      "name": "Orgullosa Mar\u00eda",
-      "url": "https://open.spotify.com/track/44jCTRKB5XefL8x3MSqdro"
+      "duration_ms": 208352,
+      "name": "La Bota",
+      "url": "https://open.spotify.com/track/0W9ePgLWhjLME7crJSvmHv"
     },
     {
       "added_at": null,
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
         }
       ],
-      "duration_ms": 208352,
-      "name": "La Bota",
-      "url": "https://open.spotify.com/track/0W9ePgLWhjLME7crJSvmHv"
+      "duration_ms": 207737,
+      "name": "Orgullosa Mar\u00eda",
+      "url": "https://open.spotify.com/track/44jCTRKB5XefL8x3MSqdro"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fuera de Serie (Remastered 2025)",
-        "url": "https://open.spotify.com/album/09bA0l9N7ntRqwpP0mSWAK"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 214152,
-      "name": "Herido - Remastered 2025",
-      "url": "https://open.spotify.com/track/2cnN94JvFkQoCM3FvYipbA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "15 \u00c9xitos",
         "url": "https://open.spotify.com/album/5scHTQG7vYBjhl4pC8GU89"
       },
@@ -667,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "100% Mexicano",
-        "url": "https://open.spotify.com/album/17yt3UAKnR8zU02tqgwYdh"
+        "name": "Fuera de Serie (Remastered 2025)",
+        "url": "https://open.spotify.com/album/09bA0l9N7ntRqwpP0mSWAK"
       },
       "artists": [
         {
@@ -676,9 +660,9 @@
           "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
         }
       ],
-      "duration_ms": 239934,
-      "name": "Mambo Acelerado (Merengue Acelera'o)",
-      "url": "https://open.spotify.com/track/3szGgpDpvcxXYYP70GA9OP"
+      "duration_ms": 214152,
+      "name": "Herido - Remastered 2025",
+      "url": "https://open.spotify.com/track/2cnN94JvFkQoCM3FvYipbA"
     },
     {
       "added_at": null,
@@ -695,6 +679,22 @@
       "duration_ms": 256725,
       "name": "Mambo Del Ruletero",
       "url": "https://open.spotify.com/track/6fpkov2nvKnloFZTB1UhXj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "100% Mexicano",
+        "url": "https://open.spotify.com/album/17yt3UAKnR8zU02tqgwYdh"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 239934,
+      "name": "Mambo Acelerado (Merengue Acelera'o)",
+      "url": "https://open.spotify.com/track/3szGgpDpvcxXYYP70GA9OP"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "100% Mexicano",
-        "url": "https://open.spotify.com/album/17yt3UAKnR8zU02tqgwYdh"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 225354,
-      "name": "Que Ricos Cocos",
-      "url": "https://open.spotify.com/track/6C2qUXLnmMgLc6wcVV3gVM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Colecci\u00f3n De Oro, Vol. 2: Ramito De Violetas",
         "url": "https://open.spotify.com/album/75CJBFLaA4JeVWzLXTRMN6"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 220427,
       "name": "El Zapato Mocho",
       "url": "https://open.spotify.com/track/5pSuHaVvwgzTcloWg063jJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "100% Mexicano",
+        "url": "https://open.spotify.com/album/17yt3UAKnR8zU02tqgwYdh"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 225354,
+      "name": "Que Ricos Cocos",
+      "url": "https://open.spotify.com/track/6C2qUXLnmMgLc6wcVV3gVM"
     },
     {
       "added_at": null,
@@ -795,22 +795,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "50 Gracias Al Cielo",
-        "url": "https://open.spotify.com/album/3LZIDVwRiqlqNsTf2FGIEz"
+        "name": "Colecci\u00f3n De Oro, Vol. 2: Ramito De Violetas",
+        "url": "https://open.spotify.com/album/75CJBFLaA4JeVWzLXTRMN6"
       },
       "artists": [
-        {
-          "name": "Junior Klan",
-          "url": "https://open.spotify.com/artist/38nF3ZyCqorhu0SaQ7yMqI"
-        },
         {
           "name": "Mi Banda El Mexicano",
           "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
         }
       ],
-      "duration_ms": 233615,
-      "name": "No Bailes De Caballito",
-      "url": "https://open.spotify.com/track/3Fykx87C4b5ZQ0UkAfeBNn"
+      "duration_ms": 195221,
+      "name": "La Parab\u00f3lica",
+      "url": "https://open.spotify.com/track/7eOmUxKXqGoRCghz1EJQ77"
     }
   ],
   "unique_name": "This Is Mi Banda El Mexicano",

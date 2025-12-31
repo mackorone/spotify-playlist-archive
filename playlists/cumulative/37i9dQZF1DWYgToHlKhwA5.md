@@ -280,7 +280,7 @@
 | [Raining Me Softly](https://open.spotify.com/track/4CTDJG3F26MUJEwnJ2fhJh) | [Epiphonema](https://open.spotify.com/artist/7zVXfjqG8yM5gVp8WLab5s) | [Cloudburst](https://open.spotify.com/album/4U0en0trmZzCyst9IvCvDA) | 2:09 | 2023-06-15 |  |
 | [Raining Rolling Thunder](https://open.spotify.com/track/7e3Hn9AFgrZrYgAZMJsvDb) | [Creatress](https://open.spotify.com/artist/6wwfROG3fnqz3jyGV3ngPQ) | [Thunder & Rain](https://open.spotify.com/album/3N3P2MRUuDVC6E6Z4ZdOjE) | 3:42 | 2023-04-07 | 2024-03-12 |
 | [Rainy Alley](https://open.spotify.com/track/3OlS3gkeNvoynH6sZ03fl1) | [Stormy Station](https://open.spotify.com/artist/0VlKTntxvT0pVWEXPyWhli) | [Bad Weather](https://open.spotify.com/album/3j478bPDiacEeOFexch1lY) | 3:00 | 2022-07-19 |  |
-| [Rainy Avenue](https://open.spotify.com/track/1Z5uJ80Ppi2uCfoegoQn4z) | [Imber Levis](https://open.spotify.com/artist/2DRELW7sIQc5Dr0y0FDE5T) | [Rainy Night In Amsterdam](https://open.spotify.com/album/546pkDmHceZq17cKjgKLWS) | 3:36 | 2023-06-15 |  |
+| [Rainy Avenue](https://open.spotify.com/track/1Z5uJ80Ppi2uCfoegoQn4z) | [Imber Levis](https://open.spotify.com/artist/2DRELW7sIQc5Dr0y0FDE5T) | [Rainy Night In Amsterdam](https://open.spotify.com/album/546pkDmHceZq17cKjgKLWS) | 3:36 | 2023-06-15 | 2025-12-31 |
 | [Rainy Hour](https://open.spotify.com/track/7GO0aybLNh8Rd7gcfZIuT0) | [Skyyy](https://open.spotify.com/artist/1d1rh6BlGzeXaj67hVeDXe) | [Tears](https://open.spotify.com/album/1EuUFN58BKOLkYDMru8kVh) | 2:35 | 2023-06-15 |  |
 | [Rainy Misty Skies](https://open.spotify.com/track/2l1jBfsyUWsD0NmHMEWtyd) | [Weather Factory](https://open.spotify.com/artist/1hzMcARZTayoVUZwkkiBUb) | [Afternoon Rainfall](https://open.spotify.com/album/5wiZUoAFlYkLnaDgH6qzUn) | 2:36 | 2022-07-19 | 2024-03-12 |
 | [Rainy Mood](https://open.spotify.com/track/5jyrtNJBcaFkNyS4yPixkI) | [Moonlit Mist](https://open.spotify.com/artist/3YJDaoUrlFG52YpVFJiTGU) | [Universe](https://open.spotify.com/album/0oI1JYlTYpbR1ewBStl7Qs) | 2:26 | 2023-06-15 |  |
@@ -450,7 +450,7 @@
 | [Windy Showers](https://open.spotify.com/track/0EFyu4Ayh58pnqFGJXIwij) | [Parapluie](https://open.spotify.com/artist/33DMGJpBsidzfijvdAG8b4) | [Storm Rains](https://open.spotify.com/album/5tepCQ5QVZ5WXF0806PinZ) | 3:04 | 2023-06-15 |  |
 | [Woodland Thunder Sound](https://open.spotify.com/track/4yVrW9Sd12IOeQoeXwfkKj) | [Amba Naturale](https://open.spotify.com/artist/4th8dE9LVvvevKJrrk2Ge2) | [Woodland Thunder Sound](https://open.spotify.com/album/6xCCL17wnj5SMbNXCJ2c2k) | 3:20 | 2023-04-07 |  |
 | [Yoga Rain](https://open.spotify.com/track/4sieuDUZuvGySckrUxCgN2) | [Dream Wonderland](https://open.spotify.com/artist/2FQzApUKsaETAB1fmHHtqd) | [Relax Rain](https://open.spotify.com/album/7fqwCU5bvNyMPUTDXJjW8y) | 2:13 | 2023-06-15 |  |
-| [Åska](https://open.spotify.com/track/3ant2EoVsF6aBczcOBw1D9) | [Naturen](https://open.spotify.com/artist/3ajIuyxPMn88QDy3p6P6FB) | [Åska](https://open.spotify.com/album/3n66vdqIgvH6iNHe8ahQ0g) | 2:23 | 2022-07-19 | 2024-03-18 |
+| [Åska](https://open.spotify.com/track/3ant2EoVsF6aBczcOBw1D9) | [Naturen](https://open.spotify.com/artist/3ajIuyxPMn88QDy3p6P6FB) | [Åska](https://open.spotify.com/album/3n66vdqIgvH6iNHe8ahQ0g) | 2:23 | 2022-07-19 |  |
 | [Åskväder](https://open.spotify.com/track/0xBJh1FWXbt1KyJbVxVYLp) | [Regnmannen](https://open.spotify.com/artist/64tKbWpanYm2SDHGclvjSj) | [Åskljud](https://open.spotify.com/album/6Jd8SQAVeOWorxzNrbeqGX) | 3:46 | 2022-07-19 | 2024-03-12 |
 
 \*This playlist was first scraped on 2023-04-07. Prior content cannot be recovered.

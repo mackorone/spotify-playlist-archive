@@ -1,6 +1,6 @@
 {
   "description": "this is your moment. ",
-  "num_followers": 804351,
+  "num_followers": 804379,
   "original_name": "end credits",
   "owner": {
     "name": "Spotify",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-08-08 19:49:51",
       "album": {
-        "name": "Everything So Far",
-        "url": "https://open.spotify.com/album/7zlf5gmgcFBUSLZpVsh9EE"
-      },
-      "artists": [
-        {
-          "name": "Pinegrove",
-          "url": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
-        }
-      ],
-      "duration_ms": 191796,
-      "name": "Need 2",
-      "url": "https://open.spotify.com/track/3kQfBtkQqgN1fAMfhks8TU"
-    },
-    {
-      "added_at": "2024-08-08 19:49:51",
-      "album": {
         "name": "Country",
         "url": "https://open.spotify.com/album/6DUyohk95eun9LArJtHyF7"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 204276,
       "name": "Cutting Thru The Country",
       "url": "https://open.spotify.com/track/01g05Ii7fj7F8V1UlYFf1q"
+    },
+    {
+      "added_at": "2024-08-08 19:49:51",
+      "album": {
+        "name": "Everything So Far",
+        "url": "https://open.spotify.com/album/7zlf5gmgcFBUSLZpVsh9EE"
+      },
+      "artists": [
+        {
+          "name": "Pinegrove",
+          "url": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB"
+        }
+      ],
+      "duration_ms": 191796,
+      "name": "Need 2",
+      "url": "https://open.spotify.com/track/3kQfBtkQqgN1fAMfhks8TU"
     },
     {
       "added_at": "2024-08-08 19:49:51",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-08-08 19:49:51",
       "album": {
-        "name": "Bags",
-        "url": "https://open.spotify.com/album/5YwYhMFzSWG8i7NEuwnIzs"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 260519,
-      "name": "Bags",
-      "url": "https://open.spotify.com/track/6X3FZtz4cKU2MKSQlGG9ZG"
-    },
-    {
-      "added_at": "2024-08-08 19:49:51",
-      "album": {
         "name": "Dark Red",
         "url": "https://open.spotify.com/album/5fvUFzgVEni3L7769OabqQ"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 173104,
       "name": "Dark Red",
       "url": "https://open.spotify.com/track/37y7iDayfwm3WXn5BiAoRk"
+    },
+    {
+      "added_at": "2024-08-08 19:49:51",
+      "album": {
+        "name": "Bags",
+        "url": "https://open.spotify.com/album/5YwYhMFzSWG8i7NEuwnIzs"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 260519,
+      "name": "Bags",
+      "url": "https://open.spotify.com/track/6X3FZtz4cKU2MKSQlGG9ZG"
     },
     {
       "added_at": "2024-08-08 19:49:51",

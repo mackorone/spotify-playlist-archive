@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-1,697 songs - 4 day 6 hr 48 min
+1,700 songs - 4 day 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -595,6 +595,7 @@
 | [Hawaii](https://open.spotify.com/track/1GF0C543lkF0gTuLrCrSSO) | [Alan](https://open.spotify.com/artist/4pCnnAarSOFMmTPeVlEEHC) | [Hawaii](https://open.spotify.com/album/2tmpTDmeKCoIUpvVNZXDLW) | 3:37 | 2024-06-19 |  |
 | [Hazte oir](https://open.spotify.com/track/1dfB3PNQCu7FMhf9xae073) | [Marcoo](https://open.spotify.com/artist/78r09t3sUYBpJSrYZqeAxb) | [Hazte oir](https://open.spotify.com/album/0iqOcbtUyjYtnHZgU8Jdzv) | 3:09 | 2025-11-24 |  |
 | [He Is Alive in Dub](https://open.spotify.com/track/34Hn5bCyc8m18UOnwSH2jt) | [Muflon Dub Soundsystem](https://open.spotify.com/artist/2Ezu1DrYA7N80DduUwUnE1), [Queen Merry](https://open.spotify.com/artist/2VZH0NsBu8jaZWiQThdgyI), [Norma](https://open.spotify.com/artist/0m9V6VkZS0jjZXHJRjsqVC) | [In Love with Righteousness \(2005\-2014 Best Dubs Compilation\)](https://open.spotify.com/album/0yCEH2qbynKuAzXt7x3Yzp) | 4:44 | 2024-05-01 |  |
+| [He Talks Too Angels](https://open.spotify.com/track/0dMjRdjCuvh8CTMGnwc4Uv) | [420 Vision](https://open.spotify.com/artist/0Jfa0ovGl8yKOxqRCzXmcr) | [He Talks Too Angels](https://open.spotify.com/album/29PpTwjX8Faxt3VhyyIH5t) | 5:44 | 2025-12-30 |  |
 | [HEAL+](https://open.spotify.com/track/1WuHnhDk7Ebo0JMK2UFzIZ) | [SPYROL](https://open.spotify.com/artist/4RRp58MyXF2GEX50W3QdMv) | [HEAL+](https://open.spotify.com/album/5wyyvHCnBZ2qj0wIxbMKoa) | 2:26 | 2025-11-30 |  |
 | [Hear the Sound](https://open.spotify.com/track/0C3nWmG2S3Cdsc6kgvKFpJ) | [Fra](https://open.spotify.com/artist/7bbemKBpCgvwVPn8dF4kct) | [Hear the Sound](https://open.spotify.com/album/1vZwno53v8zdvLLpQpRyYZ) | 3:36 | 2025-06-09 |  |
 | [Hearts of Stone](https://open.spotify.com/track/3BLWZXp6bu4FeJzCNnzHId) | [Fra](https://open.spotify.com/artist/7bbemKBpCgvwVPn8dF4kct) | [Hearts of Stone](https://open.spotify.com/album/6Fc2AFpa3KBMYoOe2BHaom) | 3:28 | 2025-08-11 |  |
@@ -1130,6 +1131,7 @@
 | [Pikachu's Goodbye](https://open.spotify.com/track/1vXOrsDaOpLcaj2XpqQTwa) | [Edren](https://open.spotify.com/artist/60dVRzJKHt26v1lJLTszSG) | [Pikachu's Goodbye](https://open.spotify.com/album/5SwKUBQ2XELNFvKKVVoasY) | 2:13 | 2025-08-01 |  |
 | [Pink Matter](https://open.spotify.com/track/1fOkmYW3ZFkkjIdOZSf596) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM), [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 4:28 | 2025-05-28 |  |
 | [Pink Rain \(Re:make\)](https://open.spotify.com/track/7ruc9npO8S8bsl1VJA3Gjj) | [Turbo.Shihtzu](https://open.spotify.com/artist/64FbqwHzilmYc7JTt1MauK) | [Pink Rain \(Re:make\)](https://open.spotify.com/album/7vn0X5D6BCutk8KC4CSoLK) | 2:26 | 2025-11-17 |  |
+| [Pizza Funghi](https://open.spotify.com/track/5xW0M3w4m9fQdBbTbpWca4) | [Lunamber](https://open.spotify.com/artist/6kQ6my1pRo4S7X8WYXj8B1) | [Pizza Funghi](https://open.spotify.com/album/6iLwnrQTImmq300jcdRrMC) | 2:44 | 2025-12-30 |  |
 | [Planta Crecer](https://open.spotify.com/track/3bwexrnqApEcDKEEOMy7J6) | [Mr\. Mol](https://open.spotify.com/artist/0Pzhf2LTb0C0RJeAxaEBjx) | [Planta Crecer](https://open.spotify.com/album/4Hug1prc0w4BrGHmQHbHPQ) | 5:04 | 2025-11-18 |  |
 | [Plexiglass](https://open.spotify.com/track/5cIsqbJwWrsIJXMv6Y1uWb) | [CrisVola](https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo) | [Plexiglass](https://open.spotify.com/album/27P1bW7XWa91u80HQQCMhQ) | 3:37 | 2023-03-15 |  |
 | [Pliz non la skippare](https://open.spotify.com/track/1Oj3hSFsRVMVSPrMqWKrGa) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [Pliz non la skippare](https://open.spotify.com/album/35Hx1zfxo8WY4t5LiBjXPl) | 3:45 | 2025-09-29 |  |
@@ -1606,6 +1608,7 @@
 | [Warning](https://open.spotify.com/track/7klOJejCcDotE1mMKEbn9l) | [Munay Ki Dub](https://open.spotify.com/artist/2AhLMWSB5ljBDOSpz1RvzE) | [MKD](https://open.spotify.com/album/6JpOy0NsksNvyMAiqIHri3) | 5:58 | 2024-03-10 |  |
 | [Warning \- Micronomade Remix](https://open.spotify.com/track/3Yk03gaR9TkTFxS2XOMmZD) | [Munay Ki Dub](https://open.spotify.com/artist/2AhLMWSB5ljBDOSpz1RvzE), [Micronomade](https://open.spotify.com/artist/0pSqI0rE5UF7zviRWrkmAf) | [Warning \(Micronomade Remix\)](https://open.spotify.com/album/4OpItgA73V6NBArSqCcJgM) | 4:14 | 2025-01-24 |  |
 | [Warrior Dub](https://open.spotify.com/track/0MF0rFPKo8l985uFLgQpmL) | [Foshan Roots](https://open.spotify.com/artist/0Erm3ZsKDZVUF4NdUMfYtj) | [Sky Warrior Dub](https://open.spotify.com/album/6mgr4wFK7XSJOdmapRBjun) | 4:28 | 2024-05-01 |  |
+| [Waters of Quiet Healing \(Thème du Soin\)](https://open.spotify.com/track/2CbEox9lXcr1a2FUKgLr39) | [Florian Bochkovsky](https://open.spotify.com/artist/2VGhfRg7fACPIC0txbKqCp) | [Le Royaume D'Ailm \(Original Game Soundtrack\)](https://open.spotify.com/album/41i1shI977hJN6kHl7ZBWR) | 1:38 | 2025-12-30 |  |
 | [We Lived \- Radio Edit](https://open.spotify.com/track/6qlzZSpHoDztlEdlPy2YO9) | [Steve Lee Jefferson](https://open.spotify.com/artist/5VPp8TdbjGnTiXl3BxuVpX) | [We Lived \(Radio Edit\)](https://open.spotify.com/album/7hVA74XJrqhbVw5Uhv75H3) | 3:59 | 2025-05-25 |  |
 | [We Rize](https://open.spotify.com/track/0UbGz7ghXaSO0eg4qmr30V) | [Caspa Clark](https://open.spotify.com/artist/0Ox3FqXrE6J3mdEgVHKCO7), [Grafh](https://open.spotify.com/artist/4rKPpij2gIDKsZsfjCfk1U) | [We Rize](https://open.spotify.com/album/0LsxEYjEh8BWZdjNOi0rPk) | 3:59 | 2025-10-07 |  |
 | [Weed With Dub Love](https://open.spotify.com/track/0KXm5JRyIfoWM38BS20acy) | [Eter Dub](https://open.spotify.com/artist/0jJUaAYWFTgU3u2rJ2hemD) | [Eternally Wise](https://open.spotify.com/album/55JXe3ycpfulvzRPxaWxM9) | 4:32 | 2024-05-01 |  |

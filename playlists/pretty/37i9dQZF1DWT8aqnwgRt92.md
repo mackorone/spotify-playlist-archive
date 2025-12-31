@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Hottest Anime hits & best new tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,548,315 likes - 101 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,548,213 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,7 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 97 | [turquoise blue](https://open.spotify.com/track/1wd0jdbqt6tDGMcbqGp0kZ) | [楠木ともり](https://open.spotify.com/artist/0eic2NIS2q4R4jZpKSH7cr) | [turquoise blue](https://open.spotify.com/album/7GnsGYRUmKk8viX3qunbMt) | 3:21 |
 | 98 | [黄金の彼方 \- Golden Horizon](https://open.spotify.com/track/4FB6P63qFpPPnZN9fVw7F8) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [黄金の彼方 \- Golden Horizon](https://open.spotify.com/album/74F9XqQ4eSg3zdu4O9dvKu) | 2:54 |
 | 99 | [FLOOR KILLER](https://open.spotify.com/track/06yl8aXO4iFjn7ZSBfJgvA) | [梅田サイファー](https://open.spotify.com/artist/6jGXROxZ2l5mTSyfVqjLn2), [Cosaqu](https://open.spotify.com/artist/44ZQx3QiQvIGWhspW2PJwZ), [KennyDoes](https://open.spotify.com/artist/0bPWFJWNIvStegSnt43THc), [TAKE\-M](https://open.spotify.com/artist/2MyIIGdQqHZBcKt9PoG0QL), [peko](https://open.spotify.com/artist/4FXJy6E3hz7rbsdoKnKtLg), [KOPERU](https://open.spotify.com/artist/4Bt4T2lyR5VbORTf9qCrp7) | [FLOOR KILLER](https://open.spotify.com/album/768ehJ52yeXVWGqxbUOZ5a) | 3:04 |
-| 100 | [I don't wanna feel this way \(feat\. Michael Yano a.k.a ARK, RIKKI\)](https://open.spotify.com/track/4GJ7sFTUZYn9WGpCApwiXq) | [URU](https://open.spotify.com/artist/2XENk2OkUeFXAauXbG5Wdt), [Michael Yano a.k.a ARK](https://open.spotify.com/artist/77rs3TKerd4gJB7XFLstqV), [RIKKI](https://open.spotify.com/artist/6qistEZBgGBM3KXmLX1qYZ) | [I don't wanna feel this way \(feat\. Michael Yano a.k.a ARK, RIKKI\)](https://open.spotify.com/album/5TIaZIcw0Xv6L3dSHZw2o6) | 3:17 |
-| 101 | [Struggle](https://open.spotify.com/track/2lKeMmKy4QHLwxD1Udxv5L) | [KOHTA YAMAMOTO](https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4), [Chogakusei](https://open.spotify.com/artist/1o3K28VZiWLErDUMWD6xuo) | [Struggle](https://open.spotify.com/album/0US6UBCVUHBhfa5oeDBJeL) | 3:38 |
+| 100 | [Struggle](https://open.spotify.com/track/2lKeMmKy4QHLwxD1Udxv5L) | [KOHTA YAMAMOTO](https://open.spotify.com/artist/2hE2ofc7IKD1iQ39HYU5N4), [Chogakusei](https://open.spotify.com/artist/1o3K28VZiWLErDUMWD6xuo) | [Struggle](https://open.spotify.com/album/0US6UBCVUHBhfa5oeDBJeL) | 3:38 |
 
-Snapshot ID: `AAAAAHwoI70xfDZ3+yIcSIC+7Z5NkP0W`
+Snapshot ID: `AAAAANlrpbN02bvsJo2H1dkI9gvRP2xe`

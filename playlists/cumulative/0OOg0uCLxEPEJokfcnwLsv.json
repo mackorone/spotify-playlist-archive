@@ -1295,6 +1295,24 @@
     },
     {
       "album": {
+        "name": "Furniture",
+        "url": "https://open.spotify.com/album/3njCKYLIGVRpN3Ys448Smq"
+      },
+      "artists": [
+        {
+          "name": "Cormac O Caoimh",
+          "url": "https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt"
+        }
+      ],
+      "date_added": "2025-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247261,
+      "name": "Furniture",
+      "url": "https://open.spotify.com/track/0aLWoinlTtoPj47vmM03BD"
+    },
+    {
+      "album": {
         "name": "Get Down",
         "url": "https://open.spotify.com/album/1fjOQHmwo9bT3RImgkOSEm"
       },
@@ -3176,6 +3194,42 @@
       "duration_ms": 193290,
       "name": "Time to Heal",
       "url": "https://open.spotify.com/track/6TNPl5MZg4c0lkuJbvn5Hc"
+    },
+    {
+      "album": {
+        "name": "Torn Apart And Wasted",
+        "url": "https://open.spotify.com/album/0Bi1TNUxcZRWVSNLi2sfMF"
+      },
+      "artists": [
+        {
+          "name": "Leave Behind",
+          "url": "https://open.spotify.com/artist/0AE6KuLlPDvPpFoiNZmVOW"
+        }
+      ],
+      "date_added": "2025-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234285,
+      "name": "Torn Apart And Wasted",
+      "url": "https://open.spotify.com/track/7jyr1VgS4FEvIedi8at6vQ"
+    },
+    {
+      "album": {
+        "name": "Timelapse",
+        "url": "https://open.spotify.com/album/71NZkMm8F19VNaLbFDQkYE"
+      },
+      "artists": [
+        {
+          "name": "Theo Ford",
+          "url": "https://open.spotify.com/artist/2ohDR2ERUEVCG3RgeXSS7S"
+        }
+      ],
+      "date_added": "2025-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380689,
+      "name": "Tragic Lullaby",
+      "url": "https://open.spotify.com/track/0ygYT9IiBh07owS9z0owCX"
     },
     {
       "album": {

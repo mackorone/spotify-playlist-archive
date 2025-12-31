@@ -1,6 +1,6 @@
 {
   "description": "La playlist \u00e0 la cool pour accompagner votre d\u00eener !",
-  "num_followers": 184236,
+  "num_followers": 184534,
   "original_name": "D\u00eener entre amis",
   "owner": {
     "name": "Spotify",
@@ -247,6 +247,22 @@
     {
       "added_at": "2025-12-18 23:00:23",
       "album": {
+        "name": "5",
+        "url": "https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 238679,
+      "name": "Why Why Why Why Why",
+      "url": "https://open.spotify.com/track/4zwq3QUKgMNk0NSLl7fpbP"
+    },
+    {
+      "added_at": "2025-12-18 23:00:23",
+      "album": {
         "name": "Innerquake",
         "url": "https://open.spotify.com/album/3HzJdKpYy285tTrf5xu5RT"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 212813,
       "name": "The Fade Out Line",
       "url": "https://open.spotify.com/track/7I1v3hLSDCZK4EdGVokFcj"
-    },
-    {
-      "added_at": "2025-12-18 23:00:23",
-      "album": {
-        "name": "5",
-        "url": "https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 238679,
-      "name": "Why Why Why Why Why",
-      "url": "https://open.spotify.com/track/4zwq3QUKgMNk0NSLl7fpbP"
     },
     {
       "added_at": "2025-12-18 23:00:23",
@@ -683,6 +683,22 @@
     {
       "added_at": "2025-12-18 23:00:23",
       "album": {
+        "name": "Lay Low",
+        "url": "https://open.spotify.com/album/06TZNVLfMrf0vtk0WsYwj4"
+      },
+      "artists": [
+        {
+          "name": "Lou Doillon",
+          "url": "https://open.spotify.com/artist/05TeWWFqSVEUurt1lVhh4q"
+        }
+      ],
+      "duration_ms": 166080,
+      "name": "Where To Start",
+      "url": "https://open.spotify.com/track/2bhfHrX4IJzF62XKzqZpPX"
+    },
+    {
+      "added_at": "2025-12-18 23:00:23",
+      "album": {
         "name": "Incredibly Blind (feat. X-Cetra)",
         "url": "https://open.spotify.com/album/39ofopEoieuFM7zHvsdpKy"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 144829,
       "name": "Incredibly Blind (feat. X-Cetra)",
       "url": "https://open.spotify.com/track/4Ui0BmcYIgCF3rWQPBGtl3"
-    },
-    {
-      "added_at": "2025-12-18 23:00:23",
-      "album": {
-        "name": "Lay Low",
-        "url": "https://open.spotify.com/album/06TZNVLfMrf0vtk0WsYwj4"
-      },
-      "artists": [
-        {
-          "name": "Lou Doillon",
-          "url": "https://open.spotify.com/artist/05TeWWFqSVEUurt1lVhh4q"
-        }
-      ],
-      "duration_ms": 166080,
-      "name": "Where To Start",
-      "url": "https://open.spotify.com/track/2bhfHrX4IJzF62XKzqZpPX"
     },
     {
       "added_at": "2025-12-18 23:00:23",
@@ -879,22 +879,6 @@
     {
       "added_at": "2025-12-18 23:00:23",
       "album": {
-        "name": "Two of Diamonds",
-        "url": "https://open.spotify.com/album/7dnieoimvSordFsWN5Dec5"
-      },
-      "artists": [
-        {
-          "name": "Mick Harvey",
-          "url": "https://open.spotify.com/artist/5RyAbJ3y4yw8EbDcRblB8S"
-        }
-      ],
-      "duration_ms": 177440,
-      "name": "Out of Time Man",
-      "url": "https://open.spotify.com/track/3nFoPHJR1BOSrTl6jKIl1a"
-    },
-    {
-      "added_at": "2025-12-18 23:00:23",
-      "album": {
         "name": "Isteri",
         "url": "https://open.spotify.com/album/5J3L8ukBVqikwoSN9Mv5sk"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 240000,
       "name": "Spell on You",
       "url": "https://open.spotify.com/track/5w2zI2TnxiP4DMcsA0P30M"
+    },
+    {
+      "added_at": "2025-12-18 23:00:23",
+      "album": {
+        "name": "Two of Diamonds",
+        "url": "https://open.spotify.com/album/7dnieoimvSordFsWN5Dec5"
+      },
+      "artists": [
+        {
+          "name": "Mick Harvey",
+          "url": "https://open.spotify.com/artist/5RyAbJ3y4yw8EbDcRblB8S"
+        }
+      ],
+      "duration_ms": 177440,
+      "name": "Out of Time Man",
+      "url": "https://open.spotify.com/track/3nFoPHJR1BOSrTl6jKIl1a"
     },
     {
       "added_at": "2025-12-18 23:00:23",
@@ -943,26 +943,6 @@
     {
       "added_at": "2025-12-18 23:00:23",
       "album": {
-        "name": "Sim",
-        "url": "https://open.spotify.com/album/36fWvul2SzklDegMxkLRyC"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Da Mata",
-          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
-        },
-        {
-          "name": "Ben Harper",
-          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
-        }
-      ],
-      "duration_ms": 235600,
-      "name": "Boa Sorte / Good Luck (feat. Ben Harper)",
-      "url": "https://open.spotify.com/track/1LR5KBD64oRzGEjQhAMNdj"
-    },
-    {
-      "added_at": "2025-12-18 23:00:23",
-      "album": {
         "name": "Celestial Strut",
         "url": "https://open.spotify.com/album/5UAtIWTEaVwzoZ4NZDtElM"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 349257,
       "name": "Found Your Love",
       "url": "https://open.spotify.com/track/2ohinF8keJDshzetGAK0GX"
+    },
+    {
+      "added_at": "2025-12-18 23:00:23",
+      "album": {
+        "name": "Sim",
+        "url": "https://open.spotify.com/album/36fWvul2SzklDegMxkLRyC"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Da Mata",
+          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
+        },
+        {
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+        }
+      ],
+      "duration_ms": 235600,
+      "name": "Boa Sorte / Good Luck (feat. Ben Harper)",
+      "url": "https://open.spotify.com/track/1LR5KBD64oRzGEjQhAMNdj"
     },
     {
       "added_at": "2025-12-18 23:00:23",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2025-12-18 23:00:23",
       "album": {
-        "name": "Ordinary Creature",
-        "url": "https://open.spotify.com/album/40muwQzy0YCbfQAG0oZIln"
-      },
-      "artists": [
-        {
-          "name": "Of Monsters and Men",
-          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
-        }
-      ],
-      "duration_ms": 220226,
-      "name": "Ordinary Creature",
-      "url": "https://open.spotify.com/track/1jweUS5PZjpmKi4tW1qpgW"
-    },
-    {
-      "added_at": "2025-12-18 23:00:23",
-      "album": {
         "name": "Quand on arrive en ville",
         "url": "https://open.spotify.com/album/6rNR0Z5WpwUNRuQHdJBVcE"
       },
@@ -1163,18 +1147,18 @@
     {
       "added_at": "2025-12-18 23:00:23",
       "album": {
-        "name": "How To Live",
-        "url": "https://open.spotify.com/album/0YrhLhmdGAgsHizxY1BRlH"
+        "name": "Ordinary Creature",
+        "url": "https://open.spotify.com/album/40muwQzy0YCbfQAG0oZIln"
       },
       "artists": [
         {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
         }
       ],
-      "duration_ms": 240043,
-      "name": "How To Live",
-      "url": "https://open.spotify.com/track/25ywKtUww26ABFd0tiGt9D"
+      "duration_ms": 220226,
+      "name": "Ordinary Creature",
+      "url": "https://open.spotify.com/track/1jweUS5PZjpmKi4tW1qpgW"
     },
     {
       "added_at": "2025-12-18 23:00:23",
@@ -1195,6 +1179,38 @@
     {
       "added_at": "2025-12-18 23:00:23",
       "album": {
+        "name": "How To Live",
+        "url": "https://open.spotify.com/album/0YrhLhmdGAgsHizxY1BRlH"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "duration_ms": 240043,
+      "name": "How To Live",
+      "url": "https://open.spotify.com/track/25ywKtUww26ABFd0tiGt9D"
+    },
+    {
+      "added_at": "2025-12-18 23:00:23",
+      "album": {
+        "name": "Can't Help Myself",
+        "url": "https://open.spotify.com/album/0BSru0mLqK04SfTZQiQ9PA"
+      },
+      "artists": [
+        {
+          "name": "Snazzy",
+          "url": "https://open.spotify.com/artist/7lDQhKVaKvuNDftiiZVrYy"
+        }
+      ],
+      "duration_ms": 138181,
+      "name": "Can't Help Myself",
+      "url": "https://open.spotify.com/track/5pUfdVxE1331e8ugacRv4v"
+    },
+    {
+      "added_at": "2025-12-18 23:00:23",
+      "album": {
         "name": "La Llorona",
         "url": "https://open.spotify.com/album/7J8k8Y7zfCFKMPWzUPGVuP"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 255360,
       "name": "De Cara a la Pared",
       "url": "https://open.spotify.com/track/3mnSq0DGKWTZcU3ccymC79"
-    },
-    {
-      "added_at": "2025-12-18 23:00:23",
-      "album": {
-        "name": "Edge of the Earth",
-        "url": "https://open.spotify.com/album/1WljWKt77EMsgjRdnMfUHN"
-      },
-      "artists": [
-        {
-          "name": "Skott",
-          "url": "https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc"
-        }
-      ],
-      "duration_ms": 220348,
-      "name": "Edge of the Earth",
-      "url": "https://open.spotify.com/track/3GzhyEkF7m89mVv3BUJh8N"
     },
     {
       "added_at": "2025-12-18 23:00:23",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2025-12-18 23:00:23",
       "album": {
-        "name": "Can't Help Myself",
-        "url": "https://open.spotify.com/album/0BSru0mLqK04SfTZQiQ9PA"
+        "name": "Edge of the Earth",
+        "url": "https://open.spotify.com/album/1WljWKt77EMsgjRdnMfUHN"
       },
       "artists": [
         {
-          "name": "Snazzy",
-          "url": "https://open.spotify.com/artist/7lDQhKVaKvuNDftiiZVrYy"
+          "name": "Skott",
+          "url": "https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc"
         }
       ],
-      "duration_ms": 138181,
-      "name": "Can't Help Myself",
-      "url": "https://open.spotify.com/track/5pUfdVxE1331e8ugacRv4v"
+      "duration_ms": 220348,
+      "name": "Edge of the Earth",
+      "url": "https://open.spotify.com/track/3GzhyEkF7m89mVv3BUJh8N"
     },
     {
       "added_at": "2025-12-18 23:00:23",
@@ -1399,26 +1399,6 @@
     {
       "added_at": "2025-12-18 23:00:23",
       "album": {
-        "name": "JET LAGGED",
-        "url": "https://open.spotify.com/album/1MqVWu2QqonaSzlpaBLKwV"
-      },
-      "artists": [
-        {
-          "name": "Lava La Rue",
-          "url": "https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43"
-        },
-        {
-          "name": "Foster The People",
-          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
-        }
-      ],
-      "duration_ms": 195454,
-      "name": "JET LAGGED",
-      "url": "https://open.spotify.com/track/482mvThJO7wdJJjymB9PmC"
-    },
-    {
-      "added_at": "2025-12-18 23:00:23",
-      "album": {
         "name": "Let Me Take You",
         "url": "https://open.spotify.com/album/4Gg1QjNa0aZmOKggqWCNYQ"
       },
@@ -1447,6 +1427,26 @@
       "duration_ms": 118441,
       "name": "young rich & beautiful",
       "url": "https://open.spotify.com/track/4xMyrjeR1PICYAB9ZYUg9t"
+    },
+    {
+      "added_at": "2025-12-18 23:00:23",
+      "album": {
+        "name": "JET LAGGED",
+        "url": "https://open.spotify.com/album/1MqVWu2QqonaSzlpaBLKwV"
+      },
+      "artists": [
+        {
+          "name": "Lava La Rue",
+          "url": "https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43"
+        },
+        {
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+        }
+      ],
+      "duration_ms": 195454,
+      "name": "JET LAGGED",
+      "url": "https://open.spotify.com/track/482mvThJO7wdJJjymB9PmC"
     },
     {
       "added_at": "2025-12-18 23:00:23",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2025-12-18 23:00:23",
       "album": {
-        "name": "Beginner Again",
-        "url": "https://open.spotify.com/album/7BYYX0vfbrwK90dpIlwQKI"
-      },
-      "artists": [
-        {
-          "name": "Saint Stacy",
-          "url": "https://open.spotify.com/artist/5jvug60dRrKFRuQp8zKn9G"
-        }
-      ],
-      "duration_ms": 156394,
-      "name": "Didn't Mean To",
-      "url": "https://open.spotify.com/track/0R2F8Y0exgly8whypDattk"
-    },
-    {
-      "added_at": "2025-12-18 23:00:23",
-      "album": {
         "name": "Rapids of Love",
         "url": "https://open.spotify.com/album/0fZHbSZLXoslXNX1xuaC8D"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 165554,
       "name": "Rapids of Love",
       "url": "https://open.spotify.com/track/5FGGgeSA7S5acKX1Z5nQPp"
+    },
+    {
+      "added_at": "2025-12-18 23:00:23",
+      "album": {
+        "name": "Beginner Again",
+        "url": "https://open.spotify.com/album/7BYYX0vfbrwK90dpIlwQKI"
+      },
+      "artists": [
+        {
+          "name": "Saint Stacy",
+          "url": "https://open.spotify.com/artist/5jvug60dRrKFRuQp8zKn9G"
+        }
+      ],
+      "duration_ms": 156394,
+      "name": "Didn't Mean To",
+      "url": "https://open.spotify.com/track/0R2F8Y0exgly8whypDattk"
     }
   ],
   "unique_name": "D\u00eener entre amis",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ⚡️ qui un sacco di musica giovane ⚡️ Cover: Bresh
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,629 likes - 105 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,596 likes - 105 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

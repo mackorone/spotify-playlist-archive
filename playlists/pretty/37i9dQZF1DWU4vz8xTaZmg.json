@@ -1,6 +1,6 @@
 {
   "description": "Hacele honor al domingo y terminalo bien arriba.",
-  "num_followers": 74835,
+  "num_followers": 74849,
   "original_name": "Antidomingo",
   "owner": {
     "name": "Spotify",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2025-10-24 13:16:08",
       "album": {
+        "name": "Sea",
+        "url": "https://open.spotify.com/album/5MAlr4sv266fgE8qVQUeuO"
+      },
+      "artists": [
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "duration_ms": 184546,
+      "name": "Me haces bien",
+      "url": "https://open.spotify.com/track/4UKe38tm5NkRpuFCxwewEe"
+    },
+    {
+      "added_at": "2025-10-24 13:16:08",
+      "album": {
         "name": "Revenge Of The Dreamers III",
         "url": "https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI"
       },
@@ -1599,38 +1615,6 @@
     {
       "added_at": "2025-10-24 13:16:08",
       "album": {
-        "name": "Sea",
-        "url": "https://open.spotify.com/album/5MAlr4sv266fgE8qVQUeuO"
-      },
-      "artists": [
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        }
-      ],
-      "duration_ms": 184546,
-      "name": "Me haces bien",
-      "url": "https://open.spotify.com/track/4UKe38tm5NkRpuFCxwewEe"
-    },
-    {
-      "added_at": "2025-10-24 13:16:08",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/53tvjWbVNZKd3CvpENkzOC"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 201266,
-      "name": "Fortune Faded",
-      "url": "https://open.spotify.com/track/37sSud1ZrTpwXPGJP0dbXI"
-    },
-    {
-      "added_at": "2025-10-24 13:16:08",
-      "album": {
         "name": "C.R.O: Bzrp Music Sessions, Vol. 29/66",
         "url": "https://open.spotify.com/album/6JRgIvDqCA1WxzEhV52zny"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 146341,
       "name": "C.R.O: Bzrp Music Sessions, Vol. 29/66",
       "url": "https://open.spotify.com/track/0qPbQWcqNDVrReSSvMoJxk"
+    },
+    {
+      "added_at": "2025-10-24 13:16:08",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/53tvjWbVNZKd3CvpENkzOC"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 201266,
+      "name": "Fortune Faded",
+      "url": "https://open.spotify.com/track/37sSud1ZrTpwXPGJP0dbXI"
     },
     {
       "added_at": "2025-10-24 13:16:08",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2025-10-24 13:16:08",
       "album": {
-        "name": "Trinchera",
-        "url": "https://open.spotify.com/album/5oLaRXGevqs8RYxXhYe9PG"
-      },
-      "artists": [
-        {
-          "name": "Babasonicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 177540,
-      "name": "Mimos Son Mimos",
-      "url": "https://open.spotify.com/track/0AK6oKtH1xi0y66ZkN6OGT"
-    },
-    {
-      "added_at": "2025-10-24 13:16:08",
-      "album": {
         "name": "Cabildo y Juramento",
         "url": "https://open.spotify.com/album/5N3ahntioMGhMCkEOuNJUn"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 198850,
       "name": "Plegarias",
       "url": "https://open.spotify.com/track/4DfhsWuqZonO5URxvwkBSK"
+    },
+    {
+      "added_at": "2025-10-24 13:16:08",
+      "album": {
+        "name": "Trinchera",
+        "url": "https://open.spotify.com/album/5oLaRXGevqs8RYxXhYe9PG"
+      },
+      "artists": [
+        {
+          "name": "Babasonicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 177540,
+      "name": "Mimos Son Mimos",
+      "url": "https://open.spotify.com/track/0AK6oKtH1xi0y66ZkN6OGT"
     },
     {
       "added_at": "2025-10-24 13:16:08",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2025-10-24 13:16:08",
       "album": {
-        "name": "Baby On Baby",
-        "url": "https://open.spotify.com/album/0O1PJ0t69iTO5yWrIeIga0"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 141826,
-      "name": "Goin Baby",
-      "url": "https://open.spotify.com/track/3WyRgi8CzQnhzO0xw79tTS"
-    },
-    {
-      "added_at": "2025-10-24 13:16:08",
-      "album": {
         "name": "OSCURO \u00c9XTASIS",
         "url": "https://open.spotify.com/album/0fYhjxeRFdXp6s8R9hUXKt"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 215717,
       "name": "CULPA",
       "url": "https://open.spotify.com/track/0BTJ7QpDRjinzAy8KQMAp8"
+    },
+    {
+      "added_at": "2025-10-24 13:16:08",
+      "album": {
+        "name": "Baby On Baby",
+        "url": "https://open.spotify.com/album/0O1PJ0t69iTO5yWrIeIga0"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "duration_ms": 141826,
+      "name": "Goin Baby",
+      "url": "https://open.spotify.com/track/3WyRgi8CzQnhzO0xw79tTS"
     },
     {
       "added_at": "2025-10-24 13:16:08",

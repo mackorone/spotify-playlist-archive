@@ -5596,7 +5596,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-24",
+      "date_removed": null,
       "duration_ms": 138380,
       "name": "AY MAMA (mi tibur\u00f3n)",
       "url": "https://open.spotify.com/track/7yHZ66udwjeUafGohI7T46"
@@ -8228,7 +8228,7 @@
       ],
       "date_added": "2025-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 150733,
       "name": "Big Guy - from \"The SpongeBob Movie: Search for SquarePants\u201d",
       "url": "https://open.spotify.com/track/3HiCAjMaPfM4vnbhLhADBp"
@@ -10654,10 +10654,28 @@
       ],
       "date_added": "2022-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 146106,
       "name": "Cangrejito Playero",
       "url": "https://open.spotify.com/track/60fHPzCX8uR5u5Ajik1Fvz"
+    },
+    {
+      "album": {
+        "name": "El Soltero",
+        "url": "https://open.spotify.com/album/0bjpHFI6ooAjv8ePZj8NsL"
+      },
+      "artists": [
+        {
+          "name": "Acapulco Tropical",
+          "url": "https://open.spotify.com/artist/0wNzx85rLgKy0OXYhpCItV"
+        }
+      ],
+      "date_added": "2025-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146146,
+      "name": "Cangrejito Playero",
+      "url": "https://open.spotify.com/track/6mitEFB3w4GBe8YDlLfITL"
     },
     {
       "album": {
@@ -14704,6 +14722,36 @@
       "duration_ms": 211084,
       "name": "Cuando No Era Cantante",
       "url": "https://open.spotify.com/track/44xDy4h27s4ENaC8fKnCoC"
+    },
+    {
+      "album": {
+        "name": "Cuando No Era Cantante (Remix)",
+        "url": "https://open.spotify.com/album/544ufGb3kucRiYrB93cteJ"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Yung Beef",
+          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
+        }
+      ],
+      "date_added": "2025-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327488,
+      "name": "Cuando No Era Cantante - Remix",
+      "url": "https://open.spotify.com/track/2pbSCYzxrG0wa6qcj8IyiE"
     },
     {
       "album": {
@@ -18760,7 +18808,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 251973,
       "name": "El Africano",
       "url": "https://open.spotify.com/track/4W7elCf7IIBdwoDF7vVaUb"
@@ -21150,7 +21198,7 @@
       ],
       "date_added": "2024-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -32375,6 +32423,28 @@
     },
     {
       "album": {
+        "name": "Private Suite (Vol. 3)",
+        "url": "https://open.spotify.com/album/5e5rU0LAzThZeH5YCc4Pmi"
+      },
+      "artists": [
+        {
+          "name": "ROA",
+          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "date_added": "2025-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234512,
+      "name": "LA FAVORITA DE DIOS",
+      "url": "https://open.spotify.com/track/4M3I01LZqJDFJxs4veb7jt"
+    },
+    {
+      "album": {
         "name": "La Neta",
         "url": "https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1"
       },
@@ -33084,7 +33154,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 190635,
       "name": "La Pizza",
       "url": "https://open.spotify.com/track/5OE4CNBeACLuIXdMW9lohv"
@@ -44151,6 +44221,24 @@
     },
     {
       "album": {
+        "name": "No Me Debes Nada",
+        "url": "https://open.spotify.com/album/6DPJieG975akEr4ZmVDlZa"
+      },
+      "artists": [
+        {
+          "name": "JERRY'S SOUND ROOM",
+          "url": "https://open.spotify.com/artist/0tuO2DDZTKEQ6t6RT47WKH"
+        }
+      ],
+      "date_added": "2025-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256199,
+      "name": "No Me Debes Nada",
+      "url": "https://open.spotify.com/track/3PW8d0bzitfiyeNwsG1MQb"
+    },
+    {
+      "album": {
         "name": "No Me Dejes As\u00ed",
         "url": "https://open.spotify.com/album/4n08POuFITwQukkmnc2fAO"
       },
@@ -48392,6 +48480,28 @@
     {
       "album": {
         "name": "Pase y Toque",
+        "url": "https://open.spotify.com/album/6jJPYY36xdnHzRkT6Dfbj3"
+      },
+      "artists": [
+        {
+          "name": "BeatBoy",
+          "url": "https://open.spotify.com/artist/5UBcT8h31eT62kHEsNaW3X"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        }
+      ],
+      "date_added": "2025-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Pase y Toque",
+      "url": "https://open.spotify.com/track/2MzaScXAL8wrSU9tlEijo6"
+    },
+    {
+      "album": {
+        "name": "Pase y Toque",
         "url": "https://open.spotify.com/album/0ZV9e0ldua8Z1uO5r9f42s"
       },
       "artists": [
@@ -48502,7 +48612,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 226373,
       "name": "Pasito Tun, Tun",
       "url": "https://open.spotify.com/track/2IiqERlz1TkGtLECHyIrQw"
@@ -50688,7 +50798,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 179657,
       "name": "Por Si Se Les Olvidaba - Remix",
       "url": "https://open.spotify.com/track/6zjOIxlIzfRwrGNueMSB49"
@@ -52266,7 +52376,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 154090,
       "name": "Que Sensaci\u00f3n - Remix",
       "url": "https://open.spotify.com/track/0xh2JGmHH1lgRMDaIL94pz"
@@ -53863,6 +53973,28 @@
     },
     {
       "album": {
+        "name": "Reyimiller - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/1oz46z0MSiPSpKiMrWctWV"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "date_added": "2025-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201382,
+      "name": "Reyimiller - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/4tkTw8GLVmn7nPKhQ0pd5i"
+    },
+    {
+      "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
       },
@@ -54642,7 +54774,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-17",
+      "date_removed": null,
       "duration_ms": 298933,
       "name": "Running Up That Hill (A Deal With God)",
       "url": "https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO"
@@ -61656,7 +61788,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-27",
+      "date_removed": null,
       "duration_ms": 150857,
       "name": "Talento",
       "url": "https://open.spotify.com/track/7sChwC2NZjGc2Kdni3hlDg"
@@ -65624,7 +65756,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 248159,
       "name": "Tu Nombre en la Oscuridad",
       "url": "https://open.spotify.com/track/13XTDTngvvkb3b2FpBOQXU"

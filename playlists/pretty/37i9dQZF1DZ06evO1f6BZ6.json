@@ -1,12 +1,12 @@
 {
   "description": "This is Toby Keith. The essential tracks, all in one playlist.",
-  "num_followers": 123959,
+  "num_followers": 123960,
   "original_name": "This Is Toby Keith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVBzAAAAAADVBqPDRII0XSzprROyFoHa",
+  "snapshot_id": "aVHEgAAAAADZ0C3O3uAPgFoRXt50viTk",
   "tracks": [
     {
       "added_at": null,
@@ -798,11 +798,15 @@
         {
           "name": "Toby Keith",
           "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        },
+        {
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
         }
       ],
-      "duration_ms": 257120,
-      "name": "Beautiful Stranger",
-      "url": "https://open.spotify.com/track/6uHSl2vtD7NzQ3yjEAGFGg"
+      "duration_ms": 188413,
+      "name": "Sailboat for Sale",
+      "url": "https://open.spotify.com/track/2wT3VvoiJm0LFZyQrfkQYz"
     },
     {
       "added_at": null,
@@ -886,15 +890,11 @@
         {
           "name": "Toby Keith",
           "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        },
-        {
-          "name": "Jimmy Buffett",
-          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
         }
       ],
-      "duration_ms": 188413,
-      "name": "Sailboat for Sale",
-      "url": "https://open.spotify.com/track/2wT3VvoiJm0LFZyQrfkQYz"
+      "duration_ms": 257120,
+      "name": "Beautiful Stranger",
+      "url": "https://open.spotify.com/track/6uHSl2vtD7NzQ3yjEAGFGg"
     },
     {
       "added_at": null,

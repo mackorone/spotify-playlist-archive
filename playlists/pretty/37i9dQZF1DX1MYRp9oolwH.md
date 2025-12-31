@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 
 > Bringing out the best of latest love tracks<br/>Cover : Raja Saab
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,732 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,885 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 | 49 | [Dhum Thakum \(From "Psych Siddhartha"\)](https://open.spotify.com/track/7DFaNgMboQuV8nrVisLrd0) | [Jassie Gift](https://open.spotify.com/artist/3cowxATurZfjWsJC4uEHsl), [Smaran](https://open.spotify.com/artist/7hVRxcFAqVLMLBRCu6FR3C), [Kasarla Shyam](https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt) | [Dhum Thakum \(From "Psych Siddhartha"\)](https://open.spotify.com/album/4U74fjabNK8LyAX9gFYjOA) | 3:56 |
 | 50 | [Addham Mundhu \(From "Bhartha Mahasayulaku Wignyapthi"\)](https://open.spotify.com/track/7vA6wVaGtdU4M520JX4IAG) | [Bheems Ceciroleo](https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC), [Chandra Bose](https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Addham Mundhu \(From "Bhartha Mahasayulaku Wignyapthi"\)](https://open.spotify.com/album/7BvnglHPVWLbqHBA8uTpk5) | 3:51 |
 
-Snapshot ID: `AAAAAHQQmVb0+s6TK8tXiaR5KL77YlO1`
+Snapshot ID: `AAAAAMkc0EDIKUBUGZ7P43ixQhXEw6al`

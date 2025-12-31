@@ -1,6 +1,6 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 131456,
+  "num_followers": 131482,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
@@ -491,30 +491,6 @@
     {
       "added_at": "2025-08-29 03:01:05",
       "album": {
-        "name": "Queima de Novo (Remix)",
-        "url": "https://open.spotify.com/album/2vx7A0hcCoG3rKSoz9BVP8"
-      },
-      "artists": [
-        {
-          "name": "DJ Mois\u00e9s",
-          "url": "https://open.spotify.com/artist/34GTvNHuHtAOPbp2P6oy3X"
-        },
-        {
-          "name": "Guilherme Miranda",
-          "url": "https://open.spotify.com/artist/0pLrMd2rRcow7yJWg45F2e"
-        },
-        {
-          "name": "Vitinho PAE",
-          "url": "https://open.spotify.com/artist/4bUNgC0RTc1p3wdJe76UB9"
-        }
-      ],
-      "duration_ms": 225712,
-      "name": "Queima de Novo - Remix",
-      "url": "https://open.spotify.com/track/4uZmD5i0iGXQjDJ6t1fGN5"
-    },
-    {
-      "added_at": "2025-08-29 03:01:05",
-      "album": {
         "name": "J\u00e1 N\u00e3o Vivo Eu: Remixes",
         "url": "https://open.spotify.com/album/4d7OitGdG363rNRA0VkBpl"
       },
@@ -535,6 +511,30 @@
       "duration_ms": 215625,
       "name": "J\u00e1 N\u00e3o Vivo Eu - Michaell D Remix",
       "url": "https://open.spotify.com/track/2g6Ua888bM07qMQ5bVm392"
+    },
+    {
+      "added_at": "2025-08-29 03:01:05",
+      "album": {
+        "name": "Queima de Novo (Remix)",
+        "url": "https://open.spotify.com/album/2vx7A0hcCoG3rKSoz9BVP8"
+      },
+      "artists": [
+        {
+          "name": "DJ Mois\u00e9s",
+          "url": "https://open.spotify.com/artist/34GTvNHuHtAOPbp2P6oy3X"
+        },
+        {
+          "name": "Guilherme Miranda",
+          "url": "https://open.spotify.com/artist/0pLrMd2rRcow7yJWg45F2e"
+        },
+        {
+          "name": "Vitinho PAE",
+          "url": "https://open.spotify.com/artist/4bUNgC0RTc1p3wdJe76UB9"
+        }
+      ],
+      "duration_ms": 225712,
+      "name": "Queima de Novo - Remix",
+      "url": "https://open.spotify.com/track/4uZmD5i0iGXQjDJ6t1fGN5"
     },
     {
       "added_at": "2025-08-29 03:01:05",
@@ -583,30 +583,6 @@
     {
       "added_at": "2025-08-29 03:01:05",
       "album": {
-        "name": "Alvo Mais Que a Neve",
-        "url": "https://open.spotify.com/album/6wQNtx1uUcjWfXl1oIZCAp"
-      },
-      "artists": [
-        {
-          "name": "Dois Irm\u00e3os",
-          "url": "https://open.spotify.com/artist/1oGmoG5sbNO6r8VW7RyZll"
-        },
-        {
-          "name": "Lufra",
-          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
-        },
-        {
-          "name": "Michaell D",
-          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
-        }
-      ],
-      "duration_ms": 217968,
-      "name": "Alvo Mais Que a Neve",
-      "url": "https://open.spotify.com/track/3vQkRTXwLjgpHE83LN8Eaf"
-    },
-    {
-      "added_at": "2025-08-29 03:01:05",
-      "album": {
         "name": "Encontrei o Meu Lugar (Remix)",
         "url": "https://open.spotify.com/album/4hgCaDOMhntpliryE9N84R"
       },
@@ -631,6 +607,30 @@
       "duration_ms": 165967,
       "name": "Encontrei o Meu Lugar - Remix",
       "url": "https://open.spotify.com/track/3G9aCmxxZcbvLQL6G3cOko"
+    },
+    {
+      "added_at": "2025-08-29 03:01:05",
+      "album": {
+        "name": "Alvo Mais Que a Neve",
+        "url": "https://open.spotify.com/album/6wQNtx1uUcjWfXl1oIZCAp"
+      },
+      "artists": [
+        {
+          "name": "Dois Irm\u00e3os",
+          "url": "https://open.spotify.com/artist/1oGmoG5sbNO6r8VW7RyZll"
+        },
+        {
+          "name": "Lufra",
+          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
+        },
+        {
+          "name": "Michaell D",
+          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
+        }
+      ],
+      "duration_ms": 217968,
+      "name": "Alvo Mais Que a Neve",
+      "url": "https://open.spotify.com/track/3vQkRTXwLjgpHE83LN8Eaf"
     },
     {
       "added_at": "2025-08-29 03:01:05",
@@ -1151,8 +1151,8 @@
     {
       "added_at": "2025-08-29 03:01:05",
       "album": {
-        "name": "Impar\u00e1vel",
-        "url": "https://open.spotify.com/album/0XX6szHMJ1b5sfzIC8kCGj"
+        "name": "Gra\u00e7a",
+        "url": "https://open.spotify.com/album/55jG2m5ui9g5Szx8idFaTr"
       },
       "artists": [
         {
@@ -1160,17 +1160,21 @@
           "url": "https://open.spotify.com/artist/1oGmoG5sbNO6r8VW7RyZll"
         },
         {
+          "name": "Lufra",
+          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
+        },
+        {
           "name": "Michaell D",
           "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
         },
         {
-          "name": "Lufra",
-          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
+          "name": "Jeovana Menezes",
+          "url": "https://open.spotify.com/artist/5NaPoQ3RKd5KoEAVeO5zqA"
         }
       ],
-      "duration_ms": 163125,
-      "name": "Impar\u00e1vel",
-      "url": "https://open.spotify.com/track/13uOw9VAS34D34jx64rGEk"
+      "duration_ms": 156093,
+      "name": "Gra\u00e7a",
+      "url": "https://open.spotify.com/track/0ethtHl4ngZ6NGgaZm4J8e"
     },
     {
       "added_at": "2025-08-29 03:01:05",
@@ -1287,8 +1291,8 @@
     {
       "added_at": "2025-08-29 03:01:05",
       "album": {
-        "name": "Gra\u00e7a",
-        "url": "https://open.spotify.com/album/55jG2m5ui9g5Szx8idFaTr"
+        "name": "Impar\u00e1vel",
+        "url": "https://open.spotify.com/album/0XX6szHMJ1b5sfzIC8kCGj"
       },
       "artists": [
         {
@@ -1296,21 +1300,17 @@
           "url": "https://open.spotify.com/artist/1oGmoG5sbNO6r8VW7RyZll"
         },
         {
-          "name": "Lufra",
-          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
-        },
-        {
           "name": "Michaell D",
           "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
         },
         {
-          "name": "Jeovana Menezes",
-          "url": "https://open.spotify.com/artist/5NaPoQ3RKd5KoEAVeO5zqA"
+          "name": "Lufra",
+          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
         }
       ],
-      "duration_ms": 156093,
-      "name": "Gra\u00e7a",
-      "url": "https://open.spotify.com/track/0ethtHl4ngZ6NGgaZm4J8e"
+      "duration_ms": 163125,
+      "name": "Impar\u00e1vel",
+      "url": "https://open.spotify.com/track/13uOw9VAS34D34jx64rGEk"
     },
     {
       "added_at": "2025-08-29 03:01:05",

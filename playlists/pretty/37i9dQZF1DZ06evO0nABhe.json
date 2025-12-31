@@ -1,12 +1,12 @@
 {
   "description": "This is Story Of The Year. The essential tracks, all in one playlist.",
-  "num_followers": 11656,
+  "num_followers": 11659,
   "original_name": "This Is Story Of The Year",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVBzAAAAAABVJZEwTgVJvkpDyns2UYT4",
+  "snapshot_id": "aVHEgAAAAACuzg/2nr3oyS30gSR/strW",
   "tracks": [
     {
       "added_at": null,
@@ -451,18 +451,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Black Swan",
-        "url": "https://open.spotify.com/album/0Qk9nVlmC49ZNo9j14khzF"
+        "name": "Can't Slow Down",
+        "url": "https://open.spotify.com/album/37lVwJXOk93Xblhs8GkVsY"
       },
       "artists": [
+        {
+          "name": "Kayzo",
+          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
+        },
         {
           "name": "Story Of The Year",
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 243320,
-      "name": "We're Not Gonna Make It",
-      "url": "https://open.spotify.com/track/4YhclXQSlBbgbyFV3uZ8sI"
+      "duration_ms": 230666,
+      "name": "Can't Slow Down",
+      "url": "https://open.spotify.com/track/3Dfr1VIJGTlnEymtHbrosb"
     },
     {
       "added_at": null,
@@ -499,26 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Can't Slow Down",
-        "url": "https://open.spotify.com/album/37lVwJXOk93Xblhs8GkVsY"
-      },
-      "artists": [
-        {
-          "name": "Kayzo",
-          "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
-        },
-        {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        }
-      ],
-      "duration_ms": 230666,
-      "name": "Can't Slow Down",
-      "url": "https://open.spotify.com/track/3Dfr1VIJGTlnEymtHbrosb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Black Swan",
         "url": "https://open.spotify.com/album/0Qk9nVlmC49ZNo9j14khzF"
       },
@@ -528,9 +512,25 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 240240,
-      "name": "Terrified",
-      "url": "https://open.spotify.com/track/1phS2i2pPfpTsJEQMw5WNA"
+      "duration_ms": 243320,
+      "name": "We're Not Gonna Make It",
+      "url": "https://open.spotify.com/track/4YhclXQSlBbgbyFV3uZ8sI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wolves",
+        "url": "https://open.spotify.com/album/17q9CmOhDYE5vu1wGRWfzi"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "duration_ms": 205903,
+      "name": "How Can We Go On",
+      "url": "https://open.spotify.com/track/11MUmYolZPiuvmCTNgWFNd"
     },
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wolves",
-        "url": "https://open.spotify.com/album/17q9CmOhDYE5vu1wGRWfzi"
-      },
-      "artists": [
-        {
-          "name": "Story Of The Year",
-          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
-        }
-      ],
-      "duration_ms": 205903,
-      "name": "How Can We Go On",
-      "url": "https://open.spotify.com/track/11MUmYolZPiuvmCTNgWFNd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Black Swan",
         "url": "https://open.spotify.com/album/0Qk9nVlmC49ZNo9j14khzF"
       },
@@ -592,9 +576,25 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 224480,
-      "name": "The Black Swan",
-      "url": "https://open.spotify.com/track/7q1pSEtLgDg7ZErzoNWTHS"
+      "duration_ms": 240240,
+      "name": "Terrified",
+      "url": "https://open.spotify.com/track/1phS2i2pPfpTsJEQMw5WNA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wolves",
+        "url": "https://open.spotify.com/album/17q9CmOhDYE5vu1wGRWfzi"
+      },
+      "artists": [
+        {
+          "name": "Story Of The Year",
+          "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
+        }
+      ],
+      "duration_ms": 241663,
+      "name": "A Part of Me",
+      "url": "https://open.spotify.com/track/4tXuOhxMwPa2LlxxWf4OvL"
     },
     {
       "added_at": null,
@@ -631,8 +631,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wolves",
-        "url": "https://open.spotify.com/album/17q9CmOhDYE5vu1wGRWfzi"
+        "name": "The Black Swan",
+        "url": "https://open.spotify.com/album/0Qk9nVlmC49ZNo9j14khzF"
       },
       "artists": [
         {
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt"
         }
       ],
-      "duration_ms": 241663,
-      "name": "A Part of Me",
-      "url": "https://open.spotify.com/track/4tXuOhxMwPa2LlxxWf4OvL"
+      "duration_ms": 224480,
+      "name": "The Black Swan",
+      "url": "https://open.spotify.com/track/7q1pSEtLgDg7ZErzoNWTHS"
     },
     {
       "added_at": null,

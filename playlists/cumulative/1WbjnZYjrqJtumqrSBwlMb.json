@@ -14241,6 +14241,24 @@
     },
     {
       "album": {
+        "name": "The New Abnormal",
+        "url": "https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "date_added": "2025-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351786,
+      "name": "Ode To The Mets",
+      "url": "https://open.spotify.com/track/1BLOVHYYlH4JUHQGcpt75R"
+    },
+    {
+      "album": {
         "name": "Donda",
         "url": "https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz"
       },

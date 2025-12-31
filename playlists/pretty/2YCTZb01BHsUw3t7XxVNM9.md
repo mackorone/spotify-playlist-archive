@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2YCTZb01BHsUw3t7XxVNM9.md) - [plain]
 
 > Western orientated Hardcore Music by Japanese Artists
 
-[超棒的企鹅](https://open.spotify.com/user/megustager) - 775 likes - 522 songs - 1 day 12 hr 9 min
+[超棒的企鹅](https://open.spotify.com/user/megustager) - 776 likes - 522 songs - 1 day 12 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

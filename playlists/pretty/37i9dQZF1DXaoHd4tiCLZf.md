@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 
 > Ready to chic things up\. Listen to the music from Emily in Paris, streaming only on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,337 likes - 200 songs - 11 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,748 likes - 200 songs - 11 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 | 199 | [Good for Me \- Radio Edit](https://open.spotify.com/track/1NLLRTfUS2cBwkQ6ErGJh0) | [Pallace](https://open.spotify.com/artist/1W0VIll9eNi5EiZTRcyYFk), [Emma Hoet](https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9) | [Good for Me](https://open.spotify.com/album/1R2XcZUtTZZrrQTifxFRb7) | 2:44 |
 | 200 | [Dynamite \- from "Emily in Paris" Soundtrack](https://open.spotify.com/track/2kWMnHc8iORF5b8BctKxpU) | [Ashley Park](https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn) | [Dynamite \(from "Emily in Paris" Soundtrack\)](https://open.spotify.com/album/2XEBvWxf5c5LQwAJTINM7Q) | 2:02 |
 
-Snapshot ID: `AAAAAJEMYfsk/cvhOhNdhW4mAx9WDW7c`
+Snapshot ID: `AAAAALouyQeewpPruTPXskH/w1h3W9b+`

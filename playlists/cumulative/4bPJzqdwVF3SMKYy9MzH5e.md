@@ -4,7 +4,7 @@
 
 > 
 
-2,301 songs - 5 day 3 hr 40 min
+2,302 songs - 5 day 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1126,6 +1126,7 @@
 | [King For A Day](https://open.spotify.com/track/1IT0WQk5J8NsaeII8ktdlZ) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Collide With The Sky](https://open.spotify.com/album/661Hz0qJK8WIp7vAWsqKvk) | 3:56 | 2021-08-05 |  |
 | [Kingslayer \(feat\. BABYMETAL\)](https://open.spotify.com/track/7CAbF0By0Fpnbiu6Xn5ZF7) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [POST HUMAN: SURVIVAL HORROR](https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4) | 3:40 | 2021-08-05 |  |
 | [Kingston](https://open.spotify.com/track/5WbfFTuIldjL9x7W6y5l7R) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Atlanta Millionaires Club](https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn) | 3:22 | 2023-03-05 |  |
+| [Kismet](https://open.spotify.com/track/0tCyw7KzjtccLoW0vbmRWr) | [FREE JIMI](https://open.spotify.com/artist/0S3uHVwh6XhFE69pO20yJf) | [Kismet](https://open.spotify.com/album/232fr9yEY7Poi2KYFiRlH3) | 3:41 | 2025-12-31 |  |
 | [Kismet](https://open.spotify.com/track/24hPnL2Yr82INEk0YUWCJr) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [Kismet](https://open.spotify.com/album/516DgQVkrtnV5vmQ5SOxPu) | 2:51 | 2021-08-24 |  |
 | [Kiss](https://open.spotify.com/track/0TXWhNi5BwjGyhlrxZKIsW) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [Romantic](https://open.spotify.com/album/4QixGu0dZC6c6ewEcILjfD) | 1:15 | 2022-12-25 |  |
 | [kiss](https://open.spotify.com/track/1Y2iRXd3PqKD1HyePXazoF) | [NOVE!L](https://open.spotify.com/artist/1UcQ25atADwnZ2U461XkUV) | [kiss](https://open.spotify.com/album/4Yr43C1F088J9VKwiBI7va) | 2:15 | 2025-06-19 |  |

@@ -4,7 +4,7 @@
 
 > the deep & minimal side of house & tech ⛏️⛏️ <br/>with IDEMI
 
-918 songs - 2 day 18 hr 13 min
+920 songs - 2 day 18 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,7 +221,7 @@
 | [Dynasty](https://open.spotify.com/track/21ybzGn5sHmDl72e5nTmgF) | [Iglesias](https://open.spotify.com/artist/3urGFEv1zqwK24gupip690) | [Dynasty](https://open.spotify.com/album/2SWeo6mxvuaZ1AYMxXkapY) | 6:36 | 2023-11-24 | 2025-02-01 |
 | [Easy Game](https://open.spotify.com/track/1slAlbLh6W6sw1yzSGFAhk) | [JAYC](https://open.spotify.com/artist/6RaD7n2k5twat5wiryhGuJ), [Gissa](https://open.spotify.com/artist/2ei6WOXxaCUYqLJbD0Y2mo) | [Easy Game](https://open.spotify.com/album/2lMMMiEW7NSwTnTrw2baaa) | 3:12 | 2025-04-04 | 2025-07-26 |
 | [EATER](https://open.spotify.com/track/2eihCGLP2BildJkKInBNly) | [Luke Andy](https://open.spotify.com/artist/4FxJtBwCaADws2F7xmpZQS) | [EATER](https://open.spotify.com/album/4eZ2eiqbsC99WfQlLZ2YZC) | 3:12 | 2025-05-09 | 2025-07-12 |
-| [Echelon](https://open.spotify.com/track/5RTXZYhWzIGjgekissR2fP) | [JIMII](https://open.spotify.com/artist/2KQQpIJPJDxyEyjbRBVsYf) | [De Groovy EP](https://open.spotify.com/album/3whxzMZr8Kvs6wLuQGVl7V) | 6:47 | 2025-11-21 |  |
+| [Echelon](https://open.spotify.com/track/5RTXZYhWzIGjgekissR2fP) | [JIMII](https://open.spotify.com/artist/2KQQpIJPJDxyEyjbRBVsYf) | [De Groovy EP](https://open.spotify.com/album/3whxzMZr8Kvs6wLuQGVl7V) | 6:47 | 2025-11-21 | 2025-12-31 |
 | [Ecstacy](https://open.spotify.com/track/3tspa7d84OtVKfhmqLHKYc) | [Sammy Porter](https://open.spotify.com/artist/2D51qkOmTNsNQj3C4LIvH7), [Mia Silema](https://open.spotify.com/artist/18n268dKW9UOb3x83gCfaV) | [Ecstacy](https://open.spotify.com/album/3hRYZTHc0SiTwVcNMcKZQh) | 2:35 | 2025-02-21 | 2025-07-05 |
 | [Ecstasy](https://open.spotify.com/track/7DvMAbmkSZsT5EytU35iVv) | [Marsolo](https://open.spotify.com/artist/19KqOfazpv8bU6RrVJpLcV) | [Ecstasy EP](https://open.spotify.com/album/2t1DUvrRJXYfWqEmmRBMnk) | 2:58 | 2025-08-15 | 2025-09-27 |
 | [Electrowise](https://open.spotify.com/track/3uQXBZtZqMmglZ9Txe52aK) | [Jesse Maas](https://open.spotify.com/artist/2eprK9dqUOpKRzI18r7e8G) | [Electrowise](https://open.spotify.com/album/6CKbxFs4VoTe1htqCpndrL) | 2:56 | 2024-08-30 | 2024-11-07 |
@@ -293,6 +293,7 @@
 | [Gangster Boogie \- Radio\-Edit](https://open.spotify.com/track/0EMrYjvRTAB86EgslzOLq8) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [Who You Talking To ?](https://open.spotify.com/album/3jaXPHRq3JEZa4hzfYGhFc) | 3:22 | 2025-03-05 | 2025-07-26 |
 | [Gehörschadengenerator](https://open.spotify.com/track/3NfeXbPEafvsiPtwq5huQX) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Club Vibes Part 01](https://open.spotify.com/album/03zo0uqSccDlJjgWfUT5zk) | 8:38 | 2022-07-22 | 2024-05-11 |
 | [Generate](https://open.spotify.com/track/3EqtaWexm6G2vR8gOuSjxa) | [DXNBY](https://open.spotify.com/artist/7mLmGgoUfP8HHIRj1pIQP8) | [Generate EP](https://open.spotify.com/album/6zXfm35VXhYNOmL3WNhB50) | 3:29 | 2025-11-14 | 2025-12-29 |
+| [Get Back](https://open.spotify.com/track/2wmbYN8YjWvoR6d0kd1aAH) | [Robbie Doherty](https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS) | [2025 Archive](https://open.spotify.com/album/2CpaWF7T14pNheIzANE02v) | 2:52 | 2025-12-30 |  |
 | [Get Busy](https://open.spotify.com/track/703QGWm74jeSnqSvwSQ2Hp) | [Luke Dean](https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4) | [Get Busy](https://open.spotify.com/album/0piPQwLd6hDi7nDZWGG4WI) | 5:36 | 2025-07-11 | 2025-08-30 |
 | [Get Busy](https://open.spotify.com/track/1mXLYEyFbp7VVb608XSrCw) | [Ryan Resso](https://open.spotify.com/artist/5kgvSiEt7OdyYrM0xLHXO9) | [Get Busy](https://open.spotify.com/album/1G6Ezm32dlz7LB3Qq15HKG) | 3:43 | 2025-08-01 | 2025-09-06 |
 | [Get Close](https://open.spotify.com/track/7IHeHb9qVqK3xbCggBmfIF) | [Cam Stockman](https://open.spotify.com/artist/6ZznWCJd9W0TBbLtCK7oFg) | [Get Close](https://open.spotify.com/album/10lxKG4HAHMOWglWwYTYEr) | 3:14 | 2025-10-03 |  |
@@ -318,6 +319,7 @@
 | [Go To Sleep](https://open.spotify.com/track/1hgRPboYDiw2HYC4BOmuGp) | [Alexander Aurel](https://open.spotify.com/artist/6IISWtCeUiNuQ7jnsknnGF) | [Fall in Love EP](https://open.spotify.com/album/2h67Mn5VvLUWVNQnkUcTXg) | 6:25 | 2022-06-03 | 2022-06-12 |
 | [God Complex](https://open.spotify.com/track/00mSaiMr71bGUagR5GoRX1) | [E.R.N.E.S.T.O](https://open.spotify.com/artist/4qztljP89fI8SLn3GTJgqX), [Nala](https://open.spotify.com/artist/2rTvgpXa8PA62yBCfwdQxf) | [Get Familiar](https://open.spotify.com/album/0aJbbIFZGntiHELBrsohJN) | 4:51 | 2022-07-15 | 2022-08-24 |
 | [Going Deeper](https://open.spotify.com/track/6XC72TsCSZlzUTdJPVEGlC) | [Riley \(UK\)](https://open.spotify.com/artist/41vJAAunDUYAg81pOkcWh3) | [Going Deeper](https://open.spotify.com/album/6LG4maoslPuedlB49I6g7M) | 6:18 | 2024-02-23 | 2024-09-14 |
+| [Going To London](https://open.spotify.com/track/3XwNVpJCF4d2yLtXSffnds) | [Robbie Doherty](https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS) | [2025 Archive](https://open.spotify.com/album/2CpaWF7T14pNheIzANE02v) | 4:00 | 2025-12-30 |  |
 | [Golly Molly](https://open.spotify.com/track/6KaOJegxT92jNSBTrVajKF) | [FunkFuse](https://open.spotify.com/artist/1Jwqu35eVD8gEusE4PUi8P) | [The Mess](https://open.spotify.com/album/4zUcTJo5GAdsocXUmwY1C7) | 2:59 | 2025-08-29 | 2025-11-29 |
 | [Good Girls \- Radio\-Edit](https://open.spotify.com/track/1ay3QtSwk4SVlIBdQzG8UO) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF), [George Privatti](https://open.spotify.com/artist/2sasskQYJB0zDfvUUtw0L6) | [Good Girls](https://open.spotify.com/album/4GDSsm3nzzCrxeWrKVtxHH) | 3:10 | 2024-11-04 | 2025-03-08 |
 | [Good Good](https://open.spotify.com/track/2fdGEgozodsM2zW4r0C9T3) | [Ramin Rezaie](https://open.spotify.com/artist/4kJADEfmcYZAHfXzvIfg2w), [Lady Vale](https://open.spotify.com/artist/7CBgUYtjzK6YOIzPre84GK) | [Good Good](https://open.spotify.com/album/2cBO615oOQoZVJislOOSx3) | 3:20 | 2025-09-26 | 2025-11-15 |
@@ -635,7 +637,7 @@
 | [Raw \- Tony Romera Remix](https://open.spotify.com/track/7lxbCUxQXJRkPQ1eErYZd3) | [Julio Navas](https://open.spotify.com/artist/1xTuChuImQkqK7A0aGaZqr), [Gustavo Bravetti](https://open.spotify.com/artist/3COgt6jQqmGpT8vM79C7R9), [David Amo](https://open.spotify.com/artist/6hnD17Gw6ohwryCf3D2AwD), [Tony Romera](https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5) | [Raw \(Tony Romera Remix\)](https://open.spotify.com/album/05RVsgf3zkK6pcTHFmoNkZ) | 3:37 | 2022-08-15 | 2025-02-01 |
 | [Ready For The Blues](https://open.spotify.com/track/6BTaeh7bxG1O2Jk2mQCqXJ) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Ready For The Blues](https://open.spotify.com/album/3J284h72wbaiRytMtO0qTL) | 5:00 | 2022-06-10 | 2025-02-01 |
 | [Ready?](https://open.spotify.com/track/40iqeLCTXWvQwOVgd7IZVS) | [Collier](https://open.spotify.com/artist/44KWTN5dWQd0oAzu1p5xCj) | [Ready?](https://open.spotify.com/album/2DF8uNJXjro2f88roGFqJ3) | 3:50 | 2025-12-29 |  |
-| [Realisation](https://open.spotify.com/track/3ChT8dRHwlXSuAYOOiyMnX) | [Mella Dee](https://open.spotify.com/artist/2iT8KIetokMHRjhj8dJuNn) | [UK Minimal Vol\. 2 \- The Moody Tech Chronicles](https://open.spotify.com/album/5T7722ImPTvALdtnDF6iQe) | 6:37 | 2025-12-12 |  |
+| [Realisation](https://open.spotify.com/track/3ChT8dRHwlXSuAYOOiyMnX) | [Mella Dee](https://open.spotify.com/artist/2iT8KIetokMHRjhj8dJuNn) | [UK Minimal Vol\. 2 \- The Moody Tech Chronicles](https://open.spotify.com/album/5T7722ImPTvALdtnDF6iQe) | 6:37 | 2025-12-12 | 2025-12-31 |
 | [Really Really Hot](https://open.spotify.com/track/21iSZnCRjz9ocvcX5yltFz) | [Eddy M](https://open.spotify.com/artist/0X2423nvaH92bYjYUKCYRI) | [Really Really Hot](https://open.spotify.com/album/59TTDWb62eoMJfe474JIFD) | 3:52 | 2022-06-03 | 2024-03-23 |
 | [Rebola \(feat\. DoFlow\)](https://open.spotify.com/track/0FLhTpx3k2uU1qVGxpiLhs) | [Gettoblaster](https://open.spotify.com/artist/5LGa1U6Mwiib6ocVuJItcG), [Teklow](https://open.spotify.com/artist/1EosnwOj5ddu5EyjpAUS9T), [DoFlow](https://open.spotify.com/artist/2dCbK9C2lQSWpDEMb2P4Vs) | [Rebola \(feat\. DoFlow\)](https://open.spotify.com/album/28G8TNrYXVLIYLsFPXGeyK) | 2:53 | 2023-03-17 | 2023-03-19 |
 | [Reconnection \- Radio Mix](https://open.spotify.com/track/1kLaW7XBG6pYciw2JSmi5G) | [Lewis Taylor](https://open.spotify.com/artist/6jthzPkuxcw4rYbkg6XnoR) | [Reconnection](https://open.spotify.com/album/4wAmuCB7aiH3hwfgdwPzcj) | 4:26 | 2025-12-12 |  |

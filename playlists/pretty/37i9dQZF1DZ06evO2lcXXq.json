@@ -1,12 +1,12 @@
 {
   "description": "This is Lauren Daigle. The essential tracks, all in one playlist.",
-  "num_followers": 367610,
+  "num_followers": 367612,
   "original_name": "This Is Lauren Daigle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVBzAAAAAACiRZdfQP3lbPATNL9em/ov",
+  "snapshot_id": "aVHEgAAAAACrZTxo0QDP4JV6huS5Fg5l",
   "tracks": [
     {
       "added_at": null,
@@ -283,18 +283,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Then I Will (From The Motion Picture Bonhoeffer)",
-        "url": "https://open.spotify.com/album/6W3xdvbT7Bg7lBgsNUU69c"
+        "name": "DAVID (Soundtrack from the Angel Original Film)",
+        "url": "https://open.spotify.com/album/0SwDHyoBXernhnL9scgLDq"
       },
       "artists": [
         {
           "name": "Lauren Daigle",
           "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        },
+        {
+          "name": "Miri Mesika",
+          "url": "https://open.spotify.com/artist/0GmwRPHVAU8zOdTOujIDUa"
+        },
+        {
+          "name": "Angel",
+          "url": "https://open.spotify.com/artist/2Q04nRZfHm5oBF9Z14dpUF"
         }
       ],
-      "duration_ms": 251569,
-      "name": "Then I Will - From The Motion Picture Bonhoeffer",
-      "url": "https://open.spotify.com/track/0gAkOZ6XtfA4e3Nr2nLUhu"
+      "duration_ms": 106552,
+      "name": "Follow The Light (Reprise) - I Will Not Be Afraid Medley",
+      "url": "https://open.spotify.com/track/36K0jYspMVKFl51CWaMNRh"
     },
     {
       "added_at": null,
@@ -331,26 +339,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "DAVID (Soundtrack from the Angel Original Film)",
-        "url": "https://open.spotify.com/album/0SwDHyoBXernhnL9scgLDq"
+        "name": "Then I Will (From The Motion Picture Bonhoeffer)",
+        "url": "https://open.spotify.com/album/6W3xdvbT7Bg7lBgsNUU69c"
       },
       "artists": [
         {
           "name": "Lauren Daigle",
           "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        },
-        {
-          "name": "Miri Mesika",
-          "url": "https://open.spotify.com/artist/0GmwRPHVAU8zOdTOujIDUa"
-        },
-        {
-          "name": "Angel",
-          "url": "https://open.spotify.com/artist/2Q04nRZfHm5oBF9Z14dpUF"
         }
       ],
-      "duration_ms": 106552,
-      "name": "Follow The Light (Reprise) - I Will Not Be Afraid Medley",
-      "url": "https://open.spotify.com/track/36K0jYspMVKFl51CWaMNRh"
+      "duration_ms": 251569,
+      "name": "Then I Will - From The Motion Picture Bonhoeffer",
+      "url": "https://open.spotify.com/track/0gAkOZ6XtfA4e3Nr2nLUhu"
     },
     {
       "added_at": null,

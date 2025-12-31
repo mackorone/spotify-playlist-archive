@@ -4,7 +4,7 @@
 
 > This is Nothing\. The essential tracks, all in one playlist.
 
-68 songs - 5 hr 4 min
+69 songs - 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Intro \- Live](https://open.spotify.com/track/0HtgSvKuGGQIL6wFJkaULw) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Auditory Trauma: Nothing Isolation Sessions \(Live\)](https://open.spotify.com/album/2MWM3VRR7BXbseyUWU9XDI) | 1:19 | 2024-06-24 | 2024-09-02 |
 | [July the Fourth](https://open.spotify.com/track/0iuZ2P8O28jnsdJvECL3Y9) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Whirr & Nothing \(Split Version\)](https://open.spotify.com/album/2wi2jzTXYzL8ospHR52IVo) | 3:40 | 2022-09-16 | 2024-04-25 |
 | [July the Fourth](https://open.spotify.com/track/5jQMGmXgqIszqknvBA65fn) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Whirr & Nothing](https://open.spotify.com/album/6pDNWot4SaDPtMLerJ3AFZ) | 3:40 | 2024-04-25 |  |
+| [La La Means I Love You](https://open.spotify.com/track/2AMobay6t5DRUVmlwtNt7Z) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [The Great Dismal B\-Sides](https://open.spotify.com/album/3hiV9e2rbXw9YMb6QI8F8M) | 4:50 | 2025-12-31 |  |
 | [La La Means I Love You](https://open.spotify.com/track/63W1HzRfGhhpY8PzdScNyh) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [La La Means I Love You](https://open.spotify.com/album/7kyC678MEAE6ifa8rUaaq9) | 4:50 | 2022-09-16 | 2023-04-09 |
 | [Like Stars In The Firmament](https://open.spotify.com/track/0QpBFwWXoSfrdPtEYjiYyr) | [Full Of Hell](https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz), [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Like Stars In The Firmament](https://open.spotify.com/album/5AmHK2cvlnbjo6PaXCqqpU) | 5:24 | 2023-11-10 | 2023-12-14 |
 | [Like Stars In The Firmament](https://open.spotify.com/track/0rCLd0wFQQPqDNsJ1aTNZU) | [Full Of Hell](https://open.spotify.com/artist/1i5rlthy5CmAYWaFOB0jhz), [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [When No Birds Sang](https://open.spotify.com/album/4opClmCXuwpIFSQbFnyou6) | 5:24 | 2023-12-13 |  |

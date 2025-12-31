@@ -344,7 +344,7 @@
       ],
       "date_added": "2025-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 242796,
       "name": "Borte nu",
       "url": "https://open.spotify.com/track/7qJHIWro691ebJIws46iiC"
@@ -712,6 +712,24 @@
       "duration_ms": 408409,
       "name": "Desire",
       "url": "https://open.spotify.com/track/4kdausnjKxfSUzDatuOzkp"
+    },
+    {
+      "album": {
+        "name": "Enola",
+        "url": "https://open.spotify.com/album/1lRNgGzXN9zMelePHq2lkv"
+      },
+      "artists": [
+        {
+          "name": "Seigmen",
+          "url": "https://open.spotify.com/artist/2Z1eA0HAiJ3yAr7byuj4v4"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250946,
+      "name": "Deus",
+      "url": "https://open.spotify.com/track/5B4oYqZryLGzQsJKWSqmki"
     },
     {
       "album": {
@@ -1772,7 +1790,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 299655,
       "name": "IO",
       "url": "https://open.spotify.com/track/78IlRY43O1FTXkXQFEKCU1"
@@ -2916,7 +2934,7 @@
       ],
       "date_added": "2025-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-30",
+      "date_removed": null,
       "duration_ms": 222193,
       "name": "Pick Me Up",
       "url": "https://open.spotify.com/track/14tT9kBpmJCTaPgBe934gk"
@@ -3006,7 +3024,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 232518,
       "name": "Remember to Dare",
       "url": "https://open.spotify.com/track/7wS811eAyJv2KWwro5DkdS"
@@ -4064,7 +4082,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-30",
+      "date_removed": null,
       "duration_ms": 306857,
       "name": "Trappen",
       "url": "https://open.spotify.com/track/0WLNy45tLrBZdobrIc0vjG"

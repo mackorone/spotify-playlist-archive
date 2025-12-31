@@ -1,12 +1,12 @@
 {
   "description": "This is Madonna. The essential tracks, all in one playlist.",
-  "num_followers": 695892,
+  "num_followers": 695972,
   "original_name": "This Is Madonna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVBzAAAAAABQQk/ouq1a2NNrrJEJgjnd",
+  "snapshot_id": "aVHEgAAAAABB0ZzUACo7vCMYfyHsUITR",
   "tracks": [
     {
       "added_at": null,
@@ -379,6 +379,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hung Up",
+        "url": "https://open.spotify.com/album/0yzonkRITawCe3VIGuV9Vc"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 202720,
+      "name": "Hung Up - Radio Version",
+      "url": "https://open.spotify.com/track/1Lg9aMPCykp6LybqcVCXiO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hard Candy",
         "url": "https://open.spotify.com/album/7jgBVzMVZuuhaTG5zQ0Vgk"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 225973,
       "name": "Music",
       "url": "https://open.spotify.com/track/2fzykVsO2Di5jnofUNX3YE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hung Up",
-        "url": "https://open.spotify.com/album/0yzonkRITawCe3VIGuV9Vc"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 202720,
-      "name": "Hung Up - Radio Version",
-      "url": "https://open.spotify.com/track/1Lg9aMPCykp6LybqcVCXiO"
     },
     {
       "added_at": null,
@@ -803,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Celebration (double disc version)",
-        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 239093,
-      "name": "Express Yourself",
-      "url": "https://open.spotify.com/track/6ioBgySxoeQKALvAeLEmId"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rebel Heart (Deluxe)",
         "url": "https://open.spotify.com/album/5TAX07toYGN4AFshlKpmZb"
       },
@@ -839,6 +823,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Celebration (double disc version)",
+        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 239093,
+      "name": "Express Yourself",
+      "url": "https://open.spotify.com/track/6ioBgySxoeQKALvAeLEmId"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Like a Virgin",
         "url": "https://open.spotify.com/album/2IU9ftOgyRL2caQGWK1jjX"
       },
@@ -848,9 +848,9 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 236133,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/7ov1nZ2QZc3LIuCXXERZP0"
+      "duration_ms": 241600,
+      "name": "Dress You Up",
+      "url": "https://open.spotify.com/track/1Fhx9C87IjEAtWI9FF0IzF"
     },
     {
       "added_at": null,

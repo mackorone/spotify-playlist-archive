@@ -989,6 +989,24 @@
     },
     {
       "album": {
+        "name": "misfit",
+        "url": "https://open.spotify.com/album/05LVSFM0UJf9sGSfD81cOo"
+      },
+      "artists": [
+        {
+          "name": "PUNKFICTION",
+          "url": "https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC"
+        }
+      ],
+      "date_added": "2025-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241387,
+      "name": "misfit",
+      "url": "https://open.spotify.com/track/3cZGoKYmu86ATSBA2uBNYr"
+    },
+    {
+      "album": {
         "name": "Monster",
         "url": "https://open.spotify.com/album/0vW0OgHfbaXl2tJTSE7S65"
       },

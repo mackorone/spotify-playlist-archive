@@ -863,6 +863,24 @@
     },
     {
       "album": {
+        "name": "<3",
+        "url": "https://open.spotify.com/album/3WwjmemEW7BGJU36WK8aLR"
+      },
+      "artists": [
+        {
+          "name": "Zell",
+          "url": "https://open.spotify.com/artist/0bslv0fksKPyiH3LQqHagi"
+        }
+      ],
+      "date_added": "2025-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117615,
+      "name": "<3",
+      "url": "https://open.spotify.com/track/6SVahEK2VJWYskzIxVXKVo"
+    },
+    {
+      "album": {
         "name": "A Bar Song (Tipsy)",
         "url": "https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ"
       },
@@ -2638,6 +2656,24 @@
       "duration_ms": 80225,
       "name": "AS NOVINHAS DO JACARE X BEAT PORRADEIRO",
       "url": "https://open.spotify.com/track/0WlTjonJRqcdp4Vf9tm0Ch"
+    },
+    {
+      "album": {
+        "name": "Asuntos Pendientes",
+        "url": "https://open.spotify.com/album/5Vr0HbJRdCJrFnW6h31GOe"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "date_added": "2025-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206823,
+      "name": "Asuntos Pendientes",
+      "url": "https://open.spotify.com/track/3fqQkByxxQm2qllggZlpN7"
     },
     {
       "album": {
@@ -6198,7 +6234,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 188059,
       "name": "CHANEL",
       "url": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
@@ -7307,6 +7343,32 @@
     },
     {
       "album": {
+        "name": "Como Antes Rkt",
+        "url": "https://open.spotify.com/album/1pBueQIybTFJpZXk1C13xD"
+      },
+      "artists": [
+        {
+          "name": "Ventu",
+          "url": "https://open.spotify.com/artist/3yi6WvXQcDeVjqHRSMi9D6"
+        },
+        {
+          "name": "DJSNOWS",
+          "url": "https://open.spotify.com/artist/7mU23JBpApYUGLkB2GlwET"
+        },
+        {
+          "name": "Nacho Pereira",
+          "url": "https://open.spotify.com/artist/7A5GsriHSTxMVGa6qpKFj1"
+        }
+      ],
+      "date_added": "2025-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116586,
+      "name": "Como Antes Rkt",
+      "url": "https://open.spotify.com/track/3p9uaKeQq42R7rPa8iyA53"
+    },
+    {
+      "album": {
         "name": "Como Duele Perderte",
         "url": "https://open.spotify.com/album/4fZcWj5JrGtpQkHh01lBab"
       },
@@ -8088,6 +8150,36 @@
       "duration_ms": 211084,
       "name": "Cuando No Era Cantante",
       "url": "https://open.spotify.com/track/44xDy4h27s4ENaC8fKnCoC"
+    },
+    {
+      "album": {
+        "name": "Cuando No Era Cantante (Remix)",
+        "url": "https://open.spotify.com/album/544ufGb3kucRiYrB93cteJ"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Yung Beef",
+          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
+        }
+      ],
+      "date_added": "2025-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327488,
+      "name": "Cuando No Era Cantante - Remix",
+      "url": "https://open.spotify.com/track/2pbSCYzxrG0wa6qcj8IyiE"
     },
     {
       "album": {
@@ -11968,7 +12060,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 189474,
       "name": "Es la Que Va - Remix",
       "url": "https://open.spotify.com/track/4vwJfnHAC2TbIKFCIYzwLh"
@@ -14378,7 +14470,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 233653,
       "name": "Gil",
       "url": "https://open.spotify.com/track/5jgmQkVypORb3enASCxjYs"
@@ -14814,7 +14906,7 @@
       ],
       "date_added": "2025-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 228520,
       "name": "Gratitud",
       "url": "https://open.spotify.com/track/0yOtvnLnBnjk5BzqsB6JRN"
@@ -18991,6 +19083,32 @@
     },
     {
       "album": {
+        "name": "LADRON",
+        "url": "https://open.spotify.com/album/4rhn6ysDub2uGc0HJq4AF2"
+      },
+      "artists": [
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        },
+        {
+          "name": "Karina",
+          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
+        },
+        {
+          "name": "RAMKY EN LOS CONTROLES",
+          "url": "https://open.spotify.com/artist/6jXFmaC0CvsIRSzxapsnNd"
+        }
+      ],
+      "date_added": "2025-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114545,
+      "name": "LADRON",
+      "url": "https://open.spotify.com/track/2NMctdE1VuUUc4VctEqamB"
+    },
+    {
+      "album": {
         "name": "Cursi",
         "url": "https://open.spotify.com/album/2gH7tHzC7dWnCggRlpwoBC"
       },
@@ -21924,7 +22042,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 168397,
       "name": "Me Presento",
       "url": "https://open.spotify.com/track/0d7Fn3DpzDB8v5YOrfAKUd"
@@ -26052,7 +26170,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 131997,
       "name": "NOT CUTE ANYMORE",
       "url": "https://open.spotify.com/track/1k0JAiH11gHL9dc5dfQjQr"
@@ -26602,7 +26720,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 266840,
       "name": "Obsesionario en La Mayor",
       "url": "https://open.spotify.com/track/2YNMRnIJMCxDQWYfXRxJmB"
@@ -27712,7 +27830,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 165517,
       "name": "Para Repetir | CROSSOVER #11",
       "url": "https://open.spotify.com/track/2qBctWss5FXb7KrPOJzkhw"
@@ -28616,7 +28734,7 @@
       ],
       "date_added": "2025-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 109759,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf"
@@ -30229,6 +30347,28 @@
     },
     {
       "album": {
+        "name": "Quiero Decirte",
+        "url": "https://open.spotify.com/album/15FN3Y2aTgjTnsTxsNWwWj"
+      },
+      "artists": [
+        {
+          "name": "Fede Mestre",
+          "url": "https://open.spotify.com/artist/4kQCav3BRXxbuyGjxQDIy9"
+        },
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+        }
+      ],
+      "date_added": "2025-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150092,
+      "name": "Quiero Decirte",
+      "url": "https://open.spotify.com/track/1jG6XJkyLl0TlmD0xoyheI"
+    },
+    {
+      "album": {
         "name": "El Elogio de la Sombra",
         "url": "https://open.spotify.com/album/3J76glqHSk7FhxCe7nlZD8"
       },
@@ -30446,6 +30586,24 @@
       "duration_ms": 177503,
       "name": "Qu\u00e9date",
       "url": "https://open.spotify.com/track/4yGGutuWdeeUpcSEYQrazO"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9date / Soy Favela / Lo que hay x aqui (En Vivo)",
+        "url": "https://open.spotify.com/album/5Y1gESzY50T01mx7UX10CQ"
+      },
+      "artists": [
+        {
+          "name": "Q' Lokura",
+          "url": "https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y"
+        }
+      ],
+      "date_added": "2025-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362016,
+      "name": "Qu\u00e9date / Soy Favela / Lo que hay x aqui - En Vivo",
+      "url": "https://open.spotify.com/track/3sfrXcrMPS2KMQmzdmjEmp"
     },
     {
       "album": {
@@ -33595,6 +33753,32 @@
     },
     {
       "album": {
+        "name": "Soldado Y Profeta Rkt",
+        "url": "https://open.spotify.com/album/3hPaEDfGHBAookHZB5grML"
+      },
+      "artists": [
+        {
+          "name": "Ventu",
+          "url": "https://open.spotify.com/artist/3yi6WvXQcDeVjqHRSMi9D6"
+        },
+        {
+          "name": "DJSNOWS",
+          "url": "https://open.spotify.com/artist/7mU23JBpApYUGLkB2GlwET"
+        },
+        {
+          "name": "Nacho Pereira",
+          "url": "https://open.spotify.com/artist/7A5GsriHSTxMVGa6qpKFj1"
+        }
+      ],
+      "date_added": "2025-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 80800,
+      "name": "Soldado Y Profeta Rkt",
+      "url": "https://open.spotify.com/track/1wCqJJjIIEkFK0fF5m74Y0"
+    },
+    {
+      "album": {
         "name": "SOLEAO",
         "url": "https://open.spotify.com/album/1UMdrgq8ZuZRrJv7ZLvjpP"
       },
@@ -34616,6 +34800,28 @@
       "duration_ms": 245493,
       "name": "Story of My Life",
       "url": "https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg"
+    },
+    {
+      "album": {
+        "name": "SIN MIEDO AL EXITO",
+        "url": "https://open.spotify.com/album/0eI1Scruhwq5X8PP1IMwTu"
+      },
+      "artists": [
+        {
+          "name": "Koki LS",
+          "url": "https://open.spotify.com/artist/0cl929Cb533FD0HJn226uu"
+        },
+        {
+          "name": "YSY A",
+          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
+        }
+      ],
+      "date_added": "2025-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155738,
+      "name": "STORYTELLING",
+      "url": "https://open.spotify.com/track/0x6lFd6oRU6B5CCRGT0k13"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-518 songs - 1 day 6 hr 8 min
+522 songs - 1 day 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Deja De Decir Lo Que No Sientes](https://open.spotify.com/track/4mKcjRQulihMGHcwelFhr5) | [Glass Mirage](https://open.spotify.com/artist/0ADBjmnPmjHdgD8GEuv5an) | [Deja De Decir Lo Que No Sientes](https://open.spotify.com/album/45Lmki6ohBTKbSTluiDByg) | 2:25 | 2025-11-30 | 2025-12-24 |
 | [Deliria](https://open.spotify.com/track/5lLmmiT3mRddBFXBFjMLUF) | [As Particles Collide](https://open.spotify.com/artist/7ECcvHYe1rQzg2Xv6qi9Ed) | [Within Cells Interlinked Pt\. 2](https://open.spotify.com/album/43LVL45Aw2e8xKvwpyEJYu) | 3:51 | 2025-12-23 |  |
 | [Deny Reality](https://open.spotify.com/track/3GUrEA0NBlyPFqf5Rih34l) | [Andrew Van Garratt](https://open.spotify.com/artist/6VaIdfjQNk9VVojLRHgejA) | [Plausible Deniability](https://open.spotify.com/album/2EmdFHNTV52oVRNXxiSKXb) | 3:00 | 2025-11-17 | 2025-12-10 |
+| [Descent](https://open.spotify.com/track/24nuSMoXe84JsXSH5upNmK) | [Valar Morghulis](https://open.spotify.com/artist/36ziR9uhd3p9xhOJ93zWqa) | [Descent](https://open.spotify.com/album/1hSIgKoFjNTsAVjfRWM0PX) | 5:21 | 2025-12-30 |  |
 | [Desgraça Meritocrata](https://open.spotify.com/track/2toM8JC9BuVV2KWvNI3byX) | [Punkzilla!](https://open.spotify.com/artist/195RH0AAkd21C90BDdtaP9) | [Lutar pela Paz](https://open.spotify.com/album/5ivEjlX5im8gx8jEKzyTyx) | 2:29 | 2025-11-15 | 2025-12-10 |
 | [Devil With The Black Dress On](https://open.spotify.com/track/6vYQkUxIR0CpiJk5qg1Uwn) | [Sarah & The Silent Poets](https://open.spotify.com/artist/13K8ORHx1WpF9cCTQwQVcB) | [Devil With The Black Dress On](https://open.spotify.com/album/1McZnjNxg94UudFY94fRzo) | 2:27 | 2025-10-27 | 2025-12-10 |
 | [Devil's Plaything](https://open.spotify.com/track/6O32obRKSm5MXsCdD6HRxr) | [Number One Babe Team](https://open.spotify.com/artist/3ElFtKAZvIw25oZqAGNoIa) | [Devil's Plaything](https://open.spotify.com/album/6ODY7R5Dto85Jf9H5PzZae) | 2:19 | 2025-12-19 |  |
@@ -214,6 +215,7 @@
 | [I Wanna Know](https://open.spotify.com/track/0kyfqSQ5T3gp3WZbP9RVX2) | [Noiz Ritual](https://open.spotify.com/artist/2RQ8ipqWpztVcqcT5iz0e6) | [Embrace The Noiz](https://open.spotify.com/album/0pCuyOegRhg7KiPIZwwcbV) | 3:22 | 2025-12-23 |  |
 | [I Wanna Leave](https://open.spotify.com/track/7bME0upKK5b32DwGNE7kP7) | [Hana Piranha](https://open.spotify.com/artist/0duS5yd1MThbpAipiGOpcC) | [I Wanna Leave](https://open.spotify.com/album/6AUYweQsxrLaQ9KUJNWOMw) | 4:06 | 2025-12-04 | 2025-12-24 |
 | [I Will Take You To Hell](https://open.spotify.com/track/6jcFAG4Tqw2klTj8KPFEZF) | [Highway Queen](https://open.spotify.com/artist/6HV2ATap9CHsc4EcZnzc4u) | [Extendead Play](https://open.spotify.com/album/5kf27yA2pk86epIZc20WlB) | 4:00 | 2025-12-10 |  |
+| [I Worship Myself](https://open.spotify.com/track/6UugtnUgPn4K8poZzzjlFK) | [NTX](https://open.spotify.com/artist/3OgpNmeaSfIDGGYHovo4ZK) | [All The Hope Is Gone](https://open.spotify.com/album/6tyHJp6jbYwl5hjjI81y41) | 4:18 | 2025-12-30 |  |
 | [I'M DONE I'M GONE](https://open.spotify.com/track/3zlKQzzNXOlqlcixqlopSX) | [CHAZØID](https://open.spotify.com/artist/77isy0hIizqFUEaeqK2kOA) | [I'M DONE I'M GONE](https://open.spotify.com/album/2gc3YvOH91AxG34135hh8z) | 1:59 | 2025-12-22 |  |
 | [I'm so Stressed](https://open.spotify.com/track/0fhfihLeBe1EHIan5vUVxI) | [JeezJesus](https://open.spotify.com/artist/6nJMtDSZZ41lwEf3XG1Sit) | [Somewhere Between Love & Misery](https://open.spotify.com/album/0PZNlTvpn3WT3lL6df0vWy) | 3:26 | 2025-12-12 |  |
 | [I\`m Still Looking for a New](https://open.spotify.com/track/7aOGEyJKESkGR8KdplKg6W) | [DEBRISON](https://open.spotify.com/artist/1OiEOVUeoLaYfajrtLLHlw), [Loraina](https://open.spotify.com/artist/21ryc1NWbYt1KSDAaRmS09) | [I\`m Still Looking for a New](https://open.spotify.com/album/1eknF6dP75bRcUgAlSitRs) | 4:52 | 2025-12-29 |  |
@@ -251,6 +253,7 @@
 | [Leave It Alone](https://open.spotify.com/track/27OKnwNAIECE9qXdRNYrUf) | [The Blacktop Rollers](https://open.spotify.com/artist/4jPLQSN3XtV4R8d0jRMJXq) | [Leave It Alone](https://open.spotify.com/album/0dpwzAxuIWjYWL329Z47Rl) | 3:49 | 2025-12-29 |  |
 | [Leaving For The Summer](https://open.spotify.com/track/2si1Z5vk1qKPBOddYakSYX) | [White Star Line](https://open.spotify.com/artist/3qDMmbHoQIpMvNuOzyazsh) | [Leaving For The Summer](https://open.spotify.com/album/1OL4HB5Fkd0U78TehJXbZA) | 3:52 | 2025-11-16 | 2025-12-10 |
 | [LEGACY](https://open.spotify.com/track/1f1FyrCDwtLWOwrsouJrS7) | [Ashe B](https://open.spotify.com/artist/3HgtNDjt6RduA1udWp3sbQ) | [LEGACY](https://open.spotify.com/album/6QVGvi9ltKtk9qMNyhCmoV) | 3:15 | 2025-12-03 | 2025-12-24 |
+| [Let Me Speak To Your Manager](https://open.spotify.com/track/4GwuYclM1SZ6ByvspNP9rs) | [The Karens](https://open.spotify.com/artist/3lUasUBbXtDOd3RuxfxA5P) | [The Karens](https://open.spotify.com/album/0n9f41fy19sPQRZEUwQadX) | 2:16 | 2025-12-30 |  |
 | [Let's Do It Again](https://open.spotify.com/track/0tZ9lz19MPyCJDlOQ078NO) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Let's Do It Again](https://open.spotify.com/album/5cfYAyMa2BN1b8yup5F6TL) | 4:28 | 2025-12-23 |  |
 | [Lights On \(remaster\)](https://open.spotify.com/track/7DCTOYXUyV6cy661CqGXmE) | [CDNQB](https://open.spotify.com/artist/4mxs1oQOptOg4nYDR2jBCs) | [pax humana \(remaster\)](https://open.spotify.com/album/24vC1vToeCTeulW3cG1Gb8) | 3:38 | 2025-09-18 |  |
 | [Lights On \- Pickap.art Remix](https://open.spotify.com/track/0qxPhlhVqAVlVucL7TLSMt) | [CDNQB](https://open.spotify.com/artist/4mxs1oQOptOg4nYDR2jBCs), [Pickap.art](https://open.spotify.com/artist/4TMb7hw4kEDZdxMK9IYLUc) | [pax humana \(remaster\)](https://open.spotify.com/album/24vC1vToeCTeulW3cG1Gb8) | 2:48 | 2025-09-18 |  |
@@ -362,7 +365,7 @@
 | [Rock it to the Moon](https://open.spotify.com/track/3m9eHbhkvGD4UHlqbACcW6) | [Closer To The Ocean](https://open.spotify.com/artist/2e5jnw0SFtu36T1XJZqKfK) | [Sure Shots](https://open.spotify.com/album/075jtCsaPqq2nvW4vjOJpa) | 2:41 | 2025-12-17 |  |
 | [rock nessa cena](https://open.spotify.com/track/4cNKZ7Sf423mO7Iia5SIiF) | [Paulo Victor](https://open.spotify.com/artist/6ewY1PZ1lpd5cU4rLnLVRw) | [nova composição](https://open.spotify.com/album/04ty09gz8t3KT6iexBxpBp) | 2:16 | 2025-11-10 | 2025-12-10 |
 | [Ronnie Pickering](https://open.spotify.com/track/5WK28dUiE4hVWONb3YZLjh) | [CAN'T STOP TALKING](https://open.spotify.com/artist/3rotuHQvOx7kpA7arxEPTe) | [Ronnie Pickering](https://open.spotify.com/album/0EpO1TMt41BWDG7f4kvSh4) | 3:00 | 2025-08-03 |  |
-| [Round and Round](https://open.spotify.com/track/4efOj8t1493yAYtG38Zcfh) | [Jack Dahlqvist](https://open.spotify.com/artist/3J2oT5Sue8H2uhUVDvw1bI) | [Round and Round](https://open.spotify.com/album/7o46ngv8ldoGr7IJr73ZWk) | 3:13 | 2025-12-04 | 2025-12-24 |
+| [Round and Round](https://open.spotify.com/track/4efOj8t1493yAYtG38Zcfh) | [Jack Dahlqvist](https://open.spotify.com/artist/3J2oT5Sue8H2uhUVDvw1bI) | [Round and Round](https://open.spotify.com/album/7o46ngv8ldoGr7IJr73ZWk) | 3:13 | 2025-12-04 |  |
 | [Routine Trap Escape](https://open.spotify.com/track/4J3RQVO16sV0LmicjSlwW7) | [NOOP](https://open.spotify.com/artist/1K5Cl2jMIES6pZtmSEnpDm) | [Escapism For The Masses](https://open.spotify.com/album/0Cu7CizxFbY6qdnqonHMV7) | 4:03 | 2025-11-21 | 2025-12-10 |
 | [Ruby Red](https://open.spotify.com/track/2KkO14XX5K7CWEOs2nPBXn) | [Fathers of One](https://open.spotify.com/artist/4jxOqaWpFkp2t8UNjh4HLm) | [Ruby Red](https://open.spotify.com/album/5GUhLlM462PhXWZOGngOby) | 3:42 | 2025-12-08 |  |
 | [Running out of Time](https://open.spotify.com/track/1EF1Va0fHanPiD8BXXzfRr) | [Missing Since Monday](https://open.spotify.com/artist/4oPbfmyQAkcukOgEUt3ZAb) | [Missing Since Monday](https://open.spotify.com/album/6rfNqD4BYVSDlko64nP080) | 2:35 | 2025-11-13 |  |
@@ -406,6 +409,7 @@
 | [Something More](https://open.spotify.com/track/0KMHRjvXCXXCSqmG7KRPYi) | [Left to Nothing](https://open.spotify.com/artist/6xYZFCMIOhJSXQApvZIusH) | [Stolen Futures](https://open.spotify.com/album/78gZrHyZCJMW2MqY9PVT0b) | 2:59 | 2025-11-13 | 2025-12-10 |
 | [Soul of a Man](https://open.spotify.com/track/64BN6ps0tZus2YxzrgKMXX) | [Apo\-Calypto](https://open.spotify.com/artist/7byyZ7HJDAp9iR1IhdDaW4) | [Soul of a Man](https://open.spotify.com/album/5jNfUds4IMskgR1WILhthK) | 6:25 | 2025-12-04 | 2025-12-24 |
 | [Sour and Distressed](https://open.spotify.com/track/6FvrZLQZ4iJ2HphkJtkkiz) | [TripNote](https://open.spotify.com/artist/3A19PqhQphULECk8eJLsHv) | [Distance](https://open.spotify.com/album/0gezHk5vXTEHRXAmlvBgYT) | 3:25 | 2025-12-04 | 2025-12-24 |
+| [Spare Window](https://open.spotify.com/track/3LhGupBPjqbMc9BozMjKRg) | [Credible Witness](https://open.spotify.com/artist/4KE3myC1CYkK7mMX1XmOk7) | [Spare Window](https://open.spotify.com/album/7h2BoblH6So1zolwHtYFdN) | 3:07 | 2025-12-30 |  |
 | [Speedracer](https://open.spotify.com/track/4SsjA0L5zY8onUnJH9F7hd) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [Astro Life](https://open.spotify.com/album/3n8oFyAMOOqIxsneTKj89I) | 4:07 | 2025-08-03 |  |
 | [Speedracer \- 80's inspired version](https://open.spotify.com/track/2cAgypaInOIE4DHUga0JAm) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [Let's Get Weird](https://open.spotify.com/album/3KveBk3jR1fOlbyGzdTo0D) | 3:39 | 2025-08-03 |  |
 | [Sphere Believer](https://open.spotify.com/track/1GKS5v3F3hjaG5yOxSJa0i) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [LOUD NOISES](https://open.spotify.com/album/3td0OGM48SevIvq1jkUxAM) | 4:18 | 2025-08-03 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jgyAiPl8Af.md) - [plain]
 
 > Unwind to these calm classical guitar pieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,341,295 likes - 150 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,341,336 likes - 150 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jgyAiPl8Af.md) - [plain]
 | 149 | [Afternoon in May](https://open.spotify.com/track/1FcvorbsrplfCxOX3ch77B) | [Michelle Qureshi](https://open.spotify.com/artist/2tnTYLzDkug2iNhsBpWmuG) | [Within](https://open.spotify.com/album/65eOKdl0MxptxgnpDiM8ax) | 2:22 |
 | 150 | [Ischia](https://open.spotify.com/track/5WjsMDJyaYen96JYl5dCM4) | [Neve Baker](https://open.spotify.com/artist/40E7LcjmJufJCHiaxXzBfT) | [Ischia](https://open.spotify.com/album/2F5K4I3EnX9qOBqp4VqvO6) | 2:34 |
 
-Snapshot ID: `AAAAAKPror6P/UOiU9slkkRndk0uuy+w`
+Snapshot ID: `AAAAANoasIOn0eMMURQ4uT+FbMXqsImO`

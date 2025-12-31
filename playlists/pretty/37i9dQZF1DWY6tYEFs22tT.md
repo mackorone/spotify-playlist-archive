@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 
 > Today's Hip\-Hop with 21 Savage, J Hus, Lil Baby, Tkandz and GloRilla.
 
-[Spotify](https://open.spotify.com/user/spotify) - 807,693 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 807,668 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 | 49 | [DADE](https://open.spotify.com/track/5hMlbYg2lG4Z01YCzhS1Aj) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [DADE](https://open.spotify.com/album/3jGGA6GDxZDFdS1d9pTNad) | 1:44 |
 | 50 | [HBK \(feat\. 21 Savage\)](https://open.spotify.com/track/2DiA1CTRZM7HJ1SOpKyieA) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [WICK](https://open.spotify.com/album/4y5vG1udERB0K1sDyeENa2) | 3:49 |
 
-Snapshot ID: `AAAAAFBuEijSawBUuwtcc0QSe/WoRqmX`
+Snapshot ID: `AAAAAI0hu2PjD2C943efntnlE2Z5urfl`

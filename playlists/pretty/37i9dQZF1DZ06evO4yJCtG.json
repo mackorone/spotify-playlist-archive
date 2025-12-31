@@ -1,12 +1,12 @@
 {
   "description": "This is Ella Mai. The essential tracks, all in one playlist.",
-  "num_followers": 154887,
+  "num_followers": 154907,
   "original_name": "This Is Ella Mai",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVBzAAAAAAD9Uli+jVDgRJO1I6H8sEFS",
+  "snapshot_id": "aVHEgAAAAAB3eQuC97+rakgkFM4aMCNd",
   "tracks": [
     {
       "added_at": null,
@@ -811,6 +811,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "7220 (Deluxe)",
+        "url": "https://open.spotify.com/album/2rGN0kLth4hNmyMffDTlpX"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 183019,
+      "name": "IYKYK (feat. Ella Mai & A Boogie Wit Da Hoodie)",
+      "url": "https://open.spotify.com/track/76Nm6QNruFMrQc3HWTfreR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "After the Butterflies",
         "url": "https://open.spotify.com/album/3KxnjxwC38wxRIYl2tFo80"
       },
@@ -843,30 +867,6 @@
       "duration_ms": 210563,
       "name": "Love Me Like That (Champion Love)",
       "url": "https://open.spotify.com/track/5kUMB8d7Xa6X7VNe8qTY9k"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "7220 (Deluxe)",
-        "url": "https://open.spotify.com/album/2rGN0kLth4hNmyMffDTlpX"
-      },
-      "artists": [
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        },
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 183019,
-      "name": "IYKYK (feat. Ella Mai & A Boogie Wit Da Hoodie)",
-      "url": "https://open.spotify.com/track/76Nm6QNruFMrQc3HWTfreR"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFK3SdRAXvkPq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/09d3mIGxzTl2sLatLvhXAh">Rios</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 246 likes - 136 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 248 likes - 136 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFK3SdRAXvkPq.md) - [plain]
 | 41 | [Mamasota](https://open.spotify.com/track/3flzoYuNDBxbrnmv6qV0x4) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [201](https://open.spotify.com/album/3w4tn0BuFHNjiqGMevGaz9) | 3:36 |
 | 42 | [Miami](https://open.spotify.com/track/6SP5W33MHmIU6DODHd5zgM) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Infinity](https://open.spotify.com/album/2nRRfeEazBN10vZdPFmQME) | 3:12 |
 | 43 | [Jamaica](https://open.spotify.com/track/0iuvbEezJcCPASKTrQ1v76) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [2000](https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH) | 3:07 |
-| 44 | [PONTE NASTY](https://open.spotify.com/track/1cNJ9ODOJF8b6AjhzoYdkv) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [PLAYA SATURNO](https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB) | 4:02 |
-| 45 | [No Puedo Vivir Sin Él](https://open.spotify.com/track/6zRVWT0bZaBfe9H5z4naf4) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 3:38 |
+| 44 | [No Puedo Vivir Sin Él](https://open.spotify.com/track/6zRVWT0bZaBfe9H5z4naf4) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 3:38 |
+| 45 | [PONTE NASTY](https://open.spotify.com/track/1cNJ9ODOJF8b6AjhzoYdkv) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [PLAYA SATURNO](https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB) | 4:02 |
 | 46 | [Ese Hombre Es Malo](https://open.spotify.com/track/61yr9YbDKfyZn7zh1ZgUOW) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 3:37 |
 | 47 | [GATA G](https://open.spotify.com/track/7dtyJATeoXV8ACw4fdeTcx) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [EL CANTANTE DEL GHETTO](https://open.spotify.com/album/0d9r31X5eeyHWLkYAZIxmE) | 2:43 |
 | 48 | [Si Te Pillo](https://open.spotify.com/track/71jdNtOUSxJBpGmph9EYuO) | [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Viva La Musik](https://open.spotify.com/album/1AFU8pGn801UpX69JsPLay) | 3:39 |
@@ -136,8 +136,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFK3SdRAXvkPq.md) - [plain]
 | 126 | [Freshy](https://open.spotify.com/track/1kH0az3ybfv6yI7NAlLFE0) | [Rios](https://open.spotify.com/artist/7KMFl8gpxEh12b2H4vNhAU) | [Freshy](https://open.spotify.com/album/160ESTRdBsAbDx6kERV6TU) | 2:23 |
 | 127 | [CDTE </3](https://open.spotify.com/track/3hKaW6NWbSLxrbMAaNBHD0) | [Rios](https://open.spotify.com/artist/7KMFl8gpxEh12b2H4vNhAU) | [CDTE </3](https://open.spotify.com/album/6lPA7kPZzeBO2NoG8VLwvI) | 3:40 |
 | 128 | [Mi Favorita](https://open.spotify.com/track/4YTGpnKyqWeR1TnjYoEBdd) | [Rios](https://open.spotify.com/artist/7KMFl8gpxEh12b2H4vNhAU), [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA) | [Mi Favorita](https://open.spotify.com/album/6coF3KmIe24ZcGIucUMg5U) | 2:54 |
-| 129 | [Una Como Tu](https://open.spotify.com/track/2JiisgnK2JzDnnDPUvKUyo) | [Carlos Arroyo](https://open.spotify.com/artist/1v9AwCbfL2A1dXYWL0YGmv) | [Una Como Tu](https://open.spotify.com/album/1Kq8gisBaPFdKsF33btwKU) | 2:47 |
-| 130 | [MY LOVE](https://open.spotify.com/track/4R3Z9VqJr9qgAVa51dkvTL) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [2.1](https://open.spotify.com/album/3fbssJkOhkgAPAdpgjcJay) | 3:06 |
+| 129 | [MY LOVE](https://open.spotify.com/track/4R3Z9VqJr9qgAVa51dkvTL) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [2.1](https://open.spotify.com/album/3fbssJkOhkgAPAdpgjcJay) | 3:06 |
+| 130 | [Una Como Tu](https://open.spotify.com/track/2JiisgnK2JzDnnDPUvKUyo) | [Carlos Arroyo](https://open.spotify.com/artist/1v9AwCbfL2A1dXYWL0YGmv) | [Una Como Tu](https://open.spotify.com/album/1Kq8gisBaPFdKsF33btwKU) | 2:47 |
 | 131 | [Por Ahora](https://open.spotify.com/track/7j1GEM5wD0uV4Glx1fTTxz) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [Anto\-Nio](https://open.spotify.com/album/59ALBB3cEbNoqQ9MC019Zy) | 2:24 |
 | 132 | [KYLIE](https://open.spotify.com/track/6QTAThyNzVIF7So0LVIjSZ) | [Jotaerre](https://open.spotify.com/artist/1pEqLDmVTqmfwfywlwL7wL) | [LUNA AZUL EN TOKYO](https://open.spotify.com/album/2dyTu05BXJnUY9YFIoZprR) | 2:00 |
 | 133 | [en la disco pensándote](https://open.spotify.com/track/6MB8jQR4PZqmiHMH4brGUS) | [Maxiolly](https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a) | [XiOLLY](https://open.spotify.com/album/2zQDQd7w0BEv1slqKnp6ka) | 2:30 |
@@ -145,4 +145,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFK3SdRAXvkPq.md) - [plain]
 | 135 | [Audemars](https://open.spotify.com/track/6TkkO0MSj5Fep5U4zEQYcF) | [Rios](https://open.spotify.com/artist/7KMFl8gpxEh12b2H4vNhAU) | [Audemars](https://open.spotify.com/album/4i1yJkIY6jlEeTxA2vjRY8) | 3:14 |
 | 136 | [Estrella Fugaz](https://open.spotify.com/track/4N0P7wQbTHpoZF69UYpr3V) | [Bryanne](https://open.spotify.com/artist/6R3sSAOL4rej4pFAAyMzWB) | [Estrella Fugaz](https://open.spotify.com/album/3lLj8bufRO2G5MtiFT5MNw) | 3:25 |
 
-Snapshot ID: `AcFjhAAAAAAgvZH7UjoAeEKgUrquXeWH`
+Snapshot ID: `AcFpJAAAAAD7qPjEq4LXYKK4tL6tbtFB`

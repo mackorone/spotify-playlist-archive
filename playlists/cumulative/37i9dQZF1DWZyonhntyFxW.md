@@ -2,9 +2,9 @@
 
 ### [ملوك السين](https://open.spotify.com/playlist/37i9dQZF1DWZyonhntyFxW)
 
-> أقوى تراكات الهيب هوب في مصر\. الغلاف: ويجز
+> أقوى تراكات الهيب هوب في مصر\. الغلاف: أبيوسف
 
-441 songs - 21 hr 31 min
+442 songs - 21 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Amen](https://open.spotify.com/track/01gp9Dm70W7nJdQcZNDYwG) | [Mond](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [AMEN](https://open.spotify.com/album/5ypDqZ0Gv2DROegZUqTdBS) | 1:58 | 2025-11-06 |  |
 | [AMOT ANA](https://open.spotify.com/track/5Q7wSLrCf2z6isQqDuuqeY) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [الجلسة الاولى: إنكار](https://open.spotify.com/album/7G4Q5iVg1SpWgM2nylODkr) | 3:45 | 2024-08-05 | 2024-08-16 |
 | [AMTAR](https://open.spotify.com/track/5AGeNYpstVBpFn8IW2KqS7) | [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah) | [El Sahaba Bonus](https://open.spotify.com/album/1J3NZMlu9mW7W1Pjvo0jrC) | 2:48 | 2022-10-10 | 2023-03-23 |
+| [Ana](https://open.spotify.com/track/2h0LTnWBlRSasKmgOS2DLH) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Ana](https://open.spotify.com/album/4AcrqTInra0ohrzUOv0iSJ) | 2:15 | 2025-12-30 |  |
 | [ANA DEAL](https://open.spotify.com/track/1QcOE9wJeillm0WK0oujtD) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [ANA DEAL](https://open.spotify.com/album/2WMRjvOdsTaYJbOf6tQ0tL) | 3:15 | 2022-09-13 | 2023-06-16 |
 | [ANA ESMY ZIAD ZAZA](https://open.spotify.com/track/4llSXlOfqesFjhnLazIpxd) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [Omar Keif](https://open.spotify.com/artist/2sc7PVTWRHueOWkvt4cxEf) | [ANA ESMY ZIAD ZAZA](https://open.spotify.com/album/7bv20zT7obBMQ6Fq3reFIV) | 2:13 | 2025-09-15 |  |
 | [Ana w Zmely](https://open.spotify.com/track/6o187GRw3avGumhmhiMgM8) | [Double Zuksh](https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo), [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM) | [Ana w Zmely](https://open.spotify.com/album/0X0i3G96Ajte0wpha1I4Hj) | 2:58 | 2023-01-16 | 2023-08-18 |
@@ -303,7 +304,7 @@
 | [RAKMY YKHOD](https://open.spotify.com/track/47dyrJZvPtw2RNhvQbOREb) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM) | [EZ](https://open.spotify.com/album/5KsAZ7O5Zmx04zhj8vj2Rn) | 2:56 | 2024-09-05 | 2025-02-19 |
 | [Rayah](https://open.spotify.com/track/2e4R6mIfs3uTYvS8msMVfk) | [Moscow](https://open.spotify.com/artist/1aaV82rahtjuwsjy76lv4z), [Ahmed Kore](https://open.spotify.com/artist/7qqYaSjNjs4rUmtrgAqIpI) | [Rayah](https://open.spotify.com/album/7HobmIfM5WV7nJIo1xfs4R) | 3:11 | 2024-09-06 | 2025-02-13 |
 | [Reda](https://open.spotify.com/track/3Lw2N67l3dIo4AX6Umm8RS) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Lil Baba](https://open.spotify.com/artist/0BoBtCqcbWMR0aa64eUuUa) | [Reda](https://open.spotify.com/album/0xXnSMTkeuL3oudS2Jcr4V) | 2:37 | 2025-08-06 | 2025-08-13 |
-| [Replica](https://open.spotify.com/track/5OHdP4aHFLWEvayknKI746) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Genent El Ba’ar](https://open.spotify.com/album/0VOXsTCZAsZSV6fdSGzteA) | 2:50 | 2025-10-30 |  |
+| [Replica](https://open.spotify.com/track/5OHdP4aHFLWEvayknKI746) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Genent El Ba’ar](https://open.spotify.com/album/0VOXsTCZAsZSV6fdSGzteA) | 2:50 | 2025-10-30 | 2025-12-31 |
 | [RO7 3ALATOL](https://open.spotify.com/track/7t2VGVXc2VxGB062e36uQy) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [IMPORT//EXPORT](https://open.spotify.com/album/2MUyfrxcVoLhkPDI7hVDp9) | 3:37 | 2023-09-06 | 2024-08-06 |
 | [ROCKSTAR](https://open.spotify.com/track/6cjGkkdBNvkcFeKk1TQ1jd) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb), [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM) | [3](https://open.spotify.com/album/7LNlUUOzPMmdVLFq3wi353) | 3:22 | 2023-05-11 | 2023-08-18 |
 | [Roo7](https://open.spotify.com/track/14LYuWUVCDPDcmzLfYxwMj) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Dr\. Mo3geza](https://open.spotify.com/artist/2uqzfYOC6xMRyqLeIw0gDl) | [Cabina](https://open.spotify.com/album/21JkvWs6mwc3G2r8ifbyAp) | 3:09 | 2022-09-13 | 2022-12-19 |

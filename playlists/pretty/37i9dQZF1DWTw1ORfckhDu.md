@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 💯 Suomi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,251 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,240 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 12 | [Syypää sun hymyyn \- Unitas Sigma](https://open.spotify.com/track/2Qav0ElkVHapWOP3fRKcYX) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc), [Cheek](https://open.spotify.com/artist/5ZZqIQ25HQmufjjf2trwFO) | [Unitas Sigma](https://open.spotify.com/album/6E3Xyb8bfE4mwDM3tSi2Bt) | 2:52 |
 | 13 | [Jääpähän](https://open.spotify.com/track/7L1rB3YL8wCNzwPK7OnyO4) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Rallikansa](https://open.spotify.com/album/6LD8MbRnh2VrOg4SqTw5kD) | 3:10 |
 | 14 | [Niille joil on paha olla \- Unitas Sigma](https://open.spotify.com/track/2W1xOqSzZ5cbMdB3nV6Zjd) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [Cheek](https://open.spotify.com/artist/5ZZqIQ25HQmufjjf2trwFO) | [Unitas Sigma](https://open.spotify.com/album/6E3Xyb8bfE4mwDM3tSi2Bt) | 2:46 |
-| 15 | [Mitä tänne jää \- Unitas Sigma](https://open.spotify.com/track/75dWqDgep17BGqjc4ZeRsn) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA), [Cheek](https://open.spotify.com/artist/5ZZqIQ25HQmufjjf2trwFO) | [Unitas Sigma](https://open.spotify.com/album/6E3Xyb8bfE4mwDM3tSi2Bt) | 2:54 |
-| 16 | [Onks se väärin \(feat\. Alina Burnet & JVG\)](https://open.spotify.com/track/4KLDps1W298pw97KmTL17p) | [Danitello](https://open.spotify.com/artist/2pDOEMG8cZjRjsf8sQWLeE), [Alina Burnet](https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J), [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Tello Tape](https://open.spotify.com/album/5b69Boqtt3RD37IieDSoBB) | 3:16 |
+| 15 | [Onks se väärin \(feat\. Alina Burnet & JVG\)](https://open.spotify.com/track/4KLDps1W298pw97KmTL17p) | [Danitello](https://open.spotify.com/artist/2pDOEMG8cZjRjsf8sQWLeE), [Alina Burnet](https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J), [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Tello Tape](https://open.spotify.com/album/5b69Boqtt3RD37IieDSoBB) | 3:16 |
+| 16 | [Mitä tänne jää \- Unitas Sigma](https://open.spotify.com/track/75dWqDgep17BGqjc4ZeRsn) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA), [Cheek](https://open.spotify.com/artist/5ZZqIQ25HQmufjjf2trwFO) | [Unitas Sigma](https://open.spotify.com/album/6E3Xyb8bfE4mwDM3tSi2Bt) | 2:54 |
 | 17 | [Mitä vaan](https://open.spotify.com/track/2ygbM2P7Fjtdy50ErK9Vw9) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Mitä vaan / Syytä tätä iltaa](https://open.spotify.com/album/1lvWVaWvgdRpcmShilPptD) | 2:27 |
 | 18 | [Vituttaa](https://open.spotify.com/track/3wSFyLBjSQand9JOTcDm0W) | [Sliki](https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt) | [Vituttaa](https://open.spotify.com/album/5iie3mVJZUqrjDZdzYGR9d) | 3:17 |
 | 19 | [Käännä Se Kovemmal](https://open.spotify.com/track/518a2UYMiFtcgyvparCAPB) | [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz) | [Käännä Se Kovemmal](https://open.spotify.com/album/1FtyRB2jbzmpPu4VNvwrfx) | 3:03 |
@@ -37,15 +37,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 27 | [Tuulta purjeisiin](https://open.spotify.com/track/6TlpSqesu3cFLa4tJcgRkC) | [Senya](https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO) | [Tuulta purjeisiin](https://open.spotify.com/album/0RT64kLPZWjRD2XFPw3gpI) | 3:18 |
 | 28 | [Poikii on](https://open.spotify.com/track/5Lcqxese2p6RAAw3maH81R) | [Alina Burnet](https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J) | [Poikii on](https://open.spotify.com/album/6TVWI8u2gbQnl5jXBtOb56) | 2:21 |
 | 29 | [Ikävä mua](https://open.spotify.com/track/0DbUrs6t9JLcFx3EsMcPY3) | [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Pitäiskö mun soittaa sille](https://open.spotify.com/album/4OTutrhz68vKEcsK9uW640) | 2:34 |
-| 30 | [Lohikäärme](https://open.spotify.com/track/1aYzlHJla01Kam316YVADh) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [X](https://open.spotify.com/album/3PBRdSIYduGIYfpG5FOXys) | 3:38 |
-| 31 | [MRR](https://open.spotify.com/track/2GC6rk5C8xlSMz9Tv8S3KQ) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [NEED SUM MO](https://open.spotify.com/album/4VRh9XgLoD0Nku07vL1tVe) | 1:51 |
+| 30 | [MRR](https://open.spotify.com/track/2GC6rk5C8xlSMz9Tv8S3KQ) | [M//O](https://open.spotify.com/artist/4FTRRytGfW8Zqry3OlTWKo) | [NEED SUM MO](https://open.spotify.com/album/4VRh9XgLoD0Nku07vL1tVe) | 1:51 |
+| 31 | [Lohikäärme](https://open.spotify.com/track/1aYzlHJla01Kam316YVADh) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [X](https://open.spotify.com/album/3PBRdSIYduGIYfpG5FOXys) | 3:38 |
 | 32 | [Parempi mies](https://open.spotify.com/track/7cHnbBoghcPqFQ1rcCUort) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Parempi mies](https://open.spotify.com/album/0PC2XvK07EEMfGS08PAc5a) | 2:57 |
-| 33 | [Paremmin nyt](https://open.spotify.com/track/5Qk2r9VPCloxC7h0ufY1wb) | [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [Pöydät kääntyy](https://open.spotify.com/album/4sCu5cSceK9VHwQKrbqART) | 2:28 |
-| 34 | [NRO1 BÄMÄ](https://open.spotify.com/track/6cNFoKcRDKFs2j2aUKxYtt) | [OLGA](https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub) | [NRO1 BÄMÄ](https://open.spotify.com/album/4Qw9aHxTzjFkWxZsGiwK8z) | 2:34 |
+| 33 | [NRO1 BÄMÄ](https://open.spotify.com/track/6cNFoKcRDKFs2j2aUKxYtt) | [OLGA](https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub) | [NRO1 BÄMÄ](https://open.spotify.com/album/4Qw9aHxTzjFkWxZsGiwK8z) | 2:34 |
+| 34 | [Paremmin nyt](https://open.spotify.com/track/5Qk2r9VPCloxC7h0ufY1wb) | [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [Pöydät kääntyy](https://open.spotify.com/album/4sCu5cSceK9VHwQKrbqART) | 2:28 |
 | 35 | [Luuleks \(feat\. Ares\)](https://open.spotify.com/track/1dhyYodxrbpVw1UGpIIe3q) | [Sara Bee](https://open.spotify.com/artist/5kvgJ8cZWc3pGpIHhksKTb), [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Luuleks \(feat\. Ares\)](https://open.spotify.com/album/5Nnn4fHocRguOixJkN2VEC) | 3:03 |
 | 36 | [Elämäni kunnossa](https://open.spotify.com/track/78IQH2vGBL4u9DtUeqB2im) | [Mikael Laurent](https://open.spotify.com/artist/5tflzG5jjh0ka3SrnOgewO) | [Elämäni kunnossa](https://open.spotify.com/album/1kkxk0ymhZwT1xNzwTDA64) | 3:18 |
-| 37 | [Makea \(feat\. Jami Faltin\)](https://open.spotify.com/track/6lP02n6W4btNlaaYOQHmBD) | [T Swoop](https://open.spotify.com/artist/3XB4IVNkzpc80d9qmthhl3), [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf) | [Makea \(feat\. Jami Faltin\)](https://open.spotify.com/album/23qKEBMz0GXr2LESeH1gYO) | 2:24 |
-| 38 | [TUHKIMO](https://open.spotify.com/track/3iFCjP4KdnPiwT19dXIsC9) | [Dw](https://open.spotify.com/artist/15Z5mFdFBkUbtTZhI0DDVP) | [TUHKIMO](https://open.spotify.com/album/2njDMfDXRTKEjaKaN9luig) | 2:34 |
+| 37 | [TUHKIMO](https://open.spotify.com/track/3iFCjP4KdnPiwT19dXIsC9) | [Dw](https://open.spotify.com/artist/15Z5mFdFBkUbtTZhI0DDVP) | [TUHKIMO](https://open.spotify.com/album/2njDMfDXRTKEjaKaN9luig) | 2:34 |
+| 38 | [Makea \(feat\. Jami Faltin\)](https://open.spotify.com/track/6lP02n6W4btNlaaYOQHmBD) | [T Swoop](https://open.spotify.com/artist/3XB4IVNkzpc80d9qmthhl3), [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf) | [Makea \(feat\. Jami Faltin\)](https://open.spotify.com/album/23qKEBMz0GXr2LESeH1gYO) | 2:24 |
 | 39 | [Hauki](https://open.spotify.com/track/2dai7toOP0V2JJ8nvH0IYQ) | [jambo](https://open.spotify.com/artist/1fy2OEMI7TX9ayBKxErHK0) | [Hauki](https://open.spotify.com/album/6SCLpy8SJ8czojoUcSi9SJ) | 2:54 |
 | 40 | [Made it](https://open.spotify.com/track/3x0Z2IBTRMOHEuEQYIHnhW) | [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr) | [Made it](https://open.spotify.com/album/7ofaH0AtjS8BYYfyoHMuzY) | 2:31 |
 | 41 | [Griselda Blanco](https://open.spotify.com/track/6FoBHmjnw32uwrdeQcpIqd) | [VJ](https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2) | [Griselda Blanco](https://open.spotify.com/album/7gvNSb5nIGHOP6qomTNEP5) | 2:43 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 47 | [Tyhmää](https://open.spotify.com/track/2zGCt8Nf4c9KvlM883rYJb) | [Davy](https://open.spotify.com/artist/2RttK43esYFkU4hD5BU0AT) | [Tyhmää](https://open.spotify.com/album/2LXaYEFEKgtCwOh8tZ3uuR) | 2:21 |
 | 48 | [Luodinreikii](https://open.spotify.com/track/3ArbpCWFEAMJ6TPzQ8e0IG) | [AK](https://open.spotify.com/artist/38b5eLE9GRCgiFTHullqv7) | [Luodinreikii](https://open.spotify.com/album/6V2O4arkwz5oodSnO3Tv1o) | 2:42 |
 | 49 | [Joutsenet](https://open.spotify.com/track/758Kl8JokCJSFBBdn2Kp6h) | [WIL](https://open.spotify.com/artist/0u24i6ZS1dxwPzDPuM0qqT) | [Joutsenet](https://open.spotify.com/album/6FmA5jUIwpLY1QvgFMZ8UJ) | 3:20 |
-| 50 | [istg](https://open.spotify.com/track/6mV4q2uQWqbs4QOsXFm8iH) | [koira](https://open.spotify.com/artist/4rL7vju2zGQGrzqkpzkwOo) | [istg](https://open.spotify.com/album/2WmaN12qWdGuJrKM7nFZdQ) | 1:38 |
+| 50 | [Jos se must on kii \(feat\. Ares & Elastinen\)](https://open.spotify.com/track/599LaM9qaYIOe5mJa2lXxk) | [Danitello](https://open.spotify.com/artist/2pDOEMG8cZjRjsf8sQWLeE), [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [Elastinen](https://open.spotify.com/artist/7DdW8Ert3Z36hb1FkaZWiI) | [Jos se must on kii \(feat\. Ares & Elastinen\)](https://open.spotify.com/album/7GsHjQ9SptXSAhfCXdRr8B) | 3:01 |
 
 Snapshot ID: `AAAAAOqWHyBvDcXkWMvsyiMHbGSAkYh0`

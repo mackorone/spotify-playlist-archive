@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1ArdWOMZjR.md) - [plain]
 
 > Wake me up before you go\-go! Check out Wham!'s top tracks to celebrate their documentary, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,467 likes - 22 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,466 likes - 22 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

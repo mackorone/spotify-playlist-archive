@@ -5427,6 +5427,24 @@
     },
     {
       "album": {
+        "name": "BKJN",
+        "url": "https://open.spotify.com/album/7qicoPdBSFqDoc1Za3Lwmv"
+      },
+      "artists": [
+        {
+          "name": "Lekkerfaces",
+          "url": "https://open.spotify.com/artist/45Meh6B3L1TNh03On3y349"
+        }
+      ],
+      "date_added": "2025-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138024,
+      "name": "BKJN",
+      "url": "https://open.spotify.com/track/653ZGubEVdZzrjVDVTYWCo"
+    },
+    {
+      "album": {
         "name": "Black Beatles",
         "url": "https://open.spotify.com/album/6FfjuSkWU06SaQPOVjdojJ"
       },
@@ -7236,10 +7254,28 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 126443,
       "name": "C'est nous dans le top (Brainrot)",
       "url": "https://open.spotify.com/track/3tvV0ejIcyzndr8RKy8Cvs"
+    },
+    {
+      "album": {
+        "name": "C'est nous dans le top (Brainrot)",
+        "url": "https://open.spotify.com/album/2LQhG2U3yKulxEl1yx86rR"
+      },
+      "artists": [
+        {
+          "name": "Unchained",
+          "url": "https://open.spotify.com/artist/2WVBtMfYk1W4TlwgoRZDpI"
+        }
+      ],
+      "date_added": "2025-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126466,
+      "name": "C'est nous dans le top (Brainrot)",
+      "url": "https://open.spotify.com/track/3YFzwd0VC5famK2eJjqTOh"
     },
     {
       "album": {
@@ -10838,7 +10874,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 243070,
       "name": "Dardos",
       "url": "https://open.spotify.com/track/5SudOD9R1Of6CsJVWZy6CQ"
@@ -13352,7 +13388,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-17",
+      "date_removed": null,
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -13958,6 +13994,28 @@
       "duration_ms": 93288,
       "name": "Everything is romantic (fall in love again and again)",
       "url": "https://open.spotify.com/track/0OYNpQ7xiLyZkksalUuko1"
+    },
+    {
+      "album": {
+        "name": "Everything is romantic (Reimagined)",
+        "url": "https://open.spotify.com/album/6njDql560LsOS5LdSSjyz6"
+      },
+      "artists": [
+        {
+          "name": "Alina Kay",
+          "url": "https://open.spotify.com/artist/2mPEAvJbq6EwkD6Di2xvOK"
+        },
+        {
+          "name": "Ozz Gold",
+          "url": "https://open.spotify.com/artist/0KZDvnSmE8sY5Q2PtUab2P"
+        }
+      ],
+      "date_added": "2025-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122246,
+      "name": "Everything is romantic - Reimagined",
+      "url": "https://open.spotify.com/track/6JvdunPHOc9bKBIlojEKJM"
     },
     {
       "album": {
@@ -15076,10 +15134,28 @@
       ],
       "date_added": "2025-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 138005,
       "name": "FOCUS",
       "url": "https://open.spotify.com/track/5udVfN1uloVjvyZ2ODOqbO"
+    },
+    {
+      "album": {
+        "name": "FOCUS",
+        "url": "https://open.spotify.com/album/3U7wEOfA1lSksfz26brIc8"
+      },
+      "artists": [
+        {
+          "name": "Ashvma",
+          "url": "https://open.spotify.com/artist/1CsmkAT06Oh7NsIHDYU1XL"
+        }
+      ],
+      "date_added": "2025-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138005,
+      "name": "FOCUS",
+      "url": "https://open.spotify.com/track/6HUAZlrdcJ3vcJB1juzX6z"
     },
     {
       "album": {
@@ -18908,7 +18984,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 166401,
       "name": "heureux",
       "url": "https://open.spotify.com/track/1xMutgnDfUkwzM9Cn4afZu"
@@ -19280,6 +19356,32 @@
       "duration_ms": 157485,
       "name": "Home",
       "url": "https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK"
+    },
+    {
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/5SDS1tsM3NN618kc8tT02z"
+      },
+      "artists": [
+        {
+          "name": "Robert Grace",
+          "url": "https://open.spotify.com/artist/6W8rk6H6C3Mcj0lALuLVg1"
+        },
+        {
+          "name": "Bob Grace",
+          "url": "https://open.spotify.com/artist/3481Q8KyNiBrhQlgiExdBg"
+        },
+        {
+          "name": "Lincoln grace",
+          "url": "https://open.spotify.com/artist/2jhq8Zpvfu46nrDAxygIvM"
+        }
+      ],
+      "date_added": "2025-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213114,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/01QbvRL18rCmjQYtHGXHQa"
     },
     {
       "album": {
@@ -20342,7 +20444,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 158520,
       "name": "i think i'm addicted",
       "url": "https://open.spotify.com/track/7MStpKz6w6a7Kq0QR7QTu0"
@@ -22026,6 +22128,28 @@
       "duration_ms": 145432,
       "name": "Jako",
       "url": "https://open.spotify.com/track/2MiEtw8UquKvxOwu47oTMu"
+    },
+    {
+      "album": {
+        "name": "HOPE. : Imani",
+        "url": "https://open.spotify.com/album/2PPf6NnvTFfJivaHNxczFn"
+      },
+      "artists": [
+        {
+          "name": "kulturr",
+          "url": "https://open.spotify.com/artist/2yTwZyGRSRDUjZNsLvIOW4"
+        },
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "date_added": "2025-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177049,
+      "name": "jaloux f\u00e2ch\u00e9",
+      "url": "https://open.spotify.com/track/7mUdlJ8dHqHijoZEn6jQ1n"
     },
     {
       "album": {
@@ -25622,7 +25746,7 @@
       ],
       "date_added": "2025-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 303600,
       "name": "Looking for the Summer",
       "url": "https://open.spotify.com/track/2hTXUPiLY6GyUxESfOSKpL"
@@ -31286,7 +31410,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 163130,
       "name": "Niet Nodig",
       "url": "https://open.spotify.com/track/0OVYhtxxWQn2pcs3XR095M"
@@ -34919,6 +35043,32 @@
     },
     {
       "album": {
+        "name": "POLSKA JUMPSTYLE",
+        "url": "https://open.spotify.com/album/49SXqW0HBJZOT22uaHEKZ1"
+      },
+      "artists": [
+        {
+          "name": "Mr. Polska",
+          "url": "https://open.spotify.com/artist/1A6HQzOvtGaCYihOuIKjE6"
+        },
+        {
+          "name": "Natte Visstick",
+          "url": "https://open.spotify.com/artist/5hUbXqyif2dZ3ArU1v9Rli"
+        },
+        {
+          "name": "Vieze Asbak",
+          "url": "https://open.spotify.com/artist/66FZq0wsY6770bc4O9Dlig"
+        }
+      ],
+      "date_added": "2025-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140258,
+      "name": "POLSKA JUMPSTYLE",
+      "url": "https://open.spotify.com/track/2mShDoJYcOa4OdO2MFatxz"
+    },
+    {
+      "album": {
         "name": "Pomme De Reinette (Hard Techno)",
         "url": "https://open.spotify.com/album/1zks1weD1pICQMMmwXOAlM"
       },
@@ -35220,7 +35370,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 169846,
       "name": "Positive",
       "url": "https://open.spotify.com/track/1oOg0jvlrnZSAy3dhK8fmB"
@@ -39298,10 +39448,28 @@
       ],
       "date_added": "2025-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 180963,
       "name": "Sisqo Thong Song - 1950s Motown Choir Version",
       "url": "https://open.spotify.com/track/7IVRmVTTCFGsc5Hf1j66VB"
+    },
+    {
+      "album": {
+        "name": "Sisqo Thong Song - 1950s Motown Cover Choir Version",
+        "url": "https://open.spotify.com/album/5nL2Ecwbubuui08fVJu63Z"
+      },
+      "artists": [
+        {
+          "name": "whocanitbenoww",
+          "url": "https://open.spotify.com/artist/4FmKLohPDvC7HChMRUDZHs"
+        }
+      ],
+      "date_added": "2025-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180963,
+      "name": "Sisqo Thong Song - 1950s Motown Cover Choir Version",
+      "url": "https://open.spotify.com/track/5gHTiZMtdx33uaJdFpa6ja"
     },
     {
       "album": {

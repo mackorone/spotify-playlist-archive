@@ -1270,7 +1270,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 147785,
       "name": "BLACK SHEEP 3",
       "url": "https://open.spotify.com/track/25vcD8Otdw7AvVQP4ReGth"
@@ -1806,7 +1806,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 139200,
       "name": "CELINE",
       "url": "https://open.spotify.com/track/4W8iTOLsF9WXHdsEz66U53"
@@ -4226,7 +4226,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 176000,
       "name": "HERMES",
       "url": "https://open.spotify.com/track/4YM3Pxqe3FiapO16Myngww"
@@ -5728,7 +5728,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 149387,
       "name": "Mattone",
       "url": "https://open.spotify.com/track/2RIrF5dbTNoR1ydLhtIuY2"
@@ -8247,6 +8247,28 @@
     },
     {
       "album": {
+        "name": "PHANTOM (feat. 50 Cent)",
+        "url": "https://open.spotify.com/album/3yBimWHgJNTk6yJo8Ofrnq"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172166,
+      "name": "PHANTOM (feat. 50 Cent)",
+      "url": "https://open.spotify.com/track/435NOlfzITSEghoaUNRle3"
+    },
+    {
+      "album": {
         "name": "VEDETTA",
         "url": "https://open.spotify.com/album/3ESL4IrdTQ7rzpUOl40oYe"
       },
@@ -10478,7 +10500,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 104842,
       "name": "TA SIENT",
       "url": "https://open.spotify.com/track/4dvm4yL08vjDz42ghWa1z8"
@@ -11554,7 +11576,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 170322,
       "name": "VERE VISIONI (feat. Luch\u00e8)",
       "url": "https://open.spotify.com/track/1Zn7sCfLr8dkAzGjpDlmIW"

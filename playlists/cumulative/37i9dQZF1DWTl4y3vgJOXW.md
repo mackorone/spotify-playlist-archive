@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Jamal Murray and Nikola Jokić
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Bijan Robinson
 
 872 songs - 1 day 20 hr 31 min
 

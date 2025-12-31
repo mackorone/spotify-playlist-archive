@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-312 songs - 14 hr 59 min
+313 songs - 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Essence of the Forest](https://open.spotify.com/track/6HZBfIcSbWg80V7JOPSsA5) | [Adelina Somerset](https://open.spotify.com/artist/3dsMw7dDZ3c6CsdLsYBbLX) | [Essence of the Forest](https://open.spotify.com/album/1TOKTINDh4DrvQttXSrQKN) | 2:40 | 2024-07-19 | 2025-05-22 |
 | [Eternally](https://open.spotify.com/track/6ee3Zz8m66BxfnB4ARUWSA) | [Norröga](https://open.spotify.com/artist/6k2rfOW9DnWyV4cKXkfjMw) | [Eternally](https://open.spotify.com/album/4ZXUEUdcDJEqKwdtXFxojg) | 3:04 | 2025-12-17 |  |
 | [Eternals](https://open.spotify.com/track/1LZrsDo4MJaDPlOUvqp61c) | [Sweep Bliss](https://open.spotify.com/artist/55CnRvpF9JA5WhyNPemvY9) | [Eternals](https://open.spotify.com/album/6fmoSPgmDhT0vfblMgUT4z) | 2:14 | 2023-04-28 | 2025-11-03 |
-| [Eutony](https://open.spotify.com/track/5HAdowEFhhgJw4q82GFDjt) | [Montbretia](https://open.spotify.com/artist/7A9r37hE6RLqltWm7fgZOA) | [Eutony](https://open.spotify.com/album/07AlM5Zxu1B4WYKLUtoZlP) | 2:38 | 2024-05-01 |  |
+| [Eutony](https://open.spotify.com/track/5HAdowEFhhgJw4q82GFDjt) | [Montbretia](https://open.spotify.com/artist/7A9r37hE6RLqltWm7fgZOA) | [Eutony](https://open.spotify.com/album/07AlM5Zxu1B4WYKLUtoZlP) | 2:38 | 2024-05-01 | 2025-12-31 |
 | [Everest](https://open.spotify.com/track/0zEsXbDQbh8dFoJ07XAy5Y) | [Hans Heeler](https://open.spotify.com/artist/6zzRaTxXyx1wRJH5AAXkTV) | [Everest](https://open.spotify.com/album/0JfmGuV9OldmMVK1EYYoL9) | 2:27 | 2023-08-25 |  |
 | [Exploring Textures](https://open.spotify.com/track/27KqGoyfodOPmOGt7Aw9Z6) | [Gateway IV](https://open.spotify.com/artist/4YoqgU4m9qY7tUO4iwIM45) | [Exploring Textures](https://open.spotify.com/album/6uZUjhCErSJ1mlT7OSbbrv) | 2:57 | 2025-07-22 |  |
 | [Falling Freely](https://open.spotify.com/track/7cGiU5rk7gySOp6Swjbben) | [Joan Abe](https://open.spotify.com/artist/3c526c367gWjgUMPxUF5pi) | [Falling Freely](https://open.spotify.com/album/3FX3AgyzPhCj33fkMQq2rz) | 2:54 | 2025-06-17 |  |
@@ -129,6 +129,7 @@
 | [Gentle Streams](https://open.spotify.com/track/7Jubc6htXiZnuTHz3UKUBj) | [Moonlab](https://open.spotify.com/artist/4bRJSASvzWmN0kH61LUBSu) | [Gentle Streams](https://open.spotify.com/album/6hEx1Yy7xipUYNG4glF8lV) | 3:19 | 2023-11-24 |  |
 | [Glitching](https://open.spotify.com/track/5mGFbVJPUbx8ml6o3gFzcI) | [Solvekin](https://open.spotify.com/artist/6vz9kIJB249V5DbMMH0WZA) | [Glitching](https://open.spotify.com/album/5tEOEdmq5hskUT0cNQlEj8) | 2:27 | 2023-04-28 |  |
 | [Gloom](https://open.spotify.com/track/0KfCNOZ5t6pld3BPrsclKW) | [Sinnesro](https://open.spotify.com/artist/3CHM9Tbf0hM4MBzWGAcGPc) | [Gloom](https://open.spotify.com/album/2oW7DPtkYty3pzxB5UsB3u) | 2:50 | 2024-12-12 |  |
+| [Golden Hour](https://open.spotify.com/track/5uOL8rOH6IS4L0NFbwpKei) | [Sheila Dawn](https://open.spotify.com/artist/5XSMONg34qtPY5qFntQfag) | [Golden Hour](https://open.spotify.com/album/6SHkCrdO9en2tc0QDex3pB) | 3:33 | 2025-12-17 |  |
 | [Golden Meadow](https://open.spotify.com/track/2RnLkBVNSErnfTgnRtT7lJ) | [Forest Gold](https://open.spotify.com/artist/12Lj4bvVL57SoslmmpalNU) | [Golden Meadow](https://open.spotify.com/album/7csw7q2jmFiLOJdEpHQgyw) | 2:40 | 2023-04-28 |  |
 | [Grandiosa](https://open.spotify.com/track/6ondOZjfiq0FiGari0uFuv) | [Calil](https://open.spotify.com/artist/0wZ9TiIXE76xXjZUUbVmN7) | [Grandiosa](https://open.spotify.com/album/3M3SKrrQ0T2VfVLCWF36Rv) | 2:18 | 2025-10-02 |  |
 | [Grounded](https://open.spotify.com/track/4OLwU8YwGCYUAureSrInHQ) | [Zilon Tay](https://open.spotify.com/artist/5MXcNvb6HXa2KgYvCqRbuU) | [Grounded](https://open.spotify.com/album/73OcD8zbuUAOvWShwFij1r) | 2:43 | 2023-09-08 |  |

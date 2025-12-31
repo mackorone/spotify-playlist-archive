@@ -1,6 +1,6 @@
 {
   "description": "Beste Nederlandstalige songs uit de 90's! Cover: Acda en de Munnik",
-  "num_followers": 80512,
+  "num_followers": 80533,
   "original_name": "90's Nederlandstalig",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2024-07-09 16:41:04",
       "album": {
-        "name": "Boven",
-        "url": "https://open.spotify.com/album/198mMFxiYJihAoJzn7cRO6"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 253893,
-      "name": "Harder Dan Ik Hebben Kan",
-      "url": "https://open.spotify.com/track/1buASziRLNHXcTVYFWZ8EK"
-    },
-    {
-      "added_at": "2024-07-09 16:41:04",
-      "album": {
         "name": "Een Nieuwe Herfst",
         "url": "https://open.spotify.com/album/7mNHpXdX6h4MegWwcejYbg"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 274293,
       "name": "Avond",
       "url": "https://open.spotify.com/track/3n3F07lHLyRKwqg4q64eYA"
+    },
+    {
+      "added_at": "2024-07-09 16:41:04",
+      "album": {
+        "name": "Boven",
+        "url": "https://open.spotify.com/album/198mMFxiYJihAoJzn7cRO6"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 253893,
+      "name": "Harder Dan Ik Hebben Kan",
+      "url": "https://open.spotify.com/track/1buASziRLNHXcTVYFWZ8EK"
     },
     {
       "added_at": "2024-07-09 16:41:04",
@@ -351,6 +351,22 @@
     {
       "added_at": "2024-07-09 16:41:04",
       "album": {
+        "name": "Onvoorspelbaar",
+        "url": "https://open.spotify.com/album/222CHh4D7v0n6vgyYOz67w"
+      },
+      "artists": [
+        {
+          "name": "De Kast",
+          "url": "https://open.spotify.com/artist/0X6CDvMiFMeLxVnKUq9oWy"
+        }
+      ],
+      "duration_ms": 268866,
+      "name": "Hart Van Mijn Gevoel",
+      "url": "https://open.spotify.com/track/75og56sR5lahWgyRyhag5w"
+    },
+    {
+      "added_at": "2024-07-09 16:41:04",
+      "album": {
         "name": "Verbazing",
         "url": "https://open.spotify.com/album/6hqBbsWRFC9Mh1Z2YdYDNQ"
       },
@@ -371,22 +387,6 @@
     {
       "added_at": "2024-07-09 16:41:04",
       "album": {
-        "name": "Onvoorspelbaar",
-        "url": "https://open.spotify.com/album/222CHh4D7v0n6vgyYOz67w"
-      },
-      "artists": [
-        {
-          "name": "De Kast",
-          "url": "https://open.spotify.com/artist/0X6CDvMiFMeLxVnKUq9oWy"
-        }
-      ],
-      "duration_ms": 268866,
-      "name": "Hart Van Mijn Gevoel",
-      "url": "https://open.spotify.com/track/75og56sR5lahWgyRyhag5w"
-    },
-    {
-      "added_at": "2024-07-09 16:41:04",
-      "album": {
         "name": "Verse Vis En Lingerie",
         "url": "https://open.spotify.com/album/0DvNs9Ozl7viPlteEZ3D0Q"
       },
@@ -403,22 +403,18 @@
     {
       "added_at": "2024-07-09 16:41:04",
       "album": {
-        "name": "Met Hart En Ziel",
-        "url": "https://open.spotify.com/album/352HAAGl4O9F9SxFGikPlE"
+        "name": "Kon ik maar even bij je zijn",
+        "url": "https://open.spotify.com/album/1dxE4FTB0e9gtDEqjByt0J"
       },
       "artists": [
         {
           "name": "Gordon",
           "url": "https://open.spotify.com/artist/2lzeV1nxm8MB7z85L53JV2"
-        },
-        {
-          "name": "Re-Play",
-          "url": "https://open.spotify.com/artist/3P6TDldsIBKCowucdJfFZd"
         }
       ],
-      "duration_ms": 268133,
-      "name": "Never Nooit Meer (met Re-Play)",
-      "url": "https://open.spotify.com/track/10H17JhicnxEQgCTRaYFCQ"
+      "duration_ms": 281493,
+      "name": "Kon Ik Maar Even Bij Je Zijn",
+      "url": "https://open.spotify.com/track/0vWOq4z0mDYs0GSs7imUEd"
     },
     {
       "added_at": "2024-07-09 16:41:04",
@@ -487,18 +483,22 @@
     {
       "added_at": "2024-07-09 16:41:04",
       "album": {
-        "name": "Kon ik maar even bij je zijn",
-        "url": "https://open.spotify.com/album/1dxE4FTB0e9gtDEqjByt0J"
+        "name": "Met Hart En Ziel",
+        "url": "https://open.spotify.com/album/352HAAGl4O9F9SxFGikPlE"
       },
       "artists": [
         {
           "name": "Gordon",
           "url": "https://open.spotify.com/artist/2lzeV1nxm8MB7z85L53JV2"
+        },
+        {
+          "name": "Re-Play",
+          "url": "https://open.spotify.com/artist/3P6TDldsIBKCowucdJfFZd"
         }
       ],
-      "duration_ms": 281493,
-      "name": "Kon Ik Maar Even Bij Je Zijn",
-      "url": "https://open.spotify.com/track/0vWOq4z0mDYs0GSs7imUEd"
+      "duration_ms": 268133,
+      "name": "Never Nooit Meer (met Re-Play)",
+      "url": "https://open.spotify.com/track/10H17JhicnxEQgCTRaYFCQ"
     },
     {
       "added_at": "2024-07-09 16:41:04",
@@ -519,22 +519,6 @@
     {
       "added_at": "2024-07-09 16:41:04",
       "album": {
-        "name": "Acda en de Munnik",
-        "url": "https://open.spotify.com/album/4okhW4vkL1mMAtDleBpx11"
-      },
-      "artists": [
-        {
-          "name": "Acda en de Munnik",
-          "url": "https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Mooi Liedje",
-      "url": "https://open.spotify.com/track/6ZmN1gbHEGbcquWAWhHV7z"
-    },
-    {
-      "added_at": "2024-07-09 16:41:04",
-      "album": {
         "name": "Blauw",
         "url": "https://open.spotify.com/album/0vy4gAPRStkHhT2uchvshJ"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 226506,
       "name": "Iedereen Is Van De Wereld",
       "url": "https://open.spotify.com/track/7DiNSKlP2d7OiiMNlSeBtb"
+    },
+    {
+      "added_at": "2024-07-09 16:41:04",
+      "album": {
+        "name": "Acda en de Munnik",
+        "url": "https://open.spotify.com/album/4okhW4vkL1mMAtDleBpx11"
+      },
+      "artists": [
+        {
+          "name": "Acda en de Munnik",
+          "url": "https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "Mooi Liedje",
+      "url": "https://open.spotify.com/track/6ZmN1gbHEGbcquWAWhHV7z"
     },
     {
       "added_at": "2024-07-09 16:41:04",
@@ -619,6 +619,22 @@
     {
       "added_at": "2024-07-09 16:41:04",
       "album": {
+        "name": "Voltooid Verleden Tijd",
+        "url": "https://open.spotify.com/album/7qYL5WgJIzwEYCZszBG5vO"
+      },
+      "artists": [
+        {
+          "name": "Bram Vermeulen",
+          "url": "https://open.spotify.com/artist/4ymKPNzHwzhCvJbOGWLviV"
+        }
+      ],
+      "duration_ms": 301506,
+      "name": "De wedstrijd",
+      "url": "https://open.spotify.com/track/5Dxa2mLRNttIlADdbUjY1e"
+    },
+    {
+      "added_at": "2024-07-09 16:41:04",
+      "album": {
         "name": "Verbazing",
         "url": "https://open.spotify.com/album/6hqBbsWRFC9Mh1Z2YdYDNQ"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 253493,
       "name": "Per Spoor (Kedeng Kedeng)",
       "url": "https://open.spotify.com/track/5FdLWxpHT56vitVh3CGiFV"
-    },
-    {
-      "added_at": "2024-07-09 16:41:04",
-      "album": {
-        "name": "Voltooid Verleden Tijd",
-        "url": "https://open.spotify.com/album/7qYL5WgJIzwEYCZszBG5vO"
-      },
-      "artists": [
-        {
-          "name": "Bram Vermeulen",
-          "url": "https://open.spotify.com/artist/4ymKPNzHwzhCvJbOGWLviV"
-        }
-      ],
-      "duration_ms": 301506,
-      "name": "De wedstrijd",
-      "url": "https://open.spotify.com/track/5Dxa2mLRNttIlADdbUjY1e"
     },
     {
       "added_at": "2024-07-09 16:41:04",
@@ -703,6 +703,22 @@
     {
       "added_at": "2024-07-09 16:41:04",
       "album": {
+        "name": "Hollandse Sterren - Allermooiste Duetten",
+        "url": "https://open.spotify.com/album/5spE8XeOx1BgP7JxGfH8Iz"
+      },
+      "artists": [
+        {
+          "name": "Maxine & Franklin Brown",
+          "url": "https://open.spotify.com/artist/4ptkAA3lQP6cGCAg7CVL8I"
+        }
+      ],
+      "duration_ms": 158426,
+      "name": "De Eerste Keer",
+      "url": "https://open.spotify.com/track/06eICRFok9GhRifK25a5NH"
+    },
+    {
+      "added_at": "2024-07-09 16:41:04",
+      "album": {
         "name": "Verbazing",
         "url": "https://open.spotify.com/album/6hqBbsWRFC9Mh1Z2YdYDNQ"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 210666,
       "name": "Verliefd Zijn",
       "url": "https://open.spotify.com/track/2wLPPLc2mNOskEOtpwgqX8"
-    },
-    {
-      "added_at": "2024-07-09 16:41:04",
-      "album": {
-        "name": "Hollandse Sterren - Allermooiste Duetten",
-        "url": "https://open.spotify.com/album/5spE8XeOx1BgP7JxGfH8Iz"
-      },
-      "artists": [
-        {
-          "name": "Maxine & Franklin Brown",
-          "url": "https://open.spotify.com/artist/4ptkAA3lQP6cGCAg7CVL8I"
-        }
-      ],
-      "duration_ms": 158426,
-      "name": "De Eerste Keer",
-      "url": "https://open.spotify.com/track/06eICRFok9GhRifK25a5NH"
     },
     {
       "added_at": "2024-07-09 16:41:04",
@@ -787,26 +787,6 @@
     {
       "added_at": "2024-07-09 16:41:04",
       "album": {
-        "name": "Verbazing",
-        "url": "https://open.spotify.com/album/6hqBbsWRFC9Mh1Z2YdYDNQ"
-      },
-      "artists": [
-        {
-          "name": "Guus Meeuwis",
-          "url": "https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv"
-        },
-        {
-          "name": "Vagant",
-          "url": "https://open.spotify.com/artist/2ZywabPnRCoHjfPJfQavrA"
-        }
-      ],
-      "duration_ms": 214733,
-      "name": "Zo Ver Weg",
-      "url": "https://open.spotify.com/track/0NdeYpnRgbzT30Inci6LZL"
-    },
-    {
-      "added_at": "2024-07-09 16:41:04",
-      "album": {
         "name": "Het Mooiste & Het Beste",
         "url": "https://open.spotify.com/album/3XiJiFN96NyaWs728epe59"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 287200,
       "name": "Paradijs",
       "url": "https://open.spotify.com/track/32MEr1rs4elxqFR5mbxzqM"
+    },
+    {
+      "added_at": "2024-07-09 16:41:04",
+      "album": {
+        "name": "Verbazing",
+        "url": "https://open.spotify.com/album/6hqBbsWRFC9Mh1Z2YdYDNQ"
+      },
+      "artists": [
+        {
+          "name": "Guus Meeuwis",
+          "url": "https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv"
+        },
+        {
+          "name": "Vagant",
+          "url": "https://open.spotify.com/artist/2ZywabPnRCoHjfPJfQavrA"
+        }
+      ],
+      "duration_ms": 214733,
+      "name": "Zo Ver Weg",
+      "url": "https://open.spotify.com/track/0NdeYpnRgbzT30Inci6LZL"
     },
     {
       "added_at": "2024-07-09 16:41:04",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-07-09 16:41:04",
       "album": {
-        "name": "Hollandse Sterren Collectie",
-        "url": "https://open.spotify.com/album/1FJhxTagODYnKjA4PJakmk"
-      },
-      "artists": [
-        {
-          "name": "Willeke Alberti",
-          "url": "https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV"
-        }
-      ],
-      "duration_ms": 271986,
-      "name": "Ome Jan",
-      "url": "https://open.spotify.com/track/6UWOJvPjoFA4NoCbLw8wzI"
-    },
-    {
-      "added_at": "2024-07-09 16:41:04",
-      "album": {
         "name": "Het Beste Uit De Q Music Top 500 Van Het Foute Uur",
         "url": "https://open.spotify.com/album/2EbhHZgmdy362RoEAE3Rbt"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 268723,
       "name": "Zelfs Je Naam Is Mooi",
       "url": "https://open.spotify.com/track/0BGiXFcfWNE1ZOJYwtbWbX"
+    },
+    {
+      "added_at": "2024-07-09 16:41:04",
+      "album": {
+        "name": "Hollandse Sterren Collectie",
+        "url": "https://open.spotify.com/album/1FJhxTagODYnKjA4PJakmk"
+      },
+      "artists": [
+        {
+          "name": "Willeke Alberti",
+          "url": "https://open.spotify.com/artist/7monj8DXxygyUqgx7ncylV"
+        }
+      ],
+      "duration_ms": 271986,
+      "name": "Ome Jan",
+      "url": "https://open.spotify.com/track/6UWOJvPjoFA4NoCbLw8wzI"
     },
     {
       "added_at": "2024-07-09 16:41:04",

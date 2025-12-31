@@ -1,6 +1,6 @@
 {
   "description": "El amor no se escucha, se siente... Olivia Wald en portada.",
-  "num_followers": 553662,
+  "num_followers": 553725,
   "original_name": "Radio Coraz\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2025-12-19 06:00:08",
       "album": {
+        "name": "Guerra (+ Sessions Recorded at Abbey Road)",
+        "url": "https://open.spotify.com/album/0sGgHg4QRIBACnetu6z45Z"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        }
+      ],
+      "duration_ms": 214973,
+      "name": "Regr\u00e9same Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/1NTypzYioS7MHVnIR4d7Uy"
+    },
+    {
+      "added_at": "2025-12-19 06:00:08",
+      "album": {
         "name": "Los D\u00fao (Deluxe)",
         "url": "https://open.spotify.com/album/2SoR7JnS8nWS32pUvMugpF"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 374106,
       "name": "Ya No Vivo Por Vivir",
       "url": "https://open.spotify.com/track/5mahfoOSoSDgkLRI5MMHj7"
-    },
-    {
-      "added_at": "2025-12-19 06:00:08",
-      "album": {
-        "name": "Guerra (+ Sessions Recorded at Abbey Road)",
-        "url": "https://open.spotify.com/album/0sGgHg4QRIBACnetu6z45Z"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
-        }
-      ],
-      "duration_ms": 214973,
-      "name": "Regr\u00e9same Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/1NTypzYioS7MHVnIR4d7Uy"
     },
     {
       "added_at": "2025-12-19 06:00:08",

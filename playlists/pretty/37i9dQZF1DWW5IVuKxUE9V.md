@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5IVuKxUE9V.md) - [plain]
 
 > THE PARTY + THE AFTERS \(Gaylord's Version\), curated by Jack Rooke\. Big indie, electronic bangers for your house party dance floor, turning into chill queer anthems for the DMCs at the kitchen table 👍
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,624 likes - 37 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,626 likes - 37 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

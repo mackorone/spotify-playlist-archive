@@ -1,12 +1,12 @@
 {
   "description": "playlist spotify free",
-  "num_followers": 260,
+  "num_followers": 261,
   "original_name": "playlist spotify free",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAGfK2MmTydFf1usFZF2mLqUuak2gYN",
+  "snapshot_id": "AAAGf8aGapQKV0EuLU6vC5ELJRjuThzI",
   "tracks": [
     {
       "added_at": "2025-12-26 21:41:48",
@@ -62391,6 +62391,62 @@
       "duration_ms": 211022,
       "name": "Qu\u00e9 te Pas\u00f3",
       "url": "https://open.spotify.com/track/5oxUwWuZGG0DbQI1YefvHm"
+    },
+    {
+      "added_at": "2025-12-30 09:09:32",
+      "album": {
+        "name": "Carolina",
+        "url": "https://open.spotify.com/album/16MLS4M1deA7XetqvCfZ3q"
+      },
+      "artists": [
+        {
+          "name": "zrina",
+          "url": "https://open.spotify.com/artist/1lNyFRu90mDAuRQlH88Ex3"
+        },
+        {
+          "name": "jfm",
+          "url": "https://open.spotify.com/artist/5d1jlBU5YU3hNFJwmVTKR0"
+        }
+      ],
+      "duration_ms": 276035,
+      "name": "Carolina",
+      "url": "https://open.spotify.com/track/3tmKJm7GurhO7gYpQHj2vJ"
+    },
+    {
+      "added_at": "2025-12-30 11:27:08",
+      "album": {
+        "name": "Temple of Boone",
+        "url": "https://open.spotify.com/album/2xtXCyhGVuWq0acGmGrkES"
+      },
+      "artists": [
+        {
+          "name": "Deezol",
+          "url": "https://open.spotify.com/artist/5ujrYiJqMeAmMMpC22ZLPS"
+        },
+        {
+          "name": "Buddha Redd",
+          "url": "https://open.spotify.com/artist/56zrjCjfufYRkjYSQibL1x"
+        }
+      ],
+      "duration_ms": 174592,
+      "name": "Youngstown",
+      "url": "https://open.spotify.com/track/6YmLz8uBq0uX9HkYgLzUOe"
+    },
+    {
+      "added_at": "2025-12-30 16:39:15",
+      "album": {
+        "name": "December Fields",
+        "url": "https://open.spotify.com/album/2aRIUc4AfB3f7FKwqH7MZq"
+      },
+      "artists": [
+        {
+          "name": "Kevin ISM",
+          "url": "https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9"
+        }
+      ],
+      "duration_ms": 246224,
+      "name": "December Fields (Distribution)",
+      "url": "https://open.spotify.com/track/4bddpe4brO09lyHpE7lb9N"
     }
   ],
   "unique_name": "playlist spotify free",

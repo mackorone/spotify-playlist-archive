@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 2025年にプレイリスト「キラキラポップ：ジャパン」で聴かれた楽曲を総まとめ。Curated by ふくりゅう（音楽コンシェルジュ）Cover: 名誉伝説
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,231 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,235 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 99 | [Luminance](https://open.spotify.com/track/4c6yOy3ue1sYWKWxaedSev) | [Marihiko Hara](https://open.spotify.com/artist/16EpmlbvM3Zh46GMfxyunm), [井口理](https://open.spotify.com/artist/573aEcIHzIyX9guZtasykj) | [国宝　オリジナル・サウンドトラック](https://open.spotify.com/album/71zMCedoxuCj0m108ODrFL) | 4:39 |
 | 100 | [巡ループ](https://open.spotify.com/track/6p8xc2hx0ZXDyFe4CNxSMy) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [巡ループ](https://open.spotify.com/album/1edhuNkoP27i5vOYM4qr35) | 4:12 |
 
-Snapshot ID: `AAAAACHUhYhm08YfnnQJel71OE3qsAuJ`
+Snapshot ID: `AAAAAKQh0BA+KGsJF3Xu7MmrMfGtyPvd`

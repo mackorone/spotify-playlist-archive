@@ -1,12 +1,12 @@
 {
   "description": "This is The Black Keys. The essential tracks, all in one playlist.",
-  "num_followers": 298422,
+  "num_followers": 298421,
   "original_name": "This Is The Black Keys",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVBzAAAAAAAH/iMmG7sR+HRrhj9q3aLJ",
+  "snapshot_id": "aVHEgAAAAAA+mtxDDQsDewCP9QXcyOfv",
   "tracks": [
     {
       "added_at": null,
@@ -187,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brothers",
-        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 203773,
-      "name": "Everlasting Light",
-      "url": "https://open.spotify.com/track/6dU5RxthbuaN31bRbEDlNw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Attack & Release",
         "url": "https://open.spotify.com/album/1YHS3Fw8THvsKVVQ1znAqi"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 239146,
       "name": "I Got Mine",
       "url": "https://open.spotify.com/track/319zpJMCzpz50Uz0PsjlJN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Brothers",
+        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 203773,
+      "name": "Everlasting Light",
+      "url": "https://open.spotify.com/track/6dU5RxthbuaN31bRbEDlNw"
     },
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\"Let's Rock\"",
-        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 146596,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/2GuXIMRlaxVLcU0a5jacHw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Turn Blue",
         "url": "https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 268120,
       "name": "In Time",
       "url": "https://open.spotify.com/track/39e1gl7VaxuCev5ga7bvNq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\"Let's Rock\"",
+        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 146596,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/2GuXIMRlaxVLcU0a5jacHw"
     },
     {
       "added_at": null,
@@ -607,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\"Let's Rock\"",
-        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
+        "name": "El Camino",
+        "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 160543,
-      "name": "Eagle Birds",
-      "url": "https://open.spotify.com/track/7Dd1v8u05vTL3py8d1a5ZA"
+      "duration_ms": 197000,
+      "name": "Run Right Back",
+      "url": "https://open.spotify.com/track/5HgAZuHFAU5qLLMYuIQkgq"
     },
     {
       "added_at": null,
@@ -639,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Camino",
-        "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
+        "name": "\"Let's Rock\"",
+        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 197000,
-      "name": "Run Right Back",
-      "url": "https://open.spotify.com/track/5HgAZuHFAU5qLLMYuIQkgq"
+      "duration_ms": 160543,
+      "name": "Eagle Birds",
+      "url": "https://open.spotify.com/track/7Dd1v8u05vTL3py8d1a5ZA"
     },
     {
       "added_at": null,
@@ -671,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brothers (Deluxe Remastered Anniversary Edition)",
-        "url": "https://open.spotify.com/album/7lhJVTvqL3QbwGN12QLiVj"
+        "name": "El Camino",
+        "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
       },
       "artists": [
         {
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 300611,
-      "name": "The Only One",
-      "url": "https://open.spotify.com/track/65PE3GVXjkiQOTM7V7NbfY"
+      "duration_ms": 221026,
+      "name": "Dead and Gone",
+      "url": "https://open.spotify.com/track/3UD4sghkq8dHUwvKxln1nB"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Camino",
-        "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 221026,
-      "name": "Dead and Gone",
-      "url": "https://open.spotify.com/track/3UD4sghkq8dHUwvKxln1nB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Thickfreakness",
         "url": "https://open.spotify.com/album/0GJH6shkenNdqkpGdsY8aa"
       },
@@ -735,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rubber Factory",
-        "url": "https://open.spotify.com/album/1rlGDm1KQJfDyT5v1U8Xk5"
+        "name": "Brothers (Deluxe Remastered Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7lhJVTvqL3QbwGN12QLiVj"
       },
       "artists": [
         {
@@ -744,9 +728,25 @@
           "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 179133,
-      "name": "10 A.M. Automatic",
-      "url": "https://open.spotify.com/track/4HIx4KL2XRilgBf6WzfLqI"
+      "duration_ms": 300611,
+      "name": "The Only One",
+      "url": "https://open.spotify.com/track/65PE3GVXjkiQOTM7V7NbfY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Camino",
+        "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 205186,
+      "name": "Sister",
+      "url": "https://open.spotify.com/track/5LCuFER5mMzL0fGNpClksf"
     },
     {
       "added_at": null,
@@ -767,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Camino",
-        "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
+        "name": "Rubber Factory",
+        "url": "https://open.spotify.com/album/1rlGDm1KQJfDyT5v1U8Xk5"
       },
       "artists": [
         {
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 205186,
-      "name": "Sister",
-      "url": "https://open.spotify.com/track/5LCuFER5mMzL0fGNpClksf"
+      "duration_ms": 179133,
+      "name": "10 A.M. Automatic",
+      "url": "https://open.spotify.com/track/4HIx4KL2XRilgBf6WzfLqI"
     },
     {
       "added_at": null,

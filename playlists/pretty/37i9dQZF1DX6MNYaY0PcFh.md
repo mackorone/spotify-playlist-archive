@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound\. Cover: Higgo
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,889 likes - 70 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,903 likes - 70 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,12 +55,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 45 | [GETAWAY](https://open.spotify.com/track/29vEfX4XhKR4teS4mhyf2v) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao), [Ellis Moss](https://open.spotify.com/artist/0XOfJ1JJXwMVJG26ZZj3UQ) | [GETAWAY](https://open.spotify.com/album/6HtqNgGjK86kJ8orgIccpt) | 2:43 |
 | 46 | [JOY \(By My Side\)](https://open.spotify.com/track/61SkRhKUIDaUG3CiP0XQU3) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [JOY \(By My Side\)](https://open.spotify.com/album/1pTMDMH44oAjkBArRruE3g) | 3:42 |
 | 47 | [True](https://open.spotify.com/track/21SUW6VqiPSwSumXMPYQtz) | [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [True](https://open.spotify.com/album/4DZW1POsJE6ge80HXUfsfs) | 3:56 |
-| 48 | [Fón Póca \(feat\. Travy\)](https://open.spotify.com/track/7F8E0Skfsvz8bImaNTZxas) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [Travy](https://open.spotify.com/artist/3Jlb9WCVsroYGv8TKOGLly) | [Fón Póca \(feat\. Travy\)](https://open.spotify.com/album/46vTHTMcKsi2Xs2GVUQEDF) | 3:37 |
-| 49 | [Bad Vibe](https://open.spotify.com/track/7JxCZS1QOKf2woQz7mKUYn) | [JKAY](https://open.spotify.com/artist/5FUk0Dg9iGOJHvf6oHECcO) | [Bad Vibe](https://open.spotify.com/album/3ZsJNuIQs0saAVggAFYURm) | 2:22 |
+| 48 | [Bad Vibe](https://open.spotify.com/track/7JxCZS1QOKf2woQz7mKUYn) | [JKAY](https://open.spotify.com/artist/5FUk0Dg9iGOJHvf6oHECcO) | [Bad Vibe](https://open.spotify.com/album/3ZsJNuIQs0saAVggAFYURm) | 2:22 |
+| 49 | [Fón Póca \(feat\. Travy\)](https://open.spotify.com/track/7F8E0Skfsvz8bImaNTZxas) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [Travy](https://open.spotify.com/artist/3Jlb9WCVsroYGv8TKOGLly) | [Fón Póca \(feat\. Travy\)](https://open.spotify.com/album/46vTHTMcKsi2Xs2GVUQEDF) | 3:37 |
 | 50 | [pick your poison](https://open.spotify.com/track/6OaYA5Xn6xVwcLyYEE2Ard) | [KiLLOWEN](https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO) | [six missed calls](https://open.spotify.com/album/1gWdOqu1lh6XB8o99mNB8r) | 2:17 |
 | 51 | [over you](https://open.spotify.com/track/4oDxs30sUOndog6GHHhOMe) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK), [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1) | [over you](https://open.spotify.com/album/0S6V0kxRKGxfSMdy5otubJ) | 3:38 |
-| 52 | [Little Man \(Proud Of You\)](https://open.spotify.com/track/7f3S9OhJPB9IrQgn4JXx3O) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf) | [Little Man \(Proud Of You\)](https://open.spotify.com/album/4B9MXp0goo3b3n2p3VeGUU) | 2:00 |
-| 53 | [Move Your Body feat\. Xpansions](https://open.spotify.com/track/44FX4F5Ju4gl07fgw4ceMA) | [bullet tooth](https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC), [Xpansions](https://open.spotify.com/artist/2oSihaE9ObkcZVx2LAxySj) | [Move Your Body](https://open.spotify.com/album/02PQj31nY2avYFnKtW0LqX) | 2:30 |
+| 52 | [Move Your Body feat\. Xpansions](https://open.spotify.com/track/44FX4F5Ju4gl07fgw4ceMA) | [bullet tooth](https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC), [Xpansions](https://open.spotify.com/artist/2oSihaE9ObkcZVx2LAxySj) | [Move Your Body](https://open.spotify.com/album/02PQj31nY2avYFnKtW0LqX) | 2:30 |
+| 53 | [Little Man \(Proud Of You\)](https://open.spotify.com/track/7f3S9OhJPB9IrQgn4JXx3O) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf) | [Little Man \(Proud Of You\)](https://open.spotify.com/album/4B9MXp0goo3b3n2p3VeGUU) | 2:00 |
 | 54 | [Back 2 Me](https://open.spotify.com/track/2IKLkgYI7pFOFCr9IevOmb) | [Diffrent](https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV), [ELOQ](https://open.spotify.com/artist/36mHwYa65L0WZbAXY2iSGw) | [Back 2 Me](https://open.spotify.com/album/1BVM0FxL00YwA3z4r8qgw7) | 2:21 |
 | 55 | [Nobody Else But U](https://open.spotify.com/track/3iagcHosUvxs9876pJwZKI) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0) | [Nobody Else But U](https://open.spotify.com/album/6vNxyOKtUI4bpLKOtYlIkY) | 3:20 |
 | 56 | [Sorry I'm Like This](https://open.spotify.com/track/4F3aBBLzNf56Yx23TZFfgJ) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y), [ODF](https://open.spotify.com/artist/14Md2pjzFKO47fz1vq9KLu) | [Sorry I'm Like This](https://open.spotify.com/album/5JXnm6iu35ZAR9mjswrILS) | 2:52 |

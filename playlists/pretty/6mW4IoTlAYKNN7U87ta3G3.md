@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6mW4IoTlAYKNN7U87ta3G3.md) - [plain]
 
 > Celebrating 90 years of Decca Records.
 
-[Decca Records](https://open.spotify.com/user/deccarecords) - 988 likes - 55 songs - 3 hr 14 min
+[Decca Records](https://open.spotify.com/user/deccarecords) - 989 likes - 55 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

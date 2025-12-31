@@ -4,7 +4,7 @@
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-69 songs - 4 hr 12 min
+70 songs - 4 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [MEDUSA](https://open.spotify.com/track/7jUrziB9wx75HUm7FBstrQ) | [Megan Summersby](https://open.spotify.com/artist/5vxVb5DTT9V7V8QWkjFBJF) | [MEDUSA](https://open.spotify.com/album/5MWi0gKJigS1MbLRsAegES) | 3:33 | 2025-11-26 | 2025-12-13 |
 | [Memoria](https://open.spotify.com/track/7lHiBXwoCvOY1ZJUBWicse) | [Synthetic Broadcast](https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ) | [Nomads](https://open.spotify.com/album/3poDscUob4x5S9Gu9RlTlm) | 3:00 | 2025-10-13 |  |
 | [Motorcycle Emptiness](https://open.spotify.com/track/5ibELGcXGqX5x9TWFeNPxY) | [Manic Street Preachers](https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX) | [Forever Delayed](https://open.spotify.com/album/17n0hrkbvXosApi3q1ANiv) | 5:05 | 2021-03-29 |  |
+| [Noir](https://open.spotify.com/track/3Z8OSx0kJcitYmfFqNszDy) | [LehtMoJoe](https://open.spotify.com/artist/5lgsUNLe65iEVXFzvreh0J) | [Noir](https://open.spotify.com/album/0ZW75tnVFB8wWRvzOSqdM4) | 3:08 | 2025-12-30 |  |
 | [Only You](https://open.spotify.com/track/3B6AKdVGauMT11fwUWJ8Ga) | [Kaðlín](https://open.spotify.com/artist/30QneQaLsKZZ5pLoRNg1TZ) | [Only You](https://open.spotify.com/album/6Lly4v5CpIs8zsDxS1iqlk) | 1:02 | 2025-12-01 | 2025-12-13 |
 | [Open Mind \- Radio Edit](https://open.spotify.com/track/1Th8P3kgdtBbjkrkUmLRfY) | [Pol Sembrano](https://open.spotify.com/artist/5n6eyDpDiKTKxG9BTPAC00) | [Open Mind \(Radio Edit\)](https://open.spotify.com/album/6sMLueYKYIsJE6aa5JBvVh) | 3:40 | 2025-12-29 |  |
 | [Panorama](https://open.spotify.com/track/2ujuuoIQYTGRuHi21rHsq4) | [Angeliferous](https://open.spotify.com/artist/0q79XPF0tihxxHMKKRr6qg) | [Rotation](https://open.spotify.com/album/28RHd7GLjkq20xYnll14Sf) | 2:48 | 2025-10-13 |  |

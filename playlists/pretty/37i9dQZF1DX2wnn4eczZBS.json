@@ -1,6 +1,6 @@
 {
   "description": "indie & indiepop in het Nederlands. Cover: Elmer",
-  "num_followers": 11081,
+  "num_followers": 11082,
   "original_name": "indie.nl",
   "owner": {
     "name": "Spotify",
@@ -335,22 +335,6 @@
     {
       "added_at": "2025-12-18 23:00:20",
       "album": {
-        "name": "Skinroutine Bikinilijn",
-        "url": "https://open.spotify.com/album/6Gxagh1mE6Z9Mipof5thLQ"
-      },
-      "artists": [
-        {
-          "name": "MEROL",
-          "url": "https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO"
-        }
-      ],
-      "duration_ms": 183333,
-      "name": "Skinroutine Bikinilijn",
-      "url": "https://open.spotify.com/track/6Q0MNS8ZNeEKDnLgDgoZe2"
-    },
-    {
-      "added_at": "2025-12-18 23:00:20",
-      "album": {
         "name": "Aerobics",
         "url": "https://open.spotify.com/album/6alYHotSin9ZeOVGssuWaM"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 167901,
       "name": "Aerobics",
       "url": "https://open.spotify.com/track/1OVuAEWyMXoZbsRtXqpUta"
+    },
+    {
+      "added_at": "2025-12-18 23:00:20",
+      "album": {
+        "name": "Skinroutine Bikinilijn",
+        "url": "https://open.spotify.com/album/6Gxagh1mE6Z9Mipof5thLQ"
+      },
+      "artists": [
+        {
+          "name": "MEROL",
+          "url": "https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO"
+        }
+      ],
+      "duration_ms": 183333,
+      "name": "Skinroutine Bikinilijn",
+      "url": "https://open.spotify.com/track/6Q0MNS8ZNeEKDnLgDgoZe2"
     },
     {
       "added_at": "2025-12-18 23:00:20",

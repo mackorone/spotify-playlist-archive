@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 
 > Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Julia Vitória, Nívea Soares
 
-[Spotify](https://open.spotify.com/user/spotify) - 360,580 likes - 80 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 360,604 likes - 80 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 11 | [Gratidão \(Gratitude\) \- Ao Vivo](https://open.spotify.com/track/1q54VNXn2SWxmxyH5HNuea) | [Bruna Olly](https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ) | [Gratidão \(Gratitude\) \[Ao Vivo\]](https://open.spotify.com/album/5UKejerSpuxuvnUdHoAdwm) | 7:00 |
 | 12 | [O Nome \- Ao Vivo](https://open.spotify.com/track/6Obssly2gJlPrrj2lNzwLZ) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE), [Luma Elpidio](https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR) | [O Nome \(Ao Vivo\)](https://open.spotify.com/album/2kDTQ8tUm9mVESWnyVGXgk) | 7:06 |
 | 13 | [Tua Glória Me Abraça \- Ao Vivo](https://open.spotify.com/track/3GisPyEirIgTI6mEeJ7SHL) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Tua Glória Me Abraça \(Ao Vivo\)](https://open.spotify.com/album/1GXc9lZVWfB4msh6AnaRSa) | 5:27 |
-| 14 | [O Céu Responde Diferente \- Ao Vivo](https://open.spotify.com/track/6edijq5bkyxoXa1MOXmqAD) | [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2), [Dalete Hungria](https://open.spotify.com/artist/3OPEB0wjZK1dnoqKG8tCfd), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [O Céu Responde Diferente \(Ao Vivo\)](https://open.spotify.com/album/3bZHYzfEG3ymnkoZOFP7vz) | 6:17 |
-| 15 | [Acalma o Meu Coração](https://open.spotify.com/track/0G3egcGAAVtb5KxPLWBrny) | [Esther Durán](https://open.spotify.com/artist/3oO31ZAI20M9mazxGxHzah) | [Acalma o Meu Coração](https://open.spotify.com/album/7qgxEdBaUA9QyWYwnq4Kdl) | 3:56 |
+| 14 | [Acalma o Meu Coração](https://open.spotify.com/track/0G3egcGAAVtb5KxPLWBrny) | [Esther Durán](https://open.spotify.com/artist/3oO31ZAI20M9mazxGxHzah) | [Acalma o Meu Coração](https://open.spotify.com/album/7qgxEdBaUA9QyWYwnq4Kdl) | 3:56 |
+| 15 | [O Céu Responde Diferente \- Ao Vivo](https://open.spotify.com/track/6edijq5bkyxoXa1MOXmqAD) | [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2), [Dalete Hungria](https://open.spotify.com/artist/3OPEB0wjZK1dnoqKG8tCfd), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [O Céu Responde Diferente \(Ao Vivo\)](https://open.spotify.com/album/3bZHYzfEG3ymnkoZOFP7vz) | 6:17 |
 | 16 | [Jesus te Amamos \- Ao Vivo](https://open.spotify.com/track/1lKhV7gDhuyiztoAQ6LDKv) | [O Canto das Igrejas](https://open.spotify.com/artist/0wtv2hFP28opRib0L3wQjB), [Marsena](https://open.spotify.com/artist/3MVA7SeqC0Qh8NsGoYXwd7), [Somos OCDI](https://open.spotify.com/artist/5O0ynKj86KJPX903gEth3b) | [Jesus te Amamos \(Ao Vivo\)](https://open.spotify.com/album/2LMOlA7SNUShLKkgJBrKdL) | 6:55 |
 | 17 | [Inflama \- Ao Vivo](https://open.spotify.com/track/5FrSW8HWQjFWV6XADtwPLN) | [Valesca Mayssa](https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Inflama \(Ao Vivo\)](https://open.spotify.com/album/46BFASV2bY4obTjFmStnh8) | 6:51 |
 | 18 | [Nada Mais Será Igual \(Ao Vivo\)](https://open.spotify.com/track/0lINGdR92RntRrkpkUQ6Gh) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Nada Mais Será Igual \(Ao Vivo\)](https://open.spotify.com/album/0iyu4WKKT4CU62Z0E5sHBm) | 5:28 |

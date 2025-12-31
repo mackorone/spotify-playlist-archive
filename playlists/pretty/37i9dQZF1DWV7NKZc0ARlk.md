@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7NKZc0ARlk.md) - [plain]
 
 > Los éxitos del pop suenan mejor en vivo\. Foto: Thalia
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,095 likes - 49 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,133 likes - 49 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7NKZc0ARlk.md) - [plain]
 | 35 | [Mi Peor Error \- Primera Fila \[En Vivo\]](https://open.spotify.com/track/4eRSrpFOgXugLRH0odKDej) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [La Guzmán en Primera Fila](https://open.spotify.com/album/1yqJDX1lRCrWaXpkww9Pd6) | 4:05 |
 | 36 | [Qué Será de Ti \- Como Vai Voce \(Live Version\)](https://open.spotify.com/track/26eGXAycoJtHYZuKXuki3Z) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Thalia En Primera Fila](https://open.spotify.com/album/1gquXke1WKYRz3VSxlZDxa) | 4:37 |
 | 37 | [Cómo Te Extraño Mi Amor \(feat\. Rubén Albarrán\) \- En Vivo](https://open.spotify.com/track/4KTSH9v9nm4e2oiXa699aC) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2), [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0) | [Celebrando a una Leyenda \(En Vivo\)](https://open.spotify.com/album/0Cq5RogZ5q5WfXRYGOIN98) | 3:15 |
-| 38 | [La Fuerza Del Corazón \- En Directo En El Estadio Vicente Calderón / 2017](https://open.spotify.com/track/7AtuQiAsRESlLdR3V0FXBJ) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [+ Es + \(El Concierto / En Directo En El Estadio Vicente Calderón / 2017\)](https://open.spotify.com/album/6NmuOSiXv5WoA5lYjemVTt) | 5:16 |
-| 39 | [Si Tú No Vuelves \(feat\. Miguel Bosé\) \- En Vivo](https://open.spotify.com/track/3IhRwU0NWvQp2tdTQ844fy) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8), [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Ha\-Ash "En Vivo"](https://open.spotify.com/album/7AhdiG5tEKsD0b3G5VDdQY) | 5:29 |
+| 38 | [Si Tú No Vuelves \(feat\. Miguel Bosé\) \- En Vivo](https://open.spotify.com/track/3IhRwU0NWvQp2tdTQ844fy) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8), [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Ha\-Ash "En Vivo"](https://open.spotify.com/album/7AhdiG5tEKsD0b3G5VDdQY) | 5:29 |
+| 39 | [La Fuerza Del Corazón \- En Directo En El Estadio Vicente Calderón / 2017](https://open.spotify.com/track/7AtuQiAsRESlLdR3V0FXBJ) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [+ Es + \(El Concierto / En Directo En El Estadio Vicente Calderón / 2017\)](https://open.spotify.com/album/6NmuOSiXv5WoA5lYjemVTt) | 5:16 |
 | 40 | [Un Buen Perdedor](https://open.spotify.com/track/68RvCYDKtz9HR1WMR9D9VV) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Franco De Vita En Primera Fila](https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX) | 3:54 |
 | 41 | [Adoro \( Primera Fila \) \(feat\. Julieta Venegas\) \- En Vivo](https://open.spotify.com/track/1oBMy1HuG3PFfRGXgnuMeC) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Primera Fila](https://open.spotify.com/album/3bDplLlZKkNPHJHGpwCmAm) | 3:41 |
 | 42 | [Te He Prometido \(feat\. Ricardo Montaner\) \- En Vivo](https://open.spotify.com/track/6LYOEpZALvazO2nUPwJatS) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2), [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Celebrando a una Leyenda \(En Vivo\)](https://open.spotify.com/album/0Cq5RogZ5q5WfXRYGOIN98) | 3:10 |

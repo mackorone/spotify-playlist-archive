@@ -1,6 +1,6 @@
 {
   "description": "Deutschsprachige Liebeslieder, die mitten ins Herz gehen \u2665\ufe0f",
-  "num_followers": 198954,
+  "num_followers": 198992,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
@@ -535,22 +535,6 @@
     {
       "added_at": "2025-03-26 13:54:44",
       "album": {
-        "name": "Ja sagen",
-        "url": "https://open.spotify.com/album/2Gv7ugAya5UFmtt8Btjyyz"
-      },
-      "artists": [
-        {
-          "name": "Hava",
-          "url": "https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Ja sagen",
-      "url": "https://open.spotify.com/track/2ehr9UaqyQOXJihoJ7lg3l"
-    },
-    {
-      "added_at": "2025-03-26 13:54:44",
-      "album": {
         "name": "\u00dcbermorgen",
         "url": "https://open.spotify.com/album/3Xhe03YALEzdpDqnKbgXvo"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 163043,
       "name": "\u00dcbermorgen",
       "url": "https://open.spotify.com/track/1NP7bzm8UksJUWXsuFoOwE"
+    },
+    {
+      "added_at": "2025-03-26 13:54:44",
+      "album": {
+        "name": "Ja sagen",
+        "url": "https://open.spotify.com/album/2Gv7ugAya5UFmtt8Btjyyz"
+      },
+      "artists": [
+        {
+          "name": "Hava",
+          "url": "https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Ja sagen",
+      "url": "https://open.spotify.com/track/2ehr9UaqyQOXJihoJ7lg3l"
     },
     {
       "added_at": "2025-03-26 13:54:44",
@@ -619,6 +619,22 @@
     {
       "added_at": "2025-03-26 13:54:44",
       "album": {
+        "name": "Liege wieder wach",
+        "url": "https://open.spotify.com/album/2rwuHAmXq1BgYGvcQT6rXb"
+      },
+      "artists": [
+        {
+          "name": "Jamule",
+          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
+        }
+      ],
+      "duration_ms": 176250,
+      "name": "Liege wieder wach",
+      "url": "https://open.spotify.com/track/0ZqL6UhrqydZE4DaXvCMeT"
+    },
+    {
+      "added_at": "2025-03-26 13:54:44",
+      "album": {
         "name": "Nur kurz gl\u00fccklich",
         "url": "https://open.spotify.com/album/0Dhyj8T5W7jg0UzrjTuaf4"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 178386,
       "name": "Nur kurz gl\u00fccklich",
       "url": "https://open.spotify.com/track/1a7bPxp6P5vaLnBoO4hGXf"
-    },
-    {
-      "added_at": "2025-03-26 13:54:44",
-      "album": {
-        "name": "Liege wieder wach",
-        "url": "https://open.spotify.com/album/2rwuHAmXq1BgYGvcQT6rXb"
-      },
-      "artists": [
-        {
-          "name": "Jamule",
-          "url": "https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN"
-        }
-      ],
-      "duration_ms": 176250,
-      "name": "Liege wieder wach",
-      "url": "https://open.spotify.com/track/0ZqL6UhrqydZE4DaXvCMeT"
     },
     {
       "added_at": "2025-03-26 13:54:44",
@@ -707,22 +707,6 @@
     {
       "added_at": "2025-03-26 13:54:44",
       "album": {
-        "name": "Wei\u00dfes Kleid",
-        "url": "https://open.spotify.com/album/5VNsTnVG0vqvQRWLg7fbaQ"
-      },
-      "artists": [
-        {
-          "name": "KATI K",
-          "url": "https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv"
-        }
-      ],
-      "duration_ms": 147826,
-      "name": "Wei\u00dfes Kleid",
-      "url": "https://open.spotify.com/track/0T7RSwG8Jr4E5CFpgkDkCu"
-    },
-    {
-      "added_at": "2025-03-26 13:54:44",
-      "album": {
         "name": "Morgen",
         "url": "https://open.spotify.com/album/6JYdwInTDE3arObsOWqJPv"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 135096,
       "name": "Morgen",
       "url": "https://open.spotify.com/track/53x25WE2X6nOsHJ23mu1gv"
+    },
+    {
+      "added_at": "2025-03-26 13:54:44",
+      "album": {
+        "name": "Wei\u00dfes Kleid",
+        "url": "https://open.spotify.com/album/5VNsTnVG0vqvQRWLg7fbaQ"
+      },
+      "artists": [
+        {
+          "name": "KATI K",
+          "url": "https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv"
+        }
+      ],
+      "duration_ms": 147826,
+      "name": "Wei\u00dfes Kleid",
+      "url": "https://open.spotify.com/track/0T7RSwG8Jr4E5CFpgkDkCu"
     },
     {
       "added_at": "2025-03-26 13:54:44",
@@ -807,6 +807,22 @@
     {
       "added_at": "2025-03-26 13:54:44",
       "album": {
+        "name": "Tanz Der Molek\u00fcle",
+        "url": "https://open.spotify.com/album/4bicy8AMKXCjoRTxiETIs3"
+      },
+      "artists": [
+        {
+          "name": "Mia.",
+          "url": "https://open.spotify.com/artist/0ZSqrPwtvermKlwdjEAmjn"
+        }
+      ],
+      "duration_ms": 238480,
+      "name": "Tanz der Molek\u00fcle - Single Version",
+      "url": "https://open.spotify.com/track/1mp5PVgUpnHflPu9URvsCk"
+    },
+    {
+      "added_at": "2025-03-26 13:54:44",
+      "album": {
         "name": "Home Again",
         "url": "https://open.spotify.com/album/749kLg4Sk28HuuF9MSjF3I"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 207501,
       "name": "Home Again",
       "url": "https://open.spotify.com/track/0BhbRX5t6zRCLBUMtWOynf"
-    },
-    {
-      "added_at": "2025-03-26 13:54:44",
-      "album": {
-        "name": "Tanz Der Molek\u00fcle",
-        "url": "https://open.spotify.com/album/4bicy8AMKXCjoRTxiETIs3"
-      },
-      "artists": [
-        {
-          "name": "Mia.",
-          "url": "https://open.spotify.com/artist/0ZSqrPwtvermKlwdjEAmjn"
-        }
-      ],
-      "duration_ms": 238480,
-      "name": "Tanz der Molek\u00fcle - Single Version",
-      "url": "https://open.spotify.com/track/1mp5PVgUpnHflPu9URvsCk"
     },
     {
       "added_at": "2025-03-26 13:54:44",

@@ -4222,7 +4222,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 199403,
       "name": "DANCING WITHOUT MOVING",
       "url": "https://open.spotify.com/track/1TGiB4KEDY8dlpXrIWQ2f1"
@@ -5292,6 +5292,24 @@
       "duration_ms": 245878,
       "name": "Early to the Party",
       "url": "https://open.spotify.com/track/7bHW6RpriqTGOla0Zdt3TZ"
+    },
+    {
+      "album": {
+        "name": "Earthstar Mountain",
+        "url": "https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2"
+      },
+      "artists": [
+        {
+          "name": "Hannah Cohen",
+          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243455,
+      "name": "Earthstar",
+      "url": "https://open.spotify.com/track/0SC0WzJk80snenOopsPzvM"
     },
     {
       "album": {

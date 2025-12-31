@@ -1,12 +1,12 @@
 {
   "description": "This is RENEE. The essential tracks, all in one playlist.",
-  "num_followers": 8848,
+  "num_followers": 8849,
   "original_name": "This Is RENEE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVBzAAAAAAAABnWaAvVchV0mvcwnrrXM",
+  "snapshot_id": "aVHEgAAAAABkPY3hMQeV7mZuRbkqmYBk",
   "tracks": [
     {
       "added_at": null,
@@ -231,22 +231,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "ENTREPUERTAS",
-        "url": "https://open.spotify.com/album/6gzZCotIV1zg5nDS7A3dOm"
+        "name": "NMDQH",
+        "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
       },
       "artists": [
-        {
-          "name": "Dimitri y las brujas",
-          "url": "https://open.spotify.com/artist/1k3U6CLxJlkGEL29oGctSr"
-        },
         {
           "name": "RENEE",
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 167832,
-      "name": "Indiferentes",
-      "url": "https://open.spotify.com/track/6j43RXvbTO5PES3JZxPlGF"
+      "duration_ms": 177413,
+      "name": "Demasiado",
+      "url": "https://open.spotify.com/track/1FJoAaOtHPxAtqYVpTc4NJ"
     },
     {
       "added_at": null,
@@ -267,18 +263,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "NMDQH",
-        "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
+        "name": "ENTREPUERTAS",
+        "url": "https://open.spotify.com/album/6gzZCotIV1zg5nDS7A3dOm"
       },
       "artists": [
+        {
+          "name": "Dimitri y las brujas",
+          "url": "https://open.spotify.com/artist/1k3U6CLxJlkGEL29oGctSr"
+        },
         {
           "name": "RENEE",
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 177413,
-      "name": "Demasiado",
-      "url": "https://open.spotify.com/track/1FJoAaOtHPxAtqYVpTc4NJ"
+      "duration_ms": 167832,
+      "name": "Indiferentes",
+      "url": "https://open.spotify.com/track/6j43RXvbTO5PES3JZxPlGF"
     },
     {
       "added_at": null,

@@ -887,6 +887,24 @@
     },
     {
       "album": {
+        "name": "The Everlasting Guilty Crown",
+        "url": "https://open.spotify.com/album/2tXcG38XstJAsjlcoDmnxC"
+      },
+      "artists": [
+        {
+          "name": "EGOIST",
+          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327040,
+      "name": "The Everlasting Guilty Crown \u301cInstrumental\u301c",
+      "url": "https://open.spotify.com/track/27r1YyEJMOv3lZu5iz6n8q"
+    },
+    {
+      "album": {
         "name": "BANG!!!",
         "url": "https://open.spotify.com/album/6mP4waxyh54qivGqO0H5Gz"
       },

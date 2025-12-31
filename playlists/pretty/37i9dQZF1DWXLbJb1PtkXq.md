@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLbJb1PtkXq.md) - [plain]
 
 > Les plus grands hits français des années 90\. Photo: Céline Dion
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,330 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,413 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLbJb1PtkXq.md) - [plain]
 | 49 | [Les poèmes de Michelle](https://open.spotify.com/track/7o66Lbfoq3QGkBpZpt3VCd) | [Teri Moïse](https://open.spotify.com/artist/3E0D2fyt1NbcmBP1QpKkUL) | [Teri Moïse \(Edition Deluxe\)](https://open.spotify.com/album/1Lc9O8OMMXJYcHjHpWLrIx) | 3:57 |
 | 50 | [Tellement je t'aime](https://open.spotify.com/track/4leqIALehUHLsdMSWZAdGG) | [Faudel](https://open.spotify.com/artist/3z7JrEEE9McrDXpYigPncZ) | [L'essentiel Faudel](https://open.spotify.com/album/0Vu3IkVBDFEzkSSAYfDo60) | 4:05 |
 
-Snapshot ID: `AAAAACrV7wYm9AjSKNPMViO2H2TWtPnk`
+Snapshot ID: `AAAAAIs9oNcvixuJomt6t97yzcVlLdRU`

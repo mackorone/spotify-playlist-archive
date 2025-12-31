@@ -1290,7 +1290,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
@@ -2660,7 +2660,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-30",
+      "date_removed": null,
       "duration_ms": 188059,
       "name": "CHANEL",
       "url": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
@@ -8174,7 +8174,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 164718,
       "name": "JUMP",
       "url": "https://open.spotify.com/track/5H1sKFMzDeMtXwND3V6hRY"
@@ -16016,7 +16016,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 156685,
       "name": "toxic till the end",
       "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
@@ -17018,7 +17018,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 173033,
       "name": "White Christmas (with V of BTS)",
       "url": "https://open.spotify.com/track/7134tEHq45eL6am9oVazZU"
@@ -18370,7 +18370,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 263133,
       "name": "\u4e16\u4e00",
       "url": "https://open.spotify.com/track/3IxGmKdOkv7tgMCzyKF2Xm"
@@ -19265,6 +19265,24 @@
     },
     {
       "album": {
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/2a4nRNaoAietyKufWYowLm"
+      },
+      "artists": [
+        {
+          "name": "Terence Lam",
+          "url": "https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI"
+        }
+      ],
+      "date_added": "2025-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248742,
+      "name": "\u51ac\u5b63\u9650\u5b9a",
+      "url": "https://open.spotify.com/track/3Zv9FH2wFzYQqNQv1PwAmz"
+    },
+    {
+      "album": {
         "name": "\u5ff5",
         "url": "https://open.spotify.com/album/59TofyRHvflzaS9JW2pDjD"
       },
@@ -19943,6 +19961,24 @@
     },
     {
       "album": {
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/2a4nRNaoAietyKufWYowLm"
+      },
+      "artists": [
+        {
+          "name": "Terence Lam",
+          "url": "https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI"
+        }
+      ],
+      "date_added": "2025-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213646,
+      "name": "\u56db\u6708\u7269\u8a9e",
+      "url": "https://open.spotify.com/track/0PHFt12Hehu7smo0ywHRf5"
+    },
+    {
+      "album": {
         "name": "\u56de\u61b6\u534a\u5206\u9418",
         "url": "https://open.spotify.com/album/1t4W7MgS50X1Ud3hW6oCvH"
       },
@@ -20159,6 +20195,24 @@
     },
     {
       "album": {
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/2a4nRNaoAietyKufWYowLm"
+      },
+      "artists": [
+        {
+          "name": "Terence Lam",
+          "url": "https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI"
+        }
+      ],
+      "date_added": "2025-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "\u590f\u65e5\u4e4b\u5b50",
+      "url": "https://open.spotify.com/track/3L841BNbbeFPYaRuqbIpzS"
+    },
+    {
+      "album": {
         "name": "\u590f\u65e5\u4e4b\u5b50",
         "url": "https://open.spotify.com/album/7eBgOkUf0cfFBsVlnvmA7x"
       },
@@ -20350,7 +20404,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 262000,
       "name": "\u592a\u967d\u8207\u5730\u7403",
       "url": "https://open.spotify.com/track/0bQSWXtpau3VkNI1ZcXTQA"
@@ -21892,6 +21946,24 @@
       "duration_ms": 252000,
       "name": "\u6625\u590f\u79cb\u51ac A Balloon's Journey",
       "url": "https://open.spotify.com/track/4VWE88XtRQXmOH0JPzwN5T"
+    },
+    {
+      "album": {
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/2a4nRNaoAietyKufWYowLm"
+      },
+      "artists": [
+        {
+          "name": "Terence Lam",
+          "url": "https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI"
+        }
+      ],
+      "date_added": "2025-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182152,
+      "name": "\u6625\u65e5\u90e8",
+      "url": "https://open.spotify.com/track/14LTqsDyoKFm9Arid59Qrd"
     },
     {
       "album": {
@@ -24088,6 +24160,24 @@
       "duration_ms": 181628,
       "name": "\u795e\u968a\u53cb",
       "url": "https://open.spotify.com/track/05hC0bzyZaqn4mxUNAdKNc"
+    },
+    {
+      "album": {
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/2a4nRNaoAietyKufWYowLm"
+      },
+      "artists": [
+        {
+          "name": "Terence Lam",
+          "url": "https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI"
+        }
+      ],
+      "date_added": "2025-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183456,
+      "name": "\u79cb\u8449\u7de3",
+      "url": "https://open.spotify.com/track/1wJ2u9wDxAjZ9tNytiDgRS"
     },
     {
       "album": {

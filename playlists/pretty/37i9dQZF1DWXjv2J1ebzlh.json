@@ -1,6 +1,6 @@
 {
   "description": "The magical world map! Play it in shuffle \u2600\ufe0f",
-  "num_followers": 127821,
+  "num_followers": 127848,
   "original_name": "Bon Voyage",
   "owner": {
     "name": "Spotify",
@@ -171,26 +171,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Canta En Espa\u00f1ol Con Los Panchos",
-        "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
-      },
-      "artists": [
-        {
-          "name": "Eydie Gorm\u00e9",
-          "url": "https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z"
-        },
-        {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
-        }
-      ],
-      "duration_ms": 137560,
-      "name": "Piel Canela",
-      "url": "https://open.spotify.com/track/5NYQS0JkqRRfhlliy0P3Dv"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "Uptown Top Ranking",
         "url": "https://open.spotify.com/album/1FWimRgPFwDVyVlHe9EEnP"
       },
@@ -219,6 +199,26 @@
       "duration_ms": 445426,
       "name": "El Cuarto de Tula",
       "url": "https://open.spotify.com/track/5UjaOsrdoI4shw9gM2eNPC"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "Canta En Espa\u00f1ol Con Los Panchos",
+        "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
+      },
+      "artists": [
+        {
+          "name": "Eydie Gorm\u00e9",
+          "url": "https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z"
+        },
+        {
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        }
+      ],
+      "duration_ms": 137560,
+      "name": "Piel Canela",
+      "url": "https://open.spotify.com/track/5NYQS0JkqRRfhlliy0P3Dv"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -271,6 +271,22 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
+        "name": "Buena Vista Social Club",
+        "url": "https://open.spotify.com/album/5qcOy8sMqROZ0VEfK8LJZt"
+      },
+      "artists": [
+        {
+          "name": "Buena Vista Social Club",
+          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
+        }
+      ],
+      "duration_ms": 329200,
+      "name": "Candela",
+      "url": "https://open.spotify.com/track/1caT2YklnqZq35IcQ0oRLj"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
         "name": "Bloomsday",
         "url": "https://open.spotify.com/album/2ceQKxT0GhryrHU5di7tmz"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 128903,
       "name": "Esperar Pra Ver",
       "url": "https://open.spotify.com/track/5MlrBIIbUYw0Nj1TEHWhmX"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
-        "name": "Buena Vista Social Club",
-        "url": "https://open.spotify.com/album/5qcOy8sMqROZ0VEfK8LJZt"
-      },
-      "artists": [
-        {
-          "name": "Buena Vista Social Club",
-          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
-        }
-      ],
-      "duration_ms": 329200,
-      "name": "Candela",
-      "url": "https://open.spotify.com/track/1caT2YklnqZq35IcQ0oRLj"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -403,22 +403,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Troupeau bleu",
-        "url": "https://open.spotify.com/album/74DOWHisu2jlFvPid9YTGB"
-      },
-      "artists": [
-        {
-          "name": "Cortex",
-          "url": "https://open.spotify.com/artist/7EhUXju6pssa8o3CvFJTew"
-        }
-      ],
-      "duration_ms": 266040,
-      "name": "Huit octobre 1971",
-      "url": "https://open.spotify.com/track/2CsnpBAB8VQMTyPuws57ao"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "Sr. Tigre (French Braids Rework)",
         "url": "https://open.spotify.com/album/4iRAsml6uMPqEiTQZ0zmDp"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 212621,
       "name": "Sr. Tigre - French Braids Rework",
       "url": "https://open.spotify.com/track/3u2hfoDnXpCiQQRQkblecj"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "Troupeau bleu",
+        "url": "https://open.spotify.com/album/74DOWHisu2jlFvPid9YTGB"
+      },
+      "artists": [
+        {
+          "name": "Cortex",
+          "url": "https://open.spotify.com/artist/7EhUXju6pssa8o3CvFJTew"
+        }
+      ],
+      "duration_ms": 266040,
+      "name": "Huit octobre 1971",
+      "url": "https://open.spotify.com/track/2CsnpBAB8VQMTyPuws57ao"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -619,6 +619,22 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
+        "name": "Carlos, Erasmo [Vers\u00e3o Com B\u00f4nus (1971)]",
+        "url": "https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M"
+      },
+      "artists": [
+        {
+          "name": "Erasmo Carlos",
+          "url": "https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz"
+        }
+      ],
+      "duration_ms": 140426,
+      "name": "Gente Aberta",
+      "url": "https://open.spotify.com/track/0MT6ecgiLweuA4nd9NTGll"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
         "name": "Gal Costa",
         "url": "https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu"
       },
@@ -639,18 +655,18 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Carlos, Erasmo [Vers\u00e3o Com B\u00f4nus (1971)]",
-        "url": "https://open.spotify.com/album/2qimhNvbQmkAxG9GS8wj5M"
+        "name": "Alegria, Alegria!!!",
+        "url": "https://open.spotify.com/album/2dSvUYyuZGDO2yVYXuhSPh"
       },
       "artists": [
         {
-          "name": "Erasmo Carlos",
-          "url": "https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz"
+          "name": "Wilson Simonal",
+          "url": "https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya"
         }
       ],
-      "duration_ms": 140426,
-      "name": "Gente Aberta",
-      "url": "https://open.spotify.com/track/0MT6ecgiLweuA4nd9NTGll"
+      "duration_ms": 152613,
+      "name": "Nem Vem Que N\u00e3o Tem",
+      "url": "https://open.spotify.com/track/0oL8aqq5iRE5SnxdxJ6FbK"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -667,22 +683,6 @@
       "duration_ms": 160600,
       "name": "T.I.B.W.F.",
       "url": "https://open.spotify.com/track/7wwLfGqZ5VaTfNGRihJiqu"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
-        "name": "Alegria, Alegria!!!",
-        "url": "https://open.spotify.com/album/2dSvUYyuZGDO2yVYXuhSPh"
-      },
-      "artists": [
-        {
-          "name": "Wilson Simonal",
-          "url": "https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya"
-        }
-      ],
-      "duration_ms": 152613,
-      "name": "Nem Vem Que N\u00e3o Tem",
-      "url": "https://open.spotify.com/track/0oL8aqq5iRE5SnxdxJ6FbK"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -895,22 +895,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Turn This Mutha Out",
-        "url": "https://open.spotify.com/album/4PznnWq19AwatCG4lsyb5I"
-      },
-      "artists": [
-        {
-          "name": "Idris Muhammad",
-          "url": "https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN"
-        }
-      ],
-      "duration_ms": 516586,
-      "name": "Could Heaven Ever Be Like This",
-      "url": "https://open.spotify.com/track/1xkOg49ZxldiM1ioIudwUS"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "Di Melo",
         "url": "https://open.spotify.com/album/2Uri1KkpSo6YOnjLC4ly7F"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 167533,
       "name": "Kilario",
       "url": "https://open.spotify.com/track/00Xcf47ApZUt6omH2RgdUM"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "Turn This Mutha Out",
+        "url": "https://open.spotify.com/album/4PznnWq19AwatCG4lsyb5I"
+      },
+      "artists": [
+        {
+          "name": "Idris Muhammad",
+          "url": "https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN"
+        }
+      ],
+      "duration_ms": 516586,
+      "name": "Could Heaven Ever Be Like This",
+      "url": "https://open.spotify.com/track/1xkOg49ZxldiM1ioIudwUS"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -943,6 +943,22 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
+        "name": "Mahal",
+        "url": "https://open.spotify.com/album/32yQDx3IeVTHLPxT07PFDy"
+      },
+      "artists": [
+        {
+          "name": "Glass Beams",
+          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
+        }
+      ],
+      "duration_ms": 278471,
+      "name": "Black Sand",
+      "url": "https://open.spotify.com/track/7rL4ouaj7AqQM9kgQ5aQrY"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
         "name": "DEIRA",
         "url": "https://open.spotify.com/album/5YgVt9lSgbdSaqB6WFar7d"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 163183,
       "name": "Allah Yihmeeki",
       "url": "https://open.spotify.com/track/653KCEiNh1JpZySNEWJ5O1"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
-        "name": "Mahal",
-        "url": "https://open.spotify.com/album/32yQDx3IeVTHLPxT07PFDy"
-      },
-      "artists": [
-        {
-          "name": "Glass Beams",
-          "url": "https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF"
-        }
-      ],
-      "duration_ms": 278471,
-      "name": "Black Sand",
-      "url": "https://open.spotify.com/track/7rL4ouaj7AqQM9kgQ5aQrY"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Nuova Napoli",
-        "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
-      },
-      "artists": [
-        {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        }
-      ],
-      "duration_ms": 263508,
-      "name": "Disco Sole",
-      "url": "https://open.spotify.com/track/4shVjgoOMa73JgBtZIDDz4"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "S\u00e9rie Samba Soul",
         "url": "https://open.spotify.com/album/6D52C2o93yMKyXqOiXRd3A"
       },
@@ -1239,6 +1223,22 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
+        "name": "Nuova Napoli",
+        "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
+      },
+      "artists": [
+        {
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        }
+      ],
+      "duration_ms": 263508,
+      "name": "Disco Sole",
+      "url": "https://open.spotify.com/track/4shVjgoOMa73JgBtZIDDz4"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
         "name": "The Loser / Now We Know",
         "url": "https://open.spotify.com/album/3Q9nz0AiROFVdjAwNDpwhv"
       },
@@ -1251,22 +1251,6 @@
       "duration_ms": 218653,
       "name": "The Loser",
       "url": "https://open.spotify.com/track/3AGEHHqBOnAmQiJxxbasJu"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
-        "name": "En \u0130yileriyle G\u00fczin ile Baha",
-        "url": "https://open.spotify.com/album/7fvxRfbGnLm5PXGpDRZlH9"
-      },
-      "artists": [
-        {
-          "name": "G\u00fczin \u0130le Baha",
-          "url": "https://open.spotify.com/artist/6dytXiJkoMMHccOb6PiOqo"
-        }
-      ],
-      "duration_ms": 173520,
-      "name": "Gen\u00e7lik Ba\u015f\u0131mda Duman",
-      "url": "https://open.spotify.com/track/5Ox8yqAfQvNwaDoGlkU2al"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -1303,22 +1287,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Head Sounds",
-        "url": "https://open.spotify.com/album/4TSezF4Nzi3aiSfG0sfe8l"
-      },
-      "artists": [
-        {
-          "name": "Ray Barretto",
-          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
-        }
-      ],
-      "duration_ms": 307307,
-      "name": "Acid",
-      "url": "https://open.spotify.com/track/2U2PU70RZCDo37wPtiCAcJ"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "Dead Dance",
         "url": "https://open.spotify.com/album/0nfcLVTGduT5B7ywAGByqO"
       },
@@ -1331,22 +1299,6 @@
       "duration_ms": 215056,
       "name": "Balera De Mar",
       "url": "https://open.spotify.com/track/6utYINltaI9TB6xjpNFXQS"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
-        "name": "Lovely Difficult",
-        "url": "https://open.spotify.com/album/19vR7lLDnkhfmcdEYmXOtB"
-      },
-      "artists": [
-        {
-          "name": "Mayra Andrade",
-          "url": "https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE"
-        }
-      ],
-      "duration_ms": 227026,
-      "name": "Les mots d'amour",
-      "url": "https://open.spotify.com/track/5wWsPTSLg9gLuD39EjCxB4"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -1371,6 +1323,54 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
+        "name": "En \u0130yileriyle G\u00fczin ile Baha",
+        "url": "https://open.spotify.com/album/7fvxRfbGnLm5PXGpDRZlH9"
+      },
+      "artists": [
+        {
+          "name": "G\u00fczin \u0130le Baha",
+          "url": "https://open.spotify.com/artist/6dytXiJkoMMHccOb6PiOqo"
+        }
+      ],
+      "duration_ms": 173520,
+      "name": "Gen\u00e7lik Ba\u015f\u0131mda Duman",
+      "url": "https://open.spotify.com/track/5Ox8yqAfQvNwaDoGlkU2al"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "Head Sounds",
+        "url": "https://open.spotify.com/album/4TSezF4Nzi3aiSfG0sfe8l"
+      },
+      "artists": [
+        {
+          "name": "Ray Barretto",
+          "url": "https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D"
+        }
+      ],
+      "duration_ms": 307307,
+      "name": "Acid",
+      "url": "https://open.spotify.com/track/2U2PU70RZCDo37wPtiCAcJ"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "Lovely Difficult",
+        "url": "https://open.spotify.com/album/19vR7lLDnkhfmcdEYmXOtB"
+      },
+      "artists": [
+        {
+          "name": "Mayra Andrade",
+          "url": "https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE"
+        }
+      ],
+      "duration_ms": 227026,
+      "name": "Les mots d'amour",
+      "url": "https://open.spotify.com/track/5wWsPTSLg9gLuD39EjCxB4"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
         "name": "Isle Of Magic",
         "url": "https://open.spotify.com/album/0KrjFs17bxZYT5oNK1Wxj6"
       },
@@ -1383,22 +1383,6 @@
       "duration_ms": 246799,
       "name": "Kamakumba",
       "url": "https://open.spotify.com/track/4a1fZPAqIORgRyd1cQCyqQ"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
-        "name": "La Candela Viva",
-        "url": "https://open.spotify.com/album/2UChA5fC8ycqyOJbMwjtZw"
-      },
-      "artists": [
-        {
-          "name": "Tot\u00f3 La Momposina",
-          "url": "https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk"
-        }
-      ],
-      "duration_ms": 247306,
-      "name": "El Pescador",
-      "url": "https://open.spotify.com/track/5STDVTFO7ziu4LDaaRCx2n"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -1423,6 +1407,22 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
+        "name": "La Candela Viva",
+        "url": "https://open.spotify.com/album/2UChA5fC8ycqyOJbMwjtZw"
+      },
+      "artists": [
+        {
+          "name": "Tot\u00f3 La Momposina",
+          "url": "https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk"
+        }
+      ],
+      "duration_ms": 247306,
+      "name": "El Pescador",
+      "url": "https://open.spotify.com/track/5STDVTFO7ziu4LDaaRCx2n"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
         "name": "Satingarona Pt. 2",
         "url": "https://open.spotify.com/album/1dZQRZHQUDcXHwZpKwZHF2"
       },
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "Nuova Napoli",
-        "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
-      },
-      "artists": [
-        {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        }
-      ],
-      "duration_ms": 261926,
-      "name": "Ddoje Facce",
-      "url": "https://open.spotify.com/track/2eugKq2QsQ3TRJ4JgbdpzC"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "Sings Love",
         "url": "https://open.spotify.com/album/4wumIYHuT2WHzoaiR03MDd"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 222981,
       "name": "Let Love Flow On",
       "url": "https://open.spotify.com/track/5fiudMisuNkKC1htZSCh2t"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "Nuova Napoli",
+        "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
+      },
+      "artists": [
+        {
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        }
+      ],
+      "duration_ms": 261926,
+      "name": "Ddoje Facce",
+      "url": "https://open.spotify.com/track/2eugKq2QsQ3TRJ4JgbdpzC"
     },
     {
       "added_at": "2025-03-14 13:51:12",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2025-03-14 13:51:12",
       "album": {
-        "name": "L\u00f4 Borges",
-        "url": "https://open.spotify.com/album/0fXZAZ5XejnxhgRV38SH5I"
-      },
-      "artists": [
-        {
-          "name": "L\u00f4 Borges",
-          "url": "https://open.spotify.com/artist/1mZbRiSVb2ExneAlDbBiiT"
-        }
-      ],
-      "duration_ms": 183973,
-      "name": "Eu Sou Como Voc\u00ea \u00c9",
-      "url": "https://open.spotify.com/track/7uE2uoR0R3fDmbC7517Xej"
-    },
-    {
-      "added_at": "2025-03-14 13:51:12",
-      "album": {
         "name": "N\u00f3 na Orelha",
         "url": "https://open.spotify.com/album/35okb1xF4DPilYtWCL9cAI"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 280400,
       "name": "Bogot\u00e1",
       "url": "https://open.spotify.com/track/61Jxt8CMOgErUrwIvnJBM5"
+    },
+    {
+      "added_at": "2025-03-14 13:51:12",
+      "album": {
+        "name": "L\u00f4 Borges",
+        "url": "https://open.spotify.com/album/0fXZAZ5XejnxhgRV38SH5I"
+      },
+      "artists": [
+        {
+          "name": "L\u00f4 Borges",
+          "url": "https://open.spotify.com/artist/1mZbRiSVb2ExneAlDbBiiT"
+        }
+      ],
+      "duration_ms": 183973,
+      "name": "Eu Sou Como Voc\u00ea \u00c9",
+      "url": "https://open.spotify.com/track/7uE2uoR0R3fDmbC7517Xej"
     },
     {
       "added_at": "2025-03-14 13:51:12",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcPYzOAWX8Wm.md) - [plain]
 
 > Celebrating the graduating class with the classics and anthems that got us here 🎉
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,773 likes - 133 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,761 likes - 133 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

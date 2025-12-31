@@ -1,12 +1,12 @@
 {
   "description": "This is Nina Simone. The essential tracks, all in one playlist.",
-  "num_followers": 505288,
+  "num_followers": 505324,
   "original_name": "This Is Nina Simone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVBzAAAAAADOAPg12meHgBFCUfL1N4oA",
+  "snapshot_id": "aVHEgAAAAACc1zQgSJZsMk/3qPgYkID3",
   "tracks": [
     {
       "added_at": null,
@@ -207,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Here Comes The Sun (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3bm8jq96m8I1FZc8BsfG8g"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 214093,
-      "name": "Here Comes the Sun",
-      "url": "https://open.spotify.com/track/1x9ahz0ALGHgbN9wwDjmre"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Single Woman (Expanded)",
         "url": "https://open.spotify.com/album/5pSGlGB1DVrSlvQBcvlPyB"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 161680,
       "name": "The More I See You - Remastered",
       "url": "https://open.spotify.com/track/5qjeRPh4CVuaF9qs9KC2yT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Here Comes The Sun (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3bm8jq96m8I1FZc8BsfG8g"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 214093,
+      "name": "Here Comes the Sun",
+      "url": "https://open.spotify.com/track/1x9ahz0ALGHgbN9wwDjmre"
     },
     {
       "added_at": null,
@@ -271,22 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Here Comes The Sun (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3bm8jq96m8I1FZc8BsfG8g"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 299213,
-      "name": "Mr. Bojangles",
-      "url": "https://open.spotify.com/track/5ywoRjfVIlcJiSAxwPT3Pt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Let It All Out",
         "url": "https://open.spotify.com/album/4bGiPtwVEKcXbXs7oKCMqD"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 258693,
       "name": "Don't Explain",
       "url": "https://open.spotify.com/track/5trSBbOg0lYbiDq9khCB8u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Here Comes The Sun (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3bm8jq96m8I1FZc8BsfG8g"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 299213,
+      "name": "Mr. Bojangles",
+      "url": "https://open.spotify.com/track/5ywoRjfVIlcJiSAxwPT3Pt"
     },
     {
       "added_at": null,
@@ -371,8 +371,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Put A Spell On You",
-        "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez"
+        "name": "High Priestess Of Soul",
+        "url": "https://open.spotify.com/album/1M2ktinB3DcTbrVXD45jxn"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         }
       ],
-      "duration_ms": 125960,
-      "name": "Take Care Of Business",
-      "url": "https://open.spotify.com/track/2YwjSPeznyCvkUYvqKbXa9"
+      "duration_ms": 183666,
+      "name": "Work Song",
+      "url": "https://open.spotify.com/track/628A54HsxBPfgJPShyD7gx"
     },
     {
       "added_at": null,
@@ -403,8 +403,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "High Priestess Of Soul",
-        "url": "https://open.spotify.com/album/1M2ktinB3DcTbrVXD45jxn"
+        "name": "I Put A Spell On You",
+        "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez"
       },
       "artists": [
         {
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         }
       ],
-      "duration_ms": 183666,
-      "name": "Work Song",
-      "url": "https://open.spotify.com/track/628A54HsxBPfgJPShyD7gx"
+      "duration_ms": 125960,
+      "name": "Take Care Of Business",
+      "url": "https://open.spotify.com/track/2YwjSPeznyCvkUYvqKbXa9"
     },
     {
       "added_at": null,
@@ -787,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Silk & Soul (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2miVfa78vOd0o8Vbsgd7g3"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 202053,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/395JOroUb1RLcDp5BCN7F5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Put A Spell On You",
         "url": "https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 160933,
       "name": "You've Got To Learn",
       "url": "https://open.spotify.com/track/5mUuJ9ho28WRUv03odBCBb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Silk & Soul (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2miVfa78vOd0o8Vbsgd7g3"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 202053,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/395JOroUb1RLcDp5BCN7F5"
     }
   ],
   "unique_name": "This Is Nina Simone",

@@ -1,6 +1,6 @@
 {
   "description": "Lavando e louvando a Deus com grandes hinos.",
-  "num_followers": 443848,
+  "num_followers": 443873,
   "original_name": "Louvando e Lou\u00e7a",
   "owner": {
     "name": "Spotify",
@@ -459,6 +459,22 @@
     {
       "added_at": "2025-10-06 18:09:09",
       "album": {
+        "name": "Milagre",
+        "url": "https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 239211,
+      "name": "Prioridade",
+      "url": "https://open.spotify.com/track/0XX21ynoX03YyxU13Dfuaj"
+    },
+    {
+      "added_at": "2025-10-06 18:09:09",
+      "album": {
         "name": "Uma Hist\u00f3ria Escrita pelo Dedo de Deus, Vol. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/2SGXRWHHPEMjaOEwzmJt7R"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 374986,
       "name": "Nada Al\u00e9m de Ti - Ao Vivo",
       "url": "https://open.spotify.com/track/5EDXCypGSkaJLRGNvhsL4h"
-    },
-    {
-      "added_at": "2025-10-06 18:09:09",
-      "album": {
-        "name": "Milagre",
-        "url": "https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 239211,
-      "name": "Prioridade",
-      "url": "https://open.spotify.com/track/0XX21ynoX03YyxU13Dfuaj"
     },
     {
       "added_at": "2025-10-06 18:09:09",
@@ -751,22 +751,6 @@
     {
       "added_at": "2025-10-06 18:09:09",
       "album": {
-        "name": "Aceito o Teu Chamado",
-        "url": "https://open.spotify.com/album/4dWAoWGTlbC0JdSbODjFpG"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 259181,
-      "name": "Deixar a L\u00e1grima Rolar",
-      "url": "https://open.spotify.com/track/0MYOLA6eOwPBO5KjXSpEhz"
-    },
-    {
-      "added_at": "2025-10-06 18:09:09",
-      "album": {
         "name": "Aleluia - Diante do Trono 13 (Ao Vivo)",
         "url": "https://open.spotify.com/album/0zjeMVBRY1Urt1TkDJ8qY8"
       },
@@ -787,18 +771,34 @@
     {
       "added_at": "2025-10-06 18:09:09",
       "album": {
-        "name": "N\u00e3o Tem Como Dar Errado",
-        "url": "https://open.spotify.com/album/5NMVWJzQs8ZRk5ablWbYW0"
+        "name": "Aceito o Teu Chamado",
+        "url": "https://open.spotify.com/album/4dWAoWGTlbC0JdSbODjFpG"
       },
       "artists": [
         {
-          "name": "Maria Mar\u00e7al",
-          "url": "https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk"
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 202398,
-      "name": "N\u00e3o Tem Como Dar Errado - Ao Vivo em Salvador",
-      "url": "https://open.spotify.com/track/15DX1TCnLzCXMcjWnsUkMe"
+      "duration_ms": 259181,
+      "name": "Deixar a L\u00e1grima Rolar",
+      "url": "https://open.spotify.com/track/0MYOLA6eOwPBO5KjXSpEhz"
+    },
+    {
+      "added_at": "2025-10-06 18:09:09",
+      "album": {
+        "name": "O Maior Trof\u00e9u",
+        "url": "https://open.spotify.com/album/4aUmdgVlZoV0lvPIHrqslu"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 311280,
+      "name": "O Maior Trof\u00e9u",
+      "url": "https://open.spotify.com/track/1s6kINRA4Py3YlYtPWhFew"
     },
     {
       "added_at": "2025-10-06 18:09:09",
@@ -827,34 +827,18 @@
     {
       "added_at": "2025-10-06 18:09:09",
       "album": {
-        "name": "O Maior Trof\u00e9u",
-        "url": "https://open.spotify.com/album/4aUmdgVlZoV0lvPIHrqslu"
+        "name": "N\u00e3o Tem Como Dar Errado",
+        "url": "https://open.spotify.com/album/5NMVWJzQs8ZRk5ablWbYW0"
       },
       "artists": [
         {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+          "name": "Maria Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk"
         }
       ],
-      "duration_ms": 311280,
-      "name": "O Maior Trof\u00e9u",
-      "url": "https://open.spotify.com/track/1s6kINRA4Py3YlYtPWhFew"
-    },
-    {
-      "added_at": "2025-10-06 18:09:09",
-      "album": {
-        "name": "Tudo \u00e9 Poss\u00edvel",
-        "url": "https://open.spotify.com/album/7i3ei0xF22OnsBYRM6VfDC"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 395435,
-      "name": "Tudo \u00e9 Poss\u00edvel",
-      "url": "https://open.spotify.com/track/0RWkB6OSSKRH9ChUof0ITQ"
+      "duration_ms": 202398,
+      "name": "N\u00e3o Tem Como Dar Errado - Ao Vivo em Salvador",
+      "url": "https://open.spotify.com/track/15DX1TCnLzCXMcjWnsUkMe"
     },
     {
       "added_at": "2025-10-06 18:09:09",
@@ -871,6 +855,22 @@
       "duration_ms": 310311,
       "name": "O Mapa do Tesouro",
       "url": "https://open.spotify.com/track/4IoRFVUCHDfHnTi4AhsXfx"
+    },
+    {
+      "added_at": "2025-10-06 18:09:09",
+      "album": {
+        "name": "Tudo \u00e9 Poss\u00edvel",
+        "url": "https://open.spotify.com/album/7i3ei0xF22OnsBYRM6VfDC"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 395435,
+      "name": "Tudo \u00e9 Poss\u00edvel",
+      "url": "https://open.spotify.com/track/0RWkB6OSSKRH9ChUof0ITQ"
     },
     {
       "added_at": "2025-10-06 18:09:09",

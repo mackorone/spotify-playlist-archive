@@ -2,7 +2,7 @@
 
 ### [Fresh Finds España: Lo mejor de 2025](https://open.spotify.com/playlist/37i9dQZF1DWVhn3qoy98w6)
 
-> Lo mejor de 2025 en la escena independiente española\. Foto: West Srk.
+> Lo mejor de 2025 en la escena independiente española\. Foto: Cecilia Zango.
 
 8,251 songs - 17 day 12 hr 29 min
 

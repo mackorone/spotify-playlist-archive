@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rSVxG.md) - [plain]
 
 > This is Tony! Toni! Toné!\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,416 likes - 39 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,418 likes - 39 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,11 +21,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rSVxG.md) - [plain]
 | 11 | [Feels Good](https://open.spotify.com/track/4cRR2gUTOerkUOW5iZpm91) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [The Revival](https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT) | 4:58 |
 | 12 | [Thinking Of You](https://open.spotify.com/track/2kp0HkwA1v8WcmCwYqm7DO) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [House Of Music](https://open.spotify.com/album/3I4ObAZqVRcENUqxwv10If) | 3:58 |
 | 13 | [If I Had No Loot](https://open.spotify.com/track/5oPRLER8bCQN3RFFVvLbTC) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Sons Of Soul](https://open.spotify.com/album/55Blx1F1hOYdda222r7jyV) | 4:01 |
-| 14 | [Rifle Love](https://open.spotify.com/track/0rTJxsTHftHWA6pRyCWu2c) | [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo), [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW), [Lucy Pearl](https://open.spotify.com/artist/0OUXTnqjvTg4iZ7Lhq6vv7) | [Ray Ray](https://open.spotify.com/album/1sV8tljpDaqszWG0BfTTgl) | 4:18 |
+| 14 | [Little Walter](https://open.spotify.com/track/2VAK1wpNtziRwQrJxg0eQe) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Who?](https://open.spotify.com/album/0sd5Xo4rUSD9LTee0C5jbu) | 4:53 |
 | 15 | [The Blues](https://open.spotify.com/track/2TYgfLRpzaC4LgTqRy7UAf) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [The Revival](https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT) | 4:13 |
 | 16 | [Still A Man](https://open.spotify.com/track/3EA1GVdqwyjVvbw9XJ87gq) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [House Of Music](https://open.spotify.com/album/3I4ObAZqVRcENUqxwv10If) | 7:18 |
 | 17 | [I Couldn't Keep It To Myself](https://open.spotify.com/track/4T5vqnVy8BkPC6WLJXZkWW) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Sons Of Soul](https://open.spotify.com/album/55Blx1F1hOYdda222r7jyV) | 5:18 |
-| 18 | [Little Walter](https://open.spotify.com/track/2VAK1wpNtziRwQrJxg0eQe) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Who?](https://open.spotify.com/album/0sd5Xo4rUSD9LTee0C5jbu) | 4:53 |
+| 18 | [Rifle Love](https://open.spotify.com/track/0rTJxsTHftHWA6pRyCWu2c) | [Raphael Saadiq](https://open.spotify.com/artist/6g0Wah2YFtb1rFgKhUktlo), [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW), [Lucy Pearl](https://open.spotify.com/artist/0OUXTnqjvTg4iZ7Lhq6vv7) | [Ray Ray](https://open.spotify.com/album/1sV8tljpDaqszWG0BfTTgl) | 4:18 |
 | 19 | [I Care](https://open.spotify.com/track/5GgE6pvZ21IdJrSVBWs5xd) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [The Revival](https://open.spotify.com/album/5yORmYtkTZdFgo6ppcsFZT) | 5:56 |
 | 20 | [Holy Smokes & Gee Whiz](https://open.spotify.com/track/6oy8I8FQl5riiH0zZKDoBU) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [House Of Music](https://open.spotify.com/album/3I4ObAZqVRcENUqxwv10If) | 5:01 |
 | 21 | [My Ex\-Girlfriend](https://open.spotify.com/track/0jatcRk16ATM6EskYTDH5r) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Sons Of Soul](https://open.spotify.com/album/55Blx1F1hOYdda222r7jyV) | 4:52 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rSVxG.md) - [plain]
 | 38 | [Addicted to You \(feat\. Feddy Moe, Bosten Black, Uncl DJ & Tony Toni Tone\)](https://open.spotify.com/track/6U2xE3ZuMOJcWRTqiLDFxf) | [Mac Rell](https://open.spotify.com/artist/7vWUQcdfwm0m7fL70IW9Z0), [Feddy Moe](https://open.spotify.com/artist/4tOrYOaovyBBNRXIW6rPrm), [Bosten Black](https://open.spotify.com/artist/3uRWEE4AsIQMhMqUBmvL7Q), [Uncl DJ](https://open.spotify.com/artist/3jE7KVL4FfuxT3fWNq53Wi), [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Kick n Game Like Soccer](https://open.spotify.com/album/3g0Efg9A3iqVssZyW8jD5X) | 3:45 |
 | 39 | [Pain](https://open.spotify.com/track/1K9rkQbCTj7LE1ZuJr0Jns) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Who?](https://open.spotify.com/album/0sd5Xo4rUSD9LTee0C5jbu) | 5:46 |
 
-Snapshot ID: `aVBzAAAAAAAEmlqVQbZuNXgMnajKzjC+`
+Snapshot ID: `aVHEgAAAAABYt1CLSSI6c2t1PYF6MwNp`

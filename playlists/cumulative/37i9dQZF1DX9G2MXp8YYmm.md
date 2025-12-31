@@ -4,7 +4,7 @@
 
 > Pop'un sevilen isimleri\. Kapak: Ozan Bayraşa x Hande Yener
 
-468 songs - 23 hr 33 min
+469 songs - 23 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Acı Türkü](https://open.spotify.com/track/5VO70YyZPKPOOBjcNyeFrz) | [Yiğit Seferoğlu](https://open.spotify.com/artist/23PyUBxakP5fM83oPh8Alc) | [Acı Türkü](https://open.spotify.com/album/6NZS77titj8EK1eyljbFdt) | 3:17 | 2025-05-08 | 2025-05-16 |
 | [Acının Seyir Defteri](https://open.spotify.com/track/5h9KIm7EeobUVGbnB3Fk1y) | [Aşkın Nur Yengi](https://open.spotify.com/artist/2fYdUIUPS7aDdWCzb8Aw2k) | [Acının Seyir Defteri](https://open.spotify.com/album/7f0M03KQBjUNlSP1zxRMcc) | 2:51 | 2024-11-21 | 2024-11-28 |
 | [Acıyla Kucaklaştım](https://open.spotify.com/track/0OP73LxXno2zdkxETjg3KF) | [Anıl Durmuş](https://open.spotify.com/artist/10aqquITh9xMvNFTMZicY9) | [Acıyla Kucaklaştım](https://open.spotify.com/album/6VOx7oShyeQgY11InDvTZX) | 3:19 | 2024-06-27 | 2025-01-26 |
-| [Acıyla Kucaklaştım](https://open.spotify.com/track/5WK9ocd8NIPsHKZ6OcVdmw) | [Çağan Şengül](https://open.spotify.com/artist/3W0gwNZqdtkleuMYlKElaw) | [Acıyla Kucaklaştım](https://open.spotify.com/album/6syG8s0ci1qDXt2UVGJvIG) | 3:28 | 2025-12-04 |  |
+| [Acıyla Kucaklaştım](https://open.spotify.com/track/5WK9ocd8NIPsHKZ6OcVdmw) | [Çağan Şengül](https://open.spotify.com/artist/3W0gwNZqdtkleuMYlKElaw) | [Acıyla Kucaklaştım](https://open.spotify.com/album/6syG8s0ci1qDXt2UVGJvIG) | 3:28 | 2025-12-04 | 2025-12-31 |
 | [Acıyor Kalbim](https://open.spotify.com/track/5at6EvpZwE8neKRrDrk7gI) | [Anıl Durmuş](https://open.spotify.com/artist/10aqquITh9xMvNFTMZicY9), [Ahmet Hatipoğlu](https://open.spotify.com/artist/2sOq4hJZRAybcz8AvKjDK4) | [Acıyor Kalbim](https://open.spotify.com/album/2svxTBuMYsgzUq6er9ROiA) | 2:08 | 2025-07-17 |  |
 | [Adı Yok](https://open.spotify.com/track/7IZ9Fw0EYYhReIdYiUUoIe) | [Murat Dalkılıç](https://open.spotify.com/artist/6dDaXbE1caD65TONToYXYx) | [Adı Yok](https://open.spotify.com/album/4sISEKhVWCYRb2Rct7iLLI) | 2:39 | 2025-06-26 | 2025-11-17 |
 | [Adını Yazdım](https://open.spotify.com/track/3U2n2bDXv2X4eIxQ0Rqsbw) | [Samet Kardeşler](https://open.spotify.com/artist/4Jah47VbnOtQGLtmdrDRXp), [Sıla Şahin](https://open.spotify.com/artist/7p71hjdN4GlGgIsmCQIvuC) | [Adını Yazdım](https://open.spotify.com/album/6A4vsUDLXGiDtqplTzSPon) | 2:29 | 2024-06-27 | 2024-10-02 |
@@ -165,6 +165,7 @@
 | [evvel ezel](https://open.spotify.com/track/5g5qz9ITYSc7N7r0G05cob) | [Sıla](https://open.spotify.com/artist/5gFPi3KWXEwA9bLEO47Ow0) | [evvel ezel](https://open.spotify.com/album/0aeneVMdfTNUQrbnwh5aKT) | 3:39 | 2025-11-27 |  |
 | [Ey Aşk](https://open.spotify.com/track/5rElOY8KtcQFqlSZ7hgEuC) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Paşa Gönül Şarkıları](https://open.spotify.com/album/2oBjfy4PesjgtncSmEaY9T) | 4:07 | 2025-06-26 |  |
 | [Eylül](https://open.spotify.com/track/26Jhjfmce2DvYttkfFdA8s) | [Salman Tin](https://open.spotify.com/artist/539RbtR2AVUYdmHQZjLL6m), [Oğuzhan Koç](https://open.spotify.com/artist/1nFJWl30l3PAHei86OxN0i) | [Eylül](https://open.spotify.com/album/42LDVOTbeJ1vUJXGGk0vyJ) | 2:54 | 2025-02-20 | 2025-06-20 |
+| [Eyvahlar Olsun](https://open.spotify.com/track/5tRX2KvG4P3vOmUGF72G4W) | [Emre Fel](https://open.spotify.com/artist/1kRAeenoDZ5jBdzboZQuKa) | [Eyvahlar Olsun](https://open.spotify.com/album/0ok1O5subpgpWeMKnyvbrk) | 2:56 | 2025-12-25 |  |
 | [Farkındaydın](https://open.spotify.com/track/1OUuYxtMnyNS4etNDpto3A) | [Sura İskenderli](https://open.spotify.com/artist/1B0fCkXH620aujSMm3wIKS), [Lil Orxan](https://open.spotify.com/artist/4se0Sn6hGwzmytn5VYtc6d) | [Farkındaydın](https://open.spotify.com/album/60T9anGFIN7i4zAYEJ7hfU) | 2:56 | 2025-07-31 | 2025-08-09 |
 | [Felaket](https://open.spotify.com/track/3oFew1USP4dXQxDsivrTO0) | [Sinan Akçıl](https://open.spotify.com/artist/31czVneIywpUwJTNOVviJx), [Ece Mumay](https://open.spotify.com/artist/5FK1YzcREfjBuxM8i7UtBe) | [Felaket](https://open.spotify.com/album/6BD9aDBrdBRnJ88a5bnInr) | 2:21 | 2025-05-22 | 2025-06-27 |
 | [Fırtınam](https://open.spotify.com/track/5xbVWh4zxwzUfi8dnhgAfz) | [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [Fırtınam](https://open.spotify.com/album/5ZAihw7AqO2Q0Yu0AWQqT5) | 3:12 | 2025-02-20 | 2025-05-26 |

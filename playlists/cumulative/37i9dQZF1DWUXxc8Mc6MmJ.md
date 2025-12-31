@@ -4,7 +4,7 @@
 
 > Relive your favourite K\-Drama moments with these classic soundtracks\. \(그 시절 그 때의 감성이 담겨 있는 OST 명곡들을 만나보세요.\)
 
-311 songs - 20 hr 5 min
+312 songs - 20 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,12 +280,13 @@
 | [With you](https://open.spotify.com/track/2gzhQaCTeNgxpeB2TPllyY) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Our Blues, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/3Zu8uym76sjmYEGTFsXnSy) | 3:21 | 2022-10-06 |  |
 | [With you](https://open.spotify.com/track/2fpcCopXJgrHa2xG1yY2jp) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [With You \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/7hQuNjWTlGRTdxu7TwIM9x) | 4:05 | 2022-06-24 | 2022-07-17 |
 | [With You](https://open.spotify.com/track/2o2e7bYiUSJgUSFcxywNVV) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [Descendants Of The Sun Pt.7 \(Original Television Soundtrack\)](https://open.spotify.com/album/60XRnPYaFeSFUvrAlRYFP6) | 4:14 | 2024-04-04 |  |
+| [You](https://open.spotify.com/track/3lO5ShDSFaisIh5Xst8na0) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Healer \(Original Television Soundtrack\)](https://open.spotify.com/album/0EQJ8RXISHsoZafV3PgUFv) | 3:46 | 2024-10-10 |  |
 | [You Are My Everything](https://open.spotify.com/track/4s80CRYk3rRPZE56NvmFi7) | [GUMMY](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Descendants Of The Sun Pt.4 \(Original Television Soundtrack\)](https://open.spotify.com/album/2xhG5yxzYITJA30jKf2MkQ) | 4:00 | 2022-06-24 |  |
 | [You Are My Everything](https://open.spotify.com/track/109Yq7KKwMyZhEyX4JqqeU) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [태양의 후예 \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/6hEeL5DGfL0fffPGGUDvqq) | 4:00 | 2022-05-11 | 2022-07-29 |
 | [You Are My Everything \- English Version](https://open.spotify.com/track/659eroHArk1V6qzOBDaLDL) | [GUMMY](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Descendants Of The Sun Pt.4 \(Original Television Soundtrack\)](https://open.spotify.com/album/2xhG5yxzYITJA30jKf2MkQ) | 4:00 | 2024-04-04 | 2025-12-02 |
 | [You Are My World](https://open.spotify.com/track/3RYVWLRwdRaneGvLBcw4lH) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [The Legend Of The Blue Sea \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7Gcdtxj0SD33TZezuNRe6j) | 3:37 | 2022-05-11 | 2022-07-16 |
 | [You are so beautiful](https://open.spotify.com/track/2nJDePK69THatYkjkjQFE8) | [Eddy Kim](https://open.spotify.com/artist/1sVSMPPNMMSZ7cQNfbvMOe) | [Guardian \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/6HTmDMNeSk7pHV9CLfFUVu) | 3:15 | 2024-04-03 |  |
-| [You&I](https://open.spotify.com/track/6nqXh3vnt1mMRYVIK6SL0L) | [Kim Jong Wan of NELL](https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH) | [Weightlifting Fairy Kim Bok Joo \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/5CWesejcPaGkUPNauwwSXv) | 3:35 | 2024-04-04 |  |
+| [You&I](https://open.spotify.com/track/6nqXh3vnt1mMRYVIK6SL0L) | [Kim Jong Wan of NELL](https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH) | [Weightlifting Fairy Kim Bok Joo \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/5CWesejcPaGkUPNauwwSXv) | 3:35 | 2024-04-04 | 2025-12-31 |
 | [You're Cold](https://open.spotify.com/track/5sVeJMHMfCWf2H6g66KQXz) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [It's Okay to Not Be Okay \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/63qfWGAvtGwa2YF4yC98Ak) | 3:54 | 2024-04-03 |  |
 | [You're My Garden](https://open.spotify.com/track/5PlBCHCh7aCDlBBA8DoLp0) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [Strong Woman Do Bong Soon, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/77cCsRz7JQHSo2i5GWbKTb) | 4:03 | 2023-03-13 | 2024-01-11 |
 | [You're My Garden](https://open.spotify.com/track/7msbS3OKtBn1EKDzzS6TZy) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [Strong Woman Do Bong Soon, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/5EGK6MNHsQiVs2HRnAHiqr) | 4:03 | 2024-04-03 | 2024-04-19 |

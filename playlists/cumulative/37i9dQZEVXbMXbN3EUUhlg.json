@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "",
+        "url": "https://open.spotify.com/album/56DmjKnPW9CEpnvLNOZEQW"
+      },
+      "artists": [
+        {
+          "name": "artist",
+          "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        }
+      ],
+      "date_added": "2025-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "",
+      "url": "https://open.spotify.com/track/1pKTRpA8SI3SGkAOWESqVd"
+    },
+    {
+      "album": {
         "name": "1989 (Taylor's Version)",
         "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
       },
@@ -4654,7 +4672,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-30",
+      "date_removed": null,
       "duration_ms": 156536,
       "name": "Bebe, Beija e Trai - Ao Vivo",
       "url": "https://open.spotify.com/track/1yJYseCZJYRHZkl1DJ3tLs"
@@ -6102,7 +6120,7 @@
       ],
       "date_added": "2025-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 221583,
       "name": "Cama e Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/4jHrB8ZcGoFbSMVq2FXzmk"
@@ -11410,7 +11428,7 @@
       ],
       "date_added": "2025-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 171207,
       "name": "Escondendo o Ouro - Ao Vivo",
       "url": "https://open.spotify.com/track/0IBCX7PC9NcfFLuyoHxTNt"
@@ -12122,7 +12140,7 @@
       ],
       "date_added": "2025-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 130952,
       "name": "Eu Quero \u00e9 Praia",
       "url": "https://open.spotify.com/track/5p5QetM8bXMWBUuyltZr5w"
@@ -20066,7 +20084,7 @@
       ],
       "date_added": "2024-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 173206,
       "name": "Mentira Estampada",
       "url": "https://open.spotify.com/track/4dGx53NJZJyuuLP5ownH1p"
@@ -31174,7 +31192,7 @@
       ],
       "date_added": "2025-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 199061,
       "name": "Sol Nos Olhos",
       "url": "https://open.spotify.com/track/4mevJ3Ki58x4cQgWheMAPd"
@@ -32322,7 +32340,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-29",
+      "date_removed": null,
       "duration_ms": 126800,
       "name": "Talvez voc\u00ea precise de mim",
       "url": "https://open.spotify.com/track/2De1EHbIhepIVLHZ16bySE"
@@ -33366,7 +33384,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-30",
+      "date_removed": null,
       "duration_ms": 226073,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
@@ -34848,7 +34866,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-29",
+      "date_removed": null,
       "duration_ms": 155307,
       "name": "T\u00f4 na Brasilia com o Zig\u00e3o",
       "url": "https://open.spotify.com/track/4l2Fyw7EYB5XjcKwqcwuHQ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbRQkm2Ah3WW.md) - [plain]
 
 > Embrace your inner Dark Side with this collection of music from your favorite Star Wars films.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,439 likes - 30 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,462 likes - 30 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

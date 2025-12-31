@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N1p58R7iUl.md) - [plain]
 
 > Listen to <a href="spotify:artist:3dE92yGWcrboP1kC5SWyqu">Todd Terry</a>'s favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,959 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,008 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N1p58R7iUl.md) - [plain]
 | 49 | [Just Stay The Night](https://open.spotify.com/track/13oxbWMd3hJsV0VyOnyR5u) | [David Penn](https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [Just Stay The Night](https://open.spotify.com/album/76YgJrJg5YM6k97AztAlUC) | 3:12 |
 | 50 | [Control Yourself \- Edit](https://open.spotify.com/track/2je9kytIVeUkfpiYADVu33) | [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu), [Blac Manu Kae](https://open.spotify.com/artist/7KGWSDwgUdGNoZjXnPPEBO) | [Control Yourself](https://open.spotify.com/album/06KfxcLjc8Ewu0Fv6E8T0q) | 2:53 |
 
-Snapshot ID: `AAAAAJUujx8UZo05O4yHL1fQ4QUsYpUf`
+Snapshot ID: `AAAAAMxeDbz2GGFl6qZ+I7KmCWrXQpSl`

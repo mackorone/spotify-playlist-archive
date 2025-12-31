@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Felguk, Watzgood
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,204,459 likes - 70 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,204,331 likes - 70 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 14 | [Pill](https://open.spotify.com/track/0CP12bH6ES84AyycXYp1Si) | [Breaking Beattz](https://open.spotify.com/artist/0eRxVzLBxZGMZcsSoMESfX) | [O Novo Testamento](https://open.spotify.com/album/6Ry6vnrPB1r5l60AOOT8G2) | 3:29 |
 | 15 | [Le Souffle \- ZAC Remix](https://open.spotify.com/track/20RVBE6G67qWLnoxwNzJQl) | [Fuscarini](https://open.spotify.com/artist/3x6PKBL6iyehZpYPSzsu7R), [ZAC](https://open.spotify.com/artist/5xUXAwPZ98FzFgjTNOIPyv) | [Le Souffle](https://open.spotify.com/album/3FCZpuQ9X8xk9FAZRPoM46) | 6:59 |
 | 16 | [Strobe Lights](https://open.spotify.com/track/5p2e47MQVn2YjUz8QbHJhe) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj) | [Strobe Lights](https://open.spotify.com/album/188xhKRQE9SGzshNT9kU7L) | 2:33 |
-| 17 | [Bem Melhor](https://open.spotify.com/track/6EIpJudgMmPuvzlSFfObX1) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Breno Miranda](https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n) | [Bem Melhor EP](https://open.spotify.com/album/1UYehMogvP90fwnGzPzrFf) | 2:30 |
+| 17 | [Bem Melhor](https://open.spotify.com/track/6EIpJudgMmPuvzlSFfObX1) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Breno Miranda](https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n) | [Bem Melhor EP](https://open.spotify.com/album/1UYehMogvP90fwnGzPzrFf) | 2:31 |
 | 18 | [OVER & OVER](https://open.spotify.com/track/7DBihdXekzVt6cOhJocYnR) | [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40), [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [OVER & OVER](https://open.spotify.com/album/7pDyk8StTkJq9DpOfZoa4o) | 2:29 |
 | 19 | [Brakelights](https://open.spotify.com/track/0kblNgjAqU68fbOmVJWT5d) | [Fancy Inc](https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh) | [Brakelights](https://open.spotify.com/album/46IXqxPSrrCtguHOGY2vvl) | 2:38 |
 | 20 | [WE NEEDED](https://open.spotify.com/track/6UUvSoHQByfOslkOJwl1iY) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv) | [WE NEEDED](https://open.spotify.com/album/0N94Lr3uS4N2bw6bqAZ81C) | 3:17 |

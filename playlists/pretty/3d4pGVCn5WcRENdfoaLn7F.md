@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 389 likes - 74 songs - 4 hr 30 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 392 likes - 77 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,5 +82,8 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 72 | [Message Through Time](https://open.spotify.com/track/4BPrHDgqGxnWANdMphAbNQ) | [Groove Vultures](https://open.spotify.com/artist/4mxU5Dnd342CsqAS6viJuj) | [Message Through Time](https://open.spotify.com/album/45LoKgIdcZiDUrx7V5HbuC) | 5:21 |
 | 73 | [I\`m Still Looking for a New](https://open.spotify.com/track/7aOGEyJKESkGR8KdplKg6W) | [DEBRISON](https://open.spotify.com/artist/1OiEOVUeoLaYfajrtLLHlw), [Loraina](https://open.spotify.com/artist/21ryc1NWbYt1KSDAaRmS09) | [I\`m Still Looking for a New](https://open.spotify.com/album/1eknF6dP75bRcUgAlSitRs) | 4:52 |
 | 74 | [My Journey into Space](https://open.spotify.com/track/0JwcnEfABRXunsYH2W1AVv) | [Piglets DDeep Forest](https://open.spotify.com/artist/6yS1xH7mEPy1iKQliItoeY) | [DDeep in Time](https://open.spotify.com/album/3ISyHB9bfXhvk5f8pwAxgo) | 5:12 |
+| 75 | [Torn Apart And Wasted](https://open.spotify.com/track/7jyr1VgS4FEvIedi8at6vQ) | [Leave Behind](https://open.spotify.com/artist/0AE6KuLlPDvPpFoiNZmVOW) | [Torn Apart And Wasted](https://open.spotify.com/album/0Bi1TNUxcZRWVSNLi2sfMF) | 3:54 |
+| 76 | [Storm](https://open.spotify.com/track/4zco59LEN14IqrtaKHVIQq) | [Under The Pendulum](https://open.spotify.com/artist/2lQOBQMkqxOvrVdphflRKP) | [Storm](https://open.spotify.com/album/3VpAsksWzfNm6r7cHL8w6t) | 3:52 |
+| 77 | [Black Swan](https://open.spotify.com/track/5GJJ489qwQiEAj4HXKBoq4) | [Ask The Dust](https://open.spotify.com/artist/7F3WOicrHPUVKyOhZUCrND) | [Black Swan](https://open.spotify.com/album/3SYNo2RgNSlLptVzCXvRIs) | 3:31 |
 
-Snapshot ID: `AAACOn0jWABAiEcnOZ7kTuCi4bTkSw7H`
+Snapshot ID: `AAACPSyAWaXR6LzjvHD6FRFlfLYxvU+H`

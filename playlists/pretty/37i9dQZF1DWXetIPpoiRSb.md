@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 > next gen pop and beyond  💫 cover: Robert Baxter, Sweatbaby
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,755 likes - 80 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,738 likes - 80 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 | 79 | [DAYLIGHT SAVINGS](https://open.spotify.com/track/1S2lOS0vWfI5nvSrCB6JjP) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [DAYLIGHT SAVINGS](https://open.spotify.com/album/3D3f5F2xI8wI1S8PFOvbom) | 3:36 |
 | 80 | [Luminous](https://open.spotify.com/track/7bzgDWn2aXlaG73is3C77u) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Luminous / Trapped](https://open.spotify.com/album/59Sb9iMUVVKeH0o11j12xo) | 3:45 |
 
-Snapshot ID: `AAAAADYPxKLr/2D7Mm3RxkTis+pmOVRc`
+Snapshot ID: `AAAAAGpLj8l5zkc6qjt1tlG8ByQ4B5Ze`

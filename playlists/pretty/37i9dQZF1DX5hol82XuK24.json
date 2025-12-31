@@ -1,6 +1,6 @@
 {
   "description": "Are you afraid of the dark?",
-  "num_followers": 459101,
+  "num_followers": 459085,
   "original_name": "Spooky",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,6 @@
     {
       "added_at": "2025-11-10 17:59:58",
       "album": {
-        "name": "Hazards",
-        "url": "https://open.spotify.com/album/6JkLfqjyQrRAmhCE6J9QTy"
-      },
-      "artists": [
-        {
-          "name": "Penelope Scott",
-          "url": "https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB"
-        }
-      ],
-      "duration_ms": 199496,
-      "name": "Dead Girls",
-      "url": "https://open.spotify.com/track/2sVltS0DdwGGRphHfDtV3j"
-    },
-    {
-      "added_at": "2025-11-10 17:59:58",
-      "album": {
         "name": "DECIDE",
         "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 110820,
       "name": "Slither",
       "url": "https://open.spotify.com/track/4zzwmX1ntxHBaFWJahkVTx"
+    },
+    {
+      "added_at": "2025-11-10 17:59:58",
+      "album": {
+        "name": "Hazards",
+        "url": "https://open.spotify.com/album/6JkLfqjyQrRAmhCE6J9QTy"
+      },
+      "artists": [
+        {
+          "name": "Penelope Scott",
+          "url": "https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB"
+        }
+      ],
+      "duration_ms": 199496,
+      "name": "Dead Girls",
+      "url": "https://open.spotify.com/track/2sVltS0DdwGGRphHfDtV3j"
     },
     {
       "added_at": "2025-11-10 17:59:58",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2025-11-10 17:59:58",
       "album": {
-        "name": "Valley Ghoul",
-        "url": "https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW"
-      },
-      "artists": [
-        {
-          "name": "Provoker",
-          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
-        }
-      ],
-      "duration_ms": 182778,
-      "name": "Valley Ghoul",
-      "url": "https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01"
-    },
-    {
-      "added_at": "2025-11-10 17:59:58",
-      "album": {
         "name": "You are the Problem Here",
         "url": "https://open.spotify.com/album/0gtFtyQ2fVOutl4TWJspTV"
       },
@@ -1219,22 +1203,6 @@
     {
       "added_at": "2025-11-10 17:59:58",
       "album": {
-        "name": "I, Gemini",
-        "url": "https://open.spotify.com/album/377kd2Yt5RbH24v4rcKKRC"
-      },
-      "artists": [
-        {
-          "name": "Let's Eat Grandma",
-          "url": "https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF"
-        }
-      ],
-      "duration_ms": 339173,
-      "name": "Deep Six Textbook",
-      "url": "https://open.spotify.com/track/70NVkxI6kOjABDvRDkRLqQ"
-    },
-    {
-      "added_at": "2025-11-10 17:59:58",
-      "album": {
         "name": "Don't",
         "url": "https://open.spotify.com/album/44wFARJr0tnfTKCZduwFND"
       },
@@ -1247,6 +1215,38 @@
       "duration_ms": 165510,
       "name": "Don't",
       "url": "https://open.spotify.com/track/51492YDzG1jwyFHKpkVbsK"
+    },
+    {
+      "added_at": "2025-11-10 17:59:58",
+      "album": {
+        "name": "Valley Ghoul",
+        "url": "https://open.spotify.com/album/5FxIFpKhK6juAjoMzYmypW"
+      },
+      "artists": [
+        {
+          "name": "Provoker",
+          "url": "https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9"
+        }
+      ],
+      "duration_ms": 182778,
+      "name": "Valley Ghoul",
+      "url": "https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01"
+    },
+    {
+      "added_at": "2025-11-10 17:59:58",
+      "album": {
+        "name": "I, Gemini",
+        "url": "https://open.spotify.com/album/377kd2Yt5RbH24v4rcKKRC"
+      },
+      "artists": [
+        {
+          "name": "Let's Eat Grandma",
+          "url": "https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF"
+        }
+      ],
+      "duration_ms": 339173,
+      "name": "Deep Six Textbook",
+      "url": "https://open.spotify.com/track/70NVkxI6kOjABDvRDkRLqQ"
     },
     {
       "added_at": "2025-11-10 17:59:58",

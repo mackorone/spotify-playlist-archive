@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 581,
+  "num_followers": 584,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAEUwNXyj/EAqYsgJvJlbtG61U+/T8Q",
+  "snapshot_id": "AAAEWJiy643n7v+LU8ny+5lqYLAvrz2K",
   "tracks": [
     {
       "added_at": "2025-11-20 17:10:09",
@@ -23,6 +23,38 @@
       "duration_ms": 220535,
       "name": "Ashes",
       "url": "https://open.spotify.com/track/121B2HvqI9ZyONMYDy7AJ6"
+    },
+    {
+      "added_at": "2025-12-30 21:03:31",
+      "album": {
+        "name": "Timelapse",
+        "url": "https://open.spotify.com/album/71NZkMm8F19VNaLbFDQkYE"
+      },
+      "artists": [
+        {
+          "name": "Theo Ford",
+          "url": "https://open.spotify.com/artist/2ohDR2ERUEVCG3RgeXSS7S"
+        }
+      ],
+      "duration_ms": 380689,
+      "name": "Tragic Lullaby",
+      "url": "https://open.spotify.com/track/0ygYT9IiBh07owS9z0owCX"
+    },
+    {
+      "added_at": "2025-12-20 12:29:34",
+      "album": {
+        "name": "Plato",
+        "url": "https://open.spotify.com/album/1qktosBCuz1WBowp8dQg0x"
+      },
+      "artists": [
+        {
+          "name": "Americarnage",
+          "url": "https://open.spotify.com/artist/5TZzoAg1h3A8z6DIPZMRiD"
+        }
+      ],
+      "duration_ms": 260489,
+      "name": "April Breaking Down",
+      "url": "https://open.spotify.com/track/4osFu1AgRmoZPpx06I6Mlk"
     },
     {
       "added_at": "2025-12-29 20:42:17",
@@ -103,6 +135,22 @@
       "duration_ms": 143289,
       "name": "Cigarette",
       "url": "https://open.spotify.com/track/56tdisH0RpjtEIxdTkCmny"
+    },
+    {
+      "added_at": "2025-12-30 15:17:18",
+      "album": {
+        "name": "Furniture",
+        "url": "https://open.spotify.com/album/3njCKYLIGVRpN3Ys448Smq"
+      },
+      "artists": [
+        {
+          "name": "Cormac O Caoimh",
+          "url": "https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt"
+        }
+      ],
+      "duration_ms": 247261,
+      "name": "Furniture",
+      "url": "https://open.spotify.com/track/0aLWoinlTtoPj47vmM03BD"
     },
     {
       "added_at": "2025-11-01 13:10:58",
@@ -1069,22 +1117,6 @@
       "url": "https://open.spotify.com/track/7mIYYO8ISbtuPahooGa6ha"
     },
     {
-      "added_at": "2025-12-20 12:29:34",
-      "album": {
-        "name": "Plato",
-        "url": "https://open.spotify.com/album/1qktosBCuz1WBowp8dQg0x"
-      },
-      "artists": [
-        {
-          "name": "Americarnage",
-          "url": "https://open.spotify.com/artist/5TZzoAg1h3A8z6DIPZMRiD"
-        }
-      ],
-      "duration_ms": 260489,
-      "name": "April Breaking Down",
-      "url": "https://open.spotify.com/track/4osFu1AgRmoZPpx06I6Mlk"
-    },
-    {
       "added_at": "2025-12-20 13:52:07",
       "album": {
         "name": "Stockholm Syndrome",
@@ -1467,6 +1499,22 @@
       "duration_ms": 249071,
       "name": "Back on the Chain Gang",
       "url": "https://open.spotify.com/track/780AZOfAaKecd83UUEYqVW"
+    },
+    {
+      "added_at": "2025-12-30 22:26:13",
+      "album": {
+        "name": "Torn Apart And Wasted",
+        "url": "https://open.spotify.com/album/0Bi1TNUxcZRWVSNLi2sfMF"
+      },
+      "artists": [
+        {
+          "name": "Leave Behind",
+          "url": "https://open.spotify.com/artist/0AE6KuLlPDvPpFoiNZmVOW"
+        }
+      ],
+      "duration_ms": 234285,
+      "name": "Torn Apart And Wasted",
+      "url": "https://open.spotify.com/track/7jyr1VgS4FEvIedi8at6vQ"
     }
   ],
   "unique_name": "Unsigned Rock",

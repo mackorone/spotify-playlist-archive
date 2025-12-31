@@ -4716,7 +4716,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 180233,
       "name": "C-dur",
       "url": "https://open.spotify.com/track/0cZ2ad4mATKwobLdVYWgAS"
@@ -34286,6 +34286,28 @@
       "duration_ms": 237986,
       "name": "Tombola 94",
       "url": "https://open.spotify.com/track/7prx9AfJPjvOMPhmuzgXKI"
+    },
+    {
+      "album": {
+        "name": "Ton\u00e5rsdr\u00f6m",
+        "url": "https://open.spotify.com/album/0T7h8NPbEAoC6fR8bpwVMJ"
+      },
+      "artists": [
+        {
+          "name": "Tjuvjakt",
+          "url": "https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp"
+        },
+        {
+          "name": "Lijam",
+          "url": "https://open.spotify.com/artist/0TuWk7DJvWphPrr7w1LtNN"
+        }
+      ],
+      "date_added": "2025-12-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214179,
+      "name": "Ton\u00e5rsdr\u00f6m",
+      "url": "https://open.spotify.com/track/5CbHWID4ldov0V3sEjvqSU"
     },
     {
       "album": {

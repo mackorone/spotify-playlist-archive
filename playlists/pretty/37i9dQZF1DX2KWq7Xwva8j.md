@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 
 > El futuro ya está aquí\. Foto: céro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,145 likes - 48 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,150 likes - 48 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,12 +40,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 30 | [Pobre Niña](https://open.spotify.com/track/4NfF3seaFD7lnt6DzkNNl6) | [Vera GRV](https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa), [Chus Santana](https://open.spotify.com/artist/7HIHZP9kQCofu07j5Xj590) | [Pobre Niña](https://open.spotify.com/album/5VR94RHabT9bOR87JEkzON) | 2:42 |
 | 31 | [SÉPTIMO SENTIDO](https://open.spotify.com/track/2C0pKSrGBCP4CZHzzAYDIk) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH) | [SÉPTIMO SENTIDO](https://open.spotify.com/album/1DWJoDN8uLJ2wkKAKn99EC) | 2:37 |
 | 32 | [Chocolate Axe](https://open.spotify.com/track/2X14jja86h3IoHY6wE9KAf) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [Chocolate Axe](https://open.spotify.com/album/3PpLVrADF3KkZKKDbmdmim) | 2:47 |
-| 33 | [Dolor \(No Compares\)](https://open.spotify.com/track/6M1MyHEvqC8MqCGuHYr3Ul) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Dolor \(No Compares\)](https://open.spotify.com/album/1LRfWvTPSJR6x4Thyy7znk) | 3:06 |
+| 33 | [Muero X Verte](https://open.spotify.com/track/0TYSuIwGG6sO0eSTiEHgmW) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Muero X Verte](https://open.spotify.com/album/1xXQ297EaVkgUScacoiiUa) | 3:26 |
 | 34 | [En mi coche](https://open.spotify.com/track/6uoHyBdpRD1VLQ4tZCqQ21) | [Julieta](https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj) | [Cap.I : CARI](https://open.spotify.com/album/6PCPA1Y2prtnQ4v3sZ4NOp) | 2:04 |
 | 35 | [LA TARARA](https://open.spotify.com/track/0Xli6E8WChnb7cx6N4JFPa) | [Vera GRV](https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa), [Toni Anzis](https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq) | [LA TARARA](https://open.spotify.com/album/1l4fWb6gcSRLz93BdMi4sU) | 2:20 |
 | 36 | [LA INNOMBRABLE](https://open.spotify.com/track/09JbAO5vwgChXJPQiISWIJ) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH) | [LA INNOMBRABLE](https://open.spotify.com/album/1kT6w4Zv616edhEXtGFq6F) | 2:33 |
 | 37 | [Kit Kat](https://open.spotify.com/track/1IsBZNOBe54SDamBcDluJk) | [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [Kit Kat](https://open.spotify.com/album/6vQKU94OvjcIw6L9BOkIcE) | 3:09 |
-| 38 | [Muero X Verte](https://open.spotify.com/track/0TYSuIwGG6sO0eSTiEHgmW) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Muero X Verte](https://open.spotify.com/album/1xXQ297EaVkgUScacoiiUa) | 3:26 |
+| 38 | [Dolor \(No Compares\)](https://open.spotify.com/track/6M1MyHEvqC8MqCGuHYr3Ul) | [LUSILLON](https://open.spotify.com/artist/3boSqy30OQ3ES9e3UJb6Up) | [Dolor \(No Compares\)](https://open.spotify.com/album/1LRfWvTPSJR6x4Thyy7znk) | 3:06 |
 | 39 | [T'enxules](https://open.spotify.com/track/4nvcsK1OktR14NLO1LxJPC) | [Julieta](https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj) | [Cap.II : EUGA DE NIT](https://open.spotify.com/album/1cTRqFtdSOrfhAl5VygR5E) | 2:44 |
 | 40 | [PRESIDENTE](https://open.spotify.com/track/1VaeZwjaf10EFRm7hssFr2) | [Vera GRV](https://open.spotify.com/artist/03ibrSvByQ6WCX79oFaORa), [Toni Anzis](https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq) | [PRESIDENTE](https://open.spotify.com/album/77I5lp1UwURnhQzOalJrj8) | 2:26 |
 | 41 | [DARRY RING](https://open.spotify.com/track/1SvHtMM1KWiH9HLf5NjtAO) | [céro](https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH), [D3llano](https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck) | [DARRY RING](https://open.spotify.com/album/17tIbvyzZZwS4eG3f1a6PI) | 2:16 |

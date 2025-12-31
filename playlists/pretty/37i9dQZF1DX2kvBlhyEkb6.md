@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kvBlhyEkb6.md) - [plain]
 
 > A thorough introduction to the world of Tchaikovsky, including: dancing swans, brave nutcrackers, enchanted snow maidens and several exploding cannons.
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,277 likes - 68 songs - 9 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,331 likes - 68 songs - 9 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kvBlhyEkb6.md) - [plain]
 | 67 | [Manfred Symphony in B Minor, Op\. 58, TH 28: I\. Lento lugubre \- Moderato con moto](https://open.spotify.com/track/748p05t3OJeVQuDpvKZNEA) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Royal Liverpool Philharmonic Orchestra](https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3), [Vasily Petrenko](https://open.spotify.com/artist/6H9eOWeGZkU9alBUYqNR7Q) | [Tchaikovsky, P.I.: Manfred Symphony / Voyevoda](https://open.spotify.com/album/79kjQ5wu1zEE2iaTPlqiCs) | 15:44 |
 | 68 | [Tchaikovsky: Symphony No\. 1, Op\. 13 "Winter Daydreams": I\. Daydreams on a Winter Journey\. Allegro tranquillo](https://open.spotify.com/track/4K95zdIV558uUs9vOsuou5) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [London Philharmonic Orchestra](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA), [Mstislav Rostropovich](https://open.spotify.com/artist/50hiYMhi0g77BOkkQ4zebB) | [Tchaikovsky: Symphonies Nos 1\-6, Manfred Symphony, Overtures & Rococo Variations](https://open.spotify.com/album/5zzMVOKWsbktCBXIWbjbJA) | 12:23 |
 
-Snapshot ID: `AAAAAI9DPB4btZtStUsBXd5UaxkYaZjB`
+Snapshot ID: `AAAAAKMLLBirwAdc69EacyFEqPLC0PZS`

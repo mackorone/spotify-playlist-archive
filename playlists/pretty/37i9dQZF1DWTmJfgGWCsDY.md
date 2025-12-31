@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 
 > This is Singeli\. High energy dance music echoing throughout the streets of Tanzania\. Cover: Mavokali
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,444 likes - 75 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,454 likes - 75 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 | 35 | [Pita Huku](https://open.spotify.com/track/6MPh88mAFUWCoAMZhNx8JU) | [Dulla Makabila](https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u) | [Pita Huku](https://open.spotify.com/album/5Xhex3yr9HCNsFZ6ctCjPR) | 4:56 |
 | 36 | [We Nani](https://open.spotify.com/track/0pkUIAEU5jDfln4hSSiYAc) | [Balaa MC](https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR) | [We Nani](https://open.spotify.com/album/0c3dq7ph6tp2bhCvDzpPL0) | 4:14 |
 | 37 | [Nampakia Mkongo](https://open.spotify.com/track/4JMUGR4012eENHnulffTeN) | [Mzee wa Bwax](https://open.spotify.com/artist/15gV1NHna8kwzsNzmXaRU9), [Elisha](https://open.spotify.com/artist/0vD3qMkifEYNEcUx85ahdA) | [Nampakia Mkongo](https://open.spotify.com/album/3A347rTOQ2qQBTyXjwrtmX) | 3:19 |
-| 38 | [Sijafunzwa \(feat\. Mdogo Sajent\)](https://open.spotify.com/track/1mg5kAPAUafuzE44s9ejx5) | [Yammi](https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK), [Mdogo sajent](https://open.spotify.com/artist/4jQmhz8hvgsFNcX05dBooC) | [After All](https://open.spotify.com/album/6skxQDk7Zs9qVRkQKPDNdf) | 2:32 |
-| 39 | [Hainaga Ushemeji](https://open.spotify.com/track/2OoeAMK3VrCOGEgXYGRhCv) | [Man Fongo](https://open.spotify.com/artist/38ropMxF0HdRPvyMDxyJr4) | [Hainaga Ushemeji](https://open.spotify.com/album/6StWMcZ0mnlVtrNiHAf4X6) | 4:56 |
+| 38 | [Hainaga Ushemeji](https://open.spotify.com/track/2OoeAMK3VrCOGEgXYGRhCv) | [Man Fongo](https://open.spotify.com/artist/38ropMxF0HdRPvyMDxyJr4) | [Hainaga Ushemeji](https://open.spotify.com/album/6StWMcZ0mnlVtrNiHAf4X6) | 4:56 |
+| 39 | [Sijafunzwa \(feat\. Mdogo Sajent\)](https://open.spotify.com/track/1mg5kAPAUafuzE44s9ejx5) | [Yammi](https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK), [Mdogo sajent](https://open.spotify.com/artist/4jQmhz8hvgsFNcX05dBooC) | [After All](https://open.spotify.com/album/6skxQDk7Zs9qVRkQKPDNdf) | 2:32 |
 | 40 | [TRUST](https://open.spotify.com/track/5gI8Ik5plCd1mK6FTMaswu) | [DJ Travella](https://open.spotify.com/artist/0PD7wCo7ybcKXouWDCWgfW) | [Twende](https://open.spotify.com/album/24H1AVBF6gLoAljBGn3LgU) | 2:20 |
 | 41 | [Penzi Jipya](https://open.spotify.com/track/06n62HV6RIhYiZHkjVvjwc) | [Gigy Money](https://open.spotify.com/artist/5fFt6BSEyxfm9XOIWVpT9e), [Tamimu](https://open.spotify.com/artist/1tjcmVIRIiOUmnE9Yu4L1k) | [Penzi Jipya](https://open.spotify.com/album/6w38hV7TcLYrKwhIoVzxM1) | 5:14 |
 | 42 | [Jina](https://open.spotify.com/track/1J4zRKJxkMEa0iiPFX4ujG) | [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Jina](https://open.spotify.com/album/4ORZ2DdxkFfjWcvz8PjYx8) | 3:47 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 | 53 | [Nikizipata](https://open.spotify.com/track/5Q2aW3Deb1Kis2JdodvlCa) | [Dulla Makabila](https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u) | [Nikizipata](https://open.spotify.com/album/6zk14RHkGJfDvxWw1rtuy4) | 3:00 |
 | 54 | [Weeeweeeeeeee](https://open.spotify.com/track/4P6LF5BAsuJogEw1y8vNgN) | [DJ Travella](https://open.spotify.com/artist/0PD7wCo7ybcKXouWDCWgfW) | [Weeeweeeeeeee](https://open.spotify.com/album/0xyu4NqBGVV5Yalj3twF5o) | 3:50 |
 | 55 | [Umekopwa](https://open.spotify.com/track/2n7tGYrsfxxMTfdUFpaokG) | [MABANTU](https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8), [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm) | [Umekopwa](https://open.spotify.com/album/2Kp8OjPf5MXnFVwddqNy8X) | 4:43 |
-| 56 | [Sina Stress](https://open.spotify.com/track/0jpdYcuUxhEi0psxc8db3W) | [Tamimu](https://open.spotify.com/artist/1tjcmVIRIiOUmnE9Yu4L1k) | [Sina Stress](https://open.spotify.com/album/1DyB7VAnucHcgmI7NW0m1L) | 3:49 |
-| 57 | [Baby Wangu](https://open.spotify.com/track/4GgotGWDwce20RtlkZx8zm) | [Mzee wa Bwax](https://open.spotify.com/artist/15gV1NHna8kwzsNzmXaRU9), [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku) | [Baby Wangu](https://open.spotify.com/album/0GFy1uMBz5JQVvxd0ivxoD) | 3:14 |
+| 56 | [Nalimwaga](https://open.spotify.com/track/604PZOHyzFTv8ySybcmGox) | [Mzee wa Bwax](https://open.spotify.com/artist/15gV1NHna8kwzsNzmXaRU9), [Dulla Makabila](https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u) | [Nalimwaga](https://open.spotify.com/album/4fj0mCIiFzHQxMRqVcrf97) | 3:44 |
+| 57 | [Sina Stress](https://open.spotify.com/track/0jpdYcuUxhEi0psxc8db3W) | [Tamimu](https://open.spotify.com/artist/1tjcmVIRIiOUmnE9Yu4L1k) | [Sina Stress](https://open.spotify.com/album/1DyB7VAnucHcgmI7NW0m1L) | 3:49 |
 | 58 | [Kamaliza \(feat\. Sholo Mwamba\)](https://open.spotify.com/track/34qqd0XRPpY9BcNbtocCRp) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Sholo Mwamba](https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T) | [High School](https://open.spotify.com/album/3z6kTovG8bmftnLzrmCLWu) | 5:08 |
 | 59 | [Stress](https://open.spotify.com/track/11ogL4EDviRvREmLPLZtIg) | [Balaa MC](https://open.spotify.com/artist/099c0S0PPscGtwAOW5mwZL) | [Stress](https://open.spotify.com/album/3ABUxuGydsu6SaXKSH21CD) | 4:12 |
 | 60 | [Matunzo](https://open.spotify.com/track/4yGA9XnyM67FVaSmVq0ENG) | [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm) | [Matunzo](https://open.spotify.com/album/1pYwEft8Z5WFQFofED3Waj) | 3:03 |

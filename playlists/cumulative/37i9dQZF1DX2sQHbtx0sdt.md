@@ -2,7 +2,7 @@
 
 ### [Best Of Global Hip\-Hop 2025](https://open.spotify.com/playlist/37i9dQZF1DX2sQHbtx0sdt)
 
-> Our picks for the best global hip\-hop songs this year\. Cover: Awich 🇯🇵
+> Our picks for the best global hip\-hop songs this year\. Cover: EsDeeKid 🇬🇧
 
 950 songs - 1 day 22 hr 17 min
 

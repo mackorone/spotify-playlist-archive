@@ -1,6 +1,6 @@
 {
   "description": "afrobeats daqui, de fora, de todos os cantos",
-  "num_followers": 22583,
+  "num_followers": 22585,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -1003,30 +1003,6 @@
     {
       "added_at": "2025-12-11 16:00:17",
       "album": {
-        "name": "Rolls Royce",
-        "url": "https://open.spotify.com/album/5atFUYt0WYOajLtuWqZYGg"
-      },
-      "artists": [
-        {
-          "name": "Dudu",
-          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
-        },
-        {
-          "name": "Pluck D",
-          "url": "https://open.spotify.com/artist/514cPHde1lpv5Umk7f6rWq"
-        },
-        {
-          "name": "TR3VAS",
-          "url": "https://open.spotify.com/artist/5lZZfdDqp7XKRaTdZ1KUIO"
-        }
-      ],
-      "duration_ms": 149333,
-      "name": "Rolls Royce",
-      "url": "https://open.spotify.com/track/52yjmlg2RUC0CNwh9Pex1D"
-    },
-    {
-      "added_at": "2025-12-11 16:00:17",
-      "album": {
         "name": "Tempo Certo",
         "url": "https://open.spotify.com/album/1VcP3WDtCsE58XEEDiKu1e"
       },
@@ -1047,6 +1023,30 @@
       "duration_ms": 149203,
       "name": "Calor",
       "url": "https://open.spotify.com/track/4JfNOa4cXfaTryi361HDVS"
+    },
+    {
+      "added_at": "2025-12-11 16:00:17",
+      "album": {
+        "name": "Rolls Royce",
+        "url": "https://open.spotify.com/album/5atFUYt0WYOajLtuWqZYGg"
+      },
+      "artists": [
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        },
+        {
+          "name": "Pluck D",
+          "url": "https://open.spotify.com/artist/514cPHde1lpv5Umk7f6rWq"
+        },
+        {
+          "name": "TR3VAS",
+          "url": "https://open.spotify.com/artist/5lZZfdDqp7XKRaTdZ1KUIO"
+        }
+      ],
+      "duration_ms": 149333,
+      "name": "Rolls Royce",
+      "url": "https://open.spotify.com/track/52yjmlg2RUC0CNwh9Pex1D"
     },
     {
       "added_at": "2025-12-11 16:00:17",
@@ -1287,26 +1287,6 @@
     {
       "added_at": "2025-12-11 16:00:17",
       "album": {
-        "name": "Vibe",
-        "url": "https://open.spotify.com/album/2lBhMP40nfp43SnJLQhRfX"
-      },
-      "artists": [
-        {
-          "name": "Rael",
-          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 150094,
-      "name": "Vibe",
-      "url": "https://open.spotify.com/track/4xr8PBYkzEAbgTuuPF1YMF"
-    },
-    {
-      "added_at": "2025-12-11 16:00:17",
-      "album": {
         "name": "MELHOR FASE",
         "url": "https://open.spotify.com/album/63suSL6QHh6iSDjg3VUFnJ"
       },
@@ -1323,6 +1303,26 @@
       "duration_ms": 210821,
       "name": "MELHOR FASE",
       "url": "https://open.spotify.com/track/6CdWZLtCtAw45jkTd9P3Gl"
+    },
+    {
+      "added_at": "2025-12-11 16:00:17",
+      "album": {
+        "name": "Vibe",
+        "url": "https://open.spotify.com/album/2lBhMP40nfp43SnJLQhRfX"
+      },
+      "artists": [
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 150094,
+      "name": "Vibe",
+      "url": "https://open.spotify.com/track/4xr8PBYkzEAbgTuuPF1YMF"
     },
     {
       "added_at": "2025-12-11 16:00:17",

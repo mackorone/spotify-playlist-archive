@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-96 songs - 5 hr 24 min
+97 songs - 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [MAYDAY](https://open.spotify.com/track/5xWsnPctjnUuHJ1UwBiRor) | [RedMoon](https://open.spotify.com/artist/1tRFUNiUD1F6JEUTa2aQAo) | [MAYDAY](https://open.spotify.com/album/5h76yRMMzTY1LI64nPGoHV) | 3:45 | 2025-11-07 |  |
 | [Mayday Mayday](https://open.spotify.com/track/23f7gTiVGXNRScrA4W8LdO) | [archived](https://open.spotify.com/artist/7wQvNfAO2NdPhmzQpimi7i) | [Mayday Mayday](https://open.spotify.com/album/4fucqz6dim5FSWSdcSTtoK) | 2:09 | 2025-12-11 |  |
 | [midnight](https://open.spotify.com/track/3Dj8351qYVaXJadChnfTFg) | [PUNKFICTION](https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC) | [midnight](https://open.spotify.com/album/17Awl62nf01DXJzPKSb5UN) | 2:09 | 2025-11-07 |  |
+| [misfit](https://open.spotify.com/track/3cZGoKYmu86ATSBA2uBNYr) | [PUNKFICTION](https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC) | [misfit](https://open.spotify.com/album/05LVSFM0UJf9sGSfD81cOo) | 4:01 | 2025-12-30 |  |
 | [Monster](https://open.spotify.com/track/5qaDhl2WI8PZ4E8uRavh4o) | [Sam Edwards](https://open.spotify.com/artist/3SWbBPEKFKWXhms9t1S6VZ) | [Monster](https://open.spotify.com/album/0vW0OgHfbaXl2tJTSE7S65) | 2:51 | 2025-10-24 | 2025-12-12 |
 | [Month of Sundays](https://open.spotify.com/track/3X94qBZxPJTmftEscfOpOr) | [Echomatica](https://open.spotify.com/artist/75uNvdIOOLgUT6Gs2hkRVQ) | [Month of Sundays](https://open.spotify.com/album/2aJDiRQCdqr0P7ZDjuPS55) | 3:57 | 2025-10-29 | 2025-12-12 |
 | [Murder Parade](https://open.spotify.com/track/0SDqFtJAV9lWKZqPXHyft0) | [FYNN](https://open.spotify.com/artist/7eQMNHftIP2NlWsHkXOBSf) | [Murder Parade](https://open.spotify.com/album/7cm9XsZG13NeEUGDP0OOOw) | 2:19 | 2025-10-30 |  |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-1,901 songs - 4 day 7 hr 22 min
+1,902 songs - 4 day 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [7 Minute Drill](https://open.spotify.com/track/2mhdhTWqT8RhkTlN2yWZZi) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 3:32 | 2024-04-06 | 2024-04-08 |
 | [712PM](https://open.spotify.com/track/3FSwpQ9dBZBeBV6UdYHI2R) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 2:53 | 2022-04-30 | 2022-05-02 |
 | [7969 Santa](https://open.spotify.com/track/1GpWY5RiInhezB8wGWs6oN) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:19 | 2023-10-07 | 2023-10-09 |
-| [7ali Ya 7ali](https://open.spotify.com/track/0e7rIlMjTs8DsDxrWb5cGo) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Arabi](https://open.spotify.com/album/5BYolD1SiHzv16i7sqxhAX) | 2:45 | 2021-03-27\* | 2025-12-04 |
+| [7ali Ya 7ali](https://open.spotify.com/track/0e7rIlMjTs8DsDxrWb5cGo) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Arabi](https://open.spotify.com/album/5BYolD1SiHzv16i7sqxhAX) | 2:45 | 2021-03-27\* |  |
 | [7am On Bridle Path](https://open.spotify.com/track/42m3eP1JJhtzffal9B136J) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:59 | 2021-09-05 | 2021-09-07 |
 | [7asha Mok](https://open.spotify.com/track/4XJstfreHlHZHt71AxfgM2) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [7asha Mok](https://open.spotify.com/album/1ZD3yxQJiFiwRDELEDysgx) | 3:03 | 2021-06-26 | 2021-07-04 |
 | [7bss Tmout](https://open.spotify.com/track/2ASaDtD5VRJBspXhAuXrjr) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS) | [7bss Tmout](https://open.spotify.com/album/2QcczpbqmQvZI4lCCNyYv2) | 3:10 | 2023-06-03 | 2023-06-25 |
@@ -138,7 +138,7 @@
 | [Ambitions](https://open.spotify.com/track/5CMZvp8Rlg07Lo6BZsv3H0) | [Shobee](https://open.spotify.com/artist/5Et8bRmkENeaA7SPwj1OxL) | [HOWLS](https://open.spotify.com/album/3sJXIkVh7Fd31jVfyBPGmd) | 2:58 | 2023-06-24 | 2023-07-08 |
 | [Amen \(feat\. Teezo Touchdown\)](https://open.spotify.com/track/0Mrnt1YqVuW2bqmwu4VxDt) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 2:21 | 2023-10-07 | 2023-10-09 |
 | [AMIRA](https://open.spotify.com/track/134X1F3lVFm1hPvggYClvm) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [ICEBERG](https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5) | 2:48 | 2024-02-10 | 2024-05-12 |
-| [Amnésie](https://open.spotify.com/track/624UJb49U6Wtvoa7aj8nQ2) | [ZAKLOOW](https://open.spotify.com/artist/1YXtbOgnaz82aSuMnWSukx), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [SYMPHONY IX](https://open.spotify.com/album/4OvkJaCZiDU2MNTYxu91RG) | 2:44 | 2025-04-26 |  |
+| [Amnésie](https://open.spotify.com/track/624UJb49U6Wtvoa7aj8nQ2) | [ZAKLOOW](https://open.spotify.com/artist/1YXtbOgnaz82aSuMnWSukx), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [SYMPHONY IX](https://open.spotify.com/album/4OvkJaCZiDU2MNTYxu91RG) | 2:44 | 2025-04-26 | 2025-12-31 |
 | [Amoriste](https://open.spotify.com/track/0D7lUguDKJE82pTKLmsJZH) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Fury Betho](https://open.spotify.com/album/21Ubm4HmhKeMFtXCe44XBh) | 3:05 | 2025-01-28 | 2025-01-30 |
 | [Amoriste II](https://open.spotify.com/track/7vDPYQW5yUXJjMly4HKmGa) | [Apollo Music](https://open.spotify.com/artist/4gLpWToFtGkNgZyiynUW29), [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Amoriste II](https://open.spotify.com/album/4rrtVOC0QWxgMxBt34Q3KY) | 3:30 | 2021-10-02 | 2021-10-03 |
 | [Amoriste II](https://open.spotify.com/track/1dTSGAZlHvglA94lZiBof0) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Amoriste II](https://open.spotify.com/album/2NFcONPxNjz9Ey4LKcdLGX) | 3:30 | 2021-09-20 | 2021-10-02 |
@@ -318,7 +318,7 @@
 | [CARNIVAL](https://open.spotify.com/track/4m4BHvDfzIgj5LbQLuFiIp) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 4:24 | 2024-02-12 | 2024-02-16 |
 | [Carretera](https://open.spotify.com/track/542UGSa3CDAitFbjCGmHqg) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Carretera](https://open.spotify.com/album/55rjt544eDAkDYSU6keHCa) | 2:47 | 2022-11-26 | 2022-11-28 |
 | [Carrousel](https://open.spotify.com/track/3VoiH20aQU7IbbgVidWE5P) | [Saad Lamjarred](https://open.spotify.com/artist/0NjXtqYWpnV055KhfZgtuY), [Enesse](https://open.spotify.com/artist/2QTqRHL8uDkArhkDvnKJFu) | [Carrousel](https://open.spotify.com/album/3cORauk7yyxgzT1ekgAcdJ) | 2:36 | 2024-04-21 | 2024-08-07 |
-| [CARTA ROUGE](https://open.spotify.com/track/2ZzUpYp57Eftn5ueNKxkdW) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [CARTA ROUGE](https://open.spotify.com/album/7DmLAQQhaikH0svVdVSlBX) | 3:13 | 2025-11-15 |  |
+| [CARTA ROUGE](https://open.spotify.com/track/2ZzUpYp57Eftn5ueNKxkdW) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [CARTA ROUGE](https://open.spotify.com/album/7DmLAQQhaikH0svVdVSlBX) | 3:13 | 2025-11-15 | 2025-12-31 |
 | [Cartable](https://open.spotify.com/track/0L1amLwBWnkKWJsNrOC2Y2) | [Mons](https://open.spotify.com/artist/7douYKOyzk9ZRvGFu9UOnm) | [Têtu \(Deluxe Version\)](https://open.spotify.com/album/57LaqfE51kDdWhhWtjfn71) | 3:12 | 2021-04-06 | 2022-01-30 |
 | [CARTIER SANTOS](https://open.spotify.com/track/1Mzg6bu3hkCwJKEf7v49MN) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [A LA VIE A LA MORT](https://open.spotify.com/album/22NwdsP47PnWsA58u3z7S9) | 3:03 | 2024-10-07 | 2024-11-10 |
 | [Casa \- Arabic Version](https://open.spotify.com/track/076HUj0TPUnBidZdy9PEyx) | [Ouidad](https://open.spotify.com/artist/7lPt4PyRpBvznm3LDZW1El) | [Casa \(Arabic version\)](https://open.spotify.com/album/3EBcgCMoKf3HzudclcHx8I) | 2:25 | 2024-04-25 | 2024-06-12 |
@@ -1418,6 +1418,7 @@
 | [Race My Mind](https://open.spotify.com/track/2Q3jFbyE61mCjS3SkW4toJ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:29 | 2021-09-05 | 2021-09-06 |
 | [RADAR](https://open.spotify.com/track/3lAEHk0eZzMKtCUFLXz8Ln) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 1:47 | 2025-03-15 | 2025-03-18 |
 | [Rai Machi Punk](https://open.spotify.com/track/0tWwZ61D3eSBA0qlnxmswJ) | [ISSAM](https://open.spotify.com/artist/37lslcg6zP6eAQAONiYvWN) | [Crystal](https://open.spotify.com/album/5DaSVXmnpAJDsXl7AJxYyO) | 2:45 | 2021-05-08 | 2021-05-23 |
+| [Raindance \(feat\. Tems\)](https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:39 | 2025-12-30 |  |
 | [Raindrops \(Insane\) \[with Travis Scott\]](https://open.spotify.com/track/1pacwLXyRO47ka0v6LTIiY) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:08 | 2022-12-03 | 2022-12-05 |
 | [Raindrops \(Insane\) \[with Travis Scott\]](https://open.spotify.com/track/4qf2G3v1ychaRZ0glmrkES) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [HEROES & VILLAINS](https://open.spotify.com/album/4gR3h0hcpE1iJH0v5bVv78) | 3:08 | 2022-12-04 | 2022-12-08 |
 | [Rainy Days](https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 2:59 | 2023-08-12 | 2024-01-27 |

@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 28 Dec 04:04 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 31 Dec 23:04 UTC.
 
-5,967 songs - 13 day 19 hr 47 min
+5,969 songs - 13 day 19 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -307,6 +307,7 @@
 | [ANGEL](https://open.spotify.com/track/2pdNmHyRSPre1kao8QFsid) | [93FEETOFSMOKE](https://open.spotify.com/artist/0plNgbIlOc13T8ot3vyK79) | [ANGEL](https://open.spotify.com/album/32dVmVlksDEmWlWRvPGWJR) | 2:44 | 2024-07-19 | 2024-07-20 |
 | [Angel](https://open.spotify.com/track/6bdsftOLGFx2Rb52Iot2Ql) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [Angel](https://open.spotify.com/album/6IAifu4Vfnf5xo9xM6J01g) | 3:25 | 2024-09-06 | 2024-09-10 |
 | [Angel](https://open.spotify.com/track/0TXezdBZlkwhAhmrYIBvxv) | [Weatherday](https://open.spotify.com/artist/6pmR08TKSTs8rll6W99VnK) | [Angel](https://open.spotify.com/album/125JWbV6hgxrcKOLwqCKpD) | 1:54 | 2025-01-29 | 2025-02-08 |
+| [ANGEL CRY](https://open.spotify.com/track/4CmTaHxbFvLHS6IDY7f9yn) | [Yung Fazo](https://open.spotify.com/artist/2UuVqmRzuGdHQB7BKACEW4) | [ANGEL CRY](https://open.spotify.com/album/61Zwoj6XfckxADdB2JLept) | 1:57 | 2025-12-30 |  |
 | [Angel Of My Dreams](https://open.spotify.com/track/46cW6zufU9Woo11TLs2i6X) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Angel Of My Dreams](https://open.spotify.com/album/6Wf3fqCoGcOYah2lTcwyAA) | 3:17 | 2024-07-19 | 2024-07-25 |
 | [Angel Of My Dreams \- The Blessed Madonna Remix](https://open.spotify.com/track/4RHuNJ15rehEsv1vyaBvpf) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Angel Of My Dreams \(The Blessed Madonna Remix\)](https://open.spotify.com/album/1n8kIJGPh8kYDo7uq61nlm) | 3:53 | 2024-08-02 | 2024-08-06 |
 | [Angel Tattoo](https://open.spotify.com/track/7tTGcAqg2LvpJuAeyej0HT) | [The Deep](https://open.spotify.com/artist/0hYtrPQ05Qu1N5r0QcpoDp) | [Angel Tattoo](https://open.spotify.com/album/1mVkSnbx5jGbEWUCDenZjx) | 2:17 | 2025-04-24 | 2025-04-29 |
@@ -2213,7 +2214,7 @@
 | [HARDHEAD](https://open.spotify.com/track/60pXpNEqw1GfwSGxU3n7c5) | [La Reezy](https://open.spotify.com/artist/2uVTJrWgoWoJmImS2I0KVE) | [HARDHEAD](https://open.spotify.com/album/1jg65OhOKrAftMrnKJWqfg) | 2:30 | 2025-09-21 | 2025-09-27 |
 | [harvest sky \(feat\. underscores\)](https://open.spotify.com/track/2YSnAdcIXpvVkAQoXlbe8q) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [harvest sky / obvious](https://open.spotify.com/album/6BUkQAj0JZ95AyD8sCMtUz) | 3:53 | 2024-10-16 | 2024-10-19 |
 | [Hash Ketama](https://open.spotify.com/track/4VzekhXawWFZyry0hND4nx) | [Avie](https://open.spotify.com/artist/3HjE47TE0eAsXavKpEOp7i) | [Hash Ketama](https://open.spotify.com/album/09pkNG8uHgSIcG43lD5uck) | 2:03 | 2024-08-09 | 2024-08-12 |
-| [HASHTAG](https://open.spotify.com/track/6DHJ7CzCwPNRNPnsc7CiMt) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [HASHTAG](https://open.spotify.com/album/5sEDnzlwuQcVBlAC74aLKA) | 2:00 | 2025-12-05 |  |
+| [HASHTAG](https://open.spotify.com/track/6DHJ7CzCwPNRNPnsc7CiMt) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [HASHTAG](https://open.spotify.com/album/5sEDnzlwuQcVBlAC74aLKA) | 2:00 | 2025-12-05 | 2025-12-31 |
 | [Hatchet](https://open.spotify.com/track/5giQHyWEKuZa19kxW3AqTb) | [TX2](https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H) | [Hatchet](https://open.spotify.com/album/3xvqkNzjRAh1O50FjapuJh) | 2:19 | 2024-04-26 | 2024-04-27 |
 | [Hate Me](https://open.spotify.com/track/0QpiyJbgWUjyAQNqjIA5tO) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef) | [Hate Me](https://open.spotify.com/album/5MqrNKRQ1OjwtSiXjrzkjy) | 2:41 | 2024-07-26 | 2024-08-01 |
 | [hate the world without u \(maddy's song\)](https://open.spotify.com/track/7A0KAzWpuNphmvXz7uIJ38) | [Victoria Justice](https://open.spotify.com/artist/2OTfr6S2kuHRYStjt1IkY6) | [hate the world without u \(maddy's song\)](https://open.spotify.com/album/2GQprhFQkgoUX2GtprCcwS) | 3:18 | 2024-05-24 | 2024-05-26 |
@@ -3187,7 +3188,7 @@
 | [M.O.N.S.T.E.R](https://open.spotify.com/track/4LGn1Irqotkdak6ZoRuTHt) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [M.O.N.S.T.E.R](https://open.spotify.com/album/2JGSSMxecWt7iAVsAN9asn) | 3:36 | 2024-10-31 | 2024-11-02 |
 | [M3 N MIN3](https://open.spotify.com/track/5TwX6zzWeK15M0mm6StdLA) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [M3 N MIN3](https://open.spotify.com/album/02zERHR9Le4zISwtKCSmpq) | 2:11 | 2024-10-15 | 2024-10-18 |
 | [M4D LUV](https://open.spotify.com/track/1VvnwevAQLDauz6iZbbxDv) | [MILLENNIUM PARADE](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ) | [M4D LUV](https://open.spotify.com/album/4q7ZGmbDGNH3ZXRfKWqHbJ) | 3:17 | 2024-07-26 | 2024-07-30 |
-| [MACEDONIA](https://open.spotify.com/track/5y3uVytggicCj0b7hYSPLN) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [MY SAUCONYS GLOWIN](https://open.spotify.com/album/6BbtaMFzrOa9QEg4pCnqFq) | 0:48 | 2025-12-05 |  |
+| [MACEDONIA](https://open.spotify.com/track/5y3uVytggicCj0b7hYSPLN) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [MY SAUCONYS GLOWIN](https://open.spotify.com/album/6BbtaMFzrOa9QEg4pCnqFq) | 0:48 | 2025-12-05 | 2025-12-31 |
 | [Mach die Augen auf](https://open.spotify.com/track/74EasdbNav1osDCwRCFwrS) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8) | [Mach die Augen auf](https://open.spotify.com/album/6LUAQItFCJarUpFHnzMjtH) | 1:51 | 2024-05-25 | 2024-05-29 |
 | [MACHINE GHOST](https://open.spotify.com/track/2V81aHl0iP9DYsqP3YzoLI) | [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [MACHINE GHOST](https://open.spotify.com/album/3TkmekJyEsvoyiKLWjNfz6) | 3:44 | 2025-10-17 | 2025-10-24 |
 | [MACHINE GIRL](https://open.spotify.com/track/6l5OYL8pvH402wTVXjtTYO) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [MACHINE GIRL](https://open.spotify.com/album/0KkwEi1iuPDwmFI9FInQW8) | 2:36 | 2025-02-28 | 2025-03-09 |
@@ -5933,6 +5934,7 @@
 | [СНІГ](https://open.spotify.com/track/7jsPtPItlDphgbk6eo7VUn) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [СНІГ](https://open.spotify.com/album/1fz1Cjx3zu6ehoF1Y8NNjs) | 3:26 | 2024-12-20 | 2025-01-05 |
 | [Туда Сюда Миллионер](https://open.spotify.com/track/5pVoWJcrs67551V6KAP6EH) | [Scally Milano](https://open.spotify.com/artist/1nnaE1FllcW0TlDdPVmdPg), [uglystephan](https://open.spotify.com/artist/3I9Bd4StaxvFWPG9AAjlrO) | [Туда Сюда Миллионер](https://open.spotify.com/album/4zeZnTsm2cWTonvPWb42Jk) | 2:10 | 2024-06-14 | 2024-06-16 |
 | [Ты и я](https://open.spotify.com/track/2NUFocFyI3Ava7JB36qWGT) | [INSTASAMKA](https://open.spotify.com/artist/2SeRP5iAIhVec4azKHJzjX) | [Ты и я](https://open.spotify.com/album/6A7vLRCWsOYqpEEGbUbN14) | 2:11 | 2024-05-17 | 2024-05-19 |
+| [Хенни](https://open.spotify.com/track/7AdCfQXaVrC3hKAgdsVdnd) | [Платина](https://open.spotify.com/artist/4TzGOY9RpErzedN02w8Boh) | [Хенни](https://open.spotify.com/album/40HX9Mxeb67H6yLVzsvDO0) | 1:49 | 2025-12-30 |  |
 | [ХП](https://open.spotify.com/track/28HmyDAbM5TjxwCBO2kEav) | [Boulevard Depo](https://open.spotify.com/artist/7dH8w9flSy9w81ilr0xXWe) | [ХП](https://open.spotify.com/album/7D3cKSFOwVKff8EIyPYoG2) | 1:58 | 2024-08-09 | 2024-08-14 |
 | [Центр](https://open.spotify.com/track/73DUhs3InYiSovhfju5FiB) | [Heronwater](https://open.spotify.com/artist/6694OnEnGJ9QPSS9q7Bu33) | [Центр](https://open.spotify.com/album/59qcGksrKwwDYNP3ixAocj) | 2:14 | 2024-11-01 | 2024-11-06 |
 | [Шансон 2](https://open.spotify.com/track/08QMFr2IvzzhEZmbees2kl) | [Husky](https://open.spotify.com/artist/2nAUHbKI7TZShUwFpk6G08) | [Шансон 2](https://open.spotify.com/album/05sqK4De08keEc4iiG7lx6) | 3:12 | 2024-11-01 | 2024-11-07 |

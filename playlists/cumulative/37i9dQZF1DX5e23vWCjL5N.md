@@ -4,7 +4,7 @@
 
 > Punchline, storytelling, rap italiano\. Sotto il cappuccio: Gemitaiz
 
-340 songs - 17 hr 22 min
+341 songs - 17 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,6 +259,7 @@
 | [Perdono \(feat\. Shiva\)](https://open.spotify.com/track/79wDKThuLEgiQwJ0onVs3s) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Going Hard 3](https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra) | 3:15 | 2024-12-05 | 2025-11-07 |
 | [Perdono / Dylan Dog](https://open.spotify.com/track/1yMA9O7QsBKQO5ZaGLf5oF) | [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX) | [LONEWOLF](https://open.spotify.com/album/6dDq4MNO1T4Gvllo2urL8A) | 3:22 | 2024-05-30 | 2024-11-27 |
 | [PERICOLOSO \(feat\. Lazza, Geolier\)](https://open.spotify.com/track/5bFGJCWniODboiGjiZXKl1) | [333 Mob](https://open.spotify.com/artist/1kWgYwcvWUeGX4wEJkyJx0), [Low Kidd](https://open.spotify.com/artist/5WBincqAirIREkG5sXqeyq), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [OSTIL3](https://open.spotify.com/album/49ZyGerSEt8m7LXLeNWW6f) | 2:30 | 2025-09-18 | 2025-11-28 |
+| [PHANTOM \(feat\. 50 Cent\)](https://open.spotify.com/track/435NOlfzITSEghoaUNRle3) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [PHANTOM \(feat\. 50 Cent\)](https://open.spotify.com/album/3yBimWHgJNTk6yJo8Ofrnq) | 2:52 | 2025-12-31 |  |
 | [PHRATE](https://open.spotify.com/track/6R4abO7BpM4lAJCqrCPpLm) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Musica Triste](https://open.spotify.com/album/0WkQEbjeD5IfLgpbHYb7aN) | 2:39 | 2025-12-05 |  |
 | [PIZZA A DOMICILIO](https://open.spotify.com/track/5Bt4P1HsTKhWpYI1RPrNc3) | [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [INTROSPEZIONE](https://open.spotify.com/album/0j6Fj7S8xJ2yab0paEHRPI) | 1:51 | 2025-07-10 | 2025-09-12 |
 | [Players Club '23 \(Knights of the Posse\) \(feat\. Nerissima Serpe, Artie 5ive, Tony Boy, Papa V, Low Red, Digital Astro & Kid Yugi\)](https://open.spotify.com/track/2tlHNbWsOphjepsOTyv55Y) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Low\-Red](https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N), [Digital Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Players Club '23 \(Knights of the Posse\) \(feat\. Nerissima Serpe, Artie 5ive, Tony Boy, Papa V, Low Red, Digital Astro & Kid Yugi\)](https://open.spotify.com/album/1Df8xOZdbcPDUdOPsTrEVC) | 5:58 | 2023-04-21 | 2023-05-05 |

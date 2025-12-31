@@ -1,12 +1,12 @@
 {
   "description": "This is Dolly Parton. The essential tracks, all in one playlist.",
-  "num_followers": 254530,
+  "num_followers": 254528,
   "original_name": "This Is Dolly Parton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVBzAAAAAADFZywrARoHMIvtU4HbfbBv",
+  "snapshot_id": "aVHEgAAAAACaUE+viqUaBKY14MbV21Tn",
   "tracks": [
     {
       "added_at": null,
@@ -275,22 +275,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chet Atkins - The Master And His Music",
-        "url": "https://open.spotify.com/album/03lctP6j9W30JKVqTivD79"
+        "name": "White Limozeen",
+        "url": "https://open.spotify.com/album/10jK6LkJr9Dav78dhsXZJY"
       },
       "artists": [
-        {
-          "name": "Chet Atkins",
-          "url": "https://open.spotify.com/artist/4dZrt8Ong5t7YYpvbfp0RU"
-        },
         {
           "name": "Dolly Parton",
           "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 158853,
-      "name": "Do I Ever Cross Your Mind",
-      "url": "https://open.spotify.com/track/31xqbaSu7ozgcK8desDuMK"
+      "duration_ms": 152506,
+      "name": "Why'd You Come in Here Lookin' Like That",
+      "url": "https://open.spotify.com/track/5oheUEVCpJllnImTs5nNiS"
     },
     {
       "added_at": null,
@@ -319,18 +315,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "White Limozeen",
-        "url": "https://open.spotify.com/album/10jK6LkJr9Dav78dhsXZJY"
+        "name": "Chet Atkins - The Master And His Music",
+        "url": "https://open.spotify.com/album/03lctP6j9W30JKVqTivD79"
       },
       "artists": [
+        {
+          "name": "Chet Atkins",
+          "url": "https://open.spotify.com/artist/4dZrt8Ong5t7YYpvbfp0RU"
+        },
         {
           "name": "Dolly Parton",
           "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 152506,
-      "name": "Why'd You Come in Here Lookin' Like That",
-      "url": "https://open.spotify.com/track/5oheUEVCpJllnImTs5nNiS"
+      "duration_ms": 158853,
+      "name": "Do I Ever Cross Your Mind",
+      "url": "https://open.spotify.com/track/31xqbaSu7ozgcK8desDuMK"
     },
     {
       "added_at": null,
@@ -463,6 +463,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Essential Porter Wagoner & Dolly Parton",
+        "url": "https://open.spotify.com/album/6HsMsuo7HXXwZPk3lIr850"
+      },
+      "artists": [
+        {
+          "name": "Porter Wagoner",
+          "url": "https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 156160,
+      "name": "The Last Thing On My Mind",
+      "url": "https://open.spotify.com/track/0sJchoPZwC2MV8WzZRoZUk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Forever More (Love Songs, Hits & Duets)",
         "url": "https://open.spotify.com/album/6ZYynOoi9YEBlSCUPE5Dlg"
       },
@@ -483,22 +503,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Porter Wagoner & Dolly Parton",
-        "url": "https://open.spotify.com/album/6HsMsuo7HXXwZPk3lIr850"
+        "name": "My Tennessee Mountain Home",
+        "url": "https://open.spotify.com/album/6q8iUpZY2133bBWl0KITcp"
       },
       "artists": [
-        {
-          "name": "Porter Wagoner",
-          "url": "https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA"
-        },
         {
           "name": "Dolly Parton",
           "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 156160,
-      "name": "The Last Thing On My Mind",
-      "url": "https://open.spotify.com/track/0sJchoPZwC2MV8WzZRoZUk"
+      "duration_ms": 189989,
+      "name": "My Tennessee Mountain Home",
+      "url": "https://open.spotify.com/track/6rQlfR31QLNCBrq0no1Qc2"
     },
     {
       "added_at": null,
@@ -523,22 +539,6 @@
       "duration_ms": 211586,
       "name": "After the Gold Rush - 2015 Remaster",
       "url": "https://open.spotify.com/track/22GKOoU7q9YGhaedUzhlpT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Tennessee Mountain Home",
-        "url": "https://open.spotify.com/album/6q8iUpZY2133bBWl0KITcp"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 189989,
-      "name": "My Tennessee Mountain Home",
-      "url": "https://open.spotify.com/track/6rQlfR31QLNCBrq0no1Qc2"
     },
     {
       "added_at": null,

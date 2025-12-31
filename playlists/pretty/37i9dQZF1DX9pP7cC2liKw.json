@@ -1,6 +1,6 @@
 {
   "description": "Immerse yourself in the mysticism of Tulum!",
-  "num_followers": 417079,
+  "num_followers": 417256,
   "original_name": "Tulum Vibes",
   "owner": {
     "name": "Spotify",
@@ -677,6 +677,22 @@
       "url": "https://open.spotify.com/track/0SOG7VMrKYCHoMRYqS9fjK"
     },
     {
+      "added_at": "2024-01-05 06:00:00",
+      "album": {
+        "name": "Mango Season",
+        "url": "https://open.spotify.com/album/28ueaiA1MDzCaDHtG0kLES"
+      },
+      "artists": [
+        {
+          "name": "BALTHVS",
+          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
+        }
+      ],
+      "duration_ms": 147489,
+      "name": "Mango Season",
+      "url": "https://open.spotify.com/track/6F42K33jC5A2brWORXT8nE"
+    },
+    {
       "added_at": "2024-07-20 14:57:35",
       "album": {
         "name": "Coraz\u00f3n (Feat. Bomba Est\u00e9reo)",
@@ -695,22 +711,6 @@
       "duration_ms": 157503,
       "name": "Coraz\u00f3n (Feat. Bomba Est\u00e9reo)",
       "url": "https://open.spotify.com/track/4fUoX5rgq5Ep2cCVxAeBeh"
-    },
-    {
-      "added_at": "2024-01-05 06:00:00",
-      "album": {
-        "name": "Mango Season",
-        "url": "https://open.spotify.com/album/28ueaiA1MDzCaDHtG0kLES"
-      },
-      "artists": [
-        {
-          "name": "BALTHVS",
-          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
-        }
-      ],
-      "duration_ms": 147489,
-      "name": "Mango Season",
-      "url": "https://open.spotify.com/track/6F42K33jC5A2brWORXT8nE"
     },
     {
       "added_at": "2022-11-17 23:06:29",
@@ -1073,22 +1073,6 @@
       "url": "https://open.spotify.com/track/2DsUXoqK3HXx2Sat09W7uN"
     },
     {
-      "added_at": "2023-03-22 17:52:31",
-      "album": {
-        "name": "SMT",
-        "url": "https://open.spotify.com/album/03D2z5rFjWwL1menJGfcmQ"
-      },
-      "artists": [
-        {
-          "name": "Pierre Kwenders",
-          "url": "https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP"
-        }
-      ],
-      "duration_ms": 197600,
-      "name": "SMT",
-      "url": "https://open.spotify.com/track/01j2SBoRQWzrcHmsycw415"
-    },
-    {
       "added_at": "2022-06-15 04:26:09",
       "album": {
         "name": "Negro Santo",
@@ -1111,6 +1095,22 @@
       "duration_ms": 267111,
       "name": "Negro Santo",
       "url": "https://open.spotify.com/track/6OiuCieqfbEMBHQPZo0j3Q"
+    },
+    {
+      "added_at": "2023-03-22 17:52:31",
+      "album": {
+        "name": "SMT",
+        "url": "https://open.spotify.com/album/03D2z5rFjWwL1menJGfcmQ"
+      },
+      "artists": [
+        {
+          "name": "Pierre Kwenders",
+          "url": "https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP"
+        }
+      ],
+      "duration_ms": 197600,
+      "name": "SMT",
+      "url": "https://open.spotify.com/track/01j2SBoRQWzrcHmsycw415"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1149,26 +1149,6 @@
       "url": "https://open.spotify.com/track/1Vba1fnOgXyknfjvp94ZVA"
     },
     {
-      "added_at": "2023-03-16 23:40:55",
-      "album": {
-        "name": "Dj friendly",
-        "url": "https://open.spotify.com/album/0ec4p4yXwrLIOlFdwvE51o"
-      },
-      "artists": [
-        {
-          "name": "Plano",
-          "url": "https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1"
-        },
-        {
-          "name": "Vazl\u00e1",
-          "url": "https://open.spotify.com/artist/3HJyzDlSuzrNRCsRm67ENV"
-        }
-      ],
-      "duration_ms": 234900,
-      "name": "V\u00e1monos - Vazl\u00e1 Remix",
-      "url": "https://open.spotify.com/track/7lSBSAwgzzd9l5Vh2t94tl"
-    },
-    {
       "added_at": "2022-06-15 04:26:09",
       "album": {
         "name": "Mirla",
@@ -1187,6 +1167,26 @@
       "duration_ms": 264066,
       "name": "Mirla",
       "url": "https://open.spotify.com/track/1a8gHyHUGYfiDlJMhrQTTV"
+    },
+    {
+      "added_at": "2023-03-16 23:40:55",
+      "album": {
+        "name": "Dj friendly",
+        "url": "https://open.spotify.com/album/0ec4p4yXwrLIOlFdwvE51o"
+      },
+      "artists": [
+        {
+          "name": "Plano",
+          "url": "https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1"
+        },
+        {
+          "name": "Vazl\u00e1",
+          "url": "https://open.spotify.com/artist/3HJyzDlSuzrNRCsRm67ENV"
+        }
+      ],
+      "duration_ms": 234900,
+      "name": "V\u00e1monos - Vazl\u00e1 Remix",
+      "url": "https://open.spotify.com/track/7lSBSAwgzzd9l5Vh2t94tl"
     },
     {
       "added_at": "2024-05-30 03:07:45",

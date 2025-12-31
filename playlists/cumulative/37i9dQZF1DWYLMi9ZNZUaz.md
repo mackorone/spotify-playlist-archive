@@ -2,7 +2,7 @@
 
 ### [Hip\-hop Việt](https://open.spotify.com/playlist/37i9dQZF1DWYLMi9ZNZUaz)
 
-> Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: tlinh
+> Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: HIEUTHUHAI
 
 323 songs - 18 hr 55 min
 
@@ -14,7 +14,7 @@
 | [12345 \(feat\. JGKiD\)](https://open.spotify.com/track/0R2MTQjHh6lmOCiVgnHiFW) | [GDucky](https://open.spotify.com/artist/3T3DOlgOEkr243zdzFCrXW), [JGKiD \(Da LAB\)](https://open.spotify.com/artist/3mYnd5Nlmdpg4D9rbAqNUD) | [12345 \(feat\. JGKiD\)](https://open.spotify.com/album/6RqGKs0rcnoY9bos3Oi3fb) | 3:35 | 2023-12-08 | 2024-02-12 |
 | [2014](https://open.spotify.com/track/5juq95pMEYdSzCXKYR5J69) | [Ronboogz](https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e) | [2014](https://open.spotify.com/album/0yQFVTaw2VtsxsudX9JmFr) | 3:34 | 2024-05-23 | 2024-06-04 |
 | [29](https://open.spotify.com/track/5AsZiMkbxLlR68WM3HHKWZ) | [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw), [Mason Nguyen](https://open.spotify.com/artist/39UJlviUwzZGZrA8DiQy31) | [THE WXRDIES](https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc) | 2:38 | 2024-11-21 | 2025-01-27 |
-| [2GOILAYS](https://open.spotify.com/track/4TQ0Jgrhe4V9MMqjKViub5) | [DMT](https://open.spotify.com/artist/54gIDmy6EgICaX1Uiez1iC), [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI), [TeuYungBoy](https://open.spotify.com/artist/3oD2yI1g6aT3KawHD8ZYaU), [DONAL](https://open.spotify.com/artist/3rSAej8VUifF02zpsGjsRZ) | [2GOILAYS](https://open.spotify.com/album/00kEhnqwIBY3sNngZHjpRS) | 4:20 | 2025-02-07 |  |
+| [2GOILAYS](https://open.spotify.com/track/4TQ0Jgrhe4V9MMqjKViub5) | [MR LANH](https://open.spotify.com/artist/54gIDmy6EgICaX1Uiez1iC), [Dangrangto](https://open.spotify.com/artist/5xY6E5PMZNtz9jDvxTRiGI), [TeuYungBoy](https://open.spotify.com/artist/3oD2yI1g6aT3KawHD8ZYaU), [DONAL](https://open.spotify.com/artist/3rSAej8VUifF02zpsGjsRZ) | [2GOILAYS](https://open.spotify.com/album/00kEhnqwIBY3sNngZHjpRS) | 4:20 | 2025-02-07 |  |
 | [3 1 0 7 \(feat\. Duongg & Nâu\)](https://open.spotify.com/track/5uyNAX6MazVAjBjVeOsTvp) | [W/N](https://open.spotify.com/artist/6NF9Oa4ThQWCj6mogFSrVD), [Duongg](https://open.spotify.com/artist/3JkGKNawown8MgcJsDw1WT), [Nâu](https://open.spotify.com/artist/5zifyPCJIZxUBhVq7AydsT) | [3 1 0 7 \(feat\. Duongg & Nâu\)](https://open.spotify.com/album/35lcJMXPJ00gMqMdKo7iFK) | 3:52 | 2023-10-19 | 2024-04-19 |
 | [3 Bích](https://open.spotify.com/track/3yrQAZrdlrMVtI4DN9FTIc) | [Pháp Kiều](https://open.spotify.com/artist/13c4ijEkXNvEFoxGxwp5Su), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [3 Bích](https://open.spotify.com/album/3NpKkjWz8KUCBJIjCnSOKg) | 3:48 | 2025-10-16 | 2025-12-23 |
 | [5050](https://open.spotify.com/track/7aELHm28pobrp3RyazUjmw) | [MANBO](https://open.spotify.com/artist/2rKtPYcwYmevNcaqzJOwvf), [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY), [HURRYKNG](https://open.spotify.com/artist/5ulyphh5uJrH4Gb1JpSMkV) | [5050](https://open.spotify.com/album/6gJOJVYAeaJ9F8rvrs1vpz) | 3:06 | 2024-03-11 | 2024-03-21 |

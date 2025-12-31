@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVBzAAAAAAC/sF+ECtgqSFPpySyDpocT",
+  "snapshot_id": "aVHEgAAAAAAeuLjVEcc1A6G6/c+lcaio",
   "tracks": [
     {
       "added_at": null,
@@ -295,8 +295,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ao Som dos Louvores",
-        "url": "https://open.spotify.com/album/1SBOCUbV8TfURNJtRyISFU"
+        "name": "Sem Palavras",
+        "url": "https://open.spotify.com/album/5l3C8WhPoluyf3FqslYyNd"
       },
       "artists": [
         {
@@ -304,9 +304,9 @@
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 313093,
-      "name": "Amigo Esp\u00edrito Santo",
-      "url": "https://open.spotify.com/track/5wjvv06YEBbkh86PjfXRk0"
+      "duration_ms": 289459,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/7sfSpQPesW7pNS7gaPnE7j"
     },
     {
       "added_at": null,
@@ -327,8 +327,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sem Palavras",
-        "url": "https://open.spotify.com/album/5l3C8WhPoluyf3FqslYyNd"
+        "name": "Ao Som dos Louvores",
+        "url": "https://open.spotify.com/album/1SBOCUbV8TfURNJtRyISFU"
       },
       "artists": [
         {
@@ -336,9 +336,9 @@
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 289459,
-      "name": "Imagine",
-      "url": "https://open.spotify.com/track/7sfSpQPesW7pNS7gaPnE7j"
+      "duration_ms": 313093,
+      "name": "Amigo Esp\u00edrito Santo",
+      "url": "https://open.spotify.com/track/5wjvv06YEBbkh86PjfXRk0"
     },
     {
       "added_at": null,
@@ -611,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fa\u00e7a Diferen\u00e7a",
+        "url": "https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 276549,
+      "name": "Mergulhe",
+      "url": "https://open.spotify.com/track/0aToQvWg4KfOKuHvsKcDkg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nada Pode Calar Um Adorador + Com Muito Louvor (Ao Vivo)",
         "url": "https://open.spotify.com/album/3kXK7gxzL8DPU3L8LTCATy"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 373933,
       "name": "Nada Pode Calar Um Adorador + Com Muito Louvor (Ao Vivo)",
       "url": "https://open.spotify.com/track/7kSlSqgTbzEnsVYJLiDpru"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fa\u00e7a Diferen\u00e7a",
-        "url": "https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 276549,
-      "name": "Mergulhe",
-      "url": "https://open.spotify.com/track/0aToQvWg4KfOKuHvsKcDkg"
     },
     {
       "added_at": null,

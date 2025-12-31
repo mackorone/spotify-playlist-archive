@@ -1,12 +1,12 @@
 {
   "description": "This is Aphex Twin. The essential tracks, all in one playlist.",
-  "num_followers": 79544,
+  "num_followers": 79575,
   "original_name": "This Is Aphex Twin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVBzAAAAAAC/gPXFAjaidwYHCdIg+yKw",
+  "snapshot_id": "aVHEgAAAAAB7xt47paLlllmW96iAtMwC",
   "tracks": [
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come To Daddy",
-        "url": "https://open.spotify.com/album/6sIEBpy5gl3DqC6KPasPpx"
+        "name": "Syro",
+        "url": "https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 177093,
-      "name": "Flim",
-      "url": "https://open.spotify.com/track/3JJ4BoL9WVHk4Yye2EGJC7"
+      "duration_ms": 191466,
+      "name": "180db_ [130]",
+      "url": "https://open.spotify.com/track/5oKbtirX6EbMMOgD2fMJ6E"
     },
     {
       "added_at": null,
@@ -155,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Syro",
-        "url": "https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w"
+        "name": "Come To Daddy",
+        "url": "https://open.spotify.com/album/6sIEBpy5gl3DqC6KPasPpx"
       },
       "artists": [
         {
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 191466,
-      "name": "180db_ [130]",
-      "url": "https://open.spotify.com/track/5oKbtirX6EbMMOgD2fMJ6E"
+      "duration_ms": 177093,
+      "name": "Flim",
+      "url": "https://open.spotify.com/track/3JJ4BoL9WVHk4Yye2EGJC7"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Richard D. James Album",
-        "url": "https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 122466,
-      "name": "Goon Gumpas",
-      "url": "https://open.spotify.com/track/61mG2PGpS0GDSVnjMmhzC4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "...I Care Because You Do",
         "url": "https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE"
       },
@@ -571,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Richard D. James Album",
+        "url": "https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 122466,
+      "name": "Goon Gumpas",
+      "url": "https://open.spotify.com/track/61mG2PGpS0GDSVnjMmhzC4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Syro",
         "url": "https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w"
       },
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 268813,
-      "name": "4 bit 9d api+e+6 [126.26]",
-      "url": "https://open.spotify.com/track/3FCC4tcQTQSzfiWz1VFw1v"
+      "duration_ms": 303920,
+      "name": "produk 29 [101]",
+      "url": "https://open.spotify.com/track/2oe8134WXw7Pw0ixstdOu8"
     },
     {
       "added_at": null,
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
         }
       ],
-      "duration_ms": 303920,
-      "name": "produk 29 [101]",
-      "url": "https://open.spotify.com/track/2oe8134WXw7Pw0ixstdOu8"
+      "duration_ms": 268813,
+      "name": "4 bit 9d api+e+6 [126.26]",
+      "url": "https://open.spotify.com/track/3FCC4tcQTQSzfiWz1VFw1v"
     },
     {
       "added_at": null,

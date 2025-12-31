@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGDdHXKDLuQ.md) - [plain]
 
 > Keep the glass full and let the hair down\. We've got you covered.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,354 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,362 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

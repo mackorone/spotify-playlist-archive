@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKXbV17YqGw.md) - [plain]
 
 > 2025 Detty December anthems selected by Spotify editors\. <br/>Cover: CIZA
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,375 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,426 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKXbV17YqGw.md) - [plain]
 | 49 | [Me too](https://open.spotify.com/track/0f69wNZrUKPe4s2EnSA5ai) | [Abigail Chams](https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Me too](https://open.spotify.com/album/03Ip4Xc6gRdo2SkJtAh8N9) | 2:38 |
 | 50 | [Makoma](https://open.spotify.com/track/7H0auq3iIevtYMyt41SxvS) | [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT) | [Give Time Some Time](https://open.spotify.com/album/0EvEjwk2ybLeIPUh4wScRC) | 2:44 |
 
-Snapshot ID: `AAAAAAZTWIwBtilpqN7Ml0eGe9JL25nW`
+Snapshot ID: `AAAAALFbyUywC7Ur11wKLfPEqIVoo269`

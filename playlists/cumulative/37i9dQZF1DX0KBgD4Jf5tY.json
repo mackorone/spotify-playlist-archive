@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Solo musica indipendente \ud83c\uddee\ud83c\uddf9, aggiornata il mercoled\u00ec. <a href=\"spotify:artist:3CAvkzg7YIo57H9b4Zaz1J\">Marta Guidoboni</a> in cover. ",
+  "description": "Solo musica indipendente \ud83c\uddee\ud83c\uddf9, aggiornata il mercoled\u00ec. <a href=\"spotify:artist:7JBiKcvAbC3B9LlnLr2KBv\">PRIMA ALBA</a> in cover. ",
   "name": "Fresh Finds Italia",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 156734,
       "name": "$ I P P",
       "url": "https://open.spotify.com/track/3JcAHhNsQKVzd8Zajtjrsw"
@@ -258,7 +258,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 156363,
       "name": "///mai schivato le tue lame",
       "url": "https://open.spotify.com/track/251CBwCKmSTDvB1UTLijpd"
@@ -606,7 +606,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 203000,
       "name": "17",
       "url": "https://open.spotify.com/track/4Qorwsh4sJd3ZcUSkBmTi4"
@@ -2672,7 +2672,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 191127,
       "name": "Andiamo lontano",
       "url": "https://open.spotify.com/track/6epxNY4ColYTPqcFJH1t1J"
@@ -5836,7 +5836,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 200686,
       "name": "Caracas",
       "url": "https://open.spotify.com/track/38bKaLl7yQDDasuBn1JaMv"
@@ -6131,6 +6131,24 @@
     },
     {
       "album": {
+        "name": "Casteddhru",
+        "url": "https://open.spotify.com/album/0CD1ctdHXANdjQVRcrw0Un"
+      },
+      "artists": [
+        {
+          "name": "DDUMA",
+          "url": "https://open.spotify.com/artist/0IpuoeEIxyOxBICJVARGzG"
+        }
+      ],
+      "date_added": "2025-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119178,
+      "name": "Casteddhru",
+      "url": "https://open.spotify.com/track/6bvaGRdsEmCee3jCC2LeoY"
+    },
+    {
+      "album": {
         "name": "Catania",
         "url": "https://open.spotify.com/album/2A6056JqZgERDnkuAfLCLh"
       },
@@ -6338,6 +6356,24 @@
       "duration_ms": 207298,
       "name": "Cena di famiglia",
       "url": "https://open.spotify.com/track/1CwKHSfKqHywOxnuqbkcvA"
+    },
+    {
+      "album": {
+        "name": "cenere",
+        "url": "https://open.spotify.com/album/2o2KJ764EtNgl8GQpfSLVS"
+      },
+      "artists": [
+        {
+          "name": "Alek",
+          "url": "https://open.spotify.com/artist/6JWeknFiJE42BXED1AGOvY"
+        }
+      ],
+      "date_added": "2025-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161941,
+      "name": "cenere",
+      "url": "https://open.spotify.com/track/10Xlfvqv5axeyKPoBpcaAZ"
     },
     {
       "album": {
@@ -7050,7 +7086,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 171228,
       "name": "CHRISTY",
       "url": "https://open.spotify.com/track/2a8JgWjW1qONH6kr7cji4S"
@@ -7386,7 +7422,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 169560,
       "name": "Cocoon",
       "url": "https://open.spotify.com/track/6D4ggqizOhkUMbVVBvoHlB"
@@ -7560,7 +7596,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 142285,
       "name": "colori",
       "url": "https://open.spotify.com/track/5SXkU4l8VCLaxfqHTaMhRp"
@@ -10332,7 +10368,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 152727,
       "name": "dove ti nascondi ???",
       "url": "https://open.spotify.com/track/2Z0aE2FteocEuxalX3e94s"
@@ -10896,7 +10932,7 @@
       ],
       "date_added": "2025-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 180000,
       "name": "Eight08",
       "url": "https://open.spotify.com/track/3IyJdQKc5ySnn25ORoijH0"
@@ -15236,7 +15272,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 137142,
       "name": "iCloud",
       "url": "https://open.spotify.com/track/2p0Jel9n5xuXh4J0fZT2cr"
@@ -15298,6 +15334,24 @@
       "duration_ms": 171322,
       "name": "Idk",
       "url": "https://open.spotify.com/track/0PCNmy8zuWYwJFpMlFkh6t"
+    },
+    {
+      "album": {
+        "name": "If People Were Drunk",
+        "url": "https://open.spotify.com/album/0oOhIUEnD5LQsoPK20SKct"
+      },
+      "artists": [
+        {
+          "name": "RUT!",
+          "url": "https://open.spotify.com/artist/5b3HclakW5c1V7kAi6yhcf"
+        }
+      ],
+      "date_added": "2025-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243256,
+      "name": "If People Were Drunk",
+      "url": "https://open.spotify.com/track/6wzZrdUtrMQTAuRfOuLbmF"
     },
     {
       "album": {
@@ -16426,6 +16480,24 @@
       "duration_ms": 157363,
       "name": "Invincibile",
       "url": "https://open.spotify.com/track/4GsiTZizpp3F7rRJdqTXz0"
+    },
+    {
+      "album": {
+        "name": "Io non sento niente",
+        "url": "https://open.spotify.com/album/7fv13X0AXKpJqaQ5vQgTUE"
+      },
+      "artists": [
+        {
+          "name": "CHANDIE",
+          "url": "https://open.spotify.com/artist/7x7GichhdGuPorBJYghR5S"
+        }
+      ],
+      "date_added": "2025-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216428,
+      "name": "Io non sento niente",
+      "url": "https://open.spotify.com/track/5Iust9wFkcYrCJuFagdFpn"
     },
     {
       "album": {
@@ -17797,6 +17869,32 @@
     },
     {
       "album": {
+        "name": "LA VITA IL GIOCO IL DESTINO",
+        "url": "https://open.spotify.com/album/4IiHlTEat10V0q53vnQDBP"
+      },
+      "artists": [
+        {
+          "name": "PRIMA ALBA",
+          "url": "https://open.spotify.com/artist/7JBiKcvAbC3B9LlnLr2KBv"
+        },
+        {
+          "name": "Molo",
+          "url": "https://open.spotify.com/artist/3orzMpb0hF6UNoP2mPXBol"
+        },
+        {
+          "name": "102anto",
+          "url": "https://open.spotify.com/artist/1ss4BzqeypLOXgVu7PAX0L"
+        }
+      ],
+      "date_added": "2025-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199459,
+      "name": "LA VITA IL GIOCO IL DESTINO",
+      "url": "https://open.spotify.com/track/58XRSMHYiYG7WZmm0pQlYY"
+    },
+    {
+      "album": {
         "name": "Labes",
         "url": "https://open.spotify.com/album/6xiDIlKYPmnuOHu2d0guUk"
       },
@@ -18168,6 +18266,24 @@
       "duration_ms": 143380,
       "name": "Le sette e sette",
       "url": "https://open.spotify.com/track/1a3Qif4kPHr3nTUzTPvfw6"
+    },
+    {
+      "album": {
+        "name": "le stelle, le strisce",
+        "url": "https://open.spotify.com/album/1JkCLPMTyNo5ALdw3Tx1aP"
+      },
+      "artists": [
+        {
+          "name": "MAGENTA FLORA",
+          "url": "https://open.spotify.com/artist/7H9GIU0D6O5oHYTTlKrsAs"
+        }
+      ],
+      "date_added": "2025-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "le stelle, le strisce",
+      "url": "https://open.spotify.com/track/7B3uWhhBbyzSJ5U4g0Wi3O"
     },
     {
       "album": {
@@ -20450,7 +20566,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 121081,
       "name": "marionetta",
       "url": "https://open.spotify.com/track/2ckMGPS2WLuDDdBxaljK1A"
@@ -21722,7 +21838,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 173333,
       "name": "morsi",
       "url": "https://open.spotify.com/track/69iXs4uerCkXNVitNBDiT1"
@@ -26161,6 +26277,24 @@
     },
     {
       "album": {
+        "name": "Parole liquide",
+        "url": "https://open.spotify.com/album/1DxHeGV9qXO2anur0iEHYa"
+      },
+      "artists": [
+        {
+          "name": "Michael Mills",
+          "url": "https://open.spotify.com/artist/0Jh4pnOiWjf6s6KsV2mLTV"
+        }
+      ],
+      "date_added": "2025-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105218,
+      "name": "Parole liquide",
+      "url": "https://open.spotify.com/track/0zwIkNd8wNMnEhheuV5wrB"
+    },
+    {
+      "album": {
         "name": "Parole tremende",
         "url": "https://open.spotify.com/album/2aJIpLMLgnVl9BRmuTQgyz"
       },
@@ -28240,7 +28374,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 213856,
       "name": "Prosciuga",
       "url": "https://open.spotify.com/track/7L326GFhddYzq6qrUuppQE"
@@ -28924,7 +29058,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 143508,
       "name": "ragnatela",
       "url": "https://open.spotify.com/track/7GhAYMSJVQ82Bq1KUPKeMo"
@@ -32899,6 +33033,24 @@
     },
     {
       "album": {
+        "name": "Specchio (ultimo quarto di luna)",
+        "url": "https://open.spotify.com/album/0OCOa40pTG9j1tW6ZIf58O"
+      },
+      "artists": [
+        {
+          "name": "Ama Dee",
+          "url": "https://open.spotify.com/artist/7ArVuMsjh89ZwdqvLEYH4y"
+        }
+      ],
+      "date_added": "2025-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165261,
+      "name": "Specchio (ultimo quarto di luna)",
+      "url": "https://open.spotify.com/track/2mJx6pmaeHlAAyF3pzOmFK"
+    },
+    {
+      "album": {
         "name": "speciale",
         "url": "https://open.spotify.com/album/0qHC9Zm44mrGU9y1ibBJQa"
       },
@@ -33384,7 +33536,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 159353,
       "name": "STAR",
       "url": "https://open.spotify.com/track/6bMAMSimbq2cEnjmsOpRoU"
@@ -33630,7 +33782,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 176218,
       "name": "Stimolante",
       "url": "https://open.spotify.com/track/62lHGR2Kyid40cU51hF7op"
@@ -33706,6 +33858,24 @@
       "duration_ms": 129457,
       "name": "Stoccolma",
       "url": "https://open.spotify.com/track/7hsbFCXE4Q3GWHyAO8SJZE"
+    },
+    {
+      "album": {
+        "name": "stop pipping boy it's just music",
+        "url": "https://open.spotify.com/album/1961P55z3oCrjAIyh3BHQH"
+      },
+      "artists": [
+        {
+          "name": "CORE MATO",
+          "url": "https://open.spotify.com/artist/6kKPuf7rsBk0pJnZMxDLkC"
+        }
+      ],
+      "date_added": "2025-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131568,
+      "name": "stop pipping boy it's just music",
+      "url": "https://open.spotify.com/track/31pdNl590xWGj4qH5SWzuV"
     },
     {
       "album": {
@@ -34160,7 +34330,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 120000,
       "name": "superSTAR",
       "url": "https://open.spotify.com/track/2qnsQDDO1MDJkrMzXAEPZM"
@@ -35748,7 +35918,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 126502,
       "name": "troppo serio",
       "url": "https://open.spotify.com/track/1G3qniKcIwjwvmkh2GPygX"

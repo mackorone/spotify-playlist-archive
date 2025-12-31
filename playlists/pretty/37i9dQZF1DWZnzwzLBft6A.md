@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnzwzLBft6A.md) - [plain]
 
 > He perfected counterpoint, set the bar for cello suites, and absolutely loved a curly white wig: JS Bach played a huge part in shaping all the classical music we enjoy today\. Discover why, right here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 705,118 likes - 72 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 705,189 likes - 72 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnzwzLBft6A.md) - [plain]
 | 71 | [Suite for Solo Cello No\. 6 in D Major, BWV 1012: V\. Gavotte I\-II](https://open.spotify.com/track/1FHezB5kNLi0wdRd4u99K8) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Mischa Maisky](https://open.spotify.com/artist/6rlVhQqS15yJMO4DZqrq6I) | [Bach: Six Suites for Solo Cello](https://open.spotify.com/album/322JJOlqMTWTgnEqBA2rib) | 4:33 |
 | 72 | [Weihnachts\-Oratorium, BWV 248, Pt\. 1: Pt\. II: Sinfonia](https://open.spotify.com/track/3kVIy7Bvab9VwU4cZolU6L) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Ruth Ziesak](https://open.spotify.com/artist/4EVzwPLCAaxmpFNbHlJ7W5), [Monica Groop](https://open.spotify.com/artist/0D5GLqp4LQMG8Io8LxTdME), [Christoph Prégardien](https://open.spotify.com/artist/5H4ABKp8qUdj8Hy8mu2xQv), [Klaus Mertens](https://open.spotify.com/artist/6uhxLhuh3jcNhKhM6pUo2V), [Frankfurt Vocal Ensemble](https://open.spotify.com/artist/5YtWMcoOZAHh5mivf5b0L5), [Concerto Cologne](https://open.spotify.com/artist/7l8lb6yic4nBI7I0A9eThT), [Ralf Otto](https://open.spotify.com/artist/41idGvmz7nvxWge2uPeRTR) | [Bach, J.S.: Christmas Oratorio](https://open.spotify.com/album/5LKva8D4Hn5yun0m4aSShL) | 5:34 |
 
-Snapshot ID: `AAAAAARYOWwZCxNZLyohny+UJzafhtjC`
+Snapshot ID: `AAAAAECsj1/O80DvOvM9ujfsbFI6l9nk`

@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dUsjwqfaGM.md) - [plain]
 
 ### [RADAR Vietnam](https://open.spotify.com/playlist/37i9dQZF1DX0dUsjwqfaGM)
 
-> Thế hệ nghệ sĩ mới\. Ảnh bìa: GUrbane
+> Thế hệ nghệ sĩ mới\. Ảnh bìa: CoolKid
 
 [Spotify](https://open.spotify.com/user/spotify) - 3,141 likes - 50 songs - 2 hr 47 min
 

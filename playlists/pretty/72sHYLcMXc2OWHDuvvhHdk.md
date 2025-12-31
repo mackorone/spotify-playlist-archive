@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-[Lucciago](https://open.spotify.com/user/1217609118) - 553 likes - 2,149 songs - 5 day 5 hr 52 min
+[Lucciago](https://open.spotify.com/user/1217609118) - 553 likes - 2,156 songs - 5 day 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2157,5 +2157,12 @@ pretty - [cumulative](/playlists/cumulative/72sHYLcMXc2OWHDuvvhHdk.md) - [plain]
 | 2147 | [Slow Motion](https://open.spotify.com/track/0HMdlUyqI2DBWypxiNgYdC) | [Mantinø](https://open.spotify.com/artist/3VJKPyX6vzH0xc4qHaJM4a) | [Slow Motion](https://open.spotify.com/album/58NgB3KNwM9fCPw8yBEPu2) | 2:18 |
 | 2148 | [Oggi Non Ti Lascerò Dormire](https://open.spotify.com/track/1DuZkoXjGsgiwjhlht5Gx4) | [Carlos Santti](https://open.spotify.com/artist/5Jh9ICtoNtOI0HNf47vCP1) | [Si Tratta di Amore](https://open.spotify.com/album/4x4nnr48YtAVt2stvXdk5a) | 3:47 |
 | 2149 | [faith](https://open.spotify.com/track/6OJFUOp9lfGBVpuhU6W2Fk) | [liam vee](https://open.spotify.com/artist/77zlFkyzNmuNZ5CXGfkVLw) | [faith](https://open.spotify.com/album/79ikQliZCMZ8ZCEHnXRE7O) | 3:53 |
+| 2150 | [Love is](https://open.spotify.com/track/47fnHzZbyVzoun68XD6ZV0) | [K W Hoffman](https://open.spotify.com/artist/11NQwwc952s3dgAPbR5VPD) | [Love is](https://open.spotify.com/album/7xboQruZ4Wj5ypbkTR3ZQT) | 2:24 |
+| 2151 | [Bring Your Love](https://open.spotify.com/track/05PP999Sbm9nVpjINfBNDB) | [Tin Zelkova](https://open.spotify.com/artist/1uft4s6QGconk4zwMNBBhu) | [Bring Your Love](https://open.spotify.com/album/4qe45XUNWmGqzffApM2cZx) | 2:24 |
+| 2152 | [All Things End](https://open.spotify.com/track/5nYUZedrldN3kCDohW4OkW) | [Ethan William Bowers](https://open.spotify.com/artist/1mNm642Xb2pIwHpkYO1dy6), [The Painted Strangers](https://open.spotify.com/artist/3xCaCW1JCbmKulU3XRhKaX) | [Panic Tax](https://open.spotify.com/album/5BVyxf28qJwmNUdOR9GZuL) | 4:01 |
+| 2153 | [Gone](https://open.spotify.com/track/6W2S8cpRh5BLgtWuqXy4Q0) | [Eon Grey](https://open.spotify.com/artist/2NAK6z2C58tt4aJ5gqV64Z) | [Gone](https://open.spotify.com/album/0wWzHvO9mMgItTAEzl7xNH) | 2:27 |
+| 2154 | [Surface](https://open.spotify.com/track/7ADIFjFJgBGyKNWypH0NnF) | [Maje$tic Mindz](https://open.spotify.com/artist/2ACM836cjbxNwpTryo7XX7), [Sylvie Hope](https://open.spotify.com/artist/5FZZ6JjgSnEK32DcZHxs8y) | [One Love](https://open.spotify.com/album/0YhPCmR9kVYjQzBctKg6iW) | 2:44 |
+| 2155 | [tears of gratitude](https://open.spotify.com/track/7AYR8wIPevYJw0G7omdYNc) | [anoushka hem](https://open.spotify.com/artist/5tjq7Oyj6Zu5PhVACjwC8t) | [moving forward!](https://open.spotify.com/album/2XlM5L9aWA82ghgUiCk1hw) | 5:13 |
+| 2156 | [Heads Carolina, Tails California](https://open.spotify.com/track/71I7kVOofp3kBk5D2G9wvJ) | [Ian Humphreys\-graham](https://open.spotify.com/artist/0rFTdiKjelXhmGDfPDrrF6) | [Heads Carolina, Tails California](https://open.spotify.com/album/3xHtcn676RfMnGyn1kioB2) | 4:02 |
 
-Snapshot ID: `AAAI+s56/BYwY+/X89d81y8QfyqZwIdD`
+Snapshot ID: `AAAJAbbqqyg0c/eeKlO4QTtDlN3FRwu9`

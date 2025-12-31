@@ -1,6 +1,6 @@
 {
   "description": "Moody electronica for the night shift",
-  "num_followers": 1923,
+  "num_followers": 1927,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
@@ -63,22 +63,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Inperspect",
-        "url": "https://open.spotify.com/album/0nui0D7kNm21Gcy2KH5fAR"
-      },
-      "artists": [
-        {
-          "name": "2XM",
-          "url": "https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32"
-        }
-      ],
-      "duration_ms": 498001,
-      "name": "Inperspect",
-      "url": "https://open.spotify.com/track/3D4ci48ii0VN38xqo5Qw7E"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "In The Sweetness of You",
         "url": "https://open.spotify.com/album/2WhtBcrSznou12dcd4YPnq"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 233253,
       "name": "21",
       "url": "https://open.spotify.com/track/3OXcTQgc1TfHlyhkq4crih"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "Inperspect",
+        "url": "https://open.spotify.com/album/0nui0D7kNm21Gcy2KH5fAR"
+      },
+      "artists": [
+        {
+          "name": "2XM",
+          "url": "https://open.spotify.com/artist/3mvWwdMf9ypJJKRXg6eL32"
+        }
+      ],
+      "duration_ms": 498001,
+      "name": "Inperspect",
+      "url": "https://open.spotify.com/track/3D4ci48ii0VN38xqo5Qw7E"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -115,22 +115,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Sweet Memory",
-        "url": "https://open.spotify.com/album/0XR0svgHXksDF4hZSOP44z"
-      },
-      "artists": [
-        {
-          "name": "Kloyd",
-          "url": "https://open.spotify.com/artist/2KF47WT2Ju9B5tFlNU7Uz7"
-        }
-      ],
-      "duration_ms": 211428,
-      "name": "Sweet Memory",
-      "url": "https://open.spotify.com/track/66Wu67u1XZFn7cBOjWf6lD"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "Loading",
         "url": "https://open.spotify.com/album/5WMlWqo2YEO7g6e6TuNSC0"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 284551,
       "name": "Loading",
       "url": "https://open.spotify.com/track/2wueg8zb5SSaSxCyUpcKRJ"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "Sweet Memory",
+        "url": "https://open.spotify.com/album/0XR0svgHXksDF4hZSOP44z"
+      },
+      "artists": [
+        {
+          "name": "Kloyd",
+          "url": "https://open.spotify.com/artist/2KF47WT2Ju9B5tFlNU7Uz7"
+        }
+      ],
+      "duration_ms": 211428,
+      "name": "Sweet Memory",
+      "url": "https://open.spotify.com/track/66Wu67u1XZFn7cBOjWf6lD"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Go On",
-        "url": "https://open.spotify.com/album/6GZjGWlyqF0Pu6wI2SBDr1"
-      },
-      "artists": [
-        {
-          "name": "a.s.o.",
-          "url": "https://open.spotify.com/artist/2a4fzfmDaQvYBhBR5hp2jj"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Go On",
-      "url": "https://open.spotify.com/track/1vwzpWzUG5c8Hr36bu1Cbw"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "Halcyon (30 Something) [Remixes]",
         "url": "https://open.spotify.com/album/6Td21SsqDqTZcelggWYQ7W"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 292987,
       "name": "Halcyon & On - Logic1000 Mix",
       "url": "https://open.spotify.com/track/7aXyBkjhsB5sitA3kEINo9"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "Go On",
+        "url": "https://open.spotify.com/album/6GZjGWlyqF0Pu6wI2SBDr1"
+      },
+      "artists": [
+        {
+          "name": "a.s.o.",
+          "url": "https://open.spotify.com/artist/2a4fzfmDaQvYBhBR5hp2jj"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Go On",
+      "url": "https://open.spotify.com/track/1vwzpWzUG5c8Hr36bu1Cbw"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -779,18 +779,18 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "'I Wanted More' EP",
-        "url": "https://open.spotify.com/album/6ZPTQkazeYNUIN2XzInXqM"
+        "name": "Push Power ( a 1 )",
+        "url": "https://open.spotify.com/album/20HPh9pFEF3pRE895QinVJ"
       },
       "artists": [
         {
-          "name": "rRoxymore",
-          "url": "https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf"
+          "name": "Actress",
+          "url": "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
         }
       ],
-      "duration_ms": 333694,
-      "name": "I Wanted More",
-      "url": "https://open.spotify.com/track/3yJ1WMCnDLJr72kbQdZB3J"
+      "duration_ms": 249261,
+      "name": "Push Power ( a 1 )",
+      "url": "https://open.spotify.com/track/596CEIVQmslmJ6A179rwJq"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -811,18 +811,18 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Push Power ( a 1 )",
-        "url": "https://open.spotify.com/album/20HPh9pFEF3pRE895QinVJ"
+        "name": "'I Wanted More' EP",
+        "url": "https://open.spotify.com/album/6ZPTQkazeYNUIN2XzInXqM"
       },
       "artists": [
         {
-          "name": "Actress",
-          "url": "https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH"
+          "name": "rRoxymore",
+          "url": "https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf"
         }
       ],
-      "duration_ms": 249261,
-      "name": "Push Power ( a 1 )",
-      "url": "https://open.spotify.com/track/596CEIVQmslmJ6A179rwJq"
+      "duration_ms": 333694,
+      "name": "I Wanted More",
+      "url": "https://open.spotify.com/track/3yJ1WMCnDLJr72kbQdZB3J"
     },
     {
       "added_at": "2023-08-31 14:00:00",

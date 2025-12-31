@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > Celebrating LGBTQIA+ artists with highlights from 2025 Cover: kwn
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,074,163 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,074,160 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 38 | [Dearly Missed](https://open.spotify.com/track/1N5MjhXcJmjKuaeLsuFpA9) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Photograph of a Cyclone](https://open.spotify.com/album/1izRdreIuynbBHrzp9gS5u) | 6:00 |
 | 39 | [lemons](https://open.spotify.com/track/4RAcbzQKnivPzbLcYkQNQn) | [joel](https://open.spotify.com/artist/01iqB1OLOnd5sNm6wo1jSR) | [lemons](https://open.spotify.com/album/1QTp2ZyRYYbVnpoxZMpek2) | 3:14 |
 | 40 | [Let You Know When I Get There](https://open.spotify.com/track/0iUdJ2hWXQFiYSxKifgpCC) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [I Know What I Want](https://open.spotify.com/album/1Wvf60FOFXg3rFqtYX1r6C) | 3:11 |
-| 41 | [\(I'm here for the\) GIRLS](https://open.spotify.com/track/0tWBqJszp81AKVWtFj5kh1) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [\(I'm here for the\) GIRLS](https://open.spotify.com/album/1xOYGPYE3TldIw58vKq4tl) | 2:20 |
-| 42 | [Pity Party](https://open.spotify.com/track/5dt3P1BESu104KhUtVMIV4) | [Lydia Night](https://open.spotify.com/artist/7zPPRI5YRGj8bPYBmtIy4l) | [Parody Of Pleasure](https://open.spotify.com/album/7k2AzBz7mFQAnKPYSzRwV7) | 3:17 |
+| 41 | [Pity Party](https://open.spotify.com/track/5dt3P1BESu104KhUtVMIV4) | [Lydia Night](https://open.spotify.com/artist/7zPPRI5YRGj8bPYBmtIy4l) | [Parody Of Pleasure](https://open.spotify.com/album/7k2AzBz7mFQAnKPYSzRwV7) | 3:17 |
+| 42 | [\(I'm here for the\) GIRLS](https://open.spotify.com/track/0tWBqJszp81AKVWtFj5kh1) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [\(I'm here for the\) GIRLS](https://open.spotify.com/album/1xOYGPYE3TldIw58vKq4tl) | 2:20 |
 | 43 | [Girlfriend](https://open.spotify.com/track/2mii3Q0tuCBI5DNyt0pBqW) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Girlfriend](https://open.spotify.com/album/1QZMCyEf9XZB52oKGhkqZa) | 3:31 |
 | 44 | [Something About Her](https://open.spotify.com/track/5YL9rgtFHTJpX1v4GKFK2h) | [BATHSHEBA](https://open.spotify.com/artist/76bDEeabrfohMhoWwm4av7) | [Something About Her](https://open.spotify.com/album/0U4sNMu5LKDC41Y9unsXhG) | 3:02 |
 | 45 | [Good Dream](https://open.spotify.com/track/4GsuTxzqtKbhEBb2gFYa3A) | [Mae Martin](https://open.spotify.com/artist/4etFFWEsaFOkYCmPKHgVxn) | [I'm A TV](https://open.spotify.com/album/05BuE3SIGlbsHhGN1rBstS) | 3:03 |

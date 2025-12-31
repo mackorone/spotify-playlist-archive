@@ -1,12 +1,12 @@
 {
   "description": "This is Victony. The essential tracks, all in one playlist.",
-  "num_followers": 15415,
+  "num_followers": 15430,
   "original_name": "This Is Victony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVBzAAAAAACdghjPX+V3FaoDMkHPyclM",
+  "snapshot_id": "aVHEgAAAAADPV/g2AdWCfxQAo7ofM1em",
   "tracks": [
     {
       "added_at": null,
@@ -215,26 +215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Skido (with Olamide)",
-        "url": "https://open.spotify.com/album/280b951vtW2SPhfRNXOFW6"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 166375,
-      "name": "Skido (with Olamide)",
-      "url": "https://open.spotify.com/track/6Qd4tLoc62yDQCQHBrCmDy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Utopia",
         "url": "https://open.spotify.com/album/70h7xI9GmGV56rEL5nacut"
       },
@@ -251,6 +231,26 @@
       "duration_ms": 188760,
       "name": "Rosemary",
       "url": "https://open.spotify.com/track/5UkYn7xBZ3HEArQpF0XTsq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Skido (with Olamide)",
+        "url": "https://open.spotify.com/album/280b951vtW2SPhfRNXOFW6"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 166375,
+      "name": "Skido (with Olamide)",
+      "url": "https://open.spotify.com/track/6Qd4tLoc62yDQCQHBrCmDy"
     },
     {
       "added_at": null,

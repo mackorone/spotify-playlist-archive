@@ -1,6 +1,6 @@
 {
   "description": "Recuerda la d\u00e9cada de los acampanados, patillas y cuellos picudos. Juan Gabriel en portada.",
-  "num_followers": 335020,
+  "num_followers": 335146,
   "original_name": "Los 70 M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -795,6 +795,22 @@
     {
       "added_at": "2019-09-04 23:38:38",
       "album": {
+        "name": "Personalidad",
+        "url": "https://open.spotify.com/album/71RWDZGCcKYdMR9u626HC7"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 189813,
+      "name": "No Tengo Dinero",
+      "url": "https://open.spotify.com/track/6QNpYs7Rklq0NU8PCyrwxM"
+    },
+    {
+      "added_at": "2019-09-04 23:38:38",
+      "album": {
         "name": "e5",
         "url": "https://open.spotify.com/album/7mddPROCwZWxiYdK1Rpmwr"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 236200,
       "name": "Una L\u00e1grima - Una Lacrima",
       "url": "https://open.spotify.com/track/6P4mD0UiVmjcuURvsbVtc5"
-    },
-    {
-      "added_at": "2019-09-04 23:38:38",
-      "album": {
-        "name": "Personalidad",
-        "url": "https://open.spotify.com/album/71RWDZGCcKYdMR9u626HC7"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 189813,
-      "name": "No Tengo Dinero",
-      "url": "https://open.spotify.com/track/6QNpYs7Rklq0NU8PCyrwxM"
     },
     {
       "added_at": "2019-09-04 23:38:38",

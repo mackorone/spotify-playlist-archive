@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-998 songs - 2 day 17 hr 31 min
+999 songs - 2 day 17 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -847,6 +847,7 @@
 | [The Baddest](https://open.spotify.com/track/1VPrpfphPvCkTM09DDt7OY) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [2000](https://open.spotify.com/album/5lICxaH7i12zXxQGjd2Mjn) | 2:43 | 2022-09-07 |  |
 | [THE BEACH](https://open.spotify.com/track/0lqAn1YfFVQ3SdoF7tRZO2) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [RAMONA PARK BROKE MY HEART](https://open.spotify.com/album/2G549zeda2XNICgLmU0pNW) | 1:07 | 2022-04-08 |  |
 | [The Beach](https://open.spotify.com/track/7uELmcXg4U2iCcrXMvD8dj) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0) | 2:35 | 2025-08-25 | 2025-08-30 |
+| [The Beast](https://open.spotify.com/track/1XNGWVLE89kJYPxL3Hkzi5) | [Anna von Hausswolff](https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6) | [ICONOCLASTS](https://open.spotify.com/album/20BKSOzIQSHI4kLQIzPslN) | 3:11 | 2025-12-30 |  |
 | [The Best Ever Death Metal Band in Denton](https://open.spotify.com/track/4AtUqjDgRO2S3jBzAjRvh7) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [All Hail West Texas \(Remastered\)](https://open.spotify.com/album/3yreM49ULtR2xW4fSENo3K) | 2:36 | 2024-05-30 | 2024-09-10 |
 | [The Birds Don't Sing](https://open.spotify.com/track/6L3i4jdNnk0a9kMT3qIqTG) | [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Voices of Fire](https://open.spotify.com/artist/5hMr1UPWUlLzQmHpE45EpH), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Malice](https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM) | [Let God Sort Em Out](https://open.spotify.com/album/17ScNnJ0lSWajodZaRpHdQ) | 4:00 | 2025-07-11 | 2025-07-23 |
 | [The Day Begins](https://open.spotify.com/track/03fUImUW8G4zDuQOkwWR7v) | [The Moody Blues](https://open.spotify.com/artist/5BcZ22XONcRoLhTbZRuME1) | [Days Of Future Passed \(Remastered 2017\)](https://open.spotify.com/album/7IIy4elDOHGHr6qemgpa9i) | 5:48 | 2024-01-25 |  |

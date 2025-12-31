@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 520 likes - 175 songs - 9 hr 53 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 519 likes - 183 songs - 10 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -183,5 +183,13 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 173 | [Night After Night](https://open.spotify.com/track/1XDirGFSQxJOw7Lt37Plfm) | [Theo Ford](https://open.spotify.com/artist/2ohDR2ERUEVCG3RgeXSS7S) | [Timelapse](https://open.spotify.com/album/71NZkMm8F19VNaLbFDQkYE) | 5:04 |
 | 174 | [LoveFool](https://open.spotify.com/track/7bUmp4xom3geI8bSPuK0tX) | [Delilah Earnshaw](https://open.spotify.com/artist/4GgoJ6xVN57Qb2STzpdgj2) | [LoveFool](https://open.spotify.com/album/0vxN32E176x1p4ayKQcCqI) | 4:29 |
 | 175 | [Weary Bones](https://open.spotify.com/track/3LVg0NCJWPBNt1470srrpr) | [Ghost Pepper Seeds](https://open.spotify.com/artist/506uBknY803DW00wSWlH0u) | [Weary Bones](https://open.spotify.com/album/7z97YXmIhY0l5SOAhThMtv) | 3:54 |
+| 176 | [Kick the Brakes off \(Now We're Rollin'\)](https://open.spotify.com/track/5xLzOesLZtjVCRxl2idsAG) | [Mat Partridge](https://open.spotify.com/artist/4PFTJXMdTx6k7qPUVfv6jy) | [Parts Per Million](https://open.spotify.com/album/47REl1ObbB95GBWz5CoQOk) | 4:59 |
+| 177 | [TIVE QUE DEIXAR](https://open.spotify.com/track/7FdLjT6wwmPUnAIhNiPrKW) | [Nai](https://open.spotify.com/artist/5pH8tFYyic3D9sjC8NDJUe), [TX](https://open.spotify.com/artist/1DENl6mSR2p9reWTKIn2o2) | [ENTRE FASES](https://open.spotify.com/album/4nAmsLthq0DyiFcS8ACtT2) | 2:01 |
+| 178 | [BackYard](https://open.spotify.com/track/5MWrY70Z923ND9CmINZlJQ) | [Between Daze](https://open.spotify.com/artist/3MHaNl5fufkpRoHJ6sbAbs) | [BackYard](https://open.spotify.com/album/7gPsLU48jdwEDbf2fJmgaq) | 3:52 |
+| 179 | [Things We Like](https://open.spotify.com/track/7bBYzIL0ellNkQAwGlSIlF) | [kimaRA](https://open.spotify.com/artist/0wrETSNZWzyKrdPXrRfkbD), [Cas](https://open.spotify.com/artist/29BouO2qiyOpQYb0oMVEDK) | [Things We Like](https://open.spotify.com/album/2dVRwvXtYzcoaXyUEfwnJL) | 3:15 |
+| 180 | [XOX](https://open.spotify.com/track/6NPFMNDnzPigdslFwfXoGm) | [The Haptics](https://open.spotify.com/artist/2pHXjO9ey2xRYkCaHlfWeV) | [LET IT BURN](https://open.spotify.com/album/7qPN6FUAx44U3Ti7F6Rpxr) | 2:06 |
+| 181 | [Autumn Fall](https://open.spotify.com/track/1bm4evNgnGNc6TkrW5coXx) | [Legends of the Seven Golden Vampires](https://open.spotify.com/artist/5MWBriMQP4x8AeTN48ErdZ) | [Autumn Fall](https://open.spotify.com/album/7x7BkLrEek3R6ekBdB6mrB) | 2:56 |
+| 182 | [Homework Forever](https://open.spotify.com/track/5EBAcYsLz8yVFBjzNirEt7) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Homework Forever](https://open.spotify.com/album/4ZV5lF2tPgdP36xQH1lLSQ) | 2:56 |
+| 183 | [Prophecy](https://open.spotify.com/track/52iBXDKJNavmfKcY4eRsgQ) | [HBKMETRIII](https://open.spotify.com/artist/77fYc2hHg47Zmlfjh4cLhH) | [Prophecy](https://open.spotify.com/album/44CWFTTNEkwZgOEp7ZXiwv) | 2:21 |
 
-Snapshot ID: `AAACukGpIRYjcMcu6iJRt+XSU+UN3Ygt`
+Snapshot ID: `AAACwkxQtRbyqpefh+VR9QiXBTeG10OB`

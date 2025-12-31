@@ -3487,6 +3487,24 @@
     },
     {
       "album": {
+        "name": "Every Tongue",
+        "url": "https://open.spotify.com/album/2JlAnHf2ioMDL3dKSv6tsO"
+      },
+      "artists": [
+        {
+          "name": "Dr. Prinz",
+          "url": "https://open.spotify.com/artist/2vfO5rYj2XlUvUchSO1GOq"
+        }
+      ],
+      "date_added": "2025-11-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170232,
+      "name": "Every Tongue",
+      "url": "https://open.spotify.com/track/63wTKmeUpjQjgyngt06D1l"
+    },
+    {
+      "album": {
         "name": "Everyday",
         "url": "https://open.spotify.com/album/79hHuR77jAO4mBAfm51KaE"
       },
@@ -4300,7 +4318,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 132519,
       "name": "God's Love",
       "url": "https://open.spotify.com/track/7240uGoDsILNW2ujEvKSsA"

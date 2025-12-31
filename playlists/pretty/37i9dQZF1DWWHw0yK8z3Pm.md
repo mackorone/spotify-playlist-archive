@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Colter Wall
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,398 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,399 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 51 | [Little Things](https://open.spotify.com/track/72S6t946GxdLD2hlGhyHHQ) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Little Things](https://open.spotify.com/album/4yj8YSQdP7FABVFMxIfzSJ) | 3:29 |
 | 52 | [Mud](https://open.spotify.com/track/7leOfpblnwIyAqr2u4hNZE) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Mud](https://open.spotify.com/album/1GJuDl2xV0i4rOx9ynhFPN) | 2:07 |
 | 53 | [Misty Morning](https://open.spotify.com/track/1Kdlm8PzHhF2ZxULjLZVxc) | [The East Pointers](https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3) | [Misty Morning](https://open.spotify.com/album/6s63TEd5EIUdni4l1HjK1W) | 3:02 |
-| 54 | [Little Miss](https://open.spotify.com/track/2YGTOXGGrTB9b3OcFAjG93) | [Vincent Mason](https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS) | [Little Miss](https://open.spotify.com/album/0Y9fUcEWMbl62RU2sg6nvW) | 2:38 |
-| 55 | [Knew It All Along \(With Nic D\)](https://open.spotify.com/track/0RyBS230wl5kjuqxutK5KL) | [SonReal](https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF), [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Knew It All Along \(With Nic D\)](https://open.spotify.com/album/2P0Z4uOfgIjpRFT0qn86nA) | 3:03 |
+| 54 | [Knew It All Along \(With Nic D\)](https://open.spotify.com/track/0RyBS230wl5kjuqxutK5KL) | [SonReal](https://open.spotify.com/artist/2OlZK0VIzr7wQYSrj9bOvF), [Nic D](https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw) | [Knew It All Along \(With Nic D\)](https://open.spotify.com/album/2P0Z4uOfgIjpRFT0qn86nA) | 3:03 |
+| 55 | [Little Miss](https://open.spotify.com/track/2YGTOXGGrTB9b3OcFAjG93) | [Vincent Mason](https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS) | [Little Miss](https://open.spotify.com/album/0Y9fUcEWMbl62RU2sg6nvW) | 2:38 |
 | 56 | [Don’t Let Your Deal Go Down](https://open.spotify.com/track/6xshRwvEkTAJQoClIFGyFS) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Trail Of Flowers \(Deluxe Edition\)](https://open.spotify.com/album/5aMgz7gGUkMDHYbr3eNxkg) | 3:38 |
 | 57 | [Lose A Friend](https://open.spotify.com/track/1gD4zZy5x6UAfo8syZlTDk) | [Evan Honer](https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP) | [Everything I Wanted](https://open.spotify.com/album/2yNbFmp75Kv2kcyGGrI8wL) | 3:35 |
-| 58 | [She Got Away](https://open.spotify.com/track/6V8l9CznBjJm2usDE7AAct) | [The East Pointers](https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3) | [She Got Away](https://open.spotify.com/album/6OZXJ8W9I1SCt4kARa8Iks) | 2:44 |
-| 59 | [Suffer](https://open.spotify.com/track/6rdmfJzj1gEwq6O4Pu3Oxt) | [Boy Golden](https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1) | [Suffer](https://open.spotify.com/album/6doT0BXncTKBITEIohrHDV) | 3:23 |
+| 58 | [Suffer](https://open.spotify.com/track/6rdmfJzj1gEwq6O4Pu3Oxt) | [Boy Golden](https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1) | [Suffer](https://open.spotify.com/album/6doT0BXncTKBITEIohrHDV) | 3:23 |
+| 59 | [She Got Away](https://open.spotify.com/track/6V8l9CznBjJm2usDE7AAct) | [The East Pointers](https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3) | [She Got Away](https://open.spotify.com/album/6OZXJ8W9I1SCt4kARa8Iks) | 2:44 |
 | 60 | [The Shadows \(feat\. Noah Cyrus\)](https://open.spotify.com/track/5Sl9U0zlHnkdWhIETz3bhK) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a), [The Marcus King Band](https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Darling Blue](https://open.spotify.com/album/138Q5IZhEaKn49iENE1U3A) | 4:07 |
 | 61 | [Darling](https://open.spotify.com/track/1OQWeYu8b2QZoS2kGUTkCM) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Darling](https://open.spotify.com/album/0UK2D5JonE1BKF04uxYH4k) | 3:30 |
 | 62 | [Pipe Dream](https://open.spotify.com/track/0I2oDXotdoBAmH1wpTjmwZ) | [Brendan Walter](https://open.spotify.com/artist/4iaoMQUDk7KmWj6XUFgGat) | [Disappearing Days](https://open.spotify.com/album/2YmruBLhVjlhArcLgrDGQY) | 2:41 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 79 | [Knuckles](https://open.spotify.com/track/3KvkxLG3qIKnvRKsiBaiKl) | [The Bros\. Landreth](https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Knuckles](https://open.spotify.com/album/5Kj6CtezpoXJaIuuyDE9T3) | 4:14 |
 | 80 | [Billionaire](https://open.spotify.com/track/0N4KNmfxiwYoFL4fEuGM35) | [Kathleen Edwards](https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf) | [Billionaire](https://open.spotify.com/album/169kyZ2zKTeB78mE2wPTmS) | 4:10 |
 | 81 | [Don't Wake Me Up \[Feat\. Jesse Welles\]](https://open.spotify.com/track/28Lt8UhUhJLgGsJQpDEJDE) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Jesse Welles](https://open.spotify.com/artist/366xgdzfRGQoiDRGidGlDJ) | [Don't Wake Me Up \[Feat\. Jesse Welles\]](https://open.spotify.com/album/0FU6mSNsf8fDlQGQhwIg2M) | 4:13 |
-| 82 | [Elderberry Wine](https://open.spotify.com/track/1FZXwhynIW71oSoo1u20L5) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Elderberry Wine](https://open.spotify.com/album/5qKmEm0NJ4OzvvUa1cruSV) | 3:35 |
-| 83 | [Shoulda Listened](https://open.spotify.com/track/2HkU6v3xEGbkgDZiKxA6yY) | [Ken Presse](https://open.spotify.com/artist/0GAFnMAhzV7sDRxYu4AB7Z) | [Shoulda Listened](https://open.spotify.com/album/01aPbwJOqH9BWH1Bkk7fF1) | 3:10 |
+| 82 | [Shoulda Listened](https://open.spotify.com/track/2HkU6v3xEGbkgDZiKxA6yY) | [Ken Presse](https://open.spotify.com/artist/0GAFnMAhzV7sDRxYu4AB7Z) | [Shoulda Listened](https://open.spotify.com/album/01aPbwJOqH9BWH1Bkk7fF1) | 3:10 |
+| 83 | [Elderberry Wine](https://open.spotify.com/track/1FZXwhynIW71oSoo1u20L5) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Elderberry Wine](https://open.spotify.com/album/5qKmEm0NJ4OzvvUa1cruSV) | 3:35 |
 | 84 | [Light In a Dark Place](https://open.spotify.com/track/7gZ82MIsBnYyOxr1SOVo0P) | [Adam Wendler](https://open.spotify.com/artist/3ea4XDPCrAm68rpImApb94) | [Light In a Dark Place](https://open.spotify.com/album/63VpDpCxeifFcPwtk8qFZr) | 2:36 |
 | 85 | [For the First Time](https://open.spotify.com/track/2eTnZEDxXO1bZhudGX7Xw3) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [For the First Time](https://open.spotify.com/album/3bY5ENBrcf8t8G5M4sFOm3) | 3:30 |
 | 86 | [Save Your Soul](https://open.spotify.com/track/15gS6gPyxHpG3EjaWaCXVE) | [Kathleen Edwards](https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf) | [Save Your Soul / Say Goodbye, Tell No One](https://open.spotify.com/album/33AmcfGNqeKBZvoUVkXsMJ) | 3:32 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 95 | [Nomads \- Timelines Acoustic](https://open.spotify.com/track/13kaQ2PH77l9v5xOl7maDw) | [Aysanabee](https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5) | [Nomads \(Timelines\)](https://open.spotify.com/album/41a62fpVlKPzWMx0zD3IB3) | 3:44 |
 | 96 | [East Wind](https://open.spotify.com/track/5w5jYQS9ke1bIGugVZZVNm) | [Caley Watts](https://open.spotify.com/artist/1UEaSQZqsJcuaDQfvz6mp2) | [East Wind](https://open.spotify.com/album/0VNAd70EMJvdCMzwTkGH0c) | 5:41 |
 | 97 | [Especially a Paint \- Dark Horse Acoustic](https://open.spotify.com/track/6ZuKLsikgjxC0YHon3tnA1) | [Corb Lund](https://open.spotify.com/artist/2dIP3oiEt0xB8CrfSqN9Og) | [Horse Soldier! Horse Soldier! \(Dark Horse Edition\)](https://open.spotify.com/album/6wr4NvzNS05jqbx2WEgkl2) | 2:54 |
-| 98 | [Everybody Loves My Little Darling](https://open.spotify.com/track/792fQejq2ZtI3SvapaWxAt) | [Jake Vaadeland](https://open.spotify.com/artist/3xQzfgIw2TLiFUfvlrKgH3) | [Everybody Loves My Little Darling](https://open.spotify.com/album/6cL7E045MCT6M72Ij7xkIT) | 2:10 |
-| 99 | [Till The Morning](https://open.spotify.com/track/74ARTs57w7D0GDablsiLpk) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Till The Morning](https://open.spotify.com/album/6qECR055kFSGPndawr1byW) | 4:17 |
+| 98 | [Till The Morning](https://open.spotify.com/track/74ARTs57w7D0GDablsiLpk) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Till The Morning](https://open.spotify.com/album/6qECR055kFSGPndawr1byW) | 4:17 |
+| 99 | [Everybody Loves My Little Darling](https://open.spotify.com/track/792fQejq2ZtI3SvapaWxAt) | [Jake Vaadeland](https://open.spotify.com/artist/3xQzfgIw2TLiFUfvlrKgH3) | [Everybody Loves My Little Darling](https://open.spotify.com/album/6cL7E045MCT6M72Ij7xkIT) | 2:10 |
 | 100 | [Losing Streak](https://open.spotify.com/track/5lbQPN6UJDFMZsIt38mx8G) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Losing Streak](https://open.spotify.com/album/1qFpCXtPlOsE5F3PpC9v0h) | 4:09 |
 
 Snapshot ID: `AAAAAJF0x9PDB/uTGhczyp8DRa/YsD67`

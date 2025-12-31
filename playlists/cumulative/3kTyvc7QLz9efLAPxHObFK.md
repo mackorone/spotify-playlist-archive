@@ -4,7 +4,7 @@
 
 > 
 
-2,780 songs - 6 day 0 hr 28 min
+2,781 songs - 6 day 0 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1463,7 +1463,7 @@
 | [Like Old Days](https://open.spotify.com/track/2Wxhxy0paTZx1rZbKgdwpM) | [Charly Lownoise](https://open.spotify.com/artist/29NIIAIq5CRkVuzkggpS0W), [Re\-Style](https://open.spotify.com/artist/2kK1cYRoYo24RzsHADtD0E) | [Like Old Days](https://open.spotify.com/album/3WgsB8j0k2nKoC0rSQT79b) | 3:25 | 2023-06-17 |  |
 | [LIKE THAT](https://open.spotify.com/track/7zrG6z4xUsbjaUwRkeuO4T) | [Collusion](https://open.spotify.com/artist/2YmjCQbg95CCYiC28uBOLW) | [LIKE THAT](https://open.spotify.com/album/7CThKmknFehyarFfg757Cp) | 2:25 | 2025-02-01 |  |
 | [Like That](https://open.spotify.com/track/7wPTf3uthaOlTEQSy7MWvb) | [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I), [Malice](https://open.spotify.com/artist/0endjvK01uydkCL84mD3Z5) | [Like That](https://open.spotify.com/album/6vlhRNkSPjAdLdCnU1H2To) | 2:24 | 2024-11-16 |  |
-| [Like This](https://open.spotify.com/track/6vYEAjYaE7E0HbLQOjMniR) | [No Hero](https://open.spotify.com/artist/2UgbdflH882huQw44mxzLY) | [](https://open.spotify.com/album/null) | 2:43 | 2022-04-06 |  |
+| [Like This](https://open.spotify.com/track/6vYEAjYaE7E0HbLQOjMniR) | [No Hero](https://open.spotify.com/artist/2UgbdflH882huQw44mxzLY) | [Like This](https://open.spotify.com/album/5V4k7HcPq9tiCiaLg8xcLh) | 2:43 | 2022-04-06 |  |
 | [Like You \(The Braindrillerz Remix\)](https://open.spotify.com/track/5cSMLUxXoztLQ4QCHGBl0P) | [Uneven](https://open.spotify.com/artist/3rDNaQKm8vmmIqDMWNmFdM), [Norah B.](https://open.spotify.com/artist/2oc7HOF4je0QOUpYZ3Drio), [The Braindrillerz](https://open.spotify.com/artist/6j9yYMSUzcSI8KGbhgmSKG) | [Like You \(The Remixes\)](https://open.spotify.com/album/29SifS19C8oSV2gL8qs2E5) | 4:02 | 2022-11-29 |  |
 | [Like You Do](https://open.spotify.com/track/1fbBirXPiokH6ySgYyRF5G) | [Aalst](https://open.spotify.com/artist/3Zu76XPlKrtaPOJx9AlwtZ) | [Like You Do](https://open.spotify.com/album/2vzrsKyP7Cx9IEXxIiZuL9) | 3:01 | 2025-02-07 |  |
 | [Line Tracer](https://open.spotify.com/track/2glkJhRUozn3tcY3uR1s7K) | [aran](https://open.spotify.com/artist/4FvSs32NRc6sS3V8ylZrzq) | [Line Tracer](https://open.spotify.com/album/7i1eA8RGP3c3NsaIqpjrMq) | 3:27 | 2023-11-26 |  |
@@ -2501,6 +2501,7 @@
 | [Total Destruction](https://open.spotify.com/track/0LxRnVPDs9AAFqp5jwDe10) | [Acidz](https://open.spotify.com/artist/4AflTeWUY89j7GYJvyWGAo) | [Total Destruction](https://open.spotify.com/album/4gHe942sM2cDwjSf8KSi1U) | 2:34 | 2025-11-16 |  |
 | [Total Domination](https://open.spotify.com/track/4ckBjnIsjDdSLBnnqQIsPn) | [DRS](https://open.spotify.com/artist/3ipAwQsSahvSht3Bb8SpLs) | [Made In Hell](https://open.spotify.com/album/7cmla7qWx1qigCuG8tBtu2) | 3:17 | 2022-12-11 |  |
 | [Total Domination \- Reflexx Remix](https://open.spotify.com/track/6vS2q5zt2X9PNBf3X2BG4V) | [DRS](https://open.spotify.com/artist/3ipAwQsSahvSht3Bb8SpLs), [R3T3P](https://open.spotify.com/artist/6SE1rirTZFq7eZa4VRoDJN), [Madsin](https://open.spotify.com/artist/32PugX56xGoO6rUWgvzNSz), [Reflexx](https://open.spotify.com/artist/3jQC1xm2BCJY3T5mG66pZ0) | [Total Domination \(Reflexx Remix\)](https://open.spotify.com/album/1nhSyyDQhMTat8gAD1Asan) | 3:08 | 2025-09-15 |  |
+| [Total FKN Chaos](https://open.spotify.com/track/2JX7pSA4Do8YY9nGqmugpL) | [Revelation](https://open.spotify.com/artist/4xSp6WltH5N47OrAu4pjKw) | [This Is Revelation LIVE](https://open.spotify.com/album/27MDf6pkzlMyFdqImrtTEx) | 1:37 | 2025-12-31 |  |
 | [TOTY](https://open.spotify.com/track/0mIBgKbABwo32X4Ty9qrGC) | [Yoshiko](https://open.spotify.com/artist/4lSE8OyTMhErkE7OshR2Hq), [Kenai](https://open.spotify.com/artist/4ieHqqeITt9Fmhxk20Ueqf) | [TOTY](https://open.spotify.com/album/5HLvBbsT3ny9Y8qNEU4tnh) | 2:33 | 2025-12-05 |  |
 | [Touch It](https://open.spotify.com/track/3mINB5AjmLGWMtqe9AtRmD) | [Manifest Destiny](https://open.spotify.com/artist/1XTpiNqD37eVQdS0xFqX3j), [Juliëx](https://open.spotify.com/artist/3RTCQDInBbA9wEuRrhRLTq) | [Touch It](https://open.spotify.com/album/66U8YccoxTFobWAIxkg2Va) | 3:32 | 2024-05-16 |  |
 | [Tourbillon](https://open.spotify.com/track/2CDODTYt1NgIzyNLFsyMoK) | [YUKIYANAGI](https://open.spotify.com/artist/5CxWZpW3bKbMiOC6jJ5r7i), [中村さんそ](https://open.spotify.com/artist/30R9MQOeKqrMoafeHmTYuY) | [Azure World](https://open.spotify.com/album/1kwWNAqOWEUsqsEAA1A2gk) | 4:03 | 2022-02-22 |  |

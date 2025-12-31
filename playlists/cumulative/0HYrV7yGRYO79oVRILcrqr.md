@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-236 songs - 14 hr 24 min
+238 songs - 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Broken Soul Blues](https://open.spotify.com/track/2YpUdPdUpXTC7fyAFeWECs) | [pedromiguelriera](https://open.spotify.com/artist/0w3VcWdD2XOrO39PoLqoaY) | [Broken Soul Blues](https://open.spotify.com/album/6qlVUGUewVaaFwmjyu3UzS) | 3:57 | 2025-12-24 |  |
 | [Búsqueda](https://open.spotify.com/track/3omNsXHqJL3sg5Rj3Swwgw) | [Galaxia Ventura](https://open.spotify.com/artist/7CLTzydEhFbCSNaNPzGgu5) | [Un cambio](https://open.spotify.com/album/2JFhyiCmKYdr7R3vdQcr9e) | 3:05 | 2025-11-28 | 2025-12-17 |
 | [Call My Name](https://open.spotify.com/track/33xuhHhDgCVaEMHXHB9bd8) | [L'Orely & The Scarlett Band](https://open.spotify.com/artist/12aIeiS0nbNCcfRIJss29n) | [Ne doute pas](https://open.spotify.com/album/4rlD5iOOSof6wuxrihIsuW) | 3:40 | 2025-11-02 | 2025-12-17 |
+| [Caminhos de Paz](https://open.spotify.com/track/0S28V1639JxeR58ByJYUF8) | [De Santtis](https://open.spotify.com/artist/2HnzHLy6N3v8egi2chpYmN) | [Caminhos de Paz](https://open.spotify.com/album/1HgyvbF4rQJ3pvO4IGqVFM) | 3:38 | 2025-12-30 |  |
 | [Can't Get Enough \- Live](https://open.spotify.com/track/55KAZ5rHlaRtWfY83vva54) | [Rockers On Broadway](https://open.spotify.com/artist/4tBjymJzFjkdHwNPk0aKZP), [Donnie Kehr](https://open.spotify.com/artist/5iMECNzLtUZYMgkGoxRTRG), [Simon Kirke](https://open.spotify.com/artist/0vKffNhiMY9sJ6lyOJL6NF) | [Rockers On Broadway, Vol\. 2 \(Live\)](https://open.spotify.com/album/1WHUj6k8JuNzn5yjGC7IFQ) | 3:10 | 2025-10-17 | 2025-11-28 |
 | [Can't Stop The Bop!](https://open.spotify.com/track/54WZmqgaoO1OyiA7fkurMI) | [Cealee Maag](https://open.spotify.com/artist/595TbVycqvKvUL0dYIudlM), [Pleach](https://open.spotify.com/artist/5fFkXBl9jCXDHcRnJDHeus) | [Can't Stop The Bop!](https://open.spotify.com/album/5p6wMOgSdy4vRwRQLRQK8h) | 4:27 | 2025-10-04 | 2025-12-17 |
 | [Cansado del amor](https://open.spotify.com/track/12IELCO5NmSEIk6x8CoDHT) | [Pandino](https://open.spotify.com/artist/0uOaofBqG9uFHU7ksh6huW) | [Soñando Despierto](https://open.spotify.com/album/5MjbVM1gA4q3ioxHxCCdcc) | 2:43 | 2025-12-01 | 2025-12-17 |
@@ -178,6 +179,7 @@
 | [REWRITE](https://open.spotify.com/track/3WgVwBwxuuto5tvvZzDQrX) | [The Funky Lawyer](https://open.spotify.com/artist/6WUff7jngnaBPDTAreasjR) | [REWRITE](https://open.spotify.com/album/2dvdOLo8CMFtu7bbiAJemI) | 5:44 | 2025-12-16 |  |
 | [Ride of Your Life](https://open.spotify.com/track/3sB3liuVnmOzxlyCLBCbIG) | [Ugochill](https://open.spotify.com/artist/1kOGUspiJr2BQ7HMDQdTRw), [Juxta](https://open.spotify.com/artist/21iGpZuaMiJPrCNQcWPKKN), [The Turtle Project](https://open.spotify.com/artist/062cY7RGKXM9XJyWM1VCXa) | [Ride Of Your Life](https://open.spotify.com/album/3ZefyjSFIGGxfK2m83a1BS) | 6:36 | 2025-09-21 |  |
 | [Ruines](https://open.spotify.com/track/5k0EsA3WldipVOOZhUkhQr) | [good afternoon](https://open.spotify.com/artist/51AUWbI67m6qAMG9NCZDJ2) | [City pilgrim](https://open.spotify.com/album/3LPAMLVRB4F46OcQUBq6SA) | 2:11 | 2025-11-25 | 2025-12-17 |
+| [Run Run Rudolf](https://open.spotify.com/track/2DOb4zdUX9Y2i82w2M0g2Y) | [Amelina](https://open.spotify.com/artist/2KB8CcoEbyUA0hP58619Iu) | [Season of Joy](https://open.spotify.com/album/7eu9Q8J8RkTsB2NwbrhL94) | 2:26 | 2025-12-30 |  |
 | [Running \- Acoustic Version](https://open.spotify.com/track/5jEbpt1f9Juw7UTdu67SRJ) | [Boogie and the Mean Machine](https://open.spotify.com/artist/7p3NuBEpuN2PDVFCbKvc6m) | [The Classics of Love](https://open.spotify.com/album/3012TUcrbqKtJ3hTsQsvvh) | 2:29 | 2025-10-01 | 2025-12-17 |
 | [Schwarzer Tag](https://open.spotify.com/track/4g9TF07neCl7oZf50PGsQ6) | [Onexx](https://open.spotify.com/artist/5VauwpnaW66TvC0HrJ8ISv) | [Schwarzer Tag](https://open.spotify.com/album/0yWvmpUZP2IoZhNdR9K5Ql) | 3:01 | 2025-10-30 | 2025-12-17 |
 | [Selling Marilyn](https://open.spotify.com/track/2YK61LSjiXDFmggC3TwVWG) | [Faisal Ryan](https://open.spotify.com/artist/1YqLPQqfuH43PCN5HhwBFP) | [Selling Marilyn](https://open.spotify.com/album/4q8tEkFrhMyaET5LA0vKuy) | 3:23 | 2025-10-04 | 2025-12-17 |

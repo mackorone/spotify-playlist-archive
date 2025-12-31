@@ -1,6 +1,6 @@
 {
   "description": "Tecnica, stile e talento: MVP starter pack, nel rap come nel gaming \ud83c\udfae",
-  "num_followers": 93301,
+  "num_followers": 93295,
   "original_name": "GOOD GAME",
   "owner": {
     "name": "Spotify",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2024-12-06 12:53:49",
       "album": {
+        "name": "Gully (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3AXV4OJLUI7v9MQ3w8wzaN"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 192203,
+      "name": "BETRAYED",
+      "url": "https://open.spotify.com/track/5sxq1iFhvcqSbS86Cws8aj"
+    },
+    {
+      "added_at": "2024-12-06 12:53:49",
+      "album": {
         "name": "Still Be Friends (feat. Tory Lanez & Tyga)",
         "url": "https://open.spotify.com/album/0KHIH7UC8WATEByfXGfYaY"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 213307,
       "name": "Still Be Friends (feat. Tory Lanez & Tyga)",
       "url": "https://open.spotify.com/track/0JjM9bKm4wrwohMslcm892"
-    },
-    {
-      "added_at": "2024-12-06 12:53:49",
-      "album": {
-        "name": "Gully (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3AXV4OJLUI7v9MQ3w8wzaN"
-      },
-      "artists": [
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 192203,
-      "name": "BETRAYED",
-      "url": "https://open.spotify.com/track/5sxq1iFhvcqSbS86Cws8aj"
     },
     {
       "added_at": "2024-12-06 12:53:49",
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2024-12-06 12:53:49",
       "album": {
-        "name": "24 (feat. Lil Baby)",
-        "url": "https://open.spotify.com/album/5kaQQ0Z6RNMSqCRtM1lGn5"
-      },
-      "artists": [
-        {
-          "name": "Money Man",
-          "url": "https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "24 (feat. Lil Baby)",
-      "url": "https://open.spotify.com/track/7v96VvFLS0wSYT8kewNLRy"
-    },
-    {
-      "added_at": "2024-12-06 12:53:49",
-      "album": {
         "name": "DELINQUENTE",
         "url": "https://open.spotify.com/album/2wcLZ4N9hLO19PXpmZFWNh"
       },
@@ -1395,6 +1375,26 @@
       "duration_ms": 159750,
       "name": "Ma Ch\u00e9rie (feat. Capo Plaza)",
       "url": "https://open.spotify.com/track/56oawXplSFrfIJSyZjBgez"
+    },
+    {
+      "added_at": "2024-12-06 12:53:49",
+      "album": {
+        "name": "24 (feat. Lil Baby)",
+        "url": "https://open.spotify.com/album/5kaQQ0Z6RNMSqCRtM1lGn5"
+      },
+      "artists": [
+        {
+          "name": "Money Man",
+          "url": "https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "24 (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/7v96VvFLS0wSYT8kewNLRy"
     },
     {
       "added_at": "2024-12-06 12:53:49",

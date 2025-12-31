@@ -15409,6 +15409,28 @@
     },
     {
       "album": {
+        "name": "PHANTOM (feat. 50 Cent)",
+        "url": "https://open.spotify.com/album/3yBimWHgJNTk6yJo8Ofrnq"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172166,
+      "name": "PHANTOM (feat. 50 Cent)",
+      "url": "https://open.spotify.com/track/435NOlfzITSEghoaUNRle3"
+    },
+    {
+      "album": {
         "name": "PICASSO (feat. 3robi)",
         "url": "https://open.spotify.com/album/3E0IUauoIKQzk1re4wJffp"
       },
@@ -16194,7 +16216,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 158210,
       "name": "PRIMO PASSO",
       "url": "https://open.spotify.com/track/41Z3rWsV6ng2aI20bYKM29"

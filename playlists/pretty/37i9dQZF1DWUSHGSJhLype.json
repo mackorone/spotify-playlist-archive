@@ -1,6 +1,6 @@
 {
   "description": "aqui tem feijoada hot dog com pur\u00ea sushi moqueca a\u00e7a\u00ed cm peixe frito mta coisa / Foto: Pedro Sampaio, Melody, MC Meno K",
-  "num_followers": 750735,
+  "num_followers": 751540,
   "original_name": "Puro Suco do Brasil",
   "owner": {
     "name": "Spotify",
@@ -127,6 +127,30 @@
     {
       "added_at": "2025-12-21 03:00:22",
       "album": {
+        "name": "Panda Sem Modera\u00e7\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5VVcZ4Ne2Tt9Bpj7QS7RrC"
+      },
+      "artists": [
+        {
+          "name": "Panda",
+          "url": "https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz"
+        },
+        {
+          "name": "\u00cdcaro e Gilmar",
+          "url": "https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC"
+        },
+        {
+          "name": "MJ Records",
+          "url": "https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf"
+        }
+      ],
+      "duration_ms": 146750,
+      "name": "Baqueado - Ao Vivo",
+      "url": "https://open.spotify.com/track/25CffgwZg6vlUdCsHJijZo"
+    },
+    {
+      "added_at": "2025-12-21 03:00:22",
+      "album": {
         "name": "SEQU\u00caNCIA FEITICEIRA",
         "url": "https://open.spotify.com/album/1PUmgnEGrn78cJ6g0O6jry"
       },
@@ -155,30 +179,6 @@
       "duration_ms": 129692,
       "name": "SEQU\u00caNCIA FEITICEIRA",
       "url": "https://open.spotify.com/track/4Lwm0XFseZ09OBdmUJlcYp"
-    },
-    {
-      "added_at": "2025-12-21 03:00:22",
-      "album": {
-        "name": "Panda Sem Modera\u00e7\u00e3o (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5VVcZ4Ne2Tt9Bpj7QS7RrC"
-      },
-      "artists": [
-        {
-          "name": "Panda",
-          "url": "https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz"
-        },
-        {
-          "name": "\u00cdcaro e Gilmar",
-          "url": "https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC"
-        },
-        {
-          "name": "MJ Records",
-          "url": "https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf"
-        }
-      ],
-      "duration_ms": 146750,
-      "name": "Baqueado - Ao Vivo",
-      "url": "https://open.spotify.com/track/25CffgwZg6vlUdCsHJijZo"
     },
     {
       "added_at": "2025-12-21 03:00:22",
@@ -227,22 +227,6 @@
     {
       "added_at": "2025-12-21 03:00:22",
       "album": {
-        "name": "Tubar\u00f5es (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3bkQySbqPTpts4A2bGFCAB"
-      },
-      "artists": [
-        {
-          "name": "Diego & Victor Hugo",
-          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
-        }
-      ],
-      "duration_ms": 162580,
-      "name": "Tubar\u00f5es - Ao Vivo",
-      "url": "https://open.spotify.com/track/6Emsu0BaMpG0ilZCRT8KHZ"
-    },
-    {
-      "added_at": "2025-12-21 03:00:22",
-      "album": {
         "name": "Desliza (\"\u00d3lhinho\" No Corpinho)",
         "url": "https://open.spotify.com/album/3FjxQlpQrfjpwIcb410U50"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 146560,
       "name": "Desliza (\"\u00d3lhinho\" No Corpinho)",
       "url": "https://open.spotify.com/track/2gLUZtZN1gfercLP9guft3"
+    },
+    {
+      "added_at": "2025-12-21 03:00:22",
+      "album": {
+        "name": "Tubar\u00f5es (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3bkQySbqPTpts4A2bGFCAB"
+      },
+      "artists": [
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        }
+      ],
+      "duration_ms": 162580,
+      "name": "Tubar\u00f5es - Ao Vivo",
+      "url": "https://open.spotify.com/track/6Emsu0BaMpG0ilZCRT8KHZ"
     },
     {
       "added_at": "2025-12-21 03:00:22",
@@ -599,26 +599,6 @@
     {
       "added_at": "2025-12-21 03:00:22",
       "album": {
-        "name": "Tardezinha Pela Vida Inteira (Ao Vivo)",
-        "url": "https://open.spotify.com/album/78YlYXuLBrzdmpi6AxaOPQ"
-      },
-      "artists": [
-        {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
-        },
-        {
-          "name": "Sorriso Maroto",
-          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
-        }
-      ],
-      "duration_ms": 243129,
-      "name": "Como Nunca Amei Ningu\u00e9m / Por T\u00e3o Pouco - Ao Vivo",
-      "url": "https://open.spotify.com/track/7HS03vpAYoQuZxeXSpzGbM"
-    },
-    {
-      "added_at": "2025-12-21 03:00:22",
-      "album": {
         "name": "Na Imagina\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/6AXA2rbQCaAJfCcqgYPHcE"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 114044,
       "name": "Na Imagina\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/1sWx8hqMdjT3Gc7F9BSbUY"
+    },
+    {
+      "added_at": "2025-12-21 03:00:22",
+      "album": {
+        "name": "Tardezinha Pela Vida Inteira (Ao Vivo)",
+        "url": "https://open.spotify.com/album/78YlYXuLBrzdmpi6AxaOPQ"
+      },
+      "artists": [
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        },
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        }
+      ],
+      "duration_ms": 243129,
+      "name": "Como Nunca Amei Ningu\u00e9m / Por T\u00e3o Pouco - Ao Vivo",
+      "url": "https://open.spotify.com/track/7HS03vpAYoQuZxeXSpzGbM"
     },
     {
       "added_at": "2025-12-21 03:00:22",
@@ -767,6 +767,22 @@
     {
       "added_at": "2025-12-21 03:00:22",
       "album": {
+        "name": "Instinto (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1OkPtneB7ahh3BTiLG6dle"
+      },
+      "artists": [
+        {
+          "name": "Gamadinho",
+          "url": "https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt"
+        }
+      ],
+      "duration_ms": 213559,
+      "name": "Instinto - Ao Vivo",
+      "url": "https://open.spotify.com/track/7izihBeq9rmGYnierSTjv8"
+    },
+    {
+      "added_at": "2025-12-21 03:00:22",
+      "album": {
         "name": "DEBAIXO DO MEU CHAP\u00c9U, Vol. 2",
         "url": "https://open.spotify.com/album/4k1l6rmHL1FL5rURdvJ5Kg"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 159082,
       "name": "DENTRO DA LAND ROVER - Ao Vivo",
       "url": "https://open.spotify.com/track/5BI4zdNsBNEBSPzYkO2EXZ"
-    },
-    {
-      "added_at": "2025-12-21 03:00:22",
-      "album": {
-        "name": "Instinto (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1OkPtneB7ahh3BTiLG6dle"
-      },
-      "artists": [
-        {
-          "name": "Gamadinho",
-          "url": "https://open.spotify.com/artist/5midJ0agDR5PUU5QbBswDt"
-        }
-      ],
-      "duration_ms": 213559,
-      "name": "Instinto - Ao Vivo",
-      "url": "https://open.spotify.com/track/7izihBeq9rmGYnierSTjv8"
     },
     {
       "added_at": "2025-12-21 03:00:22",
@@ -871,6 +871,30 @@
     {
       "added_at": "2025-12-21 03:00:22",
       "album": {
+        "name": "Superfantasticamente (Superfantastico)",
+        "url": "https://open.spotify.com/album/59XAzmjcRnHQhErsREuAY8"
+      },
+      "artists": [
+        {
+          "name": "Henry Freitas",
+          "url": "https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM"
+        },
+        {
+          "name": "Nuzio Medeiros",
+          "url": "https://open.spotify.com/artist/55tbxmVOI2mQ5eBWXPK7tL"
+        },
+        {
+          "name": "Kadu Martins",
+          "url": "https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK"
+        }
+      ],
+      "duration_ms": 151136,
+      "name": "Superfantasticamente (Superfantastico)",
+      "url": "https://open.spotify.com/track/7fFXRzdVsW8nNIjgYwL5Pf"
+    },
+    {
+      "added_at": "2025-12-21 03:00:22",
+      "album": {
         "name": "Resenha do Arrocha 4.0",
         "url": "https://open.spotify.com/album/2T7BeLGczS8r3xcwPzzfGU"
       },
@@ -903,30 +927,6 @@
       "duration_ms": 154553,
       "name": "\u00daltima Noite - Solo",
       "url": "https://open.spotify.com/track/2Doe6AaIpyDy4JvFTsxSDn"
-    },
-    {
-      "added_at": "2025-12-21 03:00:22",
-      "album": {
-        "name": "Superfantasticamente (Superfantastico)",
-        "url": "https://open.spotify.com/album/59XAzmjcRnHQhErsREuAY8"
-      },
-      "artists": [
-        {
-          "name": "Henry Freitas",
-          "url": "https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM"
-        },
-        {
-          "name": "Nuzio Medeiros",
-          "url": "https://open.spotify.com/artist/55tbxmVOI2mQ5eBWXPK7tL"
-        },
-        {
-          "name": "Kadu Martins",
-          "url": "https://open.spotify.com/artist/57VQCKnZ9nhS7bvoviXuZK"
-        }
-      ],
-      "duration_ms": 151136,
-      "name": "Superfantasticamente (Superfantastico)",
-      "url": "https://open.spotify.com/track/7fFXRzdVsW8nNIjgYwL5Pf"
     },
     {
       "added_at": "2025-12-21 03:00:22",
@@ -1159,6 +1159,26 @@
     {
       "added_at": "2025-12-21 03:00:22",
       "album": {
+        "name": "Menina",
+        "url": "https://open.spotify.com/album/1AhiTTbdGAym3xzYflP3fa"
+      },
+      "artists": [
+        {
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        },
+        {
+          "name": "L\u00e9o Foguete",
+          "url": "https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08"
+        }
+      ],
+      "duration_ms": 158060,
+      "name": "Menina",
+      "url": "https://open.spotify.com/track/1BKs3X4E6Oc0iM3BxnzyXQ"
+    },
+    {
+      "added_at": "2025-12-21 03:00:22",
+      "album": {
         "name": "Vamo de Pagodin",
         "url": "https://open.spotify.com/album/5Fn3Y1kin9K4bEv71S728q"
       },
@@ -1179,26 +1199,6 @@
       "duration_ms": 160864,
       "name": "Vamo de Pagodin",
       "url": "https://open.spotify.com/track/6FllOXq1UDCFDt1V4YvN3K"
-    },
-    {
-      "added_at": "2025-12-21 03:00:22",
-      "album": {
-        "name": "Menina",
-        "url": "https://open.spotify.com/album/1AhiTTbdGAym3xzYflP3fa"
-      },
-      "artists": [
-        {
-          "name": "DENNIS",
-          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
-        },
-        {
-          "name": "L\u00e9o Foguete",
-          "url": "https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08"
-        }
-      ],
-      "duration_ms": 158060,
-      "name": "Menina",
-      "url": "https://open.spotify.com/track/1BKs3X4E6Oc0iM3BxnzyXQ"
     },
     {
       "added_at": "2025-12-21 03:00:22",
@@ -1243,30 +1243,6 @@
     {
       "added_at": "2025-12-21 03:00:22",
       "album": {
-        "name": "NEM S\u00d3 DE MALUQUICE VIVE O HOMEM",
-        "url": "https://open.spotify.com/album/3lHprza8hVWcc19Ouj48jy"
-      },
-      "artists": [
-        {
-          "name": "J. Eskine",
-          "url": "https://open.spotify.com/artist/4gKSUeHW82tGBeJsJSB1JC"
-        },
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
-        },
-        {
-          "name": "Alef Donk",
-          "url": "https://open.spotify.com/artist/0aSE67DwCWR6JKhdVUmz6I"
-        }
-      ],
-      "duration_ms": 194303,
-      "name": "AMOR BANDIDO",
-      "url": "https://open.spotify.com/track/7trxRWRqAhf9bJziU1ZQBH"
-    },
-    {
-      "added_at": "2025-12-21 03:00:22",
-      "album": {
         "name": "CAVALINHO",
         "url": "https://open.spotify.com/album/0bbhibmbqLzyNrNonJeZX4"
       },
@@ -1307,6 +1283,30 @@
       "duration_ms": 146186,
       "name": "Voc\u00ea \u00e9 Meu M\u00f4 - Ao Vivo",
       "url": "https://open.spotify.com/track/4kB3EvXt9ZyFibpUWvUpo0"
+    },
+    {
+      "added_at": "2025-12-21 03:00:22",
+      "album": {
+        "name": "NEM S\u00d3 DE MALUQUICE VIVE O HOMEM",
+        "url": "https://open.spotify.com/album/3lHprza8hVWcc19Ouj48jy"
+      },
+      "artists": [
+        {
+          "name": "J. Eskine",
+          "url": "https://open.spotify.com/artist/4gKSUeHW82tGBeJsJSB1JC"
+        },
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Alef Donk",
+          "url": "https://open.spotify.com/artist/0aSE67DwCWR6JKhdVUmz6I"
+        }
+      ],
+      "duration_ms": 194303,
+      "name": "AMOR BANDIDO",
+      "url": "https://open.spotify.com/track/7trxRWRqAhf9bJziU1ZQBH"
     },
     {
       "added_at": "2025-12-21 03:00:22",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2025-12-21 03:00:22",
       "album": {
-        "name": "Gemidinha",
-        "url": "https://open.spotify.com/album/4ae75JiQZjp7JO3RvxifF8"
-      },
-      "artists": [
-        {
-          "name": "Felipe Amorim",
-          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
-        }
-      ],
-      "duration_ms": 195398,
-      "name": "Gemidinha",
-      "url": "https://open.spotify.com/track/4hslEwekHa2J9jgaEQzZHP"
-    },
-    {
-      "added_at": "2025-12-21 03:00:22",
-      "album": {
         "name": "Pra Quebrar a Cara",
         "url": "https://open.spotify.com/album/17noeiLlv35PJi4QcKqv7W"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 163892,
       "name": "A Gente Se Entrega",
       "url": "https://open.spotify.com/track/1GOS5OIo4KywJF7Fw9QR4E"
+    },
+    {
+      "added_at": "2025-12-21 03:00:22",
+      "album": {
+        "name": "Gemidinha",
+        "url": "https://open.spotify.com/album/4ae75JiQZjp7JO3RvxifF8"
+      },
+      "artists": [
+        {
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+        }
+      ],
+      "duration_ms": 195398,
+      "name": "Gemidinha",
+      "url": "https://open.spotify.com/track/4hslEwekHa2J9jgaEQzZHP"
     },
     {
       "added_at": "2025-12-21 03:00:22",

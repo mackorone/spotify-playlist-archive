@@ -1,12 +1,12 @@
 {
   "description": "This is Sergio Vega \"El Shaka\". The essential tracks, all in one playlist.",
-  "num_followers": 116041,
+  "num_followers": 116080,
   "original_name": "This Is Sergio Vega \"El Shaka\"",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVBzAAAAAABqqBEs5FKFu/VQ8i6ZjyWf",
+  "snapshot_id": "aVHEgAAAAABm/PNOnFEn4l+X3KRHbgoB",
   "tracks": [
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuando El Sol Salga Al Rev\u00e9s",
-        "url": "https://open.spotify.com/album/3yZ3Du2ASwDDYMmQsvSlCa"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 181706,
-      "name": "Zapatos Nuevos",
-      "url": "https://open.spotify.com/track/7BcdzFXBXCaHVmOmoUXCmo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Una P\u00e1gina M\u00e1s",
         "url": "https://open.spotify.com/album/0nRrvlwgmNribpWPPb1Rdb"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 127496,
       "name": "Estrella Ca\u00edda",
       "url": "https://open.spotify.com/track/0bztHEZfIFe23wKxAbHTuT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cuando El Sol Salga Al Rev\u00e9s",
+        "url": "https://open.spotify.com/album/3yZ3Du2ASwDDYMmQsvSlCa"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 181706,
+      "name": "Zapatos Nuevos",
+      "url": "https://open.spotify.com/track/7BcdzFXBXCaHVmOmoUXCmo"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Necesito Due\u00f1a",
-        "url": "https://open.spotify.com/album/0ow5H1Ztq6bPN6V5TAUVEY"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 205333,
-      "name": "Mu\u00f1equita - Balada Version",
-      "url": "https://open.spotify.com/track/2CHAuszySE0bVoNGhA3xD6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Gusta Estar Contigo",
         "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 165053,
       "name": "La Mentada",
       "url": "https://open.spotify.com/track/1pnuFhrxM4mjNvHdvwA7Mc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Necesito Due\u00f1a",
+        "url": "https://open.spotify.com/album/0ow5H1Ztq6bPN6V5TAUVEY"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 205333,
+      "name": "Mu\u00f1equita - Balada Version",
+      "url": "https://open.spotify.com/track/2CHAuszySE0bVoNGhA3xD6"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE BEST OF",
-        "url": "https://open.spotify.com/album/2wb07vrMj465xL7z2mTRRi"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 207573,
-      "name": "Luto En El Cielo",
-      "url": "https://open.spotify.com/track/693F8g19ECSFfMiejm00bo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Gusta Estar Contigo",
         "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 199133,
       "name": "Cosas del Amor",
       "url": "https://open.spotify.com/track/4PkrQwJUTI6enWI3tDiJMe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THE BEST OF",
+        "url": "https://open.spotify.com/album/2wb07vrMj465xL7z2mTRRi"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 207573,
+      "name": "Luto En El Cielo",
+      "url": "https://open.spotify.com/track/693F8g19ECSFfMiejm00bo"
     },
     {
       "added_at": null,

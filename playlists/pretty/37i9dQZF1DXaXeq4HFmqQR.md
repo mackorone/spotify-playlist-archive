@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres a todo volumen, con Rosario Alfonso en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,866 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,867 likes - 60 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 25 | [excusa barata](https://open.spotify.com/track/3mHi7UafB5tQrPkVHUe5pf) | [cata teuber](https://open.spotify.com/artist/1mdZc8QkR0STDJdjBN3fE4), [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [no te lo tomes personal](https://open.spotify.com/album/4777oKdCZIBGYYDPGvO4WL) | 3:40 |
 | 26 | [Canción por Palestina](https://open.spotify.com/track/4DRMMG3B7Dj4sk0cGCZDYj) | [Evelyn Cornejo](https://open.spotify.com/artist/3wV40S9AyTLTE2b0Tp0Yo6) | [Canción por Palestina](https://open.spotify.com/album/2KvvlWa9WaabIbhN6kybuY) | 2:44 |
 | 27 | [10 DÍAS](https://open.spotify.com/track/4jQIka89UCTFBueFA0kK0U) | [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo) | [10 DÍAS](https://open.spotify.com/album/4ZZhbCgb0uC3Ro5m4t9Zrt) | 3:21 |
-| 28 | [Ya no llueve en mi cumpleaños](https://open.spotify.com/track/4w7BwpA6plrRgzuXdem5Hs) | [Inundaremos](https://open.spotify.com/artist/7ttDbtyzbPTrvAfdfd4aSS) | [Esto lo hice sin querer](https://open.spotify.com/album/79FMNMRaLeMIwuWgaTvokU) | 3:25 |
-| 29 | [Indeleble](https://open.spotify.com/track/5aAzw4nkpfLbPYOfuyisTB) | [Alfilera](https://open.spotify.com/artist/5dmpPz4WTOw7MHA52BUCyW) | [Detrás de las Palabras](https://open.spotify.com/album/17NRUslS9nOR0EF99DLaQW) | 3:34 |
+| 28 | [Indeleble](https://open.spotify.com/track/5aAzw4nkpfLbPYOfuyisTB) | [Alfilera](https://open.spotify.com/artist/5dmpPz4WTOw7MHA52BUCyW) | [Detrás de las Palabras](https://open.spotify.com/album/17NRUslS9nOR0EF99DLaQW) | 3:34 |
+| 29 | [Ya no llueve en mi cumpleaños](https://open.spotify.com/track/4w7BwpA6plrRgzuXdem5Hs) | [Inundaremos](https://open.spotify.com/artist/7ttDbtyzbPTrvAfdfd4aSS) | [Esto lo hice sin querer](https://open.spotify.com/album/79FMNMRaLeMIwuWgaTvokU) | 3:25 |
 | 30 | [Un año más \- Bolero](https://open.spotify.com/track/6HsYqeuGn0l8BMxxIKdMQw) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn), [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ), [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Kumbita](https://open.spotify.com/album/1ZE3Gm8Xr0FDOVRhWcqz5d) | 4:38 |
 | 31 | [Puedo Imaginar](https://open.spotify.com/track/2unJSS010j51d6dIaTsSrw) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ), [San Pedro Bonfim](https://open.spotify.com/artist/2zgWIWNakYzjY1IJaj6QFp) | [Puedo Imaginar](https://open.spotify.com/album/0oq5McpgKrsCtqtTXqkhsZ) | 4:48 |
 | 32 | [Lo Que Soñamos Vivir](https://open.spotify.com/track/2Q7qDmYdMxGqWWfJON4XlF) | [Alejandra Paniagua](https://open.spotify.com/artist/428BJ6UrRiqssMjAWEujtR), [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [Lo Que Soñamos Vivir](https://open.spotify.com/album/4zJuDHVRGKhdympQfTqBK9) | 3:30 |

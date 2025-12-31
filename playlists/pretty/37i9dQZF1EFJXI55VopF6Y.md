@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJXI55VopF6Y.md) - [plain]
 | 26 | [Dive](https://open.spotify.com/track/6QziVTOnpWNHVpgCOPsABH) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [Euronites](https://open.spotify.com/album/4AWaV9nH0uOfhl4hqB2fsZ) | 2:41 |
 | 27 | [Puppy Luv <3](https://open.spotify.com/track/1U2WEn5UmD3si27l6XO5WI) | [Sizzy Rocket](https://open.spotify.com/artist/2CBvbVxhd3ZJXRTCl88H7E) | [RAT](https://open.spotify.com/album/60gp59djqb5KOfCxWytU7o) | 2:21 |
 | 28 | [Slösa din tid](https://open.spotify.com/track/0o9g7RkLi6KgoBOj7yhKKL) | [L4baby](https://open.spotify.com/artist/6ys0L4WvzuKY1lCRuNDjpX) | [Slösa din tid](https://open.spotify.com/album/6voTr5oLmoPGejsEYQ29mw) | 2:34 |
-| 29 | [ENTRE NOUS](https://open.spotify.com/track/1G8mKTEwyrVc1OB0z7VSOu) | [Robin](https://open.spotify.com/artist/4rBM6zAvArcI0zse5kUVJD) | [POUR DE VRAI](https://open.spotify.com/album/2V7lA7Qs930nCdSLJ0UaC5) | 2:40 |
-| 30 | [Alright](https://open.spotify.com/track/2OOx9fgzwR1A7mJuldIWvO) | [Arka](https://open.spotify.com/artist/6q3hVu8S1dWUSpmXmlL6Wx), [Aida Lae](https://open.spotify.com/artist/6O3zNHRRBNy1fVMuFsuJwc) | [Alright](https://open.spotify.com/album/7f4I2kZbkzPtxDdi3qX30S) | 2:54 |
-| 31 | [Blame Game](https://open.spotify.com/track/4qd83UB48FdKq1jcozeLXI) | [Amma](https://open.spotify.com/artist/6rYqTmpl2LNEovR30mauo2) | [Blame Game](https://open.spotify.com/album/3n7Vjwe7Jm5PiEdYYpgrih) | 3:32 |
+| 29 | [Blame Game](https://open.spotify.com/track/4qd83UB48FdKq1jcozeLXI) | [Amma](https://open.spotify.com/artist/6rYqTmpl2LNEovR30mauo2) | [Blame Game](https://open.spotify.com/album/3n7Vjwe7Jm5PiEdYYpgrih) | 3:32 |
+| 30 | [ENTRE NOUS](https://open.spotify.com/track/1G8mKTEwyrVc1OB0z7VSOu) | [Robin](https://open.spotify.com/artist/4rBM6zAvArcI0zse5kUVJD) | [POUR DE VRAI](https://open.spotify.com/album/2V7lA7Qs930nCdSLJ0UaC5) | 2:40 |
+| 31 | [Alright](https://open.spotify.com/track/2OOx9fgzwR1A7mJuldIWvO) | [Arka](https://open.spotify.com/artist/6q3hVu8S1dWUSpmXmlL6Wx), [Aida Lae](https://open.spotify.com/artist/6O3zNHRRBNy1fVMuFsuJwc) | [Alright](https://open.spotify.com/album/7f4I2kZbkzPtxDdi3qX30S) | 2:54 |
 | 32 | [For What It's Worth](https://open.spotify.com/track/0yu2qeSEuZLaLX66VZtF5T) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Many Moons, Many Suns](https://open.spotify.com/album/6y9GtAWTtSJPGBsa9LDSa7) | 2:31 |
 | 33 | [Something In My Eye](https://open.spotify.com/track/7Ct8rxhUnBUfSSWxb0X7em) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Many Moons, Many Suns](https://open.spotify.com/album/6y9GtAWTtSJPGBsa9LDSa7) | 2:44 |
 | 34 | [Always](https://open.spotify.com/track/4RVcEWtAcGr5TwbAk5oQhH) | [Victor Franco](https://open.spotify.com/artist/5sNbaOCPAZXHDCWobWHYWv), [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD) | [Self Portrait](https://open.spotify.com/album/3anhy2RLYZnslzRhyjy0Ep) | 2:22 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJXI55VopF6Y.md) - [plain]
 | 48 | [bad bitch in love](https://open.spotify.com/track/5sa0E3yJBobRTGCyYqrb6U) | [Elle Darlington](https://open.spotify.com/artist/4jASzso2t2zBFIcOZE8O7x) | [bad bitch in love](https://open.spotify.com/album/00Y6uQdwKVMqlgXHGQqz3G) | 2:41 |
 | 49 | [Perfect Christmas](https://open.spotify.com/track/75jANPKh2bVuW0lHXw270M) | [Rose Rae](https://open.spotify.com/artist/3UiC3OoSjGLnaBsSMoVeWE) | [24 Songs of Christmas](https://open.spotify.com/album/5DUzxLyznbSzGmtq7hEEkI) | 2:41 |
 
-Snapshot ID: `AcFjegAAAAAH8mth+DEa9VEeZkiF7aYo`
+Snapshot ID: `AcFpEAAAAABwJ4ObZ7mxHD6l/YxLZukB`

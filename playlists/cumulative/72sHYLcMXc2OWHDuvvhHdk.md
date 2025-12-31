@@ -4,7 +4,7 @@
 
 > Follow and DM @lucciagobeats on Instagram or email lucciago@lucciagobeats.com for playlist submissions\. www.lucciagobeats.com
 
-1,920 songs - 4 day 16 hr 34 min
+1,926 songs - 4 day 16 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [All the Scents](https://open.spotify.com/track/09aKIGlPQfN1UnyKMJdCwB) | [Niño](https://open.spotify.com/artist/6RUaq2p8llfuyCMCOxIC5T) | [No Spies on My Payroll](https://open.spotify.com/album/5JW4LaHi3U3YtUERRf82Uu) | 5:22 | 2025-11-06 |  |
 | [All The Things \- Remix](https://open.spotify.com/track/1J3v8mjH7xuhffTaUrTjtU) | [Lucas Haug](https://open.spotify.com/artist/4uhqAkMX0dRGI74lh988y1) | [All The Things \(Remix\)](https://open.spotify.com/album/08v4jCP0QE9WWCpTRT70Ya) | 3:12 | 2025-04-14 |  |
 | [All The Way Back Home](https://open.spotify.com/track/7CdfY6zpCpM5Xnz4SNr0Fz) | [Kimmy T](https://open.spotify.com/artist/5wrgIxwBVT4HR6ZXXweEyY) | [All The Way Back Home](https://open.spotify.com/album/0xULunklKtyWzQeKCt5VZ0) | 4:54 | 2025-08-21 |  |
+| [All Things End](https://open.spotify.com/track/5nYUZedrldN3kCDohW4OkW) | [Ethan William Bowers](https://open.spotify.com/artist/1mNm642Xb2pIwHpkYO1dy6), [The Painted Strangers](https://open.spotify.com/artist/3xCaCW1JCbmKulU3XRhKaX) | [Panic Tax](https://open.spotify.com/album/5BVyxf28qJwmNUdOR9GZuL) | 4:01 | 2025-12-30 |  |
 | [all U need](https://open.spotify.com/track/4jQ9Rpgcu7yyGeFz964lsD) | [Timmy Neuboy](https://open.spotify.com/artist/2LpAao3XKjzzwS4RflPwMY) | [1999 \(Deluxe\)](https://open.spotify.com/album/2pTUV0iDTV91HoqJEum6Ux) | 2:33 | 2025-10-13 |  |
 | [Allegretto Duet](https://open.spotify.com/track/2d1FfHfzVMzMSo9270J11i) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Clazzax: Bite\-Sized Rendition Library](https://open.spotify.com/album/7ezY9VWNDDxHyjVBxmiB94) | 1:52 | 2025-02-04 |  |
 | [Almost Broken Heart](https://open.spotify.com/track/5DcbQQnP6vwId9lL44QHxv) | [Christy P Klotz](https://open.spotify.com/artist/46Q4VlcJvWHb7Md7STTzx4) | [Almost Broken Heart](https://open.spotify.com/album/0aHWikNEPlAg7CNvh27FtL) | 4:02 | 2025-05-30 |  |
@@ -202,6 +203,7 @@
 | [breathing, just fine](https://open.spotify.com/track/7B624w4xurrqjerVLU7flg) | [carlixe](https://open.spotify.com/artist/2QPm4y6rPTKDW2cFCzeu9P), [Luck chua](https://open.spotify.com/artist/6Yykd9A07URVYaes3f8x5R) | [breathing, just fine](https://open.spotify.com/album/4DrygYDis1BO1qxeCZLqWG) | 3:12 | 2025-09-17 |  |
 | [Bring Me One In Black](https://open.spotify.com/track/7jN6kuL28gYgE2j7E6s2YV) | [Hex Formes](https://open.spotify.com/artist/0MsPBlD0bjHnVTfo3XozCM), [Scott Baker Graham](https://open.spotify.com/artist/539zcKN3q0xsRerVoBL0PA) | [Bring Me One In Black](https://open.spotify.com/album/4RPFINEC8miJgNziSwm4LZ) | 2:53 | 2025-08-25 |  |
 | [Bring out the Sunshine](https://open.spotify.com/track/5vAKlwdiZAbUFu7clK5QYP) | [Nick Noon](https://open.spotify.com/artist/7Euxf3XKxREL98vEaCoeEa) | [Bring out the Sunshine](https://open.spotify.com/album/2NY3A6oVaX2JdysYFdwtZp) | 5:08 | 2024-09-16 |  |
+| [Bring Your Love](https://open.spotify.com/track/05PP999Sbm9nVpjINfBNDB) | [Tin Zelkova](https://open.spotify.com/artist/1uft4s6QGconk4zwMNBBhu) | [Bring Your Love](https://open.spotify.com/album/4qe45XUNWmGqzffApM2cZx) | 2:24 | 2025-12-30 |  |
 | [Brink of Broken Dreams](https://open.spotify.com/track/4La0zn36bro2WNFTnwV63b) | [Going Big](https://open.spotify.com/artist/17zEnHkf1boWQ8Ll9yhysp) | [Behind Closed Doors](https://open.spotify.com/album/3Dw4iq9FbbPSrTz6RR0LHS) | 5:04 | 2024-05-22 |  |
 | [Broke](https://open.spotify.com/track/5toBEMvHYRl8OvOgyeRmWS) | [Lonely Mountain](https://open.spotify.com/artist/2XjWUpDLOIJCQC8MMc1M8h) | [Broke](https://open.spotify.com/album/10CNkjcNPmPrCQeNrYKyTV) | 5:05 | 2024-08-18 |  |
 | [BROKE BUT DANGEROUS](https://open.spotify.com/track/2ULnkHwFait8gvycc43CM2) | [Trendux](https://open.spotify.com/artist/0F0vy5KDl4mCjBxPyhWlxN) | [FROM NOTHING \- EP](https://open.spotify.com/album/31wWJFAydBVPF5lf2WyrqX) | 2:55 | 2025-11-17 |  |
@@ -618,6 +620,7 @@
 | [going home](https://open.spotify.com/track/2nQ3DOIEYtme9ZIY5KoKNu) | [dhover](https://open.spotify.com/artist/3MUtkbL4PfuWmJjIE6Ff3H) | [light lamenting](https://open.spotify.com/album/7DoDCe0wIcMSfDHwbnKj6T) | 3:46 | 2024-12-17 |  |
 | [Gold Rush](https://open.spotify.com/track/2CkUuuAy72Pa4rYU82PdhN) | [Deep Summer Band](https://open.spotify.com/artist/0t3eIfBf3EFjexnoUcJ4ZM) | [Gold Rush / Tucson / L.A.](https://open.spotify.com/album/0miVvw9HzzYLm4P4v71n6d) | 3:30 | 2025-08-21 |  |
 | [Golden](https://open.spotify.com/track/0cICWELzZbYozXO19865Ko) | [VAKER](https://open.spotify.com/artist/2sg9pn5r51AVgk9ihcSoKP) | [Golden](https://open.spotify.com/album/5IpERrS3rFrWDfpagr5Nbr) | 4:45 | 2024-09-16 |  |
+| [Gone](https://open.spotify.com/track/6W2S8cpRh5BLgtWuqXy4Q0) | [Eon Grey](https://open.spotify.com/artist/2NAK6z2C58tt4aJ5gqV64Z) | [Gone](https://open.spotify.com/album/0wWzHvO9mMgItTAEzl7xNH) | 2:27 | 2025-12-30 |  |
 | [Gone in Lust](https://open.spotify.com/track/7oytJIAbY06VrOkfdtn71T) | [Ulysse Zangs](https://open.spotify.com/artist/4CznmcLeJ9DdmNEel9ANbe) | [Gone in Lust](https://open.spotify.com/album/5riyw2GOhjEeMSmGoP06Bt) | 4:19 | 2024-09-23 |  |
 | [Gonna Get High Tonight](https://open.spotify.com/track/2iIuWZDAOQtO2xmr3W8Khp) | [Cryin' Out Loud](https://open.spotify.com/artist/2qlWZniLcMEzUlc2oV1Fjq) | [Play Loud & Smoke Often](https://open.spotify.com/album/2jc5T49MZRBRvolkUki3nt) | 4:06 | 2025-02-10 |  |
 | [Good Bye Love](https://open.spotify.com/track/4ebGxk7Z1lSffdyOfYtNio) | [Jamie Frick](https://open.spotify.com/artist/4ILTgmVelzVYBgRaw08NUd), [Sean Warrie](https://open.spotify.com/artist/43xX7hXBhJmd56IFwsYzzO) | [Good Bye Love](https://open.spotify.com/album/0dF3xgO7deDxrFupPYMawo) | 3:28 | 2025-08-22 |  |
@@ -996,6 +999,7 @@
 | [Love](https://open.spotify.com/track/1rwTGrj5GEeNoDZ5cUtJ3u) | [Don Bidie](https://open.spotify.com/artist/0U9q7BDC2ChSXyN1LSzPAD) | [Capable](https://open.spotify.com/album/6HyQzerNjdV5xwPmqjb5Zk) | 2:44 | 2025-09-29 |  |
 | [Love](https://open.spotify.com/track/36HR7SMs8bgvdNIH04wnna) | [Open Strum](https://open.spotify.com/artist/1Xh9igcpw9BvisCWyVQ932), [Jesse Lake](https://open.spotify.com/artist/7w8ouyXeYHjPipvYK4DpbV) | [Open Strum 2](https://open.spotify.com/album/1jIdsJW3n2lfxaP7IQnwko) | 2:38 | 2025-12-11 |  |
 | [love holds](https://open.spotify.com/track/6X95rBknmYbAyjMZVv1GL9) | [dhover](https://open.spotify.com/artist/3MUtkbL4PfuWmJjIE6Ff3H) | [well\-tempered](https://open.spotify.com/album/7nDValKTrA9TSS4fdeekqP) | 2:48 | 2025-01-20 |  |
+| [Love is](https://open.spotify.com/track/47fnHzZbyVzoun68XD6ZV0) | [K W Hoffman](https://open.spotify.com/artist/11NQwwc952s3dgAPbR5VPD) | [Love is](https://open.spotify.com/album/7xboQruZ4Wj5ypbkTR3ZQT) | 2:24 | 2025-12-30 |  |
 | [Love is Alive](https://open.spotify.com/track/37cN267Fk7TmCieQb9ew9U) | [Hoss Carl](https://open.spotify.com/artist/5OTamahcB1uXMerWExIRol) | [Love is Alive](https://open.spotify.com/album/6i1jTWMfDp49yt9uRBCAQf) | 4:05 | 2025-09-24 |  |
 | [Love Me Love Me Love Me](https://open.spotify.com/track/05T8YD1teUj4Fnn3zCjX4e) | [Aaron Topfer Music](https://open.spotify.com/artist/5w3z7KmGsQ0NACUneDfph7) | [Love Me Love Me Love Me](https://open.spotify.com/album/3uPcT17QJ8U4Wlb0PwiDgj) | 3:14 | 2024-10-18 |  |
 | [Love Not Fire](https://open.spotify.com/track/0eUuWlmw03QvFlsRMDO3hy) | [Blind Yeo](https://open.spotify.com/artist/5wf9NEx8BtntEd3HiqLNjd) | [Love Not Fire](https://open.spotify.com/album/2aCDMUnkfaV4duC90EeNks) | 3:37 | 2025-11-07 |  |
@@ -1530,6 +1534,7 @@
 | [Super Fast Car](https://open.spotify.com/track/2YZUEt8QM4DTVPUaEaRHGU) | [The Program](https://open.spotify.com/artist/2ooW0qcEaI2so1ed7IjtNR) | [Super Fast Car](https://open.spotify.com/album/3XCO9MRgjwpgLTREx1zxvc) | 2:15 | 2024-08-13 |  |
 | [Superhero \- Acoustic](https://open.spotify.com/track/7nrFRSafHxawukv8qSqVeK) | [26 fingerprints](https://open.spotify.com/artist/67KHGhkPkdL1Afg4DQGMjM) | [Superhero \(Acoustic\)](https://open.spotify.com/album/2qghX842ealI9MXpzX1G7K) | 3:12 | 2025-09-08 |  |
 | [supernatural](https://open.spotify.com/track/6uiUkwNEKbKY2z6PrNYmSR) | [Khazo](https://open.spotify.com/artist/7iJ2EulMOPKI5zVglTKKgg) | [supernatural](https://open.spotify.com/album/59fasg2sQLglon8X5JRVI8) | 2:30 | 2025-07-23 |  |
+| [Surface](https://open.spotify.com/track/7ADIFjFJgBGyKNWypH0NnF) | [Maje$tic Mindz](https://open.spotify.com/artist/2ACM836cjbxNwpTryo7XX7), [Sylvie Hope](https://open.spotify.com/artist/5FZZ6JjgSnEK32DcZHxs8y) | [One Love](https://open.spotify.com/album/0YhPCmR9kVYjQzBctKg6iW) | 2:44 | 2025-12-30 |  |
 | [SuruNaru \(feat\. HATSUNE MIKU\)](https://open.spotify.com/track/6iE7zxU2d2kv6T9gAtKcXD) | [hikage](https://open.spotify.com/artist/35ib9e2wzbfLEArMWXNDag), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [SuruNaru \(feat\. HATSUNE MIKU\)](https://open.spotify.com/album/6YJlzprDtsi3CAMsSzUxOu) | 3:38 | 2025-05-19 |  |
 | [Survival](https://open.spotify.com/track/4SehfhHiVu5A0t76uJ87X3) | [Kat Farley](https://open.spotify.com/artist/7FDvSNqPqTyvaRCarX4mdB) | [Shadow & Shine](https://open.spotify.com/album/5E9YQ4OKJ4uP0g4stFd3c4) | 3:08 | 2025-06-20 |  |
 | [Sweet Ann](https://open.spotify.com/track/74xu3P3jkaWFflsNltWcin) | [Bedford Bells](https://open.spotify.com/artist/457xGOVmJGT5KdngsyRHb4) | [Sweet Ann](https://open.spotify.com/album/1DSotgaWt8znRNiYDAA3fa) | 3:09 | 2025-01-27 |  |
@@ -1566,6 +1571,7 @@
 | [Te Prometo](https://open.spotify.com/track/6XLXdWATtwOsCStJR6NuSN) | [D'Randoms](https://open.spotify.com/artist/5tusDFxQhPJ2P0vn1ch78e) | [Te Prometo](https://open.spotify.com/album/3gflPEv81K6ajEwaPhUm3v) | 4:29 | 2024-04-30 |  |
 | [Teal & Orange](https://open.spotify.com/track/7mAT2BEIXszAeSDOGZ3Pxg) | [Sirob](https://open.spotify.com/artist/5KtS4msY2oTDyKR6v8yRjz), [Doriima](https://open.spotify.com/artist/1rjtnSQuAcnWSU6J1GT4RO) | [Teal & Orange](https://open.spotify.com/album/5BtGtHoWbQjMXj0u6BhJyI) | 2:46 | 2025-10-13 |  |
 | [Teardrop](https://open.spotify.com/track/47JkqFSfw7mrjNfCgCEhUr) | [The Post](https://open.spotify.com/artist/1uBE7rIj3TXKT9gZ7WAfSy) | [Teardrop](https://open.spotify.com/album/2FKUSAVf4MOBNYMW8dnoLf) | 5:36 | 2025-01-27 |  |
+| [tears of gratitude](https://open.spotify.com/track/7AYR8wIPevYJw0G7omdYNc) | [anoushka hem](https://open.spotify.com/artist/5tjq7Oyj6Zu5PhVACjwC8t) | [moving forward!](https://open.spotify.com/album/2XlM5L9aWA82ghgUiCk1hw) | 5:13 | 2025-12-30 |  |
 | [Tears To Sand](https://open.spotify.com/track/5Zv7pEVkiHaCzDXavW1qDP) | [NURE](https://open.spotify.com/artist/75rs5jsRztU6TrsvsbB2Ee) | [Day By Day](https://open.spotify.com/album/6t6Nxv3J2rc93ovAUfi1Jv) | 3:16 | 2025-11-24 |  |
 | [Technicolour Dreams \- Single Mix](https://open.spotify.com/track/256UhhlUeFPnaOcaskzT77) | [Echomatica](https://open.spotify.com/artist/75uNvdIOOLgUT6Gs2hkRVQ) | [Technicolour Dreams \- Single Mix](https://open.spotify.com/album/0qoHyAR40cwYd1B06OMs4r) | 3:55 | 2025-12-08 |  |
 | [TELEPATHIE](https://open.spotify.com/track/2qVxWF9aBaDuQIsW9ffXkp) | [MATTHEW MAXI](https://open.spotify.com/artist/7tRcnumRUrTFZEUfyxDj46) | [TELEPATHIE](https://open.spotify.com/album/6u1zcxA9kSI6gjHUqt1xHU) | 2:24 | 2025-09-22 |  |

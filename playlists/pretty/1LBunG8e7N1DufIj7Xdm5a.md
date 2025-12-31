@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 260 likes - 3,821 songs - 8 day 10 hr 38 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 261 likes - 3,824 songs - 8 day 10 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -3829,5 +3829,8 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 3819 | [Green Giants March](https://open.spotify.com/track/6EfCto1xF9NLpZt8469sbX) | [Jaxx.13](https://open.spotify.com/artist/1pV2GA9n5xplcSgg58F3Xn), [Digiplayer.13](https://open.spotify.com/artist/32yRrtY4Az7zXL2a2nf9gk), [Alex.13](https://open.spotify.com/artist/74kwMd6oJzppv5s1b6RhVV) | [Green Giants March](https://open.spotify.com/album/0ZXdBFVaPAfzZNrleHHvIM) | 2:30 |
 | 3820 | [OathBreaker's Call](https://open.spotify.com/track/0sM5SlFGAZnwJg4oD4bizw) | [Digiplayer.13](https://open.spotify.com/artist/32yRrtY4Az7zXL2a2nf9gk), [Zona.13](https://open.spotify.com/artist/5bRr4E3eT9fn7FGxK730YU), [Twilight.13](https://open.spotify.com/artist/4N1jpZDATwsCAU75B8Bh99) | [OathBreaker's Call](https://open.spotify.com/album/1c82DbgAJ73HGNLud7Bwvt) | 3:47 |
 | 3821 | [Qué te Pasó](https://open.spotify.com/track/5oxUwWuZGG0DbQI1YefvHm) | [El Mr.](https://open.spotify.com/artist/0UTWj8L8tNSJ2DC9E1by91) | [Qué te Pasó](https://open.spotify.com/album/6Dmm45j5gHI85rG6AbE6U0) | 3:31 |
+| 3822 | [Carolina](https://open.spotify.com/track/3tmKJm7GurhO7gYpQHj2vJ) | [zrina](https://open.spotify.com/artist/1lNyFRu90mDAuRQlH88Ex3), [jfm](https://open.spotify.com/artist/5d1jlBU5YU3hNFJwmVTKR0) | [Carolina](https://open.spotify.com/album/16MLS4M1deA7XetqvCfZ3q) | 4:36 |
+| 3823 | [Youngstown](https://open.spotify.com/track/6YmLz8uBq0uX9HkYgLzUOe) | [Deezol](https://open.spotify.com/artist/5ujrYiJqMeAmMMpC22ZLPS), [Buddha Redd](https://open.spotify.com/artist/56zrjCjfufYRkjYSQibL1x) | [Temple of Boone](https://open.spotify.com/album/2xtXCyhGVuWq0acGmGrkES) | 2:54 |
+| 3824 | [December Fields \(Distribution\)](https://open.spotify.com/track/4bddpe4brO09lyHpE7lb9N) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [December Fields](https://open.spotify.com/album/2aRIUc4AfB3f7FKwqH7MZq) | 4:06 |
 
-Snapshot ID: `AAAGfK2MmTydFf1usFZF2mLqUuak2gYN`
+Snapshot ID: `AAAGf8aGapQKV0EuLU6vC5ELJRjuThzI`

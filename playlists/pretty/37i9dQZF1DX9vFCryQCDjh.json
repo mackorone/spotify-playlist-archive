@@ -1,6 +1,6 @@
 {
   "description": "90\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 17558,
+  "num_followers": 17565,
   "original_name": "90\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
         }
       ],
-      "duration_ms": 243488,
-      "name": "\uc2ac\ud37c\uc9c0\ub824\ud558\uae30\uc804\uc5d0",
-      "url": "https://open.spotify.com/track/2TmvAnJwf0APYJBnGDg4N4"
+      "duration_ms": 209659,
+      "name": "\uc560\uc0c1",
+      "url": "https://open.spotify.com/track/7B04nsd6Y08zVUHSZ2THj4"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
         }
       ],
-      "duration_ms": 209659,
-      "name": "\uc560\uc0c1",
-      "url": "https://open.spotify.com/track/7B04nsd6Y08zVUHSZ2THj4"
+      "duration_ms": 243488,
+      "name": "\uc2ac\ud37c\uc9c0\ub824\ud558\uae30\uc804\uc5d0",
+      "url": "https://open.spotify.com/track/2TmvAnJwf0APYJBnGDg4N4"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "Seotaiji and Boys IV",
-        "url": "https://open.spotify.com/album/6wZ64exaxdBrA0bK1zciva"
-      },
-      "artists": [
-        {
-          "name": "Seo Taiji and Boys",
-          "url": "https://open.spotify.com/artist/52Gsa9Zypqztm2DeNkQfCm"
-        }
-      ],
-      "duration_ms": 235666,
-      "name": "Come Back Home",
-      "url": "https://open.spotify.com/track/5sJTlfMwhlvspaozMic4Ca"
-    },
-    {
-      "added_at": "2024-08-05 17:06:13",
-      "album": {
         "name": "The Life\u2026 DOC Blues",
         "url": "https://open.spotify.com/album/6DfZEdkXJNI0zcEI0beG9U"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 226160,
       "name": "Run to You",
       "url": "https://open.spotify.com/track/0oDZXPwDPlx3EDVqoyBdSx"
+    },
+    {
+      "added_at": "2024-08-05 17:06:13",
+      "album": {
+        "name": "Seotaiji and Boys IV",
+        "url": "https://open.spotify.com/album/6wZ64exaxdBrA0bK1zciva"
+      },
+      "artists": [
+        {
+          "name": "Seo Taiji and Boys",
+          "url": "https://open.spotify.com/artist/52Gsa9Zypqztm2DeNkQfCm"
+        }
+      ],
+      "duration_ms": 235666,
+      "name": "Come Back Home",
+      "url": "https://open.spotify.com/track/5sJTlfMwhlvspaozMic4Ca"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "Seotaiji and Boys II",
-        "url": "https://open.spotify.com/album/2Jtnnru7rcvRnU4tywT4X7"
-      },
-      "artists": [
-        {
-          "name": "Seo Taiji and Boys",
-          "url": "https://open.spotify.com/artist/52Gsa9Zypqztm2DeNkQfCm"
-        }
-      ],
-      "duration_ms": 277160,
-      "name": "To You",
-      "url": "https://open.spotify.com/track/35gsxb0rqBnLX7G3TwCulU"
-    },
-    {
-      "added_at": "2024-08-05 17:06:13",
-      "album": {
         "name": "Chapter 3",
         "url": "https://open.spotify.com/album/0VGsALBGf70NwQBqF3LlNn"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 217146,
       "name": "\ud558\ub298\uc0c9 \ud48d\uc120",
       "url": "https://open.spotify.com/track/0xcKE4dQ8wL8EnRFhA6ahc"
+    },
+    {
+      "added_at": "2024-08-05 17:06:13",
+      "album": {
+        "name": "Seotaiji and Boys II",
+        "url": "https://open.spotify.com/album/2Jtnnru7rcvRnU4tywT4X7"
+      },
+      "artists": [
+        {
+          "name": "Seo Taiji and Boys",
+          "url": "https://open.spotify.com/artist/52Gsa9Zypqztm2DeNkQfCm"
+        }
+      ],
+      "duration_ms": 277160,
+      "name": "To You",
+      "url": "https://open.spotify.com/track/35gsxb0rqBnLX7G3TwCulU"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -747,18 +747,18 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "Traveling You",
-        "url": "https://open.spotify.com/album/7uxUZh3iA2IAvMIlSPxZV2"
+        "name": "Seotaiji and Boys",
+        "url": "https://open.spotify.com/album/53OG0dLStOizLfNxsD3LPr"
       },
       "artists": [
         {
-          "name": "Un",
-          "url": "https://open.spotify.com/artist/2k3wogLJyPnkEpb2pn3GLk"
+          "name": "Seo Taiji and Boys",
+          "url": "https://open.spotify.com/artist/52Gsa9Zypqztm2DeNkQfCm"
         }
       ],
-      "duration_ms": 265116,
-      "name": "\uc120\ubb3c",
-      "url": "https://open.spotify.com/track/50v7kJct6JL1Sm9nxml41L"
+      "duration_ms": 204320,
+      "name": "I Know - '92 TV Edit",
+      "url": "https://open.spotify.com/track/28v5XsF5Weg0SeXK3xSKcV"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -779,18 +779,18 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "Seotaiji and Boys",
-        "url": "https://open.spotify.com/album/53OG0dLStOizLfNxsD3LPr"
+        "name": "Traveling You",
+        "url": "https://open.spotify.com/album/7uxUZh3iA2IAvMIlSPxZV2"
       },
       "artists": [
         {
-          "name": "Seo Taiji and Boys",
-          "url": "https://open.spotify.com/artist/52Gsa9Zypqztm2DeNkQfCm"
+          "name": "Un",
+          "url": "https://open.spotify.com/artist/2k3wogLJyPnkEpb2pn3GLk"
         }
       ],
-      "duration_ms": 204320,
-      "name": "I Know - '92 TV Edit",
-      "url": "https://open.spotify.com/track/28v5XsF5Weg0SeXK3xSKcV"
+      "duration_ms": 265116,
+      "name": "\uc120\ubb3c",
+      "url": "https://open.spotify.com/track/50v7kJct6JL1Sm9nxml41L"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "Myself",
-        "url": "https://open.spotify.com/album/6mlVLQt9U7RD7hYWWNwoe9"
-      },
-      "artists": [
-        {
-          "name": "Kim Gun Mo",
-          "url": "https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO"
-        }
-      ],
-      "duration_ms": 239560,
-      "name": "Love is gone",
-      "url": "https://open.spotify.com/track/0DBhDnGxwmHV70ATccFPtD"
-    },
-    {
-      "added_at": "2024-08-05 17:06:13",
-      "album": {
         "name": "Seotaiji and Boys",
         "url": "https://open.spotify.com/album/53OG0dLStOizLfNxsD3LPr"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 235013,
       "name": "As the Night Goes On",
       "url": "https://open.spotify.com/track/1uczIRSpydgkLAi8kfAwwV"
+    },
+    {
+      "added_at": "2024-08-05 17:06:13",
+      "album": {
+        "name": "Myself",
+        "url": "https://open.spotify.com/album/6mlVLQt9U7RD7hYWWNwoe9"
+      },
+      "artists": [
+        {
+          "name": "Kim Gun Mo",
+          "url": "https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO"
+        }
+      ],
+      "duration_ms": 239560,
+      "name": "Love is gone",
+      "url": "https://open.spotify.com/track/0DBhDnGxwmHV70ATccFPtD"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "Cool Best",
-        "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
-      },
-      "artists": [
-        {
-          "name": "COOL",
-          "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
-        }
-      ],
-      "duration_ms": 219978,
-      "name": "\ud574\ubcc0\uc758 \uc5ec\uc778",
-      "url": "https://open.spotify.com/track/42TBLoQJ4aETzku6qEg3NF"
-    },
-    {
-      "added_at": "2024-08-05 17:06:13",
-      "album": {
         "name": "Let Me Love",
         "url": "https://open.spotify.com/album/0GanXCG4Dw1hdhb4vVSMXM"
       },
@@ -959,18 +943,18 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "Exchange Kg. M4",
-        "url": "https://open.spotify.com/album/0r7DQWB1NLwAPxC4zlQoVJ"
+        "name": "Cool Best",
+        "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
       },
       "artists": [
         {
-          "name": "Kim Gun Mo",
-          "url": "https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO"
+          "name": "COOL",
+          "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
         }
       ],
-      "duration_ms": 226266,
-      "name": "Speed",
-      "url": "https://open.spotify.com/track/3c2FIZMJrhl7BrEEKHGiG0"
+      "duration_ms": 219978,
+      "name": "\ud574\ubcc0\uc758 \uc5ec\uc778",
+      "url": "https://open.spotify.com/track/42TBLoQJ4aETzku6qEg3NF"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -987,6 +971,22 @@
       "duration_ms": 226377,
       "name": "Dash",
       "url": "https://open.spotify.com/track/1dal60q6fDKWx4Y1Xtf6tC"
+    },
+    {
+      "added_at": "2024-08-05 17:06:13",
+      "album": {
+        "name": "Exchange Kg. M4",
+        "url": "https://open.spotify.com/album/0r7DQWB1NLwAPxC4zlQoVJ"
+      },
+      "artists": [
+        {
+          "name": "Kim Gun Mo",
+          "url": "https://open.spotify.com/artist/7ueOlHsDGBjqZfjpDj4oJO"
+        }
+      ],
+      "duration_ms": 226266,
+      "name": "Speed",
+      "url": "https://open.spotify.com/track/3c2FIZMJrhl7BrEEKHGiG0"
     },
     {
       "added_at": "2024-08-05 17:06:13",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2024-08-05 17:06:13",
       "album": {
-        "name": "\ub05d\uc5c6\ub294 \uc0ac\ub791\uc744 \uafc8\uafb8\uba70",
-        "url": "https://open.spotify.com/album/2VarrkK8GFFky0LxKqbnoR"
-      },
-      "artists": [
-        {
-          "name": "\ud669\uaddc\uc601",
-          "url": "https://open.spotify.com/artist/2L6DQNg4BMFogSjX2Vi2qJ"
-        }
-      ],
-      "duration_ms": 259775,
-      "name": "\ub098\ub294 \ubb38\uc81c\uc5c6\uc5b4",
-      "url": "https://open.spotify.com/track/6lzuJ5dVXJE3baoMePiO9x"
-    },
-    {
-      "added_at": "2024-08-05 17:06:13",
-      "album": {
         "name": "#007 Another Days\u2026",
         "url": "https://open.spotify.com/album/0QMnDxAi0gDANQrGJMuxeq"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 176493,
       "name": "The woman in the rain",
       "url": "https://open.spotify.com/track/3mha9zJ31Ya9vSMhkcYnJF"
+    },
+    {
+      "added_at": "2024-08-05 17:06:13",
+      "album": {
+        "name": "\ub05d\uc5c6\ub294 \uc0ac\ub791\uc744 \uafc8\uafb8\uba70",
+        "url": "https://open.spotify.com/album/2VarrkK8GFFky0LxKqbnoR"
+      },
+      "artists": [
+        {
+          "name": "\ud669\uaddc\uc601",
+          "url": "https://open.spotify.com/artist/2L6DQNg4BMFogSjX2Vi2qJ"
+        }
+      ],
+      "duration_ms": 259775,
+      "name": "\ub098\ub294 \ubb38\uc81c\uc5c6\uc5b4",
+      "url": "https://open.spotify.com/track/6lzuJ5dVXJE3baoMePiO9x"
     },
     {
       "added_at": "2024-08-05 17:06:13",

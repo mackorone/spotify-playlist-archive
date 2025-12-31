@@ -1,12 +1,12 @@
 {
   "description": "This is Elliott Smith. The essential tracks, all in one playlist.",
-  "num_followers": 86315,
+  "num_followers": 86324,
   "original_name": "This Is Elliott Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVBzAAAAAACqv9jzmFnraT03r/reaiaS",
+  "snapshot_id": "aVHEgAAAAACqtEZmZzRPuMsz7rqVq9uh",
   "tracks": [
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Either/Or: Expanded Edition",
-        "url": "https://open.spotify.com/album/0QKE0f5dMf8kc8TtlxkXtw"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 117134,
-      "name": "I Don't Think I'm Ever Gonna Figure It Out - Remixed / Remastered",
-      "url": "https://open.spotify.com/track/5aRWbpGuItECDLfjw0n1Ba"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "From a Basement on the Hill",
         "url": "https://open.spotify.com/album/4YRoxHoDrGw0LI5rxDH9Dl"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 285733,
       "name": "Pretty (Ugly Before)",
       "url": "https://open.spotify.com/track/4f76iWvbHC3mgm0hLmYKEv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Either/Or: Expanded Edition",
+        "url": "https://open.spotify.com/album/0QKE0f5dMf8kc8TtlxkXtw"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 117134,
+      "name": "I Don't Think I'm Ever Gonna Figure It Out - Remixed / Remastered",
+      "url": "https://open.spotify.com/track/5aRWbpGuItECDLfjw0n1Ba"
     },
     {
       "added_at": null,

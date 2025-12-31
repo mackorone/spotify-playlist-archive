@@ -35,6 +35,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cleansed by Fire",
+        "url": "https://open.spotify.com/album/4vPfbCaHyQmbMX6lcmq6RM"
+      },
+      "artists": [
+        {
+          "name": "JZ",
+          "url": "https://open.spotify.com/artist/4w2TwmeQrHRx3PnqLb4lN1"
+        }
+      ],
+      "duration_ms": 230433,
+      "name": "Cleansed by Fire",
+      "url": "https://open.spotify.com/track/1sS9JrjTsg7bFGg7NoNg2u"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "POV",
         "url": "https://open.spotify.com/album/10ROE0SsOAlyFPtXfeltLR"
       },
@@ -55,38 +71,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cleansed by Fire",
-        "url": "https://open.spotify.com/album/4vPfbCaHyQmbMX6lcmq6RM"
-      },
-      "artists": [
-        {
-          "name": "JZ",
-          "url": "https://open.spotify.com/artist/4w2TwmeQrHRx3PnqLb4lN1"
-        }
-      ],
-      "duration_ms": 230433,
-      "name": "Cleansed by Fire",
-      "url": "https://open.spotify.com/track/1sS9JrjTsg7bFGg7NoNg2u"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coming Back To Life",
-        "url": "https://open.spotify.com/album/3K0V0nODOqFypnIDpO23EU"
-      },
-      "artists": [
-        {
-          "name": "Yatesy",
-          "url": "https://open.spotify.com/artist/5c2qD8yESvWQivIjhc4T3A"
-        }
-      ],
-      "duration_ms": 191500,
-      "name": "Coming Back To Life",
-      "url": "https://open.spotify.com/track/5Kd2FR1p19DT26gKoaRWtd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "From Darkness",
         "url": "https://open.spotify.com/album/6F2OcyLZMcFZMLicnUYXuF"
       },
@@ -99,6 +83,22 @@
       "duration_ms": 248956,
       "name": "Falling Stars",
       "url": "https://open.spotify.com/track/1h89xz80g5LZIvnteTPHpS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Doppelganger",
+        "url": "https://open.spotify.com/album/1iakMwV4N327xJaXDYuTEq"
+      },
+      "artists": [
+        {
+          "name": "Nick Luddite",
+          "url": "https://open.spotify.com/artist/5JW6XHyFvz9WOZidRZwYq5"
+        }
+      ],
+      "duration_ms": 276000,
+      "name": "Doppelganger",
+      "url": "https://open.spotify.com/track/0oXmJgdT7jPYTjOmN2GUWY"
     },
     {
       "added_at": null,
@@ -123,18 +123,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Doppelganger",
-        "url": "https://open.spotify.com/album/1iakMwV4N327xJaXDYuTEq"
+        "name": "Dissipate",
+        "url": "https://open.spotify.com/album/5yb0VtKNpmxpoMkr2ygUW9"
       },
       "artists": [
         {
-          "name": "Nick Luddite",
-          "url": "https://open.spotify.com/artist/5JW6XHyFvz9WOZidRZwYq5"
+          "name": "KOSTIGAN",
+          "url": "https://open.spotify.com/artist/1gJc9dMWtKJOqpYhROgyxw"
         }
       ],
-      "duration_ms": 276000,
-      "name": "Doppelganger",
-      "url": "https://open.spotify.com/track/0oXmJgdT7jPYTjOmN2GUWY"
+      "duration_ms": 192796,
+      "name": "Dissipate",
+      "url": "https://open.spotify.com/track/7A4hYrGdnScu1Z6sZMqA8b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coming Back To Life",
+        "url": "https://open.spotify.com/album/3K0V0nODOqFypnIDpO23EU"
+      },
+      "artists": [
+        {
+          "name": "Yatesy",
+          "url": "https://open.spotify.com/artist/5c2qD8yESvWQivIjhc4T3A"
+        }
+      ],
+      "duration_ms": 191500,
+      "name": "Coming Back To Life",
+      "url": "https://open.spotify.com/track/5Kd2FR1p19DT26gKoaRWtd"
     },
     {
       "added_at": null,
@@ -155,54 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dissipate",
-        "url": "https://open.spotify.com/album/5yb0VtKNpmxpoMkr2ygUW9"
-      },
-      "artists": [
-        {
-          "name": "KOSTIGAN",
-          "url": "https://open.spotify.com/artist/1gJc9dMWtKJOqpYhROgyxw"
-        }
-      ],
-      "duration_ms": 192796,
-      "name": "Dissipate",
-      "url": "https://open.spotify.com/track/7A4hYrGdnScu1Z6sZMqA8b"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coronet",
-        "url": "https://open.spotify.com/album/5siQjlkTpfmu7wnkNlo1RG"
-      },
-      "artists": [
-        {
-          "name": "Black Angel",
-          "url": "https://open.spotify.com/artist/2nRqpGvZYydx4778sPDPfu"
-        }
-      ],
-      "duration_ms": 205926,
-      "name": "Christine",
-      "url": "https://open.spotify.com/track/1xRtyaNLmtr3eMWZpmzvxM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Short Way Home",
-        "url": "https://open.spotify.com/album/6r8d7Gm02NbuDcV0HiHEUe"
-      },
-      "artists": [
-        {
-          "name": "DePitcha",
-          "url": "https://open.spotify.com/artist/3hpbeTr7Si1QSiuedag8Hz"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "I Never Had The Chance - Instrumental",
-      "url": "https://open.spotify.com/track/1u5nNIXufOky5fASaMu81b"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shamanic Faultlines",
         "url": "https://open.spotify.com/album/1It4EfnVFbiNnngWvnNYvG"
       },
@@ -215,6 +183,42 @@
       "duration_ms": 179867,
       "name": "Call of the Wendigo",
       "url": "https://open.spotify.com/track/1jRF9SJgxRqqghUkFmCgGJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Send Me An Angel",
+        "url": "https://open.spotify.com/album/0nrn0tOMLbItKkxGW3IB1n"
+      },
+      "artists": [
+        {
+          "name": "DePitcha",
+          "url": "https://open.spotify.com/artist/3hpbeTr7Si1QSiuedag8Hz"
+        },
+        {
+          "name": "JUST LIZZY",
+          "url": "https://open.spotify.com/artist/6tYGjj89ayCTVopRtNF9ST"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Send Me An Angel",
+      "url": "https://open.spotify.com/track/7dJl8k3L66ij7xnI5RQfS4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Least",
+        "url": "https://open.spotify.com/album/2d7dIcTDJZep5Ebu3m2dPr"
+      },
+      "artists": [
+        {
+          "name": "Raymonirwineen",
+          "url": "https://open.spotify.com/artist/2aRZUAeCeWygtJc7mvkeap"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Least",
+      "url": "https://open.spotify.com/track/4jcdmZz76vJkLEEu8IsKkw"
     },
     {
       "added_at": null,
@@ -239,22 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Motivation",
-        "url": "https://open.spotify.com/album/2LgyCOPjEodI3FT2YEmD4G"
-      },
-      "artists": [
-        {
-          "name": "Rob Harrowven",
-          "url": "https://open.spotify.com/artist/2gLrk3xEIjYp9elFHq720N"
-        }
-      ],
-      "duration_ms": 296199,
-      "name": "Motivation - Single Edit",
-      "url": "https://open.spotify.com/track/17e23jBvaBQwFPgp0S9UfL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Feel Like A Walking Ghost",
         "url": "https://open.spotify.com/album/0Qlx6oYsXKfVaFnp2hxexj"
       },
@@ -267,6 +255,22 @@
       "duration_ms": 235706,
       "name": "Still Waters Running Deep",
       "url": "https://open.spotify.com/track/0v5g305kBL8tVh1q6b2UWo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Motivation",
+        "url": "https://open.spotify.com/album/2LgyCOPjEodI3FT2YEmD4G"
+      },
+      "artists": [
+        {
+          "name": "Rob Harrowven",
+          "url": "https://open.spotify.com/artist/2gLrk3xEIjYp9elFHq720N"
+        }
+      ],
+      "duration_ms": 296199,
+      "name": "Motivation - Single Edit",
+      "url": "https://open.spotify.com/track/17e23jBvaBQwFPgp0S9UfL"
     },
     {
       "added_at": null,
@@ -323,6 +327,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "give up",
+        "url": "https://open.spotify.com/album/5F5WRrmx5liSO4kdHrDptc"
+      },
+      "artists": [
+        {
+          "name": "Whispergun",
+          "url": "https://open.spotify.com/artist/6zyLIWkzPVFYl5VNubkOs6"
+        }
+      ],
+      "duration_ms": 338250,
+      "name": "give up",
+      "url": "https://open.spotify.com/track/3TM8uLiRoQ44JLjI5oyTtI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Poison",
         "url": "https://open.spotify.com/album/3lMSFNys1MDKE9JFfqoZZh"
       },
@@ -335,6 +355,22 @@
       "duration_ms": 387527,
       "name": "I Got It Bad",
       "url": "https://open.spotify.com/track/2vwG74jskPYPrZaKu24XAy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Short Way Home",
+        "url": "https://open.spotify.com/album/6r8d7Gm02NbuDcV0HiHEUe"
+      },
+      "artists": [
+        {
+          "name": "DePitcha",
+          "url": "https://open.spotify.com/artist/3hpbeTr7Si1QSiuedag8Hz"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "I Never Had The Chance - Instrumental",
+      "url": "https://open.spotify.com/track/1u5nNIXufOky5fASaMu81b"
     },
     {
       "added_at": null,
@@ -355,26 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Send Me An Angel",
-        "url": "https://open.spotify.com/album/0nrn0tOMLbItKkxGW3IB1n"
-      },
-      "artists": [
-        {
-          "name": "DePitcha",
-          "url": "https://open.spotify.com/artist/3hpbeTr7Si1QSiuedag8Hz"
-        },
-        {
-          "name": "JUST LIZZY",
-          "url": "https://open.spotify.com/artist/6tYGjj89ayCTVopRtNF9ST"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Send Me An Angel",
-      "url": "https://open.spotify.com/track/7dJl8k3L66ij7xnI5RQfS4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Anything According To Plan",
         "url": "https://open.spotify.com/album/27vc2qCIKAumr15deHbdc3"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 208002,
       "name": "You're Not Alone",
       "url": "https://open.spotify.com/track/0wQ3CyATsC1qjdPg9R7oTl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Least",
-        "url": "https://open.spotify.com/album/2d7dIcTDJZep5Ebu3m2dPr"
-      },
-      "artists": [
-        {
-          "name": "Raymonirwineen",
-          "url": "https://open.spotify.com/artist/2aRZUAeCeWygtJc7mvkeap"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Least",
-      "url": "https://open.spotify.com/track/4jcdmZz76vJkLEEu8IsKkw"
     },
     {
       "added_at": null,
@@ -423,18 +423,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yes I Do EP",
-        "url": "https://open.spotify.com/album/3x3QoaFqhuBIxR2j1hbtGK"
+        "name": "give and take",
+        "url": "https://open.spotify.com/album/6WHPWP1m7363k2z6vaipKm"
       },
       "artists": [
         {
-          "name": "M@",
-          "url": "https://open.spotify.com/artist/6NiBMHnqw4VlZUQikcfUp6"
+          "name": "Whispergun",
+          "url": "https://open.spotify.com/artist/6zyLIWkzPVFYl5VNubkOs6"
         }
       ],
-      "duration_ms": 151430,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/4XZin6WEIbTjqb0lQFZjJ5"
+      "duration_ms": 162725,
+      "name": "forever world",
+      "url": "https://open.spotify.com/track/2z3YRcH9TkTGDuhI80Z7tB"
     },
     {
       "added_at": null,
@@ -459,70 +459,66 @@
     {
       "added_at": null,
       "album": {
-        "name": "give up",
-        "url": "https://open.spotify.com/album/5F5WRrmx5liSO4kdHrDptc"
+        "name": "Tr\u00e4nen Aus Blut",
+        "url": "https://open.spotify.com/album/0zFVdgK5mbB94Fdu8U4u03"
       },
       "artists": [
         {
-          "name": "Whispergun",
-          "url": "https://open.spotify.com/artist/6zyLIWkzPVFYl5VNubkOs6"
+          "name": "Armin F.",
+          "url": "https://open.spotify.com/artist/6J7s0zqShr52v68ASUClSm"
         }
       ],
-      "duration_ms": 338250,
-      "name": "give up",
-      "url": "https://open.spotify.com/track/3TM8uLiRoQ44JLjI5oyTtI"
+      "duration_ms": 204000,
+      "name": "Tr\u00e4nen Aus Blut",
+      "url": "https://open.spotify.com/track/0sXugNYXjDsLXzc5X8bpQi"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Coronet",
-        "url": "https://open.spotify.com/album/5siQjlkTpfmu7wnkNlo1RG"
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/6nQJOHkTfhMcGaqY9Kv7ty"
       },
       "artists": [
         {
-          "name": "Black Angel",
-          "url": "https://open.spotify.com/artist/2nRqpGvZYydx4778sPDPfu"
+          "name": "Delay",
+          "url": "https://open.spotify.com/artist/46VHwOKaivOW3QiEsrayPB"
         }
       ],
-      "duration_ms": 333334,
-      "name": "Kiss of Death",
-      "url": "https://open.spotify.com/track/0B7crPVHaDZRhV0FsHQBWq"
+      "duration_ms": 301639,
+      "name": "Indigo",
+      "url": "https://open.spotify.com/track/1KMdBomB8g7qQtPu5ZfpAO"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Song For Brian",
-        "url": "https://open.spotify.com/album/759s7cwlnYVVEygGj4ACLg"
+        "name": "Discipline",
+        "url": "https://open.spotify.com/album/1yljmuOaYXA3AcrCHjd3tt"
       },
       "artists": [
         {
-          "name": "Jonathan Andrew Rysdon",
-          "url": "https://open.spotify.com/artist/17WbxMg28ANXPAoBP6jgj0"
-        },
-        {
-          "name": "Kevin Michael Ozias",
-          "url": "https://open.spotify.com/artist/6usveDw1gXJTzcdB3gNKSV"
+          "name": "Jyri Kannisto",
+          "url": "https://open.spotify.com/artist/6zNNpQSJzvPo7lXjhl4Pmp"
         }
       ],
-      "duration_ms": 315154,
-      "name": "Song For Brian",
-      "url": "https://open.spotify.com/track/7qnLaq2TcTyOVRcrE80pqF"
+      "duration_ms": 192000,
+      "name": "Discipline",
+      "url": "https://open.spotify.com/track/3ZAcW4sUc92H8QnoNs5Ai9"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Stepping Stone",
-        "url": "https://open.spotify.com/album/07NRtyE3rXCXswm49fN9A8"
+        "name": "bloodsports",
+        "url": "https://open.spotify.com/album/39HzHBGmHiKKa8rznT4nm6"
       },
       "artists": [
         {
-          "name": "Yatesy",
-          "url": "https://open.spotify.com/artist/5c2qD8yESvWQivIjhc4T3A"
+          "name": "REDRAW",
+          "url": "https://open.spotify.com/artist/0d5Dgm3Rwn8WatrjwGkcws"
         }
       ],
-      "duration_ms": 222309,
-      "name": "Stepping Stone",
-      "url": "https://open.spotify.com/track/1ZzWvgURb4Z7YhgnHJfW1K"
+      "duration_ms": 210789,
+      "name": "bloodsports",
+      "url": "https://open.spotify.com/track/7IXsMgRqVCUv7ZeH23D4Ba"
     },
     {
       "added_at": null,
@@ -551,86 +547,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Indigo",
-        "url": "https://open.spotify.com/album/6nQJOHkTfhMcGaqY9Kv7ty"
+        "name": "Song For Brian",
+        "url": "https://open.spotify.com/album/759s7cwlnYVVEygGj4ACLg"
       },
       "artists": [
         {
-          "name": "Delay",
-          "url": "https://open.spotify.com/artist/46VHwOKaivOW3QiEsrayPB"
-        }
-      ],
-      "duration_ms": 301639,
-      "name": "Indigo",
-      "url": "https://open.spotify.com/track/1KMdBomB8g7qQtPu5ZfpAO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "give and take",
-        "url": "https://open.spotify.com/album/6WHPWP1m7363k2z6vaipKm"
-      },
-      "artists": [
-        {
-          "name": "Whispergun",
-          "url": "https://open.spotify.com/artist/6zyLIWkzPVFYl5VNubkOs6"
-        }
-      ],
-      "duration_ms": 162725,
-      "name": "forever world",
-      "url": "https://open.spotify.com/track/2z3YRcH9TkTGDuhI80Z7tB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tr\u00e4nen Aus Blut",
-        "url": "https://open.spotify.com/album/0zFVdgK5mbB94Fdu8U4u03"
-      },
-      "artists": [
-        {
-          "name": "Armin F.",
-          "url": "https://open.spotify.com/artist/6J7s0zqShr52v68ASUClSm"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Tr\u00e4nen Aus Blut",
-      "url": "https://open.spotify.com/track/0sXugNYXjDsLXzc5X8bpQi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Discipline",
-        "url": "https://open.spotify.com/album/1yljmuOaYXA3AcrCHjd3tt"
-      },
-      "artists": [
-        {
-          "name": "Jyri Kannisto",
-          "url": "https://open.spotify.com/artist/6zNNpQSJzvPo7lXjhl4Pmp"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Discipline",
-      "url": "https://open.spotify.com/track/3ZAcW4sUc92H8QnoNs5Ai9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Takin' Out The Trash",
-        "url": "https://open.spotify.com/album/3yvLjdPXujJZBd746reFbq"
-      },
-      "artists": [
-        {
-          "name": "DePitcha",
-          "url": "https://open.spotify.com/artist/3hpbeTr7Si1QSiuedag8Hz"
+          "name": "Jonathan Andrew Rysdon",
+          "url": "https://open.spotify.com/artist/17WbxMg28ANXPAoBP6jgj0"
         },
         {
-          "name": "JUST LIZZY",
-          "url": "https://open.spotify.com/artist/6tYGjj89ayCTVopRtNF9ST"
+          "name": "Kevin Michael Ozias",
+          "url": "https://open.spotify.com/artist/6usveDw1gXJTzcdB3gNKSV"
         }
       ],
-      "duration_ms": 152000,
-      "name": "Takin' Out The Trash",
-      "url": "https://open.spotify.com/track/4ssET8R9IELNKsXXHkbMil"
+      "duration_ms": 315154,
+      "name": "Song For Brian",
+      "url": "https://open.spotify.com/track/7qnLaq2TcTyOVRcrE80pqF"
     },
     {
       "added_at": null,
@@ -651,6 +583,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Smoke & Mirrors + Other Ghosts (2025 Expanded Remaster)",
+        "url": "https://open.spotify.com/album/1imOO9BuzwPiMvxK9VfXl9"
+      },
+      "artists": [
+        {
+          "name": "The Eden House",
+          "url": "https://open.spotify.com/artist/44RZDLBmH5RPBIo4Tmfumv"
+        },
+        {
+          "name": "Monica Richards",
+          "url": "https://open.spotify.com/artist/0VAjZRwjHiYpeYZHxrYME7"
+        }
+      ],
+      "duration_ms": 332493,
+      "name": "To Believe In Something - 2025 Remaster",
+      "url": "https://open.spotify.com/track/2lU9QgyPgqlZ7BtRGk7XFO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shamanic Faultlines",
         "url": "https://open.spotify.com/album/1It4EfnVFbiNnngWvnNYvG"
       },
@@ -663,6 +615,26 @@
       "duration_ms": 263825,
       "name": "Shamanic Fault Lines",
       "url": "https://open.spotify.com/track/6X31izvNIyfffvVyIu5vQM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Zombie",
+        "url": "https://open.spotify.com/album/2bUpH20lfCVuMtmTFAMK6c"
+      },
+      "artists": [
+        {
+          "name": "DePitcha",
+          "url": "https://open.spotify.com/artist/3hpbeTr7Si1QSiuedag8Hz"
+        },
+        {
+          "name": "JUST LIZZY",
+          "url": "https://open.spotify.com/artist/6tYGjj89ayCTVopRtNF9ST"
+        }
+      ],
+      "duration_ms": 314181,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/3V8Nde6e1ziLaNsh5dxrHl"
     },
     {
       "added_at": null,
@@ -699,26 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zombie",
-        "url": "https://open.spotify.com/album/2bUpH20lfCVuMtmTFAMK6c"
-      },
-      "artists": [
-        {
-          "name": "DePitcha",
-          "url": "https://open.spotify.com/artist/3hpbeTr7Si1QSiuedag8Hz"
-        },
-        {
-          "name": "JUST LIZZY",
-          "url": "https://open.spotify.com/artist/6tYGjj89ayCTVopRtNF9ST"
-        }
-      ],
-      "duration_ms": 314181,
-      "name": "Zombie",
-      "url": "https://open.spotify.com/track/3V8Nde6e1ziLaNsh5dxrHl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Embers Are My Crown",
         "url": "https://open.spotify.com/album/7pRniM5SuqfWgqFTpzpyWC"
       },
@@ -731,42 +683,6 @@
       "duration_ms": 252461,
       "name": "Embers Are My Crown",
       "url": "https://open.spotify.com/track/21NMXyzPTTR5SQAMLzGqgL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Smoke & Mirrors + Other Ghosts (2025 Expanded Remaster)",
-        "url": "https://open.spotify.com/album/1imOO9BuzwPiMvxK9VfXl9"
-      },
-      "artists": [
-        {
-          "name": "The Eden House",
-          "url": "https://open.spotify.com/artist/44RZDLBmH5RPBIo4Tmfumv"
-        },
-        {
-          "name": "Monica Richards",
-          "url": "https://open.spotify.com/artist/0VAjZRwjHiYpeYZHxrYME7"
-        }
-      ],
-      "duration_ms": 332493,
-      "name": "To Believe In Something - 2025 Remaster",
-      "url": "https://open.spotify.com/track/2lU9QgyPgqlZ7BtRGk7XFO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "bloodsports",
-        "url": "https://open.spotify.com/album/39HzHBGmHiKKa8rznT4nm6"
-      },
-      "artists": [
-        {
-          "name": "REDRAW",
-          "url": "https://open.spotify.com/artist/0d5Dgm3Rwn8WatrjwGkcws"
-        }
-      ],
-      "duration_ms": 210789,
-      "name": "bloodsports",
-      "url": "https://open.spotify.com/track/7IXsMgRqVCUv7ZeH23D4Ba"
     },
     {
       "added_at": null,
@@ -819,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Smoking DMT With Carl Jung",
-        "url": "https://open.spotify.com/album/6FU2JWQvOoe2SxajQIGgVw"
-      },
-      "artists": [
-        {
-          "name": "The Library Is On Fire",
-          "url": "https://open.spotify.com/artist/7wog7Uyk4FsbXcilG0FzUA"
-        }
-      ],
-      "duration_ms": 245507,
-      "name": "Smoking DMT With Carl Jung - Radio Edit",
-      "url": "https://open.spotify.com/track/7LbCGM60ObqGQoZhTLYG3z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hit The Floor",
         "url": "https://open.spotify.com/album/6QljszzGUK8HaXFUnnlher"
       },
@@ -851,6 +751,94 @@
     {
       "added_at": null,
       "album": {
+        "name": "Smoking DMT With Carl Jung",
+        "url": "https://open.spotify.com/album/6FU2JWQvOoe2SxajQIGgVw"
+      },
+      "artists": [
+        {
+          "name": "The Library Is On Fire",
+          "url": "https://open.spotify.com/artist/7wog7Uyk4FsbXcilG0FzUA"
+        }
+      ],
+      "duration_ms": 245507,
+      "name": "Smoking DMT With Carl Jung - Radio Edit",
+      "url": "https://open.spotify.com/track/7LbCGM60ObqGQoZhTLYG3z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Midtown Madness",
+        "url": "https://open.spotify.com/album/5ajBTwKD1amVvWsFATDlUP"
+      },
+      "artists": [
+        {
+          "name": "Poor Bambi",
+          "url": "https://open.spotify.com/artist/4GvgWv8CdOC1wDhLx78N7T"
+        }
+      ],
+      "duration_ms": 215103,
+      "name": "Midtown Madness",
+      "url": "https://open.spotify.com/track/2DG9MTH25nm6XwlacFtKQJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Takin' Out The Trash",
+        "url": "https://open.spotify.com/album/3yvLjdPXujJZBd746reFbq"
+      },
+      "artists": [
+        {
+          "name": "DePitcha",
+          "url": "https://open.spotify.com/artist/3hpbeTr7Si1QSiuedag8Hz"
+        },
+        {
+          "name": "JUST LIZZY",
+          "url": "https://open.spotify.com/artist/6tYGjj89ayCTVopRtNF9ST"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Takin' Out The Trash",
+      "url": "https://open.spotify.com/track/4ssET8R9IELNKsXXHkbMil"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "UNITED",
+        "url": "https://open.spotify.com/album/1iueiJNJ0gqeItdChNLCls"
+      },
+      "artists": [
+        {
+          "name": "Broken Star",
+          "url": "https://open.spotify.com/artist/7jixBxoSPjyr8LXJaa8TX6"
+        }
+      ],
+      "duration_ms": 291272,
+      "name": "Breaking (UNITED)",
+      "url": "https://open.spotify.com/track/3rqeeCPdwK1LCPxLrTe5t9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "House of Harm on Audiotree Live",
+        "url": "https://open.spotify.com/album/1WkcIqOqP4ksVE1pPPNd0p"
+      },
+      "artists": [
+        {
+          "name": "House of Harm",
+          "url": "https://open.spotify.com/artist/52LAFBBP0K0Q4ONm8r8OVX"
+        },
+        {
+          "name": "Audiotree",
+          "url": "https://open.spotify.com/artist/1j8QyWpOJKAe6Iw2KvEg2j"
+        }
+      ],
+      "duration_ms": 184872,
+      "name": "Soaked In Pastel - Audiotree Live Version",
+      "url": "https://open.spotify.com/track/72nNLvthQAGTMIPu0uekUU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Kill the Beat",
         "url": "https://open.spotify.com/album/6OXleFUayDl4kkOIJSfTuU"
       },
@@ -863,6 +851,22 @@
       "duration_ms": 206791,
       "name": "Kill the Beat",
       "url": "https://open.spotify.com/track/0C4rH4BkiRm8AIAeIgFmqD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quiet Ones",
+        "url": "https://open.spotify.com/album/4xTvdnJX2znAjHZgR2iJgO"
+      },
+      "artists": [
+        {
+          "name": "Breakaway-NE",
+          "url": "https://open.spotify.com/artist/41xvSQQalPMUEEMESzNnxo"
+        }
+      ],
+      "duration_ms": 190480,
+      "name": "Quiet Ones",
+      "url": "https://open.spotify.com/track/7nkhh20RXO5pCuXepkosz5"
     }
   ],
   "unique_name": "DePitcha Radio",

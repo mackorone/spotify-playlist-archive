@@ -1,12 +1,12 @@
 {
   "description": "This is Sophie Ellis-Bextor. The essential tracks, all in one playlist.",
-  "num_followers": 20524,
+  "num_followers": 20523,
   "original_name": "This Is Sophie Ellis-Bextor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVBzAAAAAABBIvozA9wQO/qb99SQn6QQ",
+  "snapshot_id": "aVHEgAAAAABqLCmCuWcrhV06UYwmYmAN",
   "tracks": [
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
         }
       ],
-      "duration_ms": 243008,
-      "name": "Relentless Love",
-      "url": "https://open.spotify.com/track/24REwt3hGvBJVsUrWEMYJo"
+      "duration_ms": 187557,
+      "name": "Stay On Me",
+      "url": "https://open.spotify.com/track/2PtLFjdYbFdbXn4qYX5Y0L"
     },
     {
       "added_at": null,
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
         }
       ],
-      "duration_ms": 201422,
-      "name": "Glamorous",
-      "url": "https://open.spotify.com/track/21phwdMQD03XnSLUD9MRBg"
+      "duration_ms": 243008,
+      "name": "Relentless Love",
+      "url": "https://open.spotify.com/track/24REwt3hGvBJVsUrWEMYJo"
     },
     {
       "added_at": null,
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
         }
       ],
-      "duration_ms": 187557,
-      "name": "Stay On Me",
-      "url": "https://open.spotify.com/track/2PtLFjdYbFdbXn4qYX5Y0L"
+      "duration_ms": 201422,
+      "name": "Glamorous",
+      "url": "https://open.spotify.com/track/21phwdMQD03XnSLUD9MRBg"
     },
     {
       "added_at": null,
@@ -379,26 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hypnotized",
-        "url": "https://open.spotify.com/album/2XQSL4TRLtFvJhEKoLnY5U"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        },
-        {
-          "name": "Wuh Oh",
-          "url": "https://open.spotify.com/artist/48AHKCezlxWjPfE4FLf0b8"
-        }
-      ],
-      "duration_ms": 182799,
-      "name": "Hypnotized",
-      "url": "https://open.spotify.com/track/5Ika1wiAaVETLx29jvWTTb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Crown Jewels - Ten Crowns (DELUXE)",
         "url": "https://open.spotify.com/album/424ucCJYFDFZxz5icFVk2R"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 204519,
       "name": "The Calming",
       "url": "https://open.spotify.com/track/7JqPicp7t2SgXngVUuihtF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hypnotized",
+        "url": "https://open.spotify.com/album/2XQSL4TRLtFvJhEKoLnY5U"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        },
+        {
+          "name": "Wuh Oh",
+          "url": "https://open.spotify.com/artist/48AHKCezlxWjPfE4FLf0b8"
+        }
+      ],
+      "duration_ms": 182799,
+      "name": "Hypnotized",
+      "url": "https://open.spotify.com/track/5Ika1wiAaVETLx29jvWTTb"
     },
     {
       "added_at": null,
@@ -583,22 +583,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Visions, Vol. 1",
-        "url": "https://open.spotify.com/album/4u118aJAyUdQmQAmyTdSyb"
+        "name": "HANA",
+        "url": "https://open.spotify.com/album/4Gm8SAIYcUiN3KA72ESlbg"
       },
       "artists": [
-        {
-          "name": "Lufthaus",
-          "url": "https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU"
-        },
         {
           "name": "Sophie Ellis-Bextor",
           "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
         }
       ],
-      "duration_ms": 210528,
-      "name": "Immortal",
-      "url": "https://open.spotify.com/track/0nzVN0Ln1nnN5eSSUSmztb"
+      "duration_ms": 253480,
+      "name": "Beyond the Universe",
+      "url": "https://open.spotify.com/track/5z1sSzaT88bKvcKxS2Yr39"
     },
     {
       "added_at": null,
@@ -619,18 +615,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "HANA",
-        "url": "https://open.spotify.com/album/4Gm8SAIYcUiN3KA72ESlbg"
+        "name": "Visions, Vol. 1",
+        "url": "https://open.spotify.com/album/4u118aJAyUdQmQAmyTdSyb"
       },
       "artists": [
+        {
+          "name": "Lufthaus",
+          "url": "https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU"
+        },
         {
           "name": "Sophie Ellis-Bextor",
           "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
         }
       ],
-      "duration_ms": 253480,
-      "name": "Beyond the Universe",
-      "url": "https://open.spotify.com/track/5z1sSzaT88bKvcKxS2Yr39"
+      "duration_ms": 210528,
+      "name": "Immortal",
+      "url": "https://open.spotify.com/track/0nzVN0Ln1nnN5eSSUSmztb"
     },
     {
       "added_at": null,
@@ -655,6 +655,22 @@
       "duration_ms": 242000,
       "name": "Sweet Dreams (Are Made of This)",
       "url": "https://open.spotify.com/track/7vtTgudRRMotrLkxw5A4vx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HANA",
+        "url": "https://open.spotify.com/album/4Gm8SAIYcUiN3KA72ESlbg"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 253293,
+      "name": "Breaking the Circle",
+      "url": "https://open.spotify.com/track/4Y0JKqL9Sa7tFHEj8BHvrV"
     },
     {
       "added_at": null,
@@ -695,22 +711,6 @@
       "duration_ms": 234613,
       "name": "Come with Us",
       "url": "https://open.spotify.com/track/43n5mksAK5DmDSRnuv6hVV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HANA",
-        "url": "https://open.spotify.com/album/4Gm8SAIYcUiN3KA72ESlbg"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 253293,
-      "name": "Breaking the Circle",
-      "url": "https://open.spotify.com/track/4Y0JKqL9Sa7tFHEj8BHvrV"
     },
     {
       "added_at": null,
@@ -847,22 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Make a Scene",
-        "url": "https://open.spotify.com/album/44CSNV2cfDftmXosTXfwI0"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 273915,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/4LNRBwnx53haxMj2rF0BWr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HANA",
         "url": "https://open.spotify.com/album/4Gm8SAIYcUiN3KA72ESlbg"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 289906,
       "name": "Everything is Sweet",
       "url": "https://open.spotify.com/track/5xk0BQteKbykX7Ih1VuX5a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Make a Scene",
+        "url": "https://open.spotify.com/album/44CSNV2cfDftmXosTXfwI0"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 273915,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/4LNRBwnx53haxMj2rF0BWr"
     }
   ],
   "unique_name": "This Is Sophie Ellis-Bextor",

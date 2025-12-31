@@ -4,7 +4,7 @@
 
 > Warm indie dance vibes 🌞 the music you need at golden hour
 
-632 songs - 1 day 14 hr 53 min
+633 songs - 1 day 14 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [1:45AM \(feat\. Bearface\)](https://open.spotify.com/track/7dmcTMq4saNeKIBmG3m6Tq) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd), [Bearface](https://open.spotify.com/artist/7yjWDiLDpsHxobHP1fWYh8) | [1:45AM \(feat\. Bearface\)](https://open.spotify.com/album/07jqb6FPwDeCOAtBg7tHjc) | 3:21 | 2020-12-22 | 2022-04-18 |
 | [1night](https://open.spotify.com/track/6NgFdt2XvqRacjK0BPgMi8) | [Daddy NAT](https://open.spotify.com/artist/49ZFag40tJxY9Q9kF0hp3B) | [1night](https://open.spotify.com/album/4HsTyyFCQ8XZodp9l4rHya) | 2:54 | 2022-05-13 | 2022-06-04 |
 | [2 AM](https://open.spotify.com/track/06nXt6ESO6FzbvD5QQ1Eqj) | [Antonio Barret](https://open.spotify.com/artist/3jtRUMSuGAGh58k0zWQOyP), [Nice Guys](https://open.spotify.com/artist/3FPxmqqMdZu3QiIhfyZhyN) | [2 AM](https://open.spotify.com/album/3Mf73h0N9s0N9fMyTWA2rC) | 3:40 | 2024-02-13 | 2025-01-18 |
+| [45](https://open.spotify.com/track/1udG86M7sSyELAIlLeRdMM) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [45](https://open.spotify.com/album/1VDOnz8xGPqycmnzHaxkEE) | 3:17 | 2025-12-12 |  |
 | [6's to 9's \(feat\. Rationale\)](https://open.spotify.com/track/4DAaQ5InUO23d8yNRbB0Yj) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA), [Rationale](https://open.spotify.com/artist/2IQDM5URYGYfSMmwhTCmyy) | [Superdream](https://open.spotify.com/album/7LZAgsQQr0cm61SmUdgKlz) | 3:26 | 2022-05-13 | 2022-06-04 |
 | [875 Dollars](https://open.spotify.com/track/0Z5onPOaXhY85ZSPMeLLNl) | [De Lux](https://open.spotify.com/artist/6go0iwCisHtnyywarV5OEZ) | [875 Dollars](https://open.spotify.com/album/3V5VuiwOT6klao54o6veS7) | 5:59 | 2020-12-22 | 2022-04-21 |
 | [:\)](https://open.spotify.com/track/36YY9Yeq3XastTeC1e0VmN) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [:\)](https://open.spotify.com/album/6UHK8Ur2u73SSq62gwsmFo) | 3:00 | 2024-06-21 | 2024-08-17 |
@@ -367,7 +368,7 @@
 | [Most Really Pretty Girls Have Pretty Ugly Feet](https://open.spotify.com/track/1kgHjcE0F72RDkaA8adtXG) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [If This Is House I Want My Money Back 3](https://open.spotify.com/album/5hFiYTq5w37WmW7Bx2mwHh) | 4:45 | 2020-12-22 | 2024-04-19 |
 | [Motions](https://open.spotify.com/track/3D81x9iBQu5Q0Xqhr5k8JV) | [Florian Hope](https://open.spotify.com/artist/4ugVS3CJ6GIxUX24WXXrcN) | [Motions](https://open.spotify.com/album/1nKbm1qYmxHKXHplTVna51) | 3:10 | 2025-07-12 |  |
 | [Move You](https://open.spotify.com/track/636Tfd3B6teJFB3L6ToVkC) | [Night Tales](https://open.spotify.com/artist/7lCWd42OYd5Rn7UbozbA6R) | [Move You](https://open.spotify.com/album/6eLtqlfzQJwz5o0bOYrtNg) | 3:47 | 2020-12-22 | 2022-04-21 |
-| [Music On The Radio](https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Music On The Radio](https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv) | 2:56 | 2024-05-17 |  |
+| [Music On The Radio](https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Music On The Radio](https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv) | 2:56 | 2024-05-17 | 2025-12-31 |
 | [Music Sounds Better With You](https://open.spotify.com/track/0GL1ye91pT3nJIQzXwncG2) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Music Sounds Better With You](https://open.spotify.com/album/143dMy2NJalRNn5AdOA8AI) | 3:18 | 2020-12-22 | 2022-07-29 |
 | [Music Sounds Better with You](https://open.spotify.com/track/1vMGIZbIkpaLSagdF2ygcV) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Music Sounds Better with You](https://open.spotify.com/album/3HRJBkat1hIUQJ7f8maIDK) | 3:18 | 2020-12-22 | 2024-04-19 |
 | [Must Be Love](https://open.spotify.com/track/4sVKF8qaWjwt9WatIfXAHU) | [Tseba](https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf), [Electric Fields](https://open.spotify.com/artist/06SobozDGSP0TMCYgMW0M5) | [Must Be Love](https://open.spotify.com/album/1PR80skl33OD99DCwsZRlo) | 4:30 | 2024-04-19 | 2024-05-11 |

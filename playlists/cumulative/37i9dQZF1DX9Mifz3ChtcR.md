@@ -4,7 +4,7 @@
 
 > Calming  ambient soundscapes to soothe your little friend.
 
-251 songs - 11 hr 40 min
+258 songs - 12 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [All](https://open.spotify.com/track/1z0ViNyO1azQQXHPLi0AI4) | [Iota Psi](https://open.spotify.com/artist/6mkoUM994JIaNGMTix01yW) | [All](https://open.spotify.com/album/6iBPX6L0MNHD57U77jUXnI) | 2:50 | 2025-10-08 |  |
 | [All the stars](https://open.spotify.com/track/3bKCh1q0CTDRZJ0a7OtwkR) | [Arya Shae](https://open.spotify.com/artist/5jTigCDuv898J4oTRvco0w) | [All the stars](https://open.spotify.com/album/37arZEnvnYlXMMxkiRI8Fy) | 3:06 | 2025-05-13 |  |
 | [Alone Hours](https://open.spotify.com/track/4eQStNR5mG3bIfo0ncssep) | [Palaestrio](https://open.spotify.com/artist/5sXyHDr8pH922zvnRRLCb4) | [Alone Hours](https://open.spotify.com/album/2JjSANGaR0NVdiWzJfRopy) | 2:38 | 2025-05-13 |  |
+| [Always](https://open.spotify.com/track/73dpZNRYHoV9Rg4hAnWkWE) | [Gabby Laurent](https://open.spotify.com/artist/7cAeiCQXUfj7orfW6pkemk) | [Always](https://open.spotify.com/album/2sA7l74btbfRrgWC9GjUF2) | 3:19 | 2025-12-30 |  |
 | [Amarante Spaces](https://open.spotify.com/track/0p5OPgjRyW7SKNPIL2RoPj) | [Les Coralines](https://open.spotify.com/artist/595oUO0bgLQxuQ28hBcPSm) | [Amarante Spaces](https://open.spotify.com/album/3eOhtouLkjUfrzuyKWIww9) | 2:39 | 2025-05-13 |  |
 | [Amaranth](https://open.spotify.com/track/0fmDsC5R1LOlyxZeP8RL2D) | [Soreal](https://open.spotify.com/artist/6aKdCt74aU69zEcGQVdAlI) | [Amaranth](https://open.spotify.com/album/3c9pV0bTAJLhFXhZQ92oln) | 3:06 | 2025-05-13 |  |
 | [Amethyst](https://open.spotify.com/track/1gWGkXJD70K2za6joesFA6) | [Tristan Axvall](https://open.spotify.com/artist/79hIyTprTNhtNGjYBW42s1) | [Amethyst](https://open.spotify.com/album/4UQuwrnHta01hf9yg4mouy) | 3:01 | 2025-11-06 |  |
@@ -149,6 +150,7 @@
 | [Mareal](https://open.spotify.com/track/4iu48eexKCxIFPEJZy7TWA) | [Pause Infinite](https://open.spotify.com/artist/4NTIPVymM4fpFJe8RfWb4h) | [Mareal](https://open.spotify.com/album/7vK0YLeUARrcgfQDGy9VdA) | 2:27 | 2025-05-13 |  |
 | [Meditations Pt 4](https://open.spotify.com/track/7KerNojT5v12nQjmk9OGbm) | [Estado De Calma](https://open.spotify.com/artist/0E1GrT0XtW2bcQvEuu7ajV) | [Meditations Pt 4](https://open.spotify.com/album/0EVBf4Gj6ot7u6LCRUHUeY) | 3:00 | 2025-05-13 | 2025-11-07 |
 | [Memories](https://open.spotify.com/track/5CaLHoQnLcAfitGKUxgA7V) | [Ava Mills](https://open.spotify.com/artist/0hddNnCOE55jYZXTVyvEDj) | [Memories](https://open.spotify.com/album/75e5WZFwDqkfMsqIIdHUiT) | 3:03 | 2025-07-23 |  |
+| [Millennium](https://open.spotify.com/track/4jJmBjYacbKDRKb5MSFljU) | [Danyel Hayes](https://open.spotify.com/artist/2ghpDjW2klABmowNTOH18u) | [Millennium](https://open.spotify.com/album/41VVXTTAvdCCyuQe4rkqae) | 2:43 | 2025-12-30 |  |
 | [Mirage](https://open.spotify.com/track/2SxlQy0TBNVBlsd6o9ArWJ) | [Cael Lunor](https://open.spotify.com/artist/2LpnVQdlKLHTJZSd68cARu) | [Mirage](https://open.spotify.com/album/5wizkCq1nFwWvkMBilRJW6) | 2:34 | 2025-12-10 |  |
 | [Miss You](https://open.spotify.com/track/0N2yLGwPZFb3K9JZRfJbCW) | [Other Phantom](https://open.spotify.com/artist/5kcDonGebmj0ZGi8e2PCf7) | [Miss You](https://open.spotify.com/album/4SXt6Ns8JE6n4FAxo0N32m) | 2:34 | 2025-05-13 |  |
 | [Moonlight Reverie](https://open.spotify.com/track/36EU3fJ39ihd5ZBOlf7Gc9) | [Sean Altar](https://open.spotify.com/artist/3Jo70Smt1IRBEAGBeXnczk) | [Moonlight Reverie](https://open.spotify.com/album/6YHNXDLHpCMJW7GMNkvHN1) | 2:54 | 2025-05-13 |  |
@@ -174,6 +176,7 @@
 | [Prism Locus](https://open.spotify.com/track/65DaEKtVyWIwVAVLomeI88) | [Chrastigel](https://open.spotify.com/artist/4AxST7mawxtkURrDeHSe7z) | [Prism Locus](https://open.spotify.com/album/18KYtsMDAaVUeTtonMYHFe) | 2:43 | 2025-12-10 |  |
 | [Prologue](https://open.spotify.com/track/5ulPvND5829hCi0GDznWms) | [Galaxarastra](https://open.spotify.com/artist/4dLb1ptXOGo5ibde68Jy2b) | [Prologue](https://open.spotify.com/album/7uvt24faM4mdMp9obEUuiO) | 2:33 | 2025-05-13 |  |
 | [Quiet Reflections](https://open.spotify.com/track/2q1V9nN8Rwotk7fBBGVO2F) | [Chasing Storms](https://open.spotify.com/artist/12Gz0AKNrCzOwYPuURs7ux) | [Quiet Reflections](https://open.spotify.com/album/42jiuXWVWdsmMZnCWH6TeY) | 2:22 | 2025-05-13 |  |
+| [Quietly](https://open.spotify.com/track/3xK4yfDhlEzFt3ctMXnj01) | [Silentia Dua](https://open.spotify.com/artist/22dnOtQGFrsEaYqiLOCJqT) | [Quietly](https://open.spotify.com/album/7xBJUgH35NHmnfpGR76U9m) | 2:38 | 2025-12-30 |  |
 | [Radiance](https://open.spotify.com/track/0pUHdRvyYKfBuoZEjGE9MS) | [Novah Scotia](https://open.spotify.com/artist/5ia5OA1CXgepgiV8qnsfE0) | [Radiance](https://open.spotify.com/album/4ZLQEiOsBgcTSiPn9SFoll) | 2:35 | 2025-05-13 |  |
 | [Recovery](https://open.spotify.com/track/0hlrbDOuT4q6U1T3puuATw) | [Dhanura](https://open.spotify.com/artist/6mAaAXGrtsOjqcgbzsCAaW) | [Recovery](https://open.spotify.com/album/741EFHVyF5BKk08X4DgLKG) | 2:45 | 2025-05-13 | 2025-11-07 |
 | [Reflecting](https://open.spotify.com/track/4BF9ceXqOhTjJvCHNMaNwJ) | [Jaumey](https://open.spotify.com/artist/5rKn2xAv2XuWjf5EdlTc20) | [Reflecting](https://open.spotify.com/album/3xTfCOI4KG3WAgVhLRFNM3) | 2:33 | 2025-06-12 |  |
@@ -181,6 +184,7 @@
 | [Relieved](https://open.spotify.com/track/2dYELJWgR7IWLen7tRNOlp) | [Taylor Dawson](https://open.spotify.com/artist/7triIHgYSjbQ6ahcPBgicy) | [Relieved](https://open.spotify.com/album/3obKQmNFBoCv9PMlwI3PSa) | 2:50 | 2025-05-13 |  |
 | [Resolution](https://open.spotify.com/track/3DZVxREw3SeTgr6ZLMrbpz) | [Dominum Nominum](https://open.spotify.com/artist/7okwKwX9ydmNTjwXXdgBO4) | [Resolution](https://open.spotify.com/album/5r4WZO0259iZTYsKV6jMnO) | 2:35 | 2025-05-13 |  |
 | [Resonance](https://open.spotify.com/track/1oUNwqCaSA4qwlljS65Za7) | [Joseph Sai](https://open.spotify.com/artist/7tVx3YEKyoSaM7CcmlneBc) | [Resonance](https://open.spotify.com/album/3dustp1y3lVgiQtmkHBrru) | 2:48 | 2025-05-13 |  |
+| [Resonance](https://open.spotify.com/track/1yBFqMo2Zh7hvR9hp40Xug) | [Safe Mode](https://open.spotify.com/artist/6KFL33sWMW7F09rQqeZbDE) | [Resonance](https://open.spotify.com/album/0Ce7TI10yqu502hwCM5wo6) | 2:42 | 2025-12-30 |  |
 | [restless](https://open.spotify.com/track/5ZQD2Svsao61O8hSJLWbih) | [Chasing Storms](https://open.spotify.com/artist/12Gz0AKNrCzOwYPuURs7ux) | [restless](https://open.spotify.com/album/3BxForw9aGlxjbLmjwKmi7) | 2:45 | 2025-05-13 |  |
 | [Returning Flame](https://open.spotify.com/track/6ty6rz7S5xZksyh93caKiE) | [Najia](https://open.spotify.com/artist/4qgxof0FH2zmybTkwjzuw1) | [Returning Flame](https://open.spotify.com/album/4m1Z5eI8PpyNUfZj3zdDfP) | 2:40 | 2025-06-23 |  |
 | [Rise](https://open.spotify.com/track/2RiQMgWZCc5Zv4MsLQF5Mc) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [Rise](https://open.spotify.com/album/5ldR9U5iLHpdwekHbyofB1) | 2:46 | 2025-05-13 |  |
@@ -194,6 +198,7 @@
 | [Seaglass](https://open.spotify.com/track/4dmHjWBagrbss7m8vfzOv9) | [So Lis](https://open.spotify.com/artist/79guO4ndu3WasS8qTpee8n) | [Seaglass](https://open.spotify.com/album/2F1lwqdVe5XlehZYPLyGbS) | 2:36 | 2025-05-13 |  |
 | [Second Coming](https://open.spotify.com/track/0TQaGzrfAUJ69TxEHdqPoc) | [Rholdyn](https://open.spotify.com/artist/4ktfzrkBglLNINMa5B6yEQ) | [Second Coming](https://open.spotify.com/album/0kNdUbDTATswhc2W8w1tBW) | 3:13 | 2025-05-13 |  |
 | [Sense](https://open.spotify.com/track/1uId9bs7ByBNCdiKALuDa3) | [Noble S](https://open.spotify.com/artist/16I5ZrxxRz1JXlj8emMyKU) | [Sense](https://open.spotify.com/album/4NzBXoDrdZUoB4m3nykMD2) | 3:16 | 2025-05-13 |  |
+| [Silent and Still](https://open.spotify.com/track/7osUkeYmPN9ClbdB0sOYHt) | [Eartharmonics](https://open.spotify.com/artist/28mf6WqvVAsOevoY6A2oB7) | [Silent and Still](https://open.spotify.com/album/7uLmJeHJCi49VL28BcjXgC) | 3:14 | 2025-12-30 |  |
 | [Silent Drift](https://open.spotify.com/track/6kWumlCDtTepB8MBxMwL1E) | [Ortio](https://open.spotify.com/artist/3DZCw9pq9uA8YvordxZa4i) | [Silent Drift](https://open.spotify.com/album/1FJy7mpezh98QXyis9e2LM) | 2:10 | 2025-10-08 |  |
 | [Silent Radiance](https://open.spotify.com/track/7egeoxBW8HTYgDs8fC3om4) | [Universal Embrace](https://open.spotify.com/artist/5gHFFsg1nxyuK4dwL7eEpY) | [Silent Radiance](https://open.spotify.com/album/12JBg89BnbiQqw2HBdkjt0) | 2:48 | 2025-05-13 |  |
 | [Silentia](https://open.spotify.com/track/7mSQmMdMQcUJmdRoIYVmjR) | [Calmative](https://open.spotify.com/artist/4jdsVahXLyNHILghPDbeQt) | [Silentia](https://open.spotify.com/album/2JS8LbARJztUVfyLDgPYuj) | 2:43 | 2025-10-08 |  |
@@ -203,7 +208,9 @@
 | [Skyline](https://open.spotify.com/track/26fdhHGpHp8N564uGg4gfM) | [Benjamin Rhey](https://open.spotify.com/artist/1hD3DmoEBRAveULl3BCFGe) | [Skyline](https://open.spotify.com/album/2cKaAraITNUB3nqn0Ybnb5) | 2:45 | 2025-12-10 |  |
 | [Skyros](https://open.spotify.com/track/2QlArTbF5oX223uWlvdDBM) | [Pillow Dalliance](https://open.spotify.com/artist/6DM6WLvwOHMENEbAd4jbFN) | [Skyros](https://open.spotify.com/album/3FqhhiBA8NR7fxAA7aMk4J) | 3:04 | 2025-05-13 |  |
 | [Sleep Horizon](https://open.spotify.com/track/4hI4ACrlmcp0L8bYA0vLIg) | [Festooned](https://open.spotify.com/artist/7BgkbpnZBHX23LPETY44Kc) | [Sleep Horizon](https://open.spotify.com/album/4tJqFAAs3UrceKhJ2uAUmQ) | 3:02 | 2025-11-06 |  |
+| [sleeping on it](https://open.spotify.com/track/3qX9IyNohRmbocCdiRCxJy) | [mello tones](https://open.spotify.com/artist/6uznrOUBbzlcQMDkAgvMnn) | [sleeping on it](https://open.spotify.com/album/6uUJintx5RnJ54NSh5mRqa) | 2:51 | 2025-12-30 |  |
 | [Slumber](https://open.spotify.com/track/2VvOFnEEclfTlH1NkZMPjU) | [Roy Grall](https://open.spotify.com/artist/2ZFF1blZGfmGzHvdApJnI2) | [Slumber](https://open.spotify.com/album/0aZHpxf80fFvBupHpnZCiF) | 2:24 | 2025-10-08 |  |
+| [Soft Oasis](https://open.spotify.com/track/64k63iNKMg0rf5lkOQoQZr) | [Inner Oasis](https://open.spotify.com/artist/0KXkOnI2jbPjGUYNtOzy2s) | [Soft Oasis](https://open.spotify.com/album/0q24WF80RsUdt8A2aPF8y0) | 3:03 | 2025-12-30 |  |
 | [Soft Static](https://open.spotify.com/track/4Z8PLHncbgQcV6McYPySzn) | [Opheralis](https://open.spotify.com/artist/0Od9SGUAy2CmML18azdlVc) | [Soft Static](https://open.spotify.com/album/7elSNA7coj7UFXkhxxfttg) | 2:36 | 2025-06-12 |  |
 | [Soft Touch](https://open.spotify.com/track/0oX18JSbFCAyuMcwdA0xFC) | [Calmative](https://open.spotify.com/artist/4jdsVahXLyNHILghPDbeQt) | [Soft Touch](https://open.spotify.com/album/1Sbz2cE0keAMysS2ugA8ST) | 2:53 | 2025-10-08 |  |
 | [Softly](https://open.spotify.com/track/4fEfd6uQYMk8D54SkioTTi) | [Ephermal Nights](https://open.spotify.com/artist/4MAkMNGGrVdSVVhNKLZGeV) | [Softly](https://open.spotify.com/album/4MJ0KxMk6rpyQwF7AT0ERr) | 3:10 | 2025-05-13 |  |

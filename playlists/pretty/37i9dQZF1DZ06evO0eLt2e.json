@@ -1,12 +1,12 @@
 {
   "description": "This is Kris Kristofferson. The essential tracks, all in one playlist.",
-  "num_followers": 31483,
+  "num_followers": 31485,
   "original_name": "This Is Kris Kristofferson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVBzAAAAAAB6H/QzI/y1kcHaAQ6syv96",
+  "snapshot_id": "aVHEgAAAAACxM+SkBqOfQ4kzosyokdZq",
   "tracks": [
     {
       "added_at": null,
@@ -403,22 +403,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Full Moon (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3Xnjlj4aJadxwLfdd1QYkF"
+        "name": "The Silver Tongued Devil and I",
+        "url": "https://open.spotify.com/album/4wj7dvOFqAEIiFS1WbpQdw"
       },
       "artists": [
         {
           "name": "Kris Kristofferson",
           "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        },
-        {
-          "name": "Rita Coolidge",
-          "url": "https://open.spotify.com/artist/1vnIL4DMlivP55ioM6KitW"
         }
       ],
-      "duration_ms": 226146,
-      "name": "Loving Arms",
-      "url": "https://open.spotify.com/track/2BR7FF7KdaL1ygxVJ39Iad"
+      "duration_ms": 230757,
+      "name": "Loving Her Was Easier (Than Anything I'll Ever Do Again)",
+      "url": "https://open.spotify.com/track/0F56GAWK57E3iXohy9rCmT"
     },
     {
       "added_at": null,
@@ -519,18 +515,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Silver Tongued Devil and I",
-        "url": "https://open.spotify.com/album/4wj7dvOFqAEIiFS1WbpQdw"
+        "name": "Full Moon (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3Xnjlj4aJadxwLfdd1QYkF"
       },
       "artists": [
         {
           "name": "Kris Kristofferson",
           "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        },
+        {
+          "name": "Rita Coolidge",
+          "url": "https://open.spotify.com/artist/1vnIL4DMlivP55ioM6KitW"
         }
       ],
-      "duration_ms": 230757,
-      "name": "Loving Her Was Easier (Than Anything I'll Ever Do Again)",
-      "url": "https://open.spotify.com/track/0F56GAWK57E3iXohy9rCmT"
+      "duration_ms": 226146,
+      "name": "Loving Arms",
+      "url": "https://open.spotify.com/track/2BR7FF7KdaL1ygxVJ39Iad"
     },
     {
       "added_at": null,
@@ -659,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Kristofferson",
+        "url": "https://open.spotify.com/album/4HN8SWymMSOxquR6wY2vke"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 275690,
+      "name": "Sunday Mornin' Comin' Down",
+      "url": "https://open.spotify.com/track/4JwFrnLLSO4qqxOeHQATf4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Live - American Outlaws",
         "url": "https://open.spotify.com/album/3chopONx6vQ8Ky4q5xqtbR"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 277927,
       "name": "Desperados Waiting for a Train",
       "url": "https://open.spotify.com/track/1OQbJRt29UGZ5d8YGjWiDK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Essential Kris Kristofferson",
-        "url": "https://open.spotify.com/album/0gGq5EiYpLZaJNYwEoPRY3"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 270800,
-      "name": "Sunday Mornin' Comin' Down",
-      "url": "https://open.spotify.com/track/4mLo5ouQ9giUdWSAOtn5TK"
     },
     {
       "added_at": null,
@@ -863,22 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Austin Sessions",
-        "url": "https://open.spotify.com/album/32A8UJ6MXprzzhpLA9J2hA"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 157733,
-      "name": "Please Don't Tell Me How the Story Ends",
-      "url": "https://open.spotify.com/track/48TigsPAXv9CBdI0QWsniJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Essential Kris Kristofferson",
         "url": "https://open.spotify.com/album/0gGq5EiYpLZaJNYwEoPRY3"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 178440,
       "name": "From the Bottle to the Bottom",
       "url": "https://open.spotify.com/track/0l9vfqSNiJQhlgCB3IY6xM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Austin Sessions",
+        "url": "https://open.spotify.com/album/32A8UJ6MXprzzhpLA9J2hA"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 157733,
+      "name": "Please Don't Tell Me How the Story Ends",
+      "url": "https://open.spotify.com/track/48TigsPAXv9CBdI0QWsniJ"
     },
     {
       "added_at": null,
@@ -1299,6 +1299,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Breakaway",
+        "url": "https://open.spotify.com/album/5E2qk8NPadk7IY7yXiOXtB"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        },
+        {
+          "name": "Rita Coolidge",
+          "url": "https://open.spotify.com/artist/1vnIL4DMlivP55ioM6KitW"
+        }
+      ],
+      "duration_ms": 190960,
+      "name": "I'd Rather Be Sorry",
+      "url": "https://open.spotify.com/track/09jOL3zPV1bHBEA7wlQJa2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Closer to the Bone",
+        "url": "https://open.spotify.com/album/04rij6WooSg0tyBU7rw8Cz"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 152586,
+      "name": "Closer to the Bone",
+      "url": "https://open.spotify.com/track/4sS68UKofTv1lPsUuwh6Sf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ralph Emery's Country Legends Series (Vol. 2 / Live)",
         "url": "https://open.spotify.com/album/1RG0AMBjxcmbDzceUpR9L3"
       },
@@ -1323,58 +1359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Closer to the Bone",
-        "url": "https://open.spotify.com/album/04rij6WooSg0tyBU7rw8Cz"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 152586,
-      "name": "Closer to the Bone",
-      "url": "https://open.spotify.com/track/4sS68UKofTv1lPsUuwh6Sf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Breakaway",
-        "url": "https://open.spotify.com/album/5E2qk8NPadk7IY7yXiOXtB"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        },
-        {
-          "name": "Rita Coolidge",
-          "url": "https://open.spotify.com/artist/1vnIL4DMlivP55ioM6KitW"
-        }
-      ],
-      "duration_ms": 190960,
-      "name": "I'd Rather Be Sorry",
-      "url": "https://open.spotify.com/track/09jOL3zPV1bHBEA7wlQJa2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Essential Kris Kristofferson",
-        "url": "https://open.spotify.com/album/0gGq5EiYpLZaJNYwEoPRY3"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 282640,
-      "name": "To Beat The Devil",
-      "url": "https://open.spotify.com/track/0m3cgYxMSWkAXH42DnabTq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Joyful Noise (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2cPrhNz2hyRJOtiwFOiiJ9"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 264266,
       "name": "From Here To The Moon and Back",
       "url": "https://open.spotify.com/track/3dH70eSrjCoWNl9VGX5Giq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Essential Kris Kristofferson",
+        "url": "https://open.spotify.com/album/0gGq5EiYpLZaJNYwEoPRY3"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 282640,
+      "name": "To Beat The Devil",
+      "url": "https://open.spotify.com/track/0m3cgYxMSWkAXH42DnabTq"
     }
   ],
   "unique_name": "This Is Kris Kristofferson",

@@ -4,7 +4,7 @@
 
 > Los temas que prenden las fiestas navideñas y de fin de año en Colombia\. Foto: Lisandro Meza
 
-371 songs - 22 hr 34 min
+372 songs - 22 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Culebra Cascabel](https://open.spotify.com/track/4mYHboSUHpG4Xmu0TVv3NJ) | [Los Corraleros De Majagual](https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4), [Eliseo Herrera](https://open.spotify.com/artist/3YpIrDTEyfabU64t89sani) | [Éxitos los Corraleros de Majagual](https://open.spotify.com/album/6DTw8ppotAPp9Gcyj4DsXX) | 2:40 | 2024-11-01 | 2025-03-10 |
 | [Cumbia Caletera](https://open.spotify.com/track/5t1feZXRvi9xSFNEEMuboe) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [Exitos De Billo's Caracas Boys](https://open.spotify.com/album/0NjbROu91EHfCSwebjtU8n) | 3:03 | 2023-11-09 | 2025-10-04 |
 | [Cumbia del Amor](https://open.spotify.com/track/2MazrWNhGfpvWnFcgGTyQZ) | [Lisandro Meza](https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3), [Los Hijos De La Niña Luz](https://open.spotify.com/artist/1pdvqZlba01URStTIbnfv2) | [17 Éxitos](https://open.spotify.com/album/3TWu5whCfUMJbbzaNXqved) | 3:02 | 2023-11-09 | 2024-04-19 |
-| [Cumbia del Caribe](https://open.spotify.com/track/5mL1ei12nU0dmqvat2lkmZ) | [Edmundo Arias](https://open.spotify.com/artist/7mCfIjpQPcIw3EA1K8wMyP), [Benetia](https://open.spotify.com/artist/67mvd0i0PAOjOLPfWZW8eb) | [La Mejor Música de Diciembre \(Vol\. 3\)](https://open.spotify.com/album/6iMrwkiFtm2tQ7gzNcseeg) | 3:14 | 2024-11-01 |  |
+| [Cumbia del Caribe](https://open.spotify.com/track/5mL1ei12nU0dmqvat2lkmZ) | [Edmundo Arias](https://open.spotify.com/artist/7mCfIjpQPcIw3EA1K8wMyP), [Benetia](https://open.spotify.com/artist/67mvd0i0PAOjOLPfWZW8eb) | [La Mejor Música de Diciembre \(Vol\. 3\)](https://open.spotify.com/album/6iMrwkiFtm2tQ7gzNcseeg) | 3:14 | 2024-11-01 | 2025-12-31 |
 | [Cumbia Sampuesana](https://open.spotify.com/track/0AQ1sJgFEjYNry4aApi51A) | [Super Orquesta Cartagena](https://open.spotify.com/artist/29Eu6B3m9rjWlHg3G4aWhC) | [Cumbias Solo Cumbias](https://open.spotify.com/album/7esqjVlp983ecsQ1I8DsIv) | 2:48 | 2023-12-20 | 2024-07-15 |
 | [Dame Tu Mujer José](https://open.spotify.com/track/4bi8JuAAkq2raTQb8yJIOd) | [Los 50 De Joselito](https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU) | [Pasado y Presente: 14 Años de Éxitos](https://open.spotify.com/album/2sFskvgiMamk6Uhgowq12F) | 2:51 | 2024-09-01 |  |
 | [Daniela](https://open.spotify.com/track/4Jz3mGW1jn8tjBgx42iEuF) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [Los Hispanos](https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h) | [Historia Musical de Rodolfo Con los Hispanos: 40 Éxitos Inolvidables](https://open.spotify.com/album/4iAoJku3znCzfRb0yEGp7y) | 3:18 | 2023-12-20 |  |
@@ -378,6 +378,7 @@
 | [Volveré](https://open.spotify.com/track/6THn83A87GCDaDZp9UQsPl) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Los Años Dorados](https://open.spotify.com/album/58FR55u0pbPYIZr1x7M5Qg) | 4:19 | 2023-11-09 | 2024-04-19 |
 | [Víspera de Año Nuevo](https://open.spotify.com/track/0hRfaXRQhSAqMUCon1QT3Y) | [Guillermo Buitrago](https://open.spotify.com/artist/4gL0wUwZLxSxMi1rL9q84p), [Los Trovadores de Baru](https://open.spotify.com/artist/2D3uhAFcCc823HKq05RJqP) | [16 Éxitos de Navidad y Año Nuevo](https://open.spotify.com/album/4puHLAC2IeDe0ZAnjyNPMF) | 2:30 | 2023-12-20 |  |
 | [Ya Me Cansé](https://open.spotify.com/track/4k2FA4wQYFqGWDNHVHW9M1) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [Maldita Traicion](https://open.spotify.com/album/1s5tPLQ8CZguYP8Skuwgas) | 3:05 | 2023-02-03 | 2024-09-02 |
+| [Ya Voy Hacia Ti](https://open.spotify.com/track/30Kl5EJVC72aAk01VmEpr1) | [Victor Piñero](https://open.spotify.com/artist/6O5nkHt0QsqTMNaHkWNXmx) | [A Los 30 Años de Victor Piñero](https://open.spotify.com/album/2LaCWLjqjIkbUlk46RGJ0G) | 3:08 | 2025-12-17 |  |
 | [Zúmbalo](https://open.spotify.com/track/7nhT7NOcyixKV17KLPAzdE) | [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW) | [La Orquesta Que Impone El Ritmo](https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1) | 4:25 | 2023-11-09 | 2024-04-19 |
 
 \*This playlist was first scraped on 2023-11-11. Prior content cannot be recovered.

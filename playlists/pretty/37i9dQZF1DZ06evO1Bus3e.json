@@ -1,12 +1,12 @@
 {
   "description": "This is Arsenal Efectivo. The essential tracks, all in one playlist.",
-  "num_followers": 12514,
+  "num_followers": 12513,
   "original_name": "This Is Arsenal Efectivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVBzAAAAAAAUJ6o32IrYCIKyMNP+Z3pv",
+  "snapshot_id": "aVHEgAAAAABYuwFmYtN/hv3+f5GqanNf",
   "tracks": [
     {
       "added_at": null,
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
         }
       ],
-      "duration_ms": 177219,
-      "name": "Soy Ayon",
-      "url": "https://open.spotify.com/track/1RoXiUyEb8DZsw6uAcGPiJ"
+      "duration_ms": 153333,
+      "name": "Tali 50",
+      "url": "https://open.spotify.com/track/0HtRsArxMXf8KBXbcgaNIt"
     },
     {
       "added_at": null,
@@ -355,6 +355,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vida Peligrosa",
+        "url": "https://open.spotify.com/album/4huwqIi9UfY9D3DtGwo4di"
+      },
+      "artists": [
+        {
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        }
+      ],
+      "duration_ms": 177219,
+      "name": "Soy Ayon",
+      "url": "https://open.spotify.com/track/1RoXiUyEb8DZsw6uAcGPiJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En La Fuga",
+        "url": "https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq"
+      },
+      "artists": [
+        {
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        }
+      ],
+      "duration_ms": 209962,
+      "name": "Calorsitos Del Desierto",
+      "url": "https://open.spotify.com/track/74NAHTRdV5EuABIWxCYK6A"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sacando El Polvo",
         "url": "https://open.spotify.com/album/3x9bpEr5yOvsJgH22RQllP"
       },
@@ -375,8 +407,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En La Fuga",
-        "url": "https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq"
+        "name": "Seguiremos Trabajando",
+        "url": "https://open.spotify.com/album/0flR15FFQkQ4jo7PDIUJk4"
       },
       "artists": [
         {
@@ -384,9 +416,9 @@
           "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
         }
       ],
-      "duration_ms": 209962,
-      "name": "Calorsitos Del Desierto",
-      "url": "https://open.spotify.com/track/74NAHTRdV5EuABIWxCYK6A"
+      "duration_ms": 212749,
+      "name": "L.A. Dank",
+      "url": "https://open.spotify.com/track/7ygyBnWDSAPAyrr6s66tCr"
     },
     {
       "added_at": null,
@@ -411,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seguiremos Trabajando",
-        "url": "https://open.spotify.com/album/0flR15FFQkQ4jo7PDIUJk4"
-      },
-      "artists": [
-        {
-          "name": "Arsenal Efectivo",
-          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
-        }
-      ],
-      "duration_ms": 212749,
-      "name": "L.A. Dank",
-      "url": "https://open.spotify.com/track/7ygyBnWDSAPAyrr6s66tCr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eternamente",
         "url": "https://open.spotify.com/album/4GWYly9cxMjGNtWSlygap1"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 238116,
       "name": "Eternamente",
       "url": "https://open.spotify.com/track/6Bf9ctV7C75vDSq5Ob7zYg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vida Peligrosa",
-        "url": "https://open.spotify.com/album/45hVcJdR56XnHg2Phvb7WY"
-      },
-      "artists": [
-        {
-          "name": "Arsenal Efectivo",
-          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
-        }
-      ],
-      "duration_ms": 153333,
-      "name": "Tali 50",
-      "url": "https://open.spotify.com/track/7FNL3TSmusZoSBrgYW4r2M"
     },
     {
       "added_at": null,

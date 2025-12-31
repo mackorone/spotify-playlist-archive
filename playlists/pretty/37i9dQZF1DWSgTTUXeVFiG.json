@@ -1,6 +1,6 @@
 {
   "description": "Los \u00e9xitos de siempre en concierto. Foto: Celia Cruz",
-  "num_followers": 32000,
+  "num_followers": 32014,
   "original_name": "Vivo de Salsa",
   "owner": {
     "name": "Spotify",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-09-24 20:35:55",
       "album": {
-        "name": "Live At Madison Square Garden",
-        "url": "https://open.spotify.com/album/73lQS6xaOyVGEoVCmcDWcQ"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        }
-      ],
-      "duration_ms": 426240,
-      "name": "He Tratado - Live at MSG Version",
-      "url": "https://open.spotify.com/track/2h93BD54TVsD2kq22uscBB"
-    },
-    {
-      "added_at": "2024-09-24 20:35:55",
-      "album": {
         "name": "Sergio George Presents Salsa Giants (Live)",
         "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 303586,
       "name": "Anacaona - Live Version",
       "url": "https://open.spotify.com/track/2NVpzFcSsWsWPuyH1X6IXG"
+    },
+    {
+      "added_at": "2024-09-24 20:35:55",
+      "album": {
+        "name": "Dos Soneros... Una Historia",
+        "url": "https://open.spotify.com/album/4MpP6sfknKNUhYo0lvnaUU"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "duration_ms": 397493,
+      "name": "Que Manera De Quererte - Live Version",
+      "url": "https://open.spotify.com/track/6C09eg8iPo0BTBwkaQpJjK"
     }
   ],
   "unique_name": "Vivo de Salsa",

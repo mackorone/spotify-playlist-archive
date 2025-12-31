@@ -4,7 +4,7 @@
 
 > This is Glassjaw\. The essential tracks, all in one playlist.
 
-42 songs - 2 hr 38 min
+43 songs - 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,8 +23,9 @@
 | [Gold](https://open.spotify.com/track/1RwBjcl5kuSR7YAb6KudBj) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Coloring Book](https://open.spotify.com/album/2X1G1CjQbDTYVPHzmacsry) | 4:43 | 2022-11-17 |  |
 | [golgotha](https://open.spotify.com/track/4sZuIfdLBqNXSUuNaAhw5j) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Material Control](https://open.spotify.com/album/3Z9dDwHYs6mPAW2BHoT4JZ) | 3:04 | 2022-11-17 |  |
 | [Jesus Glue](https://open.spotify.com/track/1aLd9GXy4kOZzCJsyIfTZT) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Our Color Green \(The Singles\)](https://open.spotify.com/album/1GC93XfkXlBFNJ9MaLRmjH) | 5:07 | 2022-11-17 |  |
-| [Lovebites and Razorblades \- 2009 Remaster](https://open.spotify.com/track/1QVIkU9GNUiIqciY2mJphl) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Everything You Ever Wanted To Know About Silence Remaster](https://open.spotify.com/album/1fUuTc7d6COMx8rR1qAmr8) | 4:09 | 2022-11-17 |  |
-| [Majour \- 2009 Remaster](https://open.spotify.com/track/06NFqnO8Ulg0GUliWf3Wh1) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Everything You Ever Wanted To Know About Silence Remaster](https://open.spotify.com/album/1fUuTc7d6COMx8rR1qAmr8) | 4:00 | 2025-03-22 | 2025-07-29 |
+| [Lovebites and Razorblades \- 2009 Remaster](https://open.spotify.com/track/1QVIkU9GNUiIqciY2mJphl) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Everything You Ever Wanted To Know About Silence Remaster](https://open.spotify.com/album/1fUuTc7d6COMx8rR1qAmr8) | 4:09 | 2022-11-17 | 2025-12-31 |
+| [Lovebites and Razorlines](https://open.spotify.com/track/3TZrBEUWCkRzFQs5FJME4b) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Everything You Ever Wanted To Know About Silence](https://open.spotify.com/album/5To08K1gE25vpF62QfywQY) | 4:09 | 2025-12-31 |  |
+| [Majour \- 2009 Remaster](https://open.spotify.com/track/06NFqnO8Ulg0GUliWf3Wh1) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Everything You Ever Wanted To Know About Silence Remaster](https://open.spotify.com/album/1fUuTc7d6COMx8rR1qAmr8) | 4:00 | 2025-03-22 |  |
 | [material control](https://open.spotify.com/track/481Wsfhy8vr0XW8bjLuJGm) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Material Control](https://open.spotify.com/album/3Z9dDwHYs6mPAW2BHoT4JZ) | 1:25 | 2023-02-15 |  |
 | [Miracles in Inches](https://open.spotify.com/track/5JkaxviT0dFs9hbScnAPwX) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Coloring Book](https://open.spotify.com/album/2X1G1CjQbDTYVPHzmacsry) | 3:41 | 2022-11-17 |  |
 | [Mu Empire](https://open.spotify.com/track/3yUebDgogzV36flxuyMoV0) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Worship And Tribute \(U.S\. Version\)](https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT) | 3:44 | 2022-11-17 |  |

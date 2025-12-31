@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 
 > The best new songs from modern singer\-songwriters\. Cover: CMAT
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,354 likes - 128 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,353 likes - 128 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

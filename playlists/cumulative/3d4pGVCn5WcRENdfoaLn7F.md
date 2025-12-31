@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear.
 
-137 songs - 8 hr 23 min
+140 songs - 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Bewitched Doll](https://open.spotify.com/track/7FwOW5rSiix0q9yz9WYwD3) | [Vegas No.8](https://open.spotify.com/artist/1GFJDGaT9LoRap1ct1ZpMf) | [Bewitched Doll](https://open.spotify.com/album/3pbNzHfFDgN5NovxF3FhDr) | 3:22 | 2025-12-22 |  |
 | [Billionaire](https://open.spotify.com/track/1QZgcNDUg4TjD0bgRadlK9) | [Spirits Of Saturn](https://open.spotify.com/artist/6HbiJHNYwz2jnVwCuMNl3I) | [Billionaire](https://open.spotify.com/album/5diz7OIOJi2sHfJd8E9bt4) | 3:50 | 2025-12-13 |  |
 | [Black Fruit No\. 2](https://open.spotify.com/track/0wFB31ZKVwo42W5sBM9tuU) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Songs For The Eternity.](https://open.spotify.com/album/08sRFB6te5DGLlvBj1IYdY) | 3:57 | 2025-12-12 |  |
+| [Black Swan](https://open.spotify.com/track/5GJJ489qwQiEAj4HXKBoq4) | [Ask The Dust](https://open.spotify.com/artist/7F3WOicrHPUVKyOhZUCrND) | [Black Swan](https://open.spotify.com/album/3SYNo2RgNSlLptVzCXvRIs) | 3:31 | 2025-12-30 |  |
 | [Blood Full of Metal](https://open.spotify.com/track/248ljP84krXywsN09x4F4E) | [The PennyPound](https://open.spotify.com/artist/2QhZfUGvvm4AA07JNVY4SS) | [Blood Full of Metal](https://open.spotify.com/album/2mIC9Fjg06dzZpcHiDFngB) | 3:12 | 2025-11-19 |  |
 | [Blood on the Wall](https://open.spotify.com/track/0JHHM2XMXcMREVStlNDLKS) | [David Larosa](https://open.spotify.com/artist/6LJggCdTMxlzs5iRq0MsND) | [Liminal Space](https://open.spotify.com/album/7DL03disLL5FCb8UhwOHwZ) | 2:49 | 2025-11-13 | 2025-12-06 |
 | [body of water](https://open.spotify.com/track/5wP9DYz49ksiTGp3R3lOu0) | [SIKADE](https://open.spotify.com/artist/2DrSLniejh3OLn1XnU6lCY) | [body of water](https://open.spotify.com/album/0O28yb82DrLDnp9isurKNa) | 2:11 | 2025-11-01 | 2025-12-06 |
@@ -121,6 +122,7 @@
 | [Sorry Not Sorry](https://open.spotify.com/track/4qBf2gBewjF1tnoUzR6n3g) | [the dt's](https://open.spotify.com/artist/4nZVHrZrnqw6nNruvY3G0t) | [Sorry Not Sorry](https://open.spotify.com/album/1bHQETnkpeyWRLFJSbBuOt) | 3:41 | 2025-12-11 |  |
 | [Stay With You](https://open.spotify.com/track/0itsoBycSDpBi8OoaKj5CY) | [ToloV](https://open.spotify.com/artist/4t3awapuIDzb4fGOMWR35Q) | [Stay With You](https://open.spotify.com/album/4RWd149IxtWI1XcOHuYHQe) | 2:46 | 2025-12-24 |  |
 | [Step Back](https://open.spotify.com/track/6M2aKsUboctabwZD4BnIpZ) | [Josiah Lee](https://open.spotify.com/artist/5JzpGMc1evn1FQqFSN5ba0) | [Step Back](https://open.spotify.com/album/4AsC6gnDD0rAQnWmgVe7dv) | 4:11 | 2025-09-07 |  |
+| [Storm](https://open.spotify.com/track/4zco59LEN14IqrtaKHVIQq) | [Under The Pendulum](https://open.spotify.com/artist/2lQOBQMkqxOvrVdphflRKP) | [Storm](https://open.spotify.com/album/3VpAsksWzfNm6r7cHL8w6t) | 3:52 | 2025-12-30 |  |
 | [Strange Addiction](https://open.spotify.com/track/1J1SHqJbS4ejLSvjdJph5W) | [Taylor D](https://open.spotify.com/artist/6EYjKhsmEVEBEvyvtta5sg) | [Strange Addiction](https://open.spotify.com/album/0dWEaFnP8w5QS60vyeBm2R) | 4:15 | 2025-11-21 | 2025-12-12 |
 | [Sunday Morning Fight \(About Saturday Night\)](https://open.spotify.com/track/1mw9rMpGKLTK87W4T0w2j7) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [Sunday Morning Fight \(About Saturday Night\)](https://open.spotify.com/album/5GAm7vkxYMcA9eRVYzodpz) | 3:44 | 2025-11-01 |  |
 | [Tanto](https://open.spotify.com/track/6zgyFi5AddkJEqazpqttKA) | [Anedonia](https://open.spotify.com/artist/0Aqh4GZUYMq4i6UH7ptaBP) | [Catarsis](https://open.spotify.com/album/2kswk3FL9QXty9kwJZdadg) | 4:20 | 2025-11-02 | 2025-12-06 |
@@ -133,6 +135,7 @@
 | [This Is How We Say Goodbye](https://open.spotify.com/track/6NbzdZrZwTzPvMySmzsdPU) | [The Color Blew](https://open.spotify.com/artist/6mnHAaGTCbeNA07xwFbWvz) | [Light Switch](https://open.spotify.com/album/55iQV1wqNmicvSeYMRI0eP) | 6:55 | 2025-12-24 |  |
 | [Time to Heal](https://open.spotify.com/track/6TNPl5MZg4c0lkuJbvn5Hc) | [Pin Dog](https://open.spotify.com/artist/57B5OFNTlSQZ4aofUvFRZR) | [Time to Heal](https://open.spotify.com/album/4f704M5LVep2ENY3BM7SKG) | 3:13 | 2025-12-03 |  |
 | [Too Late To Die Young](https://open.spotify.com/track/5yELrI6L43565VRVcSrEa9) | [Blood Orange Moon](https://open.spotify.com/artist/2zACh7s1mDfLy2S5pzflnU) | [What Was Ever Real Might Be Fictitious](https://open.spotify.com/album/7eRDi23LKlgQiaGmWguvMi) | 4:04 | 2025-09-23 |  |
+| [Torn Apart And Wasted](https://open.spotify.com/track/7jyr1VgS4FEvIedi8at6vQ) | [Leave Behind](https://open.spotify.com/artist/0AE6KuLlPDvPpFoiNZmVOW) | [Torn Apart And Wasted](https://open.spotify.com/album/0Bi1TNUxcZRWVSNLi2sfMF) | 3:54 | 2025-12-30 |  |
 | [Trampeltier](https://open.spotify.com/track/6wsAvwlXPQLyEUeItX417g) | [Neidmaer](https://open.spotify.com/artist/0hCDG82eSZNEb32nKPyeKR) | [Trampeltier](https://open.spotify.com/album/3ahMXPDYjOxgf8JmfbanPy) | 4:28 | 2025-09-25 |  |
 | [Virginia](https://open.spotify.com/track/2Gp5Y4AoDm0sQotveaD4T3) | [Frank Palangi](https://open.spotify.com/artist/6Ubner1Clwb3h5MSH7FYwb) | [Bring On The Fear EP](https://open.spotify.com/album/74xPT0b8vssRhGZO3gUruB) | 4:25 | 2025-11-21 | 2025-12-12 |
 | [Walk Through Quicksand](https://open.spotify.com/track/5Pr5NTcu6bgkcQgNabBM3b) | [Tyler Davis](https://open.spotify.com/artist/6pwJdVo23zP5HTxzVdUQQC) | [Walk Through Quicksand](https://open.spotify.com/album/2oxRmthCj3nUYYmx7xliaE) | 3:31 | 2025-11-26 | 2025-12-28 |

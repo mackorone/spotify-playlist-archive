@@ -1,12 +1,12 @@
 {
   "description": "This is John Williams. The essential tracks, all in one playlist.",
-  "num_followers": 228666,
+  "num_followers": 228690,
   "original_name": "This Is John Williams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVBzAAAAAACP1y0VWsQZKIZq6IWw9G62",
+  "snapshot_id": "aVHEgAAAAABAt/laGwfb3LdIUkNpZcau",
   "tracks": [
     {
       "added_at": null,
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
         }
       ],
-      "duration_ms": 222093,
-      "name": "Entry into the Great Hall and the Banquet",
-      "url": "https://open.spotify.com/track/0UDSwgomgI5bK1x1eYeBez"
+      "duration_ms": 309093,
+      "name": "Hedwig's Theme",
+      "url": "https://open.spotify.com/track/1n8NKQRg8LVHy7oUhUgbFF"
     },
     {
       "added_at": null,
@@ -284,9 +284,9 @@
           "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
         }
       ],
-      "duration_ms": 309093,
-      "name": "Hedwig's Theme",
-      "url": "https://open.spotify.com/track/1n8NKQRg8LVHy7oUhUgbFF"
+      "duration_ms": 222093,
+      "name": "Entry into the Great Hall and the Banquet",
+      "url": "https://open.spotify.com/track/0UDSwgomgI5bK1x1eYeBez"
     },
     {
       "added_at": null,
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
         }
       ],
-      "duration_ms": 97226,
-      "name": "Double Trouble",
-      "url": "https://open.spotify.com/track/1woL1W9wp2tKz9cFyc4NUm"
+      "duration_ms": 72680,
+      "name": "The Patronus Light",
+      "url": "https://open.spotify.com/track/59xohjlL8uhdil8UEMIN76"
     },
     {
       "added_at": null,
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
         }
       ],
-      "duration_ms": 72680,
-      "name": "The Patronus Light",
-      "url": "https://open.spotify.com/track/59xohjlL8uhdil8UEMIN76"
+      "duration_ms": 97226,
+      "name": "Double Trouble",
+      "url": "https://open.spotify.com/track/1woL1W9wp2tKz9cFyc4NUm"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Star Wars: The Force Awakens (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3fUKGTsiYL1kSroBWBLmmR"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        }
-      ],
-      "duration_ms": 155906,
-      "name": "March of the Resistance",
-      "url": "https://open.spotify.com/track/420y9qWviZ4cdneynQWSKr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jurassic Park",
         "url": "https://open.spotify.com/album/1yyFmCMeNtuLWsLZAXPStf"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 132026,
       "name": "A Tree For My Bed",
       "url": "https://open.spotify.com/track/799BZgHYabYSYp7VtpIWcb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Star Wars: The Force Awakens (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3fUKGTsiYL1kSroBWBLmmR"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "duration_ms": 155906,
+      "name": "March of the Resistance",
+      "url": "https://open.spotify.com/track/420y9qWviZ4cdneynQWSKr"
     },
     {
       "added_at": null,
@@ -767,30 +767,6 @@
       "duration_ms": 346933,
       "name": "Star Wars (Main Theme)",
       "url": "https://open.spotify.com/track/7a9UUo3zfID7Ik2fTQjRLi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Schindler's List",
-        "url": "https://open.spotify.com/album/1I3unGxGIIxCQkYPlzzaL8"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        },
-        {
-          "name": "Itzhak Perlman",
-          "url": "https://open.spotify.com/artist/0hIG9FXgjQxT8fKaYceFbA"
-        },
-        {
-          "name": "Boston Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/0K23lQ2hSQAlxSEeZ05bjI"
-        }
-      ],
-      "duration_ms": 352240,
-      "name": "I Could Have Done More",
-      "url": "https://open.spotify.com/track/52PSKy15gHNoaidUT4i5vt"
     }
   ],
   "unique_name": "This Is John Williams",

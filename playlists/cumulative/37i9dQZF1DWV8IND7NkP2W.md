@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long\-haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-822 songs - 1 day 13 hr 9 min
+823 songs - 1 day 13 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [Dream Journey](https://open.spotify.com/track/5HSzVDiVqNfNTyc45bH0x1) | [パジャマで海なんかいかない](https://open.spotify.com/artist/6FnK7XQ5Ldd4ymhgPirwac) | [Dream Journey](https://open.spotify.com/album/0ANg0lMuo3WHS82JwOaLow) | 4:55 | 2021-12-23 | 2022-07-29 |
 | [Dreaming Astronaut](https://open.spotify.com/track/1ZHFd6ADhEPdC12lgqz6Mp) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [Dreaming Astronaut](https://open.spotify.com/album/1vTQ2WyNIkOsL9DrBr3T2d) | 3:10 | 2022-04-21 | 2022-07-29 |
 | [Drive](https://open.spotify.com/track/7gcQ3DlnE3R58uPy91waNG) | [Arukah](https://open.spotify.com/artist/30DvDKxP4k16vUaTZkFXUG) | [I'm Here](https://open.spotify.com/album/7a16xZcDfD6ytbAqSNhEuC) | 2:15 | 2021-12-23 | 2022-07-06 |
+| [Drown](https://open.spotify.com/track/4DodEZ7QhNJugb1xGMHtQG) | [呼煙魔](https://open.spotify.com/artist/6DCqyAIjEYMWaUbJExBBA5) | [SMOG](https://open.spotify.com/album/1o4QzZefXX7EhHbv3o9VdB) | 2:03 | 2025-12-12 |  |
 | [DT pt.3](https://open.spotify.com/track/5mdDR3IiaePEjw9NGXNlGf) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [DT pt.3](https://open.spotify.com/album/03ho40YIpVOKM83Cxoc3sM) | 2:53 | 2022-03-31 | 2022-04-09 |
 | [Dusk](https://open.spotify.com/track/51silputvlp8O6npsXfy2l) | [Yami/Hikari](https://open.spotify.com/artist/3eogr78QBYi6n4Ak4IvULV) | [Dusk](https://open.spotify.com/album/0dQTHjNUYL2oA4OyU8FwC0) | 1:55 | 2021-12-23 | 2022-07-09 |
 | [Dusk Moon](https://open.spotify.com/track/4upyiEiuvlffFm1NlnzhiP) | [sakamoto junnosuke](https://open.spotify.com/artist/79CYOq7U0oNlU4H8kXUj5v) | [Dusk Moon](https://open.spotify.com/album/4zsH4GvEqvyi9tLHKJW2pR) | 3:51 | 2021-12-23 | 2022-07-26 |
@@ -521,7 +522,7 @@
 | [Oak](https://open.spotify.com/track/4QrLXFESrpnpf6TXJsM1rX) | [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [cocabona](https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT) | [Oak](https://open.spotify.com/album/0vdKiuQsAHix0sDjoiwngg) | 2:50 | 2021-12-23 | 2025-06-24 |
 | [Ocean Avenue](https://open.spotify.com/track/5Bv8KRYPE7w6S9bZfrUYiz) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe), [Ashley Orikami](https://open.spotify.com/artist/3g8971KIYlPDlZWnU5Mlof) | [Ocean Avenue](https://open.spotify.com/album/26MxpI4CnZlMXJoD7IoiGU) | 3:53 | 2022-02-24 | 2022-07-04 |
 | [ode to N](https://open.spotify.com/track/0irCGSOIclpG2yGISXD8bN) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [ode to N](https://open.spotify.com/album/1kGbYL4jMy8db0QHbskJcp) | 2:14 | 2022-09-22 | 2024-04-19 |
-| [ode to N](https://open.spotify.com/track/3kKypbU1yMlHWc33em5aIO) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [ode to N](https://open.spotify.com/album/0Og7hHFQfX0OW028kjJelF) | 2:14 | 2022-09-22 |  |
+| [ode to N](https://open.spotify.com/track/3kKypbU1yMlHWc33em5aIO) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [ode to N](https://open.spotify.com/album/0Og7hHFQfX0OW028kjJelF) | 2:14 | 2022-09-22 | 2025-12-31 |
 | [On Golden Pond](https://open.spotify.com/track/0w2qPXThCA5AxbolFra2Ap) | [Zen Miyako](https://open.spotify.com/artist/7bQoGwzUNcgjhl5wn7gpOu) | [On Golden Pond](https://open.spotify.com/album/62q6SGct1PhpQ9beHT38zw) | 3:16 | 2023-04-27 | 2023-12-30 |
 | [On My Way Home](https://open.spotify.com/track/3UwKfXx1SdJSxnzG2gYkgc) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [On My Way Home](https://open.spotify.com/album/6bO5QKKe9OAyMHQ2RryMou) | 3:14 | 2021-12-23 |  |
 | [On My Way Home \- Blue Lab Beats Remix](https://open.spotify.com/track/7ysDqM3kH3U6YleSSIhWRc) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [On My Way Home \(Blue Lab Beats Remix\)](https://open.spotify.com/album/5o3VQdQ5Mp8TZzKKDkZ1fI) | 3:48 | 2024-05-23 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is G Herbo. The essential tracks, all in one playlist.",
-  "num_followers": 35397,
+  "num_followers": 35396,
   "original_name": "This Is G Herbo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVBzAAAAAADx+HlrMX1TiAy+ep8iV9zK",
+  "snapshot_id": "aVHEgAAAAAAYSXef1MMKuH2VxKM0qBj7",
   "tracks": [
     {
       "added_at": null,
@@ -351,26 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gangsta Graduation (feat. G Herbo)",
-        "url": "https://open.spotify.com/album/0BIEOSPu0veroLyMxxFGAR"
-      },
-      "artists": [
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 201586,
-      "name": "Gangsta Graduation (feat. G Herbo)",
-      "url": "https://open.spotify.com/track/57KbQMnqfP3U5RsjqA1Rum"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grandson",
         "url": "https://open.spotify.com/album/4tH03Y2xfQNtG0CXJ8eGYN"
       },
@@ -387,6 +367,42 @@
       "duration_ms": 163013,
       "name": "Real Oppy (feat. G Herbo)",
       "url": "https://open.spotify.com/track/33b88WhmUTvmavA6yAsKQp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sessions",
+        "url": "https://open.spotify.com/album/7yaedwQjo5ai0h1EEI9ymx"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 188053,
+      "name": "Sessions",
+      "url": "https://open.spotify.com/track/03gHIjYCwrOia5nNwg7jmT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gangsta Graduation (feat. G Herbo)",
+        "url": "https://open.spotify.com/album/0BIEOSPu0veroLyMxxFGAR"
+      },
+      "artists": [
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 201586,
+      "name": "Gangsta Graduation (feat. G Herbo)",
+      "url": "https://open.spotify.com/track/57KbQMnqfP3U5RsjqA1Rum"
     },
     {
       "added_at": null,
@@ -411,38 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sessions",
-        "url": "https://open.spotify.com/album/7yaedwQjo5ai0h1EEI9ymx"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 188053,
-      "name": "Sessions",
-      "url": "https://open.spotify.com/track/03gHIjYCwrOia5nNwg7jmT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Welcome to Fazoland",
-        "url": "https://open.spotify.com/album/5T1xg0VySf2wbzswK84Lbl"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 199302,
-      "name": "Write Your Name",
-      "url": "https://open.spotify.com/track/1nbFaXgi6FVywm9BN4UmUt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Levon James",
         "url": "https://open.spotify.com/album/1ZRAeQ6zsPJ5W1K3DvpRpP"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 157759,
       "name": "On Yo Ass",
       "url": "https://open.spotify.com/track/1GieuvkMLaSeu57s1BRVNP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Welcome to Fazoland",
+        "url": "https://open.spotify.com/album/5T1xg0VySf2wbzswK84Lbl"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 199302,
+      "name": "Write Your Name",
+      "url": "https://open.spotify.com/track/1nbFaXgi6FVywm9BN4UmUt"
     },
     {
       "added_at": null,
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         }
       ],
-      "duration_ms": 181607,
-      "name": "Where Would I Be?",
-      "url": "https://open.spotify.com/track/3ephUINsyZn9Q0oeAyy7Hn"
+      "duration_ms": 173405,
+      "name": "Win Again",
+      "url": "https://open.spotify.com/track/5hDPrhSDyIAJoCRKJG8uxB"
     },
     {
       "added_at": null,
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
         }
       ],
-      "duration_ms": 173405,
-      "name": "Win Again",
-      "url": "https://open.spotify.com/track/5hDPrhSDyIAJoCRKJG8uxB"
+      "duration_ms": 181607,
+      "name": "Where Would I Be?",
+      "url": "https://open.spotify.com/track/3ephUINsyZn9Q0oeAyy7Hn"
     },
     {
       "added_at": null,
@@ -883,22 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lil Herb (Extended)",
-        "url": "https://open.spotify.com/album/0aqpG80oRkiQRMjaS4saAi"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 160038,
-      "name": "No Bap (Bonus)",
-      "url": "https://open.spotify.com/track/1bEFWdOp1xDnMPZDO8mtAe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Big Swerv",
         "url": "https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 176981,
       "name": "Influence",
       "url": "https://open.spotify.com/track/72nXS4EZQbF7TW9omZNro7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lil Herb (Extended)",
+        "url": "https://open.spotify.com/album/0aqpG80oRkiQRMjaS4saAi"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 160038,
+      "name": "No Bap (Bonus)",
+      "url": "https://open.spotify.com/track/1bEFWdOp1xDnMPZDO8mtAe"
     },
     {
       "added_at": null,
@@ -951,22 +951,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lil Herb (Extended)",
-        "url": "https://open.spotify.com/album/0aqpG80oRkiQRMjaS4saAi"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 198485,
-      "name": "This N That (Bonus)",
-      "url": "https://open.spotify.com/track/6K5RMhhSucN3vqwCvBngKG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PTSD (Deluxe)",
         "url": "https://open.spotify.com/album/19trhRvgk1m0PnD3kmMKLY"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 162217,
       "name": "Real One",
       "url": "https://open.spotify.com/track/2rBQUcuBP89PonXz4A9QJh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lil Herb (Extended)",
+        "url": "https://open.spotify.com/album/0aqpG80oRkiQRMjaS4saAi"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 198485,
+      "name": "This N That (Bonus)",
+      "url": "https://open.spotify.com/track/6K5RMhhSucN3vqwCvBngKG"
     }
   ],
   "unique_name": "This Is G Herbo",

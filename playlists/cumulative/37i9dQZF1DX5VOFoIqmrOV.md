@@ -4,7 +4,7 @@
 
 > The finest set of Telugu music from the past 10 years\. <br/>Cover : Pushpa 2
 
-264 songs - 17 hr 35 min
+265 songs - 17 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,7 +197,7 @@
 | [Oohalu Oorege Gaalanthaa](https://open.spotify.com/track/5c22snIfXnckNXV4FkLVfs) | [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Keerthana](https://open.spotify.com/artist/3F3Y5Y6PsKkXftDYVL6ON7) | [Sammohanam](https://open.spotify.com/album/3OUStgGMbZTFPGpzQDLST2) | 4:49 | 2025-12-16 |  |
 | [Oosupodu](https://open.spotify.com/track/0xNiDPK4YdZ51ALxSid0QV) | [Hemachandra Vedala](https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN) | [Fidaa](https://open.spotify.com/album/2OPvJhDyy9YvHJT3xt7Zwh) | 4:33 | 2023-08-07 |  |
 | [Padi Padi Leche](https://open.spotify.com/track/7tXaDnRF8OVbcecl0KurVn) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Sinduri Vishal](https://open.spotify.com/artist/6KjiNHnbm1CNrIN0z7wJtO) | [Padi Padi Leche Manasu](https://open.spotify.com/album/5yaWNdlJB8FoxwbngILePz) | 3:23 | 2021-12-16 | 2022-07-25 |
-| [Pareshanura](https://open.spotify.com/track/0UipbyZ94eKrCm1Vcydvl3) | [Padmalatha Vishnu Priya](https://open.spotify.com/artist/7txK3ILyvvPyNhFJ8BzG8R) | [Dhruva](https://open.spotify.com/album/2mutIulE85wKAHrrP0oCuM) | 3:13 | 2023-08-07 |  |
+| [Pareshanura](https://open.spotify.com/track/0UipbyZ94eKrCm1Vcydvl3) | [Padmalatha Vishnu Priya](https://open.spotify.com/artist/7txK3ILyvvPyNhFJ8BzG8R) | [Dhruva](https://open.spotify.com/album/2mutIulE85wKAHrrP0oCuM) | 3:13 | 2023-08-07 | 2025-12-31 |
 | [Peniviti](https://open.spotify.com/track/1YA5XoTcKyrpQ6cW6XsAfB) | [Kala Bhairava](https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14) | [Aravindha Sametha](https://open.spotify.com/album/3YS0UOK0pXMGizKPjzhybv) | 5:10 | 2021-12-16 | 2022-07-24 |
 | [Penny](https://open.spotify.com/track/43MaYmeXYuEH4mpuaGH0uC) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB) | [Penny \- Sarkaru Vaari Paata](https://open.spotify.com/album/61c0b8wBHLNjw1lLUXMMy9) | 4:39 | 2022-03-20 | 2022-07-25 |
 | [Pilla Puli \(From "Aakaasam Nee Haddhu Ra"\)](https://open.spotify.com/track/2zw3XDY1gtqUR8lHbCM3y2) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Pilla Puli \(From "Aakaasam Nee Haddhu Ra"\)](https://open.spotify.com/album/1tvhBLZNYGLXlGXIyQXmRA) | 5:04 | 2021-12-16 | 2022-07-25 |
@@ -228,6 +228,7 @@
 | [Samajavaragamana](https://open.spotify.com/track/0h5wFi2R8a9ReSIDbXzZgy) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Ala Vaikunthapurramuloo](https://open.spotify.com/album/3lnOgTbiGMIvcZhvqBkHDa) | 3:39 | 2022-07-24 | 2023-08-08 |
 | [Samajavaragamana](https://open.spotify.com/track/3j9DrRebdWK1jkpOw9FZUy) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Ala Vaikunthapurramuloo](https://open.spotify.com/album/3Z6fqZ8KtrWQmEfK0ZWwPp) | 3:39 | 2021-12-16 | 2022-07-25 |
 | [Samayama \(From "Hi Nanna"\)](https://open.spotify.com/track/0hujsbFzpm9RjOs4mnVclo) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c), [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ) | [Samayama \(From "Hi Nanna"\)](https://open.spotify.com/album/6D13wnr8nPxBHLalTHPrqG) | 3:24 | 2023-12-12 |  |
+| [Sammohanuda](https://open.spotify.com/track/5eMYLnT3O6EBIKiDBHOEvm) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Rules Ranjann](https://open.spotify.com/album/6zrZW4bbHa1AUfxPtommPQ) | 3:19 | 2023-12-12 |  |
 | [Sanchari \(From "Radhe Shyam"\)](https://open.spotify.com/track/1ysF7N4pb8cQeyDyEgsPq1) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Justin Prabhakaran](https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr) | [Sanchari \(From "Radhe Shyam"\)](https://open.spotify.com/album/3ovRv8bEjAfnnwK4xW0ANT) | 4:28 | 2021-12-16 | 2022-07-25 |
 | [Sara Sari \- Telugu](https://open.spotify.com/track/5reyXAeNOIusd41ojqfBBq) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Mahati Swara Sagar](https://open.spotify.com/artist/27dNKsHZrQKGnAlFCLDlzd) | [Bheeshma](https://open.spotify.com/album/39BMeiHB5mV56M6wEoBveo) | 4:01 | 2021-12-16 | 2022-07-25 |
 | [Saranga Dariya](https://open.spotify.com/track/74IQCxI4nws964fic1Q4pv) | [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo) | [Love Story](https://open.spotify.com/album/7BuoXUb63gAPM9CMOlXJw1) | 3:50 | 2021-12-16 |  |

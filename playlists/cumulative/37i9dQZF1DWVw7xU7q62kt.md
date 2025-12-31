@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-731 songs - 1 day 7 hr 31 min
+732 songs - 1 day 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -383,6 +383,7 @@
 | [Midnight Groove](https://open.spotify.com/track/4C4o9gN2yrifR5k7FIsDze) | [xander.](https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3), [Loyae](https://open.spotify.com/artist/4Euj21Xnjoe3pGCcXPAo4I) | [Storytelling](https://open.spotify.com/album/08Y9RaMwqw9G2kv9xW7NZU) | 2:00 | 2024-09-06 | 2025-09-13 |
 | [Midnight Tokyo](https://open.spotify.com/track/1NkMK6oNQXBtfyz6T2zRrJ) | [Dreamlike Studio](https://open.spotify.com/artist/3VlRT5debonTpgMwGxtLtF) | [Midnight Tokyo](https://open.spotify.com/album/1vIQMLWca2bhhBYnyDq2b0) | 2:09 | 2023-08-22 | 2025-04-12 |
 | [Midwinter](https://open.spotify.com/track/54HrOr8kE2HJZb1af5qBuD) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ), [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE) | [Midwinter](https://open.spotify.com/album/1xt4asJhgJkJrHP3DAELoz) | 2:09 | 2025-12-05 |  |
+| [might rain tomorrow](https://open.spotify.com/track/6vc52uv9RJMpV9Xf5aEVlR) | [L.Dre](https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k) | [might rain tomorrow](https://open.spotify.com/album/5mAC4LTIHdnAviSiTRTyzb) | 2:15 | 2025-12-26 |  |
 | [Milan](https://open.spotify.com/track/6xPcweC9D2b71oNuDKHaGX) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [tenkousei.](https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N) | [Milan](https://open.spotify.com/album/1ArWhIgs9AndfjneCPIPJj) | 1:52 | 2024-10-11 | 2025-09-06 |
 | [Milky Way](https://open.spotify.com/track/7zY3iKICuyYyIYTcclrM9N) | [Monocloud](https://open.spotify.com/artist/5nljYdfvafyRYs5soqzJ1U), [Howden](https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi) | [Milky Way](https://open.spotify.com/album/1QgZrwiERIJs7TeRXHzxz4) | 2:28 | 2025-09-12 |  |
 | [Minding My Business](https://open.spotify.com/track/3NaH4hu4TzPWn2C6NFNL4q) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80), [Sandro Sáez](https://open.spotify.com/artist/71P7tytRaoKRwY1Rx2tvKO) | [Realm of Ideas](https://open.spotify.com/album/4pVmtV0zKvpv0yhneUtdj1) | 3:45 | 2023-08-22 | 2025-03-25 |
@@ -674,7 +675,7 @@
 | [Tropical Punch](https://open.spotify.com/track/5DnfFJQpfm15uitIhcyVQx) | [floomyy](https://open.spotify.com/artist/2E40ubnQwwZUAfdCbDwajO), [Sheath](https://open.spotify.com/artist/0IlAtf4VeHUzQYRM8GMWXw), [cløse2u](https://open.spotify.com/artist/4SAUbKw5T4xORiIq16XKUE) | [Tropical Punch](https://open.spotify.com/album/3TW0xHrtqozU7yG7rj76xt) | 2:10 | 2025-10-24 |  |
 | [True Story](https://open.spotify.com/track/7tAFfi42POcRGo1jh7j5Gy) | [Psylone](https://open.spotify.com/artist/1VsZq5rWtH7U1E3M2lpud2) | [True Story](https://open.spotify.com/album/6PamX3kvwFHm1vwvtMYBcb) | 1:46 | 2025-11-21 |  |
 | [Twice](https://open.spotify.com/track/4iX9tgy7wJAVb8Bmkp5qih) | [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl), [Nico Harris](https://open.spotify.com/artist/7uG2WfWc9JvU3scV41GzpM) | [Twice](https://open.spotify.com/album/0K1koM4cgGbDTFfMAR6I0p) | 2:21 | 2025-02-21 | 2025-03-12 |
-| [Twice](https://open.spotify.com/track/2xGheB7VD7uz0WHrjeN3eY) | [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Twice](https://open.spotify.com/album/5MtcP1j0ZGLfCQkCHmlPtI) | 2:02 | 2024-08-30 |  |
+| [Twice](https://open.spotify.com/track/2xGheB7VD7uz0WHrjeN3eY) | [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Twice](https://open.spotify.com/album/5MtcP1j0ZGLfCQkCHmlPtI) | 2:02 | 2024-08-30 | 2025-12-31 |
 | [Twilight Talks](https://open.spotify.com/track/30dqnlvFB324oieCnSkSPp) | [Mattari](https://open.spotify.com/artist/2vvyHDrc6kPcPXcTlIaumC) | [Twilight Talks](https://open.spotify.com/album/155DYfLTyRXesb2NoaXixp) | 2:16 | 2025-02-14 | 2025-03-08 |
 | [Twinkles](https://open.spotify.com/track/4cLHFuugccA4MqTZ6SiVY7) | [Greg Spero](https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd) | [Twinkles](https://open.spotify.com/album/56v5lYuiMgsqZxjL3vC0Vn) | 2:41 | 2023-10-13 | 2024-09-01 |
 | [u'pond waters](https://open.spotify.com/track/3pbZPVeeJD6uEQuTYNMXui) | [Jökull Logi](https://open.spotify.com/artist/2nA2IdGdoXBV7N1c43a4cq), [Jasada](https://open.spotify.com/artist/6Z8DZJYoBbxLI1tNldwxhx), [Anton](https://open.spotify.com/artist/7crM3nBmCpsIrBUOCpo6jA) | [u’pond waters](https://open.spotify.com/album/7iIoKTHKWvD09rDYiUH3MK) | 1:38 | 2025-04-11 | 2025-06-16 |

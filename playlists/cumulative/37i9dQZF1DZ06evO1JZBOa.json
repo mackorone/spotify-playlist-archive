@@ -182,7 +182,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 252447,
       "name": "African Pop Session",
       "url": "https://open.spotify.com/track/3vgr28nj9y5KgpDoscc9eD"
@@ -2798,6 +2798,36 @@
       "duration_ms": 184240,
       "name": "Senga",
       "url": "https://open.spotify.com/track/4DbnSZZzv5DvvqOC4hG14q"
+    },
+    {
+      "album": {
+        "name": "Red Hot + Riot",
+        "url": "https://open.spotify.com/album/1A8CTj3nDNQrxNs6kXEYsq"
+      },
+      "artists": [
+        {
+          "name": "Cheikh L\u00f4",
+          "url": "https://open.spotify.com/artist/6CFWXwqEBUi0UFoIIxmg9h"
+        },
+        {
+          "name": "Les Nubians",
+          "url": "https://open.spotify.com/artist/55PeYSS1g71a1BZLeIr0Sd"
+        },
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        },
+        {
+          "name": "Chateau Flight",
+          "url": "https://open.spotify.com/artist/6mtCXhF5yj1GUsQItDNDwr"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287200,
+      "name": "Shakara / Lady, Pt. 2",
+      "url": "https://open.spotify.com/track/2nrMpo1UZZkoC2mZXjWYZZ"
     },
     {
       "album": {

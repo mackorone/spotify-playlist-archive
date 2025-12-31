@@ -1,6 +1,6 @@
 {
   "description": "Pos\u0142uchaj zwyci\u0119zc\u00f3w i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 19296,
+  "num_followers": 19295,
   "original_name": "Fryderyk 2025",
   "owner": {
     "name": "Spotify",
@@ -1235,34 +1235,6 @@
     {
       "added_at": "2025-04-06 08:27:45",
       "album": {
-        "name": "I Love Music",
-        "url": "https://open.spotify.com/album/3ax69VaksMlVgF40ODHaGj"
-      },
-      "artists": [
-        {
-          "name": "Piotr Wyle\u017co\u0142",
-          "url": "https://open.spotify.com/artist/6kFGf7LjZ4VWQoLDpV01Wx"
-        },
-        {
-          "name": "Andy Middleton",
-          "url": "https://open.spotify.com/artist/3l4FSoJ0ryzsijXpfzRK0N"
-        },
-        {
-          "name": "Ferenc Nemeth",
-          "url": "https://open.spotify.com/artist/4O5HLtQDOEZSd3bekZBIBB"
-        },
-        {
-          "name": "Micha\u0142 Bara\u0144ski",
-          "url": "https://open.spotify.com/artist/6oH0zM5dxLJn7DSHsKuM0A"
-        }
-      ],
-      "duration_ms": 443446,
-      "name": "Tatras",
-      "url": "https://open.spotify.com/track/4wqezzclMc5BojbtQp0b8r"
-    },
-    {
-      "added_at": "2025-04-06 08:27:45",
-      "album": {
         "name": "Vanishing",
         "url": "https://open.spotify.com/album/4pNzM3vvZzIRBkJmfLreja"
       },
@@ -1295,6 +1267,34 @@
       "duration_ms": 332013,
       "name": "String Quartet No. 1 \"Atomizations\": I. Interference",
       "url": "https://open.spotify.com/track/2auYHPWeVSB8tWYJJwh5EI"
+    },
+    {
+      "added_at": "2025-04-06 08:27:45",
+      "album": {
+        "name": "I Love Music",
+        "url": "https://open.spotify.com/album/3ax69VaksMlVgF40ODHaGj"
+      },
+      "artists": [
+        {
+          "name": "Piotr Wyle\u017co\u0142",
+          "url": "https://open.spotify.com/artist/6kFGf7LjZ4VWQoLDpV01Wx"
+        },
+        {
+          "name": "Andy Middleton",
+          "url": "https://open.spotify.com/artist/3l4FSoJ0ryzsijXpfzRK0N"
+        },
+        {
+          "name": "Ferenc Nemeth",
+          "url": "https://open.spotify.com/artist/4O5HLtQDOEZSd3bekZBIBB"
+        },
+        {
+          "name": "Micha\u0142 Bara\u0144ski",
+          "url": "https://open.spotify.com/artist/6oH0zM5dxLJn7DSHsKuM0A"
+        }
+      ],
+      "duration_ms": 443446,
+      "name": "Tatras",
+      "url": "https://open.spotify.com/track/4wqezzclMc5BojbtQp0b8r"
     },
     {
       "added_at": "2025-04-06 08:27:45",

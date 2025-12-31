@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-3,014 songs - 8 day 10 hr 35 min
+3,015 songs - 8 day 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1593,6 +1593,7 @@
 | [Magical Mystery Tour](https://open.spotify.com/track/5nKliAyd1vA7ojwU1W3eui) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Magical Mystery Tour](https://open.spotify.com/album/5VJWGEc9eVnU3NsAYvJdYk) | 2:58 | 2023-03-24 | 2023-04-01 |
 | [Magnificent](https://open.spotify.com/track/2gGsUlqs3y4yRNh1a372Qp) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Magnificent](https://open.spotify.com/album/70bnRdCfNQrboNva4UvNpl) | 4:35 | 2024-04-26 | 2024-05-25 |
 | [Mailman, Bring Me No More Blues](https://open.spotify.com/track/1GHdb5JUpRpCtpIUsII6OF) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Power To The People \(Home Jam\)](https://open.spotify.com/album/4nB3cheT8SHTLRjCdHbiMS) | 2:37 | 2025-11-14 | 2025-11-16 |
+| [Make It All Right](https://open.spotify.com/track/64BN7rBY7xkNBsVP8WmS0g) | [Sparrow Sleeps](https://open.spotify.com/artist/2VURgzr9TpBmYJEqU25RUw), [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Let The Bedtimes Roll: Lullaby renditions of The Offspring](https://open.spotify.com/album/3Zpe0AzYr4q5AJ7GkrkzjQ) | 5:30 | 2025-12-26 |  |
 | [Make It All Right](https://open.spotify.com/track/1N0O2fiLHAPkscHxa3ccW2) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Make It All Right](https://open.spotify.com/album/46M6MJ9pfT88HsUcm9GTnp) | 3:34 | 2024-06-07 | 2024-07-07 |
 | [Make It Make Sense](https://open.spotify.com/track/4KFGxkAAP5D1HIBSwMv7d1) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Make It Make Sense](https://open.spotify.com/album/3TBw5z9f7WZ6Per1aTNkuC) | 3:08 | 2025-02-21 | 2025-03-16 |
 | [Make Up Your Mind](https://open.spotify.com/track/5S1BWTNLOZd9N4iQlo7JAo) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Make Up Your Mind](https://open.spotify.com/album/3AmUXywfa5M9VfJ8I67P5U) | 3:38 | 2025-03-07 | 2025-03-30 |
@@ -2816,7 +2817,7 @@
 | [Walking in Memphis \- \(Shut Up and Dance Vocal Mix\) \[2023 Remaster\]](https://open.spotify.com/track/1WGBQmC9tipRx7WDeQbX2f) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt), [Shut Up and Dance](https://open.spotify.com/artist/5m8iUPCoViiUr1fXKjX7ej) | [Walking in Memphis \(Shut Up and Dance Vocal Mix\) \[2023 Remaster\]](https://open.spotify.com/album/503dfB16uM3a4z4VSC5CWx) | 5:07 | 2023-06-02 | 2023-06-24 |
 | [Walking the Dog \(demo\) \- Outtake](https://open.spotify.com/track/5mnQdn1sVh1x5CAMuEGoFT) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie \(30th Anniversary Outtakes\)](https://open.spotify.com/album/5kxAELUDKq5GEVyTsImXZu) | 2:49 | 2023-09-08 | 2023-09-22 |
 | [Waltz Of The Flowers \- LoFi Version](https://open.spotify.com/track/3zLgHPcDzAFDTTNSWoOBYy) | [ClassicFi](https://open.spotify.com/artist/1RkfzwDP8VmtgSp7hCd3kB), [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA) | [Waltz Of The Flowers \(LoFi Version\)](https://open.spotify.com/album/6IOc3jizMj5wRf8XlHoTty) | 2:40 | 2025-05-30 | 2025-06-21 |
-| [Want You Bad](https://open.spotify.com/track/6dMMyzKdrWSGGwuMIt8P1M) | [Sparrow Sleeps](https://open.spotify.com/artist/2VURgzr9TpBmYJEqU25RUw), [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Let The Bedtimes Roll: Lullaby renditions of The Offspring](https://open.spotify.com/album/3Zpe0AzYr4q5AJ7GkrkzjQ) | 3:09 | 2025-12-26 |  |
+| [Want You Bad](https://open.spotify.com/track/6dMMyzKdrWSGGwuMIt8P1M) | [Sparrow Sleeps](https://open.spotify.com/artist/2VURgzr9TpBmYJEqU25RUw), [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Let The Bedtimes Roll: Lullaby renditions of The Offspring](https://open.spotify.com/album/3Zpe0AzYr4q5AJ7GkrkzjQ) | 3:09 | 2025-12-26 | 2025-12-31 |
 | [War Machine \- Live From Mid\-Hudson Civic Arena, Poughkeepsie NY / 1984](https://open.spotify.com/track/4TGGes67WpoOdBmVTPJG7Z) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [War Machine / Creatures Of The Night \(Live In Poughkeepsie / 1984\)](https://open.spotify.com/album/1U3yjfYHOCQYwixpj1LaQi) | 4:14 | 2023-03-17 | 2023-03-25 |
 | [War Pigs \- Charity Version](https://open.spotify.com/track/14M0JWFCnsKNGSvzDn0j6q) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I), [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [War Pigs \(Charity Version\)](https://open.spotify.com/album/4YeoFXF8LyFRSHm6LhUHGf) | 8:04 | 2025-10-24 | 2025-10-26 |
 | [War Pigs \- Live](https://open.spotify.com/track/2z8dO7MP5goxiBEodwRwJg) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Nuit Noire \(Live\)](https://open.spotify.com/album/7xzLCBOOea4LfGiO1KA0hj) | 7:23 | 2023-07-07 | 2023-07-14 |

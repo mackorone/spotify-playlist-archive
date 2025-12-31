@@ -2,7 +2,7 @@
 
 ### [Hot Hits Switzerland](https://open.spotify.com/playlist/37i9dQZF1DX0MD19TXm0aV)
 
-> Switzerland's biggest hits right now\. Cover: Tame Impala
+> Switzerland's biggest hits right now\. Cover: disiz, Theodora
 
 327 songs - 16 hr 16 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX786ROcOIz84.md) - [plain]
 
 > the best beats from new lofi in 2025, picked by our editors\. focus, chill, see you in 2026\. cover: Leavv
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,100 likes - 100 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,197 likes - 100 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

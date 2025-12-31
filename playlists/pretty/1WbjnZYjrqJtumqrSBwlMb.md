@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,193 songs - 3 day 1 hr 20 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,194 songs - 3 day 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1201,5 +1201,6 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 1191 | [Get Your Wish](https://open.spotify.com/track/4Mn9mcuSPHfvKy2BSAYxcV) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Nurture](https://open.spotify.com/album/3QITXlmmt93E176jzVqKUb) | 3:38 |
 | 1192 | [Look at the Sky](https://open.spotify.com/track/7LMajLn4v2ZWmLcfE1a7DY) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Nurture](https://open.spotify.com/album/3QITXlmmt93E176jzVqKUb) | 5:09 |
 | 1193 | [Crying, Laughing, Loving, Lying](https://open.spotify.com/track/4QOqvhGpIbEKvQVJAqQa3L) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [Y’all](https://open.spotify.com/album/3QliGTfl4dbkKLI17VkbVl) | 2:23 |
+| 1194 | [Ode To The Mets](https://open.spotify.com/track/1BLOVHYYlH4JUHQGcpt75R) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [The New Abnormal](https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN) | 5:51 |
 
-Snapshot ID: `AAAJl8oiCMEN2J0FqPyQzrpgzFMUnPpn`
+Snapshot ID: `AAAJmGVm2TAnwXk0r/YNeCJZzAgl2ivu`

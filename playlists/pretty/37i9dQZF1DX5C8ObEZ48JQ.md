@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > Our 50 favourite tracks of 2025 from independent artists & labels\. Chosen by Spotify editors, featuring Mavo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,404 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,407 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

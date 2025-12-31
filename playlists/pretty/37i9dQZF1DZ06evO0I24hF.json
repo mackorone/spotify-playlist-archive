@@ -1,12 +1,12 @@
 {
   "description": "This is Gigi Perez. The essential tracks, all in one playlist.",
-  "num_followers": 7766,
+  "num_followers": 7774,
   "original_name": "This Is Gigi Perez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVBzAAAAAAAR68FMvg0zK/KF7WHOXgfB",
+  "snapshot_id": "aVHEgAAAAACdZ8PcsZ3h7cMLQ0a+gA4W",
   "tracks": [
     {
       "added_at": null,
@@ -31,22 +31,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sailor Song",
-        "url": "https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e"
-      },
-      "artists": [
-        {
-          "name": "Gigi Perez",
-          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
-        }
-      ],
-      "duration_ms": 211978,
-      "name": "Sailor Song",
-      "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "At The Beach, In Every Life",
         "url": "https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl"
       },
@@ -56,9 +40,9 @@
           "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
         }
       ],
-      "duration_ms": 261005,
-      "name": "Fable",
-      "url": "https://open.spotify.com/track/7GjxQQQD9jYCF2Eeh2HHcT"
+      "duration_ms": 211978,
+      "name": "Sailor Song",
+      "url": "https://open.spotify.com/track/21IYMdzTrzSe191Cy5eMap"
     },
     {
       "added_at": null,
@@ -124,9 +108,9 @@
           "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Please Be Rude",
-      "url": "https://open.spotify.com/track/7bLFtDcAmwVD3pw7zTUfmy"
+      "duration_ms": 261005,
+      "name": "Fable",
+      "url": "https://open.spotify.com/track/7GjxQQQD9jYCF2Eeh2HHcT"
     },
     {
       "added_at": null,
@@ -176,9 +160,9 @@
           "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
         }
       ],
-      "duration_ms": 237809,
-      "name": "At The Beach, In Every Life",
-      "url": "https://open.spotify.com/track/5LfgzPHvka22FdRAxOme6m"
+      "duration_ms": 180000,
+      "name": "Please Be Rude",
+      "url": "https://open.spotify.com/track/7bLFtDcAmwVD3pw7zTUfmy"
     },
     {
       "added_at": null,
@@ -208,9 +192,9 @@
           "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
         }
       ],
-      "duration_ms": 232653,
-      "name": "Sleeping",
-      "url": "https://open.spotify.com/track/3x8ZN5mCjRNuHkCgqRAaob"
+      "duration_ms": 237809,
+      "name": "At The Beach, In Every Life",
+      "url": "https://open.spotify.com/track/5LfgzPHvka22FdRAxOme6m"
     },
     {
       "added_at": null,
@@ -240,9 +224,9 @@
           "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
         }
       ],
-      "duration_ms": 284137,
-      "name": "Chemistry",
-      "url": "https://open.spotify.com/track/4xhsAoMER10d3dcRFvT8kk"
+      "duration_ms": 232653,
+      "name": "Sleeping",
+      "url": "https://open.spotify.com/track/3x8ZN5mCjRNuHkCgqRAaob"
     },
     {
       "added_at": null,
@@ -272,9 +256,9 @@
           "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
         }
       ],
-      "duration_ms": 338474,
-      "name": "Normalcy",
-      "url": "https://open.spotify.com/track/44FrsRwZEDZHgLbbObA8Z4"
+      "duration_ms": 284137,
+      "name": "Chemistry",
+      "url": "https://open.spotify.com/track/4xhsAoMER10d3dcRFvT8kk"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-3,784 songs - 8 day 8 hr 51 min
+3,787 songs - 8 day 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -473,6 +473,7 @@
 | [Captain of the Rugby Team](https://open.spotify.com/track/3ZDp6OuvHgh6ZWH1bhUGwv) | [Sweaty Palms](https://open.spotify.com/artist/7kLbjzLVDQ8Gve5cKwHROO) | [Quit Now](https://open.spotify.com/album/3yc18zKBfa7F5ALRcaeWrk) | 3:16 | 2025-11-04 |  |
 | [Captain of the Rugby Team](https://open.spotify.com/track/4KjqhT9VSBBfIjGPq6TXYQ) | [Sweaty Palms](https://open.spotify.com/artist/7kLbjzLVDQ8Gve5cKwHROO) | [Quit Now](https://open.spotify.com/album/6yIRVRIooxORgGO5XeWdY4) | 3:16 | 2025-11-05 |  |
 | [Cara Vita Mia](https://open.spotify.com/track/5fpkiBCNv7uiuwfvxROfLU) | [Carducci](https://open.spotify.com/artist/2THb3si9v6rQ2uqBAp8ZMf) | [Le vie del Cercatore](https://open.spotify.com/album/2RprCD6Thm9yNUx86vWxeC) | 3:08 | 2025-06-25 |  |
+| [Carolina](https://open.spotify.com/track/3tmKJm7GurhO7gYpQHj2vJ) | [zrina](https://open.spotify.com/artist/1lNyFRu90mDAuRQlH88Ex3), [jfm](https://open.spotify.com/artist/5d1jlBU5YU3hNFJwmVTKR0) | [Carolina](https://open.spotify.com/album/16MLS4M1deA7XetqvCfZ3q) | 4:36 | 2025-12-30 |  |
 | [Carousel](https://open.spotify.com/track/0TKoAx8rLZIzIHr109urz5) | [Summerdrive](https://open.spotify.com/artist/5RASv130lmR8GyP0EcQLjJ) | [Carousel](https://open.spotify.com/album/3cL3FChptpE0jmAMh9rqT2) | 4:20 | 2025-05-14 |  |
 | [Casa Random](https://open.spotify.com/track/2RshvRBo3TeIoHI34nYB5D) | [Luca V](https://open.spotify.com/artist/2tze54Nz6Eo2wxev8GudWU) | [Casa Random](https://open.spotify.com/album/0fJATgsd3EOiqsabQAGV91) | 2:23 | 2025-07-03 |  |
 | [Cassette Dreams](https://open.spotify.com/track/5OBhYAansEDPBhM7jZ5unM) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Tape'n roll](https://open.spotify.com/album/6yfNduDodOKYVRsLkl2Awp) | 2:47 | 2025-09-19 |  |
@@ -796,6 +797,7 @@
 | [Dead Oceans](https://open.spotify.com/track/24MJFUueNHVGnyTiCzKBx7) | [Ural Mountains](https://open.spotify.com/artist/2UfM6MW4B1ruqon7xmQwf3) | [Dead Oceans](https://open.spotify.com/album/2V5VrVlhZXp6WYOO6dSYSC) | 3:58 | 2025-01-29 |  |
 | [Deadly Addiction](https://open.spotify.com/track/1YMf8qAuhK3EJqor4xc9bS) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Absinthe Nights](https://open.spotify.com/album/4OEm70Vv5QIeDRUKSrKx1m) | 2:47 | 2025-09-15 |  |
 | [Deadly Paradise](https://open.spotify.com/track/1vcrlldIQ36dZoZcXOnAf4) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Neon Apocalypse](https://open.spotify.com/album/0CjDkfwPy9Iw8wYV8GKLRG) | 2:18 | 2025-09-16 |  |
+| [December Fields \(Distribution\)](https://open.spotify.com/track/4bddpe4brO09lyHpE7lb9N) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [December Fields](https://open.spotify.com/album/2aRIUc4AfB3f7FKwqH7MZq) | 4:06 | 2025-12-30 |  |
 | [Decisions](https://open.spotify.com/track/0gyylCldcBhBbnnRlrXF2Q) | [Joe Trufant](https://open.spotify.com/artist/7eSD0ds0eBP3bC3a31mhe5) | [Decisions](https://open.spotify.com/album/4evCvOxwrSos0EN5OgXVeM) | 2:10 | 2025-05-16 |  |
 | [Decisive](https://open.spotify.com/track/5dq5nUnV7vkd3dUYdOm9nQ) | [Paranoize](https://open.spotify.com/artist/2IsNoOamJMVdmEKK4dQKcS) | [Decisive](https://open.spotify.com/album/6dJcTXMtunwNwFpGlIwXk7) | 4:07 | 2025-07-03 |  |
 | [deep down](https://open.spotify.com/track/5I5vatsJd4PPZRNgEMyonX) | [APRIL](https://open.spotify.com/artist/23cdrivHH2nRJCNn0zuSSc) | [deep down](https://open.spotify.com/album/7sdPbYbpSjyz5vZGI2mIfe) | 1:13 | 2025-05-16 |  |
@@ -3741,6 +3743,7 @@
 | [You're an Angel](https://open.spotify.com/track/5BP3Vmpo2LOQDYV3hSm5Ew) | [EmRysRa](https://open.spotify.com/artist/0Nankvxle3GVZIrXrhbV1m) | [You're an Angel](https://open.spotify.com/album/2JVd7ATyYbhVnhlQzl1Aq1) | 6:09 | 2025-06-04 |  |
 | [You're So Beautiful It Makes Me Sad \- Original Sin Mix](https://open.spotify.com/track/43g8yLOuRB57ZCcO7hpymA) | [Flowers For Juno](https://open.spotify.com/artist/19NcQpUIKDWzzmMdeLMMeM) | [You're So Beautiful It Makes Me Sad](https://open.spotify.com/album/4p9Uv0dIWq7e0h8Qee1hJp) | 4:35 | 2025-09-16 |  |
 | [Young Dev!L](https://open.spotify.com/track/7cQyKWsv0lRRRJGHSnNSqB) | [Ace\_Relevant](https://open.spotify.com/artist/01TENR8djYPZL8oeh4DrBO) | [Ace\_Relevant](https://open.spotify.com/album/7j3awrP8NcOkL4VIVjwZ78) | 2:14 | 2025-09-08 |  |
+| [Youngstown](https://open.spotify.com/track/6YmLz8uBq0uX9HkYgLzUOe) | [Deezol](https://open.spotify.com/artist/5ujrYiJqMeAmMMpC22ZLPS), [Buddha Redd](https://open.spotify.com/artist/56zrjCjfufYRkjYSQibL1x) | [Temple of Boone](https://open.spotify.com/album/2xtXCyhGVuWq0acGmGrkES) | 2:54 | 2025-12-30 |  |
 | [Your Betrayal](https://open.spotify.com/track/25GC50HslaaruyrKjdu0lP) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Fever](https://open.spotify.com/album/3q3DB4fElKDIDE2bXTLFlb) | 4:51 | 2025-04-09 |  |
 | [Your Phone's off the Hook, But You're Not](https://open.spotify.com/track/5RDm3lzSZTl7r1NsxcfmtG) | [Kate Clover](https://open.spotify.com/artist/2ruUPKyey3uXmASjTMOsu5), [Brandon Welchez](https://open.spotify.com/artist/6aOdN6sbcyCoq9ZsWUoGXo) | [Your Phone's off the Hook, But You're Not](https://open.spotify.com/album/4vRzPfTIOea2iLBn9SvoWW) | 2:22 | 2025-11-05 |  |
 | [Yuletide Groove](https://open.spotify.com/track/0IMhijByaJP13xSnJeO5D2) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Cool Christmas Music 2024](https://open.spotify.com/album/7she4qOnlfJb9w6nIjbqGQ) | 3:03 | 2025-09-17 |  |

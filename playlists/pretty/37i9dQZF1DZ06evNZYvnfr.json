@@ -1,12 +1,12 @@
 {
   "description": "This is Micah Tyler. The essential tracks, all in one playlist.",
-  "num_followers": 4657,
+  "num_followers": 4659,
   "original_name": "This Is Micah Tyler",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVBzAAAAAAB0zfQbYyOhMGv5K0bwBD/Y",
+  "snapshot_id": "aVHEgAAAAABVoOl4qStUgOcD6x+eBppD",
   "tracks": [
     {
       "added_at": null,
@@ -75,8 +75,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I See Grace",
-        "url": "https://open.spotify.com/album/7LFddJR03IFXK5AY3qV2Il"
+        "name": "Praise The Lord",
+        "url": "https://open.spotify.com/album/1AnJKH5NbCHe9oyVTjaVeN"
       },
       "artists": [
         {
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
         }
       ],
-      "duration_ms": 193865,
-      "name": "I See Grace",
-      "url": "https://open.spotify.com/track/3QT7ruZDodBTndp0q0EpW5"
+      "duration_ms": 198745,
+      "name": "Praise The Lord",
+      "url": "https://open.spotify.com/track/6kewFKMdQ9pkCBuLvpfWXA"
     },
     {
       "added_at": null,
@@ -107,8 +107,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Praise The Lord",
-        "url": "https://open.spotify.com/album/1AnJKH5NbCHe9oyVTjaVeN"
+        "name": "I See Grace",
+        "url": "https://open.spotify.com/album/7LFddJR03IFXK5AY3qV2Il"
       },
       "artists": [
         {
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
         }
       ],
-      "duration_ms": 198745,
-      "name": "Praise The Lord",
-      "url": "https://open.spotify.com/track/6kewFKMdQ9pkCBuLvpfWXA"
+      "duration_ms": 193865,
+      "name": "I See Grace",
+      "url": "https://open.spotify.com/track/3QT7ruZDodBTndp0q0EpW5"
     },
     {
       "added_at": null,
@@ -462,11 +462,15 @@
         {
           "name": "Micah Tyler",
           "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        },
+        {
+          "name": "Phil King",
+          "url": "https://open.spotify.com/artist/1M7IqeW8EcYmcuuPkiwVDz"
         }
       ],
-      "duration_ms": 202410,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/4m8C3TE9KxBShNUWhNSw0v"
+      "duration_ms": 166623,
+      "name": "Headed for the Mountain (feat. Phil King)",
+      "url": "https://open.spotify.com/track/0jxbPoE0igClGfEM0yAJfn"
     },
     {
       "added_at": null,
@@ -526,15 +530,11 @@
         {
           "name": "Micah Tyler",
           "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
-        },
-        {
-          "name": "Phil King",
-          "url": "https://open.spotify.com/artist/1M7IqeW8EcYmcuuPkiwVDz"
         }
       ],
-      "duration_ms": 166623,
-      "name": "Headed for the Mountain (feat. Phil King)",
-      "url": "https://open.spotify.com/track/0jxbPoE0igClGfEM0yAJfn"
+      "duration_ms": 202410,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/4m8C3TE9KxBShNUWhNSw0v"
     },
     {
       "added_at": null,

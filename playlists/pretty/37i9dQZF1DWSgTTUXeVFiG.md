@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 
 > Los éxitos de siempre en concierto\. Foto: Celia Cruz
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,000 likes - 50 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,014 likes - 50 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSgTTUXeVFiG.md) - [plain]
 | 46 | [Yambeque \(feat\. José Alberto "El Canario"\)](https://open.spotify.com/track/0FcQUg9H6RC3fr7I8ecUpx) | [Sonora Ponceña](https://open.spotify.com/artist/39qcQ01yJQbaMje70kIiFa) | [50 Aniversario, Vol.2](https://open.spotify.com/album/7ftFj2k39BuPU2jpiVAvkt) | 10:45 |
 | 47 | [El Padre Antonio \- Live](https://open.spotify.com/track/4RUalJiPWxAs6oCvWLfA7s) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Ruben Blades Y Son Del Solar...Live!](https://open.spotify.com/album/2U4HAfJgw4mYV9ILruwt3u) | 8:46 |
 | 48 | [Mi Bajo y Yo \- Live Version](https://open.spotify.com/track/5VBWkhVysV6pW7Uiw5S4lb) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Sergio George Presents Salsa Giants \(Live\)](https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io) | 5:38 |
-| 49 | [He Tratado \- Live at MSG Version](https://open.spotify.com/track/2h93BD54TVsD2kq22uscBB) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Live At Madison Square Garden](https://open.spotify.com/album/73lQS6xaOyVGEoVCmcDWcQ) | 7:06 |
-| 50 | [Anacaona \- Live Version](https://open.spotify.com/track/2NVpzFcSsWsWPuyH1X6IXG) | [Cheo Feliciano](https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC) | [Sergio George Presents Salsa Giants \(Live\)](https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io) | 5:03 |
+| 49 | [Anacaona \- Live Version](https://open.spotify.com/track/2NVpzFcSsWsWPuyH1X6IXG) | [Cheo Feliciano](https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC) | [Sergio George Presents Salsa Giants \(Live\)](https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io) | 5:03 |
+| 50 | [Que Manera De Quererte \- Live Version](https://open.spotify.com/track/6C09eg8iPo0BTBwkaQpJjK) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Dos Soneros..\. Una Historia](https://open.spotify.com/album/4MpP6sfknKNUhYo0lvnaUU) | 6:37 |
 
 Snapshot ID: `AAAAALvBCeye4UL5Wi/5OPLkIEKXxqsW`

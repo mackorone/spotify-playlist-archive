@@ -1,12 +1,12 @@
 {
   "description": "This is Evaluna Montaner. The essential tracks, all in one playlist.",
-  "num_followers": 15622,
+  "num_followers": 15623,
   "original_name": "This Is Evaluna Montaner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVBzAAAAAACd+4ML2ZH5Gc7cz4l0mJQ7",
+  "snapshot_id": "aVHEgAAAAADZL9bdPlBAfIJLV/HzsLqC",
   "tracks": [
     {
       "added_at": null,
@@ -270,11 +270,15 @@
         {
           "name": "Club 57 Cast",
           "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
+        },
+        {
+          "name": "Carolina Mestrovic",
+          "url": "https://open.spotify.com/artist/4I0DfkIWaE6Qbf5XXVF2Z4"
         }
       ],
-      "duration_ms": 184770,
-      "name": "Cuando Te Enamores de M\u00ed",
-      "url": "https://open.spotify.com/track/7LWo2thKTCQngMPjDjjD1X"
+      "duration_ms": 177852,
+      "name": "Ladrona (feat. Carolina Mestrovic)",
+      "url": "https://open.spotify.com/track/4mNYI236bic5jVoZXZXYbH"
     },
     {
       "added_at": null,
@@ -338,15 +342,11 @@
         {
           "name": "Club 57 Cast",
           "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
-        },
-        {
-          "name": "Carolina Mestrovic",
-          "url": "https://open.spotify.com/artist/4I0DfkIWaE6Qbf5XXVF2Z4"
         }
       ],
-      "duration_ms": 177852,
-      "name": "Ladrona (feat. Carolina Mestrovic)",
-      "url": "https://open.spotify.com/track/4mNYI236bic5jVoZXZXYbH"
+      "duration_ms": 184770,
+      "name": "Cuando Te Enamores de M\u00ed",
+      "url": "https://open.spotify.com/track/7LWo2thKTCQngMPjDjjD1X"
     },
     {
       "added_at": null,
@@ -555,6 +555,74 @@
     {
       "added_at": null,
       "album": {
+        "name": "Te Digo Adi\u00f3s (feat. Fefi Oliveira)",
+        "url": "https://open.spotify.com/album/4eld4UYUr1RxKt5Z8ktFcI"
+      },
+      "artists": [
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        },
+        {
+          "name": "Club 57 Cast",
+          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
+        },
+        {
+          "name": "Fefi Oliveira",
+          "url": "https://open.spotify.com/artist/0q7queXJVvPOq2Ej8d2McH"
+        }
+      ],
+      "duration_ms": 191080,
+      "name": "Te Digo Adi\u00f3s (feat. Fefi Oliveira)",
+      "url": "https://open.spotify.com/track/1NIVpauTuDo7hvRNMi0KMw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Club 57",
+        "url": "https://open.spotify.com/album/6yENR9cVDPtcvcitHH4mAI"
+      },
+      "artists": [
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        },
+        {
+          "name": "Club 57 Cast",
+          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
+        },
+        {
+          "name": "Riccardo Frascari",
+          "url": "https://open.spotify.com/artist/0Bn3IBeAqidIrY3pURxJ76"
+        }
+      ],
+      "duration_ms": 178225,
+      "name": "Bailando en la Lluvia (feat. Riccardo Frascari)",
+      "url": "https://open.spotify.com/track/3mSbMxBPNuV1XQuxu3Us9o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sesi\u00f3n Org\u00e1nica: Parte 2",
+        "url": "https://open.spotify.com/album/4w2gKaPU12CcQC26Vb03Gu"
+      },
+      "artists": [
+        {
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+        },
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Beauty Of Grace - Acoustic Version",
+      "url": "https://open.spotify.com/track/2NSUZFHuWB3hQBKLnvpH1N"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "T\u00fa Cuentas Conmigo (feat. Carolina Mestrovic, Fefi Oliveira, Sebasti\u00e1n Silva & Santiago Achaga)",
         "url": "https://open.spotify.com/album/58oiaDxwcQwP3Os4WFmGQT"
       },
@@ -591,54 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Club 57",
-        "url": "https://open.spotify.com/album/6yENR9cVDPtcvcitHH4mAI"
-      },
-      "artists": [
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        },
-        {
-          "name": "Club 57 Cast",
-          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
-        },
-        {
-          "name": "Riccardo Frascari",
-          "url": "https://open.spotify.com/artist/0Bn3IBeAqidIrY3pURxJ76"
-        }
-      ],
-      "duration_ms": 178225,
-      "name": "Bailando en la Lluvia (feat. Riccardo Frascari)",
-      "url": "https://open.spotify.com/track/3mSbMxBPNuV1XQuxu3Us9o"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Te Digo Adi\u00f3s (feat. Fefi Oliveira)",
-        "url": "https://open.spotify.com/album/4eld4UYUr1RxKt5Z8ktFcI"
-      },
-      "artists": [
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        },
-        {
-          "name": "Club 57 Cast",
-          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
-        },
-        {
-          "name": "Fefi Oliveira",
-          "url": "https://open.spotify.com/artist/0q7queXJVvPOq2Ej8d2McH"
-        }
-      ],
-      "duration_ms": 191080,
-      "name": "Te Digo Adi\u00f3s (feat. Fefi Oliveira)",
-      "url": "https://open.spotify.com/track/1NIVpauTuDo7hvRNMi0KMw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cupido (feat. Sebasti\u00e1n Silva & Angela Rinc\u00f3n)",
         "url": "https://open.spotify.com/album/3ERDaRUarbID5w8WgS1KDY"
       },
@@ -663,26 +683,6 @@
       "duration_ms": 166140,
       "name": "Cupido (feat. Sebasti\u00e1n Silva & Angela Rinc\u00f3n)",
       "url": "https://open.spotify.com/track/58zDpy00YXfsLxKPOyrNIn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sesi\u00f3n Org\u00e1nica: Parte 2",
-        "url": "https://open.spotify.com/album/4w2gKaPU12CcQC26Vb03Gu"
-      },
-      "artists": [
-        {
-          "name": "Evan Craft",
-          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
-        },
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Beauty Of Grace - Acoustic Version",
-      "url": "https://open.spotify.com/track/2NSUZFHuWB3hQBKLnvpH1N"
     },
     {
       "added_at": null,

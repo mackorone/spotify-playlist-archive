@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DkoXgQ0hZhKSNaeqCQZqZ.md) - [plain]
 
 > FurryRadio.com, made for furs, by furs.
 
-[Zunkz](https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya) - 884 likes - 408 songs - 21 hr 14 min
+[Zunkz](https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya) - 885 likes - 408 songs - 21 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,11 +15,11 @@ pretty - [cumulative](/playlists/cumulative/3DkoXgQ0hZhKSNaeqCQZqZ.md) - [plain]
 | 5 | [Birdbrain!](https://open.spotify.com/track/40UHPOWIPMkI5jUnRJ81jl) | [Twilike Wonder](https://open.spotify.com/artist/0p6U88EWoDuBHtA2r7jtXV) | [Birdbrain!](https://open.spotify.com/album/1ATnijcOqHEqtPn1IRoMlN) | 4:19 |
 | 6 | [YOU AND I](https://open.spotify.com/track/5fEfU4mKQuTtdWu3Dalwve) | [GABUISLOST](https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH), [marshall4](https://open.spotify.com/artist/2BOw2Ooy4maMEzNg1LR0HJ) | [YOU AND I](https://open.spotify.com/album/1HW6pBPO3qwDMgfYVqOQkF) | 2:16 |
 | 7 | [Take Me 2 Your Home](https://open.spotify.com/track/2QaSEVvEucEfOBIFqKGjFZ) | [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K) | [Take Me 2 Your Home](https://open.spotify.com/album/0lX9wI8D3EFTPr6efx1WaR) | 2:48 |
-| 8 | [No Matter What \- 2025](https://open.spotify.com/track/2nttEafE6enCe92fHAzB4l) | [Vylet Pony](https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j), [Feather](https://open.spotify.com/artist/4oBxAkNjmwRxBLNV3pU7OD), [Namii](https://open.spotify.com/artist/1tC9tzzTRbx0gDMaNmxUZ6), [NekoSnicker](https://open.spotify.com/artist/0u5lrFG404zDUFTmcBmijo) | [No Matter What \(2025\)](https://open.spotify.com/album/5kuokGFStYashK9T9eFzAZ) | 3:33 |
-| 9 | [NEW DAY](https://open.spotify.com/track/4D6gqaHk1tqusRoqI5Vu3X) | [Mawstar](https://open.spotify.com/artist/2Jz7LoIGV3HsMuKXZ8PI2a) | [NEW DAY](https://open.spotify.com/album/4X7kybc3bVu0vcxuyDQkIx) | 1:56 |
-| 10 | [nonsense](https://open.spotify.com/track/2SpUYC5IpJQ4MxzCMqokCF) | [snazzyvaka](https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2) | [nonsense](https://open.spotify.com/album/74ORjGCgOqkeTtq0Jw126O) | 2:26 |
-| 11 | [CROSSPOIN2](https://open.spotify.com/track/645OW5CjvCvUCrcKbDb61a) | [BASSDOG](https://open.spotify.com/artist/12nm0BL6ld04PNgVi1UwwU) | [CROSSPOIN2](https://open.spotify.com/album/1zMd8rI0tkkeQkq1kd7EBc) | 6:33 |
-| 12 | [COOL](https://open.spotify.com/track/7DnQoAKAbH6iBrT2FruKvQ) | [Can of Bliss](https://open.spotify.com/artist/7aU24qpooQbJgquWphpTdT), [saoirse dream](https://open.spotify.com/artist/2xNs2zfnh52ORUTI4Qfvxf) | [CHAMPION](https://open.spotify.com/album/5lufjyPgNitwHis7Ch5n38) | 3:31 |
+| 8 | [NEW DAY](https://open.spotify.com/track/4D6gqaHk1tqusRoqI5Vu3X) | [Mawstar](https://open.spotify.com/artist/2Jz7LoIGV3HsMuKXZ8PI2a) | [NEW DAY](https://open.spotify.com/album/4X7kybc3bVu0vcxuyDQkIx) | 1:56 |
+| 9 | [nonsense](https://open.spotify.com/track/2SpUYC5IpJQ4MxzCMqokCF) | [snazzyvaka](https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2) | [nonsense](https://open.spotify.com/album/74ORjGCgOqkeTtq0Jw126O) | 2:26 |
+| 10 | [CROSSPOIN2](https://open.spotify.com/track/645OW5CjvCvUCrcKbDb61a) | [BASSDOG](https://open.spotify.com/artist/12nm0BL6ld04PNgVi1UwwU) | [CROSSPOIN2](https://open.spotify.com/album/1zMd8rI0tkkeQkq1kd7EBc) | 6:33 |
+| 11 | [COOL](https://open.spotify.com/track/7DnQoAKAbH6iBrT2FruKvQ) | [Can of Bliss](https://open.spotify.com/artist/7aU24qpooQbJgquWphpTdT), [saoirse dream](https://open.spotify.com/artist/2xNs2zfnh52ORUTI4Qfvxf) | [CHAMPION](https://open.spotify.com/album/5lufjyPgNitwHis7Ch5n38) | 3:31 |
+| 12 | [No Matter What \- 2025](https://open.spotify.com/track/2nttEafE6enCe92fHAzB4l) | [Vylet Pony](https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j), [Feather](https://open.spotify.com/artist/4oBxAkNjmwRxBLNV3pU7OD), [Namii](https://open.spotify.com/artist/1tC9tzzTRbx0gDMaNmxUZ6), [NekoSnicker](https://open.spotify.com/artist/0u5lrFG404zDUFTmcBmijo) | [No Matter What \(2025\)](https://open.spotify.com/album/5kuokGFStYashK9T9eFzAZ) | 3:33 |
 | 13 | [Little Something Blue](https://open.spotify.com/track/2CjIzdNBJkrxELV6HmW2Vl) | [Alecs Dyno](https://open.spotify.com/artist/7l4nppdq0TLcDEtw7MjGyP) | [Without Fireworks](https://open.spotify.com/album/0LpSXydYGJvtPDiuvGq2Lx) | 3:24 |
 | 14 | [I Still Create](https://open.spotify.com/track/0IqTgwWU2syiSYbdBEromt) | [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq) | [I Still Create](https://open.spotify.com/album/0A8AvUQ22Y2ZtbjvniXSh9) | 3:53 |
 | 15 | [1 d0n7 w4nN4 w417](https://open.spotify.com/track/3RCzbEvH4d2hX6DJO8sGli) | [Mek\-9](https://open.spotify.com/artist/1hwHio6WU1HAhrevPbEqTQ) | [d0t r4Wr](https://open.spotify.com/album/3tpChLn0Ly6DHJ5fMg3oVt) | 3:00 |
@@ -417,4 +417,4 @@ pretty - [cumulative](/playlists/cumulative/3DkoXgQ0hZhKSNaeqCQZqZ.md) - [plain]
 | 407 | [No Eternity](https://open.spotify.com/track/4QuiLRd0pznAAdBBxVh5Gq) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [RET TRO](https://open.spotify.com/artist/0a2CSknxVwcDWdXR3QfO4x) | [No Eternity](https://open.spotify.com/album/7fLZtXo4I8mDBQZCmf9GaN) | 3:17 |
 | 408 | [i don't wanna](https://open.spotify.com/track/6WpDJFIu49wWtpPViObMXv) | [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [i don't wanna](https://open.spotify.com/album/3d9cpBCj3cSiBaI1ErfsPv) | 2:06 |
 
-Snapshot ID: `AAAEpChhI1yz5MWNFem/UgNOmc1MzKOS`
+Snapshot ID: `AAAEqL/lbQAWzYk1rACR23Iav/osfu9N`

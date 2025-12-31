@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaS51xPOw5FD.md) - [plain]
 
 > Euphoric drum & bass tracks for raving in the sunshine!
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,546 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,558 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaS51xPOw5FD.md) - [plain]
 | 73 | [Alive Again](https://open.spotify.com/track/42lBoreMgKdUW9ugLVDvgg) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR), [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9), [Emba](https://open.spotify.com/artist/5scIsOrV9flbeOPUtdv24H) | [Alive Again](https://open.spotify.com/album/1YD4pEVOFng1bTLwNLwN3c) | 3:13 |
 | 74 | [beachin](https://open.spotify.com/track/1LjMPAZCsTIdMuwlM9PcPF) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN), [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [beachin](https://open.spotify.com/album/0ceD9hGoyjc5kplHQNP4Mn) | 3:14 |
 | 75 | [Shut It Down](https://open.spotify.com/track/1KsTta93YQGtGid1W1x6ki) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [Elipsa](https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske) | [Shut It Down](https://open.spotify.com/album/540Df5chb7iGHb1GSCYD8B) | 2:58 |
-| 76 | [Inbetween](https://open.spotify.com/track/258dZAUO52hG9gC6MNIg8s) | [Burt Cope](https://open.spotify.com/artist/4zA0baLXvrcMcAVsUlOKcs) | [Inbetween](https://open.spotify.com/album/4cQoJVXYcZ9xpjpqUEK5Ds) | 2:14 |
-| 77 | [Thunderstorm \(feat\. Deyaz\)](https://open.spotify.com/track/0FM3AeTbUEZETmbbHWSyGK) | [CLIPZ](https://open.spotify.com/artist/6b0TSaLAeLXilOPoId8udE), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [Thunderstorm \(feat\. Deyaz\)](https://open.spotify.com/album/1XhCYaSTL2RoT0cNvpJcsV) | 3:32 |
+| 76 | [Thunderstorm \(feat\. Deyaz\)](https://open.spotify.com/track/0FM3AeTbUEZETmbbHWSyGK) | [CLIPZ](https://open.spotify.com/artist/6b0TSaLAeLXilOPoId8udE), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [Thunderstorm \(feat\. Deyaz\)](https://open.spotify.com/album/1XhCYaSTL2RoT0cNvpJcsV) | 3:32 |
+| 77 | [Inbetween](https://open.spotify.com/track/258dZAUO52hG9gC6MNIg8s) | [Burt Cope](https://open.spotify.com/artist/4zA0baLXvrcMcAVsUlOKcs) | [Inbetween](https://open.spotify.com/album/4cQoJVXYcZ9xpjpqUEK5Ds) | 2:14 |
 | 78 | [get it right.](https://open.spotify.com/track/53IZ6ZJJByEHMPzif5xBhP) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [Megan Linnell](https://open.spotify.com/artist/31HmXiJtyTOlEmh5rEl9xI) | [get it right.](https://open.spotify.com/album/20xhanWy6ap9lGVXtCG235) | 3:12 |
 | 79 | [Right Now](https://open.spotify.com/track/1k8XXzYfFYfFYpH7roV0na) | [Mia Kirkland](https://open.spotify.com/artist/4hfw8XD3PTSsBAKj3Zx3fD), [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC) | [Right Now](https://open.spotify.com/album/5OoEgzQw9LsTwJYnyrDkLF) | 3:11 |
 | 80 | [Hello](https://open.spotify.com/track/2YEJHljehDT4kktVq9v6YZ) | [Yue](https://open.spotify.com/artist/1f2R89vpkJBEwIF8jla4FI) | [Hello](https://open.spotify.com/album/0l3YAPM3P5jlFlen2m45MU) | 3:14 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaS51xPOw5FD.md) - [plain]
 | 95 | [Conveniency](https://open.spotify.com/track/0hneE3CWTOFd9PC3qKfJcU) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Conveniency](https://open.spotify.com/album/0lXN4MXvk2ix9IOfJdLDwY) | 2:22 |
 | 96 | [Didn't Wanna Know](https://open.spotify.com/track/6Gv8cu0sIg0scwXW6trU5b) | [Luke Gomm](https://open.spotify.com/artist/5n1DsrQDgo9Dqav2BZUeuB), [LZee](https://open.spotify.com/artist/3HnjTikMlwQmZt88pd5ONe) | [Didn't Wanna Know](https://open.spotify.com/album/0q0zgzjWc0CJG2aBEWLU3D) | 2:19 |
 | 97 | [All 4 U](https://open.spotify.com/track/2mPeYGo1y7vwkz6vU5dVbI) | [DJ Marky](https://open.spotify.com/artist/1rd51IrbtX9DqoU0Zxu4TV), [Javeon](https://open.spotify.com/artist/41sCs0Q7zO0ls64jWsHnj7) | [All 4 U](https://open.spotify.com/album/3tggQDQhchhwaogW1gRzmR) | 2:48 |
-| 98 | [Little Things \- Nia Archives Remix](https://open.spotify.com/track/2Fn1fXkRt03hV7uhrKfLh2) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Little Things \(Nia Archives Remix\)](https://open.spotify.com/album/6hvKJVCACQSgYJL3KMOAFb) | 2:40 |
-| 99 | [Stronger](https://open.spotify.com/track/6s1VtDd5JdK489f7bNNpIm) | [Blossom](https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V) | [Stronger](https://open.spotify.com/album/49xZUoFrCqdqxN9STJWYbl) | 4:25 |
+| 98 | [Stronger](https://open.spotify.com/track/6s1VtDd5JdK489f7bNNpIm) | [Blossom](https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V) | [Stronger](https://open.spotify.com/album/49xZUoFrCqdqxN9STJWYbl) | 4:25 |
+| 99 | [Little Things \- Nia Archives Remix](https://open.spotify.com/track/2Fn1fXkRt03hV7uhrKfLh2) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Little Things \(Nia Archives Remix\)](https://open.spotify.com/album/6hvKJVCACQSgYJL3KMOAFb) | 2:40 |
 | 100 | [Don’t Stop](https://open.spotify.com/track/7vtzmjUXOdfGXlLTPGBqrN) | [T & Sugah](https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH) | [Don’t Stop](https://open.spotify.com/album/6rjfjNGbVZaVQJfiNRHFmb) | 2:59 |
 
 Snapshot ID: `AAAAAPHy9g0qJoxRCopUVPKhFisBZv4d`

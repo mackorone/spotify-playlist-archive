@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QfDOCxg9IE.md) - [plain]
 
 > Άκου τα πιο χοτ trends στην Ελλάδα αυτή τη στιγμή!
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,145 likes - 60 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,149 likes - 60 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QfDOCxg9IE.md) - [plain]
 | 59 | [Everything Is Romantic](https://open.spotify.com/track/7250RSp7sakMDZoeXuywlx) | [Orchestra Club](https://open.spotify.com/artist/1U35nN8eXQXry3bbF53oKX) | [Everything Is Romantic](https://open.spotify.com/album/6ZTlwCCHO88CwzKxXiotaS) | 2:21 |
 | 60 | [Deutera](https://open.spotify.com/track/3LOXEAe5FMR1PRKiHAp9wt) | [Antonis Remos](https://open.spotify.com/artist/6s26Q38Zqc4hY3xe7jrEBG) | [Deutera](https://open.spotify.com/album/09QOrsNfrqiAkgiiOewiOC) | 4:00 |
 
-Snapshot ID: `AAAAAA7bHjKgT1sjfju/18pLnDgHsjVr`
+Snapshot ID: `AAAAAGh955yhM6wesAcoHVg4YL8pn5gw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3R5f8c.md) - [plain]
 
 > This is Black Coffee\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,255 likes - 50 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,327 likes - 50 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,12 +35,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3R5f8c.md) - [plain]
 | 25 | [Africa Shine](https://open.spotify.com/track/2OQkQAJk9NEotTdt0DmIUS) | [Mi Casa](https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Su Casa](https://open.spotify.com/album/0JnhG5mHpSHvdCQnzM3egu) | 5:26 |
 | 26 | [Gardens Of Eden](https://open.spotify.com/track/2ULJ82U9boJhUMi2yzgpuD) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Zonke](https://open.spotify.com/artist/1eBaQkCXWlq1vhCLMVFdqn) | [Home Brewed](https://open.spotify.com/album/4z9UkNYW3T0EZzcGNjBsSz) | 6:11 |
 | 27 | [Molo Sweetie](https://open.spotify.com/track/0XTKHw0Bp8WtfxSVSzXA3o) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Black Coffee](https://open.spotify.com/album/5FkN3oL9vnQOPB1M54Ej7E) | 5:43 |
-| 28 | [Uthando Lwam](https://open.spotify.com/track/7lp3w0kR7m6o3mrKLSXGkI) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Platinumb Heart Beating](https://open.spotify.com/album/5I1PuwMzFN5Ooh8R5zUncS) | 5:50 |
-| 29 | [Buya](https://open.spotify.com/track/7qP4NNGSSJEDL0rXplo2vZ) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Toshi](https://open.spotify.com/artist/6G621T2CmHyx5LCvd8QE63) | [Africa Rising](https://open.spotify.com/album/1GdL8XkbVTTVQPORBzmcMp) | 7:25 |
+| 28 | [Buya](https://open.spotify.com/track/7qP4NNGSSJEDL0rXplo2vZ) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Toshi](https://open.spotify.com/artist/6G621T2CmHyx5LCvd8QE63) | [Africa Rising](https://open.spotify.com/album/1GdL8XkbVTTVQPORBzmcMp) | 7:25 |
+| 29 | [Uthando Lwam](https://open.spotify.com/track/7lp3w0kR7m6o3mrKLSXGkI) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Platinumb Heart Beating](https://open.spotify.com/album/5I1PuwMzFN5Ooh8R5zUncS) | 5:50 |
 | 30 | [Someday](https://open.spotify.com/track/7chKchP8IVPi34sqbss0AH) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Zano](https://open.spotify.com/artist/44wIq4IVr26PvWKBWJ42vq) | [Home Brewed](https://open.spotify.com/album/4z9UkNYW3T0EZzcGNjBsSz) | 6:42 |
 | 31 | [Ode to Ancestors](https://open.spotify.com/track/0YCtLA3mpuU4Oqcl9Duqho) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Djimon Hounsou](https://open.spotify.com/artist/6hoEOl9IznIMCpG5fyUS09) | [Rebel Moon: Songs of the Rebellion \(Inspired by the Netflix Films\)](https://open.spotify.com/album/4oVBVsC9zkTHzeCRSmrAE3) | 5:53 |
-| 32 | [Rock My World \- Rancido Remix](https://open.spotify.com/track/1ucTDyNsXRPjjYGMMahN9w) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Soulstar](https://open.spotify.com/artist/5PekFhkqiljmAn0XKX5HFs) | [Rock My World](https://open.spotify.com/album/0ze5I4ST6pYask4NBTKSg9) | 7:11 |
-| 33 | [My Dream](https://open.spotify.com/track/6fLoatWbAn6nn02VIVuU4r) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Thiwe](https://open.spotify.com/artist/0iUfURNTBS7ScaEajv9Uve) | [Africa Rising](https://open.spotify.com/album/1GdL8XkbVTTVQPORBzmcMp) | 7:40 |
+| 32 | [My Dream](https://open.spotify.com/track/6fLoatWbAn6nn02VIVuU4r) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Thiwe](https://open.spotify.com/artist/0iUfURNTBS7ScaEajv9Uve) | [Africa Rising](https://open.spotify.com/album/1GdL8XkbVTTVQPORBzmcMp) | 7:40 |
+| 33 | [Rock My World \- Rancido Remix](https://open.spotify.com/track/1ucTDyNsXRPjjYGMMahN9w) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Soulstar](https://open.spotify.com/artist/5PekFhkqiljmAn0XKX5HFs) | [Rock My World](https://open.spotify.com/album/0ze5I4ST6pYask4NBTKSg9) | 7:11 |
 | 34 | [Juju](https://open.spotify.com/track/6nXK3ZzUeTXva5sOS7sqE1) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Zakes Bantwini](https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL) | [Home Brewed](https://open.spotify.com/album/4z9UkNYW3T0EZzcGNjBsSz) | 6:27 |
 | 35 | [Love On Fire \(feat\. Lungi Naidoo & Ribatone\)](https://open.spotify.com/track/2Yy3BzdOdn9uqMpeVePtL1) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Lungi Naidoo](https://open.spotify.com/artist/66qfrvIX87ukAaAgxE5inz), [Ribatone](https://open.spotify.com/artist/2DmNrE4gjmMEzL2jIvswrR) | [Pieces Of Me](https://open.spotify.com/album/6Ss90Zy6lfk5VHeX1JjasR) | 8:10 |
 | 36 | [Ready For The World \- Original Mix](https://open.spotify.com/track/2C5nA4hmzjzWPp8QW82pdo) | [Darque](https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Kaylow](https://open.spotify.com/artist/6nQFuQO2dqH8JR9ZhN0IyH) | [Ready For The World](https://open.spotify.com/album/02PUNZUgLIbRwg2QVKEfAN) | 7:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3R5f8c.md) - [plain]
 | 49 | [Traveller \- Extended Mix](https://open.spotify.com/track/3QF8Xtfvgnyk0tRUnDxTFU) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Nomsa Mazwai](https://open.spotify.com/artist/4oX9xchwhV2UzF7Wsxoyg5), [Black Motion](https://open.spotify.com/artist/4x6n41nYGT6O61pSfgW4z7) | [Traveller \(Extended Mix\)](https://open.spotify.com/album/1CnnR1LNyGFzpcNkrbljoB) | 7:19 |
 | 50 | [Even Though](https://open.spotify.com/track/26qQM5sqNWTedLxlWwMqXL) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Have Another One](https://open.spotify.com/album/5sMK7vkPd3CZF0fTny80gj) | 6:44 |
 
-Snapshot ID: `aVBzAAAAAACnGphnPX3r5bL5+z5RIL3c`
+Snapshot ID: `aVHEgAAAAAAKnyIJvUT1DMlDn+N0R1sF`

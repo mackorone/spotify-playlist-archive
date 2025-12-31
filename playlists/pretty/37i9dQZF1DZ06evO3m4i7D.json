@@ -1,12 +1,12 @@
 {
   "description": "This is Eugenio Esquivel. The essential tracks, all in one playlist.",
-  "num_followers": 2126,
+  "num_followers": 2127,
   "original_name": "This Is Eugenio Esquivel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVBzAAAAAABGeaWFUJUMsPoPCHZUvp4M",
+  "snapshot_id": "aVHEgAAAAAB0qDrHd4/5z9/bLj+H3tkr",
   "tracks": [
     {
       "added_at": null,
@@ -463,6 +463,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "CINTO ARMANI CON LOS TENIS TOMMY (REMIX)",
+        "url": "https://open.spotify.com/album/1MCfMKE6BNupH6KInSva9D"
+      },
+      "artists": [
+        {
+          "name": "Jared Fl\u00f3rez",
+          "url": "https://open.spotify.com/artist/5YeLPRA72cFvDkXHrbXQS7"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        }
+      ],
+      "duration_ms": 163370,
+      "name": "CINTO ARMANI CON LOS TENIS TOMMY - REMIX",
+      "url": "https://open.spotify.com/track/6kZSYKE80jmaPA04n8UssR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Prendo Un Gallo",
         "url": "https://open.spotify.com/album/5X6RDmfn1alCT7HxARkE6L"
       },
@@ -487,26 +507,6 @@
       "duration_ms": 142138,
       "name": "Prendo Un Gallo",
       "url": "https://open.spotify.com/track/272dYrwFE76Io6riUpLugS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CINTO ARMANI CON LOS TENIS TOMMY (REMIX)",
-        "url": "https://open.spotify.com/album/1MCfMKE6BNupH6KInSva9D"
-      },
-      "artists": [
-        {
-          "name": "Jared Fl\u00f3rez",
-          "url": "https://open.spotify.com/artist/5YeLPRA72cFvDkXHrbXQS7"
-        },
-        {
-          "name": "Eugenio Esquivel",
-          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
-        }
-      ],
-      "duration_ms": 163370,
-      "name": "CINTO ARMANI CON LOS TENIS TOMMY - REMIX",
-      "url": "https://open.spotify.com/track/6kZSYKE80jmaPA04n8UssR"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Valent\u00edn Elizalde. The essential tracks, all in one playlist.",
-  "num_followers": 466220,
+  "num_followers": 466284,
   "original_name": "This Is Valent\u00edn Elizalde",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVBzAAAAAABajgZQzS6aWel33+jMFO9a",
+  "snapshot_id": "aVHEgAAAAAAKqiKi2BhF3uMtLngbQlfF",
   "tracks": [
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lobo Domesticado",
-        "url": "https://open.spotify.com/album/3zLqP9HFFRT6uEI0kOLuNP"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 206386,
-      "name": "Porque Te Extra\u00f1o",
-      "url": "https://open.spotify.com/track/15HZrq9yh0fDrI3RIsmwBe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Regresan Los Mafiosos",
         "url": "https://open.spotify.com/album/6t1A1wEKK74pqQkS06OTzY"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 169600,
       "name": "Ni Dada La Quiero",
       "url": "https://open.spotify.com/track/7rBuDjBKbF7Ld0FEbepGy4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lobo Domesticado",
+        "url": "https://open.spotify.com/album/3zLqP9HFFRT6uEI0kOLuNP"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 206386,
+      "name": "Porque Te Extra\u00f1o",
+      "url": "https://open.spotify.com/track/15HZrq9yh0fDrI3RIsmwBe"
     },
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Y Se Parece A T\u00ed",
-        "url": "https://open.spotify.com/album/123FJyOsN9p5QU6wGi5sSo"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 184586,
-      "name": "Vete Con \u00c9l",
-      "url": "https://open.spotify.com/track/4fjScAXoNJEjdfTMADQCUo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Ultima Bohemia (En Vivo)",
         "url": "https://open.spotify.com/album/3C5E0uhfa1NHmS7ftJ9W7y"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 167520,
       "name": "Linda Guerita",
       "url": "https://open.spotify.com/track/2WRpGwqb4fKaeXUAIOJdzS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Y Se Parece A T\u00ed",
+        "url": "https://open.spotify.com/album/123FJyOsN9p5QU6wGi5sSo"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 184586,
+      "name": "Vete Con \u00c9l",
+      "url": "https://open.spotify.com/track/4fjScAXoNJEjdfTMADQCUo"
     },
     {
       "added_at": null,

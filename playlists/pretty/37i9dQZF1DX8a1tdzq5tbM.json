@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1756822,
+  "num_followers": 1757103,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Strobelite Seduction",
+        "url": "https://open.spotify.com/album/3HmqTzRg3Ccs5vUVIlwh3Y"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        }
+      ],
+      "duration_ms": 237386,
+      "name": "Move For Me",
+      "url": "https://open.spotify.com/track/5KOt1QRD9YQQrrzwLCWuTN"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Robyn",
         "url": "https://open.spotify.com/album/3m28E6lKOu3QVtIuIWk6yv"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 251040,
       "name": "With Every Heartbeat",
       "url": "https://open.spotify.com/track/0NEw29HKkDkt1yDyBJOgXe"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Strobelite Seduction",
-        "url": "https://open.spotify.com/album/3HmqTzRg3Ccs5vUVIlwh3Y"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        }
-      ],
-      "duration_ms": 237386,
-      "name": "Move For Me",
-      "url": "https://open.spotify.com/track/5KOt1QRD9YQQrrzwLCWuTN"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Better Off Alone (Laidback Luke Remix)",
-        "url": "https://open.spotify.com/album/1mujD0TLUx27MXlxune8nb"
-      },
-      "artists": [
-        {
-          "name": "Alice DJ",
-          "url": "https://open.spotify.com/artist/5w6UXY9OAeWPHxuLfSfmfl"
-        }
-      ],
-      "duration_ms": 215246,
-      "name": "Better Off Alone - 1999 Original Hit Radio",
-      "url": "https://open.spotify.com/track/48gBfTRel9fajeev7tmLpo"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Come into My Life (10th Anniversary)",
         "url": "https://open.spotify.com/album/4EMKH4lI4pyUYxCsPl4cag"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 213305,
       "name": "Freed from Desire",
       "url": "https://open.spotify.com/track/5n56ImOTTDbUORTq3Eyong"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Better Off Alone (Laidback Luke Remix)",
+        "url": "https://open.spotify.com/album/1mujD0TLUx27MXlxune8nb"
+      },
+      "artists": [
+        {
+          "name": "Alice DJ",
+          "url": "https://open.spotify.com/artist/5w6UXY9OAeWPHxuLfSfmfl"
+        }
+      ],
+      "duration_ms": 215246,
+      "name": "Better Off Alone - 1999 Original Hit Radio",
+      "url": "https://open.spotify.com/track/48gBfTRel9fajeev7tmLpo"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1547,18 +1547,18 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Heartbroken",
-        "url": "https://open.spotify.com/album/64swz2DD6MbqPA2hXTvdru"
+        "name": "Movements",
+        "url": "https://open.spotify.com/album/52YO0uURAvAHYGWK38zP8r"
       },
       "artists": [
         {
-          "name": "T2",
-          "url": "https://open.spotify.com/artist/4Q5MS10mWfrDyiXVeAAzVd"
+          "name": "Booka Shade",
+          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
         }
       ],
-      "duration_ms": 178613,
-      "name": "Heartbroken - Edit",
-      "url": "https://open.spotify.com/track/3dhzZ068rKh2fRB2uitX18"
+      "duration_ms": 326840,
+      "name": "In White Rooms",
+      "url": "https://open.spotify.com/track/4m2RLN7imvsaLL1ZUGfFFw"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1579,18 +1579,18 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Movements",
-        "url": "https://open.spotify.com/album/52YO0uURAvAHYGWK38zP8r"
+        "name": "Heartbroken",
+        "url": "https://open.spotify.com/album/64swz2DD6MbqPA2hXTvdru"
       },
       "artists": [
         {
-          "name": "Booka Shade",
-          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
+          "name": "T2",
+          "url": "https://open.spotify.com/artist/4Q5MS10mWfrDyiXVeAAzVd"
         }
       ],
-      "duration_ms": 326840,
-      "name": "In White Rooms",
-      "url": "https://open.spotify.com/track/4m2RLN7imvsaLL1ZUGfFFw"
+      "duration_ms": 178613,
+      "name": "Heartbroken - Edit",
+      "url": "https://open.spotify.com/track/3dhzZ068rKh2fRB2uitX18"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1775,6 +1775,22 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "Release Me",
+        "url": "https://open.spotify.com/album/3cFLgIF55Q6vG7eSInoH8b"
+      },
+      "artists": [
+        {
+          "name": "Agnes",
+          "url": "https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu"
+        }
+      ],
+      "duration_ms": 254120,
+      "name": "Release Me",
+      "url": "https://open.spotify.com/track/0EMyqiMNDRptenOpbe2mcK"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "The Longest Road",
         "url": "https://open.spotify.com/album/3gAWkt3YKBDuaGWZdV46bt"
       },
@@ -1911,22 +1927,6 @@
       "duration_ms": 393333,
       "name": "Put Your Hands Up for Detroit - MC Mario Edit",
       "url": "https://open.spotify.com/track/3KrwkQhiQc5ppjEXv1nDRZ"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "Release Me",
-        "url": "https://open.spotify.com/album/3cFLgIF55Q6vG7eSInoH8b"
-      },
-      "artists": [
-        {
-          "name": "Agnes",
-          "url": "https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu"
-        }
-      ],
-      "duration_ms": 254120,
-      "name": "Release Me",
-      "url": "https://open.spotify.com/track/0EMyqiMNDRptenOpbe2mcK"
     },
     {
       "added_at": "2024-07-12 15:40:20",

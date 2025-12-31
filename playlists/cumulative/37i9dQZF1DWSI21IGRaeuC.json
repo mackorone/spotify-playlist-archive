@@ -4150,7 +4150,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 407272,
       "name": "Echelon",
       "url": "https://open.spotify.com/track/5RTXZYhWzIGjgekissR2fP"
@@ -5515,6 +5515,24 @@
     },
     {
       "album": {
+        "name": "2025 Archive",
+        "url": "https://open.spotify.com/album/2CpaWF7T14pNheIzANE02v"
+      },
+      "artists": [
+        {
+          "name": "Robbie Doherty",
+          "url": "https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS"
+        }
+      ],
+      "date_added": "2025-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Get Back",
+      "url": "https://open.spotify.com/track/2wmbYN8YjWvoR6d0kd1aAH"
+    },
+    {
+      "album": {
         "name": "Get Busy",
         "url": "https://open.spotify.com/album/0piPQwLd6hDi7nDZWGG4WI"
       },
@@ -5982,6 +6000,24 @@
       "duration_ms": 378750,
       "name": "Going Deeper",
       "url": "https://open.spotify.com/track/6XC72TsCSZlzUTdJPVEGlC"
+    },
+    {
+      "album": {
+        "name": "2025 Archive",
+        "url": "https://open.spotify.com/album/2CpaWF7T14pNheIzANE02v"
+      },
+      "artists": [
+        {
+          "name": "Robbie Doherty",
+          "url": "https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS"
+        }
+      ],
+      "date_added": "2025-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Going To London",
+      "url": "https://open.spotify.com/track/3XwNVpJCF4d2yLtXSffnds"
     },
     {
       "album": {
@@ -12106,7 +12142,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 397941,
       "name": "Realisation",
       "url": "https://open.spotify.com/track/3ChT8dRHwlXSuAYOOiyMnX"

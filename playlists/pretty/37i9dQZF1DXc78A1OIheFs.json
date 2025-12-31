@@ -1,6 +1,6 @@
 {
   "description": "Discover the best in new music from Aotearoa. Cover: Lorde",
-  "num_followers": 19241,
+  "num_followers": 19242,
   "original_name": "The Local List Aotearoa",
   "owner": {
     "name": "Spotify",
@@ -539,6 +539,22 @@
     {
       "added_at": "2025-11-06 13:00:36",
       "album": {
+        "name": "Dime",
+        "url": "https://open.spotify.com/album/6X4VcwQyRbZoYunMhh8avd"
+      },
+      "artists": [
+        {
+          "name": "Serebii",
+          "url": "https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms"
+        }
+      ],
+      "duration_ms": 131306,
+      "name": "Telling Lies",
+      "url": "https://open.spotify.com/track/4r6riAEVEIh10h1WuHhY5Z"
+    },
+    {
+      "added_at": "2025-11-06 13:00:36",
+      "album": {
         "name": "STALKER (feat. Ramirez)",
         "url": "https://open.spotify.com/album/4e9pi8Kqj9VWDEUa39o6mt"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 152415,
       "name": "STALKER (feat. Ramirez)",
       "url": "https://open.spotify.com/track/0DqMDEZk9dFM631sQOPVJh"
-    },
-    {
-      "added_at": "2025-11-06 13:00:36",
-      "album": {
-        "name": "Dime",
-        "url": "https://open.spotify.com/album/6X4VcwQyRbZoYunMhh8avd"
-      },
-      "artists": [
-        {
-          "name": "Serebii",
-          "url": "https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms"
-        }
-      ],
-      "duration_ms": 131306,
-      "name": "Telling Lies",
-      "url": "https://open.spotify.com/track/4r6riAEVEIh10h1WuHhY5Z"
     },
     {
       "added_at": "2025-11-06 13:00:36",
@@ -611,8 +611,8 @@
     {
       "added_at": "2025-11-06 13:00:36",
       "album": {
-        "name": "CURSE",
-        "url": "https://open.spotify.com/album/0cFnSWyfKw7gmgURlfeQ41"
+        "name": "V",
+        "url": "https://open.spotify.com/album/1epwNzmWdqkBQQZpTa8KJD"
       },
       "artists": [
         {
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
         }
       ],
-      "duration_ms": 148525,
-      "name": "DEATH COMES FROM THE SKY",
-      "url": "https://open.spotify.com/track/7xkyqFdogcqpGKkn3baJ6d"
+      "duration_ms": 246720,
+      "name": "Nadja",
+      "url": "https://open.spotify.com/track/2AojQfi1k8pgwyg1Ii0Ly8"
     },
     {
       "added_at": "2025-11-06 13:00:36",
@@ -755,8 +755,8 @@
     {
       "added_at": "2025-11-06 13:00:36",
       "album": {
-        "name": "V",
-        "url": "https://open.spotify.com/album/1epwNzmWdqkBQQZpTa8KJD"
+        "name": "CURSE",
+        "url": "https://open.spotify.com/album/0cFnSWyfKw7gmgURlfeQ41"
       },
       "artists": [
         {
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
         }
       ],
-      "duration_ms": 246720,
-      "name": "Nadja",
-      "url": "https://open.spotify.com/track/2AojQfi1k8pgwyg1Ii0Ly8"
+      "duration_ms": 148525,
+      "name": "DEATH COMES FROM THE SKY",
+      "url": "https://open.spotify.com/track/7xkyqFdogcqpGKkn3baJ6d"
     },
     {
       "added_at": "2025-11-06 13:00:36",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2025-11-06 13:00:36",
       "album": {
-        "name": "Suckerpunch",
-        "url": "https://open.spotify.com/album/6XboCI0IpnvI7EUIRno1Zx"
-      },
-      "artists": [
-        {
-          "name": "Foley",
-          "url": "https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE"
-        }
-      ],
-      "duration_ms": 154673,
-      "name": "Suckerpunch",
-      "url": "https://open.spotify.com/track/2ByNFaZnv7IBDrVhsL6uuH"
-    },
-    {
-      "added_at": "2025-11-06 13:00:36",
-      "album": {
         "name": "Under One Roof",
         "url": "https://open.spotify.com/album/0NQ9xTtHFwhkSfUN68PAd3"
       },
@@ -1071,18 +1055,18 @@
     {
       "added_at": "2025-11-06 13:00:36",
       "album": {
-        "name": "Tief Im Wald",
-        "url": "https://open.spotify.com/album/3VAlGVnh10qltWmjMu6Ioy"
+        "name": "Suckerpunch",
+        "url": "https://open.spotify.com/album/6XboCI0IpnvI7EUIRno1Zx"
       },
       "artists": [
         {
-          "name": "Kiki Rockwell",
-          "url": "https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F"
+          "name": "Foley",
+          "url": "https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE"
         }
       ],
-      "duration_ms": 218033,
-      "name": "Tief Im Wald",
-      "url": "https://open.spotify.com/track/2JOieVIEDws6VOe5T0dGpu"
+      "duration_ms": 154673,
+      "name": "Suckerpunch",
+      "url": "https://open.spotify.com/track/2ByNFaZnv7IBDrVhsL6uuH"
     },
     {
       "added_at": "2025-11-06 13:00:36",
@@ -1103,6 +1087,22 @@
       "duration_ms": 177989,
       "name": "I Want More",
       "url": "https://open.spotify.com/track/0bvVx47ygehREuixC0o5r0"
+    },
+    {
+      "added_at": "2025-11-06 13:00:36",
+      "album": {
+        "name": "Tief Im Wald",
+        "url": "https://open.spotify.com/album/3VAlGVnh10qltWmjMu6Ioy"
+      },
+      "artists": [
+        {
+          "name": "Kiki Rockwell",
+          "url": "https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F"
+        }
+      ],
+      "duration_ms": 218033,
+      "name": "Tief Im Wald",
+      "url": "https://open.spotify.com/track/2JOieVIEDws6VOe5T0dGpu"
     },
     {
       "added_at": "2025-11-06 13:00:36",
@@ -1191,6 +1191,42 @@
     {
       "added_at": "2025-11-06 13:00:36",
       "album": {
+        "name": "When He Was Mine (Pele Fo'i Mai)",
+        "url": "https://open.spotify.com/album/0M1CqAlfmSaJ6HnneFqyEf"
+      },
+      "artists": [
+        {
+          "name": "A.R.T",
+          "url": "https://open.spotify.com/artist/6cJ05UAQ2Yab1UBcf5CrBU"
+        }
+      ],
+      "duration_ms": 156516,
+      "name": "When He Was Mine (Pele Fo'i Mai)",
+      "url": "https://open.spotify.com/track/5YvvGIdnNmrpMtx7UpCP3k"
+    },
+    {
+      "added_at": "2025-11-06 13:00:36",
+      "album": {
+        "name": "Holding Your Hand",
+        "url": "https://open.spotify.com/album/1Ggks2L6vGzHraAO2a98gZ"
+      },
+      "artists": [
+        {
+          "name": "SACHI",
+          "url": "https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        }
+      ],
+      "duration_ms": 152603,
+      "name": "Holding Your Hand",
+      "url": "https://open.spotify.com/track/1Ve2EdxdPBAA9wOiDdkS4y"
+    },
+    {
+      "added_at": "2025-11-06 13:00:36",
+      "album": {
         "name": "Same as before",
         "url": "https://open.spotify.com/album/03xyc29RWF0WJH028QUkwe"
       },
@@ -1207,22 +1243,6 @@
       "duration_ms": 173400,
       "name": "Same as before",
       "url": "https://open.spotify.com/track/64tuUEMv7BZktKqZ3U2hKl"
-    },
-    {
-      "added_at": "2025-11-06 13:00:36",
-      "album": {
-        "name": "When He Was Mine (Pele Fo'i Mai)",
-        "url": "https://open.spotify.com/album/0M1CqAlfmSaJ6HnneFqyEf"
-      },
-      "artists": [
-        {
-          "name": "A.R.T",
-          "url": "https://open.spotify.com/artist/6cJ05UAQ2Yab1UBcf5CrBU"
-        }
-      ],
-      "duration_ms": 156516,
-      "name": "When He Was Mine (Pele Fo'i Mai)",
-      "url": "https://open.spotify.com/track/5YvvGIdnNmrpMtx7UpCP3k"
     },
     {
       "added_at": "2025-11-06 13:00:36",
@@ -1259,26 +1279,6 @@
       "duration_ms": 234901,
       "name": "pinky girl",
       "url": "https://open.spotify.com/track/4ZvoE03wSTX4gSneaH1L2J"
-    },
-    {
-      "added_at": "2025-11-06 13:00:36",
-      "album": {
-        "name": "Handyman.",
-        "url": "https://open.spotify.com/album/27GwbvIdxCHWZ7oe1gr3yb"
-      },
-      "artists": [
-        {
-          "name": "Canaan Ene",
-          "url": "https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA"
-        },
-        {
-          "name": "Sione Toki",
-          "url": "https://open.spotify.com/artist/7CyCft1T5A9pLksmToGkFV"
-        }
-      ],
-      "duration_ms": 161559,
-      "name": "Handyman.",
-      "url": "https://open.spotify.com/track/1xd2siUNv5buHMILOQZeRB"
     }
   ],
   "unique_name": "The Local List Aotearoa",

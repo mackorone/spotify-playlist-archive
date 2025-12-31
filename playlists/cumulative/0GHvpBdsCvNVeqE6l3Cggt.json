@@ -715,6 +715,24 @@
     },
     {
       "album": {
+        "name": "Noir",
+        "url": "https://open.spotify.com/album/0ZW75tnVFB8wWRvzOSqdM4"
+      },
+      "artists": [
+        {
+          "name": "LehtMoJoe",
+          "url": "https://open.spotify.com/artist/5lgsUNLe65iEVXFzvreh0J"
+        }
+      ],
+      "date_added": "2025-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188065,
+      "name": "Noir",
+      "url": "https://open.spotify.com/track/3Z8OSx0kJcitYmfFqNszDy"
+    },
+    {
+      "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/6Lly4v5CpIs8zsDxS1iqlk"
       },

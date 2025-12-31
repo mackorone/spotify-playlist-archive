@@ -1,6 +1,6 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \uac10\uc131\uc744 \ub354\ud574\uc8fc\ub294 \uac00\uc0ac\uc640 \ube44\ud2b8\ub97c \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 13378,
+  "num_followers": 13389,
   "original_name": "\uac10\uc131\ud799\ud569",
   "owner": {
     "name": "Spotify",
@@ -655,18 +655,22 @@
     {
       "added_at": "2025-09-29 05:04:58",
       "album": {
-        "name": "\ube44\ub204",
-        "url": "https://open.spotify.com/album/6cffqSCtfQHUKJsf7iGZSs"
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/0ZTuW8a9YPwlE8SytUyrnN"
       },
       "artists": [
         {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
         }
       ],
-      "duration_ms": 182200,
-      "name": "\ube44\ub204",
-      "url": "https://open.spotify.com/track/0lSJQip2wVidbu1JfZ4IEQ"
+      "duration_ms": 182346,
+      "name": "Right Now (Feat. Crush)",
+      "url": "https://open.spotify.com/track/4IiSP6seUj7QwhgDgXdS11"
     },
     {
       "added_at": "2025-09-29 05:04:58",
@@ -699,22 +703,18 @@
     {
       "added_at": "2025-09-29 05:04:58",
       "album": {
-        "name": "Right Now",
-        "url": "https://open.spotify.com/album/0ZTuW8a9YPwlE8SytUyrnN"
+        "name": "\ube44\ub204",
+        "url": "https://open.spotify.com/album/6cffqSCtfQHUKJsf7iGZSs"
       },
       "artists": [
         {
-          "name": "Coogie",
-          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
-        },
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
         }
       ],
-      "duration_ms": 182346,
-      "name": "Right Now (Feat. Crush)",
-      "url": "https://open.spotify.com/track/4IiSP6seUj7QwhgDgXdS11"
+      "duration_ms": 182200,
+      "name": "\ube44\ub204",
+      "url": "https://open.spotify.com/track/0lSJQip2wVidbu1JfZ4IEQ"
     },
     {
       "added_at": "2025-09-29 05:04:58",

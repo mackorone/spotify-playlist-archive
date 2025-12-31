@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7OfGslpHp1.md) - [plain]
 
 > 主題歌アーティストが選出する、TVアニメ「正反対な君と僕」にインスパイヤされた、青春ラブコメのプレイリスト。Highschool rom\-com playlist inspired by "You and I Are Polar Opposites"\.  Tracks selected by the OPED Artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 504 likes - 30 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 513 likes - 30 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

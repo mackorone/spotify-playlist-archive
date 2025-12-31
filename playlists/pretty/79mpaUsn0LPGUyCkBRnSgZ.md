@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 638 songs - 1 day 17 hr 27 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 639 songs - 1 day 17 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -646,5 +646,6 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 636 | [Parapet](https://open.spotify.com/track/1UtoWvSd1GdKLk5mbsbTIh) | [@](https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3) | [Mind Palace Music](https://open.spotify.com/album/7h3MMJMKzY03w8VVYgrYWr) | 1:30 |
 | 637 | [Burning Bush](https://open.spotify.com/track/5oJMhdvIeFNF8dSFHm3K1P) | [E.R\. Visit](https://open.spotify.com/artist/3slFJFGiypL8bx2s14hzBC) | [my children will ignore you, my children will type amen](https://open.spotify.com/album/0LcXQTwXLJKizoMzyT8qak) | 1:48 |
 | 638 | [Something](https://open.spotify.com/track/6GNM7asYK1XgrQBzwsdFJ4) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk) | [Who's Your New Professor](https://open.spotify.com/album/0iUN5c7t6CWTKnLgtMY6gF) | 3:49 |
+| 639 | [The Beast](https://open.spotify.com/track/1XNGWVLE89kJYPxL3Hkzi5) | [Anna von Hausswolff](https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6) | [ICONOCLASTS](https://open.spotify.com/album/20BKSOzIQSHI4kLQIzPslN) | 3:11 |
 
-Snapshot ID: `AAAINRYCar+EHiLVjZm2uf4jD6YQ16Ka`
+Snapshot ID: `AAAINiIMcAV+1Xlp1k8VHnP57TZkI0fF`

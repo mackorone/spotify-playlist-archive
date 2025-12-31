@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGwxlcvIf6OC.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3bgocJUTFhXlCEOEZEBTBr">Cam</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 826 likes - 41 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 824 likes - 41 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGwxlcvIf6OC.md) - [plain]
 | 40 | [Just For You](https://open.spotify.com/track/6ACOdnyDhj2k3VCSDsOEbs) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [All Things Light](https://open.spotify.com/album/4Sj8iHrpEA4axsC3vSld9M) | 1:48 |
 | 41 | [We Always Do](https://open.spotify.com/track/0DpqyzGCvc8GOGFs0ZO46l) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [All Things Light](https://open.spotify.com/album/4Sj8iHrpEA4axsC3vSld9M) | 2:45 |
 
-Snapshot ID: `AcFjegAAAABqHvvZ/XvhM6nT1lK0PgIe`
+Snapshot ID: `AcFpGgAAAAA7DYoKuGwumPSqReAE80+z`

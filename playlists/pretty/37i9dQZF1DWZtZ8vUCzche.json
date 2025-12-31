@@ -1,6 +1,6 @@
 {
   "description": "Put your speakers to the test with this eclectic collection of legendary tracks.",
-  "num_followers": 1513010,
+  "num_followers": 1513412,
   "original_name": "Songs to Test Speakers With",
   "owner": {
     "name": "Spotify",
@@ -647,6 +647,22 @@
     {
       "added_at": "2025-12-05 12:33:31",
       "album": {
+        "name": "Graceland (25th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        }
+      ],
+      "duration_ms": 350723,
+      "name": "Diamonds on the Soles of Her Shoes",
+      "url": "https://open.spotify.com/track/71GvlH0VdeClloLIkHrAVu"
+    },
+    {
+      "added_at": "2025-12-05 12:33:31",
+      "album": {
         "name": "United",
         "url": "https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 231973,
       "name": "People Are People",
       "url": "https://open.spotify.com/track/4WoKuMjwJXuy9IqX6AH5JE"
-    },
-    {
-      "added_at": "2025-12-05 12:33:31",
-      "album": {
-        "name": "Graceland (25th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6WgGWYw6XXQyLTsWt7tXky"
-      },
-      "artists": [
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 350723,
-      "name": "Diamonds on the Soles of Her Shoes",
-      "url": "https://open.spotify.com/track/71GvlH0VdeClloLIkHrAVu"
     },
     {
       "added_at": "2025-12-05 12:33:31",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2025-12-05 12:33:31",
       "album": {
-        "name": "Eat, Pray, Love",
-        "url": "https://open.spotify.com/album/6AnpM7DFltgJLIjlToxYJ1"
-      },
-      "artists": [
-        {
-          "name": "Neil Young",
-          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
-        }
-      ],
-      "duration_ms": 299106,
-      "name": "Harvest Moon",
-      "url": "https://open.spotify.com/track/2nekCvC9XRXQckWNnkIp2l"
-    },
-    {
-      "added_at": "2025-12-05 12:33:31",
-      "album": {
         "name": "Earfood",
         "url": "https://open.spotify.com/album/4vuijqNCK71JTiACBmdCTo"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 278626,
       "name": "Strasbourg / St. Denis",
       "url": "https://open.spotify.com/track/62VWmsNoDmqT0Mj9oHHFVh"
+    },
+    {
+      "added_at": "2025-12-05 12:33:31",
+      "album": {
+        "name": "Eat, Pray, Love",
+        "url": "https://open.spotify.com/album/6AnpM7DFltgJLIjlToxYJ1"
+      },
+      "artists": [
+        {
+          "name": "Neil Young",
+          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+        }
+      ],
+      "duration_ms": 299106,
+      "name": "Harvest Moon",
+      "url": "https://open.spotify.com/track/2nekCvC9XRXQckWNnkIp2l"
     },
     {
       "added_at": "2025-12-05 12:33:31",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2025-12-05 12:33:31",
       "album": {
-        "name": "March 16-20, 1992",
-        "url": "https://open.spotify.com/album/3ezxoWuFQIiCr2xugKs3Lp"
-      },
-      "artists": [
-        {
-          "name": "Uncle Tupelo",
-          "url": "https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc"
-        }
-      ],
-      "duration_ms": 223640,
-      "name": "Sandusky",
-      "url": "https://open.spotify.com/track/0rib9hiYy1NWL0w8BUYgmd"
-    },
-    {
-      "added_at": "2025-12-05 12:33:31",
-      "album": {
         "name": "Time Out",
         "url": "https://open.spotify.com/album/2FpXNwmewH9F2bytZMevuS"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 324680,
       "name": "Take Five",
       "url": "https://open.spotify.com/track/1hVXZoSAkZ3P5Lp6fKOcgx"
+    },
+    {
+      "added_at": "2025-12-05 12:33:31",
+      "album": {
+        "name": "March 16-20, 1992",
+        "url": "https://open.spotify.com/album/3ezxoWuFQIiCr2xugKs3Lp"
+      },
+      "artists": [
+        {
+          "name": "Uncle Tupelo",
+          "url": "https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc"
+        }
+      ],
+      "duration_ms": 223640,
+      "name": "Sandusky",
+      "url": "https://open.spotify.com/track/0rib9hiYy1NWL0w8BUYgmd"
     },
     {
       "added_at": "2025-12-05 12:33:31",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2025-12-05 12:33:31",
       "album": {
-        "name": "Avalon",
-        "url": "https://open.spotify.com/album/3JXODSjT9mUz2lIb4YIErw"
-      },
-      "artists": [
-        {
-          "name": "Roxy Music",
-          "url": "https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo"
-        }
-      ],
-      "duration_ms": 265293,
-      "name": "True To Life",
-      "url": "https://open.spotify.com/track/78xp7CjJ3Uqxa44QAMdBWJ"
-    },
-    {
-      "added_at": "2025-12-05 12:33:31",
-      "album": {
         "name": "I Am A Bird Now",
         "url": "https://open.spotify.com/album/24Xm5zS2KvwojChzxLGdn9"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 261200,
       "name": "Hope There's Someone",
       "url": "https://open.spotify.com/track/1AHPsqF3EtHeWpOM06Y3Y4"
+    },
+    {
+      "added_at": "2025-12-05 12:33:31",
+      "album": {
+        "name": "Avalon",
+        "url": "https://open.spotify.com/album/3JXODSjT9mUz2lIb4YIErw"
+      },
+      "artists": [
+        {
+          "name": "Roxy Music",
+          "url": "https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo"
+        }
+      ],
+      "duration_ms": 265293,
+      "name": "True To Life",
+      "url": "https://open.spotify.com/track/78xp7CjJ3Uqxa44QAMdBWJ"
     },
     {
       "added_at": "2025-12-05 12:33:31",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2025-12-05 12:33:31",
       "album": {
-        "name": "Celebration (double disc version)",
-        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 294266,
-      "name": "Justify My Love",
-      "url": "https://open.spotify.com/track/6BWRvw630R8z2vNMok6quI"
-    },
-    {
-      "added_at": "2025-12-05 12:33:31",
-      "album": {
         "name": "Jaco Pastorius",
         "url": "https://open.spotify.com/album/6SsT4Zyev0zS7eocL0B72m"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 142466,
       "name": "Portrait of Tracy",
       "url": "https://open.spotify.com/track/5NBAy2oiS9OIWyAZhklsH2"
+    },
+    {
+      "added_at": "2025-12-05 12:33:31",
+      "album": {
+        "name": "Celebration (double disc version)",
+        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 294266,
+      "name": "Justify My Love",
+      "url": "https://open.spotify.com/track/6BWRvw630R8z2vNMok6quI"
     },
     {
       "added_at": "2025-12-05 12:33:31",
@@ -1987,6 +1987,22 @@
     {
       "added_at": "2025-12-05 12:33:31",
       "album": {
+        "name": "Colma",
+        "url": "https://open.spotify.com/album/0LBQdWnuV0CAXyPIngb0UX"
+      },
+      "artists": [
+        {
+          "name": "Buckethead",
+          "url": "https://open.spotify.com/artist/0fDF0jjmdouCIeWhNnblwV"
+        }
+      ],
+      "duration_ms": 73253,
+      "name": "Big Sur Moon",
+      "url": "https://open.spotify.com/track/3F7Z3u2gMiTFff8UoUSaFw"
+    },
+    {
+      "added_at": "2025-12-05 12:33:31",
+      "album": {
         "name": "Rosewood",
         "url": "https://open.spotify.com/album/0jjMHsOQJzzRi3JpxiS5xj"
       },
@@ -2015,22 +2031,6 @@
       "duration_ms": 325760,
       "name": "Stolen Car",
       "url": "https://open.spotify.com/track/4QFO5fgejhz2tu8ZmlDjzw"
-    },
-    {
-      "added_at": "2025-12-05 12:33:31",
-      "album": {
-        "name": "Colma",
-        "url": "https://open.spotify.com/album/0LBQdWnuV0CAXyPIngb0UX"
-      },
-      "artists": [
-        {
-          "name": "Buckethead",
-          "url": "https://open.spotify.com/artist/0fDF0jjmdouCIeWhNnblwV"
-        }
-      ],
-      "duration_ms": 73253,
-      "name": "Big Sur Moon",
-      "url": "https://open.spotify.com/track/3F7Z3u2gMiTFff8UoUSaFw"
     },
     {
       "added_at": "2025-12-05 12:33:31",
@@ -2079,22 +2079,6 @@
     {
       "added_at": "2025-12-05 12:33:31",
       "album": {
-        "name": "U",
-        "url": "https://open.spotify.com/album/1M3F2r4eZn7oy8VWZA17Gf"
-      },
-      "artists": [
-        {
-          "name": "Tourist",
-          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
-        }
-      ],
-      "duration_ms": 359785,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/3n7AsDM1FPGXk88o90rEM6"
-    },
-    {
-      "added_at": "2025-12-05 12:33:31",
-      "album": {
         "name": "Mark Hollis",
         "url": "https://open.spotify.com/album/1r8M1X0QFZw0bMMnBvwOXA"
       },
@@ -2107,6 +2091,22 @@
       "duration_ms": 345026,
       "name": "The Watershed",
       "url": "https://open.spotify.com/track/4Tw7Hxz9eSTrzcN98ijXni"
+    },
+    {
+      "added_at": "2025-12-05 12:33:31",
+      "album": {
+        "name": "U",
+        "url": "https://open.spotify.com/album/1M3F2r4eZn7oy8VWZA17Gf"
+      },
+      "artists": [
+        {
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+        }
+      ],
+      "duration_ms": 359785,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/3n7AsDM1FPGXk88o90rEM6"
     },
     {
       "added_at": "2025-12-05 12:33:31",
@@ -2287,22 +2287,6 @@
     {
       "added_at": "2025-12-05 12:33:31",
       "album": {
-        "name": "Sailing To Philadelphia",
-        "url": "https://open.spotify.com/album/7oIBSEe5L89s2UXK0I8tYg"
-      },
-      "artists": [
-        {
-          "name": "Mark Knopfler",
-          "url": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug"
-        }
-      ],
-      "duration_ms": 381040,
-      "name": "Speedway At Nazareth",
-      "url": "https://open.spotify.com/track/59w9KJpA4DKvTyuxmTGIIP"
-    },
-    {
-      "added_at": "2025-12-05 12:33:31",
-      "album": {
         "name": "Going Blank Again (Remastered)",
         "url": "https://open.spotify.com/album/6vnwJBMzIGfh8TxAmgBQAU"
       },
@@ -2315,6 +2299,22 @@
       "duration_ms": 497466,
       "name": "Leave Them All Behind",
       "url": "https://open.spotify.com/track/3YJyRIunGnzVfxoMPEld1v"
+    },
+    {
+      "added_at": "2025-12-05 12:33:31",
+      "album": {
+        "name": "Sailing To Philadelphia",
+        "url": "https://open.spotify.com/album/7oIBSEe5L89s2UXK0I8tYg"
+      },
+      "artists": [
+        {
+          "name": "Mark Knopfler",
+          "url": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug"
+        }
+      ],
+      "duration_ms": 381040,
+      "name": "Speedway At Nazareth",
+      "url": "https://open.spotify.com/track/59w9KJpA4DKvTyuxmTGIIP"
     },
     {
       "added_at": "2025-12-05 12:33:31",
@@ -2943,22 +2943,6 @@
     {
       "added_at": "2025-12-05 12:33:31",
       "album": {
-        "name": "Days of Thunder",
-        "url": "https://open.spotify.com/album/54xM746igJkdPJenRhW1za"
-      },
-      "artists": [
-        {
-          "name": "The Midnight",
-          "url": "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
-        }
-      ],
-      "duration_ms": 389094,
-      "name": "Los Angeles",
-      "url": "https://open.spotify.com/track/4loXMor75kKVBB03ygwDlh"
-    },
-    {
-      "added_at": "2025-12-05 12:33:31",
-      "album": {
         "name": "Veckatimest",
         "url": "https://open.spotify.com/album/6FIFqclBriPCb0SjWDaHIk"
       },
@@ -2971,6 +2955,22 @@
       "duration_ms": 243160,
       "name": "Two Weeks",
       "url": "https://open.spotify.com/track/0iTpQYzJnYgh7kIxyq8A2O"
+    },
+    {
+      "added_at": "2025-12-05 12:33:31",
+      "album": {
+        "name": "Days of Thunder",
+        "url": "https://open.spotify.com/album/54xM746igJkdPJenRhW1za"
+      },
+      "artists": [
+        {
+          "name": "The Midnight",
+          "url": "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
+        }
+      ],
+      "duration_ms": 389094,
+      "name": "Los Angeles",
+      "url": "https://open.spotify.com/track/4loXMor75kKVBB03ygwDlh"
     },
     {
       "added_at": "2025-12-05 12:33:31",
@@ -3011,18 +3011,18 @@
     {
       "added_at": "2025-12-05 12:33:31",
       "album": {
-        "name": "Breakfast In America (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5UAy7rBQad6mSxklbtqUa8"
+        "name": "Sheer Heart Attack (2011 Remaster)",
+        "url": "https://open.spotify.com/album/2mEAmmRoZrvhBh1Vic03fZ"
       },
       "artists": [
         {
-          "name": "Supertramp",
-          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 251253,
-      "name": "The Logical Song - Remastered 2010",
-      "url": "https://open.spotify.com/track/3T6R0ppqCnUW6iJhtUYhO3"
+      "duration_ms": 179600,
+      "name": "Killer Queen - Remastered 2011",
+      "url": "https://open.spotify.com/track/1CnN9udhDokm7lARZjMji2"
     },
     {
       "added_at": "2025-12-05 12:33:31",
@@ -3043,18 +3043,18 @@
     {
       "added_at": "2025-12-05 12:33:31",
       "album": {
-        "name": "Sheer Heart Attack (2011 Remaster)",
-        "url": "https://open.spotify.com/album/2mEAmmRoZrvhBh1Vic03fZ"
+        "name": "Breakfast In America (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5UAy7rBQad6mSxklbtqUa8"
       },
       "artists": [
         {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          "name": "Supertramp",
+          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
         }
       ],
-      "duration_ms": 179600,
-      "name": "Killer Queen - Remastered 2011",
-      "url": "https://open.spotify.com/track/1CnN9udhDokm7lARZjMji2"
+      "duration_ms": 251253,
+      "name": "The Logical Song - Remastered 2010",
+      "url": "https://open.spotify.com/track/3T6R0ppqCnUW6iJhtUYhO3"
     },
     {
       "added_at": "2025-12-05 12:33:31",
@@ -3107,6 +3107,22 @@
     {
       "added_at": "2025-12-05 12:33:31",
       "album": {
+        "name": "xx",
+        "url": "https://open.spotify.com/album/2nXJkqkS1tIKIyhBcFMmwz"
+      },
+      "artists": [
+        {
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        }
+      ],
+      "duration_ms": 160720,
+      "name": "Islands",
+      "url": "https://open.spotify.com/track/2SMn57cBVxoD4TArscpovk"
+    },
+    {
+      "added_at": "2025-12-05 12:33:31",
+      "album": {
         "name": "Jazz at the Pawnshop",
         "url": "https://open.spotify.com/album/65NqpWjm4nMMeb8feGIheP"
       },
@@ -3151,22 +3167,6 @@
       "duration_ms": 219092,
       "name": "Mountains",
       "url": "https://open.spotify.com/track/6WVRhBxRMW9fn6sRkt2gWn"
-    },
-    {
-      "added_at": "2025-12-05 12:33:31",
-      "album": {
-        "name": "xx",
-        "url": "https://open.spotify.com/album/2nXJkqkS1tIKIyhBcFMmwz"
-      },
-      "artists": [
-        {
-          "name": "The xx",
-          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
-        }
-      ],
-      "duration_ms": 160720,
-      "name": "Islands",
-      "url": "https://open.spotify.com/track/2SMn57cBVxoD4TArscpovk"
     },
     {
       "added_at": "2025-12-05 12:33:31",

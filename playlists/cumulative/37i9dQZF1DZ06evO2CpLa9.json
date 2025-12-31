@@ -312,7 +312,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 202166,
       "name": "Claves",
       "url": "https://open.spotify.com/track/43tAFopT26QJMVKUBMKN5l"
@@ -700,6 +700,28 @@
       "duration_ms": 180512,
       "name": "ESC\u00c1PATE",
       "url": "https://open.spotify.com/track/3GZOE8uZZXXdo0uK56NTSG"
+    },
+    {
+      "album": {
+        "name": "VIVIR PA' QUEDARSE",
+        "url": "https://open.spotify.com/album/5pVXuqex89FgjmWbRD6l1B"
+      },
+      "artists": [
+        {
+          "name": "JC Reyes",
+          "url": "https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180512,
+      "name": "ESC\u00c1PATE",
+      "url": "https://open.spotify.com/track/3mZ4DzjjzyH4hAsR6dVFKE"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18bmQy.md) - [plain]
 
 > This is Djonga\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,172 likes - 50 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,190 likes - 50 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18bmQy.md) - [plain]
 | 30 | [coração gelado](https://open.spotify.com/track/6Wfa0YRwWjEOZrir00XQQ2) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e) | [Inocente "Demotape"](https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk) | 3:04 |
 | 31 | [Hoje Não](https://open.spotify.com/track/4miTQZo2ppOcbBc7B0P8fS) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/22dWso8I5iiPRJfU8WC0g4) | [Histórias da Minha Área](https://open.spotify.com/album/3NjTHK6FovpR3rHceaT5FE) | 3:40 |
 | 32 | [UFA](https://open.spotify.com/track/4xkcrgWfbQqMW3P0zG0wa0) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j), [Sidoka](https://open.spotify.com/artist/4735isrIwjAX0VY8IPlhhw), [Sant](https://open.spotify.com/artist/2nSZjzLqoQ2Afu2kiRvlhA) | [O MENINO QUE QUERIA SER DEUS](https://open.spotify.com/album/3wHxJMiiNBmAJaqFcB7llN) | 5:51 |
-| 33 | [FALCÃO](https://open.spotify.com/track/0Thmke3nCv0ICwdAMltnsI) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Ladrão](https://open.spotify.com/album/1EOBeKw4ZLl3pObadX82fa) | 3:42 |
+| 33 | [Ninguém Vai Te Superar](https://open.spotify.com/track/3tU3mMJYq6qU3h0HCwdn0S) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Ursão](https://open.spotify.com/artist/432YIh6zn1cWxxwLZ9hL66), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Púrpura](https://open.spotify.com/album/2SXORkzxQrYi0ueO5v6wCC) | 4:02 |
 | 34 | [das amantes freestyle](https://open.spotify.com/track/2CRnqV3kVYuqZ9iTWPvCy8) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Inocente "Demotape"](https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk) | 2:18 |
-| 35 | [Ninguém Vai Te Superar](https://open.spotify.com/track/3tU3mMJYq6qU3h0HCwdn0S) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Ursão](https://open.spotify.com/artist/432YIh6zn1cWxxwLZ9hL66), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Púrpura](https://open.spotify.com/album/2SXORkzxQrYi0ueO5v6wCC) | 4:02 |
+| 35 | [FALCÃO](https://open.spotify.com/track/0Thmke3nCv0ICwdAMltnsI) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [Ladrão](https://open.spotify.com/album/1EOBeKw4ZLl3pObadX82fa) | 3:42 |
 | 36 | [Obstinado](https://open.spotify.com/track/5UBfIiXf71PxgqyO6vAfxW) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Jogzz](https://open.spotify.com/artist/0JdCnTEH50FSYNKnTNVfR2), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm) | [Obstinado](https://open.spotify.com/album/2qte1yUh9UwvAEoDO1mQAd) | 4:11 |
 | 37 | [Todo Errado](https://open.spotify.com/track/3Arpp0tBz6tYleQAKjZ1jX) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/22dWso8I5iiPRJfU8WC0g4), [Rapaz do Dread](https://open.spotify.com/artist/2kwdyyy0ThTRg8B7qy5MLJ) | [Histórias da Minha Área](https://open.spotify.com/album/3NjTHK6FovpR3rHceaT5FE) | 3:17 |
 | 38 | [depois da meia noite](https://open.spotify.com/track/3bnwUi3XFEDSSePQXUTPJI) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Inocente "Demotape"](https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk) | 2:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO18bmQy.md) - [plain]
 | 49 | [ETERNO \- Remake](https://open.spotify.com/track/0WjWIeXZighu9xmR5D7fhs) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j) | [O MENINO QUE QUERIA SER DEUS](https://open.spotify.com/album/3wHxJMiiNBmAJaqFcB7llN) | 3:46 |
 | 50 | [Favela Vive 3](https://open.spotify.com/track/5XP9mHMTuUqQ2Lt7OxiXHN) | [ADL](https://open.spotify.com/artist/6Ywb1no2hXLazjIs4LUiQD), [Choice](https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu), [Negra Li](https://open.spotify.com/artist/1E4r5qziZja6v8jA7iTqjn), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Menor do Chapa](https://open.spotify.com/artist/6i7MlW2ZdQRPi5sGOxXCH3) | [Favela Vive 3](https://open.spotify.com/album/4np0uBqM0d1op95z3kztaF) | 8:19 |
 
-Snapshot ID: `aVBzAAAAAAD8j6QZtUvtolMbFTsiyyik`
+Snapshot ID: `aVHEgAAAAADXJfOaC/T1kD4It8H6tHe1`

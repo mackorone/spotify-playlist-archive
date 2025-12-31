@@ -945,6 +945,24 @@
     },
     {
       "album": {
+        "name": "Bloodtype",
+        "url": "https://open.spotify.com/album/5e11Kd7OBgFUuBy8L2EytI"
+      },
+      "artists": [
+        {
+          "name": "Cassius Grove",
+          "url": "https://open.spotify.com/artist/27DQ8cXxISDC6oHcEFA5hC"
+        }
+      ],
+      "date_added": "2025-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116040,
+      "name": "Bloodtype",
+      "url": "https://open.spotify.com/track/7g7lzOmC6qDAOGHhXqoeOB"
+    },
+    {
+      "album": {
         "name": "Blue Tarp Chronicles",
         "url": "https://open.spotify.com/album/6OtXXaWU32a5i1EhQNFQ4Z"
       },

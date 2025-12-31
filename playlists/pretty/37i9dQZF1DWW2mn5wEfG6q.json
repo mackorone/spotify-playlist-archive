@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2013. Cover: HAIM ",
-  "num_followers": 93043,
+  "num_followers": 93067,
   "original_name": "Best of Indie 2013",
   "owner": {
     "name": "Spotify",
@@ -951,22 +951,6 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
-        "name": "All This Bad Blood",
-        "url": "https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 212613,
-      "name": "Bad Blood",
-      "url": "https://open.spotify.com/track/04D2wKcN9ju5IY06nwV24m"
-    },
-    {
-      "added_at": "2025-03-14 13:17:39",
-      "album": {
         "name": "Modern Vampires of the City",
         "url": "https://open.spotify.com/album/1GXMNFfoHF4sN7lG8gZq1j"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 160066,
       "name": "Diane Young",
       "url": "https://open.spotify.com/track/10f0hrbCBiQk9STrFG3EU7"
+    },
+    {
+      "added_at": "2025-03-14 13:17:39",
+      "album": {
+        "name": "All This Bad Blood",
+        "url": "https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 212613,
+      "name": "Bad Blood",
+      "url": "https://open.spotify.com/track/04D2wKcN9ju5IY06nwV24m"
     },
     {
       "added_at": "2025-03-14 13:17:39",
@@ -1403,22 +1403,22 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
-        "name": "2.0",
-        "url": "https://open.spotify.com/album/7MvpqHRTRxHu7QoPiYnmzH"
+        "name": "Lockjaw",
+        "url": "https://open.spotify.com/album/4wngUMjPQwiOngxqKPuh5p"
       },
       "artists": [
         {
-          "name": "Big Data",
-          "url": "https://open.spotify.com/artist/4S1nvNHWiZLP4rzwmULmUa"
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
         },
         {
-          "name": "Joywave",
-          "url": "https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m"
+          "name": "Chet Faker",
+          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
         }
       ],
-      "duration_ms": 280426,
-      "name": "Dangerous (feat. Joywave)",
-      "url": "https://open.spotify.com/track/3y8AEUef1AVfr0npU5UOa9"
+      "duration_ms": 221894,
+      "name": "Drop The Game",
+      "url": "https://open.spotify.com/track/06WnUZymWyJamDivTWqJZA"
     },
     {
       "added_at": "2025-03-14 13:17:39",
@@ -1432,9 +1432,9 @@
           "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
         }
       ],
-      "duration_ms": 431746,
-      "name": "An Ocean In Between The Waves",
-      "url": "https://open.spotify.com/track/4Rw5ErjPrtzAa4lJz4KfxM"
+      "duration_ms": 532306,
+      "name": "Under The Pressure",
+      "url": "https://open.spotify.com/track/45D0ixQWzXQOoU1S9aSnKk"
     },
     {
       "added_at": "2025-03-14 13:17:39",
@@ -1455,22 +1455,22 @@
     {
       "added_at": "2025-03-14 13:17:39",
       "album": {
-        "name": "Lockjaw",
-        "url": "https://open.spotify.com/album/4wngUMjPQwiOngxqKPuh5p"
+        "name": "2.0",
+        "url": "https://open.spotify.com/album/7MvpqHRTRxHu7QoPiYnmzH"
       },
       "artists": [
         {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+          "name": "Big Data",
+          "url": "https://open.spotify.com/artist/4S1nvNHWiZLP4rzwmULmUa"
         },
         {
-          "name": "Chet Faker",
-          "url": "https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om"
+          "name": "Joywave",
+          "url": "https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m"
         }
       ],
-      "duration_ms": 221894,
-      "name": "Drop The Game",
-      "url": "https://open.spotify.com/track/06WnUZymWyJamDivTWqJZA"
+      "duration_ms": 280426,
+      "name": "Dangerous (feat. Joywave)",
+      "url": "https://open.spotify.com/track/3y8AEUef1AVfr0npU5UOa9"
     },
     {
       "added_at": "2025-03-14 13:17:39",
@@ -1516,9 +1516,9 @@
           "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
         }
       ],
-      "duration_ms": 532306,
-      "name": "Under The Pressure",
-      "url": "https://open.spotify.com/track/45D0ixQWzXQOoU1S9aSnKk"
+      "duration_ms": 431746,
+      "name": "An Ocean In Between The Waves",
+      "url": "https://open.spotify.com/track/4Rw5ErjPrtzAa4lJz4KfxM"
     },
     {
       "added_at": "2025-03-14 13:17:39",

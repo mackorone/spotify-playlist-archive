@@ -1,12 +1,12 @@
 {
   "description": "This is Sexyy Red. The essential tracks, all in one playlist.",
-  "num_followers": 28870,
+  "num_followers": 28877,
   "original_name": "This Is Sexyy Red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVBzAAAAAADw/uhjtoMqhzSb4syIJHqD",
+  "snapshot_id": "aVHEgAAAAACuQ4P/eFTd+GKfP4cY2rAu",
   "tracks": [
     {
       "added_at": null,
@@ -163,34 +163,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Finally Over It",
-        "url": "https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        },
-        {
-          "name": "Monaleo",
-          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
-        }
-      ],
-      "duration_ms": 204120,
-      "name": "Baller (with GloRilla, Sexyy Red & Monaleo)",
-      "url": "https://open.spotify.com/track/4YlJHu8fVhatkOjXJFxazm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SWAG",
         "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
       },
@@ -223,6 +195,34 @@
       "duration_ms": 130707,
       "name": "Looking For The Hoes (Ain\u2019t My Fault)",
       "url": "https://open.spotify.com/track/4LadsagnXZM7SEOpHjHIHA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Finally Over It",
+        "url": "https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+        }
+      ],
+      "duration_ms": 204120,
+      "name": "Baller (with GloRilla, Sexyy Red & Monaleo)",
+      "url": "https://open.spotify.com/track/4YlJHu8fVhatkOjXJFxazm"
     },
     {
       "added_at": null,
@@ -367,30 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Motion (feat. Sexyy Red & NaNaski)",
-        "url": "https://open.spotify.com/album/3uGhJedbjmZ0kGDqjp3bkP"
-      },
-      "artists": [
-        {
-          "name": "PLUTO",
-          "url": "https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G"
-        },
-        {
-          "name": "NaNaski",
-          "url": "https://open.spotify.com/artist/0mEBhT853pcpz3xM3URKXf"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 192676,
-      "name": "Motion (feat. Sexyy Red & NaNaski)",
-      "url": "https://open.spotify.com/track/5Ryy52nsMyZhYhAxypC2b8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DIRTY NACHOS",
         "url": "https://open.spotify.com/album/6BpbaxnD9tN5sZTmEkmLh3"
       },
@@ -411,6 +387,30 @@
       "duration_ms": 186991,
       "name": "DAMN SHORTY - feat. Sexyy Red",
       "url": "https://open.spotify.com/track/3ghMzjSfLHEriTZRej6JHm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Motion (feat. Sexyy Red & NaNaski)",
+        "url": "https://open.spotify.com/album/3uGhJedbjmZ0kGDqjp3bkP"
+      },
+      "artists": [
+        {
+          "name": "PLUTO",
+          "url": "https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G"
+        },
+        {
+          "name": "NaNaski",
+          "url": "https://open.spotify.com/artist/0mEBhT853pcpz3xM3URKXf"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 192676,
+      "name": "Motion (feat. Sexyy Red & NaNaski)",
+      "url": "https://open.spotify.com/track/5Ryy52nsMyZhYhAxypC2b8"
     },
     {
       "added_at": null,
@@ -531,6 +531,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "If You Want It",
+        "url": "https://open.spotify.com/album/1jc3lBsBsQaYOGRciN3Bv0"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 182587,
+      "name": "If You Want It",
+      "url": "https://open.spotify.com/track/1lBkIZiPtUetgkMcSABu3h"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "WHIM WHAMIEE (feat. Sexyy Red) [Remix]",
         "url": "https://open.spotify.com/album/1Du7xMoICzbJV9qYy1EUWB"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 147600,
       "name": "WHIM WHAMIEE (feat. Sexyy Red) [Remix]",
       "url": "https://open.spotify.com/track/7pvrkNvlIQMY0hfGcdCr5m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "If You Want It",
-        "url": "https://open.spotify.com/album/1jc3lBsBsQaYOGRciN3Bv0"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 182587,
-      "name": "If You Want It",
-      "url": "https://open.spotify.com/track/1lBkIZiPtUetgkMcSABu3h"
     },
     {
       "added_at": null,

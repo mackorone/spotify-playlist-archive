@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [15,18](https://open.spotify.com/track/2YKXr6iN5TGDVmJTmuIm8X) | [Grand Môme](https://open.spotify.com/artist/0MZLuC0D6sHIGwj7uDmtJs) | [15,18](https://open.spotify.com/album/7p0Lq0RpwXxxu662tj0ACk) | 2:33 | 2023-08-08 |  |
+| [15,18](https://open.spotify.com/track/2YKXr6iN5TGDVmJTmuIm8X) | [Grand Môme](https://open.spotify.com/artist/0MZLuC0D6sHIGwj7uDmtJs) | [15,18](https://open.spotify.com/album/7p0Lq0RpwXxxu662tj0ACk) | 2:33 | 2023-08-08 | 2025-12-31 |
 | [36'50](https://open.spotify.com/track/20F4MbrdwZ8uWNLCzlJRsS) | [Pascal Parisot](https://open.spotify.com/artist/0GHdbA1O72G8k3EcddfP4r) | [Les pieds dans le plat](https://open.spotify.com/album/4i8l6zVkhPzO8n5gi2PDHM) | 1:36 | 2023-08-08 | 2025-08-24 |
 | [365 jours pour être sage \- par Mortelle Adèle](https://open.spotify.com/track/1yoz1SMa3jDXPwbwS74VeE) | [Mortelle Adèle](https://open.spotify.com/artist/1hSghuZf5K4cnrNz5QxetO), [Dorothée Pousséo](https://open.spotify.com/artist/1jTFyYpVYaTirvncPoQ4t3) | [365 jours pour être sage \(par Mortelle Adèle\)](https://open.spotify.com/album/3db5aybmefASkXcR6IVsNg) | 3:07 | 2023-08-08 |  |
 | [A quoi rêve t'il ?](https://open.spotify.com/track/5R9PGIMpm2ZsLDY7Z5FfLV) | [Nicolas Berton](https://open.spotify.com/artist/7I0x0YDBHmRV0BnND5S3Hr) | [Les comptines de Kikobert, vol\. 1](https://open.spotify.com/album/3WB5YjKoohtEqv62CfE2jr) | 1:35 | 2023-08-08 |  |
@@ -47,7 +47,7 @@
 | [Les 5 pies](https://open.spotify.com/track/2o0FEGDMZvPvRMz30A4wZI) | [Nicolas Berton](https://open.spotify.com/artist/7I0x0YDBHmRV0BnND5S3Hr) | [Les comptines de Kikobert, Vol\. 3](https://open.spotify.com/album/0F9PNnmf8ZTNXzBZATF5z6) | 1:01 | 2023-08-08 | 2024-04-04 |
 | [Les coups](https://open.spotify.com/track/01lhCb2oWyU3YgW6bYSMlS) | [Nicolas Berton](https://open.spotify.com/artist/7I0x0YDBHmRV0BnND5S3Hr) | [Les comptines de Kikobert, vol\. 1](https://open.spotify.com/album/3WB5YjKoohtEqv62CfE2jr) | 1:07 | 2023-08-08 |  |
 | [Les câlins](https://open.spotify.com/track/6GpSt8mjG25ldFMKrGut6m) | [Méli Mômes](https://open.spotify.com/artist/662WKYh0Dqqc0cwb5f5dcs) | [Même pas !](https://open.spotify.com/album/4hks57cdKR3buw5jUH7HTH) | 3:01 | 2023-08-08 |  |
-| [Les Girafes Se Pavanent](https://open.spotify.com/track/1izSRf63idvZ6rUpT7pq4q) | [Monsieur Lotus](https://open.spotify.com/artist/46tbcnmLXFRWImGYluUQUt) | [Les Girafes Se Pavanent](https://open.spotify.com/album/49ZEytqL33KqYBwljIleGM) | 2:19 | 2023-08-08 | 2025-09-30 |
+| [Les Girafes Se Pavanent](https://open.spotify.com/track/1izSRf63idvZ6rUpT7pq4q) | [Monsieur Lotus](https://open.spotify.com/artist/46tbcnmLXFRWImGYluUQUt) | [Les Girafes Se Pavanent](https://open.spotify.com/album/49ZEytqL33KqYBwljIleGM) | 2:19 | 2023-08-08 |  |
 | [Les jalousies](https://open.spotify.com/track/5nu3wQwlF5c7p7euAXMBd9) | [Sarah Donna](https://open.spotify.com/artist/3FLl0HVVuKbEZZytvxBOZx) | [Les arcs\-en\-ciel](https://open.spotify.com/album/2ifcwNKrmNqelFXwC2cF4b) | 2:46 | 2023-08-08 |  |
 | [Les poissons panés](https://open.spotify.com/track/1OF1i7TZnKq96uL3GjXkI7) | [Pascal Parisot](https://open.spotify.com/artist/0GHdbA1O72G8k3EcddfP4r) | [Les pieds dans le plat](https://open.spotify.com/album/4i8l6zVkhPzO8n5gi2PDHM) | 2:51 | 2023-08-08 |  |
 | [Mes parents sont bios](https://open.spotify.com/track/6a9Jpg1VFBHhI4VCjm4IeE) | [Pascal Parisot](https://open.spotify.com/artist/0GHdbA1O72G8k3EcddfP4r) | [Les pieds dans le plat](https://open.spotify.com/album/4i8l6zVkhPzO8n5gi2PDHM) | 2:19 | 2023-08-08 |  |

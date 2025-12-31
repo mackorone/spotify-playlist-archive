@@ -1,6 +1,6 @@
 {
   "description": "Tap it back or go for a spin with these uptempo tracks!",
-  "num_followers": 2598728,
+  "num_followers": 2598682,
   "original_name": "Power Hour",
   "owner": {
     "name": "Spotify",
@@ -815,26 +815,6 @@
     {
       "added_at": "2025-12-19 05:00:34",
       "album": {
-        "name": "Set Me Free",
-        "url": "https://open.spotify.com/album/2oRqHz1SKj1CcccfeyASOF"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "SACHA",
-          "url": "https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG"
-        }
-      ],
-      "duration_ms": 184938,
-      "name": "Set Me Free",
-      "url": "https://open.spotify.com/track/2DgQUPTincZnoRT5CJxTKi"
-    },
-    {
-      "added_at": "2025-12-19 05:00:34",
-      "album": {
         "name": "2 Times",
         "url": "https://open.spotify.com/album/4wiZ07TwRSwCUTjIXqcriy"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 131200,
       "name": "2 Times",
       "url": "https://open.spotify.com/track/03xIKiQXopptD4Sv8ijvcG"
+    },
+    {
+      "added_at": "2025-12-19 05:00:34",
+      "album": {
+        "name": "Set Me Free",
+        "url": "https://open.spotify.com/album/2oRqHz1SKj1CcccfeyASOF"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "SACHA",
+          "url": "https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG"
+        }
+      ],
+      "duration_ms": 184938,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/2DgQUPTincZnoRT5CJxTKi"
     },
     {
       "added_at": "2025-12-19 05:00:34",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2025-12-19 05:00:34",
       "album": {
-        "name": "SOLANA",
-        "url": "https://open.spotify.com/album/4MsGXqVu2XqkvLScKUZ9XT"
-      },
-      "artists": [
-        {
-          "name": "Alex LeMirage",
-          "url": "https://open.spotify.com/artist/2fYtH8OoLTeDIicmFH9dNu"
-        }
-      ],
-      "duration_ms": 190698,
-      "name": "SOLANA",
-      "url": "https://open.spotify.com/track/3xcf6DL9oc2botvStMUlnD"
-    },
-    {
-      "added_at": "2025-12-19 05:00:34",
-      "album": {
         "name": "Rivers",
         "url": "https://open.spotify.com/album/1RtBxchPVfar3NI1jY35O8"
       },
@@ -1079,22 +1063,18 @@
     {
       "added_at": "2025-12-19 05:00:34",
       "album": {
-        "name": "Enjoy the Silence (Don Diablo Version)",
-        "url": "https://open.spotify.com/album/4QsFjDF4p71D1fkmC1Foh9"
+        "name": "SOLANA",
+        "url": "https://open.spotify.com/album/4MsGXqVu2XqkvLScKUZ9XT"
       },
       "artists": [
         {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        },
-        {
-          "name": "MONO|CHROME",
-          "url": "https://open.spotify.com/artist/2XPEDEcSl9yBGtTnPjg2Ms"
+          "name": "Alex LeMirage",
+          "url": "https://open.spotify.com/artist/2fYtH8OoLTeDIicmFH9dNu"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Enjoy the Silence - Don Diablo Version",
-      "url": "https://open.spotify.com/track/3ZnFQ1vBuSp9ec7gGAGsEm"
+      "duration_ms": 190698,
+      "name": "SOLANA",
+      "url": "https://open.spotify.com/track/3xcf6DL9oc2botvStMUlnD"
     },
     {
       "added_at": "2025-12-19 05:00:34",
@@ -1119,6 +1099,26 @@
       "duration_ms": 212244,
       "name": "LA NOCHE",
       "url": "https://open.spotify.com/track/5vu69csqeUJheoQWPd2MoM"
+    },
+    {
+      "added_at": "2025-12-19 05:00:34",
+      "album": {
+        "name": "Enjoy the Silence (Don Diablo Version)",
+        "url": "https://open.spotify.com/album/4QsFjDF4p71D1fkmC1Foh9"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        },
+        {
+          "name": "MONO|CHROME",
+          "url": "https://open.spotify.com/artist/2XPEDEcSl9yBGtTnPjg2Ms"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Enjoy the Silence - Don Diablo Version",
+      "url": "https://open.spotify.com/track/3ZnFQ1vBuSp9ec7gGAGsEm"
     },
     {
       "added_at": "2025-12-19 05:00:34",
@@ -1419,30 +1419,6 @@
     {
       "added_at": "2025-12-19 05:00:34",
       "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/0JnmszyYOgIIF7x4GLILSM"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "Skytech",
-          "url": "https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX"
-        }
-      ],
-      "duration_ms": 169326,
-      "name": "Voodoo",
-      "url": "https://open.spotify.com/track/7sKCIyN4Sdeo7OBBUeMCfy"
-    },
-    {
-      "added_at": "2025-12-19 05:00:34",
-      "album": {
         "name": "Last Night (Korolova Remix)",
         "url": "https://open.spotify.com/album/1xcEl66LnB3qYVJrkIf4Mf"
       },
@@ -1483,6 +1459,30 @@
       "duration_ms": 202500,
       "name": "Where I'm From",
       "url": "https://open.spotify.com/track/0JFNTfRWLqQ09z9ZHldX8d"
+    },
+    {
+      "added_at": "2025-12-19 05:00:34",
+      "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/0JnmszyYOgIIF7x4GLILSM"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Skytech",
+          "url": "https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX"
+        }
+      ],
+      "duration_ms": 169326,
+      "name": "Voodoo",
+      "url": "https://open.spotify.com/track/7sKCIyN4Sdeo7OBBUeMCfy"
     },
     {
       "added_at": "2025-12-19 05:00:34",
@@ -1731,26 +1731,6 @@
     {
       "added_at": "2025-12-19 05:00:34",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/5uIjazA5fZ88us2oc1zbBd"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        }
-      ],
-      "duration_ms": 144664,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/2HJu1bxkubHZEXC8r6snXY"
-    },
-    {
-      "added_at": "2025-12-19 05:00:34",
-      "album": {
         "name": "Never Alone",
         "url": "https://open.spotify.com/album/1JFKwBhIzMth2fmrq5qwSW"
       },
@@ -1771,6 +1751,26 @@
       "duration_ms": 219047,
       "name": "Never Alone",
       "url": "https://open.spotify.com/track/4J1QJwbFiinUpUvsXdagBh"
+    },
+    {
+      "added_at": "2025-12-19 05:00:34",
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/5uIjazA5fZ88us2oc1zbBd"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "duration_ms": 144664,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/2HJu1bxkubHZEXC8r6snXY"
     },
     {
       "added_at": "2025-12-19 05:00:34",
@@ -1979,22 +1979,22 @@
     {
       "added_at": "2025-12-19 05:00:34",
       "album": {
-        "name": "the time",
-        "url": "https://open.spotify.com/album/6tG3LSQaSE9hBKylnA5Gr8"
+        "name": "A Feeling I Miss",
+        "url": "https://open.spotify.com/album/62vGqBRWJcUF2rnBOH24Bq"
       },
       "artists": [
         {
-          "name": "jigitz",
-          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+          "name": "Cassian",
+          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
         },
         {
-          "name": "Tabi",
-          "url": "https://open.spotify.com/artist/5AnSxADNBeVFHJEGJVPYVn"
+          "name": "Matt Ryder",
+          "url": "https://open.spotify.com/artist/0hySaVBazHTHIRvnsxGvHx"
         }
       ],
-      "duration_ms": 122386,
-      "name": "the time",
-      "url": "https://open.spotify.com/track/7DECteJjqNfryTmWFgG1Q9"
+      "duration_ms": 201289,
+      "name": "A Feeling I Miss",
+      "url": "https://open.spotify.com/track/58kSdDfQVV2Pbupz7EYpkJ"
     },
     {
       "added_at": "2025-12-19 05:00:34",
@@ -2019,22 +2019,22 @@
     {
       "added_at": "2025-12-19 05:00:34",
       "album": {
-        "name": "A Feeling I Miss",
-        "url": "https://open.spotify.com/album/62vGqBRWJcUF2rnBOH24Bq"
+        "name": "the time",
+        "url": "https://open.spotify.com/album/6tG3LSQaSE9hBKylnA5Gr8"
       },
       "artists": [
         {
-          "name": "Cassian",
-          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
         },
         {
-          "name": "Matt Ryder",
-          "url": "https://open.spotify.com/artist/0hySaVBazHTHIRvnsxGvHx"
+          "name": "Tabi",
+          "url": "https://open.spotify.com/artist/5AnSxADNBeVFHJEGJVPYVn"
         }
       ],
-      "duration_ms": 201289,
-      "name": "A Feeling I Miss",
-      "url": "https://open.spotify.com/track/58kSdDfQVV2Pbupz7EYpkJ"
+      "duration_ms": 122386,
+      "name": "the time",
+      "url": "https://open.spotify.com/track/7DECteJjqNfryTmWFgG1Q9"
     },
     {
       "added_at": "2025-12-19 05:00:34",
@@ -2219,22 +2219,6 @@
     {
       "added_at": "2025-12-19 05:00:34",
       "album": {
-        "name": "collide",
-        "url": "https://open.spotify.com/album/6JRhqulQNuOcumg7npM4QW"
-      },
-      "artists": [
-        {
-          "name": "\u0141aszewo",
-          "url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
-        }
-      ],
-      "duration_ms": 253714,
-      "name": "collide",
-      "url": "https://open.spotify.com/track/1i2mlzAv7HAAMMSZyUJ2B2"
-    },
-    {
-      "added_at": "2025-12-19 05:00:34",
-      "album": {
         "name": "Lifeline",
         "url": "https://open.spotify.com/album/4K96SVUxHrerdL8nWqbUsQ"
       },
@@ -2251,6 +2235,22 @@
       "duration_ms": 199756,
       "name": "Lifeline",
       "url": "https://open.spotify.com/track/5qGZ2P45XqoFC1yVzRYDjm"
+    },
+    {
+      "added_at": "2025-12-19 05:00:34",
+      "album": {
+        "name": "collide",
+        "url": "https://open.spotify.com/album/6JRhqulQNuOcumg7npM4QW"
+      },
+      "artists": [
+        {
+          "name": "\u0141aszewo",
+          "url": "https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN"
+        }
+      ],
+      "duration_ms": 253714,
+      "name": "collide",
+      "url": "https://open.spotify.com/track/1i2mlzAv7HAAMMSZyUJ2B2"
     },
     {
       "added_at": "2025-12-19 05:00:34",
@@ -2295,26 +2295,6 @@
     {
       "added_at": "2025-12-19 05:00:34",
       "album": {
-        "name": "Wait So Long (Why Do I Have To) [Agents Of Time Remix]",
-        "url": "https://open.spotify.com/album/0mV7z6sxHvU3Cm3gCJRVJQ"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Agents Of Time",
-          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
-        }
-      ],
-      "duration_ms": 245538,
-      "name": "Wait So Long (Why Do I Have To) - Agents Of Time Remix",
-      "url": "https://open.spotify.com/track/5LNZWPb0G57moAnwDtXQuH"
-    },
-    {
-      "added_at": "2025-12-19 05:00:34",
-      "album": {
         "name": "Nomacita",
         "url": "https://open.spotify.com/album/4gJo8k21SMNJsfPxp3Bhyi"
       },
@@ -2335,6 +2315,26 @@
       "duration_ms": 170322,
       "name": "Nomacita",
       "url": "https://open.spotify.com/track/4NjCBS4wF0lFO5wbYBQuIt"
+    },
+    {
+      "added_at": "2025-12-19 05:00:34",
+      "album": {
+        "name": "Wait So Long (Why Do I Have To) [Agents Of Time Remix]",
+        "url": "https://open.spotify.com/album/0mV7z6sxHvU3Cm3gCJRVJQ"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+        }
+      ],
+      "duration_ms": 245538,
+      "name": "Wait So Long (Why Do I Have To) - Agents Of Time Remix",
+      "url": "https://open.spotify.com/track/5LNZWPb0G57moAnwDtXQuH"
     },
     {
       "added_at": "2025-12-19 05:00:34",
@@ -2379,6 +2379,26 @@
     {
       "added_at": "2025-12-19 05:00:34",
       "album": {
+        "name": "Million Good Reasons",
+        "url": "https://open.spotify.com/album/3UpwS93J7Rcr18wwKzXYvT"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+        }
+      ],
+      "duration_ms": 157130,
+      "name": "Million Good Reasons",
+      "url": "https://open.spotify.com/track/2dQZBkS0imJIezf1C7Dl73"
+    },
+    {
+      "added_at": "2025-12-19 05:00:34",
+      "album": {
         "name": "Like A Prayer",
         "url": "https://open.spotify.com/album/0P0UAa1mOYWrKpuCFklA87"
       },
@@ -2399,26 +2419,6 @@
       "duration_ms": 229337,
       "name": "Like A Prayer",
       "url": "https://open.spotify.com/track/5DIOs6NEUV14lGzerovXZN"
-    },
-    {
-      "added_at": "2025-12-19 05:00:34",
-      "album": {
-        "name": "Million Good Reasons",
-        "url": "https://open.spotify.com/album/3UpwS93J7Rcr18wwKzXYvT"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "FAST BOY",
-          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
-        }
-      ],
-      "duration_ms": 157130,
-      "name": "Million Good Reasons",
-      "url": "https://open.spotify.com/track/2dQZBkS0imJIezf1C7Dl73"
     },
     {
       "added_at": "2025-12-19 05:00:34",
@@ -2479,26 +2479,6 @@
     {
       "added_at": "2025-12-19 05:00:34",
       "album": {
-        "name": "Tidal Wave",
-        "url": "https://open.spotify.com/album/7qPWRxHCpAciE2ZmHaFamE"
-      },
-      "artists": [
-        {
-          "name": "MashBit",
-          "url": "https://open.spotify.com/artist/2ZUktxXMg0flZ5HGHSd5HZ"
-        },
-        {
-          "name": "Lexi Scatena",
-          "url": "https://open.spotify.com/artist/6OrvGE61MCrOZJM5naN4Vd"
-        }
-      ],
-      "duration_ms": 184620,
-      "name": "Tidal Wave",
-      "url": "https://open.spotify.com/track/0Ec7CMUXnfpSCZsJL26lhS"
-    },
-    {
-      "added_at": "2025-12-19 05:00:34",
-      "album": {
         "name": "Blessings (Cassian Remix)",
         "url": "https://open.spotify.com/album/5IyXTV39CmbRwp9Xibpwoy"
       },
@@ -2523,26 +2503,6 @@
     {
       "added_at": "2025-12-19 05:00:34",
       "album": {
-        "name": "Until The Lights Go Out",
-        "url": "https://open.spotify.com/album/6eTCjsz3UJzuGEHVpMXSRZ"
-      },
-      "artists": [
-        {
-          "name": "Axwell",
-          "url": "https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43"
-        },
-        {
-          "name": "CARMA",
-          "url": "https://open.spotify.com/artist/5gp0qfvidEBit8aWKh18NA"
-        }
-      ],
-      "duration_ms": 191359,
-      "name": "Until The Lights Go Out",
-      "url": "https://open.spotify.com/track/6xmWDLQBuBjWBc0Ary6wUj"
-    },
-    {
-      "added_at": "2025-12-19 05:00:34",
-      "album": {
         "name": "Meet Me",
         "url": "https://open.spotify.com/album/1GthDfKWmqsKkxlXII6rG5"
       },
@@ -2563,6 +2523,46 @@
       "duration_ms": 195000,
       "name": "Meet Me",
       "url": "https://open.spotify.com/track/5NIh6RvA8hOV31OnQGdk4d"
+    },
+    {
+      "added_at": "2025-12-19 05:00:34",
+      "album": {
+        "name": "Tidal Wave",
+        "url": "https://open.spotify.com/album/7qPWRxHCpAciE2ZmHaFamE"
+      },
+      "artists": [
+        {
+          "name": "MashBit",
+          "url": "https://open.spotify.com/artist/2ZUktxXMg0flZ5HGHSd5HZ"
+        },
+        {
+          "name": "Lexi Scatena",
+          "url": "https://open.spotify.com/artist/6OrvGE61MCrOZJM5naN4Vd"
+        }
+      ],
+      "duration_ms": 184620,
+      "name": "Tidal Wave",
+      "url": "https://open.spotify.com/track/0Ec7CMUXnfpSCZsJL26lhS"
+    },
+    {
+      "added_at": "2025-12-19 05:00:34",
+      "album": {
+        "name": "Until The Lights Go Out",
+        "url": "https://open.spotify.com/album/6eTCjsz3UJzuGEHVpMXSRZ"
+      },
+      "artists": [
+        {
+          "name": "Axwell",
+          "url": "https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43"
+        },
+        {
+          "name": "CARMA",
+          "url": "https://open.spotify.com/artist/5gp0qfvidEBit8aWKh18NA"
+        }
+      ],
+      "duration_ms": 191359,
+      "name": "Until The Lights Go Out",
+      "url": "https://open.spotify.com/track/6xmWDLQBuBjWBc0Ary6wUj"
     },
     {
       "added_at": "2025-12-19 05:00:34",
@@ -2595,22 +2595,26 @@
     {
       "added_at": "2025-12-19 05:00:34",
       "album": {
-        "name": "All Yours",
-        "url": "https://open.spotify.com/album/3onzNjfLd2w7n3CcOCDspZ"
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/5wrYrywBsHkGIekBoScfG8"
       },
       "artists": [
         {
-          "name": "Marlon Hoffstadt",
-          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+          "name": "Audien",
+          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
         },
         {
-          "name": "DJ Daddy Trance",
-          "url": "https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM"
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "Lilly Ahlberg",
+          "url": "https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk"
         }
       ],
-      "duration_ms": 255510,
-      "name": "Turn It Up",
-      "url": "https://open.spotify.com/track/3V8NtZAKzVhM6XexfKl0fq"
+      "duration_ms": 191076,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/1v7SdHbR0pkwFb9RfG6L6O"
     }
   ],
   "unique_name": "Power Hour",

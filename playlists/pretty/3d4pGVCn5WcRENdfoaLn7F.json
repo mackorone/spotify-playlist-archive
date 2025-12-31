@@ -1,12 +1,12 @@
 {
   "description": "These are some independent alternative rock bands you need to hear.",
-  "num_followers": 389,
+  "num_followers": 392,
   "original_name": "Unsigned Alternative Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAACOn0jWABAiEcnOZ7kTuCi4bTkSw7H",
+  "snapshot_id": "AAACPSyAWaXR6LzjvHD6FRFlfLYxvU+H",
   "tracks": [
     {
       "added_at": "2025-11-16 12:40:10",
@@ -1207,6 +1207,54 @@
       "duration_ms": 312236,
       "name": "My Journey into Space",
       "url": "https://open.spotify.com/track/0JwcnEfABRXunsYH2W1AVv"
+    },
+    {
+      "added_at": "2025-12-30 22:26:15",
+      "album": {
+        "name": "Torn Apart And Wasted",
+        "url": "https://open.spotify.com/album/0Bi1TNUxcZRWVSNLi2sfMF"
+      },
+      "artists": [
+        {
+          "name": "Leave Behind",
+          "url": "https://open.spotify.com/artist/0AE6KuLlPDvPpFoiNZmVOW"
+        }
+      ],
+      "duration_ms": 234285,
+      "name": "Torn Apart And Wasted",
+      "url": "https://open.spotify.com/track/7jyr1VgS4FEvIedi8at6vQ"
+    },
+    {
+      "added_at": "2025-12-30 22:32:04",
+      "album": {
+        "name": "Storm",
+        "url": "https://open.spotify.com/album/3VpAsksWzfNm6r7cHL8w6t"
+      },
+      "artists": [
+        {
+          "name": "Under The Pendulum",
+          "url": "https://open.spotify.com/artist/2lQOBQMkqxOvrVdphflRKP"
+        }
+      ],
+      "duration_ms": 232392,
+      "name": "Storm",
+      "url": "https://open.spotify.com/track/4zco59LEN14IqrtaKHVIQq"
+    },
+    {
+      "added_at": "2025-12-30 22:58:16",
+      "album": {
+        "name": "Black Swan",
+        "url": "https://open.spotify.com/album/3SYNo2RgNSlLptVzCXvRIs"
+      },
+      "artists": [
+        {
+          "name": "Ask The Dust",
+          "url": "https://open.spotify.com/artist/7F3WOicrHPUVKyOhZUCrND"
+        }
+      ],
+      "duration_ms": 211254,
+      "name": "Black Swan",
+      "url": "https://open.spotify.com/track/5GJJ489qwQiEAj4HXKBoq4"
     }
   ],
   "unique_name": "Unsigned Alternative Rock",

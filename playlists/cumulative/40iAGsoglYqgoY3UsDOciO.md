@@ -4,7 +4,7 @@
 
 > A frequently updated playlist with brand\-new songs from new &amp;amp; established artists\. 🤖🚫&\#x2F;&\#x2F; Cover: $NOT \| pitch.playlistd@gmail.com
 
-453 songs - 22 hr 0 min
+454 songs - 22 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [BIG X \- Official Instrumental](https://open.spotify.com/track/0ZHH3hwFJxcE69dlERYKcA) | [neyoooo](https://open.spotify.com/artist/3OtyVxfz6lLJL5745K6u8I), [glxzzy](https://open.spotify.com/artist/2To0OkzxRBqUJKNi9Qy3Ep), [Kash coco](https://open.spotify.com/artist/4IgEyjCaFIx7uk3vjDzhQG) | [MOST WANTED \(Official Instrumentals\)](https://open.spotify.com/album/0XfSGKS06F53MBGOcBJTjN) | 2:05 | 2024-10-17 |  |
 | [Black & White](https://open.spotify.com/track/3zZXGqjvditYfdIIBvkv7f) | [\#R!sK](https://open.spotify.com/artist/2PQ58rKQ5qIDAFCKkANX4Q) | [Black & White](https://open.spotify.com/album/5fhAodVTGaeP9OiLMHoXz1) | 2:48 | 2024-12-30 |  |
 | [Blizzard](https://open.spotify.com/track/59Wb0oGoi62i15ACLh3TFH) | [L'Undescent](https://open.spotify.com/artist/7Hfiu0GWm0xYYhcIKnbHy7) | [Blizzard](https://open.spotify.com/album/1YJtgp4FZdEpxLCrOniaSm) | 2:25 | 2024-05-24 |  |
+| [Bloodtype](https://open.spotify.com/track/7g7lzOmC6qDAOGHhXqoeOB) | [Cassius Grove](https://open.spotify.com/artist/27DQ8cXxISDC6oHcEFA5hC) | [Bloodtype](https://open.spotify.com/album/5e11Kd7OBgFUuBy8L2EytI) | 1:56 | 2025-12-30 |  |
 | [Blue Tarp Chronicles](https://open.spotify.com/track/6OUivpe58D9hqh47BjA0ez) | [Joel Spiral](https://open.spotify.com/artist/49pqsoKKU8k4noW2FzlE5K), [Punahele](https://open.spotify.com/artist/2KR8HMmruqAIUItqbXPABv) | [Blue Tarp Chronicles](https://open.spotify.com/album/6OtXXaWU32a5i1EhQNFQ4Z) | 3:30 | 2024-05-22 |  |
 | [BLUFF](https://open.spotify.com/track/5SYBSJ4iUdXVvtfindDscN) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [BLUFF](https://open.spotify.com/album/1rAeBE0z81SIMPdUJMTMwP) | 3:36 | 2023-07-26 |  |
 | [Blur](https://open.spotify.com/track/1qGPVUPpRkpl9DQhx8NKSl) | [bazio](https://open.spotify.com/artist/2KYT4DQu6acXx31TddY9S6) | [Blur](https://open.spotify.com/album/1ULqDMnOnGBPMMr4YTl7ul) | 2:57 | 2023-07-26 |  |

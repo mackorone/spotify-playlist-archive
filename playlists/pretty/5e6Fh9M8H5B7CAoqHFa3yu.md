@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 243 likes - 1,762 songs - 4 day 10 hr 49 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 243 likes - 1,765 songs - 4 day 10 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1770,5 +1770,8 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 1760 | [Empty pages](https://open.spotify.com/track/21UOuzfRmxNVUr5Jq5FDKh) | [Taboout](https://open.spotify.com/artist/3TtYIdQNhUPpFoobB9X6FD) | [Lost my ears](https://open.spotify.com/album/7LphVGdXnt8EjdE17BMzAF) | 4:43 |
 | 1761 | [Better Judgement](https://open.spotify.com/track/3UrHhQ4lxAwfhhG3IudMA0) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Wish You Hell \- The 2nd Mini Album](https://open.spotify.com/album/5nn0a3x9rolzWFtiZLejzA) | 2:49 |
 | 1762 | [Fury of the Corsairs](https://open.spotify.com/track/4fiCsuBqRrCJnzhTb5qciU) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Fury of the Corsairs](https://open.spotify.com/album/2TuteoDyNS8vuER4IYPZaF) | 2:44 |
+| 1763 | [He Talks Too Angels](https://open.spotify.com/track/0dMjRdjCuvh8CTMGnwc4Uv) | [420 Vision](https://open.spotify.com/artist/0Jfa0ovGl8yKOxqRCzXmcr) | [He Talks Too Angels](https://open.spotify.com/album/29PpTwjX8Faxt3VhyyIH5t) | 5:44 |
+| 1764 | [Pizza Funghi](https://open.spotify.com/track/5xW0M3w4m9fQdBbTbpWca4) | [Lunamber](https://open.spotify.com/artist/6kQ6my1pRo4S7X8WYXj8B1) | [Pizza Funghi](https://open.spotify.com/album/6iLwnrQTImmq300jcdRrMC) | 2:44 |
+| 1765 | [Waters of Quiet Healing \(Thème du Soin\)](https://open.spotify.com/track/2CbEox9lXcr1a2FUKgLr39) | [Florian Bochkovsky](https://open.spotify.com/artist/2VGhfRg7fACPIC0txbKqCp) | [Le Royaume D'Ailm \(Original Game Soundtrack\)](https://open.spotify.com/album/41i1shI977hJN6kHl7ZBWR) | 1:38 |
 
-Snapshot ID: `AAAHs+AlWH6Mi6qBXrW3cXLEaDCnmIyV`
+Snapshot ID: `AAAHtpd+F6fNqt/w1bNaOhOuPbq7Wsfw`

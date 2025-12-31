@@ -4,11 +4,11 @@
 
 > This is Perdidos De Sinaloa\. The essential tracks, all in one playlist.
 
-152 songs - 8 hr 29 min
+153 songs - 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Medio Olvido](https://open.spotify.com/track/6e8dz9X9b7KYUHm7DLvvLa) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Una Explicación](https://open.spotify.com/album/1YsQ0Xgawr9QGoYkT0S17a) | 2:18 | 2025-12-15 |  |
+| [A Medio Olvido](https://open.spotify.com/track/6e8dz9X9b7KYUHm7DLvvLa) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Una Explicación](https://open.spotify.com/album/1YsQ0Xgawr9QGoYkT0S17a) | 2:18 | 2025-12-15 | 2025-12-31 |
 | [Alineando Cabrones](https://open.spotify.com/track/36gJuzmW2UZfkY4iCGXijc) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Tres Botes](https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK) | 5:04 | 2022-07-22 | 2022-07-24 |
 | [Amar Sin Pensarlo \- En Vivo](https://open.spotify.com/track/0KgLontgLrWfnnF6k61GUS) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Tres Botes](https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK) | 2:58 | 2022-06-01 | 2022-10-13 |
 | [Amor Distante](https://open.spotify.com/track/4O9jkAZbeMxYQMORIcjbtC) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Ya Duele Menos](https://open.spotify.com/album/6LqH5ZKr2oQKEQDEmuS5CW) | 3:23 | 2022-06-01 | 2022-10-13 |
@@ -145,6 +145,7 @@
 | [Tonieladas](https://open.spotify.com/track/7aIlm2O6MRpMgfHkhVVyN0) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Kanales](https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA) | [Tonieladas \(feat\. Kanales\)](https://open.spotify.com/album/73D9IF6R7JhKsO5rtLJ1LX) | 3:20 | 2022-06-01 | 2025-11-27 |
 | [Tres Botes](https://open.spotify.com/track/2jnPxRwZw1GmFbQhPOAPGK) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Tres Botes](https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK) | 2:37 | 2022-06-01 |  |
 | [Tu Cariñito](https://open.spotify.com/track/2RI4LPeI4Ke4MOdmnaDDnf) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Tu Cariñito](https://open.spotify.com/album/0PlRDjwGgq2MQhWNw8VQBP) | 2:20 | 2022-06-01 |  |
+| [Tu Cariñito](https://open.spotify.com/track/1y1df31mKnLjEGvjYI00Df) | [Tambora Ritmo Express](https://open.spotify.com/artist/5XmFilREaCbdcCcMgLVme6), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Sonora y Sinaloa](https://open.spotify.com/album/1gXNP2MhJ7PJGmany02zy3) | 2:12 | 2025-12-31 |  |
 | [Tu Forma De Ser](https://open.spotify.com/track/50jTcQY6sWdDyMWwg62d0z) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Te Vas](https://open.spotify.com/album/2jq43Yl1uXnYcdn5BPtmxR) | 3:03 | 2022-06-01 |  |
 | [Tu Naturaleza](https://open.spotify.com/track/59qkoYLBlVCbnhhpg8Z78H) | [Simón León](https://open.spotify.com/artist/4mTHBSlYMRCM1c22vaQjh0), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Tu Naturaleza](https://open.spotify.com/album/0wAR5FCLUdFszqMKic434x) | 3:04 | 2023-11-10 |  |
 | [Un Amor Como El Mío](https://open.spotify.com/track/11JSOFkvdssDhJZKrQ3rzE) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Tambora Ritmo Express](https://open.spotify.com/artist/5XmFilREaCbdcCcMgLVme6) | [Un Amor Como El Mío](https://open.spotify.com/album/2E5A8pOmmT8aoWPHEEYR4I) | 3:11 | 2025-01-17 | 2025-11-03 |

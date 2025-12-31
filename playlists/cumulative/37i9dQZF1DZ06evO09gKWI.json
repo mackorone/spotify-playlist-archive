@@ -54,6 +54,32 @@
     {
       "album": {
         "name": "SOBRECARGA (ALTA TENS\u00c3O DELUXE)",
+        "url": "https://open.spotify.com/album/2t7U9yQWlGks2hUglt2gE2"
+      },
+      "artists": [
+        {
+          "name": "CHAMELEO",
+          "url": "https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0"
+        },
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        },
+        {
+          "name": "M\u00cdLIAN DOLLA",
+          "url": "https://open.spotify.com/artist/7u3RgCNzBSkM4L4gqGvdvU"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161031,
+      "name": "220v (Bivolt & M\u00edlian Dolla RMX)",
+      "url": "https://open.spotify.com/track/2qjMd1CfpLdma8sTM6bMSC"
+    },
+    {
+      "album": {
+        "name": "SOBRECARGA (ALTA TENS\u00c3O DELUXE)",
         "url": "https://open.spotify.com/album/1AV0k0sNmviHkWhMy4CImC"
       },
       "artists": [
@@ -72,7 +98,7 @@
       ],
       "date_added": "2025-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 161031,
       "name": "220v (Bivolt & M\u00edlian Dolla RMX)",
       "url": "https://open.spotify.com/track/3ZVT6LGbFhezrO9pQLCvT4"
@@ -2122,7 +2148,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-20",
+      "date_removed": null,
       "duration_ms": 163199,
       "name": "S\u00f3 Nois",
       "url": "https://open.spotify.com/track/55ZBdehW7MyCL7fHXXXiEj"

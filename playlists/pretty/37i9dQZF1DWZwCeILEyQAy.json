@@ -1,6 +1,6 @@
 {
   "description": "Real Rap. All Pressure. Cover: PLUTO",
-  "num_followers": 461206,
+  "num_followers": 461161,
   "original_name": "Pressure",
   "owner": {
     "name": "Spotify",
@@ -531,22 +531,6 @@
     {
       "added_at": "2025-06-20 04:00:58",
       "album": {
-        "name": "Courtesy Of A Rich Nigga",
-        "url": "https://open.spotify.com/album/52CR1FGtrOvY7OU71bHqSB"
-      },
-      "artists": [
-        {
-          "name": "Stunna Girl",
-          "url": "https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV"
-        }
-      ],
-      "duration_ms": 197800,
-      "name": "Courtesy Of A Rich Nigga",
-      "url": "https://open.spotify.com/track/0Wv28mbuNvGVRtRBbN1r5C"
-    },
-    {
-      "added_at": "2025-06-20 04:00:58",
-      "album": {
         "name": "GEEKALEEK (feat. BIA)",
         "url": "https://open.spotify.com/album/2ZaMFmBHgflgxKcmy05tuH"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 128000,
       "name": "GEEKALEEK (feat. BIA)",
       "url": "https://open.spotify.com/track/51hjlwiTLAHZxkKS28R38R"
+    },
+    {
+      "added_at": "2025-06-20 04:00:58",
+      "album": {
+        "name": "Courtesy Of A Rich Nigga",
+        "url": "https://open.spotify.com/album/52CR1FGtrOvY7OU71bHqSB"
+      },
+      "artists": [
+        {
+          "name": "Stunna Girl",
+          "url": "https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV"
+        }
+      ],
+      "duration_ms": 197800,
+      "name": "Courtesy Of A Rich Nigga",
+      "url": "https://open.spotify.com/track/0Wv28mbuNvGVRtRBbN1r5C"
     },
     {
       "added_at": "2025-06-20 04:00:58",
@@ -919,22 +919,6 @@
     {
       "added_at": "2025-06-20 04:00:58",
       "album": {
-        "name": "No Statements",
-        "url": "https://open.spotify.com/album/5iWKMNJfz4v7ht3m0sqbiK"
-      },
-      "artists": [
-        {
-          "name": "ScarLip",
-          "url": "https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ"
-        }
-      ],
-      "duration_ms": 158181,
-      "name": "No Statements",
-      "url": "https://open.spotify.com/track/0pSOqjxYRQ0HjHs1LbxIkw"
-    },
-    {
-      "added_at": "2025-06-20 04:00:58",
-      "album": {
         "name": "Back To 304'n",
         "url": "https://open.spotify.com/album/01Q0we3MvUuyWfJrVq85gg"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 117551,
       "name": "Checkin In",
       "url": "https://open.spotify.com/track/3LP8UhaVYrkr4RRIZIcAjt"
+    },
+    {
+      "added_at": "2025-06-20 04:00:58",
+      "album": {
+        "name": "No Statements",
+        "url": "https://open.spotify.com/album/5iWKMNJfz4v7ht3m0sqbiK"
+      },
+      "artists": [
+        {
+          "name": "ScarLip",
+          "url": "https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ"
+        }
+      ],
+      "duration_ms": 158181,
+      "name": "No Statements",
+      "url": "https://open.spotify.com/track/0pSOqjxYRQ0HjHs1LbxIkw"
     }
   ],
   "unique_name": "Pressure",

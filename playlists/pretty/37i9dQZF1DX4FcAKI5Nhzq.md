@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 
 > Future K\-Pop hits! \(Cover: KANGDANIEL\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 884,358 likes - 51 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 884,312 likes - 51 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 | 50 | [Lemonade Fever](https://open.spotify.com/track/66noqwJgmDZKQgnWR34eyt) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [Dare to Crave: Epilogue](https://open.spotify.com/album/1VizD6uasVDERbTsTrunRz) | 2:39 |
 | 51 | [Sunsets and Cigarettes](https://open.spotify.com/track/4xk3VG8GMiS65iBtUyZ209) | [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [Silhouette](https://open.spotify.com/album/412kW5chzKk3ucqPurnRMF) | 3:10 |
 
-Snapshot ID: `AAAAAHTGMcLM6WAP1edt6AY+tG1x8v+A`
+Snapshot ID: `AAAAAAB8vizI8aga2xy9IfUfWjiYryEn`

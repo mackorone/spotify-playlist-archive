@@ -4,7 +4,7 @@
 
 > Yeni favori sanatçını keşfet ⚡ Kapak: Merve Günay
 
-339 songs - 17 hr 7 min
+340 songs - 17 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,7 @@
 | [Hala Aklımda](https://open.spotify.com/track/6EgzIwY7XSH9C3K7Ahzxu8) | [Meriç İzgi](https://open.spotify.com/artist/06BMyGi6T6nmrRqp9P4B6H) | [Hala Aklımda](https://open.spotify.com/album/3l5p9eyMeyJJcbbmbVQwjA) | 2:45 | 2024-11-21 | 2025-03-11 |
 | [Hala Niye Burdayım](https://open.spotify.com/track/4nEb2EscWMff2wh3l0yK6e) | [Işıl Ayman](https://open.spotify.com/artist/5q6bMEU5EbDAOrTFUvOsC0) | [Hala Niye Burdayım](https://open.spotify.com/album/2LYJQQSdhdoVBrx9rScLTS) | 2:38 | 2024-06-20 | 2025-07-29 |
 | [Hani Yine Yoksan](https://open.spotify.com/track/1pVKwy1xgTv99BoA0OobY6) | [Naz](https://open.spotify.com/artist/64iFKhLP2ou8VZAxiawTcw) | [Hani Yine Yoksan](https://open.spotify.com/album/4x2w2oYIjliuVD0evvth63) | 3:43 | 2024-09-05 | 2024-09-28 |
-| [Harabeyim](https://open.spotify.com/track/3DilVCaqB9uWCXreTAJvjG) | [Ayberk Serin](https://open.spotify.com/artist/1Q8rbtdvSoGQj33lP2HcJF) | [Harabeyim](https://open.spotify.com/album/3NoyGdQPzxEGF3roKzLosS) | 2:58 | 2024-06-20 |  |
+| [Harabeyim](https://open.spotify.com/track/3DilVCaqB9uWCXreTAJvjG) | [Ayberk Serin](https://open.spotify.com/artist/1Q8rbtdvSoGQj33lP2HcJF) | [Harabeyim](https://open.spotify.com/album/3NoyGdQPzxEGF3roKzLosS) | 2:58 | 2024-06-20 | 2025-12-31 |
 | [Harap](https://open.spotify.com/track/1oUVdmg9KHU3RL61GSipXw) | [Aybüke Albere](https://open.spotify.com/artist/5OmWf1TAIgZqyviJCCY2rq) | [Harap](https://open.spotify.com/album/3TlTbhjrgbCqTVQYyZmgRc) | 2:24 | 2025-04-18 | 2025-07-18 |
 | [Hayal Etmek Güzel \- Surf Arabesk 1.3](https://open.spotify.com/track/2ETGa2vlZx4UBySs8S9qum) | [Fırat Ağacık](https://open.spotify.com/artist/0jvlsSg7s79GNOp79a7CUb), [Abkountry](https://open.spotify.com/artist/5aqQNbKTyAIbtWysPRhF2S) | [Hayal Etmek Güzel \(Surf Arabesk 1.3\)](https://open.spotify.com/album/1XxwfbQ5Km783RjWnm72HL) | 4:29 | 2024-06-20 |  |
 | [Hayran](https://open.spotify.com/track/7w3J1DNzTMGQLcgps5iDGO) | [Ege Can Sal](https://open.spotify.com/artist/20mkFP4AY47MtOJ39fP0bX) | [Hayran](https://open.spotify.com/album/5E7qFRELNfuGFoVy5ABB75) | 1:56 | 2025-03-06 | 2025-05-02 |
@@ -222,6 +222,7 @@
 | [Sen Bana Gel](https://open.spotify.com/track/3c2XYZJJGNeYgeGHVhXybE) | [Derin Mevzu](https://open.spotify.com/artist/72Q2kgEHumnBXH25PYPY3z) | [Sen Bana Gel](https://open.spotify.com/album/7LW9aMu7Rr5CBdOlVJhbTB) | 2:35 | 2025-04-10 | 2025-05-02 |
 | [Sen Bela Mısın?](https://open.spotify.com/track/3ewPneS2cQMOAzo8QahwA2) | [Alaca](https://open.spotify.com/artist/1sUkLgaVgfmxRqlaZpLOHP), [Ahmet Balci](https://open.spotify.com/artist/0V8MPLRHPb0ei3CcLxoxQU) | [Sen Bela Mısın?](https://open.spotify.com/album/2hw3ZM855f9rTFPSkx776f) | 2:07 | 2025-05-29 | 2025-07-18 |
 | [Sen De Duysan](https://open.spotify.com/track/2AjxQZgvrh0URRqVlDv4SE) | [Soner Han](https://open.spotify.com/artist/6rwdqGbhoOisi9wCeLKJs8) | [Sen De Duysan](https://open.spotify.com/album/03NTqiplIlk3pWEDAgrQX4) | 3:27 | 2024-06-20 | 2024-09-07 |
+| [Sen Gökyüzünde Mavi](https://open.spotify.com/track/5Gk4aHsl8fdqbIbie5Vrr5) | [Ali Beykant](https://open.spotify.com/artist/4HT1hlLO6xFV13XIP2WbxZ) | [Sen Gökyüzünde Mavi](https://open.spotify.com/album/7aDxAeoNqNKV5yxEfkATJQ) | 3:13 | 2025-12-11 |  |
 | [sen o değilsin](https://open.spotify.com/track/3Xg9NYwlg81098vb43VhvR) | [Robin](https://open.spotify.com/artist/5PwJjK4M32I7e467AwW67Y) | [sen o değilsin](https://open.spotify.com/album/13MsEj0bmpLttD1BIQ6izF) | 3:08 | 2025-07-24 | 2025-09-06 |
 | [Sen Ol](https://open.spotify.com/track/3jfK4hieQJyLEnQkpTcEjf) | [Ekin Kurt](https://open.spotify.com/artist/0iM3AuF59TOPyxJkpl3MiM), [Julia Jarabanda](https://open.spotify.com/artist/6hHrXYqMiRMiOQ0hTeFaTz) | [Sen Ol](https://open.spotify.com/album/72FRlkbaouw3dYnCuUHwg2) | 3:12 | 2025-08-28 | 2025-09-05 |
 | [sendin izlerim](https://open.spotify.com/track/4bQtBQfboIxsdKwLP7Do8s) | [zei](https://open.spotify.com/artist/0EuuCfvKdq4FHDyXHoOspa), [Cotard](https://open.spotify.com/artist/0OR34vxRvcPuyDK9s7EuQ8) | [mani](https://open.spotify.com/album/39HaoKUrwGZnMpxgiqPvpH) | 2:35 | 2024-06-20 | 2024-09-06 |

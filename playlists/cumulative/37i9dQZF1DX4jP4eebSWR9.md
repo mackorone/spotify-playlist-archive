@@ -2,9 +2,9 @@
 
 ### [Hot Hits Deutschland](https://open.spotify.com/playlist/37i9dQZF1DX4jP4eebSWR9)
 
-> 50 Hits in einer Playlist! Cover: Olivia Dean
+> 50 Hits in einer Playlist! Cover: Dave, Tems
 
-300 songs - 14 hr 15 min
+302 songs - 14 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,7 @@
 | [K.O.](https://open.spotify.com/track/7r2cCbhAbGUE4Izor1ZnlZ) | [LAVINIA](https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [K.O.](https://open.spotify.com/album/1EC9EHPbmFJr9W3rmR2Jee) | 2:17 | 2024-09-10 | 2025-01-08 |
 | [KEHLANI](https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [KEHLANI](https://open.spotify.com/album/5Zwbll6KYxOjZSuxRjQDEm) | 2:02 | 2024-09-10 | 2024-10-02 |
 | [Kisses \(feat\. bbyclose\)](https://open.spotify.com/track/1bJRd2ey6ER7neSxZwYdAG) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI), [CamrinWatsin](https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [Kisses \(feat\. bbyclose\)](https://open.spotify.com/album/3eIA3WFdBvYVUP8sVD5p34) | 2:18 | 2024-09-10 | 2025-04-16 |
-| [Knopf](https://open.spotify.com/track/38ZbazlMYsu5qWhaSTOHtO) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic), [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Gegenteil von Glück](https://open.spotify.com/album/4PoyaGgQRQdEPALQgLAyuY) | 4:12 | 2025-12-09 |  |
+| [Knopf](https://open.spotify.com/track/38ZbazlMYsu5qWhaSTOHtO) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic), [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Gegenteil von Glück](https://open.spotify.com/album/4PoyaGgQRQdEPALQgLAyuY) | 4:12 | 2025-12-09 | 2025-12-31 |
 | [küss mich doch](https://open.spotify.com/track/23H67W1NWkB4DOVVT8QOfV) | [Shirin David](https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa) | [küss mich doch](https://open.spotify.com/album/3FDVht0xgDOJVTGJsg2OXN) | 2:25 | 2024-12-30 | 2025-01-11 |
 | [La La La](https://open.spotify.com/track/3wPPWcVuinAU7dXcJXtCID) | [Naughty Boy](https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Hotel Cabana \(Deluxe Version\)](https://open.spotify.com/album/6ubgnzYckmWTNuCpc5Di5i) | 3:42 | 2025-01-21 | 2025-04-16 |
 | [lass es gehen \(feat\. Max Raabe\)](https://open.spotify.com/track/177wfMc2GyarTDKEAkdlY8) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0), [Max Raabe](https://open.spotify.com/artist/0d2e8VbttQLewZySpLQudr) | [lass es gehen \(feat\. Max Raabe\)](https://open.spotify.com/album/78509kJPacnQlVAakLhIM6) | 2:18 | 2025-02-20 | 2025-03-13 |
@@ -155,6 +155,7 @@
 | [like JENNIE](https://open.spotify.com/track/0fK7ie6XwGxQTIkpFoWkd1) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 2:03 | 2025-03-25 | 2025-04-09 |
 | [Lilien](https://open.spotify.com/track/3ovTEUMYEoiT8ikEMVXBmS) | [AYLIVA](https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1) | [In Liebe](https://open.spotify.com/album/3cB6tCOD8fqXuYwbpcrcdV) | 2:40 | 2024-09-10 | 2025-02-05 |
 | [Location](https://open.spotify.com/track/6Ilomcr9iLplsgAvZjHkJP) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Location](https://open.spotify.com/album/12EcQ6xHwYTygFo24xncu1) | 2:28 | 2025-05-13 | 2025-09-03 |
+| [LOV](https://open.spotify.com/track/3cjrqwPadzqCV7WgQ8oWep) | [LACAZETTE](https://open.spotify.com/artist/7rBed6Ya7Hwa2fXbh5btJE), [GWENDO](https://open.spotify.com/artist/3jiUj8e5dI5ByS6v5Car7I) | [LOV](https://open.spotify.com/album/3aOZ4sGXZapx6QYXauLOAr) | 3:16 | 2025-12-30 |  |
 | [Love all night](https://open.spotify.com/track/5VCMfmkWKmROl2xnDA5wus) | [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh), [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N) | [Love all night](https://open.spotify.com/album/2U8inedtU0YX3Von3qAsiU) | 2:49 | 2025-07-09 | 2025-10-29 |
 | [Love Me Not](https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Love Me Not / Love Is Blind](https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g) | 3:33 | 2025-04-01 | 2025-06-25 |
 | [LOVE SONG](https://open.spotify.com/track/1mEQbSq0PCNjyL6oMgHKFQ) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 2:52 | 2025-09-09 | 2025-09-24 |
@@ -216,7 +217,7 @@
 | [RAP](https://open.spotify.com/track/6LS8P88Zcp1Xy8VGavEYV2) | [LACAZETTE](https://open.spotify.com/artist/7rBed6Ya7Hwa2fXbh5btJE) | [RAP](https://open.spotify.com/album/6TvePwd4cA426ysyVUUCtD) | 2:35 | 2025-04-08 | 2025-05-02 |
 | [RATHER LIE \(with The Weeknd\)](https://open.spotify.com/track/68qeaZhtMZ6abrJCYt6nQn) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:29 | 2025-03-18 | 2025-04-02 |
 | [RED CUPS \(feat\. Paula Hartmann\)](https://open.spotify.com/track/4MQEO1kn7nPytvAImsLyzs) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl), [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic) | [RED CUPS \(feat\. Paula Hartmann\)](https://open.spotify.com/album/5w6vzpDKAOE0zEihBK6DYT) | 3:26 | 2024-09-25 | 2024-10-30 |
-| [REDE](https://open.spotify.com/track/3zR8rYW1CHE72cdGarr6t2) | [ZAH1DE](https://open.spotify.com/artist/3efIR8hdrilpdBfWxVrxRd), [benno!](https://open.spotify.com/artist/1EZIni3W4CmC2bTy75Q053) | [REDE](https://open.spotify.com/album/1HoueopEdCizCdy1VSe4BU) | 1:58 | 2025-11-11 |  |
+| [REDE](https://open.spotify.com/track/3zR8rYW1CHE72cdGarr6t2) | [ZAH1DE](https://open.spotify.com/artist/3efIR8hdrilpdBfWxVrxRd), [benno!](https://open.spotify.com/artist/1EZIni3W4CmC2bTy75Q053) | [REDE](https://open.spotify.com/album/1HoueopEdCizCdy1VSe4BU) | 1:58 | 2025-11-11 | 2025-12-31 |
 | [Rosaroter Tee](https://open.spotify.com/track/4UKQ8zZQ92nTdxQpz6VrPv) | [bac](https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF) | [Rosaroter Tee](https://open.spotify.com/album/2iCOuFbNKkYnBxo3qY32r9) | 2:43 | 2024-10-29 | 2025-03-26 |
 | [Rote Flaggen](https://open.spotify.com/track/7bkUa9kDFGxgCC7d36dzFI) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [ROTE FLAGGEN](https://open.spotify.com/album/0EWCRqTiWqdumuQKybIzWa) | 3:44 | 2024-09-10 | 2025-02-19 |
 | [Running Around](https://open.spotify.com/track/7yNQ5oPcuCC4wTqTcMRIrE) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my) | [Running Around](https://open.spotify.com/album/6SgbKsntdtOnmohYEeHi9o) | 2:04 | 2025-02-11 | 2025-05-07 |
@@ -268,6 +269,7 @@
 | [The Subway](https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Subway](https://open.spotify.com/album/7GlwcUYHB99l7k13I2Hira) | 4:12 | 2025-08-05 | 2025-09-10 |
 | [Therapie](https://open.spotify.com/track/4DmkCxj5WLnT3LQDG0MUY0) | [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N), [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Therapie](https://open.spotify.com/album/33zy8DA1rCHiRbfF5VnmOW) | 3:15 | 2025-05-20 | 2025-06-18 |
 | [Timeless \(with Playboi Carti\)](https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Timeless](https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn) | 4:16 | 2024-10-01 | 2024-11-06 |
+| [Tirol](https://open.spotify.com/track/520aS15JpyeEIPtgchSHyP) | [DJ Ötzi](https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr) | [Es ist Zeit](https://open.spotify.com/album/65fO2EMyqyJDgEiKaGfHzy) | 2:53 | 2025-12-30 |  |
 | [TIT FOR TAT](https://open.spotify.com/track/04a44cx2PJthIbN2aLMXhl) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TIT FOR TAT](https://open.spotify.com/album/1ks1k7zln4TyBjn1CF3vCz) | 2:55 | 2025-09-30 | 2025-11-05 |
 | [Too Much](https://open.spotify.com/track/6lKSOnC9iLGDonypMgvGrm) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Too Much](https://open.spotify.com/album/3vOE21VZf6cPqU98By3TOM) | 2:51 | 2025-02-25 | 2025-05-07 |
 | [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 | 2024-09-10 | 2024-10-09 |

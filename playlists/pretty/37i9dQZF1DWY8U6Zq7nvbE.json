@@ -1,6 +1,6 @@
 {
   "description": "Soft and cozy acoustic covers of famous songs.",
-  "num_followers": 2439022,
+  "num_followers": 2439065,
   "original_name": "Chill Acoustic Covers",
   "owner": {
     "name": "Spotify",
@@ -747,22 +747,6 @@
     {
       "added_at": "2025-12-19 08:03:17",
       "album": {
-        "name": "Heat Waves",
-        "url": "https://open.spotify.com/album/4icxeGhI7CsymABWI8RQCb"
-      },
-      "artists": [
-        {
-          "name": "Bailey Jehl",
-          "url": "https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus"
-        }
-      ],
-      "duration_ms": 141286,
-      "name": "Heat Waves",
-      "url": "https://open.spotify.com/track/4efRaNW2VgDf3pjbm8y4tr"
-    },
-    {
-      "added_at": "2025-12-19 08:03:17",
-      "album": {
         "name": "As It Was",
         "url": "https://open.spotify.com/album/10UH2kVhtrXJ60nqlSap2V"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 176542,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/6Cvti10W0AzmzG9D1tpuKp"
+    },
+    {
+      "added_at": "2025-12-19 08:03:17",
+      "album": {
+        "name": "Heat Waves",
+        "url": "https://open.spotify.com/album/4icxeGhI7CsymABWI8RQCb"
+      },
+      "artists": [
+        {
+          "name": "Bailey Jehl",
+          "url": "https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus"
+        }
+      ],
+      "duration_ms": 141286,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/4efRaNW2VgDf3pjbm8y4tr"
     },
     {
       "added_at": "2025-12-19 08:03:17",
@@ -827,22 +827,6 @@
     {
       "added_at": "2025-12-19 08:03:17",
       "album": {
-        "name": "Make You Feel My Love",
-        "url": "https://open.spotify.com/album/67BVLFInYTSKVAx4VCuq5L"
-      },
-      "artists": [
-        {
-          "name": "Morgan St. Douglas",
-          "url": "https://open.spotify.com/artist/4kwtiqubnECtzOECKGYJOT"
-        }
-      ],
-      "duration_ms": 189680,
-      "name": "Make You Feel My Love",
-      "url": "https://open.spotify.com/track/2pcoc3E6EKzKC1wTztiz4I"
-    },
-    {
-      "added_at": "2025-12-19 08:03:17",
-      "album": {
         "name": "Birds of a Feather",
         "url": "https://open.spotify.com/album/3lNGPfARQg2ktx9dnSsStt"
       },
@@ -859,18 +843,34 @@
     {
       "added_at": "2025-12-19 08:03:17",
       "album": {
-        "name": "Visiting Hours (Acoustic)",
-        "url": "https://open.spotify.com/album/5C7zrFEPvQgSyD0wDRLOAW"
+        "name": "Make You Feel My Love",
+        "url": "https://open.spotify.com/album/67BVLFInYTSKVAx4VCuq5L"
       },
       "artists": [
         {
-          "name": "Fox & Hart",
-          "url": "https://open.spotify.com/artist/7cFrfYqBMkAmUn6ftD8KlH"
+          "name": "Morgan St. Douglas",
+          "url": "https://open.spotify.com/artist/4kwtiqubnECtzOECKGYJOT"
         }
       ],
-      "duration_ms": 197202,
-      "name": "Visiting Hours (Acoustic)",
-      "url": "https://open.spotify.com/track/2jf62eJL5GepSpGDy61pcK"
+      "duration_ms": 189680,
+      "name": "Make You Feel My Love",
+      "url": "https://open.spotify.com/track/2pcoc3E6EKzKC1wTztiz4I"
+    },
+    {
+      "added_at": "2025-12-19 08:03:17",
+      "album": {
+        "name": "Too Good At Goodbyes",
+        "url": "https://open.spotify.com/album/5xHL2UVO1l249ezFEL2QdZ"
+      },
+      "artists": [
+        {
+          "name": "Beatrice",
+          "url": "https://open.spotify.com/artist/4KR1qF9mYVfCeOjn364Rm8"
+        }
+      ],
+      "duration_ms": 170074,
+      "name": "Too Good At Goodbyes",
+      "url": "https://open.spotify.com/track/43Ty2f8GqR6CpUYWNxgRqu"
     },
     {
       "added_at": "2025-12-19 08:03:17",
@@ -891,18 +891,18 @@
     {
       "added_at": "2025-12-19 08:03:17",
       "album": {
-        "name": "Too Good At Goodbyes",
-        "url": "https://open.spotify.com/album/5xHL2UVO1l249ezFEL2QdZ"
+        "name": "Visiting Hours (Acoustic)",
+        "url": "https://open.spotify.com/album/5C7zrFEPvQgSyD0wDRLOAW"
       },
       "artists": [
         {
-          "name": "Beatrice",
-          "url": "https://open.spotify.com/artist/4KR1qF9mYVfCeOjn364Rm8"
+          "name": "Fox & Hart",
+          "url": "https://open.spotify.com/artist/7cFrfYqBMkAmUn6ftD8KlH"
         }
       ],
-      "duration_ms": 170074,
-      "name": "Too Good At Goodbyes",
-      "url": "https://open.spotify.com/track/43Ty2f8GqR6CpUYWNxgRqu"
+      "duration_ms": 197202,
+      "name": "Visiting Hours (Acoustic)",
+      "url": "https://open.spotify.com/track/2jf62eJL5GepSpGDy61pcK"
     },
     {
       "added_at": "2025-12-19 08:03:17",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2025-12-19 08:03:17",
       "album": {
-        "name": "Cold Heart",
-        "url": "https://open.spotify.com/album/4NMkTYIoBBwwgNTTMooXKl"
-      },
-      "artists": [
-        {
-          "name": "Clementine Duo",
-          "url": "https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2"
-        }
-      ],
-      "duration_ms": 188742,
-      "name": "Cold Heart",
-      "url": "https://open.spotify.com/track/6iWWtmXJckNTOA57xqiGNo"
-    },
-    {
-      "added_at": "2025-12-19 08:03:17",
-      "album": {
         "name": "Let Me Get Close To You",
         "url": "https://open.spotify.com/album/4CT8wnGqcV82n4fNaAwiPC"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 211058,
       "name": "Let Me Get Close To You",
       "url": "https://open.spotify.com/track/5ujmTMn6J5vrt9ppLlxtaQ"
+    },
+    {
+      "added_at": "2025-12-19 08:03:17",
+      "album": {
+        "name": "Cold Heart",
+        "url": "https://open.spotify.com/album/4NMkTYIoBBwwgNTTMooXKl"
+      },
+      "artists": [
+        {
+          "name": "Clementine Duo",
+          "url": "https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2"
+        }
+      ],
+      "duration_ms": 188742,
+      "name": "Cold Heart",
+      "url": "https://open.spotify.com/track/6iWWtmXJckNTOA57xqiGNo"
     },
     {
       "added_at": "2025-12-19 08:03:17",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2025-12-19 08:03:17",
       "album": {
-        "name": "I Ain't Worried",
-        "url": "https://open.spotify.com/album/0mXxiT0uogjEy8V8CncCKb"
-      },
-      "artists": [
-        {
-          "name": "Mother's Daughter",
-          "url": "https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k"
-        }
-      ],
-      "duration_ms": 164647,
-      "name": "I Ain't Worried",
-      "url": "https://open.spotify.com/track/7vN1WOXHFJE7q06mDjsPP7"
-    },
-    {
-      "added_at": "2025-12-19 08:03:17",
-      "album": {
         "name": "Got You (Where I Want You)",
         "url": "https://open.spotify.com/album/6sDxOln0tkqDXj8qy6t3Qd"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 193684,
       "name": "Got You (Where I Want You)",
       "url": "https://open.spotify.com/track/35z45zlvjqUF2DLOOYBq4u"
+    },
+    {
+      "added_at": "2025-12-19 08:03:17",
+      "album": {
+        "name": "I Ain't Worried",
+        "url": "https://open.spotify.com/album/0mXxiT0uogjEy8V8CncCKb"
+      },
+      "artists": [
+        {
+          "name": "Mother's Daughter",
+          "url": "https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k"
+        }
+      ],
+      "duration_ms": 164647,
+      "name": "I Ain't Worried",
+      "url": "https://open.spotify.com/track/7vN1WOXHFJE7q06mDjsPP7"
     },
     {
       "added_at": "2025-12-19 08:03:17",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2025-12-19 08:03:17",
       "album": {
-        "name": "Jealous (Acoustic)",
-        "url": "https://open.spotify.com/album/2ZF0az5U4LXBf9whGXDLVg"
-      },
-      "artists": [
-        {
-          "name": "Norah Davis",
-          "url": "https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G"
-        }
-      ],
-      "duration_ms": 211639,
-      "name": "Jealous (Acoustic)",
-      "url": "https://open.spotify.com/track/24De0ebxOCeIgrkuPknUUX"
-    },
-    {
-      "added_at": "2025-12-19 08:03:17",
-      "album": {
         "name": "Kiss An Angel Good Mornin'",
         "url": "https://open.spotify.com/album/4UubPvWcnV1C4zxFQgC895"
       },
@@ -1323,18 +1307,18 @@
     {
       "added_at": "2025-12-19 08:03:17",
       "album": {
-        "name": "Cupid",
-        "url": "https://open.spotify.com/album/1xi4Bu9O23yCLn0DR1mi0E"
+        "name": "Jealous (Acoustic)",
+        "url": "https://open.spotify.com/album/2ZF0az5U4LXBf9whGXDLVg"
       },
       "artists": [
         {
-          "name": "seaiiana",
-          "url": "https://open.spotify.com/artist/52J51akbnGAyHpqRDL0Zps"
+          "name": "Norah Davis",
+          "url": "https://open.spotify.com/artist/22BqfoPGcFnnj0ldab5D9G"
         }
       ],
-      "duration_ms": 181111,
-      "name": "Cupid",
-      "url": "https://open.spotify.com/track/0HW5NpqReqUh6EsPaRTUav"
+      "duration_ms": 211639,
+      "name": "Jealous (Acoustic)",
+      "url": "https://open.spotify.com/track/24De0ebxOCeIgrkuPknUUX"
     },
     {
       "added_at": "2025-12-19 08:03:17",
@@ -1351,6 +1335,22 @@
       "duration_ms": 160754,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/68apIR6lcIdGZ50KWTfeO6"
+    },
+    {
+      "added_at": "2025-12-19 08:03:17",
+      "album": {
+        "name": "Cupid",
+        "url": "https://open.spotify.com/album/1xi4Bu9O23yCLn0DR1mi0E"
+      },
+      "artists": [
+        {
+          "name": "seaiiana",
+          "url": "https://open.spotify.com/artist/52J51akbnGAyHpqRDL0Zps"
+        }
+      ],
+      "duration_ms": 181111,
+      "name": "Cupid",
+      "url": "https://open.spotify.com/track/0HW5NpqReqUh6EsPaRTUav"
     },
     {
       "added_at": "2025-12-19 08:03:17",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2025-12-19 08:03:17",
       "album": {
+        "name": "Anyone",
+        "url": "https://open.spotify.com/album/2cPbdPF0OhQXxL6PFbXbxg"
+      },
+      "artists": [
+        {
+          "name": "Reason",
+          "url": "https://open.spotify.com/artist/1afLcYZN3PBlA09Bw2P6e6"
+        }
+      ],
+      "duration_ms": 188863,
+      "name": "Anyone",
+      "url": "https://open.spotify.com/track/3SbLU4hAQHmdvHFDMVhAf9"
+    },
+    {
+      "added_at": "2025-12-19 08:03:17",
+      "album": {
         "name": "Anti-Hero",
         "url": "https://open.spotify.com/album/6GT70Pr0BdBT9wWM2wsyZm"
       },
@@ -1419,18 +1435,18 @@
     {
       "added_at": "2025-12-19 08:03:17",
       "album": {
-        "name": "Anyone",
-        "url": "https://open.spotify.com/album/2cPbdPF0OhQXxL6PFbXbxg"
+        "name": "Good",
+        "url": "https://open.spotify.com/album/0JfWY6oQJ8wrXnPGgsqWTe"
       },
       "artists": [
         {
-          "name": "Reason",
-          "url": "https://open.spotify.com/artist/1afLcYZN3PBlA09Bw2P6e6"
+          "name": "Nara Gilberto",
+          "url": "https://open.spotify.com/artist/5H8qAk2IBifRhZK1BS8XFs"
         }
       ],
-      "duration_ms": 188863,
-      "name": "Anyone",
-      "url": "https://open.spotify.com/track/3SbLU4hAQHmdvHFDMVhAf9"
+      "duration_ms": 241184,
+      "name": "Good",
+      "url": "https://open.spotify.com/track/16E5mZkwY5hNR5VAsaCJBI"
     },
     {
       "added_at": "2025-12-19 08:03:17",
@@ -1463,22 +1479,6 @@
       "duration_ms": 162461,
       "name": "SOS",
       "url": "https://open.spotify.com/track/2IfYpa1MOT2tuvgH4i0gBr"
-    },
-    {
-      "added_at": "2025-12-19 08:03:17",
-      "album": {
-        "name": "Good",
-        "url": "https://open.spotify.com/album/0JfWY6oQJ8wrXnPGgsqWTe"
-      },
-      "artists": [
-        {
-          "name": "Nara Gilberto",
-          "url": "https://open.spotify.com/artist/5H8qAk2IBifRhZK1BS8XFs"
-        }
-      ],
-      "duration_ms": 241184,
-      "name": "Good",
-      "url": "https://open.spotify.com/track/16E5mZkwY5hNR5VAsaCJBI"
     },
     {
       "added_at": "2025-12-19 08:03:17",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2025-12-19 08:03:17",
       "album": {
-        "name": "Sparks",
-        "url": "https://open.spotify.com/album/1qORB1Q8h63lnKR7Jsv8Cx"
-      },
-      "artists": [
-        {
-          "name": "Roberta Loki",
-          "url": "https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB"
-        }
-      ],
-      "duration_ms": 256730,
-      "name": "Sparks",
-      "url": "https://open.spotify.com/track/5OKWAL4qNRUz28CBWEU411"
-    },
-    {
-      "added_at": "2025-12-19 08:03:17",
-      "album": {
         "name": "Desperado",
         "url": "https://open.spotify.com/album/6bhSX2BYFGgJ3iw4wnpkWZ"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 191971,
       "name": "Desperado",
       "url": "https://open.spotify.com/track/0ReprZkqLJKjuBH0nowV44"
+    },
+    {
+      "added_at": "2025-12-19 08:03:17",
+      "album": {
+        "name": "Sparks",
+        "url": "https://open.spotify.com/album/1qORB1Q8h63lnKR7Jsv8Cx"
+      },
+      "artists": [
+        {
+          "name": "Roberta Loki",
+          "url": "https://open.spotify.com/artist/69CSvWqSOjhUXBM8VcgbjB"
+        }
+      ],
+      "duration_ms": 256730,
+      "name": "Sparks",
+      "url": "https://open.spotify.com/track/5OKWAL4qNRUz28CBWEU411"
     },
     {
       "added_at": "2025-12-19 08:03:17",

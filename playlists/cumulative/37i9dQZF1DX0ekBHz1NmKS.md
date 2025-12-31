@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,082 songs - 4 day 11 hr 55 min
+2,083 songs - 4 day 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,7 +260,7 @@
 | [Bättre i neon](https://open.spotify.com/track/2Tq07wfcTsx5jr5E3Oo2uc) | [Galleriet](https://open.spotify.com/artist/32ThSpM7Ukigtw16EIYYT7) | [Bättre i neon](https://open.spotify.com/album/0WEOl4abVPI5HKdcrZXmGG) | 2:52 | 2024-04-26 | 2024-05-24 |
 | [Början på ingenting](https://open.spotify.com/track/03NXA2TLqt5J6sgyAI0fBK) | [Anna Järvinen](https://open.spotify.com/artist/70vrcQugFAOAtOFIW1wcyR) | [Början på ingenting](https://open.spotify.com/album/0Re4KK11HqOvM3bjr4lSZD) | 3:30 | 2024-08-22 | 2024-09-23 |
 | [C R A Z Y](https://open.spotify.com/track/0ZhC7a7IEcPhJtP6Ns8ZDF) | [Ben Mitkus](https://open.spotify.com/artist/5U7pOnB9QgH7YFDWQ84Qnu) | [C R A Z Y](https://open.spotify.com/album/7Mc3Raq0decyTuPvkzHiF4) | 3:09 | 2024-02-15 | 2024-03-21 |
-| [C\-dur](https://open.spotify.com/track/0cZ2ad4mATKwobLdVYWgAS) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK), [Arvid Nero](https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew) | [C\-dur / Julbudskap](https://open.spotify.com/album/2SuXOmDbZpkbg2mPjl63jO) | 3:00 | 2025-10-30 |  |
+| [C\-dur](https://open.spotify.com/track/0cZ2ad4mATKwobLdVYWgAS) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK), [Arvid Nero](https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew) | [C\-dur / Julbudskap](https://open.spotify.com/album/2SuXOmDbZpkbg2mPjl63jO) | 3:00 | 2025-10-30 | 2025-12-31 |
 | [CALIFORNIA](https://open.spotify.com/track/0a17so3YQZCWz3PQb9JvDD) | [Adam Taal](https://open.spotify.com/artist/1dYTeeSzWkPMdQw8N7aYbR) | [KATARINA](https://open.spotify.com/album/7xlDFbtOofSD7dSgsYZYhn) | 3:20 | 2024-05-02 | 2024-06-01 |
 | [Call Me By Your Name](https://open.spotify.com/track/1fJ3YZVLYkoMYDvrAqDf0M) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd), [Claudia Neuser](https://open.spotify.com/artist/74p7Pm6wFtrqjANyjFyktq) | [Call Me By Your Name](https://open.spotify.com/album/0An6hUMasLgdJO5n2ZaLVO) | 2:50 | 2023-01-05 | 2023-10-06 |
 | [Call Your Girlfriend \- Spotify Singles](https://open.spotify.com/track/3gyKc7WqqzH0ZYjnzlphXP) | [Jackie Mere](https://open.spotify.com/artist/4xA2Kp40KdqjdcFE6zik0p) | [Call Your Girlfriend \- Spotify Singles](https://open.spotify.com/album/1bWTawivUyBxTr6Sydx6WM) | 3:47 | 2024-05-02 | 2024-06-01 |
@@ -1842,6 +1842,7 @@
 | [Tjugofyra sju](https://open.spotify.com/track/5Fz8257fkwgpnUMNlbvtP4) | [Amanda Mattsson](https://open.spotify.com/artist/5BftYI9ZzOxA6tKAbAHdQF) | [Tjugofyra sju](https://open.spotify.com/album/2PWptHPalgmRvTz5GaeVpb) | 3:10 | 2022-04-07 | 2022-05-11 |
 | [Together](https://open.spotify.com/track/1Z5LUX0cHKI6V3aAQ9AfNQ) | [Vilhelm Buchaus](https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl) | [Together](https://open.spotify.com/album/4NuQmXyWmVWl7vaFtWSp81) | 2:59 | 2023-12-08 | 2024-03-08 |
 | [Tombola 94](https://open.spotify.com/track/7prx9AfJPjvOMPhmuzgXKI) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Dina Ögon](https://open.spotify.com/album/1fO48uPVulHutVi6MeDTxF) | 3:57 | 2023-04-01 | 2023-10-20 |
+| [Tonårsdröm](https://open.spotify.com/track/5CbHWID4ldov0V3sEjvqSU) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp), [Lijam](https://open.spotify.com/artist/0TuWk7DJvWphPrr7w1LtNN) | [Tonårsdröm](https://open.spotify.com/album/0T7h8NPbEAoC6fR8bpwVMJ) | 3:34 | 2025-12-29 |  |
 | [Too Kind](https://open.spotify.com/track/5EbEsJFurAUO2WrMjr5ppZ) | [demekech](https://open.spotify.com/artist/1N6JyEBD4tbmqfLkXPP93l) | [Too Kind](https://open.spotify.com/album/5VCfwebiNPDB2Zgi4rSvbH) | 2:54 | 2024-01-25 | 2024-01-28 |
 | [Torka dina tårar](https://open.spotify.com/track/1J1IL6aC8k8q64ecwOUlSw) | [Kåren](https://open.spotify.com/artist/2mDX5SCZQKUZvvMCwqst3r) | [Torka dina tårar](https://open.spotify.com/album/2GK7kCZljQxjGzDSnlq91N) | 3:12 | 2024-05-30 | 2024-06-28 |
 | [Touch Yourself](https://open.spotify.com/track/4ycqkyaLSmck669TSsYwqf) | [Lou Elliotte](https://open.spotify.com/artist/03UTtO2Zq2GKk4gQRY9zq6) | [Best You've Ever Had](https://open.spotify.com/album/0BpjvQJqOL7eXISjVFdRVe) | 2:58 | 2021-12-16 | 2022-04-02 |

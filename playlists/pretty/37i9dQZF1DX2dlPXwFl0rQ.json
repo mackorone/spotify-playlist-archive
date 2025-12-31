@@ -1,6 +1,6 @@
 {
   "description": "Estas son las indomables de la M\u00fasica Mexicana. Carolina Ross en portada \ud83d\udd25",
-  "num_followers": 3716,
+  "num_followers": 3748,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
@@ -759,6 +759,22 @@
     {
       "added_at": "2025-09-19 06:00:24",
       "album": {
+        "name": "Osa Mayor",
+        "url": "https://open.spotify.com/album/1xQZbA4mChm7D0X81X6yCc"
+      },
+      "artists": [
+        {
+          "name": "Janeth Valenzuela",
+          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
+        }
+      ],
+      "duration_ms": 227194,
+      "name": "Locura Autom\u00e1tica",
+      "url": "https://open.spotify.com/track/6bBQaJ14zJooV1zvISFYEX"
+    },
+    {
+      "added_at": "2025-09-19 06:00:24",
+      "album": {
         "name": "Pago Por Ver",
         "url": "https://open.spotify.com/album/3wke7VdRARNq0ZVSXqgkmc"
       },
@@ -847,22 +863,6 @@
     {
       "added_at": "2025-09-19 06:00:24",
       "album": {
-        "name": "Osa Mayor",
-        "url": "https://open.spotify.com/album/1xQZbA4mChm7D0X81X6yCc"
-      },
-      "artists": [
-        {
-          "name": "Janeth Valenzuela",
-          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
-        }
-      ],
-      "duration_ms": 227194,
-      "name": "Locura Autom\u00e1tica",
-      "url": "https://open.spotify.com/track/6bBQaJ14zJooV1zvISFYEX"
-    },
-    {
-      "added_at": "2025-09-19 06:00:24",
-      "album": {
         "name": "Maldita Billetera",
         "url": "https://open.spotify.com/album/1ctchvx9rFJeAY41RvrvP8"
       },
@@ -899,22 +899,6 @@
     {
       "added_at": "2025-09-19 06:00:24",
       "album": {
-        "name": "Retumbando En El Cora",
-        "url": "https://open.spotify.com/album/6BhcmqVXQWCZioaieIADwP"
-      },
-      "artists": [
-        {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
-        }
-      ],
-      "duration_ms": 130833,
-      "name": "Retumbando En El Cora",
-      "url": "https://open.spotify.com/track/59IbXNL246o9YZC3EM4app"
-    },
-    {
-      "added_at": "2025-09-19 06:00:24",
-      "album": {
         "name": "Las Ferragamo",
         "url": "https://open.spotify.com/album/7cej4aBlC3miNI8B6xHvnK"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 156086,
       "name": "Las Ferragamo",
       "url": "https://open.spotify.com/track/2MDHHS0pQ1HN8m6o56VTwa"
+    },
+    {
+      "added_at": "2025-09-19 06:00:24",
+      "album": {
+        "name": "Retumbando En El Cora",
+        "url": "https://open.spotify.com/album/6BhcmqVXQWCZioaieIADwP"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "duration_ms": 130833,
+      "name": "Retumbando En El Cora",
+      "url": "https://open.spotify.com/track/59IbXNL246o9YZC3EM4app"
     },
     {
       "added_at": "2025-09-19 06:00:24",
@@ -979,22 +979,6 @@
     {
       "added_at": "2025-09-19 06:00:24",
       "album": {
-        "name": "Pudimos Ser",
-        "url": "https://open.spotify.com/album/23G1zBduWHN7UJl7oBLlwY"
-      },
-      "artists": [
-        {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
-        }
-      ],
-      "duration_ms": 189920,
-      "name": "Pudimos Ser",
-      "url": "https://open.spotify.com/track/7fZtXjelhkJ1i5K8RzrriH"
-    },
-    {
-      "added_at": "2025-09-19 06:00:24",
-      "album": {
         "name": "A Mi Me Respetas",
         "url": "https://open.spotify.com/album/3SJzUYtPV1J5CZxkwfJnzS"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 150148,
       "name": "A Mi Me Respetas",
       "url": "https://open.spotify.com/track/3bHdMr1QxQrTHhPilZzjMM"
+    },
+    {
+      "added_at": "2025-09-19 06:00:24",
+      "album": {
+        "name": "Pudimos Ser",
+        "url": "https://open.spotify.com/album/23G1zBduWHN7UJl7oBLlwY"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "duration_ms": 189920,
+      "name": "Pudimos Ser",
+      "url": "https://open.spotify.com/track/7fZtXjelhkJ1i5K8RzrriH"
     },
     {
       "added_at": "2025-09-19 06:00:24",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2025-09-19 06:00:24",
       "album": {
-        "name": "Se Cancela La Llorada",
-        "url": "https://open.spotify.com/album/3MYlwwArC8cmf8ZpQcVaCv"
-      },
-      "artists": [
-        {
-          "name": "Camila Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Se Cancela La Llorada",
-      "url": "https://open.spotify.com/track/0Ny58e3o3Q2OtxidYpzAi1"
-    },
-    {
-      "added_at": "2025-09-19 06:00:24",
-      "album": {
         "name": "Me Cuesta Tanto Olvidarte",
         "url": "https://open.spotify.com/album/5fokdp1rjaQb5sVgJ7GCqQ"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 173546,
       "name": "Me Cuesta Tanto Olvidarte",
       "url": "https://open.spotify.com/track/580BmtkUXvzFMKXfPRMeuK"
+    },
+    {
+      "added_at": "2025-09-19 06:00:24",
+      "album": {
+        "name": "Se Cancela La Llorada",
+        "url": "https://open.spotify.com/album/3MYlwwArC8cmf8ZpQcVaCv"
+      },
+      "artists": [
+        {
+          "name": "Camila Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Se Cancela La Llorada",
+      "url": "https://open.spotify.com/track/0Ny58e3o3Q2OtxidYpzAi1"
     },
     {
       "added_at": "2025-09-19 06:00:24",
@@ -1599,6 +1599,26 @@
     {
       "added_at": "2025-09-19 06:00:24",
       "album": {
+        "name": "NADIE TE NECESITA",
+        "url": "https://open.spotify.com/album/6o9qf3JCGBTibrBlmDDgyx"
+      },
+      "artists": [
+        {
+          "name": "NXNNI",
+          "url": "https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK"
+        },
+        {
+          "name": "Fatima Campo",
+          "url": "https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "NADIE TE NECESITA",
+      "url": "https://open.spotify.com/track/2MQd8ifA2TMa0YoRJSKQo9"
+    },
+    {
+      "added_at": "2025-09-19 06:00:24",
+      "album": {
         "name": "Mucha Mujer",
         "url": "https://open.spotify.com/album/0wcdDm599TVgIDv6TOpsgz"
       },
@@ -1611,6 +1631,22 @@
       "duration_ms": 156067,
       "name": "Mucha Mujer",
       "url": "https://open.spotify.com/track/7nrs4Gq5GLgSnmwUlm7Mh2"
+    },
+    {
+      "added_at": "2025-09-19 06:00:24",
+      "album": {
+        "name": "Mi Culpa",
+        "url": "https://open.spotify.com/album/2IiwnQJQpBcaZnkvycvvT9"
+      },
+      "artists": [
+        {
+          "name": "Sandra Echeverria",
+          "url": "https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31"
+        }
+      ],
+      "duration_ms": 268733,
+      "name": "Mi Culpa",
+      "url": "https://open.spotify.com/track/35NsxRSqly73eUC9jOgATW"
     },
     {
       "added_at": "2025-09-19 06:00:24",
@@ -1635,38 +1671,18 @@
     {
       "added_at": "2025-09-19 06:00:24",
       "album": {
-        "name": "NADIE TE NECESITA",
-        "url": "https://open.spotify.com/album/6o9qf3JCGBTibrBlmDDgyx"
+        "name": "Yo Ni Te Topo",
+        "url": "https://open.spotify.com/album/6vfNB1Hos5ni9wAIdKAexj"
       },
       "artists": [
         {
-          "name": "NXNNI",
-          "url": "https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK"
-        },
-        {
-          "name": "Fatima Campo",
-          "url": "https://open.spotify.com/artist/02rwaHFS6g69zSkS3kh1jn"
+          "name": "Brianda",
+          "url": "https://open.spotify.com/artist/61LNM8cDiz5ozA8BbUi7Hf"
         }
       ],
-      "duration_ms": 177000,
-      "name": "NADIE TE NECESITA",
-      "url": "https://open.spotify.com/track/2MQd8ifA2TMa0YoRJSKQo9"
-    },
-    {
-      "added_at": "2025-09-19 06:00:24",
-      "album": {
-        "name": "Mi Culpa",
-        "url": "https://open.spotify.com/album/2IiwnQJQpBcaZnkvycvvT9"
-      },
-      "artists": [
-        {
-          "name": "Sandra Echeverria",
-          "url": "https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31"
-        }
-      ],
-      "duration_ms": 268733,
-      "name": "Mi Culpa",
-      "url": "https://open.spotify.com/track/35NsxRSqly73eUC9jOgATW"
+      "duration_ms": 158210,
+      "name": "Yo Ni Te Topo",
+      "url": "https://open.spotify.com/track/2hiAOmnmUnk90Cg3uMz6Jr"
     },
     {
       "added_at": "2025-09-19 06:00:24",
@@ -1691,22 +1707,6 @@
     {
       "added_at": "2025-09-19 06:00:24",
       "album": {
-        "name": "Yo Ni Te Topo",
-        "url": "https://open.spotify.com/album/6vfNB1Hos5ni9wAIdKAexj"
-      },
-      "artists": [
-        {
-          "name": "Brianda",
-          "url": "https://open.spotify.com/artist/61LNM8cDiz5ozA8BbUi7Hf"
-        }
-      ],
-      "duration_ms": 158210,
-      "name": "Yo Ni Te Topo",
-      "url": "https://open.spotify.com/track/2hiAOmnmUnk90Cg3uMz6Jr"
-    },
-    {
-      "added_at": "2025-09-19 06:00:24",
-      "album": {
         "name": "Se Dice Facil",
         "url": "https://open.spotify.com/album/55Q2NhOeB74KHi5TPsvJMm"
       },
@@ -1727,18 +1727,18 @@
     {
       "added_at": "2025-09-19 06:00:24",
       "album": {
-        "name": "M\u00e1s Libre Que En Casa",
-        "url": "https://open.spotify.com/album/3wICFJzDXLNbHpcaYXSiRf"
+        "name": "No Te Fui Suficiente",
+        "url": "https://open.spotify.com/album/6kXkoHpJOaXE5m5Nl30qOh"
       },
       "artists": [
         {
-          "name": "Vivir Quintana",
-          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+          "name": "Sandra Echeverria",
+          "url": "https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31"
         }
       ],
-      "duration_ms": 161117,
-      "name": "M\u00e1s Libre Que En Casa",
-      "url": "https://open.spotify.com/track/1MNeTjwMOALVRqapVrBgFj"
+      "duration_ms": 278666,
+      "name": "No Te Fui Suficiente",
+      "url": "https://open.spotify.com/track/2L4keb30QHo4pQzOpJ1W06"
     }
   ],
   "unique_name": "Mujeres Brav\u00edas",

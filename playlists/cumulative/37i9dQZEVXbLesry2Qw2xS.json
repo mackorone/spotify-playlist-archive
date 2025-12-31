@@ -7008,7 +7008,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 108307,
       "name": "Cali Man",
       "url": "https://open.spotify.com/track/2pPNAgcdgtRMwK9mPYMK7O"
@@ -12868,7 +12868,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-04",
+      "date_removed": null,
       "duration_ms": 194117,
       "name": "Eks sa ise otsusta",
       "url": "https://open.spotify.com/track/6H185nWC1FcihgEbRKsphB"
@@ -20908,7 +20908,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-25",
+      "date_removed": null,
       "duration_ms": 129565,
       "name": "I Run",
       "url": "https://open.spotify.com/track/1WwQ714xuznu44tEnkem2g"
@@ -21568,7 +21568,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-02",
+      "date_removed": null,
       "duration_ms": 216000,
       "name": "Igavuse teisel pool",
       "url": "https://open.spotify.com/track/19UjxZfTUUPTBTvADICXKw"
@@ -23548,7 +23548,7 @@
       ],
       "date_added": "2025-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 154301,
       "name": "j\u00e4nkunuss",
       "url": "https://open.spotify.com/track/0mAwiuxCOpb72818xWImDE"
@@ -25904,7 +25904,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 262960,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
@@ -39030,7 +39030,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 148492,
       "name": "Punased Bikiinid",
       "url": "https://open.spotify.com/track/6HTpxOpc6E3zvB4BZwEtqr"
@@ -39118,7 +39118,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-30",
+      "date_removed": null,
       "duration_ms": 164640,
       "name": "push it",
       "url": "https://open.spotify.com/track/7AleqJvqrVBeQitkWntUUc"
@@ -49470,7 +49470,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 168461,
       "name": "TIPUS ULUB TUUL",
       "url": "https://open.spotify.com/track/0DGsLP0TvRcU23zCme7zR2"
@@ -56312,6 +56312,32 @@
       "duration_ms": 136421,
       "name": "\u0414\u043b\u044f \u0422\u0435\u0431\u044f (\u041f\u0443\u0441\u0442\u043e)",
       "url": "https://open.spotify.com/track/3qCPpBdgNJf1xG9t8O2pjJ"
+    },
+    {
+      "album": {
+        "name": "\u0434\u043d\u044f\u043c\u0438 \u0438 \u043d\u043e\u0447\u0430\u043c\u0438",
+        "url": "https://open.spotify.com/album/4Lmm7FvsJI8mo3DHQgWgg3"
+      },
+      "artists": [
+        {
+          "name": "BUSHIDO ZHO",
+          "url": "https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R"
+        },
+        {
+          "name": "Scally Milano",
+          "url": "https://open.spotify.com/artist/1nnaE1FllcW0TlDdPVmdPg"
+        },
+        {
+          "name": "\u041f\u043e\u043b\u043a\u0430",
+          "url": "https://open.spotify.com/artist/5VxeSwDCDsUT35ggejgYo2"
+        }
+      ],
+      "date_added": "2025-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142325,
+      "name": "\u0434\u043d\u044f\u043c\u0438 \u0438 \u043d\u043e\u0447\u0430\u043c\u0438",
+      "url": "https://open.spotify.com/track/7u44m17Qu8xZp446SnoN05"
     },
     {
       "album": {

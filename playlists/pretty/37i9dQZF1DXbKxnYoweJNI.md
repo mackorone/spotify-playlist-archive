@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論風格氣味，獨立只問音樂自主，唱作表現清清楚楚！Cover: BRADD
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,036 likes - 136 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,037 likes - 136 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

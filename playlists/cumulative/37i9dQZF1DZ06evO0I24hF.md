@@ -4,7 +4,7 @@
 
 > This is Gigi Perez\. The essential tracks, all in one playlist.
 
-28 songs - 1 hr 50 min
+29 songs - 1 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,11 +22,12 @@
 | [Karma](https://open.spotify.com/track/4W4UK2NM6pkYQ1NTfFnhBU) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [How To Catch A Falling Knife](https://open.spotify.com/album/4y09e5XNcSik8Vfnam7Tj4) | 4:58 | 2025-04-26 |  |
 | [Kill For You](https://open.spotify.com/track/0BuW1JbaKtMpAxLyjpHf9n) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [How To Catch A Falling Knife](https://open.spotify.com/album/4y09e5XNcSik8Vfnam7Tj4) | 3:44 | 2025-04-26 |  |
 | [Normalcy](https://open.spotify.com/track/2cTVoD2dYSjsxHbtvKsAHq) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Normalcy](https://open.spotify.com/album/26YO9YcV0B83XJPMCYSP0H) | 5:38 | 2025-04-26 | 2025-05-10 |
-| [Normalcy](https://open.spotify.com/track/44FrsRwZEDZHgLbbObA8Z4) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life](https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl) | 5:38 | 2025-05-10 |  |
+| [Normalcy](https://open.spotify.com/track/44FrsRwZEDZHgLbbObA8Z4) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life](https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl) | 5:38 | 2025-05-10 | 2025-12-31 |
 | [Nothing, Absolutely](https://open.spotify.com/track/4ST1nbdDie0CFmDd9mINwO) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life](https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl) | 3:45 | 2025-04-27 | 2025-06-20 |
 | [Please Be Rude](https://open.spotify.com/track/2ORD5RHyZI9LGibgqcwr3v) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Please Be Rude](https://open.spotify.com/album/2fFmsiZkJxjGvBFMGFxpOf) | 3:00 | 2025-04-26 | 2025-05-29 |
 | [Please Be Rude](https://open.spotify.com/track/7bLFtDcAmwVD3pw7zTUfmy) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life](https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl) | 3:00 | 2025-05-29 |  |
-| [Sailor Song](https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e) | 3:31 | 2025-04-26 |  |
+| [Sailor Song](https://open.spotify.com/track/21IYMdzTrzSe191Cy5eMap) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life](https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl) | 3:31 | 2025-12-31 |  |
+| [Sailor Song](https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e) | 3:31 | 2025-04-26 | 2025-12-31 |
 | [Sailor Song \(First Draft 4.29.24\)](https://open.spotify.com/track/1gJLJgKRWjtaFMxwdeyfVc) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life \(Extended\)](https://open.spotify.com/album/4fULdU3VoqC0M1IHhVTAQ4) | 3:42 | 2025-07-27 | 2025-08-23 |
 | [Sally](https://open.spotify.com/track/04hrNRA9fRCWPNf8jjEUBJ) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [How To Catch A Falling Knife](https://open.spotify.com/album/4y09e5XNcSik8Vfnam7Tj4) | 4:33 | 2025-04-26 |  |
 | [Sleeping](https://open.spotify.com/track/3x8ZN5mCjRNuHkCgqRAaob) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [At The Beach, In Every Life](https://open.spotify.com/album/58vZavXqh1P5uoTXteudWl) | 3:52 | 2025-04-27 |  |

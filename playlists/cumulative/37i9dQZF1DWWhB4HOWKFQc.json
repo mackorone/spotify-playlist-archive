@@ -5273,6 +5273,32 @@
     },
     {
       "album": {
+        "name": "cuma satu",
+        "url": "https://open.spotify.com/album/6sr5ELNXukjZENW2PQYfc0"
+      },
+      "artists": [
+        {
+          "name": "Suisei",
+          "url": "https://open.spotify.com/artist/2Iw3yPRqjz5Xh4veKj7oqi"
+        },
+        {
+          "name": "Tenxi",
+          "url": "https://open.spotify.com/artist/6vP4azTCk053nGL0xAYnVH"
+        },
+        {
+          "name": "kirohta",
+          "url": "https://open.spotify.com/artist/3PXrisFNv2LkiFF2wuVY21"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140160,
+      "name": "cuma satu",
+      "url": "https://open.spotify.com/track/0xyPvz5PnEJ9CIz0jVFQ2r"
+    },
+    {
+      "album": {
         "name": "LoudeR",
         "url": "https://open.spotify.com/album/38y6A9ZqR14gpcrWmED8VF"
       },
@@ -11818,7 +11844,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 176608,
       "name": "Kasih Aba Aba",
       "url": "https://open.spotify.com/track/5rhwXZP0luMucnEPnYJpbI"
@@ -13124,7 +13150,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 299560,
       "name": "Let Down",
       "url": "https://open.spotify.com/track/2fuYa3Lx06QQJAm0MjztKr"
@@ -15012,7 +15038,7 @@
       ],
       "date_added": "2025-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-10",
+      "date_removed": null,
       "duration_ms": 228073,
       "name": "Menerima Luka",
       "url": "https://open.spotify.com/track/6Twf2B2IGXAN0YDJeTxkt2"

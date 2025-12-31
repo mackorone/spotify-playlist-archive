@@ -1,12 +1,12 @@
 {
   "description": "This is Stevie Ray Vaughan. The essential tracks, all in one playlist.",
-  "num_followers": 166700,
+  "num_followers": 166712,
   "original_name": "This Is Stevie Ray Vaughan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVBzAAAAAABojVkVvNOsa/MGVhXXgILx",
+  "snapshot_id": "aVHEgAAAAADf3gH/fvtYHV3rwntEzMBh",
   "tracks": [
     {
       "added_at": null,
@@ -719,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live at Carnegie Hall",
-        "url": "https://open.spotify.com/album/5Q0OpLSi7q2fKcHQHVeBGd"
+        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
+        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
       },
       "artists": [
         {
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 188533,
-      "name": "Letter to My Girlfriend - Live at Carnegie Hall, New York, NY - October 1984",
-      "url": "https://open.spotify.com/track/0Vxtc6GsFXlhRiJZ2IRG06"
+      "duration_ms": 247200,
+      "name": "Give Me Back My Wig",
+      "url": "https://open.spotify.com/track/61DnwvyCzQXWLK29HVfgJO"
     },
     {
       "added_at": null,
@@ -755,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
-        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
+        "name": "Live at Carnegie Hall",
+        "url": "https://open.spotify.com/album/5Q0OpLSi7q2fKcHQHVeBGd"
       },
       "artists": [
         {
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 247200,
-      "name": "Give Me Back My Wig",
-      "url": "https://open.spotify.com/track/61DnwvyCzQXWLK29HVfgJO"
+      "duration_ms": 188533,
+      "name": "Letter to My Girlfriend - Live at Carnegie Hall, New York, NY - October 1984",
+      "url": "https://open.spotify.com/track/0Vxtc6GsFXlhRiJZ2IRG06"
     },
     {
       "added_at": null,
@@ -787,6 +787,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
+        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 228800,
+      "name": "Shake for Me - Live at Steamboat 1874, Austin, TX - April 1980",
+      "url": "https://open.spotify.com/track/0LFsHodEUTDEvoRlreOaRe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "In Session",
         "url": "https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 910573,
       "name": "Blues At Sunrise",
       "url": "https://open.spotify.com/track/2iRvnj638AaNON730B5yIs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
-        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 228800,
-      "name": "Shake for Me - Live at Steamboat 1874, Austin, TX - April 1980",
-      "url": "https://open.spotify.com/track/0LFsHodEUTDEvoRlreOaRe"
     }
   ],
   "unique_name": "This Is Stevie Ray Vaughan",

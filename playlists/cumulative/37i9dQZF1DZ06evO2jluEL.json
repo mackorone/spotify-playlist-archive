@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 339125,
       "name": "A Cura",
       "url": "https://open.spotify.com/track/735gPtlF2NEUlufXHAy2aD"
@@ -200,7 +200,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 187088,
       "name": "Amor de Jesus",
       "url": "https://open.spotify.com/track/1S5eok3rK7wGyHY4SLgEXV"
@@ -280,6 +280,24 @@
     {
       "album": {
         "name": "Um Novo Come\u00e7o",
+        "url": "https://open.spotify.com/album/1vlN80OL6iT18f3KGo7sSC"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385307,
+      "name": "Calma",
+      "url": "https://open.spotify.com/track/1cHBk6MA5GsXqv1mGKPW6V"
+    },
+    {
+      "album": {
+        "name": "Um Novo Come\u00e7o",
         "url": "https://open.spotify.com/album/6rEjR0YsJAidJaRh9R8AqG"
       },
       "artists": [
@@ -290,7 +308,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 385307,
       "name": "Calma",
       "url": "https://open.spotify.com/track/6RzDXduerzvImdPfuJz0fr"
@@ -348,6 +366,24 @@
       "duration_ms": 342693,
       "name": "Can\u00e7\u00e3o do Amigo",
       "url": "https://open.spotify.com/track/3uiy3qcfjRJFwhH68iR74V"
+    },
+    {
+      "album": {
+        "name": "O Poder de Alian\u00e7a",
+        "url": "https://open.spotify.com/album/6WG7aBnfX67Vjr4bx14QAS"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296613,
+      "name": "Deus Conhece",
+      "url": "https://open.spotify.com/track/3r6OuMyo56lwoRoK59zPLP"
     },
     {
       "album": {
@@ -464,6 +500,24 @@
     {
       "album": {
         "name": "Adora\u00e7\u00e3o Prof\u00e9tica: Os Sonhos de Deus",
+        "url": "https://open.spotify.com/album/6s3sWkwVAFQ9lU6rKQSABY"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301986,
+      "name": "Eu Dependo de Deus",
+      "url": "https://open.spotify.com/track/0T8TrNQozKqTCOUo7jm1IF"
+    },
+    {
+      "album": {
+        "name": "Adora\u00e7\u00e3o Prof\u00e9tica: Os Sonhos de Deus",
         "url": "https://open.spotify.com/album/0lv1AZvaQT3BNDV5PztLDX"
       },
       "artists": [
@@ -474,7 +528,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 301986,
       "name": "Eu Dependo de Deus",
       "url": "https://open.spotify.com/track/59FRWW5q8A8zeWo5TDfHSb"
@@ -496,6 +550,24 @@
       "duration_ms": 281853,
       "name": "Eu Vou Vencer",
       "url": "https://open.spotify.com/track/41o38M2qihgQQChyMQf1mq"
+    },
+    {
+      "album": {
+        "name": "Pra Me Alegrar",
+        "url": "https://open.spotify.com/album/58ZfY9CuePCUyHSs5LZjw1"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281853,
+      "name": "Eu Vou Vencer",
+      "url": "https://open.spotify.com/track/4WCkty1DTZuLaxBCL5akUQ"
     },
     {
       "album": {
@@ -528,10 +600,28 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 387573,
       "name": "Faz Chover",
       "url": "https://open.spotify.com/track/1cVb9gErlRvhJJD5gERg0w"
+    },
+    {
+      "album": {
+        "name": "Adora\u00e7\u00e3o Prof\u00e9tica: Os Sonhos de Deus",
+        "url": "https://open.spotify.com/album/6s3sWkwVAFQ9lU6rKQSABY"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387573,
+      "name": "Faz Chover",
+      "url": "https://open.spotify.com/track/4SGMHu7d5B2rtWK8m7EJWz"
     },
     {
       "album": {
@@ -1066,6 +1156,24 @@
     {
       "album": {
         "name": "Adora\u00e7\u00e3o Prof\u00e9tica 4: Nunca Pare de Lutar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4bjlIPhOTlbPcpGzrQMOzb"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 476546,
+      "name": "Nunca Pare de Lutar",
+      "url": "https://open.spotify.com/track/3ZaAhSsTvIppFupesEUvi5"
+    },
+    {
+      "album": {
+        "name": "Adora\u00e7\u00e3o Prof\u00e9tica 4: Nunca Pare de Lutar (Ao Vivo)",
         "url": "https://open.spotify.com/album/01yELzhEJBvdusztcyJX3k"
       },
       "artists": [
@@ -1076,7 +1184,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 476546,
       "name": "Nunca Pare de Lutar",
       "url": "https://open.spotify.com/track/6JF0NbnUohNnoNwrLs6paN"
@@ -1112,10 +1220,28 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 336644,
       "name": "O Caminho do Milagre",
       "url": "https://open.spotify.com/track/0i6enCvQLwM7dXVPKUET6I"
+    },
+    {
+      "album": {
+        "name": "Um Novo Come\u00e7o",
+        "url": "https://open.spotify.com/album/1vlN80OL6iT18f3KGo7sSC"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336644,
+      "name": "O Caminho do Milagre",
+      "url": "https://open.spotify.com/track/3ed0AyUOmmG51yQ4PZEyTX"
     },
     {
       "album": {
@@ -1438,10 +1564,28 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 338800,
       "name": "Pal\u00e1cio para Deus",
       "url": "https://open.spotify.com/track/1TFwbGJqvnbZ9o28pgliYF"
+    },
+    {
+      "album": {
+        "name": "Adora\u00e7\u00e3o Prof\u00e9tica: Os Sonhos de Deus",
+        "url": "https://open.spotify.com/album/6s3sWkwVAFQ9lU6rKQSABY"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338800,
+      "name": "Pal\u00e1cio para Deus",
+      "url": "https://open.spotify.com/track/75UPMELAkoXfP0iae3no60"
     },
     {
       "album": {
@@ -1834,6 +1978,24 @@
     {
       "album": {
         "name": "Adora\u00e7\u00e3o Prof\u00e9tica 4: Nunca Pare de Lutar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4bjlIPhOTlbPcpGzrQMOzb"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407626,
+      "name": "Vale a Pena ser Profeta - Ao Vivo",
+      "url": "https://open.spotify.com/track/59l48uLHMdZx6rn3v5UxFb"
+    },
+    {
+      "album": {
+        "name": "Adora\u00e7\u00e3o Prof\u00e9tica 4: Nunca Pare de Lutar (Ao Vivo)",
         "url": "https://open.spotify.com/album/01yELzhEJBvdusztcyJX3k"
       },
       "artists": [
@@ -1844,7 +2006,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 407626,
       "name": "Vale a Pena ser Profeta - Ao Vivo",
       "url": "https://open.spotify.com/track/6LQi4D7s0TKaM9L9LHcI3C"

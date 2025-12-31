@@ -372,7 +372,7 @@
       ],
       "date_added": "2025-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-21",
+      "date_removed": null,
       "duration_ms": 242903,
       "name": "12 to 12",
       "url": "https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W"
@@ -2226,7 +2226,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 241562,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
@@ -5748,7 +5748,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-08",
+      "date_removed": null,
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -9436,7 +9436,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-27",
+      "date_removed": null,
       "duration_ms": 198620,
       "name": "COM\u00cb N GO",
       "url": "https://open.spotify.com/track/2mNGL7mZILSqZHxGboJaO9"
@@ -13298,7 +13298,7 @@
       ],
       "date_added": "2022-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 278593,
       "name": "Ef \u00e9g nenni",
       "url": "https://open.spotify.com/track/6bCu7FswJ645hR55DcuNbl"
@@ -13434,7 +13434,7 @@
       ],
       "date_added": "2025-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-24",
+      "date_removed": null,
       "duration_ms": 246850,
       "name": "Efsta h\u00e6\u00f0",
       "url": "https://open.spotify.com/track/12vTFmfkpkN14LxUX4c4FS"
@@ -25748,7 +25748,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-15",
+      "date_removed": null,
       "duration_ms": 289533,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
@@ -26994,7 +26994,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 244089,
       "name": "J\u00f3lin eru okkar",
       "url": "https://open.spotify.com/track/5PBsDt2vYSTSjuSnf35qMp"
@@ -27932,7 +27932,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-24",
+      "date_removed": null,
       "duration_ms": 151593,
       "name": "KOSS \u00c1 \u00deIG (\u00c1ram\u00f3taskaup 2023)",
       "url": "https://open.spotify.com/track/1zgmrx3BSjowXq7zCoHhjd"
@@ -28482,7 +28482,7 @@
       ],
       "date_added": "2021-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 262960,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
@@ -29186,6 +29186,24 @@
       "duration_ms": 242626,
       "name": "Leyndarm\u00e1l",
       "url": "https://open.spotify.com/track/3xZqkHSaEnnSaauDoLPGdN"
+    },
+    {
+      "album": {
+        "name": "D\u00fdr\u00f0 \u00ed dau\u00f0a\u00fe\u00f6gn",
+        "url": "https://open.spotify.com/album/4XSmO9jD2hnVtuzJmTcKpC"
+      },
+      "artists": [
+        {
+          "name": "\u00c1sgeir",
+          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
+        }
+      ],
+      "date_added": "2025-12-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213720,
+      "name": "Leyndarm\u00e1l",
+      "url": "https://open.spotify.com/track/1qQotEmOU1dyCYUlBKy9yP"
     },
     {
       "album": {
@@ -37214,7 +37232,7 @@
       ],
       "date_added": "2025-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 181263,
       "name": "Out My Lane",
       "url": "https://open.spotify.com/track/3SDsvUOUxLHMKEkr8Qy4sO"
@@ -38880,7 +38898,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-16",
+      "date_removed": null,
       "duration_ms": 168040,
       "name": "POPPSTIRNI",
       "url": "https://open.spotify.com/track/6BSGXVXtz8EMyyoSMcA1z8"
@@ -41920,7 +41938,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 297865,
       "name": "R\u00f3me\u00f3 og J\u00fal\u00eda",
       "url": "https://open.spotify.com/track/53UXY91LLMuISer0X8RsWq"
@@ -44758,7 +44776,7 @@
       ],
       "date_added": "2022-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 125341,
       "name": "Sn\u00e6finnur snj\u00f3karl",
       "url": "https://open.spotify.com/track/0VIiCofkLOS1DRxkmlLT8J"
@@ -46576,7 +46594,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-15",
+      "date_removed": null,
       "duration_ms": 240106,
       "name": "Stingum Af",
       "url": "https://open.spotify.com/track/0yltFzTFI64tr5aNVc2isX"
@@ -59228,7 +59246,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 156923,
       "name": "\u00deegar Vetur",
       "url": "https://open.spotify.com/track/2oBgo1udjEp72pDo4u5O3P"
@@ -59250,7 +59268,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-12-31",
       "duration_ms": 197241,
       "name": "\u00deegar \u00de\u00fa Blikkar (feat. Bj\u00f6rgvin Halld\u00f3rsson)",
       "url": "https://open.spotify.com/track/07d7gcSd3Jja0W7S1jDYKh"

@@ -1,12 +1,12 @@
 {
   "description": "This is BL\u00d8F. The essential tracks, all in one playlist.",
-  "num_followers": 93085,
+  "num_followers": 93089,
   "original_name": "This Is BL\u00d8F",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVBzAAAAAABq/NfNg1HpnfuJMhqkp56+",
+  "snapshot_id": "aVHEgAAAAAA95u1pdevwic1cNALKXrKW",
   "tracks": [
     {
       "added_at": null,
@@ -387,18 +387,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aan",
-        "url": "https://open.spotify.com/album/0tTV2cKaA2TXTUOE642C59"
+        "name": "Umoja",
+        "url": "https://open.spotify.com/album/09epXZm5KJ3IdblOCILVyt"
       },
       "artists": [
         {
           "name": "BL\u00d8F",
           "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        },
+        {
+          "name": "KODO",
+          "url": "https://open.spotify.com/artist/6DZlM1W5NTS7TslSnDnKOB"
         }
       ],
-      "duration_ms": 250506,
-      "name": "Over De Dam",
-      "url": "https://open.spotify.com/track/5a6UWbPBj1cAipfZzwDXRj"
+      "duration_ms": 283333,
+      "name": "Aanzoek Zonder Ringen",
+      "url": "https://open.spotify.com/track/6Cc0qQpIw9Dzm9c9GSFjRt"
     },
     {
       "added_at": null,
@@ -419,22 +423,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Umoja",
-        "url": "https://open.spotify.com/album/09epXZm5KJ3IdblOCILVyt"
+        "name": "Aan",
+        "url": "https://open.spotify.com/album/0tTV2cKaA2TXTUOE642C59"
       },
       "artists": [
         {
           "name": "BL\u00d8F",
           "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        },
-        {
-          "name": "KODO",
-          "url": "https://open.spotify.com/artist/6DZlM1W5NTS7TslSnDnKOB"
         }
       ],
-      "duration_ms": 283333,
-      "name": "Aanzoek Zonder Ringen",
-      "url": "https://open.spotify.com/track/6Cc0qQpIw9Dzm9c9GSFjRt"
+      "duration_ms": 250506,
+      "name": "Over De Dam",
+      "url": "https://open.spotify.com/track/5a6UWbPBj1cAipfZzwDXRj"
     },
     {
       "added_at": null,
