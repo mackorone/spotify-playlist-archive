@@ -1,4 +1,4 @@
-## Playlists \(9051\)
+## Playlists \(9052\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -8878,6 +8878,7 @@
 - [まどろみの中で](/playlists/pretty/37i9dQZF1DX9rVeQ0kNLOd.md)
 - [みんな集まれ！アンパンマン \-Anpanman\-](/playlists/pretty/37i9dQZF1DX73ib6GpVI5Z.md)
 - [アイドリッシュセブン \-IDOLiSH7\-](/playlists/pretty/37i9dQZF1DXd7fmFWnsK8n.md)
+- [アイドルポップ：ジャパン](/playlists/pretty/37i9dQZF1DX8PLev4Ol7Ml.md)
 - [エロティカ・セブン](/playlists/pretty/37i9dQZF1DX1ewFzkrJBAo.md)
 - [ガールズ・ナイト](/playlists/pretty/37i9dQZF1DWXX3HHYIWJwh.md)
 - [キラキラポップ：ジャパン Best of 2025](/playlists/pretty/37i9dQZF1DWVlypmfyCIGr.md)
