@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQjajIrLiud.md) - [plain]
 
 > Songs to enjoy while cooking.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,180 likes - 40 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,179 likes - 40 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,13 +37,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQjajIrLiud.md) - [plain]
 | 27 | [زي شمس و قمر](https://open.spotify.com/track/0ewVAGzxZlaq1haXli28JU) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [لما بنتولد](https://open.spotify.com/album/5xWWNgZyd88PlUVRBReVaf) | 1:48 |
 | 28 | [Mabidichay](https://open.spotify.com/track/3lkJjAbdLWozIuox8sRoom) | [Lina Guessoussi](https://open.spotify.com/artist/6DFDylakhVHkuYqNhg1aBd) | [Mabidichay](https://open.spotify.com/album/1U9xlybG0rp68MxjwZTK2w) | 2:52 |
 | 29 | [Elwaet Be Yesrana](https://open.spotify.com/track/3mR0AAEN7lMBirfVzWMX9X) | [Donia Samir Ghanem](https://open.spotify.com/artist/1ieloBuwzXdMn9VPOufDvB) | [Wahda Tania Khales](https://open.spotify.com/album/0Rd9A7wKzaUgA51QVFKGOK) | 3:55 |
-| 30 | [Fady Shewaya](https://open.spotify.com/track/3qRGs7H1bPfshHh19syRKQ) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Mawloud Sanat 80](https://open.spotify.com/album/3l4HXkpmAhcVi6moAigDT7) | 3:51 |
-| 31 | [قالوا بالكتير](https://open.spotify.com/track/02hGwY3iXmEgM8Fm1j4eqm) | [Amal Maher](https://open.spotify.com/artist/5XP2oDdaTLdRheal4GRXyl) | [أصل الإحساس](https://open.spotify.com/album/0j1Wa6bkKGp5ahgvaMkBSK) | 5:16 |
+| 30 | [قالوا بالكتير](https://open.spotify.com/track/02hGwY3iXmEgM8Fm1j4eqm) | [Amal Maher](https://open.spotify.com/artist/5XP2oDdaTLdRheal4GRXyl) | [أصل الإحساس](https://open.spotify.com/album/0j1Wa6bkKGp5ahgvaMkBSK) | 5:16 |
+| 31 | [Fady Shewaya](https://open.spotify.com/track/3qRGs7H1bPfshHh19syRKQ) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Mawloud Sanat 80](https://open.spotify.com/album/3l4HXkpmAhcVi6moAigDT7) | 3:51 |
 | 32 | [El Donia Hoss](https://open.spotify.com/track/5jYoUlRMAsnccPRv0NJk60) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp), [Sara Moullablad](https://open.spotify.com/artist/09BtMGqleUcGUrhl5zxToM) | [Roxi](https://open.spotify.com/album/381pico3dKrtKOi7Dh59at) | 3:55 |
 | 33 | [Lazim Ahkeelak](https://open.spotify.com/track/5bovnlTevkS4gSSYhCnlUI) | [Nai Barghouti](https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg) | [Lazim Ahkeelak](https://open.spotify.com/album/5lP0mAnk1RMLrEhpaIu5TG) | 3:18 |
 | 34 | [وصفولى عيونك](https://open.spotify.com/track/5UO3DdPmSQbtRZ20SfC1QW) | [Ramy Ayach](https://open.spotify.com/artist/39AgPTHxIEp2QUozYYsnV1) | [Qesset Hob](https://open.spotify.com/album/2gHjRyeFIB4rji4JuChbGX) | 4:26 |
-| 35 | [لب الموضوع](https://open.spotify.com/track/77ItYbWD7Wnt1dlkwhE0dU) | [Yazeed Fahad](https://open.spotify.com/artist/2GH6332p4LA0hEd0wXlmfp) | [لب الموضوع](https://open.spotify.com/album/5TcOf5U179gvhT9WYCVZMc) | 3:38 |
-| 36 | [Amar 14](https://open.spotify.com/track/2O36wGSupi2wumi360NBxz) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [Amar 14](https://open.spotify.com/album/2Wj3ovxVaSyHaBD2yWca1Y) | 3:03 |
+| 35 | [Amar 14](https://open.spotify.com/track/2O36wGSupi2wumi360NBxz) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [Amar 14](https://open.spotify.com/album/2Wj3ovxVaSyHaBD2yWca1Y) | 3:03 |
+| 36 | [لب الموضوع](https://open.spotify.com/track/77ItYbWD7Wnt1dlkwhE0dU) | [Yazeed Fahad](https://open.spotify.com/artist/2GH6332p4LA0hEd0wXlmfp) | [لب الموضوع](https://open.spotify.com/album/5TcOf5U179gvhT9WYCVZMc) | 3:38 |
 | 37 | [Ana Meen](https://open.spotify.com/track/5LcThJzvvRzOZZb4apH9Px) | [زاد](https://open.spotify.com/artist/6mPZyiInAlfLGBJbX0echu) | [Ana Meen](https://open.spotify.com/album/4AqGKM28CecPAnMpZ1Tgj2) | 3:09 |
 | 38 | [لو سامحنا](https://open.spotify.com/track/0mPK1phdFDMa38fY9FmByI) | [Hana Yousry](https://open.spotify.com/artist/7HyRkwolIQ1E23SNrfSbZt) | [لو سامحنا](https://open.spotify.com/album/2yXagO9bqRLlpWf1kiF3u6) | 2:48 |
 | 39 | [Yasmeen](https://open.spotify.com/track/4QCThVhmyL6KvZW1gGNIRI) | [Dania](https://open.spotify.com/artist/0LXNaYz7jAXD5V4C0FWGEx) | [Yasmeen](https://open.spotify.com/album/7bgr16tTsIUTVtDkJ3Fegz) | 0:56 |

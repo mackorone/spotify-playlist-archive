@@ -326,7 +326,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-01",
       "duration_ms": 284644,
       "name": "CARRUSEL",
       "url": "https://open.spotify.com/track/479NIpJTkQaCyBpFTWicqa"
@@ -1362,10 +1362,28 @@
       ],
       "date_added": "2025-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-01",
       "duration_ms": 242857,
       "name": "VETIVER Y AMARETTO",
       "url": "https://open.spotify.com/track/19HWG52zjo54p7naO3SQlf"
+    },
+    {
+      "album": {
+        "name": "DUE\u00d1O DEL CIELO",
+        "url": "https://open.spotify.com/album/0pcO9L2DIQ6l1GGGIlH6Pk"
+      },
+      "artists": [
+        {
+          "name": "HUMBE",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242857,
+      "name": "VETIVER Y AMARETTO",
+      "url": "https://open.spotify.com/track/4gcxYsMGTnR73lKbMY6MIg"
     },
     {
       "album": {

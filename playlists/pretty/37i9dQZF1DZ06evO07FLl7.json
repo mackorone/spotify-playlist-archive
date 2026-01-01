@@ -1,12 +1,12 @@
 {
   "description": "This is Tassia Reis. The essential tracks, all in one playlist.",
-  "num_followers": 2309,
+  "num_followers": 2310,
   "original_name": "This Is Tassia Reis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVHEgAAAAABthiQ5B4lAJjCJGx8aIF2+",
+  "snapshot_id": "aVMWAAAAAAA7fGyLX9292GqIpjJyOSKN",
   "tracks": [
     {
       "added_at": null,
@@ -727,26 +727,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Siento por Ciento (Remix)",
-        "url": "https://open.spotify.com/album/1AqpgAjhy5ZK7KbTUmNZS4"
+        "name": "Pr\u00f3spera D+",
+        "url": "https://open.spotify.com/album/5pcU4dZfYddVzcBrWsP6mz"
       },
       "artists": [
         {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
-        },
-        {
-          "name": "G Sony",
-          "url": "https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT"
-        },
-        {
           "name": "Tassia Reis",
           "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        },
+        {
+          "name": "Nelson D",
+          "url": "https://open.spotify.com/artist/3hSRbxpRL7fJ64PepWjCof"
         }
       ],
-      "duration_ms": 207709,
-      "name": "Siento Por Ciento - Remix",
-      "url": "https://open.spotify.com/track/3F9jxW2QPwwlbcoV9AAixI"
+      "duration_ms": 240000,
+      "name": "Me Beije",
+      "url": "https://open.spotify.com/track/4GalysUG5xWcH5PqNOWgIS"
     },
     {
       "added_at": null,
@@ -783,6 +779,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Siento por Ciento (Remix)",
+        "url": "https://open.spotify.com/album/1AqpgAjhy5ZK7KbTUmNZS4"
+      },
+      "artists": [
+        {
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+        },
+        {
+          "name": "G Sony",
+          "url": "https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT"
+        },
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        }
+      ],
+      "duration_ms": 207709,
+      "name": "Siento Por Ciento - Remix",
+      "url": "https://open.spotify.com/track/3F9jxW2QPwwlbcoV9AAixI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "T\u00e1ssia Reis",
         "url": "https://open.spotify.com/album/1s2L8nGABE9LRMSpC4R7F9"
       },
@@ -795,26 +815,6 @@
       "duration_ms": 202069,
       "name": "Asas",
       "url": "https://open.spotify.com/track/0fWEScGfHtclwYwG8oKpYv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pr\u00f3spera D+",
-        "url": "https://open.spotify.com/album/5pcU4dZfYddVzcBrWsP6mz"
-      },
-      "artists": [
-        {
-          "name": "Tassia Reis",
-          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        },
-        {
-          "name": "Nelson D",
-          "url": "https://open.spotify.com/artist/3hSRbxpRL7fJ64PepWjCof"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Me Beije",
-      "url": "https://open.spotify.com/track/4GalysUG5xWcH5PqNOWgIS"
     },
     {
       "added_at": null,
@@ -835,50 +835,6 @@
       "duration_ms": 386440,
       "name": "Da Lama / Afrontamento",
       "url": "https://open.spotify.com/track/1kLZ1EeAoV6NQcHulPNTKB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Remonta",
-        "url": "https://open.spotify.com/album/0Ii4TGRRMO6hEKOu22d6CH"
-      },
-      "artists": [
-        {
-          "name": "Liniker e os Caramelows",
-          "url": "https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n"
-        },
-        {
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        },
-        {
-          "name": "Caramelows",
-          "url": "https://open.spotify.com/artist/7v5Y5Ua4GZTLrbYUUfK9Hi"
-        },
-        {
-          "name": "Tassia Reis",
-          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        }
-      ],
-      "duration_ms": 350906,
-      "name": "Tua",
-      "url": "https://open.spotify.com/track/1oke7Jkp9afNQzTUD5iHZZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "T\u00e1ssia Reis",
-        "url": "https://open.spotify.com/album/1s2L8nGABE9LRMSpC4R7F9"
-      },
-      "artists": [
-        {
-          "name": "Tassia Reis",
-          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        }
-      ],
-      "duration_ms": 189250,
-      "name": "Calma Preta",
-      "url": "https://open.spotify.com/track/1kFusHMrCFdjhbkh9gZUdf"
     },
     {
       "added_at": null,
@@ -931,6 +887,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "T\u00e1ssia Reis",
+        "url": "https://open.spotify.com/album/1s2L8nGABE9LRMSpC4R7F9"
+      },
+      "artists": [
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        }
+      ],
+      "duration_ms": 189250,
+      "name": "Calma Preta",
+      "url": "https://open.spotify.com/track/1kFusHMrCFdjhbkh9gZUdf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Patr\u00e3o",
         "url": "https://open.spotify.com/album/6NKfGwJVwcC6X0vcuzuIf7"
       },
@@ -947,6 +919,34 @@
       "duration_ms": 218592,
       "name": "Patr\u00e3o",
       "url": "https://open.spotify.com/track/6qvJIyQ7VyA04jrIXEUarf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Remonta",
+        "url": "https://open.spotify.com/album/0Ii4TGRRMO6hEKOu22d6CH"
+      },
+      "artists": [
+        {
+          "name": "Liniker e os Caramelows",
+          "url": "https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n"
+        },
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        },
+        {
+          "name": "Caramelows",
+          "url": "https://open.spotify.com/artist/7v5Y5Ua4GZTLrbYUUfK9Hi"
+        },
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        }
+      ],
+      "duration_ms": 350906,
+      "name": "Tua",
+      "url": "https://open.spotify.com/track/1oke7Jkp9afNQzTUD5iHZZ"
     },
     {
       "added_at": null,

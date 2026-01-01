@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover: Laci Kaye Booth",
-  "num_followers": 64534,
+  "num_followers": 64531,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
@@ -499,6 +499,22 @@
     {
       "added_at": "2025-12-05 20:01:46",
       "album": {
+        "name": "You Can't Take My Song",
+        "url": "https://open.spotify.com/album/2JCOYf1pNuxtUwtXio4TMA"
+      },
+      "artists": [
+        {
+          "name": "Jamie MacDonald",
+          "url": "https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4"
+        }
+      ],
+      "duration_ms": 179939,
+      "name": "You Can't Take My Song",
+      "url": "https://open.spotify.com/track/4qaIk1oubKaR6rD1G7GTX7"
+    },
+    {
+      "added_at": "2025-12-05 20:01:46",
+      "album": {
         "name": "Too Slow (All Night)",
         "url": "https://open.spotify.com/album/35IN0y8EZRBW3qVEkvr8bx"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 171444,
       "name": "Too Slow (All Night)",
       "url": "https://open.spotify.com/track/4ywDQlrX9XdJB19bvl3cvU"
-    },
-    {
-      "added_at": "2025-12-05 20:01:46",
-      "album": {
-        "name": "You Can't Take My Song",
-        "url": "https://open.spotify.com/album/2JCOYf1pNuxtUwtXio4TMA"
-      },
-      "artists": [
-        {
-          "name": "Jamie MacDonald",
-          "url": "https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4"
-        }
-      ],
-      "duration_ms": 179939,
-      "name": "You Can't Take My Song",
-      "url": "https://open.spotify.com/track/4qaIk1oubKaR6rD1G7GTX7"
     },
     {
       "added_at": "2025-12-05 20:01:46",

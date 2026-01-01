@@ -1,6 +1,6 @@
 {
   "description": "Die Playlist zur Wasserpfeife. Cover: Amo, Aymen",
-  "num_followers": 915238,
+  "num_followers": 915249,
   "original_name": "Shisha Club",
   "owner": {
     "name": "Spotify",
@@ -87,26 +87,6 @@
     {
       "added_at": "2025-12-19 15:28:24",
       "album": {
-        "name": "ICE",
-        "url": "https://open.spotify.com/album/2EZhgvO9ff4pxyfeLp3B0G"
-      },
-      "artists": [
-        {
-          "name": "MERO",
-          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
-        },
-        {
-          "name": "Amo",
-          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "ICE",
-      "url": "https://open.spotify.com/track/2ecao7k4l0ADD4ZANUkQDr"
-    },
-    {
-      "added_at": "2025-12-19 15:28:24",
-      "album": {
         "name": "KRISTALL",
         "url": "https://open.spotify.com/album/6Erf1V9IXZsN2oY2AO5g0g"
       },
@@ -123,6 +103,26 @@
       "duration_ms": 164937,
       "name": "Alors (feat. CAPO)",
       "url": "https://open.spotify.com/track/0zBOXwDbCEM0Wbx3rqVdQb"
+    },
+    {
+      "added_at": "2025-12-19 15:28:24",
+      "album": {
+        "name": "ICE",
+        "url": "https://open.spotify.com/album/2EZhgvO9ff4pxyfeLp3B0G"
+      },
+      "artists": [
+        {
+          "name": "MERO",
+          "url": "https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ"
+        },
+        {
+          "name": "Amo",
+          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "ICE",
+      "url": "https://open.spotify.com/track/2ecao7k4l0ADD4ZANUkQDr"
     },
     {
       "added_at": "2025-12-19 15:28:24",
@@ -187,22 +187,6 @@
     {
       "added_at": "2025-12-19 15:28:24",
       "album": {
-        "name": "HYAT",
-        "url": "https://open.spotify.com/album/4VjkWLgSYG48sOxXu7aX8b"
-      },
-      "artists": [
-        {
-          "name": "CAPO",
-          "url": "https://open.spotify.com/artist/5y9wg9qkGBl0n9v9RzaPKu"
-        }
-      ],
-      "duration_ms": 165372,
-      "name": "GHETTOGIRL",
-      "url": "https://open.spotify.com/track/0G5x5rALxKOkwicMjKta79"
-    },
-    {
-      "added_at": "2025-12-19 15:28:24",
-      "album": {
         "name": "AKRAPOVIC",
         "url": "https://open.spotify.com/album/1XWTn78hAVxuVT3W41LoAI"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 139780,
       "name": "AKRAPOVIC",
       "url": "https://open.spotify.com/track/3GUEKLXKqmyOFDdyv57B5o"
+    },
+    {
+      "added_at": "2025-12-19 15:28:24",
+      "album": {
+        "name": "HYAT",
+        "url": "https://open.spotify.com/album/4VjkWLgSYG48sOxXu7aX8b"
+      },
+      "artists": [
+        {
+          "name": "CAPO",
+          "url": "https://open.spotify.com/artist/5y9wg9qkGBl0n9v9RzaPKu"
+        }
+      ],
+      "duration_ms": 165372,
+      "name": "GHETTOGIRL",
+      "url": "https://open.spotify.com/track/0G5x5rALxKOkwicMjKta79"
     },
     {
       "added_at": "2025-12-19 15:28:24",
@@ -359,18 +359,22 @@
     {
       "added_at": "2025-12-19 15:28:24",
       "album": {
-        "name": "Schmerz",
-        "url": "https://open.spotify.com/album/6DXSVluSMQF8aj8zQnoiVZ"
+        "name": "Tutto Bene",
+        "url": "https://open.spotify.com/album/6hp9ryEwD5QwQ7uztaEcMD"
       },
       "artists": [
         {
           "name": "Dardan",
           "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        },
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
         }
       ],
-      "duration_ms": 163946,
-      "name": "Schmerz",
-      "url": "https://open.spotify.com/track/4SXUbnaYt80pFpAebHVR5Q"
+      "duration_ms": 219733,
+      "name": "Tutto Bene",
+      "url": "https://open.spotify.com/track/7iOadzb2kNGSR0vuZk1DD9"
     },
     {
       "added_at": "2025-12-19 15:28:24",
@@ -455,22 +459,18 @@
     {
       "added_at": "2025-12-19 15:28:24",
       "album": {
-        "name": "Tutto Bene",
-        "url": "https://open.spotify.com/album/6hp9ryEwD5QwQ7uztaEcMD"
+        "name": "Schmerz",
+        "url": "https://open.spotify.com/album/6DXSVluSMQF8aj8zQnoiVZ"
       },
       "artists": [
         {
           "name": "Dardan",
           "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
-        },
-        {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
         }
       ],
-      "duration_ms": 219733,
-      "name": "Tutto Bene",
-      "url": "https://open.spotify.com/track/7iOadzb2kNGSR0vuZk1DD9"
+      "duration_ms": 163946,
+      "name": "Schmerz",
+      "url": "https://open.spotify.com/track/4SXUbnaYt80pFpAebHVR5Q"
     },
     {
       "added_at": "2025-12-19 15:28:24",
@@ -587,26 +587,18 @@
     {
       "added_at": "2025-12-19 15:28:24",
       "album": {
-        "name": "Pech & Schwefel",
-        "url": "https://open.spotify.com/album/4lv03w3mhu2o1NOZX24z9R"
+        "name": "TRAPPER'S LULLABY",
+        "url": "https://open.spotify.com/album/3BELR2rzU6HU14t2cShe3Z"
       },
       "artists": [
         {
-          "name": "Aymo",
-          "url": "https://open.spotify.com/artist/4dFsxc7SFDOmkzNLKILGUq"
-        },
-        {
-          "name": "Aymen",
-          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
-        },
-        {
-          "name": "Amo",
-          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
+          "name": "reezy",
+          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
         }
       ],
-      "duration_ms": 187286,
-      "name": "Pech & Schwefel",
-      "url": "https://open.spotify.com/track/6yKRxSyDyKXcYA9DGkG5Aq"
+      "duration_ms": 252831,
+      "name": "TRAPPER'S LULLABY",
+      "url": "https://open.spotify.com/track/11zZDUazgO4zMrW03q2fWo"
     },
     {
       "added_at": "2025-12-19 15:28:24",
@@ -623,22 +615,6 @@
       "duration_ms": 132000,
       "name": "3 Engel f\u00fcr Cave",
       "url": "https://open.spotify.com/track/4nQmittuiFsPeU4nGfXDha"
-    },
-    {
-      "added_at": "2025-12-19 15:28:24",
-      "album": {
-        "name": "TRAPPER'S LULLABY",
-        "url": "https://open.spotify.com/album/3BELR2rzU6HU14t2cShe3Z"
-      },
-      "artists": [
-        {
-          "name": "reezy",
-          "url": "https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q"
-        }
-      ],
-      "duration_ms": 252831,
-      "name": "TRAPPER'S LULLABY",
-      "url": "https://open.spotify.com/track/11zZDUazgO4zMrW03q2fWo"
     },
     {
       "added_at": "2025-12-19 15:28:24",
@@ -663,18 +639,26 @@
     {
       "added_at": "2025-12-19 15:28:24",
       "album": {
-        "name": "Labubu Freestyle",
-        "url": "https://open.spotify.com/album/4XNrW1y0mE9e1EeAISzsRt"
+        "name": "Pech & Schwefel",
+        "url": "https://open.spotify.com/album/4lv03w3mhu2o1NOZX24z9R"
       },
       "artists": [
         {
-          "name": "ZAH1DE",
-          "url": "https://open.spotify.com/artist/3efIR8hdrilpdBfWxVrxRd"
+          "name": "Aymo",
+          "url": "https://open.spotify.com/artist/4dFsxc7SFDOmkzNLKILGUq"
+        },
+        {
+          "name": "Aymen",
+          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
+        },
+        {
+          "name": "Amo",
+          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
         }
       ],
-      "duration_ms": 120026,
-      "name": "Labubu Freestyle",
-      "url": "https://open.spotify.com/track/7etvmixsXbfoFoX3mYDYx3"
+      "duration_ms": 187286,
+      "name": "Pech & Schwefel",
+      "url": "https://open.spotify.com/track/6yKRxSyDyKXcYA9DGkG5Aq"
     },
     {
       "added_at": "2025-12-19 15:28:24",
@@ -691,6 +675,22 @@
       "duration_ms": 155092,
       "name": "SCARFACE",
       "url": "https://open.spotify.com/track/6kS7hWT4FYJqPmyMHMBHNn"
+    },
+    {
+      "added_at": "2025-12-19 15:28:24",
+      "album": {
+        "name": "Labubu Freestyle",
+        "url": "https://open.spotify.com/album/4XNrW1y0mE9e1EeAISzsRt"
+      },
+      "artists": [
+        {
+          "name": "ZAH1DE",
+          "url": "https://open.spotify.com/artist/3efIR8hdrilpdBfWxVrxRd"
+        }
+      ],
+      "duration_ms": 120026,
+      "name": "Labubu Freestyle",
+      "url": "https://open.spotify.com/track/7etvmixsXbfoFoX3mYDYx3"
     },
     {
       "added_at": "2025-12-19 15:28:24",
@@ -755,22 +755,6 @@
     {
       "added_at": "2025-12-19 15:28:24",
       "album": {
-        "name": "Pretty Privilege",
-        "url": "https://open.spotify.com/album/4QGZ7HTJRHRecQdOmLF5H5"
-      },
-      "artists": [
-        {
-          "name": "ZAH1DE",
-          "url": "https://open.spotify.com/artist/3efIR8hdrilpdBfWxVrxRd"
-        }
-      ],
-      "duration_ms": 145493,
-      "name": "Pretty Privilege",
-      "url": "https://open.spotify.com/track/1Q4AqPiUPR6jic2vYV5swy"
-    },
-    {
-      "added_at": "2025-12-19 15:28:24",
-      "album": {
         "name": "WEEKEND",
         "url": "https://open.spotify.com/album/5nfHSj44LYj32gPepeWKUT"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 142640,
       "name": "WEEKEND",
       "url": "https://open.spotify.com/track/6tMXNpBTj1U0FkxUuXaIqv"
+    },
+    {
+      "added_at": "2025-12-19 15:28:24",
+      "album": {
+        "name": "Pretty Privilege",
+        "url": "https://open.spotify.com/album/4QGZ7HTJRHRecQdOmLF5H5"
+      },
+      "artists": [
+        {
+          "name": "ZAH1DE",
+          "url": "https://open.spotify.com/artist/3efIR8hdrilpdBfWxVrxRd"
+        }
+      ],
+      "duration_ms": 145493,
+      "name": "Pretty Privilege",
+      "url": "https://open.spotify.com/track/1Q4AqPiUPR6jic2vYV5swy"
     },
     {
       "added_at": "2025-12-19 15:28:24",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2025-12-19 15:28:24",
       "album": {
+        "name": "MAYBACH TRUCK",
+        "url": "https://open.spotify.com/album/0KvJUIcBIESCeMrrDDK39N"
+      },
+      "artists": [
+        {
+          "name": "SHABAB",
+          "url": "https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO"
+        }
+      ],
+      "duration_ms": 108569,
+      "name": "MAYBACH TRUCK",
+      "url": "https://open.spotify.com/track/3i9job2A83v6yQ0zQEkZQT"
+    },
+    {
+      "added_at": "2025-12-19 15:28:24",
+      "album": {
         "name": "Von vorn",
         "url": "https://open.spotify.com/album/3gaUmAg4wUA7znwsVLyWEl"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 214146,
       "name": "Medicine",
       "url": "https://open.spotify.com/track/3p4kiz2Gr2bRkTZzKRDb28"
-    },
-    {
-      "added_at": "2025-12-19 15:28:24",
-      "album": {
-        "name": "MAYBACH TRUCK",
-        "url": "https://open.spotify.com/album/0KvJUIcBIESCeMrrDDK39N"
-      },
-      "artists": [
-        {
-          "name": "SHABAB",
-          "url": "https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO"
-        }
-      ],
-      "duration_ms": 108569,
-      "name": "MAYBACH TRUCK",
-      "url": "https://open.spotify.com/track/3i9job2A83v6yQ0zQEkZQT"
     },
     {
       "added_at": "2025-12-19 15:28:24",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2025-12-19 15:28:24",
       "album": {
-        "name": "Parkplatz",
-        "url": "https://open.spotify.com/album/3nLKdyHEUFyx0EPcoeV7X3"
-      },
-      "artists": [
-        {
-          "name": "Olexesh",
-          "url": "https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "Parkplatz",
-      "url": "https://open.spotify.com/track/3sTr8yoAaBlnBARdiVTvpP"
-    },
-    {
-      "added_at": "2025-12-19 15:28:24",
-      "album": {
         "name": "Mrs. Toxic",
         "url": "https://open.spotify.com/album/5X9r4CedgRKY71uwTyU1rV"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 148500,
       "name": "Mrs. Toxic",
       "url": "https://open.spotify.com/track/3uhwFTBCoTO7VyW0NH9u1i"
+    },
+    {
+      "added_at": "2025-12-19 15:28:24",
+      "album": {
+        "name": "Parkplatz",
+        "url": "https://open.spotify.com/album/3nLKdyHEUFyx0EPcoeV7X3"
+      },
+      "artists": [
+        {
+          "name": "Olexesh",
+          "url": "https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "Parkplatz",
+      "url": "https://open.spotify.com/track/3sTr8yoAaBlnBARdiVTvpP"
     },
     {
       "added_at": "2025-12-19 15:28:24",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2025-12-19 15:28:24",
       "album": {
+        "name": "Phantom",
+        "url": "https://open.spotify.com/album/50fYMShGrQyKJ4DUwDth9v"
+      },
+      "artists": [
+        {
+          "name": "DANO",
+          "url": "https://open.spotify.com/artist/0Yu9Wl3q10ZvjBaRN82LIr"
+        }
+      ],
+      "duration_ms": 153406,
+      "name": "Phantom",
+      "url": "https://open.spotify.com/track/5rn9vfJYZasysVpGfg1uhb"
+    },
+    {
+      "added_at": "2025-12-19 15:28:24",
+      "album": {
         "name": "USDT",
         "url": "https://open.spotify.com/album/0D7B6Kua8HOdBUpLZLZTQY"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 121237,
       "name": "USDT",
       "url": "https://open.spotify.com/track/3CEbh3rRxuIUvLf6AMdohv"
-    },
-    {
-      "added_at": "2025-12-19 15:28:24",
-      "album": {
-        "name": "Phantom",
-        "url": "https://open.spotify.com/album/50fYMShGrQyKJ4DUwDth9v"
-      },
-      "artists": [
-        {
-          "name": "DANO",
-          "url": "https://open.spotify.com/artist/0Yu9Wl3q10ZvjBaRN82LIr"
-        }
-      ],
-      "duration_ms": 153406,
-      "name": "Phantom",
-      "url": "https://open.spotify.com/track/5rn9vfJYZasysVpGfg1uhb"
     },
     {
       "added_at": "2025-12-19 15:28:24",
@@ -1723,26 +1723,6 @@
     {
       "added_at": "2025-12-19 15:28:24",
       "album": {
-        "name": "NuR Du :/",
-        "url": "https://open.spotify.com/album/2ri0pX0fz7FEQSW9xyKURZ"
-      },
-      "artists": [
-        {
-          "name": "Lune",
-          "url": "https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6"
-        },
-        {
-          "name": "SHABAB",
-          "url": "https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO"
-        }
-      ],
-      "duration_ms": 206053,
-      "name": "NuR Du :/",
-      "url": "https://open.spotify.com/track/3DYJ9tHSIhZqCVT8l5QAd0"
-    },
-    {
-      "added_at": "2025-12-19 15:28:24",
-      "album": {
         "name": "G-CODE",
         "url": "https://open.spotify.com/album/4fvreqshfSDXNw4EYmSBhw"
       },
@@ -1759,6 +1739,26 @@
       "duration_ms": 150612,
       "name": "SO FRESH SO CLEAN",
       "url": "https://open.spotify.com/track/3l4Z4P6YWerBZ4uBammxdW"
+    },
+    {
+      "added_at": "2025-12-19 15:28:24",
+      "album": {
+        "name": "NuR Du :/",
+        "url": "https://open.spotify.com/album/2ri0pX0fz7FEQSW9xyKURZ"
+      },
+      "artists": [
+        {
+          "name": "Lune",
+          "url": "https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6"
+        },
+        {
+          "name": "SHABAB",
+          "url": "https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO"
+        }
+      ],
+      "duration_ms": 206053,
+      "name": "NuR Du :/",
+      "url": "https://open.spotify.com/track/3DYJ9tHSIhZqCVT8l5QAd0"
     },
     {
       "added_at": "2025-12-19 15:28:24",
@@ -1855,6 +1855,22 @@
     {
       "added_at": "2025-12-19 15:28:24",
       "album": {
+        "name": "KUNSTWERK",
+        "url": "https://open.spotify.com/album/467oYjt04QFPvLeVhMLerm"
+      },
+      "artists": [
+        {
+          "name": "Ataypapi",
+          "url": "https://open.spotify.com/artist/6vRKWcwC6OphUNy3Ds5O0U"
+        }
+      ],
+      "duration_ms": 149250,
+      "name": "KUNSTWERK",
+      "url": "https://open.spotify.com/track/46Qzl6GOYinCIvq3LbVugs"
+    },
+    {
+      "added_at": "2025-12-19 15:28:24",
+      "album": {
         "name": "Move Your Body",
         "url": "https://open.spotify.com/album/70YZ4VMKiQeLVmTcJ3402a"
       },
@@ -1871,22 +1887,6 @@
       "duration_ms": 137474,
       "name": "Move Your Body",
       "url": "https://open.spotify.com/track/67qu6IkTX4OPJrDfOz4wmH"
-    },
-    {
-      "added_at": "2025-12-19 15:28:24",
-      "album": {
-        "name": "KUNSTWERK",
-        "url": "https://open.spotify.com/album/467oYjt04QFPvLeVhMLerm"
-      },
-      "artists": [
-        {
-          "name": "Ataypapi",
-          "url": "https://open.spotify.com/artist/6vRKWcwC6OphUNy3Ds5O0U"
-        }
-      ],
-      "duration_ms": 149250,
-      "name": "KUNSTWERK",
-      "url": "https://open.spotify.com/track/46Qzl6GOYinCIvq3LbVugs"
     },
     {
       "added_at": "2025-12-19 15:28:24",

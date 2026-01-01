@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 261 likes - 3,824 songs - 8 day 10 hr 50 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 260 likes - 3,826 songs - 8 day 10 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -3832,5 +3832,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 3822 | [Carolina](https://open.spotify.com/track/3tmKJm7GurhO7gYpQHj2vJ) | [zrina](https://open.spotify.com/artist/1lNyFRu90mDAuRQlH88Ex3), [jfm](https://open.spotify.com/artist/5d1jlBU5YU3hNFJwmVTKR0) | [Carolina](https://open.spotify.com/album/16MLS4M1deA7XetqvCfZ3q) | 4:36 |
 | 3823 | [Youngstown](https://open.spotify.com/track/6YmLz8uBq0uX9HkYgLzUOe) | [Deezol](https://open.spotify.com/artist/5ujrYiJqMeAmMMpC22ZLPS), [Buddha Redd](https://open.spotify.com/artist/56zrjCjfufYRkjYSQibL1x) | [Temple of Boone](https://open.spotify.com/album/2xtXCyhGVuWq0acGmGrkES) | 2:54 |
 | 3824 | [December Fields \(Distribution\)](https://open.spotify.com/track/4bddpe4brO09lyHpE7lb9N) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [December Fields](https://open.spotify.com/album/2aRIUc4AfB3f7FKwqH7MZq) | 4:06 |
+| 3825 | [Kick In The Teeth](https://open.spotify.com/track/1a9VSlfqljmvA6eS8o8nIl) | [Hexe](https://open.spotify.com/artist/3WZaW8fkkvGju9kFx4FeoN) | [Kick In The Teeth](https://open.spotify.com/album/0qteBQwyHGA0xex6lcnZQe) | 3:39 |
+| 3826 | [Button](https://open.spotify.com/track/5cSbMYYSuPvQIs4TwqbuXO) | [Punch 11](https://open.spotify.com/artist/1LuxznMngBLfxBab8QSvI0) | [Alive And Well](https://open.spotify.com/album/40eg7z9ewjLTVTusesgx9V) | 3:15 |
 
-Snapshot ID: `AAAGf8aGapQKV0EuLU6vC5ELJRjuThzI`
+Snapshot ID: `AAAGgeRQ+lln/U3uDtgWUMF6HM3vnJyx`

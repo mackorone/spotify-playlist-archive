@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSQxGzwb8MDD.md) - [plain]
 
 > Monsters's favorite tracks\. Updated regularly\. Curated by Monster\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,099 likes - 95 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,105 likes - 95 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSQxGzwb8MDD.md) - [plain]
 | 6 | [While The Iron Is Hot](https://open.spotify.com/track/1X7mWyRXG0LYiWyjazlXBA) | [Hedchef](https://open.spotify.com/artist/3EuyJi2hleTh0jSRvyywdk) | [While The Iron Is Hot](https://open.spotify.com/album/3oOJCH0XQYNw3pbmeonxBl) | 5:32 |
 | 7 | [Giant Pier](https://open.spotify.com/track/3nkEymE6HTXId8P5l2g2yQ) | [Sobolik](https://open.spotify.com/artist/5OvcWzkDGzth4Jaw5n4Jqw) | [Heavy Eyes](https://open.spotify.com/album/6SOmhUyCbeT5c0xgz8FWw5) | 5:20 |
 | 8 | [Insolent Pleasure](https://open.spotify.com/track/2KBsEBCL9asMjKn3t3uYNr) | [NORA](https://open.spotify.com/artist/27ITClgUCIc7jbTZfp8Q4r) | [Insolent Pleasure](https://open.spotify.com/album/7p7B6pR1GGOlwz5pplwVye) | 4:42 |
-| 9 | [IRON LUNG](https://open.spotify.com/track/1O8Gt9Ki606weK51qMJph5) | [angels records](https://open.spotify.com/artist/1tro3K3NCGPjKJ1qz3o1Pt), [Ina Rush](https://open.spotify.com/artist/1SCNoqDkZ7k1Bzw6jKnEAC) | [PERREOTEK V](https://open.spotify.com/album/7g1wMHCSFb5kzrhHPiklVg) | 4:30 |
+| 9 | [IRON LUNG](https://open.spotify.com/track/1O8Gt9Ki606weK51qMJph5) | [angels records](https://open.spotify.com/artist/1tro3K3NCGPjKJ1qz3o1Pt), [INA RUSH](https://open.spotify.com/artist/5ajwJlxixG4GAFuN4bZeBI) | [PERREOTEK V](https://open.spotify.com/album/7g1wMHCSFb5kzrhHPiklVg) | 4:30 |
 | 10 | [U See B](https://open.spotify.com/track/4g7h38DmPnc4IjS930PQME) | [Siu Mata](https://open.spotify.com/artist/2WMLjK6jO6LHnOSqlNyabM), [SIM](https://open.spotify.com/artist/4NXLKOgrWuDglW3CAoEX9L) | [U See B](https://open.spotify.com/album/4M5Pq5G1OZMjw3jNiFvd6g) | 5:39 |
 | 11 | [We Need To Do Something About That Horse](https://open.spotify.com/track/0R7RCkr8V5XjMyYXJDz7jD) | [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [We Need To Do Something About That Horse](https://open.spotify.com/album/0bnPMv0O579GNX4yD6rqxS) | 3:56 |
 | 12 | [Falling Apart \- Clouds Remix](https://open.spotify.com/track/1vIhkb5ypKjiFPNvJD878Y) | [Randomer](https://open.spotify.com/artist/7K0WJzyqUNRhraNcsvJp1h), [Clouds](https://open.spotify.com/artist/3f0kobRhjLIHJna3UsEqim) | [Falling Apart](https://open.spotify.com/album/5oP25WUoknYb5zlV70bCl2) | 4:59 |

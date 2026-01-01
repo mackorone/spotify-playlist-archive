@@ -4,7 +4,7 @@
 
 > Dark noise to keep you sharp and focused during your study session.
 
-203 songs - 9 hr 15 min
+204 songs - 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,12 +156,13 @@
 | [Peaceful Darkness \- Black Noise](https://open.spotify.com/track/7AKssyLSWIQaWyZ1NQAgHn) | [Aurora Axis](https://open.spotify.com/artist/3RRxaE5sKbE6P7UdrSdGOM) | [Black Noise Tranquility](https://open.spotify.com/album/5ZsJGVGbXIjQ3uvEveCb7e) | 2:50 | 2023-07-06 | 2024-02-14 |
 | [Pitch Black Noise \- Seamless](https://open.spotify.com/track/3JlHTG4rOlMugwQBnbRts7) | [Slumbertronica](https://open.spotify.com/artist/3UOooFmP4gSx8I5fnj7dni) | [Pitch Black Noise](https://open.spotify.com/album/1dnYK5bNWVP8M9oGz8ZTQC) | 2:29 | 2023-06-01 |  |
 | [Placid Black Noise \- Seamless](https://open.spotify.com/track/53bFTZXzQF0Cyr1NT1r22h) | [Contented](https://open.spotify.com/artist/5MxzFMVa5rVuZ08lD4gDNP) | [Placid Black Noise](https://open.spotify.com/album/062LOMoeL90kizJiCxeVOS) | 2:27 | 2023-04-21 |  |
+| [Powerful Black Noise](https://open.spotify.com/track/2YJ4OXoqANHQf5Gs40S7Ov) | [Baby Memories](https://open.spotify.com/artist/1Tcr58kDfgSdnI3PCCDAP4) | [Powerful Black Noise](https://open.spotify.com/album/7371bPC9Dtp3pWw672QdBx) | 3:44 | 2025-12-19 |  |
 | [Precision Black Noise](https://open.spotify.com/track/1tu0CljjpVzkEsHEqbDUoh) | [Noyze Freq](https://open.spotify.com/artist/7jcF6NyCPOiSFrDsiBBPWl) | [Precision Black Noise](https://open.spotify.com/album/4dbKAwo7geHFOsNeMGOfS1) | 4:56 | 2023-12-05 | 2025-02-27 |
 | [R&R Black Noise](https://open.spotify.com/track/3WGLttQMsdyxzfkrzwGTwb) | [Linus Xio](https://open.spotify.com/artist/41Fdkp5EksVh44WCuZPioL) | [R&R Black Noise](https://open.spotify.com/album/7LIWQs0EVw7POmmq0yfRy2) | 3:50 | 2025-04-09 |  |
 | [Relaxing Black Noise](https://open.spotify.com/track/1xeezarRnmhQaG2P4GUGSQ) | [Black Noise Sleep](https://open.spotify.com/artist/5gnlBkStMHgnqjgbSYapI4), [Black Noise Loops](https://open.spotify.com/artist/0Q2hxC2pZhRThqgGjuU9gp) | [Black Noise Sleeping](https://open.spotify.com/album/26yzjC9wR53fDffpBr8BIh) | 1:10 | 2023-03-10 | 2023-04-22 |
 | [Relaxing Black Noise](https://open.spotify.com/track/4pjIbPnncl6elz81Yw7o9R) | [Black Noise Therapy](https://open.spotify.com/artist/0Ed5IDzdOfSHBxrbywgeiM), [Black Noise Loopable](https://open.spotify.com/artist/0AINnTX3ydWS5AaznVjfun) | [Black Noise Loopable](https://open.spotify.com/album/5LAys7inEAnAYgrqemR3CJ) | 2:09 | 2023-03-10 | 2023-04-22 |
 | [Relaxing Black Noise](https://open.spotify.com/track/6w1WwnWgkbTguF1jQBmFLB) | [Fabricants of Noise](https://open.spotify.com/artist/6rUkUd35nP2xoKO46sKPqs) | [Relaxing Black Noise](https://open.spotify.com/album/3fYR0hAFxWrJQzuHqQuRLP) | 2:13 | 2023-03-10 |  |
-| [Relaxing Black Noise](https://open.spotify.com/track/5CzMujCQaMoo8gTC4VR7Md) | [Four Elements Sounds](https://open.spotify.com/artist/4Kr2A3NlTrdeIQzpI5QODD) | [Healing Black Noise](https://open.spotify.com/album/1W59umcqmAWW0xYPU5v2ni) | 2:08 | 2023-06-01 |  |
+| [Relaxing Black Noise](https://open.spotify.com/track/5CzMujCQaMoo8gTC4VR7Md) | [Four Elements Sounds](https://open.spotify.com/artist/4Kr2A3NlTrdeIQzpI5QODD) | [Healing Black Noise](https://open.spotify.com/album/1W59umcqmAWW0xYPU5v2ni) | 2:08 | 2023-06-01 | 2026-01-01 |
 | [Relaxing Black Noise Sounds](https://open.spotify.com/track/4xOcZ6xjUvjpmNOUwPYx4t) | [Sleepness Orchestra](https://open.spotify.com/artist/0sW4js5qCxePw9lLfKdRTv) | [Relaxing Black Noise Sounds](https://open.spotify.com/album/06EObZqoiaNp8MNG22dNnp) | 2:32 | 2023-03-10 | 2023-09-09 |
 | [Relaxing Black Noise Waves](https://open.spotify.com/track/6NaJlg3pGN7B8bFHt6nePo) | [Sleep Sauce](https://open.spotify.com/artist/7MfD7bqyg0WTkai8yuFtH9) | [Black Noise Relaxing Waves](https://open.spotify.com/album/1rLk5sduKeryCRMExWxmGZ) | 3:03 | 2023-03-31 |  |
 | [Rested With Black Noise](https://open.spotify.com/track/5QubAzZM2TGhW4i85WzsWQ) | [Winding Down](https://open.spotify.com/artist/2a4mBYnXQQQrd94VnZilKX) | [Rested With Black Noise](https://open.spotify.com/album/0lWKh9nharNGwtYzpEnWaf) | 2:31 | 2023-04-21 | 2023-09-09 |

@@ -1,29 +1,13 @@
 {
   "description": "FurryRadio.com, made for furs, by furs. ",
-  "num_followers": 885,
+  "num_followers": 889,
   "original_name": "Furry Radio",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAEqL/lbQAWzYk1rACR23Iav/osfu9N",
+  "snapshot_id": "AAAEqUMBi/q/r6cVxpyNe3XxVyZtXvb/",
   "tracks": [
-    {
-      "added_at": "2025-12-29 06:55:45",
-      "album": {
-        "name": "Circles",
-        "url": "https://open.spotify.com/album/2jJrEDynU7xdr4mv1XqvjB"
-      },
-      "artists": [
-        {
-          "name": "Betu",
-          "url": "https://open.spotify.com/artist/0dYq8H010ccHgXjYBQtoq7"
-        }
-      ],
-      "duration_ms": 192845,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/6IAiYnT6M2OJUKdhCUaDwQ"
-    },
     {
       "added_at": "2025-12-27 13:26:49",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 227722,
       "name": "i'm now alone with our memories.",
       "url": "https://open.spotify.com/track/4LjHjdgEV3e9VNMLUStVLe"
+    },
+    {
+      "added_at": "2025-12-29 06:55:45",
+      "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/2jJrEDynU7xdr4mv1XqvjB"
+      },
+      "artists": [
+        {
+          "name": "Betu",
+          "url": "https://open.spotify.com/artist/0dYq8H010ccHgXjYBQtoq7"
+        }
+      ],
+      "duration_ms": 192845,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/6IAiYnT6M2OJUKdhCUaDwQ"
     },
     {
       "added_at": "2025-12-25 02:00:33",

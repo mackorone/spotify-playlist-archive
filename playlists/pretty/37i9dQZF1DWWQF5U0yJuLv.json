@@ -1,6 +1,6 @@
 {
   "description": "Glitch and giggle with these whimsically warped bouncy bops \ud83e\udd16",
-  "num_followers": 54811,
+  "num_followers": 54862,
   "original_name": "Quirktronica",
   "owner": {
     "name": "Spotify",
@@ -851,22 +851,6 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "Truffles Sprinkles",
-        "url": "https://open.spotify.com/album/1UtC4DLLQyHEFPHO7AM0hS"
-      },
-      "artists": [
-        {
-          "name": "Salamanda",
-          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
-        }
-      ],
-      "duration_ms": 251333,
-      "name": "Truffles Sprinkles",
-      "url": "https://open.spotify.com/track/6IcvrVg1YFoLGH6mcuZtZL"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
         "name": "BIPP (Autechre Mx)",
         "url": "https://open.spotify.com/album/6gbZRfEsgrddPqFXXf0rqk"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 213332,
       "name": "BIPP - Autechre Mx",
       "url": "https://open.spotify.com/track/4tBdLWvYYr5IjJpvwiZr85"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
+        "name": "Truffles Sprinkles",
+        "url": "https://open.spotify.com/album/1UtC4DLLQyHEFPHO7AM0hS"
+      },
+      "artists": [
+        {
+          "name": "Salamanda",
+          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
+        }
+      ],
+      "duration_ms": 251333,
+      "name": "Truffles Sprinkles",
+      "url": "https://open.spotify.com/track/6IcvrVg1YFoLGH6mcuZtZL"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "Trusted EP",
-        "url": "https://open.spotify.com/album/3fXh9MA7D3t2T4ir3R2tB9"
-      },
-      "artists": [
-        {
-          "name": "mach\u00ecna",
-          "url": "https://open.spotify.com/artist/0WOOrXTvgnjErVjsXSOOxn"
-        }
-      ],
-      "duration_ms": 194358,
-      "name": "Trusted",
-      "url": "https://open.spotify.com/track/0lX858dF2YgUxNEUcgN8Gi"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
         "name": "Candid",
         "url": "https://open.spotify.com/album/2dZ4PzloNP6kuApH6WRdK8"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 348947,
       "name": "Honsu",
       "url": "https://open.spotify.com/track/3JVOhIX4w5B1pxQWRuQ9Ay"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
+        "name": "Trusted EP",
+        "url": "https://open.spotify.com/album/3fXh9MA7D3t2T4ir3R2tB9"
+      },
+      "artists": [
+        {
+          "name": "mach\u00ecna",
+          "url": "https://open.spotify.com/artist/0WOOrXTvgnjErVjsXSOOxn"
+        }
+      ],
+      "duration_ms": 194358,
+      "name": "Trusted",
+      "url": "https://open.spotify.com/track/0lX858dF2YgUxNEUcgN8Gi"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "Twin Color (Extended Play No. 1)",
-        "url": "https://open.spotify.com/album/0fqGDzapdDVhkYbCD38se3"
-      },
-      "artists": [
-        {
-          "name": "Murcof",
-          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
-        }
-      ],
-      "duration_ms": 389625,
-      "name": "Tomorrow",
-      "url": "https://open.spotify.com/track/1lu4JpljcLFa6dRfkcRHsa"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
         "name": "Star City",
         "url": "https://open.spotify.com/album/7LEryTdY6kYDS0Pm3xTyrb"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 263630,
       "name": "Star City",
       "url": "https://open.spotify.com/track/4p6enMEejlz6hcigMPdNh6"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
+        "name": "Twin Color (Extended Play No. 1)",
+        "url": "https://open.spotify.com/album/0fqGDzapdDVhkYbCD38se3"
+      },
+      "artists": [
+        {
+          "name": "Murcof",
+          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
+        }
+      ],
+      "duration_ms": 389625,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/1lu4JpljcLFa6dRfkcRHsa"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
+        "name": "Body Riddle (Remastered)",
+        "url": "https://open.spotify.com/album/4bH9Kc6e6sRxGoMrX1NUup"
+      },
+      "artists": [
+        {
+          "name": "Clark",
+          "url": "https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta"
+        }
+      ],
+      "duration_ms": 174560,
+      "name": "Ted",
+      "url": "https://open.spotify.com/track/3IjaYRvTNhDP48KFGtBldN"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
         "name": "Sleep Through the Storm",
         "url": "https://open.spotify.com/album/3EFWBA9qmXMMwX48QdSOm7"
       },
@@ -1651,22 +1667,6 @@
       "duration_ms": 253701,
       "name": "Drunken Clouds",
       "url": "https://open.spotify.com/track/0JF3Ju6TpQjwnnH10B9kpu"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
-        "name": "Body Riddle (Remastered)",
-        "url": "https://open.spotify.com/album/4bH9Kc6e6sRxGoMrX1NUup"
-      },
-      "artists": [
-        {
-          "name": "Clark",
-          "url": "https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta"
-        }
-      ],
-      "duration_ms": 174560,
-      "name": "Ted",
-      "url": "https://open.spotify.com/track/3IjaYRvTNhDP48KFGtBldN"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -1819,6 +1819,22 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
+        "name": "Frutaria Electr\u200b\u00f3\u200bnica",
+        "url": "https://open.spotify.com/album/0OjFgKTNB0Ip1P5EdJnY23"
+      },
+      "artists": [
+        {
+          "name": "Misha Panfilov",
+          "url": "https://open.spotify.com/artist/2mLgv6MF6Te16Qv6VOqx5p"
+        }
+      ],
+      "duration_ms": 210007,
+      "name": "Journey to the Lemon Moon",
+      "url": "https://open.spotify.com/track/0fwylEIJLVpQH4WwI0E3Oy"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
         "name": "Nostalgia Por Mesoz\u00f3ica",
         "url": "https://open.spotify.com/album/3bikUiYkbZgJl1A2iabJp0"
       },
@@ -1835,22 +1851,6 @@
       "duration_ms": 169214,
       "name": "Muzak For Mesozoic Showreel",
       "url": "https://open.spotify.com/track/3SSrgHRP1Ok1BXZdOkgV0O"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
-        "name": "Frutaria Electr\u200b\u00f3\u200bnica",
-        "url": "https://open.spotify.com/album/0OjFgKTNB0Ip1P5EdJnY23"
-      },
-      "artists": [
-        {
-          "name": "Misha Panfilov",
-          "url": "https://open.spotify.com/artist/2mLgv6MF6Te16Qv6VOqx5p"
-        }
-      ],
-      "duration_ms": 210007,
-      "name": "Journey to the Lemon Moon",
-      "url": "https://open.spotify.com/track/0fwylEIJLVpQH4WwI0E3Oy"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "Meridians",
-        "url": "https://open.spotify.com/album/0F5Aw2ovWdzcW7by2vEToC"
-      },
-      "artists": [
-        {
-          "name": "Holly Waxwing",
-          "url": "https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv"
-        }
-      ],
-      "duration_ms": 304366,
-      "name": "Sister Species",
-      "url": "https://open.spotify.com/track/0xi81plszmA40tDw7cefN1"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
         "name": "Firstsun",
         "url": "https://open.spotify.com/album/0cCW4DkYaH4YHeDmnlYyKe"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 188802,
       "name": "STARS",
       "url": "https://open.spotify.com/track/0WSIufID4rzjlJaBneODBc"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
+        "name": "Meridians",
+        "url": "https://open.spotify.com/album/0F5Aw2ovWdzcW7by2vEToC"
+      },
+      "artists": [
+        {
+          "name": "Holly Waxwing",
+          "url": "https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv"
+        }
+      ],
+      "duration_ms": 304366,
+      "name": "Sister Species",
+      "url": "https://open.spotify.com/track/0xi81plszmA40tDw7cefN1"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -1983,22 +1983,6 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "Meridians",
-        "url": "https://open.spotify.com/album/0F5Aw2ovWdzcW7by2vEToC"
-      },
-      "artists": [
-        {
-          "name": "Holly Waxwing",
-          "url": "https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv"
-        }
-      ],
-      "duration_ms": 283289,
-      "name": "Meridians",
-      "url": "https://open.spotify.com/track/0iJDit15B3kgxEvuSEzqK5"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
         "name": "The Gone Away",
         "url": "https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv"
       },
@@ -2011,6 +1995,22 @@
       "duration_ms": 228289,
       "name": "Fol-de-rol",
       "url": "https://open.spotify.com/track/4RZqAPcXS3eTasFttfgi1J"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
+        "name": "Meridians",
+        "url": "https://open.spotify.com/album/0F5Aw2ovWdzcW7by2vEToC"
+      },
+      "artists": [
+        {
+          "name": "Holly Waxwing",
+          "url": "https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv"
+        }
+      ],
+      "duration_ms": 283289,
+      "name": "Meridians",
+      "url": "https://open.spotify.com/track/0iJDit15B3kgxEvuSEzqK5"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -2299,8 +2299,8 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "We Are Reasonable People",
-        "url": "https://open.spotify.com/album/2llsDTPNUbOw46ruEeGThR"
+        "name": "Music Has The Right To Children",
+        "url": "https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a"
       },
       "artists": [
         {
@@ -2308,9 +2308,9 @@
           "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
         }
       ],
-      "duration_ms": 291293,
-      "name": "Orange Romeda",
-      "url": "https://open.spotify.com/track/6vKJnXQ3k3BodEj0XXIt9T"
+      "duration_ms": 472520,
+      "name": "Happy Cycling",
+      "url": "https://open.spotify.com/track/6G4Iu30Hp9SHWQ1k2Fow7i"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -2387,8 +2387,8 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "Music Has The Right To Children",
-        "url": "https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a"
+        "name": "We Are Reasonable People",
+        "url": "https://open.spotify.com/album/2llsDTPNUbOw46ruEeGThR"
       },
       "artists": [
         {
@@ -2396,9 +2396,9 @@
           "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
         }
       ],
-      "duration_ms": 358080,
-      "name": "Aquarius",
-      "url": "https://open.spotify.com/track/4ZX7QjwBqZTelll7to0d5S"
+      "duration_ms": 291293,
+      "name": "Orange Romeda",
+      "url": "https://open.spotify.com/track/6vKJnXQ3k3BodEj0XXIt9T"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -2480,9 +2480,9 @@
           "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
         }
       ],
-      "duration_ms": 472520,
-      "name": "Happy Cycling",
-      "url": "https://open.spotify.com/track/6G4Iu30Hp9SHWQ1k2Fow7i"
+      "duration_ms": 358080,
+      "name": "Aquarius",
+      "url": "https://open.spotify.com/track/4ZX7QjwBqZTelll7to0d5S"
     },
     {
       "added_at": "2025-11-07 05:00:56",

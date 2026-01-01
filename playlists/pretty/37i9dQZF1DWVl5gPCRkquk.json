@@ -1,6 +1,6 @@
 {
   "description": "Channel some chilled-out back yard vibes.",
-  "num_followers": 1991968,
+  "num_followers": 1991746,
   "original_name": "Chill Folk",
   "owner": {
     "name": "Spotify",
@@ -723,6 +723,38 @@
     {
       "added_at": "2025-11-21 17:40:57",
       "album": {
+        "name": "Good Woman",
+        "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 216746,
+      "name": "Nothing\u2019s Gonna Happen",
+      "url": "https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk"
+    },
+    {
+      "added_at": "2025-11-21 17:40:57",
+      "album": {
+        "name": "Are You Happy Now?",
+        "url": "https://open.spotify.com/album/5NaLnnKsTGdzPuSZceQpa9"
+      },
+      "artists": [
+        {
+          "name": "Jensen McRae",
+          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
+        }
+      ],
+      "duration_ms": 199758,
+      "name": "Dead Girl Walking",
+      "url": "https://open.spotify.com/track/3yvfF8a3MEpoE58lrIARnX"
+    },
+    {
+      "added_at": "2025-11-21 17:40:57",
+      "album": {
         "name": "This Is Really Going To Hurt",
         "url": "https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0"
       },
@@ -751,38 +783,6 @@
       "duration_ms": 131999,
       "name": "Loving You Will Be The Death Of Me",
       "url": "https://open.spotify.com/track/2TpHdNgZWRCqmZ2iPG90fJ"
-    },
-    {
-      "added_at": "2025-11-21 17:40:57",
-      "album": {
-        "name": "Are You Happy Now?",
-        "url": "https://open.spotify.com/album/5NaLnnKsTGdzPuSZceQpa9"
-      },
-      "artists": [
-        {
-          "name": "Jensen McRae",
-          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
-        }
-      ],
-      "duration_ms": 199758,
-      "name": "Dead Girl Walking",
-      "url": "https://open.spotify.com/track/3yvfF8a3MEpoE58lrIARnX"
-    },
-    {
-      "added_at": "2025-11-21 17:40:57",
-      "album": {
-        "name": "Good Woman",
-        "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 216746,
-      "name": "Nothing\u2019s Gonna Happen",
-      "url": "https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk"
     },
     {
       "added_at": "2025-11-21 17:40:57",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2025-11-21 17:40:57",
       "album": {
-        "name": "The Day My Father Died",
-        "url": "https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 202466,
-      "name": "Tragic Magic",
-      "url": "https://open.spotify.com/track/6Dq4pM4zQWfqRxZxtZOFyt"
-    },
-    {
-      "added_at": "2025-11-21 17:40:57",
-      "album": {
         "name": "Barchords",
         "url": "https://open.spotify.com/album/753yeghJKIjYDaLbJB2ZW9"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 236720,
       "name": "Lost In The Light",
       "url": "https://open.spotify.com/track/25J4d78ESH2MgAJoIakB8O"
+    },
+    {
+      "added_at": "2025-11-21 17:40:57",
+      "album": {
+        "name": "The Day My Father Died",
+        "url": "https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 202466,
+      "name": "Tragic Magic",
+      "url": "https://open.spotify.com/track/6Dq4pM4zQWfqRxZxtZOFyt"
     },
     {
       "added_at": "2025-11-21 17:40:57",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2025-11-21 17:40:57",
       "album": {
-        "name": "How It Was It Will Never Be Again",
-        "url": "https://open.spotify.com/album/66OGNLjE72uZ8tKRqxyJZE"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 136980,
-      "name": "How It Was It Will Never Be Again",
-      "url": "https://open.spotify.com/track/3woSAwAhXte942SmXGdH9Q"
-    },
-    {
-      "added_at": "2025-11-21 17:40:57",
-      "album": {
         "name": "Room On Your Shoulder",
         "url": "https://open.spotify.com/album/6pzBe7o7zMyVbgd0j1p0va"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 206146,
       "name": "Room On Your Shoulder",
       "url": "https://open.spotify.com/track/5T6ZMk67Sk3gimfuY73tDA"
+    },
+    {
+      "added_at": "2025-11-21 17:40:57",
+      "album": {
+        "name": "How It Was It Will Never Be Again",
+        "url": "https://open.spotify.com/album/66OGNLjE72uZ8tKRqxyJZE"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 136980,
+      "name": "How It Was It Will Never Be Again",
+      "url": "https://open.spotify.com/track/3woSAwAhXte942SmXGdH9Q"
     },
     {
       "added_at": "2025-11-21 17:40:57",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2025-11-21 17:40:57",
       "album": {
+        "name": "Sugar For Bugs",
+        "url": "https://open.spotify.com/album/6ENuJHPuWUCIogsF4rNwaD"
+      },
+      "artists": [
+        {
+          "name": "The Army, The Navy",
+          "url": "https://open.spotify.com/artist/4MAnvDgzeM6bAVUVUbUeFI"
+        }
+      ],
+      "duration_ms": 229996,
+      "name": "Rascal",
+      "url": "https://open.spotify.com/track/3WqM0ZtRdYnvVct5kk9HCO"
+    },
+    {
+      "added_at": "2025-11-21 17:40:57",
+      "album": {
         "name": "For Sale Sign (feat. Lizzy McAlpine)",
         "url": "https://open.spotify.com/album/6Ew8bEDBgeYcl7wmyA2P1P"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 266666,
       "name": "For Sale Sign (feat. Lizzy McAlpine)",
       "url": "https://open.spotify.com/track/0WYip0MXpOGYvNH2h7q8ng"
-    },
-    {
-      "added_at": "2025-11-21 17:40:57",
-      "album": {
-        "name": "Sugar For Bugs",
-        "url": "https://open.spotify.com/album/6ENuJHPuWUCIogsF4rNwaD"
-      },
-      "artists": [
-        {
-          "name": "The Army, The Navy",
-          "url": "https://open.spotify.com/artist/4MAnvDgzeM6bAVUVUbUeFI"
-        }
-      ],
-      "duration_ms": 229996,
-      "name": "Rascal",
-      "url": "https://open.spotify.com/track/3WqM0ZtRdYnvVct5kk9HCO"
     },
     {
       "added_at": "2025-11-21 17:40:57",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2025-11-21 17:40:57",
       "album": {
-        "name": "Big Heart Manners",
-        "url": "https://open.spotify.com/album/1obci0e4UHEokoLkZzlQqI"
-      },
-      "artists": [
-        {
-          "name": "Atta Boy",
-          "url": "https://open.spotify.com/artist/3RcaUsjj5gt1x2QK3TSNS2"
-        }
-      ],
-      "duration_ms": 221289,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/4W6s22YsPYXdKpvf5yF6BG"
-    },
-    {
-      "added_at": "2025-11-21 17:40:57",
-      "album": {
         "name": "From The Valley",
         "url": "https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 163403,
       "name": "On Wrong Side (with Bon Iver)",
       "url": "https://open.spotify.com/track/1ZANsLH33oCf6ofTFT6HJy"
+    },
+    {
+      "added_at": "2025-11-21 17:40:57",
+      "album": {
+        "name": "Big Heart Manners",
+        "url": "https://open.spotify.com/album/1obci0e4UHEokoLkZzlQqI"
+      },
+      "artists": [
+        {
+          "name": "Atta Boy",
+          "url": "https://open.spotify.com/artist/3RcaUsjj5gt1x2QK3TSNS2"
+        }
+      ],
+      "duration_ms": 221289,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/4W6s22YsPYXdKpvf5yF6BG"
     },
     {
       "added_at": "2025-11-21 17:40:57",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2025-11-21 17:40:57",
       "album": {
-        "name": "Honey I'm Hardly",
-        "url": "https://open.spotify.com/album/3qqr9XxKeseTVFrlcPuxNF"
-      },
-      "artists": [
-        {
-          "name": "Oliver Hazard",
-          "url": "https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng"
-        }
-      ],
-      "duration_ms": 167733,
-      "name": "Honey I'm Hardly",
-      "url": "https://open.spotify.com/track/0SOuHPVyGL4CtXg6Q7QOMV"
-    },
-    {
-      "added_at": "2025-11-21 17:40:57",
-      "album": {
         "name": "Lie to Me",
         "url": "https://open.spotify.com/album/4FfQqWJbo7vCoC3oxz3k7E"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 205603,
       "name": "Lie to Me",
       "url": "https://open.spotify.com/track/76MCLNEw1AbrDjlprsoFkP"
+    },
+    {
+      "added_at": "2025-11-21 17:40:57",
+      "album": {
+        "name": "Honey I'm Hardly",
+        "url": "https://open.spotify.com/album/3qqr9XxKeseTVFrlcPuxNF"
+      },
+      "artists": [
+        {
+          "name": "Oliver Hazard",
+          "url": "https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng"
+        }
+      ],
+      "duration_ms": 167733,
+      "name": "Honey I'm Hardly",
+      "url": "https://open.spotify.com/track/0SOuHPVyGL4CtXg6Q7QOMV"
     },
     {
       "added_at": "2025-11-21 17:40:57",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2025-11-21 17:40:57",
       "album": {
-        "name": "I Fall in Love Too Easily",
-        "url": "https://open.spotify.com/album/6luCkMIM8Rouwu5HvExXgK"
-      },
-      "artists": [
-        {
-          "name": "Emily Brimlow",
-          "url": "https://open.spotify.com/artist/5ncA0WGi828yjhqmvHsJRj"
-        }
-      ],
-      "duration_ms": 220676,
-      "name": "I Fall in Love Too Easily",
-      "url": "https://open.spotify.com/track/5PIhu07aIrL1Z8sQBB7tNJ"
-    },
-    {
-      "added_at": "2025-11-21 17:40:57",
-      "album": {
         "name": "The Voyager",
         "url": "https://open.spotify.com/album/5sCsfubNchaI9RCpP7K7aB"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 210706,
       "name": "The Voyager",
       "url": "https://open.spotify.com/track/2jOBv78VYIGrvvmmSTTdkl"
+    },
+    {
+      "added_at": "2025-11-21 17:40:57",
+      "album": {
+        "name": "I Fall in Love Too Easily",
+        "url": "https://open.spotify.com/album/6luCkMIM8Rouwu5HvExXgK"
+      },
+      "artists": [
+        {
+          "name": "Emily Brimlow",
+          "url": "https://open.spotify.com/artist/5ncA0WGi828yjhqmvHsJRj"
+        }
+      ],
+      "duration_ms": 220676,
+      "name": "I Fall in Love Too Easily",
+      "url": "https://open.spotify.com/track/5PIhu07aIrL1Z8sQBB7tNJ"
     },
     {
       "added_at": "2025-11-21 17:40:57",
@@ -1655,18 +1655,18 @@
     {
       "added_at": "2025-11-21 17:40:57",
       "album": {
-        "name": "Breathing",
-        "url": "https://open.spotify.com/album/5wq15TYfzXlZMbVBGceVhV"
+        "name": "Fire Sign",
+        "url": "https://open.spotify.com/album/0BqQBhMGK7Wc9MuslsWsUf"
       },
       "artists": [
         {
-          "name": "Lila Dupont",
-          "url": "https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32"
+          "name": "S.G. Goodman",
+          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
         }
       ],
-      "duration_ms": 247450,
-      "name": "Breathing",
-      "url": "https://open.spotify.com/track/4c7QjLPvkrtvKFHlIBrXYl"
+      "duration_ms": 178594,
+      "name": "Fire Sign",
+      "url": "https://open.spotify.com/track/4lrIGxXMwApfERfnLiEnh5"
     }
   ],
   "unique_name": "Chill Folk",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 
 > This is BK\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,343 likes - 45 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,424 likes - 45 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 | 25 | [Amores, Vícios e Obsessões](https://open.spotify.com/track/4peu9YxoCAmkS52XNZV1mT) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW) | [Castelos & Ruínas](https://open.spotify.com/album/4PLPuHFM0cnpLLWYBCzuY9) | 3:14 |
 | 26 | [Não Me Abandona](https://open.spotify.com/track/1Mq3sx9w4o26tUt4ThimhY) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Skinny Beats](https://open.spotify.com/artist/0X7BxMRCyABTrHo168C09r), [MUC4](https://open.spotify.com/artist/45tpYMlsyruhEpOVf6rE8M) | [Eu Odeio o Dia dos Namorados](https://open.spotify.com/album/1Ij4W57fdHldgasZl7HYPu) | 3:23 |
 | 27 | [Antes dos Gigantes Chegarem](https://open.spotify.com/track/6Q2NfBPqVv0AVYGSHyG3gX) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [Juyè](https://open.spotify.com/artist/5QQhNWixMHMDwo3vlOcgxb), [Luccas Carlos](https://open.spotify.com/artist/6KA24IQsAVtlI34fSZR0Xa) | [Antes dos Gigantes Chegarem, Vol\. 2](https://open.spotify.com/album/2s8fQ4CCEtFzebalX0unvp) | 5:05 |
-| 28 | [Até Amanhã](https://open.spotify.com/track/1x7BCXFYMnQsZSf2Pnw6pd) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW) | [PRODUTO DO AMBIENTE](https://open.spotify.com/album/3OB3nqd1Vm38NSTT4gC1gN) | 3:09 |
+| 28 | [Sonho](https://open.spotify.com/track/7dkEjT5AI3rcFOidMqlpNU) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Paulo DK](https://open.spotify.com/artist/2Myk2DtqukZ93luvEncLEE) | [PRODUTO DO AMBIENTE](https://open.spotify.com/album/3OB3nqd1Vm38NSTT4gC1gN) | 3:46 |
 | 29 | [Vivendo Avançado](https://open.spotify.com/track/3J6cbUJfVq1veQECuq2v8G) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Mc Th](https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly), [Johnny Monteiro](https://open.spotify.com/artist/04t3iQpfOkTMQtH4LHmbMQ) | [Audaz](https://open.spotify.com/album/5qRuTVCxtZJ1HK0mdIUSAa) | 4:00 |
 | 30 | [Se eu não lembrar](https://open.spotify.com/track/7muDgXKZhU3qXR7ylkAXCq) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [Gigantes](https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe) | [ICARUS](https://open.spotify.com/album/1vNlE8yT5AAswQPy8jCHlV) | 3:57 |
 | 31 | [Regras da Loja](https://open.spotify.com/track/5myCkctRcnAwm01DRPMDOn) | [Nill](https://open.spotify.com/artist/2Ig1qV7rQGQtBWKa8mynIl), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [CrimeNow](https://open.spotify.com/artist/7DYmVajG3YuftFMOdBps1g) | [Lógos](https://open.spotify.com/album/0I2XCn1H6GV8griOfvPZeR) | 3:50 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 | 44 | [Quadros](https://open.spotify.com/track/4SOHLqfBQe0fdl1GtisjCb) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Luccas Carlos](https://open.spotify.com/artist/6KA24IQsAVtlI34fSZR0Xa), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [Ashira](https://open.spotify.com/artist/2ELyrHIXLmzYiuO2I99kct) | [Castelos & Ruínas](https://open.spotify.com/album/4PLPuHFM0cnpLLWYBCzuY9) | 5:09 |
 | 45 | [Castelos & Ruínas](https://open.spotify.com/track/5gfsiobWJXdalFzHPoM3x5) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55) | [Castelos & Ruínas](https://open.spotify.com/album/4PLPuHFM0cnpLLWYBCzuY9) | 4:09 |
 
-Snapshot ID: `aVHEgAAAAAB2VnDX5dwXK8mE9I8Vzau9`
+Snapshot ID: `aVMWAAAAAABd7KLnePYtUBIar7WROJtR`

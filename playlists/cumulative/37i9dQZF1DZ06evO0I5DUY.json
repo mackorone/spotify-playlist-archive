@@ -610,7 +610,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-01",
       "duration_ms": 162586,
       "name": "Jesus Malverde",
       "url": "https://open.spotify.com/track/17hw7UqbbBZrDhDlgXh5eK"
@@ -844,10 +844,28 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-01",
       "duration_ms": 178960,
       "name": "Los Dos Amigos",
       "url": "https://open.spotify.com/track/0uyv3AMPgus71YKJIwwA0W"
+    },
+    {
+      "album": {
+        "name": "4 Decadas de Exitos",
+        "url": "https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178960,
+      "name": "Los Dos Amigos",
+      "url": "https://open.spotify.com/track/4tKL8lQnwnh8vivyuu3EpI"
     },
     {
       "album": {
@@ -1140,6 +1158,24 @@
     {
       "album": {
         "name": "Los Dos Amigos",
+        "url": "https://open.spotify.com/album/6mqogWSSMI2ILayL4oJ73d"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183053,
+      "name": "Prenda Querida",
+      "url": "https://open.spotify.com/track/3bTaTy217RmxD0uJHQWcI2"
+    },
+    {
+      "album": {
+        "name": "Los Dos Amigos",
         "url": "https://open.spotify.com/album/5IultRVnA9S3zCoJ6Dyfbc"
       },
       "artists": [
@@ -1150,7 +1186,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-01",
       "duration_ms": 183053,
       "name": "Prenda Querida",
       "url": "https://open.spotify.com/track/7lCm29V5brfV81w1ytFwYZ"
@@ -1510,7 +1546,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-02",
+      "date_removed": null,
       "duration_ms": 140813,
       "name": "Ven a Buscarme",
       "url": "https://open.spotify.com/track/366vc0v9AUlaaptDDst1xn"

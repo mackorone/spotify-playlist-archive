@@ -2578,7 +2578,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-07",
+      "date_removed": null,
       "duration_ms": 232256,
       "name": "Allir Me\u00f0 (feat. Egill \u00d3lafsson)",
       "url": "https://open.spotify.com/track/23UrAQkpPDm0lyokbduSlN"
@@ -9436,7 +9436,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-01",
       "duration_ms": 198620,
       "name": "COM\u00cb N GO",
       "url": "https://open.spotify.com/track/2mNGL7mZILSqZHxGboJaO9"
@@ -12882,7 +12882,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-29",
+      "date_removed": null,
       "duration_ms": 238249,
       "name": "DUMBO",
       "url": "https://open.spotify.com/track/7y6RcmZyMDZ49yVupz7JdO"
@@ -18642,7 +18642,7 @@
       ],
       "date_added": "2022-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-04",
+      "date_removed": null,
       "duration_ms": 150558,
       "name": "Gaml\u00e1rspart\u00fd",
       "url": "https://open.spotify.com/track/1nDlmqGl5tLRGY1L0RB7EU"
@@ -18970,7 +18970,7 @@
       ],
       "date_added": "2024-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-16",
+      "date_removed": null,
       "duration_ms": 181695,
       "name": "Gemm\u00e9r Gemm\u00e9r",
       "url": "https://open.spotify.com/track/0q2TiBDwdGZ4B8g3M7dNuO"
@@ -19710,6 +19710,24 @@
       "duration_ms": 205013,
       "name": "Glow",
       "url": "https://open.spotify.com/track/6ticgfVI3MU2AoKQfk9JJn"
+    },
+    {
+      "album": {
+        "name": "Retro Stefson",
+        "url": "https://open.spotify.com/album/0U40G5SuX6r9tGcyoK47DK"
+      },
+      "artists": [
+        {
+          "name": "Retro Stefson",
+          "url": "https://open.spotify.com/artist/1OlAmFPx06UHVdg0BFJ4f4"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206750,
+      "name": "Glow",
+      "url": "https://open.spotify.com/track/50MQf2qePqbpB1pXO91wbf"
     },
     {
       "album": {
@@ -29200,7 +29218,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-01",
       "duration_ms": 213720,
       "name": "Leyndarm\u00e1l",
       "url": "https://open.spotify.com/track/1qQotEmOU1dyCYUlBKy9yP"
@@ -38898,7 +38916,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-01",
       "duration_ms": 168040,
       "name": "POPPSTIRNI",
       "url": "https://open.spotify.com/track/6BSGXVXtz8EMyyoSMcA1z8"
@@ -40100,6 +40118,24 @@
       "duration_ms": 309186,
       "name": "Qween",
       "url": "https://open.spotify.com/track/21FwE4G3mBTVn7NoBCcP8l"
+    },
+    {
+      "album": {
+        "name": "Retro Stefson",
+        "url": "https://open.spotify.com/album/0U40G5SuX6r9tGcyoK47DK"
+      },
+      "artists": [
+        {
+          "name": "Retro Stefson",
+          "url": "https://open.spotify.com/artist/1OlAmFPx06UHVdg0BFJ4f4"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310868,
+      "name": "Qween",
+      "url": "https://open.spotify.com/track/5nuMvgY4pXblLOvxyFDlxD"
     },
     {
       "album": {
@@ -44628,7 +44664,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-01",
       "duration_ms": 201688,
       "name": "Snj\u00f3korn falla",
       "url": "https://open.spotify.com/track/0YNjSwEcA9mZjyVqHppnMX"
@@ -46594,7 +46630,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-01",
       "duration_ms": 240106,
       "name": "Stingum Af",
       "url": "https://open.spotify.com/track/0yltFzTFI64tr5aNVc2isX"
@@ -59344,7 +59380,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-01",
       "duration_ms": 186357,
       "name": "\u00deessi T\u00fdp\u00edsku J\u00f3l",
       "url": "https://open.spotify.com/track/4LzdTeHlzU087CdQwqee9z"

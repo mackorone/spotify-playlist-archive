@@ -1,6 +1,6 @@
 {
   "description": "Really lovely songs.",
-  "num_followers": 234208,
+  "num_followers": 234212,
   "original_name": "The Lovely Little Playlist",
   "owner": {
     "name": "Spotify",
@@ -127,22 +127,6 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
-        "name": "Moon Music",
-        "url": "https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 240508,
-      "name": "JUPiTER",
-      "url": "https://open.spotify.com/track/3EbRbM7qyJq9qjRqDIwBTO"
-    },
-    {
-      "added_at": "2025-03-29 09:30:14",
-      "album": {
         "name": "Cannot Be, Whatsoever",
         "url": "https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 202226,
       "name": "Birdcage",
       "url": "https://open.spotify.com/track/1ulB5740qjdSila4Vjnb7Z"
+    },
+    {
+      "added_at": "2025-03-29 09:30:14",
+      "album": {
+        "name": "Moon Music",
+        "url": "https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 240508,
+      "name": "JUPiTER",
+      "url": "https://open.spotify.com/track/3EbRbM7qyJq9qjRqDIwBTO"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -275,22 +275,6 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
-        "name": "I Should Go (Solo Version)",
-        "url": "https://open.spotify.com/album/3d11dBT3l0OGHxHaOBr4nV"
-      },
-      "artists": [
-        {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
-        }
-      ],
-      "duration_ms": 151178,
-      "name": "I Should Go - Solo Version",
-      "url": "https://open.spotify.com/track/50kgovuPE9wDZ0hEynlssm"
-    },
-    {
-      "added_at": "2025-03-29 09:30:14",
-      "album": {
         "name": "Love Hate Music Box",
         "url": "https://open.spotify.com/album/2bOwdC37gg057sITTY8Ovj"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 181390,
       "name": "Meticulous",
       "url": "https://open.spotify.com/track/2WvsvWRHvcX3bZPiJwTwpy"
+    },
+    {
+      "added_at": "2025-03-29 09:30:14",
+      "album": {
+        "name": "I Should Go (Solo Version)",
+        "url": "https://open.spotify.com/album/3d11dBT3l0OGHxHaOBr4nV"
+      },
+      "artists": [
+        {
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+        }
+      ],
+      "duration_ms": 151178,
+      "name": "I Should Go - Solo Version",
+      "url": "https://open.spotify.com/track/50kgovuPE9wDZ0hEynlssm"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -487,22 +487,6 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
-        "name": "Worst Case Kid",
-        "url": "https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd"
-      },
-      "artists": [
-        {
-          "name": "Tommy Lefroy",
-          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
-        }
-      ],
-      "duration_ms": 152133,
-      "name": "Worst Case Kid",
-      "url": "https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN"
-    },
-    {
-      "added_at": "2025-03-29 09:30:14",
-      "album": {
         "name": "Mine Forever",
         "url": "https://open.spotify.com/album/5vPc0ab8XurwCozeAu1xp6"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 288283,
       "name": "Mine Forever",
       "url": "https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49"
+    },
+    {
+      "added_at": "2025-03-29 09:30:14",
+      "album": {
+        "name": "Worst Case Kid",
+        "url": "https://open.spotify.com/album/4x3VQ9ef3MvMB7hnZEBfcd"
+      },
+      "artists": [
+        {
+          "name": "Tommy Lefroy",
+          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
+        }
+      ],
+      "duration_ms": 152133,
+      "name": "Worst Case Kid",
+      "url": "https://open.spotify.com/track/55LDOljPVryLbJbHQKmSIN"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -763,22 +763,6 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
-        "name": "How Beautiful Life Can Be",
-        "url": "https://open.spotify.com/album/2vlmiZvKsLEMkbv17IM26Z"
-      },
-      "artists": [
-        {
-          "name": "The Lathums",
-          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
-        }
-      ],
-      "duration_ms": 150662,
-      "name": "How Beautiful Life Can Be - Single Version",
-      "url": "https://open.spotify.com/track/3GrRJRZabcEpKD1HI59nFK"
-    },
-    {
-      "added_at": "2025-03-29 09:30:14",
-      "album": {
         "name": "Lover (Don\u2019t Let Me Down)",
         "url": "https://open.spotify.com/album/6o73F8z9Ik02r09k3gIqPD"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 250794,
       "name": "Lover (Don't Let Me Down)",
       "url": "https://open.spotify.com/track/4tD2yU85sj8pjWPbsA3KDE"
+    },
+    {
+      "added_at": "2025-03-29 09:30:14",
+      "album": {
+        "name": "How Beautiful Life Can Be",
+        "url": "https://open.spotify.com/album/2vlmiZvKsLEMkbv17IM26Z"
+      },
+      "artists": [
+        {
+          "name": "The Lathums",
+          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
+        }
+      ],
+      "duration_ms": 150662,
+      "name": "How Beautiful Life Can Be - Single Version",
+      "url": "https://open.spotify.com/track/3GrRJRZabcEpKD1HI59nFK"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -895,22 +895,6 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
-        "name": "it's a landslide",
-        "url": "https://open.spotify.com/album/1Oc7fvNL3yxeXfLbYN17ER"
-      },
-      "artists": [
-        {
-          "name": "beaux",
-          "url": "https://open.spotify.com/artist/6aw3gb4KA0sfz1Vac4JNaj"
-        }
-      ],
-      "duration_ms": 159730,
-      "name": "it's a landslide",
-      "url": "https://open.spotify.com/track/0uOWwP2AQqdwNuXJHeuErG"
-    },
-    {
-      "added_at": "2025-03-29 09:30:14",
-      "album": {
         "name": "Me and My Friends",
         "url": "https://open.spotify.com/album/31ZCBDVcq70qoL7C7CUiAd"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 200000,
       "name": "Me and My Friends",
       "url": "https://open.spotify.com/track/7Bo8vjwc0qfdHeIixhHW6X"
+    },
+    {
+      "added_at": "2025-03-29 09:30:14",
+      "album": {
+        "name": "it's a landslide",
+        "url": "https://open.spotify.com/album/1Oc7fvNL3yxeXfLbYN17ER"
+      },
+      "artists": [
+        {
+          "name": "beaux",
+          "url": "https://open.spotify.com/artist/6aw3gb4KA0sfz1Vac4JNaj"
+        }
+      ],
+      "duration_ms": 159730,
+      "name": "it's a landslide",
+      "url": "https://open.spotify.com/track/0uOWwP2AQqdwNuXJHeuErG"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
-        "name": "Lost In A Rush Of Emptiness",
-        "url": "https://open.spotify.com/album/3EvUVXwaGNkeqinGICcGQU"
-      },
-      "artists": [
-        {
-          "name": "Bleach Lab",
-          "url": "https://open.spotify.com/artist/2B70zWgfCAGQ8o2ImS2bH8"
-        }
-      ],
-      "duration_ms": 282529,
-      "name": "Everything At Once",
-      "url": "https://open.spotify.com/track/1DjdeAcAT1ztBJBxI9VUFo"
-    },
-    {
-      "added_at": "2025-03-29 09:30:14",
-      "album": {
         "name": "Stay And Rest For A While",
         "url": "https://open.spotify.com/album/1bSl8vFRJFYjLppddo8VrL"
       },
@@ -1143,18 +1127,18 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
-        "name": "Let's Get Out Of This Country",
-        "url": "https://open.spotify.com/album/3NcGNYXKiHeygdXXL7czL1"
+        "name": "Lost In A Rush Of Emptiness",
+        "url": "https://open.spotify.com/album/3EvUVXwaGNkeqinGICcGQU"
       },
       "artists": [
         {
-          "name": "Camera Obscura",
-          "url": "https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt"
+          "name": "Bleach Lab",
+          "url": "https://open.spotify.com/artist/2B70zWgfCAGQ8o2ImS2bH8"
         }
       ],
-      "duration_ms": 231160,
-      "name": "Lloyd, I'm Ready To Be Heartbroken",
-      "url": "https://open.spotify.com/track/52PuLmsxTDOI2WAqpzYjoT"
+      "duration_ms": 282529,
+      "name": "Everything At Once",
+      "url": "https://open.spotify.com/track/1DjdeAcAT1ztBJBxI9VUFo"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -1211,6 +1195,22 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
+        "name": "Let's Get Out Of This Country",
+        "url": "https://open.spotify.com/album/3NcGNYXKiHeygdXXL7czL1"
+      },
+      "artists": [
+        {
+          "name": "Camera Obscura",
+          "url": "https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt"
+        }
+      ],
+      "duration_ms": 231160,
+      "name": "Lloyd, I'm Ready To Be Heartbroken",
+      "url": "https://open.spotify.com/track/52PuLmsxTDOI2WAqpzYjoT"
+    },
+    {
+      "added_at": "2025-03-29 09:30:14",
+      "album": {
         "name": "Manifest",
         "url": "https://open.spotify.com/album/3pmmi3IjlwZfKBoR3bMPbb"
       },
@@ -1263,18 +1263,22 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
-        "name": "James",
-        "url": "https://open.spotify.com/album/6JM7AstjOZRklwDS9LbEz1"
+        "name": "Reach Out / Olympus",
+        "url": "https://open.spotify.com/album/5cXWxz4WZUPtMIeSLK3HDL"
       },
       "artists": [
         {
-          "name": "Oscar and the Wolf",
-          "url": "https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV"
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        },
+        {
+          "name": "Angelo De Augustine",
+          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
         }
       ],
-      "duration_ms": 269268,
-      "name": "James",
-      "url": "https://open.spotify.com/track/5Cd4brIkLNzLJJUxugJA1X"
+      "duration_ms": 223344,
+      "name": "Reach Out",
+      "url": "https://open.spotify.com/track/5hVKXeJg1R9qGbrGW5eHNl"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -1295,22 +1299,34 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
-        "name": "Reach Out / Olympus",
-        "url": "https://open.spotify.com/album/5cXWxz4WZUPtMIeSLK3HDL"
+        "name": "James",
+        "url": "https://open.spotify.com/album/6JM7AstjOZRklwDS9LbEz1"
       },
       "artists": [
         {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        },
-        {
-          "name": "Angelo De Augustine",
-          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
+          "name": "Oscar and the Wolf",
+          "url": "https://open.spotify.com/artist/0dLWSYE7my9AbpQYNJ0ABV"
         }
       ],
-      "duration_ms": 223344,
-      "name": "Reach Out",
-      "url": "https://open.spotify.com/track/5hVKXeJg1R9qGbrGW5eHNl"
+      "duration_ms": 269268,
+      "name": "James",
+      "url": "https://open.spotify.com/track/5Cd4brIkLNzLJJUxugJA1X"
+    },
+    {
+      "added_at": "2025-03-29 09:30:14",
+      "album": {
+        "name": "The Dream",
+        "url": "https://open.spotify.com/album/62uhsuwFgWwv9us2Bbyrst"
+      },
+      "artists": [
+        {
+          "name": "Still Corners",
+          "url": "https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp"
+        }
+      ],
+      "duration_ms": 289800,
+      "name": "The Dream",
+      "url": "https://open.spotify.com/track/15s06QEvaFBz2WkAXNFHSL"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -1335,18 +1351,18 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
-        "name": "The Dream",
-        "url": "https://open.spotify.com/album/62uhsuwFgWwv9us2Bbyrst"
+        "name": "Don\u2019t Worry Baby",
+        "url": "https://open.spotify.com/album/6rgMgx4hIKvIuJHgxGgVfP"
       },
       "artists": [
         {
-          "name": "Still Corners",
-          "url": "https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp"
+          "name": "She & Him",
+          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
         }
       ],
-      "duration_ms": 289800,
-      "name": "The Dream",
-      "url": "https://open.spotify.com/track/15s06QEvaFBz2WkAXNFHSL"
+      "duration_ms": 203786,
+      "name": "Don\u2019t Worry Baby",
+      "url": "https://open.spotify.com/track/7rVlBTbthZ4k2kr423Mxhn"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -1363,22 +1379,6 @@
       "duration_ms": 195526,
       "name": "White Noise",
       "url": "https://open.spotify.com/track/2xymlcjKK97wANhHfuDacD"
-    },
-    {
-      "added_at": "2025-03-29 09:30:14",
-      "album": {
-        "name": "Don\u2019t Worry Baby",
-        "url": "https://open.spotify.com/album/6rgMgx4hIKvIuJHgxGgVfP"
-      },
-      "artists": [
-        {
-          "name": "She & Him",
-          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
-        }
-      ],
-      "duration_ms": 203786,
-      "name": "Don\u2019t Worry Baby",
-      "url": "https://open.spotify.com/track/7rVlBTbthZ4k2kr423Mxhn"
     },
     {
       "added_at": "2025-03-29 09:30:14",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2025-03-29 09:30:14",
       "album": {
-        "name": "What's Dead and Gone",
-        "url": "https://open.spotify.com/album/7tlucLp6G0DquihSIwYbai"
-      },
-      "artists": [
-        {
-          "name": "Liang Lawrence",
-          "url": "https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "Backseat",
-      "url": "https://open.spotify.com/track/5ll8LtJvNBmtrCcqlPb9jy"
-    },
-    {
-      "added_at": "2025-03-29 09:30:14",
-      "album": {
         "name": "Villain",
         "url": "https://open.spotify.com/album/5h89X4sxa7SXWZ7EbB5YAD"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 270520,
       "name": "Villain",
       "url": "https://open.spotify.com/track/1U6zdjZowXrmoq7mutrCra"
+    },
+    {
+      "added_at": "2025-03-29 09:30:14",
+      "album": {
+        "name": "What's Dead and Gone",
+        "url": "https://open.spotify.com/album/7tlucLp6G0DquihSIwYbai"
+      },
+      "artists": [
+        {
+          "name": "Liang Lawrence",
+          "url": "https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Backseat",
+      "url": "https://open.spotify.com/track/5ll8LtJvNBmtrCcqlPb9jy"
     },
     {
       "added_at": "2025-03-29 09:30:14",

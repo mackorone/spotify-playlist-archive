@@ -1,12 +1,12 @@
 {
   "description": "This is St. Vincent. The essential tracks, all in one playlist.",
-  "num_followers": 55523,
+  "num_followers": 55524,
   "original_name": "This Is St. Vincent",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVHEgAAAAABXZG31ZrcgW1G2nmQdi9cj",
+  "snapshot_id": "aVMWAAAAAACOY44aHecmHgykHBH2YzQT",
   "tracks": [
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 257746,
-      "name": "\u2026At The Holiday Party",
-      "url": "https://open.spotify.com/track/5LvNPnYoZA1XCMgUGgAges"
+      "duration_ms": 183880,
+      "name": "Pay Your Way In Pain",
+      "url": "https://open.spotify.com/track/1nLaoWVhNRZ38irY0LZjL6"
     },
     {
       "added_at": null,
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 183880,
-      "name": "Pay Your Way In Pain",
-      "url": "https://open.spotify.com/track/1nLaoWVhNRZ38irY0LZjL6"
+      "duration_ms": 257746,
+      "name": "\u2026At The Holiday Party",
+      "url": "https://open.spotify.com/track/5LvNPnYoZA1XCMgUGgAges"
     },
     {
       "added_at": null,
@@ -543,8 +543,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Actor",
-        "url": "https://open.spotify.com/album/62O4QjMzIBjilnRYrAI7oX"
+        "name": "Strange Mercy",
+        "url": "https://open.spotify.com/album/5x7cI8aHmaqk03KKl1Auh1"
       },
       "artists": [
         {
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 181733,
-      "name": "Laughing with a Mouth of Blood",
-      "url": "https://open.spotify.com/track/4KCAFbz0kqjE3XeaPD81bB"
+      "duration_ms": 268506,
+      "name": "Strange Mercy",
+      "url": "https://open.spotify.com/track/3K7oZLuftr5MQdrWQJWzrr"
     },
     {
       "added_at": null,
@@ -591,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Actor",
+        "url": "https://open.spotify.com/album/62O4QjMzIBjilnRYrAI7oX"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 181733,
+      "name": "Laughing with a Mouth of Blood",
+      "url": "https://open.spotify.com/track/4KCAFbz0kqjE3XeaPD81bB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Strange Mercy",
         "url": "https://open.spotify.com/album/5x7cI8aHmaqk03KKl1Auh1"
       },
@@ -623,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "St. Vincent (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2FtneRtIF1I5HPBsIxSqf0"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 214653,
-      "name": "Rattlesnake",
-      "url": "https://open.spotify.com/track/3fIotQ6HWB2zLhpnOs6Tl6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Daddy's Home",
         "url": "https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM"
       },
@@ -651,38 +651,6 @@
       "duration_ms": 206426,
       "name": "Down",
       "url": "https://open.spotify.com/track/3JS3K4Kw0xnhDRsPG9kUph"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Strange Mercy",
-        "url": "https://open.spotify.com/album/5x7cI8aHmaqk03KKl1Auh1"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 268506,
-      "name": "Strange Mercy",
-      "url": "https://open.spotify.com/track/3K7oZLuftr5MQdrWQJWzrr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Actor",
-        "url": "https://open.spotify.com/album/62O4QjMzIBjilnRYrAI7oX"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 245040,
-      "name": "The Party",
-      "url": "https://open.spotify.com/track/4bRCh7SD8irSL85Bg2XYpg"
     },
     {
       "added_at": null,
@@ -703,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Daddy's Home",
-        "url": "https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 200426,
-      "name": "My Baby Wants A Baby",
-      "url": "https://open.spotify.com/track/4YrYuylaABLjyyl2Bw5tkG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Strange Mercy",
         "url": "https://open.spotify.com/album/5x7cI8aHmaqk03KKl1Auh1"
       },
@@ -735,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Nowhere Inn",
-        "url": "https://open.spotify.com/album/1jfLCbkowa2O8Wq52mo61d"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 33453,
-      "name": "Carrie Voicemail",
-      "url": "https://open.spotify.com/track/7I3vnN7JkrJEiTtuoXGKoo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Actor",
         "url": "https://open.spotify.com/album/62O4QjMzIBjilnRYrAI7oX"
       },
@@ -760,9 +696,41 @@
           "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
         }
       ],
-      "duration_ms": 135040,
-      "name": "Actor Out of Work",
-      "url": "https://open.spotify.com/track/6IYalCW21Yic9MkNfH0MiL"
+      "duration_ms": 245040,
+      "name": "The Party",
+      "url": "https://open.spotify.com/track/4bRCh7SD8irSL85Bg2XYpg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Daddy's Home",
+        "url": "https://open.spotify.com/album/654KFpNOZ26Hj9luu7aKeM"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 200426,
+      "name": "My Baby Wants A Baby",
+      "url": "https://open.spotify.com/track/4YrYuylaABLjyyl2Bw5tkG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "St. Vincent (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2FtneRtIF1I5HPBsIxSqf0"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 214653,
+      "name": "Rattlesnake",
+      "url": "https://open.spotify.com/track/3fIotQ6HWB2zLhpnOs6Tl6"
     },
     {
       "added_at": null,
@@ -787,6 +755,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Actor",
+        "url": "https://open.spotify.com/album/62O4QjMzIBjilnRYrAI7oX"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 135040,
+      "name": "Actor Out of Work",
+      "url": "https://open.spotify.com/track/6IYalCW21Yic9MkNfH0MiL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Nowhere Inn",
+        "url": "https://open.spotify.com/album/1jfLCbkowa2O8Wq52mo61d"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 33453,
+      "name": "Carrie Voicemail",
+      "url": "https://open.spotify.com/track/7I3vnN7JkrJEiTtuoXGKoo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "St. Vincent (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2FtneRtIF1I5HPBsIxSqf0"
       },
@@ -799,6 +799,26 @@
       "duration_ms": 201760,
       "name": "Regret",
       "url": "https://open.spotify.com/track/2OCus0BsjJFo7E2TSAGnIe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love This Giant",
+        "url": "https://open.spotify.com/album/4Pu1Qeg26ACk8ZH00bk3Q4"
+      },
+      "artists": [
+        {
+          "name": "David Byrne",
+          "url": "https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB"
+        },
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 222986,
+      "name": "Dinner for Two",
+      "url": "https://open.spotify.com/track/5cu7cJCwwfP9dNFuLnsH7L"
     },
     {
       "added_at": null,
@@ -831,26 +851,6 @@
       "duration_ms": 227826,
       "name": "All My Stars Aligned",
       "url": "https://open.spotify.com/track/3wOaJ2wFbkGOOzhvGAgwLX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love This Giant",
-        "url": "https://open.spotify.com/album/4Pu1Qeg26ACk8ZH00bk3Q4"
-      },
-      "artists": [
-        {
-          "name": "David Byrne",
-          "url": "https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB"
-        },
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 222986,
-      "name": "Dinner for Two",
-      "url": "https://open.spotify.com/track/5cu7cJCwwfP9dNFuLnsH7L"
     }
   ],
   "unique_name": "This Is St. Vincent",

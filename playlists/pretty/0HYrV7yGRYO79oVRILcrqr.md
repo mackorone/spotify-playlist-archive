@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,656 likes - 60 songs - 3 hr 48 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,658 likes - 66 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,5 +68,11 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 58 | [Goblin Knight](https://open.spotify.com/track/2ubz5puXCEXgeyk0xIj4lC) | [Digiplayer.13](https://open.spotify.com/artist/32yRrtY4Az7zXL2a2nf9gk), [Zona.13](https://open.spotify.com/artist/5bRr4E3eT9fn7FGxK730YU), [Twilight.13](https://open.spotify.com/artist/4N1jpZDATwsCAU75B8Bh99) | [Goblin Knight](https://open.spotify.com/album/0i6ImkD3jN1XI1Iw0OvcJK) | 2:53 |
 | 59 | [Run Run Rudolf](https://open.spotify.com/track/2DOb4zdUX9Y2i82w2M0g2Y) | [Amelina](https://open.spotify.com/artist/2KB8CcoEbyUA0hP58619Iu) | [Season of Joy](https://open.spotify.com/album/7eu9Q8J8RkTsB2NwbrhL94) | 2:26 |
 | 60 | [Caminhos de Paz](https://open.spotify.com/track/0S28V1639JxeR58ByJYUF8) | [De Santtis](https://open.spotify.com/artist/2HnzHLy6N3v8egi2chpYmN) | [Caminhos de Paz](https://open.spotify.com/album/1HgyvbF4rQJ3pvO4IGqVFM) | 3:38 |
+| 61 | [Chasing Yesterday](https://open.spotify.com/track/3pke4JWohWzavXdgJe0wR4) | [FuzzBeat](https://open.spotify.com/artist/3tlQEPigCWjJl4mCY97UYV) | [Chasing Yesterday](https://open.spotify.com/album/2bZ7Mt7GGbp1cB0K355wDw) | 3:20 |
+| 62 | [Castaway](https://open.spotify.com/track/7oEXp5pzlZIGafGaAM3ibD) | [James Sebastian](https://open.spotify.com/artist/6IX76Xz04QnJdDtcDIfoD6) | [Castaway](https://open.spotify.com/album/5omwhRrrco9U57TmhEu1D9) | 3:49 |
+| 63 | [No One Will Make Me Cry](https://open.spotify.com/track/204IN6VlOhwU1v3EwmNJ29) | [Now or Never](https://open.spotify.com/artist/4wxoXPL3DZPq9MpUVQoqsl) | [The Legacy](https://open.spotify.com/album/5qDS2VjyIVxoyXrp1FvJCr) | 3:29 |
+| 64 | [And so It Goes](https://open.spotify.com/track/63Se5wwHJtZyr4aEb3WZn2) | [Erik Knear](https://open.spotify.com/artist/4cqX5xi0OBk2rvpwhq8gLV) | [Melodia: Ch.5\-6](https://open.spotify.com/album/2hQrBV27jVEfYnFkAaGLiO) | 3:38 |
+| 65 | [Sons of Gondor](https://open.spotify.com/track/6hqcv7K8f3QaoQF8acXZMP) | [Echoes & Wine](https://open.spotify.com/artist/3CETJ19bzJyAxO7Alv7Xp7) | [Sons of Gondor](https://open.spotify.com/album/79niMGbAoMuNwF4iJS2idh) | 4:47 |
+| 66 | [Let's Do It Again](https://open.spotify.com/track/0tZ9lz19MPyCJDlOQ078NO) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Let's Do It Again](https://open.spotify.com/album/5cfYAyMa2BN1b8yup5F6TL) | 4:28 |
 
-Snapshot ID: `AAAKTVtViMh5PqzJFEBlQ4kK+z9Iugjf`
+Snapshot ID: `AAAKUywsNLdnFqy+p8mPyFe0GAtF9Mbh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93wmY669mVj.md) - [plain]
 
 > Explore the music of Franz Liszt.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,171 likes - 65 songs - 9 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,199 likes - 65 songs - 9 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX93wmY669mVj.md) - [plain]
 | 64 | [Ce qu'on entend sur la montagne \(What Is Heard on the Mountain\), S\. 95/R\. 412](https://open.spotify.com/track/5JOHwJI2Lx7NqWyoozm4Y4) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [New Zealand Symphony Orchestra](https://open.spotify.com/artist/5ZvFgRwyPK2Qf4TmSLTtfM), [Michael Halasz](https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6) | [Liszt: Symphonic Poems, Vol\. 3](https://open.spotify.com/album/3OjAEpCdZ3z0Ur21aXoxK9) | 29:11 |
 | 65 | [Unstern! \-Sinistre , S208](https://open.spotify.com/track/0N4sQWENULr0EHhYWDfRw1) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Pierre\-Laurent Aimard](https://open.spotify.com/artist/0wy0KtAlsZ59mEgtmEjuUk) | [The Liszt Project \- Bartók; Berg; Messiaen; Ravel; Scriabin; Stroppa; Wagner](https://open.spotify.com/album/3RgXHfxrJinj7TJEK2zjeM) | 6:03 |
 
-Snapshot ID: `AAAAAN6uCOMs6UrHp96WF65CS33yPjp8`
+Snapshot ID: `AAAAAAiRkczn6hD2sjbeDoTpo51z47se`

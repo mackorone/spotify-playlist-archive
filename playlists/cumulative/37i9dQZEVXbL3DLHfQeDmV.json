@@ -1756,7 +1756,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-31",
+      "date_removed": null,
       "duration_ms": 362400,
       "name": "Gehra Hua",
       "url": "https://open.spotify.com/track/5MCbGWnNLLjoHpbDO3BOgi"
@@ -1786,7 +1786,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-01",
       "duration_ms": 362400,
       "name": "Gehra Hua (From \"Dhurandhar\")",
       "url": "https://open.spotify.com/track/72EW32eRMEnrHY4ZJf2Z96"
@@ -2746,6 +2746,24 @@
       "duration_ms": 106860,
       "name": "I Want Things to Be Beautiful",
       "url": "https://open.spotify.com/track/2o4kFMrOGhXwdpKd2ZUaKs"
+    },
+    {
+      "album": {
+        "name": "Apologies to the Queen Mary",
+        "url": "https://open.spotify.com/album/6ZeO3WNF2Gti8ZQnXog5SQ"
+      },
+      "artists": [
+        {
+          "name": "Wolf Parade",
+          "url": "https://open.spotify.com/artist/0XSqX2PB3C5dTMv7SZaxSm"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276613,
+      "name": "I'll Believe in Anything",
+      "url": "https://open.spotify.com/track/7zxikeAavSLQVGocbK2nau"
     },
     {
       "album": {
@@ -4639,6 +4657,24 @@
     },
     {
       "album": {
+        "name": "Restless",
+        "url": "https://open.spotify.com/album/3qVPWXNRQol9jACnhVrLVk"
+      },
+      "artists": [
+        {
+          "name": "untitled",
+          "url": "https://open.spotify.com/artist/1y7Pp7kmnCxZ61qjiLzzYx"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173683,
+      "name": "Restless",
+      "url": "https://open.spotify.com/track/51KaHmxJMv3AdbLohb6woO"
+    },
+    {
+      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa"
       },
@@ -4940,7 +4976,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-01",
       "duration_ms": 180963,
       "name": "Sisqo Thong Song - 1950s Motown Cover Choir Version",
       "url": "https://open.spotify.com/track/5gHTiZMtdx33uaJdFpa6ja"
@@ -5608,7 +5644,7 @@
       ],
       "date_added": "2025-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-01",
       "duration_ms": 272506,
       "name": "The Road to Hell, Pt. II - 2019 Remaster",
       "url": "https://open.spotify.com/track/4EnKWWf3YhlQc4J1iENf4c"
@@ -5782,6 +5818,24 @@
       "duration_ms": 196560,
       "name": "This Is Halloween",
       "url": "https://open.spotify.com/track/3mhsDyQpX2L8sJMdWUHOi3"
+    },
+    {
+      "album": {
+        "name": "Thong Song",
+        "url": "https://open.spotify.com/album/0eQlpC6WQL54WMvWz8LmQu"
+      },
+      "artists": [
+        {
+          "name": "Unjaps",
+          "url": "https://open.spotify.com/artist/4GK74dyUdNHHeQv4bQOpZi"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180966,
+      "name": "Thong Song",
+      "url": "https://open.spotify.com/track/7n8k3HG3oMuvrH4ZDTgG1l"
     },
     {
       "album": {
@@ -6382,7 +6436,7 @@
       ],
       "date_added": "2025-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-01",
       "duration_ms": 165457,
       "name": "Wintering",
       "url": "https://open.spotify.com/track/2bDcAgInBIJilki3Y9RpHl"

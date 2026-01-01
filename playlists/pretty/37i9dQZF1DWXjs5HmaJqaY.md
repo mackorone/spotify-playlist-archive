@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjs5HmaJqaY.md) - [plain]
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,839 likes - 67 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,022 likes - 67 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjs5HmaJqaY.md) - [plain]
 | 66 | [Flockentanz \- 2024 Remake](https://open.spotify.com/track/07iPWNVMyNWK9LF5tT6LWO) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Flockentanz Remixes](https://open.spotify.com/album/3yF9V62Qh45yKNX416mef3) | 8:00 |
 | 67 | [The House Of House \- Original Remastered Mix](https://open.spotify.com/track/28RwoHEeQbQn4VYZb1ezTZ) | [Cherrymoon Trax](https://open.spotify.com/artist/61LAVgfVbkRLgNHEDveOyh) | [20 Years Bonzai](https://open.spotify.com/album/2SGPVcsd9IoDoY4Cmea0Vx) | 7:35 |
 
-Snapshot ID: `AAAAAEDiGe91+cqoHQL4SQRHsrgL68bl`
+Snapshot ID: `AAAAAMaHT2emphEHMqHyXLdDNCckyZ4w`

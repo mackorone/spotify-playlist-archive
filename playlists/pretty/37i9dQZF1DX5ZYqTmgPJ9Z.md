@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ZYqTmgPJ9Z.md) - [plain]
 
 > Grab a drink and let us help you see off the evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,644 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,699 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ZYqTmgPJ9Z.md) - [plain]
 | 31 | [Not Today](https://open.spotify.com/track/0La1VlmPQNwvTyJD3qIxGL) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Perak](https://open.spotify.com/album/5FdHePoYyJiUsjG0ownNbb) | 3:06 |
 | 32 | [S3NS](https://open.spotify.com/track/67T58XZZvKtjfzUd8rvedH) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb) | [S3NS](https://open.spotify.com/album/1XWCws077Z4B9SwwUzOAfo) | 4:59 |
 | 33 | [All on My Mind \- Acoustic](https://open.spotify.com/track/4piJ8pnoRvC5sqMEpbH0FA) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [All on My Mind \(Acoustic\)](https://open.spotify.com/album/7tz2tP0MyzjpNg13tgRyx9) | 3:49 |
-| 34 | [Deeper Dark](https://open.spotify.com/track/3cvKUJL7vSRgV5cWh7czXW) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Deeper Dark](https://open.spotify.com/album/6W9FWE4TcPOa3cdIk6F7ny) | 3:09 |
+| 34 | [Too Much to Ask](https://open.spotify.com/track/3HZdXuLPyLlSYLImD4z7V8) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [Little Ghost](https://open.spotify.com/album/0qsZRpvWYP6fkuosOaGo0D) | 3:47 |
 | 35 | [Favourite Kind Of Girl](https://open.spotify.com/track/0dnEIYy2AhUkLO7JIjaF0O) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Flikka](https://open.spotify.com/artist/58NhC3elOj4PRVbqDviKJc) | [Favourite Kind Of Girl](https://open.spotify.com/album/7qtJSgzNGaSIxNWaL4aTxo) | 4:37 |
-| 36 | [Too Much to Ask](https://open.spotify.com/track/3HZdXuLPyLlSYLImD4z7V8) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [Little Ghost](https://open.spotify.com/album/0qsZRpvWYP6fkuosOaGo0D) | 3:47 |
+| 36 | [Deeper Dark](https://open.spotify.com/track/3cvKUJL7vSRgV5cWh7czXW) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Deeper Dark](https://open.spotify.com/album/6W9FWE4TcPOa3cdIk6F7ny) | 3:09 |
 | 37 | [San Francisco](https://open.spotify.com/track/3feeie7zGnbvZhas2XFYtc) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/2VXeD0hKkY9i8TyGb0chVi) | 4:48 |
 | 38 | [Ready When You Are](https://open.spotify.com/track/6YdWqo5fvo8VXRcELskCfK) | [Mathilda Homer](https://open.spotify.com/artist/0uwGk8b2zINQFSKiLbK50Y), [Isaac Waddington](https://open.spotify.com/artist/4ebKlOJFmoNuBQLKSEGDuH) | [Ready When You Are](https://open.spotify.com/album/47sSqdqjxUwfqhfW6nNpdI) | 2:58 |
 | 39 | [What Does It Mean](https://open.spotify.com/track/0IN8eaLhkaKDOcskjZy8d4) | [Sarah Meth](https://open.spotify.com/artist/2cveuRnx0cbS41GQTBcuRz) | [What Does It Mean](https://open.spotify.com/album/1Ydw1TK4gP6zPpnD3qkOKc) | 3:49 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ZYqTmgPJ9Z.md) - [plain]
 | 53 | [Gone](https://open.spotify.com/track/1BLh2xpBv9IshkzMTsgkIm) | [Jasmine Oakley](https://open.spotify.com/artist/4PmfCgJPpLBtDbi5PY1ytL) | [Gone](https://open.spotify.com/album/5oynNGKQpgYInscV7mbP5K) | 3:46 |
 | 54 | [Slowly](https://open.spotify.com/track/4kbljXIclSHAVeLW18iXXZ) | [Jack Page](https://open.spotify.com/artist/35XvTmV3nJa6fXZJqITASs) | [Slowly](https://open.spotify.com/album/3jZdEB70bvtAQRjN8mzRWE) | 3:13 |
 | 55 | [Lost](https://open.spotify.com/track/3tklDxHjsNDIMlPjHbUQ4R) | [Arjuna Oakes](https://open.spotify.com/artist/724Bei6TsAHJYvnLHGdEAF) | [Lost](https://open.spotify.com/album/7BmwUvHlY5PhqSJaV3kwLg) | 3:12 |
-| 56 | [No Good For Me](https://open.spotify.com/track/21GyQmCgz28fic7F5PoYTB) | [Joseph Lawrence](https://open.spotify.com/artist/69XFaEPeBh41fbWxQMD8X4) | [No Good For Me](https://open.spotify.com/album/7oEjRlVoheANCN72tlbYgS) | 4:42 |
-| 57 | [Cheap Cigars](https://open.spotify.com/track/1sD3PbQ5ApyKr5wRf6XKwe) | [The Silhouettes Project](https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw), [Tertia May](https://open.spotify.com/artist/2l5D9yWJD8XtjzTMCKUown), [illiterate](https://open.spotify.com/artist/6E7vMajFG2d1j5RrUwdTDR), [Hutch](https://open.spotify.com/artist/26g14QVzVafjroNKzHuCBB) | [Cheap Cigars](https://open.spotify.com/album/0iP1nil4QmnjMRPLPG2bkx) | 3:19 |
+| 56 | [Cheap Cigars](https://open.spotify.com/track/1sD3PbQ5ApyKr5wRf6XKwe) | [The Silhouettes Project](https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw), [Tertia May](https://open.spotify.com/artist/2l5D9yWJD8XtjzTMCKUown), [illiterate](https://open.spotify.com/artist/6E7vMajFG2d1j5RrUwdTDR), [Hutch](https://open.spotify.com/artist/26g14QVzVafjroNKzHuCBB) | [Cheap Cigars](https://open.spotify.com/album/0iP1nil4QmnjMRPLPG2bkx) | 3:19 |
+| 57 | [No Good For Me](https://open.spotify.com/track/21GyQmCgz28fic7F5PoYTB) | [Joseph Lawrence](https://open.spotify.com/artist/69XFaEPeBh41fbWxQMD8X4) | [No Good For Me](https://open.spotify.com/album/7oEjRlVoheANCN72tlbYgS) | 4:42 |
 | 58 | [Eye to Eye](https://open.spotify.com/track/30kI3i0mbyg8dXu7aEpqK4) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Voice Notes](https://open.spotify.com/album/4CsDEoqySY9EaYJX5MlIXs) | 4:37 |
 | 59 | [Too Much](https://open.spotify.com/track/0rR0cR9LTMeOewCYWYka3N) | [Mathilda Homer](https://open.spotify.com/artist/0uwGk8b2zINQFSKiLbK50Y) | [Too Much](https://open.spotify.com/album/5M8EU1wTNTElCDmD22oZs5) | 3:41 |
 | 60 | [\(I Get So\) Emotional](https://open.spotify.com/track/4AHFGnD2G51kpRhZEgho8a) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [\(I Get So\) Emotional](https://open.spotify.com/album/3tLWtPzB27RGLJeq0mx91W) | 3:08 |
@@ -96,9 +96,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ZYqTmgPJ9Z.md) - [plain]
 | 86 | [Alice From Dallas](https://open.spotify.com/track/1gZxZLQsyn8GIMBVB3AgNR) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [To Memphis](https://open.spotify.com/album/5DtQQgT9d9Ut0I5SoZYfPJ) | 3:57 |
 | 87 | [Pigeon Park](https://open.spotify.com/track/0knziThQwlD4Q4qL4zmZTx) | [parthenope](https://open.spotify.com/artist/6GjXQmzl9dSNUpYpyFJKY0) | [Go Somewhere Alone](https://open.spotify.com/album/4yZseWXhqhU4n2G9kgnnwQ) | 2:40 |
 | 88 | [Secrets](https://open.spotify.com/track/5LOeNu6xrB63aba54GSTmc) | [CHERISE](https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC) | [Secrets](https://open.spotify.com/album/0hUK9ar148INK0u4OdIJxp) | 4:23 |
-| 89 | [Sud Pour Toi](https://open.spotify.com/track/6qw2IQMLKCUEahcYwNo0rR) | [Thin Blue Collective](https://open.spotify.com/artist/1fTkQhPBZEiSI2sli8T8hG) | [Room Thirteen](https://open.spotify.com/album/5s07NUjDpbDpl2BdupEfAC) | 4:46 |
+| 89 | [Inward](https://open.spotify.com/track/6Xt50HBqLpImH1NkwlxsHr) | [Russell Stewart](https://open.spotify.com/artist/6lOIi6aXlHGa49oROgxVY1) | [Inward](https://open.spotify.com/album/7KImaY2ikHc9JvhvBrO1Yx) | 3:02 |
 | 90 | [Blume](https://open.spotify.com/track/3y1cSOZebGaS2IbEYLOiZ4) | [Nérija](https://open.spotify.com/artist/3alosBIW8nGb6TXqfM8wbI) | [Blume](https://open.spotify.com/album/7JmSCHwa1C3EpuODQlVl8Z) | 2:46 |
-| 91 | [Inward](https://open.spotify.com/track/6Xt50HBqLpImH1NkwlxsHr) | [Russell Stewart](https://open.spotify.com/artist/6lOIi6aXlHGa49oROgxVY1) | [Inward](https://open.spotify.com/album/7KImaY2ikHc9JvhvBrO1Yx) | 3:02 |
+| 91 | [Sud Pour Toi](https://open.spotify.com/track/6qw2IQMLKCUEahcYwNo0rR) | [Thin Blue Collective](https://open.spotify.com/artist/1fTkQhPBZEiSI2sli8T8hG) | [Room Thirteen](https://open.spotify.com/album/5s07NUjDpbDpl2BdupEfAC) | 4:46 |
 | 92 | [Deception](https://open.spotify.com/track/5sw2ThXRRmV7GzP2Lq87Ho) | [NADIAH](https://open.spotify.com/artist/1xMTtv502Ls5oN1xMEJele) | [Deception](https://open.spotify.com/album/58LxxzRjLOZ86pSFZw2tz0) | 3:17 |
 | 93 | [Found You](https://open.spotify.com/track/7ym383h5MQfBNVLG92d5fh) | [Robyn Florence](https://open.spotify.com/artist/3qIkj3W8oehm6SAHxD5qPa) | [Found You](https://open.spotify.com/album/6GCdFbDYs475UfiHP4rnKX) | 3:20 |
 | 94 | [December](https://open.spotify.com/track/7b6myg3Pc5DGgEXxXCyl3w) | [RUVIMBO](https://open.spotify.com/artist/28SGmh3qpGyRak7x8WhDG2), [TINYMAN](https://open.spotify.com/artist/7HK3S4sk4NgXTFqvmbHlM9) | [Ivy's Kid](https://open.spotify.com/album/6q4o0YQHMCXQj6gQ0YZOd4) | 3:14 |

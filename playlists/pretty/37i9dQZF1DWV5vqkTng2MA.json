@@ -1,6 +1,6 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Kokoroko",
-  "num_followers": 425639,
+  "num_followers": 425646,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2025-12-08 17:30:48",
       "album": {
+        "name": "CLAIM",
+        "url": "https://open.spotify.com/album/0pnpObbo9YZxQ9MzZ1A2Br"
+      },
+      "artists": [
+        {
+          "name": "Jesper Munk",
+          "url": "https://open.spotify.com/artist/7lS8dsCoC7M6QbNp3MRpmw"
+        }
+      ],
+      "duration_ms": 215853,
+      "name": "Morning Coffee",
+      "url": "https://open.spotify.com/track/5JChez1hix3cio2LrHgScq"
+    },
+    {
+      "added_at": "2025-12-08 17:30:48",
+      "album": {
         "name": "Burn It Down",
         "url": "https://open.spotify.com/album/0zklM830YV4KCwY2Oc3RxN"
       },
@@ -383,38 +399,6 @@
     {
       "added_at": "2025-12-08 17:30:48",
       "album": {
-        "name": "CLAIM",
-        "url": "https://open.spotify.com/album/0pnpObbo9YZxQ9MzZ1A2Br"
-      },
-      "artists": [
-        {
-          "name": "Jesper Munk",
-          "url": "https://open.spotify.com/artist/7lS8dsCoC7M6QbNp3MRpmw"
-        }
-      ],
-      "duration_ms": 215853,
-      "name": "Morning Coffee",
-      "url": "https://open.spotify.com/track/5JChez1hix3cio2LrHgScq"
-    },
-    {
-      "added_at": "2025-12-08 17:30:48",
-      "album": {
-        "name": "Logan Ledger",
-        "url": "https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD"
-      },
-      "artists": [
-        {
-          "name": "Logan Ledger",
-          "url": "https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM"
-        }
-      ],
-      "duration_ms": 172480,
-      "name": "(I\u2019m Gonna Get Over This) Some Day",
-      "url": "https://open.spotify.com/track/2cLGgmjT7pQ4MhcwpdqA4E"
-    },
-    {
-      "added_at": "2025-12-08 17:30:48",
-      "album": {
         "name": "Moonlit Breakers (feat. Dijon)",
         "url": "https://open.spotify.com/album/2wnS7uImW9YKItsZ0cyTxD"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 234681,
       "name": "Moonlit Breakers (feat. Dijon)",
       "url": "https://open.spotify.com/track/2eROz9rnZZAX3xAcN2fhNP"
+    },
+    {
+      "added_at": "2025-12-08 17:30:48",
+      "album": {
+        "name": "Logan Ledger",
+        "url": "https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD"
+      },
+      "artists": [
+        {
+          "name": "Logan Ledger",
+          "url": "https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM"
+        }
+      ],
+      "duration_ms": 172480,
+      "name": "(I\u2019m Gonna Get Over This) Some Day",
+      "url": "https://open.spotify.com/track/2cLGgmjT7pQ4MhcwpdqA4E"
     },
     {
       "added_at": "2025-12-08 17:30:48",
@@ -515,26 +515,6 @@
     {
       "added_at": "2025-12-08 17:30:48",
       "album": {
-        "name": "The People's House (with The War And Treaty)",
-        "url": "https://open.spotify.com/album/0sW2pBU8D2VwVcOQXEYfqA"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        },
-        {
-          "name": "The War And Treaty",
-          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
-        }
-      ],
-      "duration_ms": 265846,
-      "name": "The People's House (with The War And Treaty)",
-      "url": "https://open.spotify.com/track/77XBtOgLzi7mdSMFPvJqM9"
-    },
-    {
-      "added_at": "2025-12-08 17:30:48",
-      "album": {
         "name": "For the Time Being",
         "url": "https://open.spotify.com/album/34yEKd4Ee3yKFyhlKtAL8o"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 245333,
       "name": "For the Time Being",
       "url": "https://open.spotify.com/track/0b0rwzZCms56M9VvEWkd0M"
+    },
+    {
+      "added_at": "2025-12-08 17:30:48",
+      "album": {
+        "name": "The People's House (with The War And Treaty)",
+        "url": "https://open.spotify.com/album/0sW2pBU8D2VwVcOQXEYfqA"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        },
+        {
+          "name": "The War And Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "duration_ms": 265846,
+      "name": "The People's House (with The War And Treaty)",
+      "url": "https://open.spotify.com/track/77XBtOgLzi7mdSMFPvJqM9"
     },
     {
       "added_at": "2025-12-08 17:30:48",
@@ -863,22 +863,6 @@
     {
       "added_at": "2025-12-08 17:30:48",
       "album": {
-        "name": "My Dearest Darkest Neighbor",
-        "url": "https://open.spotify.com/album/6TqZFQjNfsOFRJoic0KrI9"
-      },
-      "artists": [
-        {
-          "name": "Hurray For The Riff Raff",
-          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
-        }
-      ],
-      "duration_ms": 217466,
-      "name": "Fine and Mellow",
-      "url": "https://open.spotify.com/track/0aJhLmZV80gfqL8x9yDIpn"
-    },
-    {
-      "added_at": "2025-12-08 17:30:48",
-      "album": {
         "name": "Demons",
         "url": "https://open.spotify.com/album/5aGMS2lsapoII9HrZPd3eE"
       },
@@ -895,18 +879,18 @@
     {
       "added_at": "2025-12-08 17:30:48",
       "album": {
-        "name": "Wait Til I Get Over",
-        "url": "https://open.spotify.com/album/3t5PKVYlbYXIiLIRDPPkp4"
+        "name": "My Dearest Darkest Neighbor",
+        "url": "https://open.spotify.com/album/6TqZFQjNfsOFRJoic0KrI9"
       },
       "artists": [
         {
-          "name": "Durand Jones",
-          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
+          "name": "Hurray For The Riff Raff",
+          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
         }
       ],
-      "duration_ms": 204024,
-      "name": "See It Through",
-      "url": "https://open.spotify.com/track/1tqFGTmcaNNusdArPOU0kj"
+      "duration_ms": 217466,
+      "name": "Fine and Mellow",
+      "url": "https://open.spotify.com/track/0aJhLmZV80gfqL8x9yDIpn"
     },
     {
       "added_at": "2025-12-08 17:30:48",
@@ -923,6 +907,22 @@
       "duration_ms": 254329,
       "name": "We Can Always Come Back To This",
       "url": "https://open.spotify.com/track/20rztDEfgrFOuHDhAeVDt3"
+    },
+    {
+      "added_at": "2025-12-08 17:30:48",
+      "album": {
+        "name": "Wait Til I Get Over",
+        "url": "https://open.spotify.com/album/3t5PKVYlbYXIiLIRDPPkp4"
+      },
+      "artists": [
+        {
+          "name": "Durand Jones",
+          "url": "https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs"
+        }
+      ],
+      "duration_ms": 204024,
+      "name": "See It Through",
+      "url": "https://open.spotify.com/track/1tqFGTmcaNNusdArPOU0kj"
     },
     {
       "added_at": "2025-12-08 17:30:48",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2025-12-08 17:30:48",
       "album": {
-        "name": "Circles",
-        "url": "https://open.spotify.com/album/3m4a7fI9QpWDqPVUlPFvsD"
-      },
-      "artists": [
-        {
-          "name": "Bird and Byron",
-          "url": "https://open.spotify.com/artist/28VCKRVnl8KvcrvUVxpbLt"
-        }
-      ],
-      "duration_ms": 182458,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/2SaFRhlUcBfODGexqS41KP"
-    },
-    {
-      "added_at": "2025-12-08 17:30:48",
-      "album": {
         "name": "How Do You Get By",
         "url": "https://open.spotify.com/album/698NNT71NehpuCIDRFXWic"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 250614,
       "name": "How Do You Get By",
       "url": "https://open.spotify.com/track/5sYG1duOFihEPSqvZEJzlQ"
+    },
+    {
+      "added_at": "2025-12-08 17:30:48",
+      "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/3m4a7fI9QpWDqPVUlPFvsD"
+      },
+      "artists": [
+        {
+          "name": "Bird and Byron",
+          "url": "https://open.spotify.com/artist/28VCKRVnl8KvcrvUVxpbLt"
+        }
+      ],
+      "duration_ms": 182458,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/2SaFRhlUcBfODGexqS41KP"
     },
     {
       "added_at": "2025-12-08 17:30:48",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2025-12-08 17:30:48",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/40bazR6yB36Wn9KAM5253O"
-      },
-      "artists": [
-        {
-          "name": "The Main Squeeze",
-          "url": "https://open.spotify.com/artist/5I6ni4YWY0WJUs6rFqufxT"
-        }
-      ],
-      "duration_ms": 237587,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/6DblWOuKGzV2V1ES2Tafud"
-    },
-    {
-      "added_at": "2025-12-08 17:30:48",
-      "album": {
         "name": "Stay Right Here",
         "url": "https://open.spotify.com/album/5fSnsS6vf9eovM8R3nvKNn"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 249560,
       "name": "Stay Right Here",
       "url": "https://open.spotify.com/track/0jQTagUb62PG7IcaFdR4s7"
+    },
+    {
+      "added_at": "2025-12-08 17:30:48",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/40bazR6yB36Wn9KAM5253O"
+      },
+      "artists": [
+        {
+          "name": "The Main Squeeze",
+          "url": "https://open.spotify.com/artist/5I6ni4YWY0WJUs6rFqufxT"
+        }
+      ],
+      "duration_ms": 237587,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/6DblWOuKGzV2V1ES2Tafud"
     },
     {
       "added_at": "2025-12-08 17:30:48",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2025-12-08 17:30:48",
       "album": {
+        "name": "Cheap Champagne",
+        "url": "https://open.spotify.com/album/1ZXj47ZiDPJMlO7uyhlQ05"
+      },
+      "artists": [
+        {
+          "name": "Wild Child",
+          "url": "https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK"
+        }
+      ],
+      "duration_ms": 233159,
+      "name": "Cheap Champagne",
+      "url": "https://open.spotify.com/track/6kd0JbGLweEJi7wpsAkSyw"
+    },
+    {
+      "added_at": "2025-12-08 17:30:48",
+      "album": {
         "name": "Live at Electric Lady",
         "url": "https://open.spotify.com/album/1TVFtJvROCsgKFQZHuBR4M"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 212293,
       "name": "Got Soul",
       "url": "https://open.spotify.com/track/1ipnaANJ3PxKhsZGgMP4LN"
-    },
-    {
-      "added_at": "2025-12-08 17:30:48",
-      "album": {
-        "name": "Cheap Champagne",
-        "url": "https://open.spotify.com/album/1ZXj47ZiDPJMlO7uyhlQ05"
-      },
-      "artists": [
-        {
-          "name": "Wild Child",
-          "url": "https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK"
-        }
-      ],
-      "duration_ms": 233159,
-      "name": "Cheap Champagne",
-      "url": "https://open.spotify.com/track/6kd0JbGLweEJi7wpsAkSyw"
     },
     {
       "added_at": "2025-12-08 17:30:48",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2025-12-08 17:30:48",
       "album": {
-        "name": "Who's Gonna Love You When I'm Gone",
-        "url": "https://open.spotify.com/album/3UmOFxs2sglqh0XuFez1iy"
-      },
-      "artists": [
-        {
-          "name": "Josh Farrow",
-          "url": "https://open.spotify.com/artist/0qPDkDToiabkQi2YhNFt4d"
-        }
-      ],
-      "duration_ms": 219920,
-      "name": "Who's Gonna Love You When I'm Gone",
-      "url": "https://open.spotify.com/track/2wBUG8atVqUWfBI1zTGQUw"
-    },
-    {
-      "added_at": "2025-12-08 17:30:48",
-      "album": {
         "name": "Watermelon Oranges",
         "url": "https://open.spotify.com/album/2Vy5z8CxvtXhim24ZFgAwF"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 207613,
       "name": "Don't Please Yourself",
       "url": "https://open.spotify.com/track/2D8C5Zxq4sGwktylVkhSRt"
+    },
+    {
+      "added_at": "2025-12-08 17:30:48",
+      "album": {
+        "name": "Who's Gonna Love You When I'm Gone",
+        "url": "https://open.spotify.com/album/3UmOFxs2sglqh0XuFez1iy"
+      },
+      "artists": [
+        {
+          "name": "Josh Farrow",
+          "url": "https://open.spotify.com/artist/0qPDkDToiabkQi2YhNFt4d"
+        }
+      ],
+      "duration_ms": 219920,
+      "name": "Who's Gonna Love You When I'm Gone",
+      "url": "https://open.spotify.com/track/2wBUG8atVqUWfBI1zTGQUw"
     },
     {
       "added_at": "2025-12-08 17:30:48",

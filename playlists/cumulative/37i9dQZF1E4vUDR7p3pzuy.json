@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Rob Harrowven, Golem Dance Cult, Splitter Conspiracy and more",
+  "description": "With Rob Harrowven, Splitter Conspiracy, Golem Dance Cult and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -348,7 +348,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-17",
+      "date_removed": null,
       "duration_ms": 186352,
       "name": "Below",
       "url": "https://open.spotify.com/track/7EN56vFE3dTbkuzaIBkplR"
@@ -392,7 +392,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-01",
       "duration_ms": 293142,
       "name": "Black Death Party",
       "url": "https://open.spotify.com/track/795CxOmL0SPYFCw5aHlZBE"
@@ -446,7 +446,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-01",
       "duration_ms": 210789,
       "name": "bloodsports",
       "url": "https://open.spotify.com/track/7IXsMgRqVCUv7ZeH23D4Ba"
@@ -793,6 +793,24 @@
     },
     {
       "album": {
+        "name": "Control the Universe (Definitive Mix)",
+        "url": "https://open.spotify.com/album/5CJdJSLQNw6gWb9elFmfRL"
+      },
+      "artists": [
+        {
+          "name": "Lynn Rockin",
+          "url": "https://open.spotify.com/artist/5rCJrr6znWoU3RTfk5Nyo3"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Control the Universe - Definitive Mix",
+      "url": "https://open.spotify.com/track/6QI293azblF4fJb9A9JwXo"
+    },
+    {
+      "album": {
         "name": "The Short Way Home",
         "url": "https://open.spotify.com/album/6r8d7Gm02NbuDcV0HiHEUe"
       },
@@ -862,6 +880,24 @@
       "duration_ms": 128840,
       "name": "Crumbs and Morsels (The Meek Are Getting Ready Pt IV)",
       "url": "https://open.spotify.com/track/5tp7JzjgHFi03GKxX5czxA"
+    },
+    {
+      "album": {
+        "name": "POST MORTEM INVICTUS",
+        "url": "https://open.spotify.com/album/2YrwaUPZDgvHPYCAlwOlaP"
+      },
+      "artists": [
+        {
+          "name": "Luci Ferrum",
+          "url": "https://open.spotify.com/artist/07hES9rBibqnpRqecdYpIG"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Cycle Breaker",
+      "url": "https://open.spotify.com/track/5dQwM41uDGiyyWHKAbiwqV"
     },
     {
       "album": {
@@ -1346,7 +1382,7 @@
       ],
       "date_added": "2025-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-31",
+      "date_removed": null,
       "duration_ms": 151430,
       "name": "For You",
       "url": "https://open.spotify.com/track/4XZin6WEIbTjqb0lQFZjJ5"
@@ -1364,7 +1400,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-01",
       "duration_ms": 162725,
       "name": "forever world",
       "url": "https://open.spotify.com/track/2z3YRcH9TkTGDuhI80Z7tB"
@@ -1516,7 +1552,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-23",
+      "date_removed": null,
       "duration_ms": 154112,
       "name": "Grown",
       "url": "https://open.spotify.com/track/1vjufCksVoE9yKM5sZS4tZ"
@@ -1639,6 +1675,24 @@
     },
     {
       "album": {
+        "name": "HEATER",
+        "url": "https://open.spotify.com/album/6M45kJq3gIzUwV1F9685mM"
+      },
+      "artists": [
+        {
+          "name": "TORTURETWINN",
+          "url": "https://open.spotify.com/artist/5KwycyHmqdNAPBnDOg9qMK"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100593,
+      "name": "HEATER",
+      "url": "https://open.spotify.com/track/5qX0m8gwkAqOcm6fNOtbj3"
+    },
+    {
+      "album": {
         "name": "Hit The Floor",
         "url": "https://open.spotify.com/album/6QljszzGUK8HaXFUnnlher"
       },
@@ -1650,7 +1704,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-01",
       "duration_ms": 334838,
       "name": "Hit The Floor",
       "url": "https://open.spotify.com/track/7EaSx7Ic0H101Hfy4D2EgO"
@@ -2130,7 +2184,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-01",
       "duration_ms": 206791,
       "name": "Kill the Beat",
       "url": "https://open.spotify.com/track/0C4rH4BkiRm8AIAeIgFmqD"
@@ -2264,7 +2318,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-25",
+      "date_removed": null,
       "duration_ms": 237357,
       "name": "Leviathan",
       "url": "https://open.spotify.com/track/4NFtHnHeOqlfMRNOp2kAGj"
@@ -2300,7 +2354,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-23",
+      "date_removed": null,
       "duration_ms": 236615,
       "name": "Long Distance to Go",
       "url": "https://open.spotify.com/track/5CpzD2bjv4G7R7xZsg7jCL"
@@ -2466,7 +2520,7 @@
       ],
       "date_added": "2025-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-01",
       "duration_ms": 215103,
       "name": "Midtown Madness",
       "url": "https://open.spotify.com/track/2DG9MTH25nm6XwlacFtKQJ"
@@ -2962,7 +3016,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-01",
       "duration_ms": 190480,
       "name": "Quiet Ones",
       "url": "https://open.spotify.com/track/7nkhh20RXO5pCuXepkosz5"
@@ -3310,7 +3364,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-01",
       "duration_ms": 245507,
       "name": "Smoking DMT With Carl Jung - Radio Edit",
       "url": "https://open.spotify.com/track/7LbCGM60ObqGQoZhTLYG3z"
@@ -3372,7 +3426,7 @@
       ],
       "date_added": "2025-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-01",
       "duration_ms": 184872,
       "name": "Soaked In Pastel - Audiotree Live Version",
       "url": "https://open.spotify.com/track/72nNLvthQAGTMIPu0uekUU"
@@ -3488,7 +3542,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-05",
+      "date_removed": null,
       "duration_ms": 299866,
       "name": "Sprawling",
       "url": "https://open.spotify.com/track/5PK9hMSgbOqUg5wUr783mN"
@@ -3890,7 +3944,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-24",
+      "date_removed": null,
       "duration_ms": 190955,
       "name": "Through The Looking Glass",
       "url": "https://open.spotify.com/track/2VChgOUgrKcZ7poZHsQTqe"
@@ -3926,7 +3980,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-01",
       "duration_ms": 181502,
       "name": "Throwaway",
       "url": "https://open.spotify.com/track/53KQdJR9d6tw2p8Jmgzobx"
@@ -3984,7 +4038,7 @@
       ],
       "date_added": "2025-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-01",
       "duration_ms": 332493,
       "name": "To Believe In Something - 2025 Remaster",
       "url": "https://open.spotify.com/track/2lU9QgyPgqlZ7BtRGk7XFO"
@@ -4332,6 +4386,24 @@
       "duration_ms": 178560,
       "name": "Wicked Witch",
       "url": "https://open.spotify.com/track/45paF6Il4lRFxJcf6935gN"
+    },
+    {
+      "album": {
+        "name": "Wire Drums",
+        "url": "https://open.spotify.com/album/0xbFOd1TtAr50OpQJSnV2X"
+      },
+      "artists": [
+        {
+          "name": "Springworks",
+          "url": "https://open.spotify.com/artist/351ok85APWNYv1RcU0UMcn"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Wire Drums",
+      "url": "https://open.spotify.com/track/7B1gHIY0OGm31o35D6mzEg"
     },
     {
       "album": {

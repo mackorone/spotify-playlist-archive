@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-3,787 songs - 8 day 9 hr 3 min
+3,789 songs - 8 day 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -438,6 +438,7 @@
 | [Bury Me In An Unmarked Grave](https://open.spotify.com/track/5EEjYhGtRZhNtSVmZVO0VF) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9), [Velvet Stardust](https://open.spotify.com/artist/2J9AoO5nCh1htfy8dv6Svz) | [Bury Me In An Unmarked Grave](https://open.spotify.com/album/3jPEk1ndJlBUBTTd2tpyAC) | 2:39 | 2025-07-05 |  |
 | [Butter Knife Suicide](https://open.spotify.com/track/4UFIHH6jju7CCmFa7eouek) | [Dolour](https://open.spotify.com/artist/5aNyiLkMbHKufrAvfDNy0O), [Shane Tutmarc](https://open.spotify.com/artist/5HqeKeRTxCHQtcQeUUBBac) | [New Old Friends xx](https://open.spotify.com/album/56h5V73ud9WeiTURv7u5sv) | 2:35 | 2025-07-01 |  |
 | [butterfly](https://open.spotify.com/track/2wqa7edQscmRTT46aoHCNS) | [WEST OF EDEN](https://open.spotify.com/artist/5UAITt0KoASPqmtWm1Tphl), [jun.e](https://open.spotify.com/artist/7ccm7gCKqCNnlQHkdJYKAm), [slone](https://open.spotify.com/artist/1ryrbk5GiJNKF03k4v9DMk) | [butterfly](https://open.spotify.com/album/2Xsg5jHD0UDbgpuo5dpc6o) | 3:11 | 2025-05-16 |  |
+| [Button](https://open.spotify.com/track/5cSbMYYSuPvQIs4TwqbuXO) | [Punch 11](https://open.spotify.com/artist/1LuxznMngBLfxBab8QSvI0) | [Alive And Well](https://open.spotify.com/album/40eg7z9ewjLTVTusesgx9V) | 3:15 | 2025-12-31 |  |
 | [Buzzing Fly](https://open.spotify.com/track/6iZnkpte3oN6j7RvnPfluv) | [Digsby](https://open.spotify.com/artist/2svG4IsrYb68sAGhIQ9UXA) | [Buzzing Fly](https://open.spotify.com/album/5vHjLliEPPxZ9bzVB7e3hp) | 3:30 | 2025-05-12 |  |
 | [Bwelera](https://open.spotify.com/track/50gtSEXSbQ2oMMXogHIbnh) | [Kay Krush](https://open.spotify.com/artist/1NTEEE22b4tOhZQvMctIlT) | [First Step Album](https://open.spotify.com/album/1e2FCaY21cGjSkfn6cr8y9) | 2:46 | 2025-06-05 |  |
 | [By Myself](https://open.spotify.com/track/6QeFYrM2ZXXkokIIhNYqt5) | [Nyakstar](https://open.spotify.com/artist/4sIGvBMOHQSdtFKsE8JAIT) | [By Myself](https://open.spotify.com/album/3RtHk7TJajJQ8Gsm8lr14r) | 2:35 | 2025-08-12 |  |
@@ -1746,6 +1747,7 @@
 | [Keep Trying](https://open.spotify.com/track/4BfznS05suAGg6UwGqIcb6) | [Amortem](https://open.spotify.com/artist/2DnesP0vlm2v43MGARajda) | [Keep Trying](https://open.spotify.com/album/2rN4oEf6ZE7mKrIQKN8xZn) | 3:11 | 2025-12-23 |  |
 | [Khoon Aur Aansu \- Reprise](https://open.spotify.com/track/5N5xzvgPXksEaF6WJv6lik) | [Dark Sirens](https://open.spotify.com/artist/4CSodsgXfqKTUuXpNcFZQG) | [Khoon Aur Aansu 2.0](https://open.spotify.com/album/2HzFzRawqiHSUr8f0LD3Ls) | 4:06 | 2025-07-02 |  |
 | [KIAB](https://open.spotify.com/track/41SrMsuL85kzTSkgQC0sqC) | [Zoleon](https://open.spotify.com/artist/2ICjf9TZAj9HK9nZ8zZtkK) | [KIAB](https://open.spotify.com/album/15zi6UC7uuAOJmw8ZP04mG) | 1:50 | 2025-07-03 |  |
+| [Kick In The Teeth](https://open.spotify.com/track/1a9VSlfqljmvA6eS8o8nIl) | [Hexe](https://open.spotify.com/artist/3WZaW8fkkvGju9kFx4FeoN) | [Kick In The Teeth](https://open.spotify.com/album/0qteBQwyHGA0xex6lcnZQe) | 3:39 | 2025-12-31 |  |
 | [Kickflip Dreams](https://open.spotify.com/track/16iIzHXUsrqGXXhZkuFpQu) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Skate punk](https://open.spotify.com/album/4SRDpSExvdGd0QXK9E5UTI) | 2:08 | 2025-09-13 |  |
 | [Kickflip Dreams \(another\)](https://open.spotify.com/track/3Imf3dHfe1X66M0RnkJmpG) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Skate punk](https://open.spotify.com/album/4SRDpSExvdGd0QXK9E5UTI) | 1:49 | 2025-09-13 |  |
 | [Kilimanjaro](https://open.spotify.com/track/0o2v8uvzdaNdKhl50rz0z0) | [Jack Vultur](https://open.spotify.com/artist/4UIDVuQxTCzkVVNP2YAMf8) | [Kilimanjaro](https://open.spotify.com/album/0dr2X1NMkee0OV2og9fbik) | 3:24 | 2025-08-10 |  |

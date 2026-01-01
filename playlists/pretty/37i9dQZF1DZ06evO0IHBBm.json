@@ -1,12 +1,12 @@
 {
   "description": "This is Damares. The essential tracks, all in one playlist.",
-  "num_followers": 31212,
+  "num_followers": 31214,
   "original_name": "This Is Damares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVHEgAAAAAB35LJUbRN4hh7GH+kmaG5O",
+  "snapshot_id": "aVMWAAAAAADig8lNK/j5HguDgtI3j66C",
   "tracks": [
     {
       "added_at": null,
@@ -279,6 +279,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Supera\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/1ql8DiJv3j7JuiQSdEcoQg"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 273821,
+      "name": "Eu Quero Ver o Seu Milagre",
+      "url": "https://open.spotify.com/track/5nEqDoo9cdpDwmrdsJGC6i"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Apocalipse",
         "url": "https://open.spotify.com/album/29GIrFBabZOh98liIGRZNI"
       },
@@ -299,34 +315,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Supera\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/1ql8DiJv3j7JuiQSdEcoQg"
+        "name": "Di\u00e1rio de um Vencedor",
+        "url": "https://open.spotify.com/album/5mBdO3ZcFBZ4qW7LAk9ARb"
       },
       "artists": [
         {
           "name": "Damares",
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 273821,
-      "name": "Eu Quero Ver o Seu Milagre",
-      "url": "https://open.spotify.com/track/5nEqDoo9cdpDwmrdsJGC6i"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mega Hits - Damares",
-        "url": "https://open.spotify.com/album/4f79ee5SBaI30R1oyl6P9J"
-      },
-      "artists": [
+        },
         {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+          "name": "Louvor Eterno",
+          "url": "https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw"
         }
       ],
-      "duration_ms": 371333,
-      "name": "Diamante",
-      "url": "https://open.spotify.com/track/5SssGK4lCEs02du4PjrEh4"
+      "duration_ms": 322194,
+      "name": "Di\u00e1rio de um Vencedor",
+      "url": "https://open.spotify.com/track/3bP06nmIxxAjI2EfZreyJD"
     },
     {
       "added_at": null,
@@ -347,22 +351,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Di\u00e1rio de um Vencedor",
-        "url": "https://open.spotify.com/album/5mBdO3ZcFBZ4qW7LAk9ARb"
+        "name": "Mega Hits - Damares",
+        "url": "https://open.spotify.com/album/4f79ee5SBaI30R1oyl6P9J"
       },
       "artists": [
         {
           "name": "Damares",
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        },
-        {
-          "name": "Louvor Eterno",
-          "url": "https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw"
         }
       ],
-      "duration_ms": 322194,
-      "name": "Di\u00e1rio de um Vencedor",
-      "url": "https://open.spotify.com/track/3bP06nmIxxAjI2EfZreyJD"
+      "duration_ms": 371333,
+      "name": "Diamante",
+      "url": "https://open.spotify.com/track/5SssGK4lCEs02du4PjrEh4"
     },
     {
       "added_at": null,
@@ -419,8 +419,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mega Hits - Damares",
-        "url": "https://open.spotify.com/album/4f79ee5SBaI30R1oyl6P9J"
+        "name": "Obra Prima",
+        "url": "https://open.spotify.com/album/0frPLhLncGOeuKhGENGdG5"
       },
       "artists": [
         {
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
         }
       ],
-      "duration_ms": 287106,
-      "name": "De Repente",
-      "url": "https://open.spotify.com/track/5Rgysd1u5SyTmSFT6E0X7B"
+      "duration_ms": 294226,
+      "name": "Ressuscita",
+      "url": "https://open.spotify.com/track/62VvRM3T2IdsjbBYJI6oqI"
     },
     {
       "added_at": null,
@@ -455,8 +455,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Obra Prima",
-        "url": "https://open.spotify.com/album/0frPLhLncGOeuKhGENGdG5"
+        "name": "Mega Hits - Damares",
+        "url": "https://open.spotify.com/album/4f79ee5SBaI30R1oyl6P9J"
       },
       "artists": [
         {
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
         }
       ],
-      "duration_ms": 294226,
-      "name": "Ressuscita",
-      "url": "https://open.spotify.com/track/62VvRM3T2IdsjbBYJI6oqI"
+      "duration_ms": 287106,
+      "name": "De Repente",
+      "url": "https://open.spotify.com/track/5Rgysd1u5SyTmSFT6E0X7B"
     },
     {
       "added_at": null,
@@ -503,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Terceiro C\u00e9u",
-        "url": "https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 389634,
-      "name": "O Noivo Vir\u00e1",
-      "url": "https://open.spotify.com/track/5FXT5KtWOKuRh6y20MNq0I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "100 Anos do Movimento Pentecostal",
         "url": "https://open.spotify.com/album/4Wo3iXk6J7vQ9PUYxpf2VU"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 835400,
       "name": "Sabor de Mel / Terremoto Santo / Deus dos Deuses / Minha Ben\u00e7\u00e3o / A Mensagem da Cruz - Ao vivo",
       "url": "https://open.spotify.com/track/1NwKNiyfbuCaMS3IZBcrCI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Terceiro C\u00e9u",
+        "url": "https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 389634,
+      "name": "O Noivo Vir\u00e1",
+      "url": "https://open.spotify.com/track/5FXT5KtWOKuRh6y20MNq0I"
     },
     {
       "added_at": null,
@@ -599,18 +599,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deixa Senhor",
-        "url": "https://open.spotify.com/album/1vOizfnBsBejbnHvGbYpp6"
+        "name": "Terceiro C\u00e9u",
+        "url": "https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb"
       },
       "artists": [
         {
           "name": "Damares",
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        },
+        {
+          "name": "Can\u00e7\u00e3o & Louvor",
+          "url": "https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu"
         }
       ],
-      "duration_ms": 362987,
-      "name": "Deixa Senhor",
-      "url": "https://open.spotify.com/track/06z7qj0dpj7xdl6rFvbgiO"
+      "duration_ms": 267398,
+      "name": "O Le\u00e3o",
+      "url": "https://open.spotify.com/track/3xMzTie4gkSwKbI7YhBi9d"
     },
     {
       "added_at": null,
@@ -631,22 +635,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Terceiro C\u00e9u",
-        "url": "https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb"
+        "name": "Deixa Senhor",
+        "url": "https://open.spotify.com/album/1vOizfnBsBejbnHvGbYpp6"
       },
       "artists": [
         {
           "name": "Damares",
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        },
-        {
-          "name": "Can\u00e7\u00e3o & Louvor",
-          "url": "https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu"
         }
       ],
-      "duration_ms": 267398,
-      "name": "O Le\u00e3o",
-      "url": "https://open.spotify.com/track/3xMzTie4gkSwKbI7YhBi9d"
+      "duration_ms": 362987,
+      "name": "Deixa Senhor",
+      "url": "https://open.spotify.com/track/06z7qj0dpj7xdl6rFvbgiO"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Damares 2011 (ao vivo)",
-        "url": "https://open.spotify.com/album/0OdC5VKTFR1xwwvFHy3Bfp"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        }
-      ],
-      "duration_ms": 401213,
-      "name": "Em adora\u00e7\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/74I4URHglkwMY0c7bPEdZH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Damares (Ao Vivo)",
         "url": "https://open.spotify.com/album/4Petql4tkPmHlXKPXoX8bA"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 358640,
       "name": "Yeshua (Ao Vivo)",
       "url": "https://open.spotify.com/track/2b9sOPTgLige26J50aINp9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Damares 2011 (ao vivo)",
+        "url": "https://open.spotify.com/album/0OdC5VKTFR1xwwvFHy3Bfp"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "duration_ms": 401213,
+      "name": "Em adora\u00e7\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/74I4URHglkwMY0c7bPEdZH"
     },
     {
       "added_at": null,

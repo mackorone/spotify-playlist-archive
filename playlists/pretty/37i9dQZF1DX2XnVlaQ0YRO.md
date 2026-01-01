@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 
 > chill christmas beats to keep you cozy and focused
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,274 likes - 100 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,529 likes - 100 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 | 40 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/2HQ8G7TzumQY2u8Ii7gvU3) | [Yagami Lo Vibe](https://open.spotify.com/artist/0mrkkkfEfuv48VceciqpwJ) | [God Rest Ye Merry Gentlemen](https://open.spotify.com/album/6t0R9YC1o1feCRdEZ4B5bZ) | 2:36 |
 | 41 | [O Little Town Of Bethlehem](https://open.spotify.com/track/4JwbRapYxPE883XUslPwIS) | [louke's beats](https://open.spotify.com/artist/2dr9SIsVpmN3ijGzjsnT0E) | [Hark! The Herald Angels Sing](https://open.spotify.com/album/2JO5EUMtP6BxGAHr3dyETU) | 1:57 |
 | 42 | [Jingle Jungle](https://open.spotify.com/track/19FDpk9KZ09t6FtlvWhr2A) | [Meryl Street](https://open.spotify.com/artist/7e6kFvhiwoYl3HM4ewsGOg) | [Jingle Jungle](https://open.spotify.com/album/158trcJoW64TEmf7DbAxGE) | 2:20 |
-| 43 | [xmas feels](https://open.spotify.com/track/07IHhrnbEmES2SWwSSmfRL) | [ARSD](https://open.spotify.com/artist/6fJceX9nO6HyXIlrdvNxAM) | [xmas feels](https://open.spotify.com/album/5VIjYaI1DNQI8ZyRPfsoFX) | 2:20 |
-| 44 | [Last Train Home](https://open.spotify.com/track/3nf9nlsB1rQjsrH4NrU9ic) | [reOrder](https://open.spotify.com/artist/1cAsz5HmLWJ2GWwinTnBG2), [saint rumi](https://open.spotify.com/artist/4KZj9rS07i3nfijzVtkqMQ) | [Last Train Home](https://open.spotify.com/album/1Qi82bk3Id0Je9aVf0BZnh) | 1:58 |
+| 43 | [Last Train Home](https://open.spotify.com/track/3nf9nlsB1rQjsrH4NrU9ic) | [reOrder](https://open.spotify.com/artist/1cAsz5HmLWJ2GWwinTnBG2), [saint rumi](https://open.spotify.com/artist/4KZj9rS07i3nfijzVtkqMQ) | [Last Train Home](https://open.spotify.com/album/1Qi82bk3Id0Je9aVf0BZnh) | 1:58 |
+| 44 | [xmas feels](https://open.spotify.com/track/07IHhrnbEmES2SWwSSmfRL) | [ARSD](https://open.spotify.com/artist/6fJceX9nO6HyXIlrdvNxAM) | [xmas feels](https://open.spotify.com/album/5VIjYaI1DNQI8ZyRPfsoFX) | 2:20 |
 | 45 | [Ice Skating](https://open.spotify.com/track/1ASyxb9ktut4HcI74g7YPJ) | [Bluewerks](https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn), [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe) | [Bluewerks Vol\. 5: Warm Up](https://open.spotify.com/album/4S7q5icPiLQmsb0OrkxBDo) | 2:06 |
 | 46 | [Silver bells](https://open.spotify.com/track/5MHdKZlrWUciWwnzdUKQiF) | [Jupuno](https://open.spotify.com/artist/2pDShM9W72ItBRO27oUEZ9) | [Silver bells](https://open.spotify.com/album/2idj3trslkIDlymbGM9Y6U) | 2:28 |
 | 47 | [Santa's Lowrider](https://open.spotify.com/track/6iUbgMflpaO6flBTxLpZrR) | [run2me](https://open.spotify.com/artist/5hCMSuSpa0y5KihMVcfGw7) | [Santa's Lowrider](https://open.spotify.com/album/1O425Y5KoYPsLKClZ6ptdC) | 2:09 |

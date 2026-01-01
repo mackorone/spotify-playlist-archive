@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6dv5FbNRVlQelteqnNDFTe.md) - [plain]
 
 > De grootste hits uit de jaren 2000 \- 2010 voor je verzameld in één playlist\. \- <a href="spotify:user:digsternl">Meer playlists</a>
 
-[Digster Nederland](https://open.spotify.com/user/digsternl) - 23,076 likes - 94 songs - 6 hr 9 min
+[Digster Nederland](https://open.spotify.com/user/digsternl) - 23,074 likes - 94 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

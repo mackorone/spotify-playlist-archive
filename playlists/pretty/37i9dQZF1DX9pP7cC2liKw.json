@@ -1,6 +1,6 @@
 {
   "description": "Immerse yourself in the mysticism of Tulum!",
-  "num_followers": 417256,
+  "num_followers": 417532,
   "original_name": "Tulum Vibes",
   "owner": {
     "name": "Spotify",
@@ -267,6 +267,22 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
+        "name": "R\u00fambala",
+        "url": "https://open.spotify.com/album/4yf3TyT75f33sAq1o1ORuR"
+      },
+      "artists": [
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        }
+      ],
+      "duration_ms": 178823,
+      "name": "R\u00fambala",
+      "url": "https://open.spotify.com/track/0YjGcWlFaksNtsCIxfrmur"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
         "name": "Laughter of the Sea",
         "url": "https://open.spotify.com/album/2PdScDypRbyrR3yYkNEuMH"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 359781,
       "name": "Laughter of the Sea",
       "url": "https://open.spotify.com/track/2AjB1CCKlumQX9uJG48mDS"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "R\u00fambala",
-        "url": "https://open.spotify.com/album/4yf3TyT75f33sAq1o1ORuR"
-      },
-      "artists": [
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
-        }
-      ],
-      "duration_ms": 178823,
-      "name": "R\u00fambala",
-      "url": "https://open.spotify.com/track/0YjGcWlFaksNtsCIxfrmur"
     },
     {
       "added_at": "2023-04-07 06:00:00",
@@ -585,26 +585,6 @@
       "url": "https://open.spotify.com/track/7vCbKxrU2y0wZpuogiuuEf"
     },
     {
-      "added_at": "2023-10-24 02:03:26",
-      "album": {
-        "name": "Carrossel Do Tempo",
-        "url": "https://open.spotify.com/album/6NUf2RplmZ17qr6uDDUUVy"
-      },
-      "artists": [
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        },
-        {
-          "name": "Abr\u00e3o",
-          "url": "https://open.spotify.com/artist/58V5v9MFPcR1Ok4K6gVQsq"
-        }
-      ],
-      "duration_ms": 297440,
-      "name": "Carrossel Do Tempo",
-      "url": "https://open.spotify.com/track/6R3a2hraPYMwVCHfRw9hNr"
-    },
-    {
       "added_at": "2022-06-15 04:26:09",
       "album": {
         "name": "R\u00fambala (Jiony Remix)",
@@ -623,6 +603,26 @@
       "duration_ms": 231764,
       "name": "R\u00fambala - Jiony Remix",
       "url": "https://open.spotify.com/track/7mtMy47wBdLVuFg5ZxkYAa"
+    },
+    {
+      "added_at": "2023-10-24 02:03:26",
+      "album": {
+        "name": "Carrossel Do Tempo",
+        "url": "https://open.spotify.com/album/6NUf2RplmZ17qr6uDDUUVy"
+      },
+      "artists": [
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        },
+        {
+          "name": "Abr\u00e3o",
+          "url": "https://open.spotify.com/artist/58V5v9MFPcR1Ok4K6gVQsq"
+        }
+      ],
+      "duration_ms": 297440,
+      "name": "Carrossel Do Tempo",
+      "url": "https://open.spotify.com/track/6R3a2hraPYMwVCHfRw9hNr"
     },
     {
       "added_at": "2024-02-02 04:40:19",
@@ -821,22 +821,6 @@
       "url": "https://open.spotify.com/track/4G7sC4cJ8wl0W17zU3dAsb"
     },
     {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Na Procura",
-        "url": "https://open.spotify.com/album/4MjVYF2WrA2LxHOekWZREA"
-      },
-      "artists": [
-        {
-          "name": "Yemanjo",
-          "url": "https://open.spotify.com/artist/20rsBY890yu3Jms9QHTg7N"
-        }
-      ],
-      "duration_ms": 390505,
-      "name": "Na Procura",
-      "url": "https://open.spotify.com/track/5jHL9thvvnkuKPExerUgTg"
-    },
-    {
       "added_at": "2023-03-24 19:15:37",
       "album": {
         "name": "La de la terraza",
@@ -855,6 +839,22 @@
       "duration_ms": 163730,
       "name": "La de la terraza",
       "url": "https://open.spotify.com/track/2gRGnFeaYf0IbzujjrHGAd"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Na Procura",
+        "url": "https://open.spotify.com/album/4MjVYF2WrA2LxHOekWZREA"
+      },
+      "artists": [
+        {
+          "name": "Yemanjo",
+          "url": "https://open.spotify.com/artist/20rsBY890yu3Jms9QHTg7N"
+        }
+      ],
+      "duration_ms": 390505,
+      "name": "Na Procura",
+      "url": "https://open.spotify.com/track/5jHL9thvvnkuKPExerUgTg"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -989,22 +989,6 @@
       "url": "https://open.spotify.com/track/3d4nrq8ALR5uxqt6sgICS2"
     },
     {
-      "added_at": "2023-12-12 18:58:47",
-      "album": {
-        "name": "BOSS REGGAE FROM MEXICO - REGGAE GORDO",
-        "url": "https://open.spotify.com/album/4tOQx2JFrcweaQ7ASv9XJT"
-      },
-      "artists": [
-        {
-          "name": "Travelers All Stars",
-          "url": "https://open.spotify.com/artist/648TQGLrKzZRl8sxfcM6QH"
-        }
-      ],
-      "duration_ms": 170083,
-      "name": "Don\u00b4t Give Up",
-      "url": "https://open.spotify.com/track/145Hd5EtKOkJKyoWUIddzM"
-    },
-    {
       "added_at": "2024-07-20 14:57:35",
       "album": {
         "name": "Macro",
@@ -1019,6 +1003,22 @@
       "duration_ms": 234182,
       "name": "Euphoric Avenue",
       "url": "https://open.spotify.com/track/0krvVcQqfZTltbCNEOmw5d"
+    },
+    {
+      "added_at": "2023-12-12 18:58:47",
+      "album": {
+        "name": "BOSS REGGAE FROM MEXICO - REGGAE GORDO",
+        "url": "https://open.spotify.com/album/4tOQx2JFrcweaQ7ASv9XJT"
+      },
+      "artists": [
+        {
+          "name": "Travelers All Stars",
+          "url": "https://open.spotify.com/artist/648TQGLrKzZRl8sxfcM6QH"
+        }
+      ],
+      "duration_ms": 170083,
+      "name": "Don\u00b4t Give Up",
+      "url": "https://open.spotify.com/track/145Hd5EtKOkJKyoWUIddzM"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
+        "name": "Selva y mar",
+        "url": "https://open.spotify.com/album/79AHYPMxeWRc5NR7WqwUFG"
+      },
+      "artists": [
+        {
+          "name": "Tati Falco",
+          "url": "https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6"
+        }
+      ],
+      "duration_ms": 248099,
+      "name": "Selva y mar",
+      "url": "https://open.spotify.com/track/2DsUXoqK3HXx2Sat09W7uN"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
         "name": "Estaci\u00f3n Esperanza",
         "url": "https://open.spotify.com/album/64q41JtvnThaB2VaVrqfpQ"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 316721,
       "name": "Estaci\u00f3n Esperanza",
       "url": "https://open.spotify.com/track/1jGkLUJCl46NmXIM6rUghn"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Selva y mar",
-        "url": "https://open.spotify.com/album/79AHYPMxeWRc5NR7WqwUFG"
-      },
-      "artists": [
-        {
-          "name": "Tati Falco",
-          "url": "https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6"
-        }
-      ],
-      "duration_ms": 248099,
-      "name": "Selva y mar",
-      "url": "https://open.spotify.com/track/2DsUXoqK3HXx2Sat09W7uN"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1261,20 +1261,24 @@
       "url": "https://open.spotify.com/track/1eWM5SGoiXBXNpFAEoKMxg"
     },
     {
-      "added_at": "2022-06-15 04:26:09",
+      "added_at": "2024-07-05 04:11:16",
       "album": {
-        "name": "Tropical Gypsy",
-        "url": "https://open.spotify.com/album/57y7GwBbU7iWlVt3fO4yQA"
+        "name": "R-A-B-I-A",
+        "url": "https://open.spotify.com/album/2l0v6JRCpZdnIRoe5AJn33"
       },
       "artists": [
         {
-          "name": "DJ Cam",
-          "url": "https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg"
+          "name": "CERO39",
+          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
+        },
+        {
+          "name": "Mula",
+          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
         }
       ],
-      "duration_ms": 181926,
-      "name": "Tropical Gypsy",
-      "url": "https://open.spotify.com/track/2NT4Qm591F5sel8OupNhWp"
+      "duration_ms": 185210,
+      "name": "No me opongo",
+      "url": "https://open.spotify.com/track/0k6JmVpT4JZrFz4SIIh0iS"
     }
   ],
   "unique_name": "Tulum Vibes",

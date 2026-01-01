@@ -1,12 +1,12 @@
 {
   "description": "This is th\u1ee7y. The essential tracks, all in one playlist.",
-  "num_followers": 12472,
+  "num_followers": 12468,
   "original_name": "This Is th\u1ee7y",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVHEgAAAAACVTs2JmYBkeaVbFe73JjmH",
+  "snapshot_id": "aVMWAAAAAAC5qoG9CbQxZC5n40znbRKU",
   "tracks": [
     {
       "added_at": null,
@@ -287,22 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "wish list",
-        "url": "https://open.spotify.com/album/2c2o8QHW5nV77XX3B0a6fF"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "wishlist",
-      "url": "https://open.spotify.com/track/7jis4lWrKIIqDK3ar5dWMp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Two Truths And A Lie",
         "url": "https://open.spotify.com/album/6mB24ENPL4m2E7Q7Li7lFb"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 144000,
       "name": "trippin'",
       "url": "https://open.spotify.com/track/61paqDrRJe8h4c5ypysurz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "wish list",
+        "url": "https://open.spotify.com/album/2c2o8QHW5nV77XX3B0a6fF"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "wishlist",
+      "url": "https://open.spotify.com/track/7jis4lWrKIIqDK3ar5dWMp"
     },
     {
       "added_at": null,
@@ -719,22 +719,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "i hope u see this (deluxe)",
-        "url": "https://open.spotify.com/album/0Oe5Gm4E0bJ8shtpMkvo1Y"
+        "name": "Slide",
+        "url": "https://open.spotify.com/album/5OWku4zuFZbcCLckaunlXc"
       },
       "artists": [
         {
           "name": "th\u1ee7y",
           "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
         }
       ],
-      "duration_ms": 169411,
-      "name": "inhibitions (feat. P-Lo)",
-      "url": "https://open.spotify.com/track/3uNdcFuXINs0nic38GuXfz"
+      "duration_ms": 221440,
+      "name": "Slide",
+      "url": "https://open.spotify.com/track/1nOfGMBJATb0Cbu1Xpv3ie"
     },
     {
       "added_at": null,
@@ -755,18 +751,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slide",
-        "url": "https://open.spotify.com/album/5OWku4zuFZbcCLckaunlXc"
+        "name": "i hope u see this (deluxe)",
+        "url": "https://open.spotify.com/album/0Oe5Gm4E0bJ8shtpMkvo1Y"
       },
       "artists": [
         {
           "name": "th\u1ee7y",
           "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
         }
       ],
-      "duration_ms": 221440,
-      "name": "Slide",
-      "url": "https://open.spotify.com/track/1nOfGMBJATb0Cbu1Xpv3ie"
+      "duration_ms": 169411,
+      "name": "inhibitions (feat. P-Lo)",
+      "url": "https://open.spotify.com/track/3uNdcFuXINs0nic38GuXfz"
     },
     {
       "added_at": null,

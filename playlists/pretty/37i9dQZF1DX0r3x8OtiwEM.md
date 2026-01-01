@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 
 > Chill techno, melodic house and tech house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,050,286 likes - 60 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,050,386 likes - 60 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 48 | [Next to Me](https://open.spotify.com/track/0sDL6c7BZGffS71ICuJqF4) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Next to Me](https://open.spotify.com/album/4g7tDntrExaV34ee2yU4jN) | 5:14 |
 | 49 | [Born Like That](https://open.spotify.com/track/3pCnL6BOtSueW8XaF63gDN) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Jast](https://open.spotify.com/artist/45MGqjDAQFRu7gqPIQeQTo) | [Born Like That](https://open.spotify.com/album/63cNdecRbo4VnYixeiO56Q) | 3:45 |
 | 50 | [Meet Me](https://open.spotify.com/track/5NIh6RvA8hOV31OnQGdk4d) | [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS), [JONOS](https://open.spotify.com/artist/1pbStEEJ96l2EaeZyTqzjh), [Son of Son](https://open.spotify.com/artist/4xG5i2Smlt6o5QxuGp9LqM) | [Meet Me](https://open.spotify.com/album/1GthDfKWmqsKkxlXII6rG5) | 3:15 |
-| 51 | [Deeplow](https://open.spotify.com/track/4o9Rvu1tisuOLcuOmD3i55) | [Sama \(US\)](https://open.spotify.com/artist/1oWqftoeUVb2HeC7LdXXYm), [Serve Cold](https://open.spotify.com/artist/0jkLg9cCRdKYTay0hte9xm) | [Deeplow](https://open.spotify.com/album/1VpXyD7YvGS5rTb9VWRgqs) | 2:29 |
-| 52 | [Magic](https://open.spotify.com/track/3q8D7O6GOuiNMBX8SJSt8K) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e), [Astrø](https://open.spotify.com/artist/31anju77mwSChYTKZYLxbZ), [Afnan Prince](https://open.spotify.com/artist/0T3J2fxgciLGud2pwqHixZ), [XIRA](https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ) | [Finding Home](https://open.spotify.com/album/3CRJaVRt0ni52xagPsekyk) | 5:00 |
+| 51 | [Magic](https://open.spotify.com/track/3q8D7O6GOuiNMBX8SJSt8K) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e), [Astrø](https://open.spotify.com/artist/31anju77mwSChYTKZYLxbZ), [Afnan Prince](https://open.spotify.com/artist/0T3J2fxgciLGud2pwqHixZ), [XIRA](https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ) | [Finding Home](https://open.spotify.com/album/3CRJaVRt0ni52xagPsekyk) | 5:00 |
+| 52 | [Deeplow](https://open.spotify.com/track/4o9Rvu1tisuOLcuOmD3i55) | [Sama \(US\)](https://open.spotify.com/artist/1oWqftoeUVb2HeC7LdXXYm), [Serve Cold](https://open.spotify.com/artist/0jkLg9cCRdKYTay0hte9xm) | [Deeplow](https://open.spotify.com/album/1VpXyD7YvGS5rTb9VWRgqs) | 2:29 |
 | 53 | [Berlin](https://open.spotify.com/track/3u6QGMiBRiIr3nprnSBo0s) | [NOVEMBER KID](https://open.spotify.com/artist/4gFiVj1eoR6KQPQyFZgXRM) | [Berlin](https://open.spotify.com/album/0kvc8rqF5vtlKwN78Fa85y) | 2:01 |
 | 54 | [Only You \- &ME Remix](https://open.spotify.com/track/6Pot7RIYFgzOOadIG1IMBv) | [UNKLE](https://open.spotify.com/artist/2nszamLjZFgu3Yx77mKxuC), [Miink](https://open.spotify.com/artist/17Rhw8lEDjOqM3GSVqrzhg), [Wil Malone](https://open.spotify.com/artist/7jzCxvaCAS6u8iivGjTVOl), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z) | [Only You \(&ME Remix\)](https://open.spotify.com/album/3L34LelOyPZKhF3ydzYviM) | 7:14 |
 | 55 | [SLOWLY](https://open.spotify.com/track/4R4ZU6XOQTNqNlADVcRLxp) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [SLOWLY](https://open.spotify.com/album/3VmoOOqgRIipO0Qy2k9jE2) | 2:48 |

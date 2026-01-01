@@ -4,7 +4,7 @@
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-106 songs - 6 hr 29 min
+107 songs - 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Still](https://open.spotify.com/track/7jaJmDGkrPIlAA6IlyiYa3) | [Mumbler \(UK\)](https://open.spotify.com/artist/66dhVKv1q3GsP1sqx2eW5j) | [Reformat](https://open.spotify.com/album/0BdIlCAGcZZeEZ2yNNvgrn) | 4:30 | 2025-12-16 |  |
 | [Still Here](https://open.spotify.com/track/5DaMgetKGZ1PFvLUcv9NiY) | [Gizem Demirhan](https://open.spotify.com/artist/1E0M9BtLjPMUurgqUqpi7o) | [Still Here](https://open.spotify.com/album/6k7m9nMvk7dJVqW00aoWaz) | 3:48 | 2025-12-13 |  |
 | [Sugar Husk](https://open.spotify.com/track/5z1wdXc7CubJyvWkSqT8g6) | [Novelistme](https://open.spotify.com/artist/1x8JnJjZPlFO4UciBRXMQb) | [Sugar Husk](https://open.spotify.com/album/6FlVAZQscsAXMcXhtrNETh) | 2:13 | 2025-10-31 | 2025-12-28 |
+| [Summertime \(2025\)](https://open.spotify.com/track/5KnewAmxxneui5ZujMZkQV) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Songs For The Eternity.](https://open.spotify.com/album/08sRFB6te5DGLlvBj1IYdY) | 4:33 | 2025-12-31 |  |
 | [Sunday Lazy Afternoon](https://open.spotify.com/track/2o9V82qmpXdcykHrfR168t) | [Johnny & The G\-Men](https://open.spotify.com/artist/6rdvPNdq54f4TVhXsabGV6) | [Sunday Lazy Afternoon](https://open.spotify.com/album/3LAwyyI6spkmdzMstWDXaB) | 4:52 | 2025-12-25 |  |
 | [Symptoms](https://open.spotify.com/track/5hc8GGmxu3BgKXSniNkrSP) | [Ms\. Black](https://open.spotify.com/artist/1mBBTF4wjXjlIDbXN77rxi) | [Symptoms](https://open.spotify.com/album/3irfLhqD8GeOS4rExK08EI) | 2:51 | 2025-10-28 | 2025-12-28 |
 | [Take Me to the Top](https://open.spotify.com/track/3iikl4YLJHy3JyegB6FzAE) | [ARMAGELION](https://open.spotify.com/artist/4SbqNuXLiu8IFt1RdIDtia) | [Take Me to the Top](https://open.spotify.com/album/0W2FAqh9grkIdrF21bhTTe) | 4:05 | 2025-12-06 |  |

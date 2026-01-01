@@ -1,6 +1,6 @@
 {
   "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Panos Kiamos",
-  "num_followers": 37361,
+  "num_followers": 37357,
   "original_name": "Laika tou Simera",
   "owner": {
     "name": "Spotify",
@@ -523,22 +523,18 @@
     {
       "added_at": "2025-12-18 22:00:33",
       "album": {
-        "name": "Xorepse",
-        "url": "https://open.spotify.com/album/2FJpQ42IEy1G66GmbSuYUs"
+        "name": "Tetoia Ora Tetoia Logia",
+        "url": "https://open.spotify.com/album/3kO8SldfCQ9QQHmJKhYdbS"
       },
       "artists": [
         {
-          "name": "Michalis Hatzigiannis",
-          "url": "https://open.spotify.com/artist/77YRvt1TuxpCmW4Ydrx69A"
-        },
-        {
-          "name": "Christos Mastoras",
-          "url": "https://open.spotify.com/artist/1XlTr7C0vwBmlpnsN8OMhu"
+          "name": "Giorgos Kakosaios",
+          "url": "https://open.spotify.com/artist/4uyuai6Pqgz3kSx1Jme2PJ"
         }
       ],
-      "duration_ms": 228977,
-      "name": "Xorepse",
-      "url": "https://open.spotify.com/track/3FNGcipuHWekU1KvhdrAwH"
+      "duration_ms": 192499,
+      "name": "Tetoia Ora Tetoia Logia",
+      "url": "https://open.spotify.com/track/54nRNSRJJXH1XIJZY4H5Xm"
     },
     {
       "added_at": "2025-12-18 22:00:33",
@@ -559,18 +555,22 @@
     {
       "added_at": "2025-12-18 22:00:33",
       "album": {
-        "name": "Tetoia Ora Tetoia Logia",
-        "url": "https://open.spotify.com/album/3kO8SldfCQ9QQHmJKhYdbS"
+        "name": "Xorepse",
+        "url": "https://open.spotify.com/album/2FJpQ42IEy1G66GmbSuYUs"
       },
       "artists": [
         {
-          "name": "Giorgos Kakosaios",
-          "url": "https://open.spotify.com/artist/4uyuai6Pqgz3kSx1Jme2PJ"
+          "name": "Michalis Hatzigiannis",
+          "url": "https://open.spotify.com/artist/77YRvt1TuxpCmW4Ydrx69A"
+        },
+        {
+          "name": "Christos Mastoras",
+          "url": "https://open.spotify.com/artist/1XlTr7C0vwBmlpnsN8OMhu"
         }
       ],
-      "duration_ms": 192499,
-      "name": "Tetoia Ora Tetoia Logia",
-      "url": "https://open.spotify.com/track/54nRNSRJJXH1XIJZY4H5Xm"
+      "duration_ms": 228977,
+      "name": "Xorepse",
+      "url": "https://open.spotify.com/track/3FNGcipuHWekU1KvhdrAwH"
     },
     {
       "added_at": "2025-12-18 22:00:33",
@@ -835,6 +835,22 @@
     {
       "added_at": "2025-12-18 22:00:33",
       "album": {
+        "name": "Horis Esena Den Iparho",
+        "url": "https://open.spotify.com/album/0byNCHqjkdDFaO2Zcw7xQI"
+      },
+      "artists": [
+        {
+          "name": "Harry Varthakouris",
+          "url": "https://open.spotify.com/artist/1SaOXUm6hMFbMdAzAT5ZWd"
+        }
+      ],
+      "duration_ms": 254203,
+      "name": "Horis Esena Den Iparho",
+      "url": "https://open.spotify.com/track/7xGfCLpA8UdempaJ5EnSr5"
+    },
+    {
+      "added_at": "2025-12-18 22:00:33",
+      "album": {
         "name": "Allo",
         "url": "https://open.spotify.com/album/13TWhaKSz5HPkVg7gVCKav"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 213846,
       "name": "Allo",
       "url": "https://open.spotify.com/track/1iTNgKcDKw0b2mRA1rMSJ5"
-    },
-    {
-      "added_at": "2025-12-18 22:00:33",
-      "album": {
-        "name": "Perifanos Aetos",
-        "url": "https://open.spotify.com/album/2S4Toa1hOvgdIJWjqBIUr1"
-      },
-      "artists": [
-        {
-          "name": "Konstantinos Argiros",
-          "url": "https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7"
-        }
-      ],
-      "duration_ms": 228835,
-      "name": "Perifanos Aetos",
-      "url": "https://open.spotify.com/track/2vS4fNndj45xFMYRcAuLJU"
     }
   ],
   "unique_name": "Laika tou Simera",

@@ -1,6 +1,6 @@
 {
   "description": "Strings and pianos to accompany your latest great read.",
-  "num_followers": 204241,
+  "num_followers": 204256,
   "original_name": "Instrumental Reading",
   "owner": {
     "name": "Spotify",
@@ -315,22 +315,6 @@
     {
       "added_at": "2025-12-23 11:35:17",
       "album": {
-        "name": "Sad Cello & Piano XXII",
-        "url": "https://open.spotify.com/album/1Zd0oRtoHZa6HTQ7f0diiZ"
-      },
-      "artists": [
-        {
-          "name": "Martin Czerny",
-          "url": "https://open.spotify.com/artist/3dKnHhya1g24Mwljr9jbDu"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Tired Mind",
-      "url": "https://open.spotify.com/track/5Uq1XhExgdb6fGLwEcT5Qd"
-    },
-    {
-      "added_at": "2025-12-23 11:35:17",
-      "album": {
         "name": "Ave Maria (Meditation on the Prelude by J. S. Bach)",
         "url": "https://open.spotify.com/album/7nWKkPJ44GahKfhhcV62o3"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 153679,
       "name": "Ave Maria (Meditation on the Prelude by J. S. Bach)",
       "url": "https://open.spotify.com/track/3BxsNGnXXzwaI7qfh82EyA"
+    },
+    {
+      "added_at": "2025-12-23 11:35:17",
+      "album": {
+        "name": "Sad Cello & Piano XXII",
+        "url": "https://open.spotify.com/album/1Zd0oRtoHZa6HTQ7f0diiZ"
+      },
+      "artists": [
+        {
+          "name": "Martin Czerny",
+          "url": "https://open.spotify.com/artist/3dKnHhya1g24Mwljr9jbDu"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Tired Mind",
+      "url": "https://open.spotify.com/track/5Uq1XhExgdb6fGLwEcT5Qd"
     },
     {
       "added_at": "2025-12-23 11:35:17",

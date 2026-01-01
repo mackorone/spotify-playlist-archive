@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Niche. The essential tracks, all in one playlist.",
-  "num_followers": 160995,
+  "num_followers": 161044,
   "original_name": "This Is Grupo Niche",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVHEgAAAAABjrGOFIc2USF08m/WxAYby",
+  "snapshot_id": "aVMWAAAAAABKYcX7HgFkEJ5UsKPS8fgE",
   "tracks": [
     {
       "added_at": null,
@@ -171,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Control Absoluto",
-        "url": "https://open.spotify.com/album/02P7Yan85kfSzMZZR6CFx9"
+        "name": "Querer Es Poder",
+        "url": "https://open.spotify.com/album/4OlAW51jIyup0hLzK03fHQ"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 252626,
-      "name": "Enamorada",
-      "url": "https://open.spotify.com/track/7pFSymHAQO021YmaKCVDoC"
+      "duration_ms": 309963,
+      "name": "Buenaventura y Caney",
+      "url": "https://open.spotify.com/track/3kWdP01aQOtBun2FumlqTm"
     },
     {
       "added_at": null,
@@ -203,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Querer Es Poder",
-        "url": "https://open.spotify.com/album/4OlAW51jIyup0hLzK03fHQ"
+        "name": "Control Absoluto",
+        "url": "https://open.spotify.com/album/02P7Yan85kfSzMZZR6CFx9"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 309963,
-      "name": "Buenaventura y Caney",
-      "url": "https://open.spotify.com/track/3kWdP01aQOtBun2FumlqTm"
+      "duration_ms": 252626,
+      "name": "Enamorada",
+      "url": "https://open.spotify.com/track/7pFSymHAQO021YmaKCVDoC"
     },
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se\u00f1ales de Humo",
-        "url": "https://open.spotify.com/album/0xccneykPb7RZMB6UV5grn"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 315600,
-      "name": "Mujer de Novela",
-      "url": "https://open.spotify.com/track/0ql5YXad4srSRaBoSAnR9h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Hay Quinto Malo",
         "url": "https://open.spotify.com/album/1ibD6liWR6qqeNgQay95gJ"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 356640,
       "name": "Solo un Cari\u00f1o",
       "url": "https://open.spotify.com/track/3QstQ0s2AFt5vAY7nDjp37"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Se\u00f1ales de Humo",
+        "url": "https://open.spotify.com/album/0xccneykPb7RZMB6UV5grn"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 315600,
+      "name": "Mujer de Novela",
+      "url": "https://open.spotify.com/track/0ql5YXad4srSRaBoSAnR9h"
     },
     {
       "added_at": null,
@@ -743,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cali Pachanguero 40 A\u00f1os",
-        "url": "https://open.spotify.com/album/4a75zchEpeHQj8y1A2kSRC"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 287093,
-      "name": "Cali Pachanguero 40 A\u00f1os",
-      "url": "https://open.spotify.com/track/64H2xGPNjBtXNsTWflotcl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Golpe de Folklore",
         "url": "https://open.spotify.com/album/1GHV54c3dMwxLe3p2QgnWi"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 282536,
       "name": "Han Cogido la Cosa",
       "url": "https://open.spotify.com/track/1Y1OX9CuslwUPpq0dtjJxI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cali Pachanguero 40 A\u00f1os",
+        "url": "https://open.spotify.com/album/4a75zchEpeHQj8y1A2kSRC"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 287093,
+      "name": "Cali Pachanguero 40 A\u00f1os",
+      "url": "https://open.spotify.com/track/64H2xGPNjBtXNsTWflotcl"
     },
     {
       "added_at": null,

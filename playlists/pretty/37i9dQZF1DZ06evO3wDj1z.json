@@ -1,12 +1,12 @@
 {
   "description": "This is Sergio Vega \"El Shaka\". The essential tracks, all in one playlist.",
-  "num_followers": 116080,
+  "num_followers": 116130,
   "original_name": "This Is Sergio Vega \"El Shaka\"",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVHEgAAAAABm/PNOnFEn4l+X3KRHbgoB",
+  "snapshot_id": "aVMWAAAAAACHO2GtRDXPvDflLVjwIewp",
   "tracks": [
     {
       "added_at": null,
@@ -52,9 +52,9 @@
           "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
         }
       ],
-      "duration_ms": 222866,
-      "name": "Millonario De Amor",
-      "url": "https://open.spotify.com/track/7LCymER3kimMSSMBnuyEub"
+      "duration_ms": 214293,
+      "name": "Soy Tu Amante Y Que",
+      "url": "https://open.spotify.com/track/1iNP2rLmcCCoXuqsjNkSE2"
     },
     {
       "added_at": null,
@@ -91,38 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Jefe De Las Plazas",
-        "url": "https://open.spotify.com/album/6Fuiu6sxPNbpGFlEIrNilN"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 180080,
-      "name": "Disculpe Usted",
-      "url": "https://open.spotify.com/track/39R8oPoofJ002w5YOwFzjy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Millonario De Amor",
-        "url": "https://open.spotify.com/album/13d6INVzyUnmbJlFEjvZMQ"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 214293,
-      "name": "Soy Tu Amante Y Que",
-      "url": "https://open.spotify.com/track/1iNP2rLmcCCoXuqsjNkSE2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Gusta Estar Contigo",
         "url": "https://open.spotify.com/album/75O9ELyZKaqQEpO6Y5EtNG"
       },
@@ -139,8 +107,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuando El Sol Salga Al Rev\u00e9s",
-        "url": "https://open.spotify.com/album/3yZ3Du2ASwDDYMmQsvSlCa"
+        "name": "Millonario De Amor",
+        "url": "https://open.spotify.com/album/13d6INVzyUnmbJlFEjvZMQ"
       },
       "artists": [
         {
@@ -148,9 +116,25 @@
           "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
         }
       ],
-      "duration_ms": 187760,
-      "name": "Cuando el Sol Salga Al Rev\u00e9s",
-      "url": "https://open.spotify.com/track/421JL88eYQqTCwEmsNmmXj"
+      "duration_ms": 222866,
+      "name": "Millonario De Amor",
+      "url": "https://open.spotify.com/track/7LCymER3kimMSSMBnuyEub"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Jefe De Las Plazas",
+        "url": "https://open.spotify.com/album/6Fuiu6sxPNbpGFlEIrNilN"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 180080,
+      "name": "Disculpe Usted",
+      "url": "https://open.spotify.com/track/39R8oPoofJ002w5YOwFzjy"
     },
     {
       "added_at": null,
@@ -167,6 +151,22 @@
       "duration_ms": 207533,
       "name": "Muchachita de Ojos Tristes - Banda Version",
       "url": "https://open.spotify.com/track/1PzeC9bXESHGvPhNMYn0hd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cuando El Sol Salga Al Rev\u00e9s",
+        "url": "https://open.spotify.com/album/3yZ3Du2ASwDDYMmQsvSlCa"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 187760,
+      "name": "Cuando el Sol Salga Al Rev\u00e9s",
+      "url": "https://open.spotify.com/track/421JL88eYQqTCwEmsNmmXj"
     },
     {
       "added_at": null,
@@ -575,6 +575,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Desde el Cielo",
+        "url": "https://open.spotify.com/album/3NLkn2oW8lkfe6pLbTQiRV"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 164106,
+      "name": "Las Parcelas de Mendoza",
+      "url": "https://open.spotify.com/track/3HR093fTutGwn5EUWne3ZR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Para Toda La Vida",
         "url": "https://open.spotify.com/album/5M1ekIVxWsYSU50Z40UMTc"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 212053,
       "name": "Ni Se Te Ocurra (Para Toda La Vida)",
       "url": "https://open.spotify.com/track/5Ud3z2t76A54Z4Uhgryp2q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Desde el Cielo",
-        "url": "https://open.spotify.com/album/3NLkn2oW8lkfe6pLbTQiRV"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 164106,
-      "name": "Las Parcelas de Mendoza",
-      "url": "https://open.spotify.com/track/3HR093fTutGwn5EUWne3ZR"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sus Primeros Exitos Con Los Hermanos",
-        "url": "https://open.spotify.com/album/2NmDamXzG1rTrvTCWmRX3G"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 184666,
-      "name": "Te So\u00f1ar\u00e9",
-      "url": "https://open.spotify.com/track/078OlTYi0bydRM1r8Wuglb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Mi Gente...Mis Canciones En Vivo (Live At Teatro Del Pueblo Hermosillo, Sonora/2010)",
         "url": "https://open.spotify.com/album/5Drk9MyJw0bYJyRcoW0Qcy"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 173106,
       "name": "Pase Y Pase - En Vivo",
       "url": "https://open.spotify.com/track/6JddtBLhOsODAOVxRQWeFi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sus Primeros Exitos Con Los Hermanos",
+        "url": "https://open.spotify.com/album/2NmDamXzG1rTrvTCWmRX3G"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 184666,
+      "name": "Te So\u00f1ar\u00e9",
+      "url": "https://open.spotify.com/track/078OlTYi0bydRM1r8Wuglb"
     },
     {
       "added_at": null,
@@ -787,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sus Primeros Exitos Con Los Hermanos",
-        "url": "https://open.spotify.com/album/2NmDamXzG1rTrvTCWmRX3G"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 174706,
-      "name": "Mendigo De Amor",
-      "url": "https://open.spotify.com/track/1qaZ0SSplJDtkMONFp6MV5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desde El Cielo",
         "url": "https://open.spotify.com/album/73Pq9VKUdTh4gVUwvxCzQd"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 158520,
       "name": "Sepa Dios",
       "url": "https://open.spotify.com/track/6kqJnZAi3g4oH3NsxBPvtl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sus Primeros Exitos Con Los Hermanos",
+        "url": "https://open.spotify.com/album/2NmDamXzG1rTrvTCWmRX3G"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 174706,
+      "name": "Mendigo De Amor",
+      "url": "https://open.spotify.com/track/1qaZ0SSplJDtkMONFp6MV5"
     }
   ],
   "unique_name": "This Is Sergio Vega \"El Shaka\"",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: Jay Park\(박재범\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 768,609 likes - 54 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 768,604 likes - 54 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

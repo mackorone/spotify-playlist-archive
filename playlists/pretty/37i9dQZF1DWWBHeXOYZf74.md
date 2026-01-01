@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Samara Cyn
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,330,273 likes - 101 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,330,231 likes - 101 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

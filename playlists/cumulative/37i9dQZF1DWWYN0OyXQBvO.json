@@ -285,6 +285,24 @@
     },
     {
       "album": {
+        "name": "The Man Who Invented Soul",
+        "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Chain Gang",
+      "url": "https://open.spotify.com/track/1sK10Me7qS9em2QTx6dYRe"
+    },
+    {
+      "album": {
         "name": "Jump For Joy",
         "url": "https://open.spotify.com/album/1FfJGpYVPvVx0OEPbMkVqz"
       },
@@ -546,6 +564,24 @@
       "duration_ms": 126933,
       "name": "Henry",
       "url": "https://open.spotify.com/track/4KGzQ3ouumNsdVs0O1w9vc"
+    },
+    {
+      "album": {
+        "name": "Rock'n Roll Stage Show",
+        "url": "https://open.spotify.com/album/7o9NRs7sz1tyPYN2klhLiZ"
+      },
+      "artists": [
+        {
+          "name": "Bill Haley & His Comets",
+          "url": "https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157000,
+      "name": "Hot Dog, Buddy, Buddy",
+      "url": "https://open.spotify.com/track/62BAGsMUAZeBGAlkoUuSAh"
     },
     {
       "album": {
@@ -1450,6 +1486,28 @@
       "duration_ms": 163706,
       "name": "The Wanderer",
       "url": "https://open.spotify.com/track/0tV9rv9u4pT5RDdIrGt2SE"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/4nc8zpPtZNQfSSFFh6Bg9s"
+      },
+      "artists": [
+        {
+          "name": "DON GEORGE",
+          "url": "https://open.spotify.com/artist/2HEGU6xYiQ7odOssBcMtCF"
+        },
+        {
+          "name": "Mitch Miller",
+          "url": "https://open.spotify.com/artist/0kLeQeOAEqHdFMUItesuij"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181066,
+      "name": "The Yellow Rose of Texas - Single Version",
+      "url": "https://open.spotify.com/track/7985fUI9WlsIIrQuO9TBDh"
     },
     {
       "album": {

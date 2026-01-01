@@ -1,12 +1,12 @@
 {
   "description": "This is PinkPantheress. The essential tracks, all in one playlist.",
-  "num_followers": 82531,
+  "num_followers": 82558,
   "original_name": "This Is PinkPantheress",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVHEgAAAAACLTtiP6rd367ZhAYeFdV5T",
+  "snapshot_id": "aVMWAAAAAAD1cmWkkgfNWP4+RsLLvARC",
   "tracks": [
     {
       "added_at": null,
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
         }
       ],
-      "duration_ms": 136573,
-      "name": "True romance",
-      "url": "https://open.spotify.com/track/3ozo6hdOQAJKY1KZExV6UJ"
+      "duration_ms": 181280,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/0LsfA3w3zQh2fcN4XeHmSK"
     },
     {
       "added_at": null,
@@ -576,9 +576,9 @@
           "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
         }
       ],
-      "duration_ms": 181280,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/0LsfA3w3zQh2fcN4XeHmSK"
+      "duration_ms": 136573,
+      "name": "True romance",
+      "url": "https://open.spotify.com/track/3ozo6hdOQAJKY1KZExV6UJ"
     },
     {
       "added_at": null,
@@ -632,13 +632,13 @@
           "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
         },
         {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+          "name": "Yves",
+          "url": "https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce"
         }
       ],
-      "duration_ms": 293308,
-      "name": "Girl Like Me + Kaytranada",
-      "url": "https://open.spotify.com/track/76AtpWLCarPl4okCl8XCwS"
+      "duration_ms": 141793,
+      "name": "Stars + Yves",
+      "url": "https://open.spotify.com/track/52vFAalJWVolzGZXmjtPIz"
     },
     {
       "added_at": null,
@@ -663,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Angel (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/7zSG5WWbS0P7pXbk90gn5V"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 123820,
+      "name": "Angel (From Barbie The Album)",
+      "url": "https://open.spotify.com/track/0CpfO9VNiW0OGIaZO6zO3n"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Starlight",
         "url": "https://open.spotify.com/album/1dQoYygKLSNNGvJuLwYMfI"
       },
@@ -683,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Angel (From Barbie The Album)",
-        "url": "https://open.spotify.com/album/7zSG5WWbS0P7pXbk90gn5V"
-      },
-      "artists": [
-        {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-        }
-      ],
-      "duration_ms": 123820,
-      "name": "Angel (From Barbie The Album)",
-      "url": "https://open.spotify.com/track/0CpfO9VNiW0OGIaZO6zO3n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fancy Some More?",
         "url": "https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF"
       },
@@ -708,13 +708,13 @@
           "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
         },
         {
-          "name": "Yves",
-          "url": "https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce"
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
         }
       ],
-      "duration_ms": 141793,
-      "name": "Stars + Yves",
-      "url": "https://open.spotify.com/track/52vFAalJWVolzGZXmjtPIz"
+      "duration_ms": 293308,
+      "name": "Girl Like Me + Kaytranada",
+      "url": "https://open.spotify.com/track/76AtpWLCarPl4okCl8XCwS"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > Happy Holidays! No new releases from us this week, but <a href="https://open.spotify.com/playlist/37i9dQZF1DX4JAvHpjipBk?si=c4431526c08c4325">US New Music Friday</a> has you covered\. We’ll be back next week\. Cover: Arkells
 
-[Spotify](https://open.spotify.com/user/spotify) - 580,246 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 580,208 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

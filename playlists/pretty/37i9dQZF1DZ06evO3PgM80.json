@@ -1,12 +1,12 @@
 {
   "description": "This is Julia Vit\u00f3ria. The essential tracks, all in one playlist.",
-  "num_followers": 21786,
+  "num_followers": 21781,
   "original_name": "This Is Julia Vit\u00f3ria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVHEgAAAAABMNfRm+dmwmZMkNWlvmVKk",
+  "snapshot_id": "aVMWAAAAAAAp+/WrvMt7LILPx1VLwSnM",
   "tracks": [
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outra Vez",
-        "url": "https://open.spotify.com/album/7ACwaHel0Oo9kV0fDcG2H8"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 304400,
-      "name": "Outra Vez",
-      "url": "https://open.spotify.com/track/4tjvxMkJlHPPJ2hRDU2jYg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Clamo Jesus (feat. Julia Vit\u00f3ria)",
         "url": "https://open.spotify.com/album/3AAJ6ruUbzkffCCfPs1AOf"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 395773,
       "name": "Clamo Jesus (feat. Julia Vit\u00f3ria)",
       "url": "https://open.spotify.com/track/2hZiJNnQTYL0qHgh4zIbNE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outra Vez",
+        "url": "https://open.spotify.com/album/7ACwaHel0Oo9kV0fDcG2H8"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 304400,
+      "name": "Outra Vez",
+      "url": "https://open.spotify.com/track/4tjvxMkJlHPPJ2hRDU2jYg"
     },
     {
       "added_at": null,
@@ -867,22 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Your Waters",
-        "url": "https://open.spotify.com/album/2qmDIbM3kSjJ0h6kmuwvoz"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 308733,
-      "name": "Your Waters",
-      "url": "https://open.spotify.com/track/1dDDrI8BsmRBPzR6LtiK6h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tu \u00c9s Rei",
         "url": "https://open.spotify.com/album/0cZcSReFhsKGSKx2XT19W7"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 421395,
       "name": "Tu \u00c9s Rei",
       "url": "https://open.spotify.com/track/1ZRqhv2xiJWVrSOaD5VLpm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Your Waters",
+        "url": "https://open.spotify.com/album/2qmDIbM3kSjJ0h6kmuwvoz"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 308733,
+      "name": "Your Waters",
+      "url": "https://open.spotify.com/track/1dDDrI8BsmRBPzR6LtiK6h"
     },
     {
       "added_at": null,

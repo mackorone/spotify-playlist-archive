@@ -1,12 +1,12 @@
 {
   "description": "This is \u00c1ngela Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 152227,
+  "num_followers": 152221,
   "original_name": "This Is \u00c1ngela Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVHEgAAAAAB2sTwgSZlZL6Fvz8sXMG+c",
+  "snapshot_id": "aVMWAAAAAABrCK1FY8rYezjGiq/SxuGA",
   "tracks": [
     {
       "added_at": null,
@@ -595,6 +595,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Los D\u00fao 3",
+        "url": "https://open.spotify.com/album/3f8PsF3D3BxxQJGvN2nqXC"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 186840,
+      "name": "Nada M\u00e1s Dec\u00eddete",
+      "url": "https://open.spotify.com/track/7reIkem0M3QFwqNpCZ2pSN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Yuri y Sus Amigos del Regional Mexicano",
         "url": "https://open.spotify.com/album/6tRva9OrjfJ1wzU44X2y3V"
       },
@@ -663,26 +683,6 @@
       "duration_ms": 246183,
       "name": "Brillante Sobre el Mic - EADDA9223",
       "url": "https://open.spotify.com/track/3gnbXX0Fv5iiUvxZVX2O2x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Los D\u00fao 3",
-        "url": "https://open.spotify.com/album/3f8PsF3D3BxxQJGvN2nqXC"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        },
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 186840,
-      "name": "Nada M\u00e1s Dec\u00eddete",
-      "url": "https://open.spotify.com/track/7reIkem0M3QFwqNpCZ2pSN"
     },
     {
       "added_at": null,

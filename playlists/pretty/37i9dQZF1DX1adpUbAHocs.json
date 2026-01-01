@@ -1,6 +1,6 @@
 {
   "description": "hop in and take the long way.",
-  "num_followers": 641819,
+  "num_followers": 641762,
   "original_name": "Scenic Route",
   "owner": {
     "name": "Spotify",
@@ -1515,26 +1515,6 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "Weather Balloons [Feat. Frances Cone]",
-        "url": "https://open.spotify.com/album/752tNJJGYbjlnFfSZBO9ju"
-      },
-      "artists": [
-        {
-          "name": "Susto",
-          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
-        },
-        {
-          "name": "Frances Cone",
-          "url": "https://open.spotify.com/artist/5xKsfZBL84iULLWjvd4dWh"
-        }
-      ],
-      "duration_ms": 212502,
-      "name": "Weather Balloons [Feat. Frances Cone]",
-      "url": "https://open.spotify.com/track/4mOmMccRWthpaUtjPhiQm8"
-    },
-    {
-      "added_at": "2024-07-05 20:58:56",
-      "album": {
         "name": "It\u2019s a good day (to fight the system) [feat. Joy Oladokun]",
         "url": "https://open.spotify.com/album/4PLKogyBkZU5ApXNogSDIF"
       },
@@ -1555,18 +1535,22 @@
     {
       "added_at": "2024-07-05 20:58:56",
       "album": {
-        "name": "Belong",
-        "url": "https://open.spotify.com/album/22sKyWyE7QGrAtfPHDboXV"
+        "name": "Weather Balloons [Feat. Frances Cone]",
+        "url": "https://open.spotify.com/album/752tNJJGYbjlnFfSZBO9ju"
       },
       "artists": [
         {
-          "name": "San Fermin",
-          "url": "https://open.spotify.com/artist/7fSnislKgW9Mz0YIqWQmGt"
+          "name": "Susto",
+          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
+        },
+        {
+          "name": "Frances Cone",
+          "url": "https://open.spotify.com/artist/5xKsfZBL84iULLWjvd4dWh"
         }
       ],
-      "duration_ms": 229080,
-      "name": "Bride",
-      "url": "https://open.spotify.com/track/258ONJcunOE7KA225pLP2x"
+      "duration_ms": 212502,
+      "name": "Weather Balloons [Feat. Frances Cone]",
+      "url": "https://open.spotify.com/track/4mOmMccRWthpaUtjPhiQm8"
     },
     {
       "added_at": "2024-07-05 20:58:56",
@@ -1583,6 +1567,22 @@
       "duration_ms": 247478,
       "name": "Amen",
       "url": "https://open.spotify.com/track/59pMk1hZKKYQw1itapEMCI"
+    },
+    {
+      "added_at": "2024-07-05 20:58:56",
+      "album": {
+        "name": "Belong",
+        "url": "https://open.spotify.com/album/22sKyWyE7QGrAtfPHDboXV"
+      },
+      "artists": [
+        {
+          "name": "San Fermin",
+          "url": "https://open.spotify.com/artist/7fSnislKgW9Mz0YIqWQmGt"
+        }
+      ],
+      "duration_ms": 229080,
+      "name": "Bride",
+      "url": "https://open.spotify.com/track/258ONJcunOE7KA225pLP2x"
     },
     {
       "added_at": "2024-07-05 20:58:56",

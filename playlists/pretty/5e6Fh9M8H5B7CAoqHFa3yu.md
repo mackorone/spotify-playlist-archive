@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 243 likes - 1,765 songs - 4 day 10 hr 59 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 243 likes - 1,766 songs - 4 day 11 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1710,7 +1710,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 1700 | [Ruin You](https://open.spotify.com/track/5DGEFddKdHhqdBQzc33gsy) | [Maddie Hogan](https://open.spotify.com/artist/6quyQgHYbx0Hiv7sz5PPxk) | [Ruin You](https://open.spotify.com/album/7tsnbxX5EpgDphSwgxA5jR) | 3:37 |
 | 1701 | [Worst Universe](https://open.spotify.com/track/0jdnGukKtJsvQ3EfvB5m3F) | [Marcy Daydream](https://open.spotify.com/artist/6NkpRJhd9in8Syp4gT3ka9) | [Worst Universe](https://open.spotify.com/album/3ts13EAFlZY3xcN9jmN19L) | 4:07 |
 | 1702 | [FRONTIER SNOW](https://open.spotify.com/track/6qW4799c2YhHshgwyVgXOl) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [FRONTIER SNOW](https://open.spotify.com/album/3S8GuBbOqtyIN5EqF5KiC2) | 3:19 |
-| 1703 | [Just take it like a man \(prod\. rutherford\)](https://open.spotify.com/track/1nlL8h5SlpHQRc7zDWgE7R) | [ski mask BIG daddy](https://open.spotify.com/artist/63AMuOyMwnLVlOWMskZ6B5) | [Just take it like a man \(prod\. rutherford\)](https://open.spotify.com/album/0nN0VqilWsN1XwMbNz8WmK) | 2:56 |
+| 1703 | [Just take it like a man \(prod\. rutherford\)](https://open.spotify.com/track/1nlL8h5SlpHQRc7zDWgE7R) | [IlostmyTime](https://open.spotify.com/artist/2bGSCoX6Q2o1TPU7PiQVIW) | [Just take it like a man \(prod\. rutherford\)](https://open.spotify.com/album/0nN0VqilWsN1XwMbNz8WmK) | 2:56 |
 | 1704 | [Filtros](https://open.spotify.com/track/2w6Vf7RMtvWOMXV6HTalL5) | [Chulengos](https://open.spotify.com/artist/0yQnTg2ffha0IqbTWTvwsd) | [Filtros](https://open.spotify.com/album/41cTBLBHm96ebgJUiVlVaA) | 2:31 |
 | 1705 | [Zenith](https://open.spotify.com/track/6OrjMdW9uD4sDkJueoK3Jh) | [Vann's Nebula](https://open.spotify.com/artist/3weSFV7MGGpEDX60DTEzlM) | [Archive](https://open.spotify.com/album/1fG3rsdIsT9i2ysubVZQAH) | 2:58 |
 | 1706 | [Things Ah Get Tuff](https://open.spotify.com/track/1ShVw6HorYpQ49D7EZtNVs) | [Makyo](https://open.spotify.com/artist/3FGI29SmDTzOZgdGtHkzku) | [Things Ah Get Tuff](https://open.spotify.com/album/17xUNLNDNREfl1W9dp4ABr) | 4:36 |
@@ -1773,5 +1773,6 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 1763 | [He Talks Too Angels](https://open.spotify.com/track/0dMjRdjCuvh8CTMGnwc4Uv) | [420 Vision](https://open.spotify.com/artist/0Jfa0ovGl8yKOxqRCzXmcr) | [He Talks Too Angels](https://open.spotify.com/album/29PpTwjX8Faxt3VhyyIH5t) | 5:44 |
 | 1764 | [Pizza Funghi](https://open.spotify.com/track/5xW0M3w4m9fQdBbTbpWca4) | [Lunamber](https://open.spotify.com/artist/6kQ6my1pRo4S7X8WYXj8B1) | [Pizza Funghi](https://open.spotify.com/album/6iLwnrQTImmq300jcdRrMC) | 2:44 |
 | 1765 | [Waters of Quiet Healing \(Thème du Soin\)](https://open.spotify.com/track/2CbEox9lXcr1a2FUKgLr39) | [Florian Bochkovsky](https://open.spotify.com/artist/2VGhfRg7fACPIC0txbKqCp) | [Le Royaume D'Ailm \(Original Game Soundtrack\)](https://open.spotify.com/album/41i1shI977hJN6kHl7ZBWR) | 1:38 |
+| 1766 | [Grape Vines](https://open.spotify.com/track/48jkYOrR3hxMfzmAHje3iD) | [Krosst Out](https://open.spotify.com/artist/5SLzIGQL3GubJ4ri5PFGqM) | [Grape Vines](https://open.spotify.com/album/1Uljy3P4atifyuDcshyVlA) | 3:55 |
 
-Snapshot ID: `AAAHtpd+F6fNqt/w1bNaOhOuPbq7Wsfw`
+Snapshot ID: `AAAHt80teDypAh9QzyWul37lbRUYURzO`

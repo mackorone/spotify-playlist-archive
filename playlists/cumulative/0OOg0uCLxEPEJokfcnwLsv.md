@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-201 songs - 12 hr 18 min
+205 songs - 12 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Lobotomy](https://open.spotify.com/track/19aXEmTM5YghumBM5d0HWu) | [Americarnage](https://open.spotify.com/artist/5TZzoAg1h3A8z6DIPZMRiD) | [Plato](https://open.spotify.com/album/1qktosBCuz1WBowp8dQg0x) | 3:03 | 2025-12-13 |  |
 | [Loretta](https://open.spotify.com/track/3ORI5Wvchp4znjeSerJiCx) | [Out of Order](https://open.spotify.com/artist/5cqrirtBO1epcv1XqdB3aH) | [Loretta](https://open.spotify.com/album/3roeIB4nfgpfabqAm1EXHJ) | 3:39 | 2025-10-28 | 2025-11-22 |
 | [Loving in C](https://open.spotify.com/track/4wOagNQce8X7pi713AqWrx) | [Flow State Experience](https://open.spotify.com/artist/7l4P3Pkgf6vqqhdQLG7vrl) | [Loving in C](https://open.spotify.com/album/3q0RQpej71nrgbcuAS6giu) | 2:12 | 2025-10-27 | 2025-11-22 |
+| [Mastodonte](https://open.spotify.com/track/2ONSCIg1KbDHUhwQb3SYaj) | [Ruster](https://open.spotify.com/artist/0MB2qTmFxuZkVdphbXgSeq) | [Mastodonte](https://open.spotify.com/album/1WqEAf6ehq91MtabcIqUvr) | 3:06 | 2025-12-31 |  |
 | [melt into you](https://open.spotify.com/track/7f19vtCNG0lzI5CaYJkZi3) | [something else together.](https://open.spotify.com/artist/0fMtdcweycDDoRM0H5Rpyy) | [melt into you](https://open.spotify.com/album/0rD8DtavP3xnlSRHZGaCB8) | 4:31 | 2025-12-13 |  |
 | [Memory Lapse](https://open.spotify.com/track/3vNql4MJZIrxkRAoVI7fSz) | [Nick Wallisch](https://open.spotify.com/artist/3CUJTfHnXqWKlepkfGjHZk), [Proteus](https://open.spotify.com/artist/2npdyO8ezTNfRw9vSi8f4K) | [The Lost Jams](https://open.spotify.com/album/6FoybyVEEiMq1kpsiGa5Ni) | 3:56 | 2025-12-01 | 2025-12-28 |
 | [Miasma](https://open.spotify.com/track/5h6VI7hqGOEHKZ2SB841o1) | [Shivar](https://open.spotify.com/artist/3PxXprTqU2XCcSEWqfHZKA) | [Miasma](https://open.spotify.com/album/6iidZ2ekONN6F6X9Z4msfl) | 4:18 | 2025-11-17 | 2025-12-12 |
@@ -168,6 +169,7 @@
 | [Sunday Morning Fight \(About Saturday Night\)](https://open.spotify.com/track/1mw9rMpGKLTK87W4T0w2j7) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [Sunday Morning Fight \(About Saturday Night\)](https://open.spotify.com/album/5GAm7vkxYMcA9eRVYzodpz) | 3:44 | 2025-11-01 |  |
 | [Take me home](https://open.spotify.com/track/0mNlZQwMps3Uz9vGV0G2VO) | [Nic Li](https://open.spotify.com/artist/4Kg7L2IFz4ZI1x9FOnWEKU) | [Haga Street Revisited](https://open.spotify.com/album/0Oc9CyF1n3yIzaXjR503hC) | 1:55 | 2025-11-01 |  |
 | [Tanto](https://open.spotify.com/track/6zgyFi5AddkJEqazpqttKA) | [Anedonia](https://open.spotify.com/artist/0Aqh4GZUYMq4i6UH7ptaBP) | [Catarsis](https://open.spotify.com/album/2kswk3FL9QXty9kwJZdadg) | 4:20 | 2025-11-02 | 2025-11-22 |
+| [The Day I'm Gone](https://open.spotify.com/track/6fOJUO7CRNIgSACqSZRIAa) | [Edgeline](https://open.spotify.com/artist/6rzkpsF9nG5ScJFYTGTUOB) | [Leave](https://open.spotify.com/album/3OgnRzvhhrrcaci5Qapuqr) | 4:05 | 2025-12-31 |  |
 | [The Endless Line](https://open.spotify.com/track/4vH4XT4cbZbzPsagst504L) | [The Rabbit Council](https://open.spotify.com/artist/1nSm3sva0zgXWbnUjsu5nf) | [The Endless Line](https://open.spotify.com/album/0dPp4UDPvoi9FmbpN7jKup) | 2:28 | 2025-11-02 |  |
 | [The Friends of Joey Coyle](https://open.spotify.com/track/1Z50QG15gl43om5JALNq4a) | [Tony Mecca](https://open.spotify.com/artist/3FEarLAYejR4vLifQcpiRb) | [Heavy Mental Gypsies](https://open.spotify.com/album/432choLFbupQ8Us7b8m7I1) | 6:45 | 2025-12-13 |  |
 | [The Hook](https://open.spotify.com/track/1d56JDKGyZatnz6RRJjHcO) | [PRÝNCESS](https://open.spotify.com/artist/4rZKv505SlTFRbNmmmRhmt) | [The Hook](https://open.spotify.com/album/2OOTX25BaTsbeoSL5yvNWy) | 2:38 | 2025-12-03 | 2025-12-28 |
@@ -200,6 +202,7 @@
 | [We Know](https://open.spotify.com/track/6mQqwT8Jde1KbJiIJ2xFf3) | [Spounk](https://open.spotify.com/artist/7JTljHSbdBmEsgjNB6IviO) | [We Know](https://open.spotify.com/album/5wht23W282apahy1VUzvKA) | 4:14 | 2025-11-26 |  |
 | [Weary Bones](https://open.spotify.com/track/3LVg0NCJWPBNt1470srrpr) | [Ghost Pepper Seeds](https://open.spotify.com/artist/506uBknY803DW00wSWlH0u) | [Weary Bones](https://open.spotify.com/album/7z97YXmIhY0l5SOAhThMtv) | 3:54 | 2025-11-16 | 2025-12-12 |
 | [what's your co\-star](https://open.spotify.com/track/69ttQ5ci1qNndmLxLkesFA) | [size eleven](https://open.spotify.com/artist/2xw4IuGVbXLY2v5LM2IMOq) | [what's your co\-star](https://open.spotify.com/album/6C7e35f5HqUfWJXcDAUoiJ) | 2:00 | 2025-11-06 | 2025-12-12 |
+| [When It's Gone](https://open.spotify.com/track/6UK0nanyICljgemAndWzw8) | [Wildstreet](https://open.spotify.com/artist/5pttBZUGPhF7AcVgDke02r) | [When It's Gone](https://open.spotify.com/album/0qOCE5jm3kmYrtIKVUvhlG) | 3:53 | 2025-12-31 |  |
 | [Whiskey Breath](https://open.spotify.com/track/4MrUSgnIRXGvPWnRYCzTXC) | [The Jaded Lips](https://open.spotify.com/artist/6orV08XQAM5wA7Sm1BlrLx) | [Lip Service](https://open.spotify.com/album/4dQF4Bp3SoiFTkvGzv9ohI) | 4:03 | 2025-12-22 |  |
 | [Whispers In The Dark'](https://open.spotify.com/track/0SvJPW7oWVCviUYaoAB1NP) | [Armen Matevosyan](https://open.spotify.com/artist/65TwqYuEHIn9qyoI4DvSve) | [Whispers In The Dark'](https://open.spotify.com/album/77Yz4HqNoeydxq5d4aYfJp) | 3:54 | 2025-11-26 |  |
 | [White Devil](https://open.spotify.com/track/2FOLmxfAX5oQiOYanJccZ0) | [Until They Burn Me](https://open.spotify.com/artist/3Zis2Av9VCMKGso58CsrgH) | [A Carnival of Reveries](https://open.spotify.com/album/3PEtGxaEPDtWziE2OUrd6G) | 4:42 | 2025-11-29 | 2025-12-28 |
@@ -207,6 +210,7 @@
 | [Wolfman](https://open.spotify.com/track/335KIfI6iRzLsdHTi1PSMc) | [Matt Malone & The Holy Spirits](https://open.spotify.com/artist/24uJIeIX3E40nyx51WZO9M) | [Wolfman](https://open.spotify.com/album/1CpD6xutceVgnNhxK2aW5E) | 3:20 | 2025-11-02 | 2025-11-22 |
 | [Wolves \(Instrumental Version\)](https://open.spotify.com/track/3fPmoZmxjh4b8oJpi7NCeK) | [Open Strum](https://open.spotify.com/artist/1Xh9igcpw9BvisCWyVQ932), [Danny Bourgeois](https://open.spotify.com/artist/0j2o3txfia5ATDt4sPqAnr) | [Open Strum 2](https://open.spotify.com/album/1jIdsJW3n2lfxaP7IQnwko) | 2:07 | 2025-11-17 | 2025-12-12 |
 | [You Can't Drive a Prius Without Wheels](https://open.spotify.com/track/2bz3GfwWoGRLjvbcclozYg) | [Not Exact](https://open.spotify.com/artist/6J8F4udmCRNzDt5l1AckUG) | [On a Roll EP](https://open.spotify.com/album/64JIDZEvAnH2JFgKSLzYiy) | 3:03 | 2025-11-12 | 2025-12-12 |
+| [You Make Me Feel](https://open.spotify.com/track/0bqIWe0gXVy222fYhUlsrd) | [Gary.D.Pearson and the Distance](https://open.spotify.com/artist/6OSDFdZOodz0A77i9QbSXd) | [You Make Me Feel](https://open.spotify.com/album/63wp42Wp0TYwyKtqACYONM) | 3:59 | 2025-12-31 |  |
 | [You See Me as an Artist](https://open.spotify.com/track/2Ctm2lgIDtj7O1xwIvVZ9s) | [Sarah Hedger](https://open.spotify.com/artist/2CQDj93K4SEEYoQf96TjIy) | [You See Me as an Artist](https://open.spotify.com/album/0PjyoYmAqYGlL26PcijTeK) | 2:23 | 2025-12-01 | 2025-12-28 |
 | [Рыжая девочка\-осень \(acoustic version\)](https://open.spotify.com/track/2ekAbtabAM8qao1YjQyeoz) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Рыжая девочка\-осень \(acoustic version\)](https://open.spotify.com/album/0AKOCae4zWQSLUcVdWsI2T) | 2:50 | 2025-12-23 |  |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 392 likes - 77 songs - 4 hr 41 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 397 likes - 79 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,5 +85,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 75 | [Torn Apart And Wasted](https://open.spotify.com/track/7jyr1VgS4FEvIedi8at6vQ) | [Leave Behind](https://open.spotify.com/artist/0AE6KuLlPDvPpFoiNZmVOW) | [Torn Apart And Wasted](https://open.spotify.com/album/0Bi1TNUxcZRWVSNLi2sfMF) | 3:54 |
 | 76 | [Storm](https://open.spotify.com/track/4zco59LEN14IqrtaKHVIQq) | [Under The Pendulum](https://open.spotify.com/artist/2lQOBQMkqxOvrVdphflRKP) | [Storm](https://open.spotify.com/album/3VpAsksWzfNm6r7cHL8w6t) | 3:52 |
 | 77 | [Black Swan](https://open.spotify.com/track/5GJJ489qwQiEAj4HXKBoq4) | [Ask The Dust](https://open.spotify.com/artist/7F3WOicrHPUVKyOhZUCrND) | [Black Swan](https://open.spotify.com/album/3SYNo2RgNSlLptVzCXvRIs) | 3:31 |
+| 78 | [O Porquê da Gente](https://open.spotify.com/track/2yIyOZl5bB3kegbd6956l2) | [Tonni Moraes](https://open.spotify.com/artist/33la62weFFmj1cr8J1yuFb) | [O Porquê da Gente](https://open.spotify.com/album/0F6WDXwR0QGoRrZQtdwtqW) | 3:54 |
+| 79 | [Mastodonte](https://open.spotify.com/track/2ONSCIg1KbDHUhwQb3SYaj) | [Ruster](https://open.spotify.com/artist/0MB2qTmFxuZkVdphbXgSeq) | [Mastodonte](https://open.spotify.com/album/1WqEAf6ehq91MtabcIqUvr) | 3:06 |
 
-Snapshot ID: `AAACPSyAWaXR6LzjvHD6FRFlfLYxvU+H`
+Snapshot ID: `AAACP6Q/tiLhlXDUpFPAXopkKIRK/u5p`

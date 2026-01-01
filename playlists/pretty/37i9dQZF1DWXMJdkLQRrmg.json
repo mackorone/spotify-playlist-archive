@@ -1,6 +1,6 @@
 {
   "description": "Rock unplugged. ",
-  "num_followers": 361061,
+  "num_followers": 361090,
   "original_name": "Stripped Down",
   "owner": {
     "name": "Spotify",
@@ -659,6 +659,22 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
+        "name": "Scumbag (Acoustic)",
+        "url": "https://open.spotify.com/album/3bauwJBwUAGFxVCoajMIKv"
+      },
+      "artists": [
+        {
+          "name": "Goody Grace",
+          "url": "https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30"
+        }
+      ],
+      "duration_ms": 209420,
+      "name": "Scumbag - Acoustic",
+      "url": "https://open.spotify.com/track/37Eb16TFeVB2dxkoEnzW4W"
+    },
+    {
+      "added_at": "2024-07-05 19:40:49",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6XI7j88Hmfye0TXQgp0DcU"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 259188,
       "name": "Like A Stone (feat. Tom Morello) - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/6bbEWtu7bQtl5a5cZStE0z"
-    },
-    {
-      "added_at": "2024-07-05 19:40:49",
-      "album": {
-        "name": "Scumbag (Acoustic)",
-        "url": "https://open.spotify.com/album/3bauwJBwUAGFxVCoajMIKv"
-      },
-      "artists": [
-        {
-          "name": "Goody Grace",
-          "url": "https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30"
-        }
-      ],
-      "duration_ms": 209420,
-      "name": "Scumbag - Acoustic",
-      "url": "https://open.spotify.com/track/37Eb16TFeVB2dxkoEnzW4W"
     },
     {
       "added_at": "2024-07-05 19:40:49",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
-        "name": "Muscle Museum",
-        "url": "https://open.spotify.com/album/2jdxrIsqbmblMk50Zot9LU"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 284954,
-      "name": "Muscle Museum - Live Acoustic Version KCRW 8/3/99",
-      "url": "https://open.spotify.com/track/4hfO5Y0VTgzGyyv8EpsNYj"
-    },
-    {
-      "added_at": "2024-07-05 19:40:49",
-      "album": {
         "name": "Synchronize (Acoustic Version)",
         "url": "https://open.spotify.com/album/0OKRhsvtbTpL0pXOSyyd9L"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 163120,
       "name": "Synchronize - Acoustic Version",
       "url": "https://open.spotify.com/track/3PIs1vosCm2jxHX3E7Q1M0"
+    },
+    {
+      "added_at": "2024-07-05 19:40:49",
+      "album": {
+        "name": "Muscle Museum",
+        "url": "https://open.spotify.com/album/2jdxrIsqbmblMk50Zot9LU"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 284954,
+      "name": "Muscle Museum - Live Acoustic Version KCRW 8/3/99",
+      "url": "https://open.spotify.com/track/4hfO5Y0VTgzGyyv8EpsNYj"
     },
     {
       "added_at": "2024-07-05 19:40:49",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-07-05 19:40:49",
       "album": {
-        "name": "Something Loud (Acoustic Version)",
-        "url": "https://open.spotify.com/album/0bKIkXQNlFjYB0axTlR03v"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Eat World",
-          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
-        }
-      ],
-      "duration_ms": 200519,
-      "name": "Something Loud (Acoustic Version)",
-      "url": "https://open.spotify.com/track/1dEYpTZc2aeL4qT9qnt3wC"
-    },
-    {
-      "added_at": "2024-07-05 19:40:49",
-      "album": {
         "name": "Raised By Wolves (Acoustic)",
         "url": "https://open.spotify.com/album/4tHRq8E2f6Vjcmr5geYZU4"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 192270,
       "name": "Raised By Wolves - Acoustic",
       "url": "https://open.spotify.com/track/3XRmEtVkmKIPmDVoM8VY7u"
+    },
+    {
+      "added_at": "2024-07-05 19:40:49",
+      "album": {
+        "name": "Something Loud (Acoustic Version)",
+        "url": "https://open.spotify.com/album/0bKIkXQNlFjYB0axTlR03v"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Eat World",
+          "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
+        }
+      ],
+      "duration_ms": 200519,
+      "name": "Something Loud (Acoustic Version)",
+      "url": "https://open.spotify.com/track/1dEYpTZc2aeL4qT9qnt3wC"
     },
     {
       "added_at": "2024-07-05 19:40:49",

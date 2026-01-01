@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "All That We Need",
+        "url": "https://open.spotify.com/album/3aFfX6KlURt9DGYVDEk0Qq"
+      },
+      "artists": [
+        {
+          "name": "Southern States",
+          "url": "https://open.spotify.com/artist/2hpxrkZg9qkbadFtXnD0g2"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172988,
+      "name": "All That We Need",
+      "url": "https://open.spotify.com/track/6YdIHTbtkfjXuE1sDTQzAy"
+    },
+    {
+      "album": {
         "name": "Alone In LA",
         "url": "https://open.spotify.com/album/1j8p383R5oRrfA6l48XZxH"
       },

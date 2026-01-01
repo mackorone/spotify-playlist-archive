@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gHUsLp9bcj.md) - [plain]
 
 > The Latin soundtrack of the 50s! Cover: Pedro Infante
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,300 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,319 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gHUsLp9bcj.md) - [plain]
 | 42 | [Buenas noches mi amor \- Remastered](https://open.spotify.com/track/6bQY6gpm9XJlTy9jnSEBGz) | [Gloria Lasso](https://open.spotify.com/artist/2ufn5Tb2Vau3Y2kMNkJr47) | [Grandes éxitos \(Remastered\)](https://open.spotify.com/album/6kyb9QnVg8T3kDUILSb0CQ) | 2:44 |
 | 43 | [Agua Limpia Todo](https://open.spotify.com/track/5JnJ9IRO4lO4uCZvIT4CoN) | [Tito Puente & His Orchestra](https://open.spotify.com/artist/1zN5Et4jcH3XQ0b60IGmp1) | [Dance Mania Vol.1](https://open.spotify.com/album/1XjabdmwipT62cLSZV45SU) | 2:54 |
 | 44 | [Las Chicas de la Cruz Roja \(Fox Fado\) \- Remastered](https://open.spotify.com/track/6T1nf9LujndhDtbtB4GWN7) | [Ana Maria Parra](https://open.spotify.com/artist/29OGMAPeEHMpTqyfIkxSei) | [Ana Maria Parra, Vol\. 1 \(1958 \- 1961 Remastered\)](https://open.spotify.com/album/5Vcs4PKk0RdULOJOAAZVKG) | 2:14 |
-| 45 | [No Me Platiques Más](https://open.spotify.com/track/6G6oAAr2x7ndjFfHiB23Lt) | [Los Tres Ases](https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B) | [Sus Mejores Boleros](https://open.spotify.com/album/0qN42jK4MHgVt7uEclhJpu) | 2:56 |
-| 46 | [Vaya Con Dios](https://open.spotify.com/track/2Do8R4fmmgDHkva5rl3hEx) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Trio los Panchos](https://open.spotify.com/album/0gv3injd2puX7pu6CMvBAq) | 2:41 |
+| 45 | [Vaya Con Dios](https://open.spotify.com/track/2Do8R4fmmgDHkva5rl3hEx) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Trio los Panchos](https://open.spotify.com/album/0gv3injd2puX7pu6CMvBAq) | 2:41 |
+| 46 | [No Me Platiques Más](https://open.spotify.com/track/6G6oAAr2x7ndjFfHiB23Lt) | [Los Tres Ases](https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B) | [Sus Mejores Boleros](https://open.spotify.com/album/0qN42jK4MHgVt7uEclhJpu) | 2:56 |
 | 47 | [Espinita](https://open.spotify.com/track/1rkaB2VH8rNrOTvXSeDW9x) | [Ana María González](https://open.spotify.com/artist/5kUndRPKfSpxJ8WoDImOZU) | [Canciones de la Radio, Vol\. 2](https://open.spotify.com/album/1RSIAuaT4DTduD6mtsjRPI) | 2:21 |
 | 48 | [Cuál Es La Idea \(What's the Idea\)](https://open.spotify.com/track/4CNCGwxNp9rnVqo2fzmDYK) | [Tito Puente & His Orchestra](https://open.spotify.com/artist/1zN5Et4jcH3XQ0b60IGmp1) | [Cuban Carnival](https://open.spotify.com/album/0xIAUeelYazwvkKeY4NEYS) | 3:19 |
 | 49 | [Recordándote](https://open.spotify.com/track/2tTpd7PJ38f1TbwCVcWY0H) | [Los Cinco Latinos](https://open.spotify.com/artist/5T5Xw3jmM98NH8KMFB6qrX) | [Grandes Exitos](https://open.spotify.com/album/3QHBD3FDvUCG7sCwiKvIRD) | 1:57 |

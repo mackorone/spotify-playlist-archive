@@ -4,7 +4,7 @@
 
 > 2023
 
-109 songs - 6 hr 22 min
+110 songs - 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Long Live The Strange](https://open.spotify.com/track/6XcJvlNd4fPyEZTg6YW2xE) | [Gaz Coombes](https://open.spotify.com/artist/6ho33Vt1tjZyf8m7Z5NZhx) | [Turn The Car Around](https://open.spotify.com/album/6ZbeAO3P5TePTAeA0hgfVP) | 4:23 | 2023-09-06 |  |
 | [Love Me Not](https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:33 | 2025-05-22 |  |
 | [Love You Forever](https://open.spotify.com/track/5jouuKkqe5eCFBVTF3uHWB) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9), [John Squire](https://open.spotify.com/artist/1VaY3AT6TiOIT7MQGvKMkQ) | [Liam Gallagher & John Squire](https://open.spotify.com/album/3Neqbz02HyUyqoI5G3AS1K) | 3:35 | 2024-10-30 |  |
+| [Lullaby \- Remastered](https://open.spotify.com/track/0ZYdUkAQmKHsaKRmq8tWSE) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Deluxe Edition\)](https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy) | 4:08 | 2025-12-31 |  |
 | [M5](https://open.spotify.com/track/20Bb5TgjHcEgSDYi7H697D) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [Keep Walking!](https://open.spotify.com/album/1LcZ72USC40lsFSjKfoSqu) | 3:37 | 2025-01-13 |  |
 | [Man On A Mission](https://open.spotify.com/track/6fJld32axCH9Aw7XlVLoGG) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Man On A Mission](https://open.spotify.com/album/3gXvlO1pTEgCQlQ3O3oOPJ) | 3:31 | 2025-09-29 |  |
 | [Mardy Bum](https://open.spotify.com/track/2fyIS6GXMgUcSv4oejx63f) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1) | 2:55 | 2022-01-07 |  |

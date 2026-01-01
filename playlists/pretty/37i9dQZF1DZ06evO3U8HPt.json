@@ -1,12 +1,12 @@
 {
   "description": "This is Ella Langley. The essential tracks, all in one playlist.",
-  "num_followers": 32497,
+  "num_followers": 32654,
   "original_name": "This Is Ella Langley",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVHEgAAAAADdlX8nukPJe2onnGIEnf85",
+  "snapshot_id": "aVMWAAAAAAAhNSWWUzUJc8yJURjOm7La",
   "tracks": [
     {
       "added_at": null,
@@ -158,15 +158,11 @@
         {
           "name": "Ella Langley",
           "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
-        },
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 163973,
-      "name": "That's Why We Fight (feat. Koe Wetzel)",
-      "url": "https://open.spotify.com/track/5yIOCX7Mnu8WFvil2NGLRg"
+      "duration_ms": 205066,
+      "name": "Excuse The Mess",
+      "url": "https://open.spotify.com/track/5KP3uYT70kYwQYLXUwLlua"
     },
     {
       "added_at": null,
@@ -230,11 +226,15 @@
         {
           "name": "Ella Langley",
           "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        },
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 205066,
-      "name": "Excuse The Mess",
-      "url": "https://open.spotify.com/track/5KP3uYT70kYwQYLXUwLlua"
+      "duration_ms": 163973,
+      "name": "That's Why We Fight (feat. Koe Wetzel)",
+      "url": "https://open.spotify.com/track/5yIOCX7Mnu8WFvil2NGLRg"
     },
     {
       "added_at": null,

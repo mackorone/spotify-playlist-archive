@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVHEgAAAAAAcxlf+Js+yRnMBulpEct7P",
+  "snapshot_id": "aVMWAAAAAACRLEnpw3ZM1iHAdxKMIpZR",
   "tracks": [
     {
       "added_at": null,
@@ -251,6 +251,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "By a Thread",
+        "url": "https://open.spotify.com/album/7fjdamLdDfPcoTyx5fhRyx"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 177024,
+      "name": "Borders and Statelines",
+      "url": "https://open.spotify.com/track/6lFblVaQRc9OxzAOWFJ3r3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The World Don't Owe You Anything",
         "url": "https://open.spotify.com/album/5380vNQwfXfMQEpIBgnGRg"
       },
@@ -267,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "By a Thread",
-        "url": "https://open.spotify.com/album/7fjdamLdDfPcoTyx5fhRyx"
+        "name": "Everything is Tenuous",
+        "url": "https://open.spotify.com/album/1CauYGf4kborz50koSaKMd"
       },
       "artists": [
         {
@@ -276,9 +292,25 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 177024,
-      "name": "Borders and Statelines",
-      "url": "https://open.spotify.com/track/6lFblVaQRc9OxzAOWFJ3r3"
+      "duration_ms": 164228,
+      "name": "Every Time You're Here (I'm Gone)",
+      "url": "https://open.spotify.com/track/3c0yDaPl4NvXfobNgoCMZ2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/2Pmz99qx28KSvdsSqN5uO0"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 168451,
+      "name": "Reeling",
+      "url": "https://open.spotify.com/track/1nvESaptuv0S2ZzfKsLL9U"
     },
     {
       "added_at": null,
@@ -299,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/2Pmz99qx28KSvdsSqN5uO0"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 182740,
-      "name": "The In-Between",
-      "url": "https://open.spotify.com/track/6WAXHxstqOYRJleZzxDg6d"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The World Don't Owe You Anything",
         "url": "https://open.spotify.com/album/5380vNQwfXfMQEpIBgnGRg"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 98493,
       "name": "The Entry Ramp",
       "url": "https://open.spotify.com/track/6cEbKUpsVZjgNoq6wt83DJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Everything is Tenuous",
-        "url": "https://open.spotify.com/album/1CauYGf4kborz50koSaKMd"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 164228,
-      "name": "Every Time You're Here (I'm Gone)",
-      "url": "https://open.spotify.com/track/3c0yDaPl4NvXfobNgoCMZ2"
     },
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 168451,
-      "name": "Reeling",
-      "url": "https://open.spotify.com/track/1nvESaptuv0S2ZzfKsLL9U"
+      "duration_ms": 182740,
+      "name": "The In-Between",
+      "url": "https://open.spotify.com/track/6WAXHxstqOYRJleZzxDg6d"
     },
     {
       "added_at": null,

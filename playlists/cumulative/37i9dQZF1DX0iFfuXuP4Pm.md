@@ -4,7 +4,7 @@
 
 > Mga nangunguna sa mundo ng OPM\. Cover: El Manu
 
-471 songs - 1 day 5 hr 17 min
+472 songs - 1 day 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Bighani](https://open.spotify.com/track/13n1QchNBLkAiIlLN3DZ98) | [Ace Banzuelo](https://open.spotify.com/artist/3f0X043zSojego7Qn4Yi6U) | [Bighani](https://open.spotify.com/album/7bAOyHhBcCVWZMttZcWGqd) | 3:55 | 2024-11-28 | 2025-01-02 |
 | [Biglaan](https://open.spotify.com/track/7ru7FxWX5ZJ4Mdp3XakKPr) | [Belle Mariano](https://open.spotify.com/artist/404RA7nuwzYA8WskpMgUp1) | [Believe](https://open.spotify.com/album/3nBITHBcLyFHmoqN5yCP5J) | 2:53 | 2024-07-11 | 2024-08-08 |
 | [Biglaan](https://open.spotify.com/track/5zWr9QbKqCYQnEQ3gennV8) | [Eliza Maturan](https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6) | [Biglaan](https://open.spotify.com/album/65ZsDDYYF9faaSYfDfuJ0O) | 3:48 | 2025-12-17 |  |
+| [Bikini](https://open.spotify.com/track/03Tt2qPSQKaXMkLtZ3Zwg9) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [FLAMES](https://open.spotify.com/album/42s2X3WQppxdHafUT2dfmF) | 2:09 | 2025-12-31 |  |
 | [Binibini](https://open.spotify.com/track/3xj36WMIDSWRxfbasS4Pi8) | [Nik Makino](https://open.spotify.com/artist/3lFMRWaEWZlfXdBig97kks), [NEXXFRIDAY](https://open.spotify.com/artist/6yWj0mvdzglZZDHa0FHmpd) | [Binibini](https://open.spotify.com/album/1VGIRVQeee7pUEoAVAmhUp) | 2:34 | 2024-06-12 | 2024-07-04 |
 | [Bitin](https://open.spotify.com/track/6pJzf9R1mN0C2BdIf5KI02) | [Over October](https://open.spotify.com/artist/1hMAGfvamVXuSWBFQRFMeq) | [Bitin](https://open.spotify.com/album/5eGgyL3tzV8xSWAiljWlFZ) | 3:47 | 2025-05-07 | 2025-08-21 |
 | [BLACK N’ WHITE](https://open.spotify.com/track/463Qg3HAd8KjE1YrSHgm6X) | [Dilaw](https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL) | [BLACK N’ WHITE](https://open.spotify.com/album/5RgURAiikPG10alZtMwltX) | 3:16 | 2025-08-13 | 2025-11-13 |
@@ -417,7 +418,7 @@
 | [Suob \- From "Meet, Greet & Bye"](https://open.spotify.com/track/2IS8s76UJOTKqE3lPrEj09) | [juan karlos](https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ) | [Suob \(From "Meet, Greet & Bye"\)](https://open.spotify.com/album/2srniLGdD4CfDxFBG5p633) | 4:44 | 2025-11-27 |  |
 | [surreal](https://open.spotify.com/track/5TT4xi1HEPTkVTO59jY3tz) | [justin](https://open.spotify.com/artist/20XuMlpFudMP9rDHMTkyar) | [surreal](https://open.spotify.com/album/0J9uJlJ6Rc7st5XEYHnESY) | 4:00 | 2024-03-06 | 2024-05-15 |
 | [sweet nothings](https://open.spotify.com/track/5aC91iyzOTL31zeZOHsmip) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [Jay R](https://open.spotify.com/artist/3z0IVhtuFvt9VYUZGT98PU) | [Sweet Nothings \(Chapter 2\)](https://open.spotify.com/album/6JrI2T7Lx9OJn6DXnu19Bj) | 2:39 | 2024-11-13 | 2025-02-28 |
-| [Sweet Tooth](https://open.spotify.com/track/4255eE0aWSyfbIWTpIE1qu) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [FLAMES](https://open.spotify.com/album/42s2X3WQppxdHafUT2dfmF) | 3:00 | 2025-11-27 |  |
+| [Sweet Tooth](https://open.spotify.com/track/4255eE0aWSyfbIWTpIE1qu) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [FLAMES](https://open.spotify.com/album/42s2X3WQppxdHafUT2dfmF) | 3:00 | 2025-11-27 | 2026-01-01 |
 | [tagu\-taguan](https://open.spotify.com/track/78UWl5vV3wZfqf51wthR4N) | [koreen](https://open.spotify.com/artist/7MNdmQhP0mLlgttXasvEH6), [geo](https://open.spotify.com/artist/10TUKjKSF9Rb4xwr4BlNBd) | [tagu\-taguan](https://open.spotify.com/album/5KTMxMNgHiWd0ewTvqbQ6x) | 3:40 | 2025-11-12 |  |
 | [Tahan Na \(feat\. Arthur Miguel\)](https://open.spotify.com/track/3aNlKhDSguYgew75Vq8ELT) | [dwta](https://open.spotify.com/artist/1UwnrHfh8Kd8Y8Ax8a3qWy), [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Tahan Na \(feat\. Arthur Miguel\)](https://open.spotify.com/album/4TxjAxOvm228chbxndw1RJ) | 4:29 | 2024-02-28 | 2024-05-15 |
 | [Tahanan](https://open.spotify.com/track/0JO9VhYHF6EI0KSw9xLI6A) | [El Manu](https://open.spotify.com/artist/1r2yCpK3TvWvkZQ2vFhDF0) | [Tahanan](https://open.spotify.com/album/70tq3onPJc8JofAUrCpDR5) | 3:15 | 2025-11-19 |  |

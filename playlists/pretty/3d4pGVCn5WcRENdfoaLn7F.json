@@ -1,12 +1,12 @@
 {
   "description": "These are some independent alternative rock bands you need to hear.",
-  "num_followers": 392,
+  "num_followers": 397,
   "original_name": "Unsigned Alternative Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAACPSyAWaXR6LzjvHD6FRFlfLYxvU+H",
+  "snapshot_id": "AAACP6Q/tiLhlXDUpFPAXopkKIRK/u5p",
   "tracks": [
     {
       "added_at": "2025-11-16 12:40:10",
@@ -1255,6 +1255,38 @@
       "duration_ms": 211254,
       "name": "Black Swan",
       "url": "https://open.spotify.com/track/5GJJ489qwQiEAj4HXKBoq4"
+    },
+    {
+      "added_at": "2025-12-31 22:06:23",
+      "album": {
+        "name": "O Porqu\u00ea da Gente",
+        "url": "https://open.spotify.com/album/0F6WDXwR0QGoRrZQtdwtqW"
+      },
+      "artists": [
+        {
+          "name": "Tonni Moraes",
+          "url": "https://open.spotify.com/artist/33la62weFFmj1cr8J1yuFb"
+        }
+      ],
+      "duration_ms": 234415,
+      "name": "O Porqu\u00ea da Gente",
+      "url": "https://open.spotify.com/track/2yIyOZl5bB3kegbd6956l2"
+    },
+    {
+      "added_at": "2025-12-31 22:13:15",
+      "album": {
+        "name": "Mastodonte",
+        "url": "https://open.spotify.com/album/1WqEAf6ehq91MtabcIqUvr"
+      },
+      "artists": [
+        {
+          "name": "Ruster",
+          "url": "https://open.spotify.com/artist/0MB2qTmFxuZkVdphbXgSeq"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Mastodonte",
+      "url": "https://open.spotify.com/track/2ONSCIg1KbDHUhwQb3SYaj"
     }
   ],
   "unique_name": "Unsigned Alternative Rock",

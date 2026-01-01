@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVHEgAAAAAAH0CfG2w+KL7iYmEl2McEf",
+  "snapshot_id": "aVMWAAAAAADzMMDDb2D7F5HNUepfNpss",
   "tracks": [
     {
       "added_at": null,
@@ -735,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cartier en Mano",
+        "url": "https://open.spotify.com/album/1nXeA6b9XN2vuMBHX4AdlL"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        }
+      ],
+      "duration_ms": 155818,
+      "name": "Cartier en Mano",
+      "url": "https://open.spotify.com/track/3cL0YHP6FIE3fWIujhdGCu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "GUZBYE",
         "url": "https://open.spotify.com/album/0RJZJxSvOBnKSNU9nXQ6zD"
       },
@@ -759,18 +775,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cartier en Mano",
-        "url": "https://open.spotify.com/album/1nXeA6b9XN2vuMBHX4AdlL"
+        "name": "Adiamantado",
+        "url": "https://open.spotify.com/album/02r5GQTeyId72iagm3Gxm1"
       },
       "artists": [
+        {
+          "name": "Rich Vagos",
+          "url": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
+        },
+        {
+          "name": "Jayrick",
+          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+        },
         {
           "name": "Sebastian Esquivel",
           "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
         }
       ],
-      "duration_ms": 155818,
-      "name": "Cartier en Mano",
-      "url": "https://open.spotify.com/track/3cL0YHP6FIE3fWIujhdGCu"
+      "duration_ms": 179000,
+      "name": "Adiamantado",
+      "url": "https://open.spotify.com/track/1nO2UwK0QUZwTxHZL6fa8f"
     },
     {
       "added_at": null,
@@ -799,30 +823,6 @@
       "duration_ms": 148317,
       "name": "A 150",
       "url": "https://open.spotify.com/track/1efOV43D7VeE2YyTZflN6F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Adiamantado",
-        "url": "https://open.spotify.com/album/02r5GQTeyId72iagm3Gxm1"
-      },
-      "artists": [
-        {
-          "name": "Rich Vagos",
-          "url": "https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU"
-        },
-        {
-          "name": "Jayrick",
-          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
-        },
-        {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Adiamantado",
-      "url": "https://open.spotify.com/track/1nO2UwK0QUZwTxHZL6fa8f"
     },
     {
       "added_at": null,
@@ -1036,9 +1036,9 @@
           "url": "https://open.spotify.com/artist/6X9jlymvUdil1KMlUnGBu2"
         }
       ],
-      "duration_ms": 214042,
-      "name": "El R\u00e1pido - En Vivo",
-      "url": "https://open.spotify.com/track/1BFZbkqRrXWzQ3Ld48OLTc"
+      "duration_ms": 147141,
+      "name": "Los Botones Azules - En Vivo",
+      "url": "https://open.spotify.com/track/48TRVLHK0tSdk0e17UZPFN"
     },
     {
       "added_at": null,
@@ -1064,9 +1064,9 @@
           "url": "https://open.spotify.com/artist/6X9jlymvUdil1KMlUnGBu2"
         }
       ],
-      "duration_ms": 147141,
-      "name": "Los Botones Azules - En Vivo",
-      "url": "https://open.spotify.com/track/48TRVLHK0tSdk0e17UZPFN"
+      "duration_ms": 214042,
+      "name": "El R\u00e1pido - En Vivo",
+      "url": "https://open.spotify.com/track/1BFZbkqRrXWzQ3Ld48OLTc"
     }
   ],
   "unique_name": "This Is Sebastian Esquivel",

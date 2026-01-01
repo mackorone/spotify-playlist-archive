@@ -1,12 +1,12 @@
 {
   "description": "This is Kehlani. The essential tracks, all in one playlist.",
-  "num_followers": 328507,
+  "num_followers": 328567,
   "original_name": "This Is Kehlani",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVHEgAAAAABhyP8kuweGMwzm0Fov6qgW",
+  "snapshot_id": "aVMWAAAAAAD52Zvy3mONAxiGnVQxQlts",
   "tracks": [
     {
       "added_at": null,
@@ -551,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "(un)Folded",
-        "url": "https://open.spotify.com/album/2JyptEQlkrFmn94ndppJLw"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 286040,
-      "name": "(un)Folded",
-      "url": "https://open.spotify.com/track/11fwuyslYFSxbSBi488fsr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Me (feat. Keyshia Cole)",
         "url": "https://open.spotify.com/album/2bxcNajPY3MT1I4LuGJCOX"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 178347,
       "name": "All Me (feat. Keyshia Cole)",
       "url": "https://open.spotify.com/track/3ucRKbRlikYHyoI17gfR0c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "(un)Folded",
+        "url": "https://open.spotify.com/album/2JyptEQlkrFmn94ndppJLw"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 286040,
+      "name": "(un)Folded",
+      "url": "https://open.spotify.com/track/11fwuyslYFSxbSBi488fsr"
     },
     {
       "added_at": null,
@@ -867,26 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ur Best Friend",
-        "url": "https://open.spotify.com/album/5vQaqB1ZfaOW6BSEGuQ8HC"
-      },
-      "artists": [
-        {
-          "name": "Kiana Led\u00e9",
-          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 182858,
-      "name": "Ur Best Friend (with Kehlani)",
-      "url": "https://open.spotify.com/track/1gsYCXkisSnnjBb3qwYZoc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Good For You",
         "url": "https://open.spotify.com/album/3lajefIuUk4SfzqVBSJy8p"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 220160,
       "name": "Heebiejeebies - Bonus",
       "url": "https://open.spotify.com/track/32xx0fAv3CIeGmNaWTHvEF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ur Best Friend",
+        "url": "https://open.spotify.com/album/5vQaqB1ZfaOW6BSEGuQ8HC"
+      },
+      "artists": [
+        {
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 182858,
+      "name": "Ur Best Friend (with Kehlani)",
+      "url": "https://open.spotify.com/track/1gsYCXkisSnnjBb3qwYZoc"
     },
     {
       "added_at": null,

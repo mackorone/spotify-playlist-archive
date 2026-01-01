@@ -16397,6 +16397,32 @@
     },
     {
       "album": {
+        "name": "Monday Morning",
+        "url": "https://open.spotify.com/album/1ONHoesReqVQRDbGdurVGy"
+      },
+      "artists": [
+        {
+          "name": "Suyash",
+          "url": "https://open.spotify.com/artist/397qVkvMksq20YImjWX9BR"
+        },
+        {
+          "name": "Danny",
+          "url": "https://open.spotify.com/artist/1qyXgLYCg0osV4glEYuQIv"
+        },
+        {
+          "name": "vivasvan",
+          "url": "https://open.spotify.com/artist/1aeAUpgdr1BjkKz8bzlt0l"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154062,
+      "name": "Monday Morning",
+      "url": "https://open.spotify.com/track/1VlKWp04Z2DX95NAA1xtmj"
+    },
+    {
+      "album": {
         "name": "Mone Ki Bisare",
         "url": "https://open.spotify.com/album/1Cn2YvLe5ilL1DDYKxoESx"
       },
@@ -19584,7 +19610,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-01",
       "duration_ms": 184532,
       "name": "Ranjhe",
       "url": "https://open.spotify.com/track/7AtKtnmejsGiEmXLn5lZTs"

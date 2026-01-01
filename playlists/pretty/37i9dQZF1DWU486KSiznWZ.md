@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU486KSiznWZ.md) - [plain]
 
 > أفضل الأغاني الخليجية\. الغلاف: عايض
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,793 likes - 39 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,838 likes - 39 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Feliz Navidad de parte de la DINASTÍA Laija 🎄🍾 con Peso Pluma y Tito Double P en portada 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,116,848 likes - 51 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,116,980 likes - 51 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

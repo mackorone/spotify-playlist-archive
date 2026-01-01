@@ -1,12 +1,12 @@
 {
   "description": "This is PARTYNEXTDOOR. The essential tracks, all in one playlist.",
-  "num_followers": 165193,
+  "num_followers": 165266,
   "original_name": "This Is PARTYNEXTDOOR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVHEgAAAAACL8Y/O8Icp1Bq1R8u9xChB",
+  "snapshot_id": "aVMWAAAAAAA3dUuW/32EclWKb0MK/J8E",
   "tracks": [
     {
       "added_at": null,
@@ -811,6 +811,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "COLOURS",
+        "url": "https://open.spotify.com/album/0318GAH0AN431KMF6jhFdz"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 303030,
+      "name": "PEACE OF MIND",
+      "url": "https://open.spotify.com/track/3FA8JpHhWwDXkroqRFLLFe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FIXTAPE",
         "url": "https://open.spotify.com/album/0fwiBiv1i0rJzdJGCaHVJi"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 259651,
       "name": "TWIST & TURN (feat. Drake & PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/27g5G3TW90FSm3YxclYpAs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "COLOURS",
-        "url": "https://open.spotify.com/album/0318GAH0AN431KMF6jhFdz"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 303030,
-      "name": "PEACE OF MIND",
-      "url": "https://open.spotify.com/track/3FA8JpHhWwDXkroqRFLLFe"
     },
     {
       "added_at": null,

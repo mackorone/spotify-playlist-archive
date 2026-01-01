@@ -1,6 +1,6 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 33838,
+  "num_followers": 33832,
   "original_name": "Country & Americana",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2025-12-18 23:00:05",
       "album": {
-        "name": "Let's Get This Over With",
-        "url": "https://open.spotify.com/album/5CT5iVWFtSxGf15tNMkr7j"
-      },
-      "artists": [
-        {
-          "name": "Waylon",
-          "url": "https://open.spotify.com/artist/5iuXjsXsTXs8lwmqzsF6dZ"
-        }
-      ],
-      "duration_ms": 167586,
-      "name": "Let's Get This Over With",
-      "url": "https://open.spotify.com/track/6aiq6a8jqsWwysFqq0j9IF"
-    },
-    {
-      "added_at": "2025-12-18 23:00:05",
-      "album": {
         "name": "Castaways",
         "url": "https://open.spotify.com/album/43nTCW1quhIVMokEbaIV6r"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 164454,
       "name": "Castaways",
       "url": "https://open.spotify.com/track/6ICGEHHvGJ9l4I68zuiyXB"
+    },
+    {
+      "added_at": "2025-12-18 23:00:05",
+      "album": {
+        "name": "Let's Get This Over With",
+        "url": "https://open.spotify.com/album/5CT5iVWFtSxGf15tNMkr7j"
+      },
+      "artists": [
+        {
+          "name": "Waylon",
+          "url": "https://open.spotify.com/artist/5iuXjsXsTXs8lwmqzsF6dZ"
+        }
+      ],
+      "duration_ms": 167586,
+      "name": "Let's Get This Over With",
+      "url": "https://open.spotify.com/track/6aiq6a8jqsWwysFqq0j9IF"
     },
     {
       "added_at": "2025-12-18 23:00:05",
@@ -479,22 +479,6 @@
     {
       "added_at": "2025-12-18 23:00:05",
       "album": {
-        "name": "Time Jumper",
-        "url": "https://open.spotify.com/album/20e8WxTOiceFOC1Oh5cN25"
-      },
-      "artists": [
-        {
-          "name": "Waylon",
-          "url": "https://open.spotify.com/artist/5iuXjsXsTXs8lwmqzsF6dZ"
-        }
-      ],
-      "duration_ms": 186680,
-      "name": "She Needs Lovin' Too",
-      "url": "https://open.spotify.com/track/6QKflgRUcBe5zTleMM4T5z"
-    },
-    {
-      "added_at": "2025-12-18 23:00:05",
-      "album": {
         "name": "Arcadia",
         "url": "https://open.spotify.com/album/4S72Bm1ybpe6pwG2ni2wGH"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 220212,
       "name": "Granite Mills",
       "url": "https://open.spotify.com/track/42IDWgfyuArjYaJ8uPlLrH"
+    },
+    {
+      "added_at": "2025-12-18 23:00:05",
+      "album": {
+        "name": "Time Jumper",
+        "url": "https://open.spotify.com/album/20e8WxTOiceFOC1Oh5cN25"
+      },
+      "artists": [
+        {
+          "name": "Waylon",
+          "url": "https://open.spotify.com/artist/5iuXjsXsTXs8lwmqzsF6dZ"
+        }
+      ],
+      "duration_ms": 186680,
+      "name": "She Needs Lovin' Too",
+      "url": "https://open.spotify.com/track/6QKflgRUcBe5zTleMM4T5z"
     },
     {
       "added_at": "2025-12-18 23:00:05",
@@ -679,22 +679,6 @@
     {
       "added_at": "2025-12-18 23:00:05",
       "album": {
-        "name": "Elderberry Wine",
-        "url": "https://open.spotify.com/album/5qKmEm0NJ4OzvvUa1cruSV"
-      },
-      "artists": [
-        {
-          "name": "Wednesday",
-          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
-        }
-      ],
-      "duration_ms": 215506,
-      "name": "Elderberry Wine",
-      "url": "https://open.spotify.com/track/1FZXwhynIW71oSoo1u20L5"
-    },
-    {
-      "added_at": "2025-12-18 23:00:05",
-      "album": {
         "name": "Midwest Kid",
         "url": "https://open.spotify.com/album/1TLaGao4Yqe6Qb2uRsXRXx"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 157333,
       "name": "Wish I Never Met You",
       "url": "https://open.spotify.com/track/3CAuBM6hYu7mJi8WZkZ8aO"
+    },
+    {
+      "added_at": "2025-12-18 23:00:05",
+      "album": {
+        "name": "Elderberry Wine",
+        "url": "https://open.spotify.com/album/5qKmEm0NJ4OzvvUa1cruSV"
+      },
+      "artists": [
+        {
+          "name": "Wednesday",
+          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+        }
+      ],
+      "duration_ms": 215506,
+      "name": "Elderberry Wine",
+      "url": "https://open.spotify.com/track/1FZXwhynIW71oSoo1u20L5"
     },
     {
       "added_at": "2025-12-18 23:00:05",
@@ -851,18 +851,22 @@
     {
       "added_at": "2025-12-18 23:00:05",
       "album": {
-        "name": "Acoustic.Blues.Club",
-        "url": "https://open.spotify.com/album/7s8vvc5OxtIXmrpuIuesZZ"
+        "name": "Bottom of a Bottle",
+        "url": "https://open.spotify.com/album/4V5J6rRicjzvdoqQcgNdt6"
       },
       "artists": [
         {
-          "name": "MY BABY",
-          "url": "https://open.spotify.com/artist/0c103ZyWDycpfVxR0lNrjm"
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        },
+        {
+          "name": "TORRES",
+          "url": "https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9"
         }
       ],
-      "duration_ms": 213460,
-      "name": "Singing In Chains",
-      "url": "https://open.spotify.com/track/3kvj57IUgYsSngGL9to7pf"
+      "duration_ms": 236022,
+      "name": "Bottom of a Bottle",
+      "url": "https://open.spotify.com/track/07dTr0jqXwYbMiOoLjfHri"
     }
   ],
   "unique_name": "Country & Americana",

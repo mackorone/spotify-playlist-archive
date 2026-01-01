@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Kid Yugi, Nko, Le Scimmie, Néza e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,360 likes - 88 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,368 likes - 88 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

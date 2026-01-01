@@ -1,6 +1,6 @@
 {
   "description": "The best soft rock from the 1980s.",
-  "num_followers": 347538,
+  "num_followers": 347691,
   "original_name": "80s Soft Rock",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Repeat Offender",
-        "url": "https://open.spotify.com/album/0Zf6FJVyK6qUxmg1WMNruG"
-      },
-      "artists": [
-        {
-          "name": "Richard Marx",
-          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
-        }
-      ],
-      "duration_ms": 317933,
-      "name": "Angelia",
-      "url": "https://open.spotify.com/track/2cG2bZy32qIxWVbFrobSQ1"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "Never Run Never Hide",
         "url": "https://open.spotify.com/album/5ERaMYO6utxG7HftrKO95m"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 271800,
       "name": "Into The Night",
       "url": "https://open.spotify.com/track/0rhyBUAgNXwdyvGVXSrLzc"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "Repeat Offender",
+        "url": "https://open.spotify.com/album/0Zf6FJVyK6qUxmg1WMNruG"
+      },
+      "artists": [
+        {
+          "name": "Richard Marx",
+          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
+        }
+      ],
+      "duration_ms": 317933,
+      "name": "Angelia",
+      "url": "https://open.spotify.com/track/2cG2bZy32qIxWVbFrobSQ1"
     },
     {
       "added_at": "2023-03-30 14:38:10",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-03-30 14:38:10",
       "album": {
-        "name": "Just Another Day in Paradise",
-        "url": "https://open.spotify.com/album/0EVRwTd2fEIgupTxZTcWRN"
-      },
-      "artists": [
-        {
-          "name": "Bertie Higgins",
-          "url": "https://open.spotify.com/artist/4qzZ6bMrjK27yHGVjs4Pvq"
-        }
-      ],
-      "duration_ms": 274800,
-      "name": "Casablanca",
-      "url": "https://open.spotify.com/track/3oNUvyuV0HDwvIQvn7Qa8g"
-    },
-    {
-      "added_at": "2023-03-30 14:38:10",
-      "album": {
         "name": "Christine McVie",
         "url": "https://open.spotify.com/album/6qSmsdv6UxrqaB3oflB5Yy"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 232906,
       "name": "Got a Hold on Me",
       "url": "https://open.spotify.com/track/0FCgqHNdcbhGIEmU8r6ZF1"
+    },
+    {
+      "added_at": "2023-03-30 14:38:10",
+      "album": {
+        "name": "Just Another Day in Paradise",
+        "url": "https://open.spotify.com/album/0EVRwTd2fEIgupTxZTcWRN"
+      },
+      "artists": [
+        {
+          "name": "Bertie Higgins",
+          "url": "https://open.spotify.com/artist/4qzZ6bMrjK27yHGVjs4Pvq"
+        }
+      ],
+      "duration_ms": 274800,
+      "name": "Casablanca",
+      "url": "https://open.spotify.com/track/3oNUvyuV0HDwvIQvn7Qa8g"
     },
     {
       "added_at": "2023-03-30 14:38:10",

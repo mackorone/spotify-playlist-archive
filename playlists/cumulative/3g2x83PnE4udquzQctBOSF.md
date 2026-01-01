@@ -4,7 +4,7 @@
 
 > Our weekly selection is here ⚡️
 
-446 songs - 1 day 2 hr 37 min
+447 songs - 1 day 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,6 +280,7 @@
 | [Mind Awake, Body Asleep](https://open.spotify.com/track/6iGDeaY8vCTqxfGz6B8gTk) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [HYPERBEAM](https://open.spotify.com/artist/1b4DIAooTye6qmHHYRck9n) | [Mind Awake, Body Asleep](https://open.spotify.com/album/4sM2DMHiDDU25XRx7AEJ0x) | 2:30 | 2023-11-05 | 2024-01-15 |
 | [Mind Eraser](https://open.spotify.com/track/5QIPbGl0nRVoaLYrrbsNy5) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [Mind Mirage](https://open.spotify.com/album/5PCyrmD7emJAQ30g6lJilm) | 3:00 | 2024-03-08 | 2025-02-01 |
 | [Mind Off](https://open.spotify.com/track/0yiBVwWJkUDQlb10uQS5cp) | [Discip](https://open.spotify.com/artist/6K16NRv0isbkftsv5lmlMT) | [Mind Off](https://open.spotify.com/album/6jKW9d2z4n5o547bPVHIVK) | 3:10 | 2024-01-14 | 2024-03-11 |
+| [Minimal Paradise](https://open.spotify.com/track/5UgRr3D6jRH3TizqHETLk5) | [Marco Basile](https://open.spotify.com/artist/4bwZB4AuA5cKWSqvh2ti6B) | [Lifetime Groove](https://open.spotify.com/album/776BiweNwMpXfsJxt1hb9B) | 5:50 | 2025-12-31 |  |
 | [Moanin'](https://open.spotify.com/track/0G0d4LMmKhESVwj2KFvZc7) | [TOBEHONEST](https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo) | [Moanin'](https://open.spotify.com/album/1udtPFA6pYNDvUedNQwv2m) | 3:34 | 2024-05-19 | 2024-07-08 |
 | [Money Dance \- Original Mix](https://open.spotify.com/track/1YvdIDmn2QkL38kGDEb8Os) | [Brugio](https://open.spotify.com/artist/5vz838WN1qjvf2KTRngw8i) | [Manawa Sound \- 02](https://open.spotify.com/album/7DfkLGTcZfCxSDkRcPrH9j) | 4:31 | 2024-10-13 |  |
 | [More Baby](https://open.spotify.com/track/02QE4LsAj7DBjMRxolGE8a) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [More Baby](https://open.spotify.com/album/1Pei7Y5MNZQvfkDWds5EWa) | 2:55 | 2023-09-17 | 2023-12-14 |

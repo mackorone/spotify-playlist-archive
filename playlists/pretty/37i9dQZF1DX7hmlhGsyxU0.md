@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 
 > Strings and pianos to accompany your latest great read.
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,241 likes - 73 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,256 likes - 73 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 | 15 | [Motifs in F\# Major \- Reimagined](https://open.spotify.com/track/2sOhSOG02uRICOf1JdiYaZ) | [Solar Sleeper](https://open.spotify.com/artist/01ImO2sBddUcSVJizuX4xG), [rhubiqs](https://open.spotify.com/artist/5RQkuHg4XctV2O1tsIvOkT) | [Motifs in F\# Major \(Reimagined\)](https://open.spotify.com/album/7GZhvGSHUc81ozjkG2AvhI) | 5:31 |
 | 16 | [We All Grieve Differently](https://open.spotify.com/track/1FnkCdVKl5Hi5W6lOIDOFJ) | [Rohit](https://open.spotify.com/artist/5MtG1IkGbboA8zA1ArmYL3) | [On The Verge Of Collapse](https://open.spotify.com/album/70wpmzAa3c2tAeMQSSa6TA) | 2:48 |
 | 17 | [Steady, Thyself \(Piano Version\)](https://open.spotify.com/track/4bl7oOOlzQEQnhxlY6298O) | [VLMV](https://open.spotify.com/artist/4odVEinIMqpSWy8oBnLbwl) | [Steady, Thyself \(Piano Version\)](https://open.spotify.com/album/3CrQl35Gjn3Qg9xuodrCbi) | 3:05 |
-| 18 | [Tired Mind](https://open.spotify.com/track/5Uq1XhExgdb6fGLwEcT5Qd) | [Martin Czerny](https://open.spotify.com/artist/3dKnHhya1g24Mwljr9jbDu) | [Sad Cello & Piano XXII](https://open.spotify.com/album/1Zd0oRtoHZa6HTQ7f0diiZ) | 2:12 |
-| 19 | [Ave Maria \(Meditation on the Prelude by J\. S\. Bach\)](https://open.spotify.com/track/3BxsNGnXXzwaI7qfh82EyA) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Charles Gounod](https://open.spotify.com/artist/42Vmza0WYHdhsgxFmf9Tui), [Martin Fröst](https://open.spotify.com/artist/3HmzM7c3S5iM1jBG3gl0FF), [Anastasia Kobekina](https://open.spotify.com/artist/3gyMSbylsDuJor2dpGQ96m) | [Ave Maria \(Meditation on the Prelude by J\. S\. Bach\)](https://open.spotify.com/album/7nWKkPJ44GahKfhhcV62o3) | 2:33 |
+| 18 | [Ave Maria \(Meditation on the Prelude by J\. S\. Bach\)](https://open.spotify.com/track/3BxsNGnXXzwaI7qfh82EyA) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Charles Gounod](https://open.spotify.com/artist/42Vmza0WYHdhsgxFmf9Tui), [Martin Fröst](https://open.spotify.com/artist/3HmzM7c3S5iM1jBG3gl0FF), [Anastasia Kobekina](https://open.spotify.com/artist/3gyMSbylsDuJor2dpGQ96m) | [Ave Maria \(Meditation on the Prelude by J\. S\. Bach\)](https://open.spotify.com/album/7nWKkPJ44GahKfhhcV62o3) | 2:33 |
+| 19 | [Tired Mind](https://open.spotify.com/track/5Uq1XhExgdb6fGLwEcT5Qd) | [Martin Czerny](https://open.spotify.com/artist/3dKnHhya1g24Mwljr9jbDu) | [Sad Cello & Piano XXII](https://open.spotify.com/album/1Zd0oRtoHZa6HTQ7f0diiZ) | 2:12 |
 | 20 | [Flight of the Sea Birds](https://open.spotify.com/track/05xneJHhmYhIPXwonkQFzI) | [Joanna Finnis](https://open.spotify.com/artist/6Lwb4OP1M9HhvZGN73m14Y) | [Sea Notes](https://open.spotify.com/album/2dRAPX38G1swd3F15V9Tsl) | 2:08 |
 | 21 | [No Time But Eternity](https://open.spotify.com/track/7cAxtGjcTqffwer1mdT6JY) | [Corciolli](https://open.spotify.com/artist/2Np4nlDQduEo65iSyGZ4mk) | [No Time But Eternity](https://open.spotify.com/album/22vYfRDKZAS9Z0r1mH0tsY) | 6:39 |
 | 22 | [Floating on Land](https://open.spotify.com/track/0LAAlLIm2o7FwShCvPmUCc) | [Svvn](https://open.spotify.com/artist/43wgBNJ8ZZd9AYotJvzDzW) | [Floating on Land](https://open.spotify.com/album/2nq7JfT3k2eSy1kRm2Fk1X) | 3:27 |

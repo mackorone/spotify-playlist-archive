@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 70911,
+  "num_followers": 70920,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -751,26 +751,6 @@
     {
       "added_at": "2025-12-15 17:55:02",
       "album": {
-        "name": "(Des)conectar",
-        "url": "https://open.spotify.com/album/57phCII157BEvM0camoMvd"
-      },
-      "artists": [
-        {
-          "name": "LAN",
-          "url": "https://open.spotify.com/artist/0ASWGhrmkvvEO5dOj0Cj5o"
-        },
-        {
-          "name": "Beb\u00e9",
-          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
-        }
-      ],
-      "duration_ms": 200217,
-      "name": "(Des)conectar",
-      "url": "https://open.spotify.com/track/5TxpANIiDUqlJamIHZcO31"
-    },
-    {
-      "added_at": "2025-12-15 17:55:02",
-      "album": {
         "name": "reconectar",
         "url": "https://open.spotify.com/album/0xOIStBgV4x85AeYWrtXmI"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 168275,
       "name": "reconectar",
       "url": "https://open.spotify.com/track/3weVtoWNEdLnqrJ4qrw6G2"
+    },
+    {
+      "added_at": "2025-12-15 17:55:02",
+      "album": {
+        "name": "(Des)conectar",
+        "url": "https://open.spotify.com/album/57phCII157BEvM0camoMvd"
+      },
+      "artists": [
+        {
+          "name": "LAN",
+          "url": "https://open.spotify.com/artist/0ASWGhrmkvvEO5dOj0Cj5o"
+        },
+        {
+          "name": "Beb\u00e9",
+          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
+        }
+      ],
+      "duration_ms": 200217,
+      "name": "(Des)conectar",
+      "url": "https://open.spotify.com/track/5TxpANIiDUqlJamIHZcO31"
     },
     {
       "added_at": "2025-12-15 17:55:02",

@@ -1285,6 +1285,24 @@
     },
     {
       "album": {
+        "name": "Mastodonte",
+        "url": "https://open.spotify.com/album/1WqEAf6ehq91MtabcIqUvr"
+      },
+      "artists": [
+        {
+          "name": "Ruster",
+          "url": "https://open.spotify.com/artist/0MB2qTmFxuZkVdphbXgSeq"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Mastodonte",
+      "url": "https://open.spotify.com/track/2ONSCIg1KbDHUhwQb3SYaj"
+    },
+    {
+      "album": {
         "name": "Kickin' It Down the Road",
         "url": "https://open.spotify.com/album/1nurE6IMVjUP1Y1kx2Qvs1"
       },
@@ -1564,6 +1582,24 @@
       "duration_ms": 209973,
       "name": "Nothing As It Seems",
       "url": "https://open.spotify.com/track/5Lfwc986dZdmvBEQs3eCdv"
+    },
+    {
+      "album": {
+        "name": "O Porqu\u00ea da Gente",
+        "url": "https://open.spotify.com/album/0F6WDXwR0QGoRrZQtdwtqW"
+      },
+      "artists": [
+        {
+          "name": "Tonni Moraes",
+          "url": "https://open.spotify.com/artist/33la62weFFmj1cr8J1yuFb"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234415,
+      "name": "O Porqu\u00ea da Gente",
+      "url": "https://open.spotify.com/track/2yIyOZl5bB3kegbd6956l2"
     },
     {
       "album": {

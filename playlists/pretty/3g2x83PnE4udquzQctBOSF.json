@@ -1,13 +1,29 @@
 {
   "description": "Our weekly selection is here \u26a1\ufe0f",
-  "num_followers": 2650,
+  "num_followers": 2651,
   "original_name": "AGLF Playlist",
   "owner": {
     "name": "AGLF",
     "url": "https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12"
   },
-  "snapshot_id": "AAARNQ3sa+ljMa8hVX9psr7uoX9X6yXr",
+  "snapshot_id": "AAARNj6Q2MprQWB7CvqmvVwKlS719+xC",
   "tracks": [
+    {
+      "added_at": "2025-12-31 13:04:00",
+      "album": {
+        "name": "Lifetime Groove",
+        "url": "https://open.spotify.com/album/776BiweNwMpXfsJxt1hb9B"
+      },
+      "artists": [
+        {
+          "name": "Marco Basile",
+          "url": "https://open.spotify.com/artist/4bwZB4AuA5cKWSqvh2ti6B"
+        }
+      ],
+      "duration_ms": 350625,
+      "name": "Minimal Paradise",
+      "url": "https://open.spotify.com/track/5UgRr3D6jRH3TizqHETLk5"
+    },
     {
       "added_at": "2025-12-27 12:56:19",
       "album": {

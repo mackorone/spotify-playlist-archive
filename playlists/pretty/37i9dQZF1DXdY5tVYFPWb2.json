@@ -1,6 +1,6 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 179287,
+  "num_followers": 179315,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
@@ -775,22 +775,6 @@
     {
       "added_at": "2025-12-16 15:00:33",
       "album": {
-        "name": "\u66d6\u6627\u306aBEACH",
-        "url": "https://open.spotify.com/album/4jlUIe5GmmqAOT4DwhyDl6"
-      },
-      "artists": [
-        {
-          "name": "\u793c\u8cdb",
-          "url": "https://open.spotify.com/artist/6s47v81SP75AAu01joweqx"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "\u66d6\u6627\u306aBEACH",
-      "url": "https://open.spotify.com/track/2XRkUOFsDCYp7nkQJ6e56K"
-    },
-    {
-      "added_at": "2025-12-16 15:00:33",
-      "album": {
         "name": "\u30ed\u30f3\u30ea\u30fc\u30d1\u30e9\u30c9\u30c3\u30af\u30b9",
         "url": "https://open.spotify.com/album/4KadXvqLOsB4WUCHzleYFV"
       },
@@ -807,18 +791,18 @@
     {
       "added_at": "2025-12-16 15:00:33",
       "album": {
-        "name": "\u6771\u4eaccruisin'",
-        "url": "https://open.spotify.com/album/07uk8juzTAwRlLaqYMscne"
+        "name": "\u66d6\u6627\u306aBEACH",
+        "url": "https://open.spotify.com/album/4jlUIe5GmmqAOT4DwhyDl6"
       },
       "artists": [
         {
-          "name": "tonun",
-          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
+          "name": "\u793c\u8cdb",
+          "url": "https://open.spotify.com/artist/6s47v81SP75AAu01joweqx"
         }
       ],
-      "duration_ms": 188569,
-      "name": "\u6771\u4eaccruisin'",
-      "url": "https://open.spotify.com/track/1LJEIE8IjHnQuV5mc0w399"
+      "duration_ms": 159000,
+      "name": "\u66d6\u6627\u306aBEACH",
+      "url": "https://open.spotify.com/track/2XRkUOFsDCYp7nkQJ6e56K"
     },
     {
       "added_at": "2025-12-16 15:00:33",
@@ -851,6 +835,22 @@
       "duration_ms": 145384,
       "name": "\u30a8\u30e2\u3081\u306e\u590f",
       "url": "https://open.spotify.com/track/2o2yCUIo6XUIIselWfjKw3"
+    },
+    {
+      "added_at": "2025-12-16 15:00:33",
+      "album": {
+        "name": "\u6771\u4eaccruisin'",
+        "url": "https://open.spotify.com/album/07uk8juzTAwRlLaqYMscne"
+      },
+      "artists": [
+        {
+          "name": "tonun",
+          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
+        }
+      ],
+      "duration_ms": 188569,
+      "name": "\u6771\u4eaccruisin'",
+      "url": "https://open.spotify.com/track/1LJEIE8IjHnQuV5mc0w399"
     },
     {
       "added_at": "2025-12-16 15:00:33",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2025-12-16 15:00:33",
       "album": {
-        "name": "\u30cd\u30d3\u30e5\u30e9\u30ed\u30de\u30f3\u30b9 \u5f8c\u7bc7",
-        "url": "https://open.spotify.com/album/6Dlnh5utPAdkvCeszATFsz"
-      },
-      "artists": [
-        {
-          "name": "Perfume",
-          "url": "https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr"
-        }
-      ],
-      "duration_ms": 255293,
-      "name": "\u30bd\u30fc\u30e9\u30fb\u30a6\u30a3\u30f3\u30c9",
-      "url": "https://open.spotify.com/track/1UtIGwMcoqxA9gbG5BHJ4o"
-    },
-    {
-      "added_at": "2025-12-16 15:00:33",
-      "album": {
         "name": "Purple Dream",
         "url": "https://open.spotify.com/album/3RmwOMZX7KqloQesVFo90q"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 256096,
       "name": "Purple Dream",
       "url": "https://open.spotify.com/track/4FicsGG1Qz8LjI0bEoxPa4"
+    },
+    {
+      "added_at": "2025-12-16 15:00:33",
+      "album": {
+        "name": "\u30cd\u30d3\u30e5\u30e9\u30ed\u30de\u30f3\u30b9 \u5f8c\u7bc7",
+        "url": "https://open.spotify.com/album/6Dlnh5utPAdkvCeszATFsz"
+      },
+      "artists": [
+        {
+          "name": "Perfume",
+          "url": "https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr"
+        }
+      ],
+      "duration_ms": 255293,
+      "name": "\u30bd\u30fc\u30e9\u30fb\u30a6\u30a3\u30f3\u30c9",
+      "url": "https://open.spotify.com/track/1UtIGwMcoqxA9gbG5BHJ4o"
     },
     {
       "added_at": "2025-12-16 15:00:33",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2025-12-16 15:00:33",
       "album": {
-        "name": "\u591c\u7684\u5e73\u6210\u6d6a\u6f2b",
-        "url": "https://open.spotify.com/album/6no86KhbbZAHu5EXUZ9n5Y"
-      },
-      "artists": [
-        {
-          "name": "First Love is Never Returned",
-          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
-        }
-      ],
-      "duration_ms": 207707,
-      "name": "\u591c\u7684\u5e73\u6210\u6d6a\u6f2b",
-      "url": "https://open.spotify.com/track/7ru4VEb4gSIzoENM7UVzGm"
-    },
-    {
-      "added_at": "2025-12-16 15:00:33",
-      "album": {
         "name": "cherish",
         "url": "https://open.spotify.com/album/3hJezmiYPXSjbYEsJ0Xu30"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 279120,
       "name": "\u300c\u3042\u306e\u5a18\u306f\u8ab0\uff1f\u300d\u3068\u304b\u8a00\u308f\u305b\u305f\u3044",
       "url": "https://open.spotify.com/track/4oHcqir3Q8Rr8x7xJiGao4"
+    },
+    {
+      "added_at": "2025-12-16 15:00:33",
+      "album": {
+        "name": "\u591c\u7684\u5e73\u6210\u6d6a\u6f2b",
+        "url": "https://open.spotify.com/album/6no86KhbbZAHu5EXUZ9n5Y"
+      },
+      "artists": [
+        {
+          "name": "First Love is Never Returned",
+          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
+        }
+      ],
+      "duration_ms": 207707,
+      "name": "\u591c\u7684\u5e73\u6210\u6d6a\u6f2b",
+      "url": "https://open.spotify.com/track/7ru4VEb4gSIzoENM7UVzGm"
     },
     {
       "added_at": "2025-12-16 15:00:33",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2025-12-16 15:00:33",
       "album": {
+        "name": "\u541b\u3068drive",
+        "url": "https://open.spotify.com/album/3xu2GN5QmP5PRfjZy13JcK"
+      },
+      "artists": [
+        {
+          "name": "YONA YONA WEEKENDERS",
+          "url": "https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR"
+        }
+      ],
+      "duration_ms": 259615,
+      "name": "\u541b\u3068drive",
+      "url": "https://open.spotify.com/track/0pzIH1bTIz660rCPDJQSxk"
+    },
+    {
+      "added_at": "2025-12-16 15:00:33",
+      "album": {
         "name": "Call me back",
         "url": "https://open.spotify.com/album/0TEEolAOJ3ESB3OJU87rzi"
       },
@@ -1383,22 +1399,6 @@
       "duration_ms": 225529,
       "name": "Call me back",
       "url": "https://open.spotify.com/track/3HIbvlLSvJfT995tlBU4jS"
-    },
-    {
-      "added_at": "2025-12-16 15:00:33",
-      "album": {
-        "name": "\u541b\u3068drive",
-        "url": "https://open.spotify.com/album/3xu2GN5QmP5PRfjZy13JcK"
-      },
-      "artists": [
-        {
-          "name": "YONA YONA WEEKENDERS",
-          "url": "https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR"
-        }
-      ],
-      "duration_ms": 259615,
-      "name": "\u541b\u3068drive",
-      "url": "https://open.spotify.com/track/0pzIH1bTIz660rCPDJQSxk"
     },
     {
       "added_at": "2025-12-16 15:00:33",
@@ -1619,26 +1619,6 @@
     {
       "added_at": "2025-12-16 15:00:33",
       "album": {
-        "name": "I'll be with you",
-        "url": "https://open.spotify.com/album/08H5JLHs8qewkM3obH3ZFk"
-      },
-      "artists": [
-        {
-          "name": "Billyrrom",
-          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
-        },
-        {
-          "name": "Nigel Tay",
-          "url": "https://open.spotify.com/artist/5sFViXMV2OBi3agkicgYpN"
-        }
-      ],
-      "duration_ms": 214432,
-      "name": "I'll be with you",
-      "url": "https://open.spotify.com/track/5Jsu8UeDpF356Dgn0z5ghY"
-    },
-    {
-      "added_at": "2025-12-16 15:00:33",
-      "album": {
         "name": "Rainy Runway",
         "url": "https://open.spotify.com/album/2QtIY3WAWrq8KsFtZe13JH"
       },
@@ -1691,6 +1671,26 @@
       "duration_ms": 248146,
       "name": "I Want You Closer",
       "url": "https://open.spotify.com/track/3Yx5UHdgCfbrhXB4df3C7q"
+    },
+    {
+      "added_at": "2025-12-16 15:00:33",
+      "album": {
+        "name": "I'll be with you",
+        "url": "https://open.spotify.com/album/08H5JLHs8qewkM3obH3ZFk"
+      },
+      "artists": [
+        {
+          "name": "Billyrrom",
+          "url": "https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc"
+        },
+        {
+          "name": "Nigel Tay",
+          "url": "https://open.spotify.com/artist/5sFViXMV2OBi3agkicgYpN"
+        }
+      ],
+      "duration_ms": 214432,
+      "name": "I'll be with you",
+      "url": "https://open.spotify.com/track/5Jsu8UeDpF356Dgn0z5ghY"
     },
     {
       "added_at": "2025-12-16 15:00:33",

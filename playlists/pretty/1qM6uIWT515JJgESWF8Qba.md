@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 281 likes - 54 songs - 3 hr 20 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 281 likes - 55 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,5 +62,6 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 | 52 | [Shadow Artist](https://open.spotify.com/track/6wHFJkSrpW7MRoLx4Wgmvn) | [Silver Shores](https://open.spotify.com/artist/7laeihpH4jaoYZhJtZ25Kd) | [Dayglo / Shadow Artist](https://open.spotify.com/album/6n9uicDXaGs7NpVLA5VCSA) | 4:03 |
 | 53 | [Alright](https://open.spotify.com/track/206t9kiN5fvPUOCzIayQuV) | [Hat Pin Panic](https://open.spotify.com/artist/77f1HkjJ9kj51sNjprGklj) | [Turn Past Tomorrow](https://open.spotify.com/album/3jWcJlU5XrV1b381It9xUw) | 3:24 |
 | 54 | [Dethroned](https://open.spotify.com/track/23tye9xrSpAZ1j5pSIh2a2) | [Regina](https://open.spotify.com/artist/4ed2jHmlm4FWzcKrYyzRKL) | [Liminal Space](https://open.spotify.com/album/1UR9SA5kOX7Ogx6pRhPdiq) | 3:55 |
+| 55 | [Summertime \(2025\)](https://open.spotify.com/track/5KnewAmxxneui5ZujMZkQV) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Songs For The Eternity.](https://open.spotify.com/album/08sRFB6te5DGLlvBj1IYdY) | 4:33 |
 
-Snapshot ID: `AAAA8NmcntlylEs8ump0aGUWFwTL/6VE`
+Snapshot ID: `AAAA8YIEVecnNk8EmRWLaGwL3rcE/dvu`

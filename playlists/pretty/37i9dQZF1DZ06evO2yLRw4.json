@@ -1,12 +1,12 @@
 {
   "description": "This is AWOLNATION. The essential tracks, all in one playlist.",
-  "num_followers": 37636,
+  "num_followers": 37638,
   "original_name": "This Is AWOLNATION",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVHEgAAAAADtit+LV2zZB9f239txfrw/",
+  "snapshot_id": "aVMWAAAAAAA1hJkwgpxZQFcX4Dw4xQO8",
   "tracks": [
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Phantom Five",
-        "url": "https://open.spotify.com/album/13rCwtfBHmNlPBYyFFU0u5"
+        "name": "Megalithic Symphony (10th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
         }
       ],
-      "duration_ms": 190866,
-      "name": "When I Was Young",
-      "url": "https://open.spotify.com/track/0qRIrk73nzkddAHX65D1Hb"
+      "duration_ms": 248413,
+      "name": "Jump on My Shoulders",
+      "url": "https://open.spotify.com/track/6H8AKz5NlriFAJ2soLDfSa"
     },
     {
       "added_at": null,
@@ -495,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Megalithic Symphony (10th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux"
+        "name": "The Phantom Five",
+        "url": "https://open.spotify.com/album/13rCwtfBHmNlPBYyFFU0u5"
       },
       "artists": [
         {
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
         }
       ],
-      "duration_ms": 248413,
-      "name": "Jump on My Shoulders",
-      "url": "https://open.spotify.com/track/6H8AKz5NlriFAJ2soLDfSa"
+      "duration_ms": 190866,
+      "name": "When I Was Young",
+      "url": "https://open.spotify.com/track/0qRIrk73nzkddAHX65D1Hb"
     },
     {
       "added_at": null,
@@ -619,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Candy Pop",
+        "url": "https://open.spotify.com/album/7mOVZ70TYfJBZqWsrllPvo"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 162748,
+      "name": "Candy Pop",
+      "url": "https://open.spotify.com/track/4fSc3OE9ouDmVdcZiNNbzD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "My Echo, My Shadow, My Covers & Me",
         "url": "https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 241499,
       "name": "Take A Chance On Me (feat. Jewel)",
       "url": "https://open.spotify.com/track/2QZpV3KZnDfqrvOfJNcvCY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Candy Pop",
-        "url": "https://open.spotify.com/album/7mOVZ70TYfJBZqWsrllPvo"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 162748,
-      "name": "Candy Pop",
-      "url": "https://open.spotify.com/track/4fSc3OE9ouDmVdcZiNNbzD"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Here Come the Runts",
-        "url": "https://open.spotify.com/album/57zNKp8j0mG1rNtbEVkLMV"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 189861,
-      "name": "Jealous Buffoon",
-      "url": "https://open.spotify.com/track/6RwLKfndAAn4vr1AjN3UYd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Megalithic Symphony (10th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 197733,
       "name": "MF",
       "url": "https://open.spotify.com/track/6LvMKoA7E62Z2DHJI65koP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Here Come the Runts",
+        "url": "https://open.spotify.com/album/57zNKp8j0mG1rNtbEVkLMV"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "duration_ms": 189861,
+      "name": "Jealous Buffoon",
+      "url": "https://open.spotify.com/track/6RwLKfndAAn4vr1AjN3UYd"
     },
     {
       "added_at": null,

@@ -6011,6 +6011,24 @@
     },
     {
       "album": {
+        "name": "House with a Pool",
+        "url": "https://open.spotify.com/album/3hVVFcc2eF2BTr42BiHZqr"
+      },
+      "artists": [
+        {
+          "name": "Cailin Russo",
+          "url": "https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216880,
+      "name": "Bad Things",
+      "url": "https://open.spotify.com/track/2QMV9Kj5BFo8kjggLVHf86"
+    },
+    {
+      "album": {
         "name": "SKEETER",
         "url": "https://open.spotify.com/album/67cert3BRIaXt0PgGV9VmC"
       },
@@ -9306,7 +9324,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-01",
       "duration_ms": 146666,
       "name": "BOTR\u00c1NY",
       "url": "https://open.spotify.com/track/4sNX1xMPVtgYrrPWFKoOhF"
@@ -16288,7 +16306,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-26",
+      "date_removed": null,
       "duration_ms": 217008,
       "name": "Die On This Hill",
       "url": "https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ"
@@ -24806,7 +24824,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-01",
       "duration_ms": 216886,
       "name": "Gipsy Jarka Perinbaba",
       "url": "https://open.spotify.com/track/4bDC79dfTPxNVh1QrAWU4r"
@@ -37073,6 +37091,28 @@
     },
     {
       "album": {
+        "name": "Virtuoso (Deluxe)",
+        "url": "https://open.spotify.com/album/4jRh88UF8SCZiY6tD4sYM7"
+      },
+      "artists": [
+        {
+          "name": "Mjay Beatz",
+          "url": "https://open.spotify.com/artist/7f17kNraGVHoDYicwmveeJ"
+        },
+        {
+          "name": "13K",
+          "url": "https://open.spotify.com/artist/0DXtbUJKCkHeaHPQPzFM9a"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166274,
+      "name": "LETSGO",
+      "url": "https://open.spotify.com/track/5BvAxDRbPIiajmPo6kQolQ"
+    },
+    {
+      "album": {
         "name": "LEV\u00c9L",
         "url": "https://open.spotify.com/album/7qJhkRTRgQOCk5wiPqx2Kh"
       },
@@ -43004,7 +43044,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-01",
       "duration_ms": 164211,
       "name": "MOJ HLAS",
       "url": "https://open.spotify.com/track/5p6hIm5vOAVSRzWm4lyWmB"
@@ -68668,7 +68708,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-31",
+      "date_removed": null,
       "duration_ms": 122193,
       "name": "theclubrock",
       "url": "https://open.spotify.com/track/7eO17zOIXHE5e9e07H9fB3"
@@ -72576,7 +72616,7 @@
       ],
       "date_added": "2025-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-01",
       "duration_ms": 311266,
       "name": "Viano\u010dn\u00e1 piese\u0148",
       "url": "https://open.spotify.com/track/1oqXYNRNjECrscFbUzIT3x"

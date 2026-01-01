@@ -4,7 +4,7 @@
 
 > Calming music accompanied by the waves of the ocean\. Breathe with the ebb and flow of the sea.
 
-200 songs - 9 hr 33 min
+201 songs - 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Montée](https://open.spotify.com/track/1Y9yrclEspGQA0G6iDDYQ2) | [Le Coralie](https://open.spotify.com/artist/7svB5Mw6IP6Io3r7dEQi20) | [Montée](https://open.spotify.com/album/6IIm5oHifAaIaXUnqpPkeA) | 2:50 | 2025-10-02 |  |
 | [Moonlight Dolphin](https://open.spotify.com/track/5axYEK74QBwkyAdQjNd5DT) | [Nature Rehab](https://open.spotify.com/artist/1xzruyrjhInryEzjKlmzMG) | [Moonlight Dolphin](https://open.spotify.com/album/3YN2cBhWqzcQfFP5nZaJwx) | 3:44 | 2025-04-01 |  |
 | [Morning Waves](https://open.spotify.com/track/1rECiVNfP8569A717vmLe1) | [Altum Somnum](https://open.spotify.com/artist/5W2BQPTLV5i34uvAtUs935) | [Morning Waves](https://open.spotify.com/album/7BkE4jqDYkveB43oDU4ULT) | 2:52 | 2024-03-20 | 2025-10-21 |
+| [Newfoundland](https://open.spotify.com/track/2jAXw7YVGD2r6nzQwJLgsY) | [Miyklo](https://open.spotify.com/artist/2X3Invt8lYGm7czZvFUPCj) | [Newfoundland](https://open.spotify.com/album/502h7NzW2A12rSKLIvA6JJ) | 2:28 | 2025-12-17 |  |
 | [Night Waves](https://open.spotify.com/track/3uWgFGPTWRm5lENQngePls) | [Dreamscaper](https://open.spotify.com/artist/1TGL84E8oiiO2ygE0a2Ml6) | [Night Waves](https://open.spotify.com/album/5NgyNsumFkI0Hziflb4vlV) | 3:44 | 2025-01-15 |  |
 | [Nomad Sunset \(Ocean\)](https://open.spotify.com/track/4Ef0Q4BkUo04WstZrroNNR) | [Elysian Heart](https://open.spotify.com/artist/1x3oP4wJPV3fUtTV6KQIvD) | [Nomad Sunset \(Ocean\)](https://open.spotify.com/album/22TZPHVpJdjRVfN0vgIlUL) | 3:24 | 2025-04-01 |  |
 | [Oasis](https://open.spotify.com/track/3apfI7QvT9f673V4SXXbCW) | [re:inhabit](https://open.spotify.com/artist/0qt1gcU5wu2XCs6PyPD7aL) | [Temple of the Heart](https://open.spotify.com/album/5yuklwSxgyuIPtHU0nkGXQ) | 3:07 | 2023-10-23 | 2025-04-16 |
@@ -133,7 +134,7 @@
 | [Oceanfront](https://open.spotify.com/track/6OyWgwZrkpTm1MP0SUtmdi) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Oceanfront](https://open.spotify.com/album/422uRupupycQ4E9MfKCHKQ) | 3:02 | 2023-10-23 | 2024-08-23 |
 | [Oceanic Peace](https://open.spotify.com/track/0W4weYa5aqgvMqXbNxSzjv) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Oceanic Peace](https://open.spotify.com/album/1ieOkrmsSTv1MDQj378wPp) | 2:50 | 2023-10-23 | 2025-04-02 |
 | [Oceanos \- Alpha 65Hz \- 72Hz](https://open.spotify.com/track/0JkHZdKIt2VXwiP5IHkaZn) | [Mission Venus](https://open.spotify.com/artist/6lCBvo1KvG3lzBqRCQFaDB) | [Oceanos Alpha](https://open.spotify.com/album/3Eb7Mfz5OTLzBu4PWKnbY0) | 3:13 | 2023-10-26 | 2025-04-12 |
-| [Oceanwide](https://open.spotify.com/track/5JcwPNcYMr0yKOXruhXMPq) | [Forgotten Lake](https://open.spotify.com/artist/4zfCCxd0zQ5q7xkLB7Yh5x) | [Oceanwide](https://open.spotify.com/album/7p32rjfMm4aEuIqCsha8nr) | 3:37 | 2023-11-24 |  |
+| [Oceanwide](https://open.spotify.com/track/5JcwPNcYMr0yKOXruhXMPq) | [Forgotten Lake](https://open.spotify.com/artist/4zfCCxd0zQ5q7xkLB7Yh5x) | [Oceanwide](https://open.spotify.com/album/7p32rjfMm4aEuIqCsha8nr) | 3:37 | 2023-11-24 | 2026-01-01 |
 | [Oceanwide](https://open.spotify.com/track/7plRoYCe37LQhEz6iY82fY) | [Silva Minor](https://open.spotify.com/artist/2qCGBLSIAfV6EYofCDbVZk) | [Oceanwide](https://open.spotify.com/album/79YI9hqwLqnUYpDdSMgaay) | 2:59 | 2025-05-21 |  |
 | [Ondas](https://open.spotify.com/track/3i0W1TEUsp7Q2pBYO7exbV) | [Hevios](https://open.spotify.com/artist/2UeG11XTCrSKxGnAK4peeL) | [Ondas](https://open.spotify.com/album/0zX9Kh9v01hlMMlumPkNyv) | 2:53 | 2023-10-23 | 2025-06-08 |
 | [Orchids](https://open.spotify.com/track/3BauJaNnmk79bsjD1Py8H9) | [Escix V](https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v) | [Orchids](https://open.spotify.com/album/0PhiG5bnqYMwVklGDoY6Ya) | 2:16 | 2025-01-15 |  |

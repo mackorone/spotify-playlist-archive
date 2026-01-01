@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Cvz40MxQuJ.md) - [plain]
 
 > it’s giving medieval castlecore✨🥀
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,408 likes - 66 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,500 likes - 66 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Cvz40MxQuJ.md) - [plain]
 | 65 | [Quan je voy le duç](https://open.spotify.com/track/3wRVUvHXCeZoZ7XAtId665) | [Anonymous](https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y), [Early Music Consort Of London](https://open.spotify.com/artist/3KJWGEUmYDVD1BIzFjd0kd), [David Munrow](https://open.spotify.com/artist/3g42bvWbvi723weXdEiROz) | [Ecco la Primavera \- Florentine Music of the 14th Century](https://open.spotify.com/album/1ZvEo8SLwqyeVVzfxzm42r) | 2:22 |
 | 66 | [Tavern of Heroes](https://open.spotify.com/track/0KIcB3cswZWWStWOW4IVez) | [Valkyrion](https://open.spotify.com/artist/1xkBfXFYaz0S8m15508YIn) | [Medieval Tavern](https://open.spotify.com/album/7kDxfTsQqPPaRXlWOgXjk5) | 1:28 |
 
-Snapshot ID: `AAAAAOlV9mZKUYoeLw5xowK9jUAuvt4g`
+Snapshot ID: `AAAAAEIoDTUs5WIf/BeBVHmuyzqhbWSV`

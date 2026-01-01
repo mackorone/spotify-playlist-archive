@@ -2717,6 +2717,24 @@
     },
     {
       "album": {
+        "name": "Powerful Black Noise",
+        "url": "https://open.spotify.com/album/7371bPC9Dtp3pWw672QdBx"
+      },
+      "artists": [
+        {
+          "name": "Baby Memories",
+          "url": "https://open.spotify.com/artist/1Tcr58kDfgSdnI3PCCDAP4"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224978,
+      "name": "Powerful Black Noise",
+      "url": "https://open.spotify.com/track/2YJ4OXoqANHQf5Gs40S7Ov"
+    },
+    {
+      "album": {
         "name": "Precision Black Noise",
         "url": "https://open.spotify.com/album/4dbKAwo7geHFOsNeMGOfS1"
       },
@@ -2826,7 +2844,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-01",
       "duration_ms": 128000,
       "name": "Relaxing Black Noise",
       "url": "https://open.spotify.com/track/5CzMujCQaMoo8gTC4VR7Md"

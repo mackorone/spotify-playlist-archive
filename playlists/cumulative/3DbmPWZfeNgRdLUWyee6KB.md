@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-424 songs - 1 day 1 hr 42 min
+425 songs - 1 day 1 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Je suis une femme](https://open.spotify.com/track/2KabSGFaRYzlp6Xbk88eqt) | [Machteld](https://open.spotify.com/artist/48eLdz267LScWSBrQNaphw) | [Je suis une femme](https://open.spotify.com/album/6LUj1exFNYytrCKKkoHEpU) | 3:40 | 2025-12-22 |  |
 | [Jonesing](https://open.spotify.com/track/0pItNE4YeIFf2ec6P7jlbe) | [5EX](https://open.spotify.com/artist/3V4tS2RGFGFRyAPoXk11Q2) | [Jonesing](https://open.spotify.com/album/1xQgwPKRDhvit3UACsOj5q) | 3:18 | 2025-10-17 | 2025-11-29 |
 | [Josephine M\. \- Piano solo](https://open.spotify.com/track/1M5a7pAmFI2VqtNeLOmKHO) | [Beato Angelico](https://open.spotify.com/artist/5CJ0yEhrvURVrFstPuxFdG) | [Josephine M\. \(Piano solo\)](https://open.spotify.com/album/5LhHLwZ76L1lTidJucY4v4) | 2:21 | 2024-07-05 | 2025-12-28 |
+| [Just A Good Time 80s Jam](https://open.spotify.com/track/3Ytv0HiQSQKrPg0JL1ql22) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [Just A Good Time 80s Jam](https://open.spotify.com/album/7dcLwSUHVmHRhwBZUz3XSq) | 2:34 | 2026-01-01 |  |
 | [Kali Was Right About You](https://open.spotify.com/track/3U5JmWFAPrhnQeslCwHby5) | [Grae Taylor](https://open.spotify.com/artist/5CNQyudyZMr34ru2t7MlFf) | [Kali Was Right About You](https://open.spotify.com/album/623mi3Iwh3GVVimTgSEbGF) | 3:38 | 2025-12-22 |  |
 | [Kavanagh](https://open.spotify.com/track/2mxMn8pXBqlkAAQEXbFIgx) | [Alejandro Fernandez Lecce](https://open.spotify.com/artist/5gaUw9fLlbZiMuLE00w8re) | [Buenos Aires Lounge Deluxe Vol\. 1](https://open.spotify.com/album/66LHz8fhFosaTNeBl8A02G) | 3:19 | 2024-09-19 | 2025-12-21 |
 | [Kick It Up!](https://open.spotify.com/track/2bfz9V3I3qeS4LPpH69M0i) | [Surrounded by Spiders](https://open.spotify.com/artist/2Sr0bSlexNwK35NfqoaVIb) | [Kick It Up!](https://open.spotify.com/album/0WRK6ZmshiLHNN24ulWCqR) | 3:19 | 2025-10-23 | 2025-12-21 |

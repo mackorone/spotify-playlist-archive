@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYF6geMtQMW.md) - [plain]
 
 > הפלייליסט הכי גדול בישראל, עם השירים הכי חמים של היום ומחר\. קאבר: ריי
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,429 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,444 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYF6geMtQMW.md) - [plain]
 | 49 | [Welcome to Ya Hood](https://open.spotify.com/track/09cFhCmE7LgCOjTcB8Rn6H) | [Tamir Bar](https://open.spotify.com/artist/1UpRHyPDQSJ3qKmRb45d1L), [שם טוב האבי](https://open.spotify.com/artist/5eqZ0thqANZTXbAXqt0MY2), [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC), [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ), [ROUSSO](https://open.spotify.com/artist/0B0XXiGxIzdpQAvf3otjUb) | [שם טוב האבי 2](https://open.spotify.com/album/5o7E8eXdJOMiEGG07OFHIM) | 3:21 |
 | 50 | [back to friends](https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [back to friends](https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E) | 3:19 |
 
-Snapshot ID: `AAAAAFj4i99g4yGzDeNoxwliYH8sHlKl`
+Snapshot ID: `AAAAAMRbJxIjkSHayG1Ufv0SSUOvNOS7`

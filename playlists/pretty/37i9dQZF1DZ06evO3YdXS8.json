@@ -1,12 +1,12 @@
 {
   "description": "This is Selena. The essential tracks, all in one playlist.",
-  "num_followers": 641022,
+  "num_followers": 641084,
   "original_name": "This Is Selena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVHEgAAAAABuxQR2yVlvMBcKOD0hjNEt",
+  "snapshot_id": "aVMWAAAAAAAfrr+Wta+yNBQUsEuhLfv5",
   "tracks": [
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dreaming Of You",
-        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 140226,
-      "name": "El Toro Relajo",
-      "url": "https://open.spotify.com/track/5t1POWyhbKw2U24reBLfO1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ven Conmigo - Selena 20 Years Of Music",
         "url": "https://open.spotify.com/album/0xjlVSiqnAxeQHGfk5i2PG"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 177066,
       "name": "No Quiero Saber - 1990 Version",
       "url": "https://open.spotify.com/track/4FSNKKZnUCgYmiiBnBbVG7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dreaming Of You",
+        "url": "https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 140226,
+      "name": "El Toro Relajo",
+      "url": "https://open.spotify.com/track/5t1POWyhbKw2U24reBLfO1"
     },
     {
       "added_at": null,

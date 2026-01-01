@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvZBXGjNCU4.md) - [plain]
 
 > Warm and cozy acoustic instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,591 likes - 153 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,598 likes - 153 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -162,4 +162,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvZBXGjNCU4.md) - [plain]
 | 152 | [Lucent](https://open.spotify.com/track/7HvBZicMq8Vb4NGPMaEYnd) | [Karl Schintz](https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun) | [Lucent](https://open.spotify.com/album/1ND7mdeP1jyfPC3bswQIdn) | 2:04 |
 | 153 | [Sweet Sky](https://open.spotify.com/track/2HUz7Vn3QcsmCPrHmJojvi) | [Daniela Petrová](https://open.spotify.com/artist/0k5b5g9KNikMYLSZWikx4Y) | [Sweet Sky](https://open.spotify.com/album/7M45WfGEysgnjPlcV2Fmud) | 3:00 |
 
-Snapshot ID: `AAAAALTKDcarhsRkUwVoCkXPRbl+VhRX`
+Snapshot ID: `AAAAADlplwjX07dg605AoI53usZbg+04`

@@ -1,6 +1,6 @@
 {
   "description": "Zonke's \"Work of Heart\" turns 10.",
-  "num_followers": 97098,
+  "num_followers": 97142,
   "original_name": "SA Gold",
   "owner": {
     "name": "Spotify",
@@ -507,6 +507,22 @@
     {
       "added_at": "2025-10-10 02:53:29",
       "album": {
+        "name": "Khokhovula",
+        "url": "https://open.spotify.com/album/4r17XN1HWE0xuRfptWVeiK"
+      },
+      "artists": [
+        {
+          "name": "Zola",
+          "url": "https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW"
+        }
+      ],
+      "duration_ms": 317760,
+      "name": "Sana Luma (Thats The Way Love Is)",
+      "url": "https://open.spotify.com/track/1jgwlt5ERSd0uAERPxLYKp"
+    },
+    {
+      "added_at": "2025-10-10 02:53:29",
+      "album": {
         "name": "Guz Hits",
         "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 332720,
       "name": "Dlala Mapantsula",
       "url": "https://open.spotify.com/track/0DaGK6Zlg0lr2QknjZAgh4"
-    },
-    {
-      "added_at": "2025-10-10 02:53:29",
-      "album": {
-        "name": "Ibutho",
-        "url": "https://open.spotify.com/album/5l4OrBtOd4rGfpCEzWrfi2"
-      },
-      "artists": [
-        {
-          "name": "Zola",
-          "url": "https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW"
-        }
-      ],
-      "duration_ms": 311400,
-      "name": "Lwandle",
-      "url": "https://open.spotify.com/track/6UQCZ9wUMdDX87eVYAqJy4"
     },
     {
       "added_at": "2025-10-10 02:53:29",
@@ -587,6 +587,22 @@
     {
       "added_at": "2025-10-10 02:53:29",
       "album": {
+        "name": "Ibutho",
+        "url": "https://open.spotify.com/album/5l4OrBtOd4rGfpCEzWrfi2"
+      },
+      "artists": [
+        {
+          "name": "Zola",
+          "url": "https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW"
+        }
+      ],
+      "duration_ms": 311400,
+      "name": "Lwandle",
+      "url": "https://open.spotify.com/track/6UQCZ9wUMdDX87eVYAqJy4"
+    },
+    {
+      "added_at": "2025-10-10 02:53:29",
+      "album": {
         "name": "Guz Hits",
         "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 351746,
       "name": "Shibobo / The Final Countdown",
       "url": "https://open.spotify.com/track/0lOovqOHYJdnfsjEDmvz4h"
-    },
-    {
-      "added_at": "2025-10-10 02:53:29",
-      "album": {
-        "name": "Khokhovula",
-        "url": "https://open.spotify.com/album/4r17XN1HWE0xuRfptWVeiK"
-      },
-      "artists": [
-        {
-          "name": "Zola",
-          "url": "https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW"
-        }
-      ],
-      "duration_ms": 317760,
-      "name": "Sana Luma (Thats The Way Love Is)",
-      "url": "https://open.spotify.com/track/1jgwlt5ERSd0uAERPxLYKp"
     },
     {
       "added_at": "2025-10-10 02:53:29",
@@ -671,26 +671,6 @@
     {
       "added_at": "2025-10-10 02:53:29",
       "album": {
-        "name": "Guz Hits",
-        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
-      },
-      "artists": [
-        {
-          "name": "TKZEE",
-          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
-        },
-        {
-          "name": "S'bu",
-          "url": "https://open.spotify.com/artist/2ewhd7uWaZplwMtqKpevwd"
-        }
-      ],
-      "duration_ms": 315266,
-      "name": "Palafala (feat. S'bu)",
-      "url": "https://open.spotify.com/track/3tAVyo7TeXRoSEDkl2qT1k"
-    },
-    {
-      "added_at": "2025-10-10 02:53:29",
-      "album": {
         "name": "Bhambatha (Remastered 2024)",
         "url": "https://open.spotify.com/album/4yX88UXZ6Q0X9IxLwgMmtE"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 217560,
       "name": "Don't Cry - Remastered 2024",
       "url": "https://open.spotify.com/track/0TW01kL2sGNnqc9Lvas6FN"
+    },
+    {
+      "added_at": "2025-10-10 02:53:29",
+      "album": {
+        "name": "Guz Hits",
+        "url": "https://open.spotify.com/album/305izURXDMmcRRwR8INvWY"
+      },
+      "artists": [
+        {
+          "name": "TKZEE",
+          "url": "https://open.spotify.com/artist/0dOZQGyxb6MGkTnRAxKmmi"
+        },
+        {
+          "name": "S'bu",
+          "url": "https://open.spotify.com/artist/2ewhd7uWaZplwMtqKpevwd"
+        }
+      ],
+      "duration_ms": 315266,
+      "name": "Palafala (feat. S'bu)",
+      "url": "https://open.spotify.com/track/3tAVyo7TeXRoSEDkl2qT1k"
     },
     {
       "added_at": "2025-10-10 02:53:29",
@@ -959,18 +959,18 @@
     {
       "added_at": "2025-10-10 02:53:29",
       "album": {
-        "name": "Tsholofelo (Platinum Edition)",
-        "url": "https://open.spotify.com/album/367X12thcQ6YbzKYWLGXFc"
+        "name": "Ultimate Zoid",
+        "url": "https://open.spotify.com/album/6umebim7hsEZeR3DfsWmpX"
       },
       "artists": [
         {
-          "name": "Cassper Nyovest",
-          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
+          "name": "Karen Zoid",
+          "url": "https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC"
         }
       ],
-      "duration_ms": 231839,
-      "name": "Doc Shebeleza",
-      "url": "https://open.spotify.com/track/1fRMv66SdJrWowk0rJduKM"
+      "duration_ms": 224626,
+      "name": "Afrikaners Is Plesierig",
+      "url": "https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc"
     },
     {
       "added_at": "2025-10-10 02:53:29",
@@ -991,18 +991,18 @@
     {
       "added_at": "2025-10-10 02:53:29",
       "album": {
-        "name": "Ultimate Zoid",
-        "url": "https://open.spotify.com/album/6umebim7hsEZeR3DfsWmpX"
+        "name": "Tsholofelo (Platinum Edition)",
+        "url": "https://open.spotify.com/album/367X12thcQ6YbzKYWLGXFc"
       },
       "artists": [
         {
-          "name": "Karen Zoid",
-          "url": "https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC"
+          "name": "Cassper Nyovest",
+          "url": "https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP"
         }
       ],
-      "duration_ms": 224626,
-      "name": "Afrikaners Is Plesierig",
-      "url": "https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc"
+      "duration_ms": 231839,
+      "name": "Doc Shebeleza",
+      "url": "https://open.spotify.com/track/1fRMv66SdJrWowk0rJduKM"
     },
     {
       "added_at": "2025-10-10 02:53:29",

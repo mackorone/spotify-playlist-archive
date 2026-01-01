@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3DfRqE.md) - [plain]
 
 > This is Jake Shimabukuro\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,541 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,539 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3DfRqE.md) - [plain]
 | 43 | [夢ごこち](https://open.spotify.com/track/4yXWTYHjx5nQBewBU41sfV) | [Kotaro Oshio](https://open.spotify.com/artist/21HpfUqBSYSTMF20FOw2V2), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [夢ごこち](https://open.spotify.com/album/0yGagLJQmG0aFNQdpgBFIs) | 4:31 |
 | 44 | [NADA SOUSOU](https://open.spotify.com/track/5fxN3wmbv8c121QjfbZhjZ) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Travels](https://open.spotify.com/album/4N4xt7jHI0BOL8wxTfHuVg) | 3:26 |
 | 45 | [Beneath The Waves](https://open.spotify.com/track/36xDZNphTqQmOR7wrHQxdi) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Beneath The Waves](https://open.spotify.com/album/1qPXLZWbKGoaXbygOCwXBF) | 3:13 |
-| 46 | [スロー・ダンス](https://open.spotify.com/track/3kkx8Qe8w6gs5uq0Mg1dNv) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [マイ・ライフ](https://open.spotify.com/album/5nk8bF12EGkjJ9R5XLbhXN) | 3:42 |
-| 47 | [IN MY LIFE](https://open.spotify.com/track/3aBKiNFM1LHdl1zwoiu7ro) | [Kotaro Oshio](https://open.spotify.com/artist/21HpfUqBSYSTMF20FOw2V2), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Nature Spirit](https://open.spotify.com/album/6YsUV3AaDrM9pB9AaYmLWr) | 5:29 |
+| 46 | [IN MY LIFE](https://open.spotify.com/track/3aBKiNFM1LHdl1zwoiu7ro) | [Kotaro Oshio](https://open.spotify.com/artist/21HpfUqBSYSTMF20FOw2V2), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Nature Spirit](https://open.spotify.com/album/6YsUV3AaDrM9pB9AaYmLWr) | 5:29 |
+| 47 | [スロー・ダンス](https://open.spotify.com/track/3kkx8Qe8w6gs5uq0Mg1dNv) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [マイ・ライフ](https://open.spotify.com/album/5nk8bF12EGkjJ9R5XLbhXN) | 3:42 |
 | 48 | [ブリーズ \- Solo](https://open.spotify.com/track/6hX9K24qdVTWOPuVsyDHS0) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [ジェントリー・ウィープス](https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re) | 3:41 |
 | 49 | [143 \(Kelly's Song\)](https://open.spotify.com/track/1PEgEkILapXe8e33pkJv7u) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Peace Love Ukulele](https://open.spotify.com/album/0H2oBQ01a7vEEefSTWaHEy) | 4:26 |
 | 50 | [グラデュエーション](https://open.spotify.com/track/3lEIwrld3ahz9tAlNQAyq7) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [フラガール　\-オリジナル・サウンドトラック\-](https://open.spotify.com/album/65IxZ84MXW0v5HEWTsfnj2) | 1:56 |
 
-Snapshot ID: `aVHEgAAAAABCIa8Qc23E0nOWYr0CffB8`
+Snapshot ID: `aVMWAAAAAADPS9goe0nFMCAytk+vN8Ee`

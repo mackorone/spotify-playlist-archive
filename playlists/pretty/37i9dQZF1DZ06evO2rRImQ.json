@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Los Recoditos. The essential tracks, all in one playlist.",
-  "num_followers": 203394,
+  "num_followers": 203407,
   "original_name": "This Is Banda Los Recoditos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVHEgAAAAADFrPSeMbAzngVxRamUZoCT",
+  "snapshot_id": "aVMWAAAAAADEB6JXN2/l/TkiN3KVrIbC",
   "tracks": [
     {
       "added_at": null,
@@ -463,18 +463,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Banda Sinaloense los Recoditos",
-        "url": "https://open.spotify.com/album/5HXSJxEDbdOBjaRcHZm4wy"
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/7B0TYXtXBC9tXV6wFnE5It"
       },
       "artists": [
         {
           "name": "Banda Los Recoditos",
           "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        },
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         }
       ],
-      "duration_ms": 210604,
-      "name": "Una Noche Cualquiera",
-      "url": "https://open.spotify.com/track/2szSSBPaBH6skMDz6IQxUW"
+      "duration_ms": 234093,
+      "name": "Mi Enemigo El Amor - En Vivo",
+      "url": "https://open.spotify.com/track/1mubehT6tuQaByo7qGR2Ie"
     },
     {
       "added_at": null,
@@ -511,22 +515,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/7B0TYXtXBC9tXV6wFnE5It"
+        "name": "Banda Sinaloense los Recoditos",
+        "url": "https://open.spotify.com/album/5HXSJxEDbdOBjaRcHZm4wy"
       },
       "artists": [
         {
           "name": "Banda Los Recoditos",
           "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        },
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         }
       ],
-      "duration_ms": 234093,
-      "name": "Mi Enemigo El Amor - En Vivo",
-      "url": "https://open.spotify.com/track/1mubehT6tuQaByo7qGR2Ie"
+      "duration_ms": 210604,
+      "name": "Una Noche Cualquiera",
+      "url": "https://open.spotify.com/track/2szSSBPaBH6skMDz6IQxUW"
     },
     {
       "added_at": null,

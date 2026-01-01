@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > LILCR in cover della playlist con il futuro del rap italiano 📈
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,251 likes - 75 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,256 likes - 75 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 74 | [a me piace \#249 \(feat\. LILCR\)](https://open.spotify.com/track/78Wk5K5YOrpyaRxgWmh7qN) | [dedde](https://open.spotify.com/artist/4RrRLMqOAuHSbPhYIkdtMN), [LILCR](https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S) | [TORINO SANGUINA](https://open.spotify.com/album/38dpyXQ8dnqHjKNxOqst2S) | 2:31 |
 | 75 | [figa check \#225](https://open.spotify.com/track/2REORFlyDzbSSoI9yrra72) | [dedde](https://open.spotify.com/artist/4RrRLMqOAuHSbPhYIkdtMN) | [figa check \#225](https://open.spotify.com/album/04qoS4zFHB6hJBWiFiKuPl) | 2:06 |
 
-Snapshot ID: `AAAAANHctJ+D+21oekh7ZRsMhZ/vr6qT`
+Snapshot ID: `AAAAAAzcNXZMXXLgdczo4erWWR+yWsSH`

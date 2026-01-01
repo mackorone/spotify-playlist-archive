@@ -1,12 +1,12 @@
 {
   "description": "This is Venna. The essential tracks, all in one playlist.",
-  "num_followers": 1157,
+  "num_followers": 1160,
   "original_name": "This Is Venna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVHEgAAAAAAqbRK5hlSEomEKWRTgDK/A",
+  "snapshot_id": "aVMWAAAAAAB9VPz5D1/pkLR7eATdkLAL",
   "tracks": [
     {
       "added_at": null,
@@ -242,31 +242,15 @@
         {
           "name": "Venna",
           "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        }
-      ],
-      "duration_ms": 188466,
-      "name": "'99",
-      "url": "https://open.spotify.com/track/1qoTLjj6YU1WWDH82RoNb7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Soundboy",
-        "url": "https://open.spotify.com/album/7qrfhfLXhqviE9z6KnfLBy"
-      },
-      "artists": [
-        {
-          "name": "p-rallel",
-          "url": "https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD"
         },
         {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+          "name": "Marco Bernardis",
+          "url": "https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv"
         }
       ],
-      "duration_ms": 186173,
-      "name": "WestBorn",
-      "url": "https://open.spotify.com/track/6PQmbLYv07IprWdrNeJFjT"
+      "duration_ms": 188186,
+      "name": "Mount Shasta",
+      "url": "https://open.spotify.com/track/705XFBTxmtDRjrC7jIOY3t"
     },
     {
       "added_at": null,
@@ -287,6 +271,26 @@
       "duration_ms": 226786,
       "name": "Where Are We Going?",
       "url": "https://open.spotify.com/track/6G1S9eAYKMget4tJowHYsi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soundboy",
+        "url": "https://open.spotify.com/album/7qrfhfLXhqviE9z6KnfLBy"
+      },
+      "artists": [
+        {
+          "name": "p-rallel",
+          "url": "https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD"
+        },
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        }
+      ],
+      "duration_ms": 186173,
+      "name": "WestBorn",
+      "url": "https://open.spotify.com/track/6PQmbLYv07IprWdrNeJFjT"
     },
     {
       "added_at": null,
@@ -314,15 +318,11 @@
         {
           "name": "Venna",
           "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        },
-        {
-          "name": "Marco Bernardis",
-          "url": "https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv"
         }
       ],
-      "duration_ms": 188186,
-      "name": "Mount Shasta",
-      "url": "https://open.spotify.com/track/705XFBTxmtDRjrC7jIOY3t"
+      "duration_ms": 188466,
+      "name": "'99",
+      "url": "https://open.spotify.com/track/1qoTLjj6YU1WWDH82RoNb7"
     },
     {
       "added_at": null,
@@ -378,11 +378,15 @@
         {
           "name": "Venna",
           "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        },
+        {
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
         }
       ],
-      "duration_ms": 40013,
-      "name": "Yoshi\u2019 Intro",
-      "url": "https://open.spotify.com/track/0PNd4kXm7P60yjSNLIJ6Vy"
+      "duration_ms": 293040,
+      "name": "Eternal Reflections (feat. Yussef Dayes)",
+      "url": "https://open.spotify.com/track/1kgPaBdX9AgJzBMDtxjSHm"
     },
     {
       "added_at": null,
@@ -454,15 +458,11 @@
         {
           "name": "Venna",
           "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        },
-        {
-          "name": "Yussef Dayes",
-          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
         }
       ],
-      "duration_ms": 293040,
-      "name": "Eternal Reflections (feat. Yussef Dayes)",
-      "url": "https://open.spotify.com/track/1kgPaBdX9AgJzBMDtxjSHm"
+      "duration_ms": 40013,
+      "name": "Yoshi\u2019 Intro",
+      "url": "https://open.spotify.com/track/0PNd4kXm7P60yjSNLIJ6Vy"
     },
     {
       "added_at": null,
@@ -623,6 +623,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Misty",
+        "url": "https://open.spotify.com/album/6O8KaGtYawqKjgj5JeBKg3"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
+        },
+        {
+          "name": "Knucks",
+          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
+        }
+      ],
+      "duration_ms": 218920,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/0KIOREGplwUG2IYkl2B7LW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ways of Knowing",
         "url": "https://open.spotify.com/album/65buOcLOPAzBGLeW46tIDO"
       },
@@ -643,26 +663,6 @@
       "duration_ms": 130546,
       "name": "Embers (feat Liv.e & Venna)",
       "url": "https://open.spotify.com/track/4SRY0aXM7Sb3HTqgxG0cWr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Misty",
-        "url": "https://open.spotify.com/album/6O8KaGtYawqKjgj5JeBKg3"
-      },
-      "artists": [
-        {
-          "name": "Venna",
-          "url": "https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP"
-        },
-        {
-          "name": "Knucks",
-          "url": "https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa"
-        }
-      ],
-      "duration_ms": 218920,
-      "name": "Misty",
-      "url": "https://open.spotify.com/track/0KIOREGplwUG2IYkl2B7LW"
     },
     {
       "added_at": null,

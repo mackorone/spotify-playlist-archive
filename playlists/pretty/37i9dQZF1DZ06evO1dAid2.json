@@ -1,12 +1,12 @@
 {
   "description": "This is Chuck Berry. The essential tracks, all in one playlist.",
-  "num_followers": 133434,
+  "num_followers": 133442,
   "original_name": "This Is Chuck Berry",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVHEgAAAAAAra9fvVmzHPZgKmuYgHyHK",
+  "snapshot_id": "aVMWAAAAAAACcBE4IqCMnnu8hYQlZo/0",
   "tracks": [
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chuck Berry Twist",
-        "url": "https://open.spotify.com/album/2ZuKCxGEZsBByk0js4zfbx"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 107026,
-      "name": "Come On - Stereo Version",
-      "url": "https://open.spotify.com/track/5Ua8GaCh6GAOXu3zXJXyzQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fresh Berry's",
         "url": "https://open.spotify.com/album/02JS9znmNXHp24jyQaimL6"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 132413,
       "name": "Ain't That Just Like A Woman",
       "url": "https://open.spotify.com/track/6GjrZapKbtUORrjS2fXMmX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chuck Berry Twist",
+        "url": "https://open.spotify.com/album/2ZuKCxGEZsBByk0js4zfbx"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 107026,
+      "name": "Come On - Stereo Version",
+      "url": "https://open.spotify.com/track/5Ua8GaCh6GAOXu3zXJXyzQ"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHUCK BERRY INTEGRAL 1955 - 1962",
-        "url": "https://open.spotify.com/album/43qi03EaHt7m1qEogvhCQ0"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 162626,
-      "name": "You Can't Catch Me",
-      "url": "https://open.spotify.com/track/7N0JjLQsEClnTFrl6EgWXj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rock 'N' Roll Rarities",
         "url": "https://open.spotify.com/album/1DILNh7maaYyKxe15V9xLq"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 140466,
       "name": "I Want To Be Your Driver - Stereo Remix",
       "url": "https://open.spotify.com/track/4Cjk1HEvrSpIX0VemdFQyM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CHUCK BERRY INTEGRAL 1955 - 1962",
+        "url": "https://open.spotify.com/album/43qi03EaHt7m1qEogvhCQ0"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 162626,
+      "name": "You Can't Catch Me",
+      "url": "https://open.spotify.com/track/7N0JjLQsEClnTFrl6EgWXj"
     },
     {
       "added_at": null,

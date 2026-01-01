@@ -1,12 +1,12 @@
 {
   "description": "Get your creative juices flowing with these classical and instrumental masterpieces.",
-  "num_followers": 219070,
+  "num_followers": 219088,
   "original_name": "Creative Focus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMFnx63EccRgR1kuLLoofjjQmNz/",
+  "snapshot_id": "AAAAAPDv1yqwZb7OpRX9+j1CL0Xg/As0",
   "tracks": [
     {
       "added_at": "2025-12-23 11:21:37",
@@ -319,6 +319,22 @@
     {
       "added_at": "2025-12-23 11:21:37",
       "album": {
+        "name": "Istanbul",
+        "url": "https://open.spotify.com/album/5QxXqJHvFGnU2EFgJEwt99"
+      },
+      "artists": [
+        {
+          "name": "Alberto Giurioli",
+          "url": "https://open.spotify.com/artist/37sWo3r7HX9Fa9DhiQqclU"
+        }
+      ],
+      "duration_ms": 192174,
+      "name": "Istanbul",
+      "url": "https://open.spotify.com/track/4wKob4SjImqLpFqr8ygpgz"
+    },
+    {
+      "added_at": "2025-12-23 11:21:37",
+      "album": {
         "name": "Songs from the Arc of Life",
         "url": "https://open.spotify.com/album/2y85NsbsBnGTXcXgHpj3PD"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 160226,
       "name": "Apr\u00e8s un r\u00eave, Op. 7, No. 1",
       "url": "https://open.spotify.com/track/05yzhEWkmVXiigqWfcNTQS"
-    },
-    {
-      "added_at": "2025-12-23 11:21:37",
-      "album": {
-        "name": "Istanbul",
-        "url": "https://open.spotify.com/album/5QxXqJHvFGnU2EFgJEwt99"
-      },
-      "artists": [
-        {
-          "name": "Alberto Giurioli",
-          "url": "https://open.spotify.com/artist/37sWo3r7HX9Fa9DhiQqclU"
-        }
-      ],
-      "duration_ms": 192174,
-      "name": "Istanbul",
-      "url": "https://open.spotify.com/track/4wKob4SjImqLpFqr8ygpgz"
     },
     {
       "added_at": "2025-12-23 11:21:37",
@@ -439,26 +439,6 @@
     {
       "added_at": "2025-12-23 11:21:37",
       "album": {
-        "name": "Polovtsian Dances from Prince Igor (piano arr. by L. Faulkner)",
-        "url": "https://open.spotify.com/album/2cnR6LsauMMTwyY2Huum1G"
-      },
-      "artists": [
-        {
-          "name": "Luke Faulkner",
-          "url": "https://open.spotify.com/artist/2KTBCTcRbjSO03qPsUeqq3"
-        },
-        {
-          "name": "Alexander Borodin",
-          "url": "https://open.spotify.com/artist/34MYamymtmnsmpwbqydd7I"
-        }
-      ],
-      "duration_ms": 172758,
-      "name": "Polovtsian Dances from Prince Igor (piano arr. by L. Faulkner)",
-      "url": "https://open.spotify.com/track/7dlMTbloHegihfau1dF9mm"
-    },
-    {
-      "added_at": "2025-12-23 11:21:37",
-      "album": {
         "name": "The Swan - Reimagined",
         "url": "https://open.spotify.com/album/2tCcEfhsCr2jO7mXMGLAES"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 166451,
       "name": "The Swan - Reimagined",
       "url": "https://open.spotify.com/track/5WqQsbo40ZJU514i4qaS7Y"
+    },
+    {
+      "added_at": "2025-12-23 11:21:37",
+      "album": {
+        "name": "Polovtsian Dances from Prince Igor (piano arr. by L. Faulkner)",
+        "url": "https://open.spotify.com/album/2cnR6LsauMMTwyY2Huum1G"
+      },
+      "artists": [
+        {
+          "name": "Luke Faulkner",
+          "url": "https://open.spotify.com/artist/2KTBCTcRbjSO03qPsUeqq3"
+        },
+        {
+          "name": "Alexander Borodin",
+          "url": "https://open.spotify.com/artist/34MYamymtmnsmpwbqydd7I"
+        }
+      ],
+      "duration_ms": 172758,
+      "name": "Polovtsian Dances from Prince Igor (piano arr. by L. Faulkner)",
+      "url": "https://open.spotify.com/track/7dlMTbloHegihfau1dF9mm"
     },
     {
       "added_at": "2025-12-23 11:21:37",
@@ -883,22 +883,6 @@
     {
       "added_at": "2025-12-23 11:21:37",
       "album": {
-        "name": "The Sound Of Snow",
-        "url": "https://open.spotify.com/album/0WIVuD9M706cCtCSTGCFZY"
-      },
-      "artists": [
-        {
-          "name": "Stephan Moccio",
-          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
-        }
-      ],
-      "duration_ms": 155680,
-      "name": "The Sound of Snow",
-      "url": "https://open.spotify.com/track/2x90SHtWXagGmY5w0HVx1i"
-    },
-    {
-      "added_at": "2025-12-23 11:21:37",
-      "album": {
         "name": "Bach Interpreted: Piano Variations on Bach Chorales (Deluxe Release)",
         "url": "https://open.spotify.com/album/0oJH6uwQefBj2x8JSw0ddP"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 174466,
       "name": "Herr Jesu Christ, mein's Lebens Licht, Chorale Setting for 4 Voices, BWV 335 (Arr. by Chad Lawson for Piano)",
       "url": "https://open.spotify.com/track/5u8ZJK0O0mFp6ae2zcFElR"
+    },
+    {
+      "added_at": "2025-12-23 11:21:37",
+      "album": {
+        "name": "The Sound Of Snow",
+        "url": "https://open.spotify.com/album/0WIVuD9M706cCtCSTGCFZY"
+      },
+      "artists": [
+        {
+          "name": "Stephan Moccio",
+          "url": "https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg"
+        }
+      ],
+      "duration_ms": 155680,
+      "name": "The Sound of Snow",
+      "url": "https://open.spotify.com/track/2x90SHtWXagGmY5w0HVx1i"
     },
     {
       "added_at": "2025-12-23 11:21:37",
@@ -1983,30 +1983,6 @@
     {
       "added_at": "2025-12-23 11:21:37",
       "album": {
-        "name": "Amazing Grace (Arr. Simon for Violin and Piano)",
-        "url": "https://open.spotify.com/album/4AySC6MJDEh6V5P4tv0LkX"
-      },
-      "artists": [
-        {
-          "name": "Traditional",
-          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
-        },
-        {
-          "name": "Carlos Simon",
-          "url": "https://open.spotify.com/artist/25U2MSksQUgokSJw5snr9G"
-        },
-        {
-          "name": "Randall Goosby",
-          "url": "https://open.spotify.com/artist/1wgIWZ93QjeVdMO6k6Cy6K"
-        }
-      ],
-      "duration_ms": 221400,
-      "name": "Amazing Grace (Arr. Simon for Violin and Piano)",
-      "url": "https://open.spotify.com/track/4meHYHQ6Q41udKUmk6tNCe"
-    },
-    {
-      "added_at": "2025-12-23 11:21:37",
-      "album": {
         "name": "Mozart 1791",
         "url": "https://open.spotify.com/album/74bgXk4SBoMqfcXoAAh7VQ"
       },
@@ -2031,6 +2007,30 @@
       "duration_ms": 370546,
       "name": "Mozart: Clarinet Concerto in A Major, K. 622: II. Adagio",
       "url": "https://open.spotify.com/track/06sgVDVY4sH0TkQSEl2TFU"
+    },
+    {
+      "added_at": "2025-12-23 11:21:37",
+      "album": {
+        "name": "Amazing Grace (Arr. Simon for Violin and Piano)",
+        "url": "https://open.spotify.com/album/4AySC6MJDEh6V5P4tv0LkX"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Carlos Simon",
+          "url": "https://open.spotify.com/artist/25U2MSksQUgokSJw5snr9G"
+        },
+        {
+          "name": "Randall Goosby",
+          "url": "https://open.spotify.com/artist/1wgIWZ93QjeVdMO6k6Cy6K"
+        }
+      ],
+      "duration_ms": 221400,
+      "name": "Amazing Grace (Arr. Simon for Violin and Piano)",
+      "url": "https://open.spotify.com/track/4meHYHQ6Q41udKUmk6tNCe"
     },
     {
       "added_at": "2025-12-23 11:21:37",

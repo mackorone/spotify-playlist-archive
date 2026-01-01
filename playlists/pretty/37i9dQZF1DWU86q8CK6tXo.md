@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: Laci Kaye Booth
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,534 likes - 54 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,531 likes - 54 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 27 | [From The Back](https://open.spotify.com/track/5f5BVvemMmLZrnOgHaysJG) | [Bankroll Ni](https://open.spotify.com/artist/6557ikOFsjiDmV7gjHYuiD), [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Who Is Bankroll?](https://open.spotify.com/album/5I6AcuO3zFir65GHWY6pap) | 2:11 |
 | 28 | [Call Me Baby](https://open.spotify.com/track/3jCRpf7OMu9Fw4saMg5UbZ) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [sick to my stomach](https://open.spotify.com/album/3U7pwvDIhFLiTtNtb36gLW) | 2:31 |
 | 29 | [Moonbeam](https://open.spotify.com/track/6JWYMfs0pJdNrf3b6aP5Xu) | [Cassandra Coleman](https://open.spotify.com/artist/1O6GvgnaHzgcFlCX6RlhYV) | [Moonbeam](https://open.spotify.com/album/2yFJrexb16yo2SPSu4Qa8r) | 3:58 |
-| 30 | [Too Slow \(All Night\)](https://open.spotify.com/track/4ywDQlrX9XdJB19bvl3cvU) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK) | [Too Slow \(All Night\)](https://open.spotify.com/album/35IN0y8EZRBW3qVEkvr8bx) | 2:51 |
-| 31 | [You Can't Take My Song](https://open.spotify.com/track/4qaIk1oubKaR6rD1G7GTX7) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [You Can't Take My Song](https://open.spotify.com/album/2JCOYf1pNuxtUwtXio4TMA) | 2:59 |
+| 30 | [You Can't Take My Song](https://open.spotify.com/track/4qaIk1oubKaR6rD1G7GTX7) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [You Can't Take My Song](https://open.spotify.com/album/2JCOYf1pNuxtUwtXio4TMA) | 2:59 |
+| 31 | [Too Slow \(All Night\)](https://open.spotify.com/track/4ywDQlrX9XdJB19bvl3cvU) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK) | [Too Slow \(All Night\)](https://open.spotify.com/album/35IN0y8EZRBW3qVEkvr8bx) | 2:51 |
 | 32 | [Avalanche](https://open.spotify.com/track/7BXW8CSXcjJtMDPE4uWPBX) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Singles](https://open.spotify.com/album/5lk7DCC2cGR6l7VGeF255x) | 3:12 |
 | 33 | [Heaven](https://open.spotify.com/track/4YEQMr2pnBoorZVbFJHjQU) | [mercury](https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk) | [Heaven](https://open.spotify.com/album/2gm7fFQZnVcJHp2b43xdx4) | 4:35 |
 | 34 | [Don't Ruin Flowers](https://open.spotify.com/track/45BTsHyp3yFN9lKoQLValX) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Don't Ruin Flowers](https://open.spotify.com/album/5v1j957WCGpsGwegO4UhpN) | 3:04 |

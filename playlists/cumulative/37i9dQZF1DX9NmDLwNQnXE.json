@@ -2616,7 +2616,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-01",
       "duration_ms": 156007,
       "name": "La temp\u00eate",
       "url": "https://open.spotify.com/track/2wXuw7beVHAyCdOhIqvmgZ"
@@ -7990,6 +7990,24 @@
       "duration_ms": 184000,
       "name": "Windy Showers",
       "url": "https://open.spotify.com/track/0EFyu4Ayh58pnqFGJXIwij"
+    },
+    {
+      "album": {
+        "name": "Windy Thunder",
+        "url": "https://open.spotify.com/album/7q2uKrDMzNh4kVC2iISi3A"
+      },
+      "artists": [
+        {
+          "name": "Reine Thander",
+          "url": "https://open.spotify.com/artist/0rAQL9GsPXzu7vWraGlvdB"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162237,
+      "name": "Windy Thunder",
+      "url": "https://open.spotify.com/track/3w6qoFc3wSZLdBvf37mVQe"
     },
     {
       "album": {

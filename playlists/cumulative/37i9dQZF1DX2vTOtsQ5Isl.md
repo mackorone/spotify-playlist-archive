@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2vTOtsQ5Isl.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2vTOtsQ5Isl) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2vTOtsQ5Isl)
 
-### [TOP POP 2025](https://open.spotify.com/playlist/37i9dQZF1DX2vTOtsQ5Isl)
+### [TOP POP 2026](https://open.spotify.com/playlist/37i9dQZF1DX2vTOtsQ5Isl)
 
 > Gorące nowości i przeboje od światowych gwiazd muzyki pop\. Cover: Djo
 

@@ -1,12 +1,12 @@
 {
   "description": "This is Halestorm. The essential tracks, all in one playlist.",
-  "num_followers": 114177,
+  "num_followers": 114188,
   "original_name": "This Is Halestorm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVHEgAAAAADznT/Oye4UXMsx3L/dccpX",
+  "snapshot_id": "aVMWAAAAAACP7UiRpO3JH+SCNRzjuOtk",
   "tracks": [
     {
       "added_at": null,
@@ -175,6 +175,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Everest",
+        "url": "https://open.spotify.com/album/5i8fhyMoVuH1O3pofbxywv"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 262195,
+      "name": "Like A Woman Can",
+      "url": "https://open.spotify.com/track/2a938Z2yqpxHAyNLjJHymh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shatter Me (Deluxe)",
         "url": "https://open.spotify.com/album/3iZrxTBRLvQ2b9W7sAwDBe"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 278800,
       "name": "Shatter Me",
       "url": "https://open.spotify.com/track/5TSnqybKlP8IKZT3uGjr7G"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Everest",
-        "url": "https://open.spotify.com/album/5i8fhyMoVuH1O3pofbxywv"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 262195,
-      "name": "Like A Woman Can",
-      "url": "https://open.spotify.com/track/2a938Z2yqpxHAyNLjJHymh"
     },
     {
       "added_at": null,
@@ -339,22 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Halestorm (Deluxe)",
-        "url": "https://open.spotify.com/album/5iMlDARMRcsRn0hvFMgDfS"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 195880,
-      "name": "Innocence",
-      "url": "https://open.spotify.com/track/2wcOAWdnv22pYwRHscYfz2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Gereg (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4Lge00PEnR7Xb2ZKPItrys"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 349270,
       "name": "Song of Women (feat. Lzzy Hale of Halestorm)",
       "url": "https://open.spotify.com/track/1OZ2eE4InmLDhl5KVG002w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Halestorm (Deluxe)",
+        "url": "https://open.spotify.com/album/5iMlDARMRcsRn0hvFMgDfS"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 195880,
+      "name": "Innocence",
+      "url": "https://open.spotify.com/track/2wcOAWdnv22pYwRHscYfz2"
     },
     {
       "added_at": null,
@@ -507,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "ReAniMate 2.0: The CoVeRs eP",
+        "url": "https://open.spotify.com/album/2uCehLMuLbXVqEklFZzfZA"
+      },
+      "artists": [
+        {
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "duration_ms": 188573,
+      "name": "Get Lucky",
+      "url": "https://open.spotify.com/track/66PgT7clBWAuQlMqoUL0YU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Reimagined",
         "url": "https://open.spotify.com/album/6U136FqCYPkYDQnBaaUovl"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 191680,
       "name": "You Call Me a Bitch Like It's a Bad Thing",
       "url": "https://open.spotify.com/track/1DxHCaS1d3ctyQVO70z1rk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ReAniMate 2.0: The CoVeRs eP",
-        "url": "https://open.spotify.com/album/2uCehLMuLbXVqEklFZzfZA"
-      },
-      "artists": [
-        {
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "duration_ms": 188573,
-      "name": "Get Lucky",
-      "url": "https://open.spotify.com/track/66PgT7clBWAuQlMqoUL0YU"
     },
     {
       "added_at": null,

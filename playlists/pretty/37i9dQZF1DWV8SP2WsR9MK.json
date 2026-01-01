@@ -1,6 +1,6 @@
 {
   "description": "The classic Jazz guitarists and their finest pieces. Cover: Grant Green",
-  "num_followers": 121379,
+  "num_followers": 121435,
   "original_name": "Jazz Guitar Classics",
   "owner": {
     "name": "Spotify",
@@ -359,22 +359,6 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
-        "name": "Midnight Blue (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/0hMuKAciHKinu4L3R4Ojjl"
-      },
-      "artists": [
-        {
-          "name": "Kenny Burrell",
-          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
-        }
-      ],
-      "duration_ms": 163800,
-      "name": "Soul Lament - Remastered 1999/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/7xBpyAsYTgSxqOpMnMHNEt"
-    },
-    {
-      "added_at": "2025-09-10 12:20:14",
-      "album": {
         "name": "Incredible Jazz Guitar",
         "url": "https://open.spotify.com/album/74kBIzv8E0CG5V6qx5ytm2"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 291640,
       "name": "In Your Own Sweet Way",
       "url": "https://open.spotify.com/track/392OK8Qdmos0wNDrduiwy0"
+    },
+    {
+      "added_at": "2025-09-10 12:20:14",
+      "album": {
+        "name": "Midnight Blue (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/0hMuKAciHKinu4L3R4Ojjl"
+      },
+      "artists": [
+        {
+          "name": "Kenny Burrell",
+          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
+        }
+      ],
+      "duration_ms": 163800,
+      "name": "Soul Lament - Remastered 1999/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/7xBpyAsYTgSxqOpMnMHNEt"
     },
     {
       "added_at": "2025-09-10 12:20:14",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
-        "name": "The Best of Billy Bauer",
-        "url": "https://open.spotify.com/album/6VXcwfXihKz3qHQdLs1ZY9"
-      },
-      "artists": [
-        {
-          "name": "Billy Bauer",
-          "url": "https://open.spotify.com/artist/2Stsu7b2rXjs8idU9wjQgf"
-        }
-      ],
-      "duration_ms": 253693,
-      "name": "It's A Blue World - Original",
-      "url": "https://open.spotify.com/track/6VUzfooRLz88SbiBAeRf6v"
-    },
-    {
-      "added_at": "2025-09-10 12:20:14",
-      "album": {
         "name": "What We Do",
         "url": "https://open.spotify.com/album/60rpQDTCR4ZtfJ9o5YMzT7"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 396360,
       "name": "Little Walk",
       "url": "https://open.spotify.com/track/4nYrj53C7CgDWJtKHFgKx6"
+    },
+    {
+      "added_at": "2025-09-10 12:20:14",
+      "album": {
+        "name": "The Best of Billy Bauer",
+        "url": "https://open.spotify.com/album/6VXcwfXihKz3qHQdLs1ZY9"
+      },
+      "artists": [
+        {
+          "name": "Billy Bauer",
+          "url": "https://open.spotify.com/artist/2Stsu7b2rXjs8idU9wjQgf"
+        }
+      ],
+      "duration_ms": 253693,
+      "name": "It's A Blue World - Original",
+      "url": "https://open.spotify.com/track/6VUzfooRLz88SbiBAeRf6v"
     },
     {
       "added_at": "2025-09-10 12:20:14",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2025-09-10 12:20:14",
       "album": {
-        "name": "Django Reinhardt: Legendary Recordings",
-        "url": "https://open.spotify.com/album/3RCsS8ichdIB9arRJFicaf"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        }
-      ],
-      "duration_ms": 168720,
-      "name": "Brazil",
-      "url": "https://open.spotify.com/track/3ctsORVoVEDUxLpQAL0zOC"
-    },
-    {
-      "added_at": "2025-09-10 12:20:14",
-      "album": {
         "name": "Past Present",
         "url": "https://open.spotify.com/album/5ob5jEthhcZI9lLlEH2Tit"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 321866,
       "name": "Enjoy The Future !",
       "url": "https://open.spotify.com/track/1dWktJdLblH6Vt0SkX2ZoE"
+    },
+    {
+      "added_at": "2025-09-10 12:20:14",
+      "album": {
+        "name": "Django Reinhardt: Legendary Recordings",
+        "url": "https://open.spotify.com/album/3RCsS8ichdIB9arRJFicaf"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        }
+      ],
+      "duration_ms": 168720,
+      "name": "Brazil",
+      "url": "https://open.spotify.com/track/3ctsORVoVEDUxLpQAL0zOC"
     },
     {
       "added_at": "2025-09-10 12:20:14",

@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 435325,
+  "num_followers": 435360,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -655,6 +655,22 @@
     {
       "added_at": "2025-12-04 23:00:16",
       "album": {
+        "name": "Conversations in the Dark",
+        "url": "https://open.spotify.com/album/5LVi2qET36RvkLil7mJclb"
+      },
+      "artists": [
+        {
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
+        }
+      ],
+      "duration_ms": 237426,
+      "name": "Conversations in the Dark",
+      "url": "https://open.spotify.com/track/6TYlDTa9AQDvjqwbxlvFyI"
+    },
+    {
+      "added_at": "2025-12-04 23:00:16",
+      "album": {
         "name": "In The Lonely Hour (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/0WKmUvgdRRgKC7PuTvnO4d"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 220253,
       "name": "I\u2019m Not The Only One (feat. Alicia Keys)",
       "url": "https://open.spotify.com/track/0XYCqYGz1t26UfKCePwCID"
-    },
-    {
-      "added_at": "2025-12-04 23:00:16",
-      "album": {
-        "name": "Conversations in the Dark",
-        "url": "https://open.spotify.com/album/5LVi2qET36RvkLil7mJclb"
-      },
-      "artists": [
-        {
-          "name": "John Legend",
-          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
-        }
-      ],
-      "duration_ms": 237426,
-      "name": "Conversations in the Dark",
-      "url": "https://open.spotify.com/track/6TYlDTa9AQDvjqwbxlvFyI"
     },
     {
       "added_at": "2025-12-04 23:00:16",
@@ -755,6 +755,22 @@
     {
       "added_at": "2025-12-04 23:00:16",
       "album": {
+        "name": "My Favourite Faded Fantasy",
+        "url": "https://open.spotify.com/album/1dMqVfKYgHAjG76ZZufxSW"
+      },
+      "artists": [
+        {
+          "name": "Damien Rice",
+          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
+        }
+      ],
+      "duration_ms": 326206,
+      "name": "I Don't Want to Change You",
+      "url": "https://open.spotify.com/track/2WOpBtXX02RS4UCzBholDq"
+    },
+    {
+      "added_at": "2025-12-04 23:00:16",
+      "album": {
         "name": "Wish",
         "url": "https://open.spotify.com/album/3D4uWbaadwTFrOgddwKnGW"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 199746,
       "name": "Wish",
       "url": "https://open.spotify.com/track/4SDclRHhC2Nf2qoYjeyvtk"
-    },
-    {
-      "added_at": "2025-12-04 23:00:16",
-      "album": {
-        "name": "My Favourite Faded Fantasy",
-        "url": "https://open.spotify.com/album/1dMqVfKYgHAjG76ZZufxSW"
-      },
-      "artists": [
-        {
-          "name": "Damien Rice",
-          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
-        }
-      ],
-      "duration_ms": 326206,
-      "name": "I Don't Want to Change You",
-      "url": "https://open.spotify.com/track/2WOpBtXX02RS4UCzBholDq"
     },
     {
       "added_at": "2025-12-04 23:00:16",
@@ -955,22 +955,6 @@
     {
       "added_at": "2025-12-04 23:00:16",
       "album": {
-        "name": "Musas en Mi",
-        "url": "https://open.spotify.com/album/3PbTtZHjn8YcYAAFV1FoKZ"
-      },
-      "artists": [
-        {
-          "name": "Arath Herce",
-          "url": "https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs"
-        }
-      ],
-      "duration_ms": 212706,
-      "name": "Qui\u00e9n Pensar\u00eda",
-      "url": "https://open.spotify.com/track/5JKSgyvgOnSXKTeFdiyl7W"
-    },
-    {
-      "added_at": "2025-12-04 23:00:16",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 307172,
       "name": "All the Pretty Girls - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t"
+    },
+    {
+      "added_at": "2025-12-04 23:00:16",
+      "album": {
+        "name": "Musas en Mi",
+        "url": "https://open.spotify.com/album/3PbTtZHjn8YcYAAFV1FoKZ"
+      },
+      "artists": [
+        {
+          "name": "Arath Herce",
+          "url": "https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs"
+        }
+      ],
+      "duration_ms": 212706,
+      "name": "Qui\u00e9n Pensar\u00eda",
+      "url": "https://open.spotify.com/track/5JKSgyvgOnSXKTeFdiyl7W"
     },
     {
       "added_at": "2025-12-04 23:00:16",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2025-12-04 23:00:16",
       "album": {
+        "name": "Hold Your Head Up High",
+        "url": "https://open.spotify.com/album/1utqu0XGDOsrDL4TWXhf8J"
+      },
+      "artists": [
+        {
+          "name": "Darlingside",
+          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
+        }
+      ],
+      "duration_ms": 217360,
+      "name": "Hold Your Head Up High",
+      "url": "https://open.spotify.com/track/7oOsCpcgcLXKkkIPQzQ6cX"
+    },
+    {
+      "added_at": "2025-12-04 23:00:16",
+      "album": {
         "name": "RID\u00cdCULO",
         "url": "https://open.spotify.com/album/3nQzkiCIGfJxfe4hNoV9gJ"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 206538,
       "name": "Tu VIP",
       "url": "https://open.spotify.com/track/7dpiIyazo7prnbxzse5zxk"
-    },
-    {
-      "added_at": "2025-12-04 23:00:16",
-      "album": {
-        "name": "Hold Your Head Up High",
-        "url": "https://open.spotify.com/album/1utqu0XGDOsrDL4TWXhf8J"
-      },
-      "artists": [
-        {
-          "name": "Darlingside",
-          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
-        }
-      ],
-      "duration_ms": 217360,
-      "name": "Hold Your Head Up High",
-      "url": "https://open.spotify.com/track/7oOsCpcgcLXKkkIPQzQ6cX"
     },
     {
       "added_at": "2025-12-04 23:00:16",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2025-12-04 23:00:16",
       "album": {
-        "name": "No tenemos tiempo",
-        "url": "https://open.spotify.com/album/72dfrCR0XLcPuRgV2G5oKu"
-      },
-      "artists": [
-        {
-          "name": "Lia",
-          "url": "https://open.spotify.com/artist/6eGEvxkkLYybfvt5B8CAfA"
-        }
-      ],
-      "duration_ms": 212571,
-      "name": "No tenemos tiempo",
-      "url": "https://open.spotify.com/track/427KEmOZhZr2CgC43LtPEE"
-    },
-    {
-      "added_at": "2025-12-04 23:00:16",
-      "album": {
         "name": "Dos L\u00e1grimas, Dos Peces",
         "url": "https://open.spotify.com/album/76vM1rO3OsF38plPvdQUvE"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 224132,
       "name": "ERES GUAPA (\u273f\u00b4\u203f`) - Taranta",
       "url": "https://open.spotify.com/track/4qK6x2jGnY7foFReTrFojR"
+    },
+    {
+      "added_at": "2025-12-04 23:00:16",
+      "album": {
+        "name": "No tenemos tiempo",
+        "url": "https://open.spotify.com/album/72dfrCR0XLcPuRgV2G5oKu"
+      },
+      "artists": [
+        {
+          "name": "Lia",
+          "url": "https://open.spotify.com/artist/6eGEvxkkLYybfvt5B8CAfA"
+        }
+      ],
+      "duration_ms": 212571,
+      "name": "No tenemos tiempo",
+      "url": "https://open.spotify.com/track/427KEmOZhZr2CgC43LtPEE"
     },
     {
       "added_at": "2025-12-04 23:00:16",
@@ -1415,26 +1415,6 @@
     {
       "added_at": "2025-12-04 23:00:16",
       "album": {
-        "name": "Otras 3 Lunas",
-        "url": "https://open.spotify.com/album/4XEIBLJwW5kRkJt7d4abOx"
-      },
-      "artists": [
-        {
-          "name": "Esp\u00edritu System",
-          "url": "https://open.spotify.com/artist/2CIIwhaBDB1a3ipJJc40r0"
-        },
-        {
-          "name": "Chini Tacchini",
-          "url": "https://open.spotify.com/artist/0bl5N26zx6eOjNBcHtZKEY"
-        }
-      ],
-      "duration_ms": 162782,
-      "name": "Algo que no duele",
-      "url": "https://open.spotify.com/track/2Y8Qw5PU03Bl062cZJ4p0v"
-    },
-    {
-      "added_at": "2025-12-04 23:00:16",
-      "album": {
         "name": "El Sitio de Mi Recreo",
         "url": "https://open.spotify.com/album/5uwukbu9XmoBz1qn8kuDME"
       },
@@ -1455,6 +1435,26 @@
       "duration_ms": 211791,
       "name": "El Sitio de Mi Recreo",
       "url": "https://open.spotify.com/track/63L2xTgFiiabCUdWwfXdep"
+    },
+    {
+      "added_at": "2025-12-04 23:00:16",
+      "album": {
+        "name": "Otras 3 Lunas",
+        "url": "https://open.spotify.com/album/4XEIBLJwW5kRkJt7d4abOx"
+      },
+      "artists": [
+        {
+          "name": "Esp\u00edritu System",
+          "url": "https://open.spotify.com/artist/2CIIwhaBDB1a3ipJJc40r0"
+        },
+        {
+          "name": "Chini Tacchini",
+          "url": "https://open.spotify.com/artist/0bl5N26zx6eOjNBcHtZKEY"
+        }
+      ],
+      "duration_ms": 162782,
+      "name": "Algo que no duele",
+      "url": "https://open.spotify.com/track/2Y8Qw5PU03Bl062cZJ4p0v"
     },
     {
       "added_at": "2025-12-04 23:00:16",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2025-12-04 23:00:16",
       "album": {
-        "name": "A la muerte",
-        "url": "https://open.spotify.com/album/5qZV3Ux7bedYirvSmfMt4L"
-      },
-      "artists": [
-        {
-          "name": "Hidrogenesse",
-          "url": "https://open.spotify.com/artist/2vJ1aFdCPa1wYLqrlTvKuY"
-        }
-      ],
-      "duration_ms": 295500,
-      "name": "A la muerte",
-      "url": "https://open.spotify.com/track/0zsn2IzGuRZoC5s2jgqJDN"
-    },
-    {
-      "added_at": "2025-12-04 23:00:16",
-      "album": {
         "name": "xulejudetu",
         "url": "https://open.spotify.com/album/1KxCmWGJLXrumapPLmhIYf"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 153687,
       "name": "xulejudetu",
       "url": "https://open.spotify.com/track/1ktaKmoxKp3WB1ardeRIhi"
+    },
+    {
+      "added_at": "2025-12-04 23:00:16",
+      "album": {
+        "name": "A la muerte",
+        "url": "https://open.spotify.com/album/5qZV3Ux7bedYirvSmfMt4L"
+      },
+      "artists": [
+        {
+          "name": "Hidrogenesse",
+          "url": "https://open.spotify.com/artist/2vJ1aFdCPa1wYLqrlTvKuY"
+        }
+      ],
+      "duration_ms": 295500,
+      "name": "A la muerte",
+      "url": "https://open.spotify.com/track/0zsn2IzGuRZoC5s2jgqJDN"
     },
     {
       "added_at": "2025-12-04 23:00:16",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2025-12-04 23:00:16",
       "album": {
-        "name": "The Inner City",
-        "url": "https://open.spotify.com/album/5UcxFtVIBjkmn6hOVtxlhI"
-      },
-      "artists": [
-        {
-          "name": "Echo Thrills",
-          "url": "https://open.spotify.com/artist/3ffR557vYU2mGUwk5Fs5hF"
-        }
-      ],
-      "duration_ms": 180808,
-      "name": "Illusion",
-      "url": "https://open.spotify.com/track/08IHvtg3uEKTxdF6MRi20d"
-    },
-    {
-      "added_at": "2025-12-04 23:00:16",
-      "album": {
         "name": "Albino Rhino",
         "url": "https://open.spotify.com/album/2H2IzCfQ6zS4j4Hq6K0aBo"
       },
@@ -1991,6 +1975,38 @@
       "duration_ms": 249861,
       "name": "Albino Rhino",
       "url": "https://open.spotify.com/track/3oFGca7dXXLvRC9AD4JdF9"
+    },
+    {
+      "added_at": "2025-12-04 23:00:16",
+      "album": {
+        "name": "The Inner City",
+        "url": "https://open.spotify.com/album/5UcxFtVIBjkmn6hOVtxlhI"
+      },
+      "artists": [
+        {
+          "name": "Echo Thrills",
+          "url": "https://open.spotify.com/artist/3ffR557vYU2mGUwk5Fs5hF"
+        }
+      ],
+      "duration_ms": 180808,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/08IHvtg3uEKTxdF6MRi20d"
+    },
+    {
+      "added_at": "2025-12-04 23:00:16",
+      "album": {
+        "name": "No quiero olvidar",
+        "url": "https://open.spotify.com/album/6rvHGOXBV8YHqPV6dIe0tR"
+      },
+      "artists": [
+        {
+          "name": "Andrea Santiago",
+          "url": "https://open.spotify.com/artist/25ujYqJknNjORPPtUIDUXo"
+        }
+      ],
+      "duration_ms": 201441,
+      "name": "No quiero olvidar",
+      "url": "https://open.spotify.com/track/3TQsgWjUstxYOHnX45kG6j"
     },
     {
       "added_at": "2025-12-04 23:00:16",
@@ -2027,22 +2043,6 @@
     {
       "added_at": "2025-12-04 23:00:16",
       "album": {
-        "name": "No quiero olvidar",
-        "url": "https://open.spotify.com/album/6rvHGOXBV8YHqPV6dIe0tR"
-      },
-      "artists": [
-        {
-          "name": "Andrea Santiago",
-          "url": "https://open.spotify.com/artist/25ujYqJknNjORPPtUIDUXo"
-        }
-      ],
-      "duration_ms": 201441,
-      "name": "No quiero olvidar",
-      "url": "https://open.spotify.com/track/3TQsgWjUstxYOHnX45kG6j"
-    },
-    {
-      "added_at": "2025-12-04 23:00:16",
-      "album": {
         "name": "Unbothered",
         "url": "https://open.spotify.com/album/7G9rmRRlnmeS7i8wzjTqZw"
       },
@@ -2075,26 +2075,6 @@
     {
       "added_at": "2025-12-04 23:00:16",
       "album": {
-        "name": "Lejos De M\u00e1s",
-        "url": "https://open.spotify.com/album/0mCsBuqrZ6P2iflcesQysf"
-      },
-      "artists": [
-        {
-          "name": "pablopablo",
-          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
-        },
-        {
-          "name": "Helado Negro",
-          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
-        }
-      ],
-      "duration_ms": 246720,
-      "name": "Lejos De M\u00e1s",
-      "url": "https://open.spotify.com/track/3rATXD9GvA54CsDZRNPi6W"
-    },
-    {
-      "added_at": "2025-12-04 23:00:16",
-      "album": {
         "name": "UNDINE",
         "url": "https://open.spotify.com/album/3ZJo6zzFSfmtRng86xoCyX"
       },
@@ -2111,6 +2091,26 @@
       "duration_ms": 150361,
       "name": "trist\u00e1n de acu\u00f1a",
       "url": "https://open.spotify.com/track/1tBGsS9Z4kTznq0Ml0eVTp"
+    },
+    {
+      "added_at": "2025-12-04 23:00:16",
+      "album": {
+        "name": "Lejos De M\u00e1s",
+        "url": "https://open.spotify.com/album/0mCsBuqrZ6P2iflcesQysf"
+      },
+      "artists": [
+        {
+          "name": "pablopablo",
+          "url": "https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ"
+        },
+        {
+          "name": "Helado Negro",
+          "url": "https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ"
+        }
+      ],
+      "duration_ms": 246720,
+      "name": "Lejos De M\u00e1s",
+      "url": "https://open.spotify.com/track/3rATXD9GvA54CsDZRNPi6W"
     },
     {
       "added_at": "2025-12-04 23:00:16",

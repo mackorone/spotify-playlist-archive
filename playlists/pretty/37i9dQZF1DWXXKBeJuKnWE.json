@@ -1,6 +1,6 @@
 {
   "description": "The home for heavy music. Cover: Bad Omens",
-  "num_followers": 496630,
+  "num_followers": 496589,
   "original_name": "The Pit",
   "owner": {
     "name": "Spotify",
@@ -467,6 +467,26 @@
     {
       "added_at": "2025-10-23 23:00:19",
       "album": {
+        "name": "from me to u (feat. Poppy)",
+        "url": "https://open.spotify.com/album/2oxRRkR4Rj2aPCB63NsjZn"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        },
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 204526,
+      "name": "from me to u (feat. Poppy)",
+      "url": "https://open.spotify.com/track/6ILVeNgfsOG41ioscRql5P"
+    },
+    {
+      "added_at": "2025-10-23 23:00:19",
+      "album": {
         "name": "Crossing the Rubicon (feat. NOTHING MORE)",
         "url": "https://open.spotify.com/album/1wSTkIeWrOhenv55gnRIFI"
       },
@@ -491,26 +511,6 @@
       "duration_ms": 204400,
       "name": "Crossing the Rubicon (feat. NOTHING MORE)",
       "url": "https://open.spotify.com/track/2EVeVyXH9mQ5IIGi9b3smP"
-    },
-    {
-      "added_at": "2025-10-23 23:00:19",
-      "album": {
-        "name": "from me to u (feat. Poppy)",
-        "url": "https://open.spotify.com/album/2oxRRkR4Rj2aPCB63NsjZn"
-      },
-      "artists": [
-        {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
-        },
-        {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
-        }
-      ],
-      "duration_ms": 204526,
-      "name": "from me to u (feat. Poppy)",
-      "url": "https://open.spotify.com/track/6ILVeNgfsOG41ioscRql5P"
     },
     {
       "added_at": "2025-10-23 23:00:19",
@@ -751,22 +751,6 @@
     {
       "added_at": "2025-10-23 23:00:19",
       "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/3ndeaQffdBCpmpIzfoQz53"
-      },
-      "artists": [
-        {
-          "name": "I Prevail",
-          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
-        }
-      ],
-      "duration_ms": 203521,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/3cbBEGn5f65b1YCI28Oixn"
-    },
-    {
-      "added_at": "2025-10-23 23:00:19",
-      "album": {
         "name": "Blankets",
         "url": "https://open.spotify.com/album/2KhU5xZYYF3mopBNajadgW"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 317738,
       "name": "Tonight, Tonight",
       "url": "https://open.spotify.com/track/130TbbLfE1ffUMkvvF1nWJ"
+    },
+    {
+      "added_at": "2025-10-23 23:00:19",
+      "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/3ndeaQffdBCpmpIzfoQz53"
+      },
+      "artists": [
+        {
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+        }
+      ],
+      "duration_ms": 203521,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/3cbBEGn5f65b1YCI28Oixn"
     },
     {
       "added_at": "2025-10-23 23:00:19",
@@ -831,22 +831,6 @@
     {
       "added_at": "2025-10-23 23:00:19",
       "album": {
-        "name": "Our Parting Ways",
-        "url": "https://open.spotify.com/album/4n3UwfFh4TryZGGnfTscjL"
-      },
-      "artists": [
-        {
-          "name": "156/Silence",
-          "url": "https://open.spotify.com/artist/2qXHYRTtZytxMMfO9pW1V9"
-        }
-      ],
-      "duration_ms": 220920,
-      "name": "Our Parting Ways",
-      "url": "https://open.spotify.com/track/0ac8ZDjMOBYW2V5BK9KW4y"
-    },
-    {
-      "added_at": "2025-10-23 23:00:19",
-      "album": {
         "name": "I Refuse (feat. Maria Brink of In This Moment) [2025 VERSION]",
         "url": "https://open.spotify.com/album/2IrqDjpjH3dOVz8Nd7rPqI"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 221000,
       "name": "I Refuse (feat. Maria Brink of In This Moment) - 2025 VERSION",
       "url": "https://open.spotify.com/track/183LHdf7z7LG2eQf10popU"
+    },
+    {
+      "added_at": "2025-10-23 23:00:19",
+      "album": {
+        "name": "Our Parting Ways",
+        "url": "https://open.spotify.com/album/4n3UwfFh4TryZGGnfTscjL"
+      },
+      "artists": [
+        {
+          "name": "156/Silence",
+          "url": "https://open.spotify.com/artist/2qXHYRTtZytxMMfO9pW1V9"
+        }
+      ],
+      "duration_ms": 220920,
+      "name": "Our Parting Ways",
+      "url": "https://open.spotify.com/track/0ac8ZDjMOBYW2V5BK9KW4y"
     },
     {
       "added_at": "2025-10-23 23:00:19",
@@ -907,22 +907,6 @@
     {
       "added_at": "2025-10-23 23:00:19",
       "album": {
-        "name": "Shapeshift",
-        "url": "https://open.spotify.com/album/2sh2vfIEZv5HjufBTkJvu4"
-      },
-      "artists": [
-        {
-          "name": "Dayseeker",
-          "url": "https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj"
-        }
-      ],
-      "duration_ms": 247493,
-      "name": "Shapeshift",
-      "url": "https://open.spotify.com/track/6JETZ58xlV6YGNQWLj2T0A"
-    },
-    {
-      "added_at": "2025-10-23 23:00:19",
-      "album": {
         "name": "What Lies Within",
         "url": "https://open.spotify.com/album/5kefxoE4MBRf6L5yp6RoLY"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 306418,
       "name": "What Lies Within",
       "url": "https://open.spotify.com/track/3noiVDFbXAcHvzuabCo109"
+    },
+    {
+      "added_at": "2025-10-23 23:00:19",
+      "album": {
+        "name": "Shapeshift",
+        "url": "https://open.spotify.com/album/2sh2vfIEZv5HjufBTkJvu4"
+      },
+      "artists": [
+        {
+          "name": "Dayseeker",
+          "url": "https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj"
+        }
+      ],
+      "duration_ms": 247493,
+      "name": "Shapeshift",
+      "url": "https://open.spotify.com/track/6JETZ58xlV6YGNQWLj2T0A"
     },
     {
       "added_at": "2025-10-23 23:00:19",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2025-10-23 23:00:19",
       "album": {
-        "name": "Everybody Knows",
-        "url": "https://open.spotify.com/album/13gb5lKK6fIsAEYMzEg9Qs"
-      },
-      "artists": [
-        {
-          "name": "The Devil Wears Prada",
-          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
-        }
-      ],
-      "duration_ms": 199617,
-      "name": "Everybody Knows",
-      "url": "https://open.spotify.com/track/4uHsDdr65dajDR7zuc7336"
-    },
-    {
-      "added_at": "2025-10-23 23:00:19",
-      "album": {
         "name": "Punks And Demons",
         "url": "https://open.spotify.com/album/7bV9YJBYC6BAVkyzDA9gFP"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 157106,
       "name": "Punks And Demons",
       "url": "https://open.spotify.com/track/3aK2ctwWDXDMZCNGEKwcKg"
+    },
+    {
+      "added_at": "2025-10-23 23:00:19",
+      "album": {
+        "name": "Everybody Knows",
+        "url": "https://open.spotify.com/album/13gb5lKK6fIsAEYMzEg9Qs"
+      },
+      "artists": [
+        {
+          "name": "The Devil Wears Prada",
+          "url": "https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb"
+        }
+      ],
+      "duration_ms": 199617,
+      "name": "Everybody Knows",
+      "url": "https://open.spotify.com/track/4uHsDdr65dajDR7zuc7336"
     },
     {
       "added_at": "2025-10-23 23:00:19",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2025-10-23 23:00:19",
       "album": {
-        "name": "Echoes",
-        "url": "https://open.spotify.com/album/0eZVWhcjULemVSblWXjqnV"
-      },
-      "artists": [
-        {
-          "name": "As I Lay Dying",
-          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
-        }
-      ],
-      "duration_ms": 269031,
-      "name": "Echoes",
-      "url": "https://open.spotify.com/track/0LaoxSSzKFhhbBQ9fGKxsc"
-    },
-    {
-      "added_at": "2025-10-23 23:00:19",
-      "album": {
         "name": "Steelbound",
         "url": "https://open.spotify.com/album/2729tzbbE6CeRuFmbGOUry"
       },
@@ -1299,22 +1283,6 @@
       "duration_ms": 235800,
       "name": "Twilight Cabaret",
       "url": "https://open.spotify.com/track/5SMh3O6GhEN31zwLfiqTqK"
-    },
-    {
-      "added_at": "2025-10-23 23:00:19",
-      "album": {
-        "name": "GUTSY",
-        "url": "https://open.spotify.com/album/1cSEktYGDM94FlEfAKNOiZ"
-      },
-      "artists": [
-        {
-          "name": "Airbourne",
-          "url": "https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb"
-        }
-      ],
-      "duration_ms": 281124,
-      "name": "GUTSY",
-      "url": "https://open.spotify.com/track/2oK6zOlRBu3zYqS62LLc0i"
     },
     {
       "added_at": "2025-10-23 23:00:19",
@@ -1335,18 +1303,34 @@
     {
       "added_at": "2025-10-23 23:00:19",
       "album": {
-        "name": "THOUGHT LEADER",
-        "url": "https://open.spotify.com/album/7AH8goV8fFqSLAmzm02BrA"
+        "name": "GUTSY",
+        "url": "https://open.spotify.com/album/1cSEktYGDM94FlEfAKNOiZ"
       },
       "artists": [
         {
-          "name": "HEALTH",
-          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
+          "name": "Airbourne",
+          "url": "https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb"
         }
       ],
-      "duration_ms": 202071,
-      "name": "THOUGHT LEADER",
-      "url": "https://open.spotify.com/track/4DbMAt0AcU1b1MLDVvJpiu"
+      "duration_ms": 281124,
+      "name": "GUTSY",
+      "url": "https://open.spotify.com/track/2oK6zOlRBu3zYqS62LLc0i"
+    },
+    {
+      "added_at": "2025-10-23 23:00:19",
+      "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/0eZVWhcjULemVSblWXjqnV"
+      },
+      "artists": [
+        {
+          "name": "As I Lay Dying",
+          "url": "https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu"
+        }
+      ],
+      "duration_ms": 269031,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/0LaoxSSzKFhhbBQ9fGKxsc"
     },
     {
       "added_at": "2025-10-23 23:00:19",
@@ -1367,18 +1351,18 @@
     {
       "added_at": "2025-10-23 23:00:19",
       "album": {
-        "name": "Blood Dynasty (Expanded Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1fRRVExZOrOXIdu0RgUGtY"
+        "name": "THOUGHT LEADER",
+        "url": "https://open.spotify.com/album/7AH8goV8fFqSLAmzm02BrA"
       },
       "artists": [
         {
-          "name": "Arch Enemy",
-          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+          "name": "HEALTH",
+          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
         }
       ],
-      "duration_ms": 241300,
-      "name": "Moths",
-      "url": "https://open.spotify.com/track/71Rgf3kRwb7ReVASnkNAkz"
+      "duration_ms": 202071,
+      "name": "THOUGHT LEADER",
+      "url": "https://open.spotify.com/track/4DbMAt0AcU1b1MLDVvJpiu"
     },
     {
       "added_at": "2025-10-23 23:00:19",
@@ -1395,6 +1379,22 @@
       "duration_ms": 273696,
       "name": "Wrath",
       "url": "https://open.spotify.com/track/2v2S3rEa4kBh96NCEtv02m"
+    },
+    {
+      "added_at": "2025-10-23 23:00:19",
+      "album": {
+        "name": "Blood Dynasty (Expanded Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1fRRVExZOrOXIdu0RgUGtY"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "duration_ms": 241300,
+      "name": "Moths",
+      "url": "https://open.spotify.com/track/71Rgf3kRwb7ReVASnkNAkz"
     },
     {
       "added_at": "2025-10-23 23:00:19",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2025-10-23 23:00:19",
       "album": {
-        "name": "Angels Calling",
-        "url": "https://open.spotify.com/album/1Qi4VBSO2f5zs26HMCiAtd"
-      },
-      "artists": [
-        {
-          "name": "Solence",
-          "url": "https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg"
-        }
-      ],
-      "duration_ms": 175186,
-      "name": "Angels Calling",
-      "url": "https://open.spotify.com/track/0y2JgdmUmRWrTMXZhSinDe"
-    },
-    {
-      "added_at": "2025-10-23 23:00:19",
-      "album": {
         "name": "Labyrinthine",
         "url": "https://open.spotify.com/album/3WOLRTjNMQBPzHB1wgFYev"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 241114,
       "name": "Iron Gate",
       "url": "https://open.spotify.com/track/3hxOUdnf1zeY2RoH7ozob5"
+    },
+    {
+      "added_at": "2025-10-23 23:00:19",
+      "album": {
+        "name": "Angels Calling",
+        "url": "https://open.spotify.com/album/1Qi4VBSO2f5zs26HMCiAtd"
+      },
+      "artists": [
+        {
+          "name": "Solence",
+          "url": "https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg"
+        }
+      ],
+      "duration_ms": 175186,
+      "name": "Angels Calling",
+      "url": "https://open.spotify.com/track/0y2JgdmUmRWrTMXZhSinDe"
     },
     {
       "added_at": "2025-10-23 23:00:19",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2025-10-23 23:00:19",
       "album": {
-        "name": "Slipknot (25th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/24uSmiCdGfRf5MReMeWvmO"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 207706,
-      "name": "(sic) - Ulrich Wild Mix",
-      "url": "https://open.spotify.com/track/1Ti2u8of40rQqQiVnJq5t0"
-    },
-    {
-      "added_at": "2025-10-23 23:00:19",
-      "album": {
         "name": "AIN'T MY GAME",
         "url": "https://open.spotify.com/album/5zlLiXZwPWgXHTkbNDD3Py"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 181493,
       "name": "AIN'T MY GAME",
       "url": "https://open.spotify.com/track/15oKXosgetxTWel2WqqPHI"
+    },
+    {
+      "added_at": "2025-10-23 23:00:19",
+      "album": {
+        "name": "Slipknot (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/24uSmiCdGfRf5MReMeWvmO"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 207706,
+      "name": "(sic) - Ulrich Wild Mix",
+      "url": "https://open.spotify.com/track/1Ti2u8of40rQqQiVnJq5t0"
     },
     {
       "added_at": "2025-10-23 23:00:19",

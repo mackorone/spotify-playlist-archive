@@ -1,6 +1,6 @@
 {
   "description": "Quer fazer aquele exerc\u00edcio empolgante e sem estresse? Fizemos uma playlist com o som certo para voc\u00ea alcan\u00e7ar novas metas.",
-  "num_followers": 540828,
+  "num_followers": 540787,
   "original_name": "Corra numa Boa",
   "owner": {
     "name": "Spotify",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2025-02-07 03:01:15",
       "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/75n7rjlC1fxezRtoMQmtL5"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 214906,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/4VginDwYTP2eaHJzO0QMjG"
+    },
+    {
+      "added_at": "2025-02-07 03:01:15",
+      "album": {
         "name": "Piece Of Your Heart",
         "url": "https://open.spotify.com/album/0agqVZjOqVtqHkq3pTFPXb"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 152913,
       "name": "Piece Of Your Heart",
       "url": "https://open.spotify.com/track/5p1ex0pXv6jSPJ6QbumQpD"
-    },
-    {
-      "added_at": "2025-02-07 03:01:15",
-      "album": {
-        "name": "Circles",
-        "url": "https://open.spotify.com/album/75n7rjlC1fxezRtoMQmtL5"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 214906,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/4VginDwYTP2eaHJzO0QMjG"
     },
     {
       "added_at": "2025-02-07 03:01:15",

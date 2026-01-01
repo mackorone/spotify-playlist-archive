@@ -1,12 +1,12 @@
 {
   "description": "This is Harold Melvin & The Blue Notes. The essential tracks, all in one playlist.",
-  "num_followers": 13919,
+  "num_followers": 13921,
   "original_name": "This Is Harold Melvin & The Blue Notes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVHEgAAAAAAsZPN8ZctORpYqLEd15aSa",
+  "snapshot_id": "aVMWAAAAAABa+Vwg6s5PaDIhOI9LRtp5",
   "tracks": [
     {
       "added_at": null,
@@ -367,22 +367,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Black & Blue (Expanded Edition) (feat. Teddy Pendergrass)",
-        "url": "https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N"
+        "name": "Soul Nights",
+        "url": "https://open.spotify.com/album/4Q992gzwZqcxKzzRoi15Rf"
       },
       "artists": [
         {
           "name": "Harold Melvin & The Blue Notes",
           "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 412106,
-      "name": "I'm Weak for You (feat. Teddy Pendergrass)",
-      "url": "https://open.spotify.com/track/5wEMmtXZqeURq0OcTrsTlE"
+      "duration_ms": 210853,
+      "name": "If You Don't Know Me by Now",
+      "url": "https://open.spotify.com/track/1Qb1Ygd3TepJ24eiQKUGep"
     },
     {
       "added_at": null,
@@ -407,18 +403,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soul Nights",
-        "url": "https://open.spotify.com/album/4Q992gzwZqcxKzzRoi15Rf"
+        "name": "Black & Blue (Expanded Edition) (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N"
       },
       "artists": [
         {
           "name": "Harold Melvin & The Blue Notes",
           "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 210853,
-      "name": "If You Don't Know Me by Now",
-      "url": "https://open.spotify.com/track/1Qb1Ygd3TepJ24eiQKUGep"
+      "duration_ms": 412106,
+      "name": "I'm Weak for You (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/5wEMmtXZqeURq0OcTrsTlE"
     },
     {
       "added_at": null,
@@ -567,6 +567,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Blue Album",
+        "url": "https://open.spotify.com/album/5DHS3gYrSZEj1RpWYlj1cY"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Sharon Paige",
+          "url": "https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk"
+        }
+      ],
+      "duration_ms": 361093,
+      "name": "Prayin'",
+      "url": "https://open.spotify.com/track/0kb9n9G3MF476lGb1JX0h6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Harold Melvin & The Blue Notes",
         "url": "https://open.spotify.com/album/0RQg9BXfVrUxx1qwFqmG7S"
       },
@@ -595,26 +615,6 @@
       "duration_ms": 221506,
       "name": "Keep On Loving You",
       "url": "https://open.spotify.com/track/6STBiVl72h1nCQthjjkdbl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Blue Album",
-        "url": "https://open.spotify.com/album/5DHS3gYrSZEj1RpWYlj1cY"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
-        {
-          "name": "Sharon Paige",
-          "url": "https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk"
-        }
-      ],
-      "duration_ms": 361093,
-      "name": "Prayin'",
-      "url": "https://open.spotify.com/track/0kb9n9G3MF476lGb1JX0h6"
     },
     {
       "added_at": null,
@@ -799,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Philadelphia Soul",
-        "url": "https://open.spotify.com/album/3dMZCIfXUns8VppCaP53Av"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        }
-      ],
-      "duration_ms": 356360,
-      "name": "All Night Love",
-      "url": "https://open.spotify.com/track/22gYBY9H7vxZYMjB9THXL5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "If You Don't Know Christ by Now",
         "url": "https://open.spotify.com/album/1NVw7iYkO1pJzTeKyqgp0Y"
       },
@@ -831,8 +815,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back To Back With Love",
-        "url": "https://open.spotify.com/album/2rhLXj1XHT6GBssORJqzRk"
+        "name": "Philadelphia Soul",
+        "url": "https://open.spotify.com/album/3dMZCIfXUns8VppCaP53Av"
       },
       "artists": [
         {
@@ -840,9 +824,9 @@
           "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
         }
       ],
-      "duration_ms": 158360,
-      "name": "Get Ready",
-      "url": "https://open.spotify.com/track/2NTixSlpJYRvcIngMbI6jm"
+      "duration_ms": 352786,
+      "name": "Your Love Is Taking Me On A Journey",
+      "url": "https://open.spotify.com/track/2T1vZFc8djOcjh59IkyPPY"
     },
     {
       "added_at": null,
@@ -863,8 +847,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Philadelphia Soul",
-        "url": "https://open.spotify.com/album/3dMZCIfXUns8VppCaP53Av"
+        "name": "Back To Back With Love",
+        "url": "https://open.spotify.com/album/2rhLXj1XHT6GBssORJqzRk"
       },
       "artists": [
         {
@@ -872,9 +856,9 @@
           "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
         }
       ],
-      "duration_ms": 352786,
-      "name": "Your Love Is Taking Me On A Journey",
-      "url": "https://open.spotify.com/track/2T1vZFc8djOcjh59IkyPPY"
+      "duration_ms": 158360,
+      "name": "Get Ready",
+      "url": "https://open.spotify.com/track/2NTixSlpJYRvcIngMbI6jm"
     },
     {
       "added_at": null,
@@ -899,6 +883,22 @@
       "duration_ms": 498064,
       "name": "A House Is Not A Home - Live",
       "url": "https://open.spotify.com/track/1RSo4zPAo4BlHaZwldlzRp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Philadelphia Soul",
+        "url": "https://open.spotify.com/album/3dMZCIfXUns8VppCaP53Av"
+      },
+      "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        }
+      ],
+      "duration_ms": 356360,
+      "name": "All Night Love",
+      "url": "https://open.spotify.com/track/22gYBY9H7vxZYMjB9THXL5"
     },
     {
       "added_at": null,
@@ -935,18 +935,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Too Hot to Handle",
-        "url": "https://open.spotify.com/album/388CJAknRVlwhyvRnkPMnz"
+        "name": "The Intruders vs Harold Melvin's Blue Notes (Live In Concert)",
+        "url": "https://open.spotify.com/album/1UWBEyPgg7GaXRAx2JV4QN"
       },
       "artists": [
         {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        },
+        {
           "name": "Harold Melvin & The Blue Notes",
           "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Sharon Paige",
+          "url": "https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk"
         }
       ],
-      "duration_ms": 189000,
-      "name": "O Holy Nite",
-      "url": "https://open.spotify.com/track/4InoM03yej3uViCdReaXVX"
+      "duration_ms": 89091,
+      "name": "The Intruders Medley Introduction - Live",
+      "url": "https://open.spotify.com/track/1fmmjBUc9UHPl5x0YrtLBZ"
     }
   ],
   "unique_name": "This Is Harold Melvin & The Blue Notes",

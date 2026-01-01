@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 
 > Classic anthems from a classic era\. Cover: DJ EZ at Drumsheds
 
-[Spotify](https://open.spotify.com/user/spotify) - 660,070 likes - 75 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 660,209 likes - 75 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 | 72 | [My Desire \- Dreem Team Remix](https://open.spotify.com/track/4wDuuEI9ecmWVVQVfHfrp3) | [AMIRA](https://open.spotify.com/artist/32GCwVMzzFTuaFhQGXgdxD) | [My Desire \(Remixes\)](https://open.spotify.com/album/7m7dj6cgyKXzOkBHF4MDug) | 5:44 |
 | 73 | [God Made Me Phunky \(Extended Mix\)](https://open.spotify.com/track/4tvejslaZsD6Y0pFCWipwJ) | [MD X\-Spress](https://open.spotify.com/artist/61YPxKmHE20pcKZNYi4sUS) | [God Made Me Phunky](https://open.spotify.com/album/4h3Jd9QhtT9TifEhLq9xkc) | 6:16 |
 | 74 | [RIP Groove \- Radio Edit](https://open.spotify.com/track/4nyZjJ9eCaEODIljcQn8gQ) | [Double 99](https://open.spotify.com/artist/3XUgFwHXbyBHNuAfv7sWu3) | [Rip Groove](https://open.spotify.com/album/6J4zZWXB1HrAnb2hibIP9v) | 3:29 |
-| 75 | [Thong Song \- Artful Dodger Remix](https://open.spotify.com/track/2Ww9eYzShPGiRlqz9eTpnm) | [Sisqo](https://open.spotify.com/artist/6x9QLdzo6eBZxJ1bHsDkjg), [M.C\. Alastair](https://open.spotify.com/artist/687vo1Cb1bX0JYVRUJDRFJ) | [Unleash The Dragon \(UK COMM EXTRA TRACKS\)](https://open.spotify.com/album/2Q059JIZOx97MuuggN6PvU) | 5:34 |
+| 75 | [Blues For You \- Hard Dub](https://open.spotify.com/track/1ooV7Bm7ahkeWzKNwiLItL) | [Logic](https://open.spotify.com/artist/1BF6z9EIGGoPViPON57eGC) | [Blues for You \(Remixes\)](https://open.spotify.com/album/2qjAvLXaa3S0u1jqvxXtYU) | 4:29 |
 
 Snapshot ID: `AAAAAG5D8yptH9QhG3oT3//C/rb7sITz`

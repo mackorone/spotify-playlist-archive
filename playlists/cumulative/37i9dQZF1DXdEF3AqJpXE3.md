@@ -4,7 +4,7 @@
 
 > The best tracks from the world of music\. Cover: HWASA
 
-585 songs - 1 day 7 hr 54 min
+587 songs - 1 day 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 | [EASY](https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:44 | 2024-02-28 | 2024-06-01 |
 | [Easy Lover](https://open.spotify.com/track/2OBzYCYMNsD6yhBZZSs0xg) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Something Beautiful](https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ) | 3:06 | 2025-06-11 | 2025-07-17 |
 | [Either Way](https://open.spotify.com/track/4wg1vffvKufwoe02eB6N10) | [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [Either Way](https://open.spotify.com/album/5hEuteioYm1DYSQDFpzVXU) | 3:36 | 2025-10-22 | 2025-11-27 |
-| [Elizabeth Taylor](https://open.spotify.com/track/1jgTiNob5cVyXeJ3WgX5bL) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:28 | 2025-10-08 |  |
+| [Elizabeth Taylor](https://open.spotify.com/track/1jgTiNob5cVyXeJ3WgX5bL) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I) | 3:28 | 2025-10-08 | 2026-01-01 |
 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2024-03-06 | 2024-07-11 |
 | [End of the World](https://open.spotify.com/track/5SxahezRlC0saXbCALfB7c) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [End of the World](https://open.spotify.com/album/3ApGUtCbEwErvJ8AOs3kOW) | 4:10 | 2025-04-04 | 2025-06-12 |
 | [endless shine](https://open.spotify.com/track/1OUoxV1qoUGAxFngy2zcxB) | [Sherman Zhuo](https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw) | [endless shine](https://open.spotify.com/album/03cEdnJdRIxQ0n1FwXtK2D) | 3:01 | 2024-07-10 | 2024-10-24 |
@@ -194,6 +194,7 @@
 | [Guilty as Sin?](https://open.spotify.com/track/0W0iAC1VGlB82PI6elxFYf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 4:14 | 2024-06-04 | 2024-08-01 |
 | [Guy For That \(Feat\. Luke Combs\)](https://open.spotify.com/track/5crxqqibcvoOQQgg4HjAFQ) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Guy For That](https://open.spotify.com/album/6w0ujcFPqoqOzgzYsUWYXJ) | 2:44 | 2024-07-31 | 2024-08-29 |
 | [Handlebars \(feat\. Dua Lipa\)](https://open.spotify.com/track/3gJAFFELdZyIM8tiwLAikg) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 3:04 | 2025-03-06 | 2025-05-23 |
+| [HANDO\-CHOGUA](https://open.spotify.com/track/3ZjbJvHQGKEkPL3HUg2hRh) | [DAESUNG](https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO) | [HANDO\-CHOGUA](https://open.spotify.com/album/3i7leFgKCQKD2EqW7XkRhO) | 3:11 | 2025-12-31 |  |
 | [HANDS UP](https://open.spotify.com/track/2nopDUxom21JoMzFXj9wS0) | [MEOVV](https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv) | [HANDS UP](https://open.spotify.com/album/54jgEDbiF7I2m7kEPl0J6E) | 3:12 | 2025-05-07 | 2025-06-05 |
 | [HAPPY MAN](https://open.spotify.com/track/0iq4tyrVjVfHHeOXYDMC8g) | [ZUHAIR](https://open.spotify.com/artist/3uaX4vj7m3bkWhcY9xooJ6), [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [HAPPY MAN](https://open.spotify.com/album/5lBn1L7IijsEcWQ7nHbaI7) | 2:39 | 2024-12-25 | 2025-01-30 |
 | [Have A Baby \(With Me\)](https://open.spotify.com/track/1V0rl8HIvcfn1ztxPuYMFc) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Have A Baby \(With Me\)](https://open.spotify.com/album/0FAHYQcSzpQ41vTTyRHUtm) | 3:45 | 2025-07-30 | 2025-09-04 |
@@ -543,7 +544,7 @@
 | [你想得美](https://open.spotify.com/track/4vSqgkQmBSwB5yDXoU191e) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [六一九](https://open.spotify.com/album/0OVpy3ZmPJ7UXZYF53qNQU) | 2:52 | 2025-09-24 | 2025-10-23 |
 | [你會來看我嗎？](https://open.spotify.com/track/0DxkPgLfLetPrvtMeJjNB4) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [你會來看我嗎？](https://open.spotify.com/album/6byW0FebDU634pXsBmb4tC) | 3:44 | 2025-04-16 | 2025-05-22 |
 | [你有滿意嗎](https://open.spotify.com/track/2FIxAgNJfyhAFzDwJI1jZV) | [Sherman Zhuo](https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw) | [你有滿意嗎](https://open.spotify.com/album/1VOkhMPKUgKtFRRJvRUN10) | 4:16 | 2025-09-17 | 2025-10-16 |
-| [像晴天像雨天（电视剧《难哄》心动曲）](https://open.spotify.com/track/1zFuSla4RQ5qAJwDIQYixW) | [Silence Wang](https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60) | [像晴天像雨天（电视剧《难哄》心动曲）](https://open.spotify.com/album/2CwGNkQ8VWc8FfVZhhX20Z) | 3:56 | 2025-12-24 |  |
+| [像晴天像雨天（电视剧《难哄》心动曲）](https://open.spotify.com/track/1zFuSla4RQ5qAJwDIQYixW) | [Silence Wang](https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60) | [像晴天像雨天（电视剧《难哄》心动曲）](https://open.spotify.com/album/2CwGNkQ8VWc8FfVZhhX20Z) | 3:56 | 2025-12-24 | 2026-01-01 |
 | [像晴天像雨天（电视剧《难哄》心动曲）](https://open.spotify.com/track/298LjjcBvuQCAlwUWb9dKb) | [Silence Wang](https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60) | [电视剧《难哄》影视原声带·只喜欢你Love Moments](https://open.spotify.com/album/7hcotSWQZpoxnAmA04vCOr) | 3:56 | 2025-03-05 |  |
 | [光陰副本](https://open.spotify.com/track/7KJ5U4QwsM1FHvSE3M7nLM) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [光陰副本](https://open.spotify.com/album/1mr50iAkmOj4P6BfLHwD9q) | 4:12 | 2025-01-01 | 2025-02-01 |
 | [全世界](https://open.spotify.com/track/4d6xihy3AWfDNpt5n60dKn) | [Boon Hui Lu](https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4) | [全世界](https://open.spotify.com/album/7ikMtrucViIdJRcNvmSypi) | 4:11 | 2025-12-10 |  |
@@ -568,6 +569,7 @@
 | [我期待的不是雪](https://open.spotify.com/track/2deIA64Gfsm50VTsKwrxnQ) | [张妙格](https://open.spotify.com/artist/7q6xird8xFNzgqQi60dwmj) | [我期待的不是雪](https://open.spotify.com/album/1oPwq4HtDm98CCZD8vrtZd) | 2:46 | 2024-01-17 | 2024-06-26 |
 | [我的愛在遺落的銀河](https://open.spotify.com/track/3L6MJx8lI8hiDcb7WdxyWo) | [Boon Hui Lu](https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4) | [我的愛在遺落的銀河](https://open.spotify.com/album/0vAf76LcvsLzR6JpAo02L1) | 3:28 | 2025-01-15 | 2025-02-20 |
 | [我看好的](https://open.spotify.com/track/5NPlmy6TQMNCwg4nPCDslh) | [LBI利比](https://open.spotify.com/artist/1xMn0bhYRWHDV01mU8gP1J) | [我看好的](https://open.spotify.com/album/2FoEyVTB7TVO144Ig6cKAN) | 3:13 | 2025-06-04 | 2025-07-17 |
+| [我要发疯LOSTCONTROL](https://open.spotify.com/track/2F39PtU4oQQerEewy85O4o) | [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ), [Jess 佳仙](https://open.spotify.com/artist/1SnrjMkXp78HkmgUd41HLC) | [我要发疯LOSTCONTROL](https://open.spotify.com/album/17sRkvpjJs9q9dW6LR4lKL) | 3:15 | 2025-12-31 |  |
 | [我走后 \- 发行版](https://open.spotify.com/track/32UZM0QSWwqzLbyr1YoS7x) | [小咪](https://open.spotify.com/artist/1EnZU1clkEHET416Er1WO2) | [我走后 \(发行版\)](https://open.spotify.com/album/0FFfONkUMV8s41EzZDUfiF) | 4:08 | 2024-01-17 | 2024-04-10 |
 | [日落](https://open.spotify.com/track/6PHyNPr7hwdYwiDnesWsyb) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [日落](https://open.spotify.com/album/7pTK57Zq3LQk1fUSpoO0HY) | 4:09 | 2025-01-22 | 2025-03-06 |
 | [明天我在你身邊 \(電影《危機航線》片尾曲\)](https://open.spotify.com/track/67KtRQhwhQbSEl9SRHyuoq) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi) | [明天我在你身邊 \(電影《危機航線》片尾曲\)](https://open.spotify.com/album/6682vtcZcXjdmx9cZGQLR4) | 4:31 | 2024-09-25 | 2024-12-12 |

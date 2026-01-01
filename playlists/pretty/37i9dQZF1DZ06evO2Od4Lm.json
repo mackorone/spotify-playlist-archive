@@ -1,12 +1,12 @@
 {
   "description": "This is Sufjan Stevens. The essential tracks, all in one playlist.",
-  "num_followers": 130138,
+  "num_followers": 130162,
   "original_name": "This Is Sufjan Stevens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVHEgAAAAAAoXsP0vx3T99Z+mg3X/DWj",
+  "snapshot_id": "aVMWAAAAAABhlWhY95JeuEuiakUC+DoS",
   "tracks": [
     {
       "added_at": null,
@@ -479,18 +479,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Michigan",
-        "url": "https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk"
+        "name": "A Beginner's Mind",
+        "url": "https://open.spotify.com/album/7AS9VaIdnYSR13T3vkVtu9"
       },
       "artists": [
         {
           "name": "Sufjan Stevens",
           "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        },
+        {
+          "name": "Angelo De Augustine",
+          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
         }
       ],
-      "duration_ms": 122026,
-      "name": "Redford (for Yia-Yia and Pappou)",
-      "url": "https://open.spotify.com/track/2EL9uWRulB1rcgDmjYMzTO"
+      "duration_ms": 210440,
+      "name": "Murder And Crime",
+      "url": "https://open.spotify.com/track/43flDuyszwqpgsukkqMVea"
     },
     {
       "added_at": null,
@@ -511,22 +515,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Beginner's Mind",
-        "url": "https://open.spotify.com/album/7AS9VaIdnYSR13T3vkVtu9"
+        "name": "Michigan",
+        "url": "https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk"
       },
       "artists": [
         {
           "name": "Sufjan Stevens",
           "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        },
-        {
-          "name": "Angelo De Augustine",
-          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
         }
       ],
-      "duration_ms": 210440,
-      "name": "Murder And Crime",
-      "url": "https://open.spotify.com/track/43flDuyszwqpgsukkqMVea"
+      "duration_ms": 122026,
+      "name": "Redford (for Yia-Yia and Pappou)",
+      "url": "https://open.spotify.com/track/2EL9uWRulB1rcgDmjYMzTO"
     },
     {
       "added_at": null,
@@ -555,38 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Michigan",
-        "url": "https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 206373,
-      "name": "Holland",
-      "url": "https://open.spotify.com/track/5LeGT0ziFpK3Skvr6jwIgF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Javelin",
-        "url": "https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 289897,
-      "name": "So You Are Tired",
-      "url": "https://open.spotify.com/track/0pkm7xATstQUqHoitmE3ru"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Beginner's Mind",
         "url": "https://open.spotify.com/album/7AS9VaIdnYSR13T3vkVtu9"
       },
@@ -607,6 +575,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Javelin",
+        "url": "https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 289897,
+      "name": "So You Are Tired",
+      "url": "https://open.spotify.com/track/0pkm7xATstQUqHoitmE3ru"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Michigan",
+        "url": "https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 206373,
+      "name": "Holland",
+      "url": "https://open.spotify.com/track/5LeGT0ziFpK3Skvr6jwIgF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Carrie & Lowell (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/0n7HLjx45Y2LD4WyHGDMf3"
       },
@@ -619,38 +619,6 @@
       "duration_ms": 400661,
       "name": "Wallowa Lake Monster - Version 2",
       "url": "https://open.spotify.com/track/7JxVuQdS0aFUIMrja2KzyS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I'm Not There (Music From The Motion Picture - Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5cFprh5OBIF7G9kXRSBsr3"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 380346,
-      "name": "Ring Them Bells",
-      "url": "https://open.spotify.com/track/4j331pZH3Zb28EemDHCzgF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Javelin",
-        "url": "https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 112583,
-      "name": "Javelin (To Have And To Hold)",
-      "url": "https://open.spotify.com/track/1GmMrLzrzfnxdvV4OiMU9s"
     },
     {
       "added_at": null,
@@ -675,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Javelin",
+        "url": "https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 112583,
+      "name": "Javelin (To Have And To Hold)",
+      "url": "https://open.spotify.com/track/1GmMrLzrzfnxdvV4OiMU9s"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love Yourself / With My Whole Heart",
         "url": "https://open.spotify.com/album/4CRYnS6TPOOTmn2otWthfs"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 103014,
       "name": "Love Yourself (Short Reprise)",
       "url": "https://open.spotify.com/track/6Su3tpwV9plA79jGtiL8rf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I'm Not There (Music From The Motion Picture - Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5cFprh5OBIF7G9kXRSBsr3"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 380346,
+      "name": "Ring Them Bells",
+      "url": "https://open.spotify.com/track/4j331pZH3Zb28EemDHCzgF"
     },
     {
       "added_at": null,

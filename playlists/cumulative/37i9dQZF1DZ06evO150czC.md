@@ -4,7 +4,7 @@
 
 > This is Midian Lima\. The essential tracks, all in one playlist.
 
-80 songs - 6 hr 47 min
+81 songs - 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [A Promessa Está de Pé \(Ao Vivo\)](https://open.spotify.com/track/3RFBznx059TnrkSvJgAzjq) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima \(Ao Vivo\)](https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi) | 5:07 | 2023-07-09 |  |
 | [A Promessa Está de Pé \(Ao Vivo\)](https://open.spotify.com/track/27YQDARCxhQ9jOsVH6ICfX) | [Samuel Messias](https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [A Promessa Está de Pé \(Ao Vivo\)](https://open.spotify.com/album/5krQc3WjA9sFkaWqrd5Qur) | 5:14 | 2023-07-09 |  |
 | [Abra a Sua Boca e Profetiza \- Ao Vivo](https://open.spotify.com/track/6nP1B60FjOLkx02WyxpLRw) | [Marcus Salles](https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Abra a Sua Boca e Profetiza \(Ao Vivo\)](https://open.spotify.com/album/4KkiqiRH7fg9HMjmrBDWuy) | 6:47 | 2025-06-13 | 2025-10-30 |
-| [Aguenta Coração](https://open.spotify.com/track/3O3QlOVC1iRmpx7NYg42zY) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Aguenta Coração](https://open.spotify.com/album/6A3lDsk7ulbP2rdHlxulBG) | 4:33 | 2023-07-09 |  |
+| [Aguenta Coração](https://open.spotify.com/track/3O3QlOVC1iRmpx7NYg42zY) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Aguenta Coração](https://open.spotify.com/album/6A3lDsk7ulbP2rdHlxulBG) | 4:33 | 2023-07-09 | 2026-01-01 |
+| [Aguenta Coração \(Ao Vivo\)](https://open.spotify.com/track/70U2qEq1gNx7oZEAWURENb) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw), [Wilian Nascimento](https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR) | [Aguenta Coração \(Ao Vivo\)](https://open.spotify.com/album/1OLRJT0AH9y7xOT6E0bKs5) | 4:45 | 2026-01-01 |  |
 | [Aguente, Guerreiro](https://open.spotify.com/track/41b11ruecN0x1CSaziBxGB) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Aguente, Guerreiro](https://open.spotify.com/album/0Mw1rrmkJG26yxolCSW7l9) | 5:07 | 2023-07-09 |  |
 | [Atos 2 \(Ao Vivo\)](https://open.spotify.com/track/46gZR9rY1vrujQsOm6Iflo) | [Arthur Callazans](https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Atos 2 \(Ao Vivo\)](https://open.spotify.com/album/2e1gED5YRJBQ3Pguz5jEAu) | 5:19 | 2023-11-10 | 2025-01-25 |
 | [Betel \- Ao Vivo](https://open.spotify.com/track/3e023EoYu68V1IHJdo18GO) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Betel \(Ao Vivo\)](https://open.spotify.com/album/36GKPZfDGWd6GWWWbWZjz0) | 5:03 | 2025-12-14 |  |

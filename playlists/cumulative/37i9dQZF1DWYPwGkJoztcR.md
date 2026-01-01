@@ -4,7 +4,7 @@
 
 > Koffie met gemoedelijke muziek op de achtergrond.
 
-144 songs - 8 hr 19 min
+145 songs - 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Be My Own](https://open.spotify.com/track/1K0DoOa7iEgUcXdBPXC5lw) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [Be My Own](https://open.spotify.com/album/6SKu22UR1q7puVJoUYwl70) | 3:39 | 2025-08-06 |  |
 | [Beginners](https://open.spotify.com/track/5AsLsFWZPWDC5KSv49nEhd) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Beginners](https://open.spotify.com/album/5gG3tn5rwn5MRVVIRq8wNN) | 3:36 | 2025-06-27 |  |
 | [Bend](https://open.spotify.com/track/5ndA2BSNuy54Ga49nEkECX) | [Noa Lee](https://open.spotify.com/artist/4YGchyGbwAekTbhOxczQqM) | [Bend](https://open.spotify.com/album/24Lcq3Gfs5zUkovQWsmTAT) | 3:56 | 2025-10-31 |  |
+| [Better Tomorrow](https://open.spotify.com/track/0DXMmLSftFOYvAB84xcWzA) | [Sennen Bay](https://open.spotify.com/artist/0UQWrW7HtqX5UN1StDmiKW) | [Better Tomorrow](https://open.spotify.com/album/68mtiOTPbUs6FhNhPyGefj) | 3:31 | 2025-12-05 |  |
 | [Bring Me My Horse](https://open.spotify.com/track/1GovyMSQrOWzL4CySOtr7f) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [It Is What It Is](https://open.spotify.com/album/5M84TQMlBTgqPZej6KCvVd) | 4:22 | 2025-06-27 | 2025-11-12 |
 | [Brotherhood](https://open.spotify.com/track/2ETvqF6fCwAcGjI7OEZlRh) | [Isaac Roux](https://open.spotify.com/artist/7tPhoEe9VD1m37VqUiC6hA) | [Brotherhood](https://open.spotify.com/album/7haF1TCzyvqeqsb89lMlAT) | 3:56 | 2025-09-03 |  |
 | [By the Way](https://open.spotify.com/track/2LZMbbBHOjbBy7z6Jexx8i) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [By the Way](https://open.spotify.com/album/2Ca40BzWrHKfwIXtNycg2u) | 2:40 | 2025-09-03 |  |
@@ -148,7 +149,7 @@
 | [Whatever Comes For Me](https://open.spotify.com/track/7vJvFY16EOhTGZ0BwHRtFE) | [DINAND](https://open.spotify.com/artist/5eGojGYQg5eSfygyglTpuv) | [Whatever Comes For Me](https://open.spotify.com/album/5KzE93UOmY9Wic1cTGHfxB) | 3:57 | 2025-06-27 | 2025-10-03 |
 | [When She’s Around](https://open.spotify.com/track/7pttXx6E8Vp9B6shTVzmA2) | [Milo Meskens](https://open.spotify.com/artist/2os0uvECng2MYlxDj5iEbc) | [When She’s Around](https://open.spotify.com/album/69fr8ZMZokAd4Y93g69Rhy) | 3:35 | 2025-06-27 |  |
 | [Who Am I](https://open.spotify.com/track/0YKcTnaJJ9U5QeX6TNqJ7z) | [Faela](https://open.spotify.com/artist/3ihQuU7gvb99xM54jIHoZm) | [Who Am I](https://open.spotify.com/album/2Kwf79Mrk1ms9T4lfIJiL6) | 2:25 | 2025-10-09 |  |
-| [Wild Horses](https://open.spotify.com/track/1mvr2E4KITDTmGQVyoAa9D) | [JODIAC](https://open.spotify.com/artist/5kQNAKOTMNGwPbqfzW3uJA), [A\. Johanson](https://open.spotify.com/artist/1p11NnGiTGtzm49zznyK69) | [Wild Horses](https://open.spotify.com/album/5zUy3rssg5iHivZWH60e7t) | 3:22 | 2025-06-27 |  |
+| [Wild Horses](https://open.spotify.com/track/1mvr2E4KITDTmGQVyoAa9D) | [JODIAC](https://open.spotify.com/artist/5kQNAKOTMNGwPbqfzW3uJA), [A\. Johanson](https://open.spotify.com/artist/1p11NnGiTGtzm49zznyK69) | [Wild Horses](https://open.spotify.com/album/5zUy3rssg5iHivZWH60e7t) | 3:22 | 2025-06-27 | 2026-01-01 |
 | [You](https://open.spotify.com/track/5eNfh2WZrReCBJIGssyW4G) | [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu) | [You](https://open.spotify.com/album/70RuuZgBUfzBzxREbvIigs) | 3:00 | 2025-06-27 | 2025-10-03 |
 | [You Give Me Something \(Refreshed\)](https://open.spotify.com/track/6err1pHvebxSOOUQHVjNzH) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [You Give Me Something \(Refreshed\)](https://open.spotify.com/album/4YSlEXTbbqZW2BJZa7slKV) | 4:03 | 2025-06-27 |  |
 | [Younger Days](https://open.spotify.com/track/17EVNTLaA1unyp48sahMDz) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Bungalow](https://open.spotify.com/album/4XhG9K7809PaC7aGN7nsE6) | 3:31 | 2025-10-31 |  |

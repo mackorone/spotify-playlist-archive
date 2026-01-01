@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 165945,
+  "num_followers": 165954,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -435,6 +435,22 @@
     {
       "added_at": "2025-11-28 00:00:06",
       "album": {
+        "name": "Section",
+        "url": "https://open.spotify.com/album/6jeJlGyVdlYlckrkCou7dT"
+      },
+      "artists": [
+        {
+          "name": "LYNY",
+          "url": "https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa"
+        }
+      ],
+      "duration_ms": 174857,
+      "name": "Section",
+      "url": "https://open.spotify.com/track/13IFfr6kVUSLb19xnQjMk6"
+    },
+    {
+      "added_at": "2025-11-28 00:00:06",
+      "album": {
         "name": "move ting",
         "url": "https://open.spotify.com/album/19QzUNqmaVUAokyW4TZ0dV"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 174186,
       "name": "move ting",
       "url": "https://open.spotify.com/track/035MWW56Wl7Wqzc0zk7HzR"
-    },
-    {
-      "added_at": "2025-11-28 00:00:06",
-      "album": {
-        "name": "Section",
-        "url": "https://open.spotify.com/album/6jeJlGyVdlYlckrkCou7dT"
-      },
-      "artists": [
-        {
-          "name": "LYNY",
-          "url": "https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa"
-        }
-      ],
-      "duration_ms": 174857,
-      "name": "Section",
-      "url": "https://open.spotify.com/track/13IFfr6kVUSLb19xnQjMk6"
     },
     {
       "added_at": "2025-11-28 00:00:06",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2025-11-28 00:00:06",
       "album": {
-        "name": "Spag Bol",
-        "url": "https://open.spotify.com/album/7GND0rJAJpornHCMt0icnq"
-      },
-      "artists": [
-        {
-          "name": "Voltage",
-          "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
-        }
-      ],
-      "duration_ms": 202281,
-      "name": "Love Me Right",
-      "url": "https://open.spotify.com/track/17ADeN6ZcHT7czvoEycTCp"
-    },
-    {
-      "added_at": "2025-11-28 00:00:06",
-      "album": {
         "name": "Scream My Name",
         "url": "https://open.spotify.com/album/5b5cuJWiwPQa34LPNfQ187"
       },
@@ -1131,22 +1115,18 @@
     {
       "added_at": "2025-11-28 00:00:06",
       "album": {
-        "name": "Badman Step",
-        "url": "https://open.spotify.com/album/13bBhTnCsyILAAepNbfHXp"
+        "name": "Spag Bol",
+        "url": "https://open.spotify.com/album/7GND0rJAJpornHCMt0icnq"
       },
       "artists": [
         {
-          "name": "Jamezy",
-          "url": "https://open.spotify.com/artist/6HlduQEYuiszCOxwfhUBem"
-        },
-        {
-          "name": "Sweetie Irie",
-          "url": "https://open.spotify.com/artist/0iUw5KL7NRlfKK3tZJNK9b"
+          "name": "Voltage",
+          "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
         }
       ],
-      "duration_ms": 200914,
-      "name": "Badman Step",
-      "url": "https://open.spotify.com/track/16KnLD7KaNZfL5sMs8kmWR"
+      "duration_ms": 202281,
+      "name": "Love Me Right",
+      "url": "https://open.spotify.com/track/17ADeN6ZcHT7czvoEycTCp"
     },
     {
       "added_at": "2025-11-28 00:00:06",
@@ -1171,6 +1151,26 @@
       "duration_ms": 182683,
       "name": "Do It Like Me",
       "url": "https://open.spotify.com/track/7JXxPzRxLhN9V1NJJw20TH"
+    },
+    {
+      "added_at": "2025-11-28 00:00:06",
+      "album": {
+        "name": "Badman Step",
+        "url": "https://open.spotify.com/album/13bBhTnCsyILAAepNbfHXp"
+      },
+      "artists": [
+        {
+          "name": "Jamezy",
+          "url": "https://open.spotify.com/artist/6HlduQEYuiszCOxwfhUBem"
+        },
+        {
+          "name": "Sweetie Irie",
+          "url": "https://open.spotify.com/artist/0iUw5KL7NRlfKK3tZJNK9b"
+        }
+      ],
+      "duration_ms": 200914,
+      "name": "Badman Step",
+      "url": "https://open.spotify.com/track/16KnLD7KaNZfL5sMs8kmWR"
     },
     {
       "added_at": "2025-11-28 00:00:06",

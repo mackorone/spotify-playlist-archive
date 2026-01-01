@@ -1,6 +1,6 @@
 {
   "description": "Le patrimoine de la chanson fran\u00e7aise. Photo : \u00c9dith Piaf",
-  "num_followers": 534407,
+  "num_followers": 534422,
   "original_name": "Standards de la Chanson Fran\u00e7aise",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "L'Aigle Noir",
-        "url": "https://open.spotify.com/album/6iAi6XBfAagZEb90W6MtPe"
-      },
-      "artists": [
-        {
-          "name": "Barbara",
-          "url": "https://open.spotify.com/artist/4TNiKyCX2oCvdo1sTgHcRw"
-        }
-      ],
-      "duration_ms": 297426,
-      "name": "L'aigle noir",
-      "url": "https://open.spotify.com/track/0e3J7BxEO608VEaQ5aZNoU"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
         "name": "Dave",
         "url": "https://open.spotify.com/album/7n5DNjnkerFIrz6PXleX7o"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 180200,
       "name": "Du c\u00f4te de chez Swann",
       "url": "https://open.spotify.com/track/5vuh4FAd5apHmhD85XJOyH"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
+        "name": "L'Aigle Noir",
+        "url": "https://open.spotify.com/album/6iAi6XBfAagZEb90W6MtPe"
+      },
+      "artists": [
+        {
+          "name": "Barbara",
+          "url": "https://open.spotify.com/artist/4TNiKyCX2oCvdo1sTgHcRw"
+        }
+      ],
+      "duration_ms": 297426,
+      "name": "L'aigle noir",
+      "url": "https://open.spotify.com/track/0e3J7BxEO608VEaQ5aZNoU"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "Forever Dalida",
-        "url": "https://open.spotify.com/album/5x57Ce1LSOrBpOeOSecDqa"
-      },
-      "artists": [
-        {
-          "name": "Dalida",
-          "url": "https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig"
-        }
-      ],
-      "duration_ms": 175026,
-      "name": "Il venait d'avoir 18 ans",
-      "url": "https://open.spotify.com/track/1S39BVV8IFikZtlmPjchBd"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
         "name": "Fr\u00e9hel [Collection disques Path\u00e9]",
         "url": "https://open.spotify.com/album/4ikZGhHqdMf24sWQA4v4UI"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 165893,
       "name": "La java bleue",
       "url": "https://open.spotify.com/track/1vveZRFXBiFrnO4wUpgArq"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
+        "name": "Forever Dalida",
+        "url": "https://open.spotify.com/album/5x57Ce1LSOrBpOeOSecDqa"
+      },
+      "artists": [
+        {
+          "name": "Dalida",
+          "url": "https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig"
+        }
+      ],
+      "duration_ms": 175026,
+      "name": "Il venait d'avoir 18 ans",
+      "url": "https://open.spotify.com/track/1S39BVV8IFikZtlmPjchBd"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "Edition 60e anniversaire",
-        "url": "https://open.spotify.com/album/50RvSoNqk5x7zFROrImpIL"
-      },
-      "artists": [
-        {
-          "name": "Gilbert B\u00e9caud",
-          "url": "https://open.spotify.com/artist/31GFatrHl2ijnS4ZAWA9s0"
-        }
-      ],
-      "duration_ms": 159746,
-      "name": "Et maintenant (Version 1966) - Remasteris\u00e9 en 2011",
-      "url": "https://open.spotify.com/track/5z3LJpwfI91bj3ogU8l0sk"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
         "name": "L'Essentiel Studio 1962 - 1985",
         "url": "https://open.spotify.com/album/4Dp614rQojtU5SlmllzRCW"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 193106,
       "name": "Tu verras",
       "url": "https://open.spotify.com/track/1YVd6hMLgMWk5wAfjFaH53"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
+        "name": "Edition 60e anniversaire",
+        "url": "https://open.spotify.com/album/50RvSoNqk5x7zFROrImpIL"
+      },
+      "artists": [
+        {
+          "name": "Gilbert B\u00e9caud",
+          "url": "https://open.spotify.com/artist/31GFatrHl2ijnS4ZAWA9s0"
+        }
+      ],
+      "duration_ms": 159746,
+      "name": "Et maintenant (Version 1966) - Remasteris\u00e9 en 2011",
+      "url": "https://open.spotify.com/track/5z3LJpwfI91bj3ogU8l0sk"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "Mon amant de St Jean",
-        "url": "https://open.spotify.com/album/0AHaLXmXUR6OYAjbWMndUB"
-      },
-      "artists": [
-        {
-          "name": "Lucienne Delyle",
-          "url": "https://open.spotify.com/artist/3EgEPntANThgR5WDgznAmM"
-        }
-      ],
-      "duration_ms": 189640,
-      "name": "Mon amant de Saint-Jean",
-      "url": "https://open.spotify.com/track/1WvtVTM9dEtinNSbRtRTED"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
         "name": "Yves Montand - Les feuilles mortes",
         "url": "https://open.spotify.com/album/0te0uNKFId8mR70yBOgEVE"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 203382,
       "name": "Les feuilles mortes",
       "url": "https://open.spotify.com/track/30bqPdEUBZhn44u10awaup"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
+        "name": "Mon amant de St Jean",
+        "url": "https://open.spotify.com/album/0AHaLXmXUR6OYAjbWMndUB"
+      },
+      "artists": [
+        {
+          "name": "Lucienne Delyle",
+          "url": "https://open.spotify.com/artist/3EgEPntANThgR5WDgznAmM"
+        }
+      ],
+      "duration_ms": 189640,
+      "name": "Mon amant de Saint-Jean",
+      "url": "https://open.spotify.com/track/1WvtVTM9dEtinNSbRtRTED"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "Musical Moments to Remember: Jos\u00e9phine Baker, Vol. 1 (2014 Remastered)",
-        "url": "https://open.spotify.com/album/4jLdud0Asv42qDcssw0ahd"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9phine Baker",
-          "url": "https://open.spotify.com/artist/2RXsHRCnva6BsZ12SSAzcz"
-        }
-      ],
-      "duration_ms": 190987,
-      "name": "J'ai deux amours",
-      "url": "https://open.spotify.com/track/2UsWuHGtSGi3c7VsdeyQCg"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
         "name": "Fais Comme L'Oiseau",
         "url": "https://open.spotify.com/album/6u9tEKSghovMOBy9rwTMLn"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 195306,
       "name": "Une belle histoire",
       "url": "https://open.spotify.com/track/1GdtMDRiaF1EnG2LJpELme"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
+        "name": "Musical Moments to Remember: Jos\u00e9phine Baker, Vol. 1 (2014 Remastered)",
+        "url": "https://open.spotify.com/album/4jLdud0Asv42qDcssw0ahd"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9phine Baker",
+          "url": "https://open.spotify.com/artist/2RXsHRCnva6BsZ12SSAzcz"
+        }
+      ],
+      "duration_ms": 190987,
+      "name": "J'ai deux amours",
+      "url": "https://open.spotify.com/track/2UsWuHGtSGi3c7VsdeyQCg"
     },
     {
       "added_at": "2024-07-25 13:22:22",

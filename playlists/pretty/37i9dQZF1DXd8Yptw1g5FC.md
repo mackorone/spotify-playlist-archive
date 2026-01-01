@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Bengü ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,365 likes - 95 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,353 likes - 95 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 35 | [Zaaf](https://open.spotify.com/track/73I3Srass0VTGMQAT4IbVN) | [Knock Out](https://open.spotify.com/artist/7m4MegoOzuTPWeNk8paI1z) | [Körebe](https://open.spotify.com/album/7c66J9jB1WscSwW74OxO0J) | 2:42 |
 | 36 | [Gel](https://open.spotify.com/track/0y9btaOQFAhGyR6uh5BnyH) | [Konu Sen Değilsin](https://open.spotify.com/artist/0sxkccugLSSE5Vm45KCtXG) | [Gel](https://open.spotify.com/album/3Hbh5mT4UTg5BaeauUxD11) | 2:51 |
 | 37 | [EN TU MIRADAaaaa](https://open.spotify.com/track/5Qnq1GhCBSsAkipZtjsVkF) | [Alleh](https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [LA FORMULA](https://open.spotify.com/album/1g9AHagDJvZfgKXE0IVzIA) | 2:38 |
-| 38 | [Beni Anlama \- Live](https://open.spotify.com/track/4aNX1Qj8qDrhZH5fx5Ppsw) | [Şevval Sam](https://open.spotify.com/artist/5zkh6MICzIQIUoA9NfZpBx), [pera filarmoni orkestrası](https://open.spotify.com/artist/4SMRaKkmLDhDTDmslqVtWP), [İbrahim Yazıcı](https://open.spotify.com/artist/0RUXWwLZib83r99XQi5QCC) | [Beni Anlama \(Live\)](https://open.spotify.com/album/3qoWWgQgDRktDVJkkbtrhe) | 6:04 |
+| 38 | [Beni Anlama \- Live](https://open.spotify.com/track/4aNX1Qj8qDrhZH5fx5Ppsw) | [Şevval Sam](https://open.spotify.com/artist/5zkh6MICzIQIUoA9NfZpBx), [Pera Filarmoni Orkestrası](https://open.spotify.com/artist/4SMRaKkmLDhDTDmslqVtWP), [İbrahim Yazıcı](https://open.spotify.com/artist/0RUXWwLZib83r99XQi5QCC) | [Beni Anlama \(Live\)](https://open.spotify.com/album/3qoWWgQgDRktDVJkkbtrhe) | 6:04 |
 | 39 | [Daha Ne İstiyorsun](https://open.spotify.com/track/518x49CqldP7M8pZZsBIxz) | [Uğur Işılak](https://open.spotify.com/artist/65Yc24XPBKMWz6oOWOX7Xx) | [Daha Ne İstiyorsun](https://open.spotify.com/album/0CO43zAU0RqNYrSG6DWdqR) | 2:22 |
 | 40 | [Yılbaşı](https://open.spotify.com/track/1pd5wwsCZp41pbmC5yuwah) | [KÖK$VL](https://open.spotify.com/artist/5fO16dsHVrojWL2mPzcdpq), [nurettin](https://open.spotify.com/artist/0teLGdFL6YjQ4QFkFjDH0Q) | [Yılbaşı](https://open.spotify.com/album/2Yxf7UTDNiRYmSqCISrTYt) | 2:14 |
 | 41 | [If](https://open.spotify.com/track/3PeDWBZShXV2YV4mRHBDWU) | [Romy Camerun](https://open.spotify.com/artist/6tMclBs61DWTEOcewdab8o), [Henning Schmiedt](https://open.spotify.com/artist/6uxRam7lWu9wC6VLWC7hav), [Zülfü Livaneli](https://open.spotify.com/artist/3ZV2kReDeCXgw0RJaPV5wX) | [If](https://open.spotify.com/album/3Y4oZfq9z8bz0VRwTccc34) | 4:14 |

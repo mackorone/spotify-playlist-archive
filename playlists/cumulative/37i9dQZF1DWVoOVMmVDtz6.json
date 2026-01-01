@@ -897,6 +897,24 @@
     },
     {
       "album": {
+        "name": "I'm Not Bothered By The Rain",
+        "url": "https://open.spotify.com/album/44X5MVji24cTnNUGK1aZnO"
+      },
+      "artists": [
+        {
+          "name": "Eric McEntee",
+          "url": "https://open.spotify.com/artist/1bUcNo5RZtVzBDATua2Xxz"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225867,
+      "name": "I'm Not Bothered By The Rain",
+      "url": "https://open.spotify.com/track/2nCuMRAYJ85Ee1GBeASEti"
+    },
+    {
+      "album": {
         "name": "Come Around and Love Me",
         "url": "https://open.spotify.com/album/0E2PgtXRUHCslZ7gRselUq"
       },

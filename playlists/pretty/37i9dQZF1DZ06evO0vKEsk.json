@@ -1,12 +1,12 @@
 {
   "description": "This is Bruna Karla. The essential tracks, all in one playlist.",
-  "num_followers": 132945,
+  "num_followers": 132941,
   "original_name": "This Is Bruna Karla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVHEgAAAAAD/fTC5RuHhQuuD7peVvZxx",
+  "snapshot_id": "aVMWAAAAAADUK0CzX4gM76Q6J22U5g/P",
   "tracks": [
     {
       "added_at": null,
@@ -191,22 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o Acabou (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1kjH03D7N4V9AOJDjiTIpW"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 315556,
-      "name": "N\u00e3o Acabou (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3nrfrwKRt2O3thUugCbdEP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Advogado Fiel",
         "url": "https://open.spotify.com/album/2U25l1MfwYJX3jNJBROiri"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 288809,
       "name": "Advogado Fiel",
       "url": "https://open.spotify.com/track/061NRgs8Iza1oxHTpHi3qq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "N\u00e3o Acabou (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1kjH03D7N4V9AOJDjiTIpW"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 315556,
+      "name": "N\u00e3o Acabou (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3nrfrwKRt2O3thUugCbdEP"
     },
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tudo \u00e9 Poss\u00edvel",
-        "url": "https://open.spotify.com/album/7i3ei0xF22OnsBYRM6VfDC"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 395435,
-      "name": "Tudo \u00e9 Poss\u00edvel",
-      "url": "https://open.spotify.com/track/0RWkB6OSSKRH9ChUof0ITQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Anderson Freire e Amigos",
         "url": "https://open.spotify.com/album/3MhRDO1ySLk4zInakHyvw9"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 266657,
       "name": "Identidade",
       "url": "https://open.spotify.com/track/0TCO41XDSOqMDC5Q1g7rDe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tudo \u00e9 Poss\u00edvel",
+        "url": "https://open.spotify.com/album/7i3ei0xF22OnsBYRM6VfDC"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 395435,
+      "name": "Tudo \u00e9 Poss\u00edvel",
+      "url": "https://open.spotify.com/track/0RWkB6OSSKRH9ChUof0ITQ"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como \u00c1guia.",
-        "url": "https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 274366,
-      "name": "Como \u00c1guia",
-      "url": "https://open.spotify.com/track/4fy2gofAuBIivOokMdj1WC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sou Humano",
         "url": "https://open.spotify.com/album/2UKwLM7kvCIJqcZyiCqpKQ"
       },
@@ -543,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Siga em Frente",
-        "url": "https://open.spotify.com/album/1IzXIdVD5bF5GYpkVwpfit"
+        "name": "Como \u00c1guia.",
+        "url": "https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH"
       },
       "artists": [
         {
@@ -552,9 +536,9 @@
           "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 253004,
-      "name": "Lugar Santo",
-      "url": "https://open.spotify.com/track/6YTm0iqTuVkiAA1kQ57e1w"
+      "duration_ms": 274366,
+      "name": "Como \u00c1guia",
+      "url": "https://open.spotify.com/track/4fy2gofAuBIivOokMdj1WC"
     },
     {
       "added_at": null,
@@ -571,6 +555,22 @@
       "duration_ms": 301720,
       "name": "Deus Vem me Socorrer",
       "url": "https://open.spotify.com/track/6o8o7Nt2q7793HJxA586BT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Siga em Frente",
+        "url": "https://open.spotify.com/album/1IzXIdVD5bF5GYpkVwpfit"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 253004,
+      "name": "Lugar Santo",
+      "url": "https://open.spotify.com/track/6YTm0iqTuVkiAA1kQ57e1w"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bruna Karla Falando de Amor",
-        "url": "https://open.spotify.com/album/1q2US0j78yaS4FJNIfrJ28"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 291363,
-      "name": "Jamais Deixarei Voc\u00ea",
-      "url": "https://open.spotify.com/track/6AfCnl74vwdljXyxwkni83"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Como \u00c1guia.",
         "url": "https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH"
       },
@@ -715,22 +699,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Com Muito Louvor",
-        "url": "https://open.spotify.com/album/5NItVsuGoKUjQOK8kfa72v"
+        "name": "Bruna Karla Falando de Amor",
+        "url": "https://open.spotify.com/album/1q2US0j78yaS4FJNIfrJ28"
       },
       "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        },
         {
           "name": "Bruna Karla",
           "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 321039,
-      "name": "Com Muito Louvor",
-      "url": "https://open.spotify.com/track/3fMWh5ZDVPFKoQnUxO29L8"
+      "duration_ms": 291363,
+      "name": "Jamais Deixarei Voc\u00ea",
+      "url": "https://open.spotify.com/track/6AfCnl74vwdljXyxwkni83"
     },
     {
       "added_at": null,
@@ -755,18 +735,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bruna Karla Falando de Amor",
-        "url": "https://open.spotify.com/album/1q2US0j78yaS4FJNIfrJ28"
+        "name": "Com Muito Louvor",
+        "url": "https://open.spotify.com/album/5NItVsuGoKUjQOK8kfa72v"
       },
       "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        },
         {
           "name": "Bruna Karla",
           "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 248407,
-      "name": "Apaixonado Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/5trNycknDFgdGosv98UeRc"
+      "duration_ms": 321039,
+      "name": "Com Muito Louvor",
+      "url": "https://open.spotify.com/track/3fMWh5ZDVPFKoQnUxO29L8"
     },
     {
       "added_at": null,
@@ -783,6 +767,22 @@
       "duration_ms": 414761,
       "name": "Um Novo Dia - Ao Vivo",
       "url": "https://open.spotify.com/track/11z2xM9l8GsBljbUtZ4hHN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bruna Karla Falando de Amor",
+        "url": "https://open.spotify.com/album/1q2US0j78yaS4FJNIfrJ28"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 248407,
+      "name": "Apaixonado Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/5trNycknDFgdGosv98UeRc"
     },
     {
       "added_at": null,

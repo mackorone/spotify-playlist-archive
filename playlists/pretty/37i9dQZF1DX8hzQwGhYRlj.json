@@ -1,6 +1,6 @@
 {
   "description": "A collection of Grieg's finest songs, symphonies and suites.",
-  "num_followers": 39176,
+  "num_followers": 39177,
   "original_name": "This Is Grieg",
   "owner": {
     "name": "Spotify",
@@ -527,30 +527,6 @@
     {
       "added_at": "2025-12-15 11:39:00",
       "album": {
-        "name": "Grieg/Sibelius: Nordic Suites",
-        "url": "https://open.spotify.com/album/2wR13ohGUywejREWOGlwnm"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "English Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
-        },
-        {
-          "name": "Raymond Leppard",
-          "url": "https://open.spotify.com/artist/6RX3X6dI939ANy78YXqWXT"
-        }
-      ],
-      "duration_ms": 318973,
-      "name": "Sigurd Jorsalfar, three Orchestral pieces Op. 56: 2. Intermezzo: Borghild's Dream (Op. 22 No. 2)",
-      "url": "https://open.spotify.com/track/20v4xBAlAHEzTRK00Lmk8w"
-    },
-    {
-      "added_at": "2025-12-15 11:39:00",
-      "album": {
         "name": "Grieg : Peer Gynt Suites 1, 2 & Symphonic Dances",
         "url": "https://open.spotify.com/album/0jDwimSa57C39bletgnvSa"
       },
@@ -571,6 +547,30 @@
       "duration_ms": 429933,
       "name": "Grieg: 4 Symphonic Dances, Op. 64: I. Allegro moderato e marcato",
       "url": "https://open.spotify.com/track/3DFnOHuNdGaLRFDtbAhfGZ"
+    },
+    {
+      "added_at": "2025-12-15 11:39:00",
+      "album": {
+        "name": "Grieg/Sibelius: Nordic Suites",
+        "url": "https://open.spotify.com/album/2wR13ohGUywejREWOGlwnm"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "English Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
+        },
+        {
+          "name": "Raymond Leppard",
+          "url": "https://open.spotify.com/artist/6RX3X6dI939ANy78YXqWXT"
+        }
+      ],
+      "duration_ms": 318973,
+      "name": "Sigurd Jorsalfar, three Orchestral pieces Op. 56: 2. Intermezzo: Borghild's Dream (Op. 22 No. 2)",
+      "url": "https://open.spotify.com/track/20v4xBAlAHEzTRK00Lmk8w"
     },
     {
       "added_at": "2025-12-15 11:39:00",
@@ -751,26 +751,6 @@
     {
       "added_at": "2025-12-15 11:39:00",
       "album": {
-        "name": "Grieg: Piano Concerto, 6 Lyric Pieces - Liszt: Piano Concerto No. 2",
-        "url": "https://open.spotify.com/album/1jcvJYlu0jBIIpk6oEFbJ8"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Leif Ove Andsnes",
-          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
-        }
-      ],
-      "duration_ms": 279346,
-      "name": "Grieg: Lyric Pieces, Book 8, Op. 65: No. 1, From Early Years",
-      "url": "https://open.spotify.com/track/30p9Ei9sW2VvtzUdHHskRY"
-    },
-    {
-      "added_at": "2025-12-15 11:39:00",
-      "album": {
         "name": "Grieg: Piano, Orchestral & Vocal Works, Chamber Music",
         "url": "https://open.spotify.com/album/37zUluscLmlk6u8RqrO6Cl"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 151320,
       "name": "Grieg: Moods, Op. 73: No. 4, Folk Song",
       "url": "https://open.spotify.com/track/1Gto2d2iJfpjeP8BAJSDKq"
+    },
+    {
+      "added_at": "2025-12-15 11:39:00",
+      "album": {
+        "name": "Grieg: Piano Concerto, 6 Lyric Pieces - Liszt: Piano Concerto No. 2",
+        "url": "https://open.spotify.com/album/1jcvJYlu0jBIIpk6oEFbJ8"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Leif Ove Andsnes",
+          "url": "https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL"
+        }
+      ],
+      "duration_ms": 279346,
+      "name": "Grieg: Lyric Pieces, Book 8, Op. 65: No. 1, From Early Years",
+      "url": "https://open.spotify.com/track/30p9Ei9sW2VvtzUdHHskRY"
     },
     {
       "added_at": "2025-12-15 11:39:00",

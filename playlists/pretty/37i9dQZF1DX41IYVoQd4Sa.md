@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : איזי וג׳׳ין בורדו
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,060 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,063 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 43 | [⁠פתאום הגיע סתיו](https://open.spotify.com/track/7dzh5REGPjKIBC6M6tYUKS) | [Ehud Banai](https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk), [רעש לבן](https://open.spotify.com/artist/7KkbwP4gT3PUtWDMEkQpX4) | [⁠פתאום הגיע סתיו](https://open.spotify.com/album/09B2ZfItYxFYLzJJLMcvJH) | 3:38 |
 | 44 | [שיר השומרת](https://open.spotify.com/track/6xCt9DmEFnNAGtZNmyIB4B) | [Aya Korem](https://open.spotify.com/artist/2elW0LtvW7wtgObGfNlH25) | [עלינו לא שרים שירים \(שיחה מדומיינת עם נתן אלתרמן\)](https://open.spotify.com/album/5oxQGcqQNBkkjIyyMBCgcV) | 5:28 |
 | 45 | [הבניין האחרון בתל אביב](https://open.spotify.com/track/0CFizxIBQmArw9wLFDxpeE) | [יוגב גלוסמן](https://open.spotify.com/artist/59PEfBoqGJwGqZ6G4zv0vO), [Maor Alush](https://open.spotify.com/artist/0nrgbCy8BaY0tQzE87Ikal) | [לי עוד יש ים בתוכי](https://open.spotify.com/album/1A7LZitYPUfoTPnvCeztKb) | 3:25 |
-| 46 | [אשכרה מה שקרה](https://open.spotify.com/track/1S8hoTrnprqQLWKKk7FXs1) | [Gon Ben Ari](https://open.spotify.com/artist/28ZTrx51TAHFvSdmK6NbQm), [מקהלת זולת](https://open.spotify.com/artist/5pvjWGOi3YYGnjwSXQD8jd), [פז דמארי](https://open.spotify.com/artist/2sbI28qb7PyxnqWi48pNx7) | [אשכרה מה שקרה](https://open.spotify.com/album/39R8S78JAEpO2GZ4Foduv9) | 5:08 |
-| 47 | [Better Days](https://open.spotify.com/track/7rVZ3metyjOfUAAecxlVVI) | [Ester Rada](https://open.spotify.com/artist/7JTo5JZjCoBQ7CLUqnkw3g) | [Better Days](https://open.spotify.com/album/2kP2nJGaB2PXiAd5g2Yf8N) | 3:59 |
+| 46 | [Better Days](https://open.spotify.com/track/7rVZ3metyjOfUAAecxlVVI) | [Ester Rada](https://open.spotify.com/artist/7JTo5JZjCoBQ7CLUqnkw3g) | [Better Days](https://open.spotify.com/album/2kP2nJGaB2PXiAd5g2Yf8N) | 3:59 |
+| 47 | [אשכרה מה שקרה](https://open.spotify.com/track/1S8hoTrnprqQLWKKk7FXs1) | [Gon Ben Ari](https://open.spotify.com/artist/28ZTrx51TAHFvSdmK6NbQm), [מקהלת זולת](https://open.spotify.com/artist/5pvjWGOi3YYGnjwSXQD8jd), [פז דמארי](https://open.spotify.com/artist/2sbI28qb7PyxnqWi48pNx7) | [אשכרה מה שקרה](https://open.spotify.com/album/39R8S78JAEpO2GZ4Foduv9) | 5:08 |
 | 48 | [מת מאהבה](https://open.spotify.com/track/1kRSvhKqClw18juX10vhYb) | [Noam Rotem](https://open.spotify.com/artist/769lTISrBj4SCvqW9mSK2y) | [מת מאהבה](https://open.spotify.com/album/6ZhHgJ9Nwfr3tUsBMF5TxJ) | 4:57 |
 | 49 | [עוד יום](https://open.spotify.com/track/3goEVjnKUrmHg4FkwYxQ0i) | [Daniel Rubin](https://open.spotify.com/artist/077agqIDRCxkgjNgA0v1pB), [Nir Shlomo](https://open.spotify.com/artist/5PvWeaRtWZxlLc4RpDI2Ef) | [עוד יום](https://open.spotify.com/album/3wpkmk4clzSuvw8BivUZEr) | 3:08 |
 | 50 | [זה לא חיים](https://open.spotify.com/track/5TYvxPIqdVbIUk066PaRNe) | [יושי](https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ) | [זה לא חיים](https://open.spotify.com/album/6IZ7G2mxcQbLyQ6BLF8kVB) | 2:56 |

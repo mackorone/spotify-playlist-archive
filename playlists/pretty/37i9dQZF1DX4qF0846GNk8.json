@@ -1,13 +1,49 @@
 {
-  "description": "\ud83d\udd25 \u0623\u062c\u0645\u062f \u0627\u0644\u0645\u0647\u0631\u062c\u0627\u0646\u0627\u062a \u0641\u064a \u0645\u0635\u0631. \u0627\u0644\u063a\u0644\u0627\u0641: \u0639\u0635\u0627\u0645 \u0635\u0627\u0635\u0627 \u0627\u0644\u0643\u0631\u0648\u0627\u0646 ",
-  "num_followers": 582136,
+  "description": " \u0623\u062c\u0645\u062f \u0627\u0644\u0645\u0647\u0631\u062c\u0627\u0646\u0627\u062a \u0641\u064a \u0645\u0635\u0631. \u0627\u0644\u063a\u0644\u0627\u0641: \u0643\u0631\u064a\u0645 \u0643\u0631\u064a\u0633\u062a\u064a\u0627\u0646\u0648",
+  "num_followers": 582412,
   "original_name": "\u0623\u0642\u0648\u0649 \u0627\u0644\u0645\u0647\u0631\u062c\u0627\u0646\u0627\u062a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI0uLtYzG1Uwu9Rp5SkybrJPWfgR",
+  "snapshot_id": "AAAAAJQLFjlHoVmKYyvke7M4tkTxCk4c",
   "tracks": [
+    {
+      "added_at": "2025-12-31 15:37:33",
+      "album": {
+        "name": "\u0627\u0646\u062a \u0641\u0627\u0631\u062f\u0644\u064a \u0636\u0644\u0648\u0639\u0643 (\u0634\u0628\u0634\u0628 \u0645\u0633\u062a\u0647\u0644\u0633\u0643)",
+        "url": "https://open.spotify.com/album/0tY2hAHFCjge9LVVa8I1KE"
+      },
+      "artists": [
+        {
+          "name": "\u0645\u0635\u0637\u0641\u064a \u0627\u0644\u062c\u0646 \u0648 \u0647\u0627\u062f\u064a \u0627\u0644\u0635\u063a\u064a\u0631 - \u062a\u064a\u0645 \u0627\u0644\u0627\u0628\u062f\u0627\u0639",
+          "url": "https://open.spotify.com/artist/5ocZbmWp3jlpBeLOEgsFcc"
+        },
+        {
+          "name": "Karim Cristiano",
+          "url": "https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB"
+        }
+      ],
+      "duration_ms": 237875,
+      "name": "\u0627\u0646\u062a \u0641\u0627\u0631\u062f\u0644\u064a \u0636\u0644\u0648\u0639\u0643 - \u0634\u0628\u0634\u0628 \u0645\u0633\u062a\u0647\u0644\u0633\u0643",
+      "url": "https://open.spotify.com/track/1HcSydOG8O4AmfLLXHx06c"
+    },
+    {
+      "added_at": "2025-12-31 15:37:33",
+      "album": {
+        "name": "\u0647\u0648 \u0627\u0644\u0635\u062d \u0641\u064a\u0646 \u061f",
+        "url": "https://open.spotify.com/album/51ANc1ppqc0Iw6Pc2ogxTU"
+      },
+      "artists": [
+        {
+          "name": "Magdy El Zahar",
+          "url": "https://open.spotify.com/artist/5CSaIf8OAstAYE5oqQeS15"
+        }
+      ],
+      "duration_ms": 324705,
+      "name": "\u0647\u0648 \u0627\u0644\u0635\u062d \u0641\u064a\u0646 \u061f",
+      "url": "https://open.spotify.com/track/61LRYfzJJSNSFfUcVV5gcB"
+    },
     {
       "added_at": "2025-12-10 16:37:51",
       "album": {
@@ -43,6 +79,22 @@
       "duration_ms": 296124,
       "name": "\u0648\u0634\u0648\u0634 \u0645\u0641\u0628\u0631\u0643\u0647",
       "url": "https://open.spotify.com/track/1s3XxWKQe5yeTiCmtmnVDX"
+    },
+    {
+      "added_at": "2025-12-31 15:37:33",
+      "album": {
+        "name": "\u0628\u062e \u0628\u062e \u0628\u062e \u0639\u0648",
+        "url": "https://open.spotify.com/album/2Fug5pcCyz7WYgL7ttmJCf"
+      },
+      "artists": [
+        {
+          "name": "\u062d\u0645\u0648 \u0627\u0644\u0645\u0631\u0634\u062f\u064a",
+          "url": "https://open.spotify.com/artist/42bLvjMTikom8zqIxOgUEY"
+        }
+      ],
+      "duration_ms": 197143,
+      "name": "\u0628\u062e \u0628\u062e \u0628\u062e \u0639\u0648",
+      "url": "https://open.spotify.com/track/3dI0cktG5q4hgDmdO1icnI"
     },
     {
       "added_at": "2025-12-10 16:37:51",
@@ -431,26 +483,6 @@
     {
       "added_at": "2025-12-10 16:37:51",
       "album": {
-        "name": "\u0627\u062d\u0646\u0627 \u0627\u0644\u0647\u064a\u0628\u0629",
-        "url": "https://open.spotify.com/album/3quezxEI0CUjCJ3KgDaK0S"
-      },
-      "artists": [
-        {
-          "name": "Ahmed Amer",
-          "url": "https://open.spotify.com/artist/30rRZEkK9ZECZDSV8bIkV0"
-        },
-        {
-          "name": "Mohamed Beka",
-          "url": "https://open.spotify.com/artist/3XdQFInKQcu4JNz1XCjwx5"
-        }
-      ],
-      "duration_ms": 229450,
-      "name": "\u0627\u062d\u0646\u0627 \u0627\u0644\u0647\u064a\u0628\u0629",
-      "url": "https://open.spotify.com/track/4wLQo5Wrr1OjsRVmKSpdkn"
-    },
-    {
-      "added_at": "2025-12-10 16:37:51",
-      "album": {
         "name": "\u0627\u0644\u062d\u0628 \u0627\u0644\u062d\u0628 \u0633\u0646\u064a\u0648\u0631\u064a\u062a\u0627",
         "url": "https://open.spotify.com/album/5Y3xlqjyJEApstMeAqWMkT"
       },
@@ -567,42 +599,6 @@
       "duration_ms": 180062,
       "name": "\u0643\u0627\u062a\u0645 \u0627\u0644\u0627\u0646\u0641\u0627\u0633 - \u0645\u062d\u0637\u0648\u0637 \u062a\u0634\u0643\u064a\u0644",
       "url": "https://open.spotify.com/track/6Dq2DQcuQayjhTiw4jhT89"
-    },
-    {
-      "added_at": "2025-12-10 16:37:51",
-      "album": {
-        "name": "\u0627\u0643\u0634\u0646 \u062c\u0627\u064a \u0627\u062a\u0639\u0627\u0631\u0643 - \u0639\u064a\u0646\u064a \u062c\u062a \u0639\u0644\u064a \u0633\u0646\u064a\u0648\u0631\u0629 - \u062c\u0644\u0628",
-        "url": "https://open.spotify.com/album/0thPfaJUCA1Pe3UPNo7wOl"
-      },
-      "artists": [
-        {
-          "name": "Fares Sokar - \u0641\u0627\u0631\u0633 \u0633\u0643\u0631",
-          "url": "https://open.spotify.com/artist/6mG5L5mJQIrHrZQZ0ZmpHh"
-        }
-      ],
-      "duration_ms": 342545,
-      "name": "\u0627\u0643\u0634\u0646 \u062c\u0627\u064a \u0627\u062a\u0639\u0627\u0631\u0643 - \u0639\u064a\u0646\u064a \u062c\u062a \u0639\u0644\u064a \u0633\u0646\u064a\u0648\u0631\u0629 - \u062c\u0644\u0628",
-      "url": "https://open.spotify.com/track/2uq6KhwXlCogpNTmN1cq7x"
-    },
-    {
-      "added_at": "2025-12-10 16:37:51",
-      "album": {
-        "name": "\u062f\u0643\u0646 \u062f\u0643\u0646 \u0647\u0646\u0627 \u0645\u0641\u064a\u0634 \u0645\u0643\u0627\u0646",
-        "url": "https://open.spotify.com/album/30FVCyiVawvTRIVRN4lUtF"
-      },
-      "artists": [
-        {
-          "name": "\u062d\u0645\u0648 \u0631\u0627\u0646\u062c\u0648",
-          "url": "https://open.spotify.com/artist/1PKk0Y4YdcaolgA1jX9jRQ"
-        },
-        {
-          "name": "\u0627\u0644\u0635\u0627\u0641\u064a \u0631\u0627\u064a\u0632\u0648",
-          "url": "https://open.spotify.com/artist/2kg6enclyL9breHTeJ9NuO"
-        }
-      ],
-      "duration_ms": 335389,
-      "name": "\u062f\u0643\u0646 \u062f\u0643\u0646 \u0647\u0646\u0627 \u0645\u0641\u064a\u0634 \u0645\u0643\u0627\u0646",
-      "url": "https://open.spotify.com/track/50x3nwdfvXWc8h0hUfKZU2"
     },
     {
       "added_at": "2025-12-10 16:37:51",

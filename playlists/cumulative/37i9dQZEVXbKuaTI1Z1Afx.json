@@ -4724,6 +4724,24 @@
     {
       "album": {
         "name": "All the Things She Said",
+        "url": "https://open.spotify.com/album/11Smm7L66QRaPy6SqHWCwh"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170891,
+      "name": "All the Things She Said",
+      "url": "https://open.spotify.com/track/03km0bduJqGh6WoEUFjF9Q"
+    },
+    {
+      "album": {
+        "name": "All the Things She Said",
         "url": "https://open.spotify.com/album/1ziZbo2KHanGDueyFqzsVZ"
       },
       "artists": [
@@ -4734,7 +4752,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-01",
       "duration_ms": 170891,
       "name": "All the Things She Said",
       "url": "https://open.spotify.com/track/2ihHDb5epUtpn97W0pOsOA"
@@ -13908,7 +13926,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-01",
       "duration_ms": 104427,
       "name": "Carnival",
       "url": "https://open.spotify.com/track/4TfmXkmAqtiq1ixe5PT5kX"
@@ -66572,6 +66590,24 @@
     {
       "album": {
         "name": "Restless",
+        "url": "https://open.spotify.com/album/3qVPWXNRQol9jACnhVrLVk"
+      },
+      "artists": [
+        {
+          "name": "untitled",
+          "url": "https://open.spotify.com/artist/1y7Pp7kmnCxZ61qjiLzzYx"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173683,
+      "name": "Restless",
+      "url": "https://open.spotify.com/track/51KaHmxJMv3AdbLohb6woO"
+    },
+    {
+      "album": {
+        "name": "Restless",
         "url": "https://open.spotify.com/album/3d1KSgP73M4lrILQmFACDp"
       },
       "artists": [
@@ -72950,10 +72986,28 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-01",
       "duration_ms": 154105,
       "name": "someone new",
       "url": "https://open.spotify.com/track/6suGx0q6SlzZSp8dc64yiS"
+    },
+    {
+      "album": {
+        "name": "someone new",
+        "url": "https://open.spotify.com/album/5nwu9V0CktrwCJeUCaIOSs"
+      },
+      "artists": [
+        {
+          "name": "Arden Jones",
+          "url": "https://open.spotify.com/artist/4KtkOIuYxE9cyzJMmaDM4y"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154105,
+      "name": "someone new",
+      "url": "https://open.spotify.com/track/6zMRujuaXHPtVTaMibKb4j"
     },
     {
       "album": {

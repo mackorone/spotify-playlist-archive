@@ -367,26 +367,6 @@
     {
       "added_at": "2025-10-10 17:36:00",
       "album": {
-        "name": "somos peligro",
-        "url": "https://open.spotify.com/album/4ZwhSH8wNYNpljOBOUM1yZ"
-      },
-      "artists": [
-        {
-          "name": "Estevie",
-          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
-        },
-        {
-          "name": "Hans el Oso",
-          "url": "https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea"
-        }
-      ],
-      "duration_ms": 179569,
-      "name": "somos peligro",
-      "url": "https://open.spotify.com/track/4Zv0fzBEaM2lzgpVeeT9LG"
-    },
-    {
-      "added_at": "2025-10-10 17:36:00",
-      "album": {
         "name": "DIAMANTE",
         "url": "https://open.spotify.com/album/6KoGMkF6Fp3W9C339E5eVx"
       },
@@ -403,6 +383,26 @@
       "duration_ms": 152343,
       "name": "Parcera",
       "url": "https://open.spotify.com/track/1qAr6nhNzHFiPjUWKYRv0z"
+    },
+    {
+      "added_at": "2025-10-10 17:36:00",
+      "album": {
+        "name": "somos peligro",
+        "url": "https://open.spotify.com/album/4ZwhSH8wNYNpljOBOUM1yZ"
+      },
+      "artists": [
+        {
+          "name": "Estevie",
+          "url": "https://open.spotify.com/artist/3k9GPiGAtIAOfnfzzy3XQp"
+        },
+        {
+          "name": "Hans el Oso",
+          "url": "https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea"
+        }
+      ],
+      "duration_ms": 179569,
+      "name": "somos peligro",
+      "url": "https://open.spotify.com/track/4Zv0fzBEaM2lzgpVeeT9LG"
     },
     {
       "added_at": "2025-10-10 17:36:00",

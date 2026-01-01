@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4a0a7QNf4ytPMOzQeWur9B.md) - [plain]
 
 > The music that fans of Glitchbreak are listening to now\. See also <a href="spotify:playlist:5aPKPDrqsxBQSST33NOsFw">The Sound of Glitchbreak</a> or <a href="spotify:playlist:6Jq6C2lFtIPE54N91HL9aM">The Edge of Glitchbreak</a>.
 
-[Particle Detector](https://open.spotify.com/user/particledetector) - 177 likes - 200 songs - 10 hr 6 min
+[Particle Detector](https://open.spotify.com/user/particledetector) - 176 likes - 200 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWXT1CF0lO2.md) - [plain]
 
 > Ajude seu bebê a dormir com músicas relaxantes da Disney.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,829 likes - 167 songs - 8 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,878 likes - 167 songs - 8 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -176,4 +176,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWXT1CF0lO2.md) - [plain]
 | 166 | [You Can Close Your Eyes \- Instrumental](https://open.spotify.com/track/5aKeoAh8dF3mZEt5Av3LvZ) | [Fred Mollin](https://open.spotify.com/artist/0qPfO5FCAsfqK3pgqBSAJR) | [Disney's Lullaby Album Vol\. 2](https://open.spotify.com/album/3EV5xeChXvPoPh1lriE8sd) | 3:28 |
 | 167 | [The Ballad of the Lonesome Cowboy](https://open.spotify.com/track/4lYOdX2jR9Ljl99rvJIqY6) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Pixar Instrumentals: Toy Story](https://open.spotify.com/album/7tkLFJnVwk3f0JVYbHYegQ) | 2:05 |
 
-Snapshot ID: `AAAAAJ7JSiCrodBEZH6++bjebM/J3xU7`
+Snapshot ID: `AAAAAOM1epGujuRy4y2+oqkIht1S/QYt`

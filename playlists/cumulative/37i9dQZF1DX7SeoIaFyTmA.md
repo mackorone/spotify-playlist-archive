@@ -2,7 +2,7 @@
 
 ### [Salsa Classics](https://open.spotify.com/playlist/37i9dQZF1DX7SeoIaFyTmA)
 
-> Timeless Salsa from your favorite legends\. Cover: Héctor Lavoe
+> Timeless Salsa from your favorite legends.
 
 171 songs - 14 hr 43 min
 

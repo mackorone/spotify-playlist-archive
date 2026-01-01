@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16doZpno3Aw.md) - [plain]
 
 > all the best instrumentals & sounds from the internet  ∼ 🫀
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,879 likes - 113 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,969 likes - 113 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16doZpno3Aw.md) - [plain]
 | 112 | [this feeling](https://open.spotify.com/track/1r232i80xFiNHzSUmrFc01) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X) | [this feeling](https://open.spotify.com/album/4pxgrlu74Sk31RrGRH8FjL) | 1:34 |
 | 113 | [Spike's Interlude](https://open.spotify.com/track/5bSsk1TbkePYVyILber8WF) | [MrBigB](https://open.spotify.com/artist/5LuM4fZ3C2Xk7V8UUguHjB) | [Spike's Interlude](https://open.spotify.com/album/2wNOTNvd5ZcvIeFGUXSFJS) | 2:17 |
 
-Snapshot ID: `AAAAAJxgLJUl6LrARKu4mRAVl66thFi3`
+Snapshot ID: `AAAAAEhVrPkZyqnuUOkEonzIaHth78o3`

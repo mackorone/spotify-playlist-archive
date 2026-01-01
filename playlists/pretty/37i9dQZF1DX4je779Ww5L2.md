@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4je779Ww5L2.md) - [plain]
 
 > de sfeer van 6 uur in de ochtend in de buitenlucht
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,541 likes - 81 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,530 likes - 81 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4je779Ww5L2.md) - [plain]
 | 23 | [Biotope](https://open.spotify.com/track/4xUDSGjehVdoEkaC62rsTL) | [Ciska Ciska](https://open.spotify.com/artist/6V1Hbm6ydOli9zOuVmZFmC) | [Biotope](https://open.spotify.com/album/4BmVz5436mMpbUegwu09xd) | 2:48 |
 | 24 | [Pelechian 2](https://open.spotify.com/track/7E73l0yJ9RfdOpA6f2WBMM) | [Thomas Azier](https://open.spotify.com/artist/6AE7CSJUwDMnTXV4yKVLLv) | [Pelechian 2](https://open.spotify.com/album/1wqHTMQeJSGWDvGNwVF2Yd) | 5:07 |
 | 25 | [Stonewall Riots Forever](https://open.spotify.com/track/3Ozml8RxFfvpqPrGKzU87x) | [Dressed Like Boys](https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp) | [Stonewall Riots Forever](https://open.spotify.com/album/5a7UNqcVVkbZybijRntt5P) | 3:58 |
-| 26 | [Can](https://open.spotify.com/track/5WgC4W0XtrOaUK63WqsDAy) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [Can](https://open.spotify.com/album/0aWzHhNvUVfII5KkLsvLy9) | 3:21 |
-| 27 | [Nightwood \(Feat\. Tine Reymer\) Radio Edit](https://open.spotify.com/track/5dKV3esDsQ5fHWb4XLK5P7) | [Nausca](https://open.spotify.com/artist/2LsP0kImUaDBE7uQUmOCPg), [Ansatz Der Maschine](https://open.spotify.com/artist/2imYMaCI7CxN9tVnNyBuiB) | [Nightwood \(Feat\. Tine Reymer\) Radio edit \[Radio Edit\]](https://open.spotify.com/album/6PoU9sVRrfr7sbEIfJY06q) | 3:39 |
+| 26 | [Nightwood \(Feat\. Tine Reymer\) Radio Edit](https://open.spotify.com/track/5dKV3esDsQ5fHWb4XLK5P7) | [Nausca](https://open.spotify.com/artist/2LsP0kImUaDBE7uQUmOCPg), [Ansatz Der Maschine](https://open.spotify.com/artist/2imYMaCI7CxN9tVnNyBuiB) | [Nightwood \(Feat\. Tine Reymer\) Radio edit \[Radio Edit\]](https://open.spotify.com/album/6PoU9sVRrfr7sbEIfJY06q) | 3:39 |
+| 27 | [Can](https://open.spotify.com/track/5WgC4W0XtrOaUK63WqsDAy) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [Can](https://open.spotify.com/album/0aWzHhNvUVfII5KkLsvLy9) | 3:21 |
 | 28 | [Vacuum](https://open.spotify.com/track/6UPyOLU7YFLz9tH6w0EmdU) | [Bobbi Lu](https://open.spotify.com/artist/48xRKmxCYnrEtchjl3RSd4) | [Arrow, Four](https://open.spotify.com/album/613LuczeoGm3FSaJfKggZz) | 3:35 |
 | 29 | [Dissolve](https://open.spotify.com/track/0xM73Y61yIuNSy1SdsmwZg) | [Tamino](https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH) | [Dissolve](https://open.spotify.com/album/1mgbZRf594n36YBlmldrAw) | 6:43 |
 | 30 | [Martyr](https://open.spotify.com/track/4EybC36DQmK8gbrUsPit3T) | [Ozark Henry](https://open.spotify.com/artist/3a9AG5fMqAqrXkeiwYtarJ) | [Martyr](https://open.spotify.com/album/1MzFcyK6GVCXGXKhu8vBlI) | 3:23 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4je779Ww5L2.md) - [plain]
 | 52 | [At The Party](https://open.spotify.com/track/0eD9nDx3ZdZt5wzLOOUtxy) | [CHARLOT](https://open.spotify.com/artist/4jwyHfEELByxcUm6JEP5yC) | [At The Party](https://open.spotify.com/album/5vnuxacWPnc7oQ1UZtNfSm) | 3:35 |
 | 53 | [Lonely Heart \- Acoustic Version](https://open.spotify.com/track/7sfNzHnuDdH2xd6TAWoRCe) | [Noémie Wolfs](https://open.spotify.com/artist/5sJWIuRMqeiMooXNf6pavo) | [Lonely Heart \(Acoustic Version\)](https://open.spotify.com/album/44PryjNkl5NNhD0FLYVLnq) | 4:09 |
 | 54 | [You](https://open.spotify.com/track/4iyMFaZq5EYehqeZo0VPhJ) | [Benni](https://open.spotify.com/artist/331VAK6qkIiNdWoE2BGFWq) | [Bleeding Colours](https://open.spotify.com/album/7sfZa50WlIFYIYaCICcrF6) | 3:40 |
-| 55 | [Leaving](https://open.spotify.com/track/2BlK3gDtP5pgK11lVk3MsE) | [Annelie](https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC) | [Leaving \- Reminisce](https://open.spotify.com/album/2R1cDeLDQthyEMIlSZnPiZ) | 5:24 |
-| 56 | [Boat](https://open.spotify.com/track/2nWj5r88reOB7RXxZc3DvE) | [RAMAN.](https://open.spotify.com/artist/5AwiKiIdwyrjQtRt0C0I86) | [Boat](https://open.spotify.com/album/27Df3AJdoQ94z0CD6XmKqA) | 5:08 |
+| 55 | [Boat](https://open.spotify.com/track/2nWj5r88reOB7RXxZc3DvE) | [RAMAN.](https://open.spotify.com/artist/5AwiKiIdwyrjQtRt0C0I86) | [Boat](https://open.spotify.com/album/27Df3AJdoQ94z0CD6XmKqA) | 5:08 |
+| 56 | [Leaving](https://open.spotify.com/track/2BlK3gDtP5pgK11lVk3MsE) | [Annelie](https://open.spotify.com/artist/0Rm9NmU9uyvf7tfVt4YNKC) | [Leaving \- Reminisce](https://open.spotify.com/album/2R1cDeLDQthyEMIlSZnPiZ) | 5:24 |
 | 57 | [Dragon's Eyes](https://open.spotify.com/track/1ymd7EMb8l88I9JJGo3CfH) | [Bianca Steck](https://open.spotify.com/artist/1Ej7cHu5IXgMuHaz6mLesJ), [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Dragon's Eyes](https://open.spotify.com/album/3E0PArr2h7f5858XtadMCs) | 3:48 |
 | 58 | [Try Try Try \- Acoustic Version](https://open.spotify.com/track/3tW8fWg7hHY62dPs8qxyjc) | [Noémie Wolfs](https://open.spotify.com/artist/5sJWIuRMqeiMooXNf6pavo) | [Try Try Try \(Acoustic Version\)](https://open.spotify.com/album/0hcMwG9nEiYXMlm5o15Rff) | 2:59 |
 | 59 | [Sunflower Sunset](https://open.spotify.com/track/6PIsXGxWSZj7p2VqmrUbbq) | [Future Husband](https://open.spotify.com/artist/7IkZTuasXLNz2HCezR6KuI) | [Sunflower Sunset](https://open.spotify.com/album/2ViF7zmhrLihawIK3rJ9u2) | 5:08 |

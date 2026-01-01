@@ -1,6 +1,6 @@
 {
   "description": "Gospel songs to get you in the spirit. Whether you are happy or need company to feel better, this is the right one! Cover:  Victoria Orenze",
-  "num_followers": 104698,
+  "num_followers": 104866,
   "original_name": "Be Lifted ",
   "owner": {
     "name": "Spotify",
@@ -717,6 +717,22 @@
       "url": "https://open.spotify.com/track/4UDxCoU21fhAAmOnMeQ6Jp"
     },
     {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "I Believe It (The Life of Jesus)",
+        "url": "https://open.spotify.com/album/1kn3HEmaNTYMt4ZGUa23sj"
+      },
+      "artists": [
+        {
+          "name": "Jon Reddick",
+          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
+        }
+      ],
+      "duration_ms": 225941,
+      "name": "I Believe It (The Life of Jesus)",
+      "url": "https://open.spotify.com/track/2iym3PPUfaR5285b8iLfbq"
+    },
+    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "This God Is Too Good",
@@ -735,22 +751,6 @@
       "duration_ms": 271438,
       "name": "You Are God (feat. Chigozie Achugo)",
       "url": "https://open.spotify.com/track/78D1ZERxVW4XvelhO1jG4K"
-    },
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
-        "name": "I Believe It (The Life of Jesus)",
-        "url": "https://open.spotify.com/album/1kn3HEmaNTYMt4ZGUa23sj"
-      },
-      "artists": [
-        {
-          "name": "Jon Reddick",
-          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
-        }
-      ],
-      "duration_ms": 225941,
-      "name": "I Believe It (The Life of Jesus)",
-      "url": "https://open.spotify.com/track/2iym3PPUfaR5285b8iLfbq"
     },
     {
       "added_at": "2025-08-01 00:01:33",
@@ -1317,26 +1317,6 @@
       "url": "https://open.spotify.com/track/05o0RoSQ1pQFvHe54uFUZf"
     },
     {
-      "added_at": "2025-12-12 00:01:22",
-      "album": {
-        "name": "Miracle No Dey Tire Jesus II",
-        "url": "https://open.spotify.com/album/22dCKvtEeDtDQFM00sRe7u"
-      },
-      "artists": [
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        },
-        {
-          "name": "Pelumi Deborah",
-          "url": "https://open.spotify.com/artist/4UEAcfckZercWHlnw0jdOx"
-        }
-      ],
-      "duration_ms": 466020,
-      "name": "Miracle No Dey Tire Jesus II",
-      "url": "https://open.spotify.com/track/6UuJxBhMTM3LaKYpKSMTYW"
-    },
-    {
       "added_at": "2025-11-14 00:01:35",
       "album": {
         "name": "No Lele",
@@ -1355,6 +1335,26 @@
       "duration_ms": 165302,
       "name": "No Lele",
       "url": "https://open.spotify.com/track/1NUQMXLEWvdI2hiviHvJfG"
+    },
+    {
+      "added_at": "2025-12-12 00:01:22",
+      "album": {
+        "name": "Miracle No Dey Tire Jesus II",
+        "url": "https://open.spotify.com/album/22dCKvtEeDtDQFM00sRe7u"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        },
+        {
+          "name": "Pelumi Deborah",
+          "url": "https://open.spotify.com/artist/4UEAcfckZercWHlnw0jdOx"
+        }
+      ],
+      "duration_ms": 466020,
+      "name": "Miracle No Dey Tire Jesus II",
+      "url": "https://open.spotify.com/track/6UuJxBhMTM3LaKYpKSMTYW"
     },
     {
       "added_at": "2023-12-15 00:01:00",

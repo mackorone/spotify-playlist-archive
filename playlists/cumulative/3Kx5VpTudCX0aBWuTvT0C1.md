@@ -4,7 +4,7 @@
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-111 songs - 6 hr 17 min
+112 songs - 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A.B\. Normal](https://open.spotify.com/track/1oBh6kwA621nFKmZNS3bl3) | [Little Less Pain](https://open.spotify.com/artist/1JLKWDQ8LN2uRAdFhUhWXJ) | [A.B\. Normal](https://open.spotify.com/album/1HWSSVtCRanpO7PyMZFOXP) | 3:30 | 2025-11-19 |  |
 | [Addressed To Me](https://open.spotify.com/track/65fzBanf8FMM5NIbmPfWLe) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [Addressed To Me](https://open.spotify.com/album/3i69gB3JO3RUfKcTiLxdV6) | 3:47 | 2025-11-17 |  |
 | [Ain't My First Rodeo](https://open.spotify.com/track/2DUNte3JP5CCArzjlF2nnb) | [Reggie Gray](https://open.spotify.com/artist/1n74ONSmpTNu4WYwMGxKHh) | [Ain't My First Rodeo](https://open.spotify.com/album/26tiR7ucWjO4JssSc2zs6C) | 4:09 | 2025-11-12 |  |
+| [All That We Need](https://open.spotify.com/track/6YdIHTbtkfjXuE1sDTQzAy) | [Southern States](https://open.spotify.com/artist/2hpxrkZg9qkbadFtXnD0g2) | [All That We Need](https://open.spotify.com/album/3aFfX6KlURt9DGYVDEk0Qq) | 2:52 | 2025-12-31 |  |
 | [Alone In LA](https://open.spotify.com/track/6hezehHsgXu0FvNzOMOLWK) | [Andrew Cärter](https://open.spotify.com/artist/5hng4ZEPzBFLEY0jfmFCdt) | [Alone In LA](https://open.spotify.com/album/1j8p383R5oRrfA6l48XZxH) | 3:05 | 2025-10-29 | 2025-12-09 |
 | [Anne Halt Durch!](https://open.spotify.com/track/7JFZ2FDCG2NOKPy8OmU9jt) | [DerBen](https://open.spotify.com/artist/2ROKHEeIFHnxoXlHcngvp3) | [Anne Halt Durch!](https://open.spotify.com/album/0ywlMcNDzmlScH3LAu6Eus) | 4:46 | 2025-10-29 | 2025-12-09 |
 | [Another Night](https://open.spotify.com/track/1CL9DB1WhmwOMACDJcOWDw) | [P\-Math](https://open.spotify.com/artist/1xsU39HOHqNFkYbvOHifQY) | [Another Night](https://open.spotify.com/album/5v14wEjTIH1DoRoGleXapd) | 2:52 | 2025-11-02 | 2025-12-09 |

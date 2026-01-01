@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaASLfu4mBQT.md) - [plain]
 
 > Mellow pop favorites from 2023\. Cover: Laufey \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,410 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,408 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

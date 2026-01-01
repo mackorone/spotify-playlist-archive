@@ -412,7 +412,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-01",
       "duration_ms": 124764,
       "name": "300",
       "url": "https://open.spotify.com/track/1okw6YoXeaI78BQDt7TckF"
@@ -3868,7 +3868,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 195789,
       "name": "Bez chuvstva",
       "url": "https://open.spotify.com/track/0S9PPTm8Dx3KsQ3wi2EseQ"
@@ -21398,7 +21398,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-01",
       "duration_ms": 198000,
       "name": "Mi Amor",
       "url": "https://open.spotify.com/track/5TjlAP414QjsGyni3HZa4H"
@@ -21954,7 +21954,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-01",
       "duration_ms": 203571,
       "name": "Moeto slabo myasto",
       "url": "https://open.spotify.com/track/6o1w1oqUMiJI1Kp0s0ksRK"
@@ -23352,7 +23352,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-01",
       "duration_ms": 213913,
       "name": "Ne me zasluzhavash",
       "url": "https://open.spotify.com/track/5whMzbUxj5DXoie9aiVb0O"
@@ -37844,7 +37844,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-01",
       "duration_ms": 196795,
       "name": "WHERE IS MY HUSBAND!",
       "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
@@ -40700,7 +40700,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-31",
+      "date_removed": null,
       "duration_ms": 198765,
       "name": "\u0414\u043e\u0431\u0440\u043e \u043c\u043e\u043c\u0447\u0435",
       "url": "https://open.spotify.com/track/1KpfzzQNYJ56vqhOXk0SEt"
@@ -41118,6 +41118,24 @@
       "duration_ms": 229333,
       "name": "\u0416\u0430\u043b\u043a\u043e",
       "url": "https://open.spotify.com/track/5GikULGCkwN6T8l5ldDAGL"
+    },
+    {
+      "album": {
+        "name": "\u0427\u0435\u0440\u043d\u0430 \u041e\u0440\u0445\u0438\u0434\u0435\u044f",
+        "url": "https://open.spotify.com/album/3ZjiRHjao6gKj5f6xM000A"
+      },
+      "artists": [
+        {
+          "name": "Lorena",
+          "url": "https://open.spotify.com/artist/1GNGuprNrIvSiOAcUIQy2h"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252891,
+      "name": "\u0416\u0435\u043d\u0430 \u0437\u0430 \u043b\u0443\u0434\u043d\u0438\u0446\u0430\u0442\u0430",
+      "url": "https://open.spotify.com/track/5x4TQYWxxgKEQLXEo5X21g"
     },
     {
       "album": {
@@ -42430,7 +42448,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-29",
+      "date_removed": null,
       "duration_ms": 217959,
       "name": "\u041c\u0430\u0437\u043e\u0445\u0438\u0441\u0442\u043a\u0430",
       "url": "https://open.spotify.com/track/6hRJgAPy4kDgOkiyD5s8je"
@@ -42724,7 +42742,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-31",
+      "date_removed": null,
       "duration_ms": 175813,
       "name": "\u041c\u0438\u0441\u043b\u0438 \u043c\u0443",
       "url": "https://open.spotify.com/track/2Exu33bEQ8U2ZSCwLXJ2I5"
@@ -42994,7 +43012,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-01",
       "duration_ms": 156333,
       "name": "\u041c\u0440\u044a\u0441\u043d\u0430 \u0436\u0435\u0433\u0430",
       "url": "https://open.spotify.com/track/2H8IhpLx4fuPMHToqHzGpi"
@@ -43940,7 +43958,7 @@
       ],
       "date_added": "2024-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-01",
       "duration_ms": 244090,
       "name": "\u041e\u043a\u0430\u0434\u0430\u0440",
       "url": "https://open.spotify.com/track/3dka3n7xJ9gPiqPhWPy4su"
@@ -44428,7 +44446,7 @@
       ],
       "date_added": "2024-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-29",
+      "date_removed": null,
       "duration_ms": 206333,
       "name": "\u041f\u043e\u043b\u0443\u0434\u0435\u0439",
       "url": "https://open.spotify.com/track/65b2wOG8iqfiZeWZ9bsLWw"
@@ -44792,7 +44810,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-20",
+      "date_removed": null,
       "duration_ms": 211578,
       "name": "\u0420\u0430\u0437\u043a\u0430\u0436\u0438 \u045d",
       "url": "https://open.spotify.com/track/21z8pee2qYV0SzbqQCb72g"

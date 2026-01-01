@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Softer pop vibes \ud83d\udcab",
+  "description": "soft and sweet",
   "name": "Chilled Pop Hits",
   "tracks": [
     {
@@ -1716,7 +1716,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-01",
       "duration_ms": 165094,
       "name": "Greenlight",
       "url": "https://open.spotify.com/track/56LQyaXsYWQZ2b7OPLAKEO"
@@ -2799,6 +2799,24 @@
     },
     {
       "album": {
+        "name": "Man\u2019s Best Friend",
+        "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197817,
+      "name": "My Man on Willpower",
+      "url": "https://open.spotify.com/track/3EMfeKtNK4q4k3sVjwg5Yy"
+    },
+    {
+      "album": {
         "name": "No Hard Feelings",
         "url": "https://open.spotify.com/album/5FLuHwbit7X3hXqXB1j6Mb"
       },
@@ -3672,7 +3690,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-01",
       "duration_ms": 211693,
       "name": "Simple",
       "url": "https://open.spotify.com/track/6sLxgkI2xALwGPUqQNzHLY"
@@ -3870,7 +3888,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-23",
+      "date_removed": null,
       "duration_ms": 136925,
       "name": "Starry Eyed",
       "url": "https://open.spotify.com/track/69iHQfZMuNshmrixkhWYBe"

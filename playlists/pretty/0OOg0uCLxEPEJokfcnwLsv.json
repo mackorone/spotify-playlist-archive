@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 584,
+  "num_followers": 591,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAEWJiy643n7v+LU8ny+5lqYLAvrz2K",
+  "snapshot_id": "AAAEXMj9l8tCGPjjaeKRxPBlGw07fzc3",
   "tracks": [
     {
       "added_at": "2025-11-20 17:10:09",
@@ -1515,6 +1515,70 @@
       "duration_ms": 234285,
       "name": "Torn Apart And Wasted",
       "url": "https://open.spotify.com/track/7jyr1VgS4FEvIedi8at6vQ"
+    },
+    {
+      "added_at": "2025-12-31 04:11:10",
+      "album": {
+        "name": "Leave",
+        "url": "https://open.spotify.com/album/3OgnRzvhhrrcaci5Qapuqr"
+      },
+      "artists": [
+        {
+          "name": "Edgeline",
+          "url": "https://open.spotify.com/artist/6rzkpsF9nG5ScJFYTGTUOB"
+        }
+      ],
+      "duration_ms": 245002,
+      "name": "The Day I'm Gone",
+      "url": "https://open.spotify.com/track/6fOJUO7CRNIgSACqSZRIAa"
+    },
+    {
+      "added_at": "2025-12-31 04:17:11",
+      "album": {
+        "name": "When It's Gone",
+        "url": "https://open.spotify.com/album/0qOCE5jm3kmYrtIKVUvhlG"
+      },
+      "artists": [
+        {
+          "name": "Wildstreet",
+          "url": "https://open.spotify.com/artist/5pttBZUGPhF7AcVgDke02r"
+        }
+      ],
+      "duration_ms": 233001,
+      "name": "When It's Gone",
+      "url": "https://open.spotify.com/track/6UK0nanyICljgemAndWzw8"
+    },
+    {
+      "added_at": "2025-12-31 22:13:12",
+      "album": {
+        "name": "Mastodonte",
+        "url": "https://open.spotify.com/album/1WqEAf6ehq91MtabcIqUvr"
+      },
+      "artists": [
+        {
+          "name": "Ruster",
+          "url": "https://open.spotify.com/artist/0MB2qTmFxuZkVdphbXgSeq"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Mastodonte",
+      "url": "https://open.spotify.com/track/2ONSCIg1KbDHUhwQb3SYaj"
+    },
+    {
+      "added_at": "2025-12-31 22:29:02",
+      "album": {
+        "name": "You Make Me Feel",
+        "url": "https://open.spotify.com/album/63wp42Wp0TYwyKtqACYONM"
+      },
+      "artists": [
+        {
+          "name": "Gary.D.Pearson and the Distance",
+          "url": "https://open.spotify.com/artist/6OSDFdZOodz0A77i9QbSXd"
+        }
+      ],
+      "duration_ms": 239400,
+      "name": "You Make Me Feel",
+      "url": "https://open.spotify.com/track/0bqIWe0gXVy222fYhUlsrd"
     }
   ],
   "unique_name": "Unsigned Rock",

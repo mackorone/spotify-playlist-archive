@@ -4,7 +4,7 @@
 
 > Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario\. Foto: Franco Masciarelli y Sofia Macchi.
 
-219 songs - 12 hr 48 min
+220 songs - 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Desaprender](https://open.spotify.com/track/5CGzoPhT2u7P1yHge1f4iJ) | [Adrián Berra](https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO) | [Mundo Debajo del Mundo](https://open.spotify.com/album/5p3JWd7zmX6D1UQdtPtveJ) | 2:56 | 2023-08-18 | 2024-04-19 |
 | [despegar mis pies \- En Vivo](https://open.spotify.com/track/0Cy9Zbzq7emQ6Xi02d9V1U) | [Olivia García](https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3) | [Un Nuevo Refugio \(Dulce Cuarto Sesiones\) \[En Vivo\]](https://open.spotify.com/album/4ieBAdvt0JDhrGCsCyMHCJ) | 3:48 | 2024-10-18 | 2024-12-22 |
 | [Dime Que No \- Versión Acústica](https://open.spotify.com/track/5mDOxSFtO6zkQFUJfOsRA0) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Hecho a la Antigua](https://open.spotify.com/album/5HnvoKpp1JTDYP3SNWvl2V) | 3:42 | 2024-04-19 | 2024-08-24 |
+| [Dime Quién Me Lo Robó](https://open.spotify.com/track/2Iu1PNxGImKU2zP9e4QYeV) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt) | [Rock Nacional](https://open.spotify.com/album/2TSunTI1bHCQgmPIfw1mTK) | 6:40 | 2025-11-25 |  |
 | [DOCTORA II](https://open.spotify.com/track/0ei64Ivi3kxqHaQuYByc79) | [Piti Fernández](https://open.spotify.com/artist/4PJtMqmJX54aKaztYQfFYb) | [Caminos Bríos](https://open.spotify.com/album/3TX9rPF9ruJb5Ntk7wAOrF) | 5:37 | 2023-08-18 | 2024-04-19 |
 | [Déjame Dejarte Atrás](https://open.spotify.com/track/6pB2v73sVw1NEm8g959jPT) | [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [Déjame Dejarte Atrás](https://open.spotify.com/album/6ovEup64IXcmtlZIHYzAVx) | 3:24 | 2023-08-18 |  |
 | [Dónde el sol](https://open.spotify.com/track/0dc1jZOdLeRU4wN7vdjyo6) | [Rocco Posca](https://open.spotify.com/artist/1d7BLhorBcreW8Zs9SxHcd), [Leo García](https://open.spotify.com/artist/54YdJC33Ztc1CNIuodmyUb) | [Dónde el sol](https://open.spotify.com/album/5PpFSLXliR1NlRkwj98BTI) | 2:45 | 2025-10-17 | 2025-11-25 |
@@ -185,7 +186,7 @@
 | [Soldado Raso \- Versión Acústica](https://open.spotify.com/track/2UVD0QU951KBWGaACek9e0) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Hecho a la Antigua](https://open.spotify.com/album/5HnvoKpp1JTDYP3SNWvl2V) | 3:37 | 2023-08-18 | 2024-08-24 |
 | [Solo hace falta vivir](https://open.spotify.com/track/2n1PNRppOz8t3Xgda3dqBc) | [Camilú](https://open.spotify.com/artist/305uX4OPy99KGVU2dhE2AF) | [Amor de mi herida](https://open.spotify.com/album/1pxingc83wxaMfVc7P1p6b) | 3:39 | 2025-04-11 |  |
 | [Soltar](https://open.spotify.com/track/7jVYyduhdu9cOGIISdxgVq) | [Dante Spinetta](https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC) | [Puñal](https://open.spotify.com/album/2g6dGngFLZpfAigXheqNiI) | 3:38 | 2023-08-18 |  |
-| [Sonhos](https://open.spotify.com/track/16zNapwhCye9uCg4sTEZ7I) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [Sonhos](https://open.spotify.com/album/1Zm0YPGtmxhTfDjU0It8pB) | 6:09 | 2025-02-21 |  |
+| [Sonhos](https://open.spotify.com/track/16zNapwhCye9uCg4sTEZ7I) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [Sonhos](https://open.spotify.com/album/1Zm0YPGtmxhTfDjU0It8pB) | 6:09 | 2025-02-21 | 2026-01-01 |
 | [Sueños \(with Julieta Venegas\) \- MTV Unplugged](https://open.spotify.com/track/1NuWMB7R2FHid46XQYkFUV) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [MTV Unplugged](https://open.spotify.com/album/3xB3SzIEkry77YmregfUHZ) | 4:35 | 2023-08-18 |  |
 | [Superpoder](https://open.spotify.com/track/5sMTYHv3AW1aPQGglAEYnL) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Superpoder](https://open.spotify.com/album/1Sr0dAAJgZweMOgrGG2Ui2) | 2:24 | 2024-03-15 |  |
 | [Susurrito](https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [Feroza](https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A) | 2:58 | 2023-08-18 |  |

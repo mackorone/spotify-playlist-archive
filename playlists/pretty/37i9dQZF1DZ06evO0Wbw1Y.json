@@ -1,12 +1,12 @@
 {
   "description": "This is Ventino. The essential tracks, all in one playlist.",
-  "num_followers": 29078,
+  "num_followers": 29075,
   "original_name": "This Is Ventino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVHEgAAAAACU32S8qVNnq/vMnpiJ2q79",
+  "snapshot_id": "aVMWAAAAAACkLHFw7mZ1hBDtY78pwRyQ",
   "tracks": [
     {
       "added_at": null,
@@ -391,22 +391,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don Juan",
-        "url": "https://open.spotify.com/album/49oqDnPP3Q0zLCqq3MK281"
+        "name": "Inevitables",
+        "url": "https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd"
       },
       "artists": [
         {
           "name": "Ventino",
           "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        },
-        {
-          "name": "Rombai",
-          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
         }
       ],
-      "duration_ms": 216709,
-      "name": "Don Juan",
-      "url": "https://open.spotify.com/track/3rlzrcfNvBwVKmRT2PM85c"
+      "duration_ms": 156027,
+      "name": "La Mitad",
+      "url": "https://open.spotify.com/track/41zgsKUwPbTWOSrgn1DSpc"
     },
     {
       "added_at": null,
@@ -431,18 +427,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inevitables",
-        "url": "https://open.spotify.com/album/1V5qSya58ba5f421vdBJHd"
+        "name": "Don Juan",
+        "url": "https://open.spotify.com/album/49oqDnPP3Q0zLCqq3MK281"
       },
       "artists": [
         {
           "name": "Ventino",
           "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        },
+        {
+          "name": "Rombai",
+          "url": "https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK"
         }
       ],
-      "duration_ms": 156027,
-      "name": "La Mitad",
-      "url": "https://open.spotify.com/track/41zgsKUwPbTWOSrgn1DSpc"
+      "duration_ms": 216709,
+      "name": "Don Juan",
+      "url": "https://open.spotify.com/track/3rlzrcfNvBwVKmRT2PM85c"
     },
     {
       "added_at": null,
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/6Rk6tAhO16QKZZtYFrHMbm"
         }
       ],
-      "duration_ms": 154475,
-      "name": "Besos En La Herida - Banda Sonora Original De La Serie De Televisi\u00f3n",
-      "url": "https://open.spotify.com/track/5QI8Y9bkk1xse08JUDueuQ"
+      "duration_ms": 150650,
+      "name": "Bueno Para Mi - Banda Sonora Original De La Serie De Televisi\u00f3n",
+      "url": "https://open.spotify.com/track/3GvCjdrQeL1bYb32FelX1F"
     },
     {
       "added_at": null,
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/6Rk6tAhO16QKZZtYFrHMbm"
         }
       ],
-      "duration_ms": 150650,
-      "name": "Bueno Para Mi - Banda Sonora Original De La Serie De Televisi\u00f3n",
-      "url": "https://open.spotify.com/track/3GvCjdrQeL1bYb32FelX1F"
+      "duration_ms": 154475,
+      "name": "Besos En La Herida - Banda Sonora Original De La Serie De Televisi\u00f3n",
+      "url": "https://open.spotify.com/track/5QI8Y9bkk1xse08JUDueuQ"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cosas Pendientes",
-        "url": "https://open.spotify.com/album/1rdheyQu3kEBiGOT6l4jFa"
+        "name": "Para No Esperarte M\u00e1s",
+        "url": "https://open.spotify.com/album/26Bj0Iqvf6Ns5GCC8mjia6"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
         }
       ],
-      "duration_ms": 181253,
-      "name": "Cosas Pendientes",
-      "url": "https://open.spotify.com/track/7ulwug8z6klrIGZ2hjl47c"
+      "duration_ms": 178295,
+      "name": "Para No Esperarte M\u00e1s",
+      "url": "https://open.spotify.com/track/3VMMm6ie9HmnZGq8Sq0H83"
     },
     {
       "added_at": null,
@@ -735,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para No Esperarte M\u00e1s",
-        "url": "https://open.spotify.com/album/26Bj0Iqvf6Ns5GCC8mjia6"
+        "name": "Cosas Pendientes",
+        "url": "https://open.spotify.com/album/1rdheyQu3kEBiGOT6l4jFa"
       },
       "artists": [
         {
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
         }
       ],
-      "duration_ms": 178295,
-      "name": "Para No Esperarte M\u00e1s",
-      "url": "https://open.spotify.com/track/3VMMm6ie9HmnZGq8Sq0H83"
+      "duration_ms": 181253,
+      "name": "Cosas Pendientes",
+      "url": "https://open.spotify.com/track/7ulwug8z6klrIGZ2hjl47c"
     },
     {
       "added_at": null,

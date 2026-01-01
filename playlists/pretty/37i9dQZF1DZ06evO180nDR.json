@@ -1,12 +1,12 @@
 {
   "description": "This is Los Dareyes De La Sierra. The essential tracks, all in one playlist.",
-  "num_followers": 67509,
+  "num_followers": 67585,
   "original_name": "This Is Los Dareyes De La Sierra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVHEgAAAAACrKvX+pPfG4jAkMwnuTykR",
+  "snapshot_id": "aVMWAAAAAACPvIlvsP7rJxaBUqDST0Y3",
   "tracks": [
     {
       "added_at": null,
@@ -259,26 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Amola",
-        "url": "https://open.spotify.com/album/2ndqLXq1j0vuy3DYZJMFeY"
-      },
-      "artists": [
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 174850,
-      "name": "Me Amola",
-      "url": "https://open.spotify.com/track/5uwXV9navpcEKDoiqAPASY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "G\u00c9NESIS",
         "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
       },
@@ -299,6 +279,26 @@
       "duration_ms": 162676,
       "name": "VVS",
       "url": "https://open.spotify.com/track/3B0swL7Qil9bB7eKzBREBK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Amola",
+        "url": "https://open.spotify.com/album/2ndqLXq1j0vuy3DYZJMFeY"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 174850,
+      "name": "Me Amola",
+      "url": "https://open.spotify.com/track/5uwXV9navpcEKDoiqAPASY"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Within Temptation. The essential tracks, all in one playlist.",
-  "num_followers": 168609,
+  "num_followers": 168621,
   "original_name": "This Is Within Temptation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVHEgAAAAADd/+YlvwQvo7bK1BNwDp1M",
+  "snapshot_id": "aVMWAAAAAABNmyqePi8EK2zd8PjLTJ7W",
   "tracks": [
     {
       "added_at": null,
@@ -291,18 +291,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wireless",
-        "url": "https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB"
+        "name": "Sing Like A Siren",
+        "url": "https://open.spotify.com/album/2Tvh9SL8T4Aezh9PyHWQrD"
       },
       "artists": [
         {
           "name": "Within Temptation",
           "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        },
+        {
+          "name": "Jerry Heil",
+          "url": "https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr"
         }
       ],
-      "duration_ms": 211045,
-      "name": "Entertain You",
-      "url": "https://open.spotify.com/track/66dd3P4QwSRQDVDRqMSFLk"
+      "duration_ms": 192561,
+      "name": "Sing Like A Siren",
+      "url": "https://open.spotify.com/track/1cJsdrliWdGWCYN43Y5eOV"
     },
     {
       "added_at": null,
@@ -339,22 +343,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sing Like A Siren",
-        "url": "https://open.spotify.com/album/2Tvh9SL8T4Aezh9PyHWQrD"
+        "name": "Wireless",
+        "url": "https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB"
       },
       "artists": [
         {
           "name": "Within Temptation",
           "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        },
-        {
-          "name": "Jerry Heil",
-          "url": "https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr"
         }
       ],
-      "duration_ms": 192561,
-      "name": "Sing Like A Siren",
-      "url": "https://open.spotify.com/track/1cJsdrliWdGWCYN43Y5eOV"
+      "duration_ms": 211045,
+      "name": "Entertain You",
+      "url": "https://open.spotify.com/track/66dd3P4QwSRQDVDRqMSFLk"
     },
     {
       "added_at": null,
@@ -371,6 +371,38 @@
       "duration_ms": 257160,
       "name": "Our Solemn Hour",
       "url": "https://open.spotify.com/track/6KaLRddxDnr9hufQCW3Kzx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bleed Out",
+        "url": "https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 259048,
+      "name": "We Go To War",
+      "url": "https://open.spotify.com/track/4Nid72rinAHNKndbm4DLKu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Resist (Extended Deluxe)",
+        "url": "https://open.spotify.com/album/1SL2IdaCrXDtv695Px6AXR"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 229026,
+      "name": "Mercy Mirror",
+      "url": "https://open.spotify.com/track/7uWTPqNMZxXi6AgVh00OPz"
     },
     {
       "added_at": null,
@@ -395,38 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Resist (Extended Deluxe)",
-        "url": "https://open.spotify.com/album/1SL2IdaCrXDtv695Px6AXR"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 229026,
-      "name": "Mercy Mirror",
-      "url": "https://open.spotify.com/track/7uWTPqNMZxXi6AgVh00OPz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bleed Out",
-        "url": "https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 259048,
-      "name": "We Go To War",
-      "url": "https://open.spotify.com/track/4Nid72rinAHNKndbm4DLKu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Unforgiving",
         "url": "https://open.spotify.com/album/1EvpTfBqlDzPwDYzWTgTw3"
       },
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wireless",
-        "url": "https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB"
+        "name": "The Silent Force",
+        "url": "https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
         }
       ],
-      "duration_ms": 281380,
-      "name": "Wireless",
-      "url": "https://open.spotify.com/track/671W1lZGS9LcyzkMCRK3ve"
+      "duration_ms": 286680,
+      "name": "Jillian (I'd Give My Heart)",
+      "url": "https://open.spotify.com/track/1wDDWn5UjpjbT9onEAbL4n"
     },
     {
       "added_at": null,
@@ -479,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Silent Force",
-        "url": "https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI"
+        "name": "Wireless",
+        "url": "https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
         }
       ],
-      "duration_ms": 286680,
-      "name": "Jillian (I'd Give My Heart)",
-      "url": "https://open.spotify.com/track/1wDDWn5UjpjbT9onEAbL4n"
+      "duration_ms": 281380,
+      "name": "Wireless",
+      "url": "https://open.spotify.com/track/671W1lZGS9LcyzkMCRK3ve"
     },
     {
       "added_at": null,
@@ -511,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wireless",
-        "url": "https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB"
+        "name": "Bleed Out",
+        "url": "https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY"
       },
       "artists": [
         {
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
         }
       ],
-      "duration_ms": 256466,
-      "name": "The Purge",
-      "url": "https://open.spotify.com/track/1xSQOcSAFcsEl7R9AiRHAL"
+      "duration_ms": 217386,
+      "name": "Ritual",
+      "url": "https://open.spotify.com/track/70MjKbBCKgSq3D0DqQ7jnr"
     },
     {
       "added_at": null,
@@ -543,8 +543,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bleed Out",
-        "url": "https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY"
+        "name": "Wireless",
+        "url": "https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB"
       },
       "artists": [
         {
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
         }
       ],
-      "duration_ms": 217386,
-      "name": "Ritual",
-      "url": "https://open.spotify.com/track/70MjKbBCKgSq3D0DqQ7jnr"
+      "duration_ms": 256466,
+      "name": "The Purge",
+      "url": "https://open.spotify.com/track/1xSQOcSAFcsEl7R9AiRHAL"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bleed Out",
-        "url": "https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 270066,
-      "name": "Bleed Out",
-      "url": "https://open.spotify.com/track/3ReLAPAiX6UyNijXoH5w7Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hydra (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3RIcwy3cr1cvUibW8W0yoI"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 293240,
       "name": "Dangerous (feat. Howard Jones)",
       "url": "https://open.spotify.com/track/3BYtn1zK991rGwWo5TW9e6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bleed Out",
+        "url": "https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 270066,
+      "name": "Bleed Out",
+      "url": "https://open.spotify.com/track/3ReLAPAiX6UyNijXoH5w7Q"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Bankzitters. The essential tracks, all in one playlist.",
-  "num_followers": 20974,
+  "num_followers": 20986,
   "original_name": "This Is Bankzitters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVHEgAAAAACO/eIMy7J0vQkioqS4qa21",
+  "snapshot_id": "aVMWAAAAAAA3e6H6YKhUnJ6FWEO9wQyx",
   "tracks": [
     {
       "added_at": null,
@@ -291,22 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Offline Beschikbaar",
-        "url": "https://open.spotify.com/album/2V1IRYsaI820G3tdzeZkX8"
-      },
-      "artists": [
-        {
-          "name": "Bankzitters",
-          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Offline Beschikbaar",
-      "url": "https://open.spotify.com/track/1Q0HpSHfcqcZzrLT5bGtoO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Baldadig",
         "url": "https://open.spotify.com/album/2VedHF82GU8j4TjX5u8GQW"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 143542,
       "name": "Baldadig",
       "url": "https://open.spotify.com/track/4DcILDUsjnTbh5J0QPw4AW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Offline Beschikbaar",
+        "url": "https://open.spotify.com/album/2V1IRYsaI820G3tdzeZkX8"
+      },
+      "artists": [
+        {
+          "name": "Bankzitters",
+          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Offline Beschikbaar",
+      "url": "https://open.spotify.com/track/1Q0HpSHfcqcZzrLT5bGtoO"
     },
     {
       "added_at": null,

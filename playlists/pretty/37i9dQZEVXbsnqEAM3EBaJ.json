@@ -95,6 +95,22 @@
     {
       "added_at": "2025-12-26 03:00:00",
       "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/4m0Ki8UBZSIhxz0VoRrq2U"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 222656,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/054npqr8dWDHfI9rLOGyN8"
+    },
+    {
+      "added_at": "2025-12-26 03:00:00",
+      "album": {
         "name": "Damascus (feat. Omar Souleyman and Yasiin Bey)",
         "url": "https://open.spotify.com/album/4mOVYvAg2d2vBaTMqBc1ot"
       },
@@ -115,22 +131,6 @@
       "duration_ms": 244149,
       "name": "Damascus (feat. Omar Souleyman and Yasiin Bey)",
       "url": "https://open.spotify.com/track/5dpo5JIcLRrMbaSgTwjCl7"
-    },
-    {
-      "added_at": "2025-12-26 03:00:00",
-      "album": {
-        "name": "Magic",
-        "url": "https://open.spotify.com/album/4m0Ki8UBZSIhxz0VoRrq2U"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 222656,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/054npqr8dWDHfI9rLOGyN8"
     },
     {
       "added_at": "2025-12-26 03:00:00",
@@ -263,26 +263,18 @@
     {
       "added_at": "2025-12-26 03:00:00",
       "album": {
-        "name": "Happy When We're Bleeding",
-        "url": "https://open.spotify.com/album/56lQiDoRLgP1iooVnHdK2E"
+        "name": "Avatar - The Final Incarnation -",
+        "url": "https://open.spotify.com/album/2m2b32krMNh0QJDoHpbdU6"
       },
       "artists": [
         {
-          "name": "Thrower",
-          "url": "https://open.spotify.com/artist/563msWfnOhof3DsIthMsp2"
-        },
-        {
-          "name": "Escape the Fate",
-          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
-        },
-        {
-          "name": "Judge & Jury",
-          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
+          "name": "Epica",
+          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
         }
       ],
-      "duration_ms": 214000,
-      "name": "Happy When We're Bleeding",
-      "url": "https://open.spotify.com/track/51os4ElOTnn3JFWaojBLSQ"
+      "duration_ms": 320724,
+      "name": "Avatar - The Final Incarnation -",
+      "url": "https://open.spotify.com/track/3pVsVG4BRX4orlvLpL42rj"
     },
     {
       "added_at": "2025-12-26 03:00:00",
@@ -303,18 +295,26 @@
     {
       "added_at": "2025-12-26 03:00:00",
       "album": {
-        "name": "Avatar - The Final Incarnation -",
-        "url": "https://open.spotify.com/album/2m2b32krMNh0QJDoHpbdU6"
+        "name": "Happy When We're Bleeding",
+        "url": "https://open.spotify.com/album/56lQiDoRLgP1iooVnHdK2E"
       },
       "artists": [
         {
-          "name": "Epica",
-          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
+          "name": "Thrower",
+          "url": "https://open.spotify.com/artist/563msWfnOhof3DsIthMsp2"
+        },
+        {
+          "name": "Escape the Fate",
+          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+        },
+        {
+          "name": "Judge & Jury",
+          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
         }
       ],
-      "duration_ms": 320724,
-      "name": "Avatar - The Final Incarnation -",
-      "url": "https://open.spotify.com/track/3pVsVG4BRX4orlvLpL42rj"
+      "duration_ms": 214000,
+      "name": "Happy When We're Bleeding",
+      "url": "https://open.spotify.com/track/51os4ElOTnn3JFWaojBLSQ"
     },
     {
       "added_at": "2025-12-26 03:00:00",
@@ -343,6 +343,22 @@
     {
       "added_at": "2025-12-26 03:00:00",
       "album": {
+        "name": "Good Enough",
+        "url": "https://open.spotify.com/album/0QF6UHva2a77FIQzQYfAdG"
+      },
+      "artists": [
+        {
+          "name": "Emarosa",
+          "url": "https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek"
+        }
+      ],
+      "duration_ms": 213431,
+      "name": "Good Enough",
+      "url": "https://open.spotify.com/track/6tDDZYCUpdvolompjrdNTq"
+    },
+    {
+      "added_at": "2025-12-26 03:00:00",
+      "album": {
         "name": "Pirates & Kings",
         "url": "https://open.spotify.com/album/5nJzVdT4eTiKALSUvj6SIL"
       },
@@ -363,18 +379,18 @@
     {
       "added_at": "2025-12-26 03:00:00",
       "album": {
-        "name": "Good Enough",
-        "url": "https://open.spotify.com/album/0QF6UHva2a77FIQzQYfAdG"
+        "name": "Old School Roots & Reggae (DJ Mix)",
+        "url": "https://open.spotify.com/album/04zXLwdCgED1P7aG6R5zps"
       },
       "artists": [
         {
-          "name": "Emarosa",
-          "url": "https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek"
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 213431,
-      "name": "Good Enough",
-      "url": "https://open.spotify.com/track/6tDDZYCUpdvolompjrdNTq"
+      "duration_ms": 128220,
+      "name": "Mr. Chatterbox - Mixed",
+      "url": "https://open.spotify.com/track/24bIyXo7xa3fUePvGkX48n"
     },
     {
       "added_at": "2025-12-26 03:00:00",
@@ -411,18 +427,22 @@
     {
       "added_at": "2025-12-26 03:00:00",
       "album": {
-        "name": "Old School Roots & Reggae (DJ Mix)",
-        "url": "https://open.spotify.com/album/04zXLwdCgED1P7aG6R5zps"
+        "name": "Pacifiques Biches",
+        "url": "https://open.spotify.com/album/3T8qoyOqISNu86H92G7Enu"
       },
       "artists": [
         {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+          "name": "Florian Pellissier Quintet",
+          "url": "https://open.spotify.com/artist/6fOPaURJ1ObsYrql4cZBcx"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
         }
       ],
-      "duration_ms": 128220,
-      "name": "Mr. Chatterbox - Mixed",
-      "url": "https://open.spotify.com/track/24bIyXo7xa3fUePvGkX48n"
+      "duration_ms": 130434,
+      "name": "Only Fan",
+      "url": "https://open.spotify.com/track/33y7jKAaOAk0rIzd9Ky3I3"
     },
     {
       "added_at": "2025-12-26 03:00:00",
@@ -460,45 +480,9 @@
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 330553,
-      "name": "Make It All Right",
-      "url": "https://open.spotify.com/track/64BN7rBY7xkNBsVP8WmS0g"
-    },
-    {
-      "added_at": "2025-12-26 03:00:00",
-      "album": {
-        "name": "Pacifiques Biches",
-        "url": "https://open.spotify.com/album/3T8qoyOqISNu86H92G7Enu"
-      },
-      "artists": [
-        {
-          "name": "Florian Pellissier Quintet",
-          "url": "https://open.spotify.com/artist/6fOPaURJ1ObsYrql4cZBcx"
-        },
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 130434,
-      "name": "Only Fan",
-      "url": "https://open.spotify.com/track/33y7jKAaOAk0rIzd9Ky3I3"
-    },
-    {
-      "added_at": "2025-12-26 03:00:00",
-      "album": {
-        "name": "Synth Utopia Vol.2 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/0CqNuv590o2y7IIRhutNCg"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "La fete sauvage (Part 1)",
-      "url": "https://open.spotify.com/track/06WFGcUiYQCctdEa19pNqY"
+      "duration_ms": 414876,
+      "name": "Self Esteem",
+      "url": "https://open.spotify.com/track/0XrwGzXon7z64d1YLIHM3u"
     },
     {
       "added_at": "2025-12-26 03:00:00",
@@ -515,6 +499,22 @@
       "duration_ms": 248016,
       "name": "Song Of Darkness",
       "url": "https://open.spotify.com/track/4S3eOwn7QFbBTeSTgQepBt"
+    },
+    {
+      "added_at": "2025-12-26 03:00:00",
+      "album": {
+        "name": "Synth Utopia Vol.2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0CqNuv590o2y7IIRhutNCg"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 148800,
+      "name": "La fete sauvage (Part 1)",
+      "url": "https://open.spotify.com/track/06WFGcUiYQCctdEa19pNqY"
     },
     {
       "added_at": "2025-12-26 03:00:00",

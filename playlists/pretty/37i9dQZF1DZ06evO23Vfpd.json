@@ -1,12 +1,12 @@
 {
   "description": "This is Shaboozey. The essential tracks, all in one playlist.",
-  "num_followers": 61124,
+  "num_followers": 61163,
   "original_name": "This Is Shaboozey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVHEgAAAAAACK4Hmw9ZTa6IJtrojf9b0",
+  "snapshot_id": "aVMWAAAAAAC4WnUTXkmFhNuVSRSst4Yr",
   "tracks": [
     {
       "added_at": null,
@@ -112,13 +112,13 @@
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         },
         {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 156721,
-      "name": "Blink Twice",
-      "url": "https://open.spotify.com/track/213uaappJODsexwkR9rxhS"
+      "duration_ms": 197403,
+      "name": "Amen",
+      "url": "https://open.spotify.com/track/3anaHXs7z8NwLUatPxqJlE"
     },
     {
       "added_at": null,
@@ -192,13 +192,13 @@
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         },
         {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
         }
       ],
-      "duration_ms": 197403,
-      "name": "Amen",
-      "url": "https://open.spotify.com/track/3anaHXs7z8NwLUatPxqJlE"
+      "duration_ms": 156721,
+      "name": "Blink Twice",
+      "url": "https://open.spotify.com/track/213uaappJODsexwkR9rxhS"
     },
     {
       "added_at": null,
@@ -327,22 +327,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "everything is a lot.",
-        "url": "https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN"
+        "name": "COWBOY CARTER",
+        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
       },
       "artists": [
         {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Linda Martell",
+          "url": "https://open.spotify.com/artist/78adFi9EyRkMh3CTIatrV9"
         },
         {
           "name": "Shaboozey",
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         }
       ],
-      "duration_ms": 200243,
-      "name": "Lonely (with Shaboozey)",
-      "url": "https://open.spotify.com/track/5SA97SnIegYVy0CfEGB0iR"
+      "duration_ms": 158477,
+      "name": "SPAGHETTII",
+      "url": "https://open.spotify.com/track/5UcUppRaEIBMIHXiUFl7LI"
     },
     {
       "added_at": null,
@@ -383,26 +387,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "COWBOY CARTER",
-        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
+        "name": "everything is a lot.",
+        "url": "https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN"
       },
       "artists": [
         {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        {
-          "name": "Linda Martell",
-          "url": "https://open.spotify.com/artist/78adFi9EyRkMh3CTIatrV9"
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
         },
         {
           "name": "Shaboozey",
           "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
         }
       ],
-      "duration_ms": 158477,
-      "name": "SPAGHETTII",
-      "url": "https://open.spotify.com/track/5UcUppRaEIBMIHXiUFl7LI"
+      "duration_ms": 200243,
+      "name": "Lonely (with Shaboozey)",
+      "url": "https://open.spotify.com/track/5SA97SnIegYVy0CfEGB0iR"
     },
     {
       "added_at": null,

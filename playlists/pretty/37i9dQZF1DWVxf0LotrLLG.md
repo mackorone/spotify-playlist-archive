@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del 2025\. Hit shuffle for a mixed listening experience\. Cover: Peso Pluma & Tito Double P
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,228 likes - 442 songs - 23 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,236 likes - 442 songs - 23 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

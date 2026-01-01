@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBkH6REkPEr.md) - [plain]
 
 > Floor fillers and big streamers of 2014.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,726 likes - 81 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,770 likes - 81 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBkH6REkPEr.md) - [plain]
 | 35 | [Delirious \(Boneless\) \(feat\. Kid Ink\)](https://open.spotify.com/track/2SSFvQBwsxeazzo7z5l9gD) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3) | [Neon Future I](https://open.spotify.com/album/3KYFjFzw34AhmlxQC8r5W6) | 3:43 |
 | 36 | [Sad Machine](https://open.spotify.com/track/1JY6B9ILvmRla2IKKRZvnH) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Worlds](https://open.spotify.com/album/7AJPV0L05IyIBid97AvwVD) | 5:50 |
 | 37 | [Netzwerk \(Falls Like Rain\)](https://open.spotify.com/track/7FGho3Adev1y2hTB949PGv) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo) | [Netzwerk](https://open.spotify.com/album/0CoiuzFtZVRk9imDnfate2) | 3:48 |
-| 38 | [Ready For Your Love](https://open.spotify.com/track/1y7agAufBsudgRXuq6Ekqb) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Sirens \(Deluxe\)](https://open.spotify.com/album/3u3wA2mFU0UgAtyMJW3xa5) | 3:18 |
-| 39 | [Nobody To Love \- Radio Edit](https://open.spotify.com/track/2jsmSLoX8y0h6k4YzDCFH1) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS) | [Nobody To Love](https://open.spotify.com/album/7Kg4q4c8IP7oc0rtelBXBK) | 3:09 |
+| 38 | [Nobody To Love \- Radio Edit](https://open.spotify.com/track/2jsmSLoX8y0h6k4YzDCFH1) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS) | [Nobody To Love](https://open.spotify.com/album/7Kg4q4c8IP7oc0rtelBXBK) | 3:09 |
+| 39 | [Ready For Your Love](https://open.spotify.com/track/1y7agAufBsudgRXuq6Ekqb) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Sirens \(Deluxe\)](https://open.spotify.com/album/3u3wA2mFU0UgAtyMJW3xa5) | 3:18 |
 | 40 | [She Moves](https://open.spotify.com/track/6ggAYREO7PlFwI2vbOG3dp) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [Graham Candy](https://open.spotify.com/artist/71KlQX0q5wz5f9iytwPfou) | [Synesthesia](https://open.spotify.com/album/4aJZ9Dc6SRtaGYOz4d5PGd) | 3:17 |
 | 41 | [Desire](https://open.spotify.com/track/20ouJW3BTG6aFAugslihCw) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Communion \(Deluxe\)](https://open.spotify.com/album/0bWYlK9rRmIB68icHx9PNR) | 3:26 |
 | 42 | [Find You](https://open.spotify.com/track/7mazffu6nlIv0rtRyPDMTD) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Matthew Koma](https://open.spotify.com/artist/1mU61l2mcjEFraXZLpvVMo), [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Clarity \(Deluxe\)](https://open.spotify.com/album/7iC7iQaeRrG33H6VInfl00) | 3:24 |

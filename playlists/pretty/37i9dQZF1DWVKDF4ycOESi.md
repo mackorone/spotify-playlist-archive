@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Questa settimana saltiamo, ci sentiamo il 2 gennaio per le migliori nuove uscite delle ultime due settimane 🎧
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,324 likes - 70 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,313 likes - 70 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gcho56Immm.md) - [plain]
 
 > explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: Andrew Aged
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,558 likes - 157 songs - 9 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,603 likes - 157 songs - 9 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

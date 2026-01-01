@@ -1,6 +1,6 @@
 {
   "description": "Hand-picked and nourishing.",
-  "num_followers": 162664,
+  "num_followers": 162663,
   "original_name": "Garden Indie",
   "owner": {
     "name": "Spotify",
@@ -167,6 +167,22 @@
     {
       "added_at": "2025-03-28 19:49:12",
       "album": {
+        "name": "So Long Forever",
+        "url": "https://open.spotify.com/album/6cmFNl8lllA6BGc7SKLy3y"
+      },
+      "artists": [
+        {
+          "name": "Palace",
+          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
+        }
+      ],
+      "duration_ms": 249840,
+      "name": "Live Well",
+      "url": "https://open.spotify.com/track/2H30WL3exSctlDC9GyRbD4"
+    },
+    {
+      "added_at": "2025-03-28 19:49:12",
+      "album": {
         "name": "lucre",
         "url": "https://open.spotify.com/album/76qQt7n5SKtIa38BmZxvl4"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 120500,
       "name": "5",
       "url": "https://open.spotify.com/track/7CK4bpTIiYWYp478jgSlgp"
-    },
-    {
-      "added_at": "2025-03-28 19:49:12",
-      "album": {
-        "name": "So Long Forever",
-        "url": "https://open.spotify.com/album/6cmFNl8lllA6BGc7SKLy3y"
-      },
-      "artists": [
-        {
-          "name": "Palace",
-          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
-        }
-      ],
-      "duration_ms": 249840,
-      "name": "Live Well",
-      "url": "https://open.spotify.com/track/2H30WL3exSctlDC9GyRbD4"
     },
     {
       "added_at": "2025-03-28 19:49:12",
@@ -915,6 +915,22 @@
     {
       "added_at": "2025-03-28 19:49:12",
       "album": {
+        "name": "Songs For The Canyon",
+        "url": "https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I"
+      },
+      "artists": [
+        {
+          "name": "John Vincent III",
+          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
+        }
+      ],
+      "duration_ms": 240080,
+      "name": "Bluebird Singing",
+      "url": "https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu"
+    },
+    {
+      "added_at": "2025-03-28 19:49:12",
+      "album": {
         "name": "Lagos Paris London",
         "url": "https://open.spotify.com/album/489nt0VZ9DLPB4r9movvdL"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 240711,
       "name": "Clementine",
       "url": "https://open.spotify.com/track/5wPI9EcZ30sT0b68kdAXBP"
-    },
-    {
-      "added_at": "2025-03-28 19:49:12",
-      "album": {
-        "name": "Songs For The Canyon",
-        "url": "https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I"
-      },
-      "artists": [
-        {
-          "name": "John Vincent III",
-          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
-        }
-      ],
-      "duration_ms": 240080,
-      "name": "Bluebird Singing",
-      "url": "https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu"
     },
     {
       "added_at": "2025-03-28 19:49:12",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2025-03-28 19:49:12",
       "album": {
-        "name": "Glory",
-        "url": "https://open.spotify.com/album/2Y5e4etT3wCXoyllnQ0aAD"
-      },
-      "artists": [
-        {
-          "name": "Perfume Genius",
-          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
-        }
-      ],
-      "duration_ms": 232866,
-      "name": "Clean Heart",
-      "url": "https://open.spotify.com/track/1lppreanVHIEN8yW2LtdPx"
-    },
-    {
-      "added_at": "2025-03-28 19:49:12",
-      "album": {
         "name": "See You Around",
         "url": "https://open.spotify.com/album/0FiO5yMTGOmBNJfbyIgIAf"
       },
@@ -1143,18 +1127,34 @@
     {
       "added_at": "2025-03-28 19:49:12",
       "album": {
-        "name": "Up Granville",
-        "url": "https://open.spotify.com/album/3A1KfQ0xiG0a6u3V7FTA9p"
+        "name": "Glory",
+        "url": "https://open.spotify.com/album/2Y5e4etT3wCXoyllnQ0aAD"
       },
       "artists": [
         {
-          "name": "Peach Pit",
-          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+          "name": "Perfume Genius",
+          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
         }
       ],
-      "duration_ms": 230747,
-      "name": "Up Granville",
-      "url": "https://open.spotify.com/track/38SpxensPT9J0iNbMmQIjd"
+      "duration_ms": 232866,
+      "name": "Clean Heart",
+      "url": "https://open.spotify.com/track/1lppreanVHIEN8yW2LtdPx"
+    },
+    {
+      "added_at": "2025-04-11 11:04:13",
+      "album": {
+        "name": "Earthstar Mountain",
+        "url": "https://open.spotify.com/album/29NwfbBz9hexhTMa6rfBTF"
+      },
+      "artists": [
+        {
+          "name": "Hannah Cohen",
+          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
+        }
+      ],
+      "duration_ms": 245776,
+      "name": "Dusty",
+      "url": "https://open.spotify.com/track/4uoaadsynwU6d7pXlNTGzS"
     },
     {
       "added_at": "2025-03-28 19:49:12",
@@ -1173,20 +1173,20 @@
       "url": "https://open.spotify.com/track/0WebpqjAhluHB2WREW9x4R"
     },
     {
-      "added_at": "2025-04-11 11:04:13",
+      "added_at": "2025-03-28 19:49:12",
       "album": {
-        "name": "Earthstar Mountain",
-        "url": "https://open.spotify.com/album/29NwfbBz9hexhTMa6rfBTF"
+        "name": "Up Granville",
+        "url": "https://open.spotify.com/album/3A1KfQ0xiG0a6u3V7FTA9p"
       },
       "artists": [
         {
-          "name": "Hannah Cohen",
-          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
+          "name": "Peach Pit",
+          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
         }
       ],
-      "duration_ms": 245776,
-      "name": "Dusty",
-      "url": "https://open.spotify.com/track/4uoaadsynwU6d7pXlNTGzS"
+      "duration_ms": 230747,
+      "name": "Up Granville",
+      "url": "https://open.spotify.com/track/38SpxensPT9J0iNbMmQIjd"
     },
     {
       "added_at": "2025-03-28 19:49:12",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2025-03-28 19:49:12",
       "album": {
-        "name": "Aperture",
-        "url": "https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A"
-      },
-      "artists": [
-        {
-          "name": "Hannah Jadagu",
-          "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
-        }
-      ],
-      "duration_ms": 196739,
-      "name": "Lose",
-      "url": "https://open.spotify.com/track/23Suz2um7Wp2WULUePemCv"
-    },
-    {
-      "added_at": "2025-03-28 19:49:12",
-      "album": {
         "name": "Boonie Town",
         "url": "https://open.spotify.com/album/5nBpjXFhGx4Kg6nQ0Kmjon"
       },
@@ -1303,18 +1287,34 @@
     {
       "added_at": "2025-03-28 19:49:12",
       "album": {
-        "name": "Look Out!",
-        "url": "https://open.spotify.com/album/0TnjBNwKKH0uihxRTgrktF"
+        "name": "Aperture",
+        "url": "https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A"
       },
       "artists": [
         {
-          "name": "Peach Pit",
-          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+          "name": "Hannah Jadagu",
+          "url": "https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj"
         }
       ],
-      "duration_ms": 176506,
-      "name": "Look Out!",
-      "url": "https://open.spotify.com/track/4N1zjRwfeYAfKVIjjYbDRX"
+      "duration_ms": 196739,
+      "name": "Lose",
+      "url": "https://open.spotify.com/track/23Suz2um7Wp2WULUePemCv"
+    },
+    {
+      "added_at": "2025-03-28 19:49:12",
+      "album": {
+        "name": "Hometown",
+        "url": "https://open.spotify.com/album/1jOmue2WJLpDfvcJnDSook"
+      },
+      "artists": [
+        {
+          "name": "Nature TV",
+          "url": "https://open.spotify.com/artist/43oBGBlKaDxrti8m7QiQrC"
+        }
+      ],
+      "duration_ms": 222776,
+      "name": "Hometown",
+      "url": "https://open.spotify.com/track/5cgB9o3llPiEDWVE9qhqWB"
     }
   ],
   "unique_name": "Garden Indie",

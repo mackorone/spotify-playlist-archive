@@ -1,6 +1,6 @@
 {
   "description": "The hits you know like you\u2019ve never heard before. Cover: Alessia Cara",
-  "num_followers": 734792,
+  "num_followers": 734791,
   "original_name": "Spotify Singles: Hits",
   "owner": {
     "name": "Spotify",
@@ -817,22 +817,6 @@
       "url": "https://open.spotify.com/track/4Nh0VN6kYKzcZHBwXWtZDD"
     },
     {
-      "added_at": "2025-01-27 19:19:14",
-      "album": {
-        "name": "Yellow - Spotify Singles",
-        "url": "https://open.spotify.com/album/6lzLiRiEqZHySJVfbv86i0"
-      },
-      "artists": [
-        {
-          "name": "jxdn",
-          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
-        }
-      ],
-      "duration_ms": 269967,
-      "name": "Yellow - Spotify Singles",
-      "url": "https://open.spotify.com/track/6VDuCryADxIMCNLCfyovtO"
-    },
-    {
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
@@ -851,6 +835,22 @@
       "duration_ms": 225005,
       "name": "Rockabye (feat. Anne-Marie) - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2pGC8RQhmhFbZ6Fl5olWHZ"
+    },
+    {
+      "added_at": "2025-01-27 19:19:14",
+      "album": {
+        "name": "Yellow - Spotify Singles",
+        "url": "https://open.spotify.com/album/6lzLiRiEqZHySJVfbv86i0"
+      },
+      "artists": [
+        {
+          "name": "jxdn",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
+        }
+      ],
+      "duration_ms": 269967,
+      "name": "Yellow - Spotify Singles",
+      "url": "https://open.spotify.com/track/6VDuCryADxIMCNLCfyovtO"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -1349,22 +1349,6 @@
       "url": "https://open.spotify.com/track/4AL1lFrYg2RgSIGVjKOo2E"
     },
     {
-      "added_at": "2023-11-07 18:53:41",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7Dl3AcJZRTySXqXXUUY9eQ"
-      },
-      "artists": [
-        {
-          "name": "Mad Tsai",
-          "url": "https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB"
-        }
-      ],
-      "duration_ms": 248045,
-      "name": "Billie Jean - Spotify Singles",
-      "url": "https://open.spotify.com/track/32vQdI6FztUhEAkHW4Alul"
-    },
-    {
       "added_at": "2023-06-22 04:00:00",
       "album": {
         "name": "True Colors (Spotify Singles)",
@@ -1379,6 +1363,22 @@
       "duration_ms": 200655,
       "name": "True Colors (Spotify Singles)",
       "url": "https://open.spotify.com/track/2GSzaHXWxiHCo0pk0uOOpE"
+    },
+    {
+      "added_at": "2023-11-07 18:53:41",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7Dl3AcJZRTySXqXXUUY9eQ"
+      },
+      "artists": [
+        {
+          "name": "Mad Tsai",
+          "url": "https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB"
+        }
+      ],
+      "duration_ms": 248045,
+      "name": "Billie Jean - Spotify Singles",
+      "url": "https://open.spotify.com/track/32vQdI6FztUhEAkHW4Alul"
     },
     {
       "added_at": "2023-01-11 19:54:48",
@@ -1580,22 +1580,6 @@
       "added_at": "2023-01-11 19:54:48",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2bOO36ZGSYDuXj27cdnxKE"
-      },
-      "artists": [
-        {
-          "name": "YONAKA",
-          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
-        }
-      ],
-      "duration_ms": 195578,
-      "name": "You Need To Calm Down - Recorded At Abbey Road Studios, London",
-      "url": "https://open.spotify.com/track/636fGHC8LlkdwUoNhYDPjR"
-    },
-    {
-      "added_at": "2023-01-11 19:54:48",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6bcZYFHfdRSeiHxYlKGUOa"
       },
       "artists": [
@@ -1607,6 +1591,22 @@
       "duration_ms": 240522,
       "name": "No One - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2slPSwOa6A605bhQkrcSdi"
+    },
+    {
+      "added_at": "2023-01-11 19:54:48",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2bOO36ZGSYDuXj27cdnxKE"
+      },
+      "artists": [
+        {
+          "name": "YONAKA",
+          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
+        }
+      ],
+      "duration_ms": 195578,
+      "name": "You Need To Calm Down - Recorded At Abbey Road Studios, London",
+      "url": "https://open.spotify.com/track/636fGHC8LlkdwUoNhYDPjR"
     },
     {
       "added_at": "2023-01-11 19:54:48",

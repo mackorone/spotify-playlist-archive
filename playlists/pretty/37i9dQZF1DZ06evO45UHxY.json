@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVHEgAAAAAAVQLSMzsZ7iCFe5je6fSAD",
+  "snapshot_id": "aVMWAAAAAADyrerL22RfiyuJDR1efFJ6",
   "tracks": [
     {
       "added_at": null,
@@ -307,22 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nuestra Historia",
-        "url": "https://open.spotify.com/album/7678QXF0V3qAnNMcmJ0XwA"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 134903,
-      "name": "Nuestra Historia",
-      "url": "https://open.spotify.com/track/511XZdwlR7AsyZUkB8WlHt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sorprendente",
         "url": "https://open.spotify.com/album/6BeCNDHtOYtfx414xhy3my"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 179374,
       "name": "Un Enga\u00f1o M\u00e1s",
       "url": "https://open.spotify.com/track/6GLVpQEhEFzyRQsPUqQtJI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nuestra Historia",
+        "url": "https://open.spotify.com/album/7678QXF0V3qAnNMcmJ0XwA"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 134903,
+      "name": "Nuestra Historia",
+      "url": "https://open.spotify.com/track/511XZdwlR7AsyZUkB8WlHt"
     },
     {
       "added_at": null,
@@ -423,8 +423,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grupero Hits",
-        "url": "https://open.spotify.com/album/5dVfZriigZIsjQrK9veAlV"
+        "name": "Esp\u00edritu de Paz",
+        "url": "https://open.spotify.com/album/5VNuRD5e8HB8OthFJLrfFb"
       },
       "artists": [
         {
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 167320,
-      "name": "Aerobics de se\u00f1oritas",
-      "url": "https://open.spotify.com/track/5peoeFKvBESDFc7Ej2G3Bp"
+      "duration_ms": 166560,
+      "name": "Esp\u00edritu de Paz",
+      "url": "https://open.spotify.com/track/0rkksBlsgbkBq32PS0uRMi"
     },
     {
       "added_at": null,
@@ -455,8 +455,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Esp\u00edritu de Paz",
-        "url": "https://open.spotify.com/album/5VNuRD5e8HB8OthFJLrfFb"
+        "name": "Grupero Hits",
+        "url": "https://open.spotify.com/album/5dVfZriigZIsjQrK9veAlV"
       },
       "artists": [
         {
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 166560,
-      "name": "Esp\u00edritu de Paz",
-      "url": "https://open.spotify.com/track/0rkksBlsgbkBq32PS0uRMi"
+      "duration_ms": 167320,
+      "name": "Aerobics de se\u00f1oritas",
+      "url": "https://open.spotify.com/track/5peoeFKvBESDFc7Ej2G3Bp"
     },
     {
       "added_at": null,
@@ -483,6 +483,22 @@
       "duration_ms": 167986,
       "name": "El cari\u00f1o que perd\u00ed",
       "url": "https://open.spotify.com/track/4ZtL51s0on7KjzKr9YcJp2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Top Banda",
+        "url": "https://open.spotify.com/album/7H1xTRVWgrtsoc50GkHCmd"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 157866,
+      "name": "La p\u00e1lida luz",
+      "url": "https://open.spotify.com/track/6nF4Tx3YnLa7isBilAnchR"
     },
     {
       "added_at": null,
@@ -519,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Top Banda",
-        "url": "https://open.spotify.com/album/7H1xTRVWgrtsoc50GkHCmd"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 157866,
-      "name": "La p\u00e1lida luz",
-      "url": "https://open.spotify.com/track/6nF4Tx3YnLa7isBilAnchR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos Mexicanos",
         "url": "https://open.spotify.com/album/6YQDaHi4rLGhKQxgjiGVJk"
       },
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baladas de Banda",
-        "url": "https://open.spotify.com/album/7yH1lqItrx5HzgJewnS7YO"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 185440,
-      "name": "Arrepentida",
-      "url": "https://open.spotify.com/track/70TwKdpqicn3iyocKhmFP0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "16 de Septiembre: Gruperas (USA) [Vol. 2]",
         "url": "https://open.spotify.com/album/63mvOAHFDhD2QZLVfNAMcn"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 168746,
       "name": "El se\u00f1or de las canas",
       "url": "https://open.spotify.com/track/2N0gHRZb3TgOqssub2q8wm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Baladas de Banda",
+        "url": "https://open.spotify.com/album/7yH1lqItrx5HzgJewnS7YO"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 185440,
+      "name": "Arrepentida",
+      "url": "https://open.spotify.com/track/70TwKdpqicn3iyocKhmFP0"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grandes Bandas",
-        "url": "https://open.spotify.com/album/6DejTyQTl57yvFotq3l4xg"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 171720,
-      "name": "Zapatos viejos",
-      "url": "https://open.spotify.com/track/4vXizQTMHAA7AnqBESDfUd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Charangas, Vol. 3",
         "url": "https://open.spotify.com/album/0UqWpT5GDnIM6KyyPdJTwF"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 245333,
       "name": "Llena de Amor",
       "url": "https://open.spotify.com/track/0thgST7TUDPVuW8wTE1LXH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Grandes Bandas",
+        "url": "https://open.spotify.com/album/6DejTyQTl57yvFotq3l4xg"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 171720,
+      "name": "Zapatos viejos",
+      "url": "https://open.spotify.com/track/4vXizQTMHAA7AnqBESDfUd"
     },
     {
       "added_at": null,

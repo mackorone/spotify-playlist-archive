@@ -113,8 +113,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 103 | [Playing with Fire \- Acoustic](https://open.spotify.com/track/3txzZSYvKcG3yHk9qL3dcx) | [Kovic](https://open.spotify.com/artist/3ETYLarLqOcdvtea9Cs2Sl) | [Playing with Fire \(Acoustic\)](https://open.spotify.com/album/2SmuVE6aplsJilE7rllilk) | 3:49 |
 | 104 | [Bloom](https://open.spotify.com/track/1zbOjoRf9zOMNEBq5UkfKm) | [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [Bloom](https://open.spotify.com/album/32pIpSJ9rkj8AZpaeOyCOB) | 3:20 |
 | 105 | [Off This Train](https://open.spotify.com/track/1imrBvb6Ac6P6b76dBhjNv) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Survival Mode](https://open.spotify.com/album/3AK2abRr0WfTzH7aZZSda4) | 1:59 |
-| 106 | [Only You](https://open.spotify.com/track/3YecLfVpyotU0ve4Ln9Uds) | [Jazz Morley](https://open.spotify.com/artist/3oRBiqxwxW8BYQdWYtktZo) | [Only You](https://open.spotify.com/album/5Uq7opunP83SDVxYMm5ivO) | 3:33 |
-| 107 | [Kings](https://open.spotify.com/track/4trzAGt1kMSOku8AVoYYuo) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Kings](https://open.spotify.com/album/6aUaGt9dhm4ZZ1DFAgssSF) | 3:05 |
+| 106 | [Kings](https://open.spotify.com/track/4trzAGt1kMSOku8AVoYYuo) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Kings](https://open.spotify.com/album/6aUaGt9dhm4ZZ1DFAgssSF) | 3:05 |
+| 107 | [Only You](https://open.spotify.com/track/3YecLfVpyotU0ve4Ln9Uds) | [Jazz Morley](https://open.spotify.com/artist/3oRBiqxwxW8BYQdWYtktZo) | [Only You](https://open.spotify.com/album/5Uq7opunP83SDVxYMm5ivO) | 3:33 |
 | 108 | [The Wild](https://open.spotify.com/track/4408yboq8EzHz7IiAlEBzv) | [Kerri Watt](https://open.spotify.com/artist/6bPvOLNccTtmf23w6bngcS) | [The Wild](https://open.spotify.com/album/3w8ggvtpBeBFVzNeMPo2Xy) | 3:32 |
 | 109 | [face it](https://open.spotify.com/track/2JFKhZApRjevePAHn8SKrR) | [Ruben Pol](https://open.spotify.com/artist/1eCiBMynCZBUlq0v5FeB2w) | [Infused Romance](https://open.spotify.com/album/2tLQcTuBFmEfuQZAsyB4Yj) | 3:00 |
 | 110 | [Cry Them For You](https://open.spotify.com/track/26Hh4z8smlH6Y7LtYN025c) | [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [Cry Them For You](https://open.spotify.com/album/0cdfFRnZYCSrJJPoJY9P8z) | 3:43 |
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 120 | [Pon Me](https://open.spotify.com/track/6gNgcVrZceb97UQFZbKPCk) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 4:15 |
 | 121 | [Find You](https://open.spotify.com/track/0wtNmuETEesYuB73ni1tZU) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 3:48 |
 
-Snapshot ID: `AcFpJAAAAADdlWr4gqPgkohBvmOii3rL`
+Snapshot ID: `AcFuiAAAAAAY9bwCXoxPgIBfmBagcLFU`

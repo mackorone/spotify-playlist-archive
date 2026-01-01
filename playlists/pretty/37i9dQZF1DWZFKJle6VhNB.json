@@ -1,6 +1,6 @@
 {
   "description": "Grandes hits pra enfrentar toda lou\u00e7a suja que insiste em brotar na pia!",
-  "num_followers": 444013,
+  "num_followers": 444042,
   "original_name": "Lou\u00e7a Infinita",
   "owner": {
     "name": "Spotify",
@@ -531,22 +531,6 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Bang",
-        "url": "https://open.spotify.com/album/2xtRHrXduvq6S7rrzmS0dK"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 190280,
-      "name": "Bang",
-      "url": "https://open.spotify.com/track/1Cml3fnCNLZUC1EEtkcgVb"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
         "name": "Contatinho (Ao Vivo)",
         "url": "https://open.spotify.com/album/4sH660Ggu0Xd9yShQntlmA"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 173229,
       "name": "Contatinho - Ao Vivo",
       "url": "https://open.spotify.com/track/4RC2nzqaQygxoVQOVv3XlT"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
+        "name": "Bang",
+        "url": "https://open.spotify.com/album/2xtRHrXduvq6S7rrzmS0dK"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 190280,
+      "name": "Bang",
+      "url": "https://open.spotify.com/track/1Cml3fnCNLZUC1EEtkcgVb"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -599,22 +599,6 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Toda Toda",
-        "url": "https://open.spotify.com/album/2VgCgg09h9v3GwoLQzpEt0"
-      },
-      "artists": [
-        {
-          "name": "Pikeno & Menor",
-          "url": "https://open.spotify.com/artist/3gJK5PRn2FUQIT7cbgVryV"
-        }
-      ],
-      "duration_ms": 180266,
-      "name": "Toda Toda",
-      "url": "https://open.spotify.com/track/2gywMK0AQvj8QZJFcEO4R3"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
         "name": "VAI MENINA",
         "url": "https://open.spotify.com/album/4FnSnYGeUizGbNnmzRQlWY"
       },
@@ -631,22 +615,34 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "50 Reais",
-        "url": "https://open.spotify.com/album/6h6dMRdrULxgTAcDUPoQa6"
+        "name": "Toda Toda",
+        "url": "https://open.spotify.com/album/2VgCgg09h9v3GwoLQzpEt0"
       },
       "artists": [
         {
-          "name": "Naiara Azevedo",
-          "url": "https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l"
-        },
-        {
-          "name": "Maiara & Maraisa",
-          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+          "name": "Pikeno & Menor",
+          "url": "https://open.spotify.com/artist/3gJK5PRn2FUQIT7cbgVryV"
         }
       ],
-      "duration_ms": 207104,
-      "name": "50 Reais",
-      "url": "https://open.spotify.com/track/2DAGCHu5aoo2FOjmtU9ojo"
+      "duration_ms": 180266,
+      "name": "Toda Toda",
+      "url": "https://open.spotify.com/track/2gywMK0AQvj8QZJFcEO4R3"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
+        "name": "N\u00e3o Quero Saber de Ti Ti Ti",
+        "url": "https://open.spotify.com/album/4nu2sb4YM2YA8AjsS5Duc2"
+      },
+      "artists": [
+        {
+          "name": "Molejo",
+          "url": "https://open.spotify.com/artist/7yl05GUXqcUA3mfpowr1fe"
+        }
+      ],
+      "duration_ms": 223160,
+      "name": "Cilada",
+      "url": "https://open.spotify.com/track/2CfYBDMvXBKxIqBOUjAvfU"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -667,18 +663,22 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "N\u00e3o Quero Saber de Ti Ti Ti",
-        "url": "https://open.spotify.com/album/4nu2sb4YM2YA8AjsS5Duc2"
+        "name": "50 Reais",
+        "url": "https://open.spotify.com/album/6h6dMRdrULxgTAcDUPoQa6"
       },
       "artists": [
         {
-          "name": "Molejo",
-          "url": "https://open.spotify.com/artist/7yl05GUXqcUA3mfpowr1fe"
+          "name": "Naiara Azevedo",
+          "url": "https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l"
+        },
+        {
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
         }
       ],
-      "duration_ms": 223160,
-      "name": "Cilada",
-      "url": "https://open.spotify.com/track/2CfYBDMvXBKxIqBOUjAvfU"
+      "duration_ms": 207104,
+      "name": "50 Reais",
+      "url": "https://open.spotify.com/track/2DAGCHu5aoo2FOjmtU9ojo"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -767,26 +767,18 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Desce Pro Play (PA PA PA)",
-        "url": "https://open.spotify.com/album/5dgSOOnRf2k9UJyijM9ZwV"
+        "name": "#Bailedasantinha (Ao Vivo em Fortaleza)",
+        "url": "https://open.spotify.com/album/6idqgJfwMMX19rzy6oI5bm"
       },
       "artists": [
         {
-          "name": "ZAAC",
-          "url": "https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+          "name": "L\u00e9o Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
         }
       ],
-      "duration_ms": 168507,
-      "name": "Desce Pro Play (PA PA PA)",
-      "url": "https://open.spotify.com/track/4zGtfOglDBfVUypabBwIjQ"
+      "duration_ms": 310533,
+      "name": "Santinha - Ao Vivo",
+      "url": "https://open.spotify.com/track/3e7cnQ5KYSSIwUo6tfQqwB"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -807,18 +799,26 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "#Bailedasantinha (Ao Vivo em Fortaleza)",
-        "url": "https://open.spotify.com/album/6idqgJfwMMX19rzy6oI5bm"
+        "name": "Desce Pro Play (PA PA PA)",
+        "url": "https://open.spotify.com/album/5dgSOOnRf2k9UJyijM9ZwV"
       },
       "artists": [
         {
-          "name": "L\u00e9o Santana",
-          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+          "name": "ZAAC",
+          "url": "https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
         }
       ],
-      "duration_ms": 310533,
-      "name": "Santinha - Ao Vivo",
-      "url": "https://open.spotify.com/track/3e7cnQ5KYSSIwUo6tfQqwB"
+      "duration_ms": 168507,
+      "name": "Desce Pro Play (PA PA PA)",
+      "url": "https://open.spotify.com/track/4zGtfOglDBfVUypabBwIjQ"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
+        "name": "Negro Lindo",
+        "url": "https://open.spotify.com/album/2zbBp61ZsKJR2CPY3DGuxT"
+      },
+      "artists": [
+        {
+          "name": "Parangol\u00e9",
+          "url": "https://open.spotify.com/artist/2v5eqze59fqRes2e5QVGhf"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Tchubirabirom",
+      "url": "https://open.spotify.com/track/1Ugs1DpzuJLNjLCuSJ4oJc"
+    },
+    {
+      "added_at": "2022-02-10 18:18:16",
+      "album": {
         "name": "TOMA",
         "url": "https://open.spotify.com/album/2VM6JEz2ES0Yn6nLMDd5c3"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 129654,
       "name": "TOMA",
       "url": "https://open.spotify.com/track/7pDcS0EVMJR0YwjXmHcCRg"
-    },
-    {
-      "added_at": "2022-02-10 18:18:16",
-      "album": {
-        "name": "Negro Lindo",
-        "url": "https://open.spotify.com/album/2zbBp61ZsKJR2CPY3DGuxT"
-      },
-      "artists": [
-        {
-          "name": "Parangol\u00e9",
-          "url": "https://open.spotify.com/artist/2v5eqze59fqRes2e5QVGhf"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Tchubirabirom",
-      "url": "https://open.spotify.com/track/1Ugs1DpzuJLNjLCuSJ4oJc"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -1419,18 +1419,22 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Arena Pop 2014",
-        "url": "https://open.spotify.com/album/02Tl6kO2w7U3DMwxGzr6TS"
+        "name": "Quem Me Dera",
+        "url": "https://open.spotify.com/album/4dnvHZqul9z0csYtnHcHw7"
       },
       "artists": [
         {
-          "name": "Psirico",
-          "url": "https://open.spotify.com/artist/20L3gYREq24KddkFreyiNv"
+          "name": "M\u00e1rcia Fellipe",
+          "url": "https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K"
+        },
+        {
+          "name": "Jerry Smith",
+          "url": "https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk"
         }
       ],
-      "duration_ms": 197080,
-      "name": "Lepo Lepo",
-      "url": "https://open.spotify.com/track/466nusIUJceQ5qiuugLuYf"
+      "duration_ms": 147990,
+      "name": "Quem Me Dera",
+      "url": "https://open.spotify.com/track/29dRTbLTxRaSl63DIzbjvl"
     },
     {
       "added_at": "2022-02-10 18:18:16",
@@ -1451,22 +1455,18 @@
     {
       "added_at": "2022-02-10 18:18:16",
       "album": {
-        "name": "Quem Me Dera",
-        "url": "https://open.spotify.com/album/4dnvHZqul9z0csYtnHcHw7"
+        "name": "Arena Pop 2014",
+        "url": "https://open.spotify.com/album/02Tl6kO2w7U3DMwxGzr6TS"
       },
       "artists": [
         {
-          "name": "M\u00e1rcia Fellipe",
-          "url": "https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K"
-        },
-        {
-          "name": "Jerry Smith",
-          "url": "https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk"
+          "name": "Psirico",
+          "url": "https://open.spotify.com/artist/20L3gYREq24KddkFreyiNv"
         }
       ],
-      "duration_ms": 147990,
-      "name": "Quem Me Dera",
-      "url": "https://open.spotify.com/track/29dRTbLTxRaSl63DIzbjvl"
+      "duration_ms": 197080,
+      "name": "Lepo Lepo",
+      "url": "https://open.spotify.com/track/466nusIUJceQ5qiuugLuYf"
     },
     {
       "added_at": "2022-02-10 18:18:16",

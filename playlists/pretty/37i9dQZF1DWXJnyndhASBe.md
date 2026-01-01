@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Żabson, Wiz Khalifa
 
-[Spotify](https://open.spotify.com/user/spotify) - 573,852 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 573,866 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [KŁO PO TY](https://open.spotify.com/track/02Cmsup3nHORbhzSmkAflt) | [Kamil](https://open.spotify.com/artist/6aHb6wqILOV17hDGM0uhZx), [ciaglamantra](https://open.spotify.com/artist/7Ea10r4qpFSOuomHIA9Dcf), [atraxy](https://open.spotify.com/artist/4e4LcM0uTiJoja6JrLxjE5) | [TOXYNY](https://open.spotify.com/album/5gRo8fvhvUWd2g5IpTrzY5) | 1:25 |
 | 50 | [ŻYRAFA](https://open.spotify.com/track/1VrsQYv5V3C6YQJtLilO1k) | [vkie](https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v), [Bruno](https://open.spotify.com/artist/6gqxmw3SfTsjaEMVHbwwUo), [A1 Rocky](https://open.spotify.com/artist/0kIJFyQ1ZjGvhx8kOrfk61) | [ŻYRAFA](https://open.spotify.com/album/2MfDJ8O2N7gvvS5i1Ing4b) | 2:45 |
 
-Snapshot ID: `AAAAAAe4gR3VRikuKFGJXH27G4A0GxUe`
+Snapshot ID: `AAAAAFMCa/tQM48e56E3npPBm/mtUX5k`

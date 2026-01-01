@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 1,202 likes - 59 songs - 3 hr 19 min
+[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 1,208 likes - 60 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,5 +67,6 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 | 57 | [Thrift Store Girl](https://open.spotify.com/track/2jq9HoHfKXEJJR3noL0DQM) | [Idan Altman](https://open.spotify.com/artist/7MomsgGtMu3PUg3dRGleQQ) | [It all works out in the ☰nd](https://open.spotify.com/album/6j6ll53WaTvtgH4CYz4MAw) | 3:45 |
 | 58 | [LOS BIOLOGOS](https://open.spotify.com/track/5nMIzJ0vCnt1efHf5k0IpU) | [Elisa Cano Elgarresta](https://open.spotify.com/artist/5GTjjKh3r1rV78HsZ2wFB6) | [LOS BIOLOGOS](https://open.spotify.com/album/4prHVEmsCxLHDTsV6zSsuM) | 4:11 |
 | 59 | [By Your Bed](https://open.spotify.com/track/4GquSoDNuCpvpGrjpBFCSs) | [Arn\-Identified Flying Objects and Alien Friends](https://open.spotify.com/artist/4qw8JsPgdrMpDFeTwaaCCD) | [No Sweets for E.](https://open.spotify.com/album/6nLsrLoaBkpTo4ClRFq6iO) | 4:00 |
+| 60 | [All That We Need](https://open.spotify.com/track/6YdIHTbtkfjXuE1sDTQzAy) | [Southern States](https://open.spotify.com/artist/2hpxrkZg9qkbadFtXnD0g2) | [All That We Need](https://open.spotify.com/album/3aFfX6KlURt9DGYVDEk0Qq) | 2:52 |
 
-Snapshot ID: `AAACa3n7m5pUCoVzjKGgkg8J3kcFefk/`
+Snapshot ID: `AAACbND0D8rFDI7geecEHoC3/6Bih8DC`

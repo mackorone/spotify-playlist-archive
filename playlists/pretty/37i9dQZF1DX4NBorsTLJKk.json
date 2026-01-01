@@ -1,6 +1,6 @@
 {
   "description": "\u5929\u7a7a\u7070\u7070\u7684\u3001\u5230\u8655\u6ebc\u6dcb\u6dcb\u7684\uff0c\u6211\u5011\u807d\u6b4c\u5c31\u597d\uff0c\u5148\u4e0d\u8981\u53bb\u611f\u89ba\u90a3\u4e9b\u4e8b\u3002",
-  "num_followers": 35618,
+  "num_followers": 35616,
   "original_name": "\u96e8\u4e2d\u65cb\u5f8b",
   "owner": {
     "name": "Spotify",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2025-10-09 16:05:38",
       "album": {
-        "name": "\u9760\u8fd1",
-        "url": "https://open.spotify.com/album/6FPVhgOuGhengkAf916BRs"
-      },
-      "artists": [
-        {
-          "name": "Harlem Yu",
-          "url": "https://open.spotify.com/artist/6VbRanWSU3pdDhJnhSfGmY"
-        }
-      ],
-      "duration_ms": 288240,
-      "name": "\u96e8\u4e0b\u5f97\u771f\u597d",
-      "url": "https://open.spotify.com/track/6CoS4JNpTyILwqD8zMu4jw"
-    },
-    {
-      "added_at": "2025-10-09 16:05:38",
-      "album": {
         "name": "\u76e7\u5ee3\u4ef2 Good Morning & Good Evening \u5c0f\u5de8\u86cb\u6f14\u5531\u6703",
         "url": "https://open.spotify.com/album/3pPDH6euEUK1fRC2WoFKAi"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 256281,
       "name": "\u98a8\u96e8",
       "url": "https://open.spotify.com/track/4DAMqtMMeEO7mwFDdbg3Ot"
+    },
+    {
+      "added_at": "2025-10-09 16:05:38",
+      "album": {
+        "name": "\u9760\u8fd1",
+        "url": "https://open.spotify.com/album/6FPVhgOuGhengkAf916BRs"
+      },
+      "artists": [
+        {
+          "name": "Harlem Yu",
+          "url": "https://open.spotify.com/artist/6VbRanWSU3pdDhJnhSfGmY"
+        }
+      ],
+      "duration_ms": 288240,
+      "name": "\u96e8\u4e0b\u5f97\u771f\u597d",
+      "url": "https://open.spotify.com/track/6CoS4JNpTyILwqD8zMu4jw"
     },
     {
       "added_at": "2025-10-09 16:05:38",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2025-10-09 16:05:38",
       "album": {
-        "name": "\u8eb2\u96e8 (\u96fb\u5f71\u300a\u6a02\u7344\u300b\u63d2\u66f2)",
-        "url": "https://open.spotify.com/album/7sIQVFVGrSIlFsdrTpVEWQ"
+        "name": "\u5c0f\u773e\u60c5\u4eba",
+        "url": "https://open.spotify.com/album/3JaRf6oM6IzAKdWhoPXls0"
       },
       "artists": [
         {
-          "name": "Selina",
-          "url": "https://open.spotify.com/artist/322fcjb9quEAxAXtmWyNeJ"
+          "name": "Phil Lam",
+          "url": "https://open.spotify.com/artist/2pYLo2RugZpdhYRub5nKcV"
         }
       ],
-      "duration_ms": 256298,
-      "name": "\u8eb2\u96e8 (\u96fb\u5f71\u300a\u6a02\u7344\u300b\u63d2\u66f2)",
-      "url": "https://open.spotify.com/track/014dGhEHjpF1osouV9tz0S"
+      "duration_ms": 221546,
+      "name": "\u96e8\u843d\u5927\u5730",
+      "url": "https://open.spotify.com/track/7cPm7ahWmHu3csfMWWxM6h"
     }
   ],
   "unique_name": "\u96e8\u4e2d\u65cb\u5f8b",

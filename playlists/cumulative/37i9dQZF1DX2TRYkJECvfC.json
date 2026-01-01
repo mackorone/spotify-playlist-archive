@@ -2067,6 +2067,28 @@
     },
     {
       "album": {
+        "name": "Citrus",
+        "url": "https://open.spotify.com/album/4fNtkB4ZUhl4cXdTxRlSew"
+      },
+      "artists": [
+        {
+          "name": "Juno Mamba",
+          "url": "https://open.spotify.com/artist/5RAHYRgJdI1D82IANP5yYL"
+        },
+        {
+          "name": "Rino",
+          "url": "https://open.spotify.com/artist/2ZEU5Xgl6aQ41zK7NTPo4s"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290962,
+      "name": "Citrus",
+      "url": "https://open.spotify.com/track/6M6rvs8rX3TmGWaGowu00X"
+    },
+    {
+      "album": {
         "name": "Clear as Water",
         "url": "https://open.spotify.com/album/5ouBZZ3FrXwd6NSbVZUb2Z"
       },
@@ -4080,7 +4102,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-01",
       "duration_ms": 162800,
       "name": "Glow",
       "url": "https://open.spotify.com/track/0tL68fTZxDafmumMTedtbA"

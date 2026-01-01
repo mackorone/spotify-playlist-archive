@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVHEgAAAAADP61DYDLN0pYm9jjzVWOF1",
+  "snapshot_id": "aVMWAAAAAACzdZLTwStrS32jZcTYeE+Z",
   "tracks": [
     {
       "added_at": null,
@@ -651,30 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dona de Mim (Novela)",
-        "url": "https://open.spotify.com/album/6p6ZGXLBOeXYjUZBp6se5p"
-      },
-      "artists": [
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Sandra De S\u00e1",
-          "url": "https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv"
-        }
-      ],
-      "duration_ms": 151737,
-      "name": "Dona de Mim - Novela",
-      "url": "https://open.spotify.com/track/1AkaAvhFy8BUk5PH93hTP6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desce & Sobe",
         "url": "https://open.spotify.com/album/4QSIqL32YPcxJPodgQdBSa"
       },
@@ -695,6 +671,30 @@
       "duration_ms": 164571,
       "name": "Desce & Sobe",
       "url": "https://open.spotify.com/track/5ZUUFh13X6t1mJZfycWf8l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dona de Mim (Novela)",
+        "url": "https://open.spotify.com/album/6p6ZGXLBOeXYjUZBp6se5p"
+      },
+      "artists": [
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Sandra De S\u00e1",
+          "url": "https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv"
+        }
+      ],
+      "duration_ms": 151737,
+      "name": "Dona de Mim - Novela",
+      "url": "https://open.spotify.com/track/1AkaAvhFy8BUk5PH93hTP6"
     },
     {
       "added_at": null,
@@ -887,6 +887,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "ZyZy",
+        "url": "https://open.spotify.com/album/63dILFwx1nksgdLf0wV2En"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "A.LBeats",
+          "url": "https://open.spotify.com/artist/75CnXNAQnP7OnmFXNLygOo"
+        }
+      ],
+      "duration_ms": 149833,
+      "name": "ZyZy",
+      "url": "https://open.spotify.com/track/1Q46nAXdJcAObxxiaD34jt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Agi Igual Homem",
         "url": "https://open.spotify.com/album/29MrpgI8GveiJUjAukWqkk"
       },
@@ -911,26 +931,6 @@
       "duration_ms": 164204,
       "name": "Agi Igual Homem",
       "url": "https://open.spotify.com/track/2IMxXEWjQFS4Ae8u5dE0lh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ZyZy",
-        "url": "https://open.spotify.com/album/63dILFwx1nksgdLf0wV2En"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "A.LBeats",
-          "url": "https://open.spotify.com/artist/75CnXNAQnP7OnmFXNLygOo"
-        }
-      ],
-      "duration_ms": 149833,
-      "name": "ZyZy",
-      "url": "https://open.spotify.com/track/1Q46nAXdJcAObxxiaD34jt"
     },
     {
       "added_at": null,
@@ -1023,50 +1023,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todos Contra 1",
-        "url": "https://open.spotify.com/album/58YnsBjxrlUOMwgFw44GHd"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Felixxx",
-          "url": "https://open.spotify.com/artist/1iOEXBqcRUWxN5tBxESHxZ"
-        }
-      ],
-      "duration_ms": 163298,
-      "name": "Todos Contra 1",
-      "url": "https://open.spotify.com/track/2bF02iYjemsTLSeOwb9wm7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Se Prepara",
-        "url": "https://open.spotify.com/album/54gWxTm90TbQ5oRa4aNp3E"
-      },
-      "artists": [
-        {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
-        },
-        {
-          "name": "Lucas e Orelha",
-          "url": "https://open.spotify.com/artist/1hX5P2lkCP3LrzVRlJmQX8"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        }
-      ],
-      "duration_ms": 182415,
-      "name": "Se Prepara",
-      "url": "https://open.spotify.com/track/5d1Eidz7m4vdgHsfZRKcec"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BOLA + 1 BECK (DELUXE)",
         "url": "https://open.spotify.com/album/1igloqPc3QZzGlugijWVga"
       },
@@ -1131,6 +1087,50 @@
       "duration_ms": 163720,
       "name": "Milhas",
       "url": "https://open.spotify.com/track/7oUSiJU3pp2m54aFXwCP9q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Todos Contra 1",
+        "url": "https://open.spotify.com/album/58YnsBjxrlUOMwgFw44GHd"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Felixxx",
+          "url": "https://open.spotify.com/artist/1iOEXBqcRUWxN5tBxESHxZ"
+        }
+      ],
+      "duration_ms": 163298,
+      "name": "Todos Contra 1",
+      "url": "https://open.spotify.com/track/2bF02iYjemsTLSeOwb9wm7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Se Prepara",
+        "url": "https://open.spotify.com/album/54gWxTm90TbQ5oRa4aNp3E"
+      },
+      "artists": [
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
+        },
+        {
+          "name": "Lucas e Orelha",
+          "url": "https://open.spotify.com/artist/1hX5P2lkCP3LrzVRlJmQX8"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        }
+      ],
+      "duration_ms": 182415,
+      "name": "Se Prepara",
+      "url": "https://open.spotify.com/track/5d1Eidz7m4vdgHsfZRKcec"
     },
     {
       "added_at": null,
@@ -1395,34 +1395,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todos Contra 1",
-        "url": "https://open.spotify.com/album/2dkUeDD9bV30laGNKoUp11"
+        "name": "Azzy On The Radar Freestyle",
+        "url": "https://open.spotify.com/album/6s0KThTZpXuzg2Ww0BH1mV"
       },
       "artists": [
+        {
+          "name": "On The Radar",
+          "url": "https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz"
+        },
         {
           "name": "Azzy",
           "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
         },
         {
-          "name": "DRESSA",
-          "url": "https://open.spotify.com/artist/5BkfMMgLbEy1WzYk2gH8Al"
-        },
-        {
-          "name": "Gustah",
-          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
-        },
-        {
-          "name": "WEY",
-          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
         }
       ],
-      "duration_ms": 136470,
-      "name": "Proposta",
-      "url": "https://open.spotify.com/track/36J1XvwjxZkMumcLROBn7X"
+      "duration_ms": 141923,
+      "name": "Azzy On The Radar Freestyle",
+      "url": "https://open.spotify.com/track/6QLnn3fVXtn3YODq1Af0iI"
     },
     {
       "added_at": null,

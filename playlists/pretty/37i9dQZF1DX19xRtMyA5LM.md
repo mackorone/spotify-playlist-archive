@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 
 > De beste tracks in WS❗️Cover: Hef
 
-[Spotify](https://open.spotify.com/user/spotify) - 708,743 likes - 60 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 708,725 likes - 60 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 | 59 | [Schweinsteiger](https://open.spotify.com/track/4VGvMXucEK4TjC6GZgyjRk) | [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd), [Leblanco](https://open.spotify.com/artist/3xPDzlchimtvIGqPc1lZl2) | [Schweinsteiger](https://open.spotify.com/album/2BTwcwPD1vISGzagEKkwlE) | 4:42 |
 | 60 | [Drugsdealers & Scammers](https://open.spotify.com/track/6MUfZV19IJgXbDEEujlKo4) | [Chardy](https://open.spotify.com/artist/75TcM0uB8Oxfv6CyDzySDa), [Eves Laurent](https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS) | [Drugsdealers & Scammers](https://open.spotify.com/album/0gf1TRAXRYbKNFWug1ssuz) | 2:34 |
 
-Snapshot ID: `AAAAAPinm4YmJuh26BWXWyE2g+ILxBva`
+Snapshot ID: `AAAAAIgLwWQc69lqZlKhy6vNKV3LLrOi`

@@ -1,6 +1,6 @@
 {
   "description": "Deutschsprachige Liebeslieder, die mitten ins Herz gehen \u2665\ufe0f",
-  "num_followers": 198992,
+  "num_followers": 199043,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
@@ -707,6 +707,22 @@
     {
       "added_at": "2025-03-26 13:54:44",
       "album": {
+        "name": "Wei\u00dfes Kleid",
+        "url": "https://open.spotify.com/album/5VNsTnVG0vqvQRWLg7fbaQ"
+      },
+      "artists": [
+        {
+          "name": "KATI K",
+          "url": "https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv"
+        }
+      ],
+      "duration_ms": 147826,
+      "name": "Wei\u00dfes Kleid",
+      "url": "https://open.spotify.com/track/0T7RSwG8Jr4E5CFpgkDkCu"
+    },
+    {
+      "added_at": "2025-03-26 13:54:44",
+      "album": {
         "name": "Morgen",
         "url": "https://open.spotify.com/album/6JYdwInTDE3arObsOWqJPv"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 135096,
       "name": "Morgen",
       "url": "https://open.spotify.com/track/53x25WE2X6nOsHJ23mu1gv"
-    },
-    {
-      "added_at": "2025-03-26 13:54:44",
-      "album": {
-        "name": "Wei\u00dfes Kleid",
-        "url": "https://open.spotify.com/album/5VNsTnVG0vqvQRWLg7fbaQ"
-      },
-      "artists": [
-        {
-          "name": "KATI K",
-          "url": "https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv"
-        }
-      ],
-      "duration_ms": 147826,
-      "name": "Wei\u00dfes Kleid",
-      "url": "https://open.spotify.com/track/0T7RSwG8Jr4E5CFpgkDkCu"
     },
     {
       "added_at": "2025-03-26 13:54:44",
@@ -823,22 +823,18 @@
     {
       "added_at": "2025-03-26 13:54:44",
       "album": {
-        "name": "Home Again",
-        "url": "https://open.spotify.com/album/749kLg4Sk28HuuF9MSjF3I"
+        "name": "F\u00fcr Immer",
+        "url": "https://open.spotify.com/album/2BYgvzVkCaenJvpQC2HHrf"
       },
       "artists": [
         {
-          "name": "JORIS",
-          "url": "https://open.spotify.com/artist/7BKePXVmQRgnkbGcrFX1G4"
-        },
-        {
-          "name": "LOTTE",
-          "url": "https://open.spotify.com/artist/3gqabzO7zvHVzAIT0Nxqa3"
+          "name": "Tom Twers",
+          "url": "https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO"
         }
       ],
-      "duration_ms": 207501,
-      "name": "Home Again",
-      "url": "https://open.spotify.com/track/0BhbRX5t6zRCLBUMtWOynf"
+      "duration_ms": 128571,
+      "name": "F\u00fcr Immer",
+      "url": "https://open.spotify.com/track/6KyYXQlUOVCFN50RJq5xLq"
     },
     {
       "added_at": "2025-03-26 13:54:44",
@@ -875,18 +871,22 @@
     {
       "added_at": "2025-03-26 13:54:44",
       "album": {
-        "name": "F\u00fcr Immer",
-        "url": "https://open.spotify.com/album/2BYgvzVkCaenJvpQC2HHrf"
+        "name": "Home Again",
+        "url": "https://open.spotify.com/album/749kLg4Sk28HuuF9MSjF3I"
       },
       "artists": [
         {
-          "name": "Tom Twers",
-          "url": "https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO"
+          "name": "JORIS",
+          "url": "https://open.spotify.com/artist/7BKePXVmQRgnkbGcrFX1G4"
+        },
+        {
+          "name": "LOTTE",
+          "url": "https://open.spotify.com/artist/3gqabzO7zvHVzAIT0Nxqa3"
         }
       ],
-      "duration_ms": 128571,
-      "name": "F\u00fcr Immer",
-      "url": "https://open.spotify.com/track/6KyYXQlUOVCFN50RJq5xLq"
+      "duration_ms": 207501,
+      "name": "Home Again",
+      "url": "https://open.spotify.com/track/0BhbRX5t6zRCLBUMtWOynf"
     },
     {
       "added_at": "2025-03-26 13:54:44",

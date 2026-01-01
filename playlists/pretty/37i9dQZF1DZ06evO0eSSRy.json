@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVHEgAAAAADUsv+1K5G6aB1fejAdNMI2",
+  "snapshot_id": "aVMWAAAAAAANJGYmrPscymeFqq8RDtsg",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Still There",
-        "url": "https://open.spotify.com/album/6hfCNvEvJYM2ZVsLp0KTfq"
-      },
-      "artists": [
-        {
-          "name": "P\u00c6RISH",
-          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
-        }
-      ],
-      "duration_ms": 189579,
-      "name": "Still There",
-      "url": "https://open.spotify.com/track/7uUCmwEwG2OAo1Q9rXis7E"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Semi Finalists",
         "url": "https://open.spotify.com/album/6ij08Dw2Ec5K8bwgJvxPiI"
       },
@@ -75,6 +59,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Still There",
+        "url": "https://open.spotify.com/album/6hfCNvEvJYM2ZVsLp0KTfq"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "duration_ms": 189579,
+      "name": "Still There",
+      "url": "https://open.spotify.com/track/7uUCmwEwG2OAo1Q9rXis7E"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fixed It All",
         "url": "https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W"
       },
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
         }
       ],
-      "duration_ms": 208974,
-      "name": "Journey of the Prairie King",
-      "url": "https://open.spotify.com/track/3xoOHYehP6FjTLxmVtQr2t"
+      "duration_ms": 197915,
+      "name": "Archives",
+      "url": "https://open.spotify.com/track/0tmgEJKwEDX1znh5owSKLo"
     },
     {
       "added_at": null,
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
         }
       ],
-      "duration_ms": 197915,
-      "name": "Archives",
-      "url": "https://open.spotify.com/track/0tmgEJKwEDX1znh5owSKLo"
+      "duration_ms": 208974,
+      "name": "Journey of the Prairie King",
+      "url": "https://open.spotify.com/track/3xoOHYehP6FjTLxmVtQr2t"
     },
     {
       "added_at": null,
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
         }
       ],
-      "duration_ms": 261301,
-      "name": "Fixed It All",
-      "url": "https://open.spotify.com/track/19UtO7hBxFYhqYMqFePsjv"
+      "duration_ms": 218334,
+      "name": "Water Doctor",
+      "url": "https://open.spotify.com/track/3xDhCNXmsM0HAeRtTQziaI"
     },
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
         }
       ],
-      "duration_ms": 218334,
-      "name": "Water Doctor",
-      "url": "https://open.spotify.com/track/3xDhCNXmsM0HAeRtTQziaI"
+      "duration_ms": 261301,
+      "name": "Fixed It All",
+      "url": "https://open.spotify.com/track/19UtO7hBxFYhqYMqFePsjv"
     },
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
         }
       ],
-      "duration_ms": 211029,
-      "name": "Then People Forget",
-      "url": "https://open.spotify.com/track/1AjtK89Eq1tS44Iu4YFg3T"
+      "duration_ms": 177658,
+      "name": "Adriatic",
+      "url": "https://open.spotify.com/track/1fKocClfM3Se59SF0mONAf"
     },
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
         }
       ],
-      "duration_ms": 177658,
-      "name": "Adriatic",
-      "url": "https://open.spotify.com/track/1fKocClfM3Se59SF0mONAf"
+      "duration_ms": 211029,
+      "name": "Then People Forget",
+      "url": "https://open.spotify.com/track/1AjtK89Eq1tS44Iu4YFg3T"
     },
     {
       "added_at": null,

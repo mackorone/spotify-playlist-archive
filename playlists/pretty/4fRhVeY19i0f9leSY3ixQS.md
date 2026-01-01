@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,076 likes - 368 songs - 21 hr 27 min
+[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,078 likes - 371 songs - 21 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -376,5 +376,8 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 | 366 | [Descent](https://open.spotify.com/track/24nuSMoXe84JsXSH5upNmK) | [Valar Morghulis](https://open.spotify.com/artist/36ziR9uhd3p9xhOJ93zWqa) | [Descent](https://open.spotify.com/album/1hSIgKoFjNTsAVjfRWM0PX) | 5:21 |
 | 367 | [Let Me Speak To Your Manager](https://open.spotify.com/track/4GwuYclM1SZ6ByvspNP9rs) | [The Karens](https://open.spotify.com/artist/3lUasUBbXtDOd3RuxfxA5P) | [The Karens](https://open.spotify.com/album/0n9f41fy19sPQRZEUwQadX) | 2:16 |
 | 368 | [Ghost is Worn](https://open.spotify.com/track/4W10VgYJxuZHDNMkAFxGG7) | [If by Whiskey](https://open.spotify.com/artist/2BN3IyVjJZIgTjYeK2FEu5) | [Ghost is Worn](https://open.spotify.com/album/2GXth5jI8gVaHj9usItgyF) | 2:51 |
+| 369 | [Quokkas serving chicken dinner](https://open.spotify.com/track/5OIJ2fCKKpoccgDyxwSiWt) | [W.C.U.](https://open.spotify.com/artist/0fYons6jBj4Vn9AE61Hgkv) | [Wir stehen hier](https://open.spotify.com/album/3hRWcsqotdRpZuLYqkLDuf) | 2:24 |
+| 370 | [Much Bigger Things](https://open.spotify.com/track/0NdFB6srCdlii5agLG7bY0) | [Ashes & Orchids](https://open.spotify.com/artist/2DPoTH8Gvx1tTM89NmWhLY) | [Grayscale Horizons](https://open.spotify.com/album/5Rj23GRlPVoUc1RU4SjHnp) | 3:49 |
+| 371 | [Unrequited Love](https://open.spotify.com/track/52juohYeuWVBUJNBEhMpJO) | [HAEZL](https://open.spotify.com/artist/6QZcEovtcGCLrWhIOL4omg) | [Unrequited Love](https://open.spotify.com/album/1c5cmFTEYDjzCas7s7bMj9) | 3:32 |
 
-Snapshot ID: `AAAJHnvF0JE1paPj5BeQ6hWV0+X1S/qe`
+Snapshot ID: `AAAJIRnCdP2ibP3nEq+pjBrHcsVzFGSd`

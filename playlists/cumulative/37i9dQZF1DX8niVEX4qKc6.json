@@ -1109,6 +1109,24 @@
     },
     {
       "album": {
+        "name": "Rock Nacional",
+        "url": "https://open.spotify.com/album/2TSunTI1bHCQgmPIfw1mTK"
+      },
+      "artists": [
+        {
+          "name": "Los Tipitos",
+          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
+        }
+      ],
+      "date_added": "2025-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400651,
+      "name": "Dime Qui\u00e9n Me Lo Rob\u00f3",
+      "url": "https://open.spotify.com/track/2Iu1PNxGImKU2zP9e4QYeV"
+    },
+    {
+      "album": {
         "name": "Caminos Br\u00edos",
         "url": "https://open.spotify.com/album/3TX9rPF9ruJb5Ntk7wAOrF"
       },
@@ -3398,7 +3416,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-01",
       "duration_ms": 369000,
       "name": "Sonhos",
       "url": "https://open.spotify.com/track/16zNapwhCye9uCg4sTEZ7I"

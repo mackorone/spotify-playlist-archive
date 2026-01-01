@@ -1,12 +1,12 @@
 {
   "description": "This is Lainey Wilson. The essential tracks, all in one playlist.",
-  "num_followers": 104693,
+  "num_followers": 104739,
   "original_name": "This Is Lainey Wilson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVHEgAAAAADTDdGMpURw+MDawDGsx2PJ",
+  "snapshot_id": "aVMWAAAAAAAFje7SxlV2YgiFdnEcvw90",
   "tracks": [
     {
       "added_at": null,
@@ -75,6 +75,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Somewhere Over Laredo",
+        "url": "https://open.spotify.com/album/7AM3OzfWrmxHJ5xkWSEEre"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Somewhere Over Laredo",
+      "url": "https://open.spotify.com/track/0aGIy8kll4HYDnNTDlf2vU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Whitsitt Chapel",
         "url": "https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ"
       },
@@ -91,22 +107,6 @@
       "duration_ms": 237493,
       "name": "Save Me - with Lainey Wilson",
       "url": "https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Somewhere Over Laredo",
-        "url": "https://open.spotify.com/album/7AM3OzfWrmxHJ5xkWSEEre"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Somewhere Over Laredo",
-      "url": "https://open.spotify.com/track/0aGIy8kll4HYDnNTDlf2vU"
     },
     {
       "added_at": null,
@@ -271,6 +271,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bell Bottom Country",
+        "url": "https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 208546,
+      "name": "Weak-End",
+      "url": "https://open.spotify.com/track/56lYNZIKYuWDjYkfvJao2e"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nice To Meet You (feat. Lainey Wilson)",
         "url": "https://open.spotify.com/album/72T4AbLCP6vmRzA5C2iLFi"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 176000,
       "name": "Nice To Meet You (feat. Lainey Wilson)",
       "url": "https://open.spotify.com/track/2tQSuufhS5XHz0E8EBi55M"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bell Bottom Country",
-        "url": "https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 208546,
-      "name": "Weak-End",
-      "url": "https://open.spotify.com/track/56lYNZIKYuWDjYkfvJao2e"
     },
     {
       "added_at": null,
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 175675,
-      "name": "Waste of Good Whiskey",
-      "url": "https://open.spotify.com/track/3S4ruu2F7dMeRY7FV0ayTb"
+      "duration_ms": 177727,
+      "name": "Breakin' Your Heart",
+      "url": "https://open.spotify.com/track/3Ku1iOPJSZazyKi22yWxEF"
     },
     {
       "added_at": null,
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 177727,
-      "name": "Breakin' Your Heart",
-      "url": "https://open.spotify.com/track/3Ku1iOPJSZazyKi22yWxEF"
+      "duration_ms": 175675,
+      "name": "Waste of Good Whiskey",
+      "url": "https://open.spotify.com/track/3S4ruu2F7dMeRY7FV0ayTb"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is T.I BLAZE. The essential tracks, all in one playlist.",
-  "num_followers": 8247,
+  "num_followers": 8264,
   "original_name": "This Is T.I BLAZE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVHEgAAAAACA3rpOa746ZEGA5umiZ0Sw",
+  "snapshot_id": "aVMWAAAAAABZ7nuGuClnBYMW4oEqs/l0",
   "tracks": [
     {
       "added_at": null,
@@ -63,8 +63,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sometimes",
-        "url": "https://open.spotify.com/album/1XsKZfYDE58uwXMoQJNtip"
+        "name": "Shakur (Deluxe)",
+        "url": "https://open.spotify.com/album/3ZgFmnpdR7O8sX6USTzWDE"
       },
       "artists": [
         {
@@ -72,9 +72,9 @@
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         }
       ],
-      "duration_ms": 184894,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/172TikKKeEeGLMiHPdKR1J"
+      "duration_ms": 205714,
+      "name": "Trenches Luv",
+      "url": "https://open.spotify.com/track/1lcFhGrPvib79Hqm7umnKs"
     },
     {
       "added_at": null,
@@ -115,6 +115,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/1XsKZfYDE58uwXMoQJNtip"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "duration_ms": 184894,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/172TikKKeEeGLMiHPdKR1J"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shakur (Deluxe)",
         "url": "https://open.spotify.com/album/3ZgFmnpdR7O8sX6USTzWDE"
       },
@@ -124,25 +140,9 @@
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         }
       ],
-      "duration_ms": 205714,
-      "name": "Trenches Luv",
-      "url": "https://open.spotify.com/track/1lcFhGrPvib79Hqm7umnKs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Fresh Prince Of Lagos",
-        "url": "https://open.spotify.com/album/2TW9HhvTA2KZaPufW4XVoc"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 227239,
-      "name": "Gbedu",
-      "url": "https://open.spotify.com/track/2s8ccek0lQmwQOTB3aKh6V"
+      "duration_ms": 145248,
+      "name": "Introduction",
+      "url": "https://open.spotify.com/track/0Q5fmTDuMkhDGp5geZNCgO"
     },
     {
       "added_at": null,
@@ -179,8 +179,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shakur (Deluxe)",
-        "url": "https://open.spotify.com/album/3ZgFmnpdR7O8sX6USTzWDE"
+        "name": "The Fresh Prince Of Lagos",
+        "url": "https://open.spotify.com/album/2TW9HhvTA2KZaPufW4XVoc"
       },
       "artists": [
         {
@@ -188,9 +188,9 @@
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
         }
       ],
-      "duration_ms": 145248,
-      "name": "Introduction",
-      "url": "https://open.spotify.com/track/0Q5fmTDuMkhDGp5geZNCgO"
+      "duration_ms": 227239,
+      "name": "Gbedu",
+      "url": "https://open.spotify.com/track/2s8ccek0lQmwQOTB3aKh6V"
     },
     {
       "added_at": null,
@@ -851,30 +851,6 @@
       "duration_ms": 149786,
       "name": "Overload (Kala)",
       "url": "https://open.spotify.com/track/6pHH6JsPF4OoQBqk7aNcQa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "S.O.T.P ( Sauce of the Party )",
-        "url": "https://open.spotify.com/album/5Je5R1uBy6QFNgPonxEi0M"
-      },
-      "artists": [
-        {
-          "name": "G.O.E",
-          "url": "https://open.spotify.com/artist/4MVPDEBLiF4b01hDW6Qzo9"
-        },
-        {
-          "name": "Temadey",
-          "url": "https://open.spotify.com/artist/655vDDQSEnUaFqWzWqBaEv"
-        },
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 170826,
-      "name": "S.O.T.P ( Sauce of the Party )",
-      "url": "https://open.spotify.com/track/1FCIG90E4Oz19ogY2sXBxp"
     },
     {
       "added_at": null,

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/3DkoXgQ0hZhKSNaeqCQZqZ.md) - [plain]
 
 > FurryRadio.com, made for furs, by furs.
 
-[Zunkz](https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya) - 885 likes - 408 songs - 21 hr 14 min
+[Zunkz](https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya) - 889 likes - 408 songs - 21 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Circles](https://open.spotify.com/track/6IAiYnT6M2OJUKdhCUaDwQ) | [Betu](https://open.spotify.com/artist/0dYq8H010ccHgXjYBQtoq7) | [Circles](https://open.spotify.com/album/2jJrEDynU7xdr4mv1XqvjB) | 3:12 |
-| 2 | [i'm now alone with our memories.](https://open.spotify.com/track/4LjHjdgEV3e9VNMLUStVLe) | [Loprov](https://open.spotify.com/artist/3Zv31lkrOJ7HPBWmXOjiwJ) | [i'm now alone with our memories.](https://open.spotify.com/album/4MSJ4mwSZN9ArxNNbnt6ar) | 3:47 |
+| 1 | [i'm now alone with our memories.](https://open.spotify.com/track/4LjHjdgEV3e9VNMLUStVLe) | [Loprov](https://open.spotify.com/artist/3Zv31lkrOJ7HPBWmXOjiwJ) | [i'm now alone with our memories.](https://open.spotify.com/album/4MSJ4mwSZN9ArxNNbnt6ar) | 3:47 |
+| 2 | [Circles](https://open.spotify.com/track/6IAiYnT6M2OJUKdhCUaDwQ) | [Betu](https://open.spotify.com/artist/0dYq8H010ccHgXjYBQtoq7) | [Circles](https://open.spotify.com/album/2jJrEDynU7xdr4mv1XqvjB) | 3:12 |
 | 3 | [RUDOLPH REINDEER BOY](https://open.spotify.com/track/77UiDteFZF5JDw5ZdSMiMZ) | [alottadogs](https://open.spotify.com/artist/1vuMbz8SdGeSE8UaOQiXuN), [r u s s e l b u c k](https://open.spotify.com/artist/3Si34xQXMZlrics4njesF2) | [RUDOLPH REINDEER BOY](https://open.spotify.com/album/17U7c7NQ4sQNYYCevBywkI) | 2:20 |
 | 4 | [Dancing with a Werewolf \- ValueFactory Remix](https://open.spotify.com/track/5LCnESA42drqg442vpQ2Qg) | [Whsprs](https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h), [♥ GOJII ♥](https://open.spotify.com/artist/2uKlOWltMsAxTHTsh4UHJY), [ValueFactory](https://open.spotify.com/artist/2NP471YZnkNSzGwX1hcJc3) | [Dancing with a Werewolf \(ValueFactory Remix\)](https://open.spotify.com/album/4xWlVKqqC8D30M80Ahm0fN) | 3:09 |
 | 5 | [Birdbrain!](https://open.spotify.com/track/40UHPOWIPMkI5jUnRJ81jl) | [Twilike Wonder](https://open.spotify.com/artist/0p6U88EWoDuBHtA2r7jtXV) | [Birdbrain!](https://open.spotify.com/album/1ATnijcOqHEqtPn1IRoMlN) | 4:19 |
@@ -417,4 +417,4 @@ pretty - [cumulative](/playlists/cumulative/3DkoXgQ0hZhKSNaeqCQZqZ.md) - [plain]
 | 407 | [No Eternity](https://open.spotify.com/track/4QuiLRd0pznAAdBBxVh5Gq) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [RET TRO](https://open.spotify.com/artist/0a2CSknxVwcDWdXR3QfO4x) | [No Eternity](https://open.spotify.com/album/7fLZtXo4I8mDBQZCmf9GaN) | 3:17 |
 | 408 | [i don't wanna](https://open.spotify.com/track/6WpDJFIu49wWtpPViObMXv) | [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [i don't wanna](https://open.spotify.com/album/3d9cpBCj3cSiBaI1ErfsPv) | 2:06 |
 
-Snapshot ID: `AAAEqL/lbQAWzYk1rACR23Iav/osfu9N`
+Snapshot ID: `AAAEqUMBi/q/r6cVxpyNe3XxVyZtXvb/`

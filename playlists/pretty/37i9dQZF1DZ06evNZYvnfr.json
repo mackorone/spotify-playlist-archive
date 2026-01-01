@@ -1,12 +1,12 @@
 {
   "description": "This is Micah Tyler. The essential tracks, all in one playlist.",
-  "num_followers": 4659,
+  "num_followers": 4661,
   "original_name": "This Is Micah Tyler",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVHEgAAAAABVoOl4qStUgOcD6x+eBppD",
+  "snapshot_id": "aVMWAAAAAAD3lSrjJT3/s3jnUUYzXz1R",
   "tracks": [
     {
       "added_at": null,
@@ -91,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Different",
-        "url": "https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB"
-      },
-      "artists": [
-        {
-          "name": "Micah Tyler",
-          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
-        }
-      ],
-      "duration_ms": 197946,
-      "name": "Different",
-      "url": "https://open.spotify.com/track/0HGGx9fQ55LFw5QFIB5MKp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I See Grace",
         "url": "https://open.spotify.com/album/7LFddJR03IFXK5AY3qV2Il"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 193865,
       "name": "I See Grace",
       "url": "https://open.spotify.com/track/3QT7ruZDodBTndp0q0EpW5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Different",
+        "url": "https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "duration_ms": 197946,
+      "name": "Different",
+      "url": "https://open.spotify.com/track/0HGGx9fQ55LFw5QFIB5MKp"
     },
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Different",
-        "url": "https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB"
-      },
-      "artists": [
-        {
-          "name": "Micah Tyler",
-          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
-        }
-      ],
-      "duration_ms": 200680,
-      "name": "Never Been a Moment",
-      "url": "https://open.spotify.com/track/7rC5fxyrbNDRymrH7OwSxE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "New Today",
         "url": "https://open.spotify.com/album/7AboNyd4LqFy35DOEOzBtK"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 175217,
       "name": "AMEN",
       "url": "https://open.spotify.com/track/2oxGrrz61idwlMRTzvdpZQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Different",
+        "url": "https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "duration_ms": 200680,
+      "name": "Never Been a Moment",
+      "url": "https://open.spotify.com/track/7rC5fxyrbNDRymrH7OwSxE"
     },
     {
       "added_at": null,
@@ -243,22 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Story I Tell",
-        "url": "https://open.spotify.com/album/1sEhas5NNPMi3FM7vRicOC"
-      },
-      "artists": [
-        {
-          "name": "Micah Tyler",
-          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
-        }
-      ],
-      "duration_ms": 242508,
-      "name": "Mighty to Love",
-      "url": "https://open.spotify.com/track/3ZvaDtWralCVTrI3SP2K8H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "New Today",
         "url": "https://open.spotify.com/album/7AboNyd4LqFy35DOEOzBtK"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 200094,
       "name": "New Today",
       "url": "https://open.spotify.com/track/4oOSKLUsqd2N0tHhV6LyuP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Story I Tell",
+        "url": "https://open.spotify.com/album/1sEhas5NNPMi3FM7vRicOC"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "duration_ms": 242508,
+      "name": "Mighty to Love",
+      "url": "https://open.spotify.com/track/3ZvaDtWralCVTrI3SP2K8H"
     },
     {
       "added_at": null,
@@ -311,22 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Story I Tell",
-        "url": "https://open.spotify.com/album/1sEhas5NNPMi3FM7vRicOC"
-      },
-      "artists": [
-        {
-          "name": "Micah Tyler",
-          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
-        }
-      ],
-      "duration_ms": 223883,
-      "name": "You Make Sense",
-      "url": "https://open.spotify.com/track/68r5EFb5qV9oWkhaOY6jdr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "New Today",
         "url": "https://open.spotify.com/album/7AboNyd4LqFy35DOEOzBtK"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 223079,
       "name": "What Mercy Did For Me (feat. Maranda Curtis & Jason Crabb)",
       "url": "https://open.spotify.com/track/7IHxJcnPxR7Mm6ADNNrQO8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Story I Tell",
+        "url": "https://open.spotify.com/album/1sEhas5NNPMi3FM7vRicOC"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "duration_ms": 223883,
+      "name": "You Make Sense",
+      "url": "https://open.spotify.com/track/68r5EFb5qV9oWkhaOY6jdr"
     },
     {
       "added_at": null,
@@ -383,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Story I Tell",
-        "url": "https://open.spotify.com/album/1sEhas5NNPMi3FM7vRicOC"
-      },
-      "artists": [
-        {
-          "name": "Micah Tyler",
-          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
-        }
-      ],
-      "duration_ms": 232869,
-      "name": "What Are You Waiting For",
-      "url": "https://open.spotify.com/track/6XdxpgFTSv93A0cyHVV19T"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "New Today",
         "url": "https://open.spotify.com/album/7AboNyd4LqFy35DOEOzBtK"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 220189,
       "name": "My God Fights For Me (feat. Austin French & Nickie Conley)",
       "url": "https://open.spotify.com/track/42bno1yjQDmijfQhTZheHv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Story I Tell",
+        "url": "https://open.spotify.com/album/1sEhas5NNPMi3FM7vRicOC"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "duration_ms": 232869,
+      "name": "What Are You Waiting For",
+      "url": "https://open.spotify.com/track/6XdxpgFTSv93A0cyHVV19T"
     },
     {
       "added_at": null,
@@ -455,6 +455,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "New Today",
+        "url": "https://open.spotify.com/album/7AboNyd4LqFy35DOEOzBtK"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "duration_ms": 204803,
+      "name": "By Name",
+      "url": "https://open.spotify.com/track/1b3Ru6VZDT9Udpgqn1HIIB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Story I Tell",
         "url": "https://open.spotify.com/album/1sEhas5NNPMi3FM7vRicOC"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 166623,
       "name": "Headed for the Mountain (feat. Phil King)",
       "url": "https://open.spotify.com/track/0jxbPoE0igClGfEM0yAJfn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "New Today",
-        "url": "https://open.spotify.com/album/7AboNyd4LqFy35DOEOzBtK"
-      },
-      "artists": [
-        {
-          "name": "Micah Tyler",
-          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
-        }
-      ],
-      "duration_ms": 204803,
-      "name": "By Name",
-      "url": "https://open.spotify.com/track/1b3Ru6VZDT9Udpgqn1HIIB"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Story I Tell",
-        "url": "https://open.spotify.com/album/1sEhas5NNPMi3FM7vRicOC"
-      },
-      "artists": [
-        {
-          "name": "Micah Tyler",
-          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
-        }
-      ],
-      "duration_ms": 202410,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/4m8C3TE9KxBShNUWhNSw0v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "People Like Us",
         "url": "https://open.spotify.com/album/5s8qFUq2nCBCREC3EXjwVL"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 259159,
       "name": "Remember This",
       "url": "https://open.spotify.com/track/7vFyHLrMnhMVbdADWbgvGk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Story I Tell",
+        "url": "https://open.spotify.com/album/1sEhas5NNPMi3FM7vRicOC"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "duration_ms": 202410,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/4m8C3TE9KxBShNUWhNSw0v"
     },
     {
       "added_at": null,

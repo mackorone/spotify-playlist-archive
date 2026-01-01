@@ -1,6 +1,6 @@
 {
   "description": "Lagu-lagu Pop untuk teman bersantai.",
-  "num_followers": 499372,
+  "num_followers": 499390,
   "original_name": "Santai Sejenak",
   "owner": {
     "name": "Spotify",
@@ -547,6 +547,22 @@
     {
       "added_at": "2025-10-07 11:00:23",
       "album": {
+        "name": "Keabadian",
+        "url": "https://open.spotify.com/album/0X3OW0qjBDc3I9I52w6cym"
+      },
+      "artists": [
+        {
+          "name": "Reza Artamevia",
+          "url": "https://open.spotify.com/artist/6ZKqWNmLTzV5kMwIh3VeVF"
+        }
+      ],
+      "duration_ms": 247666,
+      "name": "Keabadian",
+      "url": "https://open.spotify.com/track/4fYaJrhUh3ca4SXcgmOtmn"
+    },
+    {
+      "added_at": "2025-10-07 11:00:23",
+      "album": {
         "name": "Sialan",
         "url": "https://open.spotify.com/album/3FXBtyRQwZsXShVvBc9ulh"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 241088,
       "name": "Sialan",
       "url": "https://open.spotify.com/track/2aDgJHhAbABvdW9NszrAPQ"
-    },
-    {
-      "added_at": "2025-10-07 11:00:23",
-      "album": {
-        "name": "Keabadian",
-        "url": "https://open.spotify.com/album/0X3OW0qjBDc3I9I52w6cym"
-      },
-      "artists": [
-        {
-          "name": "Reza Artamevia",
-          "url": "https://open.spotify.com/artist/6ZKqWNmLTzV5kMwIh3VeVF"
-        }
-      ],
-      "duration_ms": 247666,
-      "name": "Keabadian",
-      "url": "https://open.spotify.com/track/4fYaJrhUh3ca4SXcgmOtmn"
     },
     {
       "added_at": "2025-10-07 11:00:23",
@@ -647,22 +647,6 @@
     {
       "added_at": "2025-10-07 11:00:23",
       "album": {
-        "name": "Rumah",
-        "url": "https://open.spotify.com/album/1NN5iqgzE9RaMLjNqOEiXn"
-      },
-      "artists": [
-        {
-          "name": "Salma Salsabil",
-          "url": "https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs"
-        }
-      ],
-      "duration_ms": 258845,
-      "name": "Rumah",
-      "url": "https://open.spotify.com/track/1nHHvpO3so53lVsiWCTzHk"
-    },
-    {
-      "added_at": "2025-10-07 11:00:23",
-      "album": {
         "name": "Bercinta Lewat Kata (From \"Jatuh Cinta Seperti di Film-Film\")",
         "url": "https://open.spotify.com/album/2uqiUX7WQx2Yj4TcBy6UHd"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 169000,
       "name": "Bercinta Lewat Kata - From \"Jatuh Cinta Seperti di Film-Film\"",
       "url": "https://open.spotify.com/track/7wlfGt5NkpPT6nRC6yCr7u"
+    },
+    {
+      "added_at": "2025-10-07 11:00:23",
+      "album": {
+        "name": "Rumah",
+        "url": "https://open.spotify.com/album/1NN5iqgzE9RaMLjNqOEiXn"
+      },
+      "artists": [
+        {
+          "name": "Salma Salsabil",
+          "url": "https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs"
+        }
+      ],
+      "duration_ms": 258845,
+      "name": "Rumah",
+      "url": "https://open.spotify.com/track/1nHHvpO3so53lVsiWCTzHk"
     },
     {
       "added_at": "2025-10-07 11:00:23",
@@ -803,6 +803,22 @@
     {
       "added_at": "2025-10-07 11:00:23",
       "album": {
+        "name": "Seamin Tak Seiman",
+        "url": "https://open.spotify.com/album/7owNPjJUe8SaGuJ8zpYf6m"
+      },
+      "artists": [
+        {
+          "name": "Mahen",
+          "url": "https://open.spotify.com/artist/5Ag6luL11YrL1Znq0xsVuh"
+        }
+      ],
+      "duration_ms": 216448,
+      "name": "Seamin Tak Seiman",
+      "url": "https://open.spotify.com/track/26mwiyfmCKJBneTzlELpun"
+    },
+    {
+      "added_at": "2025-10-07 11:00:23",
+      "album": {
         "name": "Marion",
         "url": "https://open.spotify.com/album/0YDzTzUpaEBrltZExIKqKz"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 221381,
       "name": "Rayu",
       "url": "https://open.spotify.com/track/4rAWADK2zYdjx2ar2Hp1C8"
-    },
-    {
-      "added_at": "2025-10-07 11:00:23",
-      "album": {
-        "name": "Seamin Tak Seiman",
-        "url": "https://open.spotify.com/album/7owNPjJUe8SaGuJ8zpYf6m"
-      },
-      "artists": [
-        {
-          "name": "Mahen",
-          "url": "https://open.spotify.com/artist/5Ag6luL11YrL1Znq0xsVuh"
-        }
-      ],
-      "duration_ms": 216448,
-      "name": "Seamin Tak Seiman",
-      "url": "https://open.spotify.com/track/26mwiyfmCKJBneTzlELpun"
     },
     {
       "added_at": "2025-10-07 11:00:23",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2025-10-07 11:00:23",
       "album": {
+        "name": "Scenery",
+        "url": "https://open.spotify.com/album/1ymjvLkoCkExW8xZwiNpr6"
+      },
+      "artists": [
+        {
+          "name": "Rafi Sudirman",
+          "url": "https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk"
+        }
+      ],
+      "duration_ms": 283311,
+      "name": "That Somebody",
+      "url": "https://open.spotify.com/track/0rmhhawrhWNqqZprQTGWWz"
+    },
+    {
+      "added_at": "2025-10-07 11:00:23",
+      "album": {
         "name": "Benar-Benar",
         "url": "https://open.spotify.com/album/1fkRzmZR6GU8BQOcvAfy69"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 262913,
       "name": "Benar-Benar",
       "url": "https://open.spotify.com/track/21h4Kd8KTMPpLtQ7vdc2Aq"
-    },
-    {
-      "added_at": "2025-10-07 11:00:23",
-      "album": {
-        "name": "Scenery",
-        "url": "https://open.spotify.com/album/1ymjvLkoCkExW8xZwiNpr6"
-      },
-      "artists": [
-        {
-          "name": "Rafi Sudirman",
-          "url": "https://open.spotify.com/artist/0IJToD6h0XzZMzlgJ5kdhk"
-        }
-      ],
-      "duration_ms": 283311,
-      "name": "That Somebody",
-      "url": "https://open.spotify.com/track/0rmhhawrhWNqqZprQTGWWz"
     },
     {
       "added_at": "2025-10-07 11:00:23",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2025-10-07 11:00:23",
       "album": {
-        "name": "Tanpa Tergesa",
-        "url": "https://open.spotify.com/album/4XaaGPX1xavHLo2vJJ2u03"
-      },
-      "artists": [
-        {
-          "name": "Juicy Luicy",
-          "url": "https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV"
-        }
-      ],
-      "duration_ms": 218405,
-      "name": "Tanpa Tergesa",
-      "url": "https://open.spotify.com/track/66wRGrt1HmeVa1wtnWMj6C"
-    },
-    {
-      "added_at": "2025-10-07 11:00:23",
-      "album": {
         "name": "It's Me BCL",
         "url": "https://open.spotify.com/album/3lWkC6kEMXvboWSFEB6D1B"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 211965,
       "name": "Aku Wanita (with Dipha Barus)",
       "url": "https://open.spotify.com/track/3GYxLBhbX1bJH0zoC8zXa7"
+    },
+    {
+      "added_at": "2025-10-07 11:00:23",
+      "album": {
+        "name": "Tanpa Tergesa",
+        "url": "https://open.spotify.com/album/4XaaGPX1xavHLo2vJJ2u03"
+      },
+      "artists": [
+        {
+          "name": "Juicy Luicy",
+          "url": "https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV"
+        }
+      ],
+      "duration_ms": 218405,
+      "name": "Tanpa Tergesa",
+      "url": "https://open.spotify.com/track/66wRGrt1HmeVa1wtnWMj6C"
     },
     {
       "added_at": "2025-10-07 11:00:23",

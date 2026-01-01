@@ -15713,6 +15713,24 @@
     },
     {
       "album": {
+        "name": "Premiers pas",
+        "url": "https://open.spotify.com/album/4TdXHEGmIaPV2xvqTnf5z4"
+      },
+      "artists": [
+        {
+          "name": "Kim",
+          "url": "https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224360,
+      "name": "Confidence",
+      "url": "https://open.spotify.com/track/6ra0162M1vgBI3Ams3r2SK"
+    },
+    {
+      "album": {
         "name": "Chiaroscuro",
         "url": "https://open.spotify.com/album/0MVMsDS0kofp6A8cbJ5kSH"
       },
@@ -29030,7 +29048,7 @@
       ],
       "date_added": "2025-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-20",
+      "date_removed": null,
       "duration_ms": 233653,
       "name": "Gil",
       "url": "https://open.spotify.com/track/5jgmQkVypORb3enASCxjYs"
@@ -37915,6 +37933,24 @@
     },
     {
       "album": {
+        "name": "La Princesa (Le Doli\u00f3)",
+        "url": "https://open.spotify.com/album/5iBLo5Jpj0KcsX64uA095J"
+      },
+      "artists": [
+        {
+          "name": "Yenddi",
+          "url": "https://open.spotify.com/artist/4pergvNsYlbWJg7TX6ISbp"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235272,
+      "name": "La Princesa (Le Doli\u00f3)",
+      "url": "https://open.spotify.com/track/0bA9nsy1nceHSYwNhFCcWU"
+    },
+    {
+      "album": {
         "name": "La Purga",
         "url": "https://open.spotify.com/album/3zHAGkOIV9ut97pmLfd76p"
       },
@@ -39046,7 +39082,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-01",
       "duration_ms": 227199,
       "name": "Late Mi Nombre En Tu Piel",
       "url": "https://open.spotify.com/track/1by2nui77V92VcqSOrVbzA"
@@ -52338,7 +52374,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-01",
       "duration_ms": 155016,
       "name": "Nunca Te Voy a Fallar",
       "url": "https://open.spotify.com/track/0eEQNykxCjXKLABUmXZMwB"
@@ -56644,7 +56680,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-01",
       "duration_ms": 109759,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf"
@@ -58094,6 +58130,24 @@
       "duration_ms": 221935,
       "name": "Por Toda la Vida",
       "url": "https://open.spotify.com/track/4l5HZ6iRc2oN5NtcT141yq"
+    },
+    {
+      "album": {
+        "name": "Por Ultima Vez",
+        "url": "https://open.spotify.com/album/5q70BAwkmtsXRElNm8tXVn"
+      },
+      "artists": [
+        {
+          "name": "Xolo Music",
+          "url": "https://open.spotify.com/artist/23ZEJoIVfvwkBAe022VUZ6"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176640,
+      "name": "Por Ultima Vez",
+      "url": "https://open.spotify.com/track/3CbjBz0Mg4tGorCaf6ydue"
     },
     {
       "album": {
@@ -61242,7 +61296,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-01",
       "duration_ms": 155919,
       "name": "Renazco en Mi",
       "url": "https://open.spotify.com/track/5z2etgzOrfHxBmM7UzC8uP"
@@ -64302,7 +64356,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-01",
       "duration_ms": 105000,
       "name": "Se\u00f1ores Yo Soy Manudo Desde la Cuna",
       "url": "https://open.spotify.com/track/4OgZ0Er6Tpsx5ymY9VkbAc"
@@ -67326,7 +67380,7 @@
       ],
       "date_added": "2025-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-27",
+      "date_removed": null,
       "duration_ms": 156336,
       "name": "Solo Tu",
       "url": "https://open.spotify.com/track/1CTbS8wlzbleVEJyKASFcp"
@@ -74944,7 +74998,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-01",
       "duration_ms": 248159,
       "name": "Tu Nombre en la Oscuridad",
       "url": "https://open.spotify.com/track/13XTDTngvvkb3b2FpBOQXU"
@@ -82786,7 +82840,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-31",
+      "date_removed": null,
       "duration_ms": 190822,
       "name": "Zoo",
       "url": "https://open.spotify.com/track/3vJIaiTIHxHhYafTSPNiH4"

@@ -1,6 +1,6 @@
 {
   "description": "dig through the record bin.",
-  "num_followers": 301992,
+  "num_followers": 302066,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Mic City Sons",
-        "url": "https://open.spotify.com/album/0D3hElyxCMZnBVI4pDMSAL"
-      },
-      "artists": [
-        {
-          "name": "Heatmiser",
-          "url": "https://open.spotify.com/artist/59IPo3F7aZifhZtHnoGHbo"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Plainclothes Man",
-      "url": "https://open.spotify.com/track/7yYf5GF0jX6M6KywKygE0c"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "Fizzy Fuzzy Big & Buzzy",
         "url": "https://open.spotify.com/album/2BAANDNiY6WvmSMVEKpjOV"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 257200,
       "name": "Banditos",
       "url": "https://open.spotify.com/track/466QMr5bVL5dEjtGxgaXyC"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "Mic City Sons",
+        "url": "https://open.spotify.com/album/0D3hElyxCMZnBVI4pDMSAL"
+      },
+      "artists": [
+        {
+          "name": "Heatmiser",
+          "url": "https://open.spotify.com/artist/59IPo3F7aZifhZtHnoGHbo"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Plainclothes Man",
+      "url": "https://open.spotify.com/track/7yYf5GF0jX6M6KywKygE0c"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Signals, Calls and Marches",
-        "url": "https://open.spotify.com/album/3MylADAiyOAf5ddH6iiflo"
-      },
-      "artists": [
-        {
-          "name": "Mission Of Burma",
-          "url": "https://open.spotify.com/artist/5UMQV83wwZCCvRSQCVjZw6"
-        }
-      ],
-      "duration_ms": 233573,
-      "name": "That's When I Reach for My Revolver",
-      "url": "https://open.spotify.com/track/3bSKHihztyH9D1ZyQsoqzI"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "Rooney",
         "url": "https://open.spotify.com/album/5LuGotW9TOicW2o2Q7iO50"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 214120,
       "name": "I'm Shakin'",
       "url": "https://open.spotify.com/track/6pfdB0WcH6y22C3enLfFrq"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "Signals, Calls and Marches",
+        "url": "https://open.spotify.com/album/3MylADAiyOAf5ddH6iiflo"
+      },
+      "artists": [
+        {
+          "name": "Mission Of Burma",
+          "url": "https://open.spotify.com/artist/5UMQV83wwZCCvRSQCVjZw6"
+        }
+      ],
+      "duration_ms": 233573,
+      "name": "That's When I Reach for My Revolver",
+      "url": "https://open.spotify.com/track/3bSKHihztyH9D1ZyQsoqzI"
     }
   ],
   "unique_name": "Thrifted",

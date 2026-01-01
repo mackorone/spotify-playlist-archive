@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbF9hKi35AII.md) - [plain]
 
 > Hot Hits Suomi \-soittolistan parhaat biisit vuodelta 2025.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,710 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,715 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

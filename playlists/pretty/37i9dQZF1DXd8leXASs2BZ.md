@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Worldwide Skippa
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,644 likes - 100 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,645 likes - 100 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 99 | [奥歯痛い保険証ない](https://open.spotify.com/track/6CqR8me6RcWoP5z1W119WN) | [FANI](https://open.spotify.com/artist/7KsWPNNxVKsPuzFiFqipjL) | [Out the 貧乏](https://open.spotify.com/album/697aN77B1eOSpgZC8zEMZd) | 2:26 |
 | 100 | [MVP \(feat\. Watson\)](https://open.spotify.com/track/77wQJsasG7MdCYqbgyTPXF) | [Lil Ash 懺悔](https://open.spotify.com/artist/5HyNuT1PVK3iFwukNreo0L), [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [WE ARE 破天荒](https://open.spotify.com/album/5co5trdYqLTqeLLvHMiwzb) | 2:27 |
 
-Snapshot ID: `AAAAAG/7lIf2UQETZqixRMHYSJs5RpcJ`
+Snapshot ID: `AAAAABh6053eFL/Ff/KeQxXqpFWiwAan`

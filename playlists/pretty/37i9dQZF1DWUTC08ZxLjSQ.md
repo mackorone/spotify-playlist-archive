@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 
 ### [Fresh Finds Arabia](https://open.spotify.com/playlist/37i9dQZF1DWUTC08ZxLjSQ)
 
-> The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Pink Seasalt\. Artwork: Isu Kim
+> The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: LINA\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,518 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,523 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [matgily tany ماتجيلي تاني](https://open.spotify.com/track/5ZBL2z5hjFtaAsE2hZFnAs) | [Pink Seasalt](https://open.spotify.com/artist/4L7xX1IdwehcIktyY87v5D) | [matgily tany ماتجيلي تاني](https://open.spotify.com/album/4HZze1w2BihEUjCGypObpm) | 3:37 |
-| 2 | [1234](https://open.spotify.com/track/55XLDXuZvKLdw8ylBQOZsJ) | [Triple9](https://open.spotify.com/artist/4EDet5KEQAdPKia5RxnVLt) | [1234](https://open.spotify.com/album/4p6Kf5SxJX5O5s9qlpthtr) | 1:52 |
-| 3 | [Idiots](https://open.spotify.com/track/65z8GzPRbXm6MBg1Rpy1CL) | [LINA](https://open.spotify.com/artist/6FvY6bTnFL5cVQ1tuY7m9z) | [Idiots](https://open.spotify.com/album/0ovPLLp2rMxah8WpcWsjuj) | 3:35 |
+| 1 | [Idiots](https://open.spotify.com/track/65z8GzPRbXm6MBg1Rpy1CL) | [LINA](https://open.spotify.com/artist/6FvY6bTnFL5cVQ1tuY7m9z) | [Idiots](https://open.spotify.com/album/0ovPLLp2rMxah8WpcWsjuj) | 3:35 |
+| 2 | [matgily tany ماتجيلي تاني](https://open.spotify.com/track/5ZBL2z5hjFtaAsE2hZFnAs) | [Pink Seasalt](https://open.spotify.com/artist/4L7xX1IdwehcIktyY87v5D) | [matgily tany ماتجيلي تاني](https://open.spotify.com/album/4HZze1w2BihEUjCGypObpm) | 3:37 |
+| 3 | [1234](https://open.spotify.com/track/55XLDXuZvKLdw8ylBQOZsJ) | [Triple9](https://open.spotify.com/artist/4EDet5KEQAdPKia5RxnVLt) | [1234](https://open.spotify.com/album/4p6Kf5SxJX5O5s9qlpthtr) | 1:52 |
 | 4 | [زرازير](https://open.spotify.com/track/3ZDvqAWIvPM9p6HjFD4klj) | [Khofash](https://open.spotify.com/artist/2H1jbRZ2JJP0WgkIfSjn7o), [Saiko](https://open.spotify.com/artist/39Tzw26U4dV1YRDb8WN7xe), [Gawish](https://open.spotify.com/artist/70r04jvuv4my1DGu3wB2yL) | [زرازير](https://open.spotify.com/album/3YzaCPbtlVeOcgiObkDj15) | 3:44 |
 | 5 | [Mokazi](https://open.spotify.com/track/6WrurmZYqpjbj8f2j9DaCr) | [Fahad Bin Grman](https://open.spotify.com/artist/5UGfxuknbqr4dTRjF4mgGG), [Mohammed Bin Grman](https://open.spotify.com/artist/5uFWoNmwcCxpZSq3RToSGr) | [Mokazi](https://open.spotify.com/album/0ttvnPyMZUBUtOxhKZkPte) | 2:49 |
 | 6 | [Emotions Icy](https://open.spotify.com/track/2tov1U88xrtqbQcrOflSon) | [Namak](https://open.spotify.com/artist/7vWqf60gZHRBi9D66Uak2y) | [Emotions Icy](https://open.spotify.com/album/5RwdfMw1WSsvnfODkSMc35) | 2:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 | 49 | [Chokran](https://open.spotify.com/track/4wq6DeA6G2u9XVgq7NZX9B) | [ASSIF](https://open.spotify.com/artist/4hSCKyUEoKKlPHA3mtTYl7) | [Chokran](https://open.spotify.com/album/77LACOwGZJOiBR3raiQNsB) | 1:58 |
 | 50 | [70's](https://open.spotify.com/track/4Blh7kOHMqddHNw9dihg3y) | [Dony](https://open.spotify.com/artist/5SPuVApDsQW9TH1UyFWtWu) | [70's](https://open.spotify.com/album/5sWPxAhokrsRcZfKiIaX0v) | 2:51 |
 
-Snapshot ID: `AAAAAJz0WDpN6XZU0hnbQItmT1Nxnyng`
+Snapshot ID: `AAAAALKqVwtE8xT+nFbXWfHNqUqH2tKS`

@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 | 78 | [The Writing's On The Wall](https://open.spotify.com/track/0TBNJLc19JEr5PXwbyaWfX) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY) | [The Writing's On The Wall](https://open.spotify.com/album/6Ed2yhkWOGoGog1QTSch0j) | 2:39 |
 | 79 | [Hologram](https://open.spotify.com/track/6mg2Fd0xxlHTJRNk4sv2Y7) | [Max Pope](https://open.spotify.com/artist/1pW42WHCsBicnNoBkcbD7i) | [In Limbo \- EP](https://open.spotify.com/album/35J8iowYlwbt5IcA7UZKPy) | 3:22 |
 | 80 | [Lay With Me](https://open.spotify.com/track/5E3IZVtPnAMKJ5jC177L2M) | [John Adams](https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi) | [Lay With Me](https://open.spotify.com/album/4MfKhq3j9MqPdicPW31B6o) | 2:51 |
-| 81 | [Don't Play This on the Radio](https://open.spotify.com/track/1PJ5jEyfsLYPHe8Arlq68B) | [Lucy Spraggan](https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N) | [Today Was a Good Day](https://open.spotify.com/album/7IIVfnuwQ2zrfbMp2vWsdQ) | 3:13 |
-| 82 | [Gone](https://open.spotify.com/track/6vdaDwTbA2yKq9NV6MG6w8) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Avenoir](https://open.spotify.com/album/0PpZlKRSocIBOf6mUY3tVw) | 2:59 |
+| 81 | [Gone](https://open.spotify.com/track/6vdaDwTbA2yKq9NV6MG6w8) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Avenoir](https://open.spotify.com/album/0PpZlKRSocIBOf6mUY3tVw) | 2:59 |
+| 82 | [Don't Play This on the Radio](https://open.spotify.com/track/1PJ5jEyfsLYPHe8Arlq68B) | [Lucy Spraggan](https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N) | [Today Was a Good Day](https://open.spotify.com/album/7IIVfnuwQ2zrfbMp2vWsdQ) | 3:13 |
 | 83 | [Bodystop](https://open.spotify.com/track/3p3N646rTTbyp6SE59Ezxz) | [Hook N Sling](https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D), [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY), [YOU](https://open.spotify.com/artist/266PvBAoJzPdxt3dgkEsBW) | [Bodystop](https://open.spotify.com/album/66rZeSSkClPAobtRPt9E0m) | 2:50 |
 | 84 | [All About a Girl](https://open.spotify.com/track/1KO9sRiIZhRDKpu7MAFkBV) | [Union J](https://open.spotify.com/artist/7DTZkttLXeUXamkocrRzeh) | [You Got It All](https://open.spotify.com/album/312WowjvJsuTSfaxXBXi6Q) | 3:15 |
 | 85 | [Never Wanna Fall in Love](https://open.spotify.com/track/1CniRSNjJmLuD2vnf1G96U) | [Catherine McGrath](https://open.spotify.com/artist/0db28KdTi7VNaTipfAnlWQ) | [Starting From Now](https://open.spotify.com/album/7xtbwxSS5gmY4kAILOYgSw) | 3:14 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 | 105 | [Still Breathing](https://open.spotify.com/track/45Vv22j4BeBa7mmKiWSNoM) | [Jenn Bostic](https://open.spotify.com/artist/0TK1H3VeQnZEczCCdzAvap) | [Faithful](https://open.spotify.com/album/087LvnihJ9pst9AzEn0Iz0) | 3:23 |
 | 106 | [DIE FOR YOU](https://open.spotify.com/track/6h18FgTEtFKdbhwwmP8VHt) | [Álbert Montes](https://open.spotify.com/artist/4xkX06GBRTgABQAT18ADgW) | [DIE FOR YOU](https://open.spotify.com/album/4L0ewrs2F2poqVYkeZ8nKI) | 3:13 |
 
-Snapshot ID: `AcFpGgAAAAD3j0MfAvPZ0GfsXP7DQ2M+`
+Snapshot ID: `AcFuugAAAABn+YZNrtUL2eMggdTvZu5h`

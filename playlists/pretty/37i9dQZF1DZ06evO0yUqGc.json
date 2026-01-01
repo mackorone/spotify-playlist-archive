@@ -1,12 +1,12 @@
 {
   "description": "This is Lily Allen. The essential tracks, all in one playlist.",
-  "num_followers": 93926,
+  "num_followers": 93946,
   "original_name": "This Is Lily Allen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVHEgAAAAAAq8/OZSR2lH0VD49EKrPRz",
+  "snapshot_id": "aVMWAAAAAAC2K88nQoVTg6u/9JEy2lp+",
   "tracks": [
     {
       "added_at": null,
@@ -295,18 +295,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Shame",
-        "url": "https://open.spotify.com/album/0DriDL7OcMeMENJWAElSYL"
+        "name": "Version",
+        "url": "https://open.spotify.com/album/15uqXXD0sAdZuxNxTxktlR"
       },
       "artists": [
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
         {
           "name": "Lily Allen",
           "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
         }
       ],
-      "duration_ms": 186960,
-      "name": "What You Waiting For?",
-      "url": "https://open.spotify.com/track/6RoX1kFmPx83oIj4u74bXm"
+      "duration_ms": 215253,
+      "name": "Oh My God (feat. Lily Allen)",
+      "url": "https://open.spotify.com/track/0G2BtoIda45xgezQGQn8JS"
     },
     {
       "added_at": null,
@@ -327,22 +331,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Version",
-        "url": "https://open.spotify.com/album/15uqXXD0sAdZuxNxTxktlR"
+        "name": "No Shame",
+        "url": "https://open.spotify.com/album/0DriDL7OcMeMENJWAElSYL"
       },
       "artists": [
-        {
-          "name": "Mark Ronson",
-          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
-        },
         {
           "name": "Lily Allen",
           "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
         }
       ],
-      "duration_ms": 215253,
-      "name": "Oh My God (feat. Lily Allen)",
-      "url": "https://open.spotify.com/track/0G2BtoIda45xgezQGQn8JS"
+      "duration_ms": 186960,
+      "name": "What You Waiting For?",
+      "url": "https://open.spotify.com/track/6RoX1kFmPx83oIj4u74bXm"
     },
     {
       "added_at": null,
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
         }
       ],
-      "duration_ms": 227973,
-      "name": "Lost My Mind",
-      "url": "https://open.spotify.com/track/6OMvX7ieloQ1qdSwKb5BRD"
+      "duration_ms": 219866,
+      "name": "Apples",
+      "url": "https://open.spotify.com/track/5qtMUB20QK1aLu8Wz4QCiM"
     },
     {
       "added_at": null,
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f"
         }
       ],
-      "duration_ms": 219866,
-      "name": "Apples",
-      "url": "https://open.spotify.com/track/5qtMUB20QK1aLu8Wz4QCiM"
+      "duration_ms": 227973,
+      "name": "Lost My Mind",
+      "url": "https://open.spotify.com/track/6OMvX7ieloQ1qdSwKb5BRD"
     }
   ],
   "unique_name": "This Is Lily Allen",

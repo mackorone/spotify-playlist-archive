@@ -1,6 +1,6 @@
 {
   "description": "\u611c\u610f\u653e\u9b06\uff0c\u4f7f\u81ea\u5df1\u6c89\u6d78\u5728\u9019\u4e9b\u52d5\u4eba\u800c\u512a\u7f8e\u7684\u92fc\u7434\u66f2\u4e4b\u4e2d\u3002",
-  "num_followers": 72363,
+  "num_followers": 72370,
   "original_name": "\u5b89\u5be7\u92fc\u7434\u8072",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2025-12-29 02:43:14",
       "album": {
-        "name": "Isla De Flores",
-        "url": "https://open.spotify.com/album/33MX50LkO4D6xU0qWjhVbh"
-      },
-      "artists": [
-        {
-          "name": "Berlioz",
-          "url": "https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar"
-        }
-      ],
-      "duration_ms": 159124,
-      "name": "Isla De Flores",
-      "url": "https://open.spotify.com/track/7tDHMhO0bJpbkXzMyMIE0b"
-    },
-    {
-      "added_at": "2025-12-29 02:43:14",
-      "album": {
         "name": "Endymion",
         "url": "https://open.spotify.com/album/6fbGnh6zZydsE2HmorrUuS"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 152230,
       "name": "Endymion",
       "url": "https://open.spotify.com/track/3Se2ifaSm69Np4OtyaNNKa"
+    },
+    {
+      "added_at": "2025-12-29 02:43:14",
+      "album": {
+        "name": "Isla De Flores",
+        "url": "https://open.spotify.com/album/33MX50LkO4D6xU0qWjhVbh"
+      },
+      "artists": [
+        {
+          "name": "Berlioz",
+          "url": "https://open.spotify.com/artist/6kndrupH2JaLYqh1wBKGar"
+        }
+      ],
+      "duration_ms": 159124,
+      "name": "Isla De Flores",
+      "url": "https://open.spotify.com/track/7tDHMhO0bJpbkXzMyMIE0b"
     },
     {
       "added_at": "2025-12-29 02:43:14",
@@ -511,22 +511,6 @@
     {
       "added_at": "2025-12-29 02:43:14",
       "album": {
-        "name": "Deck the Halls ~ Solo Piano Christmas",
-        "url": "https://open.spotify.com/album/4eTP9X1l4ipmAvTM283Ws2"
-      },
-      "artists": [
-        {
-          "name": "Brad Jacobsen",
-          "url": "https://open.spotify.com/artist/2qAOVsSeDczqT4oSWJ2q2s"
-        }
-      ],
-      "duration_ms": 220466,
-      "name": "Deck the Halls",
-      "url": "https://open.spotify.com/track/63G7gLGKES7Zfk928CqibP"
-    },
-    {
-      "added_at": "2025-12-29 02:43:14",
-      "album": {
         "name": "Sagittabondo",
         "url": "https://open.spotify.com/album/5xA0kiXHUSL1wFWY52fu5O"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 133500,
       "name": "Sagittabondo",
       "url": "https://open.spotify.com/track/6L73Pb4dv5p9OOlY1ja32c"
+    },
+    {
+      "added_at": "2025-12-29 02:43:14",
+      "album": {
+        "name": "Deck the Halls ~ Solo Piano Christmas",
+        "url": "https://open.spotify.com/album/4eTP9X1l4ipmAvTM283Ws2"
+      },
+      "artists": [
+        {
+          "name": "Brad Jacobsen",
+          "url": "https://open.spotify.com/artist/2qAOVsSeDczqT4oSWJ2q2s"
+        }
+      ],
+      "duration_ms": 220466,
+      "name": "Deck the Halls",
+      "url": "https://open.spotify.com/track/63G7gLGKES7Zfk928CqibP"
     },
     {
       "added_at": "2025-12-29 02:43:14",
@@ -575,22 +575,6 @@
     {
       "added_at": "2025-12-29 02:43:14",
       "album": {
-        "name": "My Foolishness",
-        "url": "https://open.spotify.com/album/6mC8hIINbPUwWGep08m1tZ"
-      },
-      "artists": [
-        {
-          "name": "Franck Byrne",
-          "url": "https://open.spotify.com/artist/7aRioiKpZ6nRpUIy5QgiDq"
-        }
-      ],
-      "duration_ms": 166187,
-      "name": "My Foolishness",
-      "url": "https://open.spotify.com/track/6igxnFJ8a6dkNxYgVVmKhe"
-    },
-    {
-      "added_at": "2025-12-29 02:43:14",
-      "album": {
         "name": "Dolce Far Niente",
         "url": "https://open.spotify.com/album/09UDHpQS7ti6T14R8i742n"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 118250,
       "name": "Quand vous souriez",
       "url": "https://open.spotify.com/track/3VM35337X7Ro1tesUHnZ95"
+    },
+    {
+      "added_at": "2025-12-29 02:43:14",
+      "album": {
+        "name": "My Foolishness",
+        "url": "https://open.spotify.com/album/6mC8hIINbPUwWGep08m1tZ"
+      },
+      "artists": [
+        {
+          "name": "Franck Byrne",
+          "url": "https://open.spotify.com/artist/7aRioiKpZ6nRpUIy5QgiDq"
+        }
+      ],
+      "duration_ms": 166187,
+      "name": "My Foolishness",
+      "url": "https://open.spotify.com/track/6igxnFJ8a6dkNxYgVVmKhe"
     },
     {
       "added_at": "2025-12-29 02:43:14",
@@ -687,22 +687,6 @@
     {
       "added_at": "2025-12-29 02:43:14",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/4zQTQk0p87RGaRujdSuUPk"
-      },
-      "artists": [
-        {
-          "name": "Joanna Vicente",
-          "url": "https://open.spotify.com/artist/6K04WF6ApF0TeMLB24fkfv"
-        }
-      ],
-      "duration_ms": 172522,
-      "name": "Feathers",
-      "url": "https://open.spotify.com/track/2yK3LNJFi8xUn3re8NnhYR"
-    },
-    {
-      "added_at": "2025-12-29 02:43:14",
-      "album": {
         "name": "Magnolia",
         "url": "https://open.spotify.com/album/7bnt53QjdwPCOI5h84nY2F"
       },
@@ -719,18 +703,18 @@
     {
       "added_at": "2025-12-29 02:43:14",
       "album": {
-        "name": "In The Stillness",
-        "url": "https://open.spotify.com/album/2wanBHLCktlor7jPK5mGnK"
+        "name": "Home",
+        "url": "https://open.spotify.com/album/4zQTQk0p87RGaRujdSuUPk"
       },
       "artists": [
         {
-          "name": "Ruben Galloway",
-          "url": "https://open.spotify.com/artist/1xmy0B8MRON38t6ujvnivX"
+          "name": "Joanna Vicente",
+          "url": "https://open.spotify.com/artist/6K04WF6ApF0TeMLB24fkfv"
         }
       ],
-      "duration_ms": 184389,
-      "name": "Grounded Mind",
-      "url": "https://open.spotify.com/track/0BgrLhir95Z6AmF3gzTCng"
+      "duration_ms": 172522,
+      "name": "Feathers",
+      "url": "https://open.spotify.com/track/2yK3LNJFi8xUn3re8NnhYR"
     },
     {
       "added_at": "2025-12-29 02:43:14",
@@ -751,6 +735,22 @@
     {
       "added_at": "2025-12-29 02:43:14",
       "album": {
+        "name": "A Gift To Share",
+        "url": "https://open.spotify.com/album/7iqgjaIRglpZ2H1tfqErfy"
+      },
+      "artists": [
+        {
+          "name": "Joni Bernier",
+          "url": "https://open.spotify.com/artist/0OFX9pzVpaZJd64GoemB3J"
+        }
+      ],
+      "duration_ms": 139500,
+      "name": "A Gift To Share",
+      "url": "https://open.spotify.com/track/1qfYCqVpMcuYLhyThCR7k6"
+    },
+    {
+      "added_at": "2025-12-29 02:43:14",
+      "album": {
         "name": "Nefelibata",
         "url": "https://open.spotify.com/album/5jBINfpl1J0tRvunNAxkOn"
       },
@@ -767,18 +767,18 @@
     {
       "added_at": "2025-12-29 02:43:14",
       "album": {
-        "name": "A Gift To Share",
-        "url": "https://open.spotify.com/album/7iqgjaIRglpZ2H1tfqErfy"
+        "name": "In The Stillness",
+        "url": "https://open.spotify.com/album/2wanBHLCktlor7jPK5mGnK"
       },
       "artists": [
         {
-          "name": "Joni Bernier",
-          "url": "https://open.spotify.com/artist/0OFX9pzVpaZJd64GoemB3J"
+          "name": "Ruben Galloway",
+          "url": "https://open.spotify.com/artist/1xmy0B8MRON38t6ujvnivX"
         }
       ],
-      "duration_ms": 139500,
-      "name": "A Gift To Share",
-      "url": "https://open.spotify.com/track/1qfYCqVpMcuYLhyThCR7k6"
+      "duration_ms": 184389,
+      "name": "Grounded Mind",
+      "url": "https://open.spotify.com/track/0BgrLhir95Z6AmF3gzTCng"
     },
     {
       "added_at": "2025-12-29 02:43:14",
@@ -871,22 +871,6 @@
     {
       "added_at": "2025-12-29 02:43:14",
       "album": {
-        "name": "\u00c8 ora di dormire",
-        "url": "https://open.spotify.com/album/5NxTeHSVaG6jklmvpabxKY"
-      },
-      "artists": [
-        {
-          "name": "Scintillante",
-          "url": "https://open.spotify.com/artist/0WRfsMbE1OBngUdyCgizs8"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "\u00c8 ora di dormire",
-      "url": "https://open.spotify.com/track/2dtIoZ0tJ3EH3EcxAkGNE8"
-    },
-    {
-      "added_at": "2025-12-29 02:43:14",
-      "album": {
         "name": "Head, Shoulders, Knees and Toes",
         "url": "https://open.spotify.com/album/5rE4lfeRFcZTHLKAYFOaPn"
       },
@@ -903,18 +887,18 @@
     {
       "added_at": "2025-12-29 02:43:14",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/4MoMbQvHxVBuBz7cr4GFBr"
+        "name": "\u00c8 ora di dormire",
+        "url": "https://open.spotify.com/album/5NxTeHSVaG6jklmvpabxKY"
       },
       "artists": [
         {
-          "name": "Serenity for Sleep",
-          "url": "https://open.spotify.com/artist/5xYUjljXN43W6WPIRmqYsV"
+          "name": "Scintillante",
+          "url": "https://open.spotify.com/artist/0WRfsMbE1OBngUdyCgizs8"
         }
       ],
-      "duration_ms": 282824,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/5WoomUQepLo07z51lEv8FH"
+      "duration_ms": 179000,
+      "name": "\u00c8 ora di dormire",
+      "url": "https://open.spotify.com/track/2dtIoZ0tJ3EH3EcxAkGNE8"
     },
     {
       "added_at": "2025-12-29 02:43:14",
@@ -931,6 +915,22 @@
       "duration_ms": 314447,
       "name": "some other time",
       "url": "https://open.spotify.com/track/4LgRqskD0OohOTxfZRqV8E"
+    },
+    {
+      "added_at": "2025-12-29 02:43:14",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/4MoMbQvHxVBuBz7cr4GFBr"
+      },
+      "artists": [
+        {
+          "name": "Serenity for Sleep",
+          "url": "https://open.spotify.com/artist/5xYUjljXN43W6WPIRmqYsV"
+        }
+      ],
+      "duration_ms": 282824,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/5WoomUQepLo07z51lEv8FH"
     },
     {
       "added_at": "2025-12-29 02:43:14",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2025-12-29 02:43:14",
       "album": {
-        "name": "Lib\u00e9lula",
-        "url": "https://open.spotify.com/album/42ZESTdaAFvHlErpRd2KzT"
-      },
-      "artists": [
-        {
-          "name": "Coralia del Villar",
-          "url": "https://open.spotify.com/artist/3gX9B2yu8e72aPFZTap45P"
-        }
-      ],
-      "duration_ms": 165500,
-      "name": "Lib\u00e9lula",
-      "url": "https://open.spotify.com/track/5EaqAJx6JpnQkJ7HM9X3hC"
-    },
-    {
-      "added_at": "2025-12-29 02:43:14",
-      "album": {
         "name": "A Place Like This",
         "url": "https://open.spotify.com/album/4xWZbCHQrhZqL3zqdNHJFy"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 121500,
       "name": "A Place Like This",
       "url": "https://open.spotify.com/track/40QoUnq2ZWMT04wEjDYMMp"
+    },
+    {
+      "added_at": "2025-12-29 02:43:14",
+      "album": {
+        "name": "Lib\u00e9lula",
+        "url": "https://open.spotify.com/album/42ZESTdaAFvHlErpRd2KzT"
+      },
+      "artists": [
+        {
+          "name": "Coralia del Villar",
+          "url": "https://open.spotify.com/artist/3gX9B2yu8e72aPFZTap45P"
+        }
+      ],
+      "duration_ms": 165500,
+      "name": "Lib\u00e9lula",
+      "url": "https://open.spotify.com/track/5EaqAJx6JpnQkJ7HM9X3hC"
     },
     {
       "added_at": "2025-12-29 02:43:14",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2025-12-29 02:43:14",
       "album": {
-        "name": "Stella's lullaby",
-        "url": "https://open.spotify.com/album/4Meb2u6sPmMfTHChqtN4M1"
-      },
-      "artists": [
-        {
-          "name": "Wendy Salisbury",
-          "url": "https://open.spotify.com/artist/2tP4FhLAccVfVh3vaL1Aek"
-        }
-      ],
-      "duration_ms": 145874,
-      "name": "Stella's lullaby",
-      "url": "https://open.spotify.com/track/01A0U3qOAyfbSfTVP0B0N4"
-    },
-    {
-      "added_at": "2025-12-29 02:43:14",
-      "album": {
         "name": "Dedicated To You",
         "url": "https://open.spotify.com/album/1d7Uj2w97J6ctIoXXAWxnP"
       },
@@ -1111,18 +1095,18 @@
     {
       "added_at": "2025-12-29 02:43:14",
       "album": {
-        "name": "Clear Day",
-        "url": "https://open.spotify.com/album/5HtvXqqcUvs57NdpHCPZwH"
+        "name": "Stella's lullaby",
+        "url": "https://open.spotify.com/album/4Meb2u6sPmMfTHChqtN4M1"
       },
       "artists": [
         {
-          "name": "Ima Rayner",
-          "url": "https://open.spotify.com/artist/5DN5SSVJ3DYAnbyzARxe6D"
+          "name": "Wendy Salisbury",
+          "url": "https://open.spotify.com/artist/2tP4FhLAccVfVh3vaL1Aek"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Clear Day",
-      "url": "https://open.spotify.com/track/3TFkBg4Ykbemy3QeIztw70"
+      "duration_ms": 145874,
+      "name": "Stella's lullaby",
+      "url": "https://open.spotify.com/track/01A0U3qOAyfbSfTVP0B0N4"
     },
     {
       "added_at": "2025-12-29 02:43:14",
@@ -1139,6 +1123,22 @@
       "duration_ms": 286750,
       "name": "It Never Entered My Mind",
       "url": "https://open.spotify.com/track/0t4r5IuT6FzrNGEEpCJmf9"
+    },
+    {
+      "added_at": "2025-12-29 02:43:14",
+      "album": {
+        "name": "Clear Day",
+        "url": "https://open.spotify.com/album/5HtvXqqcUvs57NdpHCPZwH"
+      },
+      "artists": [
+        {
+          "name": "Ima Rayner",
+          "url": "https://open.spotify.com/artist/5DN5SSVJ3DYAnbyzARxe6D"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Clear Day",
+      "url": "https://open.spotify.com/track/3TFkBg4Ykbemy3QeIztw70"
     },
     {
       "added_at": "2025-12-29 02:43:14",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2025-12-29 02:43:14",
       "album": {
-        "name": "Origins",
-        "url": "https://open.spotify.com/album/7fWiqtWkzxNvkuQU98Lh4A"
-      },
-      "artists": [
-        {
-          "name": "Ruben Galloway",
-          "url": "https://open.spotify.com/artist/1xmy0B8MRON38t6ujvnivX"
-        }
-      ],
-      "duration_ms": 202357,
-      "name": "The Inner World",
-      "url": "https://open.spotify.com/track/7epEaJZ5mRAZ4Mou1EvsAu"
-    },
-    {
-      "added_at": "2025-12-29 02:43:14",
-      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/4nVkpMo4vu96mvzWXtQt1t"
       },
@@ -1287,22 +1271,6 @@
     {
       "added_at": "2025-12-29 02:43:14",
       "album": {
-        "name": "Knowing Myself",
-        "url": "https://open.spotify.com/album/6l4uNwiLFEp6yV5MSZpMQB"
-      },
-      "artists": [
-        {
-          "name": "Bernstein Square",
-          "url": "https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK"
-        }
-      ],
-      "duration_ms": 142516,
-      "name": "Knowing Myself",
-      "url": "https://open.spotify.com/track/6jz8RHzqIWAcFeIsRjOH2x"
-    },
-    {
-      "added_at": "2025-12-29 02:43:14",
-      "album": {
         "name": "In The Dark Hours",
         "url": "https://open.spotify.com/album/6SLrMXGxgLi9VnJhn2QBNh"
       },
@@ -1315,6 +1283,38 @@
       "duration_ms": 175416,
       "name": "In The Dark Hours",
       "url": "https://open.spotify.com/track/0aTqLGkslmsvtW2DGpHG5Q"
+    },
+    {
+      "added_at": "2025-12-29 02:43:14",
+      "album": {
+        "name": "Origins",
+        "url": "https://open.spotify.com/album/7fWiqtWkzxNvkuQU98Lh4A"
+      },
+      "artists": [
+        {
+          "name": "Ruben Galloway",
+          "url": "https://open.spotify.com/artist/1xmy0B8MRON38t6ujvnivX"
+        }
+      ],
+      "duration_ms": 202357,
+      "name": "The Inner World",
+      "url": "https://open.spotify.com/track/7epEaJZ5mRAZ4Mou1EvsAu"
+    },
+    {
+      "added_at": "2025-12-29 02:43:14",
+      "album": {
+        "name": "Knowing Myself",
+        "url": "https://open.spotify.com/album/6l4uNwiLFEp6yV5MSZpMQB"
+      },
+      "artists": [
+        {
+          "name": "Bernstein Square",
+          "url": "https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK"
+        }
+      ],
+      "duration_ms": 142516,
+      "name": "Knowing Myself",
+      "url": "https://open.spotify.com/track/6jz8RHzqIWAcFeIsRjOH2x"
     },
     {
       "added_at": "2025-12-29 02:43:14",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2025-12-29 02:43:14",
       "album": {
+        "name": "Growing Old",
+        "url": "https://open.spotify.com/album/3Fx9b8ASGnjpx7YTpndoUS"
+      },
+      "artists": [
+        {
+          "name": "Ezequiel Johnson",
+          "url": "https://open.spotify.com/artist/6pwT3ISnLQAt2TV3vzIyfC"
+        }
+      ],
+      "duration_ms": 126250,
+      "name": "Growing Old",
+      "url": "https://open.spotify.com/track/34RaFwlrqyE7uOMrrqVre2"
+    },
+    {
+      "added_at": "2025-12-29 02:43:14",
+      "album": {
         "name": "Conversation",
         "url": "https://open.spotify.com/album/15dZOVU2WT5WKHXo2qdACs"
       },
@@ -1415,22 +1431,6 @@
     {
       "added_at": "2025-12-29 02:43:14",
       "album": {
-        "name": "Growing Old",
-        "url": "https://open.spotify.com/album/3Fx9b8ASGnjpx7YTpndoUS"
-      },
-      "artists": [
-        {
-          "name": "Ezequiel Johnson",
-          "url": "https://open.spotify.com/artist/6pwT3ISnLQAt2TV3vzIyfC"
-        }
-      ],
-      "duration_ms": 126250,
-      "name": "Growing Old",
-      "url": "https://open.spotify.com/track/34RaFwlrqyE7uOMrrqVre2"
-    },
-    {
-      "added_at": "2025-12-29 02:43:14",
-      "album": {
         "name": "Qu\u00e9rete a ti mesmo",
         "url": "https://open.spotify.com/album/4eSIWgY6NHWPhw46vMa4R6"
       },
@@ -1447,18 +1447,34 @@
     {
       "added_at": "2025-12-29 02:43:14",
       "album": {
-        "name": "I'll Never Be The Same",
-        "url": "https://open.spotify.com/album/40pvocPd4gZdOefaiJ0PUg"
+        "name": "Nocturne",
+        "url": "https://open.spotify.com/album/7b2fxYSSumh0ViCuTTUQOc"
       },
       "artists": [
         {
-          "name": "Algot Aelster",
-          "url": "https://open.spotify.com/artist/1CVWtR01ydG4BxbRKaAFEP"
+          "name": "Vincent Fanguro",
+          "url": "https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM"
         }
       ],
-      "duration_ms": 147436,
-      "name": "I'll Never Be The Same",
-      "url": "https://open.spotify.com/track/6zmqdPkbV4fn9IhWvoLPNY"
+      "duration_ms": 228038,
+      "name": "Peace Within",
+      "url": "https://open.spotify.com/track/1Wfu5TKZ6B6B7rkpIEmrUE"
+    },
+    {
+      "added_at": "2025-12-29 02:43:14",
+      "album": {
+        "name": "I Guess I'll Hang My Tears Out To Dry",
+        "url": "https://open.spotify.com/album/3ADezWHg1JFVlxcrTnvSQa"
+      },
+      "artists": [
+        {
+          "name": "Will Mays",
+          "url": "https://open.spotify.com/artist/4jx5IGq82FvwoaN7v0fTil"
+        }
+      ],
+      "duration_ms": 163126,
+      "name": "I Guess I'll Hang My Tears Out To Dry",
+      "url": "https://open.spotify.com/track/5qjvtdtsrrXo6Z6QvRknPZ"
     },
     {
       "added_at": "2025-12-29 02:43:14",
@@ -1487,54 +1503,6 @@
     {
       "added_at": "2025-12-29 02:43:14",
       "album": {
-        "name": "Nocturne",
-        "url": "https://open.spotify.com/album/7b2fxYSSumh0ViCuTTUQOc"
-      },
-      "artists": [
-        {
-          "name": "Vincent Fanguro",
-          "url": "https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM"
-        }
-      ],
-      "duration_ms": 228038,
-      "name": "Peace Within",
-      "url": "https://open.spotify.com/track/1Wfu5TKZ6B6B7rkpIEmrUE"
-    },
-    {
-      "added_at": "2025-12-29 02:43:14",
-      "album": {
-        "name": "Looking Forward, Looking Backward",
-        "url": "https://open.spotify.com/album/06NR2OTQUhdiltkVeGI50x"
-      },
-      "artists": [
-        {
-          "name": "Robin Bennich",
-          "url": "https://open.spotify.com/artist/1GfrQqvl1vPBIgZZJTDAvM"
-        }
-      ],
-      "duration_ms": 177875,
-      "name": "Looking Forward, Looking Backward",
-      "url": "https://open.spotify.com/track/3W67I10IdSjH3ViNhYzzZu"
-    },
-    {
-      "added_at": "2025-12-29 02:43:14",
-      "album": {
-        "name": "I Guess I'll Hang My Tears Out To Dry",
-        "url": "https://open.spotify.com/album/3ADezWHg1JFVlxcrTnvSQa"
-      },
-      "artists": [
-        {
-          "name": "Will Mays",
-          "url": "https://open.spotify.com/artist/4jx5IGq82FvwoaN7v0fTil"
-        }
-      ],
-      "duration_ms": 163126,
-      "name": "I Guess I'll Hang My Tears Out To Dry",
-      "url": "https://open.spotify.com/track/5qjvtdtsrrXo6Z6QvRknPZ"
-    },
-    {
-      "added_at": "2025-12-29 02:43:14",
-      "album": {
         "name": "Au revoir",
         "url": "https://open.spotify.com/album/3cLz9BiihAnWPt8KVw2ad3"
       },
@@ -1551,18 +1519,18 @@
     {
       "added_at": "2025-12-29 02:43:14",
       "album": {
-        "name": "Am I the Only One?",
-        "url": "https://open.spotify.com/album/7KMKbpIle3r1zVJJ1lliO9"
+        "name": "I'll Never Be The Same",
+        "url": "https://open.spotify.com/album/40pvocPd4gZdOefaiJ0PUg"
       },
       "artists": [
         {
-          "name": "Urskogen Jazz",
-          "url": "https://open.spotify.com/artist/7gaN9W8fBI9obJ9tMK1x0A"
+          "name": "Algot Aelster",
+          "url": "https://open.spotify.com/artist/1CVWtR01ydG4BxbRKaAFEP"
         }
       ],
-      "duration_ms": 161822,
-      "name": "Am I the Only One",
-      "url": "https://open.spotify.com/track/3pQ9yM5g3ad2tXEsiT5X0u"
+      "duration_ms": 147436,
+      "name": "I'll Never Be The Same",
+      "url": "https://open.spotify.com/track/6zmqdPkbV4fn9IhWvoLPNY"
     },
     {
       "added_at": "2025-12-29 02:43:14",
@@ -1595,6 +1563,38 @@
       "duration_ms": 163030,
       "name": "Valse De Beaufort",
       "url": "https://open.spotify.com/track/57cnKa2QfwxhWRY7ZiabvW"
+    },
+    {
+      "added_at": "2025-12-29 02:43:14",
+      "album": {
+        "name": "Am I the Only One?",
+        "url": "https://open.spotify.com/album/7KMKbpIle3r1zVJJ1lliO9"
+      },
+      "artists": [
+        {
+          "name": "Urskogen Jazz",
+          "url": "https://open.spotify.com/artist/7gaN9W8fBI9obJ9tMK1x0A"
+        }
+      ],
+      "duration_ms": 161822,
+      "name": "Am I the Only One",
+      "url": "https://open.spotify.com/track/3pQ9yM5g3ad2tXEsiT5X0u"
+    },
+    {
+      "added_at": "2025-12-29 02:43:14",
+      "album": {
+        "name": "Looking Forward, Looking Backward",
+        "url": "https://open.spotify.com/album/06NR2OTQUhdiltkVeGI50x"
+      },
+      "artists": [
+        {
+          "name": "Robin Bennich",
+          "url": "https://open.spotify.com/artist/1GfrQqvl1vPBIgZZJTDAvM"
+        }
+      ],
+      "duration_ms": 177875,
+      "name": "Looking Forward, Looking Backward",
+      "url": "https://open.spotify.com/track/3W67I10IdSjH3ViNhYzzZu"
     },
     {
       "added_at": "2025-12-29 02:43:14",

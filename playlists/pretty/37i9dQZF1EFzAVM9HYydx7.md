@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5OF1YU2YzcMyFem3Fi4M3E">Boi\-1da</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,008 likes - 307 songs - 18 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,009 likes - 307 songs - 18 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 40 | [Back To Sleep](https://open.spotify.com/track/6dlpABcXrQKRU9G00i6Zba) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Royalty \(Deluxe Version\)](https://open.spotify.com/album/0VWmEVuQ8tA5iA3cCTrgxa) | 3:21 |
 | 41 | [Real Friends](https://open.spotify.com/track/66Q3fAmSX5eHamgbKa9alP) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 4:11 |
 | 42 | [Run Me Dry](https://open.spotify.com/track/5GG3knKdxKWrNboRijxeKF) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [True to Self](https://open.spotify.com/album/7nn2Iaphg0Vc1NCGULkhVo) | 2:49 |
-| 43 | [CIVIL WAR \- Bonus](https://open.spotify.com/track/0IUgswE9wJaY4QIQZEDTKe) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [SHAKE THE SNOW GLOBE](https://open.spotify.com/album/2ZzatxW5gv1XZ0uai8TKxk) | 2:24 |
-| 44 | [Push Ups](https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Push Ups](https://open.spotify.com/album/06me0leRR3AuF4IFiEytml) | 3:52 |
+| 43 | [Push Ups](https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Push Ups](https://open.spotify.com/album/06me0leRR3AuF4IFiEytml) | 3:52 |
+| 44 | [CIVIL WAR \- Bonus](https://open.spotify.com/track/0IUgswE9wJaY4QIQZEDTKe) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [SHAKE THE SNOW GLOBE](https://open.spotify.com/album/2ZzatxW5gv1XZ0uai8TKxk) | 2:24 |
 | 45 | [Free Smoke](https://open.spotify.com/track/05KOgYg8PGeJyyWBPi5ja8) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [More Life](https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK) | 3:38 |
 | 46 | [Lemon Pepper Freestyle \(feat\. Rick Ross\)](https://open.spotify.com/track/4FRW5Nza1Ym91BGV4nFWXI) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Scary Hours 2](https://open.spotify.com/album/5LuoozUhs2pl3glZeAJl89) | 6:23 |
 | 47 | [Summer Sixteen](https://open.spotify.com/track/2ZRJRe82aZaVhOKKlbJr4v) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Summer Sixteen](https://open.spotify.com/album/0UWfsn9kLlH565DoEuvdtA) | 3:22 |
@@ -263,8 +263,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 253 | [Light Of My Soul](https://open.spotify.com/track/0vwt7L8myy4EIJDiHVMK0X) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ) | [We Only Talk About Real Shit When We're Fucked Up](https://open.spotify.com/album/3kXP7albhNo2neJAivDwxk) | 3:36 |
 | 254 | [It's Been a Pleasure](https://open.spotify.com/track/5AOb2Cwv3DJHmHaMSYa5m1) | [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Trill O.G.](https://open.spotify.com/album/6ikFBgbHUMhgUkRe1thKuD) | 5:45 |
 | 255 | [Married To The Game](https://open.spotify.com/track/723ghNyqqw0BVDq3kN47Dw) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Sam Hook](https://open.spotify.com/artist/224ycOSKcyYsp3bBZzExun), [DUBB](https://open.spotify.com/artist/6KAoJl1Kq41RruyHVkDKB4) | [Blood Moon: Year Of The Wolf \(Bonus Edition\)](https://open.spotify.com/album/2Mk8feYIuAIPbCQbxSAt0D) | 4:40 |
-| 256 | [My House](https://open.spotify.com/track/2hUV9lOrC6ul4p4WbgLneh) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Finally Famous \(Deluxe\)](https://open.spotify.com/album/19DGkH750PrQMMnKqBAxfY) | 3:33 |
-| 257 | [Burning Rubber](https://open.spotify.com/track/6rBxl8ZgnXCDZVhzLEBTAG) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [When I Was Dead](https://open.spotify.com/album/65SsQtOf5Cd25fanX62XRR) | 2:43 |
+| 256 | [Burning Rubber](https://open.spotify.com/track/6rBxl8ZgnXCDZVhzLEBTAG) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [When I Was Dead](https://open.spotify.com/album/65SsQtOf5Cd25fanX62XRR) | 2:43 |
+| 257 | [My House](https://open.spotify.com/track/2hUV9lOrC6ul4p4WbgLneh) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Finally Famous \(Deluxe\)](https://open.spotify.com/album/19DGkH750PrQMMnKqBAxfY) | 3:33 |
 | 258 | [Mo Milly](https://open.spotify.com/track/6NaY8IfAPu9qcIL8blwAZv) | [Birdman](https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO) | [Pricele$$](https://open.spotify.com/album/0ryXDRrtDUzddIDVcBwtXW) | 4:11 |
 | 259 | [Blasphemy](https://open.spotify.com/track/2Z3XXP7ibSjci6X3Ka44E0) | [Ray Vaughn](https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg) | [Blasphemy](https://open.spotify.com/album/5c04iQtkacRr05igSQg46z) | 2:50 |
 | 260 | [Set It Off](https://open.spotify.com/track/7ouXmLj4SCOIuIJDlbFnnx) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA), [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2) | [Not 4 Sale](https://open.spotify.com/album/3nlZ9m98yAvhzIvaF62tpq) | 4:37 |
@@ -316,4 +316,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 306 | [Love Me Til I Die](https://open.spotify.com/track/4GLENDZP3pxlrzpkQDITWt) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Talk A Good Game \(Deluxe Edition\)](https://open.spotify.com/album/2oPT6EoZENUaEzT03RoG6C) | 4:18 |
 | 307 | [Whatever Became Of You](https://open.spotify.com/track/1Ycr1YY3M9ITVVNhXIAp2J) | [Colin Munroe](https://open.spotify.com/artist/7IF7emaerV9vIoAjey6IHe) | [Unsung Hero](https://open.spotify.com/album/1UPa8cbZK9mpKAkG0tjJTi) | 4:46 |
 
-Snapshot ID: `AcFpGgAAAADDTKBN3hPbS7NdZvKk2fxV`
+Snapshot ID: `AcFuugAAAAA7YPbbSmV5KTpWxD2K6tD9`

@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHmkB2htnut.md) - [plain]
 | 93 | [Daffodils](https://open.spotify.com/track/6KbzHdUehItEUjJYAVYy5j) | [Rosse](https://open.spotify.com/artist/0rUWPf3mbRGeUusm1P3Z4i) | [Daffodils](https://open.spotify.com/album/6kGxq7A0BaPGLYX9MPracQ) | 2:55 |
 | 94 | [Don't Tell Me](https://open.spotify.com/track/5GNuzi2mSkuuOCrCjLSoWF) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Growing Pains](https://open.spotify.com/album/44k4i0meNs3Ug5F1iPnTcG) | 3:10 |
 | 95 | [Come Alive](https://open.spotify.com/track/7uT7BTOkJ40U3nsU2yWQST) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [Journey](https://open.spotify.com/album/1TXZLZHDHFSq0ckd8bZoIh) | 3:11 |
-| 96 | [Don't](https://open.spotify.com/track/10RehYr3Ci6jeCwwzlwtvC) | [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5) | [Don't](https://open.spotify.com/album/4HdVwH0GL9t4eQZaxAPc3x) | 2:48 |
-| 97 | [The Sound of Being Alone](https://open.spotify.com/track/7BtLqIGu2oP1UQMggGSoeL) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Masquerades](https://open.spotify.com/album/74IIdAb1cuNaUN3wWUm4eJ) | 3:36 |
+| 96 | [The Sound of Being Alone](https://open.spotify.com/track/7BtLqIGu2oP1UQMggGSoeL) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Masquerades](https://open.spotify.com/album/74IIdAb1cuNaUN3wWUm4eJ) | 3:36 |
+| 97 | [Don't](https://open.spotify.com/track/10RehYr3Ci6jeCwwzlwtvC) | [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5) | [Don't](https://open.spotify.com/album/4HdVwH0GL9t4eQZaxAPc3x) | 2:48 |
 | 98 | [Blondie](https://open.spotify.com/track/0EPjScjJ9NO030XA0Etzi8) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Crossing More Than City Lines](https://open.spotify.com/album/7KIPA6botKqAyQWwX8jeDb) | 3:13 |
 | 99 | [WHAT I THINK I WANT](https://open.spotify.com/track/2hqAeji1pyK2xcFK1afU4q) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Make Yourself At Home](https://open.spotify.com/album/46jHQdOJZaEaunUrtYEqD1) | 3:05 |
 | 100 | [magic](https://open.spotify.com/track/5sKOusTK8cOTX26ued359I) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [the love myself collection](https://open.spotify.com/album/3bCpWVnEKSaGWcEBblSzBC) | 3:09 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHmkB2htnut.md) - [plain]
 | 114 | [You Don't Cross My Mind](https://open.spotify.com/track/1EuOCEo4KS803rI8seoVOM) | [Ghosthood](https://open.spotify.com/artist/09Z9ELukzMBGYvy2D25odv) | [You Don't Cross My Mind](https://open.spotify.com/album/5iGFfwsCQTNQAZAfdk6ed3) | 3:19 |
 | 115 | [Father Figures](https://open.spotify.com/track/4w89MHljpE4zRSvpYkcR4q) | [Katie Pearlman](https://open.spotify.com/artist/1Q9KyQkc3vODeRt9OfItxl) | [Fumbling Towards Glory](https://open.spotify.com/album/7KjVbqjQkPKyiLuBEVZabb) | 3:46 |
 
-Snapshot ID: `AcFpBgAAAAB7q1Y09opm0txYAlD6w9Ug`
+Snapshot ID: `AcFupgAAAACeyasZj1LYJHOlkc0PUf8d`

@@ -1,6 +1,6 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Rosa de Saron",
-  "num_followers": 148346,
+  "num_followers": 148368,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
@@ -591,6 +591,26 @@
     {
       "added_at": "2025-10-24 18:38:07",
       "album": {
+        "name": "Me Fez Vivo (feat. Fernandinho)",
+        "url": "https://open.spotify.com/album/5Yn06GwEq0Hw94wgPG0U8f"
+      },
+      "artists": [
+        {
+          "name": "Arianne",
+          "url": "https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1"
+        },
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "duration_ms": 241088,
+      "name": "Me Fez Vivo (feat. Fernandinho)",
+      "url": "https://open.spotify.com/track/2HLKpvgRATKtf1KA9lrcGg"
+    },
+    {
+      "added_at": "2025-10-24 18:38:07",
+      "album": {
         "name": "Leva-Me Al\u00e9m (One ao Vivo)",
         "url": "https://open.spotify.com/album/1yXUH8hiDcbLrN2XW4Zy1L"
       },
@@ -611,26 +631,6 @@
       "duration_ms": 180800,
       "name": "Leva-Me Al\u00e9m (One ao Vivo)",
       "url": "https://open.spotify.com/track/2LmzLMFSiMt8tLJyxhqnPJ"
-    },
-    {
-      "added_at": "2025-10-24 18:38:07",
-      "album": {
-        "name": "Me Fez Vivo (feat. Fernandinho)",
-        "url": "https://open.spotify.com/album/5Yn06GwEq0Hw94wgPG0U8f"
-      },
-      "artists": [
-        {
-          "name": "Arianne",
-          "url": "https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1"
-        },
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        }
-      ],
-      "duration_ms": 241088,
-      "name": "Me Fez Vivo (feat. Fernandinho)",
-      "url": "https://open.spotify.com/track/2HLKpvgRATKtf1KA9lrcGg"
     },
     {
       "added_at": "2025-10-24 18:38:07",

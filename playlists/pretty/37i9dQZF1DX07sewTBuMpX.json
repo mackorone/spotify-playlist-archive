@@ -1,6 +1,6 @@
 {
   "description": "De beste tunes op repeat. Cover: Jonna Fraser & Lil Kleine",
-  "num_followers": 140481,
+  "num_followers": 140482,
   "original_name": "Pull Up Hits",
   "owner": {
     "name": "Spotify",
@@ -575,30 +575,6 @@
     {
       "added_at": "2025-12-10 23:00:04",
       "album": {
-        "name": "Hit me up (feat. Chavant\u00e9 & Kleine John)",
-        "url": "https://open.spotify.com/album/7FSH6pSfUO5wCZpFnszXV1"
-      },
-      "artists": [
-        {
-          "name": "KATNUF",
-          "url": "https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo"
-        },
-        {
-          "name": "Chavant\u00e9",
-          "url": "https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN"
-        },
-        {
-          "name": "Kleine John",
-          "url": "https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M"
-        }
-      ],
-      "duration_ms": 152615,
-      "name": "Hit me up (feat. Chavant\u00e9 & Kleine John)",
-      "url": "https://open.spotify.com/track/4IunKjJY3tOuERmzYufNcL"
-    },
-    {
-      "added_at": "2025-12-10 23:00:04",
-      "album": {
         "name": "SINGLE",
         "url": "https://open.spotify.com/album/4iywKALSrsrGpZZrRug2G5"
       },
@@ -635,6 +611,30 @@
       "duration_ms": 177758,
       "name": "Matcha Coco",
       "url": "https://open.spotify.com/track/2LddWQtqjD4ORObbXr9pKX"
+    },
+    {
+      "added_at": "2025-12-10 23:00:04",
+      "album": {
+        "name": "Hit me up (feat. Chavant\u00e9 & Kleine John)",
+        "url": "https://open.spotify.com/album/7FSH6pSfUO5wCZpFnszXV1"
+      },
+      "artists": [
+        {
+          "name": "KATNUF",
+          "url": "https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo"
+        },
+        {
+          "name": "Chavant\u00e9",
+          "url": "https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN"
+        },
+        {
+          "name": "Kleine John",
+          "url": "https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M"
+        }
+      ],
+      "duration_ms": 152615,
+      "name": "Hit me up (feat. Chavant\u00e9 & Kleine John)",
+      "url": "https://open.spotify.com/track/4IunKjJY3tOuERmzYufNcL"
     },
     {
       "added_at": "2025-12-10 23:00:04",
@@ -855,6 +855,22 @@
     {
       "added_at": "2025-12-10 23:00:04",
       "album": {
+        "name": "yawa",
+        "url": "https://open.spotify.com/album/3x4uU6LegVMe04Dn5fLiLw"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "yawa",
+      "url": "https://open.spotify.com/track/5tM3Fo4qBqDAwWJ9ZY5AtX"
+    },
+    {
+      "added_at": "2025-12-10 23:00:04",
+      "album": {
         "name": "The Baddest",
         "url": "https://open.spotify.com/album/7KPEH7yiNZ3qDFcozl1xTV"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 171533,
       "name": "The Baddest",
       "url": "https://open.spotify.com/track/5L5wa7XXoPrleRSuwBiHHR"
-    },
-    {
-      "added_at": "2025-12-10 23:00:04",
-      "album": {
-        "name": "yawa",
-        "url": "https://open.spotify.com/album/3x4uU6LegVMe04Dn5fLiLw"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "yawa",
-      "url": "https://open.spotify.com/track/5tM3Fo4qBqDAwWJ9ZY5AtX"
     },
     {
       "added_at": "2025-12-10 23:00:04",
@@ -959,22 +959,6 @@
     {
       "added_at": "2025-12-10 23:00:04",
       "album": {
-        "name": "Luv Again",
-        "url": "https://open.spotify.com/album/1BmGUnyQvlpEQaaUe47NJv"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 220606,
-      "name": "Luv Again",
-      "url": "https://open.spotify.com/track/0BlBcMUDVI68fwwNGulSGM"
-    },
-    {
-      "added_at": "2025-12-10 23:00:04",
-      "album": {
         "name": "Ben Met SRNO",
         "url": "https://open.spotify.com/album/5b77xXOGpcgfaoHvsGVbOs"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 150822,
       "name": "Ben Met SRNO",
       "url": "https://open.spotify.com/track/75gHd5DLUJraDEGuQukMsK"
+    },
+    {
+      "added_at": "2025-12-10 23:00:04",
+      "album": {
+        "name": "Luv Again",
+        "url": "https://open.spotify.com/album/1BmGUnyQvlpEQaaUe47NJv"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 220606,
+      "name": "Luv Again",
+      "url": "https://open.spotify.com/track/0BlBcMUDVI68fwwNGulSGM"
     },
     {
       "added_at": "2025-12-10 23:00:04",
@@ -1419,26 +1419,18 @@
     {
       "added_at": "2025-12-10 23:00:04",
       "album": {
-        "name": "Your Season",
-        "url": "https://open.spotify.com/album/2phKukvQnrMswlIL3RN2zy"
+        "name": "OHMA TOKITA",
+        "url": "https://open.spotify.com/album/08ngK9hoKWoBwtAPyayULJ"
       },
       "artists": [
         {
-          "name": "KM",
-          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
-        },
-        {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
-        },
-        {
-          "name": "SRNO",
-          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
         }
       ],
-      "duration_ms": 152000,
-      "name": "Your Season",
-      "url": "https://open.spotify.com/track/7n2YVNWeogHCBfJWMmf0JU"
+      "duration_ms": 135257,
+      "name": "OHMA TOKITA",
+      "url": "https://open.spotify.com/track/5jQBF7AGXs46PukINrLLng"
     },
     {
       "added_at": "2025-12-10 23:00:04",
@@ -1463,18 +1455,26 @@
     {
       "added_at": "2025-12-10 23:00:04",
       "album": {
-        "name": "OHMA TOKITA",
-        "url": "https://open.spotify.com/album/08ngK9hoKWoBwtAPyayULJ"
+        "name": "Your Season",
+        "url": "https://open.spotify.com/album/2phKukvQnrMswlIL3RN2zy"
       },
       "artists": [
         {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
+        },
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        },
+        {
+          "name": "SRNO",
+          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
         }
       ],
-      "duration_ms": 135257,
-      "name": "OHMA TOKITA",
-      "url": "https://open.spotify.com/track/5jQBF7AGXs46PukINrLLng"
+      "duration_ms": 152000,
+      "name": "Your Season",
+      "url": "https://open.spotify.com/track/7n2YVNWeogHCBfJWMmf0JU"
     },
     {
       "added_at": "2025-12-10 23:00:04",
@@ -1515,30 +1515,6 @@
       "duration_ms": 194347,
       "name": "Ik Heb Je (met Henkie T & Yssi SB)",
       "url": "https://open.spotify.com/track/1RwzHr1ViMmmauoz3G2sWn"
-    },
-    {
-      "added_at": "2025-12-10 23:00:04",
-      "album": {
-        "name": "Zonder Mij",
-        "url": "https://open.spotify.com/album/5F7mnnPZ6eMoE1KCZsMnA3"
-      },
-      "artists": [
-        {
-          "name": "Kleine John",
-          "url": "https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M"
-        },
-        {
-          "name": "Yxng Le",
-          "url": "https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa"
-        },
-        {
-          "name": "KM",
-          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
-        }
-      ],
-      "duration_ms": 203338,
-      "name": "Zonder Mij",
-      "url": "https://open.spotify.com/track/6Fws1gQYhr2S71ANIgzUxv"
     },
     {
       "added_at": "2025-12-10 23:00:04",
@@ -1595,6 +1571,30 @@
     {
       "added_at": "2025-12-10 23:00:04",
       "album": {
+        "name": "Zonder Mij",
+        "url": "https://open.spotify.com/album/5F7mnnPZ6eMoE1KCZsMnA3"
+      },
+      "artists": [
+        {
+          "name": "Kleine John",
+          "url": "https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M"
+        },
+        {
+          "name": "Yxng Le",
+          "url": "https://open.spotify.com/artist/3Ptyea6E1lJgg6W64f0OQa"
+        },
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
+        }
+      ],
+      "duration_ms": 203338,
+      "name": "Zonder Mij",
+      "url": "https://open.spotify.com/track/6Fws1gQYhr2S71ANIgzUxv"
+    },
+    {
+      "added_at": "2025-12-10 23:00:04",
+      "album": {
         "name": "Deim Van Je",
         "url": "https://open.spotify.com/album/4t4eaa2CdjvOj0E0ojRqZu"
       },
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2025-12-10 23:00:04",
       "album": {
-        "name": "Love = Scary",
-        "url": "https://open.spotify.com/album/34mLUrlEQ8vjRYyDAXT4A8"
-      },
-      "artists": [
-        {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
-        }
-      ],
-      "duration_ms": 147090,
-      "name": "Love = Scary",
-      "url": "https://open.spotify.com/track/39gFgXRPPZjv8HebmbT6rW"
-    },
-    {
-      "added_at": "2025-12-10 23:00:04",
-      "album": {
         "name": "Wild West",
         "url": "https://open.spotify.com/album/6O6dmpJvHCCXp06tK1MjSw"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 161901,
       "name": "Wild West",
       "url": "https://open.spotify.com/track/2CYGxsaBYLQFV0AeesbsmP"
+    },
+    {
+      "added_at": "2025-12-10 23:00:04",
+      "album": {
+        "name": "Love = Scary",
+        "url": "https://open.spotify.com/album/34mLUrlEQ8vjRYyDAXT4A8"
+      },
+      "artists": [
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        }
+      ],
+      "duration_ms": 147090,
+      "name": "Love = Scary",
+      "url": "https://open.spotify.com/track/39gFgXRPPZjv8HebmbT6rW"
     },
     {
       "added_at": "2025-12-10 23:00:04",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2025-12-10 23:00:04",
       "album": {
-        "name": "Ik Kijk Soms Naar Jou",
-        "url": "https://open.spotify.com/album/3GjyYmdr4NyQStCXM3iyWx"
-      },
-      "artists": [
-        {
-          "name": "Mula B",
-          "url": "https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi"
-        }
-      ],
-      "duration_ms": 182621,
-      "name": "Ik Kijk Soms Naar Jou",
-      "url": "https://open.spotify.com/track/7jBqqJNT5aOCkuyvrd7scH"
-    },
-    {
-      "added_at": "2025-12-10 23:00:04",
-      "album": {
         "name": "Bon Mij",
         "url": "https://open.spotify.com/album/1yMLdQ7qZu26m6wy0cKJ6a"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 151874,
       "name": "Bon Mij",
       "url": "https://open.spotify.com/track/2OYXPbWNIJjS5Um0iviIdM"
+    },
+    {
+      "added_at": "2025-12-10 23:00:04",
+      "album": {
+        "name": "Ik Kijk Soms Naar Jou",
+        "url": "https://open.spotify.com/album/3GjyYmdr4NyQStCXM3iyWx"
+      },
+      "artists": [
+        {
+          "name": "Mula B",
+          "url": "https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi"
+        }
+      ],
+      "duration_ms": 182621,
+      "name": "Ik Kijk Soms Naar Jou",
+      "url": "https://open.spotify.com/track/7jBqqJNT5aOCkuyvrd7scH"
     },
     {
       "added_at": "2025-12-10 23:00:04",

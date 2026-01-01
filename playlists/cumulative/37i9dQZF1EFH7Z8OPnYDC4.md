@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1pTbqkP3uq7DV5ytFGYR8N">Richard Rodgers \(of Rodgers & Hammerstein\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-377 songs - 22 hr 17 min
+378 songs - 22 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,8 @@
 | [Fire on the Waters \- 1992 Remastered](https://open.spotify.com/track/0jnAPmfu7nuKIi1xWilUFv) | [Richard Rodgers](https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP), [Robert Russell Bennett](https://open.spotify.com/artist/52SryVadriXLIyUJx3pU9Q) | [Victory At Sea](https://open.spotify.com/album/4SOKN30TAd2xSUdimFLDXd) | 5:57 | 2024-07-26 |  |
 | [Follow In Our Footsteps](https://open.spotify.com/track/5n3F5Q9Ywh5bG877yd4UAL) | [Ed Ames](https://open.spotify.com/artist/1iBpJEBrSFXCtPOc5OUZiY) | [Androcles and the Lion \(Original Television Cast\)](https://open.spotify.com/album/6h9yC6xpnpkHi0vzhUw6cA) | 1:52 | 2024-07-26 |  |
 | [From Afar](https://open.spotify.com/track/7lV93cvaU5RjR3BaxYgUQS) | [Nicol Williamson](https://open.spotify.com/artist/40RoUcmgirwMpNr79bUwU8) | [Rex \(Original Broadway Cast Recording\)](https://open.spotify.com/album/6z1H2CTrJBa4w1xBY7nccz) | 3:05 | 2024-07-26 |  |
-| [From an Other World \(feat\. Vikter Duplaix\)](https://open.spotify.com/track/2DvgcVAZ7VWoepzFHpRJKf) | [Boddhi Satva](https://open.spotify.com/artist/1f1bsto5CRaRaaGkZvvjOn) | [Jazzin' Graffiti \- Midnight Blue Jazz \-](https://open.spotify.com/album/7fVUQiJBE3Ut9WK5IsmOqq) | 4:52 | 2024-07-26 |  |
+| [From an Other World \(feat\. Vikter Duplaix\)](https://open.spotify.com/track/2DvgcVAZ7VWoepzFHpRJKf) | [Boddhi Satva](https://open.spotify.com/artist/1f1bsto5CRaRaaGkZvvjOn) | [Jazzin' Graffiti \- Midnight Blue Jazz \-](https://open.spotify.com/album/7fVUQiJBE3Ut9WK5IsmOqq) | 4:52 | 2024-07-26 | 2026-01-01 |
+| [From Another World](https://open.spotify.com/track/0lSWrViRlGMFF3veICVHg8) | [Mildred Bailey](https://open.spotify.com/artist/0LyTHMstvqKiSoqdnnjqix) | [The Complete Columbia Recording Sessions, Vol\. 3 \- 1938\-1942](https://open.spotify.com/album/6ZZyhRKN0R2N9GL6lk8RRo) | 2:44 | 2025-12-31 |  |
 | [Full Fathom Five](https://open.spotify.com/track/4dpPmFJp24qMhdkBeaYzTM) | [Robert Russell Bennett](https://open.spotify.com/artist/52SryVadriXLIyUJx3pU9Q) | [Victory At Sea, Vol\. 3](https://open.spotify.com/album/6LXxzBOThAxE9FfhL3Fq4g) | 7:01 | 2024-07-26 | 2025-07-09 |
 | [Full Fathom Five \- 1992 Remastered](https://open.spotify.com/track/3C1lU6T1DTcvxvGj5W6svi) | [Robert Russell Bennett](https://open.spotify.com/artist/52SryVadriXLIyUJx3pU9Q), [Richard Rodgers](https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP) | [More Victory At Sea](https://open.spotify.com/album/6hla3dU1TefIfcAJpIC3MY) | 7:08 | 2024-07-26 |  |
 | [Full Fathom Five \- Remastered](https://open.spotify.com/track/6OKPd4kzekTasG2REGgj3J) | [Richard Rodgers](https://open.spotify.com/artist/4IbAZwt75dpehMOgcC3GnP) | [Victory At Sea \(Deluxe Edition\) \[Remastered\]](https://open.spotify.com/album/1iejuWUyIvogP7Zmw6XPEt) | 7:09 | 2025-07-08 | 2025-07-10 |

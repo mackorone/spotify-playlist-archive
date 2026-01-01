@@ -1,12 +1,12 @@
 {
   "description": "This is Los Primos del Este. The essential tracks, all in one playlist.",
-  "num_followers": 8957,
+  "num_followers": 8961,
   "original_name": "This Is Los Primos del Este",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVHEgAAAAACPJqXor636J+T18Yl9N6ax",
+  "snapshot_id": "aVMWAAAAAADU4FnwfGJsZSDjKYz+di82",
   "tracks": [
     {
       "added_at": null,
@@ -167,8 +167,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luna De Miel",
-        "url": "https://open.spotify.com/album/0rNBpiw8fHCsqGb9fJXAUq"
+        "name": "Bandido",
+        "url": "https://open.spotify.com/album/72dpueKPayWOlGcCgWr3g5"
       },
       "artists": [
         {
@@ -176,13 +176,13 @@
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         },
         {
-          "name": "Officialalex425",
-          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
+          "name": "Oscar Ortiz",
+          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
         }
       ],
-      "duration_ms": 198639,
-      "name": "Baby (Version Norte\u00f1a)",
-      "url": "https://open.spotify.com/track/7L5f1cWtVCeVn128pwTt5b"
+      "duration_ms": 148088,
+      "name": "Bandido",
+      "url": "https://open.spotify.com/track/7wgQC3zvKtEmOhzV7FnK37"
     },
     {
       "added_at": null,
@@ -203,6 +203,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Luna De Miel",
+        "url": "https://open.spotify.com/album/0rNBpiw8fHCsqGb9fJXAUq"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        },
+        {
+          "name": "Officialalex425",
+          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
+        }
+      ],
+      "duration_ms": 198639,
+      "name": "Baby (Version Norte\u00f1a)",
+      "url": "https://open.spotify.com/track/7L5f1cWtVCeVn128pwTt5b"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Amor De Lejos",
         "url": "https://open.spotify.com/album/6yTpeJC36PW6nAflA8Njb7"
       },
@@ -219,26 +239,6 @@
       "duration_ms": 188888,
       "name": "3 AM",
       "url": "https://open.spotify.com/track/5s2hpDWU8kssotugbMd1ho"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bandido",
-        "url": "https://open.spotify.com/album/72dpueKPayWOlGcCgWr3g5"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        },
-        {
-          "name": "Oscar Ortiz",
-          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
-        }
-      ],
-      "duration_ms": 148088,
-      "name": "Bandido",
-      "url": "https://open.spotify.com/track/7wgQC3zvKtEmOhzV7FnK37"
     },
     {
       "added_at": null,

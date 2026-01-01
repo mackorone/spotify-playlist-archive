@@ -1,12 +1,12 @@
 {
   "description": "This is Trivium. The essential tracks, all in one playlist.",
-  "num_followers": 86047,
+  "num_followers": 86049,
   "original_name": "This Is Trivium",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVHEgAAAAAC9R+YuV1qoTEu3XV77EvNH",
+  "snapshot_id": "aVMWAAAAAAA/YggDUKGJNPa37RGl1Szg",
   "tracks": [
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "What The Dead Men Say",
-        "url": "https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 228926,
-      "name": "Bleed Into Me",
-      "url": "https://open.spotify.com/track/63AK4XR008a8GevrN4Ei5m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In The Court Of The Dragon",
         "url": "https://open.spotify.com/album/0mrtkWYrUzTuFwyiiQPdQs"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 335792,
       "name": "A Crisis Of Revelation",
       "url": "https://open.spotify.com/track/07ELgtGISbYc3CavN1AcfX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What The Dead Men Say",
+        "url": "https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 228926,
+      "name": "Bleed Into Me",
+      "url": "https://open.spotify.com/track/63AK4XR008a8GevrN4Ei5m"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shogun (Special Edition)",
-        "url": "https://open.spotify.com/album/0kIXzVzbFuUf5kxM8US67m"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 714986,
-      "name": "Shogun",
-      "url": "https://open.spotify.com/track/5FaEX9EwutRqVvOZsJ27G3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Losing My Religion",
         "url": "https://open.spotify.com/album/6oRydz4vuNsUY0y1NlmOmR"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 281781,
       "name": "Losing My Religion",
       "url": "https://open.spotify.com/track/4nvffGMrhZMK6DXCdNieys"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shogun (Special Edition)",
+        "url": "https://open.spotify.com/album/0kIXzVzbFuUf5kxM8US67m"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "duration_ms": 714986,
+      "name": "Shogun",
+      "url": "https://open.spotify.com/track/5FaEX9EwutRqVvOZsJ27G3"
     },
     {
       "added_at": null,

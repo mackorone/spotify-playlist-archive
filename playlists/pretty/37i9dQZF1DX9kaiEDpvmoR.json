@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 93755,
+  "num_followers": 93756,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,6 @@
     {
       "added_at": "2025-12-26 00:00:19",
       "album": {
-        "name": "Stronger Than",
-        "url": "https://open.spotify.com/album/2iIYVdrZn9vOhbBToT0Sgo"
-      },
-      "artists": [
-        {
-          "name": "The Ark",
-          "url": "https://open.spotify.com/artist/73ib5ljBj2xAIR7R3hTwF4"
-        }
-      ],
-      "duration_ms": 188493,
-      "name": "Stronger Than",
-      "url": "https://open.spotify.com/track/0CX9PobBmUhcGriDq8fDMo"
-    },
-    {
-      "added_at": "2025-12-26 00:00:19",
-      "album": {
         "name": "AND THEN, FROM THE SHADOWS - EP",
         "url": "https://open.spotify.com/album/0wZLxZ9Y3IbCvuMiPssrbA"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 172874,
       "name": "EXISTENS",
       "url": "https://open.spotify.com/track/1HQnWOBDLYgRpHRc0YvQBo"
+    },
+    {
+      "added_at": "2025-12-26 00:00:19",
+      "album": {
+        "name": "Stronger Than",
+        "url": "https://open.spotify.com/album/2iIYVdrZn9vOhbBToT0Sgo"
+      },
+      "artists": [
+        {
+          "name": "The Ark",
+          "url": "https://open.spotify.com/artist/73ib5ljBj2xAIR7R3hTwF4"
+        }
+      ],
+      "duration_ms": 188493,
+      "name": "Stronger Than",
+      "url": "https://open.spotify.com/track/0CX9PobBmUhcGriDq8fDMo"
     },
     {
       "added_at": "2025-12-26 00:00:19",
@@ -555,22 +555,6 @@
     {
       "added_at": "2025-12-26 00:00:19",
       "album": {
-        "name": "Satanized",
-        "url": "https://open.spotify.com/album/47DIJNO8Fgzi9ptduzI7R2"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 236794,
-      "name": "Satanized",
-      "url": "https://open.spotify.com/track/3UAQ7gQc2O3B40M4XrEgpT"
-    },
-    {
-      "added_at": "2025-12-26 00:00:19",
-      "album": {
         "name": "Inte som alla andra, precis som alla andra (feat. Joakim Berg)",
         "url": "https://open.spotify.com/album/6kMOJcNPk2df3WnSeKpuQD"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 270875,
       "name": "Inte som alla andra, precis som alla andra (feat. Joakim Berg)",
       "url": "https://open.spotify.com/track/0BJotiVMsdxDSC7HfyitNP"
+    },
+    {
+      "added_at": "2025-12-26 00:00:19",
+      "album": {
+        "name": "Satanized",
+        "url": "https://open.spotify.com/album/47DIJNO8Fgzi9ptduzI7R2"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 236794,
+      "name": "Satanized",
+      "url": "https://open.spotify.com/track/3UAQ7gQc2O3B40M4XrEgpT"
     },
     {
       "added_at": "2025-12-26 00:00:19",
@@ -707,38 +707,6 @@
     {
       "added_at": "2025-12-26 00:00:19",
       "album": {
-        "name": "Jag \u00c4r",
-        "url": "https://open.spotify.com/album/5NEqWuMn9w5H0VVxg7gwnB"
-      },
-      "artists": [
-        {
-          "name": "Laleh",
-          "url": "https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq"
-        }
-      ],
-      "duration_ms": 183160,
-      "name": "Magk\u00e4nsla",
-      "url": "https://open.spotify.com/track/4IR5XlkrTU0MIqYvm35gLd"
-    },
-    {
-      "added_at": "2025-12-26 00:00:19",
-      "album": {
-        "name": "Den k\u00e4nslan",
-        "url": "https://open.spotify.com/album/3muDr0rYaowGQhYjKE4ol2"
-      },
-      "artists": [
-        {
-          "name": "Linnea Henriksson",
-          "url": "https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq"
-        }
-      ],
-      "duration_ms": 166963,
-      "name": "Den k\u00e4nslan",
-      "url": "https://open.spotify.com/track/3WlFsQdH5zExoJ5TvmIVhz"
-    },
-    {
-      "added_at": "2025-12-26 00:00:19",
-      "album": {
         "name": "St\u00f6rst av allt",
         "url": "https://open.spotify.com/album/6vCVuDJ5q7IFz524YMQolr"
       },
@@ -759,18 +727,34 @@
     {
       "added_at": "2025-12-26 00:00:19",
       "album": {
-        "name": "Vinterdvala",
-        "url": "https://open.spotify.com/album/7tFW0uJ4oyt8UREWMTELil"
+        "name": "Den k\u00e4nslan",
+        "url": "https://open.spotify.com/album/3muDr0rYaowGQhYjKE4ol2"
       },
       "artists": [
         {
-          "name": "Jens Hult",
-          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
+          "name": "Linnea Henriksson",
+          "url": "https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq"
         }
       ],
-      "duration_ms": 209118,
-      "name": "Vinterdvala",
-      "url": "https://open.spotify.com/track/15m0aSqZpng1QIfNkKHTi1"
+      "duration_ms": 166963,
+      "name": "Den k\u00e4nslan",
+      "url": "https://open.spotify.com/track/3WlFsQdH5zExoJ5TvmIVhz"
+    },
+    {
+      "added_at": "2025-12-26 00:00:19",
+      "album": {
+        "name": "Jag \u00c4r",
+        "url": "https://open.spotify.com/album/5NEqWuMn9w5H0VVxg7gwnB"
+      },
+      "artists": [
+        {
+          "name": "Laleh",
+          "url": "https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq"
+        }
+      ],
+      "duration_ms": 183160,
+      "name": "Magk\u00e4nsla",
+      "url": "https://open.spotify.com/track/4IR5XlkrTU0MIqYvm35gLd"
     },
     {
       "added_at": "2025-12-26 00:00:19",
@@ -787,6 +771,22 @@
       "duration_ms": 283480,
       "name": "Sweethearts",
       "url": "https://open.spotify.com/track/46pBokNsBdfRifhtpWHkhC"
+    },
+    {
+      "added_at": "2025-12-26 00:00:19",
+      "album": {
+        "name": "Vinterdvala",
+        "url": "https://open.spotify.com/album/7tFW0uJ4oyt8UREWMTELil"
+      },
+      "artists": [
+        {
+          "name": "Jens Hult",
+          "url": "https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu"
+        }
+      ],
+      "duration_ms": 209118,
+      "name": "Vinterdvala",
+      "url": "https://open.spotify.com/track/15m0aSqZpng1QIfNkKHTi1"
     },
     {
       "added_at": "2025-12-26 00:00:19",
@@ -847,18 +847,18 @@
     {
       "added_at": "2025-12-26 00:00:19",
       "album": {
-        "name": "Greczula",
-        "url": "https://open.spotify.com/album/35buME4leeedtOi2bB3pEZ"
+        "name": "Bastard",
+        "url": "https://open.spotify.com/album/6PLulYvcgXjXRHPKaaGoc5"
       },
       "artists": [
         {
-          "name": "Greczula",
-          "url": "https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4"
+          "name": "Markus Kruneg\u00e5rd",
+          "url": "https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe"
         }
       ],
-      "duration_ms": 166451,
-      "name": "All The Things That I Am",
-      "url": "https://open.spotify.com/track/6NgWT6JeT2ph0giyZG19zZ"
+      "duration_ms": 200053,
+      "name": "Lilla livet",
+      "url": "https://open.spotify.com/track/2eW6bbfXtfMG6I3CRb1QfV"
     },
     {
       "added_at": "2025-12-26 00:00:19",
@@ -879,18 +879,18 @@
     {
       "added_at": "2025-12-26 00:00:19",
       "album": {
-        "name": "Bastard",
-        "url": "https://open.spotify.com/album/6PLulYvcgXjXRHPKaaGoc5"
+        "name": "Greczula",
+        "url": "https://open.spotify.com/album/35buME4leeedtOi2bB3pEZ"
       },
       "artists": [
         {
-          "name": "Markus Kruneg\u00e5rd",
-          "url": "https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe"
+          "name": "Greczula",
+          "url": "https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4"
         }
       ],
-      "duration_ms": 200053,
-      "name": "Lilla livet",
-      "url": "https://open.spotify.com/track/2eW6bbfXtfMG6I3CRb1QfV"
+      "duration_ms": 166451,
+      "name": "All The Things That I Am",
+      "url": "https://open.spotify.com/track/6NgWT6JeT2ph0giyZG19zZ"
     },
     {
       "added_at": "2025-12-26 00:00:19",
@@ -915,22 +915,6 @@
     {
       "added_at": "2025-12-26 00:00:19",
       "album": {
-        "name": "Sunday Love",
-        "url": "https://open.spotify.com/album/1FuchvF8uto0RFeG651LDD"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 316373,
-      "name": "Sunday Love",
-      "url": "https://open.spotify.com/track/1gNOwN4roOSWMSF8dUbhCz"
-    },
-    {
-      "added_at": "2025-12-26 00:00:19",
-      "album": {
         "name": "V\u00e5r b\u00e4sta tid",
         "url": "https://open.spotify.com/album/4axxNXvgZVi1BIL9Oo5bX5"
       },
@@ -947,34 +931,18 @@
     {
       "added_at": "2025-12-26 00:00:19",
       "album": {
-        "name": "Liquid Courage",
-        "url": "https://open.spotify.com/album/30QCyyDm0LNiyTpf2dLEmY"
+        "name": "Sunday Love",
+        "url": "https://open.spotify.com/album/1FuchvF8uto0RFeG651LDD"
       },
       "artists": [
         {
-          "name": "Jay Smith",
-          "url": "https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1"
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 193142,
-      "name": "Liquid Courage",
-      "url": "https://open.spotify.com/track/3kLOyR9AyFvpc3mQxw7S62"
-    },
-    {
-      "added_at": "2025-12-26 00:00:19",
-      "album": {
-        "name": "Don\u2019t Look Back In Anger",
-        "url": "https://open.spotify.com/album/0OG4BDakNEA4JCXsrofX0T"
-      },
-      "artists": [
-        {
-          "name": "Dad Harmony",
-          "url": "https://open.spotify.com/artist/0FstuWxWJB3t2RA7FTAmjX"
-        }
-      ],
-      "duration_ms": 222785,
-      "name": "Don't Look Back in Anger",
-      "url": "https://open.spotify.com/track/1aXG3oxcEYBvIztcrZOd0x"
+      "duration_ms": 316373,
+      "name": "Sunday Love",
+      "url": "https://open.spotify.com/track/1gNOwN4roOSWMSF8dUbhCz"
     },
     {
       "added_at": "2025-12-26 00:00:19",
@@ -995,6 +963,22 @@
     {
       "added_at": "2025-12-26 00:00:19",
       "album": {
+        "name": "Don\u2019t Look Back In Anger",
+        "url": "https://open.spotify.com/album/0OG4BDakNEA4JCXsrofX0T"
+      },
+      "artists": [
+        {
+          "name": "Dad Harmony",
+          "url": "https://open.spotify.com/artist/0FstuWxWJB3t2RA7FTAmjX"
+        }
+      ],
+      "duration_ms": 222785,
+      "name": "Don't Look Back in Anger",
+      "url": "https://open.spotify.com/track/1aXG3oxcEYBvIztcrZOd0x"
+    },
+    {
+      "added_at": "2025-12-26 00:00:19",
+      "album": {
         "name": "F\u00f6r evigt ny",
         "url": "https://open.spotify.com/album/08ddJCSdEDyPKzc2kOJHHW"
       },
@@ -1007,6 +991,38 @@
       "duration_ms": 248624,
       "name": "F\u00f6r evigt ny",
       "url": "https://open.spotify.com/track/4Ci4q11TszLgwPbMrsUJvX"
+    },
+    {
+      "added_at": "2025-12-26 00:00:19",
+      "album": {
+        "name": "Liquid Courage",
+        "url": "https://open.spotify.com/album/30QCyyDm0LNiyTpf2dLEmY"
+      },
+      "artists": [
+        {
+          "name": "Jay Smith",
+          "url": "https://open.spotify.com/artist/14cxUg2t2XDDqd2iOwXGW1"
+        }
+      ],
+      "duration_ms": 193142,
+      "name": "Liquid Courage",
+      "url": "https://open.spotify.com/track/3kLOyR9AyFvpc3mQxw7S62"
+    },
+    {
+      "added_at": "2025-12-26 00:00:19",
+      "album": {
+        "name": "Faithless",
+        "url": "https://open.spotify.com/album/0d8swHQ9ch1mzuwKUHOBjj"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 231880,
+      "name": "Faithless",
+      "url": "https://open.spotify.com/track/6UuDamBC3Jd5786vcXUPr4"
     },
     {
       "added_at": "2025-12-26 00:00:19",
@@ -1063,22 +1079,6 @@
     {
       "added_at": "2025-12-26 00:00:19",
       "album": {
-        "name": "Faithless",
-        "url": "https://open.spotify.com/album/0d8swHQ9ch1mzuwKUHOBjj"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 231880,
-      "name": "Faithless",
-      "url": "https://open.spotify.com/track/6UuDamBC3Jd5786vcXUPr4"
-    },
-    {
-      "added_at": "2025-12-26 00:00:19",
-      "album": {
         "name": "Bl\u00e5jeans och stj\u00e4rnljus",
         "url": "https://open.spotify.com/album/5v6DDbvPr8wOCJ0ydCt6GF"
       },
@@ -1091,22 +1091,6 @@
       "duration_ms": 209610,
       "name": "Bl\u00e5jeans och stj\u00e4rnljus",
       "url": "https://open.spotify.com/track/7J2qPzgtpEoJUSmOYvkcKQ"
-    },
-    {
-      "added_at": "2025-12-26 00:00:19",
-      "album": {
-        "name": "Kv\u00e4llen \u00e4r \u00f6ver 2026",
-        "url": "https://open.spotify.com/album/3MerZ5DqeXwyktbysW5Ko3"
-      },
-      "artists": [
-        {
-          "name": "Sannex",
-          "url": "https://open.spotify.com/artist/7mTV1xDo95GO6Bc7ttBFm8"
-        }
-      ],
-      "duration_ms": 225466,
-      "name": "Kv\u00e4llen \u00e4r \u00f6ver 2026",
-      "url": "https://open.spotify.com/track/5yUxV6IbTFYeCvnLfH9qw2"
     },
     {
       "added_at": "2025-12-26 00:00:19",
@@ -1131,6 +1115,22 @@
     {
       "added_at": "2025-12-26 00:00:19",
       "album": {
+        "name": "Kv\u00e4llen \u00e4r \u00f6ver 2026",
+        "url": "https://open.spotify.com/album/3MerZ5DqeXwyktbysW5Ko3"
+      },
+      "artists": [
+        {
+          "name": "Sannex",
+          "url": "https://open.spotify.com/artist/7mTV1xDo95GO6Bc7ttBFm8"
+        }
+      ],
+      "duration_ms": 225466,
+      "name": "Kv\u00e4llen \u00e4r \u00f6ver 2026",
+      "url": "https://open.spotify.com/track/5yUxV6IbTFYeCvnLfH9qw2"
+    },
+    {
+      "added_at": "2025-12-26 00:00:19",
+      "album": {
         "name": "Who Believes In Angels?",
         "url": "https://open.spotify.com/album/1Wn7mRdFZfHwmgtRFFR42o"
       },
@@ -1147,6 +1147,22 @@
       "duration_ms": 179719,
       "name": "Little Richard\u2019s Bible",
       "url": "https://open.spotify.com/track/3AsmUHXoCqeWXP9tRTYGsR"
+    },
+    {
+      "added_at": "2025-12-26 00:00:19",
+      "album": {
+        "name": "Just idag \u00e4r jag stark",
+        "url": "https://open.spotify.com/album/5qcYzNYt4RXgqb1mG5LIFV"
+      },
+      "artists": [
+        {
+          "name": "Arvid Nero",
+          "url": "https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew"
+        }
+      ],
+      "duration_ms": 206800,
+      "name": "Just idag \u00e4r jag stark",
+      "url": "https://open.spotify.com/track/55Q0BY1or6HxXvflwj4opH"
     },
     {
       "added_at": "2025-12-26 00:00:19",
@@ -1199,22 +1215,6 @@
     {
       "added_at": "2025-12-26 00:00:19",
       "album": {
-        "name": "Just idag \u00e4r jag stark",
-        "url": "https://open.spotify.com/album/5qcYzNYt4RXgqb1mG5LIFV"
-      },
-      "artists": [
-        {
-          "name": "Arvid Nero",
-          "url": "https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew"
-        }
-      ],
-      "duration_ms": 206800,
-      "name": "Just idag \u00e4r jag stark",
-      "url": "https://open.spotify.com/track/55Q0BY1or6HxXvflwj4opH"
-    },
-    {
-      "added_at": "2025-12-26 00:00:19",
-      "album": {
         "name": "Lake Geneva",
         "url": "https://open.spotify.com/album/4LUkFSa4KMpoFyXbX06t0A"
       },
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2025-12-26 00:00:19",
       "album": {
-        "name": "Beautiful Things",
-        "url": "https://open.spotify.com/album/1roKvLZQqtzpvxiuEA5jMt"
-      },
-      "artists": [
-        {
-          "name": "Dad Harmony",
-          "url": "https://open.spotify.com/artist/0FstuWxWJB3t2RA7FTAmjX"
-        }
-      ],
-      "duration_ms": 192148,
-      "name": "Beautiful Things",
-      "url": "https://open.spotify.com/track/7yteHACWU1wnAle5GqzMbx"
-    },
-    {
-      "added_at": "2025-12-26 00:00:19",
-      "album": {
         "name": "Uteblivna vi",
         "url": "https://open.spotify.com/album/5Pmc8qBwYvrmKBV0Q41zUH"
       },
@@ -1279,18 +1263,18 @@
     {
       "added_at": "2025-12-26 00:00:19",
       "album": {
-        "name": "Kaprifol",
-        "url": "https://open.spotify.com/album/41XXzH7d7sd6yKcxQz0aXP"
+        "name": "Beautiful Things",
+        "url": "https://open.spotify.com/album/1roKvLZQqtzpvxiuEA5jMt"
       },
       "artists": [
         {
-          "name": "Thomas Stenstr\u00f6m",
-          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
+          "name": "Dad Harmony",
+          "url": "https://open.spotify.com/artist/0FstuWxWJB3t2RA7FTAmjX"
         }
       ],
-      "duration_ms": 235230,
-      "name": "Kaprifol",
-      "url": "https://open.spotify.com/track/4sfYzFbJbiXm1lvsoDOtZS"
+      "duration_ms": 192148,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/7yteHACWU1wnAle5GqzMbx"
     },
     {
       "added_at": "2025-12-26 00:00:19",
@@ -1311,22 +1295,18 @@
     {
       "added_at": "2025-12-26 00:00:19",
       "album": {
-        "name": "Two Of Us",
-        "url": "https://open.spotify.com/album/0ED0rbxhIywSk2WP7Ym1OB"
+        "name": "Kaprifol",
+        "url": "https://open.spotify.com/album/41XXzH7d7sd6yKcxQz0aXP"
       },
       "artists": [
         {
-          "name": "Ola Salo",
-          "url": "https://open.spotify.com/artist/3IfjzLJe109UiT5EXAhjV1"
-        },
-        {
-          "name": "Peter J\u00f6back",
-          "url": "https://open.spotify.com/artist/3fA5zBQWEa0uzYo43SvXaj"
+          "name": "Thomas Stenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
         }
       ],
-      "duration_ms": 205081,
-      "name": "Two Of Us",
-      "url": "https://open.spotify.com/track/41l5xoVxJt7gibWtntsnz4"
+      "duration_ms": 235230,
+      "name": "Kaprifol",
+      "url": "https://open.spotify.com/track/4sfYzFbJbiXm1lvsoDOtZS"
     },
     {
       "added_at": "2025-12-26 00:00:19",
@@ -1343,6 +1323,26 @@
       "duration_ms": 183946,
       "name": "Sign on the Window",
       "url": "https://open.spotify.com/track/6faCTa1oSQFuuyzvf4ZOIX"
+    },
+    {
+      "added_at": "2025-12-26 00:00:19",
+      "album": {
+        "name": "Two Of Us",
+        "url": "https://open.spotify.com/album/0ED0rbxhIywSk2WP7Ym1OB"
+      },
+      "artists": [
+        {
+          "name": "Ola Salo",
+          "url": "https://open.spotify.com/artist/3IfjzLJe109UiT5EXAhjV1"
+        },
+        {
+          "name": "Peter J\u00f6back",
+          "url": "https://open.spotify.com/artist/3fA5zBQWEa0uzYo43SvXaj"
+        }
+      ],
+      "duration_ms": 205081,
+      "name": "Two Of Us",
+      "url": "https://open.spotify.com/track/41l5xoVxJt7gibWtntsnz4"
     },
     {
       "added_at": "2025-12-26 00:00:19",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2025-12-26 00:00:19",
       "album": {
-        "name": "Vill du ha mig?",
-        "url": "https://open.spotify.com/album/14KULSxBCHTaw036GPyJZv"
-      },
-      "artists": [
-        {
-          "name": "Thomas Stenstr\u00f6m",
-          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
-        }
-      ],
-      "duration_ms": 181533,
-      "name": "Vill du ha mig?",
-      "url": "https://open.spotify.com/track/4mfAUCnXYemDDjSs9SXL6V"
-    },
-    {
-      "added_at": "2025-12-26 00:00:19",
-      "album": {
         "name": "While you got me",
         "url": "https://open.spotify.com/album/0sbOXyjXYj46ROvkWKLHkQ"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 193114,
       "name": "The Spectrum of Love",
       "url": "https://open.spotify.com/track/5cZBO0JIULIugulCbIGahr"
+    },
+    {
+      "added_at": "2025-12-26 00:00:19",
+      "album": {
+        "name": "Dansa i neon",
+        "url": "https://open.spotify.com/album/7iAqElCjbYi83uxAuWDCZt"
+      },
+      "artists": [
+        {
+          "name": "Noice",
+          "url": "https://open.spotify.com/artist/1TVoFA7SMYs6AG3u83FP69"
+        }
+      ],
+      "duration_ms": 195113,
+      "name": "Dansa i neon",
+      "url": "https://open.spotify.com/track/3KyfoGVGB48ycd2fG1Boyt"
     }
   ],
   "unique_name": "Aktuellt",

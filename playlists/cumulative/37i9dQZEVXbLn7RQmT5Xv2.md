@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Egypt.
 
-1,128 songs - 2 day 18 hr 27 min
+1,129 songs - 2 day 18 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Afelty El Le'ba](https://open.spotify.com/track/0DXWxLA80dDy3sAn7urje3) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Ebtadena](https://open.spotify.com/album/5HeCKPHYZYu75JKHtzdDRI) | 2:19 | 2025-07-04 | 2025-07-13 |
 | [AFREQYA W AMREKA](https://open.spotify.com/track/3h7TsXMuf0UrSWBmzmFC6Y) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [3](https://open.spotify.com/album/7LNlUUOzPMmdVLFq3wi353) | 3:17 | 2023-05-12 | 2023-05-18 |
 | [Agans](https://open.spotify.com/track/5biDlrBER5BUecUfzsCf1E) | [Shehab](https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz) | [اجانص مع كسار](https://open.spotify.com/album/3jVvYkqbknlDjduLr6cBxS) | 3:25 | 2021-03-27\* | 2021-05-14 |
+| [AGBHA](https://open.spotify.com/track/32dRw90vVNSP6gnBlqBhIE) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM) | [AGBHA](https://open.spotify.com/album/4hMLvzASFdpJO6kNXwQ1zq) | 3:08 | 2025-12-31 |  |
 | [Ahkelak](https://open.spotify.com/track/60gNtG4TeY7YQxbxx9mUwU) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [Ahkelak](https://open.spotify.com/album/30DzaAannug4aragLVhSMA) | 3:16 | 2022-03-23 | 2022-05-21 |
 | [Ahmed Santa](https://open.spotify.com/track/6GJQiSob1lScp9tnlTvMfp) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj) | [Santa El Gded](https://open.spotify.com/album/00hLqAlvE3EiF1bsPoE43a) | 2:31 | 2022-11-04 | 2023-02-12 |
 | [Akhouya](https://open.spotify.com/track/4JyeFbF9RB2m24QhJ8ab8f) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Ras Shitan](https://open.spotify.com/album/5xs1hPBH7vjLHf8UY7TxDY) | 2:59 | 2022-07-07 | 2022-07-11 |
@@ -384,7 +385,7 @@
 | [KALEMENY BELEL](https://open.spotify.com/track/7IqxOQ0Wjb4JcsIoY5I1hF) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb), [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [الرجل الذي فقد قلبه](https://open.spotify.com/album/05d95d67XSA7hIaijdy6HZ) | 2:39 | 2025-05-06 | 2025-10-18 |
 | [Kan Fi Sora](https://open.spotify.com/track/0cctX7m6jB5Wjp5Ioj1Mli) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Ismail Nosrat](https://open.spotify.com/artist/1PZvPgfsfNge3ln8NLjl87) | [Kan Fi Sora](https://open.spotify.com/album/3yqauvFawT2RXHJT5B5dL6) | 2:34 | 2022-12-21 | 2023-02-02 |
 | [Kan Lak Ma'aya \(Feat\. Umm Kulthum\)](https://open.spotify.com/track/6EVt050wg9TQv9HpSn0Ke3) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK), [Umm Kulthum](https://open.spotify.com/artist/52lsD82iOqGtyfEMqWgk4f) | [The Ugly Ducklings](https://open.spotify.com/album/64DY9gqA0dWDjP7v6NSlVL) | 3:45 | 2021-12-06 | 2021-12-25 |
-| [Kan Mawdo3](https://open.spotify.com/track/3FJ2RFcLUogTbyt9MGVQoC) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Tegy Ntrahn](https://open.spotify.com/album/45VciPIELkkQgWSkS2QLlq) | 4:42 | 2023-11-02 |  |
+| [Kan Mawdo3](https://open.spotify.com/track/3FJ2RFcLUogTbyt9MGVQoC) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Tegy Ntrahn](https://open.spotify.com/album/45VciPIELkkQgWSkS2QLlq) | 4:42 | 2023-11-02 | 2026-01-01 |
 | [KARMA](https://open.spotify.com/track/5ETFNSZAqO6A66VrgXkd6v) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [7OB&KASHAT](https://open.spotify.com/album/2svCOWiV5oGoZk1YTU1NPL) | 2:54 | 2024-12-01 | 2025-06-20 |
 | [KATAFAST](https://open.spotify.com/track/5cDdk7f8IS3AJPVMOdTlIm) | [FL EX](https://open.spotify.com/artist/4rACOXTxSYqwgynYKJJpDX) | [MESAMA3EEN](https://open.spotify.com/album/45VlLbu11muNolrvvu3vGo) | 2:30 | 2023-02-26 | 2023-03-03 |
 | [KEBDA](https://open.spotify.com/track/2Cs1t49qL52fPt6ikx15wp) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR), [ONUY](https://open.spotify.com/artist/33Dgas4QUk9jjh2TnolVwj) | [أفضل أغانى 2024](https://open.spotify.com/album/7Fx2opgiB62sccFEmebS9o) | 2:50 | 2024-09-16 | 2025-08-04 |
@@ -799,7 +800,7 @@
 | [Yalla](https://open.spotify.com/track/6pw3FXiVmJAhQ4BeqUWmpW) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M), [Abdallah Diab](https://open.spotify.com/artist/745MJJykhK8hA1StNqAU3t) | [Ebtadena](https://open.spotify.com/album/5HeCKPHYZYu75JKHtzdDRI) | 2:45 | 2025-07-04 | 2025-07-28 |
 | [Yazmeely](https://open.spotify.com/track/0rDNeS6IwKi1oMrtkEc5S0) | [Ilmond](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Ya Kahera](https://open.spotify.com/album/4vCordbfumvDUXJBcDXoHm) | 3:16 | 2024-06-18 | 2025-07-17 |
 | [Yazmeely](https://open.spotify.com/track/04D5KuZipPeHYZF61sG4Mj) | [Mond](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Origins: قبل انتفاضة](https://open.spotify.com/album/79zQwbkC005nAx0dvYFDO5) | 3:16 | 2025-07-16 | 2025-12-31 |
-| [Yazmeely](https://open.spotify.com/track/0tcGlGR27zistncQhiNKDb) | [Mond](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Origins: قبل انتفاضة](https://open.spotify.com/album/1rfYKzWtrXZ70M9AaOww45) | 3:16 | 2025-12-30 |  |
+| [Yazmeely](https://open.spotify.com/track/0tcGlGR27zistncQhiNKDb) | [Mond](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Origins: قبل انتفاضة](https://open.spotify.com/album/1rfYKzWtrXZ70M9AaOww45) | 3:16 | 2025-12-30 | 2026-01-01 |
 | [YAZMEELY](https://open.spotify.com/track/3WOiSsqfXPZAtGTr2PFj6S) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Ya Kahera](https://open.spotify.com/album/3dUTTXt9860nBInTMPkFDm) | 3:16 | 2023-08-10 | 2024-06-16 |
 | [Yes or No](https://open.spotify.com/track/2gkVEnpahpE3bQuvGuCpAV) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 2:27 | 2023-11-04 | 2023-11-06 |
 | [Yet To Come](https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:13 | 2022-06-11 | 2022-06-16 |
@@ -1078,7 +1079,7 @@
 | [معايا](https://open.spotify.com/track/345lSp1DYHYk3owbmodz3c) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [معايا](https://open.spotify.com/album/3usfYTZKMISwEGXbmiRdli) | 3:12 | 2025-11-23 |  |
 | [مفيش عصفور بيعادي نسور](https://open.spotify.com/track/2hP83tdgkvVWfnrAMaPLQt) | [محمد البصيلي](https://open.spotify.com/artist/3nTcVjkStfh5XOuHUFbx5m) | [مفيش عصفور بيعادي نسور](https://open.spotify.com/album/6R0Pw3UJ4hqU7gkBNxisM9) | 3:20 | 2025-01-03 | 2025-01-05 |
 | [مفيش مانع](https://open.spotify.com/track/7KLy4f8VCsiIEYr69mC4uZ) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [مفيش مانع](https://open.spotify.com/album/6OVfW5ln6vTI1reXFHaiGd) | 3:40 | 2021-12-14 | 2022-05-19 |
-| [مكسرات](https://open.spotify.com/track/58DJLmUMbOlUCwv7XNaIKP) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [بيستهبل](https://open.spotify.com/album/67G3J04APoqh3KQh9G8a3Z) | 2:30 | 2025-08-02 | 2025-12-31 |
+| [مكسرات](https://open.spotify.com/track/58DJLmUMbOlUCwv7XNaIKP) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [بيستهبل](https://open.spotify.com/album/67G3J04APoqh3KQh9G8a3Z) | 2:30 | 2025-08-02 |  |
 | [من فضل الاخصام خفو التخطير \( انا مش ع الدواق \)](https://open.spotify.com/track/2CA1VER7dNNdgDyH9iL3BE) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [من فضل الاخصام خفو التخطير \( انا مش ع الدواق \)](https://open.spotify.com/album/1vwPrjUDOb4GAZl7CJn73e) | 2:59 | 2024-04-11 | 2024-11-13 |
 | [منا مش فاضي اطبطب ادادي](https://open.spotify.com/track/5ITDmwarcHFTKYEPhaQDvg) | [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB) | [منا مش فاضي اطبطب ادادي](https://open.spotify.com/album/1xRY1SHf4PA0CbdAdEr2vm) | 4:36 | 2025-12-03 | 2025-12-05 |
 | [منافقين](https://open.spotify.com/track/4GW1BcvFF9mdvmsIHmDgnG) | [DJ Totti](https://open.spotify.com/artist/6sm3nTKVNrdKN3iAo73oda), [Shehab](https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz) | [منافقين](https://open.spotify.com/album/2KfyXM0bKpqXeyED3C7Je0) | 3:27 | 2021-04-06 | 2021-09-24 |

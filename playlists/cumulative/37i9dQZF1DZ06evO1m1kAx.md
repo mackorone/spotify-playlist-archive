@@ -4,7 +4,7 @@
 
 > This is 2Baba\. The essential tracks, all in one playlist.
 
-135 songs - 8 hr 48 min
+136 songs - 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Dance Go \(Eau De Vie\)](https://open.spotify.com/track/4SV4FQoKZ6wH8osLAo3exO) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Face 2 Face 10.0](https://open.spotify.com/album/1PdMP3dtb5w0z4f2jVgXzF) | 3:48 | 2021-12-28 |  |
 | [Dance in the Rain](https://open.spotify.com/track/3bhQHT4YYeQugPW643l8JX) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [AWAY & BEYOND](https://open.spotify.com/album/584KPtSKilxTAGAhzttVP6) | 3:38 | 2024-03-25 |  |
 | [Dance in the Rain](https://open.spotify.com/track/71nvD9S3qUai7oeccEL9ZM) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [AWAY & BEYOND](https://open.spotify.com/album/1rEIwfjq7qKaUgrpK3pxSX) | 3:38 | 2021-12-28 | 2024-03-26 |
-| [Dirty Dancing](https://open.spotify.com/track/6uZFP7GNxTuyoUXBnQ1zXr) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU), [The Kabal](https://open.spotify.com/artist/160mj3ZS17jtuuVDbbaXcZ) | [Rebirth](https://open.spotify.com/album/0VJKNI1mB4EVKukTJS5J0d) | 2:19 | 2025-12-21 |  |
+| [Dirty Dancing](https://open.spotify.com/track/6uZFP7GNxTuyoUXBnQ1zXr) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU), [The Kabal](https://open.spotify.com/artist/160mj3ZS17jtuuVDbbaXcZ) | [Rebirth](https://open.spotify.com/album/0VJKNI1mB4EVKukTJS5J0d) | 2:19 | 2025-12-21 | 2026-01-01 |
 | [Disguise](https://open.spotify.com/track/0x3l5qTKFn7vaL5VnjhgC1) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU), [The Kabal](https://open.spotify.com/artist/160mj3ZS17jtuuVDbbaXcZ) | [Rebirth](https://open.spotify.com/album/0VJKNI1mB4EVKukTJS5J0d) | 3:13 | 2025-11-28 | 2025-12-21 |
 | [Drunk In Love](https://open.spotify.com/track/7bMQhHaOpiZbusXlHrInM8) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Larry Gaaga](https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU), [The Kabal](https://open.spotify.com/artist/160mj3ZS17jtuuVDbbaXcZ) | [Rebirth](https://open.spotify.com/album/0VJKNI1mB4EVKukTJS5J0d) | 2:39 | 2025-11-23 |  |
 | [E Be Like Say](https://open.spotify.com/track/0ZYKnsD8GoiU5tHki9T7Fn) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [VIP](https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4) | [Grass 2 Grace](https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA) | 4:46 | 2021-12-28 |  |
@@ -55,6 +55,7 @@
 | [Gobe](https://open.spotify.com/track/4WLIbmoXbHuxc6CNI8dD1V) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Gobe](https://open.spotify.com/album/3hTOBsaYYVsm26E0fEgO8v) | 3:33 | 2022-04-21 | 2024-08-03 |
 | [Green White Green](https://open.spotify.com/track/0gwa7S4oL1sQk0sF3ECp7p) | [T.W.O Plus](https://open.spotify.com/artist/4DqH6DsWfBKEymCCNGvrO5), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [T.W.O Plus](https://open.spotify.com/album/1sj2S2scaPtCVzkbK23d4Z) | 4:01 | 2024-07-15 | 2024-07-27 |
 | [Hate What You Do To Me](https://open.spotify.com/track/2Axz6XkiHiahq0xFA9rttd) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Ascension](https://open.spotify.com/album/3IbjUuSFsXLeBd6hz5ZJEY) | 3:54 | 2022-06-11 | 2022-10-17 |
+| [Hate What You Do To Me](https://open.spotify.com/track/3qn8n15m7KyRM4VUyDOKD8) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Ascension](https://open.spotify.com/album/29SucwRaSyb0OHjEZZqoEQ) | 3:54 | 2026-01-01 |  |
 | [Heart Out My chest](https://open.spotify.com/track/5zFb0vpEpp9xLvWtAY0Udo) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Heart Out My chest](https://open.spotify.com/album/4f0nvpHR1ayHZ3K7luo3wI) | 2:56 | 2022-01-14 | 2022-01-21 |
 | [Higher \(Spiritual Healing\)](https://open.spotify.com/track/5IUBYuJQMaGUadUNws4czB) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Huma Lara](https://open.spotify.com/artist/7Jy0uvwHjLZmPODkzdU1qG) | [AWAY & BEYOND](https://open.spotify.com/album/1rEIwfjq7qKaUgrpK3pxSX) | 3:55 | 2021-12-28 | 2024-03-26 |
 | [Higher \(Spiritual Healing\) \[feat\. Huma Lara\]](https://open.spotify.com/track/3Cx0XcneUukQQv2VZgiAE1) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Huma Lara](https://open.spotify.com/artist/7Jy0uvwHjLZmPODkzdU1qG) | [AWAY & BEYOND](https://open.spotify.com/album/584KPtSKilxTAGAhzttVP6) | 3:55 | 2024-03-25 |  |

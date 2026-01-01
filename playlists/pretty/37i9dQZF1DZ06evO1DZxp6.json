@@ -1,12 +1,12 @@
 {
   "description": "This is Julieta Venegas. The essential tracks, all in one playlist.",
-  "num_followers": 239082,
+  "num_followers": 239130,
   "original_name": "This Is Julieta Venegas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVHEgAAAAAB7uK0D4etX6T54YA391j90",
+  "snapshot_id": "aVMWAAAAAABa6yAtWx8Hp2xolVQdpKX4",
   "tracks": [
     {
       "added_at": null,
@@ -327,22 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Julieta Venegas - MTV Unplugged",
-        "url": "https://open.spotify.com/album/4oR1OWQqwZmNWzpTIBYe97"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 220960,
-      "name": "El Presente (Unplugged) (En Vivo)",
-      "url": "https://open.spotify.com/track/713yeila63kevWr0gqwTxO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Sonora Santanera en Su 60 Aniversario",
         "url": "https://open.spotify.com/album/3xgFRfjD0wkntTxiSa7c8U"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 182586,
       "name": "El Ladr\u00f3n (with Julieta Venegas)",
       "url": "https://open.spotify.com/track/7oRifTMLmeNCnTGtDH7KLV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Julieta Venegas - MTV Unplugged",
+        "url": "https://open.spotify.com/album/4oR1OWQqwZmNWzpTIBYe97"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 220960,
+      "name": "El Presente (Unplugged) (En Vivo)",
+      "url": "https://open.spotify.com/track/713yeila63kevWr0gqwTxO"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Limon Y Sal",
-        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 216746,
-      "name": "M\u00edrame Bien",
-      "url": "https://open.spotify.com/track/3wNtT8VM9QLIk4NklKDCbQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Algo Sucede",
         "url": "https://open.spotify.com/album/19mOSlFEaepEFYIRHrSvCH"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 200706,
       "name": "Tu Calor",
       "url": "https://open.spotify.com/track/7EHYIy1gxBOumTdOShW0uF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Limon Y Sal",
+        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 216746,
+      "name": "M\u00edrame Bien",
+      "url": "https://open.spotify.com/track/3wNtT8VM9QLIk4NklKDCbQ"
     },
     {
       "added_at": null,

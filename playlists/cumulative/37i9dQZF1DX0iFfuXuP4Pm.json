@@ -1025,6 +1025,24 @@
     },
     {
       "album": {
+        "name": "FLAMES",
+        "url": "https://open.spotify.com/album/42s2X3WQppxdHafUT2dfmF"
+      },
+      "artists": [
+        {
+          "name": "BINI",
+          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129360,
+      "name": "Bikini",
+      "url": "https://open.spotify.com/track/03Tt2qPSQKaXMkLtZ3Zwg9"
+    },
+    {
+      "album": {
         "name": "Binibini",
         "url": "https://open.spotify.com/album/1VGIRVQeee7pUEoAVAmhUp"
       },
@@ -7882,7 +7900,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-01",
       "duration_ms": 180727,
       "name": "Sweet Tooth",
       "url": "https://open.spotify.com/track/4255eE0aWSyfbIWTpIE1qu"

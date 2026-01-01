@@ -1,13 +1,29 @@
 {
   "description": "This is Stick Figure. The essential tracks, all in one playlist.",
-  "num_followers": 92811,
+  "num_followers": 92834,
   "original_name": "This Is Stick Figure",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVHEgAAAAACiCEbvA4t0U6XBZTu7CMrW",
+  "snapshot_id": "aVMWAAAAAAAfENra2wit+zJKP5lBRE0/",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "World on Fire",
+        "url": "https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 269500,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/1QhrlNjzqmqEFW5T5yMFhw"
+    },
     {
       "added_at": null,
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 214206,
       "name": "Smokin' Love (with Collie Buddz)",
       "url": "https://open.spotify.com/track/3D7cUXDEKLAFsoD10QRoiR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "World on Fire",
-        "url": "https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 269500,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/1QhrlNjzqmqEFW5T5yMFhw"
     },
     {
       "added_at": null,
@@ -83,6 +83,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "World on Fire",
+        "url": "https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 266481,
+      "name": "All for You",
+      "url": "https://open.spotify.com/track/0nEUaCsD5tDZjbY7tMAaea"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Burial Ground",
         "url": "https://open.spotify.com/album/1bAQmWedFHr9gkf7iBlqAE"
       },
@@ -99,22 +115,6 @@
       "duration_ms": 443379,
       "name": "Weight of Sound",
       "url": "https://open.spotify.com/track/3W4x7fZhMHw2pE6wyBzzF8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "World on Fire",
-        "url": "https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 266481,
-      "name": "All for You",
-      "url": "https://open.spotify.com/track/0nEUaCsD5tDZjbY7tMAaea"
     },
     {
       "added_at": null,
@@ -151,26 +151,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Castles",
-        "url": "https://open.spotify.com/album/5980M98hQs4xk9odzGmjHQ"
-      },
-      "artists": [
-        {
-          "name": "The Elovaters",
-          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
-        },
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 233314,
-      "name": "Gardenia (with Stick Figure)",
-      "url": "https://open.spotify.com/track/0OcIijvgNNIotHuvGTwDBT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "World on Fire",
         "url": "https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB"
       },
@@ -187,6 +167,26 @@
       "duration_ms": 238810,
       "name": "World on Fire (feat. Slightly Stoopid)",
       "url": "https://open.spotify.com/track/35cWnQKyLjmzkq81M51D9n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Castles",
+        "url": "https://open.spotify.com/album/5980M98hQs4xk9odzGmjHQ"
+      },
+      "artists": [
+        {
+          "name": "The Elovaters",
+          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
+        },
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 233314,
+      "name": "Gardenia (with Stick Figure)",
+      "url": "https://open.spotify.com/track/0OcIijvgNNIotHuvGTwDBT"
     },
     {
       "added_at": null,
@@ -227,6 +227,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "World on Fire",
+        "url": "https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 225195,
+      "name": "Easy Runaway",
+      "url": "https://open.spotify.com/track/7E0CCie7empmlbOH4Vh4BI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Visions",
         "url": "https://open.spotify.com/album/4Suls86gUFWBN7rP3MKphB"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 227266,
       "name": "Visions (with Stick Figure)",
       "url": "https://open.spotify.com/track/6VFrBdWj6BjGNeuX3VlmPl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "World on Fire",
-        "url": "https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 225195,
-      "name": "Easy Runaway",
-      "url": "https://open.spotify.com/track/7E0CCie7empmlbOH4Vh4BI"
     },
     {
       "added_at": null,
@@ -299,6 +299,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "World on Fire",
+        "url": "https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 294730,
+      "name": "Above the Storm",
+      "url": "https://open.spotify.com/track/1mOQwe1UcsuK3l3MGFtim6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Feel Like That (feat. Bradley Nowell)",
         "url": "https://open.spotify.com/album/4Ocj71UOGUGwtn9PSH2wwY"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 227554,
       "name": "Feel Like That (feat. Bradley Nowell)",
       "url": "https://open.spotify.com/track/193RlTGibelHrNqyAMEbLl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "World on Fire",
-        "url": "https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 294730,
-      "name": "Above the Storm",
-      "url": "https://open.spotify.com/track/1mOQwe1UcsuK3l3MGFtim6"
     },
     {
       "added_at": null,
@@ -375,22 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Free Flow Sessions",
-        "url": "https://open.spotify.com/album/0RxeQLaMBO8m6vk2243rkt"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 167920,
-      "name": "Walking in My Shoes",
-      "url": "https://open.spotify.com/track/2LvZ1yfVNjQDUPDVQJy0ZL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Home (with Stick Figure)",
         "url": "https://open.spotify.com/album/6wXNgsH6qyh4Ujqq7laPOG"
       },
@@ -407,26 +391,6 @@
       "duration_ms": 210182,
       "name": "Home (with Stick Figure)",
       "url": "https://open.spotify.com/track/1GwcqCWWQwzt6r09rQjqQQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ways Of The World",
-        "url": "https://open.spotify.com/album/4fDFYGSc4P92SZ8UZ3te3q"
-      },
-      "artists": [
-        {
-          "name": "The Movement",
-          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
-        },
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 237756,
-      "name": "Siren (with Stick Figure)",
-      "url": "https://open.spotify.com/track/3jSlARN861elnfSuveZx8X"
     },
     {
       "added_at": null,
@@ -451,6 +415,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Free Flow Sessions",
+        "url": "https://open.spotify.com/album/0RxeQLaMBO8m6vk2243rkt"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 167920,
+      "name": "Walking in My Shoes",
+      "url": "https://open.spotify.com/track/2LvZ1yfVNjQDUPDVQJy0ZL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Set in Stone",
         "url": "https://open.spotify.com/album/28S63tpbApp3AhWZZYN6l9"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 252693,
       "name": "In This Love",
       "url": "https://open.spotify.com/track/3u1bKblfqeghD3grk3Le2w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ways Of The World",
+        "url": "https://open.spotify.com/album/4fDFYGSc4P92SZ8UZ3te3q"
+      },
+      "artists": [
+        {
+          "name": "The Movement",
+          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
+        },
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 237756,
+      "name": "Siren (with Stick Figure)",
+      "url": "https://open.spotify.com/track/3jSlARN861elnfSuveZx8X"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Free Flow Sessions",
-        "url": "https://open.spotify.com/album/0RxeQLaMBO8m6vk2243rkt"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 176399,
-      "name": "Moon Palace",
-      "url": "https://open.spotify.com/track/6kYKKpUZYlbDveoRsB1jTD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Local Motion",
         "url": "https://open.spotify.com/album/3H0eh5wIky3GjF83fRcDT0"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 232160,
       "name": "Warning (feat. Stick Figure)",
       "url": "https://open.spotify.com/track/29JOtyhGMv2gfikATHJlCF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Free Flow Sessions",
+        "url": "https://open.spotify.com/album/0RxeQLaMBO8m6vk2243rkt"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 176399,
+      "name": "Moon Palace",
+      "url": "https://open.spotify.com/track/6kYKKpUZYlbDveoRsB1jTD"
     },
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Free Flow Sessions",
-        "url": "https://open.spotify.com/album/0RxeQLaMBO8m6vk2243rkt"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 122206,
-      "name": "This Is What We Came Here For",
-      "url": "https://open.spotify.com/track/3auT7nH9KA0YfId2bm62wZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wisdom",
         "url": "https://open.spotify.com/album/447C0uIwKJY0AXGkR6Bfa1"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 282696,
       "name": "Falling Stars",
       "url": "https://open.spotify.com/track/7xJkMC1Yq4SNxZOunlIxvr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Free Flow Sessions",
+        "url": "https://open.spotify.com/album/0RxeQLaMBO8m6vk2243rkt"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 122206,
+      "name": "This Is What We Came Here For",
+      "url": "https://open.spotify.com/track/3auT7nH9KA0YfId2bm62wZ"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Free Flow Sessions",
-        "url": "https://open.spotify.com/album/0RxeQLaMBO8m6vk2243rkt"
-      },
-      "artists": [
-        {
-          "name": "Stick Figure",
-          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
-        }
-      ],
-      "duration_ms": 179019,
-      "name": "Welcome to My World",
-      "url": "https://open.spotify.com/track/1FDenbSYT98eqHUcP34yx5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sacred Sound",
         "url": "https://open.spotify.com/album/1mWCAdn4pHhjEHl9yVY796"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 216476,
       "name": "Give Thanks (feat. Stick Figure)",
       "url": "https://open.spotify.com/track/38kPL6TNtdNp871jAsVW1r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Free Flow Sessions",
+        "url": "https://open.spotify.com/album/0RxeQLaMBO8m6vk2243rkt"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "duration_ms": 179019,
+      "name": "Welcome to My World",
+      "url": "https://open.spotify.com/track/1FDenbSYT98eqHUcP34yx5"
     },
     {
       "added_at": null,

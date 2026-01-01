@@ -571,26 +571,6 @@
     {
       "added_at": "2025-03-03 09:30:09",
       "album": {
-        "name": "Quando (feat. Neri Per Caso)",
-        "url": "https://open.spotify.com/album/27JUcIPolBBZrufE7m71tz"
-      },
-      "artists": [
-        {
-          "name": "Massimo Ranieri",
-          "url": "https://open.spotify.com/artist/1VZvpyWFZWk1GitulKUo3d"
-        },
-        {
-          "name": "Neri Per Caso",
-          "url": "https://open.spotify.com/artist/0LiO8GSrYuUjCWMpM0M28q"
-        }
-      ],
-      "duration_ms": 201730,
-      "name": "Quando (feat. Neri Per Caso)",
-      "url": "https://open.spotify.com/track/1aAmX3F9z2LvYshj1sBDSs"
-    },
-    {
-      "added_at": "2025-03-03 09:30:09",
-      "album": {
         "name": "Yes I Know My Way (Live - Sanremo 2025)",
         "url": "https://open.spotify.com/album/1HWnQW1O3g1sS0uk1GNgqI"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 208586,
       "name": "Yes I Know My Way (Live - Sanremo 2025)",
       "url": "https://open.spotify.com/track/02bftO6MWRAGc5vSKqayR7"
+    },
+    {
+      "added_at": "2025-03-03 09:30:09",
+      "album": {
+        "name": "Quando (feat. Neri Per Caso)",
+        "url": "https://open.spotify.com/album/27JUcIPolBBZrufE7m71tz"
+      },
+      "artists": [
+        {
+          "name": "Massimo Ranieri",
+          "url": "https://open.spotify.com/artist/1VZvpyWFZWk1GitulKUo3d"
+        },
+        {
+          "name": "Neri Per Caso",
+          "url": "https://open.spotify.com/artist/0LiO8GSrYuUjCWMpM0M28q"
+        }
+      ],
+      "duration_ms": 201730,
+      "name": "Quando (feat. Neri Per Caso)",
+      "url": "https://open.spotify.com/track/1aAmX3F9z2LvYshj1sBDSs"
     },
     {
       "added_at": "2025-03-03 09:30:09",

@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com grandes hits da m\u00fasica nacional em vers\u00f5es ac\u00fasticas. ",
-  "num_followers": 1512988,
+  "num_followers": 1512946,
   "original_name": "Desplugado",
   "owner": {
     "name": "Spotify",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Bar\u00e3o Pra Sempre",
-        "url": "https://open.spotify.com/album/4iBQN73xgA56iyWf7DfZmK"
-      },
-      "artists": [
-        {
-          "name": "Bar\u00e3o Vermelho",
-          "url": "https://open.spotify.com/artist/5zq0SGWxrmzpTSXkBEQzMj"
-        }
-      ],
-      "duration_ms": 202474,
-      "name": "Por Voc\u00ea - Ac\u00fastica",
-      "url": "https://open.spotify.com/track/0228dbbfbyvjsjKus9KAS5"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Mande um Sinal (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/7w8J7YQ0NGigyOIIP8fEjq"
       },
@@ -783,18 +767,18 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Aluga-se",
-        "url": "https://open.spotify.com/album/070l8UAuwcgrVeK1y9l4ZI"
+        "name": "Bar\u00e3o Pra Sempre",
+        "url": "https://open.spotify.com/album/4iBQN73xgA56iyWf7DfZmK"
       },
       "artists": [
         {
-          "name": "B\u00e1rbara Dias",
-          "url": "https://open.spotify.com/artist/4qQrDEahpv67oAkkD6Zx1J"
+          "name": "Bar\u00e3o Vermelho",
+          "url": "https://open.spotify.com/artist/5zq0SGWxrmzpTSXkBEQzMj"
         }
       ],
-      "duration_ms": 125955,
-      "name": "Aluga-se",
-      "url": "https://open.spotify.com/track/1i2vei4vkOOQB3ag6IMAYM"
+      "duration_ms": 202474,
+      "name": "Por Voc\u00ea - Ac\u00fastica",
+      "url": "https://open.spotify.com/track/0228dbbfbyvjsjKus9KAS5"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -811,6 +795,22 @@
       "duration_ms": 199814,
       "name": "Cartas e Versos",
       "url": "https://open.spotify.com/track/0UQor28BlM3xdKQGAwPPyP"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Aluga-se",
+        "url": "https://open.spotify.com/album/070l8UAuwcgrVeK1y9l4ZI"
+      },
+      "artists": [
+        {
+          "name": "B\u00e1rbara Dias",
+          "url": "https://open.spotify.com/artist/4qQrDEahpv67oAkkD6Zx1J"
+        }
+      ],
+      "duration_ms": 125955,
+      "name": "Aluga-se",
+      "url": "https://open.spotify.com/track/1i2vei4vkOOQB3ag6IMAYM"
     },
     {
       "added_at": "2024-08-02 18:37:00",

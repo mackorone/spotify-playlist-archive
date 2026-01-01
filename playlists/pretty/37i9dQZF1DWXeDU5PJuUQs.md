@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 
 > Unas buenas cumbias con el calor de la gente! <br/>Foto: Ke Personajes & Ulises Bueno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,053 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,519 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 | 76 | [Amantes / Mas Hombre Que Tu \- En Vivo](https://open.spotify.com/track/09d8x3UOE0ptPkfW5kz3NO) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Inigualable \(En Vivo\)](https://open.spotify.com/album/1lEfjXb3WD9L6c1AtBVwIf) | 3:49 |
 | 77 | [Era Tranquila \- En Vivo](https://open.spotify.com/track/0kHoDrq6IFIV5AAZRFOEQd) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW) | [Era Tranquila \(En Vivo\)](https://open.spotify.com/album/6T9HaCMIJRLkxmzZPEMdNF) | 3:57 |
 | 78 | [Un Millon de Rosas / Me Enamore / El Camison \(En Vivo\)](https://open.spotify.com/track/1XtgMbP5enmvmfOoPtt2Io) | [Ale Ceberio](https://open.spotify.com/artist/7fxj9VjDxGpHfOPEkgxm6e) | [Un Millon de Rosas / Me Enamore de una Bandida / El Camison \(En Vivo\)](https://open.spotify.com/album/6Xp8jfGfA8gCZa5PK3Rlwo) | 7:09 |
-| 79 | [Intento \- En Vivo](https://open.spotify.com/track/0YI5vG7XmhB7IAcMJZjvS2) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [Intento \(En Vivo\)](https://open.spotify.com/album/3UUuCRlQaX3HWZ1HkVuKpb) | 3:47 |
-| 80 | [Ahora Que Te Vas / El Mismo Aire / a Puro Dolor \- En Vivo](https://open.spotify.com/track/5q17HklaySch2Jg73dYgto) | [La Piedra Urbana](https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt) | [Ahora Que Te Vas / El Mismo Aire / a Puro Dolor \(En Vivo\)](https://open.spotify.com/album/5icndhv8kYRghjcp9avKq2) | 5:28 |
+| 79 | [Ahora Que Te Vas / El Mismo Aire / a Puro Dolor \- En Vivo](https://open.spotify.com/track/5q17HklaySch2Jg73dYgto) | [La Piedra Urbana](https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt) | [Ahora Que Te Vas / El Mismo Aire / a Puro Dolor \(En Vivo\)](https://open.spotify.com/album/5icndhv8kYRghjcp9avKq2) | 5:28 |
+| 80 | [Intento \- En Vivo](https://open.spotify.com/track/0YI5vG7XmhB7IAcMJZjvS2) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [Intento \(En Vivo\)](https://open.spotify.com/album/3UUuCRlQaX3HWZ1HkVuKpb) | 3:47 |
 | 81 | [Enamorado de ti \- Live](https://open.spotify.com/track/2XlREDMzVX02dEcrv9qyeQ) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Live](https://open.spotify.com/album/28OBVQHbRD3faNpl4jW4U8) | 1:46 |
 | 82 | [Lloraras mas de diez veces](https://open.spotify.com/track/3nYGOZ9rTj1czXLrKHoFqQ) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Aniversario](https://open.spotify.com/album/40PFDic0PjqdNetzrHp1zD) | 3:29 |
 | 83 | [Tu Carcel \- En Vivo](https://open.spotify.com/track/5MviAyrK0T1iGhgEOdmq2I) | [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T) | [En Vivo](https://open.spotify.com/album/48a6h9MWyM2bxiAlc3B7Rr) | 2:01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTe1SQtSEkfX.md) - [plain]
 
 > Is that a UFO? Hear stories, predictions, and more as Joe talks about alien life.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,611 likes - 14 songs - 1 day 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,610 likes - 14 songs - 1 day 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

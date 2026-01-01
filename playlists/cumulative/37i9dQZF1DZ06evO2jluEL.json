@@ -42,6 +42,24 @@
     {
       "album": {
         "name": "Cantarei para Sempre",
+        "url": "https://open.spotify.com/album/2yjDBwFmlFg7QvkGq9qfj9"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339125,
+      "name": "A Cura",
+      "url": "https://open.spotify.com/track/53oqPgtv6H6iUpOD5YuQbm"
+    },
+    {
+      "album": {
+        "name": "Cantarei para Sempre",
         "url": "https://open.spotify.com/album/714CqfPzokz27FP3pV8B0T"
       },
       "artists": [
@@ -236,7 +254,7 @@
       ],
       "date_added": "2024-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-01",
       "duration_ms": 350109,
       "name": "Autor da Minha F\u00e9",
       "url": "https://open.spotify.com/track/2RL6SclWQSRIX34Su8S5eR"
@@ -1256,10 +1274,50 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-01",
       "duration_ms": 375800,
       "name": "O Consolo para o Inconsol\u00e1vel",
       "url": "https://open.spotify.com/track/7kFqu2POQO8DOCaLPNqox0"
+    },
+    {
+      "album": {
+        "name": "Para Orar e Adorar 5: Ainda \u00e9 Tempo",
+        "url": "https://open.spotify.com/album/5gCeUSSomeJc13BwTVnHo2"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375800,
+      "name": "O Consolo para o Incosol\u00e1vel",
+      "url": "https://open.spotify.com/track/5knIY1MSvFnpxKZbARx48T"
+    },
+    {
+      "album": {
+        "name": "Pra Me Alegrar",
+        "url": "https://open.spotify.com/album/58ZfY9CuePCUyHSs5LZjw1"
+      },
+      "artists": [
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
+        },
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241906,
+      "name": "O Deserto Vale Ouro (feat. Fernanda Brum)",
+      "url": "https://open.spotify.com/track/4NaIYChm0oaF9yVotZpEiU"
     },
     {
       "album": {
@@ -1278,7 +1336,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-01",
       "duration_ms": 241906,
       "name": "O Deserto Vale Ouro (feat. Fernanda Brum)",
       "url": "https://open.spotify.com/track/5kMfmB02ngkeIwfI9FgXxZ"

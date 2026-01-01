@@ -1,12 +1,12 @@
 {
   "description": "This is Ziggy Marley. The essential tracks, all in one playlist.",
-  "num_followers": 34838,
+  "num_followers": 34841,
   "original_name": "This Is Ziggy Marley",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVHEgAAAAAC6l7WaI0wXtHSDYyLMYzmz",
+  "snapshot_id": "aVMWAAAAAAD2OaRckfXcQs0SL99P7bNv",
   "tracks": [
     {
       "added_at": null,
@@ -519,18 +519,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mons Vaticanus",
-        "url": "https://open.spotify.com/album/0IiRHb6GoraeEiJbVWnyRd"
+        "name": "Cumbiana",
+        "url": "https://open.spotify.com/album/1AWWSFCourc5LCAczs3GOS"
       },
       "artists": [
         {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        },
+        {
           "name": "Ziggy Marley",
           "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        },
+        {
+          "name": "Elkin Robinson",
+          "url": "https://open.spotify.com/artist/1MS4MMgPaQ0WyM0u0Uj3EO"
         }
       ],
-      "duration_ms": 233181,
-      "name": "Mons Vaticanus",
-      "url": "https://open.spotify.com/track/5sqA1UkZY26kCgEQyPG1hQ"
+      "duration_ms": 228450,
+      "name": "El Hilo",
+      "url": "https://open.spotify.com/track/73MVpByUJzvT5GFNkss7ik"
     },
     {
       "added_at": null,
@@ -567,46 +575,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cumbiana",
-        "url": "https://open.spotify.com/album/1AWWSFCourc5LCAczs3GOS"
-      },
-      "artists": [
-        {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-        },
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        },
-        {
-          "name": "Elkin Robinson",
-          "url": "https://open.spotify.com/artist/1MS4MMgPaQ0WyM0u0Uj3EO"
-        }
-      ],
-      "duration_ms": 228450,
-      "name": "El Hilo",
-      "url": "https://open.spotify.com/track/73MVpByUJzvT5GFNkss7ik"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fly Rasta",
-        "url": "https://open.spotify.com/album/5nQixRPyGjTQnCc5GR1kKC"
+        "name": "Mons Vaticanus",
+        "url": "https://open.spotify.com/album/0IiRHb6GoraeEiJbVWnyRd"
       },
       "artists": [
         {
           "name": "Ziggy Marley",
           "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        },
-        {
-          "name": "U-Roy",
-          "url": "https://open.spotify.com/artist/4aCH6cwaYahrWfJWqfEfra"
         }
       ],
-      "duration_ms": 219906,
-      "name": "Fly Rasta (feat. U-Roy)",
-      "url": "https://open.spotify.com/track/7dFKiop2pzcDffeBNOXyPb"
+      "duration_ms": 233181,
+      "name": "Mons Vaticanus",
+      "url": "https://open.spotify.com/track/5sqA1UkZY26kCgEQyPG1hQ"
     },
     {
       "added_at": null,
@@ -643,6 +623,26 @@
       "duration_ms": 236730,
       "name": "Cornerstone",
       "url": "https://open.spotify.com/track/5GMU4f9HzsXfap1QGQAwW6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fly Rasta",
+        "url": "https://open.spotify.com/album/5nQixRPyGjTQnCc5GR1kKC"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        },
+        {
+          "name": "U-Roy",
+          "url": "https://open.spotify.com/artist/4aCH6cwaYahrWfJWqfEfra"
+        }
+      ],
+      "duration_ms": 219906,
+      "name": "Fly Rasta (feat. U-Roy)",
+      "url": "https://open.spotify.com/track/7dFKiop2pzcDffeBNOXyPb"
     },
     {
       "added_at": null,
@@ -799,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lucky One",
-        "url": "https://open.spotify.com/album/78RH18op8dJIMu7zOch288"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 219072,
-      "name": "The Lucky One",
-      "url": "https://open.spotify.com/track/6q5LUIBAQoNyGTey5qkdIt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rebellion Rises",
         "url": "https://open.spotify.com/album/4GEhidr20hYZgYhk6eH2ZO"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 238253,
       "name": "See Dem Fake Leaders",
       "url": "https://open.spotify.com/track/5zaKUBh9bpjmvqumcqECv8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Lucky One",
+        "url": "https://open.spotify.com/album/78RH18op8dJIMu7zOch288"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 219072,
+      "name": "The Lucky One",
+      "url": "https://open.spotify.com/track/6q5LUIBAQoNyGTey5qkdIt"
     },
     {
       "added_at": null,
@@ -847,6 +847,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/3ARzjkVYs15n01pWaxfHNQ"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 260113,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/5a3yXVAUVvkuASBkK5QC3V"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lift Our Spirits Raise Our Voice",
         "url": "https://open.spotify.com/album/6adgWIIDhXZrs4WgZWxqUQ"
       },
@@ -863,8 +879,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drive",
-        "url": "https://open.spotify.com/album/3ARzjkVYs15n01pWaxfHNQ"
+        "name": "Family Time",
+        "url": "https://open.spotify.com/album/3wsu2mRApfZ2eV3lYtg2l3"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 218786,
+      "name": "This Train (feat. Willie Nelson)",
+      "url": "https://open.spotify.com/track/0vs6bNXqs7HnqgsmEoaUaf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wild and Free",
+        "url": "https://open.spotify.com/album/6yek0cOvHIJMWrqhamDq4o"
       },
       "artists": [
         {
@@ -872,9 +908,9 @@
           "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
         }
       ],
-      "duration_ms": 260113,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/5a3yXVAUVvkuASBkK5QC3V"
+      "duration_ms": 210720,
+      "name": "MMMM MMMM",
+      "url": "https://open.spotify.com/track/1jpk6gBEQginuRnNzpuDKp"
     },
     {
       "added_at": null,
@@ -903,42 +939,6 @@
       "duration_ms": 245813,
       "name": "the only",
       "url": "https://open.spotify.com/track/0YucjQSidEVFUV722aAvpA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wild and Free",
-        "url": "https://open.spotify.com/album/6yek0cOvHIJMWrqhamDq4o"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 210720,
-      "name": "MMMM MMMM",
-      "url": "https://open.spotify.com/track/1jpk6gBEQginuRnNzpuDKp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Family Time",
-        "url": "https://open.spotify.com/album/3wsu2mRApfZ2eV3lYtg2l3"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 218786,
-      "name": "This Train (feat. Willie Nelson)",
-      "url": "https://open.spotify.com/track/0vs6bNXqs7HnqgsmEoaUaf"
     }
   ],
   "unique_name": "This Is Ziggy Marley",

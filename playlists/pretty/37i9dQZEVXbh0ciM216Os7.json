@@ -240,9 +240,9 @@
           "url": "https://open.spotify.com/artist/6eeK2uCKV39ahOZUi5qk2k"
         }
       ],
-      "duration_ms": 439680,
-      "name": "I Wanna Know - Stephane Attias Energy Dub",
-      "url": "https://open.spotify.com/track/08HeyMd9OhxS1FBmYYOJNZ"
+      "duration_ms": 252000,
+      "name": "I Wanna Know - Stephane Attias DJ TOOLS",
+      "url": "https://open.spotify.com/track/6S1PpLoVvZABFSfmXCDkyb"
     },
     {
       "added_at": "2025-12-26 05:00:00",
@@ -403,26 +403,6 @@
     {
       "added_at": "2025-12-26 05:00:00",
       "album": {
-        "name": "I'm Sick Of Christmas",
-        "url": "https://open.spotify.com/album/3fZ0yUTlBFcuGROHhDgImj"
-      },
-      "artists": [
-        {
-          "name": "Wax",
-          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
-        },
-        {
-          "name": "DJ Hoppa",
-          "url": "https://open.spotify.com/artist/7zuoqJAXDtNaLzxxm4IShD"
-        }
-      ],
-      "duration_ms": 136774,
-      "name": "I'm Sick Of Christmas",
-      "url": "https://open.spotify.com/track/6rsmirzXAtgBuUMFhihWdu"
-    },
-    {
-      "added_at": "2025-12-26 05:00:00",
-      "album": {
         "name": "The Real Thang (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0jwPDkBu6QUP4aiiwCR2Xo"
       },
@@ -439,6 +419,26 @@
       "duration_ms": 193187,
       "name": "Gringo",
       "url": "https://open.spotify.com/track/5gKuhxSpQisGL1qMmNNTo4"
+    },
+    {
+      "added_at": "2025-12-26 05:00:00",
+      "album": {
+        "name": "I'm Sick Of Christmas",
+        "url": "https://open.spotify.com/album/3fZ0yUTlBFcuGROHhDgImj"
+      },
+      "artists": [
+        {
+          "name": "Wax",
+          "url": "https://open.spotify.com/artist/36kzCQhGfJzrLuZzrHweNV"
+        },
+        {
+          "name": "DJ Hoppa",
+          "url": "https://open.spotify.com/artist/7zuoqJAXDtNaLzxxm4IShD"
+        }
+      ],
+      "duration_ms": 136774,
+      "name": "I'm Sick Of Christmas",
+      "url": "https://open.spotify.com/track/6rsmirzXAtgBuUMFhihWdu"
     },
     {
       "added_at": "2025-12-26 05:00:00",

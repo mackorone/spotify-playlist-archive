@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXN6CDDJDZSt.md) - [plain]
 
 > An introduction to Giacomo Puccini, one of the great Italian opera composers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,121 likes - 72 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,140 likes - 72 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXN6CDDJDZSt.md) - [plain]
 | 71 | [Ecce Sacerdos Magnus](https://open.spotify.com/track/7yDB9eFm7dsqNyC8i0hikI) | [Giacomo Puccini](https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR), [Coro Sinfonico di Milano Giuseppe Verdi](https://open.spotify.com/artist/3Ls9FqEYODRC5mIOVXgZG2), [Riccardo Chailly](https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy) | [Puccini Discoveries](https://open.spotify.com/album/1RhH0ZprLWAQOPF4dOFK2F) | 0:25 |
 | 72 | [Puccini: Crisantemi](https://open.spotify.com/track/0ObV8vQoB8SJLf6vGv4xhB) | [Giacomo Puccini](https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [Antonio Pappano](https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw) | [Puccini: Messa di Gloria, Preludio sinfonico, Crisantemi](https://open.spotify.com/album/2y9CgDrQ19SbbO9rsmihCT) | 7:01 |
 
-Snapshot ID: `AAAAAPASonR41vFjROFixfIaZ+zhs7LF`
+Snapshot ID: `AAAAAA9HZaPhc31E/KtYGMxyQNmOjXT4`

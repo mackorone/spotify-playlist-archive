@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2BYpQY.md) - [plain]
 
 > This is Sinéad O'Connor\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,392 likes - 50 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,401 likes - 50 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,17 +13,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2BYpQY.md) - [plain]
 | 3 | [All Apologies](https://open.spotify.com/track/5nJ96pOx3kXvmISLO7xKIb) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Universal Mother](https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p) | 2:37 |
 | 4 | [Special Cases](https://open.spotify.com/track/0l1eE11aDKxc8ZOYUSXWP9) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X), [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [100th Window](https://open.spotify.com/album/60szvcndZTCqG9E7GSAplB) | 5:09 |
 | 5 | [Last Day of Our Acquaintance](https://open.spotify.com/track/3EYW4bmuPLRo74rf3Yrsw9) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [I Do Not Want What I Haven't Got](https://open.spotify.com/album/0fV9DAddjwNZcmCP1Q8b01) | 4:38 |
-| 6 | [Troy](https://open.spotify.com/track/4ZbrvxwWPNX0MgbubsqbZG) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [The Lion and the Cobra](https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6) | 6:31 |
+| 6 | [Drink Before the War](https://open.spotify.com/track/5Bmc87iF3wRWGyDbzcMrG3) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [The Lion and the Cobra](https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6) | 5:23 |
 | 7 | [GMF](https://open.spotify.com/track/0uul4WzezEwTELfdrWuh3d) | [John Grant](https://open.spotify.com/artist/3TScZ6zJkavDy0tqoGqiCf), [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Pale Green Ghosts](https://open.spotify.com/album/23jVGTd2ouvUNmoWPDkthH) | 5:13 |
 | 8 | [A Prayer For England](https://open.spotify.com/track/62RHWsSdkQqU389pDtL0Bp) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X), [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [100th Window](https://open.spotify.com/album/60szvcndZTCqG9E7GSAplB) | 5:48 |
 | 9 | [The Emperor's New Clothes](https://open.spotify.com/track/0HSmS7KsbOpB3K4UFdOSx9) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [I Do Not Want What I Haven't Got](https://open.spotify.com/album/0fV9DAddjwNZcmCP1Q8b01) | 5:16 |
-| 10 | [Drink Before the War](https://open.spotify.com/track/5Bmc87iF3wRWGyDbzcMrG3) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [The Lion and the Cobra](https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6) | 5:23 |
+| 10 | [Troy](https://open.spotify.com/track/4ZbrvxwWPNX0MgbubsqbZG) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [The Lion and the Cobra](https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6) | 6:31 |
 | 11 | [I Believe In You](https://open.spotify.com/track/3eTQUsyIrJpJBefEZOLdSy) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [A Very Special Christmas 2](https://open.spotify.com/album/2GNgVTfKQEKi4k5RMjoQkM) | 5:38 |
 | 12 | [What Your Soul Sings](https://open.spotify.com/track/6EuGf9ZfK9CcSoq2M0SYto) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X), [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [100th Window](https://open.spotify.com/album/60szvcndZTCqG9E7GSAplB) | 6:38 |
 | 13 | [Black Boys on Mopeds](https://open.spotify.com/track/58H2Z73c7k2UoTMAR739Az) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [I Do Not Want What I Haven't Got](https://open.spotify.com/album/0fV9DAddjwNZcmCP1Q8b01) | 3:52 |
 | 14 | [Just Like U Said It Would B](https://open.spotify.com/track/3SJZbGDZG20DPXmg3jKYj9) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [The Lion and the Cobra](https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6) | 4:31 |
-| 15 | [Mother \- Live In Berlin](https://open.spotify.com/track/1QW6ISVXmDO1sRWjx6xuMx) | [Roger Waters](https://open.spotify.com/artist/40DqL6Tv84cKT2pH2NMs9r), [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1), [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [The Wall \- Live In Berlin](https://open.spotify.com/album/5VH40XjW17Z2y8EuyOajYR) | 6:37 |
-| 16 | [You Made Me The Thief Of Your Heart](https://open.spotify.com/track/6mcbGTts83VjfhhY9zRku1) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [You Made Me The Thief Of Your Heart](https://open.spotify.com/album/0rpPzcZHp4xYSEPKF3JnQ8) | 6:21 |
+| 15 | [You Made Me The Thief Of Your Heart](https://open.spotify.com/track/6mcbGTts83VjfhhY9zRku1) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [You Made Me The Thief Of Your Heart](https://open.spotify.com/album/0rpPzcZHp4xYSEPKF3JnQ8) | 6:21 |
+| 16 | [Mother \- Live In Berlin](https://open.spotify.com/track/1QW6ISVXmDO1sRWjx6xuMx) | [Roger Waters](https://open.spotify.com/artist/40DqL6Tv84cKT2pH2NMs9r), [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1), [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [The Wall \- Live In Berlin](https://open.spotify.com/album/5VH40XjW17Z2y8EuyOajYR) | 6:37 |
 | 17 | [Don't Cry for Me Argentina](https://open.spotify.com/track/60GXsrlgXeaKNHKtP71ruN) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Am I Not Your Girl?](https://open.spotify.com/album/36G5Yxs26PEzUxSGUiAaIn) | 5:34 |
 | 18 | [Jackie](https://open.spotify.com/track/0dQBgFWsfpZabdgAYIwNsO) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [The Lion and the Cobra](https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6) | 2:30 |
 | 19 | [Three Babies](https://open.spotify.com/track/0OYiCy0NLnRg8oQ8ppH9Jm) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [I Do Not Want What I Haven't Got](https://open.spotify.com/album/0fV9DAddjwNZcmCP1Q8b01) | 4:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2BYpQY.md) - [plain]
 | 49 | [Outlander \- The Skye Boat Song \(Revolutionary Version\)](https://open.spotify.com/track/4SJAXVw4aJN4oXVc9ASZh0) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Outlander: Season 7 \(Highlights from the Original Television Soundtrack\)](https://open.spotify.com/album/732Keyphs0peCIsZ1zVdFn) | 3:35 |
 | 50 | ['Til I Whisper U Something](https://open.spotify.com/track/3fythc7lktmU8X0mHNC61K) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Faith and Courage](https://open.spotify.com/album/0ITyzBRmAMnwt8FwtkSu0d) | 6:07 |
 
-Snapshot ID: `aVHEgAAAAACTaq1ICEykeR+ZoJzJatQ2`
+Snapshot ID: `aVMWAAAAAAAKGmY7uq7uhLP58DPaNsnr`

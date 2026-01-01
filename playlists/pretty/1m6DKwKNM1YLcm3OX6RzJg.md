@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1m6DKwKNM1YLcm3OX6RzJg.md) - [plain]
 
 > Upptäck svenska talanger som kommer att vara soundtracket till ditt 2014\.  En spellista som ständigt uppdateras.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,053 likes - 62 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,053 likes - 63 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,15 +60,16 @@ pretty - [cumulative](/playlists/cumulative/1m6DKwKNM1YLcm3OX6RzJg.md) - [plain]
 | 50 | [My Curse Is My Mind](https://open.spotify.com/track/43qY5L1HJ3CKYgGJAcKh0x) | [Nuoli](https://open.spotify.com/artist/7xMAjwGrNnKqsASOpIS3gJ) | [My Curse Is My Mind](https://open.spotify.com/album/7djUn25xHNi5qZB2ibGT1c) | 3:30 |
 | 51 | [Anything So Bright](https://open.spotify.com/track/1trgRFfj4SCKy2Ww1nWTjc) | [Josefin Öhrn + The Liberation](https://open.spotify.com/artist/6ExOR6M5umZFfNgXfjPcex) | [Diamond Waves EP](https://open.spotify.com/album/1UVq220d66clax8VogwgIR) | 4:46 |
 | 52 | [Girls](https://open.spotify.com/track/6AnEE4npTEjvDrTpQdCMqS) | [Beatrice Eli](https://open.spotify.com/artist/1lzoEy8yiIBiHOuaO4h5Wj) | [Girls](https://open.spotify.com/album/42frCu8GbXbM0yTFoBc7uB) | 3:01 |
-| 53 | [Disclosed](https://open.spotify.com/track/7L0P5dT3VkRABiBCdLcGXw) | [Call Me](https://open.spotify.com/artist/1D5Teu4ytSaOvFzXzMfOVW) | [Disclosed](https://open.spotify.com/album/5fhtv2Iqk3E1gm5Y9hIP1e) | 3:41 |
-| 54 | [Do It](https://open.spotify.com/track/5KH3XeR9hk0QUUOIqxt9r7) | [Ninsun Poli](https://open.spotify.com/artist/1SSDTJNx1ExMTdSceOOqOG) | [Breaking Rules](https://open.spotify.com/album/2s30a1wlPdFezOFP23rBE3) | 3:24 |
-| 55 | [Fire](https://open.spotify.com/track/5km3PaR3G3izli7sjjjaso) | [Tiffany K](https://open.spotify.com/artist/7GygNNmOrzfxYA6FUzStyR) | [F!](https://open.spotify.com/album/16XLBiTCmMxMzoJn9zFEMW) | 3:46 |
-| 56 | [On And Off](https://open.spotify.com/track/754QsvXagmmU7qbOVdRZsh) | [Lovisa Samuelsson](https://open.spotify.com/artist/7riT9X2b8cNxcnVKB1V3YX) | [On And Off / Sleepwalker](https://open.spotify.com/album/0QSvuP42WYOmX4f1JJgNwI) | 3:33 |
-| 57 | [The Watcher and the Mind](https://open.spotify.com/track/4cbPc7APmUBuTwnOUoz8Es) | [Iris & Hedvig](https://open.spotify.com/artist/6Z1cYiZ3N2Q2WAc3ZXn913) | [The Watcher and the Mind](https://open.spotify.com/album/62AcdQFithlRAdVbK4dU7V) | 2:48 |
-| 58 | [Say it Like You Mean it](https://open.spotify.com/track/30YuvcPzM120mgeNchky6p) | [Maria Hazell](https://open.spotify.com/artist/44pv88VpkRu39v0lupR2gZ) | [Say it Like You Mean it](https://open.spotify.com/album/38cgcDlZXNWPgU1L4OLbhf) | 3:16 |
-| 59 | [Inte OK](https://open.spotify.com/track/0Wm74MutbYsqdNk5DRqPX8) | [Min Stora Sorg](https://open.spotify.com/artist/53mirS5AzwzEw9MsquLXFo) | [Mvh Anso, M$$](https://open.spotify.com/album/5lTCy0H7QkUCWsilyhkhfq) | 3:13 |
-| 60 | [Wild At Heart](https://open.spotify.com/track/3WZFBxHWyIVlzH4nDAyR0B) | [Jaquline Ronneklew](https://open.spotify.com/artist/1mDQs9Mv3bVIJJyx2XCawe) | [Wild At Heart](https://open.spotify.com/album/0RY8mgqyjUUfXRa47kf9FF) | 3:11 |
-| 61 | [Let's Get Fxxxed One Last Time](https://open.spotify.com/track/4tews9FvmahNNBMbgtEx4s) | [Gutarra](https://open.spotify.com/artist/5PjNp1KvPD5VXn7nj0xSMc) | [Let's Get Fxxxed One Last Time](https://open.spotify.com/album/3ICZKkjv6P9K5YlfMFrRtf) | 4:27 |
-| 62 | [Hands](https://open.spotify.com/track/4loILEGYnk9XndvttRAnwn) | [Iida](https://open.spotify.com/artist/4r8kiXYHx1qXVGZFpyn2s1) | [Hands](https://open.spotify.com/album/4GpS06zFUvDx4Lcf3NCnFR) | 3:22 |
+| 53 | [Black Magic](https://open.spotify.com/track/69TmILv0yqRlWEPCPn0SWs) | [Luna Green](https://open.spotify.com/artist/6WppBFTf3aSXsGee0LlcTs) | [Swedish Strawberries](https://open.spotify.com/album/7GQbWvfa9YFdbUAyKAC79c) | 3:38 |
+| 54 | [Disclosed](https://open.spotify.com/track/7L0P5dT3VkRABiBCdLcGXw) | [Call Me](https://open.spotify.com/artist/1D5Teu4ytSaOvFzXzMfOVW) | [Disclosed](https://open.spotify.com/album/5fhtv2Iqk3E1gm5Y9hIP1e) | 3:41 |
+| 55 | [Do It](https://open.spotify.com/track/5KH3XeR9hk0QUUOIqxt9r7) | [Ninsun Poli](https://open.spotify.com/artist/1SSDTJNx1ExMTdSceOOqOG) | [Breaking Rules](https://open.spotify.com/album/2s30a1wlPdFezOFP23rBE3) | 3:24 |
+| 56 | [Fire](https://open.spotify.com/track/5km3PaR3G3izli7sjjjaso) | [Tiffany K](https://open.spotify.com/artist/7GygNNmOrzfxYA6FUzStyR) | [F!](https://open.spotify.com/album/16XLBiTCmMxMzoJn9zFEMW) | 3:46 |
+| 57 | [On And Off](https://open.spotify.com/track/754QsvXagmmU7qbOVdRZsh) | [Lovisa Samuelsson](https://open.spotify.com/artist/7riT9X2b8cNxcnVKB1V3YX) | [On And Off / Sleepwalker](https://open.spotify.com/album/0QSvuP42WYOmX4f1JJgNwI) | 3:33 |
+| 58 | [The Watcher and the Mind](https://open.spotify.com/track/4cbPc7APmUBuTwnOUoz8Es) | [Iris & Hedvig](https://open.spotify.com/artist/6Z1cYiZ3N2Q2WAc3ZXn913) | [The Watcher and the Mind](https://open.spotify.com/album/62AcdQFithlRAdVbK4dU7V) | 2:48 |
+| 59 | [Say it Like You Mean it](https://open.spotify.com/track/30YuvcPzM120mgeNchky6p) | [Maria Hazell](https://open.spotify.com/artist/44pv88VpkRu39v0lupR2gZ) | [Say it Like You Mean it](https://open.spotify.com/album/38cgcDlZXNWPgU1L4OLbhf) | 3:16 |
+| 60 | [Inte OK](https://open.spotify.com/track/0Wm74MutbYsqdNk5DRqPX8) | [Min Stora Sorg](https://open.spotify.com/artist/53mirS5AzwzEw9MsquLXFo) | [Mvh Anso, M$$](https://open.spotify.com/album/5lTCy0H7QkUCWsilyhkhfq) | 3:13 |
+| 61 | [Wild At Heart](https://open.spotify.com/track/3WZFBxHWyIVlzH4nDAyR0B) | [Jaquline Ronneklew](https://open.spotify.com/artist/1mDQs9Mv3bVIJJyx2XCawe) | [Wild At Heart](https://open.spotify.com/album/0RY8mgqyjUUfXRa47kf9FF) | 3:11 |
+| 62 | [Let's Get Fxxxed One Last Time](https://open.spotify.com/track/4tews9FvmahNNBMbgtEx4s) | [Gutarra](https://open.spotify.com/artist/5PjNp1KvPD5VXn7nj0xSMc) | [Let's Get Fxxxed One Last Time](https://open.spotify.com/album/3ICZKkjv6P9K5YlfMFrRtf) | 4:27 |
+| 63 | [Hands](https://open.spotify.com/track/4loILEGYnk9XndvttRAnwn) | [Iida](https://open.spotify.com/artist/4r8kiXYHx1qXVGZFpyn2s1) | [Hands](https://open.spotify.com/album/4GpS06zFUvDx4Lcf3NCnFR) | 3:22 |
 
 Snapshot ID: `AAABi02OIi/sE6+ToccoDQYF43xov1Kw`

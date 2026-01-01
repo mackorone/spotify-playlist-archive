@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LF9iFWv9Ie.md) - [plain]
 
 > It was never just a phase\. Music videos only available on Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,211 likes - 15 songs - 48 min 44 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,269 likes - 15 songs - 48 min 44 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

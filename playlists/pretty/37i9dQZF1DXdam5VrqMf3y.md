@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdam5VrqMf3y.md) - [plain]
 
 > Your favorite holiday tunes, like you've never heard before\. Cover: Ravyn Lenae
 
-[Spotify](https://open.spotify.com/user/spotify) - 730,699 likes - 93 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 730,713 likes - 93 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 
 > Un playlist \(foarte\) divers, cu tot ce e viral și trending în România
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,993 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,005 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 | 51 | [Azul](https://open.spotify.com/track/2lCkncy6bIB0LTMT7kvrD1) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Colores](https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis) | 3:25 |
 | 52 | [Zoo \- From "Zootopia 2"](https://open.spotify.com/track/7o9qVPLe7MI7XhdAS1PkrN) | [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Zoo \(From "Zootopia 2"\)](https://open.spotify.com/album/2X68ehLzpobCu2ZHDFJVpa) | 3:10 |
 | 53 | [Yamore](https://open.spotify.com/track/480j122Gpi252OIfy4SNzm) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx), [Benja \(NL\)](https://open.spotify.com/artist/0CX4q2v1TeyeskG7GgAyxI), [Franc Fala](https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB), [Cesária Evora](https://open.spotify.com/artist/0Nks3cFWU2a7rooAlFQYgn) | [Yamore](https://open.spotify.com/album/5wKcgs8bejansNdK6IJC0C) | 4:08 |
-| 54 | [ss](https://open.spotify.com/track/26QJuQfM8PVAWkIm1JRyqq) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos \(Deluxe\)](https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL) | 3:04 |
-| 55 | [Caliente](https://open.spotify.com/track/26Z2FQ9KFswyX2x7LxhQKs) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Party Never Ends, Part 1 \(Deluxe Edition\)](https://open.spotify.com/album/45WWiybURSpC7tslSxGnrf) | 3:21 |
+| 54 | [Caliente](https://open.spotify.com/track/26Z2FQ9KFswyX2x7LxhQKs) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Party Never Ends, Part 1 \(Deluxe Edition\)](https://open.spotify.com/album/45WWiybURSpC7tslSxGnrf) | 3:21 |
+| 55 | [ss](https://open.spotify.com/track/26QJuQfM8PVAWkIm1JRyqq) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos \(Deluxe\)](https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL) | 3:04 |
 | 56 | [One Thing](https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [One Thing](https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I) | 3:28 |
 | 57 | [Embrace It](https://open.spotify.com/track/0io16MKpbeDIdYzmGpQaES) | [Ndotz](https://open.spotify.com/artist/5HK6QtizXJzCmoYTkvFRik) | [Embrace It](https://open.spotify.com/album/0mV9Pfr1GfoZLkp1EAau9P) | 1:44 |
 | 58 | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq) | 2:41 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Q2OspJqwwG.md) - [plain]
 | 86 | [Damelo](https://open.spotify.com/track/37h8o6hEV5jdmiNpZkFxRF) | [Tzanca Uraganu](https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66), [Mr\. Juve](https://open.spotify.com/artist/3Mpgf08uPOZUYMnFDRSRV8) | [Damelo](https://open.spotify.com/album/4wauIktNjjNpMduE5M4wuW) | 2:37 |
 | 87 | [Hai tu Maria](https://open.spotify.com/track/3a2J3oIGUhNTGIJ81xFDG7) | [Ursaru](https://open.spotify.com/artist/3bxxzWVZpk4rfuuQUESsAy) | [Hai tu Maria](https://open.spotify.com/album/2xwCwqdWTPKWeYQFOi9W1k) | 2:19 |
 | 88 | [7 Dias](https://open.spotify.com/track/4399pdqfywDAeHJ2YKv4ja) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Florian Rus](https://open.spotify.com/artist/0UPJKLFhLR0GuiBZBLNAsd) | [7 Dias](https://open.spotify.com/album/1IAgMjZ6sm4k1W9Pcab4eR) | 2:42 |
-| 89 | [Anxiety](https://open.spotify.com/track/2RMeldjCXW6xnd1ZeLycv7) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Anxiety](https://open.spotify.com/album/6vn4PpHr01H37q9khkzRby) | 4:09 |
-| 90 | [Mercedes](https://open.spotify.com/track/7CzIPuAZjl1K8wYPOOzHyL) | [Iuly Neamtu](https://open.spotify.com/artist/5d3bc9MSib3NPeIDxYIIWD), [Manele Mentolate](https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR) | [Mercedes](https://open.spotify.com/album/1Xz7MvPHQ8U5YBrNtOztWL) | 2:45 |
+| 89 | [Mercedes](https://open.spotify.com/track/7CzIPuAZjl1K8wYPOOzHyL) | [Iuly Neamtu](https://open.spotify.com/artist/5d3bc9MSib3NPeIDxYIIWD), [Manele Mentolate](https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR) | [Mercedes](https://open.spotify.com/album/1Xz7MvPHQ8U5YBrNtOztWL) | 2:45 |
+| 90 | [Anxiety](https://open.spotify.com/track/2RMeldjCXW6xnd1ZeLycv7) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Anxiety](https://open.spotify.com/album/6vn4PpHr01H37q9khkzRby) | 4:09 |
 | 91 | [Afacere](https://open.spotify.com/track/7L3E8FxVZwNWdWTg6VThqu) | [Bogdan DLP](https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq) | [Afacere](https://open.spotify.com/album/6nH1LSD2E4k6O1eeDNSaFJ) | 2:27 |
 | 92 | [Boca](https://open.spotify.com/track/7nzIefePwn6Q5zcfheWXOF) | [Ursaru](https://open.spotify.com/artist/3bxxzWVZpk4rfuuQUESsAy) | [Boca](https://open.spotify.com/album/2TXiVnODiLZOGhzkLdVDgB) | 2:04 |
 | 93 | [PETER PARKER](https://open.spotify.com/track/6IMQap1ZjMh6KR5Is2rhuR) | [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh) | [PETER PARKER](https://open.spotify.com/album/5U5cXqaCC6UkBfmIIwulFq) | 2:07 |

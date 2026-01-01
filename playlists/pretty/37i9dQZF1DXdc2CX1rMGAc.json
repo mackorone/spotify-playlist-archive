@@ -1,6 +1,6 @@
 {
   "description": "Latin tunes to get your beast mode on!",
-  "num_followers": 258210,
+  "num_followers": 258246,
   "original_name": "Beast Mode Latin",
   "owner": {
     "name": "Spotify",
@@ -715,22 +715,6 @@
     {
       "added_at": "2025-11-18 04:21:35",
       "album": {
-        "name": "Vacile",
-        "url": "https://open.spotify.com/album/1h5pFnX1pTSIhDnouQsn4G"
-      },
-      "artists": [
-        {
-          "name": "Yan Block",
-          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
-        }
-      ],
-      "duration_ms": 140239,
-      "name": "Vacile",
-      "url": "https://open.spotify.com/track/0w0e3Te2Rd4t8gGKi3sU6a"
-    },
-    {
-      "added_at": "2025-11-18 04:21:35",
-      "album": {
         "name": "EL \u00daLTIMO BAILE",
         "url": "https://open.spotify.com/album/3EWJoKrG9XnCjvAPzkQZ88"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 145342,
       "name": "REAL GANGSTA LOVE",
       "url": "https://open.spotify.com/track/1pymWRCuZfCd0zdiBJo0Hj"
+    },
+    {
+      "added_at": "2025-11-18 04:21:35",
+      "album": {
+        "name": "Vacile",
+        "url": "https://open.spotify.com/album/1h5pFnX1pTSIhDnouQsn4G"
+      },
+      "artists": [
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        }
+      ],
+      "duration_ms": 140239,
+      "name": "Vacile",
+      "url": "https://open.spotify.com/track/0w0e3Te2Rd4t8gGKi3sU6a"
     },
     {
       "added_at": "2025-11-18 04:21:35",
@@ -823,58 +823,6 @@
     {
       "added_at": "2025-11-18 04:21:35",
       "album": {
-        "name": "capaz (merengueton)",
-        "url": "https://open.spotify.com/album/2ZrE9RpWOoVhffUupc6hRV"
-      },
-      "artists": [
-        {
-          "name": "Alleh",
-          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
-        },
-        {
-          "name": "Yorghaki",
-          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
-        }
-      ],
-      "duration_ms": 173858,
-      "name": "capaz (merengueton)",
-      "url": "https://open.spotify.com/track/3QbfCvCAOCrSGNcGjtOjYM"
-    },
-    {
-      "added_at": "2025-11-18 04:21:35",
-      "album": {
-        "name": "Atrevido",
-        "url": "https://open.spotify.com/album/1xBoZOfcOsqd77V6AENKYC"
-      },
-      "artists": [
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        },
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Taiu",
-          "url": "https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic"
-        },
-        {
-          "name": "tatool",
-          "url": "https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo"
-        }
-      ],
-      "duration_ms": 219201,
-      "name": "Mamichula - con Nicki Nicole",
-      "url": "https://open.spotify.com/track/0TUW9faHNaBmi89wsYGp9y"
-    },
-    {
-      "added_at": "2025-11-18 04:21:35",
-      "album": {
         "name": "ori\u00f3N",
         "url": "https://open.spotify.com/album/2FWRFIH8Agbw8JGG4hbdG6"
       },
@@ -911,6 +859,58 @@
       "duration_ms": 185076,
       "name": "flashes",
       "url": "https://open.spotify.com/track/6ciaJyxPG3OueX32rd57jA"
+    },
+    {
+      "added_at": "2025-11-18 04:21:35",
+      "album": {
+        "name": "Atrevido",
+        "url": "https://open.spotify.com/album/1xBoZOfcOsqd77V6AENKYC"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Taiu",
+          "url": "https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic"
+        },
+        {
+          "name": "tatool",
+          "url": "https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo"
+        }
+      ],
+      "duration_ms": 219201,
+      "name": "Mamichula - con Nicki Nicole",
+      "url": "https://open.spotify.com/track/0TUW9faHNaBmi89wsYGp9y"
+    },
+    {
+      "added_at": "2025-11-18 04:21:35",
+      "album": {
+        "name": "capaz (merengueton)",
+        "url": "https://open.spotify.com/album/2ZrE9RpWOoVhffUupc6hRV"
+      },
+      "artists": [
+        {
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+        },
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        }
+      ],
+      "duration_ms": 173858,
+      "name": "capaz (merengueton)",
+      "url": "https://open.spotify.com/track/3QbfCvCAOCrSGNcGjtOjYM"
     },
     {
       "added_at": "2025-11-18 04:21:35",
@@ -1019,26 +1019,6 @@
     {
       "added_at": "2025-11-18 04:21:35",
       "album": {
-        "name": "LA CIUDAD",
-        "url": "https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t"
-      },
-      "artists": [
-        {
-          "name": "Alleh",
-          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
-        },
-        {
-          "name": "Yorghaki",
-          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
-        }
-      ],
-      "duration_ms": 177049,
-      "name": "una noche",
-      "url": "https://open.spotify.com/track/634CTghcuEDy2FXcTsLG5m"
-    },
-    {
-      "added_at": "2025-11-18 04:21:35",
-      "album": {
         "name": "El Efecto (Remix)",
         "url": "https://open.spotify.com/album/18wfVLHQKF0yXimErnxAfo"
       },
@@ -1071,6 +1051,26 @@
       "duration_ms": 289898,
       "name": "El Efecto - Remix",
       "url": "https://open.spotify.com/track/74j34STf8L6uADnTN69ohv"
+    },
+    {
+      "added_at": "2025-11-18 04:21:35",
+      "album": {
+        "name": "LA CIUDAD",
+        "url": "https://open.spotify.com/album/0sWJ3v0FROzcNzyjNYUs6t"
+      },
+      "artists": [
+        {
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+        },
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        }
+      ],
+      "duration_ms": 177049,
+      "name": "una noche",
+      "url": "https://open.spotify.com/track/634CTghcuEDy2FXcTsLG5m"
     },
     {
       "added_at": "2025-11-18 04:21:35",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2025-11-18 04:21:35",
       "album": {
+        "name": "HAY LUPITA",
+        "url": "https://open.spotify.com/album/2VOwmlyJzRjfMfofsNHTtR"
+      },
+      "artists": [
+        {
+          "name": "Lomiiel",
+          "url": "https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo"
+        }
+      ],
+      "duration_ms": 105836,
+      "name": "HAY LUPITA",
+      "url": "https://open.spotify.com/track/5jFA0f4ZDGLbQP4nxzL8D4"
+    },
+    {
+      "added_at": "2025-11-18 04:21:35",
+      "album": {
         "name": "Bing Bong",
         "url": "https://open.spotify.com/album/7m6elVzm04Fd2FdKTVAolu"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 123591,
       "name": "Bing Bong",
       "url": "https://open.spotify.com/track/6s9PpYbExKlHuJ8JMyep21"
-    },
-    {
-      "added_at": "2025-11-18 04:21:35",
-      "album": {
-        "name": "HAY LUPITA",
-        "url": "https://open.spotify.com/album/2VOwmlyJzRjfMfofsNHTtR"
-      },
-      "artists": [
-        {
-          "name": "Lomiiel",
-          "url": "https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo"
-        }
-      ],
-      "duration_ms": 105836,
-      "name": "HAY LUPITA",
-      "url": "https://open.spotify.com/track/5jFA0f4ZDGLbQP4nxzL8D4"
     },
     {
       "added_at": "2025-11-18 04:21:35",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2025-11-18 04:21:35",
       "album": {
-        "name": "Qu\u00e9 Motor",
-        "url": "https://open.spotify.com/album/2LvtszFFMSpVKVrdniBY8f"
-      },
-      "artists": [
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        }
-      ],
-      "duration_ms": 187459,
-      "name": "Qu\u00e9 Motor",
-      "url": "https://open.spotify.com/track/6B9j1SQnmtHa0i5FiifFRi"
-    },
-    {
-      "added_at": "2025-11-18 04:21:35",
-      "album": {
         "name": "Rayo",
         "url": "https://open.spotify.com/album/1hUqwHvAVIEXMXqIrkHgPo"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 180919,
       "name": "5'3",
       "url": "https://open.spotify.com/track/2Eqtd0tcTHaIJkZXUQnuqh"
+    },
+    {
+      "added_at": "2025-11-18 04:21:35",
+      "album": {
+        "name": "Qu\u00e9 Motor",
+        "url": "https://open.spotify.com/album/2LvtszFFMSpVKVrdniBY8f"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "duration_ms": 187459,
+      "name": "Qu\u00e9 Motor",
+      "url": "https://open.spotify.com/track/6B9j1SQnmtHa0i5FiifFRi"
     },
     {
       "added_at": "2025-11-18 04:21:35",
@@ -1535,26 +1535,6 @@
     {
       "added_at": "2025-11-18 04:21:35",
       "album": {
-        "name": "Back2Back",
-        "url": "https://open.spotify.com/album/3td6WtAEmsQXsE2juKCIgv"
-      },
-      "artists": [
-        {
-          "name": "J Abdiel",
-          "url": "https://open.spotify.com/artist/17SY5q1CMOZJBRuPcKWwPI"
-        },
-        {
-          "name": "DFZM",
-          "url": "https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Back2Back",
-      "url": "https://open.spotify.com/track/0HApCqaKwmBLA74FBdfH60"
-    },
-    {
-      "added_at": "2025-11-18 04:21:35",
-      "album": {
         "name": "HALO",
         "url": "https://open.spotify.com/album/4P4PTxkt3GcWxRh0gYqhgr"
       },
@@ -1571,6 +1551,26 @@
       "duration_ms": 181261,
       "name": "HALO",
       "url": "https://open.spotify.com/track/5ufdUMpR5urDWj8LbsomJi"
+    },
+    {
+      "added_at": "2025-11-18 04:21:35",
+      "album": {
+        "name": "Back2Back",
+        "url": "https://open.spotify.com/album/3td6WtAEmsQXsE2juKCIgv"
+      },
+      "artists": [
+        {
+          "name": "J Abdiel",
+          "url": "https://open.spotify.com/artist/17SY5q1CMOZJBRuPcKWwPI"
+        },
+        {
+          "name": "DFZM",
+          "url": "https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Back2Back",
+      "url": "https://open.spotify.com/track/0HApCqaKwmBLA74FBdfH60"
     },
     {
       "added_at": "2025-11-18 04:21:35",
@@ -1963,6 +1963,22 @@
     {
       "added_at": "2025-11-18 04:21:35",
       "album": {
+        "name": "OH WOW",
+        "url": "https://open.spotify.com/album/3bxnH77ofJYkCpBq97YVAg"
+      },
+      "artists": [
+        {
+          "name": "Clarent",
+          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
+        }
+      ],
+      "duration_ms": 226560,
+      "name": "OH WOW",
+      "url": "https://open.spotify.com/track/2CVQ3jo9g4SfLv1jXburFL"
+    },
+    {
+      "added_at": "2025-11-18 04:21:35",
+      "album": {
         "name": "Noventa (with J Balvin)",
         "url": "https://open.spotify.com/album/3XQBkWFSD3odoEKkMpPrjZ"
       },
@@ -1979,22 +1995,6 @@
       "duration_ms": 146700,
       "name": "Noventa (with J Balvin)",
       "url": "https://open.spotify.com/track/0QI0JAWUTBJhHq3b4QxeIp"
-    },
-    {
-      "added_at": "2025-11-18 04:21:35",
-      "album": {
-        "name": "OH WOW",
-        "url": "https://open.spotify.com/album/3bxnH77ofJYkCpBq97YVAg"
-      },
-      "artists": [
-        {
-          "name": "Clarent",
-          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
-        }
-      ],
-      "duration_ms": 226560,
-      "name": "OH WOW",
-      "url": "https://open.spotify.com/track/2CVQ3jo9g4SfLv1jXburFL"
     },
     {
       "added_at": "2025-11-18 04:21:35",
@@ -2275,6 +2275,22 @@
     {
       "added_at": "2025-11-18 04:21:35",
       "album": {
+        "name": "All Eyes On Me",
+        "url": "https://open.spotify.com/album/4Gzj1NVk6KksUf56sJiIF3"
+      },
+      "artists": [
+        {
+          "name": "Cano",
+          "url": "https://open.spotify.com/artist/60ZOYUFnCYEeKYsxgvPxOS"
+        }
+      ],
+      "duration_ms": 161311,
+      "name": "All Eyes On Me",
+      "url": "https://open.spotify.com/track/3FKwkGb7Cd96TiXgv69dNc"
+    },
+    {
+      "added_at": "2025-11-18 04:21:35",
+      "album": {
         "name": "Pretty Little Baby",
         "url": "https://open.spotify.com/album/3hr4fBTzj8PxiUdDloKh3K"
       },
@@ -2295,22 +2311,6 @@
       "duration_ms": 131634,
       "name": "Pretty Little Baby",
       "url": "https://open.spotify.com/track/5yZtuZG7pwnODadEyWvUyL"
-    },
-    {
-      "added_at": "2025-11-18 04:21:35",
-      "album": {
-        "name": "All Eyes On Me",
-        "url": "https://open.spotify.com/album/4Gzj1NVk6KksUf56sJiIF3"
-      },
-      "artists": [
-        {
-          "name": "Cano",
-          "url": "https://open.spotify.com/artist/60ZOYUFnCYEeKYsxgvPxOS"
-        }
-      ],
-      "duration_ms": 161311,
-      "name": "All Eyes On Me",
-      "url": "https://open.spotify.com/track/3FKwkGb7Cd96TiXgv69dNc"
     },
     {
       "added_at": "2025-11-18 04:21:35",

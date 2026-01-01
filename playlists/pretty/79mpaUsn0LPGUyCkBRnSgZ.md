@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 639 songs - 1 day 17 hr 31 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 647 songs - 1 day 18 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -642,10 +642,18 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 632 | [Everybody's dead!](https://open.spotify.com/track/40udcJKNzQ8WonnPwMW9ky) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [boneyard aka fearmonger](https://open.spotify.com/album/0d5AkUvivi6Y6Vyv8OYjZO) | 1:52 |
 | 633 | [Drinking Song](https://open.spotify.com/track/0QrxeCKmq1qHJSqysK5rdD) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [Fish Eyes EP](https://open.spotify.com/album/0AJs8uGiBASbgSV5t34yhp) | 3:14 |
 | 634 | [INTRO](https://open.spotify.com/track/20wAl6YDZH9UH9Ld6qDXn1) | [3ee](https://open.spotify.com/artist/0MOQB6FzT4cx60yzXhtj9h) | [LUVSNGS](https://open.spotify.com/album/7gBmFzv4mHvbc5w5JsrEZ8) | 0:28 |
-| 635 | [It Never Happened](https://open.spotify.com/track/0KcdT1eZcoT9keTV397Yu8) | [Bobbing](https://open.spotify.com/artist/0hyUSoWsUbtXhzmY2JWObX) | [Year of the Newt](https://open.spotify.com/album/75qAoON3tKG7AMtpCQheE4) | 2:31 |
-| 636 | [Parapet](https://open.spotify.com/track/1UtoWvSd1GdKLk5mbsbTIh) | [@](https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3) | [Mind Palace Music](https://open.spotify.com/album/7h3MMJMKzY03w8VVYgrYWr) | 1:30 |
-| 637 | [Burning Bush](https://open.spotify.com/track/5oJMhdvIeFNF8dSFHm3K1P) | [E.R\. Visit](https://open.spotify.com/artist/3slFJFGiypL8bx2s14hzBC) | [my children will ignore you, my children will type amen](https://open.spotify.com/album/0LcXQTwXLJKizoMzyT8qak) | 1:48 |
-| 638 | [Something](https://open.spotify.com/track/6GNM7asYK1XgrQBzwsdFJ4) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk) | [Who's Your New Professor](https://open.spotify.com/album/0iUN5c7t6CWTKnLgtMY6gF) | 3:49 |
-| 639 | [The Beast](https://open.spotify.com/track/1XNGWVLE89kJYPxL3Hkzi5) | [Anna von Hausswolff](https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6) | [ICONOCLASTS](https://open.spotify.com/album/20BKSOzIQSHI4kLQIzPslN) | 3:11 |
+| 635 | [Burning Bush](https://open.spotify.com/track/5oJMhdvIeFNF8dSFHm3K1P) | [E.R\. Visit](https://open.spotify.com/artist/3slFJFGiypL8bx2s14hzBC) | [my children will ignore you, my children will type amen](https://open.spotify.com/album/0LcXQTwXLJKizoMzyT8qak) | 1:48 |
+| 636 | [Something](https://open.spotify.com/track/6GNM7asYK1XgrQBzwsdFJ4) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk) | [Who's Your New Professor](https://open.spotify.com/album/0iUN5c7t6CWTKnLgtMY6gF) | 3:49 |
+| 637 | [The Beast](https://open.spotify.com/track/1XNGWVLE89kJYPxL3Hkzi5) | [Anna von Hausswolff](https://open.spotify.com/artist/1eiXrvua27VlWgZ9kiaIn6) | [ICONOCLASTS](https://open.spotify.com/album/20BKSOzIQSHI4kLQIzPslN) | 3:11 |
+| 638 | [Joshua Underwater](https://open.spotify.com/track/66p3HV0lZzQEIhB11xRgQz) | [Mason Lindahl](https://open.spotify.com/artist/1JHWVGXM8J7dAaLZpCqFcP) | [Joshua / Same Day Walking](https://open.spotify.com/album/72kWJbeoJI4DZwS5yp66Ro) | 7:26 |
+| 639 | [Easy](https://open.spotify.com/track/1KO2CDSbDCICMBcSEw5esG) | [Prewn](https://open.spotify.com/artist/1Sm5PqM25CcIBtKSvZz9iS) | [System](https://open.spotify.com/album/4aweXXTsOD2Jx6XMGfLfru) | 3:56 |
+| 640 | [All My Life](https://open.spotify.com/track/2mgmn8ZVRHUtiOIXS1V9DV) | [Eliana Glass](https://open.spotify.com/artist/1PJjW9Z03G2R0q6GM6QgFc) | [E](https://open.spotify.com/album/5l5WzqAhsWj2Quh4VcT8rE) | 5:02 |
+| 641 | [Seaglass Wish](https://open.spotify.com/track/3yWSo0oqjakX2KnES2N7fD) | [Kitchen](https://open.spotify.com/artist/4WDKeq9tHjGEcSgzhzhLB0) | [Blue Heeler in Ugly Snowlight, Grey on Gray on Gray on White](https://open.spotify.com/album/59UxAPWtavTqnqeUZ1aG2t) | 7:07 |
+| 642 | [Point and Shoot](https://open.spotify.com/track/1YhGlIl93I7WNvsBda9Fpw) | [Greg Freeman](https://open.spotify.com/artist/7naOvlP3zuvwVn7hiSeGwJ) | [Burnover](https://open.spotify.com/album/0C9nK6t31Xxpv6XtMakvQv) | 3:05 |
+| 643 | [Lay down](https://open.spotify.com/track/41pMat2eON1f1hxqN3BycL) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [Iris Silver Mist](https://open.spotify.com/album/2eMQz1VNYCVSJ8amR0AgQX) | 4:16 |
+| 644 | [忘れる女](https://open.spotify.com/track/4JnKSfRE4sM1LVHRwkDNEM) | [betcover!!](https://open.spotify.com/artist/0qOuNoGdyXOUZlgdqPbTz3) | [勇気](https://open.spotify.com/album/1XNE6xQzrlW6qce2rWC14z) | 4:42 |
+| 645 | [Tom Violence](https://open.spotify.com/track/0IqY07yVeGSFXyIlHGqjyE) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Evol](https://open.spotify.com/album/5Bf5U1Zw9gsJh6bWaM2VY2) | 3:05 |
+| 646 | [Schizophrenia](https://open.spotify.com/track/22t3vCXfjQhIiXzGVSZNOz) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Sister](https://open.spotify.com/album/4gPkBsMmufyOMCJbXUUme8) | 4:38 |
+| 647 | [Laminated Cat](https://open.spotify.com/track/2yIGVr7Z3XmxCcvpsvH5j7) | [Loose Fur](https://open.spotify.com/artist/4OogVxC2vWAsXsTYXctXi1) | [Loose Fur](https://open.spotify.com/album/6XMooW4FkijMrHXbHSHhjI) | 7:18 |
 
-Snapshot ID: `AAAINiIMcAV+1Xlp1k8VHnP57TZkI0fF`
+Snapshot ID: `AAAIQmvE6SWVqs9IW5yWDDfFcDWHlwFp`

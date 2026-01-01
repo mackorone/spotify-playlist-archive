@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXd7abuqiatD.md) - [plain]
 
 > Pacific Avenue curate your next Road Trip
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,885 likes - 45 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,869 likes - 45 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXd7abuqiatD.md) - [plain]
 | 44 | [Dreams \- 2004 Remaster](https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:17 |
 | 45 | [Run to Paradise](https://open.spotify.com/track/6Amt2E3nanH9lhZnas9oOs) | [Choirboys](https://open.spotify.com/artist/2u6qHMpQaE48aowjWKJeCM) | [Big Bad Noise](https://open.spotify.com/album/2RUPcjcTFN1B4jxYe4RsIF) | 4:11 |
 
-Snapshot ID: `AAAAALOCBw+7Sj57NsLXtnyfimFsSar1`
+Snapshot ID: `AAAAAGZ5/meLxDiPBLhIO9LRG27UYyAq`

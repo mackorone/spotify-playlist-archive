@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,133 likes - 222 songs - 13 hr 10 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,134 likes - 223 songs - 13 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -230,5 +230,6 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 220 | [sometimes i hate u](https://open.spotify.com/track/58XbjNGjFNVkoimrN4WRt0) | [RunAway](https://open.spotify.com/artist/5t9rt3N6KSShHHbvKewYSp) | [Last Day On Earth](https://open.spotify.com/album/2w6uA7ijUKOsyge5sg2D1i) | 1:44 |
 | 221 | [Aquila](https://open.spotify.com/track/3PxcCMRlyHlZ6PdA647rru) | [Open Strum](https://open.spotify.com/artist/1Xh9igcpw9BvisCWyVQ932), [One Guild](https://open.spotify.com/artist/65tJuTsrG52OELMrkeoZET) | [Open Strum 2](https://open.spotify.com/album/1jIdsJW3n2lfxaP7IQnwko) | 2:38 |
 | 222 | [TARUYA](https://open.spotify.com/track/62jD9K6RUkUkttMNa5ENLm) | [Eucryphia](https://open.spotify.com/artist/4JeeJ77VrOc1r46XSO9wzt) | [TARUYA](https://open.spotify.com/album/5Efc1yDQ7g05sAZuwSyTYx) | 2:04 |
+| 223 | [Just A Good Time 80s Jam](https://open.spotify.com/track/3Ytv0HiQSQKrPg0JL1ql22) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [Just A Good Time 80s Jam](https://open.spotify.com/album/7dcLwSUHVmHRhwBZUz3XSq) | 2:34 |
 
-Snapshot ID: `AAAOgmFhzVRcS/K0BXzF513hUwYhD49n`
+Snapshot ID: `AAAOgzvZHU0VgFbr5eGbOPmrUoie0+Va`

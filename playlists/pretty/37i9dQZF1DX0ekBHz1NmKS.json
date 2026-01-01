@@ -1,6 +1,6 @@
 {
   "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu. ",
-  "num_followers": 195962,
+  "num_followers": 195960,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
@@ -655,22 +655,6 @@
     {
       "added_at": "2025-12-29 09:34:12",
       "album": {
-        "name": "Do You Hate Me Now",
-        "url": "https://open.spotify.com/album/5ShprgDId2y63ncajPVS8s"
-      },
-      "artists": [
-        {
-          "name": "Winona Oak",
-          "url": "https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1"
-        }
-      ],
-      "duration_ms": 207752,
-      "name": "Do You Hate Me Now",
-      "url": "https://open.spotify.com/track/34qYoMxmCRJL19n0nnJEA2"
-    },
-    {
-      "added_at": "2025-12-29 09:34:12",
-      "album": {
         "name": "RANSOMS",
         "url": "https://open.spotify.com/album/5oOJGXGWhnufgTOR52CJi7"
       },
@@ -687,22 +671,18 @@
     {
       "added_at": "2025-12-29 09:34:12",
       "album": {
-        "name": "Barfotabarn",
-        "url": "https://open.spotify.com/album/2y4NvvQOQnhKjYEl3D74wx"
+        "name": "Do You Hate Me Now",
+        "url": "https://open.spotify.com/album/5ShprgDId2y63ncajPVS8s"
       },
       "artists": [
         {
-          "name": "Albin Lee Meldau",
-          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
-        },
-        {
-          "name": "Arvid Nero",
-          "url": "https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew"
+          "name": "Winona Oak",
+          "url": "https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1"
         }
       ],
-      "duration_ms": 165632,
-      "name": "Barfotabarn",
-      "url": "https://open.spotify.com/track/6F5M4PKFmmhOHeP5l5dc0F"
+      "duration_ms": 207752,
+      "name": "Do You Hate Me Now",
+      "url": "https://open.spotify.com/track/34qYoMxmCRJL19n0nnJEA2"
     },
     {
       "added_at": "2025-12-29 09:34:12",
@@ -723,6 +703,26 @@
       "duration_ms": 196314,
       "name": "Get It Over",
       "url": "https://open.spotify.com/track/5sJUrTiOlAdoKO8V81spAv"
+    },
+    {
+      "added_at": "2025-12-29 09:34:12",
+      "album": {
+        "name": "Barfotabarn",
+        "url": "https://open.spotify.com/album/2y4NvvQOQnhKjYEl3D74wx"
+      },
+      "artists": [
+        {
+          "name": "Albin Lee Meldau",
+          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
+        },
+        {
+          "name": "Arvid Nero",
+          "url": "https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew"
+        }
+      ],
+      "duration_ms": 165632,
+      "name": "Barfotabarn",
+      "url": "https://open.spotify.com/track/6F5M4PKFmmhOHeP5l5dc0F"
     },
     {
       "added_at": "2025-12-29 09:34:12",
@@ -851,22 +851,6 @@
     {
       "added_at": "2025-12-29 09:34:12",
       "album": {
-        "name": "Sugar High",
-        "url": "https://open.spotify.com/album/4l5nhLF57bPawn8SR6lwrt"
-      },
-      "artists": [
-        {
-          "name": "FELICIA",
-          "url": "https://open.spotify.com/artist/5KR7k79pkoPeGdMcv4DLOa"
-        }
-      ],
-      "duration_ms": 150120,
-      "name": "Sugar High",
-      "url": "https://open.spotify.com/track/4wAijWh2EQSASiQUblhC4h"
-    },
-    {
-      "added_at": "2025-12-29 09:34:12",
-      "album": {
         "name": "Love is for Losers",
         "url": "https://open.spotify.com/album/2KUV1COZY4KFM2mtOA5cBs"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 204167,
       "name": "Love is for Losers",
       "url": "https://open.spotify.com/track/5QcofXOqhJBxkUKftdRA0Q"
+    },
+    {
+      "added_at": "2025-12-29 09:34:12",
+      "album": {
+        "name": "Sugar High",
+        "url": "https://open.spotify.com/album/4l5nhLF57bPawn8SR6lwrt"
+      },
+      "artists": [
+        {
+          "name": "FELICIA",
+          "url": "https://open.spotify.com/artist/5KR7k79pkoPeGdMcv4DLOa"
+        }
+      ],
+      "duration_ms": 150120,
+      "name": "Sugar High",
+      "url": "https://open.spotify.com/track/4wAijWh2EQSASiQUblhC4h"
     },
     {
       "added_at": "2025-12-29 09:34:12",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2025-12-29 09:34:12",
       "album": {
-        "name": "Forevers",
-        "url": "https://open.spotify.com/album/1Cwlh31SKFozdbGskNJWbJ"
+        "name": "Greczula (Deluxe Version)",
+        "url": "https://open.spotify.com/album/15G341uaHpzyllZGxgf9Gf"
       },
       "artists": [
         {
-          "name": "Johnossi",
-          "url": "https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT"
+          "name": "Greczula",
+          "url": "https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4"
         }
       ],
-      "duration_ms": 229770,
-      "name": "Inner City Ghosts",
-      "url": "https://open.spotify.com/track/1wQ00RmlR3rtTdQXui3xrh"
+      "duration_ms": 161194,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/4MrhnXxJ2FZgONBoKRWFAw"
     },
     {
       "added_at": "2025-12-29 09:34:12",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2025-12-29 09:34:12",
       "album": {
-        "name": "Greczula (Deluxe Version)",
-        "url": "https://open.spotify.com/album/15G341uaHpzyllZGxgf9Gf"
+        "name": "Forevers",
+        "url": "https://open.spotify.com/album/1Cwlh31SKFozdbGskNJWbJ"
       },
       "artists": [
         {
-          "name": "Greczula",
-          "url": "https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4"
+          "name": "Johnossi",
+          "url": "https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT"
         }
       ],
-      "duration_ms": 161194,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/4MrhnXxJ2FZgONBoKRWFAw"
+      "duration_ms": 229770,
+      "name": "Inner City Ghosts",
+      "url": "https://open.spotify.com/track/1wQ00RmlR3rtTdQXui3xrh"
     },
     {
       "added_at": "2025-12-29 09:34:12",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2025-12-29 09:34:12",
       "album": {
+        "name": "I Rymden Finns Inga T\u00e5rar",
+        "url": "https://open.spotify.com/album/53vNOMnb7XNn6cM0dyKi3Z"
+      },
+      "artists": [
+        {
+          "name": "Rymdpojken",
+          "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
+        }
+      ],
+      "duration_ms": 226346,
+      "name": "Ingen Vet...",
+      "url": "https://open.spotify.com/track/53vPl8xKjPc6AaCLD1XlpH"
+    },
+    {
+      "added_at": "2025-12-29 09:34:12",
+      "album": {
         "name": "Saltvatten",
         "url": "https://open.spotify.com/album/20vHV2i2Xsq1fKZ7WwKMZz"
       },
@@ -1219,18 +1235,22 @@
     {
       "added_at": "2025-12-29 09:34:12",
       "album": {
-        "name": "I Rymden Finns Inga T\u00e5rar",
-        "url": "https://open.spotify.com/album/53vNOMnb7XNn6cM0dyKi3Z"
+        "name": "H\u00e4mta mer (Sonar Remix)",
+        "url": "https://open.spotify.com/album/48S65ihsx4DLIKJpZnsXeL"
       },
       "artists": [
         {
-          "name": "Rymdpojken",
-          "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
+          "name": "Veronica Maggio",
+          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
+        },
+        {
+          "name": "Sonar",
+          "url": "https://open.spotify.com/artist/11DKQbdDgRUHzcBjdCOZTl"
         }
       ],
-      "duration_ms": 226346,
-      "name": "Ingen Vet...",
-      "url": "https://open.spotify.com/track/53vPl8xKjPc6AaCLD1XlpH"
+      "duration_ms": 223384,
+      "name": "H\u00e4mta mer - Sonar Remix",
+      "url": "https://open.spotify.com/track/6W9Xqp0K1noBNc2E5b4MY2"
     },
     {
       "added_at": "2025-12-29 09:34:12",
@@ -1251,22 +1271,6 @@
     {
       "added_at": "2025-12-29 09:34:12",
       "album": {
-        "name": "Modigare",
-        "url": "https://open.spotify.com/album/3V2lkvykUbTPrjjSTiVt4i"
-      },
-      "artists": [
-        {
-          "name": "Julia Lov",
-          "url": "https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq"
-        }
-      ],
-      "duration_ms": 233614,
-      "name": "Modigare",
-      "url": "https://open.spotify.com/track/0hDObU8Kv3nslMfQIRWrdo"
-    },
-    {
-      "added_at": "2025-12-29 09:34:12",
-      "album": {
         "name": "Stockholm \u00e4r f\u00f6r stort",
         "url": "https://open.spotify.com/album/341ScRYl1Nuz3wPvelqdxk"
       },
@@ -1283,18 +1287,18 @@
     {
       "added_at": "2025-12-29 09:34:12",
       "album": {
-        "name": "Forgive, Forget",
-        "url": "https://open.spotify.com/album/3Rf6s8Ssci4wfPifJEoBPE"
+        "name": "Modigare",
+        "url": "https://open.spotify.com/album/3V2lkvykUbTPrjjSTiVt4i"
       },
       "artists": [
         {
-          "name": "Kevin Walker",
-          "url": "https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT"
+          "name": "Julia Lov",
+          "url": "https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq"
         }
       ],
-      "duration_ms": 169608,
-      "name": "Forgive, Forget",
-      "url": "https://open.spotify.com/track/72gpoH9hjA3uJJBG64nEVv"
+      "duration_ms": 233614,
+      "name": "Modigare",
+      "url": "https://open.spotify.com/track/0hDObU8Kv3nslMfQIRWrdo"
     },
     {
       "added_at": "2025-12-29 09:34:12",
@@ -1311,6 +1315,22 @@
       "duration_ms": 202987,
       "name": "A Sky Full of Stars",
       "url": "https://open.spotify.com/track/46ugCVn6XqZKNDE2lLQzOm"
+    },
+    {
+      "added_at": "2025-12-29 09:34:12",
+      "album": {
+        "name": "Forgive, Forget",
+        "url": "https://open.spotify.com/album/3Rf6s8Ssci4wfPifJEoBPE"
+      },
+      "artists": [
+        {
+          "name": "Kevin Walker",
+          "url": "https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT"
+        }
+      ],
+      "duration_ms": 169608,
+      "name": "Forgive, Forget",
+      "url": "https://open.spotify.com/track/72gpoH9hjA3uJJBG64nEVv"
     },
     {
       "added_at": "2025-12-29 09:34:12",
@@ -1379,18 +1399,18 @@
     {
       "added_at": "2025-12-29 09:34:12",
       "album": {
-        "name": "Mistakes",
-        "url": "https://open.spotify.com/album/0Hwfl9l8bI0CPBLxU8H5AT"
+        "name": "Andarna",
+        "url": "https://open.spotify.com/album/7xzfbsn3XlOxsemWxzykqY"
       },
       "artists": [
         {
-          "name": "Scout",
-          "url": "https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR"
+          "name": "Eah J\u00e9",
+          "url": "https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc"
         }
       ],
-      "duration_ms": 215298,
-      "name": "Mistakes",
-      "url": "https://open.spotify.com/track/2r3OmINnuBrxP5VXuIlUeR"
+      "duration_ms": 226124,
+      "name": "Andarna",
+      "url": "https://open.spotify.com/track/3LbU3hQgMSyRHqYcGXVFLx"
     },
     {
       "added_at": "2025-12-29 09:34:12",
@@ -1407,22 +1427,6 @@
       "duration_ms": 229994,
       "name": "Klara",
       "url": "https://open.spotify.com/track/0bGNkAnYXjd9V8rMTbctHs"
-    },
-    {
-      "added_at": "2025-12-29 09:34:12",
-      "album": {
-        "name": "Andarna",
-        "url": "https://open.spotify.com/album/7xzfbsn3XlOxsemWxzykqY"
-      },
-      "artists": [
-        {
-          "name": "Eah J\u00e9",
-          "url": "https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc"
-        }
-      ],
-      "duration_ms": 226124,
-      "name": "Andarna",
-      "url": "https://open.spotify.com/track/3LbU3hQgMSyRHqYcGXVFLx"
     },
     {
       "added_at": "2025-12-29 09:34:12",
@@ -1447,6 +1451,22 @@
     {
       "added_at": "2025-12-29 09:34:12",
       "album": {
+        "name": "Mistakes",
+        "url": "https://open.spotify.com/album/0Hwfl9l8bI0CPBLxU8H5AT"
+      },
+      "artists": [
+        {
+          "name": "Scout",
+          "url": "https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR"
+        }
+      ],
+      "duration_ms": 215298,
+      "name": "Mistakes",
+      "url": "https://open.spotify.com/track/2r3OmINnuBrxP5VXuIlUeR"
+    },
+    {
+      "added_at": "2025-12-29 09:34:12",
+      "album": {
         "name": "Exit",
         "url": "https://open.spotify.com/album/257H9ZON3dGEx7U88CTmhS"
       },
@@ -1459,26 +1479,6 @@
       "duration_ms": 180010,
       "name": "Exit",
       "url": "https://open.spotify.com/track/7feGG0pLDbMYOHnPmYNK1p"
-    },
-    {
-      "added_at": "2025-12-29 09:34:12",
-      "album": {
-        "name": "H\u00e4mta mer (Sonar Remix)",
-        "url": "https://open.spotify.com/album/48S65ihsx4DLIKJpZnsXeL"
-      },
-      "artists": [
-        {
-          "name": "Veronica Maggio",
-          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
-        },
-        {
-          "name": "Sonar",
-          "url": "https://open.spotify.com/artist/11DKQbdDgRUHzcBjdCOZTl"
-        }
-      ],
-      "duration_ms": 223384,
-      "name": "H\u00e4mta mer - Sonar Remix",
-      "url": "https://open.spotify.com/track/6W9Xqp0K1noBNc2E5b4MY2"
     },
     {
       "added_at": "2025-12-29 09:34:12",
@@ -1527,6 +1527,26 @@
       "duration_ms": 134624,
       "name": "Vara m\u00e4nniska",
       "url": "https://open.spotify.com/track/6tJcdrjP5rpFIXb0wxkKsh"
+    },
+    {
+      "added_at": "2025-12-29 09:34:12",
+      "album": {
+        "name": "Ton\u00e5rsdr\u00f6m",
+        "url": "https://open.spotify.com/album/0T7h8NPbEAoC6fR8bpwVMJ"
+      },
+      "artists": [
+        {
+          "name": "Tjuvjakt",
+          "url": "https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp"
+        },
+        {
+          "name": "Lijam",
+          "url": "https://open.spotify.com/artist/0TuWk7DJvWphPrr7w1LtNN"
+        }
+      ],
+      "duration_ms": 214179,
+      "name": "Ton\u00e5rsdr\u00f6m",
+      "url": "https://open.spotify.com/track/5CbHWID4ldov0V3sEjvqSU"
     },
     {
       "added_at": "2025-12-29 09:34:12",
@@ -1611,18 +1631,18 @@
     {
       "added_at": "2025-12-29 09:34:12",
       "album": {
-        "name": "Bl\u00e5\u00f6gd",
-        "url": "https://open.spotify.com/album/1nxYAabZgRXCzGo14eBYWv"
+        "name": "Friends",
+        "url": "https://open.spotify.com/album/3vwkPUIhTPkW6YXCYmEAdU"
       },
       "artists": [
         {
-          "name": "Molly Sand\u00e9n",
-          "url": "https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY"
+          "name": "Hannes",
+          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
         }
       ],
-      "duration_ms": 215834,
-      "name": "Bl\u00e5\u00f6gd",
-      "url": "https://open.spotify.com/track/4JAjSsZO4DX0tWYjMjppdM"
+      "duration_ms": 230573,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/2ZsJCM9Byuwf9oBcH6wT1t"
     },
     {
       "added_at": "2025-12-29 09:34:12",
@@ -1647,38 +1667,6 @@
     {
       "added_at": "2025-12-29 09:34:12",
       "album": {
-        "name": "Friends",
-        "url": "https://open.spotify.com/album/3vwkPUIhTPkW6YXCYmEAdU"
-      },
-      "artists": [
-        {
-          "name": "Hannes",
-          "url": "https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY"
-        }
-      ],
-      "duration_ms": 230573,
-      "name": "Friends",
-      "url": "https://open.spotify.com/track/2ZsJCM9Byuwf9oBcH6wT1t"
-    },
-    {
-      "added_at": "2025-12-29 09:34:12",
-      "album": {
-        "name": "Krig",
-        "url": "https://open.spotify.com/album/182MDeWuLgGIFOxRA077d4"
-      },
-      "artists": [
-        {
-          "name": "Labyrint",
-          "url": "https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo"
-        }
-      ],
-      "duration_ms": 133608,
-      "name": "Krig",
-      "url": "https://open.spotify.com/track/3ZjS9KHqg94sTPnPy2HB26"
-    },
-    {
-      "added_at": "2025-12-29 09:34:12",
-      "album": {
         "name": "Bl\u00e5ljus",
         "url": "https://open.spotify.com/album/2iKJ2xzW2SfwrTX873AaiF"
       },
@@ -1695,18 +1683,18 @@
     {
       "added_at": "2025-12-29 09:34:12",
       "album": {
-        "name": "T\u00e5rar",
-        "url": "https://open.spotify.com/album/0FajfKoec8MCHU2WSXSAuH"
+        "name": "Bl\u00e5\u00f6gd",
+        "url": "https://open.spotify.com/album/1nxYAabZgRXCzGo14eBYWv"
       },
       "artists": [
         {
-          "name": "Markus Kruneg\u00e5rd",
-          "url": "https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe"
+          "name": "Molly Sand\u00e9n",
+          "url": "https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY"
         }
       ],
-      "duration_ms": 182567,
-      "name": "T\u00e5rar",
-      "url": "https://open.spotify.com/track/2kouUdyiy2AuDYfYQf52GV"
+      "duration_ms": 215834,
+      "name": "Bl\u00e5\u00f6gd",
+      "url": "https://open.spotify.com/track/4JAjSsZO4DX0tWYjMjppdM"
     },
     {
       "added_at": "2025-12-29 09:34:12",
@@ -1727,6 +1715,22 @@
     {
       "added_at": "2025-12-29 09:34:12",
       "album": {
+        "name": "Krig",
+        "url": "https://open.spotify.com/album/182MDeWuLgGIFOxRA077d4"
+      },
+      "artists": [
+        {
+          "name": "Labyrint",
+          "url": "https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo"
+        }
+      ],
+      "duration_ms": 133608,
+      "name": "Krig",
+      "url": "https://open.spotify.com/track/3ZjS9KHqg94sTPnPy2HB26"
+    },
+    {
+      "added_at": "2025-12-29 09:34:12",
+      "album": {
         "name": "N\u00e5n annan tar sm\u00e4llen",
         "url": "https://open.spotify.com/album/15g6qnv79rD9uQQrSDrsim"
       },
@@ -1743,22 +1747,18 @@
     {
       "added_at": "2025-12-29 09:34:12",
       "album": {
-        "name": "Ton\u00e5rsdr\u00f6m",
-        "url": "https://open.spotify.com/album/0T7h8NPbEAoC6fR8bpwVMJ"
+        "name": "T\u00e5rar",
+        "url": "https://open.spotify.com/album/0FajfKoec8MCHU2WSXSAuH"
       },
       "artists": [
         {
-          "name": "Tjuvjakt",
-          "url": "https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp"
-        },
-        {
-          "name": "Lijam",
-          "url": "https://open.spotify.com/artist/0TuWk7DJvWphPrr7w1LtNN"
+          "name": "Markus Kruneg\u00e5rd",
+          "url": "https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe"
         }
       ],
-      "duration_ms": 214179,
-      "name": "Ton\u00e5rsdr\u00f6m",
-      "url": "https://open.spotify.com/track/5CbHWID4ldov0V3sEjvqSU"
+      "duration_ms": 182567,
+      "name": "T\u00e5rar",
+      "url": "https://open.spotify.com/track/2kouUdyiy2AuDYfYQf52GV"
     },
     {
       "added_at": "2025-12-29 09:34:12",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2025-12-29 09:34:12",
       "album": {
-        "name": "F\u00f6rf\u00e4der",
-        "url": "https://open.spotify.com/album/5Kl1yWEc4NRQULIKjAdEsN"
-      },
-      "artists": [
-        {
-          "name": "Svart Rid\u00e5",
-          "url": "https://open.spotify.com/artist/2RDTmgr7EdHCN0hmw8XoJM"
-        }
-      ],
-      "duration_ms": 301213,
-      "name": "F\u00f6rf\u00e4der",
-      "url": "https://open.spotify.com/track/221qqYWKfl34pEtedawb1G"
-    },
-    {
-      "added_at": "2025-12-29 09:34:12",
-      "album": {
         "name": "Min b\u00e4sta v\u00e4n",
         "url": "https://open.spotify.com/album/5liftySO9bLi3Q9GRIbUJj"
       },
@@ -1811,18 +1795,18 @@
     {
       "added_at": "2025-12-29 09:34:12",
       "album": {
-        "name": "Ringar p\u00e5 vatten",
-        "url": "https://open.spotify.com/album/0TLgK4U330eUAGOJok5Anc"
+        "name": "F\u00f6rf\u00e4der",
+        "url": "https://open.spotify.com/album/5Kl1yWEc4NRQULIKjAdEsN"
       },
       "artists": [
         {
-          "name": "Fanny Avonne",
-          "url": "https://open.spotify.com/artist/3TwYZ3UPAb6MI7e1dkbiF8"
+          "name": "Svart Rid\u00e5",
+          "url": "https://open.spotify.com/artist/2RDTmgr7EdHCN0hmw8XoJM"
         }
       ],
-      "duration_ms": 153998,
-      "name": "Ringar p\u00e5 vatten",
-      "url": "https://open.spotify.com/track/0TKpAnZTeEnPkVbbTD2tHY"
+      "duration_ms": 301213,
+      "name": "F\u00f6rf\u00e4der",
+      "url": "https://open.spotify.com/track/221qqYWKfl34pEtedawb1G"
     },
     {
       "added_at": "2025-12-29 09:34:12",
@@ -1843,6 +1827,22 @@
       "duration_ms": 270875,
       "name": "Inte som alla andra, precis som alla andra (feat. Joakim Berg)",
       "url": "https://open.spotify.com/track/0BJotiVMsdxDSC7HfyitNP"
+    },
+    {
+      "added_at": "2025-12-29 09:34:12",
+      "album": {
+        "name": "Ringar p\u00e5 vatten",
+        "url": "https://open.spotify.com/album/0TLgK4U330eUAGOJok5Anc"
+      },
+      "artists": [
+        {
+          "name": "Fanny Avonne",
+          "url": "https://open.spotify.com/artist/3TwYZ3UPAb6MI7e1dkbiF8"
+        }
+      ],
+      "duration_ms": 153998,
+      "name": "Ringar p\u00e5 vatten",
+      "url": "https://open.spotify.com/track/0TKpAnZTeEnPkVbbTD2tHY"
     }
   ],
   "unique_name": "Made in Sweden",

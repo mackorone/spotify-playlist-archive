@@ -1,12 +1,12 @@
 {
   "description": "This is Lila Downs. The essential tracks, all in one playlist.",
-  "num_followers": 72719,
+  "num_followers": 72723,
   "original_name": "This Is Lila Downs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVHEgAAAAAB3qSezwoxTlsLtr683+dnL",
+  "snapshot_id": "aVMWAAAAAACSLRZ8OkEX2D6T/QgRPCTs",
   "tracks": [
     {
       "added_at": null,
@@ -411,26 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mexicana (feat. Lila Downs)",
-        "url": "https://open.spotify.com/album/6GXrUyjqYJr6b8W4IOwHLU"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Quijano",
-          "url": "https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z"
-        },
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 199296,
-      "name": "Mexicana (feat. Lila Downs)",
-      "url": "https://open.spotify.com/track/3x5e0oHuy9ViEbPYCKKsCz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grandes \u00c9xitos de las Sonoras, Con la M\u00e1s Grande, La Sonora Santanera",
         "url": "https://open.spotify.com/album/5Gir03Fy6IXYvsdE1G3WfZ"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 166973,
       "name": "Tu Voz (with Lila Downs)",
       "url": "https://open.spotify.com/track/3xaUeDEfYC8EmWlputv2RV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mexicana (feat. Lila Downs)",
+        "url": "https://open.spotify.com/album/6GXrUyjqYJr6b8W4IOwHLU"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Quijano",
+          "url": "https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z"
+        },
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 199296,
+      "name": "Mexicana (feat. Lila Downs)",
+      "url": "https://open.spotify.com/track/3x5e0oHuy9ViEbPYCKKsCz"
     },
     {
       "added_at": null,
@@ -483,6 +483,30 @@
       "duration_ms": 284013,
       "name": "Fallaste Coraz\u00f3n",
       "url": "https://open.spotify.com/track/3HYf9vCyDkA3JkVWp9RwxH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa' que Sientas Lo Que Siento",
+        "url": "https://open.spotify.com/album/5zStXpEXkdFiKGVu0AR1Q3"
+      },
+      "artists": [
+        {
+          "name": "Aida Cuevas",
+          "url": "https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr"
+        },
+        {
+          "name": "Mariachi Reyna De Los Angeles",
+          "url": "https://open.spotify.com/artist/650nqeGBxByQo7gS6jNwDy"
+        },
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 190893,
+      "name": "No Me Amenaces (feat. Lila Downs)",
+      "url": "https://open.spotify.com/track/3wjHY9iOulWhaLmEfJNUTk"
     },
     {
       "added_at": null,
@@ -527,30 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa' que Sientas Lo Que Siento",
-        "url": "https://open.spotify.com/album/5zStXpEXkdFiKGVu0AR1Q3"
-      },
-      "artists": [
-        {
-          "name": "Aida Cuevas",
-          "url": "https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr"
-        },
-        {
-          "name": "Mariachi Reyna De Los Angeles",
-          "url": "https://open.spotify.com/artist/650nqeGBxByQo7gS6jNwDy"
-        },
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 190893,
-      "name": "No Me Amenaces (feat. Lila Downs)",
-      "url": "https://open.spotify.com/track/3wjHY9iOulWhaLmEfJNUTk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Balas y Chocolate",
         "url": "https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq"
       },
@@ -563,22 +563,6 @@
       "duration_ms": 275506,
       "name": "Cuando Me Tocas T\u00fa",
       "url": "https://open.spotify.com/track/2Eo4cDhAobAurZbOREvj7p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pecados Y Milagros",
-        "url": "https://open.spotify.com/album/08W9jeGlT5X9BtJkqqFu0O"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 295013,
-      "name": "Dios Nunca Muere",
-      "url": "https://open.spotify.com/track/28QHawocxdu8KeK3EpfNbN"
     },
     {
       "added_at": null,
@@ -615,6 +599,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pecados Y Milagros",
+        "url": "https://open.spotify.com/album/08W9jeGlT5X9BtJkqqFu0O"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 295013,
+      "name": "Dios Nunca Muere",
+      "url": "https://open.spotify.com/track/28QHawocxdu8KeK3EpfNbN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Balas y Chocolate",
         "url": "https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq"
       },
@@ -631,8 +631,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pecados Y Milagros",
-        "url": "https://open.spotify.com/album/08W9jeGlT5X9BtJkqqFu0O"
+        "name": "Border",
+        "url": "https://open.spotify.com/album/2kQyxjRV8lDYUILVpV6rxc"
       },
       "artists": [
         {
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
         }
       ],
-      "duration_ms": 248026,
-      "name": "Palomo Del Comalito",
-      "url": "https://open.spotify.com/track/4k89AEV6OCtCBRYqqgregm"
+      "duration_ms": 285466,
+      "name": "Perhaps, Perhaps, Perhaps",
+      "url": "https://open.spotify.com/track/4WRdLh6kc09oE1wt28gepF"
     },
     {
       "added_at": null,
@@ -663,8 +663,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Border",
-        "url": "https://open.spotify.com/album/2kQyxjRV8lDYUILVpV6rxc"
+        "name": "Pecados Y Milagros",
+        "url": "https://open.spotify.com/album/08W9jeGlT5X9BtJkqqFu0O"
       },
       "artists": [
         {
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
         }
       ],
-      "duration_ms": 285466,
-      "name": "Perhaps, Perhaps, Perhaps",
-      "url": "https://open.spotify.com/track/4WRdLh6kc09oE1wt28gepF"
+      "duration_ms": 248026,
+      "name": "Palomo Del Comalito",
+      "url": "https://open.spotify.com/track/4k89AEV6OCtCBRYqqgregm"
     },
     {
       "added_at": null,
@@ -963,6 +963,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Balas y Chocolate",
+        "url": "https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Humito de Copal",
+      "url": "https://open.spotify.com/track/39gLiGKsitV9EANVgdk53i"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En El \u00daltimo Trago",
         "url": "https://open.spotify.com/album/54zPJXpQnBrIHKSfWY4cF6"
       },
@@ -983,8 +999,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Balas y Chocolate",
-        "url": "https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq"
+        "name": "Al Chile",
+        "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
       },
       "artists": [
         {
@@ -992,9 +1008,9 @@
           "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
         }
       ],
-      "duration_ms": 232000,
-      "name": "Humito de Copal",
-      "url": "https://open.spotify.com/track/39gLiGKsitV9EANVgdk53i"
+      "duration_ms": 220613,
+      "name": "Clandestino",
+      "url": "https://open.spotify.com/track/2FhtfyGL4UavFTJbjomXNF"
     },
     {
       "added_at": null,
@@ -1023,22 +1039,6 @@
       "duration_ms": 315000,
       "name": "Una Noche en N\u00e1poles (feat. Lila Downs, Ni\u00f1a Pastori & Soledad) - Live",
       "url": "https://open.spotify.com/track/6SqV8sX6cfQ7ZK48uVhI6e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Al Chile",
-        "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 220613,
-      "name": "Clandestino",
-      "url": "https://open.spotify.com/track/2FhtfyGL4UavFTJbjomXNF"
     },
     {
       "added_at": null,

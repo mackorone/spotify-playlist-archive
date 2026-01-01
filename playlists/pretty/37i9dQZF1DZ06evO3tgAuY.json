@@ -1,12 +1,12 @@
 {
   "description": "This is Alex Favela. The essential tracks, all in one playlist.",
-  "num_followers": 2375,
+  "num_followers": 2374,
   "original_name": "This Is Alex Favela",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVHEgAAAAACOzWEsGJEVqr3TqB9iFf6P",
+  "snapshot_id": "aVMWAAAAAACsVyCqqKMZphr5MivZegL5",
   "tracks": [
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MASARYK / BIEN PEDO",
-        "url": "https://open.spotify.com/album/2xk9Rij0FAObYriAiybTmW"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 190233,
-      "name": "MASARYK",
-      "url": "https://open.spotify.com/track/0fkG4rtHfDCc4RBspkiBgp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Do\u00f1a Soledad",
         "url": "https://open.spotify.com/album/6xu4RkKBWn5YM5DUyG8n4W"
       },
@@ -699,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "MASARYK / BIEN PEDO",
+        "url": "https://open.spotify.com/album/2xk9Rij0FAObYriAiybTmW"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 190233,
+      "name": "MASARYK",
+      "url": "https://open.spotify.com/track/0fkG4rtHfDCc4RBspkiBgp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lujos Y Damitas",
         "url": "https://open.spotify.com/album/59HNGHaqXy5l1ML6O7DKtU"
       },
@@ -715,30 +715,6 @@
       "duration_ms": 154338,
       "name": "Lujos Y Damitas",
       "url": "https://open.spotify.com/track/2KQ0C4lOzVFl5GhqjwIM01"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "RUMBA",
-        "url": "https://open.spotify.com/album/5ryvxfEZXOoyg6FRYWGBKm"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
-        },
-        {
-          "name": "Muzik Junkies",
-          "url": "https://open.spotify.com/artist/34DQTRbIYPLSGU2SkOTEja"
-        }
-      ],
-      "duration_ms": 181818,
-      "name": "RUMBA",
-      "url": "https://open.spotify.com/track/14d1byXmKewvxEp0VyZmuI"
     },
     {
       "added_at": null,
@@ -783,8 +759,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Plastic Bombastic",
-        "url": "https://open.spotify.com/album/4KFkHcErRET53EWyRnFWIu"
+        "name": "RUMBA",
+        "url": "https://open.spotify.com/album/5ryvxfEZXOoyg6FRYWGBKm"
       },
       "artists": [
         {
@@ -792,17 +768,17 @@
           "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
         },
         {
-          "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
         },
         {
-          "name": "Victor Rivera Y Su Nuevo Estilo",
-          "url": "https://open.spotify.com/artist/7zVsiZeDlFW2J0rp9fPrI4"
+          "name": "Muzik Junkies",
+          "url": "https://open.spotify.com/artist/34DQTRbIYPLSGU2SkOTEja"
         }
       ],
-      "duration_ms": 178474,
-      "name": "Plastic Bombastic",
-      "url": "https://open.spotify.com/track/367fC0Vpg30BYpzWiAAQnz"
+      "duration_ms": 181818,
+      "name": "RUMBA",
+      "url": "https://open.spotify.com/track/14d1byXmKewvxEp0VyZmuI"
     },
     {
       "added_at": null,
@@ -823,6 +799,30 @@
       "duration_ms": 118826,
       "name": "Bien Pilas - En Vivo",
       "url": "https://open.spotify.com/track/5ZqOPZHB23bTEh0Q0p3Qii"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Plastic Bombastic",
+        "url": "https://open.spotify.com/album/4KFkHcErRET53EWyRnFWIu"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        },
+        {
+          "name": "Victor Rivera Y Su Nuevo Estilo",
+          "url": "https://open.spotify.com/artist/7zVsiZeDlFW2J0rp9fPrI4"
+        }
+      ],
+      "duration_ms": 178474,
+      "name": "Plastic Bombastic",
+      "url": "https://open.spotify.com/track/367fC0Vpg30BYpzWiAAQnz"
     },
     {
       "added_at": null,

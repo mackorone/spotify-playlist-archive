@@ -1,6 +1,6 @@
 {
   "description": "You bring the ingredients, we bring the flavor. Enjoy la cena...",
-  "num_followers": 437352,
+  "num_followers": 437388,
   "original_name": "Latin Dinner",
   "owner": {
     "name": "Spotify",
@@ -543,6 +543,22 @@
     {
       "added_at": "2025-10-10 04:00:26",
       "album": {
+        "name": "Canciones del Alma",
+        "url": "https://open.spotify.com/album/39GDfEb2NSMJ5EmKtd79yi"
+      },
+      "artists": [
+        {
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+        }
+      ],
+      "duration_ms": 205010,
+      "name": "T\u00fa Con \u00c9l",
+      "url": "https://open.spotify.com/track/3Olb1S4AGjZcD5pB0CXG55"
+    },
+    {
+      "added_at": "2025-10-10 04:00:26",
+      "album": {
         "name": "Cada loco con su tema",
         "url": "https://open.spotify.com/album/4p2IAhhVyU3XT0u2tEudMq"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 220761,
       "name": "Cada loco con su tema",
       "url": "https://open.spotify.com/track/7I7lHL6STTIkB9S1m85OSy"
-    },
-    {
-      "added_at": "2025-10-10 04:00:26",
-      "album": {
-        "name": "Canciones del Alma",
-        "url": "https://open.spotify.com/album/39GDfEb2NSMJ5EmKtd79yi"
-      },
-      "artists": [
-        {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
-        }
-      ],
-      "duration_ms": 205010,
-      "name": "T\u00fa Con \u00c9l",
-      "url": "https://open.spotify.com/track/3Olb1S4AGjZcD5pB0CXG55"
     },
     {
       "added_at": "2025-10-10 04:00:26",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2025-10-10 04:00:26",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/01NDjxuV02b5rlRHyT3nUU"
-      },
-      "artists": [
-        {
-          "name": "Si*S\u00e9",
-          "url": "https://open.spotify.com/artist/64CWqLWhLQhrerPastRKW9"
-        }
-      ],
-      "duration_ms": 224826,
-      "name": "Donde Est\u00e1",
-      "url": "https://open.spotify.com/track/0fjCKNenDu2DBaMcIp3rXS"
-    },
-    {
-      "added_at": "2025-10-10 04:00:26",
-      "album": {
         "name": "A fuego lento (feat. Vicente Garcia)",
         "url": "https://open.spotify.com/album/1Lp0BSFnmEGJtcNDd3iHxa"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 199398,
       "name": "A fuego lento (feat. Vicente Garcia)",
       "url": "https://open.spotify.com/track/7dk1bu8gBxcjIHSyXccEpT"
+    },
+    {
+      "added_at": "2025-10-10 04:00:26",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/01NDjxuV02b5rlRHyT3nUU"
+      },
+      "artists": [
+        {
+          "name": "Si*S\u00e9",
+          "url": "https://open.spotify.com/artist/64CWqLWhLQhrerPastRKW9"
+        }
+      ],
+      "duration_ms": 224826,
+      "name": "Donde Est\u00e1",
+      "url": "https://open.spotify.com/track/0fjCKNenDu2DBaMcIp3rXS"
     },
     {
       "added_at": "2025-10-10 04:00:26",
@@ -1307,22 +1307,18 @@
     {
       "added_at": "2025-10-10 04:00:26",
       "album": {
-        "name": "Cerca de ti (feat. Georgina)",
-        "url": "https://open.spotify.com/album/2aaxxiwKt6qDtMnw9awlXi"
+        "name": "American Boy",
+        "url": "https://open.spotify.com/album/634SbzHMwQgsFIq977CQiW"
       },
       "artists": [
         {
-          "name": "Efecto Pasillo",
-          "url": "https://open.spotify.com/artist/6CSa1r92LtHHdLG6kRabU3"
-        },
-        {
-          "name": "Georgina",
-          "url": "https://open.spotify.com/artist/71cjWNRukkIF8Ulh006x3b"
+          "name": "Daym\u00e9 Arocena",
+          "url": "https://open.spotify.com/artist/6LcWO77VeIUPqNY22N3fI0"
         }
       ],
-      "duration_ms": 208013,
-      "name": "Cerca de ti (feat. Georgina)",
-      "url": "https://open.spotify.com/track/10oji60Sz18msn5AgTQI58"
+      "duration_ms": 225109,
+      "name": "American Boy",
+      "url": "https://open.spotify.com/track/40cHpU5FQkXlDxfayeWqsO"
     },
     {
       "added_at": "2025-10-10 04:00:26",
@@ -1343,18 +1339,22 @@
     {
       "added_at": "2025-10-10 04:00:26",
       "album": {
-        "name": "American Boy",
-        "url": "https://open.spotify.com/album/634SbzHMwQgsFIq977CQiW"
+        "name": "Cerca de ti (feat. Georgina)",
+        "url": "https://open.spotify.com/album/2aaxxiwKt6qDtMnw9awlXi"
       },
       "artists": [
         {
-          "name": "Daym\u00e9 Arocena",
-          "url": "https://open.spotify.com/artist/6LcWO77VeIUPqNY22N3fI0"
+          "name": "Efecto Pasillo",
+          "url": "https://open.spotify.com/artist/6CSa1r92LtHHdLG6kRabU3"
+        },
+        {
+          "name": "Georgina",
+          "url": "https://open.spotify.com/artist/71cjWNRukkIF8Ulh006x3b"
         }
       ],
-      "duration_ms": 225109,
-      "name": "American Boy",
-      "url": "https://open.spotify.com/track/40cHpU5FQkXlDxfayeWqsO"
+      "duration_ms": 208013,
+      "name": "Cerca de ti (feat. Georgina)",
+      "url": "https://open.spotify.com/track/10oji60Sz18msn5AgTQI58"
     },
     {
       "added_at": "2025-10-10 04:00:26",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2025-10-10 04:00:26",
       "album": {
+        "name": "Nobreza",
+        "url": "https://open.spotify.com/album/1S3u1h0ggT85QcGdb2qDuq"
+      },
+      "artists": [
+        {
+          "name": "LADAMA",
+          "url": "https://open.spotify.com/artist/5CA1T9fayw9qeF1wPDO9E9"
+        }
+      ],
+      "duration_ms": 201364,
+      "name": "Nobreza",
+      "url": "https://open.spotify.com/track/1g1CCNbAA546LXL4q3CwSZ"
+    },
+    {
+      "added_at": "2025-10-10 04:00:26",
+      "album": {
         "name": "Las Flores",
         "url": "https://open.spotify.com/album/0gweUoGXGMkvgnVljTr0tu"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 355019,
       "name": "Las Flores",
       "url": "https://open.spotify.com/track/7J0y2DmQmiHKuDxiu3xKk3"
-    },
-    {
-      "added_at": "2025-10-10 04:00:26",
-      "album": {
-        "name": "Nobreza",
-        "url": "https://open.spotify.com/album/1S3u1h0ggT85QcGdb2qDuq"
-      },
-      "artists": [
-        {
-          "name": "LADAMA",
-          "url": "https://open.spotify.com/artist/5CA1T9fayw9qeF1wPDO9E9"
-        }
-      ],
-      "duration_ms": 201364,
-      "name": "Nobreza",
-      "url": "https://open.spotify.com/track/1g1CCNbAA546LXL4q3CwSZ"
     },
     {
       "added_at": "2025-10-10 04:00:26",

@@ -4,7 +4,7 @@
 
 > The world deserves a better ending\. Listen to the music from Fallout, the hit video game and epic Prime Video series.
 
-92 songs - 4 hr 17 min
+95 songs - 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Bossa Angela](https://open.spotify.com/track/0NwZwOv6F8JnBiN63h2AIR) | [Roland Kovac Rhythm & Strings](https://open.spotify.com/artist/5Uf62D8i84n1XpQZSmub9z) | [Transpacific Strings](https://open.spotify.com/album/0N32KCf1hRCxgKpz0E1dME) | 2:35 | 2024-05-15 |  |
 | [Brighter Side](https://open.spotify.com/track/5IV5WMNELgbuMjwIvl7w3a) | [Connie Conway](https://open.spotify.com/artist/3lDW57vZZ9DhAxuwLLJ0uk) | [Hidden Treasures](https://open.spotify.com/album/1009QKZsMq7KM8tBxZDZAJ) | 2:38 | 2024-05-15 |  |
 | [Butcher Pete, Pt\. 1](https://open.spotify.com/track/2zKdZWp2hUfjwCR1StkukS) | [Roy Brown](https://open.spotify.com/artist/1tawCzlbH40c30eztzufSu) | [Butcher Pete, Pt\. 1 & 2](https://open.spotify.com/album/2IMQjCyeBA3k8LHpVgHYP7) | 2:26 | 2024-05-15 |  |
+| [Chain Gang](https://open.spotify.com/track/1sK10Me7qS9em2QTx6dYRe) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [The Man Who Invented Soul](https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY) | 2:40 | 2025-12-31 |  |
 | [Cheek To Cheek](https://open.spotify.com/track/36HcXjgy7rUDtXwpF36UkB) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Jump For Joy](https://open.spotify.com/album/1FfJGpYVPvVx0OEPbMkVqz) | 2:47 | 2025-12-17 |  |
 | [Come Go With Me](https://open.spotify.com/track/4IYyGIbMS5ZkxDXGfPIrXr) | [The Del\-Vikings](https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5) | [Come Go With Me: The Best Of The Del\-Vikings](https://open.spotify.com/album/35hzrbmJqylZoIRcatUfYx) | 2:42 | 2025-12-17 |  |
 | [Crazy He Calls Me](https://open.spotify.com/track/4WlyrphDkGOyX3JsLR8dKV) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Lover Man](https://open.spotify.com/album/04yWOCDHFDexCzsJPlyBOd) | 3:05 | 2024-05-15 |  |
@@ -36,6 +37,7 @@
 | [Happy Times—from 1949 show “Inspector General”](https://open.spotify.com/track/7EYea5rkgYsjMwm6gwmobx) | [Bob Crosby & The Bob Cats](https://open.spotify.com/artist/1EE8fj8itdenD88iAylcYh) | [Bob Crosby and the Bobcats: The Complete Standard Transcriptions](https://open.spotify.com/album/5Y8YZyknkRwJL5nJMjdU8o) | 2:45 | 2024-05-15 |  |
 | [He's A Demon \- He's A Devil \- He's A Doll](https://open.spotify.com/track/5IrjbGnATYD92d7dgsG9fV) | [Betty Hutton](https://open.spotify.com/artist/4VCyL3xDf8AYZUQRtEF7bp) | [Uranium Rock \- Fallout 4 Radio](https://open.spotify.com/album/5ILxcdAWuJ6AICTTcbiqL4) | 3:16 | 2024-05-15 |  |
 | [Henry](https://open.spotify.com/track/4KGzQ3ouumNsdVs0O1w9vc) | [The Jet Tones](https://open.spotify.com/artist/5gmc34qpOFtZug3iMqTLdV) | [Rural Rockin Hicks](https://open.spotify.com/album/2uRrTls5t9sbwmYbX3UPqF) | 2:06 | 2024-05-15 |  |
+| [Hot Dog, Buddy, Buddy](https://open.spotify.com/track/62BAGsMUAZeBGAlkoUuSAh) | [Bill Haley & His Comets](https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr) | [Rock'n Roll Stage Show](https://open.spotify.com/album/7o9NRs7sz1tyPYN2klhLiZ) | 2:37 | 2025-12-31 |  |
 | [I Can Dream, Can't I? \- 1949 Single Version](https://open.spotify.com/track/4oP8eYnsSKJPC4VNfPB7dZ) | [The Andrews Sisters](https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM), [Gordon Jenkins & His Orchestra](https://open.spotify.com/artist/2zxOdG2ascAD3oLdP03mYU) | [50th Anniversary Collection \(Vol\. 1\)](https://open.spotify.com/album/2qM7vNGo3fHaMzRRagKHTK) | 2:40 | 2024-05-15 |  |
 | [I Don't Want To See Tomorrow \- As Heard on “Fallout” \(Series\)](https://open.spotify.com/track/4RP1czjLoErBuEQui5hCrC) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [I Don't Want To Be Hurt Anymore](https://open.spotify.com/album/6GiTD7hha02SRrGgJbcipe) | 2:36 | 2024-05-15 |  |
 | [I Don't Want To Set The World On Fire](https://open.spotify.com/track/777zXDJpBufzttU4AJ2dGO) | [The Ink Spots](https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY) | [The Anthology](https://open.spotify.com/album/5kP2AlLe5EsHEx6y3HpJjN) | 3:01 | 2024-05-15 |  |
@@ -84,6 +86,7 @@
 | [Take Me Home, Country Roads \- Rerecorded](https://open.spotify.com/track/2xYlyywNgefLCRDG8hlxZq) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [The John Denver Collection, Vol\. 1: Take Me Home Country Roads](https://open.spotify.com/album/5erROp1lRW31aNxj9PbAUf) | 3:17 | 2024-05-15 |  |
 | [The Theme from "A Summer Place"](https://open.spotify.com/track/6zwvB879PJSpTyFcg2wwnL) | [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [16 Most Requested Songs](https://open.spotify.com/album/0XLV6vIukKpejiSTAaSPPi) | 2:22 | 2024-05-15 |  |
 | [The Wanderer](https://open.spotify.com/track/0tV9rv9u4pT5RDdIrGt2SE) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W) | [The Complete Laurie Singles](https://open.spotify.com/album/2pUrShMzV7Iw1zlLzTYhlI) | 2:43 | 2024-05-15 |  |
+| [The Yellow Rose of Texas \- Single Version](https://open.spotify.com/track/7985fUI9WlsIIrQuO9TBDh) | [DON GEORGE](https://open.spotify.com/artist/2HEGU6xYiQ7odOssBcMtCF), [Mitch Miller](https://open.spotify.com/artist/0kLeQeOAEqHdFMUItesuij) | [Greatest Hits](https://open.spotify.com/album/4nc8zpPtZNQfSSFFh6Bg9s) | 3:01 | 2025-12-31 |  |
 | [They're Hanging Me Tonight](https://open.spotify.com/track/4G9f3VGp9wjE49JUfg3XtO) | [Marty Robbins](https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo) | [Gunfighter Ballads And Trail Songs](https://open.spotify.com/album/3kQpBS26lAj0A0VGl1snRl) | 3:04 | 2024-05-15 |  |
 | [Tweedle Dee](https://open.spotify.com/track/3KDBNDCjN9ogMkGn3vIUs2) | [LaVern Baker](https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw) | [LaVern Baker](https://open.spotify.com/album/4Wg7zulZEKDPrHvQJWOHLc) | 3:04 | 2024-05-15 |  |
 | [Undecided](https://open.spotify.com/track/5GMgXFAE165COiSXLElbAV) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Chick Webb](https://open.spotify.com/artist/7AgtFmxbJL1wDbp7yYrzQb) | [Swingsation: Ella Fitzgerald With Chick Webb](https://open.spotify.com/album/3fFZfD4V4FvEodhANXt9Sn) | 3:21 | 2024-05-15 |  |

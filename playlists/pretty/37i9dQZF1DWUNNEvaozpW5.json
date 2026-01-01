@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Robe.",
-  "num_followers": 611324,
+  "num_followers": 611389,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -823,6 +823,22 @@
     {
       "added_at": "2025-12-29 15:38:30",
       "album": {
+        "name": "Muy Deficiente",
+        "url": "https://open.spotify.com/album/6nSNoI4zgtfMm1H9NXI4r1"
+      },
+      "artists": [
+        {
+          "name": "Platero Y Tu",
+          "url": "https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav"
+        }
+      ],
+      "duration_ms": 250093,
+      "name": "El roce de tu cuerpo",
+      "url": "https://open.spotify.com/track/3EPd9riN2R8Zjl6GkrxxGl"
+    },
+    {
+      "added_at": "2025-12-29 15:38:30",
+      "album": {
         "name": "Camiseta de Rokanrol",
         "url": "https://open.spotify.com/album/5MoUrojZxMjUK8FzT23n4l"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 229832,
       "name": "Camiseta de Rokanrol",
       "url": "https://open.spotify.com/track/1eHr7GbGrNMIb01YUwLdku"
-    },
-    {
-      "added_at": "2025-12-29 15:38:30",
-      "album": {
-        "name": "Muy Deficiente",
-        "url": "https://open.spotify.com/album/6nSNoI4zgtfMm1H9NXI4r1"
-      },
-      "artists": [
-        {
-          "name": "Platero Y Tu",
-          "url": "https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav"
-        }
-      ],
-      "duration_ms": 250093,
-      "name": "El roce de tu cuerpo",
-      "url": "https://open.spotify.com/track/3EPd9riN2R8Zjl6GkrxxGl"
     },
     {
       "added_at": "2025-12-29 15:38:30",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2025-12-29 15:38:30",
       "album": {
-        "name": "Sin Tiempo",
-        "url": "https://open.spotify.com/album/1T5c9thHoIvpLBvNpH4wDn"
-      },
-      "artists": [
-        {
-          "name": "Medina Azahara",
-          "url": "https://open.spotify.com/artist/72XPmW6k6HZT6K2BaUUOhl"
-        }
-      ],
-      "duration_ms": 269426,
-      "name": "Necesito Respirar",
-      "url": "https://open.spotify.com/track/6uK6H8xkSQRA4Y2TfczXs0"
-    },
-    {
-      "added_at": "2025-12-29 15:38:30",
-      "album": {
         "name": "La Rosa De Los Vientos",
         "url": "https://open.spotify.com/album/51ohZ4F4nZ40R8eGyK7tZT"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 275026,
       "name": "El Limite",
       "url": "https://open.spotify.com/track/0NFcUhw2uKzX0zqH81tWOu"
+    },
+    {
+      "added_at": "2025-12-29 15:38:30",
+      "album": {
+        "name": "Sin Tiempo",
+        "url": "https://open.spotify.com/album/1T5c9thHoIvpLBvNpH4wDn"
+      },
+      "artists": [
+        {
+          "name": "Medina Azahara",
+          "url": "https://open.spotify.com/artist/72XPmW6k6HZT6K2BaUUOhl"
+        }
+      ],
+      "duration_ms": 269426,
+      "name": "Necesito Respirar",
+      "url": "https://open.spotify.com/track/6uK6H8xkSQRA4Y2TfczXs0"
     },
     {
       "added_at": "2025-12-29 15:38:30",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2025-12-29 15:38:30",
       "album": {
-        "name": "Estop\u00eda",
-        "url": "https://open.spotify.com/album/2GdvFrLeOi9qkET2X7lZ02"
-      },
-      "artists": [
-        {
-          "name": "Estopa",
-          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
-        }
-      ],
-      "duration_ms": 200367,
-      "name": "K\u00e9 M\u00e1s Nos Da",
-      "url": "https://open.spotify.com/track/1JurgyjeCTcDyZErghSV0y"
-    },
-    {
-      "added_at": "2025-12-29 15:38:30",
-      "album": {
         "name": "Miguel R\u00edos y las estrellas del Rock latino",
         "url": "https://open.spotify.com/album/1meG4YSY7cIKvQkQR3D6hH"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 227973,
       "name": "Insurrecci\u00f3n (con Manolo Garc\u00eda)",
       "url": "https://open.spotify.com/track/5JD2HODIglXaNJopWb248t"
+    },
+    {
+      "added_at": "2025-12-29 15:38:30",
+      "album": {
+        "name": "Estop\u00eda",
+        "url": "https://open.spotify.com/album/2GdvFrLeOi9qkET2X7lZ02"
+      },
+      "artists": [
+        {
+          "name": "Estopa",
+          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
+        }
+      ],
+      "duration_ms": 200367,
+      "name": "K\u00e9 M\u00e1s Nos Da",
+      "url": "https://open.spotify.com/track/1JurgyjeCTcDyZErghSV0y"
     },
     {
       "added_at": "2025-12-29 15:38:30",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2025-12-29 15:38:30",
       "album": {
-        "name": "Nuestra Canci\u00f3n",
-        "url": "https://open.spotify.com/album/0Re0PIjmK9dEdFbbY8i2yv"
-      },
-      "artists": [
-        {
-          "name": "Salistre",
-          "url": "https://open.spotify.com/artist/7cwETpw63qjveV8UjEHds0"
-        }
-      ],
-      "duration_ms": 213640,
-      "name": "Nuestra Canci\u00f3n",
-      "url": "https://open.spotify.com/track/2zsxsNcbo5Sr2fuquzwQDz"
-    },
-    {
-      "added_at": "2025-12-29 15:38:30",
-      "album": {
         "name": "El doble de tu mitad",
         "url": "https://open.spotify.com/album/2S06GoLfAKn93qbHwL6b8u"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 240760,
       "name": "Noviembre",
       "url": "https://open.spotify.com/track/3FVGNCVHynlBTqizeinqQS"
+    },
+    {
+      "added_at": "2025-12-29 15:38:30",
+      "album": {
+        "name": "Nuestra Canci\u00f3n",
+        "url": "https://open.spotify.com/album/0Re0PIjmK9dEdFbbY8i2yv"
+      },
+      "artists": [
+        {
+          "name": "Salistre",
+          "url": "https://open.spotify.com/artist/7cwETpw63qjveV8UjEHds0"
+        }
+      ],
+      "duration_ms": 213640,
+      "name": "Nuestra Canci\u00f3n",
+      "url": "https://open.spotify.com/track/2zsxsNcbo5Sr2fuquzwQDz"
     },
     {
       "added_at": "2025-12-29 15:38:30",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2025-12-29 15:38:30",
       "album": {
-        "name": "4 Canciones",
-        "url": "https://open.spotify.com/album/1Pf7ot7MVaAulm4tve8Ax8"
-      },
-      "artists": [
-        {
-          "name": "Los Ronaldos",
-          "url": "https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm"
-        }
-      ],
-      "duration_ms": 254840,
-      "name": "No Puedo Vivir Sin Ti",
-      "url": "https://open.spotify.com/track/1EC0JRoSi9YL5zExd3Euc3"
-    },
-    {
-      "added_at": "2025-12-29 15:38:30",
-      "album": {
         "name": "La Salvaci\u00f3n",
         "url": "https://open.spotify.com/album/6KJVk8Zi4jj3kvj9bL1AhC"
       },
@@ -1603,22 +1587,6 @@
       "duration_ms": 285480,
       "name": "La Salvaci\u00f3n",
       "url": "https://open.spotify.com/track/6XY4Zaf0AoE5movPc2FfaZ"
-    },
-    {
-      "added_at": "2025-12-29 15:38:30",
-      "album": {
-        "name": "La misma canci\u00f3n",
-        "url": "https://open.spotify.com/album/1MCpSDB8Ofg9qrjFizu4qU"
-      },
-      "artists": [
-        {
-          "name": "Sidecars",
-          "url": "https://open.spotify.com/artist/1OxGzd3ks0V8CVWtXT1VMj"
-        }
-      ],
-      "duration_ms": 286534,
-      "name": "La misma canci\u00f3n",
-      "url": "https://open.spotify.com/track/5FzIQ5CdSgWekevt2916CE"
     },
     {
       "added_at": "2025-12-29 15:38:30",
@@ -1651,6 +1619,38 @@
       "duration_ms": 245440,
       "name": "Sorprendente",
       "url": "https://open.spotify.com/track/6Xueg8DmwhkU4xf0Q3xlWN"
+    },
+    {
+      "added_at": "2025-12-29 15:38:30",
+      "album": {
+        "name": "La misma canci\u00f3n",
+        "url": "https://open.spotify.com/album/1MCpSDB8Ofg9qrjFizu4qU"
+      },
+      "artists": [
+        {
+          "name": "Sidecars",
+          "url": "https://open.spotify.com/artist/1OxGzd3ks0V8CVWtXT1VMj"
+        }
+      ],
+      "duration_ms": 286534,
+      "name": "La misma canci\u00f3n",
+      "url": "https://open.spotify.com/track/5FzIQ5CdSgWekevt2916CE"
+    },
+    {
+      "added_at": "2025-12-29 15:38:30",
+      "album": {
+        "name": "4 Canciones",
+        "url": "https://open.spotify.com/album/1Pf7ot7MVaAulm4tve8Ax8"
+      },
+      "artists": [
+        {
+          "name": "Los Ronaldos",
+          "url": "https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm"
+        }
+      ],
+      "duration_ms": 254840,
+      "name": "No Puedo Vivir Sin Ti",
+      "url": "https://open.spotify.com/track/1EC0JRoSi9YL5zExd3Euc3"
     },
     {
       "added_at": "2025-12-29 15:38:30",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2025-12-29 15:38:30",
       "album": {
-        "name": "Puta Vida",
-        "url": "https://open.spotify.com/album/78PAYzFmJnHiHRWOR4i1Bs"
-      },
-      "artists": [
-        {
-          "name": "Tu Otra Bonita",
-          "url": "https://open.spotify.com/artist/4dGKPIQgs3bhGLPaPXLl3a"
-        }
-      ],
-      "duration_ms": 279726,
-      "name": "Colibr\u00ed",
-      "url": "https://open.spotify.com/track/4ihXAO7fbw75DqlVMrSQgq"
-    },
-    {
-      "added_at": "2025-12-29 15:38:30",
-      "album": {
         "name": "Cowboys de la A3",
         "url": "https://open.spotify.com/album/772yDxRPJaH0QnrwkZgpNH"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 276005,
       "name": "Cowboys de la A3",
       "url": "https://open.spotify.com/track/5LZRHZxqnrM5mSeiysd9XF"
+    },
+    {
+      "added_at": "2025-12-29 15:38:30",
+      "album": {
+        "name": "Puta Vida",
+        "url": "https://open.spotify.com/album/78PAYzFmJnHiHRWOR4i1Bs"
+      },
+      "artists": [
+        {
+          "name": "Tu Otra Bonita",
+          "url": "https://open.spotify.com/artist/4dGKPIQgs3bhGLPaPXLl3a"
+        }
+      ],
+      "duration_ms": 279726,
+      "name": "Colibr\u00ed",
+      "url": "https://open.spotify.com/track/4ihXAO7fbw75DqlVMrSQgq"
     },
     {
       "added_at": "2025-12-29 15:38:30",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2025-12-29 15:38:30",
       "album": {
-        "name": "Matricula De Honor/New Booklet",
-        "url": "https://open.spotify.com/album/4ajHTO6YQLBIgfsF9MpKBv"
-      },
-      "artists": [
-        {
-          "name": "Tequila",
-          "url": "https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO"
-        }
-      ],
-      "duration_ms": 180266,
-      "name": "Rock And Roll en la Plaza del Pueblo",
-      "url": "https://open.spotify.com/track/5fCYRuYxc1ox7yWKcKD6tf"
-    },
-    {
-      "added_at": "2025-12-29 15:38:30",
-      "album": {
         "name": "No creo en Dios",
         "url": "https://open.spotify.com/album/0kNjIuFecS7XxLfdoTSj1W"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 234645,
       "name": "No creo en Dios",
       "url": "https://open.spotify.com/track/6b50qodJHOdoIlWHb8orCt"
+    },
+    {
+      "added_at": "2025-12-29 15:38:30",
+      "album": {
+        "name": "Matricula De Honor/New Booklet",
+        "url": "https://open.spotify.com/album/4ajHTO6YQLBIgfsF9MpKBv"
+      },
+      "artists": [
+        {
+          "name": "Tequila",
+          "url": "https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO"
+        }
+      ],
+      "duration_ms": 180266,
+      "name": "Rock And Roll en la Plaza del Pueblo",
+      "url": "https://open.spotify.com/track/5fCYRuYxc1ox7yWKcKD6tf"
     },
     {
       "added_at": "2025-12-29 15:38:30",

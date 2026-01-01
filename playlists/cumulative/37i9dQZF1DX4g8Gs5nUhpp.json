@@ -2771,6 +2771,28 @@
     },
     {
       "album": {
+        "name": "LINK",
+        "url": "https://open.spotify.com/album/38DiN8raykLZKEr5T6v5hM"
+      },
+      "artists": [
+        {
+          "name": "Ho\u00e0ng Th\u00f9y Linh",
+          "url": "https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL"
+        },
+        {
+          "name": "\u0110en",
+          "url": "https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198947,
+      "name": "Gieo Qu\u1ebb (feat. \u0110en)",
+      "url": "https://open.spotify.com/track/6SjnTRDyTM162pPOAM0O8M"
+    },
+    {
+      "album": {
         "name": "Girl H\u00e0 N\u1ed9i",
         "url": "https://open.spotify.com/album/557Iv8OfqS2MlVhHj9wPu9"
       },
@@ -3994,6 +4016,32 @@
       "duration_ms": 234240,
       "name": "Lu\u00f4n y\u00eau \u0111\u1eddi",
       "url": "https://open.spotify.com/track/76zJmpyMFX49tGT3u06JaK"
+    },
+    {
+      "album": {
+        "name": "L\u00e0m G\u00ec Ph\u1ea3i H\u1ed1t",
+        "url": "https://open.spotify.com/album/5vzwVtcZiriAkTRlNzEE49"
+      },
+      "artists": [
+        {
+          "name": "Ho\u00e0ng Th\u00f9y Linh",
+          "url": "https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL"
+        },
+        {
+          "name": "JustaTee",
+          "url": "https://open.spotify.com/artist/3rjcQ5VIWCN4q7UFetzdeO"
+        },
+        {
+          "name": "\u0110en",
+          "url": "https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189296,
+      "name": "L\u00e0m G\u00ec Ph\u1ea3i H\u1ed1t",
+      "url": "https://open.spotify.com/track/34zLev2Poav7NqDi6zWTtb"
     },
     {
       "album": {
@@ -5955,6 +6003,24 @@
     },
     {
       "album": {
+        "name": "SAIROI",
+        "url": "https://open.spotify.com/album/2R91G1cnaAmmgCmoM1jIaz"
+      },
+      "artists": [
+        {
+          "name": "Khoi Vu",
+          "url": "https://open.spotify.com/artist/71Cy7nzbfpuGJAS5FGxm93"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145040,
+      "name": "SAIROI",
+      "url": "https://open.spotify.com/track/1nrC04lSCsxO6TwHktJKzj"
+    },
+    {
+      "album": {
         "name": "Sau C\u01a1n M\u01b0a",
         "url": "https://open.spotify.com/album/06QN41i8CfDkgUy2HP1kZ2"
       },
@@ -6876,7 +6942,7 @@
       ],
       "date_added": "2025-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-01",
       "duration_ms": 256008,
       "name": "TI\u1ebeC CHO EM",
       "url": "https://open.spotify.com/track/56LSZ1PFm7nOo734RfbEDo"
@@ -7745,6 +7811,28 @@
     },
     {
       "album": {
+        "name": "V\u00e0 Th\u1ebf Gi\u1edbi \u0110\u00e3 M\u1ea5t \u0110i M\u1ed9t Ng\u01b0\u1eddi C\u00f4 \u0110\u01a1n",
+        "url": "https://open.spotify.com/album/2nrI2EXyALcCWr12MwOzpA"
+      },
+      "artists": [
+        {
+          "name": "marzuz",
+          "url": "https://open.spotify.com/artist/3y6Lfjkrdn5TgkbgDxbpvM"
+        },
+        {
+          "name": "Changg",
+          "url": "https://open.spotify.com/artist/1nX1HVIUo1Zfs3e2v3lFb9"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201176,
+      "name": "V\u00e0 Th\u1ebf Gi\u1edbi \u0110\u00e3 M\u1ea5t \u0110i M\u1ed9t Ng\u01b0\u1eddi C\u00f4 \u0110\u01a1n",
+      "url": "https://open.spotify.com/track/6Qwl74olNi1rl65FNxG5We"
+    },
+    {
+      "album": {
         "name": "V\u00ec Anh \u0110\u00e2u C\u00f3 Bi\u1ebft",
         "url": "https://open.spotify.com/album/3C5z2dMU7D6VLpnNtYujPJ"
       },
@@ -7878,7 +7966,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-01",
       "duration_ms": 214699,
       "name": "V\u01b0\u1eddn H\u1ed3ng",
       "url": "https://open.spotify.com/track/6NR4TWqZKlLlri54o9yjsY"
@@ -8958,7 +9046,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-01",
       "duration_ms": 272571,
       "name": "\u01af\u1edbc anh nhi\u1ec1u n\u1ed7i bu\u1ed3n",
       "url": "https://open.spotify.com/track/6zyZJEl43HJwmalzO1Lj1J"

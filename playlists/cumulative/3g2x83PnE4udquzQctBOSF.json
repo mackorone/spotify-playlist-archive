@@ -5429,6 +5429,24 @@
     },
     {
       "album": {
+        "name": "Lifetime Groove",
+        "url": "https://open.spotify.com/album/776BiweNwMpXfsJxt1hb9B"
+      },
+      "artists": [
+        {
+          "name": "Marco Basile",
+          "url": "https://open.spotify.com/artist/4bwZB4AuA5cKWSqvh2ti6B"
+        }
+      ],
+      "date_added": "2025-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350625,
+      "name": "Minimal Paradise",
+      "url": "https://open.spotify.com/track/5UgRr3D6jRH3TizqHETLk5"
+    },
+    {
+      "album": {
         "name": "Moanin'",
         "url": "https://open.spotify.com/album/1udtPFA6pYNDvUedNQwv2m"
       },

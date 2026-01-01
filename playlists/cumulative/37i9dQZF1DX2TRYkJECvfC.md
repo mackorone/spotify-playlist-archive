@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-659 songs - 2 day 6 hr 17 min
+660 songs - 2 day 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [China Plate](https://open.spotify.com/track/0aGjzEGpEJgBLb5KoZAS8i) | [djimboh](https://open.spotify.com/artist/7cIzAFnvs0ilTGyfFJY8fd) | [China Plate / Sivonium](https://open.spotify.com/album/21bUJXbaJUOewmKrZfxfjE) | 3:48 | 2023-05-26 | 2025-08-30 |
 | [Churches](https://open.spotify.com/track/4PWnRpj7y40SaUUD2fELAn) | [INVŌKER](https://open.spotify.com/artist/2TV6OGSsDnoV2EpybXrNZ1) | [Secret Weapons Part 12](https://open.spotify.com/album/3aN2y7POprvpyRmxOR1hzD) | 4:41 | 2021-12-08 | 2022-07-23 |
 | [Circulations](https://open.spotify.com/track/3MjKR35SfCpO0DTTYNKvTp) | [Lycoriscoris](https://open.spotify.com/artist/44fky3vQ6AYZ15CmNYrmyt) | [Circulations](https://open.spotify.com/album/37XToRwRagx0FQSJNqjKdr) | 5:22 | 2025-08-29 |  |
+| [Citrus](https://open.spotify.com/track/6M6rvs8rX3TmGWaGowu00X) | [Juno Mamba](https://open.spotify.com/artist/5RAHYRgJdI1D82IANP5yYL), [Rino](https://open.spotify.com/artist/2ZEU5Xgl6aQ41zK7NTPo4s) | [Citrus](https://open.spotify.com/album/4fNtkB4ZUhl4cXdTxRlSew) | 4:50 | 2025-12-19 |  |
 | [Clear as Water](https://open.spotify.com/track/0OaZHTmB08aPpFrP0FaaFW) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A), [YOSIE](https://open.spotify.com/artist/3uSFIs8rPUcRzKliQ6Tel9) | [Clear as Water](https://open.spotify.com/album/5ouBZZ3FrXwd6NSbVZUb2Z) | 2:54 | 2023-08-04 |  |
 | [Closer To You](https://open.spotify.com/track/3WHDzLmx5Nndrh9mHvx1gQ) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp), [Roy Rosenfeld](https://open.spotify.com/artist/4YklksA8yDtpluCCh945Sk), [Lost Miracle](https://open.spotify.com/artist/0SnGv2ybYofUyE1IZyr198) | [Closer To You](https://open.spotify.com/album/7LuXAPiAzcShywUuDajqWV) | 3:38 | 2025-10-17 |  |
 | [Come On Back With Your Love \- Sunrise Mix](https://open.spotify.com/track/7yTD5MdgZQMIGh6nnRUlg4) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [Come On Back With Your Love](https://open.spotify.com/album/4jU9hmYyqwY2eurr8BMOmf) | 3:26 | 2025-01-17 | 2025-09-06 |
@@ -210,7 +211,7 @@
 | [Gira](https://open.spotify.com/track/03q9AtM0x9F3a6IegdR4C8) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Gira](https://open.spotify.com/album/37CKAnHq973TQx6Dz8gKoS) | 7:45 | 2022-10-28 | 2023-12-17 |
 | [Gira](https://open.spotify.com/track/4b7ip6Jw2XG8avLgM41kcl) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Gira](https://open.spotify.com/album/4gw2Z16cnAt917rOGlPBA2) | 7:45 | 2021-12-08 | 2022-11-20 |
 | [glow](https://open.spotify.com/track/3i9QKRl5Ql3pgUfNdYBVTc) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh), [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [ten days](https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh) | 7:33 | 2024-09-06 |  |
-| [Glow](https://open.spotify.com/track/0tL68fTZxDafmumMTedtbA) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [Glow](https://open.spotify.com/album/7n7O4ZeIs3uoFZOPj3CIky) | 2:42 | 2025-08-29 |  |
+| [Glow](https://open.spotify.com/track/0tL68fTZxDafmumMTedtbA) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k) | [Glow](https://open.spotify.com/album/7n7O4ZeIs3uoFZOPj3CIky) | 2:42 | 2025-08-29 | 2026-01-01 |
 | [Go](https://open.spotify.com/track/3TjfLlWgtEvsrKAvOeyIHT) | [Mondingo](https://open.spotify.com/artist/11g4H9gRvProNpOglq4APV), [Monoko](https://open.spotify.com/artist/3ozLI8p2mfK3CjqZ3qccVI) | [Go](https://open.spotify.com/album/1PxOROyL6nnGbGL0rYrhBM) | 4:34 | 2024-04-12 |  |
 | [Go On and Make It Through](https://open.spotify.com/track/4Adh1Klm7A1JSRT6Pafhq5) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Keep Me Warm \(feat\. GAPS\)](https://open.spotify.com/album/3RrLv99FiRd4YjO9NbKSES) | 6:11 | 2022-05-03 | 2022-09-10 |
 | [Going Down \- Original Mix](https://open.spotify.com/track/6qraMlY4ZvQCkWF1Q9Uk9A) | [Col Lawton](https://open.spotify.com/artist/1KoBr4hgTMG3lPR353sNqm) | [Going Down EP](https://open.spotify.com/album/1YOK5okCvTwpNkLg7xpUYI) | 7:03 | 2021-12-08 | 2024-07-13 |

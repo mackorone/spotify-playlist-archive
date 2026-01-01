@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 
 > 様々な感情を自在に表現し、登場人物に命を吹き込む声優たち。声のプロフェッショナルである彼らが紡ぐ歌の世界。A collection of music from voice actors/ actresses in Japan\. Cover: 夏川椎菜 Shiina Natsukawa
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,810 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,808 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7RvXTzD4rW.md) - [plain]
 | 49 | [水際FOREVER](https://open.spotify.com/track/6vK49VpKQBErVwfbFvyaab) | [Kiyono Yasuno](https://open.spotify.com/artist/2SdzLUuWOGCPXyQ5L7eXyd) | [雨が、やむまで。](https://open.spotify.com/album/62udGDqfCXa3xrWmCjrS06) | 4:26 |
 | 50 | [純情であれ。](https://open.spotify.com/track/6TCNAbHqjZX0sY0d6PmH9o) | [梶原岳人](https://open.spotify.com/artist/1ZSbJqrZp4HiQlhPPScaKG) | [純情であれ。](https://open.spotify.com/album/3sIFJKJPTqswLlqcwwZclG) | 3:44 |
 
-Snapshot ID: `AAAAAEeC1WyUCVQs+KleZaNxYRKju6Pa`
+Snapshot ID: `AAAAABh4it5ejvapQBiDTnlcl4eN+LSK`

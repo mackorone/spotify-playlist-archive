@@ -1,6 +1,6 @@
 {
   "description": "Modern southern rock swagger served neat. Cover: Mark Morton",
-  "num_followers": 93247,
+  "num_followers": 93266,
   "original_name": "Southern Comfort",
   "owner": {
     "name": "Spotify",
@@ -987,22 +987,6 @@
     {
       "added_at": "2025-04-21 21:56:35",
       "album": {
-        "name": "In Stride",
-        "url": "https://open.spotify.com/album/1f9Z6ZUYbrjR10j1bwPL3u"
-      },
-      "artists": [
-        {
-          "name": "Myles Kennedy",
-          "url": "https://open.spotify.com/artist/2YZOQlBE1v44RxPEAVSdVR"
-        }
-      ],
-      "duration_ms": 227199,
-      "name": "In Stride",
-      "url": "https://open.spotify.com/track/3O6GPcdbS3cyT2MpHwm9pP"
-    },
-    {
-      "added_at": "2025-04-21 21:56:35",
-      "album": {
         "name": "In Your Hands (feat. Don Miggs and Zane Carney)",
         "url": "https://open.spotify.com/album/1EYgsan8PK3XiINKNSO4ht"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 233250,
       "name": "In Your Hands (feat. Don Miggs and Zane Carney)",
       "url": "https://open.spotify.com/track/07Rr3g9Gl2zPJd8flMxLAL"
+    },
+    {
+      "added_at": "2025-04-21 21:56:35",
+      "album": {
+        "name": "In Stride",
+        "url": "https://open.spotify.com/album/1f9Z6ZUYbrjR10j1bwPL3u"
+      },
+      "artists": [
+        {
+          "name": "Myles Kennedy",
+          "url": "https://open.spotify.com/artist/2YZOQlBE1v44RxPEAVSdVR"
+        }
+      ],
+      "duration_ms": 227199,
+      "name": "In Stride",
+      "url": "https://open.spotify.com/track/3O6GPcdbS3cyT2MpHwm9pP"
     },
     {
       "added_at": "2025-04-21 21:56:35",

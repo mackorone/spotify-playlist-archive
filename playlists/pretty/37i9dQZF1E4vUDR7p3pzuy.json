@@ -1,5 +1,5 @@
 {
-  "description": "With Rob Harrowven, Golem Dance Cult, Splitter Conspiracy and more",
+  "description": "With Rob Harrowven, Splitter Conspiracy, Golem Dance Cult and more",
   "num_followers": 9,
   "original_name": "DePitcha Radio",
   "owner": {
@@ -35,6 +35,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Motivation",
+        "url": "https://open.spotify.com/album/2LgyCOPjEodI3FT2YEmD4G"
+      },
+      "artists": [
+        {
+          "name": "Rob Harrowven",
+          "url": "https://open.spotify.com/artist/2gLrk3xEIjYp9elFHq720N"
+        }
+      ],
+      "duration_ms": 296199,
+      "name": "Motivation - Single Edit",
+      "url": "https://open.spotify.com/track/17e23jBvaBQwFPgp0S9UfL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cleansed by Fire",
         "url": "https://open.spotify.com/album/4vPfbCaHyQmbMX6lcmq6RM"
       },
@@ -51,22 +67,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "POV",
-        "url": "https://open.spotify.com/album/10ROE0SsOAlyFPtXfeltLR"
+        "name": "Doppelganger",
+        "url": "https://open.spotify.com/album/1iakMwV4N327xJaXDYuTEq"
       },
       "artists": [
         {
-          "name": "Antonis Vlavo",
-          "url": "https://open.spotify.com/artist/1kIBJaqB03tEA8CUfiUElj"
-        },
-        {
-          "name": "To Die In Beauty",
-          "url": "https://open.spotify.com/artist/2qiXBLDpNuwfQHb4D1x7cW"
+          "name": "Nick Luddite",
+          "url": "https://open.spotify.com/artist/5JW6XHyFvz9WOZidRZwYq5"
         }
       ],
-      "duration_ms": 206462,
-      "name": "POV",
-      "url": "https://open.spotify.com/track/2OWvD5JeW5USo607C4GK60"
+      "duration_ms": 276000,
+      "name": "Doppelganger",
+      "url": "https://open.spotify.com/track/0oXmJgdT7jPYTjOmN2GUWY"
     },
     {
       "added_at": null,
@@ -83,22 +95,6 @@
       "duration_ms": 248956,
       "name": "Falling Stars",
       "url": "https://open.spotify.com/track/1h89xz80g5LZIvnteTPHpS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Doppelganger",
-        "url": "https://open.spotify.com/album/1iakMwV4N327xJaXDYuTEq"
-      },
-      "artists": [
-        {
-          "name": "Nick Luddite",
-          "url": "https://open.spotify.com/artist/5JW6XHyFvz9WOZidRZwYq5"
-        }
-      ],
-      "duration_ms": 276000,
-      "name": "Doppelganger",
-      "url": "https://open.spotify.com/track/0oXmJgdT7jPYTjOmN2GUWY"
     },
     {
       "added_at": null,
@@ -123,18 +119,50 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dissipate",
-        "url": "https://open.spotify.com/album/5yb0VtKNpmxpoMkr2ygUW9"
+        "name": "Shamanic Faultlines",
+        "url": "https://open.spotify.com/album/1It4EfnVFbiNnngWvnNYvG"
       },
       "artists": [
         {
-          "name": "KOSTIGAN",
-          "url": "https://open.spotify.com/artist/1gJc9dMWtKJOqpYhROgyxw"
+          "name": "Golem Dance Cult",
+          "url": "https://open.spotify.com/artist/58l6TPKh7HRsJJhLbSF7pd"
         }
       ],
-      "duration_ms": 192796,
-      "name": "Dissipate",
-      "url": "https://open.spotify.com/track/7A4hYrGdnScu1Z6sZMqA8b"
+      "duration_ms": 179867,
+      "name": "Call of the Wendigo",
+      "url": "https://open.spotify.com/track/1jRF9SJgxRqqghUkFmCgGJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Just Saying",
+        "url": "https://open.spotify.com/album/7JAHnOhj7SqHQjFDyNRJdX"
+      },
+      "artists": [
+        {
+          "name": "Rob Harrowven",
+          "url": "https://open.spotify.com/artist/2gLrk3xEIjYp9elFHq720N"
+        }
+      ],
+      "duration_ms": 187118,
+      "name": "Just Saying - Single Edit",
+      "url": "https://open.spotify.com/track/3h9GdCTN4xCCNxCwXsjtsf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "POST MORTEM INVICTUS",
+        "url": "https://open.spotify.com/album/2YrwaUPZDgvHPYCAlwOlaP"
+      },
+      "artists": [
+        {
+          "name": "Luci Ferrum",
+          "url": "https://open.spotify.com/artist/07hES9rBibqnpRqecdYpIG"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Cycle Breaker",
+      "url": "https://open.spotify.com/track/5dQwM41uDGiyyWHKAbiwqV"
     },
     {
       "added_at": null,
@@ -151,38 +179,6 @@
       "duration_ms": 191500,
       "name": "Coming Back To Life",
       "url": "https://open.spotify.com/track/5Kd2FR1p19DT26gKoaRWtd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Happy Song (Single Edit)",
-        "url": "https://open.spotify.com/album/4MIea62MBN7rVVjsXtrVPf"
-      },
-      "artists": [
-        {
-          "name": "Rob Harrowven",
-          "url": "https://open.spotify.com/artist/2gLrk3xEIjYp9elFHq720N"
-        }
-      ],
-      "duration_ms": 199709,
-      "name": "Happy Song (Single Edit)",
-      "url": "https://open.spotify.com/track/5Mu2uPodFAD1WhKfndU9Hx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shamanic Faultlines",
-        "url": "https://open.spotify.com/album/1It4EfnVFbiNnngWvnNYvG"
-      },
-      "artists": [
-        {
-          "name": "Golem Dance Cult",
-          "url": "https://open.spotify.com/artist/58l6TPKh7HRsJJhLbSF7pd"
-        }
-      ],
-      "duration_ms": 179867,
-      "name": "Call of the Wendigo",
-      "url": "https://open.spotify.com/track/1jRF9SJgxRqqghUkFmCgGJ"
     },
     {
       "added_at": null,
@@ -207,18 +203,118 @@
     {
       "added_at": null,
       "album": {
-        "name": "Least",
-        "url": "https://open.spotify.com/album/2d7dIcTDJZep5Ebu3m2dPr"
+        "name": "Dissipate",
+        "url": "https://open.spotify.com/album/5yb0VtKNpmxpoMkr2ygUW9"
       },
       "artists": [
         {
-          "name": "Raymonirwineen",
-          "url": "https://open.spotify.com/artist/2aRZUAeCeWygtJc7mvkeap"
+          "name": "KOSTIGAN",
+          "url": "https://open.spotify.com/artist/1gJc9dMWtKJOqpYhROgyxw"
         }
       ],
-      "duration_ms": 120000,
-      "name": "Least",
-      "url": "https://open.spotify.com/track/4jcdmZz76vJkLEEu8IsKkw"
+      "duration_ms": 192796,
+      "name": "Dissipate",
+      "url": "https://open.spotify.com/track/7A4hYrGdnScu1Z6sZMqA8b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lena",
+        "url": "https://open.spotify.com/album/2KX0zB4WWEV2fE9VQqoUuu"
+      },
+      "artists": [
+        {
+          "name": "Metrophobia",
+          "url": "https://open.spotify.com/artist/586XweAtk9bPSSvhzLdrfV"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Lena",
+      "url": "https://open.spotify.com/track/1GP8hd4auBi1Uvg5q0Ng9h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Happy Song (Single Edit)",
+        "url": "https://open.spotify.com/album/4MIea62MBN7rVVjsXtrVPf"
+      },
+      "artists": [
+        {
+          "name": "Rob Harrowven",
+          "url": "https://open.spotify.com/artist/2gLrk3xEIjYp9elFHq720N"
+        }
+      ],
+      "duration_ms": 199709,
+      "name": "Happy Song (Single Edit)",
+      "url": "https://open.spotify.com/track/5Mu2uPodFAD1WhKfndU9Hx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anything According To Plan",
+        "url": "https://open.spotify.com/album/27vc2qCIKAumr15deHbdc3"
+      },
+      "artists": [
+        {
+          "name": "7 Seconds Later",
+          "url": "https://open.spotify.com/artist/23sO4cYkyuwZmUuQC7o57N"
+        }
+      ],
+      "duration_ms": 208002,
+      "name": "You're Not Alone",
+      "url": "https://open.spotify.com/track/0wQ3CyATsC1qjdPg9R7oTl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Where The Bubbles Rise",
+        "url": "https://open.spotify.com/album/3BRwzCH1qETmg49Eoz8xbq"
+      },
+      "artists": [
+        {
+          "name": "DePitcha",
+          "url": "https://open.spotify.com/artist/3hpbeTr7Si1QSiuedag8Hz"
+        },
+        {
+          "name": "JUST LIZZY",
+          "url": "https://open.spotify.com/artist/6tYGjj89ayCTVopRtNF9ST"
+        }
+      ],
+      "duration_ms": 219840,
+      "name": "Where The Bubbles Rise",
+      "url": "https://open.spotify.com/track/1f51VHAE7BIiWy2oUlErCU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AD/2",
+        "url": "https://open.spotify.com/album/5YBWxvQe74eyaWCTJUf6wB"
+      },
+      "artists": [
+        {
+          "name": "SCHANZ",
+          "url": "https://open.spotify.com/artist/65PEcXFkSyxz0r9p5c6xT8"
+        }
+      ],
+      "duration_ms": 253456,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/6E2d2GMw6cAp9Tla3V9VRM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Armour Hill",
+        "url": "https://open.spotify.com/album/7yLSB2eW8PB70MC31tZKHw"
+      },
+      "artists": [
+        {
+          "name": "Gran Fenwick",
+          "url": "https://open.spotify.com/artist/0VEN5dR1HedhA1jEGYMRcz"
+        }
+      ],
+      "duration_ms": 259000,
+      "name": "Armour Hill",
+      "url": "https://open.spotify.com/track/0gagWc2Pj6iX1Yg5tmhn5d"
     },
     {
       "added_at": null,
@@ -259,86 +355,54 @@
     {
       "added_at": null,
       "album": {
-        "name": "Motivation",
-        "url": "https://open.spotify.com/album/2LgyCOPjEodI3FT2YEmD4G"
-      },
-      "artists": [
-        {
-          "name": "Rob Harrowven",
-          "url": "https://open.spotify.com/artist/2gLrk3xEIjYp9elFHq720N"
-        }
-      ],
-      "duration_ms": 296199,
-      "name": "Motivation - Single Edit",
-      "url": "https://open.spotify.com/track/17e23jBvaBQwFPgp0S9UfL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Where The Bubbles Rise",
-        "url": "https://open.spotify.com/album/3BRwzCH1qETmg49Eoz8xbq"
+        "name": "The Short Way Home",
+        "url": "https://open.spotify.com/album/6r8d7Gm02NbuDcV0HiHEUe"
       },
       "artists": [
         {
           "name": "DePitcha",
           "url": "https://open.spotify.com/artist/3hpbeTr7Si1QSiuedag8Hz"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "I Never Had The Chance - Instrumental",
+      "url": "https://open.spotify.com/track/1u5nNIXufOky5fASaMu81b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cipher in The Snow",
+        "url": "https://open.spotify.com/album/5lqPemfzGPOSuzDn4Nr9jq"
+      },
+      "artists": [
+        {
+          "name": "The Library Is On Fire",
+          "url": "https://open.spotify.com/artist/7wog7Uyk4FsbXcilG0FzUA"
+        }
+      ],
+      "duration_ms": 278085,
+      "name": "Cipher in The Snow",
+      "url": "https://open.spotify.com/track/7bfBs5h7IjwR6TuGWjPqui"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "POV",
+        "url": "https://open.spotify.com/album/10ROE0SsOAlyFPtXfeltLR"
+      },
+      "artists": [
+        {
+          "name": "Antonis Vlavo",
+          "url": "https://open.spotify.com/artist/1kIBJaqB03tEA8CUfiUElj"
         },
         {
-          "name": "JUST LIZZY",
-          "url": "https://open.spotify.com/artist/6tYGjj89ayCTVopRtNF9ST"
+          "name": "To Die In Beauty",
+          "url": "https://open.spotify.com/artist/2qiXBLDpNuwfQHb4D1x7cW"
         }
       ],
-      "duration_ms": 219840,
-      "name": "Where The Bubbles Rise",
-      "url": "https://open.spotify.com/track/1f51VHAE7BIiWy2oUlErCU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lena",
-        "url": "https://open.spotify.com/album/2KX0zB4WWEV2fE9VQqoUuu"
-      },
-      "artists": [
-        {
-          "name": "Metrophobia",
-          "url": "https://open.spotify.com/artist/586XweAtk9bPSSvhzLdrfV"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Lena",
-      "url": "https://open.spotify.com/track/1GP8hd4auBi1Uvg5q0Ng9h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AD/2",
-        "url": "https://open.spotify.com/album/5YBWxvQe74eyaWCTJUf6wB"
-      },
-      "artists": [
-        {
-          "name": "SCHANZ",
-          "url": "https://open.spotify.com/artist/65PEcXFkSyxz0r9p5c6xT8"
-        }
-      ],
-      "duration_ms": 253456,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/6E2d2GMw6cAp9Tla3V9VRM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "give up",
-        "url": "https://open.spotify.com/album/5F5WRrmx5liSO4kdHrDptc"
-      },
-      "artists": [
-        {
-          "name": "Whispergun",
-          "url": "https://open.spotify.com/artist/6zyLIWkzPVFYl5VNubkOs6"
-        }
-      ],
-      "duration_ms": 338250,
-      "name": "give up",
-      "url": "https://open.spotify.com/track/3TM8uLiRoQ44JLjI5oyTtI"
+      "duration_ms": 206462,
+      "name": "POV",
+      "url": "https://open.spotify.com/track/2OWvD5JeW5USo607C4GK60"
     },
     {
       "added_at": null,
@@ -359,82 +423,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Short Way Home",
-        "url": "https://open.spotify.com/album/6r8d7Gm02NbuDcV0HiHEUe"
+        "name": "Yes I Do EP",
+        "url": "https://open.spotify.com/album/3x3QoaFqhuBIxR2j1hbtGK"
       },
       "artists": [
         {
-          "name": "DePitcha",
-          "url": "https://open.spotify.com/artist/3hpbeTr7Si1QSiuedag8Hz"
+          "name": "M@",
+          "url": "https://open.spotify.com/artist/6NiBMHnqw4VlZUQikcfUp6"
         }
       ],
-      "duration_ms": 201600,
-      "name": "I Never Had The Chance - Instrumental",
-      "url": "https://open.spotify.com/track/1u5nNIXufOky5fASaMu81b"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Just Saying",
-        "url": "https://open.spotify.com/album/7JAHnOhj7SqHQjFDyNRJdX"
-      },
-      "artists": [
-        {
-          "name": "Rob Harrowven",
-          "url": "https://open.spotify.com/artist/2gLrk3xEIjYp9elFHq720N"
-        }
-      ],
-      "duration_ms": 187118,
-      "name": "Just Saying - Single Edit",
-      "url": "https://open.spotify.com/track/3h9GdCTN4xCCNxCwXsjtsf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Anything According To Plan",
-        "url": "https://open.spotify.com/album/27vc2qCIKAumr15deHbdc3"
-      },
-      "artists": [
-        {
-          "name": "7 Seconds Later",
-          "url": "https://open.spotify.com/artist/23sO4cYkyuwZmUuQC7o57N"
-        }
-      ],
-      "duration_ms": 208002,
-      "name": "You're Not Alone",
-      "url": "https://open.spotify.com/track/0wQ3CyATsC1qjdPg9R7oTl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "temporary space",
-        "url": "https://open.spotify.com/album/0WNhrl1hcWzPQ4zl2ZZgce"
-      },
-      "artists": [
-        {
-          "name": "tommy eliot",
-          "url": "https://open.spotify.com/artist/0wbK1N9tUf56TqczjPMug7"
-        }
-      ],
-      "duration_ms": 127090,
-      "name": "temporary space",
-      "url": "https://open.spotify.com/track/3r622IaCgSfTDiivuD80uk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "give and take",
-        "url": "https://open.spotify.com/album/6WHPWP1m7363k2z6vaipKm"
-      },
-      "artists": [
-        {
-          "name": "Whispergun",
-          "url": "https://open.spotify.com/artist/6zyLIWkzPVFYl5VNubkOs6"
-        }
-      ],
-      "duration_ms": 162725,
-      "name": "forever world",
-      "url": "https://open.spotify.com/track/2z3YRcH9TkTGDuhI80Z7tB"
+      "duration_ms": 151430,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/4XZin6WEIbTjqb0lQFZjJ5"
     },
     {
       "added_at": null,
@@ -455,6 +455,22 @@
       "duration_ms": 310000,
       "name": "Can You See",
       "url": "https://open.spotify.com/track/0821u62C5YiW4Z2beHjvGf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "temporary space",
+        "url": "https://open.spotify.com/album/0WNhrl1hcWzPQ4zl2ZZgce"
+      },
+      "artists": [
+        {
+          "name": "tommy eliot",
+          "url": "https://open.spotify.com/artist/0wbK1N9tUf56TqczjPMug7"
+        }
+      ],
+      "duration_ms": 127090,
+      "name": "temporary space",
+      "url": "https://open.spotify.com/track/3r622IaCgSfTDiivuD80uk"
     },
     {
       "added_at": null,
@@ -491,34 +507,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Discipline",
-        "url": "https://open.spotify.com/album/1yljmuOaYXA3AcrCHjd3tt"
+        "name": "AD/2",
+        "url": "https://open.spotify.com/album/5YBWxvQe74eyaWCTJUf6wB"
       },
       "artists": [
         {
-          "name": "Jyri Kannisto",
-          "url": "https://open.spotify.com/artist/6zNNpQSJzvPo7lXjhl4Pmp"
+          "name": "SCHANZ",
+          "url": "https://open.spotify.com/artist/65PEcXFkSyxz0r9p5c6xT8"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Discipline",
-      "url": "https://open.spotify.com/track/3ZAcW4sUc92H8QnoNs5Ai9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "bloodsports",
-        "url": "https://open.spotify.com/album/39HzHBGmHiKKa8rznT4nm6"
-      },
-      "artists": [
-        {
-          "name": "REDRAW",
-          "url": "https://open.spotify.com/artist/0d5Dgm3Rwn8WatrjwGkcws"
-        }
-      ],
-      "duration_ms": 210789,
-      "name": "bloodsports",
-      "url": "https://open.spotify.com/track/7IXsMgRqVCUv7ZeH23D4Ba"
+      "duration_ms": 236615,
+      "name": "Long Distance to Go",
+      "url": "https://open.spotify.com/track/5CpzD2bjv4G7R7xZsg7jCL"
     },
     {
       "added_at": null,
@@ -547,6 +547,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Least",
+        "url": "https://open.spotify.com/album/2d7dIcTDJZep5Ebu3m2dPr"
+      },
+      "artists": [
+        {
+          "name": "Raymonirwineen",
+          "url": "https://open.spotify.com/artist/2aRZUAeCeWygtJc7mvkeap"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Least",
+      "url": "https://open.spotify.com/track/4jcdmZz76vJkLEEu8IsKkw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "give up",
+        "url": "https://open.spotify.com/album/5F5WRrmx5liSO4kdHrDptc"
+      },
+      "artists": [
+        {
+          "name": "Whispergun",
+          "url": "https://open.spotify.com/artist/6zyLIWkzPVFYl5VNubkOs6"
+        }
+      ],
+      "duration_ms": 338250,
+      "name": "give up",
+      "url": "https://open.spotify.com/track/3TM8uLiRoQ44JLjI5oyTtI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Song For Brian",
         "url": "https://open.spotify.com/album/759s7cwlnYVVEygGj4ACLg"
       },
@@ -567,54 +599,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "When I Die",
-        "url": "https://open.spotify.com/album/6KnUQkIUSSoAjUJG2Q7VsZ"
+        "name": "Control the Universe (Definitive Mix)",
+        "url": "https://open.spotify.com/album/5CJdJSLQNw6gWb9elFmfRL"
       },
       "artists": [
         {
-          "name": "When I Die",
-          "url": "https://open.spotify.com/artist/0Rj8U4S2EIexTJS7ZZSmed"
+          "name": "Lynn Rockin",
+          "url": "https://open.spotify.com/artist/5rCJrr6znWoU3RTfk5Nyo3"
         }
       ],
-      "duration_ms": 293142,
-      "name": "Black Death Party",
-      "url": "https://open.spotify.com/track/795CxOmL0SPYFCw5aHlZBE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Smoke & Mirrors + Other Ghosts (2025 Expanded Remaster)",
-        "url": "https://open.spotify.com/album/1imOO9BuzwPiMvxK9VfXl9"
-      },
-      "artists": [
-        {
-          "name": "The Eden House",
-          "url": "https://open.spotify.com/artist/44RZDLBmH5RPBIo4Tmfumv"
-        },
-        {
-          "name": "Monica Richards",
-          "url": "https://open.spotify.com/artist/0VAjZRwjHiYpeYZHxrYME7"
-        }
-      ],
-      "duration_ms": 332493,
-      "name": "To Believe In Something - 2025 Remaster",
-      "url": "https://open.spotify.com/track/2lU9QgyPgqlZ7BtRGk7XFO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shamanic Faultlines",
-        "url": "https://open.spotify.com/album/1It4EfnVFbiNnngWvnNYvG"
-      },
-      "artists": [
-        {
-          "name": "Golem Dance Cult",
-          "url": "https://open.spotify.com/artist/58l6TPKh7HRsJJhLbSF7pd"
-        }
-      ],
-      "duration_ms": 263825,
-      "name": "Shamanic Fault Lines",
-      "url": "https://open.spotify.com/track/6X31izvNIyfffvVyIu5vQM"
+      "duration_ms": 232000,
+      "name": "Control the Universe - Definitive Mix",
+      "url": "https://open.spotify.com/track/6QI293azblF4fJb9A9JwXo"
     },
     {
       "added_at": null,
@@ -639,34 +635,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Armour Hill",
-        "url": "https://open.spotify.com/album/7yLSB2eW8PB70MC31tZKHw"
+        "name": "Discipline",
+        "url": "https://open.spotify.com/album/1yljmuOaYXA3AcrCHjd3tt"
       },
       "artists": [
         {
-          "name": "Gran Fenwick",
-          "url": "https://open.spotify.com/artist/0VEN5dR1HedhA1jEGYMRcz"
+          "name": "Jyri Kannisto",
+          "url": "https://open.spotify.com/artist/6zNNpQSJzvPo7lXjhl4Pmp"
         }
       ],
-      "duration_ms": 259000,
-      "name": "Armour Hill",
-      "url": "https://open.spotify.com/track/0gagWc2Pj6iX1Yg5tmhn5d"
+      "duration_ms": 192000,
+      "name": "Discipline",
+      "url": "https://open.spotify.com/track/3ZAcW4sUc92H8QnoNs5Ai9"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Cipher in The Snow",
-        "url": "https://open.spotify.com/album/5lqPemfzGPOSuzDn4Nr9jq"
+        "name": "Wire Drums",
+        "url": "https://open.spotify.com/album/0xbFOd1TtAr50OpQJSnV2X"
       },
       "artists": [
         {
-          "name": "The Library Is On Fire",
-          "url": "https://open.spotify.com/artist/7wog7Uyk4FsbXcilG0FzUA"
+          "name": "Springworks",
+          "url": "https://open.spotify.com/artist/351ok85APWNYv1RcU0UMcn"
         }
       ],
-      "duration_ms": 278085,
-      "name": "Cipher in The Snow",
-      "url": "https://open.spotify.com/track/7bfBs5h7IjwR6TuGWjPqui"
+      "duration_ms": 196000,
+      "name": "Wire Drums",
+      "url": "https://open.spotify.com/track/7B1gHIY0OGm31o35D6mzEg"
     },
     {
       "added_at": null,
@@ -687,18 +683,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "All We Want All at Once",
-        "url": "https://open.spotify.com/album/1GEtz9yxnB21lYYPZhNpOr"
+        "name": "HEATER",
+        "url": "https://open.spotify.com/album/6M45kJq3gIzUwV1F9685mM"
       },
       "artists": [
         {
-          "name": "Siren Section",
-          "url": "https://open.spotify.com/artist/0RnTKd7dLzpmajuKd0XnUY"
+          "name": "TORTURETWINN",
+          "url": "https://open.spotify.com/artist/5KwycyHmqdNAPBnDOg9qMK"
         }
       ],
-      "duration_ms": 181502,
-      "name": "Throwaway",
-      "url": "https://open.spotify.com/track/53KQdJR9d6tw2p8Jmgzobx"
+      "duration_ms": 100593,
+      "name": "HEATER",
+      "url": "https://open.spotify.com/track/5qX0m8gwkAqOcm6fNOtbj3"
     },
     {
       "added_at": null,
@@ -719,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Forgiveness",
+        "url": "https://open.spotify.com/album/0DrzOBmXjyNjaQRyOIAyxk"
+      },
+      "artists": [
+        {
+          "name": "Blunt Blade",
+          "url": "https://open.spotify.com/artist/40XRT2BHeN7k9H605BnWMf"
+        }
+      ],
+      "duration_ms": 299866,
+      "name": "Sprawling",
+      "url": "https://open.spotify.com/track/5PK9hMSgbOqUg5wUr783mN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Song to Joy",
         "url": "https://open.spotify.com/album/0kyFrRP8qhM5V7QWLXGFJI"
       },
@@ -735,50 +747,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hit The Floor",
-        "url": "https://open.spotify.com/album/6QljszzGUK8HaXFUnnlher"
+        "name": "UNITED",
+        "url": "https://open.spotify.com/album/1iueiJNJ0gqeItdChNLCls"
       },
       "artists": [
         {
-          "name": "Ten Million Lights",
-          "url": "https://open.spotify.com/artist/0yyD1fpbYeADcyqm72wq2e"
+          "name": "Broken Star",
+          "url": "https://open.spotify.com/artist/7jixBxoSPjyr8LXJaa8TX6"
         }
       ],
-      "duration_ms": 334838,
-      "name": "Hit The Floor",
-      "url": "https://open.spotify.com/track/7EaSx7Ic0H101Hfy4D2EgO"
+      "duration_ms": 291272,
+      "name": "Breaking (UNITED)",
+      "url": "https://open.spotify.com/track/3rqeeCPdwK1LCPxLrTe5t9"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Smoking DMT With Carl Jung",
-        "url": "https://open.spotify.com/album/6FU2JWQvOoe2SxajQIGgVw"
+        "name": "Below",
+        "url": "https://open.spotify.com/album/3PazqcjJO7Kyz3BUJMXxuL"
       },
       "artists": [
         {
-          "name": "The Library Is On Fire",
-          "url": "https://open.spotify.com/artist/7wog7Uyk4FsbXcilG0FzUA"
+          "name": "Bruce Derby",
+          "url": "https://open.spotify.com/artist/3L7v52f5rkuzgDWI2BIhJl"
         }
       ],
-      "duration_ms": 245507,
-      "name": "Smoking DMT With Carl Jung - Radio Edit",
-      "url": "https://open.spotify.com/track/7LbCGM60ObqGQoZhTLYG3z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Midtown Madness",
-        "url": "https://open.spotify.com/album/5ajBTwKD1amVvWsFATDlUP"
-      },
-      "artists": [
-        {
-          "name": "Poor Bambi",
-          "url": "https://open.spotify.com/artist/4GvgWv8CdOC1wDhLx78N7T"
-        }
-      ],
-      "duration_ms": 215103,
-      "name": "Midtown Madness",
-      "url": "https://open.spotify.com/track/2DG9MTH25nm6XwlacFtKQJ"
+      "duration_ms": 186352,
+      "name": "Below",
+      "url": "https://open.spotify.com/track/7EN56vFE3dTbkuzaIBkplR"
     },
     {
       "added_at": null,
@@ -803,70 +799,66 @@
     {
       "added_at": null,
       "album": {
-        "name": "UNITED",
-        "url": "https://open.spotify.com/album/1iueiJNJ0gqeItdChNLCls"
+        "name": "Leviathan",
+        "url": "https://open.spotify.com/album/0p5TA4Ykw9nxL4vWeBzH07"
       },
       "artists": [
         {
-          "name": "Broken Star",
-          "url": "https://open.spotify.com/artist/7jixBxoSPjyr8LXJaa8TX6"
+          "name": "12 Below",
+          "url": "https://open.spotify.com/artist/08hddDDu61mOXpZ3obywv2"
         }
       ],
-      "duration_ms": 291272,
-      "name": "Breaking (UNITED)",
-      "url": "https://open.spotify.com/track/3rqeeCPdwK1LCPxLrTe5t9"
+      "duration_ms": 237357,
+      "name": "Leviathan",
+      "url": "https://open.spotify.com/track/4NFtHnHeOqlfMRNOp2kAGj"
     },
     {
       "added_at": null,
       "album": {
-        "name": "House of Harm on Audiotree Live",
-        "url": "https://open.spotify.com/album/1WkcIqOqP4ksVE1pPPNd0p"
+        "name": "Shamanic Faultlines",
+        "url": "https://open.spotify.com/album/1It4EfnVFbiNnngWvnNYvG"
       },
       "artists": [
         {
-          "name": "House of Harm",
-          "url": "https://open.spotify.com/artist/52LAFBBP0K0Q4ONm8r8OVX"
-        },
-        {
-          "name": "Audiotree",
-          "url": "https://open.spotify.com/artist/1j8QyWpOJKAe6Iw2KvEg2j"
+          "name": "Golem Dance Cult",
+          "url": "https://open.spotify.com/artist/58l6TPKh7HRsJJhLbSF7pd"
         }
       ],
-      "duration_ms": 184872,
-      "name": "Soaked In Pastel - Audiotree Live Version",
-      "url": "https://open.spotify.com/track/72nNLvthQAGTMIPu0uekUU"
+      "duration_ms": 263825,
+      "name": "Shamanic Fault Lines",
+      "url": "https://open.spotify.com/track/6X31izvNIyfffvVyIu5vQM"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Kill the Beat",
-        "url": "https://open.spotify.com/album/6OXleFUayDl4kkOIJSfTuU"
+        "name": "Grown",
+        "url": "https://open.spotify.com/album/0uiwvGwSs9y8QGGzHXh6dU"
       },
       "artists": [
         {
-          "name": "Trenton Green",
-          "url": "https://open.spotify.com/artist/1CIVoqF4LHrBKC8AnsJLFd"
+          "name": "M@",
+          "url": "https://open.spotify.com/artist/6NiBMHnqw4VlZUQikcfUp6"
         }
       ],
-      "duration_ms": 206791,
-      "name": "Kill the Beat",
-      "url": "https://open.spotify.com/track/0C4rH4BkiRm8AIAeIgFmqD"
+      "duration_ms": 154112,
+      "name": "Grown",
+      "url": "https://open.spotify.com/track/1vjufCksVoE9yKM5sZS4tZ"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Quiet Ones",
-        "url": "https://open.spotify.com/album/4xTvdnJX2znAjHZgR2iJgO"
+        "name": "Through The Looking Glass",
+        "url": "https://open.spotify.com/album/1LP2k580115ie2Za9u7tdx"
       },
       "artists": [
         {
-          "name": "Breakaway-NE",
-          "url": "https://open.spotify.com/artist/41xvSQQalPMUEEMESzNnxo"
+          "name": "Lewis Tivey",
+          "url": "https://open.spotify.com/artist/6rMQpa1tR5sI8xGboy8mXR"
         }
       ],
-      "duration_ms": 190480,
-      "name": "Quiet Ones",
-      "url": "https://open.spotify.com/track/7nkhh20RXO5pCuXepkosz5"
+      "duration_ms": 190955,
+      "name": "Through The Looking Glass",
+      "url": "https://open.spotify.com/track/2VChgOUgrKcZ7poZHsQTqe"
     }
   ],
   "unique_name": "DePitcha Radio",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6Umi4GHdr1.md) - [plain]
 
 > Acoustic instrumental guitar to help focus the mind and concentrate on the task at hand.
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,991 likes - 182 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,987 likes - 182 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -191,4 +191,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6Umi4GHdr1.md) - [plain]
 | 181 | [Porto Fino](https://open.spotify.com/track/3GflHrUfFb7mQi5GYsQ1i5) | [Pavel Bittová](https://open.spotify.com/artist/6XfO8fz3xbhOyC53SuSiQ9) | [Porto Fino](https://open.spotify.com/album/08FqjkBw2J8PNV86G1o3Vf) | 2:35 |
 | 182 | [Is It Worth The Sacrifice](https://open.spotify.com/track/1sEQxb89LCu1u1WtjSOxNL) | [Francisco Chavez](https://open.spotify.com/artist/0UIFk9rZStMSw1dx7MKBXD) | [Is It Worth The Sacrifice](https://open.spotify.com/album/3acE1KO951uFGG7x2Z7WzQ) | 3:46 |
 
-Snapshot ID: `AAAAAAWA3n9mGRv6pOCDJwL2DAYlhdTl`
+Snapshot ID: `AAAAAJpFjdbshkP8kJqR/1R+Eea9KxZr`

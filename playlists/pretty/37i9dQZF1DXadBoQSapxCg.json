@@ -1,6 +1,6 @@
 {
   "description": "Apaga a luz e deixa rolar.",
-  "num_followers": 319555,
+  "num_followers": 319546,
   "original_name": "Rala e Rola",
   "owner": {
     "name": "Spotify",
@@ -627,6 +627,22 @@
     {
       "added_at": "2025-10-31 16:26:13",
       "album": {
+        "name": "Ci\u00fame",
+        "url": "https://open.spotify.com/album/0UdZHKpcRvVPCUpjnp2OBy"
+      },
+      "artists": [
+        {
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+        }
+      ],
+      "duration_ms": 200522,
+      "name": "Ci\u00fame",
+      "url": "https://open.spotify.com/track/4gPKpZT96CVvM4mBFfDCvD"
+    },
+    {
+      "added_at": "2025-10-31 16:26:13",
+      "album": {
         "name": "Confundindo S\u00e1bios",
         "url": "https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 235740,
       "name": "V\u00edcio",
       "url": "https://open.spotify.com/track/0ZajFsbQ6fZ4LMT2elOFuB"
-    },
-    {
-      "added_at": "2025-10-31 16:26:13",
-      "album": {
-        "name": "Ci\u00fame",
-        "url": "https://open.spotify.com/album/0UdZHKpcRvVPCUpjnp2OBy"
-      },
-      "artists": [
-        {
-          "name": "Vit\u00e3o",
-          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
-        }
-      ],
-      "duration_ms": 200522,
-      "name": "Ci\u00fame",
-      "url": "https://open.spotify.com/track/4gPKpZT96CVvM4mBFfDCvD"
     },
     {
       "added_at": "2025-10-31 16:26:13",

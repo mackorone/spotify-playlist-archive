@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Oe8zprVH3z.md) - [plain]
 
 ### [zen garden](https://open.spotify.com/playlist/37i9dQZF1DX4Oe8zprVH3z)
 
-> Breathe deep, close your eyes, immerse yourself..\. Water and rain sounds mixed with Tibetan meditation bowls and ambient music, to help you find inner balance.
+> Breathe deep, close your eyes, immerse yourself...\. Water and rain sounds mixed with Tibetan meditation bowls and ambient music, to help you find inner balance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,690 likes - 169 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 253,829 likes - 169 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

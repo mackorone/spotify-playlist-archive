@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yPYjSzbGhz.md) - [plain]
 
 > Luister hier naar alle genomineerden voor de Edison Jazz 2025
 
-[Spotify](https://open.spotify.com/user/spotify) - 480 likes - 28 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 481 likes - 28 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

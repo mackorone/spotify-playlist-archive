@@ -1,12 +1,12 @@
 {
   "description": "This is Stevie Nicks. The essential tracks, all in one playlist.",
-  "num_followers": 171891,
+  "num_followers": 171910,
   "original_name": "This Is Stevie Nicks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVHEgAAAAACjvXT+N2VWF2pG20D7D1vx",
+  "snapshot_id": "aVMWAAAAAAAOy4D2nucZv4UvTscQ18BY",
   "tracks": [
     {
       "added_at": null,
@@ -259,22 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Street Angel",
-        "url": "https://open.spotify.com/album/6zfkiTCfpCeQCokEMlpudS"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 263813,
-      "name": "Blue Denim",
-      "url": "https://open.spotify.com/track/1MjyiWINFr2W13nxxqtHQt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "JORDI (Deluxe)",
         "url": "https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 149492,
       "name": "Remedy (feat. Stevie Nicks)",
       "url": "https://open.spotify.com/track/03blI4F6MeYd6kJx26VsJ2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Street Angel",
+        "url": "https://open.spotify.com/album/6zfkiTCfpCeQCokEMlpudS"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 263813,
+      "name": "Blue Denim",
+      "url": "https://open.spotify.com/track/1MjyiWINFr2W13nxxqtHQt"
     },
     {
       "added_at": null,
@@ -519,22 +519,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hard Promises",
-        "url": "https://open.spotify.com/album/5OO8oMupaMhIZhMrEM8ja3"
+        "name": "For What It's Worth",
+        "url": "https://open.spotify.com/album/6oG7IxA60Uvzbki5vExPs9"
       },
       "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        },
         {
           "name": "Stevie Nicks",
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 260972,
-      "name": "Insider",
-      "url": "https://open.spotify.com/track/6I9mM7Q3YXKYSppopUuCQN"
+      "duration_ms": 292040,
+      "name": "For What It's Worth",
+      "url": "https://open.spotify.com/track/06iIwl0TL4cdm7ahip4wGz"
     },
     {
       "added_at": null,
@@ -563,18 +559,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "For What It's Worth",
-        "url": "https://open.spotify.com/album/6oG7IxA60Uvzbki5vExPs9"
+        "name": "Hard Promises",
+        "url": "https://open.spotify.com/album/5OO8oMupaMhIZhMrEM8ja3"
       },
       "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        },
         {
           "name": "Stevie Nicks",
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 292040,
-      "name": "For What It's Worth",
-      "url": "https://open.spotify.com/track/06iIwl0TL4cdm7ahip4wGz"
+      "duration_ms": 260972,
+      "name": "Insider",
+      "url": "https://open.spotify.com/track/6I9mM7Q3YXKYSppopUuCQN"
     },
     {
       "added_at": null,
@@ -859,22 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lighthouse",
-        "url": "https://open.spotify.com/album/5oznbxAohvwRYXwfU3gvx6"
-      },
-      "artists": [
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 291200,
-      "name": "The Lighthouse",
-      "url": "https://open.spotify.com/track/6KzCUv4TwlnFhej36ef5MR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Music From Party of Five",
         "url": "https://open.spotify.com/album/16rXhq1Hnf0568QnzYpHn3"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 336560,
       "name": "Free Fallin'",
       "url": "https://open.spotify.com/track/4CQX5erTD88eY1VzcpR0bm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Lighthouse",
+        "url": "https://open.spotify.com/album/5oznbxAohvwRYXwfU3gvx6"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 291200,
+      "name": "The Lighthouse",
+      "url": "https://open.spotify.com/track/6KzCUv4TwlnFhej36ef5MR"
     },
     {
       "added_at": null,

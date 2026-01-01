@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22B8T3.md) - [plain]
 
 > This is Paulo Londra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,306,917 likes - 49 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,306,867 likes - 49 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22B8T3.md) - [plain]
 | 34 | [Confiado y Tranquilo](https://open.spotify.com/track/1WhVPQsw0m9EpJ4riD20YK) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Confiado y Tranquilo](https://open.spotify.com/album/3HPsVeD6m2hVTcNvKDHV3b) | 3:32 |
 | 35 | [SIN CADENAS](https://open.spotify.com/track/6SKKyjAlI1MwB7kjvte9Li) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [VERSUS](https://open.spotify.com/album/3S9l1Zky8ysxa8dEI1Hy1E) | 2:22 |
 | 36 | [Te Amo \(feat\. Paulo Londra\)](https://open.spotify.com/track/7AyWQEgFHVM5EVQqggX78M) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Ubuntu](https://open.spotify.com/album/0sGGdQF7f03jwgaD9qhtUQ) | 3:21 |
-| 37 | [Posdata:](https://open.spotify.com/track/1dqZaWGQf8CaHNIEi3e0D9) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Posdata:](https://open.spotify.com/album/0oBnKQ2chigdzlJkUuVBYk) | 2:49 |
-| 38 | [No la Puedo Olvidar](https://open.spotify.com/track/0DAAUZcROuFcGSWMyiWnkv) | [Frijo](https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7), [Rodridi](https://open.spotify.com/artist/6ASGA8HXm5wcYHk0dBteDv), [Ciganda](https://open.spotify.com/artist/1B9pHTKwjvGqUNthqJLcfg), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [No la Puedo Olvidar](https://open.spotify.com/album/6jG4udBvQmoHWbDnCPOncZ) | 3:27 |
+| 37 | [No la Puedo Olvidar](https://open.spotify.com/track/0DAAUZcROuFcGSWMyiWnkv) | [Frijo](https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7), [Rodridi](https://open.spotify.com/artist/6ASGA8HXm5wcYHk0dBteDv), [Ciganda](https://open.spotify.com/artist/1B9pHTKwjvGqUNthqJLcfg), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [No la Puedo Olvidar](https://open.spotify.com/album/6jG4udBvQmoHWbDnCPOncZ) | 3:27 |
+| 38 | [Posdata:](https://open.spotify.com/track/1dqZaWGQf8CaHNIEi3e0D9) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Posdata:](https://open.spotify.com/album/0oBnKQ2chigdzlJkUuVBYk) | 2:49 |
 | 39 | [GRACIAS](https://open.spotify.com/track/3Y7eFATOD0kXo5I9NuBj3r) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [VERSUS](https://open.spotify.com/album/3S9l1Zky8ysxa8dEI1Hy1E) | 1:59 |
 | 40 | [Necio \(feat\. LIT killah\)](https://open.spotify.com/track/4Bn4JToBJGy47OEqB4AWtq) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Back To The Game](https://open.spotify.com/album/2SWwDDBZG7UfECbPWQ2t4h) | 3:38 |
 | 41 | [Noche Complicada](https://open.spotify.com/track/4f9vS74fLCma9Tc93iTQbR) | [Frijo](https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Noche Complicada](https://open.spotify.com/album/22QmmZD4By3nzjlvRiQV7Q) | 3:31 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22B8T3.md) - [plain]
 | 48 | [Que Hicimo'](https://open.spotify.com/track/2tklBuZxZEEJMlhrlzc2CB) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Que Hicimo'](https://open.spotify.com/album/4S2JV29tQCqFWWNTxAdNQQ) | 2:45 |
 | 49 | [Luces](https://open.spotify.com/track/77UICuAzXRYuJqdhcy6R3m) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Luces](https://open.spotify.com/album/33y9UsVrEeUltpFdq8aPxZ) | 2:52 |
 
-Snapshot ID: `aVHEgAAAAAC8bBvkbg/n/T7hDoPHxhza`
+Snapshot ID: `aVMWAAAAAADq0tA4/EHzmh+tBfLfR003`

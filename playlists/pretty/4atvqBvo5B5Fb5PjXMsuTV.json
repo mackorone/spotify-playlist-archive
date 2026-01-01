@@ -1,13 +1,29 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 31 Dec 23:04 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 31 Dec 19:05 UTC.",
   "num_followers": 102,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAW2RXvnLzFz8zi4sGKINkk1Cudalbr",
+  "snapshot_id": "AAAW2/6z4xjQXWlXN8bh3bAo1SzcfXsH",
   "tracks": [
+    {
+      "added_at": "2025-12-31 19:05:01",
+      "album": {
+        "name": "If You Want It",
+        "url": "https://open.spotify.com/album/1jc3lBsBsQaYOGRciN3Bv0"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 182587,
+      "name": "If You Want It",
+      "url": "https://open.spotify.com/track/1lBkIZiPtUetgkMcSABu3h"
+    },
     {
       "added_at": "2025-12-30 14:04:40",
       "album": {
@@ -815,22 +831,6 @@
       "duration_ms": 472510,
       "name": "\u9edd\u580a\u306e\u7948\u308a - Anima immortalis est.",
       "url": "https://open.spotify.com/track/2J21nXxsyATLoFcEF6AvwT"
-    },
-    {
-      "added_at": "2025-12-06 04:04:04",
-      "album": {
-        "name": "MARCH",
-        "url": "https://open.spotify.com/album/5D2Bdw5Lwvsfd7RZcTXNAE"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 170666,
-      "name": "MARCH",
-      "url": "https://open.spotify.com/track/7zPqfEr2mvXfDbPYaJhaJd"
     }
   ],
   "unique_name": "New Singles Now",

@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Erivo. The essential tracks, all in one playlist.",
-  "num_followers": 11110,
+  "num_followers": 11126,
   "original_name": "This Is Cynthia Erivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVHEgAAAAAAQ6oRCURn5el9JPNVT7jyC",
+  "snapshot_id": "aVMWAAAAAACT51FSg1LPH9NqN9oTF+39",
   "tracks": [
     {
       "added_at": null,
@@ -739,22 +739,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jesus Christ Superstar: Highlights From the All-Female Studio Cast Recording",
-        "url": "https://open.spotify.com/album/4RAQZufwAK49vB14yaPxlM"
+        "name": "Bad Times At The El Royale (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/61RD050Ag1j9bhnGI1Hc1f"
       },
       "artists": [
-        {
-          "name": "Morgan James & Company",
-          "url": "https://open.spotify.com/artist/4bIxLEnkOgoWdUnIjt7htG"
-        },
         {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 230782,
-      "name": "I Don't Know How to Love Him",
-      "url": "https://open.spotify.com/track/2SnSPeslFWItfBX0CFvUeV"
+      "duration_ms": 167693,
+      "name": "Hold On I'm Coming",
+      "url": "https://open.spotify.com/track/3Saj1U3DNCB8wf5KFiaYto"
     },
     {
       "added_at": null,
@@ -791,6 +787,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jesus Christ Superstar: Highlights From the All-Female Studio Cast Recording",
+        "url": "https://open.spotify.com/album/4RAQZufwAK49vB14yaPxlM"
+      },
+      "artists": [
+        {
+          "name": "Morgan James & Company",
+          "url": "https://open.spotify.com/artist/4bIxLEnkOgoWdUnIjt7htG"
+        },
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 230782,
+      "name": "I Don't Know How to Love Him",
+      "url": "https://open.spotify.com/track/2SnSPeslFWItfBX0CFvUeV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Color Purple (New Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W"
       },
@@ -811,6 +827,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bad Times At The El Royale (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/61RD050Ag1j9bhnGI1Hc1f"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 183973,
+      "name": "This Old Heart Of Mine (Is Weak For You)",
+      "url": "https://open.spotify.com/track/2hbx1CTHTETXS3BFszVQcO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Beyond The Lights (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/76IoyEyJjmgL6vLAK6a6EI"
       },
@@ -823,22 +855,6 @@
       "duration_ms": 183506,
       "name": "Fly Before You Fall",
       "url": "https://open.spotify.com/track/6Ch1e7h3b19r8HnR6HD1MW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bad Times At The El Royale (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/61RD050Ag1j9bhnGI1Hc1f"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 167693,
-      "name": "Hold On I'm Coming",
-      "url": "https://open.spotify.com/track/3Saj1U3DNCB8wf5KFiaYto"
     },
     {
       "added_at": null,
@@ -895,22 +911,6 @@
       "duration_ms": 254293,
       "name": "We'll Meet Again",
       "url": "https://open.spotify.com/track/5ptXBoHYyiJ2NOgCLb02wP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bad Times At The El Royale (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/61RD050Ag1j9bhnGI1Hc1f"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 183973,
-      "name": "This Old Heart Of Mine (Is Weak For You)",
-      "url": "https://open.spotify.com/track/2hbx1CTHTETXS3BFszVQcO"
     },
     {
       "added_at": null,

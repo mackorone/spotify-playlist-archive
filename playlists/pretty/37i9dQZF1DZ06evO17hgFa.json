@@ -1,12 +1,12 @@
 {
   "description": "This is Billie Holiday. The essential tracks, all in one playlist.",
-  "num_followers": 147759,
+  "num_followers": 147777,
   "original_name": "This Is Billie Holiday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVHEgAAAAAASzKywBcSD3m/6dIPwVPop",
+  "snapshot_id": "aVMWAAAAAAB7qONRVI0DLMpfXQVM5LKe",
   "tracks": [
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Billie Holiday Love Songs",
-        "url": "https://open.spotify.com/album/3MXpFQDq1cTE4WfGZDAsY4"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 181333,
-      "name": "Easy Living",
-      "url": "https://open.spotify.com/track/0XsbCr34semDxq0ZX84BCh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Solitude",
         "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 179546,
       "name": "Easy To Love",
       "url": "https://open.spotify.com/track/5FVAdaE6kYzs49jpQviM05"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Billie Holiday Love Songs",
+        "url": "https://open.spotify.com/album/3MXpFQDq1cTE4WfGZDAsY4"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 181333,
+      "name": "Easy Living",
+      "url": "https://open.spotify.com/track/0XsbCr34semDxq0ZX84BCh"
     },
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Music For Torching",
-        "url": "https://open.spotify.com/album/127Jwx8NAD3DPnLDDucazY"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 243440,
-      "name": "It Had To Be You",
-      "url": "https://open.spotify.com/track/1l3tnchl5noYMXhMjjTvhf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Solitude",
         "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 199186,
       "name": "Tenderly",
       "url": "https://open.spotify.com/track/4dUDfXcIhBWs1ybDWzyCd8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Music For Torching",
+        "url": "https://open.spotify.com/album/127Jwx8NAD3DPnLDDucazY"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 243440,
+      "name": "It Had To Be You",
+      "url": "https://open.spotify.com/track/1l3tnchl5noYMXhMjjTvhf"
     },
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Body and Soul",
-        "url": "https://open.spotify.com/album/3aJNsCTs6AlnGcLs2b6Rc3"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 378400,
-      "name": "Body And Soul",
-      "url": "https://open.spotify.com/track/7c7yHHFdYkqBzS1DG3UIFq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Solitude",
         "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 173920,
       "name": "I Only Have Eyes For You",
       "url": "https://open.spotify.com/track/6Y8QG1S14e2o0Tx0rppi0V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Body and Soul",
+        "url": "https://open.spotify.com/album/3aJNsCTs6AlnGcLs2b6Rc3"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 378400,
+      "name": "Body And Soul",
+      "url": "https://open.spotify.com/track/7c7yHHFdYkqBzS1DG3UIFq"
     },
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lady Sings The Blues",
-        "url": "https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 183066,
-      "name": "I Must Have That Man!",
-      "url": "https://open.spotify.com/track/00V6rYQ0nyE5KOLDMAlloC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Solitude",
         "url": "https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 206760,
       "name": "You Turned The Tables On Me",
       "url": "https://open.spotify.com/track/1Aa2phci2wSI0PWyoESUJA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lady Sings The Blues",
+        "url": "https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 183066,
+      "name": "I Must Have That Man!",
+      "url": "https://open.spotify.com/track/00V6rYQ0nyE5KOLDMAlloC"
     },
     {
       "added_at": null,
@@ -591,38 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lady Sings The Blues",
-        "url": "https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 132160,
-      "name": "Too Marvelous For Words",
-      "url": "https://open.spotify.com/track/2XOXYNVmg0Mpm6WlLC0LHx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Billie Holiday's Greatest Hits",
-        "url": "https://open.spotify.com/album/6CqXthOJBMMmagymEEa8pl"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 150093,
-      "name": "Big Stuff",
-      "url": "https://open.spotify.com/track/0J2KKCswz5LCx9vpdhcVSF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Musical Romance",
         "url": "https://open.spotify.com/album/4WmDWM4jSLl3EcJ716V1cu"
       },
@@ -639,6 +607,22 @@
       "duration_ms": 187560,
       "name": "This Year's Kisses (with Teddy Wilson & His Orchestra)",
       "url": "https://open.spotify.com/track/5g0MM8pdWqW1tSjvPwyigh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lady Sings The Blues",
+        "url": "https://open.spotify.com/album/4Es5UWdUtj8CYn99AqCWPo"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 132160,
+      "name": "Too Marvelous For Words",
+      "url": "https://open.spotify.com/track/2XOXYNVmg0Mpm6WlLC0LHx"
     },
     {
       "added_at": null,
@@ -679,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "An Evening With Billie Holiday",
-        "url": "https://open.spotify.com/album/2mvImLm7gwMWXS83pxYU73"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 190480,
-      "name": "He's Funny That Way",
-      "url": "https://open.spotify.com/track/3jG6okC06hzdqzIRcEzs7H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Musical Romance",
         "url": "https://open.spotify.com/album/4WmDWM4jSLl3EcJ716V1cu"
       },
@@ -711,6 +679,38 @@
       "duration_ms": 169466,
       "name": "When You're Smiling (The Whole World Smiles with You) (with Teddy Wilson & His Orchestra) - Take 3",
       "url": "https://open.spotify.com/track/61rbcfCY9ldEZYGCzpvfSt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Billie Holiday's Greatest Hits",
+        "url": "https://open.spotify.com/album/6CqXthOJBMMmagymEEa8pl"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 150093,
+      "name": "Big Stuff",
+      "url": "https://open.spotify.com/track/0J2KKCswz5LCx9vpdhcVSF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "An Evening With Billie Holiday",
+        "url": "https://open.spotify.com/album/2mvImLm7gwMWXS83pxYU73"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 190480,
+      "name": "He's Funny That Way",
+      "url": "https://open.spotify.com/track/3jG6okC06hzdqzIRcEzs7H"
     },
     {
       "added_at": null,

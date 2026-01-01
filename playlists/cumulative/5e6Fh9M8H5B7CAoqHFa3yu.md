@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-1,700 songs - 4 day 6 hr 59 min
+1,701 songs - 4 day 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -571,6 +571,7 @@
 | [Goodbye Love](https://open.spotify.com/track/5iSPBKBJhRbhm4mvCvcGIT) | [Shane Tutmarc](https://open.spotify.com/artist/5HqeKeRTxCHQtcQeUUBBac) | [Borrowed Trouble](https://open.spotify.com/album/3ZniMuIdI6cbuSFJyC4jHe) | 3:43 | 2025-07-02 |  |
 | [Goodnight Song](https://open.spotify.com/track/4rtDCyA3TtkAZNEQ8RmT1X) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Goodnight Song](https://open.spotify.com/album/4wd1FGFihVt0lXoJy3104f) | 3:21 | 2025-11-07 |  |
 | [Gorger Ina Jungle](https://open.spotify.com/track/1eY6Y477b6uPdYEuhlT39t) | [Koncrete Roots](https://open.spotify.com/artist/5PVj6zqgjfOIEODqBeJotL) | [Rudies in Dub](https://open.spotify.com/album/7ze5gyhJz9SwWKeB3m8JjK) | 6:00 | 2024-03-25 |  |
+| [Grape Vines](https://open.spotify.com/track/48jkYOrR3hxMfzmAHje3iD) | [Krosst Out](https://open.spotify.com/artist/5SLzIGQL3GubJ4ri5PFGqM) | [Grape Vines](https://open.spotify.com/album/1Uljy3P4atifyuDcshyVlA) | 3:55 | 2025-12-31 |  |
 | [Gray Sofa](https://open.spotify.com/track/097JySBBDBX8htfGCOA8vt) | [Shenna](https://open.spotify.com/artist/33yC6eUVU50T46oKGq6WUM) | [Gray Sofa](https://open.spotify.com/album/4Boy6ZvqR1NFVQygo8wgmV) | 3:37 | 2025-07-09 |  |
 | [Groov3](https://open.spotify.com/track/7lQtoryksWBbkKKFXOBAwA) | [S4HIB](https://open.spotify.com/artist/1WAijlfiS2rmiMlOOLboWY) | [Groov3](https://open.spotify.com/album/161AT2uRbc9fyksvJURxzZ) | 6:46 | 2025-03-30 |  |
 | [Grooveria](https://open.spotify.com/track/3MEMsDq9PQqmUHqGv4itqm) | [DJ Zonattão](https://open.spotify.com/artist/1wWANVAA56sHvzBLKFpnyS) | [Dj Zonattão & Liquid Souza Band](https://open.spotify.com/album/7E9a09zDefBbgF5WFVnHKq) | 2:20 | 2025-06-16 |  |
@@ -780,7 +781,7 @@
 | [Jumping Jack \(HIIT 30\-10\)](https://open.spotify.com/track/5IduPfsFyeiWbgcjOk6udP) | [THE TRAINER](https://open.spotify.com/artist/4B1n4QNr8vjhUnTgERok66) | [JUMPING HIIT](https://open.spotify.com/album/2Nafl7nCnwqeY7R8bc8SKD) | 1:24 | 2024-03-08 |  |
 | [Just Another Day](https://open.spotify.com/track/6cqJPYDQ0nB8t0sTtZtbU0) | [Soul Fire](https://open.spotify.com/artist/7pqC9YBhVcQk75OWWkuLjc) | [Wake Up Your Lion](https://open.spotify.com/album/14G1h8BQAZu5Dfa6T7UKNl) | 4:31 | 2024-05-01 |  |
 | [just hit a jugg](https://open.spotify.com/track/59rUAYNrN9PUVhs3YTRctV) | [Oxdead](https://open.spotify.com/artist/5d7wjK3C2HChu5FT0UwtTv) | [just hit a jugg](https://open.spotify.com/album/7l4KjCqSzWOItEDJF5FKXT) | 1:36 | 2025-10-21 |  |
-| [Just take it like a man \(prod\. rutherford\)](https://open.spotify.com/track/1nlL8h5SlpHQRc7zDWgE7R) | [ski mask BIG daddy](https://open.spotify.com/artist/63AMuOyMwnLVlOWMskZ6B5) | [Just take it like a man \(prod\. rutherford\)](https://open.spotify.com/album/0nN0VqilWsN1XwMbNz8WmK) | 2:56 | 2025-12-05 |  |
+| [Just take it like a man \(prod\. rutherford\)](https://open.spotify.com/track/1nlL8h5SlpHQRc7zDWgE7R) | [IlostmyTime](https://open.spotify.com/artist/2bGSCoX6Q2o1TPU7PiQVIW) | [Just take it like a man \(prod\. rutherford\)](https://open.spotify.com/album/0nN0VqilWsN1XwMbNz8WmK) | 2:56 | 2025-12-05 |  |
 | [Just the Thing](https://open.spotify.com/track/0TnbWHg68Z0fLDl4HYV31r) | [Meredith O'Connor](https://open.spotify.com/artist/0uA6tV1ERg5cIWTEIp2gfF) | [I Am](https://open.spotify.com/album/0k77QzqX1NJf5B8anY0Uif) | 2:43 | 2025-05-02 |  |
 | [Just the Way You Are](https://open.spotify.com/track/4OFDrbVd4DghiROQDaUOEo) | [Shaunie Littlehawk](https://open.spotify.com/artist/57gkrsc5LCKSx5HhayMdRS) | [Just the Way You Are](https://open.spotify.com/album/5R6L1PsDpq7aQyjCjSIiDl) | 3:36 | 2025-08-27 |  |
 | [Kann es sein](https://open.spotify.com/track/2qalkc1bt00V1tJQEqPIqr) | [Sophie Elora](https://open.spotify.com/artist/0Usozu4rpNTwvf5hmNZjEH) | [Kann es sein](https://open.spotify.com/album/2Z7cggJZERFnOp1h9alMH3) | 4:37 | 2025-06-11 |  |

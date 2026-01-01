@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 
 > Descubre los nuevos álbumes de música mexicana del 2025\. Hit shuffle for a mixed listening experience\. Cover: Jenni Rivera
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,052 likes - 239 songs - 12 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,055 likes - 239 songs - 12 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

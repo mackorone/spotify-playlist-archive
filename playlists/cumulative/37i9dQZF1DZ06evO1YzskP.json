@@ -465,6 +465,24 @@
     },
     {
       "album": {
+        "name": "REGRESA",
+        "url": "https://open.spotify.com/album/3G0KlYGP9XSLGIX63NT2xr"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171496,
+      "name": "Cinderella",
+      "url": "https://open.spotify.com/track/3SpbonaOM44AL73NMzXC48"
+    },
+    {
+      "album": {
         "name": "Corridos Pa Mis Compas Y Rolitas Pa Mi Ex",
         "url": "https://open.spotify.com/album/24VJ6GN4qzkMVqwNif5HeU"
       },
@@ -516,7 +534,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-01",
       "duration_ms": 144514,
       "name": "Cuando Alguien Me Amaba",
       "url": "https://open.spotify.com/track/5gmL61qk3Y3oAc7lswe70j"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIO2QWRavWZ.md) - [plain]
 
 > New music from your favorite women\.  Cover: Qui
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,483 likes - 127 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,489 likes - 127 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

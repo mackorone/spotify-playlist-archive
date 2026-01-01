@@ -1,12 +1,12 @@
 {
   "description": "playlist spotify free",
-  "num_followers": 261,
+  "num_followers": 260,
   "original_name": "playlist spotify free",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAGf8aGapQKV0EuLU6vC5ELJRjuThzI",
+  "snapshot_id": "AAAGgeRQ+lln/U3uDtgWUMF6HM3vnJyx",
   "tracks": [
     {
       "added_at": "2025-12-26 21:41:48",
@@ -62447,6 +62447,38 @@
       "duration_ms": 246224,
       "name": "December Fields (Distribution)",
       "url": "https://open.spotify.com/track/4bddpe4brO09lyHpE7lb9N"
+    },
+    {
+      "added_at": "2025-12-31 09:44:02",
+      "album": {
+        "name": "Kick In The Teeth",
+        "url": "https://open.spotify.com/album/0qteBQwyHGA0xex6lcnZQe"
+      },
+      "artists": [
+        {
+          "name": "Hexe",
+          "url": "https://open.spotify.com/artist/3WZaW8fkkvGju9kFx4FeoN"
+        }
+      ],
+      "duration_ms": 219356,
+      "name": "Kick In The Teeth",
+      "url": "https://open.spotify.com/track/1a9VSlfqljmvA6eS8o8nIl"
+    },
+    {
+      "added_at": "2025-12-31 10:28:11",
+      "album": {
+        "name": "Alive And Well",
+        "url": "https://open.spotify.com/album/40eg7z9ewjLTVTusesgx9V"
+      },
+      "artists": [
+        {
+          "name": "Punch 11",
+          "url": "https://open.spotify.com/artist/1LuxznMngBLfxBab8QSvI0"
+        }
+      ],
+      "duration_ms": 195604,
+      "name": "Button",
+      "url": "https://open.spotify.com/track/5cSbMYYSuPvQIs4TwqbuXO"
     }
   ],
   "unique_name": "playlist spotify free",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Banda Mix & Eugenia Quevedo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 796,720 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 797,520 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 83 | [Son De Amores](https://open.spotify.com/track/5C7TEWAPPjqb99qGSsMiN4) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M), [Jean Carlos](https://open.spotify.com/artist/3zkbEQouXdzjcD4cxoFuO9) | [Son De Amores](https://open.spotify.com/album/6B40uzVRSU2ms7KUuLJGdd) | 3:01 |
 | 84 | [Maldito Coche Negro](https://open.spotify.com/track/3DVEkLep87N6TM6GffOwa8) | [El Turco Oliva](https://open.spotify.com/artist/0l3lrsagH8oE0CAkXdyNMI) | [Con Piel de Cuarteto](https://open.spotify.com/album/7wOjCagE0rrTQVMfvKcNbh) | 3:56 |
 | 85 | [La Última Granada \(DQV Premium\)](https://open.spotify.com/track/3mdl2dTJkVWeG37hIAKk79) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [La Última Granada \(DQV Premium\)](https://open.spotify.com/album/2PTYqJOYNKgkTdVlYyvmV1) | 3:02 |
-| 86 | [Cobarde](https://open.spotify.com/track/0aNn6bnLdDCRi4sTRjWED2) | [La Fiesta](https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb) | [Ta' Buenisimo](https://open.spotify.com/album/1ZsNkb9y9uyv6Ky9WcwY4g) | 3:55 |
-| 87 | [Baby Nueva](https://open.spotify.com/track/4YTEBvMH7uuUhwcRpiLNVW) | [DesaKTa2](https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0) | [Baby Nueva](https://open.spotify.com/album/2PIFBB0XSEQnP5k3Cg97JB) | 2:47 |
+| 86 | [Baby Nueva](https://open.spotify.com/track/4YTEBvMH7uuUhwcRpiLNVW) | [DesaKTa2](https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0) | [Baby Nueva](https://open.spotify.com/album/2PIFBB0XSEQnP5k3Cg97JB) | 2:47 |
+| 87 | [Cobarde](https://open.spotify.com/track/0aNn6bnLdDCRi4sTRjWED2) | [La Fiesta](https://open.spotify.com/artist/5WJWxdQGsrF1G1iX0ixLfb) | [Ta' Buenisimo](https://open.spotify.com/album/1ZsNkb9y9uyv6Ky9WcwY4g) | 3:55 |
 | 88 | [Que vamos a hacer](https://open.spotify.com/track/0RoDskw52POnJ1fobpMCXU) | [Luz Paisio](https://open.spotify.com/artist/3RBOf9VqNrYHqaUbUuLG6C), [Valen](https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz) | [Que vamos a hacer](https://open.spotify.com/album/0l96oWIf9OqaJI7EhsEoRR) | 2:56 |
 | 89 | [Un Millón de Rosas](https://open.spotify.com/track/20lAf42k0iA7Ij5y4gQzZE) | [La Barra](https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14) | [En El Gran Rex](https://open.spotify.com/album/3DVFJUJGvxtgJ6GEP46npF) | 3:14 |
 | 90 | [Usted Se Me Llevo la Vida](https://open.spotify.com/track/3ajlYGiNWnpEEybhpylwrz) | [Banda Registrada](https://open.spotify.com/artist/5b8ySdgbXw0H8TPKUse1QA) | [Ni Lo Pienses](https://open.spotify.com/album/2sgpaLhrBRMD7k404Hcz3Y) | 4:14 |
@@ -102,10 +102,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 92 | [Esto se Acabó](https://open.spotify.com/track/35nkugOAny7dEuL3b3bNOf) | [DesaKTa2](https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0), [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [Esto Se Acabó](https://open.spotify.com/album/1usW30QraosvadgKpteABF) | 3:19 |
 | 93 | [Cuando Estoy Junto a Ti](https://open.spotify.com/track/66uRavAmTHBiGOucX32nTO) | [Valentina Marquez](https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC) | [Cuando Estoy Junto a Ti](https://open.spotify.com/album/28lhtgaVirHcGg8TqJX9MB) | 2:43 |
 | 94 | [Hola](https://open.spotify.com/track/3YHUkhWVlM0KhBEYLXqyFj) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W), [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Hola](https://open.spotify.com/album/380P3ZSSNeJgQ3AeyOE5dz) | 2:38 |
-| 95 | [Princesa \- En Vivo](https://open.spotify.com/track/2FRmkWHwyENNhzCbjXFIat) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6) | [Princesa \(En Vivo\)](https://open.spotify.com/album/32dDv3ZdYFfVTfeSbcqoPm) | 2:50 |
-| 96 | [Hasta Que Me Olvides](https://open.spotify.com/track/4MtuoIRFMZeKOeVGxDUR8O) | [El Vecino](https://open.spotify.com/artist/5BAshsAHEexc7z1Zso0LZt) | [Hasta Que Me Olvides](https://open.spotify.com/album/42Krexxg6tMxOepX9Dnoej) | 3:38 |
-| 97 | [Confesión](https://open.spotify.com/track/0OGoyUj8cRX6hP0iItmNmN) | [El Loco Amato](https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p) | [Confesión](https://open.spotify.com/album/0nSpGWF4jK7RXdHcNZiCjr) | 3:21 |
-| 98 | [El No Va a Venir](https://open.spotify.com/track/4OtSrkolF9M9W31RZuIi8u) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [El No Va a Venir](https://open.spotify.com/album/48HiiidVYDzICtnx1qbV8r) | 2:15 |
+| 95 | [Hasta Que Me Olvides](https://open.spotify.com/track/4MtuoIRFMZeKOeVGxDUR8O) | [El Vecino](https://open.spotify.com/artist/5BAshsAHEexc7z1Zso0LZt) | [Hasta Que Me Olvides](https://open.spotify.com/album/42Krexxg6tMxOepX9Dnoej) | 3:38 |
+| 96 | [Princesa \- En Vivo](https://open.spotify.com/track/2FRmkWHwyENNhzCbjXFIat) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6) | [Princesa \(En Vivo\)](https://open.spotify.com/album/32dDv3ZdYFfVTfeSbcqoPm) | 2:50 |
+| 97 | [El No Va a Venir](https://open.spotify.com/track/4OtSrkolF9M9W31RZuIi8u) | [Banda Mix](https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv) | [El No Va a Venir](https://open.spotify.com/album/48HiiidVYDzICtnx1qbV8r) | 2:15 |
+| 98 | [Confesión](https://open.spotify.com/track/0OGoyUj8cRX6hP0iItmNmN) | [El Loco Amato](https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p) | [Confesión](https://open.spotify.com/album/0nSpGWF4jK7RXdHcNZiCjr) | 3:21 |
 | 99 | [No Se Vivir Si No Es Contigo](https://open.spotify.com/track/52OkqHPokUjEpqRrYF0Gjn) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H), [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [No Se Vivir Si No Es Contigo](https://open.spotify.com/album/6LN0Uptc8N4aFljACWxkDx) | 3:22 |
 | 100 | [Corazón Partío \- En Vivo](https://open.spotify.com/track/1og22H4fikIPnS3wu92Gzr) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [Corazón Partío \(En Vivo\)](https://open.spotify.com/album/6SquTKyvOuQuFxF2M3MZ0C) | 3:01 |
 

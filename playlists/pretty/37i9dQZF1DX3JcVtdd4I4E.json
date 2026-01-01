@@ -1,6 +1,6 @@
 {
   "description": "Welcome to the Nordic queendom. ",
-  "num_followers": 7796,
+  "num_followers": 7799,
   "original_name": "GRL PWR",
   "owner": {
     "name": "Spotify",
@@ -479,6 +479,22 @@
     {
       "added_at": "2025-05-06 11:46:39",
       "album": {
+        "name": "Marameo",
+        "url": "https://open.spotify.com/album/0sd73d4ExGo3LUahL0qsw7"
+      },
+      "artists": [
+        {
+          "name": "Alessandra",
+          "url": "https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Marameo",
+      "url": "https://open.spotify.com/track/29uL3fef86r156Qsy00WeY"
+    },
+    {
+      "added_at": "2025-05-06 11:46:39",
+      "album": {
         "name": "Pornography",
         "url": "https://open.spotify.com/album/5bUZab9H9HH4z0RBwaRWuK"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 226666,
       "name": "Pornography",
       "url": "https://open.spotify.com/track/3WYYCy17XlR8BXpwdU2Qd8"
-    },
-    {
-      "added_at": "2025-05-06 11:46:39",
-      "album": {
-        "name": "Marameo",
-        "url": "https://open.spotify.com/album/0sd73d4ExGo3LUahL0qsw7"
-      },
-      "artists": [
-        {
-          "name": "Alessandra",
-          "url": "https://open.spotify.com/artist/35HMF6Y8dSzNfeJs3X65fw"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Marameo",
-      "url": "https://open.spotify.com/track/29uL3fef86r156Qsy00WeY"
     },
     {
       "added_at": "2025-05-06 11:46:39",
@@ -583,22 +583,6 @@
     {
       "added_at": "2025-05-06 11:46:39",
       "album": {
-        "name": "Never Give Up",
-        "url": "https://open.spotify.com/album/13g0On9hQnYAQsVslilDhP"
-      },
-      "artists": [
-        {
-          "name": "Maria Sur",
-          "url": "https://open.spotify.com/artist/7eoVDCrNq6NirTBRrgSoNA"
-        }
-      ],
-      "duration_ms": 179893,
-      "name": "Never Give Up",
-      "url": "https://open.spotify.com/track/3Xov23KN1ztHZrLBnhFSc4"
-    },
-    {
-      "added_at": "2025-05-06 11:46:39",
-      "album": {
         "name": "Beautiful Woman",
         "url": "https://open.spotify.com/album/6XH2lCmGJBs3yCUSglARXW"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 189034,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/0nrBYMziJMKR7u3ylc1iSE"
+    },
+    {
+      "added_at": "2025-05-06 11:46:39",
+      "album": {
+        "name": "Never Give Up",
+        "url": "https://open.spotify.com/album/13g0On9hQnYAQsVslilDhP"
+      },
+      "artists": [
+        {
+          "name": "Maria Sur",
+          "url": "https://open.spotify.com/artist/7eoVDCrNq6NirTBRrgSoNA"
+        }
+      ],
+      "duration_ms": 179893,
+      "name": "Never Give Up",
+      "url": "https://open.spotify.com/track/3Xov23KN1ztHZrLBnhFSc4"
     },
     {
       "added_at": "2025-05-06 11:46:39",
@@ -631,22 +631,6 @@
     {
       "added_at": "2025-05-06 11:46:39",
       "album": {
-        "name": "Fight Like A Girl",
-        "url": "https://open.spotify.com/album/2HblPY60rDzBDoL2T5Gw5e"
-      },
-      "artists": [
-        {
-          "name": "Molly Hammar",
-          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
-        }
-      ],
-      "duration_ms": 212553,
-      "name": "Fight Like A Girl",
-      "url": "https://open.spotify.com/track/75NdnAn8d1YrjFwcWRoBM6"
-    },
-    {
-      "added_at": "2025-05-06 11:46:39",
-      "album": {
         "name": "Silver Heart",
         "url": "https://open.spotify.com/album/6lrh5oMgt7bWxPo9oyDZd3"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 229079,
       "name": "Silver Heart",
       "url": "https://open.spotify.com/track/3VRl0Gv158qthcg30K3Hdy"
+    },
+    {
+      "added_at": "2025-05-06 11:46:39",
+      "album": {
+        "name": "Fight Like A Girl",
+        "url": "https://open.spotify.com/album/2HblPY60rDzBDoL2T5Gw5e"
+      },
+      "artists": [
+        {
+          "name": "Molly Hammar",
+          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
+        }
+      ],
+      "duration_ms": 212553,
+      "name": "Fight Like A Girl",
+      "url": "https://open.spotify.com/track/75NdnAn8d1YrjFwcWRoBM6"
     },
     {
       "added_at": "2025-05-06 11:46:39",
@@ -883,18 +883,18 @@
     {
       "added_at": "2025-05-06 11:46:39",
       "album": {
-        "name": "Habits (Stay High) - Spotify Singles",
-        "url": "https://open.spotify.com/album/0M0MROPnqYuHEK5R16YCxk"
+        "name": "Psycho",
+        "url": "https://open.spotify.com/album/17TD5aiZAItTy2ToJofnDp"
       },
       "artists": [
         {
-          "name": "Yaeger",
-          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
+          "name": "Namelle",
+          "url": "https://open.spotify.com/artist/3ptQC4nwq1SuOFiSOSBLj3"
         }
       ],
-      "duration_ms": 211153,
-      "name": "Habits (Stay High) - Spotify Singles",
-      "url": "https://open.spotify.com/track/3NsqsLwmAxIhduuV9gK7SH"
+      "duration_ms": 162389,
+      "name": "Psycho",
+      "url": "https://open.spotify.com/track/7kw7fwv5oOs1jKnx8FfwMU"
     },
     {
       "added_at": "2025-05-06 11:46:39",
@@ -915,18 +915,18 @@
     {
       "added_at": "2025-05-06 11:46:39",
       "album": {
-        "name": "Psycho",
-        "url": "https://open.spotify.com/album/17TD5aiZAItTy2ToJofnDp"
+        "name": "Habits (Stay High) - Spotify Singles",
+        "url": "https://open.spotify.com/album/0M0MROPnqYuHEK5R16YCxk"
       },
       "artists": [
         {
-          "name": "Namelle",
-          "url": "https://open.spotify.com/artist/3ptQC4nwq1SuOFiSOSBLj3"
+          "name": "Yaeger",
+          "url": "https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X"
         }
       ],
-      "duration_ms": 162389,
-      "name": "Psycho",
-      "url": "https://open.spotify.com/track/7kw7fwv5oOs1jKnx8FfwMU"
+      "duration_ms": 211153,
+      "name": "Habits (Stay High) - Spotify Singles",
+      "url": "https://open.spotify.com/track/3NsqsLwmAxIhduuV9gK7SH"
     },
     {
       "added_at": "2025-05-06 11:46:39",
@@ -995,22 +995,6 @@
     {
       "added_at": "2025-05-06 11:46:39",
       "album": {
-        "name": "Growing Pains",
-        "url": "https://open.spotify.com/album/3EkMaLkTVimNeSiA98E1zk"
-      },
-      "artists": [
-        {
-          "name": "Clara Mae",
-          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
-        }
-      ],
-      "duration_ms": 188601,
-      "name": "Growing Pains",
-      "url": "https://open.spotify.com/track/7B2MTQj1JrSNRi6oQoAF4O"
-    },
-    {
-      "added_at": "2025-05-06 11:46:39",
-      "album": {
         "name": "I Hate San Francisco",
         "url": "https://open.spotify.com/album/6pF4utdDeVRkUmHyny2C36"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 193093,
       "name": "I Hate San Francisco",
       "url": "https://open.spotify.com/track/604ZOG5yxHW5tqxUIFzIJ0"
+    },
+    {
+      "added_at": "2025-05-06 11:46:39",
+      "album": {
+        "name": "Growing Pains",
+        "url": "https://open.spotify.com/album/3EkMaLkTVimNeSiA98E1zk"
+      },
+      "artists": [
+        {
+          "name": "Clara Mae",
+          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
+        }
+      ],
+      "duration_ms": 188601,
+      "name": "Growing Pains",
+      "url": "https://open.spotify.com/track/7B2MTQj1JrSNRi6oQoAF4O"
     },
     {
       "added_at": "2025-05-06 11:46:39",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2025-05-06 11:46:39",
       "album": {
-        "name": "HURT PEOPLE",
-        "url": "https://open.spotify.com/album/5Ui2vqU9Ta35ZeiM8kjoNY"
+        "name": "top G",
+        "url": "https://open.spotify.com/album/1JVcFthjmAi4KByDMFd1O5"
       },
       "artists": [
         {
-          "name": "Emma Steinbakken",
-          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
+          "name": "LUJAIN",
+          "url": "https://open.spotify.com/artist/6gkdUNajvm1NZbynggJN1G"
         }
       ],
-      "duration_ms": 163218,
-      "name": "HURT PEOPLE",
-      "url": "https://open.spotify.com/track/2cr6TL0vLgqJCcgD0hWIbl"
+      "duration_ms": 135227,
+      "name": "top G",
+      "url": "https://open.spotify.com/track/6ZJ02ejciOqe5AP6mkkK3b"
     },
     {
       "added_at": "2025-05-06 11:46:39",
@@ -1223,34 +1223,18 @@
     {
       "added_at": "2025-05-06 11:46:39",
       "album": {
-        "name": "top G",
-        "url": "https://open.spotify.com/album/1JVcFthjmAi4KByDMFd1O5"
+        "name": "HURT PEOPLE",
+        "url": "https://open.spotify.com/album/5Ui2vqU9Ta35ZeiM8kjoNY"
       },
       "artists": [
         {
-          "name": "LUJAIN",
-          "url": "https://open.spotify.com/artist/6gkdUNajvm1NZbynggJN1G"
+          "name": "Emma Steinbakken",
+          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
         }
       ],
-      "duration_ms": 135227,
-      "name": "top G",
-      "url": "https://open.spotify.com/track/6ZJ02ejciOqe5AP6mkkK3b"
-    },
-    {
-      "added_at": "2025-05-06 11:46:39",
-      "album": {
-        "name": "Sunwarmed",
-        "url": "https://open.spotify.com/album/59VwIN9sQruODzORauynKX"
-      },
-      "artists": [
-        {
-          "name": "Matilda Lyn",
-          "url": "https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0"
-        }
-      ],
-      "duration_ms": 178417,
-      "name": "Sunwarmed",
-      "url": "https://open.spotify.com/track/2NN9upqz79D5uLDoiaPOx4"
+      "duration_ms": 163218,
+      "name": "HURT PEOPLE",
+      "url": "https://open.spotify.com/track/2cr6TL0vLgqJCcgD0hWIbl"
     },
     {
       "added_at": "2025-05-06 11:46:39",
@@ -1271,6 +1255,22 @@
     {
       "added_at": "2025-05-06 11:46:39",
       "album": {
+        "name": "Sunwarmed",
+        "url": "https://open.spotify.com/album/59VwIN9sQruODzORauynKX"
+      },
+      "artists": [
+        {
+          "name": "Matilda Lyn",
+          "url": "https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0"
+        }
+      ],
+      "duration_ms": 178417,
+      "name": "Sunwarmed",
+      "url": "https://open.spotify.com/track/2NN9upqz79D5uLDoiaPOx4"
+    },
+    {
+      "added_at": "2025-05-06 11:46:39",
+      "album": {
         "name": "Live a Little Die a Lot",
         "url": "https://open.spotify.com/album/777Seg8Mc1blsN0SwnWu9l"
       },
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2025-05-06 11:46:39",
       "album": {
-        "name": "Drip",
-        "url": "https://open.spotify.com/album/3tdrJYHelQjyttVmulOG8R"
-      },
-      "artists": [
-        {
-          "name": "Tamara Mneney",
-          "url": "https://open.spotify.com/artist/2UfHLDuOKojtDAWIvnK0yV"
-        }
-      ],
-      "duration_ms": 230276,
-      "name": "Drip",
-      "url": "https://open.spotify.com/track/1MtWF5FUDx8cZZIDUo7fbw"
-    },
-    {
-      "added_at": "2025-05-06 11:46:39",
-      "album": {
         "name": "Catharsis",
         "url": "https://open.spotify.com/album/66gqu98OyVLm1yrfDKtdOm"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 142400,
       "name": "Nothing's Really Over, Not With Anyone",
       "url": "https://open.spotify.com/track/58FryVfE2TK3vRu64yWkBY"
+    },
+    {
+      "added_at": "2025-05-06 11:46:39",
+      "album": {
+        "name": "Drip",
+        "url": "https://open.spotify.com/album/3tdrJYHelQjyttVmulOG8R"
+      },
+      "artists": [
+        {
+          "name": "Tamara Mneney",
+          "url": "https://open.spotify.com/artist/2UfHLDuOKojtDAWIvnK0yV"
+        }
+      ],
+      "duration_ms": 230276,
+      "name": "Drip",
+      "url": "https://open.spotify.com/track/1MtWF5FUDx8cZZIDUo7fbw"
     },
     {
       "added_at": "2025-05-06 11:46:39",

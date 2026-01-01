@@ -1,6 +1,6 @@
 {
   "description": "wru? OTW!. Cover: Ernie Zakri, Andi Rianto",
-  "num_followers": 26908,
+  "num_followers": 26915,
   "original_name": "OTW",
   "owner": {
     "name": "Spotify",
@@ -219,6 +219,22 @@
     {
       "added_at": "2025-11-21 07:57:13",
       "album": {
+        "name": "Bunga Maaf",
+        "url": "https://open.spotify.com/album/0N2jwsM6nf29RFOJBhizg0"
+      },
+      "artists": [
+        {
+          "name": "The Lantis",
+          "url": "https://open.spotify.com/artist/1REvGGP2H7cFLGZgK2sStO"
+        }
+      ],
+      "duration_ms": 252349,
+      "name": "Bunga Maaf",
+      "url": "https://open.spotify.com/track/26KhLgFuPymkm1uiZkc6Rv"
+    },
+    {
+      "added_at": "2025-11-21 07:57:13",
+      "album": {
         "name": "mejikuhibiniu",
         "url": "https://open.spotify.com/album/1DZHkeHPjLkuclwTVtjIOK"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 196477,
       "name": "mejikuhibiniu",
       "url": "https://open.spotify.com/track/278PwGlIm7MxVTZud18Rx4"
-    },
-    {
-      "added_at": "2025-11-21 07:57:13",
-      "album": {
-        "name": "Bunga Maaf",
-        "url": "https://open.spotify.com/album/0N2jwsM6nf29RFOJBhizg0"
-      },
-      "artists": [
-        {
-          "name": "The Lantis",
-          "url": "https://open.spotify.com/artist/1REvGGP2H7cFLGZgK2sStO"
-        }
-      ],
-      "duration_ms": 252349,
-      "name": "Bunga Maaf",
-      "url": "https://open.spotify.com/track/26KhLgFuPymkm1uiZkc6Rv"
     },
     {
       "added_at": "2025-11-21 07:57:13",
@@ -887,18 +887,22 @@
     {
       "added_at": "2025-11-21 07:57:13",
       "album": {
-        "name": "Jalan Terbaik",
-        "url": "https://open.spotify.com/album/2WrbuH0yPWAAc2oQ59J9Et"
+        "name": "Bisakah?",
+        "url": "https://open.spotify.com/album/3usjmDEV1lOjmMAtCgQp2V"
       },
       "artists": [
         {
-          "name": "Kaleb J",
-          "url": "https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb"
+          "name": "Fabio Asher",
+          "url": "https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I"
+        },
+        {
+          "name": "Sammy Simorangkir",
+          "url": "https://open.spotify.com/artist/374NOHOFF57pYs9QOhuKJq"
         }
       ],
-      "duration_ms": 290707,
-      "name": "Jalan Terbaik",
-      "url": "https://open.spotify.com/track/2tvAYDXVbOyIQvKTlrqeKX"
+      "duration_ms": 218100,
+      "name": "Bisakah?",
+      "url": "https://open.spotify.com/track/4MGu11FYb0jdgNaeNQEekh"
     }
   ],
   "unique_name": "OTW",

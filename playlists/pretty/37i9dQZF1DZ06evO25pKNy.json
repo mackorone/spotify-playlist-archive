@@ -1,12 +1,12 @@
 {
   "description": "This is Los Hijos De Garcia. The essential tracks, all in one playlist.",
-  "num_followers": 5967,
+  "num_followers": 5968,
   "original_name": "This Is Los Hijos De Garcia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVHEgAAAAADLQFnjqAJ2jDKQpMKaHN0U",
+  "snapshot_id": "aVMWAAAAAAAY534Lwa8HLDoQDcRJ+16L",
   "tracks": [
     {
       "added_at": null,
@@ -779,6 +779,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Aqui Nada Me Va Mal",
+        "url": "https://open.spotify.com/album/3QfoLOlTy4yUlO7R1HWadb"
+      },
+      "artists": [
+        {
+          "name": "Zexta Alianza",
+          "url": "https://open.spotify.com/artist/2dMIA9Z9kAwjqHptVnccGX"
+        },
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 178976,
+      "name": "Aqui Nada Me Va Mal",
+      "url": "https://open.spotify.com/track/3EKCwgqtzhNRD51XOHkjzM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Recordando Al Chavalon",
         "url": "https://open.spotify.com/album/6uO6AxhUMDd06Un78tIZr8"
       },
@@ -811,22 +831,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aqui Nada Me Va Mal",
-        "url": "https://open.spotify.com/album/3QfoLOlTy4yUlO7R1HWadb"
+        "name": "Loco Malandro",
+        "url": "https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ"
       },
       "artists": [
-        {
-          "name": "Zexta Alianza",
-          "url": "https://open.spotify.com/artist/2dMIA9Z9kAwjqHptVnccGX"
-        },
         {
           "name": "Los Hijos De Garcia",
           "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
         }
       ],
-      "duration_ms": 178976,
-      "name": "Aqui Nada Me Va Mal",
-      "url": "https://open.spotify.com/track/3EKCwgqtzhNRD51XOHkjzM"
+      "duration_ms": 182640,
+      "name": "Recordando La Sierra",
+      "url": "https://open.spotify.com/track/0dMeXStZXBSurWBhZlZtTV"
     },
     {
       "added_at": null,
@@ -843,22 +859,6 @@
       "duration_ms": 256641,
       "name": "Classroom Love",
       "url": "https://open.spotify.com/track/7yFDHXEb7UseHnH3hEWR29"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Loco Malandro",
-        "url": "https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 182640,
-      "name": "Recordando La Sierra",
-      "url": "https://open.spotify.com/track/0dMeXStZXBSurWBhZlZtTV"
     },
     {
       "added_at": null,

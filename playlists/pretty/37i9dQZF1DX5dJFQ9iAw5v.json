@@ -1,6 +1,6 @@
 {
   "description": "De Argentina para el mundo, los m\u00e1s destacados int\u00e9rpretes y compositores. Foto: Escalandrum",
-  "num_followers": 33623,
+  "num_followers": 33625,
   "original_name": "Jazz Argentino",
   "owner": {
     "name": "Spotify",
@@ -235,18 +235,22 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Boticario de Amor",
-        "url": "https://open.spotify.com/album/7fYEXYA5tiXJr5xBaDBolL"
+        "name": "Cinemateca Finlandesa",
+        "url": "https://open.spotify.com/album/647GXy8hpppqSMhMOf0To3"
       },
       "artists": [
         {
-          "name": "Hot Shooters",
-          "url": "https://open.spotify.com/artist/2ysnOJKYkI0bYls02QOAAr"
+          "name": "Roxana Amed",
+          "url": "https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n"
+        },
+        {
+          "name": "Adri\u00e1n Iaies",
+          "url": "https://open.spotify.com/artist/38yosjfq6EXdWuWbLSKulh"
         }
       ],
-      "duration_ms": 185194,
-      "name": "NO LA VI VENIR",
-      "url": "https://open.spotify.com/track/5preAnxabWbbG7v1hHWiHj"
+      "duration_ms": 276640,
+      "name": "Viernes 3AM",
+      "url": "https://open.spotify.com/track/2ceqnIhTZQCxWSq25VNxcq"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -275,22 +279,18 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Cinemateca Finlandesa",
-        "url": "https://open.spotify.com/album/647GXy8hpppqSMhMOf0To3"
+        "name": "Boticario de Amor",
+        "url": "https://open.spotify.com/album/7fYEXYA5tiXJr5xBaDBolL"
       },
       "artists": [
         {
-          "name": "Roxana Amed",
-          "url": "https://open.spotify.com/artist/6wXsUuOFYVpt9UhAEXTR6n"
-        },
-        {
-          "name": "Adri\u00e1n Iaies",
-          "url": "https://open.spotify.com/artist/38yosjfq6EXdWuWbLSKulh"
+          "name": "Hot Shooters",
+          "url": "https://open.spotify.com/artist/2ysnOJKYkI0bYls02QOAAr"
         }
       ],
-      "duration_ms": 276640,
-      "name": "Viernes 3AM",
-      "url": "https://open.spotify.com/track/2ceqnIhTZQCxWSq25VNxcq"
+      "duration_ms": 185194,
+      "name": "NO LA VI VENIR",
+      "url": "https://open.spotify.com/track/5preAnxabWbbG7v1hHWiHj"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -595,6 +595,26 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
+        "name": "80 A\u00f1os - Jazztar\u00edaenbaterita",
+        "url": "https://open.spotify.com/album/4VeDizEy0EEcVNoWVV9MRo"
+      },
+      "artists": [
+        {
+          "name": "Nestor Astarita",
+          "url": "https://open.spotify.com/artist/45y1rWlUfzQmyR3RLCHF3x"
+        },
+        {
+          "name": "Gato Barbieri",
+          "url": "https://open.spotify.com/artist/7dXBi98p0mN5JCpBnU0XEm"
+        }
+      ],
+      "duration_ms": 413595,
+      "name": "Equinox",
+      "url": "https://open.spotify.com/track/0dZPiN3FTuvYDJtFyFUdqQ"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
         "name": "Swing Summit",
         "url": "https://open.spotify.com/album/1PXGn6AZXkN0wYsmzaX8Ed"
       },
@@ -615,26 +635,6 @@
       "duration_ms": 273213,
       "name": "Swing Summit",
       "url": "https://open.spotify.com/track/3i6vzqXn09oXPDzSVCwmca"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
-        "name": "80 A\u00f1os - Jazztar\u00edaenbaterita",
-        "url": "https://open.spotify.com/album/4VeDizEy0EEcVNoWVV9MRo"
-      },
-      "artists": [
-        {
-          "name": "Nestor Astarita",
-          "url": "https://open.spotify.com/artist/45y1rWlUfzQmyR3RLCHF3x"
-        },
-        {
-          "name": "Gato Barbieri",
-          "url": "https://open.spotify.com/artist/7dXBi98p0mN5JCpBnU0XEm"
-        }
-      ],
-      "duration_ms": 413595,
-      "name": "Equinox",
-      "url": "https://open.spotify.com/track/0dZPiN3FTuvYDJtFyFUdqQ"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -795,6 +795,26 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
+        "name": "Un Rezo",
+        "url": "https://open.spotify.com/album/74E3AY31laalZd0YeWS8OE"
+      },
+      "artists": [
+        {
+          "name": "Ignacio Montoya Carlotto",
+          "url": "https://open.spotify.com/artist/3XBkATZOl4DCTfQTYpI4fK"
+        },
+        {
+          "name": "Facundo Ferreira",
+          "url": "https://open.spotify.com/artist/2xDy01Qvws5b7M7iAEYkLH"
+        }
+      ],
+      "duration_ms": 120327,
+      "name": "Diez Fotos Viejas-Pieza 1",
+      "url": "https://open.spotify.com/track/1np704HUCoilDckrl6dqUa"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
         "name": "Influencias",
         "url": "https://open.spotify.com/album/2Y4W9eQipZ4xcQ2uOIZImY"
       },
@@ -823,26 +843,6 @@
       "duration_ms": 285487,
       "name": "Se\u00fal",
       "url": "https://open.spotify.com/track/2CS2wZySNIklLsBZt4rLjj"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
-        "name": "Un Rezo",
-        "url": "https://open.spotify.com/album/74E3AY31laalZd0YeWS8OE"
-      },
-      "artists": [
-        {
-          "name": "Ignacio Montoya Carlotto",
-          "url": "https://open.spotify.com/artist/3XBkATZOl4DCTfQTYpI4fK"
-        },
-        {
-          "name": "Facundo Ferreira",
-          "url": "https://open.spotify.com/artist/2xDy01Qvws5b7M7iAEYkLH"
-        }
-      ],
-      "duration_ms": 120327,
-      "name": "Diez Fotos Viejas-Pieza 1",
-      "url": "https://open.spotify.com/track/1np704HUCoilDckrl6dqUa"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -891,6 +891,22 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
+        "name": "Cosa Panicosa",
+        "url": "https://open.spotify.com/album/1ZrljHX2ziICBpnbADlIYm"
+      },
+      "artists": [
+        {
+          "name": "La Mujer Barbuda",
+          "url": "https://open.spotify.com/artist/3HvB2sc3apk5kSg8dWQfaM"
+        }
+      ],
+      "duration_ms": 388265,
+      "name": "Cosa Panicosa",
+      "url": "https://open.spotify.com/track/4Deax610yhq44o4ZMf3EB1"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
         "name": "De Este Lado",
         "url": "https://open.spotify.com/album/1jChxnoLvKbJcLkf9Oku8G"
       },
@@ -919,22 +935,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Cosa Panicosa",
-        "url": "https://open.spotify.com/album/1ZrljHX2ziICBpnbADlIYm"
-      },
-      "artists": [
-        {
-          "name": "La Mujer Barbuda",
-          "url": "https://open.spotify.com/artist/3HvB2sc3apk5kSg8dWQfaM"
-        }
-      ],
-      "duration_ms": 388265,
-      "name": "Cosa Panicosa",
-      "url": "https://open.spotify.com/track/4Deax610yhq44o4ZMf3EB1"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "Camino",
         "url": "https://open.spotify.com/album/6sIwEICZAmGjQqZ9UcRYsl"
       },
@@ -947,22 +947,6 @@
       "duration_ms": 220532,
       "name": "Lago de Forma Mia",
       "url": "https://open.spotify.com/track/4OSzjErsAek3EJ2spyisYI"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
-        "name": "Rata",
-        "url": "https://open.spotify.com/album/43SsBBOs9JSbrLRE8zH32K"
-      },
-      "artists": [
-        {
-          "name": "Pipi Piazzolla Trio",
-          "url": "https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B"
-        }
-      ],
-      "duration_ms": 237240,
-      "name": "Aura",
-      "url": "https://open.spotify.com/track/2QF4GEpnQkVMPFKcHMgc3c"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -991,6 +975,22 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
+        "name": "Rata",
+        "url": "https://open.spotify.com/album/43SsBBOs9JSbrLRE8zH32K"
+      },
+      "artists": [
+        {
+          "name": "Pipi Piazzolla Trio",
+          "url": "https://open.spotify.com/artist/3KqZLxxrzdxAlIqm4YMz4B"
+        }
+      ],
+      "duration_ms": 237240,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/2QF4GEpnQkVMPFKcHMgc3c"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
         "name": "Puertos: Music from International Waters",
         "url": "https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV"
       },
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "El Jard\u00edn de Ord\u00f3\u00f1ez",
-        "url": "https://open.spotify.com/album/7pa2jpIWS7mbAY2GBnuTDh"
-      },
-      "artists": [
-        {
-          "name": "Ramiro Flores",
-          "url": "https://open.spotify.com/artist/59YTycBxhexu6zRUAQas1t"
-        }
-      ],
-      "duration_ms": 114760,
-      "name": "Entrada al Jard\u00edn de Ord\u00f3\u00f1ez",
-      "url": "https://open.spotify.com/track/41DLK2Kl0UCoP9YvRohQ74"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "Ausencias",
         "url": "https://open.spotify.com/album/2dHnj5p5fotsLObRmWJjxM"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 298880,
       "name": "Ausencias",
       "url": "https://open.spotify.com/track/5z53V0J5v7VNZpIOV5bycT"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "El Jard\u00edn de Ord\u00f3\u00f1ez",
+        "url": "https://open.spotify.com/album/7pa2jpIWS7mbAY2GBnuTDh"
+      },
+      "artists": [
+        {
+          "name": "Ramiro Flores",
+          "url": "https://open.spotify.com/artist/59YTycBxhexu6zRUAQas1t"
+        }
+      ],
+      "duration_ms": 114760,
+      "name": "Entrada al Jard\u00edn de Ord\u00f3\u00f1ez",
+      "url": "https://open.spotify.com/track/41DLK2Kl0UCoP9YvRohQ74"
     },
     {
       "added_at": "2025-04-14 14:58:34",
@@ -1151,6 +1151,26 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
+        "name": "Sexto VI",
+        "url": "https://open.spotify.com/album/3DksXqZKwm6aY9F3yS1sJL"
+      },
+      "artists": [
+        {
+          "name": "Ignacio Montoya Carlotto",
+          "url": "https://open.spotify.com/artist/3XBkATZOl4DCTfQTYpI4fK"
+        },
+        {
+          "name": "Valentin Reiners",
+          "url": "https://open.spotify.com/artist/5UW1PaNGXgTD7tggVv3Bug"
+        }
+      ],
+      "duration_ms": 193711,
+      "name": "Dos Verdades en Una Botella",
+      "url": "https://open.spotify.com/track/25ShzisZ04pBfIj62BbEL5"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
         "name": "Apal\u00e1p!",
         "url": "https://open.spotify.com/album/0mh5q8JCc4WXPD98JfpIBv"
       },
@@ -1175,26 +1195,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Sexto VI",
-        "url": "https://open.spotify.com/album/3DksXqZKwm6aY9F3yS1sJL"
-      },
-      "artists": [
-        {
-          "name": "Ignacio Montoya Carlotto",
-          "url": "https://open.spotify.com/artist/3XBkATZOl4DCTfQTYpI4fK"
-        },
-        {
-          "name": "Valentin Reiners",
-          "url": "https://open.spotify.com/artist/5UW1PaNGXgTD7tggVv3Bug"
-        }
-      ],
-      "duration_ms": 193711,
-      "name": "Dos Verdades en Una Botella",
-      "url": "https://open.spotify.com/track/25ShzisZ04pBfIj62BbEL5"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "A Bajo y Pa'fuera",
         "url": "https://open.spotify.com/album/5Tskwr5ZVRstjoh7tCGK4N"
       },
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2025-04-14 14:58:34",
       "album": {
-        "name": "Viva Jujuy",
-        "url": "https://open.spotify.com/album/7zqBQINQuhtMbgHk7sZ8fm"
-      },
-      "artists": [
-        {
-          "name": "Arturo Puertas",
-          "url": "https://open.spotify.com/artist/68VGzNdHAbP0eDDdmyvNCZ"
-        }
-      ],
-      "duration_ms": 361280,
-      "name": "Viva Jujuy",
-      "url": "https://open.spotify.com/track/29MTjfwiZZ8wfAy5TUlQM5"
-    },
-    {
-      "added_at": "2025-04-14 14:58:34",
-      "album": {
         "name": "Ed\u00e9n",
         "url": "https://open.spotify.com/album/2P2fyMDSr96sznG3d2GvzR"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 397240,
       "name": "Masche",
       "url": "https://open.spotify.com/track/0xizSuVkSAW319P54gzhwU"
+    },
+    {
+      "added_at": "2025-04-14 14:58:34",
+      "album": {
+        "name": "Viva Jujuy",
+        "url": "https://open.spotify.com/album/7zqBQINQuhtMbgHk7sZ8fm"
+      },
+      "artists": [
+        {
+          "name": "Arturo Puertas",
+          "url": "https://open.spotify.com/artist/68VGzNdHAbP0eDDdmyvNCZ"
+        }
+      ],
+      "duration_ms": 361280,
+      "name": "Viva Jujuy",
+      "url": "https://open.spotify.com/track/29MTjfwiZZ8wfAy5TUlQM5"
     },
     {
       "added_at": "2025-04-14 14:58:34",

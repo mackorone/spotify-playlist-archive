@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuDQ2TxRmCb.md) - [plain]
 
 > Best of the modern folk artists! Cover\- Kabir Cafe
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,679 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,701 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuDQ2TxRmCb.md) - [plain]
 | 45 | [Yaad Tumari Aayi \(From "Bhoomi 2025"\)](https://open.spotify.com/track/4Hcr5UDuZsVDo3UYhnukVG) | [Pawandeep Rajan](https://open.spotify.com/artist/3cy473zaKsJ7eo6l3t8SKd), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Suresh Rajan](https://open.spotify.com/artist/5g70zjT9kNXPgJJQuLgiZs) | [Yaad Tumari Aayi \(From "Bhoomi 2025"\)](https://open.spotify.com/album/35PnJQ4gDiAoE1NrH4abgp) | 4:21 |
 | 46 | [Baithi Hun](https://open.spotify.com/track/4OFL4SuIvY9i2RC36wRt96) | [Kaushiki Chakraborty](https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI), [Shantanu Moitra](https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1) | [Pankh](https://open.spotify.com/album/5tT24mhfEUpKSpgdfAPtx3) | 5:31 |
 | 47 | [Kashmir](https://open.spotify.com/track/0HvV5HHt99F8DCoN8RlAvq) | [Rahul Deshpande](https://open.spotify.com/artist/05TsqmnjBF2zgaB11M5tlT), [Amarjeet Prabhudesai](https://open.spotify.com/artist/6FhXjfNhE71lOKnFKDHWkW), [Shripad Nadkarni](https://open.spotify.com/artist/0x0Y7neKeFahTEo5UKdLah) | [Kashmir](https://open.spotify.com/album/1KHX5QuVXdKemj3i7mp1LV) | 4:44 |
-| 48 | [Jode Rahejo Raj](https://open.spotify.com/track/6TtO1mAKsZaoLTb3G1Wtfr) | [Jigardan Gadhvi](https://open.spotify.com/artist/2YFbqxbkOqc250jQiyV5QA), [Aishwarya Majmudar](https://open.spotify.com/artist/7MAlFea251zaprQFjwvYaL) | [Jode Rahejo Raj](https://open.spotify.com/album/2WIgISbgug6UCDAmvgUOFa) | 3:12 |
-| 49 | [Chhap Tilak](https://open.spotify.com/track/1crUmJ6yI1kbwTHX9yiCEW) | [Amrita Kak](https://open.spotify.com/artist/4BTpn8TkJe0FnqlpTY1ZJ2), [Amaan Ali Bangash](https://open.spotify.com/artist/4YHKzvqxptwrqZT9GyYHIg), [Ayaan Ali Bangash](https://open.spotify.com/artist/7ljpuNfOEA1vCZv3SHeKdG) | [Chhap Tilak](https://open.spotify.com/album/4tCGywFgQRoowig7bZyhme) | 4:31 |
+| 48 | [Chhap Tilak](https://open.spotify.com/track/1crUmJ6yI1kbwTHX9yiCEW) | [Amrita Kak](https://open.spotify.com/artist/4BTpn8TkJe0FnqlpTY1ZJ2), [Amaan Ali Bangash](https://open.spotify.com/artist/4YHKzvqxptwrqZT9GyYHIg), [Ayaan Ali Bangash](https://open.spotify.com/artist/7ljpuNfOEA1vCZv3SHeKdG) | [Chhap Tilak](https://open.spotify.com/album/4tCGywFgQRoowig7bZyhme) | 4:31 |
+| 49 | [Jode Rahejo Raj](https://open.spotify.com/track/6TtO1mAKsZaoLTb3G1Wtfr) | [Jigardan Gadhvi](https://open.spotify.com/artist/2YFbqxbkOqc250jQiyV5QA), [Aishwarya Majmudar](https://open.spotify.com/artist/7MAlFea251zaprQFjwvYaL) | [Jode Rahejo Raj](https://open.spotify.com/album/2WIgISbgug6UCDAmvgUOFa) | 3:12 |
 | 50 | [Peele Amiras \- Sabr](https://open.spotify.com/track/52rLNET3fwRHTkcl5g2clr) | [Kabir Cafe](https://open.spotify.com/artist/2AWF4fUAstzXyJd01JTuS3), [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw) | [Peele Amiras \(Sabr\)](https://open.spotify.com/album/4dsz62WiFXwyl2Hwa51tDg) | 5:15 |
 
 Snapshot ID: `AAAAAAy3tgFFftZMyglQu9fsTCa220Vq`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 
 > Turn up the volume for some filthy bassline!
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,376 likes - 68 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,455 likes - 68 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,15 +66,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13R6rBZEpj7.md) - [plain]
 | 56 | [I Would Like \- Chad Harrison Remix](https://open.spotify.com/track/6sg47dyQ26ACbci6MmTBoy) | [JKAY](https://open.spotify.com/artist/5FUk0Dg9iGOJHvf6oHECcO), [Chad Harrison](https://open.spotify.com/artist/0JVUKTXdvxf1IhktrBchZP) | [I Would Like \(Chad Harrison Remix\)](https://open.spotify.com/album/4xxWSRWNVwwJioB2mzUq1s) | 3:07 |
 | 57 | [IMMACULATE SKANK](https://open.spotify.com/track/678ey4hhnfoCIRYbQ9dTwc) | [bullet tooth](https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC) | [IMMACULATE SKANK](https://open.spotify.com/album/6559VpMe0iH33RoMMwHrdm) | 3:42 |
 | 58 | [Passion](https://open.spotify.com/track/18AyZRURPxEXMSqBAV3G1n) | [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf) | [What About The DJ?](https://open.spotify.com/album/2AjtUXYB9SY0Y4PFSFZQUV) | 4:40 |
-| 59 | [If You Could Be My Sweetheart](https://open.spotify.com/track/5TvqrZ5FvZkHqyoAjtjwGW) | [Chad Harrison](https://open.spotify.com/artist/0JVUKTXdvxf1IhktrBchZP) | [If You Could Be My Sweetheart](https://open.spotify.com/album/3sj0bKkzDvsnN98kCExSIt) | 4:06 |
-| 60 | [Flump](https://open.spotify.com/track/6OSswcrCIZz2D93uC8z9vh) | [Cesco](https://open.spotify.com/artist/7Gg3X2b5ljrhVGXDAwcrq3) | [Flump](https://open.spotify.com/album/6Aek9VzYtw6dPA6u5pzkDZ) | 4:10 |
-| 61 | [No Chase](https://open.spotify.com/track/6mFBj2KS2sWIBFya5dO36K) | [Sam Binga](https://open.spotify.com/artist/2oyU4eToyQkxAFjkB3blsi), [Cesco](https://open.spotify.com/artist/7Gg3X2b5ljrhVGXDAwcrq3), [Emz](https://open.spotify.com/artist/42uWTOhFxOD21pXuBmuEp9) | [Club Orthodontics](https://open.spotify.com/album/2H9QqWVpc5FwkrIZzCPWG3) | 2:32 |
-| 62 | [Bassline Girl](https://open.spotify.com/track/2EJzbUTio0NWYZViuSdiEM) | [Shaun Dean](https://open.spotify.com/artist/1vmJBUoJ6Z4JqU4mlw1bPC) | [Bassline Girl](https://open.spotify.com/album/0dShG75t020kCUNlaBh8UF) | 4:06 |
+| 59 | [Flump](https://open.spotify.com/track/6OSswcrCIZz2D93uC8z9vh) | [Cesco](https://open.spotify.com/artist/7Gg3X2b5ljrhVGXDAwcrq3) | [Flump](https://open.spotify.com/album/6Aek9VzYtw6dPA6u5pzkDZ) | 4:10 |
+| 60 | [If You Could Be My Sweetheart](https://open.spotify.com/track/5TvqrZ5FvZkHqyoAjtjwGW) | [Chad Harrison](https://open.spotify.com/artist/0JVUKTXdvxf1IhktrBchZP) | [If You Could Be My Sweetheart](https://open.spotify.com/album/3sj0bKkzDvsnN98kCExSIt) | 4:06 |
+| 61 | [Bassline Girl](https://open.spotify.com/track/2EJzbUTio0NWYZViuSdiEM) | [Shaun Dean](https://open.spotify.com/artist/1vmJBUoJ6Z4JqU4mlw1bPC) | [Bassline Girl](https://open.spotify.com/album/0dShG75t020kCUNlaBh8UF) | 4:06 |
+| 62 | [No Chase](https://open.spotify.com/track/6mFBj2KS2sWIBFya5dO36K) | [Sam Binga](https://open.spotify.com/artist/2oyU4eToyQkxAFjkB3blsi), [Cesco](https://open.spotify.com/artist/7Gg3X2b5ljrhVGXDAwcrq3), [Emz](https://open.spotify.com/artist/42uWTOhFxOD21pXuBmuEp9) | [Club Orthodontics](https://open.spotify.com/album/2H9QqWVpc5FwkrIZzCPWG3) | 2:32 |
 | 63 | [We Multiply](https://open.spotify.com/track/726EjFaiMKvX34tOpnbqSP) | [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR), [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C), [Killa P](https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ) | [We Multiply](https://open.spotify.com/album/3WxoCgsKhjoRRIgaTfctaO) | 3:49 |
 | 64 | [Hot In Herre](https://open.spotify.com/track/1vkARldHL4suLzugyV9Nuj) | [Cepaque](https://open.spotify.com/artist/57YkypoehOhGYrxAS1QAhc), [WHYCARE](https://open.spotify.com/artist/3sPOQGC7Qba2TdaM9WbrBF), [freeroll.](https://open.spotify.com/artist/60lGHkRLpgsBoF1VWgEZ8M) | [Hot In Herre](https://open.spotify.com/album/0dWhoOS6NPadGXYK12ZHp1) | 2:06 |
 | 65 | [Style](https://open.spotify.com/track/62KcN1Ea8Rjm4Nd3DcFw6t) | [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a), [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY), [Capo Lee](https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh) | [Style](https://open.spotify.com/album/4XXKdcSWdp3N8pUfsRtdBf) | 2:03 |
 | 66 | [Big Truck](https://open.spotify.com/track/7l5BqPuW0i8ZTqfTgH5oxn) | [SIDEQUEST](https://open.spotify.com/artist/3ke2GnEqLKvhIYrtaRY24x), [J Fado](https://open.spotify.com/artist/4cy8rq83cl4eKpRWRK9hyM) | [Big Truck](https://open.spotify.com/album/090rtFIJpMnIczAXQWlHmi) | 1:51 |
 | 67 | [The Things That We Should Say](https://open.spotify.com/track/0Oxp5ffTLYpazt1SehzCx6) | [TACTICS](https://open.spotify.com/artist/47CxUbkc8DhkqPWDDiNw34), [Local](https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2) | [The Things That We Should Say](https://open.spotify.com/album/5hKTOpcOjDIuADjCPGDtTv) | 2:08 |
-| 68 | [Make A Fool](https://open.spotify.com/track/7fOobgtfumsLTcbWPkxF9O) | [Chad Harrison](https://open.spotify.com/artist/0JVUKTXdvxf1IhktrBchZP) | [Baddie Bassline](https://open.spotify.com/album/252gPc3Qd3QZZLIjdyiKgR) | 4:03 |
+| 68 | [GOOD 4 U](https://open.spotify.com/track/01d0mVYKVR8OLH3pWsXiNc) | [Gentlemens Club](https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO), [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [GOOD 4 U](https://open.spotify.com/album/394BCnGgzVk4bS5yG3XNkR) | 2:40 |
 
 Snapshot ID: `AAAAAATX8wSWXkQfsKFBHm8BE47czcU7`

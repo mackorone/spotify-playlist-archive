@@ -1,13 +1,33 @@
 {
   "description": "This is Midian Lima. The essential tracks, all in one playlist.",
-  "num_followers": 22757,
+  "num_followers": 22758,
   "original_name": "This Is Midian Lima",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVHEgAAAAABfnkRJfnXyA803cmYhtpAT",
+  "snapshot_id": "aVMWAAAAAABrRgIg2P1NRI++1TCXJ8xn",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aguenta Cora\u00e7\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1OLRJT0AH9y7xOT6E0bKs5"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        },
+        {
+          "name": "Wilian Nascimento",
+          "url": "https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR"
+        }
+      ],
+      "duration_ms": 285962,
+      "name": "Aguenta Cora\u00e7\u00e3o (Ao Vivo)",
+      "url": "https://open.spotify.com/track/70U2qEq1gNx7oZEAWURENb"
+    },
     {
       "added_at": null,
       "album": {
@@ -291,22 +311,6 @@
       "duration_ms": 219493,
       "name": "Tua Sorte (Ao Vivo)",
       "url": "https://open.spotify.com/track/4vOZsXEbP5AalMYNYxY4j2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aguenta Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/6A3lDsk7ulbP2rdHlxulBG"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 273252,
-      "name": "Aguenta Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/3O3QlOVC1iRmpx7NYg42zY"
     },
     {
       "added_at": null,
@@ -676,9 +680,9 @@
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 314026,
-      "name": "Voc\u00ea N\u00e3o Imagina (Ao Vivo)",
-      "url": "https://open.spotify.com/track/70hw7NRr6BZJZpnyQNC5bx"
+      "duration_ms": 302927,
+      "name": "Vida aos Sepulcros (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5xHEBgTq1fKc0LYfl3rEHD"
     },
     {
       "added_at": null,
@@ -748,9 +752,9 @@
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 302927,
-      "name": "Vida aos Sepulcros (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5xHEBgTq1fKc0LYfl3rEHD"
+      "duration_ms": 314026,
+      "name": "Voc\u00ea N\u00e3o Imagina (Ao Vivo)",
+      "url": "https://open.spotify.com/track/70hw7NRr6BZJZpnyQNC5bx"
     },
     {
       "added_at": null,

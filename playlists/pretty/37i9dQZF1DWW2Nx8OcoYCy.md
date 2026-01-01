@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2Nx8OcoYCy.md) - [plain]
 
 > The upcoming artists performing at Jazz Cafe, London\. <a href="https://thejazzcafe.com/whats\-on/?">More info here.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,319 likes - 78 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,320 likes - 78 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2Nx8OcoYCy.md) - [plain]
 | 77 | [Send a Prayer \- Pt.2](https://open.spotify.com/track/4QaNevdY8gjGHXzcx7yL4U) | [Danilo Plessow](https://open.spotify.com/artist/3frW3pRt2IpKAysgM8ksle), [Motor City Drum Ensemble](https://open.spotify.com/artist/4TlzX7s6kuZDtiBpsopcBf) | [Send a Prayer](https://open.spotify.com/album/6mO4AK7dBGMRL0igZrJorB) | 5:37 |
 | 78 | [A Reminder \- Remix](https://open.spotify.com/track/64tCOZbcDkbM3o8b0ImXNW) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8), [East Forest](https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW) | [A Reminder \(Remix\)](https://open.spotify.com/album/43Aj523e01GisqCVZ8iGcJ) | 4:45 |
 
-Snapshot ID: `AAAAABx7/Kx0iefoaMlH3cCSi79CvQ0U`
+Snapshot ID: `AAAAAMXSQmiO7GT1fVpTtx+8Uzn+1Mdr`

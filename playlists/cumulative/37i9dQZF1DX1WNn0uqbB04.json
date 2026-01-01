@@ -128,7 +128,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-01",
       "duration_ms": 226000,
       "name": "Buenos Aires Dreams",
       "url": "https://open.spotify.com/track/5CTRkmDhZekiUUT4dT1Chf"
@@ -374,7 +374,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-01",
       "duration_ms": 279879,
       "name": "Diferente",
       "url": "https://open.spotify.com/track/5I3jKRlR8WS0xYYamnAhpG"
@@ -480,6 +480,24 @@
       "duration_ms": 173888,
       "name": "El Vino Triste",
       "url": "https://open.spotify.com/track/7KO3n68SPMyh9MFAQDWU9j"
+    },
+    {
+      "album": {
+        "name": "En Contra",
+        "url": "https://open.spotify.com/album/6aKACaseQig1Q4xf3YET2h"
+      },
+      "artists": [
+        {
+          "name": "MLNGA CLUB",
+          "url": "https://open.spotify.com/artist/7ANcrZTJw6ufk0i6GS0yvh"
+        }
+      ],
+      "date_added": "2025-12-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325173,
+      "name": "En Contra",
+      "url": "https://open.spotify.com/track/3SzXoz6Vvqt4QmLr3GJnae"
     },
     {
       "album": {
@@ -2046,7 +2064,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-22",
+      "date_removed": null,
       "duration_ms": 241280,
       "name": "Uprising Of Kindness",
       "url": "https://open.spotify.com/track/6y5RI29ZM1MmFg3yzD48v2"

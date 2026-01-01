@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "4:44",
+        "url": "https://open.spotify.com/album/7GoZNNb7Yl74fpk8Z6I2cv"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284493,
+      "name": "4:44",
+      "url": "https://open.spotify.com/track/1gT5TGwbkkkUliNzHRIGi1"
+    },
+    {
+      "album": {
         "name": "Operation: Doomsday (Complete)",
         "url": "https://open.spotify.com/album/5bjUbZPVTEQcb6W3LquX1E"
       },

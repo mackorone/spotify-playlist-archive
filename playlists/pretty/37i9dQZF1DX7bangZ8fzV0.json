@@ -1,6 +1,6 @@
 {
   "description": "Net die beste Afrikaanse musiek! Omslag: Fran Prins en Ivan Roux",
-  "num_followers": 139989,
+  "num_followers": 140139,
   "original_name": "Afrikaanse Hits",
   "owner": {
     "name": "Spotify",
@@ -411,6 +411,26 @@
     {
       "added_at": "2025-12-04 22:00:31",
       "album": {
+        "name": "Rowwe Bliksem",
+        "url": "https://open.spotify.com/album/3aqGXXhEPT35aGsxTWrHBS"
+      },
+      "artists": [
+        {
+          "name": "Riaan Benad\u00e9",
+          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
+        },
+        {
+          "name": "Jay",
+          "url": "https://open.spotify.com/artist/4KZEdNPtF2AdijUD02qPoj"
+        }
+      ],
+      "duration_ms": 183729,
+      "name": "Rowwe Bliksem",
+      "url": "https://open.spotify.com/track/0RwvdQ3H9kSo1lk9IFTBqf"
+    },
+    {
+      "added_at": "2025-12-04 22:00:31",
+      "album": {
         "name": "100%",
         "url": "https://open.spotify.com/album/2axcE5ad6XVpFn0Szm2auS"
       },
@@ -423,22 +443,6 @@
       "duration_ms": 180534,
       "name": "Hop Hop Spinnekop",
       "url": "https://open.spotify.com/track/4NG32lh3Z2wHxrDptfiQd3"
-    },
-    {
-      "added_at": "2025-12-04 22:00:31",
-      "album": {
-        "name": "Vitamiene See",
-        "url": "https://open.spotify.com/album/5HPLzmFuAWb2WW7JJi9MOb"
-      },
-      "artists": [
-        {
-          "name": "Riaan Benad\u00e9",
-          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
-        }
-      ],
-      "duration_ms": 177096,
-      "name": "Vitamiene See",
-      "url": "https://open.spotify.com/track/3YnntZvvVypYrvO4ha70xX"
     },
     {
       "added_at": "2025-12-04 22:00:31",
@@ -515,22 +519,18 @@
     {
       "added_at": "2025-12-04 22:00:31",
       "album": {
-        "name": "Rowwe Bliksem",
-        "url": "https://open.spotify.com/album/3aqGXXhEPT35aGsxTWrHBS"
+        "name": "Vitamiene See",
+        "url": "https://open.spotify.com/album/5HPLzmFuAWb2WW7JJi9MOb"
       },
       "artists": [
         {
           "name": "Riaan Benad\u00e9",
           "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
-        },
-        {
-          "name": "Jay",
-          "url": "https://open.spotify.com/artist/4KZEdNPtF2AdijUD02qPoj"
         }
       ],
-      "duration_ms": 183729,
-      "name": "Rowwe Bliksem",
-      "url": "https://open.spotify.com/track/0RwvdQ3H9kSo1lk9IFTBqf"
+      "duration_ms": 177096,
+      "name": "Vitamiene See",
+      "url": "https://open.spotify.com/track/3YnntZvvVypYrvO4ha70xX"
     },
     {
       "added_at": "2025-12-04 22:00:31",
@@ -567,18 +567,18 @@
     {
       "added_at": "2025-12-04 22:00:31",
       "album": {
-        "name": "Belowe",
-        "url": "https://open.spotify.com/album/1EM0JVWmvuphxNLonT2Zpn"
+        "name": "Lei My Na Die Water",
+        "url": "https://open.spotify.com/album/30Y6Kmoq8Kz5Ua9JHnbVgQ"
       },
       "artists": [
         {
-          "name": "Danny Smoke",
-          "url": "https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj"
+          "name": "Appel",
+          "url": "https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd"
         }
       ],
-      "duration_ms": 216923,
-      "name": "Belowe",
-      "url": "https://open.spotify.com/track/3v9Ahqz0mVTgRXEarkJpT3"
+      "duration_ms": 221040,
+      "name": "Lei My Na Die Water",
+      "url": "https://open.spotify.com/track/15bXmhHbsXEYa6YKESByDH"
     },
     {
       "added_at": "2025-12-04 22:00:31",
@@ -599,18 +599,18 @@
     {
       "added_at": "2025-12-04 22:00:31",
       "album": {
-        "name": "Lei My Na Die Water",
-        "url": "https://open.spotify.com/album/30Y6Kmoq8Kz5Ua9JHnbVgQ"
+        "name": "Belowe",
+        "url": "https://open.spotify.com/album/1EM0JVWmvuphxNLonT2Zpn"
       },
       "artists": [
         {
-          "name": "Appel",
-          "url": "https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd"
+          "name": "Danny Smoke",
+          "url": "https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj"
         }
       ],
-      "duration_ms": 221040,
-      "name": "Lei My Na Die Water",
-      "url": "https://open.spotify.com/track/15bXmhHbsXEYa6YKESByDH"
+      "duration_ms": 216923,
+      "name": "Belowe",
+      "url": "https://open.spotify.com/track/3v9Ahqz0mVTgRXEarkJpT3"
     },
     {
       "added_at": "2025-12-04 22:00:31",
@@ -627,22 +627,6 @@
       "duration_ms": 208000,
       "name": "Kyk",
       "url": "https://open.spotify.com/track/0xaGU2EmiHBkS92f7ngSgm"
-    },
-    {
-      "added_at": "2025-12-04 22:00:31",
-      "album": {
-        "name": "Spontaan",
-        "url": "https://open.spotify.com/album/25pTHMFYTDNLVnEqRKIVQl"
-      },
-      "artists": [
-        {
-          "name": "Riaan Benad\u00e9",
-          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
-        }
-      ],
-      "duration_ms": 178146,
-      "name": "Keeza",
-      "url": "https://open.spotify.com/track/1d6Zf7nnx6XBD8oS3c4lc6"
     },
     {
       "added_at": "2025-12-04 22:00:31",
@@ -671,6 +655,22 @@
     {
       "added_at": "2025-12-04 22:00:31",
       "album": {
+        "name": "Patriot",
+        "url": "https://open.spotify.com/album/4F98wQqGeijl8nnda2yUaM"
+      },
+      "artists": [
+        {
+          "name": "Appel",
+          "url": "https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd"
+        }
+      ],
+      "duration_ms": 203413,
+      "name": "Nonna",
+      "url": "https://open.spotify.com/track/3MF7ewY2kS9QMx3fysTD6g"
+    },
+    {
+      "added_at": "2025-12-04 22:00:31",
+      "album": {
         "name": "Hallo My Maatjie",
         "url": "https://open.spotify.com/album/7gdqvTxXpNWVstcYyEnBn7"
       },
@@ -687,18 +687,18 @@
     {
       "added_at": "2025-12-04 22:00:31",
       "album": {
-        "name": "Patriot",
-        "url": "https://open.spotify.com/album/4F98wQqGeijl8nnda2yUaM"
+        "name": "Spontaan",
+        "url": "https://open.spotify.com/album/25pTHMFYTDNLVnEqRKIVQl"
       },
       "artists": [
         {
-          "name": "Appel",
-          "url": "https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd"
+          "name": "Riaan Benad\u00e9",
+          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
         }
       ],
-      "duration_ms": 203413,
-      "name": "Nonna",
-      "url": "https://open.spotify.com/track/3MF7ewY2kS9QMx3fysTD6g"
+      "duration_ms": 178146,
+      "name": "Keeza",
+      "url": "https://open.spotify.com/track/1d6Zf7nnx6XBD8oS3c4lc6"
     },
     {
       "added_at": "2025-12-04 22:00:31",
@@ -863,22 +863,6 @@
     {
       "added_at": "2025-12-04 22:00:31",
       "album": {
-        "name": "Jannaman",
-        "url": "https://open.spotify.com/album/6uY8Agjsp4ZtoRmpeub2ss"
-      },
-      "artists": [
-        {
-          "name": "Dodo Nyoka",
-          "url": "https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa"
-        }
-      ],
-      "duration_ms": 205114,
-      "name": "Jannaman",
-      "url": "https://open.spotify.com/track/7dX2A1tJH11wwrRzQEICLW"
-    },
-    {
-      "added_at": "2025-12-04 22:00:31",
-      "album": {
         "name": "Wil Jy Bly",
         "url": "https://open.spotify.com/album/6C9vgKnV4J39l3VhtzeUgg"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 187391,
       "name": "Wil Jy Bly",
       "url": "https://open.spotify.com/track/4nE7FHtsqPIwFDgNXs6RSb"
+    },
+    {
+      "added_at": "2025-12-04 22:00:31",
+      "album": {
+        "name": "Jannaman",
+        "url": "https://open.spotify.com/album/6uY8Agjsp4ZtoRmpeub2ss"
+      },
+      "artists": [
+        {
+          "name": "Dodo Nyoka",
+          "url": "https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa"
+        }
+      ],
+      "duration_ms": 205114,
+      "name": "Jannaman",
+      "url": "https://open.spotify.com/track/7dX2A1tJH11wwrRzQEICLW"
     },
     {
       "added_at": "2025-12-04 22:00:31",
@@ -947,22 +947,6 @@
     {
       "added_at": "2025-12-04 22:00:31",
       "album": {
-        "name": "Country Girl Van Bloem",
-        "url": "https://open.spotify.com/album/55fPGAUIsa23dXP1CxT23N"
-      },
-      "artists": [
-        {
-          "name": "Dodo Nyoka",
-          "url": "https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa"
-        }
-      ],
-      "duration_ms": 176640,
-      "name": "Country Girl Van Bloem",
-      "url": "https://open.spotify.com/track/1PRL5i4psRnhOutaezVAzd"
-    },
-    {
-      "added_at": "2025-12-04 22:00:31",
-      "album": {
         "name": "Naam",
         "url": "https://open.spotify.com/album/7oZjPk8MmOMPGNoT1QIB47"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 161242,
       "name": "Naam",
       "url": "https://open.spotify.com/track/5tslIhk3YswIdnUuiyeYhr"
+    },
+    {
+      "added_at": "2025-12-04 22:00:31",
+      "album": {
+        "name": "Country Girl Van Bloem",
+        "url": "https://open.spotify.com/album/55fPGAUIsa23dXP1CxT23N"
+      },
+      "artists": [
+        {
+          "name": "Dodo Nyoka",
+          "url": "https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa"
+        }
+      ],
+      "duration_ms": 176640,
+      "name": "Country Girl Van Bloem",
+      "url": "https://open.spotify.com/track/1PRL5i4psRnhOutaezVAzd"
     },
     {
       "added_at": "2025-12-04 22:00:31",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2025-12-04 22:00:31",
       "album": {
-        "name": "Boksemdais",
-        "url": "https://open.spotify.com/album/19Ix1u1IRDk6919QD7o9O0"
-      },
-      "artists": [
-        {
-          "name": "Riaan Benad\u00e9",
-          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
-        }
-      ],
-      "duration_ms": 188553,
-      "name": "Boksemdais",
-      "url": "https://open.spotify.com/track/5UqFcsRHW5It2HD3f2yoJD"
-    },
-    {
-      "added_at": "2025-12-04 22:00:31",
-      "album": {
         "name": "Klein Bietjie",
         "url": "https://open.spotify.com/album/0ZkDuGMo31cNfxnjmOrP2r"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 181194,
       "name": "Klein Bietjie",
       "url": "https://open.spotify.com/track/3VAhXrrV3pA0hSHfG3fFPr"
+    },
+    {
+      "added_at": "2025-12-04 22:00:31",
+      "album": {
+        "name": "Boksemdais",
+        "url": "https://open.spotify.com/album/19Ix1u1IRDk6919QD7o9O0"
+      },
+      "artists": [
+        {
+          "name": "Riaan Benad\u00e9",
+          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
+        }
+      ],
+      "duration_ms": 188553,
+      "name": "Boksemdais",
+      "url": "https://open.spotify.com/track/5UqFcsRHW5It2HD3f2yoJD"
     },
     {
       "added_at": "2025-12-04 22:00:31",
@@ -1207,34 +1207,18 @@
     {
       "added_at": "2025-12-04 22:00:31",
       "album": {
-        "name": "Jagtrip",
-        "url": "https://open.spotify.com/album/75uChZwgcK6DmKmtESaLN6"
+        "name": "AVBOB Se Stoep",
+        "url": "https://open.spotify.com/album/0yUeMZgVg6YaTbBIIf2X9S"
       },
       "artists": [
         {
-          "name": "Bok Van Blerk",
-          "url": "https://open.spotify.com/artist/0vevzNDJEuDySBGxIPWcHZ"
-        },
-        {
-          "name": "Ricus Nel",
-          "url": "https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg"
-        },
-        {
-          "name": "Ruhan Du Toit",
-          "url": "https://open.spotify.com/artist/4C448Mfxj3pcyU9pgHTTpe"
-        },
-        {
-          "name": "Chris Steyn",
-          "url": "https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q"
-        },
-        {
-          "name": "Jay",
-          "url": "https://open.spotify.com/artist/4KZEdNPtF2AdijUD02qPoj"
+          "name": "Snotkop",
+          "url": "https://open.spotify.com/artist/0F0l2JFPA3u6cBpaqKCm6J"
         }
       ],
-      "duration_ms": 198970,
-      "name": "Jagtrip",
-      "url": "https://open.spotify.com/track/3Nvl9XchMTkQtbSr9mJgSq"
+      "duration_ms": 208969,
+      "name": "AVBOB Se Stoep",
+      "url": "https://open.spotify.com/track/2gLVnU9kvjcY8KYhs2grNj"
     },
     {
       "added_at": "2025-12-04 22:00:31",
@@ -1271,18 +1255,34 @@
     {
       "added_at": "2025-12-04 22:00:31",
       "album": {
-        "name": "AVBOB Se Stoep",
-        "url": "https://open.spotify.com/album/0yUeMZgVg6YaTbBIIf2X9S"
+        "name": "Jagtrip",
+        "url": "https://open.spotify.com/album/75uChZwgcK6DmKmtESaLN6"
       },
       "artists": [
         {
-          "name": "Snotkop",
-          "url": "https://open.spotify.com/artist/0F0l2JFPA3u6cBpaqKCm6J"
+          "name": "Bok Van Blerk",
+          "url": "https://open.spotify.com/artist/0vevzNDJEuDySBGxIPWcHZ"
+        },
+        {
+          "name": "Ricus Nel",
+          "url": "https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg"
+        },
+        {
+          "name": "Ruhan Du Toit",
+          "url": "https://open.spotify.com/artist/4C448Mfxj3pcyU9pgHTTpe"
+        },
+        {
+          "name": "Chris Steyn",
+          "url": "https://open.spotify.com/artist/1sm5dkYgmAby2vtl4Syc0q"
+        },
+        {
+          "name": "Jay",
+          "url": "https://open.spotify.com/artist/4KZEdNPtF2AdijUD02qPoj"
         }
       ],
-      "duration_ms": 208969,
-      "name": "AVBOB Se Stoep",
-      "url": "https://open.spotify.com/track/2gLVnU9kvjcY8KYhs2grNj"
+      "duration_ms": 198970,
+      "name": "Jagtrip",
+      "url": "https://open.spotify.com/track/3Nvl9XchMTkQtbSr9mJgSq"
     },
     {
       "added_at": "2025-12-04 22:00:31",

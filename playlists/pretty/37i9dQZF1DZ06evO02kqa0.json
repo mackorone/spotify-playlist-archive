@@ -1,12 +1,12 @@
 {
   "description": "This is Maria Callas. The essential tracks, all in one playlist.",
-  "num_followers": 40162,
+  "num_followers": 40166,
   "original_name": "This Is Maria Callas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVHEgAAAAAAqy9DsrAqoqRevAZddKOkB",
+  "snapshot_id": "aVMWAAAAAACKW+NE2BETgTeBHHejTgcL",
   "tracks": [
     {
       "added_at": null,
@@ -451,54 +451,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mascagni: Cavalleria Rusticana (Callas, Di Stefano, Serafin) (1953)",
-        "url": "https://open.spotify.com/album/3kghbWpy9LiKgCgKsUDpH2"
+        "name": "Pure - Maria Callas",
+        "url": "https://open.spotify.com/album/0uloEl7atU9mPvHlgzuDtO"
       },
       "artists": [
         {
-          "name": "Pietro Mascagni",
-          "url": "https://open.spotify.com/artist/3Z5fRknMBBNfCw6pkgR9S8"
+          "name": "Francesco Cilea",
+          "url": "https://open.spotify.com/artist/4UI5kd2hXbzrL9dH9zpK03"
         },
         {
           "name": "Maria Callas",
           "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
         },
         {
-          "name": "Giuseppe Di Stefano",
-          "url": "https://open.spotify.com/artist/6kjCrVbejP0Aw6otiMaxNt"
-        },
-        {
-          "name": "Rolando Panerai",
-          "url": "https://open.spotify.com/artist/5HZ0WzJwZa38S1adyyeVrY"
-        },
-        {
-          "name": "Anna Maria Canali",
-          "url": "https://open.spotify.com/artist/5QRZA4QTtraONV5UgyObV4"
-        },
-        {
-          "name": "Ebe Ticozzi",
-          "url": "https://open.spotify.com/artist/3ViPLQc2I8Y1uFxhGuUR4V"
-        },
-        {
-          "name": "Vittore Veneziani",
-          "url": "https://open.spotify.com/artist/5q8bD3JnHGRTkplYLpFq6Z"
-        },
-        {
-          "name": "Milan La Scala Chorus",
-          "url": "https://open.spotify.com/artist/09bshvKZIhLIvbHWWXlhKO"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        },
-        {
           "name": "Tullio Serafin",
           "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
         }
       ],
-      "duration_ms": 234466,
-      "name": "Cavalleria rusticana: Pt. II: Intermezzo",
-      "url": "https://open.spotify.com/track/1gnROk7Go9QfQrvQE11f9H"
+      "duration_ms": 230280,
+      "name": "Cilea: Adriana Lecouvreur, Act 1: \"Ecco, respiro appena... Io son l'umile ancella\" (Adriana Lecouvreur)",
+      "url": "https://open.spotify.com/track/5RLoXRPwbJdWQMWUkLFdVs"
     },
     {
       "added_at": null,
@@ -563,30 +539,54 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pure - Maria Callas",
-        "url": "https://open.spotify.com/album/0uloEl7atU9mPvHlgzuDtO"
+        "name": "Mascagni: Cavalleria Rusticana (Callas, Di Stefano, Serafin) (1953)",
+        "url": "https://open.spotify.com/album/3kghbWpy9LiKgCgKsUDpH2"
       },
       "artists": [
         {
-          "name": "Francesco Cilea",
-          "url": "https://open.spotify.com/artist/4UI5kd2hXbzrL9dH9zpK03"
+          "name": "Pietro Mascagni",
+          "url": "https://open.spotify.com/artist/3Z5fRknMBBNfCw6pkgR9S8"
         },
         {
           "name": "Maria Callas",
           "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
         },
         {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+          "name": "Giuseppe Di Stefano",
+          "url": "https://open.spotify.com/artist/6kjCrVbejP0Aw6otiMaxNt"
         },
         {
-          "name": "Philharmonia Orchestra",
-          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+          "name": "Rolando Panerai",
+          "url": "https://open.spotify.com/artist/5HZ0WzJwZa38S1adyyeVrY"
+        },
+        {
+          "name": "Anna Maria Canali",
+          "url": "https://open.spotify.com/artist/5QRZA4QTtraONV5UgyObV4"
+        },
+        {
+          "name": "Ebe Ticozzi",
+          "url": "https://open.spotify.com/artist/3ViPLQc2I8Y1uFxhGuUR4V"
+        },
+        {
+          "name": "Vittore Veneziani",
+          "url": "https://open.spotify.com/artist/5q8bD3JnHGRTkplYLpFq6Z"
+        },
+        {
+          "name": "Milan La Scala Chorus",
+          "url": "https://open.spotify.com/artist/09bshvKZIhLIvbHWWXlhKO"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
         }
       ],
-      "duration_ms": 230280,
-      "name": "Cilea: Adriana Lecouvreur, Act 1: \"Ecco, respiro appena... Io son l'umile ancella\" (Adriana Lecouvreur)",
-      "url": "https://open.spotify.com/track/5RLoXRPwbJdWQMWUkLFdVs"
+      "duration_ms": 234466,
+      "name": "Cavalleria rusticana: Pt. II: Intermezzo",
+      "url": "https://open.spotify.com/track/1gnROk7Go9QfQrvQE11f9H"
     },
     {
       "added_at": null,
@@ -919,30 +919,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Callas, une invitation \u00e0 l'Op\u00e9ra",
-        "url": "https://open.spotify.com/album/6Hh8uWQx5MwJYEdbx55x6l"
-      },
-      "artists": [
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        }
-      ],
-      "duration_ms": 348693,
-      "name": "Norma, Act I Scene 1: \"Casta Diva\"",
-      "url": "https://open.spotify.com/track/1GjCs7OawOfSyjRIw2U7WI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mascagni: Cavalleria Rusticana (Callas, Di Stefano, Serafin) (1953)",
         "url": "https://open.spotify.com/album/3kghbWpy9LiKgCgKsUDpH2"
       },
@@ -991,6 +967,30 @@
       "duration_ms": 153093,
       "name": "Cavalleria rusticana: Pt. I: Prelude",
       "url": "https://open.spotify.com/track/1M53DIVGZazxUHJQIxPTgj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Callas, une invitation \u00e0 l'Op\u00e9ra",
+        "url": "https://open.spotify.com/album/6Hh8uWQx5MwJYEdbx55x6l"
+      },
+      "artists": [
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        }
+      ],
+      "duration_ms": 348693,
+      "name": "Norma, Act I Scene 1: \"Casta Diva\"",
+      "url": "https://open.spotify.com/track/1GjCs7OawOfSyjRIw2U7WI"
     },
     {
       "added_at": null,
@@ -1191,22 +1191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BD Music Presents Maria Callas",
-        "url": "https://open.spotify.com/album/55wZY2z70yepE5kDQ5UUQq"
-      },
-      "artists": [
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        }
-      ],
-      "duration_ms": 241386,
-      "name": "Carmen: L'amour est un oiseau rebelle",
-      "url": "https://open.spotify.com/track/1sj4kIn8n5nXTGwB9CsieB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Callas sings Great Arias from French Operas - Callas Remastered",
         "url": "https://open.spotify.com/album/1oolP2nPF4furJV0ubUALc"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 266853,
       "name": "Gluck: Alceste, Wq. 44, Act 1: \"Divinit\u00e9s du Styx\" (Alceste)",
       "url": "https://open.spotify.com/track/3byUSMrEejPJkMv9MfjUqe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BD Music Presents Maria Callas",
+        "url": "https://open.spotify.com/album/55wZY2z70yepE5kDQ5UUQq"
+      },
+      "artists": [
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        }
+      ],
+      "duration_ms": 241386,
+      "name": "Carmen: L'amour est un oiseau rebelle",
+      "url": "https://open.spotify.com/track/1sj4kIn8n5nXTGwB9CsieB"
     },
     {
       "added_at": null,
@@ -1263,34 +1263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Very Best of Maria Callas",
-        "url": "https://open.spotify.com/album/0tREYnFHLtGOkfegsYOBRb"
-      },
-      "artists": [
-        {
-          "name": "Giacomo Puccini",
-          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
-        },
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        },
-        {
-          "name": "Philharmonia Orchestra",
-          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
-        }
-      ],
-      "duration_ms": 202040,
-      "name": "Puccini: La boh\u00e8me, Act 3: \"Donde lieta usc\u00ec al tuo grido d'amore\" (Mim\u00ec)",
-      "url": "https://open.spotify.com/track/6f2q4uxbxX4fSotAk7tRxZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pure - Maria Callas",
         "url": "https://open.spotify.com/album/0uloEl7atU9mPvHlgzuDtO"
       },
@@ -1315,6 +1287,34 @@
       "duration_ms": 205826,
       "name": "Puccini: La boh\u00e8me, Act 3: \"Donde lieta usc\u00ec al tuo grido d'amore\" (Mim\u00ec)",
       "url": "https://open.spotify.com/track/2Z6h4vSFXHUi9d9qRlFaHc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Very Best of Maria Callas",
+        "url": "https://open.spotify.com/album/0tREYnFHLtGOkfegsYOBRb"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        }
+      ],
+      "duration_ms": 202040,
+      "name": "Puccini: La boh\u00e8me, Act 3: \"Donde lieta usc\u00ec al tuo grido d'amore\" (Mim\u00ec)",
+      "url": "https://open.spotify.com/track/6f2q4uxbxX4fSotAk7tRxZ"
     },
     {
       "added_at": null,

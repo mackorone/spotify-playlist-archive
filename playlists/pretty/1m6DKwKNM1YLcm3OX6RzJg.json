@@ -887,6 +887,22 @@
     {
       "added_at": "2014-06-27 12:29:55",
       "album": {
+        "name": "Swedish Strawberries",
+        "url": "https://open.spotify.com/album/7GQbWvfa9YFdbUAyKAC79c"
+      },
+      "artists": [
+        {
+          "name": "Luna Green",
+          "url": "https://open.spotify.com/artist/6WppBFTf3aSXsGee0LlcTs"
+        }
+      ],
+      "duration_ms": 218879,
+      "name": "Black Magic",
+      "url": "https://open.spotify.com/track/69TmILv0yqRlWEPCPn0SWs"
+    },
+    {
+      "added_at": "2014-06-27 12:29:55",
+      "album": {
         "name": "Disclosed",
         "url": "https://open.spotify.com/album/5fhtv2Iqk3E1gm5Y9hIP1e"
       },

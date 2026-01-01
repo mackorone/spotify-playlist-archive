@@ -1,12 +1,12 @@
 {
   "description": "This is Kane Brown. The essential tracks, all in one playlist.",
-  "num_followers": 265993,
+  "num_followers": 266002,
   "original_name": "This Is Kane Brown",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVHEgAAAAADRfxSnduN5rL8jFPsK93LF",
+  "snapshot_id": "aVMWAAAAAAC4XR0eMFlKiF+I4Ut3+5L9",
   "tracks": [
     {
       "added_at": null,
@@ -203,6 +203,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Backseat Driver",
+        "url": "https://open.spotify.com/album/5wSRDE5eSLvPbrSuAxgDlm"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 228066,
+      "name": "Backseat Driver",
+      "url": "https://open.spotify.com/track/68SYsp6XfIEnlDYMgMyxUv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Memory",
         "url": "https://open.spotify.com/album/0jpQZkMeWh9yysxyTSCywk"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 153337,
       "name": "Memory",
       "url": "https://open.spotify.com/track/34chhNX59Wo9HMFCsI3K8Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Backseat Driver",
-        "url": "https://open.spotify.com/album/5wSRDE5eSLvPbrSuAxgDlm"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 228066,
-      "name": "Backseat Driver",
-      "url": "https://open.spotify.com/track/68SYsp6XfIEnlDYMgMyxUv"
     },
     {
       "added_at": null,
@@ -726,15 +726,11 @@
         {
           "name": "Kane Brown",
           "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
         }
       ],
-      "duration_ms": 182506,
-      "name": "Rescue",
-      "url": "https://open.spotify.com/track/0IV0hZh9Hz3ZRcTHUphida"
+      "duration_ms": 172933,
+      "name": "Fiddle in the Band",
+      "url": "https://open.spotify.com/track/58dlqpb4p2Bvd8EmfHX9oO"
     },
     {
       "added_at": null,
@@ -802,11 +798,15 @@
         {
           "name": "Kane Brown",
           "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
         }
       ],
-      "duration_ms": 172933,
-      "name": "Fiddle in the Band",
-      "url": "https://open.spotify.com/track/58dlqpb4p2Bvd8EmfHX9oO"
+      "duration_ms": 182506,
+      "name": "Rescue",
+      "url": "https://open.spotify.com/track/0IV0hZh9Hz3ZRcTHUphida"
     },
     {
       "added_at": null,
@@ -827,22 +827,6 @@
       "duration_ms": 207800,
       "name": "Nothing Compares To You (Feat. Kane Brown)",
       "url": "https://open.spotify.com/track/3bf3XBOxWYhspKjUNsmD8Q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Different Man",
-        "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
-      },
-      "artists": [
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 203666,
-      "name": "Go Around",
-      "url": "https://open.spotify.com/track/4bRZoRhAQfqGLOkqAFDPp5"
     },
     {
       "added_at": null,
@@ -875,6 +859,22 @@
       "duration_ms": 179255,
       "name": "Says I Can - The High Road Tour Version",
       "url": "https://open.spotify.com/track/7qH7QNTIkwv2NwEFwSy95l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Different Man",
+        "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 203666,
+      "name": "Go Around",
+      "url": "https://open.spotify.com/track/4bRZoRhAQfqGLOkqAFDPp5"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EUcyVKIE73.md) - [plain]
 
 > Selections of North Indian classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,899 likes - 50 songs - 13 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,907 likes - 50 songs - 13 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EUcyVKIE73.md) - [plain]
 | 33 | [Tarana Yaman](https://open.spotify.com/track/1lQpVO8T2CQETWCIVKBI9X) | [Ronkini Gupta](https://open.spotify.com/artist/1cWzyBPa1R7sKifsDKhkz4) | [Tarana Yaman](https://open.spotify.com/album/020y6hRQk2CaWSZ1IHAy5J) | 10:08 |
 | 34 | [Raga Bhairavii: Baju Band Khul Khul Jani](https://open.spotify.com/track/6JyggcRCT6CEw7JVDJfODF) | [Shruti Sadolikar](https://open.spotify.com/artist/6caUPzMY65rQ7qk9yw2xDq) | [Raga Miyan\-Ki\-Todi, Raga Bibhas & Raga Bhairavi](https://open.spotify.com/album/02Utu7DnngYqwgcHr2rN4H) | 13:43 |
 | 35 | [Raga Kalavati \- Khayal](https://open.spotify.com/track/5jc5Dn3oIigJIOHKFGBRde) | [Parveen Sultana](https://open.spotify.com/artist/6icHDJ25LIt9b8hyW6Zm6e) | [Le Chant \- Khayal](https://open.spotify.com/album/4u4qaZ6CcnBKfpsmEdfugX) | 14:56 |
-| 36 | [Sur Sukh Khani, Natyageet](https://open.spotify.com/track/1GSYhLtmtU1hKqfk0GYf1U) | [Pandit Bhimsen Joshi](https://open.spotify.com/artist/5MHTQcUQIhxhZdB6Glwmmk), [Purushottam Walawalkar](https://open.spotify.com/artist/7C5NA726B5bcUP5N4NHtZQ) | [Natyasangeet](https://open.spotify.com/album/6XI48xvEXJZ4djjqhmKWnj) | 13:33 |
-| 37 | [Thumri in Raga Misra Mand 'Morey Saiyan Bedardi' in Keherva \(8 beats\)](https://open.spotify.com/track/7sPDjmoQ9GmERO4BQvpM8x) | [Kaushiki Chakraborty](https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI) | [Pure](https://open.spotify.com/album/0xqFR4roHbYLOtB3rvMnOl) | 17:25 |
+| 36 | [Thumri in Raga Misra Mand 'Morey Saiyan Bedardi' in Keherva \(8 beats\)](https://open.spotify.com/track/7sPDjmoQ9GmERO4BQvpM8x) | [Kaushiki Chakraborty](https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI) | [Pure](https://open.spotify.com/album/0xqFR4roHbYLOtB3rvMnOl) | 17:25 |
+| 37 | [Sur Sukh Khani, Natyageet](https://open.spotify.com/track/1GSYhLtmtU1hKqfk0GYf1U) | [Pandit Bhimsen Joshi](https://open.spotify.com/artist/5MHTQcUQIhxhZdB6Glwmmk), [Purushottam Walawalkar](https://open.spotify.com/artist/7C5NA726B5bcUP5N4NHtZQ) | [Natyasangeet](https://open.spotify.com/album/6XI48xvEXJZ4djjqhmKWnj) | 13:33 |
 | 38 | [Bhavani Dayani Raag Mishra Bhairavi Sadra](https://open.spotify.com/track/6S8hdKKsm9DkOaTMWn2JCh) | [Jyoti Debnath](https://open.spotify.com/artist/4rcwtJdLLfRtwc4TLvvcWk) | [Bhavani Dayani Raag Mishra Bhairavi Sadra](https://open.spotify.com/album/40GaEcinaieQsIXisQygW7) | 5:35 |
 | 39 | [Raga Basant Bahar \- Raga Basant Bahar \- Ektaal \- Teentaal](https://open.spotify.com/track/5EmNsq9at10HMawWfhM2K6) | [Kishori Amonkar](https://open.spotify.com/artist/0tLjWOxzh42O8gr0nFzv45) | [Sangeet Sartaj, Vol\. 1 & 2](https://open.spotify.com/album/0KyNZodk1oplO3iJhy5GHk) | 29:27 |
 | 40 | [Rag Gurjari Todi](https://open.spotify.com/track/0KWUBMhTeC5SObkrJPACZS) | [Ustad Sultan Khan](https://open.spotify.com/artist/2eOZNXw0A4cQKmsVPpIcMY), [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6) | [Saptrang](https://open.spotify.com/album/4kk6vnU9ULoi5LxdwUohQJ) | 31:36 |

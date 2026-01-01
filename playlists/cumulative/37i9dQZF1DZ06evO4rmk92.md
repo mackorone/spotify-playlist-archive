@@ -4,7 +4,7 @@
 
 > This is Nat King Cole\. The essential tracks, all in one playlist.
 
-130 songs - 6 hr 14 min
+131 songs - 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Acercate Mas \(Come Closer To Me\)](https://open.spotify.com/track/76AbCflWiJBgByIqFl396O) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Cole Espanol](https://open.spotify.com/album/6jr4Juj3htePZkpPcg7M0p) | 2:48 | 2024-06-13 | 2025-10-29 |
 | [Acércate Más](https://open.spotify.com/track/6c877PJUCIHKP0A0yaj6zJ) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9), [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Natalie Cole En Español \(Track By Track Commentary\)](https://open.spotify.com/album/4neGAu0qprh1ghFDhH824H) | 2:47 | 2024-06-13 |  |
 | [Adios Marquita Linda](https://open.spotify.com/track/0ouj5Z8smLTqpluuhAQ1Cq) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [More Cole Español](https://open.spotify.com/album/2MNgRvW32ijISrmFNiCxRr) | 2:51 | 2024-06-16 | 2024-07-19 |
+| [Ain't Misbehavin \(I'm Savin My Love For You\)](https://open.spotify.com/track/7puWC4GVdR4Eqzh6okLwQI) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Love Is The Thing](https://open.spotify.com/album/0M74fKKEBEFUSmiGbjIkps) | 3:16 | 2026-01-01 |  |
 | [Almost Like Being In Love \- Remastered](https://open.spotify.com/track/6115ks6fGkf7KYRDAi8lNK) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Sings For Two In Love](https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi) | 1:53 | 2024-06-13 |  |
 | [An Affair To Remember](https://open.spotify.com/track/2Iu8YgkRJNQgqkYnYJ46nv) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Unforgettable Nat King Cole Sings The Great Songs](https://open.spotify.com/album/7oQLfatdzvZL4SXboy7LiZ) | 3:02 | 2024-06-15 | 2024-07-23 |
 | [Ansiedad](https://open.spotify.com/track/2MQnCUzdidi7LNSLup0Afu) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [A Mis Amigos](https://open.spotify.com/album/5zcIAONlMUtS6U5aSX97bc) | 3:27 | 2024-06-16 |  |
@@ -30,7 +31,7 @@
 | [Blue Moon](https://open.spotify.com/track/3EZq6UHwfqCEb7Gt2oQpZs) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Let's Face The Music \(Expanded Edition\)](https://open.spotify.com/album/0GnnnrEJWgUHRdfqdZGRi0) | 2:15 | 2024-06-17 | 2024-06-25 |
 | [Brazilian Love Song](https://open.spotify.com/track/3AjKSTfrcDwRnBh7o5PYPQ) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7), [Bebel Gilberto](https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz) | [Re:Generations](https://open.spotify.com/album/0VOh8ir4zPehizofnZog9V) | 4:47 | 2024-06-26 | 2024-07-13 |
 | [Cachito](https://open.spotify.com/track/68XbEHDqjefcO6fVfNssfb) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Cole Espanol](https://open.spotify.com/album/6jr4Juj3htePZkpPcg7M0p) | 2:50 | 2024-06-18 | 2024-09-26 |
-| [Cappuccina](https://open.spotify.com/track/0l77yPx7obpLzZ93NFNcFR) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Sincerely](https://open.spotify.com/album/338VuAlKIPVBLt5O2AKe5M) | 2:48 | 2024-06-14 |  |
+| [Cappuccina](https://open.spotify.com/track/0l77yPx7obpLzZ93NFNcFR) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Sincerely](https://open.spotify.com/album/338VuAlKIPVBLt5O2AKe5M) | 2:48 | 2024-06-14 | 2026-01-01 |
 | [Capullito De Aleli](https://open.spotify.com/track/0dzxDcTxjzqkQlXq1CWwcv) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [A Mis Amigos](https://open.spotify.com/album/5zcIAONlMUtS6U5aSX97bc) | 2:28 | 2024-06-13 | 2024-07-21 |
 | [Coquette](https://open.spotify.com/track/0tewaW24L9L5gpcP8Qg3ga) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [L\-O\-V\-E](https://open.spotify.com/album/3mGmn1JDde3XyKQqZTJUAL) | 2:55 | 2024-06-26 | 2024-06-27 |
 | [Don't Get Around Much Anymore](https://open.spotify.com/track/0l23nMoeK4HPSsZbunDVwD) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Just One Of Those Things](https://open.spotify.com/album/0wYaQk0w9V8wD5rYgAGLek) | 3:12 | 2024-07-12 | 2024-07-20 |

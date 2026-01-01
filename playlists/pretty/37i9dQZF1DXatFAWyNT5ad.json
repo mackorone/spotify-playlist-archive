@@ -1,6 +1,6 @@
 {
   "description": "Let's mix it.",
-  "num_followers": 151592,
+  "num_followers": 151597,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -619,22 +619,6 @@
     {
       "added_at": "2025-12-09 20:34:50",
       "album": {
-        "name": "Punching Bag",
-        "url": "https://open.spotify.com/album/4KmzB82Fr509bPq87gG1QS"
-      },
-      "artists": [
-        {
-          "name": "Set It Off",
-          "url": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
-        }
-      ],
-      "duration_ms": 179482,
-      "name": "Punching Bag",
-      "url": "https://open.spotify.com/track/7fudux10sVIxILOocZaHrW"
-    },
-    {
-      "added_at": "2025-12-09 20:34:50",
-      "album": {
         "name": "Hate This Song",
         "url": "https://open.spotify.com/album/2aq4k4OA1jfupRu9eWYRMA"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 175693,
       "name": "Hate This Song",
       "url": "https://open.spotify.com/track/3keius8Oa84Xwul5LdvO1c"
+    },
+    {
+      "added_at": "2025-12-09 20:34:50",
+      "album": {
+        "name": "Punching Bag",
+        "url": "https://open.spotify.com/album/4KmzB82Fr509bPq87gG1QS"
+      },
+      "artists": [
+        {
+          "name": "Set It Off",
+          "url": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
+        }
+      ],
+      "duration_ms": 179482,
+      "name": "Punching Bag",
+      "url": "https://open.spotify.com/track/7fudux10sVIxILOocZaHrW"
     },
     {
       "added_at": "2025-12-09 20:34:50",
@@ -687,22 +687,6 @@
     {
       "added_at": "2025-12-09 20:34:50",
       "album": {
-        "name": "K.O.",
-        "url": "https://open.spotify.com/album/0keyZeyshU2953FCfoQAq3"
-      },
-      "artists": [
-        {
-          "name": "Haiden Henderson",
-          "url": "https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p"
-        }
-      ],
-      "duration_ms": 128323,
-      "name": "K.O.",
-      "url": "https://open.spotify.com/track/0SbcrlSSBXJUnm1cT4E4GQ"
-    },
-    {
-      "added_at": "2025-12-09 20:34:50",
-      "album": {
         "name": "Love Sux",
         "url": "https://open.spotify.com/album/7hH7rqTATIJ9DaYwWEdNLb"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 163321,
       "name": "Bois Lie (feat. Machine Gun Kelly)",
       "url": "https://open.spotify.com/track/2lHktSigIAZqf7BkA7NRS7"
+    },
+    {
+      "added_at": "2025-12-09 20:34:50",
+      "album": {
+        "name": "K.O.",
+        "url": "https://open.spotify.com/album/0keyZeyshU2953FCfoQAq3"
+      },
+      "artists": [
+        {
+          "name": "Haiden Henderson",
+          "url": "https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p"
+        }
+      ],
+      "duration_ms": 128323,
+      "name": "K.O.",
+      "url": "https://open.spotify.com/track/0SbcrlSSBXJUnm1cT4E4GQ"
     },
     {
       "added_at": "2025-12-09 20:34:50",
@@ -795,26 +795,6 @@
     {
       "added_at": "2025-12-09 20:34:50",
       "album": {
-        "name": "I\u2019m a Mess (with YUNGBLUD)",
-        "url": "https://open.spotify.com/album/7kpLyQOiE4j9bNCZhKvWBr"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        },
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 187793,
-      "name": "I\u2019m a Mess (with YUNGBLUD)",
-      "url": "https://open.spotify.com/track/1yvArCvZLTHiawRdWKSAWj"
-    },
-    {
-      "added_at": "2025-12-09 20:34:50",
-      "album": {
         "name": "Cobra (Rock Remix) [feat. Spiritbox]",
         "url": "https://open.spotify.com/album/30DntygbtMJmhmSFr8ZY5Y"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 179573,
       "name": "I Want To Be With You",
       "url": "https://open.spotify.com/track/4LK36kV9w3KBD2GYL26ZBq"
+    },
+    {
+      "added_at": "2025-12-09 20:34:50",
+      "album": {
+        "name": "I\u2019m a Mess (with YUNGBLUD)",
+        "url": "https://open.spotify.com/album/7kpLyQOiE4j9bNCZhKvWBr"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        },
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 187793,
+      "name": "I\u2019m a Mess (with YUNGBLUD)",
+      "url": "https://open.spotify.com/track/1yvArCvZLTHiawRdWKSAWj"
     },
     {
       "added_at": "2025-12-09 20:34:50",
@@ -923,22 +923,6 @@
     {
       "added_at": "2025-12-09 20:34:50",
       "album": {
-        "name": "The Weather",
-        "url": "https://open.spotify.com/album/2Av6fhlES4W5HZw9ZmGtS9"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 171553,
-      "name": "The Weather",
-      "url": "https://open.spotify.com/track/4vggwi9dH7e9pGFIgKqzQS"
-    },
-    {
-      "added_at": "2025-12-09 20:34:50",
-      "album": {
         "name": "Cinderella Snapped",
         "url": "https://open.spotify.com/album/7iUDdeaEqO2asWLp8zPE3n"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 173103,
       "name": "Cinderella Snapped",
       "url": "https://open.spotify.com/track/3udCid1W2whR6CQrVpsKUh"
+    },
+    {
+      "added_at": "2025-12-09 20:34:50",
+      "album": {
+        "name": "The Weather",
+        "url": "https://open.spotify.com/album/2Av6fhlES4W5HZw9ZmGtS9"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 171553,
+      "name": "The Weather",
+      "url": "https://open.spotify.com/track/4vggwi9dH7e9pGFIgKqzQS"
     },
     {
       "added_at": "2025-12-09 20:34:50",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2025-12-09 20:34:50",
       "album": {
-        "name": "The Fray Is Back",
-        "url": "https://open.spotify.com/album/3YQ639IRsD9CTztmDYWASq"
-      },
-      "artists": [
-        {
-          "name": "The Fray",
-          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
-        }
-      ],
-      "duration_ms": 199866,
-      "name": "Known You Always",
-      "url": "https://open.spotify.com/track/51AGU6apDBbI0fCfzsPbkh"
-    },
-    {
-      "added_at": "2025-12-09 20:34:50",
-      "album": {
         "name": "You Need Me Now? (feat. Sabrina Carpenter)",
         "url": "https://open.spotify.com/album/26H0jinpdi0RSrZq90fNMF"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 186377,
       "name": "You Need Me Now? (feat. Sabrina Carpenter)",
       "url": "https://open.spotify.com/track/3zPGZBbZEGqu7eY7R0NkqI"
+    },
+    {
+      "added_at": "2025-12-09 20:34:50",
+      "album": {
+        "name": "The Fray Is Back",
+        "url": "https://open.spotify.com/album/3YQ639IRsD9CTztmDYWASq"
+      },
+      "artists": [
+        {
+          "name": "The Fray",
+          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
+        }
+      ],
+      "duration_ms": 199866,
+      "name": "Known You Always",
+      "url": "https://open.spotify.com/track/51AGU6apDBbI0fCfzsPbkh"
     },
     {
       "added_at": "2025-12-09 20:34:50",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2025-12-09 20:34:50",
       "album": {
-        "name": "Goodbye, Good Riddance",
-        "url": "https://open.spotify.com/album/7kNeCQU1M0MfMgzmMzUHSG"
-      },
-      "artists": [
-        {
-          "name": "Taylor Acorn",
-          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
-        }
-      ],
-      "duration_ms": 159275,
-      "name": "Goodbye, Good Riddance",
-      "url": "https://open.spotify.com/track/1a3oI1RM3moGA6LKN4D6fo"
-    },
-    {
-      "added_at": "2025-12-09 20:34:50",
-      "album": {
         "name": "Strangers",
         "url": "https://open.spotify.com/album/0RapZmQPdoPuqODNb03SaX"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 171349,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/5pOnmZnc4FsF9e04Etv5X3"
+    },
+    {
+      "added_at": "2025-12-09 20:34:50",
+      "album": {
+        "name": "Goodbye, Good Riddance",
+        "url": "https://open.spotify.com/album/7kNeCQU1M0MfMgzmMzUHSG"
+      },
+      "artists": [
+        {
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        }
+      ],
+      "duration_ms": 159275,
+      "name": "Goodbye, Good Riddance",
+      "url": "https://open.spotify.com/track/1a3oI1RM3moGA6LKN4D6fo"
     },
     {
       "added_at": "2025-12-09 20:34:50",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2025-12-09 20:34:50",
       "album": {
-        "name": "Crashing Out",
-        "url": "https://open.spotify.com/album/6udajFqjOweuBuWeRkfpQA"
-      },
-      "artists": [
-        {
-          "name": "Taylor Acorn",
-          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
-        }
-      ],
-      "duration_ms": 215518,
-      "name": "Crashing Out",
-      "url": "https://open.spotify.com/track/3FYnfTHQybL7NDMNM1A02N"
-    },
-    {
-      "added_at": "2025-12-09 20:34:50",
-      "album": {
         "name": "BANG BANG!",
         "url": "https://open.spotify.com/album/4YmjnqegnwZ18ruZjdJsIH"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 136387,
       "name": "BANG BANG!",
       "url": "https://open.spotify.com/track/2YiQL9Aa4PmGF8oMFADzzA"
+    },
+    {
+      "added_at": "2025-12-09 20:34:50",
+      "album": {
+        "name": "Crashing Out",
+        "url": "https://open.spotify.com/album/6udajFqjOweuBuWeRkfpQA"
+      },
+      "artists": [
+        {
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        }
+      ],
+      "duration_ms": 215518,
+      "name": "Crashing Out",
+      "url": "https://open.spotify.com/track/3FYnfTHQybL7NDMNM1A02N"
     },
     {
       "added_at": "2025-12-09 20:34:50",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2025-12-09 20:34:50",
       "album": {
-        "name": "My Heart's A Crowded Room",
-        "url": "https://open.spotify.com/album/1xUibDNIkBquUUX6Tou9S0"
-      },
-      "artists": [
-        {
-          "name": "The Fray",
-          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
-        }
-      ],
-      "duration_ms": 185800,
-      "name": "My Heart's A Crowded Room",
-      "url": "https://open.spotify.com/track/1upx2CHNbauM1Fa9EdPlze"
-    },
-    {
-      "added_at": "2025-12-09 20:34:50",
-      "album": {
         "name": "JUMP!",
         "url": "https://open.spotify.com/album/6IJQx7e2CdRtZ4VN5QvoSD"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 194928,
       "name": "JUMP!",
       "url": "https://open.spotify.com/track/3XfqHrrVnG4BI2XAOaYiim"
+    },
+    {
+      "added_at": "2025-12-09 20:34:50",
+      "album": {
+        "name": "My Heart's A Crowded Room",
+        "url": "https://open.spotify.com/album/1xUibDNIkBquUUX6Tou9S0"
+      },
+      "artists": [
+        {
+          "name": "The Fray",
+          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
+        }
+      ],
+      "duration_ms": 185800,
+      "name": "My Heart's A Crowded Room",
+      "url": "https://open.spotify.com/track/1upx2CHNbauM1Fa9EdPlze"
     },
     {
       "added_at": "2025-12-09 20:34:50",
@@ -1691,18 +1691,22 @@
     {
       "added_at": "2025-12-09 20:34:50",
       "album": {
-        "name": "BETTER",
-        "url": "https://open.spotify.com/album/7knkjF5GXG1IkTniG5o7Qy"
+        "name": "kinda smacks",
+        "url": "https://open.spotify.com/album/09Aw6tRqufmeBbVjR5kHrm"
       },
       "artists": [
         {
-          "name": "People R Ugly",
-          "url": "https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI"
+          "name": "Royal & the Serpent",
+          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
+        },
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
         }
       ],
-      "duration_ms": 155668,
-      "name": "BETTER",
-      "url": "https://open.spotify.com/track/1Je9meCzTUNxJ8t2tG6x2E"
+      "duration_ms": 136601,
+      "name": "kinda smacks",
+      "url": "https://open.spotify.com/track/4cwi0Yd3pq1GfvHj7FLMdn"
     },
     {
       "added_at": "2025-12-09 20:34:50",
@@ -1723,22 +1727,18 @@
     {
       "added_at": "2025-12-09 20:34:50",
       "album": {
-        "name": "kinda smacks",
-        "url": "https://open.spotify.com/album/09Aw6tRqufmeBbVjR5kHrm"
+        "name": "BETTER",
+        "url": "https://open.spotify.com/album/7knkjF5GXG1IkTniG5o7Qy"
       },
       "artists": [
         {
-          "name": "Royal & the Serpent",
-          "url": "https://open.spotify.com/artist/64EHXDoln95lnccszdPum0"
-        },
-        {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+          "name": "People R Ugly",
+          "url": "https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI"
         }
       ],
-      "duration_ms": 136601,
-      "name": "kinda smacks",
-      "url": "https://open.spotify.com/track/4cwi0Yd3pq1GfvHj7FLMdn"
+      "duration_ms": 155668,
+      "name": "BETTER",
+      "url": "https://open.spotify.com/track/1Je9meCzTUNxJ8t2tG6x2E"
     },
     {
       "added_at": "2025-12-09 20:34:50",
@@ -1771,22 +1771,6 @@
       "duration_ms": 192748,
       "name": "Alive",
       "url": "https://open.spotify.com/track/2KoE7jhmorIAAqxBh3K7FI"
-    },
-    {
-      "added_at": "2025-12-09 20:34:50",
-      "album": {
-        "name": "GARAGE",
-        "url": "https://open.spotify.com/album/5d1CpByfQ3zqbOSmbIPafo"
-      },
-      "artists": [
-        {
-          "name": "People R Ugly",
-          "url": "https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI"
-        }
-      ],
-      "duration_ms": 185816,
-      "name": "SLEEP TALKING",
-      "url": "https://open.spotify.com/track/1PoW3zFUUN8vGwXo7ihYPj"
     },
     {
       "added_at": "2025-12-09 20:34:50",
@@ -1855,6 +1839,22 @@
     {
       "added_at": "2025-12-09 20:34:50",
       "album": {
+        "name": "The Hart",
+        "url": "https://open.spotify.com/album/1Z6lchat5qLy21WkX31mr4"
+      },
+      "artists": [
+        {
+          "name": "Grayscale",
+          "url": "https://open.spotify.com/artist/6Xq9CIMYWK4RCrMVtfEOM0"
+        }
+      ],
+      "duration_ms": 220096,
+      "name": "Through The Landslide",
+      "url": "https://open.spotify.com/track/0DxV45nzqlQZjMzbHGdz1Q"
+    },
+    {
+      "added_at": "2025-12-09 20:34:50",
+      "album": {
         "name": "Communicating",
         "url": "https://open.spotify.com/album/5H1cgSVYz8sTHlNVO1jx2t"
       },
@@ -1871,18 +1871,18 @@
     {
       "added_at": "2025-12-09 20:34:50",
       "album": {
-        "name": "The Hart",
-        "url": "https://open.spotify.com/album/1Z6lchat5qLy21WkX31mr4"
+        "name": "GARAGE",
+        "url": "https://open.spotify.com/album/5d1CpByfQ3zqbOSmbIPafo"
       },
       "artists": [
         {
-          "name": "Grayscale",
-          "url": "https://open.spotify.com/artist/6Xq9CIMYWK4RCrMVtfEOM0"
+          "name": "People R Ugly",
+          "url": "https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI"
         }
       ],
-      "duration_ms": 220096,
-      "name": "Through The Landslide",
-      "url": "https://open.spotify.com/track/0DxV45nzqlQZjMzbHGdz1Q"
+      "duration_ms": 185816,
+      "name": "SLEEP TALKING",
+      "url": "https://open.spotify.com/track/1PoW3zFUUN8vGwXo7ihYPj"
     },
     {
       "added_at": "2025-12-09 20:34:50",
@@ -2379,22 +2379,6 @@
     {
       "added_at": "2025-12-09 20:34:50",
       "album": {
-        "name": "Recipe For Disaster",
-        "url": "https://open.spotify.com/album/1liqqWx9tt0WutjfuZXR4v"
-      },
-      "artists": [
-        {
-          "name": "Honey Revenge",
-          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
-        }
-      ],
-      "duration_ms": 165971,
-      "name": "Recipe For Disaster",
-      "url": "https://open.spotify.com/track/4S3CGPuEmleAmk36HLa5Lj"
-    },
-    {
-      "added_at": "2025-12-09 20:34:50",
-      "album": {
         "name": "Red Lights / Ireland",
         "url": "https://open.spotify.com/album/0ZdqmeEBsKCsHbOp6ovtBR"
       },
@@ -2407,6 +2391,22 @@
       "duration_ms": 147000,
       "name": "Red Lights",
       "url": "https://open.spotify.com/track/4AII0LddlsmuLEWBDRXurl"
+    },
+    {
+      "added_at": "2025-12-09 20:34:50",
+      "album": {
+        "name": "Recipe For Disaster",
+        "url": "https://open.spotify.com/album/1liqqWx9tt0WutjfuZXR4v"
+      },
+      "artists": [
+        {
+          "name": "Honey Revenge",
+          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
+        }
+      ],
+      "duration_ms": 165971,
+      "name": "Recipe For Disaster",
+      "url": "https://open.spotify.com/track/4S3CGPuEmleAmk36HLa5Lj"
     },
     {
       "added_at": "2025-12-09 20:34:50",
@@ -2463,22 +2463,6 @@
     {
       "added_at": "2025-12-09 20:34:50",
       "album": {
-        "name": "Inner Love Energy",
-        "url": "https://open.spotify.com/album/5oWvNTQdhL9lVri1H5RAkT"
-      },
-      "artists": [
-        {
-          "name": "MAGIC!",
-          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
-        }
-      ],
-      "duration_ms": 186670,
-      "name": "Good Feeling About You",
-      "url": "https://open.spotify.com/track/7DswNRplVsp4Liu5lP85lj"
-    },
-    {
-      "added_at": "2025-12-09 20:34:50",
-      "album": {
         "name": "2016 CAVALIERS (Ohio) (feat. Knox)",
         "url": "https://open.spotify.com/album/7E9rdvLTWHLxkk1dg3tZno"
       },
@@ -2499,22 +2483,18 @@
     {
       "added_at": "2025-12-09 20:34:50",
       "album": {
-        "name": "june",
-        "url": "https://open.spotify.com/album/3mtccJISwpBDKW1kUnrYVz"
+        "name": "Inner Love Energy",
+        "url": "https://open.spotify.com/album/5oWvNTQdhL9lVri1H5RAkT"
       },
       "artists": [
         {
-          "name": "DE'WAYNE",
-          "url": "https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O"
-        },
-        {
-          "name": "I DONT KNOW HOW BUT THEY FOUND ME",
-          "url": "https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR"
+          "name": "MAGIC!",
+          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
         }
       ],
-      "duration_ms": 184666,
-      "name": "forever [Feat. I DONT KNOW HOW BUT THEY FOUND ME]",
-      "url": "https://open.spotify.com/track/5zQrhijrekxsDuAYzxpU0B"
+      "duration_ms": 186670,
+      "name": "Good Feeling About You",
+      "url": "https://open.spotify.com/track/7DswNRplVsp4Liu5lP85lj"
     },
     {
       "added_at": "2025-12-09 20:34:50",
@@ -2531,6 +2511,26 @@
       "duration_ms": 188000,
       "name": "If Looks Could Kill",
       "url": "https://open.spotify.com/track/1gZh9faxR4LZepKZzpxAsw"
+    },
+    {
+      "added_at": "2025-12-09 20:34:50",
+      "album": {
+        "name": "june",
+        "url": "https://open.spotify.com/album/3mtccJISwpBDKW1kUnrYVz"
+      },
+      "artists": [
+        {
+          "name": "DE'WAYNE",
+          "url": "https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O"
+        },
+        {
+          "name": "I DONT KNOW HOW BUT THEY FOUND ME",
+          "url": "https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR"
+        }
+      ],
+      "duration_ms": 184666,
+      "name": "forever [Feat. I DONT KNOW HOW BUT THEY FOUND ME]",
+      "url": "https://open.spotify.com/track/5zQrhijrekxsDuAYzxpU0B"
     },
     {
       "added_at": "2025-12-09 20:34:50",

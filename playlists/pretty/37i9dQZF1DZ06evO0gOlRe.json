@@ -1,12 +1,12 @@
 {
   "description": "This is Alexander Stewart. The essential tracks, all in one playlist.",
-  "num_followers": 35853,
+  "num_followers": 35856,
   "original_name": "This Is Alexander Stewart",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVHEgAAAAACVIAz9tq3i6vGTGJjWEm1w",
+  "snapshot_id": "aVMWAAAAAAAHroclTeN2KV09ak9dZ4kG",
   "tracks": [
     {
       "added_at": null,
@@ -147,6 +147,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Halo",
+        "url": "https://open.spotify.com/album/2dh9A1fIhtW9ggbd1nvDTL"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 161430,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/2hm2rOLMUE0O9Zvsp9mISa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Scared of Myself",
         "url": "https://open.spotify.com/album/6rHizPeJ2LhsHjCI6jv4Ha"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 198400,
       "name": "Scared of Myself",
       "url": "https://open.spotify.com/track/5VbDVHAwEj0rHyQe1PwGTe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Here Again",
-        "url": "https://open.spotify.com/album/6nQqcSZTqkVmCLJ7OAbZiP"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 165533,
-      "name": "Here Again",
-      "url": "https://open.spotify.com/track/7jPJda9RNx6cD5VhsIgGa7"
     },
     {
       "added_at": null,
@@ -195,8 +195,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Halo",
-        "url": "https://open.spotify.com/album/2dh9A1fIhtW9ggbd1nvDTL"
+        "name": "Here Again",
+        "url": "https://open.spotify.com/album/6nQqcSZTqkVmCLJ7OAbZiP"
       },
       "artists": [
         {
@@ -204,9 +204,9 @@
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 161430,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/2hm2rOLMUE0O9Zvsp9mISa"
+      "duration_ms": 165533,
+      "name": "Here Again",
+      "url": "https://open.spotify.com/track/7jPJda9RNx6cD5VhsIgGa7"
     },
     {
       "added_at": null,
@@ -455,6 +455,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Backwards",
+        "url": "https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 232340,
+      "name": "Best Damn Thing",
+      "url": "https://open.spotify.com/track/6i71yrjuQ9f1zUSVfEChem"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "birthday cake (duet)",
         "url": "https://open.spotify.com/album/78CzILlKk9yPskjMLtHTPs"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 205280,
       "name": "birthday cake - duet",
       "url": "https://open.spotify.com/track/3Tp79U6sWi6yRywJI3BBsP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Backwards",
-        "url": "https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 232340,
-      "name": "Best Damn Thing",
-      "url": "https://open.spotify.com/track/6i71yrjuQ9f1zUSVfEChem"
     },
     {
       "added_at": null,

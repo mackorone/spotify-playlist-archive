@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > we love you Danny Brown 🌸
 
-[Spotify](https://open.spotify.com/user/spotify) - 487,862 likes - 198 songs - 9 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 487,934 likes - 198 songs - 9 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

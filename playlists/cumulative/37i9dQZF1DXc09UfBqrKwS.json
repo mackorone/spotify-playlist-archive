@@ -3551,6 +3551,24 @@
     },
     {
       "album": {
+        "name": "Different Worlds",
+        "url": "https://open.spotify.com/album/27xnNVop1EWk8bByr70r4o"
+      },
+      "artists": [
+        {
+          "name": "Aether Deem",
+          "url": "https://open.spotify.com/artist/38RiqzbbLOb7GIVzcEcmy4"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Different Worlds",
+      "url": "https://open.spotify.com/track/7csZm64U1maWUQH4qNbayP"
+    },
+    {
+      "album": {
         "name": "Dignidade",
         "url": "https://open.spotify.com/album/7Mj0vlM6puwKWqOe05UIr4"
       },
@@ -3764,6 +3782,24 @@
       "duration_ms": 180750,
       "name": "Dream Prelude",
       "url": "https://open.spotify.com/track/16APbZysrMuvYvrfcvCZye"
+    },
+    {
+      "album": {
+        "name": "Dream Stone",
+        "url": "https://open.spotify.com/album/4fBb5PmIesNKFgxUGs1Fpd"
+      },
+      "artists": [
+        {
+          "name": "Gjenklang",
+          "url": "https://open.spotify.com/artist/0tdUnUmJpBYAnf128MpI23"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168902,
+      "name": "Dream Stone",
+      "url": "https://open.spotify.com/track/3OC0kXFP462abPuXQAjJtL"
     },
     {
       "album": {
@@ -6118,7 +6154,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-01",
       "duration_ms": 181301,
       "name": "Golden",
       "url": "https://open.spotify.com/track/6B8R0Wy5pycqH0yKfHatfe"
@@ -11630,7 +11666,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-01",
       "duration_ms": 142500,
       "name": "Seraphic",
       "url": "https://open.spotify.com/track/1b7z2LtX0p9R1gNNY5RxtP"
@@ -13625,6 +13661,24 @@
     },
     {
       "album": {
+        "name": "The fading light",
+        "url": "https://open.spotify.com/album/3MlZnhZulcMGSZ4zXLIwqL"
+      },
+      "artists": [
+        {
+          "name": "Hazel Day",
+          "url": "https://open.spotify.com/artist/4UwrBrYrSp2qXLwXWGc57Q"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162521,
+      "name": "The fading light",
+      "url": "https://open.spotify.com/track/3KzpZlLEwHHEYuoYj1xww7"
+    },
+    {
+      "album": {
         "name": "The Free Air",
         "url": "https://open.spotify.com/album/2xxUugRqE6aPAwjJsXzmgW"
       },
@@ -14166,7 +14220,7 @@
       ],
       "date_added": "2025-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-01",
       "duration_ms": 168200,
       "name": "Turiya",
       "url": "https://open.spotify.com/track/5XNkokCLFOgQxFN6dFrbfW"

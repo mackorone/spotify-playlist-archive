@@ -1,12 +1,12 @@
 {
   "description": "This is Sophie Ellis-Bextor. The essential tracks, all in one playlist.",
-  "num_followers": 20523,
+  "num_followers": 20526,
   "original_name": "This Is Sophie Ellis-Bextor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVHEgAAAAABqLCmCuWcrhV06UYwmYmAN",
+  "snapshot_id": "aVMWAAAAAADcI2mgRe4QxL/Tz9DD3Nw7",
   "tracks": [
     {
       "added_at": null,
@@ -339,26 +339,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Disco Crash",
-        "url": "https://open.spotify.com/album/3LHVWngujWfU3TVo6b7Ttv"
+        "name": "The Crown Jewels - Ten Crowns (DELUXE)",
+        "url": "https://open.spotify.com/album/424ucCJYFDFZxz5icFVk2R"
       },
       "artists": [
         {
-          "name": "Bob Sinclar",
-          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+          "name": "Andy Bell",
+          "url": "https://open.spotify.com/artist/3FTxQTEzrX6tcJYSlsdUle"
         },
         {
           "name": "Sophie Ellis-Bextor",
           "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        },
-        {
-          "name": "Gilbere Fort\u00e9",
-          "url": "https://open.spotify.com/artist/6w9oNSpsNuLOwu2XVbQPGK"
         }
       ],
-      "duration_ms": 191118,
-      "name": "Fuck With You",
-      "url": "https://open.spotify.com/track/7kkhw4WZCSQO2RiC5HpmDG"
+      "duration_ms": 204519,
+      "name": "The Calming",
+      "url": "https://open.spotify.com/track/7JqPicp7t2SgXngVUuihtF"
     },
     {
       "added_at": null,
@@ -379,22 +375,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Crown Jewels - Ten Crowns (DELUXE)",
-        "url": "https://open.spotify.com/album/424ucCJYFDFZxz5icFVk2R"
+        "name": "Disco Crash",
+        "url": "https://open.spotify.com/album/3LHVWngujWfU3TVo6b7Ttv"
       },
       "artists": [
         {
-          "name": "Andy Bell",
-          "url": "https://open.spotify.com/artist/3FTxQTEzrX6tcJYSlsdUle"
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
         },
         {
           "name": "Sophie Ellis-Bextor",
           "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        },
+        {
+          "name": "Gilbere Fort\u00e9",
+          "url": "https://open.spotify.com/artist/6w9oNSpsNuLOwu2XVbQPGK"
         }
       ],
-      "duration_ms": 204519,
-      "name": "The Calming",
-      "url": "https://open.spotify.com/track/7JqPicp7t2SgXngVUuihtF"
+      "duration_ms": 191118,
+      "name": "Fuck With You",
+      "url": "https://open.spotify.com/track/7kkhw4WZCSQO2RiC5HpmDG"
     },
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Make a Scene",
-        "url": "https://open.spotify.com/album/44CSNV2cfDftmXosTXfwI0"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 211812,
-      "name": "Off & On",
-      "url": "https://open.spotify.com/track/4nGknlKl2vIymvVOs7TOBZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wanderlust",
         "url": "https://open.spotify.com/album/1QRg5Llo9R1M6eslFyH4gO"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 268213,
       "name": "Young Blood",
       "url": "https://open.spotify.com/track/26wfj0NDkkO2NIx1jPplPA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Make a Scene",
+        "url": "https://open.spotify.com/album/44CSNV2cfDftmXosTXfwI0"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 211812,
+      "name": "Off & On",
+      "url": "https://open.spotify.com/track/4nGknlKl2vIymvVOs7TOBZ"
     },
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Make a Scene",
-        "url": "https://open.spotify.com/album/44CSNV2cfDftmXosTXfwI0"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 259583,
-      "name": "Starlight",
-      "url": "https://open.spotify.com/track/2GkquduIKdU8FrsPugJ4Ob"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Read My Lips (Deluxe Version)",
         "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 265186,
       "name": "Is It Any Wonder",
       "url": "https://open.spotify.com/track/1gbDVb8GzhAL7TOZ5HeLeU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Make a Scene",
+        "url": "https://open.spotify.com/album/44CSNV2cfDftmXosTXfwI0"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 259583,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/2GkquduIKdU8FrsPugJ4Ob"
     },
     {
       "added_at": null,
@@ -675,6 +675,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Familia",
+        "url": "https://open.spotify.com/album/3bgZkDAYzYAcKTAvGfOBc6"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 234613,
+      "name": "Come with Us",
+      "url": "https://open.spotify.com/track/43n5mksAK5DmDSRnuv6hVV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Only Child",
         "url": "https://open.spotify.com/album/5eWXw9T1dhm982KAjqh2WB"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 225000,
       "name": "Only Child - Atlantic Remix",
       "url": "https://open.spotify.com/track/3ctNp68FT0mcCQA7sgT5V1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Familia",
-        "url": "https://open.spotify.com/album/3bgZkDAYzYAcKTAvGfOBc6"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 234613,
-      "name": "Come with Us",
-      "url": "https://open.spotify.com/track/43n5mksAK5DmDSRnuv6hVV"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trip The Light Fantastic",
-        "url": "https://open.spotify.com/album/7GYv8e5KITGMiVAz64BLbw"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 222466,
-      "name": "China Heart",
-      "url": "https://open.spotify.com/track/1PggUiqeneTerNpJ3nAa4A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HANA",
         "url": "https://open.spotify.com/album/4Gm8SAIYcUiN3KA72ESlbg"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 201786,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/2np4WdbdOjxmm3gByJQnj4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trip The Light Fantastic",
+        "url": "https://open.spotify.com/album/7GYv8e5KITGMiVAz64BLbw"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 222466,
+      "name": "China Heart",
+      "url": "https://open.spotify.com/track/1PggUiqeneTerNpJ3nAa4A"
     },
     {
       "added_at": null,
@@ -811,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trip The Light Fantastic",
-        "url": "https://open.spotify.com/album/7GYv8e5KITGMiVAz64BLbw"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 205920,
-      "name": "If You Go",
-      "url": "https://open.spotify.com/track/3mEDGZg2CrS748sYTeha6N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "While You're Still Young (From ''Everybody's Talking About Jamie'')",
         "url": "https://open.spotify.com/album/4EJNd5H3wQlvA0TFwDXQIA"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 183266,
       "name": "While You're Still Young - From ''Everybody's Talking About Jamie''",
       "url": "https://open.spotify.com/track/3y9X7WbtxkgzYnzBFzFXrf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trip The Light Fantastic",
+        "url": "https://open.spotify.com/album/7GYv8e5KITGMiVAz64BLbw"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 205920,
+      "name": "If You Go",
+      "url": "https://open.spotify.com/track/3mEDGZg2CrS748sYTeha6N"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Keep calm with this mix of laidback, acoustic tracks.",
-  "num_followers": 2161944,
+  "num_followers": 2161755,
   "original_name": "Acoustic Chill",
   "owner": {
     "name": "Spotify",
@@ -819,6 +819,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "An Alien in Minneapolis",
+        "url": "https://open.spotify.com/album/0v6BWLBbaTRtVIC2d09Jmk"
+      },
+      "artists": [
+        {
+          "name": "Ondara",
+          "url": "https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W"
+        }
+      ],
+      "duration_ms": 259607,
+      "name": "An Alien In Minneapolis - Edit",
+      "url": "https://open.spotify.com/track/5YhOK0XMfjtW5L42FODqzK"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "What A Relief",
         "url": "https://open.spotify.com/album/63ZainyDDxb0MQ73Q8IyXZ"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 182110,
       "name": "As Good As It Gets",
       "url": "https://open.spotify.com/track/5O67j68tABBNPnVWrS9TWN"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "An Alien in Minneapolis",
-        "url": "https://open.spotify.com/album/0v6BWLBbaTRtVIC2d09Jmk"
-      },
-      "artists": [
-        {
-          "name": "Ondara",
-          "url": "https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W"
-        }
-      ],
-      "duration_ms": 259607,
-      "name": "An Alien In Minneapolis - Edit",
-      "url": "https://open.spotify.com/track/5YhOK0XMfjtW5L42FODqzK"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0YneOS1OMqNFfnOTtccqwv"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 304226,
-      "name": "Emmylou - Spotify Sessions",
-      "url": "https://open.spotify.com/track/7exdcu9SmgcrZ7hW9ZdcYo"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Dual",
         "url": "https://open.spotify.com/album/4vCwbb8M7HVTPGrDGsTYh4"
       },
@@ -959,6 +943,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0YneOS1OMqNFfnOTtccqwv"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 304226,
+      "name": "Emmylou - Spotify Sessions",
+      "url": "https://open.spotify.com/track/7exdcu9SmgcrZ7hW9ZdcYo"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "Golden (Acoustic)",
         "url": "https://open.spotify.com/album/1UNOe4qTfiSoUNVtFKQ5br"
       },
@@ -971,22 +971,6 @@
       "duration_ms": 307312,
       "name": "Golden (Acoustic)",
       "url": "https://open.spotify.com/track/3tsrOkDmaJg60XJMkEmYpp"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Th\u00e9r\u00e8se",
-        "url": "https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT"
-      },
-      "artists": [
-        {
-          "name": "Maya Hawke",
-          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
-        }
-      ],
-      "duration_ms": 207389,
-      "name": "Th\u00e9r\u00e8se",
-      "url": "https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1039,6 +1023,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "Th\u00e9r\u00e8se",
+        "url": "https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT"
+      },
+      "artists": [
+        {
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+        }
+      ],
+      "duration_ms": 207389,
+      "name": "Th\u00e9r\u00e8se",
+      "url": "https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "Purple Haze",
         "url": "https://open.spotify.com/album/6bGTNWW6F8AMqNhBrGjJgm"
       },
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Seed of a Seed",
-        "url": "https://open.spotify.com/album/5WjjIOn40MG9kLfaeHBS5a"
-      },
-      "artists": [
-        {
-          "name": "Haley Heynderickx",
-          "url": "https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X"
-        }
-      ],
-      "duration_ms": 257904,
-      "name": "Mouth of a Flower",
-      "url": "https://open.spotify.com/track/0rHsI1XMHFqORFBxjzgDP5"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Dead & Born & Grown",
         "url": "https://open.spotify.com/album/1IR46DEVTDB30vPKMIA6L9"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 246413,
       "name": "Mexico",
       "url": "https://open.spotify.com/track/6x7oPOBrfsqx9WbON5X1go"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Seed of a Seed",
+        "url": "https://open.spotify.com/album/5WjjIOn40MG9kLfaeHBS5a"
+      },
+      "artists": [
+        {
+          "name": "Haley Heynderickx",
+          "url": "https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X"
+        }
+      ],
+      "duration_ms": 257904,
+      "name": "Mouth of a Flower",
+      "url": "https://open.spotify.com/track/0rHsI1XMHFqORFBxjzgDP5"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "Asphalt Meadows (Acoustic)",
+        "url": "https://open.spotify.com/album/6hRYTGSMlOgLU4KxcHFMJK"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "duration_ms": 167022,
+      "name": "I Miss Strangers - Acoustic",
+      "url": "https://open.spotify.com/track/53LueuvPEMgEZLzVfssBwJ"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "Chiaroscuro",
         "url": "https://open.spotify.com/album/5atmHcN5ky3QHDN74C5DE4"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 296000,
       "name": "New Order T-Shirt",
       "url": "https://open.spotify.com/track/6bVQ9ygrzZj9B7Z5hLB1bk"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Asphalt Meadows (Acoustic)",
-        "url": "https://open.spotify.com/album/6hRYTGSMlOgLU4KxcHFMJK"
-      },
-      "artists": [
-        {
-          "name": "Death Cab for Cutie",
-          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
-        }
-      ],
-      "duration_ms": 167022,
-      "name": "I Miss Strangers - Acoustic",
-      "url": "https://open.spotify.com/track/53LueuvPEMgEZLzVfssBwJ"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3r2nsltTqzo00OsH4aty5a"
-      },
-      "artists": [
-        {
-          "name": "I'm With Her",
-          "url": "https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr"
-        }
-      ],
-      "duration_ms": 180581,
-      "name": "I-89 - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5ou4c3qI8EvtpwsvYIM4L4"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
         "name": "Luck Mansion Sessions",
         "url": "https://open.spotify.com/album/72sVXC5BzvjO9WFaebpK1c"
       },
@@ -1743,6 +1727,38 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3r2nsltTqzo00OsH4aty5a"
+      },
+      "artists": [
+        {
+          "name": "I'm With Her",
+          "url": "https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr"
+        }
+      ],
+      "duration_ms": 180581,
+      "name": "I-89 - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5ou4c3qI8EvtpwsvYIM4L4"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "River",
+        "url": "https://open.spotify.com/album/3mwl5ZDO95E4v1iJJkQhux"
+      },
+      "artists": [
+        {
+          "name": "Soll",
+          "url": "https://open.spotify.com/artist/1YubAuqQvdqZ42SZpBPii1"
+        }
+      ],
+      "duration_ms": 243776,
+      "name": "River",
+      "url": "https://open.spotify.com/track/73VzzfuoQ6CxBQ9TtVhJKa"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "call me when u get home (acoustic)",
         "url": "https://open.spotify.com/album/2AkstuR3cQ5RGus5nK8hnF"
       },
@@ -1755,22 +1771,6 @@
       "duration_ms": 196391,
       "name": "call me when u get home - acoustic",
       "url": "https://open.spotify.com/track/2PheVaKE7Dd7qY0NAD4VBr"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Cherie",
-        "url": "https://open.spotify.com/album/4Au5ndqAZDgpPJZUIWBslg"
-      },
-      "artists": [
-        {
-          "name": "Brandon",
-          "url": "https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265"
-        }
-      ],
-      "duration_ms": 205536,
-      "name": "Cherie",
-      "url": "https://open.spotify.com/track/6vhrwbHQjl4klPXlPLnar4"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1791,18 +1791,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "River",
-        "url": "https://open.spotify.com/album/3mwl5ZDO95E4v1iJJkQhux"
+        "name": "Cherie",
+        "url": "https://open.spotify.com/album/4Au5ndqAZDgpPJZUIWBslg"
       },
       "artists": [
         {
-          "name": "Soll",
-          "url": "https://open.spotify.com/artist/1YubAuqQvdqZ42SZpBPii1"
+          "name": "Brandon",
+          "url": "https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265"
         }
       ],
-      "duration_ms": 243776,
-      "name": "River",
-      "url": "https://open.spotify.com/track/73VzzfuoQ6CxBQ9TtVhJKa"
+      "duration_ms": 205536,
+      "name": "Cherie",
+      "url": "https://open.spotify.com/track/6vhrwbHQjl4klPXlPLnar4"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1875,6 +1875,22 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3VfqKMnjoIsXjBdbKRpGWu"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "duration_ms": 178240,
+      "name": "New Paint - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/31VTJ3Bj2qQC6FzLht4Faz"
+    },
+    {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
         "name": "Apple Tree Blues",
         "url": "https://open.spotify.com/album/1ZQ8wxEdBN5cnZeK0JZ66g"
       },
@@ -1891,18 +1907,18 @@
     {
       "added_at": "2024-11-08 05:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3VfqKMnjoIsXjBdbKRpGWu"
+        "name": "They Moved In Shadow All Together",
+        "url": "https://open.spotify.com/album/2SuFHw70l56dvXHijLQUK1"
       },
       "artists": [
         {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+          "name": "Emily Jane White",
+          "url": "https://open.spotify.com/artist/2PqsalqLh5RT6FSy9DrGZh"
         }
       ],
-      "duration_ms": 178240,
-      "name": "New Paint - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/31VTJ3Bj2qQC6FzLht4Faz"
+      "duration_ms": 234080,
+      "name": "Pallid Eyes",
+      "url": "https://open.spotify.com/track/5hmI1tgtDXpaSLYbyYZyIB"
     },
     {
       "added_at": "2024-11-08 05:00:00",
@@ -1923,22 +1939,6 @@
       "duration_ms": 273413,
       "name": "For a While",
       "url": "https://open.spotify.com/track/0dOqNypDARpu7J5G9VAJTj"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "They Moved In Shadow All Together",
-        "url": "https://open.spotify.com/album/2SuFHw70l56dvXHijLQUK1"
-      },
-      "artists": [
-        {
-          "name": "Emily Jane White",
-          "url": "https://open.spotify.com/artist/2PqsalqLh5RT6FSy9DrGZh"
-        }
-      ],
-      "duration_ms": 234080,
-      "name": "Pallid Eyes",
-      "url": "https://open.spotify.com/track/5hmI1tgtDXpaSLYbyYZyIB"
     },
     {
       "added_at": "2024-11-08 05:00:00",

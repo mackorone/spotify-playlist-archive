@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BYnvm.md) - [plain]
 
 > This is Lola Young\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,932 likes - 46 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,027 likes - 46 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BYnvm.md) - [plain]
 | 26 | [Crush](https://open.spotify.com/track/19ddrF8BsiVVYszpeWjb6y) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [This Wasn't Meant For You Anyway](https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U) | 3:46 |
 | 27 | [Stream Of Consciousness](https://open.spotify.com/track/4S6PEl7GETF22GjtgsZ19O) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [My Mind Wanders and Sometimes Leaves Completely](https://open.spotify.com/album/2cGz67xkbq20pKQpqQmzQl) | 3:21 |
 | 28 | [Bad Tattoo](https://open.spotify.com/track/2zw7f5vqU22SkaaQoir5z3) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Bad Tattoo](https://open.spotify.com/album/1t6lsN537l6aHAmyS1pT4y) | 3:53 |
-| 29 | [Ruin My Make Up](https://open.spotify.com/track/0hDDcANYNTgvQ2gpsBBjaZ) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Ruin My Make Up](https://open.spotify.com/album/6G0IIKFpdLDBfffVUx2HOM) | 2:50 |
-| 30 | [Blind Love](https://open.spotify.com/track/1Tr2J2bbK9lS6tCs9LFoDo) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Intro](https://open.spotify.com/album/7nlnkF135vozYOVdbtEi0z) | 3:48 |
+| 29 | [Blind Love](https://open.spotify.com/track/1Tr2J2bbK9lS6tCs9LFoDo) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Intro](https://open.spotify.com/album/7nlnkF135vozYOVdbtEi0z) | 3:48 |
+| 30 | [Ruin My Make Up](https://open.spotify.com/track/0hDDcANYNTgvQ2gpsBBjaZ) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Ruin My Make Up](https://open.spotify.com/album/6G0IIKFpdLDBfffVUx2HOM) | 2:50 |
 | 31 | [Semantic Satiation](https://open.spotify.com/track/3lvPfDVsd8kBj8j1QrnKV5) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [My Mind Wanders and Sometimes Leaves Completely](https://open.spotify.com/album/2cGz67xkbq20pKQpqQmzQl) | 2:59 |
 | 32 | [I Don't Mind](https://open.spotify.com/track/1dVzh4UqR5m6wKk8x5OXcv) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Bose x NME: C24](https://open.spotify.com/album/5KKWsXzOZnaBpGLQjJCRrD) | 1:18 |
 | 33 | [Pill or a Lullaby \(4AM till sunrise\)](https://open.spotify.com/track/3tobV7N1AsH5HKqXl2zrTs) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Blue \(2AM\)](https://open.spotify.com/album/6fObx5V4teMIbn52o3qTse) | 3:51 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BYnvm.md) - [plain]
 | 45 | [Woman](https://open.spotify.com/track/4uDIbixPiFLXwhV17G1v7L) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Woman](https://open.spotify.com/album/3M2GuaPC225P4YsyKYIUew) | 2:39 |
 | 46 | [Who Woulda Thought](https://open.spotify.com/track/7qWJlnmU20sX2zQU6UkZxx) | [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk), [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Pier Pressure](https://open.spotify.com/album/2acy6L0ZXAGSHoW6TIVtyW) | 2:49 |
 
-Snapshot ID: `aVHEgAAAAADq4eRUC0IUXk9z2UMR7zMF`
+Snapshot ID: `aVMWAAAAAADonAQrL4c+IqAmU9IeHowD`

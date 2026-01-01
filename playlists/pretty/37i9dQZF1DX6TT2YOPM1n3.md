@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 
 > Apne mulk ki homegrown hits  🎶 Cover: AUR
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,996 likes - 75 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,010 likes - 75 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 | 74 | [Kaun Talha](https://open.spotify.com/track/0euDWZG2g1Cw12TDyLQUKu) | [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Kaun Talha](https://open.spotify.com/album/79kk4fBrppufcwHKZ6SspP) | 4:29 |
 | 75 | [Bhool](https://open.spotify.com/track/1XTijOjVgekZjRXwgJ2VSE) | [Murtaza Qizilbash](https://open.spotify.com/artist/6hIXwlI4wny3zYuB6cDBBk) | [Bhool](https://open.spotify.com/album/4MIPkmbrYvZqLdzLwaQRF9) | 4:04 |
 
-Snapshot ID: `AAAAAD32K1pUk80uQnJQfBP850TOfUhw`
+Snapshot ID: `AAAAAOu7Pbs7k6iysMOGviACjzLDoeto`

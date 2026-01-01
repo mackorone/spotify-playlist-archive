@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 403 songs - 23 hr 15 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 405 songs - 23 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -411,5 +411,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 401 | [Still, Still, Still\. \- IVUDOT version](https://open.spotify.com/track/2AsMepFqeVigg7Fbp6clXx) | [BOKUTACHI WA YONAYONA](https://open.spotify.com/artist/3k53XmqUT3nfyRSNjM6dtL) | [Still, Still, Still\. \(IVUDOT version\)](https://open.spotify.com/album/1B6SNGzBOdQuNBw8AmTZKV) | 2:18 |
 | 402 | [LoveXposer](https://open.spotify.com/track/21HFzQoAX8BQdJncyeY9R0) | [DAZBEE](https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz) | [Nostalzia](https://open.spotify.com/album/1rS3kndeYmd17NDCKHW1Pj) | 2:29 |
 | 403 | [夢のあと](https://open.spotify.com/track/7ftpoSSMQCb3ijQUJ8tIfR) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi), [斎藤ネコ](https://open.spotify.com/artist/1H9giqQQAPPluxmoI75WFz) | [平成風俗](https://open.spotify.com/album/4p4W1qBYfG5VFbB0EY36Qv) | 5:03 |
+| 404 | [밤아.17](https://open.spotify.com/track/2z7QqddTiSejU4ndgMDIGq) | [네스티요나](https://open.spotify.com/artist/30dzTwN7KoBFM3VwkdFcLE) | [밤아.17](https://open.spotify.com/album/4aQDERjxfPiZBUFQJAItj9) | 2:35 |
+| 405 | [The Heavy Snow](https://open.spotify.com/track/3uVoQCKWqqayAPfrujRjfR) | [NASTYONA](https://open.spotify.com/artist/2nUz9gLHocSgMB8zj08l1V) | [Another Secret](https://open.spotify.com/album/5cf8zpHi34e1r4USEnS3hO) | 3:14 |
 
-Snapshot ID: `AAAJjcHhCMk9s0FqQmyNH8CU580h3Yhm`
+Snapshot ID: `AAAJj6Tf9bAQ2aN4R0Um09Y3zQ5ODPth`

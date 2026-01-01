@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8FL8pSHDl0T.md) - [plain]
 
 > Experience the world of STEINS;GATE from video game to TV anime series.\(C\)2009 MAGES./5pb./Nitroplus
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,795 likes - 44 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,805 likes - 44 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

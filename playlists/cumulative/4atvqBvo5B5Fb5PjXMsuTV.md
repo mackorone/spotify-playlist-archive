@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 31 Dec 23:04 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 31 Dec 19:05 UTC.
 
-5,969 songs - 13 day 19 hr 51 min
+5,970 songs - 13 day 19 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2598,6 +2598,7 @@
 | [If You Hadn’t Been There](https://open.spotify.com/track/5Tq0KrovwGWdApFORSRgN3) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [If You Hadn’t Been There](https://open.spotify.com/album/2N09fTgE3daKnVujeFEyLD) | 3:28 | 2025-03-08 | 2025-03-20 |
 | [If You Say So](https://open.spotify.com/track/6i6ICL9Dtjb1ksZiWN24NP) | [Disciple](https://open.spotify.com/artist/4D9k73VomKTnVQ6ROnt8IO) | [If You Say So](https://open.spotify.com/album/1WjUgogBBdknbnDVkbTuur) | 3:46 | 2024-09-27 | 2024-09-29 |
 | [if you wanna](https://open.spotify.com/track/6E3rVTQWxbSBhSDqclngEy) | [BARELY ALIVE](https://open.spotify.com/artist/5c3akKV3CUqAVOnGZqf4S3), [Skyelle](https://open.spotify.com/artist/5mMt0V809N7Y5mOUYsmOW6) | [if you wanna](https://open.spotify.com/album/5z7iWCWjQ118YggyhVsfSE) | 2:37 | 2024-11-06 | 2024-11-09 |
+| [If You Want It](https://open.spotify.com/track/1lBkIZiPtUetgkMcSABu3h) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [If You Want It](https://open.spotify.com/album/1jc3lBsBsQaYOGRciN3Bv0) | 3:02 | 2025-12-31 |  |
 | [IGNORANCE IS RICH](https://open.spotify.com/track/56HTAHmB5ltDKOG2syYNth) | [Wakai](https://open.spotify.com/artist/5id04zWscpprjAk5py8fkx), [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [IGNORANCE IS RICH](https://open.spotify.com/album/6fQZAtF1rpyQ36GUda8ziQ) | 2:32 | 2024-08-21 | 2024-08-24 |
 | [IIGHT IIGHT](https://open.spotify.com/track/2LMYyJ5vzcfZfcwveWSMWu) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [EL CARNICERO](https://open.spotify.com/album/4LvgaBEfh47ijVJnCAgiOZ) | 2:38 | 2025-12-19 |  |
 | [iii](https://open.spotify.com/track/5kXkBySxLQ9cJ0z0gYdNTu) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [iii](https://open.spotify.com/album/1XpFSvqDfWBP7sfdcMdrY5) | 4:08 | 2024-09-25 | 2024-10-04 |
@@ -3256,7 +3257,7 @@
 | [map in the cup](https://open.spotify.com/track/2OgQXxDAbXSeu0cLOIdPcQ) | [AZKi](https://open.spotify.com/artist/0HX3yJ7THlqC9drRqhOkgo) | [map in the cup](https://open.spotify.com/album/2w0imSAelrlDvJ3cITfjrx) | 4:23 | 2024-07-17 | 2024-07-19 |
 | [Marbella \(All She Know\)](https://open.spotify.com/track/7cWdgoBO1Fs9JU6DvDJvhG) | [YT](https://open.spotify.com/artist/0YsYhESxyHC1kuMm9Mbm3C) | [Marbella \(All She Know\)](https://open.spotify.com/album/17avL7tEYqXF89LgRMfwVH) | 2:44 | 2025-09-30 | 2025-10-10 |
 | [Marble Floors](https://open.spotify.com/track/30S82dxldXsPbuj4ShyVBK) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [Marble Floors](https://open.spotify.com/album/4XkbqXgTN2KeJRixyLKm4o) | 3:28 | 2024-07-19 | 2024-07-20 |
-| [MARCH](https://open.spotify.com/track/7zPqfEr2mvXfDbPYaJhaJd) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [MARCH](https://open.spotify.com/album/5D2Bdw5Lwvsfd7RZcTXNAE) | 2:50 | 2025-12-06 |  |
+| [MARCH](https://open.spotify.com/track/7zPqfEr2mvXfDbPYaJhaJd) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [MARCH](https://open.spotify.com/album/5D2Bdw5Lwvsfd7RZcTXNAE) | 2:50 | 2025-12-06 | 2026-01-01 |
 | [March 19th](https://open.spotify.com/track/7H263nzSK8AfVtzwZrHfsk) | [tuv](https://open.spotify.com/artist/31HpFqEapSyjS7ZGUq3Ivz) | [March 19th](https://open.spotify.com/album/7r0YjlBopP32qw37Gz0Zen) | 3:55 | 2025-03-20 | 2025-03-29 |
 | [March on for Pax Ramona](https://open.spotify.com/track/02EvfBHuBf5QmG6RdVzkih) | [Psychedelic Porn Crumpets](https://open.spotify.com/artist/7GRrLcUxwtQLvOpO7OHO80) | [March on for Pax Ramona](https://open.spotify.com/album/5sZfixhUM7Siag5o0cbmi0) | 4:33 | 2025-01-31 | 2025-02-08 |
 | [Marek Kondrat](https://open.spotify.com/track/3kdvvFlsgkPmU9Ttovi9of) | [Diho](https://open.spotify.com/artist/6PcYcDQ7UCL4U5PopumiWY), [Kaz Bałagane](https://open.spotify.com/artist/2GzZAv52VCMdVli7QzkteT), [Worek](https://open.spotify.com/artist/00o5eWNk5MqreQLbngsikb) | [Marek Kondrat](https://open.spotify.com/album/5rSaXrorI4sGa7LVkvFa7G) | 3:35 | 2024-10-31 | 2024-11-02 |

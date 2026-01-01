@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaoHd4tiCLZf.md) - [plain]
 
 > Ready to chic things up\. Listen to the music from Emily in Paris, streaming only on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,748 likes - 200 songs - 11 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,035 likes - 200 songs - 11 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

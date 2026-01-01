@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 
 > Mujeres que escriben la historia del Tango\. Foto: Julieta Laso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,698 likes - 55 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,699 likes - 55 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 | 49 | [Pobre Flor \(Primera Ilusión\)](https://open.spotify.com/track/4kVOaiBBIVjyvkaY9eURki) | [Gisela Magri](https://open.spotify.com/artist/4oRCN5rTR7AwwL3OxZ8vwH), [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk) | [Pobre Flor \(Primera Ilusión\)](https://open.spotify.com/album/4AzE3DULdR9WjtXG8UwqGu) | 2:06 |
 | 50 | [Marioneta](https://open.spotify.com/track/2aT4StMRbiUHCA1Y41cNuT) | [Noelia Moncada](https://open.spotify.com/artist/3HkXD1NjyvV3kBrrREjGrC), [Marco Antonio Fernández](https://open.spotify.com/artist/5u1fHe9hHyWlPW1opzsEaC), [Sebastián Prusak](https://open.spotify.com/artist/7e57Ep94Hv8hpZA6Ko54CH), [Daniel Falasca](https://open.spotify.com/artist/32OdpAWXjVkU1U8uTDhTha), [Octavio Brunetti](https://open.spotify.com/artist/3VbMJnIiSV32nwXOsd003P) | [Marioneta](https://open.spotify.com/album/1PLdRsYPzD1sttkZmst1Dz) | 3:56 |
 | 51 | [Malena](https://open.spotify.com/track/1U0UYJWWUzmrJ0mhj9wwRw) | [Liliana Dominguez](https://open.spotify.com/artist/4EnoBd9xImGMu78bSO2OSo) | [Mujeres del Tango](https://open.spotify.com/album/0piBCUMD8KTGPzDZJKi8ut) | 2:13 |
-| 52 | [Milonga del Desocupado](https://open.spotify.com/track/4drrlcTdFPZhbKoaZSCoMo) | [Quinteto Bataraz](https://open.spotify.com/artist/5wExxTg18OJstdwHUQDrAs), [Liliana Herrero](https://open.spotify.com/artist/6iqeypk1XRa2zQVRcIVmlF) | [Milonga del Desocupado](https://open.spotify.com/album/3VvEy3CFcgyMe1iMt4bQ2X) | 3:52 |
+| 52 | [India de Tango](https://open.spotify.com/track/6Gw79GdafladbPqbXPW2A9) | [Patricia Malanca](https://open.spotify.com/artist/7ivb9TxkVrd4D5ssh1EsXJ), [Adriana Varela](https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc), [Rafael Varela](https://open.spotify.com/artist/4U5EaR8hJD8J5Ov5L78KKa) | [Plebeyas \(Ellas, Yo y Superellas\)](https://open.spotify.com/album/3PxWFYnFej0Uhb1DKCvkUI) | 2:12 |
 | 53 | [La Piel de la Ciudad](https://open.spotify.com/track/4OyBpawRu6Bh5CpK8bBXh4) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk) | [Martingala](https://open.spotify.com/album/5FgjV4G9WsnzSyRhnrneNc) | 3:13 |
-| 54 | [India de Tango](https://open.spotify.com/track/6Gw79GdafladbPqbXPW2A9) | [Patricia Malanca](https://open.spotify.com/artist/7ivb9TxkVrd4D5ssh1EsXJ), [Adriana Varela](https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc), [Rafael Varela](https://open.spotify.com/artist/4U5EaR8hJD8J5Ov5L78KKa) | [Plebeyas \(Ellas, Yo y Superellas\)](https://open.spotify.com/album/3PxWFYnFej0Uhb1DKCvkUI) | 2:12 |
+| 54 | [Milonga del Desocupado](https://open.spotify.com/track/4drrlcTdFPZhbKoaZSCoMo) | [Quinteto Bataraz](https://open.spotify.com/artist/5wExxTg18OJstdwHUQDrAs), [Liliana Herrero](https://open.spotify.com/artist/6iqeypk1XRa2zQVRcIVmlF) | [Milonga del Desocupado](https://open.spotify.com/album/3VvEy3CFcgyMe1iMt4bQ2X) | 3:52 |
 | 55 | [Madrugada y Soledad](https://open.spotify.com/track/4A8z6iDEj8fnk9hdzry5if) | [Marisa Vázquez](https://open.spotify.com/artist/3r4t0BUOYq2f098liUbtKR) | [Esa Mujer: Buenos Aires](https://open.spotify.com/album/7LCIu4GIUhomUsjUvgiGUF) | 2:35 |
 
 Snapshot ID: `AAAAAEhnwGEFxVoyyCZISHGMbOriAWHV`

@@ -4,7 +4,7 @@
 
 > Random AF...\. Huge playlist to brighten long days, from all genres\. Shuffle it! New music added DAILY :\) www.avondalerecords.com
 
-522 songs - 1 day 6 hr 23 min
+525 songs - 1 day 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,6 +290,7 @@
 | [MMA Rooky](https://open.spotify.com/track/4X3UDaLkq8RpXhSiClheX0) | [32 Ohm](https://open.spotify.com/artist/1vgzRUPEZ8l3fszpEET43S) | [MMA Rooky](https://open.spotify.com/album/5rMyxWrIEFLf8boJPLa5PU) | 3:05 | 2025-11-10 |  |
 | [Mosh Pit](https://open.spotify.com/track/4Altxk4i8D6xIdkuySj5UO) | [Angelo](https://open.spotify.com/artist/1jBGWZRphBTMVcPLjxEuzC) | [Hellhound](https://open.spotify.com/album/0thfiUsL5V6uRLFA9bIOMj) | 2:14 | 2025-11-16 | 2025-12-10 |
 | [Mountainside](https://open.spotify.com/track/67pdwschvXYd3FnxYtvc5s) | [Shepherd Bridge](https://open.spotify.com/artist/7IWPSLFSNkPvI3upDX39f1) | [Lucy and the Voyager](https://open.spotify.com/album/7jHjn4K2XURXATynQZkrEv) | 3:43 | 2025-11-15 | 2025-12-10 |
+| [Much Bigger Things](https://open.spotify.com/track/0NdFB6srCdlii5agLG7bY0) | [Ashes & Orchids](https://open.spotify.com/artist/2DPoTH8Gvx1tTM89NmWhLY) | [Grayscale Horizons](https://open.spotify.com/album/5Rj23GRlPVoUc1RU4SjHnp) | 3:49 | 2025-12-31 |  |
 | [Mud, Sweat, and Tears](https://open.spotify.com/track/2acNWnoObRre52q1zphDrJ) | [The Unk Skunk](https://open.spotify.com/artist/0alGtBjM4JH7cwBNeLUcxe) | [Mischief and Mayhem](https://open.spotify.com/album/0IonnFQaTjZvRJAj3d896O) | 3:02 | 2025-12-03 | 2025-12-24 |
 | [My Brain Hurts](https://open.spotify.com/track/1NLJp4jNEw3L22MQbfEooj) | [Enigme](https://open.spotify.com/artist/5deKGXTf4C3fgwB183DAAa) | [My Brain Hurts](https://open.spotify.com/album/0OSAfmsmGOjcPhTggsO5uy) | 1:44 | 2025-12-20 |  |
 | [My Endless Journey](https://open.spotify.com/track/39USGgtJdnzQQvIBeNSp4c) | [The Antarctica Project](https://open.spotify.com/artist/4DDrHTmwLmDFgv8CoobPjr) | [My Endless Journey](https://open.spotify.com/album/7DotwfknL0UFLufl9HQg9T) | 4:26 | 2025-12-08 |  |
@@ -350,6 +351,7 @@
 | [Putting The Lay In Layla](https://open.spotify.com/track/2SiRl86ySpb3maWTiUmJ3p) | [Glorification](https://open.spotify.com/artist/5VAtjGCSSccAG7AoeyxM5I) | [One](https://open.spotify.com/album/2GSoGDBKanGvKibnZzk6J6) | 3:11 | 2025-12-21 |  |
 | [Pánta Rheî](https://open.spotify.com/track/6aTAAksUXVX0NuTEXu8lgm) | [Bobby Wallisch Jr.](https://open.spotify.com/artist/3ZrBfXIxxaZcLYFs7XGWfQ), [Acid.Prof](https://open.spotify.com/artist/1fgWlAeVGsyJYk05RQK72H) | [Pánta Rheî](https://open.spotify.com/album/2MmdpSqXZ6KxVCcn8eXLcP) | 3:28 | 2025-11-10 |  |
 | [QPR](https://open.spotify.com/track/6eFwjtcfmoJjYRQJhivcCH) | [CAN'T STOP TALKING](https://open.spotify.com/artist/3rotuHQvOx7kpA7arxEPTe) | [Nothing To Say](https://open.spotify.com/album/5NeEmefGoLWrjXzzKrU7dF) | 2:19 | 2025-08-03 |  |
+| [Quokkas serving chicken dinner](https://open.spotify.com/track/5OIJ2fCKKpoccgDyxwSiWt) | [W.C.U.](https://open.spotify.com/artist/0fYons6jBj4Vn9AE61Hgkv) | [Wir stehen hier](https://open.spotify.com/album/3hRWcsqotdRpZuLYqkLDuf) | 2:24 | 2025-12-31 |  |
 | [Ramonero](https://open.spotify.com/track/4bJg7Dj1Gv7Hd3sSL2IH9R) | [Miguelitos](https://open.spotify.com/artist/0fDfcP4CbwLJixjlJaxVCr) | [En las Calles](https://open.spotify.com/album/1fuUMBZtdNexMPKqp05T0J) | 2:11 | 2025-12-23 |  |
 | [Red On You](https://open.spotify.com/track/1NqEnJemvYdbGsFlYDNTgq) | [Astro\-Lloyd](https://open.spotify.com/artist/2M7i48NN8KNVkNAku4Roj2) | [Astro Life](https://open.spotify.com/album/3n8oFyAMOOqIxsneTKj89I) | 2:33 | 2025-08-03 |  |
 | [Reloaded](https://open.spotify.com/track/6cvpx4nJPQ9JcX4OmAWjM7) | [K.W.E.S.I.](https://open.spotify.com/artist/1JQNmDKu1o2W8MPGDnBiCy) | [SHEESH!](https://open.spotify.com/album/3GuFTVum5qr45HkbPtveqx) | 2:06 | 2025-11-07 | 2025-12-10 |
@@ -482,6 +484,7 @@
 | [Truemetal](https://open.spotify.com/track/7ud1d1jZCnodHBHY4mwLPP) | [Cyrax](https://open.spotify.com/artist/4O3WfGMmFAXWupm9cG2rFI) | [Experiences](https://open.spotify.com/album/3TjQI8Q3ZMJ3mwrKPCd2cK) | 7:04 | 2025-12-10 |  |
 | [Unforgiven Ghosts](https://open.spotify.com/track/0k76GGJSrK4Mvf21WJnTzQ) | [KXENIA](https://open.spotify.com/artist/4xGnce5EXkdJNeOxaZeYTL) | [Serendipitous Ruse \(Deluxe\)](https://open.spotify.com/album/4RHX1QDINQsvXt2NAoqaOS) | 3:24 | 2025-12-04 | 2025-12-24 |
 | [Unleash The Madness](https://open.spotify.com/track/2lpGgY8sW4PEIRwFUYBERJ) | [Mus\-D Beatz](https://open.spotify.com/artist/1k7gX3I4ws0MrlS0jJinbo) | [Unleash The Madness](https://open.spotify.com/album/77O5f8gtVYG51CnLtiFZqe) | 3:30 | 2025-12-06 |  |
+| [Unrequited Love](https://open.spotify.com/track/52juohYeuWVBUJNBEhMpJO) | [HAEZL](https://open.spotify.com/artist/6QZcEovtcGCLrWhIOL4omg) | [Unrequited Love](https://open.spotify.com/album/1c5cmFTEYDjzCas7s7bMj9) | 3:32 | 2025-12-31 |  |
 | [untitled](https://open.spotify.com/track/5FZKydewgkZrAbMAajABTr) | [RADICALS](https://open.spotify.com/artist/3OXXG1ZWgcT4pVtHqt0MDy) | [untitled](https://open.spotify.com/album/0xNK6CW6YpxGOYUXa8BzSp) | 3:28 | 2025-12-11 |  |
 | [Veneer of Happiness](https://open.spotify.com/track/05XSQqpNie45Bm5DiIBYJt) | [Aged Beyond Decay](https://open.spotify.com/artist/0lNgiaIYRDLNkCv5CuYjVb) | [Veneer of Happiness](https://open.spotify.com/album/2UsupNlVls5rnuxjAxdVoe) | 3:49 | 2025-10-24 | 2025-12-10 |
 | [Vindicta](https://open.spotify.com/track/54FUFjNwNJBPgOZOW5N9J0) | [Sonder](https://open.spotify.com/artist/0L0D31Vnz5LTRR8I620V0G) | [Rompiendo Refugios](https://open.spotify.com/album/7CcpgykbYIRVRADvSi9PzI) | 4:21 | 2025-11-15 | 2025-12-10 |

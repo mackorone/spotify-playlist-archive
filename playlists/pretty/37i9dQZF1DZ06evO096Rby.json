@@ -1,12 +1,12 @@
 {
   "description": "This is Edgardo Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 51612,
+  "num_followers": 51652,
   "original_name": "This Is Edgardo Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVHEgAAAAADZ+Iz+B6/VQhQsQ6mIGZUA",
+  "snapshot_id": "aVMWAAAAAABM8+FdHnJXahQcC7B/frvO",
   "tracks": [
     {
       "added_at": null,
@@ -315,6 +315,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Frente a Frente",
+        "url": "https://open.spotify.com/album/3kuaLpJj6gJumJaCJsspNH"
+      },
+      "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 213066,
+      "name": "A Chillar a otra parte",
+      "url": "https://open.spotify.com/track/63rF4Hy9aUdzDGjfAWXBZJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Te Regalo",
         "url": "https://open.spotify.com/album/1s5wqxWuB1nuhAjYXNmqWd"
       },
@@ -347,26 +367,6 @@
       "duration_ms": 159530,
       "name": "No Quiero Perderte",
       "url": "https://open.spotify.com/track/3kuQmp8Y0DNBjGAgawhnT8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Frente a Frente",
-        "url": "https://open.spotify.com/album/3kuaLpJj6gJumJaCJsspNH"
-      },
-      "artists": [
-        {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 213066,
-      "name": "A Chillar a otra parte",
-      "url": "https://open.spotify.com/track/63rF4Hy9aUdzDGjfAWXBZJ"
     },
     {
       "added_at": null,
@@ -619,6 +619,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amor x Dosis",
+        "url": "https://open.spotify.com/album/2rt2XjqNWSZuETGY8ldVny"
+      },
+      "artists": [
+        {
+          "name": "emmanuellcortess_",
+          "url": "https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 198598,
+      "name": "A Dios Le Ped\u00eda",
+      "url": "https://open.spotify.com/track/65keL132eDsLtq1fWZXCz3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dicen y Dicen",
         "url": "https://open.spotify.com/album/1KOlHmExRD42dLpWE4GwkF"
       },
@@ -643,26 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor x Dosis",
-        "url": "https://open.spotify.com/album/2rt2XjqNWSZuETGY8ldVny"
-      },
-      "artists": [
-        {
-          "name": "emmanuellcortess_",
-          "url": "https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 198598,
-      "name": "A Dios Le Ped\u00eda",
-      "url": "https://open.spotify.com/track/65keL132eDsLtq1fWZXCz3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos 602 Vol.2",
         "url": "https://open.spotify.com/album/76LhAh0fmsd3yYbLYMv86x"
       },
@@ -675,6 +675,22 @@
       "duration_ms": 191600,
       "name": "El Piyi",
       "url": "https://open.spotify.com/track/4aJPDh3dn3MVppavGXs3ao"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sin Miedo (En Vivo)",
+        "url": "https://open.spotify.com/album/6jPw6jBlRWQGnoaFzf2Ve5"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 234154,
+      "name": "Y Ahora Te Vas - En Vivo",
+      "url": "https://open.spotify.com/track/19qba16XwdaHTXVrmPKZcM"
     },
     {
       "added_at": null,
@@ -695,22 +711,6 @@
       "duration_ms": 118067,
       "name": "El De La Selva",
       "url": "https://open.spotify.com/track/4BPuZqbjWIquRpewIY0ygC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sin Miedo (En Vivo)",
-        "url": "https://open.spotify.com/album/6jPw6jBlRWQGnoaFzf2Ve5"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 234154,
-      "name": "Y Ahora Te Vas - En Vivo",
-      "url": "https://open.spotify.com/track/19qba16XwdaHTXVrmPKZcM"
     },
     {
       "added_at": null,

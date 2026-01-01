@@ -4,7 +4,7 @@
 
 > This is HUMBE\. The essential tracks, all in one playlist.
 
-77 songs - 4 hr 49 min
+78 songs - 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [bestia](https://open.spotify.com/track/2HZ5HcjkncmwlEh6dNG5Ra) | [BRUSES](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y), [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [bestia](https://open.spotify.com/album/3g7qNB5LqZlkp72mvCXYj6) | 3:40 | 2024-04-28 | 2025-12-14 |
 | [bien hecho](https://open.spotify.com/track/1RKIZ8ItW0muYnz2vTcC4M) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ARMAGEDÓN](https://open.spotify.com/album/1pmNXkFZNpcup7LbUUlNIk) | 4:01 | 2025-04-10 |  |
 | [bien hecho](https://open.spotify.com/track/2jMrMVUprU2f03AZYRpWfB) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [bien hecho](https://open.spotify.com/album/5MNb2jx4ncbpNMimeEUczU) | 4:01 | 2023-11-10 | 2025-03-17 |
-| [CARRUSEL](https://open.spotify.com/track/479NIpJTkQaCyBpFTWicqa) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [DUEÑO DEL CIELO](https://open.spotify.com/album/0pcO9L2DIQ6l1GGGIlH6Pk) | 4:44 | 2025-12-10 |  |
+| [CARRUSEL](https://open.spotify.com/track/479NIpJTkQaCyBpFTWicqa) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [DUEÑO DEL CIELO](https://open.spotify.com/album/0pcO9L2DIQ6l1GGGIlH6Pk) | 4:44 | 2025-12-10 | 2026-01-01 |
 | [Confieso](https://open.spotify.com/track/6EgQ0qOpwA83iRDSFBNtUc) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Confieso](https://open.spotify.com/album/3py5UQNoZMecvronNEQp41) | 2:58 | 2023-11-10 | 2025-04-18 |
 | [Confieso](https://open.spotify.com/track/2k4MjD7I4ddpwwZKxHrONk) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Soy HUMBE](https://open.spotify.com/album/0znYzryB08A3EbsiS0zkhM) | 2:58 | 2025-04-18 |  |
 | [CÓMO RESPIRAR???](https://open.spotify.com/track/0K7JLUqCpPJrFRz4Eb9g14) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [CÓMO RESPIRAR???](https://open.spotify.com/album/4d6dB3zVorvbqroywYr09q) | 3:41 | 2023-11-10 | 2024-10-04 |
@@ -81,7 +81,8 @@
 | [tú me hiciste volar](https://open.spotify.com/track/7gx3fwyhHjpLbuW236QYiT) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ENTROPÍA](https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46) | 3:06 | 2023-11-10 |  |
 | [Una Vida, Y Ya](https://open.spotify.com/track/5v1LLkuUTtm9Hy6btIPXXn) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Una Vida, Y Ya](https://open.spotify.com/album/4rxU2TZelNYNHYN59cMI10) | 3:31 | 2023-11-10 | 2025-04-14 |
 | [VEGAS](https://open.spotify.com/track/4DOp66dTHPCy2ICXWVkkPE) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [DUEÑO DEL CIELO](https://open.spotify.com/album/0pcO9L2DIQ6l1GGGIlH6Pk) | 3:35 | 2025-12-08 |  |
-| [VETIVER Y AMARETTO](https://open.spotify.com/track/19HWG52zjo54p7naO3SQlf) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [VETIVER Y AMARETTO](https://open.spotify.com/album/5UBa39i3hSE6VIgGijeWvs) | 4:02 | 2025-10-19 |  |
+| [VETIVER Y AMARETTO](https://open.spotify.com/track/19HWG52zjo54p7naO3SQlf) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [VETIVER Y AMARETTO](https://open.spotify.com/album/5UBa39i3hSE6VIgGijeWvs) | 4:02 | 2025-10-19 | 2026-01-01 |
+| [VETIVER Y AMARETTO](https://open.spotify.com/track/4gcxYsMGTnR73lKbMY6MIg) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [DUEÑO DEL CIELO](https://open.spotify.com/album/0pcO9L2DIQ6l1GGGIlH6Pk) | 4:02 | 2026-01-01 |  |
 | [yo x3](https://open.spotify.com/track/4RGpNXCSbRSKjvctTXmppw) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [yo x3](https://open.spotify.com/album/4sVjp0ucdVB0H7mGex3J4A) | 3:42 | 2023-11-10 | 2025-02-09 |
 | [¿Volver?](https://open.spotify.com/track/0YIJV7HH8MYiKdWQTZcydS) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL), [Pllws](https://open.spotify.com/artist/1MFhgehbIObqmgnONpXeFq) | [¿Volver?](https://open.spotify.com/album/0u9IMrvAXTW9FoeQbAFXm0) | 3:45 | 2023-11-10 | 2025-01-06 |
 | [últimamente](https://open.spotify.com/track/71g1VxcoHbNrCTSiO2WarV) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [AURORA](https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs) | 3:49 | 2023-11-10 |  |

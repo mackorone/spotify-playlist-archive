@@ -385,6 +385,28 @@
     },
     {
       "album": {
+        "name": "Bailando Por Ti",
+        "url": "https://open.spotify.com/album/7ismWpgWee343IgwBx0oyI"
+      },
+      "artists": [
+        {
+          "name": "Fey",
+          "url": "https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Bailando Por Ti",
+      "url": "https://open.spotify.com/track/40gWTnjJgkpYENBrPVKSgN"
+    },
+    {
+      "album": {
         "name": "Amor\u00edo",
         "url": "https://open.spotify.com/album/0OZ2DcvZOEnSufkLxvXumm"
       },
@@ -882,7 +904,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-01",
       "duration_ms": 204400,
       "name": "El Noa Noa - Remix",
       "url": "https://open.spotify.com/track/6qLlx57PqwweZtEFtystTu"

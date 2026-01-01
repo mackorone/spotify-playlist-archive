@@ -1,6 +1,6 @@
 {
   "description": "Groove-heavy, soothing tunes for the soul and R&B ",
-  "num_followers": 213146,
+  "num_followers": 213175,
   "original_name": "aloe",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,22 @@
     {
       "added_at": "2025-12-12 05:25:24",
       "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 229477,
+      "name": "There Will Be No Crying",
+      "url": "https://open.spotify.com/track/2v4fvU8my0WUTy0TOTS36l"
+    },
+    {
+      "added_at": "2025-12-12 05:25:24",
+      "album": {
         "name": "Back on 74 (Full Crate Remix)",
         "url": "https://open.spotify.com/album/4kGBuWZI5kpjt60cqWewXD"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 174233,
       "name": "Back On 74 - Full Crate Remix",
       "url": "https://open.spotify.com/track/0eBAg5wJBu2Acv6o72iY4c"
-    },
-    {
-      "added_at": "2025-12-12 05:25:24",
-      "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 229477,
-      "name": "There Will Be No Crying",
-      "url": "https://open.spotify.com/track/2v4fvU8my0WUTy0TOTS36l"
     },
     {
       "added_at": "2025-12-12 05:25:24",
@@ -623,22 +623,6 @@
     {
       "added_at": "2025-12-12 05:25:24",
       "album": {
-        "name": "Keep Me Satisfied",
-        "url": "https://open.spotify.com/album/6QDVSbU4yXnw4TEmTynaQM"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 145663,
-      "name": "Keep Me Satisfied",
-      "url": "https://open.spotify.com/track/4OxDppy29ZuxXgQ1kMEjCr"
-    },
-    {
-      "added_at": "2025-12-12 05:25:24",
-      "album": {
         "name": "3 Boys",
         "url": "https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 209188,
       "name": "3 Boys",
       "url": "https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H"
+    },
+    {
+      "added_at": "2025-12-12 05:25:24",
+      "album": {
+        "name": "Keep Me Satisfied",
+        "url": "https://open.spotify.com/album/6QDVSbU4yXnw4TEmTynaQM"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 145663,
+      "name": "Keep Me Satisfied",
+      "url": "https://open.spotify.com/track/4OxDppy29ZuxXgQ1kMEjCr"
     },
     {
       "added_at": "2025-12-12 05:25:24",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2025-12-12 05:25:24",
       "album": {
-        "name": "Enchant\u00e9",
-        "url": "https://open.spotify.com/album/563FrJ2AfhKQj1nqYCISaM"
-      },
-      "artists": [
-        {
-          "name": "Tim Atlas",
-          "url": "https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH"
-        }
-      ],
-      "duration_ms": 162600,
-      "name": "Enchant\u00e9",
-      "url": "https://open.spotify.com/track/10wbN21d8FXT0cFIaCw1yV"
-    },
-    {
-      "added_at": "2025-12-12 05:25:24",
-      "album": {
         "name": "Charge It Remix (feat. Smino)",
         "url": "https://open.spotify.com/album/3HC2Rgx0wIcXQNzkVlZOue"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 202204,
       "name": "Charge It Remix (feat. Smino)",
       "url": "https://open.spotify.com/track/4GKzznETPVyGoBe6vHr2lS"
+    },
+    {
+      "added_at": "2025-12-12 05:25:24",
+      "album": {
+        "name": "Enchant\u00e9",
+        "url": "https://open.spotify.com/album/563FrJ2AfhKQj1nqYCISaM"
+      },
+      "artists": [
+        {
+          "name": "Tim Atlas",
+          "url": "https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH"
+        }
+      ],
+      "duration_ms": 162600,
+      "name": "Enchant\u00e9",
+      "url": "https://open.spotify.com/track/10wbN21d8FXT0cFIaCw1yV"
     },
     {
       "added_at": "2025-12-12 05:25:24",

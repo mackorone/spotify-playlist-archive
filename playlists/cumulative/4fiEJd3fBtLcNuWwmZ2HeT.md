@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-411 songs - 23 hr 50 min
+413 songs - 23 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,6 +228,7 @@
 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 | 2023-11-28 |  |
 | [TEMPEST\-TOST](https://open.spotify.com/track/2EqH7eu4ZMfZg3DW8kUzSe) | [MYTH & ROID](https://open.spotify.com/artist/1NRrtMvT3o1TI6I8XCuweq) | [MYTH & ROID Concept mini album 〈Episode 1〉『AZUL』](https://open.spotify.com/album/4ya3KKbjM08YUpv1IiCvp0) | 4:09 | 2023-11-08 |  |
 | [The Chattering Lack of Common Sense](https://open.spotify.com/track/1jFtCDktj1XTxDcu52iyeC) | [Ghost and Pals](https://open.spotify.com/artist/3Avni6DLpoxtanND8mG5t8) | [The Chattering Lack of Common Sense](https://open.spotify.com/album/4ZkEBNbrWleWPSlnw6Kxtb) | 3:34 | 2022-08-02 |  |
+| [The Heavy Snow](https://open.spotify.com/track/3uVoQCKWqqayAPfrujRjfR) | [NASTYONA](https://open.spotify.com/artist/2nUz9gLHocSgMB8zj08l1V) | [Another Secret](https://open.spotify.com/album/5cf8zpHi34e1r4USEnS3hO) | 3:14 | 2025-12-31 |  |
 | [the perfect pair](https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:57 | 2024-01-17 |  |
 | [Therefor you and me](https://open.spotify.com/track/4wVhDSjVL5akvPE6Or1fll) | [si\-o](https://open.spotify.com/artist/454bXMSV98MTruU5zHWa5x) | [Tadano Best](https://open.spotify.com/album/5SkWy9S4pUINaPZpRA9FpE) | 3:00 | 2025-10-01 |  |
 | [This Close](https://open.spotify.com/track/6FOWzfUUvKryjmmUjSu1pX) | [Flyleaf](https://open.spotify.com/artist/4IliztYDlfMvzQzbx50o60) | [Memento Mori \(Expanded\)](https://open.spotify.com/album/1zRqUHW8OiYDVAJtJ1OdKg) | 3:19 | 2024-08-19 |  |
@@ -416,6 +417,7 @@
 | [青春コンプレックス](https://open.spotify.com/track/60nwK1iMgnFCznF6FiNfts) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 3:23 | 2023-01-14 |  |
 | [頭ン痛](https://open.spotify.com/track/4gieTwT7brlTD7m4dbKnM6) | [えいぷ](https://open.spotify.com/artist/6AYMMKxeZatIcDKaGNx4Wa) | [頭ン痛](https://open.spotify.com/album/6NQ9OZw5Pg5H2bxK73XFWl) | 2:56 | 2024-09-20 |  |
 | [러시안 룰렛 Russian Roulette](https://open.spotify.com/track/5HiSc2ZCGn8L3cH3qSwzBT) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Russian Roulette \- The 3rd Mini Album](https://open.spotify.com/album/6MNlcai3skKLKv5syzFwC3) | 3:31 | 2023-01-01 |  |
+| [밤아.17](https://open.spotify.com/track/2z7QqddTiSejU4ndgMDIGq) | [네스티요나](https://open.spotify.com/artist/30dzTwN7KoBFM3VwkdFcLE) | [밤아.17](https://open.spotify.com/album/4aQDERjxfPiZBUFQJAItj9) | 2:35 | 2025-12-31 |  |
 | [요단강](https://open.spotify.com/track/5iHc6qrkJAm8LNoQuuSAlL) | [네스티요나](https://open.spotify.com/artist/30dzTwN7KoBFM3VwkdFcLE) | [아홉가지기분](https://open.spotify.com/album/5ooEdlSXdzcTXLTHMg6QMO) | 4:47 | 2025-11-26 |  |
 | [＃曖昧人生](https://open.spotify.com/track/53hxSCel6qACDWZxH8iscW) | [Aogumo](https://open.spotify.com/artist/605C4AcUUwB66JjpKjX1aO) | [＃曖昧人生](https://open.spotify.com/album/4eUuJBH7xGW2uNlAX2NTsm) | 3:06 | 2025-06-18 |  |
 | [Ｗ●ＲＫ](https://open.spotify.com/track/1L50ymp25Vmu7VnPRx5TWf) | [ꉈꀧ꒒꒒ꁄꍈꍈꀧ꒦ꉈ ꉣꅔꎡꅔꁕꁄ](https://open.spotify.com/artist/3PvbcfORzI3TVPlBxsTmhU), [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [Ｗ●ＲＫ](https://open.spotify.com/album/0uKLHZitWwrvekNjznMAaB) | 3:21 | 2023-12-17 |  |

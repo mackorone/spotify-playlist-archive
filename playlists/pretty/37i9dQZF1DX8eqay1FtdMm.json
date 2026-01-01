@@ -1,6 +1,6 @@
 {
   "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: Klozer, Danny Koo) \uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 416611,
+  "num_followers": 416589,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2025-12-18 02:43:49",
       "album": {
+        "name": "Knock",
+        "url": "https://open.spotify.com/album/0uDfX2nGWvb9heTqbT3Mc9"
+      },
+      "artists": [
+        {
+          "name": "John Park",
+          "url": "https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB"
+        }
+      ],
+      "duration_ms": 221786,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/3K8wfMDLxwtLGuVrYobxVe"
+    },
+    {
+      "added_at": "2025-12-18 02:43:49",
+      "album": {
         "name": "Jay Park Season 1",
         "url": "https://open.spotify.com/album/36K9BD9KNPIT8JA2qcO9u7"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 216013,
       "name": "I'll Always Be With You",
       "url": "https://open.spotify.com/track/0qXAC2U4E9XjF0FeGRsMh7"
-    },
-    {
-      "added_at": "2025-12-18 02:43:49",
-      "album": {
-        "name": "Knock",
-        "url": "https://open.spotify.com/album/0uDfX2nGWvb9heTqbT3Mc9"
-      },
-      "artists": [
-        {
-          "name": "John Park",
-          "url": "https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB"
-        }
-      ],
-      "duration_ms": 221786,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/3K8wfMDLxwtLGuVrYobxVe"
     },
     {
       "added_at": "2025-12-18 02:43:49",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2025-12-18 02:43:49",
       "album": {
-        "name": "Moving Away",
-        "url": "https://open.spotify.com/album/4zhODMfhF2d2aBP5YSfLVS"
-      },
-      "artists": [
-        {
-          "name": "#Annyeong",
-          "url": "https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS"
-        }
-      ],
-      "duration_ms": 264069,
-      "name": "Moving Away",
-      "url": "https://open.spotify.com/track/57Ylr5UBALW6Rrkue2vBB3"
-    },
-    {
-      "added_at": "2025-12-18 02:43:49",
-      "album": {
         "name": "WAW",
         "url": "https://open.spotify.com/album/0gt7dy4ONFo6uc8D5w2WNi"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 223546,
       "name": "Where Are We Now",
       "url": "https://open.spotify.com/track/0cLXk75Pan3mhRlWqHiynh"
+    },
+    {
+      "added_at": "2025-12-18 02:43:49",
+      "album": {
+        "name": "Moving Away",
+        "url": "https://open.spotify.com/album/4zhODMfhF2d2aBP5YSfLVS"
+      },
+      "artists": [
+        {
+          "name": "#Annyeong",
+          "url": "https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS"
+        }
+      ],
+      "duration_ms": 264069,
+      "name": "Moving Away",
+      "url": "https://open.spotify.com/track/57Ylr5UBALW6Rrkue2vBB3"
     },
     {
       "added_at": "2025-12-18 02:43:49",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2025-12-18 02:43:49",
       "album": {
-        "name": "Bluebird",
-        "url": "https://open.spotify.com/album/0vfXAOcQKcNCJJNRbY6tbj"
-      },
-      "artists": [
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        }
-      ],
-      "duration_ms": 179871,
-      "name": "Bluebird",
-      "url": "https://open.spotify.com/track/7JC9LqrsGddVUm1s1kkVtM"
-    },
-    {
-      "added_at": "2025-12-18 02:43:49",
-      "album": {
         "name": "one summer",
         "url": "https://open.spotify.com/album/1dSFPUYpKZiSdBb4jonPPK"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 239692,
       "name": "one summer",
       "url": "https://open.spotify.com/track/7EAkXA5TvfYOYE9EzE3mtc"
+    },
+    {
+      "added_at": "2025-12-18 02:43:49",
+      "album": {
+        "name": "Bluebird",
+        "url": "https://open.spotify.com/album/0vfXAOcQKcNCJJNRbY6tbj"
+      },
+      "artists": [
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "duration_ms": 179871,
+      "name": "Bluebird",
+      "url": "https://open.spotify.com/track/7JC9LqrsGddVUm1s1kkVtM"
     },
     {
       "added_at": "2025-12-18 02:43:49",
@@ -1507,26 +1507,6 @@
     {
       "added_at": "2025-12-18 02:43:49",
       "album": {
-        "name": "Ode To The Stars",
-        "url": "https://open.spotify.com/album/5AYHR2HOnxZuZJnXTvJaGA"
-      },
-      "artists": [
-        {
-          "name": "MAKTUB",
-          "url": "https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j"
-        },
-        {
-          "name": "LEE RAON",
-          "url": "https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane"
-        }
-      ],
-      "duration_ms": 282853,
-      "name": "Ode To The Stars",
-      "url": "https://open.spotify.com/track/1pFgar9U2S5FfrNdnSVOJK"
-    },
-    {
-      "added_at": "2025-12-18 02:43:49",
-      "album": {
         "name": "Burn Like A Star",
         "url": "https://open.spotify.com/album/36xIARKjnu1X4NijtbBpMQ"
       },
@@ -1543,6 +1523,26 @@
       "duration_ms": 188253,
       "name": "Burn Like A Star",
       "url": "https://open.spotify.com/track/0eB4NVRmmtO99SKfvBU56O"
+    },
+    {
+      "added_at": "2025-12-18 02:43:49",
+      "album": {
+        "name": "Ode To The Stars",
+        "url": "https://open.spotify.com/album/5AYHR2HOnxZuZJnXTvJaGA"
+      },
+      "artists": [
+        {
+          "name": "MAKTUB",
+          "url": "https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j"
+        },
+        {
+          "name": "LEE RAON",
+          "url": "https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane"
+        }
+      ],
+      "duration_ms": 282853,
+      "name": "Ode To The Stars",
+      "url": "https://open.spotify.com/track/1pFgar9U2S5FfrNdnSVOJK"
     },
     {
       "added_at": "2025-12-18 02:43:49",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2025-12-18 02:43:49",
       "album": {
-        "name": "Red Moon: Beyond The Light",
-        "url": "https://open.spotify.com/album/5Id1UecoJT2agC8uag0jL6"
-      },
-      "artists": [
-        {
-          "name": "MAKTUB",
-          "url": "https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j"
-        }
-      ],
-      "duration_ms": 244173,
-      "name": "The Eternal Moment",
-      "url": "https://open.spotify.com/track/3K7dk2oIAmxJnhv8i24ak8"
-    },
-    {
-      "added_at": "2025-12-18 02:43:49",
-      "album": {
         "name": "Alley",
         "url": "https://open.spotify.com/album/1klgaObg00RhXIsKmVysk4"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 285426,
       "name": "Alley (with SUNG SI KYUNG)",
       "url": "https://open.spotify.com/track/2Qp3RHSP5f9csqFhhFgPrC"
+    },
+    {
+      "added_at": "2025-12-18 02:43:49",
+      "album": {
+        "name": "Red Moon: Beyond The Light",
+        "url": "https://open.spotify.com/album/5Id1UecoJT2agC8uag0jL6"
+      },
+      "artists": [
+        {
+          "name": "MAKTUB",
+          "url": "https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j"
+        }
+      ],
+      "duration_ms": 244173,
+      "name": "The Eternal Moment",
+      "url": "https://open.spotify.com/track/3K7dk2oIAmxJnhv8i24ak8"
     },
     {
       "added_at": "2025-12-18 02:43:49",

@@ -1,12 +1,12 @@
 {
   "description": "This is Jhen\u00e9 Aiko. The essential tracks, all in one playlist.",
-  "num_followers": 244300,
+  "num_followers": 244307,
   "original_name": "This Is Jhen\u00e9 Aiko",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVHEgAAAAADePQnYkjSUFsyA6A7KcOlM",
+  "snapshot_id": "aVMWAAAAAADD2YIyToLvu5WZJ8gtIWm+",
   "tracks": [
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
         }
       ],
-      "duration_ms": 152400,
-      "name": "2 seconds - Bonus",
-      "url": "https://open.spotify.com/track/1dnECPoSYg3ni8dr8HhulX"
+      "duration_ms": 262480,
+      "name": "living room flow - Bonus",
+      "url": "https://open.spotify.com/track/4Li8dc3ucCesQJMKErU5zM"
     },
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
         }
       ],
-      "duration_ms": 262480,
-      "name": "living room flow - Bonus",
-      "url": "https://open.spotify.com/track/4Li8dc3ucCesQJMKErU5zM"
+      "duration_ms": 152400,
+      "name": "2 seconds - Bonus",
+      "url": "https://open.spotify.com/track/1dnECPoSYg3ni8dr8HhulX"
     },
     {
       "added_at": null,
@@ -555,6 +555,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Trip",
+        "url": "https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        },
+        {
+          "name": "Kurupt",
+          "url": "https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz"
+        }
+      ],
+      "duration_ms": 270546,
+      "name": "Never Call Me",
+      "url": "https://open.spotify.com/track/0WXct4PcELq8Jh1R4Yhw4W"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Souled Out (Deluxe)",
         "url": "https://open.spotify.com/album/6UKXuiWFuwxzC5rd0SW4Bo"
       },
@@ -575,26 +595,6 @@
       "duration_ms": 297493,
       "name": "Promises",
       "url": "https://open.spotify.com/track/60W9P4zX25XPbbC5IMCoH9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trip",
-        "url": "https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        },
-        {
-          "name": "Kurupt",
-          "url": "https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz"
-        }
-      ],
-      "duration_ms": 270546,
-      "name": "Never Call Me",
-      "url": "https://open.spotify.com/track/0WXct4PcELq8Jh1R4Yhw4W"
     },
     {
       "added_at": null,

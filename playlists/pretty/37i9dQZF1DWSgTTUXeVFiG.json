@@ -1,6 +1,6 @@
 {
   "description": "Los \u00e9xitos de siempre en concierto. Foto: Celia Cruz",
-  "num_followers": 32014,
+  "num_followers": 32048,
   "original_name": "Vivo de Salsa",
   "owner": {
     "name": "Spotify",
@@ -451,8 +451,8 @@
     {
       "added_at": "2024-09-24 20:35:55",
       "album": {
-        "name": "Live At The Cheetah, Vol. 1",
-        "url": "https://open.spotify.com/album/1XfrZU7zjQT9obvRbk1x0e"
+        "name": "Live In Africa",
+        "url": "https://open.spotify.com/album/5YUlti1Sao9vMmKIinSTR1"
       },
       "artists": [
         {
@@ -460,13 +460,13 @@
           "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
         },
         {
-          "name": "Cheo Feliciano",
-          "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
+          "name": "Jorge Santana",
+          "url": "https://open.spotify.com/artist/68GKwB0h4qEbbEWfpT25Vm"
         }
       ],
-      "duration_ms": 435640,
-      "name": "Anacaona - Live",
-      "url": "https://open.spotify.com/track/0aiInkmMYSIizbx4YIxHHP"
+      "duration_ms": 293693,
+      "name": "Guantanamera - Live",
+      "url": "https://open.spotify.com/track/17m5ZCpxMEC1MyAeuu6u5L"
     },
     {
       "added_at": "2024-09-24 20:35:55",
@@ -539,8 +539,8 @@
     {
       "added_at": "2024-09-24 20:35:55",
       "album": {
-        "name": "Live In Africa",
-        "url": "https://open.spotify.com/album/5YUlti1Sao9vMmKIinSTR1"
+        "name": "Live At The Cheetah, Vol. 1",
+        "url": "https://open.spotify.com/album/1XfrZU7zjQT9obvRbk1x0e"
       },
       "artists": [
         {
@@ -548,13 +548,13 @@
           "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
         },
         {
-          "name": "Jorge Santana",
-          "url": "https://open.spotify.com/artist/68GKwB0h4qEbbEWfpT25Vm"
+          "name": "Cheo Feliciano",
+          "url": "https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC"
         }
       ],
-      "duration_ms": 293693,
-      "name": "Guantanamera - Live",
-      "url": "https://open.spotify.com/track/17m5ZCpxMEC1MyAeuu6u5L"
+      "duration_ms": 435640,
+      "name": "Anacaona - Live",
+      "url": "https://open.spotify.com/track/0aiInkmMYSIizbx4YIxHHP"
     },
     {
       "added_at": "2024-09-24 20:35:55",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-09-24 20:35:55",
       "album": {
-        "name": "Sergio George Presents Salsa Giants Plus EP (Live)",
-        "url": "https://open.spotify.com/album/1zvssiQA5jXkAscHWZJp44"
-      },
-      "artists": [
-        {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
-        }
-      ],
-      "duration_ms": 314666,
-      "name": "Desesperado / T\u00fa No Le Amas Le Temes Medley - Live Version",
-      "url": "https://open.spotify.com/track/2YOS0XgUx4FcbL4wh2SvCR"
-    },
-    {
-      "added_at": "2024-09-24 20:35:55",
-      "album": {
         "name": "30 A\u00f1os de Power",
         "url": "https://open.spotify.com/album/6nh67Ew5axaX1hW0WO4JlI"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 330800,
       "name": "Qui\u00e9reme Tal Como Soy - Live",
       "url": "https://open.spotify.com/track/75y9r2v3m3hOdNUJwWDzLZ"
+    },
+    {
+      "added_at": "2024-09-24 20:35:55",
+      "album": {
+        "name": "Sergio George Presents Salsa Giants Plus EP (Live)",
+        "url": "https://open.spotify.com/album/1zvssiQA5jXkAscHWZJp44"
+      },
+      "artists": [
+        {
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+        }
+      ],
+      "duration_ms": 314666,
+      "name": "Desesperado / T\u00fa No Le Amas Le Temes Medley - Live Version",
+      "url": "https://open.spotify.com/track/2YOS0XgUx4FcbL4wh2SvCR"
     },
     {
       "added_at": "2024-09-24 20:35:55",
@@ -907,6 +907,22 @@
     {
       "added_at": "2024-09-24 20:35:55",
       "album": {
+        "name": "Live At Madison Square Garden",
+        "url": "https://open.spotify.com/album/73lQS6xaOyVGEoVCmcDWcQ"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Manuelle",
+          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
+        }
+      ],
+      "duration_ms": 426240,
+      "name": "He Tratado - Live at MSG Version",
+      "url": "https://open.spotify.com/track/2h93BD54TVsD2kq22uscBB"
+    },
+    {
+      "added_at": "2024-09-24 20:35:55",
+      "album": {
         "name": "Sergio George Presents Salsa Giants (Live)",
         "url": "https://open.spotify.com/album/7EpsK00BLXW9BuoLmWY0Io"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 303586,
       "name": "Anacaona - Live Version",
       "url": "https://open.spotify.com/track/2NVpzFcSsWsWPuyH1X6IXG"
-    },
-    {
-      "added_at": "2024-09-24 20:35:55",
-      "album": {
-        "name": "Dos Soneros... Una Historia",
-        "url": "https://open.spotify.com/album/4MpP6sfknKNUhYo0lvnaUU"
-      },
-      "artists": [
-        {
-          "name": "V\u00edctor Manuelle",
-          "url": "https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2"
-        }
-      ],
-      "duration_ms": 397493,
-      "name": "Que Manera De Quererte - Live Version",
-      "url": "https://open.spotify.com/track/6C09eg8iPo0BTBwkaQpJjK"
     }
   ],
   "unique_name": "Vivo de Salsa",

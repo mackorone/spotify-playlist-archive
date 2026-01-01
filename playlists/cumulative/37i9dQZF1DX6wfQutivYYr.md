@@ -4,12 +4,12 @@
 
 > Emma sulla cover della playlist più grande in Italia 🔥
 
-269 songs - 13 hr 53 min
+270 songs - 13 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [00](https://open.spotify.com/track/58b9VLwnigGBDjvq89Eo1W) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [00](https://open.spotify.com/album/6MBwTJm6bgvEhh2Bj51uCy) | 2:14 | 2024-06-28 | 2024-07-19 |
-| [081](https://open.spotify.com/track/5EtlojWtD8y7pnoDb80JwP) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [081](https://open.spotify.com/album/6V1z5I1Bxnxt2GixkZa2To) | 2:55 | 2025-12-05 |  |
+| [081](https://open.spotify.com/track/5EtlojWtD8y7pnoDb80JwP) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [081](https://open.spotify.com/album/6V1z5I1Bxnxt2GixkZa2To) | 2:55 | 2025-12-05 | 2026-01-01 |
 | [1 MOMENTO \(feat\. ANNA\)](https://open.spotify.com/track/6OCnAtM8oa0JymErlTYXxG) | [Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [ASTRO](https://open.spotify.com/album/3MgibgQ9ES2OCG073TNXuG) | 2:56 | 2024-10-10 | 2025-01-28 |
 | [100 MESSAGGI](https://open.spotify.com/track/5bXgMzxuNymWhpwkgvYn4O) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [100 MESSAGGI](https://open.spotify.com/album/3XBD2ZHIvauc7k4MRQmS4N) | 4:04 | 2024-06-28 | 2024-09-06 |
 | [30ºC](https://open.spotify.com/track/5eyL6waluu7hXrRrWewBFU) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [30ºC](https://open.spotify.com/album/66o9NYg61y0te154pzWWth) | 2:22 | 2024-06-28 | 2024-11-16 |
@@ -202,6 +202,7 @@
 | [Perdono \(feat\. Shiva\)](https://open.spotify.com/track/79wDKThuLEgiQwJ0onVs3s) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Going Hard 3](https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra) | 3:15 | 2024-12-06 | 2025-01-08 |
 | [PEZZI DA 100 \(feat\. Kid Yugi\)](https://open.spotify.com/track/6d9eOuVkzV4XJ8YIWM3Q1k) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb) | [ICON](https://open.spotify.com/album/4rCMQjEm7zRJDbS5NbtCLY) | 2:39 | 2024-12-23 | 2025-01-14 |
 | [PEZZI DA NOVANTA \(feat\. MV Killa, Yung Snapp, Lele Blade, Vale Lambo, Frezza\)](https://open.spotify.com/track/5wxGfq3mQTlvYpON9F2wSu) | [SLF](https://open.spotify.com/artist/49SLNYRfTi1p9R38NooZKS), [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn), [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W) | [WE THE SQUAD Vol.2](https://open.spotify.com/album/4Bs1suGfjXE0KV1CoK4hTE) | 3:14 | 2025-02-10 | 2025-04-01 |
+| [PHANTOM \(feat\. 50 Cent\)](https://open.spotify.com/track/435NOlfzITSEghoaUNRle3) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [PHANTOM \(feat\. 50 Cent\)](https://open.spotify.com/album/3yBimWHgJNTk6yJo8Ofrnq) | 2:52 | 2025-12-31 |  |
 | [Piangere a 90](https://open.spotify.com/track/0Pq53cPG2DSuPXABoZrYes) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Piangere a 90](https://open.spotify.com/album/1hnBudoNBHLZuExBjV3mM3) | 2:35 | 2025-05-09 | 2025-10-07 |
 | [Piazza San Marco \(feat\. Marco Mengoni\)](https://open.spotify.com/track/0o5CZeuplgMbxles3Kketq) | [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv), [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5) | [Piazza San Marco \(feat\. Marco Mengoni\)](https://open.spotify.com/album/5hvqSt6A4URvBVagocDuwo) | 3:38 | 2025-09-05 |  |
 | [POSTO MIO](https://open.spotify.com/track/3Npk1eTTxSkRNYet4PW2yY) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Mara Sattei](https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk) | [CASA GOSPEL](https://open.spotify.com/album/0kmMczYmvnPMU45OhnStJh) | 3:20 | 2024-12-13 | 2025-02-13 |

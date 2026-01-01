@@ -1,6 +1,6 @@
 {
   "description": "We're born naked and the rest is drag. Cover: The Vivienne ",
-  "num_followers": 97889,
+  "num_followers": 97886,
   "original_name": "FIERCE",
   "owner": {
     "name": "Spotify",
@@ -683,22 +683,6 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1wbnnz5PKjCVkUZBBDHetm"
-      },
-      "artists": [
-        {
-          "name": "Trixie Mattel",
-          "url": "https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Shadow - Spotify Singles",
-      "url": "https://open.spotify.com/track/6gGUDB4bS7FhhtGVmjADGr"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
         "name": "Rodeo",
         "url": "https://open.spotify.com/album/5qAwGFaG7II3KvQgeqbhvp"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 210708,
       "name": "Rodeo",
       "url": "https://open.spotify.com/track/4yD54gEYISBUYtgth3cSv2"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1wbnnz5PKjCVkUZBBDHetm"
+      },
+      "artists": [
+        {
+          "name": "Trixie Mattel",
+          "url": "https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Shadow - Spotify Singles",
+      "url": "https://open.spotify.com/track/6gGUDB4bS7FhhtGVmjADGr"
     },
     {
       "added_at": "2025-01-14 16:17:40",

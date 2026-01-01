@@ -1,12 +1,12 @@
 {
   "description": "Create the new vibe by mixing in the retro sounds.",
-  "num_followers": 450309,
+  "num_followers": 450379,
   "original_name": "EDM Samplings",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO9tIVWcKQeN3+vRtWq7WVfHMrgS",
+  "snapshot_id": "AAAAAF7mhvKUaIz7uQvn1DxWd95t55TN",
   "tracks": [
     {
       "added_at": "2025-07-31 16:00:18",
@@ -27,26 +27,6 @@
       "duration_ms": 175238,
       "name": "I'm Good (Blue)",
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
-    },
-    {
-      "added_at": "2025-07-31 16:00:18",
-      "album": {
-        "name": "On My Lips (Sweet Dreams)",
-        "url": "https://open.spotify.com/album/7u7A5sAyb2YDHyXcnNIBxD"
-      },
-      "artists": [
-        {
-          "name": "Klaas",
-          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
-        },
-        {
-          "name": "Michael Roman",
-          "url": "https://open.spotify.com/artist/6ymKRGN5gpJNYqUGkxHyFH"
-        }
-      ],
-      "duration_ms": 143307,
-      "name": "On My Lips (Sweet Dreams)",
-      "url": "https://open.spotify.com/track/2m5pmGuwXU6S3aLNPRLfPN"
     },
     {
       "added_at": "2025-07-31 16:00:18",
@@ -1067,6 +1047,26 @@
       "duration_ms": 162302,
       "name": "Tricky Tricky",
       "url": "https://open.spotify.com/track/3MhymzaFcj7bXVJzB0ZJb8"
+    },
+    {
+      "added_at": "2025-07-31 16:00:18",
+      "album": {
+        "name": "Make Your Move",
+        "url": "https://open.spotify.com/album/0MuTtOd6C9QlO1iWiIlXgq"
+      },
+      "artists": [
+        {
+          "name": "Anton Powers",
+          "url": "https://open.spotify.com/artist/7h7ahzbTkbAFsshWJ7fOrc"
+        },
+        {
+          "name": "Redondo",
+          "url": "https://open.spotify.com/artist/3T0HSMgUpuH1hXbT1JPwQF"
+        }
+      ],
+      "duration_ms": 168991,
+      "name": "Make Your Move",
+      "url": "https://open.spotify.com/track/4cuJbDiraxt9AsEeevmFuQ"
     }
   ],
   "unique_name": "EDM Samplings",
