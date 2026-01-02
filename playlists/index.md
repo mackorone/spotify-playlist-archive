@@ -1,4 +1,4 @@
-## Playlists \(9052\)
+## Playlists \(9053\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -4465,6 +4465,7 @@
 - [O Trap Mais Caro](/playlists/pretty/37i9dQZF1DWWr5uieiPUVM.md)
 - [O iarnă chill](/playlists/pretty/37i9dQZF1DWTJ8OyVOVcvG.md)
 - [OBSESSED](/playlists/pretty/37i9dQZF1DX7YE2tQ4q86h.md)
+- [ODESZA \- ESSENTIALS](/playlists/pretty/3CbuNvlevZNRcTpWGKWIZz.md)
 - [OFF POP](/playlists/pretty/37i9dQZF1DX07Bg0Q5GozA.md)
 - [ONE PIECE](/playlists/pretty/37i9dQZF1DX9XrA0OT5b6M.md)
 - [ONE PIECE FILM RED](/playlists/pretty/37i9dQZF1DWV2mRphxMWjR.md)
