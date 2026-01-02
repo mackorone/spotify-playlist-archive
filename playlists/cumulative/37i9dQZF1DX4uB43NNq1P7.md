@@ -153,7 +153,7 @@
 | [Welcome Home](https://open.spotify.com/track/6hB3TsUZUwOC6QUxHIhFgg) | [En Sollozos](https://open.spotify.com/artist/3aGdDLCXYoZixmZbIriJoE) | [Welcome Home](https://open.spotify.com/album/0OREKsFFaKODKuVoAHtqrr) | 2:15 | 2023-03-13 | 2024-01-10 |
 | [Whispers of Dawn \(in the Rain\)](https://open.spotify.com/track/3tnGrx6JehRtt1Ew0q5DUa) | [Beau Shepherd](https://open.spotify.com/artist/4dROKap2sx0B4xC1QGBoNR) | [Soft and Still \(in the Rain\)](https://open.spotify.com/album/2H9zCYJkCoVtRceIMCi1hE) | 2:33 | 2025-11-05 |  |
 | [Windbreaker \(Rain\)](https://open.spotify.com/track/1bqD3jJD72M3vzc9ruQnxo) | [Loulaz](https://open.spotify.com/artist/7MGPD7xEYrAipWB1xaoiZz) | [Windbreaker \(Rain\)](https://open.spotify.com/album/1ZbhnNqhMIgQLwyCUJWpqd) | 3:20 | 2024-02-05 |  |
-| [Without Words & Gentle Rain](https://open.spotify.com/track/2RvsS6T2zbRyR7cmD6FFy1) | [Leo Zimmerman](https://open.spotify.com/artist/1rXR5cwxxippMLTtaeAa6y) | [Piano & Rain, vol\. I](https://open.spotify.com/album/4qSrjBWuIczggbNAifFfL8) | 2:17 | 2023-03-13 |  |
+| [Without Words & Gentle Rain](https://open.spotify.com/track/2RvsS6T2zbRyR7cmD6FFy1) | [Leo Zimmerman](https://open.spotify.com/artist/3Uk07vGqLuEYgADQThimsJ) | [Piano & Rain, vol\. I](https://open.spotify.com/album/4qSrjBWuIczggbNAifFfL8) | 2:17 | 2023-03-13 |  |
 | [You're My Favorite Song](https://open.spotify.com/track/1VivWZ7QS8igflqDXZHlCF) | [Oliver Suttcliffe](https://open.spotify.com/artist/4JaYzqOa5URlU6EiMxdlXn) | [See You in a Dream](https://open.spotify.com/album/1c4oQCA62N9ROFj5x97ClR) | 2:36 | 2023-03-13 |  |
 
 \*This playlist was first scraped on 2023-03-14. Prior content cannot be recovered.

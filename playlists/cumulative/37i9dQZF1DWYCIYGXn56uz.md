@@ -2,9 +2,9 @@
 
 ### [GENERAZIONE Z](https://open.spotify.com/playlist/37i9dQZF1DWYCIYGXn56uz)
 
-> ⚡️ qui un sacco di musica giovane ⚡️ Cover: Bresh
+> ⚡️ qui un sacco di musica giovane ⚡️ Cover: Eddie Brock
 
-941 songs - 1 day 19 hr 38 min
+942 songs - 1 day 19 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -655,6 +655,7 @@
 | [Piccoli piccoli \(feat\. centomilacarie\)](https://open.spotify.com/track/1A202wT21CErLDE7FikK03) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK), [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [Piccoli piccoli \(feat\. centomilacarie\)](https://open.spotify.com/album/2pP5kkrKygJ5sFsxHXJhSC) | 3:03 | 2024-07-04 | 2025-04-25 |
 | [Piccoli ricordi](https://open.spotify.com/track/1RVmeUoqYnxutbrNAGB4cB) | [Zaite](https://open.spotify.com/artist/6KLLVe6z95qVupJjRHmxMO) | [Piccoli ricordi](https://open.spotify.com/album/6EfIFS3aHzUkIgyLN8zmlg) | 2:07 | 2023-03-23 | 2023-04-14 |
 | [PICCOLO ME](https://open.spotify.com/track/0S564iZQcYuId4KIFVuZmo) | [Plant](https://open.spotify.com/artist/6gHfqtW8exAkwlpwHN4JyZ) | [PICCOLO ME](https://open.spotify.com/album/5Snt4p5P4M773bDR2wUytj) | 2:26 | 2025-03-27 | 2025-06-13 |
+| [pienoinverno](https://open.spotify.com/track/0zICsLsnwk8WiIdWxTq29x) | [MAGENTA FLORA](https://open.spotify.com/artist/7H9GIU0D6O5oHYTTlKrsAs) | [pienoinverno](https://open.spotify.com/album/09PA94G5nlJrDFPhcy7pmD) | 1:52 | 2026-01-01 |  |
 | [Pillole & Cucchiai](https://open.spotify.com/track/2JEc68Udh2oqlE5BzLfpVU) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [Pillole & Cucchiai](https://open.spotify.com/album/51gampjFBAPeeXNbIKcxXr) | 2:28 | 2025-05-22 | 2025-07-18 |
 | [PILLS](https://open.spotify.com/track/2L95Nk8SGXzP26qBqhVJ5F) | [AYLE](https://open.spotify.com/artist/1wUNmZVzUk16mfV42YY1eE), [Close Listen](https://open.spotify.com/artist/1nYewcxiLilP3ju14xOaov) | [LA PARTE DEL MONDO CHE NON MI PIACE](https://open.spotify.com/album/1SdYzkHgjy3yFa8gGRU70G) | 2:37 | 2024-10-10 | 2024-10-25 |
 | [PIOVERE](https://open.spotify.com/track/0NNWsInZjG2j0NGLBK7048) | [Elteep](https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB) | [PIOVERE](https://open.spotify.com/album/5aACZ8stKioaJl5aEGdMyv) | 2:32 | 2023-10-19 | 2023-11-10 |

@@ -2,7 +2,7 @@
 
 ### [Hit Radio](https://open.spotify.com/playlist/37i9dQZF1DXbS5WTN5nKF7)
 
-> Le meilleur des hits avec KATSEYE !
+> Le meilleur des hits avec Taylor Swift !
 
 428 songs - 22 hr 12 min
 

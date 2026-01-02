@@ -2,9 +2,9 @@
 
 ### [Indie Italia](https://open.spotify.com/playlist/37i9dQZF1DX6PSDDh80gxI)
 
-> ciao auguri dagli editor di Spotify 🎁 ricominciamo ad aggiornare la playlist il 2/1, intanto: i ptn in cover
+> ciao buon anno dagli editor di Spotify 🎁  cominciamo l'anno con coez in cover
 
-440 songs - 23 hr 32 min
+441 songs - 23 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [A cosa serve l'estate](https://open.spotify.com/track/3OtloNW0VqxwAjJ8JvimL3) | [svegliaginevra](https://open.spotify.com/artist/0mNU2jWtQEYmhBjWtWTBBS), [Leo Gassmann](https://open.spotify.com/artist/5i0snp4GKBLiFsAZAwuJ5b) | [A cosa serve l'estate](https://open.spotify.com/album/6zVOn1d1LL73QTvSLbiXUO) | 3:41 | 2024-09-19 | 2024-10-25 |
 | [A piedi il mondo \(con te\)](https://open.spotify.com/track/2h0rAVewwqk3k1zE2Jrahd) | [Gio Evan](https://open.spotify.com/artist/1UjLyuJUXKzlECQRLIsF3n) | [BDSR](https://open.spotify.com/album/6yN6JZHMEws4OXXG10IKoE) | 3:59 | 2024-12-19 | 2025-03-28 |
 | [A prescindere \(feat\. Colapesce\)](https://open.spotify.com/track/4AXxucEnPOqjgsS7E4PFet) | [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN), [Colapesce](https://open.spotify.com/artist/2KX2VLr3Eu6sn6EtxzCtvf) | [Amor Proprio](https://open.spotify.com/album/2g4FPbzrHL94RwOnPNGe7u) | 2:36 | 2025-10-09 |  |
+| [a tanto così](https://open.spotify.com/track/0qMbh9m60f3kQh1BuPMfMh) | [Fausto Lama](https://open.spotify.com/artist/5h3Z2Vlk3KkOi99YZ2MwGI) | [a tanto così](https://open.spotify.com/album/6bl0IDZNyRey1gXrrm5vbK) | 2:47 | 2026-01-01 |  |
 | [A te](https://open.spotify.com/track/6F88d4qWZIQo0mHPkLVPn2) | [Colombre](https://open.spotify.com/artist/6pVyScwe03hSEWuNs0qeJ1), [Maria Antonietta](https://open.spotify.com/artist/6anaeWEVZRRTdhWVMp1wnb) | [Luna di Miele](https://open.spotify.com/album/1xDLw26FaQjLnRY62Bgwvg) | 2:57 | 2025-09-18 | 2025-10-17 |
 | [A Vele Spiegate](https://open.spotify.com/track/3LVDkHER2X6n0xIIN8E6b3) | [Fitness Forever](https://open.spotify.com/artist/7eaGUzCmUeHYU4qssZoSai), [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [A Vele Spiegate](https://open.spotify.com/album/4FO5fjqOFxSH7wP5DOQ8l0) | 3:19 | 2024-09-19 | 2024-10-04 |
 | [Abbaiare](https://open.spotify.com/track/1UCQjfona71jM4c1kZZ6lj) | [Lucrezia](https://open.spotify.com/artist/2aJKv3evpIuadnARe0UPbl) | [Abbaiare](https://open.spotify.com/album/27C2TLrr3NFNYZwCTlLVPr) | 3:12 | 2025-01-23 | 2025-03-12 |

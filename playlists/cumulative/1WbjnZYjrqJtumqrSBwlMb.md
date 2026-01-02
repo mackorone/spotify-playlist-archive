@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,251 songs - 3 day 4 hr 40 min
+1,252 songs - 3 day 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1215,6 +1215,7 @@
 | [When We Die \(Can We Still Get High?\) \(feat\. Lil Yachty\)](https://open.spotify.com/track/08uWHOhYijA1DXxhHSDBDH) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [When We Die \(Can We Still Get High?\) \(feat\. Lil Yachty\)](https://open.spotify.com/album/3pgq59bj7H3zljjzgXvs6A) | 5:00 | 2024-01-27 |  |
 | [when you sleep](https://open.spotify.com/track/2KylN9C0wNbzLgZNTG9oiU) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [loveless](https://open.spotify.com/album/3USQKOw0se5pBNEndu82Rb) | 4:11 | 2024-04-24 |  |
 | [Where Evil Grows](https://open.spotify.com/track/3w56u6nrL0K1YYpinkfTeP) | [The Poppy Family](https://open.spotify.com/artist/0XawOhZ28ajmIWwPpRJuDA), [Terry Jacks](https://open.spotify.com/artist/16AJvLZdw3lK1VTBrJjEt0), [Susan Jacks](https://open.spotify.com/artist/6GH8lDgqqfg1KSDfFRFGzK) | [A Good Thing Lost: 1968\-1973](https://open.spotify.com/album/6Drcfiy2b9bJDPR5CllOyy) | 2:51 | 2022-03-23 |  |
+| [Where's My Love](https://open.spotify.com/track/1B62o4CbdL9ckGvwsz2cgn) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [SYML](https://open.spotify.com/album/7Lwn8CSE6bv6VYScebUGiz) | 3:22 | 2026-01-02 |  |
 | [Where's My Love \- Acoustic](https://open.spotify.com/track/0ElpbbncWT9aS7mgoqEHbQ) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Where's My Love](https://open.spotify.com/album/6U6yE35iYGweoUiFFjuBdC) | 3:59 | 2024-05-23 |  |
 | [Whiplash](https://open.spotify.com/track/3ubwpGT0gJYI9MRJcZPP0f) | [Theophilus London](https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Bebey](https://open.spotify.com/album/31e6kRTlCq4KGjg3XA6m5K) | 2:50 | 2024-06-17 |  |
 | [Whistle For The Choir](https://open.spotify.com/track/3rXCnvL6xP83VsYUg4rm7e) | [The Fratellis](https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G) | [Costello Music](https://open.spotify.com/album/7avNT7QnpWXl1Khqnsguaw) | 3:35 | 2024-08-08 |  |

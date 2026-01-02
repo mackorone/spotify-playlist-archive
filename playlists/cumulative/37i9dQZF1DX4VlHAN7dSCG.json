@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u5169\u4eba\u6210\u7d44\u3001\u4e09\u4eba\u6210\u5718\uff0c\u786c\u5730\u4e3b\u6d41\u90fd\u5728\u53f0\u7063\u958b\u82b1\uff01\u98a8\u683c\u8c50\u5bcc\u529b\u91cf\u5927\uff01Cover: \u96de\u86cb\u84b8\u8089\u9905 (GDJYB)",
+  "description": "\u5169\u4eba\u6210\u7d44\u3001\u4e09\u4eba\u6210\u5718\uff0c\u786c\u5730\u4e3b\u6d41\u90fd\u5728\u53f0\u7063\u958b\u82b1\uff01\u98a8\u683c\u8c50\u5bcc\u529b\u91cf\u5927\uff01Cover: \u9752\u866b aoi",
   "name": "\u7d44\u5718\u98c6\u6b4c",
   "tracks": [
     {
@@ -320,6 +320,28 @@
       "duration_ms": 400097,
       "name": "All On You",
       "url": "https://open.spotify.com/track/5xoZa4sntDk7Bj2QTmoD7c"
+    },
+    {
+      "album": {
+        "name": "All Right",
+        "url": "https://open.spotify.com/album/091TSEkvkIe7v2vEG0gQyX"
+      },
+      "artists": [
+        {
+          "name": "\u5218\u5ffb",
+          "url": "https://open.spotify.com/artist/5UgeL9yjnOMlBvnP4Teawa"
+        },
+        {
+          "name": "\u9057\u5fd8\u4ff1\u4e50\u90e8",
+          "url": "https://open.spotify.com/artist/3fjsdlB6mECylxV07yfskf"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198013,
+      "name": "All Right",
+      "url": "https://open.spotify.com/track/1Q6ypRhdt3d2YEX74MDxpm"
     },
     {
       "album": {
@@ -1340,7 +1362,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 223003,
       "name": "Embraced by Aoraki (Colloboh Version)",
       "url": "https://open.spotify.com/track/2TbIf4CNlNjmvOU2t6j1ch"
@@ -1646,6 +1668,24 @@
       "duration_ms": 202352,
       "name": "Freaky Girl",
       "url": "https://open.spotify.com/track/29ubgKk8PtZS3kDZ4IEBwT"
+    },
+    {
+      "album": {
+        "name": "Free Man",
+        "url": "https://open.spotify.com/album/197ys0kWdRFj1rJKwW80x7"
+      },
+      "artists": [
+        {
+          "name": "\u91ce\u6771\u897f",
+          "url": "https://open.spotify.com/artist/4rPhceoKF0tyntcBKJ8NX5"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183484,
+      "name": "Free Man",
+      "url": "https://open.spotify.com/track/2hjIuu9h5iAlPl5KVsTle6"
     },
     {
       "album": {
@@ -2836,7 +2876,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 310662,
       "name": "Mudita",
       "url": "https://open.spotify.com/track/6QRrpniezlY1MwOJaodMRV"
@@ -2894,6 +2934,24 @@
       "duration_ms": 202400,
       "name": "Never Gonna Stop",
       "url": "https://open.spotify.com/track/6EDNikfdT75GyAd5Dy2Om2"
+    },
+    {
+      "album": {
+        "name": "Nevermind",
+        "url": "https://open.spotify.com/album/739LxSpRDFcuNkWP5MjdOw"
+      },
+      "artists": [
+        {
+          "name": "\u8d85\u97f3\u754c",
+          "url": "https://open.spotify.com/artist/4vCltsSMbRRMM9J0sf6B89"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263675,
+      "name": "Nevermind",
+      "url": "https://open.spotify.com/track/35pshIhSZ77MCJmh2HnowM"
     },
     {
       "album": {
@@ -4488,6 +4546,24 @@
     {
       "album": {
         "name": "Live in THE WORLD - South America",
+        "url": "https://open.spotify.com/album/0PBvhU9Fum3pCb2xVEGckT"
+      },
+      "artists": [
+        {
+          "name": "Elephant Gym",
+          "url": "https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "Underwater - Live in Santiago, Chile",
+      "url": "https://open.spotify.com/track/19X0Y39YDec0UD548aWdEo"
+    },
+    {
+      "album": {
+        "name": "Live in THE WORLD - South America",
         "url": "https://open.spotify.com/album/5qXDLwKjO2ei7vA4slTTAt"
       },
       "artists": [
@@ -5122,7 +5198,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 253880,
       "name": "\u4e0a\u6211\u7684\u8eca",
       "url": "https://open.spotify.com/track/6KflUzVIfLwheXAsQABM4Z"
@@ -5730,6 +5806,24 @@
       "duration_ms": 233266,
       "name": "\u4ec0\u9ebc\u4ec0\u9ebc",
       "url": "https://open.spotify.com/track/0f4sPaAoNrkgpMBTE4Ze9c"
+    },
+    {
+      "album": {
+        "name": "\u4eca\u591c\u8309\u8389\u5f00",
+        "url": "https://open.spotify.com/album/6kOaAhy3p1LoZbaB3Xc3SW"
+      },
+      "artists": [
+        {
+          "name": "\u83ab\u975e\u5b9a\u5f8b\u4e50\u56e2",
+          "url": "https://open.spotify.com/artist/4XTIJd5AGmVq8urHnuMtcO"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295200,
+      "name": "\u4eca\u591c\u8309\u8389\u5f00",
+      "url": "https://open.spotify.com/track/6gHbfdgXIc9sJev6Hw1w43"
     },
     {
       "album": {
@@ -6348,6 +6442,28 @@
       "duration_ms": 185536,
       "name": "\u4fdd\u6301\u5fae\u91ba sapater han aca",
       "url": "https://open.spotify.com/track/1grB6QMiSsPI0MqxuI5fNK"
+    },
+    {
+      "album": {
+        "name": "\u8da8\u5149",
+        "url": "https://open.spotify.com/album/2G2afmF4UbhIxZmZfsNDFQ"
+      },
+      "artists": [
+        {
+          "name": "\u8568\u9cf4\u5b50",
+          "url": "https://open.spotify.com/artist/5Q3prVdBHmaOPiAT2xAUyL"
+        },
+        {
+          "name": "\u9673\u4ee5\u6046",
+          "url": "https://open.spotify.com/artist/26ptiw0RrtrYZcRPPGHj5G"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192996,
+      "name": "\u4fe1\u4efb\u7684\u52c7\u6c23",
+      "url": "https://open.spotify.com/track/19nL1OYONEeE6Hk9NkacqM"
     },
     {
       "album": {
@@ -7528,7 +7644,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 205681,
       "name": "\u548c\u4f60\u4e00\u8d77\u7684\u98a8\u666f",
       "url": "https://open.spotify.com/track/5sXgC20W4HQKyJEp46qUqv"
@@ -12444,7 +12560,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 254700,
       "name": "\u6c92\u6709\u7fc5\u8180\u7684\u4eba",
       "url": "https://open.spotify.com/track/67N1QPoNCIFE2DsHhs83Kf"
@@ -13048,7 +13164,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 225333,
       "name": "\u71d5\u5c3e\u8776 - \u6efe\u77f3\u649e\u6a02\u968a2 (\u539f\u5531:\u6881\u975c\u8339)",
       "url": "https://open.spotify.com/track/3AvISOR2PaKA4nTHlnWQXS"
@@ -13200,7 +13316,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 237176,
       "name": "\u73fe\u5be6\u4f5c\u5ee2",
       "url": "https://open.spotify.com/track/2OySVz6HcWe7uTfL7QtEBi"
@@ -13424,7 +13540,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 205000,
       "name": "\u767d\u8272\u5b9a\u683c (Eternal White)",
       "url": "https://open.spotify.com/track/1dc9UVn5mc3UKbFzCml6v2"
@@ -14645,6 +14761,24 @@
     },
     {
       "album": {
+        "name": "\u81fa\u5317\u7a7a\u6c23\u6ffe\u6de8\u6a5f",
+        "url": "https://open.spotify.com/album/0CJ3n6cqv3g1e3MLtKxlnJ"
+      },
+      "artists": [
+        {
+          "name": "\u6253\u5012\u4e09\u660e\u6cbb",
+          "url": "https://open.spotify.com/artist/50FEJC364l9cY3wTRZQ8I8"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265013,
+      "name": "\u81fa\u5317\u7a7a\u6c23\u6ffe\u6de8\u6a5f",
+      "url": "https://open.spotify.com/track/56dyhh8prOEVXwsJ02VIUK"
+    },
+    {
+      "album": {
         "name": "\u81fa\u7063\u6587\u86e4 Huh?",
         "url": "https://open.spotify.com/album/525cf7buiKibRJ9160tpg0"
       },
@@ -15476,7 +15610,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 335000,
       "name": "\u8db3\u5920",
       "url": "https://open.spotify.com/track/6HBvCbddHGg1vrW7D9G0Da"
@@ -15820,7 +15954,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 298936,
       "name": "\u904e\u5ba2",
       "url": "https://open.spotify.com/track/74kKHqhF5BkyIAPfIdatSm"
@@ -16575,6 +16709,24 @@
     },
     {
       "album": {
+        "name": "\u6709\u4f60\u7684\u6545\u4e8b",
+        "url": "https://open.spotify.com/album/2L0gp59tWWu7wlajguhZuY"
+      },
+      "artists": [
+        {
+          "name": "\u9752\u866b aoi",
+          "url": "https://open.spotify.com/artist/7ktAsKYEFwtaMgXZgYCfu5"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241040,
+      "name": "\u9752\u9ce5",
+      "url": "https://open.spotify.com/track/5hJBna40xT529F1mJWfAMd"
+    },
+    {
+      "album": {
         "name": "\u9762\u9762\u76f8\u89b7",
         "url": "https://open.spotify.com/album/2arlptaoqAS4Bh8ROxSkWh"
       },
@@ -17018,6 +17170,24 @@
       "duration_ms": 121600,
       "name": "\u9ea5\u64f1\u9ed1\u767d\u8b1b - \u932f\u983b\u6c92\u5728\u7a3f OFF THE RECORD - DEMO",
       "url": "https://open.spotify.com/track/3zGykdGtjBQdezvPgLH8Uy"
+    },
+    {
+      "album": {
+        "name": "\u9ebb\u5409Go",
+        "url": "https://open.spotify.com/album/0GU0gYGTD1hV6oheeN4XWo"
+      },
+      "artists": [
+        {
+          "name": "U:NUS",
+          "url": "https://open.spotify.com/artist/5MU3mwZkyvAeTD2vEMs6dZ"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203809,
+      "name": "\u9ebb\u5409Go",
+      "url": "https://open.spotify.com/track/4wJ5TXbDPcJqNRGqhMaudY"
     },
     {
       "album": {

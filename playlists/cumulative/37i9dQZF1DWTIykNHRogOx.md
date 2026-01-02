@@ -2,7 +2,7 @@
 
 ### [Exception Française](https://open.spotify.com/playlist/37i9dQZF1DWTIykNHRogOx)
 
-> Les  meilleures nouveautés de la chanson française avec Vanessa Paradis
+> Les  meilleures nouveautés de la chanson française avec Luns
 
 259 songs - 14 hr 22 min
 

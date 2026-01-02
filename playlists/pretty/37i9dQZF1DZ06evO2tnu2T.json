@@ -1,12 +1,12 @@
 {
   "description": "This is Absolutely. The essential tracks, all in one playlist.",
-  "num_followers": 1303,
+  "num_followers": 1310,
   "original_name": "This Is Absolutely",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVMWAAAAAAA2qfZiJRTJVZoLZKPg3yqz",
+  "snapshot_id": "aVRngAAAAAAH6zPrkRS5lqYPW0ul65La",
   "tracks": [
     {
       "added_at": null,
@@ -91,26 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PRINCESS OF POWER (DELUXE)",
-        "url": "https://open.spotify.com/album/7KKQfFKPruJ3lHVVtwGuo7"
-      },
-      "artists": [
-        {
-          "name": "MARINA",
-          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
-        },
-        {
-          "name": "Absolutely",
-          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
-        }
-      ],
-      "duration_ms": 247846,
-      "name": "EVERYBODY KNOWS I'M SAD - REMIX",
-      "url": "https://open.spotify.com/track/15BYAhv1YFKwKaOIJz1r9s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Waterslides",
         "url": "https://open.spotify.com/album/5U1HyVpo9zeSC8K8LhHx4i"
       },
@@ -131,6 +111,26 @@
       "duration_ms": 158174,
       "name": "Waterslides",
       "url": "https://open.spotify.com/track/1SBfaO3swtjh8dV07MExuP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PRINCESS OF POWER (DELUXE)",
+        "url": "https://open.spotify.com/album/7KKQfFKPruJ3lHVVtwGuo7"
+      },
+      "artists": [
+        {
+          "name": "MARINA",
+          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
+        },
+        {
+          "name": "Absolutely",
+          "url": "https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh"
+        }
+      ],
+      "duration_ms": 247846,
+      "name": "EVERYBODY KNOWS I'M SAD - REMIX",
+      "url": "https://open.spotify.com/track/15BYAhv1YFKwKaOIJz1r9s"
     },
     {
       "added_at": null,

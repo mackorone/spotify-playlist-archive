@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-6,374 songs - 14 day 16 hr 44 min
+6,377 songs - 14 day 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1577,6 +1577,7 @@
 | [Don't Let Me Drown](https://open.spotify.com/track/7MTKoHb0Gqvm6SCOp639at) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [F1 The Album \(Cinematic Edition\)](https://open.spotify.com/album/5TNQ53hp55WtBA1H8LYtMw) | 3:05 | 2025-06-27 | 2025-07-05 |
 | [Don't Lie](https://open.spotify.com/track/5is9ECympHEpAyTw22IDC5) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Don't Lie](https://open.spotify.com/album/4OjKYMqojvunC37Usp9Myf) | 2:28 | 2024-09-06 | 2024-09-14 |
 | [Don't Look Down](https://open.spotify.com/track/060VALM3GBwYuLva2Kg4r9) | [Gary Barlow](https://open.spotify.com/artist/3ZcbVcd3fsf9qKK02UVzGB), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Don't Look Down](https://open.spotify.com/album/09vETzLYeQ2RxuOOWYpkeY) | 3:25 | 2025-08-01 | 2025-08-08 |
+| [Don't Need You](https://open.spotify.com/track/3SEZwHaFsgMhL17tQAjaA9) | [Luster](https://open.spotify.com/artist/0IqC2A5HTnTIKzqcFXJQms) | [Don't Need You](https://open.spotify.com/album/0X69Zw7WbnQeq8prrb6M4A) | 4:52 | 2026-01-01 |  |
 | [Don't Panic](https://open.spotify.com/track/4a80lLYQMh00A2JTSrfilk) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [If You're Looking For A New Best Friend](https://open.spotify.com/album/6ybro3yXc4lgGuN81AGcYO) | 1:50 | 2025-02-14 | 2025-02-22 |
 | [Don't Put It All On Me \(feat\. Fleet Foxes\)](https://open.spotify.com/track/4xZK9tK3N0aOIO18k1Ldul) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Don't Put It All On Me \(feat\. Fleet Foxes\)](https://open.spotify.com/album/2oj7wFuIFkVPcUENYjkS9U) | 4:07 | 2025-03-21 | 2025-03-29 |
 | [don't rely on other men](https://open.spotify.com/track/2RZBNHSfrxyIs8u9ciLKLf) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO) | [don't rely on other men](https://open.spotify.com/album/0S3p06Juu3pFmzpdQbOHOK) | 3:14 | 2024-06-19 | 2024-06-29 |
@@ -2201,6 +2202,7 @@
 | [Gira Gira](https://open.spotify.com/track/3ZFJzlq0rl5GrA0BI71npG) | [Chico Blanco](https://open.spotify.com/artist/7xLtt3vnhKGANQKpsaIMVa) | [Gira Gira](https://open.spotify.com/album/2nVj5Iw2MdLiA7sc1AiDoA) | 3:58 | 2025-07-25 | 2025-08-02 |
 | [Girl](https://open.spotify.com/track/07DapAVEtfc5KvHVpORuUn) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D), [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [Girl](https://open.spotify.com/album/4qROVm5bhCJAhkM4AW7pNt) | 3:32 | 2025-02-28 | 2025-03-08 |
 | [GIRL I WANT YOU](https://open.spotify.com/track/5ocaIFjQEcuZni3guyHoHl) | [Paperwater](https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky) | [GIRL I WANT YOU](https://open.spotify.com/album/7i4Kb4tSmsvXWTM399KKct) | 3:31 | 2025-09-12 | 2025-09-20 |
+| [girl, get up\. \(feat\. SZA\)](https://open.spotify.com/track/2igNvPf7RLTZG688Mx8GtU) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [girl, get up\. \(feat\. SZA\)](https://open.spotify.com/album/0gay0zMUEE8cqgkk7z8nzS) | 3:08 | 2026-01-01 |  |
 | [Girl, so confusing \- Cover](https://open.spotify.com/track/2VGS2fuYuxtbDNeKRCuYL0) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [Girl, so confusing \(Cover\)](https://open.spotify.com/album/0dU5WQsbGV9z8A5YEWrCDv) | 3:34 | 2025-09-09 | 2025-09-20 |
 | [Girlie\-Pop!](https://open.spotify.com/track/4WSuaGf6t5hMQg51S7M2MV) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Girlie\-Pop!](https://open.spotify.com/album/0OUK6jlKyr6CMC6ZfUtz23) | 2:03 | 2025-07-25 | 2025-08-02 |
 | [Girls](https://open.spotify.com/track/6GazyJYhSCbucrUZBrifUQ) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Girls](https://open.spotify.com/album/71MnN9SxX2YOh3Q2MVDAmD) | 3:01 | 2025-08-15 | 2025-08-23 |
@@ -5697,6 +5699,7 @@
 | [todo pasa](https://open.spotify.com/track/5V6XHZ2v3ysUNFbP8qU5Zv) | [Candela Gómez](https://open.spotify.com/artist/0jIhz2FFQmwcjj63SJh63h) | [todo pasa](https://open.spotify.com/album/3hAaNKjsP2NlvWvXoMPsrk) | 2:53 | 2025-06-06 | 2025-06-28 |
 | [Todo por ti](https://open.spotify.com/track/00tmnIwozEu5Og5l2sDDkd) | [Cometa](https://open.spotify.com/artist/58yfk7XJoZidLuHKYK3ZxI) | [Todo por ti](https://open.spotify.com/album/6gyQQZqpg1rOn5GmHIhAUo) | 2:53 | 2024-04-26 | 2024-05-10 |
 | [todo y nada](https://open.spotify.com/track/7Dj6drRthSTvR787ejc4eI) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [todo y nada](https://open.spotify.com/album/2LSNz2CcGALSM8JVv9cWNS) | 3:31 | 2024-10-25 | 2024-11-09 |
+| [Todos Estamos Bailando La Misma Canción](https://open.spotify.com/track/6j23hE057HmBxUErUjoEt9) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [Todos Estamos Bailando La Misma Canción](https://open.spotify.com/album/6XpGSdXg89IDyFZS1pWsir) | 4:08 | 2026-01-01 |  |
 | [Todos mis amigos](https://open.spotify.com/track/0H368h1WJmZQCzl8pMKGuY) | [Besmaya](https://open.spotify.com/artist/1yk1KXKWdvXVUC1TLAnO97) | [Todos mis amigos](https://open.spotify.com/album/5MHR2PXulzA96Aot6xgFpy) | 2:49 | 2025-06-20 | 2025-06-28 |
 | [Together](https://open.spotify.com/track/71bCaSZfqLnfEEfAA5kFxE) | [The Parade](https://open.spotify.com/artist/1FlO1NMLAjUfEdyIZqeIKP) | [Together](https://open.spotify.com/album/0B7vZZns2rWDOjp25n3ZKH) | 4:07 | 2025-12-19 |  |
 | [Tokyo](https://open.spotify.com/track/1d5l8IPtzdwsr2m203vUdA) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [I Got Too Sad For My Friends](https://open.spotify.com/album/2PTF4EW8kJIeib3cQ87lJk) | 3:26 | 2025-05-30 | 2025-06-07 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "de skarpeste knive i dansk musik  \ud83d\udcf8  Mona Moroni",
+  "description": "de skarpeste knive i dansk musik  \ud83d\udcf8  Mercedess",
   "name": "ung kniv ",
   "tracks": [
     {
@@ -121,6 +121,24 @@
     },
     {
       "album": {
+        "name": "affirmations",
+        "url": "https://open.spotify.com/album/1rvC1FhzyQe7Js5L8PBw3I"
+      },
+      "artists": [
+        {
+          "name": "Mercedess",
+          "url": "https://open.spotify.com/artist/487LWNWQyTG52kpmID4tTm"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "affirmations",
+      "url": "https://open.spotify.com/track/38Tt6dvzHXNLZgW6Zhryrs"
+    },
+    {
+      "album": {
         "name": "Desires",
         "url": "https://open.spotify.com/album/5a8vdQ9RT5KvGmwGqWy3jD"
       },
@@ -168,7 +186,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 129000,
       "name": "Alt Jeg Er, Alt Jeg Har",
       "url": "https://open.spotify.com/track/3eVTyI6Av89J80Zk5YjwzD"
@@ -606,6 +624,24 @@
       "duration_ms": 141653,
       "name": "Bl\u00f8d",
       "url": "https://open.spotify.com/track/73IX0AWJ5BcAyosnQ3QalA"
+    },
+    {
+      "album": {
+        "name": "Bobler",
+        "url": "https://open.spotify.com/album/1KyvtKAaTc7azB20HJ0KJE"
+      },
+      "artists": [
+        {
+          "name": "Lea Romea",
+          "url": "https://open.spotify.com/artist/6wmoRZXV3XJDZkZryNV8Yb"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161764,
+      "name": "Bobler",
+      "url": "https://open.spotify.com/track/4w77uY6YcGkd8vznIs0sF7"
     },
     {
       "album": {
@@ -1862,7 +1898,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 185821,
       "name": "fisk i havet",
       "url": "https://open.spotify.com/track/4Tb2FQOqTmsGHuOdN2hKDH"
@@ -4034,7 +4070,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-21",
+      "date_removed": null,
       "duration_ms": 186964,
       "name": "M\u00f8ntvask",
       "url": "https://open.spotify.com/track/03KN1dxRNaI5A1X0JXKvpP"
@@ -5836,7 +5872,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 191285,
       "name": "Tidevand",
       "url": "https://open.spotify.com/track/2z5VuwdvSIrx9IhlOno2tX"

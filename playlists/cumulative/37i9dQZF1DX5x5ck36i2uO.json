@@ -672,7 +672,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 217333,
       "name": "City Life",
       "url": "https://open.spotify.com/track/0js8Q0TXxvg288AO0MPM0U"
@@ -2308,6 +2308,36 @@
       "duration_ms": 170312,
       "name": "MY MAN",
       "url": "https://open.spotify.com/track/5b7tap7ob0rrZIA2DsyOQe"
+    },
+    {
+      "album": {
+        "name": "MY MAN (Remix)",
+        "url": "https://open.spotify.com/album/6k0E3GIjRUxcWEts05AfMw"
+      },
+      "artists": [
+        {
+          "name": "1ANDON",
+          "url": "https://open.spotify.com/artist/3FuZ5fJDy5kgZ994gpSmEf"
+        },
+        {
+          "name": "Lil Moshpit",
+          "url": "https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy"
+        },
+        {
+          "name": "Yun Seokcheol",
+          "url": "https://open.spotify.com/artist/2CducdjCN6kUjcecP0U5we"
+        },
+        {
+          "name": "YULEUM",
+          "url": "https://open.spotify.com/artist/7mR09TGFa7m27D7l2m9FbB"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "MY MAN - Remix",
+      "url": "https://open.spotify.com/track/2rHcAV9iKHs19oKvM2elyV"
     },
     {
       "album": {

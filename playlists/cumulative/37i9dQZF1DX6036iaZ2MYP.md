@@ -2,9 +2,9 @@
 
 ### [Afro Station](https://open.spotify.com/playlist/37i9dQZF1DX6036iaZ2MYP)
 
-> Tracks popping off in the Afro scene\. Cover: Marioo
+> Tracks popping off in the Afro scene\. Cover: Khaid
 
-1,055 songs - 2 day 1 hr 36 min
+1,057 songs - 2 day 1 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [barry wonder](https://open.spotify.com/track/0v2GtheA1dmGb6ngshBkAD) | [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N), [10.93](https://open.spotify.com/artist/53BnYElQOxKgzc1VkSdDWc) | [barry wonder](https://open.spotify.com/album/6TNtDvgFGVACXM3JUWtzRt) | 2:42 | 2025-10-16 | 2025-11-28 |
 | [BB](https://open.spotify.com/track/1H0jg9oaxn6o1sY7EOZurD) | [Kawid](https://open.spotify.com/artist/5syggS0mW2lbXyA9L5XzRN), [Diane Dddd](https://open.spotify.com/artist/62MufOQctTd5rxW46i0ehY) | [BB](https://open.spotify.com/album/7DTIfqhzFODpgzvDkfCRSM) | 2:28 | 2024-11-07 | 2024-12-06 |
 | [Beauty In The Madness](https://open.spotify.com/track/1ZeNNGi93weFVbOHdmTB6F) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Beauty In The Madness](https://open.spotify.com/album/3kMARMOndO5NMBDU37J4G8) | 3:43 | 2022-07-13 | 2022-09-15 |
-| [BEBI](https://open.spotify.com/track/70klciBek95qMq7KiDX7zE) | [Kish](https://open.spotify.com/artist/2gVFsWpxGngHu7qbYbj8Ci), [JEY BROWNIE](https://open.spotify.com/artist/7kaoO6sl3TKJ6p31PxqubZ) | [BEBI](https://open.spotify.com/album/6xYI6GSAY1MbBqPy9Xi7oZ) | 2:15 | 2025-11-13 |  |
+| [BEBI](https://open.spotify.com/track/70klciBek95qMq7KiDX7zE) | [Kish](https://open.spotify.com/artist/2gVFsWpxGngHu7qbYbj8Ci), [JEY BROWNIE](https://open.spotify.com/artist/7kaoO6sl3TKJ6p31PxqubZ) | [BEBI](https://open.spotify.com/album/6xYI6GSAY1MbBqPy9Xi7oZ) | 2:15 | 2025-11-13 | 2026-01-02 |
 | [Beggie Beggie](https://open.spotify.com/track/6zublRIkZocboXucqc8hgB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [19 & Dangerous](https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv) | 3:28 | 2022-07-13 | 2022-08-26 |
 | [Behind \(with Joshua Baraka\)](https://open.spotify.com/track/64YJeGo9tXmfvRTPcv9rcP) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW), [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [131 \(EP\)](https://open.spotify.com/album/1x9kTzzq1OHHjKA8KzI8sO) | 3:02 | 2025-03-27 | 2025-05-02 |
 | [Bekanise](https://open.spotify.com/track/22NaudXPMCaD6gbZMv9qar) | [Agatchu](https://open.spotify.com/artist/5ZQuf1hFcYWTqEJoWSkp65) | [Bekanise](https://open.spotify.com/album/7dfHQP9RHeZ1W0jmLx9utc) | 2:20 | 2024-03-14 | 2024-04-26 |
@@ -131,6 +131,7 @@
 | [Believe](https://open.spotify.com/track/3JB1l8OXsivYjF4fEeg49L) | [Agatchu](https://open.spotify.com/artist/5ZQuf1hFcYWTqEJoWSkp65), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Believe](https://open.spotify.com/album/3oFBfZMErIUKq7PJg3DLiT) | 3:30 | 2024-05-23 | 2024-08-02 |
 | [Belinda](https://open.spotify.com/track/03pv8d28pqb7edfT6JvwzD) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Belinda](https://open.spotify.com/album/2o0OJkBfmEt8CzHRAXfyO3) | 3:17 | 2025-11-06 | 2025-12-05 |
 | [Bella](https://open.spotify.com/track/5t9YMtyS1gtsHV9zHghrt2) | [AKIM PAPICHULO](https://open.spotify.com/artist/4YoNTFyTQlpPs0y603bBS6) | [Bella](https://open.spotify.com/album/6UwuDIWJshC0FcTaIpUjoj) | 2:43 | 2025-05-08 | 2025-05-30 |
+| [Bella](https://open.spotify.com/track/06dSzmXW7o2j2ik8sg8fsE) | [Kish](https://open.spotify.com/artist/2gVFsWpxGngHu7qbYbj8Ci) | [Bella](https://open.spotify.com/album/3BPr9LlezWLVq47htUccHp) | 2:23 | 2026-01-01 |  |
 | [Bella](https://open.spotify.com/track/1cWhEVeod9vNnt99IWQOtp) | [ND](https://open.spotify.com/artist/6hXVcZyUR2WLIXDkXrw1eQ), [Giordan Chase](https://open.spotify.com/artist/70UN6NJ61w4Ugtjgmlu0HT) | [Bella](https://open.spotify.com/album/0m06zefSt575K7uCdShGxr) | 3:20 | 2022-12-08 | 2023-06-09 |
 | [Belle Carte](https://open.spotify.com/track/2gKsBw5M0U3HXF0fUPo2Lt) | [CDG](https://open.spotify.com/artist/44ePsJ2ugBV7yHk8c4w4WL) | [Belle Carte](https://open.spotify.com/album/3Yin1NWzb34xLjIh0bN3cJ) | 2:48 | 2023-07-27 | 2023-10-20 |
 | [Bend](https://open.spotify.com/track/2GZNKi3rgaT1ZKpkKDkA0Y) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Morayo](https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1) | 2:33 | 2024-11-21 | 2025-03-07 |
@@ -770,6 +771,7 @@
 | [Pami](https://open.spotify.com/track/089MJDjJ7qJmMWcmD3J4c8) | [Tera Kòrá](https://open.spotify.com/artist/29oWM4DINZdTGRS0xKihHR), [Yung D3mz](https://open.spotify.com/artist/2PWdxiDyY5rv1qBHEUfqQf) | [Pami](https://open.spotify.com/album/4fjfAYCr7TDteiCVSX4IlM) | 2:41 | 2022-11-10 | 2023-04-13 |
 | [PANAMA](https://open.spotify.com/track/3GR6yHgiEj1FVYzIj77mQO) | [WAYNE FLENORY](https://open.spotify.com/artist/6SZwuzkYiQwQIFMJ6VHCIV), [SALIMA CHICA](https://open.spotify.com/artist/0K27AaIekeMBOznvvoVstw) | [PANAMA](https://open.spotify.com/album/67FWuAgMg7eK9mFpeuVuKs) | 3:11 | 2025-10-16 | 2025-12-05 |
 | [PAPARAZZI](https://open.spotify.com/track/7eVAdBJEHMk25YKKFftmJt) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5) | [PAPARAZZI](https://open.spotify.com/album/0rJk1wo346iln3FupbnF3b) | 2:27 | 2024-05-23 | 2024-08-30 |
+| [Paparazzi](https://open.spotify.com/track/7BhG41omZ3k1wwlNzIlCrm) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [Paparazzi](https://open.spotify.com/album/3y6KnQqXjVz7lK5gi9CuRX) | 2:27 | 2026-01-01 |  |
 | [Para](https://open.spotify.com/track/63oup3T49OzdnDqxS3Xbzb) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Para](https://open.spotify.com/album/2iU5X3vUdNMcAOXYqMC5OE) | 3:00 | 2022-08-25 | 2023-03-03 |
 | [Pardon](https://open.spotify.com/track/4GHlt0rLK8dOC13iVAk1kO) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [No Sign of Weakness](https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf) | 2:53 | 2025-08-21 | 2025-11-21 |
 | [Paris](https://open.spotify.com/track/3varTiHGif7hoPSflFz0pQ) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Paris](https://open.spotify.com/album/2AxhvJ6KOZtmegupnK94No) | 2:20 | 2024-03-07 | 2024-06-14 |
@@ -875,7 +877,7 @@
 | [Sha Na \(with Minz\)](https://open.spotify.com/track/3UArau2uq69qp4UaptkKAL) | [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Sha Na \(with Minz\)](https://open.spotify.com/album/5wnNA3swYhPsAXWaN03pHO) | 2:50 | 2025-07-03 | 2025-08-15 |
 | [Shakabulizzy](https://open.spotify.com/track/1Yf58S4QQwxqYSJZm5JxmA) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Shakabulizzy](https://open.spotify.com/album/3C9TWb7MPEM0gOJOmEk54s) | 2:45 | 2025-09-18 | 2025-11-07 |
 | [Shakara](https://open.spotify.com/track/6XPPB2eOwBid6EbveTmVYe) | [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Shakara](https://open.spotify.com/album/2IAaPLIeM9CHUzqrTllGJI) | 3:20 | 2022-07-13 | 2022-12-02 |
-| [SHAKO MAKO](https://open.spotify.com/track/2eU8ChhO5OqUHKHsa6hnfs) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Mustafa Al\-Abdullah](https://open.spotify.com/artist/3hHA3JWJQfVAYx5lRTxSxu) | [BABABA WORLD](https://open.spotify.com/album/1m62N99DJ1zwuRrUkPW5VC) | 2:17 | 2025-09-18 |  |
+| [SHAKO MAKO](https://open.spotify.com/track/2eU8ChhO5OqUHKHsa6hnfs) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Mustafa Al\-Abdullah](https://open.spotify.com/artist/3hHA3JWJQfVAYx5lRTxSxu) | [BABABA WORLD](https://open.spotify.com/album/1m62N99DJ1zwuRrUkPW5VC) | 2:17 | 2025-09-18 | 2026-01-02 |
 | [Shaye](https://open.spotify.com/track/0hFgFEdlRzbWGZGEHiCwPy) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Shaye](https://open.spotify.com/album/46Ly7qRxGR5Hq6yPSEqRDH) | 2:49 | 2022-08-25 | 2023-03-10 |
 | [Shoot](https://open.spotify.com/track/6aUsMZk5RinEkocINXOBZX) | [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [Honestly,](https://open.spotify.com/album/5RmNJ4XWLWKjU4dk6eYbSx) | 2:29 | 2024-08-08 | 2024-10-11 |
 | [Showa](https://open.spotify.com/track/4WYbYaibpIWj1FLbMUH2Yb) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [TZA](https://open.spotify.com/album/21I7DCMp4VFLojWHERrr0E) | 2:55 | 2024-07-11 | 2024-08-09 |

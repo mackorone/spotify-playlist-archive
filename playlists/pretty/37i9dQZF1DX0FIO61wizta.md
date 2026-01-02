@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FIO61wizta.md) - [plain]
 
 > Verdi was the undisputed king of Italian opera in the 19th century\. Explore his greatest works, including Rigoletto and La Traviata, right here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,962 likes - 60 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,987 likes - 60 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

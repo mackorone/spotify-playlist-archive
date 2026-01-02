@@ -4,7 +4,7 @@
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: Ati242
 
-829 songs - 1 day 13 hr 22 min
+830 songs - 1 day 13 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -527,6 +527,7 @@
 | [MOVIE](https://open.spotify.com/track/3fznN0fNZAuTSu8f0vDO7E) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [MOVIE](https://open.spotify.com/album/2Ly8JjXY6CG8D5m3UUQt9O) | 2:35 | 2023-01-10 | 2023-01-27 |
 | [Multi\-Milyoner](https://open.spotify.com/track/2IHJ2GtzgmQXFjJ4x2ZAQY) | [Burry Soprano](https://open.spotify.com/artist/5SpHQasdZkIx2RFJzvBBsD), [Vio](https://open.spotify.com/artist/6jTpCdn1rLOY8OPiTlG7Yt) | [Koleksiyoner](https://open.spotify.com/album/00lG7bXzbDDApmB3kupSrf) | 3:07 | 2023-03-23 | 2023-04-07 |
 | [Mülteci](https://open.spotify.com/track/4HaMpkwcCGKDZt72wQNj1x) | [Eypio](https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ) | [Mülteci](https://open.spotify.com/album/0f8FxGc32sNZZaZiLXMGKs) | 2:58 | 2025-11-20 | 2025-12-12 |
+| [Mülteci Kelebekler](https://open.spotify.com/track/5n8guiNcpqpHCHEOkh5xtD) | [Sorgu](https://open.spotify.com/artist/5rfJ3Ece18ZymeMvpMLUvB), [Farazi](https://open.spotify.com/artist/44wLgA9gxORLwDGRvYpRBg) | [Mülteci Kelebekler](https://open.spotify.com/album/0izIY7JgxIwsvmn9eyMRFu) | 2:21 | 2026-01-01 |  |
 | [Mümkünse](https://open.spotify.com/track/1LYVm4xK4dAoBNd4IDs5Wa) | [BEGE](https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC), [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [YBF](https://open.spotify.com/album/45cQk54hGNWgTImfVD5RAB) | 3:16 | 2024-04-04 | 2024-06-01 |
 | [Müşkül](https://open.spotify.com/track/6OZoesRPfDRImpsKSH3jJP) | [Allame](https://open.spotify.com/artist/25FdziPY37yQIRXSk7ZUmS) | [Müşkül](https://open.spotify.com/album/0HYzOGKPaiMSVvwesU9tkz) | 1:50 | 2024-08-29 | 2024-09-27 |
 | [Mırrmırr](https://open.spotify.com/track/0y0Cpis5Eh9hL7VTgjxBEL) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS) | [Mırrmırr](https://open.spotify.com/album/1sBfOMc35HEQ4epGYWwR7n) | 2:58 | 2025-03-06 | 2025-03-21 |

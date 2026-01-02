@@ -34,7 +34,7 @@
       ],
       "date_added": "2025-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 112083,
       "name": "A Primeira Vez",
       "url": "https://open.spotify.com/track/0td3SDQhtP0RXXKPzlFpYQ"
@@ -108,7 +108,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-01",
+      "date_removed": null,
       "duration_ms": 321640,
       "name": "All of Me (Disse algu\u00e9m)",
       "url": "https://open.spotify.com/track/3XUJt8gNj9O1eyNvOtVlL7"
@@ -431,6 +431,24 @@
     },
     {
       "album": {
+        "name": "Ultimate Guitar Classics 1951-1961",
+        "url": "https://open.spotify.com/album/0d03HJwweHFZRzvqzCrito"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118040,
+      "name": "Desafinado",
+      "url": "https://open.spotify.com/track/2GW4RDBkjLWUDjumnHB3K1"
+    },
+    {
+      "album": {
         "name": "Chega de Saudade (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4MY4MCd8ZQusPhbdxU3MRH"
       },
@@ -442,7 +460,7 @@
       ],
       "date_added": "2025-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 118120,
       "name": "Desafinado",
       "url": "https://open.spotify.com/track/7t0Wbk6mXzMEC2GDU4ND1k"

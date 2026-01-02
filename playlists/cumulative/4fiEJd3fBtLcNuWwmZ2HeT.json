@@ -279,6 +279,24 @@
     },
     {
       "album": {
+        "name": "Angel 92",
+        "url": "https://open.spotify.com/album/3GvWcgfR2yCy2cW67hwwOA"
+      },
+      "artists": [
+        {
+          "name": "Maretu",
+          "url": "https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197812,
+      "name": "Angel 92",
+      "url": "https://open.spotify.com/track/73l0SNaLjeGtoujFzirKNG"
+    },
+    {
+      "album": {
         "name": "Bunka",
         "url": "https://open.spotify.com/album/2rrihVXNDB7FSe6EFs2inI"
       },

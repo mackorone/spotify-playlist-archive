@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2HpgBCM7ux9R3elzo7wXlS.md) - [plain]
 
 > All of it
 
-[Harrison](https://open.spotify.com/user/lewdbuatf9ul0cn9q5ass75lh) - 0 likes - 1,074 songs - 2 day 18 hr 2 min
+[Harrison](https://open.spotify.com/user/lewdbuatf9ul0cn9q5ass75lh) - 0 likes - 1,075 songs - 2 day 18 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1082,5 +1082,6 @@ pretty - [cumulative](/playlists/cumulative/2HpgBCM7ux9R3elzo7wXlS.md) - [plain]
 | 1072 | [HOT ONE \(with TiaCorine & A$AP Ferg\)](https://open.spotify.com/track/2TmS5wJTfWrpFgakSSTdCi) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [King Of The Mischievous South Vol\. 2](https://open.spotify.com/album/6LoDd1G8en4TcqdSg7yqrV) | 2:45 |
 | 1073 | [BLACK FLAG FREESTYLE \(with That Mexican OT\)](https://open.spotify.com/track/1KucENjrvmAEkSVjAgkGH2) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [King Of The Mischievous South Vol\. 2](https://open.spotify.com/album/6LoDd1G8en4TcqdSg7yqrV) | 3:27 |
 | 1074 | [Opening Out](https://open.spotify.com/track/39AAohgvtgo3xJlypPoLho) | [Renaissance](https://open.spotify.com/artist/4MERAVAHX04B50JOnasmWf) | [A Song for All Seasons](https://open.spotify.com/album/7Lrn2mUxwj6X7NFUNmuaQl) | 4:15 |
+| 1075 | [T.L.C\. Tender Love and Care](https://open.spotify.com/track/5eeLVsF0xGfAIrZQsi51m7) | [Jimmie Rodgers](https://open.spotify.com/artist/7bKOOOKEkE918wKOQEhYnp) | [Honeycomb](https://open.spotify.com/album/5x5n3mLrFMZ1wndB73ytYj) | 2:18 |
 
-Snapshot ID: `AAAH3gLRxIXeYOwWR6EPFDmhR0LQ95W7`
+Snapshot ID: `AAAH36/XlHgwjC7jGksim7VxZvIFswNO`

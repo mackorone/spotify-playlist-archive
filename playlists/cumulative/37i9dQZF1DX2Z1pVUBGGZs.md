@@ -2,9 +2,9 @@
 
 ### [Our Generation](https://open.spotify.com/playlist/37i9dQZF1DX2Z1pVUBGGZs)
 
-> a playlist without boundaries, featuring liang lawrence & annika kilkenny✨
+> a playlist without boundaries, featuring F3miii 🪐
 
-772 songs - 1 day 15 hr 0 min
+775 songs - 1 day 15 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -424,7 +424,7 @@
 | [Lover Girl](https://open.spotify.com/track/5Rd93c1Rbg9qhSVHTC7xJN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Lover Girl](https://open.spotify.com/album/6T8zX0grqcmevcN7SWo1Zg) | 2:44 | 2025-06-26 | 2025-12-12 |
 | [Lovesick](https://open.spotify.com/track/1GxNcBbVgp3FuXcrD1Prm8) | [Malan](https://open.spotify.com/artist/4lTwsxnU59QAenYUzJteBl) | [Lovesick](https://open.spotify.com/album/4d38Y4b0AGDRwPDLADhojT) | 3:13 | 2025-08-28 | 2025-10-17 |
 | [Lucky Girl](https://open.spotify.com/track/6w6zCrPg7Ekd4puFFQvMb7) | [Lonnie Gunn](https://open.spotify.com/artist/3uuE1sz7PjwnzBKtK2YMEK) | [Lucky Girl](https://open.spotify.com/album/5scJcq4werucX2KfSx0J86) | 2:21 | 2025-07-03 | 2025-09-12 |
-| [Lucky Girl](https://open.spotify.com/track/5FVJyqzJJB4La4SIp242mY) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Lucky Girl](https://open.spotify.com/album/1aCLxO8VWsYJCLiloC1Qce) | 3:50 | 2025-10-23 |  |
+| [Lucky Girl](https://open.spotify.com/track/5FVJyqzJJB4La4SIp242mY) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Lucky Girl](https://open.spotify.com/album/1aCLxO8VWsYJCLiloC1Qce) | 3:50 | 2025-10-23 | 2026-01-02 |
 | [Lucky October](https://open.spotify.com/track/6fuRXJSho4RxGVVzEFQPpT) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [autonomy](https://open.spotify.com/album/3zLlgUFz1YkI392D4pW3aE) | 2:41 | 2025-10-02 |  |
 | [Lullaby](https://open.spotify.com/track/7dh4YTisFy5DuxVekiWait) | [Precious Pepala](https://open.spotify.com/artist/2i6GoBzXmwxdD44bUM26M1) | [Lullaby](https://open.spotify.com/album/5PUjJkv28qCI6PXcgFT1B0) | 2:51 | 2025-01-31 | 2025-05-09 |
 | [Lungs](https://open.spotify.com/track/2GZfOep6Qzwlzdw5yOoSMA) | [Siobhán Winifred](https://open.spotify.com/artist/1YvRCYoo7jj2O6l6sPcT9x) | [Lungs](https://open.spotify.com/album/3b5aMQuNlkUihH61tWfafr) | 3:40 | 2024-06-27 | 2024-08-09 |
@@ -480,8 +480,10 @@
 | [New Love](https://open.spotify.com/track/1WFNU6zWFu5BpSiQOAVTAO) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [I'M DOING IT AGAIN BABY!](https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf) | 2:52 | 2024-06-27 | 2024-07-19 |
 | [New Mind](https://open.spotify.com/track/7kO3rAu2GgV3Vy6hwWs7L3) | [Elijah Waters](https://open.spotify.com/artist/4N4n2TRyL6exNfazJotLeH) | [New Mind](https://open.spotify.com/album/5z2Wtm9imitPqU7jo3IbiA) | 2:46 | 2025-02-21 | 2025-03-28 |
 | [Next To You](https://open.spotify.com/track/69IU18lZu4Y3OpIWR642IM) | [Unflirt](https://open.spotify.com/artist/19fxSFm3VSC8tg7msuw8zV) | [Fleeting](https://open.spotify.com/album/2jRGNs15u6y8wlqUuyCUbJ) | 3:38 | 2025-11-07 |  |
+| [Nice Day](https://open.spotify.com/track/0C874cnhfQWJTT9Ly5BaEZ) | [Christian Alexander](https://open.spotify.com/artist/4bBaa9aj9JKI1tp7RZecxR) | [Nice Day](https://open.spotify.com/album/3A38C8olzFuu7jEliEi3BY) | 3:35 | 2026-01-02 |  |
 | [Nice Shoes](https://open.spotify.com/track/26RtX0MphIh9C7ZWJEogJL) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Nice Shoes](https://open.spotify.com/album/1XBaWU9OEjTOo0IFdgiTYl) | 3:15 | 2025-08-14 | 2025-10-24 |
 | [Nice to Know You + Sugababes](https://open.spotify.com/track/0TAWeqgZgiXfgsarKOeTVE) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 2:49 | 2025-10-10 | 2025-11-21 |
+| [NOBLE](https://open.spotify.com/track/36jgline0lR83kGP9YFXcE) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [NOBLE](https://open.spotify.com/album/7kSO56we07fodbcyHOSCps) | 3:05 | 2026-01-02 |  |
 | [Not Care \(feat\. Kuan\)](https://open.spotify.com/track/3Cx1NfSZ7g4HjvIRtkWagw) | [Yiigaa](https://open.spotify.com/artist/5MpbLw84MCEtsP8gPMp40c), [Kuan](https://open.spotify.com/artist/3a1afMk8ZNndYYBYryMVqj) | [Not Care \(feat\. Kuan\)](https://open.spotify.com/album/3YmnATZKUbd6wBCoh9SOxy) | 2:48 | 2025-06-26 | 2025-09-05 |
 | [Not In Your Nature](https://open.spotify.com/track/1bs9aT6o5wXRd32Ay9ByhS) | [purpl](https://open.spotify.com/artist/0qLq938YLoXapahHpnzVSO), [pinkpirate](https://open.spotify.com/artist/2C4qc4gKpneYW9QhGSeyCZ) | [Not In Your Nature](https://open.spotify.com/album/59MLyNyQuok3MrpLtMQxmn) | 3:08 | 2024-08-08 | 2024-10-18 |
 | [Not My Type](https://open.spotify.com/track/5mHeJsko8znfqCEXayzfAS) | [Maisi](https://open.spotify.com/artist/7aldgASM0QRSQNHTdfBV7W) | [GIRL!!!](https://open.spotify.com/album/5f8If4cKjTsXaegOsrA25q) | 2:59 | 2024-08-08 | 2024-10-18 |
@@ -603,7 +605,7 @@
 | [Sleepless](https://open.spotify.com/track/3CKDp64bfqvd0YniAuTUoj) | [BINA.](https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC), [Essence Martins](https://open.spotify.com/artist/4DahLnNm7J5zRiQmiQeWec), [Leonie Biney](https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq) | [Chaos Is Her Name](https://open.spotify.com/album/4ByQRQAS26m9GMvdcmall1) | 4:13 | 2024-10-17 | 2025-02-21 |
 | [Sleepwalking](https://open.spotify.com/track/11Qe0MH9WwFiaQZ8dtBBdS) | [Yuneki](https://open.spotify.com/artist/53r8hPKEBgXFSRpg2Hbpmi) | [Sleepwalking](https://open.spotify.com/album/0CK8pqt7olvBoIyCUKQ9sH) | 3:34 | 2024-08-08 | 2024-10-04 |
 | [Slow](https://open.spotify.com/track/5fNbVMnWVg75szSuIGNlEF) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [Slow](https://open.spotify.com/album/5rYfSiqpX9Xod683VeAnMx) | 2:45 | 2024-11-01 | 2024-11-22 |
-| [Small Talk](https://open.spotify.com/track/64YlBjot2BfgtQElfOKN3D) | [Hope Winter](https://open.spotify.com/artist/0z6HuSgeJW8svCflyICYN6) | [Small Talk](https://open.spotify.com/album/2V5ZSRBGvmyHmlLGNC6Nt0) | 3:08 | 2025-09-11 |  |
+| [Small Talk](https://open.spotify.com/track/64YlBjot2BfgtQElfOKN3D) | [Hope Winter](https://open.spotify.com/artist/0z6HuSgeJW8svCflyICYN6) | [Small Talk](https://open.spotify.com/album/2V5ZSRBGvmyHmlLGNC6Nt0) | 3:08 | 2025-09-11 | 2026-01-02 |
 | [Smoking With Your Best Friend](https://open.spotify.com/track/5mEGyGaEIb6miGVSDTSrfb) | [AmiiFy](https://open.spotify.com/artist/0gdCxcoEObSShoJ3HayPnJ) | [Smoking With Your Best Friend](https://open.spotify.com/album/08sTrvYkaMClsRS1qYwdDS) | 2:52 | 2025-12-05 |  |
 | [SNATCH](https://open.spotify.com/track/7LK7M9Be9tlv7HXrKiq8eA) | [Finn Foxell](https://open.spotify.com/artist/1PK0iReBf7u59diWAXC3wR) | [SNATCH](https://open.spotify.com/album/2Hl7jM5QWJnu7383I67YmV) | 3:01 | 2025-02-21 | 2025-05-16 |
 | [Snow White](https://open.spotify.com/track/45mmAFhB2L79faaul6n8If) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Snow White](https://open.spotify.com/album/0fPlfyidFYMTYn14faHYl9) | 3:13 | 2025-08-07 | 2025-09-05 |
@@ -681,7 +683,7 @@
 | [the good life](https://open.spotify.com/track/6F8oCl5sKW7DHiuUehOn14) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [the good life](https://open.spotify.com/album/0MaY3tf3BOTeWlyaWBA438) | 3:05 | 2024-08-02 | 2024-09-06 |
 | [The Jamie Oliver Petrol Station](https://open.spotify.com/track/3zTqj90l1JdCzBBhxk5Z7U) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [The Jamie Oliver Petrol Station](https://open.spotify.com/album/1HbenZ8GM8vwvmkwGRLbmM) | 5:23 | 2025-06-19 | 2025-09-19 |
 | [The Kicks](https://open.spotify.com/track/2eGqXOC5ewnP7XGlojcQI5) | [gianna](https://open.spotify.com/artist/4V2V6Rrf5Q3tmL6bj5SI0E) | [The Kicks](https://open.spotify.com/album/74RXGok0luwOxqPZw4ZgLF) | 2:23 | 2025-04-24 | 2025-07-04 |
-| [the kids don't go outside](https://open.spotify.com/track/5TgYFWyGOrlI2on5sL1lh1) | [FJ Law](https://open.spotify.com/artist/5aQanH4qoE1dG9qscoBjpj) | [the kids don't go outside](https://open.spotify.com/album/1eNHAARIdGYKMwfoQHGw0T) | 2:55 | 2025-10-02 |  |
+| [the kids don't go outside](https://open.spotify.com/track/5TgYFWyGOrlI2on5sL1lh1) | [FJ Law](https://open.spotify.com/artist/5aQanH4qoE1dG9qscoBjpj) | [the kids don't go outside](https://open.spotify.com/album/1eNHAARIdGYKMwfoQHGw0T) | 2:55 | 2025-10-02 | 2026-01-02 |
 | [The Longest Goodbye \(feat\. Laufey\)](https://open.spotify.com/track/4QlcY3H7hRb74XacY3tJJQ) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [The Longest Goodbye \(feat\. Laufey\)](https://open.spotify.com/album/1uRAile5YBcA689mkIGMnN) | 2:50 | 2025-07-10 | 2025-11-21 |
 | [The Money Song](https://open.spotify.com/track/4ttS3N5CJaCObiwmJqMmF7) | [DellaXOZ](https://open.spotify.com/artist/5WmkhaLngDDw9tLfZ0Z28e) | [The Money Song](https://open.spotify.com/album/4s7ThuP73QvrGYxNVTMOlj) | 2:05 | 2025-06-12 | 2025-09-12 |
 | [The Necessary Evil...](https://open.spotify.com/track/0h1JbhqaHrMzWamZ6at2zx) | [Curtisy](https://open.spotify.com/artist/5VMnilBpX9s4C1HBnTCX35), [hikii](https://open.spotify.com/artist/7ptF6sBmG9wPc0qEVP6awE) | [The Necessary Evil...](https://open.spotify.com/album/3WY7YwjGUec53ZOJjwdINR) | 3:10 | 2025-05-08 | 2025-07-04 |
@@ -733,6 +735,7 @@
 | [Walk All Over You](https://open.spotify.com/track/1RsBQ3yupjXE6dTbP8gPbl) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [I’m Only F\*\*king Myself](https://open.spotify.com/album/5jUCvcrzCNng7N3iNVY4ts) | 3:04 | 2025-09-25 | 2025-12-05 |
 | [Wannabe](https://open.spotify.com/track/5spRRlyU71WlxkwRX0q8fC) | [Jessica Winter](https://open.spotify.com/artist/0gCYUYF1zfqZk5pG0e2ojy) | [Wannabe](https://open.spotify.com/album/67DYnzxx4D2I1PbIjGR7Tz) | 2:59 | 2025-05-15 | 2025-10-31 |
 | [Watchin' U](https://open.spotify.com/track/6fGSaSn3veQ0wNU8Q8cKhU) | [A\. K\. Paul](https://open.spotify.com/artist/5Ur4wFDyKGnavclr0esWLe) | [Watchin' U](https://open.spotify.com/album/2q5RS4MQHN27EUUnfw6a32) | 3:02 | 2025-05-22 | 2025-07-04 |
+| [Water Glistening](https://open.spotify.com/track/35ounuD2AwzIisZ2zEYXyB) | [Richie Quake](https://open.spotify.com/artist/5RmZclxIWvmctw5DNBJyo6) | [Water Glistening](https://open.spotify.com/album/1JbOf8TtP072Asrr9vgXrP) | 2:17 | 2026-01-02 |  |
 | [We Don't Need to Do Forever](https://open.spotify.com/track/3h0M8iNNIJBe7IOWCRf5Nd) | [daydreamers](https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8) | [daydreamers](https://open.spotify.com/album/6kI23aXCspP0OQen2qiFyG) | 2:36 | 2024-11-15 | 2024-11-29 |
 | [we never dated](https://open.spotify.com/track/7o3xJRQhpHRZ6IbyQX2xrp) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [we never dated](https://open.spotify.com/album/6qnPn5mO9HnoxRKv3zhaez) | 3:16 | 2025-06-26 | 2025-08-22 |
 | [we never made it to glasgow](https://open.spotify.com/track/4LOm8NL8DYw7v7ZbO8b9ST) | [Lexie Carroll](https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0) | [you look lovely when you're living](https://open.spotify.com/album/65mlCGFrqJMEb8eXoc3TxW) | 2:49 | 2024-06-27 | 2024-08-16 |

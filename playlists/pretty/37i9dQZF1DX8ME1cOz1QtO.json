@@ -1,6 +1,6 @@
 {
   "description": "Discover the path back to an era of enlightenment \ud83c\udf05\u2728\ud83e\uddd8\u200d\u2642\ufe0f",
-  "num_followers": 117189,
+  "num_followers": 117211,
   "original_name": "New Age: The Dawning",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Tubular Bells",
-        "url": "https://open.spotify.com/album/0a3YQpBnRzJzNktOjb6Dum"
-      },
-      "artists": [
-        {
-          "name": "Mike Oldfield",
-          "url": "https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn"
-        }
-      ],
-      "duration_ms": 1397160,
-      "name": "Tubular Bells - Pt. II",
-      "url": "https://open.spotify.com/track/5GmNpR6bCLGk2tdUTFfNJM"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Desert Vision",
         "url": "https://open.spotify.com/album/77Dd8lk7HjusgSRJi0zwPy"
       },
@@ -255,8 +239,24 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Cusco 2",
-        "url": "https://open.spotify.com/album/0AUu3xGjmn7yeYm3ZF8Q1c"
+        "name": "Tubular Bells",
+        "url": "https://open.spotify.com/album/0a3YQpBnRzJzNktOjb6Dum"
+      },
+      "artists": [
+        {
+          "name": "Mike Oldfield",
+          "url": "https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn"
+        }
+      ],
+      "duration_ms": 1397160,
+      "name": "Tubular Bells - Pt. II",
+      "url": "https://open.spotify.com/track/5GmNpR6bCLGk2tdUTFfNJM"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Cool Islands",
+        "url": "https://open.spotify.com/album/5kI360nRgdmq6ZBfZRX945"
       },
       "artists": [
         {
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/7Mf91RZQ8YcvY0p3DfMc0f"
         }
       ],
-      "duration_ms": 228240,
-      "name": "Lake of the Ozarks",
-      "url": "https://open.spotify.com/track/4hv02M3OzsEgN6b1EoA1O6"
+      "duration_ms": 193506,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/21gXtkGSaX27wcqtbams4W"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -347,8 +347,8 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Cool Islands",
-        "url": "https://open.spotify.com/album/5kI360nRgdmq6ZBfZRX945"
+        "name": "Cusco 2",
+        "url": "https://open.spotify.com/album/0AUu3xGjmn7yeYm3ZF8Q1c"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/7Mf91RZQ8YcvY0p3DfMc0f"
         }
       ],
-      "duration_ms": 193506,
-      "name": "Aurora",
-      "url": "https://open.spotify.com/track/21gXtkGSaX27wcqtbams4W"
+      "duration_ms": 228240,
+      "name": "Lake of the Ozarks",
+      "url": "https://open.spotify.com/track/4hv02M3OzsEgN6b1EoA1O6"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -999,6 +999,22 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
+        "name": "Inter-Dimensional Music",
+        "url": "https://open.spotify.com/album/59hWFsFOPOrXQMeTiXYGLr"
+      },
+      "artists": [
+        {
+          "name": "Iasos",
+          "url": "https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd"
+        }
+      ],
+      "duration_ms": 290053,
+      "name": "Formentera Sunset Clouds",
+      "url": "https://open.spotify.com/track/0hds7dcDAF2XkSqD5fycti"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
         "name": "Meditation",
         "url": "https://open.spotify.com/album/0JSDPdBfLDLbKSbdSwS9ND"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 720426,
       "name": "Silmarillion",
       "url": "https://open.spotify.com/track/04L2aKI6v8tNHhvxTGjtYE"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "Inter-Dimensional Music",
-        "url": "https://open.spotify.com/album/59hWFsFOPOrXQMeTiXYGLr"
-      },
-      "artists": [
-        {
-          "name": "Iasos",
-          "url": "https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd"
-        }
-      ],
-      "duration_ms": 290053,
-      "name": "Formentera Sunset Clouds",
-      "url": "https://open.spotify.com/track/0hds7dcDAF2XkSqD5fycti"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Spectrum Suite (Bonus Version) [Remastered]",
-        "url": "https://open.spotify.com/album/48Ouk6WweyG4TdifzadiEc"
-      },
-      "artists": [
-        {
-          "name": "Steven Halpern",
-          "url": "https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k"
-        }
-      ],
-      "duration_ms": 171106,
-      "name": "First Chakra Keynote C (Red) - (Bonus Version) (Remastered)",
-      "url": "https://open.spotify.com/track/6CoQyyWTIjzaVoBnZMH8kw"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Aum",
         "url": "https://open.spotify.com/album/2zbD4U3puoA9NLEeW6BcZo"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 376333,
       "name": "Oceans And Continents",
       "url": "https://open.spotify.com/track/6X1jdivZEvbFlOjVn4GyYP"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Spectrum Suite (Bonus Version) [Remastered]",
+        "url": "https://open.spotify.com/album/48Ouk6WweyG4TdifzadiEc"
+      },
+      "artists": [
+        {
+          "name": "Steven Halpern",
+          "url": "https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k"
+        }
+      ],
+      "duration_ms": 171106,
+      "name": "First Chakra Keynote C (Red) - (Bonus Version) (Remastered)",
+      "url": "https://open.spotify.com/track/6CoQyyWTIjzaVoBnZMH8kw"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Spectrum Suite (Bonus Version) [Remastered]",
-        "url": "https://open.spotify.com/album/75k9Yfgj55lDMBSXGQnL7R"
-      },
-      "artists": [
-        {
-          "name": "Steven Halpern",
-          "url": "https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k"
-        }
-      ],
-      "duration_ms": 206146,
-      "name": "Crystal Cathedral - (Bonus Version) (Remastered)",
-      "url": "https://open.spotify.com/track/3dojpUxqqqaUry2FPd6iWq"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "I Am the Center: Private Issue New Age Music in America, 1950-1990",
         "url": "https://open.spotify.com/album/5J6elnQWSwhzzD6Zo6QZso"
       },
@@ -1483,6 +1467,22 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
+        "name": "Spectrum Suite (Bonus Version) [Remastered]",
+        "url": "https://open.spotify.com/album/75k9Yfgj55lDMBSXGQnL7R"
+      },
+      "artists": [
+        {
+          "name": "Steven Halpern",
+          "url": "https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k"
+        }
+      ],
+      "duration_ms": 206146,
+      "name": "Crystal Cathedral - (Bonus Version) (Remastered)",
+      "url": "https://open.spotify.com/track/3dojpUxqqqaUry2FPd6iWq"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
         "name": "Celestial Soul Portrait",
         "url": "https://open.spotify.com/album/4teQ1kGvpBu2cxPc4xo9Kh"
       },
@@ -1511,22 +1511,6 @@
       "duration_ms": 196733,
       "name": "Oxygene, Pt. 3",
       "url": "https://open.spotify.com/track/2A1Xj74FRxsLuD2cloaCKO"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "Spectrum Suite (Bonus Version) [Remastered]",
-        "url": "https://open.spotify.com/album/48Ouk6WweyG4TdifzadiEc"
-      },
-      "artists": [
-        {
-          "name": "Steven Halpern",
-          "url": "https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k"
-        }
-      ],
-      "duration_ms": 199506,
-      "name": "Star Children Theme II - (Bonus Version) (Remastered)",
-      "url": "https://open.spotify.com/track/1bJ1KjsjWAAN1sq7GIviSw"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1567,6 +1551,22 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
+        "name": "Spectrum Suite (Bonus Version) [Remastered]",
+        "url": "https://open.spotify.com/album/48Ouk6WweyG4TdifzadiEc"
+      },
+      "artists": [
+        {
+          "name": "Steven Halpern",
+          "url": "https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k"
+        }
+      ],
+      "duration_ms": 199506,
+      "name": "Star Children Theme II - (Bonus Version) (Remastered)",
+      "url": "https://open.spotify.com/track/1bJ1KjsjWAAN1sq7GIviSw"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
         "name": "Images of Flutes in Nature",
         "url": "https://open.spotify.com/album/57Uj8lnJzMiiHVnBgRyfpa"
       },
@@ -1603,26 +1603,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Spectrum Suite 45th Anniversary Collector's Edition",
-        "url": "https://open.spotify.com/album/72HoejPQ2TFUuqupsbqf21"
-      },
-      "artists": [
-        {
-          "name": "Steven Halpern",
-          "url": "https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k"
-        },
-        {
-          "name": "Iasos",
-          "url": "https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd"
-        }
-      ],
-      "duration_ms": 273180,
-      "name": "Be-Muse-Ment",
-      "url": "https://open.spotify.com/track/7i0FCzocEPAHLH7SXzsRga"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "China (Remastered)",
         "url": "https://open.spotify.com/album/6YrHsp2x5GRxEZJXwDwXGz"
       },
@@ -1651,6 +1631,26 @@
       "duration_ms": 553800,
       "name": "Elysian E",
       "url": "https://open.spotify.com/track/27o1KeP2TefIvslGU9N2vQ"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Spectrum Suite 45th Anniversary Collector's Edition",
+        "url": "https://open.spotify.com/album/72HoejPQ2TFUuqupsbqf21"
+      },
+      "artists": [
+        {
+          "name": "Steven Halpern",
+          "url": "https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k"
+        },
+        {
+          "name": "Iasos",
+          "url": "https://open.spotify.com/artist/33CRejQfhC9RbBrPHMKgAd"
+        }
+      ],
+      "duration_ms": 273180,
+      "name": "Be-Muse-Ment",
+      "url": "https://open.spotify.com/track/7i0FCzocEPAHLH7SXzsRga"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Soul Jazz Records Presents Space, Energy & Light: Experimental Electronic and Acoustic Soundscapes 1961-88",
-        "url": "https://open.spotify.com/album/59fEhSfVSCMoTRMzgxbNZ0"
-      },
-      "artists": [
-        {
-          "name": "Michael Stearns",
-          "url": "https://open.spotify.com/artist/5KbIofwaAvbvvkzG2zbmGD"
-        }
-      ],
-      "duration_ms": 481320,
-      "name": "In the Beginning",
-      "url": "https://open.spotify.com/track/648HIKBghwkMmbL9c29LL1"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Albedo 0.39",
         "url": "https://open.spotify.com/album/7M2EhhKnJYcmluPNzmB35N"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 136506,
       "name": "Freefall",
       "url": "https://open.spotify.com/track/3XWjY5ywwVf134l4CnnxmY"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Soul Jazz Records Presents Space, Energy & Light: Experimental Electronic and Acoustic Soundscapes 1961-88",
+        "url": "https://open.spotify.com/album/59fEhSfVSCMoTRMzgxbNZ0"
+      },
+      "artists": [
+        {
+          "name": "Michael Stearns",
+          "url": "https://open.spotify.com/artist/5KbIofwaAvbvvkzG2zbmGD"
+        }
+      ],
+      "duration_ms": 481320,
+      "name": "In the Beginning",
+      "url": "https://open.spotify.com/track/648HIKBghwkMmbL9c29LL1"
     }
   ],
   "unique_name": "New Age: The Dawning",

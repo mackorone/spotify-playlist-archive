@@ -1,12 +1,12 @@
 {
   "description": "This is Zendaya. The essential tracks, all in one playlist.",
-  "num_followers": 24811,
+  "num_followers": 24814,
   "original_name": "This Is Zendaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVMWAAAAAABrJ/rNFq8M1VsQkCklMJJq",
+  "snapshot_id": "aVRngAAAAAB1tLVTvJOUYJnl420pgM2C",
   "tracks": [
     {
       "added_at": null,
@@ -275,6 +275,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Smallfoot (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6ZlM4XjfDsaqBQiAY2GVy9"
+      },
+      "artists": [
+        {
+          "name": "Channing Tatum",
+          "url": "https://open.spotify.com/artist/3BPe0bhsZS7CDidyCZMarU"
+        },
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        }
+      ],
+      "duration_ms": 132173,
+      "name": "Wonderful Questions",
+      "url": "https://open.spotify.com/track/5rBFUw16Me6aAM1uZker9a"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shake It Up: Break It Down",
         "url": "https://open.spotify.com/album/18c2h2tjmiJYSFVe144llF"
       },
@@ -295,26 +315,6 @@
       "duration_ms": 175546,
       "name": "Watch Me",
       "url": "https://open.spotify.com/track/6i2AmqDwaicOn2NGFsd5nn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Smallfoot (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6ZlM4XjfDsaqBQiAY2GVy9"
-      },
-      "artists": [
-        {
-          "name": "Channing Tatum",
-          "url": "https://open.spotify.com/artist/3BPe0bhsZS7CDidyCZMarU"
-        },
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "duration_ms": 132173,
-      "name": "Wonderful Questions",
-      "url": "https://open.spotify.com/track/5rBFUw16Me6aAM1uZker9a"
     },
     {
       "added_at": null,
@@ -551,22 +551,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shake It Up: Made in Japan",
-        "url": "https://open.spotify.com/album/5DIqbh258UC1oG6Lgerrv4"
+        "name": "Disney Fairies: Faith, Trust and Pixie Dust",
+        "url": "https://open.spotify.com/album/7CteF40ZbCHjLYBYyYpAAJ"
       },
       "artists": [
         {
           "name": "Zendaya",
           "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        },
-        {
-          "name": "Bella Thorne",
-          "url": "https://open.spotify.com/artist/58AqJv0sDFPFnnBcLT8eeX"
         }
       ],
-      "duration_ms": 214973,
-      "name": "The Same Heart",
-      "url": "https://open.spotify.com/track/4wPNMGse5Ra97qPDK0NRlW"
+      "duration_ms": 182093,
+      "name": "Dig Down Deeper",
+      "url": "https://open.spotify.com/track/3r0TVEiVGNFI5nuX87nstb"
     },
     {
       "added_at": null,
@@ -607,18 +603,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Disney Fairies: Faith, Trust and Pixie Dust",
-        "url": "https://open.spotify.com/album/7CteF40ZbCHjLYBYyYpAAJ"
+        "name": "Shake It Up: Made in Japan",
+        "url": "https://open.spotify.com/album/5DIqbh258UC1oG6Lgerrv4"
       },
       "artists": [
         {
           "name": "Zendaya",
           "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        },
+        {
+          "name": "Bella Thorne",
+          "url": "https://open.spotify.com/artist/58AqJv0sDFPFnnBcLT8eeX"
         }
       ],
-      "duration_ms": 182093,
-      "name": "Dig Down Deeper",
-      "url": "https://open.spotify.com/track/3r0TVEiVGNFI5nuX87nstb"
+      "duration_ms": 214973,
+      "name": "The Same Heart",
+      "url": "https://open.spotify.com/track/4wPNMGse5Ra97qPDK0NRlW"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2fEpJ8cYYNOZXDpwysSpHg">Natania</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-146 songs - 6 hr 52 min
+147 songs - 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,8 @@
 | [Senti](https://open.spotify.com/track/6xaOFO19zFLxW4KUFz28qa) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX), [DESI TRILL](https://open.spotify.com/artist/22FwGMhBDU8drx91GTxkxJ) | [Senti](https://open.spotify.com/album/68WgGqVSEBVEDZJ7x9HMg4) | 2:53 | 2025-07-03 |  |
 | [Show Me](https://open.spotify.com/track/604BDNGxzL9IyKMFODcZpV) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Wedding Season \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/3SXe7OIHWx0VnxugqYMiFv) | 2:44 | 2025-07-03 |  |
 | [Show Me More](https://open.spotify.com/track/4mOFh28Qu0BnvgyqxJBesJ) | [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Wedding Season \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/3SXe7OIHWx0VnxugqYMiFv) | 3:07 | 2025-07-03 |  |
-| [sick](https://open.spotify.com/track/3pcitZpUaeU51VOYPn1NJ6) | [Lindsey Lomis](https://open.spotify.com/artist/7qY2O8bWspXlSwQl5JAkvn) | [Handle With Care](https://open.spotify.com/album/2Lm7qb3X3n25YoBWLwbbnG) | 2:11 | 2025-07-03 |  |
+| [sick](https://open.spotify.com/track/3pcitZpUaeU51VOYPn1NJ6) | [Lindsey Lomis](https://open.spotify.com/artist/7qY2O8bWspXlSwQl5JAkvn) | [Handle With Care](https://open.spotify.com/album/2Lm7qb3X3n25YoBWLwbbnG) | 2:11 | 2025-07-03 | 2026-01-02 |
+| [sick](https://open.spotify.com/track/40cl8RZ9q5V2GH9PoPKQ7l) | [Lindsey Lomis](https://open.spotify.com/artist/7qY2O8bWspXlSwQl5JAkvn) | [Handle With Care](https://open.spotify.com/album/6eKKmLAOSAXp1D7N45ZnDG) | 2:11 | 2026-01-01 |  |
 | [Sleepless Nights](https://open.spotify.com/track/5YutQTssc3wSkx1jvZJ3ci) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [Sleepless Nights](https://open.spotify.com/album/5BrQLIkC06tX0bSgBBn45i) | 3:12 | 2025-07-03 |  |
 | [Subho Shaam](https://open.spotify.com/track/3wzFBfZDuM0m0Cn1j3b1zF) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl), [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Love Language](https://open.spotify.com/album/20Ar139mlrKYQWhCJS55iO) | 2:56 | 2025-08-03 |  |
 | [Subho Shaam](https://open.spotify.com/track/5zWjwwQeSogSqcWEUP8qsk) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl), [Natania](https://open.spotify.com/artist/2cK7VkFt8I3C9hUfexNCIX) | [Subho Shaam](https://open.spotify.com/album/7mORB6Ru5kQee6aTGD8ORJ) | 2:56 | 2025-07-03 | 2025-08-04 |

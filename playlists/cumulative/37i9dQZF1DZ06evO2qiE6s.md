@@ -4,7 +4,7 @@
 
 > This is Dean Martin\. The essential tracks, all in one playlist.
 
-152 songs - 6 hr 44 min
+153 songs - 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,7 @@
 | [Things](https://open.spotify.com/track/5kkuFmsiEYlDXHoCWLey4B) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Country Style](https://open.spotify.com/album/5jZjP2dKKHILInEP99iHyt) | 2:39 | 2024-08-23 |  |
 | [Tie a Yellow Ribbon Round the Old Oak Tree](https://open.spotify.com/track/0TWZDPovaXPMkZNFmGKbdH) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [You're the Best Thing That Ever Happened to Me](https://open.spotify.com/album/50Ht1XmmPq4BbEGCwxzF5K) | 2:44 | 2023-12-26 | 2024-07-24 |
 | [Tik\-A\-Tee, Tik\-A\-Tay](https://open.spotify.com/track/1d7nWD7CdtUGuYKHXCIZ4j) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Essential Dean Martin](https://open.spotify.com/album/3bCD76GPTntFdGOT6KXgO3) | 2:21 | 2024-01-02 | 2024-07-24 |
-| [True Love \(Duet\)](https://open.spotify.com/track/6Rqkp1ZOYSwGzoXIUh4rau) | [Deana Martin](https://open.spotify.com/artist/1LeG1CIzi0OnjP8CTcnSVV), [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Destination Moon](https://open.spotify.com/album/0f6FwrVg0HKjKwFrPXJ06k) | 3:09 | 2023-12-26 |  |
+| [True Love \(Duet\)](https://open.spotify.com/track/6Rqkp1ZOYSwGzoXIUh4rau) | [Deana Martin](https://open.spotify.com/artist/1LeG1CIzi0OnjP8CTcnSVV), [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Destination Moon](https://open.spotify.com/album/0f6FwrVg0HKjKwFrPXJ06k) | 3:09 | 2023-12-26 | 2026-01-02 |
 | [True Love \- Remastered](https://open.spotify.com/track/2x12Sb0lxMB5DR6Llzq5GA) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Time I'm Swingin'](https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y) | 2:32 | 2024-01-04 | 2024-07-13 |
 | [Under The Bridges Of Paris](https://open.spotify.com/track/7czkfORlDNyM7Ioo7BBSdF) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dino: The Essential Dean Martin](https://open.spotify.com/album/6D5uTxoH304RXHiLISapHj) | 2:46 | 2025-11-20 |  |
 | [Under The Bridges Of Paris](https://open.spotify.com/track/2Ui8SvDYTtQWbJq5uOWWAU) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Singles](https://open.spotify.com/album/5LoOStQoPOCIyOReBVcbtR) | 2:48 | 2025-08-22 | 2025-11-20 |
@@ -155,6 +155,7 @@
 | [White Christmas](https://open.spotify.com/track/7H0ABcbcZLjVD83SgeU19l) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [A Winter Romance](https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5) | 2:29 | 2023-12-26 | 2023-12-30 |
 | [Who Was That Lady?](https://open.spotify.com/track/6Y7Y6NzPv4Zu288vIlK0Gg) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 10 \(1959\-1960\)](https://open.spotify.com/album/2gWp6ct1c3hFGIN1rR9j18) | 2:26 | 2023-12-26 | 2024-01-28 |
 | [Winter Wonderland](https://open.spotify.com/track/6JzICCKjjIzQ5M2YqzLhWF) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [A Winter Romance](https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5) | 1:54 | 2023-12-26 | 2023-12-30 |
+| [Wrap Your Troubles In Dreams](https://open.spotify.com/track/2PCzRvt4vH23RZfCXCRSg9) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Sleep Warm](https://open.spotify.com/album/1G6BVlNDti0HuMUTFUZPIa) | 2:59 | 2026-01-02 |  |
 | [You Belong To Me](https://open.spotify.com/track/0VrTy4ScuMoVxp26rLgHpd) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 3 \(1951\-1952\)](https://open.spotify.com/album/2Kk2yOUlO23aSwwJBTeXPu) | 3:06 | 2024-01-08 | 2025-06-07 |
 | [You Belong To Me \- Remastered](https://open.spotify.com/track/05oFDCPK2YuNm5uBtCmm1B) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Capitol Years](https://open.spotify.com/album/6bpCpvLc2xHLN1Qnx6rzaI) | 3:03 | 2025-06-14 |  |
 | [You'll Always Be the One I Love](https://open.spotify.com/track/42lA9iaBSjXJ0vlDyHfjs1) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin Hits Again](https://open.spotify.com/album/1vOdQThTsIh1sGRGcODki5) | 2:00 | 2023-12-26 | 2024-07-24 |

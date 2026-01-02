@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 4,680 likes - 269 songs - 14 hr 44 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 4,698 likes - 278 songs - 15 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -277,5 +277,14 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 267 | [Yikes...!](https://open.spotify.com/track/4v93x1BjKln0pFBm685Fjd) | [Twmmy](https://open.spotify.com/artist/5THmuI6mHhk4dkJcLEJSBx) | [Reprisal: The Deluxe Edition](https://open.spotify.com/album/7xC0gBNd1VNt3cX8eUmJ7F) | 2:52 |
 | 268 | [The Fence](https://open.spotify.com/track/2BNSPvs9DTxorUh8ZDNdWB) | [OXSOLATE](https://open.spotify.com/artist/05cFqIG5wdH4ixqazlLTlM) | [The Fence](https://open.spotify.com/album/67h07Oahvo8vIzfu2cOJES) | 3:53 |
 | 269 | [Awake](https://open.spotify.com/track/5Am6CIarSZhrRekBzNgONx) | [Bear Jr](https://open.spotify.com/artist/0O8rk33EP9v7d6NNjziFEx) | [Every Little Thing](https://open.spotify.com/album/5c2ptgyReOkQlsbJIpcW9a) | 3:42 |
+| 270 | [Orbit III \- Eclipse](https://open.spotify.com/track/6Rn6h86ZFCBhlW5ZmG0Vpe) | [Knight](https://open.spotify.com/artist/4ze7I64dbhtwYzNzTIbzWS) | [Orbital Elevation](https://open.spotify.com/album/0tWeTmNaW2NIPoZM6vVnir) | 1:17 |
+| 271 | [Fetter of Your Love](https://open.spotify.com/track/0CjwhqMpFVv30bhoKk5VEh) | [Connected Path](https://open.spotify.com/artist/1O7V9rFk7s415L4D3G9qwi) | [Fetter of Your Love](https://open.spotify.com/album/4AX5r34cEPCyWNGFSM3e94) | 3:19 |
+| 272 | [Trapped In My Head](https://open.spotify.com/track/0WLpCcHNsbb18FOMQMV6pb) | [dBeat Boxbot](https://open.spotify.com/artist/0LaAJhJ4vWalWwwpuYAnyr) | [Trapped In My Head](https://open.spotify.com/album/2cs9eP1pTR0z9jUiqfQ4ju) | 2:28 |
+| 273 | [Worn\-Out Shoes](https://open.spotify.com/track/5rrgUA6sNI66S38IrN9hYt) | [Radio Rosine](https://open.spotify.com/artist/6PcdAKYKrMZubT4YUfebka) | [Worn\-Out Shoes](https://open.spotify.com/album/3NSDX1EXC9HdTlSWAmUHSH) | 2:32 |
+| 274 | [A Letter to My Younger Self](https://open.spotify.com/track/3ut9BtsRh4tD5omRmie4jr) | [Henson Smith](https://open.spotify.com/artist/2UuqWYUi09CjQztM0u5TFy) | [Mindfield](https://open.spotify.com/album/5jylpsenC69YTYfbCO6SOp) | 2:47 |
+| 275 | [Stick It To The Man](https://open.spotify.com/track/5gKANcaA1QBVcukkHepFoL) | [Toxic Trash Angels](https://open.spotify.com/artist/0fO8pwZDTlANGvANUlBhkl) | [Trapped In My Head](https://open.spotify.com/album/0eop7Ool2Xi0Yydp11Figt) | 2:39 |
+| 276 | [You Were with Me](https://open.spotify.com/track/7tZcQ49zuNpe5M9fjfJdzx) | [Connected Path](https://open.spotify.com/artist/1O7V9rFk7s415L4D3G9qwi) | [You Were with Me](https://open.spotify.com/album/5jtXmjATMpMRfnopCt2tkD) | 3:21 |
+| 277 | [Alone And Tricky](https://open.spotify.com/track/4slgvtEjrAzRYcTtoF0yRh) | [Vignê](https://open.spotify.com/artist/0fjft05jSy2bLiQYZ63LfN) | [Alone And Tricky](https://open.spotify.com/album/0IE1nQL2wD13hTfQCljqmD) | 3:27 |
+| 278 | [Days Go By](https://open.spotify.com/track/1J1gh4SlZViM3dbI6yksuK) | [REWL](https://open.spotify.com/artist/1jk3vHOzuNEFKUCPIwrswh) | [Days Go By](https://open.spotify.com/album/0GmqvawyGxMLIddFjcmdOs) | 3:00 |
 
-Snapshot ID: `AAAzJDi66hx9Bp1Ce7TMMIjHHHeLPd6b`
+Snapshot ID: `AAAzLehFrQL7kDvEBuzKhTuTVlz1b4Uc`

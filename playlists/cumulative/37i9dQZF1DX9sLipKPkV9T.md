@@ -4,7 +4,7 @@
 
 > כל הפופ היפה והמרגש של ישראל\. קאבר: מארינה מקסימיליאן
 
-524 songs - 1 day 3 hr 35 min
+526 songs - 1 day 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [אירוניה](https://open.spotify.com/track/2FKem4JxQdH0nhkqS2kkql) | [נועם קלינשטיין](https://open.spotify.com/artist/0fApsdhIzCLZQh7hZShlqV) | [אירוניה](https://open.spotify.com/album/4YxV5bWQEh0GVlHywqWapl) | 2:58 | 2024-07-11 | 2024-12-06 |
 | [איש קטן](https://open.spotify.com/track/7yMinsBCFEJTZG4KeGRWQg) | [Yoni Bloch](https://open.spotify.com/artist/3gC0JIIgE2lK3yztam5ndm) | [הייטק](https://open.spotify.com/album/3CZSA5RlN8iPhSuaOunOz2) | 3:58 | 2025-05-08 | 2025-08-01 |
 | [אל תלכי](https://open.spotify.com/track/3ZxJ11VOqtzbFPQJAGYCjC) | [ניר כנען](https://open.spotify.com/artist/0QiHQKrAfCCB0lVWnOxgLP) | [אל תלכי](https://open.spotify.com/album/2KtQV0fjUDkL61f90c3Ccl) | 3:01 | 2024-09-05 | 2024-09-20 |
+| [אל תציע לי](https://open.spotify.com/track/3WgsUCEoC5kxaVujOw71OL) | [Nunu](https://open.spotify.com/artist/0wJDdyoTfE5SuqPNFvi2lG) | [אל תציע לי](https://open.spotify.com/album/3CC44FcSNzXTZP13BRJQJK) | 2:57 | 2026-01-01 |  |
 | [אלבבאלה](https://open.spotify.com/track/07aYVkkS1uPvNt2qIy4ebo) | [ישראל בידור](https://open.spotify.com/artist/3v9RYe2J8eJLUlggkXxmZL), [Anna Zak](https://open.spotify.com/artist/3lVXtKsFTJM8ecY8gqdoCo), [Kfir Tsafrir](https://open.spotify.com/artist/7MKSeamhiRpa0xiS4FHGSC) | [אלבבאלה](https://open.spotify.com/album/734Xcc7lmNcYbjsS8sNbR0) | 2:40 | 2024-06-27 | 2024-09-13 |
 | [אלבי](https://open.spotify.com/track/0uL2TjyNqgBgbXIxzqcv9y) | [Sivan Talmor](https://open.spotify.com/artist/4OuNFhB4UqOVluGG75fiWd) | [אלבי](https://open.spotify.com/album/2LgPeo7Kk22ksXeNO5AA8R) | 3:26 | 2025-03-06 | 2025-05-09 |
 | [אליס \- חי באולפן גלגלצ](https://open.spotify.com/track/1fWkzxrhsViaXfuJPIflNl) | [נדב חנציס](https://open.spotify.com/artist/4ZXLucEFePscKcgUlD0Sf9) | [חי באולפן גלגלצ](https://open.spotify.com/album/6aLDkUSYZIIzyrhXz2H2jF) | 3:34 | 2025-07-17 | 2025-10-31 |
@@ -381,6 +382,7 @@
 | [מלך אחד לעולם](https://open.spotify.com/track/3EIpvMJo4sqVVqDQx9H4Zj) | [נדב חנציס](https://open.spotify.com/artist/4ZXLucEFePscKcgUlD0Sf9) | [מלך אחד לעולם](https://open.spotify.com/album/1V9zayUbMb8n3XQvR81efN) | 3:01 | 2025-09-11 |  |
 | [מנורה ופסנתר](https://open.spotify.com/track/5nLY3hwxj7CJSjpLSSDsU6) | [Noam Bettan](https://open.spotify.com/artist/0RzO7EUuiJ1urqHiJecPdn) | [מנורה ופסנתר](https://open.spotify.com/album/4tQJK69yKCecga7vNT5CHl) | 2:53 | 2025-07-24 | 2025-11-14 |
 | [מניפות](https://open.spotify.com/track/0qznNEs9s1HG5eZiI76TvS) | [Ran Danker](https://open.spotify.com/artist/7hD6dkjWHapWVwkI6bjDFo), [מתן דינו](https://open.spotify.com/artist/5dg6DDe43hau7pXT54sDZM) | [מניפות](https://open.spotify.com/album/6xgy5aA6AT8U6eVJhSXfsV) | 2:25 | 2025-06-12 | 2025-07-11 |
+| [מסיבת פרידה](https://open.spotify.com/track/1eIfbqarkyZJpBTnUa3TQ8) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [מסיבת פרידה](https://open.spotify.com/album/4MFryrYp2dF2uasF3dV5ox) | 3:04 | 2026-01-01 |  |
 | [מעונה לעונה](https://open.spotify.com/track/3FYdP6pprYqBtGwzqEtCsx) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [שיחות שלום](https://open.spotify.com/album/2W1Ud6bXVvGSMJVj6xfUTj) | 3:34 | 2025-07-17 | 2025-10-31 |
 | [מפרש לבן](https://open.spotify.com/track/4GzV9XajF9E8rSLAZa9WVA) | [Jimbo J](https://open.spotify.com/artist/6ltKIf1bortd0DQbpgKdQu) | [מפרש לבן](https://open.spotify.com/album/2Rklq8xzKHOGa64ZuKSDKZ) | 4:10 | 2025-03-20 | 2025-07-11 |
 | [מצאת קצת שקט](https://open.spotify.com/track/24fNT4hgA4er3z3i2Z2OUn) | [Maya Buskila](https://open.spotify.com/artist/4UnEeDqvDJudbJcn6GYSlS) | [מצאת קצת שקט](https://open.spotify.com/album/6nZrjfx7rxYlUxonmzCsuH) | 3:14 | 2025-12-04 |  |

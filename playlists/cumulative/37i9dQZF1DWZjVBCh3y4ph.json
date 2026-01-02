@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les hits zouk & kompa du moment. Photo : Oswald",
+  "description": "Les hits zouk & kompa du moment. Photo : L\u00c9A CHURROS",
   "name": "Zouk Station",
   "tracks": [
     {
@@ -228,6 +228,32 @@
       "duration_ms": 168593,
       "name": "Amour Consum\u00e9 (version zouk)",
       "url": "https://open.spotify.com/track/4nfB6Y2HprMwNMOQFg3JQh"
+    },
+    {
+      "album": {
+        "name": "Hakuna matata",
+        "url": "https://open.spotify.com/album/0DTRsJGlAUHmmx0qUbsNe2"
+      },
+      "artists": [
+        {
+          "name": "L\u00c9A CHURROS",
+          "url": "https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC"
+        },
+        {
+          "name": "Alg\u00e9ric",
+          "url": "https://open.spotify.com/artist/6V788FEftK2VvhtleSaPwY"
+        },
+        {
+          "name": "Judith",
+          "url": "https://open.spotify.com/artist/6YcfJZ3YmWm0HMj9vFG2NL"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Amour consum\u00e9 / Toxic II",
+      "url": "https://open.spotify.com/track/0TuDPnTdoBHLje8Gc8ffxs"
     },
     {
       "album": {
@@ -784,6 +810,24 @@
       "duration_ms": 175000,
       "name": "Chambre 41",
       "url": "https://open.spotify.com/track/1OpJHDb3pHTSnSuiLAMAzb"
+    },
+    {
+      "album": {
+        "name": "Chambre 41 (Kompa Gouyad)",
+        "url": "https://open.spotify.com/album/7gD4cpfHdNYsDmkNdVZwk9"
+      },
+      "artists": [
+        {
+          "name": "Laconi",
+          "url": "https://open.spotify.com/artist/0G6NSKnh543lt7f6dJiJ67"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186507,
+      "name": "Chambre 41 - Kompa Gouyad",
+      "url": "https://open.spotify.com/track/5DvjanZowlxxa6zAmYyCNZ"
     },
     {
       "album": {
@@ -3558,7 +3602,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 147265,
       "name": "Minimum",
       "url": "https://open.spotify.com/track/6O6vuiV3LEPoBOmPikV03R"
@@ -6150,7 +6194,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 196397,
       "name": "Tentation",
       "url": "https://open.spotify.com/track/4HlGzPPS4dYB39S8dIUv1q"

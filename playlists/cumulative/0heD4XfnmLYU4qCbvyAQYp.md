@@ -4,7 +4,7 @@
 
 > The best  indie rock tracks\. \| Indie, Rock, Clasic Rock, Surf Rock,  Alternative, Independent, etc\.  Submit on IG @reinhardzwisler Cover: Lord Huron
 
-94 songs - 6 hr 9 min
+95 songs - 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Alone Time](https://open.spotify.com/track/6IiYq1kRLnP1NyIEmsQWOg) | [Cyfnos](https://open.spotify.com/artist/14ywOW1zA8u5jYhABPTkDr) | [Coda](https://open.spotify.com/album/0zE11JuqyTk2HdGeyhIGHZ) | 2:16 | 2025-12-17 |  |
 | [Amor Sexo y Racanró](https://open.spotify.com/track/6rzDdSfnrPvWoCnLdAewbG) | [Käsyädë](https://open.spotify.com/artist/0TN8XJcxK2zoZwCakp2JiO) | [Amor Sexo y Racanró](https://open.spotify.com/album/6IgJl4CR6grNT36fiOVsPA) | 2:52 | 2025-10-04 |  |
 | [Apolitico](https://open.spotify.com/track/1bBKdkkz0ohLg1ACo17kl7) | [Godiva Re\-Load](https://open.spotify.com/artist/0VnuZPYu7ZMmOeoc64q6GD) | [Apolitico / Io E Lady G](https://open.spotify.com/album/3hXH3LEE8bXIugvTFgsuqc) | 5:08 | 2025-12-07 |  |
+| [Are We Dreaming?](https://open.spotify.com/track/0DeP3IiS666gBlTv6mT9NX) | [Vann's Nebula](https://open.spotify.com/artist/3weSFV7MGGpEDX60DTEzlM) | [Low Fidelity](https://open.spotify.com/album/6NYA18h0U4PtpFe5hOYNoE) | 2:49 | 2026-01-01 |  |
 | [Ascent](https://open.spotify.com/track/07jLXJM0cPtkusSIsggBPx) | [Synthetic Broadcast](https://open.spotify.com/artist/16H0ape8xiGKFnqUoU6AWQ) | [Nomads](https://open.spotify.com/album/3poDscUob4x5S9Gu9RlTlm) | 2:39 | 2025-12-10 |  |
 | [Be Right Here](https://open.spotify.com/track/5bb4mLHW4JaJjLB7z9Pu38) | [Dave Christen](https://open.spotify.com/artist/3pLpSZzfhqSloT7Cidly8l) | [Be Right Here](https://open.spotify.com/album/5jjjFyrWKTaATTx3P4UtHs) | 4:09 | 2025-11-12 | 2025-12-08 |
 | [Bea Tiene Una Risa Tan Especial](https://open.spotify.com/track/0cpEflaylHIzMmKy3DgjMj) | [Käsyädë](https://open.spotify.com/artist/0TN8XJcxK2zoZwCakp2JiO) | [Bea Tiene Una Risa Tan Especial](https://open.spotify.com/album/0COY3QqIEM0exOOJTqanVc) | 4:10 | 2025-10-05 |  |

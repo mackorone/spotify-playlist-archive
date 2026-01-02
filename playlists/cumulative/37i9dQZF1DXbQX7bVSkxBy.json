@@ -410,7 +410,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 211169,
       "name": "All In (Part 1)",
       "url": "https://open.spotify.com/track/1GAydC1LYPDTbBVcV4EYRt"
@@ -3446,7 +3446,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-26",
+      "date_removed": null,
       "duration_ms": 207529,
       "name": "GOD IS GOOD",
       "url": "https://open.spotify.com/track/2gmqnkY0jrfz3vnO4FVS4p"
@@ -4140,7 +4140,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 147692,
       "name": "Higher",
       "url": "https://open.spotify.com/track/2Sv5TBcFr50zDLDfcwGntc"
@@ -4452,6 +4452,24 @@
       "duration_ms": 142915,
       "name": "I Take",
       "url": "https://open.spotify.com/track/6Ov8i3OdWpmaPYefzBbhAN"
+    },
+    {
+      "album": {
+        "name": "Future Now",
+        "url": "https://open.spotify.com/album/4vcO7GRBDd8zYwZEkzSLIJ"
+      },
+      "artists": [
+        {
+          "name": "Ada Ehi",
+          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362553,
+      "name": "I Testify",
+      "url": "https://open.spotify.com/track/25WsThhuvxiv7i2G0qMv0h"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XAs7CuJn4t.md) - [plain]
 
 > <a href="spotify:artist:1bNjWBFWsAAzZSR59lRdpR">Kabza De Small</a>'s favorite tracks\. Updated regularly\. Curated by Kabza De Small\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,552 likes - 49 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,610 likes - 49 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

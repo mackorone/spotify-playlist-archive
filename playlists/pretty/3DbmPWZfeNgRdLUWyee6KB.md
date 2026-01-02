@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,134 likes - 223 songs - 13 hr 12 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,138 likes - 227 songs - 13 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -231,5 +231,9 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 221 | [Aquila](https://open.spotify.com/track/3PxcCMRlyHlZ6PdA647rru) | [Open Strum](https://open.spotify.com/artist/1Xh9igcpw9BvisCWyVQ932), [One Guild](https://open.spotify.com/artist/65tJuTsrG52OELMrkeoZET) | [Open Strum 2](https://open.spotify.com/album/1jIdsJW3n2lfxaP7IQnwko) | 2:38 |
 | 222 | [TARUYA](https://open.spotify.com/track/62jD9K6RUkUkttMNa5ENLm) | [Eucryphia](https://open.spotify.com/artist/4JeeJ77VrOc1r46XSO9wzt) | [TARUYA](https://open.spotify.com/album/5Efc1yDQ7g05sAZuwSyTYx) | 2:04 |
 | 223 | [Just A Good Time 80s Jam](https://open.spotify.com/track/3Ytv0HiQSQKrPg0JL1ql22) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [Just A Good Time 80s Jam](https://open.spotify.com/album/7dcLwSUHVmHRhwBZUz3XSq) | 2:34 |
+| 224 | [Maafkan Jika Aku Tiada](https://open.spotify.com/track/5OvCYyXUYu8CXae82Zwlcl) | [Cozy Clouds](https://open.spotify.com/artist/1q1DfjBCaRtLGJhklz1HEa) | [Maafkan Jika Aku Tiada](https://open.spotify.com/album/0Gbfv3eRKhWTUtXGJkxuod) | 3:39 |
+| 225 | [I Hope That You're Okay](https://open.spotify.com/track/4nhffh2CLn0tJ9pxwYGq4N) | [UMIDA](https://open.spotify.com/artist/5yVzuNgV0irDWOphxt0R0b) | [I Hope That You're Okay](https://open.spotify.com/album/3wGgAUJUw328hFAmQByGuf) | 3:36 |
+| 226 | [I'm on My Way to Say Goodbye](https://open.spotify.com/track/0rnDS05Uz4sVAdb7PUh29m) | [UMIDA](https://open.spotify.com/artist/5yVzuNgV0irDWOphxt0R0b) | [My House Is on Fire](https://open.spotify.com/album/2J0H3g4HxlRKPRv2DpHDFN) | 2:45 |
+| 227 | [Autumn Lost](https://open.spotify.com/track/42KRHxMvOOSDvlVPmfEIKH) | [Eden Rose](https://open.spotify.com/artist/5SOfWUcNGehU0c0foyXQjl) | [Autumn Lost](https://open.spotify.com/album/4WUacCMCWJL5DJ1DcwkebP) | 3:51 |
 
-Snapshot ID: `AAAOgzvZHU0VgFbr5eGbOPmrUoie0+Va`
+Snapshot ID: `AAAOhzP+ty7CEkTsEkmSRrtqj5+B+R9l`

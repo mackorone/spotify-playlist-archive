@@ -1,33 +1,13 @@
 {
   "description": "This is St. Vincent. The essential tracks, all in one playlist.",
-  "num_followers": 55524,
+  "num_followers": 55517,
   "original_name": "This Is St. Vincent",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVMWAAAAAACOY44aHecmHgykHBH2YzQT",
+  "snapshot_id": "aVRngAAAAAAm44MvPRN91MOFAu7OcWMO",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Have Yourself A Merry Little Christmas (from \"Oh. What. Fun.\")",
-        "url": "https://open.spotify.com/album/5B4ooxyoQ6XiCTcBpoUViA"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        },
-        {
-          "name": "Oh. What. Fun.",
-          "url": "https://open.spotify.com/artist/5VYSkRVd4ZrQo12YhB3t7S"
-        }
-      ],
-      "duration_ms": 152955,
-      "name": "Have Yourself A Merry Little Christmas (from \"Oh. What. Fun.\")",
-      "url": "https://open.spotify.com/track/3hXNUMncxp5ZxmWcB3DEU4"
-    },
     {
       "added_at": null,
       "album": {
@@ -851,6 +831,22 @@
       "duration_ms": 227826,
       "name": "All My Stars Aligned",
       "url": "https://open.spotify.com/track/3wOaJ2wFbkGOOzhvGAgwLX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Actor",
+        "url": "https://open.spotify.com/album/62O4QjMzIBjilnRYrAI7oX"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 244840,
+      "name": "The Strangers",
+      "url": "https://open.spotify.com/track/4OJZdAOrWKD4ZJXqfClIUR"
     }
   ],
   "unique_name": "This Is St. Vincent",

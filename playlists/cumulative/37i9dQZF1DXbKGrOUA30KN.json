@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "Deutschpop, der jetzt passiert. Cover: LUNA",
+  "description": "Deutschpop, der jetzt passiert. Cover: Milano, Sarah Connor",
   "name": "POPLAND",
   "tracks": [
     {
@@ -182,7 +182,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 135871,
       "name": "Albtraum",
       "url": "https://open.spotify.com/track/0HCn3XZWEkApdrjnoo1zxT"
@@ -226,6 +226,24 @@
       "duration_ms": 201706,
       "name": "Alles in Bewegung",
       "url": "https://open.spotify.com/track/5wCfiLsNlR0CYLGv84IVZY"
+    },
+    {
+      "album": {
+        "name": "Alles in Flammen",
+        "url": "https://open.spotify.com/album/6BvcJWGfkAfq1H6Qp9LjNo"
+      },
+      "artists": [
+        {
+          "name": "SOPHIA",
+          "url": "https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172346,
+      "name": "Alles in Flammen",
+      "url": "https://open.spotify.com/track/04nHyx9FyhDs0RDSOrp532"
     },
     {
       "album": {
@@ -450,7 +468,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 173632,
       "name": "besser so",
       "url": "https://open.spotify.com/track/75a0tGKSqVuLZ8CBtkTHhC"
@@ -1115,6 +1133,24 @@
     },
     {
       "album": {
+        "name": "farben f\u00fcr den winter",
+        "url": "https://open.spotify.com/album/1T2TEqwW1exrqp3EzpoXTm"
+      },
+      "artists": [
+        {
+          "name": "liska",
+          "url": "https://open.spotify.com/artist/279fWE4KpU6bqxsBypK8C4"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186920,
+      "name": "farben f\u00fcr den winter",
+      "url": "https://open.spotify.com/track/52QjSYohzFvPCGIpsIkJw4"
+    },
+    {
+      "album": {
         "name": "festnetztelefon",
         "url": "https://open.spotify.com/album/4mb6z0c7eBTpw5v5hsFxh4"
       },
@@ -1631,6 +1667,28 @@
     },
     {
       "album": {
+        "name": "Je t'aime",
+        "url": "https://open.spotify.com/album/64HHa1UHiIAaK9gnEe5vYY"
+      },
+      "artists": [
+        {
+          "name": "Milano",
+          "url": "https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm"
+        },
+        {
+          "name": "Sarah Connor",
+          "url": "https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181084,
+      "name": "Je t'aime",
+      "url": "https://open.spotify.com/track/6YOCx2VG0PFBsZEhaS1jjY"
+    },
+    {
+      "album": {
         "name": "Jedes Jahr",
         "url": "https://open.spotify.com/album/2OcyCpUysXn9w6raXov5K9"
       },
@@ -1834,7 +1892,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 155158,
       "name": "Kirche im Dorf",
       "url": "https://open.spotify.com/track/4BDbZRfPnE3tYFD5MGFLbQ"
@@ -2070,7 +2128,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 134036,
       "name": "LETZTER TAG",
       "url": "https://open.spotify.com/track/7l9qt1sUAbqSXXlAMlkrFs"
@@ -2250,7 +2308,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 197640,
       "name": "Mein L\u00f6we",
       "url": "https://open.spotify.com/track/0yGbo7BeoP40DEdrBWEnzD"
@@ -2748,7 +2806,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 133201,
       "name": "SOS",
       "url": "https://open.spotify.com/track/55Jya1xLHDYLvqLjej3SOu"
@@ -3384,7 +3442,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 183697,
       "name": "wenn ich schrei",
       "url": "https://open.spotify.com/track/748UyAensK4O1xKbuwDcGs"
@@ -3496,7 +3554,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 232217,
       "name": "W\u00e4rst du mir nie passiert",
       "url": "https://open.spotify.com/track/5SZEk5aStVnpNZEL3UDkHq"

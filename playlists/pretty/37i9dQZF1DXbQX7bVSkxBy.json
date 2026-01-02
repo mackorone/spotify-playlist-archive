@@ -1,13 +1,29 @@
 {
   "description": "Raise a voice and testify the goodness of God.  Cover: Moses Bliss",
-  "num_followers": 53629,
+  "num_followers": 53656,
   "original_name": "Testify",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF8waf18rGqWQ3lqsF7nkUhA5o7o",
+  "snapshot_id": "AAAAAIbkeEvuE5m+ku2S6CE0KTK7d5CU",
   "tracks": [
+    {
+      "added_at": "2026-01-02 00:01:24",
+      "album": {
+        "name": "Future Now",
+        "url": "https://open.spotify.com/album/4vcO7GRBDd8zYwZEkzSLIJ"
+      },
+      "artists": [
+        {
+          "name": "Ada Ehi",
+          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
+        }
+      ],
+      "duration_ms": 362553,
+      "name": "I Testify",
+      "url": "https://open.spotify.com/track/25WsThhuvxiv7i2G0qMv0h"
+    },
     {
       "added_at": "2024-12-06 00:01:00",
       "album": {
@@ -73,40 +89,40 @@
       "url": "https://open.spotify.com/track/0DWXEQvxbrDlJ1tt9Q1Zc9"
     },
     {
-      "added_at": "2025-11-21 00:01:21",
+      "added_at": "2025-06-06 00:01:28",
       "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/1KKYyAZaITpEknUADTzAAt"
+        "name": "Move Your Heart",
+        "url": "https://open.spotify.com/album/5cqTGnTR7shuPCA2FqyFtR"
       },
       "artists": [
         {
-          "name": "Malcolm Rue",
-          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/2Sv5TBcFr50zDLDfcwGntc"
-    },
-    {
-      "added_at": "2025-12-12 00:01:22",
-      "album": {
-        "name": "All In (Part 1)",
-        "url": "https://open.spotify.com/album/366EJz9eQ8a87MIDRjDCNZ"
-      },
-      "artists": [
-        {
-          "name": "Shofarband",
-          "url": "https://open.spotify.com/artist/5SQke12fP5vvpAv4krgAwJ"
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "Rikus Jonck",
-          "url": "https://open.spotify.com/artist/6AUA67tZ4gm5QKeXZJTtUc"
+          "name": "UPPERROOM",
+          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
+        },
+        {
+          "name": "Housefires",
+          "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        },
+        {
+          "name": "Maryanne J. George",
+          "url": "https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3"
+        },
+        {
+          "name": "Aaron Moses",
+          "url": "https://open.spotify.com/artist/4QzrhxZWtXfuW6rZATPTE7"
         }
       ],
-      "duration_ms": 211169,
-      "name": "All In (Part 1)",
-      "url": "https://open.spotify.com/track/1GAydC1LYPDTbBVcV4EYRt"
+      "duration_ms": 465744,
+      "name": "I Thank God (feat. Dante Bowe, Maryanne Joshua George & Aaron Moses)",
+      "url": "https://open.spotify.com/track/3IBHk8pwBYyzlKYGVmoWQt"
     },
     {
       "added_at": "2025-12-12 00:01:22",
@@ -145,42 +161,6 @@
       "url": "https://open.spotify.com/track/4LMh11K1jZZ01vQ8Qcn9Bl"
     },
     {
-      "added_at": "2025-06-06 00:01:28",
-      "album": {
-        "name": "Move Your Heart",
-        "url": "https://open.spotify.com/album/5cqTGnTR7shuPCA2FqyFtR"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "UPPERROOM",
-          "url": "https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63"
-        },
-        {
-          "name": "Housefires",
-          "url": "https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD"
-        },
-        {
-          "name": "Dante Bowe",
-          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
-        },
-        {
-          "name": "Maryanne J. George",
-          "url": "https://open.spotify.com/artist/4nMPNmeygaudrlnaoEjpf3"
-        },
-        {
-          "name": "Aaron Moses",
-          "url": "https://open.spotify.com/artist/4QzrhxZWtXfuW6rZATPTE7"
-        }
-      ],
-      "duration_ms": 465744,
-      "name": "I Thank God (feat. Dante Bowe, Maryanne Joshua George & Aaron Moses)",
-      "url": "https://open.spotify.com/track/3IBHk8pwBYyzlKYGVmoWQt"
-    },
-    {
       "added_at": "2023-12-29 00:01:00",
       "album": {
         "name": "Holy Forever",
@@ -195,6 +175,26 @@
       "duration_ms": 308066,
       "name": "Holy Forever",
       "url": "https://open.spotify.com/track/1bfRXeYRGJF8aCxUpQ4yOq"
+    },
+    {
+      "added_at": "2025-07-18 00:01:14",
+      "album": {
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        }
+      ],
+      "duration_ms": 455007,
+      "name": "Goodness of God",
+      "url": "https://open.spotify.com/track/1hDgFA6aEFjbSxab5krJOx"
     },
     {
       "added_at": "2025-12-26 00:01:41",
@@ -461,24 +461,20 @@
       "url": "https://open.spotify.com/track/2iXyq6VNROrkPrDoBCMlfz"
     },
     {
-      "added_at": "2025-07-18 00:01:14",
+      "added_at": "2024-04-05 00:01:00",
       "album": {
-        "name": "Peace",
-        "url": "https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE"
+        "name": "Believe For It",
+        "url": "https://open.spotify.com/album/5UXG9YjxHZu7l4tTNjwIYX"
       },
       "artists": [
         {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Jenn Johnson",
-          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 455007,
-      "name": "Goodness of God",
-      "url": "https://open.spotify.com/track/1hDgFA6aEFjbSxab5krJOx"
+      "duration_ms": 297693,
+      "name": "Goodness Of God - Live",
+      "url": "https://open.spotify.com/track/59uuKDpLFhHtCWwMudospF"
     },
     {
       "added_at": "2025-10-10 00:01:08",
@@ -495,22 +491,6 @@
       "duration_ms": 225436,
       "name": "Ay\u00f3 (Joy Song)",
       "url": "https://open.spotify.com/track/272XCmhQbip13WZRPbKYeb"
-    },
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
-        "name": "Believe For It",
-        "url": "https://open.spotify.com/album/5UXG9YjxHZu7l4tTNjwIYX"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 297693,
-      "name": "Goodness Of God - Live",
-      "url": "https://open.spotify.com/track/59uuKDpLFhHtCWwMudospF"
     },
     {
       "added_at": "2025-02-21 00:01:28",
@@ -531,22 +511,6 @@
       "duration_ms": 482500,
       "name": "Mighty Name of Jesus - Live",
       "url": "https://open.spotify.com/track/1ysuxhzGyjJPpqPQQyK8Uw"
-    },
-    {
-      "added_at": "2025-10-10 00:01:08",
-      "album": {
-        "name": "Look Now",
-        "url": "https://open.spotify.com/album/7cUJRu8sMzoVZutp79QNQt"
-      },
-      "artists": [
-        {
-          "name": "SONOJ ONOJA",
-          "url": "https://open.spotify.com/artist/6zHRpFSVzYf53NzQ74UCpM"
-        }
-      ],
-      "duration_ms": 299154,
-      "name": "Look Now",
-      "url": "https://open.spotify.com/track/6R21beENKQeGyOvBEVvx3A"
     },
     {
       "added_at": "2024-04-05 00:01:00",
@@ -571,6 +535,22 @@
       "duration_ms": 405513,
       "name": "Million Little Miracles (feat. Joe L Barnes)",
       "url": "https://open.spotify.com/track/2AX4m5yewzlDmzODLJ8Lcz"
+    },
+    {
+      "added_at": "2025-10-10 00:01:08",
+      "album": {
+        "name": "Look Now",
+        "url": "https://open.spotify.com/album/7cUJRu8sMzoVZutp79QNQt"
+      },
+      "artists": [
+        {
+          "name": "SONOJ ONOJA",
+          "url": "https://open.spotify.com/artist/6zHRpFSVzYf53NzQ74UCpM"
+        }
+      ],
+      "duration_ms": 299154,
+      "name": "Look Now",
+      "url": "https://open.spotify.com/track/6R21beENKQeGyOvBEVvx3A"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -785,22 +765,6 @@
       "url": "https://open.spotify.com/track/7BvQTLZXj9XDG9BZnGLZtO"
     },
     {
-      "added_at": "2025-10-10 00:01:08",
-      "album": {
-        "name": "Race To Peace",
-        "url": "https://open.spotify.com/album/7AHEMgcR2t54t4jeXe1nwr"
-      },
-      "artists": [
-        {
-          "name": "Uniteey",
-          "url": "https://open.spotify.com/artist/4tUY1rXQMqx0XM120mQB2E"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Follow Your Lead",
-      "url": "https://open.spotify.com/track/1khq95vYxs09d7FZ6zWuVt"
-    },
-    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "The Message",
@@ -815,6 +779,22 @@
       "duration_ms": 370131,
       "name": "All That Matters",
       "url": "https://open.spotify.com/track/7aDw6ABFrazUlM4PRfUYLI"
+    },
+    {
+      "added_at": "2025-10-10 00:01:08",
+      "album": {
+        "name": "Race To Peace",
+        "url": "https://open.spotify.com/album/7AHEMgcR2t54t4jeXe1nwr"
+      },
+      "artists": [
+        {
+          "name": "Uniteey",
+          "url": "https://open.spotify.com/artist/4tUY1rXQMqx0XM120mQB2E"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Follow Your Lead",
+      "url": "https://open.spotify.com/track/1khq95vYxs09d7FZ6zWuVt"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -953,6 +933,22 @@
       "url": "https://open.spotify.com/track/19OhFys7Cga8g5sHHSY7hE"
     },
     {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "SATISFIED",
+        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 267572,
+      "name": "Na You Dey Reign",
+      "url": "https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC"
+    },
+    {
       "added_at": "2024-04-05 00:01:00",
       "album": {
         "name": "Grace (Live/Deluxe)",
@@ -969,20 +965,24 @@
       "url": "https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
+      "added_at": "2024-04-12 00:01:00",
       "album": {
-        "name": "SATISFIED",
-        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
+        "name": "GOD IS GOOD",
+        "url": "https://open.spotify.com/album/3HPIOCWtwZIaRsf3EnOdIC"
       },
       "artists": [
         {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "Caleb Gordon",
+          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
         }
       ],
-      "duration_ms": 267572,
-      "name": "Na You Dey Reign",
-      "url": "https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC"
+      "duration_ms": 207529,
+      "name": "GOD IS GOOD",
+      "url": "https://open.spotify.com/track/2gmqnkY0jrfz3vnO4FVS4p"
     }
   ],
   "unique_name": "Testify",

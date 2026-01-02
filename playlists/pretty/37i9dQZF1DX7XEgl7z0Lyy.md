@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XEgl7z0Lyy.md) - [plain]
 
 > music from the underworld
 
-[Spotify](https://open.spotify.com/user/spotify) - 679,444 likes - 125 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 679,482 likes - 125 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,7 +115,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XEgl7z0Lyy.md) - [plain]
 | 105 | [Grim Reaper](https://open.spotify.com/track/1TWC0DUf4xXC2QqpBovlws) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Grim Reaper](https://open.spotify.com/album/0lCbxop4nU0dSKUdZ0rQ5Y) | 2:50 |
 | 106 | [PARTY ALL NIGHT!](https://open.spotify.com/track/3IV3qgNIzvlf2dmeXX6ADw) | [Lumi Athena](https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm) | [PARTY ALL NIGHT!](https://open.spotify.com/album/3R7c7RQHgK0a7lMyIwq0Km) | 1:47 |
 | 107 | [labyrinth](https://open.spotify.com/track/0RBL2CU9e3x13GFEzMGG3z) | [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [\#exclusive](https://open.spotify.com/album/2MOmOE5tp2Y8PGoOxN4iXA) | 1:42 |
-| 108 | [Dead n Gone](https://open.spotify.com/track/2vyAxGW8KhJV1C4rGRCwco) | [Luci4](https://open.spotify.com/artist/1CbA4z6JauNQnHzOErDQL6) | [Dead n Gone](https://open.spotify.com/album/7wfrRI6BAK3b973nWm8mza) | 1:06 |
+| 108 | [Dead n Gone](https://open.spotify.com/track/2vyAxGW8KhJV1C4rGRCwco) | [Luci4](https://open.spotify.com/artist/6yDXDmZZOF22c07t6L6fgq) | [Dead n Gone](https://open.spotify.com/album/7wfrRI6BAK3b973nWm8mza) | 1:06 |
 | 109 | [DXXXRTY!](https://open.spotify.com/track/7fWWHphEvrMCEFyLYbCv3J) | [NONTHENSE](https://open.spotify.com/artist/2APh66XEiqOiDt3bKhBWmn), [Iwuplu](https://open.spotify.com/artist/6C8Qg3USXkcpL9jg0TYa7k) | [DXXXRTY!](https://open.spotify.com/album/1Yrk0XGuAur0a6RWGGD2CN) | 2:12 |
 | 110 | [GAME OVER](https://open.spotify.com/track/3tVzkAo4dmzdYxbnrWIwxM) | [ZØMB](https://open.spotify.com/artist/79NIVAOefeJgwo0QIIZ9t2), [Willix](https://open.spotify.com/artist/6xWCdgEVD3rUXv3AYA4VPj) | [GAME OVER](https://open.spotify.com/album/030Jb57zSFdga6o06m7IDu) | 1:26 |
 | 111 | [Kurxxed Emeraldz](https://open.spotify.com/track/01aBUgzGC5798sm3oPqhVs) | [Luci4](https://open.spotify.com/artist/1CbA4z6JauNQnHzOErDQL6) | [Kurxxed Emeraldz](https://open.spotify.com/album/5GIlXalyhmqE6evZFuVazy) | 1:01 |

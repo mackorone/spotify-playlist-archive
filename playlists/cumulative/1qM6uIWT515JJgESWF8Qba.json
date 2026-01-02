@@ -783,6 +783,24 @@
     },
     {
       "album": {
+        "name": "Extendead Play",
+        "url": "https://open.spotify.com/album/5kf27yA2pk86epIZc20WlB"
+      },
+      "artists": [
+        {
+          "name": "Highway Queen",
+          "url": "https://open.spotify.com/artist/6HV2ATap9CHsc4EcZnzc4u"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240432,
+      "name": "I Will Take You To Hell",
+      "url": "https://open.spotify.com/track/6jcFAG4Tqw2klTj8KPFEZF"
+    },
+    {
+      "album": {
         "name": "Ribcrasher",
         "url": "https://open.spotify.com/album/1p1VeLJoQlDKiK1X90QCHK"
       },
@@ -1530,6 +1548,24 @@
       "duration_ms": 268700,
       "name": "Skin Deep",
       "url": "https://open.spotify.com/track/5wsNvYOF9wR5BRWSKUSbft"
+    },
+    {
+      "album": {
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/78Vn2njYDYqLAKl7LWAMKC"
+      },
+      "artists": [
+        {
+          "name": "Gradience",
+          "url": "https://open.spotify.com/artist/6jgh7lYvPsSFJPa0OMkWH4"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217297,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/5U1VJztDR0Dj59N0DIMe2x"
     },
     {
       "album": {

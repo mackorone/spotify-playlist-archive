@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 
 > Your frequency for today's hottest pop tracks via ZA\. Cover: Teagan
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,488 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,486 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,11 +38,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 | 28 | [Panorama](https://open.spotify.com/track/2OOwzUMX840Zdrf8fqSeOT) | [Monark](https://open.spotify.com/artist/4fWc4RmQhx0vz05EQV8ekC) | [Panorama](https://open.spotify.com/album/2aM5O978xmf2IxRKMRb2CA) | 2:56 |
 | 29 | [Before You Go](https://open.spotify.com/track/2gMXnyrvIjhVBUZwvLZDMP) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent \(Extended Edition\)](https://open.spotify.com/album/2wiPF3m0ylst0JSk1IvZL8) | 3:35 |
 | 30 | [I Got You Flowers](https://open.spotify.com/track/6ri6AyjDTSLBkEijwq9uxE) | [Neon Dreams](https://open.spotify.com/artist/2UQ6mFkiLYy5VHRJnajQYT), [Tatum Tides](https://open.spotify.com/artist/730X1kWAiAf4vUtlUs1nWY) | [I Got You Flowers](https://open.spotify.com/album/0ALk2ITmWuEC98tflWgRYJ) | 3:38 |
-| 31 | [Drops of Jupiter \(Tell Me\)](https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Drops Of Jupiter](https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT) | 4:19 |
+| 31 | [Mystical Magical](https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Mystical Magical](https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK) | 2:45 |
 | 32 | [Mixed Signals](https://open.spotify.com/track/0BEGHGm7DqMSQ0MrBcL68W) | [Dan Duminy](https://open.spotify.com/artist/0Xj4YyjZkAFSYoL1tvcjDx) | [Mixed Signals](https://open.spotify.com/album/5EskOJzeDa2x8nJrPZn3Gp) | 2:21 |
 | 33 | [ENOLA](https://open.spotify.com/track/7LI22i7TqexDN1Oacjgaqa) | [Aidan Fraser](https://open.spotify.com/artist/2SNp368DTWkgfo7sM1RqMx) | [ENOLA](https://open.spotify.com/album/3V4geYinkvVGceu3X2bl4E) | 2:53 |
 | 34 | [All the Lovely Things](https://open.spotify.com/track/5J0uw6zmJFrng7Y8brIyaa) | [Tannah](https://open.spotify.com/artist/270Y3Rs9z9a0Ut9xBwpzC8) | [All the Lovely Things](https://open.spotify.com/album/7FHDb4L2YllAJvzfd5C99x) | 3:28 |
-| 35 | [Mystical Magical](https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Mystical Magical](https://open.spotify.com/album/7y5UZkCSxTUo47pxeTWbXK) | 2:45 |
+| 35 | [Drops of Jupiter \(Tell Me\)](https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Drops Of Jupiter](https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT) | 4:19 |
 | 36 | [Open Heart Surgery](https://open.spotify.com/track/2Su5eMncjZGbaCzLgzWGqm) | [Myra Gold](https://open.spotify.com/artist/75xcdatxUPRCINZRtygfHT) | [Open Heart Surgery](https://open.spotify.com/album/6uy9xqu3Vzc7NcpM8MpvlN) | 3:17 |
 | 37 | [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 |
 | 38 | [Call it what it is](https://open.spotify.com/track/0OuVuJgcaXYPUa48Ajhd3w) | [Conrad Moolman](https://open.spotify.com/artist/0xrzCMd5DGWOOEM8QkEeZy) | [Call it what it is](https://open.spotify.com/album/57TW09wScNHj27Bs3tEhV0) | 3:18 |

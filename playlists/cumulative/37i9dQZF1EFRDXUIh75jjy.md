@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3lU5u0XAQ25ta8AmlI0SCB">Steph Jones</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-298 songs - 15 hr 15 min
+299 songs - 15 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,7 +160,8 @@
 | [Indie Movie Zoomout Moment](https://open.spotify.com/track/52L7FseAcbWs0lqTH9Z2IK) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [I Call It Being Human](https://open.spotify.com/album/3FVWw3nnNmvi2XCjKERKMN) | 2:45 | 2024-06-07 |  |
 | [Is It Just Me?](https://open.spotify.com/track/2NFJOmioXKKFVDgVuwn0d7) | [Sweet Little Band](https://open.spotify.com/artist/7HBA3bLuJTLRvjK8NX9ZSy) | [Babies Go Charlie Puth](https://open.spotify.com/album/4gfQSJmCVTC1OFvnTsvxeR) | 2:32 | 2024-06-07 |  |
 | [Is That a Thing?](https://open.spotify.com/track/6KqjmAUPLX2pCNEY0l6Tmi) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [DestroyDestroyDestroyDestroy](https://open.spotify.com/album/18SQBnh6bYiDaO5pvpeAzb) | 2:49 | 2024-06-07 |  |
-| [It Ain't Nothing](https://open.spotify.com/track/5MjWbEv8algUbaQIsTpDZt) | [Scout Willis](https://open.spotify.com/artist/3Ysxmjrlt0lcajmYoMZznN) | [It Ain't Nothing](https://open.spotify.com/album/6IovfYKuPuGs2hank1x7AX) | 3:11 | 2025-12-17 |  |
+| [It Ain't Nothing](https://open.spotify.com/track/2BcGm4sN6PgO4eNKCSpsK7) | [Scout Willis](https://open.spotify.com/artist/3Ysxmjrlt0lcajmYoMZznN) | [It Ain't Nothing](https://open.spotify.com/album/3lQWHIJOb6mDYd7K5f63X8) | 3:11 | 2026-01-01 |  |
+| [It Ain't Nothing](https://open.spotify.com/track/5MjWbEv8algUbaQIsTpDZt) | [Scout Willis](https://open.spotify.com/artist/3Ysxmjrlt0lcajmYoMZznN) | [It Ain't Nothing](https://open.spotify.com/album/6IovfYKuPuGs2hank1x7AX) | 3:11 | 2025-12-17 | 2026-01-02 |
 | [IT'S ALL GOOD](https://open.spotify.com/track/7yaeNwiYNogSFeehnPWwxS) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU), [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB) | [THESE ARE THE DAYS](https://open.spotify.com/album/1AJALAmmWZ7esphVavr66K) | 3:03 | 2024-08-29 |  |
 | [It's Over For Me](https://open.spotify.com/track/5hKJVvNU3DOsB5bYOA0WKU) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Past // Present // Future](https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve) | 2:21 | 2024-06-07 |  |
 | [it's us](https://open.spotify.com/track/6lUV4RcPycER5am574exMD) | [WRABEL](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII), [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [these words are all for you](https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS) | 3:13 | 2024-06-07 |  |

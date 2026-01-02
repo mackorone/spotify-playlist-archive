@@ -275,6 +275,24 @@
     },
     {
       "album": {
+        "name": "Dream About You",
+        "url": "https://open.spotify.com/album/4BTyulvNqYxI7zhpNV2F1T"
+      },
+      "artists": [
+        {
+          "name": "UMIDA",
+          "url": "https://open.spotify.com/artist/5yVzuNgV0irDWOphxt0R0b"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176446,
+      "name": "Dream About You",
+      "url": "https://open.spotify.com/track/7A7mxUsWWx3jyyakwNRb1V"
+    },
+    {
+      "album": {
         "name": "DREAMPRINT",
         "url": "https://open.spotify.com/album/0ishP3v2Lf1U7q7TFpD8jb"
       },

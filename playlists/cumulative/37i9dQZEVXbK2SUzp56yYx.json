@@ -10380,7 +10380,7 @@
       ],
       "date_added": "2025-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 170333,
       "name": "I Thought I Saw Your Face Today",
       "url": "https://open.spotify.com/track/0myRViRgmQ3J8izICXEAVO"
@@ -10398,7 +10398,7 @@
       ],
       "date_added": "2025-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-01",
+      "date_removed": null,
       "duration_ms": 106860,
       "name": "I Want Things to Be Beautiful",
       "url": "https://open.spotify.com/track/2o4kFMrOGhXwdpKd2ZUaKs"
@@ -15590,7 +15590,7 @@
       ],
       "date_added": "2025-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 228360,
       "name": "My Moon My Man",
       "url": "https://open.spotify.com/track/4fQVQKIiidREPI0MhFEuDn"
@@ -15608,7 +15608,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-31",
+      "date_removed": null,
       "duration_ms": 228360,
       "name": "My Moon My Man",
       "url": "https://open.spotify.com/track/5FFQbvn7055P1DvgJDdCBP"
@@ -16246,7 +16246,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 107933,
       "name": "NO BATID\u00c3O - Slowed",
       "url": "https://open.spotify.com/track/72YttnPRxyHe8zCG50jYhj"
@@ -17166,7 +17166,7 @@
       ],
       "date_added": "2025-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 343588,
       "name": "Parade",
       "url": "https://open.spotify.com/track/5Wx9b2pNPEx11wVYIAP1Y6"
@@ -28418,7 +28418,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 141971,
       "name": "\u0413\u0434\u0435 \u0431\u044b \u044f \u043d\u0438 \u0431\u044b\u043b",
       "url": "https://open.spotify.com/track/6KJ63CHxX3U4E9cpgd4gh5"
@@ -29824,7 +29824,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 168595,
       "name": "\u0434\u0443\u043c\u0430\u044e \u043e \u0442\u0435\u0431\u0435",
       "url": "https://open.spotify.com/track/2rG0vMueQK6ocCn05MM1hw"
@@ -30888,6 +30888,28 @@
       "duration_ms": 149328,
       "name": "\u041a\u0430\u0431\u0430\u043d",
       "url": "https://open.spotify.com/track/1kZLJajBBu3JYsGZ4JcJO9"
+    },
+    {
+      "album": {
+        "name": "\u0414\u0435\u0442\u0441\u043a\u0438\u0435 \u041f\u0435\u0441\u043d\u0438 - 100 \u041b\u0443\u0447\u0448\u0438\u0445",
+        "url": "https://open.spotify.com/album/1TWBJTqx2zM9AcMw33AbfL"
+      },
+      "artists": [
+        {
+          "name": "Igor Belkin",
+          "url": "https://open.spotify.com/artist/7kj4FXwNn0QH0KhsxDx5uE"
+        },
+        {
+          "name": "Anna Belkin",
+          "url": "https://open.spotify.com/artist/1Pd0zaEaxV9Ly1TqGr7045"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74680,
+      "name": "\u041a\u0430\u0431\u044b \u041d\u0435 \u0411\u044b\u043b\u043e \u0417\u0438\u043c\u044b",
+      "url": "https://open.spotify.com/track/2CGrsu3AQonIRWjCYufrNI"
     },
     {
       "album": {
@@ -32714,6 +32736,28 @@
       "duration_ms": 225080,
       "name": "\u041c\u0430\u043c\u0430, \u044f \u043b\u044e\u0431\u043b\u044e",
       "url": "https://open.spotify.com/track/26ndggQsCA87zuQwzpgyQE"
+    },
+    {
+      "album": {
+        "name": "\u041c\u0430\u043d\u0434\u0430\u0440\u0438\u043d\u043a\u0430",
+        "url": "https://open.spotify.com/album/1JKp6CH1Q9NSyJPrJ1zVbK"
+      },
+      "artists": [
+        {
+          "name": "Olga Buzova",
+          "url": "https://open.spotify.com/artist/6D0uq3URoqvg5EcTzEsNUa"
+        },
+        {
+          "name": "DAVA",
+          "url": "https://open.spotify.com/artist/0Ll5YUmSXpy7LVu7wcN0Z5"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153248,
+      "name": "\u041c\u0430\u043d\u0434\u0430\u0440\u0438\u043d\u043a\u0430",
+      "url": "https://open.spotify.com/track/5KQjLBHXRoxVEcDrp430tw"
     },
     {
       "album": {
@@ -34916,7 +34960,7 @@
       ],
       "date_added": "2025-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 191571,
       "name": "\u041e \u043b\u044e\u0431\u0432\u0438",
       "url": "https://open.spotify.com/track/6wGYhb5M0di8FUKagnEbR3"
@@ -36788,7 +36832,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-01",
+      "date_removed": null,
       "duration_ms": 106299,
       "name": "\u043f\u043e\u043f\u0430\u043b",
       "url": "https://open.spotify.com/track/5AWy4Pz6662xcFBHnuebpy"
@@ -38006,7 +38050,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-09",
+      "date_removed": null,
       "duration_ms": 207307,
       "name": "\u0421 \u041d\u043e\u0432\u044b\u043c \u0433\u043e\u0434\u043e\u043c, \u043c\u0430\u043c\u0430! \u0421 \u041d\u043e\u0432\u044b\u043c \u0433\u043e\u0434\u043e\u043c, \u043f\u0430\u043f\u0430!",
       "url": "https://open.spotify.com/track/5Vdeef7lW0XhZb1fd82SQX"
@@ -38064,7 +38108,7 @@
       ],
       "date_added": "2025-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 145047,
       "name": "\u0421\u0430\u0439\u0442",
       "url": "https://open.spotify.com/track/695k3xSxwunkal37drPMkV"
@@ -38702,7 +38746,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-01",
+      "date_removed": null,
       "duration_ms": 209038,
       "name": "\u0421\u0438\u043d\u0438\u0439 \u0438\u043d\u0435\u0439",
       "url": "https://open.spotify.com/track/0lQtCv1xrUsyoJoybWj30Z"
@@ -38973,6 +39017,24 @@
     },
     {
       "album": {
+        "name": "\u041d\u0435 \u043f\u043e\u043a\u0438\u0434\u0430\u0435\u0442 \u043d\u0430\u0441 \u0432\u0435\u0441\u043d\u0430",
+        "url": "https://open.spotify.com/album/3b46XC5LZHqxJQNMFUrLqX"
+      },
+      "artists": [
+        {
+          "name": "VIA Plamja",
+          "url": "https://open.spotify.com/artist/3yO5kiqgE64TihMxb9jp5y"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250984,
+      "name": "\u0421\u043d\u0435\u0433 \u043a\u0440\u0443\u0436\u0438\u0442\u0441\u044f",
+      "url": "https://open.spotify.com/track/0gsPnuJoxgMHLk3p7SrsTH"
+    },
+    {
+      "album": {
         "name": "\u0421\u043d\u0435\u0433 \u0440\u0430\u0441\u0442\u0430\u044f\u043b \u043d\u0430 \u043f\u043b\u0435\u0447\u0430\u0445",
         "url": "https://open.spotify.com/album/4V5ZrTCDnhpsL4Oyi3R7Hs"
       },
@@ -39168,7 +39230,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 201509,
       "name": "\u0421\u041e\u041b\u041d\u0426\u0415 \u0412\u0421\u0422\u0410\u041b\u041e",
       "url": "https://open.spotify.com/track/2VHdC3sIWzJImuZYQC8OrN"
@@ -40330,7 +40392,7 @@
       ],
       "date_added": "2025-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-08",
+      "date_removed": null,
       "duration_ms": 182491,
       "name": "\u0422\u0435\u0440\u044f\u044e\u0442 \u043b\u044e\u0434\u0438 \u0434\u0440\u0443\u0433 \u0434\u0440\u0443\u0433\u0430",
       "url": "https://open.spotify.com/track/1Q6xTK0LNFyg7pFO5ErVS9"

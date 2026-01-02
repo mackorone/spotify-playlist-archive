@@ -1,6 +1,6 @@
 {
   "description": "808s & Melodies. Cover: Blanco",
-  "num_followers": 27425,
+  "num_followers": 27422,
   "original_name": "R&D",
   "owner": {
     "name": "Spotify",
@@ -503,6 +503,22 @@
     {
       "added_at": "2025-05-30 12:44:25",
       "album": {
+        "name": "New Shape",
+        "url": "https://open.spotify.com/album/3mxW4ANOby1MOXhDamMMfs"
+      },
+      "artists": [
+        {
+          "name": "Young T & Bugsey",
+          "url": "https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z"
+        }
+      ],
+      "duration_ms": 221276,
+      "name": "New Shape",
+      "url": "https://open.spotify.com/track/5Awic3Q2wuEp6LrwPdTVis"
+    },
+    {
+      "added_at": "2025-05-30 12:44:25",
+      "album": {
         "name": "Gone",
         "url": "https://open.spotify.com/album/3mDsO6BKW5H3mqzWdUgLPf"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 156057,
       "name": "Gone",
       "url": "https://open.spotify.com/track/3jTk3JX7wN0CO60welQgnJ"
-    },
-    {
-      "added_at": "2025-05-30 12:44:25",
-      "album": {
-        "name": "New Shape",
-        "url": "https://open.spotify.com/album/3mxW4ANOby1MOXhDamMMfs"
-      },
-      "artists": [
-        {
-          "name": "Young T & Bugsey",
-          "url": "https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z"
-        }
-      ],
-      "duration_ms": 221276,
-      "name": "New Shape",
-      "url": "https://open.spotify.com/track/5Awic3Q2wuEp6LrwPdTVis"
     },
     {
       "added_at": "2025-05-30 12:44:25",

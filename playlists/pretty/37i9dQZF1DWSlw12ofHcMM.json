@@ -1,6 +1,6 @@
 {
   "description": "bold tracks, serious swagger.",
-  "num_followers": 1368955,
+  "num_followers": 1368960,
   "original_name": "Swagger",
   "owner": {
     "name": "Spotify",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
-        "name": "Wicked Ones",
-        "url": "https://open.spotify.com/album/4wvFYSwOhDNl1sbtiEU8J8"
-      },
-      "artists": [
-        {
-          "name": "Dorothy",
-          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
-        }
-      ],
-      "duration_ms": 172516,
-      "name": "Wicked Ones",
-      "url": "https://open.spotify.com/track/6gYdBoY62Za89ripQXMDXZ"
-    },
-    {
-      "added_at": "2024-08-23 15:39:31",
-      "album": {
         "name": "Raise The Roof (Deluxe Edition)",
         "url": "https://open.spotify.com/album/48wFAtpgBV5rUTTDrNKCoN"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 273954,
       "name": "High and Lonesome",
       "url": "https://open.spotify.com/track/4zDNTiMEuHCIzodoJQ2Sie"
+    },
+    {
+      "added_at": "2024-08-23 15:39:31",
+      "album": {
+        "name": "Wicked Ones",
+        "url": "https://open.spotify.com/album/4wvFYSwOhDNl1sbtiEU8J8"
+      },
+      "artists": [
+        {
+          "name": "Dorothy",
+          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
+        }
+      ],
+      "duration_ms": 172516,
+      "name": "Wicked Ones",
+      "url": "https://open.spotify.com/track/6gYdBoY62Za89ripQXMDXZ"
     },
     {
       "added_at": "2024-08-23 15:39:31",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-08-23 15:39:31",
       "album": {
-        "name": "Where the Lore Began",
-        "url": "https://open.spotify.com/album/3LaoH7HZsER4wBPApBiwa9"
-      },
-      "artists": [
-        {
-          "name": "Jeremiah Tall",
-          "url": "https://open.spotify.com/artist/11mBQlqUJqZCgqLCKQdhSP"
-        }
-      ],
-      "duration_ms": 111967,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/14wY5SJ4WoyMi5GLVeew4c"
-    },
-    {
-      "added_at": "2024-08-23 15:39:31",
-      "album": {
         "name": "Retrograde",
         "url": "https://open.spotify.com/album/60QwS2TtQfyLMdMcbc6ayo"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 205106,
       "name": "Retrograde",
       "url": "https://open.spotify.com/track/17KeHeGWyRNkbGnZxGBPl7"
+    },
+    {
+      "added_at": "2024-08-23 15:39:31",
+      "album": {
+        "name": "Where the Lore Began",
+        "url": "https://open.spotify.com/album/3LaoH7HZsER4wBPApBiwa9"
+      },
+      "artists": [
+        {
+          "name": "Jeremiah Tall",
+          "url": "https://open.spotify.com/artist/11mBQlqUJqZCgqLCKQdhSP"
+        }
+      ],
+      "duration_ms": 111967,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/14wY5SJ4WoyMi5GLVeew4c"
     }
   ],
   "unique_name": "Swagger",

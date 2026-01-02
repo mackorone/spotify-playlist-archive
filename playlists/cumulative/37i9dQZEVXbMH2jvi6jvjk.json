@@ -9550,7 +9550,7 @@
       ],
       "date_added": "2025-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 188059,
       "name": "CHANEL",
       "url": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
@@ -23020,7 +23020,7 @@
       ],
       "date_added": "2025-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 244218,
       "name": "Incenge Kancane",
       "url": "https://open.spotify.com/track/3x9eb22Epgzw3GAR3gig5t"
@@ -23854,7 +23854,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 181334,
       "name": "Is It a Crime",
       "url": "https://open.spotify.com/track/31Oh4pwZWjBTuRmzNtxj10"
@@ -31354,7 +31354,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 184000,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
@@ -36352,7 +36352,7 @@
       ],
       "date_added": "2025-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-30",
+      "date_removed": null,
       "duration_ms": 256864,
       "name": "Ngwanaka",
       "url": "https://open.spotify.com/track/3bM6G6G4kcoeTAMdFDPKEB"
@@ -39489,6 +39489,24 @@
     },
     {
       "album": {
+        "name": "Sesi Ka Rose",
+        "url": "https://open.spotify.com/album/2I9MCGn7tYYadDyVm4yFPU"
+      },
+      "artists": [
+        {
+          "name": "Makhadzi Entertainment",
+          "url": "https://open.spotify.com/artist/24Hon9044L6JUKWcqQSjma"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246015,
+      "name": "Phikoko",
+      "url": "https://open.spotify.com/track/7Fi7ddFnlP2Ixt4NnR4Vte"
+    },
+    {
+      "album": {
         "name": "MUSIC",
         "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
       },
@@ -41422,7 +41440,7 @@
       ],
       "date_added": "2025-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 219743,
       "name": "Raindance (feat. Tems)",
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
@@ -43812,7 +43830,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-30",
+      "date_removed": null,
       "duration_ms": 224187,
       "name": "Sdudla or Slender",
       "url": "https://open.spotify.com/track/2Ufc72Ojfx9lR30r5srBPB"
@@ -45016,7 +45034,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 276819,
       "name": "Sijabulile",
       "url": "https://open.spotify.com/track/3VcbOu0uH7WSVSAoxHffVl"
@@ -50760,7 +50778,7 @@
       ],
       "date_added": "2025-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-30",
+      "date_removed": null,
       "duration_ms": 463872,
       "name": "Tholukuthi (Clap Song) (feat. MaWhoo)",
       "url": "https://open.spotify.com/track/3Ov08eLMxqkNmvtlV9Truu"
@@ -56000,7 +56018,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-23",
+      "date_removed": null,
       "duration_ms": 297903,
       "name": "Wa Inama",
       "url": "https://open.spotify.com/track/4BVq8iuuhqjcwhHh6t8SP9"
@@ -56590,7 +56608,7 @@
       ],
       "date_added": "2025-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-30",
+      "date_removed": null,
       "duration_ms": 280398,
       "name": "Warning",
       "url": "https://open.spotify.com/track/5JjQdivvXPrnjeEoxE16WD"

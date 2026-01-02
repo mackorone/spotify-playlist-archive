@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Niche. The essential tracks, all in one playlist.",
-  "num_followers": 161044,
+  "num_followers": 161083,
   "original_name": "This Is Grupo Niche",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVMWAAAAAABKYcX7HgFkEJ5UsKPS8fgE",
+  "snapshot_id": "aVRngAAAAABui/vDc+rDRNEvogDF5sd2",
   "tracks": [
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sutil y Contundente",
-        "url": "https://open.spotify.com/album/3j3BnIkciRBXtoAvYll1Za"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 342000,
-      "name": "Entrega",
-      "url": "https://open.spotify.com/track/0O2j5GTz60A3K7dMZn4WQC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Querer Es Poder",
         "url": "https://open.spotify.com/album/4OlAW51jIyup0hLzK03fHQ"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 309963,
       "name": "Buenaventura y Caney",
       "url": "https://open.spotify.com/track/3kWdP01aQOtBun2FumlqTm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sutil y Contundente",
+        "url": "https://open.spotify.com/album/3j3BnIkciRBXtoAvYll1Za"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 342000,
+      "name": "Entrega",
+      "url": "https://open.spotify.com/track/0O2j5GTz60A3K7dMZn4WQC"
     },
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Imaginacion",
-        "url": "https://open.spotify.com/album/6wA6aH6FhwbhVxiCC7QfLs"
+        "name": "Etnia",
+        "url": "https://open.spotify.com/album/4weyRuJSsYRgWWBOeU1dE0"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 292360,
-      "name": "Ni Como Amiga Ni Como Amante",
-      "url": "https://open.spotify.com/track/5Ua7mixHbm9UTAz3Zjpi2s"
+      "duration_ms": 279405,
+      "name": "La Canoa Ranchaa",
+      "url": "https://open.spotify.com/track/3UrgeOXrUEEt4BbLcoZnEE"
     },
     {
       "added_at": null,
@@ -263,6 +263,22 @@
       "duration_ms": 359226,
       "name": "Nuestro Sue\u00f1o",
       "url": "https://open.spotify.com/track/0g9d2hcBECm8eOuxG9w5kH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Imaginacion",
+        "url": "https://open.spotify.com/album/6wA6aH6FhwbhVxiCC7QfLs"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 292360,
+      "name": "Ni Como Amiga Ni Como Amante",
+      "url": "https://open.spotify.com/track/5Ua7mixHbm9UTAz3Zjpi2s"
     },
     {
       "added_at": null,
@@ -299,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tocando el Cielo Con las Manos",
-        "url": "https://open.spotify.com/album/7k4rlkbT1vjiKAvOUVWVIR"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 326410,
-      "name": "Un D\u00eda Despu\u00e9s",
-      "url": "https://open.spotify.com/track/3uciPSsKqqgG2HuLlUTEDm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
       },
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "10 De Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/3SqhRQcCP4j8ge7ApdFcsk"
+        "name": "Tocando el Cielo Con las Manos",
+        "url": "https://open.spotify.com/album/7k4rlkbT1vjiKAvOUVWVIR"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 280266,
-      "name": "La Canoa Ranchaa",
-      "url": "https://open.spotify.com/track/31B9xbxWwOBIV0JWT6nKAN"
+      "duration_ms": 326410,
+      "name": "Un D\u00eda Despu\u00e9s",
+      "url": "https://open.spotify.com/track/3uciPSsKqqgG2HuLlUTEDm"
     },
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Alto En El Camino",
-        "url": "https://open.spotify.com/album/5K1xoFuq0UnWFVLhYcRCI5"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 290373,
-      "name": "Un Alto En El Camino",
-      "url": "https://open.spotify.com/track/6DyMFZOsFnCCr6vrbsFE9f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sutil y Contundente",
         "url": "https://open.spotify.com/album/3j3BnIkciRBXtoAvYll1Za"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 335986,
       "name": "Mi Hijo y Yo",
       "url": "https://open.spotify.com/track/0rOkqMmPpkInktks5tdAmn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Un Alto En El Camino",
+        "url": "https://open.spotify.com/album/5K1xoFuq0UnWFVLhYcRCI5"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 290373,
+      "name": "Un Alto En El Camino",
+      "url": "https://open.spotify.com/track/6DyMFZOsFnCCr6vrbsFE9f"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/1mo4XJivw6RG7kwX9K37Hz"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 287000,
-      "name": "Rupelto Mena",
-      "url": "https://open.spotify.com/track/26PQMla9TXfmFcclWiQfak"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Tierra del Olvido (Versi\u00f3n Salsa)",
         "url": "https://open.spotify.com/album/7i5VBSsrtK8bD7QAkMmFMx"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 262641,
       "name": "La Tierra del Olvido - Versi\u00f3n Salsa",
       "url": "https://open.spotify.com/track/1GyiVfgqFkIlGkN0FDnJJQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/1mo4XJivw6RG7kwX9K37Hz"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 287000,
+      "name": "Rupelto Mena",
+      "url": "https://open.spotify.com/track/26PQMla9TXfmFcclWiQfak"
     },
     {
       "added_at": null,
@@ -711,38 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/1mo4XJivw6RG7kwX9K37Hz"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 289341,
-      "name": "Falto un Pa\u00f1uelo",
-      "url": "https://open.spotify.com/track/5rjEJwL2hp7z7CmxUDPhcl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Querer Es Poder",
-        "url": "https://open.spotify.com/album/4OlAW51jIyup0hLzK03fHQ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 338964,
-      "name": "Digo Yo",
-      "url": "https://open.spotify.com/track/1KSjHCJs38NNp3IuaL1EMU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Golpe de Folklore",
         "url": "https://open.spotify.com/album/1GHV54c3dMwxLe3p2QgnWi"
       },
@@ -759,6 +727,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/1mo4XJivw6RG7kwX9K37Hz"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 289341,
+      "name": "Falto un Pa\u00f1uelo",
+      "url": "https://open.spotify.com/track/5rjEJwL2hp7z7CmxUDPhcl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cali Pachanguero 40 A\u00f1os",
         "url": "https://open.spotify.com/album/4a75zchEpeHQj8y1A2kSRC"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 287093,
       "name": "Cali Pachanguero 40 A\u00f1os",
       "url": "https://open.spotify.com/track/64H2xGPNjBtXNsTWflotcl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Querer Es Poder",
+        "url": "https://open.spotify.com/album/4OlAW51jIyup0hLzK03fHQ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 338964,
+      "name": "Digo Yo",
+      "url": "https://open.spotify.com/track/1KSjHCJs38NNp3IuaL1EMU"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Les plus grands tubes fran\u00e7ais des ann\u00e9es 80. Photo : France Gall",
-  "num_followers": 399836,
+  "num_followers": 399847,
   "original_name": "Hits Fran\u00e7ais 80",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "AAAAAHhgPCS2+S0ZxA/jIdKvWiMUq5Ql",
   "tracks": [
-    {
-      "added_at": "2025-12-29 17:53:07",
-      "album": {
-        "name": "Gang",
-        "url": "https://open.spotify.com/album/68rZh6SfrK9JeYsJhTwDjg"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hallyday",
-          "url": "https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA"
-        }
-      ],
-      "duration_ms": 275906,
-      "name": "Je te promets",
-      "url": "https://open.spotify.com/track/3cqLrAhTy0JYcYmGe6Dvje"
-    },
     {
       "added_at": "2025-12-29 17:53:07",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 291400,
       "name": "Ella, elle l'a - Remasteris\u00e9 en 2004",
       "url": "https://open.spotify.com/track/67CfbIKKTCKFqmQLJwUftX"
+    },
+    {
+      "added_at": "2025-12-29 17:53:07",
+      "album": {
+        "name": "Gang",
+        "url": "https://open.spotify.com/album/68rZh6SfrK9JeYsJhTwDjg"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hallyday",
+          "url": "https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA"
+        }
+      ],
+      "duration_ms": 275906,
+      "name": "Je te promets",
+      "url": "https://open.spotify.com/track/3cqLrAhTy0JYcYmGe6Dvje"
     },
     {
       "added_at": "2025-12-29 17:53:07",
@@ -91,6 +91,22 @@
     {
       "added_at": "2025-12-29 17:53:07",
       "album": {
+        "name": "3",
+        "url": "https://open.spotify.com/album/0UJYes2guXasGPKbGuCBFu"
+      },
+      "artists": [
+        {
+          "name": "Indochine",
+          "url": "https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB"
+        }
+      ],
+      "duration_ms": 312533,
+      "name": "Trois nuits par semaine",
+      "url": "https://open.spotify.com/track/3X9XJLwQPWqRnsNaL9z6ss"
+    },
+    {
+      "added_at": "2025-12-29 17:53:07",
+      "album": {
         "name": "Gang",
         "url": "https://open.spotify.com/album/68rZh6SfrK9JeYsJhTwDjg"
       },
@@ -103,22 +119,6 @@
       "duration_ms": 230426,
       "name": "L'envie",
       "url": "https://open.spotify.com/track/57zabaqzfjZVhxJeb0UZsP"
-    },
-    {
-      "added_at": "2025-12-29 17:53:07",
-      "album": {
-        "name": "Paris, France (Remasteris\u00e9 en 2004)",
-        "url": "https://open.spotify.com/album/5Ni3yIgxhLwuC3B08SQ4r7"
-      },
-      "artists": [
-        {
-          "name": "France Gall",
-          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
-        }
-      ],
-      "duration_ms": 273626,
-      "name": "Il jouait du piano debout - Remasteris\u00e9 en 2004",
-      "url": "https://open.spotify.com/track/3GfUHAoOSGy3hhEaTU34WV"
     },
     {
       "added_at": "2025-12-29 17:53:07",
@@ -143,18 +143,18 @@
     {
       "added_at": "2025-12-29 17:53:07",
       "album": {
-        "name": "3",
-        "url": "https://open.spotify.com/album/0UJYes2guXasGPKbGuCBFu"
+        "name": "Paris, France (Remasteris\u00e9 en 2004)",
+        "url": "https://open.spotify.com/album/5Ni3yIgxhLwuC3B08SQ4r7"
       },
       "artists": [
         {
-          "name": "Indochine",
-          "url": "https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB"
+          "name": "France Gall",
+          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
         }
       ],
-      "duration_ms": 312533,
-      "name": "Trois nuits par semaine",
-      "url": "https://open.spotify.com/track/3X9XJLwQPWqRnsNaL9z6ss"
+      "duration_ms": 273626,
+      "name": "Il jouait du piano debout - Remasteris\u00e9 en 2004",
+      "url": "https://open.spotify.com/track/3GfUHAoOSGy3hhEaTU34WV"
     },
     {
       "added_at": "2025-12-29 17:53:07",
@@ -207,22 +207,6 @@
     {
       "added_at": "2025-12-29 17:53:07",
       "album": {
-        "name": "Dure limite (Remasteris\u00e9 en 2015)",
-        "url": "https://open.spotify.com/album/1ePKFTIr8ZODp91iwt4kVf"
-      },
-      "artists": [
-        {
-          "name": "T\u00e9l\u00e9phone",
-          "url": "https://open.spotify.com/artist/3fQq9bb2ZKNv24V1A4vwBK"
-        }
-      ],
-      "duration_ms": 238546,
-      "name": "Cendrillon - Remasteris\u00e9 en 2015",
-      "url": "https://open.spotify.com/track/3uZyx7GfVWJh2Aum6xS6my"
-    },
-    {
-      "added_at": "2025-12-29 17:53:07",
-      "album": {
         "name": "Femme Lib\u00e9r\u00e9e",
         "url": "https://open.spotify.com/album/4UF1uI6pdmUSsdUaBJaUZi"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 221440,
       "name": "Femme lib\u00e9r\u00e9e",
       "url": "https://open.spotify.com/track/1ofu2qOdm9LN8TGXd003Kj"
+    },
+    {
+      "added_at": "2025-12-29 17:53:07",
+      "album": {
+        "name": "Dure limite (Remasteris\u00e9 en 2015)",
+        "url": "https://open.spotify.com/album/1ePKFTIr8ZODp91iwt4kVf"
+      },
+      "artists": [
+        {
+          "name": "T\u00e9l\u00e9phone",
+          "url": "https://open.spotify.com/artist/3fQq9bb2ZKNv24V1A4vwBK"
+        }
+      ],
+      "duration_ms": 238546,
+      "name": "Cendrillon - Remasteris\u00e9 en 2015",
+      "url": "https://open.spotify.com/track/3uZyx7GfVWJh2Aum6xS6my"
     },
     {
       "added_at": "2025-12-29 17:53:07",
@@ -463,22 +463,6 @@
     {
       "added_at": "2025-12-29 17:53:07",
       "album": {
-        "name": "En fl\u00e8che",
-        "url": "https://open.spotify.com/album/2ywSgXs2EVLGQMQGy2ZRIi"
-      },
-      "artists": [
-        {
-          "name": "Diane Tell",
-          "url": "https://open.spotify.com/artist/5y65nQvIt9ABZ2Dkv5191h"
-        }
-      ],
-      "duration_ms": 289013,
-      "name": "Si j'\u00e9tais un homme",
-      "url": "https://open.spotify.com/track/0qnN7RceovLP58nCY0fdME"
-    },
-    {
-      "added_at": "2025-12-29 17:53:07",
-      "album": {
         "name": "Marc Lavoine",
         "url": "https://open.spotify.com/album/1kGhulcVIZIB3TYTce9TDc"
       },
@@ -495,18 +479,18 @@
     {
       "added_at": "2025-12-29 17:53:07",
       "album": {
-        "name": "Les inoubliables de Herv\u00e9 Cristiani - Best Of",
-        "url": "https://open.spotify.com/album/5X7x3uX32XtxdhBcMohjNA"
+        "name": "En fl\u00e8che",
+        "url": "https://open.spotify.com/album/2ywSgXs2EVLGQMQGy2ZRIi"
       },
       "artists": [
         {
-          "name": "Herv\u00e9 Cristiani",
-          "url": "https://open.spotify.com/artist/4ml7309NlaZaAHeBUOThVx"
+          "name": "Diane Tell",
+          "url": "https://open.spotify.com/artist/5y65nQvIt9ABZ2Dkv5191h"
         }
       ],
-      "duration_ms": 194093,
-      "name": "Il est libre Max",
-      "url": "https://open.spotify.com/track/0ZuHb82X30zwYP8TVnIi8K"
+      "duration_ms": 289013,
+      "name": "Si j'\u00e9tais un homme",
+      "url": "https://open.spotify.com/track/0qnN7RceovLP58nCY0fdME"
     },
     {
       "added_at": "2025-12-29 17:53:07",
@@ -523,6 +507,22 @@
       "duration_ms": 268240,
       "name": "En rouge et noir",
       "url": "https://open.spotify.com/track/1Gcv4C4s4aJTtm8THwEdFN"
+    },
+    {
+      "added_at": "2025-12-29 17:53:07",
+      "album": {
+        "name": "Les inoubliables de Herv\u00e9 Cristiani - Best Of",
+        "url": "https://open.spotify.com/album/5X7x3uX32XtxdhBcMohjNA"
+      },
+      "artists": [
+        {
+          "name": "Herv\u00e9 Cristiani",
+          "url": "https://open.spotify.com/artist/4ml7309NlaZaAHeBUOThVx"
+        }
+      ],
+      "duration_ms": 194093,
+      "name": "Il est libre Max",
+      "url": "https://open.spotify.com/track/0ZuHb82X30zwYP8TVnIi8K"
     },
     {
       "added_at": "2025-12-29 17:53:07",
@@ -559,6 +559,22 @@
     {
       "added_at": "2025-12-29 17:53:07",
       "album": {
+        "name": "Best Of 85-95",
+        "url": "https://open.spotify.com/album/0FpLSt6Q2HLXdomOYL9oFN"
+      },
+      "artists": [
+        {
+          "name": "Marc Lavoine",
+          "url": "https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf"
+        }
+      ],
+      "duration_ms": 216800,
+      "name": "Elle a les yeux revolver",
+      "url": "https://open.spotify.com/track/3uXVAyaaYadFSbbj1SQBK4"
+    },
+    {
+      "added_at": "2025-12-29 17:53:07",
+      "album": {
         "name": "Two Feldman",
         "url": "https://open.spotify.com/album/1nHQK7vhvM4WZgKI825yr9"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 251026,
       "name": "Joue pas",
       "url": "https://open.spotify.com/track/4DhapD9hNxw9vAT7RKbWZH"
-    },
-    {
-      "added_at": "2025-12-29 17:53:07",
-      "album": {
-        "name": "Best Of 85-95",
-        "url": "https://open.spotify.com/album/0FpLSt6Q2HLXdomOYL9oFN"
-      },
-      "artists": [
-        {
-          "name": "Marc Lavoine",
-          "url": "https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf"
-        }
-      ],
-      "duration_ms": 216800,
-      "name": "Elle a les yeux revolver",
-      "url": "https://open.spotify.com/track/3uXVAyaaYadFSbbj1SQBK4"
     },
     {
       "added_at": "2025-12-29 17:53:07",
@@ -627,22 +627,6 @@
     {
       "added_at": "2025-12-29 17:53:07",
       "album": {
-        "name": "Le Meilleur De",
-        "url": "https://open.spotify.com/album/5JFBGYglZem8jUTB5QOGSN"
-      },
-      "artists": [
-        {
-          "name": "Pierre Bachelet",
-          "url": "https://open.spotify.com/artist/473XDcWSxnSaxptauf6fg4"
-        }
-      ],
-      "duration_ms": 327293,
-      "name": "En l'an 2001",
-      "url": "https://open.spotify.com/track/4Lv1Xqqu5vvl3jjiyhGn4j"
-    },
-    {
-      "added_at": "2025-12-29 17:53:07",
-      "album": {
         "name": "Exclusivement f\u00e9minin",
         "url": "https://open.spotify.com/album/40ab89bLPpUS6kmt44vNjS"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 167359,
       "name": "Besoin de personne",
       "url": "https://open.spotify.com/track/2EdqnePuFG7FDPsiy5YGov"
+    },
+    {
+      "added_at": "2025-12-29 17:53:07",
+      "album": {
+        "name": "Le Meilleur De",
+        "url": "https://open.spotify.com/album/5JFBGYglZem8jUTB5QOGSN"
+      },
+      "artists": [
+        {
+          "name": "Pierre Bachelet",
+          "url": "https://open.spotify.com/artist/473XDcWSxnSaxptauf6fg4"
+        }
+      ],
+      "duration_ms": 327293,
+      "name": "En l'an 2001",
+      "url": "https://open.spotify.com/track/4Lv1Xqqu5vvl3jjiyhGn4j"
     },
     {
       "added_at": "2025-12-29 17:53:07",
@@ -707,22 +707,6 @@
     {
       "added_at": "2025-12-29 17:53:07",
       "album": {
-        "name": "Les brunes comptent pas pour des prunes",
-        "url": "https://open.spotify.com/album/48Hn4QRWsu9vLDNLdmBPxb"
-      },
-      "artists": [
-        {
-          "name": "Lio",
-          "url": "https://open.spotify.com/artist/48sZWxnqspohWtxJNg7OsI"
-        }
-      ],
-      "duration_ms": 189760,
-      "name": "Les brunes comptent pas pour des prunes",
-      "url": "https://open.spotify.com/track/2FO8AfQVGJsmxgg6RlI5jK"
-    },
-    {
-      "added_at": "2025-12-29 17:53:07",
-      "album": {
         "name": "Belle Ile En Mer",
         "url": "https://open.spotify.com/album/3t7Px1E95fR5PXNt4GtIRl"
       },
@@ -743,18 +727,18 @@
     {
       "added_at": "2025-12-29 17:53:07",
       "album": {
-        "name": "Embrasse Moi Idiot",
-        "url": "https://open.spotify.com/album/03ZiFpoAZNWSHvQAkfHM6z"
+        "name": "Les brunes comptent pas pour des prunes",
+        "url": "https://open.spotify.com/album/48Hn4QRWsu9vLDNLdmBPxb"
       },
       "artists": [
         {
-          "name": "Bill Baxter",
-          "url": "https://open.spotify.com/artist/3KpXJFls6MeNgtt8uyBfmf"
+          "name": "Lio",
+          "url": "https://open.spotify.com/artist/48sZWxnqspohWtxJNg7OsI"
         }
       ],
-      "duration_ms": 225106,
-      "name": "Embrasse moi idiot - .",
-      "url": "https://open.spotify.com/track/418hg3W91QSVSI7S6l3baJ"
+      "duration_ms": 189760,
+      "name": "Les brunes comptent pas pour des prunes",
+      "url": "https://open.spotify.com/track/2FO8AfQVGJsmxgg6RlI5jK"
     },
     {
       "added_at": "2025-12-29 17:53:07",
@@ -771,6 +755,22 @@
       "duration_ms": 215840,
       "name": "La p'tite Lady",
       "url": "https://open.spotify.com/track/7jeK414Hj68dYeLzEUVGe8"
+    },
+    {
+      "added_at": "2025-12-29 17:53:07",
+      "album": {
+        "name": "Embrasse Moi Idiot",
+        "url": "https://open.spotify.com/album/03ZiFpoAZNWSHvQAkfHM6z"
+      },
+      "artists": [
+        {
+          "name": "Bill Baxter",
+          "url": "https://open.spotify.com/artist/3KpXJFls6MeNgtt8uyBfmf"
+        }
+      ],
+      "duration_ms": 225106,
+      "name": "Embrasse moi idiot - .",
+      "url": "https://open.spotify.com/track/418hg3W91QSVSI7S6l3baJ"
     },
     {
       "added_at": "2025-12-29 17:53:07",

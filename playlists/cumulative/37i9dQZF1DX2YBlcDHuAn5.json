@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Wild One",
+        "url": "https://open.spotify.com/album/2BfGsBUD1wumwqxcYa7KgO"
+      },
+      "artists": [
+        {
+          "name": "Laszlo Buring",
+          "url": "https://open.spotify.com/artist/6kbW02tas61aq5jleDU4kz"
+        }
+      ],
+      "date_added": "2025-12-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222458,
+      "name": "Ain't Got Much",
+      "url": "https://open.spotify.com/track/47r812zfBQ4Y9zU2etcurT"
+    },
+    {
+      "album": {
         "name": "Ain't No Running Around It",
         "url": "https://open.spotify.com/album/4s7TyXJR2VHbobDIIp1JjE"
       },
@@ -522,7 +540,7 @@
       ],
       "date_added": "2025-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 236022,
       "name": "Bottom of a Bottle",
       "url": "https://open.spotify.com/track/07dTr0jqXwYbMiOoLjfHri"

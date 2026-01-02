@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN2ernEEdZ0.md) - [plain](/playlists/plain/37i9dQZF1DWUN2ernEEdZ0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUN2ernEEdZ0)
 
-### [Classical Bangers 2025](https://open.spotify.com/playlist/37i9dQZF1DWUN2ernEEdZ0)
+### [Classical Bangers 2026](https://open.spotify.com/playlist/37i9dQZF1DWUN2ernEEdZ0)
 
-> Introducing the hottest classical music of 2025🔥
+> Introducing the hottest classical music of 2026🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,742 likes - 199 songs - 13 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,833 likes - 199 songs - 13 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -208,4 +208,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN2ernEEdZ0.md) - [plain]
 | 198 | [Violin Concerto BWV 1042 in E Major: Violin Concerto BWV 1042 in E Major: I\. Allegro](https://open.spotify.com/track/3nxaPqAOxUxkLhIhbvmv4t) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Freiburger Barockorchester](https://open.spotify.com/artist/2fJKxKjBxD1X1NkkG78qai), [Gottfried Von Der Goltz](https://open.spotify.com/artist/4Jq1SP0L2atkSMv5wNOU66) | [Bach: Violin Concertos](https://open.spotify.com/album/3S6qaM2ijmVtz68R6QMlPs) | 7:33 |
 | 199 | [Hungarian Dance No\. 5 in G Minor, WoO 1](https://open.spotify.com/track/4quC8GgYCGt7umJpINBkCf) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Czech Symphony Orchestra](https://open.spotify.com/artist/6dBBpd1zW3iywDqNt0UVOk), [Michaela Rózsa Růžičková](https://open.spotify.com/artist/4aJLdYVDr0f2IZzUvvYjW4) | [Hungarian Dance No\. 5 in G Minor, WoO 1](https://open.spotify.com/album/7nPUgaShBV3BBA2gAxlYMw) | 3:03 |
 
-Snapshot ID: `AAAAAOnX86e5yDBVa8eHGVoHysSj36CR`
+Snapshot ID: `AAAAAIA/mmzKhhpv18kdDVxS6Hb1xgGQ`

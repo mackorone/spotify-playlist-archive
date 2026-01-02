@@ -2,7 +2,7 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> Timar au top de la première playlist de rap français.
+> Nono La Grinta au top de la première playlist de rap français.
 
 394 songs - 20 hr 0 min
 

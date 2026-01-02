@@ -6,24 +6,8 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVMWAAAAAABNQ+GcSaWq63isHu3vjETh",
+  "snapshot_id": "aVRngAAAAADDvLgJUbyiWvavzcEr4Eu9",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Head is Like a Sinking Stone",
-        "url": "https://open.spotify.com/album/3e38ud0QvEybSeP6fTehXS"
-      },
-      "artists": [
-        {
-          "name": "Tigers Jaw",
-          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
-        }
-      ],
-      "duration_ms": 183327,
-      "name": "Head is Like a Sinking Stone",
-      "url": "https://open.spotify.com/track/0RST1KsKG9fi3UhYkq1xMa"
-    },
     {
       "added_at": null,
       "album": {
@@ -79,8 +63,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "spin",
-        "url": "https://open.spotify.com/album/2xSppFiPUTWqZ9cdF6CQnY"
+        "name": "Head is Like a Sinking Stone",
+        "url": "https://open.spotify.com/album/4lAubtmnVN8iSY5NNpitkb"
       },
       "artists": [
         {
@@ -88,9 +72,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 203546,
-      "name": "June",
-      "url": "https://open.spotify.com/track/4ztx0lpE5Vx3yg7FereOtS"
+      "duration_ms": 181917,
+      "name": "Head is Like a Sinking Stone",
+      "url": "https://open.spotify.com/track/6pqJsAWUp2QkZxefJebpiU"
     },
     {
       "added_at": null,
@@ -107,6 +91,22 @@
       "duration_ms": 281573,
       "name": "Between Your Band and the Other Band",
       "url": "https://open.spotify.com/track/3l0Q2p2Ynz5Mfm4y3BnZAi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "spin",
+        "url": "https://open.spotify.com/album/2xSppFiPUTWqZ9cdF6CQnY"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "duration_ms": 203546,
+      "name": "June",
+      "url": "https://open.spotify.com/track/4ztx0lpE5Vx3yg7FereOtS"
     },
     {
       "added_at": null,
@@ -143,22 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "spin",
-        "url": "https://open.spotify.com/album/2xSppFiPUTWqZ9cdF6CQnY"
-      },
-      "artists": [
-        {
-          "name": "Tigers Jaw",
-          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
-        }
-      ],
-      "duration_ms": 232920,
-      "name": "Escape Plan",
-      "url": "https://open.spotify.com/track/22q0Q9kJrricJ75sIp7gTy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tigers Jaw",
         "url": "https://open.spotify.com/album/431AISQsFUi33lirU9vNI5"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 256839,
       "name": "I Saw Water",
       "url": "https://open.spotify.com/track/6gJql3ABMd6iHVnr2ptWJg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "spin",
+        "url": "https://open.spotify.com/album/2xSppFiPUTWqZ9cdF6CQnY"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "duration_ms": 232920,
+      "name": "Escape Plan",
+      "url": "https://open.spotify.com/track/22q0Q9kJrricJ75sIp7gTy"
     },
     {
       "added_at": null,
@@ -207,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "spin",
-        "url": "https://open.spotify.com/album/2xSppFiPUTWqZ9cdF6CQnY"
-      },
-      "artists": [
-        {
-          "name": "Tigers Jaw",
-          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
-        }
-      ],
-      "duration_ms": 226546,
-      "name": "Follows",
-      "url": "https://open.spotify.com/track/3EVgZBKWXY6xOtS8mrhW1C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tigers Jaw",
         "url": "https://open.spotify.com/album/431AISQsFUi33lirU9vNI5"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 226933,
       "name": "The Sun",
       "url": "https://open.spotify.com/track/5bJt0jOz9spwJ1rJwSQJ1a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "spin",
+        "url": "https://open.spotify.com/album/2xSppFiPUTWqZ9cdF6CQnY"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "duration_ms": 226546,
+      "name": "Follows",
+      "url": "https://open.spotify.com/track/3EVgZBKWXY6xOtS8mrhW1C"
     },
     {
       "added_at": null,
@@ -275,6 +275,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tigers Jaw",
+        "url": "https://open.spotify.com/album/431AISQsFUi33lirU9vNI5"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "duration_ms": 157280,
+      "name": "Never Saw It Coming",
+      "url": "https://open.spotify.com/track/2vu91wEkfNs7341Eq3cHKS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cocaine & Lexapro / Berlin",
         "url": "https://open.spotify.com/album/0m9cBqgc5SKrKVsdy2Zp77"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 186135,
       "name": "Berlin (feat. Tigers Jaw)",
       "url": "https://open.spotify.com/track/3uT1R0JkBVNmEqU7w1cE1N"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tigers Jaw",
-        "url": "https://open.spotify.com/album/431AISQsFUi33lirU9vNI5"
-      },
-      "artists": [
-        {
-          "name": "Tigers Jaw",
-          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
-        }
-      ],
-      "duration_ms": 157280,
-      "name": "Never Saw It Coming",
-      "url": "https://open.spotify.com/track/2vu91wEkfNs7341Eq3cHKS"
     },
     {
       "added_at": null,
@@ -343,22 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Won't Care How You Remember Me",
-        "url": "https://open.spotify.com/album/4ZJsQTaRnAMmwAcTvVxxA7"
-      },
-      "artists": [
-        {
-          "name": "Tigers Jaw",
-          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
-        }
-      ],
-      "duration_ms": 163924,
-      "name": "Hesitation",
-      "url": "https://open.spotify.com/track/4TZj7XGPf7dG3NmKaNwPY4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tigers Jaw",
         "url": "https://open.spotify.com/album/431AISQsFUi33lirU9vNI5"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 180026,
       "name": "Chemicals",
       "url": "https://open.spotify.com/track/5O8NZbdm6mLy8HgJzROeJG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Won't Care How You Remember Me",
+        "url": "https://open.spotify.com/album/4ZJsQTaRnAMmwAcTvVxxA7"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "duration_ms": 163924,
+      "name": "Hesitation",
+      "url": "https://open.spotify.com/track/4TZj7XGPf7dG3NmKaNwPY4"
     },
     {
       "added_at": null,
@@ -400,25 +400,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 195320,
-      "name": "Slow Come On",
-      "url": "https://open.spotify.com/track/7dnlCMw9Nzgc5OW0WabYv2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Won't Care How You Remember Me",
-        "url": "https://open.spotify.com/album/4ZJsQTaRnAMmwAcTvVxxA7"
-      },
-      "artists": [
-        {
-          "name": "Tigers Jaw",
-          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
-        }
-      ],
-      "duration_ms": 156089,
-      "name": "Cat's Cradle",
-      "url": "https://open.spotify.com/track/6Wrt1iG9AKqkavwSXh1aNz"
+      "duration_ms": 160213,
+      "name": "Cool",
+      "url": "https://open.spotify.com/track/3WcRJUHkVzgkXkqyz344Dm"
     },
     {
       "added_at": null,
@@ -435,6 +419,22 @@
       "duration_ms": 265238,
       "name": "Gypsy",
       "url": "https://open.spotify.com/track/7oNAnWMtdoByjSUdNDRo5J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Won't Care How You Remember Me",
+        "url": "https://open.spotify.com/album/4ZJsQTaRnAMmwAcTvVxxA7"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "duration_ms": 156089,
+      "name": "Cat's Cradle",
+      "url": "https://open.spotify.com/track/6Wrt1iG9AKqkavwSXh1aNz"
     },
     {
       "added_at": null,
@@ -464,25 +464,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 160213,
-      "name": "Cool",
-      "url": "https://open.spotify.com/track/3WcRJUHkVzgkXkqyz344Dm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Won't Care How You Remember Me",
-        "url": "https://open.spotify.com/album/4ZJsQTaRnAMmwAcTvVxxA7"
-      },
-      "artists": [
-        {
-          "name": "Tigers Jaw",
-          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
-        }
-      ],
-      "duration_ms": 164569,
-      "name": "New Detroit",
-      "url": "https://open.spotify.com/track/1n2OIgDDCHgm0YpvK62OLx"
+      "duration_ms": 195320,
+      "name": "Slow Come On",
+      "url": "https://open.spotify.com/track/7dnlCMw9Nzgc5OW0WabYv2"
     },
     {
       "added_at": null,
@@ -499,6 +483,22 @@
       "duration_ms": 158920,
       "name": "Jet Alone",
       "url": "https://open.spotify.com/track/5oUl5qMNWrZlbA2LvqVUYF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Won't Care How You Remember Me",
+        "url": "https://open.spotify.com/album/4ZJsQTaRnAMmwAcTvVxxA7"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "duration_ms": 164569,
+      "name": "New Detroit",
+      "url": "https://open.spotify.com/track/1n2OIgDDCHgm0YpvK62OLx"
     },
     {
       "added_at": null,
@@ -535,6 +535,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Balance and Composure & Tigers Jaw Split",
+        "url": "https://open.spotify.com/album/5KEwi4kimjyx2CoijJiet3"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "duration_ms": 180253,
+      "name": "Lodging",
+      "url": "https://open.spotify.com/track/2VhuYwx3NFIljVMQAxbcIp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Won't Care How You Remember Me",
         "url": "https://open.spotify.com/album/4ZJsQTaRnAMmwAcTvVxxA7"
       },
@@ -567,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Balance and Composure & Tigers Jaw Split",
-        "url": "https://open.spotify.com/album/5KEwi4kimjyx2CoijJiet3"
-      },
-      "artists": [
-        {
-          "name": "Tigers Jaw",
-          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
-        }
-      ],
-      "duration_ms": 180253,
-      "name": "Lodging",
-      "url": "https://open.spotify.com/track/2VhuYwx3NFIljVMQAxbcIp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Charmer",
         "url": "https://open.spotify.com/album/07Sik9LtBbnTI7J3S3WRhI"
       },
@@ -599,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Won't Care How You Remember Me",
-        "url": "https://open.spotify.com/album/4ZJsQTaRnAMmwAcTvVxxA7"
-      },
-      "artists": [
-        {
-          "name": "Tigers Jaw",
-          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
-        }
-      ],
-      "duration_ms": 153589,
-      "name": "Commit",
-      "url": "https://open.spotify.com/track/1CLnmxh6Inys4vSibwM4ud"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Two Worlds",
         "url": "https://open.spotify.com/album/6QwYOgquTNb9e3pJklcmqn"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 121933,
       "name": "Coil/Recoil",
       "url": "https://open.spotify.com/track/69L8rEPccsIYFOLsVvl5Xs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Won't Care How You Remember Me",
+        "url": "https://open.spotify.com/album/4ZJsQTaRnAMmwAcTvVxxA7"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "duration_ms": 153589,
+      "name": "Commit",
+      "url": "https://open.spotify.com/track/1CLnmxh6Inys4vSibwM4ud"
     },
     {
       "added_at": null,
@@ -663,8 +663,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Old Clothes",
-        "url": "https://open.spotify.com/album/26qFcFUAotjg3XBh41QI9I"
+        "name": "Two Worlds",
+        "url": "https://open.spotify.com/album/6QwYOgquTNb9e3pJklcmqn"
       },
       "artists": [
         {
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 191890,
-      "name": "Old Clothes",
-      "url": "https://open.spotify.com/track/3F1SQU5ktUEFIqRyy9f9PR"
+      "duration_ms": 100613,
+      "name": "Let Go/Trashed Floors",
+      "url": "https://open.spotify.com/track/64C4L1qeYTwt1POgAVb7xC"
     },
     {
       "added_at": null,
@@ -695,8 +695,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Two Worlds",
-        "url": "https://open.spotify.com/album/6QwYOgquTNb9e3pJklcmqn"
+        "name": "Old Clothes",
+        "url": "https://open.spotify.com/album/26qFcFUAotjg3XBh41QI9I"
       },
       "artists": [
         {
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 100613,
-      "name": "Let Go/Trashed Floors",
-      "url": "https://open.spotify.com/track/64C4L1qeYTwt1POgAVb7xC"
+      "duration_ms": 191890,
+      "name": "Old Clothes",
+      "url": "https://open.spotify.com/track/3F1SQU5ktUEFIqRyy9f9PR"
     },
     {
       "added_at": null,
@@ -723,6 +723,22 @@
       "duration_ms": 180070,
       "name": "Danielson",
       "url": "https://open.spotify.com/track/1Bpq1VpKteNzOLkqz9BHDK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Two Worlds",
+        "url": "https://open.spotify.com/album/6QwYOgquTNb9e3pJklcmqn"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "duration_ms": 148733,
+      "name": "Two Worlds",
+      "url": "https://open.spotify.com/track/36Xh8ttDu0NOUvTQ4KhjpT"
     },
     {
       "added_at": null,
@@ -755,22 +771,6 @@
       "duration_ms": 159151,
       "name": "Swear",
       "url": "https://open.spotify.com/track/2vn4MzB2p1jv8HTZzArG0J"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Two Worlds",
-        "url": "https://open.spotify.com/album/6QwYOgquTNb9e3pJklcmqn"
-      },
-      "artists": [
-        {
-          "name": "Tigers Jaw",
-          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
-        }
-      ],
-      "duration_ms": 148733,
-      "name": "Two Worlds",
-      "url": "https://open.spotify.com/track/36Xh8ttDu0NOUvTQ4KhjpT"
     },
     {
       "added_at": null,

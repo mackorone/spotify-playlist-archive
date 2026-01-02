@@ -1,33 +1,13 @@
 {
   "description": "This is BL\u00d8F. The essential tracks, all in one playlist.",
-  "num_followers": 93094,
+  "num_followers": 93100,
   "original_name": "This Is BL\u00d8F",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVMWAAAAAACwXEsABfJa1rsBQDumW48c",
+  "snapshot_id": "aVRngAAAAADBnJQT3ixtPJcLCJjL/dJ8",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hoe hou ik dit vast",
-        "url": "https://open.spotify.com/album/3qXuDOAngn1VBoXcPYf3jh"
-      },
-      "artists": [
-        {
-          "name": "Bente",
-          "url": "https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e"
-        },
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 218898,
-      "name": "Hoe hou ik dit vast",
-      "url": "https://open.spotify.com/track/4ELJFskubTyiQQJeWfFUvq"
-    },
     {
       "added_at": null,
       "album": {
@@ -47,6 +27,26 @@
       "duration_ms": 215585,
       "name": "Glas",
       "url": "https://open.spotify.com/track/3Xj9DodEXwgpTho3R9tU3b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hoe hou ik dit vast",
+        "url": "https://open.spotify.com/album/3qXuDOAngn1VBoXcPYf3jh"
+      },
+      "artists": [
+        {
+          "name": "Bente",
+          "url": "https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e"
+        },
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 218898,
+      "name": "Hoe hou ik dit vast",
+      "url": "https://open.spotify.com/track/4ELJFskubTyiQQJeWfFUvq"
     },
     {
       "added_at": null,
@@ -223,22 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Watermakers",
-        "url": "https://open.spotify.com/album/0IjY6dBOwaD1OAIb8BxdCW"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 248400,
-      "name": "Hier",
-      "url": "https://open.spotify.com/track/4H4StIAv5eeuZFLt4alrYB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Later Als Ik Groter Ben",
         "url": "https://open.spotify.com/album/641c0gKByBgmrpf3NfYBze"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 204429,
       "name": "Later Als Ik Groter Ben",
       "url": "https://open.spotify.com/track/0EoSrTdvumvFADnIUmRw0I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Watermakers",
+        "url": "https://open.spotify.com/album/0IjY6dBOwaD1OAIb8BxdCW"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 248400,
+      "name": "Hier",
+      "url": "https://open.spotify.com/track/4H4StIAv5eeuZFLt4alrYB"
     },
     {
       "added_at": null,
@@ -355,22 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "3\u00d8 - We Doen Wat We Kunnen",
-        "url": "https://open.spotify.com/album/4ldiSUPVNKzo7V8aea84Pp"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 212106,
-      "name": "Alles Is Liefde",
-      "url": "https://open.spotify.com/track/3WmZKD5Vv99bdx3dVzX5Xe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Levenslang",
         "url": "https://open.spotify.com/album/6SgbamvUI8Nzuhw7NIEW5s"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 224844,
       "name": "Levenslang",
       "url": "https://open.spotify.com/track/1Vk4hsnhJAgZxZDRG9jThx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "3\u00d8 - We Doen Wat We Kunnen",
+        "url": "https://open.spotify.com/album/4ldiSUPVNKzo7V8aea84Pp"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 212106,
+      "name": "Alles Is Liefde",
+      "url": "https://open.spotify.com/track/3WmZKD5Vv99bdx3dVzX5Xe"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bitterzoet",
-        "url": "https://open.spotify.com/album/2EbPeDwO72ys18Q6PD2hoB"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 227840,
-      "name": "Bitterzoet",
-      "url": "https://open.spotify.com/track/21Kz5NrURIthNXPwgO9AaM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Omarm Me",
         "url": "https://open.spotify.com/album/1J2wWTUg6W725iYZPO8H0h"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 232425,
       "name": "Omarm Me",
       "url": "https://open.spotify.com/track/1lWBPQBghFHdpLbE6UnNc6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bitterzoet",
+        "url": "https://open.spotify.com/album/2EbPeDwO72ys18Q6PD2hoB"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 227840,
+      "name": "Bitterzoet",
+      "url": "https://open.spotify.com/track/21Kz5NrURIthNXPwgO9AaM"
     },
     {
       "added_at": null,
@@ -795,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Live Op Concert At Sea 2023",
+        "url": "https://open.spotify.com/album/2o19Ls84H4haIAYaO65a1S"
+      },
+      "artists": [
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 247186,
+      "name": "Spijt Heb Je Morgen Maar (Live op Concert at SEA 2023)",
+      "url": "https://open.spotify.com/track/3NuhiR3IqVg55Jw6inh2jx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Live op Concert at SEA 2015",
         "url": "https://open.spotify.com/album/1E2BoVBA043DwqPEdSWNsI"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 282866,
       "name": "Holiday In Spain (feat. Counting Crows) - Live op Concert at SEA 2015",
       "url": "https://open.spotify.com/track/1f3GoYVrEBNdrfNuxGpwQr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live Op Concert At Sea 2023",
-        "url": "https://open.spotify.com/album/2o19Ls84H4haIAYaO65a1S"
-      },
-      "artists": [
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 247186,
-      "name": "Spijt Heb Je Morgen Maar (Live op Concert at SEA 2023)",
-      "url": "https://open.spotify.com/track/3NuhiR3IqVg55Jw6inh2jx"
     },
     {
       "added_at": null,

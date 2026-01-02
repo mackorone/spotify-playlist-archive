@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-1,701 songs - 4 day 7 hr 2 min
+1,703 songs - 4 day 7 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -847,6 +847,7 @@
 | [Lest I Go Astray](https://open.spotify.com/track/1VnGMx6nCM3sDpxLMVTYIq) | [Dillon Wyte](https://open.spotify.com/artist/7sfsdBvfHEQ8ovwqSjIl5g) | [Power to Slay Giants](https://open.spotify.com/album/7fJsmsjHuF4ePdbVGiExx1) | 3:30 | 2024-03-25 |  |
 | [Let It Fall](https://open.spotify.com/track/45XRnGazqr7ZCtvsX5katg) | [Monsterito](https://open.spotify.com/artist/6jdAXbO9amhiBXY265he2V) | [Let It Fall](https://open.spotify.com/album/6HT7rnTEJ83jR7dMxu2bQs) | 3:48 | 2025-06-22 |  |
 | [Let Me Go](https://open.spotify.com/track/2PqSOrlabozEH6KXs7BvQr) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [The Search](https://open.spotify.com/album/46xdC4Qcvscfs3Ai2RIHcv) | 4:37 | 2025-02-15 |  |
+| [Let Me Love You](https://open.spotify.com/track/6aq41EbTye6mLPwBA3EXx2) | [Anna\-G](https://open.spotify.com/artist/1bfFyl0p8Tq1oubr8gkY6K) | [Nu Jazz City](https://open.spotify.com/album/1bk2Mjnv54GSpq59yd03Ho) | 4:16 | 2026-01-01 |  |
 | [Let the Good Times Roll](https://open.spotify.com/track/2iGl68oKx9khwIY7RzOM7b) | [The Hollow Frays](https://open.spotify.com/artist/4p9MmGhxHuh8SEcsOTiU9L) | [Let the Good Times Roll](https://open.spotify.com/album/1WHF03lKFj3VZD3n9j88mL) | 2:50 | 2025-11-07 |  |
 | [Let's Make Waves](https://open.spotify.com/track/0iwYHupE0SWJr8yJ2NDd8g) | [Creation Rockers](https://open.spotify.com/artist/16KpRRvWm3CeTm5myGSQbw) | [Let's Make Waves](https://open.spotify.com/album/78qlBiCnNPt9mZrvNTtJBT) | 3:45 | 2024-05-01 |  |
 | [Lexicon Dub](https://open.spotify.com/track/0MfJm5adtLVApMe7inn2QC) | [Koncrete Roots](https://open.spotify.com/artist/5PVj6zqgjfOIEODqBeJotL) | [Rudies in Dub](https://open.spotify.com/album/7ze5gyhJz9SwWKeB3m8JjK) | 3:12 | 2024-03-25 |  |
@@ -1228,6 +1229,7 @@
 | [Rise Up Dub](https://open.spotify.com/track/7obiR9dcFKgRvJ4tMER0XV) | [Muflon Dub Soundsystem](https://open.spotify.com/artist/2Ezu1DrYA7N80DduUwUnE1) | [King Love Dub Sessions](https://open.spotify.com/album/6eOZY5jTwk9FQxUdWTBRRZ) | 6:17 | 2024-05-04 |  |
 | [Risk](https://open.spotify.com/track/0lqHgjNrXmtFroWDqwV1iQ) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Diamond Eyes](https://open.spotify.com/album/1GjjBpY2iDwSQs5bykQI5e) | 3:38 | 2024-03-04 |  |
 | [Risveglio](https://open.spotify.com/track/4aA0EX0rPRPUiR6E2yB8Xc) | [CrisVola](https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo) | [Risveglio](https://open.spotify.com/album/2Dl7L7hpJuyDNOYiTHp705) | 3:30 | 2023-03-15 |  |
+| [Rita Line](https://open.spotify.com/track/6HulHrVy8G9vPPdLsvE2gH) | [DJ Zonattão](https://open.spotify.com/artist/2cxBEPRf0CjXSaD7DiuLtT) | [Rita Line](https://open.spotify.com/album/4wZqO6GsvIH83Z8FZ7CmDn) | 3:41 | 2026-01-01 |  |
 | [Ritmo che sale](https://open.spotify.com/track/1itc1nYEjZ7GuL1oErI6Oe) | [Martino Stripoli](https://open.spotify.com/artist/5UdNN2pxDMK4USUqEqWUku) | [Ritmo che sale](https://open.spotify.com/album/2AcylfLLONG7gbQno25Wwz) | 2:51 | 2025-09-06 |  |
 | [Ritmo Frenetico \(HIIT 30\-10\)](https://open.spotify.com/track/7EnvsmIAUsBCvfVHdrToLD) | [THE COACH](https://open.spotify.com/artist/1TXrJpe4fvCaVpg3f1nbjW) | [HIIT FRENETICO](https://open.spotify.com/album/6qoJhjAStNrszMp7sN0Q9N) | 1:20 | 2024-12-25 |  |
 | [RITMOHOUSE](https://open.spotify.com/track/4vt7GdGKyIktnO6IjHoa6k) | [Sigle Animazione Villaggi](https://open.spotify.com/artist/0lYLbo908pCzPD5jQEt1bm) | [RITMOHOUSE](https://open.spotify.com/album/392lqYDcims3UcipVv1C6N) | 2:20 | 2024-03-14 |  |

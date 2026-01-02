@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVMWAAAAAAC5qoG9CbQxZC5n40znbRKU",
+  "snapshot_id": "aVRngAAAAAAsEgp98L0nuTLvdaFJThjN",
   "tracks": [
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "111",
-        "url": "https://open.spotify.com/album/0JZuZ8r6MfkxZekQCrYXUM"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 174424,
-      "name": "111",
-      "url": "https://open.spotify.com/track/70iF6ViuLhMkhBXHqYO7qP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4UNBwrJ55qL75iEqepbIOR"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 173482,
       "name": "so into you - Spotify Singles",
       "url": "https://open.spotify.com/track/4TQLfbI12rrIVxOeWIr6gI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "111",
+        "url": "https://open.spotify.com/album/0JZuZ8r6MfkxZekQCrYXUM"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 174424,
+      "name": "111",
+      "url": "https://open.spotify.com/track/70iF6ViuLhMkhBXHqYO7qP"
     },
     {
       "added_at": null,
@@ -323,22 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "wish list",
-        "url": "https://open.spotify.com/album/2c2o8QHW5nV77XX3B0a6fF"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "wishlist",
-      "url": "https://open.spotify.com/track/7jis4lWrKIIqDK3ar5dWMp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sonder",
         "url": "https://open.spotify.com/album/45sBxwKSBxQe8H7p59ARys"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 171951,
       "name": "Criminal (Over You)",
       "url": "https://open.spotify.com/track/75t2P6iXeK7mXra6g6Nmqx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "wish list",
+        "url": "https://open.spotify.com/album/2c2o8QHW5nV77XX3B0a6fF"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "wishlist",
+      "url": "https://open.spotify.com/track/7jis4lWrKIIqDK3ar5dWMp"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "holiday szn",
-        "url": "https://open.spotify.com/album/2a9Re5YephRD9LvoySDKcs"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 167352,
-      "name": "holiday szn",
-      "url": "https://open.spotify.com/track/0bpRZSjPHbZ3zl5iRszVwi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "girls like me don't cry (remix) ft. MIN",
         "url": "https://open.spotify.com/album/6MmW9GNxUJ7rDoGs5xEbOf"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 213283,
       "name": "girls like me don't cry (remix) ft. MIN",
       "url": "https://open.spotify.com/track/78ByURsaVK39jjwTaerCAk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "holiday szn",
+        "url": "https://open.spotify.com/album/2a9Re5YephRD9LvoySDKcs"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 167352,
+      "name": "holiday szn",
+      "url": "https://open.spotify.com/track/0bpRZSjPHbZ3zl5iRszVwi"
     },
     {
       "added_at": null,
@@ -719,38 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slide",
-        "url": "https://open.spotify.com/album/5OWku4zuFZbcCLckaunlXc"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 221440,
-      "name": "Slide",
-      "url": "https://open.spotify.com/track/1nOfGMBJATb0Cbu1Xpv3ie"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "don't miss me too much",
-        "url": "https://open.spotify.com/album/54pN5CVMrX7ObvJSlOMQD1"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 137386,
-      "name": "no ties",
-      "url": "https://open.spotify.com/track/4FW8uQtz9LqSrd7BPIrw7g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "i hope u see this (deluxe)",
         "url": "https://open.spotify.com/album/0Oe5Gm4E0bJ8shtpMkvo1Y"
       },
@@ -771,6 +739,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "don't miss me too much",
+        "url": "https://open.spotify.com/album/54pN5CVMrX7ObvJSlOMQD1"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 137386,
+      "name": "no ties",
+      "url": "https://open.spotify.com/track/4FW8uQtz9LqSrd7BPIrw7g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slide",
+        "url": "https://open.spotify.com/album/5OWku4zuFZbcCLckaunlXc"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 221440,
+      "name": "Slide",
+      "url": "https://open.spotify.com/track/1nOfGMBJATb0Cbu1Xpv3ie"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Waiting on You",
+        "url": "https://open.spotify.com/album/7h3iQZDTJB0eP2v9GruCwH"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 167088,
+      "name": "Waiting on You",
+      "url": "https://open.spotify.com/track/43IYhhlHfhdZ9YDc245r3p"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "girls like me don't cry (deluxe)",
         "url": "https://open.spotify.com/album/3tzL6SeVT3j5ux571sx1nu"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 167589,
       "name": "fresh white tee",
       "url": "https://open.spotify.com/track/3xBBEYCKA3OzCvr7UphG32"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tied Down",
-        "url": "https://open.spotify.com/album/0CiVWLXFFXfVstNWYgGTCS"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 163846,
-      "name": "Tied Down",
-      "url": "https://open.spotify.com/track/4zjg2aRUQKVgUaOVjuGPA7"
     },
     {
       "added_at": null,
@@ -819,8 +819,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waiting on You",
-        "url": "https://open.spotify.com/album/7h3iQZDTJB0eP2v9GruCwH"
+        "name": "Tied Down",
+        "url": "https://open.spotify.com/album/0CiVWLXFFXfVstNWYgGTCS"
       },
       "artists": [
         {
@@ -828,9 +828,9 @@
           "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
         }
       ],
-      "duration_ms": 167088,
-      "name": "Waiting on You",
-      "url": "https://open.spotify.com/track/43IYhhlHfhdZ9YDc245r3p"
+      "duration_ms": 163846,
+      "name": "Tied Down",
+      "url": "https://open.spotify.com/track/4zjg2aRUQKVgUaOVjuGPA7"
     },
     {
       "added_at": null,

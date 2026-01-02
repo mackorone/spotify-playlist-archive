@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 ### [New Music Friday Türkiye](https://open.spotify.com/playlist/37i9dQZF1DXd8Yptw1g5FC)
 
-> Bengü ve haftanın en iyi çıkışları!
+> Bu hafta kısa bir ara veriyoruz\. 9 Ocak'ta haftanın en iyi çıkışlarıyla görüşmek üzere!
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,353 likes - 95 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,416 likes - 95 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 94 | [Biri Över Biri Söver](https://open.spotify.com/track/3wldOedoVtZAmqGaJvOlo7) | [Yeniev](https://open.spotify.com/artist/4WaEkRiTwdD3XqwelmmTdX) | [Biri Över Biri Söver](https://open.spotify.com/album/320v6GqYgc7ycN3wa1tWSx) | 4:29 |
 | 95 | [artık dönme](https://open.spotify.com/track/3k3cni7pQVz2U0hTMjwhSV) | [Falan Filan](https://open.spotify.com/artist/6lZG2iSuektfqURUA9qqkf) | [artık dönme](https://open.spotify.com/album/10YBBfiaXhRd4eHJCQijzv) | 3:08 |
 
-Snapshot ID: `AAAAAFHCGlAvPnAi0saNtTtRDGV9A8DF`
+Snapshot ID: `AAAAAMGT04vfigbFF0ZiEJH2XxxzVZX5`

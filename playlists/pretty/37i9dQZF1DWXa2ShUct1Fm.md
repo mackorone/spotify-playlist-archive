@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXa2ShUct1Fm.md) - [plain]
 
 > Say the name, Seventeen! Carats, get ready to slip into the diamond life with your 13 shining diamonds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 931,176 likes - 235 songs - 13 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 931,202 likes - 235 songs - 13 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -233,7 +233,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXa2ShUct1Fm.md) - [plain]
 | 223 | [Leftover](https://open.spotify.com/track/1zHPzyKOs6AsnJcnWSjZhO) | [JxW](https://open.spotify.com/artist/7GvlsjcgBrsE578yghOq7D) | [JxW 1st Single Album 'THIS MAN'](https://open.spotify.com/album/6tMQKPiaYEnnq1h6G55AKN) | 3:48 |
 | 224 | [Wait](https://open.spotify.com/track/1KkC3Nzxv3OZorm5m1843p) | [DINO](https://open.spotify.com/artist/5YaeXxzvqGNBCguELlKo6G) | [Wait](https://open.spotify.com/album/3D7f39m0ONz8okCm5o9Bxg) | 2:38 |
 | 225 | [ICARUS](https://open.spotify.com/track/6F3JheiZtQnzGfjbAocreQ) | [DINO](https://open.spotify.com/artist/5YaeXxzvqGNBCguELlKo6G) | [CASTAWAY DIVA OST Part.3](https://open.spotify.com/album/0QIzWo1Ly5l26INuULPO6Z) | 3:31 |
-| 226 | [Our Vacation](https://open.spotify.com/track/6MxdevePZO8y3Oqy9lkyeR) | [Lee Seung Gi](https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi), [Yoo Yeon Seok](https://open.spotify.com/artist/6xPx7ZAh3o3PMkpk8VDeGj), [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln), [Jee Seok Jin](https://open.spotify.com/artist/4T36HjU3Q1n4ICHyiItUTO), [Lee Dong Hwi](https://open.spotify.com/artist/56i2JeqKHimBmdoifQvG46), [조세호](https://open.spotify.com/artist/6QCyIIeOZN7zPgwpWLAiR6), [JOSHUA](https://open.spotify.com/artist/74AwWFYdjQ3ER5vHO4H7b0), [HOSHI](https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR) | [Bro & Marble OST Part.1](https://open.spotify.com/album/1RhC7hil8BAHkPbM5JovfZ) | 3:06 |
+| 226 | [Our Vacation](https://open.spotify.com/track/6MxdevePZO8y3Oqy9lkyeR) | [Lee Seung Gi](https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi), [Yoo Yeon Seok](https://open.spotify.com/artist/6xPx7ZAh3o3PMkpk8VDeGj), [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln), [Jee Seok Jin](https://open.spotify.com/artist/4T36HjU3Q1n4ICHyiItUTO), [Lee Dong Hwi](https://open.spotify.com/artist/56i2JeqKHimBmdoifQvG46), [Cho Sae Ho](https://open.spotify.com/artist/5TRiNGGp9d0EgXJFN2yrRv), [JOSHUA](https://open.spotify.com/artist/74AwWFYdjQ3ER5vHO4H7b0), [HOSHI](https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR) | [Bro & Marble OST Part.1](https://open.spotify.com/album/1RhC7hil8BAHkPbM5JovfZ) | 3:06 |
 | 227 | [Cinematic Love](https://open.spotify.com/track/3rB5fYZr3nSD2tBAvfYPb2) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt), [DOKYEOM](https://open.spotify.com/artist/7G1kUsPtQCdolV6CPwHmh2) | [Cinematic Love](https://open.spotify.com/album/5fbA8bYGGb7m5h2dQfR7RQ) | 4:29 |
 | 228 | [Kind of Love](https://open.spotify.com/track/5SqEWwdYt55W8Tz7j8WtwQ) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [Mother \(Original Television Soundtrack\), Pt\. 5](https://open.spotify.com/album/3mY5G2DhIicnES7AVf14Ry) | 3:55 |
 | 229 | [Jam Jam](https://open.spotify.com/track/5o9VWCaFtNsOcaYsiADCgC) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 1st Mini Album ’17 CARAT’](https://open.spotify.com/album/0H2K2JrzdvJcxBEPyxC2sl) | 3:25 |

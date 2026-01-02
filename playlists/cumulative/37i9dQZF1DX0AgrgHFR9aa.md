@@ -2,9 +2,9 @@
 
 ### [Lyricistes](https://open.spotify.com/playlist/37i9dQZF1DX0AgrgHFR9aa)
 
-> Les plus belles plumes rap français du moment\. Photo : Bigflo & Oli
+> Les plus belles plumes rap français du moment\. Photo : Guerta
 
-350 songs - 18 hr 22 min
+352 songs - 18 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Demain tout ira mieux](https://open.spotify.com/track/5EGvGFCqJIWBMxSyCysbAi) | [Youssef Swatt's](https://open.spotify.com/artist/7Bc4N4SWkPWM9TipAmwj6q), [Youssoupha](https://open.spotify.com/artist/5DW7NxqQ2875JtjuV7KMn4) | [Chute Libre](https://open.spotify.com/album/3wu9LCZmrwiRo0Z3kS3vQb) | 3:27 | 2025-02-20 | 2025-05-23 |
 | [Dernier shift](https://open.spotify.com/track/1I4UhkZhdfzFdZhr9l21TE) | [Primero](https://open.spotify.com/artist/1badJ5qBBvLuJ6qRqkRtR7), [CRC](https://open.spotify.com/artist/4ApeyCwNBX4vuqUNp0R9Z6) | [Dernier shift](https://open.spotify.com/album/2EJo4LgEoJJn0pSIfcjqVH) | 2:50 | 2025-01-09 | 2025-02-14 |
 | [Dernière pluie](https://open.spotify.com/track/5gZR7ghoxH3BeXDsTPROrL) | [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [Dernière pluie](https://open.spotify.com/album/6TC90sm22VX4GJL7dEVgR5) | 3:18 | 2025-04-03 | 2025-05-23 |
-| [Des joies des peines](https://open.spotify.com/track/3BN5s3GGVyvAlzLhK0jeRf) | [Davodka](https://open.spotify.com/artist/3viUmbbKSqgMFOVHfrZQpn), [Hash 24](https://open.spotify.com/artist/64pm5dznNZ2353HKqzGQQd) | [Des joies des peines](https://open.spotify.com/album/4mpkZeuKE4DgelpalLSHKM) | 2:35 | 2025-10-16 |  |
+| [Des joies des peines](https://open.spotify.com/track/3BN5s3GGVyvAlzLhK0jeRf) | [Davodka](https://open.spotify.com/artist/3viUmbbKSqgMFOVHfrZQpn), [Hash 24](https://open.spotify.com/artist/64pm5dznNZ2353HKqzGQQd) | [Des joies des peines](https://open.spotify.com/album/4mpkZeuKE4DgelpalLSHKM) | 2:35 | 2025-10-16 | 2026-01-02 |
 | [Destin](https://open.spotify.com/track/2H5iQv2VLbGH5LaetvfEfv) | [Sakage](https://open.spotify.com/artist/5m1WEenYyxTdTk7q9lI124) | [Destin](https://open.spotify.com/album/3193cVuhcGg9Z30Zctknd1) | 2:34 | 2025-11-06 |  |
 | [DIEU EST GRANDE](https://open.spotify.com/track/5OiJ0jwzjxTX0OhCx89RHl) | [Youssoupha](https://open.spotify.com/artist/5DW7NxqQ2875JtjuV7KMn4) | [DIEU EST GRANDE](https://open.spotify.com/album/75akm23oaHhtzextLCN2zz) | 2:56 | 2025-01-09 | 2025-11-07 |
 | [DNADV](https://open.spotify.com/track/1okZXUm1jxSQsUW3LBvFCj) | [MC Max](https://open.spotify.com/artist/5XiqGza6oKi2XX27Yhkh4j), [Aka Seul Two](https://open.spotify.com/artist/0lwUX1ujZLnKlxuXX6IpKk) | [DNADV](https://open.spotify.com/album/16N4v1JJ9MMFR7KSzgrGbX) | 3:15 | 2025-12-18 |  |
@@ -186,7 +186,7 @@
 | [LA PIOCHE](https://open.spotify.com/track/630Ahr10Eg65W8ZJPFhpX4) | [N3MS](https://open.spotify.com/artist/0bKdSFonchjcyDrS1HNy6J) | [LA PIOCHE](https://open.spotify.com/album/4OsTLL2e68xIO5S3aUD421) | 3:12 | 2025-10-16 | 2025-11-28 |
 | [LA SOURCE](https://open.spotify.com/track/5OkwAj1tSQfQHc1SBgcefY) | [C.O.R](https://open.spotify.com/artist/6COtnkYhmRVdsDXhSGYtBO), [Stavo](https://open.spotify.com/artist/2j93xBBtZnS9YJGJUcWHwg) | [LA SOURCE](https://open.spotify.com/album/4Gq7pIGNVBlb3w8Cdren1c) | 1:45 | 2025-05-29 | 2025-06-27 |
 | [La vie à Brenda \(feat\. Dinos\)](https://open.spotify.com/track/5yMQSLWlqCBzVCT3DjtPZQ) | [ISHA](https://open.spotify.com/artist/0dSh0CIa0HPd9kJmJSmGQo), [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2) | [Drôle d'oiseau](https://open.spotify.com/album/4cfXcBP5v5sewnMksKnBML) | 2:33 | 2025-06-12 | 2025-09-26 |
-| [La voix des gens qui sont morts](https://open.spotify.com/track/1Ze64UBWFRlonLnEuZaPQU) | [Eniah](https://open.spotify.com/artist/07AutVRBzcfa2AIYsGSgLj) | [La voix des gens qui sont morts](https://open.spotify.com/album/6hqHEnjBGOPlmFq8kRveJr) | 2:52 | 2025-12-18 |  |
+| [La voix des gens qui sont morts](https://open.spotify.com/track/1Ze64UBWFRlonLnEuZaPQU) | [Eniah](https://open.spotify.com/artist/07AutVRBzcfa2AIYsGSgLj) | [La voix des gens qui sont morts](https://open.spotify.com/album/6hqHEnjBGOPlmFq8kRveJr) | 2:52 | 2025-12-18 | 2026-01-02 |
 | [La vérité](https://open.spotify.com/track/6Xi05MZvsGTf8DIWRKAkkX) | [Rémy](https://open.spotify.com/artist/1rT9J8vtPCzEKL7oGntxnr) | [La vérité](https://open.spotify.com/album/37HItjP0niHY1s2WTBZL9S) | 4:47 | 2024-06-27 | 2024-11-08 |
 | [le bus \- A COLORS SHOW](https://open.spotify.com/track/6tA6dED3veeMWrXexuWpbg) | [Wallace Cleaver](https://open.spotify.com/artist/49qUD3ZuoOWEXwLgDwa3Eg) | [le bus \- A COLORS SHOW](https://open.spotify.com/album/6saCRQX2yRSt3FwsjBuo0c) | 2:58 | 2024-06-27 | 2025-02-21 |
 | [LE MARATHON](https://open.spotify.com/track/2AMSd1KSNG3mpQcfganAZz) | [N3MS](https://open.spotify.com/artist/0bKdSFonchjcyDrS1HNy6J) | [LE MARATHON](https://open.spotify.com/album/1HIGldnlWzRnTKUVFSRIUH) | 3:11 | 2025-05-15 | 2025-06-20 |
@@ -285,6 +285,7 @@
 | [Quand même pas mal](https://open.spotify.com/track/55Z7dmOShrgAJSnLZVJiry) | [Monk.E](https://open.spotify.com/artist/0iA2L1Fbkwp3PxiSD22Uou), [Motus](https://open.spotify.com/artist/3zHmPIAHdRLRClqj43YQ3k), [STI](https://open.spotify.com/artist/4XWx64t3h7r28YLQ89xpXI) | [Quand même pas mal](https://open.spotify.com/album/0vukWAaHo7mMQJxdBdVjKy) | 2:26 | 2025-10-16 | 2025-11-07 |
 | [Quatrième mur](https://open.spotify.com/track/329U1mHCtj33O1ntN86Pph) | [Scylla](https://open.spotify.com/artist/7fRBY7RRf4iMn2Z4bhZcYA), [Médine](https://open.spotify.com/artist/1afjj7vSBkpIjkiJdSV6bV), [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [Quatrième mur](https://open.spotify.com/album/1VTQXXcGF3m5V4PcxUFpfr) | 5:11 | 2024-11-07 | 2025-03-28 |
 | [R.A.P](https://open.spotify.com/track/6dTMjsMC9VHEvUNvmJkx1J) | [Kery James](https://open.spotify.com/artist/5ydAcIK2KdpBIbL0yGFJle) | [R.A.P](https://open.spotify.com/album/67zNwWM049qwffckBDIzPY) | 4:46 | 2025-11-27 |  |
+| [RB10 \(Antipasto\)](https://open.spotify.com/track/4RzeW7DRTfMmYA2ZEc7Wwl) | [Dj Per\-k](https://open.spotify.com/artist/7FUOByx9lUieRgTu0Glxrz), [Nino Garino](https://open.spotify.com/artist/1vebQ3vLMATw6cMaYoMQ9B) | [RB10 \(Antipasto\)](https://open.spotify.com/album/5KCTslR9vTRjaREY28ZJm4) | 2:20 | 2026-01-01 |  |
 | [Rebellion](https://open.spotify.com/track/1JtOe5JDDjASnbcNsiPlD0) | [Lesram](https://open.spotify.com/artist/0UeKDbiaApyP7qKfcmGN03) | [Rebellion](https://open.spotify.com/album/3mivoTyPvqrpKCcRpAYuK9) | 2:25 | 2024-06-27 | 2024-11-15 |
 | [Rei](https://open.spotify.com/track/0vANR3Lh8V574Y2DFj2drD) | [Louvar](https://open.spotify.com/artist/3gMXFPjg7pQViQAzc7Xslc) | [Rei](https://open.spotify.com/album/3YTu0lARLRddlCb5YPPBIl) | 2:40 | 2025-11-20 | 2025-12-12 |
 | [Requiem](https://open.spotify.com/track/38Ey8Cb60zEnsfl7IIvsOZ) | [Austin.](https://open.spotify.com/artist/68ZelUIcF3n3yNyakobhAG), [Almara](https://open.spotify.com/artist/1aicMxzdKTNAQhF4jt2b8H) | [Requiem](https://open.spotify.com/album/2RKkS3jHqfbZd6prSNPqJn) | 2:13 | 2024-07-11 | 2024-09-27 |
@@ -325,6 +326,7 @@
 | [Tom](https://open.spotify.com/track/0Vjzy5XgoNETwDnTkfphsU) | [Thomas Goldberg](https://open.spotify.com/artist/3mJSQo9rHKT7rqI949eCBd) | [Tom](https://open.spotify.com/album/0VdE3hBaU6IkiXwNKjiIKm) | 3:36 | 2025-06-05 | 2025-10-10 |
 | [Toujours rien à remplacer](https://open.spotify.com/track/57McKRNvUC7b25hpohCXm8) | [Scylla](https://open.spotify.com/artist/7fRBY7RRf4iMn2Z4bhZcYA) | [Ivresse des profondeurs](https://open.spotify.com/album/02fsOKarSDUsPaNNOhDE6c) | 6:22 | 2024-07-18 | 2024-09-20 |
 | [Tous fous](https://open.spotify.com/track/0LsQcMNRdLM5qVeUDDbYUH) | [Frs taga](https://open.spotify.com/artist/1SsTQHvVJV2ph5YsqrSLuy) | [Prolétaire](https://open.spotify.com/album/2e3J4pEJnEvgMGBsJO6CJV) | 2:36 | 2025-11-20 |  |
+| [Track 9](https://open.spotify.com/track/2TuwtLzPmr85OA7B8cMvwI) | [Guerta](https://open.spotify.com/artist/0dGdyg6LBJhhr9KstG2KTL) | [](https://open.spotify.com/album/null) | 0:00 | 2026-01-01 |  |
 | [Train Mistral](https://open.spotify.com/track/0HU5RMcc4JXix5c3BzBSXv) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Train Mistral](https://open.spotify.com/album/06d1rMj8tdGai6uuHVb7Hs) | 3:17 | 2025-10-09 | 2025-12-19 |
 | [Trajectoire](https://open.spotify.com/track/6XIVJ6FT3GlAa7ra9sOGgF) | [Tha Manz](https://open.spotify.com/artist/1mcnbOEvat26bMsiFl5OCl) | [Trajectoire](https://open.spotify.com/album/4QY0Rj1ZHAknN7c2xUHJ3d) | 2:46 | 2025-12-18 |  |
 | [Trap House](https://open.spotify.com/track/1lOkxlm1w2RhM8tWOId3e9) | [Rim'K](https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D), [Alpha Wann](https://open.spotify.com/artist/7yeFMUrYTY5cAZx0GKXnti) | [Trap House](https://open.spotify.com/album/47lkxnHwOsoS4RftJLrWRN) | 2:58 | 2024-06-27 | 2024-09-13 |

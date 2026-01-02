@@ -1612,7 +1612,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 172896,
       "name": "A Ceia",
       "url": "https://open.spotify.com/track/3fk20rAk1r0sD4KDh3Ws07"
@@ -13583,6 +13583,44 @@
     },
     {
       "album": {
+        "name": "Campeonato de Put4",
+        "url": "https://open.spotify.com/album/7tejTSQUyBnJhFOApLLDiG"
+      },
+      "artists": [
+        {
+          "name": "DJ Gu",
+          "url": "https://open.spotify.com/artist/3Y4ODN6kIBNpQj6eWNT9xw"
+        },
+        {
+          "name": "MC Tuto",
+          "url": "https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z"
+        },
+        {
+          "name": "MC Jo\u00e3ozinho VT",
+          "url": "https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT"
+        },
+        {
+          "name": "MC Fr da Norte",
+          "url": "https://open.spotify.com/artist/4s6x9M7UXoKy12iOrDILhj"
+        },
+        {
+          "name": "MC Marks",
+          "url": "https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h"
+        },
+        {
+          "name": "MC Meno K",
+          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381000,
+      "name": "Campeonato de Put4",
+      "url": "https://open.spotify.com/track/0b4zjcPS20V98mzJHM0uwo"
+    },
+    {
+      "album": {
         "name": "Esc\u00e2ndalo \u00cdntimo",
         "url": "https://open.spotify.com/album/5MGR1iBTBfsb28mHFSM5KV"
       },
@@ -20204,7 +20242,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 184189,
       "name": "Dependente",
       "url": "https://open.spotify.com/track/0X5S4HxEAvmxnOjZClnfIn"
@@ -31798,7 +31836,7 @@
       ],
       "date_added": "2025-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 142153,
       "name": "Funk Natalino 2K23 (Beat do Natal)",
       "url": "https://open.spotify.com/track/0Cx6gcMoZNhpe9ObUyX6zE"
@@ -56336,7 +56374,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-10",
+      "date_removed": null,
       "duration_ms": 195013,
       "name": "O mundo \u00e9 nosso",
       "url": "https://open.spotify.com/track/3mLDL1GC6BzNrNrDjZugSf"
@@ -60406,7 +60444,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-25",
+      "date_removed": null,
       "duration_ms": 207504,
       "name": "Pedido De Socorro - Ao Vivo",
       "url": "https://open.spotify.com/track/3AWftRrkCekw70fA3Wh0kQ"

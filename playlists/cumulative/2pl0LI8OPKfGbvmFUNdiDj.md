@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-284 songs - 15 hr 55 min
+289 songs - 16 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [CULTIST](https://open.spotify.com/track/2p0MRLv6SoGfL66JLp2vKa) | [SPYROL](https://open.spotify.com/artist/4RRp58MyXF2GEX50W3QdMv) | [CULTIST](https://open.spotify.com/album/2HH4A7x59P8IyiAWTYcwD9) | 2:50 | 2025-11-17 |  |
 | [Culture Shock](https://open.spotify.com/track/5Jrc2c2Kp0EshetMSq4X3E) | [CallMeWhoElse](https://open.spotify.com/artist/3sLFnlQ8XFsPNqZ2ly2cCo) | [Culture Shock](https://open.spotify.com/album/3mPqFAPHc5MCQeqKsdwE1J) | 1:50 | 2025-12-23 |  |
 | [Cut It Out!](https://open.spotify.com/track/2Hyalx0ms1xibr1QTZebGm) | [moberod](https://open.spotify.com/artist/49lLlq5yOsfgHQnypG2Cdd) | [Cut It Out!](https://open.spotify.com/album/5c0HNhPuGroOZnioWziNuk) | 2:57 | 2025-11-17 |  |
+| [Cyberpunk Elegy](https://open.spotify.com/track/6YUxRtSM0gcf7Jyzty6V0I) | [Billy Manilli](https://open.spotify.com/artist/7ghnXMugKVqRgtg0DjKKhT) | [Cyberpunk Elegy](https://open.spotify.com/album/1Px98AlqdHxUeAyNZ2b29y) | 3:27 | 2026-01-02 |  |
 | [D.W.A.](https://open.spotify.com/track/2DvkQrm5DM3kVhwsAa4GtO) | [Park Place Project](https://open.spotify.com/artist/5cCZ0B3kcfRmntY3iRhiTf) | [D.W.A.](https://open.spotify.com/album/26gOaPsEoIhReppVIL9kjt) | 2:46 | 2025-11-17 |  |
 | [Daily Dreams](https://open.spotify.com/track/36DFXNwQpHKZO7praE9GY5) | [SINEAD](https://open.spotify.com/artist/1W8hGPWp51WM8s8abI0B94) | [Daily Dreams](https://open.spotify.com/album/58o8fdFHcIadmKr35lsIOg) | 2:48 | 2025-12-20 |  |
 | [Dalc'h Mad](https://open.spotify.com/track/38LLINhJkOS0vfh2BcWPBO) | [Eric Hartereau](https://open.spotify.com/artist/05AKy1V7dOPuFuzLZHRtu7), [Naëlle White](https://open.spotify.com/artist/6QbDuTbGVVA6mbYr2opYZo) | [Accroche toi](https://open.spotify.com/album/16ppv7cPXmMdz8lB9hPKYg) | 3:58 | 2025-11-30 |  |
@@ -173,12 +174,14 @@
 | [make it work \(interlude\)](https://open.spotify.com/track/27riDY0FZMGNIrJE3wjAQB) | [Swízzy](https://open.spotify.com/artist/0UECTvB4F2xASEH91yftgO) | [Melodic Desire II](https://open.spotify.com/album/3zyNtvKFT6Fcgmr3B0APjn) | 2:40 | 2025-12-26 |  |
 | [Marijuana Blues](https://open.spotify.com/track/5d5SmkTY9V0cPeuwJtCmPF) | [Gaz Kelly](https://open.spotify.com/artist/54GFxKUpAbaUPNkQKT2A7Q) | [Marijuana Blues](https://open.spotify.com/album/5DsQGDFsghYiHftfKqt1Be) | 3:23 | 2025-11-17 |  |
 | [Maryjane](https://open.spotify.com/track/0CWzSOcdlhSB1XhfQOsndm) | [Perxo](https://open.spotify.com/artist/0fbe9EfOcFVBKWyPX4GXrk) | [Maryjane](https://open.spotify.com/album/3vgROf3t4kmic0I50Y8krM) | 3:02 | 2025-12-20 |  |
+| [Masta Plan](https://open.spotify.com/track/29HloLROxM5upDdZwGZNQI) | [Zeke Saadiq](https://open.spotify.com/artist/2sjFTV4Yj1PpwHP3UJmi0d), [Lana Lotus](https://open.spotify.com/artist/12LQ3pCmfxZXHrW4ULwMaM), [Wizeguy Collective](https://open.spotify.com/artist/39eU8w4KpyiTiN5aUGCo3z) | [The Wizeguy MixTape](https://open.spotify.com/album/42KQbGiza0RUx7q0b5g7VP) | 3:16 | 2026-01-01 |  |
 | [Mein Block](https://open.spotify.com/track/0cHc5tyUQ1PkOCgz5kLmxc) | [DCI Dashcam](https://open.spotify.com/artist/6cL9wQrj7bdDnYtM6aeyRV) | [Mein Block](https://open.spotify.com/album/7zwRE5aoBDcuYBOzlENOxU) | 2:27 | 2025-12-25 |  |
 | [MERKAVÁ](https://open.spotify.com/track/6lv3CY0BItKVXV42uhGbSG) | [Kibbutz Paradiso](https://open.spotify.com/artist/21vbXHIW0qY3qchdDPmAmB) | [MERKAVÁ](https://open.spotify.com/album/5TvvDO3PiMc1kfoRblhIy9) | 3:09 | 2025-12-24 |  |
 | [Minding My Business](https://open.spotify.com/track/1AYKrxVWjGxkUdcOxadqzw) | [CallMeWhoElse](https://open.spotify.com/artist/3sLFnlQ8XFsPNqZ2ly2cCo) | [Minding My Business](https://open.spotify.com/album/5XZYS9zWdncFogtSThtheL) | 1:39 | 2025-11-22 |  |
 | [Mis miedos, mi terror](https://open.spotify.com/track/4yt8b2qgcSfE77EnmyMnue) | [Tekelinos](https://open.spotify.com/artist/6eQjn7wIob0mu1K7q7hZy0) | [Lluvia de Nuestras Realidades](https://open.spotify.com/album/323VD6i36aWnjVYOUKFLW2) | 3:32 | 2025-11-08 | 2025-12-01 |
 | [Month of Sundays](https://open.spotify.com/track/3X94qBZxPJTmftEscfOpOr) | [Echomatica](https://open.spotify.com/artist/75uNvdIOOLgUT6Gs2hkRVQ) | [Month of Sundays](https://open.spotify.com/album/2aJDiRQCdqr0P7ZDjuPS55) | 3:57 | 2025-11-01 | 2025-12-01 |
 | [MORE](https://open.spotify.com/track/7b67qEURJqOSa37ZLTga6a) | [Poppa Wafer](https://open.spotify.com/artist/6pdp6ZiucSXbdIF3Uu7kRU) | [Righteous Revelation 4](https://open.spotify.com/album/3H9OZxrzKPQ0jpNAphEdRB) | 2:10 | 2025-11-24 |  |
+| [My Body Says](https://open.spotify.com/track/6h0BrrBxPrdQzgwQGol7HZ) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [My Body Says](https://open.spotify.com/album/2MhAQxt52HGrv0ExsdLFcE) | 3:55 | 2026-01-01 |  |
 | [My Gs](https://open.spotify.com/track/50yx93SX2bty8HVLCeCqSS) | [AME LDN](https://open.spotify.com/artist/2vIktnk8ayfNgBq1dhU4ZD) | [My Gs](https://open.spotify.com/album/5zEXp03VqQXy0TCvwnCS6U) | 2:30 | 2025-11-10 | 2025-12-01 |
 | [My Own World](https://open.spotify.com/track/23hwOGWChFPALZdX4dYFlC) | [Impulse Bangs](https://open.spotify.com/artist/3QbpC7UT2TgsfZ9Qpyvcbp) | [My Own World](https://open.spotify.com/album/38prmH5z5AS3n7yKCXig8m) | 3:50 | 2025-12-28 |  |
 | [My Wings](https://open.spotify.com/track/4uvvxklqvcOxTrNdvnZTco) | [Bliss On The Stars](https://open.spotify.com/artist/6mVn8YjdSG1C5PxcksAeiU) | [My Wings](https://open.spotify.com/album/5YBEL7PVdJsWTwPOBxlpCQ) | 4:24 | 2025-11-03 | 2025-12-01 |
@@ -190,6 +193,7 @@
 | [Not a Moment](https://open.spotify.com/track/3xJfZkI3APO8NYKKGCPiZu) | [Rob De Santis](https://open.spotify.com/artist/6u32qUBZnBH6bZFxm0kemC) | [Not a Moment](https://open.spotify.com/album/6Bn0R6sA52tNWW2P4eRpPU) | 2:26 | 2025-11-01 | 2025-12-01 |
 | [omw?](https://open.spotify.com/track/0E6XbtAElPNaZklrg7TISP) | [Cody Caprice](https://open.spotify.com/artist/5RvimT5xpoT9hv0rgKRFXL) | [Catalyst](https://open.spotify.com/album/3Mdlq7baYKAOflVaIP9Poa) | 2:39 | 2025-11-05 | 2025-12-01 |
 | [On The Loose](https://open.spotify.com/track/4z8PnK63CWW1WL879iGpbH) | [Miquelangelo](https://open.spotify.com/artist/4h9QOAPn546KMLAgaxUEwQ) | [Verdwaald In De Stad](https://open.spotify.com/album/6iopEbHYcwJIY6fibuhFf4) | 2:41 | 2025-12-24 |  |
+| [Once](https://open.spotify.com/track/6dcxUyu84kv5PMl3IEbZOx) | [Eddie Bowers](https://open.spotify.com/artist/269LsjukFfnnXjShOB2iiU) | [Once](https://open.spotify.com/album/6OBF7DsCR7Hu7tkUHsjWEj) | 2:45 | 2026-01-01 |  |
 | [ONE BODY](https://open.spotify.com/track/7bNPlDONCuxL5E0wwOwnhI) | [Stickz](https://open.spotify.com/artist/1L5SQPV7d93Xrr0f1pRy1D) | [ONE BODY](https://open.spotify.com/album/6u2jgWebuvICCnUnkZTbiK) | 2:25 | 2025-11-17 |  |
 | [One Stop Shop](https://open.spotify.com/track/1QKElGLbQn31oYe2vTtngF) | [Cam Get'm](https://open.spotify.com/artist/5fma43UccUMYLftsgZWoWh) | [Eviction Notice](https://open.spotify.com/album/2vSRvfh99w8GfaaZpbUkjS) | 4:38 | 2025-11-01 | 2025-12-01 |
 | [online](https://open.spotify.com/track/3BzxQivN0x4x3JuLfYFkWi) | [Derkio](https://open.spotify.com/artist/6xAtLIBTpWdHrQczoHef7W) | [online](https://open.spotify.com/album/17gqNoTRTvng56g69iwHQ7) | 1:45 | 2025-11-22 |  |
@@ -199,6 +203,7 @@
 | [Perdu dans ma toile](https://open.spotify.com/track/7MrFMCAUuaOe2qDvzAJJMH) | [Deladjaya trio](https://open.spotify.com/artist/4LDCQbS3K5R9uKaSFtcB2r) | [Album, No\. 1](https://open.spotify.com/album/1lIQtgbBGZasEbhnF7JtbD) | 3:43 | 2025-12-23 |  |
 | [Persephone](https://open.spotify.com/track/54bU2JvnZ03zsHNaNaU98v) | [The Night Herons](https://open.spotify.com/artist/4L6aCmOtfPzMjIfCNukBK0) | [Persephone](https://open.spotify.com/album/4jwuM7kTSJEE7IHelVBVnw) | 4:08 | 2025-11-17 |  |
 | [Picket Fences On Fire](https://open.spotify.com/track/7wTmXJVVrhDYpYXceSNupJ) | [Crooked Cat Adams](https://open.spotify.com/artist/3bJ6ZrdsE17kTt9hqQV42i) | [Hernando County, F.L.A](https://open.spotify.com/album/0bTEZg0TQmkwnBwG73LRiW) | 5:04 | 2025-11-24 |  |
+| [Piece Of My Soul](https://open.spotify.com/track/3PrKiViu0ABPqPkwkyleGG) | [Headstone Pact](https://open.spotify.com/artist/1sZCxuTGLojo9mXnbKOhJ0) | [Pills & Pentagrams](https://open.spotify.com/album/3aIyn7CyWVT80L8l41iOOk) | 2:29 | 2026-01-01 |  |
 | [Piece Of The Pie](https://open.spotify.com/track/01SzDzVKiUZzwgsxkgxCqp) | [Sweet Electric](https://open.spotify.com/artist/2I2JaAstxZhlU1fmnRZSEm) | [Piece Of The Pie](https://open.spotify.com/album/458bpgTUEVcU1q51PS6h6R) | 3:41 | 2025-11-02 | 2025-12-01 |
 | [Places and Faces](https://open.spotify.com/track/6vg9aHp38RpVGkJdpqeVvT) | [Androtea](https://open.spotify.com/artist/1yekf3G6ESXILTw11dkpBp) | [Places and Faces](https://open.spotify.com/album/0SlFCjdrGkR98mnbfgOHCs) | 3:33 | 2025-11-08 | 2025-12-01 |
 | [Pretty Girl \(Omoge\)](https://open.spotify.com/track/721oF59742gpHE5ZcPW7gJ) | [Milarey](https://open.spotify.com/artist/7cUBzBUNpkuIjcfzhf1ImT) | [Renascentia](https://open.spotify.com/album/6qL5Fn9lV0MxTpQG29XlYG) | 2:30 | 2025-11-17 |  |

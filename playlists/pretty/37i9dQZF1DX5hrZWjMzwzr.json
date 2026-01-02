@@ -1,6 +1,6 @@
 {
   "description": "Popkillery rozdane! Pos\u0142uchaj zwyci\u0119zc\u00f3w i wszystkich nominowanych utwor\u00f3w w kategorii singiel roku.",
-  "num_followers": 10638,
+  "num_followers": 10637,
   "original_name": "Popkillery 2025: Singiel Roku",
   "owner": {
     "name": "Spotify",
@@ -135,30 +135,6 @@
     {
       "added_at": "2025-04-24 21:35:46",
       "album": {
-        "name": "Ona M\u00f3wi",
-        "url": "https://open.spotify.com/album/5t2dYtdLUqfdmNjuqwknvU"
-      },
-      "artists": [
-        {
-          "name": "730 Huncho",
-          "url": "https://open.spotify.com/artist/7li6R0hKFXu7496e0Yialv"
-        },
-        {
-          "name": "Malik Montana",
-          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
-        },
-        {
-          "name": "Kazior",
-          "url": "https://open.spotify.com/artist/3bSbo5ZCbrTle7S2q8nqf8"
-        }
-      ],
-      "duration_ms": 152470,
-      "name": "Ona M\u00f3wi",
-      "url": "https://open.spotify.com/track/6RfHSlo0xOa5s3WnYj9xJa"
-    },
-    {
-      "added_at": "2025-04-24 21:35:46",
-      "album": {
         "name": "R\u00f3\u017c",
         "url": "https://open.spotify.com/album/1yshQQ9rEmfZTWqNccWAZ1"
       },
@@ -179,6 +155,30 @@
       "duration_ms": 171694,
       "name": "R\u00f3\u017c",
       "url": "https://open.spotify.com/track/3XhllIfCF2T1RaJwbBWSdi"
+    },
+    {
+      "added_at": "2025-04-24 21:35:46",
+      "album": {
+        "name": "Ona M\u00f3wi",
+        "url": "https://open.spotify.com/album/5t2dYtdLUqfdmNjuqwknvU"
+      },
+      "artists": [
+        {
+          "name": "730 Huncho",
+          "url": "https://open.spotify.com/artist/7li6R0hKFXu7496e0Yialv"
+        },
+        {
+          "name": "Malik Montana",
+          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+        },
+        {
+          "name": "Kazior",
+          "url": "https://open.spotify.com/artist/3bSbo5ZCbrTle7S2q8nqf8"
+        }
+      ],
+      "duration_ms": 152470,
+      "name": "Ona M\u00f3wi",
+      "url": "https://open.spotify.com/track/6RfHSlo0xOa5s3WnYj9xJa"
     },
     {
       "added_at": "2025-04-24 21:35:46",
@@ -427,22 +427,6 @@
     {
       "added_at": "2025-04-24 21:35:46",
       "album": {
-        "name": "Vanitas",
-        "url": "https://open.spotify.com/album/6d7MSutLjG62hZLhhObdx9"
-      },
-      "artists": [
-        {
-          "name": "Aleshen",
-          "url": "https://open.spotify.com/artist/4lmMkf4tLyEKBslusiNZdu"
-        }
-      ],
-      "duration_ms": 216923,
-      "name": "Vanitas",
-      "url": "https://open.spotify.com/track/2stWwxi8C6L1TESgCw9ANY"
-    },
-    {
-      "added_at": "2025-04-24 21:35:46",
-      "album": {
         "name": "PG$",
         "url": "https://open.spotify.com/album/0jQlIVeY05n6f5Es8ShhYs"
       },
@@ -471,22 +455,6 @@
     {
       "added_at": "2025-04-24 21:35:46",
       "album": {
-        "name": "STRZELAM PETEM",
-        "url": "https://open.spotify.com/album/2sb8Zzua6dynbXOJVdTpbE"
-      },
-      "artists": [
-        {
-          "name": "Guzior",
-          "url": "https://open.spotify.com/artist/7uWyXPJ04ihdQdYGGw3xVV"
-        }
-      ],
-      "duration_ms": 183703,
-      "name": "STRZELAM PETEM",
-      "url": "https://open.spotify.com/track/6aZDSWiRvTWCfams9bu8rH"
-    },
-    {
-      "added_at": "2025-04-24 21:35:46",
-      "album": {
         "name": "HERO",
         "url": "https://open.spotify.com/album/1vOaLJCm2BLllrARLrFQuo"
       },
@@ -511,6 +479,38 @@
       "duration_ms": 164895,
       "name": "HERO",
       "url": "https://open.spotify.com/track/5lwu9g10m5ghkp9XWl65YZ"
+    },
+    {
+      "added_at": "2025-04-24 21:35:46",
+      "album": {
+        "name": "Vanitas",
+        "url": "https://open.spotify.com/album/6d7MSutLjG62hZLhhObdx9"
+      },
+      "artists": [
+        {
+          "name": "Aleshen",
+          "url": "https://open.spotify.com/artist/4lmMkf4tLyEKBslusiNZdu"
+        }
+      ],
+      "duration_ms": 216923,
+      "name": "Vanitas",
+      "url": "https://open.spotify.com/track/2stWwxi8C6L1TESgCw9ANY"
+    },
+    {
+      "added_at": "2025-04-24 21:35:46",
+      "album": {
+        "name": "STRZELAM PETEM",
+        "url": "https://open.spotify.com/album/2sb8Zzua6dynbXOJVdTpbE"
+      },
+      "artists": [
+        {
+          "name": "Guzior",
+          "url": "https://open.spotify.com/artist/7uWyXPJ04ihdQdYGGw3xVV"
+        }
+      ],
+      "duration_ms": 183703,
+      "name": "STRZELAM PETEM",
+      "url": "https://open.spotify.com/track/6aZDSWiRvTWCfams9bu8rH"
     },
     {
       "added_at": "2025-04-24 21:35:46",
@@ -679,26 +679,6 @@
     {
       "added_at": "2025-04-24 21:35:46",
       "album": {
-        "name": "INTRODESTRUKCJA",
-        "url": "https://open.spotify.com/album/2Ww21uhTbsK2Z3b6yb9GRA"
-      },
-      "artists": [
-        {
-          "name": "Macias",
-          "url": "https://open.spotify.com/artist/7zdVXqEouAJwLWJBVLxYho"
-        },
-        {
-          "name": "White Widow",
-          "url": "https://open.spotify.com/artist/1KyVviwmYP83FyOApt86K0"
-        }
-      ],
-      "duration_ms": 134769,
-      "name": "INTRODESTRUKCJA",
-      "url": "https://open.spotify.com/track/1T4n3A9KWa2Gno5tJlMqwf"
-    },
-    {
-      "added_at": "2025-04-24 21:35:46",
-      "album": {
         "name": "TRAP OR DIE",
         "url": "https://open.spotify.com/album/1HU76pMBDYXhvPr8IwviVS"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 159463,
       "name": "MADONNA",
       "url": "https://open.spotify.com/track/4fyuRAFi2Zigy7kgk5Sq4v"
+    },
+    {
+      "added_at": "2025-04-24 21:35:46",
+      "album": {
+        "name": "INTRODESTRUKCJA",
+        "url": "https://open.spotify.com/album/2Ww21uhTbsK2Z3b6yb9GRA"
+      },
+      "artists": [
+        {
+          "name": "Macias",
+          "url": "https://open.spotify.com/artist/7zdVXqEouAJwLWJBVLxYho"
+        },
+        {
+          "name": "White Widow",
+          "url": "https://open.spotify.com/artist/1KyVviwmYP83FyOApt86K0"
+        }
+      ],
+      "duration_ms": 134769,
+      "name": "INTRODESTRUKCJA",
+      "url": "https://open.spotify.com/track/1T4n3A9KWa2Gno5tJlMqwf"
     },
     {
       "added_at": "2025-04-24 21:35:46",
@@ -1247,6 +1247,26 @@
     {
       "added_at": "2025-04-24 21:35:46",
       "album": {
+        "name": "Remedium II",
+        "url": "https://open.spotify.com/album/6nPt4gCKYI8CW847YkaPUt"
+      },
+      "artists": [
+        {
+          "name": "Tau",
+          "url": "https://open.spotify.com/artist/3k4IXngEeRFfKiBNiUn4qV"
+        },
+        {
+          "name": "Medium",
+          "url": "https://open.spotify.com/artist/7fbVF9Qj3qzbtQzOtbjlOZ"
+        }
+      ],
+      "duration_ms": 213409,
+      "name": "Street Credit",
+      "url": "https://open.spotify.com/track/2ZDVnvjGjyhVCZEIyY8WFX"
+    },
+    {
+      "added_at": "2025-04-24 21:35:46",
+      "album": {
         "name": "depeche_mood",
         "url": "https://open.spotify.com/album/1qkhonUkoj7xUdTELEu2yi"
       },
@@ -1267,26 +1287,6 @@
       "duration_ms": 165300,
       "name": "depeche_mood",
       "url": "https://open.spotify.com/track/2OyVBfYhZUFyUgGXl5xxCy"
-    },
-    {
-      "added_at": "2025-04-24 21:35:46",
-      "album": {
-        "name": "Remedium II",
-        "url": "https://open.spotify.com/album/6nPt4gCKYI8CW847YkaPUt"
-      },
-      "artists": [
-        {
-          "name": "Tau",
-          "url": "https://open.spotify.com/artist/3k4IXngEeRFfKiBNiUn4qV"
-        },
-        {
-          "name": "Medium",
-          "url": "https://open.spotify.com/artist/7fbVF9Qj3qzbtQzOtbjlOZ"
-        }
-      ],
-      "duration_ms": 213409,
-      "name": "Street Credit",
-      "url": "https://open.spotify.com/track/2ZDVnvjGjyhVCZEIyY8WFX"
     },
     {
       "added_at": "2025-04-24 21:35:46",

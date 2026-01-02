@@ -1263,6 +1263,24 @@
     },
     {
       "album": {
+        "name": "Acid Viking",
+        "url": "https://open.spotify.com/album/4JKHsT37qFoVdD5yYXYnPz"
+      },
+      "artists": [
+        {
+          "name": "Lady Owl",
+          "url": "https://open.spotify.com/artist/0ecpr2cVYXUH5z3wSybqZO"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212906,
+      "name": "Lithium",
+      "url": "https://open.spotify.com/track/4f6eNSvw58g7nm47pXtbMH"
+    },
+    {
+      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/1NEkjw7DnsLK3i6xtXohyE"
       },

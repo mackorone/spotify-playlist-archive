@@ -4,7 +4,7 @@
 
 > Hottest Anime hits & best new tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-2,324 songs - 6 day 0 hr 0 min
+2,325 songs - 6 day 0 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1184,7 +1184,7 @@
 | [Tumbling Dice](https://open.spotify.com/track/1DT5EBDmF3CwQmWIfNXzeJ) | [Enako](https://open.spotify.com/artist/23Sh4LxrCSK3Or7uEjZ9Vy), [草野華余子](https://open.spotify.com/artist/6X9mX9u8tgpvwgCbY5eQps) | [Tumbling Dice](https://open.spotify.com/album/4jb9nyEzQJGADKJSx9HZh9) | 3:29 | 2025-01-09 | 2025-01-29 |
 | [TURN OVER](https://open.spotify.com/track/6ziP75gvL7yO4ev2bykzvo) | [9Lana](https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ) | [TURN OVER](https://open.spotify.com/album/1qOkVrCsStW8IqpHzGfv7e) | 3:35 | 2025-07-01 | 2025-10-03 |
 | [Turn the World](https://open.spotify.com/track/1tZDf3bRkGIWYWz5Vme7uW) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [Turn the World](https://open.spotify.com/album/14urutw4gdRPSWG2J40X5F) | 4:03 | 2023-12-26 | 2024-01-12 |
-| [turquoise blue](https://open.spotify.com/track/1wd0jdbqt6tDGMcbqGp0kZ) | [楠木ともり](https://open.spotify.com/artist/0eic2NIS2q4R4jZpKSH7cr) | [turquoise blue](https://open.spotify.com/album/7GnsGYRUmKk8viX3qunbMt) | 3:21 | 2025-11-18 |  |
+| [turquoise blue](https://open.spotify.com/track/1wd0jdbqt6tDGMcbqGp0kZ) | [楠木ともり](https://open.spotify.com/artist/0eic2NIS2q4R4jZpKSH7cr) | [turquoise blue](https://open.spotify.com/album/7GnsGYRUmKk8viX3qunbMt) | 3:21 | 2025-11-18 | 2026-01-02 |
 | [TVアニメ「おとなりに銀河」EDテーマ「Near Stella」](https://open.spotify.com/track/2cxReBGGCVoJbcTTMMpJGz) | [五色しおり\(CV.和久井優\)](https://open.spotify.com/artist/3u0X3b3HJ5N3R6GI2yr7qZ) | [TVアニメ「おとなりに銀河」EDテーマ「Near Stella」](https://open.spotify.com/album/7ikJ3c2GJ7JlRnJEIbhgbm) | 4:08 | 2023-04-11 | 2023-05-10 |
 | [TVアニメ「時々ボソッとロシア語でデレる隣のアーリャさん」エンディングテーマ「学園天国」](https://open.spotify.com/track/2xFb0nytzmEGyPrSEDmTQd) | [アーリャ（CV：上坂すみれ）](https://open.spotify.com/artist/6T2BNiyW0J5qbP0t2MS2Bk) | [TVアニメ「時々ボソッとロシア語でデレる隣のアーリャさん」エンディングテーマ「学園天国」](https://open.spotify.com/album/7wLn8G04DjIAKw43h8puoy) | 2:37 | 2024-07-05 | 2024-07-17 |
 | [Twilight](https://open.spotify.com/track/4yxWbLnpTASrXZmiwEl77S) | [Rib](https://open.spotify.com/artist/4eO7EIigOqHaFTZD1oqK5f) | [Twilight \-TV Anime "TASOKARE HOTEL" Ending Theme\-](https://open.spotify.com/album/05GU1LKsQj85I2pdlz0Zk2) | 3:00 | 2025-01-16 | 2025-04-04 |
@@ -2249,6 +2249,7 @@
 | [貴方の側に。](https://open.spotify.com/track/6TTAZeyRDN03BHlhQ9Lq6L) | [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [貴方の側に。](https://open.spotify.com/album/4l2NmkiWx4EKEfZ1d4QXSM) | 4:02 | 2023-07-06 | 2023-10-11 |
 | [贅沢な匙](https://open.spotify.com/track/5ej7gjtseTV4h2avqPGff0) | [Van de Shop](https://open.spotify.com/artist/2AP6xm7ZJZtcLkN2pccaX9) | [贅沢な匙](https://open.spotify.com/album/1pWpjPxdiV4wYyjxBiZzsN) | 3:58 | 2023-01-17 | 2023-01-19 |
 | [贖罪](https://open.spotify.com/track/5nCNu4qC9WoVK5RLkvNJEL) | [SID](https://open.spotify.com/artist/24b231EnCM3BkpiuWs5VBE) | [贖罪](https://open.spotify.com/album/7dlmEwKRp2afa4Le7CKQ2f) | 3:57 | 2024-04-11 | 2024-06-13 |
+| [赤と青](https://open.spotify.com/track/0TWgH1UWUPj3FCycsSmSt9) | [四宮かぐや\(CV:古賀葵\)](https://open.spotify.com/artist/5dsjmUaFAqJvIN8PJ1n3Ay) | [赤と青](https://open.spotify.com/album/2KNtCxiHwzQiXAez1ATpjO) | 3:58 | 2026-01-01 |  |
 | [赤猫](https://open.spotify.com/track/1LHWCYSHXcIuCSUO8LvXJi) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [POP DELIVERY](https://open.spotify.com/album/4IDkrDJxwVgTiMzywkPF6x) | 3:34 | 2024-06-04 | 2024-10-04 |
 | [走れSAKAMOTO \- RUN SAKAMOTO RUN \- Opening theme to SAKAMOTO DAYS](https://open.spotify.com/track/4XObDlhGp6sREJoZj2lFv2) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [走れSAKAMOTO \- RUN SAKAMOTO RUN \- Opening theme to SAKAMOTO DAYS](https://open.spotify.com/album/7HHU5nfClWij4FgSIlXivY) | 3:25 | 2025-01-11 | 2025-04-11 |
 | [超える](https://open.spotify.com/track/1TH4Kmyu3QPe2J2BAe18FP) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [超える](https://open.spotify.com/album/1cxtxEcH2IIboiHWYYALoE) | 4:02 | 2025-04-05 | 2025-07-09 |

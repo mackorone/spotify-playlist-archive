@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4mMOIM.md) - [plain]
 | 34 | [strange hours](https://open.spotify.com/track/1m78OHYCAluDPjCfF5J4r5) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Material Control](https://open.spotify.com/album/3Z9dDwHYs6mPAW2BHoT4JZ) | 4:09 |
 | 35 | [golgotha](https://open.spotify.com/track/4sZuIfdLBqNXSUuNaAhw5j) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Material Control](https://open.spotify.com/album/3Z9dDwHYs6mPAW2BHoT4JZ) | 3:04 |
 
-Snapshot ID: `aVMWAAAAAACgX2IVzuwIk69mHGSbIbAB`
+Snapshot ID: `aVRngAAAAACzjBYHNAkDCVKJCV07Pbtv`

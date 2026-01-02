@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Tracks popping off in the Afro scene. Cover: Marioo",
+  "description": "Tracks popping off in the Afro scene. Cover: Khaid",
   "name": "Afro Station",
   "tracks": [
     {
@@ -2402,7 +2402,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 135499,
       "name": "BEBI",
       "url": "https://open.spotify.com/track/70klciBek95qMq7KiDX7zE"
@@ -2548,6 +2548,24 @@
       "duration_ms": 163846,
       "name": "Bella",
       "url": "https://open.spotify.com/track/5t9YMtyS1gtsHV9zHghrt2"
+    },
+    {
+      "album": {
+        "name": "Bella",
+        "url": "https://open.spotify.com/album/3BPr9LlezWLVq47htUccHp"
+      },
+      "artists": [
+        {
+          "name": "Kish",
+          "url": "https://open.spotify.com/artist/2gVFsWpxGngHu7qbYbj8Ci"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143299,
+      "name": "Bella",
+      "url": "https://open.spotify.com/track/06dSzmXW7o2j2ik8sg8fsE"
     },
     {
       "album": {
@@ -15609,6 +15627,28 @@
     },
     {
       "album": {
+        "name": "Paparazzi",
+        "url": "https://open.spotify.com/album/3y6KnQqXjVz7lK5gi9CuRX"
+      },
+      "artists": [
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        },
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147302,
+      "name": "Paparazzi",
+      "url": "https://open.spotify.com/track/7BhG41omZ3k1wwlNzIlCrm"
+    },
+    {
+      "album": {
         "name": "Para",
         "url": "https://open.spotify.com/album/2iU5X3vUdNMcAOXYqMC5OE"
       },
@@ -17754,7 +17794,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 137202,
       "name": "SHAKO MAKO",
       "url": "https://open.spotify.com/track/2eU8ChhO5OqUHKHsa6hnfs"

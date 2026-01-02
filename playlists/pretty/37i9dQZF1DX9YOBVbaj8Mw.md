@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 
 > Posłuchaj zwycięzców i nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,297 likes - 79 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,299 likes - 79 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 39 | [Sama na planecie](https://open.spotify.com/track/7vkqcXmr6nI81lTf6I4rUg) | [Natalia Szroeder](https://open.spotify.com/artist/2DhJauCHKgwVilZO9A8og3) | [REM](https://open.spotify.com/album/60pr4OenpcPMFiEkKObw6g) | 3:22 |
 | 40 | [PRZYJEDŹ](https://open.spotify.com/track/4n2ENH767mh8hQv6Q83uHS) | [Dominika Płonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8), [DZIARMA](https://open.spotify.com/artist/6LwJ1zgqEFyIwXzDD44Qsn), [Miroff](https://open.spotify.com/artist/6BanFN5Xaq11YYRogYOtnD), [ciiicho](https://open.spotify.com/artist/0rQ5OCXcg33fZtgN6hv76Z) | [DOMINIKA DANIELA](https://open.spotify.com/album/1XDk6ptjiofedB6LTtRKOK) | 2:29 |
 | 41 | [mleko i mood](https://open.spotify.com/track/3TfzSFyKBsbG1ozryAp2Pa) | [Ania Szlagowska](https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D) | [Pierwsza Płyta](https://open.spotify.com/album/72McWq9uYMN4JFg7JaL9MJ) | 3:22 |
-| 42 | [Tobie](https://open.spotify.com/track/4NEbNfStSM8HL2rKsOL485) | [Anna Rusowicz](https://open.spotify.com/artist/6IspiJXVuNtRG4FmiOyWoP) | [Dziewczyna Słońca](https://open.spotify.com/album/77sBcNUn2TzDDvYld2wIVL) | 5:36 |
-| 43 | [Pamiętam Cię](https://open.spotify.com/track/2GmyBjFYiWaErfxzd3Uefl) | [KĘPIŃSKI KOWALONEK](https://open.spotify.com/artist/3z84Fsj4Ob6F940y1FwXnk), [Krzysztof Zalewski](https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK), [Miro Kepinski](https://open.spotify.com/artist/4zM4iShKy7fOtcBQCJf3wG), [Michał Kowalonek](https://open.spotify.com/artist/3oIZFLMAjPpJjv74YpRl5O), [Prosta Sprawa](https://open.spotify.com/artist/3y9r1d2DF2zxxbC0eTBxdT) | [Prosta Sprawa \(Muzyka i piosenki z serialu\)](https://open.spotify.com/album/2aMLfHtrSlYr7SD8j2CBcr) | 3:16 |
+| 42 | [Pamiętam Cię](https://open.spotify.com/track/2GmyBjFYiWaErfxzd3Uefl) | [KĘPIŃSKI KOWALONEK](https://open.spotify.com/artist/3z84Fsj4Ob6F940y1FwXnk), [Krzysztof Zalewski](https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK), [Miro Kepinski](https://open.spotify.com/artist/4zM4iShKy7fOtcBQCJf3wG), [Michał Kowalonek](https://open.spotify.com/artist/3oIZFLMAjPpJjv74YpRl5O), [Prosta Sprawa](https://open.spotify.com/artist/3y9r1d2DF2zxxbC0eTBxdT) | [Prosta Sprawa \(Muzyka i piosenki z serialu\)](https://open.spotify.com/album/2aMLfHtrSlYr7SD8j2CBcr) | 3:16 |
+| 43 | [Tobie](https://open.spotify.com/track/4NEbNfStSM8HL2rKsOL485) | [Anna Rusowicz](https://open.spotify.com/artist/6IspiJXVuNtRG4FmiOyWoP) | [Dziewczyna Słońca](https://open.spotify.com/album/77sBcNUn2TzDDvYld2wIVL) | 5:36 |
 | 44 | [Lata](https://open.spotify.com/track/1DNRoUTNpJrCQ8GubYLIT7) | [Bisz](https://open.spotify.com/artist/4PpHZwqxdYMMnLkYJ83vUJ), [KOSA](https://open.spotify.com/artist/3pTM3cYf2uOfZvlxW7zFY4) | [Lata](https://open.spotify.com/album/0ce2J8wUxDd8V4KsEhejwN) | 3:12 |
 | 45 | [Kozak](https://open.spotify.com/track/2wFlYA0aXE6oVz9BWgmhLX) | [Błoto](https://open.spotify.com/artist/28k8arToA1cflcvaH5T4Zv) | [Grzybnia](https://open.spotify.com/album/25Fegxpmg9CEEjCqTnbxg6) | 2:53 |
 | 46 | [Ballada o Niej \(Live, 92'\)](https://open.spotify.com/track/5I4mvKqIljirw2PC7wSOvK) | [Daria Zawiałow](https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx) | [Ballada o Niej](https://open.spotify.com/album/7h0D9tTxbdy41v52chuWKK) | 4:29 |

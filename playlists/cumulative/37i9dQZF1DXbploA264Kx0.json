@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Night Keepers (\u5b88\u591c\u4eba)",
+  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: CClaire (\u99ac\u6137\u4f36)",
   "name": "The Sound of Formosa",
   "tracks": [
     {
@@ -1725,6 +1725,24 @@
     },
     {
       "album": {
+        "name": "DON'T fall asleep",
+        "url": "https://open.spotify.com/album/5fwPeG4FsyZxz9ZigFICdy"
+      },
+      "artists": [
+        {
+          "name": "CClaire \u99ac\u6137\u4f36",
+          "url": "https://open.spotify.com/artist/61G4xTzT6aWI7CyJBhY79o"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199250,
+      "name": "DON'T fall asleep",
+      "url": "https://open.spotify.com/track/2O0RGE3IEuAASxncchyAZo"
+    },
+    {
+      "album": {
         "name": "Don't Know Why",
         "url": "https://open.spotify.com/album/6T7rNwPedpUw87DnVJWekC"
       },
@@ -2106,6 +2124,24 @@
       "duration_ms": 178955,
       "name": "eyes off u.",
       "url": "https://open.spotify.com/track/0hRXZJO5rCxvWfcUXHPTmN"
+    },
+    {
+      "album": {
+        "name": "Into The Toxicity / Eyes On Me",
+        "url": "https://open.spotify.com/album/5UjzDykoSqhl2PA4MFQnrg"
+      },
+      "artists": [
+        {
+          "name": "Toxic Wraith",
+          "url": "https://open.spotify.com/artist/7IzlaNBh2EWdsR6xIOp9Bb"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129436,
+      "name": "Eyes On Me",
+      "url": "https://open.spotify.com/track/4SgMTZDCsVGrXQzdHVIuSp"
     },
     {
       "album": {
@@ -2532,6 +2568,24 @@
       "duration_ms": 205625,
       "name": "fragrance - Remix",
       "url": "https://open.spotify.com/track/0XgI8qpDq9hR84Sh1weOtk"
+    },
+    {
+      "album": {
+        "name": "Free Man",
+        "url": "https://open.spotify.com/album/197ys0kWdRFj1rJKwW80x7"
+      },
+      "artists": [
+        {
+          "name": "\u91ce\u6771\u897f",
+          "url": "https://open.spotify.com/artist/4rPhceoKF0tyntcBKJ8NX5"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183484,
+      "name": "Free Man",
+      "url": "https://open.spotify.com/track/2hjIuu9h5iAlPl5KVsTle6"
     },
     {
       "album": {
@@ -3278,7 +3332,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 236883,
       "name": "Hush Between Waves",
       "url": "https://open.spotify.com/track/3IveU4KSU8kI2IwaiEg3He"
@@ -5910,7 +5964,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 280293,
       "name": "readme.txt",
       "url": "https://open.spotify.com/track/6JPQHjnrgrywPniro1VWCP"
@@ -7532,7 +7586,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 218400,
       "name": "TISSUE",
       "url": "https://open.spotify.com/track/56UNozDGwGf1d9mWuxY2vL"

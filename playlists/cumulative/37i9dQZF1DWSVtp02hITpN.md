@@ -2,7 +2,7 @@
 
 ### [The Pop List](https://open.spotify.com/playlist/37i9dQZF1DWSVtp02hITpN)
 
-> The best pop music right now ft\. Tyla
+> The best pop music right now ft\. RAYE
 
 676 songs - 1 day 11 hr 33 min
 

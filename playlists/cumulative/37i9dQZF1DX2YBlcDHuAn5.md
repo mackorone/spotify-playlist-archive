@@ -4,7 +4,7 @@
 
 > De mooiste muziek: Americana \| Country
 
-275 songs - 16 hr 12 min
+276 songs - 16 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Lot More Free](https://open.spotify.com/track/0duALa6UlxVWqEqpmhv73p) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [A Lot More Free](https://open.spotify.com/album/3Sh0mtX324JgZ6UXvzgD47) | 3:18 | 2024-11-08 | 2025-02-21 |
 | [About Heartaches And Being Blue](https://open.spotify.com/track/6L9HQyvVHToVbjtXMjJqxw) | [Timo de Jong](https://open.spotify.com/artist/0T34mF36A6mzLMqC0uoz7x) | [About Heartaches And Being Blue](https://open.spotify.com/album/3br2mgNzpyHDkqpqTyINuG) | 2:33 | 2025-02-27 | 2025-03-14 |
 | [Aiming High](https://open.spotify.com/track/2awmxdY36BxGuK80wxHIFE) | [Quinty van der Geest](https://open.spotify.com/artist/2A2lTcBiJUYRfbMVtdtwW2) | [Aiming High](https://open.spotify.com/album/1oTL2vaBXveBK8KbrOfbzY) | 3:21 | 2025-02-20 | 2025-05-16 |
+| [Ain't Got Much](https://open.spotify.com/track/47r812zfBQ4Y9zU2etcurT) | [Laszlo Buring](https://open.spotify.com/artist/6kbW02tas61aq5jleDU4kz) | [Wild One](https://open.spotify.com/album/2BfGsBUD1wumwqxcYa7KgO) | 3:42 | 2025-12-18 |  |
 | [Ain't No Running Around It](https://open.spotify.com/track/5AER6dbu2vF5W1fI8lcpoX) | [Bertolf](https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty), [Nomden](https://open.spotify.com/artist/3gcuehaPKk7YQiNG19k4fX) | [Ain't No Running Around It](https://open.spotify.com/album/4s7TyXJR2VHbobDIIp1JjE) | 2:52 | 2025-11-06 |  |
 | [All Behind](https://open.spotify.com/track/0zqTjVEqt6YsLG1DwLWW9E) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [All Behind](https://open.spotify.com/album/3Vtcyh9oWdZtNFrikeONaZ) | 4:05 | 2025-09-15 |  |
 | [All Good](https://open.spotify.com/track/51imPDYWGqCNEA94TsBHhS) | [Tip Jar](https://open.spotify.com/artist/0efqZTMypVgrLzEb7syIOT) | [All Good](https://open.spotify.com/album/5FWV48bFKI7v4vWEPN7x2t) | 3:06 | 2024-07-25 | 2025-01-17 |
@@ -35,7 +36,7 @@
 | [Birds Of Prey](https://open.spotify.com/track/2PeQibwp5iKppdDraL9GOo) | [Dawn Brothers](https://open.spotify.com/artist/05vyC7M8P5Wr120O1yTv6a) | [Late to the Party / Birds of Prey](https://open.spotify.com/album/3Pw85XzPIMj9vW7RZKjJiX) | 2:15 | 2025-10-31 |  |
 | [Bittersweet](https://open.spotify.com/track/4gitlSJ8ksxAMhmHxNKjNl) | [Rich McFeather](https://open.spotify.com/artist/1DGm9DpMlUDYqSYAbvfpqm) | [Bittersweet](https://open.spotify.com/album/3l4OdclVUWDKoS3G3qT1Rb) | 3:35 | 2023-03-16 | 2024-06-28 |
 | [Black Train](https://open.spotify.com/track/689ik4NbmpQeVmm99AjJq2) | [A Murder in Mississippi](https://open.spotify.com/artist/3iuF2R8o2xej4ZdbWdiNom) | [Black Train](https://open.spotify.com/album/4CZkAnPYSzhYa1eAVNpKt3) | 3:57 | 2024-11-08 | 2025-01-29 |
-| [Bottom of a Bottle](https://open.spotify.com/track/07dTr0jqXwYbMiOoLjfHri) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Bottom of a Bottle](https://open.spotify.com/album/4V5J6rRicjzvdoqQcgNdt6) | 3:56 | 2025-04-17 |  |
+| [Bottom of a Bottle](https://open.spotify.com/track/07dTr0jqXwYbMiOoLjfHri) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Bottom of a Bottle](https://open.spotify.com/album/4V5J6rRicjzvdoqQcgNdt6) | 3:56 | 2025-04-17 | 2026-01-02 |
 | [Breathless](https://open.spotify.com/track/2NCTklsgFuF3A02OZ8HwRe) | [INA ROSE](https://open.spotify.com/artist/19ehJM5qKnIvJ1KXOnKddA) | [The Reins](https://open.spotify.com/album/2K9DzxhjXaYVZeVvMaGXhX) | 3:24 | 2025-03-20 | 2025-04-18 |
 | [Buckle Down](https://open.spotify.com/track/2B0dpsOLbVaofyXuHBhxsY) | [Melanie Ryan](https://open.spotify.com/artist/1ReNCqNlGVnBM4RGOWkUK4) | [Buckle Down](https://open.spotify.com/album/39YthQpPlhl9T1w28OS8f2) | 2:46 | 2025-07-10 |  |
 | [Built And Broken](https://open.spotify.com/track/2oLl22EdWPR8u8hTtfgBPS) | [Blackbird](https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL) | [Built And Broken](https://open.spotify.com/album/3nSk18ZELTQqgdSYJBeZ1m) | 4:28 | 2023-02-23 | 2024-09-13 |

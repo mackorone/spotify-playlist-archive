@@ -4651,6 +4651,24 @@
     },
     {
       "album": {
+        "name": "KIM JESTEM",
+        "url": "https://open.spotify.com/album/4FzZskoqscPxv0SS516aMj"
+      },
+      "artists": [
+        {
+          "name": "Hi Hania",
+          "url": "https://open.spotify.com/artist/0kKd8tAFuoSpZ3zXe5vgkH"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147969,
+      "name": "KIM JESTEM",
+      "url": "https://open.spotify.com/track/6QYbfua2qXDFqPoU4ETNpV"
+    },
+    {
+      "album": {
         "name": "Terminal 3",
         "url": "https://open.spotify.com/album/1gSTT7TKMLWf5UOeP9vIcS"
       },
@@ -8471,6 +8489,28 @@
     },
     {
       "album": {
+        "name": "Oko Za Oko (Myszkovski Remix)",
+        "url": "https://open.spotify.com/album/7jSWhC1Wzr9tVbcS4yu3aL"
+      },
+      "artists": [
+        {
+          "name": "Justyna Steczkowska",
+          "url": "https://open.spotify.com/artist/4MoS5osilxUivShOUtUoZP"
+        },
+        {
+          "name": "MYSZKOVSKI",
+          "url": "https://open.spotify.com/artist/5qjwLgPkHomFcvvyNtFHpy"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171111,
+      "name": "Oko Za Oko - Myszkovski Remix",
+      "url": "https://open.spotify.com/track/3efML6VoDgAK6Tym4nM78z"
+    },
+    {
+      "album": {
         "name": "B\u0142ysk",
         "url": "https://open.spotify.com/album/12jeJg4lxOroEx0jS575KH"
       },
@@ -10172,7 +10212,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 180240,
       "name": "Rzeka",
       "url": "https://open.spotify.com/track/3tjABLsXoFCxoGmj2O6L6S"
@@ -10616,7 +10656,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 193965,
       "name": "Sianokosy",
       "url": "https://open.spotify.com/track/75fleacPWnXaCfjJgOzVci"

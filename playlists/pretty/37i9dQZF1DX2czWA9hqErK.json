@@ -1,6 +1,6 @@
 {
   "description": "Sunday morning whenever you like",
-  "num_followers": 1333231,
+  "num_followers": 1333173,
   "original_name": "Easy",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,6 @@
     {
       "added_at": "2025-12-31 13:31:08",
       "album": {
-        "name": "So Close To What",
-        "url": "https://open.spotify.com/album/6KaEpgeZQF6ZVVAmSoZUrb"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 183499,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/3Mk7IafwNuQdFQda1XI5PE"
-    },
-    {
-      "added_at": "2025-12-31 13:31:08",
-      "album": {
         "name": "breaking news",
         "url": "https://open.spotify.com/album/32pkmWSgB4V9UTJnqIzPp7"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 161075,
       "name": "breaking news",
       "url": "https://open.spotify.com/track/654XTpkoachnc4HT2Fi3Fn"
+    },
+    {
+      "added_at": "2025-12-31 13:31:08",
+      "album": {
+        "name": "So Close To What",
+        "url": "https://open.spotify.com/album/6KaEpgeZQF6ZVVAmSoZUrb"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 183499,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/3Mk7IafwNuQdFQda1XI5PE"
     },
     {
       "added_at": "2025-12-31 13:31:08",
@@ -647,22 +647,6 @@
     {
       "added_at": "2025-12-31 13:31:08",
       "album": {
-        "name": "My First Heartbreak",
-        "url": "https://open.spotify.com/album/7mJjkh7HKfdoQTlhQ9BwNm"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 206800,
-      "name": "My First Heartbreak",
-      "url": "https://open.spotify.com/track/5gbUP33wFJPawjY5DxR3OA"
-    },
-    {
-      "added_at": "2025-12-31 13:31:08",
-      "album": {
         "name": "Falling Into Place (ft. Debbie)",
         "url": "https://open.spotify.com/album/6sENhdUvrgQR2wX3YTA5Ed"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 200000,
       "name": "Falling Into Place (ft. Debbie)",
       "url": "https://open.spotify.com/track/6Q5Tzu7kSzLjVHVAWwnT0N"
+    },
+    {
+      "added_at": "2025-12-31 13:31:08",
+      "album": {
+        "name": "My First Heartbreak",
+        "url": "https://open.spotify.com/album/7mJjkh7HKfdoQTlhQ9BwNm"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 206800,
+      "name": "My First Heartbreak",
+      "url": "https://open.spotify.com/track/5gbUP33wFJPawjY5DxR3OA"
     },
     {
       "added_at": "2025-12-31 13:31:08",
@@ -891,22 +891,6 @@
     {
       "added_at": "2025-12-31 13:31:08",
       "album": {
-        "name": "The Great Impersonator",
-        "url": "https://open.spotify.com/album/4C23ofFqNhsaAEkThw2yRB"
-      },
-      "artists": [
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        }
-      ],
-      "duration_ms": 216006,
-      "name": "Panic Attack",
-      "url": "https://open.spotify.com/track/5OKyVJq7nRnWfBbsiCiyfb"
-    },
-    {
-      "added_at": "2025-12-31 13:31:08",
-      "album": {
         "name": "I Can\u2019t Believe We Never Went Out Dancing",
         "url": "https://open.spotify.com/album/1MenqIX29GExcRwMxEqkhE"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 224093,
       "name": "I Can\u2019t Believe We Never Went Out Dancing",
       "url": "https://open.spotify.com/track/3lHK21L8Kf4Ajdwhjh0zDm"
+    },
+    {
+      "added_at": "2025-12-31 13:31:08",
+      "album": {
+        "name": "The Great Impersonator",
+        "url": "https://open.spotify.com/album/4C23ofFqNhsaAEkThw2yRB"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 216006,
+      "name": "Panic Attack",
+      "url": "https://open.spotify.com/track/5OKyVJq7nRnWfBbsiCiyfb"
     },
     {
       "added_at": "2025-12-31 13:31:08",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2025-12-31 13:31:08",
       "album": {
-        "name": "The Boy Who Can't Be Named",
-        "url": "https://open.spotify.com/album/7oOEBdD1KrqQFQwwfNYo9z"
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/1GuTKVeOdoJSNaMZadsL5c"
       },
       "artists": [
         {
-          "name": "Grace Gachot",
-          "url": "https://open.spotify.com/artist/1viwLnZpOs9iGIe3PP3aoJ"
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
         }
       ],
-      "duration_ms": 211542,
-      "name": "The Boy Who Can't Be Named",
-      "url": "https://open.spotify.com/track/5SNghL75oVdOKr5z1qAoOi"
+      "duration_ms": 171901,
+      "name": "Fade Into A Dream",
+      "url": "https://open.spotify.com/track/35iZzmaczlIzgSoThF3WdI"
     },
     {
       "added_at": "2025-12-31 13:31:08",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2025-12-31 13:31:08",
       "album": {
-        "name": "Circles",
-        "url": "https://open.spotify.com/album/1GuTKVeOdoJSNaMZadsL5c"
+        "name": "The Boy Who Can't Be Named",
+        "url": "https://open.spotify.com/album/7oOEBdD1KrqQFQwwfNYo9z"
       },
       "artists": [
         {
-          "name": "L\u00c9ON",
-          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
+          "name": "Grace Gachot",
+          "url": "https://open.spotify.com/artist/1viwLnZpOs9iGIe3PP3aoJ"
         }
       ],
-      "duration_ms": 171901,
-      "name": "Fade Into A Dream",
-      "url": "https://open.spotify.com/track/35iZzmaczlIzgSoThF3WdI"
+      "duration_ms": 211542,
+      "name": "The Boy Who Can't Be Named",
+      "url": "https://open.spotify.com/track/5SNghL75oVdOKr5z1qAoOi"
     },
     {
       "added_at": "2025-12-31 13:31:08",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2025-12-31 13:31:08",
       "album": {
-        "name": "Olive Tree",
-        "url": "https://open.spotify.com/album/16PHvU7FdshoSHOOizxOEG"
-      },
-      "artists": [
-        {
-          "name": "Quinn XCII",
-          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
-        }
-      ],
-      "duration_ms": 241060,
-      "name": "Olive Tree",
-      "url": "https://open.spotify.com/track/52vHgE4QfUoEyn8h3IqT7T"
-    },
-    {
-      "added_at": "2025-12-31 13:31:08",
-      "album": {
         "name": "The Greatest Love",
         "url": "https://open.spotify.com/album/3jlE37AdgcZbfsfyMutyCE"
       },
@@ -1187,18 +1171,18 @@
     {
       "added_at": "2025-12-31 13:31:08",
       "album": {
-        "name": "This Must Be Love",
-        "url": "https://open.spotify.com/album/61SlbP9mxTiEp36mM0Rfsw"
+        "name": "Olive Tree",
+        "url": "https://open.spotify.com/album/16PHvU7FdshoSHOOizxOEG"
       },
       "artists": [
         {
-          "name": "Declan J Donovan",
-          "url": "https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r"
+          "name": "Quinn XCII",
+          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
         }
       ],
-      "duration_ms": 167459,
-      "name": "This Must Be Love",
-      "url": "https://open.spotify.com/track/1c7LMtPdhpiGO9ZddQBycK"
+      "duration_ms": 241060,
+      "name": "Olive Tree",
+      "url": "https://open.spotify.com/track/52vHgE4QfUoEyn8h3IqT7T"
     },
     {
       "added_at": "2025-12-31 13:31:08",
@@ -1215,6 +1199,22 @@
       "duration_ms": 210691,
       "name": "Reach Out And Kiss Me",
       "url": "https://open.spotify.com/track/59Qv0E4uhUEdJIElLFiN8N"
+    },
+    {
+      "added_at": "2025-12-31 13:31:08",
+      "album": {
+        "name": "This Must Be Love",
+        "url": "https://open.spotify.com/album/61SlbP9mxTiEp36mM0Rfsw"
+      },
+      "artists": [
+        {
+          "name": "Declan J Donovan",
+          "url": "https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r"
+        }
+      ],
+      "duration_ms": 167459,
+      "name": "This Must Be Love",
+      "url": "https://open.spotify.com/track/1c7LMtPdhpiGO9ZddQBycK"
     },
     {
       "added_at": "2025-12-31 13:31:08",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2025-12-31 13:31:08",
       "album": {
-        "name": "evergreen",
-        "url": "https://open.spotify.com/album/6BDnFsPcBzy9tV1n22Dez3"
-      },
-      "artists": [
-        {
-          "name": "s\u00f8d ven",
-          "url": "https://open.spotify.com/artist/6Gt5kTPVe7tuYK44gRPVdJ"
-        }
-      ],
-      "duration_ms": 179600,
-      "name": "evergreen",
-      "url": "https://open.spotify.com/track/5MgPSPCD90L8hq5U1nZRmB"
-    },
-    {
-      "added_at": "2025-12-31 13:31:08",
-      "album": {
         "name": "One Door Closes (feat. Breland)",
         "url": "https://open.spotify.com/album/5AOYmjNyAFYXsceGhAB6Dr"
       },
@@ -1415,6 +1399,22 @@
     {
       "added_at": "2025-12-31 13:31:08",
       "album": {
+        "name": "evergreen",
+        "url": "https://open.spotify.com/album/6BDnFsPcBzy9tV1n22Dez3"
+      },
+      "artists": [
+        {
+          "name": "s\u00f8d ven",
+          "url": "https://open.spotify.com/artist/6Gt5kTPVe7tuYK44gRPVdJ"
+        }
+      ],
+      "duration_ms": 179600,
+      "name": "evergreen",
+      "url": "https://open.spotify.com/track/5MgPSPCD90L8hq5U1nZRmB"
+    },
+    {
+      "added_at": "2025-12-31 13:31:08",
+      "album": {
         "name": "damn, look at the view !",
         "url": "https://open.spotify.com/album/28jKFEY7mlMSnRS9i6Ryu8"
       },
@@ -1427,38 +1427,6 @@
       "duration_ms": 217419,
       "name": "walking on air",
       "url": "https://open.spotify.com/track/1rDRnm0ZnCe9sMaMbXLxpU"
-    },
-    {
-      "added_at": "2025-12-31 13:31:08",
-      "album": {
-        "name": "backwards loving",
-        "url": "https://open.spotify.com/album/0zUmHIH9PEE2SICrIppPe4"
-      },
-      "artists": [
-        {
-          "name": "Tia Gordon",
-          "url": "https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "backwards loving",
-      "url": "https://open.spotify.com/track/0YXpXUlsDBIbHZMIrSyHym"
-    },
-    {
-      "added_at": "2025-12-31 13:31:08",
-      "album": {
-        "name": "Lucky",
-        "url": "https://open.spotify.com/album/1JEUHMVkly5YTMeNgz46Js"
-      },
-      "artists": [
-        {
-          "name": "Dora Jar",
-          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
-        }
-      ],
-      "duration_ms": 148906,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/4FsxBPxqq3pN5UkpqMz6js"
     },
     {
       "added_at": "2025-12-31 13:31:08",
@@ -1479,6 +1447,38 @@
       "duration_ms": 140484,
       "name": "Beautiful That Way - from The Last Showgirl Original Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/3KY6LuQngmpeNAl55Kxy1A"
+    },
+    {
+      "added_at": "2025-12-31 13:31:08",
+      "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/1JEUHMVkly5YTMeNgz46Js"
+      },
+      "artists": [
+        {
+          "name": "Dora Jar",
+          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
+        }
+      ],
+      "duration_ms": 148906,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/4FsxBPxqq3pN5UkpqMz6js"
+    },
+    {
+      "added_at": "2025-12-31 13:31:08",
+      "album": {
+        "name": "backwards loving",
+        "url": "https://open.spotify.com/album/0zUmHIH9PEE2SICrIppPe4"
+      },
+      "artists": [
+        {
+          "name": "Tia Gordon",
+          "url": "https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "backwards loving",
+      "url": "https://open.spotify.com/track/0YXpXUlsDBIbHZMIrSyHym"
     },
     {
       "added_at": "2025-12-31 13:31:08",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2025-12-31 13:31:08",
       "album": {
+        "name": "Sweet Nothings",
+        "url": "https://open.spotify.com/album/1RIPgsTPa4rOwfVlyG6nMh"
+      },
+      "artists": [
+        {
+          "name": "Mychelle",
+          "url": "https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Sweet Nothings",
+      "url": "https://open.spotify.com/track/5Lxwdlm1ZBnTwZi7CSudpx"
+    },
+    {
+      "added_at": "2025-12-31 13:31:08",
+      "album": {
         "name": "About U: One Year On",
         "url": "https://open.spotify.com/album/7HaFj1HOC2Q1viS1lpCAGX"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 291538,
       "name": "I Know A Place - Acoustic",
       "url": "https://open.spotify.com/track/7tMc9X5fX4fcEttj2dNLYI"
-    },
-    {
-      "added_at": "2025-12-31 13:31:08",
-      "album": {
-        "name": "Save My Heart",
-        "url": "https://open.spotify.com/album/6nfMJRyxIK6K3RtTmPXEsL"
-      },
-      "artists": [
-        {
-          "name": "Bradley Marshall",
-          "url": "https://open.spotify.com/artist/41l2yNxDG4VydqE4lvbm1y"
-        }
-      ],
-      "duration_ms": 181260,
-      "name": "Save My Heart",
-      "url": "https://open.spotify.com/track/1ffuj3LkTKRj20507nRwMl"
     },
     {
       "added_at": "2025-12-31 13:31:08",

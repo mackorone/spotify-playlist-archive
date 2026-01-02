@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Midas Alonso.",
+  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. GRECAS.",
   "name": "Rap Espa\u00f1ol",
   "tracks": [
     {
@@ -150,6 +150,28 @@
       "duration_ms": 175384,
       "name": "21",
       "url": "https://open.spotify.com/track/2hbVaLfNRekMmFxTvpVrqe"
+    },
+    {
+      "album": {
+        "name": "28",
+        "url": "https://open.spotify.com/album/1bnobP9pePoT8mokdtx5po"
+      },
+      "artists": [
+        {
+          "name": "Noche",
+          "url": "https://open.spotify.com/artist/6NZGyfzzigXWOI1HvNxwhR"
+        },
+        {
+          "name": "Havni",
+          "url": "https://open.spotify.com/artist/07PTSHyzwYQIsaevttLTuw"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116235,
+      "name": "28",
+      "url": "https://open.spotify.com/track/19zq9g4uxKjOftSrsYUO87"
     },
     {
       "album": {
@@ -3422,7 +3444,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 173714,
       "name": "Culpable",
       "url": "https://open.spotify.com/track/4RUj59SRDTP69tIgPZVPMz"
@@ -6272,7 +6294,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 196333,
       "name": "Hood Films",
       "url": "https://open.spotify.com/track/1HRdteN4kiDLp5yzrnX4OJ"
@@ -6378,7 +6400,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 167314,
       "name": "I Like It",
       "url": "https://open.spotify.com/track/3ixaNvKp4V53w7GOS81K9C"
@@ -8268,6 +8290,24 @@
       "duration_ms": 184440,
       "name": "Lupin",
       "url": "https://open.spotify.com/track/7CFY34kDCYTBzVCIy4uzAZ"
+    },
+    {
+      "album": {
+        "name": "Ma G",
+        "url": "https://open.spotify.com/album/2cyY55VQqca2QjDwLnD2Fl"
+      },
+      "artists": [
+        {
+          "name": "Nadal015",
+          "url": "https://open.spotify.com/artist/4XV4e5IqR6DKCJMJWuG7Vi"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181484,
+      "name": "Ma G",
+      "url": "https://open.spotify.com/track/7pyBoDsuAYGVaWH5Rm1vWy"
     },
     {
       "album": {
@@ -14570,6 +14610,24 @@
       "duration_ms": 169987,
       "name": "Vacilando en un Carro",
       "url": "https://open.spotify.com/track/2mFXLj1kOGPfsQpmic8j2P"
+    },
+    {
+      "album": {
+        "name": "Vaiv\u00e9n",
+        "url": "https://open.spotify.com/album/1IXVyAqHBxDDQl5FQ1cCEs"
+      },
+      "artists": [
+        {
+          "name": "Niko 2yp'",
+          "url": "https://open.spotify.com/artist/1jHW7EHplAdXo4N6gTS4e5"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148869,
+      "name": "Vaiv\u00e9n",
+      "url": "https://open.spotify.com/track/1JwmMWreFmS5JN21mp1w7B"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [Coupé Décalé](https://open.spotify.com/playlist/37i9dQZF1DX0z1epx5KTtS)
 
-> The best of Coupé Décalé and Biama from the continent to Paris\. Photo : Kedjevara
+> The best of Coupé Décalé and Biama from the continent to Paris\. Photo : Team Paiya
 
 271 songs - 14 hr 53 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWk3H3alyUrW.md) - [plain]
 
 > Enjoy these songs while you eat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,284 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,286 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWk3H3alyUrW.md) - [plain]
 | 10 | [Bêyhude](https://open.spotify.com/track/7L6tBeNGziFlFTRrMUs6ZR) | [Yansımalar](https://open.spotify.com/artist/4jsnmssl9zb8t0liXybjYD) | [Pervane](https://open.spotify.com/album/4TYxBvC1kIzNt96Aj9nZQF) | 5:11 |
 | 11 | [Küçük Hanımın Öyküsü](https://open.spotify.com/track/5TY78HrCLxdMsgIjFm5Alz) | [Göksel Baktagir](https://open.spotify.com/artist/5AjOM8Kxmb2hNi9Gq2p9Zp) | [Okyanustaki Sesler, Vol.2 / Cananım](https://open.spotify.com/album/3KbAvYAjZrwFJ5MSVlMVNc) | 2:48 |
 | 12 | [Fikrimin İnce Gülü](https://open.spotify.com/track/22BI3CICtIL7SuVEvx3Jqo) | [Kemal Bor](https://open.spotify.com/artist/3A9o4jwx2R0vYlugv6eAeg) | [Osmanlı Sarayı Musikisi](https://open.spotify.com/album/7wo4Bh8M3v71zW9f71lPH9) | 3:11 |
-| 13 | [Tanbur Taksimi](https://open.spotify.com/track/65hJb6nxK7LOa6FxzxVLT0) | [Emirgan Ensemble](https://open.spotify.com/artist/73uzPWSImvq2Rt56zniCgb) | [Klasik Osmanlı Müziği](https://open.spotify.com/album/0bHtveNoSLgpCk68vb4pfy) | 2:56 |
-| 14 | [Kürdîlihicazkâr Saz Semaisi](https://open.spotify.com/track/1FxCKdNDYX5WxbE4cqo9fc) | [Osman Nuri Özpekel](https://open.spotify.com/artist/36I388VGjjxW8N3wnkk5hJ), [Taner Sayacıoğlu](https://open.spotify.com/artist/4TXaR1eL0pdHwrkjrw3KEl) | [Reşat Aysu Saz Semâileri](https://open.spotify.com/album/0csKseIHu3FOs874GziEUJ) | 5:03 |
+| 13 | [Kürdîlihicazkâr Saz Semaisi](https://open.spotify.com/track/1FxCKdNDYX5WxbE4cqo9fc) | [Osman Nuri Özpekel](https://open.spotify.com/artist/36I388VGjjxW8N3wnkk5hJ), [Taner Sayacıoğlu](https://open.spotify.com/artist/4TXaR1eL0pdHwrkjrw3KEl) | [Reşat Aysu Saz Semâileri](https://open.spotify.com/album/0csKseIHu3FOs874GziEUJ) | 5:03 |
+| 14 | [Tanbur Taksimi](https://open.spotify.com/track/65hJb6nxK7LOa6FxzxVLT0) | [Emirgan Ensemble](https://open.spotify.com/artist/73uzPWSImvq2Rt56zniCgb) | [Klasik Osmanlı Müziği](https://open.spotify.com/album/0bHtveNoSLgpCk68vb4pfy) | 2:56 |
 | 15 | [Kayıkçı \(Navavar\)](https://open.spotify.com/track/6hY2JKtW8bVFG8MgiqZbSc) | [Yansımalar](https://open.spotify.com/artist/4jsnmssl9zb8t0liXybjYD), [Suren Asaduryan](https://open.spotify.com/artist/2NYsV8cVDAZ5APi9r1UVxk) | [Vuslat](https://open.spotify.com/album/3z5rHDWpsVH1KXgrP4Tbhj) | 3:07 |
 | 16 | [Yeniden Doğmak](https://open.spotify.com/track/0kFXWLSog6fxmZsZmbECq2) | [Göksel Baktagir](https://open.spotify.com/artist/5AjOM8Kxmb2hNi9Gq2p9Zp), [Ceyhun Çelikten](https://open.spotify.com/artist/00Cjagp6pAVNHfzbPYzzki) | [Boğaziçi Hayal Gibi](https://open.spotify.com/album/26rfwfgXgdB8XU74eincXS) | 7:02 |
 | 17 | [Turkish Coffee](https://open.spotify.com/track/3169aUzrWTznvVupy1f20E) | [Basel Rajoub](https://open.spotify.com/artist/68rxFd814z29ByrpJtXcNp) | [Khameer](https://open.spotify.com/album/1nGR5fdDSZrUkeUrdbPxDC) | 4:24 |

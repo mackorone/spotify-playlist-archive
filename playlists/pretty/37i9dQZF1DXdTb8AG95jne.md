@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: 유라 \(youra\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 511,884 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 511,860 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 49 | [Hamba Kahle](https://open.spotify.com/track/314EYx2dRG3rTJWdATgmPW) | [Song Sohee](https://open.spotify.com/artist/4YYi3ZB0jCYkNx9Fi3Z5AW) | [Re:5](https://open.spotify.com/album/0KJIqvPwmAu5tVzbYHhige) | 3:30 |
 | 50 | [Repeat](https://open.spotify.com/track/5tTC637btBwKIzo7pbYWXY) | [HYUN SEO](https://open.spotify.com/artist/5Thqo7OXD8aLIGAn9KLCsl) | [Repeat](https://open.spotify.com/album/1km6JCEwrkD8W1e1Pg7mPS) | 2:44 |
 
-Snapshot ID: `AAAAAO+yEKE4G3bGsUW8nJIGeDwF9EP+`
+Snapshot ID: `AAAAAECI0/QV55+iUWWGhffvfVEK3/XC`

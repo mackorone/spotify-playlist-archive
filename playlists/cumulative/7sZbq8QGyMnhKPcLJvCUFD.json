@@ -449,6 +449,28 @@
     },
     {
       "album": {
+        "name": "All In My Head",
+        "url": "https://open.spotify.com/album/6sodqAChgdZX5pR2tCuXfs"
+      },
+      "artists": [
+        {
+          "name": "Rameses B",
+          "url": "https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO"
+        },
+        {
+          "name": "Southby",
+          "url": "https://open.spotify.com/artist/4VmXTR5qZMpVBKPszYvoMK"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184137,
+      "name": "All In My Head",
+      "url": "https://open.spotify.com/track/6m9QICIVcwpLZipsNmMXRK"
+    },
+    {
+      "album": {
         "name": "All Night",
         "url": "https://open.spotify.com/album/7aMZWSmXeJEqU7RMLxALvc"
       },

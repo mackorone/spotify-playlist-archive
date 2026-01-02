@@ -1,12 +1,12 @@
 {
   "description": "This is Michael Jackson. The essential tracks, all in one playlist.",
-  "num_followers": 3034858,
+  "num_followers": 3035108,
   "original_name": "This Is Michael Jackson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVMWAAAAAAChbaEo83ALevZcaRddXoOC",
+  "snapshot_id": "aVRngAAAAAA+bFKhFJTAf5b7/3btVxw4",
   "tracks": [
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HIStory - PAST, PRESENT AND FUTURE - BOOK I",
-        "url": "https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 344185,
-      "name": "Stranger in Moscow",
-      "url": "https://open.spotify.com/track/64KrFHj9p5AyCX2yZQr4YJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Essential Michael Jackson",
         "url": "https://open.spotify.com/album/77dNyQA0z8dV33M4so4eRY"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 224015,
       "name": "Will You Be There - Single Version",
       "url": "https://open.spotify.com/track/36O7qmyKLHpUY6WdWh8M5g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HIStory - PAST, PRESENT AND FUTURE - BOOK I",
+        "url": "https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 344185,
+      "name": "Stranger in Moscow",
+      "url": "https://open.spotify.com/track/64KrFHj9p5AyCX2yZQr4YJ"
     },
     {
       "added_at": null,
@@ -671,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "XSCAPE",
+        "url": "https://open.spotify.com/album/7pomP86PUhoJpY3fsC0WDQ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 335133,
+      "name": "A Place With No Name",
+      "url": "https://open.spotify.com/track/35SI5zFEhOeo4XDBMwS41S"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HIStory - PAST, PRESENT AND FUTURE - BOOK I",
         "url": "https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 277842,
       "name": "Scream",
       "url": "https://open.spotify.com/track/4LD5dhQ3kqpqe14sGPDtBC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "XSCAPE",
-        "url": "https://open.spotify.com/album/7pomP86PUhoJpY3fsC0WDQ"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 335133,
-      "name": "A Place With No Name",
-      "url": "https://open.spotify.com/track/35SI5zFEhOeo4XDBMwS41S"
     },
     {
       "added_at": null,

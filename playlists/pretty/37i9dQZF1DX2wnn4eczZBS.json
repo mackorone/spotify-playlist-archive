@@ -1,6 +1,6 @@
 {
   "description": "indie & indiepop in het Nederlands. Cover: Elmer",
-  "num_followers": 11085,
+  "num_followers": 11091,
   "original_name": "indie.nl",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,6 @@
     {
       "added_at": "2025-12-18 23:00:20",
       "album": {
-        "name": "Skinroutine Bikinilijn",
-        "url": "https://open.spotify.com/album/6Gxagh1mE6Z9Mipof5thLQ"
-      },
-      "artists": [
-        {
-          "name": "MEROL",
-          "url": "https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO"
-        }
-      ],
-      "duration_ms": 183333,
-      "name": "Skinroutine Bikinilijn",
-      "url": "https://open.spotify.com/track/6Q0MNS8ZNeEKDnLgDgoZe2"
-    },
-    {
-      "added_at": "2025-12-18 23:00:20",
-      "album": {
         "name": "Videotheek (Recht Uit Een Film)",
         "url": "https://open.spotify.com/album/3GYoqH6u6xyqewbGevy4re"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 218704,
       "name": "Videotheek (Recht Uit Een Film)",
       "url": "https://open.spotify.com/track/2Daa0C0E3YhljvgpBkyy5L"
+    },
+    {
+      "added_at": "2025-12-18 23:00:20",
+      "album": {
+        "name": "Skinroutine Bikinilijn",
+        "url": "https://open.spotify.com/album/6Gxagh1mE6Z9Mipof5thLQ"
+      },
+      "artists": [
+        {
+          "name": "MEROL",
+          "url": "https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO"
+        }
+      ],
+      "duration_ms": 183333,
+      "name": "Skinroutine Bikinilijn",
+      "url": "https://open.spotify.com/track/6Q0MNS8ZNeEKDnLgDgoZe2"
     },
     {
       "added_at": "2025-12-18 23:00:20",
@@ -767,22 +767,6 @@
     {
       "added_at": "2025-12-18 23:00:20",
       "album": {
-        "name": "De zon",
-        "url": "https://open.spotify.com/album/0p9R6TOrMBUzlzDkulEEFs"
-      },
-      "artists": [
-        {
-          "name": "Willem Ardui",
-          "url": "https://open.spotify.com/artist/1Erb9tjg91Er5fXHWHUmyY"
-        }
-      ],
-      "duration_ms": 163630,
-      "name": "De zon",
-      "url": "https://open.spotify.com/track/7GA05wHXs1jgfQCHA327Zf"
-    },
-    {
-      "added_at": "2025-12-18 23:00:20",
-      "album": {
         "name": "Levelen",
         "url": "https://open.spotify.com/album/2FYtuZ7zsA6gu3P31vhMqh"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 248544,
       "name": "Levelen",
       "url": "https://open.spotify.com/track/5MXXpCDntWrVeiEzF0gED0"
+    },
+    {
+      "added_at": "2025-12-18 23:00:20",
+      "album": {
+        "name": "De zon",
+        "url": "https://open.spotify.com/album/0p9R6TOrMBUzlzDkulEEFs"
+      },
+      "artists": [
+        {
+          "name": "Willem Ardui",
+          "url": "https://open.spotify.com/artist/1Erb9tjg91Er5fXHWHUmyY"
+        }
+      ],
+      "duration_ms": 163630,
+      "name": "De zon",
+      "url": "https://open.spotify.com/track/7GA05wHXs1jgfQCHA327Zf"
     },
     {
       "added_at": "2025-12-18 23:00:20",

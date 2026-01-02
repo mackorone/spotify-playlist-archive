@@ -7931,6 +7931,24 @@
     },
     {
       "album": {
+        "name": "Gulabi Hawa",
+        "url": "https://open.spotify.com/album/3wYJA35ECM4DqK9LTxr6vx"
+      },
+      "artists": [
+        {
+          "name": "Piyush Chouhan",
+          "url": "https://open.spotify.com/artist/70YtfsMmwplUfD5U8K3DUx"
+        }
+      ],
+      "date_added": "2025-12-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138155,
+      "name": "Gulabi Hawa",
+      "url": "https://open.spotify.com/track/1s3JFBIpuBuRqLP8dBuUeY"
+    },
+    {
+      "album": {
         "name": "Gulchharre",
         "url": "https://open.spotify.com/album/36U4A2L3qW4OYqvV3GXjGx"
       },
@@ -20838,7 +20856,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 227878,
       "name": "Sabki Kahani",
       "url": "https://open.spotify.com/track/5Uzx2UcwkheIqUAJy9HpBw"
@@ -22404,7 +22422,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 157377,
       "name": "Student of Love",
       "url": "https://open.spotify.com/track/4LEhWsijtlLqwjctr2bsxx"
@@ -25510,7 +25528,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-13",
+      "date_removed": null,
       "duration_ms": 220952,
       "name": "Udaan",
       "url": "https://open.spotify.com/track/5yL8CBAxa5ijWGKndCTG9T"

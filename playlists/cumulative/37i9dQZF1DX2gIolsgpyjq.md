@@ -4,7 +4,7 @@
 
 > The best new music by independent artists in the Nordics\. Cover: TANTAN
 
-1,479 songs - 3 day 5 hr 52 min
+1,482 songs - 3 day 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Acid Island 45](https://open.spotify.com/track/2NAap7hg4WFqVHbp8bNGfO) | [Kindsight](https://open.spotify.com/artist/69INXmdJGXIPAZQuThqRjw) | [Acid Island 45](https://open.spotify.com/album/093IjFAwne2RIarSPLzrpX) | 2:11 | 2024-03-14 | 2024-06-01 |
 | [ADDICTED](https://open.spotify.com/track/0zN1v0tgOkd6KmfePHi7DS) | [ORZC](https://open.spotify.com/artist/37oTmLY6rQTgMe4v8afZqE) | [ADDICTED](https://open.spotify.com/album/6fhHudLZSBIq93udYWkA1y) | 3:29 | 2025-03-13 | 2025-04-04 |
 | [Adore \- A COLORS SHOW](https://open.spotify.com/track/3WBx2YupM6jUdW0JlVlOga) | [Beharie](https://open.spotify.com/artist/2CzpBz4VaRU3cqM1rJZN6M) | [Adore \- A COLORS SHOW](https://open.spotify.com/album/1PgsYpzMelCGxvJz8XT29y) | 3:20 | 2024-06-20 | 2025-01-03 |
+| [affirmations](https://open.spotify.com/track/38Tt6dvzHXNLZgW6Zhryrs) | [Mercedess](https://open.spotify.com/artist/487LWNWQyTG52kpmID4tTm) | [affirmations](https://open.spotify.com/album/1rvC1FhzyQe7Js5L8PBw3I) | 3:20 | 2025-12-31 |  |
 | [Afraid](https://open.spotify.com/track/2RxM2uLCGhm9LmSLcSzypY) | [KURT.](https://open.spotify.com/artist/3fuEM4uMji5Jt4aLtabj3F) | [Afraid](https://open.spotify.com/album/39GzBbqVbXpiKuBYMIZcBH) | 3:01 | 2024-04-25 | 2024-06-14 |
 | [After Hours](https://open.spotify.com/track/077p0Cow8UGNCpCXKJSBfb) | [Lady Tanaka](https://open.spotify.com/artist/22BThltsovQgFAB857hyyr) | [After Hours](https://open.spotify.com/album/34azdtd2VJzIRA748tNzR7) | 2:49 | 2024-04-04 | 2024-05-03 |
 | [Afterlife](https://open.spotify.com/track/382AY3JoSEeJm7hcNcNAaC) | [Clara Malby](https://open.spotify.com/artist/5xeHlqLDzUkefkg2hqGiRH) | [Afterlife](https://open.spotify.com/album/4C5QWB028FldaxBsMeRatb) | 3:27 | 2025-01-23 | 2025-02-28 |
@@ -176,6 +177,7 @@
 | [Bully](https://open.spotify.com/track/7hhofXZVulCPtTtDH27e0o) | [Phoebe Isobel](https://open.spotify.com/artist/0YMm64XXPvcmDYjHStGJXN) | [Bully](https://open.spotify.com/album/0CwKc5bjnFIXAccYdq6Wjp) | 3:33 | 2025-10-23 |  |
 | [Business](https://open.spotify.com/track/4o0DU1TUqx26lPbYGCohyI) | [Kinck](https://open.spotify.com/artist/3WIqCpjYUrR2Bt9rFYNaej) | [Business](https://open.spotify.com/album/0cz8izYJAuuiU8SxYIv5LM) | 2:10 | 2024-03-28 | 2024-04-26 |
 | [BusyBusyBusy](https://open.spotify.com/track/2QwF6aewyuhAQ1nlkyQeYW) | [¡BangBang Watergun!](https://open.spotify.com/artist/2grhe2zaWXIncv3px0CwrJ) | [Nostalgia / Again It's On](https://open.spotify.com/album/5Xtz2f7NvXEpRSlnw687mG) | 3:51 | 2025-02-20 | 2025-04-18 |
+| [But I Love It](https://open.spotify.com/track/3sZjpQC3vjGWP3VYicpq05) | [Mattias Kolstrup](https://open.spotify.com/artist/76eNWShp2OZBflNjOY2jEG), [Stella](https://open.spotify.com/artist/2Ic6MYMc3DrPW8z8DHFoWS) | [But I Love It](https://open.spotify.com/album/2SFRDRQiP31ZDzdqDBcXu5) | 2:50 | 2025-12-31 |  |
 | [Butterfly Street](https://open.spotify.com/track/5G86JqNPfvJ3Fm2z2OltUZ) | [LILLI](https://open.spotify.com/artist/4QXIOyqIXDfC6gGWfFkous) | [Butterfly Street](https://open.spotify.com/album/16wE26QmYI0HVpOfqjxJR0) | 2:46 | 2024-08-16 | 2024-09-27 |
 | [Buy Your Love](https://open.spotify.com/track/6PNbYdQehQNvjNr9mjYg58) | [Pom Femme](https://open.spotify.com/artist/7Fq7iZTu4VF5SQwtdsGOd0) | [Buy Your Love](https://open.spotify.com/album/5oIqNJ75nd95Tu6XteFVJH) | 3:24 | 2025-02-13 | 2025-03-07 |
 | [By The Sea](https://open.spotify.com/track/0mDNYBgTfmmzYsGKIO9sIx) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [By The Sea](https://open.spotify.com/album/3gVowwfu0t4PgeI23c6pBg) | 3:15 | 2024-04-11 | 2024-06-07 |
@@ -760,6 +762,7 @@
 | [Like That](https://open.spotify.com/track/6gLqJMFHxveWZzHKmCbzv1) | [EMMA SEE](https://open.spotify.com/artist/6V1tC04lPs8becylbJk8KM) | [Like That](https://open.spotify.com/album/4jnfnJOU8HwBkc6y63d38h) | 3:16 | 2025-08-14 | 2025-10-03 |
 | [Like This](https://open.spotify.com/track/18J16c7MMsxZ5HbPb2ojPV) | [Moontalk](https://open.spotify.com/artist/4UFhlgDCipgC1LdbaJgIgN), [SEÏTOU](https://open.spotify.com/artist/6u1xKpENLDr6n23EFcerpT) | [Like This](https://open.spotify.com/album/1BjZ8LU0tz6InnLLPTy01p) | 4:14 | 2024-11-21 | 2024-12-05 |
 | [Like Water](https://open.spotify.com/track/3J2JD3sOrHXJXhNRWxcZwG) | [STEPH](https://open.spotify.com/artist/1R2fKqz7jiie5ZyElTecre) | [Like Water](https://open.spotify.com/album/3C3BEr76VefkfD9gAI8iMv) | 2:54 | 2024-03-21 | 2024-04-12 |
+| [Like You Used To](https://open.spotify.com/track/3Q2ktWWJlTC0KbCsdd4Typ) | [The Court](https://open.spotify.com/artist/4YeLPeJgbLboih3WGXZeWJ) | [Like You Used To](https://open.spotify.com/album/1RprVEJMyD6d0O4tmxu1FC) | 2:38 | 2025-12-31 |  |
 | [lil bird](https://open.spotify.com/track/3g1PNnZ27ejNNvd4D9hE4q) | [fyoum](https://open.spotify.com/artist/4GUYZi2qvx5zrugU0yAEHM) | [lil bird](https://open.spotify.com/album/7h0sjiXi1GF87KbWGMHNIN) | 4:27 | 2024-02-08 | 2024-03-01 |
 | [LIMBO](https://open.spotify.com/track/0LEqNH9R8kQxI094YhHBpe) | [ORA](https://open.spotify.com/artist/0OwTvInKzIsGDpf2WAKBkA) | [: \(:](https://open.spotify.com/album/4HN7xWLgsSVl6CdpbNPGRa) | 2:32 | 2025-09-11 | 2025-12-04 |
 | [LIMBO](https://open.spotify.com/track/6BgtCDbDErmlAvw8xZJiGe) | [ORA](https://open.spotify.com/artist/0OwTvInKzIsGDpf2WAKBkA) | [:\(:](https://open.spotify.com/album/2MfEFuVrhCCt1nH2zQRlgk) | 2:32 | 2025-12-03 | 2026-01-01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwsJebq0rKg.md) - [plain]
 
 > Ni idea del reporte, padre santo\. Ya lo vemos en enero, mi lic\. Rolitas elegidas por Villa Godín.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,570 likes - 42 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,566 likes - 42 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,7 +2,7 @@
 
 ### [ADRENALINA](https://open.spotify.com/playlist/37i9dQZF1DWYBofUhpgE88)
 
-> per chi spinge pure il 31 dicembre ed il 1 gennaio
+> per spingere come veri gym bro e gym sis
 
 396 songs - 20 hr 40 min
 

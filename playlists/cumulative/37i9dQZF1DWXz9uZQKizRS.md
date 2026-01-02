@@ -2,9 +2,9 @@
 
 ### [Alternatywna Polska](https://open.spotify.com/playlist/37i9dQZF1DWXz9uZQKizRS)
 
-> Najlepsza świeża polska alternatywa\. Cover: Kaśka Sochacka
+> Najlepsza świeża polska alternatywa\. Cover: Yana Couto
 
-1,300 songs - 3 day 1 hr 19 min
+1,302 songs - 3 day 1 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,6 +309,7 @@
 | [FLASHBACK](https://open.spotify.com/track/4yuibmcMUgiOur6a98Hgv5) | [Pawbeats](https://open.spotify.com/artist/4WrzIcfTrK5U6UcDp4cX6L), [Czesław Śpiewa](https://open.spotify.com/artist/5rDWHA1JYXY31soG6Os9cY), [Frosti](https://open.spotify.com/artist/1gy83FHMv1GVuqYu3sxYxY) | [FLASHBACK](https://open.spotify.com/album/66582J3YV7rdqgNWrseugU) | 3:29 | 2025-11-06 |  |
 | [Fly Or Burn](https://open.spotify.com/track/5XyV6WUdtZuMJ6vloz8LKy) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Fly Or Burn](https://open.spotify.com/album/6ccFSIicUBAXD3oVFXDuA6) | 2:08 | 2025-06-05 | 2025-07-11 |
 | [Fotografie](https://open.spotify.com/track/7Hy0orWwbe8uUnxQEjp9T5) | [Daliva](https://open.spotify.com/artist/57IyKKJVTloFrwrTBnnqGA), [Czarny HIFI](https://open.spotify.com/artist/5OOod2arCuD618edu5MXCb) | [Fotografie](https://open.spotify.com/album/4Prxn72y9YA75P2T9aQ5CP) | 2:27 | 2025-05-29 | 2025-08-15 |
+| [Fragile \(Main Theme\)](https://open.spotify.com/track/07Ben09yppdzQTYcLLX5tn) | [Yana Couto](https://open.spotify.com/artist/6Em3ZrtfeNlVv8kyJcHcZt) | [Fragile \(Main Theme\)](https://open.spotify.com/album/26tLBiCmSvUyJQ0bZTrzC9) | 2:06 | 2026-01-01 |  |
 | [frankfurt](https://open.spotify.com/track/5MwPuKf6Ww3IL7WVXTOjLf) | [Zagi](https://open.spotify.com/artist/2fLOBc2u4ihUBpfqumia4k) | [frankfurt](https://open.spotify.com/album/5NHa662rh3ENosyGrsmNyJ) | 3:14 | 2025-01-30 | 2025-03-28 |
 | [fuguryba](https://open.spotify.com/track/4ivf97mKraXUA4MYKK0S1m) | [Zagi](https://open.spotify.com/artist/2fLOBc2u4ihUBpfqumia4k) | [Widnokrąg](https://open.spotify.com/album/0O3gfyW3FHUhJHCN0DpRYV) | 3:52 | 2025-05-22 | 2025-07-18 |
 | [Fusy](https://open.spotify.com/track/1Zd1D4qz0j7MeLGnldflNc) | [Jakub Skorupa](https://open.spotify.com/artist/6T3v6RRLeCWcs4Sb47blaJ), [Dawid Tyszkowski](https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K) | [Fusy](https://open.spotify.com/album/6cYlOyjd4JkVksN4XL95LI) | 4:08 | 2024-08-22 | 2024-10-25 |
@@ -357,7 +358,7 @@
 | [HYPER CHILL](https://open.spotify.com/track/52kfJyDrj5vBUtVf3fLXcV) | [PYCORKA](https://open.spotify.com/artist/3SOW8wH1Xm0epMxdIO1eAE) | [HYPER CHILL](https://open.spotify.com/album/4SkJBzWrHfzWvP834i2tLG) | 3:18 | 2024-08-29 | 2024-09-20 |
 | [I mi głupio jest](https://open.spotify.com/track/52I8LpD6tmsGObs5WKgID0) | [Szefner](https://open.spotify.com/artist/3M9n9VCc39QFqVzU9guLjf) | [I mi głupio jest](https://open.spotify.com/album/4q6y3qQGwiJzCqc0g4knoS) | 2:47 | 2025-09-18 | 2025-10-31 |
 | [I nie puszczę](https://open.spotify.com/track/4Ld7ulAE4wbhM2q7IRWgnn) | [Fukaj](https://open.spotify.com/artist/3bS0MLzGAoO6lLUy7gguHY) | [I nie puszczę](https://open.spotify.com/album/2lunTqrtkJBs4SS3dtmF0s) | 2:29 | 2025-06-16 | 2025-07-18 |
-| [I tak do Was dojadę \(na święta\)](https://open.spotify.com/track/5MRzrAPJktQYwTIWcT6Ezg) | [PAULA ROMA](https://open.spotify.com/artist/6Sw43ZkxX0u3t4cjxlzbzs) | [I tak do Was dojadę \(na święta\)](https://open.spotify.com/album/3ZP3Oy6INZPlThG3Y3nv9i) | 2:57 | 2025-11-27 |  |
+| [I tak do Was dojadę \(na święta\)](https://open.spotify.com/track/5MRzrAPJktQYwTIWcT6Ezg) | [PAULA ROMA](https://open.spotify.com/artist/6Sw43ZkxX0u3t4cjxlzbzs) | [I tak do Was dojadę \(na święta\)](https://open.spotify.com/album/3ZP3Oy6INZPlThG3Y3nv9i) | 2:57 | 2025-11-27 | 2026-01-02 |
 | [I'm in love](https://open.spotify.com/track/2xIGo3LOGsqqJ7gdl4amM1) | [Daniel Godson](https://open.spotify.com/artist/7ruGjTmqO10lSqHWRIchnU) | [I'm in love](https://open.spotify.com/album/7v6ybJ0OVTGWyjHdSKeffm) | 2:46 | 2025-01-23 | 2025-02-21 |
 | [Ian Curtis](https://open.spotify.com/track/5YIvO4ejZgbhdAWzO7EcUE) | [Zbyszek Adamek](https://open.spotify.com/artist/5KcQw9igsxHzHPGjpc3Gbn) | [Ian Curtis](https://open.spotify.com/album/4o0y0lqavqHBxLtm3NhNrE) | 3:04 | 2024-09-26 | 2024-10-18 |
 | [idealne życie](https://open.spotify.com/track/5PWUgX6P3v1iQeewvZ0zS5) | [Stany Pośrednie](https://open.spotify.com/artist/6TrbcmVEO6TdAmKmZ0OBA9), [Imitation Zone](https://open.spotify.com/artist/4nbmVqLTMQ5urUAbCwY7zT), [krawczyk](https://open.spotify.com/artist/65Yvi0V2xjb3yJBIL6dtmz), [radek.baranovsky](https://open.spotify.com/artist/15yqOjT21W03wGgIdhXWud) | [idealne życie](https://open.spotify.com/album/5x95Po2DIZ8DKors4OGHC7) | 2:57 | 2025-05-29 | 2025-06-20 |
@@ -885,7 +886,7 @@
 | [Radość](https://open.spotify.com/track/0ePkqU4sVI9czGSPmau2x6) | [Lucas Flint](https://open.spotify.com/artist/6hDQK58Mp46BJ8mCVR8ToK) | [Radość](https://open.spotify.com/album/3r2VjPoTpI9qxVA61UQn8j) | 5:11 | 2024-11-07 | 2024-11-22 |
 | [Raj](https://open.spotify.com/track/17VE1pyBlOwxmFTLOFvCbC) | [Dawid Tyszkowski](https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K) | [Raj](https://open.spotify.com/album/2VIakVe3ffLW6y8I9OizY6) | 3:27 | 2025-11-27 |  |
 | [raj](https://open.spotify.com/track/4Cq0rDh0QQcz5K14k4EaH9) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d), [Leon Krześniak](https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU) | [raj](https://open.spotify.com/album/2QtHtXU83l62Vxbcs8r3yT) | 3:12 | 2025-09-11 |  |
-| [Ramen](https://open.spotify.com/track/1fWiLeqoyGNpm1IiMv4sMt) | [Natalia Przybysz](https://open.spotify.com/artist/03KLzHVK6la8dVop1iVI5x), [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F), [Zagorski](https://open.spotify.com/artist/1HeMjOGamilY6kKP2vohac), [Wa$kiewicH](https://open.spotify.com/artist/4FJ4FKoryndsLF8rCJ1qDI) | [Ramen](https://open.spotify.com/album/6HSD328wfB8GSsIOGoSrcC) | 3:57 | 2025-11-06 |  |
+| [Ramen](https://open.spotify.com/track/1fWiLeqoyGNpm1IiMv4sMt) | [Natalia Przybysz](https://open.spotify.com/artist/03KLzHVK6la8dVop1iVI5x), [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F), [Zagorski](https://open.spotify.com/artist/1HeMjOGamilY6kKP2vohac), [Wa$kiewicH](https://open.spotify.com/artist/4FJ4FKoryndsLF8rCJ1qDI) | [Ramen](https://open.spotify.com/album/6HSD328wfB8GSsIOGoSrcC) | 3:57 | 2025-11-06 | 2026-01-02 |
 | [Ranię](https://open.spotify.com/track/6NXazZRyqTvVUqiFJ16l7A) | [Kasia Lins](https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK) | [Ranię](https://open.spotify.com/album/5EBeXzw6JrAfA6C5DiTQVq) | 2:47 | 2024-10-17 | 2025-02-21 |
 | [rano](https://open.spotify.com/track/4EezzumzUL4doy6imCfaru) | [oswojeni](https://open.spotify.com/artist/6HSaeoRmLRRCdymdtKFsfh) | [rano](https://open.spotify.com/album/1NJ7ucTm2sGirl7DSEpHpd) | 3:48 | 2025-11-06 | 2025-12-05 |
 | [Rany, chyba nie daję rady](https://open.spotify.com/track/7p5U4cxuko3T7GuIG8nXx7) | [dezydery](https://open.spotify.com/artist/0fdWtNx0iazarVEaQ30VEE) | [Rany, chyba nie daję rady](https://open.spotify.com/album/3AHA96h9aCxmLQky5ci8F2) | 2:31 | 2025-09-25 | 2025-12-19 |
@@ -961,6 +962,7 @@
 | [Soft Spot](https://open.spotify.com/track/7Aa9FEamkbgxZW3coKeYGs) | [maks.tachasiuk](https://open.spotify.com/artist/14RpuKZYyyikmsRU3zPoWz) | [Soft Spot](https://open.spotify.com/album/7n3LUPt33YfsquSAgzvcU3) | 4:02 | 2025-12-04 |  |
 | [Space](https://open.spotify.com/track/2hYanRY5R6i6hZm5spwv10) | [Paulina Przybysz](https://open.spotify.com/artist/2kwgxgJT8XYGfHjWDp2API), [Wuja HZG](https://open.spotify.com/artist/5fvxRg4qqtJ72QdsCOotTj) | [Space EP2024](https://open.spotify.com/album/2Xynk1NjRlwkQIk09ODD0M) | 3:37 | 2024-07-18 | 2024-08-30 |
 | [Spadające gwiazdy](https://open.spotify.com/track/4ggf5e1R9ksMB2m58ouAQa) | [Jan Marczewski](https://open.spotify.com/artist/0JIgW2OFhm0hH8UdCMU5SU), [Michał Smajdor](https://open.spotify.com/artist/3sdRA1BQYDShj19NPYUJ5k), [wojtman.fm](https://open.spotify.com/artist/6dlkUCXpazKynwOHpixkgo) | [NA KONIEC LATA](https://open.spotify.com/album/3hxzY5TxqTx83i2KHQrVOZ) | 3:00 | 2025-10-16 |  |
+| [Spadam stąd](https://open.spotify.com/track/3DNNSrS1gANfSyk19S4TLI) | [Sonbird](https://open.spotify.com/artist/2zaVOOnzM7kPPCh0BIar3A) | [Spadam stąd](https://open.spotify.com/album/62PR30PbPMvxmaN1YohG6v) | 4:00 | 2026-01-01 |  |
 | [Spin the Bottle](https://open.spotify.com/track/2XMzqDhnDAUHporuUvRQb4) | [Paula & Karol](https://open.spotify.com/artist/55dcBrI0GbsQrZOzTGbfQi) | [Spin the Bottle](https://open.spotify.com/album/3qYEDHjbLOcoJ0856iVBch) | 3:57 | 2025-03-06 | 2025-03-28 |
 | [SPOJLER](https://open.spotify.com/track/3OjpV1ieYNixUfvTraayEB) | [PYCORKA](https://open.spotify.com/artist/3SOW8wH1Xm0epMxdIO1eAE) | [SPOJLER](https://open.spotify.com/album/1ARrloyMRDQpOXypu6OfaT) | 2:57 | 2024-11-21 | 2025-01-24 |
 | [SPOJRZENIA](https://open.spotify.com/track/1lMsROjKrF4pPAc1TN2QLV) | [Dawid Grzelak](https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c), [Ralph Kaminski](https://open.spotify.com/artist/7l1IUcuGTEXMuD1aN3wFqw) | [SPOJRZENIA](https://open.spotify.com/album/5OfVzzJacH9rS5PJIihdoy) | 3:17 | 2025-04-10 | 2025-05-30 |

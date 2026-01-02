@@ -4,7 +4,7 @@
 
 > Tämän hetken kovimmat suomihitit.
 
-856 songs - 1 day 18 hr 44 min
+859 songs - 1 day 18 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Cha Cha Cha / Rim Tim Tagi Dim \(Battle Mashup\)](https://open.spotify.com/track/20K4ACwbRhAQAsY07m96Ca) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r), [Baby Lasagna](https://open.spotify.com/artist/1ncWEkB4AQh1rxC8ObpBoH) | [Cha Cha Cha / Rim Tim Tagi Dim \(Battle Mashup\)](https://open.spotify.com/album/37GedKbVaIqIkF5LDJf7oq) | 1:55 | 2025-06-08 | 2025-08-13 |
 | [Chilleis](https://open.spotify.com/track/4zqRIepMt6pKkegF3hyLoP) | [Kube](https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4) | [Chilleis](https://open.spotify.com/album/4kT5z7LW6JKBkET0a8hsFW) | 2:05 | 2025-12-18 |  |
 | [Clique La Lv](https://open.spotify.com/track/3tdzSKOCHsCshuxitqeDZR) | [VJ](https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2), [YB026](https://open.spotify.com/artist/4Qe6IKIsL2B1CeJ8q9a6Om) | [Clique La Lv](https://open.spotify.com/album/2dSvQVodGZaLeDJ822DQNP) | 2:16 | 2025-12-18 |  |
+| [Cocaina \(feat\. JVG\)](https://open.spotify.com/track/5wM1WxkXXSPDVKYeIln0cp) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Cocaina \(feat\. JVG\)](https://open.spotify.com/album/1G16QTtvWSWN9gA8JKoG3C) | 3:19 | 2026-01-01 |  |
 | [Cocktail](https://open.spotify.com/track/64PFfjxVkMnJtGd3WMZ1v7) | [Eini](https://open.spotify.com/artist/6yTTkPtwPo2PEkQF4SScwM) | [Mun vuosi](https://open.spotify.com/album/7fTdqVRml2FU5x6z9y8hGl) | 2:43 | 2025-03-20 | 2025-04-11 |
 | [Corazon \(feat\. Neo\)](https://open.spotify.com/track/31edJBPQJPtk1zDTWMZLU9) | [Henriguez](https://open.spotify.com/artist/2tdief92DCo0dq3uz28kSE), [Neo](https://open.spotify.com/artist/41kvT8ol7IQdZKnzfGPtR1) | [Corazon \(feat\. Neo\)](https://open.spotify.com/album/0RuVIwOJCWsdbaIu1uPTrj) | 3:08 | 2024-07-11 | 2024-08-02 |
 | [Dead Presidents](https://open.spotify.com/track/3OkipxzNcMVBDdtp0193hA) | [Jore & Zpoppa](https://open.spotify.com/artist/3kKa5RWsRwK2f5Xu2RHBB7), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Dead Presidents](https://open.spotify.com/album/74a1gYWV7lqRTBCvBZod5m) | 3:01 | 2024-10-10 | 2024-11-08 |
@@ -146,6 +147,7 @@
 | [Erottamattomat](https://open.spotify.com/track/2HmGYyoMBYtCOwnYAB3gyH) | [Vepu](https://open.spotify.com/artist/2qwH6XfqxzOUiVTC3IXOom) | [Erottamattomat](https://open.spotify.com/album/1of5tbdzEaA7VRibMmrqem) | 2:43 | 2025-03-20 | 2025-04-11 |
 | [Et ollut se](https://open.spotify.com/track/5Ed7CNCkwXVFyoH7K5pRx9) | [TIPPA](https://open.spotify.com/artist/0kWknKjD7r2hNh8KntEx59), [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Et ollut se](https://open.spotify.com/album/3sine6HsKtZdgJTaoXp0NJ) | 3:18 | 2025-09-18 | 2025-12-19 |
 | [Etsin kunnes löydän sun](https://open.spotify.com/track/0zmJahUP1YTKCoa5CrtzNw) | [90's FIN Cover Boyz & Girlz!](https://open.spotify.com/artist/1Zr5kGpWfxy6auQn5bTpmG), [Markku Aro](https://open.spotify.com/artist/10phXQ1GPuNowsGsmZJaST) | [Etsin kunnes löydän sun](https://open.spotify.com/album/6Pi3sdod4HBUXZsOobaoTV) | 2:46 | 2024-10-24 | 2025-03-21 |
+| [Everest](https://open.spotify.com/track/4QEbyFnMJDt2HSmvbCmfQH) | [Minttu](https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr) | [Everest](https://open.spotify.com/album/6ZEHrJ9v2eGA2MCpxkwwXx) | 3:04 | 2026-01-01 |  |
 | [Fallin \(pudotaan\)](https://open.spotify.com/track/0h8BI3wpdcyPDo2ne0cLtS) | [WIL](https://open.spotify.com/artist/0u24i6ZS1dxwPzDPuM0qqT) | [Fallin \(pudotaan\)](https://open.spotify.com/album/0Fs9D5uhPxDiVElPDdAWA2) | 2:32 | 2024-08-22 | 2024-09-20 |
 | [Fantasia \(feat\. Kah Pao\)](https://open.spotify.com/track/7gktoRk6XwRkUkAbplkgZ0) | [Asla Jo](https://open.spotify.com/artist/5z6VH7BWb3QDIAhdMILyG4), [Kah Pao](https://open.spotify.com/artist/4r6Y0yVM0qCN4B4EAgXytt) | [Fantasia \(feat\. Kah Pao\)](https://open.spotify.com/album/6rX7ExQmzcWyuqPdKjZXwA) | 2:57 | 2025-11-14 |  |
 | [Feel So Good \(Vain elämää kausi 15\) \[feat\. Darude\]](https://open.spotify.com/track/4PAacEAm1uIJR9p0sSSnjM) | [Jussi Rainio](https://open.spotify.com/artist/3rOa6CkFm3mFJLGxvl9uDD), [Neon 2](https://open.spotify.com/artist/2hKALVwoWfBVYA8bcRBpcN), [Darude](https://open.spotify.com/artist/0LhHRmSd1EYM5QdNeNnCoQ) | [Feel So Good \(Vain elämää kausi 15\) \[feat\. Darude\]](https://open.spotify.com/album/7pjSQS09SD4aDYQDMQQtMS) | 2:37 | 2024-10-10 | 2024-10-18 |
@@ -472,6 +474,7 @@
 | [Neljäs huhtikuuta \(feat\. Rosa Ruu\)](https://open.spotify.com/track/57cqku0vEW71BQkwocj37c) | [Anssi Kela](https://open.spotify.com/artist/7ISARfXENNWqIhKcO6kyrG), [Rosa Ruu](https://open.spotify.com/artist/00RPqOYPeWchKHwvqY01iA) | [Kaikki tiet joita kuljin](https://open.spotify.com/album/58k6ta39f5aIRWJuXMYRrc) | 5:01 | 2025-03-06 | 2025-04-04 |
 | [Nelkyt ja viis](https://open.spotify.com/track/5HIDCooNneGtzHInlkl51p) | [Saimaa](https://open.spotify.com/artist/5Y24oYaTX3VOvtAcG2XlQR) | [Vol.7](https://open.spotify.com/album/7fHNgqxzdVJJjZ4xoosJkV) | 3:52 | 2024-09-12 | 2024-10-04 |
 | [Nemo \(Vain elämää kausi 15\)](https://open.spotify.com/track/3MqLgelI9thDWLvjhH1zEg) | [Ilta](https://open.spotify.com/artist/7wpzJLl0ElNQwRRsALqUSd) | [Nemo \(Vain elämää kausi 15\)](https://open.spotify.com/album/5rqXicVme82bQntXUesDxa) | 3:17 | 2024-11-14 | 2024-11-22 |
+| [Nene](https://open.spotify.com/track/4v7HeDtsKsa8PD87o0FIjL) | [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe) | [Nene](https://open.spotify.com/album/7h0IoR6uEih7xviHeTnTfu) | 2:24 | 2026-01-01 |  |
 | [Niin kuin sä](https://open.spotify.com/track/5diuAWvCyN25sI25FqyfTW) | [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [Niin kuin sä](https://open.spotify.com/album/217oYwUFstr8G8Q0UpKBI1) | 2:45 | 2024-11-21 | 2025-01-03 |
 | [Noitanainen](https://open.spotify.com/track/778YD2Oojx8S17w0r9GqMY) | [TINA](https://open.spotify.com/artist/3wm3F9NVTrqDmkdG80qISm) | [Noitanainen](https://open.spotify.com/album/6lz1cmhjE1NrucvvXZCQ1Y) | 3:07 | 2024-11-13 | 2025-02-14 |
 | [Norjalaista puuta](https://open.spotify.com/track/3cTTpe7rLFrgdLPY9DQB0s) | [Jaakko Kulta](https://open.spotify.com/artist/3yKaJcys5vfZv2nE2IURyO) | [Norjalaista puuta](https://open.spotify.com/album/36yFPOq7YIsFpIodxohXzu) | 2:45 | 2024-08-09 | 2024-10-25 |

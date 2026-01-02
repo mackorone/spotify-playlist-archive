@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Rising stars and new releases from sunny Singapore. Cover: Gen Neo",
+  "description": "Rising stars and new releases from sunny Singapore. Cover: Chelsea Cara",
   "name": "Rising 65",
   "tracks": [
     {
@@ -1344,7 +1344,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 204583,
       "name": "beautiful disaster",
       "url": "https://open.spotify.com/track/1LMYoMkISpBuySn4NCwmCO"
@@ -2446,7 +2446,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 159428,
       "name": "BURN",
       "url": "https://open.spotify.com/track/5cn5FnG1iUksBbKF7WMLfR"
@@ -5164,7 +5164,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 228461,
       "name": "favors",
       "url": "https://open.spotify.com/track/7a0auf1LJkhoIlDmjVEXii"
@@ -5824,7 +5824,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 220927,
       "name": "FUJIFILM",
       "url": "https://open.spotify.com/track/5NCWhTYixg0y9bOyoFvvQe"
@@ -6172,7 +6172,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 216724,
       "name": "Gold Heart",
       "url": "https://open.spotify.com/track/00bMx6XmqkeuJE06nvt3qF"
@@ -6728,6 +6728,28 @@
       "duration_ms": 240335,
       "name": "havelock",
       "url": "https://open.spotify.com/track/4XgtMkpCcRdH6b5bkj5nJ1"
+    },
+    {
+      "album": {
+        "name": "HAYAL",
+        "url": "https://open.spotify.com/album/4CWrWHIbECN4itk7a6PYRx"
+      },
+      "artists": [
+        {
+          "name": "ITSDATBOYINBLVCK",
+          "url": "https://open.spotify.com/artist/3Wiuqy7xJpr0L7eL8HjcdY"
+        },
+        {
+          "name": "MAR ELLY",
+          "url": "https://open.spotify.com/artist/3h7skHjz1AnCZtB715QipY"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209983,
+      "name": "HAYAL",
+      "url": "https://open.spotify.com/track/5a0GqYVboMBRhBr1A4hZX8"
     },
     {
       "album": {
@@ -8020,7 +8042,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 159587,
       "name": "I Need You",
       "url": "https://open.spotify.com/track/5NGeaEggZDMb6Wy0JyuIUZ"
@@ -8472,7 +8494,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 200689,
       "name": "In Her Eyes",
       "url": "https://open.spotify.com/track/6W2EYludfqFY2xo66FUf6y"
@@ -9544,6 +9566,24 @@
       "duration_ms": 176472,
       "name": "LALANG",
       "url": "https://open.spotify.com/track/6tJgHFllCZVZ4krUPL9igk"
+    },
+    {
+      "album": {
+        "name": "landline",
+        "url": "https://open.spotify.com/album/1dWnFRpEZ0dNl7Uv6bBjzx"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Cara",
+          "url": "https://open.spotify.com/artist/7byrDnFqEOBAWyWRFuYUrJ"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177204,
+      "name": "landline",
+      "url": "https://open.spotify.com/track/1EojlwgtPOCD2C4jRaYfZB"
     },
     {
       "album": {
@@ -11759,6 +11799,28 @@
     },
     {
       "album": {
+        "name": "no sleep",
+        "url": "https://open.spotify.com/album/1S328D1UzQGnPABvOVkpVN"
+      },
+      "artists": [
+        {
+          "name": "IDC TAO",
+          "url": "https://open.spotify.com/artist/3UCj4x5kTGhJ2jUxhPwe4E"
+        },
+        {
+          "name": "OryPop",
+          "url": "https://open.spotify.com/artist/4ZvCRAeu3qUu0NIn8Otyt6"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154838,
+      "name": "no sleep",
+      "url": "https://open.spotify.com/track/1oByAFSPqGQtnzGBV39iY1"
+    },
+    {
+      "album": {
         "name": "NO TIME FOR LUV",
         "url": "https://open.spotify.com/album/4IA52K2oUe4uxHwCQO6Xrz"
       },
@@ -12788,7 +12850,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 232875,
       "name": "PARADE",
       "url": "https://open.spotify.com/track/28xAbbybENlJ3gFypd1n9M"
@@ -14558,7 +14620,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 219176,
       "name": "Semua Yang Terjadi",
       "url": "https://open.spotify.com/track/7JSOZu6ShheVkbjuQg7U7Z"
@@ -15950,7 +16012,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 250000,
       "name": "Tak Seharusnya Ada",
       "url": "https://open.spotify.com/track/1ASvdnn6vfUciLDRiuRJ4b"
@@ -16302,7 +16364,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 231093,
       "name": "TELL UR FRIENDS",
       "url": "https://open.spotify.com/track/3lYzTTFRALZzJy5KmfrYUz"
@@ -17208,7 +17270,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 178909,
       "name": "Thousand Miles",
       "url": "https://open.spotify.com/track/27N2vaDgIOJyqm3CG79BpI"
@@ -17987,6 +18049,24 @@
     },
     {
       "album": {
+        "name": "Untuk Dirimu",
+        "url": "https://open.spotify.com/album/4cGeEfT5D4pWz9pYodjV0R"
+      },
+      "artists": [
+        {
+          "name": "Favourite Playlist",
+          "url": "https://open.spotify.com/artist/4t6Zp48HNFrfVFRd5UGMPy"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227841,
+      "name": "Untuk Dirimu",
+      "url": "https://open.spotify.com/track/3gr6IXkW6RISrMUxVxZ3iW"
+    },
+    {
+      "album": {
         "name": "Up & Down",
         "url": "https://open.spotify.com/album/0qZfUe3FICTXS1yd5B8gaH"
       },
@@ -18304,7 +18384,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 283812,
       "name": "wander",
       "url": "https://open.spotify.com/track/6USFWI02tq5E3Cs5J9qqxS"
@@ -19800,7 +19880,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 167424,
       "name": "\u4ee5\u70ba\u6c92\u6709\u4eba\u6703\u77e5\u9053",
       "url": "https://open.spotify.com/track/5Raigt984y6QpGXRfWgm3j"
@@ -20542,7 +20622,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 280235,
       "name": "\u5951\u7d04\u7cbe\u795e",
       "url": "https://open.spotify.com/track/5133wPF8KojCNuNJO9roQ6"
@@ -20752,7 +20832,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 256808,
       "name": "\u5fc3\u75db\u5411\u8ab0\u8aaa",
       "url": "https://open.spotify.com/track/3ncDz2UFVSk6Oih9UeGd5E"
@@ -21019,6 +21099,28 @@
     },
     {
       "album": {
+        "name": "\u65b0\u5e74\u4e0d\u9a6c\u70e6",
+        "url": "https://open.spotify.com/album/3AKVspD0rfVqVDzpVwDrU7"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Loo",
+          "url": "https://open.spotify.com/artist/3G5MSDyUhWCcN89SBqaCUV"
+        },
+        {
+          "name": "Royal Pek",
+          "url": "https://open.spotify.com/artist/4dnQ6vSKdG3VQROoJMNOmH"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149274,
+      "name": "\u65b0\u5e74\u4e0d\u9a6c\u70e6",
+      "url": "https://open.spotify.com/track/0XIb1HKD8sx3cB1gVVuIzz"
+    },
+    {
+      "album": {
         "name": "\u65e5\u843d",
         "url": "https://open.spotify.com/album/7pTK57Zq3LQk1fUSpoO0HY"
       },
@@ -21266,7 +21368,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 122517,
       "name": "\u6765\u731c\u8c1c\u8bed",
       "url": "https://open.spotify.com/track/66eeuCR08DTdFsvxDTpyhE"
@@ -21862,7 +21964,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 128227,
       "name": "\u8001\u5a46 WIFEY",
       "url": "https://open.spotify.com/track/33OF6XmqCZGQW3tPnYx4WM"
@@ -22296,7 +22398,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 257708,
       "name": "\u8bf7\u4e0d\u8981\u79bb\u5f00\u6211",
       "url": "https://open.spotify.com/track/53uSYZ40nrUi49fEHyOFrf"

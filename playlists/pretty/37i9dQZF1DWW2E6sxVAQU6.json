@@ -1,6 +1,6 @@
 {
   "description": "Italia amore mio \ud83c\uddee\ud83c\uddf9\ud83c\uddee\ud83c\uddf9\ud83c\uddee\ud83c\uddf9 \ud83d\ude0d\ud83d\ude0d\ud83d\ude0d",
-  "num_followers": 13107,
+  "num_followers": 13105,
   "original_name": "Sanremo: Schegge Impazzite",
   "owner": {
     "name": "Spotify",
@@ -99,6 +99,22 @@
     {
       "added_at": "2025-02-11 05:01:43",
       "album": {
+        "name": "Ciao Ciao",
+        "url": "https://open.spotify.com/album/0pK7UNY1nXMQeeJKiAZMMj"
+      },
+      "artists": [
+        {
+          "name": "La rappresentante di lista",
+          "url": "https://open.spotify.com/artist/0YmQyGKpZgGSDxsC8iEGQU"
+        }
+      ],
+      "duration_ms": 184311,
+      "name": "Ciao Ciao",
+      "url": "https://open.spotify.com/track/0jLeyuu6mtsD384054xLah"
+    },
+    {
+      "added_at": "2025-02-11 05:01:43",
+      "album": {
         "name": "1969 - Achille Idol Rebirth",
         "url": "https://open.spotify.com/album/0zMH1I8EZPPGYAzxZ9H0gU"
       },
@@ -119,22 +135,6 @@
       "duration_ms": 173345,
       "name": "Rolls Royce (feat. Boss Doms, Frenetik&Orang3)",
       "url": "https://open.spotify.com/track/6RrHjDbTT8ibYqSBsZbmRA"
-    },
-    {
-      "added_at": "2025-02-11 05:01:43",
-      "album": {
-        "name": "Ciao Ciao",
-        "url": "https://open.spotify.com/album/0pK7UNY1nXMQeeJKiAZMMj"
-      },
-      "artists": [
-        {
-          "name": "La rappresentante di lista",
-          "url": "https://open.spotify.com/artist/0YmQyGKpZgGSDxsC8iEGQU"
-        }
-      ],
-      "duration_ms": 184311,
-      "name": "Ciao Ciao",
-      "url": "https://open.spotify.com/track/0jLeyuu6mtsD384054xLah"
     },
     {
       "added_at": "2025-02-11 05:01:43",
@@ -219,22 +219,6 @@
     {
       "added_at": "2025-02-11 05:01:43",
       "album": {
-        "name": "La Faccia Delle Donne",
-        "url": "https://open.spotify.com/album/76rFF7v6dK477ZuNohtqPh"
-      },
-      "artists": [
-        {
-          "name": "Stadio",
-          "url": "https://open.spotify.com/artist/4zf0kIjnzqjWlI3Eaw5VlA"
-        }
-      ],
-      "duration_ms": 219160,
-      "name": "Allo stadio",
-      "url": "https://open.spotify.com/track/1vbGCz41lKI9QZqnCslW3L"
-    },
-    {
-      "added_at": "2025-02-11 05:01:43",
-      "album": {
         "name": "Eiffel 65 (Italian Album)",
         "url": "https://open.spotify.com/album/1JhmNKRWia4bEo6IH8AFpg"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 239407,
       "name": "Quelli Che Non Hanno Et\u00e0 - Gabry Ponte Power Cut",
       "url": "https://open.spotify.com/track/2mz1KvlR3aHoLSJTdh1nwR"
+    },
+    {
+      "added_at": "2025-02-11 05:01:43",
+      "album": {
+        "name": "La Faccia Delle Donne",
+        "url": "https://open.spotify.com/album/76rFF7v6dK477ZuNohtqPh"
+      },
+      "artists": [
+        {
+          "name": "Stadio",
+          "url": "https://open.spotify.com/artist/4zf0kIjnzqjWlI3Eaw5VlA"
+        }
+      ],
+      "duration_ms": 219160,
+      "name": "Allo stadio",
+      "url": "https://open.spotify.com/track/1vbGCz41lKI9QZqnCslW3L"
     },
     {
       "added_at": "2025-02-11 05:01:43",
@@ -543,22 +543,6 @@
     {
       "added_at": "2025-02-11 05:01:43",
       "album": {
-        "name": "Little Tony",
-        "url": "https://open.spotify.com/album/5L6au4dlAWmCsYa9SWUlys"
-      },
-      "artists": [
-        {
-          "name": "Little Tony",
-          "url": "https://open.spotify.com/artist/6g9yfu8k5sapPN9iisZhEW"
-        }
-      ],
-      "duration_ms": 174733,
-      "name": "Bada Bambina",
-      "url": "https://open.spotify.com/track/4KvJHSwn7GG5XVg1PSC9vQ"
-    },
-    {
-      "added_at": "2025-02-11 05:01:43",
-      "album": {
         "name": "I Pandemonium",
         "url": "https://open.spotify.com/album/4JWO6OQfAhyNzTIBnOvhO2"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 215133,
       "name": "Tu fai schifo sempre",
       "url": "https://open.spotify.com/track/3wtQeyl59gDxcJkvbV036k"
+    },
+    {
+      "added_at": "2025-02-11 05:01:43",
+      "album": {
+        "name": "Little Tony",
+        "url": "https://open.spotify.com/album/5L6au4dlAWmCsYa9SWUlys"
+      },
+      "artists": [
+        {
+          "name": "Little Tony",
+          "url": "https://open.spotify.com/artist/6g9yfu8k5sapPN9iisZhEW"
+        }
+      ],
+      "duration_ms": 174733,
+      "name": "Bada Bambina",
+      "url": "https://open.spotify.com/track/4KvJHSwn7GG5XVg1PSC9vQ"
     },
     {
       "added_at": "2025-02-11 05:01:43",

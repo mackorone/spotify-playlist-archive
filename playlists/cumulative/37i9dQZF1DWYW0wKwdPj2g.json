@@ -126,6 +126,28 @@
     {
       "album": {
         "name": "Amen (Live)",
+        "url": "https://open.spotify.com/album/543dGL7ntD305dtK6Jx8JB"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        },
+        {
+          "name": "Pastor E.A Adeboye",
+          "url": "https://open.spotify.com/artist/1o9Wsdmi8AIsqBsctcPeM8"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 547701,
+      "name": "Amen - Live",
+      "url": "https://open.spotify.com/track/0I4Mtcz94osb6CNmsTV58I"
+    },
+    {
+      "album": {
+        "name": "Amen (Live)",
         "url": "https://open.spotify.com/album/5jfl39rUw28zJbmYNf3BjA"
       },
       "artists": [
@@ -1020,6 +1042,24 @@
       "duration_ms": 167765,
       "name": "Dwell",
       "url": "https://open.spotify.com/track/7cyvWrKUoh6VRe5wbJQlru"
+    },
+    {
+      "album": {
+        "name": "E No Hard (Live)",
+        "url": "https://open.spotify.com/album/2oekmzHsUS0uHXpN8WhThx"
+      },
+      "artists": [
+        {
+          "name": "Chris Morgan",
+          "url": "https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 514237,
+      "name": "E No Hard - Live",
+      "url": "https://open.spotify.com/track/4p9XzSuRlbO6zQXralzZdZ"
     },
     {
       "album": {
@@ -3274,7 +3314,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 621445,
       "name": "Never seen - Live",
       "url": "https://open.spotify.com/track/2chS8q9WHvYzt6Jui4tSfu"
@@ -5570,7 +5610,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 501047,
       "name": "You Deserve All (Live)",
       "url": "https://open.spotify.com/track/5dQVku9OfaRNBRhL8RFibt"

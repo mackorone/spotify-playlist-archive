@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZWvDTe.md) - [plain]
 
 > This is Sarkodie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,749 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,757 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZWvDTe.md) - [plain]
 | 27 | [Adonai \(Remix\)](https://open.spotify.com/track/4cEWZvR2wkb8aEB1vkTQDS) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Castro](https://open.spotify.com/artist/1NhHtG7W5ia2fqXRw5Sp5M) | [Adonai \(Remix\)](https://open.spotify.com/album/0K8AdVnV4Pf2gbUOSYeady) | 4:48 |
 | 28 | [The Boys](https://open.spotify.com/track/5nuqN9F8RsMTvHZhEbMZ6Z) | [Hammer of The Last Two](https://open.spotify.com/artist/41OZNvPbgdmHijKkTch0To), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [The Boys](https://open.spotify.com/album/5HmW1xXJIGX2UHGnZrakAu) | 3:47 |
 | 29 | [You & I](https://open.spotify.com/track/6awL5NSRprmquSbat1sCnf) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [You & I](https://open.spotify.com/album/1O1zYFI9VSymutdU8HLbCW) | 2:40 |
-| 30 | [TRAUMA](https://open.spotify.com/track/6JePde3UV8Bu4rcmw4Jnym) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [The Championship](https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp) | 2:48 |
-| 31 | [Anadwo \(feat\. King Promise\)](https://open.spotify.com/track/0jC6H13LqNH2kmjAbsgkMM) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Black Love](https://open.spotify.com/album/0IR43Xf6qGF3iYKW1qg24s) | 3:11 |
+| 30 | [Anadwo \(feat\. King Promise\)](https://open.spotify.com/track/0jC6H13LqNH2kmjAbsgkMM) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Black Love](https://open.spotify.com/album/0IR43Xf6qGF3iYKW1qg24s) | 3:11 |
+| 31 | [TRAUMA](https://open.spotify.com/track/6JePde3UV8Bu4rcmw4Jnym) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [The Championship](https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp) | 2:48 |
 | 32 | [It's My Life](https://open.spotify.com/track/1CHhtwarGh5rS9TsY4voW7) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [It's My Life](https://open.spotify.com/album/00Z9ROeJxC7gmFMcNblg3U) | 3:45 |
 | 33 | [DND \(feat\. Sarkodie\)](https://open.spotify.com/track/5xR6EWpW9tAmIrzJ0Ba1SQ) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Disturbation 2](https://open.spotify.com/album/7B8dezihuew5DL9ztt1j7I) | 2:43 |
 | 34 | [Anointing](https://open.spotify.com/track/7BHFEdHwNBdmCeFGvOClNy) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Anointing](https://open.spotify.com/album/7xNyqynau8Dgmpw3xmFVrg) | 3:36 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZWvDTe.md) - [plain]
 | 45 | [Saa Okodie No](https://open.spotify.com/track/5Pq1K7dG9syG0sVrn2iZwT) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Obrafour](https://open.spotify.com/artist/55YBIMBzI2Xx5gJ6Sqo1GG) | [Rapperholic](https://open.spotify.com/album/2LBG3MIAzKOQY17zmkC7w8) | 4:08 |
 | 46 | [Saara \(feat\. Efya\)](https://open.spotify.com/track/6TnkeoB8CdVFUUQQf5Nrem) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Efya](https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6) | [Black Love](https://open.spotify.com/album/0IR43Xf6qGF3iYKW1qg24s) | 3:19 |
 | 47 | [BANG BANG BANG](https://open.spotify.com/track/5AYVBWBvQDz2wHeDfv0WaU) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [POWER](https://open.spotify.com/album/1X17Tuo9Yvn28rQ5mS3i6a) | 3:36 |
-| 48 | [Rollies and Cigars](https://open.spotify.com/track/2FgCEvRPl5Fsw3DxQXc9jE) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [No Pressure](https://open.spotify.com/album/6DZCzwNsgp4cFKdPnqnL0j) | 3:27 |
-| 49 | [Sweetio \- Club Mix](https://open.spotify.com/track/7e7IvyoTZzgTc0jUniZqGe) | [Raquel](https://open.spotify.com/artist/4tNisoCnGaG5zDiimBtqPZ), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Best of Both Worlds](https://open.spotify.com/album/6t7kXOwYuZUKRnwB6mMFyC) | 3:56 |
+| 48 | [Sweetio \- Club Mix](https://open.spotify.com/track/7e7IvyoTZzgTc0jUniZqGe) | [Raquel](https://open.spotify.com/artist/4tNisoCnGaG5zDiimBtqPZ), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Best of Both Worlds](https://open.spotify.com/album/6t7kXOwYuZUKRnwB6mMFyC) | 3:56 |
+| 49 | [Rollies and Cigars](https://open.spotify.com/track/2FgCEvRPl5Fsw3DxQXc9jE) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [No Pressure](https://open.spotify.com/album/6DZCzwNsgp4cFKdPnqnL0j) | 3:27 |
 | 50 | [Oluwa Ni \(Wemi You\)](https://open.spotify.com/track/4mZkl4BhKlzkYnqgYweg1W) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Oluwa Ni \(Wemi You\)](https://open.spotify.com/album/2gjBzVBVGgBun17xS9PJqz) | 3:17 |
 
-Snapshot ID: `aVMWAAAAAABL8LIM8DfIrVWeK9Nla10e`
+Snapshot ID: `aVRngAAAAABn8A66I+kRqijW5zhdyXkM`

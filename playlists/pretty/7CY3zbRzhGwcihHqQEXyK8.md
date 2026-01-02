@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7CY3zbRzhGwcihHqQEXyK8.md) - [plain]
 
 > Can anyone hear me? I&\#x27;m so scared to forget\. I&\#x27;m so scared that everything will disappear, so I&\#x27;ll keep everything right here, always keep everything near, never let it leave arm&\#x27;s length, and maybe I&\#x27;ll have the strength, to never forget it all again.
 
-[Rookii](https://open.spotify.com/user/hy4wbmaqpurcsomrngk6h0qzb) - 0 likes - 704 songs - 1 day 11 hr 41 min
+[Rookii](https://open.spotify.com/user/hy4wbmaqpurcsomrngk6h0qzb) - 0 likes - 724 songs - 1 day 12 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -712,5 +712,25 @@ pretty - [cumulative](/playlists/cumulative/7CY3zbRzhGwcihHqQEXyK8.md) - [plain]
 | 702 | [Soundcloudrapper](https://open.spotify.com/track/5iMObLehEX3KmnMijdH7Jc) | [fxmntnARCHIVE](https://open.spotify.com/artist/5aX71GpcDt83Nz7pOpjBOW) | [Exploration](https://open.spotify.com/album/3v6pyHICnMj2smSSI1sA2C) | 1:15 |
 | 703 | [Outro//VerbalThanks](https://open.spotify.com/track/2yZEy0LdENoWA19u55P3dS) | [fxmntnARCHIVE](https://open.spotify.com/artist/5aX71GpcDt83Nz7pOpjBOW) | [Exploration](https://open.spotify.com/album/3v6pyHICnMj2smSSI1sA2C) | 5:26 |
 | 704 | [Stay](https://open.spotify.com/track/2hVY1zUxH7mBahyY1LWL2o) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [Stay](https://open.spotify.com/album/2Ubm09uwb1KpAJboJZVlLC) | 4:39 |
+| 705 | [An Introduction](https://open.spotify.com/track/3NXSkfqQ6ASC588TuWkqTe) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI) | 1:54 |
+| 706 | [Rewind](https://open.spotify.com/track/68Gp6rEh4esguX6AMMN7VU) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI) | 1:13 |
+| 707 | [Cleaved](https://open.spotify.com/track/1MbCCV9wmYRxeNCUnGTHnX) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI) | 3:14 |
+| 708 | [Racing](https://open.spotify.com/track/4NUrUFTFvLZj0BmsdAp4d2) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI) | 3:39 |
+| 709 | [Halcyon](https://open.spotify.com/track/3eAMZYxihi4IQomVVBqDep) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A), [N E H O C](https://open.spotify.com/artist/5r2xS9xwGZzfuXovIyrm8f), [Torralba](https://open.spotify.com/artist/65GGC5mwg4lkLMUqzeETKP) | [HALCYON](https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI) | 3:40 |
+| 710 | [SYS\-03](https://open.spotify.com/track/2Et20USF01evwvnvxBS57N) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI) | 1:58 |
+| 711 | [Leech](https://open.spotify.com/track/7jSxhBjennhqrXOlqy90BW) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI) | 3:11 |
+| 712 | [Miscommunication](https://open.spotify.com/track/6mTBmNwwvxDcimL8cplj6N) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI) | 3:03 |
+| 713 | [The End of the World As We Know](https://open.spotify.com/track/6QOCYxjGBb3BzDRnbzx7uS) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI) | 5:32 |
+| 714 | [better than i was](https://open.spotify.com/track/4A29Y0CK8aaFRKrVXRqVxg) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI) | 3:24 |
+| 715 | [This Far](https://open.spotify.com/track/5pUmJzGwe0DafjRFeP0uAy) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI) | 2:00 |
+| 716 | [Eyes](https://open.spotify.com/track/0YnyPvMnShXzMVFG5oCabe) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI) | 3:24 |
+| 717 | [Erase Me](https://open.spotify.com/track/2IbV0CFrJojoZNm6hDj39b) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI) | 2:31 |
+| 718 | [Display](https://open.spotify.com/track/11AI9ADONUaBJRxDA9ZSfG) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI) | 2:54 |
+| 719 | [D1FFERENT](https://open.spotify.com/track/3smXPUJkQdHnodtGjGA5DC) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI) | 2:46 |
+| 720 | [CONFUS1NG](https://open.spotify.com/track/59BIiYw2B1Qqtlf0QAVpXW) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI) | 2:04 |
+| 721 | [I spend too much time on the internet to care about the small things](https://open.spotify.com/track/7fpBdwBWexTHYW22kF053l) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI) | 3:17 |
+| 722 | [1DK](https://open.spotify.com/track/57p3UI48zf91OWcJEyFPAn) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI) | 3:00 |
+| 723 | [NOT\_ALIVE//NOT\_DEAD](https://open.spotify.com/track/6lFdELrYB1fLkVCAXJSMwU) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI) | 2:42 |
+| 724 | [A Finale](https://open.spotify.com/track/7CZ4Op8aFxBGwEFkcFmGor) | [Learke](https://open.spotify.com/artist/5rEAVvM5n9AgQAmkVSdn8A) | [HALCYON](https://open.spotify.com/album/0PVtJbtWGk32EIQzBKV3nI) | 3:32 |
 
-Snapshot ID: `AAABsbtHy0MBBt8Y7h+Nime31iqf8Z5U`
+Snapshot ID: `AAABsny6/zEJS/0Pt6ukDCfDXAQ0mKuH`

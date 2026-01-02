@@ -1,29 +1,13 @@
 {
   "description": "This is Lola Indigo. The essential tracks, all in one playlist.",
-  "num_followers": 47173,
+  "num_followers": 47174,
   "original_name": "This Is Lola Indigo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVMWAAAAAACaWP+ihB8ME3naXJ/zXJiC",
+  "snapshot_id": "aVRngAAAAACS+msFfPqiBssArELTD6f8",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "NAVE DRAG\u00d3N",
-        "url": "https://open.spotify.com/album/0114ZglPWBvLZwdNxuByrJ"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 161326,
-      "name": "SIN AUTOTUNE",
-      "url": "https://open.spotify.com/track/5MG4QNLAZfxIiGethXtl8X"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 150000,
       "name": "LA REINA",
       "url": "https://open.spotify.com/track/06JM1fuKPQOrSL6s9mzDvV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NAVE DRAG\u00d3N",
+        "url": "https://open.spotify.com/album/0114ZglPWBvLZwdNxuByrJ"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 161326,
+      "name": "SIN AUTOTUNE",
+      "url": "https://open.spotify.com/track/5MG4QNLAZfxIiGethXtl8X"
     },
     {
       "added_at": null,
@@ -919,18 +919,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Ni\u00f1a",
-        "url": "https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme"
+        "name": "Autoestima (Feat. Lola Indigo, Alizzz) [Remix]",
+        "url": "https://open.spotify.com/album/1rQveAvG3YlWrgnySx9QUu"
       },
       "artists": [
         {
+          "name": "Cupido",
+          "url": "https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex"
+        },
+        {
           "name": "Lola Indigo",
           "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Alizzz",
+          "url": "https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3"
         }
       ],
-      "duration_ms": 212877,
-      "name": "KILLA (ring ring)",
-      "url": "https://open.spotify.com/track/4HC176Wwwle6QcTAxNPfBV"
+      "duration_ms": 207804,
+      "name": "Autoestima (Feat. Lola Indigo, Alizzz) - Remix",
+      "url": "https://open.spotify.com/track/7cmRd1iwDaANckyPHSOv5V"
     },
     {
       "added_at": null,
@@ -955,26 +963,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Autoestima (Feat. Lola Indigo, Alizzz) [Remix]",
-        "url": "https://open.spotify.com/album/1rQveAvG3YlWrgnySx9QUu"
+        "name": "La Ni\u00f1a",
+        "url": "https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme"
       },
       "artists": [
         {
-          "name": "Cupido",
-          "url": "https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex"
-        },
-        {
           "name": "Lola Indigo",
           "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        },
-        {
-          "name": "Alizzz",
-          "url": "https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3"
         }
       ],
-      "duration_ms": 207804,
-      "name": "Autoestima (Feat. Lola Indigo, Alizzz) - Remix",
-      "url": "https://open.spotify.com/track/7cmRd1iwDaANckyPHSOv5V"
+      "duration_ms": 212877,
+      "name": "KILLA (ring ring)",
+      "url": "https://open.spotify.com/track/4HC176Wwwle6QcTAxNPfBV"
     },
     {
       "added_at": null,

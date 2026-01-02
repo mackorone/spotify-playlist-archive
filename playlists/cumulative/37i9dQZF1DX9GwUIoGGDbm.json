@@ -1401,6 +1401,24 @@
     },
     {
       "album": {
+        "name": "\u8d64\u3068\u9752",
+        "url": "https://open.spotify.com/album/2KNtCxiHwzQiXAez1ATpjO"
+      },
+      "artists": [
+        {
+          "name": "\u56db\u5bae\u304b\u3050\u3084(CV:\u53e4\u8cc0\u8475)",
+          "url": "https://open.spotify.com/artist/5dsjmUaFAqJvIN8PJ1n3Ay"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238124,
+      "name": "\u8d64\u3068\u9752",
+      "url": "https://open.spotify.com/track/0TWgH1UWUPj3FCycsSmSt9"
+    },
+    {
+      "album": {
         "name": "KAGUYA Music Collection Season1",
         "url": "https://open.spotify.com/album/4UgkQZpHgzcOUh1ttGed8p"
       },

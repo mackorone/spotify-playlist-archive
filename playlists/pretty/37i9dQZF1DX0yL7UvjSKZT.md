@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 
 > Fresh takes on that high lonesome sound\. Cover: Franklin Jonas & The Byzantines
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,666 likes - 102 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,651 likes - 102 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

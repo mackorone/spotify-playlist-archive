@@ -809,6 +809,24 @@
     },
     {
       "album": {
+        "name": "My Cherry (Acoustic)",
+        "url": "https://open.spotify.com/album/3CbrLWotG7LDs2FUsACTvA"
+      },
+      "artists": [
+        {
+          "name": "Ric Hassani",
+          "url": "https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221162,
+      "name": "My Cherry (Acoustic)",
+      "url": "https://open.spotify.com/track/54ys4PDWm7PJvloFVexmiL"
+    },
+    {
+      "album": {
         "name": "The Prince I Became",
         "url": "https://open.spotify.com/album/0wCcVlx3DNajtnqVSnFthH"
       },

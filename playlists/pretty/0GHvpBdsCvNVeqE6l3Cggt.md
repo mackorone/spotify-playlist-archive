@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,298 likes - 46 songs - 2 hr 57 min
+[Chris](https://open.spotify.com/user/qd38drw5g9rgll0cnljr34tpg) - 2,298 likes - 47 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,5 +54,6 @@ pretty - [cumulative](/playlists/cumulative/0GHvpBdsCvNVeqE6l3Cggt.md) - [plain]
 | 44 | [Fears](https://open.spotify.com/track/566anSusXyhMzCP0sjTHmd) | [Audio Entity](https://open.spotify.com/artist/2mKtj5JzkdmYJJnQKhnysU), [Woes & Wonder](https://open.spotify.com/artist/1ROh7khHluUL5ppnlyrMxA) | [Fears](https://open.spotify.com/album/1lCUfQ4Oadzz2xYdRsLaJE) | 4:27 |
 | 45 | [Heat Waves](https://open.spotify.com/track/14gtvVSuPdEMjMEPzoZ3mo) | [Mizumi Hanako](https://open.spotify.com/artist/0YIaBn2xawhZU41y6Qw8Ni) | [Heat Waves](https://open.spotify.com/album/15VpR4eExdUCyULMe0WZum) | 2:59 |
 | 46 | [Noir](https://open.spotify.com/track/3Z8OSx0kJcitYmfFqNszDy) | [LehtMoJoe](https://open.spotify.com/artist/5lgsUNLe65iEVXFzvreh0J) | [Noir](https://open.spotify.com/album/0ZW75tnVFB8wWRvzOSqdM4) | 3:08 |
+| 47 | [Dream About You](https://open.spotify.com/track/7A7mxUsWWx3jyyakwNRb1V) | [UMIDA](https://open.spotify.com/artist/5yVzuNgV0irDWOphxt0R0b) | [Dream About You](https://open.spotify.com/album/4BTyulvNqYxI7zhpNV2F1T) | 2:56 |
 
-Snapshot ID: `AAAjyEw8kbYveWcqTp56rsHeGsbCX7fb`
+Snapshot ID: `AAAjyVkwiCGmg3AYmxTXMcKOSjDBPPlz`

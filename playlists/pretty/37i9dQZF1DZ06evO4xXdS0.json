@@ -1,12 +1,12 @@
 {
   "description": "This is Nina Simone. The essential tracks, all in one playlist.",
-  "num_followers": 505363,
+  "num_followers": 505393,
   "original_name": "This Is Nina Simone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVMWAAAAAABA5R0J3Xt2IfmRRonyjMvJ",
+  "snapshot_id": "aVRngAAAAACga4uaheTnQFma2aUe3nsd",
   "tracks": [
     {
       "added_at": null,
@@ -191,22 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "To Love Somebody (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6T4nAC6CRLciyg4tQbgovi"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 158746,
-      "name": "To Love Somebody",
-      "url": "https://open.spotify.com/track/7LZoKNMhsZ7qbP1lYGDva8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Single Woman (Expanded)",
         "url": "https://open.spotify.com/album/5pSGlGB1DVrSlvQBcvlPyB"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 161680,
       "name": "The More I See You - Remastered",
       "url": "https://open.spotify.com/track/5qjeRPh4CVuaF9qs9KC2yT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "To Love Somebody (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6T4nAC6CRLciyg4tQbgovi"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 158746,
+      "name": "To Love Somebody",
+      "url": "https://open.spotify.com/track/7LZoKNMhsZ7qbP1lYGDva8"
     },
     {
       "added_at": null,
@@ -255,22 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "To Love Somebody (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6T4nAC6CRLciyg4tQbgovi"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "I Shall Be Released",
-      "url": "https://open.spotify.com/track/32BTFbqhSvYKftE0e8a8d4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Let It All Out",
         "url": "https://open.spotify.com/album/4bGiPtwVEKcXbXs7oKCMqD"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 258693,
       "name": "Don't Explain",
       "url": "https://open.spotify.com/track/5trSBbOg0lYbiDq9khCB8u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "To Love Somebody (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6T4nAC6CRLciyg4tQbgovi"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "I Shall Be Released",
+      "url": "https://open.spotify.com/track/32BTFbqhSvYKftE0e8a8d4"
     },
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wild Is The Wind",
-        "url": "https://open.spotify.com/album/2EYVXfypcucR62WMKJl6Mr"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 253800,
-      "name": "Lilac Wine",
-      "url": "https://open.spotify.com/track/3Hi4KlRtdgJbyIUpeFBckY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Let It All Out",
         "url": "https://open.spotify.com/album/4bGiPtwVEKcXbXs7oKCMqD"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 146626,
       "name": "Mood Indigo",
       "url": "https://open.spotify.com/track/1BaAzMva4yf7cWeOGwp7H4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wild Is The Wind",
+        "url": "https://open.spotify.com/album/2EYVXfypcucR62WMKJl6Mr"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 253800,
+      "name": "Lilac Wine",
+      "url": "https://open.spotify.com/track/3Hi4KlRtdgJbyIUpeFBckY"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nina Simone Sings The Blues (Expanded Edition)",
-        "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 148826,
-      "name": "Backlash Blues",
-      "url": "https://open.spotify.com/track/2bdapwYVEGpGWxlx3iooAB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nina Simone & Piano (Expanded Edition)",
         "url": "https://open.spotify.com/album/24tZ7QTxEKZ6aZOCP1uBMM"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 180253,
       "name": "Nobody's Fault but Mine",
       "url": "https://open.spotify.com/track/5EIXKDfVw1y9gqRwOgtrK7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nina Simone Sings The Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 148826,
+      "name": "Backlash Blues",
+      "url": "https://open.spotify.com/track/2bdapwYVEGpGWxlx3iooAB"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forever Young, Gifted And Black: Songs Of Freedom And Spirit",
-        "url": "https://open.spotify.com/album/5TPmcbl6aphADiUpEJFHm0"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 169840,
-      "name": "To Be Young, Gifted and Black - 2005 Remix",
-      "url": "https://open.spotify.com/track/67RKpDruBXMJgAmhJAivXr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nina Simone & Piano (Expanded Edition)",
         "url": "https://open.spotify.com/album/24tZ7QTxEKZ6aZOCP1uBMM"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 200040,
       "name": "I Think It's Going to Rain Today",
       "url": "https://open.spotify.com/track/6GWLNfRviT4S82inkxvXV8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Forever Young, Gifted And Black: Songs Of Freedom And Spirit",
+        "url": "https://open.spotify.com/album/5TPmcbl6aphADiUpEJFHm0"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 169840,
+      "name": "To Be Young, Gifted and Black - 2005 Remix",
+      "url": "https://open.spotify.com/track/67RKpDruBXMJgAmhJAivXr"
     },
     {
       "added_at": null,

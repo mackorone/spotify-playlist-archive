@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\"Melodrama\" de disiz & Theodora est le Grand Hit de la semaine.  ",
+  "description": "\" Tant pis pour elle \" de Charlotte Cardin est le Grand Hit de la semaine.  ",
   "name": "Grand Hit",
   "tracks": [
     {
@@ -132,7 +132,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 229668,
       "name": "Allons Voir",
       "url": "https://open.spotify.com/track/7jDBI4HB9zYxySDAbN54iW"
@@ -1412,7 +1412,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 169615,
       "name": "DO YOU LOVE ME ?",
       "url": "https://open.spotify.com/track/0ntWrkVB9TSfpYRs7pPMrP"
@@ -3009,6 +3009,24 @@
     },
     {
       "album": {
+        "name": "Adieu Musique",
+        "url": "https://open.spotify.com/album/0PqVqzKKlUJhcGLYWuo7rR"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9man",
+          "url": "https://open.spotify.com/artist/2EnOL1ADehfBQB03ELa3QQ"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193960,
+      "name": "Le Chat",
+      "url": "https://open.spotify.com/track/1svFj5Qv4sCtzEYINSphtP"
+    },
+    {
+      "album": {
         "name": "Le chemin - 20 ans",
         "url": "https://open.spotify.com/album/1YK3ZdEdUsSgRTwEG9yZVz"
       },
@@ -3662,6 +3680,24 @@
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
+    },
+    {
+      "album": {
+        "name": "Madame",
+        "url": "https://open.spotify.com/album/3ndlLOz5cBu4KpgqMqc5sH"
+      },
+      "artists": [
+        {
+          "name": "Claudio Cap\u00e9o",
+          "url": "https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172802,
+      "name": "Madame",
+      "url": "https://open.spotify.com/track/0LUiwvQMAKngway2t7Bpcz"
     },
     {
       "album": {

@@ -1257,6 +1257,24 @@
     },
     {
       "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241562,
+      "name": "All I Want for Christmas Is You",
+      "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
+    },
+    {
+      "album": {
         "name": "Allah\u2019\u0131ndan Bul",
         "url": "https://open.spotify.com/album/7kvSA869nORwy8uzrHxUko"
       },
@@ -3916,7 +3934,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 312000,
       "name": "Beni Hat\u0131rla",
       "url": "https://open.spotify.com/track/4mwKj8jNSq8eTp3ylpcBAE"
@@ -5692,7 +5710,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 253120,
       "name": "B\u00fcy\u00fck \u0130nsan",
       "url": "https://open.spotify.com/track/5wImzSCz8puf7BY82SXCiF"
@@ -8958,7 +8976,7 @@
       ],
       "date_added": "2025-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 174762,
       "name": "E\u011eME BOYUN",
       "url": "https://open.spotify.com/track/2QDSRyIio26v05eRWuBSjS"
@@ -15981,6 +15999,24 @@
     },
     {
       "album": {
+        "name": "LAST CHRISTMAS",
+        "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262960,
+      "name": "Last Christmas",
+      "url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78"
+    },
+    {
+      "album": {
         "name": "The Singles: Echoes from the Edge of Heaven",
         "url": "https://open.spotify.com/album/2wyHNTisH8PtZG8OG58xr6"
       },
@@ -16606,7 +16642,7 @@
       ],
       "date_added": "2025-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 225355,
       "name": "Mah\u015fer",
       "url": "https://open.spotify.com/track/57JAKbr7SgTUFeb4Y41ZWd"
@@ -21951,6 +21987,24 @@
     },
     {
       "album": {
+        "name": "SENUN CANUN SA\u011e OLSUN",
+        "url": "https://open.spotify.com/album/1GmK9l23dFdXVDopreBFCe"
+      },
+      "artists": [
+        {
+          "name": "Y\u00fcksel Baltac\u0131",
+          "url": "https://open.spotify.com/artist/5tlE5dBPT5muL6dpPSExWw"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251989,
+      "name": "SENUN CANUN SA\u011e OLSUN",
+      "url": "https://open.spotify.com/track/33dy9GFQniX4FzBUeLXBz0"
+    },
+    {
+      "album": {
         "name": "Sessizim",
         "url": "https://open.spotify.com/album/2ma8ecolQnN4TFK9Gsu1JG"
       },
@@ -23460,7 +23514,7 @@
       ],
       "date_added": "2025-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-30",
+      "date_removed": null,
       "duration_ms": 132244,
       "name": "TEMPO",
       "url": "https://open.spotify.com/track/076Dr6X4H6hoAML95QVlhn"

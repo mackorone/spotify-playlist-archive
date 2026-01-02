@@ -1,12 +1,12 @@
 {
   "description": "This is Sin\u00e9ad O'Connor. The essential tracks, all in one playlist.",
-  "num_followers": 80401,
+  "num_followers": 80404,
   "original_name": "This Is Sin\u00e9ad O'Connor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVMWAAAAAAAKGmY7uq7uhLP58DPaNsnr",
+  "snapshot_id": "aVRngAAAAABq3NxH5Nr9dzJlrjgHyBb7",
   "tracks": [
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faith and Courage",
-        "url": "https://open.spotify.com/album/0ITyzBRmAMnwt8FwtkSu0d"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 201826,
-      "name": "Emma's Song",
-      "url": "https://open.spotify.com/track/3Kb03eFRK4Uf35zaT8sx41"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Am I Not Your Girl?",
         "url": "https://open.spotify.com/album/36G5Yxs26PEzUxSGUiAaIn"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 150400,
       "name": "Why Don't You Do Right",
       "url": "https://open.spotify.com/track/2EMPJ6nGifr0TUGm2FFzCZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Faith and Courage",
+        "url": "https://open.spotify.com/album/0ITyzBRmAMnwt8FwtkSu0d"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 201826,
+      "name": "Emma's Song",
+      "url": "https://open.spotify.com/track/3Kb03eFRK4Uf35zaT8sx41"
     },
     {
       "added_at": null,

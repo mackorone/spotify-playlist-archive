@@ -2,7 +2,7 @@
 
 ### [RADAR Vietnam](https://open.spotify.com/playlist/37i9dQZF1DX0dUsjwqfaGM)
 
-> Thế hệ nghệ sĩ mới\. Ảnh bìa: CoolKid
+> Thế hệ nghệ sĩ mới\. Ảnh bìa: GUrbane
 
 183 songs - 10 hr 34 min
 

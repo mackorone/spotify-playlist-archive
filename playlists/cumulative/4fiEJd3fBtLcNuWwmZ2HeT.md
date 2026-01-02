@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-413 songs - 23 hr 56 min
+414 songs - 1 day 0 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Akujiki](https://open.spotify.com/track/565shq9eUdoknV8W0rUViP) | [BIN](https://open.spotify.com/artist/7sDDtZP2I0BT5GwatnM0gk) | [COLONY](https://open.spotify.com/album/495aKAiAHJRIia2Ks5fRCK) | 3:23 | 2024-12-03 |  |
 | [Alien Alien](https://open.spotify.com/track/3va7Q99A1EJk8eAZ2DV74v) | [Nayutalien](https://open.spotify.com/artist/0U2Emr9cdZNcbqSoKoWb8c) | [Nayutan Sei Kara No Buttai Y](https://open.spotify.com/album/1TYuswsDlzdBI88xoYgO4P) | 3:01 | 2022-09-02 |  |
 | [ANEMONE \(feat\. Ado\)](https://open.spotify.com/track/4d219MDLlMdxhBLyOEOoDx) | [Toiki.](https://open.spotify.com/artist/5zRxHcSIZl3iXv8udO7Vwu), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ANEMONE \(feat\. Ado\)](https://open.spotify.com/album/0YSk1A1AnAoUku60Dwc3ja) | 2:22 | 2024-09-07 |  |
+| [Angel 92](https://open.spotify.com/track/73l0SNaLjeGtoujFzirKNG) | [Maretu](https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM) | [Angel 92](https://open.spotify.com/album/3GvWcgfR2yCy2cW67hwwOA) | 3:17 | 2026-01-01 |  |
 | [Anoko secret](https://open.spotify.com/track/67gYAheGPb06KwCkuAaHbF) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Bunka](https://open.spotify.com/album/2rrihVXNDB7FSe6EFs2inI) | 3:53 | 2023-01-29 |  |
 | [AntiSystem's \(feat\. Ado\)](https://open.spotify.com/track/3ixFouonAtRdwg4FiVN9z9) | [jon\-YAKITORY](https://open.spotify.com/artist/0XDvcwWavm2VcdiXwDKgvB), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [AntiSystem's](https://open.spotify.com/album/5rLvwX10c9pwbRqzoqenCC) | 3:31 | 2024-04-06 |  |
 | [Aoi, Koi, Daidaiiro No Hi](https://open.spotify.com/track/5S8jc9sCle880PjbwnEzsY) | [MASS OF THE FERMENTING DREGS](https://open.spotify.com/artist/14d5KCX9nprUcxnKIShrr1) | [World Is Yours](https://open.spotify.com/album/0nwLNp8Qef1KpnUdXJgEJn) | 4:42 | 2025-09-10 |  |

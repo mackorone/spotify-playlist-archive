@@ -4226,7 +4226,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-31",
+      "date_removed": null,
       "duration_ms": 176000,
       "name": "HERMES",
       "url": "https://open.spotify.com/track/4YM3Pxqe3FiapO16Myngww"
@@ -6987,6 +6987,24 @@
     },
     {
       "album": {
+        "name": "NU SUONN",
+        "url": "https://open.spotify.com/album/4pz5QUxUvC3eQZbIxrgFQu"
+      },
+      "artists": [
+        {
+          "name": "Hosawa",
+          "url": "https://open.spotify.com/artist/0CA0vPSeG4YNObQrpfUq8H"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173596,
+      "name": "NU SUONN",
+      "url": "https://open.spotify.com/track/0acALfHPyz5J9bLMzh4akk"
+    },
+    {
+      "album": {
         "name": "Nun Er Io",
         "url": "https://open.spotify.com/album/3EGmwF0W0895Km6BAjKJqS"
       },
@@ -8262,7 +8280,7 @@
       ],
       "date_added": "2025-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 172166,
       "name": "PHANTOM (feat. 50 Cent)",
       "url": "https://open.spotify.com/track/435NOlfzITSEghoaUNRle3"

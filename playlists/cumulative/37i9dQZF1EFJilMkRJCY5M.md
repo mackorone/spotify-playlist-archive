@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5MvQUYjD2Ap5Ga6pD5YN9g">Emily Falvey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-177 songs - 9 hr 9 min
+180 songs - 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Come On Christmas](https://open.spotify.com/track/4SKbZvDaY6L9Hlkfuzt75z) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Christmas Vacation](https://open.spotify.com/album/5dxdPpuzoIhqd4GiYsiJ2O) | 2:31 | 2024-11-03 |  |
 | [Could've Been Us](https://open.spotify.com/track/7v8PjAWXMS2ODBAoKwVUIE) | [Tyron Hapi](https://open.spotify.com/artist/5aSBbBUbArJfyNKDg4KS1I), [if found](https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Could've Been Us](https://open.spotify.com/album/1VymWBVVHSJWZXILkquSiA) | 3:19 | 2022-05-29 |  |
 | [Count Me Out](https://open.spotify.com/track/3jPYaAlI795e7rOxuWhrSi) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Count Me Out](https://open.spotify.com/album/2UUU9AMOEP4g21JA6WlPaA) | 3:13 | 2024-05-17 |  |
-| [Cowboy Outta You](https://open.spotify.com/track/7HE2PTsOzi5v5b4A2qhXck) | [Payton Sullivan](https://open.spotify.com/artist/7ri5Tp1crD2xvVkzrkU6r4) | [Cowboy Outta You](https://open.spotify.com/album/1jQcqjlFyUKabQupybp1QL) | 3:30 | 2025-11-12 |  |
+| [Cowboy Outta You](https://open.spotify.com/track/5x6m9fSw23i0koNnpMxNQn) | [Payton Sullivan](https://open.spotify.com/artist/7ri5Tp1crD2xvVkzrkU6r4) | [Cowboy Outta You](https://open.spotify.com/album/3siD2kVE0SFBgPXBlujSTH) | 3:30 | 2026-01-01 |  |
+| [Cowboy Outta You](https://open.spotify.com/track/7HE2PTsOzi5v5b4A2qhXck) | [Payton Sullivan](https://open.spotify.com/artist/7ri5Tp1crD2xvVkzrkU6r4) | [Cowboy Outta You](https://open.spotify.com/album/1jQcqjlFyUKabQupybp1QL) | 3:30 | 2025-11-12 | 2026-01-02 |
 | [Dandelion](https://open.spotify.com/track/0BoDLO2lrH1jh1RaCzmkYJ) | [Mat Kearney](https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1) | [Mat Kearney](https://open.spotify.com/album/3DBFBwe5OkJzj1j992u0bG) | 3:23 | 2024-05-17 |  |
 | [Decisions](https://open.spotify.com/track/2jInFMeZjGNvKwEJrEx4B1) | [Jay Dixie](https://open.spotify.com/artist/1PPyzpnVhzlh4mrUrIkCzr), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Decisions](https://open.spotify.com/album/22Kmwh0kZhMnnJn2AnSiSF) | 2:21 | 2023-08-30 |  |
 | [Desperate](https://open.spotify.com/track/4CmtnIlvd5fdmJ94dSO5Ig) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [My Stupid Life](https://open.spotify.com/album/3pWiHbMUEcxA0TjNW1Ipb3) | 3:51 | 2024-05-17 |  |
@@ -42,7 +43,8 @@
 | [die 4 u](https://open.spotify.com/track/7k8IcQsuJAPtWI6QNCdSx3) | [Livy Jeanne](https://open.spotify.com/artist/0BBr2UBxbwwmG9yLEr8mR5) | [die 4 u](https://open.spotify.com/album/7Bw4ZLyMlGiihatI3VUQq9) | 2:53 | 2022-05-29 | 2025-11-28 |
 | [Different](https://open.spotify.com/track/6bftsMpTdePICqVv971m9v) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [PARANOIA](https://open.spotify.com/album/7HMr6WMf0T6E3RSOCskl4L) | 2:47 | 2025-07-24 | 2025-07-30 |
 | [do over](https://open.spotify.com/track/5FbM3S9jbkeIM1arWD4qO6) | [Homegrown Trio](https://open.spotify.com/artist/2BVJ6xbABKHgRHAOXgaei2) | [do over](https://open.spotify.com/album/6bUpEvspbvIZkIeU2IxQ9G) | 2:52 | 2025-12-20 |  |
-| [Down the Road](https://open.spotify.com/track/2RaRWh3h6F08UmDVf2LVlm) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Down the Road](https://open.spotify.com/album/37NrH7ebRvtVLKqcUhvPCn) | 3:13 | 2025-10-08 |  |
+| [Down the Road](https://open.spotify.com/track/23S4rMy1m1KE5AISVFY4cY) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Down the Road](https://open.spotify.com/album/1lFfsAuSrkHRIaLfv3NFT4) | 3:13 | 2026-01-01 |  |
+| [Down the Road](https://open.spotify.com/track/2RaRWh3h6F08UmDVf2LVlm) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Down the Road](https://open.spotify.com/album/37NrH7ebRvtVLKqcUhvPCn) | 3:13 | 2025-10-08 | 2026-01-02 |
 | [Easy for You to Say](https://open.spotify.com/track/2JlJyrMZetXkuwAL7ntuWz) | [Dave Blenkhorn](https://open.spotify.com/artist/2PnXjyP9d0S0qW7XL8SIvh), [Harry Allen](https://open.spotify.com/artist/7HEPzI1k3SXs2lJ3EixmjR) | [Easy for You to Say](https://open.spotify.com/album/57359rsxD8n5crU2jNz7tP) | 3:04 | 2025-07-24 | 2025-07-31 |
 | [Easy on Me](https://open.spotify.com/track/4U35K9PqSqC28vhsEYCYru) | [Jack Newsome](https://open.spotify.com/artist/0JWzjpVD9Y6AJKIEg1JkYj) | [All Dressed Up](https://open.spotify.com/album/2fTcxmyd15YE0SvnGfwGGY) | 2:56 | 2022-05-29 |  |
 | [End of Time](https://open.spotify.com/track/3QNELTJE1rx5TwDFOel2rr) | [VAVO](https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK), [Jake Banfield](https://open.spotify.com/artist/2x25aNM4XzVKgrmZw5xcrb) | [End of Time](https://open.spotify.com/album/3cz09fVEDtdj90y4UUVa7s) | 3:01 | 2025-07-24 |  |
@@ -100,7 +102,8 @@
 | [Loud House](https://open.spotify.com/track/7htVJ5wxCPkXT6U8X7X0nv) | [Madison Kozak](https://open.spotify.com/artist/3UsRi9YafI0zUTd0OR8VSJ) | [Loud House](https://open.spotify.com/album/7jBhlxv61IXDZa0QjWfdx1) | 3:24 | 2022-08-07 | 2024-07-12 |
 | [Love's Contagious](https://open.spotify.com/track/0UjBGfWrjApND3MKR6winT) | [Darby](https://open.spotify.com/artist/151Z1Ly2l0u5Vm4zugwQTT) | [Love's Contagious](https://open.spotify.com/album/6iZ25yelMx8XcA85uW96dR) | 2:19 | 2023-02-13 |  |
 | [Love's Got The Best Of Us](https://open.spotify.com/track/2uyecknCyzHBEzLvnNIx8L) | [Lamont Landers](https://open.spotify.com/artist/3avnA23xLmCYfnsivruOgq) | [Introducing...Lamont Landers](https://open.spotify.com/album/01r0m4CYWjCtRicKyencpQ) | 3:39 | 2025-10-08 |  |
-| [Luckier](https://open.spotify.com/track/2ZryPLqBfvls1yKC9wlqv0) | [Jenna Davis](https://open.spotify.com/artist/6oXQgzqvbeAem9kPX0pXnD) | [Luckier](https://open.spotify.com/album/1Ej6Oap0FVOYsnvBQcWj2u) | 3:14 | 2024-10-06 |  |
+| [Luckier](https://open.spotify.com/track/2ZryPLqBfvls1yKC9wlqv0) | [Jenna Davis](https://open.spotify.com/artist/6oXQgzqvbeAem9kPX0pXnD) | [Luckier](https://open.spotify.com/album/1Ej6Oap0FVOYsnvBQcWj2u) | 3:14 | 2024-10-06 | 2026-01-02 |
+| [Luckier](https://open.spotify.com/track/7Fb3sRIpWeB55rQ6iCbTpQ) | [Jenna Davis](https://open.spotify.com/artist/6oXQgzqvbeAem9kPX0pXnD) | [Luckier](https://open.spotify.com/album/4jT5Qe7EdfP07HcVKE2vgG) | 3:14 | 2026-01-01 |  |
 | [Made In The USA](https://open.spotify.com/track/7fvEOr1hTCiJpUMm90FzhM) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Leather Deluxe Edition](https://open.spotify.com/album/5CWUkGGArOj0vj7z1BogV0) | 3:47 | 2024-11-03 |  |
 | [Make Up My Mind](https://open.spotify.com/track/3W4g24a8AoYpG1FFhKH3ls) | [Lena Stone](https://open.spotify.com/artist/4povL23A9IkoiWKv9KHhkx) | [Lena Stone](https://open.spotify.com/album/1gppHReaCZL3IlKnSI2cIi) | 3:13 | 2022-05-29 |  |
 | [Make You Stay](https://open.spotify.com/track/0v5XilXB3wnpwIbyxiIaOh) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [Backseats and Burnt CDs](https://open.spotify.com/album/1OqREMCBqRnAvoe86lT30y) | 2:50 | 2022-05-29 |  |

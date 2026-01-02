@@ -1,29 +1,13 @@
 {
   "description": "This is Los Jaivas. The essential tracks, all in one playlist.",
-  "num_followers": 35983,
+  "num_followers": 35987,
   "original_name": "This Is Los Jaivas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVMWAAAAAAAQgtWdSMLZBmVxzH01wU6T",
+  "snapshot_id": "aVRngAAAAAAdHAMIeYkmBhmFlURgg8O4",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hijos de la Tierra",
-        "url": "https://open.spotify.com/album/6F4aiBPbgSgnZIoZUL3sv0"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 296693,
-      "name": "Hijos de la Tierra",
-      "url": "https://open.spotify.com/track/32NczfSMSbB340CEvtwYhq"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 286506,
       "name": "Sube a Nacer Conmigo Hermano",
       "url": "https://open.spotify.com/track/3EvvlSne1RKjPYJsi1qKpl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hijos de la Tierra",
+        "url": "https://open.spotify.com/album/6F4aiBPbgSgnZIoZUL3sv0"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 296693,
+      "name": "Hijos de la Tierra",
+      "url": "https://open.spotify.com/track/32NczfSMSbB340CEvtwYhq"
     },
     {
       "added_at": null,
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 220373,
-      "name": "Aconcagua",
-      "url": "https://open.spotify.com/track/0FYSaSJEndxvjuIEKprPuy"
+      "duration_ms": 230133,
+      "name": "Takirari del Puerto",
+      "url": "https://open.spotify.com/track/1BHHR8y6keQDMdTdiXyxdl"
     },
     {
       "added_at": null,
@@ -216,9 +216,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 230133,
-      "name": "Takirari del Puerto",
-      "url": "https://open.spotify.com/track/1BHHR8y6keQDMdTdiXyxdl"
+      "duration_ms": 220373,
+      "name": "Aconcagua",
+      "url": "https://open.spotify.com/track/0FYSaSJEndxvjuIEKprPuy"
     },
     {
       "added_at": null,
@@ -583,8 +583,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Ventana (Remasterizado 2020)",
-        "url": "https://open.spotify.com/album/6TKiJjr8lQOcO6FpRGkg6N"
+        "name": "Si T\u00fa No Est\u00e1s",
+        "url": "https://open.spotify.com/album/5oX1Jjge7MwrMgYuCKjmxv"
       },
       "artists": [
         {
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 283189,
-      "name": "La Quebr\u00e1 del Aj\u00ed - 2020 Remasterizado",
-      "url": "https://open.spotify.com/track/4DcL14AtBwYVpCKq5Lvz2a"
+      "duration_ms": 225093,
+      "name": "Si T\u00fa No Est\u00e1s",
+      "url": "https://open.spotify.com/track/32R26AXFfke6v6eSEive5q"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si T\u00fa No Est\u00e1s",
-        "url": "https://open.spotify.com/album/5oX1Jjge7MwrMgYuCKjmxv"
+        "name": "La Ventana (Remasterizado 2020)",
+        "url": "https://open.spotify.com/album/6TKiJjr8lQOcO6FpRGkg6N"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 225093,
-      "name": "Si T\u00fa No Est\u00e1s",
-      "url": "https://open.spotify.com/track/32R26AXFfke6v6eSEive5q"
+      "duration_ms": 283189,
+      "name": "La Quebr\u00e1 del Aj\u00ed - 2020 Remasterizado",
+      "url": "https://open.spotify.com/track/4DcL14AtBwYVpCKq5Lvz2a"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > 
 
-538 songs - 1 day 11 hr 16 min
+542 songs - 1 day 11 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [2 Phút Hơn \- KAIZ Remix](https://open.spotify.com/track/4SUk1ZTtA6OC120afxrpRZ) | [Pháo](https://open.spotify.com/artist/4en2ObzSYlIYbCGknXjgG9), [KAIZ](https://open.spotify.com/artist/5Oy8zRNFImMUeoAxjbT7Bj) | [2 Phút Hơn \(KAIZ Remix\)](https://open.spotify.com/album/1V8qSPtmixwUiyLheEazuc) | 3:03 | 2025-10-15 |  |
 | [20 Percent Cooler](https://open.spotify.com/track/1DFnEeH1a4zUh4pIRzopEF) | [Ken Ashcorp](https://open.spotify.com/artist/1x2YcZB1QpRZB3HT9gdUCQ) | [20 Percent Cooler \- Single](https://open.spotify.com/album/0iIFFIydL6qKU5iTAFdoBT) | 3:12 | 2022-05-09 |  |
 | [2U](https://open.spotify.com/track/0uuh9QVdKi4TwZBSlOVZeR) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk) | [2U](https://open.spotify.com/album/58jNlxJHxeGdxA4mv7dzQG) | 3:30 | 2025-10-15 |  |
+| [6 Underground](https://open.spotify.com/track/7KvSuH86lIT2aTl9PBCAfd) | [Sneaker Pimps](https://open.spotify.com/artist/1EJWNhiYbOyeUHbsS7Kp1P) | [Becoming X](https://open.spotify.com/album/74nAYi5aVDBdb5jGx8OM7s) | 3:48 | 2026-01-02 |  |
 | [6 Underground](https://open.spotify.com/track/1DDrG8GgDok5bOiykuAKjC) | [Sneaker Pimps](https://open.spotify.com/artist/1EJWNhiYbOyeUHbsS7Kp1P) | [Becoming X](https://open.spotify.com/album/5rIeCrPMORlt7o36fFSGm4) | 4:06 | 2025-10-15 |  |
 | [A fleeting moment](https://open.spotify.com/track/11EqP8m9Kp05dIc6TZD9De) | [Jeon Yonghyeon](https://open.spotify.com/artist/5U8srhgFE0LDE2cTwDYuYS) | [MIGNON \(Original Soundtrack\)](https://open.spotify.com/album/0EhtBG8i5tXXb4iITyrIty) | 1:49 | 2025-12-25 |  |
 | [A Stranger I Remain \- Maniac Agenda Mix](https://open.spotify.com/track/29eKlSdk4dmwBgqtwASiFW) | [Free Dominguez](https://open.spotify.com/artist/15F1IbwHnVU0n3elJo2V8o) | [METAL GEAR RISING REVENGEANCE Vocal Tracks Selection](https://open.spotify.com/album/3DR0FThvw6I18Ntp3D6kxf) | 2:25 | 2023-03-09 |  |
@@ -122,6 +123,7 @@
 | [Downtown](https://open.spotify.com/track/7Lsh4dnIqhzk5Z0C9sJxhW) | [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm) | [I Shine, U Shine](https://open.spotify.com/album/0d7p7ZqUrprI71laQ7Dvlr) | 3:54 | 2022-05-09 |  |
 | [Dreamstate](https://open.spotify.com/track/4WOYAnPBe0qqlgcVAPLCd8) | [Ephixa](https://open.spotify.com/artist/7xYcJfhrRx9Iv8smhoEibc) | [Dreamstate](https://open.spotify.com/album/3GSBcowmQxTWGiBOc4zJwh) | 3:18 | 2020-07-25 |  |
 | [Drifter](https://open.spotify.com/track/1Nn6mAOMWSSzhZZRRviIkx) | [toconoma](https://open.spotify.com/artist/3XKBSRkQeskeHIpRvA5XaS) | [VISTA](https://open.spotify.com/album/1OYR2IdjQLe4lggwqPORMP) | 4:16 | 2025-10-15 |  |
+| [DRIVE OFF A BRIDGE](https://open.spotify.com/track/5BUMezybH9ddavsNH1O6Py) | [Jakey](https://open.spotify.com/artist/3q1NKu1dVzFcBfxFos4kE3) | [ROMCOM](https://open.spotify.com/album/5vKdHtnPF6EJZcoGZYN83I) | 3:21 | 2026-01-01 |  |
 | [DRUM GO DUM](https://open.spotify.com/track/3CEW3iffD2QvNZMK20sMqW) | [K/DA](https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v), [Wolftyla](https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb), [Bekuh Boom](https://open.spotify.com/artist/260LldmHBR0r2wtWtjzNxL), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [ALL OUT](https://open.spotify.com/album/3wX4yrxMuHapSLvadxQkVV) | 3:20 | 2025-10-15 |  |
 | [Dynasties and Dystopia \(from the series Arcane League of Legends\)](https://open.spotify.com/track/2k2RPHMeyercU9PauiKNbU) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Gizzle](https://open.spotify.com/artist/0xukYGKRRwBWS1N9sfCQoq), [Bren Joy](https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp) | [Arcane League of Legends \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/3MdiH74FL8mhlbnR6DcqJd) | 2:58 | 2022-05-09 |  |
 | [Dzjin \- Original Mix](https://open.spotify.com/track/2xfyeTs2dRhPvaDVllmGMZ) | [cYsmix](https://open.spotify.com/artist/01D5XnAKpuAbd9PrYSRCuR) | [Voodooism](https://open.spotify.com/album/4Onaw3mGwK7EnAf8thuDv9) | 4:49 | 2020-03-11 |  |
@@ -268,6 +270,7 @@
 | [Light Stops Dripping Through The Stars \- Sewerslvt Remix](https://open.spotify.com/track/6OHWYgAcTpBhCAdShyretc) | [AgonyOST](https://open.spotify.com/artist/1XUDvMVQEJ5HkfG3qzN6yt), [Sewerslvt](https://open.spotify.com/artist/30F64wQIHvLiFTGaNZ73nU) | [Light Stops Dripping Through The Stars \(Sewerslvt Remix\)](https://open.spotify.com/album/3TdP57LyA8XjyUOVXoCDnN) | 6:07 | 2024-10-06 |  |
 | [Light Years](https://open.spotify.com/track/0zOb6qsJmVpO8ZztQ8PjuK) | [Stellardrone](https://open.spotify.com/artist/5WUuOv4NOeXvCzjQnmKqTA) | [Light Years](https://open.spotify.com/album/6uQHo7feNU73mKn8X69pwk) | 6:04 | 2025-10-15 |  |
 | [Like Me](https://open.spotify.com/track/51NYFGDXYKS4FkRqkw98hx) | [Chase Icon](https://open.spotify.com/artist/5XPJP6zfXVlPJtO4QSsSmQ) | [Like Me](https://open.spotify.com/album/368nZKtIZTNUCRZPEsu7WU) | 1:58 | 2025-10-15 |  |
+| [LIKE TOTALLY FREAK ME OUT](https://open.spotify.com/track/7xcmS4PaNKDQp2yB3Ad01A) | [Jakey](https://open.spotify.com/artist/3q1NKu1dVzFcBfxFos4kE3) | [ROMCOM](https://open.spotify.com/album/5vKdHtnPF6EJZcoGZYN83I) | 3:04 | 2026-01-01 |  |
 | [Limits](https://open.spotify.com/track/0I9tcuy5MfjZQyVrtJXUxy) | [Silkie](https://open.spotify.com/artist/2Mn5YxJ8YfFCU6h2Ypr8NI) | [Fractals](https://open.spotify.com/album/7exs0W7HrIu3T3oR0kX9oS) | 5:58 | 2021-03-02 |  |
 | [lithium flower](https://open.spotify.com/track/6IouGBVgNIsrRko3llWdZ8) | [Scott Matthew](https://open.spotify.com/artist/18Xy9oGF9CxiU9luAp3Dzu) | [攻殻機動隊 STAND ALONE COMPLEX　O.S.T.＋](https://open.spotify.com/album/2xwzJG5kuUOIuyEf6u3OXQ) | 3:22 | 2025-10-15 |  |
 | [Long Division](https://open.spotify.com/track/7hv8JqWqn3qa8Jd2zwC7i6) | [Drab Majesty](https://open.spotify.com/artist/2CSEKlTT9empsZ8vZWsrKO) | [Modern Mirror](https://open.spotify.com/album/5M68LgZR31aWfO4rWwooQK) | 5:04 | 2025-10-15 |  |
@@ -338,6 +341,7 @@
 | [Photosynthesis](https://open.spotify.com/track/3DlgDXIYtnWtJKiB8bZQMv) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg) | [Bucket List Project](https://open.spotify.com/album/10UscF31tC7Sz8S2a1mGbM) | 3:21 | 2022-05-09 |  |
 | [Piano Boy](https://open.spotify.com/track/7zyo93bLysAjU08Enina9r) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [1987](https://open.spotify.com/album/7bRsJhxn1QuUqSkudUzSV3) | 6:08 | 2025-10-15 |  |
 | [Pigalle](https://open.spotify.com/track/2wxTz9nx62j9usQRJDKZD8) | [Kamaal Williams](https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS) | [Wu Hen](https://open.spotify.com/album/04kN5iKwGoYMSkr9cPZrWp) | 6:14 | 2022-05-09 |  |
+| [PINE BARRENS](https://open.spotify.com/track/4rXPslBAEpEmo1ywklkzyc) | [Jakey](https://open.spotify.com/artist/3q1NKu1dVzFcBfxFos4kE3) | [ROMCOM](https://open.spotify.com/album/5vKdHtnPF6EJZcoGZYN83I) | 3:49 | 2026-01-01 |  |
 | [Pixel Affection](https://open.spotify.com/track/46IEYjzyS37lltLLCDJbC0) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Pixel Affection](https://open.spotify.com/album/6293U8X30osYTMXgFpVnub) | 3:39 | 2022-05-09 |  |
 | [player](https://open.spotify.com/track/6V7zJOoCyx2LUECNqYFrhQ) | [Origa](https://open.spotify.com/artist/08pXfHf1e4hLeDz1BgmOqL), [Heartsdales](https://open.spotify.com/artist/6GM1DqK9x30pjn3tPAZpgT) | [攻殻機動隊 S.A.C\. Solid State Society　O.S.T.](https://open.spotify.com/album/4FLVYdG4mlaydxbg9ItTyH) | 5:42 | 2025-10-15 |  |
 | [Playground \(from the series Arcane League of Legends\)](https://open.spotify.com/track/5f2zZawBtGBEw24ABweErz) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Playground \(from the series Arcane League of Legends\)](https://open.spotify.com/album/118EoTgIkMLl9fcutZfgaq) | 3:50 | 2022-05-09 |  |

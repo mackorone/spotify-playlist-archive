@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsza \u015bwie\u017ca polska alternatywa. Cover: Ka\u015bka Sochacka",
+  "description": "Najlepsza \u015bwie\u017ca polska alternatywa. Cover: Yana Couto",
   "name": "Alternatywna Polska",
   "tracks": [
     {
@@ -5855,6 +5855,24 @@
     },
     {
       "album": {
+        "name": "Fragile (Main Theme)",
+        "url": "https://open.spotify.com/album/26tLBiCmSvUyJQ0bZTrzC9"
+      },
+      "artists": [
+        {
+          "name": "Yana Couto",
+          "url": "https://open.spotify.com/artist/6Em3ZrtfeNlVv8kyJcHcZt"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "Fragile (Main Theme)",
+      "url": "https://open.spotify.com/track/07Ben09yppdzQTYcLLX5tn"
+    },
+    {
+      "album": {
         "name": "frankfurt",
         "url": "https://open.spotify.com/album/5NHa662rh3ENosyGrsmNyJ"
       },
@@ -6806,7 +6824,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 177500,
       "name": "I tak do Was dojad\u0119 (na \u015bwi\u0119ta)",
       "url": "https://open.spotify.com/track/5MRzrAPJktQYwTIWcT6Ezg"
@@ -17354,7 +17372,7 @@
       ],
       "date_added": "2025-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 237631,
       "name": "Ramen",
       "url": "https://open.spotify.com/track/1fWiLeqoyGNpm1IiMv4sMt"
@@ -18828,6 +18846,24 @@
       "duration_ms": 180290,
       "name": "Spadaj\u0105ce gwiazdy",
       "url": "https://open.spotify.com/track/4ggf5e1R9ksMB2m58ouAQa"
+    },
+    {
+      "album": {
+        "name": "Spadam st\u0105d",
+        "url": "https://open.spotify.com/album/62PR30PbPMvxmaN1YohG6v"
+      },
+      "artists": [
+        {
+          "name": "Sonbird",
+          "url": "https://open.spotify.com/artist/2zaVOOnzM7kPPCh0BIar3A"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240892,
+      "name": "Spadam st\u0105d",
+      "url": "https://open.spotify.com/track/3DNNSrS1gANfSyk19S4TLI"
     },
     {
       "album": {

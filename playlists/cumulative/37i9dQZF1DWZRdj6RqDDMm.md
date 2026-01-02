@@ -4,7 +4,7 @@
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: Nöel Mio
 
-598 songs - 1 day 9 hr 23 min
+599 songs - 1 day 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -444,6 +444,7 @@
 | [Reason](https://open.spotify.com/track/7g1fOSnAihpBat31TuVlsY) | [THE VIBE](https://open.spotify.com/artist/1DEBQza9th8M8QC6E2DOA1) | [Reason & My Gift](https://open.spotify.com/album/6vokEHMUgLwuFc0g8vKK4b) | 2:38 | 2025-07-25 | 2025-08-15 |
 | [Reason To Pray \- Radio Edit](https://open.spotify.com/track/5pic00RNmLcwBP3RtP3Ejo) | [Senior Oat](https://open.spotify.com/artist/5cAwYPpCI9QI5V7N0mxUKw), [Ms Abbey](https://open.spotify.com/artist/7gHzNSIQYshJcNiannytJT), [Andriana](https://open.spotify.com/artist/2HXCjA11s25bZq3UTeQqkx), [Mzweshper\_sa](https://open.spotify.com/artist/3VpJTLc9G3D441scflIGbx) | [Reason To Pray \(Radio Edit\)](https://open.spotify.com/album/4ccS3h3lBSIZwYYx8e92Hs) | 5:13 | 2024-03-29 | 2024-06-07 |
 | [Reckless Love](https://open.spotify.com/track/15zR00rFi1R66ycBetOC4t) | [Mike Aremu](https://open.spotify.com/artist/714vqy5IsHxOtHRvGIkIYX) | [Reckless Love](https://open.spotify.com/album/4t9mXdH0QEzvoJW1lMQU3C) | 4:16 | 2024-05-24 | 2024-09-06 |
+| [Reflection](https://open.spotify.com/track/7wXvqA7v5Rr1cT6yZn8WOq) | [Emino Music](https://open.spotify.com/artist/65GNAr0aGMupyBKVZ4p98a), [Emino](https://open.spotify.com/artist/3hYAcneDCX7ejZQfeZT3Fy), [Mckelv](https://open.spotify.com/artist/1hp89EeuCGUjpcEzqAFWia) | [Reflection](https://open.spotify.com/album/2lj42BUlWC7bDDU23BRvtV) | 3:44 | 2026-01-02 |  |
 | [Refuge](https://open.spotify.com/track/0XgwyHubW1bkFlIc9xItR0) | [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [Refuge](https://open.spotify.com/album/2NZ39Qei2PPavJYHuRedJf) | 2:37 | 2024-08-30 | 2024-11-01 |
 | [Refuge](https://open.spotify.com/track/4xFlwxw1DuaE1cgztdTErm) | [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC) | [Refuge](https://open.spotify.com/album/75Ikz2bkBV7rK6tSzzpdcx) | 2:57 | 2025-09-19 | 2025-10-31 |
 | [Rely](https://open.spotify.com/track/5ljtIbobn623rJ9QrA111X) | [Blesside](https://open.spotify.com/artist/6XP3o5zMuprWMDuBVLny32), [RTD.](https://open.spotify.com/artist/0Day07zi4FVtyo0HHX1ca5) | [Rely](https://open.spotify.com/album/2u4bXDdD3CTAn17qgcgNCB) | 2:40 | 2024-01-26 | 2024-02-23 |
@@ -578,7 +579,7 @@
 | [Worry About Nothing](https://open.spotify.com/track/4gEkiIg4XatM4x10HcAdMy) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Worry About Nothing](https://open.spotify.com/album/1VKHWGZru3AKfEzA9zn15s) | 3:24 | 2024-01-12 | 2024-03-29 |
 | [Worthy](https://open.spotify.com/track/3wvWdSDQSNlyof2evfER3t) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Shime Ahua](https://open.spotify.com/artist/10hDEzXFAjeQPXm8fxhds5) | [Worthy](https://open.spotify.com/album/2Len8qt5dWE2N91BjQxR1r) | 2:49 | 2025-01-10 | 2025-05-30 |
 | [Worthy](https://open.spotify.com/track/6NzXCS4aW5Qu88K93xqyVA) | [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC) | [Worthy](https://open.spotify.com/album/4VtWkewsIuP5tJ1SFpya5q) | 1:52 | 2025-11-07 | 2025-12-26 |
-| [Yahweh](https://open.spotify.com/track/4sPs5XhnfUTM7OipFTOJjA) | [Outgun Onkar](https://open.spotify.com/artist/4prG7V9Q373dQcu1sfyplD), [Esua](https://open.spotify.com/artist/4d4PXQtoasXLoQHuguk2U2) | [Yahweh](https://open.spotify.com/album/7k5jPNCIuuPAzh2mm6HgnK) | 3:08 | 2025-10-24 |  |
+| [Yahweh](https://open.spotify.com/track/4sPs5XhnfUTM7OipFTOJjA) | [Outgun Onkar](https://open.spotify.com/artist/4prG7V9Q373dQcu1sfyplD), [Esua](https://open.spotify.com/artist/4d4PXQtoasXLoQHuguk2U2) | [Yahweh](https://open.spotify.com/album/7k5jPNCIuuPAzh2mm6HgnK) | 3:08 | 2025-10-24 | 2026-01-02 |
 | [YAHWEH](https://open.spotify.com/track/5zcN37FyD7kZjtZbG8mkj3) | [Tevinnmusic](https://open.spotify.com/artist/1Vw2K0RswB87LX58SylIBB), [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [Jayclassic](https://open.spotify.com/artist/1zHVfhNLYAFudApzvfCIUp) | [YAHWEH](https://open.spotify.com/album/5qrTKLpLI4RkZGr9KMiSEl) | 2:38 | 2025-07-25 | 2025-09-19 |
 | [Yahweh](https://open.spotify.com/track/3EdKqTX7D0vZ8hzz2cCj73) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX) | [Theresa Phondo](https://open.spotify.com/album/2UMRplzblsIzW07Mr9SIX6) | 3:07 | 2024-07-12 | 2025-01-10 |
 | [Yahweh \(Godiya Gareka\)](https://open.spotify.com/track/5denxHwiQxVrZSANjsDh8C) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Yahweh \(Godiya Gareka\)](https://open.spotify.com/album/5vFoKYEWSSMEiSEra8Mq6J) | 9:34 | 2025-04-25 |  |

@@ -289,7 +289,7 @@ pretty - [cumulative](/playlists/cumulative/4J7RnCQEJNeM4wxdjV76tM.md) - [plain]
 | 279 | [Caribbean](https://open.spotify.com/track/0wXDkdptCVhhDsLDGAhAOS) | [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ) | [Party Pack\. Vol 2](https://open.spotify.com/album/6lolOKwewTA3hoBA6FDTI0) | 2:41 |
 | 280 | [Awakening](https://open.spotify.com/track/0A9MqVAee8Snbyxj0wGIbJ) | [2Time](https://open.spotify.com/artist/5tA4qrmKYeUvpxuTGKuUIw) | [Awakening](https://open.spotify.com/album/1TUsnyEKjbYaOQvHlCrSze) | 1:59 |
 | 281 | [Flawlëss \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/1a019wP7IdYLexwbmfZPm3) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Lyfë](https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu) | 2:56 |
-| 282 | [Know Better](https://open.spotify.com/track/2NqNiE4UpYtk2Z1BbnL6fg) | [Bravo the Bagchaser](https://open.spotify.com/artist/31t9hT68QYCDPWkkUVrQjY) | [Know Better](https://open.spotify.com/album/17y5Z2AOTQoz3KBHfZrGGJ) | 2:59 |
+| 282 | [Know Better](https://open.spotify.com/track/2NqNiE4UpYtk2Z1BbnL6fg) | [Bravo the Bagchaser](https://open.spotify.com/artist/0Wgz0pZE1h5TOIfhtPIGxT) | [Know Better](https://open.spotify.com/album/17y5Z2AOTQoz3KBHfZrGGJ) | 2:59 |
 | 283 | [Germantown](https://open.spotify.com/track/3uIeyUazuC5g7R6G9wCy41) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Black Smurf](https://open.spotify.com/artist/0roRnStSzF1uet2JvSM6U3) | [Black $uicide Side C: The Seventh Seal](https://open.spotify.com/album/2kx2zE6RYdyZ1IRhVz70xC) | 3:47 |
 | 284 | [Bet](https://open.spotify.com/track/504JCx3dJov6Fi5083r4Hb) | [D\. Savage](https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc) | [BPL](https://open.spotify.com/album/5gHs4xLkr2g66PRNsvSh83) | 2:22 |
 | 285 | [Pyramids](https://open.spotify.com/track/4QhWbupniDd44EDtnh2bFJ) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 9:52 |
@@ -652,4 +652,4 @@ pretty - [cumulative](/playlists/cumulative/4J7RnCQEJNeM4wxdjV76tM.md) - [plain]
 | 642 | [Animal I Have Become](https://open.spotify.com/track/56sk7jBpZV0CD31G9hEU3b) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [One\-X](https://open.spotify.com/album/4ZDwEvXIKxWdwhAQK8ndBU) | 3:51 |
 | 643 | [Ayo Technology](https://open.spotify.com/track/36Hwcla06Q5BCr59CL0sBp) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Curtis](https://open.spotify.com/album/5VfBwkAoSsQwtZjPU0Gr7h) | 4:07 |
 
-Snapshot ID: `AAAERto8H2xq54uMA00klBDk8nhCrjTC`
+Snapshot ID: `AAAERynnNVJevCBQ8/8e8lhjVusIWRj9`

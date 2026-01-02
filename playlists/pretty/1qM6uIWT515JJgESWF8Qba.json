@@ -1,12 +1,12 @@
 {
   "description": "It&#x27;s 5 o&#x27;clock somewhere and best believe there&#x27;s a local band there ready to rock when the sun goes down.",
-  "num_followers": 281,
+  "num_followers": 283,
   "original_name": "Local Rock Bands",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAA8YIEVecnNk8EmRWLaGwL3rcE/dvu",
+  "snapshot_id": "AAAA81t1aOPPZCrRamshxEXt+ceuOzUE",
   "tracks": [
     {
       "added_at": "2025-09-16 13:19:37",
@@ -895,6 +895,38 @@
       "duration_ms": 273802,
       "name": "Summertime (2025)",
       "url": "https://open.spotify.com/track/5KnewAmxxneui5ZujMZkQV"
+    },
+    {
+      "added_at": "2026-01-01 15:38:49",
+      "album": {
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/78Vn2njYDYqLAKl7LWAMKC"
+      },
+      "artists": [
+        {
+          "name": "Gradience",
+          "url": "https://open.spotify.com/artist/6jgh7lYvPsSFJPa0OMkWH4"
+        }
+      ],
+      "duration_ms": 217297,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/5U1VJztDR0Dj59N0DIMe2x"
+    },
+    {
+      "added_at": "2026-01-01 15:45:24",
+      "album": {
+        "name": "Extendead Play",
+        "url": "https://open.spotify.com/album/5kf27yA2pk86epIZc20WlB"
+      },
+      "artists": [
+        {
+          "name": "Highway Queen",
+          "url": "https://open.spotify.com/artist/6HV2ATap9CHsc4EcZnzc4u"
+        }
+      ],
+      "duration_ms": 240432,
+      "name": "I Will Take You To Hell",
+      "url": "https://open.spotify.com/track/6jcFAG4Tqw2klTj8KPFEZF"
     }
   ],
   "unique_name": "Local Rock Bands",

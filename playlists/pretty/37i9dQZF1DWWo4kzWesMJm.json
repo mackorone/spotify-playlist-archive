@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs airs d'autoroute.",
-  "num_followers": 178970,
+  "num_followers": 178986,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
@@ -175,6 +175,26 @@
     {
       "added_at": "2025-12-29 16:15:31",
       "album": {
+        "name": "D'eux - \u00c9dition 15\u00e8me Anniversaire",
+        "url": "https://open.spotify.com/album/2rK67uK3n9hJObOecEJOjk"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        },
+        {
+          "name": "Jean-Jacques Goldman",
+          "url": "https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2"
+        }
+      ],
+      "duration_ms": 207040,
+      "name": "J'irai o\u00f9 tu iras (with Jean-Jacques Goldman)",
+      "url": "https://open.spotify.com/track/2dMLZBAf1mnrtviUHiwd7J"
+    },
+    {
+      "added_at": "2025-12-29 16:15:31",
+      "album": {
         "name": "Aller-retour",
         "url": "https://open.spotify.com/album/2i05vSN6Qp14HGI4fc1M14"
       },
@@ -195,22 +215,6 @@
     {
       "added_at": "2025-12-29 16:15:31",
       "album": {
-        "name": "C'est d\u00e9j\u00e0 \u00e7a",
-        "url": "https://open.spotify.com/album/2aZRmXEvD458ZCk1C0Wdu5"
-      },
-      "artists": [
-        {
-          "name": "Alain Souchon",
-          "url": "https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x"
-        }
-      ],
-      "duration_ms": 324906,
-      "name": "Foule sentimentale",
-      "url": "https://open.spotify.com/track/2W4ZxAHZAXOf6r65pCskGR"
-    },
-    {
-      "added_at": "2025-12-29 16:15:31",
-      "album": {
         "name": "Kendji",
         "url": "https://open.spotify.com/album/1iddjUYhfMpjTVY5SQZxKm"
       },
@@ -227,22 +231,18 @@
     {
       "added_at": "2025-12-29 16:15:31",
       "album": {
-        "name": "D'eux - \u00c9dition 15\u00e8me Anniversaire",
-        "url": "https://open.spotify.com/album/2rK67uK3n9hJObOecEJOjk"
+        "name": "C'est d\u00e9j\u00e0 \u00e7a",
+        "url": "https://open.spotify.com/album/2aZRmXEvD458ZCk1C0Wdu5"
       },
       "artists": [
         {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        },
-        {
-          "name": "Jean-Jacques Goldman",
-          "url": "https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2"
+          "name": "Alain Souchon",
+          "url": "https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x"
         }
       ],
-      "duration_ms": 207040,
-      "name": "J'irai o\u00f9 tu iras (with Jean-Jacques Goldman)",
-      "url": "https://open.spotify.com/track/2dMLZBAf1mnrtviUHiwd7J"
+      "duration_ms": 324906,
+      "name": "Foule sentimentale",
+      "url": "https://open.spotify.com/track/2W4ZxAHZAXOf6r65pCskGR"
     },
     {
       "added_at": "2025-12-29 16:15:31",
@@ -327,22 +327,6 @@
     {
       "added_at": "2025-12-29 16:15:31",
       "album": {
-        "name": "Photos de voyages (Remastered)",
-        "url": "https://open.spotify.com/album/6Mhp0Fb0RoraaLNZ0fFRwR"
-      },
-      "artists": [
-        {
-          "name": "Francis Cabrel",
-          "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
-        }
-      ],
-      "duration_ms": 273680,
-      "name": "Encore et encore - Remastered",
-      "url": "https://open.spotify.com/track/2KzUa9x2TNzHVsx4sVuHsx"
-    },
-    {
-      "added_at": "2025-12-29 16:15:31",
-      "album": {
         "name": "Sans plus attendre",
         "url": "https://open.spotify.com/album/4hohzFtQgP88UliHfUWGnt"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 232000,
       "name": "Sensualit\u00e9",
       "url": "https://open.spotify.com/track/6ri4yWOtcfGpTcigL2YeBe"
+    },
+    {
+      "added_at": "2025-12-29 16:15:31",
+      "album": {
+        "name": "Photos de voyages (Remastered)",
+        "url": "https://open.spotify.com/album/6Mhp0Fb0RoraaLNZ0fFRwR"
+      },
+      "artists": [
+        {
+          "name": "Francis Cabrel",
+          "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
+        }
+      ],
+      "duration_ms": 273680,
+      "name": "Encore et encore - Remastered",
+      "url": "https://open.spotify.com/track/2KzUa9x2TNzHVsx4sVuHsx"
     },
     {
       "added_at": "2025-12-29 16:15:31",
@@ -447,6 +447,22 @@
     {
       "added_at": "2025-12-29 16:15:31",
       "album": {
+        "name": "Best of Bandolero (Le meilleur des ann\u00e9es 80)",
+        "url": "https://open.spotify.com/album/0B2tZmiPYlz9Jc1jbupQOX"
+      },
+      "artists": [
+        {
+          "name": "Bandolero",
+          "url": "https://open.spotify.com/artist/5lh1imF7kkn87IHQsoEjJB"
+        }
+      ],
+      "duration_ms": 243560,
+      "name": "Paris Latino - Original Version 1983",
+      "url": "https://open.spotify.com/track/3LCup59DMpM3r6fwQsZMYs"
+    },
+    {
+      "added_at": "2025-12-29 16:15:31",
+      "album": {
         "name": "The Origin Of Love",
         "url": "https://open.spotify.com/album/4sE54JCM8oNu0CaHgi5BK0"
       },
@@ -479,6 +495,22 @@
     {
       "added_at": "2025-12-29 16:15:31",
       "album": {
+        "name": "C\u0153ur",
+        "url": "https://open.spotify.com/album/690kSW79qcdrg4cN03cBbC"
+      },
+      "artists": [
+        {
+          "name": "Clara Luciani",
+          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
+        }
+      ],
+      "duration_ms": 227333,
+      "name": "Respire encore",
+      "url": "https://open.spotify.com/track/0n9eeQnvzmMcq0l4DeGWQH"
+    },
+    {
+      "added_at": "2025-12-29 16:15:31",
+      "album": {
         "name": "Le chemin",
         "url": "https://open.spotify.com/album/1ZDeD4gGI757lBlOAkmJ2i"
       },
@@ -499,38 +531,6 @@
     {
       "added_at": "2025-12-29 16:15:31",
       "album": {
-        "name": "C\u0153ur",
-        "url": "https://open.spotify.com/album/690kSW79qcdrg4cN03cBbC"
-      },
-      "artists": [
-        {
-          "name": "Clara Luciani",
-          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
-        }
-      ],
-      "duration_ms": 227333,
-      "name": "Respire encore",
-      "url": "https://open.spotify.com/track/0n9eeQnvzmMcq0l4DeGWQH"
-    },
-    {
-      "added_at": "2025-12-29 16:15:31",
-      "album": {
-        "name": "Best of Bandolero (Le meilleur des ann\u00e9es 80)",
-        "url": "https://open.spotify.com/album/0B2tZmiPYlz9Jc1jbupQOX"
-      },
-      "artists": [
-        {
-          "name": "Bandolero",
-          "url": "https://open.spotify.com/artist/5lh1imF7kkn87IHQsoEjJB"
-        }
-      ],
-      "duration_ms": 243560,
-      "name": "Paris Latino - Original Version 1983",
-      "url": "https://open.spotify.com/track/3LCup59DMpM3r6fwQsZMYs"
-    },
-    {
-      "added_at": "2025-12-29 16:15:31",
-      "album": {
         "name": "Simplement",
         "url": "https://open.spotify.com/album/5BXw5K0WzAncb6uMnCrnyW"
       },
@@ -543,6 +543,22 @@
       "duration_ms": 219760,
       "name": "Tu m'oublieras",
       "url": "https://open.spotify.com/track/616O2jmafiModH0RgonGqf"
+    },
+    {
+      "added_at": "2025-12-29 16:15:31",
+      "album": {
+        "name": "La goffa Lolita",
+        "url": "https://open.spotify.com/album/2tQi3k1kQdxNnuzU2mNPgC"
+      },
+      "artists": [
+        {
+          "name": "Vinc\u00e8 la petite culotte",
+          "url": "https://open.spotify.com/artist/5sDptaTI5qN5FNrbFqQDyd"
+        }
+      ],
+      "duration_ms": 221149,
+      "name": "La goffa Lolita",
+      "url": "https://open.spotify.com/track/32ujt0CBVLsFyQtAhVk7WN"
     },
     {
       "added_at": "2025-12-29 16:15:31",
@@ -579,22 +595,6 @@
     {
       "added_at": "2025-12-29 16:15:31",
       "album": {
-        "name": "La goffa Lolita",
-        "url": "https://open.spotify.com/album/2tQi3k1kQdxNnuzU2mNPgC"
-      },
-      "artists": [
-        {
-          "name": "Vinc\u00e8 la petite culotte",
-          "url": "https://open.spotify.com/artist/5sDptaTI5qN5FNrbFqQDyd"
-        }
-      ],
-      "duration_ms": 221149,
-      "name": "La goffa Lolita",
-      "url": "https://open.spotify.com/track/32ujt0CBVLsFyQtAhVk7WN"
-    },
-    {
-      "added_at": "2025-12-29 16:15:31",
-      "album": {
         "name": "D'Eux",
         "url": "https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p"
       },
@@ -607,22 +607,6 @@
       "duration_ms": 249733,
       "name": "Pri\u00e8re pa\u00efenne",
       "url": "https://open.spotify.com/track/5qrVEJLwzDbASSVcfpMJO4"
-    },
-    {
-      "added_at": "2025-12-29 16:15:31",
-      "album": {
-        "name": "Cach\u00e9 derri\u00e8re",
-        "url": "https://open.spotify.com/album/6Q4Tu5UQrWPQzaxyyoT1Ia"
-      },
-      "artists": [
-        {
-          "name": "Laurent Voulzy",
-          "url": "https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z"
-        }
-      ],
-      "duration_ms": 215160,
-      "name": "Le pouvoir des fleurs",
-      "url": "https://open.spotify.com/track/4msnxiNpg9Mvm6f0NMYFKx"
     },
     {
       "added_at": "2025-12-29 16:15:31",
@@ -643,18 +627,18 @@
     {
       "added_at": "2025-12-29 16:15:31",
       "album": {
-        "name": "Amoureuse (Edition Deluxe)",
-        "url": "https://open.spotify.com/album/18iyjo6GV6Bzxs4x8Z1NWG"
+        "name": "Cach\u00e9 derri\u00e8re",
+        "url": "https://open.spotify.com/album/6Q4Tu5UQrWPQzaxyyoT1Ia"
       },
       "artists": [
         {
-          "name": "V\u00e9ronique Sanson",
-          "url": "https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D"
+          "name": "Laurent Voulzy",
+          "url": "https://open.spotify.com/artist/6ogXCiVOaz2afPmMNHph7Z"
         }
       ],
-      "duration_ms": 221600,
-      "name": "Amoureuse - Remasteris\u00e9 en 2008",
-      "url": "https://open.spotify.com/track/5jcS1ZXOYMexs2y88yFnyn"
+      "duration_ms": 215160,
+      "name": "Le pouvoir des fleurs",
+      "url": "https://open.spotify.com/track/4msnxiNpg9Mvm6f0NMYFKx"
     },
     {
       "added_at": "2025-12-29 16:15:31",
@@ -675,6 +659,22 @@
     {
       "added_at": "2025-12-29 16:15:31",
       "album": {
+        "name": "Amoureuse (Edition Deluxe)",
+        "url": "https://open.spotify.com/album/18iyjo6GV6Bzxs4x8Z1NWG"
+      },
+      "artists": [
+        {
+          "name": "V\u00e9ronique Sanson",
+          "url": "https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D"
+        }
+      ],
+      "duration_ms": 221600,
+      "name": "Amoureuse - Remasteris\u00e9 en 2008",
+      "url": "https://open.spotify.com/track/5jcS1ZXOYMexs2y88yFnyn"
+    },
+    {
+      "added_at": "2025-12-29 16:15:31",
+      "album": {
         "name": "De L' Amour Le Mieux",
         "url": "https://open.spotify.com/album/4eSOb60jr7Q9nKQbLZXhCD"
       },
@@ -687,6 +687,22 @@
       "duration_ms": 298960,
       "name": "Tu trouveras",
       "url": "https://open.spotify.com/track/6kaD0ve95sXjnq6EITyVkv"
+    },
+    {
+      "added_at": "2025-12-29 16:15:31",
+      "album": {
+        "name": "Le vagabond",
+        "url": "https://open.spotify.com/album/6cL635Xu044s7shG0WQ1rT"
+      },
+      "artists": [
+        {
+          "name": "Claude Fran\u00e7ois",
+          "url": "https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ"
+        }
+      ],
+      "duration_ms": 192506,
+      "name": "Cette ann\u00e9e-l\u00e0",
+      "url": "https://open.spotify.com/track/3R4rbnUNQKpKo588EFOqTl"
     },
     {
       "added_at": "2025-12-29 16:15:31",
@@ -723,18 +739,18 @@
     {
       "added_at": "2025-12-29 16:15:31",
       "album": {
-        "name": "Le vagabond",
-        "url": "https://open.spotify.com/album/6cL635Xu044s7shG0WQ1rT"
+        "name": "Le Premier Jour",
+        "url": "https://open.spotify.com/album/3MPQylPQwIPtyLJRNBc44w"
       },
       "artists": [
         {
-          "name": "Claude Fran\u00e7ois",
-          "url": "https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ"
+          "name": "\u00c9tienne Daho",
+          "url": "https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk"
         }
       ],
-      "duration_ms": 192506,
-      "name": "Cette ann\u00e9e-l\u00e0",
-      "url": "https://open.spotify.com/track/3R4rbnUNQKpKo588EFOqTl"
+      "duration_ms": 250413,
+      "name": "Le Premier jour (Du reste de ta vie)",
+      "url": "https://open.spotify.com/track/7ycDyrJEPBwzy2uAvtTZyh"
     },
     {
       "added_at": "2025-12-29 16:15:31",
@@ -755,18 +771,18 @@
     {
       "added_at": "2025-12-29 16:15:31",
       "album": {
-        "name": "Le Premier Jour",
-        "url": "https://open.spotify.com/album/3MPQylPQwIPtyLJRNBc44w"
+        "name": "Un autre monde (Remastered)",
+        "url": "https://open.spotify.com/album/0guFdTn3J3NhrS0TYYOUX2"
       },
       "artists": [
         {
-          "name": "\u00c9tienne Daho",
-          "url": "https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk"
+          "name": "Daniel Balavoine",
+          "url": "https://open.spotify.com/artist/28IqYhzq3UU46bbY0mRgn7"
         }
       ],
-      "duration_ms": 250413,
-      "name": "Le Premier jour (Du reste de ta vie)",
-      "url": "https://open.spotify.com/track/7ycDyrJEPBwzy2uAvtTZyh"
+      "duration_ms": 313480,
+      "name": "Je ne suis pas un h\u00e9ros",
+      "url": "https://open.spotify.com/track/3bHwuIcUkM1mc7c1u7vgbQ"
     },
     {
       "added_at": "2025-12-29 16:15:31",
@@ -783,22 +799,6 @@
       "duration_ms": 159186,
       "name": "Divine idylle",
       "url": "https://open.spotify.com/track/0gpXeyth12BXqwHFzfNR2S"
-    },
-    {
-      "added_at": "2025-12-29 16:15:31",
-      "album": {
-        "name": "Un autre monde (Remastered)",
-        "url": "https://open.spotify.com/album/0guFdTn3J3NhrS0TYYOUX2"
-      },
-      "artists": [
-        {
-          "name": "Daniel Balavoine",
-          "url": "https://open.spotify.com/artist/28IqYhzq3UU46bbY0mRgn7"
-        }
-      ],
-      "duration_ms": 313480,
-      "name": "Je ne suis pas un h\u00e9ros",
-      "url": "https://open.spotify.com/track/3bHwuIcUkM1mc7c1u7vgbQ"
     },
     {
       "added_at": "2025-12-29 16:15:31",
@@ -899,6 +899,22 @@
     {
       "added_at": "2025-12-29 16:15:31",
       "album": {
+        "name": "Best of Philippe Lafontaine (Le meilleur des ann\u00e9es 80)",
+        "url": "https://open.spotify.com/album/58Tata8UTc6gpFBaZeJgYG"
+      },
+      "artists": [
+        {
+          "name": "Philippe Lafontaine",
+          "url": "https://open.spotify.com/artist/7ee9JJuqLBnVjTZ4UXblnu"
+        }
+      ],
+      "duration_ms": 223312,
+      "name": "C\u0153ur de loup",
+      "url": "https://open.spotify.com/track/0XrmPFVFpZy9ty4Rx6CG6f"
+    },
+    {
+      "added_at": "2025-12-29 16:15:31",
+      "album": {
         "name": "Repenti",
         "url": "https://open.spotify.com/album/2LOczhJs15w6n5UbuNm72q"
       },
@@ -927,6 +943,22 @@
       "duration_ms": 178133,
       "name": "Le lion est mort ce soir",
       "url": "https://open.spotify.com/track/0hUMKXGkWnvv7VP25otgMM"
+    },
+    {
+      "added_at": "2025-12-29 16:15:31",
+      "album": {
+        "name": "Le Dernier Jour du Disco",
+        "url": "https://open.spotify.com/album/2S5DGtu0gRTjJDQWpGnJJA"
+      },
+      "artists": [
+        {
+          "name": "Juliette Armanet",
+          "url": "https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa"
+        }
+      ],
+      "duration_ms": 206480,
+      "name": "Le Dernier Jour du Disco",
+      "url": "https://open.spotify.com/track/3NwQsPQbVS3VfXJfYtoloj"
     },
     {
       "added_at": "2025-12-29 16:15:31",
@@ -963,38 +995,6 @@
       "duration_ms": 165557,
       "name": "Un jour je marierai un ange",
       "url": "https://open.spotify.com/track/5EWPzyWm0b9McPS5Qyaijp"
-    },
-    {
-      "added_at": "2025-12-29 16:15:31",
-      "album": {
-        "name": "Best of Philippe Lafontaine (Le meilleur des ann\u00e9es 80)",
-        "url": "https://open.spotify.com/album/58Tata8UTc6gpFBaZeJgYG"
-      },
-      "artists": [
-        {
-          "name": "Philippe Lafontaine",
-          "url": "https://open.spotify.com/artist/7ee9JJuqLBnVjTZ4UXblnu"
-        }
-      ],
-      "duration_ms": 223312,
-      "name": "C\u0153ur de loup",
-      "url": "https://open.spotify.com/track/0XrmPFVFpZy9ty4Rx6CG6f"
-    },
-    {
-      "added_at": "2025-12-29 16:15:31",
-      "album": {
-        "name": "Le Dernier Jour du Disco",
-        "url": "https://open.spotify.com/album/2S5DGtu0gRTjJDQWpGnJJA"
-      },
-      "artists": [
-        {
-          "name": "Juliette Armanet",
-          "url": "https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa"
-        }
-      ],
-      "duration_ms": 206480,
-      "name": "Le Dernier Jour du Disco",
-      "url": "https://open.spotify.com/track/3NwQsPQbVS3VfXJfYtoloj"
     }
   ],
   "unique_name": "Bleu Blanc Route",

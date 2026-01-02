@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "LILCR in cover della playlist con il futuro del rap italiano \ud83d\udcc8",
+  "description": "Lito in cover della playlist con il futuro del rap italiano \ud83d\udcc8",
   "name": "Raptopia",
   "tracks": [
     {
@@ -682,7 +682,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 104142,
       "name": "150%",
       "url": "https://open.spotify.com/track/3bNyrOoTGLmSLoGqAoz7KV"
@@ -3568,7 +3568,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 137500,
       "name": "Antidoto",
       "url": "https://open.spotify.com/track/61QfuAmJQdIW3n7v68t0WI"
@@ -7552,7 +7552,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 121000,
       "name": "CAMBIARE VITA",
       "url": "https://open.spotify.com/track/2Y4Ty4zx57GxoGsDY3ERiD"
@@ -11220,7 +11220,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 149022,
       "name": "Dammi il 5",
       "url": "https://open.spotify.com/track/6wdHVnAyzTdGvwkjITD439"
@@ -12804,7 +12804,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 165263,
       "name": "DVD",
       "url": "https://open.spotify.com/track/6cJyWkm8Q0RgfdrI8igk5r"
@@ -13354,7 +13354,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 120000,
       "name": "ESERCITO",
       "url": "https://open.spotify.com/track/0KKSwOVZ2UT0PlqgnjcuYQ"
@@ -14418,7 +14418,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 172235,
       "name": "Felicit\u00e0 2",
       "url": "https://open.spotify.com/track/0RIUPuefusjS3MWDLvhP8c"
@@ -20380,7 +20380,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 132558,
       "name": "Kawasaki",
       "url": "https://open.spotify.com/track/3qFttN7ZFUzj6f9dYzHMaU"
@@ -21568,6 +21568,24 @@
       "duration_ms": 264047,
       "name": "LA STREET 2",
       "url": "https://open.spotify.com/track/32Prdl5yBBysq5OtWD9XDe"
+    },
+    {
+      "album": {
+        "name": "LA TRAP NON MUORE MAI",
+        "url": "https://open.spotify.com/album/5uzSg5M0VDMoGDn4B28N9T"
+      },
+      "artists": [
+        {
+          "name": "Lito",
+          "url": "https://open.spotify.com/artist/3Es16vmqYL43ifHZR4YjbO"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130222,
+      "name": "LA TRAP NON MUORE MAI",
+      "url": "https://open.spotify.com/track/60BuXgxuJ94cYQid5myouo"
     },
     {
       "album": {
@@ -23276,7 +23294,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 177586,
       "name": "Made In Italy",
       "url": "https://open.spotify.com/track/10Iylq9yuPMOIiUhRRnBnl"
@@ -23600,7 +23618,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 138950,
       "name": "Malattia (feat. Aira)",
       "url": "https://open.spotify.com/track/2UwGUbHgi0a2qgNX5CBA0I"
@@ -26360,7 +26378,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 172258,
       "name": "MODELLA",
       "url": "https://open.spotify.com/track/3j9hXh1o2Uhjfyer1qMRAH"
@@ -28151,6 +28169,28 @@
     },
     {
       "album": {
+        "name": "Nn \u00e8 un gioco",
+        "url": "https://open.spotify.com/album/5FZJHTqQMII1mkUbZ0ToT5"
+      },
+      "artists": [
+        {
+          "name": "tretreaura",
+          "url": "https://open.spotify.com/artist/1EhU56ndTtTBZjoo77GscN"
+        },
+        {
+          "name": "Olli",
+          "url": "https://open.spotify.com/artist/6TjVxYjWKkg9kI8tsg8zDi"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105365,
+      "name": "Nn \u00e8 un gioco",
+      "url": "https://open.spotify.com/track/2w8ejXsrVLaPDNvICPPqN4"
+    },
+    {
+      "album": {
         "name": "NO $KIP (feat. Cimo)",
         "url": "https://open.spotify.com/album/1I5V2Hw4Aeww8nnmmdIXTq"
       },
@@ -28188,7 +28228,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 202816,
       "name": "No + Dark Days",
       "url": "https://open.spotify.com/track/14O4NWwcCH1NtCsOIvbblM"
@@ -29804,7 +29844,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 143505,
       "name": "O BEN E NA VOT (feat. Bekkeria)",
       "url": "https://open.spotify.com/track/1A5lDj6lVBJoTQbYwCmsI5"
@@ -38052,7 +38092,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 130000,
       "name": "Siamo Nebbia (feat. Nerissima Serpe)",
       "url": "https://open.spotify.com/track/7eaak6EyDuPuP6DBcPVOqF"
@@ -43568,7 +43608,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 135785,
       "name": "UPPDOWNN",
       "url": "https://open.spotify.com/track/6U1mD5A4DFE7knET7XbsHj"
@@ -44825,6 +44865,24 @@
     },
     {
       "album": {
+        "name": "WBTM",
+        "url": "https://open.spotify.com/album/11fGcA6nhd1AwF6UoshTLo"
+      },
+      "artists": [
+        {
+          "name": "R1MKA",
+          "url": "https://open.spotify.com/artist/2KiPQlUFO56wDrtmDth3Mc"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120794,
+      "name": "WBTM",
+      "url": "https://open.spotify.com/track/1X881Sbr0paAQ5p0VYZFz6"
+    },
+    {
+      "album": {
         "name": "WE MAN",
         "url": "https://open.spotify.com/album/39WBRLH8CvDmOV8snicCzk"
       },
@@ -45228,7 +45286,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 116210,
       "name": "WONDERWOMAN",
       "url": "https://open.spotify.com/track/7CSPk7BH3g14jKrum7AV6H"
@@ -45914,7 +45972,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 121804,
       "name": "ZE PEQUENO",
       "url": "https://open.spotify.com/track/0BTaf9B2reL6S8Ep82XMcO"

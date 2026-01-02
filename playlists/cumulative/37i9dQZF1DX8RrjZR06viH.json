@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "h\u00f8st hele \u00e5ret! \ud83c\udf42\n",
-  "name": "h\u00f8st i lufta",
+  "description": "\u2744\ufe0f\u2744\ufe0f\u2744\ufe0f\n",
+  "name": "vintertid",
   "tracks": [
     {
       "album": {
@@ -536,7 +536,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 228920,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/4VuQDgGCITUEMT5NWKvWFK"
@@ -1050,7 +1050,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 106649,
       "name": "eu te amo beb\u00ea",
       "url": "https://open.spotify.com/track/6ZgFFrkRhUyJPB0Kq6AeGk"
@@ -4581,6 +4581,24 @@
     },
     {
       "album": {
+        "name": "Sunt sinn",
+        "url": "https://open.spotify.com/album/7oyfgNq9vE36kJQWB9nTCs"
+      },
+      "artists": [
+        {
+          "name": "Klossmajor",
+          "url": "https://open.spotify.com/artist/1XgbkJNbyHcYaa4WAjGlCc"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200828,
+      "name": "Sunt sinn",
+      "url": "https://open.spotify.com/track/2YC8fKi6L4O1JZ7ARL4L0i"
+    },
+    {
+      "album": {
         "name": "Synd synd synd",
         "url": "https://open.spotify.com/album/2zFAp1uKtE5vVfuBP9ptJn"
       },
@@ -5106,7 +5124,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-01",
+      "date_removed": null,
       "duration_ms": 135480,
       "name": "Unge til vi d\u00f8r (versjon for sene sommerkvelder)",
       "url": "https://open.spotify.com/track/2HFsrCH2JYjZab8ri57IHu"

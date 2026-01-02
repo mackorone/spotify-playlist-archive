@@ -1,12 +1,12 @@
 {
   "description": "This is Slipmami. The essential tracks, all in one playlist.",
-  "num_followers": 8597,
+  "num_followers": 8598,
   "original_name": "This Is Slipmami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVMWAAAAAADHxTlh5sGZbLENBVoMhLj9",
+  "snapshot_id": "aVRngAAAAAAqlTc1wRwTlVM0mmUm15tq",
   "tracks": [
     {
       "added_at": null,
@@ -728,17 +728,13 @@
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
         },
         {
-          "name": "Raikage",
-          "url": "https://open.spotify.com/artist/19bJ30PN0LD2NL8gjH2hxY"
-        },
-        {
-          "name": "Leo Justi",
-          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
+          "name": "Rafu",
+          "url": "https://open.spotify.com/artist/2wrb1WRmxjvwtnyjPXOnvk"
         }
       ],
-      "duration_ms": 162909,
-      "name": "Vem C\u00e1",
-      "url": "https://open.spotify.com/track/0jUi1IcX2IQMmhjo3YQLIi"
+      "duration_ms": 135445,
+      "name": "Perten\u00e7o \u00c0s Ruas",
+      "url": "https://open.spotify.com/track/1jYevrE8NDIdlxy7vs7Up4"
     },
     {
       "added_at": null,
@@ -812,13 +808,17 @@
           "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
         },
         {
-          "name": "Rafu",
-          "url": "https://open.spotify.com/artist/2wrb1WRmxjvwtnyjPXOnvk"
+          "name": "Raikage",
+          "url": "https://open.spotify.com/artist/19bJ30PN0LD2NL8gjH2hxY"
+        },
+        {
+          "name": "Leo Justi",
+          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
         }
       ],
-      "duration_ms": 135445,
-      "name": "Perten\u00e7o \u00c0s Ruas",
-      "url": "https://open.spotify.com/track/1jYevrE8NDIdlxy7vs7Up4"
+      "duration_ms": 162909,
+      "name": "Vem C\u00e1",
+      "url": "https://open.spotify.com/track/0jUi1IcX2IQMmhjo3YQLIi"
     },
     {
       "added_at": null,
@@ -1023,26 +1023,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MONTE RUSH+",
-        "url": "https://open.spotify.com/album/3Diovb4bH559HziAhlI21P"
-      },
-      "artists": [
-        {
-          "name": "Big Rush",
-          "url": "https://open.spotify.com/artist/5bzmuR63NqjwQBN0z8nQpF"
-        },
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        }
-      ],
-      "duration_ms": 135521,
-      "name": "O PAPO",
-      "url": "https://open.spotify.com/track/5vCNAAU8tzGTExuDLNjs7n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trem Bala",
         "url": "https://open.spotify.com/album/7li5Q59eHLGJucFSRxcg9e"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 136624,
       "name": "Trem Bala",
       "url": "https://open.spotify.com/track/1bo5duE2RKn8XvEO8abEul"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MONTE RUSH+",
+        "url": "https://open.spotify.com/album/3Diovb4bH559HziAhlI21P"
+      },
+      "artists": [
+        {
+          "name": "Big Rush",
+          "url": "https://open.spotify.com/artist/5bzmuR63NqjwQBN0z8nQpF"
+        },
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        }
+      ],
+      "duration_ms": 135521,
+      "name": "O PAPO",
+      "url": "https://open.spotify.com/track/5vCNAAU8tzGTExuDLNjs7n"
     }
   ],
   "unique_name": "This Is Slipmami",

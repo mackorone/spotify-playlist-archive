@@ -1,12 +1,12 @@
 {
   "description": "The best new independent songs. New tracks every month.",
-  "num_followers": 1134,
+  "num_followers": 1138,
   "original_name": "New Indie Music",
   "owner": {
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAOgzvZHU0VgFbr5eGbOPmrUoie0+Va",
+  "snapshot_id": "AAAOhzP+ty7CEkTsEkmSRrtqj5+B+R9l",
   "tracks": [
     {
       "added_at": "2025-11-28 08:14:38",
@@ -3779,6 +3779,70 @@
       "duration_ms": 154376,
       "name": "Just A Good Time 80s Jam",
       "url": "https://open.spotify.com/track/3Ytv0HiQSQKrPg0JL1ql22"
+    },
+    {
+      "added_at": "2026-01-01 11:36:02",
+      "album": {
+        "name": "Maafkan Jika Aku Tiada",
+        "url": "https://open.spotify.com/album/0Gbfv3eRKhWTUtXGJkxuod"
+      },
+      "artists": [
+        {
+          "name": "Cozy Clouds",
+          "url": "https://open.spotify.com/artist/1q1DfjBCaRtLGJhklz1HEa"
+        }
+      ],
+      "duration_ms": 219479,
+      "name": "Maafkan Jika Aku Tiada",
+      "url": "https://open.spotify.com/track/5OvCYyXUYu8CXae82Zwlcl"
+    },
+    {
+      "added_at": "2026-01-01 11:36:08",
+      "album": {
+        "name": "I Hope That You're Okay",
+        "url": "https://open.spotify.com/album/3wGgAUJUw328hFAmQByGuf"
+      },
+      "artists": [
+        {
+          "name": "UMIDA",
+          "url": "https://open.spotify.com/artist/5yVzuNgV0irDWOphxt0R0b"
+        }
+      ],
+      "duration_ms": 216669,
+      "name": "I Hope That You're Okay",
+      "url": "https://open.spotify.com/track/4nhffh2CLn0tJ9pxwYGq4N"
+    },
+    {
+      "added_at": "2026-01-01 11:36:15",
+      "album": {
+        "name": "My House Is on Fire",
+        "url": "https://open.spotify.com/album/2J0H3g4HxlRKPRv2DpHDFN"
+      },
+      "artists": [
+        {
+          "name": "UMIDA",
+          "url": "https://open.spotify.com/artist/5yVzuNgV0irDWOphxt0R0b"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "I'm on My Way to Say Goodbye",
+      "url": "https://open.spotify.com/track/0rnDS05Uz4sVAdb7PUh29m"
+    },
+    {
+      "added_at": "2026-01-01 22:00:19",
+      "album": {
+        "name": "Autumn Lost",
+        "url": "https://open.spotify.com/album/4WUacCMCWJL5DJ1DcwkebP"
+      },
+      "artists": [
+        {
+          "name": "Eden Rose",
+          "url": "https://open.spotify.com/artist/5SOfWUcNGehU0c0foyXQjl"
+        }
+      ],
+      "duration_ms": 231651,
+      "name": "Autumn Lost",
+      "url": "https://open.spotify.com/track/42KRHxMvOOSDvlVPmfEIKH"
     }
   ],
   "unique_name": "New Indie Music",

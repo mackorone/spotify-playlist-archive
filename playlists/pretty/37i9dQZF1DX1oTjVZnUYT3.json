@@ -1,6 +1,6 @@
 {
   "description": "Grandes hinos da m\u00fasica brasileira para animar sua pista de dan\u00e7a! ",
-  "num_followers": 476381,
+  "num_followers": 476498,
   "original_name": "Festa Brasileira",
   "owner": {
     "name": "Spotify",
@@ -355,6 +355,22 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
+        "name": "S\u00e9rie Acervo - Martinho Da Vila",
+        "url": "https://open.spotify.com/album/62yCZN0N8WWNMSDNiaAWAk"
+      },
+      "artists": [
+        {
+          "name": "Martinho Da Vila",
+          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
+        }
+      ],
+      "duration_ms": 152266,
+      "name": "Canta Canta, Minha Gente",
+      "url": "https://open.spotify.com/track/0NLIFSZxPzQhCwnkn5PJYs"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
         "name": "Hello mundo (Ao vivo)",
         "url": "https://open.spotify.com/album/3VDQ3Oa1bICtnbII8HowVw"
       },
@@ -375,18 +391,18 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "S\u00e9rie Acervo - Martinho Da Vila",
-        "url": "https://open.spotify.com/album/62yCZN0N8WWNMSDNiaAWAk"
+        "name": "Sandra de S\u00e1 - 1982",
+        "url": "https://open.spotify.com/album/7wB73SnTyYvV1PV0XNP9ol"
       },
       "artists": [
         {
-          "name": "Martinho Da Vila",
-          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
+          "name": "Sandra De S\u00e1",
+          "url": "https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv"
         }
       ],
-      "duration_ms": 152266,
-      "name": "Canta Canta, Minha Gente",
-      "url": "https://open.spotify.com/track/0NLIFSZxPzQhCwnkn5PJYs"
+      "duration_ms": 267266,
+      "name": "Olhos Coloridos",
+      "url": "https://open.spotify.com/track/45XopGhwYSgooiewaZNsSd"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -403,22 +419,6 @@
       "duration_ms": 257786,
       "name": "Partido alto",
       "url": "https://open.spotify.com/track/6y5s9BzDRNWNVgJFeAjOld"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
-        "name": "Sandra de S\u00e1 - 1982",
-        "url": "https://open.spotify.com/album/7wB73SnTyYvV1PV0XNP9ol"
-      },
-      "artists": [
-        {
-          "name": "Sandra De S\u00e1",
-          "url": "https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv"
-        }
-      ],
-      "duration_ms": 267266,
-      "name": "Olhos Coloridos",
-      "url": "https://open.spotify.com/track/45XopGhwYSgooiewaZNsSd"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -455,22 +455,6 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "Umas E Outras",
-        "url": "https://open.spotify.com/album/5OVtTHYvp9qti3AOyjWoVG"
-      },
-      "artists": [
-        {
-          "name": "Chico Buarque",
-          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
-        }
-      ],
-      "duration_ms": 220453,
-      "name": "Jorge Maravilha",
-      "url": "https://open.spotify.com/track/6K022fAYR1Q2BQwKfugUi3"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
         "name": "Afrociberdelia",
         "url": "https://open.spotify.com/album/3cG4WKesy6hUXEPfPcdxs6"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 284173,
       "name": "Maracatu At\u00f4mico",
       "url": "https://open.spotify.com/track/3cR6v2bOwqi7znC8P5Vs1T"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "Umas E Outras",
+        "url": "https://open.spotify.com/album/5OVtTHYvp9qti3AOyjWoVG"
+      },
+      "artists": [
+        {
+          "name": "Chico Buarque",
+          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+        }
+      ],
+      "duration_ms": 220453,
+      "name": "Jorge Maravilha",
+      "url": "https://open.spotify.com/track/6K022fAYR1Q2BQwKfugUi3"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -603,6 +603,22 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
+        "name": "Sexy Iemanj\u00e1",
+        "url": "https://open.spotify.com/album/5FVHWpJXTYREVLlsGTPtvn"
+      },
+      "artists": [
+        {
+          "name": "Pepeu Gomes",
+          "url": "https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu"
+        }
+      ],
+      "duration_ms": 224226,
+      "name": "Sexy Yemanj\u00e1",
+      "url": "https://open.spotify.com/track/4Y8Vo1sfBqfoqYjbpEDH9R"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
         "name": "Bis (Dois CDs)",
         "url": "https://open.spotify.com/album/4aqhBQ04DpXEy9PKRKHvrq"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 209026,
       "name": "Na Cad\u00eancia Do Samba",
       "url": "https://open.spotify.com/track/11gIxacOHnCVPL0dZ3xOnC"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
-        "name": "Sexy Iemanj\u00e1",
-        "url": "https://open.spotify.com/album/5FVHWpJXTYREVLlsGTPtvn"
-      },
-      "artists": [
-        {
-          "name": "Pepeu Gomes",
-          "url": "https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu"
-        }
-      ],
-      "duration_ms": 224226,
-      "name": "Sexy Yemanj\u00e1",
-      "url": "https://open.spotify.com/track/4Y8Vo1sfBqfoqYjbpEDH9R"
     },
     {
       "added_at": "2021-11-26 03:18:52",
@@ -851,22 +851,6 @@
     {
       "added_at": "2021-11-26 03:18:52",
       "album": {
-        "name": "20 Grandes Sucessos De Raul Seixas",
-        "url": "https://open.spotify.com/album/1HuPsuxRE5XbqcAmVhFJrU"
-      },
-      "artists": [
-        {
-          "name": "Raul Seixas",
-          "url": "https://open.spotify.com/artist/7jrRQZg4FZq6dwpi3baKcu"
-        }
-      ],
-      "duration_ms": 201706,
-      "name": "Como Vov\u00f3 J\u00e1 Dizia (\u00d3culos Escuros)",
-      "url": "https://open.spotify.com/track/3fxlgsDxLanF9ryJea28Ic"
-    },
-    {
-      "added_at": "2021-11-26 03:18:52",
-      "album": {
         "name": "Bloco do Silva (Ao Vivo)",
         "url": "https://open.spotify.com/album/5qgBiVmgw6dSZDR7vit0mI"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 215493,
       "name": "Beleza Rara - Ao Vivo",
       "url": "https://open.spotify.com/track/05jQu16DV9TMkGAsNl6QiP"
+    },
+    {
+      "added_at": "2021-11-26 03:18:52",
+      "album": {
+        "name": "20 Grandes Sucessos De Raul Seixas",
+        "url": "https://open.spotify.com/album/1HuPsuxRE5XbqcAmVhFJrU"
+      },
+      "artists": [
+        {
+          "name": "Raul Seixas",
+          "url": "https://open.spotify.com/artist/7jrRQZg4FZq6dwpi3baKcu"
+        }
+      ],
+      "duration_ms": 201706,
+      "name": "Como Vov\u00f3 J\u00e1 Dizia (\u00d3culos Escuros)",
+      "url": "https://open.spotify.com/track/3fxlgsDxLanF9ryJea28Ic"
     },
     {
       "added_at": "2021-11-26 03:18:52",

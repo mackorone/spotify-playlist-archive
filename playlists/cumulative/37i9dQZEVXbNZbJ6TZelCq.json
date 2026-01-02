@@ -835,6 +835,24 @@
     },
     {
       "album": {
+        "name": "7 zile",
+        "url": "https://open.spotify.com/album/5jXCIbcBGg5rSVgDEUgUpa"
+      },
+      "artists": [
+        {
+          "name": "Florin Salam",
+          "url": "https://open.spotify.com/artist/6Ujb9g9pljLl91qELsPZYo"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231201,
+      "name": "7 zile",
+      "url": "https://open.spotify.com/track/4tPn0zp4wU5grsp46qsPzk"
+    },
+    {
+      "album": {
         "name": "7 zile (Cover)",
         "url": "https://open.spotify.com/album/3y5RGCSb7KPdoqa39kVtto"
       },
@@ -846,7 +864,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-16",
+      "date_removed": null,
       "duration_ms": 199031,
       "name": "7 zile - Cover",
       "url": "https://open.spotify.com/track/6mjX9qLMhFqsAZMZT4qqw1"
@@ -1030,7 +1048,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 149220,
       "name": "A la turca",
       "url": "https://open.spotify.com/track/3UD1yaINhRa0gV6kTSU26e"
@@ -1416,7 +1434,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 147773,
       "name": "Afacere",
       "url": "https://open.spotify.com/track/7L3E8FxVZwNWdWTg6VThqu"
@@ -7480,7 +7498,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 177600,
       "name": "Ce a fost a fost",
       "url": "https://open.spotify.com/track/2mOqRmZkZJuvgTJv69uDIa"
@@ -8482,7 +8500,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-05",
+      "date_removed": null,
       "duration_ms": 169697,
       "name": "Ciocolata",
       "url": "https://open.spotify.com/track/1CbI1EWcf3KFg4QJsKa3aT"
@@ -9082,7 +9100,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 180000,
       "name": "Cometa",
       "url": "https://open.spotify.com/track/0jlExIEvYdRx5pN8b65gSc"
@@ -10044,7 +10062,7 @@
       ],
       "date_added": "2025-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-01",
+      "date_removed": null,
       "duration_ms": 201558,
       "name": "Daca Iubesti O Tiganca",
       "url": "https://open.spotify.com/track/2bLKqViiiOcKrI8msQKoJr"
@@ -13328,7 +13346,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-20",
+      "date_removed": null,
       "duration_ms": 166760,
       "name": "El chapo",
       "url": "https://open.spotify.com/track/08J3tcESmdRb8IjT12FG50"
@@ -16816,7 +16834,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-05",
+      "date_removed": null,
       "duration_ms": 188355,
       "name": "Gipsy Style",
       "url": "https://open.spotify.com/track/6jrg6XKjDtvFGp11a0JQZQ"
@@ -23594,7 +23612,7 @@
       ],
       "date_added": "2025-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 147105,
       "name": "LNPSTRD",
       "url": "https://open.spotify.com/track/1jtemoyhUX8S1ZqgYlQuQE"
@@ -24532,7 +24550,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 111157,
       "name": "LV Sandals",
       "url": "https://open.spotify.com/track/5uz5v1hRZLjNGatcPtOWUv"
@@ -25694,7 +25712,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 150000,
       "name": "MAZDA",
       "url": "https://open.spotify.com/track/1rphOlDQNt1BrIvc4zn5uq"
@@ -28354,7 +28372,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-31",
+      "date_removed": null,
       "duration_ms": 198720,
       "name": "Nikki beach - Live",
       "url": "https://open.spotify.com/track/3gH3LMIJc33Ti95LZgESa6"
@@ -30800,7 +30818,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-28",
+      "date_removed": null,
       "duration_ms": 210811,
       "name": "Papusa Barbie",
       "url": "https://open.spotify.com/track/5hlKmxQyK8TXVsuUBY0ZLo"
@@ -31498,7 +31516,7 @@
       ],
       "date_added": "2025-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 109759,
       "name": "Phantom",
       "url": "https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf"
@@ -32598,7 +32616,7 @@
       ],
       "date_added": "2025-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 202220,
       "name": "PRIETENA TA",
       "url": "https://open.spotify.com/track/6lu7h9TW9L94lAevaJbyvy"
@@ -35444,7 +35462,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-03",
+      "date_removed": null,
       "duration_ms": 210808,
       "name": "Saint Tropez",
       "url": "https://open.spotify.com/track/5L3dE30wwebKXn4lwUQkoC"
@@ -36004,7 +36022,7 @@
       ],
       "date_added": "2021-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-03",
+      "date_removed": null,
       "duration_ms": 179025,
       "name": "Se Misca Beat",
       "url": "https://open.spotify.com/track/0TiPsHnzFxNw4ivIWEg70e"
@@ -36562,7 +36580,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 142000,
       "name": "sexyZ",
       "url": "https://open.spotify.com/track/2G7zweQ25yC9xHNIGEuvcb"
@@ -38014,7 +38032,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 197961,
       "name": "Sparge case",
       "url": "https://open.spotify.com/track/1tNJcix1I4XyIaywTduDVk"
@@ -42013,12 +42031,12 @@
       "artists": [
         {
           "name": "Luis Gabriel",
-          "url": "https://open.spotify.com/artist/0lD0cnzSrUjThgH9YxBF82"
+          "url": "https://open.spotify.com/artist/03bnhSwfwaSQhZyVy9m6ob"
         }
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-03",
+      "date_removed": null,
       "duration_ms": 185782,
       "name": "Toate Diamantele",
       "url": "https://open.spotify.com/track/667WZUNLKbsaNtxtkqP9yo"

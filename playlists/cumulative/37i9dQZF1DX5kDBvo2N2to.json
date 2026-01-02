@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "...fifteen",
+        "url": "https://open.spotify.com/album/3QaQ8Rd9HiAcrpj8cl4RLI"
+      },
+      "artists": [
+        {
+          "name": "Jackie Mere",
+          "url": "https://open.spotify.com/artist/4xA2Kp40KdqjdcFE6zik0p"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167050,
+      "name": "...fifteen",
+      "url": "https://open.spotify.com/track/403P5EnZmnK3InEidAmXpS"
+    },
+    {
+      "album": {
         "name": "...Japanese pancakes",
         "url": "https://open.spotify.com/album/3iypo05QDm3aB2ACqM8FS9"
       },
@@ -146,7 +164,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 132500,
       "name": "24/7",
       "url": "https://open.spotify.com/track/29wEVD99X1HJvWXuEmTTxm"
@@ -338,7 +356,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 173759,
       "name": "airbnb",
       "url": "https://open.spotify.com/track/0jI4rRanywrjRGZ11kCH6A"
@@ -652,6 +670,32 @@
       "duration_ms": 162029,
       "name": "Azizam",
       "url": "https://open.spotify.com/track/0GRc3eGTg8HBdWLRGYgqIc"
+    },
+    {
+      "album": {
+        "name": "Baba Life",
+        "url": "https://open.spotify.com/album/6KZ5yRxExqkWqXtZH66Gp8"
+      },
+      "artists": [
+        {
+          "name": "N\u00e4\u00e4\u00e4k",
+          "url": "https://open.spotify.com/artist/4zJlp9X6E6IpfUrIzwrg7S"
+        },
+        {
+          "name": "Movits!",
+          "url": "https://open.spotify.com/artist/3Rjud126EhtcSDte9lORR7"
+        },
+        {
+          "name": "Melo",
+          "url": "https://open.spotify.com/artist/6VLD92i2GfGpN9jsHZP3mp"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190573,
+      "name": "Baba Life",
+      "url": "https://open.spotify.com/track/2PE4NQTuR3u8MQZJSE5sLw"
     },
     {
       "album": {
@@ -3408,7 +3452,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 95217,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/00KapgrQdKRGWUFZm74STy"
@@ -5094,7 +5138,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 134254,
       "name": "Madame",
       "url": "https://open.spotify.com/track/5hIMz0ZftiFGTNrVqo5JrB"
@@ -5992,6 +6036,24 @@
       "duration_ms": 106666,
       "name": "phonetic",
       "url": "https://open.spotify.com/track/58xtrlvib5PVvshQ4u3oPC"
+    },
+    {
+      "album": {
+        "name": "Please Stay",
+        "url": "https://open.spotify.com/album/4gkI34NsJJwJHbomVO1Gz4"
+      },
+      "artists": [
+        {
+          "name": "yaeow",
+          "url": "https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184666,
+      "name": "Please Stay",
+      "url": "https://open.spotify.com/track/6BJOFQCCuMfxTGdcTrbscc"
     },
     {
       "album": {
@@ -6912,7 +6974,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 161597,
       "name": "Solros",
       "url": "https://open.spotify.com/track/1VgZrgml86gvvb4HAgDJP5"
@@ -7847,6 +7909,28 @@
     },
     {
       "album": {
+        "name": "Ton\u00e5rsdr\u00f6m",
+        "url": "https://open.spotify.com/album/0T7h8NPbEAoC6fR8bpwVMJ"
+      },
+      "artists": [
+        {
+          "name": "Tjuvjakt",
+          "url": "https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp"
+        },
+        {
+          "name": "Lijam",
+          "url": "https://open.spotify.com/artist/0TuWk7DJvWphPrr7w1LtNN"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214179,
+      "name": "Ton\u00e5rsdr\u00f6m",
+      "url": "https://open.spotify.com/track/5CbHWID4ldov0V3sEjvqSU"
+    },
+    {
+      "album": {
         "name": "Trappa till himlen",
         "url": "https://open.spotify.com/album/1VNQheQ9ALB6PU7Y3cr6M8"
       },
@@ -8192,6 +8276,24 @@
       "duration_ms": 157360,
       "name": "Venter du",
       "url": "https://open.spotify.com/track/4MWldeK06AisUkSYARj8YD"
+    },
+    {
+      "album": {
+        "name": "Vi som \u00e4r natten",
+        "url": "https://open.spotify.com/album/5SDri3EpV6HYCoyPLdtyeL"
+      },
+      "artists": [
+        {
+          "name": "Oscar Zia",
+          "url": "https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135978,
+      "name": "Vi som \u00e4r natten",
+      "url": "https://open.spotify.com/track/4uScN8eKZWScsM20u2YwUq"
     },
     {
       "album": {

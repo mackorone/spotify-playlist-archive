@@ -4,7 +4,7 @@
 
 > Reimagined pop covers of your favorite songs\.  Cover: Teddy Swims
 
-453 songs - 1 day 2 hr 4 min
+454 songs - 1 day 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [Industry Baby](https://open.spotify.com/track/0ypcpkYOckOLxySl4m69gM) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [Industry Baby](https://open.spotify.com/album/5T8h52l8nVMqPSGq52Q8kq) | 3:51 | 2022-01-28 | 2023-10-17 |
 | [Into You](https://open.spotify.com/track/0mzTvUqyQuXJ3J9KuVNFah) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [Into You](https://open.spotify.com/album/4gzNs2NUQpmboWO7CTbHGM) | 4:46 | 2021-12-17 | 2022-10-13 |
 | [Into You](https://open.spotify.com/track/7q9bjzlx2LA4zO8AGPnjMB) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [Into You](https://open.spotify.com/album/2Jhng5tDczcLReCTfWaZzI) | 4:46 | 2022-09-23 | 2022-12-30 |
+| [Iris](https://open.spotify.com/track/1yMC3CVOMznLCFBTalBZVZ) | [Chloe Adams](https://open.spotify.com/artist/4B1bjBU8CLkIBTYTRklo2u) | [Iris](https://open.spotify.com/album/5CcE9mu9LmgXp7a946MkEO) | 2:27 | 2025-12-12 |  |
 | [It'll Be Okay](https://open.spotify.com/track/0ctJr4dFdrk0Fv1CWW9cSW) | [Rachel Grae](https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn) | [It'll Be Okay](https://open.spotify.com/album/1HKldziO5FowynQw8MaTv5) | 3:52 | 2022-05-20 | 2022-12-30 |
 | [It's A Sin](https://open.spotify.com/track/1CBD8aOExhsuPedP2P0wVi) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [It's A Sin](https://open.spotify.com/album/06cRfTBdo0rxi7Xs9Toslg) | 3:12 | 2021-12-17 |  |
 | [It's Gonna Be Me](https://open.spotify.com/track/0BiuccnShiPP1MIccIu6m5) | [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [It's Gonna Be Me](https://open.spotify.com/album/43mqswumv5wL0UseBpGeMV) | 2:54 | 2021-12-17 | 2022-10-13 |

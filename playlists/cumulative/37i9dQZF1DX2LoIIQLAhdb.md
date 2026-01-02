@@ -4,7 +4,7 @@
 
 > Le R&B français, nouvelle ère\. Photo : Ronisia
 
-610 songs - 1 day 4 hr 51 min
+611 songs - 1 day 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -412,6 +412,7 @@
 | [Oublier \(Music Monday\)](https://open.spotify.com/track/7dx2Fl6o4UqRT6sUNskitx) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL) | [Oublier \(Music Monday\)](https://open.spotify.com/album/7FrXZtOcGmHoIqCsh2TD22) | 2:34 | 2022-11-24 | 2023-01-06 |
 | [Pansement](https://open.spotify.com/track/3Hmumz4VuiT39evMNpdlV8) | [Curtis Kane](https://open.spotify.com/artist/7LGeqJcTk3qJ23m7ROwIw6), [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [Miroir, part\. II](https://open.spotify.com/album/2h842zpXOA4zMAhbUyJvCE) | 3:15 | 2024-06-27 | 2024-07-27 |
 | [Pansement](https://open.spotify.com/track/4yM6cdvKMAguF8oUsKvvFa) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR), [Lisandro Cuxi](https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY), [Marjinal](https://open.spotify.com/artist/2kw3kVYH86s8K0O4Pebofm) | [Pansement](https://open.spotify.com/album/63zX8O3SVTYSOMS1cXARPb) | 2:21 | 2024-04-18 | 2024-09-20 |
+| [Papi](https://open.spotify.com/track/0RiFKqL8iMuixzxPPMENav) | [imaye](https://open.spotify.com/artist/5dtgEFdUpmaxWJeZ5xdxKO) | [Papi](https://open.spotify.com/album/1engA7iojRiJbmQCHJhVIF) | 2:37 | 2026-01-01 |  |
 | [Paquet \(feat\. Leila AD\)](https://open.spotify.com/track/5zruGz0gblq9GkXC05MwES) | [Mallaury](https://open.spotify.com/artist/0zfnSBlLA4HJshaxPu2zPV), [Leila AD](https://open.spotify.com/artist/29OFoMngbkNzwla2kczgdu) | [Sans Valentin \(Chapitre I\)](https://open.spotify.com/album/05o4lVIodeRee9p6cYwlGg) | 2:25 | 2025-02-20 | 2025-03-21 |
 | [Paqueta](https://open.spotify.com/track/1EXYDolm4Q74aoGv2qcjxZ) | [Merveille](https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8) | [Paqueta](https://open.spotify.com/album/7z0iznP5UOTtityREHUvX0) | 2:40 | 2024-04-25 | 2025-02-14 |
 | [Paradis](https://open.spotify.com/track/11UPOVNoEDQT16KypWgRR8) | [Meiitod](https://open.spotify.com/artist/5DaitIP7Wk4Y2nReCVq2PS) | [Paradis](https://open.spotify.com/album/5LfYlTPsOjWOniv1s96cJE) | 2:40 | 2023-06-22 | 2023-08-11 |
@@ -592,7 +593,7 @@
 | [Validé](https://open.spotify.com/track/4KERrjeLF9HQZpflKI6g88) | [Denden](https://open.spotify.com/artist/66YKNnSIqZwFDjrH0i9EAY) | [Validé / Clap Clap](https://open.spotify.com/album/6TWUS5kMQFnvjyMEGR2nX2) | 3:05 | 2025-07-03 | 2025-10-10 |
 | [VIBESTARS \#6](https://open.spotify.com/track/3GHI1jhIgtflWj1zBcAKQw) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [VIBESTARS \#6](https://open.spotify.com/album/3ZRItbt48UvxlbEuIFRFVI) | 3:04 | 2023-04-27 | 2023-06-09 |
 | [Vice](https://open.spotify.com/track/7JnPEnndd3MBy5aR8JqO1U) | [7iaa](https://open.spotify.com/artist/753CpLj7OaZZbx5qLWHFpl) | [Vice](https://open.spotify.com/album/5bwYiC4e3lw4Eby50WoeKe) | 2:35 | 2025-07-03 | 2025-10-04 |
-| [VICE](https://open.spotify.com/track/1pghHNuVjQLObEKTkbrB66) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc), [Alana Maria](https://open.spotify.com/artist/1KptG3k6qkeqZ2uB5Z3lPn) | [My Eyes Only](https://open.spotify.com/album/096KAIqQBU6VAIoslHuybX) | 2:53 | 2025-09-04 |  |
+| [VICE](https://open.spotify.com/track/1pghHNuVjQLObEKTkbrB66) | [RnBoi](https://open.spotify.com/artist/4yPFe6ZiSjH5mgjDwiYZgc), [Alana Maria](https://open.spotify.com/artist/1KptG3k6qkeqZ2uB5Z3lPn) | [My Eyes Only](https://open.spotify.com/album/096KAIqQBU6VAIoslHuybX) | 2:53 | 2025-09-04 | 2026-01-02 |
 | [Vie d’après](https://open.spotify.com/track/2sZOchSAjMIK8abd0giWKu) | [Hiro](https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS) | [Ame](https://open.spotify.com/album/3ACiqzYVVGynQtQstUXoiy) | 2:25 | 2024-02-29 | 2024-05-03 |
 | [Vitamine](https://open.spotify.com/track/1p6U4CG4deYuJq9RdVgVm7) | [Mibsy](https://open.spotify.com/artist/4m3boOebrQnZ6ITM0B7vbB) | [Vitamine](https://open.spotify.com/album/1BuI9ubZKzBHVf0Gc3RRcL) | 2:07 | 2025-01-16 | 2025-02-14 |
 | [Vizion](https://open.spotify.com/track/5uOGBgJyCuqbkba18YhWRv) | [$hiro](https://open.spotify.com/artist/5ccC62eZo8vv2qTOTndIkn) | [Vizion](https://open.spotify.com/album/0XfBtZt0fTT4VFUI8n4I90) | 2:16 | 2023-09-07 | 2023-09-29 |

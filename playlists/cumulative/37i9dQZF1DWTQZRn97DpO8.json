@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f. Photo : Monsieur Nov",
+  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f. Photo : Candice",
   "name": "le miel",
   "tracks": [
     {
@@ -822,6 +822,24 @@
       "duration_ms": 197933,
       "name": "BESOIN",
       "url": "https://open.spotify.com/track/22F8Vg0iI9oInR8xE5EXjS"
+    },
+    {
+      "album": {
+        "name": "Best Era",
+        "url": "https://open.spotify.com/album/4Dn4PstMeuapSt25Tqaxcp"
+      },
+      "artists": [
+        {
+          "name": "Nu Linh",
+          "url": "https://open.spotify.com/artist/3R0sHWu5AWsvgzjbPqovK1"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160714,
+      "name": "Best Era",
+      "url": "https://open.spotify.com/track/4mQlrejWEJR8P4MoOi1zGc"
     },
     {
       "album": {
@@ -2724,7 +2742,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 190981,
       "name": "Fan2moi",
       "url": "https://open.spotify.com/track/5LYfPoYcUWiZMUv1LXdsHx"
@@ -2894,7 +2912,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 120609,
       "name": "FOMO",
       "url": "https://open.spotify.com/track/7c5rStQVZfWDOQUOD7KfEo"
@@ -4082,7 +4100,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 140671,
       "name": "Kelly",
       "url": "https://open.spotify.com/track/2BT3qWlJMO6UjSDgBPWm5s"
@@ -4620,7 +4638,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 357141,
       "name": "Lettre \u00e0 l'Univers",
       "url": "https://open.spotify.com/track/0wqwl5GYK5KLHWqzjgM0sb"
@@ -5050,6 +5068,28 @@
       "duration_ms": 83539,
       "name": "Made For Me",
       "url": "https://open.spotify.com/track/3ldAzhzFGsvCPpx8RlDxid"
+    },
+    {
+      "album": {
+        "name": "Magic for two (feat. Charlie Burg)",
+        "url": "https://open.spotify.com/album/4vHbmpgoYp377tGmi35r4T"
+      },
+      "artists": [
+        {
+          "name": "Candice",
+          "url": "https://open.spotify.com/artist/2Pw03wZ9pnLeRScS7geKUR"
+        },
+        {
+          "name": "Charlie Burg",
+          "url": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "Magic for two (feat. Charlie Burg)",
+      "url": "https://open.spotify.com/track/0Lcg1Jkn5RKurb5XPlxKDr"
     },
     {
       "album": {
@@ -6183,6 +6223,24 @@
     },
     {
       "album": {
+        "name": "pas si bien",
+        "url": "https://open.spotify.com/album/4pWDELdeqvvSMU2YuZA9KN"
+      },
+      "artists": [
+        {
+          "name": "K\u00eferra",
+          "url": "https://open.spotify.com/artist/4UYfoEvsfMWhMVb6vl1rXZ"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210140,
+      "name": "pas si bien",
+      "url": "https://open.spotify.com/track/1k8E3rowxVRmLjHXWdQLbI"
+    },
+    {
+      "album": {
         "name": "PASSION",
         "url": "https://open.spotify.com/album/4ytoLNIfOmvPGmCW6wAFjE"
       },
@@ -6296,6 +6354,24 @@
       "duration_ms": 184320,
       "name": "PERDU DANS LE VENT (feat. Ruthee)",
       "url": "https://open.spotify.com/track/6FBhHgEGtj4dgT9R5tPQVX"
+    },
+    {
+      "album": {
+        "name": "Tango Seule",
+        "url": "https://open.spotify.com/album/2pfDQfXxVphqtryuJoGaVD"
+      },
+      "artists": [
+        {
+          "name": "D Juno",
+          "url": "https://open.spotify.com/artist/47NPZW7ZtxGEY1P8Pa4AzY"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184344,
+      "name": "Petit ange d\u00e9chu",
+      "url": "https://open.spotify.com/track/4KUzkxFnUmptE3TkZLttyU"
     },
     {
       "album": {
@@ -6588,7 +6664,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 198736,
       "name": "Pourvu que je brille",
       "url": "https://open.spotify.com/track/2nF7PzQ49cv3zgU2cF1C8q"
@@ -7106,6 +7182,24 @@
       "duration_ms": 170513,
       "name": "Room 69 - Acoustic version",
       "url": "https://open.spotify.com/track/7pU322ixXzZ1Lostt5Rz1n"
+    },
+    {
+      "album": {
+        "name": "Roster",
+        "url": "https://open.spotify.com/album/1zJISJHzz8iMpYLpoGVrn2"
+      },
+      "artists": [
+        {
+          "name": "Jvsh",
+          "url": "https://open.spotify.com/artist/0kjKN1F3IrOyivGtZg1l32"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155608,
+      "name": "Roster",
+      "url": "https://open.spotify.com/track/3eVqXHlKGVq6IGNWHV1WV1"
     },
     {
       "album": {

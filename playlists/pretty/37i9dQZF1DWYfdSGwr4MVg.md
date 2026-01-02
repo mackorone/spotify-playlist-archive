@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfdSGwr4MVg.md) - [plain](/playlists/plain/37i9dQZF1DWYfdSGwr4MVg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWYfdSGwr4MVg)
 
-### [Baby Lullabies 2025](https://open.spotify.com/playlist/37i9dQZF1DWYfdSGwr4MVg)
+### [Baby Lullabies 2026](https://open.spotify.com/playlist/37i9dQZF1DWYfdSGwr4MVg)
 
 > Gentle lullabies that soothe, relax, and ease your baby to sleep 🧸🌙💤
 
-[Spotify](https://open.spotify.com/user/spotify) - 816 likes - 75 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 817 likes - 75 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfdSGwr4MVg.md) - [plain]
 | 74 | [Beyond the Rainbow](https://open.spotify.com/track/0noFmZfFeRPc2NaYYSoa6k) | [Erik Fernholm](https://open.spotify.com/artist/4vDSR2tAbwnkWK93cwvfhr) | [Beyond the Rainbow](https://open.spotify.com/album/4vkQn55nfuN8r9NNaDj8bn) | 2:54 |
 | 75 | [You Are Feeling Sleepy](https://open.spotify.com/track/6mGuFs42JhtarklWdVUyOt) | [Amos Green](https://open.spotify.com/artist/3krCByMqEQnYRWPZMCE5IY) | [You Are Feeling Sleepy](https://open.spotify.com/album/6K2t5rV4eSuFpkZA2ofwP5) | 1:27 |
 
-Snapshot ID: `AAAAAHPDB7mjtQqwzCDyEq9CiTpn5sB7`
+Snapshot ID: `AAAAAO9mEtuQ5C0YTOfBT83ecDwRRObO`

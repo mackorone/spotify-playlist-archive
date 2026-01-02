@@ -4,7 +4,7 @@
 
 > Uma playlist de pura alma pop! Foto: Bandidos do Cante, António Zambujo
 
-384 songs - 20 hr 19 min
+385 songs - 20 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -392,5 +392,6 @@
 | [É O Que É](https://open.spotify.com/track/1cmRRx68ZuTNcw7jm6M8Pk) | [Marisa Liz](https://open.spotify.com/artist/2cM6v3lyiTwzu0lIDp1zMn) | [É O Que É](https://open.spotify.com/album/0PlvO8tfJ8Z07EYsTTnKOn) | 3:46 | 2025-06-05 | 2025-10-03 |
 | [És Só Tu](https://open.spotify.com/track/6iPtPVekBPpDc3okcrpreo) | [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [És Só Tu](https://open.spotify.com/album/7j7Wms0KNvccZAR7LQbUaz) | 2:54 | 2025-10-09 | 2025-12-12 |
 | [Último Esforço](https://open.spotify.com/track/1WShOxlHNjiCvaAQAJ8Epp) | [Umbelino](https://open.spotify.com/artist/2F5ZWFm3CDZ95LgLWIksUW) | [Último Esforço](https://open.spotify.com/album/6MHGpH9jWamp1WKPsssgpZ) | 3:19 | 2024-10-24 | 2024-11-29 |
+| [π\-NOQUIO](https://open.spotify.com/track/1WxBr0pDE5FEchxzhO5xxR) | [CONAN OSIRIS](https://open.spotify.com/artist/4oYolWgvQmCnjrvVNTymlf) | [XENONEXO](https://open.spotify.com/album/2Xdj4c0dXShhLwoMNEzDky) | 2:52 | 2026-01-02 |  |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

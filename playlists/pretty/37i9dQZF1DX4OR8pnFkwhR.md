@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。 Cover: Billyrrom
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,328 likes - 60 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,323 likes - 60 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 59 | [metro](https://open.spotify.com/track/5HwvwLQCtv2BTAHSC1mCgP) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [kurayamisaka yori ai wo komete](https://open.spotify.com/album/3k5hd3HIF4JDYfxQICHnhP) | 3:58 |
 | 60 | [One in a million](https://open.spotify.com/track/1XoVx5zm2SYLzILgHReqD1) | [KeNN](https://open.spotify.com/artist/1jfCytaxko0WLzWfPqLbYH) | [One in a million](https://open.spotify.com/album/26NDlsFpoSUfRL79Ce7A7K) | 4:32 |
 
-Snapshot ID: `AAAAAPqTH/1vKuQuU5g9/KtZWzDTsaHH`
+Snapshot ID: `AAAAAI5m313CpmquAVcuS1z1+88cBnxs`

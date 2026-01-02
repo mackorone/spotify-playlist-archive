@@ -1,13 +1,61 @@
 {
   "description": "playlist spotify free",
-  "num_followers": 260,
+  "num_followers": 261,
   "original_name": "playlist spotify free",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAGgeRQ+lln/U3uDtgWUMF6HM3vnJyx",
+  "snapshot_id": "AAAGhce7+UwxfHcLNmKfNq1gjqMq9lUH",
   "tracks": [
+    {
+      "added_at": "2026-01-01 23:36:12",
+      "album": {
+        "name": "This One's For the Animals",
+        "url": "https://open.spotify.com/album/23s3GAPukrsVKkEEYQ1w4Z"
+      },
+      "artists": [
+        {
+          "name": "Caleb Sample",
+          "url": "https://open.spotify.com/artist/4xQ9vYmHgIhjX57pDbIC96"
+        }
+      ],
+      "duration_ms": 235854,
+      "name": "This One's For the Animals",
+      "url": "https://open.spotify.com/track/5M0pIJ0jOl11mTFKVhogtA"
+    },
+    {
+      "added_at": "2026-01-01 23:35:59",
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/7GqNOb9AzXEeamc7zqsHYV"
+      },
+      "artists": [
+        {
+          "name": "Saint Cassady",
+          "url": "https://open.spotify.com/artist/7IKB8iGhtRuhcNFhah1xxU"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/6O4vI5hYn5y41McQrQdQxq"
+    },
+    {
+      "added_at": "2026-01-01 23:35:39",
+      "album": {
+        "name": "New Years Day",
+        "url": "https://open.spotify.com/album/52tGzCYmgHudGWF3MxCNxX"
+      },
+      "artists": [
+        {
+          "name": "Bengt Isaksson",
+          "url": "https://open.spotify.com/artist/2jounGBjlkg6p4nPuTFUcK"
+        }
+      ],
+      "duration_ms": 167840,
+      "name": "New Years Day",
+      "url": "https://open.spotify.com/track/6LRk8rbowFUfzGbpoUbVjZ"
+    },
     {
       "added_at": "2025-12-26 21:41:48",
       "album": {
@@ -62252,7 +62300,7 @@
           "url": "https://open.spotify.com/artist/5R8wFLLq8qW1vOVntakADR"
         }
       ],
-      "duration_ms": 320666,
+      "duration_ms": 164392,
       "name": "remember that time - demo",
       "url": "https://open.spotify.com/track/2WmZ2yOTzQZSFKePzKalDW"
     },
@@ -62479,6 +62527,22 @@
       "duration_ms": 195604,
       "name": "Button",
       "url": "https://open.spotify.com/track/5cSbMYYSuPvQIs4TwqbuXO"
+    },
+    {
+      "added_at": "2026-01-01 23:39:53",
+      "album": {
+        "name": "Somewhere Unknown",
+        "url": "https://open.spotify.com/album/7nGLkpkRmwx9g39hngKcR9"
+      },
+      "artists": [
+        {
+          "name": "Valley Souls",
+          "url": "https://open.spotify.com/artist/26ph4Q3k8XDUvaUf2uAmo3"
+        }
+      ],
+      "duration_ms": 181187,
+      "name": "Somewhere Unknown",
+      "url": "https://open.spotify.com/track/5vaJe0O125oOMZnjDrv7ca"
     }
   ],
   "unique_name": "playlist spotify free",

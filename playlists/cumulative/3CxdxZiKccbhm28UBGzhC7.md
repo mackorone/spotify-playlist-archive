@@ -4,7 +4,7 @@
 
 > 2023
 
-110 songs - 6 hr 26 min
+111 songs - 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Stop The World I Wanna Get Off With You](https://open.spotify.com/track/2QUlMbvD9bL8wHqfsoqoet) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Why'd You Only Call Me When You're High?](https://open.spotify.com/album/0SlR6pLgIqWFUkuUfbNbm0) | 3:11 | 2022-10-26 |  |
 | [Supermassive Black Hole](https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Black Holes and Revelations](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) | 3:32 | 2023-01-09 |  |
 | [Switchblade Smiles](https://open.spotify.com/track/4Qm13tC08v8k6a1UEr9Htb) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Velociraptor!](https://open.spotify.com/album/6lox5NV29L4QQmLuAvBXuP) | 4:13 | 2025-10-13 |  |
+| [Teenagers](https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 2:41 | 2026-01-01 |  |
 | [Temptation Greets You Like Your Naughty Friend](https://open.spotify.com/track/3fcJX31CLvMOzcWR0HFn8B) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Brianstorm](https://open.spotify.com/album/3wes7jJ9Ig44rYtlYGwAh9) | 3:29 | 2023-01-20 |  |
 | [The Less I Know The Better](https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 3:36 | 2024-10-30 |  |
 | [The Man Don't Give a Fuck \- 2016 \- Remaster](https://open.spotify.com/track/3nKgqK8lLseqdMyUZm9ed0) | [Super Furry Animals](https://open.spotify.com/artist/0FOcXqJgJ1oq9XfzYTDZmZ) | [Fuzzy Logic \(20th Anniversary Deluxe Edition\)](https://open.spotify.com/album/1x6JiZdZ5HJcBk2zh6OTRl) | 4:53 | 2022-09-06 |  |

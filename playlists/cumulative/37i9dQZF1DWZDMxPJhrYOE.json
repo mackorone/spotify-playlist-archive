@@ -89,6 +89,24 @@
     },
     {
       "album": {
+        "name": "10.000 Kilometer",
+        "url": "https://open.spotify.com/album/1gkxRuc4baj35IdOXJwDdK"
+      },
+      "artists": [
+        {
+          "name": "Gobs",
+          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151918,
+      "name": "10.000 Kilometer",
+      "url": "https://open.spotify.com/track/3XgYZ3SJgAMcFS1nkgMCUX"
+    },
+    {
+      "album": {
         "name": "12 to 12",
         "url": "https://open.spotify.com/album/2TrTb21wiXbwQohvN1UfFV"
       },
@@ -605,6 +623,28 @@
     },
     {
       "album": {
+        "name": "Ai Freestyle",
+        "url": "https://open.spotify.com/album/3GtHmCeJKOdocPuvKHTlZd"
+      },
+      "artists": [
+        {
+          "name": "Anton Westerlin",
+          "url": "https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T"
+        },
+        {
+          "name": "ozzy",
+          "url": "https://open.spotify.com/artist/1RJznM4DOSV69NWbkq3RA9"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154155,
+      "name": "Ai Freestyle",
+      "url": "https://open.spotify.com/track/2U6Z3P81M2hySvxe2vcjEx"
+    },
+    {
+      "album": {
         "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
         "url": "https://open.spotify.com/album/7x1eLsPizad7dHnqCGQODx"
       },
@@ -1022,7 +1062,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-13",
+      "date_removed": null,
       "duration_ms": 279033,
       "name": "Arms",
       "url": "https://open.spotify.com/track/7gsVukGVbXlXkDoGyiLImA"
@@ -1302,7 +1342,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-19",
+      "date_removed": null,
       "duration_ms": 167746,
       "name": "Beat A B!tch Up",
       "url": "https://open.spotify.com/track/5Ky8wE5v2dNXn5XWlBM28k"
@@ -1718,7 +1758,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 182055,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/20R5YwjmKubeva79prlvJq"
@@ -1794,6 +1834,24 @@
       "duration_ms": 266797,
       "name": "Bo og Lis",
       "url": "https://open.spotify.com/track/3KsX8W7xxt4uNIBOcunC5r"
+    },
+    {
+      "album": {
+        "name": "Bobler",
+        "url": "https://open.spotify.com/album/1KyvtKAaTc7azB20HJ0KJE"
+      },
+      "artists": [
+        {
+          "name": "Lea Romea",
+          "url": "https://open.spotify.com/artist/6wmoRZXV3XJDZkZryNV8Yb"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161764,
+      "name": "Bobler",
+      "url": "https://open.spotify.com/track/4w77uY6YcGkd8vznIs0sF7"
     },
     {
       "album": {
@@ -3296,7 +3354,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 138332,
       "name": "DEPRESSED",
       "url": "https://open.spotify.com/track/1kO8TSZU0ORR4eJpirLPGW"
@@ -4089,6 +4147,24 @@
     },
     {
       "album": {
+        "name": "D\u00f8gnfluer",
+        "url": "https://open.spotify.com/album/3jBTDjblQnwHleJgitLb0s"
+      },
+      "artists": [
+        {
+          "name": "Chris Burton",
+          "url": "https://open.spotify.com/artist/4xEK7RZaPr5EblYHsaeBWo"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189750,
+      "name": "D\u00f8gnfluer",
+      "url": "https://open.spotify.com/track/4amnAhkQS34DBZIGpFAMWB"
+    },
+    {
+      "album": {
         "name": "Something Beautiful",
         "url": "https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ"
       },
@@ -4198,6 +4274,24 @@
       "duration_ms": 221740,
       "name": "Elsker n\u00e5r du smiler",
       "url": "https://open.spotify.com/track/7Bq88PREKyoAZDuPeqTWbM"
+    },
+    {
+      "album": {
+        "name": "En Anden Planet",
+        "url": "https://open.spotify.com/album/5ryILNPx3K0Op6YWVZNSrd"
+      },
+      "artists": [
+        {
+          "name": "Ida Laurberg",
+          "url": "https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185158,
+      "name": "En Anden Planet",
+      "url": "https://open.spotify.com/track/4aCHy34GzQKexIRsZS695f"
     },
     {
       "album": {
@@ -5428,6 +5522,28 @@
       "duration_ms": 166571,
       "name": "Fra Jylland til K\u00f8benhavn",
       "url": "https://open.spotify.com/track/3OtJnSQq23fgggHFZAe3w1"
+    },
+    {
+      "album": {
+        "name": "Frankrig (feat. Artigeardit)",
+        "url": "https://open.spotify.com/album/2FnV27f8Vev5bBaHMwcJRn"
+      },
+      "artists": [
+        {
+          "name": "JOSVA",
+          "url": "https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr"
+        },
+        {
+          "name": "Artigeardit",
+          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197323,
+      "name": "Frankrig (feat. Artigeardit)",
+      "url": "https://open.spotify.com/track/4cg5noLUNYyA0gEJBIMOXs"
     },
     {
       "album": {
@@ -6830,7 +6946,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-28",
+      "date_removed": null,
       "duration_ms": 159527,
       "name": "HOME",
       "url": "https://open.spotify.com/track/6CNQLgGqOSpXpzGtru1JHx"
@@ -7715,6 +7831,28 @@
     },
     {
       "album": {
+        "name": "If u kno u kno",
+        "url": "https://open.spotify.com/album/4dQO15Lp6hWvl2BhW6gvCx"
+      },
+      "artists": [
+        {
+          "name": "KEDDE",
+          "url": "https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ"
+        },
+        {
+          "name": "Karoline Mousing",
+          "url": "https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145235,
+      "name": "If u kno u kno (feat. Karoline Mousing)",
+      "url": "https://open.spotify.com/track/4baTMQfOgmcWJwzYHXM0rf"
+    },
+    {
+      "album": {
         "name": "igen & igen",
         "url": "https://open.spotify.com/album/74Zmt6oaCyu0RKvlnlVxMj"
       },
@@ -8238,7 +8376,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 216358,
       "name": "Jeg Vil Have Det Hele",
       "url": "https://open.spotify.com/track/0xUpr68YW8BUbqYvgwVs19"
@@ -11066,7 +11204,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 219087,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/3gKRTlHyCDpttUD2FHEE6W"
@@ -11292,7 +11430,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-20",
+      "date_removed": null,
       "duration_ms": 392098,
       "name": "One of the Greats",
       "url": "https://open.spotify.com/track/4MMQdCB91BabMdpeFSxhv3"
@@ -12398,7 +12536,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 167570,
       "name": "Sandheden",
       "url": "https://open.spotify.com/track/1pcAE3WQaCpKDcZZFgItv4"
@@ -12794,7 +12932,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 171744,
       "name": "SIDDER FAST",
       "url": "https://open.spotify.com/track/6Wrf5C5mxvkLIoFjlszAVK"
@@ -13088,7 +13226,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 173316,
       "name": "Smooth",
       "url": "https://open.spotify.com/track/58QPfkhEGLkZeqXwZkcNv5"
@@ -13150,7 +13288,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 169000,
       "name": "So Easy (To Fall In Love)",
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
@@ -13586,7 +13724,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 146548,
       "name": "Spilder Min Tid",
       "url": "https://open.spotify.com/track/0HozuDiWIVqUwp9L89rEAo"
@@ -13996,7 +14134,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-30",
+      "date_removed": null,
       "duration_ms": 169361,
       "name": "superstar",
       "url": "https://open.spotify.com/track/4hFt3Ht6b9OLsesqx51aq1"
@@ -15060,7 +15198,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 177208,
       "name": "TIT FOR TAT",
       "url": "https://open.spotify.com/track/04a44cx2PJthIbN2aLMXhl"
@@ -16484,7 +16622,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 196795,
       "name": "WHERE IS MY HUSBAND!",
       "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
@@ -16766,7 +16904,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-17",
+      "date_removed": null,
       "duration_ms": 142622,
       "name": "XL-BYG",
       "url": "https://open.spotify.com/track/1AYTzhKxjsOSqaZz9m8TZk"
@@ -16824,7 +16962,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 175324,
       "name": "yes baby",
       "url": "https://open.spotify.com/track/2Nh1wIvPLDk4wK356m0nQA"
@@ -17038,7 +17176,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 200186,
       "name": "\u00c5bner Mit Hjerte Op",
       "url": "https://open.spotify.com/track/38CTgqDetumc5aPBJZ9MQl"

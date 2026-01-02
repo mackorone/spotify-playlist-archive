@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sHwck3IBzT.md) - [plain]
 
 > Editor's Picks: Best Amapiano tracks for 2025\. Cover: <a href="https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro?si=Jg68qVWeRgeXagPgNpMulQ">Zee Nxumalo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,510 likes - 50 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,689 likes - 50 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

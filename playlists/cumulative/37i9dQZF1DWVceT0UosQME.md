@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVceT0UosQME.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVceT0UosQME) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWVceT0UosQME)
 
-### [exams 2025](https://open.spotify.com/playlist/37i9dQZF1DWVceT0UosQME)
+### [exams 2026](https://open.spotify.com/playlist/37i9dQZF1DWVceT0UosQME)
 
 > your soundtrack to your exam studies\. for max productiveness\. u got this!
 

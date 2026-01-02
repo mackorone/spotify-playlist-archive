@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVMWAAAAAAANRuP8WeOI+MAnVv8KkVMq",
+  "snapshot_id": "aVRngAAAAABcIyc06h3NDvsrfZyU1v94",
   "tracks": [
     {
       "added_at": null,
@@ -111,6 +111,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "not safe",
+        "url": "https://open.spotify.com/album/1Qby2SmIsbpxjFnPxqoZ9L"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 136686,
+      "name": "not safe",
+      "url": "https://open.spotify.com/track/4tVvxsh4u0ySI62DQEup37"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BOTH",
         "url": "https://open.spotify.com/album/0xWDtOy1VVhQlIphjZTfwC"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 154213,
       "name": "BOTH",
       "url": "https://open.spotify.com/track/0og8Iehtsov2WSZBoQbmAJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "not safe",
-        "url": "https://open.spotify.com/album/1Qby2SmIsbpxjFnPxqoZ9L"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 136686,
-      "name": "not safe",
-      "url": "https://open.spotify.com/track/4tVvxsh4u0ySI62DQEup37"
     },
     {
       "added_at": null,
@@ -187,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "stories 2",
-        "url": "https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 130560,
-      "name": "pressure",
-      "url": "https://open.spotify.com/track/29XFwGNkE4E153MGV232hB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "boys lie",
         "url": "https://open.spotify.com/album/2K575gI4abjsOkhVhKMIpO"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 145857,
       "name": "boys lie",
       "url": "https://open.spotify.com/track/50bV3kGulFAiTE3COj2abZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "stories 2",
+        "url": "https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 130560,
+      "name": "pressure",
+      "url": "https://open.spotify.com/track/29XFwGNkE4E153MGV232hB"
     },
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "stories from new york",
-        "url": "https://open.spotify.com/album/7nkcfBIzLWqE9FaWf50AFt"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 137104,
-      "name": "say it back",
-      "url": "https://open.spotify.com/track/4QEeNtaEmDgP9BtiKArNo5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "act up",
         "url": "https://open.spotify.com/album/0o384u0H638iKJSUdW6zc3"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 128793,
       "name": "act up",
       "url": "https://open.spotify.com/track/2yJzSXqWpMXhhUTh6QKeh8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "stories from new york",
+        "url": "https://open.spotify.com/album/7nkcfBIzLWqE9FaWf50AFt"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 137104,
+      "name": "say it back",
+      "url": "https://open.spotify.com/track/4QEeNtaEmDgP9BtiKArNo5"
     },
     {
       "added_at": null,
@@ -311,22 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "think of drugs",
-        "url": "https://open.spotify.com/album/1hYQK0w6tzNVFnmKLGqdSF"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 185365,
-      "name": "think of drugs",
-      "url": "https://open.spotify.com/track/79a2DNm20mkZ2OYIrNPIiH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "clown shit (up the wall) [SOPHIE Remix]",
         "url": "https://open.spotify.com/album/0w3ZduXZIPEMktyyVmEAbr"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 166929,
       "name": "Ethical Plum",
       "url": "https://open.spotify.com/track/6hsGhh9tQ5g3QteBK1n72Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "think of drugs",
+        "url": "https://open.spotify.com/album/1hYQK0w6tzNVFnmKLGqdSF"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 185365,
+      "name": "think of drugs",
+      "url": "https://open.spotify.com/track/79a2DNm20mkZ2OYIrNPIiH"
     },
     {
       "added_at": null,

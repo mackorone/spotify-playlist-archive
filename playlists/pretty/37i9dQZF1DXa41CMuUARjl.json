@@ -1,6 +1,6 @@
 {
   "description": "This week's best new <a href=\"spotify:genre:edm_dance\">dance and electronic releases</a> from bullet tooth, HUGEL, & more!",
-  "num_followers": 553839,
+  "num_followers": 553885,
   "original_name": "All New Dance",
   "owner": {
     "name": "Spotify",
@@ -479,26 +479,6 @@
     {
       "added_at": "2025-12-26 05:00:20",
       "album": {
-        "name": "Didn't Mean To",
-        "url": "https://open.spotify.com/album/5t3dAZKNv15qhpXLW8uqCY"
-      },
-      "artists": [
-        {
-          "name": "Marc Benjamin",
-          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
-        },
-        {
-          "name": "Jay Mark",
-          "url": "https://open.spotify.com/artist/2Rbank5DKhxfNuUmlszjX6"
-        }
-      ],
-      "duration_ms": 143823,
-      "name": "Didn't Mean To",
-      "url": "https://open.spotify.com/track/5Nf6MUO9yYIrg88W99YyLI"
-    },
-    {
-      "added_at": "2025-12-26 05:00:20",
-      "album": {
         "name": "Shamajo",
         "url": "https://open.spotify.com/album/4JYk3P7iLLGAjPQ5uAOlrL"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 180000,
       "name": "Shamajo",
       "url": "https://open.spotify.com/track/07nZpuAuvWcDTtcNAdiHQa"
+    },
+    {
+      "added_at": "2025-12-26 05:00:20",
+      "album": {
+        "name": "Didn't Mean To",
+        "url": "https://open.spotify.com/album/5t3dAZKNv15qhpXLW8uqCY"
+      },
+      "artists": [
+        {
+          "name": "Marc Benjamin",
+          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
+        },
+        {
+          "name": "Jay Mark",
+          "url": "https://open.spotify.com/artist/2Rbank5DKhxfNuUmlszjX6"
+        }
+      ],
+      "duration_ms": 143823,
+      "name": "Didn't Mean To",
+      "url": "https://open.spotify.com/track/5Nf6MUO9yYIrg88W99YyLI"
     },
     {
       "added_at": "2025-12-26 05:00:20",
@@ -579,6 +579,22 @@
     {
       "added_at": "2025-12-26 05:00:20",
       "album": {
+        "name": "Prime Time",
+        "url": "https://open.spotify.com/album/3MIBnZu9hqxhD8H8Q3hFfW"
+      },
+      "artists": [
+        {
+          "name": "Mandragora",
+          "url": "https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "Prime Time",
+      "url": "https://open.spotify.com/track/1cCb7a92QgaqUQ4CaPDkns"
+    },
+    {
+      "added_at": "2025-12-26 05:00:20",
+      "album": {
         "name": "Life",
         "url": "https://open.spotify.com/album/0xkD1ffOiMxhWcmpia3Pyw"
       },
@@ -615,18 +631,18 @@
     {
       "added_at": "2025-12-26 05:00:20",
       "album": {
-        "name": "Prime Time",
-        "url": "https://open.spotify.com/album/3MIBnZu9hqxhD8H8Q3hFfW"
+        "name": "FREAKY",
+        "url": "https://open.spotify.com/album/0CN2pAWbaLHRAeGWBtUcaE"
       },
       "artists": [
         {
-          "name": "Mandragora",
-          "url": "https://open.spotify.com/artist/2AasvmwafZPTgQANaoLoQY"
+          "name": "t e s t p r e s s",
+          "url": "https://open.spotify.com/artist/4udW3rcRXEmwm706eR5h8u"
         }
       ],
-      "duration_ms": 217500,
-      "name": "Prime Time",
-      "url": "https://open.spotify.com/track/1cCb7a92QgaqUQ4CaPDkns"
+      "duration_ms": 176516,
+      "name": "FREAKY",
+      "url": "https://open.spotify.com/track/041Dgg5gGdA88XG12frYZR"
     },
     {
       "added_at": "2025-12-26 05:00:20",
@@ -687,22 +703,6 @@
     {
       "added_at": "2025-12-26 05:00:20",
       "album": {
-        "name": "FREAKY",
-        "url": "https://open.spotify.com/album/0CN2pAWbaLHRAeGWBtUcaE"
-      },
-      "artists": [
-        {
-          "name": "t e s t p r e s s",
-          "url": "https://open.spotify.com/artist/4udW3rcRXEmwm706eR5h8u"
-        }
-      ],
-      "duration_ms": 176516,
-      "name": "FREAKY",
-      "url": "https://open.spotify.com/track/041Dgg5gGdA88XG12frYZR"
-    },
-    {
-      "added_at": "2025-12-26 05:00:20",
-      "album": {
         "name": "Winter Club Cuts 2025",
         "url": "https://open.spotify.com/album/6qYcBmtYmOtjYdnpjbTjwz"
       },
@@ -755,22 +755,6 @@
     {
       "added_at": "2025-12-26 05:00:20",
       "album": {
-        "name": "Okay Now",
-        "url": "https://open.spotify.com/album/0d3EG0uPxmHJPTCjC6GRTU"
-      },
-      "artists": [
-        {
-          "name": "Final Request",
-          "url": "https://open.spotify.com/artist/3NVOeVf2oPolFbXeTjdb3x"
-        }
-      ],
-      "duration_ms": 248953,
-      "name": "Okay Now",
-      "url": "https://open.spotify.com/track/2C5nydxp3dbqYML45vyjJF"
-    },
-    {
-      "added_at": "2025-12-26 05:00:20",
-      "album": {
         "name": "RAVEMODE vol.1",
         "url": "https://open.spotify.com/album/0s3mIBzbEo4w2l4OKbmjSe"
       },
@@ -791,6 +775,22 @@
     {
       "added_at": "2025-12-26 05:00:20",
       "album": {
+        "name": "Okay Now",
+        "url": "https://open.spotify.com/album/0d3EG0uPxmHJPTCjC6GRTU"
+      },
+      "artists": [
+        {
+          "name": "Final Request",
+          "url": "https://open.spotify.com/artist/3NVOeVf2oPolFbXeTjdb3x"
+        }
+      ],
+      "duration_ms": 248953,
+      "name": "Okay Now",
+      "url": "https://open.spotify.com/track/2C5nydxp3dbqYML45vyjJF"
+    },
+    {
+      "added_at": "2025-12-26 05:00:20",
+      "album": {
         "name": "Flava / Check One",
         "url": "https://open.spotify.com/album/6oOXDoM8j4BOnRvBuye4Ky"
       },
@@ -803,22 +803,6 @@
       "duration_ms": 188500,
       "name": "Check One",
       "url": "https://open.spotify.com/track/1rBl4czVO84Pxpzl1t4teQ"
-    },
-    {
-      "added_at": "2025-12-26 05:00:20",
-      "album": {
-        "name": "\u30ef\u30f3\u30c0\u30f3\u30b9 (Original Soundtrack) (Digital Edition)",
-        "url": "https://open.spotify.com/album/2IYWY6DLrcR89f0ZjcXiAg"
-      },
-      "artists": [
-        {
-          "name": "Shinichi Osawa",
-          "url": "https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp"
-        }
-      ],
-      "duration_ms": 172300,
-      "name": "LOOPHORIA",
-      "url": "https://open.spotify.com/track/1fWTa7qOQY5IUwLbcinDRV"
     },
     {
       "added_at": "2025-12-26 05:00:20",
@@ -839,18 +823,18 @@
     {
       "added_at": "2025-12-26 05:00:20",
       "album": {
-        "name": "Pictures",
-        "url": "https://open.spotify.com/album/73Zv5l4XaWcXTTbaMQJufb"
+        "name": "\u30ef\u30f3\u30c0\u30f3\u30b9 (Original Soundtrack) (Digital Edition)",
+        "url": "https://open.spotify.com/album/2IYWY6DLrcR89f0ZjcXiAg"
       },
       "artists": [
         {
-          "name": "dOP",
-          "url": "https://open.spotify.com/artist/1HX7ovHKJG8M8cUoSvH6UB"
+          "name": "Shinichi Osawa",
+          "url": "https://open.spotify.com/artist/0s9KIyjWtFcsRdKtMECxFp"
         }
       ],
-      "duration_ms": 472825,
-      "name": "Pictures",
-      "url": "https://open.spotify.com/track/1uF4lb7QeqhziSJNSaIPh1"
+      "duration_ms": 172300,
+      "name": "LOOPHORIA",
+      "url": "https://open.spotify.com/track/1fWTa7qOQY5IUwLbcinDRV"
     },
     {
       "added_at": "2025-12-26 05:00:20",
@@ -871,6 +855,22 @@
     {
       "added_at": "2025-12-26 05:00:20",
       "album": {
+        "name": "Pictures",
+        "url": "https://open.spotify.com/album/73Zv5l4XaWcXTTbaMQJufb"
+      },
+      "artists": [
+        {
+          "name": "dOP",
+          "url": "https://open.spotify.com/artist/1HX7ovHKJG8M8cUoSvH6UB"
+        }
+      ],
+      "duration_ms": 472825,
+      "name": "Pictures",
+      "url": "https://open.spotify.com/track/1uF4lb7QeqhziSJNSaIPh1"
+    },
+    {
+      "added_at": "2025-12-26 05:00:20",
+      "album": {
         "name": "Winter Club Cuts 2025",
         "url": "https://open.spotify.com/album/7LDG9S95nv8gWSn7nZeF46"
       },
@@ -883,6 +883,26 @@
       "duration_ms": 183807,
       "name": "Planet Soul - Original Mix",
       "url": "https://open.spotify.com/track/183KQ8mswcxcyPTscS1ZIJ"
+    },
+    {
+      "added_at": "2025-12-26 05:00:20",
+      "album": {
+        "name": "WISH I COULD FORGET",
+        "url": "https://open.spotify.com/album/6RBKftkjn9q5KJaOLsTXLg"
+      },
+      "artists": [
+        {
+          "name": "Pixel Terror",
+          "url": "https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm"
+        },
+        {
+          "name": "SILVR SIREN",
+          "url": "https://open.spotify.com/artist/1ZUm2AhAFUZNr90WmeYBFk"
+        }
+      ],
+      "duration_ms": 217043,
+      "name": "WISH I COULD FORGET",
+      "url": "https://open.spotify.com/track/5nAKVK2Q7Zv9VQpPGqo9yT"
     },
     {
       "added_at": "2025-12-26 05:00:20",
@@ -939,26 +959,6 @@
       "duration_ms": 177230,
       "name": "Mala Mujer - Radio Mix",
       "url": "https://open.spotify.com/track/2LFYBsN7P82e9Y1dvS5wks"
-    },
-    {
-      "added_at": "2025-12-26 05:00:20",
-      "album": {
-        "name": "WISH I COULD FORGET",
-        "url": "https://open.spotify.com/album/6RBKftkjn9q5KJaOLsTXLg"
-      },
-      "artists": [
-        {
-          "name": "Pixel Terror",
-          "url": "https://open.spotify.com/artist/3DajvNySJjylWpCSeXefFm"
-        },
-        {
-          "name": "SILVR SIREN",
-          "url": "https://open.spotify.com/artist/1ZUm2AhAFUZNr90WmeYBFk"
-        }
-      ],
-      "duration_ms": 217043,
-      "name": "WISH I COULD FORGET",
-      "url": "https://open.spotify.com/track/5nAKVK2Q7Zv9VQpPGqo9yT"
     },
     {
       "added_at": "2025-12-26 05:00:20",

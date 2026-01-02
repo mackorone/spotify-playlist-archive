@@ -1,12 +1,12 @@
 {
   "description": "This is Ella Mai. The essential tracks, all in one playlist.",
-  "num_followers": 154919,
+  "num_followers": 154948,
   "original_name": "This Is Ella Mai",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVMWAAAAAABxrBaMXLKLYfI4qHXmv4ab",
+  "snapshot_id": "aVRngAAAAABuHXXf2Fi4+Z6NuYx0CDg3",
   "tracks": [
     {
       "added_at": null,
@@ -443,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CHANGE",
+        "url": "https://open.spotify.com/album/5OEG0kAfeWe5Lze9RGbJHb"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 230240,
+      "name": "10,000 Hours",
+      "url": "https://open.spotify.com/track/6d1fGqMtdUEuHqFSDMlR0N"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Don't Waste My Time (feat. Ella Mai)",
         "url": "https://open.spotify.com/album/2veUi52T9SqSvwXJYd5aIT"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 199720,
       "name": "Don't Waste My Time (feat. Ella Mai)",
       "url": "https://open.spotify.com/track/3Ey11v2aiX14s4wBaYbhlp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CHANGE",
-        "url": "https://open.spotify.com/album/5OEG0kAfeWe5Lze9RGbJHb"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 230240,
-      "name": "10,000 Hours",
-      "url": "https://open.spotify.com/track/6d1fGqMtdUEuHqFSDMlR0N"
     },
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "READY",
-        "url": "https://open.spotify.com/album/3o09FMrUQ5TVBUYb6msCMi"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 210825,
-      "name": "Makes Me Wonder",
-      "url": "https://open.spotify.com/track/4zwZhQnqJTr1rQ9wRY3nNr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CHANGE",
         "url": "https://open.spotify.com/album/5OEG0kAfeWe5Lze9RGbJHb"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 186120,
       "name": "Found",
       "url": "https://open.spotify.com/track/3GmdPNBnVUtiTnU3i1idfq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "READY",
+        "url": "https://open.spotify.com/album/3o09FMrUQ5TVBUYb6msCMi"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 210825,
+      "name": "Makes Me Wonder",
+      "url": "https://open.spotify.com/track/4zwZhQnqJTr1rQ9wRY3nNr"
     },
     {
       "added_at": null,
@@ -575,6 +575,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CHANGE",
+        "url": "https://open.spotify.com/album/5OEG0kAfeWe5Lze9RGbJHb"
+      },
+      "artists": [
+        {
+          "name": "Ella Mai",
+          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+        }
+      ],
+      "duration_ms": 253520,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/1tQsStMyJ0tciJ5Z4MUg66"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Grudges",
         "url": "https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 225286,
       "name": "Jealous (with Ella Mai)",
       "url": "https://open.spotify.com/track/4xPqjF1t6wGa2j6QEMPF95"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CHANGE",
-        "url": "https://open.spotify.com/album/5OEG0kAfeWe5Lze9RGbJHb"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 253520,
-      "name": "Down",
-      "url": "https://open.spotify.com/track/1tQsStMyJ0tciJ5Z4MUg66"
     },
     {
       "added_at": null,

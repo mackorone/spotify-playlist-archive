@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "3AMStillAlive Remix",
+        "url": "https://open.spotify.com/album/1drcfoixJIeZWHwqJB3g5v"
+      },
+      "artists": [
+        {
+          "name": "Parra for Cuva",
+          "url": "https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr"
+        },
+        {
+          "name": "orbit",
+          "url": "https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv"
+        }
+      ],
+      "date_added": "2024-08-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219295,
+      "name": "3AMStillAlive - Remix",
+      "url": "https://open.spotify.com/track/0GViNWO0W2BzucFjWWJq6p"
+    },
+    {
+      "album": {
         "name": "Afterlife",
         "url": "https://open.spotify.com/album/4B1YBavH7Qp0X6mAS3L9xO"
       },
@@ -1436,7 +1458,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 187620,
       "name": "Rush",
       "url": "https://open.spotify.com/track/3lxUQ9Q9p2SiJU4FXSLUsr"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1QBiXlEscYkB1YauNmOcUS.md) - [plain]
 
 > Party hits.
 
-[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 13,210 likes - 71 songs - 3 hr 44 min
+[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 13,209 likes - 71 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

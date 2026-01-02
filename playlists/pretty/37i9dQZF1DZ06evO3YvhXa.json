@@ -1,12 +1,12 @@
 {
   "description": "This is Jamiroquai. The essential tracks, all in one playlist.",
-  "num_followers": 427975,
+  "num_followers": 428025,
   "original_name": "This Is Jamiroquai",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVMWAAAAAABa95zVqpkcbAim7hzQ8YEo",
+  "snapshot_id": "aVRngAAAAACrtH+zdnN+6NUiqm6VV8zx",
   "tracks": [
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dynamite",
-        "url": "https://open.spotify.com/album/0NDOtCzyOSoSXwENIWFvMW"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 301733,
-      "name": "Time Won't Wait",
-      "url": "https://open.spotify.com/track/4wX8INH5GiFoH1EeHupY0x"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "High Times: Singles 1992-2006",
         "url": "https://open.spotify.com/album/3gm6ZS73n5yGZvWfq7CoLX"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 226613,
       "name": "Runaway - Remastered 2006",
       "url": "https://open.spotify.com/track/3xfn5sOME92iUfASWC2vNJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/0NDOtCzyOSoSXwENIWFvMW"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 301733,
+      "name": "Time Won't Wait",
+      "url": "https://open.spotify.com/track/4wX8INH5GiFoH1EeHupY0x"
     },
     {
       "added_at": null,

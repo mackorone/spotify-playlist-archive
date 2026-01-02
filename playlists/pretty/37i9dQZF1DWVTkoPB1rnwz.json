@@ -1,6 +1,6 @@
 {
   "description": "Blissful soundscapes from the best Ambient artists right now, to transport you to that feel good place \ud83c\udf24\ufe0f",
-  "num_followers": 290392,
+  "num_followers": 290419,
   "original_name": "Ambient Bliss",
   "owner": {
     "name": "Spotify",
@@ -439,6 +439,22 @@
     {
       "added_at": "2025-12-04 12:45:43",
       "album": {
+        "name": "take care",
+        "url": "https://open.spotify.com/album/1j8kqbNhJlsUpJsfCI9oxj"
+      },
+      "artists": [
+        {
+          "name": "limbus vita",
+          "url": "https://open.spotify.com/artist/2DkcmEC03cEQNTvw6ZLCVQ"
+        }
+      ],
+      "duration_ms": 103906,
+      "name": "take care",
+      "url": "https://open.spotify.com/track/2WSp8idf2GyUpXGAwm48MK"
+    },
+    {
+      "added_at": "2025-12-04 12:45:43",
+      "album": {
         "name": "a liturgy for grief",
         "url": "https://open.spotify.com/album/3NJ6tjPObrYxycf1iQOGGl"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 276939,
       "name": "where do we go from here?",
       "url": "https://open.spotify.com/track/3SdWY5olOJEGX9HgFfxQAV"
-    },
-    {
-      "added_at": "2025-12-04 12:45:43",
-      "album": {
-        "name": "take care",
-        "url": "https://open.spotify.com/album/1j8kqbNhJlsUpJsfCI9oxj"
-      },
-      "artists": [
-        {
-          "name": "limbus vita",
-          "url": "https://open.spotify.com/artist/2DkcmEC03cEQNTvw6ZLCVQ"
-        }
-      ],
-      "duration_ms": 103906,
-      "name": "take care",
-      "url": "https://open.spotify.com/track/2WSp8idf2GyUpXGAwm48MK"
     },
     {
       "added_at": "2025-12-04 12:45:43",
@@ -587,6 +587,22 @@
     {
       "added_at": "2025-12-04 12:45:43",
       "album": {
+        "name": "HereAfter",
+        "url": "https://open.spotify.com/album/3eOpeSAgeHVoLGzXfxvtGu"
+      },
+      "artists": [
+        {
+          "name": "yanaco",
+          "url": "https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq"
+        }
+      ],
+      "duration_ms": 363323,
+      "name": "HereAfter",
+      "url": "https://open.spotify.com/track/76ZzbHJqu3jahM8IhaEHkW"
+    },
+    {
+      "added_at": "2025-12-04 12:45:43",
+      "album": {
         "name": "searching",
         "url": "https://open.spotify.com/album/2cmVsjln1umP4LzUmn9DbK"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 279935,
       "name": "searching",
       "url": "https://open.spotify.com/track/7JI8f3m5ur75iRRWZpj8sm"
-    },
-    {
-      "added_at": "2025-12-04 12:45:43",
-      "album": {
-        "name": "HereAfter",
-        "url": "https://open.spotify.com/album/3eOpeSAgeHVoLGzXfxvtGu"
-      },
-      "artists": [
-        {
-          "name": "yanaco",
-          "url": "https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq"
-        }
-      ],
-      "duration_ms": 363323,
-      "name": "HereAfter",
-      "url": "https://open.spotify.com/track/76ZzbHJqu3jahM8IhaEHkW"
     },
     {
       "added_at": "2025-12-04 12:45:43",
@@ -811,26 +811,6 @@
     {
       "added_at": "2025-12-04 12:45:43",
       "album": {
-        "name": "Unknowns",
-        "url": "https://open.spotify.com/album/1HN3DE6wswND1WdySdbhiI"
-      },
-      "artists": [
-        {
-          "name": "charlie dreaming",
-          "url": "https://open.spotify.com/artist/2RK3yBP8NFH1CLOEj0BIAM"
-        },
-        {
-          "name": "Peter Bark",
-          "url": "https://open.spotify.com/artist/1owDCRcm8r3mCfAVzwNbB2"
-        }
-      ],
-      "duration_ms": 247741,
-      "name": "Unknowns",
-      "url": "https://open.spotify.com/track/1ZMgKmbatGf214ZvycQlB0"
-    },
-    {
-      "added_at": "2025-12-04 12:45:43",
-      "album": {
         "name": "#3 (Rhubarb)",
         "url": "https://open.spotify.com/album/0R9wqsIlcwjmkpcIaRCJfK"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 214570,
       "name": "Appalachia Borealis",
       "url": "https://open.spotify.com/track/7t9CBs8UgSpUOuKmst0UTe"
+    },
+    {
+      "added_at": "2025-12-04 12:45:43",
+      "album": {
+        "name": "Unknowns",
+        "url": "https://open.spotify.com/album/1HN3DE6wswND1WdySdbhiI"
+      },
+      "artists": [
+        {
+          "name": "charlie dreaming",
+          "url": "https://open.spotify.com/artist/2RK3yBP8NFH1CLOEj0BIAM"
+        },
+        {
+          "name": "Peter Bark",
+          "url": "https://open.spotify.com/artist/1owDCRcm8r3mCfAVzwNbB2"
+        }
+      ],
+      "duration_ms": 247741,
+      "name": "Unknowns",
+      "url": "https://open.spotify.com/track/1ZMgKmbatGf214ZvycQlB0"
     },
     {
       "added_at": "2025-12-04 12:45:43",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2025-12-04 12:45:43",
       "album": {
+        "name": "Recommence (I/VII)",
+        "url": "https://open.spotify.com/album/2anOU5OeKw7RxanJGs7AqY"
+      },
+      "artists": [
+        {
+          "name": "Hayes Bradley",
+          "url": "https://open.spotify.com/artist/2eR5l1dWjSIEfAs0mXgyak"
+        }
+      ],
+      "duration_ms": 142535,
+      "name": "What A Life (I)",
+      "url": "https://open.spotify.com/track/7JuGqawtpkLXnzA9q4bmVZ"
+    },
+    {
+      "added_at": "2025-12-04 12:45:43",
+      "album": {
         "name": "Continuum 1",
         "url": "https://open.spotify.com/album/30FyWqYnR3TP5RbadU28e4"
       },
@@ -1199,18 +1215,18 @@
     {
       "added_at": "2025-12-04 12:45:43",
       "album": {
-        "name": "Recommence (I/VII)",
-        "url": "https://open.spotify.com/album/2anOU5OeKw7RxanJGs7AqY"
+        "name": "Eagle 12'",
+        "url": "https://open.spotify.com/album/24YgJOL0WvIgNb4LgpEe9i"
       },
       "artists": [
         {
-          "name": "Hayes Bradley",
-          "url": "https://open.spotify.com/artist/2eR5l1dWjSIEfAs0mXgyak"
+          "name": "Jeune Oji",
+          "url": "https://open.spotify.com/artist/1VNBimzFQgGsGyuqyKS3CQ"
         }
       ],
-      "duration_ms": 142535,
-      "name": "What A Life (I)",
-      "url": "https://open.spotify.com/track/7JuGqawtpkLXnzA9q4bmVZ"
+      "duration_ms": 140689,
+      "name": "Eagle 12'",
+      "url": "https://open.spotify.com/track/5tVIqhVK0fJjdUANt2Rfrj"
     },
     {
       "added_at": "2025-12-04 12:45:43",
@@ -1235,22 +1251,6 @@
       "duration_ms": 320965,
       "name": "Alaskan Dream",
       "url": "https://open.spotify.com/track/40VHrQeS00gz6vcGPoJuBA"
-    },
-    {
-      "added_at": "2025-12-04 12:45:43",
-      "album": {
-        "name": "Eagle 12'",
-        "url": "https://open.spotify.com/album/24YgJOL0WvIgNb4LgpEe9i"
-      },
-      "artists": [
-        {
-          "name": "Jeune Oji",
-          "url": "https://open.spotify.com/artist/1VNBimzFQgGsGyuqyKS3CQ"
-        }
-      ],
-      "duration_ms": 140689,
-      "name": "Eagle 12'",
-      "url": "https://open.spotify.com/track/5tVIqhVK0fJjdUANt2Rfrj"
     },
     {
       "added_at": "2025-12-04 12:45:43",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2025-12-04 12:45:43",
       "album": {
+        "name": "PHANTOM BRICKWORKS VII",
+        "url": "https://open.spotify.com/album/5ca3tSUujeAqajGODRd0J1"
+      },
+      "artists": [
+        {
+          "name": "Bibio",
+          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
+        }
+      ],
+      "duration_ms": 642066,
+      "name": "PHANTOM BRICKWORKS VII",
+      "url": "https://open.spotify.com/track/5Bxn4PN46l8nemHBEEd3RJ"
+    },
+    {
+      "added_at": "2025-12-04 12:45:43",
+      "album": {
         "name": "Uncontrollable Thoughts",
         "url": "https://open.spotify.com/album/0S1WyQ30mE2eiqbwUIa2do"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 311431,
       "name": "Rainbow Road",
       "url": "https://open.spotify.com/track/4dYZJ2jXXGykSRBoOMqFb2"
-    },
-    {
-      "added_at": "2025-12-04 12:45:43",
-      "album": {
-        "name": "PHANTOM BRICKWORKS VII",
-        "url": "https://open.spotify.com/album/5ca3tSUujeAqajGODRd0J1"
-      },
-      "artists": [
-        {
-          "name": "Bibio",
-          "url": "https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT"
-        }
-      ],
-      "duration_ms": 642066,
-      "name": "PHANTOM BRICKWORKS VII",
-      "url": "https://open.spotify.com/track/5Bxn4PN46l8nemHBEEd3RJ"
     },
     {
       "added_at": "2025-12-04 12:45:43",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2025-12-04 12:45:43",
       "album": {
-        "name": "Psychic Geography",
-        "url": "https://open.spotify.com/album/5M2wfJvURaKTP1CA6CUMGt"
-      },
-      "artists": [
-        {
-          "name": "DOVS",
-          "url": "https://open.spotify.com/artist/4dTrYioJXOgFCIglYGbXQm"
-        }
-      ],
-      "duration_ms": 408678,
-      "name": "Verona Walls",
-      "url": "https://open.spotify.com/track/5vV1qY2d15FbX1xwUaxIM3"
-    },
-    {
-      "added_at": "2025-12-04 12:45:43",
-      "album": {
         "name": "OFFAIR: from the forest floor",
         "url": "https://open.spotify.com/album/2MwiCvx4taFv5VnrzCXQj0"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 182528,
       "name": "ambrosia",
       "url": "https://open.spotify.com/track/0XHWlJxP9q5AfYnSyUeiM9"
+    },
+    {
+      "added_at": "2025-12-04 12:45:43",
+      "album": {
+        "name": "Psychic Geography",
+        "url": "https://open.spotify.com/album/5M2wfJvURaKTP1CA6CUMGt"
+      },
+      "artists": [
+        {
+          "name": "DOVS",
+          "url": "https://open.spotify.com/artist/4dTrYioJXOgFCIglYGbXQm"
+        }
+      ],
+      "duration_ms": 408678,
+      "name": "Verona Walls",
+      "url": "https://open.spotify.com/track/5vV1qY2d15FbX1xwUaxIM3"
     },
     {
       "added_at": "2025-12-04 12:45:43",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2025-12-04 12:45:43",
       "album": {
-        "name": "Bright Belief",
-        "url": "https://open.spotify.com/album/1kGJexSZDdSZbfkmefWDaD"
-      },
-      "artists": [
-        {
-          "name": "Jonny Nash",
-          "url": "https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde"
-        }
-      ],
-      "duration_ms": 282000,
-      "name": "Bright Belief",
-      "url": "https://open.spotify.com/track/4GJzoqPOhCylLzM7mtMQbw"
-    },
-    {
-      "added_at": "2025-12-04 12:45:43",
-      "album": {
         "name": "Disquiet",
         "url": "https://open.spotify.com/album/3mO9OIvAFOq7T1WQIWZCvj"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 173373,
       "name": "Disquiet",
       "url": "https://open.spotify.com/track/6f4XfDJKURItN4WLR2rCTq"
+    },
+    {
+      "added_at": "2025-12-04 12:45:43",
+      "album": {
+        "name": "Bright Belief",
+        "url": "https://open.spotify.com/album/1kGJexSZDdSZbfkmefWDaD"
+      },
+      "artists": [
+        {
+          "name": "Jonny Nash",
+          "url": "https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde"
+        }
+      ],
+      "duration_ms": 282000,
+      "name": "Bright Belief",
+      "url": "https://open.spotify.com/track/4GJzoqPOhCylLzM7mtMQbw"
     },
     {
       "added_at": "2025-12-04 12:45:43",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2025-12-04 12:45:43",
       "album": {
-        "name": "Falling Back",
-        "url": "https://open.spotify.com/album/3BBD3CKJmuYDMxotsvQv2J"
-      },
-      "artists": [
-        {
-          "name": "Marius Nitzbon",
-          "url": "https://open.spotify.com/artist/7vFlCSZJKRJ01aXDGen210"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Falling Back",
-      "url": "https://open.spotify.com/track/2PARTWWRctGH9Nx0Fj5AOW"
-    },
-    {
-      "added_at": "2025-12-04 12:45:43",
-      "album": {
         "name": "Music To Work To",
         "url": "https://open.spotify.com/album/5psDaEQtmERzgnUGj4HLFK"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 257834,
       "name": "A-001",
       "url": "https://open.spotify.com/track/5NPFeVHOmUrgJhbwZU3Okk"
+    },
+    {
+      "added_at": "2025-12-04 12:45:43",
+      "album": {
+        "name": "Falling Back",
+        "url": "https://open.spotify.com/album/3BBD3CKJmuYDMxotsvQv2J"
+      },
+      "artists": [
+        {
+          "name": "Marius Nitzbon",
+          "url": "https://open.spotify.com/artist/7vFlCSZJKRJ01aXDGen210"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Falling Back",
+      "url": "https://open.spotify.com/track/2PARTWWRctGH9Nx0Fj5AOW"
     },
     {
       "added_at": "2025-12-04 12:45:43",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2025-12-04 12:45:43",
       "album": {
-        "name": "Half Light",
-        "url": "https://open.spotify.com/album/7HoBn0EaEa6g8mdFYNNn1Z"
-      },
-      "artists": [
-        {
-          "name": "Message To Bears",
-          "url": "https://open.spotify.com/artist/6MmQrV24zUeieNf027zkh3"
-        }
-      ],
-      "duration_ms": 190225,
-      "name": "Half Light",
-      "url": "https://open.spotify.com/track/3KAPBsVWsGU5xTC7gvNDSE"
-    },
-    {
-      "added_at": "2025-12-04 12:45:43",
-      "album": {
         "name": "Amaryllis Dream",
         "url": "https://open.spotify.com/album/3djth8VCTRvO8S2jqk2xtZ"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 238701,
       "name": "Fire Flys",
       "url": "https://open.spotify.com/track/56qj6FXaTfdFXpYhRZGyGc"
+    },
+    {
+      "added_at": "2025-12-04 12:45:43",
+      "album": {
+        "name": "Half Light",
+        "url": "https://open.spotify.com/album/7HoBn0EaEa6g8mdFYNNn1Z"
+      },
+      "artists": [
+        {
+          "name": "Message To Bears",
+          "url": "https://open.spotify.com/artist/6MmQrV24zUeieNf027zkh3"
+        }
+      ],
+      "duration_ms": 190225,
+      "name": "Half Light",
+      "url": "https://open.spotify.com/track/3KAPBsVWsGU5xTC7gvNDSE"
     },
     {
       "added_at": "2025-12-04 12:45:43",
@@ -1707,6 +1707,22 @@
     {
       "added_at": "2025-12-04 12:45:43",
       "album": {
+        "name": "Makes Me Want You",
+        "url": "https://open.spotify.com/album/5p4gsvhpPQ9l8Issw2NtYd"
+      },
+      "artists": [
+        {
+          "name": "Jesper Ryom",
+          "url": "https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P"
+        }
+      ],
+      "duration_ms": 201457,
+      "name": "Makes Me Want You",
+      "url": "https://open.spotify.com/track/0O43NCt1jVsTfyuOQQN5LW"
+    },
+    {
+      "added_at": "2025-12-04 12:45:43",
+      "album": {
         "name": "Que llueva ```",
         "url": "https://open.spotify.com/album/6CxmskanWmgIjOvRatvUwr"
       },
@@ -1723,22 +1739,6 @@
       "duration_ms": 268327,
       "name": "Que llueva ```",
       "url": "https://open.spotify.com/track/5xU3O8WUIoTkMWEg0AIjZ4"
-    },
-    {
-      "added_at": "2025-12-04 12:45:43",
-      "album": {
-        "name": "Makes Me Want You",
-        "url": "https://open.spotify.com/album/5p4gsvhpPQ9l8Issw2NtYd"
-      },
-      "artists": [
-        {
-          "name": "Jesper Ryom",
-          "url": "https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P"
-        }
-      ],
-      "duration_ms": 201457,
-      "name": "Makes Me Want You",
-      "url": "https://open.spotify.com/track/0O43NCt1jVsTfyuOQQN5LW"
     },
     {
       "added_at": "2025-12-04 12:45:43",
@@ -1779,22 +1779,18 @@
     {
       "added_at": "2025-12-04 12:45:43",
       "album": {
-        "name": "Breathless",
-        "url": "https://open.spotify.com/album/6GiIvMLkoLLSBVNiZuqo0w"
+        "name": "sometimes it's scary but it's still just you and me (Leaving Laurel Revisit)",
+        "url": "https://open.spotify.com/album/7GSjuvfO5zE5BOLn8uRPYz"
       },
       "artists": [
         {
-          "name": "Helios",
-          "url": "https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w"
-        },
-        {
-          "name": "Hollie Kenniff",
-          "url": "https://open.spotify.com/artist/5jz9oievmO3hrSV0XOxHHS"
+          "name": "Leaving Laurel",
+          "url": "https://open.spotify.com/artist/2Tz2klWNZNGyvOMr8gT98t"
         }
       ],
-      "duration_ms": 185834,
-      "name": "Breathless",
-      "url": "https://open.spotify.com/track/7q7ADZ5huqi7bf0vdWHDwZ"
+      "duration_ms": 262923,
+      "name": "sometimes it's scary but it's still just you and me - Leaving Laurel Revisit",
+      "url": "https://open.spotify.com/track/31lP9IdMFuGZlHKepkACPc"
     }
   ],
   "unique_name": "Ambient Bliss",

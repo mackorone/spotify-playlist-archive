@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,118 songs - 20 day 15 hr 5 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,119 songs - 20 day 15 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4016,7 +4016,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 4006 | [あいことば \- Secret Word](https://open.spotify.com/track/1PmOyrbXWh03R4idV6ei62) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [Ⅴ](https://open.spotify.com/album/0WLus88gcccGasIpW2tb5c) | 5:49 |
 | 4007 | [恋人ができたんだ](https://open.spotify.com/track/0xFj47kde9HCKdivI4qIh7) | [My Hair is Bad](https://open.spotify.com/artist/0d4XqzcMpgP6eQZ6TIW2pI) | [woman’s](https://open.spotify.com/album/0Oju4XPjqPMn1Md8DmMMuh) | 5:03 |
 | 4008 | [Let Me Go](https://open.spotify.com/track/2tTyOqKFskYSQHxBGXNdhe) | [Mykal Kilgore](https://open.spotify.com/artist/0YO1x9lk7UJdHjR16lC23F) | [A Man Born Black](https://open.spotify.com/album/4ZuzPJ4oWqQ5lmXVp1Q4W1) | 3:45 |
-| 4009 | [Leak](https://open.spotify.com/track/1c8PjFzb4RWfAXgupKgbba) | [mynameisntjmack](https://open.spotify.com/artist/7HY1ISUuRotG01FVu0PKWh) | [Leak](https://open.spotify.com/album/0Y4eRphwFM8HKhh1FBAQXU) | 4:22 |
+| 4009 | [Leak](https://open.spotify.com/track/1c8PjFzb4RWfAXgupKgbba) | [mynameisntjmack](https://open.spotify.com/artist/6phySPoSPIe25pNTqM6wWK) | [Leak](https://open.spotify.com/album/0Y4eRphwFM8HKhh1FBAQXU) | 4:22 |
 | 4010 | [Paradisus\-Paradoxum](https://open.spotify.com/track/1JC0r7pvdrdbdJQBYfRc19) | [MYTH & ROID](https://open.spotify.com/artist/1NRrtMvT3o1TI6I8XCuweq) | [eYe's](https://open.spotify.com/album/1G6AOMc4A9Ky2M6Vx05ERO) | 3:51 |
 | 4011 | [Like an Indian Doll](https://open.spotify.com/track/6dYBbyqyZiNssyoEs2xtiy) | [NAMI](https://open.spotify.com/artist/50h2tBXWxIdL1ol9zowwyp) | [아무말 않으리 / 미움인지 그리움인지](https://open.spotify.com/album/2xnUssKFd5wlsdtozG2B0z) | 3:56 |
 | 4012 | [슬픈 인연](https://open.spotify.com/track/0G2to1KZwCBe4H0VJdSeDf) | [NAMI](https://open.spotify.com/artist/50h2tBXWxIdL1ol9zowwyp) | [유혹하지 말아요 1985](https://open.spotify.com/album/1JnelvSzADjdiU4mqSwI61) | 4:35 |
@@ -6536,7 +6536,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 6526 | [Fall in love with you in every 4AM.](https://open.spotify.com/track/2sXQnT404FrXeSEZkJXfKM) | [Friday Night Plans](https://open.spotify.com/artist/71YfYiTx6KAZFJfKaNYueQ) | [LOCATION \- Los Angeles](https://open.spotify.com/album/4gpuX2juCWTe8gWsBCznlp) | 2:56 |
 | 6527 | [Traingazing](https://open.spotify.com/track/49QEJdbU9mf4VUXReOpZ9u) | [Sam Wills](https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo), [Honey Mooncie](https://open.spotify.com/artist/5GACks0pdDAgyd63kXBJFk) | [Breathe](https://open.spotify.com/album/1QSDqlZT7YrFe38IEaR67A) | 3:34 |
 | 6528 | [Dance](https://open.spotify.com/track/3rQmTAyMDDZ73rMyhLkn98) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 3:39 |
-| 6529 | [May I Ask](https://open.spotify.com/track/3BajoSb3TjPbcOC873OjbD) | [Luke Chiang](https://open.spotify.com/artist/1dPSMH55yhvjYIwqCP4iDj), [Alexis Kim](https://open.spotify.com/artist/5EzAjCalQrWFkclhRS1Xap) | [May I Ask](https://open.spotify.com/album/7brg84HpKixGklKe5aeFAG) | 3:50 |
+| 6529 | [May I Ask](https://open.spotify.com/track/3BajoSb3TjPbcOC873OjbD) | [Luke Chiang](https://open.spotify.com/artist/1dPSMH55yhvjYIwqCP4iDj), [Alexis Kim](https://open.spotify.com/artist/1J5Cilewi4rwV57HnGFmiL) | [May I Ask](https://open.spotify.com/album/7brg84HpKixGklKe5aeFAG) | 3:50 |
 | 6530 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 |
 | 6531 | [Love For You](https://open.spotify.com/track/2DkKddV2e952EAteyuV0wP) | [LOVELI LORI](https://open.spotify.com/artist/7mcE0EmrnPmyAGU3UBJrFg), [ovg!](https://open.spotify.com/artist/3oSZKapuKjNzTOejmMFXn3) | [Love For You](https://open.spotify.com/album/4OmjabUN2BY5HPsJo4HMPc) | 2:50 |
 | 6532 | [ROCK OUT IN MY JAMMIES](https://open.spotify.com/track/7fBEKUqgWEVjvS3Wq3Qqg0) | [DØLØ VØÑ](https://open.spotify.com/artist/5X0KNQreTUKge0SCU6h7Ud) | [ROCK OUT IN MY JAMMIES](https://open.spotify.com/album/4VIh6sniqOKXyIca3WxN1R) | 1:36 |
@@ -8126,5 +8126,6 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8116 | [FOCUS](https://open.spotify.com/track/6jYiHr12NVKLzn0X7K8aSK) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [FOCUS \- The 1st Mini Album](https://open.spotify.com/album/0SVlu6q116wFO1m4EZ088b) | 2:57 |
 | 8117 | [SO BAD](https://open.spotify.com/track/13KR2yNRDrbKwR3dOKCDl4) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Star To A Young Culture](https://open.spotify.com/album/4PrRd0lIunUEiiE5rbZklR) | 3:32 |
 | 8118 | [What You Saying](https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [What You Saying](https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly) | 2:11 |
+| 8119 | [AEAO](https://open.spotify.com/track/3TPvrMAd1hbPRXuHCRX0Pl) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [A Giant Step](https://open.spotify.com/album/6SFd0NeIrUfZoqCSjoFpe8) | 5:16 |
 
-Snapshot ID: `AAAKO2YvFDWHxo+8tUUBtKLoWGtP4UR/`
+Snapshot ID: `AAAKPBccEjlFV7ajVFDgww6jvRwUeEuR`

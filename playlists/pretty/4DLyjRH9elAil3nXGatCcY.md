@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4DLyjRH9elAil3nXGatCcY.md) - [plain]
 
 > 
 
-[Melody](https://open.spotify.com/user/lemo1sgsji7o3jac2spebn5ih) - 7,568 likes - 539 songs - 1 day 11 hr 21 min
+[Melody](https://open.spotify.com/user/lemo1sgsji7o3jac2spebn5ih) - 7,568 likes - 543 songs - 1 day 11 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -547,5 +547,9 @@ pretty - [cumulative](/playlists/cumulative/4DLyjRH9elAil3nXGatCcY.md) - [plain]
 | 537 | [オトノケ \- Otonoke](https://open.spotify.com/track/6KYOlIwDHbrbeBbJEtQ0Fj) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [オトノケ \- Otonoke](https://open.spotify.com/album/7zI1wDJmkfHMBwZpbwJn8H) | 3:05 |
 | 538 | [革命道中 \- On The Way](https://open.spotify.com/track/1oFqKeepmT5S8BCGqJl7Ar) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [革命道中 \- On The Way](https://open.spotify.com/album/6uBwz7fKYpTHQqEvbpRMQu) | 3:17 |
 | 539 | [Hunting Soul](https://open.spotify.com/track/3xavvpT54qq3TZJLNjBn7Z) | [トシロウ（CV.谷山紀章）](https://open.spotify.com/artist/3SQQcJqSiQ4ytuStSlvwNU) | [Hunting Soul \(from "Dan Da Dan" Season 2 Soundtrack\)](https://open.spotify.com/album/3QkZZnO3Sr4GPqovo1FrKI) | 3:59 |
+| 540 | [DRIVE OFF A BRIDGE](https://open.spotify.com/track/5BUMezybH9ddavsNH1O6Py) | [Jakey](https://open.spotify.com/artist/3q1NKu1dVzFcBfxFos4kE3) | [ROMCOM](https://open.spotify.com/album/5vKdHtnPF6EJZcoGZYN83I) | 3:21 |
+| 541 | [PINE BARRENS](https://open.spotify.com/track/4rXPslBAEpEmo1ywklkzyc) | [Jakey](https://open.spotify.com/artist/3q1NKu1dVzFcBfxFos4kE3) | [ROMCOM](https://open.spotify.com/album/5vKdHtnPF6EJZcoGZYN83I) | 3:49 |
+| 542 | [LIKE TOTALLY FREAK ME OUT](https://open.spotify.com/track/7xcmS4PaNKDQp2yB3Ad01A) | [Jakey](https://open.spotify.com/artist/3q1NKu1dVzFcBfxFos4kE3) | [ROMCOM](https://open.spotify.com/album/5vKdHtnPF6EJZcoGZYN83I) | 3:04 |
+| 543 | [6 Underground](https://open.spotify.com/track/7KvSuH86lIT2aTl9PBCAfd) | [Sneaker Pimps](https://open.spotify.com/artist/1EJWNhiYbOyeUHbsS7Kp1P) | [Becoming X](https://open.spotify.com/album/74nAYi5aVDBdb5jGx8OM7s) | 3:48 |
 
-Snapshot ID: `AAABXhljJVrYqh2Pt6LJSb1HPcskA4Es`
+Snapshot ID: `AAABYnNUT8ZYekG/F4aWhYC1WJhwS3Y8`

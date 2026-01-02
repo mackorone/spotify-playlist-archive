@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: back number
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,386 likes - 88 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,439 likes - 88 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,14 +4,14 @@
 
 > Relax to the sound of a storm setting in.
 
-448 songs - 20 hr 11 min
+450 songs - 20 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3D Rain](https://open.spotify.com/track/3PHJojTKJBt5uqWdq38lHd) | [Rain In Spain](https://open.spotify.com/artist/5eDzrKBgV4C8kovSd9vup9) | [Part Two](https://open.spotify.com/album/3kvMpN08jpYtQB1cr1Y93a) | 3:49 | 2021-11-10 | 2025-11-12 |
 | [A Beautiful Thunderstorm](https://open.spotify.com/track/3GoB3XiepANq55EJH6aZbr) | [RainGirl](https://open.spotify.com/artist/6s2UjNnE8eTAmvTR6oV7dN) | [A Beautiful Thunderstorm](https://open.spotify.com/album/7nqJTaJ6Z2mZakOzt7x2vJ) | 2:12 | 2025-12-19 |  |
 | [A Gentle Thunderstorm](https://open.spotify.com/track/7t2gqm0vQJ9sdmiLXgmb9o) | [Liquid Planet Recordings](https://open.spotify.com/artist/6jdXzmcf0crcLQOkn58oLQ) | [Rain Sounds to Fall Asleep](https://open.spotify.com/album/63XNfdp6TaWsZflQDDgg3v) | 3:06 | 2023-02-13 |  |
-| [A Rainy Day At The Park](https://open.spotify.com/track/3GIlON6gSvqaNJYm87uWsM) | [Waters Of Deluge](https://open.spotify.com/artist/0WOVfUGhrR6cXub2J4wz10) | [Park And Nature Rains](https://open.spotify.com/album/4d39VZ9ogKIVcm1d5V00cT) | 2:48 | 2021-11-10 |  |
+| [A Rainy Day At The Park](https://open.spotify.com/track/3GIlON6gSvqaNJYm87uWsM) | [Waters Of Deluge](https://open.spotify.com/artist/0WOVfUGhrR6cXub2J4wz10) | [Park And Nature Rains](https://open.spotify.com/album/4d39VZ9ogKIVcm1d5V00cT) | 2:48 | 2021-11-10 | 2026-01-02 |
 | [A Storm For Sleep](https://open.spotify.com/track/7jV5HQ9V02hy2r0WjZDGnl) | [Science Noise](https://open.spotify.com/artist/21rKXFXyX0IWKpYmoOaP8Q) | [A Storm For Sleep](https://open.spotify.com/album/7IyU3zk03UTNgtMiW4U921) | 3:45 | 2023-02-13 |  |
 | [Acidity Rain](https://open.spotify.com/track/3l30IZUBWUfh3MGvCaGFrv) | [Vanessa Storm](https://open.spotify.com/artist/6TsgwupeJtUQbUQFDXNlvu) | [Rainband](https://open.spotify.com/album/2jh2el08okb2KSgy9sKrew) | 2:07 | 2021-11-10 | 2024-03-23 |
 | [Almost Supernatural](https://open.spotify.com/track/5zvfHSjOJj3oWIV7CtUAe7) | [Shaman](https://open.spotify.com/artist/35P36DZtjEMEP2KOO9759M) | [Thundering Heights](https://open.spotify.com/album/7EEC9RmlpYgpftowu5TdQ4) | 3:08 | 2023-02-13 |  |
@@ -104,6 +104,7 @@
 | [Fjorgyn](https://open.spotify.com/track/6umAPo33PT9loaaQ1b937z) | [Heart of Fjorgyn](https://open.spotify.com/artist/4fkTPjObX2xjH7mEk7WQRX) | [Blessed Rain](https://open.spotify.com/album/4Bu6bIFHYCabxiQSxkI36T) | 3:21 | 2021-11-10 |  |
 | [Fjorgyn's Touch](https://open.spotify.com/track/5V6Vd53pmvD2xhVBryQZ15) | [Heart of Fjorgyn](https://open.spotify.com/artist/4fkTPjObX2xjH7mEk7WQRX) | [Northern Soul](https://open.spotify.com/album/6Zvk0pfC2Ao2d6mpjN2hzE) | 1:47 | 2021-11-10 | 2023-06-16 |
 | [Flash & Thunder](https://open.spotify.com/track/4NkLZ02Kkeka1qODiLJkVN) | [Relaxed Skies](https://open.spotify.com/artist/7MuuwHQrVsCg68uvZHK35x) | [Lightning Therapy](https://open.spotify.com/album/3adoh17BDT1uiFBekiTW8y) | 2:14 | 2021-11-10 |  |
+| [Flashy Thunder](https://open.spotify.com/track/6q55rwqnimDNk7Z6FczWPt) | [Thunder In Paradise](https://open.spotify.com/artist/2oWN3OXJUk1mh7CAhkJeqX) | [Flashy Thunder](https://open.spotify.com/album/0bsLbkg7wE62GwLdeH4Qly) | 2:58 | 2025-12-19 |  |
 | [Flux D'inondation](https://open.spotify.com/track/4aS4zVIrf5Hmfyn0eHW5DB) | [Enregistrements Sonores De La Nature](https://open.spotify.com/artist/5x5SqfLKe2ZtQJQBLXu01H) | [Flux D'inondation](https://open.spotify.com/album/2DaI1NhFiIjsnG8vHeeyMK) | 2:36 | 2022-02-03 |  |
 | [Focus Bad Weather](https://open.spotify.com/track/1JDovYXYHCeqP38zTy1BsM) | [Day & Night Rain](https://open.spotify.com/artist/5p3vgbXHS5XWeuHRq7pFzr) | [Day & Night Rain](https://open.spotify.com/album/0NyJjNOH8mA4niKYc1sutl) | 1:43 | 2021-11-10 | 2023-06-16 |
 | [Foggy Morning Rain](https://open.spotify.com/track/6lclF5CG07zc2GLG8VUfbX) | [Northerly Nature](https://open.spotify.com/artist/5jNKsTKXS0Ub5ng4c4XsL1) | [Rain From The Cabin](https://open.spotify.com/album/6N6hb0UO7bKqVA7uqZ09gs) | 3:14 | 2021-11-10 | 2024-03-09 |
@@ -298,6 +299,7 @@
 | [Relaxing Sleep Ambience](https://open.spotify.com/track/0dUMBi3YvpnfxOshM783xa) | [Let It Rain](https://open.spotify.com/artist/2HQWUP9lYec3fWJ6VbSFdG) | [Garden Rain](https://open.spotify.com/album/2B422CHROjn9jI9YjumQbH) | 3:01 | 2021-11-10 |  |
 | [Relaxing Thunder Rain](https://open.spotify.com/track/1WFyRaDWcObWNk9CD2OCxq) | [Weatherality](https://open.spotify.com/artist/0e068t7B3Ipmlq0TkNthxU) | [Midnight Rumble](https://open.spotify.com/album/63ZfKlcisY2G3WstLBS066) | 2:04 | 2023-02-13 |  |
 | [REM Cycle Rain](https://open.spotify.com/track/4iA69uEBQfAItJ9k4DttC0) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Calming Water and Nature](https://open.spotify.com/album/2wvSQLGnfV2fvkLgUrbKDB) | 2:54 | 2021-11-10 | 2024-03-23 |
+| [Road Rain](https://open.spotify.com/track/6sZbZ3d11aCDmHTyarOUOq) | [Bali Rain](https://open.spotify.com/artist/54tn0DvLnrBUmX1tthjwJS) | [Road Rain](https://open.spotify.com/album/6fVLmbXaxl6VSEN5A7KmZE) | 3:14 | 2025-12-19 |  |
 | [Roaring Thunder](https://open.spotify.com/track/5yBX7tfwoQlRkio1DLVX1z) | [Exotic Thunder & Rain](https://open.spotify.com/artist/6AEnJuV30ZBpEn1UqSLAHF) | [First Edition](https://open.spotify.com/album/1sDvTTk8d0Tl1tJWYhcpfR) | 3:07 | 2021-11-10 | 2024-03-09 |
 | [Rumbling](https://open.spotify.com/track/5aHIVNM8mZbJQgkTCEbHLu) | [Oluja](https://open.spotify.com/artist/4NezsL00vYvCDeBNlLYEtV) | [Take Cover](https://open.spotify.com/album/7xIxj7pi7fuSSfNjOYcpxJ) | 3:00 | 2021-11-10 |  |
 | [Rumbling Sky](https://open.spotify.com/track/3WvMRwe0VySgRljtVvBtWY) | [Nue](https://open.spotify.com/artist/4zPX6V2gCI5nf46EQTpRr9) | [Rumbling Sky](https://open.spotify.com/album/1OHgb6ZIhjzLTO9j6FvBux) | 2:27 | 2021-11-10 |  |
@@ -444,7 +446,7 @@
 | [Wake Up When The Storm Is Over](https://open.spotify.com/track/1dw8g82GWDDGkemAA8n5A1) | [Ogień](https://open.spotify.com/artist/5d8IWNN5vBsIDVskioGQLw) | [Storm Approaching](https://open.spotify.com/album/05Tl9xJsN9dbV48y70MBks) | 3:36 | 2021-11-10 | 2024-03-09 |
 | [Watch The Storm](https://open.spotify.com/track/3g8n6JHQDGGjrE27lAtpvn) | [Dreams Made](https://open.spotify.com/artist/0hGBfohzgZXOnLuYHG9CQ0) | [It's A Storm](https://open.spotify.com/album/78f5Iz6Gwjlys2vvmhC3hL) | 2:33 | 2021-11-10 |  |
 | [Wednesday](https://open.spotify.com/track/5oJjJo0k8XduWQIrskmxZ9) | [Altostratus](https://open.spotify.com/artist/0F1KiweoRWIIKbgKWTHaua) | [Storm in the fields](https://open.spotify.com/album/1jffCmND2gYAn2JHomEP2n) | 2:29 | 2023-02-13 |  |
-| [Wet Rain Season](https://open.spotify.com/track/7qRF1aoqAOOhb58IHhtkt6) | [FX waves](https://open.spotify.com/artist/1YHUx5UWB4wFTH0o5Yvlwj) | [Wet Rain Season](https://open.spotify.com/album/3HLRB96Pi85y3ZuaHVGL6u) | 2:17 | 2021-11-10 |  |
+| [Wet Rain Season](https://open.spotify.com/track/7qRF1aoqAOOhb58IHhtkt6) | [FX waves](https://open.spotify.com/artist/1YHUx5UWB4wFTH0o5Yvlwj) | [Wet Rain Season](https://open.spotify.com/album/3HLRB96Pi85y3ZuaHVGL6u) | 2:17 | 2021-11-10 | 2026-01-02 |
 | [Wet Weather](https://open.spotify.com/track/5hf4IrzBngV1tdtDKDzt7a) | [Electricality](https://open.spotify.com/artist/3WiLG8IMyo00LP5Yqb8yUG) | [Live In Thunder](https://open.spotify.com/album/0GNldraOAircB3HTqF13PI) | 2:36 | 2021-11-10 |  |
 | [Wide Rain \- Thunder](https://open.spotify.com/track/0dVn2OqVdmrCoRUN3cGjOj) | [Weather Pass](https://open.spotify.com/artist/2H3oeCocy2EKakpX7Es1T5) | [Storms](https://open.spotify.com/album/359lCAN0rNlyvJ39Chab0Y) | 3:05 | 2021-11-10 |  |
 | [Will it ever stop raining?](https://open.spotify.com/track/1LA1g4jm8cJuKPwwWZzu2M) | [REGN](https://open.spotify.com/artist/2gyk8wYChmm41Fvq6TYBjM) | [It's been raining all day](https://open.spotify.com/album/4Z0vgQWxrtzmPGOhP7hLVf) | 3:32 | 2021-11-10 | 2023-02-14 |

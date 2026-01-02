@@ -1,12 +1,12 @@
 {
   "description": "This is Bastille. The essential tracks, all in one playlist.",
-  "num_followers": 220220,
+  "num_followers": 220217,
   "original_name": "This Is Bastille",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVMWAAAAAAAWLqwUv9Pc+xHMRloizh2p",
+  "snapshot_id": "aVRngAAAAAB7oXXsebEf7ZH2K1mpCbnY",
   "tracks": [
     {
       "added_at": null,
@@ -491,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bathsheba & Him",
+        "url": "https://open.spotify.com/album/492qsKqel0nuWnIdGHXbDT"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 213580,
+      "name": "Bathsheba & Him",
+      "url": "https://open.spotify.com/track/29qGW0onbNeEq29cTg4NzD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Can\u2019t Fight This Feeling",
         "url": "https://open.spotify.com/album/4GA0xqV2mfFmup90U0aOlu"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 198889,
       "name": "Can\u2019t Fight This Feeling",
       "url": "https://open.spotify.com/track/6lYNtepnbJVzR0tAxj2lW7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bathsheba & Him",
-        "url": "https://open.spotify.com/album/492qsKqel0nuWnIdGHXbDT"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 213580,
-      "name": "Bathsheba & Him",
-      "url": "https://open.spotify.com/track/29qGW0onbNeEq29cTg4NzD"
     },
     {
       "added_at": null,
@@ -591,30 +591,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Answer",
-        "url": "https://open.spotify.com/album/5kGjspBIeXZWFZpdOTs6UP"
+        "name": "Give Me The Future",
+        "url": "https://open.spotify.com/album/2A3BFOsrRHn0VQuafW2zYs"
       },
       "artists": [
         {
-          "name": "Energies",
-          "url": "https://open.spotify.com/artist/2JGt2NB6hOe8BXhe7uI3sm"
-        },
-        {
           "name": "Bastille",
           "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        },
-        {
-          "name": "Joywave",
-          "url": "https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m"
-        },
-        {
-          "name": "Rittipo",
-          "url": "https://open.spotify.com/artist/6LgqEPFOAHk2KpfLZFBh7N"
         }
       ],
-      "duration_ms": 203000,
-      "name": "The Answer",
-      "url": "https://open.spotify.com/track/3WnAo7d6JUBrtDL9KZbbgw"
+      "duration_ms": 137476,
+      "name": "Thelma + Louise",
+      "url": "https://open.spotify.com/track/2BzVkisodhQOPOPVJ9UKEI"
     },
     {
       "added_at": null,
@@ -639,18 +627,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Give Me The Future",
-        "url": "https://open.spotify.com/album/2A3BFOsrRHn0VQuafW2zYs"
+        "name": "The Answer",
+        "url": "https://open.spotify.com/album/5kGjspBIeXZWFZpdOTs6UP"
       },
       "artists": [
         {
+          "name": "Energies",
+          "url": "https://open.spotify.com/artist/2JGt2NB6hOe8BXhe7uI3sm"
+        },
+        {
           "name": "Bastille",
           "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        },
+        {
+          "name": "Joywave",
+          "url": "https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m"
+        },
+        {
+          "name": "Rittipo",
+          "url": "https://open.spotify.com/artist/6LgqEPFOAHk2KpfLZFBh7N"
         }
       ],
-      "duration_ms": 137476,
-      "name": "Thelma + Louise",
-      "url": "https://open.spotify.com/track/2BzVkisodhQOPOPVJ9UKEI"
+      "duration_ms": 203000,
+      "name": "The Answer",
+      "url": "https://open.spotify.com/track/3WnAo7d6JUBrtDL9KZbbgw"
     },
     {
       "added_at": null,

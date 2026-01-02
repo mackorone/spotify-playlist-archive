@@ -4,7 +4,7 @@
 
 > Solo beat e rime avvolgenti\. Cover: Paky
 
-290 songs - 15 hr 2 min
+293 songs - 15 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Amore lo\-fi \(feat\. Nicola Siciliano & Madame\)](https://open.spotify.com/track/65qZHYBCEzXy12gyH4v9Z7) | [Clementino](https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3), [Nicola Siciliano](https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt), [endly](https://open.spotify.com/artist/1cqb0IqRUO8HCpKFdMsdvI), [Rnla](https://open.spotify.com/artist/5lKJ1MdVwexXUEEUFLI4l9), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [Black Pulcinella](https://open.spotify.com/album/44BqX1Kc6bSgUb3SvWF0k6) | 3:19 | 2022-04-28 | 2022-05-20 |
 | [Andrea](https://open.spotify.com/track/03j2Lo97VCDprSk8oLb8Gi) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [Andrea](https://open.spotify.com/album/1mbwNDgFojWsQfJCN46Izm) | 3:05 | 2022-04-28 | 2023-10-27 |
 | [Angelina Jolie](https://open.spotify.com/track/0tD4EXZRm1JGDYWtKYFLWK) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [Angelina Jolie](https://open.spotify.com/album/6sE81aPV364gLYtUBwgzwR) | 2:49 | 2022-04-28 |  |
+| [Ansia 162](https://open.spotify.com/track/2ChzQPvoJcidNVv393v6H4) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [TRAUMA](https://open.spotify.com/album/09xCJhx72yNShO44mjQgF9) | 3:46 | 2026-01-01 |  |
 | [Apnea](https://open.spotify.com/track/3lZfZpZmxkafEMi9doo7Of) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [Io In Terra](https://open.spotify.com/album/7qs6R874LFaGWVVrPTELXc) | 3:31 | 2022-04-28 | 2024-01-12 |
 | [APPARTENGO \- Il sangue](https://open.spotify.com/track/6mP8EUaw6JbuYMJkQew3Ny) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [Persona](https://open.spotify.com/album/7cZB2w7ju8vYRGzTSJ1H1v) | 4:15 | 2022-12-15 | 2024-04-19 |
 | [APPARTENGO \- Il sangue \(feat\. Massimo Pericolo\)](https://open.spotify.com/track/2tpfOljBdskx8G331TjRps) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [Persona](https://open.spotify.com/album/19iZTn6IM82raMquk5Z7Ul) | 4:15 | 2022-04-28 |  |
@@ -42,6 +43,7 @@
 | [Baggy](https://open.spotify.com/track/0xeJ32ajq1qEqHPqfv5InP) | [DJ Shocca](https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz), [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM), [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP) | [60 Hz II](https://open.spotify.com/album/5dizu3zJPc4fhPMjarEhIM) | 2:50 | 2025-06-26 | 2025-11-07 |
 | [BARATRO](https://open.spotify.com/track/5cEBEdqhJBtsauO0SsM01W) | [Gheba](https://open.spotify.com/artist/2SU1nwN4pyNj6cSVoOzcsc), [Pave](https://open.spotify.com/artist/5Dtz5w5xVlRscuRR9dIUtV) | [BARATRO](https://open.spotify.com/album/2uiOv2MrU4J4yrvpuAVD7M) | 2:09 | 2025-12-05 |  |
 | [Bella](https://open.spotify.com/track/7CxLQIq4kIq8P8UwemcKfX) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [Come Uccidere Un Usignolo](https://open.spotify.com/album/2MEJwoXq5hRxCU2vzOhwIp) | 3:26 | 2022-04-28 |  |
+| [Bene ormai](https://open.spotify.com/track/4Vq5sGWPEemZvBWP7CRjj2) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [TRAUMA](https://open.spotify.com/album/09xCJhx72yNShO44mjQgF9) | 3:10 | 2026-01-01 |  |
 | [BIG CEO](https://open.spotify.com/track/6h2XLZqXWJGn1a0e7VUR4x) | [LILCR](https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S) | [PROGETTO X DELUXE](https://open.spotify.com/album/3zbpX7pil18FtBaPKsCne1) | 2:46 | 2025-12-29 |  |
 | [Bipolare](https://open.spotify.com/track/1hJdbytR4TMoQ2ZTWhpoJY) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn) | [Maltempo](https://open.spotify.com/album/3bMRPwPkOnx3AYCbWIg3Ag) | 3:18 | 2023-12-14 | 2024-01-12 |
 | [Bitch Affianco \(feat\. Il Ghost\)](https://open.spotify.com/track/7GMdUBnPCy8ttOJwxUW6HM) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J), [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX) | [DELINQUENTE](https://open.spotify.com/album/2wcLZ4N9hLO19PXpmZFWNh) | 4:36 | 2022-04-28 | 2024-06-28 |
@@ -70,6 +72,7 @@
 | [Chic](https://open.spotify.com/track/7jUJ2RmT4PFHHq4goMWqm3) | [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F) | [Fenice](https://open.spotify.com/album/4Ff34a4maeLObapIe4K89I) | 3:32 | 2022-04-28 |  |
 | [Chilometri](https://open.spotify.com/track/2fMzIzFExDeabwWsWWNpkY) | [Quentin40](https://open.spotify.com/artist/63iLDTZb43E6k8Ign6voma) | [Chilometri](https://open.spotify.com/album/6DO6FMW1osAxPc6dmSIeWb) | 2:42 | 2024-01-16 | 2024-02-27 |
 | [Ciao Baby](https://open.spotify.com/track/0tE8LYz08MdcV8UZUa1YVV) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [Eclissi](https://open.spotify.com/album/0VliboIrLzdC2Qgjdm5V4S) | 3:06 | 2025-12-06 |  |
+| [Cicatrici](https://open.spotify.com/track/6g4oagMXIa5zeioa0dIDRc) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [TRAUMA](https://open.spotify.com/album/09xCJhx72yNShO44mjQgF9) | 3:08 | 2026-01-01 |  |
 | [Cicatrici \(feat\. Tedua\)](https://open.spotify.com/track/4tnNQ9nSgMCj0xjE2Q4spX) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [Milano Demons](https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m) | 3:12 | 2022-11-24 |  |
 | [Come Finirà?](https://open.spotify.com/track/5sSwJbF5jJHGMiSOOfNl8V) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC) | [Mentre Los Angeles Brucia](https://open.spotify.com/album/2O1iWxwf8rcqR6SYksKSb1) | 3:50 | 2025-06-19 | 2025-09-05 |
 | [Come Mai \(feat\. Emis Killa\)](https://open.spotify.com/track/0ImvhtUWThEVg2d7KQPT1N) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [INNOCENTE](https://open.spotify.com/album/7CIpLH395MhKKJ7WyUzm58) | 3:23 | 2023-05-25 | 2023-09-08 |

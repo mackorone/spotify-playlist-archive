@@ -2,7 +2,7 @@
 
 ### [nuovo pop 🇮🇹](https://open.spotify.com/playlist/37i9dQZF1DX2c7QgpQBJFr)
 
-> La nuova scena pop italiana 🇮🇹  cover: Angelica Bove
+> La nuova scena pop italiana 🇮🇹  cover: Mr.Rain
 
 1,026 songs - 2 day 0 hr 35 min
 
@@ -39,7 +39,7 @@
 | [acqua santa](https://open.spotify.com/track/0Adf7j9EB2GOmjfPW71fPk) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [acqua santa](https://open.spotify.com/album/4saZ2bZ4QrNo3KRhVk0Alj) | 2:36 | 2025-09-11 | 2025-10-17 |
 | [Acquaverde](https://open.spotify.com/track/2IuIMjK1XDpI5h9LzyVf8X) | [frambo](https://open.spotify.com/artist/2uJQNjoh5SPxQUGwA2WA27) | [Acquaverde](https://open.spotify.com/album/5dwhzj6JmadKUoVAYQmmog) | 3:02 | 2025-01-09 | 2025-02-14 |
 | [ADHD \(nuovo disturbo di attenzione\)](https://open.spotify.com/track/72kYfRAJAN1SXGWpvlv8tM) | [K beezy 28](https://open.spotify.com/artist/5SbWJnRRbZQU024VlOPWly) | [ADHD \(nuovo disturbo di attenzione\)](https://open.spotify.com/album/41Ynw6WC7QvYgBjoZ2uWaZ) | 2:48 | 2024-07-18 | 2024-08-23 |
-| [ADICTIVO](https://open.spotify.com/track/66qhxaaQmSyQwOnZE8XSw0) | [Ethan](https://open.spotify.com/artist/02znchIxfjnmxgcyAEr0Y2), [D4seven](https://open.spotify.com/artist/4KjyPy46df9KBquTqwplaF) | [ADICTIVO](https://open.spotify.com/album/0VVi2wRMpL0w2XbBWI5Hq8) | 2:58 | 2025-12-11 |  |
+| [ADICTIVO](https://open.spotify.com/track/66qhxaaQmSyQwOnZE8XSw0) | [Ethan](https://open.spotify.com/artist/02znchIxfjnmxgcyAEr0Y2), [D4Seven](https://open.spotify.com/artist/13ELZLxemiq2XzT6v8VXTJ) | [ADICTIVO](https://open.spotify.com/album/0VVi2wRMpL0w2XbBWI5Hq8) | 2:58 | 2025-12-11 |  |
 | [AH \) AH \)](https://open.spotify.com/track/7D9m1E6i0uidnxxBRZtcKg) | [Memento](https://open.spotify.com/artist/0aLqxZ1Hht4j1C66IZ57oR) | [AH \) AH \)](https://open.spotify.com/album/50uqyqDEauW3Efn9tNU2bt) | 2:44 | 2024-09-05 | 2024-12-13 |
 | [aiaiai](https://open.spotify.com/track/6MkVCaKKi7DWDUTQovpw6a) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [caramé](https://open.spotify.com/album/2quUnR742DXfpRAEUiq6le) | 3:29 | 2025-10-16 | 2025-12-19 |
 | [Aiuto](https://open.spotify.com/track/0Mu6W8dVtwdXdQf1UIbBGh) | [PLASTICA](https://open.spotify.com/artist/2fB3iExnBIP2AA713JAqIM), [Assurditè](https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC) | [Aiuto](https://open.spotify.com/album/0KB9RktfD3H7la1lnVEhCT) | 4:07 | 2025-05-01 | 2025-09-12 |

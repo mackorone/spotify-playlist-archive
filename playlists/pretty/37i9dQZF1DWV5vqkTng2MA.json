@@ -1,6 +1,6 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Kokoroko",
-  "num_followers": 425646,
+  "num_followers": 425652,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
@@ -379,26 +379,6 @@
     {
       "added_at": "2025-12-08 17:30:48",
       "album": {
-        "name": "Burn It Down",
-        "url": "https://open.spotify.com/album/0zklM830YV4KCwY2Oc3RxN"
-      },
-      "artists": [
-        {
-          "name": "Jason Eady",
-          "url": "https://open.spotify.com/artist/78xCXcmrzDgoRkinWE0uUV"
-        },
-        {
-          "name": "Taylor Hunnicutt",
-          "url": "https://open.spotify.com/artist/6lcCm7ycq5rTBls6WNxDZp"
-        }
-      ],
-      "duration_ms": 146520,
-      "name": "Burn It Down",
-      "url": "https://open.spotify.com/track/3We5tUcKQ3CW6r8K9kvwxG"
-    },
-    {
-      "added_at": "2025-12-08 17:30:48",
-      "album": {
         "name": "Moonlit Breakers (feat. Dijon)",
         "url": "https://open.spotify.com/album/2wnS7uImW9YKItsZ0cyTxD"
       },
@@ -431,6 +411,26 @@
       "duration_ms": 172480,
       "name": "(I\u2019m Gonna Get Over This) Some Day",
       "url": "https://open.spotify.com/track/2cLGgmjT7pQ4MhcwpdqA4E"
+    },
+    {
+      "added_at": "2025-12-08 17:30:48",
+      "album": {
+        "name": "Burn It Down",
+        "url": "https://open.spotify.com/album/0zklM830YV4KCwY2Oc3RxN"
+      },
+      "artists": [
+        {
+          "name": "Jason Eady",
+          "url": "https://open.spotify.com/artist/78xCXcmrzDgoRkinWE0uUV"
+        },
+        {
+          "name": "Taylor Hunnicutt",
+          "url": "https://open.spotify.com/artist/6lcCm7ycq5rTBls6WNxDZp"
+        }
+      ],
+      "duration_ms": 146520,
+      "name": "Burn It Down",
+      "url": "https://open.spotify.com/track/3We5tUcKQ3CW6r8K9kvwxG"
     },
     {
       "added_at": "2025-12-08 17:30:48",
@@ -879,22 +879,6 @@
     {
       "added_at": "2025-12-08 17:30:48",
       "album": {
-        "name": "My Dearest Darkest Neighbor",
-        "url": "https://open.spotify.com/album/6TqZFQjNfsOFRJoic0KrI9"
-      },
-      "artists": [
-        {
-          "name": "Hurray For The Riff Raff",
-          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
-        }
-      ],
-      "duration_ms": 217466,
-      "name": "Fine and Mellow",
-      "url": "https://open.spotify.com/track/0aJhLmZV80gfqL8x9yDIpn"
-    },
-    {
-      "added_at": "2025-12-08 17:30:48",
-      "album": {
         "name": "We Can Always Come Back To This (Music From The Series This Is Us)",
         "url": "https://open.spotify.com/album/3toZNs0m6NgYQS6fN80ACN"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 254329,
       "name": "We Can Always Come Back To This",
       "url": "https://open.spotify.com/track/20rztDEfgrFOuHDhAeVDt3"
+    },
+    {
+      "added_at": "2025-12-08 17:30:48",
+      "album": {
+        "name": "My Dearest Darkest Neighbor",
+        "url": "https://open.spotify.com/album/6TqZFQjNfsOFRJoic0KrI9"
+      },
+      "artists": [
+        {
+          "name": "Hurray For The Riff Raff",
+          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
+        }
+      ],
+      "duration_ms": 217466,
+      "name": "Fine and Mellow",
+      "url": "https://open.spotify.com/track/0aJhLmZV80gfqL8x9yDIpn"
     },
     {
       "added_at": "2025-12-08 17:30:48",
@@ -975,22 +975,6 @@
     {
       "added_at": "2025-12-08 17:30:48",
       "album": {
-        "name": "Test Your Love",
-        "url": "https://open.spotify.com/album/7I6nkUiXTp1kfBbxUk8VWH"
-      },
-      "artists": [
-        {
-          "name": "Buffalo Clover",
-          "url": "https://open.spotify.com/artist/2JTQSdVTZDWslqkHPZM2LA"
-        }
-      ],
-      "duration_ms": 190600,
-      "name": "The Ruse",
-      "url": "https://open.spotify.com/track/08flJ3BaFDVdtnoTFB17Xt"
-    },
-    {
-      "added_at": "2025-12-08 17:30:48",
-      "album": {
         "name": "What You Don't Do",
         "url": "https://open.spotify.com/album/54lLC6rMU62oNOYyyzUEVF"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 220586,
       "name": "What You Don't Do",
       "url": "https://open.spotify.com/track/2txZKGnh75sFb3FFnuwjgF"
+    },
+    {
+      "added_at": "2025-12-08 17:30:48",
+      "album": {
+        "name": "Test Your Love",
+        "url": "https://open.spotify.com/album/7I6nkUiXTp1kfBbxUk8VWH"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Clover",
+          "url": "https://open.spotify.com/artist/2JTQSdVTZDWslqkHPZM2LA"
+        }
+      ],
+      "duration_ms": 190600,
+      "name": "The Ruse",
+      "url": "https://open.spotify.com/track/08flJ3BaFDVdtnoTFB17Xt"
     },
     {
       "added_at": "2025-12-08 17:30:48",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2025-12-08 17:30:48",
       "album": {
-        "name": "Oporto-Madrid Blvd",
-        "url": "https://open.spotify.com/album/4Xog8FeqslBd7mJ6JfuMYo"
-      },
-      "artists": [
-        {
-          "name": "St. Paul & The Broken Bones",
-          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
-        }
-      ],
-      "duration_ms": 209198,
-      "name": "Oporto-Madrid Blvd",
-      "url": "https://open.spotify.com/track/5SGjRS86P4Y00gojS1fyD2"
-    },
-    {
-      "added_at": "2025-12-08 17:30:48",
-      "album": {
         "name": "Stay Right Here",
         "url": "https://open.spotify.com/album/5fSnsS6vf9eovM8R3nvKNn"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 249560,
       "name": "Stay Right Here",
       "url": "https://open.spotify.com/track/0jQTagUb62PG7IcaFdR4s7"
+    },
+    {
+      "added_at": "2025-12-08 17:30:48",
+      "album": {
+        "name": "Oporto-Madrid Blvd",
+        "url": "https://open.spotify.com/album/4Xog8FeqslBd7mJ6JfuMYo"
+      },
+      "artists": [
+        {
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+        }
+      ],
+      "duration_ms": 209198,
+      "name": "Oporto-Madrid Blvd",
+      "url": "https://open.spotify.com/track/5SGjRS86P4Y00gojS1fyD2"
     },
     {
       "added_at": "2025-12-08 17:30:48",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2025-12-08 17:30:48",
       "album": {
-        "name": "Candid",
-        "url": "https://open.spotify.com/album/2GO7e9574zybPdj3bU3Kav"
-      },
-      "artists": [
-        {
-          "name": "MICKY",
-          "url": "https://open.spotify.com/artist/52vHOZO0ka2MTl3zmpB6HH"
-        }
-      ],
-      "duration_ms": 209248,
-      "name": "Candid",
-      "url": "https://open.spotify.com/track/6cB1RVjwsO9v5quck4NZR3"
-    },
-    {
-      "added_at": "2025-12-08 17:30:48",
-      "album": {
         "name": "Rolling Over Me",
         "url": "https://open.spotify.com/album/63oxuPBkp987wX1y353urb"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 289080,
       "name": "Rolling Over Me",
       "url": "https://open.spotify.com/track/4EEsdIs0QGcO5Dc8QQH3Mm"
+    },
+    {
+      "added_at": "2025-12-08 17:30:48",
+      "album": {
+        "name": "Candid",
+        "url": "https://open.spotify.com/album/2GO7e9574zybPdj3bU3Kav"
+      },
+      "artists": [
+        {
+          "name": "MICKY",
+          "url": "https://open.spotify.com/artist/52vHOZO0ka2MTl3zmpB6HH"
+        }
+      ],
+      "duration_ms": 209248,
+      "name": "Candid",
+      "url": "https://open.spotify.com/track/6cB1RVjwsO9v5quck4NZR3"
     }
   ],
   "unique_name": "the new retro",

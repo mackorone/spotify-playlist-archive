@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 31 Dec 19:05 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 02 Jan 04:04 UTC.
 
-5,970 songs - 13 day 19 hr 54 min
+5,971 songs - 13 day 19 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2168,6 +2168,7 @@
 | [GUMSHOE](https://open.spotify.com/track/0uATv7UfsWv4WuDbcq8MQ2) | [Jimmy Poindexter](https://open.spotify.com/artist/5vMbZePneBfRUDZhrIRFZ5) | [GUMSHOE](https://open.spotify.com/album/1Qy0NFoVd7ia9Ir8Fya8Cx) | 4:38 | 2024-07-23 | 2024-07-27 |
 | [Gunsmif](https://open.spotify.com/track/5fe0xUQfEAYE45XwN0h2wC) | [LAZER DIM 700](https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U) | [Gunsmif](https://open.spotify.com/album/3I1tjuKTVsY4Wt2d0rVM1U) | 1:51 | 2024-05-13 | 2024-05-15 |
 | [Gunsmoke](https://open.spotify.com/track/5CuuPaGZr9HZovEPMfcxLo) | [Texas Hippie Coalition](https://open.spotify.com/artist/6LG6fIvh2XpjqHUuR7NRtt) | [Gunsmoke](https://open.spotify.com/album/4quikXtBfLiF5mgvOOnUQa) | 3:40 | 2024-08-13 | 2024-08-17 |
+| [Gut Punch](https://open.spotify.com/track/0kG4t24uQCfcC1aZL3LyFu) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [Gut Punch](https://open.spotify.com/album/7EPAooBQphOBWLEnYrljAn) | 3:08 | 2026-01-02 |  |
 | [Guy For That \(Feat\. Luke Combs\)](https://open.spotify.com/track/5crxqqibcvoOQQgg4HjAFQ) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Guy For That](https://open.spotify.com/album/6w0ujcFPqoqOzgzYsUWYXJ) | 2:44 | 2024-07-26 | 2024-08-01 |
 | [Gvasalia](https://open.spotify.com/track/1ahqJKpmzSAOYzvdpaQSVR) | [roro](https://open.spotify.com/artist/0Y9jBmQGmBdDhlu3bSxECs) | [Gvasalia](https://open.spotify.com/album/4Zb4K0GsexEYdGUcJ5LZqM) | 2:29 | 2025-06-29 | 2025-07-05 |
 | [H V D O L](https://open.spotify.com/track/2ZMH3fAwB2VlcmPOrFMnX6) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [H V D O L](https://open.spotify.com/album/4BkWRBQ1YISV5dYFaUD3bz) | 3:39 | 2024-09-12 | 2024-09-14 |
@@ -5977,6 +5978,6 @@
 | [蜃気楼 \(MIRAGE\)](https://open.spotify.com/track/6twZMtzokxAdrLpZjD7s1l) | [NINE.i](https://open.spotify.com/artist/4e8UtPYfVPBzWO4PY8CZye) | [蜃気楼 \(MIRAGE\)](https://open.spotify.com/album/4ywV2AHGmwMc88uMusn5pK) | 3:03 | 2024-12-04 | 2024-12-07 |
 | [許婚っきゅん](https://open.spotify.com/track/6YLjq21cq39MrEGtGGQ7DU) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [許婚っきゅん](https://open.spotify.com/album/0CGQLcexvxE3lWTG4q0VOO) | 3:00 | 2024-10-09 | 2024-10-12 |
 | [青嵐 \(Aoarashi\)](https://open.spotify.com/track/0AOSmgHSkg9jH73jGy2QNG) | [&TEAM](https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7) | [青嵐 \(Aoarashi\)](https://open.spotify.com/album/4CKknn9azZeOb6sO1PmPJS) | 2:55 | 2024-08-07 | 2024-08-09 |
-| [黝堊の祈り \- Anima immortalis est.](https://open.spotify.com/track/2J21nXxsyATLoFcEF6AvwT) | [Imperial Circus Dead Decadence](https://open.spotify.com/artist/5bgW1AysTzHav20snaPkyp) | [黝堊の祈り \- Anima immortalis est.](https://open.spotify.com/album/3wxkAwHlNN6Zrs3acdstMY) | 7:52 | 2025-12-08 |  |
+| [黝堊の祈り \- Anima immortalis est.](https://open.spotify.com/track/2J21nXxsyATLoFcEF6AvwT) | [Imperial Circus Dead Decadence](https://open.spotify.com/artist/5bgW1AysTzHav20snaPkyp) | [黝堊の祈り \- Anima immortalis est.](https://open.spotify.com/album/3wxkAwHlNN6Zrs3acdstMY) | 7:52 | 2025-12-08 | 2026-01-02 |
 
 \*This playlist was first scraped on 2024-04-26. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > Les sons les plus frais du Rap Tunisien sont ici\. Cover : Samara
 
-162 songs - 9 hr 25 min
+163 songs - 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Intro](https://open.spotify.com/track/79xFdDwGNST7LMrglZN00P) | [Klay BBJ](https://open.spotify.com/artist/2FL58smO7JsL10CYirRdkO) | [Intro](https://open.spotify.com/album/6h6C2aiiOSPY9eEz2R0G95) | 6:06 | 2025-10-21 |  |
 | [Intro](https://open.spotify.com/track/1TTg8aTqkCxmBuLZrLpRYX) | [RedStar](https://open.spotify.com/artist/5KrsMlfx8tbhq2GjZo0KP5) | [صنع بسحر](https://open.spotify.com/album/1nVZ0Q37nv6whKbONk0Gxu) | 2:43 | 2024-02-24 | 2024-08-06 |
 | [Jondi](https://open.spotify.com/track/58ER2JFYt0yMlUi70Pj1VQ) | [NASTYSH!!T](https://open.spotify.com/artist/6qiiqFqUgHwAhMNDVR0PXz), [Redstar Radi](https://open.spotify.com/artist/3IMbYEUHFZ6Nkocs2GqMxp), [Dabl De](https://open.spotify.com/artist/5aCqsScJyvSLpNLCl9ZikA), [It's ERROR](https://open.spotify.com/artist/3cQGlr2EF36wyYPWhDwoph) | [Jondi](https://open.spotify.com/album/1Iqh1Z5hlaJ076AXl6IbEY) | 4:40 | 2025-05-16 |  |
-| [J’aime Bien Ma Liberté](https://open.spotify.com/track/0Urri1pxmjOfDEmAbG1EvK) | [Tati G13](https://open.spotify.com/artist/0U33TLQaAlL1uLccEYAXnI), [Junior Hassen](https://open.spotify.com/artist/1ZgY6ufOpB64Tn2Ha1Vrjv) | [J’aime Bien Ma Liberté](https://open.spotify.com/album/55Y38yJApOU1YiMJsif3xc) | 4:27 | 2025-02-07 |  |
+| [J’aime Bien Ma Liberté](https://open.spotify.com/track/0Urri1pxmjOfDEmAbG1EvK) | [Tati G13](https://open.spotify.com/artist/0U33TLQaAlL1uLccEYAXnI), [Junior Hassen](https://open.spotify.com/artist/1ZgY6ufOpB64Tn2Ha1Vrjv) | [J’aime Bien Ma Liberté](https://open.spotify.com/album/55Y38yJApOU1YiMJsif3xc) | 4:27 | 2025-02-07 | 2026-01-02 |
 | [J’aime Bien Ma Liberté](https://open.spotify.com/track/2hQGmQvOWGDqHTcME23NA4) | [Tati G13](https://open.spotify.com/artist/0U33TLQaAlL1uLccEYAXnI), [Junior Hassen](https://open.spotify.com/artist/1ZgY6ufOpB64Tn2Ha1Vrjv) | [J’aime Bien Ma Liberté](https://open.spotify.com/album/1NsjTbPbmlouUfmlGTKLCr) | 4:27 | 2025-12-18 |  |
 | [Khousara](https://open.spotify.com/track/1a3fUDZpgUYRatLdKAnCh0) | [Mouka](https://open.spotify.com/artist/06z6NBx0H2PDzZqw8mPTDz) | [Khousara](https://open.spotify.com/album/3e9XSqi3iGtvBPCxEQPm0N) | 2:58 | 2024-02-24 | 2024-12-13 |
 | [Ki Nrak](https://open.spotify.com/track/7lipPtLr62A4hzJXTL8JjJ) | [Si Lemhaf](https://open.spotify.com/artist/3wOVvUvge4HJNiAgSMPNox), [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Ki Nrak](https://open.spotify.com/album/1EB9roqeZTF7G9HzX7cqFM) | 2:48 | 2025-07-04 |  |
@@ -94,6 +94,7 @@
 | [Lila](https://open.spotify.com/track/2P0ulgDqG2zEuGKxkxFf5A) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Lila](https://open.spotify.com/album/0hEFFPkulNDw55tWoUZX9h) | 3:05 | 2025-02-17 | 2025-07-11 |
 | [Lili Lili](https://open.spotify.com/track/4xRhPpHrwhWQOqZUvjd6FK) | [El Katiba](https://open.spotify.com/artist/4xQcydpbkTIjbLvmEPQOnK), [Khorma](https://open.spotify.com/artist/062SHbS2rC3QOGiJ2mDjSS) | [Lili Lili](https://open.spotify.com/album/2Dr6S9lrbuD4WJIQSot7Ya) | 3:29 | 2024-10-31 |  |
 | [LOUMNI](https://open.spotify.com/track/0ENM5reWF2EpNb3msvqCQ0) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Mode Avion](https://open.spotify.com/album/2Zcbkc45OI5UrS6d8W7N31) | 2:50 | 2025-02-27 |  |
+| [Ma7abounech](https://open.spotify.com/track/2MmpGn3sHmxSRG8GIyLkMe) | [Joujma](https://open.spotify.com/artist/6J3OrlKMbWMx60M7QuDJsf) | [Ma7abounech](https://open.spotify.com/album/53uh6KHa3EmTcykX6s8m0s) | 3:22 | 2026-01-01 |  |
 | [Machefounich \| ماشافونيش](https://open.spotify.com/track/2lXA71K1NU6XMFaMUNOSFm) | [Yousfi](https://open.spotify.com/artist/3Sbb6TiJ8LLT877N4BlAJj) | [Machefounich \| ماشافونيش](https://open.spotify.com/album/2SkGb7EeKzUq2PUQYZzQZK) | 2:59 | 2025-02-01 |  |
 | [Mafiosa](https://open.spotify.com/track/4QZeQw28rvYnILQ9VXT1Te) | [Young Rz](https://open.spotify.com/artist/0ffHBfcZybwhCvRnriDBVW) | [Rapina](https://open.spotify.com/album/4Yqia46OeHW5T6iQicQCCU) | 3:28 | 2025-12-18 |  |
 | [Makadni](https://open.spotify.com/track/0VgApj9niC8khmBjrIXqw6) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Makadni](https://open.spotify.com/album/6HfILZuDz8hInYDMOicx0i) | 3:53 | 2025-10-29 |  |

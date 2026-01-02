@@ -4,7 +4,7 @@
 
 > Behagelig musik.
 
-457 songs - 1 day 2 hr 8 min
+458 songs - 1 day 2 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Birthday](https://open.spotify.com/track/5QvL5shIrzH2A2zG0DZwh3) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Birthday](https://open.spotify.com/album/7evERN7P6VC1uVqtpFccL4) | 3:14 | 2020-10-20 | 2022-07-29 |
 | [Bittersweet](https://open.spotify.com/track/0cTp3CDDzHYXR96u1qrPOI) | [George Glew](https://open.spotify.com/artist/3841DHBEOAE2ksodVZkV7U) | [Bittersweet](https://open.spotify.com/album/3j0GAA6Vw4VrnIgi3lhrhL) | 3:30 | 2021-04-11 | 2022-07-09 |
 | [Black & Blue](https://open.spotify.com/track/1Y59TyltHoDl4YK2R3nCRm) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Black & Blue](https://open.spotify.com/album/6UEjnGUIcJjL2uBZJGD3tt) | 3:11 | 2020-10-06\* | 2021-12-26 |
-| [Black Beatles \- Acoustic](https://open.spotify.com/track/7tOwlsbz3lmbEjxmury4qZ) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Black Beatles \(Acoustic\)](https://open.spotify.com/album/3zQYmL17iTyCk3CUOTwPDf) | 3:31 | 2020-10-06\* |  |
+| [Black Beatles \- Acoustic](https://open.spotify.com/track/7tOwlsbz3lmbEjxmury4qZ) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Black Beatles \(Acoustic\)](https://open.spotify.com/album/3zQYmL17iTyCk3CUOTwPDf) | 3:31 | 2020-10-06\* | 2026-01-02 |
 | [Blame](https://open.spotify.com/track/5JIcMwcnI4KQ3LYebICHbK) | [Matt Wills](https://open.spotify.com/artist/5tECdXibmWAxONygvS9ktT) | [Blame](https://open.spotify.com/album/6hlJSytMwlfpP4nWZrFwOX) | 2:56 | 2020-10-20 | 2025-04-06 |
 | [Blind You](https://open.spotify.com/track/1dOoli2ESWoNr6N28hxt4U) | [Didirri](https://open.spotify.com/artist/01lbqGTSuT9Jr3gMwiF3Xw) | [Blind You](https://open.spotify.com/album/5O1yayKlHTvFlikkbGz7xt) | 2:54 | 2021-05-22 | 2025-09-02 |
 | [BLISS](https://open.spotify.com/track/4dnjLEblR5XKUMJ5ELQceh) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [BLISS](https://open.spotify.com/album/1JlS4zbYH4rRrUuwC80Cqa) | 2:40 | 2025-05-23 |  |
@@ -57,6 +57,7 @@
 | [Bury My Heart \- EP Version](https://open.spotify.com/track/2jevVRbrI8eo7VI0m4pWnL) | [Allman Brown](https://open.spotify.com/artist/239Y6QdFqVFfdsw6moqSEN) | [Bury My Heart](https://open.spotify.com/album/0rmUvOyi4pi64KENdV9ETX) | 3:37 | 2021-05-22 | 2021-10-12 |
 | [Cali](https://open.spotify.com/track/6LUdon4Z5YxNQDab66qepz) | [Matthew And The Atlas](https://open.spotify.com/artist/0lSENl3bteP8p2NbiSP7RM) | [Cali](https://open.spotify.com/album/3PisCW9fbXoASB0f2uAaYm) | 3:56 | 2021-05-24 | 2025-04-26 |
 | [California Dreamin'](https://open.spotify.com/track/7yD18NJa58SJnzjMTlPRU0) | [Lord Siva](https://open.spotify.com/artist/5SwsSD9zyWaWeVyK9qIW9l) | [California Dreamin'](https://open.spotify.com/album/0MlN0yBNuDQ2pRDsUKfWMI) | 3:37 | 2025-04-25 |  |
+| [Call Me Up](https://open.spotify.com/track/2iq4RTCriD9tIkVF0yYAjk) | [Mekdes](https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx) | [Call Me Up](https://open.spotify.com/album/4SWZebwQDZLG0hlP5IhSI1) | 2:39 | 2025-11-20 |  |
 | [Call Your Girlfriend](https://open.spotify.com/track/5hs8G87IGQq0Sz37oY9efX) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Call Your Girlfriend](https://open.spotify.com/album/1ecFIwEV47tnDAQLAyH8vu) | 3:14 | 2020-10-06\* | 2025-11-21 |
 | [Candle](https://open.spotify.com/track/1UObdUtqaviqpHbYIg05ZU) | [All Our Exes Live in Texas](https://open.spotify.com/artist/5Ul7YrRYtvl8da6i7Ziakt) | [When We Fall](https://open.spotify.com/album/6EXPtn1Gg7wU13HAilnHcF) | 3:14 | 2021-05-23 | 2021-05-27 |
 | [Cannonball](https://open.spotify.com/track/0knqVSsgD7C8yu5yNmQFbA) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/3ADELRoZ4I8WLE7clLU7La) | 5:10 | 2021-05-22 |  |

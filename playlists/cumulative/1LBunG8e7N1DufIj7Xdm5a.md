@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-3,789 songs - 8 day 9 hr 10 min
+3,793 songs - 8 day 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2262,6 +2262,7 @@
 | [New Magic \(another\)](https://open.spotify.com/track/1dKevIj82AI90Z8AC7HxqO) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Pop Pop Pop](https://open.spotify.com/album/2rx8w77qCVPDZ8SP1G6qhm) | 3:06 | 2025-05-27 |  |
 | [nEW SwG](https://open.spotify.com/track/5vFxMdARwnAlKWRtvTVXDx) | [1800Manny](https://open.spotify.com/artist/1M6xvhythMnsCFsqKR1EBs), [Ybl Eric](https://open.spotify.com/artist/2Dj9aR9rOPfIsPIXDVEPq7), [Aloytherealmetal](https://open.spotify.com/artist/6dGVb3ZpcAV1B0J8EEuZdD) | [nEW SwG](https://open.spotify.com/album/0cQ030vTjlyF62ZiShv20I) | 1:57 | 2025-06-23 |  |
 | [NEW TO ME](https://open.spotify.com/track/2cBXDeiRLJfXDGrIbfxwot) | [Slew](https://open.spotify.com/artist/0kkFzERMQHK5WcWnACLby3) | [NEW TO ME](https://open.spotify.com/album/2m7Yc5P2Hx6ocHVvb1I14u) | 2:02 | 2025-07-28 |  |
+| [New Years Day](https://open.spotify.com/track/6LRk8rbowFUfzGbpoUbVjZ) | [Bengt Isaksson](https://open.spotify.com/artist/2jounGBjlkg6p4nPuTFUcK) | [New Years Day](https://open.spotify.com/album/52tGzCYmgHudGWF3MxCNxX) | 2:47 | 2026-01-01 |  |
 | [New York City \- Demo](https://open.spotify.com/track/35X1N5oceAUctSHGrsDhsK) | [Bryte London](https://open.spotify.com/artist/65cvaHkkZKLwKf59Iek0Z2) | [NewYork City \(Demo Versions\)](https://open.spotify.com/album/4J8iK3yGlA2B1YuhztBHjO) | 5:40 | 2025-06-05 |  |
 | [Next 2 U](https://open.spotify.com/track/1EfnmdAQzEKy5L6fRqZFyw) | [Dolour](https://open.spotify.com/artist/5aNyiLkMbHKufrAvfDNy0O), [Shane Tutmarc](https://open.spotify.com/artist/5HqeKeRTxCHQtcQeUUBBac) | [New Old Friends xx](https://open.spotify.com/album/56h5V73ud9WeiTURv7u5sv) | 3:51 | 2025-07-01 |  |
 | [Ni Hulk](https://open.spotify.com/track/5OEQw08cRvFbewVLTzIK07) | [Carlos Pan](https://open.spotify.com/artist/3sRyzc6KpBM9587TwXAZfI), [amtic](https://open.spotify.com/artist/74wf3lbTAH5VP0aoBSqzMZ) | [Ni Hulk](https://open.spotify.com/album/461cHvRaQrIgmdkwdvvRHc) | 3:02 | 2025-06-25 |  |
@@ -2640,7 +2641,7 @@
 | [Relationship](https://open.spotify.com/track/4Z46jUuLEPTi53ubwSb9PQ) | [Joey Glam](https://open.spotify.com/artist/272ANGjK3r7UvU1pk0Xm5P), [Oliver Yung Dee](https://open.spotify.com/artist/2ujBMoAh8CrTYWPew7z3mT) | [Relationship](https://open.spotify.com/album/4dL28Z3hfQaIWobz0iKmHJ) | 3:08 | 2025-06-04 |  |
 | [Relax](https://open.spotify.com/track/0XLDuwC2BUMr54SU1LCYX8) | [Loris](https://open.spotify.com/artist/0NNVqu4vFNvDhWFfaHmXGB) | [Relax](https://open.spotify.com/album/2wq8ECH2d938pINlrNdwzd) | 2:19 | 2025-05-27 |  |
 | [Remember My Name](https://open.spotify.com/track/74U3RSDvW0WmyUufIHGgjn) | [Sons of Legion](https://open.spotify.com/artist/4WBCjNjq0MGPsvcXyOPWKW) | [Remember My Name](https://open.spotify.com/album/0h23dGYOWAvQW3rNXX9lCd) | 3:46 | 2025-02-02 |  |
-| [remember that time \- demo](https://open.spotify.com/track/2WmZ2yOTzQZSFKePzKalDW) | [cadenn](https://open.spotify.com/artist/5R8wFLLq8qW1vOVntakADR) | [remember that time \(demo\)](https://open.spotify.com/album/70O6lr0dswyDaSUc8By1KC) | 5:20 | 2025-12-26 |  |
+| [remember that time \- demo](https://open.spotify.com/track/2WmZ2yOTzQZSFKePzKalDW) | [cadenn](https://open.spotify.com/artist/5R8wFLLq8qW1vOVntakADR) | [remember that time \(demo\)](https://open.spotify.com/album/70O6lr0dswyDaSUc8By1KC) | 2:44 | 2025-12-26 |  |
 | [Renegade](https://open.spotify.com/track/7nJ98wvbYzBi2oDerHkk6q) | [Antimony](https://open.spotify.com/artist/6j3Y1pCQUEoIJaVaUVXBk2), [Dwain Willis](https://open.spotify.com/artist/79ZYKvbgWvEwQye9io7K0X) | [Renegade](https://open.spotify.com/album/3VMMzRSKt2V02sa2vlSXVa) | 2:28 | 2025-05-10 |  |
 | [Renfield's Afoot](https://open.spotify.com/track/5U28vvBjNFQm0QESzDC2qw) | [Half Man Half Biscuit](https://open.spotify.com/artist/6hBQq083tyW3yrF1gdVt4Q) | [No One Cares About Your Creative Hub so Get Your Fuckin' Hedge Cut](https://open.spotify.com/album/12aUWcdImt2uVMSGYHRmYl) | 1:18 | 2025-11-05 |  |
 | [Respawn Generation](https://open.spotify.com/track/5ojHvogANoNbE276B7h349) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Videogame inspired alternative rock](https://open.spotify.com/album/5zRoS1FLwDk1J1PcPd4oyT) | 3:29 | 2025-09-12 |  |
@@ -2981,6 +2982,7 @@
 | [somehow you know](https://open.spotify.com/track/3MyMQQY8A2DFw9BU9n82bh) | [Bishesh Silwal](https://open.spotify.com/artist/0gh2ztSK87CtLjYwEDSITZ) | [somehow you know](https://open.spotify.com/album/1pQrtc21pBDPyYy0XZSIrV) | 2:48 | 2025-10-12 |  |
 | [Something](https://open.spotify.com/track/3OD7xq8S6eqfBALoJvN5hV) | [Echomatica](https://open.spotify.com/artist/75uNvdIOOLgUT6Gs2hkRVQ) | [Something](https://open.spotify.com/album/5QpuH1peDU5W5Wc3gfdMJY) | 3:36 | 2025-09-15 |  |
 | [Somewhere I Used to Know \- Initial Version](https://open.spotify.com/track/7f6rfp7aXoVAkw4TybTL7j) | [oitavosounds](https://open.spotify.com/artist/6KuxuULcCuhHl7wn5LYbM8) | [Somewhere I Used to Know \(Initial Version\)](https://open.spotify.com/album/3CPKtNKfxolxLfij1rfoas) | 4:04 | 2025-06-01 |  |
+| [Somewhere Unknown](https://open.spotify.com/track/5vaJe0O125oOMZnjDrv7ca) | [Valley Souls](https://open.spotify.com/artist/26ph4Q3k8XDUvaUf2uAmo3) | [Somewhere Unknown](https://open.spotify.com/album/7nGLkpkRmwx9g39hngKcR9) | 3:01 | 2026-01-01 |  |
 | [Song For Cory](https://open.spotify.com/track/79AzgeqBWkSH4agap7ymJc) | [Railway Athletic](https://open.spotify.com/artist/4i5DLwG9DeSmYHTgh8rxD9) | [Alco\-Rhythm](https://open.spotify.com/album/4GO11BTRtDwQANUqmiGqwI) | 3:05 | 2025-11-05 |  |
 | [Song For Everyone](https://open.spotify.com/track/3ZvxODeu0qzkfDK1Pm4KP7) | [Loris](https://open.spotify.com/artist/0NNVqu4vFNvDhWFfaHmXGB) | [Song For Everyone](https://open.spotify.com/album/5BNgXfgfTnhB9ckG7U4Bhk) | 2:12 | 2025-06-01 |  |
 | [song for when the bar closes](https://open.spotify.com/track/2NXtYnEeJbRQ3pqngPCHYO) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [song for when the bar closes](https://open.spotify.com/album/7G09YgyPIN394QdH5Z3LuZ) | 1:44 | 2025-07-28 |  |
@@ -3298,6 +3300,7 @@
 | [This Is Me Now](https://open.spotify.com/track/7h1uI67A9TiWPkN3q92eG3) | [Tess Mac Keen](https://open.spotify.com/artist/77mpUoVwkQ9qs9b4AQiDin) | [This Is Me Now](https://open.spotify.com/album/00uewIQMregDQdUNm9cvhr) | 3:35 | 2025-05-28 |  |
 | [This Is Our Time to Shine](https://open.spotify.com/track/2F080r5E911UkcpBHYODgW) | [Katzen Dj](https://open.spotify.com/artist/16xe0CbKc4sQj6FMAUEWe0) | [This Is Our Time to Shine](https://open.spotify.com/album/1oViNwiuBetbjI9JwdtCVx) | 3:40 | 2025-07-30 |  |
 | [This Old Song](https://open.spotify.com/track/3m6SoAEQxV0ymSSW60H90o) | [The Seadix](https://open.spotify.com/artist/5q5xX0d07ULjV8NKTGXLrB) | [The Seadix](https://open.spotify.com/album/57KXLCCEgLNCP9yCd54ZEq) | 4:04 | 2025-03-19 |  |
+| [This One's For the Animals](https://open.spotify.com/track/5M0pIJ0jOl11mTFKVhogtA) | [Caleb Sample](https://open.spotify.com/artist/4xQ9vYmHgIhjX57pDbIC96) | [This One's For the Animals](https://open.spotify.com/album/23s3GAPukrsVKkEEYQ1w4Z) | 3:55 | 2026-01-01 |  |
 | [This, That Or The Other](https://open.spotify.com/track/3RPmevnrDw4kuZzIZk4f2A) | [Drew Hoskin](https://open.spotify.com/artist/5VtvCDxWKTiqUB5XLkRIDg) | [This, That Or The Other](https://open.spotify.com/album/3mhZOmpUVEBwHwRMvzIZBf) | 4:09 | 2025-10-15 |  |
 | [Thor's Tenderness](https://open.spotify.com/track/2GuQZ8HhzsMzIkafnxDEeA) | [EmRysRa](https://open.spotify.com/artist/0Nankvxle3GVZIrXrhbV1m) | [Thor's Tenderness](https://open.spotify.com/album/57k0euZ4ssLAjqCVD6Z3Vd) | 6:23 | 2025-05-27 |  |
 | [Threats](https://open.spotify.com/track/1cvyjW2mE3WVNBMFF2day4) | [Bellhead](https://open.spotify.com/artist/2kG1HBhqba49nSNiN92pVg) | [Threats](https://open.spotify.com/album/44Z7Gf8lHHBUq66SaDDYIT) | 4:11 | 2025-06-04 |  |
@@ -3319,6 +3322,7 @@
 | [TIK TAK](https://open.spotify.com/track/6AaJljPfG6OaCaJpbTRqhE) | [ESSETI&ESSEA](https://open.spotify.com/artist/5kMFci7Yj4A4AM5VeJjVpx) | [TIK TAK](https://open.spotify.com/album/2NWFVt9mWDQ4eh2aIFOzGX) | 2:28 | 2025-06-01 |  |
 | [TikTok Fever Dream](https://open.spotify.com/track/0YaPRAs9z03JBvIQiakCy4) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Strange Pop Viral Music](https://open.spotify.com/album/048KvM5YKwazPS89FxIs2d) | 1:50 | 2025-09-19 |  |
 | [TIME](https://open.spotify.com/track/4mvAY5lgn1i9hP491WRhJm) | [@.n.g.@](https://open.spotify.com/artist/2ORrEmasgpmJ4F7gyopMNe) | [TIME](https://open.spotify.com/album/46eRW2tVGpbE9G3kXW27cO) | 4:18 | 2025-06-08 |  |
+| [Time](https://open.spotify.com/track/6O4vI5hYn5y41McQrQdQxq) | [Saint Cassady](https://open.spotify.com/artist/7IKB8iGhtRuhcNFhah1xxU) | [Time](https://open.spotify.com/album/7GqNOb9AzXEeamc7zqsHYV) | 3:34 | 2026-01-01 |  |
 | [Time Bomb](https://open.spotify.com/track/00KwdidNkOntPgDsBHBYPs) | [Actor1Ma](https://open.spotify.com/artist/2bhSkSJxOWs9GJu16aaJGC) | [Time Bomb](https://open.spotify.com/album/79PyZH8T3m2vezl3B5NeQt) | 3:19 | 2025-06-05 |  |
 | [Time for the Other Song](https://open.spotify.com/track/7mabZvppZ7FTLrsWO9GJYJ) | [Carbox](https://open.spotify.com/artist/3b7TkmnH3ZNro3MJlhTRMl) | [Dark Down](https://open.spotify.com/album/0qAizbg3D61QB2pZe10dQC) | 4:07 | 2025-10-07 |  |
 | [Timeless Love](https://open.spotify.com/track/3xMFvP0X8VPOu1xbw29nVu) | [MAX LRF](https://open.spotify.com/artist/7DWogRuA8IOFVZn8YXEI00) | [Timeless Love](https://open.spotify.com/album/2wkFV9ZPXsXABdDiTJ3bY0) | 3:44 | 2025-04-05 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Shania Twain. The essential tracks, all in one playlist.",
-  "num_followers": 251645,
+  "num_followers": 251641,
   "original_name": "This Is Shania Twain",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVMWAAAAAAB0/t5PleAbBhRETjJhb57h",
+  "snapshot_id": "aVRngAAAAACB5mlN4QeOlo36rD5/ovlA",
   "tracks": [
     {
       "added_at": null,
@@ -279,18 +279,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Up! (Green Version)",
-        "url": "https://open.spotify.com/album/4h6bh60fEl4GAZiPhmrgMx"
+        "name": "Man! I Feel Like A Woman! (Real Hypha Remix)",
+        "url": "https://open.spotify.com/album/1kXH8Pon2O1RPYT9gz7SQI"
       },
       "artists": [
         {
           "name": "Shania Twain",
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        },
+        {
+          "name": "Real Hypha",
+          "url": "https://open.spotify.com/artist/4nuduAqGulo8ekf0ufrpIC"
         }
       ],
-      "duration_ms": 172906,
-      "name": "Up!",
-      "url": "https://open.spotify.com/track/4dIrj82d70x7vGmUxTyOYC"
+      "duration_ms": 176000,
+      "name": "Man! I Feel Like A Woman! - Real Hypha Remix",
+      "url": "https://open.spotify.com/track/0T1iRhYeTh5JpVdM2TI6kO"
     },
     {
       "added_at": null,
@@ -327,22 +331,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Man! I Feel Like A Woman! (Real Hypha Remix)",
-        "url": "https://open.spotify.com/album/1kXH8Pon2O1RPYT9gz7SQI"
+        "name": "Up! (Green Version)",
+        "url": "https://open.spotify.com/album/4h6bh60fEl4GAZiPhmrgMx"
       },
       "artists": [
         {
           "name": "Shania Twain",
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        },
-        {
-          "name": "Real Hypha",
-          "url": "https://open.spotify.com/artist/4nuduAqGulo8ekf0ufrpIC"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Man! I Feel Like A Woman! - Real Hypha Remix",
-      "url": "https://open.spotify.com/track/0T1iRhYeTh5JpVdM2TI6kO"
+      "duration_ms": 172906,
+      "name": "Up!",
+      "url": "https://open.spotify.com/track/4dIrj82d70x7vGmUxTyOYC"
     },
     {
       "added_at": null,
@@ -839,8 +839,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shania Twain",
-        "url": "https://open.spotify.com/album/7o4ktUz3Z0Ky0L06avgkYz"
+        "name": "Last Day of Summer",
+        "url": "https://open.spotify.com/album/3Y5TMxrMsPK5DtsD0A2ABo"
       },
       "artists": [
         {
@@ -848,9 +848,9 @@
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 168933,
-      "name": "You Lay A Whole Lot Of Love On Me",
-      "url": "https://open.spotify.com/track/0oGmDmlKPWiZbnuVed68Rs"
+      "duration_ms": 190268,
+      "name": "Last Day of Summer",
+      "url": "https://open.spotify.com/track/2PSEWm8PyOFrl0DFRxJFCJ"
     }
   ],
   "unique_name": "This Is Shania Twain",

@@ -12907,6 +12907,24 @@
     },
     {
       "album": {
+        "name": "GO!",
+        "url": "https://open.spotify.com/album/62IUrI4xuBxwSoGWPcQSzM"
+      },
+      "artists": [
+        {
+          "name": "hatikoali",
+          "url": "https://open.spotify.com/artist/0gIIFgqTKoleOw5Aym8nhu"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136744,
+      "name": "GO!",
+      "url": "https://open.spotify.com/track/1zosr2RSeBC8BavrdLOXpn"
+    },
+    {
+      "album": {
         "name": "On",
         "url": "https://open.spotify.com/album/6AmmrlB9qABCgBdr8SCLZt"
       },
@@ -15572,7 +15590,7 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 106860,
       "name": "I Want Things to Be Beautiful",
       "url": "https://open.spotify.com/track/2o4kFMrOGhXwdpKd2ZUaKs"
@@ -16260,7 +16278,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 151573,
       "name": "IRIS OUT",
       "url": "https://open.spotify.com/track/59hVbgr8rfYkDbHfr8RcGI"
@@ -19276,7 +19294,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 273010,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/6gH4TId535zZLoBFSdnDFm"
@@ -22886,7 +22904,7 @@
       ],
       "date_added": "2025-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 228360,
       "name": "My Moon My Man",
       "url": "https://open.spotify.com/track/4fQVQKIiidREPI0MhFEuDn"
@@ -22904,7 +22922,7 @@
       ],
       "date_added": "2025-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-01",
+      "date_removed": null,
       "duration_ms": 228360,
       "name": "My Moon My Man",
       "url": "https://open.spotify.com/track/5FFQbvn7055P1DvgJDdCBP"
@@ -28116,7 +28134,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-13",
+      "date_removed": null,
       "duration_ms": 298933,
       "name": "Running Up That Hill (A Deal With God)",
       "url": "https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO"
@@ -35878,7 +35896,7 @@
       ],
       "date_added": "2025-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 297935,
       "name": "Vikai gi",
       "url": "https://open.spotify.com/track/41FfKTWCnxhezcDY9cNEit"
@@ -40660,7 +40678,7 @@
       ],
       "date_added": "2025-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-09",
+      "date_removed": null,
       "duration_ms": 215017,
       "name": "\u0414\u0443\u043d\u0430\u0432\u0441\u043a\u043e \u0445\u043e\u0440\u043e",
       "url": "https://open.spotify.com/track/3VuG6DmcyM5KvWFPviZvqI"
@@ -42538,7 +42556,7 @@
       ],
       "date_added": "2025-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-09",
+      "date_removed": null,
       "duration_ms": 207053,
       "name": "\u041d\u043e\u0432\u0430 \u0413\u043e\u0434\u0438\u043d\u0430",
       "url": "https://open.spotify.com/track/4Pe3yUvK5GBL0xAKfy7sV9"

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KPAjGyPdm.md) - [plain]
 
 ### [Stranger Things Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DXc3KPAjGyPdm)
 
-> Hear the unforgettable songs that defined Stranger Things as the series comes to a close.
+> Hear the unforgettable songs that defined Stranger Things as the series enters its last chapter.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,886,562 likes - 179 songs - 10 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,939,455 likes - 179 songs - 10 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -188,4 +188,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KPAjGyPdm.md) - [plain]
 | 178 | [Hawkins](https://open.spotify.com/track/5MtCEB1r6jzRIu5KZHOrNA) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things, Vol\. 1 \(A Netflix Original Series Soundtrack\)](https://open.spotify.com/album/1puplOrvmUGoq2VxsB0ENJ) | 5:00 |
 | 179 | [Eight Fifteen](https://open.spotify.com/track/7bocrcIvqXs0tBFM5VI6Rf) | [Kyle Dixon & Michael Stein](https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd) | [Stranger Things 2 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/2l0rdHb97fQidl9dsOxE6B) | 1:25 |
 
-Snapshot ID: `AAAAAM480SQM43fXhyKQHXWK3TE6h/lA`
+Snapshot ID: `AAAAAN5UgjK+h80O8+Bk+w/zdZGOCs0a`

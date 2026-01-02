@@ -498,6 +498,24 @@
     {
       "album": {
         "name": "Cowboy Outta You",
+        "url": "https://open.spotify.com/album/3siD2kVE0SFBgPXBlujSTH"
+      },
+      "artists": [
+        {
+          "name": "Payton Sullivan",
+          "url": "https://open.spotify.com/artist/7ri5Tp1crD2xvVkzrkU6r4"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210395,
+      "name": "Cowboy Outta You",
+      "url": "https://open.spotify.com/track/5x6m9fSw23i0koNnpMxNQn"
+    },
+    {
+      "album": {
+        "name": "Cowboy Outta You",
         "url": "https://open.spotify.com/album/1jQcqjlFyUKabQupybp1QL"
       },
       "artists": [
@@ -508,7 +526,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 210395,
       "name": "Cowboy Outta You",
       "url": "https://open.spotify.com/track/7HE2PTsOzi5v5b4A2qhXck"
@@ -646,6 +664,24 @@
     {
       "album": {
         "name": "Down the Road",
+        "url": "https://open.spotify.com/album/1lFfsAuSrkHRIaLfv3NFT4"
+      },
+      "artists": [
+        {
+          "name": "Tiera Kennedy",
+          "url": "https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193223,
+      "name": "Down the Road",
+      "url": "https://open.spotify.com/track/23S4rMy1m1KE5AISVFY4cY"
+    },
+    {
+      "album": {
+        "name": "Down the Road",
         "url": "https://open.spotify.com/album/37NrH7ebRvtVLKqcUhvPCn"
       },
       "artists": [
@@ -656,7 +692,7 @@
       ],
       "date_added": "2025-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 193223,
       "name": "Down the Road",
       "url": "https://open.spotify.com/track/2RaRWh3h6F08UmDVf2LVlm"
@@ -1752,10 +1788,28 @@
       ],
       "date_added": "2024-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 194543,
       "name": "Luckier",
       "url": "https://open.spotify.com/track/2ZryPLqBfvls1yKC9wlqv0"
+    },
+    {
+      "album": {
+        "name": "Luckier",
+        "url": "https://open.spotify.com/album/4jT5Qe7EdfP07HcVKE2vgG"
+      },
+      "artists": [
+        {
+          "name": "Jenna Davis",
+          "url": "https://open.spotify.com/artist/6oXQgzqvbeAem9kPX0pXnD"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194543,
+      "name": "Luckier",
+      "url": "https://open.spotify.com/track/7Fb3sRIpWeB55rQ6iCbTpQ"
     },
     {
       "album": {

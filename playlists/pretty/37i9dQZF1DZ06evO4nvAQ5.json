@@ -1,12 +1,12 @@
 {
   "description": "This is J Boog. The essential tracks, all in one playlist.",
-  "num_followers": 16041,
+  "num_followers": 16045,
   "original_name": "This Is J Boog",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVMWAAAAAADy7J9BdNsf8XpkmDNwLPqp",
+  "snapshot_id": "aVRngAAAAAAWkYgJ7gW7bgysSr+A2jMS",
   "tracks": [
     {
       "added_at": null,
@@ -286,11 +286,15 @@
         {
           "name": "J Boog",
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        },
+        {
+          "name": "Fiji",
+          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
         }
       ],
-      "duration_ms": 222447,
-      "name": "Until One Day",
-      "url": "https://open.spotify.com/track/2a3upUyTlyriSfwPlCDHpe"
+      "duration_ms": 213530,
+      "name": "Here I Am (with Fiji)",
+      "url": "https://open.spotify.com/track/6L4mF7uao67PDOhvY5Wc4h"
     },
     {
       "added_at": null,
@@ -362,15 +366,11 @@
         {
           "name": "J Boog",
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        },
-        {
-          "name": "Fiji",
-          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
         }
       ],
-      "duration_ms": 213530,
-      "name": "Here I Am (with Fiji)",
-      "url": "https://open.spotify.com/track/6L4mF7uao67PDOhvY5Wc4h"
+      "duration_ms": 222447,
+      "name": "Until One Day",
+      "url": "https://open.spotify.com/track/2a3upUyTlyriSfwPlCDHpe"
     },
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Uma",
-        "url": "https://open.spotify.com/album/1JWxFUrDtiJKcH1bAIwurg"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 202650,
-      "name": "Uma",
-      "url": "https://open.spotify.com/track/5CVDIIjl2pKVcg3B1sX6rb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "J Boog",
         "url": "https://open.spotify.com/album/2QGWiPQPsl8OXBurzqCJPI"
       },
@@ -591,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "J Boog - EP",
-        "url": "https://open.spotify.com/album/1mBSbSCwjpqInxijkFk06d"
+        "name": "Uma",
+        "url": "https://open.spotify.com/album/1JWxFUrDtiJKcH1bAIwurg"
       },
       "artists": [
         {
@@ -600,9 +584,9 @@
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
         }
       ],
-      "duration_ms": 207573,
-      "name": "Waiting On The Rain",
-      "url": "https://open.spotify.com/track/7paHl6UuZR7drEyw8M7gI9"
+      "duration_ms": 202650,
+      "name": "Uma",
+      "url": "https://open.spotify.com/track/5CVDIIjl2pKVcg3B1sX6rb"
     },
     {
       "added_at": null,
@@ -635,22 +619,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hustlin' Riddim",
-        "url": "https://open.spotify.com/album/7C7iUJ39NnBpoMqPXx35ap"
+        "name": "J Boog - EP",
+        "url": "https://open.spotify.com/album/1mBSbSCwjpqInxijkFk06d"
       },
       "artists": [
-        {
-          "name": "Bost & Bim",
-          "url": "https://open.spotify.com/artist/43zfbzuXQncLzV9RyHy2EP"
-        },
         {
           "name": "J Boog",
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
         }
       ],
-      "duration_ms": 193093,
-      "name": "Coldest Zone",
-      "url": "https://open.spotify.com/track/1l8Tn0W9Rby3alJ78AMGi8"
+      "duration_ms": 207573,
+      "name": "Waiting On The Rain",
+      "url": "https://open.spotify.com/track/7paHl6UuZR7drEyw8M7gI9"
     },
     {
       "added_at": null,
@@ -667,6 +647,26 @@
       "duration_ms": 205013,
       "name": "So Far Gone",
       "url": "https://open.spotify.com/track/1Dnv6D9ylHncMnAWp9G27i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hustlin' Riddim",
+        "url": "https://open.spotify.com/album/7C7iUJ39NnBpoMqPXx35ap"
+      },
+      "artists": [
+        {
+          "name": "Bost & Bim",
+          "url": "https://open.spotify.com/artist/43zfbzuXQncLzV9RyHy2EP"
+        },
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 193093,
+      "name": "Coldest Zone",
+      "url": "https://open.spotify.com/track/1l8Tn0W9Rby3alJ78AMGi8"
     },
     {
       "added_at": null,

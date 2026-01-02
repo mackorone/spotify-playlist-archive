@@ -2,7 +2,7 @@
 
 ### [Jazz Club](https://open.spotify.com/playlist/37i9dQZF1DX1S1NduGwpsa)
 
-> The best jazz new releases\. Cover: Stacey Kent
+> The best jazz new releases\. Cover: Lila\-May
 
 885 songs - 2 day 15 hr 7 min
 

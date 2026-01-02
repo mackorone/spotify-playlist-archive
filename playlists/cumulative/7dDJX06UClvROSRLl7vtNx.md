@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/7dDJX06UClvROSRLl7vtNx.md) - cumulative - [plain](/playlists/plain/7dDJX06UClvROSRLl7vtNx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7dDJX06UClvROSRLl7vtNx)
 
-### [Beach Lounge 2025 🌴 IBIZA Summer Chillout](https://open.spotify.com/playlist/7dDJX06UClvROSRLl7vtNx)
+### [Beach Lounge 2026 🌴 IBIZA Summer Chillout](https://open.spotify.com/playlist/7dDJX06UClvROSRLl7vtNx)
 
-> Summer 2025 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
+> Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,120 songs - 2 day 0 hr 30 min
+1,121 songs - 2 day 0 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,6 +233,7 @@
 | [Dreamer](https://open.spotify.com/track/1iegSElZwoYq9wrvmKfxSQ) | [Velvet Sky](https://open.spotify.com/artist/6FDzp48jbGa6XlJXjNo7hV) | [Dreamer](https://open.spotify.com/album/4h1MhRm00BhSZGlM6dUAaY) | 2:40 | 2025-04-11 | 2025-09-13 |
 | [Dreaming In The Sky](https://open.spotify.com/track/1qnnYYVn4zEJgfLvZvq1H6) | [Duce](https://open.spotify.com/artist/6MBI5TYgu9T3s5NeqAgbxD), [LuvLess](https://open.spotify.com/artist/3nlrFqpQAci9Bx0O5VZ5Hr) | [Dreaming In The Sky](https://open.spotify.com/album/7CyDIaeZ0ZwHA4vTgsBqH1) | 2:58 | 2025-02-09 | 2025-03-15 |
 | [Drift Away Into The Grey](https://open.spotify.com/track/0mYred93yYbM1bv4FzfT1W) | [ELERA](https://open.spotify.com/artist/4xo3EH1H4QcgoX3512eF4N), [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu), [Velvety](https://open.spotify.com/artist/5vj8jozcvNuHvgw68Lwvyh) | [Drift Away Into The Grey](https://open.spotify.com/album/5TxZEWllbJvZ6L1zQp1oAz) | 2:08 | 2025-03-27 | 2025-08-18 |
+| [Drifted Away](https://open.spotify.com/track/4eEfeI0DvBdLwOP5SDLCCH) | [Lucien](https://open.spotify.com/artist/5qmHB3aI1CfoYudcfOdgod), [The Palm Tree Boy](https://open.spotify.com/artist/5lB74qNNVibQ8j05ckOWbP), [Feel On Eel](https://open.spotify.com/artist/2QfgJI9B4SE5PKdQfOIjjL) | [Drifted Away](https://open.spotify.com/album/4McNWdsCQ0xXUur2jEMpoB) | 2:10 | 2026-01-01 |  |
 | [Drifting Away](https://open.spotify.com/track/3yeuG4c0lmwuHwFWD4W4dm) | [Aron Matthews](https://open.spotify.com/artist/7cmyUzMi6RNTKMiEpLUyxH), [Maxiz](https://open.spotify.com/artist/0tPvS7MPWR6z5WTN1dDqN3), [Saintro P Sax Up](https://open.spotify.com/artist/5d0miqmqbZ03OTRV3A2T7Y) | [Drifting Away](https://open.spotify.com/album/6dqO17ZAmTToFgzHt0jEtY) | 2:15 | 2024-06-21 | 2024-07-29 |
 | [Drifting Away](https://open.spotify.com/track/3lpajNpJVD1TUPelIqirdY) | [BLANCE](https://open.spotify.com/artist/6evlfkHSHNx1mUQwDuZFXW), [Natasha Ghosh](https://open.spotify.com/artist/1NdDUOuRmmfgKiuWKUEp7z) | [Drifting Away](https://open.spotify.com/album/2KiNhCFLP9Bso5iuTlkitj) | 2:18 | 2024-06-23 | 2024-09-09 |
 | [Driving Oceanside](https://open.spotify.com/track/0dIiKSBdeVRiTpj5Yog6ak) | [Tobÿ](https://open.spotify.com/artist/3EjoOshzwB9yIH8sLnbQnQ), [One Trick Pony](https://open.spotify.com/artist/4xxlgFFZpjIrQr9FiFttBG), [POLLY](https://open.spotify.com/artist/3Zc4MGz1t0uHYkoW2HIr7P) | [Driving Oceanside](https://open.spotify.com/album/7CSxBFWij7dNGWORtfraBB) | 2:12 | 2024-12-08 | 2025-12-15 |

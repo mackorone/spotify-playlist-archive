@@ -2,9 +2,9 @@
 
 ### [Courant Alternatif](https://open.spotify.com/playlist/37i9dQZF1DX4TqmALHVh5A)
 
-> La scène française branchée sur courant alternatif\. Photo : Skip the Use
+> La scène française branchée sur courant alternatif\. Photo : Barbet
 
-403 songs - 21 hr 21 min
+404 songs - 21 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [500 Vices](https://open.spotify.com/track/6kbSkAiySurZ6RwcauNVnF) | [Shaga](https://open.spotify.com/artist/4KZhzeqnmQnVt4687rh5qR) | [500 Vices](https://open.spotify.com/album/3RU6yV2zzVAS9DX6TZHgyV) | 2:51 | 2023-11-23 | 2024-06-21 |
 | [<3](https://open.spotify.com/track/0kZ3M4DN0ml4ZH1AvpVzAl) | [Neniu](https://open.spotify.com/artist/27JvDfZUHLn7JVt8pOJs1I) | [<3](https://open.spotify.com/album/1dwZRTtMqOnrSJ2ytzKcyB) | 3:12 | 2025-02-13 | 2025-06-20 |
 | [A l'envers](https://open.spotify.com/track/6sHyC8rtNTwKFqbYLYQRqz) | [Nerlov](https://open.spotify.com/artist/0JFtb1jFwdVNr8MycYK2BI) | [A l'envers](https://open.spotify.com/album/2c3YboUmihsseuzBSeTOI9) | 2:51 | 2023-12-08 | 2024-04-19 |
-| [A moitié dans la fête](https://open.spotify.com/track/2mVsxBYV36Vkr6iRtyWUos) | [Barbet](https://open.spotify.com/artist/7rN8I3x8rAW7gGFYLCK03E) | [A moitié dans la fête](https://open.spotify.com/album/5gmLS69GBaMZ4IhK7Wvybb) | 3:05 | 2025-10-02 |  |
+| [A moitié dans la fête](https://open.spotify.com/track/2mVsxBYV36Vkr6iRtyWUos) | [Barbet](https://open.spotify.com/artist/7rN8I3x8rAW7gGFYLCK03E) | [A moitié dans la fête](https://open.spotify.com/album/5gmLS69GBaMZ4IhK7Wvybb) | 3:05 | 2025-10-02 | 2026-01-02 |
 | [A priori](https://open.spotify.com/track/1ox8o1j0gYJL98H9fG3cP6) | [Neniu](https://open.spotify.com/artist/27JvDfZUHLn7JVt8pOJs1I) | [A priori](https://open.spotify.com/album/72i912k2lzdq3Mluq6SYR2) | 3:05 | 2025-11-20 |  |
 | [ABSENT](https://open.spotify.com/track/1l9i7t6NVvq99nVjzpd4wh) | [Venus VNR](https://open.spotify.com/artist/1VNVb5UAADT5TLDjQ1oGZW) | [ABSENT](https://open.spotify.com/album/5dD02Ii745F2d6Fsa71Irb) | 1:51 | 2025-03-13 | 2025-09-06 |
 | [Adios](https://open.spotify.com/track/1hKbnXEH8nAJlVpG9mtadI) | [Stuck in the Sound](https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy), [Mathilda](https://open.spotify.com/artist/3G3kiaWiTm0mUdzujLRuji) | [Adios](https://open.spotify.com/album/68HnsbMad7vqV3qg7a9NPY) | 3:20 | 2024-01-11 | 2024-02-02 |
@@ -49,6 +49,7 @@
 | [Bliss](https://open.spotify.com/track/0EmKhO8Mnd4o4ErUfFDPdC) | [Dead.](https://open.spotify.com/artist/0utyVWsLcppQJm5U2U1hMu) | [Bliss](https://open.spotify.com/album/1vmKg53JyZ1NJy0cFOmrYv) | 5:13 | 2023-12-08 | 2024-06-01 |
 | [Blush](https://open.spotify.com/track/4hPTbO8F3zfsXPZdXIsqMv) | [Sad Madona](https://open.spotify.com/artist/4EvpdSBOFHv6LKFEJwr3hU) | [Blush](https://open.spotify.com/album/3U4bXvoOv10wXlVoC6mgOp) | 3:43 | 2024-11-07 | 2025-03-21 |
 | [Bonjour demain](https://open.spotify.com/track/5BwXLq7gk6u5OBCJ9DdtL5) | [Arca M](https://open.spotify.com/artist/4qVGCiHNMFQPWATwj7stKg) | [Enfants intérieurs](https://open.spotify.com/album/3rBVCm9mdef6rGcGGzBxKB) | 3:08 | 2025-01-30 | 2025-05-23 |
+| [BOOM BOOM](https://open.spotify.com/track/6tOot9R6J8GEnDvndrmQ33) | [Venus VNR](https://open.spotify.com/artist/1VNVb5UAADT5TLDjQ1oGZW) | [BOOM BOOM](https://open.spotify.com/album/6qUwqlBuZiYKnhkhji0bZZ) | 2:51 | 2026-01-01 |  |
 | [Bouche à bouche](https://open.spotify.com/track/25aWXkGaXxloRWrdrjb1g0) | [La Grande Dame](https://open.spotify.com/artist/3AvpOfIrL6UyrMb5r4kIeh), [Bagarre](https://open.spotify.com/artist/3oDsNnVKW3T4MflgJlLysJ) | [Bouche à bouche / Paradise](https://open.spotify.com/album/6bFxGgf0zgRPiX4slKfEyy) | 3:02 | 2025-01-23 | 2025-02-14 |
 | [Boule à facettes](https://open.spotify.com/track/6Q14MRNmR6ojGBpsXl465t) | [Andéol](https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3) | [Boule à facettes](https://open.spotify.com/album/57PMenm8EzPiBoKgCNxRwr) | 2:39 | 2024-01-26 | 2024-06-21 |
 | [BROKEN BONES](https://open.spotify.com/track/6tvUdIihyndS4B6UYEWwE6) | [Julius On The Wave](https://open.spotify.com/artist/3u8hEmcHdXJhkI0d6pHNId), [LIL Moine](https://open.spotify.com/artist/2TfrHGAo7z0KBG1XjJeSJq) | [BROKEN BONES](https://open.spotify.com/album/30HTdLg2ovzLuahWbJC6Bk) | 2:30 | 2024-06-13 | 2024-06-28 |

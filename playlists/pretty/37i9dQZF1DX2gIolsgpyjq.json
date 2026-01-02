@@ -1,6 +1,6 @@
 {
   "description": "The best new music by independent artists in the Nordics. Cover: TANTAN",
-  "num_followers": 28991,
+  "num_followers": 28989,
   "original_name": "Fresh Finds Nordics",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,22 @@
     {
       "added_at": "2025-12-31 23:00:27",
       "album": {
+        "name": "affirmations",
+        "url": "https://open.spotify.com/album/1rvC1FhzyQe7Js5L8PBw3I"
+      },
+      "artists": [
+        {
+          "name": "Mercedess",
+          "url": "https://open.spotify.com/artist/487LWNWQyTG52kpmID4tTm"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "affirmations",
+      "url": "https://open.spotify.com/track/38Tt6dvzHXNLZgW6Zhryrs"
+    },
+    {
+      "added_at": "2025-12-31 23:00:27",
+      "album": {
         "name": "What Men Do",
         "url": "https://open.spotify.com/album/6GW4IJ7yR4O9A0q61UTHuc"
       },
@@ -119,6 +135,26 @@
       "duration_ms": 180268,
       "name": "What Men Do",
       "url": "https://open.spotify.com/track/3zMRl16icJimzKtFMYKSHO"
+    },
+    {
+      "added_at": "2025-12-31 23:00:27",
+      "album": {
+        "name": "But I Love It",
+        "url": "https://open.spotify.com/album/2SFRDRQiP31ZDzdqDBcXu5"
+      },
+      "artists": [
+        {
+          "name": "Mattias Kolstrup",
+          "url": "https://open.spotify.com/artist/76eNWShp2OZBflNjOY2jEG"
+        },
+        {
+          "name": "Stella",
+          "url": "https://open.spotify.com/artist/2Ic6MYMc3DrPW8z8DHFoWS"
+        }
+      ],
+      "duration_ms": 170058,
+      "name": "But I Love It",
+      "url": "https://open.spotify.com/track/3sZjpQC3vjGWP3VYicpq05"
     },
     {
       "added_at": "2025-12-31 23:00:27",
@@ -139,6 +175,22 @@
       "duration_ms": 216943,
       "name": "GROW UP (feat. Dende)",
       "url": "https://open.spotify.com/track/2pGJStBbf6jJMkbT7CFFaS"
+    },
+    {
+      "added_at": "2025-12-31 23:00:27",
+      "album": {
+        "name": "Like You Used To",
+        "url": "https://open.spotify.com/album/1RprVEJMyD6d0O4tmxu1FC"
+      },
+      "artists": [
+        {
+          "name": "The Court",
+          "url": "https://open.spotify.com/artist/4YeLPeJgbLboih3WGXZeWJ"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "Like You Used To",
+      "url": "https://open.spotify.com/track/3Q2ktWWJlTC0KbCsdd4Typ"
     },
     {
       "added_at": "2025-12-31 23:00:27",

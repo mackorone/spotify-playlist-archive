@@ -4127,6 +4127,24 @@
     },
     {
       "album": {
+        "name": "Al Final del D\u00eda",
+        "url": "https://open.spotify.com/album/5ANEFe2tJKtn3O0zr7cJrE"
+      },
+      "artists": [
+        {
+          "name": "Xolo Music",
+          "url": "https://open.spotify.com/artist/23ZEJoIVfvwkBAe022VUZ6"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224311,
+      "name": "Al Final del D\u00eda",
+      "url": "https://open.spotify.com/track/29OfK2Au1LFtDNSKwsAm7i"
+    },
+    {
+      "album": {
         "name": "Al Sevgilim",
         "url": "https://open.spotify.com/album/3ToGL3pGP4wYodmOBxj9lA"
       },
@@ -13622,7 +13640,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 227191,
       "name": "Bunu Senden Beklemezdim",
       "url": "https://open.spotify.com/track/7ozAGKAHz1mRsn2XqFcqou"
@@ -25328,7 +25346,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-12-13",
+      "date_removed": null,
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -38934,7 +38952,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 250860,
       "name": "Ishq Jalakar - Karvaan",
       "url": "https://open.spotify.com/track/0qPgK3FPlATwPMZXznLxea"
@@ -55860,7 +55878,7 @@
       ],
       "date_added": "2025-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 333451,
       "name": "Nakupenda",
       "url": "https://open.spotify.com/track/1p0zeYPLjmIGtw1DzmshZO"
@@ -73734,7 +73752,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 242916,
       "name": "Sitaare (From \"Ikkis\")",
       "url": "https://open.spotify.com/track/6WlARP6h4CDVOcY386wW0W"
@@ -74446,6 +74464,24 @@
       "duration_ms": 193533,
       "name": "Snow White",
       "url": "https://open.spotify.com/track/1AZwVoUx3UF5JbkUeMSUGe"
+    },
+    {
+      "album": {
+        "name": "SO ASU x Dora Dora",
+        "url": "https://open.spotify.com/album/7JvAp9IeY0ytGRFVC0DCIf"
+      },
+      "artists": [
+        {
+          "name": "melo",
+          "url": "https://open.spotify.com/artist/3frrV2obACqifLekcekrg7"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300728,
+      "name": "SO ASU x Dora Dora",
+      "url": "https://open.spotify.com/track/06a5xXGHTt62icbyfVeUyg"
     },
     {
       "album": {
@@ -82012,6 +82048,24 @@
       "duration_ms": 190386,
       "name": "Tiramisu Cake",
       "url": "https://open.spotify.com/track/07u4MPxsapzsCy9F64p5G2"
+    },
+    {
+      "album": {
+        "name": "20 Jahre DJ \u00d6tzi - Party ohne Ende",
+        "url": "https://open.spotify.com/album/2GdMAyh93AU8DqQ66lrWnK"
+      },
+      "artists": [
+        {
+          "name": "DJ \u00d6tzi",
+          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173373,
+      "name": "Tirol - Remastered 2019",
+      "url": "https://open.spotify.com/track/1ztXLrHOxpIF7mBJ3oTakZ"
     },
     {
       "album": {
@@ -92183,6 +92237,28 @@
     },
     {
       "album": {
+        "name": "Zootropolis 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0oqta6TAko2en33OkGkMTT"
+      },
+      "artists": [
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190822,
+      "name": "Zoo",
+      "url": "https://open.spotify.com/track/1RxnarBaLERmqnGNmOCoCD"
+    },
+    {
+      "album": {
         "name": "Zootopia 2 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2i1QqSI3UmOsQf12CQUdRN"
       },
@@ -92198,7 +92274,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 190822,
       "name": "Zoo",
       "url": "https://open.spotify.com/track/3vJIaiTIHxHhYafTSPNiH4"

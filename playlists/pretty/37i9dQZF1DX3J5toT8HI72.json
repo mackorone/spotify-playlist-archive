@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 pros apaixonados",
-  "num_followers": 781600,
+  "num_followers": 781558,
   "original_name": "Amor I Love You",
   "owner": {
     "name": "Spotify",
@@ -179,6 +179,22 @@
     {
       "added_at": "2025-11-25 18:54:59",
       "album": {
+        "name": "Lulu Ac\u00fastico",
+        "url": "https://open.spotify.com/album/14xCfgcBE9uCrwwR36NoVB"
+      },
+      "artists": [
+        {
+          "name": "Lulu Santos",
+          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
+        }
+      ],
+      "duration_ms": 218266,
+      "name": "Apenas Mais uma de Amor",
+      "url": "https://open.spotify.com/track/6YNCE5qtrTa7YcnAOAEsDQ"
+    },
+    {
+      "added_at": "2025-11-25 18:54:59",
+      "album": {
         "name": "Deixa (feat. Ana Gabriela)",
         "url": "https://open.spotify.com/album/5y1vdBmkTHZNGCz5qswQzM"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 176025,
       "name": "Deixa (feat. Ana Gabriela)",
       "url": "https://open.spotify.com/track/3fLqmaO4vvZpFZSZy52VMp"
-    },
-    {
-      "added_at": "2025-11-25 18:54:59",
-      "album": {
-        "name": "Lulu Ac\u00fastico",
-        "url": "https://open.spotify.com/album/14xCfgcBE9uCrwwR36NoVB"
-      },
-      "artists": [
-        {
-          "name": "Lulu Santos",
-          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
-        }
-      ],
-      "duration_ms": 218266,
-      "name": "Apenas Mais uma de Amor",
-      "url": "https://open.spotify.com/track/6YNCE5qtrTa7YcnAOAEsDQ"
     },
     {
       "added_at": "2025-11-25 18:54:59",
@@ -875,26 +875,6 @@
     {
       "added_at": "2025-11-25 18:54:59",
       "album": {
-        "name": "Partilhar",
-        "url": "https://open.spotify.com/album/1pbjhsgtyc5hOVNaaz6tpN"
-      },
-      "artists": [
-        {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
-        },
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 262552,
-      "name": "Partilhar",
-      "url": "https://open.spotify.com/track/1PQRwFvNM7xV65bIkHmDtx"
-    },
-    {
-      "added_at": "2025-11-25 18:54:59",
-      "album": {
         "name": "Melhores Momentos",
         "url": "https://open.spotify.com/album/2jGyiRzQpIUs4ZATSHzUVa"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 129381,
       "name": "\u00d4 Sorte",
       "url": "https://open.spotify.com/track/29qbLNBTJ2bYtMKkXobFHB"
+    },
+    {
+      "added_at": "2025-11-25 18:54:59",
+      "album": {
+        "name": "Partilhar",
+        "url": "https://open.spotify.com/album/1pbjhsgtyc5hOVNaaz6tpN"
+      },
+      "artists": [
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        },
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 262552,
+      "name": "Partilhar",
+      "url": "https://open.spotify.com/track/1PQRwFvNM7xV65bIkHmDtx"
     },
     {
       "added_at": "2025-11-25 18:54:59",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2025-11-25 18:54:59",
       "album": {
+        "name": "Top Hits",
+        "url": "https://open.spotify.com/album/1QKWvjU1m1Eh2CJ2TsiPE8"
+      },
+      "artists": [
+        {
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Proibida Pra Mim",
+      "url": "https://open.spotify.com/track/0Cro1lolgliyLKxGptK6RZ"
+    },
+    {
+      "added_at": "2025-11-25 18:54:59",
+      "album": {
         "name": "Multishow Ao Vivo Caetano e Maria Gad\u00fa",
         "url": "https://open.spotify.com/album/4MbNm26ee65EJm8BKvftWH"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 154826,
       "name": "O Le\u00e3ozinho - Live",
       "url": "https://open.spotify.com/track/0mDcMtuq4bJieP9LZqmaXZ"
-    },
-    {
-      "added_at": "2025-11-25 18:54:59",
-      "album": {
-        "name": "Top Hits",
-        "url": "https://open.spotify.com/album/1QKWvjU1m1Eh2CJ2TsiPE8"
-      },
-      "artists": [
-        {
-          "name": "Zeca Baleiro",
-          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Proibida Pra Mim",
-      "url": "https://open.spotify.com/track/0Cro1lolgliyLKxGptK6RZ"
     },
     {
       "added_at": "2025-11-25 18:54:59",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2025-11-25 18:54:59",
       "album": {
+        "name": "O amor me fala de voc\u00ea",
+        "url": "https://open.spotify.com/album/7kvvIABxvGFT5Cyz6mvgEz"
+      },
+      "artists": [
+        {
+          "name": "Caike Souza",
+          "url": "https://open.spotify.com/artist/6tjtXcfi8CU4froDsEydxa"
+        }
+      ],
+      "duration_ms": 199308,
+      "name": "O amor me fala de voc\u00ea",
+      "url": "https://open.spotify.com/track/2gBUrqogdBtgOBSm0h5AG5"
+    },
+    {
+      "added_at": "2025-11-25 18:54:59",
+      "album": {
         "name": "Me Chama de Gato Que Eu Sou Sua",
         "url": "https://open.spotify.com/album/0ge5ZLyto8vFQrif125mtW"
       },
@@ -1123,18 +1139,18 @@
     {
       "added_at": "2025-11-25 18:54:59",
       "album": {
-        "name": "O amor me fala de voc\u00ea",
-        "url": "https://open.spotify.com/album/7kvvIABxvGFT5Cyz6mvgEz"
+        "name": "Ac\u00fastico Em Trancoso (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6Aqv0T76VtYRBhZMsd0Pa4"
       },
       "artists": [
         {
-          "name": "Caike Souza",
-          "url": "https://open.spotify.com/artist/6tjtXcfi8CU4froDsEydxa"
+          "name": "Ivete Sangalo",
+          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
         }
       ],
-      "duration_ms": 199308,
-      "name": "O amor me fala de voc\u00ea",
-      "url": "https://open.spotify.com/track/2gBUrqogdBtgOBSm0h5AG5"
+      "duration_ms": 224590,
+      "name": "Se Eu N\u00e3o Te Amasse Tanto Assim - Ac\u00fastico Em Trancoso / Ao Vivo",
+      "url": "https://open.spotify.com/track/5z9gmHdAMTFjxFOpuWzyYO"
     },
     {
       "added_at": "2025-11-25 18:54:59",
@@ -1155,22 +1171,6 @@
       "duration_ms": 221253,
       "name": "S\u00f3 Sei Dan\u00e7ar Com Voc\u00ea",
       "url": "https://open.spotify.com/track/4IiviKTCCIJSYsWzxCpqsD"
-    },
-    {
-      "added_at": "2025-11-25 18:54:59",
-      "album": {
-        "name": "Ac\u00fastico Em Trancoso (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6Aqv0T76VtYRBhZMsd0Pa4"
-      },
-      "artists": [
-        {
-          "name": "Ivete Sangalo",
-          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
-        }
-      ],
-      "duration_ms": 224590,
-      "name": "Se Eu N\u00e3o Te Amasse Tanto Assim - Ac\u00fastico Em Trancoso / Ao Vivo",
-      "url": "https://open.spotify.com/track/5z9gmHdAMTFjxFOpuWzyYO"
     },
     {
       "added_at": "2025-11-25 18:54:59",

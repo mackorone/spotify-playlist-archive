@@ -4,7 +4,7 @@
 
 > 
 
-130 songs - 6 hr 48 min
+132 songs - 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,12 +43,14 @@
 | [Duele Perderte](https://open.spotify.com/track/3jDwP1bJy9rySbDSN1B8oX) | [Karlex Pitt](https://open.spotify.com/artist/6RZcX1OjxVzN6j1gycuevD) | [Duele Perderte](https://open.spotify.com/album/0VXZdQaveMGAptpPGkUOTH) | 3:02 | 2025-04-08 |  |
 | [Dumar Kuba](https://open.spotify.com/track/2Atey8INkA4R0H5acupQ22) | [Kasbah Rockers](https://open.spotify.com/artist/1jwPG5eNGIYa1k2R8eZjPu), [Bill Laswell](https://open.spotify.com/artist/5RISqKCcrhGITX2TQAPGPL), [Sam J Samatar](https://open.spotify.com/artist/1JUwjzz1kyxvYll7xbcu7R) | [Dumar Kuba](https://open.spotify.com/album/7dgtgmt05pFVqYgCIS6b5i) | 3:48 | 2025-07-03 |  |
 | [Early Birds](https://open.spotify.com/track/0vR3kZAVHbQdxfELwGbOlB) | [Otis Shanty](https://open.spotify.com/artist/4boX3IB2STKtAEQfzhMOfn) | [Early Birds](https://open.spotify.com/album/2jybjZOdnaBsM685CybAjI) | 4:22 | 2025-03-12 |  |
+| [Eclipse](https://open.spotify.com/track/6HJgZKIv8gGEDqieNRHgi3) | [Jessika Elizalde](https://open.spotify.com/artist/1tMcn5ilxoHnYr2EPjbHlO) | [Eclipse](https://open.spotify.com/album/3dVPaj5gIzyJgbkaMtzAP0) | 3:11 | 2026-01-02 |  |
 | [El Refrán](https://open.spotify.com/track/2db7peohg2RsaCOeXozJjF) | [Yadiell](https://open.spotify.com/artist/0rYolSGwAR5m9g6h4Jlfwq) | [El Refrán](https://open.spotify.com/album/0qKfCoShShQYSWVkdq6Vom) | 2:24 | 2025-07-07 |  |
 | [Engaveta](https://open.spotify.com/track/0ObZQ0RZV6FA8eegOVn1tO) | [EDUAR JOHVA](https://open.spotify.com/artist/5FYycsrb8zR2om6x9uSo0K) | [Engaveta](https://open.spotify.com/album/2LYusTnY2bBjsLAx514ng5) | 3:15 | 2025-11-02 |  |
 | [Evil Middle](https://open.spotify.com/track/0WsHKHzrgEMeISc5ydXyXg) | [Marcos Crunk](https://open.spotify.com/artist/7GNeQ6y9JFQ6deOJfrtHjD), [BR3NX](https://open.spotify.com/artist/0YNWnKCEelU5896FKYUVl6) | [Evil Middle](https://open.spotify.com/album/3DkC03tKYGw7OCPZPIPxPH) | 2:37 | 2025-08-20 |  |
 | [Evitandome](https://open.spotify.com/track/39RIAIenvbjRqw2iAWWoPV) | [Draxess](https://open.spotify.com/artist/31eiTFPa3SmEug6EbLH3d3), [dodo\_wav](https://open.spotify.com/artist/6351jyBEW00GePNPjRCsj1), [Wvy Laosean](https://open.spotify.com/artist/604Lg9hn3moDuuSRJlTXmh) | [Evitandome](https://open.spotify.com/album/7DIzgZs3139vMTCDNz668P) | 3:17 | 2025-09-05 |  |
 | [Fade Away](https://open.spotify.com/track/74dhq9EPFe5EvBDIoWBIq7) | [Nicole Gi](https://open.spotify.com/artist/0tgBoKNlruzIxaE0CwNhhr), [1depth](https://open.spotify.com/artist/6WCG6NUWO7AegpQN8asWwq) | [Fade Away](https://open.spotify.com/album/4sbRBZ7vQ2LSOegya4HPyA) | 2:55 | 2025-04-08 |  |
 | [Falling Apart](https://open.spotify.com/track/38O5OYX7gXD2YAamTcW72t) | [ARK IDENTITY](https://open.spotify.com/artist/569UPpViTfeKYYJRjggAz8) | [Falling Apart](https://open.spotify.com/album/78h0okzrA3Z9rhln7vShrC) | 2:50 | 2025-12-11 |  |
+| [FAMOUS](https://open.spotify.com/track/4qEnIy1gg6nUNES2OxWr9N) | [MEanIngfUl](https://open.spotify.com/artist/5j62YtmsqrRgu7v49wDtrA), [w0nderthug](https://open.spotify.com/artist/4TaOqV1FUHnhkX67H25xJp) | [FAMOUS](https://open.spotify.com/album/1kNBfxOpHZ5JWiqixGLZXp) | 3:36 | 2026-01-02 |  |
 | [Fastlife](https://open.spotify.com/track/37X0LVMpjlxIeiW7mpre4I) | [Ovthex](https://open.spotify.com/artist/5GitDiJdtHyC7aHejcDn7s) | [Fastlife](https://open.spotify.com/album/17qINZKWn4KsLPIpiyZqV8) | 2:58 | 2025-04-06 |  |
 | [Genuine](https://open.spotify.com/track/51mLBSASbfih09HkTViS8M) | [Pixiewolf](https://open.spotify.com/artist/2MjyIcU2BRGLYXtpW9aVa7) | [Genuine](https://open.spotify.com/album/1yhCbT665XRK4sbp19WRCQ) | 2:43 | 2025-04-07 |  |
 | [Gimme Someone I Can Hold on to \(Instrumental\)](https://open.spotify.com/track/5LcrOJjKRQ8opafD72lCm6) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Gimme Someone I Can Hold on to \(Instrumental\)](https://open.spotify.com/album/4WIZ3Cf2dJTEKeGLdhKLmZ) | 3:26 | 2025-03-12 |  |

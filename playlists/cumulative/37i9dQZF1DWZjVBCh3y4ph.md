@@ -2,9 +2,9 @@
 
 ### [Zouk Station](https://open.spotify.com/playlist/37i9dQZF1DWZjVBCh3y4ph)
 
-> Les hits zouk & kompa du moment\. Photo : Oswald
+> Les hits zouk & kompa du moment\. Photo : LÉA CHURROS
 
-352 songs - 18 hr 34 min
+354 songs - 18 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Alé pa](https://open.spotify.com/track/6vUPLVSg1JqUYiHserSImx) | [Maiko](https://open.spotify.com/artist/2Q9GRYHW7SsDdDrZghr3Sd), [MCBOX](https://open.spotify.com/artist/09DuyQpofjb0pPekVSRxS5), [VJ Awax](https://open.spotify.com/artist/0OgRGQfnDRVuDL6U43xPJm) | [Alé pa](https://open.spotify.com/album/567IStllgOTK3HfGniBTXn) | 2:41 | 2025-03-20 | 2025-05-16 |
 | [Amor](https://open.spotify.com/track/2VuKKcW0QtVfpuhpQhy0ui) | [MC DY](https://open.spotify.com/artist/0wFT0h2jZOxhpBlXFbO4Ds), [Chabsy](https://open.spotify.com/artist/2UhHFaDD6E4ISzi44nyKuW) | [Amor](https://open.spotify.com/album/0jaer6BFPXUjaV1LqKXJ30) | 2:30 | 2024-01-18 | 2024-01-24 |
 | [Amour Consumé \(version zouk\)](https://open.spotify.com/track/4nfB6Y2HprMwNMOQFg3JQh) | [Algéric](https://open.spotify.com/artist/6V788FEftK2VvhtleSaPwY), [LÉA CHURROS](https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC) | [Amour Consumé \(version zouk\)](https://open.spotify.com/album/5PcNLMgAd1lK7ACg4oK4xK) | 2:48 | 2024-02-29 | 2024-09-20 |
+| [Amour consumé / Toxic II](https://open.spotify.com/track/0TuDPnTdoBHLje8Gc8ffxs) | [LÉA CHURROS](https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC), [Algéric](https://open.spotify.com/artist/6V788FEftK2VvhtleSaPwY), [Judith](https://open.spotify.com/artist/6YcfJZ3YmWm0HMj9vFG2NL) | [Hakuna matata](https://open.spotify.com/album/0DTRsJGlAUHmmx0qUbsNe2) | 3:00 | 2026-01-01 |  |
 | [Amour et Haine](https://open.spotify.com/track/5CDyaTaAbWzoozhZwopddf) | [Fanny J](https://open.spotify.com/artist/4UDmRorEV3n7LrvphaEKkw), [T\-Matt](https://open.spotify.com/artist/4TBNXLrjYTkQKZ88FFU2cm) | [Amour et Haine](https://open.spotify.com/album/4pskweqF37wkhfPUrC52f1) | 4:01 | 2025-05-29 | 2025-09-19 |
 | [ANTANANARIVO](https://open.spotify.com/track/2Gg8Cmnzoi2wbgRiVgTHWm) | [Barth](https://open.spotify.com/artist/3EOmhPYfT8BhZEy3Vdfhno), [MCBOX](https://open.spotify.com/artist/09DuyQpofjb0pPekVSRxS5) | [Antananarivo](https://open.spotify.com/album/376mfcAcLzP0TuKmrzvX0R) | 3:00 | 2024-01-11 | 2024-06-07 |
 | [Ashanti](https://open.spotify.com/track/2JsCWEV3SFrnwSCmorOzIl) | [Scridge](https://open.spotify.com/artist/6fYEeLBc96CguiLq9FPBQU) | [Ashanti](https://open.spotify.com/album/23N2GypZNpGM90u5gIgEGQ) | 2:46 | 2024-11-14 | 2024-12-13 |
@@ -47,6 +48,7 @@
 | [Caresse](https://open.spotify.com/track/7t7sDVNiFNVdmULGJ8HB1A) | [Kénédy](https://open.spotify.com/artist/4UQw6LI7i8sdQQMYhwQd71) | [Caresse](https://open.spotify.com/album/1hy3yEUGl5nXixgIiQnjJu) | 3:05 | 2025-02-13 | 2025-03-28 |
 | [Ce que tu veux de nous \- Baby boo](https://open.spotify.com/track/2woFHVE5BQmaoDfNtlN6Ln) | [Ina Lina](https://open.spotify.com/artist/2U6xeaHwqVrGgiKhnZyUlT) | [Incomprise](https://open.spotify.com/album/48zfG8lvY9evxG8fPKkUur) | 2:59 | 2024-09-26 | 2024-10-25 |
 | [Chambre 41](https://open.spotify.com/track/1OpJHDb3pHTSnSuiLAMAzb) | [Laconi](https://open.spotify.com/artist/0G6NSKnh543lt7f6dJiJ67) | [Chambre 41](https://open.spotify.com/album/5M8YB1mmEHueFKUovWAyty) | 2:55 | 2025-11-27 | 2025-12-12 |
+| [Chambre 41 \- Kompa Gouyad](https://open.spotify.com/track/5DvjanZowlxxa6zAmYyCNZ) | [Laconi](https://open.spotify.com/artist/0G6NSKnh543lt7f6dJiJ67) | [Chambre 41 \(Kompa Gouyad\)](https://open.spotify.com/album/7gD4cpfHdNYsDmkNdVZwk9) | 3:06 | 2026-01-01 |  |
 | [Champagne ké fraises](https://open.spotify.com/track/0VueZHw6jT3nA1X7df4fCR) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA) | [Champagne ké fraises](https://open.spotify.com/album/1EBbcU9zdWhLnziZVSyU4J) | 4:11 | 2025-04-17 |  |
 | [Changer](https://open.spotify.com/track/19fT3Mo3tLcIwMBZ4W9ANM) | [Goulam](https://open.spotify.com/artist/3n13dmLc3HY0wL5zwfuOsC), [Alexy Large](https://open.spotify.com/artist/4FlyOnqbpEbCR34xmBEIu2) | [Changer](https://open.spotify.com/album/28CHRKEIkGSJCvqsdDsUZx) | 3:31 | 2025-07-24 | 2025-10-03 |
 | [Cho](https://open.spotify.com/track/6sGcYTh3pBs5zkL33svsCB) | [Laconi](https://open.spotify.com/artist/0G6NSKnh543lt7f6dJiJ67), [Senyss](https://open.spotify.com/artist/41yZRhcJMRMFWihPbLxGkM) | [Cho](https://open.spotify.com/album/0Jtw3H0L4jpNYKHwb4wT3Y) | 2:47 | 2025-06-05 | 2025-07-11 |
@@ -181,7 +183,7 @@
 | [Manipulé](https://open.spotify.com/track/6KvXJAHMZipMjJBjNKWMjB) | [Dj M'sy](https://open.spotify.com/artist/0Xmy1akydp75Cv7zYLeB8c), [Dyrone](https://open.spotify.com/artist/5trdUVj6RsRdpcyCHaIiJa) | [Manipulé](https://open.spotify.com/album/6cDP1xGVhDtpdGn8nbuy64) | 2:57 | 2024-02-01 | 2024-03-29 |
 | [Mayday](https://open.spotify.com/track/6NyjNLMgKnPpH3DskxJriG) | [LÉA CHURROS](https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC), [Magical Nrick](https://open.spotify.com/artist/57C1xJXu10Mi0X3toUb8Ig) | [Mayday](https://open.spotify.com/album/0b45cVfN3y7J2IWaeDNgL1) | 2:57 | 2024-10-24 | 2024-12-06 |
 | [MAYDAY](https://open.spotify.com/track/4JaiYhTtUQN4TkwafnrEjn) | [Vayb](https://open.spotify.com/artist/1hYA6XyhYOEKo90klGeh4H), [Jude Deslouches](https://open.spotify.com/artist/1cJ3F8DO47enupBg2kOatt) | [MAYDAY](https://open.spotify.com/album/0IgWJsKDLI0mffAHWRUhI6) | 5:06 | 2023-09-28 | 2024-02-09 |
-| [Minimum](https://open.spotify.com/track/6O6vuiV3LEPoBOmPikV03R) | [Eleen](https://open.spotify.com/artist/6CYv60Iqe5ZLiWYtImqoHp), [Allan Zut](https://open.spotify.com/artist/6gbw7LgcJjVXjJwvxUjjbr) | [Minimum](https://open.spotify.com/album/6CQEwB2JdHn0hwRU5ToHLt) | 2:27 | 2025-11-27 |  |
+| [Minimum](https://open.spotify.com/track/6O6vuiV3LEPoBOmPikV03R) | [Eleen](https://open.spotify.com/artist/6CYv60Iqe5ZLiWYtImqoHp), [Allan Zut](https://open.spotify.com/artist/6gbw7LgcJjVXjJwvxUjjbr) | [Minimum](https://open.spotify.com/album/6CQEwB2JdHn0hwRU5ToHLt) | 2:27 | 2025-11-27 | 2026-01-02 |
 | [Minimum](https://open.spotify.com/track/44lAeDpvW8PH18OPxWGuY9) | [Elowdy.C](https://open.spotify.com/artist/52UWLNkUBK06fmtS1gyrRt) | [Minimum](https://open.spotify.com/album/70tsN0GNXbpD2X2sQLIEQ5) | 2:42 | 2024-11-21 | 2025-01-03 |
 | [Miroir](https://open.spotify.com/track/0YrcP6QClkuj2qg4TetQ49) | [DJ Inno](https://open.spotify.com/artist/3ghX0UdB5fiBYj0tPuEHAt), [Aleeka](https://open.spotify.com/artist/1cjpgRNc0XbC69SGXJHBLS) | [Miroir](https://open.spotify.com/album/11qVv9P0UFUNe3bCxulPy1) | 3:14 | 2025-11-06 |  |
 | [Moi qu'il faut](https://open.spotify.com/track/0QIEtVgrkPA4unGz3CofT9) | [Lorenz](https://open.spotify.com/artist/2EOc5l6ZIB5gygstmhE9eN), [Senyss](https://open.spotify.com/artist/41yZRhcJMRMFWihPbLxGkM), [T\-Gui](https://open.spotify.com/artist/4qc6LLDZhaO2vOSJZ7Jrq5) | [Moi qu'il faut](https://open.spotify.com/album/2ZVM58LzB4oG8Y9A41JqHu) | 3:02 | 2025-03-06 | 2025-05-02 |
@@ -307,7 +309,7 @@
 | [TBS](https://open.spotify.com/track/4VTnmwiWKUFOkKiftm0iRj) | [Rachelle Allison](https://open.spotify.com/artist/5M0cj31cGkk0sbevwtSG52) | [TBS](https://open.spotify.com/album/3W6B7yuVTXLp5aiQz6MOfZ) | 2:26 | 2024-02-22 | 2024-03-15 |
 | [Tellement doux](https://open.spotify.com/track/3o1osJPn6XpsoWa3S5AHDN) | [Liljooe](https://open.spotify.com/artist/1fXRDObcekmH7aEVbCqsYZ) | [Tellement doux](https://open.spotify.com/album/7z6iLtGQjSt4R2WOTSCW41) | 3:15 | 2024-03-07 | 2024-04-19 |
 | [Tellement doux](https://open.spotify.com/track/7fqvFVk7ZE7GzHQwcPJNdR) | [Liljooe](https://open.spotify.com/artist/1fXRDObcekmH7aEVbCqsYZ) | [Tellement doux](https://open.spotify.com/album/1njifPExP5d1ZwFuOFXa5j) | 3:15 | 2024-01-11 | 2024-06-28 |
-| [Tentation](https://open.spotify.com/track/4HlGzPPS4dYB39S8dIUv1q) | [Maeliah](https://open.spotify.com/artist/675TVTxu1DFIvB76rXpdYI), [DJ GIL](https://open.spotify.com/artist/7r1rLVcazYEHQlxRu1ftVE) | [Tentation](https://open.spotify.com/album/1MEssQTSYl0JzgAvT4Hmry) | 3:16 | 2025-11-20 |  |
+| [Tentation](https://open.spotify.com/track/4HlGzPPS4dYB39S8dIUv1q) | [Maeliah](https://open.spotify.com/artist/675TVTxu1DFIvB76rXpdYI), [DJ GIL](https://open.spotify.com/artist/7r1rLVcazYEHQlxRu1ftVE) | [Tentation](https://open.spotify.com/album/1MEssQTSYl0JzgAvT4Hmry) | 3:16 | 2025-11-20 | 2026-01-02 |
 | [Ti Bonbon](https://open.spotify.com/track/0sesaypqeysVZ9ACRV4W0H) | [Forever Music](https://open.spotify.com/artist/5h452pRjLcTPSrgg1MpSje) | [Ti Bonbon](https://open.spotify.com/album/34qqqXjgUBPhifz8mwjbpn) | 3:26 | 2025-06-12 | 2025-12-05 |
 | [Tic Tac](https://open.spotify.com/track/2n7kwiBaEjDdBzwrbKl7e1) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [Tic Tac](https://open.spotify.com/album/0ZfpOUYxc42l8gNcpYoUM3) | 2:37 | 2024-07-25 | 2024-08-08 |
 | [TKT PAS](https://open.spotify.com/track/794czLwx4ZNky1ltmguo8u) | [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD), [Mik L](https://open.spotify.com/artist/7aLBaAtUjEwZSUIr3S2BtR) | [TKT PAS](https://open.spotify.com/album/5EtCIE7heSTXlbxPIefyyK) | 3:26 | 2023-11-16 | 2024-09-06 |

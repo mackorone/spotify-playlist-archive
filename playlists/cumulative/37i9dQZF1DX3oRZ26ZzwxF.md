@@ -2,9 +2,9 @@
 
 ### [Afro Rap](https://open.spotify.com/playlist/37i9dQZF1DX3oRZ26ZzwxF)
 
-> Le meilleur du rap africain francophone\. Photo : døpelym
+> Le meilleur du rap africain francophone\. Photo : Himra
 
-228 songs - 10 hr 34 min
+229 songs - 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,7 +192,7 @@
 | [Quand Toi Tu Dors](https://open.spotify.com/track/6PHQWMUGJl1srUZ6j5Ygew) | [Dayo Lamar](https://open.spotify.com/artist/05bfMROifJpylezJUnm10j) | [Quand Toi Tu Dors](https://open.spotify.com/album/3TxtmaYQcjq0fCeqCjqBVU) | 1:56 | 2025-06-26 | 2025-07-11 |
 | [RASTA \(feat\. La Rvfleuze\)](https://open.spotify.com/track/53TevesyM4q1FHlQIiFITA) | [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS), [La Rvfleuze](https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN) | [DACHIBA KOUMGBA TCHAIBA : DALSHIM](https://open.spotify.com/album/6qtytRvjDiVRsYweV2svgi) | 2:49 | 2025-11-13 | 2025-12-19 |
 | [Reality](https://open.spotify.com/track/31hwx3PIEPr2PFDlPUump1) | [EBOLOKO](https://open.spotify.com/artist/3nUEeV8UXAOUqpXm6WahYR), [DEMENTOS](https://open.spotify.com/artist/55EHiUBT43mSyM6uHpjA3D) | [ONE TETE I](https://open.spotify.com/album/1xq6NcgTd0Lif2FzzJfLjG) | 2:50 | 2025-10-02 | 2025-11-14 |
-| [Redressement](https://open.spotify.com/track/0k0xQgr4MOwsY8OzrgnIsn) | [Iba One](https://open.spotify.com/artist/3f63uWQYi2tLKaONH44oSv) | [Redressement](https://open.spotify.com/album/7do7o9AEZPddbpVJN4mtqZ) | 2:36 | 2025-12-11 |  |
+| [Redressement](https://open.spotify.com/track/0k0xQgr4MOwsY8OzrgnIsn) | [Iba One](https://open.spotify.com/artist/3f63uWQYi2tLKaONH44oSv) | [Redressement](https://open.spotify.com/album/7do7o9AEZPddbpVJN4mtqZ) | 2:36 | 2025-12-11 | 2026-01-02 |
 | [RKM \(CRY ME A RIVER\)](https://open.spotify.com/track/1Yo7BWuhxoHbPmXbnKPl9s) | [Skulio](https://open.spotify.com/artist/1xEnKwxOz74T0uyDRReDJQ), [Enash](https://open.spotify.com/artist/2mFoG5XoJZUJl1Q1ghhA2F) | [RKM \(CRY ME A RIVER\)](https://open.spotify.com/album/3Ob6dQaITXodM1s7CAun2j) | 2:27 | 2025-10-23 | 2025-11-07 |
 | [RODÉLA](https://open.spotify.com/track/3VsnE1pUT5ZOAjh23OdnKc) | [Sindika](https://open.spotify.com/artist/4ybznNtkCXSGMPkAfykkrV), [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [RODÉLA](https://open.spotify.com/album/7at50ZqUOtUANlJuquWOwa) | 3:44 | 2025-05-29 | 2025-10-24 |
 | [Rolling Stones](https://open.spotify.com/track/4lnmfGIq40SyRDm5cJzcOr) | [ALBI X](https://open.spotify.com/artist/4RbGljqjA1uq3D5Og5AE56) | [Rolling Stones](https://open.spotify.com/album/1QiZ0o9eo6W5ND7LqwbiLk) | 2:33 | 2025-11-06 | 2025-11-21 |
@@ -209,6 +209,7 @@
 | [Super Saiyan](https://open.spotify.com/track/5uFE8IpdLHeLrh9TuC0hPc) | [døpelym](https://open.spotify.com/artist/6CIALFc80ExDhcy2xI6eJs), [Lamoula$](https://open.spotify.com/artist/4cNtgPYsS8zJp72VrSky1L) | [Super Saiyan](https://open.spotify.com/album/4k4Zv622X28W0h0XZxtiyZ) | 3:02 | 2025-12-04 |  |
 | [Suspect 95 \- MVP](https://open.spotify.com/track/3SLHJIIG2GLfqweMBLj9ts) | [Suspect95](https://open.spotify.com/artist/1iOxNiCG89VJAPdTzJKKQ9) | [Suspect 95 \- MVP](https://open.spotify.com/album/0KYoZrYR3Pt3C3Iv1yzrj6) | 2:58 | 2025-11-06 | 2025-12-19 |
 | [T'en Parler](https://open.spotify.com/track/6zJbQ5MCr2ZxGAJ8XgJ1j4) | [døpelym](https://open.spotify.com/artist/6CIALFc80ExDhcy2xI6eJs) | [T'en Parler](https://open.spotify.com/album/1is6fQBY8PogRRpjFlyH8T) | 2:18 | 2025-06-19 | 2025-08-08 |
+| [TAKE & TCHOLI](https://open.spotify.com/track/6ve1Fi1NuXbHJelvSXUrap) | [Carty](https://open.spotify.com/artist/33p7Ux3XLYuYDP1cjIaycW) | [BASTOS](https://open.spotify.com/album/5mjjXY0swdnbmtDYIoixL6) | 2:07 | 2026-01-01 |  |
 | [Tana](https://open.spotify.com/track/2JYp2XCOdmufvPrwLw1J55) | [Safarel Obiang](https://open.spotify.com/artist/6AmjB7L0xr4B5iriGwHjxK) | [L’hybride](https://open.spotify.com/album/4i6y2mFHotCm1CEkjFOPEg) | 2:10 | 2025-06-26 | 2025-10-24 |
 | [TANTINE](https://open.spotify.com/track/4mG3gwyKd9f1sKtSak6RlX) | [Waza no limite](https://open.spotify.com/artist/0J285nKY53u8GAlvywTPQb), [Elgor Beatz](https://open.spotify.com/artist/4AtBPAJFtolERPERU23kOr) | [TANTINE](https://open.spotify.com/album/3N0RPDXIALceLrVLs6JwZB) | 2:19 | 2025-09-11 |  |
 | [Taper](https://open.spotify.com/track/7HL2kiOEhzfzk5lgfM6awf) | [T Dedonia](https://open.spotify.com/artist/4fM0A0AOHK6Psa6k9u5aYu), [Fior 2 Bior](https://open.spotify.com/artist/1Aa3gpwuQeWHXUkjCa6BrL) | [Taper](https://open.spotify.com/album/0BHIK4JCHd1M2cItRHQbzc) | 2:05 | 2025-10-23 | 2025-11-14 |

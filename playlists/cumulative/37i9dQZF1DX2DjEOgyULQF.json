@@ -3919,6 +3919,24 @@
     },
     {
       "album": {
+        "name": "Replenishment",
+        "url": "https://open.spotify.com/album/1XFw4PQF125xpP1HWG176c"
+      },
+      "artists": [
+        {
+          "name": "Eldrelder",
+          "url": "https://open.spotify.com/artist/3TrVbyS2m9PyOxsjoPos7Z"
+        }
+      ],
+      "date_added": "2025-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188105,
+      "name": "Replenishment",
+      "url": "https://open.spotify.com/track/1S3ESlCqX7kC0JIUfYMTZs"
+    },
+    {
+      "album": {
         "name": "Resonated",
         "url": "https://open.spotify.com/album/7H9nGdRXUSlxTmdFJCO3P7"
       },
@@ -4398,7 +4416,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 154411,
       "name": "Sleep Shine",
       "url": "https://open.spotify.com/track/1NSpVywHEnNOG53Nkz3jV5"

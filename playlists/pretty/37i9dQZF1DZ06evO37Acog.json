@@ -1,12 +1,12 @@
 {
   "description": "This is Ramon Ayala Y Sus Bravos Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 84410,
+  "num_followers": 84436,
   "original_name": "This Is Ramon Ayala Y Sus Bravos Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aVMWAAAAAADlmnbF2T0yRFcuA3O7oKRR",
+  "snapshot_id": "aVRngAAAAAB9/en5FWTacgPS2xBhO+rs",
   "tracks": [
     {
       "added_at": null,
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
         }
       ],
-      "duration_ms": 171413,
-      "name": "Mi Golondrina",
-      "url": "https://open.spotify.com/track/28cEjHqqh494m594SwLyvt"
+      "duration_ms": 206000,
+      "name": "Recu\u00e9rdame Y Ven A M\u00ed",
+      "url": "https://open.spotify.com/track/5zvQpeFatZ1BaDHG6o2GT2"
     },
     {
       "added_at": null,
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
         }
       ],
-      "duration_ms": 206000,
-      "name": "Recu\u00e9rdame Y Ven A M\u00ed",
-      "url": "https://open.spotify.com/track/5zvQpeFatZ1BaDHG6o2GT2"
+      "duration_ms": 171413,
+      "name": "Mi Golondrina",
+      "url": "https://open.spotify.com/track/28cEjHqqh494m594SwLyvt"
     },
     {
       "added_at": null,
@@ -315,6 +315,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mi Piquito De Oro",
+        "url": "https://open.spotify.com/album/2HgZcYF9GN2rhgyVuBuzJu"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 129066,
+      "name": "Mi Piquito De Oro",
+      "url": "https://open.spotify.com/track/0w6iI2pCqX2beV22BqXFCz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PURA MUSICA DE CANTINA",
         "url": "https://open.spotify.com/album/17S07IHyOj067N2Q7ffz4Z"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 224360,
       "name": "Seis Pies Abajo",
       "url": "https://open.spotify.com/track/4gMEDmaYG8JaM2Au8RzNqp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mi Piquito De Oro",
-        "url": "https://open.spotify.com/album/2HgZcYF9GN2rhgyVuBuzJu"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 129066,
-      "name": "Mi Piquito De Oro",
-      "url": "https://open.spotify.com/track/0w6iI2pCqX2beV22BqXFCz"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CELEBRANDO CINCO DE MAYO",
-        "url": "https://open.spotify.com/album/2rETwAEuv7UBSkbvBJL1ag"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 198973,
-      "name": "Juramos Amarnos",
-      "url": "https://open.spotify.com/track/0SQOdZUCfqKk8j3xBWMW2A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Imprescindibles",
         "url": "https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 209893,
       "name": "Dos Monedas",
       "url": "https://open.spotify.com/track/4epespdttWqUpIk35qEoMY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CELEBRANDO CINCO DE MAYO",
+        "url": "https://open.spotify.com/album/2rETwAEuv7UBSkbvBJL1ag"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 198973,
+      "name": "Juramos Amarnos",
+      "url": "https://open.spotify.com/track/0SQOdZUCfqKk8j3xBWMW2A"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PURA MUSICA DE CANTINA",
-        "url": "https://open.spotify.com/album/17S07IHyOj067N2Q7ffz4Z"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 177826,
-      "name": "Me Sacaron Del Tenampa",
-      "url": "https://open.spotify.com/track/6Z5SW8KHzO5A1ETdYkVZhi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Casas de Madera",
         "url": "https://open.spotify.com/album/0WqOmaMS6vSvntxrzo22EM"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 235706,
       "name": "M\u00e1ndame A La Tumba",
       "url": "https://open.spotify.com/track/0b0cFie5DLwExBHq0Oo7oi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PURA MUSICA DE CANTINA",
+        "url": "https://open.spotify.com/album/17S07IHyOj067N2Q7ffz4Z"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 177826,
+      "name": "Me Sacaron Del Tenampa",
+      "url": "https://open.spotify.com/track/6Z5SW8KHzO5A1ETdYkVZhi"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > håll det 100.
 
-2,142 songs - 3 day 19 hr 36 min
+2,143 songs - 3 day 19 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1924,6 +1924,7 @@
 | [Toxic Som Mig](https://open.spotify.com/track/10zXU83iXFK6ZfRXqTHFuU) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [2029](https://open.spotify.com/album/0TDK7EuOZbSfnSp9bEaNMw) | 2:31 | 2024-04-18 | 2024-08-02 |
 | [Toxic Trait](https://open.spotify.com/track/7rfeJISPi9ooiYXd3ixF5x) | [Zius](https://open.spotify.com/artist/2fuavXGFyYPgM3UrbCnBKA), [SHYDE](https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv) | [Toxic Trait](https://open.spotify.com/album/6rJ94HFzo02g1iEviHWNNH) | 2:30 | 2023-08-24 | 2023-09-22 |
 | [TOÙTOÙ](https://open.spotify.com/track/3Xvc8YRyYzBm5KFEWHUQoM) | [HAVAL](https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt), [Manny Flaco](https://open.spotify.com/artist/2vduakOON9BipyWkPSBo4S) | [TOÙTOÙ](https://open.spotify.com/album/4xEOdo2eFdxKxE5QY0KMKq) | 2:25 | 2022-10-27 | 2023-02-24 |
+| [Track 1](https://open.spotify.com/track/6d1w0l1afodsaHwivuN9RV) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU) | [](https://open.spotify.com/album/null) | 0:00 | 2026-01-01 |  |
 | [TRAFIK](https://open.spotify.com/track/0OnLCD4GQgKpRApYTTBeH0) | [G3B](https://open.spotify.com/artist/4lyxajlLjjUI4EkluxTAA4) | [TRAFIK](https://open.spotify.com/album/1cV9kfX5WMqBDfchc7JDPy) | 1:44 | 2025-04-24 | 2025-07-08 |
 | [TRAFIKERA](https://open.spotify.com/track/5m7EUgH8J2iiDvCM7FE5Fl) | [R10](https://open.spotify.com/artist/4SpQbTURvPQJbkmKqBkD6m) | [TRAFIKERA](https://open.spotify.com/album/16xKDjWnDIhvUrUWD3PONZ) | 2:03 | 2025-10-23 |  |
 | [Trafikfara](https://open.spotify.com/track/0wAWvTep02Pzkc2kGJhWpN) | [Bilkow](https://open.spotify.com/artist/0EhQSGkoxasQQAGINGktFz), [SHYDE](https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv) | [Trafikfara](https://open.spotify.com/album/1h4xtwLx9dbwkHm3IvGTCD) | 2:12 | 2023-03-16 | 2023-05-12 |

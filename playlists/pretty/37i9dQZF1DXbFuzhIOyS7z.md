@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFuzhIOyS7z.md) - [plain]
 
 > インスタ音楽メディア『<a href="https://www.instagram.com/playlist\_of/">PLAYLIST</a>』が失恋をテーマに選曲。<br/>音楽はいつでもあなたに寄り添ってくれるから今はこのプレイリストを聴いてたくさん泣こう。
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,572 likes - 40 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,576 likes - 40 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFuzhIOyS7z.md) - [plain]
 | 39 | [白い恋人達](https://open.spotify.com/track/5hFHG3UfvrOfhcV8anlU8g) | [Keisuke Kuwata](https://open.spotify.com/artist/6YIqgghQqnkNne8BKQpW6v) | [TOP OF THE POPS](https://open.spotify.com/album/0Hi41ccpXRu4Httjo6O83v) | 4:40 |
 | 40 | [夜空。](https://open.spotify.com/track/25tazZGq5Z6wodjgr34i2X) | [miwa](https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5), [Hazzie](https://open.spotify.com/artist/087QaLOI8MKeT9yHgjPu7P) | [miwa ballad collection 〜graduation〜](https://open.spotify.com/album/5D1383tjQ1AX9SJgRYCkxX) | 5:10 |
 
-Snapshot ID: `AAAAADqZCmc958uqSnL7LlpQi05m7LVv`
+Snapshot ID: `AAAAAGUqm2YU574SdZxjQ2ZDhrbsMUJE`

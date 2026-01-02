@@ -4,7 +4,7 @@
 
 > All of it
 
-1,095 songs - 2 day 19 hr 8 min
+1,096 songs - 2 day 19 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -898,6 +898,7 @@
 | [Sweet Surrender](https://open.spotify.com/track/7be37I5s79jQKQCWovxUpL) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Back Home Again](https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm) | 5:29 | 2025-09-09 |  |
 | [Swimming Pools \(Drank\)](https://open.spotify.com/track/6REbwUNlppTfcnV4d4ZoZi) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Swimming Pools \(Drank\)](https://open.spotify.com/album/2XPrwlaAHHXnJzP9tBcIzH) | 4:07 | 2025-06-02 |  |
 | [Swing Lynn](https://open.spotify.com/track/3VCXx37jNGNOMns6z2OnvJ) | [Harmless](https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd) | [I'm Sure](https://open.spotify.com/album/6KXHP4v4hYN887RGeQwc8b) | 5:21 | 2025-06-02 |  |
+| [T.L.C\. Tender Love and Care](https://open.spotify.com/track/5eeLVsF0xGfAIrZQsi51m7) | [Jimmie Rodgers](https://open.spotify.com/artist/7bKOOOKEkE918wKOQEhYnp) | [Honeycomb](https://open.spotify.com/album/5x5n3mLrFMZ1wndB73ytYj) | 2:18 | 2026-01-01 |  |
 | [Take A Slice](https://open.spotify.com/track/37adYGaYaAWTGhBaOzX4Fh) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [How To Be A Human Being](https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy) | 3:49 | 2025-06-02 |  |
 | [Take Me Down Easy](https://open.spotify.com/track/3fVFJSXz0luBbj2HTAbtsd) | [James Henry Jr.](https://open.spotify.com/artist/02ZZnYUAoQF7J6zhk6G4i9) | [Take Me Down Easy](https://open.spotify.com/album/0mRUp4HxDtJQ3prK2VLYNu) | 4:08 | 2025-06-02 |  |
 | [Take Me Home, Country Roads \- Rerecorded](https://open.spotify.com/track/2xYlyywNgefLCRDG8hlxZq) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [The John Denver Collection, Vol\. 1: Take Me Home Country Roads](https://open.spotify.com/album/5erROp1lRW31aNxj9PbAUf) | 3:17 | 2025-06-02 |  |

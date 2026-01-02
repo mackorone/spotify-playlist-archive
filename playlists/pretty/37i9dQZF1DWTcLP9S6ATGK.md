@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Dee Lestari
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,395 likes - 96 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,436 likes - 96 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

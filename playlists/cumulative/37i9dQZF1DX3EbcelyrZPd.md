@@ -2,9 +2,9 @@
 
 ### [Bongo Flava](https://open.spotify.com/playlist/37i9dQZF1DX3EbcelyrZPd)
 
-> Get your fill of vibes straight out of Tanzania\. Cover: Marioo
+> Get your fill of vibes straight out of Tanzania\. Cover: Harmonize
 
-619 songs - 1 day 11 hr 19 min
+621 songs - 1 day 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -437,6 +437,7 @@
 | [Pisi \- remix](https://open.spotify.com/track/788uP7aH98lMiRYIadYW6h) | [Moni Centrozone](https://open.spotify.com/artist/4J9pax1Vo3sb2nhlA1B5wZ), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Pisi](https://open.spotify.com/album/1mp2vUSOmcgGJlfrRtZxV7) | 3:50 | 2024-10-24 | 2025-04-18 |
 | [Pita Kule](https://open.spotify.com/track/45rces9Jy2Oskyl3D3VaFP) | [Jaivah](https://open.spotify.com/artist/6MKLtjYnjCD7u87mPsvJo3), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Pita Kule](https://open.spotify.com/album/0NHnGLPDGZKXhtnB6ouLZv) | 3:42 | 2023-08-10 | 2023-11-24 |
 | [Poa \(feat\. Nandy\)](https://open.spotify.com/track/1aW5IycpHP6fLvAVGZrSLR) | [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2), [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Poa \(feat\. Nandy\)](https://open.spotify.com/album/0zMg1nq3fE289pRFwJe1H2) | 2:49 | 2024-07-04 | 2025-01-17 |
+| [Pom Pom](https://open.spotify.com/track/3wqGL8Mf7Nugx4Zlr2GzBW) | [Bruce Melodie](https://open.spotify.com/artist/2esEiOAGqbIDlRwwUK2wnP), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Brown Joel](https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM) | [Pom Pom](https://open.spotify.com/album/3nvfWWbqlQW2cNZPfSOOIa) | 4:17 | 2026-01-01 |  |
 | [Pomp Pomp](https://open.spotify.com/track/7c80qxudZjhs4niCgOi0Gi) | [Sani Boy](https://open.spotify.com/artist/7koc9wMjyVw3KNLwc6bSKb), [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a) | [Pomp Pomp](https://open.spotify.com/album/2VgxfRdeb2X6nihfFXMhrM) | 3:06 | 2022-02-10 | 2022-11-11 |
 | [Pounds & Dollars](https://open.spotify.com/track/3AZgT5PLKg2MvDZosiUbtK) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Wouter Kellerman](https://open.spotify.com/artist/10Rq3Te2tos6wrd84zWxml) | [Pounds & Dollars](https://open.spotify.com/album/2Qo6netL2LkiOFuQlLCP0I) | 2:55 | 2023-09-14 | 2024-01-26 |
 | [Promise](https://open.spotify.com/track/5osKVS3oNDJnSalftBBkut) | [zedrim](https://open.spotify.com/artist/5pgSj80GuNJOsXQOJ27yTy), [MABANTU](https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8) | [Promise](https://open.spotify.com/album/1M6HGLoIQe7iHTNfKjhcpZ) | 3:20 | 2023-12-21 | 2024-04-26 |
@@ -551,6 +552,7 @@
 | [Ubuyu](https://open.spotify.com/track/1mU5xiFnlk7E8cMT5hV0u2) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [Ubuyu](https://open.spotify.com/album/2bE5kJZMMkfcr3cPB5GV9V) | 3:47 | 2025-07-03 |  |
 | [Ujana](https://open.spotify.com/track/4aldg54TvCNPThgji8Syda) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Ujana](https://open.spotify.com/album/6z3OZUCoYCuYGnB3eru2nm) | 3:36 | 2024-08-15 | 2025-07-11 |
 | [Ukiniita](https://open.spotify.com/track/1a17ieOkzl7EYM93imiYqR) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [Ukiniita](https://open.spotify.com/album/4jwiLihnEPa7w679H0F1Uq) | 3:32 | 2025-02-27 | 2025-09-20 |
+| [Uko Wapi](https://open.spotify.com/track/1j0UtHCxXqWzN43aPK1M64) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Chicco](https://open.spotify.com/artist/0k8qF9yLQtIcgozNjrIk7f) | [Uko Wapi](https://open.spotify.com/album/2lv7GEEu2x3IhahukEp89E) | 4:58 | 2026-01-01 |  |
 | [Umashonisa](https://open.spotify.com/track/3C5yyZPpSJ2hXcHyCeWBcg) | [DJ Jukk](https://open.spotify.com/artist/32nFfq390c9vyz1ZqDGpZl), [Gerkey Rsa](https://open.spotify.com/artist/5UhNvlj87U204yUCZ9UVBT), [Sbuda Maleather](https://open.spotify.com/artist/0vOrz3mJAqpGuC53lbEOeq), [Ice Beats Slide](https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5) | [Umashonisa](https://open.spotify.com/album/0bIORtLrbcwx8pZqd6IPqE) | 5:53 | 2025-06-05 | 2025-10-03 |
 | [Umechelewa](https://open.spotify.com/track/58K662tAMuRzVnceOHqosF) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Umechelewa](https://open.spotify.com/album/0HnBMqn6CPfPw7Np2hjGNe) | 3:28 | 2024-01-18 | 2024-11-22 |
 | [Unachezaje](https://open.spotify.com/track/3sSn4VlK4rLyZEZ4dQUs1B) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Unachezaje](https://open.spotify.com/album/0e7GwW5CU4zGhf813sQIi4) | 2:41 | 2021-12-16 | 2022-06-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHHO92ZJ8z.md) - [plain]
 
 > Francis Mercier's favorite tracks\. Updated regularly\. Curated by Francis Mercier\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,654 likes - 70 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,691 likes - 70 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHHO92ZJ8z.md) - [plain]
 | 69 | [Ana \- Miishu Flow Mix](https://open.spotify.com/track/4U45umvC1FJZqehZ4tWoBv) | [Miishu](https://open.spotify.com/artist/4v2RSTDKxzZ928MWSYCOVf), [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW) | [Ana](https://open.spotify.com/album/2qlImWqOWHl9pypU2Qdwuq) | 7:36 |
 | 70 | [Butterflies](https://open.spotify.com/track/6cBs0IiuiBT0172vOcc7GE) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [Butterflies](https://open.spotify.com/album/2C74sO3IjfXbiEPKD6kjQo) | 2:49 |
 
-Snapshot ID: `AAAAALrjkrSCl81HBCCxlUmltxaw57Xb`
+Snapshot ID: `AAAAAAInyRQq1OuUvPC0Z4qp8n9mfO1U`

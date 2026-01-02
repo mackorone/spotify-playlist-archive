@@ -4,7 +4,7 @@
 
 > 
 
-8,261 songs - 20 day 23 hr 35 min
+8,262 songs - 20 day 23 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,6 +288,7 @@
 | [Adoration of the Magi \(feat\. Crystal "Røvél" Torres\)](https://open.spotify.com/track/4L9f5OaFKcRMIX7Lmn1XxH) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf), [Crystal "Røvél" Torres](https://open.spotify.com/artist/35Y0aE1IMTWVAPzlqRi3SW) | [Tetsuo & Youth](https://open.spotify.com/album/7F58zK8t8whSFjX5X09d28) | 5:06 | 2025-01-04 |  |
 | [Adventure in the Wooly Kingdom](https://open.spotify.com/track/26NIrZaXWrERpMNQ1cwajn) | [Wuthering Waves](https://open.spotify.com/artist/4NJxtQzTTeO3ObGlBcxVAh), [沐可Linda](https://open.spotify.com/artist/5cI1KAMsGNyEp9xjVhOe5F) | [Into the Depths](https://open.spotify.com/album/7IY2C495boRx3P5bTmdt3N) | 1:37 | 2025-10-06 |  |
 | [Adventure of a Lifetime](https://open.spotify.com/track/69uxyAqqPIsUyTO8txoP2M) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Head Full of Dreams](https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw) | 4:23 | 2024-12-14 |  |
+| [AEAO](https://open.spotify.com/track/3TPvrMAd1hbPRXuHCRX0Pl) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [A Giant Step](https://open.spotify.com/album/6SFd0NeIrUfZoqCSjoFpe8) | 5:16 | 2026-01-01 |  |
 | [Affection](https://open.spotify.com/track/4eVNSHRazoHgfYGv3AYFyZ) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Affection](https://open.spotify.com/album/5MdPMGnu8UZlDrrF0nQEKL) | 5:11 | 2024-12-14 |  |
 | [Africa](https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Toto IV](https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D) | 4:55 | 2025-01-15 |  |
 | [African Giant](https://open.spotify.com/track/5Yu8xJwe9SPpFY2s3jDnvj) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF) | 3:04 | 2024-12-11 |  |
@@ -3506,7 +3507,7 @@
 | [Le duc sous l'eau](https://open.spotify.com/track/7nORD62JlJeBSv52adDi11) | [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Genshin Impact \- Pelagic Primaevality \(Original Game Soundtrack\)](https://open.spotify.com/album/66LefdTRwCA7Mj7LCcCGk3) | 1:57 | 2025-11-29 |  |
 | [Lead The Wave](https://open.spotify.com/track/78rJ1sCb3Rj27CLxjzL8xU) | [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [The Last Rocket](https://open.spotify.com/album/5XRCcUfwtLNQflDd9cfz4U) | 3:25 | 2025-01-15 |  |
 | [Leaf \(feat\. Main Attrakionz\)](https://open.spotify.com/track/1StRJBkcyMbf07b5TQRwYM) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Main Attrakionz](https://open.spotify.com/artist/3jdktm1PgLu9u3tS1YUKrW) | [LIVE.LOVE.A$AP](https://open.spotify.com/album/4l6EPpP9hjQrLb8qNB9eC5) | 4:43 | 2024-12-05 |  |
-| [Leak](https://open.spotify.com/track/1c8PjFzb4RWfAXgupKgbba) | [mynameisntjmack](https://open.spotify.com/artist/7HY1ISUuRotG01FVu0PKWh) | [Leak](https://open.spotify.com/album/0Y4eRphwFM8HKhh1FBAQXU) | 4:22 | 2025-01-04 |  |
+| [Leak](https://open.spotify.com/track/1c8PjFzb4RWfAXgupKgbba) | [mynameisntjmack](https://open.spotify.com/artist/6phySPoSPIe25pNTqM6wWK) | [Leak](https://open.spotify.com/album/0Y4eRphwFM8HKhh1FBAQXU) | 4:22 | 2025-01-04 |  |
 | [Leaked](https://open.spotify.com/track/0W64NfLrIsRTAFObko6uJx) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [True 2 Myself](https://open.spotify.com/album/1bCBZ8LedqwVYOLDLrRbbY) | 3:40 | 2025-01-03 |  |
 | [Lean 4 Real \(feat\. Skepta\)](https://open.spotify.com/track/1JgkiUg9mSXSwcb5Gbi4Ur) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Die Lit](https://open.spotify.com/album/7dAm8ShwJLFm9SaJ6Yc58O) | 2:57 | 2025-01-15 |  |
 | [Lean Beef Patty](https://open.spotify.com/track/3FsqOTQT3d7c296eStnEnl) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [SCARING THE HOES](https://open.spotify.com/album/3u20OXh03DjCUzbf8XcGTq) | 1:47 | 2025-01-03 |  |
@@ -3969,7 +3970,7 @@
 | [Mature Opinion \- Illuminus Remix](https://open.spotify.com/track/16ZgOpZcwzlpW8m46aYibe) | [Kenichiro Nishihara](https://open.spotify.com/artist/4en7e0KjSkfa4sfLDhTc3m), [Daichi Diez](https://open.spotify.com/artist/0uMoAuC33PiiSJ1MssjX3J) | [Illuminus](https://open.spotify.com/album/4W4zqUKy9i7ILrZ8cO9QSR) | 4:43 | 2025-01-03 |  |
 | [Maui Wowie](https://open.spotify.com/track/0Hnm7mnmqOLCIgvbMpM4Ev) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [A Kid Named Cudi](https://open.spotify.com/album/2blXZboio9DF8VC39LmUag) | 2:23 | 2025-01-03 |  |
 | [Max B \(feat\. Joe Fox\)](https://open.spotify.com/track/4wuOxtRDeD9YiQOcmgay7e) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Joe Fox](https://open.spotify.com/artist/2Dbnk0YRTPpKu46XzMf9nu) | [AT.LONG.LAST.A$AP](https://open.spotify.com/album/3arNdjotCvtiiLFfjKngMc) | 4:01 | 2024-12-05 |  |
-| [May I Ask](https://open.spotify.com/track/3BajoSb3TjPbcOC873OjbD) | [Luke Chiang](https://open.spotify.com/artist/1dPSMH55yhvjYIwqCP4iDj), [Alexis Kim](https://open.spotify.com/artist/5EzAjCalQrWFkclhRS1Xap) | [May I Ask](https://open.spotify.com/album/7brg84HpKixGklKe5aeFAG) | 3:50 | 2025-04-12 |  |
+| [May I Ask](https://open.spotify.com/track/3BajoSb3TjPbcOC873OjbD) | [Luke Chiang](https://open.spotify.com/artist/1dPSMH55yhvjYIwqCP4iDj), [Alexis Kim](https://open.spotify.com/artist/1J5Cilewi4rwV57HnGFmiL) | [May I Ask](https://open.spotify.com/album/7brg84HpKixGklKe5aeFAG) | 3:50 | 2025-04-12 |  |
 | [May I Have This Dance](https://open.spotify.com/track/3yPD6CHGE1xdJBWyu6ZBKk) | [Francis and the Lights](https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI) | [Farewell, Starlite!](https://open.spotify.com/album/5gc2S04vG0rEGnTaTwOvus) | 2:52 | 2025-01-03 |  |
 | [Maybach](https://open.spotify.com/track/0Due109sq8Ld9G5xkWRubf) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [EVOL](https://open.spotify.com/album/3jJKDKdlwRS584zUlHV2Ly) | 3:40 | 2025-01-03 |  |
 | [MAYDAY \(feat\. Ryo from Crystal Lake\)](https://open.spotify.com/track/2wJJNgD6GrKoQ435VxTRv6) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM), [Ryo](https://open.spotify.com/artist/3krgsgh3jIRarpbhVP0nUY) | [THE SIDE EFFECTS](https://open.spotify.com/album/1BGWyz8x5J2qChX1X0r60e) | 3:47 | 2025-05-26 |  |

@@ -2,9 +2,9 @@
 
 ### [Best Life](https://open.spotify.com/playlist/37i9dQZF1DWYVURwQHUqnN)
 
-> Photo : Jul
+> Photo : Meryl
 
-436 songs - 20 hr 25 min
+438 songs - 20 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Arrêt de bus](https://open.spotify.com/track/02JNE5wHq5i3SxunmG8o2W) | [Zkr](https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Arrêt de bus](https://open.spotify.com/album/6j6AvDHkAZEZSaUMuaemtC) | 2:54 | 2025-08-07 | 2025-12-05 |
 | [Au soleil](https://open.spotify.com/track/6DPYjtaohmAGKLxVqXQ4DW) | [L'Algérino](https://open.spotify.com/artist/7kyIBL1EYouLqC8vw7IOui), [Josas](https://open.spotify.com/artist/13IyCFiPKhpVejuTyNulgU) | [Au soleil](https://open.spotify.com/album/4jddVwMMZONHYaFprJZnPS) | 2:49 | 2025-06-12 | 2025-09-05 |
 | [Avec elle](https://open.spotify.com/track/2cjMxpKD3fAmM0iZPWHJri) | [GLK](https://open.spotify.com/artist/3dH7pcBScIJQboDyMzUzez) | [Avec elle](https://open.spotify.com/album/3zVzY7IdtotQVKGCPOUiBg) | 2:46 | 2023-10-12 | 2024-02-23 |
+| [Aventadoré](https://open.spotify.com/track/0jMh5CUDXCHhUoLJntKyHW) | [HT](https://open.spotify.com/artist/50pqrGq4DqUlNmsaCfRexx) | [Aventadoré / Cardio](https://open.spotify.com/album/4sFh5XFaItICHzVQeaArTj) | 2:16 | 2026-01-01 |  |
 | [Bababa](https://open.spotify.com/track/1wE89iLKbmFgFDg2eXHjbB) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Bababa](https://open.spotify.com/album/21IiEYSwxh1wAMM11zplOS) | 2:29 | 2024-09-26 | 2025-01-17 |
 | [Balade](https://open.spotify.com/track/7C13bFjFdELL8ioTMtVbZ5) | [1D1R](https://open.spotify.com/artist/4xTTjdhKC6SxsxKwPXMuKN), [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Meraki](https://open.spotify.com/album/0wl6FnaTJw4TXzjL1PT5G6) | 3:13 | 2025-03-20 | 2025-09-19 |
 | [Ballon d'or](https://open.spotify.com/track/79VtonGgvoyENawzktwOrt) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5), [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5) | [Ballon d'or](https://open.spotify.com/album/3WScTyJbc0q5X7xb9rei6O) | 2:11 | 2025-05-29 | 2025-06-20 |
@@ -55,7 +56,7 @@
 | [BLOQUÉ](https://open.spotify.com/track/4eGoCBOGEAQty5nfWRC0VD) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [BLOQUÉ](https://open.spotify.com/album/5HZSEWInouI6tWp1C3ousL) | 3:21 | 2025-11-06 |  |
 | [Blue](https://open.spotify.com/track/74Sbxr7GNTQM8RyPEmp9Nq) | [Kaneki](https://open.spotify.com/artist/6y9D9asiDbnfHSZETC6pkZ), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [Blue](https://open.spotify.com/album/029ymf5WOrdIbvXv1EdmSN) | 3:07 | 2023-09-28 | 2024-06-14 |
 | [Boba Fett](https://open.spotify.com/track/0OWpt66m9ca6Az6j4Y6org) | [Lhiroyd](https://open.spotify.com/artist/30ISUZ5Xkto4CyeClftpG8) | [Boba Fett](https://open.spotify.com/album/7pulrmXWBkLyVPxYsWiJDa) | 2:22 | 2024-05-30 | 2024-06-28 |
-| [Bonbon](https://open.spotify.com/track/3Lasn0k10J5Xx3nlez8N6h) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Bonbon](https://open.spotify.com/album/1ADfN6Y8bD0kgEtMYcm6dn) | 2:21 | 2025-11-27 |  |
+| [Bonbon](https://open.spotify.com/track/3Lasn0k10J5Xx3nlez8N6h) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Bonbon](https://open.spotify.com/album/1ADfN6Y8bD0kgEtMYcm6dn) | 2:21 | 2025-11-27 | 2026-01-02 |
 | [Boom](https://open.spotify.com/track/2dQF7iPdLpfjKwlTg4iJRS) | [DJ Flash](https://open.spotify.com/artist/00SMMqx16Zxt7osuqbv3aW), [Bolémvn](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7), [Mallaury](https://open.spotify.com/artist/0zfnSBlLA4HJshaxPu2zPV) | [Boom](https://open.spotify.com/album/1mOHNR8j8s8jPuAm9NwIzw) | 2:37 | 2025-07-17 | 2025-08-09 |
 | [Bora](https://open.spotify.com/track/4ImIVsQQOIbMFI1d6ZGD6q) | [Klem Schen](https://open.spotify.com/artist/2h5IzYxNFBtXa3PsnV370c) | [Bora](https://open.spotify.com/album/47SP5GlzOBGG0JJNMMHycz) | 2:15 | 2025-08-07 | 2025-08-29 |
 | [Bottega](https://open.spotify.com/track/4DNTHdu4F7eTNuhyLQvEzG) | [Bello&Dallas](https://open.spotify.com/artist/2zW6nGPGBEaGNENvqaw9lo) | [Bottega](https://open.spotify.com/album/7bhBG3c39CJvnXiDiHzvPt) | 2:59 | 2025-05-01 | 2025-11-07 |
@@ -244,6 +245,7 @@
 | [Million](https://open.spotify.com/track/2tBdFaBdoT64Y2NvZxWOqW) | [Oussama](https://open.spotify.com/artist/473J09XfjAXYQPbYQQS9Ml) | [Million](https://open.spotify.com/album/34PgqU853NOE06O6q5LywJ) | 2:10 | 2025-01-02 | 2025-01-24 |
 | [MILLIONAIRE](https://open.spotify.com/track/1mzaG8KB0Lkr3qt4MRwY1D) | [GLK](https://open.spotify.com/artist/3dH7pcBScIJQboDyMzUzez) | [MILLIONAIRE](https://open.spotify.com/album/2MQwYNQzv30MwGAbDzfXFD) | 2:41 | 2024-12-19 | 2025-01-10 |
 | [Mimi](https://open.spotify.com/track/3iqcqAwtnurPNJAcvwVIyt) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [D&P à vie](https://open.spotify.com/album/1REfaUH0Ic7VnohlnySdpF) | 3:39 | 2025-05-01 | 2025-10-24 |
+| [Minimum](https://open.spotify.com/track/5HEkSv2L8iOAzjgGX8K3HC) | [TRZ](https://open.spotify.com/artist/7cLUwy0R7N8q1YSjHYZdrU), [Eve La Marka](https://open.spotify.com/artist/17tjZtS3t6aWW4qGVz4DuB) | [PENSE AIGLE](https://open.spotify.com/album/4hm0CmzKLC2TUDvx0Pxnvk) | 2:55 | 2026-01-01 |  |
 | [MISS LILY'S](https://open.spotify.com/track/6lVMLEpSkWrJcLG6RYPmfr) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [KINTSUGI](https://open.spotify.com/album/7o1zpKWhdh1YCvDmPGQ1qt) | 3:19 | 2024-11-28 | 2025-06-13 |
 | [Mode avion](https://open.spotify.com/track/5m8Q6aKhrqmoF64xlPcZva) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Mode avion](https://open.spotify.com/album/1NdAgf1yROs0BrcFvb9Jzc) | 2:24 | 2025-08-28 |  |
 | [Mon amour](https://open.spotify.com/track/1reRAKrwnfUmbNCrTUGLdn) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Et si j'échoue ?](https://open.spotify.com/album/2GdJaFHImgt0XXk8eIukxI) | 2:40 | 2025-05-15 | 2025-06-27 |
@@ -285,7 +287,7 @@
 | [On Va Taper ÇA](https://open.spotify.com/track/51rFwalR3noTQYC7os1ySQ) | [BSF](https://open.spotify.com/artist/1t9UFK5cJL4JP0jndHqmon) | [On Va Taper ÇA](https://open.spotify.com/album/58hVE9Cu4LN31dXStuq6xr) | 2:24 | 2025-08-28 |  |
 | [Only](https://open.spotify.com/track/11qJsp80m355SdbMcIEKFB) | [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Nés Pour Briller](https://open.spotify.com/album/12Krn9B4yJD9QXS8XbMTPo) | 2:26 | 2025-08-21 | 2025-12-12 |
 | [Otra](https://open.spotify.com/track/0x9KqMgyO6SzBf4fLH9gsX) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Otra](https://open.spotify.com/album/7CDNVS0VbByb886MZVPeuF) | 2:14 | 2024-05-02 | 2024-06-28 |
-| [Oublier](https://open.spotify.com/track/0COOpYVrr8jb7eR7GWZWZa) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Africa Jungle](https://open.spotify.com/album/7cM1ZIqhREKIjrp71Z0EGl) | 2:24 | 2025-09-18 |  |
+| [Oublier](https://open.spotify.com/track/0COOpYVrr8jb7eR7GWZWZa) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [Africa Jungle](https://open.spotify.com/album/7cM1ZIqhREKIjrp71Z0EGl) | 2:24 | 2025-09-18 | 2026-01-02 |
 | [Ounahi](https://open.spotify.com/track/10RVRLULhVViUii6tFjIcm) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [Darvaza](https://open.spotify.com/album/5Qschmq4Bg6DGahK5Zm4xU) | 2:51 | 2024-05-16 | 2024-06-28 |
 | [Pa Pa Paw](https://open.spotify.com/track/7heoPFrtuH6JU6AcfzjWHp) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie), [SARAH SEY](https://open.spotify.com/artist/3PSGIWWzhs6TnocrDnG2qs) | [BĒYĀH](https://open.spotify.com/album/6y0rmE7jkFS9cB03Gw0qKV) | 3:35 | 2025-06-12 |  |
 | [Paddle](https://open.spotify.com/track/3tIib0N5bPFPlt9DmUwLvh) | [TKS 2G](https://open.spotify.com/artist/26ZKmgHKJWQdnSKUZCVEKa), [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD) | [Paddle](https://open.spotify.com/album/3N0kExPq7hOiPnp3oRfecd) | 2:18 | 2025-10-09 |  |

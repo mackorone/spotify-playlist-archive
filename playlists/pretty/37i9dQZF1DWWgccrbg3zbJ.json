@@ -1,6 +1,6 @@
 {
   "description": "The classic recordings from Bossa Nova. Cover: Jo\u00e3o Gilberto",
-  "num_followers": 541587,
+  "num_followers": 541994,
   "original_name": "Bossa Nova Classics",
   "owner": {
     "name": "Spotify",
@@ -147,6 +147,38 @@
     {
       "added_at": "2025-12-09 10:41:43",
       "album": {
+        "name": "Nova Bossa Nova",
+        "url": "https://open.spotify.com/album/7CgmxyKY28uY1Fgj01ZmMa"
+      },
+      "artists": [
+        {
+          "name": "Marcos Valle",
+          "url": "https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk"
+        }
+      ],
+      "duration_ms": 245200,
+      "name": "Nova Bossa Nova",
+      "url": "https://open.spotify.com/track/68K8VaazzURRjLf84yaOA3"
+    },
+    {
+      "added_at": "2025-12-09 10:41:43",
+      "album": {
+        "name": "Amoroso",
+        "url": "https://open.spotify.com/album/2SQ2YrWlVLAZ05jogsM5bH"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 220360,
+      "name": "Tin Tin Por Tin Tin",
+      "url": "https://open.spotify.com/track/54nMyXP7zFHWc2nrThkZ6v"
+    },
+    {
+      "added_at": "2025-12-09 10:41:43",
+      "album": {
         "name": "Alvorada",
         "url": "https://open.spotify.com/album/0AAHmJXk4tvaE0e3jINJho"
       },
@@ -171,38 +203,6 @@
       "duration_ms": 179853,
       "name": "Tarde em itapu\u00e3",
       "url": "https://open.spotify.com/track/1Qwzw8hbVa28uXYxHeamaT"
-    },
-    {
-      "added_at": "2025-12-09 10:41:43",
-      "album": {
-        "name": "Amoroso",
-        "url": "https://open.spotify.com/album/2SQ2YrWlVLAZ05jogsM5bH"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 220360,
-      "name": "Tin Tin Por Tin Tin",
-      "url": "https://open.spotify.com/track/54nMyXP7zFHWc2nrThkZ6v"
-    },
-    {
-      "added_at": "2025-12-09 10:41:43",
-      "album": {
-        "name": "Nova Bossa Nova",
-        "url": "https://open.spotify.com/album/7CgmxyKY28uY1Fgj01ZmMa"
-      },
-      "artists": [
-        {
-          "name": "Marcos Valle",
-          "url": "https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk"
-        }
-      ],
-      "duration_ms": 245200,
-      "name": "Nova Bossa Nova",
-      "url": "https://open.spotify.com/track/68K8VaazzURRjLf84yaOA3"
     },
     {
       "added_at": "2025-12-09 10:41:43",
@@ -259,6 +259,22 @@
     {
       "added_at": "2025-12-09 10:41:43",
       "album": {
+        "name": "Chico Buarque De Hollanda N\u00ba4",
+        "url": "https://open.spotify.com/album/3dbh9K8CNUq8BQcL0VxbZf"
+      },
+      "artists": [
+        {
+          "name": "Chico Buarque",
+          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
+        }
+      ],
+      "duration_ms": 147840,
+      "name": "Gente Humilde",
+      "url": "https://open.spotify.com/track/24OF9ihv97VwNXQZ2gGy8v"
+    },
+    {
+      "added_at": "2025-12-09 10:41:43",
+      "album": {
         "name": "O Poeta e o Viol\u00e3o",
         "url": "https://open.spotify.com/album/4cOgC6zXMJwrgmIvC6GJfF"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 246453,
       "name": "Tristeza",
       "url": "https://open.spotify.com/track/2TjjcQQWZlbY5Hy46zQvAU"
-    },
-    {
-      "added_at": "2025-12-09 10:41:43",
-      "album": {
-        "name": "Chico Buarque De Hollanda N\u00ba4",
-        "url": "https://open.spotify.com/album/3dbh9K8CNUq8BQcL0VxbZf"
-      },
-      "artists": [
-        {
-          "name": "Chico Buarque",
-          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
-        }
-      ],
-      "duration_ms": 147840,
-      "name": "Gente Humilde",
-      "url": "https://open.spotify.com/track/24OF9ihv97VwNXQZ2gGy8v"
     },
     {
       "added_at": "2025-12-09 10:41:43",
@@ -355,6 +355,22 @@
     {
       "added_at": "2025-12-09 10:41:43",
       "album": {
+        "name": "Nara",
+        "url": "https://open.spotify.com/album/6GupTGdWq2CPBZTn28joxE"
+      },
+      "artists": [
+        {
+          "name": "Nara Le\u00e3o",
+          "url": "https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3"
+        }
+      ],
+      "duration_ms": 128733,
+      "name": "Diz Que Fui Por Ai",
+      "url": "https://open.spotify.com/track/6BAlnEh3wnUMpIBiuQQHYg"
+    },
+    {
+      "added_at": "2025-12-09 10:41:43",
+      "album": {
         "name": "O Melhor da Parceria",
         "url": "https://open.spotify.com/album/15gm0vAtfWhgwIYQYTHcpz"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 160080,
       "name": "Insensatez",
       "url": "https://open.spotify.com/track/6NAsiy8bVS2hx95ofthfSV"
-    },
-    {
-      "added_at": "2025-12-09 10:41:43",
-      "album": {
-        "name": "Nara",
-        "url": "https://open.spotify.com/album/6GupTGdWq2CPBZTn28joxE"
-      },
-      "artists": [
-        {
-          "name": "Nara Le\u00e3o",
-          "url": "https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3"
-        }
-      ],
-      "duration_ms": 128733,
-      "name": "Diz Que Fui Por Ai",
-      "url": "https://open.spotify.com/track/6BAlnEh3wnUMpIBiuQQHYg"
     },
     {
       "added_at": "2025-12-09 10:41:43",
@@ -582,31 +582,31 @@
         {
           "name": "Caetano Veloso",
           "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        },
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
         }
       ],
-      "duration_ms": 187626,
-      "name": "Samba De Verao",
-      "url": "https://open.spotify.com/track/18jzP0rBaHJ2gjVhZ5OvKn"
+      "duration_ms": 308906,
+      "name": "Desde Que O Samba E Samba",
+      "url": "https://open.spotify.com/track/1SL9baz3WrN29MAkeyvaHn"
     },
     {
       "added_at": "2025-12-09 10:41:43",
       "album": {
-        "name": "The Astrud Gilberto Album",
-        "url": "https://open.spotify.com/album/0GcP2Ly5pnuNFdk5lLgDGB"
+        "name": "Gilbertos Samba",
+        "url": "https://open.spotify.com/album/5aTQQVvZkNcSi0K5R4glLO"
       },
       "artists": [
         {
-          "name": "Astrud Gilberto",
-          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
-        },
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
         }
       ],
-      "duration_ms": 139253,
-      "name": "Agua De Beber",
-      "url": "https://open.spotify.com/track/4SSADZr3VsQeoqNbjLXw8W"
+      "duration_ms": 195200,
+      "name": "Aos P\u00e9s da Cruz",
+      "url": "https://open.spotify.com/track/5JpzCoU3507wF3znYcQbFA"
     },
     {
       "added_at": "2025-12-09 10:41:43",
@@ -627,18 +627,22 @@
     {
       "added_at": "2025-12-09 10:41:43",
       "album": {
-        "name": "Gilbertos Samba",
-        "url": "https://open.spotify.com/album/5aTQQVvZkNcSi0K5R4glLO"
+        "name": "The Astrud Gilberto Album",
+        "url": "https://open.spotify.com/album/0GcP2Ly5pnuNFdk5lLgDGB"
       },
       "artists": [
         {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+          "name": "Astrud Gilberto",
+          "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
+        },
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
         }
       ],
-      "duration_ms": 195200,
-      "name": "Aos P\u00e9s da Cruz",
-      "url": "https://open.spotify.com/track/5JpzCoU3507wF3znYcQbFA"
+      "duration_ms": 139253,
+      "name": "Agua De Beber",
+      "url": "https://open.spotify.com/track/4SSADZr3VsQeoqNbjLXw8W"
     },
     {
       "added_at": "2025-12-09 10:41:43",
@@ -666,15 +670,11 @@
         {
           "name": "Caetano Veloso",
           "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        },
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
         }
       ],
-      "duration_ms": 308906,
-      "name": "Desde Que O Samba E Samba",
-      "url": "https://open.spotify.com/track/1SL9baz3WrN29MAkeyvaHn"
+      "duration_ms": 187626,
+      "name": "Samba De Verao",
+      "url": "https://open.spotify.com/track/18jzP0rBaHJ2gjVhZ5OvKn"
     },
     {
       "added_at": "2025-12-09 10:41:43",
@@ -1079,8 +1079,8 @@
     {
       "added_at": "2025-12-09 10:41:43",
       "album": {
-        "name": "Summer Samba! - Jo\u00e3o Gilberto",
-        "url": "https://open.spotify.com/album/4pUsMoa4fayB4dCGpNrVLc"
+        "name": "Bossa Nova Essentials",
+        "url": "https://open.spotify.com/album/2hVlKPHcnN1xpdnIQOfTfi"
       },
       "artists": [
         {
@@ -1088,9 +1088,9 @@
           "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         }
       ],
-      "duration_ms": 136066,
-      "name": "De Conversa Em Conversa",
-      "url": "https://open.spotify.com/track/61hcUAElBx2rcOCoaldQNj"
+      "duration_ms": 122866,
+      "name": "O pato",
+      "url": "https://open.spotify.com/track/6u6E9DZgzyyo1oFofn7zIs"
     },
     {
       "added_at": "2025-12-09 10:41:43",
@@ -1251,8 +1251,8 @@
     {
       "added_at": "2025-12-09 10:41:43",
       "album": {
-        "name": "Bossa Nova Essentials",
-        "url": "https://open.spotify.com/album/2hVlKPHcnN1xpdnIQOfTfi"
+        "name": "Summer Samba! - Jo\u00e3o Gilberto",
+        "url": "https://open.spotify.com/album/4pUsMoa4fayB4dCGpNrVLc"
       },
       "artists": [
         {
@@ -1260,9 +1260,9 @@
           "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
         }
       ],
-      "duration_ms": 122866,
-      "name": "O pato",
-      "url": "https://open.spotify.com/track/6u6E9DZgzyyo1oFofn7zIs"
+      "duration_ms": 136066,
+      "name": "De Conversa Em Conversa",
+      "url": "https://open.spotify.com/track/61hcUAElBx2rcOCoaldQNj"
     },
     {
       "added_at": "2025-12-09 10:41:43",

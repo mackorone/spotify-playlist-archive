@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "Low Fidelity",
+        "url": "https://open.spotify.com/album/6NYA18h0U4PtpFe5hOYNoE"
+      },
+      "artists": [
+        {
+          "name": "Vann's Nebula",
+          "url": "https://open.spotify.com/artist/3weSFV7MGGpEDX60DTEzlM"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169377,
+      "name": "Are We Dreaming?",
+      "url": "https://open.spotify.com/track/0DeP3IiS666gBlTv6mT9NX"
+    },
+    {
+      "album": {
         "name": "Nomads",
         "url": "https://open.spotify.com/album/3poDscUob4x5S9Gu9RlTlm"
       },

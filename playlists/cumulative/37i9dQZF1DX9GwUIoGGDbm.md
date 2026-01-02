@@ -4,7 +4,7 @@
 
 > Music from "KAGUYA\-SAMA: LOVE IS WAR"\. ©赤坂アカ／集英社・かぐや様は告らせたい製作委員会
 
-82 songs - 3 hr 15 min
+83 songs - 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [覚悟](https://open.spotify.com/track/0TPFL7I4lD6hzvUDW62OLO) | [羽岡 佳](https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg) | [KAGUYA Music Collection Season1](https://open.spotify.com/album/4UgkQZpHgzcOUh1ttGed8p) | 1:15 | 2023-03-30 |  |
 | [許してはいけないわ](https://open.spotify.com/track/6x2AEwJiu06xz6f20brCYd) | [羽岡 佳](https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg) | [KAGUYA Music Collection Season3](https://open.spotify.com/album/2CZRN2qtmkuRtbeSpCgHTd) | 1:32 | 2023-03-30 |  |
 | [誕生日](https://open.spotify.com/track/15vAw4BHpWGgEJpXqlyCYo) | [羽岡 佳](https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg) | [KAGUYA Music Collection Season2](https://open.spotify.com/album/3kNV1Ib8pEDUf7gjB2Iznj) | 2:11 | 2023-03-30 |  |
+| [赤と青](https://open.spotify.com/track/0TWgH1UWUPj3FCycsSmSt9) | [四宮かぐや\(CV:古賀葵\)](https://open.spotify.com/artist/5dsjmUaFAqJvIN8PJ1n3Ay) | [赤と青](https://open.spotify.com/album/2KNtCxiHwzQiXAez1ATpjO) | 3:58 | 2026-01-01 |  |
 | [間接キ……](https://open.spotify.com/track/5nq7LH2smwREjrQtUziT6d) | [羽岡 佳](https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg) | [KAGUYA Music Collection Season1](https://open.spotify.com/album/4UgkQZpHgzcOUh1ttGed8p) | 1:09 | 2023-03-30 |  |
 | [間違っている](https://open.spotify.com/track/6l2ut29Xk75agCI73QuwdO) | [羽岡 佳](https://open.spotify.com/artist/2qy5FNKKaZXXGh8fsQWVrg) | [KAGUYA Music Collection Season2](https://open.spotify.com/album/3kNV1Ib8pEDUf7gjB2Iznj) | 2:19 | 2023-03-30 |  |
 | [風に吹かれて](https://open.spotify.com/track/3VEwy927d2YEqnNqP6xwfk) | [福原 遥](https://open.spotify.com/artist/1Iemsg3wz7BPY2ZEQ9lKRc) | [風に吹かれて](https://open.spotify.com/album/6ZbwErHeIXrRGIMk1sPtY6) | 4:31 | 2023-03-30 |  |

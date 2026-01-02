@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EUcyVKIE73.md) - [plain]
 
 > Selections of North Indian classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,907 likes - 50 songs - 13 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,911 likes - 50 songs - 13 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EUcyVKIE73.md) - [plain]
 | 11 | [Hamri Atariya](https://open.spotify.com/track/2q7bd1N2zVbZClXJRffuEc) | [Rita Dev](https://open.spotify.com/artist/1jnBR0jw8PVk11eOsjfm8E) | [Hamri Atariya](https://open.spotify.com/album/6KogqquOoLjlxLI9H8rBeg) | 10:36 |
 | 12 | [Hari Dhwani \- Raga Lalit \- Alap \(Sthai\)](https://open.spotify.com/track/2nEDjd2E33WtY89cBlcGXp) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon), [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg), [Rupak Kulkarni](https://open.spotify.com/artist/629Hq4ALLZV2JwkMX6C2Ff) | [Hari Dhwani \- Raga Lalit](https://open.spotify.com/album/2x8LytN5vmjbuESvmBp27S) | 9:55 |
 | 13 | [Raga Shuddh Kalyan](https://open.spotify.com/track/61OYo9t6Pq8U9uLRgGNulT) | [Kaushiki Chakrabarty, Yogesh Samsi, Brajeshwar Mukherjee, Yogesh Dutt](https://open.spotify.com/artist/0MmJO9ML6eMRRUUWsJf5oQ) | [Swar Sadhna](https://open.spotify.com/album/303Pkb83Anu8cMovTksOen) | 35:12 |
-| 14 | [Raga Kirwani \- Alap Gat \- Teental](https://open.spotify.com/track/2Gq5kWJ1NRufo0QOfVyGTj) | [Iqubal Huein](https://open.spotify.com/artist/0CnxFv42PMTnwphcBkCdnA), [Brij Narayan](https://open.spotify.com/artist/5VJZyz56NQuUuxB7Hd0urs) | [Brij Narayan](https://open.spotify.com/album/72ZMJKTHsYFQRZBM0iL5kw) | 10:13 |
-| 15 | [Rag Misra Mand](https://open.spotify.com/track/0ppq8cAPs91MBoUb4vMiCw) | [Ustad Ali Akbar Khan / Pandit Nikhil Banerjee](https://open.spotify.com/artist/1jelB3sYBf9MGpcd0GUlns), [Mahapurush Misra](https://open.spotify.com/artist/29kLzsMucI6Ao40Yk7jT5B) | [AMMP Signature Series Volume 4 \- Rag Manj Khammaj / Rag Misra Mand](https://open.spotify.com/album/1Td23rJHTglRiuGmiGO6W2) | 21:30 |
+| 14 | [Rag Misra Mand](https://open.spotify.com/track/0ppq8cAPs91MBoUb4vMiCw) | [Ustad Ali Akbar Khan / Pandit Nikhil Banerjee](https://open.spotify.com/artist/1jelB3sYBf9MGpcd0GUlns), [Mahapurush Misra](https://open.spotify.com/artist/29kLzsMucI6Ao40Yk7jT5B) | [AMMP Signature Series Volume 4 \- Rag Manj Khammaj / Rag Misra Mand](https://open.spotify.com/album/1Td23rJHTglRiuGmiGO6W2) | 21:30 |
+| 15 | [Raga Kirwani \- Alap Gat \- Teental](https://open.spotify.com/track/2Gq5kWJ1NRufo0QOfVyGTj) | [Iqubal Huein](https://open.spotify.com/artist/0CnxFv42PMTnwphcBkCdnA), [Brij Narayan](https://open.spotify.com/artist/5VJZyz56NQuUuxB7Hd0urs) | [Brij Narayan](https://open.spotify.com/album/72ZMJKTHsYFQRZBM0iL5kw) | 10:13 |
 | 16 | [Dhun \(Dadra And Fast Teental\) \- Live](https://open.spotify.com/track/68H7Gfjexf4wuGswkcwfdU) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Ravi Shankar](https://open.spotify.com/artist/4uE9TgBW0AaPDHL1qYbtd0) | [The Ravi Shankar Collection: Live: Ravi Shankar At The Monterey International Pop Festival](https://open.spotify.com/album/3sXkygk2kpWlNAA2neCvW0) | 19:41 |
 | 17 | [Jadoo Bharey Torey Nain](https://open.spotify.com/track/5eCIqqupfqS0o6zzbIQbDo) | [Lakshmi Shankar, Aneesh Pradhan](https://open.spotify.com/artist/3C4TFbL0xDifxWQv1Xkq0I) | [Shringar: The Many Moods of Love \- Volume 3](https://open.spotify.com/album/61cPFAeHlRQz4lQFIBZ1zr) | 12:44 |
 | 18 | [Chandrakaush Alap](https://open.spotify.com/track/4hrp2BLqRV6XO2oOp5IVeY) | [Nikhil Banerjee](https://open.spotify.com/artist/7ieM2QOG3mf89WSTAfGvu1) | [Chandrakaush Khamaj 1967](https://open.spotify.com/album/4fY7XyZhcMPXyqXo5FOkh7) | 20:24 |

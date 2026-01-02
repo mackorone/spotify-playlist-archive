@@ -2,9 +2,9 @@
 
 ### [Indie Highlights](https://open.spotify.com/playlist/37i9dQZF1DWVwRuJjs9A3S)
 
-> Det senaste och bästa från världen av indie, med Albin Lee Meldau & Arvid Nero.
+> Det senaste och bästa från världen av indie, med Dina Ögon.
 
-1,062 songs - 2 day 13 hr 27 min
+1,068 songs - 2 day 13 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Caroline](https://open.spotify.com/track/49LGe1i7eznRGUyOHD4tVM) | [School of X](https://open.spotify.com/artist/4VL17UwE7ktJcG04WdbR9B) | [Caroline](https://open.spotify.com/album/32mo9QQbaLGnv7C8kXMNxx) | 3:10 | 2024-08-29 | 2024-10-11 |
 | [carousel](https://open.spotify.com/track/7y0NTuyelHDAzWogEKpcMr) | [bob junior](https://open.spotify.com/artist/2fug6DU1q1uRkPG9L7r2Ne) | [carousel](https://open.spotify.com/album/7s1Vh1Cj9v1JAugQDBEqL1) | 1:31 | 2024-12-19 | 2025-02-14 |
 | [Carried Away](https://open.spotify.com/track/50ASFow3YrVJJpqdzaM1YD) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Equus Caballus](https://open.spotify.com/album/7dJPDPUi94jA91VxG4vZb3) | 3:27 | 2025-05-08 | 2025-10-10 |
+| [Castle in the Sky](https://open.spotify.com/track/0Fu7u1PnSWonsvaGGkFKMG) | [Freyr](https://open.spotify.com/artist/0XEC2bQgKvaq09BZFPDA9y) | [Castle in the Sky](https://open.spotify.com/album/2qyX75sM8jTRpbxZEeWMJp) | 2:35 | 2026-01-01 |  |
 | [catch these fists](https://open.spotify.com/track/11wHmDneCglIJZRMOMUhUw) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [catch these fists](https://open.spotify.com/album/3rRVJqXI4bcFPfICrJX496) | 3:08 | 2025-04-03 | 2025-06-20 |
 | [change](https://open.spotify.com/track/1uEkIgetYekD0SlhFCq4jd) | [.blank](https://open.spotify.com/artist/6CIY504cTi6MgI1ZHaxd7w) | [vol\. 1](https://open.spotify.com/album/6OVXBSdzPWg2c3enhPXkl1) | 2:39 | 2025-11-13 |  |
 | [Change of the Wind](https://open.spotify.com/track/6y0czURsSIIdDXnWlhgqxf) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Change of the Wind](https://open.spotify.com/album/0oj2fOqxUFC0M23WMw4FXc) | 3:49 | 2025-12-04 |  |
@@ -354,6 +355,8 @@
 | [GUSTO](https://open.spotify.com/track/3DzgoqqPwtCxvyqKCj9hq7) | [Boko Yout](https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP) | [GUSTO](https://open.spotify.com/album/6nBSHPBq1iqXBjeQ4hVCPO) | 2:21 | 2025-09-04 |  |
 | [Guy Fawkes Tesco Dissociation](https://open.spotify.com/track/6bPvOeqJRytjU4KFl6Wzdy) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [You Are The Morning](https://open.spotify.com/album/4amlS1zcZeSWkphaXn3lEq) | 4:36 | 2025-01-16 | 2025-04-18 |
 | [Gå för glory](https://open.spotify.com/track/5JF5WXIyAvGAhMVI8Rn5AG) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Gå för glory](https://open.spotify.com/album/0O1Vm8GzLMmuaG73QKDq0a) | 3:26 | 2025-01-16 | 2025-04-18 |
+| [Göteborg](https://open.spotify.com/track/5wCwRorgVytF1HnOw9IwF9) | [Valter Nilsson](https://open.spotify.com/artist/2MFXMIAlMW2pAyybxRNMln) | [Göteborg](https://open.spotify.com/album/71pxG9wcH5tpumzPTrREIK) | 3:48 | 2026-01-01 |  |
+| [Hack i häl](https://open.spotify.com/track/5M4LcdQI697sSHvxTG647W) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Hack i häl](https://open.spotify.com/album/3ljQtz5B7PtcWF0qZlL2Dk) | 3:46 | 2026-01-01 |  |
 | [Hail Mary](https://open.spotify.com/track/2HXAf5wdE19W5Ts2FEgfvn) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Hail Mary](https://open.spotify.com/album/0otPuP68aRr3SdALoF8iKU) | 2:46 | 2025-06-19 | 2025-10-17 |
 | [Halfway Gone](https://open.spotify.com/track/1rfX0CC3vDK6K5SgVmAZYx) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [Halfway Gone](https://open.spotify.com/album/5ciWbAgjpNqsG3COHjBjxo) | 4:06 | 2025-10-30 |  |
 | [HANDS](https://open.spotify.com/track/64QFjvDeg3YVf9oGkASVx3) | [WAAX](https://open.spotify.com/artist/1KaaogmGXWK1Qi3WR81Tmi) | [HANDS](https://open.spotify.com/album/2KTzR18cs1Oj7US8wUXFvi) | 2:55 | 2025-11-07 |  |
@@ -767,6 +770,7 @@
 | [Sad Boiii](https://open.spotify.com/track/5LOUGL5zAmtxRQIJBmuUay) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Sad Boiii](https://open.spotify.com/album/52WgEY29coP4ZokwAqmYbR) | 2:46 | 2024-09-05 | 2024-11-01 |
 | [Sad Makeup](https://open.spotify.com/track/74eE402hFv13hLBw5iPQds) | [Yukimi](https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Sad Makeup](https://open.spotify.com/album/3JoOdAaR90CSTlTJS6yp4X) | 3:50 | 2025-01-16 | 2025-03-28 |
 | [Sage](https://open.spotify.com/track/7f4mbgKFT9UWnPAtdGp8gc) | [Alexander Grandjean](https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp) | [Sage](https://open.spotify.com/album/2ADozOTc5xtC3XGGyGt4aR) | 2:46 | 2024-07-25 | 2024-08-30 |
+| [Sailboat \(feat\. chloe moriondo\)](https://open.spotify.com/track/6Mr6xOUz5beVAGwOS31NkA) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Sailboat \(feat\. chloe moriondo\)](https://open.spotify.com/album/60THqqLuqBeheWV1eda4im) | 3:00 | 2026-01-01 |  |
 | [Sailor Song](https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit) | 3:31 | 2024-08-01 | 2025-04-18 |
 | [Salamina](https://open.spotify.com/track/77n2LesdLx0krLwVgsVIWn) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Salamina](https://open.spotify.com/album/7EFHatQ7I0LuZNNFmwIFeV) | 2:56 | 2024-07-25 | 2024-08-30 |
 | [Sally, When The Wine Runs Out](https://open.spotify.com/track/2J051fjLklkoPbzOoTAACZ) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore \(The Longest Goodbye\)](https://open.spotify.com/album/5gZFprukMkMJiEKEgf3q1f) | 3:38 | 2025-02-13 | 2025-04-18 |
@@ -815,6 +819,7 @@
 | [SIGHTS](https://open.spotify.com/track/2svUIV9N4rXk5V7cyA9jbS) | [Jhon Allan](https://open.spotify.com/artist/2ktaLonDF6CapHBx6IP1vS) | [SIGHTS](https://open.spotify.com/album/7fehq5D80Esh91dT8G87oe) | 3:06 | 2025-04-03 | 2025-06-20 |
 | [Sign Of A Past Life](https://open.spotify.com/track/16CVD7S9yn2saipUrua93k) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [Your Hand Forever Checking On My Fever](https://open.spotify.com/album/3NEBgveq4crE0VXBZVw4Q9) | 5:42 | 2024-06-27 | 2024-08-02 |
 | [Sign on the Window](https://open.spotify.com/track/6faCTa1oSQFuuyzvf4ZOIX) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [Sign on the Window](https://open.spotify.com/album/4g6vDw5oX8bU9JWKilMYIx) | 3:03 | 2025-06-05 | 2025-10-17 |
+| [Signal Fire](https://open.spotify.com/track/1jWOzFlHcYJtZLXEspRT6t) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Signal Fire](https://open.spotify.com/album/2AuWJhaS4IdzErMHI2djAp) | 3:02 | 2026-01-01 |  |
 | [Silver Heart](https://open.spotify.com/track/3VRl0Gv158qthcg30K3Hdy) | [Ronia](https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z) | [Silver Heart](https://open.spotify.com/album/6lrh5oMgt7bWxPo9oyDZd3) | 3:49 | 2025-02-20 | 2025-04-25 |
 | [Silver Sable](https://open.spotify.com/track/2F6vx9sOQJE264gYgn9dxr) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [X's](https://open.spotify.com/album/10i6evsxSFs2fuPQRWvI6I) | 3:51 | 2024-07-25 | 2024-09-19 |
 | [Silver Spurs](https://open.spotify.com/track/7ytBUmRVIWRyxN858NJbPL) | [Mon Rayon](https://open.spotify.com/artist/72T708Fc8U7CNXT1ScaWmv) | [Post Romantic Stress Disorder](https://open.spotify.com/album/7gPxXgatRE0KRZn4nVFFxl) | 2:40 | 2025-02-27 | 2025-04-04 |
@@ -959,6 +964,7 @@
 | [Too Strange For The Air \(From the Motion Picture "Vejen Hjem"\)](https://open.spotify.com/track/4ouU2YHgbaFNVU84Hip1Od) | [Alex Vargas](https://open.spotify.com/artist/3kdU3J8t1HUPZqFyScP8SF) | [Too Strange For The Air \(From the Motion Picture "Vejen Hjem"\)](https://open.spotify.com/album/21ljhUbsZ6Vym1xzNbLPHM) | 4:29 | 2024-12-05 | 2025-02-07 |
 | [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 | 2024-06-27 | 2024-08-16 |
 | [Took the Train 'til the End](https://open.spotify.com/track/0JhqyLHTwuFbl34Z2nQZWL) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [I Miss You, I Do](https://open.spotify.com/album/0T0s1ct3KmVkQg5dAd8ILU) | 3:59 | 2025-03-07 | 2025-05-16 |
+| [Track 1](https://open.spotify.com/track/7EEblegDErhNEFgIyyeWk9) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [](https://open.spotify.com/album/null) | 0:00 | 2026-01-01 |  |
 | [Trailers after dark](https://open.spotify.com/track/2Tr7s79xvkh70uA1pW2z1a) | [Finn Wolfhard](https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG) | [Trailers after dark](https://open.spotify.com/album/46s1sq3nEJiTRq3okup3N4) | 3:18 | 2025-04-10 | 2025-07-04 |
 | [Trappa till himlen](https://open.spotify.com/track/140hfWLjtZQyRlYY7j2auV) | [Terra ](https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1), [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Trappa till himlen](https://open.spotify.com/album/1VNQheQ9ALB6PU7Y3cr6M8) | 3:56 | 2025-04-24 | 2025-10-10 |
 | [trash paradise, moonlight](https://open.spotify.com/track/1T906XVun8dtijlUmrE4E0) | [haisonne](https://open.spotify.com/artist/0SGm5nFXYtiL33xIJTW7jZ) | [trash paradise, moonlight](https://open.spotify.com/album/29T2Ys3uewbbuMva3CbCsw) | 3:40 | 2024-06-27 | 2024-08-09 |

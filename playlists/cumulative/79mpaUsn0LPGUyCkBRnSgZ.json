@@ -1525,6 +1525,24 @@
     },
     {
       "album": {
+        "name": "A Ghost Is Born",
+        "url": "https://open.spotify.com/album/1RCxMEn5jFeUWbof3vy8oC"
+      },
+      "artists": [
+        {
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        }
+      ],
+      "date_added": "2026-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331200,
+      "name": "At Least That's What You Said",
+      "url": "https://open.spotify.com/track/263uAmDYMkK8pU07QAnBKe"
+    },
+    {
+      "album": {
         "name": "REACTOR",
         "url": "https://open.spotify.com/album/0EuXXwAyrzBp9FFicvBfsp"
       },
@@ -5364,6 +5382,24 @@
       "duration_ms": 219710,
       "name": "Femininomenon",
       "url": "https://open.spotify.com/track/53IRnAWx13PYmoVYtemUBS"
+    },
+    {
+      "album": {
+        "name": "FEMME FATALE",
+        "url": "https://open.spotify.com/album/7q2GxttTFDWOihvnSWdwWw"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250162,
+      "name": "Femme Fatale",
+      "url": "https://open.spotify.com/track/2T5ELHiRW8pGcWyJaurFgJ"
     },
     {
       "album": {
@@ -16549,6 +16585,24 @@
     },
     {
       "album": {
+        "name": "Music Can Hear Us",
+        "url": "https://open.spotify.com/album/6Jq7lj2FjFmUuTjQllSTL0"
+      },
+      "artists": [
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 473476,
+      "name": "The Universe in a Nutshell",
+      "url": "https://open.spotify.com/track/5h19UPuV2Zbe0ERx4nQ0Bx"
+    },
+    {
+      "album": {
         "name": "Whatever People Say I Am, That's What I'm Not",
         "url": "https://open.spotify.com/album/0ndGMh4twJNzPpr5XtHTR2"
       },
@@ -16816,7 +16870,7 @@
       ],
       "date_added": "2025-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 118184,
       "name": "time (a dream deferred)",
       "url": "https://open.spotify.com/track/7pQmOaawg2DMtlnIWc9SNY"
@@ -16954,7 +17008,7 @@
       ],
       "date_added": "2025-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 185760,
       "name": "Tom Violence",
       "url": "https://open.spotify.com/track/0IqY07yVeGSFXyIlHGqjyE"

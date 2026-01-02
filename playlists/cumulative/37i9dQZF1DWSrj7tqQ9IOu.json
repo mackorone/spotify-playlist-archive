@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Le meilleur de l'indie fran\u00e7ais. Cover : Solann",
+  "description": "Le meilleur de l'indie fran\u00e7ais. Cover : M\u00f8me",
   "name": "Indie France",
   "tracks": [
     {
@@ -1289,6 +1289,28 @@
     },
     {
       "album": {
+        "name": "Blue Summer",
+        "url": "https://open.spotify.com/album/1Rdsc0SBiK6RpNrhAfJM18"
+      },
+      "artists": [
+        {
+          "name": "M\u00f8me",
+          "url": "https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX"
+        },
+        {
+          "name": "Ricky Ducati",
+          "url": "https://open.spotify.com/artist/66OCo8OcuPNrW6QLfmn7PE"
+        }
+      ],
+      "date_added": "2026-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220533,
+      "name": "Blue Summer",
+      "url": "https://open.spotify.com/track/2STdCfjSC4CB9TakulkWFD"
+    },
+    {
+      "album": {
         "name": "postcard from L.A.",
         "url": "https://open.spotify.com/album/2dIT5g4FDrWXxKscvZkJs5"
       },
@@ -1514,7 +1536,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-01-02",
       "duration_ms": 170901,
       "name": "Briller dans la nuit",
       "url": "https://open.spotify.com/track/60raG6S56xV1mTgNdIJHg1"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5iwkYfnHAGMEFLiHFFGnP4.md) - [plain]
 
 > HITS 2025 / 2026 🔥 All of today's top chart hits and hot new releases from around the world\. Hit ♡ to hear the biggest new songs first! Cover: Sombr
 
-[Topsify](https://open.spotify.com/user/topsify) - 619,506 likes - 60 songs - 3 hr 14 min
+[Topsify](https://open.spotify.com/user/topsify) - 619,887 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

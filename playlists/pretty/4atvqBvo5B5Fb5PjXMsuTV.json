@@ -1,13 +1,29 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 31 Dec 19:05 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 02 Jan 04:04 UTC.",
   "num_followers": 102,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAW2/6z4xjQXWlXN8bh3bAo1SzcfXsH",
+  "snapshot_id": "AAAW3R6IXkhD50ODowB9p28TIpNtc6cB",
   "tracks": [
+    {
+      "added_at": "2026-01-02 04:04:39",
+      "album": {
+        "name": "Gut Punch",
+        "url": "https://open.spotify.com/album/7EPAooBQphOBWLEnYrljAn"
+      },
+      "artists": [
+        {
+          "name": "Nick Jonas",
+          "url": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
+        }
+      ],
+      "duration_ms": 188386,
+      "name": "Gut Punch",
+      "url": "https://open.spotify.com/track/0kG4t24uQCfcC1aZL3LyFu"
+    },
     {
       "added_at": "2025-12-31 19:05:01",
       "album": {
@@ -815,22 +831,6 @@
       "duration_ms": 183965,
       "name": "ANTIDOTE",
       "url": "https://open.spotify.com/track/0PvlSVpiDLnJbI1wmApqqQ"
-    },
-    {
-      "added_at": "2025-12-08 09:06:14",
-      "album": {
-        "name": "\u9edd\u580a\u306e\u7948\u308a - Anima immortalis est.",
-        "url": "https://open.spotify.com/album/3wxkAwHlNN6Zrs3acdstMY"
-      },
-      "artists": [
-        {
-          "name": "Imperial Circus Dead Decadence",
-          "url": "https://open.spotify.com/artist/5bgW1AysTzHav20snaPkyp"
-        }
-      ],
-      "duration_ms": 472510,
-      "name": "\u9edd\u580a\u306e\u7948\u308a - Anima immortalis est.",
-      "url": "https://open.spotify.com/track/2J21nXxsyATLoFcEF6AvwT"
     }
   ],
   "unique_name": "New Singles Now",

@@ -2,9 +2,9 @@
 
 ### [Indie France](https://open.spotify.com/playlist/37i9dQZF1DWSrj7tqQ9IOu)
 
-> Le meilleur de l'indie français\. Cover : Solann
+> Le meilleur de l'indie français\. Cover : Møme
 
-764 songs - 1 day 16 hr 57 min
+765 songs - 1 day 17 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Blinds](https://open.spotify.com/track/5heIFh4Abh0PfvoFviNuc5) | [Nina Versyp](https://open.spotify.com/artist/6MEkTyXq5nV6jeGlirVJjy) | [Blinds](https://open.spotify.com/album/5n40ewDmIxFxsBFTSHyQh8) | 2:45 | 2024-02-01 | 2024-07-12 |
 | [Bloqué](https://open.spotify.com/track/4km8XxyYCw5CSHM5H36K47) | [Météo Mirage](https://open.spotify.com/artist/76eO2ty9LXEKOITbJq6pCc) | [Bloqué](https://open.spotify.com/album/4AghyVNlGwrNpvj8uL7cPG) | 3:11 | 2021-12-16 | 2022-04-08 |
 | [Blue Left Hand](https://open.spotify.com/track/3AHX4K5PPO81j4VF0uWe7n) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Blue Left Hand](https://open.spotify.com/album/1q4CM3Kxe4VcCNP1TSX5lP) | 3:45 | 2025-01-16 | 2025-04-18 |
+| [Blue Summer](https://open.spotify.com/track/2STdCfjSC4CB9TakulkWFD) | [Møme](https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX), [Ricky Ducati](https://open.spotify.com/artist/66OCo8OcuPNrW6QLfmn7PE) | [Blue Summer](https://open.spotify.com/album/1Rdsc0SBiK6RpNrhAfJM18) | 3:40 | 2026-01-01 |  |
 | [blueberry stains](https://open.spotify.com/track/6YPIckxQBC4boFjWSAtlkb) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [postcard from L.A.](https://open.spotify.com/album/2dIT5g4FDrWXxKscvZkJs5) | 3:06 | 2022-07-28 | 2022-09-23 |
 | [Bluer than Blue](https://open.spotify.com/track/4DGTdk3mJzEfFMRtDKGR1l) | [Mélanie Pain](https://open.spotify.com/artist/2Sk0H4rS0QuQESESHELFy0) | [Bluer than Blue](https://open.spotify.com/album/2ZgeMiduh0cVx7Vxhqz1c6) | 3:19 | 2025-08-28 | 2025-09-12 |
 | [Blurry Moon \- Edit](https://open.spotify.com/track/5VDiA4KWTS0sdTW5ae0x4n) | [Charlotte Gainsbourg](https://open.spotify.com/artist/2rBcvLKWCZs9w1qIWv560v) | [Blurry Moon](https://open.spotify.com/album/0KqAu7TrZEBB4DofE8HYDp) | 3:37 | 2025-09-18 |  |
@@ -87,7 +88,7 @@
 | [Bossa Supernova](https://open.spotify.com/track/5OaX0qy9jy6cDerIpMQF4o) | [Napkey](https://open.spotify.com/artist/4MismZLKqMb2Qb2HjK4sdE) | [Bossa Supernova](https://open.spotify.com/album/5x7YwAgcrxksduNQwllHZf) | 3:12 | 2023-03-23 | 2023-04-28 |
 | [BPM](https://open.spotify.com/track/7Cd1MBmhMqmTbvRl4A1uaG) | [KLON](https://open.spotify.com/artist/5wpi76n2HLEBtDpiEdUwss) | [BPM](https://open.spotify.com/album/6o7G1i2yGIA8VJsaKoBHCh) | 2:58 | 2024-02-15 | 2024-09-06 |
 | [Brain empty/heart fucked](https://open.spotify.com/track/5ZKsOqztR15ukpcFGSH8VW) | [BLOWSOM](https://open.spotify.com/artist/7GG8nWQhwrbobKgJKTaUjI), [Luke Noa](https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe) | [Brain empty/heart fucked](https://open.spotify.com/album/72P9MbmIOjmHql5eHn0djV) | 2:39 | 2022-12-15 | 2023-01-27 |
-| [Briller dans la nuit](https://open.spotify.com/track/60raG6S56xV1mTgNdIJHg1) | [Frànçois & The Atlas Mountains](https://open.spotify.com/artist/1mHTS3stAYCszPZ2PRa8QU) | [Briller dans la nuit](https://open.spotify.com/album/22qXFaLpU2yxUOOS5Z6Nev) | 2:50 | 2025-11-13 |  |
+| [Briller dans la nuit](https://open.spotify.com/track/60raG6S56xV1mTgNdIJHg1) | [Frànçois & The Atlas Mountains](https://open.spotify.com/artist/1mHTS3stAYCszPZ2PRa8QU) | [Briller dans la nuit](https://open.spotify.com/album/22qXFaLpU2yxUOOS5Z6Nev) | 2:50 | 2025-11-13 | 2026-01-02 |
 | [Brown Eyes](https://open.spotify.com/track/0E3JebQh1CbRvY9zPc668m) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Brown Eyes](https://open.spotify.com/album/42hKD3BSIxJEHJAsD6RwsE) | 3:17 | 2025-01-16 | 2025-02-21 |
 | [Burn](https://open.spotify.com/track/2zkXYQrGkffMqvQvYrtxg8) | [Waves](https://open.spotify.com/artist/6OAt6nE577DixeDhfNFVkH) | [Burn](https://open.spotify.com/album/7HHPXRjZpDWRG262GcKyQb) | 4:25 | 2022-05-19 | 2022-07-01 |
 | [Burnin'](https://open.spotify.com/track/70YFYf4eukW4P25PxFF4Oe) | [Møme](https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX), [Ricky Ducati](https://open.spotify.com/artist/66OCo8OcuPNrW6QLfmn7PE) | [Burnin'](https://open.spotify.com/album/7i5vXSPjvgiciGKqXakw4D) | 3:46 | 2025-06-05 | 2025-11-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGHXujRpFTl.md) - [plain]
 
 > Dream BIG\. Tracks that inspired the Marty Supreme soundtrack, curated by director Josh Safdie—plus the original soundtrack and score\. In theaters now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,995 likes - 70 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,772 likes - 70 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZGHXujRpFTl.md) - [plain]
 | 69 | [Coney Island Baby](https://open.spotify.com/track/0ivHDucXMbjTjiU4lMIkBO) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Coney Island Baby](https://open.spotify.com/album/3Kawndiz86cIHkPsKtFiKx) | 6:34 |
 | 70 | [Dreams Never End \- 2015 Remaster](https://open.spotify.com/track/32TKQVwtSGCHIqmbmaNdFj) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Movement](https://open.spotify.com/album/2DI73ocB6x1ExxoJbT4QI8) | 3:15 |
 
-Snapshot ID: `AAAAAEePPDI+0RclxpPeoK7FVhPjTJkR`
+Snapshot ID: `AAAAAEyHNi+1sxrY03V59Bwcp46gLZfq`

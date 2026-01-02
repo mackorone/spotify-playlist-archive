@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJzNR1J5ygQ.md) - [plain]
 
 > It's a Midwest thing\. Cover: Bone Thugs\-n\-Harmony
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,120 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,154 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJzNR1J5ygQ.md) - [plain]
 | 43 | [So Far to Go](https://open.spotify.com/track/4omO3Xwm4REEK5HGT6e6yY) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp), [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [The Shining](https://open.spotify.com/album/6hXXKsVVTfDbRTEuHaInI5) | 5:36 |
 | 44 | [Da B Side \(feat\. The Notorious B.I.G.\)](https://open.spotify.com/track/3VXdEVTbT6SLTrOLEX7MCr) | [Da Brat](https://open.spotify.com/artist/2I1bnmb9VQEQGKHxvr0gSf), [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [ANUTHAFUNKDAFIEDTANTRUM](https://open.spotify.com/album/5LWxqzlSbXfA5M0lQn1AX0) | 3:43 |
 | 45 | [E.I.](https://open.spotify.com/track/4bUfMNNmiCmPXVyWzIfKeZ) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Country Grammar](https://open.spotify.com/album/5v7Icroz1sQsK2sQyLrWzE) | 4:45 |
-| 46 | [Mayor](https://open.spotify.com/track/0RCWpO545M8IHW0juJa2Vq) | [Pac Div](https://open.spotify.com/artist/5504Qqp7s40bqBqzWMEByl) | [Church League Champions](https://open.spotify.com/album/2abAGLwoZI3reElWH69RLm) | 4:25 |
+| 46 | [Mayor](https://open.spotify.com/track/0RCWpO545M8IHW0juJa2Vq) | [Pac Div](https://open.spotify.com/artist/7pLGUPhLUySUQBFc687fp4) | [Church League Champions](https://open.spotify.com/album/2abAGLwoZI3reElWH69RLm) | 4:25 |
 | 47 | [Shake Ya Tailfeather \- Radio Edit](https://open.spotify.com/track/4TJduXYW1Pg96EDNnfiwxJ) | [Murphy Lee](https://open.spotify.com/artist/07W0YfsvHM7Mw7Bq48Mb0A), [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [Murphy's Law](https://open.spotify.com/album/5T75pyMyLZWKvDl6jFdi0F) | 4:55 |
 | 48 | [Jesus Walks](https://open.spotify.com/track/5g1vtHqi9uV7xtYeCcFOBx) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The College Dropout](https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F) | 3:13 |
 | 49 | [Like You \(feat\. Ciara\)](https://open.spotify.com/track/3jEqrIfwKO0M8ALu3TGilF) | [Bow Wow](https://open.spotify.com/artist/7352aRY2mqSxBZwzUb6LmA), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Wanted](https://open.spotify.com/album/65G0BpV00GmLi5WUCeWdvT) | 3:25 |

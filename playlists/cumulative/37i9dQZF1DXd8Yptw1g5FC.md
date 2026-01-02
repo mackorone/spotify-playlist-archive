@@ -2,7 +2,7 @@
 
 ### [New Music Friday Türkiye](https://open.spotify.com/playlist/37i9dQZF1DXd8Yptw1g5FC)
 
-> Bengü ve haftanın en iyi çıkışları!
+> Bu hafta kısa bir ara veriyoruz\. 9 Ocak'ta haftanın en iyi çıkışlarıyla görüşmek üzere!
 
 5,057 songs - 10 day 17 hr 13 min
 
